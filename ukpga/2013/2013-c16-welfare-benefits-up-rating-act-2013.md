@@ -1,0 +1,144 @@
+---
+title: "Welfare Benefits Up-rating Act 2013"
+identifier: "ukpga/2013/16"
+citation: "2013 c. 16"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S+N.I."
+date: 2013-03-26
+last_amended: 2014-11-26
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/2013/16"
+source_modified: 2015-03-19
+retrieved: 2026-10-11
+---
+
+# Welfare Benefits Up-rating Act 2013
+
+**2013 c. 16**
+
+An Act to make provision relating to the up-rating of certain social security benefits and tax credits.
+
+[26th March 2013]
+
+Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## 1 Up-rating of certain social security benefits for tax years 2014-15 and 2015-16
+
+(1) The Secretary of State must, in each of the tax years ending with 5 April 2014 and 5 April 2015, make an order by statutory instrument increasing each of the relevant sums by 1%.
+
+For the meaning of the “relevant sums” see paragraph 1 of the Schedule.
+
+(2) [[^F1]Subject to subsection (2A),]an order under this section must be framed so as to bring the variations to which it relates into force—
+
+(a) in the week beginning with the first Monday in the tax year following that in which the order is made, or
+
+(b) on an earlier date in April specified in the order;
+
+and the provision that may be made under this subsection includes provision bringing the variation in a particular sum into force on different dates for different purposes.
+
+[[^F2](2A) An order under this section shall be framed so that—
+
+(a) any variation of the relevant sums referred to in paragraphs 1(j) to (1) of the Schedule (sums specified under Part 1 of the Welfare Reform Act 2012) comes into force in relation to a person on the relevant day; and
+
+(b) any other variation to which the order relates comes into force, for the purposes of determining the amount of universal credit to which a person is entitled, on the relevant day.
+
+(2B) In subsection (2A) “relevant day”, in relation to a person, means the first day of the first universal credit assessment period in respect of the person which begins on or after—
+
+(a) the Monday of the week specified in subsection (2)(a), or
+
+(b) any earlier date specified under subsection (2)(b).
+
+(2C) In subsection (2B) “universal credit assessment period” means an assessment period for the purposes of Part 1 of the Welfare Reform Act 2012.]
+
+(3) The Secretary of State may, in providing for an increase under subsection (1), adjust the amount of the increase so as to round any sum up or down to the extent the Secretary of State thinks appropriate.
+
+(4) After making an order under this section, the Secretary of State must lay before Parliament a copy of a report by the Government Actuary or the Deputy Government Actuary giving that Actuary's opinion on the likely effect on the National Insurance Fund of the parts of the order that relate to sums payable out of the Fund.
+
+(5) Subsection (1) does not apply in relation to a tax year if, on the review in that tax year under section 150(1) of the Social Security Administration Act 1992, the Secretary of State determines that the general level of prices in Great Britain has not increased, or has increased by less than 1%, over the period under review.
+
+(6) Where subsection (1) applies in relation to a tax year, the draft of any up-rating order laid before Parliament by virtue of the review in that tax year under section 150(1) of the Social Security Administration Act 1992 must not include provision increasing any of the relevant sums.
+
+(7) In this section a reference to the Secretary of State, in relation to the sums mentioned in section 150(1)(i) of the Social Security Administration Act 1992, is a reference to the Treasury.
+
+(8) A reference in any enactment, other than this Act and sections 189 and 190 of the Social Security Administration Act 1992, to an order under section 150 of that Act includes a reference to an order under this section.
+
+(9) Nothing in section 166 of the Social Security Administration (Northern Ireland) Act 1992 applies in relation to an order made by the Treasury under section 132 of that Act which corresponds to an order made under this section.
+
+## 2 Up-rating of tax credits for tax years 2014-15 and 2015-16
+
+(1) The Treasury must, in each of the tax years ending with 5 April 2014 and 5 April 2015, make an order by statutory instrument increasing each of the relevant amounts by 1%.
+
+For the meaning of the “relevant amounts” see paragraph 2 of the Schedule.
+
+(2) An order under this section must be framed so that it has effect in relation to awards of tax credits for the tax year following that in which the order is made.
+
+(3) The Treasury may, in providing for an increase under subsection (1), adjust the amount of the increase so as to round any amount up or down to the extent the Treasury think appropriate.
+
+(4) Subsection (1) does not apply in relation to a tax year if, on the review in that tax year under section 41 of the Tax Credits Act 2002, the Treasury determine that the general level of prices in the United Kingdom has not increased, or has increased by less than 1%, over the period under review.
+
+(5) Where subsection (1) applies in relation to a tax year, the Treasury must not exercise any other power to vary any of the relevant amounts if that variation would take effect in relation to awards of tax credits for the tax year following that in which the order is made.
+
+## 3 Short title, interpretation, commencement and extent
+
+(1) This Act may be cited as the Welfare Benefits Up-rating Act 2013.
+
+(2) In this Act “tax year” means a period beginning with 6 April in one year and ending with 5 April in the next.
+
+(3) This section comes into force on the day on which this Act is passed.
+
+(4) The other provisions of this Act come into force on such day as the Secretary of State or the Treasury may by order made by statutory instrument appoint; and different days may be appointed for different purposes.
+
+(5) Section 1(1) to (7) and paragraph 1 of the Schedule extend to England and Wales and Scotland only.
+
+(6) Section 1(9) extends to Northern Ireland only.
+
+(7) The other provisions of this Act extend to England and Wales, Scotland and Northern Ireland.
+
+## SCHEDULE — Meaning of the “relevant sums” and the “relevant amounts”
+
+*Sections 1 and 2*
+
+### The “relevant sums” for the purposes of section 1
+
+**1** The “relevant sums” for the purposes of section 1 are the sums—
+
+(a) specified in paragraph 1 of Schedule 2 to the Income Support (General) Regulations 1987 (S.I. 1987/1967);
+
+(b) specified in paragraph 1 of Schedule 3 to the Housing Benefit Regulations 2006 (S.I. 2006/213);
+
+(c) mentioned in section 150(1)(i) and (j) of the Social Security Administration Act 1992;
+
+(d) specified in regulations under section 4(2) of the Jobseekers Act 1995;
+
+(e) specified in paragraph 1 of Schedule 1 to the Jobseeker's Allowance Regulations 1996 (S.I. 1996/207);
+
+(f) specified in regulations under section 2(1)(a) of the Welfare Reform Act 2007;
+
+(g) specified in regulations under section 2(4)(c) of the Welfare Reform Act 2007, so far as relating to the component under section 2(3) of that Act;
+
+(h) specified in paragraph 1 of Schedule 4 to the Employment and Support Allowance Regulations 2008 (S.I. 2008/794);
+
+(i) specified in regulations under section 4(6)(c) of the Welfare Reform Act 2007, so far as relating to the component under section 4(5) of that Act;
+
+(j) specified in regulations under section 9(2) of the Welfare Reform Act 2012;
+
+(k) specified in regulations under section 10(3) of the Welfare Reform Act 2012 in respect of an amount to be included under section 10(2) of that Act (but where more than one sum is so specified, only the smaller or smallest of those sums is a “relevant sum”);
+
+(l) specified in regulations under section 12(3) of the Welfare Reform Act 2012 in respect of needs or circumstances of a claimant prescribed by virtue of section 12(2)(a) of that Act (but not in respect of needs or circumstances prescribed by virtue of section 12(2)(b)).
+
+### The “relevant amounts” for the purposes of section 2
+
+**2** The “relevant amounts” for the purposes of section 2 are the monetary amounts—
+
+(a) specified in Schedule 2 to the Working Tax Credit (Entitlement and Maximum Rate) Regulations 2002 (S.I. 2002/2005) for the basic element, the 30 hour element, the second adult element and the lone parent element;
+
+(b) specified in regulation 7(4)(c) and (f) of the Child Tax Credit Regulations 2002 (S.I. 2002/2007).
+
+---
+
+[^F1]: Words in s. 1(2) inserted (26.11.2014) by The Universal Credit and Miscellaneous Amendments (No.2) Regulations 2014 (S.I. 2014/2888), regs. 1(1), 7(2)(a)(i)
+[^F2]: S. 1(2A-2C) inserted (26.11.2014) by The Universal Credit and Miscellaneous Amendments (No.2) Regulations 2014 (S.I. 2014/2888), regs. 1(1), 7(2)(a)(ii)

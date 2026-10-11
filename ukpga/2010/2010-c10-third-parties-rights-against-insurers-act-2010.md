@@ -1,0 +1,946 @@
+---
+title: "Third Parties (Rights against Insurers) Act 2010"
+identifier: "ukpga/2010/10"
+citation: "2010 c. 10"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S+N.I."
+date: 2010-03-25
+last_amended: 2024-01-04
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/2010/10"
+source_modified: 2024-05-18
+retrieved: 2026-10-11
+---
+
+# Third Parties (Rights against Insurers) Act 2010
+
+**2010 c. 10**
+
+An Act to make provision about the rights of third parties against insurers of liabilities to third parties in the case where the insured is insolvent, and in certain other cases.
+
+[25th March 2010]
+
+Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## Transfer of rights to third parties
+
+### 1 Rights against insurer of insolvent person etc
+
+(1) This section applies if—
+
+(a) a relevant person incurs a liability against which that person is insured under a contract of insurance, or
+
+(b) a person who is subject to such a liability becomes a relevant person.
+
+(2) The rights of the relevant person under the contract against the insurer in respect of the liability are transferred to and vest in the person to whom the liability is or was incurred (the “third party”).
+
+(3) The third party may bring proceedings to enforce the rights against the insurer without having established the relevant person's liability; but the third party may not enforce those rights without having established that liability.
+
+(4) For the purposes of this Act, a liability is established only if its existence and amount are established; and, for that purpose, “establish” means establish—
+
+(a) by virtue of a declaration under section 2 or a declarator under section 3,
+
+(b) by a judgment or decree,
+
+(c) by an award in arbitral proceedings or by an arbitration, or
+
+(d) by an enforceable agreement.
+
+(5) In this Act—
+
+(a) references to an “insured” are to a person who incurs or who is subject to a liability to a third party against which that person is insured under a contract of insurance;
+
+(b) references to a “relevant person” are to a person within sections 4 to 7 [[^F1](and see also paragraph 1A of Schedule 3) ];
+
+(c) references to a “third party” are to be construed in accordance with subsection (2);
+
+(d) references to “transferred rights” are to rights under a contract of insurance which are transferred under this section.
+
+### 2 Establishing liability in England and Wales and Northern Ireland
+
+(1) This section applies where a person (P)—
+
+(a) claims to have rights under a contract of insurance by virtue of a transfer under section 1, but
+
+(b) has not yet established the insured's liability which is insured under that contract.
+
+(2) P may bring proceedings against the insurer for either or both of the following—
+
+(a) a declaration as to the insured's liability to P;
+
+(b) a declaration as to the insurer's potential liability to P.
+
+(3) In such proceedings P is entitled, subject to any defence on which the insurer may rely, to a declaration under subsection (2)(a) or (b) on proof of the insured's liability to P or (as the case may be) the insurer's potential liability to P.
+
+(4) Where proceedings are brought under subsection (2)(a) the insurer may rely on any defence on which the insured could rely if those proceedings were proceedings brought against the insured in respect of the insured's liability to P.
+
+(5) Subsection (4) is subject to section 12(1).
+
+(6) Where the court makes a declaration under this section, the effect of which is that the insurer is liable to P, the court may give the appropriate judgment against the insurer.
+
+(7) Where a person applying for a declaration under subsection (2)(b) is entitled or required, by virtue of the contract of insurance, to do so in arbitral proceedings, that person may also apply in the same proceedings for a declaration under subsection (2)(a).
+
+(8) In the application of this section to arbitral proceedings, subsection (6) is to be read as if “ tribunal ” were substituted for “court” and “ make the appropriate award ” for “give the appropriate judgment”.
+
+(9) When bringing proceedings under subsection (2)(a), P may also make the insured a defendant to those proceedings.
+
+(10) If (but only if) the insured is a defendant to proceedings under this section (whether by virtue of subsection (9) or otherwise), a declaration under subsection (2) binds the insured as well as the insurer.
+
+(11) In this section, references to the insurer's potential liability to P are references to the insurer's liability in respect of the insured's liability to P, if established.
+
+### 3 Establishing liability in Scotland
+
+(1) This section applies where a person (P)—
+
+(a) claims to have rights under a contract of insurance by virtue of a transfer under section 1, but
+
+(b) has not yet established the insured's liability which is insured under that contract.
+
+(2) P may bring proceedings against the insurer for either or both of the following—
+
+(a) a declarator as to the insured's liability to P;
+
+(b) a declarator as to the insurer's potential liability to P.
+
+(3) Where proceedings are brought under subsection (2)(a) the insurer may rely on any defence on which the insured could rely if those proceedings were proceedings brought against the insured in respect of the insured's liability to P.
+
+(4) Subsection (3) is subject to section 12(1).
+
+(5) Where the court grants a declarator under this section, the effect of which is that the insurer is liable to P, the court may grant the appropriate decree against the insurer.
+
+(6) Where a person applying for a declarator under subsection (2)(b) is entitled or required, by virtue of the contract of insurance, to do so in an arbitration, that person may also apply in the same arbitration for a declarator under subsection (2)(a).
+
+(7) In the application of this section to an arbitration, subsection (5) is to be read as if “ tribunal ” were substituted for “court” and “ make the appropriate award ” for “grant the appropriate decree”.
+
+(8) When bringing proceedings under subsection (2)(a), P may also make the insured a defender to those proceedings.
+
+(9) If (but only if) the insured is a defender to proceedings under this section (whether by virtue of subsection (8) or otherwise), a declarator under subsection (2) binds the insured as well as the insurer.
+
+(10) In this section, the reference to the insurer's potential liability to P is a reference to the insurer's liability in respect of the insured's liability to P, if established.
+
+## Relevant persons
+
+### 4 Individuals
+
+(1) An individual is a relevant person if any of the following is in force in respect of that individual in England and Wales—
+
+[^F2]a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) an administration order made under Part 6 of the County Courts Act 1984,
+
+(c) an enforcement restriction order made under Part 6A of that Act,
+
+(d) subject to subsection (4), a debt relief order made under Part 7A of the Insolvency Act 1986,
+
+(e) a voluntary arrangement approved in accordance with Part 8 of that Act, or
+
+(f) a bankruptcy order made under Part 9 of that Act.
+
+(2) An individual is a relevant person if [[^F3]either] of the following is in force in respect of [[^F4]the individual’s estate] in Scotland—
+
+(a) an award of sequestration made [[^F5]by virtue of section 2 or 5 of the Bankruptcy (Scotland) Act 2016], [[^F6]or]
+
+(b) a protected trust deed within the meaning of that Act, [^F7]...
+
+[^F7]c . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) An individual is a relevant person if any of the following is in force in respect of that individual in Northern Ireland—
+
+(a) an administration order made under Part 6 of the Judgments Enforcement (Northern Ireland) Order 1981 (S.I. 1981/226 (N.I. 6)),
+
+(b) a deed of arrangement registered in accordance with Chapter 1 of Part 8 of the Insolvency (Northern Ireland) Order 1989 (S.I. 1989/2405 (N.I. 19)),
+
+[[^F8](ba) subject to subsection (4), a debt relief order made under Part 7A of that Order,]
+
+(c) a voluntary arrangement approved under Chapter 2 of Part 8 of that Order, or
+
+(d) a bankruptcy order made under Part 9 of that Order.
+
+(4) If an individual is a relevant person by virtue of subsection (1)(d) [[^F9]or (3)(ba)], that person is a relevant person for the purposes of section 1(1)(b) only.
+
+(5) Where an award of sequestration made [[^F10]by virtue of section 2 or 5 of the Bankruptcy (Scotland) Act 2016] is recalled or reduced, any rights which were transferred under section 1 as a result of that award are re-transferred to and vest in the person who became a relevant person as a result of the award.
+
+[^F11]6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 5 Individuals who die insolvent
+
+(1) An individual who dies insolvent is a relevant person for the purposes of section 1(1)(b) only.
+
+(2) For the purposes of this section an individual (D) is to be regarded as having died insolvent if, following D's death—
+
+(a) D's estate falls to be administered in accordance with an order under section 421 of the Insolvency Act 1986 or Article 365 of the Insolvency (Northern Ireland) Order 1989 (S.I. 1989/2405 (N. I. 19)),
+
+(b) an award of sequestration is made [[^F12]by virtue of section 2 or 5 of the Bankruptcy (Scotland) Act 2016] in respect of D's estate and the award is not recalled or reduced, or
+
+(c) a judicial factor is appointed under section 11A of the Judicial Factors (Scotland) Act 1889 in respect of D's estate and the judicial factor certifies that the estate is absolutely insolvent within the meaning of the Bankruptcy (Scotland) Act [[^F13]2016].
+
+(3) Where a transfer of rights under section 1 takes place as a result of an insured person being a relevant person by virtue of this section, references in this Act to an insured are, where the context so requires, to be read as references to the insured's estate.
+
+### 6 Corporate bodies etc
+
+[[^F14](1) A body corporate or unincorporated body is a relevant person if a compromise or arrangement between the body and its creditors (or a class of them) is in force, having been sanctioned in accordance with section 899 [[^F15]or 901F] of the Companies Act 2006.]
+
+(2) A body corporate or an unincorporated body is a relevant person if, in England and Wales or Scotland—
+
+(a) a voluntary arrangement approved in accordance with Part 1 of the Insolvency Act 1986 is in force in respect of it,
+
+[[^F16](b) the body is in administration under Schedule B1 to that Act,]
+
+(c) there is a person appointed in accordance with Part 3 of that Act who is acting as receiver or manager of the body's property (or there would be such a person so acting but for a temporary vacancy),
+
+(d) the body is, or is being, wound up voluntarily in accordance with Chapter 2 of Part 4 of that Act,
+
+(e) there is a person appointed under section 135 of that Act who is acting as provisional liquidator in respect of the body (or there would be such a person so acting but for a temporary vacancy), or
+
+(f) the body is, or is being, wound up by the court following the making of a winding-up order under Chapter 6 of Part 4 of that Act or Part 5 of that Act.
+
+(3) A body corporate or an unincorporated body is a relevant person if, in Scotland—
+
+(a) an award of sequestration has been made [[^F17]by virtue of section 6 of the Bankruptcy (Scotland) Act 2016] in respect of the body's estate, and the body has not been discharged under that Act,
+
+(b) the body has been dissolved and an award of sequestration has been made [[^F18]by virtue of] that section in respect of its estate, [[^F19]or]
+
+(c) a protected trust deed within the meaning of the Bankruptcy (Scotland) Act [[^F20]2016] is in force in respect of the body's estate, [^F21]...
+
+[^F21]d . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) A body corporate or an unincorporated body is a relevant person if, in Northern Ireland—
+
+(a) a voluntary arrangement approved in accordance with Part 2 of the Insolvency (Northern Ireland) Order 1989 (S.I. 1989/2405 (N. I. 19)) is in force in respect of the body,
+
+[[^F22](b) the body is in administration under Schedule B1 to that Order,]
+
+(c) there is a person appointed in accordance with Part 4 of that Order who is acting as receiver or manager of the body's property (or there would be such a person so acting but for a temporary vacancy),
+
+(d) the body is, or is being, wound up voluntarily in accordance with Chapter 2 of Part 5 of that Order,
+
+(e) there is a person appointed under Article 115 of that Order who is acting as provisional liquidator in respect of the body (or there would be such a person so acting but for a temporary vacancy), or
+
+(f) the body is, or is being, wound up by the court following the making of a winding-up order under Chapter 6 of Part 5 of that Order or Part 6 of that Order.
+
+[[^F23](4A) A body corporate or unincorporated body is a relevant person if it is in insolvency under Part 2 of the Banking Act 2009.
+
+(4B) A body corporate or unincorporated body is a relevant person if it is in administration under relevant sectoral legislation as defined in Schedule A1.]
+
+(5) A body within [[^F24]subsection (1)] is not a relevant person in relation to a liability that is transferred to another body by the order sanctioning the compromise or arrangement.
+
+(6) Where a body is a relevant person by virtue of [[^F25]subsection (1)], section 1 has effect to transfer rights only to a person on whom the compromise or arrangement is binding.
+
+(7) Where an award of sequestration made [[^F26]by virtue of section 6 of the Bankruptcy (Scotland) Act 2016] is recalled or reduced, any rights which were transferred under section 1 as a result of that award are re-transferred to and vest in the person who became a relevant person as a result of the award.
+
+[^F27]8 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(9) In this section—
+
+(a) a reference to a person appointed in accordance with Part 3 of the Insolvency Act 1986 includes a reference to a person appointed under section 101 of the Law of Property Act 1925;
+
+(b) a reference to a receiver or manager of a body's property includes a reference to a receiver or manager of part only of the property and to a receiver only of the income arising from the property or from part of it;
+
+(c) for the purposes of subsection (3) “body corporate or unincorporated body” includes any entity, other than a trust, the estate of which may be sequestrated [[^F28]by virtue of section 6 of the Bankruptcy (Scotland) Act 2016];
+
+(d) a reference to a person appointed in accordance with Part 4 of the Insolvency (Northern Ireland) Order 1989 (S.I. 1989/2405 (N. I. 19)) includes a reference to a person appointed under section 19 of the Conveyancing Act 1881.
+
+### 6A [[^F29]Corporate bodies etc that are dissolved
+
+(1) A body corporate or unincorporated body is a relevant person if the body has been dissolved, subject to the exceptions in subsections (2) and (3).
+
+(2) The body is not a relevant person by virtue of subsection (1) if, since it was dissolved (or, if it has been dissolved more than once, since it was last dissolved), something has happened which has the effect that the body is treated as not having been dissolved or as no longer being dissolved.
+
+(3) Subsection (1) applies to a partnership only if it is a body corporate.
+
+(4) For the purposes of this section, “dissolved” means dissolved under the law of England and Wales, Scotland or Northern Ireland (whether or not by a process referred to as dissolution).]
+
+### 7 Scottish trusts
+
+(1) A trustee of a Scottish trust is, in respect of a liability of that trustee that falls to be met out of the trust estate, a relevant person if—
+
+(a) an award of sequestration has been made [[^F30]by virtue of section 6 of the Bankruptcy (Scotland) Act 2016] in respect of the trust estate, and the trust has not been discharged under that Act, [[^F31]or]
+
+(b) a protected trust deed within the meaning of that Act is in force in respect of the trust estate, [^F32]...
+
+[^F32]c . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) Where an award of sequestration made [[^F33]by virtue of section 6 of the Bankruptcy (Scotland) Act 2016] is recalled or reduced any rights which were transferred under section 1 as a result of that award are re-transferred to and vest in the person who became a relevant person as a result of the award.
+
+[^F34]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) In this section “Scottish trust” means a trust the estate of which may be sequestrated [[^F35]by virtue of section 6 of the Bankruptcy (Scotland) Act 2016].
+
+## Transferred rights: supplemental
+
+### 8 Limit on rights transferred
+
+Where the liability of an insured to a third party is less than the liability of the insurer to the insured (ignoring the effect of section 1), no rights are transferred under that section in respect of the difference.
+
+### 9 Conditions affecting transferred rights
+
+(1) This section applies where transferred rights are subject to a condition (whether under the contract of insurance from which the transferred rights are derived or otherwise) that the insured has to fulfil.
+
+(2) Anything done by the third party which, if done by the insured, would have amounted to or contributed to fulfilment of the condition is to be treated as if done by the insured.
+
+(3) The transferred rights are not subject to a condition requiring the insured to provide information or assistance to the insurer if that condition cannot be fulfilled because the insured is—
+
+(a) an individual who has died, [^F36]...
+
+(b) a body corporate that has been dissolved[[^F37], or
+
+(c) an unincorporated body, other than a partnership, that has been dissolved.]
+
+(4) A condition requiring the insured to provide information or assistance to the insurer does not include a condition requiring the insured to notify the insurer of the existence of a claim under the contract of insurance.
+
+(5) The transferred rights are not subject to a condition requiring the prior discharge by the insured of the insured's liability to the third party.
+
+(6) In the case of a contract of marine insurance, subsection (5) applies only to the extent that the liability of the insured is a liability in respect of death or personal injury.
+
+(7) In this section—
+
+- “contract of marine insurance” has the meaning given by section 1 of the Marine Insurance Act 1906;
+- [^F38]...
+- “personal injury” includes any disease and any impairment of a person's physical or mental condition.
+
+[[^F39](8) For the purposes of this section—
+
+(a) “dissolved” means dissolved under the law of England and Wales, Scotland or Northern Ireland (whether or not by a process referred to as dissolution), and
+
+(b) a body has been dissolved even if, since it was dissolved, something has happened which has the effect that (but for this paragraph) the body is treated as not having been dissolved or as no longer being dissolved.]
+
+### 10 Insurer's right of set off
+
+(1) This section applies if—
+
+(a) rights of an insured under a contract of insurance have been transferred to a third party under section 1,
+
+(b) the insured is under a liability to the insurer under the contract (“the insured's liability”), and
+
+(c) if there had been no transfer, the insurer would have been entitled to set off the amount of the insured's liability against the amount of the insurer's own liability to the insured.
+
+(2) The insurer is entitled to set off the amount of the insured's liability against the amount of the insurer's own liability to the third party in relation to the transferred rights.
+
+## Provision of information etc
+
+### 11 Information and disclosure for third parties
+
+Schedule 1 (information and disclosure for third parties) has effect.
+
+## Enforcement of transferred rights
+
+### 12 Limitation and prescription
+
+(1) Subsection (2) applies where a person brings proceedings for a declaration under section 2(2)(a), or for a declarator under section 3(2)(a), and the proceedings are started or, in Scotland, commenced—
+
+(a) after the expiry of a period of limitation applicable to an action against the insured to enforce the insured's liability, or of a period of prescription applicable to that liability, but
+
+(b) while such an action is in progress.
+
+(2) The insurer may not rely on the expiry of that period as a defence unless the insured is able to rely on it in the action against the insured.
+
+(3) For the purposes of subsection (1), an action is to be treated as no longer in progress if it has been concluded by a judgment or decree, or by an award, even if there is an appeal or a right of appeal.
+
+(4) Where a person who has already established an insured's liability to that person brings proceedings under this Act against the insurer, nothing in this Act is to be read as meaning—
+
+(a) that, for the purposes of the law of limitation in England and Wales, that person's cause of action against the insurer arose otherwise than at the time when that person established the liability of the insured,
+
+(b) that, for the purposes of the law of prescription in Scotland, the obligation in respect of which the proceedings are brought became enforceable against the insurer otherwise than at that time, or
+
+(c) that, for the purposes of the law of limitation in Northern Ireland, that person's cause of action against the insurer arose otherwise than at the time when that person established the liability of the insured.
+
+### 13 Jurisdiction within the United Kingdom
+
+(1) Where a person (P) domiciled in a part of the United Kingdom is entitled to bring proceedings under this Act against an insurer domiciled in another part, P may do so in the part where P is domiciled or in the part where the insurer is domiciled (whatever the contract of insurance may stipulate as to where proceedings are to be brought).
+
+(2) The following provisions of the Civil Jurisdiction and Judgments Act 1982 (relating to determination of domicile) apply for the purposes of subsection (1)—
+
+(a) section 41(2), (3), (5) and (6) (individuals);
+
+(b) section 42(1), (3), (4) and (8) (corporations and associations);
+
+(c) section 45(2) and (3) (trusts);
+
+(d) section 46(1), (3) and (7) (the Crown).
+
+(3) In Schedule 5 to that Act (proceedings excluded from general provisions as to allocation of jurisdiction within the United Kingdom) at the end add—
+
+> **11 Proceedings by third parties against insurers**
+>
+> Proceedings under the Third Parties (Rights against Insurers) Act 2010.
+
+## Enforcement of insured's liability
+
+### 14 Effect of transfer on insured's liability
+
+(1) Where rights in respect of an insured's liability to a third party are transferred under section 1, the third party may enforce that liability against the insured only to the extent (if any) that it exceeds the amount recoverable from the insurer by virtue of the transfer.
+
+(2) Subsection (3) applies if a transfer of rights under section 1 occurs because the insured person is a relevant person by virtue of—
+
+(a) section 4(1)(a) or (e), (2)(b) or (3)(b) or (c),
+
+(b) section [[^F40]6(1)], (2)(a), (3)(c) or (4)(a), or
+
+(c) section 7(1)(b).
+
+(3) If the liability is subject to the arrangement, trust deed or compromise by virtue of which the insured is a relevant person, the liability is to be treated as subject to that arrangement, trust deed or compromise only to the extent that the liability exceeds the amount recoverable from the insurer by virtue of the transfer.
+
+[^F41]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F41]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6) For the purposes of this section the amount recoverable from the insurer does not include any amount that the third party is unable to recover as a result of—
+
+(a) a shortage of assets on the insurer's part, in a case where the insurer is a relevant person, or
+
+(b) a limit set by the contract of insurance on the fund available to meet claims in respect of a particular description of liability of the insured.
+
+(7) Where a third party is eligible to make a claim in respect of the insurer's liability under or by virtue of rules made under Part 15 of the Financial Services and Markets Act 2000 (the Financial Services Compensation Scheme)—
+
+(a) subsection (6)(a) applies only if the third party has made such a claim, and
+
+(b) the third party is to be treated as being able to recover from the insurer any amount paid to, or due to, the third party as a result of the claim.
+
+## Application of Act
+
+### 15 Reinsurance
+
+This Act does not apply to a case where the liability referred to in section 1(1) is itself a liability incurred by an insurer under a contract of insurance.
+
+### 16 Voluntarily-incurred liabilities
+
+It is irrelevant for the purposes of section 1 whether or not the liability of the insured is or was incurred voluntarily.
+
+### 17 Avoidance
+
+(1) A contract of insurance to which this section applies is of no effect in so far as it purports, whether directly or indirectly, to avoid or terminate the contract or alter the rights of the parties under it in the event of the insured—
+
+(a) becoming a relevant person, or
+
+(b) dying insolvent (within the meaning given by section 5(2)).
+
+(2) A contract of insurance is one to which this section applies if the insured's rights under it are capable of being transferred under section 1.
+
+### 18 Cases with a foreign element
+
+Except as expressly provided, the application of this Act does not depend on whether there is a connection with a part of the United Kingdom; and in particular it does not depend on—
+
+(a) whether or not the liability (or the alleged liability) of the insured to the third party was incurred in, or under the law of, England and Wales, Scotland or Northern Ireland;
+
+(b) the place of residence or domicile of any of the parties;
+
+(c) whether or not the contract of insurance (or a part of it) is governed by the law of England and Wales, Scotland or Northern Ireland;
+
+(d) the place where sums due under the contract of insurance are payable.
+
+## Supplemental
+
+### 19 [[^F42]Power to change the meaning of “relevant person”
+
+(1) The Secretary of State may by regulations make provision adding or removing circumstances in which a person is a “ relevant person ” for the purposes of this Act, subject to subsection (2).
+
+(2) Regulations under this section may add circumstances only if, in the Secretary of State's opinion, the additional circumstances—
+
+(a) involve actual or anticipated dissolution of a body corporate or an unincorporated body,
+
+(b) involve actual or anticipated insolvency or other financial difficulties for an individual, a body corporate or an unincorporated body, or
+
+(c) are similar to circumstances for the time being described in sections 4 to 7.
+
+(3) Regulations under this section may make provision about—
+
+(a) the persons to whom, and the extent to which, rights are transferred under section 1 in the circumstances added or removed by the regulations (the “ affected circumstances ” ),
+
+(b) the re-transfer of rights transferred under section 1 where the affected circumstances change, and
+
+(c) the effect of a transfer of rights under section 1 on the liability of the insured in the affected circumstances.
+
+(4) Regulations under this section which add or remove circumstances involving actual or anticipated dissolution of a body corporate or unincorporated body may change the cases in which the following provisions apply so that they include or exclude cases involving that type of dissolution or any other type of dissolution of a body—
+
+(a) section 9(3) (cases in which transferred rights are not subject to a condition requiring the insured to provide information or assistance to the insurer), and
+
+(b) paragraph 3 of Schedule 1 (notices requiring disclosure).
+
+(5) Regulations under this section which add circumstances may provide that section 1 of this Act applies in cases involving those circumstances in which either or both of the following occurred in relation to a person before the day on which the regulations come into force—
+
+(a) the circumstances arose in relation to the person;
+
+(b) a liability against which the person was insured under an insurance contract was incurred.
+
+(6) Regulations under this section which—
+
+(a) add circumstances, and
+
+(b) provide that section 1 of this Act applies in a case involving those circumstances in which both of the events mentioned in subsection (5)(a) and (b) occurred in relation to a person before the day on which the regulations come into force,
+
+must provide that, in such a case, the person is to be treated for the purposes of this Act as not having become a relevant person until that day or a later day specified in the regulations.
+
+(7) Regulations under this section which remove circumstances may provide that section 1 of this Act does not apply in cases involving those circumstances in which one of the events mentioned in subsection (5)(a) and (b) (but not both) occurred in relation to a person before the day on which the regulations come into force.
+
+(8) Regulations under this section may—
+
+(a) include consequential, incidental, supplementary, transitional, transitory or saving provision,
+
+(b) make different provision for different purposes, and
+
+(c) make provision by reference to an enactment as amended, extended or applied from time to time,
+
+(and subsections (3) to (7) are without prejudice to the generality of this subsection).
+
+(9) Regulations under this section may amend an enactment, whenever passed or made, including this Act.
+
+(10) Regulations under this section are to be made by statutory instrument.
+
+(11) Regulations under this section may not be made unless a draft of the statutory instrument containing the regulations has been laid before, and approved by a resolution of, each House of Parliament.]
+
+### 19A [[^F43]Interpretation
+
+(1) The references to enactments in sections 4 to 7 [^F44]... [^F45]... [[^F46], Schedule A1 and paragraph 3(2)(b)] of Schedule 1 are to be treated as including references to those enactments as amended, extended or applied by another enactment, whenever passed or made, unless the contrary intention appears.
+
+(2) In this Act, “enactment” means an enactment contained in, or in an instrument made under, any of the following—
+
+(a) an Act;
+
+(b) an Act or Measure of the National Assembly for Wales;
+
+(c) an Act of the Scottish Parliament;
+
+(d) Northern Ireland legislation.]
+
+### 20 Amendments, transitionals, repeals, etc
+
+(1) Schedule 2 (amendments) has effect.
+
+(2) Schedule 3 (transitory, transitional and saving provisions) has effect.
+
+(3) Schedule 4 (repeals and revocations) has effect.
+
+### 21 Short title, commencement and extent
+
+(1) This Act may be cited as the Third Parties (Rights against Insurers) Act 2010.
+
+(2) This Act comes into force on such day as the Secretary of State may by order made by statutory instrument appoint.
+
+(3) This Act extends to England and Wales, Scotland and Northern Ireland, subject as follows.
+
+(4) Section 2 and paragraphs 3 and 4 of Schedule 1 do not extend to Scotland.
+
+(5) Section 3 extends to Scotland only.
+
+(6) Any amendment, repeal or revocation made by this Act has the same extent as the provision to which it relates.
+
+## [[^F47]SCHEDULE A1 — Administration under relevant sectoral legislation
+
+*Section 6(4B)*
+
+For the purposes of section 6(4B)—
+
+(a) a body is in administration under relevant sectoral legislation if the appointment of an administrator of the body under an enactment listed below has effect, and
+
+(b) the body does not cease to be in administration merely because an administrator vacates office (by reason of resignation, death or otherwise) or is removed from office.
+
+### List of Enactments
+
+#### Aviation
+
+Chapter 1 of Part 1 of the Transport Act 2000
+
+#### Energy
+
+Chapter 3 of Part 3 of the Energy Act 2004
+
+Chapter 5 of Part 2 of the Energy Act 2011
+
+Part 2 of the Energy Act (Northern Ireland) 2011 (c.6 (N.I.))
+
+#### Financial Services
+
+Part 2 of the Insolvency Act 1986 (as it has effect by virtue of section 249 of the Enterprise Act 2002), as applied by Schedule 15A to the Building Societies Act 1986
+
+Part 3 of the Insolvency (Northern Ireland) Order 1989 (S.I. 1989/2405 (N.I.19)) (as it has effect by virtue of article 4 of the Insolvency (Northern Ireland) Order 2005 (S.I. 2005/1455 (N.I.10))), as applied by Schedule 15A to the Building Societies Act 1986
+
+Part 3 of the Banking Act 2009
+
+Investment Bank Special Administration Regulations 2011 (S.I. 2011/245)
+
+Part 6 of the Financial Services (Banking Reform) Act 2013
+
+[[^F48]Payment and Electronic Money Institution Insolvency Regulations 2021 (S.I. 2021/716)]
+
+#### Postal Services
+
+Part 4 of the Postal Services Act 2011
+
+#### Railways
+
+Part 1 of the Railways Act 1993
+
+Chapter 7 of Part 4 of the Greater London Authority Act 1999
+
+#### Water and sewerage
+
+Chapter 2 of Part 2 of the Water Industry Act 1991
+
+Chapter 2 of Part 3 of the Water and Sewerage Services (Northern Ireland) Order 2006 (S.I. 2006/3336 (N.I. 21))]
+
+## SCHEDULE 1 — Information and disclosure for third parties
+
+*Section 11*
+
+### Notices requesting information
+
+**1** (1) If a person (A) reasonably believes that—
+
+(a) another person (B) has incurred a liability to A, and
+
+(b) B is a relevant person,
+
+A may, by notice in writing, request from B such information falling within sub-paragraph (3) as the notice specifies.
+
+(2) If a person (A) reasonably believes that—
+
+(a) a liability has been incurred to A,
+
+(b) the person who incurred the liability is insured against it under a contract of insurance,
+
+(c) rights of that person under the contract have been transferred to A under section 1, and
+
+(d) there is a person (C) who is able to provide information falling within sub-paragraph (3),
+
+A may, by notice in writing, request from C such information falling within that sub-paragraph as the notice specifies.
+
+(3) The following is the information that falls within this sub-paragraph—
+
+(a) whether there is a contract of insurance that covers the supposed liability or might reasonably be regarded as covering it;
+
+(b) if there is such a contract—
+
+(i) who the insurer is;
+
+(ii) what the terms of the contract are;
+
+(iii) whether the insured has been informed that the insurer has claimed not to be liable under the contract in respect of the supposed liability;
+
+(iv) whether there are or have been any proceedings between the insurer and the insured in respect of the supposed liability and, if so, relevant details of those proceedings;
+
+(v) in a case where the contract sets a limit on the fund available to meet claims in respect of the supposed liability and other liabilities, how much of it (if any) has been paid out in respect of other liabilities;
+
+(vi) whether there is a fixed charge to which any sums paid out under the contract in respect of the supposed liability would be subject.
+
+(4) For the purpose of sub-paragraph (3)(b)(iv), relevant details of proceedings are—
+
+(a) in the case of court proceedings—
+
+(i) the name of the court;
+
+(ii) the case number;
+
+(iii) the contents of all documents served in the proceedings in accordance with rules of court or orders made in the proceedings, and the contents of any such orders;
+
+(b) in the case of arbitral proceedings or, in Scotland, an arbitration—
+
+(i) the name of the arbitrator;
+
+(ii) information corresponding with that mentioned in paragraph (a)(iii).
+
+(5) In sub-paragraph (3)(b)(vi), in its application to Scotland, “fixed charge” means a fixed security within the meaning given by section 47(1) of the Bankruptcy and Diligence etc (Scotland) Act 2007 (asp 3).
+
+(6) A notice given by a person under this paragraph must include particulars of the facts on which that person relies as entitlement to give the notice.
+
+### Provision of information where notice given under paragraph 1
+
+**2** (1) A person (R) who receives a notice under paragraph 1 must, within the period of 28 days beginning with the day of receipt of the notice—
+
+(a) provide to the person who gave the notice any information specified in it that R is able to provide;
+
+(b) in relation to any such information that R is not able to provide, notify that person why R is not able to provide it.
+
+(2) Where—
+
+(a) a person (R) receives a notice under paragraph 1,
+
+(b) there is information specified in the notice that R is not able to provide because it is contained in a document that is not in R's control,
+
+(c) the document was at one time in R's control, and
+
+(d) R knows or believes that it is now in another person's control,
+
+R must, within the period of 28 days beginning with the day of receipt of the notice, provide the person who gave the notice with whatever particulars R can as to the nature of the information and the identity of that other person.
+
+(3) If R fails to comply with a duty imposed on R by this paragraph, the person who gave R the notice may apply to court for an order requiring R to comply with the duty.
+
+(4) No duty arises by virtue of this paragraph in respect of information as to which a claim to legal professional privilege or, in Scotland, to confidentiality as between client and professional legal adviser could be maintained in legal proceedings.
+
+### Notices requiring disclosure: [[^F49]bodies that have been dissolved]
+
+**3** (1) If—
+
+(a) a person (P) has started proceedings under this Act against an insurer in respect of a liability [^F50]...
+
+[[^F51](b) P claims the liability has been incurred to P by—
+
+(i) a body corporate, or
+
+(ii) an unincorporated body other than a partnership, and
+
+(c) the body has been dissolved,]
+
+P may by notice in writing require a person to whom sub-paragraph (2) applies to disclose to P any documents that are relevant to that liability.
+
+(2) This sub-paragraph applies to a person if—
+
+(a) immediately before the time of the alleged transfer under section 1, that person was an officer or employee of the body, or
+
+(b) immediately before the body [[^F52]was dissolved (or, if it has been dissolved more than once, immediately before it was last dissolved)], that person was—
+
+(i) acting as an insolvency practitioner in relation to the body (within the meaning given by section 388(1) of the Insolvency Act 1986 or Article 3 of the Insolvency (Northern Ireland) Order 1989 (S.I. 1989/2405 N.I. 19)), or
+
+(ii) acting as the official receiver in relation to the winding up of the body.
+
+(3) A notice under this paragraph must be accompanied by—
+
+(a) a copy of the particulars of claim required to be served in connection with the proceedings mentioned in sub-paragraph (1), or
+
+(b) where those proceedings are arbitral proceedings, the particulars of claim that would be required to be so served if they were court proceedings.
+
+[^F53]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F53]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[[^F54](6) For the purposes of this paragraph—
+
+(a) “dissolved” means dissolved under the law of England and Wales, Scotland or Northern Ireland (whether or not by a process referred to as dissolution), and
+
+(b) a body has been dissolved even if, since it was dissolved, something has happened which has the effect that (but for this paragraph) the body is treated as not having been dissolved or as no longer being dissolved.]
+
+### Disclosure and inspection where notice given under paragraph 3
+
+**4** (1) Subject to the provisions of this paragraph and to any necessary modifications—
+
+(a) the duties of disclosure of a person who receives a notice under paragraph 3, and
+
+(b) the rights of inspection of the person giving the notice,
+
+are the same as the corresponding duties and rights under Civil Procedure Rules of parties to court proceedings in which an order for standard disclosure has been made.
+
+(2) In sub-paragraph (1), in its application to Northern Ireland—
+
+(a) the reference to Civil Procedure Rules is—
+
+(i) in the case of proceedings in the High Court, to be read as a reference to the Rules of the Court of Judicature (Northern Ireland) 1980 (S.R. 1980 No. 346), and
+
+(ii) in the case of proceedings in the county court, to be read as a reference to the County Court Rules (Northern Ireland) 1981 (S.R. 1981 No. 225), and
+
+(b) the reference to an order for standard disclosure is to be read as a reference to an order for discovery.
+
+(3) A person who by virtue of sub-paragraph (1) or (2) has to serve a list of documents must do so within the period of 28 days beginning with the day of receipt of the notice.
+
+(4) A person who has received a notice under paragraph 3 and has served a list of documents in response to it is not under a duty of disclosure by reason of that notice in relation to documents that the person did not have when the list was served.
+
+### Avoidance
+
+**5** A contract of insurance is of no effect in so far as it purports, whether directly or indirectly—
+
+(a) to avoid or terminate the contract or alter the rights of the parties under it in the event of a person providing information, or giving disclosure, that the person is required to provide or give by virtue of a notice under paragraph 1 or 3, or
+
+(b) otherwise to prohibit, prevent or restrict a person from providing such information or giving such disclosure.
+
+### Other rights to information etc
+
+**6** Rights to information, or to inspection of documents, that a person has by virtue of paragraph 1 or 3 are in addition to any such rights as the person has apart from that paragraph.
+
+### Interpretation
+
+**7** For the purposes of this Schedule—
+
+(a) a person is able to provide information only if—
+
+(i) that person can obtain it without undue difficulty from a document that is in that person's control, or
+
+(ii) where that person is an individual, the information is within that person's knowledge;
+
+(b) a document is in a person's control if it is in that person's possession or if that person has a right to possession of it or to inspect or take copies of it.
+
+## SCHEDULE 2 — Amendments
+
+*Section 20*
+
+### Road Traffic (Northern Ireland) Order 1981 (S.I. 1981/154 (N.I. 1))
+
+**1** In Article 100 of the Road Traffic (Northern Ireland) Order 1981 (bankruptcy etc of insured persons not to affect certain claims by third-parties)—
+
+(a) for “such event as is mentioned in section 1(1) of the Third Parties (Rights against Insurers) Act (Northern Ireland) 1930” substitute “ event which results in that person being a relevant person for the purposes of the Third Parties (Rights against Insurers) Act 2010 ”, and
+
+(b) for “the said Act of 1930” substitute “ that Act ”.
+
+### Road Traffic Act 1988 (c. 52)
+
+**2** In section 153 of the Road Traffic Act 1988 (bankruptcy etc of insured or secured persons not to affect claims by third parties)—
+
+(a) in subsection (1), for “any of the events mentioned in subsection (2) below” substitute “ an event which results in that person being a relevant person for the purposes of the Third Parties (Rights against Insurers) Act 2010 ”,
+
+(b) in that subsection, for “Third Parties (Rights against Insurers) Act 1930” substitute “ that Act ”,
+
+(c) omit subsection (2), and
+
+(d) in subsection (3), for “Third Parties (Rights against Insurers) Act 1930” substitute “ Third Parties (Rights against Insurers) Act 2010 ”.
+
+### Merchant Shipping Act 1995 (c. 21)
+
+**3** In section 165 of the Merchant Shipping Act 1995 (rights of third parties against insurers), in subsection (5), for “Third Parties (Rights against Insurers) Act 1930 and the Third Parties (Rights against Insurers) Act (Northern Ireland) 1930” substitute “ Third Parties (Rights against Insurers) Act 2010 ”.
+
+### Cross-Border Insolvency Regulations 2006 (S.I. 2006/1030)
+
+**4** In paragraph 5 of Schedule 1 to the Cross-Border Insolvency Regulations 2006 (scope of Article 1), for “Third Parties (Rights against Insurers) Act 1930” substitute “ Third Parties (Rights against Insurers) Act 2010 ”.
+
+### Cross-Border Insolvency Regulations (Northern Ireland) 2007 (S.R. 2007/115)
+
+**5** In paragraph 5 of Schedule 1 to the Cross-Border Insolvency Regulations (Northern Ireland) 2007 (scope of Article 1), for “Third Parties (Rights against Insurers) Act (Northern Ireland) 1930” substitute “ Third Parties (Rights against Insurers) Act 2010 ”.
+
+## SCHEDULE 3 — Transitory, transitional and saving provisions
+
+*Section 20*
+
+### [[^F55]Application of this Act]
+
+**1** (1) Section 1(1)(a) applies where the insured became a relevant person before, as well as when the insured becomes such a person on or after, commencement day.
+
+(2) Section 1(1)(b) applies where the liability was incurred before, as well as where it is incurred on or after, commencement day.
+
+### [[^F56]Relevant persons
+
+**1A** (1) An individual, company or limited liability partnership not within sections 4 to 7 is to be treated as a relevant person for the purposes of this Act in the following cases.
+
+(2) The first case is where an individual—
+
+(a) became bankrupt before commencement day, and
+
+(b) has not been discharged from that bankruptcy.
+
+(3) The second case is where—
+
+(a) an individual made a composition or arrangement with his or her creditors before commencement day, and
+
+(b) the composition or arrangement remains in force.
+
+(4) The third case is where—
+
+(a) a winding-up order was made, or a resolution for a voluntary winding-up was passed, with respect to a company or limited liability partnership before commencement day, and
+
+(b) the company or partnership is still wound up.
+
+(5) The fourth case is where a company or limited liability partnership—
+
+(a) entered administration before commencement day, and
+
+(b) is still in administration.
+
+(6) The fifth case is where—
+
+(a) a receiver or manager of the business or undertaking of a company or limited liability partnership was appointed before commencement day, and
+
+(b) the appointment remains in force.
+
+(7) In those cases, the person is a relevant person only in relation to liabilities under a contract of insurance under which the person was insured at the time of the event mentioned in sub-paragraph (2)(a), (3)(a), (4)(a), (5)(a) or (6)(a) (as appropriate).]
+
+### [[^F57] Bankruptcy and Diligence etc (Scotland) Act 2007 ]
+
+**2** Until the coming into force of section 47(1) of the Bankruptcy and Diligence etc (Scotland) Act 2007 (asp 3), the reference to that provision in paragraph 1(5) of Schedule 1 is to be read as a reference to section 486(1) of the Companies Act 1985.
+
+### [[^F58]Application of 1930 Acts]
+
+**3** Despite its repeal by this Act, the Third Parties (Rights against Insurers) Act 1930 continues to apply in relation to—
+
+(a) cases where the event referred to in subsection (1) of section 1 of that Act and the incurring of the liability referred to in that subsection both happened before commencement day;
+
+(b) cases where the death of the deceased person referred to in subsection (2) of that section happened before that day.
+
+**4** Despite its repeal by this Act, the Third Parties (Rights against Insurers) Act (Northern Ireland) 1930 continues to apply in relation to—
+
+(a) cases where the event referred to in subsection (1) of section 1 of that Act and the incurring of the liability referred to in that subsection both happened before commencement day;
+
+(b) cases where the death of the deceased person referred to in subsection (2) of that section happened before that day.
+
+### [[^F59]Interpretation]
+
+**5** In this Schedule “commencement day” means the day on which this Act comes into force.
+
+## SCHEDULE 4 — Repeals and revocations
+
+*Section 20*
+
+|  |  |
+|---|---|
+| *Title* | *Extent of repeal or revocation* |
+| Third Parties (Rights Against Insurers) Act (Northern Ireland) 1930 (c. 19) | The whole Act. |
+| Third Parties (Rights against Insurers) Act 1930 (c. 25) | The whole Act. |
+| Insolvency Act 1985 (c. 65) | In Schedule 8, paragraph 7 and the cross heading preceding it. |
+| Bankruptcy (Scotland) Act 1985 (c. 66) | In Schedule 7, paragraph 6 and the cross heading preceding it. |
+| Insolvency Act 1986 (c. 45) | In Schedule 14, the entries relating to the Third Parties (Rights against Insurers) Act 1930. |
+| Road Traffic Act 1988 (c. 52) | Section 153(2). |
+| Insolvency (Northern Ireland) Order 1989 (S.I. 1989/2405 (N.I. 19)) | In Schedule 9, paragraphs 63 to 65 and the cross heading preceding paragraph 63. |
+| Limited Liability Partnerships Regulations 2001 (S.I. 2001/1090) | In Schedule 5, paragraph 2 and the cross heading preceding it. |
+| Enterprise Act 2002 (Insolvency) Order 2003 (S.I. 2003/2096) | In the Schedule, paragraphs 1 to 3 and the cross heading preceding paragraph 1. |
+| Limited Liability Partnership Regulations (Northern Ireland) 2004 (S.R. 2004 No. 307) | In Schedule 4, paragraph 2 and the cross heading preceding it. |
+| Insolvency (Northern Ireland) Order 2005 (S.I. 2005/1455 (N.I. 10)) | In Schedule 2, paragraphs 2 to 4 and the cross heading preceding paragraph 2. |
+
+---
+
+[^F1]: Words in s. 1(5)(b) inserted (1.8.2016 being the day appointed for the coming into force of 2010 c. 10 by S.I. 2016/550) by Insurance Act 2015 (c. 4), s. 23(3)(b), Sch. 2 para. 4
+[^F2]: S. 4(1)(a) omitted (1.10.2015) by virtue of Deregulation Act 2015 (c. 20), s. 115(7), Sch. 6 para. 2(22) (with Sch. 6 para. 3); S.I. 2015/1732, art. 2(e)(i)
+[^F3]: Word in s. 4(2) substituted (30.11.2016) by The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034), art. 1, Sch. 1 para. 35(2)(a)(i)
+[^F4]: Words in s. 4(2) substituted (30.11.2016) by The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034), art. 1, Sch. 1 para. 35(2)(a)(ii)
+[^F5]: Words in s. 4(2)(a) substituted (30.11.2016) by The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034), art. 1, Sch. 1 para. 35(2)(a)(iii)
+[^F6]: Word in s. 4(2)(a) inserted (30.11.2016) by The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034), art. 1, Sch. 1 para. 35(2)(a)(iv)
+[^F7]: S. 4(2)(c) and word omitted (30.11.2016) by virtue of The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034), art. 1, Sch. 1 para. 35(2)(a)(v)
+[^F8]: S. 4(3)(ba) inserted (1.8.2016 being the day appointed for the coming into force of 2010 c. 10 by S.I. 2016/550) by Insurance Act 2015 (c. 4), s. 23(3)(b), Sch. 2 para. 2(2)
+[^F9]: Words in s. 4(4) inserted (1.8.2016 being the day appointed for the coming into force of 2010 c. 10 by S.I. 2016/550) by Insurance Act 2015 (c. 4), s. 23(3)(b), Sch. 2 para. 2(3)
+[^F10]: Words in s. 4(5) substituted (30.11.2016) by The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034), art. 1, Sch. 1 para. 35(2)(b)
+[^F11]: S. 4(6) omitted (30.11.2016) by virtue of The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034), art. 1, Sch. 1 para. 35(2)(c)
+[^F12]: Words in s. 5(2)(b) substituted (30.11.2016) by The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034), art. 1, Sch. 1 para. 35(3)(a)
+[^F13]: Word in s. 5(2)(c) substituted (30.11.2016) by The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034), art. 1, Sch. 1 para. 35(3)(b)
+[^F14]: S. 6(1) substituted (1.8.2016 immediately after 2010 c. 10 and 2015 c. 4, s. 20, Sch. 2 come into force by virtue of S.I. 2016/550) by The Third Parties (Rights against Insurers) Regulations 2016 (S.I. 2016/570), regs. 1(1), 7(1)(a)
+[^F15]: Words in s. 6(1) inserted (26.6.2020) by Corporate Insolvency and Governance Act 2020 (c. 12), s. 49(1), Sch. 9 para. 45 (with ss. 2(2), 5(2))
+[^F16]: S. 6(2)(b) substituted (1.8.2016 being the day appointed for the coming into force of 2010 c. 10 by S.I. 2016/550) by Insurance Act 2015 (c. 4), s. 23(3)(b), Sch. 2 para. 3(2)
+[^F17]: Words in s. 6(3)(a) substituted (30.11.2016) by The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034), art. 1, Sch. 1 para. 35(4)(a)(i)
+[^F18]: Words in s. 6(3)(b) substituted (30.11.2016) by The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034), art. 1, Sch. 1 para. 35(4)(a)(ii)
+[^F19]: Word in s. 6(3)(b) inserted (30.11.2016) by The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034), art. 1, Sch. 1 para. 35(4)(a)(iii)
+[^F20]: Word in s. 6(3)(c) substituted (30.11.2016) by The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034), art. 1, Sch. 1 para. 35(4)(a)(iv)
+[^F21]: S. 6(3)(d) and word omitted (30.11.2016) by virtue of The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034), art. 1, Sch. 1 para. 35(4)(a)(v)
+[^F22]: S. 6(4)(b) substituted (1.8.2016 being the day appointed for the coming into force of 2010 c. 10 by S.I. 2016/550) by Insurance Act 2015 (c. 4), s. 23(3)(b), Sch. 2 para. 3(3)
+[^F23]: S. 6(4A)(4B) inserted (1.8.2016 immediately after 2010 c. 10 and 2015 c. 4, s. 20, Sch. 2 come into force by virtue of S.I. 2016/550) by The Third Parties (Rights against Insurers) Regulations 2016 (S.I. 2016/570), regs. 1(1), 3(1)
+[^F24]: Words in s. 6(5) substituted (1.8.2016 immediately after 2010 c. 10 and 2015 c. 4, s. 20, Sch. 2 come into force by virtue of S.I. 2016/550) by The Third Parties (Rights against Insurers) Regulations 2016 (S.I. 2016/570), regs. 1(1), 7(1)(b)
+[^F25]: Words in s. 6(6) substituted (1.8.2016 immediately after 2010 c. 10 and 2015 c. 4, s. 20, Sch. 2 come into force by virtue of S.I. 2016/550) by The Third Parties (Rights against Insurers) Regulations 2016 (S.I. 2016/570), regs. 1(1), 7(1)(b)
+[^F26]: Words in s. 6(7) substituted (30.11.2016) by The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034), art. 1, Sch. 1 para. 35(4)(b)
+[^F27]: S. 6(8) omitted (30.11.2016) by virtue of The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034), art. 1, Sch. 1 para. 35(4)(c)
+[^F28]: Words in s. 6(9)(c) substituted (30.11.2016) by The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034), art. 1, Sch. 1 para. 35(4)(d)
+[^F29]: S. 6A inserted (1.8.2016 immediately after 2010 c. 10 and 2015 c. 4, s. 20, Sch. 2 come into force by virtue of S.I. 2016/550) by The Third Parties (Rights against Insurers) Regulations 2016 (S.I. 2016/570), regs. 1(1), 4
+[^F30]: Words in s. 7(1)(a) substituted (30.11.2016) by The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034), art. 1, Sch. 1 para. 35(5)(a)(i)
+[^F31]: Word in s. 7(1)(a) inserted (30.11.2016) by The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034), art. 1, Sch. 1 para. 35(5)(a)(ii)
+[^F32]: S. 7(1)(c) and word omitted (30.11.2016) by virtue of The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034), art. 1, Sch. 1 para. 35(5)(a)(iii)
+[^F33]: Words in s. 7(2) substituted (30.11.2016) by The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034), art. 1, Sch. 1 para. 35(5)(b)
+[^F34]: S. 7(3) omitted (30.11.2016) by virtue of The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034), art. 1, Sch. 1 para. 35(5)(c)
+[^F35]: Words in s. 7(4) substituted (30.11.2016) by The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034), art. 1, Sch. 1 para. 35(5)(d)
+[^F36]: Word in s. 9(3)(a) omitted (1.8.2016 immediately after 2010 c. 10 and 2015 c. 4, s. 20, Sch. 2 come into force by virtue of S.I. 2016/550) by virtue of The Third Parties (Rights against Insurers) Regulations 2016 (S.I. 2016/570), regs. 1(1), 5(2)(a)
+[^F37]: S. 9(3)(c) and word inserted (1.8.2016 immediately after 2010 c. 10 and 2015 c. 4, s. 20, Sch. 2 come into force by virtue of S.I. 2016/550) by The Third Parties (Rights against Insurers) Regulations 2016 (S.I. 2016/570), regs. 1(1), 5(2)(b)
+[^F38]: Words in s. 9(7) omitted (1.8.2016 immediately after 2010 c. 10 and 2015 c. 4, s. 20, Sch. 2 come into force by virtue of S.I. 2016/550) by virtue of The Third Parties (Rights against Insurers) Regulations 2016 (S.I. 2016/570), regs. 1(1), 5(3)
+[^F39]: S. 9(8) inserted (1.8.2016 immediately after 2010 c. 10 and 2015 c. 4, s. 20, Sch. 2 come into force by virtue of S.I. 2016/550) by The Third Parties (Rights against Insurers) Regulations 2016 (S.I. 2016/570), regs. 1(1), 5(4)
+[^F40]: Word in s. 14(2)(b) substituted (1.8.2016 immediately after 2010 c. 10 and 2015 c. 4, s. 20, Sch. 2 come into force by virtue of S.I. 2016/550) by The Third Parties (Rights against Insurers) Regulations 2016 (S.I. 2016/570), regs. 1(1), 7(2)
+[^F41]: S. 14(4)(5) omitted (30.11.2016) by virtue of The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034), art. 1, Sch. 1 para. 35(6)
+[^F42]: S. 19 substituted (12.4.2015) by Insurance Act 2015 (c. 4) , ss. 19 , 23(3)(a)
+[^F43]: S. 19A inserted (1.8.2016 being the day appointed for the coming into force of 2010 c. 10 by S.I. 2016/550) by Insurance Act 2015 (c. 4), s. 23(3)(b), Sch. 2 para. 6
+[^F44]: Word in s. 19A(1) omitted (1.8.2016 immediately after 2010 c. 10 and 2015 c. 4, s. 20, Sch. 2 come into force by virtue of S.I. 2016/550) by virtue of The Third Parties (Rights against Insurers) Regulations 2016 (S.I. 2016/570), regs. 1(1), 7(3)(a)
+[^F45]: Words in s. 19A(1) omitted (30.11.2016) by virtue of The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034), art. 1, Sch. 1 para. 35(7)
+[^F46]: Words in s. 19A(1) substituted (1.8.2016 immediately after 2010 c. 10 and 2015 c. 4, s. 20, Sch. 2 come into force by virtue of S.I. 2016/550) by The Third Parties (Rights against Insurers) Regulations 2016 (S.I. 2016/570), regs. 1(1), 7(3)(b)
+[^F47]: Sch. A1 inserted (1.8.2016 immediately after 2010 c. 10 and 2015 c. 4, s. 20, Sch. 2 come into force by virtue of S.I. 2016/550) by The Third Parties (Rights against Insurers) Regulations 2016 (S.I. 2016/570), regs. 1(1), 3(2)
+[^F48]: Words in Sch. A1 inserted (8.7.2021) by The Payment and Electronic Money Institution Insolvency Regulations 2021 (S.I. 2021/716), reg. 2, Sch. 4 para. 3 (with reg. 5) (as amended (4.1.2024) by The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399), regs. 1(2), 4)
+[^F49]: Words in Sch. 1 para. 3 heading substituted (1.8.2016 immediately after 2010 c. 10 and 2015 c. 4, s. 20, Sch. 2 come into force by virtue of S.I. 2016/550) by The Third Parties (Rights against Insurers) Regulations 2016 (S.I. 2016/570), regs. 1(1), 6(6)
+[^F50]: Words in Sch. 1 para. 3(1)(a) omitted (1.8.2016 immediately after 2010 c. 10 and 2015 c. 4, s. 20, Sch. 2 come into force by virtue of S.I. 2016/550) by virtue of The Third Parties (Rights against Insurers) Regulations 2016 (S.I. 2016/570), regs. 1(1), 6(2)(a)
+[^F51]: Sch. 1 para. 3(1)(b)(c) substituted for Sch. 1 para. 3(1)(b) (1.8.2016 immediately after 2010 c. 10 and 2015 c. 4, s. 20, Sch. 2 come into force by virtue of S.I. 2016/550) by The Third Parties (Rights against Insurers) Regulations 2016 (S.I. 2016/570), regs. 1(1), 6(2)(b)
+[^F52]: Words in Sch. 1 para. 3(2)(b) substituted (1.8.2016 immediately after 2010 c. 10 and 2015 c. 4, s. 20, Sch. 2 come into force by virtue of S.I. 2016/550) by The Third Parties (Rights against Insurers) Regulations 2016 (S.I. 2016/570), regs. 1(1), 6(3)
+[^F53]: Sch. 1 para. 3(4)(5) omitted (1.8.2016 immediately after 2010 c. 10 and 2015 c. 4, s. 20, Sch. 2 come into force by virtue of S.I. 2016/550) by virtue of The Third Parties (Rights against Insurers) Regulations 2016 (S.I. 2016/570), regs. 1(1), 6(4)
+[^F54]: Sch. 1 para. 3(6) inserted (1.8.2016 immediately after 2010 c. 10 and 2015 c. 4, s. 20, Sch. 2 come into force by virtue of S.I. 2016/550) by The Third Parties (Rights against Insurers) Regulations 2016 (S.I. 2016/570), regs. 1(1), 6(5)
+[^F55]: Sch. 3 para. 1 cross-heading inserted (1.8.2016 being the day appointed for the coming into force of 2010 c. 10 by S.I. 2016/550) by Insurance Act 2015 (c. 4), s. 23(3)(b), Sch. 2 para. 5(2)
+[^F56]: Sch. 3 para. 1A and cross-heading inserted (1.8.2016 being the day appointed for the coming into force of 2010 c. 10 by S.I. 2016/550) by Insurance Act 2015 (c. 4), s. 23(3)(b), Sch. 2 para. 5(3)
+[^F57]: Sch. 3 para 2 cross-heading inserted (1.8.2016 being the day appointed for the coming into force of 2010 c. 10 by S.I. 2016/550) by Insurance Act 2015 (c. 4), s. 23(3)(b), Sch. 2 para. 5(4)
+[^F58]: Sch. 3 para. 3 cross-heading inserted (1.8.2016 being the day appointed for the coming into force of 2010 c. 10 by S.I. 2016/550) by Insurance Act 2015 (c. 4), s. 23(3)(b), Sch. 2 para. 5(5)
+[^F59]: Sch. 3 para. 5 cross-heading inserted (1.8.2016 being the day appointed for the coming into force of 2010 c. 10 by S.I. 2016/550) by Insurance Act 2015 (c. 4), s. 23(3)(b), Sch. 2 para. 5(6)

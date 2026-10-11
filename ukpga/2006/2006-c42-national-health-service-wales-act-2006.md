@@ -1,0 +1,8491 @@
+---
+title: "National Health Service (Wales) Act 2006"
+identifier: "ukpga/2006/42"
+citation: "2006 c. 42"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W"
+date: 2006-11-08
+last_amended: 2026-03-28
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/2006/42"
+source_modified: 2026-04-13
+retrieved: 2026-10-11
+---
+
+# National Health Service (Wales) Act 2006
+
+**2006 c. 42**
+
+An Act to consolidate certain enactments relating to the health service.
+
+[8th November 2006]
+
+Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## Part 1 — Promotion and provision of the health service in Wales
+
+### The Welsh Ministers and the health service in Wales
+
+#### 1 Welsh Ministers' duty to promote health service
+
+(1) The Welsh Ministers must continue the promotion in Wales of a comprehensive health service designed to secure improvement—
+
+(a) in the physical and mental health of the people of Wales, and
+
+(b) in the prevention, diagnosis and treatment of illness.
+
+(2) The Welsh Ministers must for that purpose provide or secure the provision of services in accordance with this Act.
+
+(3) The services so provided must be free of charge except in so far as the making and recovery of charges is expressly provided for by or under any enactment, whenever passed.
+
+#### 1A [[^F1]Welsh Ministers' duty to secure quality in health services
+
+(1) The Welsh Ministers must exercise their functions in relation to the health service with a view to securing improvement in the quality of health services.
+
+(2) For the purposes of this section—
+
+- “health services” means any services provided or secured in accordance with this Act;
+
+- “quality” includes, but is not limited to, quality in terms of—
+
+  - (a) the effectiveness of health services,
+  - (b) the safety of health services, and
+  - (c) the experience of individuals to whom health services are provided.
+
+(3) The Welsh Ministers must publish an annual report on the steps they have taken to comply with the duty in subsection (1).
+
+(4) The report must include an assessment of the extent of any improvement in outcomes achieved by virtue of those steps.
+
+(5) The Welsh Ministers must lay a copy of the report before the National Assembly for Wales.]
+
+### General power to provide services
+
+#### 2 Welsh Ministers' general power
+
+(1) The Welsh Ministers may—
+
+(a) provide such services as they consider appropriate for the purpose of discharging any duty imposed on them by this Act, and
+
+(b) do anything else which is calculated to facilitate, or is conducive or incidental to, the discharge of such a duty.
+
+(2) Subsection (1) does not affect—
+
+(a) the powers of the Welsh Ministers apart from this section,
+
+(b) Part 6 and Chapter 1 of Part 7 (ophthalmic and pharmaceutical services).
+
+### Provision of particular services
+
+#### 3 Welsh Ministers' duty as to provision of certain services
+
+(1) The Welsh Ministers must provide throughout Wales, to such extent as they consider necessary to meet all reasonable requirements—
+
+(a) hospital accommodation,
+
+(b) other accommodation for the purpose of any service provided under this Act,
+
+(c) medical, dental, ophthalmic, nursing and ambulance services,
+
+(d) such other services or facilities for the care of pregnant women, women who are breastfeeding and young children as they consider are appropriate as part of the health service,
+
+(e) such other services or facilities for the prevention of illness, the care of persons suffering from illness and the after-care of persons who have suffered from illness as they consider are appropriate as part of the health service,
+
+(f) such other services or facilities as are required for the diagnosis and treatment of illness.
+
+(2) For the purposes of the duty in subsection (1), services provided under—
+
+(a) section 41(2) (primary medical services) or 56(2) (primary dental services), or
+
+(b) a general medical services contract or a general dental services contract,
+
+must be regarded as provided by the Welsh Ministers.
+
+(3) This section does not affect Part 6 and Chapter 1 of Part 7 (ophthalmic and pharmaceutical services).
+
+#### 4 High security psychiatric services
+
+(1) The Welsh Ministers' duty under section 1 includes a duty to provide hospital accommodation and services for persons who—
+
+(a) are liable to be detained under the Mental Health Act 1983 (c. 20), and
+
+(b) in the opinion of the Welsh Ministers require treatment under conditions of high security on account of their dangerous, violent or criminal propensities.
+
+(2) The hospital accommodation and services mentioned in subsection (1) are referred to in this section and paragraph 15 of Schedule 3 as “high security psychiatric services”.
+
+(3) High security psychiatric services may be provided only at hospital premises at which services are provided only for the persons mentioned in subsection (1).
+
+(4) “Hospital premises” means—
+
+(a) a hospital, or
+
+(b) any part of a hospital which is treated as a separate unit.
+
+#### 5 Other services
+
+Schedule 1 makes further provision about the Welsh Ministers and services under this Act.
+
+### Provision of services otherwise than in Wales
+
+#### 6 Performance of functions outside Wales
+
+(1) The Welsh Ministers may provide or secure the provision of anything mentioned in section 3(1) outside Wales.
+
+(2) The Welsh Ministers' functions may be performed outside England and Wales, in so far as they relate to—
+
+(a) holidays for patients,
+
+(b) the transfer of patients to or from Scotland, Northern Ireland, the Isle of Man or the Channel Islands, or
+
+(c) the return of patients who have received treatment in England and Wales, to countries or territories outside the British Islands (including for this purpose the Republic of Ireland).
+
+#### [^F2]6A Reimbursement of cost of services provided in another EEA state
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F3]6B Prior authorisation for the purposes of section 6A
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F4]6BA Reimbursement of cost of services provided in another EEA state where expenditure incurred on or after 25 October 2013
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F5]6BB Prior authorisation for the purposes of section 6BA
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### NHS contracts
+
+#### 7 NHS contracts
+
+(1) In this Act, an NHS contract is an arrangement under which one health service body (“the commissioner”) arranges for the provision to it by another health service body (“the provider”) of goods or services which it reasonably requires for the purposes of its functions.
+
+(2) Section 97(6) (NHS contracts and the provision of local pharmaceutical services under pilot schemes) makes further provision about acting as commissioner for the purposes of subsection (1).
+
+(3) Paragraph 15 of Schedule 3 (NHS trusts and NHS contracts) makes further provision about an NHS trust acting as provider for the purposes of subsection (1).
+
+(4) “Health service body” means any of the following—
+
+[^F6]a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F7]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[[^F8](ba) [[^F9]NHS England],
+
+[[^F10](bb) an integrated care board,]]
+
+(c) an NHS trust,
+
+(d) a Special Health Authority,
+
+(e) a Local Health Board,
+
+(f) a Health Board constituted under section 2 of the National Health Service (Scotland) Act 1978 (c. 29),
+
+[[^F11](fa) a Special Health Board constituted under that section,]
+
+[[^F12](g) the Regional Agency for Public Health and Social Well-being,]
+
+(h) the Common Services Agency for the Scottish Health Service,
+
+(i) the Wales Centre for Health,
+
+[^F13]j . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[[^F14](k) the Care Quality Commission,]
+
+[[^F15](ka) the National Institute for Health and Care Excellence,]
+
+[^F16]kb . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(l) the Scottish Dental Practice Board,
+
+(m) the Secretary of State,
+
+(n) the Welsh Ministers,
+
+[[^F17](na) the Scottish Ministers,
+
+(nb) Healthcare Improvement Scotland,]
+
+[[^F18](o) the Regional Business Services Organisation,]
+
+(p) a special health and social services agency established under the Health and Personal Social Services (Special Agencies) (Northern Ireland) Order 1990 (S.I. 1990/247 (N.I.3)),
+
+(q) a [[^F19]Health and Social Care trust] established under the Health and Personal Social Services (Northern Ireland) Order 1991 (S.I. 1991/194 (N.I.1)),
+
+(r) the Department of Health, Social Services and Public Safety.
+
+(5) Whether or not an arrangement which constitutes an NHS contract would apart from this subsection be a contract in law, it must not to be regarded for any purpose as giving rise to contractual rights or liabilities.
+
+(6) But if any dispute arises with respect to such an arrangement, either party may refer the matter to the Welsh Ministers for determination under this section.
+
+(7) If, in the course of negotiations intending to lead to an arrangement which will be an NHS contract, it appears to a health service body—
+
+(a) that the terms proposed by another health service body are unfair by reason that the other is seeking to take advantage of its position as the only, or the only practicable, provider of the goods or services concerned or by reason of any other unequal bargaining position as between the prospective parties to the proposed arrangement, or
+
+(b) that for any other reason arising out of the relative bargaining position of the prospective parties any of the terms of the proposed arrangement cannot be agreed,
+
+that health service body may refer the terms of the proposed arrangement to the Welsh Ministers for determination under this section.
+
+(8) Where a reference is made to the Welsh Ministers under subsection (6) or (7), they may determine the matter themselves or appoint a person to consider and determine it in accordance with regulations.
+
+(9) “The appropriate person” means the Welsh Ministers or the person appointed under subsection (8).
+
+(10) By the determination of a reference under subsection (7), the appropriate person may specify terms to be included in the proposed arrangement and may direct that it be proceeded with.
+
+(11) A determination of a reference under subsection (6) may contain such directions (including directions as to payment) as the appropriate person considers appropriate to resolve the matter in dispute.
+
+(12) The appropriate person may by the determination in relation to an NHS contract vary the terms of the arrangement or bring it to an end (but this does not affect the generality of the power of determination under subsection (6)).
+
+(13) Where an arrangement is so varied or brought to an end—
+
+(a) subject to paragraph (b), the variation or termination must be treated as being effected by agreement between the parties, and
+
+(b) the directions included in the determination by virtue of subsection (11) may contain such provisions as the appropriate person considers appropriate in order to give effect to the variation or to bring the arrangement to an end.
+
+#### 8 Provision for bodies in Northern Ireland
+
+(1) Subsection (2) applies where [[^F20]the Regional Agency for Public Health and Social Well-being] or a body mentioned in paragraph (o), (p), (q) or (r) of section 7(4) is a party or prospective party to an arrangement or proposed arrangement which—
+
+(a) falls within the definition of NHS contract in section 7(1), and
+
+(b) also falls within the definition of HSS contract in Article 8 of the Health and Personal Social Services (Northern Ireland) Order 1991 (S.I. 1991/194 (N.I.1)).
+
+(2) Subsections (5) to (13) of section 7 apply in relation to the arrangement or proposed arrangement with the substitution for references to the Welsh Ministers of references to the Welsh Ministers and the Department of Health, Social Services and Public Safety acting jointly.
+
+#### 8A [[^F21]Provision for bodies in Scotland
+
+(1) Subsection (2) applies where the Scottish Ministers are, or a body mentioned in paragraph (f), (fa), (h), (l) or (nb) of section 7(4) is, a party or prospective party to an arrangement or proposed arrangement which—
+
+(a) falls within the definition of NHS contract in section 7(1), and
+
+(b) also falls within the definition of NHS contract in section 17A of the National Health Service (Scotland) Act 1978.
+
+(2) Subsections (5) to (13) of section 7 apply in relation to the arrangement or proposed arrangement with the substitution for references to the Welsh Ministers—
+
+(a) in so far as the arrangement or proposed arrangement relates to reserved matters within the meaning of the Scotland Act 1998, of references to the Welsh Ministers and the Secretary of State acting jointly, and
+
+(b) for all other purposes, of references to the Welsh Ministers and the Scottish Ministers acting jointly.
+
+(3) Subsection (4) applies (and subsection (2) does not apply) where a cross-border Special Health Authority is a party or prospective party to an arrangement or proposed arrangement which—
+
+(a) falls within the definition of NHS contract in section 7(1), and
+
+(b) also falls within the definition of NHS contract in section 17A of the National Health Service (Scotland) Act 1978 and the definition of NHS contract in section 9(1) of the National Health Service Act 2006.
+
+(4) Subsections (5) to (13) of section 7 apply in relation to the arrangement or proposed arrangement (except in so far as it relates to reserved matters within the meaning of the Scotland Act 1998) with the substitution for references to the Welsh Ministers—
+
+(a) where the cross-border Special Health Authority is exercising functions in relation to Wales only, of references to the Welsh Ministers and the Scottish Ministers acting jointly, and
+
+(b) where the Authority is exercising functions in relation to England and Wales, of references to the Welsh Ministers and the Secretary of State acting concurrently with each other and jointly with the Scottish Ministers.
+
+(5) In subsections (3) and (4), “cross-border Special Health Authority” means a Special Health Authority which is established under the National Health Service Act 2006 and the National Health Service (Wales) Act 2006 by virtue of—
+
+(a) paragraph 1(2) of Schedule 2 to the National Health Service (Consequential Provisions) Act 2006, or
+
+(b) the power under section 28 of the National Health Service Act 2006 and the power under section 22 of the National Health Service (Wales) Act 2006 being exercised together.]
+
+#### 9 Arrangements to be treated as NHS contracts
+
+(1) This section applies to any arrangement under which a Local Health Board or such other health service body as may be prescribed arranges for the provision to it—
+
+(a) by a contractor under a general ophthalmic services contract,
+
+(b) by a person on an ophthalmic list,
+
+(c) by a person on a pharmaceutical list, or
+
+(d) by a person who has entered into a pharmaceutical care services contract under section 17Q of the National Health Service (Scotland) Act 1978 (c. 29),
+
+of the goods or services mentioned in subsection (2).
+
+(2) The goods or services are those that the body reasonably requires for the purposes of its functions, other than functions under—
+
+(a) Part 6 (general ophthalmic services),
+
+(b) Chapter 1 or 2 of Part 7 (pharmaceutical services and local pharmaceutical services under pilot schemes), or
+
+(c) section 115 of, or Chapter 1 or 2 of Part 7 of, the National Health Service Act 2006 (c. 41) (primary ophthalmic services and pharmaceutical services and local pharmaceutical services under pilot schemes).
+
+(3) Any such arrangement is to be treated as an NHS contract for the purposes of section 7 (other than subsections (7) and (10)).
+
+(4) In this section—
+
+- “general ophthalmic services contract” and “contractor” under such a contract have the meanings given by section 117 of the National Health Service Act 2006,
+
+- “health service body” means a body which is a health service body for the purposes of section 7,
+
+- “ophthalmic list” includes a list published in accordance with regulations made under—
+
+  - (a) section 26(2)(a) of the National Health Service (Scotland) Act 1978 (c. 29), or
+  - (b) Article 62(2)(a) of the Health and Personal Social Services (Northern Ireland) Order 1972 (S.I. 1972/1265 (N.I.14)), and
+
+- “pharmaceutical list” includes a list published in accordance with regulations made under—
+
+  - (a) section 129(2)(a) of the National Health Service Act 2006, or
+  - (b) Article 63(2A)(a) of the Health and Personal Social Services (Northern Ireland) Order 1972.
+
+(5) The reference to a list published in accordance with regulations made under paragraph (a) of section 26(2) of the National Health Service (Scotland) Act 1978 is a reference to the first part of the list (referred to in sub-paragraph (i) of that paragraph) which is published in accordance with regulations under that paragraph.
+
+### Provision of services otherwise than by the Welsh Ministers
+
+#### 10 Welsh Ministers' arrangements with other bodies
+
+(1) The Welsh Ministers may arrange with any person or body to provide, or assist in providing, any service under this Act.
+
+(2) Arrangements may be made under subsection (1) with voluntary organisations.
+
+(3) The Welsh Ministers may make available any facilities provided by them for any service under this Act—
+
+(a) to any person or body carrying out any arrangements under subsection (1), or
+
+(b) to any voluntary organisation eligible for assistance under section 64 or section 65 of the Health Services and Public Health Act 1968 (c. 46).
+
+(4) Where facilities are made available under subsection (3) the Welsh Ministers may make available the services of any person employed in connection with the facilities by—
+
+(a) the Welsh Ministers,
+
+[^F22]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(c) a Special Health Authority, or
+
+(d) a Local Health Board.
+
+(5) Powers under this section may be exercised on such terms as may be agreed, including terms as to the making of payments by or to the Welsh Ministers.
+
+(6) Goods or materials may be made available either temporarily or permanently.
+
+(7) Any power to supply goods or materials under this section includes—
+
+(a) a power to purchase and store them, and
+
+(b) a power to arrange with third parties for the supply of goods or materials by those third parties.
+
+### [[^F23]Procurement
+
+#### 10A Procurement of services etc. as part of the NHS in Wales
+
+(1) The Welsh Ministers may, by regulations, make provision in relation to the processes to be followed and objectives to be pursued by relevant authorities in the procurement of—
+
+(a) services provided as part of the health service in Wales (“health services”), and
+
+(b) goods or other services that are connected to those health services.
+
+(2) Regulations under subsection (1) must include provision specifying steps to be taken when following a competitive tendering process.
+
+(3) Regulations under subsection (1) must, in relation to the procurement of the services or goods to which they apply, make provision for the purposes of—
+
+(a) ensuring transparency;
+
+(b) ensuring fairness;
+
+(c) ensuring that compliance can be verified;
+
+(d) managing conflicts of interest.
+
+(4) Before making regulations under subsection (1), the Welsh Ministers must carry out such consultation as they consider appropriate and publish a summary of the responses they receive.
+
+(5) Explanatory material accompanying regulations made under subsection (1) must set out how the regulations make provision for the purposes of subsection (3).
+
+(6) The Welsh Ministers must publish such guidance as they consider appropriate about compliance with the regulations.
+
+(7) A relevant authority must have regard to guidance published under this section.
+
+(8) The Welsh Ministers must—
+
+(a) review the operation of the regulations, and
+
+(b) publish the conclusions of the review before the end of the period of 5 years beginning with the day on which the regulations come into force.
+
+(9) In this section “relevant authority” means—
+
+(a) a county council or county borough council in Wales;
+
+(b) a local health board established under section 11;
+
+(c) a National Health Service trust established under section 18;
+
+(d) a special health authority established under section 22.]
+
+### [[^F24]Direct payments for health care
+
+#### 10B Direct payments for health care
+
+(1) The Welsh Ministers may, for the purpose of securing the provision to a patient of anything to which subsection (3) applies, make payments to the patient or to a person nominated by the patient.
+
+(2) Subsection (1) is subject to any provision made by regulations under section 10C.
+
+(3) This subsection applies to—
+
+(a) anything that the Welsh Ministers may or must provide under section 2(1) or 3(1);
+
+(b) anything for which the Welsh Ministers must arrange under paragraph 8 of Schedule 1;
+
+(c) any vehicles that the Welsh Ministers may provide under paragraph 9 of Schedule 1;
+
+(d) anything the Welsh Ministers may provide under paragraph 10 of Schedule 1 (including anything for which a grant may be made under paragraph 10(3) of Schedule 1).
+
+(4) Payments may not be made under subsection (1) unless the patient consents to the making of the payments, subject to any provision made by regulations under section 10C in respect of a patient who lacks capacity or is a child.
+
+(5) Where the Welsh Ministers make payments under subsection (1), they must, having regard to the purposes for which the payments are made, make arrangements for the provision to the patient, payee or their representative of such information, advice or other support, as the Welsh Ministers consider appropriate.
+
+(6) Regulations may provide that a Local Health Board may, for the purpose of securing the provision to a patient of after-care services that a Local Health Board must provide under section 117 of the Mental Health Act 1983 (c. 20), make payments to the patient or to a person nominated by the patient.
+
+(7) Regulations under subsection (6) must—
+
+(a) provide that payments under the regulations cannot be made unless the patient consents to the making of the payments, subject to any provision made by regulations under section 10C in respect of a patient who lacks capacity or is a child;
+
+(b) make provision in respect of information, advice or other support to be provided by a Local Health Board to patients, payees or their representatives in connection with the payments.
+
+(8) In section 10C and section 10D, “direct payments” means payments made under subsection (1) or under regulations made under subsection (6).
+
+(9) In this section and section 10C—
+
+(a) “child” means a person who has not attained the age of 16;
+
+(b) references to a person lacking capacity are references to a person lacking capacity within the meaning of the Mental Capacity Act 2005 (c. 9).
+
+#### 10C Regulations about direct payments
+
+(1) Regulations may make provision about direct payments.
+
+(2) The regulations may, in particular, make provision about—
+
+(a) the circumstances in which, and descriptions of persons and services in respect of which, direct payments may, must or must not be made;
+
+(b) the circumstances in which direct payments may, must or must not be made to a person nominated by the patient;
+
+(c) the making of direct payments (and, in particular, as to persons to whom payments may or must be made) if the patient lacks capacity to consent to the making of the payments or is a child;
+
+(d) matters to which the Welsh Ministers or a Local Health Board may or must have regard when making a decision about direct payments;
+
+(e) conditions that the Welsh Ministers or a Local Health Board may, must or must not attach in relation to direct payments;
+
+(f) the steps that the Welsh Ministers or a Local Health Board may or must take before, or after, making a decision about direct payments;
+
+(g) the conditions that the patient or (if different) the payee may or must be required to comply with before, after, or at the time when a direct payment is made;
+
+(h) the amount of any direct payment or how it is to be calculated;
+
+(i) the circumstances in which the Welsh Ministers or a Local Health Board may or must stop making direct payments;
+
+(j) the circumstances in which the Welsh Ministers or a Local Health Board may or must require all or part of a direct payment to be repaid by the patient or (if different) the payee, or otherwise;
+
+(k) the monitoring of the making of direct payments, of their use by the patient or (if different) the payee, or of services which they are used to secure;
+
+(l) the review of decisions as to whether a direct payment should be made;
+
+(m) the arrangements to be made by the Welsh Ministers or Local Health Board for providing patients, payees or their representatives with information, advice or other support in connection with direct payments;
+
+(n) the extent to which such support is to be treated as a service in respect of which direct payments may be made.
+
+(3) If the regulations make provision about persons who lack capacity to consent to the making of direct payments, the regulations may also make provision about the cases or circumstances where a person who has lacked that capacity but no longer does so (whether because of fluctuating capacity or regaining or gaining capacity)*.*
+
+(4) The regulations may provide for a sum that must be repaid to the Welsh Ministers or Local Health Board (as the case may be) by virtue of a condition or other requirement imposed by or under the regulations to be recoverable as a debt due to the Welsh Ministers or Local Health Board (as the case may be).
+
+(5) The regulations may make provision—
+
+(a) for a service in respect of which a direct payment has been made under section 10B(1) to be regarded as provided or arranged for by the Welsh Ministers under an enactment mentioned in section 10B(3), only to such extent and subject to such conditions as the regulations may specify;
+
+(b) displacing functions or obligations of a Local Health Board with respect to the provision of after-care services under section 117 of the Mental Health Act 1983 (c. 20), only to such extent and subject to such conditions as the regulations may prescribe.
+
+(6) In this section, “service” includes anything in respect of which direct payments may be made.
+
+#### 10D Arrangements with other bodies relating to direct payments
+
+(1) The Welsh Ministers or a Local Health Board may arrange with any person or body to provide assistance in connection with direct payments.
+
+(2) Arrangements may be made under subsection (1) with voluntary organisations.
+
+(3) Powers under this section may be exercised on such terms as may be agreed, including terms as to the making of payments by or to the Welsh Ministers or the Local Health Board.]
+
+## Part 2 — Health service bodies
+
+### Chapter 1 — Local Health Boards
+
+#### 11 Local Health Boards
+
+(1) The Welsh Ministers may establish bodies to be known as Local Health Boards.
+
+(2) Each Local Health Board is established by order made by the Welsh Ministers (referred to in this Act as an LHB order), and an order may establish more than one Local Health Board.
+
+(3) A Local Health Board is established for the area of Wales specified in its LHB order.
+
+(4) If any consultation requirements apply, they must be complied with before an LHB order is varied or revoked.
+
+(5) “Consultation requirements” means requirements about consultation contained in regulations.
+
+(6) Schedule 2 makes further provision about Local Health Boards.
+
+#### 12 Functions of Local Health Boards
+
+(1) The Welsh Ministers may direct a Local Health Board to exercise in relation to its area—
+
+(a) functions which were transferred to the National Assembly for Wales by the Health Authorities (Transfer of Functions, Staff, Property, Rights and Liabilities and Abolition) (Wales) Order 2003 (S.I. 2003/813 (W.98)),
+
+(b) such other of their functions relating to the health service as are specified in the direction.
+
+(2) The functions which may be specified in directions under subsection (1) include functions under enactments relating to mental health and care homes.
+
+(3) The Welsh Ministers may give directions to a Local Health Board about its exercise of any functions.
+
+#### 12A [[^F25]Local Health Boards' duty to secure quality in health services
+
+(1) Each Local Health Board must exercise its functions with a view to securing improvement in the quality of health services.
+
+(2) For the purposes of this section—
+
+- “health services” means any services provided or secured in accordance with this Act;
+
+- “quality” includes, but is not limited to, quality in terms of—
+
+  - (a) the effectiveness of health services,
+  - (b) the safety of health services, and
+  - (c) the experience of individuals to whom health services are provided.
+
+(3) Each Local Health Board must publish an annual report on the steps it has taken to comply with the duty in subsection (1).
+
+(4) The report must include an assessment of the extent of any improvement in outcomes achieved by virtue of those steps.
+
+(5) The Welsh Ministers must issue guidance to Local Health Boards in relation to the requirements imposed by subsections (1) and (3).
+
+(6) The guidance must, in particular, include guidance about—
+
+(a) the evidence to be used in support of an assessment required by this section, and
+
+(b) the conduct of such an assessment.
+
+(7) Each Local Health Board must have regard to guidance issued under subsection (5).]
+
+#### 13 Exercise of Local Health Board functions
+
+(1) This section applies to functions exercisable by a Local Health Board under or by virtue of this Act (including this section) or any prescribed provision of any other Act.
+
+(2) The Welsh Ministers may give directions providing for any functions to which this section applies to be exercised—
+
+(a) by another Local Health Board,
+
+(b) by a Special Health Authority, or
+
+(c) jointly with any one or more of the bodies mentioned in subsection (3).
+
+(3) The bodies are—
+
+[[^F26](aa) [[^F27]NHS England],
+
+[[^F28](ab) integrated care boards,]]
+
+[^F29]a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) NHS trusts, and
+
+(c) other Local Health Boards.
+
+(4) Directions given by the Welsh Ministers may provide—
+
+(a) for any functions to which this section applies to be exercised, on behalf of the Local Health Board by whom they are exercisable, by a committee, sub-committee or officer of the Local Health Board,
+
+(b) for any functions which, under this section, are exercisable by a Special Health Authority to be exercised, on behalf of that Special Health Authority, by a committee, sub-committee or officer of the Special Health Authority,
+
+(c) for any functions which, under this section, are exercisable by a Local Health Board jointly with one or more other Local Health Boards (but not with any NHS trusts) to be exercised, on behalf of the Local Health Boards in question, by a joint committee or joint sub-committee.
+
+(5) Subsection (6) applies where, by virtue of subsection (2)(b), a Special Health Authority exercises functions of a Local Health Board in relation to a general dental services contract.
+
+(6) The Welsh Ministers may by order make provision for the transfer to the Special Health Authority of the rights and liabilities of the Local Health Board under the contract (and for their transfer back to the Local Health Board where the Special Health Authority ceases to exercise the functions).
+
+#### 14 Section 50 arrangements and section 64 arrangements
+
+(1) Each Local Health Board must, in accordance with regulations, perform such functions in relation to section 50 arrangements (primary medical services) and section 64 arrangements (primary dental services) as may be prescribed.
+
+(2) The regulations may, in particular—
+
+(a) prescribe functions in relation to training,
+
+(b) provide for appeals to the Welsh Ministers or a prescribed body in relation to prescribed functions.
+
+#### 15 Administration and management of services
+
+Each Local Health Board must, in accordance with regulations—
+
+(a) administer the arrangements made in pursuance of this Act for the provision for its area of primary medical services, primary dental services, general ophthalmic services and pharmaceutical services, and
+
+(b) perform such management and other functions relating to those services as may be prescribed.
+
+#### 16 Advice for Local Health Boards
+
+Each Local Health Board must make arrangements with a view to securing that it receives advice appropriate for enabling it effectively to exercise the functions exercisable by it from persons with professional expertise relating to the physical or mental health of individuals.
+
+#### 17 Plans for improving health etc
+
+(1) Each Local Health Board must, at such times as the Welsh Ministers may direct, prepare a plan which sets out a strategy for improving—
+
+(a) the health of the people for whom it is responsible, and
+
+(b) the provision of health care to such people.
+
+(2) Each Local Health Board must keep under review any plan prepared by it under this section.
+
+(3) Each of the bodies specified in subsection (4) must participate in the preparation or review by a Local Health Board of any plan under this section.
+
+(4) Those bodies are—
+
+(a) any local authority whose area falls wholly or partly within the area of the Local Health Board, and
+
+(b) any NHS trust which provides services at or from a hospital or other establishment or facility which falls within the area of the Local Health Board.
+
+(5) In preparing or reviewing any plan under this section, a Local Health Board—
+
+(a) must consult, or seek the participation of, such persons as the Welsh Ministers may direct, and
+
+(b) may consult, or seek the participation of, such other persons as it considers appropriate.
+
+(6) The Welsh Ministers may give directions as to—
+
+(a) the periods to be covered by plans under this section,
+
+(b) the action to be taken by Local Health Boards, NHS trusts and local authorities in connection with the preparation or review of plans under this section,
+
+(c) the matters to be taken into account in connection with the preparation or review of plans under this section,
+
+(d) the matters to be dealt with by plans under this section,
+
+(e) the form and content of plans under this section,
+
+(f) the publication of plans prepared or reviewed under this section,
+
+(g) the sharing of information between [[^F30]NHS England] [[^F31], integrated care boards,] [^F32]... [^F33]... NHS trusts, Local Health Boards and local authorities in connection with the preparation or review of plans under this section or [[^F34]the preparation of joint [[^F35]local] health and wellbeing strategies under section 116A of the Local Government and Public Involvement in Health Act 2007],
+
+(h) the provision by [[^F30]NHS England] [[^F36], integrated care boards,] [^F37]... [^F38]... and Local Health Boards of reports or other information to the Welsh Ministers in connection with plans under this section or [[^F39]joint [[^F40]local] health and wellbeing strategies under section 116A of the Local Government and Public Involvement in Health Act 2007].
+
+(7) In exercising its functions—
+
+(a) a Local Health Board must have regard to any plan prepared or reviewed by it, and
+
+(b) an NHS trust and a local authority must have regard to any plan in relation to which it has participated.
+
+(8) For the purposes of this section, the persons for whom a Local Health Board is responsible are—
+
+(a) the people in the area of the Local Health Board, and
+
+(b) such of the people outside the area as may be specified in directions given by the Welsh Ministers.
+
+(9) “Health care” means—
+
+(a) services provided to individuals for or in connection with the prevention, diagnosis or treatment of illness, and
+
+(b) the promotion and protection of public health.
+
+### Chapter 2 — NHS trusts
+
+#### 18 NHS trusts
+
+(1) The Welsh Ministers may by order establish bodies, called National Health Service trusts (“NHS trusts”), to provide goods and services for the purposes of the health service.
+
+(2) An order under subsection (1) is referred to in this Act as “an NHS trust order”.
+
+(3) No NHS trust order may be made until after the completion of such consultation as may be prescribed.
+
+(4) Schedule 3 makes further provision about NHS trusts.
+
+#### 19 Welsh Ministers' directions to NHS trusts
+
+(1) The Welsh Ministers may give directions to an NHS trust about its exercise of any functions.
+
+(2) The Welsh Ministers may not give directions under this section in respect of matters concerning xenotransplantation, surrogacy agreements, embryology or human genetics.
+
+(3) Nothing in provision made by or under this or any other Act affects the generality of subsection (1).
+
+#### 20 General duty of NHS trusts
+
+An NHS trust must exercise its functions effectively, efficiently and economically.
+
+#### 20A [[^F41]Duty of NHS trusts to secure quality in health services
+
+(1) Each NHS trust must exercise its functions with a view to securing improvement in the quality of health services.
+
+(2) For the purposes of this section—
+
+- “health services” means any services provided or secured in accordance with this Act;
+
+- “quality” includes, but is not limited to, quality in terms of—
+
+  - (a) the effectiveness of health services,
+  - (b) the safety of health services, and
+  - (c) the experience of individuals to whom health services are provided.
+
+(3) Each NHS trust must publish an annual report on the steps it has taken to comply with the duty in subsection (1).
+
+(4) The report must include an assessment of the extent of any improvement in outcomes achieved by virtue of those steps.
+
+(5) The Welsh Ministers must issue guidance to NHS trusts in relation to the requirements imposed by subsections (1) and (3).
+
+(6) The guidance must, in particular, include guidance about—
+
+(a) the evidence to be used in support of an assessment required by this section, and
+
+(b) the conduct of such an assessment.
+
+(7) Each NHS trust must have regard to guidance issued under subsection (5).]
+
+#### 21 Financial provisions relating to NHS trusts
+
+Schedule 4 makes provision about the financing of NHS trusts.
+
+### Chapter 3 — Special Health Authorities
+
+#### 22 Special Health Authorities
+
+(1) The Welsh Ministers may by order establish special bodies for the purpose of exercising any functions which may be conferred on them by or under this Act.
+
+(2) The Welsh Ministers may make such further provision relating to a body established under subsection (1) as they consider appropriate.
+
+(3) A body established under this section is called a Special Health Authority.
+
+(4) An order may, in particular, contain provisions as to—
+
+(a) the membership of the body established by the order,
+
+(b) the transfer to the body of officers, property and liabilities, and
+
+(c) the name of the body.
+
+(5) The liabilities which may be transferred by virtue of this section, section 203(10) and section 204(1) to an NHS body on the abolition of a Special Health Authority include criminal liabilities.
+
+[^F42]6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7) The Welsh Ministers must, before they make an order under this section, consult with respect to the order such bodies as they may recognise as representing officers who in the opinion of the Welsh Ministers are likely to be transferred or affected by transfers in pursuance of the order.
+
+(8) Schedule 5 makes further provision about Special Health Authorities.
+
+#### 23 Welsh Ministers' directions to Special Health Authorities
+
+(1) The Welsh Ministers may give directions to a Special Health Authority about its exercise of any functions.
+
+(2) The Welsh Ministers may not give directions under this section in respect of matters concerning xenotransplantation, surrogacy agreements, embryology or human genetics.
+
+(3) Nothing in provision made by or under this or any other Act affects the generality of subsection (1).
+
+#### 24 Exercise of health service functions by Special Health Authorities
+
+(1) The Welsh Ministers may direct a Special Health Authority to exercise any of the functions of the Welsh Ministers relating to the health service which are specified in the directions.
+
+(2) Subsection (1) does not apply to the functions of the Welsh Ministers in relation to pilot schemes.
+
+(3) The functions which may be specified in directions include functions under enactments relating to mental health and care homes.
+
+#### 24A [[^F43]Duty of Special Health Authorities to secure quality in health services
+
+(1) Each Special Health Authority must exercise its functions with a view to securing improvement in the quality of health services.
+
+(2) For the purposes of this section—
+
+- “health services” means any services provided or secured in accordance with this Act;
+
+- “quality” includes, but is not limited to, quality in terms of—
+
+  - (a) the effectiveness of health services,
+  - (b) the safety of health services, and
+  - (c) the experience of individuals to whom health services are provided.
+
+(3) Each Special Health Authority must publish an annual report on the steps it has taken to comply with the duty in subsection (1).
+
+(4) The report must include an assessment of the extent of any improvement in outcomes achieved by virtue of those steps.
+
+(5) The Welsh Ministers must issue guidance to Special Health Authorities in relation to the requirements imposed by subsections (1) and (3).
+
+(6) The guidance must, in particular, include guidance about—
+
+(a) the evidence to be used in support of an assessment required by this section, and
+
+(b) the conduct of such an assessment.
+
+(7) Each Special Health Authority must have regard to guidance issued under subsection (5).
+
+(8) This section does not apply in relation to a cross-border Special Health Authority (within the meaning of section 8A(5)).]
+
+#### 25 Exercise of Special Health Authority functions
+
+(1) Regulations may provide for any functions which are exercisable by a Special Health Authority under section 24 to be exercised—
+
+(a) by another Special Health Authority, or
+
+(b) jointly with one or more other Special Health Authorities.
+
+(2) Regulations may provide—
+
+(a) for any functions which are exercisable by a Special Health Authority under section 24 or this section to be exercised on behalf of that Special Health Authority by a committee, sub-committee or officer of the Special Health Authority,
+
+(b) for any functions exercisable jointly under subsection (1)(b) to be exercised, on behalf of the Special Health Authorities in question, by a joint committee or joint sub-committee.
+
+### Chapter 4 — Miscellaneous
+
+#### [[^F44]Nursing services
+
+##### 25A Duty to have regard to providing sufficient nurses
+
+(1) Subsection (2) applies where a Local Health Board is considering the extent of provision of nursing services for its area necessary to meet all reasonable requirements.
+
+(2) The Local Health Board must have regard to the importance of—
+
+(a) providing sufficient nurses to allow the nurses time to care for patients sensitively, and
+
+(b) where securing the provision of nursing services, ensuring that there are sufficient nurses to allow the nurses time to care for patients sensitively.
+
+(3) Where an NHS Trust in Wales provides nursing services it must provide those services to such extent as it considers necessary to meet all reasonable requirements; and subsection (4) applies where an NHS Trust in Wales is considering the extent of provision of nursing services.
+
+(4) The NHS Trust must have regard to the importance of—
+
+(a) providing sufficient nurses to allow the nurses time to care for patients sensitively, and
+
+(b) where securing the provision of nursing services, ensuring that there are sufficient nurses to allow the nurses time to care for patients sensitively.
+
+(5) For the purposes of having regard to the importance of providing sufficient nurses to allow the nurses time to care for patients sensitively, a Local Health Board or NHS Trust in Wales must (among other things) undertake workforce planning (including planning the recruitment, retention, education and training of nurses).
+
+(6) In this section, and in sections 25B to 25E, references to—
+
+(a) a nurse providing care for patients include the provision of care by a person other than a nurse acting under the supervision of, or discharging duties delegated to the person by, a nurse;
+
+(b) a “nurse” mean a registered nurse;
+
+(c) an “NHS Trust in Wales” mean an NHS trust all or most of whose hospitals, establishments and facilities are situated in Wales.
+
+#### Nurse staffing levels
+
+##### 25B Duty to calculate and take steps to maintain nurse staffing levels
+
+(1) Where a Local Health Board or NHS Trust in Wales provides nursing services in a situation to which this section applies, it must—
+
+(a) designate a person or a description of person to calculate the number of nurses appropriate to provide care to patients that meets all reasonable requirements in that situation (the “nurse staffing level”),
+
+(b) take all reasonable steps to maintain the nurse staffing level, and
+
+(c) make arrangements for the purpose of informing patients of the nurse staffing level.
+
+(2) A person designated by virtue of subsection (1)(a) (“a designated person”) must calculate the nurse staffing level in accordance with section 25C.
+
+(3) This section applies to the following situations—
+
+(a) adult acute medical inpatient wards,
+
+(b) adult acute surgical inpatient wards, and
+
+(c) such other situations as the Welsh Ministers may by regulations specify.
+
+##### 25C Nurse staffing levels: method of calculation
+
+(1) When calculating a nurse staffing level, a designated person must—
+
+(a) exercise professional judgement, and
+
+(b) take into account each of the following—
+
+(i) the average ratio of nurses to patients appropriate to provide care to patients that meets all reasonable requirements, estimated for a specified period using evidence-based workforce planning tools;
+
+(ii) the extent to which patients' well-being is known to be particularly sensitive to the provision of care by a nurse.
+
+(2) A designated person may calculate different nurse staffing levels—
+
+(a) in relation to different periods of time;
+
+(b) depending on the conditions in which care is provided by a nurse.
+
+##### 25D Nurse staffing levels: guidance
+
+(1) The Welsh Ministers must issue guidance about the duties under sections 25B and 25C and Local Health Boards and any NHS Trust to which those sections apply must have regard to the guidance.
+
+(2) The guidance may set out, in particular, that when calculating a nurse staffing level a designated person should exercise professional judgement by taking the following into account—
+
+(a) the qualifications, competencies, skills and experience of the nurses providing care to patients;
+
+(b) the conditions in which care by a nurse is provided;
+
+(c) the potential impact on care by a nurse of—
+
+(i) the physical condition and layout of the ward or other situation in which the care is provided;
+
+(ii) the turnover of patients receiving the care;
+
+(d) services or care provided to patients by other health professionals or other staff (for example, health care support workers), and their qualifications, competencies, skills and experience;
+
+(e) the extent to which the nurses providing care are required to undertake supervisory or administrative functions.
+
+(3) The guidance may also make provision about workforce planning that Local Health Boards and NHS Trusts may undertake in order to enable them to comply with their duties under sections 25B and 25C.
+
+(4) Before issuing guidance the Welsh Ministers must consult—
+
+(a) Local Health Boards and any NHS Trust that is under a duty to have regard to the guidance,
+
+(b) such organisations as appear to them to represent the interests of any—
+
+(i) providers of care homes, or
+
+(ii) providers of independent hospitals in Wales,
+
+likely to be affected by the guidance,
+
+(c) such organisations as appear to them to represent the interests of any other persons likely to be affected by the guidance, and
+
+(d) such other persons likely to be affected by the guidance as they consider appropriate.
+
+(5) For the purposes of subsection (4)—
+
+- “care home” means premises at which a care home service within the meaning given by paragraph 1 of Schedule 1 to the Regulation and Inspection of Social Care (Wales) Act 2016 (anaw 2) is provided, and
+- “independent hospital” has the meaning given in section 2 of the Care Standards Act 2000 (c.14).
+
+##### 25E Nurse staffing levels: reports
+
+(1) Each Local Health Board and any NHS Trust to which the duty in section 25B applies must submit a nurse staffing levels report (whether or not as part of a wider report) in accordance with this section.
+
+(2) A nurse staffing levels report must set out, in respect of the period to which the report relates (the “reporting period”)—
+
+(a) the extent to which nurse staffing levels have been maintained;
+
+(b) the impact the Board or Trust considers that not maintaining nurse staffing levels has had on care provided to patients by nurses, for example by reference to complaints about care provided to patients by nurses made in accordance with the Complaints Regulations or by reference to an increase in incidents of harm caused by—
+
+(i) errors in administering medication to patients;
+
+(ii) patients falling;
+
+(iii) patients developing hospital-acquired pressure ulcers;
+
+(c) any actions taken in response to not maintaining nurse staffing levels.
+
+(3) Each nurse staffing levels report must be submitted to the Welsh Ministers no later than 30 days after the last day of the reporting period.
+
+(4) The Welsh Ministers must, after the expiry of each reporting period—
+
+(a) prepare and publish a document summarising the content of the nurse staffing levels reports submitted in respect of that reporting period, and
+
+(b) lay each report submitted to them in that period before the National Assembly for Wales.
+
+(5) For the purposes of this section the reporting period is—
+
+(a) in the case of the initial reporting period, the period of three years beginning with the commencement of this section, and
+
+(b) in the case of all subsequent reporting periods, the period of three years beginning with the day after the last day of the preceding reporting period.
+
+(6) In subsection (2)(b) “Complaints Regulations” means regulations made under—
+
+(a) section 113 of the Health and Social Care (Community Health and Standards) Act 2003 (c.43);
+
+(b) the NHS Redress (Wales) Measure 2008 (nawm 1)﻿.]
+
+#### Intervention orders and default powers
+
+##### 26 Intervention orders
+
+(1) This section applies to NHS bodies other than [[^F45]NHS England] [[^F46], integrated care boards and] NHS foundation trusts.
+
+(2) If the Welsh Ministers—
+
+(a) consider that a body to which this section applies is not performing one or more of its functions adequately or at all, or that there are significant failings in the way the body is being run, and
+
+(b) are satisfied that it is appropriate for them to intervene under this section,
+
+they may make an order under this section in respect of the body (an “intervention order”).
+
+(3) An intervention order may make any provision authorised by section 27 (including any combination of such provisions).
+
+##### 27 Effect of intervention orders
+
+(1) In this section—
+
+(a) “member” means a member of a [^F47]... [^F48]... Special Health Authority or Local Health Board, or a member of the board of directors of an NHS trust,
+
+(b) “employee member” means a member of a [^F47]... [^F48]... Special Health Authority or Local Health Board who is an officer of the body, or an executive director of an NHS trust.
+
+(2) An intervention order may provide for the removal from office of—
+
+(a) all the members, or
+
+(b) those specified in the order,
+
+and for their replacement with individuals specified in or determined in accordance with the order (who need not be the same in number as the removed individuals).
+
+(3) An intervention order may provide for the suspension (either wholly, or in respect only of powers and duties specified in or determined in accordance with the order) of—
+
+(a) all the members, or
+
+(b) those specified in the order,
+
+and for the powers of the suspended members to be exercised, and their duties performed, during their suspension by individuals specified in or determined in accordance with the order (who need not be the same in number as the suspended individuals).
+
+(4) The powers and duties referred to in subsection (3) are, in the case of an employee member, only those which he has in his capacity as a member.
+
+(5) An intervention order may contain directions to the body to which it relates to secure that a function of the body specified in the directions—
+
+(a) is performed, to the extent specified in the directions, on behalf of the body and at its expense, by such person as is specified in the directions, and
+
+(b) is so performed in such a way as to achieve such objectives as are so specified,
+
+and the directions may require that any contract or other arrangement made by the body with that person contains such terms and conditions as may be so specified.
+
+(6) If the person referred to in subsection (5)(a) is a body to which section 26 applies, the functions of that body include the performance of the functions specified in the directions under subsection (5).
+
+(7) Subsection (8) applies in relation to any provision in this Act, or in any order or regulations made, or directions given, under this Act, relating to—
+
+(a) the membership of the body to which an intervention order relates (or in the case of an NHS trust to the membership of its board of directors), or
+
+(b) the procedure of the body.
+
+(8) The intervention order may provide in relation to any provision specified in the order—
+
+(a) that it does not apply in relation to the body while the order remains in force, or
+
+(b) that it applies in relation to the body, while the order remains in force, with modifications specified in the order.
+
+(9) An intervention order may contain such supplementary directions to the body to which it relates as the Welsh Ministers consider appropriate for the purpose of giving full effect to the order.
+
+##### 28 Default powers
+
+(1) This section applies to NHS bodies other than [[^F49]NHS England] [[^F50], integrated care boards and] NHS foundation trusts.
+
+(2) If the Welsh Ministers consider that a body to which this section applies—
+
+(a) has failed to carry out any functions conferred or imposed on it by or under this Act, or
+
+(b) has in carrying out those functions failed to comply with any regulations or directions relating to those functions,
+
+they may after such inquiry as they consider appropriate make an order declaring it to be in default.
+
+(3) The members of the body in default must immediately vacate their office, and the order—
+
+(a) must provide for the appointment, in accordance with the provisions of this Act, of new members of the body, and
+
+(b) may contain such provisions as seem to the Welsh Ministers expedient for authorising any person to act in the place of the body pending the appointment of new members.
+
+(4) An order under this section may contain such supplementary and incidental provisions as appear to the Welsh Ministers to be necessary or expedient, including—
+
+(a) provision for the transfer to the Welsh Ministers of property and liabilities of the body in default, and
+
+(b) where any such order is varied or revoked by a subsequent order, provision in the subsequent order for the transfer to the body in default of any property or liabilities acquired or incurred by the Welsh Ministers in discharging any of the functions transferred to them.
+
+#### Transfer of residual liabilities
+
+##### 29 Transfer of residual liabilities
+
+(1) If a Local Health Board, an NHS trust or a Special Health Authority ceases to exist, the Welsh Ministers must exercise their functions so as to secure that all of the body's liabilities (other than any criminal liabilities) are dealt with.
+
+(2) A liability is dealt with by being transferred to an NHS body, the Welsh Ministers or the Secretary of State.
+
+#### Losses and liabilities of certain health service bodies
+
+##### 30 Schemes for meeting losses and liabilities etc of certain health service bodies
+
+(1) The Welsh Ministers may by regulations establish a scheme [[^F51](a “mutual indemnity scheme”)] whereby any of the bodies [[^F52]or other persons] specified in subsection (2) may make provision to meet—
+
+(a) expenses arising from any loss of or damage to their property, and
+
+(b) liabilities to third parties for loss, damage or injury arising out of the carrying out of the functions of the bodies [[^F52]or other persons] concerned.
+
+(2) The bodies [[^F53]and other persons] referred to in subsection (1) are—
+
+(a) Local Health Boards,
+
+(b) NHS trusts, [^F54]...
+
+(c) Special Health Authorities,[^F55]...
+
+(d) [^F56]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F55]e . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[[^F57](f) a person who is providing, or who has provided, primary medical services in accordance with a contract or other arrangement under Part 4, and
+
+(g) a body or other person (other than a body or other person specified under paragraphs (a) to (f)) who is providing or arranging the provision of, or who has provided or arranged the provision of, health services whose provision is the subject of a contract or other arrangements with a Local Health Board, NHS trust or Special Health Authority,]
+
+but a [[^F58]mutual indemnity scheme] may limit the class or description of bodies which[[^F59], or other persons who,] are eligible to participate in it.
+
+(3) A [[^F60]mutual indemnity scheme] may, in particular—
+
+(a) provide for the scheme to be administered by the Welsh Ministers or by an NHS trust or Special Health Authority specified in the scheme,
+
+(b) require any body which[[^F61], or other person who,] participates in the scheme to make payments in accordance with the scheme, and
+
+(c) provide for the making of payments for the purposes of the scheme by the Welsh Ministers.
+
+(4) If the Welsh Ministers so direct, a [[^F62]Local Health Board, NHS trust or Special Health Authority] which is eligible to participate in a scheme must do so.
+
+(5) Where a [[^F63]mutual indemnity scheme] provides for the scheme to be administered by the Welsh Ministers, a Special Health Authority or NHS trust must carry out such functions in connection with the administration of the scheme as the Welsh Ministers may direct.
+
+(6) Subsections (4) and (5) do not affect any other power of direction of the Welsh Ministers.
+
+(7) A person or body administering a [[^F64]mutual indemnity scheme] does not require permission under any provision of the Financial Services and Markets Act 2000 (c. 8) as respects activities carried out under the scheme.
+
+[[^F65](8) The Welsh Ministers may by regulations establish a scheme (a “direct indemnity scheme”) under which they may indemnify any of the bodies or other persons specified in subsection (2) against—
+
+(a) expenses arising from any loss of or damage to their property, and
+
+(b) liabilities to third parties for loss, damage or injury arising out of the carrying out of the functions of the bodies or other persons concerned.
+
+(9) A direct indemnity scheme may, in particular–
+
+(a) specify the persons or other bodies eligible to be indemnified (including limiting the class or description of bodies or other persons who are eligible);
+
+(b) specify the expenses and liabilities in respect of which a body or other person may be indemnified and the extent to which they may be indemnified;
+
+(c) require any body or other person indemnified under the scheme to make payments in accordance with the scheme.
+
+(10) Nothing in this section limits or affects the powers of the Welsh Ministers under this Act, or any other enactment, to provide an indemnity—
+
+(a) to any person other than the bodies or other persons specified in subsection (2), or
+
+(b) to a body or other person specified in subsection (2) in respect of any expenses or liabilities other than those mentioned in subsections (1) and (8).
+
+(11) In this section—
+
+(a) in subsections (1)(b) and (8)(b) “functions”, in relation to a body or other person specified in subsection (2)(g), means the body or person's functions of providing, or arranging the provision of, health services whose provision is the subject of a contract or other arrangements with a Local Health Board, NHS trust or Special Health Authority;
+
+(b) in subsection (2) and in paragraph (a) of this subsection “health services” means services provided as part of the health service.]
+
+#### Directions and regulations under this Part
+
+##### 31 Directions and regulations under this Part
+
+(1) This section applies to directions and regulations under any of—
+
+(a) section 12,
+
+(b) section 13,
+
+(c) section 19,
+
+(d) section 23,
+
+(e) section 24,
+
+(f) section 25.
+
+(2) Except in prescribed cases, the directions and regulations must not preclude a person or body by whom the function is exercisable apart from the directions or regulations from exercising the function.
+
+## Part 3 — Local authorities and the NHS
+
+### 32 Supply of goods and services by local authorities
+
+(1) In the Local Authorities (Goods and Services) Act 1970 (c. 39) the expression “public body” includes—
+
+(a) any Local Health Board, and
+
+(b) so far as relates to their functions under this Act, the Welsh Ministers.
+
+(2) Subsection (1) has effect as if made by an order under section 1(5) of the Local Authorities (Goods and Services) Act 1970 and may be varied or revoked by such an order.
+
+(3) Each local authority must make services available to each NHS body acting in its area, so far as is reasonably necessary and practicable to enable the NHS body to discharge its functions under this Act.
+
+[[^F66](4) “services” means—
+
+(a) in relation to a local authority in England, the services of persons employed by the authority for the purposes of its functions under the Local Authority Social Services Act 1970 (c. 42);
+
+(b) in relation to a local authority in Wales, the services of persons employed by the authority for the purposes of functions which are social services functions for the purposes of the Social Services and Well-being (Wales) Act 2014 (anaw 4).]
+
+### 33 Arrangements between NHS bodies and local authorities
+
+(1) The Welsh Ministers may by regulations make provision for or in connection with enabling prescribed NHS bodies (on the one hand) and prescribed local authorities (on the other) to enter into prescribed arrangements in relation to the exercise of—
+
+(a) prescribed functions of the NHS bodies, and
+
+(b) prescribed health-related functions of the local authorities,
+
+if the arrangements are likely to lead to an improvement in the way in which those functions are exercised.
+
+(2) The arrangements which may be prescribed include arrangements—
+
+(a) for or in connection with the establishment and maintenance of a fund—
+
+(i) which is made up of contributions by one or more NHS bodies and one or more local authorities, and
+
+(ii) out of which payments may be made towards expenditure incurred in the exercise of both prescribed functions of the NHS body or bodies and prescribed health-related functions of the authority or authorities,
+
+(b) for or in connection with the exercise by an NHS body on behalf of a local authority of prescribed health-related functions of the authority in conjunction with the exercise by the NHS body of prescribed functions of the NHS body,
+
+(c) for or in connection with the exercise by a local authority on behalf of an NHS body of prescribed functions of the NHS body in conjunction with the exercise by the local authority of prescribed health-related functions of the local authority,
+
+(d) as to the provision of staff, goods or services in connection with any arrangements mentioned in paragraph (a), (b) or (c),
+
+(e) as to the making of payments by a local authority to an NHS body in connection with any arrangements mentioned in paragraph (b),
+
+(f) as to the making of payments by an NHS body to a local authority in connection with any arrangements mentioned in paragraph (c).
+
+(3) Regulations under this section may make provision—
+
+(a) as to the cases in which NHS bodies and local authorities may enter into prescribed arrangements,
+
+(b) as to the conditions which must be satisfied in relation to prescribed arrangements (including conditions in relation to consultation),
+
+(c) for or in connection with requiring the consent of the Welsh Ministers to the operation of prescribed arrangements (including provision in relation to applications for consent, the approval or refusal of such applications and the variation or withdrawal of approval),
+
+(d) in relation to the duration of prescribed arrangements,
+
+(e) for or in connection with the variation or termination of prescribed arrangements,
+
+(f) as to the responsibility for, and the operation and management of, prescribed arrangements,
+
+(g) as to the sharing of information between NHS bodies and local authorities.
+
+(4) The provision which may be made by virtue of subsection (3)(f) includes provision in relation to—
+
+(a) the formation and operation of joint committees of NHS bodies and local authorities,
+
+(b) the exercise of functions which are the subject of prescribed arrangements (including provision in relation to the exercise of such functions by joint committees or employees of NHS bodies and local authorities),
+
+(c) the drawing up and implementation of plans in respect of prescribed arrangements,
+
+(d) the monitoring of prescribed arrangements,
+
+(e) the provision of reports on, and information about, prescribed arrangements,
+
+(f) complaints and disputes about prescribed arrangements,
+
+(g) accounts and audit in respect of prescribed arrangements.
+
+(5) Arrangements made by virtue of this section do not affect—
+
+(a) the liability of NHS bodies for the exercise of any of their functions,
+
+(b) the liability of local authorities for the exercise of any of their functions, or
+
+(c) any power or duty to recover charges in respect of services provided in the exercise of any local authority functions.
+
+(6) The Welsh Ministers may issue guidance to NHS bodies and local authorities in relation to consultation or applications for consent in respect of prescribed arrangements.
+
+(7) The reference in subsection (1) to an improvement in the way in which functions are exercised includes an improvement in the provision to any individuals of any services to which those functions relate.
+
+(8) In this section—
+
+- “health-related functions”, in relation to a local authority, means functions of the authority which, in the opinion of the Welsh Ministers—
+
+  - (a) have an effect on the health of any individuals,
+  - (b) have an effect on, or are affected by, any functions of NHS bodies, or
+  - (c) are connected with any functions of NHS bodies,
+
+- “NHS body” does not include a Special Health Authority.
+
+(9) Schedule 12 makes provision with respect to the transfer of staff in connection with arrangements made by virtue of this section.
+
+### 34 Power of local authorities to make payments
+
+(1) A local authority may make payments to [[^F67]NHS England] [[^F68], an integrated care board] [^F69]... [^F70]... or a Local Health Board towards expenditure incurred or to be incurred by the body in connection with the performance by it of prescribed functions.
+
+(2) A payment under this section may be made in respect of expenditure of a capital or of a revenue nature or in respect of both kinds of expenditure.
+
+(3) The Welsh Ministers may by directions prescribe conditions relating to payments under this section.
+
+(4) The power under subsection (3) may in particular be exercised so as to require, in such circumstances as may be specified—
+
+(a) repayment of the whole or part of a payment under this section, or
+
+(b) in respect of property acquired with payments under this section, payment of an amount representing the whole or part of an increase in the value of the property which has occurred since its acquisition.
+
+(5) No payment may be made under this section in respect of any expenditure unless the conditions relating to it conform with the conditions prescribed for payments of that description under subsection (3).
+
+### 35 Care Trusts
+
+(1) Where—
+
+(a) an NHS trust is, or will be, a party to any existing or proposed LA delegation arrangements, and
+
+(b) the Welsh Ministers consider that designation of the NHS trust as a Care Trust would be likely to promote the effective exercise by the NHS trust of prescribed health-related functions of a local authority (in accordance with the arrangements) in conjunction with prescribed NHS functions of the NHS trust,
+
+the Welsh Ministers may designate the NHS trust as a Care Trust.
+
+(2) An NHS trust may, however, be designated only in pursuance of an application made to the Welsh Ministers jointly by each prescribed body.
+
+(3) If the application under subsection (2) requests the Welsh Ministers to do so, they may when designating an NHS trust as a Care Trust make a direction under subsection (4).
+
+(4) The direction is that, while it is designated, the NHS trust may (in addition to exercising health-related functions of the local authority as mentioned in subsection (1)(b)) exercise such prescribed health-related functions of the local authority as are specified in the direction in relation to persons in any area so specified, even though it does not exercise any NHS functions in relation to persons in that area.
+
+(5) Where an NHS trust is designated as a Care Trust under this section—
+
+(a) its designation may be revoked by the Welsh Ministers at any time—
+
+(i) of their own motion, and
+
+(ii) after such consultation as they consider appropriate,
+
+(b) if an application for the revocation of its designation is made to the Welsh Ministers by one or more of the parties to the LA delegation arrangements, its designation must be revoked by the Welsh Ministers at the earliest time at which they consider it practicable to do so, having regard, in particular, to any steps that need to be taken in relation to those arrangements in connection with the revocation.
+
+(6) The designation of an NHS trust as a Care Trust under this section must be effected by an order under section 18 which—
+
+(a) (in the case of an existing NHS trust) amends the order establishing the NHS trust so as to change its name to one that includes the words “Care Trust”, or
+
+(b) (in the case of a new NHS trust) establishes the NHS trust with a name that includes those words,
+
+and any revocation of its designation must be effected by a further order under section 18 which makes such provision for changing the name of the NHS trust as the Welsh Ministers consider expedient.
+
+(7) The power of the Welsh Ministers to dissolve an NHS trust includes power to dissolve an NHS trust where they consider that it is appropriate to do so in connection with the designation of any other NHS trust (whether existing or otherwise) as a Care Trust.
+
+(8) Regulations may make such incidental, supplementary or consequential provision (including provision amending, repealing or revoking enactments) as the Welsh Ministers consider expedient in connection with the preceding provisions of this section.
+
+(9) Regulations under subsection (8) may, in particular, make provision—
+
+(a) prescribing—
+
+(i) the manner and circumstances in which, and
+
+(ii) any conditions which must be satisfied before,
+
+an application may be made for an NHS trust to be designated as a Care Trust under this section, or to cease to be so designated, and the information to be supplied with such an application,
+
+(b) enabling the Welsh Ministers to terminate appointments of persons as members of the board of directors of an NHS trust (or of a committee of such a trust) where they consider that it is appropriate to do so in connection with the designation of the NHS trust as a Care Trust,
+
+(c) requiring the consent of the Welsh Ministers to be obtained before any prescribed change is made with respect to the governance of an NHS trust so designated,
+
+(d) for supplementing or modifying, in connection with the operation of subsection (3), any provision made by regulations under section 33.
+
+(10) The designation of an NHS trust as a Care Trust under this section does not affect any of the functions, rights or liabilities of that NHS trust in its capacity as an NHS trust.
+
+(11) In connection with the exercise by an NHS trust so designated of any relevant social services functions [[^F71]of a local authority in England] under LA delegation arrangements—
+
+(a) section 7 of the Local Authority Social Services Act 1970 (c. 42) (authorities to exercise social services functions under guidance), and
+
+(b) section 7A of that Act (directions as to exercise of such functions),
+
+apply to the NHS trust as if it were a local authority within the meaning of that Act.
+
+[[^F72](11A) In connection with the exercise by a body so designated of any relevant social services functions of a local authority in Wales under LA arrangements, sections 145 to 149 of the Social Services and Well-being (Wales) Act 2014 (codes on the exercise of social services functions) apply to the body as if it were a local authority within the meaning of that Act.]
+
+(12) In this section—
+
+- “health-related functions” has the meaning given by section 33(8),
+
+- “LA delegation arrangements” means arrangements falling within section 33(2)(b), whether or not made in conjunction with any pooled fund arrangements,
+
+- “NHS functions” means functions exercisable by an NHS trust in its capacity as such,
+
+- “pooled fund arrangements” means arrangements falling within section 33(2)(a),
+
+- [[^F73]“relevant social services functions” means—
+
+  - in relation to a local authority in England, health-related functions which are social services functions within the meaning of the Local Authority Social Services Act 1970;
+  - in relation to a local authority in Wales, health-related functions which are social services functions for the purposes of the Social Services and Well-being (Wales) Act 2014 (anaw 4).]
+
+### 36 Directed partnership arrangements
+
+(1) If the Welsh Ministers are of the opinion—
+
+(a) that a body to which this section applies (“the failing body”) is not exercising any of its functions adequately, and
+
+(b) that it would be likely to lead to an improvement in the way in which that function is exercised if it were to be exercised—
+
+(i) by another body to which this section applies under delegation arrangements, or
+
+(ii) in accordance with pooled fund arrangements made with another such body,
+
+the Welsh Ministers may direct those bodies to enter into such delegation arrangements or pooled fund arrangements in relation to the exercise of the appropriate function or functions as are specified in the direction.
+
+(2) In subsection (1) “the appropriate function or functions” means—
+
+(a) the function of the failing body mentioned in that subsection, and
+
+(b) such other function of that body (if any) as the Welsh Ministers consider would, if exercised under or in accordance with the arrangements in question, be likely to contribute to an improvement in the exercise of the function referred to in paragraph (a).
+
+(3) The bodies to which this section applies are—
+
+[^F74]a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F75]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(c) NHS trusts,
+
+(d) Local Health Boards, and
+
+(e) local authorities,
+
+but in subsections (1) and (2) any reference to functions is, in relation to a local authority, a reference only to relevant social services functions of the authority.
+
+(4) In this section any reference to an improvement in the way in which any function is exercised includes an improvement in the provision to any individuals of any services to which that function relates.
+
+(5) In this section—
+
+- “delegation arrangements” means arrangements falling within section 33(2)(b) or (2)(c), whether or not made in conjunction with any pooled fund arrangements,
+- “health-related functions” has the meaning given by section 33(8),
+- “pooled fund arrangements” means arrangements falling within section 33(2)(a),
+- [[^F76]“relevant social services functions” means health-related functions of local authorities in England within the meaning of the Local Authority Social Services Act 1970 (c. 42) or of local authorities in Wales for the purposes of the Social Services and Well-being (Wales) Act 2014 (anaw 4).]
+
+### 37 Further provisions about directions and directed partnership arrangements
+
+(1) A direction under section 36(1) (a “principal direction”) may make provision with respect to—
+
+(a) any of the matters with respect to which provision is required to be made by the specified arrangements by virtue of regulations under section 33, and
+
+(b) such other matters as the Welsh Ministers consider appropriate.
+
+(2) The Welsh Ministers may in particular (either in a principal direction or in any subsequent direction) make provision—
+
+(a) for the determination, whether—
+
+(i) by agreement, or
+
+(ii) (in default of agreement) by the Welsh Ministers or an arbitrator appointed by them,
+
+of the amount of any payments which need to be made by one body to another for the purposes of the effective operation of the specified arrangements, and for the variation of any such determination,
+
+(b) specifying the manner in which the amount of any such payments must be so determined (or varied),
+
+(c) requiring a body specified in the direction to supply to the Welsh Ministers or an arbitrator, for the purpose of enabling any such amount to be so determined (or varied), such information or documents as may be so specified,
+
+(d) requiring any amount so determined (or varied) to be paid by and to such bodies as are specified in the direction,
+
+(e) requiring capital assets specified in the direction to be made available by and to such bodies as are so specified.
+
+(3) The Welsh Ministers may, when giving a principal direction to any bodies to which section 36 applies, give such directions to any other such body as they consider appropriate for or in connection with securing that full effect is given to the principal direction.
+
+(4) Before giving a principal direction to any bodies to which section 36 applies, the Welsh Ministers may—
+
+(a) direct either or both of the bodies in question to take such steps specified in the direction, or
+
+(b) give such other directions,
+
+as the Welsh Ministers consider appropriate with a view to enabling them to determine whether the principal direction should be given.
+
+(5) The revocation of a principal direction does not affect the continued operation of the specified arrangements.
+
+(6) “The specified arrangements”, in relation to a principal direction, means the arrangements specified in the direction in pursuance of section 36(1).
+
+### 38 Supply of goods and services by the Welsh Ministers
+
+(1) The Welsh Ministers may supply to—
+
+(a) local authorities, and
+
+(b) such public bodies or classes of public bodies as the Welsh Ministers may determine,
+
+any goods or materials of a kind used in the health service.
+
+(2) In subsection (1) “public bodies” includes public bodies in Northern Ireland.
+
+(3) The Welsh Ministers may make available to persons falling within subsection (1)—
+
+(a) any facilities provided by them [^F77]... for any service under this Act, and
+
+(b) the services of persons employed by the Welsh Ministers or by a Local Health Board[^F78]... or a Special Health Authority.
+
+(4) The Welsh Ministers may carry out maintenance work (including minor renewals, minor improvements and minor extensions) in connection with any land or building for the maintenance of which a local authority is responsible.
+
+(5) The Welsh Ministers may supply or make available to persons—
+
+(a) providing general ophthalmic services or pharmaceutical services,
+
+(b) providing services under a general medical services contract or a general dental services contract, or
+
+(c) providing services in accordance with section 50 arrangements or section 64 arrangements,
+
+such goods, materials or other facilities as may be prescribed.
+
+(6) The Welsh Ministers must make available to local authorities—
+
+(a) any services (other than the services of any person) or other facilities provided under this Act,
+
+(b) the services provided as part of the health service by any person employed by the Welsh Ministers[^F79]..., a Special Health Authority or a Local Health Board, and
+
+(c) the services of any medical practitioner, dental practitioner or nurse employed by the Welsh Ministers[^F79]..., a Special Health Authority or a Local Health Board otherwise than to provide services which are part of the health service,
+
+so far as is reasonably necessary and practicable to enable local authorities to discharge their functions relating to social services, education and public health.
+
+(7) The Welsh Ministers may arrange to make available to local authorities the services of persons—
+
+(a) providing general ophthalmic services or pharmaceutical services,
+
+(b) performing services under a general medical services contract or a general dental services contract,
+
+(c) providing services in accordance with section 50 arrangements or section 64 arrangements,
+
+(d) providing Local Health Boards[^F80]... or Special Health Authorities with services of a kind provided as part of the health service,
+
+so far as is reasonably necessary and practicable to enable local authorities to discharge their functions relating to social services, education and public health.
+
+### 39 Conditions of supply under section 38
+
+(1) The Welsh Ministers must, before they make available the services of any officer under subsection (3)(b) of section 38, or subsection (6)(b) or (c) of that section—
+
+(a) consult the officer or a body recognised by the Welsh Ministers as representing the officer, or
+
+(b) satisfy themselves that the body who employs the officer has consulted the officer about the matter.
+
+(2) The Welsh Ministers may disregard the provisions of subsection (1) in a case where they—
+
+(a) consider it necessary to make the services of an officer available for the purpose of dealing temporarily with an emergency, and
+
+(b) have previously consulted a body such as is mentioned in subsection (1)(b) about making services available in an emergency.
+
+(3) The Welsh Ministers may, for the purposes of subsection (3)(b) of section 38, or subsection (6)(b) or (c) of that section, give such directions to [^F81]... Special Health Authorities and Local Health Boards to make the services of their officers available as the Welsh Ministers consider appropriate.
+
+(4) Powers under this section and section 38 may be exercised on such terms as may be agreed, including terms as to the making of payments to the Welsh Ministers.
+
+(5) The Welsh Ministers may make such charges in respect of services or facilities provided under section 38(6) as may be agreed between the Welsh Ministers and the local authority or, in default of agreement, as may be determined by arbitration.
+
+(6) Any power to supply goods or materials under section 38 includes—
+
+(a) a power to purchase and store them, and
+
+(b) a power to arrange with third parties for the supply of goods or materials by those third parties.
+
+### [^F82]40 Health and well-being strategies in Wales
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Part 4 — Medical services
+
+### Duty of Local Health Boards in relation to primary medical services
+
+#### 41 Primary medical services
+
+(1) Each Local Health Board must, to the extent that it considers necessary to meet all reasonable requirements, exercise its powers so as to provide primary medical services within its area, or secure their provision within its area.
+
+(2) A Local Health Board may (in addition to any other power conferred on it)—
+
+(a) provide primary medical services itself (whether within or outside its area),
+
+(b) make such arrangements for their provision (whether within or outside its area) as it considers appropriate, and may in particular make contractual arrangements with any person.
+
+(3) Each Local Health Board must publish information about such matters as may be prescribed in relation to the primary medical services provided under this Act.
+
+[^F83]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) Regulations may provide that services of a prescribed description must, or must not, be regarded as primary medical services for the purposes of this Act.
+
+(6) Regulations under this section may in particular describe services by reference to the manner or circumstances in which they are provided.
+
+### General medical services contracts
+
+#### 42 General medical services contracts: introductory
+
+(1) A Local Health Board may enter into a contract under which primary medical services are provided in accordance with the following provisions of this Part.
+
+(2) A contract under this section is called in this Act a “general medical services contract”.
+
+(3) A general medical services contract may make such provision as may be agreed between the Local Health Board and the contractor or contractors in relation to—
+
+(a) the services to be provided under the contract,
+
+(b) remuneration under the contract, and
+
+(c) any other matters.
+
+(4) The services to be provided under a general medical services contract may include—
+
+(a) services which are not primary medical services,
+
+(b) services to be provided outside the area of the Local Health Board.
+
+(5) In this Part, “contractor”, in relation to a general medical services contract, means any person entering into the contract with the Local Health Board.
+
+#### 43 Requirement to provide certain primary medical services
+
+(1) A general medical services contract must require the contractor or contractors to provide, for his or their patients, primary medical services of such descriptions as may be prescribed.
+
+(2) Regulations under subsection (1) may in particular describe services by reference to the manner or circumstances in which they are provided.
+
+#### 44 Persons eligible to enter into GMS contracts
+
+(1) A Local Health Board may, subject to such conditions as may be prescribed, enter into a general medical services contract with—
+
+(a) a medical practitioner,
+
+(b) two or more individuals practising in partnership where the conditions in subsection (2) are satisfied, or
+
+(c) a company limited by shares where the conditions in subsection (3) are satisfied.
+
+(2) The conditions referred to in subsection (1)(b) are that—
+
+(a) at least one partner is a medical practitioner, and
+
+(b) any partner who is not a medical practitioner is either—
+
+(i) an NHS employee,
+
+(ii) a section 50 employee, section 64 employee, section 92 employee, section 107 employee, section 17C employee or Article 15B employee,
+
+(iii) a health care professional who is engaged in the provision of services under this Act or the National Health Service Act 2006 (c. 41), or
+
+(iv) an individual falling within section 51(1)(d).
+
+(3) The conditions referred to in subsection (1)(c) are that—
+
+(a) at least one share in the company is legally and beneficially owned by a medical practitioner, and
+
+(b) any share which is not so owned is legally and beneficially owned by a person referred to in subsection (2)(b).
+
+(4) Regulations may make provision as to the effect, in relation to a general medical services contract entered into by individuals practising in partnership, of a change in the membership of the partnership.
+
+(5) In this section—
+
+“health care professional”, “NHS employee”, “section 50 employee”, “section 64 employee”, “section 92 employee”, “section 107 employee”, “section 17C employee” and “Article 15B employee” have the meaning given by section 51.
+
+#### 45 GMS contracts: payments
+
+(1) The Welsh Ministers may give directions as to payments to be made under general medical services contracts.
+
+(2) A general medical services contract must require payments to be made under the contract in accordance with directions under this section.
+
+(3) Directions under subsection (1) may in particular—
+
+(a) provide for payments to be made by reference to compliance with standards or the achievement of levels of performance,
+
+(b) provide for payments to be made by reference to—
+
+(i) any scheme or scale specified in the direction, or
+
+(ii) a determination made by any person in accordance with factors specified in the direction,
+
+(c) provide for the making of payments in respect of individual practitioners,
+
+(d) provide that the whole or any part of a payment is subject to conditions (and may provide that payments are payable by a Local Health Board only if it is satisfied as to certain conditions),
+
+(e) make provision having effect from a date before the date of the direction, provided that, having regard to the direction as a whole, the provision is not detrimental to the persons to whose remuneration it relates.
+
+(4) Before giving a direction under subsection (1), the Welsh Ministers—
+
+(a) must consult any body appearing to them to be representative of persons to whose remuneration the direction would relate, and
+
+(b) may consult such other persons as they consider appropriate.
+
+(5) “Payments” includes fees, allowances, reimbursements, loans and repayments.
+
+#### 46 GMS contracts: prescription of drugs, etc
+
+(1) A general medical services contract must contain provision requiring the contractor or contractors to comply with any directions given by the Welsh Ministers for the purposes of this section as to the drugs, medicines or other substances which may or may not be ordered for patients in the provision of medical services under the contract.
+
+(2) A direction under this section must, subject to subsection (3), be given by regulations.
+
+(3) A direction under this section may be given by an instrument in writing where it gives effect to a request made in writing to the Welsh Ministers by a person who is a holder of a [[^F84]UK] marketing authorisation in respect of the drug, medicine or other substance to which the request relates.
+
+[[^F85](4) “UK marketing authorisation” has the meaning given by regulation 8(1) of the Human Medicines Regulations 2012 (S.I. 2012/1916).]
+
+#### 47 GMS contracts: other required terms
+
+(1) A general medical services contract must contain such provision as may be prescribed (in addition to the provision required by the preceding provisions of this Part).
+
+(2) Regulations under subsection (1) may in particular make provision as to—
+
+(a) the manner in which, and standards to which, services must be provided,
+
+(b) the persons who perform services,
+
+(c) the persons to whom services will be provided,
+
+(d) the variation of contract terms (other than terms required by or under this Part),
+
+(e) rights of entry and inspection (including inspection of clinical records and other documents),
+
+(f) the circumstances in which, and the manner in which, the contract may be terminated,
+
+(g) enforcement,
+
+(h) the adjudication of disputes.
+
+(3) Regulations making provision under subsection (2)(c) may make provision as to the circumstances in which a contractor or contractors—
+
+(a) must or may accept a person as a patient to whom services are provided under the contract,
+
+(b) may decline to accept a person as such a patient, or
+
+(c) may terminate his or their responsibility for a patient.
+
+(4) Regulations under subsection (2)(d) may—
+
+(a) make provision as to the circumstances in which a Local Health Board may impose a variation of contract terms,
+
+(b) make provision as to the suspension or termination of any duty under the contract to provide services of a prescribed description.
+
+(5) Regulations making provision of the kind described in subsection (4)(b) may prescribe services by reference to the manner or circumstances in which they are provided.
+
+(6) Regulations under subsection (1) must make provision as to the right of patients to choose the persons from whom they receive services.
+
+#### 48 GMS contracts: disputes and enforcement
+
+(1) Regulations may make provision for the resolution of disputes as to the terms of a proposed general medical services contract.
+
+(2) Regulations under subsection (1) may make provision—
+
+(a) for the referral of the terms of the proposed contract to the Welsh Ministers, and
+
+(b) for the Welsh Ministers, or a person appointed by them, to determine the terms on which the contract may be entered into.
+
+(3) Regulations may make provision for a person or persons entering into a general medical services contract to be regarded as a health service body for any purposes of section 7, in circumstances where he or they so elect.
+
+(4) Regulations under subsection (3) may include provision as to the application of section 7 in cases where—
+
+(a) persons practising in partnership elect to become a health service body, and
+
+(b) there is a change in the membership of the partnership.
+
+(5) Where—
+
+(a) by virtue of regulations under subsection (3), section 7(11) applies in relation to a general medical services contract, and
+
+(b) a direction as to payments is made under that subsection in relation to the contract,
+
+the direction is enforceable in a county court (if the court so orders) as if it were a judgment or order of that court.
+
+### Performance of primary medical services
+
+#### 49 Persons performing primary medical services
+
+(1) Regulations may provide that a health care professional of a prescribed description may not perform any primary medical service for which a Local Health Board is responsible unless he is included in a list maintained under the regulations by a Local Health Board.
+
+(2) For the purposes of this section—
+
+(a) “health care professional” means a person who is a member of a profession regulated by a body mentioned in section 25(3) of the National Health Service Reform and Health Care Professions Act 2002 (c. 17),
+
+(b) a Local Health Board is responsible for a medical service if it provides the service, or secures its provision, by or under any enactment.
+
+(3) Regulations under this section may make provision in relation to lists under this section and in particular as to—
+
+(a) the preparation, maintenance and publication of a list,
+
+(b) eligibility for inclusion in a list,
+
+(c) applications for inclusion (including provision as to the Local Health Board to which an application must be made, and for the procedure for applications and the documents to be supplied on application),
+
+(d) the grounds on which an application for inclusion may or must be granted or refused,
+
+(e) requirements with which a person included in a list must comply (including the declaration of financial interests and gifts and other benefits),
+
+(f) suspension or removal from a list (including provision for the grounds for, and consequences of, suspension or removal),
+
+(g) circumstances in which a person included in a list may not withdraw from it,
+
+(h) payments to be made in respect of a person suspended from a list (including provision for the amount of the payment, or the method of calculating the payment, to be determined by the Welsh Ministers or a person appointed by them),
+
+(i) the criteria to be applied in making decisions under the regulations,
+
+(j) appeals against decisions made by a Local Health Board under the regulations, and
+
+(k) disclosure of information about applicants for inclusion, grants or refusals of applications or suspensions or removals,
+
+and may make any provision corresponding to anything in sections 107 to 115.
+
+(4) Regulations under this section may, in particular, also provide for—
+
+(a) a person's inclusion in a list to be subject to conditions determined by a Local Health Board,
+
+(b) a Local Health Board to vary the conditions or impose different ones,
+
+(c) the consequences of failing to comply with a condition (including removal from a list),
+
+(d) the review by a Local Health Board of decisions made by it by virtue of the regulations.
+
+(5) The imposition of such conditions must be with a view to—
+
+(a) preventing any prejudice to the efficiency of the services to which a list relates, or
+
+(b) preventing fraud.
+
+(6) Regulations making provision as to the matters referred to in subsection (3)(k) may in particular authorise the disclosure of information—
+
+(a) by a Local Health Board to the Welsh Ministers, and
+
+(b) by the Welsh Ministers to a Local Health Board.
+
+### Other arrangements for the provision of primary medical services
+
+#### 50 Arrangements by Local Health Boards for the provision of primary medical services
+
+(1) A Local Health Board may make one or more agreements with respect to its area under which primary medical services are provided (otherwise than by the Local Health Board).
+
+(2) An agreement must be in accordance with regulations under section 52.
+
+(3) An agreement may not combine arrangements for the provision of primary medical services with arrangements for the provision of primary dental services.
+
+(4) An agreement may not combine arrangements for the provision of primary medical services with arrangements for the provision of local pharmaceutical services.
+
+(5) But an agreement may include arrangements for the provision of services which are not primary medical services but which may be provided under this Act, other than under Part 6 (general ophthalmic services) or Chapter 1 or 2 of Part 7 (pharmaceutical services and local pharmaceutical services under pilot schemes).
+
+(6) Regulations may provide—
+
+(a) for functions which are exercisable by a Local Health Board in relation to an agreement to be exercisable on behalf of the Local Health Board by a Health Board, and
+
+(b) for functions which are exercisable by a Health Board in relation to an agreement made under section 17C of the National Health Service (Scotland) Act 1978 (c. 29) to be exercisable on behalf of the Board by the Local Health Board.
+
+(7) In this Act, arrangements for the provision of services made under this section are called “section 50 arrangements”.
+
+#### 51 Persons with whom agreements may be made under section 50
+
+(1) A Local Health Board may make an agreement under section 50 only with one or more of the following—
+
+(a) an NHS trust or an NHS foundation trust,
+
+(b) a medical practitioner who meets the prescribed conditions,
+
+(c) a health care professional who meets the prescribed conditions,
+
+(d) an individual who is providing services—
+
+(i) under a general medical services contract or a general dental services contract or an English general medical services contract or an English general dental services contract,
+
+(ii) in accordance with section 50 arrangements, section 64 arrangements, section 92 arrangements, section 107 arrangements, section 17C arrangements or Article 15B arrangements, or
+
+(iii) under section 17J or 25 of the 1978 Act or Article 57 or 61 of the Health and Personal Social Services (Northern Ireland) Order 1972 (S.I. 1972/1265 (N.I.14)),
+
+or has so provided them within such period as may be prescribed,
+
+(e) an NHS employee, a section 50 employee, a section 64 employee, a section 92 employee, a section 107 employee, a section 17C employee or an Article 15B employee,
+
+(f) a qualifying body,
+
+(g) a [^F86]... Local Health Board.
+
+(2) The power under subsection (1) to make an agreement with a person falling within paragraph (d) or (e) of that subsection is subject to such conditions as may be prescribed.
+
+(3) In this section—
+
+- “the 1978 Act” means the National Health Service (Scotland) Act 1978 (c. 29),
+
+- “Article 15B arrangements” means arrangements for the provision of services made under Article 15B of the Health and Personal Social Services (Northern Ireland) Order 1972,
+
+- “Article 15B employee” means an individual who, in connection with the provision of services in accordance with Article 15B arrangements, is employed by a person providing or performing those services,
+
+- “English general dental services contract” means a contract under section 100(2) of the National Health Service Act 2006 (c. 41),
+
+- “English general medical services contract” means a contract under section 84(2) of that Act,
+
+- “health care professional” means a person who is a member of a profession regulated by a body mentioned (at the time the agreement in question is made) in section 25(3) of the National Health Service Reform and Health Care Professions Act 2002 (c. 17),
+
+- “NHS employee” means an individual who, in connection with the provision of services in the health service, the Scottish health service or the Northern Ireland health service, is employed by—
+
+  - (a) an NHS trust, an NHS foundation trust or (in Northern Ireland) a Health and Social Services Trust,
+  - (b) a [^F87]... Local Health Board,
+  - (c) a person who is providing services under a general medical services contract or a general dental services contract or an English general medical services contract or an English general dental services contract,
+  - (d) an individual who is providing services as specified in subsection (1)(d)(iii),
+
+- “the Northern Ireland health service” means the health service within the meaning of the Health and Personal Social Services (Northern Ireland) Order 1972 (S.I. 1972/1265 (N.I.14)),
+
+- “qualifying body” means a company which is limited by shares all of which are legally and beneficially owned by persons falling within paragraph (a), (b), (c), (d), (e) or (g) of subsection (1),
+
+- “the Scottish health service” means the health service within the meaning of the National Health Service (Scotland) Act 1978 (c. 29),
+
+- “section 17C arrangements” means arrangements for the provision of services made under section 17C of the 1978 Act,
+
+- “section 17C employee” means an individual who, in connection with the provision of services in accordance with section 17C arrangements, is employed by a person providing or performing those services,
+
+- “section 92 arrangements” means arrangements for the provision of services made under section 92 of the National Health Service Act 2006 (c. 41),
+
+- “section 107 arrangements” means arrangements for the provision of services made under section 107 of that Act,
+
+- “section 92 employee” means an individual who, in connection with the provision of services in accordance with section 92 arrangements, is employed by a person providing or performing those services,
+
+- “section 107 employee” means an individual who, in connection with the provision of services in accordance with section 107 arrangements, is employed by a person providing or performing those services,
+
+- “section 50 employee” means an individual who, in connection with the provision of services in accordance with section 50 arrangements, is employed by a person providing or performing those services,
+
+- “section 64 employee” means an individual who, in connection with the provision of services in accordance with section 64 arrangements, is employed by a person providing or performing those services.
+
+#### 52 Regulations about section 50 arrangements
+
+(1) The Welsh Ministers may make regulations about the provision of services in accordance with section 50 arrangements.
+
+(2) The regulations must include provision for participants other than Local Health Boards to withdraw from section 50 arrangements if they wish to do so.
+
+(3) The regulations may, in particular—
+
+(a) provide that section 50 arrangements may be made only in prescribed circumstances,
+
+(b) provide that section 50 arrangements may be made only in prescribed areas,
+
+(c) provide that only prescribed services, or prescribed categories of service, may be provided in accordance with section 50 arrangements,
+
+(d) impose conditions (including conditions as to qualifications and experience) to be satisfied by persons performing services in accordance with section 50 arrangements,
+
+(e) require details of section 50 arrangements to be published,
+
+(f) make provision with respect to the variation and termination of section 50 arrangements,
+
+(g) provide for parties to section 50 arrangements to be treated, in such circumstances and to such extent as may be prescribed, as health service bodies for the purposes of section 7,
+
+(h) provide for directions, as to payments, made under section 7(11) (as it has effect as a result of regulations made by virtue of paragraph (g)) to be enforceable in [[^F88]the county court] (if the court so orders) as if they were judgments or orders of that court.
+
+(4) The regulations may also require payments to be made under the arrangements in accordance with directions given for the purpose by the Welsh Ministers.
+
+(5) A direction may make provision having effect from a date before the date of the direction, provided that, having regard to the direction as a whole, the provision is not detrimental to the persons to whose remuneration it relates.
+
+(6) The regulations may also include provision requiring a Local Health Board, in prescribed circumstances and subject to prescribed conditions, to enter into a general medical services contract on prescribed terms with any person who is providing services under section 50 arrangements and who so requests.
+
+(7) The regulations may also include provision for the resolution of disputes as to to the terms of any proposed section 50 arrangements, and in particular may make provision—
+
+(a) for the referral of the terms of the proposed arrangements to the Welsh Ministers, and
+
+(b) for the Welsh Ministers or a person appointed by them to determine the terms on which the arrangements may be entered into.
+
+(8) The regulations must provide for the circumstances in which a person providing primary medical services under section 50 arrangements—
+
+(a) must or may accept a person as a patient to whom such services are so provided,
+
+(b) may decline to accept a person as such a patient,
+
+(c) may terminate his responsibility for a patient.
+
+(9) The regulations must make provision as to the right of patients to choose the persons from whom they receive services under section 50 arrangements.
+
+### Assistance and support
+
+#### 53 Assistance and support: primary medical services
+
+(1) A Local Health Board may provide assistance or support to any person providing or proposing to provide—
+
+(a) primary medical services under a general medical services contract, or
+
+(b) primary medical services in accordance with section 50 arrangements.
+
+(2) Assistance or support provided by a Local Health Board under subsection (1) is provided on such terms, including terms as to payment, as the Local Health Board considers appropriate.
+
+(3) “Assistance” includes financial assistance.
+
+### Local Medical Committees
+
+#### 54 Local Medical Committees
+
+(1) A Local Health Board may recognise a committee formed for its area, or for its area and that of one or more other Local Health Boards, which it is satisfied is representative of—
+
+(a) the persons to whom subsection (2) applies, and
+
+(b) the persons to whom subsection (3) applies.
+
+(2) This subsection applies to—
+
+(a) each medical practitioner who, under a general medical services contract entered into by him, is providing primary medical services in the area for which the committee is formed, and
+
+(b) each medical practitioner who is providing general ophthalmic services in that area.
+
+(3) This subsection applies to each other medical practitioner—
+
+(a) who is performing primary medical services in the area for which the committee is formed—
+
+(i) pursuant to section 41(2)(a),
+
+(ii) in accordance with section 50 arrangements, or
+
+(iii) under a general medical services contract, and
+
+(b) who has notified the Local Health Board that he wishes to be represented by the committee (and has not notified it that he wishes to cease to be so represented).
+
+(4) A committee recognised under this section is called the Local Medical Committee for the area for which it is formed.
+
+(5) Any such committee may delegate any of its functions, with or without restrictions or conditions, to sub-committees composed of members of that committee.
+
+(6) Regulations may require a Local Health Board, in the exercise of its functions relating to primary medical services, to consult any committee recognised by it under this section on such occasions and to such extent as may be prescribed.
+
+(7) A committee recognised under this section has such other functions as may be prescribed.
+
+(8) A committee recognised under this section must in respect of each year determine—
+
+(a) the amount of its administrative expenses for that year attributable to persons of whom it is representative under subsection (1)(a), and
+
+(b) the amount of its administrative expenses for that year attributable to persons of whom it is representative under subsection (1)(b).
+
+(9) A Local Health Board may—
+
+(a) on the request of a committee recognised by it, allot to that committee such sums for defraying the expenses referred to in subsection (8)(a) as the Local Health Board may determine, and
+
+(b) deduct the amount of such sums from the remuneration of persons of whom the committee is representative under subsection (1)(a) under the general medical services contracts, or arrangements under section 71, entered into by those persons with the Local Health Board.
+
+(10) A committee recognised under this section must apportion the amount determined by it under subsection (8)(b) among the persons of whom it is representative under subsection (1)(b); and each such person must pay in accordance with the committee's directions the amount so apportioned to him.
+
+(11) The administrative expenses of a committee include the travelling and subsistence allowances payable to its members.
+
+### Provision of accommodation by the Welsh Ministers
+
+#### 55 Use of accommodation: provision of primary medical services
+
+If the Welsh Ministers consider that any accommodation provided by them by virtue of this Act is suitable for use in connection with the provision of primary medical services, they may make the accommodation available on such terms as they consider appropriate to persons providing those services.
+
+## Part 5 — Dental services
+
+### Duty of Local Health Boards in relation to primary dental services
+
+#### 56 Primary dental services
+
+(1) Each Local Health Board must, to the extent that it considers necessary to meet all reasonable requirements, exercise its powers so as to provide primary dental services within its area, or secure their provision within its area.
+
+(2) A Local Health Board may (in addition to any other power conferred on it) provide primary dental services itself (whether within or outside its area).
+
+(3) Each Local Health Board must publish information about such matters as may be prescribed in relation to the primary dental services for which it makes provision under this Act.
+
+[^F89]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) Regulations may provide that services of a prescribed description must, or must not, be regarded as primary dental services for the purposes of this Act.
+
+(6) Regulations under subsection (5) may in particular describe services by reference to the manner or circumstances in which they are provided.
+
+### General dental services contracts
+
+#### 57 General dental services contracts: introductory
+
+(1) A Local Health Board may enter into a contract under which primary dental services are provided in accordance with the following provisions of this Part.
+
+(2) A contract under this section is called in this Act a “general dental services contract”.
+
+(3) A general dental services contract may make such provision as may be agreed between the Local Health Board and the contractor in relation to—
+
+(a) the services to be provided under the contract (which may include services which are not primary dental services),
+
+(b) remuneration under the contract, and
+
+(c) any other matters.
+
+(4) In this Part, “contractor”, in relation to a general dental services contract, means any person entering into the contract with the Local Health Board.
+
+#### 58 Requirement to provide certain primary dental services
+
+(1) A general dental services contract must require the contractor or contractors to provide, for his or their patients, primary dental services of such descriptions as may be prescribed.
+
+(2) Regulations under subsection (1) may in particular describe services by reference to the manner or circumstances in which they are provided.
+
+#### 59 Persons eligible to enter into GDS contracts
+
+(1) A Local Health Board may, subject to such conditions as may be prescribed, enter into a general dental services contract with—
+
+(a) a dental practitioner,
+
+(b) a dental corporation,
+
+(c) two or more individuals practising in partnership where the conditions in subsection (2) are satisfied.
+
+(2) The conditions referred to in subsection (1)(c) are that—
+
+(a) at least one partner is a dental practitioner, and
+
+(b) any partner who is not a dental practitioner is either—
+
+(i) an NHS employee,
+
+(ii) a section 50 employee, section 64 employee, section 92 employee, section 107 employee, section 17C employee or Article 15B employee,
+
+(iii) a health care professional who is engaged in the provision of services under this Act or the National Health Service Act 2006 (c. 41), or
+
+(iv) an individual falling within section 51(1)(d).
+
+(3) Regulations may make provision as to the effect, in relation to a general dental services contract entered into by individuals practising in partnership, of a change in the membership of the partnership.
+
+(4) In this section—
+
+- “dental corporation” means a body corporate which is carrying on the business of dentistry in accordance with the Dentists Act 1984 (c. 24),
+- “health care professional”, “NHS employee”, “section 50 employee”, “section 64 employee”, “section 92 employee”, “section 107 employee”, “section 17C employee” and “Article 15B employee” have the meaning given by section 65.
+
+#### 60 GDS contracts: payments
+
+(1) The Welsh Ministers may give directions as to payments to be made under general dental services contracts.
+
+(2) A general dental services contract must require payments to be made under the contract in accordance with directions under this section.
+
+(3) A direction under subsection (1) may in particular—
+
+(a) provide for payments to be made by reference to compliance with standards or the achievement of levels of performance,
+
+(b) provide for payments to be made by reference to—
+
+(i) any scheme or scale specified in the direction, or
+
+(ii) a determination made by any person in accordance with factors specified in the direction,
+
+(c) provide for the making of payments in respect of individual practitioners,
+
+(d) provide that the whole or any part of a payment is subject to conditions (and may provide that payments are payable by a Local Health Board only if it is satisfied as to certain conditions),
+
+(e) make provision having effect from a date before the date of the direction, provided that, having regard to the direction as a whole, the provision is not detrimental to the persons to whose remuneration it relates.
+
+(4) Before giving a direction under subsection (1), the Welsh Ministers—
+
+(a) must consult any body appearing to them to be representative of persons to whose remuneration the direction would relate, and
+
+(b) may consult such other persons as they consider appropriate.
+
+(5) “Payments” includes fees, allowances, reimbursements, loans and repayments.
+
+#### 61 GDS contracts: other required terms
+
+(1) A general dental services contract must contain such provision as may be prescribed (in addition to the provision required by the preceding provisions of this Part).
+
+(2) Regulations under subsection (1) may in particular make provision as to—
+
+(a) the manner in which, and standards to which, services must be provided,
+
+(b) the persons who perform services,
+
+(c) the persons to whom services will be provided,
+
+(d) the variation of contract terms (other than terms required by or under this Part),
+
+(e) rights of entry and inspection (including inspection of clinical records and other documents),
+
+(f) the circumstances in which, and the manner in which, the contract may be terminated,
+
+(g) enforcement,
+
+(h) the adjudication of disputes.
+
+(3) Regulations under subsection (2)(d) may make provision as to the circumstances in which a Local Health Board may impose a variation of contract terms.
+
+(4) Regulations under subsection (1) must make provision as to the right of patients to choose the persons from whom they receive services.
+
+#### 62 GDS contracts: disputes and enforcement
+
+(1) Regulations may make provision for the resolution of disputes as to the terms of a proposed general dental services contract.
+
+(2) Regulations under subsection (1) may make provision—
+
+(a) for the referral of the terms of the proposed contract to the Welsh Ministers, and
+
+(b) for the Welsh Ministers, or a person appointed by them, to determine the terms on which the contract may be entered into.
+
+(3) Regulations may make provision for a person or persons entering into a general dental services contract to be regarded as a health service body for any purposes of section 7, in circumstances where he or they so elect.
+
+(4) Regulations under subsection (3) may include provision as to the application of section 7 in cases where—
+
+(a) persons practising in partnership elect to become a health service body, and
+
+(b) there is a change in the membership of the partnership.
+
+(5) Where—
+
+(a) by virtue of regulations under subsection (3), section 7(11) applies in relation to a general dental services contract, and
+
+(b) a direction as to payments is made under that provision in relation to the contract,
+
+the direction is enforceable in [[^F90]the county court](if the court so orders) as if it were a judgment or order of that court.
+
+### Performance of primary dental services
+
+#### 63 Persons performing primary dental services
+
+(1) Regulations may provide that a health care professional of a prescribed description may not perform any primary dental service for which a Local Health Board is responsible unless he is included in a list maintained under the regulations by a Local Health Board.
+
+(2) For the purposes of this section—
+
+(a) “health care professional” means a person who is a member of a profession regulated by a body mentioned in section 25(3) of the National Health Service Reform and Health Care Professions Act 2002 (c. 17),
+
+(b) a Local Health Board is responsible for a dental service if it provides the service, or secures its provision, by or under any enactment.
+
+(3) Regulations under this section may make provision in relation to lists under this section and in particular as to—
+
+(a) the preparation, maintenance and publication of a list,
+
+(b) eligibility for inclusion in a list,
+
+(c) applications for inclusion (including provision as to the Local Health Board to which an application must be made, and for the procedure for applications and the documents to be supplied on application),
+
+(d) the grounds on which an application for inclusion may or must be granted or refused,
+
+(e) requirements with which a person included in a list must comply (including the declaration of financial interests and gifts and other benefits),
+
+(f) suspension or removal from a list (including provision for the grounds for, and consequences of, suspension or removal),
+
+(g) circumstances in which a person included in a list may not withdraw from it,
+
+(h) payments to be made in respect of a person suspended from a list (including provision for the amount of the payment, or the method of calculating the payment, to be determined by the Welsh Ministers or a person appointed by them),
+
+(i) the criteria to be applied in making decisions under the regulations,
+
+(j) appeals against decisions made by a Local Health Board under the regulations, and
+
+(k) disclosure of information about applicants for inclusion, grants or refusals of applications or suspensions or removals,
+
+and may make any provision corresponding to anything in sections 107 to 115.
+
+(4) Regulations under this section may, in particular, also provide for—
+
+(a) a person's inclusion in a list to be subject to conditions determined by a Local Health Board,
+
+(b) a Local Health Board to vary the conditions or impose different ones,
+
+(c) the consequences of failing to comply with a condition (including removal from a list),
+
+(d) the review by a Local Health Board of decisions made by it by virtue of the regulations.
+
+(5) The imposition of such conditions must be with a view to—
+
+(a) preventing any prejudice to the efficiency of the services to which a list relates, or
+
+(b) preventing fraud.
+
+(6) Regulations making provision as to the matters referred to in subsection (3)(k) may in particular authorise the disclosure of information—
+
+(a) by a Local Health Board to the Welsh Ministers, and
+
+(b) by the Welsh Ministers to a Local Health Board.
+
+### Other arrangements for the provision of primary dental services
+
+#### 64 Arrangements by Local Health Boards for the provision of primary dental services
+
+(1) A Local Health Board may make one or more agreements with respect to its area under which primary dental services are provided (otherwise than by the Board).
+
+(2) An agreement must be in accordance with regulations under section 66.
+
+(3) An agreement may not combine arrangements for the provision of primary dental services with arrangements for the provision of primary medical services.
+
+(4) An agreement may not combine arrangements for the provision of primary dental services with arrangements for the provision of local pharmaceutical services.
+
+(5) But an agreement may include arrangements for the provision of services which are not primary dental services but which may be provided under this Act, other than under Part 6 (general ophthalmic services) or Chapter 1 or 2 of Part 7 (pharmaceutical services and local pharmaceutical services under pilot schemes).
+
+(6) Regulations may provide—
+
+(a) for functions which are exercisable by a Local Health Board in relation to an agreement to be exercisable on behalf of the Local Health Boards by a Health Board, and
+
+(b) for functions which are exercisable by a Health Board in relation to an agreement made under section 17C of the National Health Service (Scotland) Act 1978 (c. 29) to be exercisable on behalf of the Health Board by a Local Health Board.
+
+(7) In this Act, arrangements for the provision of services made under this section are called “section 64 arrangements”.
+
+#### 65 Persons with whom agreements may be made under section 64
+
+(1) A Local Health Board may make an agreement under section 64 only with one or more of the following—
+
+(a) an NHS trust or an NHS foundation trust,
+
+(b) a dental practitioner who meets the prescribed conditions,
+
+(c) a health care professional who meets the prescribed conditions,
+
+(d) an individual who is providing services—
+
+(i) under a general medical services contract or a general dental services contract or an English general medical services contract or an English general dental services contract,
+
+(ii) in accordance with section 64 arrangements, section 50 arrangements, section 92 arrangements, section 107 arrangements, section 17C arrangements or Article 15B arrangements, or
+
+(iii) under section 17J or 25 of the 1978 Act or Article 57 or 61 of the Health and Personal Social Services (Northern Ireland) Order 1972 (S.I. 1972/1265 (N.I.14)),
+
+or has so provided them within such period as may be prescribed,
+
+(e) an NHS employee, a section 64 employee, a section 50 employee, a section 92 employee, a section 107 employee, a section 17C employee or an Article 15B employee,
+
+(f) a qualifying body,
+
+(g) a [^F91]...Local Health Board.
+
+(2) The power under subsection (1) to make an agreement with a person falling within paragraph (d) or (e) of that subsection is subject to such conditions as may be prescribed.
+
+(3) In this section—
+
+- “the 1978 Act” means the National Health Service (Scotland) Act 1978 (c. 29),
+
+- “Article 15B arrangements” means arrangements for the provision of services made under Article 15B of the Health and Personal Social Services (Northern Ireland) Order 1972 (S.I. 1972/1265 (N.I.14)),
+
+- “Article 15B employee” means an individual who, in connection with the provision of services in accordance with Article 15B arrangements, is employed by a person providing or performing those services,
+
+- “English general dental services contract” means a contract under section 100(2) of the National Health Service Act 2006 (c. 41),
+
+- “English general medical services contract” means a contract under section 84(2) of that Act,
+
+- “health care professional” means a person who is a member of a profession regulated by a body mentioned (at the time the agreement in question is made) in section 25(3) of the National Health Service Reform and Health Care Professions Act 2002 (c. 17),
+
+- “NHS employee” means an individual who, in connection with the provision of services in the health service, the Scottish health service or the Northern Ireland health service, is employed by—
+
+  - (a) an NHS trust, an NHS foundation trust or (in Northern Ireland) a Health and Social Services Trust,
+  - (b) a [^F92]...Local Health Board,
+  - (c) a person who is providing services under a general medical services contract or a general dental services contract or an English general medical services contract or an English general dental services contract,
+  - (d) an individual who is providing services as specified in subsection (1)(d)(iii),
+
+- “the Northern Ireland health service” means the health service within the meaning of the Health and Personal Social Services (Northern Ireland) Order 1972,
+
+- “qualifying body” means—
+
+  - (a) a company which is limited by shares all of which are legally and beneficially owned by persons falling within paragraph (a), (b), (c), (d), (e) or(g) of subsection (1), or
+  - (b) a body corporate which, in accordance with the provisions of Part 4 of the Dentists Act 1984 (c. 24), is entitled to carry on the business of dentistry,
+
+- “the Scottish health service” means the health service within the meaning of the National Health Service (Scotland) Act 1978,
+
+- “section 17C arrangements” means arrangements for the provision of services made under section 17C of the 1978 Act,
+
+- “section 17C employee” means an individual who, in connection with the provision of services in accordance with section 17C arrangements, is employed by a person providing or performing those services,
+
+- “section 92 arrangements” means arrangements for the provision of services made under section 92 of the National Health Service Act 2006 (c. 41),
+
+- “section 107 arrangements” means arrangements for the provision of services made under section 107 of that Act,
+
+- “section 92 employee” means an individual who, in connection with the provision of services in accordance with section 92 arrangements, is employed by a person providing or performing those services,
+
+- “section 107 employee” means an individual who, in connection with the provision of services in accordance with section 107 arrangements, is employed by a person providing or performing those services,
+
+- “section 64 employee” means an individual who, in connection with the provision of services in accordance with section 64 arrangements, is employed by a person providing or performing those services,
+
+- “section 50 employee” means an individual who, in connection with the provision of services in accordance with section 50 arrangements, is employed by a person providing or performing those services.
+
+#### 66 Regulations about section 64 arrangements
+
+(1) The Welsh Ministers may make regulations about the provision of services in accordance with section 64 arrangements.
+
+(2) The regulations must include provision for participants other than Local Health Boards to withdraw from section 64 arrangements if they wish to do so.
+
+(3) The regulations may, in particular—
+
+(a) provide that section 64 arrangements may be made only in prescribed circumstances,
+
+(b) provide that section 64 arrangements may be made only in prescribed areas,
+
+(c) provide that only prescribed services, or prescribed categories of service, may be provided in accordance with section 64 arrangements,
+
+(d) impose conditions (including conditions as to qualifications and experience) to be satisfied by persons performing services in accordance with section 64 arrangements,
+
+(e) require details of section 64 arrangements to be published,
+
+(f) make provision with respect to the variation and termination of section 64 arrangements,
+
+(g) provide for parties to section 64 arrangements to be treated, in such circumstances and to such extent as may be prescribed, as health service bodies for the purposes of section 7,
+
+(h) provide for directions, as to payments, made under section 7(11) (as it has effect as a result of regulations made by virtue of paragraph (g)) to be enforceable in [[^F93]the county court] (if the court so orders) as if they were judgments or orders of that court.
+
+(4) The regulations may also require payments to be made under the arrangements in accordance with directions given for the purpose by the Welsh Ministers.
+
+(5) A direction may make provision having effect from a date before the date of the direction, provided that, having regard to the direction as a whole, the provision is not detrimental to the persons to whose remuneration it relates.
+
+(6) The regulations may also include provision requiring a Local Health Board, in prescribed circumstances and subject to prescribed conditions, to enter into a general dental services contract on prescribed terms with any person who is providing services under section 64 arrangements and who so requests.
+
+(7) The regulations may also include provision for the resolution of disputes as to to the terms of any proposed section 64 arrangements, and in particular may make provision—
+
+(a) for the referral of the terms of the proposed arrangements to the Welsh Ministers, and
+
+(b) for the Welsh Ministers or a person appointed by them to determine the terms on which the arrangements may be entered into.
+
+(8) The regulations must provide for the circumstances in which a person providing primary medical services under section 64 arrangements—
+
+(a) must or may accept a person as a patient to whom such services are so provided,
+
+(b) may decline to accept a person as such a patient,
+
+(c) may terminate his responsibility for a patient.
+
+(9) The regulations must make provision as to the right of patients to choose the persons from whom they receive services under section 64 arrangements.
+
+### Dental public health
+
+#### 67 Dental public health
+
+(1) A Local Health Board has such functions in relation to dental public health in Wales as may be prescribed.
+
+(2) The Welsh Ministers have such functions in relation to dental public health in Wales as may be prescribed.
+
+(3) The functions of a Local Health Board under this section may be discharged—
+
+(a) by the Local Health Board itself,
+
+(b) by the Local Health Board and one or more other Local Health Boards acting jointly, or
+
+(c) by any other person or body in accordance with arrangements made by the Local Health Board.
+
+### Assistance and support
+
+#### 68 Assistance and support: primary dental services
+
+(1) A Local Health Board may provide assistance or support to any person providing or proposing to provide—
+
+(a) primary dental services under a general dental services contract, or
+
+(b) primary dental services in accordance with section 64 arrangements.
+
+(2) Assistance or support provided by a Local Health Board under subsection (1) is provided on such terms, including terms as to payment, as the Local Health Board considers appropriate.
+
+(3) “Assistance” includes financial assistance.
+
+### Local Dental Committees
+
+#### 69 Local Dental Committees
+
+(1) A Local Health Board may recognise a committee formed for its area, or for its area and that of one or more other Local Health Boards, which it is satisfied is representative of—
+
+(a) the persons to whom subsection (2) applies, and
+
+(b) the persons to whom subsection (3) applies.
+
+(2) This subsection applies to each dental practitioner who, under a general dental services contract entered into by him, is providing primary dental services in the area for which the committee is formed.
+
+(3) This subsection applies to each other dental practitioner—
+
+(a) who is performing primary dental services in the area for which the committee is formed—
+
+(i) pursuant to section 56(2),
+
+(ii) in accordance with section 64 arrangements, or
+
+(iii) under a general dental services contract, and
+
+(b) who has notified the Local Health Board that he wishes to be represented by the committee (and has not notified it that he wishes to cease to be so represented).
+
+(4) A committee recognised under this section is called the Local Dental Committee for the area for which it is formed.
+
+(5) Any such committee may delegate any of its functions, with or without restrictions or conditions, to sub-committees composed of members of that committee.
+
+(6) Regulations may require a Local Health Board, in the exercise of its functions relating to primary dental services, to consult any committee recognised by it under this section on such occasions and to such extent as may be prescribed.
+
+(7) A committee recognised under this section has such other functions as may be prescribed.
+
+(8) A committee recognised under this section must in respect of each year determine—
+
+(a) the amount of its administrative expenses for that year attributable to persons of whom it is representative under subsection (1)(a), and
+
+(b) the amount of its administrative expenses for that year attributable to persons of whom it is representative under subsection (1)(b).
+
+(9) A Local Health Board may—
+
+(a) on the request of a committee recognised by it, allot to that committee such sums for defraying the expenses referred to in subsection (8)(a) as the Local Health Board may determine, and
+
+(b) deduct the amount of such sums from the remuneration of persons of whom it is representative under subsection (1)(a) under the general dental services contracts entered into by them with the Board.
+
+(10) A committee recognised under this section must apportion the amount determined by it under subsection (8)(b) among the persons of whom it is representative under subsection (1)(b); and each such person must pay in accordance with the committee's directions the amount so apportioned to him.
+
+(11) The administrative expenses of a committee include the travelling and subsistence allowances payable to its members.
+
+### Provision of accommodation by the Welsh Ministers
+
+#### 70 Use of accommodation: provision of primary dental services
+
+If the Welsh Ministers consider that any accommodation provided by them by virtue of this Act is suitable for use in connection with the provision of primary dental services, they may make the accommodation available on such terms as they consider appropriate to persons providing those services.
+
+## Part 6 — Ophthalmic services
+
+### General ophthalmic services
+
+#### 71 Arrangements for general ophthalmic services
+
+(1) Each Local Health Board must, in accordance with regulations, arrange as respects its area—
+
+(a) with medical practitioners having the prescribed qualifications, and
+
+(b) with optometrists,
+
+for securing sight tests by them of the persons mentioned in subsection (2).
+
+(2) The persons are—
+
+(a) a child,
+
+(b) a person whose resources fall to be treated under the regulations as being less than or equal to his requirements, or
+
+(c) a person of such other description as may be prescribed.
+
+(3) In subsection (2)—
+
+- “child” means—
+
+  - (a) a person who is under the age of 16 years, or
+  - (b) a person who is under the age of 19 years and receiving qualifying full-time education, and
+
+- “qualifying full-time education” means full-time instruction at a recognised educational establishment or by other means accepted as comparable by the Welsh Ministers.
+
+(4) For the purposes of subsection (3)—
+
+(a) “recognised educational establishment” means an establishment recognised by the Welsh Ministers as being, or as comparable to, a school, college or university, and
+
+(b) regulations may prescribe the circumstances in which a person must, or must not, be treated as receiving full-time instruction.
+
+(5) Regulations under this section may direct how a person's resources and requirements must be calculated and may, in particular, direct that they must be calculated—
+
+(a) by a method set out in the regulations,
+
+(b) by a method described by reference to a method of calculating or estimating income or capital specified in an enactment other than this section or in an instrument made under an Act of Parliament or by reference to such a method but subject to prescribed modifications,
+
+(c) by reference to an amount applicable for the purposes of a payment under an Act of Parliament or an instrument made under an Act of Parliament, or
+
+(d) by reference to the person's being or having been entitled to payment under an Act of Parliament or an instrument made under an Act of Parliament.
+
+(6) Descriptions of persons may be prescribed for the purposes of subsection (1) by reference to any criterion and, in particular, by reference to any of the following criteria—
+
+(a) their age,
+
+(b) the fact that a prescribed person or a prescribed body accepts them as suffering from a prescribed medical condition,
+
+(c) the fact that a prescribed person or a prescribed body accepts that a prescribed medical condition from which they suffer arose in prescribed circumstances,
+
+(d) their receipt of benefit in money or in kind under any enactment or their entitlement to receive any such benefit, and
+
+(e) the receipt of any such benefit by other persons satisfying prescribed conditions or the entitlement of other persons satisfying prescribed conditions to receive such benefits.
+
+(7) Regulations which refer to an Act of Parliament or an instrument made under an Act of Parliament may direct that the reference is to be construed as a reference to that Act or instrument—
+
+(a) as it has effect at the time when the regulations are made, or
+
+(b) both as it has effect at that time and as amended subsequently.
+
+(8) Regulations may provide that a person—
+
+(a) whose sight is tested by a person who provides general ophthalmic services, and
+
+(b) who is shown during the test or within a prescribed time after it to fall within subsection (1),
+
+must be taken for the purposes of the test to have fallen within subsection (1) immediately before the test.
+
+(9) For the purposes of subsection (8), the test must be treated as a sight test under this Act—
+
+(a) for the purposes of any arrangements under this section,
+
+(b) for the purposes of remuneration in respect of the test, and
+
+(c) for any such other purpose as may be prescribed.
+
+(10) Regulations must define the services for the provision of which arrangements under this section must be made, and the services so defined are in this Act referred to as “general ophthalmic services”.
+
+#### 72 Regulations as to general ophthalmic services
+
+(1) Regulations may provide as to the arrangements to be made under section 71, and must include provision—
+
+(a) for the preparation and publication by each Local Health Board of a list of medical practitioners and a list of optometrists who undertake to provide general ophthalmic services for persons in the area of the Local Health Board,
+
+(b) for conferring a right on any medical practitioner having the prescribed qualifications, and on any optometrist, who wishes to be included in an ophthalmic list, to be included,
+
+(c) for conferring on any person a right to choose in accordance with the prescribed procedure the medical practitioner or optometrist by whom his sight will be tested, or from whom any prescription for the supply of optical appliances will be obtained,
+
+(d) for the removal from an ophthalmic list for any area of the name of any person in whose case it has been determined in such manner as may be prescribed that he has never provided, or has ceased to provide, general ophthalmic services for persons in that area.
+
+(2) Subsection (1)(b) is subject to subsections (3) and (4) and Part 8.
+
+(3) The regulations may, in particular, make provision in relation to—
+
+(a) grounds on which a Local Health Board may, or must, refuse to include a medical practitioner or an optometrist in an ophthalmic list (including grounds corresponding to the conditions referred to in section 107(2), (3) and (4) as read with section 109),
+
+(b) information which must be supplied to a Local Health Board by a person included or seeking inclusion in an ophthalmic list (or by arrangement with him),
+
+(c) the supply to a Local Health Board by an individual—
+
+(i) who is included, or seeking inclusion, in an ophthalmic list, or
+
+(ii) who is a director of a body corporate or who is a member of a limited liability partnership included, or seeking inclusion, in such a list,
+
+of a criminal conviction certificate under section 112 of the Police Act 1997 (c. 50), a criminal record certificate under [[^F94]section 113A of that Act, an enhanced criminal record certificate under section 113B of that Act or up-date information within the meaning given by section 116A of that Act,]
+
+(d) grounds on which a Local Health Board may defer a decision whether or not to include a person in an ophthalmic list,
+
+(e) the disclosure by a Local Health Board, to prescribed persons or persons of prescribed descriptions, of information of a prescribed description about applicants for inclusion in an ophthalmic list, and refusals by the Local Health Board to include them, and
+
+(f) criteria to be applied in making decisions under the regulations.
+
+(4) If regulations made by virtue of subsection (3)(a) provide that a Local Health Board may refuse to include a person in an ophthalmic list, they must also provide for an appeal (by way of redetermination) to the [[^F95]First-tier Tribunal] against the decision of the Local Health Board.
+
+(5) The regulations may include provision as to the making of declarations about—
+
+(a) financial interests,
+
+(b) gifts above a prescribed value, and
+
+(c) other benefits received.
+
+(6) Before making regulations by virtue of subsection (5), the Welsh Ministers must consult such organisations as they consider appropriate appearing to them to represent persons providing general ophthalmic services.
+
+(7) In this Act an “ophthalmic list” means a list published in accordance with regulations made under subsection (1)(a).
+
+#### 73 Medical practitioners with qualifications prescribed under section 71
+
+The power conferred by section 71 to prescribe the qualifications to be possessed by any medical practitioner includes a power to—
+
+(a) prescribe a requirement that the practitioner must show to the satisfaction of a committee recognised by the Welsh Ministers for the purpose that he possesses such qualifications, including qualifications as to experience, as may be mentioned in the regulations, and
+
+(b) confer on a person who is dissatisfied with the determination of such a committee, a right of appeal to a committee appointed by the Welsh Ministers, and to provide for any matter for which it appears to the Welsh Ministers to be requisite or expedient to provide in consequence of the conferring of that right.
+
+#### 74 Exercise of choice of practitioner
+
+Regulations may provide that, where a right is conferred to choose the person by whom general ophthalmic services will be provided under this Part, that right must, in the case of prescribed persons, be exercised on their behalf by other prescribed persons.
+
+#### 75 Inadequate provision of ophthalmic services
+
+(1) Subsection (2) applies if the Welsh Ministers are satisfied, after such inquiry as they consider appropriate, that—
+
+(a) as respects the area, or part of the area, of a Local Health Board, the persons whose names are included in any ophthalmic list are not such as to secure the adequate provision of general ophthalmic services in that area or part, or
+
+(b) for any other reason any considerable number of persons in any such area or part are not receiving satisfactory services under the arrangements in force under this Part.
+
+(2) Where this subsection applies, the Welsh Ministers—
+
+(a) may authorise the Local Health Board to make such other arrangements as the Welsh Ministers may approve, or may themselves make such other arrangements, and
+
+(b) may dispense with any of the requirements of regulations made under this Part or Part 8 so far as appears to the Welsh Ministers necessary to meet exceptional circumstances and enable such arrangements to be made.
+
+### Remuneration
+
+#### 76 Remuneration for persons providing general ophthalmic services
+
+(1) The remuneration to be paid to persons who provide general ophthalmic services under this Part must be determined by determining authorities.
+
+(2) Determining authorities may also determine the remuneration to be paid to persons who provide those services in respect of the instruction of any person in matters relating to those services.
+
+(3) For the purposes of this section and section 77 determining authorities are—
+
+(a) the Welsh Ministers, and
+
+(b) so far as authorised by the Welsh Ministers to exercise the functions of determining authorities, any Local Health Board or other person appointed by them in an instrument.
+
+(4) The instrument mentioned in subsection (3)(b) is called in this section an “instrument of appointment”.
+
+(5) An instrument of appointment—
+
+(a) may contain requirements with which a determining authority appointed by that instrument must comply in making determinations, and
+
+(b) may be contained in regulations.
+
+(6) Subject to this section and section 77, regulations may make provision about determining remuneration under this section and may in particular impose requirements with which determining authorities must comply in making, or in connection with, determinations (including requirements as to consultation and publication).
+
+(7) Regulations may provide that determinations may be made by reference to any of—
+
+(a) rates or conditions of remuneration of any persons or any descriptions of persons which are fixed or determined, or will be fixed or determined, otherwise than by way of a determination under this section,
+
+(b) scales, indices or other data of any description specified in the regulations.
+
+(8) Where regulations provide as mentioned in subsection (7)(b), they may provide that any determination which falls to be made by reference to a scale, index or other data may be made by reference to the scale, index or data—
+
+(a) in the form current at the time of the determination, and
+
+(b) in any subsequent form taking effect after that time.
+
+(9) Regulations may—
+
+(a) provide that determining authorities may make determinations which have effect in relation to remuneration in respect of a period beginning on or after a date specified in the determination, which may be the date of the determination or an earlier or later date, but may be an earlier date only if, taking the determination as a whole, it is not detrimental to the persons to whose remuneration it relates,
+
+(b) provide that any determination which does not specify such a date has effect in relation to remuneration in respect of a period beginning—
+
+(i) if it is required to be published, on the date of publication,
+
+(ii) if it is not so required, on the date on which it is made.
+
+(10) A reference in this section or section 77 to a determination is to a determination of remuneration under this section.
+
+#### 77 Section 76: supplementary
+
+(1) Before a determination is made by the Welsh Ministers which relates to all persons who provide general ophthalmic services or a category of such services, they—
+
+(a) must consult a body appearing to them to be representative of persons to whose remuneration the determination would relate, and
+
+(b) may consult such other persons as they consider appropriate.
+
+(2) Determinations may make different provision for different cases, including different provision for any particular case, class of case or area.
+
+(3) Determinations may be—
+
+(a) made in more than one stage,
+
+(b) made by more than one determining authority,
+
+(c) varied or revoked by subsequent determinations.
+
+(4) A determination may be varied—
+
+(a) to correct an error, or
+
+(b) where it appears to the determining authority that it was made in ignorance of or under a mistake as to a relevant fact.
+
+(5) Determinations may, in particular, provide that the whole or any part of the remuneration—
+
+(a) is payable only if the determining authority is satisfied as to certain conditions, or
+
+(b) must be applied for certain purposes or is otherwise subject to certain conditions.
+
+(6) Remuneration under section 76 may be determined from time to time and may consist of payments by way of—
+
+(a) salary,
+
+(b) fees,
+
+(c) allowances,
+
+(d) reimbursement (in full or in part) of expenses incurred or expected to be incurred in connection with the provision of the services or instruction.
+
+(7) At the time a determination is made or varied, certain matters which require determining may be reserved to be decided at a later time.
+
+(8) The matters which may be reserved include in particular—
+
+(a) the amount of remuneration to be paid in particular cases,
+
+(b) whether any remuneration is to be paid in particular cases.
+
+(9) Any determination may be made only after taking into account all the matters which are considered to be relevant by the determining authority.
+
+(10) Such matters may include in particular—
+
+(a) the amount or estimated amount of expenses (taking into account any discounts) incurred in the past or likely to be incurred in the future (whether or not by persons to whose remuneration the determination will relate) in connection with the provision of general ophthalmic services or of any category of general ophthalmic services,
+
+(b) the amount or estimated amount of any remuneration paid or likely to be paid to persons providing such services,
+
+(c) the amount or estimated amount of any other payments or repayments or other benefits received or likely to be received by any such persons,
+
+(d) the extent to which it is desirable to encourage the provision, either generally or in particular places, of general ophthalmic services or the category of general ophthalmic services to which the determination will relate,
+
+(e) the desirability of promoting general ophthalmic services which are—
+
+(i) economic and efficient, and
+
+(ii) of an appropriate standard.
+
+(11) If the determination is of remuneration for a category of general ophthalmic services, the reference in subsection (10)(a) to a category of general ophthalmic services is a reference to the same category of general ophthalmic services or to any other category of general ophthalmic services falling within the same description.
+
+### Local Optical Committees
+
+#### 78 Local Optical Committees
+
+(1) A Local Health Board may recognise a committee formed for its area, or for its area and that of one or more other Local Health Boards, which it is satisfied is representative of the optometrists providing general ophthalmic services in that area.
+
+(2) A committee recognised under this section is called the Local Optical Committee for the area for which it is formed.
+
+(3) Any such committee may delegate any of its functions, with or without restrictions or conditions, to sub-committees composed of members of that committee.
+
+(4) Regulations may require a Local Health Board, in the exercise of functions under this Part, to consult committees recognised by it under this section on such occasions and to such extent as may be prescribed.
+
+(5) Subsection (4) does not affect any other power to require a Local Health Board to consult committees recognised by it under this section.
+
+(6) A committee recognised under this section has such other functions as may be prescribed.
+
+(7) A Local Health Board may, on the request of any committee recognised by it under this section, allot to that committee such sums for defraying the committee's administrative expenses as may be determined by the Local Health Board.
+
+(8) Any sums so allotted must be out of the moneys available to the Local Health Board for the remuneration of persons of whom the committee is representative under this section.
+
+(9) The amount of any such sums must be deducted from the remuneration of those persons in such manner as may be determined by the Local Health Board.
+
+(10) The administrative expenses of a committee include the travelling and subsistence allowances payable to its members.
+
+### Provision of accommodation by the Welsh Ministers
+
+#### 79 Use of accommodation: provision of general ophthalmic services
+
+If the Welsh Ministers consider that any accommodation provided by them by virtue of this Act is suitable for use in connection with the provision of general ophthalmic services, they may make the accommodation available on such terms as they consider appropriate to persons providing those services.
+
+## Part 7 — Pharmaceutical services and local pharmaceutical services
+
+### Chapter 1 — Pharmaceutical services
+
+#### Provision of pharmaceutical services
+
+##### 80 Arrangements for pharmaceutical services
+
+(1) Each Local Health Board must, in accordance with regulations, make the arrangements mentioned in subsection (3).
+
+(2) The Welsh Ministers must make regulations for the purpose of subsection (1).
+
+(3) The arrangements are arrangements as respects the area of the Local Health Board for the provision to persons who are in that area of—
+
+(a) proper and sufficient drugs and medicines and listed appliances which are ordered for those persons by a medical practitioner in pursuance of his functions in the health service, the Scottish health service, the Northern Ireland health service or the armed forces of the Crown,
+
+(b) proper and sufficient drugs and medicines and listed appliances which are ordered for those persons by a dental practitioner in pursuance of—
+
+(i) his functions in the health service, the Scottish health service or the Northern Ireland health service (other than functions exercised in pursuance of the provision of services mentioned in paragraph (c)), or
+
+(ii) his functions in the armed forces of the Crown,
+
+(c) listed drugs and medicines and listed appliances which are ordered for those persons by a dental practitioner in pursuance of the provision of primary dental services or equivalent services in the Scottish health service or the Northern Ireland health service,
+
+(d) such drugs and medicines and such listed appliances as may be determined by the Welsh Ministers for the purposes of this paragraph and which are ordered for those persons by a prescribed description of person in accordance with such conditions, if any, as may be prescribed, in pursuance of functions in the health service, the Scottish health service, the Northern Ireland health service or the armed forces of the Crown, and
+
+(e) such other services as may be prescribed.
+
+(4) The descriptions of persons which may be prescribed for the purposes of subsection (3)(d) are the following, or any sub-category of such a description—
+
+(a) persons who are registered in the register maintained under article 5 of [[^F96]the Health Professions Order 2001],
+
+(b) persons who are registered pharmacists,
+
+(c) persons who are registered in the dental care professionals register established under section 36B of the Dentists Act 1984 (c. 24),
+
+(d) persons who are optometrists,
+
+(e) persons who are registered osteopaths within the meaning of the Osteopaths Act 1993 (c. 21),
+
+(f) persons who are registered chiropractors within the meaning of the Chiropractors Act 1994 (c. 17),
+
+(g) persons who are registered nurses or registered midwives,
+
+(h) persons not mentioned above who are registered in any register established, continued or maintained under an Order in Council under section 60(1) of the Health Act 1999 (c. 8),
+
+(i) any other description of persons which appears to the Welsh Ministers to be a description of persons whose profession is regulated by or under a provision of, or made under, an Act of the Scottish Parliament or Northern Ireland legislation and which the Welsh Ministers consider it appropriate to specify.
+
+[[^F97](4A) Subsection (4)(h) does not apply to persons in so far as they are registered as social care workers in England (within the meaning of section 60 of the Health Act 1999).]
+
+(5) A determination under subsection (3)(d) may—
+
+(a) make different provision for different cases,
+
+(b) provide for the circumstances or cases in which a drug, medicine or appliance may be ordered,
+
+(c) provide that persons falling within a description specified in the determination may exercise discretion in accordance with any provision made by the determination in ordering drugs, medicines and listed appliances.
+
+(6) The arrangements which may be made by a Local Health Board under subsection (1) include arrangements for the provision of a service by means such that the person receiving it does so otherwise than at the premises from which it is provided.
+
+(7) Where a person with whom a Local Health Board makes arrangements under subsection (1) wishes to provide services to persons outside the area of the Local Health Board he may, subject to any provision made by regulations in respect of arrangements under this section, provide such services under the arrangements.
+
+(8) The services provided under this section are, together with additional pharmaceutical services provided in accordance with a direction under section 81, referred to in this Act as “pharmaceutical services”.
+
+(9) In this section—
+
+- “armed forces of the Crown” does not include forces of a Commonwealth country or forces raised in a colony,
+- “listed” means included in a list approved by the Welsh Ministers for the purposes of this section,
+- “the Scottish health service” means the health service within the meaning of the National Health Service (Scotland) Act 1978 (c. 29), and
+- “the Northern Ireland health service” means the health service within the meaning of the Health and Personal Social Services (Northern Ireland) Order 1972 (S.I. 1972/1265 (N.I.14)).
+
+##### 81 Arrangements for additional pharmaceutical services
+
+(1) The Welsh Ministers may—
+
+(a) give directions to a Local Health Board requiring it to arrange for the provision to persons within or outside its area of additional pharmaceutical services, or
+
+(b) by giving directions to a Local Health Board authorise it to arrange for such provision if it wishes to do so.
+
+(2) Directions under this section may require or authorise a Local Health Board to arrange for the provision of a service by means such that the person receiving it does so otherwise than at the premises from which it is provided (whether those premises are inside or outside the area of the Local Health Board).
+
+(3) The Welsh Ministers must publish any directions under this section in the Drug Tariff or in such other manner as they consider appropriate.
+
+(4) In this section—
+
+- ”additional pharmaceutical services”, in relation to directions, means the services (of a kind that do not fall within section 80) which are specified in the directions, and
+- “Drug Tariff” means the Drug Tariff published under regulation 18 of the National Health Service (Pharmaceutical Services) Regulations 1992 (S.I. 1992/662) or under any corresponding provision replacing, or otherwise derived from, that regulation.
+
+##### 82 Terms and conditions, etc
+
+(1) Directions under section 81 may require the Local Health Board to which they apply, when making arrangements—
+
+(a) to include, in the terms on which the arrangements are made, such terms as may be specified in the directions,
+
+(b) to impose, on any person providing a service in accordance with the arrangements, such conditions as may be so specified.
+
+(2) The arrangements must secure that any service to which they apply is provided only by a person—
+
+(a) whose name is included in a pharmaceutical list, or
+
+(b) who has entered into a pharmaceutical care services contract under section 17Q of the National Health Service (Scotland) Act 1978 (c. 29).
+
+(3) Different arrangements may be made with respect to—
+
+(a) the provision of the same service by the same person but in different circumstances, or
+
+(b) the provision of the same service by different persons.
+
+(4) A Local Health Board must provide details of proposed arrangements (including the remuneration to be offered for the provision of services) to any person who asks for them.
+
+(5) After making any arrangements, a Local Health Board must publish, in such manner as the Welsh Ministers may direct, such details of the arrangements as they may direct.
+
+(6) “Pharmaceutical list” includes, subject to any provision of the directions in question, a list published in accordance with regulations made under—
+
+(a) section 129(2)(a) of the National Health Service Act 2006 (c. 41), or
+
+(b) Article 63(2A)(a) of the Health and Personal Social Services (Northern Ireland) Order 1972 (S.I. 1972/1265 (N.I.14)).
+
+##### 82A [[^F98]Pharmaceutical needs assessments
+
+(1) A Local Health Board must prepare and publish an assessment of needs for pharmaceutical services in its area.
+
+(2) A Local Health Board must—
+
+(a) keep the assessment most recently published by it under subsection (1) under review, and
+
+(b) revise it as appropriate.
+
+(3) Regulations must—
+
+(a) specify a date by which a Local Health Board is to prepare and publish its first assessment under subsection (1);
+
+(b) make provision about circumstances in which a Local Health Board is to review and if appropriate revise its assessment (and may make such provision by reference to, among other things, a period within which or following which a Local Health Board is to review and if appropriate revise its assessment);
+
+(c) make provision about the way in which an assessment is to be published.
+
+(4) The regulations may make other provision about the preparation, publication, review and revision of an assessment under subsection (1), including (among other things) about—
+
+(a) the information to be contained in an assessment (which may include, among other things, information relating to persons with whom a Local Health Board has entered into a general medical services contract);
+
+(b) the extent to which an assessment is to take account of likely future needs and of other matters;
+
+(c) consultation to be carried out in connection with an assessment;
+
+(d) procedural requirements.]
+
+##### 83 Regulations as to pharmaceutical services
+
+(1) Regulations must provide for securing that arrangements made by a Local Health Board under section 80 will—
+
+(a) enable persons for whom drugs, medicines or appliances mentioned in that section are ordered as there mentioned to receive them from persons with whom such arrangements have been made, and
+
+(b) ensure the provision of services prescribed under subsection (3)(e) of that section by persons with whom such arrangements have been made.
+
+(2) The regulations must include provision—
+
+(a) for the preparation and publication by a Local Health Board of one or more lists of persons, other than medical practitioners and dental practitioners, who undertake to provide pharmaceutical services from premises in the area of the Local Health Board,
+
+(b) that an application to a Local Health Board for inclusion in a pharmaceutical list must be made in the prescribed manner and must state—
+
+(i) the services which the applicant will undertake to provide and, if they consist of or include the supply of appliances, which appliances he will undertake to supply, and
+
+(ii) the premises from which he will undertake to provide those services,
+
+(c) that, except in prescribed cases (which may, in particular, include cases of applications for the provision only of services falling within subsection (7)—
+
+(i) an application for inclusion in a pharmaceutical list by a person not already included, and
+
+(ii) an application by a person already included in a pharmaceutical list for inclusion also in respect of services or premises other than those already listed in relation to him,
+
+may be granted only if the Local Health Board is [[^F99]satisfied as mentioned in subsection (2B), and]
+
+(d) for the removal of an entry in respect of premises from a pharmaceutical list if it has been determined in the prescribed manner that the person to whom the entry relates—
+
+(i) has never provided from those premises, or
+
+(ii) has ceased to provide from them,
+
+the services, or any of the services, which he is listed as undertaking to provide from them.
+
+[[^F100](2A) The regulations may specify persons or descriptions of persons who are not to be included in a list prepared by virtue of subsection (2)(a).
+
+(2B) The Local Health Board is satisfied as mentioned in this subsection if, having regard to the assessment most recently published by it under section 82A and to any matters specified in the regulations, it is satisfied that granting the application would meet a need in its area for the services, or some of the services, specified in the application.
+
+(2C) In relation to cases where the Local Health Board is satisfied as mentioned in subsection (2B), the regulations may make provision as to—
+
+(a) the procedure for determining whether to grant the application;
+
+(b) matters to be taken into account for the purpose of determining whether to grant the application.]
+
+(3) The regulations may prescribe the extent to which the provision of LP services (within the meaning given by paragraph 1 of Schedule 7) must be taken into account in determining whether to grant an application for inclusion in a pharmaceutical list.
+
+[[^F101](3A) The regulations may prescribe circumstances in which two or more applications referred to in subsection (2)(c)(i) or (ii) may or must be considered together by the Local Health Board.]
+
+(4) The regulations may [[^F102]make provision for the Local Health Board to take into account prescribed matters] where—
+
+[^F103]a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) [[^F104]two or more applications referred to in subsection (2)(c)(i) or (ii)] are considered together by the Local Health Board, and
+
+(c) the Local Health Board would be satisfied as mentioned in [[^F105]subsection (2B)] in relation to each application taken on its own, but is not so satisfied in relation to all of them taken together.
+
+[[^F106](4A) The regulations may in particular make the provision mentioned in subsection (5), with or without modifications.]
+
+(5) The provision mentioned in this subsection is provision for the Local Health Board, in determining which application (or applications) to grant, to take into account any proposals specified in the applications in relation to the sale or supply at the premises in question, otherwise than by way of pharmaceutical services or in accordance with a private prescription, of—
+
+(a) drugs and medicines, and
+
+(b) other products for, or advice in relation to, the prevention, diagnosis, monitoring or treatment of illness or handicap, or the promotion or protection of health.
+
+(6) The regulations may include provision—
+
+[[^F107](za) as to circumstances in which the Local Health Board may invite applications for inclusion in a pharmaceutical list,]
+
+(a) that an application to a Local Health Board may be granted in respect of some only of the services specified in it,
+
+(b) that an application to a Local Health Board relating to services of a prescribed description may be granted only if it appears to the Local Health Board that the applicant has satisfied such conditions with regard to the provision of those services as may be prescribed,
+
+(c) that an application to a Local Health Board by a person who qualified to have his name registered [[^F108]as a pharmacist in the Register maintained under article 19 of the Pharmacy Order 2010 by virtue of a qualification in pharmacy awarded in an EEA State other than the United Kingdom, or in Switzerland,] may not be granted unless the applicant satisfies the Local Health Board that he has the knowledge of English which, in the interest of himself and persons making use of the services to which the application relates, is necessary for the provision of pharmaceutical services in the area of the Local Health Board,
+
+(d) that the inclusion of a person in a pharmaceutical list in pursuance of such an application may be for a fixed period,
+
+(e) that, where the premises from which an application states that the applicant will undertake to provide services are in an area of a prescribed description, the applicant may not be included in the pharmaceutical list unless his inclusion is approved by reference to prescribed criteria by the Local Health Board in whose area those premises are situated,
+
+(f) that that Local Health Board may give its approval subject to conditions,
+
+[[^F109](fa) about the timescale for dealing with an application,]
+
+(g) as to other grounds on which [[^F110]or circumstances in which] a Local Health Board may, or must, refuse to grant an application (including grounds corresponding to the conditions referred to in section 107(2), (3) or (4) as read with section 109),
+
+(h) as to information which must be supplied to a Local Health Board by a person included, or seeking inclusion, in a pharmaceutical list (or by arrangement with him),
+
+(i) for the supply to a Local Health Board by an individual—
+
+(i) who is included, or seeking inclusion, in a pharmaceutical list, or
+
+(ii) who is a member of the body of persons controlling a body corporate included, or seeking inclusion, in a pharmaceutical list,
+
+of a criminal conviction certificate under section 112 of the Police Act 1997 (c. 50), a criminal record certificate under [[^F111]section 113A of that Act, an enhanced criminal record certificate under section 113B of that Act or up-date information within the meaning given by section 116A of that Act,]
+
+(j) for grounds on which a Local Health Board may defer a decision whether or not to grant an application,
+
+(k) for the disclosure by a Local Health Board, to prescribed persons or persons of prescribed descriptions, of information of a prescribed description about applicants for inclusion in a pharmaceutical list, and refusals by the Local Health Board to grant such applications,
+
+(l) as to criteria to be applied in making decisions under the regulations (other than decisions required by virtue of paragraph (e)),
+
+(m) as to the making of declarations about—
+
+(i) financial interests,
+
+(ii) gifts above a prescribed value, and
+
+(iii) other benefits received.
+
+[[^F112](n) as to circumstances in which a Local Health Board may, or must, remove a person or an entry in respect of premises from the pharmaceutical list for breach of a term or condition of arrangements made with the Local Health Board for the provision of pharmaceutical services.]
+
+[[^F113](6A) The regulations, if they make provision within subsection (6)(n), must specify that a person or entry is not to be removed by a Local Health Board unless—
+
+(a) the Local Health Board has given notice under section 106A (notice in relation to breach of arrangements) in respect of the breach, and
+
+(b) the person in respect of whom the notice was given has failed to comply with a requirement of that notice.]
+
+(7) A service falls within this subsection if the means of providing it is such that the person receiving it does so otherwise than at the premises from which it is provided.
+
+(8) The regulations may, in respect of services falling within subsection (7), include provision—
+
+(a) requiring persons to be approved for the purposes of providing such services, or
+
+(b) requiring the Local Health Board to make the grant of an application subject to prescribed conditions.
+
+(9) The approval mentioned in subsection (8)(a) is approval by the Welsh Ministers or such other person as may be specified in the regulations, in accordance with criteria to be specified in or determined under the regulations (whether by the Welsh Ministers or by another person so specified).
+
+(10) Before making regulations by virtue of subsection (6)(m), the Welsh Ministers must consult such organisations as they consider appropriate appearing to them to represent persons providing pharmaceutical services.
+
+[[^F114](10A) The regulations may make provision for a Local Health Board to give reasons for decisions made by virtue of this section.]
+
+(11) In this Act a “pharmaceutical list” means a list published in accordance with regulations made under subsection (2)(a).
+
+##### 84 Regulations under section 83: appeals, etc
+
+(1) Regulations under section 83 must include provision conferring on such persons as may be prescribed rights of appeal from decisions made by virtue of that section.
+
+(2) If regulations made by virtue of section 83(6)(g) provide that a Local Health Board may refuse to grant an application [[^F115]on grounds corresponding to the conditions referred to in section 107(2), (3) or (4) as read with section 109], they must also provide for an appeal[^F116]... to the [[^F117]First-tier Tribunal] against the decision of the Local Health Board.
+
+(3) Regulations under section 83 must be so framed as to preclude—
+
+(a) a person included in a pharmaceutical list, and
+
+(b) an employee of such a person,
+
+from taking part in the decision whether an application such as is mentioned in section 83(2)(c) should be granted or an appeal against such a decision brought by virtue of subsection (1) of this section should be allowed.
+
+[[^F118](4) If regulations made under section 83 include provision for a Local Health Board to remove a person or an entry in respect of premises from a pharmaceutical list, the regulations must also make provision —
+
+(a) requiring the Local Health Board to give notice of its intention to remove the person or entry (including provision requiring the notice to give reasons for the intended removal);
+
+(b) about making representations.]
+
+##### 85 Power to charge
+
+(1) The Welsh Ministers may give directions to a Local Health Board requiring it to charge a fee in cases or descriptions of case specified in the directions to persons who make an application referred to in section 83(2)(c)(i) or (ii).
+
+(2) The Welsh Ministers may in the directions—
+
+(a) specify the fee themselves, or
+
+(b) require the Local Health Board to determine the amount of the fee in accordance with any requirements set out in the directions.
+
+(3) Before determining the amount of the fee–
+
+(a) in a subsection (2)(a) case, the Welsh Ministers must consult such organisations as they consider appropriate that appear to them to represent persons providing pharmaceutical services and such organisations as they consider appropriate that appear to them to represent Local Health Boards,
+
+(b) in a subsection (2)(b) case, the Local Health Board must undertake any consultation required by the directions.
+
+(4) The Welsh Ministers must publish in such manner as they consider appropriate any directions they give under this section.
+
+(5) In a subsection (2)(b) case, the Local Health Board must publish in such manner as it considers appropriate the fee which it determines.
+
+##### 86 Persons authorised to provide pharmaceutical services
+
+(1) Except as may be provided for by or under regulations, no arrangements may be made by a Local Health Board with a medical practitioner or dental practitioner under which he is required or agrees to provide pharmaceutical services to any person to whom he is rendering primary medical services or primary dental services.
+
+(2) Except as may be provided for by or under regulations, no arrangements for the dispensing of medicines may be made under this Chapter with persons other than persons who—
+
+(a) are registered pharmacists or persons lawfully conducting a retail pharmacy business in accordance with section 69 of the Medicines Act 1968 (c. 67), and
+
+(b) undertake that all medicines supplied by them under the arrangements will be dispensed either by or under the supervision of a registered pharmacist.
+
+(3) Regulations must provide for the preparation and publication by each Local Health Board of one or more lists of medical practitioners who undertake to provide drugs, medicines or listed appliances (within the meaning given by section 80) under arrangements with the Local Health Board.
+
+(4) The regulations may, in particular, include provision—
+
+(a) as to grounds on which a Local Health Board may, or must, refuse to grant an application for inclusion in a list of medical practitioners referred to in subsection (3) (including grounds corresponding to the conditions referred to in section 107(2), (3) or (4) as read with section 109(2)),
+
+(b) as to information which must be supplied to a Local Health Board by a medical practitioner included, or seeking inclusion, in such a list (or by arrangement with him),
+
+(c) for the supply to a Local Health Board by a medical practitioner who is included, or seeking inclusion, in such a list of a criminal conviction certificate under section 112 of the Police Act 1997 (c. 50), a criminal record certificate under [[^F119]section 113A of that Act, an enhanced criminal record certificate under section 113B of that Act or up-date information within the meaning given by section 116A of that Act,]
+
+(d) for grounds on which a Local Health Board may defer a decision whether or not to grant an application for inclusion in such a list,
+
+(e) for the disclosure by a Local Health Board to prescribed persons or persons of prescribed descriptions, of information of a prescribed description about applicants for inclusion in such a list, and refusals by the Local Health Board to grant such applications,
+
+(f) as to criteria to be applied in making decisions under the regulations.
+
+(5) If regulations made by virtue of subsection (4)(a) provide that a Local Health Board may refuse to grant an application for inclusion in such a list, they must also provide for an appeal (by way of redetermination) to the [[^F120]First-tier Tribunal] against the decision of the Local Health Board.
+
+(6) The regulations must include provision for the removal of an entry from a list in prescribed circumstances.
+
+(7) No arrangements for the provision of—
+
+(a) pharmaceutical services falling within section 80(3)(e), or
+
+(b) additional pharmaceutical services provided in accordance with a direction under section 81,
+
+may be made with persons other than those who are registered pharmacists or are of a prescribed description.
+
+(8) Where—
+
+(a) arrangements for the provision of pharmaceutical services have been made with a registered pharmacist, and
+
+[[^F121](b) his registration is suspended by virtue of any direction or order under the Pharmacy Order 2010,]
+
+he may not provide pharmaceutical services in person during the period of suspension.
+
+(9) [^F122]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### 87 Inadequate provision of pharmaceutical services
+
+(1) Subsection (2) applies if the Welsh Ministers are satisfied, after such inquiry as they consider appropriate, that—
+
+(a) as respects the area, or part of the area, of a Local Health Board, the persons whose names are included in any pharmaceutical list are not such as to secure the adequate provision of pharmaceutical services in that area or part, or
+
+(b) for any other reason any considerable number of persons in any such area or part are not receiving satisfactory services under the arrangements in force under this Chapter.
+
+(2) Where this subsection applies, the Welsh Ministers—
+
+(a) may authorise the Local Health Board to make such other arrangements as the Welsh Ministers may approve, or may themselves make such other arrangements, and
+
+(b) may dispense with any of the requirements of regulations made under this Chapter or Part 8 so far as appears to the Welsh Ministers necessary to meet exceptional circumstances and enable such arrangements to be made.
+
+#### Remuneration
+
+##### 88 Remuneration for persons providing pharmaceutical services
+
+(1) The remuneration to be paid to persons who provide pharmaceutical services under this Part must be determined by determining authorities.
+
+(2) Determining authorities may also determine the remuneration to be paid to persons who provide those services in respect of the instruction of any person in matters relating to those services.
+
+(3) For the purposes of this section and section 89 determining authorities are—
+
+(a) the Welsh Ministers, and
+
+(b) so far as authorised by the Welsh Ministers to exercise the functions of determining authorities, any Local Health Board or other person appointed by them in an instrument.
+
+(4) The instrument mentioned in subsection (3)(b) is called in this section an “instrument of appointment”.
+
+(5) An instrument of appointment—
+
+(a) may contain requirements with which a determining authority appointed by that instrument must comply in making determinations, and
+
+(b) may be contained in regulations.
+
+(6) Subject to this section and section 89, regulations may make provision about determining remuneration under this section and may in particular impose requirements with which determining authorities must comply in making, or in connection with, determinations (including requirements as to consultation and publication).
+
+(7) Regulations may provide that determinations may be made by reference to any of—
+
+(a) rates or conditions of remuneration of any persons or any descriptions of persons which are fixed or determined, or will be fixed or determined, otherwise than by way of a determination under this section,
+
+(b) scales, indices or other data of any description specified in the regulations.
+
+(8) Where regulations provide as mentioned in subsection (7)(b), they may provide that any determination which falls to be made by reference to a scale, index or other data may be made by reference to the scale, index or data—
+
+(a) in the form current at the time of the determination, and
+
+(b) in any subsequent form taking effect after that time.
+
+[[^F123](8A) Regulations may impose requirements in relation to remuneration in respect of [[^F124]any of the following—
+
+(a) drugs or medicines used for vaccinating or immunising people against disease,
+
+(b) anything used in connection with the supply or administration of drugs or medicines within paragraph (a),
+
+(c) drugs or medicines, not within paragraph (a), that are used for preventing or treating a disease that, at the time the regulations are made, the Welsh Ministers consider to be a pandemic disease or at risk of becoming a pandemic disease,
+
+(d) anything used in connection with the supply or administration of drugs or medicines within paragraph (c), or
+
+(e) a product which is a special medicinal product for the purposes of regulation 167 of the Human Medicines Regulations 2012 (S.I. 2012/1916)].
+
+(8B) Such regulations may, for example, require determining authorities to ensure—
+
+(a) that remuneration is to be calculated by reference to the outcome of prescribed procedures, or
+
+(b) that determinations do not provide for or permit remuneration to be paid in prescribed circumstances.
+
+(8C) Procedures prescribed by virtue of subsection (8B)(a) may include the person to whom remuneration is payable, a health service body or a determining authority—
+
+(a) carrying out inquiries to ensure that remuneration is reasonable, or
+
+(b) estimating an amount of remuneration that is reasonable (whether or not the estimated amount corresponds exactly to expenses in respect of which remuneration is to be paid).
+
+(8D) Circumstances prescribed by virtue of subsection (8B)(b) may include circumstances in which [[^F125]anything within subsection (8A)(a) to (e) is] made available to persons who provide pharmaceutical services under this Part—
+
+(a) by a health service body, or
+
+(b) under an arrangement for the supply of [[^F126]that thing,] to which a health service body is a party.
+
+(8E) In subsections (8A) to (8D)—
+
+- “health service body” has the meaning given by section 7(4);
+- [^F127]...]
+
+[[^F128](8F) Where regulations include provision made in reliance on subsection (8A)(c) or (d) and the Welsh Ministers consider that the disease to which it relates is no longer a pandemic disease or at risk of becoming a pandemic disease, the Welsh Ministers must revoke that provision within such period as the Welsh Ministers consider reasonable (taking into account, in particular, the need for any transitional arrangements).]
+
+(9) Regulations may—
+
+(a) provide that determining authorities may make determinations which have effect in relation to remuneration in respect of a period beginning on or after a date specified in the determination, which may be the date of the determination or an earlier or later date, but may be an earlier date only if, taking the determination as a whole, it is not detrimental to the persons to whose remuneration it relates,
+
+(b) provide that any determination which does not specify such a date has effect in relation to remuneration in respect of a period beginning—
+
+(i) if it is required to be published, on the date of publication,
+
+(ii) if it is not so required, on the date on which it is made.
+
+(10) A reference in this section or section 89 to a determination is to a determination of remuneration under this section.
+
+##### 89 Section 88: supplementary
+
+(1) Before a determination is made by the Welsh Ministers which relates to all persons who provide pharmaceutical services, or a category of such services, they—
+
+(a) must consult a body appearing to them to be representative of persons to whose remuneration the determination would relate, and
+
+(b) may consult such other persons as they consider appropriate.
+
+(2) Determinations may make different provision for different cases, including different provision for any particular case, class of case or area.
+
+(3) Determinations may be—
+
+(a) made in more than one stage,
+
+(b) made by more than one determining authority,
+
+(c) varied or revoked by subsequent determinations.
+
+(4) A determination may be varied—
+
+(a) to correct an error, or
+
+(b) where it appears to the determining authority that it was made in ignorance of or under a mistake as to a relevant fact.
+
+(5) Determinations may, in particular, provide that the whole or any part of the remuneration—
+
+(a) is payable only if the determining authority is satisfied as to certain conditions, or
+
+(b) must be applied for certain purposes or is otherwise subject to certain conditions.
+
+(6) Remuneration under section 88 may be determined from time to time and may consist of payments by way of—
+
+(a) salary,
+
+(b) fees,
+
+(c) allowances,
+
+(d) reimbursement (in full or in part) of expenses incurred or expected to be incurred in connection with the provision of the services or instruction.
+
+(7) At the time a determination is made or varied, certain matters which require determining may be reserved to be decided at a later time.
+
+(8) The matters which may be reserved include in particular—
+
+(a) the amount of remuneration to be paid in particular cases,
+
+(b) whether any remuneration is to be paid in particular cases.
+
+(9) Any determination may be made only after taking into account all the matters which are considered to be relevant by the determining authority.
+
+(10) Such matters may include in particular—
+
+(a) the amount or estimated amount of expenses (taking into account any discounts) incurred in the past or likely to be incurred in the future (whether or not by persons to whose remuneration the determination will relate) in connection with the provision of pharmaceutical services or of any category of pharmaceutical services,
+
+(b) the amount or estimated amount of any remuneration paid or likely to be paid to persons providing such services,
+
+(c) the amount or estimated amount of any other payments or repayments or other benefits received or likely to be received by any such persons,
+
+(d) the extent to which it is desirable to encourage the provision, either generally or in particular places, of pharmaceutical services or the category of pharmaceutical services to which the determination will relate,
+
+(e) the desirability of promoting pharmaceutical services which are—
+
+(i) economic and efficient, and
+
+(ii) of an appropriate standard.
+
+(11) If the determination is of remuneration for a category of pharmaceutical services, the reference in subsection (10)(a) to a category of pharmaceutical services is a reference to the same category of pharmaceutical services or to any other category of pharmaceutical services falling within the same description.
+
+#### Local Pharmaceutical Committees
+
+##### 90 Local Pharmaceutical Committees
+
+(1) A Local Health Board may recognise a committee formed for its area, or for its area and that of one or more other Local Health Boards, which it is satisfied is representative of the persons providing pharmaceutical services from premises in that area.
+
+(2) A committee recognised under this section is called the Local Pharmaceutical Committee for the area for which it is formed.
+
+(3) Any such committee may delegate any of its functions, with or without restrictions or conditions, to sub-committees composed of members of that committee.
+
+(4) Regulations may require a Local Health Board, in the exercise of functions under this Chapter, to consult committees recognised by it under this section on such occasions and to such extent as may be prescribed.
+
+(5) Subsection (4) does not affect any other power to require a Local Health Board to consult committees recognised by it under this section.
+
+(6) A committee recognised under this section has such other functions as may be prescribed.
+
+(7) A Local Health Board may, on the request of any committee recognised by it under this section, allot to that committee such sums for defraying the committee's administrative expenses as may be determined by the Local Health Board.
+
+(8) Any sums so allotted must be out of the moneys available to the Local Health Board for the remuneration of persons of whom the committee is representative under this section.
+
+(9) The amount of any such sums must be deducted from the remuneration of those persons in such manner as may be determined by the Local Health Board.
+
+(10) The administrative expenses of a committee include the travelling and subsistence allowances payable to its members.
+
+#### Provision of accommodation by the Welsh Ministers
+
+##### 91 Use of accommodation: provision of pharmaceutical services
+
+If the Welsh Ministers consider that any accommodation provided by them by virtue of this Act is suitable for use in connection with the provision of pharmaceutical services, they may make the accommodation available on such terms as they consider appropriate to persons providing those services.
+
+### Chapter 2 — Local pharmaceutical services: pilot schemes
+
+#### 92 Pilot schemes
+
+(1) Local Health Boards may establish pilot schemes.
+
+(2) In this Act, a “pilot scheme” means one or more agreements—
+
+(a) made by a Local Health Board in accordance with this Chapter,
+
+(b) under which local pharmaceutical services will be provided (otherwise than by the Local Health Board), and
+
+(c) the parties to which do not include any other Local Health Board.
+
+(3) A pilot scheme may include arrangements—
+
+(a) for the provision of services, other than general ophthalmic services, which are not local pharmaceutical services, but which may be provided under this Act, other than under Part 6 or Chapter 1 of this Part, and whether or not of the kind usually provided by pharmacies,
+
+(b) for the provision of training and education (including training and education for persons who are, or may become, involved in the provision of local pharmaceutical services).
+
+(4) A pilot scheme may not combine arrangements for the provision of local pharmaceutical services with arrangements for the provision of primary medical services or primary dental services.
+
+(5) In determining the arrangements it needs to make in order to comply with section 80, a Local Health Board may take into account arrangements under a pilot scheme made by it.
+
+(6) The functions of an NHS trust and an NHS foundation trust include power to provide any services to which a pilot scheme applies.
+
+(7) In this Chapter—
+
+- “local pharmaceutical services” means such services of a kind which may be provided under section 80, or by virtue of section 81 (other than practitioner dispensing services) as may be prescribed for the purposes of this Chapter, and
+- “piloted services” means services provided under a pilot scheme (including any services to which the scheme applies as a result of subsection (3)).
+
+(8) “Practitioner dispensing services” means the provision of drugs, medicines or listed appliances (within the meaning given by section 80) by a medical practitioner or dental practitioner to a patient of his pursuant to arrangements made by virtue of section 86(1).
+
+#### 93 Making pilot schemes
+
+Schedule 6 makes provision with respect to making pilot schemes, including provision with respect to the procedure to be followed.
+
+#### 94 Designation of priority neighbourhoods or premises
+
+(1) The Welsh Ministers may make regulations allowing a Local Health Board to designate—
+
+(a) neighbourhoods,
+
+(b) premises, or
+
+(c) descriptions of premises,
+
+for the purposes of this section.
+
+(2) The regulations may, in particular, make provision—
+
+(a) as to the circumstances in which, and the neighbourhoods or premises in relation to which, designations may be made or maintained,
+
+(b) allowing a Local Health Board to defer consideration of pharmaceutical list applications relating to neighbourhoods, premises or descriptions of premises that have been designated,
+
+(c) allowing a designation to be cancelled in prescribed circumstances,
+
+(d) requiring a designation to be cancelled—
+
+(i) if the Welsh Ministers give a direction to that effect, or
+
+(ii) in prescribed circumstances.
+
+(3) “Pharmaceutical list applications” means applications for inclusion in a pharmaceutical list.
+
+#### 95 Reviews of pilot schemes
+
+(1) At least one review of the operation of each pilot scheme must be conducted by the Welsh Ministers.
+
+(2) Each pilot scheme must be reviewed under this section before the end of the period of three years beginning with the date on which piloted services are first provided under the scheme.
+
+(3) When conducting a review of a pilot scheme, the Welsh Ministers must give—
+
+(a) the Local Health Board concerned, and
+
+(b) any person providing services under the scheme,
+
+an opportunity to comment on any matter relevant to the review.
+
+(4) Otherwise, the procedure on any review must be determined by the Welsh Ministers.
+
+#### 96 Variation and termination of pilot schemes
+
+(1) The Welsh Ministers may give directions authorising Local Health Boards to vary pilot schemes (otherwise than in response to directions given under subsection (2)) in such circumstances, and subject to such conditions, as may be specified in the directions.
+
+(2) The Welsh Ministers may by directions require a pilot scheme to be varied by the Local Health Board concerned in accordance with the directions.
+
+(3) If satisfied that a pilot scheme is (for any reason) unsatisfactory, the Welsh Ministers may give directions to the Local Health Board concerned requiring it to bring the scheme to an end in accordance with the terms of the directions.
+
+#### 97 NHS contracts and the provision of piloted services
+
+(1) In the case of a pilot scheme entered into, or to be entered into, by a single individual or body corporate (other than an NHS foundation trust), that individual or body may make an application under this section to become a health service body.
+
+(2) In the case of any other pilot scheme, all of those providing, or proposing to provide, piloted services under the scheme may together make an application under this section to become a single health service body.
+
+(3) An application must—
+
+(a) be made to the Welsh Ministers in accordance with such provisions as may be made by regulations, and
+
+(b) specify the pilot scheme in relation to which it is made.
+
+(4) Except in such cases as may be prescribed, the Welsh Ministers may grant an application.
+
+(5) If an application is granted, the Welsh Ministers must specify a date in relation to that application and, as from that date—
+
+(a) in the case of an application under subsection (1), the applicant is, and
+
+(b) in the case of an application under subsection (2), the applicants together are,
+
+a health service body for the purposes of section 7.
+
+(6) That section has effect in relation to such a health service body (“a PHS body”), acting as commissioner, as if the functions referred to in section 7(1) were the provision of piloted services.
+
+(7) Except in such circumstances as may be prescribed, a PHS body resulting from an application under subsection (2) must be treated, at any time, as consisting of those who are providing piloted services under the scheme.
+
+(8) A direction as to payment made under section 7(11) against, or in favour of, a PHS body is enforceable in [[^F129]the county court] (if the court so orders) as if it were a judgment or order of that court.
+
+(9) Regulations may provide for a PHS body to cease to be a PHS body in prescribed circumstances.
+
+(10) The Welsh Ministers must—
+
+(a) maintain and publish a list of PHS bodies,
+
+(b) publish a revised copy of the list as soon as is reasonably practicable after any change is made to it.
+
+(11) The list must be published in such manner as the Welsh Ministers consider appropriate.
+
+#### 98 Funding of preparatory work
+
+(1) Provision may be made by regulations for Local Health Boards to make payments of financial assistance for preparatory work.
+
+(2) “Preparatory work” means work which it is reasonable for a person to undertake—
+
+(a) in connection with preparing proposals for a pilot scheme, or
+
+(b) in preparing for the provision by him of any piloted services.
+
+(3) The regulations may, in particular, include provision—
+
+(a) prescribing the circumstances in which payments of financial assistance may be made,
+
+(b) imposing a limit on the amount of any payment of financial assistance which a Local Health Board may make in any prescribed period in respect of any one person or any one pilot scheme,
+
+(c) imposing a limit on the aggregate amount which a Local Health Board may pay by way of financial assistance in any one financial year,
+
+(d) requiring a person to whom assistance is given under this section to comply with such conditions as may be imposed in accordance with prescribed requirements, and
+
+(e) for repayment in the case of a failure to comply with any condition so imposed.
+
+#### 99 Application of this Act
+
+This Act has effect in relation to piloted services subject to any provision of, or made under, this Chapter, section 103 (application of enactments) or section 127 (charges for local pharmaceutical services).
+
+#### 100 Premises from which piloted services may be provided
+
+The Welsh Ministers may by regulations—
+
+(a) prevent (except in such circumstances and to such extent as may be prescribed) the provision of both piloted services and pharmaceutical services from the same premises,
+
+(b) make provision with respect to the inclusion, removal, re-inclusion or modification of an entry in respect of premises in a pharmaceutical list.
+
+#### 101 Control of entry regulations
+
+The power to make regulations under section 83 includes power to prescribe the extent to which the provision of piloted services must be taken into account in determining whether to grant an application for inclusion in a pharmaceutical list.
+
+### Chapter 3 — Local pharmaceutical services: LPS schemes
+
+#### 102 Local pharmaceutical services schemes
+
+Schedule 7 makes provision with respect to the provision of local pharmaceutical services in accordance with schemes made by Local Health Boards.
+
+### Chapter 4 — Local pharmaceutical services: application of enactments
+
+#### 103 Application of enactments
+
+(1) The Welsh Ministers may by regulations make, in relation to local pharmaceutical services arrangements or persons providing or assisting in the provision of services under such arrangements, provision corresponding (whether or not exactly) to enactments containing provision relating to—
+
+(a) section 50 arrangements or section 64 arrangements, or
+
+(b) persons who provide or perform services under section 50 or section 64.
+
+(2) The regulations may, in particular, provide for the application of any such enactment with such modifications, if any, as the Welsh Ministers consider appropriate.
+
+(3) The provision which may be made under this section includes provision amending, repealing or revoking enactments.
+
+(4) “Local pharmaceutical services arrangements” means arrangements made under an LPS scheme or a pilot scheme.
+
+## Part 8 — Qualifications to practice
+
+### Chapter 1 — Conditional inclusion and supplementary lists
+
+#### 104 Conditional inclusion in ophthalmic and pharmaceutical lists
+
+(1) Regulations may provide—
+
+(a) that if a person is included in an ophthalmic list or a pharmaceutical list he is subject, while he remains included in the list, to conditions determined by the Local Health Board in whose list he is included,
+
+(b) for the Local Health Board to vary that person's terms of service for the purpose of or in connection with the imposition of any such conditions,
+
+(c) for the Local Health Board to vary the conditions or impose different ones,
+
+(d) for the consequences of failing to comply with a condition (including removal from the list), and
+
+(e) for the review by the Local Health Board of any decision made by virtue of the regulations.
+
+(2) The imposition of conditions must be with a view to—
+
+(a) preventing any prejudice to the efficiency of the services in question, or
+
+(b) preventing any acts or omissions within section 107(3)(a).
+
+(3) If regulations provide for a practitioner's removal from the list for breach of condition—
+
+(a) the regulations may provide that he may not withdraw from the list while the Local Health Board is investigating whether there are grounds for exercising their power to remove him, or after the Local Health Board has decided to remove him but before it has given effect to that decision, and
+
+(b) the regulations must include provision—
+
+(i) requiring the practitioner to be given notice of any allegation against him,
+
+(ii) giving him the opportunity of putting his case at a hearing before the Local Health Board makes any decision as to his removal from the list, and
+
+(iii) requiring him to be given notice of the decision of the Local Health Board and the reasons for it and of his right of appeal under subsection (4).
+
+(4) If regulations provide as mentioned in subsection (1), they must also provide for an appeal by the person in question to the [[^F130]First-tier Tribunal] against the decision of the Local Health Board—
+
+(a) to impose conditions, or any particular condition,
+
+(b) to vary a condition,
+
+(c) to vary his terms of service,
+
+(d) on any review of an earlier such decision of the Local Health Board,
+
+(e) to remove him from the list for breach of condition,
+
+and the appeal must be by way of redetermination of the decision of the Local Health Board.
+
+(5) The regulations may provide for any such decision not to have effect until the determination by the [[^F130]First-tier Tribunal] of any appeal against it, and must so provide in relation to a decision referred to in subsection (4)(e).
+
+(6) Regulations under this section may provide for the disclosure by a Local Health Board, to prescribed persons or persons of prescribed descriptions, of information of a prescribed description—
+
+(a) about persons whose inclusion in an ophthalmic or pharmaceutical list is subject to conditions imposed under this section, and
+
+(b) about the removal of such persons from such a list for breach of condition.
+
+(7) In this Part, “terms of service” means the terms upon which, by virtue of regulations, a person undertakes to provide pharmaceutical services.
+
+#### 105 Supplementary lists
+
+(1) The Welsh Ministers may make regulations providing for the preparation and publication by each Local Health Board of one or more lists of persons approved by the Local Health Board for the purpose of assisting in the provision of general ophthalmic services and pharmaceutical services.
+
+(2) Such a list is referred to in this section, section 106 and section 115 as a “supplementary list”.
+
+(3) The regulations may, in particular, include provision as to—
+
+(a) the Local Health Board to which an application for inclusion in a supplementary list must be made,
+
+(b) the procedure for applying for inclusion, including any information to be supplied to the Local Health Board (whether by the applicant or by arrangement with him),
+
+(c) grounds on which the Local Health Board may, or must, refuse a person's application for inclusion in a supplementary list (including his unsuitability for inclusion in such a list), or on which it may defer its decision on the application,
+
+(d) requirements with which a person included in a supplementary list must comply (including the declaration of financial interests and of gifts and other benefits),
+
+(e) grounds on which a Local Health Board may, or must, suspend or remove a person from a supplementary list, the procedure for doing so, and the consequences of doing so,
+
+(f) payments to or in respect of persons who are suspended from a supplementary list (including provision for the amount of the payments, or the method of calculating the amount, to be determined by the Welsh Ministers or by another person appointed for the purpose by the Welsh Ministers),
+
+(g) the supply to the Local Health Board by an applicant for inclusion in a supplementary list, or by a person included in one, of a criminal conviction certificate under section 112 of the Police Act 1997 (c. 50), a criminal record certificate under [[^F131]section 113A of that Act, an enhanced criminal record certificate under section 113B of that Act or up-date information within the meaning given by section 116A of that Act,]
+
+(h) circumstances in which a person included in a supplementary list may not withdraw from it,
+
+(i) criteria to be applied in making decisions under the regulations,
+
+(j) appeals against decisions of Local Health Boards under the regulations,
+
+(k) the disclosure by a Local Health Board, to prescribed persons or persons of prescribed descriptions, of information of a prescribed description about applicants for inclusion in a supplementary list, refusals of such applications, and suspensions and removals from that list.
+
+(4) The regulations may, in particular, also provide for—
+
+(a) a person's inclusion in a supplementary list to be subject to conditions determined by the Local Health Board,
+
+(b) the Local Health Board to vary the conditions or impose different ones,
+
+(c) the consequences of failing to comply with a condition (including removal from the list), and
+
+(d) the review by the Local Health Board of its decisions made by virtue of regulations under this subsection.
+
+(5) The imposition of such conditions must be with a view to—
+
+(a) preventing any prejudice to the efficiency of the services to which the supplementary list relates, or
+
+(b) preventing any acts or omissions of the type described in section 107(3)(a).
+
+(6) Regulations made by virtue of subsection (3)(e) may (but need not) make provision corresponding to anything in sections 107 to 115.
+
+(7) If the regulations provide under subsection (3)(e) or (4) that a Local Health Board may suspend or remove a person from a supplementary list, they must include provision—
+
+(a) requiring him to be given notice of any allegation against him,
+
+(b) giving him the opportunity of putting his case at a hearing before the Local Health Board make any decision as to his suspension or removal, and
+
+(c) requiring him to be given notice of the decision of the Local Health Board and the reasons for it and of any right of appeal under subsection (8) or (9).
+
+(8) If the regulations provide under subsection (3)(c) or (e) that a Local Health Board may refuse a person's application for inclusion in a supplementary list, or remove a person from one, the regulations must provide for an appeal (by way of redetermination) to the [[^F132]First-tier Tribunal] against the decision of the Local Health Board.
+
+(9) If the regulations make provision under subsection (4), they must provide for an appeal (by way of redetermination) by the person in question to the [[^F132]First-tier Tribunal] against the decision of the Local Health Board—
+
+(a) to impose conditions, or any particular condition,
+
+(b) to vary a condition,
+
+(c) to remove him from the supplementary list for breach of condition,
+
+(d) on any review of an earlier such decision of the Local Health Board.
+
+#### 106 Further provision about regulations under section 105
+
+(1) Regulations under section 105 may require a person (“A”) included in—
+
+(a) an ophthalmic list,
+
+(b) a pharmaceutical list, or
+
+(c) a list under section 86(3) (provision of drugs, medicines or listed appliances),
+
+not to employ or engage a person (“B”) to assist him in the provision of the service to which the list relates unless B is included in a list mentioned in subsection (2).
+
+(2) The lists are—
+
+(a) a list referred to in subsection (1),
+
+(b) a supplementary list,
+
+(c) a list under section 49 or 63,
+
+(d) a list corresponding to a list under section 49 or section 63 and prepared by a Local Health Board by virtue of regulations made under section 103,
+
+[^F133]e . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[[^F134](f) a list corresponding to a list mentioned in any of paragraphs (a) to (d) prepared by [[^F135]NHS England] under or by virtue of the National Health Service Act 2006,]
+
+or, in any of the cases in paragraphs (a) to (e), such a list of a prescribed description.
+
+(3) If regulations do so require, they—
+
+(a) need not require both A and B to be included in lists prepared by the same Local Health Board, but
+
+(b) may, in particular, require that both A and B be included in lists prepared by Local Health Boards.
+
+### [[^F136]Chapter 1A — Notices and penalties (prospective)
+
+#### 106A Notices and penalties (prospective)
+
+(1) The Welsh Ministers may by regulations provide that where a practitioner who provides pharmaceutical services or general ophthalmic services under arrangements with a Local Health Board breaches a term of those arrangements, the Local Health Board may—
+
+(a) by a notice require the practitioner to do, or not do, specified things or things of a specified description within a specified period, or
+
+(b) in prescribed circumstances or for a prescribed period, withhold all or part of a payment due to the practitioner under the arrangements.
+
+(2) Regulations under this section must include provision conferring on such persons as may be prescribed rights of appeal from decisions of Local Health Boards made by virtue of this section.
+
+(3) In this section—
+
+- “practitioner” means a person included in an ophthalmic list or a pharmaceutical list, and
+- “specified” means specified in a notice under paragraph (a) of subsection (1).]
+
+### Chapter 2 — Disqualification
+
+#### 107 Disqualification of practitioners
+
+(1) If it appears to a Local Health Board that any of the conditions set out in subsections (2) to (4) is established in relation to a person included in an ophthalmic list or a pharmaceutical list it may (or, in cases falling within subsection (5), must) decide to remove him from that list.
+
+(2) The first condition is that the continued inclusion of the practitioner in the list would be prejudicial to the efficiency of the services which those included in the list undertake to provide (and such a case is referred to in this Chapter as an “efficiency case”).
+
+(3) The second condition is that the practitioner—
+
+(a) has (whether on his own or together with another) by an act or omission caused, or risked causing, detriment to any health scheme by securing or trying to secure for himself or another any financial or other benefit, and
+
+(b) knew that he or the other was not entitled to the benefit,
+
+(and such a case is referred to in this Chapter as a “fraud case”).
+
+(4) The third condition is that the practitioner is unsuitable to be included in the list (and such a case is referred to in this Chapter as an “unsuitability case”).
+
+(5) In unsuitability cases, the Local Health Board must remove the practitioner from the list in prescribed circumstances.
+
+(6) The Local Health Board must state which condition (or conditions) it is relying on when removing a practitioner from a list.
+
+(7) “Health scheme” means—
+
+(a) any of the health services under section 1(1) of this Act, section 1(1) of the National Health Service Act 2006 (c. 41) or any enactment corresponding to section 1(1) of this Act and extending to Scotland or Northern Ireland, and
+
+(b) any prescribed scheme,
+
+and regulations may prescribe any scheme for the purposes of this subsection which appears to the Welsh Ministers to be a health or medical scheme paid for out of public funds.
+
+(8) Detriment to a health scheme includes detriment to any patient of, or person working in, that scheme or any person liable to pay charges for services provided under that scheme.
+
+(9) In this Chapter a “practitioner” means a person included in [[^F137]an ophthalmic list or] a pharmaceutical list.
+
+#### 108 Contingent removal
+
+(1) In an efficiency case or a fraud case, the Local Health Board may, instead of deciding to remove a practitioner from its list, decide to remove him contingently.
+
+(2) If it so decides, it must impose such conditions as it may decide on his inclusion in the list with a view to—
+
+(a) removing any prejudice to the efficiency of the services in question (in an efficiency case), or
+
+(b) preventing further acts or omissions within section 107(3)(a) (in a fraud case).
+
+(3) If the Local Health Board determines that the practitioner has failed to comply with a condition, it may decide to—
+
+(a) vary the conditions, or impose different conditions, or
+
+(b) remove him from its list.
+
+(4) The Local Health Board may decide to vary the terms of service of the person concerned for the purpose of or in connection with the imposition of any conditions by virtue of this section.
+
+#### 109 Fraud and unsuitability cases: supplementary
+
+(1) Where the practitioner is a body corporate, the body corporate must be treated for the purposes of this Chapter as meeting a condition referred to in section 107(3) or (4)—
+
+(a) in the case of an optometrist not referred to in paragraph (b), if any director meets that condition (whether or not he first did so when he was a director), and
+
+(b) in the case of a body corporate providing pharmaceutical services or an optometrist which is a limited liability partnership, if any one of the body of persons controlling the body meets that condition (whether or not he first did so when he was such a person).
+
+(2) A practitioner must be treated for the purposes of this Chapter as meeting the condition referred to in section 107(3) if—
+
+(a) another person, because of an act or omission of his occurring in the course of providing any services mentioned in section 107(1) on the practitioner's behalf, meets that condition, and
+
+(b) the practitioner failed to take all such steps as were reasonable to prevent acts or omissions within section 107(3)(a) occurring in the course of the provision of those services on his behalf.
+
+#### 110 Suspension
+
+(1) If the Local Health Board is satisfied that it is necessary to do so for the protection of members of the public or is otherwise in the public interest, it may suspend a practitioner from its list—
+
+(a) while it decides whether or not to exercise its powers under section 107 or 108 (other than in circumstances falling within paragraph (b)), or
+
+(b) while it waits for a decision affecting the practitioner of a court or of a body which regulates—
+
+(i) the practitioner's profession,
+
+(ii) the profession of a person providing any of the services mentioned in section 107(1) on the practitioner's behalf, or
+
+(iii) if the practitioner is a body corporate, the profession of one of its directors, or one of the body of persons controlling it or (if it is a limited liability partnership) one of its members,
+
+or one of that regulatory body's committees.
+
+(2) The references in subsection (1)(b) to a court or regulatory body are to a court or such a body anywhere in the world.
+
+(3) In a case falling within subsection (1)(a), the Local Health Board must specify the length of the period of suspension.
+
+(4) In a case falling within subsection (1)(b), the Local Health Board may specify that the practitioner remains suspended after the decision referred to there for an additional period which the Local Health Board must specify.
+
+(5) In either case—
+
+(a) before that period expires it may extend, or further extend, the suspension for a further specified period, or
+
+(b) if that period has expired, it may impose a further suspension, for a period which it must specify.
+
+(6) The period of suspension (in a subsection (1)(a) case) or the additional period (in a subsection (1)(b) case), including in both cases the period of any further suspension imposed under subsection (5)(b), may not exceed six months in aggregate, except—
+
+(a) in prescribed circumstances, when it may not extend beyond any prescribed event (which may be the expiry of a prescribed period),
+
+(b) if, on the application of the Local Health Board, the [[^F138]First-tier Tribunal] orders accordingly before the expiry of the period of suspension, or
+
+(c) if the Local Health Board has applied under paragraph (b) before the expiry of the period of suspension, but the [[^F138]First-tier Tribunal] has not made an order by the time it expires, in which case it continues until the FHSAA has made an order.
+
+(7) If the [[^F138]First-tier Tribunal] does so order, it must specify—
+
+(a) the date on which the period of suspension will end, or
+
+(b) an event beyond which it will not continue.
+
+(8) The [[^F138]First-tier Tribunal] may, on the application of the Local Health Board, make a further order (complying with subsection (7)) at any time while the period of suspension pursuant to the earlier order is still continuing.
+
+(9) The Welsh Ministers may make regulations providing for payments to practitioners who are suspended.
+
+(10) Those regulations may include provision for the amount of the payments, or the method of calculating the amount, to be determined by the Welsh Ministers or by another person appointed for the purpose by them.
+
+#### 111 Suspension pending appeal
+
+(1) This section applies if the Local Health Board decides to remove a practitioner from a list under section 107.
+
+(2) In such a case it may also decide to suspend the practitioner from the list pending any appeal by him, if it is satisfied that it is necessary to do so for the protection of members of the public or is otherwise in the public interest.
+
+(3) If it does suspend the practitioner under this section, the suspension has effect from the date when the Local Health Board gave him notice of the suspension.
+
+(4) The suspension has effect until its revocation under subsection (5) or (6) or, if later, until the expiry of the period of 28 days referred to in section 114(1), or, if the practitioner appeals under section 114, until the [[^F139]First-tier Tribunal] has disposed of the appeal.
+
+(5) The Local Health Board may revoke a suspension imposed under this section.
+
+(6) If the practitioner appeals under section 114 against the decision of the Local Health Board to remove him from the list, the [[^F139]First-tier Tribunal] may also revoke a suspension imposed on him under this section.
+
+(7) Subsections (9) and (10) of section 110 apply for the purposes of this section as they apply for the purposes of that.
+
+#### 112 Effect of suspension
+
+While a practitioner is suspended (whether under section 110 or under section 111) he must be treated as not being included in the list from which he has been suspended even though his name appears in it.
+
+#### 113 Review of decisions
+
+(1) The Local Health Board may, and (except in prescribed cases) if requested in writing to do so by the practitioner must, review a contingent removal or a suspension (other than a contingent removal or a suspension imposed by, or a suspension continuing pursuant to, an order of the [[^F140]First-tier Tribunal], or a suspension imposed under section 111).
+
+(2) The practitioner may not request a review before the expiry of the period of—
+
+(a) three months beginning with the date of the decision of the Local Health Board to suspend or contingently remove him, or (as appropriate),
+
+(b) six months beginning with the date of its decision on the previous review.
+
+(3) On such a review, the Local Health Board may—
+
+(a) confirm the contingent removal or the suspension,
+
+(b) in the case of a suspension, terminate it,
+
+(c) in the case of a contingent removal, vary the conditions, impose different conditions, revoke the contingent removal, or remove the practitioner from the list.
+
+#### 114 Appeals
+
+(1) A practitioner may appeal to the [[^F141]First-tier Tribunal] against a decision of a Local Health Board mentioned in subsection (2) [^F142]. . . .
+
+(2) The Local Health Board decisions in question are—
+
+(a) to remove the practitioner from a list (under section 107 or 108(3) or under subsection (5)(b) of this section),
+
+(b) to remove him contingently (under section 108),
+
+(c) to impose any particular condition under section 108, or to vary any condition or to impose any different condition under that section,
+
+(d) to vary his terms of service (under section 108(4)),
+
+(e) any decision on a review of a contingent removal under section 113.
+
+(3) The appeal must be by way of redetermination of the decision of the Local Health Board.
+
+(4) On an appeal, the [[^F143]First-tier Tribunal] may make any decision which the Local Health Board could have made.
+
+(5) If the [[^F143]First-tier Tribunal] decides to remove the practitioner contingently—
+
+(a) the Local Health Board and the practitioner may each apply to the FHSAA for the conditions imposed on the practitioner to be varied, for different conditions to be imposed, or for the contingent removal to be revoked, and
+
+(b) the Local Health Board may remove him from its list if it determines that he has failed to comply with a condition.
+
+(6) The Local Health Board may not remove a person from a list, or impose a contingent removal—
+
+(a) until the expiry of the period of 28 days referred to in subsection (1), or
+
+(b) if the practitioner appeals within that period, until the [[^F143]First-tier Tribunal] has disposed of the appeal.
+
+(7) Regulations may provide for payments by Local Health Boards to practitioners who are removed from lists pursuant to decisions of the [[^F143]First-tier Tribunal] under this section, but whose appeals against those decisions are successful.
+
+(8) Regulations under subsection (7) may include provision for the amount of the payments, or the method of calculating the amount, to be determined by the Welsh Ministers or by another person appointed for the purpose by them.
+
+#### 115 National disqualification
+
+(1) If the [[^F144]First-tier Tribunal] removes the practitioner from a list, it may also decide to disqualify him from inclusion in—
+
+(a) the pharmaceutical lists and ophthalmic lists prepared by each Local Health Board,
+
+(b) the supplementary lists prepared by each Local Health Board,
+
+(c) the lists under section 49 or 63 prepared by each Local Health Board,
+
+(d) the lists corresponding to the lists under section 49 prepared by each Local Health Board by virtue of regulations made under section 103,
+
+[^F145]e . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[[^F146](f) the lists corresponding to the lists mentioned in paragraphs (a) to (d) prepared by [[^F147]NHS England] under or by virtue of the National Health Service Act 2006,]
+
+or only from inclusion in one or more descriptions of such lists prepared by each Local Health Board [[^F148]and [[^F147]NHS England]] [^F149]..., the description being specified by the [[^F144]First-tier Tribunal] in its decision.
+
+(2) A decision by the [[^F144]First-tier Tribunal] to do what is mentioned in subsection (1) is referred to in this section as the imposition of a national disqualification.
+
+(3) The [[^F144]First-tier Tribunal] may also impose a national disqualification on a practitioner if it dismisses an appeal by him against the refusal by a Local Health Board to include him in such a list.
+
+(4) The Local Health Board may apply to the [[^F144]First-tier Tribunal] for a national disqualification to be imposed on a person after the Local Health Board has—
+
+(a) removed him from a list prepared by it of any of the kinds referred to in subsection (1)(a) to (d), or
+
+(b) refused to include him in such a list.
+
+(5) Any such application must be made before the end of the period of three months beginning with the date of the removal or of the Local Health Board's refusal.
+
+(6) If the [[^F144]First-tier Tribunal] imposes a national disqualification on a person—
+
+(a) no Local Health Board [^F150]...[[^F151]or [[^F147]NHS England]] may include him in a list of any of the kinds prepared by it from which he has been disqualified from inclusion, and
+
+(b) if he is included[[^F152], and [[^F147]NHS England],] in such a list, each Local Health Board[^F153]... in whose list he is included must remove him from it.
+
+(7) The [[^F144]First-tier Tribunal] may at the request of the person upon whom it has been imposed review a national disqualification, and on a review may confirm it or revoke it.
+
+(8) Subject to subsection (9), the person may not request such a review before the end of the period of—
+
+(a) two years beginning with the date on which the national disqualification was imposed, or
+
+(b) one year beginning with the date of the [[^F154]First-tier Tribunal's] decision on the last such review.
+
+(9) The Welsh Ministers may provide in regulations for subsection (8) to have effect in prescribed circumstances as if the reference there to “two years” or “one year” were a reference to a different period specified in the regulations.
+
+#### 116 Notification of decisions
+
+Regulations may require a Local Health Board to notify prescribed persons, or persons of prescribed descriptions, of any decision it makes under this Chapter, and of any information relevant to the decision which it considers appropriate to include in the notification.
+
+#### 117 Withdrawal from lists
+
+Regulations may provide for circumstances in which a practitioner—
+
+(a) whom a Local Health Board is investigating in order to see whether there are grounds for exercising its powers under section 107, 108 or 110,
+
+(b) whom a Local Health Board has decided to remove from a list under section 107 or 108, or contingently remove under section 108, but who has not yet been removed or contingently removed, or
+
+(c) who has been suspended under section 110,
+
+may not withdraw from a list in which he is included.
+
+#### 118 Regulations about decisions under this Chapter
+
+(1) Any decision by a Local Health Board referred to in this Chapter must be reached in accordance with regulations about such decisions.
+
+(2) The regulations must include provision—
+
+(a) requiring the practitioner to be given notice of any allegation against him,
+
+(b) giving him the opportunity of putting his case at a hearing before a Local Health Board makes any decision affecting him under this Chapter,
+
+(c) requiring him to be given notice of the decision of the Local Health Board and the reasons for it and of any right of appeal which he may have.
+
+(3) The regulations may, in particular, make provision as to criteria which the Local Health Board must apply when making decisions in unsuitability cases.
+
+#### 119 Corresponding provisions in Scotland and Northern Ireland
+
+(1) This section applies where it appears to the Welsh Ministers that there is provision in Scotland or Northern Ireland under which a person may be dealt with in any way which corresponds (whether or not exactly) with a way in which a person may be dealt with under this Chapter.
+
+(2) A decision in Scotland or Northern Ireland to deal with such a person in such a way is referred to in this section as a “corresponding decision”.
+
+(3) If this section applies, the Welsh Ministers may make regulations providing for the effect to be given in Wales to a corresponding decision.
+
+(4) That effect need not be the same as the effect of the decision in the place where it was made.
+
+(5) The regulations may not provide for a corresponding decision to be reviewed or revoked in Wales.
+
+### Chapter 3 — Indemnity Cover
+
+#### 120 Indemnity cover
+
+(1) The Secretary of State may make regulations for the purpose of securing that, in prescribed circumstances, prescribed persons included in a pharmaceutical list or an ophthalmic list hold approved indemnity cover.
+
+(2) The regulations may, in particular, make provision as to the consequences of a failure to hold approved indemnity cover, including provision—
+
+(a) for securing that a person must not be added to a pharmaceutical list or an ophthalmic list unless he holds approved indemnity cover,
+
+(b) for the removal from such a list prepared by a Local Health Board of a person who does not within a prescribed period after the making of a request by the Local Health Board in the prescribed manner satisfy the Local Health Board that he holds approved indemnity cover.
+
+(3) For the purposes of this section—
+
+- “approved body” means a person or persons approved in relation to indemnity cover of any description, after such consultation as may be prescribed, by the Secretary of State or by such other person as may be prescribed,
+
+- “approved indemnity cover” means indemnity cover made—
+
+  - (a) on prescribed terms, and
+  - (b) with an approved body,
+
+- “indemnity cover”, in relation to a person included in a pharmaceutical list or an ophthalmic list (or a person who proposes to provide pharmaceutical services or general ophthalmic services), means a contract of insurance or other arrangement made for the purpose of indemnifying him, and any person prescribed in relation to him, to any prescribed extent against any liability which—
+
+  - (a) arises out of the provision of pharmaceutical services or general ophthalmic services in accordance with arrangements made by him with a Local Health Board, and
+  - (b) is incurred by him or any such person in respect of the death or personal injury of a person,
+
+- “personal injury” means any disease or impairment of a person's physical or mental condition and includes the prolongation of any disease or such impairment,
+
+and a person holds approved indemnity cover if he has entered into a contract or arrangement which constitutes approved indemnity cover.
+
+(4) The regulations may provide that a person of any description who has entered into a contract or arrangement which is—
+
+(a) in a form identified in accordance with the regulations in relation to persons of that description, and
+
+(b) made with a person or persons so identified,
+
+must be treated as holding approved indemnity cover for the purposes of the regulations.
+
+(5) Regulations under this section have effect as if made under the National Health Service Act 2006 (c. 41) (and accordingly, section 272 of that Act applies to any such regulations).
+
+## Part 9 — Charging
+
+### Power to charge generally
+
+#### 121 Charges for drugs, medicines or appliances, or pharmaceutical services
+
+(1) Regulations may provide for the making and recovery in such manner as may be prescribed of such charges as may be prescribed in respect of—
+
+(a) the supply under this Act (otherwise than under Part 6 or Chapter 1 of Part 7) of drugs, medicines or appliances (including the replacement and repair of those appliances), and
+
+(b) such of the pharmaceutical services referred to in Chapter 1 of Part 7 as may be prescribed.
+
+(2) Regulations under this section may in particular make provision in relation to the supply of contraceptive substances and appliances under paragraph 8 of Schedule 1.
+
+(3) This section does not apply in relation to the provision of any relevant dental service (within the meaning of section 125).
+
+#### 122 Exemptions from general charging
+
+(1) No charge may be made under regulations under section 121(1) in respect of—
+
+(a) the supply of any drug, medicine or appliance for a patient who is resident in hospital,
+
+(b) the supply of any drug or medicine for the treatment of sexually transmitted disease (otherwise than in the provision of primary medical services),
+
+(c) the supply of any appliance (otherwise than in pursuance of paragraph 8(d) of Schedule 1) for a person who is under 16 years of age or is under 19 years of age and receiving qualifying full-time education, or
+
+(d) the replacement or repair of any appliance in consequence of a defect in the appliance as supplied.
+
+(2) In subsection (1)(c) “qualifying full-time education” means full-time instruction at a recognised educational establishment or by other means accepted as comparable by the Welsh Ministers.
+
+(3) For the purposes of subsection (2)—
+
+(a) “recognised educational establishment” means an establishment recognised by the Welsh Ministers as being, or as comparable to, a school, college or university, and
+
+(b) regulations may prescribe the circumstances in which a person must, or must not, be treated as receiving full-time instruction.
+
+#### 123 Pre-payment certificates
+
+(1) Regulations under section 121(1) may provide for the grant, on payment of such sums as may be prescribed, of a pre-payment certificate.
+
+(2) A pre-payment certificate is a certificate which confers on the person to whom it is granted exemption from charges otherwise chargeable under the regulations in respect of drugs, medicines and appliances supplied during such period as may be prescribed.
+
+(3) Different sums may be prescribed in relation to different periods.
+
+#### 124 Charges in respect of non-residents
+
+(1) Regulations may provide for the making and recovery, in such manner as may be prescribed, of such charges as the Welsh Ministers may determine in respect of the services mentioned in subsection (2).
+
+(2) The services are such services as may be prescribed which are—
+
+(a) provided under this Act, and
+
+(b) provided in respect of such persons not ordinarily resident in Great Britain as may be prescribed.
+
+(3) Regulations under this section may provide that the charges may be made only in such cases as may be determined in accordance with the regulations.
+
+(4) The Welsh Ministers may calculate charges under this section on any basis that they consider to be the appropriate commercial basis.
+
+### Charging for dental services
+
+#### 125 Dental charging
+
+(1) Regulations may provide for the making and recovery, in such manner as may be prescribed, of charges for relevant dental services.
+
+(2) Regulations under subsection (1) may in particular include provision—
+
+(a) specifying the amount, or maximum amount, of any charge (or aggregate charge in respect of the provision for two or more relevant dental services),
+
+(b) for calculating the amount of any charge,
+
+(c) for the variation of the amount, or maximum amount, of any charge in cases of a prescribed description,
+
+(d) for any charge not to be payable in cases of a prescribed description,
+
+(e) for power to direct that a charge is not payable in any particular case,
+
+(f) for the repayment of any charge (including provision as to the persons by whom, and manner in which, repayments must be made).
+
+(3) Regulations under subsection (1) may provide for sums which would otherwise be payable by a Local Health Board or Special Health Authority to persons providing relevant dental services to be reduced by the amount of the charges authorised by the regulations.
+
+(4) In this section and section 126 “relevant dental services” means—
+
+(a) dental treatment provided—
+
+(i) under section 56(2),
+
+(ii) under a general dental services contract, or
+
+(iii) in accordance with section 64 arrangements, and
+
+(b) the supply of dentures and other dental appliances under this Act.
+
+(5) Any reference in this section or 126 to the supply of an appliance includes a reference to its repair, adjustment, refitting or replacement and, in the case of dentures, to their being relined or having additions made to them.
+
+#### 126 Exemptions from dental charging
+
+(1) No charge may be made under regulations under section 125(1) in respect of a relevant dental service provided for any person who at the prescribed time—
+
+(a) was under 18,
+
+(b) was under 19 and receiving qualifying full-time education,
+
+(c) was pregnant, or
+
+(d) had given birth to a child within the previous 12 months.
+
+(2) No charge may be made under regulations under section 125(1) in respect of—
+
+(a) the repair or replacement of any appliance,
+
+(b) any appliance supplied to a patient who is resident in a hospital,
+
+(c) the arrest of bleeding.
+
+(3) Subsections (1) and (2)(a) do not apply in relation to—
+
+(a) the repair or replacement of any appliance of a prescribed description,
+
+(b) the repair or replacement of any appliance where it is determined in the prescribed manner—
+
+(i) in any case, that the repair or replacement was necessitated by an act or omission of the person supplied, or
+
+(ii) in a case where the person supplied was under the age of 16, that the repair or replacement was necessitated by an act or omission, occurring while that person was under that age, of a person having charge of him.
+
+(4) Subsection (2)(b) does not apply where an appliance is supplied—
+
+(a) under section 56(2),
+
+(b) under a general dental services contract, or
+
+(c) in accordance with section 64 arrangements.
+
+(5) Regulations may provide, with respect to any exemption under this section, that it must be a condition of the exemption that—
+
+(a) a declaration of the prescribed kind is made in the prescribed form and manner,
+
+(b) a certificate or other evidence of the prescribed kind is supplied in the prescribed form and manner.
+
+(6) In subsection (1)(b) “qualifying full-time education” means full-time instruction at a recognised educational establishment or by other means accepted as comparable by the Welsh Ministers.
+
+(7) For the purposes of subsection (6)—
+
+(a) “recognised educational establishment” means an establishment recognised by the Welsh Ministers as being, or as comparable to, a school, college or university, and
+
+(b) regulations may prescribe the circumstances in which a person must, or must not, be treated as receiving full-time instruction.
+
+(8) In subsection (1)(d), “child” includes a still-born child (within the meaning of the Births and Deaths Registration Act 1953 (c. 20).
+
+### Charging for local pharmaceutical services
+
+#### 127 Charges, recovery of payments and penalties
+
+(1) Regulations may provide for the making and recovery, in such manner as may be prescribed, of charges for—
+
+(a) local pharmaceutical services provided under pilot schemes, or
+
+(b) local pharmaceutical services provided under LPS schemes.
+
+(2) The regulations may in particular provide for—
+
+(a) exemptions from charges,
+
+(b) the liability to pay charges to be disregarded in prescribed circumstances or for prescribed purposes,
+
+(c) section 140 (recovery of certain charges and payments) to apply also in relation to local pharmaceutical services (with or without modification),
+
+(d) section 141 (penalties) to apply also in relation to local pharmaceutical services (with or without modification).
+
+(3) The regulations must secure that the amount charged for any service is the same as the amount that would be charged for that service if it were provided under Chapter 1 of Part 7.
+
+### Charging for optical appliances
+
+#### 128 Charges for optical appliances
+
+(1) Regulations may provide for the making and recovery, in such manner as may be prescribed, of charges in respect of the supply under this Act of optical appliances.
+
+(2) The amount of the charges may be determined—
+
+(a) in regulations, or
+
+(b) by or in accordance with directions given by the Welsh Ministers.
+
+(3) Regulations or directions may—
+
+(a) vary the amount or maximum amount of charges, or
+
+(b) provide that the charges are not payable.
+
+(4) A reference to supply includes a reference to replacement.
+
+(5) In this Act “optical appliances” means glasses and contact lenses, but regulations may provide for a different definition of optical appliances to have effect for the purposes of this Act.
+
+#### 129 Payments in respect of optical appliances
+
+(1) The Welsh Ministers must provide by regulations for payments to be made by them or a relevant body to meet, or to contribute towards, the cost incurred (whether by way of charge under this Act or otherwise) for the supply of optical appliances for which—
+
+(a) a prescription has been given for a person mentioned in subsection (2) in consequence of a sight test under this Act, or
+
+(b) a prescription has been given for a person mentioned in subsection (2) in consequence of a sight test otherwise than under this Act which took place in prescribed circumstances.
+
+(2) The persons are—
+
+(a) a child,
+
+(b) a person whose resources fall to be treated under the regulations as being less than or equal to his requirements,
+
+(c) a person of such other description as may be prescribed.
+
+(3) The Welsh Ministers may by regulations—
+
+(a) provide for themselves or such relevant body as may be prescribed to contribute to the cost of a sight test which they or the prescribed body accepts as having been incurred by a person whose resources fall to be treated under the regulations as exceeding his requirements but only by an amount calculated under the regulations, and
+
+(b) provide for payments to be made by them or by such relevant body as may be prescribed to meet, or to contribute towards, any cost accepted by them or by the prescribed body as having been incurred (whether by way of charge under this Act or otherwise) for the replacement or repair in prescribed circumstances of optical appliances for which a prescription was given in consequence of a sight test of a person of a prescribed description.
+
+(4) Regulations under this section may direct how a person's resources and requirements must be calculated and may, in particular, direct that they must be calculated—
+
+(a) by a method set out in the regulations,
+
+(b) by a method described by reference to a method of calculating or estimating income or capital specified in an enactment other than this section or in an instrument made under an Act of Parliament or by reference to such a method but subject to prescribed modifications,
+
+(c) by reference to an amount applicable for the purposes of a payment under an Act of Parliament or an instrument made under an Act of Parliament, or
+
+(d) by reference to the person's being or having been entitled to payment under an Act of Parliament or an instrument made under an Act of Parliament.
+
+(5) Descriptions of persons may be prescribed for the purposes of this section by reference to any criterion and, in particular, by reference to any of the following criteria—
+
+(a) their age,
+
+(b) the fact that a prescribed person or a prescribed body accepts them as suffering from a prescribed medical condition,
+
+(c) the fact that a prescribed person or a prescribed body accepts that a prescribed medical condition from which they suffer arose in prescribed circumstances,
+
+(d) their receipt of benefit in money or in kind under any enactment or their entitlement to receive any such benefit,
+
+(e) the receipt of any such benefit by other persons satisfying prescribed conditions or the entitlement of other persons satisfying prescribed conditions to receive such benefits, and
+
+(f) the relationship, as calculated in accordance with the regulations by a prescribed person, between their resources and their requirements.
+
+(6) Regulations under this section which refer to an Act of Parliament or an instrument made under an Act of Parliament may direct that the reference must be construed as a reference to that Act or instrument—
+
+(a) as it has effect at the time when the regulations are made, or
+
+(b) both as it has effect at that time and as amended subsequently.
+
+(7) In subsection (2)(a) “child” means—
+
+(a) a person who is under the age of 16 years, or
+
+(b) a person who is under the age of 19 years and receiving qualifying full-time education.
+
+(8) In subsection (7)(b) “qualifying full-time education” means full-time instruction at a recognised educational establishment or by other means accepted as comparable by the Welsh Ministers.
+
+(9) For the purposes of subsection (8)—
+
+(a) “recognised educational establishment” means an establishment recognised by the Welsh Ministers as being, or as comparable to, a school, college or university, and
+
+(b) regulations may prescribe the circumstances in which a person must, or must not, be treated as receiving full-time instruction.
+
+(10) If regulations under this section provide for payments to be made by a relevant body, the Welsh Ministers must pay to the body, in respect of each financial year, the sum attributable to the body's disbursements under the regulations.
+
+(11) Sums falling to be paid in pursuance of regulations under this section are payable subject to such conditions as to records, certificates or otherwise as the Welsh Ministers may determine.
+
+(12) “Relevant body” means a Local Health Board or a Special Health Authority.
+
+### Exemptions, etc
+
+#### 130 Remission and repayment of charges
+
+Regulations may provide in relation to prescribed descriptions of person for the remission or repayment of the whole or any part of any charges which would otherwise be payable in pursuance of section 121, 125 or 128.
+
+#### 131 Payment of travelling expenses
+
+Regulations may provide in relation to prescribed descriptions of persons—
+
+[[^F155](a) for the payment by the Welsh Ministers, a Local Health Board or an NHS trust, in such cases as may be prescribed, of travelling expenses (including the travelling expenses of a companion) incurred or to be incurred for the purpose of their obtaining—
+
+(i) any services provided under this Act,
+
+[^F156]ii . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F157]...
+
+[^F157]iii . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .]
+
+(b) for the reimbursement by a Local Health Board to an NHS trust and, in such cases as may be prescribed, to another Local Health Board, of such payments,
+
+(c) for the reimbursement by a Local Health Board to an NHS trust or an NHS foundation trust[^F158]... of payments made by virtue of section 183(a) of the National Health Service Act 2006 (c. 41).
+
+#### 132 Sections 130 and 131: supplementary
+
+(1) Descriptions of persons may be prescribed for the purposes of section 130 or section 131 by reference to any criterion and, without prejudice to the generality of this subsection, by reference to any of the following criteria—
+
+(a) their age,
+
+(b) the fact that a prescribed person or a prescribed body accepts them as suffering from a prescribed medical condition,
+
+(c) the fact that a prescribed person or a prescribed body accepts that a prescribed medical condition from which they suffer arose in prescribed circumstances,
+
+(d) their receipt of benefit in money or in kind under any enactment or their entitlement to receive any such benefit,
+
+(e) the receipt of any such benefit by other persons satisfying prescribed conditions or the entitlement of other persons satisfying prescribed conditions to receive such benefits, and
+
+(f) the relationship, as calculated in accordance with the regulations by a prescribed person, between their resources and their requirements.
+
+(2) Regulations under section 130 or 131 may direct how a person's resources and requirements are to be calculated and, without prejudice to the generality of this subsection, may direct that they are to be calculated—
+
+(a) by a method set out in the regulations,
+
+(b) by a method described by reference to a method of calculating or estimating income or capital specified in an enactment other than this section or in an instrument made under an Act of Parliament or by reference to such a method but subject to prescribed modifications,
+
+(c) by reference to an amount applicable for the purposes of a payment under an Act of Parliament or an instrument made under an Act of Parliament, or
+
+(d) by reference to the person's being or having been entitled to payment under an Act of Parliament or an instrument made under an Act of Parliament.
+
+(3) Regulations under section 130 or 131 which refer to an Act of Parliament or an instrument made under an Act of Parliament may direct that the reference is to be construed as a reference to that Act or instrument—
+
+(a) as it has effect at the time when the regulations are made, or
+
+(b) both as it has effect at that time and as amended subsequently.
+
+### Other provisions relating to charging
+
+#### 133 Charges for more expensive supplies
+
+(1) Regulations may provide for the making and recovery of such charges falling within subsection (2) as may be prescribed.
+
+(2) The charges are charges by the Welsh Ministers or an NHS trust—
+
+(a) in respect of the supply of any appliance or vehicle which is, at the request of the person supplied, of a more expensive type than the prescribed type, or
+
+(b) in respect of the repair or replacement of any such appliance, or the replacement of any such vehicle, or the taking of any such action in relation to the vehicle as is mentioned in paragraph 10(2) of Schedule 1.
+
+#### 134 Charges for repairs and replacements in certain cases
+
+(1) Regulations may provide for the making and recovery of such charges falling within subsection (2) as may be prescribed.
+
+(2) The charges are charges by the Welsh Ministers or an NHS trust in respect of the repair or replacement of any appliance or vehicle, where it is determined in the prescribed manner—
+
+(a) in any case, that the repair or replacement was necessitated by an act or omission of the person supplied, or
+
+(b) in a case where the person supplied was under the age of 16, that the repair or replacement was necessitated by an act or omission, occurring while that person was under that age, of a person having charge of him.
+
+#### 135 Charges for designated services or facilities
+
+Regulations may provide for the making and recovery of charges in respect of services or facilities designated by the regulations as services or facilities provided in pursuance of section 3(1)(d) or (e).
+
+#### 136 Sums otherwise payable to those providing services
+
+(1) Subsection (2) applies to regulations under—
+
+(a) section 121 (charges for drugs, medicines or appliances, or pharmaceutical service),
+
+(b) section 128 (charges for optical appliances),
+
+(c) section 133 (charges for more expensive supplies), or
+
+(d) section 134 (charges for repairs and replacements in certain cases),
+
+which provide for the making and recovery of charges in respect of any services.
+
+(2) The regulations may provide for the sums which would otherwise be payable by a Local Health Board or Special Health Authority to the persons by whom the services are provided, to be reduced by the amount of the charges authorised by the regulations in respect of the services.
+
+#### 137 Hospital accommodation on part payment
+
+(1) The Welsh Ministers—
+
+(a) may authorise accommodation to be made available for patients to such extent as they may determine, and
+
+(b) may recover such charges as they may determine in respect of such accommodation and calculate them on any basis that they consider to be the appropriate commercial basis.
+
+(2) Accommodation means—
+
+(a) accommodation in single rooms or small wards which is not needed by any patient on medical grounds,
+
+(b) accommodation at any health service hospital or group of hospitals, or a hospital in which patients are treated under arrangements made by virtue of section 10, or at the health service hospitals in a particular area or a hospital in which patients are so treated.
+
+(3) References in subsection (2) to a health service hospital include references to such a hospital within the meaning of section 275 of the National Health Service Act 2006 (c. 41), but do not include references to a hospital vested in an NHS trust or an NHS foundation trust.
+
+#### 138 Expenses payable by employed patients
+
+(1) The Welsh Ministers may require any person—
+
+(a) who is a resident patient for whom the Welsh Ministers provide services under this Act, and
+
+(b) who is absent during the day from the hospital where he is a patient for the purpose of engaging in remunerative employment,
+
+to pay such part of the cost of his maintenance in the hospital and any incidental cost as may seem reasonable to the Welsh Ministers having regard to the amount of that person's remuneration.
+
+(2) The Welsh Ministers may recover the amount required under subsection (1).
+
+### Recovery, etc
+
+#### 139 Recovery of charges
+
+(1) All charges recoverable under this Act by—
+
+(a) the Welsh Ministers,
+
+(b) a local social services authority, or
+
+(c) any body established under this Act,
+
+may be recovered summarily as a civil debt (but this does not affect any other method of recovery).
+
+(2) If any person, for the purpose of evading the payment of any charge under this Act, or of reducing the amount of any such charge—
+
+(a) knowingly makes any false statement or false representation, or
+
+(b) produces or furnishes, or causes or knowingly allows to be produced or furnished, any document or information which he knows to be false in a material particular,
+
+the charge or the balance of the charge, may be recovered from him by the person by whom the cost of the service in question was defrayed.
+
+#### 140 Recovery of charges and payments in relation to goods and services
+
+(1) Where goods or services to which this section applies are provided and—
+
+(a) any charge payable by any person under this Act in respect of the provision of the goods or services is reduced, remitted or repaid, but that person is not entitled to the reduction, remission or repayment, or
+
+(b) any payment under this Act is made to, or for the benefit of, any person in respect of the cost of obtaining the goods or services, but that person is not entitled to, or to the benefit of, the payment,
+
+the amount mentioned in subsection (2) is recoverable summarily as a civil debt from the person in question by the responsible authority.
+
+(2) That amount—
+
+(a) in a case within subsection (1)(a), is the amount of the charge or (where it has been reduced) reduction,
+
+(b) in a case within subsection (1)(b), is the amount of the payment.
+
+(3) Where two or more persons are liable under section 139(1) or this section to pay an amount in respect of the same charge or payment, those persons are jointly and severally liable.
+
+(4) For the purposes of this section, the circumstances in which a person is to be treated as not entitled to a reduction, remission or repayment of a charge, or to (or to the benefit of) a payment, include in particular those in which it is received (wholly or partly)—
+
+(a) on the ground that he or another is a person of a particular description, where the person in question is not of that description,
+
+(b) on the ground that he or another holds a particular certificate, when the person in question does not hold such a certificate or does hold such a certificate but is not entitled to it,
+
+(c) on the ground that he or another has made a particular statement, when the person in question has not made such a statement or the statement made by him is false.
+
+(5) In this section and section 141, “responsible authority” means—
+
+(a) in relation to the recovery of any charge under section 139(1) in respect of the provision of goods or services to which this section applies, the person by whom the charge is recoverable,
+
+(b) in relation to the recovery by virtue of this section of the whole or part of the amount of any such charge, the person by whom the charge would have been recoverable,
+
+(c) in a case within subsection (1)(b), the person who made the payment.
+
+(6) But the Welsh Ministers may by directions provide for—
+
+(a) the functions of any responsible authority of recovering any charges under this Act in respect of the provision of goods or services to which this section applies,
+
+(b) the functions of any responsible authority under this section and section 141,
+
+to be exercised on behalf of the authority by another health service body.
+
+(7) This section applies to the following goods and services—
+
+(a) dental treatment and appliances provided in pursuance of this Act,
+
+(b) drugs and medicines provided in pursuance of this Act,
+
+(c) sight tests,
+
+(d) optical appliances,
+
+(e) any other appliances provided in pursuance of this Act.
+
+#### 141 Penalties relating to charges
+
+(1) Regulations may provide that, where a person fails to pay—
+
+(a) any amount recoverable from him under section 139(1) in respect of the provision of goods or services to which section 140 applies, or
+
+(b) any amount recoverable from him under section 140,
+
+a notice (referred to in this section as a penalty notice) may be served on the person by the responsible authority.
+
+(2) A penalty notice is a notice requiring the person on whom it is served to pay the amount to the authority within a prescribed period, together with a charge (referred to in this section as a penalty charge) of an amount determined in accordance with the regulations.
+
+(3) The regulations may not provide for the amount of the penalty charge to exceed whichever is the smaller of—
+
+(a) £100,
+
+(b) the amount referred to in subsection (1)(a) or (b) multiplied by 5.
+
+(4) The Welsh Ministers may by order provide for subsection (3) to have effect as if, for the sum specified in paragraph (a) or the multiplier specified in paragraph (b) (including that sum or multiplier as substituted by a previous order), there were substituted a sum or multiplier specified in the order.
+
+(5) Regulations may provide that, if a person fails to pay the amount he is required to pay under a penalty notice within the period in question, he must also pay to the responsible authority by way of penalty a further sum determined in accordance with the regulations.
+
+(6) The further sum must not exceed 50 per cent of the amount of the penalty charge.
+
+(7) Any sum payable under the regulations (including the amount referred to in subsection (1)(a) or (b)) may be recovered by the responsible authority summarily as a civil debt.
+
+(8) But a person is not liable by virtue of a penalty notice—
+
+(a) to pay at any time so much of any amount referred to in subsection (1)(a) or (b) for which he is jointly and severally liable with another as at that time has been paid, or ordered by a court to be paid, by that other, or
+
+(b) to a penalty charge, or a further sum by way of penalty, if he shows that he did not act wrongfully, or with any lack of care, in respect of the charge or payment in question.
+
+#### 142 Offences relating to charges
+
+(1) A person is guilty of an offence if he does any act mentioned in subsection (2) with a view to securing for himself or another—
+
+(a) the evasion of the whole or part of any charge under this Act in respect of the provision of goods or services to which section 140 applies,
+
+(b) the reduction, remission or repayment of any such charge, where he or the other is not entitled to the reduction, remission or repayment,
+
+(c) a payment under this Act (whether to, or for the benefit of, himself or the other) in respect of the cost of obtaining such goods or services, where he or the other is not entitled to, or to the benefit of, the payment.
+
+(2) The acts referred to in subsection (1) are—
+
+(a) knowingly making, or causing or knowingly allowing another to make, a false statement or representation, or
+
+(b) in the case of any document or information which he knows to be false in a material particular, producing or providing it or causing or knowingly allowing another to produce or provide it.
+
+(3) A person guilty of an offence under this section is liable on summary conviction to a fine not exceeding level 4 on the standard scale.
+
+(4) A person [^F159]. . . may conduct any proceedings under this section before a magistrates' court if he is authorised to do so by the Welsh Ministers.
+
+(5) Proceedings for an offence under this section may be begun within—
+
+(a) the period of three months beginning with the date on which evidence, sufficient in the opinion of the Welsh Ministers to justify a prosecution for the offence, comes to their knowledge, or
+
+(b) the period of 12 months beginning with the commission of the offence.
+
+(6) For the purposes of subsection (5), a certificate purporting to be signed by or on behalf of the Welsh Ministers as to the date on which such evidence as is mentioned in paragraph (a) of that subsection came to their knowledge, is conclusive evidence of that date.
+
+(7) Where a person is convicted of an offence under this section in respect of any charge or payment under this Act, he is not liable in respect of the charge or payment to pay any penalty charge or further sum by way of penalty which would otherwise be recoverable from him under section 141.
+
+(8) Where a person pays any penalty charge, or further charge by way of penalty, recoverable under section 141 in respect of any charge or payment under this Act, he must not be convicted of an offence under this section in respect of the charge or payment.
+
+(9) Subsection (4) of section 140 applies for the purposes of this section as it applies for the purposes of that.
+
+## Part 10 — Protection of NHS from fraud and other unlawful activities
+
+### Preliminary
+
+#### 143 Compulsory disclosure of documents
+
+(1) This Part confers power to require the production of documents in connection with the exercise of the Welsh Ministers' counter fraud functions in relation to the health service.
+
+(2) The Welsh Ministers' “counter fraud functions” in relation to the health service means their power (by virtue of section 2(1)(b)) to take action for the purpose of preventing, detecting or investigating fraud, corruption or other unlawful activities carried out against or otherwise affecting—
+
+(a) the health service, or
+
+(b) the Welsh Ministers, in relation to their responsibilities for the health service.
+
+(3) In this Part, the Welsh Ministers' counter fraud functions in relation to the health service are collectively referred to as functions to which this Part applies.
+
+(4) “Investigating” means investigating in relation to civil or criminal proceedings.
+
+#### 144 Persons and bodies about which provision is made by this Part
+
+(1) This section applies for the purposes of this Part.
+
+(2) Subject to any provision made under subsection (6), “NHS body” has the meaning given by [[^F160]section 206(1)].
+
+(3) A “health service provider” means any person (other than an NHS body) providing—
+
+(a) primary medical services, primary dental services or pharmaceutical services under this Act or the National Health Service Act 2006 (c. 41),
+
+(b) primary ophthalmic services under that Act, or
+
+(c) general ophthalmic services.
+
+(4) An “NHS contractor” means any person (other than an NHS body or a person within subsection (3)) providing services of any description under arrangements made with an NHS body.
+
+(5) A “statutory health body” means any body (other than an NHS body, or a person within subsection (3) or (4)) established by or under an enactment and—
+
+(a) providing services in connection with the provision of, or
+
+(b) exercising functions in relation to,
+
+the health service in either England or Wales or both.
+
+(6) The Welsh Ministers may by order—
+
+(a) make such amendments of any of subsections (2) to (5) as they consider appropriate,
+
+(b) make such consequential amendments of this Part as they consider appropriate.
+
+### Disclosure notices
+
+#### 145 Notice requiring production of documents
+
+(1) This section applies if it appears to the Welsh Ministers that there are reasonable grounds for suspecting—
+
+(a) that any documents containing information relevant to the exercise of any of their functions to which this Part applies are in the possession or under the control of any NHS body, statutory health body, health service provider or NHS contractor (“the relevant organisation”), and
+
+(b) that a person within subsection (3) is accountable for the documents.
+
+(2) The Welsh Ministers may serve on that person a notice requiring him to produce the documents to an authorised officer.
+
+(3) The persons within this subsection are—
+
+(a) any member, officer or director of the relevant organisation,
+
+(b) any other person who takes part in the management of the affairs of that organisation,
+
+(c) any person employed by that organisation, and
+
+(d) (in the case of a health service provider or NHS contractor who is an individual) that individual.
+
+(4) A notice under this section must specify or describe the documents to which it relates.
+
+(5) Subject to subsections (6) and (7), the notice may require those documents to be produced—
+
+(a) at or by such time as is specified in the notice, or at once, and
+
+(b) at such place, and in such manner, as is so specified.
+
+(6) When specifying a time at or by which the documents must be produced, the notice must not require them to be produced otherwise than at a reasonable hour.
+
+(7) If the notice requires documents to be produced at once, it may only be served at a reasonable hour.
+
+(8) An authorised officer may, by agreement with the person served with a notice within subsection (6) or (7), vary the notice so as to extend the time for compliance with it.
+
+(9) Any notice under this section, and any variation of such a notice under subsection (8), must be in writing.
+
+(10) An individual is “accountable” for any documents if he has either day-to-day, or an overall, responsibility for the custody or control of the documents.
+
+#### 146 Production of documents
+
+(1) This section applies where a notice has been served under section 145.
+
+(2) An authorised officer may—
+
+(a) take away any documents produced in compliance with the notice,
+
+(b) take copies of or extracts from any documents so produced,
+
+(c) require the person producing any such documents to provide an explanation of any of them.
+
+(3) If—
+
+(a) the officer takes away any such document, and
+
+(b) the person producing it requests the officer to provide him with a copy of it, and
+
+(c) the request appears to the officer to be reasonable in the circumstances,
+
+the officer must, as soon as is reasonably practicable, provide that person with a copy of the document (in such form as the officer considers appropriate).
+
+(4) Documents produced in compliance with a notice under section 145 may be retained for so long as the Welsh Ministers consider that it is necessary to retain them (rather than copies of them) in connection with the exercise of any of their functions to which this Part applies.
+
+(5) If the Welsh Ministers have reasonable grounds for believing—
+
+(a) that any such documents may have to be produced for the purposes of any legal proceedings, and
+
+(b) that they might otherwise be unavailable for those purposes,
+
+they may be retained until the proceedings are concluded.
+
+(6) If a person who is required by a notice under section 145 to produce any documents does not produce the documents in compliance with the notice, an authorised officer may require that person to state, to the best of his knowledge and belief, where they are.
+
+(7) A person is not bound to comply with any requirement imposed by a notice under section 145 or any requirement under subsection (6) unless evidence of authority is given—
+
+(a) at the time when the notice is served, or
+
+(b) at the time when the requirement is imposed under subsection (6).
+
+(8) In addition, a person may not be required under section 145 or subsection (6) to produce any document or disclose any information which he would be entitled to refuse to produce or disclose in proceedings in the High Court on grounds of legal professional privilege.
+
+#### 147 Delegation of functions
+
+(1) This section applies if the Welsh Ministers give a direction under section 24 directing a Special Health Authority to exercise so much of their functions under sections 145 and 146 as is specified in the directions (“the delegated functions”).
+
+(2) The Welsh Ministers may give directions providing for senior officers of the Special Health Authority to exercise the delegated functions on behalf of the Special Health Authority.
+
+(3) “Senior officer” means an officer of or above a level specified in the directions.
+
+(4) The Welsh Ministers may by regulations make such provision as they consider appropriate in connection with the exercise of the delegated functions.
+
+(5) The regulations may, in particular, make provision—
+
+(a) specifying conditions as to training that must be satisfied in relation to officers of the Special Health Authority involved in the exercise of the delegated functions,
+
+(b) for requiring officers to obtain specific authorisation before the delegated functions are exercised in relation to personal records,
+
+(c) providing for the designation of officers for the purpose of giving such authorisations,
+
+(d) otherwise prescribing the manner in which the delegated functions may be exercised.
+
+#### 148 Code of practice relating to delegated functions
+
+(1) The Welsh Ministers may issue a code of practice relating to—
+
+(a) the exercise of functions under section 145 or 146 by or on behalf of a Special Health Authority,
+
+(b) procedures to be followed in relation to the disclosure (in accordance with sections 149 and 150) of information obtained by or on behalf of a Special Health Authority in the exercise of such functions.
+
+(2) The Welsh Ministers must keep the code under review and may from time to time—
+
+(a) revise the whole or any part of the code, and
+
+(b) issue a revised code.
+
+(3) Where the Welsh Ministers propose to issue a code of practice under this section they must—
+
+(a) prepare a draft of the code, and
+
+(b) consult such persons as they consider appropriate about the draft.
+
+(4) Where the Welsh Ministers propose to issue a revised code under this section which in their opinion would result in a substantial change in the code, they must—
+
+(a) prepare a draft of the revised code, and
+
+(b) consult such persons as they consider appropriate about the change.
+
+(5) Where, following consultation under subsection (3) or (4), the Welsh Ministers issue the code or revised code (whether in the form of the draft or with such modifications as they consider appropriate), it comes into force at the time when it is issued by the Welsh Ministers.
+
+(6) A failure to observe any provision of a code or revised code issued under this section does not of itself make a person liable to any criminal or civil proceedings.
+
+(7) A code or revised code issued under this section is admissible in evidence in any criminal or civil proceedings.
+
+(8) Consultation undertaken by the Welsh Ministers before the commencement of this section is as effective for the purposes of this section as consultation undertaken after that time.
+
+#### 149 Disclosure of information
+
+(1) This section applies to information which—
+
+(a) is held by or on behalf of the Welsh Ministers, and
+
+(b) was obtained by virtue of section 145 or 146.
+
+(2) The information must not be disclosed except in accordance with subsection (3).
+
+(3) A disclosure is made in accordance with this subsection if it is made—
+
+(a) for the purposes of the exercise of any of the Welsh Ministers' functions in relation to the health service in Wales,
+
+(b) for the purposes of the exercise of any of the Secretary of State's functions in relation to the health service in England,
+
+(c) for the purposes of any civil proceedings brought in the exercise of any of the functions mentioned in paragraph (a) or (b),
+
+(d) for the purposes of any criminal investigation or proceedings,
+
+(e) for the purposes of any relevant disciplinary proceedings, or
+
+(f) in accordance with an enactment or order of a court or tribunal.
+
+(4) In subsection (3)—
+
+“relevant disciplinary proceedings” means disciplinary proceedings conducted in relation to an individual by—
+
+- (a) an NHS body, statutory health body or health service provider, or
+- (b) any of the regulatory bodies mentioned in section 25(3) of the National Health Service Reform and Health Care Professions Act 2002 (c. 17) (bodies within remit of [[^F161]the Professional Standards Authority for Health and Social Care]).
+
+(5) Where information to which this section applies is disclosed to any person in accordance with subsection (3), the information must not be used or further disclosed except—
+
+(a) for a purpose connected with the functions, investigation or proceedings for the purposes of which it was so disclosed, or
+
+(b) in accordance with an enactment or order of a court or tribunal.
+
+(6) Information to which this section applies may be disclosed in accordance with subsection (3) despite any obligation of confidence that would otherwise prohibit or restrict the disclosure.
+
+(7) This section does not prohibit any disclosure or use of information relating to a particular person if it is made with the consent of that person.
+
+#### 150 Protection of personal information disclosed for purposes of proceedings
+
+(1) Information obtained from personal records produced in compliance with a notice under section 145 is “protected information” for the purposes of this section if—
+
+(a) a person (“the discloser”), in accordance with section 149(3), discloses the information for the purposes of any proceedings, and
+
+(b) either—
+
+(i) the identity of the individual in question can be ascertained from the information itself, or
+
+(ii) the discloser has reasonable cause to believe that it will be possible for a person who obtains the information as a direct or indirect consequence of the disclosure to ascertain the individual's identity from that information taken with other information obtained by virtue of section 145 or 146 and disclosed by or on behalf of the Welsh Ministers.
+
+(2) The discloser must take all reasonable steps to ensure that, once disclosed by him in accordance with section 149(3), the protected information is not further disclosed to any person who is not someone to whom it is necessary to disclose the information for any purpose connected with the proceedings mentioned in subsection (1)(a).
+
+(3) In subsection (2) the reference to further disclosure of the information does not include any such disclosure—
+
+(a) by way of evidence in any proceedings, or
+
+(b) in accordance with an enactment or order of a court or tribunal.
+
+(4) The Welsh Ministers must make provision, whether in a code of practice issued under section 148 or otherwise, for requiring any person disclosing protected information in accordance with section 149(3) to ensure, by the use of a distinguishing mark or in some other way, that the information is clearly identified as protected information for the purposes of this section.
+
+(5) Information that appears to be protected information must not be disclosed by way of evidence in any proceedings unless—
+
+(a) the whole of the proceedings are held in private, or
+
+(b) in any other case, the information is disclosed in accordance with permission given by the court or tribunal on an application under subsection (6).
+
+(6) If, on an application by a party to—
+
+(a) proceedings before a court, or
+
+(b) proceedings of any description before a tribunal that sits, or may sit, in public during the whole or part of proceedings of that description,
+
+the court or tribunal is satisfied that it is in the interests of justice for any information that appears to be protected information to be disclosed by way of evidence in the proceedings, it may give permission for the information to be so disclosed, on such terms as it thinks fit.
+
+(7) When determining such an application, the court or tribunal must consider whether, in the interests of protecting the identity of the individual to whom the information relates, the whole or part of the proceedings should be held in private.
+
+(8) If the court or tribunal is satisfied that the whole or part of the proceedings should be held in private, it must give such directions, or take such other steps, as appear to it to be appropriate.
+
+(9) In this section “proceedings” means—
+
+(a) criminal or civil proceedings, or
+
+(b) relevant disciplinary proceedings (as defined by section 149(4)).
+
+#### 151 Manner in which disclosure notice may be served
+
+(1) This section provides for the manner in which a notice may be served under section 145.
+
+(2) The notice may be served on a person by—
+
+(a) delivering it to him,
+
+(b) leaving it at his proper address,
+
+(c) sending it by post to him at that address.
+
+(3) For the purposes of this section and section 7 of the Interpretation Act 1978 (c. 30) (service of documents by post) in its application to this section, the proper address of a person is his usual or last-known address (whether residential or otherwise), except that—
+
+(a) in the case of a notice to be served on the secretary, clerk or similar officer of a body corporate, it is the address of the registered office of that body or its principal office in the United Kingdom,
+
+(b) in the case of a notice to be served on a partner or a person having the control or management of a partnership business, it is the address of the principal office of the partnership in the United Kingdom, and
+
+(c) in the case of a notice to be served on an officer of an unincorporated association (other than a partnership), it is the address of the principal office of the association in the United Kingdom.
+
+### Offences under this Part
+
+#### 152 Offences in connection with production of documents
+
+(1) A person commits an offence if, without reasonable excuse, he fails to comply with any requirement imposed on him under section 145 or 146.
+
+(2) A person guilty of an offence under subsection (1) is liable on summary conviction—
+
+(a) to imprisonment for a term not exceeding 51 weeks, or
+
+(b) to a fine not exceeding level 3 on the standard scale,
+
+or to both.
+
+(3) If a person is convicted of an offence under subsection (1) in respect of a failure to produce a document and the failure continues after the date of his conviction, the person—
+
+(a) commits a further offence, and
+
+(b) is liable on summary conviction to a fine not exceeding 2% of level 3 on the standard scale for each day on which the failure so continues.
+
+(4) A person commits an offence if, in purported compliance with any requirement imposed on him under section 146—
+
+(a) he makes a statement which is false or misleading, and
+
+(b) he either knows that it is false or misleading or is reckless as to whether it is false or misleading.
+
+(5) “False or misleading” means false or misleading in a material particular.
+
+(6) A person guilty of an offence under subsection (4) is liable—
+
+(a) on conviction on indictment, to imprisonment for a term not exceeding two years or to a fine, or to both,
+
+(b) on summary conviction, to imprisonment for a term not exceeding [[^F162]the general limit in a magistrates’ court] or to a fine not exceeding the statutory maximum, or to both.
+
+#### 153 Offences relating to disclosure or use of information
+
+(1) A person commits an offence if he fails to comply with section 149(2) or (5) or section 150(2).
+
+(2) A person guilty of an offence under subsection (1) is liable—
+
+(a) on conviction on indictment, to imprisonment for a term not exceeding two years or to a fine, or to both,
+
+(b) on summary conviction to imprisonment for a term not exceeding 51 weeks or to a fine not exceeding the statutory maximum, or to both.
+
+(3) It is a defence for a person charged with an offence under subsection (1) in respect of a disclosure of information to prove that at the time of the alleged offence—
+
+(a) any of the circumstances in subsection (4) applied, or
+
+(b) he reasonably believed that they applied.
+
+(4) The circumstances referred to in subsection (3) are—
+
+(a) that the disclosure was lawful,
+
+(b) that the information had already been lawfully made available to the public,
+
+(c) that the disclosure was necessary or expedient for the purpose of protecting the welfare of any individual,
+
+(d) that the disclosure was made in a form in which no person to whom the information relates is identified.
+
+(5) Subsection (4)(d) is not satisfied if the identity of any such person can be ascertained either—
+
+(a) from the information itself, or
+
+(b) from that information taken with other information obtained by virtue of section 145 or 146 and disclosed by or on behalf of the Welsh Ministers.
+
+#### 154 Offences by bodies corporate etc
+
+(1) If an offence committed by a body corporate is proved—
+
+(a) to have been committed with the consent or connivance of an officer, or
+
+(b) to be attributable to any neglect on his part,
+
+the officer as well as the body corporate is guilty of the offence and liable to be proceeded against and punished accordingly.
+
+(2) “Officer”, in relation to the body corporate, means a director, manager, secretary or other similar officer of the body, or a person purporting to act in any such capacity.
+
+(3) If the affairs of a body corporate are managed by its members, subsection (1) applies in relation to the acts and defaults of a member in connection with his functions of management as if he were a director of the body corporate.
+
+(4) If an offence committed by a partnership is proved—
+
+(a) to have been committed with the consent or connivance of a partner, or
+
+(b) to be attributable to any neglect on his part,
+
+the partner as well as the partnership is guilty of the offence and liable to be proceeded against and punished accordingly.
+
+(5) “Partner” includes a person purporting to act as a partner.
+
+(6) If an offence committed by an unincorporated association (other than a partnership) is proved—
+
+(a) to have been committed with the consent or connivance of an officer of the association or a member of its governing body, or
+
+(b) to be attributable to any neglect on the part of such an officer or member,
+
+the officer or member as well as the association is guilty of the offence and liable to be proceeded against and punished accordingly.
+
+(7) “Offence” means an offence under this Part.
+
+#### 155 Offences committed by partnerships and other unincorporated associations
+
+(1) Proceedings for an offence alleged to have been committed by a partnership must be brought in the name of the partnership (and not in that of any of the partners).
+
+(2) Proceedings for an offence alleged to have been committed by an unincorporated association (other than a partnership) must be brought in the name of the association (and not in that of any of its members).
+
+(3) Rules of court relating to the service of documents have effect as if the partnership or unincorporated association were a body corporate.
+
+(4) In proceedings for an offence brought against a partnership or an unincorporated association, section 33 of the Criminal Justice Act 1925 (c. 86) and Schedule 3 to the Magistrates' Courts Act 1980 (c. 43) apply as they apply in relation to a body corporate.
+
+(5) A fine imposed on a partnership on its conviction for an offence must be paid out of the partnership assets.
+
+(6) A fine imposed on an unincorporated association on its conviction for an offence must be paid out of the funds of the association.
+
+(7) Subsections (1) and (2) do not affect any liability of a partner, officer or member under section 154(4) or (6).
+
+(8) “Offence” means an offence under this Part.
+
+#### 156 Penalties for offences under this Part: transitional modification
+
+(1) In relation to an offence committed before [[^F163]2 May 2022], the reference in section 152(6)(b) to a period of imprisonment of [[^F164]the general limit in a magistrates’ court] is a reference to a period of imprisonment of 6 months.
+
+(2) In relation to an offence committed before the commencement of section 281(5) of the Criminal Justice Act 2003 (alteration of penalties for summary offences), the references in sections 152(2)(a) and 153(2)(b) to periods of imprisonment of 51 weeks are references to periods of imprisonment of 3 months.
+
+### Supplementary
+
+#### 157 Orders and regulations under this Part
+
+(1) Any power under this Part to make an order or regulations is exercisable by statutory instrument.
+
+(2) Subject to subsection (3) a statutory instrument made by virtue of this Part is subject to annulment in pursuance of a resolution of the National Assembly for Wales.
+
+(3) A statutory instrument containing an order under section 144(6) may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, the National Assembly for Wales.
+
+(4) Any power under this Part to make an order or regulations—
+
+(a) may make different provision for different cases or descriptions of case or different purposes or areas, and
+
+(b) may make incidental, supplementary, consequential, transitory, transitional or saving provision.
+
+#### 158 Interpretation of this Part
+
+(1) In this Part—
+
+- “authorised officer”, in relation to any function, means (subject to subsection (5)) an officer of the Welsh Ministers authorised by them to act in exercise of the function,
+- “document” means anything in which information of any description is recorded,
+- “enactment” includes any provision of subordinate legislation (within the meaning of the Interpretation Act 1978 (c. 30)), and references to enactments include enactments passed or made after the passing of this Act,
+- “employed” means employed whether under a contract of service or a contract for services or otherwise, and whether for remuneration or not,
+- “functions to which this Part applies” has the meaning given by section 143(3),
+- “health service provider” and “NHS contractor”have the meaning given by section 144,
+- “NHS body” must be construed in accordance with section 144,
+- “personal records” has the meaning given by section 12 of the Police and Criminal Evidence Act 1984 (c. 60),
+- “statutory health body” has the meaning given by section 144.
+
+(2) References in this Part to the provision of services—
+
+(a) in relation to statutory health bodies, health service providers or NHS contractors, include references to the provision of goods or facilities, and
+
+(b) include references to the provision of services (or goods or facilities) wherever that takes place.
+
+(3) References in this Part to the health service are references to the health service in Wales.
+
+(4) In relation to information recorded otherwise than in legible form, any reference in this Part to the production of documents is a reference to the production of a copy of the information in legible form.
+
+(5) Where functions of the Welsh Ministers are exercisable by a Special Health Authority—
+
+(a) references in this Part to authorised officers include officers of the Special Health Authority authorised by or on behalf of the Special Health Authority to act in exercise of the functions, and
+
+(b) references in this Part to information held or disclosed by or on behalf of the Welsh Ministers include information held or disclosed by or on behalf of the Special Health Authority.
+
+## Part 11 — Property and finance
+
+### Chapter 1 — Land and other Property
+
+#### 159 Acquisition, use and maintenance of property
+
+(1) The Welsh Ministers may acquire—
+
+(a) any land, either by agreement or compulsorily,
+
+(b) any other property,
+
+required by them for the purposes of this Act.
+
+(2) In particular, land may be so acquired to provide residential accommodation for persons employed for any of those purposes.
+
+(3) The Welsh Ministers may use for the purposes of any of the functions conferred on them by this Act any property belonging to them by virtue of this Act, and they have power to maintain all such property.
+
+(4) A local social services authority may be authorised to purchase land compulsorily for the purposes of this Act by means of an order made by the authority and confirmed by the Welsh Ministers.
+
+(5) The Acquisition of Land Act 1981 (c. 67) applies to the compulsory purchase of land under this section.
+
+(6) Section 120(3) of the Local Government Act 1972 (c. 70) (which relates to the application of Part 1 of the Compulsory Purchase Act 1965 (c. 56) where a council is authorised to acquire land by agreement) applies to the acquisition of land by the Welsh Ministers under this section as it applies to such acquisition by a council under that section.
+
+(7) Sections 238 and 239of the Town and Country Planning Act 1990 (c. 8) (use and development of consecrated land and burial grounds) apply to consecrated land or land comprised in a burial ground (within the meaning of section 240 of that Act) which—
+
+(a) the Welsh Ministers hold for the purposes of the health service, and
+
+(b) has not been the subject of a relevant acquisition (within the meaning of that section) by them,
+
+as if that land had been the subject of such an acquisition by them for those purposes.
+
+### Chapter 2 — Trusts
+
+#### 160 Special trustees for a university or teaching hospital
+
+(1) In this Act “special trustees” are trustees appointed in relation to Wales—
+
+(a) by the Secretary of State under section 29 of the National Health Service Reorganisation Act 1973 (c. 32),
+
+(b) by the Secretary of State or the National Assembly for Wales under section 95 of the National Health Service Act 1977 (c. 49), and
+
+(c) by the Welsh Ministers under this section,
+
+for any hospital falling within subsection (2).
+
+(2) A hospital falls within this subsection if, immediately before the day appointed for the purposes of section 29 of the National Health Service Reorganisation Act 1973, it was controlled and managed by a University Hospital Management Committee or a Board of Governors, other than—
+
+(a) a body on whose request an order was made under section 24(2) of that Act, or
+
+(b) a preserved Board within the meaning of section 15(6) of that Act.
+
+(3) Special trustees must hold and administer the property transferred under the National Health Service Reorganisation Act 1973.
+
+(4) The number of special trustees appointed under this section is such as the Welsh Ministers may from time to time determine after consultation with such persons as they consider appropriate.
+
+(5) Special trustees have power to accept, hold and administer any property on trust, being a trust which is wholly or mainly for hospitals for which they are appointed, for all or any purposes relating to—
+
+(a) hospital services (including research), or
+
+(b) any other part of the health service associated with hospitals.
+
+(6) The term of office of any special trustee appointed under this section is to be fixed by the Welsh Ministers, but a special trustee may be removed by the Welsh Ministers at any time during the special trustee's term of office.
+
+(7) Subsection (3) is subject to sections 161 and 162.
+
+#### 161 Transfers of trust property
+
+(1) The Welsh Ministers may, having regard to any change or proposed change—
+
+(a) in the arrangements for the administration of a hospital or other establishment or facility, or
+
+(b) in the area or functions of any NHS body other than an NHS foundation trust,
+
+by order provide for the transfer of any trust property from any relevant health service body to any other relevant health service body.
+
+(2) In this section “relevant health service body” means—
+
+(a) an NHS body,
+
+(b) special trustees, or
+
+(c) trustees for [^F165]...[^F166]... an NHS trust [^F167]....
+
+(3) Where property is transferred by an order under this section to two or more bodies, it must be apportioned by them in such proportions as they may agree, or as may in default of agreement be determined by the Welsh Ministers, and the order may provide for the way in which the property must be apportioned.
+
+(4) Where property is so apportioned, the Welsh Ministers may by order make any consequential amendments of the trust instrument relating to the property.
+
+[^F168]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 162 Transfer of functions and property to or from special trustees
+
+(1) If it appears to the Welsh Ministers at any time that all the functions of any special trustees should be discharged by [[^F169]NHS England] [[^F170], an integrated care board,] [^F171]... an NHS trust, a Special Health Authority or an NHS foundation trust, they may by order provide for the transfer of all trust property from the special trustees to the body or, in such proportions as may be specified in the order, to those bodies.
+
+(2) Before acting under subsection (1) the Welsh Ministers must consult the special trustees and other bodies concerned.
+
+(3) If it appears to the Welsh Ministers at any time that—
+
+(a) the functions of any special trustees should be discharged by the trustees for [^F172]... [^F173]... an NHS trust [^F174]... (“the trustees of the body”), or
+
+(b) the functions of the trustees of the body should be discharged by special trustees,
+
+they may, after consulting the special trustees and the trustees of the body, by order provide for the transfer of all trust property from the special trustees to to the trustees of the body, or from the trustees of the body to the special trustees.
+
+(4) Where property is transferred by an order under this section to two or more bodies, it must be apportioned by them in such proportions as they may agree, or as may in default of agreement be determined by the Welsh Ministers, and the order may provide for the way in which the property must be apportioned.
+
+(5) Where property is so apportioned, the Welsh Ministers may by order make any consequential amendments of the trust instrument relating to the property.
+
+[^F175]6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 163 Trustees and property under section 169
+
+(1) Where property is given in pursuance of section 169 (power of NHS bodies to raise money) to or on trust for any purposes of a hospital for which special trustees have been appointed, the property may be held, administered and applied by the special trustees instead of by the body responsible for the hospital if that body and the special trustees agree.
+
+(2) The body responsible for a hospital is—
+
+(a) in the case of a hospital vested in an NHS trust, that trust, and
+
+(b) in any other case, the Local Health Board exercising functions of the Welsh Ministers in respect of the hospital.
+
+(3) Subsection (4) applies where property is given in pursuance of section 169 on trust for any purposes of an NHS trust for which trustees have been appointed under paragraph 10 of Schedule 3 [^F176]....
+
+(4) Where this subsection applies and the trustees and the NHS trust agree, the property may be held, administered and applied by the trustees instead of by the NHS trust.
+
+(5) Property given in pursuance of section 169 on trust may be transferred by order of the Welsh Ministers under section 161 or 162 in the same circumstances as other trust property may be transferred under either of those sections.
+
+#### 164 Application of trust property: further provisions
+
+(1) Any discretion given by a trust instrument to the trustees of property transferred under section 161 or 162 is exercisable by the person to whom the property is so transferred and, subject to this section, the transfer does not affect the trusts on which the property is held.
+
+(2) Where—
+
+(a) property has been transferred under section 24 of the National Health Service Reorganisation Act 1973 (c. 32), or section 92 of the National Health Service Act 1977 (c. 49), and
+
+(b) any discretion is given by a trust instrument to the trustees to apply the property, or income arising from the property, to such hospital services (including research) as the trustees consider appropriate without any restriction on the kinds of hospital services and without any restriction to one or more specified hospitals,
+
+the discretion is enlarged so as to allow the application of the property or of the income arising from the property, to such extent as the trustees consider appropriate, for any other part of the health service associated with any hospital.
+
+(3) Subsection (2) applies on any subsequent transfer of the property under section 161 or 162.
+
+#### 165 Trusts: supplementary provisions
+
+(1) This section applies in relation to—
+
+(a) sections 160 to 162,
+
+(b) section 164,
+
+(c) section 167,
+
+(d) paragraph 10 of Schedule 3, and
+
+(e) paragraphs 8 and 9 of Schedule 5.
+
+(2) A provision—
+
+(a) contained in a provision to which this section applies,
+
+(b) for the transfer of any property,
+
+includes provision for the transfer of any rights and liabilities arising from that property.
+
+(3) Where a transfer of property by virtue of a provision to which this section applies is of, or includes—
+
+(a) land held on lease from a third party, or
+
+(b) any other asset leased or hired from a third party or in which a third party has an interest,
+
+the transfer is binding on the third party notwithstanding that, apart from this subsection, it would have required his consent or concurrence.
+
+(4) “Third party” means a person other than the Welsh Ministers or an NHS body.
+
+(5) Nothing in a provision to which this section applies affects any power of Her Majesty, [[^F177]the court (as defined in the Charities Act 2011)] or any other person, to alter the trusts of any charity.
+
+(6) Nothing in section 12 of the Finance Act 1895 (c. 16) (which requires certain Acts and certain instruments relating to the vesting of property by virtue of an Act to be stamped as conveyances on sale) applies to—
+
+(a) a provision to which this section applies, or
+
+(b) an order made in pursuance of any such provision.
+
+(7) Stamp duty is not payable on an order falling within subsection (6)(b).
+
+### Chapter 3 — Property transferred under the National Health Service Act 1946
+
+#### 166 Transferred property free of trusts
+
+(1) The Welsh Ministers may use any property—
+
+(a) which is vested in them, and
+
+(b) to which section 219 of the National Health Service Act 2006 (c. 41) applies,
+
+for the purpose of any of their functions under this Act.
+
+(2) But the Welsh Ministers must so far as practicable secure that the objects for which any such property was used immediately before the transfer mentioned in subsection (1) of that section are not prejudiced by the exercise of the power conferred by this section.
+
+#### 167 Trust property previously held for general hospital purposes
+
+(1) This section applies to property—
+
+(a) transferred under section 23 of the National Health Service Reorganisation Act 1973 (c. 32) (winding-up of hospital endowment funds), or
+
+(b) transferred under section 24 of that Act (transfer of trust property from abolished authorities) and which immediately before the day appointed for the purposes of that section was, in accordance with any provision contained in or made under section 7 of the National Health Service Act 1946 (c. 81), applicable for purposes relating to hospital services or relating to some form of research,
+
+including any such property which has been further transferred under section 92 of the National Health Service Act 1977 (c. 49).
+
+(2) This section continues to apply to any such property after any further transfer under section 161 or 162.
+
+(3) The person holding the property after the transfer or last transfer must secure, so far as is reasonably practicable, that the objects of any original endowment, and the observance of any conditions attached to that endowment, including in particular conditions intended to preserve the memory of any person or class of persons, are not prejudiced by this Part of this Act.
+
+(4) “Original endowment” means a hospital endowment which was transferred under section 7 of the National Health Service Act 1946 and from which the property in question is derived.
+
+(5) Subject to subsection (3), the property must be held on trust for such purposes relating to hospital services (including research), or to any other part of the health service associated with any hospital, as the person holding the property considers appropriate.
+
+(6) Where the person holding the property is a body of special trustees, the power conferred by subsection (5) must be exercised as respects the hospitals for which they are appointed.
+
+#### 168 Voluntary hospitals
+
+(1) Subsection (2) applies where—
+
+(a) any hospital provided by the Welsh Ministers in accordance with this Act was a voluntary hospital transferred by virtue of the National Health Service Act 1946, and
+
+(b) the character and associations of that hospital before its transfer were such as to link it with a particular religious denomination.
+
+(2) Regard must be had in the general administration of the hospital to the preservation of that character and those associations.
+
+### Chapter 4 — Raising money
+
+#### 169 Power to raise money
+
+(1) This section applies to any—
+
+(a) Local Health Board,
+
+(b) NHS trust, or
+
+(c) Special Health Authority.
+
+(2) A body to which this section applies has power to engage in activities intended to stimulate the giving (whether on trust or otherwise) of money or other property to—
+
+(a) assist the body in providing or improving any services or any facilities or accommodation which is or are, or will be, provided as part of the health service, or
+
+(b) assist it in connection with its functions with respect to research.
+
+(3) Subject to any directions of the Welsh Ministers excluding specified descriptions of activity, the activities authorised by this section include—
+
+(a) public appeals or collections,
+
+(b) competitions,
+
+(c) entertainments,
+
+(d) bazaars,
+
+(e) sales of produce or other goods, and
+
+(f) other similar activities.
+
+(4) The activities may involve the use of land, premises or other property held by or for the benefit of the body exercising the power.
+
+(5) Subsection (4) is subject to any restrictions on the purposes for which trust property may be used.
+
+(6) Subject to this section and section 163, the body at whose instance property is given in pursuance of this section must, after defraying out of it any expenses incurred in obtaining it, hold, administer and apply the property on trust for or for the purpose for which it was given.
+
+(7) Where property held by a body under this section is more than sufficient to enable the purpose for which it was given to be fulfilled, the excess is applicable, in default of any provision for its application made by the trust or other instrument under or in accordance with which the property comprising the excess was given, for such purposes connected with any of the functions of the body as it considers appropriate.
+
+(8) Where property held by a body under this section is insufficient to enable the purpose for which it was given to be fulfilled the body may apply so much of the capital or income at its disposal as is needed to enable the purpose to be fulfilled.
+
+(9) Subsection (8) is subject in the case of trust property to any restrictions on the purpose for which the trust property may be applied and, in the case of money paid or payable by the Welsh Ministers under section 171, to any directions they may give.
+
+(10) Where the capital or income applicable under subsection (8) is insufficient or is not applied to enable the purpose to be fulfilled, the property held by the body is applicable, in default of any provision for its application made by the trust or other instrument under or in accordance with which the property was given, for such purposes connected with any of the functions of the body as it considers appropriate.
+
+(11) Where under subsection (7) or (10) property becomes applicable for purposes other than that for which it was given the body applying the property must have regard to the desirability of applying it for a purpose similar to that for which it was given.
+
+(12) References in this section to the purposes for which trust property may be used or applied include, in the case of trust property which has been transferred under section 161 or 162, references to those purposes as enlarged by section 164.
+
+### Chapter 5 — Formation of companies
+
+#### 170 Public-private partnerships
+
+(1) The Welsh Ministers may form, or participate in forming, companies to provide facilities or services to persons or bodies exercising functions, or otherwise providing services, under this Act.
+
+(2) The Welsh Ministers may, with a view to securing or facilitating the provision by companies of facilities or services to persons or bodies falling within subsection (1)—
+
+(a) invest in the companies (whether by acquiring assets, securities or rights or otherwise), or
+
+(b) provide loans and guarantees and make other kinds of financial provision to or in respect of them,
+
+or both.
+
+(3) For the purposes of subsections (1) and (2) it is immaterial that the facilities or services provided or to be provided by the companies in question are not provided or to be provided—
+
+(a) only to persons or bodies falling within subsection (1), or
+
+(b) to persons or bodies falling within subsection (1) only in their capacities as persons or bodies such as are mentioned in that provision.
+
+(4) “Companies” means companies [[^F178]as defined in section 1(1) of the Companies Act 2006].
+
+(5) This section does not affect any powers of the Welsh Ministers exercisable otherwise than by virtue of this section.
+
+### Chapter 6 — Finance
+
+#### Special Health Authorities
+
+##### 171 Means of meeting expenditure of Special Health Authorities out of public funds
+
+(1) The Welsh Ministers must pay in respect of each financial year to each Special Health Authority sums not exceeding the amount allotted for that year by the Welsh Ministers to the Special Health Authority towards meeting the expenditure of the Special Health Authority which is attributable to the performance by it of its functions in that year.
+
+(2) An amount is allotted to a Special Health Authority for a year under this section when it is notified by the Welsh Ministers that the amount is allotted to it for that year.
+
+(3) The Welsh Ministers may make an allotment under this section increasing or reducing an allotment previously so made.
+
+(4) The Welsh Ministers may give directions to a Special Health Authority with respect to—
+
+(a) the application of sums paid to it under this section, or
+
+(b) the payment of sums by it to the Welsh Ministers in respect of charges or other sums referable to the valuation or disposal of assets.
+
+(5) Sums falling to be paid to Special Health Authorities under this section are payable subject to such conditions as to records, certificates or otherwise as the Welsh Ministers may determine.
+
+##### 172 Financial duties of Special Health Authorities
+
+(1) Each Special Health Authority must, in respect of each financial year, perform its functions so as to secure that its expenditure which is attributable to the performance by it of its functions in that year does not exceed the aggregate of—
+
+(a) the amount allotted to it for that year under section 171(1),
+
+(b) any sums received by it in that year under any provision of this Act (other than sums received by it under that subsection), and
+
+(c) any sums received by it in that year otherwise than under this Act for the purpose of enabling it to defray any such expenditure.
+
+(2) The Welsh Ministers may give such directions to a Special Health Authority as appear to be requisite to secure that the Special Health Authority complies with the duty under subsection (1).
+
+(3) To the extent to which—
+
+(a) any expenditure is defrayed by a Special Health Authority as trustee or on behalf of a Special Health Authority by special trustees, or
+
+(b) any sums are received by a Special Health Authority as trustee or under section 169,
+
+that expenditure and, subject to subsection (5), those sums, must be disregarded for the purposes of this section.
+
+(4) For the purposes of this section sums which in the hands of a Special Health Authority cease to be trust funds and become applicable by the Special Health Authority otherwise than as trustee must be treated, on their becoming so applicable, as having been received by the Special Health Authority otherwise than as trustee.
+
+(5) Of the sums received by a Special Health Authority under section 169 so much only as accrues to the Special Health Authority after defraying any expenses incurred in obtaining them must be disregarded under subsection (3).
+
+(6) Subject to subsection (3), the Welsh Ministers may by directions determine—
+
+(a) whether specified sums must, or must not, be treated for the purposes of this section as received under this Act by a specified Special Health Authority,
+
+(b) whether specified expenditure must, or must not, be treated for those purposes as expenditure within subsection (1) of a specified Special Health Authority, or
+
+(c) the extent to which, and the circumstances in which, sums received by a Special Health Authority under section 171 but not yet spent must be treated for the purposes of this section as part of the expenditure of the Special Health Authority and to which financial year's expenditure they must be attributed.
+
+(7) “Specified” means of a description specified in the directions.
+
+##### 173 Resource limits for Special Health Authorities
+
+(1) Each Special Health Authority must ensure that the use of its resources in a financial year does not exceed the amount specified for it in relation to that year by the Welsh Ministers.
+
+(2) For the purpose of subsection (1) the Welsh Ministers may give directions—
+
+(a) specifying uses of resources which must, or must not, be taken into account,
+
+(b) making provision for determining to which Special Health Authority certain uses of resources must be attributed,
+
+(c) specifying descriptions of resources which must, or must not, be taken into account.
+
+(3) The Welsh Ministers may give such directions to a Special Health Authority as appear to be requisite to secure that it complies with the duty under subsection (1).
+
+(4) Subsections (3) to (5) of section 172 apply in relation to the duty under subsection (1) of this section as they apply in relation to the duties under subsections (1) and (2) of that section; and for that purpose references to the defraying of expenditure and the receipt of sums are references to the incurring of liabilities and the acquisition of assets.
+
+(5) Where the Welsh Ministers have specified an amount under this section in respect of a financial year, they may vary the amount by a later specification.
+
+(6) In this section a reference to the use of resources is a reference to their expenditure, consumption or reduction in value.
+
+#### Local Health Boards
+
+##### 174 Public funding of Local Health Boards
+
+(1) The Welsh Ministers must, in respect of each financial year, pay to each Local Health Board—
+
+(a) sums equal to its general ophthalmic [^F179]. . . services expenditure, and
+
+(b) sums not exceeding the amount allotted by the Welsh Ministers to the Local Health Board for that year towards meeting the Local Health Board's main expenditure in that year.
+
+(2) In determining the amount to be allotted for any year to a Local Health Board under subsection (1)(b) (or in varying the amount under subsection (9)), the Welsh Ministers may take into account, in whatever way they consider appropriate—
+
+(a) the Local Health Board's general ophthalmic [^F179]. . . services expenditure, and
+
+(b) expenditure which would have been the Local Health Board's general ophthalmic [^F179]. . . services expenditure but for an order under section 180(2) (special arrangements as to payment of remuneration),
+
+during any period the Welsh Ministers consider appropriate (or such elements of that expenditure as they consider appropriate).
+
+(3) Where the Welsh Ministers have made an initial determination of the amount (“the initial amount”) to be allotted for any year to a Local Health Board under subsection (1)(b), they may increase the initial amount by a further sum if it appears to them that over a period notified to the Local Health Board—
+
+(a) it satisfied any objectives notified to it as objectives to be met in performing its functions, or
+
+(b) it performed well against any criteria notified to it as criteria relevant to the satisfactory performance of its functions (whether or not the method of measuring its performance against those criteria was also notified to it).
+
+(4) “Notified” means specified or referred to in a notice given to the Local Health Board by the Welsh Ministers.
+
+(5) In making any increase under subsection (3), the Welsh Ministers may (whether by directions under subsection (10) or otherwise) impose any conditions they consider appropriate on the application or retention by the Local Health Board of the sum in question.
+
+(6) Subsection (7) applies where—
+
+(a) the Welsh Ministers have, under subsection (3), increased by any sum the amount to be allotted for any year to a Local Health Board,
+
+(b) the Welsh Ministers have notified the Local Health Board of the allotment, and
+
+(c) it subsequently appears to the Welsh Ministers that the Local Health Board has failed (wholly or in part) to satisfy any conditions imposed in making that increase.
+
+(7) Where this subsection applies, the Welsh Ministers may reduce—
+
+(a) the allotment made to the Local Health Board for that year, or
+
+(b) when the Welsh Ministers have made an initial determination of the amount (“the initial amount”) to be allotted for any subsequent year to the Local Health Board under subsection (1)(b), the initial amount,
+
+by an amount not exceeding the sum mentioned in subsection (6)(a).
+
+(8) An amount is allotted to a Local Health Board for a year under this section when the Local Health Board is notified by the Welsh Ministers that the amount is allotted to it for that year.
+
+(9) The Welsh Ministers may make an allotment under this section increasing or reducing (subject to subsection (7)) an allotment previously so made; and the reference to a determination in subsection (3) includes a determination made with a view to increasing or reducing an allotment previously so made.
+
+(10) The Welsh Ministers may give directions to a Local Health Board with respect to—
+
+(a) the application of sums paid to it under this section, or
+
+(b) the payment of sums by it to the Welsh Ministers in respect of charges or other sums referable to the valuation or disposal of assets.
+
+(11) Sums falling to be paid to Local Health Boards under this section are payable subject to such conditions as to records, certificates or otherwise as the Welsh Ministers may determine.
+
+(12) “General ophthalmic [^F179]. . . services expenditure” and “main expenditure” are defined in Schedule 8.
+
+##### 175 Financial duties of Local Health Boards
+
+[[^F180](1) Each Local Health Board must, in respect of each three-year accounting period, perform its functions so as to secure that its expenditure which is attributable to the performance by it of its functions in that period (not including its general ophthalmic services expenditure) does not exceed the aggregate of—
+
+(a) the amount allotted to it for each financial year in that period under section 174(1)(b),
+
+(b) any sums received by it in each financial year in that period under any other provision of this Act, and
+
+(c) any sums received by it in each financial year in that period otherwise than under this Act for the purpose of enabling it to defray any such expenditure,
+
+by an amount that is more than is determined in writing by the Welsh Ministers.]
+
+[[^F181](2) The Welsh Ministers must give directions to a Local Health Board requiring it—
+
+(a) to prepare a plan which sets out its strategy for securing that it complies with the duty under subsection (1) while improving—
+
+(i) the health of the people for whom it is responsible, and
+
+(ii) the provision of health care to such people;
+
+(b) to do such other things as appear to be requisite to secure that it complies with that duty.]
+
+[[^F182](2A) A Local Health Board does not comply with a direction given to it under subsection (2)(a) unless the plan prepared in accordance with that direction has been submitted to and approved by the Welsh Ministers.]
+
+(3) To the extent to which—
+
+(a) any expenditure is defrayed by a Local Health Board as trustee or on behalf of a Local Health Board by special trustees, or
+
+(b) any sums are received by a Local Health Board as trustee or under section 169,
+
+that expenditure and, subject to subsection (5) those sums, must be disregarded for the purposes of this section.
+
+(4) For the purposes of this section sums which, in the hands of a Local Health Board, cease to be trust funds and become applicable by the Local Health Board otherwise than as trustee must be treated, on their becoming so applicable, as having been received by the Local Health Board otherwise than as trustee.
+
+(5) Of the sums received by a Local Health Board under section 169 so much only as accrues to the Local Health Board after defraying any expenses incurred in obtaining them must be disregarded under subsection (3).
+
+(6) Subject to subsection (3), the Welsh Ministers may by directions determine—
+
+(a) whether specified sums must, or must not, be treated for the purposes of this section as received under this Act by a specified Local Health Board,
+
+(b) whether specified expenditure must, or must not, be treated for those purposes as expenditure within subsection (1) of a specified Local Health Board, or
+
+(c) the extent to which, and the circumstances in which, sums received by a Local Health Board under section 174 but not yet spent must be treated for the purposes of this section as part of the expenditure of the Local Health Board and to which financial year's expenditure they must be attributed.
+
+[[^F183](6A) The Welsh Ministers must, in relation to each three-year accounting period, report to the National Assembly for Wales before the end of the financial year following that period on whether each Local Health Board has complied with the duty under subsection (1).]
+
+(7) “Specified” means of a description specified in the directions.
+
+[[^F184](8) Three-year accounting period” means a period of three years which begins with the first day of a financial year, so that the first begins with 1 April 2014 and ends with 31 March 2017 and the second begins with 1 April 2015 and ends with 31 March 2018 (and so on).]
+
+##### [^F185]176 Resource limits for Local Health Boards
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### 177 Further provision about the expenditure of Local Health Boards
+
+Schedule 8 makes further provision about the expenditure of Local Health Boards.
+
+#### Accounts and audit
+
+##### 178 Accounts and audit
+
+Schedule 9 makes provision about the accounts of certain health service bodies and the auditing of such accounts.
+
+#### Allowances and remuneration
+
+##### 179 Allowances for members of certain bodies
+
+(1) The Welsh Ministers may pay to members of any body specified by them in an order as a body formed for the purpose of performing a function connected with the provision of services under this Act, such travelling and other allowances, including compensation for loss of remunerative time, as they may determine.
+
+(2) Payments under this section are subject to such conditions as to records, certificates, or otherwise as the Welsh Ministers may determine.
+
+##### 180 Special arrangement as to payment of remuneration
+
+(1) Subsection (2) applies where the Welsh Ministers consider it appropriate for remuneration in respect of—
+
+(a) primary medical services or primary dental services,
+
+(b) general ophthalmic services, or
+
+(c) pharmaceutical services,
+
+to be paid by a particular body.
+
+(2) Where this subsection applies, and the functions of the body do not include the function of paying the remuneration, the Welsh Ministers may by order confer that function on that body.
+
+(3) Any sums required to enable a body to pay the remuneration must, if apart from this section there is no provision authorising the payment of the sums by the Welsh Ministers or out of money provided by Parliament, be paid by them.
+
+(4) If the Welsh Ministers by order so provide with respect to remuneration in respect of such pharmaceutical services or such local pharmaceutical services as may be specified in the order—
+
+(a) an NHS trust determined in accordance with the order has the function of paying sums so determined to a Local Health Board so determined in respect of the whole or any part of that remuneration, and
+
+(b) subsection (3) does not apply with respect to the whole or that part of the remuneration.
+
+##### 181 Payments for certain medical examinations
+
+(1) Where a medical practitioner carries out a medical examination of any person with a view to an application for his admission to hospital for assessment or treatment being made under Part 2 of the Mental Health Act 1983 (c. 20) the Welsh Ministers must pay to that medical practitioner—
+
+(a) reasonable remuneration in respect of that examination and in respect of any recommendation or report made by him with regard to the person examined, and
+
+(b) the amount of any expenses reasonably incurred by him in connection with the examination or the making of any such recommendation or report.
+
+(2) No payment may be made under this section to a medical practitioner—
+
+(a) in respect of an examination carried out in the provision of primary medical services for that person, or
+
+(b) in respect of an examination carried out or any recommendation or report made as part of his duty as an officer of [^F186]... [[^F187]an] NHS trust, Special Health Authority, NHS foundation trust or Local Health Board.
+
+(3) This section applies only in a case where it is intended, when the medical examination of the person in question is carried out, that if he is admitted to hospital in pursuance of an application mentioned in subsection (1), the whole cost of his maintenance and treatment will be defrayed out of moneys provided by Parliament.
+
+## Part 12 — Public involvement and scrutiny
+
+### Chapter 1 — Community Health Councils
+
+#### [^F188]182 Community Health Councils
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Chapter 2 — Public involvement and consultation
+
+#### 183 Public involvement and consultation
+
+(1) Each Local Health Board must make arrangements with a view to securing, as respects health services for which it is responsible, that persons to whom those services are being or may be provided are, directly or through representatives, involved in and consulted on—
+
+(a) the planning of the provision of those services,
+
+(b) the development and consideration of proposals for changes in the way those services are provided, and
+
+(c) decisions to be made by the Local Health Board affecting the operation of those services.
+
+(2) For the purposes of this section a Local Health Board is responsible for health services—
+
+(a) if it provides or will provide those services to individuals, or
+
+(b) if another person provides, or will provide, those services to individuals—
+
+(i) at the Local Health Board's direction,
+
+(ii) on its behalf, or
+
+(iii) in accordance with an agreement or arrangements made by the Local Health Board with that other person,
+
+and references in this section to the provision of services include references to the provision of services jointly with another person.
+
+### Chapter 3 — Overview and scrutiny committees
+
+#### 184 Functions of overview and scrutiny committees
+
+(1) This section applies to any local authority, except that it applies to the council of a district only where the district is comprised in an area for which there is no county council.
+
+(2) Regulations may, in relation to an overview and scrutiny committee of an authority to which this section applies, make provision—
+
+(a) as to matters relating to the health service in the authority's area which the committee may review and scrutinise,
+
+(b) as to matters relating to the health service in the authority's area on which the committee may make reports and recommendations to local NHS bodies [[^F189], direct payment service providers] [[^F190]or the Welsh Ministers],
+
+(c) as to matters on which local NHS bodies [[^F191]or direct payment service providers] must consult the committee in accordance with the regulations (including provision as to circumstances in which the Welsh Ministers or the Independent Regulator of NHS Foundation Trusts may require consultation on those matters in accordance with the regulations),
+
+(d) as to information which local NHS bodies [[^F192]or direct payment service providers] must provide to the committee,
+
+(e) as to information which may not be disclosed by a local NHS body [[^F193]or a direct payment service provider] to the committee,
+
+(f) requiring any officer of a local NHS body [[^F194]or a direct payment service provider] to attend before the committee to answer questions.
+
+(3) For the purposes of subsection (2), “local NHS body”, in relation to an overview and scrutiny committee, means an NHS body other than a Special Health Authority which is prescribed for those purposes in relation to the committee.
+
+[[^F195](3A) For the purposes of subsection (2) and section 186, “direct payment service provider in relation to an overview and scrutiny committee of a local authority means a person who provides services to any person residing in the authority’s area in respect of which direct payments have been made under section 10B(1), or under regulations made under section 10B(6).]
+
+(4) “The health service” includes services provided in pursuance of arrangements under regulations under section 33 in relation to the exercise of health-related functions of a local authority.
+
+#### 185 Joint overview and scrutiny committees etc
+
+(1) In this section, “relevant functions”—
+
+(a) in relation to a local authority operating executive arrangements under Part 2 of the Local Government Act 2000 (c. 22) (“the 2000 Act”), are functions which are, or, but for regulations under this section, would be, exercisable under section 21(2)(f) of that Act by an overview and scrutiny committee of that authority, and
+
+(b) in relation to a local authority operating alternative arrangements under that Part, are any corresponding functions which are, or, but for regulations under this section, would be, exercisable by a committee of the authority falling within paragraph (b) of section 32(1) of that Act,
+
+and references to an overview and scrutiny committee include references to a committee falling within that paragraph.
+
+(2) Regulations may make provision under which—
+
+(a) two or more local authorities may appoint a joint committee of those authorities (a “joint overview and scrutiny committee”) and arrange for relevant functions in relation to any (or all) of those authorities to be exercisable by the committee,
+
+(b) a local authority may arrange for relevant functions in relation to that authority to be exercisable by an overview and scrutiny committee of another local authority,
+
+(c) a county council for any area may arrange for one or more of the members of an overview and scrutiny committee of the council for a district comprised in that area to be appointed as—
+
+(i) a member of an overview and scrutiny committee of the county council or another local authority, for the purposes of relevant functions of the committee in relation to the county council, or
+
+(ii) a member of an overview and scrutiny committee of the county council, for the purposes of relevant functions of the committee in relation to another local authority.
+
+(3) The regulations may in particular—
+
+(a) provide for arrangements to be made only in specified circumstances, or subject to specified conditions or limitations,
+
+(b) in relation to joint overview and scrutiny committees, make provision applying, or corresponding to, any provision of—
+
+(i) section 21(4) and (6) to [[^F196](17)] of the 2000 Act, or
+
+[[^F197](ia) section 21A(1)(a) or (b) or (2) of that Act,]
+
+(ii) section 186 of, and Schedule 11 to, this Act, and Schedule 17 to the National Health Service Act 2006 (c. 41),
+
+with or without modifications.
+
+(4) The regulations may require, or enable the Welsh Ministers to direct, a local authority—
+
+(a) to make arrangements of any description within subsection (2), and
+
+(b) to comply with such requirements in connection with the arrangements as may be specified in the regulations or as the Welsh Ministers may direct.
+
+(5) In section 184(2) and (3), references to an overview and scrutiny committee include references to a joint overview and scrutiny committee.
+
+(6) In subsection (2)(c), references to an overview and scrutiny committee of a county council include references to a joint overview and scrutiny committee of the council and another local authority.
+
+(7) Section 21(4) of the 2000 Act does not apply to the discharge of functions by virtue of arrangements under regulations under subsection (2).
+
+(8) Section 21(10) of the 2000 Act does not apply to persons who are members of an overview and scrutiny committee by virtue of arrangements under regulations under subsection (2)(c).
+
+(9) “Local authority” does not include the Common Council of the City of London.
+
+#### 186 Overview and scrutiny committees: exempt information
+
+(1) This section applies in relation to any item of business at a meeting of an overview and scrutiny committee which is an item relating to functions of the committee under section 21(2)(f) of the Local Government Act 2000 (c. 22).
+
+(2) In relation to any such item, information is exempt information for the purposes of section 100A(4) of the Local Government Act 1972 (c. 70) (exclusion of public from meetings to prevent disclosure of exempt information) if it falls within any of the descriptions of information specified in Schedule 11, or in Schedule 17 to the National Health Service Act 2006.
+
+(3) The Welsh Ministers may by order vary Schedule 11—
+
+(a) by adding any description or other provision in connection with a relevant body or services provided by, or under arrangements made by, a relevant body, [^F198]...
+
+[[^F199](ab) by adding any description or other provision in connection with a direct payment service provider or services provided by, or under arrangements made by, a direct payment service provider, or]
+
+(b) by deleting or varying any description or other provision specified or contained in that Schedule.
+
+(4) The Welsh Ministers may exercise the power conferred by subsection (3) by amending any Part of Schedule 11, with or without amendment of any other Part.
+
+(5) In this section and Schedule 11 “relevant body” means a body in respect of which overview and scrutiny committees exercise functions under regulations under section 184.
+
+## Part 13 — Miscellaneous
+
+### Independent advocacy services
+
+#### 187 Independent advocacy services
+
+(1) The Welsh Ministers must arrange, to such extent as they consider necessary to meet all reasonable requirements, for the provision of independent advocacy services.
+
+(2) “Independent advocacy services”are services providing assistance (by way of representation or otherwise) to individuals making or intending to make—
+
+(a) a complaint under a procedure operated by a [[^F200]direct payment service provider,] health service body [[^F201], independent provider or independent palliative care provider],
+
+(b) a complaint under section 113(1) or (2) of the Health and Social Care (Community Health and Standards) Act 2003 (c. 43),
+
+(c) a complaint to the Health Service Commissioner for England [^F202]...,
+
+[[^F203](ca) a complaint to the Public Services Ombudsman for Wales which relates to a [[^F204]direct payment service provider,] health service body [[^F205], family health service provider in Wales, independent provider] or independent palliative care provider,]
+
+(d) a complaint of a prescribed description which relates to the provision of services as part of the health service and—
+
+(i) is made under a procedure of a prescribed description, or
+
+(ii) gives rise, or may give rise, to proceedings of a prescribed description.
+
+(3) In subsection (2)—
+
+- [[^F206]“direct payment service provider means a person who provides services to any person in respect of which direct payments have been made under section 10B(1), or under regulations made under section 10B(6),]
+
+- [[^F207]“ family health service provider in Wales ” has the same meaning as it has in the Public Services Ombudsman (Wales) Act 2019 (see, in particular, section 78 of that Act),]
+
+- “health service body” means—
+
+  - (a) in relation to England, a body which, under section 2(1) of the Health Service Commissioners Act 1993 (c. 46), is subject to investigation by the Health Service Commissioner for England,
+  - (b) in relation to Wales, a Welsh health service body (within the meaning of [[^F208]the Public Services Ombudsman (Wales) Act 2019]),
+
+- [[^F209]“independent palliative care provider” means a person who is an independent palliative care provider (within the meaning given by [[^F210]section 64 of the Public Services Ombudsman (Wales) Act 2019]),]
+
+- “independent provider” means—
+
+  - (a) in relation to England, a person who, under section 2B(1) of the Health Service Commissioners Act 1993, is subject to investigation by the Health Service Commissioner for England,
+  - (b) in relation to Wales, a person who is an independent provider in Wales (within the meaning of [[^F211]the Public Services Ombudsman (Wales) Act 2019].
+
+(4) The Welsh Ministers may make such other arrangements as they consider appropriate for the provision of assistance to individuals in connection with complaints relating to the provision of services as part of the health service.
+
+(5) In making arrangements under this section the Welsh Ministers must have regard to the principle that the provision of services under the arrangements should, so far as practicable, be independent of any person who is—
+
+(a) the subject of a relevant complaint, or
+
+(b) involved in investigating or adjudicating on such a complaint.
+
+(6) The Welsh Ministers may make payments to any person in pursuance of arrangements under this section.
+
+### Joint working with the prison service
+
+#### 188 Joint working with the prison service
+
+(1) The Welsh Ministers may by regulations make provision for or in connection with enabling prescribed NHS bodies (on the one hand) and the prison service (on the other) to enter into prescribed arrangements in relation to the exercise of—
+
+(a) prescribed functions of the NHS bodies, and
+
+(b) prescribed health-related functions of the prison service,
+
+if the arrangements are likely to lead to an improvement in the way in which those functions are exercised in relation to securing and maintaining the health of prisoners.
+
+(2) The arrangements which may be prescribed include arrangements—
+
+(a) for or in connection with the establishment and maintenance of a fund—
+
+(i) which is made up of contributions by one or more NHS bodies and by the prison service, and
+
+(ii) out of which payments may be made towards expenditure incurred in the exercise of both prescribed functions of the NHS body or bodies and prescribed health-related functions of the prison service,
+
+(b) for or in connection with the exercise by an NHS body on behalf of the prison service of prescribed health-related functions of the prison service in conjunction with the exercise by the NHS body of prescribed functions of the NHS body,
+
+(c) for or in connection with the exercise by the prison service on behalf of an NHS body of prescribed functions of the NHS body in conjunction with the exercise by the prison service of prescribed health-related functions of the prison service,
+
+(d) as to the provision of staff, goods or services in connection with any arrangements mentioned in paragraph (a), (b) or (c),
+
+(e) as to the making of payments by the prison service to an NHS body in connection with any arrangements mentioned in paragraph (b),
+
+(f) as to the making of payments by an NHS body to the prison service in connection with any arrangements mentioned in paragraph (c).
+
+(3) Any arrangements made by virtue of this section do not affect the liability of NHS bodies, or of the prison service, for the exercise of any of their functions.
+
+(4) “The prison service” means the Minister of the Crown exercising functions in relation to prisons (within the meaning of the Prison Act 1952 (c. 52)); and “Minister of the Crown” has the same meaning as in the Ministers of the Crown Act 1975.
+
+### Advisory committees
+
+#### 189 Welsh Ministers' standing advisory committees
+
+(1) The Welsh Ministers may by order establish standing advisory committees for the purpose of advising them on such of the services provided under this Act as may be specified in the order.
+
+(2) A standing advisory committee consists of persons appointed by the Welsh Ministers after consultation with such representative organisations as they recognise for the purpose.
+
+(3) A standing advisory committee must advise the Welsh Ministers—
+
+(a) on such matters relating to the services with which the committee is concerned as it considers appropriate, and
+
+(b) on any questions referred to it by the Welsh Ministers relating to those services.
+
+(4) Schedule 13 makes further provision about standing advisory committees.
+
+#### 190 Advisory committees for Wales
+
+(1) Where the Welsh Ministers are satisfied that a committee formed for Wales is representative of any category of persons mentioned in subsection (2), they must recognise the committee.
+
+(2) The categories are—
+
+(a) medical practitioners,
+
+(b) dental practitioners,
+
+(c) nurses and midwives,
+
+(d) registered pharmacists, or
+
+(e) optometrists.
+
+(3) A committee recognised under this section is called the Welsh Medical Committee, the Welsh Dental Committee, the Welsh Nursing and Midwifery Committee, the Welsh Pharmaceutical Committee or the Welsh Optical Committee.
+
+(4) The duty of the Welsh Ministers under subsection (1) is subject to paragraph 1 of Schedule 14.
+
+(5) Schedule 14 to this Act makes further provision about committees recognised under this section.
+
+### Emergency powers
+
+#### 191 Emergency powers
+
+(1) The Welsh Ministers may give directions under this section if they consider that by reason of an emergency it is necessary to do so in order to ensure that a service falling to be provided under or by virtue of this Act is provided.
+
+(2) Directions under this section may direct that, during the period specified by the directions, a function conferred on any body or person under or by virtue of this Act is to the exclusion of or concurrently with that body or person to be performed by another body or person.
+
+(3) The powers conferred on the Welsh Ministers by this section are in addition to any other powers exercisable by the Welsh Ministers.
+
+### Local social services authorities
+
+#### 192 Local social service authorities
+
+[^F212]1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) A local social services authority which provides premises, furniture or equipment for any of the purposes of this Act may permit the use of the premises, furniture or equipment by—
+
+(a) any other local social services authority,
+
+(b) any of the bodies established under this Act, or
+
+[[^F213](c) a local authority (as defined in section 579(1) of the Education Act 1996) for the purposes of the exercise of any education functions (as defined in that section).]
+
+(3) The permission may be on such terms (including terms with respect to the services of any staff employed by the authority giving permission) as may be agreed.
+
+(4) A local social services authority may provide (or improve or furnish) residential accommodation for officers—
+
+(a) employed by it for the purposes of any of its functions as a local social services authority, [^F214]...
+
+[^F214]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) In this section [^F215]... “equipment” includes any machinery, apparatus or appliance, whether fixed or not, and any vehicle.
+
+### Supplies by the Welsh Ministers
+
+#### 193 Supplies not readily obtainable
+
+(1) Where the Welsh Ministers have acquired—
+
+(a) supplies of human blood for the purposes of any service under this Act,
+
+(b) any part of a human body for the purpose of, or in the course of providing, any such service, or
+
+(c) supplies of any other substances or preparations not readily obtainable,
+
+they may arrange to make such supplies or that part available (on such terms, including terms as to charges, as they consider appropriate) to any person.
+
+(2) The Welsh Ministers may exercise the powers conferred by subsection (1) only if, and to the extent that, they are satisfied that anything which they propose to do or allow under those powers—
+
+(a) will not to a significant extent interfere with the performance by them of any duty imposed on them by this Act to provide accommodation or services of any kind, and
+
+(b) will not to a significant extent operate to the disadvantage of persons seeking or afforded admission or access to accommodation or services at health service hospitals (whether as resident or non-resident patients) otherwise than as private patients.
+
+(3) “Health service hospital” includes such a hospital within the meaning of section 275 of the National Health Service Act 2006 (c. 41).
+
+### Community services
+
+#### 194 Power of Local Health Boards to make payments towards expenditure on community services
+
+(1) A Local Health Board may make payments to—
+
+[[^F216](a) a local social services authority in Wales towards expenditure incurred or to be incurred by it in connection with any of its functions which are social services functions for the purposes of the Social Services and Well-being (Wales) Act 2014 (anaw 4),]
+
+[[^F217](aa) a local social services authority in England towards expenditure incurred or to be incurred by it in connection with any social services functions (within the meaning of the Local Authority Social Services Act 1970 (c. 42)), other than functions under section 3 of the Disabled Persons (Employment) Act 1958 (c. 33),]
+
+(b) a district council, or a Welsh county council or county borough council, towards expenditure incurred or to be incurred by it in connection with its functions under Part 2 of Schedule 9 to the Health and Social Services and Social Security Adjudications Act 1983 (c. 41) (meals and recreation for old people),
+
+(c) [[^F218]a local authority (as defined in section 579(1) of the Education Act 1996)], towards expenditure incurred or to be incurred by it in connection with its functions under the Education Acts (within the meaning of that Act), in so far as it performs those functions for the benefit of disabled persons,
+
+(d) a local housing authority within the meaning of the Housing Act 1985 (c. 68), towards expenditure incurred or to be incurred by it in connection with its functions under Part 2 of that Act (provision of housing), or
+
+(e) any of the bodies mentioned in subsection (2), in respect of expenditure incurred or to be incurred by it in connection with the provision of housing accommodation.
+
+(2) The bodies are—
+
+(a) a registered social landlord within the meaning of the Housing Act 1985 (see section 5(4) and (5) of that Act),
+
+[[^F219](ab) a private registered provider of social housing,]
+
+[[^F220](b) the Homes and Communities Agency,]
+
+(c) a new town development corporation,
+
+(d) an urban development corporation established under the Local Government, Planning and Land Act 1980 (c. 65),
+
+(e) the [[^F221]Regulator of Social Housing].
+
+(3) A Local Health Board may make payments to a local authority towards expenditure incurred or to be incurred by the authority in connection with the performance of any of the authority's functions which, in the opinion of the Local Health Board—
+
+(a) have an effect on the health of any individuals,
+
+(b) have an effect on, or are affected by, any NHS functions, or
+
+(c) are connected with any NHS functions.
+
+(4) “NHS functions” means functions exercised by an NHS body.
+
+(5) A payment under this section may be made in respect of expenditure of a capital or of a revenue nature or in respect of both kinds of expenditure.
+
+(6) The Welsh Ministers may by directions prescribe conditions relating to payments under this section or section 195.
+
+(7) The conditions include, in particular, conditions requiring, in such circumstances as may be specified—
+
+(a) repayment of the whole or part of a payment under this section, or
+
+(b) in respect of property acquired with a payment under this section, payment of an amount representing the whole or part of an increase in the value of the property which has occurred since its acquisition.
+
+(8) No payment may be made under this section in respect of any expenditure unless the conditions relating to it conform with the conditions prescribed under subsection (6) for payments of that description.
+
+(9) “A disabled person”is a person who has a physical or mental impairment which has a substantial and long-term adverse effect on his ability to carry out normal day-to-day activities or who has such other disability as may be prescribed.
+
+#### 195 Payments in respect of voluntary organisations under section 194
+
+(1) This section applies where the expenditure in respect of which a payment under section 194 is proposed to be made is expenditure in connection with services to be provided by a voluntary organisation.
+
+(2) Where this section applies, the Local Health Board may make payments to the voluntary organisation towards the expenditure incurred or to be incurred by the organisation in connection with the provision of those services, instead of or in addition to making payments under section 194(1) or (3).
+
+(3) Where this section applies—
+
+(a) a body falling within any of paragraphs (a) to (d) of section 194(1) which has received payments under the paragraph, and
+
+(b) a local authority which has received payments under section 194(3),
+
+may make out of the sums paid to it payments to the voluntary organisation towards expenditure incurred or to be incurred by the organisation in connection with the provision of those services.
+
+(4) No payment may be made under subsection (2) or (3) except subject to conditions which conform with the conditions prescribed for payments of that description under section 194(6).
+
+#### 196 Power of Welsh Ministers to make payments towards expenditure on community services in Wales
+
+(1) The Welsh Ministers may make payments—
+
+(a) to an authority in Wales of a description mentioned in paragraph (a), (b), (c) or (d) of section 194(2), for the purpose mentioned in the paragraph,
+
+(b) to any body mentioned in subsection (2), in respect of expenditure incurred or to be incurred by the body in connection with the provision of housing accommodation in Wales.
+
+(2) The bodies are—
+
+(a) a registered social landlord within the meaning of the Housing Act 1985 (c. 68) (see section 5(4) and (5) of that Act),
+
+[[^F222](b) the Homes and Communities Agency,]
+
+(c) a new town development corporation,
+
+(d) an urban development corporation established under the Local Government, Planning and Land Act 1980 (c. 65).
+
+(3) The Welsh Ministers may make payments to a voluntary organisation towards expenditure incurred or to be incurred by the organisation in connection with the provision of services for which the Welsh Ministers could make payments under subsection (1).
+
+(4) A payment under this section may be made in respect of expenditure of a capital or of a revenue nature or in respect of both kinds of expenditure.
+
+(5) Conditions may be attached to a payment under this section.
+
+(6) The conditions that may be attached include, in particular, conditions requiring, in such circumstances as may be specified—
+
+(a) repayment of the whole or part of a payment under this section, or
+
+(b) in respect of property acquired with a payment under this section, payment of an amount representing the whole or part of an increase in the value of the property which has occurred since its acquisition.
+
+### Universities
+
+#### 197 University clinical teaching and research
+
+(1) The Welsh Ministers must exercise their functions under this Act so as to secure that there are made available such facilities as they consider are reasonably required by any university which has a medical or dental school, in connection with—
+
+(a) clinical teaching, and
+
+(b) research connected with clinical medicine or clinical dentistry.
+
+(2) Regulations may provide for any functions—
+
+(a) exercisable by [[^F223][[^F224]NHS England],] [[^F225]an integrated care board,] [^F226]... [^F227]... Special Health Authority or Local Health Board,
+
+(b) in relation to the provision of facilities such as are mentioned in subsection (1),
+
+to be exercisable by the body jointly with one or more NHS body other than an NHS foundation trust.
+
+### Use of facilities in private practice
+
+#### 198 Permission for use of facilities in private practice
+
+(1) A person to whom this section applies who wishes to use any relevant health service accommodation or facilities for the purpose of providing medical, dental, pharmaceutical, ophthalmic or chiropody services to non-resident private patients may apply in writing to the Welsh Ministers for permission under this section.
+
+(2) Any application for permission under this section must specify—
+
+(a) which of the relevant health service accommodation or facilities the applicant wishes to use for the purpose of providing services to such patients, and
+
+(b) which of the kinds of services mentioned in subsection (1) he wishes the permission to cover.
+
+(3) On receiving an application under this section the Welsh Ministers—
+
+(a) must consider whether anything for which permission is sought would interfere with the giving of full and proper attention to persons seeking or afforded access otherwise than as private patients to any services provided under this Act, and
+
+(b) must grant the permission applied for unless in the opinion of the Welsh Ministers anything for which permission is sought would so interfere.
+
+(4) Any grant of permission under this section is on such terms (including terms as to the payment of charges for the use of the relevant health service accommodation or facilities pursuant to the permission) as the Welsh Ministers may from time to time determine.
+
+(5) The persons to whom this section applies are—
+
+(a) medical practitioners or optometrists who provide services under Part 6,
+
+(b) medical practitioners, registered pharmacists or other persons who provide services under Chapter 1 of Part 7,
+
+(c) chiropodists who provide services under this Act at premises where services are provided under Part 6 or Chapter 1 of Part 7,
+
+(d) persons providing primary medical services or primary dental services under a general medical services contract or a general dental services contract or in accordance with section 50 arrangements or section 64 arrangements.
+
+(6) “Relevant health service accommodation or facilities”, in relation to a person to whom this section applies, means—
+
+(a) any accommodation or facilities available at premises provided by the Welsh Ministers by virtue of this Act, being accommodation or facilities which that person is authorised to use for purposes of this Act, or
+
+(b) in the case of a person to whom this section applies by virtue of subsection (5)(c), accommodation or facilities which that person is authorised to use for purposes of this Act at premises where services are provided under Part 6 or Chapter 1 of Part 7.
+
+### Health service development
+
+#### 199 Persons displaced by health service development
+
+(1) Subsection (2) applies—
+
+(a) where the carrying out of a scheme for the provision by the Welsh Ministers in pursuance of this Act of hospital accommodation or other facilities will involve the displacement from any premises of persons living in the premises, and
+
+(b) in so far as it appears to the Welsh Ministers that there is no other residential accommodation suitable for the reasonable requirements of those persons available on reasonable terms.
+
+(2) The Welsh Ministers may make arrangements with one or more of the bodies mentioned in subsection (3) for securing the provision, in advance of the displacement, of residential accommodation which becomes necessary as the carrying out of the scheme proceeds.
+
+(3) The bodies are—
+
+(a) a local housing authority (within the meaning of the Housing Act 1985 (c. 68)),
+
+(b) a housing association or housing trust (within the meaning of the Housing Associations Act 1985 (c. 69)),
+
+(c) a development corporation established under the New Towns Act 1981 (c. 64),
+
+[[^F228](d) the Homes and Communities Agency.]
+
+(4) Arrangements under subsection (2) may include provision for the making of payments by the Welsh Ministers to the body with whom the arrangements are made.
+
+### Registration of information, etc
+
+#### 200 Special notices of births and deaths
+
+(1) The requirements of this section with respect to the notification of births and deaths are in addition to, and not in substitution for, the requirements of any Act relating to the registration of births and deaths.
+
+(2) Each registrar of births and deaths must furnish, to the Local Health Board the area of which includes the whole or part of the registrar's sub-district, such particulars of each birth and death which occurred in the area of the Local Health Board as are entered in a register of births or deaths kept for that sub-district.
+
+(3) Regulations may provide as to the manner in which and the times at which particulars must be furnished under subsection (2).
+
+(4) In the case of each child born—
+
+(a) the child's father, if at the time of the birth he is residing on the premises where the birth takes place, and
+
+(b) any person in attendance upon the mother at the time of, or within six hours after, the birth,
+
+must give notice of the birth to the Local Health Board for the area in which the birth takes place.
+
+(5) Subsection (4) applies to any child which is born after the expiry of the twenty-fourth week of pregnancy whether alive or dead.
+
+(6) Notice under subsection (4) must be given either—
+
+(a) by posting within 36 hours after the birth a prepaid letter or postcard addressed to the Local Health Board at its offices and containing the required information, or
+
+(b) by delivering within that period at the offices of the Local Health Board a written notice containing the required information.
+
+(7) A Local Health Board must, upon application to it, supply without charge to any medical practitioner or midwife residing or practising within its area prepaid addressed envelopes together with the forms of notice.
+
+(8) Any person who fails to give notice of a birth in accordance with subsection (4) is liable on summary conviction to a fine not exceeding level 1 on the standard scale, unless he satisfies the court that he believed, and had reasonable grounds for believing, that notice had been duly given by some other person.
+
+(9) Proceedings in respect of an offence under subsection (8) must not, without the Attorney-General's written consent, be taken by any person other than a party aggrieved or the Local Health Board concerned.
+
+(10) A registrar of births and deaths must, for the purpose of obtaining information concerning births which have occurred in his sub-district, have access at all reasonable times to—
+
+(a) notices of births received by a Local Health Board under this section, or
+
+(b) any book in which those notices may be recorded.
+
+#### 201 Provision of information by Registrar General
+
+(1) The Registrar General may provide to [[^F229]any of the following persons] any information to which this section applies.
+
+[[^F230](a) the Welsh Ministers,
+
+(b) a Special Health Authority which has functions that are exercisable in relation to Wales,
+
+(c) a Local Health Board,
+
+(d) an NHS trust established under section 18, and
+
+(e) such other persons as the Welsh Ministers may specify in a direction.]
+
+(2) Any information provided under subsection (1) must be provided in such form as appears to the Registrar General appropriate for the purpose of assisting [[^F231]the person to whom the information is provided] in the performance of [[^F232]functions exercisable by the person] in relation to the health service.
+
+(3) This section applies to any information—
+
+(a) entered in any register kept under the Births and Deaths Registration Act 1953 (c. 20),
+
+(b) entered in the Adopted Children Register maintained by the Registrar General under the Adoption and Children Act 2002 (c. 38), or
+
+(c) which is kept by the Registrar General under any other enactment and relates to any birth or death.
+
+(4) “Enactment” includes an enactment contained in subordinate legislation.
+
+## Part 14 — Supplementary
+
+### 202 Territorial limit of exercise of functions
+
+The functions of the Welsh Ministers under this Act are exercisable only in relation to Wales.
+
+### 203 Orders, regulations and directions
+
+(1) This section does not apply to Part 10 (as to which, see section 157).
+
+(2) Subject to subsection (3), any power under this Act to make an order or regulations is exercisable by statutory instrument.
+
+(3) Subsection (2) does not apply to an order under—
+
+(a) section 26(2),
+
+(b) section 159(4),
+
+(c) paragraph 20, 21, 22 or 24 of Schedule 2,
+
+(d) paragraph 9, 27 or 29 of Schedule 3, or
+
+(e) paragraph 2 of Schedule 12.
+
+(4) Subject to subsections (5) to (7), a statutory instrument made by virtue of this Act is subject to annulment in pursuance of a resolution of the National Assembly for Wales.
+
+(5) Subsection (4) does not apply to a statutory instrument containing an order under—
+
+(a) section 18,
+
+(b) Schedule 3, or
+
+(c) paragraph 1(1) of Schedule 4.
+
+(6) A statutory instrument containing [[^F233]regulations under [[^F234]section 10A(1),] [[^F235]section 10C(1) (direct payments),] section 25B(3)(c) or] an order under section 141(4) may not be made unless a draft of the instrument has been laid before, and approved by resolution of, the National Assembly for Wales.
+
+[[^F236](6A) A statutory instrument containing the first regulations under section 82A (pharmaceutical needs assessments) [[^F237]or the first regulations under section 10B(6) (direct payments by Local Health Boards)] may not be made unless a draft of the instrument has been laid before, and approved by resolution of, the National Assembly for Wales.]
+
+(7) If a statutory instrument made by virtue of this Act, which is subject to annulment in pursuance of a resolution of the National Assembly for Wales—
+
+(a) contains subordinate legislation made by a Minister of the Crown or government department (whether or not jointly with the Welsh Ministers, the First Minister or the Counsel General),
+
+(b) contains subordinate legislation relating to an English border area, or
+
+(c) contains subordinate legislation relating to a cross-border body (and not relating only to the exercise of functions, or the carrying on of activities, by the body in or with respect to Wales or a part of Wales),
+
+the statutory instrument is subject also to annulment in pursuance of a resolution of either House of Parliament.
+
+(8) In subsection (7), “English border area” and “cross-border body” have the meaning given by the Government of Wales Act 2006 (c. 32).
+
+(9) Any power under this Act to make orders, regulations or schemes, and any power to give directions—
+
+(a) may be exercised either in relation to all cases to which the power extends, or in relation to those cases subject to specified exceptions, or in relation to any specified cases or classes of case,
+
+(b) may be exercised so as to make, as respects the cases in relation to which it is exercised—
+
+(i) the full provision to which the power extends or any less provision (whether by way of exception or otherwise),
+
+(ii) the same provision for all cases in relation to which the power is exercised, or different provision for different cases or different classes of case, or different provision as respects the same case or class of case for different purposes of this Act,
+
+(iii) any such provision either unconditionally or subject to any specified condition, and
+
+(c) may, in particular, make different provision for different areas.
+
+(10) Any such power includes power—
+
+(a) to make such incidental, supplementary, consequential, saving or transitional provision (including, in the case of a power to make an order or regulations, provision amending, repealing or revoking enactments) as the person or body exercising the power considers to be expedient, and
+
+(b) to provide for a person to exercise a discretion in dealing with any matter.
+
+### 204 Further provision about orders and directions under this Act
+
+(1) Where under or by virtue of any provision of this Act—
+
+(a) an order may be made, or
+
+(b) directions may be given,
+
+that provision includes power to vary or revoke the order or directions by subsequent order or by subsequent directions.
+
+(2) Subsection (1) does not affect section 14(b) of the Interpretation Act 1978 (c. 30).
+
+(3) A direction under this Act by the Welsh Ministers must be given—
+
+(a) (subject to paragraphs (b) and (c)), by an instrument in writing,
+
+(b) in the case of a direction under—
+
+(i) section 12(1)(a),
+
+(ii) section 24 about a function under section 4, 145 or 146, or
+
+(iii) section 147(2),
+
+by regulations,
+
+(c) in the case of—
+
+(i) any other direction under section 12,
+
+(ii) any other direction under section 24, or
+
+(iii) a direction under section 13, 19, 23, 45, 52(4), 60 or 66(4),
+
+by regulations or an instrument in writing.
+
+(4) Subsection (3) does not apply to a direction under section 46 (as to which, see that section).
+
+### 205 Supplementary regulatory powers
+
+Regulations may provide for—
+
+(a) prescribing the forms and manner of service of notices and other documents,
+
+(b) prescribing the manner in which documents may be executed or proved,
+
+(c) exempting judges and justices of the peace from disqualification by their liability to rates.
+
+### 206 Interpretation
+
+(1) In this Act (except where the context otherwise requires)—
+
+- [^F238]...
+
+- “dental practitioner” means a person registered in the dentists register under the Dentists Act 1984 (c. 24),
+
+- “facilities” includes the provision of (or the use of) premises, goods, materials, vehicles, plant or apparatus,
+
+- [^F239]...
+
+- “financial year” means a period of 12 months ending with 31st March in any year,
+
+- “functions” includes powers and duties,
+
+- “goods” include accommodation,
+
+- “the health service” means the health service continued under section 1(1) and under section 1(1) of the National Health Service Act 2006 (c. 41),
+
+- “health service hospital” means a hospital vested in the Welsh Ministers for the purposes of their functions under this Act or vested in an NHS trust,
+
+- “hospital” means—
+
+  - (a) any institution for the reception and treatment of persons suffering from illness,
+  - (b) any maternity home, and
+  - (c) any institution for the reception and treatment of persons during convalescence or persons requiring medical rehabilitation,
+
+  and includes clinics, dispensaries and out-patient departments maintained in connection with any such home or institution, and “hospital accommodation” must be construed accordingly,
+
+- “illness” includes [[^F240]any disorder or disability of the mind] and any injury or disability requiring medical or dental treatment or nursing,
+
+- [[^F241]“integrated care board” means a body established under section 14Z25 of the National Health Service Act 2006,]
+
+- “local authority” means a county council, a county borough council, a district council, a London borough council, and the Common Council of the City of London,
+
+- [^F242]...
+
+- “local pharmaceutical services” means such services as are prescribed under section 92(7) or paragraph 1(7) of Schedule 7,
+
+- “local social services authority” means the council of a non-metropolitan county, of a county borough or of a metropolitan district or London borough, or the Common Council of the City of London,
+
+- “medical” includes surgical,
+
+- “medical practitioner” means a registered medical practitioner within the meaning of Schedule 1 to the Interpretation Act 1978 (c. 30),
+
+- “medicine” includes such chemical re-agents as are included in a list approved by the Welsh Ministers for the purposes of section 80,
+
+- “modifications” includes additions, omissions and amendments,
+
+- [[^F243]“NHS body” means—
+
+  - (a) a Special Health Authority,
+  - (b) an NHS trust,
+  - (c) an NHS foundation trust,
+  - (d) a Local Health Board,
+  - (e) [[^F244]NHS England], and
+  - (f) [[^F245]an integrated care board.]]
+
+- “NHS trust” includes an NHS trust established under the National Health Service Act 2006 [^F246]...,
+
+- “officer” includes servant,
+
+- “optometrist” means a person registered in the register of optometrists maintained under section 7 of the Opticians Act 1989 (c. 44) [^F247]... or a body corporate registered in the register of bodies corporate maintained under section 9 of that Act carrying on business as an optometrist,
+
+- “patient” includes a woman who is pregnant or breast-feeding or who has recently given birth,
+
+- “prescribed” means prescribed by regulations made by the Welsh Ministers,
+
+- [^F248]...
+
+- “property” includes rights,
+
+- [[^F249]“registered pharmacist” means a person registered as a pharmacist in Part 1 or 4 of the register maintained under article 19 of the Pharmacy Order 2010,]
+
+- [^F250]...
+
+- “regulations” means regulations made by the Welsh Ministers,
+
+- “Special Health Authority” includes a Special Health Authority established under the National Health Service Act 2006 (c. 41),
+
+- [^F251]...
+
+- “university” includes a university college,
+
+- “voluntary organisation” means a body the activities of which are carried on otherwise than for profit, but does not include any public or local authority.
+
+(2) In this Act (except where the context otherwise requires) any reference to a body established under this Act or the National Health Service Act 2006 (c. 00) includes a reference to a body continued in existence by virtue of this Act or that Act.
+
+(3) Any reference in this Act to the purposes of a hospital is a reference to its general purposes and to any specific purpose.
+
+### 207 Index of defined expressions
+
+In this Act the following expressions are defined or otherwise explained by the provisions indicated—
+
+|  |  |
+|---|---|
+| body established under this Act | section 206(2) |
+| commissioner, in relation to an NHS contract | section 7(1) |
+| contractor, in relation to a general dental services contract | section 57(4) |
+| contractor, in relation to a general medical services contract | section 42(5) |
+| [[^F252]direct payment service provider | section 187(3)] |
+| fraud case | section 107(3) |
+| general dental services contract | section 57(2) |
+| general medical services contract | section 42(2) |
+| general ophthalmic services | section 71(10) |
+| NHS body | section 22(6) |
+| LPS scheme | paragraph 1(2) of Schedule 7 |
+| NHS contract | section 7(1) |
+| NHS trust order | section 18(2) |
+| [[^F253]nurse staffing level | section 25B(1)(a)] |
+| ophthalmic list | section 72(7) |
+| optical appliances | section 128(5) |
+| pharmaceutical list | section 83(11) |
+| pharmaceutical services | section 80(8) |
+| pilot scheme | section 92(2) |
+| practitioner | section 107(9) |
+| primary dental services | section 56 |
+| primary medical services | section 41 |
+| purposes of a hospital | section 206(3) |
+| provider, in relation to an NHS contract | section 7(1) |
+| relevant dental service | section 125(4) |
+| section 50 arrangements | section 50(7) |
+| section 64 arrangements | section 64(7) |
+| special trustees | section 160(1) |
+| supplementary list | section 105(2) |
+| terms of service | section 104(7) |
+| unsuitability case | section 107(4) |
+
+### 208 Commencement
+
+(1) Subject to this section, this Act comes into force on 1st March 2007.
+
+(2) In this section—
+
+(a) “the 1977 Act” means the National Health Service Act 1977 (c. 49), and
+
+(b) “the 2006 Act” means the Health Act 2006 (c. 28).
+
+(3) Subsection (4) applies to—
+
+(a) subsections (1) and (2) of section 40 of the Health and Social Care Act 2001 (c. 15) and section 28J of, and Schedule 8A to, the 1977 Act as inserted by those subsections (see section 102 of, and Schedule 7 to, this Act),
+
+(b) subsection (7) of section 45 of the Nationality, Immigration and Asylum Act 2002 (c. 41) and paragraph 2(2B) of Schedule 8 to the 1977 Act as substituted by that subsection (see paragraph 2(7) of Schedule 15 to this Act),
+
+(c) paragraph 3 of the Schedule to the Smoking, Health and Social Care (Scotland) Act 2005 (Consequential Modifications) (England, Wales and Northern Ireland) Order 2006 (S.I. 2006/1056) and section 41B(2) and (6)(b) of the 1977 Act as amended by that paragraph (see section 82 of this Act),
+
+(d) sub-paragraphs (a) and (b) of paragraph 5 of that Schedule and section 4A(1) and (3) of the National Health Service and Community Care Act 1990 (c. 19) as amended by those sub-paragraphs (see section 9 of this Act),
+
+(e) sub-paragraph (c) of paragraph 5 of that Schedule and section 4A(4) of the National Health Service and Community Care Act 1990 (c. 19) as added by that sub-paragraph (see section 9 of this Act),
+
+(f) section 34 of the 2006 Act, and section 42B of the 1977 Act as inserted by that section (see section 85 of this Act),
+
+(g) section 35 of the 2006 Act, and subsections (2B) and (2C) of section 42 of the 1977 Act as inserted by that section (see section 83 of this Act),
+
+(h) subsection (1) of section 36 of the 2006 Act, and section 43(2) of the 1977 Act as substituted by that subsection (see section 86 of this Act),
+
+(i) subsection (2) of section 42 of the 2006 Act, and paragraph 2A(1)(b) of Schedule 12 to the 1977 Act as substituted by that subsection (see section 129 of this Act),
+
+(j) sections 44 to 55 of the 2006 Act, and sections 76 to 78 of that Act so far as relating to those sections (see Part 10 of this Act),
+
+(k) section 56 of, and paragraph 24(a) of Schedule 8 to, that Act and—
+
+(i) section 98 of the 1977 Act as substituted by section 56 of that Act, and
+
+(ii) Schedule 12B to the 1977 Act as inserted by that section,
+
+(see section 178 of, and Schedule 9 to, this Act),
+
+(l) paragraphs 7(2) and (3), 29 and 46 of Schedule 8 to, the 2006 Act (which relate to primary ophthalmic services) and—
+
+(i) the 1977 Act,
+
+(ii) section 4A of the National Health Service and Community Care Act 1990, and
+
+(iii) Schedule 1 to the Health and Social Care Act 2001 (c. 15),
+
+to the extent that a provision mentioned in any of sub-paragraphs (i) to (iii), as amended by any of those provisions of the 2006 Act, relates to primary ophthalmic services,
+
+(m) paragraphs 10, 12(b), 13(3) and (4), 14, 18, 19, 21(a) and 24(b) of Schedule 8 to the 2006 Act (which relate to the substitution of “optometrist” for “ophthalmic optician”) and any provision of the 1977 Act as amended by such a provision.
+
+(4) To the extent that—
+
+(a) this Act re-enacts a provision to which this subsection applies, and
+
+(b) the provision has not come into force before the commencement of this Act,
+
+the re-enactment by this Act of the provision does not come into force until the provision which is re-enacted comes into force; and the re-enactment comes into force immediately after, and to the extent that, the provision which is re-enacted comes into force.
+
+(5) Accordingly, the re-enactment by this Act of the provision does not affect any power to bring the provision into force.
+
+### 209 Short title, extent and application
+
+(1) This Act may be cited as the National Health Service (Wales) Act 2006.
+
+(2) This Act extends to England and Wales only.
+
+(3) The Secretary of State may by order provide that this Act, in its application to the Isles of Scilly, has effect with such modifications as may be specified in the order.
+
+(4) An order under subsection (3) has effect as if made under the National Health Service Act 2006 (c. 41) (and accordingly, sections 272 and 273 of that Act apply to any such order).
+
+## SCHEDULE 1 — Further provision about the Welsh Ministers and services under this Act
+
+*Section 5*
+
+### Medical inspection of pupils
+
+**1** The Welsh Ministers must provide for the medical inspection at appropriate intervals of pupils in attendance at schools maintained by [[^F254]local authorities] and for the medical treatment of such pupils.
+
+**2** (1) The Welsh Ministers may, by arrangement with any [[^F255]local authority], provide for any medical inspection or treatment of—
+
+(a) senior pupils in attendance at any educational establishment, other than a school, which is maintained by the authority and at which full-time further education is provided, or
+
+(b) any child or young person who, in pursuance of section 19 [[^F256]or 19A] [^F257]or 319 of the Education Act 1996 (c. 56), [[^F258]section 53 of the Additional Learning Needs and Education Tribunal (Wales) Act 2018 or section 61 of the Children and Families Act 2014 (c. 6)] is receiving primary or secondary education otherwise than at a school.
+
+(2) The Welsh Ministers may, by arrangement with the proprietor of any educational establishment which is not maintained by a [[^F255]local authority], provide for any medical inspection or treatment of junior or senior pupils in attendance at the establishment.
+
+(3) Sub-paragraphs (1) and (2) do not affect the Welsh Ministers' powers apart from those sub-paragraphs.
+
+**3** An arrangement under paragraph [[^F259]2(2)] may provide for payments by the proprietor in question.
+
+**4** A [[^F260]local authority] may not make an arrangement under paragraph 2(1)(a) unless the governing body of the educational establishment agrees to the arrangement.
+
+**5** (1) Sub-paragraph (2) applies to—
+
+(a) each [[^F261]local authority], in respect of the schools which it maintains (other than foundation [[^F262]or voluntary] schools), and
+
+(b) each governing body of a foundation [[^F263]or voluntary] school, in respect of the school.
+
+(2) The [[^F261]local authority] or governing body must make available to the Welsh Ministers such accommodation as is appropriate for the purpose of assisting them to make provision under paragraph 1 in relation to the pupils in attendance at the schools or school in question.
+
+**6** In paragraphs 1 to 5 any expression to which a meaning is given for the purposes of the Education Act 1996 (c. 56) or the School Standards and Framework Act 1998 (c. 31) has that meaning.
+
+**7** Any charge made under regulations under this Act in respect of the supply of drugs, medicines or appliances must be disregarded for the purposes of paragraphs 1 and 2.
+
+### [[^F264]Weighing and measuring of children
+
+**7A** (1) The Welsh Ministers may, by arrangement with any local education authority, provide for the weighing and measuring of junior pupils in attendance at any school which is maintained by the authority.
+
+(2) The Welsh Ministers may, by arrangement with the proprietor of any school which is not maintained by a local education authority, provide for the weighing and measuring of junior pupils in attendance at that school.
+
+(3) The Welsh Ministers may, by arrangement with any person who is registered under [[^F265]Part 2 of the Children and Families (Wales) Measure 2010] (child minding and day care for children in Wales) in respect of child minding or the provision of day care, provide for the weighing and measuring of children looked after by that person.
+
+(4) In sub-paragraphs (1) and (2) any expression to which a meaning is given for the purposes of the Education Act 1996 or the School Standards and Framework Act 1998 has the same meaning as in that Act; and in sub-paragraph (3) any expression to which a meaning is given for the purposes of [[^F266]Part 2 of the Children and Families (Wales) Measure 2010] has the same meaning as in that Part.
+
+**7B** (1) The Welsh Ministers may by regulations—
+
+(a) authorise the disclosure by any person with whom arrangements under paragraph 7A are made, to any person carrying out the weighing or measuring, of prescribed information relating to the children concerned,
+
+(b) require any weighing and measuring provided for by the Welsh Ministers under paragraph 7A to be carried out in a prescribed manner and after compliance with any prescribed requirements,
+
+(c) make provision authorising any resulting information relating to a child, together with any advisory material authorised by or under the regulations, to be communicated in a prescribed manner to a person who is, or is treated by the regulations as being, a parent of the child, and
+
+(d) make other provision regulating the processing of information resulting from any weighing or measuring provided for by the Welsh Ministers under paragraph 7A.
+
+(2) Regulations made under sub-paragraph (1) may require any person exercising functions in relation to any weighing or measuring to which the regulations apply or in relation to information resulting from such weighing or measuring to have regard to any guidance given from time to time by the Welsh Ministers.
+
+(3) In sub-paragraph (1)(d), “ processing ”, in relation to information, [[^F267]has the same meaning as in Parts 5 to 7 of the Data Protection Act 2018 (see section 3(4) and (14) of that Act)].
+
+(4) Regulations under this paragraph cannot include provision by virtue of section 203(10)(a) amending or repealing an Act.]
+
+### Contraceptive services
+
+**8** The Welsh Ministers must arrange, to such extent as they consider necessary to meet all reasonable requirements, for—
+
+(a) the giving of advice on contraception,
+
+(b) the medical examination of persons seeking advice on contraception,
+
+(c) the treatment of such persons, and
+
+(d) the supply of contraceptive substances and appliances.
+
+### Provision of vehicles for disabled persons
+
+**9** The Welsh Ministers may provide vehicles (including wheelchairs) for persons appearing to them to be persons who have a physical impairment which has a substantial and long-term adverse effect on their ability to carry out normal day-to-day activities.
+
+**10** (1) Sub-paragraphs (2) and (3) apply in respect of—
+
+(a) a vehicle provided under paragraph 9, and
+
+(b) a vehicle belonging to a person mentioned in that paragraph.
+
+(2) The Welsh Ministers may—
+
+(a) adapt the vehicle to make it suitable for the circumstances of the person in question,
+
+(b) maintain and repair the vehicle,
+
+(c) take out insurance policies relating to the vehicle and pay any duty with which the vehicle is chargeable under the Vehicle Excise and Registration Act 1994 (c. 22),
+
+(d) provide a structure in which the vehicle may be kept, and provide all material and execute all works necessary to erect the structure.
+
+(3) The Welsh Ministers may make payments by way of grant towards costs incurred by a person mentioned in paragraph 9 in respect of any matter mentioned in sub-paragraph (4) in relation to the vehicle.
+
+(4) The matters are—
+
+(a) the taking of action referred to in sub-paragraph (2),
+
+(b) the purchase of fuel for the purposes of the vehicle, so far as the cost of the purchase is attributable to duties of excise payable in respect of the fuel, and
+
+(c) the taking of instruction in the driving of the vehicle.
+
+(5) The powers under sub-paragraph (2) and sub-paragraph (3) may be exercised on such terms and subject to such conditions as the Welsh Ministers may determine.
+
+**11** Regulations may provide for any incidental or supplementary matter for which it appears to the Welsh Ministers necessary or expedient to provide in connection with—
+
+(a) the taking of action under paragraph 10(2), or
+
+(b) the making of any payment under paragraph 10(3).
+
+### Provision of a microbiological service by the Welsh Ministers
+
+**12** (1) The Welsh Ministers may—
+
+(a) provide a microbiological service for the control of the spread of infectious diseases, and
+
+(b) carry on such other activities as in their opinion can conveniently be carried on in conjunction with that service.
+
+(2) The service may include the provision of laboratories.
+
+(3) Charges may be made for services or materials supplied.
+
+(4) A power under this paragraph may be exercised both for the purposes of the health service and for other purposes.
+
+### Powers of the Welsh Ministers in relation to research
+
+**13** (1) The Welsh Ministers may conduct research, or may assist any person to conduct research, into—
+
+(a) any matters relating to the causation, prevention, diagnosis or treatment of illness, and
+
+(b) any such other matters connected with any service provided under this Act as the Welsh Ministers consider appropriate.
+
+(2) Assistance may be given by grants or otherwise.
+
+## SCHEDULE 2 — Local Health Boards
+
+*Section 11*
+
+### Part 1 — Constitution and membership
+
+#### Status
+
+**1** Each Local Health Board is a body corporate.
+
+**2** (1) A Local Health Board must not be regarded as the servant or agent of the Crown or as enjoying any status, immunity or privilege of the Crown.
+
+(2) A Local Health Board's property must not be regarded as property of, or property held on behalf of, the Crown.
+
+#### Membership
+
+**3** The members of a Local Health Board are—
+
+(a) a chairman appointed by the Welsh Ministers,
+
+(b) if the Welsh Ministers consider it appropriate, a vice-chairman appointed by them,
+
+(c) officers of the Local Health Board, and
+
+(d) a number of persons who are not officers of the Local Health Board.
+
+**4** (1) Regulations may make provision about—
+
+(a) the appointment of the chairman, vice-chairman and other members of a Local Health Board (including any conditions to be fulfilled for appointment),
+
+(b) the tenure of office of the chairman, vice-chairman and other members of a Local Health Board (including the circumstances in which they cease to hold office or may be removed or suspended from office),
+
+(c) how many persons may be appointed as members of a Local Health Board and how many of those members may be officers (a minimum and maximum number may be specified for both purposes),
+
+(d) the appointment and constitution of any committees of a Local Health Board (which may include or consist of persons who are not members of the Local Health Board),
+
+(e) the appointment and tenure of office of the members of any committees of a Local Health Board,
+
+(f) the procedure to be followed by a Local Health Board, and by any committee of the Board, in the exercise of its functions,
+
+(g) the circumstances in which a person who is not an officer of the Local Health Board must be treated as if he were such an officer.
+
+(2) The power to make provision under paragraphs (c) and (f) of sub-paragraph (1) includes power to make regulations about the number of persons who may be appointed and the procedure to be followed during the preparatory period.
+
+(3) Any regulations under this paragraph may, in particular, make provision to deal with cases where the post of any officer of a Local Health Board is held jointly by two or more persons or where the functions of such an officer are in any other way performed by more than one person.
+
+**5** Any reference in this Schedule to a committee of a Local Health Board includes a reference to sub-committees of, and joint committees and joint sub-committees including, the Local Health Board.
+
+**6** The validity of any proceedings of a Local Health Board, or of any of its committees, is not affected by any vacancy among the members or by any defect in the appointment of any member.
+
+#### Staff
+
+**7** (1) A Local Health Board may employ such officers as it considers appropriate.
+
+(2) A Local Health Board may—
+
+(a) pay its officers such remuneration and allowances, and
+
+(b) employ them on such other terms and conditions,
+
+as it considers appropriate.
+
+(3) A Local Health Board must—
+
+(a) in exercising its powers under sub-paragraph (2), and
+
+(b) otherwise in connection with the employment of its officers,
+
+act in accordance with regulations, and any directions given by the Welsh Ministers.
+
+(4) Before making any regulations under sub-paragraph (3), the Welsh Ministers must consult such bodies as they may recognise as representing persons who, in their opinion, are likely to be affected by the regulations.
+
+**8** (1) The Welsh Ministers may direct a Local Health Board—
+
+(a) to make the services of any of its officers available to another Local Health Board, or
+
+(b) to employ any person who is or was employed by another Local Health Board and is specified in the direction.
+
+(2) Sub-paragraph (1) does not affect the generality of section 12.
+
+(3) Before they give a direction under sub-paragraph (1) the Welsh Ministers must—
+
+(a) consult the person whose services will be made available or who will be employed,
+
+(b) satisfy themselves that the Local Health Board has consulted that person, or
+
+(c) consult any such body as the Welsh Ministers may recognise as representing that person.
+
+(4) Sub-paragraph (2) does not apply in relation to a direction under sub-paragraph (1)(a) if the Welsh Ministers—
+
+(a) consider it necessary to give the direction for the purpose of dealing temporarily with an emergency, and
+
+(b) have previously consulted bodies recognised by the Welsh Ministers as representing the person whose services are to be made available about the giving of directions for that purpose.
+
+**9** In addition to making provision in relation to [^F268]... Special Health Authorities, regulations [^F269]... under paragraph 3(8) of Schedule 6 to [[^F270]the National Health Service Act 2006] may also provide—
+
+(a) for the transfer of officers of one Local Health Board to another, and
+
+(b) for arrangements under which the officers of a Local Health Board are placed at the disposal of another Local Health Board or a local authority.
+
+#### Remuneration, pensions etc of members
+
+**10** (1) A Local Health Board may pay the chairman, the vice-chairman (if any) and any other members of the Board such remuneration and such travelling and other allowances as may be determined by the Welsh Ministers.
+
+(2) A Local Health Board may pay the chairman or any person who has been chairman of the Board such pension, allowance or gratuity as may be determined by the Welsh Ministers.
+
+(3) A Local Health Board may pay the members of any committee of a Board such travelling and other allowances as may be determined by the Welsh Ministers.
+
+(4) If, when a person ceases to be chairman of a Local Health Board, the Welsh Ministers determine that there are special circumstances which make it right that that person should receive compensation, the Board must pay to him a sum by way of compensation of such amount as the Welsh Ministers may determine.
+
+### Part 2 — LHB orders
+
+**11** (1) An LHB order must specify—
+
+(a) the name of the Local Health Board, and
+
+(b) the operational date of the Local Health Board.
+
+(2) The operational date of a Local Health Board is the date on which functions exercisable by it may be undertaken fully by the Board.
+
+**12** (1) An LHB order may provide for the establishment of a Local Health Board with effect from a date earlier than the operational date.
+
+(2) During the period beginning with that earlier date and ending with the day immediately preceding the operational date (referred to in this Schedule as the preparatory period), the exercise of any functions by the Board must be limited to such exercise as may be specified in the LHB order for the purpose of enabling it to begin to operate satisfactorily with effect from the operational date.
+
+### Part 3 — Other Matters
+
+#### General power
+
+**13** (1) Subject to sub-paragraph (3), a Local Health Board may do anything which appears to it to be necessary or expedient for the purposes of or in connection with its functions.
+
+(2) In particular it may—
+
+(a) acquire and dispose of property,
+
+(b) enter into contracts,
+
+(c) accept gifts of property (including property to be held on trust, either for the general or any specific purposes of the Local Health Board or for any purposes relating to the health service).
+
+(3) A Local Health Board may not do anything mentioned in sub-paragraph (2) without the consent of the Welsh Ministers (which may be given in general terms covering one or more descriptions of case).
+
+#### Rights and liabilities
+
+**14** (1) Any rights acquired, or liabilities (including liabilities in tort) incurred, in respect of the exercise by a Local Health Board of any function exercisable by it by virtue of section 12 or 13 are enforceable by or against that Local Health Board (and not against any other body or the Welsh Ministers).
+
+(2) This paragraph does not apply in relation to the joint exercise of any functions by a Local Health Board with another body under section 13(2)(c).
+
+#### Making accommodation or services available
+
+**15** (1) A Local Health Board may—
+
+(a) make available at a hospital for which it has responsibility accommodation or services for patients who give undertakings (or for whom undertakings are given) to pay any charges imposed by the Local Health Board in respect of the accommodation or services, and
+
+(b) make and recover charges in respect of such accommodation or services and calculate them on any basis that it considers to be the appropriate commercial basis.
+
+(2) A Local Health Board may exercise the power conferred by sub-paragraph (1) only if it is satisfied that its exercise—
+
+(a) does not to any significant extent interfere with the performance by the Local Health Board of any function conferred on it under this Act to provide accommodation or services of any kind, and
+
+(b) does not to a significant extent operate to the disadvantage of persons seeking or afforded admission or access to accommodation or services at health service hospitals (whether as resident or non-resident patients) otherwise than under this section.
+
+(3) Before a Local Health Board decides to make accommodation or services available under sub-paragraph (1), it must consult organisations representative of the interests of persons likely to be affected by the decision.
+
+(4) A Local Health Board may allow accommodation or services which are made available under sub-paragraph (1) to be so made available in connection with treatment in pursuance of arrangements—
+
+(a) made by a medical practitioner or dental practitioner serving (whether in an honorary or paid capacity) on the staff of a health service hospital,
+
+(b) for the treatment of private patients of that practitioner.
+
+(5) References in this paragraph to a health service hospital include references to such a hospital within the meaning of section 275 of the National Health Service Act 2006 (c. 41), but do not include references to a hospital vested in an NHS trust or an NHS foundation trust.
+
+#### Powers of Local Health Boards to enter into externally financed development agreements
+
+**16** (1) The powers of a Local Health Board include power to enter into externally financed development agreements.
+
+(2) For the purposes of this paragraph, an agreement is an externally financed development agreement if it is certified as such in writing by the Welsh Ministers.
+
+(3) The Welsh Ministers may give a certificate under this paragraph if—
+
+(a) in their opinion the purpose or main purpose of the agreement is the provision of facilities or services in connection with the discharge by the Local Health Board of any of its functions, and
+
+(b) a person proposes to make a loan to, or provide any other form of finance for, another party in connection with the agreement.
+
+(4) If a Local Health Board enters into an externally financed development agreement it may also, in connection with that agreement, enter into an agreement with a person who falls within sub-paragraph (3)(b) in relation to the externally financed development agreement.
+
+(5) “Another party” means any party to the agreement other than the Local Health Board.
+
+(6) The fact that an agreement made by a Local Health Board has not been certified under this paragraph does not affect its validity.
+
+#### Research
+
+**17** (1) A Local Health Board may conduct, commission or assist the conduct of research.
+
+(2) A Local Health Board may, in particular, make officers available or provide facilities under sub-paragraph (1).
+
+#### Training
+
+**18** A Local Health Board may—
+
+(a) make officers available in connection with any instruction provided under section 63 of the Health Services and Public Health Act 1968 (c. 46),
+
+(b) make officers and facilities available in connection with training by a university or any other body providing training in connection with the health service.
+
+#### Regulations about duties
+
+**19** Regulations may make provision in relation to—
+
+(a) reports to be prepared by Local Health Boards,
+
+(b) information to be supplied by them,
+
+(c) their accounts, and the audit and publication of their accounts,
+
+(d) the publication of any other document.
+
+#### Compulsory acquisition
+
+**20** (1) A Local Health Board may be authorised to purchase land compulsorily for the purposes of its functions by means of an order made by the Local Health Board and confirmed by the Welsh Ministers.
+
+(2) The Acquisition of Land Act 1981 (c. 67) applies to the compulsory purchase of land under this paragraph.
+
+(3) No order may be made by a Local Health Board under Part 2 of the Acquisition of Land Act 1981 in respect of any land unless the proposal to acquire the land compulsorily—
+
+(a) has been submitted to the Welsh Ministers in the form, and with the information, required by them, and
+
+(b) has been approved by the Welsh Ministers.
+
+#### Dissolution
+
+**21** (1) The Welsh Ministers may, if a Local Health Board is dissolved, by order transfer (or provide for the transfer) to themselves or to another Local Health Board any property or liabilities of the dissolved Board.
+
+(2) The liabilities which may be transferred by virtue of sub-paragraph (1) to another Local Health Board include criminal liabilities.
+
+(3) If any consultation requirements apply, they must be complied with before the order is made.
+
+(4) “Consultation requirements” means requirements about consultation contained in regulations.
+
+#### Transfer of property
+
+**22** (1) The Welsh Ministers may by order (referred to in this paragraph and paragraph 23 as a transfer order)—
+
+(a) transfer (or provide for the transfer of) any of the property and liabilities of a health service authority to a Local Health Board,
+
+(b) create or impose (or provide for the creation or imposition of) new rights or liabilities in respect of property transferred or retained.
+
+(2) Any property and liabilities which—
+
+(a) belong to a health service authority other than the Welsh Ministers or are used or managed by a Local Health Board, and
+
+(b) will be transferred to a Local Health Board by or under a transfer order,
+
+must be identified by agreement between the health service authority and the Local Health Board or, in default of agreement, by direction of the Welsh Ministers.
+
+(3) Where a transfer order transfers (or provides for the transfer of)—
+
+(a) land held on lease from a third party, or
+
+(b) any other asset leased or hired from a third party or in which a third party has an interest,
+
+the transfer is binding on the third party despite the fact that, apart from this sub-paragraph, the transfer would have required the third party's consent or concurrence.
+
+(4) “Third party” means a person other than a health service authority.
+
+(5) In this paragraph and paragraph 23, “health service authority” means the Welsh Ministers, a Local Health Board or an NHS trust in Wales.
+
+**23** (1) Stamp duty is not chargeable in respect of any transfer to a Local Health Board effected by or under a transfer order.
+
+(2) Where it becomes necessary, for the purpose of a transfer by or under a transfer order, to apportion any property or liabilities, the order may contain such provisions as appear to the Welsh Ministers to be appropriate for the purpose.
+
+(3) Where a transfer order transfers (or provides for the transfer of) any property or rights to which paragraph 22(3) applies, the order must contain such provisions as appear to the Welsh Ministers to be appropriate to safeguard the interests of third parties (within the meaning of that sub-paragraph), including, where appropriate, provision for the payment of compensation of an amount to be determined in accordance with the order.
+
+(4) A certificate issued by the Welsh Ministers that—
+
+(a) any specified property,
+
+(b) any specified interest in or right over any property, or
+
+(c) any specified right or liability,
+
+has been vested in a Local Health Board by or under a transfer order is conclusive evidence of that fact for all purposes.
+
+(5) “Specified” means specified in the certificate.
+
+(6) A transfer order may include provision for matters to be settled by arbitration by a person determined in accordance with the order.
+
+(7) Paragraph 22 and this paragraph do not affect—
+
+(a) any existing power of a health service authority to transfer property or liabilities to a Local Health Board,
+
+(b) the extent of the power conferred by section 203(10).
+
+#### Transfer of staff
+
+**24** (1) The Welsh Ministers may by order transfer to a Local Health Board any specified description of employees to which this paragraph applies.
+
+(2) This paragraph applies to employees of—
+
+(a) an NHS trust in Wales,
+
+(b) a Local Health Board.
+
+(3) An order may be made under this paragraph only if any prescribed requirements about consultation have been complied with in relation to each of the employees to be transferred.
+
+**25** (1) The contract of employment of an employee transferred under paragraph 24—
+
+(a) is not terminated by the transfer, and
+
+(b) has effect from the date of the transfer as if originally made between the employee and the Local Health Board to which he is transferred.
+
+(2) In particular—
+
+(a) all the rights, powers, duties and liabilities of the body from which an employee is transferred under paragraph 24 under or in connection with his contract of employment are by virtue of this sub-paragraph transferred to the Local Health Board to which the employee is transferred under that paragraph, and
+
+(b) anything done before the date of the transfer by or in relation to the body from which he is so transferred in respect of the employee or the contract of employment is deemed from that date to have been done by or in relation to the Local Health Board to which he is transferred.
+
+(3) Sub-paragraphs (1) and (2) do not transfer an employee's contract of employment, or the rights, powers, duties and liabilities under or in connection with it, if he informs the body from which they would be transferred, or the Local Health Board to which they would be transferred, that he objects to the transfer.
+
+(4) Where an employee objects as mentioned in sub-paragraph (3) his contract of employment with the body from which he would be transferred is terminated immediately before the date on which the transfer would occur; but he must not be treated, for any purpose, as having been dismissed by that body.
+
+(5) This paragraph does not affect any right of an employee to which paragraph 24 applies to terminate his contract of employment if a substantial change is made to his detriment in his working conditions.
+
+(6) But no such right arises by reason only that under this paragraph the identity of his employer changes, unless the employee shows that, in all the circumstances, the change is a significant change and is to his detriment.
+
+**26** (1) Where an employee will be transferred by an order under paragraph 24 but will continue to be employed for certain purposes by the transferor, the order may provide that the contract of employment of the employee is, on the date on which the employee is transferred, divided so as to constitute two separate contracts of employment between the employee and the transferor and the employee and the Local Health Board in question.
+
+(2) Where an employee's contract of employment is divided as provided under sub-paragraph (1), the order must provide for paragraph 25 to have effect in the case of the employee and his contract of employment subject to appropriate modifications.
+
+**27** Where a Local Health Board is dissolved, an order under paragraph 21 includes power to transfer employees of the Local Health Board and the order may make any provision in relation to the transfer of those employees which is or may be made in relation to the transfer of employees under paragraph 24.
+
+#### Interpretation
+
+**28** In this Schedule, “NHS trust in Wales” means an NHS trust all or most of whose hospitals, establishments and facilities are situated in Wales.
+
+## SCHEDULE 3 — NHS trusts established under section 18
+
+*Section 18*
+
+### Part 1 — Constitution, establishment, etc
+
+#### Status
+
+**1** Each NHS trust is a body corporate.
+
+**2** (1) An NHS trust must not be regarded as the servant or agent of the Crown or as enjoying any status, immunity or privilege of the Crown.
+
+(2) An NHS trust's property must not be regarded as property of, or property held on behalf of, the Crown.
+
+#### Board of directors
+
+**3** (1) Each NHS trust has a board of directors consisting of—
+
+(a) a chairman appointed by the Welsh Ministers, [^F271]...
+
+[[^F272](aa) if the Welsh Ministers consider it appropriate, a vice-chair appointed by them, and]
+
+(b) executive and non-executive directors.
+
+(2) Sub-paragraph (1)(b) is subject to paragraph 7(2).
+
+(3) An executive director is a director who is an employee of the NHS trust, and a non-executive director is a director who is not an employee of the NHS trust.
+
+(4) Sub-paragraph (3) is subject to any provision made by regulations under paragraph 4(1)(d).
+
+#### Regulations
+
+**4** (1) The Welsh Ministers may by regulations make provision with respect to—
+
+(a) the qualifications for and the tenure of office of the chairman [[^F273], the vice-chair] and directors of an NHS trust (including the circumstances in which they cease to hold, or may be removed from, office or may be suspended from performing the functions of the office),
+
+(b) the persons by whom the directors and any of the officers must be appointed and the manner of their appointment,
+
+(c) the maximum and minimum numbers of the directors,
+
+(d) the circumstances in which a person who is not an employee of the NHS trust is nevertheless, on appointment as a director, to be regarded as an executive rather than a non-executive director,
+
+(e) the proceedings of the NHS trust (including the validation of proceedings in the event of a vacancy or defect in appointment), and
+
+(f) the appointment, constitution and exercise of functions by committees and sub-committees of the NHS trust (whether or not consisting of or including any members of the board).
+
+(2) Regulations under sub-paragraph (1) may, in particular, make provision to deal with cases where the post of any officer of an NHS trust is held jointly by two or more persons or where the functions of such an officer are in any other way performed by more than one person.
+
+#### Provision to be made by first NHS trust order
+
+**5** (1) The first NHS trust order made in relation to any NHS trust must specify—
+
+(a) the name of the NHS trust,
+
+(b) the functions of the NHS trust,
+
+(c) the number of executive directors and non-executive directors,
+
+(d) where the NHS trust has a significant teaching commitment, a provision to secure the inclusion in the non-executive directors referred to in paragraph (c) of a person appointed from a university with a medical or dental school specified in the order,
+
+(e) the operational date of the NHS trust, and
+
+(f) if a scheme is to be made under paragraph 8, the [^F274]... Special Health Authority or Local Health Board which is to make the scheme.
+
+(2) The functions which may be specified in an NHS trust order include a duty to provide goods or services so specified at or from a hospital or other establishment or facility so specified.
+
+(3) For the purposes of sub-paragraph (1)(d), an NHS trust has a significant teaching commitment in the following cases—
+
+(a) if the NHS trust is established to provide services at a hospital or other establishment or facility which, in the opinion of the Welsh Ministers, has a significant teaching and research commitment, and
+
+(b) in any other case, if the Welsh Ministers so provide in the order.
+
+(4) In a case where the order contains a provision made by virtue of sub-paragraph (1)(d) and a person who is being considered for appointment by virtue of that provision—
+
+(a) is employed by the university in question, and
+
+(b) would also, apart from this sub-paragraph, be regarded as employed by the NHS trust,
+
+his employment by the NHS trust must be disregarded in determining whether, if appointed, he will be a non-executive director of the NHS trust.
+
+(5) The operational date of the NHS trust is the date on which it will begin to undertake the whole of the functions conferred on it.
+
+(6) An NHS trust order must specify the accounting date of the NHS trust.
+
+#### Temporary availability of staff etc.
+
+**6** (1) An NHS trust order may require a [^F275]... Special Health Authority [^F276]... or Local Health Board to make staff, premises and other facilities available to an NHS trust pending the transfer or appointment of staff to or by the NHS trust and the transfer of premises or other facilities to the NHS trust.
+
+(2) An NHS trust order making provision under this paragraph may make provision with respect to the time when the functions of the [^F275]... Special Health Authority [^F276]... or Local Health Board under the provision are to come to an end.
+
+#### Establishment of NHS trust prior to operational date
+
+**7** (1) An NHS trust order may provide for the establishment of an NHS trust with effect from a date earlier than the operational date of the NHS trust and, during the period between that earlier date and the operational date, the NHS trust has such limited functions for the purpose of enabling it to begin to operate satisfactorily with effect from the operational date as may be specified in the order.
+
+(2) If an NHS trust order makes the provision referred to in sub-paragraph (1), then, at any time during the period referred to in that sub-paragraph, the NHS trust must be regarded as properly constituted (and may carry out its limited functions accordingly) notwithstanding that, at that time, all or any of the executive directors have not yet been appointed.
+
+(3) If an NHS trust order makes the provision referred to in sub-paragraph (1), the order may require a [^F277]..., Special Health Authority or Local Health Board to discharge such liabilities of the NHS trust as—
+
+(a) may be incurred during the period referred to in that sub-paragraph, and
+
+(b) are of a description specified in the order.
+
+#### Transfer of staff to NHS trusts
+
+**8** (1) This paragraph applies to any person who, immediately before an NHS trust's operational date—
+
+(a) is employed by a Special Health Authority[^F278]... or Local Health Board to work solely at, or for the purposes of, a hospital or other establishment or facility which will become the responsibility of the NHS trust, or
+
+(b) is employed by a Special Health Authority[^F278]... or Local Health Board to work at, or for the purposes of, such a hospital, establishment or facility and is designated for the purposes of this paragraph by a scheme made by the Special Health Authority[^F278]... or Local Health Board specified as mentioned in paragraph 5(1)(f).
+
+(2) Sub-paragraph (1) is subject to sub-paragraph (6).
+
+(3) A scheme under this paragraph does not have effect unless approved by the Welsh Ministers.
+
+(4) Subject to sub-paragraphs (9) to (11), the contract of employment between a person to whom this paragraph applies and the Special Health Authority[^F278]... or Local Health Board by whom he is employed has effect from the operational date as if originally made between him and the NHS trust.
+
+(5) In particular—
+
+(a) all the rights, powers, duties and liabilities of the Special Health Authority[^F278]... or Local Health Board under or in connection with a contract to which sub-paragraph (4) applies are by virtue of this paragraph transferred to the NHS trust on its operational date, and
+
+(b) anything done before that date by or in relation to the Special Health Authority[^F278]... or Local Health Board in respect of that contract or the employee is deemed from that date to have been done by or in relation to the NHS trust.
+
+(6) In any case where—
+
+(a) an NHS trust order provides for the establishment of an NHS trust with effect from a date earlier than the operational date of the NHS trust,
+
+(b) on or after that earlier date but before its operational date the NHS trust makes an offer of employment by the NHS trust to a person who at that time is employed by a Special Health Authority[^F278]... or Local Health Board to work (whether solely or otherwise) at, or for the purposes of, the hospital or other establishment or facility which will become the responsibility of the NHS trust, and
+
+(c) as a result of the acceptance of the offer, the person to whom it was made becomes an employee of the NHS trust,
+
+sub-paragraphs (4) and (5) have effect in relation to that person's contract of employment as if he were a person to whom this paragraph applies and as if any reference in those sub-paragraphs to the operational date of the NHS trust were a reference to the date on which he takes up employment with the NHS trust.
+
+(7) Sub-paragraphs (4) and (5) do not affect any right of an employee to terminate his contract of employment if a substantial change is made to his detriment in his working conditions; but no such right arises by reason only of the change in employer effected by this paragraph.
+
+(8) A scheme under this paragraph may designate a person either individually or as a member of a class or description of employees.
+
+(9) In the case of a person who falls within sub-paragraph (1)(b), a scheme under this paragraph may provide that, with effect from the NHS trust's operational date, his contract of employment (his “original contract”) must be treated, in accordance with the scheme, as divided so as to constitute—
+
+(a) a contract of employment with the NHS trust, and
+
+(b) a contract of employment with the Special Health Authority[^F278]... or Local Health Board by whom he was employed before that date (the “transferor authority”).
+
+(10) Where a scheme makes provision as mentioned in sub-paragraph (9)—
+
+(a) the scheme must secure that the benefits to the employee under the two contracts referred to in that sub-paragraph, when taken together, are not less favourable than the benefits under his original contract,
+
+(b) this paragraph applies in relation to the contract referred to in sub-paragraph (9)(a) as if it were a contract transferred under this paragraph from the transferor authority to the NHS trust, and
+
+(c) so far as necessary to preserve any rights and obligations, the contract referred to in sub-paragraph (9)(b) must be regarded as a continuation of the employee's original contract.
+
+(11) Where, as a result of the provisions of this paragraph, by virtue of his employment during any period after the operational date of the NHS trust—
+
+(a) an employee has contractual rights against an NHS trust to benefits in the event of his redundancy, and
+
+(b) he also has statutory rights against the trust under Part 11 of the Employment Rights Act 1996 (c. 18) (redundancy payments),
+
+any benefits provided to him by virtue of the contractual rights referred to in paragraph (a) must be taken as satisfying his entitlement to benefits under that Part of that Act.
+
+#### Transfer of property and liabilities to NHS trusts
+
+**9** (1) The Welsh Ministers may by order transfer, or provide for the transfer of, any of the property and liabilities of [^F279]... [^F280]... a Special Health Authority, a Local Health Board, or the Welsh Ministers, to an NHS trust, with effect from any date as may be specified in the order.
+
+(2) An order under this paragraph may create or impose such new rights or liabilities in respect of what is transferred or what is retained as appear to the Welsh Ministers to be necessary or expedient.
+
+(3) Nothing in this paragraph affects the power of the Welsh Ministers or any power of a [^F281]... [^F282]... Special Health Authority or Local Health Board to transfer property or liabilities to an NHS trust otherwise than under sub-paragraph (1).
+
+(4) Stamp duty is not chargeable in respect of any transfer to an NHS trust effected by or by virtue of an order under this paragraph.
+
+(5) Where an order under this paragraph provides for the transfer—
+
+(a) of land held on lease from a third party, or
+
+(b) of any other asset leased or hired from a third party or in which a third party has an interest,
+
+the transfer is binding on the third party notwithstanding that, apart from this sub-paragraph, it would have required his consent or concurrence.
+
+(6) “Third party” means a person other than the Welsh Ministers, [^F283]... [^F284]... a Special Health Authority or a Local Health Board.
+
+(7) Any property and liabilities which—
+
+(a) belong to, or are used or managed by, a [^F285]... Special Health Authority or Local Health Board [^F286]..., and
+
+(b) will be transferred to an NHS trust by or by virtue of an order under this paragraph,
+
+must be identified by agreement between the [^F285]... [^F287]... Special Health Authority or Local Health Board and the NHS trust or, in default of agreement, by direction of the Welsh Ministers.
+
+(8) Where, for the purpose of a transfer pursuant to an order under this paragraph, it becomes necessary to apportion any property or liabilities, the order may contain such provisions as appear to the Welsh Ministers to be appropriate for the purpose.
+
+(9) Where any such property or rights fall within sub-paragraph (5), the order must contain such provisions as appear to the Welsh Ministers to be appropriate to safeguard the interests of third parties, including, where appropriate, provision for the payment of compensation of an amount to be determined in accordance with the order.
+
+(10) In the case of any transfer made by or pursuant to an order under this paragraph, a certificate issued by the Welsh Ministers that any property specified in the certificate or any such interest in or right over any such property as may be so specified, or any right or liability so specified, is vested in the NHS trust specified in the order is conclusive evidence of that fact for all purposes.
+
+(11) An order under this paragraph may include provision for matters to be settled by arbitration by a person determined in accordance with the order.
+
+(12) Sub-paragraph (11) does not affect section 203(10).
+
+#### Trust funds and trustees
+
+**10** (1) The Welsh Ministers may by order provide for the appointment of trustees for an NHS trust to hold property on trust—
+
+(a) for the general or any specific purposes of the NHS trust (including the purposes of any specific hospital or other establishment or facility at or from which services are provided by the NHS trust), or
+
+(b) for any purposes relating to the health service.
+
+(2) An order under sub-paragraph (1) may—
+
+(a) make provision as to the persons by whom trustees must be appointed and generally as to the method of their appointment,
+
+(b) make any appointment subject to such conditions as may be specified in the order (including conditions requiring the consent of the Welsh Ministers),
+
+(c) make provision as to the number of trustees to be appointed, including provision under which that number may from time to time be determined by the Welsh Ministers after consultation with such persons as they consider appropriate, and
+
+(d) make provision with respect to the term of office of any trustee and his removal from office.
+
+(3) Where under sub-paragraph (1) trustees have been appointed for an NHS trust, the Welsh Ministers may by order provide for the transfer of any trust property from the NHS trust to the trustees.
+
+#### Pay and allowances
+
+**11** (1) An NHS trust must pay—
+
+(a) to the chairman [[^F288], the vice-chair (if any)] and any non-executive director of the NHS trust remuneration of an amount determined by the Welsh Ministers,
+
+(b) to the chairman [[^F289], the vice-chair (if any)] and any non-executive director of the NHS trust such travelling and other allowances as may be determined by the Welsh Ministers,
+
+(c) to any member of a committee or sub-committee of the NHS trust who is not also a director such travelling and other allowances as may be determined by the Welsh Ministers.
+
+(2) If an NHS trust so determines in the case of a person who is or has been a chairman of the NHS trust, the NHS trust must pay such pension, allowances or gratuities to or in respect of him as may be determined by the Welsh Ministers.
+
+(3) A determination under sub-paragraph (2), so far as it relates to pensions, may be made only with the approval of the Treasury.
+
+(4) Different determinations may be made under sub-paragraph (1) or sub-paragraph (2) in relation to different cases or descriptions of cases.
+
+#### Reports and other information
+
+**12** (1) For each accounting year an NHS trust must prepare and send to the Welsh Ministers an annual report in such form as may be determined by the Welsh Ministers.
+
+(2) At such time or times as may be prescribed, an NHS trust must hold a public meeting at which must be presented—
+
+(a) its audited accounts and annual report, and
+
+(b) any report on the accounts made pursuant to [^F290]... paragraph 19 of Schedule 8 to the Government of Wales Act 2006 (c. 32).
+
+(3) In such circumstances and at such time or times as may be prescribed, an NHS trust must hold a public meeting at which such documents as may be prescribed must be presented.
+
+**13** An NHS trust must furnish to the Welsh Ministers such reports, returns and other information, including information as to its forward planning, as, and in such form as, they may require.
+
+### Part 2 — Powers and duties
+
+#### General
+
+**14** (1) An NHS trust may do anything which appears to it to be necessary or expedient for the purposes of or in connection with its functions.
+
+(2) In particular it may—
+
+(a) acquire and dispose of property,
+
+(b) enter into contracts, and
+
+(c) accept gifts of property (including property to be held on trust, either for the general or any specific purposes of the NHS trust or for any purposes relating to the health service).
+
+(3) The reference in sub-paragraph (2)(c) to specific purposes of the NHS trust includes a reference to the purposes of a specific hospital or other establishment or facility at or from which services are provided by the NHS trust.
+
+#### NHS contracts
+
+**15** (1) In addition to carrying out its other functions, an NHS trust may, as the provider, enter into NHS contracts.
+
+(2) An NHS trust may not, as the provider, enter into an NHS contract for the provision of high security psychiatric services (within the meaning of section 4) unless the NHS trust is approved for the purpose of this paragraph by the Welsh Ministers.
+
+(3) Such approval—
+
+(a) must be for a period specified in the approval,
+
+(b) may be given subject to conditions, and
+
+(c) may be amended or revoked at any time.
+
+#### Research
+
+**16** An NHS trust may undertake and commission research and make available staff and provide facilities for research by other persons.
+
+#### Training
+
+**17** An NHS trust may—
+
+(a) provide training for persons employed or likely to be employed by the NHS trust or otherwise in the provision of services under this Act, and
+
+(b) make facilities and staff available in connection with training by a university or any other body providing training in connection with the health service.
+
+#### Joint exercise of functions
+
+**18** An NHS trust may enter into arrangements for the carrying out, on such terms as the NHS trust considers appropriate, of any of its functions jointly with any [^F291]... [^F292]... Special Health Authority, Local Health Board or other NHS trust, or any other body or individual.
+
+#### Payment for accommodation or services
+
+**19** (1) According to the nature of its functions, an NHS trust may make accommodation or services available for patients who give undertakings (or for whom undertakings are given) to pay any charges imposed by the NHS trust in respect of the accommodation or services.
+
+(2) An NHS trust may exercise the power conferred by sub-paragraph (1) only—
+
+(a) to the extent that its exercise does not to any significant extent interfere with the performance by the NHS trust of its functions or of its obligations under NHS contracts, and
+
+(b) in circumstances specified in directions under section 19, with the consent of the Welsh Ministers.
+
+#### Additional income
+
+**20** (1) For the purpose of making additional income available in order better to perform its functions, an NHS trust has the powers specified in section 7(2) of the Health and Medicines Act 1988 (c. 49) (extension of powers of Welsh Ministers for financing the health service).
+
+(2) The power conferred by sub-paragraph (1) may be exercised only—
+
+(a) to the extent that its exercise does not to any significant extent interfere with the performance by the NHS trust of its functions or of its obligations under NHS contracts, and
+
+(b) in circumstances specified in directions under section 19, with the consent of the Welsh Ministers.
+
+#### Provision of accommodation and services outside England and Wales
+
+**21** An NHS Trust may arrange for the provision of accommodation and services outside England and Wales.
+
+#### Conferral of further powers by order
+
+**22** The Welsh Ministers may by order confer specific powers on NHS trusts, further to those provided for by paragraphs 15 to 21.
+
+#### Powers of NHS trusts to enter into externally financed development agreements
+
+**23** (1) The powers of an NHS trust include power to enter into externally financed development agreements.
+
+(2) For the purposes of this paragraph, an agreement is an externally financed development agreement if it is certified as such in writing by the Welsh Ministers.
+
+(3) The Welsh Ministers may give a certificate under this paragraph if—
+
+(a) in their opinion the purpose or main purpose of the agreement is the provision of facilities or services in connection with the discharge by the NHS trust of any of its functions, and
+
+(b) a person proposes to make a loan to, or provide any other form of finance for, another party in connection with the agreement.
+
+(4) If an NHS trust enters into an externally financed development agreement it may also, in connection with that agreement, enter into an agreement with a person who falls within sub-paragraph (3)(b) in relation to the externally financed development agreement.
+
+(5) “Another party” means any party to the agreement other than the NHS trust.
+
+(6) The fact that an agreement made by an NHS trust has not been certified under this paragraph does not affect its validity.
+
+#### Agreements under section 50 or 64
+
+**24** An NHS trust may provide services under an agreement made under section 50 (primary medical services) or section 64 (primary dental services) and may do so as a member of a qualifying body (within the meaning given by section 51 or section 65).
+
+#### Staff
+
+**25** (1) An NHS trust may employ such staff as it considers appropriate.
+
+(2) An NHS trust may—
+
+(a) pay its staff such remuneration and allowances, and
+
+(b) employ them on such other terms and conditions,
+
+as it considers appropriate.
+
+(3) An NHS trust must—
+
+(a) in exercising its powers under sub-paragraph (2), and
+
+(b) otherwise in connection with the employment of its staff,
+
+act in accordance with regulations and any directions given by the Welsh Ministers.
+
+(4) Before making any regulations under sub-paragraph (3), the Welsh Ministers must consult such bodies as they may recognise as representing persons who, in their opinion, are likely to be affected by the regulations.
+
+#### Pensions, etc.
+
+**26** (1) An NHS trust may, for or in respect of such of its employees as it may determine, make arrangements for providing pensions, allowances or gratuities.
+
+(2) Such arrangements may include the establishment and administration, by the NHS trust or otherwise, of one or more pension schemes.
+
+(3) The reference in sub-paragraph (1) to pensions, allowances or gratuities to or in respect of employees of an NHS trust includes a reference to pensions, allowances or gratuities by way of compensation to or in respect of any of the NHS trust's employees who suffer loss of office or employment or loss or diminution of emoluments.
+
+(4) This paragraph does not affect the generality of paragraphs 14 and 25.
+
+#### Compulsory acquisition
+
+**27** (1) An NHS trust may be authorised to purchase land compulsorily for the purposes of its functions by means of an order made by the NHS trust and confirmed by the Welsh Ministers.
+
+(2) Subject to sub-paragraph (3), the Acquisition of Land Act 1981 (c. 67) applies to the compulsory purchase of land under this paragraph.
+
+(3) No order may be made by an NHS trust under Part 2 of the Acquisition of Land Act 1981 with respect to any land unless the proposal to acquire the land compulsorily—
+
+(a) has been submitted to the Welsh Ministers in such form and together with such information as they may require, and
+
+(b) has been approved by them.
+
+### Part 3 — Dissolution
+
+**28** (1) The Welsh Ministers may by order dissolve an NHS trust.
+
+(2) An order under this paragraph may be made—
+
+(a) on the application of the NHS trust concerned, or
+
+(b) if the Welsh Ministers consider it appropriate in the interests of the health service.
+
+(3) Except where it appears to the Welsh Ministers necessary to make an order under this paragraph as a matter of urgency, no such order may be made until after the completion of such consultation as may be prescribed.
+
+**29** (1) If an NHS trust is dissolved under paragraph 28, the Welsh Ministers may by order transfer, or provide for the transfer, to themselves or an NHS body of such of the property and liabilities of the NHS trust which is dissolved as in the opinion of the Welsh Ministers is appropriate; and any such order may include provisions corresponding to those of paragraph 9.
+
+(2) The liabilities which may be transferred by virtue of sub-paragraph (1) to an NHS body include criminal liabilities.
+
+(3) An order under this paragraph may make provision in connection with the transfer of staff employed by or for the purposes of the NHS trust which is dissolved; and such an order may include provisions corresponding to those of paragraph 8, including provision for the making of a scheme by such Strategic Health Authority, Special Health Authority, Local Health Board or other body as may be specified in the order.
+
+(4) No order may be made under this paragraph until after completion of such consultation as may be prescribed.
+
+**30** (1) If an NHS trust is dissolved under paragraph 28, the Welsh Ministers or such other NHS trust, [^F293]... [^F294]... Special Health Authority or Local Health Board as the Welsh Ministers may direct must undertake the responsibility for the continued payment of any such pension, allowances or gratuities as, by virtue of paragraph 11(2) or paragraph 26, would otherwise have been the responsibility of the NHS trust which has been dissolved.
+
+(2) Sub-paragraph (1) does not affect the generality of paragraph 29.
+
+**31** An NHS trust may not be dissolved or wound up except in accordance with paragraph 28.
+
+### Part 4 — Miscellaneous
+
+#### Use and development of consecrated land and burial grounds
+
+**32** Section 128 of the Town and Country Planning Act 1971 (c. 78) (use and development of consecrated land and burial grounds) applies to consecrated land and land comprised in a burial ground, within the meaning of that section, which an NHS trust holds for any of its purposes as if—
+
+(a) that land had been acquired by the NHS trust as mentioned in subsection (1) of that section, and
+
+(b) the NHS trust were a statutory undertaker, within the meaning of that Act.
+
+#### Instruments etc.
+
+**33** (1) The fixing of the seal of an NHS trust must be authenticated by the signature—
+
+(a) of the chairman or of some other person authorised (whether generally or specifically) by the NHS trust for that purpose, and
+
+(b) of one other director.
+
+(2) A document purporting to be duly executed under the seal of an NHS trust must be received in evidence and must, unless the contrary is proved, be taken to be so executed.
+
+(3) A document purporting to be signed on behalf of an NHS trust must be received in evidence and must, unless the contrary is proved, be taken to be so signed.
+
+#### Interpretation
+
+**34** In this Schedule—
+
+- “provide” includes manage,
+- “operational date” has the meaning given by paragraph 5(5).
+
+## SCHEDULE 4 — Financial provision about NHS trusts established under section 18
+
+*Section 21*
+
+### Originating capital of NHS trusts
+
+**1** (1) Each NHS trust has an originating capital of an amount specified in an order made by the Welsh Ministers.
+
+(2) The originating capital of an NHS trust is an amount representing the excess of the valuation of its assets over the amounts of its liabilities.
+
+(3) In determining the originating capital of an NHS trust, there must be left out of account such assets or liabilities as are, or are of a class, determined for the purposes of this paragraph by the Welsh Ministers with the consent of the Treasury.
+
+(4) An NHS trust's originating capital is deemed to have been issued out of moneys paid out of the Welsh Consolidated Fund and is an asset of the Welsh Consolidated Fund.
+
+(5) An NHS trust's originating capital is public dividend capital.
+
+(6) With the consent of the Treasury, the Welsh Ministers may determine—
+
+(a) the dividend which is payable at any time on any public dividend capital issued, or treated as issued, to an NHS trust under this Act,
+
+(b) the amount of any such public dividend capital which must be repaid at any time,
+
+(c) any other terms on which any public dividend capital is so issued, or treated as issued.
+
+(7) An order under sub-paragraph (1) may be made only with the consent of the Treasury.
+
+(8) In this paragraph—
+
+- “assets” means the assets which, on or in connection with the establishment of the NHS trust, are or will be transferred to it (whether before, on or after its operational date), and
+- “liabilities” means the liabilities which are or will be so transferred.
+
+### Financial obligations of NHS trusts
+
+**2** (1) Each NHS trust must ensure that its revenue is not less than sufficient, taking one financial year with another, to meet outgoings properly chargeable to revenue account.
+
+(2) Each NHS trust must achieve such financial objectives as may from time to time be set by the Welsh Ministers with the consent of the Treasury and as are applicable to it.
+
+(3) Any such objectives may be made applicable to NHS trusts generally, or to a particular NHS trust or to NHS trusts of a particular description.
+
+### Borrowing
+
+**3** (1) For the purpose of its functions an NHS trust may borrow (both temporarily, by way of overdraft, and longer term) from the Welsh Ministers or from any other person.
+
+(2) Sub-paragraph (1) is subject to any direction given by the Welsh Ministers under section 19, to the provisions of this paragraph and to any limit imposed under this Schedule.
+
+(3) An NHS trust may not mortgage or charge any of its assets or in any other way use any of its assets as security for a loan.
+
+(4) The Welsh Ministers must determine the terms of any loan made by them to an NHS trust (including terms as to the payment of interest, if any).
+
+### Guarantees of borrowing
+
+**4** (1) The Welsh Ministers may guarantee, in such manner and on such conditions as they consider appropriate the repayments of the principal of, and the payment of interest on, any sums which an NHS trust borrows from a person other than the Welsh Ministers.
+
+(2) Immediately after a guarantee is given under this paragraph, a statement of the guarantee must be laid before the National Assembly for Wales.
+
+(3) Where any sum is issued for fulfilling a guarantee so given, a statement relating to that sum must be laid before the National Assembly for Wales as soon as possible after the end of each financial year beginning with that in which the sum is issued and ending with that in which all liability in respect of the principal of the sum and in respect of interest on it is finally discharged.
+
+(4) If any sums are issued in fulfilment of a guarantee given under this paragraph, the NHS trust concerned must make to the Welsh Ministers, at such times and in such manner as they may from time to time direct—
+
+(a) payments of such amounts as the Welsh Ministers so direct in or towards repayment of the sums so issued, and
+
+(b) payments of interest, at such rates as the Welsh Ministers so direct, on what is outstanding for the time being in respect of sums so issued.
+
+### Limits on indebtedness
+
+**5** The aggregate of all sums borrowed by NHS trusts which are required to provide or manage services at or from hospitals or other establishments or facilities which are situated in Wales must not exceed £300 million or such other sum not exceeding £600 million as may be specified by order made by the Welsh Ministers.
+
+### Additional public dividend capital
+
+**6** The Welsh Ministers may, with the consent of the Treasury, instead of making a loan to an NHS trust under paragraph 3, pay an amount to the NHS trust as public dividend capital.
+
+### Supplementary payments
+
+**7** (1) The Welsh Ministers may make a payment to an NHS trust.
+
+(2) The payment may be subject to such conditions as they consider appropriate, including conditions as to repayment.
+
+### Surplus funds
+
+**8** (1) If it appears to the Welsh Ministers that any sum held by an NHS trust otherwise than as trustee is surplus to its foreseeable requirements, the trust must, if the Welsh Ministers after consultation with the NHS trust so direct, pay that sum to the Welsh Ministers.
+
+(2) Sub-paragraph (1) applies only where the NHS trust is established to assume responsibility for the ownership and management of, or to provide and manage, hospitals or other establishments or other facilities which are situated in Wales; otherwise, the payment must be made to the Consolidated Fund.
+
+### Investment
+
+**9** (1) An NHS trust has power to invest money held by it in any investments, including investments which do not produce income, specified in directions under section 19.
+
+(2) Sub-paragraph (1) does not apply in relation to money held by an NHS trust as trustee.
+
+**10** Any direction under section 19 with respect to the maximum amount which an NHS trust may invest in any investments or class of investments may be given only with the consent of the Treasury.
+
+## SCHEDULE 5 — Special Health Authorities established under section 22
+
+*Section 22*
+
+### Corporate status
+
+**1** Each Special Health Authority is a body corporate.
+
+### Pay and allowances
+
+**2** (1) The Welsh Ministers may pay to—
+
+(a) the chairman of a Special Health Authority, and
+
+(b) any member of a Special Health Authority who is appointed by the Welsh Ministers,
+
+such remuneration as the Welsh Ministers may determine.
+
+(2) The Welsh Ministers may provide as they may determine for the payment of a pension, allowance or gratuity to or in respect of the chairman of a Special Health Authority.
+
+(3) A determination under sub-paragraph (2), so far as it relates to a pension, may be made only with the approval of the Treasury.
+
+(4) Where a person ceases to be chairman of a Special Health Authority, and it appears to the Welsh Ministers that there are special circumstances which make it right for that person to receive compensation, the Welsh Ministers may make him a payment of such amount as the Welsh Ministers may determine.
+
+(5) The Welsh Ministers may pay to a member of a Special Health Authority, or of a committee or sub-committee of, or joint committee or joint sub-committee including, a Special Health Authority, such travelling and other allowances (including attendance allowance or compensation for the loss of remunerative time) as the Welsh Ministers may determine.
+
+(6) Allowances may not be paid under sub-paragraph (5) except in connection with the exercise, in such circumstances as the Welsh Ministers may determine, of such functions as they may determine.
+
+(7) Payments under this paragraph must be made at such times, and in such manner and subject to such conditions, as the Welsh Ministers may determine.
+
+### Staff
+
+**3** (1) A Special Health Authority may employ such officers as it may determine.
+
+(2) A Special Health Authority may—
+
+(a) pay its officers such remuneration and allowances, and
+
+(b) employ them on such other terms and conditions,
+
+as it may determine.
+
+(3) A Special Health Authority must, in exercising its powers under sub-paragraph (1) or (2), act in accordance with regulations and any directions given by the Welsh Ministers.
+
+(4) Regulations and directions under sub-paragraph (3) may make provision with respect to any matter connected with the employment by a Special Health Authority of its officers, including in particular provision—
+
+(a) with respect to the qualifications of persons who may be employed as officers of a Special Health Authority,
+
+(b) requiring a Special Health Authority to employ a chief officer and officers of such other descriptions as may be prescribed and to employ, for the purpose of performing prescribed functions of the Special Health Authority or any other body, officers having prescribed qualifications or experience, and
+
+(c) as to the manner in which any officers of a Special Health Authority must be appointed.
+
+(5) A direction under sub-paragraph (3) may relate to a particular officer or class of officer specified in the direction.
+
+(6) Regulations and directions under sub-paragraph (3) may provide for approvals or determinations to have effect from a date specified in them.
+
+(7) The date may be before or after the date of giving the approvals or making the determinations but may not be before if it would be to the detriment of the officers to whom the approvals or determinations relate.
+
+(8) Regulations may provide for the transfer of officers from one Special Health Authority to another Special Health Authority [^F295]..., and for arrangements under which the services of an officer of a Special Health Authority are placed at the disposal of another Special Health Authority [^F296]... or a local authority.
+
+(9) Sub-paragraph (11) applies where the registration of a dental practitioner in the dentists register is suspended—
+
+(a) by an interim suspension order under section 32 of the Dentists Act 1984 (c. 24) (interim orders), or
+
+(b) by a direction or an order of the Health Committee, the Professional Performance Committee or the Professional Conduct Committee of the General Dental Council under any of sections 27B, 27C or 30 of that Act following a relevant determination that that practitioner's fitness to practise is impaired.
+
+(10) For the purposes of sub-paragraph (9), a “relevant determination” that a practitioner's fitness to practice is impaired is a determination which is based solely on—
+
+(a) the ground mentioned in paragraph (b) of subsection (2) of section 27 of the Dentists Act 1984 (deficient professional performance),
+
+(b) the ground mentioned in paragraph (c) of that subsection (adverse physical or mental health), or
+
+(c) both those grounds.
+
+(11) The suspension does not terminate any contract of employment made between the dental practitioner and a Special Health Authority, but a person whose registration is so suspended must not perform any duties under a contract made between him and a Special Health Authority which involves the practice of dentistry within the meaning of the Dentists Act 1984.
+
+(12) Directions may be given—
+
+(a) by the Welsh Ministers to a Special Health Authority to place the services of any of its officers at the disposal of another Special Health Authority [^F297]...,
+
+(b) by the Welsh Ministers to any Special Health Authority to employ as an officer of the Special Health Authority any person who is or was employed by another Special Health Authority [^F298]... and is specified in the direction.
+
+(13) Regulations made in pursuance of this paragraph may not require that all consultants employed by a Special Health Authority must be so employed whole-time.
+
+**4** (1) The Welsh Ministers must, before they make regulations under paragraph 3, consult such bodies as they may recognise as representing persons who, in their opinion, are likely to be affected by the regulations.
+
+(2) The Welsh Ministers must, before they give directions to a Special Health Authority under paragraph 3(12) in respect of any officer of a Special Health Authority—
+
+(a) consult the officer about the directions,
+
+(b) satisfy themselves that the Special Health Authority of which he is an officer has consulted the officer about the placing or employment in question, or
+
+(c) in the case of a direction under paragraph 3(12)(a), consult with respect to the directions such body as they may recognise as representing the officer.
+
+(3) But if the Welsh Ministers—
+
+(a) consider it necessary to give directions under paragraph 3(12)(a) for the purpose of dealing temporarily with an emergency, and
+
+(b) have previously consulted bodies recognised by them as representing the relevant officers about the giving of directions for that purpose,
+
+the Welsh Ministers may disregard sub-paragraph (2) in relation to the directions.
+
+### Miscellaneous
+
+**5** Provision may be made by regulations as to—
+
+(a) the appointment and tenure of office of the chairman, vice-chairman and members of a Special Health Authority,
+
+(b) the appointment and tenure of office of any members of a committee or sub-committee of a Special Health Authority who are not members of the Special Health Authority,
+
+(c) the appointment and tenure of office of any members of a joint committee or joint sub-committee including a Special Health Authority who are not members of the Special Health Authority,
+
+[[^F299](d) the circumstances in which the chairman or vice-chairman or any member of a Special Health Authority may be suspended from office,]
+
+(e) the appointment and constitution of committees and sub-committees (and joint committees and joint sub-committees) of (or including) a Special Health Authority (including any such committees consisting wholly or partly of persons who are not members of the Special Health Authority in question), and
+
+(f) the procedure of a Special Health Authority and of such committees and sub-committees as are mentioned in paragraph (e).
+
+**6** Regulations made under this Schedule may make provision (including provision modifying this Schedule) to deal with cases where the post of chief officer or any other officer of a Special Health Authority is held jointly by two or more persons or where the functions of such an officer are in any other way performed by more than one person.
+
+**7** A Special Health Authority may pay subscriptions, of such amounts as the Welsh Ministers may approve, to the funds of such bodies as the Welsh Ministers may approve.
+
+**8** A Special Health Authority has power to accept gifts of property (including property to be held on trust, either for the general or any specific purposes of the Special Health Authority or for any purposes relating to the health service).
+
+**9** (1) The Welsh Ministers may by order provide for the appointment of trustees for a Special Health Authority to hold property on trust—
+
+(a) for the general or any specific purposes of the Special Health Authority (including the purposes of any specific hospital or other establishment or facility at or from which services are provided by the Special Health Authority), or
+
+(b) for any purposes relating to the health service.
+
+(2) An order under sub-paragraph (1) may—
+
+(a) make provision as to the persons by whom trustees must be appointed and generally as to the method of their appointment,
+
+(b) make any appointment subject to such conditions as may be specified in the order (including conditions requiring the consent of the Welsh Ministers),
+
+(c) make provision as to the number of trustees to be appointed, including provision under which that number may from time to time be determined by the Welsh Ministers after consultation with such persons as they consider appropriate, and
+
+(d) make provision with respect to the term of office of any trustee and his removal from office.
+
+(3) Where under sub-paragraph (1) trustees have been appointed for a Special Health Authority, the Welsh Ministers may by order provide for the transfer of any trust property from the Special Health Authority to the trustees.
+
+**10** The proceedings of a Special Health Authority are not invalidated by any vacancy in its membership or by any defect in a member's appointment.
+
+**11** (1) A Special Health Authority may—
+
+(a) make available at a hospital for which it has responsibility accommodation or services for patients who give undertakings (or for whom undertakings are given) to pay any charges imposed by the Special Health Authority in respect of the accommodation or services, and
+
+(b) make and recover charges in respect of such accommodation or services and calculate them on any basis that it considers to be the appropriate commercial basis.
+
+(2) A Special Health Authority may exercise the power conferred by sub-paragraph (1) only if it is satisfied that its exercise—
+
+(a) does not to any significant extent interfere with the performance by the Special Health Authority of any function conferred on it under this Act to provide accommodation or services of any kind, and
+
+(b) does not to a significant extent operate to the disadvantage of persons seeking or afforded admission or access to accommodation or services at health service hospitals (whether as resident or non-resident patients) otherwise than under this section.
+
+(3) Before a Special Health Authority decides to make accommodation or services available under sub-paragraph (1), it must consult organisations representative of the interests of persons likely to be affected by the decision.
+
+(4) A Special Health Authority may allow accommodation or services which are made available under sub-paragraph (1) to be so made available in connection with treatment in pursuance of arrangements—
+
+(a) made by a medical practitioner or dental practitioner serving (whether in an honorary or paid capacity) on the staff of a health service hospital,
+
+(b) for the treatment of private patients of that practitioner.
+
+(5) References in this paragraph to a health service hospital include references to such a hospital within the meaning of section 275 of the National Health Service Act 2006 (c. 41), but do not include references to a hospital vested in an NHS trust or an NHS foundation trust.
+
+**12** (1) Any rights acquired, or liabilities (including liabilities in tort) incurred, in respect of the exercise by a Special Health Authority of any function exercisable by it by virtue of section 24 or section 25 are enforceable by or against that Special Health Authority (and no other body).
+
+(2) This paragraph does not apply in relation to the joint exercise of any functions by a Special Health Authority with another body under section 25(1)(b).
+
+**13** Provision may be made by regulations with respect to the recording of information by a Special Health Authority, and the furnishing of information by a Special Health Authority to the Welsh Ministers, another Special Health Authority or [[^F300]NHS England].
+
+## SCHEDULE 6 — Pilot schemes
+
+*Section 93*
+
+### How pilot schemes may be initiated
+
+**1** (1) A pilot scheme may be made—
+
+(a) on the initiative of a Local Health Board, or
+
+(b) in response to a request made by a person wishing to participate in the scheme.
+
+(2) The request referred to in sub-paragraph (1)(b) must—
+
+(a) be made in writing, and
+
+(b) comply with such requirements (if any) as may be prescribed.
+
+### Preliminary steps to be taken
+
+**2** (1) Before making a pilot scheme, the Local Health Board concerned must prepare proposals for the scheme and submit them to the Welsh Ministers.
+
+(2) But proposals may be submitted by a Local Health Board only with the agreement of the other proposed participants.
+
+(3) In preparing proposals for a pilot scheme, a Local Health Board must comply with any directions given to it by the Welsh Ministers as to—
+
+(a) the matters to be dealt with, and information to be included, in the proposals, and
+
+(b) the procedure to be followed by the Local Health Board.
+
+(4) Before submitting proposals for a pilot scheme, a Local Health Board must (in addition to complying with any requirements about consultation imposed by or under any other enactment) comply with any directions given to it by the Welsh Ministers about the extent to which, and manner in which, it must consult on the proposals.
+
+(5) The Welsh Ministers may give directions—
+
+(a) requiring a Local Health Board to submit proposals to them,
+
+(b) as to the matters to which a Local Health Board must have regard in making any recommendation to the Welsh Ministers when submitting proposals for a pilot scheme,
+
+(c) as to the form in which any such recommendation must be made,
+
+(d) requiring Local Health Boards to provide the Welsh Ministers with summaries (prepared and presented in the manner specified in the directions) of all requests received by the Local Health Boards during the period specified in the directions.
+
+(6) A direction under this paragraph may be given so as to apply—
+
+(a) generally in circumstances specified in the direction, or
+
+(b) in relation to a particular case.
+
+### Approval
+
+**3** (1) If proposals for a pilot scheme are submitted under paragraph 2, the Welsh Ministers must—
+
+(a) approve them as submitted,
+
+(b) make such modifications as they consider appropriate and approve them as modified, or
+
+(c) reject them.
+
+(2) The Welsh Ministers may not approve proposals for a pilot scheme unless satisfied that they include satisfactory provision for any participant other than the Local Health Board to withdraw from the scheme if he wishes to do so.
+
+(3) When the Welsh Ministers make a decision under this paragraph—
+
+(a) they must notify the Local Health Board concerned of the decision, and
+
+(b) the Local Health Board must, without delay, notify the other participants in the proposed scheme.
+
+### Preliminary approval
+
+**4** (1) This paragraph applies if a Local Health Board proposes to make a pilot scheme but has not determined who the participants, or who all of the participants, will be.
+
+(2) The Local Health Board may apply to the Welsh Ministers for preliminary approval to be given to its proposals.
+
+(3) If such an application is made, the Welsh Ministers must—
+
+(a) give preliminary approval to the proposals as submitted,
+
+(b) make such modifications as they consider appropriate and give preliminary approval to them as modified, or
+
+(c) reject them.
+
+(4) If a Local Health Board is given preliminary approval, it must take such steps, with a view to obtaining final approval for the proposed pilot scheme, as the Welsh Ministers may direct.
+
+(5) The fact that the Welsh Ministers have given preliminary approval to proposals for a pilot scheme does not affect their right to refuse to approve the completed proposals when they are submitted under paragraph 2.
+
+(6) Sub-paragraphs (3) to (6) of paragraph 2 apply in relation to an application for preliminary approval of proposals under this paragraph as they apply in relation to proposals under that paragraph.
+
+### Effect of proposals on existing services
+
+**5** (1) Proposals for a pilot scheme submitted under paragraph 2, or included in an application for preliminary approval of proposals under paragraph 4, must include—
+
+(a) an assessment by the Local Health Board of the likely effect of the implementation of the proposals in the area of the Local Health Board on the services mentioned in sub-paragraph (2),
+
+(b) any assessment supplied to the Local Health Board by another Local Health Board under sub-paragraph (4).
+
+(2) The services are—
+
+(a) pharmaceutical services,
+
+(b) local pharmaceutical services provided under existing pilot schemes or LPS schemes,
+
+(c) primary medical services.
+
+(3) If it appears to a Local Health Board that the proposals would, if implemented, affect any of the services mentioned in sub-paragraph (2) provided in the area of another Local Health Board, it must consult that other Local Health Board about the proposals before submitting them under paragraph 2 or including them in an application for preliminary approval under paragraph 4.
+
+(4) A Local Health Board consulted under sub-paragraph (3) must prepare an assessment of the likely effect of the implementation of the proposals on those services and supply it to the Local Health Board which consulted it.
+
+### Guidance
+
+**6** The Welsh Ministers may issue guidance about the criteria by reference to which, as a general rule, powers under paragraph 3 or 4 are likely to be exercised.
+
+### Making a scheme
+
+**7** (1) If the Welsh Ministers approve proposals for a pilot scheme under paragraph 3 and notify the Local Health Board concerned in accordance with that paragraph, the Local Health Board must implement the proposals in accordance with directions given by the Welsh Ministers.
+
+(2) A proposed participant in a pilot scheme (other than the Local Health Board concerned) may withdraw at any time before the proposals relating to him are implemented.
+
+(3) A pilot scheme, as implemented, may differ from the proposals for the scheme approved by the Welsh Ministers only if they agree to the variation or—
+
+(a) directions given by them (either under sub-paragraph (1) or generally) authorise variations that satisfy specified requirements, and
+
+(b) the variation satisfies those requirements.
+
+(4) As soon as is reasonably practicable after implementing proposals for a pilot scheme, the Local Health Board concerned must (in accordance with any directions given to it by the Welsh Ministers) publish details of the scheme.
+
+## SCHEDULE 7 — LPS schemes
+
+*Section 102*
+
+### Provision of local pharmaceutical services
+
+**1** (1) Local Health Boards may establish LPS schemes.
+
+(2) In this Act, an “LPS scheme” means one or more agreements—
+
+(a) made by a Local Health Board in accordance with this Schedule,
+
+(b) under which local pharmaceutical services will be provided (otherwise than by the Local Health Board), and
+
+(c) the parties to which do not include any other Local Health Board.
+
+(3) An LPS scheme may include arrangements—
+
+(a) for the provision of services which are not local pharmaceutical services, but which may be provided under this Act, other than under Part 6 or Chapter 1 of this Part, and whether or not of the kind usually provided by pharmacies,
+
+(b) for the provision of training and education (including training and education for persons who are, or may become, involved in the provision of local pharmaceutical services).
+
+(4) An LPS scheme may not combine arrangements for the provision of local pharmaceutical services with arrangements for the provision of primary medical services or primary dental services.
+
+(5) In determining the arrangements it needs to make in order to comply with section 80, a Local Health Board may take into account arrangements under an LPS scheme made by it.
+
+(6) The functions of an NHS trust and an NHS foundation trust include power to provide any services to which an LPS scheme applies.
+
+(7) In this Schedule—
+
+- ”local pharmaceutical services” means such services of a kind which may be provided under section 80, or by virtue of section 81 (other than practitioner dispensing services) as may be prescribed for the purposes of this Schedule, and
+- “LP services” means services provided under an LPS scheme (including any services to which the scheme applies as a result of sub-paragraph (3)).
+
+(8) “Practitioner dispensing services” means the provision of drugs, medicines or listed appliances (within the meaning of section 80) by a medical practitioner or dental practitioner to a patient of his pursuant to arrangements made by virtue of section 86(1).
+
+### Designation of priority neighbourhoods or premises
+
+**2** (1) The Welsh Ministers may make regulations allowing a Local Health Board to designate—
+
+(a) neighbourhoods,
+
+(b) premises, or
+
+(c) descriptions of premises,
+
+for the purposes of this paragraph.
+
+(2) The regulations may, in particular, make provision—
+
+(a) as to the circumstances in which, and the neighbourhoods or premises in relation to which, designations may be made or maintained,
+
+(b) allowing a Local Health Board to defer consideration of pharmaceutical list applications relating to neighbourhoods, premises or descriptions of premises that have been designated,
+
+(c) allowing a designation to be cancelled in prescribed circumstances,
+
+(d) requiring a designation to be cancelled—
+
+(i) if the Welsh Ministers give a direction to that effect, or
+
+(ii) in prescribed circumstances.
+
+(3) “Pharmaceutical list applications” means applications for inclusion in a pharmaceutical list.
+
+### Regulations
+
+**3** (1) The Welsh Ministers may make regulations with respect to LP services.
+
+(2) The regulations must include provision for participants other than Local Health Boards to withdraw from an LPS scheme if they wish to do so.
+
+(3) The regulations may, in particular—
+
+(a) provide that an LPS scheme may be made only—
+
+(i) in prescribed circumstances,
+
+(ii) in relation to an area, a community or a category of persons determined in accordance with the regulations, or
+
+(iii) in relation to premises determined in accordance with the regulations,
+
+(b) provide that only prescribed services, or prescribed categories of service, may be provided in accordance with an LPS scheme,
+
+(c) make provision as to the services, or categories of service, for which an LPS scheme must provide,
+
+(d) impose conditions (including conditions as to qualifications and experience) to be satisfied by persons providing LP services,
+
+(e) require details of each LPS scheme to be published,
+
+(f) make provision with respect to the variation and termination of an LPS scheme,
+
+(g) prevent (except in such circumstances and to such extent as may be prescribed) the provision of both LP services and pharmaceutical services from the same premises,
+
+(h) make provision with respect to the inclusion, removal, re-inclusion or modification of an entry in respect of premises in a pharmaceutical list,
+
+(i) provide for parties to an LPS scheme to be treated, in such circumstances and to such extent as may be prescribed, as health service bodies for the purposes of section 7,
+
+(j) provide for directions, as to payments, made under section 7(11) (as it has effect as a result of regulations made by virtue of paragraph (i)) to be enforceable in [[^F301]the county court] (if the court so orders) as if they were judgments or orders of that court,
+
+(k) authorise Local Health Boards to make payments of financial assistance for prescribed categories of preparatory work undertaken—
+
+(i) in connection with preparing proposals for an LPS scheme, or
+
+(ii) in preparation for the provision of services under a proposed LPS scheme.
+
+## SCHEDULE 8 — Further provision about the expenditure of Local Health Boards
+
+*Section 177*
+
+### General ophthalmic [^F302]. . . services expenditure
+
+**1** (1) In section 174 [[^F303]and 175] and this Schedule, “general ophthalmic [^F304]. . . services expenditure” means expenditure of a Local Health Board which—
+
+(a) is attributable to the payment of remuneration to persons providing [[^F305]general ophthalmic services], and
+
+(b) is not excluded by sub-paragraph (2).
+
+(2) Expenditure is excluded if it is attributable to—
+
+(a) the reimbursement of expenses of persons providing [[^F306]general ophthalmic services] which are designated expenses incurred in connection with the provision of the services (or in giving instruction in matters relating to the services),
+
+(b) [^F307]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(c) [^F307]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Main expenditure
+
+**[[^F308]2** [[^F309](1) In section 174 “main expenditure”, in relation to a Local Health Board and the year in question, means—
+
+(a) expenditure of the Local Health Board attributable to the reimbursement in that year of expenses of persons providing general ophthalmic services which are designated expenses incurred in connection with the provision of those services (or in giving instruction in matters relating to those services), and
+
+(b) any other expenditure of the Local Health Board attributable to the performance of its functions in that year (other than general ophthalmic services expenditure).]
+
+[[^F310](2) In section 175 “expenditure” includes the use of resources through their consumption or reduction in value.]]
+
+**3** (1) For each financial year, the Welsh Ministers must apportion among all Local Health Boards, in such manner as they consider appropriate, the total of the remuneration referable to the cost of drugs which is paid by each Local Health Board in that year.
+
+(2) A Local Health Board is accountable in any year for remuneration referable to the cost of drugs to the extent (and only to the extent) that such remuneration is apportioned to it under sub-paragraph (1).
+
+(3) Where in any financial year any remuneration referable to the cost of drugs for which a Local Health Board is accountable is paid by another Local Health Board, the remuneration must be treated (for the purposes of sections 174 and 175) as having been paid by the first Local Health Board in the performance of its functions.
+
+(4) The Welsh Ministers may, in particular, exercise their discretion under sub-paragraph (1)—
+
+(a) so that any apportionment reflects, in the case of each Local Health Board, the financial consequences of orders for the provision of drugs, being orders which in the opinion of the Welsh Ministers are attributable to the Board in question,
+
+(b) by reference to averaged or estimated amounts.
+
+(5) The Welsh Ministers may make provision for any remuneration referable to the cost of drugs which is paid by a Local Health Board other than the Board which is accountable for the payment to be reimbursed in such manner as the Welsh Ministers may determine.
+
+**[[^F311]3A** (1) The Welsh Ministers may designate any element of the remuneration paid by Local Health Boards to persons providing pharmaceutical services or local pharmaceutical services which is not remuneration referable to the cost of drugs.
+
+(2) If an element is so designated, the Welsh Ministers must for each financial year apportion among all Local Health Boards, in such manner as the Welsh Ministers consider appropriate, the total of the remuneration referable to that element which is paid by each Local Health Board in that year.
+
+(3) A Local Health Board is accountable in any year for remuneration referable to that element to the extent (and only to the extent) that such remuneration is apportioned to it under sub-paragraph (2).
+
+(4) Where in any financial year any remuneration referable to that element for which a Local Health Board is accountable is paid by another Local Health Board, the remuneration must be treated (for the purposes of sections 174 and 175) as having been paid by the first Local Health Board in the performance of its functions.
+
+(5) The Welsh Ministers may, in particular, exercise their discretion under sub-paragraph (2)—
+
+(a) so that any apportionment relating to services associated with the provision of drugs reflects, in the case of each Local Health Board, the financial consequences of orders for the provision of drugs, being orders which in the opinion of the Welsh Ministers are attributable to the Board in question,
+
+(b) by reference to averaged or estimated amounts.
+
+(6) The Welsh Ministers may make provision for any remuneration referable to an element designated under sub-paragraph (1) which is paid by a Local Health Board other than the Board which is accountable for the payment to be reimbursed in such manner as the Welsh Ministers may determine.]
+
+### Interpretation
+
+**4** (1) In this Schedule—
+
+- “designated” means designated in writing by the Welsh Ministers (and different designations may be made for different purposes) [[^F312] and “designate” must be read accordingly],
+- “drugs” includes medicines and listed appliances (within the meaning given by section 80),
+- [^F313]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- “remuneration referable to the cost of drugs” includes ([^F314]. . . subject to sub-paragraph (2)) remuneration payable to persons providing local pharmaceutical services.
+
+(2) The Welsh Ministers must determine what remuneration paid by Local Health Boards to persons providing pharmaceutical services or local pharmaceutical services must be treated for the purposes of this Schedule as remuneration referable to the cost of drugs.
+
+(3) The Welsh Ministers may treat all remuneration paid by Local Health Boards to such persons, so far as it is met by an NHS trust under section 180(4), as remuneration referable to the cost of drugs for those purposes.
+
+[[^F315](4) If the Welsh Ministers do not treat such remuneration, so far as it is so met by an NHS trust, as remuneration referable to the cost of drugs, they may treat it as remuneration falling within paragraph 3A(1).]
+
+## SCHEDULE 9 — Accounts and audit
+
+*Section 178*
+
+### NHS bodies
+
+**1** The following are NHS bodies for the purposes of this Schedule—
+
+(a) any Special Health Authority performing functions only or mainly in respect of Wales,
+
+(b) any Local Health Board,
+
+(c) any NHS trust all or most of whose hospitals, establishments and facilities are situated in Wales,
+
+(d) any trustees for such an NHS trust appointed in pursuance of paragraph 10 of Schedule 3,
+
+(e) any special trustees appointed as mentioned in section 160(1) for a trust all or most of whose hospitals, establishments and facilities are situated in Wales.
+
+### Accounts to be kept by NHS bodies
+
+**2** (1) Each NHS body must keep proper accounts and proper records in relation to the accounts.
+
+(2) If the Welsh Ministers so direct with the approval of the Treasury, the accounts of any such body of a description specified in the direction must be kept in such form as is so specified.
+
+(3) This paragraph is subject to paragraph 6(2).
+
+### Preparation of annual accounts
+
+**3** (1) Each NHS body must prepare in respect of each financial year annual accounts in such form as the Welsh Ministers may direct with the approval of the Treasury.
+
+(2) This paragraph is subject to paragraph 6(3).
+
+### Transmission of annual accounts
+
+**4** Section 61(1) of the Public Audit (Wales) Act 2004 (c. 23) (audit of Welsh NHS bodies) makes provision for the annual accounts of Welsh NHS bodies to be submitted to the Auditor General for Wales in order for them to be examined by him.
+
+### Summarised accounts of NHS bodies
+
+**5** (1) This paragraph applies in relation to NHS bodies that are not Special Health Authorities.
+
+(2) The Welsh Ministers must prepare summarised accounts relating to such bodies in respect of each financial year.
+
+(3) Sub-paragraph (2) is subject to paragraphs 6(3) and 7(2).
+
+(4) The summarised accounts must be prepared in such form as the Treasury may direct.
+
+(5) The Welsh Ministers must transmit the summarised accounts to the Auditor General for Wales not later than the end of the month of November following the financial year to which they relate.
+
+(6) The Auditor General for Wales must —
+
+(a) examine and certify the summarised accounts, and
+
+(b) send copies of them and his report on them to the Welsh Ministers.
+
+(7) This paragraph has effect subject to any provision made under section 14(1) of the Government Resources and Accounts Act 2000 (c. 20) (power to disapply this paragraph in relation to specified bodies and years).
+
+### Exceptions for accounts of charitable trusts
+
+**6** (1) For the purposes of this paragraph a “relevant charitable trust”, in relation to an NHS body, means a charitable trust whose trustee or trustees is or are that body.
+
+(2) Nothing in paragraph 2, so far as it applies to an NHS body of any description, has effect in relation to accounts relating to a relevant charitable trust.
+
+(3) Nothing in paragraph 3 or 5, so far as it applies to an NHS body of any description, requires any annual or summarised accounts prepared by or in relation to the body to include matters relating to a relevant charitable trust.
+
+### Exceptions for accounts of non-charitable trusts
+
+**7** (1) For the purposes of this paragraph a “relevant non-charitable trust”, in relation to an NHS body, means a trust which is not a charitable trust and whose trustee or trustees is or are that body.
+
+(2) Nothing in paragraph 5, so far as it applies to an NHS body of any description, requires any summarised accounts prepared in relation to the body to include matters relating to a relevant non-charitable trust.
+
+## [^F316]SCHEDULE 10 — Further provision about Community Health Councils
+
+*Section 182*
+
+[^F316] . . . . . . . . .
+
+## SCHEDULE 11 — Exempt information relating to health services
+
+*Section 186*
+
+### Part 1 — Descriptions of exempt information
+
+**1** Information relating to a particular employee, former employee or applicant to become an employee of, or a particular office-holder, former office-holder or applicant to become an office-holder under, a relevant body.
+
+**2** Information relating to any particular occupier or former occupier of, or applicant for, accommodation provided by or at the expense of a relevant body.
+
+**3** Information relating to any particular applicant for, or recipient or former recipient of, any service provided by a relevant body.
+
+**4** Information relating to any particular applicant for, or recipient or former recipient of, any financial assistance provided by a relevant body.
+
+**5** The amount of any expenditure proposed to be incurred by a relevant body under any particular contract for the acquisition of property or the supply of goods and services.
+
+**6** Any terms proposed or to be proposed by or to a relevant body in the course of negotiations for a contract for the acquisition or disposal of property or the supply of goods or services.
+
+**7** The identity of a relevant body (as well as of any other person, by virtue of paragraph 6) as the person offering any particular tender for a contract for the supply of goods or services.
+
+**8** Information relating to any consultations or negotiations, or contemplated consultations or negotiations, in connection with any labour relations matter arising between a relevant body or a Minister of the Crown and employees of, or office-holders under, a relevant body.
+
+**9** Any instructions to counsel and any opinion of counsel (whether or not in connection with any proceedings) and any advice received, information obtained or action to be taken in connection with—
+
+(a) any legal proceedings by or against a relevant body, or
+
+(b) the determination of any matter affecting a relevant body,
+
+(whether, in either case, proceedings have been commenced or are in contemplation).
+
+**10** Information relating to a particular person who was included in a list of persons undertaking to provide services under Part 2 of the National Health Service Act 1977 (c. 49).
+
+**11** Information relating to a particular person who is, or was formerly, included in, or is an applicant for inclusion in—
+
+(a) a pharmaceutical list or an ophthalmic list, or
+
+(b) a pharmaceutical list under the National Health Service Act 2006 (c. 41).
+
+**12** Information relating to a particular person who—
+
+(a) provided primary medical services, primary dental services or primary ophthalmic services under a contract under section 28K, 28Q or 28WA of the National Health Service Act 1977, or
+
+(b) was included in a list under section 28X of that Act.
+
+**13** (1) Information relating to a particular person who—
+
+(a) is, or was formerly, providing primary medical services or primary dental services under a contract under section 42 or 57,
+
+(b) is, or was formerly, providing primary ophthalmic services under a contract under section 117 of the National Health Service Act 2006, or
+
+(c) is, or was formerly, included in, or is an applicant for inclusion in, a list under section 49 or 63.
+
+(2) In this paragraph—
+
+(a) references to primary medical services and primary dental services include such services provided under the National Health Service Act 2006, and
+
+(b) references to provisions of this Act include references to corresponding provisions of that Act (including in particular in sub-paragraph (1)(c) a reference to a list under section 123 or section 146 of that Act).
+
+**14** Information relating to any particular employee, former employee, or applicant to become an employee, of a person referred to in paragraph 10, 11, 12 or 13.
+
+**15** Information relating to the physical or mental health of a particular individual.
+
+### Part 2 — Qualifications
+
+**16** Information relating to a person of a description specified in any of paragraphs 1 to 4 and 10 to 14 of Part 1 is not exempt information by virtue of that paragraph unless it relates to an individual of that description in the capacity indicated by the description.
+
+**17** Information falling within paragraph 5 of Part 1 is exempt information if and so long as disclosure to the public of the amount there referred to would be likely to give an advantage to a person entering into, or seeking to enter into, a contract with a relevant body in respect of the property, goods or services, whether the advantage would arise as against that body or as against other such persons.
+
+**18** Information falling within paragraph 6 of Part 1 is exempt information if and so long as disclosure to the public of the terms would prejudice a relevant body in those or any other negotiations concerning the property or goods or services.
+
+**19** Information falling within paragraph 8 of Part 1 is exempt information if and so long as disclosure to the public of the information would prejudice a relevant body in those or any other consultations or negotiations in connection with a labour relations matter arising as mentioned in that paragraph.
+
+### Part 3 — Interpretation
+
+**20** In this Schedule—
+
+- “disposal”, in relation to property, includes the granting of an interest in or right over it,
+
+- “employee” means a person employed under a contract of service,
+
+- “labour relations matter” means—
+
+  - (a) any of the matters specified in paragraphs (a) to (g) of section 178(2) of the Trade Union and Labour Relations (Consolidation) Act 1992 (c. 52) (matters which may be the subject of a collective agreement), or
+  - (b) any dispute about a matter falling within paragraph (a),
+
+  and for the purposes of this definition the enactments mentioned in paragraph (a), with the necessary modifications, apply in relation to office-holders under a relevant body as they apply in relation to employees of a relevant body,
+
+- “office-holder”, in relation to a relevant body, means the holder of any paid office appointments to which are or may be made or confirmed by the body or by any person who holds any such office or is an employee of the body.
+
+## SCHEDULE 12 — Section 33 arrangements: transfer of staff
+
+*Section 33*
+
+### Application of Schedule
+
+**1** This Schedule applies where, under any arrangements under regulations under section 33, any functions of a body (“the transferor”) will be exercised by another body (“the transferee”).
+
+### Orders transferring staff
+
+**2** (1) The Welsh Ministers may by order transfer to the transferee any specified description of employees of the transferor.
+
+(2) An order may be made under this paragraph only if any prescribed requirements about consultation have been complied with in relation to each of the employees to be transferred.
+
+### Effect of order on contracts of employment
+
+**3** (1) The contract of employment of an employee transferred by an order under paragraph 2—
+
+(a) is not terminated by the transfer, and
+
+(b) has effect from the date of the transfer as if originally made between the employee and the transferee.
+
+(2) In particular—
+
+(a) all the rights, powers, duties and liabilities of the transferor under or in connection with the employee's contract of employment are by virtue of this sub-paragraph transferred to the transferee, and
+
+(b) anything done before the date of the transfer by or in relation to the transferor in respect of the employee or his contract of employment is deemed from that date to have been done by or in relation to the transferee.
+
+(3) Sub-paragraphs (1) and (2) do not transfer an employee's contract of employment, or the rights, powers, duties and liabilities under or in connection with it, if he informs the transferor or the transferee that he objects to the transfer.
+
+(4) Where an employee objects as mentioned in sub-paragraph (3), his contract of employment with the transferor is terminated immediately before the date on which the transfer would occur; but he must not be treated, for any purpose, as having been dismissed by that body.
+
+(5) This paragraph does not affect any right of an employee transferred by an order under paragraph 2 to terminate his contract of employment if a substantial change is made to his detriment in his working conditions; but no such right arises by reason only that, under this paragraph, the identity of his employer changes unless the employee shows that, in all the circumstances, the change is a significant change and is to his detriment.
+
+### Effect of order on pension rights
+
+**4** (1) An order under paragraph 2 may provide that, in the case of an employee of any specified description who is transferred by the order, paragraph 3 does not apply in relation to—
+
+(a) so much of the employee's contract of employment as relates to relevant pension provisions, or
+
+(b) any rights, powers, duties or liabilities under or in connection with that contract, or otherwise arising in connection with the employee's employment, and relating to such provisions.
+
+(2) If an order under paragraph 2 provides as mentioned in sub-paragraph (1), the order may in relation to any such employee make such provision (if any) as the Welsh Ministers consider appropriate with respect to all or any of the matters mentioned in paragraphs (a) and (b) of that sub-paragraph.
+
+(3) The provision which may be made by virtue of sub-paragraph (2) includes provision—
+
+(a) for any such employee's contract of employment with the transferee to have effect with any specified modifications,
+
+(b) for relevant pension provisions of any specified description to have effect in the case of any such employee with any such modifications.
+
+(4) In this paragraph “relevant pension provisions” means the provisions of an occupational pension scheme within the meaning of the Pension Schemes Act 1993 (c. 48), with the exception (if the order under paragraph 2 so provides) of any provisions of such a scheme falling within a description specified in the order.
+
+### Divided employments
+
+**5** (1) Where an employee will be transferred by an order under paragraph 2 but will continue to be employed for certain purposes by the transferor, the order may provide that the contract of employment of the employee is, on the date on which the employee is transferred, divided so as to constitute two separate contracts of employment between the employee and the transferor and between the employee and the transferee.
+
+(2) Where an employee's contract of employment is divided as provided under sub-paragraph (1)—
+
+(a) the order must provide for paragraph 3 to have effect in the case of the employee and his contract of employment subject to appropriate modifications, and
+
+(b) paragraph 4 similarly applies only so far as appropriate in connection with the employee's employment by the transferee.
+
+## SCHEDULE 13 — Further provision about standing advisory committees
+
+*Section 189*
+
+**1** Regulations may make provision with respect to—
+
+(a) the appointment,
+
+(b) the tenure of office [[^F317](including removal or suspension from office)], and
+
+(c) the vacation of office,
+
+of the members of any standing advisory committee.
+
+**2** The Welsh Ministers must appoint a secretary to each standing advisory committee.
+
+**3** Each standing advisory committee may appoint such sub-committees as it considers appropriate, and as are approved by the Welsh Ministers, to consider and report on questions referred to it by the standing advisory committee.
+
+**4** Any such sub-committee may include persons who are not members of the standing advisory committee.
+
+**5** Each standing advisory committee must elect one of the members of the committee to be chairman of the committee.
+
+**[[^F318]5A** But regulations under paragraph 1(b) may make provision about the appointment by the Welsh Ministers of an interim chairman of a standing advisory committee in cases where the chairman elected under paragraph 5 is removed or suspended from office.]
+
+**6** Each standing advisory committee has power to regulate its own procedure.
+
+**7** The proceedings of a standing advisory committee are not invalidated by any vacancy in the membership of the committee, or by any defect in a member's appointment or qualification.
+
+**8** The Welsh Ministers may make such payments in respect of expenses incurred by a standing advisory committee as they may determine.
+
+**9** The Welsh Ministers may pay to the members of a standing advisory committee, or a sub-committee of a standing advisory committee, such travelling and other allowances, including compensation for loss of remunerative time, as they may determine.
+
+**10** Payments under this Schedule are subject to such conditions as to records, certificates, or otherwise as the Welsh Ministers may determine.
+
+## SCHEDULE 14 — Further provision about advisory committees for Wales
+
+*Section 190*
+
+**1** (1) Sub-paragraph (2) applies where the Welsh Ministers are satisfied that a committee formed for Wales is representative of—
+
+(a) any category of persons (other than a category mentioned in section 190(2)) who provide services forming part of the health service, or
+
+(b) two or more of any of the categories mentioned in that subsection and paragraph (a).
+
+(2) Where this sub-paragraph applies and the Welsh Ministers are satisfied that it is in the interests of the health service to recognise the committee, the Welsh Ministers must recognise the committee and specify a name for it.
+
+(3) Where a committee recognised under sub-paragraph (2) appears to the Welsh Ministers to represent categories of persons which include a category mentioned in section 190(2), the Welsh Ministers are not required by virtue of that subsection to recognise a committee representing persons of that category.
+
+**2** The Welsh Ministers may, by notice in writing served on any member of a committee, withdraw their recognition of the committee if they consider it expedient to do so—
+
+(a) where the committee is recognised under section 190 or paragraph 1(1)(a), with a view to recognising under paragraph 1(1)(b) another committee representing categories of persons which include the category represented by the recognised committee, or
+
+(b) where the committee is recognised under paragraph 1(1)(b), with a view to recognising under section 190 and paragraph 1 other committees which together are representative of the categories in question.
+
+**3** A committee recognised under section 190 or this Schedule must—
+
+(a) advise the Welsh Ministers on the provision by them of services of a kind provided by the categories of persons of whom the committee is representative, and
+
+(b) perform such other functions as may be prescribed.
+
+**4** The Welsh Ministers may defray such expenses incurred by a committee in performing the duty imposed on it by paragraph 3 as the Welsh Ministers consider reasonable, and those expenses may include travelling and other allowances and compensation for loss of remunerative time.
+
+## [^F319] SCHEDULE 15 — Further provision about local social services authorities
+
+*Section 192*
+
+### [^F319]Care of mothers and young children
+
+**[^F319]1** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F319]Prevention, care and after-care
+
+**[^F319]2** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F319]2A** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F319]Research
+
+**[^F319]3** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+---
+
+[^F1]: S. 1A inserted (1.4.2023) by Health and Social Care (Quality and Engagement) (Wales) Act 2020 (asc 1), ss. 2(2), 29(2); S.I. 2023/370, art. 3(1)(b)
+[^F2]: S. 6A omitted (31.12.2020) by virtue of The National Health Service (Cross-Border Healthcare and Miscellaneous Amendments etc.) (EU Exit) Regulations 2019 (S.I. 2019/777), regs. 1(1), 4(3)(a) (with reg. 15, Sch. 1) (as amended by S.I. 2020/1348, regs. 10-12);. 2020 c. 1, Sch. 5 para. 1(1)
+[^F3]: S. 6B omitted (31.12.2020) by virtue of The National Health Service (Cross-Border Healthcare and Miscellaneous Amendments etc.) (EU Exit) Regulations 2019 (S.I. 2019/777), regs. 1(1), 4(3)(b) (with reg. 15, Sch. 1) (as amended by S.I. 2020/1348, regs. 10-12);. 2020 c. 1, Sch. 5 para. 1(1)
+[^F4]: S. 6BA omitted (31.12.2020) by virtue of The National Health Service (Cross-Border Healthcare and Miscellaneous Amendments etc.) (EU Exit) Regulations 2019 (S.I. 2019/777), regs. 1(1), 4(3)(c) (with reg. 15, Sch. 1) (as amended by S.I. 2020/1348, regs. 10-12);. 2020 c. 1, Sch. 5 para. 1(1)
+[^F5]: S. 6BB omitted (31.12.2020) by virtue of The National Health Service (Cross-Border Healthcare and Miscellaneous Amendments etc.) (EU Exit) Regulations 2019 (S.I. 2019/777), regs. 1(1), 4(3)(d) (with reg. 15, Sch. 1) (as amended by S.I. 2020/1348, regs. 10-12);. 2020 c. 1, Sch. 5 para. 1(1)
+[^F6]: S. 7(4)(a) omitted (1.4.2013) by virtue of Health and Social Care Act 2012 (c. 7), s. 306(4), Sch. 21 para. 13(a); S.I. 2013/160, art. 2(2) (with arts. 7-9)
+[^F7]: S. 7(4)(b) omitted (1.4.2013) by virtue of Health and Social Care Act 2012 (c. 7), s. 306(4), Sch. 21 para. 13(b); S.I. 2013/160, art. 2(2) (with arts. 7-9)
+[^F8]: S. 7(4)(ba)(bb) inserted (1.2.2013) by Health and Social Care Act 2012 (c. 7), s. 306(4), Sch. 21 para. 13(c); S.I. 2012/2657, art. 2(4)
+[^F9]: Words in s. 7 substituted (1.7.2022) by Health and Care Act 2022 (c. 31), s. 186(6), Sch. 1 para. 1(1)(2); S.I. 2022/734, reg. 2(a), Sch. (with regs. 13, 29, 30)
+[^F10]: S. 7(4)(bb) substituted (1.7.2022) by Health and Care Act 2022 (c. 31), s. 186(6), Sch. 4 para. 140; S.I. 2022/734, reg. 2(a), Sch. (with regs. 13, 29, 30)
+[^F11]: S. 7(4)(fa) inserted (1.2.2013) by Health and Social Care Act 2012 (c. 7), s. 306(4), Sch. 21 para. 13(d); S.I. 2012/2657, art. 2(4)
+[^F12]: S. 7(4)(g) substituted (30.11.2022) by The Health and Social Care Act (Northern Ireland) 2022 (Consequential Amendments) Order 2022 (S.I. 2022/1174), arts. 1(2), 24(2)(a)
+[^F13]: S. 7(4)(j) omitted (1.2.2013) by virtue of Health and Social Care Act 2012 (c. 7), s. 306(4), Sch. 21 para. 13(e); S.I. 2012/2657, art. 2(4); and S. 7(4)(j) omitted (1.4.2013) by virtue of Health and Social Care Act 2012 (c. 7), s. 306(4), Sch. 7 para. 21; S.I. 2013/160, art. 2(2) (with arts. 7-9)
+[^F14]: S. 7(4)(k) substituted (1.4.2009) by Health and Social Care Act 2008 (c. 14), ss. 95, 170, Sch. 5 para. 87; S.I. 2009/462, art. 2, Sch. 1 para. 35
+[^F15]: S. 7(4)(ka) inserted (1.4.2013) by Health and Social Care Act 2012 (c. 7), s. 306(4), Sch. 17 para. 11; S.I. 2013/160, art. 2(2) (with arts. 7-9)
+[^F16]: S. 7(4)(kb) omitted (1.2.2023) by virtue of The Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/98), reg. 1(2), Sch. para. 11 (with reg. 3)
+[^F17]: S. 7(4)(na)(nb) inserted (1.2.2013) by Health and Social Care Act 2012 (c. 7), s. 306(4), Sch. 21 para. 13(f); S.I. 2012/2657, art. 2(4)
+[^F18]: S. 7(4)(o) substituted (30.11.2022) by The Health and Social Care Act (Northern Ireland) 2022 (Consequential Amendments) Order 2022 (S.I. 2022/1174), arts. 1(2), 24(2)(b)
+[^F19]: Words in s. 7(4)(q) substituted (30.11.2022) by The Health and Social Care Act (Northern Ireland) 2022 (Consequential Amendments) Order 2022 (S.I. 2022/1174), arts. 1(2), 24(2)(c)
+[^F20]: Words in s. 8(1) substituted (30.11.2022) by The Health and Social Care Act (Northern Ireland) 2022 (Consequential Amendments) Order 2022 (S.I. 2022/1174), arts. 1(2), 24(3)
+[^F21]: S. 8A inserted (1.4.2013) by Health and Social Care Act 2012 (c. 7), s. 306(4), Sch. 21 para. 14; S.I. 2013/160, art. 2(2) (with arts. 7-9)
+[^F22]: S. 10(4)(b) omitted (1.4.2013) by virtue of Health and Social Care Act 2012 (c. 7), s. 306(4), Sch. 21 para. 15; S.I. 2013/160, art. 2(2) (with arts. 7-9)
+[^F23]: S. 10A and cross-heading inserted (6.2.2024) by Health Service Procurement (Wales) Act 2024 (asc 1), ss. 3(2), 4
+[^F24]: Ss. 10B-10D and cross-heading inserted (1.1.2026) by Health and Social Care (Wales) Act 2025 (asc 1), ss. 24(2), 29(2); S.I. 2025/1257, art. 4(a)
+[^F25]: S. 12A inserted (1.4.2023) by Health and Social Care (Quality and Engagement) (Wales) Act 2020 (asc 1), ss. 2(3), 29(2); S.I. 2023/370, art. 3(1)(b)
+[^F26]: S. 13(3)(aa)(ab) inserted (1.4.2013) by Health and Social Care Act 2012 (c. 7), s. 306(4), Sch. 21 para. 16(b); S.I. 2013/160, art. 2(2) (with arts. 7-9)
+[^F27]: Words in s. 13 substituted (1.7.2022) by Health and Care Act 2022 (c. 31), s. 186(6), Sch. 1 para. 1(1)(2); S.I. 2022/734, reg. 2(a), Sch. (with regs. 13, 29, 30)
+[^F28]: S. 13(3)(ab) substituted (1.7.2022) by Health and Care Act 2022 (c. 31), s. 186(6), Sch. 4 para. 141; S.I. 2022/734, reg. 2(a), Sch. (with regs. 13, 29, 30)
+[^F29]: S. 13(3)(a) omitted (1.4.2013) by virtue of Health and Social Care Act 2012 (c. 7), s. 306(4), Sch. 21 para. 16(a); S.I. 2013/160, art. 2(2) (with arts. 7-9)
+[^F30]: Words in s. 17 substituted (1.7.2022) by Health and Care Act 2022 (c. 31), s. 186(6), Sch. 1 para. 1(1)(2); S.I. 2022/734, reg. 2(a), Sch. (with regs. 13, 29, 30)
+[^F31]: Words in s. 17(6)(g) substituted (1.7.2022) by Health and Care Act 2022 (c. 31), s. 186(6), Sch. 4 para. 142; S.I. 2022/734, reg. 2(a), Sch. (with regs. 13, 29, 30)
+[^F32]: Words in s. 17(6)(g) omitted (1.4.2013) by virtue of Health and Social Care Act 2012 (c. 7), s. 306(4), Sch. 21 para. 17(a)(ii); S.I. 2013/160, art. 2(2) (with arts. 7-9)
+[^F33]: Words in s. 17(6)(g) omitted (1.4.2013) by virtue of Health and Social Care Act 2012 (c. 7), s. 306(4), Sch. 21 para. 17(a)(iii); S.I. 2013/160, art. 2(2) (with arts. 7-9)
+[^F34]: Words in s. 17(6)(g) substituted (1.4.2013) by Health and Social Care Act 2012 (c. 7), s. 306(4), Sch. 21 para. 17(a)(iv); S.I. 2013/160, art. 2(2) (with arts. 7-9)
+[^F35]: Word in s. 17(6)(g) inserted (1.7.2022) by Health and Care Act 2022 (c. 31), ss. 26(7)(a), 186(6); S.I. 2022/734, reg. 2(a), Sch. (with regs. 13, 29, 30)
+[^F36]: Words in s. 17(6)(h) substituted (1.7.2022) by Health and Care Act 2022 (c. 31), s. 186(6), Sch. 4 para. 142; S.I. 2022/734, reg. 2(a), Sch. (with regs. 13, 29, 30)
+[^F37]: Words in s. 17(6)(h) omitted (1.4.2013) by virtue of Health and Social Care Act 2012 (c. 7), s. 306(4), Sch. 21 para. 17(b)(ii); S.I. 2013/160, art. 2(2) (with arts. 7-9)
+[^F38]: Words in s. 17(6)(h) omitted (1.4.2013) by virtue of Health and Social Care Act 2012 (c. 7), s. 306(4), Sch. 21 para. 17(b)(iii); S.I. 2013/160, art. 2(2) (with arts. 7-9)
+[^F39]: Words in s. 17(6)(h) substituted (1.4.2013) by Health and Social Care Act 2012 (c. 7), s. 306(4), Sch. 21 para. 17(b)(iv); S.I. 2013/160, art. 2(2) (with arts. 7-9)
+[^F40]: Word in s. 17(6)(h) inserted (1.7.2022) by Health and Care Act 2022 (c. 31), ss. 26(7)(a), 186(6); S.I. 2022/734, reg. 2(a), Sch. (with regs. 13, 29, 30)
+[^F41]: S. 20A inserted (1.4.2023) by Health and Social Care (Quality and Engagement) (Wales) Act 2020 (asc 1), ss. 2(4), 29(2); S.I. 2023/370, art. 3(1)(b)
+[^F42]: S. 22(6) omitted (1.2.2013) by virtue of Health and Social Care Act 2012 (c. 7), s. 306(4), Sch. 21 para. 18; S.I. 2012/2657, art. 2(4)
+[^F43]: S. 24A inserted (1.4.2023) by Health and Social Care (Quality and Engagement) (Wales) Act 2020 (asc 1), ss. 2(5), 29(2); S.I. 2023/370, art. 3(1)(b)
+[^F44]: Ss. 25A-25E and cross-headings inserted (3.8.2016 for the insertion of s. 25D, 6.4.2017 for the insertion of s. 25A, 6.4.2018 in so far as not already in force) by Nurse Staffing Levels (Wales) Act 2016 (anaw 5), ss. 1(1), 2(1); S.I. 2016/829, art. 2(a)(b)(c)
+[^F45]: Words in s. 26 substituted (1.7.2022) by Health and Care Act 2022 (c. 31), s. 186(6), Sch. 1 para. 1(1)(2); S.I. 2022/734, reg. 2(a), Sch. (with regs. 13, 29, 30)
+[^F46]: Words in s. 26(1) substituted (1.7.2022) by Health and Care Act 2022 (c. 31), s. 186(6), Sch. 4 para. 143; S.I. 2022/734, reg. 2(a), Sch. (with regs. 13, 29, 30)
+[^F47]: Words in s. 27(1) omitted (1.2.2013) by virtue of Health and Social Care Act 2012 (c. 7), s. 306(4), Sch. 21 para. 20(a); S.I. 2012/2657, art. 2(4)
+[^F48]: Words in s. 27(1) omitted (1.2.2013) by virtue of Health and Social Care Act 2012 (c. 7), s. 306(4), Sch. 21 para. 20(b); S.I. 2012/2657, art. 2(4)
+[^F49]: Words in s. 28 substituted (1.7.2022) by Health and Care Act 2022 (c. 31), s. 186(6), Sch. 1 para. 1(1)(2); S.I. 2022/734, reg. 2(a), Sch. (with regs. 13, 29, 30)
+[^F50]: Words in s. 28(1) substituted (1.7.2022) by Health and Care Act 2022 (c. 31), s. 186(6), Sch. 4 para. 144; S.I. 2022/734, reg. 2(a), Sch. (with regs. 13, 29, 30)
+[^F51]: Words in s. 30(1) inserted (27.2.2020) by National Health Service (Indemnities) (Wales) Act 2020 (anaw 2), ss. 1(2)(a), 2(2)
+[^F52]: Words in s. 30(1) inserted (27.2.2020) by National Health Service (Indemnities) (Wales) Act 2020 (anaw 2), ss. 1(2)(b), 2(2)
+[^F53]: Words in s. 30(2) inserted (27.2.2020) by National Health Service (Indemnities) (Wales) Act 2020 (anaw 2), ss. 1(3)(a), 2(2)
+[^F54]: Word in s. 30(2)(b) omitted (27.2.2020) by virtue of National Health Service (Indemnities) (Wales) Act 2020 (anaw 2), ss. 1(3)(b), 2(2)
+[^F55]: S. 30(2)(e) and word omitted (1.4.2013) by virtue of Health and Social Care Act 2012 (c. 7), s. 306(4), Sch. 7 para. 22(b); S.I. 2013/160, art. 2(2) (with arts. 7-9)
+[^F56]: S. 30(2)(d) repealed (1.4.2009) by Health and Social Care Act 2008 (c. 14), ss. 95, 166, 170, Sch. 5 para. 88(b), Sch. 15 Pt. 1; S.I. 2009/462, art. 2, Sch. 1 paras. 35, 36
+[^F57]: S. 30(2)(f)(g) inserted (27.2.2020) by National Health Service (Indemnities) (Wales) Act 2020 (anaw 2), ss. 1(3)(c), 2(2)
+[^F58]: Words in s. 30(2) substituted (27.2.2020) by National Health Service (Indemnities) (Wales) Act 2020 (anaw 2), ss. 1(3)(d)(i), 2(2)
+[^F59]: Words in s. 30(2) inserted (27.2.2020) by National Health Service (Indemnities) (Wales) Act 2020 (anaw 2), ss. 1(3)(d)(ii), 2(2)
+[^F60]: Words in s. 30(3) substituted (27.2.2020) by National Health Service (Indemnities) (Wales) Act 2020 (anaw 2), ss. 1(4)(a), 2(2)
+[^F61]: Words in s. 30(3)(b) inserted (27.2.2020) by National Health Service (Indemnities) (Wales) Act 2020 (anaw 2), ss. 1(4)(b), 2(2)
+[^F62]: Words in s. 30(4) substituted (27.2.2020) by National Health Service (Indemnities) (Wales) Act 2020 (anaw 2), ss. 1(5), 2(2)
+[^F63]: Words in s. 30(5) substituted (27.2.2020) by National Health Service (Indemnities) (Wales) Act 2020 (anaw 2), ss. 1(6), 2(2)
+[^F64]: Words in s. 30(7) substituted (27.2.2020) by National Health Service (Indemnities) (Wales) Act 2020 (anaw 2), ss. 1(7), 2(2)
+[^F65]: S. 30(8)-(11) inserted (27.2.2020) by National Health Service (Indemnities) (Wales) Act 2020 (anaw 2), ss. 1(8), 2(2)
+[^F66]: S. 32(4) substituted (6.4.2016) by The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413), regs. 2(1), 245
+[^F67]: Words in s. 34 substituted (1.7.2022) by Health and Care Act 2022 (c. 31), s. 186(6), Sch. 1 para. 1(1)(2); S.I. 2022/734, reg. 2(a), Sch. (with regs. 13, 29, 30)
+[^F68]: Words in s. 34(1) substituted (1.7.2022) by Health and Care Act 2022 (c. 31), s. 186(6), Sch. 4 para. 145; S.I. 2022/734, reg. 2(a), Sch. (with regs. 13, 29, 30)
+[^F69]: Words in s. 34(1) omitted (1.4.2013) by virtue of Health and Social Care Act 2012 (c. 7), s. 306(4), Sch. 21 para. 22(b); S.I. 2013/160, art. 2(2) (with arts. 7-9)
+[^F70]: Words in s. 34(1) omitted (1.4.2013) by virtue of Health and Social Care Act 2012 (c. 7), s. 306(4), Sch. 21 para. 22(c); S.I. 2013/160, art. 2(2) (with arts. 7-9)
+[^F71]: Words in s. 35(11) inserted (6.4.2016) by The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413), regs. 2(1), 246(a)
+[^F72]: S. 35(11A) inserted (6.4.2016) by The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413), regs. 2(1), 246(b)
+[^F73]: Words in s. 35(12) substituted (6.4.2016) by The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413), regs. 2(1), 246(c)
+[^F74]: S. 36(3)(a) omitted (1.4.2013) by virtue of Health and Social Care Act 2012 (c. 7), s. 306(4), Sch. 21 para. 23(a); S.I. 2013/160, art. 2(2) (with arts. 7-9)
+[^F75]: S. 36(3)(b) omitted (1.4.2013) by virtue of Health and Social Care Act 2012 (c. 7), s. 306(4), Sch. 21 para. 23(b); S.I. 2013/160, art. 2(2) (with arts. 7-9)
+[^F76]: Words in s. 36(5) substituted (6.4.2016) by The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413), regs. 2(1), 247
+[^F77]: Words in s. 38(3)(a) omitted (1.4.2013) by virtue of Health and Social Care Act 2012 (c. 7), s. 306(4), Sch. 21 para. 24(2)(a); S.I. 2013/160, art. 2(2) (with arts. 7-9)
+[^F78]: Words in s. 38(3)(b) omitted (1.4.2013) by virtue of Health and Social Care Act 2012 (c. 7), s. 306(4), Sch. 21 para. 24(2)(b); S.I. 2013/160, art. 2(2) (with arts. 7-9)
+[^F79]: Words in s. 38(6) omitted (1.4.2013) by virtue of Health and Social Care Act 2012 (c. 7), s. 306(4), Sch. 21 para. 24(3); S.I. 2013/160, art. 2(2) (with arts. 7-9)
+[^F80]: Words in s. 38(7)(d) omitted (1.4.2013) by virtue of Health and Social Care Act 2012 (c. 7), s. 306(4), Sch. 21 para. 24(4); S.I. 2013/160, art. 2(2) (with arts. 7-9)
+[^F81]: Words in s. 39(3) omitted (1.4.2013) by virtue of Health and Social Care Act 2012 (c. 7), s. 306(4), Sch. 21 para. 25; S.I. 2013/160, art. 2(2) (with arts. 7-9)
+[^F82]: S. 40 repealed (1.4.2016) by Well-being of Future Generations (Wales) Act 2015 (anaw 2), s. 56(2), Sch. 4 para. 19; S.I. 2016/86, art. 3
+[^F83]: S. 41(4) omitted (1.4.2013) by virtue of Health and Social Care Act 2012 (c. 7), s. 306(4), Sch. 21 para. 26; S.I. 2013/160, art. 2(2) (with arts. 7-9)
+[^F84]: Word in s. 46(3) substituted (31.12.2020) by The National Health Service (Cross-Border Healthcare and Miscellaneous Amendments etc.) (EU Exit) Regulations 2019 (S.I. 2019/777), regs. 1(1), 4(2)(a) (with reg. 15, Sch. 1) (as amended by S.I. 2020/1348, regs. 10-12);. 2020 c. 1, Sch. 5 para. 1(1)
+[^F85]: S. 46(4) substituted (31.12.2020) by The National Health Service (Cross-Border Healthcare and Miscellaneous Amendments etc.) (EU Exit) Regulations 2019 (S.I. 2019/777), regs. 1(1), 4(2)(b) (with reg. 15, Sch. 1) (as amended by S.I. 2020/1348, regs. 10-12);. 2020 c. 1, Sch. 5 para. 1(1)
+[^F86]: Words in s. 51(1)(g) omitted (1.4.2013) by virtue of Health and Social Care Act 2012 (c. 7), s. 306(4), Sch. 21 para. 27(2); S.I. 2013/160, art. 2(2) (with arts. 7-9)
+[^F87]: Words in s. 51(3) omitted (1.4.2013) by virtue of Health and Social Care Act 2012 (c. 7), s. 306(4), Sch. 21 para. 27(3); S.I. 2013/160, art. 2(2) (with arts. 7-9)
+[^F88]: Words in s. 52(3)(h) substituted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 9 para. 52; S.I. 2014/954, art. 2(c) (with art. 3)
+[^F89]: S. 56(4) omitted (1.4.2013) by virtue of Health and Social Care Act 2012 (c. 7), s. 306(4), Sch. 21 para. 28; S.I. 2013/160, art. 2(2) (with arts. 7-9)
+[^F90]: Words in s. 62(5) substituted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 9 para. 52; S.I. 2014/954, art. 2(c) (with art. 3)
+[^F91]: Words in s. 65(1)(g) omitted (1.4.2013) by virtue of Health and Social Care Act 2012 (c. 7), s. 306(4), Sch. 21 para. 29(2); S.I. 2013/160, art. 2(2) (with arts. 7-9)
+[^F92]: Words in s. 65(3) omitted (1.4.2013) by virtue of Health and Social Care Act 2012 (c. 7), s. 306(4), Sch. 21 para. 29(3); S.I. 2013/160, art. 2(2) (with arts. 7-9)
+[^F93]: Words in s. 66(3)(h) substituted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 9 para. 52; S.I. 2014/954, art. 2(c) (with art. 3)
+[^F94]: Words in s. 72(3)(c) substituted (17.6.2013) by Protection of Freedoms Act 2012 (c. 9), s. 120, Sch. 9 para. 125 (with s. 97); S.I. 2013/1180, art. 2(e)(v)
+[^F95]: Words in s. 72(4) substituted (18.1.2010) by The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22), arts. 1(1), 5(1), Sch. 2 para. 130
+[^F96]: Words in s. 80(4)(a) substituted (2.12.2019) by Children and Social Work Act 2017 (c. 16), s. 70(2), Sch. 5 para. 47(k); S.I. 2019/1436, reg. 2(s)
+[^F97]: S. 80(4A) substituted (2.12.2019) by Children and Social Work Act 2017 (c. 16), s. 70(2), Sch. 5 para. 31; S.I. 2019/1436, reg. 2(s)
+[^F98]: S. 82A inserted (1.4.2019) by Public Health (Wales) Act 2017 (anaw 2), ss. 111(1), 126(2); S.I. 2019/829, art. 2
+[^F99]: Words in s. 83(2)(c) substituted (1.4.2019) by Public Health (Wales) Act 2017 (anaw 2), ss. 112(2), 126(2); S.I. 2019/829, art. 2
+[^F100]: S. 83(2A)-(2C) inserted (1.4.2019) by Public Health (Wales) Act 2017 (anaw 2), ss. 112(3), 126(2); S.I. 2019/829, art. 2
+[^F101]: S. 83(3A) inserted (1.4.2019) by Public Health (Wales) Act 2017 (anaw 2), ss. 112(4), 126(2); S.I. 2019/829, art. 2
+[^F102]: Words in s. 83(4) substituted (1.4.2019) by Public Health (Wales) Act 2017 (anaw 2), ss. 112(5)(a), 126(2); S.I. 2019/829, art. 2
+[^F103]: S. 83(4)(a) omitted (1.4.2019) by virtue of Public Health (Wales) Act 2017 (anaw 2), ss. 112(5)(b), 126(2); S.I. 2019/829, art. 2
+[^F104]: Words in s. 83(4)(b) substituted (1.4.2019) by Public Health (Wales) Act 2017 (anaw 2), ss. 112(5)(c), 126(2); S.I. 2019/829, art. 2
+[^F105]: Words in s. 83(4)(c) substituted (1.4.2019) by Public Health (Wales) Act 2017 (anaw 2), ss. 112(5)(d), 126(2); S.I. 2019/829, art. 2
+[^F106]: S. 83(4A) inserted (1.4.2019) by Public Health (Wales) Act 2017 (anaw 2), ss. 112(6), 126(2); S.I. 2019/829, art. 2
+[^F107]: S. 83(6)(za) inserted (1.4.2019) by Public Health (Wales) Act 2017 (anaw 2), ss. 112(7)(a), 126(2); S.I. 2019/829, art. 2
+[^F108]: Words in s. 83(6)(c) substituted (27.9.2010) by The Pharmacy Order 2010 (S.I. 2010/231), arts. 1, 68, Sch. 4 para. 14(2); S.I. 2010/1621, art. 2(1), Sch.
+[^F109]: S. 83(6)(fa) inserted (1.4.2019) by Public Health (Wales) Act 2017 (anaw 2), ss. 112(7)(b), 126(2); S.I. 2019/829, art. 2
+[^F110]: Words in s. 83(6)(g) inserted (1.4.2019) by Public Health (Wales) Act 2017 (anaw 2), ss. 112(7)(c), 126(2); S.I. 2019/829, art. 2
+[^F111]: Words in s. 83(6)(i) substituted (17.6.2013) by Protection of Freedoms Act 2012 (c. 9), s. 120, Sch. 9 para. 126 (with s. 97); S.I. 2013/1180, art. 2(e)(v)
+[^F112]: S. 83(6)(n) inserted (1.4.2019) by Public Health (Wales) Act 2017 (anaw 2), ss. 112(7)(d), 126(2); S.I. 2019/829, art. 2
+[^F113]: S. 83(6A) inserted (1.4.2019) by Public Health (Wales) Act 2017 (anaw 2), ss. 112(8), 126(2); S.I. 2019/829, art. 2
+[^F114]: S. 83(10A) inserted (1.4.2019) by Public Health (Wales) Act 2017 (anaw 2), ss. 112(9), 126(2); S.I. 2019/829, art. 2
+[^F115]: Words in s. 84(2) inserted (1.4.2019) by Public Health (Wales) Act 2017 (anaw 2), ss. 112(10)(a), 126(2); S.I. 2019/829, art. 2
+[^F116]: Words in s. 84(2) omitted (1.4.2019) by virtue of Public Health (Wales) Act 2017 (anaw 2), ss. 112(10)(b), 126(2); S.I. 2019/829, art. 2
+[^F117]: Words in s. 84(2) substituted (18.1.2010) by The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22), arts. 1(1), 5(1), Sch. 2 para. 131
+[^F118]: S. 84(4) inserted (1.4.2019) by Public Health (Wales) Act 2017 (anaw 2), ss. 112(11), 126(2); S.I. 2019/829, art. 2
+[^F119]: Words in s. 86(4)(c) substituted (17.6.2013) by Protection of Freedoms Act 2012 (c. 9), s. 120, Sch. 9 para. 127 (with s. 97); S.I. 2013/1180, art. 2(e)(v)
+[^F120]: Words in s. 86(5) substituted (18.1.2010) by The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22), arts. 1(1), 5(1), Sch. 2 para. 132
+[^F121]: S. 86(8)(b) substituted (27.9.2010) by The Pharmacy Order 2010 (S.I. 2010/231), arts. 1, 68, Sch. 4 para. 14(3); S.I. 2010/1621, art. 2(1), Sch.
+[^F122]: S. 86(9) omitted (in accordance with art. 1(2)(3) of the amending S.I.) by virtue of The Pharmacists and Pharmacy Technicians Order 2007 (S.I. 2007/289), art. 67, Sch. 1 para. 11(3)(b)
+[^F123]: S. 88(8A)-(8E) inserted (21.11.2022) by Health Service Medical Supplies (Costs) Act 2017 (c. 23), ss. 2, 12(2); S.I. 2022/1201, art. 2
+[^F124]: Words in s. 88(8A) substituted (22.11.2022 for W.) by Health and Care Act 2022 (c. 31), ss. 161(2)(a), 186(2); S.I. 2022/1202, reg. 2
+[^F125]: Words in s. 88(8D) substituted (22.11.2022 for W.) by Health and Care Act 2022 (c. 31), ss. 161(2)(b)(i), 186(2); S.I. 2022/1202, reg. 2
+[^F126]: Words in s. 88(8D)(b) substituted (22.11.2022 for W.) by Health and Care Act 2022 (c. 31), ss. 161(2)(b)(ii), 186(2); S.I. 2022/1202, reg. 2
+[^F127]: Words in s. 88(8E) omitted (22.11.2022 for W.) by virtue of Health and Care Act 2022 (c. 31), ss. 161(2)(c), 186(2); S.I. 2022/1202, reg. 2
+[^F128]: S. 88(8F) inserted (22.11.2022 for W.) by Health and Care Act 2022 (c. 31), ss. 161(2)(d), 186(2); S.I. 2022/1202, reg. 2
+[^F129]: Words in s. 97(8) substituted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 9 para. 52; S.I. 2014/954, art. 2(c) (with art. 3)
+[^F130]: Words in s. 104(4)(5) substituted (18.1.2010) by The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22), arts. 1(1), 5(1), Sch. 2 para. 133
+[^F131]: Words in s. 105(3)(g) substituted (17.6.2013) by Protection of Freedoms Act 2012 (c. 9), s. 120, Sch. 9 para. 128 (with s. 97); S.I. 2013/1180, art. 2(e)(v)
+[^F132]: Words in s. 105(8)(9) substituted (18.1.2010) by The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22), arts. 1(1), 5(1), Sch. 2 para. 134
+[^F133]: S. 106(2)(e) omitted (1.4.2013) by virtue of Health and Social Care Act 2012 (c. 7), s. 306(4), Sch. 21 para. 30(a); S.I. 2013/160, art. 2(2) (with arts. 7-9)
+[^F134]: S. 106(2)(f) inserted (1.4.2013) by Health and Social Care Act 2012 (c. 7), s. 306(4), Sch. 21 para. 30(b); S.I. 2013/160, art. 2(2) (with arts. 7-9)
+[^F135]: Words in s. 106 substituted (1.7.2022) by Health and Care Act 2022 (c. 31), s. 186(6), Sch. 1 para. 1(1)(2); S.I. 2022/734, reg. 2(a), Sch. (with regs. 13, 29, 30)
+[^F136]: Pt. 8 Ch. 1A inserted (prosp.) by Health Act 2009 (c. 21), ss. 31(1), 40
+[^F137]: Words in s. 107(9) inserted (26.9.2023) by Health Act 2009 (c. 21), ss. 31(2), 40(1); S.I. 2023/1039, art. 2
+[^F138]: Words in s. 110(6)(b)(c)(7)(8) substituted (18.1.2010) by The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22), arts. 1(1), 5(1), Sch. 2 para. 135
+[^F139]: Words in s. 111(4)(6) substituted (18.1.2010) by The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22), arts. 1(1), 5(1), Sch. 2 para. 136
+[^F140]: Words in s. 113(1) substituted (18.1.2010) by The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22), arts. 1(1), 5(1), Sch. 2 para. 137
+[^F141]: Words in s. 114(1) substituted (18.1.2010) by The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22), arts. 1(1), 5(1), Sch. 2 para. 138(a)(i)
+[^F142]: Words in s. 114(1) omitted (18.1.2010) by virtue of The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22), arts. 1(1), 5(1), Sch. 2 para. 138(a)(ii)
+[^F143]: Words in s. 114(4)(5)(6)(b)(7) substituted (18.1.2010) by The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22), arts. 1(1), 5(1), Sch. 2 para. 138(b)
+[^F144]: Words in s. 115(1)-(4)(6)(7) substituted (18.1.2010) by The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22), arts. 1(1), 5(1), Sch. 2 para. 139(a)
+[^F145]: S. 115(1)(e) omitted (1.4.2013) by virtue of Health and Social Care Act 2012 (c. 7), s. 306(4), Sch. 21 para. 31(2)(a); S.I. 2013/160, art. 2(2) (with arts. 7-9)
+[^F146]: S. 115(1)(f) inserted (1.4.2013) by Health and Social Care Act 2012 (c. 7), s. 306(4), Sch. 21 para. 31(2)(b); S.I. 2013/160, art. 2(2) (with arts. 7-9)
+[^F147]: Words in s. 115 substituted (1.7.2022) by Health and Care Act 2022 (c. 31), s. 186(6), Sch. 1 para. 1(1)(2); S.I. 2022/734, reg. 2(a), Sch. (with regs. 13, 29, 30)
+[^F148]: Words in s. 115(1) inserted (1.4.2013) by Health and Social Care Act 2012 (c. 7), s. 306(4), Sch. 21 para. 31(2)(c); S.I. 2013/160, art. 2(2) (with arts. 7-9)
+[^F149]: Words in s. 115(1) omitted (1.4.2013) by virtue of Health and Social Care Act 2012 (c. 7), s. 306(4), Sch. 21 para. 31(2)(d); S.I. 2013/160, art. 2(2) (with arts. 7-9)
+[^F150]: Words in s. 115(6)(a) omitted (1.4.2013) by virtue of Health and Social Care Act 2012 (c. 7), s. 306(4), Sch. 21 para. 31(3)(a)(i); S.I. 2013/160, art. 2(2) (with arts. 7-9)
+[^F151]: Words in s. 115(6)(a) inserted (1.4.2013) by Health and Social Care Act 2012 (c. 7), s. 306(4), Sch. 21 para. 31(3)(a)(ii); S.I. 2013/160, art. 2(2) (with arts. 7-9)
+[^F152]: Words in s. 115(6)(b) inserted (1.4.2013) by Health and Social Care Act 2012 (c. 7), s. 306(4), Sch. 21 para. 31(3)(b)(ii); S.I. 2013/160, art. 2(2) (with arts. 7-9)
+[^F153]: Words in s. 115(6)(b) omitted (1.4.2013) by virtue of Health and Social Care Act 2012 (c. 7), s. 306(4), Sch. 21 para. 31(3)(b)(i); S.I. 2013/160, art. 2(2) (with arts. 7-9)
+[^F154]: Words in s. 115(8)(b) substituted (18.1.2010) by The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22), arts. 1(1), 5(1), Sch. 2 para. 139(b)
+[^F155]: S. 131(a) substituted (1.6.2010) by The National Health Service (Reimbursement of the Cost of EEA Treatment) Regulations 2010 (S.I. 2010/915), reg. 6
+[^F156]: S. 131(a)(ii) omitted (31.12.2020) by virtue of The National Health Service (Cross-Border Healthcare and Miscellaneous Amendments etc.) (EU Exit) Regulations 2019 (S.I. 2019/777), regs. 1(1), 4(3)(e) (with reg. 15, Sch. 1) (as amended by S.I. 2020/1348, regs. 10-12);. 2020 c. 1, Sch. 5 para. 1(1)
+[^F157]: S. 131(a)(iii) and word omitted (31.12.2020) by virtue of The Social Security Coordination (Reciprocal Healthcare) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/776), regs. 1(1), 4(a); 2020 c. 1, Sch. 5 para. 1(1)
+[^F158]: Words in s. 131(c) omitted (1.4.2013) by virtue of Health and Social Care Act 2012 (c. 7), s. 306(4), Sch. 21 para. 32; S.I. 2013/160, art. 2(2) (with arts. 7-9)
+[^F159]: Words in s. 142(4) repealed (1.1.2010) by Legal Services Act 2007 (c. 29), ss. 208, 210, 211, Sch. 21, para. 155, Sch. 23 (with ss. 29, 192, 193); S.I. 2009/3250, art. 2(h)(i)(xii) (with art. 9)
+[^F160]: Words in s. 144(2) substituted (1.2.2013) by Health and Social Care Act 2012 (c. 7), s. 306(4), Sch. 21 para. 33; S.I. 2012/2657, art. 2(4)
+[^F161]: Words in s. 149(4) substituted (1.12.2012) by Health and Social Care Act 2012 (c. 7), s. 306(4), Sch. 15 para. 68(c); S.I. 2012/2657, art. 2(3)
+[^F162]: Words in s. 152(6)(b) substituted (7.2.2023 at 12.00 p.m.) by The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149), regs. 1(2), 2(1), Sch. Pt. 1
+[^F163]: Words in s. 156(1) substituted (28.4.2022) by The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500), regs. 1(2), 5(1), Sch. Pt. 1
+[^F164]: Words in s. 156(1) substituted (7.2.2023 at 12.00 p.m.) by The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149), regs. 1(2), 2(1), Sch. Pt. 1
+[^F165]: Words in s. 161(2)(c) omitted (17.6.2021) by virtue of NHS (Charitable Trusts Etc) Act 2016 (c. 10), s. 5(1), Sch. 1 para. 12(a)(i); S.I. 2021/712, reg. 3(c)
+[^F166]: Words in s. 161(2)(c) omitted (1.4.2013) by virtue of Health and Social Care Act 2012 (c. 7), s. 306(4), Sch. 21 para. 34(b); S.I. 2013/160, art. 2(2) (with arts. 7-9)
+[^F167]: Words in s. 161(2)(c) omitted (17.6.2021) by virtue of NHS (Charitable Trusts Etc) Act 2016 (c. 10), s. 5(1), Sch. 1 para. 12(a)(ii); S.I. 2021/712, reg. 3(c)
+[^F168]: S. 161(5) omitted (17.6.2021) by virtue of NHS (Charitable Trusts Etc) Act 2016 (c. 10), s. 5(1), Sch. 1 para. 12(b); S.I. 2021/712, reg. 3(c)
+[^F169]: Words in s. 162 substituted (1.7.2022) by Health and Care Act 2022 (c. 31), s. 186(6), Sch. 1 para. 1(1)(2); S.I. 2022/734, reg. 2(a), Sch. (with regs. 13, 29, 30)
+[^F170]: Words in s. 162(1) substituted (1.7.2022) by Health and Care Act 2022 (c. 31), s. 186(6), Sch. 4 para. 146; S.I. 2022/734, reg. 2(a), Sch. (with regs. 13, 29, 30)
+[^F171]: Words in s. 162(1) omitted (1.4.2013) by virtue of Health and Social Care Act 2012 (c. 7), s. 306(4), Sch. 21 para. 35(2)(b); S.I. 2013/160, art. 2(2) (with arts. 7-9)
+[^F172]: Words in s. 162(3)(a) omitted (17.6.2021) by virtue of NHS (Charitable Trusts Etc) Act 2016 (c. 10), s. 5(1), Sch. 1 para. 13(a)(i); S.I. 2021/712, reg. 3(c)
+[^F173]: Words in s. 162(3)(a) omitted (1.4.2013) by virtue of Health and Social Care Act 2012 (c. 7), s. 306(4), Sch. 21 para. 35(3)(b); S.I. 2013/160, art. 2(2) (with arts. 7-9)
+[^F174]: Words in s. 162(3)(a) omitted (17.6.2021) by virtue of NHS (Charitable Trusts Etc) Act 2016 (c. 10), s. 5(1), Sch. 1 para. 13(a)(ii); S.I. 2021/712, reg. 3(c)
+[^F175]: S. 162(6) omitted (17.6.2021) by virtue of NHS (Charitable Trusts Etc) Act 2016 (c. 10), s. 5(1), Sch. 1 para. 13(b); S.I. 2021/712, reg. 3(c)
+[^F176]: Words in s. 163(3) omitted (1.7.2022) by virtue of Health and Care Act 2022 (c. 31), s. 186(6), Sch. 7 para. 7; S.I. 2022/734, reg. 2(a), Sch. (with regs. 13, 29, 30)
+[^F177]: Words in s. 165(5) substituted (14.3.2012) by Charities Act 2011 (c. 25), s. 355, Sch. 7 para. 112 (with s. 20(2), Sch. 8)
+[^F178]: Words in s. 170(4) substituted (1.10.2009) by The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941), art. 2(1), Sch. 1 para. 259 (with art. 10)
+[^F179]: Words in s. 174(1)(a)(2)(a)(b)(12) repealed (21.5.2010) by Health and Social Care Act 2008 (c. 14), ss. 140, 166, 170, Sch. 12 para. 7, Sch. 15 Pt. 4; S.I. 2010/1457, art. 2
+[^F180]: S. 175(1) substituted (1.4.2014) by National Health Service Finance (Wales) Act 2014 (anaw 2), ss. 2(2), 3(2)
+[^F181]: S. 175(2) substituted (1.4.2014) by National Health Service Finance (Wales) Act 2014 (anaw 2), ss. 2(3), 3(2)
+[^F182]: S. 175(2A) inserted (1.4.2014) by National Health Service Finance (Wales) Act 2014 (anaw 2), ss. 2(4), 3(2)
+[^F183]: S. 175(6A) inserted (1.4.2014) by National Health Service Finance (Wales) Act 2014 (anaw 2), ss. 2(5), 3(2)
+[^F184]: S. 175(8) inserted (1.4.2014) by National Health Service Finance (Wales) Act 2014 (anaw 2), ss. 2(6), 3(2)
+[^F185]: S. 176 repealed (1.4.2014) by National Health Service Finance (Wales) Act 2014 (anaw 2), ss. 2(7), 3(2)
+[^F186]: Words in s. 181(2)(b) omitted (1.4.2013) by virtue of Health and Social Care Act 2012 (c. 7), s. 306(4), Sch. 21 para. 36(a); S.I. 2013/160, art. 2(2) (with arts. 7-9)
+[^F187]: Word in s. 181(2)(b) inserted (1.4.2013) by Health and Social Care Act 2012 (c. 7), s. 306(4), Sch. 21 para. 36(b); S.I. 2013/160, art. 2(2) (with arts. 7-9)
+[^F188]: S. 182 repealed (1.4.2023) by Health and Social Care (Quality and Engagement) (Wales) Act 2020 (asc 1), ss. 23(1), 29(2); S.I. 2023/370, art. 3(1)(q)
+[^F189]: Words in s. 184(2)(b) inserted (1.1.2026) by Health and Social Care (Wales) Act 2025 (asc 1), s. 29(2), Sch. 2 para. 3(2)(a)(i); S.I. 2025/1257, art. 4(b)
+[^F190]: Words in s. 184(2)(b) substituted (1.7.2022) by Health and Care Act 2022 (c. 31), s. 186(6), Sch. 5 para. 33; S.I. 2022/734, reg. 2(a), Sch. (with regs. 13, 29, 30)
+[^F191]: Words in s. 184(2)(c) inserted (1.1.2026) by Health and Social Care (Wales) Act 2025 (asc 1), s. 29(2), Sch. 2 para. 3(2)(a)(ii); S.I. 2025/1257, art. 4(b)
+[^F192]: Words in s. 184(2)(d) inserted (1.1.2026) by Health and Social Care (Wales) Act 2025 (asc 1), s. 29(2), Sch. 2 para. 3(2)(a)(iii); S.I. 2025/1257, art. 4(b)
+[^F193]: Words in s. 184(2)(e) inserted (1.1.2026) by Health and Social Care (Wales) Act 2025 (asc 1), s. 29(2), Sch. 2 para. 3(2)(a)(iv); S.I. 2025/1257, art. 4(b)
+[^F194]: Words in s. 184(2)(f) inserted (1.1.2026) by Health and Social Care (Wales) Act 2025 (asc 1), s. 29(2), Sch. 2 para. 3(2)(a)(v); S.I. 2025/1257, art. 4(b)
+[^F195]: S. 184(3A) inserted (1.1.2026) by Health and Social Care (Wales) Act 2025 (asc 1), s. 29(2), Sch. 2 para. 3(2)(b); S.I. 2025/1257, art. 4(b)
+[^F196]: Word in s. 185(3)(b)(i) substituted (1.4.2009) by Local Government and Public Involvement in Health Act 2007 (c. 28), ss. 127(4)(a), 245(5); S.I. 2008/3110, art. 4(g)
+[^F197]: S. 185(3)(b)(ia) inserted (1.4.2009) by Local Government and Public Involvement in Health Act 2007 (c. 28), ss. 127(4)(b), 245(5); S.I. 2008/3110, art. 4(g)
+[^F198]: Word in s. 186(3)(a) omitted (1.1.2026) by virtue of Health and Social Care (Wales) Act 2025 (asc 1), s. 29(2), Sch. 2 para. 3(3)(a); S.I. 2025/1257, art. 4(b)
+[^F199]: S. 186(3)(ab) inserted (1.1.2026) by Health and Social Care (Wales) Act 2025 (asc 1), s. 29(2), Sch. 2 para. 3(3)(b); S.I. 2025/1257, art. 4(b)
+[^F200]: Words in s. 187(2)(a) inserted (1.1.2026) by Health and Social Care (Wales) Act 2025 (asc 1), s. 29(2), Sch. 2 para. 3(4)(a)(i); S.I. 2025/1257, art. 4(b)
+[^F201]: Words in s. 187(2)(a) substituted (1.11.2014) by Social Services and Well-being (Wales) Act 2014 (anaw 4), ss. 180(2)(a), 199(2); S.I. 2014/2718, art. 2(c)
+[^F202]: Words in s. 187(2)(c) omitted (1.11.2014) by virtue of Social Services and Well-being (Wales) Act 2014 (anaw 4), ss. 180(2)(b), 199(2); S.I. 2014/2718, art. 2(c)
+[^F203]: S. 187(2)(ca) inserted (1.11.2014) by Social Services and Well-being (Wales) Act 2014 (anaw 4), ss. 180(2)(c), 199(2); S.I. 2014/2718, art. 2(c)
+[^F204]: Words in s. 187(2)(ca) inserted (1.1.2026) by Health and Social Care (Wales) Act 2025 (asc 1), s. 29(2), Sch. 2 para. 3(4)(a)(ii); S.I. 2025/1257, art. 4(b)
+[^F205]: Words in s. 187(2)(ca) inserted (1.4.2023) by Health and Social Care (Quality and Engagement) (Wales) Act 2020 (asc 1), s. 29(2), Sch. 3 para. 18(a); S.I. 2023/370, art. 3(1)(t)
+[^F206]: Words in s. 187(3) inserted (1.1.2026) by Health and Social Care (Wales) Act 2025 (asc 1), s. 29(2), Sch. 2 para. 3(4)(b); S.I. 2025/1257, art. 4(b)
+[^F207]: Words in s. 187(3) inserted (1.4.2023) by Health and Social Care (Quality and Engagement) (Wales) Act 2020 (asc 1), s. 29(2), Sch. 3 para. 18(b); S.I. 2023/370, art. 3(1)(t)
+[^F208]: Words in s. 187(3) substituted (23.7.2019) by Public Services Ombudsman (Wales) Act 2019 (anaw 3), s. 77(1), Sch. 5 para. 22(a); S.I. 2019/1096, reg. 2
+[^F209]: Words in s. 187(3) inserted (1.11.2014) by Social Services and Well-being (Wales) Act 2014 (anaw 4), ss. 180(3), 199(2); S.I. 2014/2718, art. 2(c)
+[^F210]: Words in s. 187(3) substituted (23.7.2019) by Public Services Ombudsman (Wales) Act 2019 (anaw 3), s. 77(1), Sch. 5 para. 22(b); S.I. 2019/1096, reg. 2
+[^F211]: Words in s. 187(3) substituted (23.7.2019) by Public Services Ombudsman (Wales) Act 2019 (anaw 3), s. 77(1), Sch. 5 para. 22(c); S.I. 2019/1096, reg. 2
+[^F212]: S. 192(1) omitted (6.4.2016) by virtue of The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413), regs. 2(1), 248(a)
+[^F213]: S. 192(2)(c) substituted (5.5.2010) by The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158), art. 5(1), Sch. 2 para. 61(2)
+[^F214]: S. 192(4)(b) and preceding word omitted (6.4.2016) by virtue of The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413), regs. 2(1), 248(b)
+[^F215]: Words in s. 192(5) omitted (6.4.2016) by virtue of The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413), regs. 2(1), 248(c)
+[^F216]: S. 194(1)(a) substituted (6.4.2016) by The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413), regs. 2(1), 249(a)
+[^F217]: S. 194(1)(aa) inserted (6.4.2016) by The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413), regs. 2(1), 249(b)
+[^F218]: Words in s. 194(1)(c) substituted (5.5.2010) by The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158), art. 5(1), Sch. 2 para. 61(3)
+[^F219]: S. 194(2)(ab) inserted (1.4.2010) by The Housing and Regeneration Act 2008 (Consequential Provisions) Order 2010 (S.I. 2010/866), art. 5, Sch. 2 para. 135(a) (with art. 6 Sch. 3)
+[^F220]: S. 194(2)(b) substituted (1.12.2008 in accordance with art. 1 of the amending S.I.) by The Housing and Regeneration Act 2008 (Consequential Provisions) Order 2008 (S.I. 2008/3002), art. 4, Sch. 1 para. 56 (with art. 5, Sch. 2)
+[^F221]: Words in s. 194(2)(e) substituted (1.4.2010) by The Housing and Regeneration Act 2008 (Consequential Provisions) Order 2010 (S.I. 2010/866), art. 5, Sch. 2 para. 135(b) (with art. 6 Sch. 3)
+[^F222]: S. 196(2)(b) substituted (1.12.2008 in accordance with art. 1 of the amending S.I.) by The Housing and Regeneration Act 2008 (Consequential Provisions) Order 2008 (S.I. 2008/3002), art. 4, Sch. 1 para. 57
+[^F223]: Words in s. 197(2)(a) inserted (1.4.2013) by Health and Social Care Act 2012 (c. 7), s. 306(4), Sch. 21 para. 37(a); S.I. 2013/160, art. 2(2) (with arts. 7-9)
+[^F224]: Words in s. 197 substituted (1.7.2022) by Health and Care Act 2022 (c. 31), s. 186(6), Sch. 1 para. 1(1)(2); S.I. 2022/734, reg. 2(a), Sch. (with regs. 13, 29, 30)
+[^F225]: Words in s. 197(2)(a) substituted (1.7.2022) by Health and Care Act 2022 (c. 31), s. 186(6), Sch. 4 para. 147; S.I. 2022/734, reg. 2(a), Sch. (with regs. 13, 29, 30)
+[^F226]: Words in s. 197(2)(a) omitted (1.4.2013) by virtue of Health and Social Care Act 2012 (c. 7), s. 306(4), Sch. 21 para. 37(c); S.I. 2013/160, art. 2(2) (with arts. 7-9)
+[^F227]: Words in s. 197(2)(a) omitted (1.4.2013) by virtue of Health and Social Care Act 2012 (c. 7), s. 306(4), Sch. 21 para. 37(d); S.I. 2013/160, art. 2(2) (with arts. 7-9)
+[^F228]: S. 199(3)(d) substituted (1.12.2008 in accordance with art. 1 of the amending S.I.) by The Housing and Regeneration Act 2008 (Consequential Provisions) Order 2008 (S.I. 2008/3002), art. 4, Sch. 1 para. 58
+[^F229]: Words in s. 201(1) substituted (27.3.2012 for specified purposes, 1.4.2013 in so far as not already in force) by Health and Social Care Act 2012 (c. 7), ss. 286(2)(a), 306(1)(d), (4); S.I. 2013/160, art. 2(2) (with arts. 7-9)
+[^F230]: S. 201(1)(a)-(e) inserted (27.3.2012 for specified purposes, 1.4.2013 in so far as not already in force) by Health and Social Care Act 2012 (c. 7), ss. 286(2)(b), 306(1)(d), (4); S.I. 2013/160, art. 2(2) (with arts. 7-9)
+[^F231]: Words in s. 201(2) substituted (27.3.2012 for specified purposes, 1.4.2013 in so far as not already in force) by Health and Social Care Act 2012 (c. 7), ss. 286(3)(a), 306(1)(d), (4); S.I. 2013/160, art. 2(2) (with arts. 7-9)
+[^F232]: Words in s. 201(2) substituted (27.3.2012 for specified purposes, 1.4.2013 in so far as not already in force) by Health and Social Care Act 2012 (c. 7), ss. 286(3)(b), 306(1)(d), (4); S.I. 2013/160, art. 2(2) (with arts. 7-9)
+[^F233]: Words in s. 203(6) inserted (21.1.2021) by Nurse Staffing Levels (Wales) Act 2016 (anaw 5), ss. 1(2), 2(1); S.I. 2021/61, art. 2
+[^F234]: Words in s. 203(6) inserted (6.2.2024) by Health Service Procurement (Wales) Act 2024 (asc 1), ss. 3(3), 4
+[^F235]: Words in s. 203(6) inserted (1.1.2026) by Health and Social Care (Wales) Act 2025 (asc 1), ss. 24(3)(a), 29(2); S.I. 2025/1257, art. 4(a)
+[^F236]: S. 203(6A) inserted (1.4.2019) by Public Health (Wales) Act 2017 (anaw 2), ss. 111(2), 126(2); S.I. 2019/829, art. 2
+[^F237]: Words in s. 203(6A) inserted (1.1.2026) by Health and Social Care (Wales) Act 2025 (asc 1), ss. 24(3)(b), 29(2); S.I. 2025/1257, art. 4(a)
+[^F238]: Words in s. 206(1) omitted (1.7.2022) by virtue of Health and Care Act 2022 (c. 31), s. 186(6), Sch. 4 para. 148(a); S.I. 2022/734, reg. 2(a), Sch. (with regs. 13, 29, 30)
+[^F239]: S. 206(1): definition of "the FHSAA" omitted (18.1.2010) by virtue of The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22), arts. 1(1), 5(1), Sch. 2 para. 140
+[^F240]: S. 206(1): words in definition of "illness" substituted (3.11.2008) by Mental Health Act 2007 (c. 12), ss. 1(4), 56(1), Sch. 1 para. 25; S.I. 2008/1900, art. 2(a) (with art. 3, Sch.)
+[^F241]: Words in s. 206(1) inserted (1.7.2022) by Health and Care Act 2022 (c. 31), s. 186(6), Sch. 4 para. 148(b); S.I. 2022/734, reg. 2(a), Sch. (with regs. 13, 29, 30)
+[^F242]: S. 206(1): definition of "local education authority" omitted (5.5.2010) by virtue of The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158), art. 5(1)(2), Sch. 2 para. 61(4), Sch. 3 Pt. 2
+[^F243]: Words in s. 206(1) inserted (1.2.2013) by Health and Social Care Act 2012 (c. 7), s. 306(4), Sch. 21 para. 38(1)(b) (with Sch. 21 para. 38(2)); S.I. 2012/2657, art. 2(4) (with art. 13)
+[^F244]: Words in s. 206 substituted (1.7.2022) by Health and Care Act 2022 (c. 31), s. 186(6), Sch. 1 para. 1(1)(2); S.I. 2022/734, reg. 2(a), Sch. (with regs. 13, 29, 30)
+[^F245]: Words in s. 206(1) substituted (1.7.2022) by Health and Care Act 2022 (c. 31), s. 186(6), Sch. 4 para. 148(c); S.I. 2022/734, reg. 2(a), Sch. (with regs. 13, 29, 30)
+[^F246]: Words in s. 206(1) omitted (1.11.2012) by virtue of Health and Social Care Act 2012 (c. 7), ss. 178(11), 306(4); S.I. 2012/2657, art. 2(2) (with art. 13)
+[^F247]: Words in s. 206(1) omitted (31.12.2020) by virtue of The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593), reg. 1(2), Sch. 5 para. 15 (with reg. 12A, Sch. 5 Pt. 2) (as amended by S.I. 2020/1394, regs. 4, 13); 2020 c. 1, Sch. 5 para. 1(1)
+[^F248]: Words in s. 206(1) omitted (1.4.2013) by virtue of Health and Social Care Act 2012 (c. 7), s. 306(4), Sch. 21 para. 38(1)(c); S.I. 2013/160, art. 2(2) (with arts. 7-9)
+[^F249]: S. 206(1): definition of "registered pharmacist" substituted (27.9.2010) by The Pharmacy Order 2010 (S.I. 2010/231), arts. 1, 68, Sch. 4 para. 14(4); S.I. 2010/1621, art. 2(1), Sch.
+[^F250]: Words in s. 206(1) omitted (31.12.2020) by virtue of The Social Security Coordination (Reciprocal Healthcare) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/776), regs. 1(1), 4(b); 2020 c. 1, Sch. 5 para. 1(1) and by virtue of The National Health Service (Cross-Border Healthcare and Miscellaneous Amendments etc.) (EU Exit) Regulations 2019 (S.I. 2019/777), regs. 1(1), 4(3)(f) (with reg. 15, Sch. 1) (as amended by S.I. 2020/1348, regs. 10-12);. 2020 c. 1, Sch. 5 para. 1(1)
+[^F251]: Words in s. 206(1) omitted (1.4.2013) by virtue of Health and Social Care Act 2012 (c. 7), s. 306(4), Sch. 21 para. 38(1)(d); S.I. 2013/160, art. 2(2) (with arts. 7-9)
+[^F252]: Words in s. 207 inserted (1.1.2026) by Health and Social Care (Wales) Act 2025 (asc 1), s. 29(2), Sch. 2 para. 3(5); S.I. 2025/1257, art. 4(b)
+[^F253]: Words in s. 207 inserted (21.1.2021) by Nurse Staffing Levels (Wales) Act 2016 (anaw 5), ss. 1(3), 2(1); S.I. 2021/61, art. 2
+[^F254]: Words in Sch. 1 para. 1 substituted (5.5.2010) by The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158), art. 5(1), Sch. 2 para. 61(5)(a)
+[^F255]: Words in Sch. 1 substituted (5.5.2010) by The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158), art. 5(1), Sch. 2 para. 61(5)(b)
+[^F256]: Words in Sch. 1 para. 2(1)(b) inserted (30.4.2021) by Curriculum and Assessment (Wales) Act 2021 (asc 4), s. 84(1), Sch. 2 para. 55 (with savings and transitional provisions in S.I. 2022/111, regs. 1, 3)
+[^F257]: Words in Sch. 1 para. 2(1)(b) omitted (1.9.2021 for specified purposes, 1.1.2022 for specified purposes, 1.9.2022 for specified purposes, 1.9.2025 for specified purposes) by virtue of Additional Learning Needs and Education Tribunal (Wales) Act 2018 (anaw 2), s. 100(3), Sch. 1 para. 12(a); S.I. 2021/373, arts. 3, 4, 6, 7 (as amended by S.I. 2021/938, art. 2); S.I. 2021/1243, art. 3 (with arts. 4-23) (as amended by S.I. 2021/1428, art. 2); S.I. 2021/1244, art. 3 (with arts. 4-21) (as amended by S.I. 2021/1428, art. 3); S.I. 2021/1245, arts. 3, 4 (with art. 1(4)); S.I. 2022/891, art. 3 (with arts. 4-25); S.I. 2022/892, arts. 2, 3 (with arts. 4-18); S.I. 2022/893, arts. 2, 4; S.I. 2022/894, art. 3; S.I. 2022/895, arts. 3, 4; S.I. 2022/896, art. 3 (with arts. 1(7), 4-22); S.I. 2022/897, art. 3 (with arts. 1(8), 4-21); S.I. 2022/898, arts. 2, 3
+[^F258]: Words in Sch. 1 para. 2(1)(b) inserted (1.9.2021) by Additional Learning Needs and Education Tribunal (Wales) Act 2018 (anaw 2), s. 100(3), Sch. 1 para. 12(b); S.I. 2021/373, art. 8(j)(xxiv)
+[^F259]: Word in Sch. 1 para. 3 substituted (1.4.2009) by Health and Social Care Act 2008 (c. 14), ss. 160, 170, Sch. 14 para. 7; S.I. 2009/462, art. 5
+[^F260]: Words in Sch. 1 substituted (5.5.2010) by The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158), art. 5(1), Sch. 2 para. 61(5)(b)
+[^F261]: Words in Sch. 1 substituted (5.5.2010) by The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158), art. 5(1), Sch. 2 para. 61(5)(b)
+[^F262]: Words in Sch. 1 para. 5(1)(a) substituted (1.10.2013) by School Standards and Organisation (Wales) Act 2013 (anaw 1), s. 100(4), Sch. 5 para. 24(2); S.I. 2013/1800, art. 3(j)
+[^F263]: Words in Sch. 1 para. 5(1)(b) substituted (1.10.2013) by School Standards and Organisation (Wales) Act 2013 (anaw 1), s. 100(4), Sch. 5 para. 24(2); S.I. 2013/1800, art. 3(j)
+[^F264]: Sch. 1 paras. 7A, 7B and cross-heading inserted (21.7.2008 for specified purposes, 1.8.2011 in so far as not already in force) by Health and Social Care Act 2008 (c. 14), ss. 144, 170; S.I. 2011/986, art. 2(2)
+[^F265]: Words in Sch. 1 para. 7A(3) substituted (1.4.2011) by Children and Families (Wales) Measure 2010 (nawm 1), ss. 72, 75(3), Sch. 1 para. 26(a); S.I. 2010/2582, art. 2, Sch. 1
+[^F266]: Words in Sch. 1 para. 7A(4) substituted (1.4.2011) by Children and Families (Wales) Measure 2010 (nawm 1), ss. 72, 75(3), Sch. 1 para. 26(b); S.I. 2010/2582, art. 2, Sch. 1
+[^F267]: Words in Sch. 1 para. 7B(3) substituted (25.5.2018) by Data Protection Act 2018 (c. 12), s. 212(1), Sch. 19 para. 119 (with ss. 117, 209, 210); S.I. 2018/625, reg. 2(1)(g)
+[^F268]: Words in Sch. 2 para. 9 omitted (1.4.2013) by virtue of Health and Social Care Act 2012 (c. 7), s. 306(4), Sch. 21 para. 39(a); S.I. 2013/160, art. 2(2) (with arts. 7-9)
+[^F269]: Words in Sch. 2 para. 9 omitted (1.4.2013) by virtue of Health and Social Care Act 2012 (c. 7), s. 306(4), Sch. 21 para. 39(b); S.I. 2013/160, art. 2(2) (with arts. 7-9)
+[^F270]: Words in Sch. 2 para. 9 substituted (1.4.2013) by Health and Social Care Act 2012 (c. 7), s. 306(4), Sch. 21 para. 39(c); S.I. 2013/160, art. 2(2) (with arts. 7-9)
+[^F271]: Word in Sch. 3 para. 3(1)(a) omitted (8.3.2022) by virtue of Health and Social Care (Quality and Engagement) (Wales) Act 2020 (asc 1), ss. 24(2)(b), 29(2); S.I. 2022/208, art. 2(a)
+[^F272]: Sch. 3 para. 3(1)(aa) inserted (8.3.2022) by Health and Social Care (Quality and Engagement) (Wales) Act 2020 (asc 1), ss. 24(2)(a), 29(2); S.I. 2022/208, art. 2(a)
+[^F273]: Words in Sch. 3 para. 4(1)(a) inserted (8.3.2022) by Health and Social Care (Quality and Engagement) (Wales) Act 2020 (asc 1), ss. 24(3), 29(2); S.I. 2022/208, art. 2(a)
+[^F274]: Words in Sch. 3 para. 5(1)(f) omitted (1.4.2013) by virtue of Health and Social Care Act 2012 (c. 7), s. 306(4), Sch. 21 para. 40(2); S.I. 2013/160, art. 2(2) (with arts. 7-9)
+[^F275]: Words in Sch. 3 para. 6 omitted (1.4.2013) by virtue of Health and Social Care Act 2012 (c. 7), s. 306(4), Sch. 21 para. 40(3)(a); S.I. 2013/160, art. 2(2) (with arts. 7-9)
+[^F276]: Words in Sch. 3 para. 6 omitted (1.4.2013) by virtue of Health and Social Care Act 2012 (c. 7), s. 306(4), Sch. 21 para. 40(3)(b); S.I. 2013/160, art. 2(2) (with arts. 7-9)
+[^F277]: Words in Sch. 3 para. 7(3) omitted (1.4.2013) by virtue of Health and Social Care Act 2012 (c. 7), s. 306(4), Sch. 21 para. 40(4); S.I. 2013/160, art. 2(2) (with arts. 7-9)
+[^F278]: Words in Sch. 3 para. 8 omitted (1.4.2013) by virtue of Health and Social Care Act 2012 (c. 7), s. 306(4), Sch. 21 para. 40(5); S.I. 2013/160, art. 2(2) (with arts. 7-9)
+[^F279]: Words in Sch. 3 para. 9(1) omitted (1.4.2013) by virtue of Health and Social Care Act 2012 (c. 7), s. 306(4), Sch. 21 para. 40(6)(a)(i); S.I. 2013/160, art. 2(2) (with arts. 7-9)
+[^F280]: Words in Sch. 3 para. 9(1) omitted (1.4.2013) by virtue of Health and Social Care Act 2012 (c. 7), s. 306(4), Sch. 21 para. 40(6)(a)(ii); S.I. 2013/160, art. 2(2) (with arts. 7-9)
+[^F281]: Words in Sch. 3 para. 9(3) omitted (1.4.2013) by virtue of Health and Social Care Act 2012 (c. 7), s. 306(4), Sch. 21 para. 40(6)(b)(i); S.I. 2013/160, art. 2(2) (with arts. 7-9)
+[^F282]: Words in Sch. 3 para. 9(3) omitted (1.4.2013) by virtue of Health and Social Care Act 2012 (c. 7), s. 306(4), Sch. 21 para. 40(6)(b)(ii); S.I. 2013/160, art. 2(2) (with arts. 7-9)
+[^F283]: Words in Sch. 3 para. 9(6) omitted (1.4.2013) by virtue of Health and Social Care Act 2012 (c. 7), s. 306(4), Sch. 21 para. 40(6)(c)(i); S.I. 2013/160, art. 2(2) (with arts. 7-9)
+[^F284]: Words in Sch. 3 para. 9(6) omitted (1.4.2013) by virtue of Health and Social Care Act 2012 (c. 7), s. 306(4), Sch. 21 para. 40(6)(c)(ii); S.I. 2013/160, art. 2(2) (with arts. 7-9)
+[^F285]: Words in Sch. 3 para. 9(7) omitted (1.4.2013) by virtue of Health and Social Care Act 2012 (c. 7), s. 306(4), Sch. 21 para. 40(6)(d)(i); S.I. 2013/160, art. 2(2) (with arts. 7-9)
+[^F286]: Words in Sch. 3 para. 9(7) omitted (1.4.2013) by virtue of Health and Social Care Act 2012 (c. 7), s. 306(4), Sch. 21 para. 40(6)(d)(ii); S.I. 2013/160, art. 2(2) (with arts. 7-9)
+[^F287]: Words in Sch. 3 para. 9(7) omitted (1.4.2013) by virtue of Health and Social Care Act 2012 (c. 7), s. 306(4), Sch. 21 para. 40(6)(d)(iii); S.I. 2013/160, art. 2(2) (with arts. 7-9)
+[^F288]: Words in Sch. 3 para. 11(1)(a) inserted (8.3.2022) by Health and Social Care (Quality and Engagement) (Wales) Act 2020 (asc 1), ss. 24(4)(a), 29(2); S.I. 2022/208, art. 2(a)
+[^F289]: Words in Sch. 3 para. 11(1)(b) inserted (8.3.2022) by Health and Social Care (Quality and Engagement) (Wales) Act 2020 (asc 1), ss. 24(4)(b), 29(2); S.I. 2022/208, art. 2(a)
+[^F290]: Words in Sch. 3 para. 12(2)(b) omitted (1.4.2015) by virtue of Local Audit and Accountability Act 2014 (c. 2), s. 49(1), Sch. 12 para. 77; S.I. 2015/841, art. 3(x)
+[^F291]: Words in Sch. 3 para. 18 omitted (1.4.2013) by virtue of Health and Social Care Act 2012 (c. 7), s. 306(4), Sch. 21 para. 40(7)(a); S.I. 2013/160, art. 2(2) (with arts. 7-9)
+[^F292]: Words in Sch. 3 para. 18 omitted (1.4.2013) by virtue of Health and Social Care Act 2012 (c. 7), s. 306(4), Sch. 21 para. 40(7)(b); S.I. 2013/160, art. 2(2) (with arts. 7-9)
+[^F293]: Words in Sch. 3 para. 30 omitted (1.4.2013) by virtue of Health and Social Care Act 2012 (c. 7), s. 306(4), Sch. 21 para. 40(8)(a); S.I. 2013/160, art. 2(2) (with arts. 7-9)
+[^F294]: Words in Sch. 3 para. 30 omitted (1.4.2013) by virtue of Health and Social Care Act 2012 (c. 7), s. 306(4), Sch. 21 para. 40(8)(b); S.I. 2013/160, art. 2(2) (with arts. 7-9)
+[^F295]: Words in Sch. 5 para. 3(8) omitted (1.4.2013) by virtue of Health and Social Care Act 2012 (c. 7), s. 306(4), Sch. 21 para. 41(2)(a)(i); S.I. 2013/160, art. 2(2) (with arts. 7-9)
+[^F296]: Words in Sch. 5 para. 3(8) omitted (1.4.2013) by virtue of Health and Social Care Act 2012 (c. 7), s. 306(4), Sch. 21 para. 41(2)(a)(ii); S.I. 2013/160, art. 2(2) (with arts. 7-9)
+[^F297]: Words in Sch. 5 para. 3(12)(a) omitted (1.4.2013) by virtue of Health and Social Care Act 2012 (c. 7), s. 306(4), Sch. 21 para. 41(2)(b)(i); S.I. 2013/160, art. 2(2) (with arts. 7-9)
+[^F298]: Words in Sch. 5 para. 3(12)(b) omitted (1.4.2013) by virtue of Health and Social Care Act 2012 (c. 7), s. 306(4), Sch. 21 para. 41(2)(b)(ii); S.I. 2013/160, art. 2(2) (with arts. 7-9)
+[^F299]: Sch. 5 para. 5(d) substituted (1.4.2010) by Health Act 2009 (c. 21), ss. 19, 40, Sch. 3 paras. 15, 18(1)(b) (with para. 19); S.I. 2010/930, art. 2
+[^F300]: Words in Sch. 5 substituted (1.7.2022) by Health and Care Act 2022 (c. 31), s. 186(6), Sch. 1 para. 1(1)(2); S.I. 2022/734, reg. 2(a), Sch. (with regs. 13, 29, 30)
+[^F301]: Words in Sch. 7 para. 3(3)(j) substituted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 9 para. 52; S.I. 2014/954, art. 2(c) (with art. 3)
+[^F302]: Sch. 8 para. 1: words in preceding cross-heading repealed (21.5.2010) by Health and Social Care Act 2008 (c. 14), ss. 140, 166, 170, Sch. 12 para. 10(4), Sch. 15 Pt. 4; S.I. 2010/1457, art. 2
+[^F303]: Words in Sch. 8 para. 1(1) substituted (1.4.2014) by National Health Service Finance (Wales) Act 2014 (anaw 2), ss. 2(8), 3(2)
+[^F304]: Words in Sch. 8 para. 1(1) repealed (21.5.2010) by Health and Social Care Act 2008 (c. 14), ss. 140, 166, 170, Sch. 12 para. 10(2)(a), Sch. 15 Pt. 4; S.I. 2010/1457, art. 2
+[^F305]: Words in Sch. 8 para. 1(1)(a) substituted (21.5.2010) by Health and Social Care Act 2008 (c. 14), ss. 140, 170, Sch. 12 para. 10(2)(b); S.I. 2010/1457, art. 2
+[^F306]: Words in Sch. 8 para. 1(2)(a) substituted (21.5.2010) by Health and Social Care Act 2008 (c. 14), ss. 140, 170, Sch. 12 para. 10(3)(a); S.I. 2010/1457, art. 2
+[^F307]: Sch. 8 para. 1(2)(b)(c) repealed (21.5.2010) by Health and Social Care Act 2008 (c. 14), ss. 140, 166, 170, Sch. 12 para. 10(3)(b), Sch. 15 Pt. 4; S.I. 2010/1457, art. 2
+[^F308]: Sch. 8 para. 2 substituted (21.5.2010) by Health and Social Care Act 2008 (c. 14), ss. 140, 170, Sch. 12 para. 10(5); S.I. 2010/1457, art. 2
+[^F309]: Sch. 8 para. 2(1): Sch. 8 para. 2 renumbered as Sch. 8 para. 2(1) (1.4.2014) by National Health Service Finance (Wales) Act 2014 (anaw 2), ss. 2(9), 3(2)
+[^F310]: Sch. 8 para. 2(2) inserted (1.4.2014) by National Health Service Finance (Wales) Act 2014 (anaw 2), ss. 2(9), 3(2)
+[^F311]: Sch. 8 para. 3A inserted (21.5.2010) by Health and Social Care Act 2008 (c. 14), ss. 140, 170, Sch. 12 para. 10(6); S.I. 2010/1457, art. 2
+[^F312]: Sch. 8 para. 4(1): words in definition of "designated" inserted (21.5.2010) by Health and Social Care Act 2008 (c. 14), ss. 140, 170, Sch. 12 para. 10(7)(a); S.I. 2010/1457, art. 2
+[^F313]: Sch. 8 para. 4(1): definition of "pharmaceutical services" repealed (21.5.2010) by Health and Social Care Act 2008 (c. 14), ss. 140, 166, 170, Sch. 12 para. 10(7)(b), Sch. 15 Pt. 4; S.I. 2010/1457, art. 2
+[^F314]: Sch. 8 para. 4(1): words in definition of "remuneration referable to the cost of drugs" repealed (21.5.2010) by Health and Social Care Act 2008 (c. 14), ss. 140, 166, 170, Sch. 12 para. 10(7)(c), Sch. 15 Pt. 4; S.I. 2010/1457, art. 2
+[^F315]: Sch. 8 para. 4(4) inserted (21.5.2010) by Health and Social Care Act 2008 (c. 14), ss. 140, 170, Sch. 12 para. 10(8); S.I. 2010/1457, art. 2
+[^F316]: Sch. 10 repealed (1.4.2023) by Health and Social Care (Quality and Engagement) (Wales) Act 2020 (asc 1), ss. 23(2), 29(2); S.I. 2023/370, art. 3(1)(q)
+[^F317]: Words in Sch. 13 para. 1(b) inserted (1.4.2010) by Health Act 2009 (c. 21), ss. 19, 40, Sch. 3 paras. 17(2), 18(1)(b) (with para. 19); S.I. 2010/930, art. 2
+[^F318]: Sch. 13 para. 5A inserted (1.4.2010) by Health Act 2009 (c. 21), ss. 19, 40, Sch. 3 paras. 17(3), 18(1)(b) (with para. 19); S.I. 2010/930, art. 2
+[^F319]: Sch. 15 omitted (6.4.2016) by virtue of The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413), regs. 2(1), 250

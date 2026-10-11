@@ -1,0 +1,1185 @@
+---
+title: "Biodiversity Beyond National Jurisdiction Act 2026"
+identifier: "ukpga/2026/6"
+citation: "2026 Chapter 6"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S+N.I."
+date: 2026-02-12
+last_amended: 2026-08-09
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/2026/6"
+source_modified: 2026-08-10
+retrieved: 2026-10-11
+---
+
+# Biodiversity Beyond National Jurisdiction Act 2026
+
+**2026 Chapter 6**
+
+An Act to make provision for and in connection with the implementation by the United Kingdom of the Agreement under the United Nations Convention on the Law of the Sea on the Conservation and Sustainable Use of Marine Biological Diversity of Areas Beyond National Jurisdiction.
+
+[12th February 2026]
+
+Be it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## Part 1 — Introduction
+
+### 1 The Agreement
+
+(1) In this Act, “the Agreement” means the Agreement under the United Nations Convention on the Law of the Sea on the Conservation and Sustainable Use of Marine Biological Diversity of Areas Beyond National Jurisdiction, opened for signature at New York on 20 September 2023.
+
+(2) For the purposes of this Act, the following terms have the meanings that they have in the Agreement (see Article 1)—
+
+- “areas beyond national jurisdiction”, and
+- “marine genetic resources”.
+
+## Part 2 — Marine genetic resources
+
+### Provision of information
+
+#### 2 Collection
+
+(1) This section applies in relation to a project (a “collection project”) in which a UK craft is used to collect marine genetic resources in an area beyond national jurisdiction.
+
+(2) The relevant person in relation to the collection project must ensure that no marine genetic resources are collected for the purposes of the project unless—
+
+(a) the information described in paragraphs (a) to (j) of Article 12(2) of the Agreement (pre-collection information) has been given to the Secretary of State, and
+
+(b) subject to subsection (3), a period of at least 7 months has passed, beginning with the day (or the last day) on which that information was given to the Secretary of State.
+
+(3) The Secretary of State may, by notice in writing given to the relevant person, reduce the period mentioned in subsection (2)(b) where the Secretary of State considers that there is a compelling reason for marine genetic resources to be collected as part of the project despite less than 7 months having passed since the information was given to the Secretary of State.
+
+(4) The relevant person must ensure that the information described in paragraphs (a) to (d) of Article 12(5) of the Agreement (post-collection information) is given to the Secretary of State—
+
+(a) as soon as it is all available, and
+
+(b) in any case, before the end of the period of 11 months beginning with the last day on which marine genetic resources are collected in an area beyond national jurisdiction as part of the project.
+
+(5) In this section—
+
+- “collect”, in relation to marine genetic resources, means collecting or sampling such resources other than incidentally when carrying out an activity for another purpose;
+- “the relevant person”, in relation to a collection project, is the individual with principal responsibility for the scientific or technical aspects of the project so far as it concerns marine genetic resources.
+
+#### 3 Utilisation
+
+(1) This section applies in relation to a project (a “utilisation project”) involving the utilisation in the United Kingdom of—
+
+(a) marine genetic resources of areas beyond national jurisdiction, or
+
+(b) digital sequence information on such resources.
+
+(2) The person who controls the utilisation project (“the relevant person”) must ensure that information is given to the Secretary of State in accordance with the Schedule.
+
+(3) The relevant person must ensure that samples of any marine genetic resources the utilisation of which falls within subsection (1)(a) are deposited in a suitable repository.
+
+(4) The relevant person must ensure that any digital sequence information the utilisation of which falls within subsection (1)(b) is recorded in a suitable database.
+
+(5) The relevant person must comply with subsection (3) or (4) within the period of 3 years beginning with the day on which the utilisation project begins.
+
+(6) The relevant person must ensure that the deposited samples are, or the recorded information is, identifiable by reference to any Article 12(3) identifier relating to the marine genetic resources concerned.
+
+(7) Repositories and databases are “suitable” if they are—
+
+(a) publicly accessible, and
+
+(b) operated, in any part of the world, in accordance with current international practice.
+
+#### 4 Onward disclosure
+
+(1) This section applies to information given to the Secretary of State as mentioned in section 2 or 3.
+
+(2) The Secretary of State may give the information to the Clearing-House Mechanism established under Article 51 of the Agreement.
+
+(3) But the Secretary of State may not give the information where—
+
+(a) it is protected information within the meaning given by section 1(2) of the National Security Act 2023, or
+
+(b) in the opinion of the Secretary of State, the Agreement does not require it to be given (see Article 51(6)).
+
+### Sharing of benefits
+
+#### 5 Repositories
+
+(1) This section applies in relation to a repository in the United Kingdom in which samples of marine genetic resources of areas beyond national jurisdiction are stored.
+
+(2) The person who controls the repository must—
+
+(a) so far as reasonably practicable, ensure that the samples—
+
+(i) can be identified, in accordance with current international practice, as originating from areas beyond national jurisdiction, and
+
+(ii) in particular, can be identified by reference to any Article 12(3) identifier relating to the marine genetic resources concerned,
+
+(b) provide access to the samples for the purposes of their utilisation by another person (subject to section 7(1)), and
+
+(c) for each relevant 2-year period (see section 7(2)), give the Secretary of State a report stating, so far as reasonably practicable, the number of times access to the samples has been provided under paragraph (b).
+
+(3) A report under subsection (2)(c) must identify the samples by reference to any Article 12(3) identifier relating to the marine genetic resources concerned.
+
+#### 6 Databases
+
+(1) This section applies in relation to a UK database in which digital sequence information (“DSI”) on marine genetic resources of areas beyond national jurisdiction is stored.
+
+(2) A “UK database” is a database that is—
+
+(a) controlled by a person in the United Kingdom, and
+
+(b) accessible by members of the public.
+
+(3) The person who controls the UK database must—
+
+(a) so far as reasonably practicable, ensure that the DSI—
+
+(i) can be identified, in accordance with current international practice, as relating to marine genetic resources of areas beyond national jurisdiction, and
+
+(ii) in particular, can be identified by reference to any Article 12(3) identifier relating to the marine genetic resources concerned,
+
+(b) provide access to the DSI (subject to section 7(1)), and
+
+(c) for each relevant 2-year period (see section 7(2)), give the Secretary of State a report stating the number of times the DSI has been viewed or downloaded.
+
+(4) A report under subsection (3)(c) must identify the DSI by reference to any Article 12(3) identifier relating to the marine genetic resources concerned.
+
+(5) For the purposes of this section, the person who controls a database is in the United Kingdom if—
+
+(a) in the case of an individual, the individual is habitually resident in the United Kingdom, and
+
+(b) in any other case, the person is incorporated or formed under the law of any part of the United Kingdom.
+
+#### 7 Supplementary provision
+
+(1) Access provided under section 5(2)(b) or 6(3)(b) may be made subject to conditions consistent with paragraphs (a) to (d) of Article 14(4) of the Agreement (factors that may affect access).
+
+(2) For the purposes of sections 5(2)(c) and 6(3)(c), a “relevant 2-year period” is—
+
+(a) the period of 2 years beginning with the day on which—
+
+(i) the Agreement enters into force in accordance with Article 68(1), or
+
+(ii) if later, the Agreement enters into force for the United Kingdom in accordance with Article 68(2), and
+
+(b) each subsequent period of 2 years.
+
+(3) A report under section 5(2)(c) or 6(3)(c) must be given to the Secretary of State—
+
+(a) before the end of the period of 2 months beginning with the day immediately after the relevant 2-year period in question, or
+
+(b) by such other time as the Secretary of State may, by directions given to the person required to give the report, specify for the purposes of complying with any timetable set by the access and benefit-sharing committee established under Article 15 of the Agreement.
+
+(4) Directions under subsection (3)(b) may be general or specific.
+
+### Miscellaneous
+
+#### 8 Exceptions
+
+(1) Nothing in this Part applies in relation to—
+
+(a) the use of a UK craft for fishing—
+
+(i) in accordance with a licence issued under section 15(1) of the Fisheries Act 2020, or
+
+(ii) where such a licence is not required as a result of section 14(2) of that Act;
+
+(b) anything that is done in accordance with the joint fisheries statement, or any document or plan issued by the fisheries policy authorities or the Marine Management Organisation for the purposes of the Fisheries Act 2020, to give effect to the scientific evidence objective within the meaning given by section 1(5) of that Act (including the utilisation, to give effect to that objective, of fish or other living marine resources known to have been taken in fishing and fishing-related activities in areas beyond national jurisdiction);
+
+(c) a warship, military aircraft or naval auxiliary, within the meaning of Article 4 of the Agreement;
+
+(d) anything done in the course of military activities, within the meaning of Article 10(3) of the Agreement;
+
+(e) anything done in Antarctica;
+
+(f) marine genetic resources of Antarctica (including digital sequence information on such resources).
+
+(2) In subsection (1)—
+
+- “Antarctica” has the meaning given by section 1 of the Antarctic Act 1994;
+- “the fisheries policy authorities” has the meaning given by section 52 of the Fisheries Act 2020;
+- “joint fisheries statement” means any joint fisheries statement published from time to time under section 2 of that Act.
+
+#### 9 Power to make regulations
+
+(1) The Secretary of State may by regulations make provision within subsection (2) for the purposes of implementing the United Kingdom’s obligations under Part 2 of the Agreement (marine genetic resources, including the fair and equitable sharing of benefits).
+
+(2) The provision that may be made is provision—
+
+(a) to ensure that the United Kingdom complies with Part 2 of the Agreement in a way that is consistent with Article 5(2) of the Agreement (interaction between the Agreement and other instruments etc) so far as it applies to the United Kingdom in relation to any other international agreement or arrangement to which the United Kingdom is a party;
+
+(b) to enable or facilitate the implementation of a decision of the Conference of the Parties under Article 14(7) of the Agreement (sharing of monetary benefits), including by imposing requirements—
+
+(i) to disclose information relevant to the calculation of any payment required by the decision,
+
+(ii) to make payments required by the decision, or
+
+(iii) to make payments for the purpose of enabling the Secretary of State or another person to make payments required by the decision;
+
+(c) making any changes to this Part that are necessary in consequence of any determination that may be made by the Conference of the Parties in accordance with Article 51(2) of the Agreement about the operation of the Clearing-House Mechanism established by Article 51(1) of the Agreement;
+
+(d) to limit the application of this Part in accordance with Article 51(6) of the Agreement (protection from disclosure);
+
+(e) to secure that no person is required to comply both with a provision of or under this Part (“the domestic provision”) and with a corresponding provision of the law of another State that is a party to the Agreement;
+
+(f) about the enforcement of requirements imposed by or under this Part.
+
+(3) In subsection (2)(e), a “corresponding provision” is a provision that has substantially the same effect as the domestic provision.
+
+(4) Regulations under this section may make provision within subsection (2) that applies in areas beyond national jurisdiction or otherwise outside the United Kingdom.
+
+(5) Regulations made in reliance on subsection (2)(f) may include provision—
+
+(a) for a civil sanction to be imposed in relation to a failure to comply with requirements imposed by or under this Part,
+
+(b) for an undertaking given by a person to be enforceable as if it were a requirement imposed by or under this Part,
+
+(c) about monitoring compliance with requirements imposed by or under this Part,
+
+(d) about requirements for the making and keeping of records and documents, or
+
+(e) about requirements to provide information.
+
+(6) Regulations under this section may amend or otherwise modify this Part (apart from this section) and section 27.
+
+(7) The consequential provision that may be made by regulations under this section in reliance on section 29(2)(b) includes provision amending or repealing a provision of an Act of Parliament whenever passed (as well as provision made under such an Act).
+
+(8) Regulations under this section that include provision—
+
+(a) amending or repealing a provision of an Act of Parliament,
+
+(b) made in reliance on subsection (2)(b), or
+
+(c) creating a civil sanction or varying the maximum amount of any monetary penalty,
+
+are subject to the draft affirmative procedure.
+
+(9) Any other regulations under this section are subject to the negative procedure.
+
+#### 10 Power to make regulations: Scotland and Northern Ireland
+
+(1) The appropriate national authority may by regulations make provision that is within section 9(2) (read with section 9(3) to (6)) for the purposes of implementing the United Kingdom’s obligations under Part 2 of the Agreement.
+
+(2) Regulations under this section may—
+
+(a) confer a function (including a discretion) on any person;
+
+(b) make different provision for different purposes or for different areas;
+
+(c) make consequential, supplementary, incidental, transitional, transitory or saving provision.
+
+(3) Regulations under this section that provide for civil sanctions—
+
+(a) must provide a right of appeal against the imposition of any such sanction;
+
+(b) may make any provision corresponding to, or dealing with similar matters to, provision made by or capable of being made under the Regulatory Enforcement and Sanctions Act 2008.
+
+(4) For the purposes of this section, “appropriate national authority”, in relation to the making of regulations, means—
+
+(a) the Scottish Ministers, so far as provision made by the regulations would be within the legislative competence of the Scottish Parliament if it were contained in an Act of that Parliament;
+
+(b) the Department of Agriculture, Environment and Rural Affairs in Northern Ireland, so far as provision made by the regulations—
+
+(i) would be within the legislative competence of the Northern Ireland Assembly if it were contained in an Act of that Assembly, and
+
+(ii) would not, if it were contained in a Bill in the Northern Ireland Assembly, result in the Bill requiring the consent of the Secretary of State under section 8 of the Northern Ireland Act 1998.
+
+(5) The consequential provision that may be made by regulations in reliance on subsection (2)(c) includes provision amending—
+
+(a) in relation to regulations made by the Scottish Ministers, an enactment within the meaning given by Schedule 1 to the Interpretation and Legislative Reform (Scotland) Act 2010 (asp 10) (whenever passed or made), and
+
+(b) in relation to regulations made by the Department of Agriculture, Environment and Rural Affairs in Northern Ireland, any statutory provision within the meaning given by section 1(f) of the Interpretation Act (Northern Ireland) 1954.
+
+#### 11 Procedure for regulations under section 10
+
+(1) Regulations under section 10 that include provision—
+
+(a) amending an Act of Parliament, an Act of the Scottish Parliament or Northern Ireland legislation,
+
+(b) made in reliance on section 9(2)(b), or
+
+(c) creating a civil sanction or varying the maximum amount of any monetary penalty,
+
+are subject to the affirmative procedure.
+
+(2) Any other regulations under section 10 are subject to the negative procedure.
+
+(3) Any provision that may be made by regulations under section 10 subject to the negative procedure may be made in regulations subject to the affirmative procedure.
+
+(4) The power of the Department of Agriculture, Environment and Rural Affairs in Northern Ireland to make regulations under section 10 is exercisable by statutory rule for the purposes of the Statutory Rules (Northern Ireland) Order 1979 (S.I. 1979/1573 (N.I. 12)).
+
+(5) For the purposes of this section—
+
+(a) in relation to regulations made by the Scottish Ministers, see sections 28 and 29 of the Interpretation and Legislative Reform (Scotland) Act 2010 for the meanings of “subject to the negative procedure” and “subject to the affirmative procedure”, and
+
+(b) in relation to regulations made by the Department of Agriculture, Environment and Rural Affairs in Northern Ireland—
+
+(i) where the regulations are subject to the affirmative procedure, the regulations may not be made unless a draft of the regulations has been laid before and approved by a resolution of the Northern Ireland Assembly, and
+
+(ii) where the regulations are subject to the negative procedure, the regulations are subject to negative resolution within the meaning given by section 41(6) of the Interpretation Act (Northern Ireland) 1954 (c. 33 (N.I.)).
+
+#### 12 Consultation: Scotland and Northern Ireland
+
+(1) The Secretary of State must consult the Scottish Ministers before making regulations under section 9 that contain provision that would be within the legislative competence of the Scottish Parliament if it were contained in an Act of that Parliament.
+
+(2) The Secretary of State must consult the Department of Agriculture, Environment and Rural Affairs in Northern Ireland before making regulations under section 9 that contain provision that—
+
+(a) would be within the legislative competence of the Northern Ireland Assembly if it were contained in an Act of that Assembly, and
+
+(b) would not, if it were contained in a Bill in the Northern Ireland Assembly, result in the Bill requiring the consent of the Secretary of State under section 8 of the Northern Ireland Act 1998.
+
+#### 13 Guidance
+
+(1) The Secretary of State must publish guidance about the requirements imposed by or under this Part.
+
+(2) The Secretary of State—
+
+(a) must keep the guidance under review,
+
+(b) may from time to time revise the guidance, and
+
+(c) must publish any revised guidance.
+
+(3) When preparing guidance to be published under this section, the Secretary of State must have regard to the importance of giving effect to the Agreement.
+
+(4) The Secretary of State must lay any guidance (including any revised guidance) published under this section before Parliament.
+
+## Part 3 — Area-based management tools
+
+### 14 Power to make regulations
+
+(1) This section applies where the Conference of the Parties takes a decision under—
+
+(a) Article 22(1)(a) of the Agreement (decisions on the establishment of area-based management tools, including marine protected areas, and related measures),
+
+(b) Article 22(1)(b) of the Agreement (decisions on measures compatible with other legal instruments and frameworks, and certain other matters), or
+
+(c) Article 24(1) of the Agreement (decisions to adopt measures to be applied on an emergency basis).
+
+(2) The Secretary of State may by regulations make such provision as the Secretary of State considers appropriate for the purpose of meeting the obligation of the United Kingdom under Article 25(1) of the Agreement (implementing duty of states with respect to activities under their jurisdiction or control) as it applies in relation to the decision.
+
+(3) Regulations under this section may, among other things, make provision—
+
+(a) that applies in areas beyond national jurisdiction or otherwise outside the United Kingdom;
+
+(b) about enforcement;
+
+(c) for the charging of fees in relation to the carrying out of functions under the regulations (including enforcement functions);
+
+(d) by reference to other documents as issued or having effect from time to time.
+
+(4) The provision that may be made in reliance on subsection (3)(b) includes provision—
+
+(a) creating a civil sanction or a criminal offence in relation to a failure to comply with requirements imposed by or under the regulations,
+
+(b) for an undertaking given by a person to be enforceable as if it were a requirement imposed by or under the regulations,
+
+(c) about monitoring compliance with requirements imposed by or under the regulations,
+
+(d) about requirements for the making and keeping of records and documents,
+
+(e) about requirements to provide information,
+
+(f) about the detention of a UK craft, and
+
+(g) corresponding or similar to, or applying (with or without modification), any provision of Part 10 of the Merchant Shipping Act 1995 (enforcement officers and powers) or Part 8 of the Marine and Coastal Access Act 2009 (enforcement).
+
+(5) Regulations creating a criminal offence may not provide—
+
+(a) for an offence under the regulations to be punishable on summary conviction with imprisonment;
+
+(b) in relation to Scotland or Northern Ireland—
+
+(i) for an offence under the regulations that is triable only summarily to be punishable by a fine exceeding level 5 on the standard scale;
+
+(ii) for an offence under the regulations that is triable summarily or on indictment to be punishable on summary conviction by a fine exceeding the statutory maximum;
+
+(c) for an offence under the regulations to be punishable on conviction on indictment with imprisonment for a term exceeding 2 years.
+
+(6) The consequential provision that may be made by regulations under this section in reliance on section 29(2)(b) includes provision amending or repealing a provision of an Act of Parliament whenever passed (as well as provision made under such an Act).
+
+### 15 Procedure for regulations under section 14
+
+(1) Subject to subsection (3), regulations under section 14 that contain provision—
+
+(a) amending or repealing a provision of an Act of Parliament,
+
+(b) creating a civil sanction or varying the maximum amount of any monetary penalty, or
+
+(c) creating a criminal offence,
+
+are subject to the draft affirmative procedure.
+
+(2) Subsection (3) applies where the provision within subsection (1) of this section relates to a decision under Article 24(1) of the Agreement.
+
+(3) Where the Secretary of State considers that the regulations need to be made urgently in order to give effect to the measure to which they relate, the regulations are subject to the made affirmative procedure.
+
+(4) Any other regulations under section 14 are subject to the negative procedure.
+
+### 16 Power to make regulations: Scotland and Northern Ireland
+
+(1) Where section 14 applies, the appropriate national authority may by regulations make such provision as the authority considers appropriate for the purpose mentioned in section 14(2).
+
+(2) Subsections (3) to (5) of section 14 apply to regulations under this section as they apply to regulations under that section.
+
+(3) Regulations under this section may—
+
+(a) confer a function (including a discretion) on any person;
+
+(b) make different provision for different purposes or for different areas;
+
+(c) make consequential, supplementary, incidental, transitional, transitory or saving provision.
+
+(4) Regulations under this section that provide for civil sanctions—
+
+(a) must provide a right of appeal against the imposition of any such sanction;
+
+(b) may make any provision corresponding to, or dealing with similar matters to, provision made by or capable of being made under the Regulatory Enforcement and Sanctions Act 2008.
+
+(5) For the purposes of this section, “appropriate national authority”, in relation to the making of regulations, means—
+
+(a) the Scottish Ministers, so far as provision made by the regulations would be within the legislative competence of the Scottish Parliament if it were contained in an Act of that Parliament;
+
+(b) the Department of Agriculture, Environment and Rural Affairs in Northern Ireland, so far as provision made by the regulations—
+
+(i) would be within the legislative competence of the Northern Ireland Assembly if it were contained in an Act of that Assembly, and
+
+(ii) would not, if it were contained in a Bill in the Northern Ireland Assembly, result in the Bill requiring the consent of the Secretary of State under section 8 of the Northern Ireland Act 1998.
+
+(6) The consequential provision that may be made by regulations in reliance on subsection (3)(c) includes provision amending—
+
+(a) in relation to regulations made by the Scottish Ministers, an enactment within the meaning given by Schedule 1 to the Interpretation and Legislative Reform (Scotland) Act 2010 (asp 10) (whenever passed or made), and
+
+(b) in relation to regulations made by the Department of Agriculture, Environment and Rural Affairs in Northern Ireland, any statutory provision within the meaning given by section 1(f) of the Interpretation Act (Northern Ireland) 1954.
+
+### 17 Procedure for regulations under section 16
+
+(1) Subject to subsection (3), regulations under section 16 that include provision—
+
+(a) amending an Act of Parliament, an Act of the Scottish Parliament or Northern Ireland legislation,
+
+(b) creating a civil sanction or varying the maximum amount of any monetary penalty, or
+
+(c) creating a criminal offence,
+
+are subject to the affirmative procedure.
+
+(2) Subsection (3) applies where the provision within subsection (1) of this section relates to a decision under Article 24(1) of the Agreement.
+
+(3) Where the person making the regulations considers that the regulations need to be made urgently in order to give effect to the measure to which they relate, the regulations are subject to the made affirmative procedure.
+
+(4) Any other regulations under section 16 are subject to the negative procedure.
+
+(5) Any provision that may be made by regulations under section 16 subject to the negative procedure may be made in regulations subject to the affirmative procedure or the made affirmative procedure.
+
+(6) The power of the Department of Agriculture, Environment and Rural Affairs in Northern Ireland to make regulations under section 16 is exercisable by statutory rule for the purposes of the Statutory Rules (Northern Ireland) Order 1979 (S.I. 1979/1573 (N.I. 12)).
+
+(7) For the purposes of this section—
+
+(a) in relation to regulations made by the Scottish Ministers, see sections 28 and 29 of the Interpretation and Legislative Reform (Scotland) Act 2010 for the meanings of “subject to the negative procedure” and “subject to the affirmative procedure”,
+
+(b) in relation to regulations made by the Scottish Ministers that are subject to the “made affirmative procedure”, the regulations—
+
+(i) must be laid before the Scottish Parliament as soon as reasonably practicable after being made, and
+
+(ii) cease to have effect at the end of the period of 28 days beginning with the day on which they are made unless, during that period, the regulations are approved by resolution of the Scottish Parliament,
+
+(c) in relation to regulations made by the Department of Agriculture, Environment and Rural Affairs in Northern Ireland that are subject to the “affirmative procedure”, the regulations may not be made unless a draft of the regulations has been laid before and approved by a resolution of the Northern Ireland Assembly,
+
+(d) in relation to regulations made by the Department of Agriculture, Environment and Rural Affairs in Northern Ireland that are subject to the “made affirmative procedure”, the regulations—
+
+(i) must be laid before the Northern Ireland Assembly as soon as reasonably practicable after being made, and
+
+(ii) cease to have effect at the end of the period of 28 days beginning with the day on which the regulations are made unless, during that period, the regulations are approved by a resolution of the Northern Ireland Assembly, and
+
+(e) in relation to regulations made by the Department of Agriculture, Environment and Rural Affairs in Northern Ireland that are subject to “the negative procedure”, the regulations are subject to negative resolution within the meaning given by section 41(6) of the Interpretation Act (Northern Ireland) 1954 (c. 33 (N.I.)).
+
+(8) In calculating the period of 28 days mentioned in subsection (7)(b)(ii), no account is to be taken of any time during which the Scottish Parliament is—
+
+(a) dissolved, or
+
+(b) in recess for more than 4 days.
+
+(9) In calculating the period of 28 days mentioned in subsection (7)(d)(ii), no account is to be taken of any time during which the Northern Ireland Assembly is—
+
+(a) dissolved,
+
+(b) in recess for more than 4 days, or
+
+(c) adjourned for more than 6 days.
+
+(10) Where regulations cease to have effect as a result of subsection (7)(b)(ii) or (d)(ii), that does not—
+
+(a) affect anything previously done under or by virtue of the regulations, or
+
+(b) prevent the making of new regulations.
+
+### 18 Consultation: Scotland and Northern Ireland
+
+(1) The Secretary of State must consult the Scottish Ministers before making regulations under section 14 that contain provision that would be within the legislative competence of the Scottish Parliament if it were contained in an Act of that Parliament.
+
+(2) The Secretary of State must consult the Department of Agriculture, Environment and Rural Affairs in Northern Ireland before making regulations under section 14 that contain provision that—
+
+(a) would be within the legislative competence of the Northern Ireland Assembly if it were contained in an Act of that Assembly, and
+
+(b) would not, if it were contained in a Bill in the Northern Ireland Assembly, result in the Bill requiring the consent of the Secretary of State under section 8 of the Northern Ireland Act 1998.
+
+(3) Subsections (1) and (2) do not apply where the Secretary of State considers that the regulations need to be made urgently in order to give effect to a measure adopted under Article 24(1) of the Agreement (decisions to adopt measures to be applied on an emergency basis).
+
+### 19 Directions
+
+(1) This section applies where the Conference of the Parties takes a decision under Article 24 of the Agreement (decisions to adopt measures to be applied on an emergency basis).
+
+(2) The Secretary of State may by directions impose such requirements in respect of a UK craft as the Secretary of State considers appropriate for the purpose of meeting the obligation of the United Kingdom under Article 25(1) of the Agreement (implementing duty of states with respect to activities under their jurisdiction or control) as it applies in relation to the decision.
+
+(3) A direction under this section must be—
+
+(a) given in writing to the person or persons to whom it applies, or
+
+(b) where it is not reasonably practicable to give it in writing, must be—
+
+(i) read out to that person or those persons, and
+
+(ii) confirmed in writing as soon as is reasonably possible.
+
+(4) A direction under this section must be laid before Parliament.
+
+(5) The Secretary of State may vary (by further direction) or revoke a direction under this section.
+
+(6) A direction under this section (if it has not already been revoked) ceases to have effect upon the termination of the measure adopted under Article 24 of the Agreement to which it relates.
+
+(7) A person commits an offence if the person fails, without reasonable excuse, to comply with a direction given to them under this section.
+
+(8) A person who commits an offence under this section is liable—
+
+(a) on summary conviction—
+
+(i) in England and Wales, to a fine;
+
+(ii) in Scotland or Northern Ireland, to a fine not exceeding the statutory maximum;
+
+(b) on conviction on indictment to imprisonment for a term not exceeding 2 years or a fine (or both).
+
+(9) Proceedings for an offence under this section that is committed outside the United Kingdom may be taken, and the offence may for all incidental purposes be treated as having been committed, at any place in the United Kingdom.
+
+## Part 4 — Marine licensing etc
+
+### Marine licensing under the Marine and Coastal Access Act 2009
+
+#### 20 Licensable marine activities
+
+(1) In the Marine and Coastal Access Act 2009, Part 4 (marine licensing) is amended as follows.
+
+(2) In section 66 (licensable marine activities), after subsection (3) (power to add or remove licensable marine activities) insert—
+
+> (3A) An order under subsection (3) that adds an activity may designate the activity as activity added in contemplation of the United Kingdom’s obligations—
+>
+> (a) under Part 3 of the Biodiversity Beyond National Jurisdiction Agreement (area-based management tools), or
+>
+> (b) in respect of an activity that takes place in an area beyond national jurisdiction, under Part 4 of that Agreement (environmental impact assessments).
+>
+> (3B) Where an order contains provision within subsection (3A), the related provision that may be made in the order in reliance on section 316(1)(b) (consequential etc provision) includes provision amending primary or secondary legislation whenever passed or made.
+>
+> (3C) In subsection (3A)—
+>
+> - “area beyond national jurisdiction” has the meaning that it has in the Biodiversity Beyond National Jurisdiction Agreement (see Article 1);
+> - “the Biodiversity Beyond National Jurisdiction Agreement” means the Agreement under the United Nations Convention on the Law of the Sea on the Conservation and Sustainable Use of Marine Biological Diversity of Areas Beyond National Jurisdiction, opened for signature at New York on 20 September 2023.
+
+(3) In section 74 (exemptions to requirements for marine licences), after subsection (4) insert—
+
+> (4A) Where an order under this section applies to activity designated under section 66(3A), the related provision that may be made in the order in reliance on section 316(1)(b) (consequential etc provision) includes provision amending primary or secondary legislation whenever passed or made.
+
+(4) In section 81 (submarine cables)—
+
+(a) in the heading omit “on the continental shelf”;
+
+(b) in subsection (1), at the end insert “, subject to subsection (5A)”;
+
+(c) after subsection (5) insert—
+
+> (5A) This section does not prevent the application of this Part in relation to activity designated under section 66(3A).
+
+#### 21 Screening and procedure
+
+(1) The Marine Works (Environmental Impact Assessment) Regulations 2007 (S.I. 2007/1518) are amended as follows.
+
+(2) In regulation 2 (interpretation)—
+
+(a) in paragraph (1), after the definition of “appropriate authority” insert—
+
+> - “area beyond national jurisdiction” has the meaning given by Article 1(2) of the Biodiversity Beyond National Jurisdiction Agreement;
+>
+> - “BBNJ activity” means a regulated activity—
+>
+>   - that engages the United Kingdom’s obligations under Part 4 of the Biodiversity Beyond National Jurisdiction Agreement (environmental impact assessments) in respect of an activity in an area beyond national jurisdiction, and
+>   - for which a marine licence, or a variation of a marine licence, under Part 4 of the 2009 Act is required;
+>
+> - “the Biodiversity Beyond National Jurisdiction Agreement” means the Agreement under the United Nations Convention on the Law of the Sea on the Conservation and Sustainable Use of Marine Biological Diversity of Areas Beyond National Jurisdiction, opened for signature at New York on 20 September 2023;
+
+;
+
+(b) in paragraph (1), in the definition of “regulated activity”, at the end insert “(see also paragraph (1ZA))”;
+
+(c) after paragraph (1) insert—
+
+> (1ZA) Where the requirement for a marine licence, or variation of a marine licence, under Part 4 of the 2009 Act for an activity in an area beyond national jurisdiction depends on the application of these Regulations (including the doing or not doing of anything under these Regulations), these Regulations have effect as if such a licence or variation were required unless and until the application of these Regulations produces a different result.
+
+(3) In regulation 6 (requirement for environmental impact assessment by determination), for “or 8” substitute “, 8 or 8A”.
+
+(4) After regulation 8 insert—
+
+> **8A Determination: areas beyond national jurisdiction**
+>
+> (1) The appropriate authority must determine that an environmental impact assessment is required in relation to a BBNJ activity if the authority concludes that there are reasonable grounds for believing that the activity may cause—
+>
+> (a) substantial pollution of, or
+>
+> (b) significant and harmful changes to,
+>
+> the marine environment.
+>
+> (2) In considering whether or not there are such reasonable grounds, the appropriate authority must have regard to—
+>
+> (a) the criteria set out in Schedule 1, and
+>
+> (b) any other matter necessary to give effect to Article 30(1)(b) of the Biodiversity Beyond National Jurisdiction Agreement.
+>
+> (3) Terms used in paragraph (1)(a) and (b) have the same meaning that they have in the Biodiversity Beyond National Jurisdiction Agreement (see in particular Article 30(1)(b)).
+>
+> (4) This regulation is subject to regulations 9 and 9A.
+
+(5) In regulation 10 (exceptions)—
+
+(a) after paragraph (1) insert—
+
+> (1A) An appropriate authority may determine that an environmental impact assessment is not required under regulation 8A in relation to a BBNJ activity if it is satisfied that another person has carried out, is carrying out or will carry out an equivalent assessment in relation to the activity.
+>
+> (1B) For the purposes of paragraph (1A), an assessment is an equivalent assessment if it is sufficient to meet the requirements of Part 4 of the Biodiversity Beyond National Jurisdiction Agreement.
+
+;
+
+(b) in paragraph (2), after “(1)” insert “or (1A)”;
+
+(c) in paragraph (3A)—
+
+(i) after “(1)(b)” insert “or (1A)”;
+
+(ii) at the end insert “or person”;
+
+(d) in paragraph (4), at the beginning insert “In a case to which paragraph (1) applies,”;
+
+(e) after paragraph (4) insert—
+
+> (4ZA) In a case to which paragraph (1A) applies, the regulator must not grant regulatory approval unless it has determined that to do so would be compatible with the United Kingdom’s obligations under Part 4 of the Biodiversity Beyond National Jurisdiction Agreement.
+
+;
+
+(f) in paragraph (4A)—
+
+(i) in the words before sub-paragraph (a), after “(1)(b)” insert “or, as the case may be, the other person’s assessment referred to in paragraph (1A)”;
+
+(ii) in sub-paragraph (b), after “authority” insert “or person”;
+
+(iii) in sub-paragraph (d), after “authority” insert “or person”;
+
+(iv) in sub-paragraph (e), after “authority” insert “or person”;
+
+(g) in paragraph (4B), after “authority’s”, in both places, insert “or person’s”;
+
+(h) in paragraph (4C)(b), after “authority’s decision” insert “or person’s assessment”;
+
+(i) in paragraph (4E)(a), after “authority’s” insert “or person’s”;
+
+(j) in paragraph (4F)(c), after “authority” insert “or person”;
+
+(k) in paragraph (4F)(d), after “authority” insert “or person”.
+
+(6) In regulation 11 (screening opinions)—
+
+(a) in paragraph (3), for “or 8” insert “, 8 or 8A”;
+
+(b) after paragraph (3) insert—
+
+> (3A) The regulator must decide that a BBNJ activity may be an activity in relation to which an environmental impact assessment is required under regulation 8A if the regulator considers that—
+>
+> (a) the activity may have more than a minor or transitory effect on the marine environment, or
+>
+> (b) the effects of the activity are unknown or poorly understood.
+>
+> (3B) Where the regulator decides that paragraph (3A) does not apply in respect of a BBNJ activity, the regulator must give the applicant a notice stating that the activity does not require an environmental impact assessment.
+>
+> (3C) Terms used in paragraph (3A)(a) and (b) have the same meaning that they have in the Biodiversity Beyond National Jurisdiction Agreement (see in particular Article 30(1)).
+
+(7) In regulation 21A (conclusion about environmental impact), in paragraph (1)—
+
+(a) omit the “and” at the end of sub-paragraph (e);
+
+(b) at the end of sub-paragraph “(f)” insert “; and
+
+> (g) in relation to a regulated activity for which an environmental impact assessment is required under regulation 8A, any other matter necessary to give effect to Article 31(1)(b) and (c) of the Biodiversity Beyond National Jurisdiction Agreement.
+
+(8) In Schedule 2 (screening opinions), in paragraph 4A (giving a screening opinion)—
+
+(a) the existing words become sub-paragraph (1);
+
+(b) after that sub-paragraph insert—
+
+> (2) A screening opinion given in relation to a BBNJ activity must include provision stating—
+>
+> (a) whether or not the regulator considers that an environmental impact assessment is required under regulation 8A in relation to the activity, and
+>
+> (b) in a case where the regulator considers that an environmental impact assessment is not required under regulation 8A in relation to the activity, whether the regulator considers that—
+>
+> (i) the activity may have more than a minor or transitory effect on the marine environment, or
+>
+> (ii) the effects of the activity are unknown or poorly understood.
+>
+> (3) Terms used in sub-paragraph (2)(b)(i) or (ii) have the same meaning that they have in the Biodiversity Beyond National Jurisdiction Agreement (see in particular Article 30(1)).
+
+(9) In Schedule 3 (information to be included in an environmental statement)—
+
+(a) after paragraph 9 insert—
+
+> **9A** In relation to a BBNJ activity, any other information that is necessary to enable the appropriate authority to give effect to Article 31(1)(c) of the Biodiversity Beyond National Jurisdiction Agreement.
+
+;
+
+(b) in paragraph 10, for “9” substitute “9A”.
+
+#### 22 Power to make regulations: Secretary of State
+
+(1) The Secretary of State may by regulations make such provision in relation to a licensable marine activity as the Secretary of State considers appropriate for the purpose of implementing any Article 38 standards or guidelines.
+
+(2) In subsection (1)—
+
+- “Article 38 standards or guidelines” means standards or guidelines that may be adopted by the Conference of the Parties from time to time as mentioned in Article 38 of the Agreement;
+- “licensable marine activity” means an activity within section 66(1) of the Marine and Coastal Access Act 2009 (as that section has effect from time to time).
+
+(3) Regulations under this section may, among other things, amend or otherwise modify Part 4 of the Marine and Coastal Access Act 2009 (marine licensing).
+
+(4) The consequential provision that may be made by regulations under this section in reliance on section 29(2)(b) includes provision amending or repealing a provision of an Act of Parliament whenever passed (as well as provision made under such an Act).
+
+(5) Regulations under this section that amend or repeal a provision of Act of Parliament are subject to the draft affirmative procedure.
+
+(6) Any other regulations under this section are subject to the negative procedure.
+
+### Marine licensing under the Marine (Scotland) Act 2010
+
+#### 23 Licensable marine activities
+
+(1) In the Marine (Scotland) Act 2010 (asp 5), Part 4 (marine licensing) is amended as follows.
+
+(2) In section 21 (licensable marine activities), after subsection (3) (power to add or remove licensable marine activities) insert—
+
+> (3A) An order under subsection (3) that adds an activity may designate the activity as activity added in contemplation of the United Kingdom’s obligations—
+>
+> (a) under Part 3 of the Biodiversity Beyond National Jurisdiction Agreement (area-based management tools), or
+>
+> (b) in respect of an activity that takes place in an area beyond national jurisdiction, under Part 4 of that Agreement (environmental impact assessments).
+>
+> (3B) Where an order contains provision within subsection (3A), the related provision that may be made in the order in reliance on section 165(1)(b) (consequential etc provision) includes provision amending an enactment (whenever passed or made).
+>
+> (3C) In subsection (3A)—
+>
+> - “area beyond national jurisdiction” has the meaning that it has in the Biodiversity Beyond National Jurisdiction Agreement (see Article 1);
+> - “the Biodiversity Beyond National Jurisdiction Agreement” means the Agreement under the United Nations Convention on the Law of the Sea on the Conservation and Sustainable Use of Marine Biological Diversity of Areas Beyond National Jurisdiction, opened for signature at New York on 20 September 2023.
+
+(3) In section 32 (exemptions to requirements for marine licences), after subsection (4) insert—
+
+> (4A) Where an order under this section applies to activity designated under section 21(3A), the related provision that may be made in the order in reliance on section 165(1)(b) (consequential etc provision) includes provision amending an enactment (whenever passed or made).
+
+(4) In section 37 (submarine cables)—
+
+(a) in subsection (1), at the end insert “, subject to subsection (5A)”;
+
+(b) after subsection (5) insert—
+
+> (5A) This section does not prevent the application of this Part in relation to activity designated under section 21(3A).
+
+#### 24 Screening and procedure
+
+(1) The Marine Works (Environmental Impact Assessment) (Scotland) Regulations 2017 (S.S.I 2017/115) are amended as follows.
+
+(2) In regulation 2 (interpretation)—
+
+(a) in paragraph (1), after the definition of “application website” insert—
+
+> - “area beyond national jurisdiction” has the meaning given by Article 1(2) of the Biodiversity Beyond National Jurisdiction Agreement;
+> - “BBNJ works” means the carrying out of a regulated activity that engages the United Kingdom’s obligations under Part 4 of the Biodiversity Beyond National Jurisdiction Agreement (environmental impact assessments) in respect of an activity in an area beyond national jurisdiction;
+> - “the Biodiversity Beyond National Jurisdiction Agreement” means the Agreement under the United Nations Convention on the Law of the Sea on the Conservation and Sustainable Use of Marine Biological Diversity of Areas Beyond National Jurisdiction, opened for signature at New York on 20 September 2023;
+
+;
+
+(b) in paragraph (1), in the definition of “EIA project”—
+
+(i) in the words before paragraph (a) omit “either”,
+
+(ii) omit the “or” at the end of paragraph (a), and
+
+(iii) at the end of paragraph (b) insert
+
+> ; or
+>
+> (c) BBNJ works where there are reasonable grounds for believing that the works may cause—
+>
+> (i) substantial pollution, or
+>
+> (ii) significant and harmful changes to,
+>
+> the marine environment;
+
+;
+
+(c) in paragraph (1), in the definition of “environmental information”—
+
+(i) omit the “and” at the end of paragraph (c);
+
+(ii) at the end of paragraph (d) insert
+
+> ; and
+>
+> (e) in relation to BBNJ works that are an EIA project, any other matter necessary to give effect to Article 31(1)(b) and (c) of the Biodiversity Beyond National Jurisdiction Agreement;
+
+;
+
+(d) in paragraph (1), in the definition of “regulated activity”, at the end insert “(see also paragraph (1B))”;
+
+(e) after paragraph (1) insert—
+
+> (1A) Terms used in paragraph (c)(i) and (ii) of the definition of “EIA project” have the same meaning that they have in the Biodiversity Beyond National Jurisdiction Agreement (see in particular Article 30(1)(b)).
+>
+> (1B) Where the requirement for a marine licence, or variation of a marine licence, under Part 4 of the 2010 Act for works in an area beyond national jurisdiction depends on the application of these Regulations (including the doing or not doing of anything under these Regulations), these Regulations have effect as if such a licence or variation were required unless and until the application of these Regulations produces a different result.
+
+(3) In regulation 8 (exemptions)—
+
+(a) in paragraph (4), in the words before sub-paragraph (a), after “apply” insert “in respect of schedule 1 works or schedule 2 works”;
+
+(b) after paragraph (4) insert—
+
+> (4A) The Scottish Ministers may direct that these Regulations do not require an environmental impact assessment to be carried out in relation to BBNJ works if they are satisfied that an equivalent assessment has been carried out, is being carried out or will be carried out in relation to the works.
+>
+> (4B) The Scottish Ministers may not grant a regulatory approval for BBNJ works in respect of which a direction under paragraph (4A) has been given unless they have determined that to do so would be compatible with the United Kingdom’s obligations under Part 4 of the Biodiversity Beyond National Jurisdiction Agreement.
+>
+> (4C) For the purposes of paragraph (4A), an assessment is an equivalent assessment if it is sufficient to meet the requirements of Part 4 of the Biodiversity Beyond National Jurisdiction Agreement.
+
+(4) In regulation 9 (general provisions relating to screening)—
+
+(a) in paragraph (1), in the words before sub-paragraph (a), after “works” insert “or BBNJ works”;
+
+(b) omit the “and” at the end of sub-paragraph (a)(ii);
+
+(c) at the end of sub-paragraph (b) insert
+
+> ; and
+>
+> (c) in the case of BBNJ works, have regard to any other matter necessary to give effect to Article 30(1)(b) of the Biodiversity Beyond National Jurisdiction Agreement.
+
+;
+
+(d) after paragraph (2) insert—
+
+> (2A) Where the Scottish Ministers adopt a screening opinion in relation to BBNJ works to the effect that the works are not an EIA project, the screening opinion must also contain provision stating whether the Scottish Ministers consider that—
+>
+> (a) the works may have more than a minor or transitory effect on the marine environment, or
+>
+> (b) the effects of the works are unknown or poorly understood.
+>
+> (2B) Terms used in paragraph (2A)(a) and (b) have the same meaning that they have in the Biodiversity Beyond National Jurisdiction Agreement (see in particular Article 30(1)).
+
+(5) In regulation 12 (application without prior screening)—
+
+(a) in paragraph (1)(a), for “or an application to carry out schedule 2 works” substitute “schedule 2 works or BBNJ works”;
+
+(b) for paragraph (2) substitute—
+
+> (2) Where it appears to the Scottish Ministers that the application relates to proposed schedule 1 works or schedule 2 works, the Scottish Ministers must adopt a screening opinion in relation to the proposed works.
+
+;
+
+(c) after paragraph (2) insert—
+
+> (2A) Where it appears to the Scottish Ministers that the application relates to proposed BBNJ works, the Scottish Ministers must adopt a screening opinion in any case where the Scottish Ministers consider that—
+>
+> (a) the proposed works may have more than a minor or transitory effect on the marine environment, or
+>
+> (b) the effects of the proposed works are unknown or poorly understood.
+>
+> (2B) Where the Scottish Ministers decide that paragraph (2A) does not apply in respect of proposed BBNJ works, they must give the applicant a notice stating that the proposed works do not require an environmental impact assessment.
+>
+> (2C) Terms used in paragraph (2A)(a) and (b) have the same meaning that they have in the Biodiversity Beyond National Jurisdiction Agreement (see in particular Article 30(1)).
+
+;
+
+(d) in paragraph (3), after “works” insert “or BBNJ works”.
+
+(6) In regulation 13 (EIA application made without an EIA report), in paragraph (3)(b), after “12(2)” insert or “12(2A)”.
+
+(7) In Schedule 4 (information for inclusion in environmental impact assessment reports)—
+
+(a) after paragraph 9 insert—
+
+> **9A** In relation to BBNJ works, any other information that is necessary to enable the Scottish Ministers to give effect to Article 31(1)(c) of the Biodiversity Beyond National Jurisdiction Agreement.
+
+;
+
+(b) in paragraph 10, for “9” substitute “9A”.
+
+#### 25 Power to make regulations: Scottish Ministers
+
+(1) The Scottish Ministers may by regulations make provision that—
+
+(a) relates to a Scottish licensable marine activity,
+
+(b) the Scottish Ministers consider appropriate for the purpose of implementing any Article 38 standards or guidelines, and
+
+(c) would be within the legislative competence of the Scottish Parliament if it were contained in an Act of that Parliament.
+
+(2) In subsection (1)—
+
+- “Article 38 standards or guidelines” means standards or guidelines that may be adopted by the Conference of the Parties from time to time as mentioned in Article 38 of the Agreement;
+- “Scottish licensable marine activity” means an activity within section 21 of the Marine (Scotland) Act 2010 (asp 5) (as that section has effect from time to time).
+
+(3) Regulations under this section may amend or otherwise modify Part 4 of the Marine (Scotland) Act 2010 (marine licensing).
+
+(4) Regulations under this section may—
+
+(a) confer a function (including a discretion) on any person;
+
+(b) make different provision for different purposes or for different areas;
+
+(c) make consequential, supplementary, incidental, transitional, transitory or saving provision.
+
+(5) The consequential provision that may be made by regulations in reliance on subsection (4)(c) includes provision amending an enactment within the meaning given by Schedule 1 to the Interpretation and Legislative Reform (Scotland) Act 2010 (asp 10) (whenever passed or made).
+
+(6) Regulations under this section that contain provision amending an Act of Parliament or an Act of the Scottish Parliament (whether alone or with other provision) are subject to the affirmative procedure (see section 29 of that Act).
+
+(7) Any other regulations under this section are subject to the negative procedure (see section 28 of that Act).
+
+### Environmental outcome reports
+
+#### 26 Amendments to the Levelling-up and Regeneration Act 2023
+
+In the Levelling-up and Regeneration Act 2023, in Part 6 (environmental outcomes reports), section 154 (power to define “relevant consent” and “relevant plan” etc) is amended as follows—
+
+(a) in subsection (9), for “or a relevant offshore area” substitute “, a relevant offshore area or, where subsection (10) applies, an area beyond national jurisdiction”;
+
+(b) after subsection (9) insert—
+
+> (10) This subsection applies where the activity within any of paragraphs (a) to (e) of subsection (9) is or involves a licensable marine activity within the meaning of—
+>
+> (a) section 66 of the Marine and Coastal Access Act 2009, or
+>
+> (b) section 21 of the Marine (Scotland) Act 2010 (asp 5).
+>
+> (11) In this section, “area beyond national jurisdiction” has the meaning given by Article 1(2) of the Agreement under the United Nations Convention on the Law of the Sea on the Conservation and Sustainable Use of Marine Biological Diversity of Areas Beyond National Jurisdiction, opened for signature at New York on 20 September 2023.
+
+## Part 5 — General
+
+### 27 Interpretation
+
+(1) In this Act—
+
+- “Article 12(3) identifier” means an identifier generated in relation to marine genetic resources as described in Article 12(3) of the Agreement (“BBNJ” standardised batch identifiers);
+
+- “civil sanction” means—
+
+  - a monetary penalty,
+  - a stop notice, or
+  - a compliance notice;
+
+- “commercialisation”, in relation to research and development, means the making available of a relevant product—
+
+  - in the course of a commercial activity, and
+  - other than for the purposes of trialling the effectiveness of the product;
+
+- “compliance notice” means a notice imposing on a person, in relation to a failure to comply with a provision made by or under this Act, a requirement to take such steps as may be specified in the notice, within such period as may be specified, to secure that the non-compliance does not continue or recur;
+
+- “Conference of the Parties” means the Conference of the Parties established under Article 47(1) of the Agreement;
+
+- “craft” includes any vessel, machine, structure or other item;
+
+- “digital sequence information”, in relation to marine genetic resources, has such meaning as the Secretary of State may provide in regulations;
+
+- “relevant 2-year period” has the meaning given by section 7(2);
+
+- “relevant product”, in relation to research and development, means a product developed through or as a result of that research and development;
+
+- “relevant research and development” means research and development within Article 1(14) of the Agreement (meaning of “utilization”);
+
+- “stop notice” means a notice prohibiting a person from carrying on an activity specified in the notice until the person has taken such steps as may be specified in the notice;
+
+- “UK craft” means—
+
+  - a ship that is a British ship by virtue of section 1(1)(a) or (d) of the Merchant Shipping Act 1995 (ships registered in the United Kingdom and certain small ships with qualifying owners),
+  - a Government ship within the meaning given by section 308(4) of that Act, or
+  - any other craft to which the Agreement applies and which has a qualifying UK connection (see subsection (2));
+
+- “UNCLOS” means the United Nations Convention on the Law of the Sea 1982 (Cmnd 8941);
+
+- “United Kingdom person” means—
+
+  - an individual who is a British citizen or habitually resident in the United Kingdom, or
+  - a person that is incorporated or formed under the law of any part of the United Kingdom;
+
+- “utilisation”, in relation to marine genetic resources or digital sequence information, means—
+
+  - the use of those resources or that information in carrying out relevant research and development, or
+  - the commercialisation of relevant research and development carried out using those resources or that information;
+
+- “utilisation project” has the meaning given by section 3(1).
+
+(2) For the purposes of paragraph (c) of the definition of “UK craft” in subsection (1), a craft has “a qualifying UK connection” if—
+
+(a) it is not a British ship by virtue of section 1(c) of the Merchant Shipping Act 1995 (ships registered under the law of a relevant British possession),
+
+(b) it is not, and has not been deployed from, a ship which has been granted the nationality of a state other than the United Kingdom in accordance with Article 91 of UNCLOS, and
+
+(c) it is—
+
+(i) owned or operated by a United Kingdom person, or
+
+(ii) being used after being deployed from the United Kingdom or from a ship within paragraph (a) or (b) of the definition of “UK craft” in subsection (1).
+
+(3) The Secretary of State may by regulations amend or otherwise modify the meaning of “a qualifying UK connection”.
+
+(4) For the purposes of interpreting references in this Act to areas beyond national jurisdiction, a relevant maritime zone of any of the British overseas territories is to be treated as if it were an exclusive economic zone within the meaning of UNCLOS (see Article 55).
+
+(5) In subsection (4), “relevant maritime zone” includes—
+
+(a) an exclusive fishing zone,
+
+(b) an ecological protection zone, and
+
+(c) any other zone in relation to which the territory in question asserts or exercises any rights or jurisdiction of the sort referred to in Article 56(1) of UNCLOS.
+
+(6) Regulations under subsection (1) that are made for the purposes of the definition of “digital sequence information” are subject to the negative procedure.
+
+(7) Regulations under subsection (3) that amend this section are subject to the affirmative procedure.
+
+(8) Any other regulations under subsection (3) are subject to the negative procedure.
+
+### 28 Power to make consequential provision
+
+(1) The Secretary of State may by regulations make provision that is consequential on this Act.
+
+(2) Regulations under this section may amend or repeal provision made by an Act passed—
+
+(a) before this Act, or
+
+(b) later in the same session of Parliament as this Act,
+
+(as well as provision made under such an Act).
+
+(3) Regulations under this section that amend or repeal provision made by an Act are subject to the draft affirmative procedure.
+
+(4) Any other regulations under this section are subject to the negative procedure.
+
+### 29 Regulations under this Act
+
+(1) Regulations under this Act are to be made by statutory instrument.
+
+(2) A power to make regulations under this Act includes power to—
+
+(a) confer a function (including a discretion) on any person;
+
+(b) make consequential, supplementary, incidental, transitional, transitory or saving provision;
+
+(c) make different provision for different purposes or for different areas.
+
+(3) Regulations under this Act that provide for civil sanctions—
+
+(a) must provide a right of appeal against the imposition of any such sanction;
+
+(b) may make any provision corresponding to, or dealing with similar matters to, provision made by or capable of being made under the Regulatory Enforcement and Sanctions Act 2008.
+
+(4) Where regulations under this Act are subject to “the draft affirmative procedure”, the regulations may not be made unless a draft of the statutory instrument containing them has been laid before, and approved by a resolution of, each House of Parliament.
+
+(5) Where regulations under this Act are subject to “the made affirmative procedure”, the statutory instrument containing the regulations must be laid before Parliament after being made.
+
+(6) Regulations contained in a statutory instrument laid before Parliament under subsection (5) cease to have effect at the end of the period of 28 days beginning with the day on which the instrument is made unless, during that period, the instrument is approved by a resolution of each House of Parliament.
+
+(7) In calculating the period of 28 days, no account is to be taken of any whole days that fall within a period during which—
+
+(a) Parliament is dissolved or prorogued, or
+
+(b) either House of Parliament is adjourned for more than 4 days.
+
+(8) If regulations cease to have a effect as a result of subsection (6), that does not—
+
+(a) affect the validity of anything previously done under the regulations, or
+
+(b) prevent the making of new regulations.
+
+(9) Where regulations under this Act are subject to “the negative procedure”, the statutory instrument containing them is subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(10) Any provision that may be made by regulations under this Act subject to the negative procedure may be made in regulations subject to the draft affirmative procedure or the made affirmative procedure.
+
+(11) This section does not apply to regulations under—
+
+(a) section 10,
+
+(b) section 16,
+
+(c) section 25, or
+
+(d) section 32.
+
+### 30 Crown application
+
+(1) This Act binds the Crown (but see section 8 and Article 4 of the Agreement).
+
+(2) The Crown is not criminally liable as a result of anything in this Act.
+
+(3) Despite subsection (2), this Act applies to persons in the service of the Crown as it applies to other persons.
+
+### 31 Extent
+
+(1) Sections 23 and 25 extend to Scotland only.
+
+(2) The rest of this Act extends to England and Wales, Scotland and Northern Ireland.
+
+(3) His Majesty may by Order in Council provide for any of the provisions of this Act to extend, with or without modifications, to the Isle of Man or to any British overseas territory.
+
+### 32 Commencement
+
+(1) Except as provided in subsection (2), this Act comes into force on the day on which it is passed.
+
+(2) Sections 2 to 8, 13, 21 and 24 come into force on such day as the Secretary of State may by regulations appoint.
+
+(3) Different days may be appointed for different purposes.
+
+(4) The Secretary of State may by regulations make transitional or saving provision in connection with the coming into force of any provision of this Act.
+
+(5) The power to make regulations under subsection (4) includes power to make different provision for different purposes.
+
+(6) Regulations under this section are to be made by statutory instrument.
+
+### 33 Short title
+
+This Act may be cited as the Biodiversity Beyond National Jurisdiction Act 2026.
+
+## Schedule — Utilisation information
+
+*Section 3(2)*
+
+**1** Where the utilisation involves or leads to any result within Article 12(8)(a) of the Agreement (publications, patents, product development etc), the information referred to in Article 12(8)(a) to (d) must be given within the period of 1 month beginning on the day on which the result is achieved.
+
+**2** Where the utilisation involves commercialisation, the information referred to in Article 12(8)(b) to (e) of the Agreement must be given—
+
+(a) within the period of 1 month beginning with the day on which the product in question is made available, and
+
+(b) within each subsequent period of 12 months for any part of which the product remains available.
+
+**3** Information does not have to be given where—
+
+(a) the relevant person does not have, and could not with reasonable effort obtain, the information, or
+
+(b) in a case where the utilisation concerned is that of digital sequence information, it is for any other reason not reasonably practicable to give the information.
+
+**4** The Secretary of State may by written notice to the relevant person extend the period within which any information has to be given.
+
+**5** In this Schedule, “the utilisation” means the utilisation that—
+
+(a) forms part of the utilisation project concerned, and
+
+(b) falls within section 3(1).

@@ -1,0 +1,10794 @@
+---
+title: "Finance Act 2007"
+identifier: "ukpga/2007/11"
+citation: "2007 c. 11"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S+N.I."
+date: 2007-07-19
+last_amended: 2026-04-01
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/2007/11"
+source_modified: 2026-04-27
+retrieved: 2026-10-11
+---
+
+# Finance Act 2007
+
+**2007 c. 11**
+
+An Act to grant certain duties, to alter other duties, and to amend the law relating to the National Debt and the Public Revenue, and to make further provision in connection with finance.
+
+[19th July 2007]
+
+Most Gracious Sovereign
+
+We, Your Majesty's most dutiful and loyal subjects, the Commons of the United Kingdom in Parliament assembled, towards raising the necessary supplies to defray Your Majesty's public expenses, and making an addition to the public revenue, have freely and voluntarily resolved to give and to grant unto Your Majesty the several duties hereinafter mentioned; and do therefore most humbly beseech Your Majesty that it may be enacted, and be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## Part 1 — Charges, rates, thresholds etc
+
+### Income tax
+
+#### 1 Charge and rates for 2007-08
+
+Income tax is charged for the tax year 2007-08; and for that tax year—
+
+(a) the starting rate is 10%,
+
+(b) the basic rate is 22%, and
+
+(c) the higher rate is 40%.
+
+### Corporation tax
+
+#### 2 Charge and main rates for financial year 2008
+
+(1) Corporation tax is charged for the financial year 2008; and for that year the rate of corporation tax is—
+
+(a) 28% on profits of companies other than ring fence profits, and
+
+(b) 30% on ring fence profits of companies.
+
+(2) In this section “ring fence profits” has the same meaning as in Chapter 5 of Part 12 of ICTA (see section 502(1) and (1A)).
+
+#### [^F1]3 Small companies' rates and fractions for financial year 2007
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Inheritance tax
+
+#### [^F2]4 Rates and rate bands for 2010-11
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Alcohol and tobacco
+
+#### 5 Rates of duty on alcoholic liquor
+
+(1) The Alcoholic Liquor Duties Act 1979 (c. 4) is amended as follows.
+
+(2) In section 36(1AA)(a) (standard rate of duty on beer), for “£13.26” substitute “ £13.71 ”.
+
+(3) In section 62(1A) (rates of duty on cider)—
+
+(a) in paragraph (a) (rate of duty per hectolitre in the case of sparkling cider of a strength exceeding 5.5 per cent), for “£166.70” substitute “ £172.33 ”,
+
+(b) in paragraph (b) (rate of duty per hectolitre in the case of cider of a strength exceeding 7.5 per cent which is not sparkling cider), for “£38.43” substitute “ £39.73 ”, and
+
+(c) in paragraph (c) (rate of duty per hectolitre in any other case), for “£25.61” substitute “ £26.48 ”.
+
+(4) For Part 1 of the Table in Schedule 1 substitute—
+
+> **Part 1 — Wine and made-wine of a strength not exceeding 22 per cent**
+>
+> |  |  |
+> |---|---|
+> | *Description of wine or made-wine* | *Rates of duty per hectolitre* |
+> |  | £ |
+> | Wine or made-wine of a strength not exceeding 4 per cent | 54.85 |
+> | Wine or made-wine of a strength exceeding 4 per cent but not exceeding 5.5 per cent | 75.42 |
+> | Wine or made-wine of a strength exceeding 5.5 per cent but not exceeding 15 per cent and not sparkling | 177.99 |
+> | Sparkling wine or sparkling made-wine of a strength exceeding 5.5 per cent but less than 8.5 per cent | 172.33 |
+> | Sparkling wine or sparkling made-wine of a strength of 8.5 per cent or of a strength exceeding 8.5 per cent but not exceeding 15 per cent | 227.99 |
+> | Wine or made-wine of a strength exceeding 15 per cent but not exceeding 22 per cent | 237.31 |
+
+.
+
+(5) The amendments made by this section are deemed to have come into force on 26th March 2007.
+
+#### 6 Rates of tobacco products duty
+
+(1) For the Table in Schedule 1 to the Tobacco Products Duty Act 1979 (c. 7) substitute—
+
+> |  |  |
+> |---|---|
+> | 1. Cigarettes | An amount equal to 22 per cent of the retail price plus £108.65 per thousand cigarettes. |
+> | 2. Cigars | £158.24 per kilogram. |
+> | 3. Hand-rolling tobacco | £113.74 per kilogram. |
+> | 4. Other smoking tobacco and chewing tobacco | £69.57 per kilogram. |
+
+(2) The amendment made by subsection (1) is deemed to have come into force at 6 p.m. on 21st March 2007.
+
+### Gambling
+
+#### 7 Rates of gaming duty
+
+(1) For the Table in section 11(2) of FA 1997 substitute—
+
+> |  |  |
+> |---|---|
+> | *Part of gross gaming yield* | *Rate* |
+> | The first £1,836,500 | 15 per cent. |
+> | The next £1,266,000 | 20 per cent. |
+> | The next £2,217,500 | 30 per cent. |
+> | The next £4,680,000 | 40 per cent. |
+> | The remainder | 50 per cent. |
+
+(2) In section 11(3) of that Act, for “40 per cent” substitute “ 50 per cent ”.
+
+(3) The amendments made by this section have effect in relation to accounting periods beginning on or after 1st April 2007.
+
+#### 8 Remote gaming duty
+
+(1) Schedule 1 contains amendments of and relating to Part 2 of BGDA 1981 (gaming duties) imposing a remote gaming duty.
+
+(2) The amendments made by Schedule 1 have effect in respect of the provision of facilities on or after a date appointed by the Commissioners for Her Majesty's Revenue and Customs by order made by statutory instrument.
+
+#### 9 Amusement machine licence duty
+
+(1) Section 23 of BGDA 1981 (amount of duty payable on amusement machine licence) is amended as follows.
+
+[^F3]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) After subsection (6) insert—
+
+> (7) The Commissioners may by order substitute for a sum for the time being specified in subsection (3) such higher sum as they consider appropriate.
+
+[^F4]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Environment
+
+#### 10 Fuel duty rates and rebates
+
+(1) The Hydrocarbon Oil Duties Act 1979 (c. 5) is amended as follows.
+
+(2) In section 6(1A) (hydrocarbon oil: rates of duty)—
+
+(a) in paragraph (a) (ultra low sulphur petrol), for “£0.4835” substitute “ £0.5035 ”,
+
+(b) in paragraph (aa) (sulphur-free petrol), for “£0.4835” substitute “ £0.5035 ”,
+
+(c) in paragraph (b) (light oil other than ultra low sulphur petrol and sulphur-free petrol), for “£0.5768” substitute “ £0.6007 ”,
+
+(d) in paragraph (c) (ultra low sulphur diesel), for “£0.4835” substitute “ £0.5035 ”,
+
+(e) in paragraph (ca) (sulphur-free diesel), for “£0.4835” substitute “ £0.5035 ”, and
+
+(f) in paragraph (d) (heavy oil other than ultra low sulphur diesel and sulphur-free diesel), for “£0.5468” substitute “ £0.5694 ”.
+
+(3) In section 6AA(3) (biodiesel), for “£0.2835” substitute “ £0.3035 ”.
+
+(4) In section 6AD(3) (bioethanol), for “£0.2835” substitute “ £0.3035 ”.
+
+(5) In section 8(3) (road fuel gas)—
+
+(a) in paragraph (a) (natural road fuel gas), for “£0.1081” substitute “ £0.1370 ”, and
+
+(b) in paragraph (b) (other road fuel gas), for “£0.1221” substitute “ £0.1649 ”.
+
+(6) In section 11(1) (rebate on heavy oil)—
+
+(a) in paragraph (a) (fuel oil), for “£0.0729” substitute “ £0.0929 ”,
+
+(b) in paragraph (b) (gas oil which is not ultra low sulphur diesel), for “£0.0769” substitute “ £0.0969 ”, and
+
+(c) in paragraph (ba) (ultra low sulphur diesel), for “£0.0769” substitute “ £0.0969 ”.
+
+(7) In section 13A(1) (rebate on unleaded petrol), for “£0.0617” substitute “ £0.0642 ”.
+
+(8) In section 14(1) (rebate on light oil for use as furnace oil), for “£0.0729” substitute “ £0.0929 ”.
+
+(9) The amendments made by this section come into force on 1st October 2007.
+
+#### 11 Rates of vehicle excise duty
+
+(1) Schedule 1 to VERA 1994 (annual rates of duty) is amended as follows.
+
+(2) In paragraph 1 (general)—
+
+(a) in sub-paragraph (2) (vehicle not covered elsewhere in Schedule otherwise than with engine cylinder capacity not exceeding 1,549cc), for “£175” substitute “ £180 ”, and
+
+(b) in sub-paragraph (2A) (vehicle not covered elsewhere in Schedule with engine cylinder capacity not exceeding 1,549cc), for “£110” substitute “ £115 ”.
+
+(3) Paragraph 1B (graduated rates for light passenger vehicles) is amended as follows.
+
+(4) For the words from “Table A” to “date,” substitute “ the following table ”.
+
+(5) For “, or is liable to the standard rate or the premium” substitute
+
+> <table>
+> <tbody>
+> <tr><th colspan="2"><i>CO<sub>2</sub> emissions figure</i></th><th colspan="2"><i>Rate</i></th></tr>
+> <tr><th><i>(1)</i></th><th><i>(2)</i></th><th><i>(3)</i></th><th><i>(4)</i></th></tr>
+> <tr><th><i>Exceeding</i></th><th><i>Not exceeding</i></th><th><i>Reduced rate</i></th><th><i>Standard rate</i></th></tr>
+> <tr><th><i>g/km</i></th><th><i>g/km</i></th><th><i>£</i></th><th><i>£</i></th></tr>
+> <tr><td>100</td><td>120</td><td>15</td><td>35</td></tr>
+> <tr><td>120</td><td>150</td><td>95</td><td>115</td></tr>
+> <tr><td>150</td><td>165</td><td>120</td><td>140</td></tr>
+> <tr><td>165</td><td>185</td><td>145</td><td>165</td></tr>
+> <tr><td>185</td><td>225</td><td>190</td><td>205</td></tr>
+> <tr><td>225</td><td></td><td>285</td><td>300</td></tr>
+> </tbody>
+> </table>
+
+> The table has effect in relation to vehicles first registered before 23rd March 2006 as if—
+>
+> (a) in column (3), in the last row, “190” were substituted for “ 285 ”, and
+>
+> (b) in column (4), in the last row, “205” were substituted for “ 300 or is liable to the standard ”.
+
+.
+
+(6) For Tables A and B substitute—
+
+(7) For paragraphs 1D and 1E substitute—
+
+> **1D The standard rate**
+>
+> A vehicle is liable to the standard rate of duty if it does not qualify for the reduced rate of duty.
+
+(8) In paragraph 1J (light goods vehicles)—
+
+(a) in sub-paragraph (a) (vehicle which is not lower-emission van), for “£170” substitute “ £175 ”, and
+
+(b) in sub-paragraph (b) (lower-emission van), for “£110” substitute “ £115 ”.
+
+(9) In paragraph 2(1) (motorcycles)—
+
+(a) in paragraph (b) (motorbicycle and engine's cylinder capacity more than 150cc but not more than 400cc), for “£31” substitute “ £32 ”,
+
+(b) in paragraph (c) (motorbicycle and engine's cylinder capacity more than 400cc but not more than 600cc), for “£46” substitute “ £47 ”, and
+
+(c) in paragraph (d) (any other case), for “£62” substitute “ £64 ”.
+
+(10) The amendments made by this section have effect in relation to licences taken out on or after 22nd March 2007.
+
+#### [^F5]12 Rates of air passenger duty
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 13 Rates of climate change levy
+
+(1) For the Table in paragraph 42(1) of Schedule 6 to FA 2000 substitute—
+
+> |  |  |
+> |---|---|
+> | *Taxable commodity supplied* | *Rate at which levy payable if supply is not a reduced-rate supply* |
+> | Electricity | £0.00456 per kilowatt hour |
+> | Gas supplied by a gas utility or any gas supplied in a gaseous state that is of a kind supplied by a gas utility | £0.00159 per kilowatt hour |
+> | Any petroleum gas, or other gaseous hydrocarbon, supplied in a liquid state | £0.01018 per kilogram |
+> | Any other taxable commodity | £0.01242 per kilogram |
+
+.
+
+(2) The amendment made by subsection (1) has effect in relation to supplies treated as taking place on or after 1st April 2008.
+
+#### 14 Rate of aggregates levy
+
+(1) In section 16(4) of FA 2001 (rate of aggregates levy), for “£1.60” substitute “ £1.95 ”.
+
+(2) The amendment made by subsection (1) has effect in relation to aggregate subjected to commercial exploitation on or after 1st April 2008.
+
+#### 15 Rates of landfill tax
+
+(1) Section 42 of FA 1996 (amount of landfill tax) is amended as follows.
+
+(2) In—
+
+(a) subsection (1)(a) (the standard rate), and
+
+(b) subsection (2) (reference to the standard rate taken to be £2 in cases of disposals of qualifying material),
+
+for “£21” substitute “ £24 ”.
+
+(3) The amendments made by subsection (2) have effect in relation to disposals made (or treated as made) on or after 1st April 2007 (but before 1st April 2008).
+
+(4) In subsection (1)(a), for “£24” substitute “ £32 ” and, in subsection (2), for “£24 were to £2” substitute “ £32 were to £2.50 ”.
+
+(5) The amendments made by subsection (4) come into force on 1st April 2008 and have effect in relation to disposals made (or treated as made) on or after that date.
+
+#### 16 Emissions trading: charges for allocations
+
+(1) The Treasury may impose charges by providing for Community tradeable emissions allowances to be allocated in return for payment.
+
+(2) The Treasury must by regulations make provision for and in connection with allocations of allowances in return for payment.
+
+[^F6]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) The regulations may make any other provision about allocations which the Treasury consider appropriate, including (in particular)—
+
+(a) provision as to the imposition of fees, and as to the making and forfeiting of deposits, in connection with participation in allocations,
+
+(b) provision as to the persons by whom allocations are to be conducted,
+
+(c) provision for the [[^F7]creation of criminal offences, or for the imposition and recovery of civil penalties,] for failure to comply with the terms of a scheme made under subsection (5),
+
+(d) provision for and in connection with the recovery of payments due in respect of allowances allocated (including provision as to the imposition and recovery of interest and penalties), and
+
+(e) provision conferring rights of appeal against decisions made in allocations, the forfeiting of deposits and the imposition of penalties (including provision specifying the person, court or tribunal to hear and determine appeals).
+
+(5) The Treasury may make schemes about the conduct and terms of allocations (to have effect subject to any regulations under this section); and schemes may in particular include provision about—
+
+(a) who may participate in allocations,
+
+(b) the allowances to be allocated, and
+
+(c) where and when allocations are to take place.
+
+(6) “Community tradeable emissions allowances” are transferable allowances which—
+
+(a) relate to the making of emissions of greenhouse gases, and
+
+(b) are allocated as part of a system made for the purpose of implementing any [[^F8]EU] obligation of the United Kingdom relating to such emissions;
+
+and “greenhouse gases” means carbon dioxide, methane, nitrous oxide, hydrofluorocarbons, perfluorocarbons and sulphur hexafluoride.
+
+[[^F9](6A) Subsection (4)(c) does not permit the creation of a criminal offence with maximum penalties in excess of the maximum penalties which an instrument under section 2(2) of the European Communities Act 1972 may provide in respect of an offence created by such an instrument.]
+
+(7) Regulations under this section are to be made by statutory instrument.
+
+(8) A statutory instrument containing regulations under this section is subject to annulment in pursuance of a resolution of the House of Commons unless a draft of the regulations has been laid before, and approved by a resolution of, that House.
+
+## Part 2 — Environment
+
+### Energy-saving: houses
+
+#### [^F10]17 Corporation tax deduction for expenditure on energy-saving items
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 18 Extension of income tax deduction for expenditure on energy-saving items
+
+(1) Section 312 of ITTOIA 2005 (deduction for expenditure on energy-saving items) is amended as follows.
+
+(2) In subsection (1)(b) (expenditure incurred in acquiring and installing energy-saving item in dwelling-house), for “in the dwelling-house an energy-saving item” substitute “ an energy-saving item in the dwelling-house or in a building containing the dwelling-house ”.
+
+(3) In subsection (1)(c) (expenditure incurred before 6th April 2009), for “2009” substitute “ 2015 ”.
+
+(4) In section 313 of that Act (restrictions on relief), insert at the end—
+
+> (6) No deduction is allowed in respect of expenditure incurred in acquiring and installing the energy-saving item in a building containing the dwelling-house in so far as the expenditure is not for the benefit of the dwelling-house.
+
+(5) In section 314 of that Act (regulations), insert at the end—
+
+> (3) Regulations under this section may—
+>
+> (a) make different provision for different cases, and
+>
+> (b) contain incidental, supplemental, consequential and transitional provision and savings (including provision as to appeals in relation to apportionments mentioned in subsection (1)(d)).
+
+(6) The amendments made by subsections (2) and (4) have effect in relation to expenditure incurred on or after 6th April 2007.
+
+(7) The amendment made by subsection (5) is deemed always to have had effect.
+
+(8) Regulations under section 314 of ITTOIA 2005 made on or after the day on which this Act is passed but before 31st December 2007 may include provision having effect in relation to expenditure incurred on or after 6th April 2007.
+
+#### 19 SDLT relief for new zero-carbon homes
+
+(1) In FA 2003, after section 58A insert—
+
+> **58B Relief for new zero-carbon homes**
+>
+> (1) The Treasury may make regulations granting relief on the first acquisition of a dwelling which is a “zero-carbon home”.
+>
+> (2) In subsection (1) “first acquisition of a dwelling” means the acquisition of a building which—
+>
+> (a) has been constructed for use as a single dwelling, and
+>
+> (b) has not previously been occupied.
+>
+> (3) For the purpose of subsection (2) land occupied or enjoyed with a dwelling as a garden or grounds is part of the dwelling.
+>
+> (4) The regulations shall define “zero-carbon home” by reference to specified aspects of the energy efficiency of a building; for which purpose “energy efficiency” includes—
+>
+> (a) consumption of energy,
+>
+> (b) conservation of energy, and
+>
+> (c) generation of energy.
+>
+> (5) The relief may take the form of—
+>
+> (a) exemption from charge, or
+>
+> (b) a reduction in the amount of tax chargeable.
+>
+> (6) Regulations under this section shall not have effect in relation to acquisitions on or after 1st October 2012.
+>
+> (7) The Treasury may by order—
+>
+> (a) substitute a later date for the date in subsection (6);
+>
+> (b) make transitional provision, or provide savings, in connection with the effect of subsection (6).
+>
+> **58C Relief for new zero-carbon homes: supplemental**
+>
+> (1) Regulations under section 58B—
+>
+> (a) shall include provision about the method of claiming relief (including documents or information to be provided), and
+>
+> (b) in particular, shall include provision about the evidence to be adduced to show that a building satisfies the definition of “zero-carbon home”.
+>
+> (2) Regulations made by virtue of subsection (1)(b) may, in particular—
+>
+> (a) refer to a scheme or process established by or for the purposes of an enactment about building;
+>
+> (b) establish or provide for the establishment of a scheme or process of certification;
+>
+> (c) specify, or provide for the approval of, one or more schemes or processes for certifying energy efficiency.
+>
+> (3) In defining “zero-carbon home” regulations under section 58B may include requirements which may be satisfied in relation to a building either—
+>
+> (a) by features of the building itself, or
+>
+> (b) by other installations or utilities.
+>
+> (4) Regulations under section 58B may modify the effect of section 108, or another provision of this Part about linked transactions, in relation to a set of transactions of which at least one is the first acquisition of a dwelling which is a zero-carbon home.
+>
+> (5) In determining whether section 116(7) applies, and in the application of section 116(7), a transaction shall be disregarded if or in so far as it involves the first acquisition of a dwelling which is a zero-carbon home.
+>
+> (6) Regulations under section 58B—
+>
+> (a) may provide for relief to be wholly or partly withdrawn if a dwelling ceases to be a zero-carbon home, and
+>
+> (b) may provide for the reduction or withholding of relief where a person acquires more than one zero-carbon home within a specified period.
+>
+> (7) Regulations under section 58B may include provision for relief to be granted in respect of acquisitions occurring during a specified period before the regulations come into force.
+
+(2) In section 114 of FA 2003 (stamp duty land tax: orders and regulations), insert at the end—
+
+> (5) The first set of regulations under section 58B (new zero-carbon homes) may not be made unless a draft has been laid before and approved by resolution of the House of Commons.
+>
+> (6) An order or regulations under this Part—
+>
+> (a) may make provision having effect generally or only in specified cases or circumstances,
+>
+> (b) may make different provision for different cases or circumstances, and
+>
+> (c) may include incidental, consequential or transitional provision or savings.
+
+### Domestic microgeneration
+
+#### 20 Income tax exemption for domestic microgeneration
+
+(1) In ITTOIA 2005, after section 782 insert—
+
+> **782A Domestic microgeneration**
+>
+> (1) No liability to income tax arises in respect of income arising to an individual from the sale of electricity generated by a microgeneration system if—
+>
+> (a) the system is installed at or near domestic premises occupied by the individual, and
+>
+> (b) the individual intends that the amount of electricity generated by it will not significantly exceed the amount of electricity consumed in those premises.
+>
+> (2) In subsection (1)—
+>
+> - “domestic premises” means premises used wholly or mainly as a separate private dwelling, and
+> - “microgeneration system” has the same meaning as in section 4 of the Climate Change and Sustainable Energy Act 2006.
+
+(2) The amendment made by subsection (1) has effect for the tax year 2007-08 and subsequent tax years.
+
+#### 21 Renewables obligation certificates for domestic microgeneration
+
+(1) In ITTOIA 2005, after section 782A (inserted by section 20) insert—
+
+> **782B Renewables obligation certificates for domestic microgeneration**
+>
+> (1) No liability to income tax arises in respect of the receipt by an individual of a renewables obligation certificate if—
+>
+> (a) the individual receives the certificate in connection with the generation of electricity by a microgeneration system,
+>
+> (b) the system is installed at or near domestic premises occupied by the individual, and
+>
+> (c) the individual intends that the amount of electricity generated by it will not significantly exceed the amount of electricity consumed in those premises.
+>
+> (2) In subsection (1)—
+>
+> - “domestic premises” and “microgeneration system” have the same meaning as in section 782A, and
+> - “renewables obligation certificate” means a certificate issued under section 32B of the Electricity Act 1989 or Article 54 of the Energy (Northern Ireland) Order 2003.
+
+(2) In TCGA 1992, after section 263 insert—
+
+> **263AZA Renewables obligation certificates for domestic microgeneration**
+>
+> (1) A gain accruing to an individual on a disposal of a renewables obligation certificate is not a chargeable gain if—
+>
+> (a) the individual acquired the certificate in connection with the generation of electricity by a microgeneration system,
+>
+> (b) the system is installed at or near domestic premises occupied by the individual, and
+>
+> (c) the individual intends that the amount of electricity generated by it will not significantly exceed the amount of electricity consumed in those premises.
+>
+> (2) In subsection (1)—
+>
+> - “domestic premises” means premises used wholly or mainly as a separate private dwelling,
+> - “microgeneration system” has the same meaning as in section 4 of the Climate Change and Sustainable Energy Act 2006, and
+> - “renewables obligation certificate” means a certificate issued under section 32B of the Electricity Act 1989 or Article 54 of the Energy (Northern Ireland) Order 2003.
+
+(3) The amendment made by subsection (1) has effect for the tax year 2007-08 and subsequent tax years.
+
+(4) The amendment made by subsection (2) has effect in relation to disposals on or after 6th April 2007.
+
+### Other measures
+
+#### 22 Aggregates levy: exemption for aggregate removed from railways etc
+
+(1) Section 17(3) of FA 2001 (exempt aggregate) is amended as follows.
+
+(2) Omit “or” at the end of paragraph (d).
+
+(3) After that paragraph insert—
+
+> (da) it consists wholly of aggregate won by being removed from the ground along the line or proposed line of any railway, tramway or monorail or proposed railway, tramway or monorail and in the course of excavations carried out—
+>
+> (i) for the purpose of improving or maintaining the railway, tramway or monorail or of constructing the proposed railway, tramway or monorail; and
+>
+> (ii) not for the purpose of extracting that aggregate;
+
+.
+
+(4) Insert “ or ” at the end of paragraph (e).
+
+(5) The amendment made by subsection (3) comes into force on such day as the Treasury may by order made by statutory instrument appoint.
+
+#### 23 Climate change levy: reduced-rate supplies etc
+
+Schedule 2 contains amendments of Schedule 6 to FA 2000 in relation to reduced-rate supplies and other matters.
+
+#### 24 Landfill tax: bodies concerned with the environment
+
+(1) In section 53(4) of FA 1996 (credit: bodies concerned with the environment), after paragraph (c) insert—
+
+> (ca) provision for an environmental body to be and remain approved only if it complies with conditions imposed from time to time by the regulatory body or for the regulatory body to be and remain approved only if it complies with conditions imposed from time to time by the Commissioners (including provision for the variation or revocation of such conditions);
+
+.
+
+(2) The amendment made by subsection (1) is deemed to have come into force on 22nd March 2007.
+
+## Part 3 — Income tax, corporation tax and capital gains tax
+
+### Anti-avoidance
+
+#### 25 Managed service companies
+
+(1) Schedule 3 contains provision about managed service companies.
+
+(2) That Schedule is deemed to have come into force on 6th April 2007.
+
+#### 26 Restrictions on trade loss relief for partners
+
+Schedule 4 contains provision restricting reliefs for losses made by individuals carrying on trades in partnership.
+
+#### 27 Extension of restrictions on allowable capital losses
+
+(1) TCGA 1992 is amended as follows.
+
+(2) In section 8 (company's total profits to include chargeable gains)—
+
+(a) in subsection (2), for the words from “does not include—” to the end substitute “ does not include a loss accruing to a company in such circumstances that if a gain accrued the company would be exempt from corporation tax in respect of it. ”, and
+
+(b) omit subsections (2A) to (2C).
+
+(3) After section 16 insert—
+
+> **16A Restrictions on allowable losses**
+>
+> (1) For the purposes of this Act, “allowable loss” does not include a loss accruing to a person if—
+>
+> (a) it accrues to the person directly or indirectly in consequence of, or otherwise in connection with, any arrangements, and
+>
+> (b) the main purpose, or one of the main purposes, of the arrangements is to secure a tax advantage.
+>
+> (2) For the purposes of subsection (1)—
+>
+> - “arrangements” includes any agreement, understanding, scheme, transaction or series of transactions (whether or not legally enforceable), and
+>
+> - “tax advantage” means—
+>
+>   - (a) relief or increased relief from tax,
+>   - (b) repayment or increased repayment of tax,
+>   - (c) the avoidance or reduction of a charge to tax or an assessment to tax, or
+>   - (d) the avoidance of a possible assessment to tax,
+>
+>   and for the purposes of this definition “tax” means capital gains tax, corporation tax or income tax.
+>
+> (3) For the purposes of subsection (1) it does not matter—
+>
+> (a) whether the loss accrues at a time when there are no chargeable gains from which it could otherwise have been deducted, or
+>
+> (b) whether the tax advantage is secured for the person to whom the loss accrues or for any other person.
+
+(4) In section 288(1) (interpretation), in the definition of “allowable loss”, after “16” insert “ , 16A ”.
+
+[^F11]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6) The amendments made by this section have effect in relation to losses accruing on disposals made on or after 6th December 2006.
+
+#### [^F12]28 Restriction on expenses of management
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 29 Life policies etc: effect of rebated or reinvested commission
+
+[^F13]1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) In section 552 of that Act (information: duty of insurers), after subsection (12) insert—
+
+> (13) For the purposes of this section, no account is to be taken of the effect of section 548A above or section 541A of ITTOIA 2005.
+
+(3) In ITTOIA 2005, after section 541 insert—
+
+> **Rebated or reinvested commission**
+>
+> **541A Effect of rebated or reinvested commission in certain cases**
+>
+> (1) This section applies if—
+>
+> (a) a chargeable event within section 484(1)(a)(i) to (iii), (c) or (e) occurs in respect of a policy or contract,
+>
+> (b) commission in respect of the policy or contract has at any time been rebated or reinvested, and
+>
+> (c) condition A or B is met.
+>
+> (2) For the purposes of performing the calculation in section 494 (total allowable deductions) for the chargeable event, the total amount of premiums under the policy or contract paid in the period mentioned in section 494(1) or (2)(b) is to be reduced by the total amount of commission attributable to those premiums that has been rebated or reinvested.
+>
+> (3) Condition A is that the total amount of premiums under the policy or contract paid in a relevant period exceeds £100,000.
+>
+> (4) Condition B is that—
+>
+> (a) at a time when the policy or contract was the taxable person's, the taxable person's policies and contracts exceeded the relevant threshold as respects a relevant period, and
+>
+> (b) premiums under the policy or contract were paid in that relevant period.
+>
+> (5) In subsection (4)(a) “taxable person” means the person whose policy or contract the policy or contract is, immediately before the chargeable event.
+>
+> (6) For the purposes of subsection (4)(a) a person's policies and contracts “exceed the relevant threshold” as respects a relevant period if the total amount of premiums under them paid in that relevant period exceeds the sum specified in subsection (3).
+>
+> (7) In this section “relevant period” means—
+>
+> (a) the period beginning with the beginning of the tax year in which the chargeable event occurs and ending with the chargeable event, or
+>
+> (b) any of the 3 preceding tax years.
+>
+> (8) The Treasury may by order—
+>
+> (a) substitute another sum for the sum for the time being specified in subsection (3);
+>
+> (b) amend the definition of “relevant period”.
+>
+> **541B Section 541A: further definitions**
+>
+> (1) This section supplements section 541A.
+>
+> (2) “Commission”, in relation to a policy or contract, includes any passing of value to or for the benefit of an intermediary, or a person connected with an intermediary, that can reasonably be taken to represent a reward in respect of the policy or contract.
+>
+> (3) Commission in respect of a policy or contract is “reinvested” if, as a result of a waiver of an entitlement to it, there is an increase in the total value of a relevant person's policies and contracts.
+>
+> (4) The amount of commission reinvested is the amount of the increase.
+>
+> (5) Commission in respect of a policy or contract is “rebated” if—
+>
+> (a) value passes (directly or indirectly) from an intermediary, or a person connected with an intermediary, to or for the benefit of a relevant person (and the passing of value does not amount to the reinvestment of the commission), and
+>
+> (b) the passing of value can reasonably be taken to be in respect of the commission.
+>
+> (6) The amount of commission rebated is the amount of value passed.
+>
+> (7) A policy or contract is a person's policy or contract if a gain arising in connection with it would be—
+>
+> (a) a gain for which the person, or (if the person is an individual) the person's spouse or civil partner, would be liable to tax under this Chapter, or
+>
+> (b) treated by virtue of section 547(1) of ICTA as forming part of the person's income.
+>
+> (8) Any necessary apportionment is to be made (on a just and reasonable basis) as regards—
+>
+> (a) commission which is attributable to two or more premiums, and
+>
+> (b) any part of such commission that has been rebated or reinvested.
+>
+> (9) Commission which is in respect of one or more policies or contracts (but is not attributable to particular premiums) is to be attributed to such premiums as is just and reasonable.
+>
+> (10) In subsections (3) and (5), “relevant person” means—
+>
+> (a) any of the policyholders (including any of the persons who hold the contract),
+>
+> (b) a person who beneficially owns the rights under the policy or contract,
+>
+> (c) if those rights are held on trust, any of the trustees, or
+>
+> (d) a person connected with a person within any of paragraphs (a) to (c).
+
+(4) The amendments made by this section have effect in relation to a policy or contract if—
+
+(a) it is made on or after 21st March 2007, or
+
+(b) on or after that date, any of its terms are varied, or a right under it is exercised, so as to increase the benefits under it.
+
+#### 30 Avoidance involving financial arrangements
+
+Schedule 5 contains provision in relation to tax avoidance involving financial arrangements.
+
+#### 31 Companies carrying on business of leasing plant or machinery
+
+Schedule 6 contains provision in relation to companies carrying on a business of leasing plant or machinery.
+
+#### 32 Restrictions on companies buying losses or gains: tax avoidance schemes
+
+(1) TCGA 1992 is amended as follows.
+
+(2) In section 184A(2) (losses accruing on disposals of pre-change assets not deductible from gains unless gains accrue on disposals of pre-change assets), omit “unless the gains accrue to the company on a disposal of a pre-change asset”.
+
+(3) In section 184B(2) (losses not deductible from gains accruing on disposals of pre-change assets unless losses accrue on disposals of pre-change assets), omit “unless the loss accrues to the company on a disposal of a pre-change asset”.
+
+(4) Section 70 of FA 2006 (which inserted sections 184A to 184F of TCGA 1992) is amended as follows.
+
+(5) In subsection (9) (special provision for qualifying changes of ownership and disposals before 5th December 2005)—
+
+(a) for “The following subsection applies” substitute “ Subsections (10) to (12) apply ”,
+
+(b) in paragraph (a), omit “or 184B”,
+
+(c) in paragraph (c), for “at all subsequent times,” substitute “ immediately afterwards, ”,
+
+(d) after that paragraph insert—
+
+> (ca) no qualifying change of ownership occurs at any time in relation to the principal company of that group for the purposes of section 184A of TCGA 1992 directly or indirectly in consequence of, or otherwise in connection with, any arrangements the main purpose, or one of the main purposes, of which is to secure a tax advantage falling within subsection (1)(d) of that section, and
+
+,
+
+(e) omit paragraph (d) (together with the “and” following it), and
+
+(f) in paragraph (e), omit “, or a qualifying gain for the purposes of section 184B of that Act,”.
+
+(6) For subsections (10) and (11) substitute—
+
+> (10) Subsection (2) of that section has effect in relation to that qualifying loss subject to the following modifications.
+>
+> (11) That subsection has effect as if there were inserted at the end of it “ unless the gains accrue to the company on a disposal of a pre-change asset ”.
+>
+> (12) That subsection (modified as mentioned above) has effect as if the reference to a pre-change asset included an asset held before the relevant time by any company—
+>
+> (a) which, immediately before that time, was a member of the same group of companies as the relevant company, and
+>
+> (b) which, throughout the period beginning with that time and ending immediately after the making of the disposal referred to in that subsection, has remained under the control of the company which was the principal company of that group at the relevant time.
+>
+> (13) Expressions which are used in subsections (9) to (12) have the same meaning as in sections 184A and 184C of TCGA 1992.
+
+(7) The amendment made by subsection (2) has effect in relation to gains accruing on disposals made on or after 21st March 2007.
+
+(8) The amendment made by subsection (3) has effect in relation to losses accruing on disposals made on or after that date.
+
+(9) The amendments made by subsections (5) and (6) have effect in relation to disposals made on or after that date; but the amendment made by subsection (5)(d) has no effect in relation to disposals made before 9th May 2007.
+
+#### 33 Lloyd's corporate members: restriction of group relief
+
+(1) In FA 1994, after section 227 insert—
+
+> **227A Restriction of group relief**
+>
+> (1) Losses of the last active underwriting year of a corporate member are not eligible for surrender by the corporate member as group relief to another company unless the group-relief continuity condition is satisfied.
+>
+> (2) In this section “last active underwriting year”, in relation to a corporate member, means—
+>
+> (a) if the corporate member writes insurance business in only one underwriting year, that underwriting year, and
+>
+> (b) otherwise, the last underwriting year in which the corporate member writes insurance business.
+>
+> (3) Where in an underwriting year—
+>
+> (a) the corporate member writes an amount of insurance business which is insignificant when compared with that written by it in the preceding underwriting year, or
+>
+> (b) the only insurance business written by the corporate member consists of the acceptance of reinsurance to close premiums,
+>
+> the underwriting year is not to be regarded for the purposes of subsection (2)(b) above as an underwriting year in which the corporate member writes insurance business.
+>
+> (4) In subsection (3)(b) above “reinsurance to close premium” means a premium or other consideration under a contract in pursuance of which, in accordance with the rules or practice of Lloyd's, one underwriting member agrees with another to meet liabilities arising from the latter's underwriting business in an underwriting year so that the accounts of the business for that year may be closed.
+>
+> (5) The group-relief continuity condition is satisfied if the corporate member (as the surrendering company) and the other company (as the claimant company) meet the conditions in section 402(2) or (3) of the Taxes Act 1988 throughout the period—
+>
+> (a) beginning with the last day of the last active underwriting year of the corporate member, and
+>
+> (b) ending with the first day of the first underwriting year in which losses of the last active underwriting year are declared.
+
+(2) The amendment made by subsection (1) has effect in relation to any case where the corporate member (as the surrendering company) and the other company (as the claimant company) first meet the conditions in section 402(2) or (3) of ICTA on or after 21st March 2007.
+
+#### 34 Employee benefit contributions
+
+[^F14]1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F14]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F14]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F14]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F14]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F14]6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7) Part 2 of ITTOIA 2005 (trading income) is amended as follows.
+
+(8) In section 38 (restriction of deductions for employee benefit contributions), for subsection (1) substitute—
+
+> (1) This section applies if, in calculating for income tax purposes the profits of a trade of a person (“the employer”) for a period, a deduction would otherwise be allowable for the period in respect of employee benefit contributions made or to be made (but see subsection (4)).
+
+(9) In section 39 (making of “employee benefit contributions), for subsection (1) substitute—
+
+> (1) For the purposes of section 38, an “employee benefit contribution” is made if, as a result of any act or omission—
+>
+> (a) property is held, or may be used, under an employee benefit scheme, or
+>
+> (b) there is an increase in the total value of property that is so held or may be so used (or a reduction in any liabilities under an employee benefit scheme).
+
+(10) In section 41 (timing and amount of certain benefits), for “the third party” (in both places) substitute “ a scheme manager ”.
+
+(11) In section 42 (provision or payment out of employee benefit contributions)—
+
+(a) in subsection (1), for “the third party”, in the first place, substitute “ a scheme manager ” and, in the second place, substitute “ the scheme manager ”,
+
+(b) in subsection (3), for “the third party”, in the first place, substitute “ a scheme manager ” and, in the second place, substitute “ the scheme manager ”, and
+
+(c) in subsection (5), for “third party” substitute “ scheme manager ”.
+
+(12) In section 44(1) (interpretation), for the definition of “the third party” substitute—
+
+> “scheme manager” means a person who administers an employee benefit scheme (acting in that capacity).
+
+(13) The amendments made by this section have effect in relation to employee benefit contributions made on or after 21st March 2007.
+
+#### [^F15]35 Schemes etc designed to increase double taxation relief
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Capital allowances
+
+#### [^F16]36 Industrial and agricultural buildings allowances
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F17]37 Temporary increase in first-year capital allowances for small enterprises
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Insurance and friendly societies
+
+#### 38 Insurance companies: gross roll-up business etc
+
+(1) Part 1 of Schedule 7 contains provisions relating to gross roll-up business, capital redemption business and miscellaneous minor matters relating to insurance companies.
+
+(2) The amendments made by that Part of that Schedule have effect—
+
+(a) for the purposes of corporation tax, for periods of account of insurance companies beginning on or after 1st January 2007, and
+
+(b) for the purposes of income tax, for the tax year 2007-08 and subsequent tax years.
+
+(3) Subsection (2) is subject to the transitional provisions in Part 2 of that Schedule.
+
+#### 39 Insurance companies: basis of taxation etc
+
+(1) Part 1 of Schedule 8 contains provision about the basis of taxation of insurance companies and related matters.
+
+(2) The amendments made by that Part of that Schedule have effect for periods of account of insurance companies beginning on or after 1st January 2007.
+
+(3) Subsection (2) is subject to the transitional provisions in Part 2 of that Schedule.
+
+#### 40 Insurance companies: transfers etc
+
+Schedule 9 contains provision about transfers by insurance companies and related matters.
+
+#### 41 Insurance companies: miscellaneous
+
+Schedule 10 contains miscellaneous provisions relating to insurance companies.
+
+#### 42 Technical provisions made by general insurers
+
+Schedule 11 contains provision in relation to technical provisions made by general insurers.
+
+#### 43 Lloyd's: cessation of business by corporate members
+
+(1) In FA 1994, after section 227A (inserted by section 33) insert—
+
+> **227B Transfer of underwriting business without change of ownership**
+>
+> (1) This section applies where, in accordance with the rules or practice of Lloyd's, a corporate member (“the successor”) has taken up the syndicate capacity of another corporate member (“the predecessor”).
+>
+> (2) Section 343 of the Taxes Act 1988 (company reconstructions without a change of ownership) applies as if—
+>
+> (a) the trade mentioned in that section were the underwriting business of the predecessor,
+>
+> (b) the predecessor ceases to carry it on, and the successor begins to carry it on, at the end of the first underwriting year in which profits or losses of the predecessor's last active underwriting year are declared, and
+>
+> (c) subsections (8) to (10) and (12) were omitted.
+>
+> (3) For the purposes of subsection (1) above the successor has taken up the predecessor's syndicate capacity if it has taken up the rights to participate in syndicates which were (or otherwise would be) offered to the predecessor.
+>
+> (4) In subsection (2)(b) above “last active underwriting year” has the same meaning as in section 227A above (see subsections (2) to (4) of that section).
+
+(2) The amendment made by subsection (1) has effect in any case where the first underwriting year in which profits or losses of the predecessor's final underwriting year are declared is 2007 or a later underwriting year.
+
+#### [^F18]44 Transfers of business by friendly societies to insurance companies etc
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 45 Tax exempt business of friendly societies
+
+(1) Section 462 of ICTA (conditions for tax exempt business) is amended as follows.
+
+(2) For subsection (1) substitute—
+
+> (1) Subject to subsections (2) to (4) below, section 460 does not afford any exemption from corporation tax in relation to so much of the profits arising to a friendly society or insurance company from any business as is attributable to a policy which—
+>
+> (a) is not a qualifying policy (by virtue of sub-paragraph (2) of paragraph 6 of Schedule 15) and is not an excluded policy, and
+>
+> (b) would not be a qualifying policy (by virtue of that sub-paragraph) if all excluded policies were left out of account.
+>
+> (1A) For the purposes of subsection (1) above a policy is an excluded policy if—
+>
+> (a) it is a policy held otherwise than with the friendly society or insurance company, or
+>
+> (b) the person who has the contract effecting the policy acquired the rights under it on an assignment (or, in Scotland, assignation) otherwise than for money or money's worth.
+
+(3) In subsection (2), for “under section 460(1) for profits arising from any part of a life or endowment” substitute “ in relation to profits arising from any part of a ”.
+
+[^F19]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F20]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6) The amendments made by this section are deemed to have come into force on 1st January 2007.
+
+#### 46 Purchased life annuities: self-assessment
+
+(1) In section 437(1C) of ICTA (general annuity business), omit paragraphs (c)(i) and (d)(i).
+
+(2) In section 656 of that Act (purchased life annuities other than retirement annuities), omit subsections (5) and (6).
+
+(3) In section 658 of that Act (supplementary), omit subsections (1) and (4) to (6).
+
+(4) In section 828(4) of that Act (parliamentary procedure for orders and regulations), omit “658(3)”.
+
+(5) In section 717 of ITTOIA 2005 (exemption for part of purchased life annuity payment), omit subsection (3).
+
+(6) Omit section 723 of that Act (officer of Revenue and Customs to determine certain questions).
+
+(7) In section 724 of that Act (regulations)—
+
+(a) in subsection (1)(a), for “723” substitute “ 722 ”, and
+
+(b) omit subsection (2).
+
+(8) In section 873(3) of that Act (parliamentary procedure for orders and regulations), omit paragraph (b).
+
+(9) The amendments made by subsections (1) to (3) and (5) to (7) come into force on such day as the Treasury may by order appoint; and different days may be appointed for different purposes.
+
+### Repos
+
+#### 47 Sale and repurchase of securities
+
+(1) Schedule 13 contains provision for corporation tax purposes about the sale and repurchase of securities.
+
+(2) Schedule 14 contains minor and consequential amendments in relation to the sale and repurchase of securities.
+
+(3) The Treasury may by order make such other amendments (including repeals and revocations) of enactments or instruments as may appear appropriate in consequence of, or otherwise in connection with, those Schedules.
+
+(4) Schedule 13, and the amendments made by Schedule 14, have effect in accordance with provision made by the Treasury by order.
+
+(5) Any order under this section—
+
+(a) may make different provision for different purposes, and
+
+(b) may contain transitional provision and savings.
+
+### CFCs
+
+#### 48 Controlled foreign companies
+
+Schedule 15 contains provision in relation to controlled foreign companies.
+
+### R&D
+
+#### [^F21]49 Vaccine research relief: amount of deduction for SMEs
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F22]50 Research and development tax relief: definition of SME etc
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Venture capital schemes etc
+
+#### 51 Venture capital schemes etc
+
+Schedule 16 contains provision about venture capital schemes (and provision consequential on such provision).
+
+### REITs
+
+#### 52 Real Estate Investment Trusts
+
+(1) Schedule 17 contains provisions about Real Estate Investment Trusts.
+
+(2) The amendments made by that Schedule have effect in respect of—
+
+(a) an accounting period, of a company to which Part 4 of FA 2006 (REITs) applies, which begins on or after 1st January 2007,
+
+(b) an accounting period, of the principal company of a group to which that Part applies, which begins on or after 1st January 2007, and
+
+(c) a distribution to which section 121 of FA 2006 applies and which is received on or after 1st January 2007.
+
+### Alternative finance
+
+#### 53 Alternative finance investment bond
+
+[^F23]1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F23]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F23]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F23]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F23]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F23]6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F23]7 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F23]8 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F23]9 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F23]10 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F24]11 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F25]12 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F26]13 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F26]14 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F27]54 Profit share agency
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Trusts
+
+#### 55 Trust income
+
+(1) In section 686A(2)(a) of ICTA (receipts to be treated as income subject to special rate of tax: payment by company), after “made” insert “ by way of qualifying distribution ”.
+
+(2) In Type 1(b) in section 482 of ITA 2007 (types of amount to be charged at special rates for trustees), after “made” insert “ by way of qualifying distribution ”.
+
+(3) The amendments made by this section have effect in respect of payments made to the trustees of a settlement on or after 6th April 2006.
+
+#### 56 Trust gains on contracts for life insurance
+
+(1) Section 498 of ITA 2007 (trustees' tax pool) is amended as follows.
+
+(2) In subsection (1)—
+
+(a) in Type 1, for “2 or 3” substitute “ 2, 3 or 3A ”, and
+
+(b) after Type 3 insert—
+
+> *Type 3A* The amount of tax at the nominal rate on any amount in respect of which—
+>
+> (a) the trustees are liable to income tax under section 467 of ITTOIA 2005 (gains from contracts for life insurance etc),
+>
+> (b) the trustees are liable to income tax at the trust rate by virtue of section 482 above, and
+>
+> (c) tax at the savings rate is treated as having been paid by virtue of section 530 of ITTOIA 2005 (life insurance).
+
+(3) After subsection (2) insert—
+
+> (2A) In relation to Type 3A, the reference to the nominal rate is a reference to a rate equal to the difference between the trust rate and the savings rate.
+
+(4) The amendments made by this section have effect in relation to gains arising to the trustees of a settlement on or after 6th April 2007.
+
+### Other corporation tax measures
+
+#### 57 Offshore funds
+
+[^F28]1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) In section 756A of ICTA (definition of “offshore fund”), for subsection (3) substitute—
+
+> (3) In this section “collective investment scheme” means any arrangements which are a collective investment scheme for the purposes of Part 17 of the Financial Services and Markets Act 2000 (see section 235 of that Act and orders made under subsection (5) of that section) or would be if the words “, within a period appearing to him to be reasonable,” were omitted from section 236(3)(a) of that Act.
+>
+> (4) But the reference to offshore funds in section 760(3)(a) does not include any arrangements which are not a collective investment scheme for the purposes of that Part of that Act.
+
+[^F29]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) In Schedule 27 to ICTA (distributing funds), in sub-paragraph (1)(c) of paragraph 6 (investments of offshore fund in other offshore funds which could, apart from that paragraph, be certified as distributing funds not to count towards limit in section 760(3)(a)), omit “without regard to the provisions of this paragraph,”.
+
+(5) In section 152 of ITA 2007 (losses from miscellaneous transactions), in subsection (8), insert at the end “ except that income on which income tax is charged under section 761(1)(b)(i) of ICTA is not “section 1016 income” for the purposes of subsection (2)(a) ”.
+
+[^F30]6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F30]7 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(8) The amendment made by subsection (4) has effect in relation to account periods (within the meaning of Chapter 5 of Part 17 of ICTA) beginning on or after 1st January 2007.
+
+(9) The amendment made by subsection (5) has effect in relation to transactions on or after 6th April 2007.
+
+#### 58 Election out of special film rules for film production companies
+
+[^F31]1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) In paragraph 10 of Schedule 18 to FA 1998 (other claims and elections to be included in company tax return), insert at the end—
+
+> (5) An election under section 32(7) of the Finance Act 2006 (election not to be a film production company) can only be made by being included in a company tax return (see section 32(8)(a) of that Act).
+
+#### 59 Securitisation companies
+
+(1) Section 83 of FA 2005 (continued application of old UK GAAP to securitisation companies during transitional period) is amended as follows.
+
+(2) In subsection (1)(b) (old UK GAAP to apply to periods of account ending before 1st January 2008), insert at the beginning “ (subject to subsection (7A)(a)) ”.
+
+(3) After subsection (7) insert—
+
+> (7A) The Treasury may by regulations—
+>
+> (a) make provision for subsection (1) to apply in relation to periods of account ending on or after 1st January 2008 but before a date specified by the regulations, and
+>
+> (b) make provision modifying any provision of, or made under, the Corporation Tax Acts in relation to the first period of account of securitisation companies in the case of which subsection (1) does not apply (whether by virtue of that subsection itself or regulations under paragraph (a)).
+>
+> (7B) Regulations under subsection (7A)(a) may, in particular—
+>
+> (a) specify a date only in relation to specified descriptions of company,
+>
+> (b) specify different dates in relation to different descriptions of company, and
+>
+> (c) include provision for a company to elect that the regulations are to apply to it or provision for a company to elect that they are not to apply to it.
+
+[^F32]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F32]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F32]6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Other income tax measures
+
+#### 60 Gift aid: limits
+
+(1) In section 418 of ITA 2007 (donations to charity by individuals: limits)—
+
+(a) in subsection (2)(c), for “2.5%” substitute “ 5% ”, and
+
+[^F33]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F34]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) The amendment made by subsection (1) has effect in relation to gifts made on or after 6th April 2007.
+
+(4) The amendment made by subsection (2) has effect in relation to gifts made in an accounting period ending on or after 6th April 2007.
+
+#### 61 Enterprise management incentives: excluded activities
+
+(1) In Part 3 of Schedule 5 to ITEPA 2003 (enterprise management incentives: qualifying companies), in paragraph 19 (excluded activities: receipt of royalties or licence fees)—
+
+(a) in sub-paragraph (4), for paragraphs (a) and (b) substitute—
+
+> (a) by the relevant company, or
+>
+> (b) by a company which was a qualifying subsidiary of the relevant company throughout a period during which it created the whole or greater part (in terms of value) of the intangible asset.
+
+, and
+
+(b) after sub-paragraph (7) insert—
+
+> (8) If—
+>
+> (a) the relevant company acquired all the shares (“old shares”) in another company (“the old company”) at a time when the only shares issued in the relevant company were subscriber shares, and
+>
+> (b) the consideration for the old shares consisted wholly of the issue of shares in the relevant company,
+>
+> references in sub-paragraph (4) to the relevant company include the old company.
+
+(2) The amendments made by subsection (1) have effect in relation to options granted on or after 6th April 2007.
+
+(3) They also have effect in relation to a qualifying option within subsection (4), for the purpose of determining at any time on or after that date whether an activity is an excluded activity.
+
+(4) An option is within this subsection if it was granted before 6th April 2007 and, immediately before that date—
+
+(a) it had not been exercised, and
+
+(b) no disqualifying event had occurred in relation to it.
+
+(5) Subsection (6) applies in respect of an option within subsection (4) if—
+
+(a) immediately before 6th April 2007—
+
+(i) the right to exploit an intangible asset (“the asset”) was vested in the relevant company or a subsidiary of it (in either case, alone or jointly with others), and
+
+(ii) the asset was a relevant intangible asset,
+
+(b) at any time on or after that date, an activity carried on by the relevant company or a subsidiary of it would be an excluded activity by reason only of the receipt of royalties or licence fees attributable to the exploitation of the asset, and
+
+(c) the activity would not be an excluded activity if the amendments made by subsection (1) had not been made.
+
+(6) The activity is to be treated, in relation to the option, as not being an excluded activity at that time.
+
+#### 62 Benefits code: whether employment is “lower-paid employment”
+
+(1) In section 219 of ITEPA 2003 (exclusion of lower-paid employments from parts of benefits code: extra amounts to be added in connection with a car), omit subsections (5) and (6).
+
+(2) The repeal made by subsection (1) has effect for the tax year 2007-08 and subsequent tax years.
+
+#### 63 Armed forces redundancy schemes
+
+(1) In section 411 of ITEPA 2003 (exception for payments and benefits for forces), the existing provision becomes subsection (1) and after that subsection insert—
+
+> (2) This Chapter does not apply to a payment or other benefit provided under a scheme established by an order under section 1(1) of the Armed Forces (Pensions and Compensation) Act 2004.
+
+(2) The amendments made by subsection (1) have effect for the tax year 2006-07 and subsequent tax years.
+
+#### 64 Armed forces: the Operational Allowance
+
+(1) In ITEPA 2003, after section 297 insert—
+
+> **297A Armed forces: the Operational Allowance**
+>
+> (1) No liability to income tax arises in respect of payments to members of the armed forces of the Crown of the Operational Allowance.
+>
+> (2) The Operational Allowance is an allowance designated as such by the Secretary of State.
+
+(2) The amendment made by subsection (1) has effect in relation to payments whenever made.
+
+#### 65 Service charge income
+
+(1) Section 480 of ITA 2007 (meaning of “accumulated or discretionary income”) is amended as follows.
+
+(2) In subsection (3)(c) (income from service charges held on trust by relevant housing body), for the words after “charges” substitute “ which are paid in respect of dwellings in the United Kingdom and are held on trust. ”
+
+(3) For subsections (5) and (6) substitute—
+
+> (5) In subsection (3)(c) “service charges” has the meaning given by section 18 of the Landlord and Tenant Act 1985 (but as if that section also applied in relation to dwellings in Scotland and Northern Ireland).
+
+(4) The amendments made by this section have effect for the tax year 2007-08 and subsequent tax years.
+
+#### 66 Charge on benefits received by former owner of property: late elections
+
+(1) In paragraph 23 of Schedule 15 to FA 2004 (charge to income tax on benefits received by former owner of property), for sub-paragraphs (3) and (4) substitute—
+
+> (3) The election must be made on or before—
+>
+> (a) the relevant filing date, or
+>
+> (b) such later date as an officer of Revenue and Customs may, in a particular case, allow.
+
+(2) The amendment made by subsection (1) is deemed to have come into force on 21st March 2007.
+
+#### 67 Unpaid remuneration and employee benefit contributions
+
+(1) Section 31 of ITTOIA 2005 (relationship between rules prohibiting and allowing deductions: trading income) is amended as follows.
+
+(2) In subsection (1) (priority of relevant permissive rules over relevant prohibitive rules), in paragraph (b) (sections to which that priority rule is subject), for “sections 48 (car or motor cycle hire) and” substitute “ section 36 (unpaid remuneration), section 38 (employee benefit contributions), section 48 (car or motor cycle hire) and section ”.
+
+(3) In subsection (3) (meaning of “relevant prohibitive rule”), after “sections” insert “ 36, 38, ”.
+
+(4) Section 274 of ITTOIA 2005 (provision corresponding to section 31 of that Act in case of property income) is amended as follows.
+
+(5) In subsection (1)(b), for “sections 48 (car or motor cycle hire) and” substitute “ section 36 (unpaid remuneration), section 38 (employee benefit contributions), section 48 (car or motor cycle hire) and section ”.
+
+(6) In subsection (3), after “sections” insert “ 36, 38, ”.
+
+(7) The amendments made by this section have effect for the tax year 2007-08 and subsequent tax years.
+
+## Part 4 — Pensions
+
+### 68 Abolition of contributions relief for life assurance premium contributions
+
+Schedule 18 contains provisions denying relief for contributions made by or on behalf of members in respect of life assurance premiums.
+
+### 69 Alternatively secured pensions etc
+
+Schedule 19 contains provisions about alternatively secured pensions and transfer lump sum death benefit etc.
+
+### 70 Miscellaneous
+
+Schedule 20 contains miscellaneous provisions about registered pension schemes and employer-financed retirement benefits schemes.
+
+## Part 5 — SDLT, stamp duty and SDRT
+
+### SDLT: anti-avoidance provisions
+
+#### 71 Anti-avoidance
+
+(1) In FA 2003, after section 75 insert (in place of the section inserted by the Stamp Duty Land Tax (Variation of the Finance Act 2003) Regulations 2006 (S.I. 2006/ 3237))—
+
+> **75A Anti-avoidance**
+>
+> (1) This section applies where—
+>
+> (a) one person (V) disposes of a chargeable interest and another person (P) acquires either it or a chargeable interest deriving from it,
+>
+> (b) a number of transactions (including the disposal and acquisition) are involved in connection with the disposal and acquisition (“the scheme transactions”), and
+>
+> (c) the sum of the amounts of stamp duty land tax payable in respect of the scheme transactions is less than the amount that would be payable on a notional land transaction effecting the acquisition of V's chargeable interest by P on its disposal by V.
+>
+> (2) In subsection (1) “transaction” includes, in particular—
+>
+> (a) a non-land transaction,
+>
+> (b) an agreement, offer or undertaking not to take specified action,
+>
+> (c) any kind of arrangement whether or not it could otherwise be described as a transaction, and
+>
+> (d) a transaction which takes place after the acquisition by P of the chargeable interest.
+>
+> (3) The scheme transactions may include, for example—
+>
+> (a) the acquisition by P of a lease deriving from a freehold owned or formerly owned by V;
+>
+> (b) a sub-sale to a third person;
+>
+> (c) the grant of a lease to a third person subject to a right to terminate;
+>
+> (d) the exercise of a right to terminate a lease or to take some other action;
+>
+> (e) an agreement not to exercise a right to terminate a lease or to take some other action;
+>
+> (f) the variation of a right to terminate a lease or to take some other action.
+>
+> (4) Where this section applies—
+>
+> (a) any of the scheme transactions which is a land transaction shall be disregarded for the purposes of this Part, but
+>
+> (b) there shall be a notional land transaction for the purposes of this Part effecting the acquisition of V's chargeable interest by P on its disposal by V.
+>
+> (5) The chargeable consideration on the notional transaction mentioned in subsections (1)(c) and (4)(b) is the largest amount (or aggregate amount)—
+>
+> (a) given by or on behalf of any one person by way of consideration for the scheme transactions, or
+>
+> (b) received by or on behalf of V (or a person connected with V within the meaning of section 839 of the Taxes Act 1988) by way of consideration for the scheme transactions.
+>
+> (6) The effective date of the notional transaction is—
+>
+> (a) the last date of completion for the scheme transactions, or
+>
+> (b) if earlier, the last date on which a contract in respect of the scheme transactions is substantially performed.
+>
+> (7) This section does not apply where subsection (1)(c) is satisfied only by reason of—
+>
+> (a) sections 71A to 73, or
+>
+> (b) a provision of Schedule 9.
+>
+> **75B Anti-avoidance: incidental transactions**
+>
+> (1) In calculating the chargeable consideration on the notional transaction for the purposes of section 75A(5), consideration for a transaction shall be ignored if or in so far as the transaction is merely incidental to the transfer of the chargeable interest from V to P.
+>
+> (2) A transaction is not incidental to the transfer of the chargeable interest from V to P—
+>
+> (a) if or in so far as it forms part of a process, or series of transactions, by which the transfer is effected,
+>
+> (b) if the transfer of the chargeable interest is conditional on the completion of the transaction, or
+>
+> (c) if it is of a kind specified in section 75A(3).
+>
+> (3) A transaction may, in particular, be incidental if or in so far as it is undertaken only for a purpose relating to—
+>
+> (a) the construction of a building on property to which the chargeable interest relates,
+>
+> (b) the sale or supply of anything other than land, or
+>
+> (c) a loan to P secured by a mortgage, or any other provision of finance to enable P, or another person, to pay for part of a process, or series of transactions, by which the chargeable interest transfers from V to P.
+>
+> (4) In subsection (3)—
+>
+> (a) paragraph (a) is subject to subsection (2)(a) to (c),
+>
+> (b) paragraph (b) is subject to subsection (2)(a) and (c), and
+>
+> (c) paragraph (c) is subject to subsection (2)(a) to (c).
+>
+> (5) The exclusion required by subsection (1) shall be effected by way of just and reasonable apportionment if necessary.
+>
+> (6) In this section a reference to the transfer of a chargeable interest from V to P includes a reference to a disposal by V of an interest acquired by P.
+>
+> **75C Anti-avoidance: supplemental**
+>
+> (1) A transfer of shares or securities shall be ignored for the purposes of section 75A if but for this subsection it would be the first of a series of scheme transactions.
+>
+> (2) The notional transaction under section 75A attracts any relief under this Part which it would attract if it were an actual transaction (subject to the terms and restrictions of the relief).
+>
+> (3) The notional transaction under section 75A is a land transaction entered into for the purposes of or in connection with the transfer of an undertaking or part for the purposes of paragraphs 7 and 8 of Schedule 7, if any of the scheme transactions is entered into for the purposes of or in connection with the transfer of the undertaking or part.
+>
+> (4) In the application of section 75A(5) no account shall be taken of any amount paid by way of consideration in respect of a transaction to which any of sections 60, 61, 63, 64, 65, 66, 67, 69, 71, 74 and 75, or a provision of Schedule 6A or 8, applies.
+>
+> (5) In the application of section 75A(5) an amount given or received partly in respect of the chargeable interest acquired by P and partly in respect of another chargeable interest shall be subjected to just and reasonable apportionment.
+>
+> (6) Section 53 applies to the notional transaction under section 75A.
+>
+> (7) Paragraph 5 of Schedule 4 applies to the notional transaction under section 75A.
+>
+> (8) For the purposes of section 75A—
+>
+> (a) an interest in a property-investment partnership (within the meaning of paragraph 14 of Schedule 15) is a chargeable interest in so far as it concerns land owned by the partnership, and
+>
+> (b) where V or P is a partnership, Part 3 of Schedule 15 applies to the notional transaction as to the transfer of a chargeable interest from or to a partnership.
+>
+> (9) For the purposes of section 75A a reference to an amount of consideration includes a reference to the value of consideration given as money's worth.
+>
+> (10) Stamp duty land tax paid in respect of a land transaction which is to be disregarded by virtue of section 75A(4)(a) is taken to have been paid in respect of the notional transaction by virtue of section 75A(4)(b).
+>
+> (11) The Treasury may by order provide for section 75A not to apply in specified circumstances.
+>
+> (12) An order under subsection (11) may include incidental, consequential or transitional provision and may make provision with retrospective effect.
+
+(2) The amendment made by subsection (1) has effect in respect of disposals and acquisitions if the disposal mentioned in new section 75A(1)(a) (inserted by that subsection) takes place on or after 6th December 2006.
+
+(3) But—
+
+(a) the transitional provisions of sub-paragraphs (2) to (5) of paragraph 1 of the Schedule to the Stamp Duty Land Tax (Variation of the Finance Act 2003) Regulations 2006 (S.I. 2006/3237) continue to have effect in relation to this section as in relation to that paragraph, and
+
+(b) a provision of new section 75C (inserted by subsection (1) above) shall not have effect where the disposal mentioned in new section 75A(1)(a) took place before the day on which this Act is passed, if or in so far as the provision would make a person liable for a higher amount of tax than would have been charged in accordance with those regulations.
+
+#### 72 Partnerships
+
+(1) Schedule 15 to FA 2003 (stamp duty land tax: partnerships) is amended as follows.
+
+(2) A reference in this section to a provision of that Schedule is to the provision as it had effect before variation by the Stamp Duty Land Tax (Variation of the Finance Act 2003) Regulations 2006.
+
+(3) In Step Two of paragraph 12(1) (transfer to partnership: how to calculate the “sum of the lower proportions”)—
+
+(a) in paragraph (b), for “or is connected with the relevant owner” substitute “ or is an individual connected with the relevant owner ”, and
+
+(b) insert at the end— “ (If there is no relevant owner with a corresponding partner, the sum of the lower proportions is nil.) ”
+
+(4) In paragraph 12, after sub-paragraph (2) insert—
+
+> (3) For the purpose of paragraph (b) of Step 2 a company is to be treated as an individual connected with the relevant owner in so far as it—
+>
+> (a) holds property as trustee, and
+>
+> (b) is connected with the relevant owner only because of section 839(3) of the Taxes Act 1988.
+
+(5) Omit paragraph 13 (transfer to partnership where all partners are companies).
+
+(6) In paragraph 14 (transfer of interest in property-investment partnership)—
+
+(a) omit sub-paragraphs (1)(b) and (4), and
+
+(b) insert at the end—
+
+> (9) An interest in respect of the transfer of which this paragraph applies shall be treated as a chargeable interest for the purposes of paragraph 3(1) of Schedule 7 to the extent that the relevant partnership property consists of a chargeable interest.
+
+,
+
+and in the italic cross-heading before it, omit “*for consideration*”.
+
+(7) In Step Two of paragraph 20(1) (transfer from partnership: how to calculate the “sum of the lower proportions”)—
+
+(a) in paragraph (b), for “or was connected with the relevant owner” substitute “ or was an individual connected with the relevant owner ”, and
+
+(b) insert at the end— “ (If there is no relevant owner with a corresponding partner, the sum of the lower proportions is nil.) ”
+
+(8) In paragraph 20, after sub-paragraph (2) insert—
+
+> (3) For the purpose of paragraph (b) of Step 2 a company is to be treated as an individual connected with the relevant owner in so far as it—
+>
+> (a) holds property as trustee, and
+>
+> (b) is connected with the relevant owner only because of section 839(3) of the Taxes Act 1988.
+
+(9) After paragraph 27 insert—
+
+> **27A**
+>
+> (1) This paragraph applies where in calculating the sum of the lower proportions in relation to a transaction (in accordance with paragraph 12)—
+>
+> (a) a company (“the connected company”) would have been a corresponding partner of a relevant owner (“the original owner”) but for the fact that paragraph (b) of Step Two includes connected persons only if they are individuals, and
+>
+> (b) the connected company and the original owner are members of the same group.
+>
+> (2) The charge in respect of the transaction shall be reduced to the amount that would have been payable had the connected company been a corresponding partner of the original owner for the purposes of calculating the sum of the lower proportions.
+>
+> (3) The provisions of Part 1 of Schedule 7 apply to group relief under sub-paragraph (2) above as to group relief under paragraph 1(1) of Schedule 7, but—
+>
+> (a) with the omission of paragraph 2(2)(a),
+>
+> (b) with the substitution for “the purchaser” in paragraph 3(1)(a) of “a partner who was, at the effective date of the transaction, a partner and a member of the same group as the transferor (“the relevant partner”)”, and
+>
+> (c) with the other modifications specified in paragraph 27(3) to (6) above.
+
+(10) For paragraph 36 substitute—
+
+> **36**
+>
+> For the purposes of this Part of this Schedule, where a person acquires or increases a partnership share there is a transfer of an interest in the partnership (to that partner and from the other partners).
+
+(11) In paragraph 39 (“connected persons”), insert at the end—
+
+> (3) As applied by sub-paragraph (1) for the purposes of paragraph 12 or 20, that section has effect with the omission of subsection (3)(c) (trustee connected with settlement).
+
+(12) In Schedule 16 to FA 2003 (trusts and powers)—
+
+(a) in paragraph 3(1) (bare trust), after “a chargeable interest” insert “ or an interest in a partnership ”, and
+
+(b) in paragraph 4 (trustees of settlement), after “a chargeable interest” insert “ or an interest in a partnership ”.
+
+(13) The amendments made by subsections (1) to (11) have effect in respect of transfers occurring on or after the day on which this Act is passed.
+
+[^F35]14 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(15) The amendment made by subsection (12) has effect in respect of acquisitions occurring on or after the day on which this Act is passed.
+
+(16) An amendment made by this section replaces, to the extent provided for by subsections (13) to (15), any variation made by the Stamp Duty Land Tax (Variation of the Finance Act 2003) Regulations 2006 (S.I. 2006/3237).
+
+(17) Despite subsections (13) to (16), the transitional provisions of sub-paragraphs (8) to (10) of paragraph 2 of the Schedule to the Stamp Duty Land Tax (Variation of the Finance Act 2003) Regulations 2006 (S.I. 2006/3237) continue to have effect in relation to the amendments made by this section as in relation to that paragraph.
+
+### Reliefs in relation to shares etc
+
+#### 73 Exemptions: intermediaries, repurchases etc
+
+Schedule 21 contains provision in relation to exemptions from stamp duty and stamp duty reserve tax in cases involving intermediaries, repurchases, stock lending or recognised investment exchanges.
+
+#### 74 Acquisition relief: disregard of company holding own shares
+
+(1) In section 75 of FA 1986 (relief on acquisition of undertaking of company in pursuance of scheme for reconstruction of that company), after subsection (5) insert—
+
+> (5A) If immediately before the acquisition the target company or the acquiring company holds any of its own shares, the shares are to be treated for the purposes of subsections (4) and (5) as having been cancelled before the acquisition (and, accordingly, the company is to be treated as if it were not a shareholder of itself).
+
+(2) In section 77 of that Act (relief on acquisition of target company's share capital), after subsection (3) insert—
+
+> (3A) If immediately before the acquisition the target company or the acquiring company holds any of its own shares, the shares are to be treated for the purposes of subsection (3) as having been cancelled before the acquisition (and, accordingly, the company is to be treated as if it were not a shareholder of itself).
+
+(3) In Part 2 of Schedule 7 to FA 2003 (SDLT: reconstruction and acquisition reliefs), in paragraph 7 (reconstruction relief) after sub-paragraph (5) insert—
+
+> (5A) If immediately before the acquisition the target company or the acquiring company holds any of its own shares, the shares are to be treated for the purposes of sub-paragraphs (2) and (4) as having been cancelled before the acquisition (and, accordingly, the company is to be treated as if it were not a shareholder of itself).
+
+(4) The amendments made by subsections (1) and (2) have effect in relation to any instrument executed on or after the day on which this Act is passed.
+
+(5) The amendment made by subsection (3) has effect in relation to any land transaction of which the effective date is on or after that day.
+
+### Other reliefs etc
+
+#### 75 SDLT: alternative finance arrangements
+
+(1) In FA 2003, after section 73A insert—
+
+> **73B Exempt interests**
+>
+> (1) An interest held by a financial institution as a result of the first transaction within the meaning of section 71A(1)(a), 72(1)(a) or 72A(1)(a) is an exempt interest for the purposes of stamp duty land tax.
+>
+> (2) That interest ceases to be an exempt interest if—
+>
+> (a) the lease or agreement mentioned in section 71A(1)(c), 72(1)(b) or 72A(1)(b) ceases to have effect, or
+>
+> (b) the right under section 71A(1)(d), 72(1)(c) or 72A(1)(c) ceases to have effect or becomes subject to a restriction.
+>
+> (3) Subsection (1) does not apply if the first transaction is exempt from charge by virtue of Schedule 7.
+>
+> (4) Subsection (1) does not make an interest exempt in respect of—
+>
+> (a) the first transaction itself, or
+>
+> (b) a further transaction or third transaction within the meaning of section 71A(4), 72(4) or 72A(4).
+
+(2) In section 48 of that Act (stamp duty land tax: exempt interests), after subsection (3) insert—
+
+> (3A) Section 73B makes additional provision about exempt interests in relation to alternative finance arrangements.
+
+(3) For the text of sections 71A(8), 72(7), 72A(8) and 73(5)(a) of that Act (alternative finance arrangements: meaning of “financial institution”), substitute “ In this section “financial institution” has the meaning given by section 46 of the Finance Act 2005 (alternative finance arrangements). ”
+
+(4) The amendments made by this section—
+
+(a) have effect in relation to anything that would, but for the exemption provided by new section 73B inserted by subsection (1) above, be a land transaction with an effective date on or after 22nd March 2007, and
+
+(b) apply, in accordance with paragraph (a), to interests irrespective of the date of their creation.
+
+#### 76 SDLT: exchanges
+
+(1) In section 47(1) of FA 2003 (exchanges), insert at the end “ (and they are not linked transactions within the meaning of section 108) ”.
+
+(2) In section 108 of that Act (linked transactions), insert at the end—
+
+> (4) This section is subject to section 47(1).
+
+(3) The amendments made by this section have effect in relation to a set of land transactions if the effective date of any of them is on or after the day on which this Act is passed.
+
+#### 77 SDLT: shared ownership trusts
+
+(1) In Schedule 9 to FA 2003 (right to buy and shared ownership leases), insert at the end—
+
+> **7 Shared ownership trust: introduction**
+>
+> (1) In this Schedule “shared ownership trust” means a trust of land, within the meaning of section 1 of the Trusts of Land and Appointment of Trustees Act 1996, which satisfies the following conditions.
+>
+> (2) Condition 1 is that the trust property is—
+>
+> (a) a dwelling, and
+>
+> (b) in England or Wales.
+>
+> (3) Condition 2 is that one of the beneficiaries (“the social landlord”) is a qualifying body (within the meaning of paragraph 5(2)).
+>
+> (4) Condition 3 is that the terms of the trust—
+>
+> (a) provide for one or more of the individual beneficiaries (“the purchaser”) to have exclusive use of the trust property as the only or main residence of the purchaser,
+>
+> (b) require the purchaser to make an initial payment to the social landlord (“the initial capital”),
+>
+> (c) require the purchaser to make additional payments to the social landlord by way of compensation under section 13(6)(a) of the Trusts of Land and Appointment of Trustees Act 1996 (“rent-equivalent payments”),
+>
+> (d) enable the purchaser to make other additional payments to the social landlord (“equity-acquisition payments”),
+>
+> (e) determine the initial beneficial interests of the social landlord and of the purchaser by reference to the initial capital,
+>
+> (f) specify a sum, equating or relating to the market value of the dwelling, by reference to which the initial capital was calculated, and
+>
+> (g) provide for the purchaser's beneficial interest in the trust property to increase, and the social landlord's to diminish (or to be extinguished), as equity-acquisition payments are made.
+>
+> (5) Section 118 (meaning of “market value”) does not apply to this paragraph.
+>
+> (6) In Condition 1 “dwelling” includes—
+>
+> (a) a building which is being constructed or adapted for use as a dwelling,
+>
+> (b) land which is to be used for the purpose of the construction of a dwelling, and
+>
+> (c) land which is, or is to become, the garden or grounds of a dwelling.
+>
+> **8 Shared ownership trust: “purchaser”**
+>
+> For the purposes of the application of stamp duty land tax in relation to a shared ownership trust, the person (or persons) identified as the purchaser in accordance with paragraph 7, and not the social landlord or any other beneficiary, is (or are) to be treated as the purchaser of the trust property.
+>
+> **9 Shared ownership trust: election for market value treatment**
+>
+> (1) This paragraph applies where—
+>
+> (a) a shared ownership trust is declared, and
+>
+> (b) the purchaser elects for tax to be charged in accordance with this paragraph.
+>
+> (2) An election must be included in—
+>
+> (a) the land transaction return for the declaration of the shared ownership trust, or
+>
+> (b) an amendment of that return.
+>
+> (3) An election may not be revoked.
+>
+> (4) Where this paragraph applies—
+>
+> (a) the chargeable consideration for the declaration of the shared ownership trust shall be taken to be the amount stated in accordance with paragraph 7(4)(f), and
+>
+> (b) no account shall be taken for the purposes of stamp duty land tax of rent-equivalent payments.
+>
+> (5) The transfer to the purchaser of an interest in the trust property upon the termination of the trust is exempt from charge if—
+>
+> (a) an election was made under this paragraph, and
+>
+> (b) any tax chargeable in respect of the declaration of the shared ownership trust has been paid.
+>
+> **10 Shared ownership trust: treatment of staircasing transaction**
+>
+> (1) An equity-acquisition additional payment under a shared ownership trust, and the consequent increase in the purchaser's beneficial interest, shall be exempt from charge if—
+>
+> (a) an election was made under paragraph 9, and
+>
+> (b) any tax chargeable in respect of the declaration of trust has been paid.
+>
+> (2) An equity-acquisition additional payment under a shared ownership trust, and the consequent increase in the purchaser's beneficial interest, shall also be exempt from charge if following the increase the purchaser's beneficial interest does not exceed 80% of the total beneficial interest in the trust property.
+>
+> **11 Shared ownership trust: treatment of additional payments where no election made**
+>
+> Where no election has been made under paragraph 9 in respect of a shared ownership trust—
+>
+> (a) the initial capital shall be treated for the purposes of stamp duty land tax as chargeable consideration other than rent, and
+>
+> (b) any rent-equivalent additional payment by the purchaser shall be treated for the purposes of stamp duty land tax as a payment of rent.
+
+(2) The amendment made by subsection (1) has effect in relation to land transactions with an effective date on or after the day on which this Act is passed.
+
+#### 78 SDLT: shared ownership lease
+
+In paragraph 2 of Schedule 9 to FA 2003 (stamp duty land tax: shared ownership lease), after sub-paragraph (4) insert—
+
+> (4A) Where this paragraph applies no account shall be taken for the purposes of stamp duty land tax of the rent mentioned in sub-paragraph (2)(d).
+
+#### 79 Certain transfers of school land
+
+(1) In Chapter 7 of Part 2 of the School Standards and Framework Act 1998 (c. 31) (“the 1998 Act”) (new framework for maintained schools), omit sections 79 and 79A (no stamp duty or SDLT payable in respect of certain transfers).
+
+(2) The repeal of—
+
+(a) section 79A of the 1998 Act, and
+
+(b) section 79 of that Act as it applies for the purposes of section 79A,
+
+has effect in relation to any land transaction of which the effective date is on or after the day on which this Act is passed.
+
+(3) Subject to that, the repeal of section 79 of the 1998 Act has effect in relation to any instrument executed on or after that day.
+
+### SDLT: administration
+
+#### 80 Payment of tax
+
+(1) FA 2003 is amended as follows.
+
+(2) In section 76(3) (payment to accompany land transaction return), omit paragraph (b).
+
+(3) In section 80(2) (adjustment for change of circumstance: payment to accompany return), for paragraph (d) substitute—
+
+> (d) the tax or additional tax payable must be paid not later than the filing date for the return.
+
+(4) In section 81 (withdrawal of relief: further return)—
+
+(a) in subsection (2), omit paragraph (b), and
+
+(b) after that subsection insert—
+
+> (2A) Tax payable must be paid not later than the filing date for the return.
+
+(5) In section 81A(1) (later linked transaction: return), for paragraph (d) substitute—
+
+> (d) the tax or additional tax payable must be paid not later than the filing date for the return.
+
+(6) In section 86 (payment of tax)—
+
+(a) in subsection (1), for “at the same time that a land transaction return is made in respect of the transaction.” substitute “ not later than the filing date for the land transaction return relating to the transaction. ”, and
+
+(b) in subsection (2), for “at the same time that a return is made in respect of the withdrawal” substitute “ not later than the filing date for the return relating to the withdrawal ”.
+
+(7) In paragraph 2 of Schedule 10 (payment to accompany land transaction return), omit sub-paragraph (2)(b).
+
+(8) For each of paragraphs 3(3)(d), 4(3)(d) and 8(3)(d) of Schedule 17A (leases) substitute—
+
+> (d) the tax or additional tax payable must be paid not later than the filing date for the return.
+
+(9) The amendments made by this section have effect as follows—
+
+(a) the amendment made by subsection (2) has effect in relation to land transactions with an effective date on or after the day on which this Act is passed,
+
+(b) the amendment made by subsection (3) has effect in relation to returns where the event as a result of which the return is required occurs on or after the day on which this Act is passed,
+
+(c) the amendment made by subsection (4) has effect in relation to returns where the disqualifying event occurs on or after the day on which this Act is passed,
+
+(d) the amendment made by subsection (5) has effect in relation to returns where the effective date of the later transaction is on or after the day on which this Act is passed,
+
+(e) the amendment made by subsection (6) has effect in relation to land transactions with an effective date on or after the day on which this Act is passed,
+
+(f) the amendment made by subsection (7) has effect in relation to land transactions with an effective date on or after the day on which this Act is passed, and
+
+(g) the amendment made by subsection (8) has effect in respect of requirements to deliver a return or further return which arise on or after the day on which this Act is passed.
+
+#### [^F36]81 Self-certificate declarations
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Part 6 — Investigation, administration etc
+
+### Investigation etc
+
+#### 82 Criminal investigations: powers of Revenue and Customs
+
+(1) Section 114 of the Police and Criminal Evidence Act 1984 (c. 60) (application of Act to customs and excise) is amended as follows.
+
+(2) In paragraph (a) of subsection (2)—
+
+(a) for “investigations conducted by officers of Customs and Excise of offences which relate to assigned matters, as defined in section 1 of the Customs and Excise Management Act 1979,” substitute “ investigations conducted by officers of Revenue and Customs ”, and
+
+(b) for “persons detained by officers of Customs and Excise;” substitute “ persons detained by officers of Revenue and Customs; ”.
+
+(3) In the opening words of paragraph (b) of that subsection, for “investigations of offences conducted by officers of Customs and Excise” substitute “ investigations of offences conducted by officers of Revenue and Customs ”.
+
+(4) In sub-paragraph (i) of that paragraph, for “section” substitute “ sections ”.
+
+(5) In the section 14A deemed to be inserted by that sub-paragraph—
+
+(a) for “and which relates to an assigned matter, as defined in section 1 of the Customs and Excise Management Act 1979,” substitute “ and which relates to a matter in relation to which Her Majesty's Revenue and Customs have functions, ” and
+
+(b) in the heading, for “**Customs and Excise**” substitute “ **Revenue and Customs** ”.
+
+(6) After that section insert—
+
+> **14B Revenue and Customs: restriction on other powers to apply for production of documents**
+>
+> (1) An officer of Revenue and Customs may make an application for the delivery of, or access to, documents under a provision specified in subsection (3) only if the condition in subsection (2) is satisfied.
+>
+> (2) The condition is that the officer thinks that an application under Schedule 1 would not succeed because the material required does not consist of or include special procedure material.
+>
+> (3) The provisions are—
+>
+> (a) section 20BA of, and Schedule 1AA to, the Taxes Management Act 1970 (serious tax fraud);
+>
+> (b) paragraph 11 of Schedule 11 to the Value Added Tax Act 1994 (VAT);
+>
+> (c) paragraph 4A of Schedule 7 to the Finance Act 1994 (insurance premium tax);
+>
+> (d) paragraph 7 of Schedule 5 to the Finance Act 1996 (landfill tax);
+>
+> (e) paragraph 131 of Schedule 6 to the Finance Act 2000 (climate change levy);
+>
+> (f) paragraph 8 of Schedule 7 to the Finance Act 2001 (aggregates levy);
+>
+> (g) Part 6 of Schedule 13 to the Finance Act 2003 (stamp duty land tax).
+
+(7) In paragraph (c) of subsection (2)—
+
+(a) for “customs detention” substitute “ Revenue and Customs detention ”, and
+
+(b) for “an officer of Customs and Excise” substitute “ an officer of Revenue and Customs ”.
+
+(8) After that paragraph insert—
+
+> (d) that where an officer of Revenue and Customs searches premises in reliance on a warrant under section 8 of, or paragraph 12 of Schedule 1 to, this Act (as applied by an order under this subsection) the officer shall have the power to search persons found on the premises—
+>
+> (i) in such cases and circumstances as are specified in the order, and
+>
+> (ii) subject to any conditions specified in the order; and
+>
+> (e) that powers and functions conferred by a provision of this Act (as applied by an order under this subsection) may be exercised only by officers of Revenue and Customs acting with the authority (which may be general or specific) of the Commissioners for Her Majesty's Revenue and Customs.
+
+(9) After that subsection insert—
+
+> (2A) A certificate of the Commissioners that an officer of Revenue and Customs had authority under subsection (2)(e) to exercise a power or function conferred by a provision of this Act shall be conclusive evidence of that fact.
+
+(10) For subsection (3) substitute—
+
+> (3) An order under subsection (2)—
+>
+> (a) may make provision that applies generally or only in specified cases or circumstances,
+>
+> (b) may make different provision for different cases or circumstances,
+>
+> (c) may, in modifying a provision, in particular impose conditions on the exercise of a function, and
+>
+> (d) shall not be taken to limit a power under section 164 of the Customs and Excise Management Act 1979.
+
+(11) The heading of section 114 accordingly becomes “ **Application of Act to Revenue and Customs** ”.
+
+#### 83 Northern Ireland criminal investigations
+
+(1) Article 85 of the Police and Criminal Evidence (Northern Ireland) Order 1989 (S.I. 1989/1341 (N.I. 12)) (application of Order to customs and excise) is amended as follows.
+
+(2) In sub-paragraph (a) of paragraph (1)—
+
+(a) for “investigations conducted by officers of Customs and Excise of offences which relate to assigned matters, as defined in section 1 of the Customs and Excise Management Act 1979,” substitute “ investigations conducted by officers of Revenue and Customs ”, and
+
+(b) for “persons detained by officers of Customs and Excise;” substitute “ persons detained by officers of Revenue and Customs; ”.
+
+(3) In the opening words of sub-paragraph (b) of that paragraph, for “investigations of offences conducted by officers of Customs and Excise” substitute “ investigations of offences conducted by officers of Revenue and Customs ”.
+
+(4) In paragraph (i) of that sub-paragraph, for “Article” substitute “ Articles ”.
+
+(5) In the Article 16A deemed to be inserted by that paragraph—
+
+(a) for “and which relates to an assigned matter, as defined in section 1 of the Customs and Excise Management Act 1979,” substitute “ and which relates to a matter in relation to which Her Majesty's Revenue and Customs have functions, ” and
+
+(b) in the heading, for “**Customs and Excise**” substitute “ **Revenue and Customs** ”.
+
+(6) After that Article insert—
+
+> **16B Revenue and Customs: restriction on other powers to apply for production of documents**
+>
+> (1) An officer of Revenue and Customs may make an application for the delivery of, or access to, documents under a provision specified in paragraph (3) only if the condition in paragraph (2) is satisfied.
+>
+> (2) The condition is that the officer thinks that an application under Schedule 1 would not succeed because the material required does not consist of or include special procedure material.
+>
+> (3) The provisions are—
+>
+> (a) section 20BA of, and Schedule 1AA to, the Taxes Management Act 1970 (serious tax fraud);
+>
+> (b) paragraph 11 of Schedule 11 to the Value Added Tax Act 1994 (VAT);
+>
+> (c) paragraph 4A of Schedule 7 to the Finance Act 1994 (insurance premium tax);
+>
+> (d) paragraph 7 of Schedule 5 to the Finance Act 1996 (landfill tax);
+>
+> (e) paragraph 131 of Schedule 6 to the Finance Act 2000 (climate change levy);
+>
+> (f) paragraph 8 of Schedule 7 to the Finance Act 2001 (aggregates levy);
+>
+> (g) Part 6 of Schedule 13 to the Finance Act 2003 (stamp duty land tax).
+
+(7) After sub-paragraph (b) of paragraph (1) insert—
+
+> (c) that where an officer of Revenue and Customs searches premises in reliance on a warrant under Article 10 of, or paragraph 9 of Schedule 1 to, this Order (as applied by an order under this paragraph) the officer shall have the power to search persons found on the premises—
+>
+> (i) in such cases and circumstances as are specified in the order, and
+>
+> (ii) subject to any conditions specified in the order; and
+>
+> (d) that powers and functions conferred by a provision of this Order (as applied by an order under this paragraph) may be exercised only by officers of Revenue and Customs acting with the authority (which may be general or specific) of the Commissioners for Her Majesty's Revenue and Customs.
+
+(8) After that paragraph insert—
+
+> (1A) A certificate of the Commissioners that an officer of Revenue and Customs had authority under paragraph (1)(d) to exercise a power or function conferred by a provision of this Order shall be conclusive evidence of that fact.
+
+(9) For paragraph (2) substitute—
+
+> (2) An order under paragraph (1)—
+>
+> (a) may, in modifying a provision, in particular impose conditions on the exercise of a function, and
+>
+> (b) shall not be taken to limit a power under section 164 of the Customs and Excise Management Act 1979.
+
+(10) The heading of Article 85 accordingly becomes “ **Application of Order to Revenue and Customs** ”.
+
+#### 84 Sections 82 and 83: supplementary
+
+(1) In Schedule 2 to CRCA 2005 (restrictions on the exercise of functions), omit—
+
+(a) paragraph 7 (Police and Criminal Evidence Act 1984 (c. 60)), and
+
+(b) paragraph 9 (Police and Criminal Evidence (Northern Ireland) Order 1989 (S.I. 1989/1341 (N.I. 12))).
+
+(2) Nothing in section 6 or 7 of CRCA 2005 (initial functions) restricts the functions in connection with which officers of Revenue and Customs may exercise a power under—
+
+(a) the Police and Criminal Evidence Act 1984 by virtue of section 114 of that Act (as amended by section 82 above), or
+
+(b) the Police and Criminal Evidence (Northern Ireland) Order 1989 by virtue of Article 85 of that Order (as amended by section 83 above).
+
+[^F37]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) Schedule 22 contains amendments and repeals consequential on extension of police powers to Revenue and Customs.
+
+(5) Sections 82 and 83 and this section come into force in accordance with provision made by the Treasury by order.
+
+(6) The power to make an order under subsection (5) is exercisable by statutory instrument.
+
+#### 85 Criminal investigations: Scotland
+
+Schedule 23 contains provision for Scotland about the investigation of offences by Her Majesty's Revenue and Customs.
+
+#### 86 Search warrants
+
+In section 8 of the Police and Criminal Evidence Act 1984, after subsection (6) insert—
+
+> (7) Section 4 of the Summary Jurisdiction (Process) Act 1881 (execution of process of English courts in Scotland) shall apply to a warrant issued on the application of an officer of Revenue and Customs under this section by virtue of section 114 below.
+
+#### 87 Cross-border exercise of powers
+
+(1) This section relates to the Criminal Justice and Public Order Act 1994 (c. 33).
+
+(2) Sections 136 to 139 (execution of warrants and powers of arrest and search) shall apply to an officer of Revenue and Customs as they apply to a constable; and for that purpose—
+
+(a) a reference to a constable (including a reference to a constable of a police force in England and Wales, a constable of a police force in Scotland or a constable of a police force in Northern Ireland) shall be treated as a reference to an officer of Revenue and Customs, and
+
+(b) a reference to a police station, or a designated police station, includes a reference to an office of Revenue and Customs or (in England and Wales and Northern Ireland) a designated office of Revenue and Customs.
+
+[[^F38](2A) In the application of section 137C where a person is arrested under section 137A by an officer of Revenue and Customs in respect of a specified offence that is being investigated by an officer of Revenue and Customs—
+
+(a) subsection (2)(b) is to be read as if (instead of requiring the detention to be authorised by both an officer of at least the rank of inspector in the arresting force and an officer of at least the rank of inspector in the investigating force) it required the detention to be authorised by an officer of Revenue and Customs of at least the grade equivalent to the rank of inspector;
+
+(b) subsection (2)(c) is to be read as if (instead of requiring the detention to be authorised by both an officer of a rank above that of inspector in the arresting force and an officer of a rank above that of inspector in the investigating force) it required the detention to be authorised by an officer of Revenue and Customs of a grade above that equivalent to the rank of inspector;
+
+(c) subsection (3) is omitted;
+
+(d) in subsections (4) and (5), the reference to an officer of the investigating force is to be read as a reference to an officer of Revenue and Customs;
+
+(e) in subsection (6), the reference to an appropriate officer in the investigating force is to be read as a reference to an appropriate officer of Revenue and Customs (as defined by subsection (7));
+
+(f) subsection (6)(a) is omitted;
+
+(g) in subsection (7)(b), the reference to an officer of at least the rank of inspector is to be read as a reference to an officer of Revenue and Customs of at least the equivalent grade;
+
+(h) in subsection (7)(c), the reference to an officer of a rank above that of inspector is to be read as a reference to an officer of Revenue and Customs of above the equivalent grade;
+
+(i) subsections (8) to (10) are omitted.
+
+(2B) Where section 137C applies in accordance with subsection (2A), Schedule 7B applies with the following modifications—
+
+(a) any reference to a constable in the arresting force is to be read as a reference to an officer of Revenue and Customs;
+
+(b) any reference to an officer of at least, or above, a particular rank in the investigating force is to be read as a reference to an officer of Revenue and Customs of at least, or above, the equivalent grade;
+
+(c) any reference to the arresting force or to the investigating force (otherwise than in relation to a description of officer in the force) is to be read as a reference to officers of Revenue and Customs;
+
+(d) instead of the modification made by paragraph 9, section 42 of the Criminal Justice (Scotland) Act 2016 is to be read as if the references in subsections (1)(c)(ii) and (3)(b) to the police were references to officers of Revenue and Customs;
+
+(e) the Schedule is to be read as if it also provided for references in the provisions applied by section 137D(2)(d), (3)(d) and (4)(d) to a police station to include references to an office of Revenue and Customs.
+
+(2C) In the application of section 137C where a person is arrested under section 137A by an officer of Revenue and Customs in respect of a specified offence other than one that is being investigated by an officer of Revenue and Customs—
+
+(a) any reference to an officer of at least, or above, the rank of inspector in the arresting force is to be read as a reference to an officer of Revenue and Customs of at least, or above, the equivalent grade;
+
+(b) the reference in subsection (6)(a) to the arresting force is to be read as a reference to any officer of Revenue and Customs.
+
+(2D) Where section 137C applies in accordance with subsection (2C), Schedule 7B applies with the following modifications—
+
+(a) any reference to a constable in the arresting force is to be read as a reference to an officer of Revenue and Customs;
+
+(b) any reference to the arresting force (otherwise than in relation to a description of officer in the force) is to be read as a reference to officers of Revenue and Customs;
+
+(c) instead of the modification made by paragraph 9, section 42 of the Criminal Justice (Scotland) Act 2016 is to be read as if the references in subsections (1)(c)(ii) and (3)(b) to the police were references to officers of Revenue and Customs;
+
+(d) the Schedule is to be read as if it also provided for references in the provisions applied by section 137D(2)(d), (3)(d) and (4)(d) to a police station to include references to an office of Revenue and Customs.]
+
+[[^F39](2E) In the application of those sections to an officer of Revenue and Customs—
+
+(a) sections 136(4B) and 137(7B) apply with the omission of the words from “and, if the constable” to the end;
+
+(b) section 137ZA applies with the omission of subsection (6).]
+
+[^F40]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) An officer of Revenue and Customs may exercise a power under sections 136 to 139 [[^F41]in the exercise of any function of the Commissioners for Her Majesty's Revenue and Customs or of officers of Revenue and Customs, within the meaning of the Commissioners for Revenue and Customs Act 2005 (see section 51(2) to (2B) of that Act) ] .
+
+(5) In subsection (2)—
+
+- “office of Revenue and Customs” means premises wholly or partly occupied by Her Majesty's Revenue and Customs, and
+- “designated office of Revenue and Customs” has the meaning given by an order under section 114 of the Police and Criminal Evidence Act 1984 (c. 60) (power to extend provisions to HMRC) or, in Northern Ireland, by an order under Article 85 of the Police and Criminal Evidence (Northern Ireland) Order 1989 (S.I. 1989/1341 (N.I. 12)) (power to extend Order to HMRC).
+
+(6) In section 136, after subsection (8) insert—
+
+> (9) Powers under this section and sections 137 to 139 may be exercised by an officer of Revenue and Customs in accordance with section 87 of the Finance Act 2007.
+
+### Filing dates
+
+#### 88 Personal tax returns
+
+(1) Section 8 of TMA 1970 (personal tax return) is amended as follows.
+
+(2) In subsection (1)(a), omit “, on or before the day mentioned in subsection (1A) below”.
+
+(3) Omit subsection (1A).
+
+(4) After subsection (1C) insert—
+
+> (1D) A return under this section for a year of assessment (Year 1) must be delivered—
+>
+> (a) in the case of a non-electronic return, on or before 31st October in Year 2, and
+>
+> (b) in the case of an electronic return, on or before 31st January in Year 2.
+>
+> (1E) But subsection (1D) is subject to the following two exceptions.
+>
+> (1F) Exception 1 is that if a notice in respect of Year 1 is given after 31st July in Year 2 (but on or before 31st October), a return must be delivered—
+>
+> (a) during the period of 3 months beginning with the date of the notice (for a non-electronic return), or
+>
+> (b) on or before 31st January (for an electronic return).
+>
+> (1G) Exception 2 is that if a notice in respect of Year 1 is given after 31st October in Year 2, a return (whether electronic or not) must be delivered during the period of 3 months beginning with the date of the notice.
+>
+> (1H) The Commissioners—
+>
+> (a) shall prescribe what constitutes an electronic return, and
+>
+> (b) may make different provision for different cases or circumstances.
+
+#### 89 Trustee's tax return
+
+(1) Section 8A of TMA 1970 (trustee's tax return) is amended as follows.
+
+(2) In subsection (1)(a), omit “, on or before the day mentioned in subsection (1A) below”.
+
+(3) Omit subsection (1A).
+
+(4) After subsection (1AA) insert—
+
+> (1B) A return under this section for a year of assessment (Year 1) must be delivered—
+>
+> (a) in the case of a non-electronic return, on or before 31st October in Year 2, and
+>
+> (b) in the case of an electronic return, on or before 31st January in Year 2.
+>
+> (1C) But subsection (1B) is subject to the following two exceptions.
+>
+> (1D) Exception 1 is that if a notice in respect of Year 1 is given after 31st July in Year 2 (but on or before 31st October), a return must be delivered—
+>
+> (a) during the period of 3 months beginning with the date of the notice (for a non-electronic return), or
+>
+> (b) on or before 31st January (for an electronic return).
+>
+> (1E) Exception 2 is that if a notice in respect of Year 1 is given after 31st October in Year 2, a return (whether electronic or not) must be delivered during the period of 3 months beginning with the date of the notice.
+>
+> (1F) The Commissioners—
+>
+> (a) shall prescribe what constitutes an electronic return, and
+>
+> (b) may make different provision for different cases or circumstances.
+
+#### 90 Partnership tax returns
+
+(1) In section 12AA of TMA 1970, for subsection (4) (partnership return: filing date) substitute—
+
+> (4) In the case of a partnership which includes one or more individuals, a notice under subsection (2) or (3) above may specify different days depending on whether a return in respect of a year of assessment (Year 1) is electronic or non-electronic.
+>
+> (4A) The day specified for a non-electronic return must not be earlier than 31st October of Year 2.
+>
+> (4B) The day specified for an electronic return must not be earlier than 31st January of Year 2.
+>
+> (4C) But subsections (4A) and (4B) are subject to the following two exceptions.
+>
+> (4D) Exception 1 is that if the notice is given after 31st July in Year 2 (but on or before 31st October)—
+>
+> (a) the day specified for a non-electronic return must be after the end of the period of three months beginning with the date of the notice, and
+>
+> (b) the day specified for an electronic return must not be earlier than 31st January.
+>
+> (4E) Exception 2 is that if the notice is given after 31st October in Year 2, the day specified for a return (whether or not electronic) must be after the end of the period of three months beginning with the date of the notice.
+
+(2) For subsection (5) of that section (partnership return where a company is a partner: filing date) substitute—
+
+> (5) In the case of a partnership which includes one or more companies, a notice may specify different dates depending on whether a notice in respect of a relevant period is electronic or non-electronic.
+>
+> (5A) The day specified for a non-electronic return must not be earlier than the end of the period of nine months beginning at the end of the relevant period.
+>
+> (5B) The day specified for an electronic return must not be earlier than the first anniversary of the end of the relevant period.
+>
+> (5C) But where the notice is given more than nine months after the end of the relevant period, the day specified for a return (whether or not electronic) must be after the end of the period of three months beginning with the date of the notice.
+>
+> (5D) For the purposes of this section “relevant period” means the period in respect of which the return is required.
+>
+> (5E) The Commissioners—
+>
+> (a) shall prescribe what constitutes an electronic return for the purposes of this section, and
+>
+> (b) may make different provision for different cases or circumstances.
+
+#### 91 Consequential amendments
+
+(1) In section 9(2) of TMA 1970 (returns to include self-assessment)—
+
+(a) in paragraph (a), for “30th September” substitute “ 31st October ”, and
+
+(b) in paragraph (b), for “31st July” substitute “ 31st August ”.
+
+(2) In section 9ZA of TMA 1970 (amendment of personal or trustee return), for subsection (3) substitute—
+
+> (3) In this section “the filing date”, in respect of a return for a year of assessment (Year 1), means—
+>
+> (a) 31st January of Year 2, or
+>
+> (b) if the notice under section 8 or 8A is given after 31st October of Year 2, the last day of the period of three months beginning with the date of the notice.
+
+(3) In section 9A(6) of TMA 1970 (notice of enquiry: “the filing date”), for the words from “means” to the end substitute “ means, in relation to a return, the last day for delivering it in accordance with section 8 or 8A. ”
+
+[^F42]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) In section 28C of TMA 1970 (determination of tax where no return delivered), for subsection (6) substitute—
+
+> (6) In this section “the filing date” in respect of a return for a year of assessment (Year 1) means either—
+>
+> (a) 31st January of Year 2, or
+>
+> (b) if the notice under section 8 or 8A was given after 31st October of Year 2, the last day of the period of three months beginning with the day on which the notice is given.
+
+(6) In section 33A of TMA 1970 (error in partnership return)—
+
+(a) in subsection (1), insert at the end “ for a year of assessment (Year 1), or for a relevant period which ends in Year 1 ”,
+
+[^F43]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(c) in subsection (9), omit the definition of “filing date”, and
+
+(d) in that subsection, after the definition of “relevant partner” insert—
+
+> “relevant period” means a period in respect of which a return is required.
+
+(7) In section 93(10) of TMA 1970 (penalty for failure to make individual or trustee return), for the definition of “filing date” substitute—
+
+> “the filing date” in respect of a return for a year of assessment (Year 1) means—
+>
+> (a) 31st January of Year 2, or
+>
+> (b) if the notice under section 8 or 8A was given after 31st October of Year 2, the last day of the period of three months beginning with the day on which the notice is given.
+
+(8) In section 93A of TMA 1970 (failure to make partnership return), after subsection (7) insert—
+
+> (7A) For the purposes of this section the filing date for a year of assessment (Year 1) in the case of a partnership which includes one or more individuals is—
+>
+> (a) 31st January of Year 2, or
+>
+> (b) if the notice under section 12AA was given after 31st October of Year 2, the last day of the period of three months beginning with the date of the notice.
+>
+> (7B) For the purposes of this section the filing date for a year of assessment (Year 1) in the case of a partnership which includes one or more companies is—
+>
+> (a) the first anniversary of the period for which the return is required, or
+>
+> (b) where the notice is given more than nine months after the end of the period for which the return is required, the last day of the period of three months beginning with the date of the notice.
+
+(9) In subsection (8) of section 93A, omit the definition of “the filing date”.
+
+(10) In paragraph 4 of Schedule 15 to FA 2006 (accountancy change: spreading of adjustment)—
+
+(a) in sub-paragraph (1), after “a tax year” insert “ (Year 1) ”, and
+
+(b) in sub-paragraph (2), for “normal self-assessment filing date for the tax year.” substitute “ 31st January of Year 2. ”
+
+#### 92 Commencement
+
+(1) Sections 88 to 91 have effect—
+
+(a) in relation to a return under section 8 or 8A of TMA 1970, or a return under section 12AA of that Act for a partnership which includes one or more individuals, in respect of a return for a year of assessment beginning on or after 6th April 2007, and
+
+(b) in relation to a return under section 12AA of that Act for a partnership which includes one or more companies, in respect of a return for a relevant period beginning on or after 6th April 2007.
+
+(2) In subsection (1)(b) “relevant period” means a period in respect of which a return is required.
+
+### Other administration
+
+#### 93 Mandatory electronic filing of returns
+
+(1) Section 135 of FA 2002 (mandatory electronic filing) is amended as follows.
+
+(2) In subsection (7), after paragraph (b) insert—
+
+> (ba) to specify other consequences of contravention of, or failure to comply with, the regulations (which may include disregarding a return delivered otherwise than by the use of electronic communications);
+
+.
+
+(3) In subsection (10), for the definition of “taxation matter” substitute—
+
+> “taxation matter” means any matter relating to a tax (or duty) for which the Commissioners are responsible.
+
+(4) Section 76 of VATA 1994 (assessment) is amended as follows.
+
+(5) In subsection (1), after paragraph (c) insert—
+
+> or
+>
+> (d) a penalty under regulations made under section 135 of the Finance Act 2002 (mandatory electronic filing of returns) in connection with VAT,
+
+.
+
+(6) In that subsection, before “may have ceased” insert “ or the regulations ”.
+
+(7) In subsection (3), insert at the end—
+
+> ; and
+>
+> (f) in the case of a penalty under regulations made under section 135 of the Finance Act 2002, the relevant period is the prescribed accounting period in respect of which the contravention of, or failure to comply with, the regulations occurred.
+
+(8) In section 83 of VATA 1994 (appeals), after paragraph (zb) insert—
+
+> (zc) a decision of the Commissioners about the application of regulations under section 135 of the Finance Act 2002 (mandatory electronic filing of returns) in connection with VAT (including, in particular, a decision as to whether a requirement of the regulations applies and a decision to impose a penalty);
+
+.
+
+(9) In section 84 of VATA 1994 (appeals), after subsection (6A) insert—
+
+> (6B) Nothing in section 83(zc) shall be taken to confer on a tribunal any power to vary an amount assessed by way of penalty except in so far as it is necessary to reduce it to the amount which is appropriate under regulations made under section 135 of the Finance Act 2002.
+
+#### 94 Mandatory electronic payment
+
+(1) Section 204 of FA 2003 (mandatory electronic payment by large employers) is amended as follows.
+
+(2) For subsections (1) and (2) substitute—
+
+> (1) The Commissioners for Her Majesty's Revenue and Customs may make regulations requiring a person to use electronic means in making specified payments under legislation relating to a tax (or duty) for which the Commissioners are responsible.
+>
+> (2) The regulations may provide for exceptions.
+
+(3) In subsection (5)(b), for “the Inland Revenue” substitute “ Her Majesty's Revenue and Customs ”.
+
+(4) In subsection (6)(a), for “the Inland Revenue” substitute “ Her Majesty's Revenue and Customs ”.
+
+(5) In subsection (8)—
+
+(a) in paragraph (a), for “a contravention of, or any failure to comply with,” substitute “ a contravention by a large employer of, or any failure by a large employer to comply with, ”, and
+
+(b) in paragraph (b), for “taxation matter within the care and management of the Commissioners” substitute “ matter relating to a tax (or duty) for which the Commissioners are responsible ”.
+
+(6) In subsection (12)—
+
+(a) for the definition of “the Inland Revenue” substitute—
+
+> “Her Majesty's Revenue and Customs” includes a person acting under the authority of the Commissioners in relation to payment by electronic means;
+
+, and
+
+(b) after that definition insert—
+
+> - “large employer” means a person paying PAYE income to 250 or more recipients (and regulations under this section may make provision as to the date or period by reference to which this is to be determined and the circumstances in which a person is to be treated as paying PAYE income to a recipient);
+
+.
+
+(7) The heading accordingly becomes “ **Mandatory electronic payment** ”.
+
+(8) In section 205(1) of FA 2003 (application of section 204 for other purposes)—
+
+(a) after “taxation” insert “ (or duty) ”, and
+
+(b) for “the Commissioners of Inland Revenue” substitute “ the Commissioners for Her Majesty's Revenue and Customs ”.
+
+#### 95 Payment by cheque
+
+(1) The Commissioners may make regulations providing for a payment to HMRC made by cheque to be treated as made when the cheque clears, as defined in the regulations.
+
+(2) Section 70A of TMA 1970 (payment by cheque treated as made on receipt by HMRC) is subject to regulations under subsection (1).
+
+(3) Regulations under subsection (1)—
+
+(a) may make provision generally or only for specified purposes,
+
+(b) may make different provision for different purposes, and
+
+(c) may include incidental, consequential or transitional provision.
+
+(4) Regulations under subsection (1)—
+
+(a) shall be made by statutory instrument, and
+
+(b) shall be subject to annulment in pursuance of a resolution of the House of Commons.
+
+(5) In this section—
+
+(a) “the Commissioners” means the Commissioners for Her Majesty's Revenue and Customs, and
+
+(b) “HMRC” means Her Majesty's Revenue and Customs.
+
+(6) In section 204 of FA 2003 (electronic payment), insert at the end—
+
+> (13) Regulations under section 95(1) of the Finance Act 2007 (payment by cheque) may, in particular, provide for a payment which is made by cheque in contravention of regulations under this section to be treated as made when the cheque clears, as defined in the regulations under that section.
+
+(7) In section 70A of TMA 1970 (payments by cheque), insert at the end—
+
+> (3) This section is subject to regulations under section 95(1) of the Finance Act 2007 (payment by cheque).
+
+(8) In VATA 1994, after section 58A insert—
+
+> **58B Payment by cheque**
+>
+> Regulations under section 95(1) of the Finance Act 2007 (payment by cheque) may, in particular, provide for a payment which is made by cheque in contravention of regulations under section 25(1) above to be treated as made when the cheque clears, as defined in the regulations under section 95(1) of that Act.
+
+#### 96 Enquiry into returns
+
+(1) In section 9A(2)(a) of TMA 1970 (period during which HMRC can open enquiry into return), for “after the filing date;” substitute “ after the day on which the return was delivered; ”.
+
+(2) In section 12AC(2)(a) of TMA 1970 (period during which HMRC can open enquiry into partnership return), for “after the filing date;” substitute “ after the day on which the return was delivered; ”.
+
+(3) In paragraph 24(2) of Schedule 18 to FA 1998 (period during which HMRC can open enquiry into company tax return), for “from the filing date.” substitute “ from the day on which the return was delivered (subject to sub-paragraph (6)). ”
+
+(4) In paragraph 24 of that Schedule, insert at the end—
+
+> (6) In the case of a company which is a member of a group other than a small group, the 12-month period in sub-paragraph (2) shall start not from the day on which the return was delivered but from the filing date.
+>
+> (7) In sub-paragraph (6) “group” and “small group” have the same meaning as in sections 383(2) and 474(1) of the Companies Act 2006 (or, until their commencement, as in the provisions that they replicate).
+
+(5) The amendments made by subsections (1) and (2) apply to returns which relate to the tax year 2007-08 or a later tax year.
+
+(6) The amendments made by subsections (3) and (4) apply to returns which relate to accounting periods ending after 31st March 2008.
+
+#### 97 Penalties for errors
+
+(1) Schedule 24 contains provisions imposing penalties on taxpayers who—
+
+(a) make errors in certain documents sent to HMRC, or
+
+(b) unreasonably fail to report errors in assessments by HMRC.
+
+(2) That Schedule comes into force in accordance with provision made by the Treasury by order.
+
+(3) An order—
+
+(a) may commence a provision generally or only for specified purposes,
+
+(b) may make different provision for different purposes, and
+
+(c) may include incidental, consequential or transitional provision.
+
+(4) The power to make an order is exercisable by statutory instrument.
+
+## Part 7 — Miscellaneous
+
+### Value added tax and insurance premium tax
+
+#### 98 VAT: joint and several liability of traders in supply chain where tax unpaid
+
+(1) In section 77A of VATA 1994 (joint and several liability of traders in supply chain where tax unpaid), for subsection (9) substitute—
+
+> (9) The Treasury may by order amend subsection (1) above.
+>
+> (9A) The Treasury may by order amend this section in order to extend or otherwise alter the circumstances in which a person shall be presumed to have reasonable grounds for suspecting matters to be as mentioned in subsection (2)(b) above.
+>
+> (9B) Any order under this section may make such incidental, supplemental, consequential or transitional provision as the Treasury think fit.
+
+(2) In section 97(4) of that Act (orders ceasing to have effect unless approved by House of Commons), after paragraph (ea) insert—
+
+> (eb) an order under section 77A(9) or (9A);
+
+.
+
+#### 99 VAT: non-business use etc of business goods
+
+(1) Schedule 4 to VATA 1994 (matters to be treated as supply of goods or services) is amended as follows.
+
+(2) In paragraph 5 (non-business use etc of business goods), omit sub-paragraph (4A) (exception to rule in case of interests in land and buildings etc that non-business use of business assets treated as supply of services).
+
+(3) In paragraph 9 (application of paragraphs 5 to 8 where land forms part of assets of business), insert at the end—
+
+> (4) In this paragraph “grant” includes surrender.
+
+(4) Paragraph 7 of Schedule 6 to VATA 1994 (valuation of supply of services otherwise than for consideration by virtue of paragraph 5(4) of Schedule 4 etc) is amended as follows.
+
+(5) The existing provision becomes sub-paragraph (1) and after that sub-paragraph insert—
+
+> (2) Regulations may, in relation to a supply of services by virtue of paragraph 5(4) of Schedule 4 (but otherwise than for a consideration), make provision for determining how the full cost to the taxable person of providing the services is to be calculated.
+>
+> (3) The regulations may, in particular, make provision for the calculation to be made by reference to any prescribed period.
+>
+> (4) The regulations may make—
+>
+> (a) different provision for different circumstances;
+>
+> (b) such incidental, supplementary, consequential or transitional provision as the Commissioners think fit.
+
+(6) The amendment made by subsection (2) comes into force on 1st September 2007.
+
+(7) The amendment made by subsection (3) has effect in relation to surrenders on or after 21st March 2007.
+
+#### 100 VAT: transfers of going concerns
+
+(1) Section 49 of VATA 1994 (transfers of going concern) is amended as follows.
+
+(2) In subsection (1) (transferor's supplies treated as transferee's supplies for purposes of registration and transferor's records to be kept by transferee after transfer)—
+
+(a) after “Where a business” insert “ , or part of a business, ”,
+
+(b) after “on the business” insert “ or part of the business ”, and
+
+(c) omit paragraph (b) (together with the “and” before it).
+
+(3) In subsection (2) (regulations for securing continuity of Act in case of transfers of going concerns), after “a business” insert “ , or part of a business, ”.
+
+(4) After that subsection insert—
+
+> (2A) Regulations under subsection (2) above may, in particular, provide for the duties under this Act of the transferor to preserve records relating to the business or part of the business for any period after the transfer to become duties of the transferee unless the Commissioners, at the request of the transferor, otherwise direct.
+
+(5) In subsection (3) (provision which may be made by regulations), in paragraph (a), after “the transferor” insert “ (other than the duties mentioned in subsection (2A) above) ”.
+
+(6) After that subsection insert—
+
+> (4) Subsection (5) below applies where—
+>
+> (a) a business, or part of a business, carried on by a taxable person is transferred to another person as a going concern, and
+>
+> (b) the transferor continues to be required under this Act to preserve for any period after the transfer any records relating to the business or part of the business.
+>
+> (5) So far as is necessary for the purpose of complying with the transferee's duties under this Act, the transferee (“E”) may require the transferor—
+>
+> (a) to give to E, within such time and in such form as E may reasonably require, such information contained in the records as E may reasonably specify,
+>
+> (b) to give to E, within such time and in such form as E may reasonably require, such copies of documents forming part of the records as E may reasonably specify, and
+>
+> (c) to make the records available for E's inspection at such time and place as E may reasonably require (and permit E to take copies of, or make extracts from, them).
+>
+> (6) Where a business, or part of a business, carried on by a taxable person is transferred to another person as a going concern, the Commissioners may disclose to the transferee any information relating to the business when it was carried on by the transferor for the purpose of enabling the transferee to comply with the transferee's duties under this Act.
+
+(7) In section 94(6) of VATA 1994 (meaning of “business” etc)—
+
+(a) after “a business” insert “ , or part of a business, ”, and
+
+(b) for “its assets or liabilities” substitute “ the assets or liabilities of the business or part of the business ”.
+
+(8) In paragraph 1(2) of Schedule 1 to that Act (registration in respect of taxable supplies), after “Where a business” insert “ , or part of a business, ”.
+
+(9) In paragraph 8(2)(b) of Schedule 4 to that Act (matters to be treated as supply of goods or services), after “a business” insert “ , or part of a business, ”.
+
+(10) The amendments made by this section have effect in relation to transfers pursuant to contracts entered into on or after 1st September 2007.
+
+#### 101 IPT: meaning of “premium”
+
+(1) In section 72 of FA 1994 (interpretation: “premium”), after subsection (1A) insert—
+
+> (1B) Where—
+>
+> (a) an amount is charged (to the insured or any other person) in respect of the acquisition of a right (whether of the insured or any other person) to require the insurer to provide, or offer to provide, any of the cover included in a taxable insurance contract, and
+>
+> (b) any payment in respect of that amount is not regarded as a payment received under that contract by the insurer by virtue of subsection (1A) above,
+>
+> the payment is to be regarded as a payment received under that contract by the insurer unless it is chargeable to tax at the higher rate by virtue of section 52A above.
+
+(2) The amendment made by subsection (1) has effect in relation to amounts charged on or after 22nd March 2007.
+
+### Petroleum revenue tax
+
+#### 102 Abolition of PRT for fields recommissioned after earlier decommissioning
+
+(1) Section 185 of FA 1993 (abolition of PRT for oil fields with development consents on or after 16th March 1993) is amended as follows.
+
+(2) In subsection (1) (meaning of “non-taxable field” and “taxable field”), after paragraph (b) insert “ or an oil field which does not meet the conditions in paragraphs (a) and (b) above but which does meet the conditions in subsection (1A) below ”.
+
+(3) After that subsection insert—
+
+> (1A) An oil field meets the conditions in this subsection if—
+>
+> (a) the Secretary of State has at any time approved one or more abandonment programmes under Part 4 of the Petroleum Act 1998 (or Part 1 of the Petroleum Act 1987) in relation to all assets of the field which are relevant assets;
+>
+> (b) those programmes have been carried out to the satisfaction of the Secretary of State;
+>
+> (c) a development decision is made in relation to the field; and
+>
+> (d) that decision is made on or after 16th March 1993 and after those programmes have been so carried out.
+>
+> (1B) For the purposes of subsection (1A)(a) above, an asset is a relevant asset of an oil field if—
+>
+> (a) it has at any time been a qualifying asset (within the meaning of the 1983 Act) in relation to any participator in the field; and
+>
+> (b) it has at any time been used for the purpose of winning oil from the field.
+>
+> (1C) For the purposes of subsection (1A)(c) and (d) above, a development decision is made in relation to an oil field when—
+>
+> (a) consent for development is granted to a licensee by the Secretary of State in respect of the whole or part of the field; or
+>
+> (b) a programme of development is served on a licensee or approved by the Secretary of State for the whole or part of the field.
+
+(4) In subsection (7) (meaning of “development” etc), for “subsections (1) and (2)” substitute “ this section ”.
+
+(5) An oil field which meets the conditions in subsection (1A) of section 185 of FA 1993 (as inserted by subsection (3) above) becomes a non-taxable field for the purposes of any enactment relating to petroleum revenue tax—
+
+(a) in any case where the development decision is made before 1st July 2007, on that date, and
+
+(b) in any other case, on the date on which the development decision is made.
+
+#### 103 Tax-exempt tariffing receipts
+
+(1) Section 6A of the Oil Taxation Act 1983 (c. 56) (tax-exempt tariffing receipts) is amended as follows.
+
+(2) In subsection (4), insert at the end
+
+> or
+>
+> (c) use in relation to a UK recommissioned field (see subsection (5) below) or oil won from such a field.
+
+(3) In subsection (5), insert at the end—
+
+> “UK recommissioned field” means any oil field which is not a new field or qualifying existing field but as respects which the conditions in section 185(1A) of the Finance Act 1993 are satisfied (fields recommissioned after earlier decommissioning).
+
+(4) The amendments made by this section are deemed to have come into force on 1st July 2007.
+
+#### 104 Allowance of unrelievable loss from abandoned field
+
+(1) In section 6 of the Oil Taxation Act 1975 (c. 22) (allowance of unrelievable loss from abandoned field), after subsection (4) insert—
+
+> (4A) For the purposes of this section and Schedule 8 to this Act, the winning of oil from an oil field shall not be regarded as having permanently ceased until all the oil wells in the field have been permanently abandoned.
+
+(2) The amendment made by subsection (1) is deemed to have come into force on 1st July 2007.
+
+### Other miscellaneous measures
+
+#### 105 Amendments connected with Gambling Act 2005
+
+Schedule 25 contains amendments that are consequential on, or otherwise connected with, the Gambling Act 2005 (c. 19).
+
+#### 106 VED: exempt vehicles
+
+(1) In section 5 of VERA 1994 (exempt vehicles), after subsection (2) insert—
+
+> (3) The Secretary of State may by order amend Schedule 2 in order to make provision about the descriptions of—
+>
+> (a) tractors, and
+>
+> (b) vehicles used for purposes relating to agriculture, horticulture or forestry,
+>
+> that are to be exempt vehicles.
+>
+> (4) An order under subsection (3) may in particular repeal any of paragraphs 20A to 20D of Schedule 2.
+
+(2) In section 60(3) of that Act (orders subject to affirmative procedure), after “under” insert “ section 5(3) or ”.
+
+#### 107 Limitation period in old actions for mistake of law relating to direct tax
+
+(1) Section 32(1)(c) of the Limitation Act 1980 (c. 58) (extended period for bringing action in case of mistake) does not apply in relation to any action brought before 8th September 2003 for relief from the consequences of a mistake of law relating to a taxation matter under the care and management of the Commissioners of Inland Revenue.
+
+(2) Subsection (1) has effect regardless of how the grounds on which the action was brought were expressed and of whether it was also brought otherwise than for such relief.
+
+(3) But subsection (1) does not have effect in relation to an action, or so much of an action as relates to a cause of action, if—
+
+(a) the action, or cause of action, has been the subject of a judgment of the House of Lords given before 6th December 2006 as to the application of section 32(1)(c) in relation to such relief, or
+
+(b) the parties to the action are, in accordance with a group litigation order, bound in relation to the action, or cause of action, by a judgment of the House of Lords in another action given before that date as to the application of section 32(1)(c) in relation to such relief.
+
+(4) If the judgment of any court was given on or after 6th December 2006 but before the day on which this Act is passed, the judgment is to be taken to have been what it would have been had subsections (1) to (3) been in force at all times since the action was brought (and any defence of limitation which would have been available had been raised).
+
+(5) And any payment made to satisfy a liability under the judgment which (in consequence of subsection (4)) is to be taken not to have been imposed is repayable (with interest from the date of the payment).
+
+[[^F44](5A) Subsection (1) also does not have effect in relation to an action, or so much of an action as relates to a cause of action, if the consequences of a mistake of law to which the action, or cause of action, relates is the charging of tax contrary to EU law.]
+
+(6) In this section—
+
+- “group litigation order” means an order of a court providing for the case management of actions which give rise to common or related issues of fact or law, and
+- “judgment” includes order (and “given” includes made).
+
+#### 108 Disclosure of tax avoidance schemes
+
+(1) Part 7 of FA 2004 (disclosure of tax avoidance schemes) is amended as follows.
+
+(2) After section 306 insert—
+
+> **306A Doubt as to notifiability**
+>
+> (1) HMRC may apply to the Special Commissioners for an order that—
+>
+> (a) a proposal is to be treated as notifiable, or
+>
+> (b) arrangements are to be treated as notifiable.
+>
+> (2) An application must specify—
+>
+> (a) the proposal or arrangements in respect of which the order is sought, and
+>
+> (b) the promoter.
+>
+> (3) On an application the Special Commissioners may make the order only if satisfied that HMRC—
+>
+> (a) have taken all reasonable steps to establish whether the proposal or arrangements are notifiable, and
+>
+> (b) have reasonable grounds for suspecting that the proposal or arrangements may be notifiable.
+>
+> (4) Reasonable steps under subsection (3)(a) may (but need not) include taking action under section 313A or 313B.
+>
+> (5) Grounds for suspicion under subsection (3)(b) may include—
+>
+> (a) the fact that the relevant arrangements fall within a description prescribed under section 306(1)(a);
+>
+> (b) an attempt by the promoter to avoid or delay providing information or documents about the proposal or arrangements under or by virtue of section 313A or 313B;
+>
+> (c) the promoter's failure to comply with a requirement under or by virtue of section 313A or 313B in relation to another proposal or other arrangements.
+>
+> (6) Where an order is made under this section in respect of a proposal or arrangements, the prescribed period for the purposes of section 308(1) or (3) in so far as it applies by virtue of the order—
+>
+> (a) shall begin after a date prescribed for the purpose, and
+>
+> (b) may be of a different length than the prescribed period for the purpose of other applications of section 308(1) or (3).
+>
+> (7) An order under this section in relation to a proposal or arrangements is without prejudice to the possible application of section 308, other than by virtue of this section, to the proposal or arrangements.
+
+(3) In section 307 (“promoter”), insert at the end—
+
+> (6) In the application of this Part to a proposal or arrangements which are not notifiable, a reference to a promoter is a reference to a person who would be a promoter under subsections (1) to (5) if the proposal or arrangements were notifiable.
+
+(4) After section 308 insert—
+
+> **308A Supplemental information**
+>
+> (1) This section applies where—
+>
+> (a) a promoter (P) has provided information in purported compliance with section 308(1) or (3), but
+>
+> (b) HMRC believe that P has not provided all the prescribed information.
+>
+> (2) HMRC may apply to the Special Commissioners for an order requiring P to provide specified information about, or documents relating to, the notifiable proposal or arrangements.
+>
+> (3) The Special Commissioners may make an order under subsection (2) in respect of information or documents only if satisfied that HMRC have reasonable grounds for suspecting that the information or documents—
+>
+> (a) form part of the prescribed information, or
+>
+> (b) will support or explain the prescribed information.
+>
+> (4) A requirement by virtue of subsection (2) shall be treated as part of P's duty under section 308(1) or (3).
+>
+> (5) In so far as P's duty under section 308(1) or (3) arises out of a requirement by virtue of subsection (2) above, the prescribed period shall begin after a date prescribed for the purpose.
+>
+> (6) In so far as P's duty under section 308(1) or (3) arises out of a requirement by virtue of subsection (2) above, the prescribed period—
+>
+> (a) may be of a different length than the prescribed period for the purpose of other applications of section 308(1) or (3), and
+>
+> (b) may be extended by HMRC by direction.
+
+(5) After section 313 insert—
+
+> **313A Pre-disclosure enquiry**
+>
+> (1) Where HMRC suspect that a person (P) is the promoter of a proposal or arrangements which may be notifiable, they may by written notice require P to state—
+>
+> (a) whether in P's opinion the proposal or arrangements are notifiable by P, and
+>
+> (b) if not, the reasons for P's opinion.
+>
+> (2) A notice must specify the proposal or arrangements to which it relates.
+>
+> (3) For the purpose of subsection (1)(b)—
+>
+> (a) it is not sufficient to refer to the fact that a lawyer or other professional has given an opinion,
+>
+> (b) the reasons must show, by reference to this Part and regulations under it, why P thinks the proposal or arrangements are not notifiable by P, and
+>
+> (c) in particular, if P asserts that the arrangements do not fall within any description prescribed under section 306(1)(a), the reasons must provide sufficient information to enable HMRC to confirm the assertion.
+>
+> (4) P must comply with a requirement under or by virtue of subsection (1) within—
+>
+> (a) the prescribed period, or
+>
+> (b) such longer period as HMRC may direct.
+>
+> **313B Reasons for non-disclosure: supporting information**
+>
+> (1) Where HMRC receive from a person (P) a statement of reasons why a proposal or arrangements are not notifiable by P, HMRC may apply to the Special Commissioners for an order requiring P to provide specified information or documents in support of the reasons.
+>
+> (2) P must comply with a requirement under or by virtue of subsection (1) within—
+>
+> (a) the prescribed period, or
+>
+> (b) such longer period as HMRC may direct.
+>
+> (3) The power under subsection (1)—
+>
+> (a) may be exercised more than once, and
+>
+> (b) applies whether or not the statement of reasons was received under section 313A(1)(b).
+
+(6) After section 314 insert—
+
+> **314A Order to disclose**
+>
+> (1) HMRC may apply to the Special Commissioners for an order that—
+>
+> (a) a proposal is notifiable, or
+>
+> (b) arrangements are notifiable.
+>
+> (2) An application must specify—
+>
+> (a) the proposal or arrangements in respect of which the order is sought, and
+>
+> (b) the promoter.
+>
+> (3) On an application the Special Commissioners may make the order only if satisfied that section 306(1)(a) to (c) applies to the relevant arrangements.
+
+(7) After section 317 insert—
+
+> **317A Special Commissioners: procedure**
+>
+> Sections 56B to 56D of the Taxes Management Act 1970 (procedure) shall apply (with any necessary modifications) to applications under this Part as to appeals.
+
+(8) In section 318(1) (interpretation)—
+
+(a) after the definition of “corporation tax” insert—
+
+> “HMRC” means the Commissioners for Her Majesty's Revenue and Customs;
+
+and
+
+(b) after the definition of “reference number” insert—
+
+> “the Special Commissioners” has the meaning given by section 4 of the Taxes Management Act 1970;
+
+.
+
+(9) In section 98C of TMA 1970 (notifications under Part 7 of FA 2004)—
+
+(a) in subsection (2), at the end insert—
+
+> , and
+>
+> (e) sections 313A and 313B (duty of promoter to respond to inquiry).
+
+, and
+
+(b) after that subsection insert—
+
+> (2A) Where a failure to comply with a provision mentioned in subsection (2) concerns a proposal or arrangements in respect of which an order has been made under section 306A of the Finance Act 2004 (doubt as to notifiability), the amount specified in subsection (1)(b) above shall be increased to the prescribed sum.
+>
+> (2B) Where a failure to comply with a provision mentioned in subsection (2) concerns a proposal or arrangements in respect of which an order has been made under section 314A of the Finance Act 2004 (order to disclose), the amount specified in subsection (1)(b) above shall be increased to the prescribed sum in relation to days falling after the prescribed period.
+>
+> (2C) In subsection (2A) and (2B)—
+>
+> (a) “the prescribed sum” means a sum prescribed by the Treasury by regulations, and
+>
+> (b) “the prescribed period” means a period beginning with the date of the order under section 314A and prescribed by the Commissioners by regulations.
+>
+> (2D) The making of an order under section 314A of that Act does not of itself mean that, for the purposes of section 118(2) of this Act, a person either did or did not have a reasonable excuse for non-compliance before the order was made.
+>
+> (2E) Where an order is made under section 314A of that Act then for the purposes of section 118(2) of this Act—
+>
+> (a) the person identified in the order as the promoter of the proposal or arrangements cannot, in respect of any time after the end of the period mentioned in subsection (2B), rely on doubt as to notifiability as an excuse for failure to comply with section 308 of that Act, and
+>
+> (b) any delay in compliance with that section after the end of that period is unreasonable unless attributable to something other than doubt as to notifiability.
+>
+> (2F) Regulations under subsection (2C)—
+>
+> (a) may include incidental or transitional provision,
+>
+> (b) shall be made by statutory instrument,
+>
+> (c) in the case of regulations under subsection (2C)(a), shall not be made unless a draft has been laid before and approved by resolution of the House of Commons, and
+>
+> (d) in the case of regulations under subsection (2C)(b), shall be subject to annulment in pursuance of a resolution of the House of Commons.
+
+(10) The amendments made by this section come into force on the passing of this Act; and—
+
+[^F45]a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) a power under Part 7 of FA 2004 as amended by this section may be exercised in relation to, or by virtue of, matters arising wholly or partly before the passing of this Act.
+
+#### 109 Meaning of “recognised stock exchange” etc
+
+Schedule 26 contains—
+
+(a) new definitions of “recognised stock exchange” for the purposes of the Tax Acts and TCGA 1992,
+
+(b) provision for the valuation for the purposes of TCGA 1992 of certain shares or securities listed on recognised stock exchanges,
+
+(c) provision for the valuation for the purposes of Chapter 8 of Part 4 of ITTOIA 2005 of strips and securities exchanged for strips, and
+
+(d) minor and consequential amendments in relation to stock exchanges.
+
+#### 110 Mergers Directive: regulations
+
+(1) The Treasury may by regulations make provision about—
+
+(a) the tax consequences of a merger to form an SE or SCE,
+
+(b) the tax consequences of a merger where—
+
+(i) each party to the merger is resident in a member State, and
+
+(ii) the parties are not all resident in the same member State,
+
+(c) the tax consequences of a transfer between companies of a business or part of a business, where—
+
+(i) each party to the transfer is resident in a member State, and
+
+(ii) the parties are not all resident in the same member State,
+
+(d) the tax consequences of a share exchange to which section 135 of TCGA 1992 (exchange of securities) applies where companies A and B are resident in different member States,
+
+(e) the residence of an SE or SCE.
+
+(2) Regulations may, in particular, make provision—
+
+(a) about the taxation of chargeable gains (including conferring relief from taxation in relation to transfers or mergers which satisfy specified conditions),
+
+(b) conferring relief from taxation on a distribution of a company which satisfies specified conditions,
+
+(c) about the treatment of securities issued on a transfer or merger,
+
+(d) about the treatment of loan relationships,
+
+(e) about the treatment of derivative contracts,
+
+(f) about the treatment of intangible fixed assets, and
+
+(g) about capital allowances.
+
+(3) Regulations may make provision only if the Treasury think it necessary or expedient for the purposes of complying with the United Kingdom's obligations under the Mergers Directive.
+
+(4) In this section—
+
+- “the Mergers Directive” means Council Directive [[^F46]2009/133/EC],
+- “SCE” means an SCE formed in accordance with Council Regulation (EC) 1435/2003 on the Statute for a European Cooperative Society, and
+- “SE” means an SE formed in accordance with Council Regulation (EC) 2157/2001 on the Statute for a European Company.
+
+(5) Regulations under this section may—
+
+(a) amend the Taxes Acts,
+
+(b) make incidental or consequential amendments of enactments other than the Taxes Acts,
+
+(c) make provision having retrospective effect,
+
+(d) make provision generally or only for specified cases or circumstances,
+
+(e) make different provision for different cases or circumstances,
+
+(f) make incidental, consequential or transitional provision.
+
+(6) In this section “the Taxes Acts” has the meaning given by section 118(1) of TMA 1970.
+
+#### 111 Excise duties: small consignment relief
+
+(1) The Excise Duties (Small Non-Commercial Consignments) Relief Regulations 1986 (S.I. 1986/938) are revoked.
+
+(2) The revocation made by subsection (1) does not apply in relation to goods consigned before the day on which this Act is passed.
+
+#### 112 Updating references to Standing Committees
+
+(1) In section 1(4)(b) of the Provisional Collection of Taxes Act 1968 (c. 2) (circumstances in which a resolution affecting income tax etc ceases to have effect), for “Standing Committee” substitute “ Public Bill Committee ”.
+
+(2) In section 50(2)(a) of FA 1973 (corresponding provision for stamp duty), for “Standing Committee” substitute “ Public Bill Committee ”.
+
+## Part 8 — Final provisions
+
+### 113 Interpretation
+
+(1) In this Act—
+
+- “BGDA 1981” means the Betting and Gaming Duties Act 1981 (c. 63),
+- “CAA 2001” means the Capital Allowances Act 2001 (c. 2),
+- “CEMA 1979” means the Customs and Excise Management Act 1979 (c. 2),
+- “CRCA 2005” means the Commissioners for Revenue and Customs Act 2005 (c. 11),
+- [[^F47]“CTA 2009” means the Corporation Tax Act 2009;]
+- “ICTA” means the Income and Corporation Taxes Act 1988 (c. 1),
+- “IHTA 1984” means the Inheritance Tax Act 1984 (c. 51),
+- “ITA 2007” means the Income Tax Act 2007 (c. 3),
+- “ITEPA 2003” means the Income Tax (Earnings and Pensions) Act 2003 (c. 1),
+- “ITTOIA 2005” means the Income Tax (Trading and Other Income) Act 2005 (c. 5),
+- “TCGA 1992” means the Taxation of Chargeable Gains Act 1992 (c. 12),
+- “TMA 1970” means the Taxes Management Act 1970 (c. 9),
+- “VATA 1994” means the Value Added Tax Act 1994 (c. 23), and
+- “VERA 1994” means the Vehicle Excise and Registration Act 1994 (c. 22).
+
+(2) In this Act—
+
+- “FA”, followed by a year, means the Finance Act of that year, and
+- “F(No.2)A”, followed by a year, means the Finance (No.2) Act of that year.
+
+### 114 Repeals
+
+Schedule 27 contains repeals.
+
+### 115 Short title
+
+This Act may be cited as the Finance Act 2007.
+
+## SCHEDULE 1 — Remote gaming duty
+
+*Section 8*
+
+### Part 1 — Imposition of duty
+
+**1** The sections set out below are to be inserted in Part 2 of BGDA 1981 (gaming duties) before section 26A (which is renumbered 26N).
+
+**2** Those sections are—
+
+> **Remote gaming duty**
+>
+> **Interpretation**
+>
+> **26A** (1) For the purposes of remote gaming duty “remote gaming” means gaming in which persons participate by the use of—
+>
+> (a) the internet,
+>
+> (b) telephone,
+>
+> (c) television,
+>
+> (d) radio, or
+>
+> (e) any other kind of electronic or other technology for facilitating communication.
+>
+> (2) For the purposes of remote gaming duty the expressions listed below shall be construed (for the whole of the United Kingdom) in accordance with the Gambling Act 2005.
+>
+> |  |  |
+> |---|---|
+> | *Expression* | *Defining provision of Gambling Act 2005* |
+> | Provision of facilities | Section 5(1) to (3) |
+> | Remote gambling equipment | Section 36(4) and (5) |
+> | Remote operating licence | Section 67 |
+>
+> (3) In relation to remote gaming duty “P” means a person who provides facilities for remote gaming.
+>
+> (4) The Treasury may by order amend the definition of “remote gaming” in subsection (1) (and an order may include incidental, consequential or transitional provision).
+>
+> **The duty**
+>
+> **26B** A duty of excise to be known as remote gaming duty shall be charged on the provision of facilities for remote gaming if—
+>
+> (a) the facilities are provided in reliance on a remote operating licence, or
+>
+> (b) at least one piece of remote gambling equipment used in the provision of the facilities is situated in the United Kingdom (whether or not the facilities are provided for use wholly or partly in the United Kingdom).
+>
+> **The rate**
+>
+> **26C** (1) Remote gaming duty is chargeable at the rate of 15% of P's remote gaming profits for an accounting period.
+>
+> (2) P's remote gaming profits for an accounting period are—
+>
+> (a) the amount of P's remote gaming receipts for the period (calculated in accordance with section 26E), minus
+>
+> (b) the amount of P's expenditure for the period on remote gaming winnings (calculated in accordance with section 26F).
+>
+> **Accounting periods**
+>
+> **26D** (1) The following are accounting periods for the purposes of remote gaming duty—
+>
+> (a) the period of three months beginning with 1st January,
+>
+> (b) the period of three months beginning with 1st April,
+>
+> (c) the period of three months beginning with 1st July, and
+>
+> (d) the period of three months beginning with 1st October.
+>
+> (2) The Commissioners may agree with P for specified periods to be treated as accounting periods, instead of those described in subsection (1), for purposes of remote gaming duty relating to P.
+>
+> (3) The Commissioners may by direction make transitional arrangements for the periods to be treated as accounting periods where—
+>
+> (a) P becomes registered, or ceases to be registered, under section 26J, or
+>
+> (b) an agreement under subsection (2) begins or ends.
+>
+> **Remote gaming receipts**
+>
+> **26E** (1) The amount of P's remote gaming receipts for an accounting period is the aggregate of—
+>
+> (a) amounts falling due to P in that period in respect of entitlement to use facilities for remote gaming provided by P, and
+>
+> (b) amounts staked, or falling due to be paid, in that period by a user of facilities for remote gaming provided by P, if or in so far as responsibility for paying any amount won by the user falls on P (or a person with whom P is connected or has made arrangements).
+>
+> (2) Amounts in respect of VAT shall be ignored for the purposes of subsection (1).
+>
+> (3) The Treasury may by order provide that where a person who uses facilities (U) relies on an offer which waives payment or permits payment of less than the amount which would have been required to be paid without the offer, U is to be treated for the purposes of this section as having paid that amount.
+>
+> **Remote gaming winnings**
+>
+> **26F** (1) The amount of P's expenditure on remote gaming winnings for an accounting period is the aggregate of the value of prizes provided by P in that period which have been won (at any time) by persons using facilities for remote gaming provided by P.
+>
+> (2) Prizes provided by P to one user on behalf of another are not to be treated as prizes provided by P.
+>
+> (3) A reference to providing a prize to a user (U) includes a reference to crediting money in respect of gaming winnings by U to an account if U is notified that—
+>
+> (a) the money is being held in the account, and
+>
+> (b) U is entitled to withdraw it on demand.
+>
+> (4) The return of a stake is to be treated as the provision of a prize.
+>
+> (5) Where P participates in arrangements under which a number of persons who provide facilities for remote gaming contribute towards a fund which is wholly used to provide prizes in connection with the use of those facilities (sometimes described as arrangements for “linked progressive jackpot games ”)—
+>
+> (a) the making by P of a contribution which relates to the provision by P of facilities for remote gaming shall be treated as the provision of a prize, and
+>
+> (b) the award of a prize from the fund shall not be treated as the provision of a prize by P.
+>
+> (6) Where P credits the account of a user of facilities provided by P (otherwise than as described in subsection (3)), the credit shall be treated as the provision of a prize; but the Commissioners may direct that this subsection shall not apply in a specified case or class of cases.
+>
+> (7) Subsections (2) to (6) of section 20 shall apply (with any necessary modifications) for the purpose of remote gaming duty as for the purpose of bingo duty.
+>
+> **Losses**
+>
+> **26G** Where the calculation of P's remote gaming profits for an accounting period produces a negative amount, it may be carried forward in reduction of the profits of one or more later accounting periods.
+>
+> **Exemptions**
+>
+> **26H** (1) Remote gaming duty shall not be charged in respect of the provision of facilities for remote gaming if and in so far as—
+>
+> (a) the provision is charged with another gambling tax, or
+>
+> (b) the use of the facilities is charged with another gambling tax.
+>
+> (2) Remote gaming duty shall not be charged in respect of the provision of facilities for remote gaming if and in so far as—
+>
+> (a) the provision would be charged with another gambling tax but for an express exception, or
+>
+> (b) the use of the facilities would be charged with another gambling tax but for an express exception.
+>
+> (3) In this section “gambling tax” means—
+>
+> (a) amusement machine licence duty,
+>
+> (b) bingo duty,
+>
+> (c) gaming duty,
+>
+> (d) general betting duty,
+>
+> (e) lottery duty, and
+>
+> (f) pool betting duty.
+>
+> (4) The Treasury may by order—
+>
+> (a) confer an exemption from remote gaming duty, or
+>
+> (b) remove or vary (whether or not by textual amendment) an exemption under this section.
+>
+> (5) In calculating P's remote gaming profits for an accounting period, no account shall be taken of amounts or prizes if, or in so far as, they relate to the provision of facilities to which an exemption applies under or by virtue of this section.
+>
+> **Liability to pay**
+>
+> **26I** (1) P is liable for any remote gaming duty charged on P's remote gaming profits for an accounting period.
+>
+> (2) If P is a body corporate, P and P's directors are jointly and severally liable for any remote gaming duty charged on P's remote gaming profits for an accounting period.
+>
+> (3) The Commissioners may make regulations about payment of remote gaming duty; and the regulations may, in particular, make provision about—
+>
+> (a) timing;
+>
+> (b) instalments;
+>
+> (c) methods of payment;
+>
+> (d) when payment is to be treated as made;
+>
+> (e) the process and effect of assessments by the Commissioners of amounts due.
+>
+> (4) Subject to regulations under subsection (3), section 12 of the Finance Act 1994 (assessment) shall apply in relation to liability to pay remote gaming duty.
+>
+> **Registration**
+>
+> **26J** (1) The Commissioners shall maintain a register of persons who provide facilities for remote gaming in respect of which remote gaming duty may be chargeable.
+>
+> (2) A person may not provide facilities for remote gaming in respect of which remote gaming duty may be chargeable without being registered.
+>
+> (3) The Commissioners may make regulations about registration; in particular, the regulations may include provision (which may include provision conferring a discretion on the Commissioners) about—
+>
+> (a) the procedure for applying for registration;
+>
+> (b) the timing of applications;
+>
+> (c) the information to be provided;
+>
+> (d) notification of changes;
+>
+> (e) de-registration;
+>
+> (f) re-registration after a person ceases to be registered.
+>
+> (4) The regulations may require a registered person to give notice to the Commissioners before applying for a remote operating licence.
+>
+> (5) The regulations may permit the Commissioners to make registration, or continued registration, of a foreign person conditional; and the regulations may, in particular, permit the Commissioners to require—
+>
+> (a) the provision of security for payment of remote gaming duty;
+>
+> (b) the appointment of a United Kingdom representative with responsibility for discharging liability to remote gaming duty.
+>
+> (6) In subsection (5) “foreign person” means a person who—
+>
+> (a) in the case of an individual, is not usually resident in the United Kingdom,
+>
+> (b) in the case of a body corporate, does not have an established place of business in the United Kingdom, and
+>
+> (c) in any other case, does not include an individual who is usually resident in the United Kingdom.
+>
+> (7) The regulations may include provision for the registration of groups of persons; and may provide for the modification of the provisions of this Part about remote gaming duty in their application to groups.
+>
+> (8) The regulations—
+>
+> (a) may make provision which applies generally or only for specified purposes, and
+>
+> (b) may make different provision for different purposes.
+>
+> **Returns**
+>
+> **26K** (1) The Commissioners may make regulations requiring persons who provide facilities for remote gaming in respect of which remote gaming duty may be chargeable to make returns to the Commissioners in respect of their activities.
+>
+> (2) The regulations may, in particular, make provision about—
+>
+> (a) liability to make a return;
+>
+> (b) timing;
+>
+> (c) form;
+>
+> (d) content;
+>
+> (e) method of making;
+>
+> (f) declarations;
+>
+> (g) authentication;
+>
+> (h) when a return is to be treated as made.
+>
+> (3) The regulations—
+>
+> (a) may make provision which applies generally or only for specified purposes, and
+>
+> (b) may make different provision for different purposes.
+>
+> **Enforcement**
+>
+> **26L** (1) Contravention of a provision made by or by virtue of sections 26I to 26K—
+>
+> (a) is conduct to which section 9 of the Finance Act 1994 applies (penalties), and
+>
+> (b) attracts daily penalties under that section.
+>
+> (2) A person who is knowingly concerned in, or in taking steps with a view to, the fraudulent evasion of remote gaming duty commits an offence.
+>
+> (3) A person guilty of an offence under subsection (2) shall be liable on summary conviction to—
+>
+> (a) a penalty of—
+>
+> (i) the statutory maximum, or
+>
+> (ii) if greater, three times the duty which is unpaid or the payment of which is sought to be avoided,
+>
+> (b) imprisonment for a term not exceeding six months, or
+>
+> (c) both.
+>
+> (4) A person guilty of an offence under subsection (2) shall be liable on conviction on indictment to—
+>
+> (a) a penalty of any amount,
+>
+> (b) imprisonment for a term not exceeding seven years, or
+>
+> (c) both.
+>
+> **Review and appeal**
+>
+> **26M** (1) Sections 14 to 16 of the Finance Act 1994 (review and appeal) shall apply in relation to liability to pay remote gaming duty.
+>
+> (2) Sections 14 to 16 of that Act shall also apply to the decisions listed in subsection (3) below.
+>
+> (3) Those decisions are—
+>
+> (a) a decision to refuse a request for an agreement under section 26D(2),
+>
+> (b) a decision to give a direction under section 26D(3),
+>
+> (c) a decision not to give a direction under section 26D(3),
+>
+> (d) a decision to direct that section 26F(6) shall not apply in a specified case,
+>
+> (e) a decision under regulations by virtue of section 26J(3), and
+>
+> (f) a decision about security by virtue of section 26J(5)(a).
+>
+> (4) A decision of a kind specified in subsection (3) shall be treated as an ancillary matter for the purposes of sections 14 to 16 of the Finance Act 1994.
+
+### Part 2 — Consequential amendments
+
+**3** In BGDA 1981, before section 26N (non-sterling amounts) (as renumbered by paragraph 1 above) insert the italic cross-heading “ General ”.
+
+**[^F48]4** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**5** In section 32 of that Act (subordinate legislation), after subsection (2) insert—
+
+> (3) But in the case of an order under section 26H(4) which has the effect of adding to the class of activities in respect of which remote gaming duty is chargeable—
+>
+> (a) subsection (2) above shall not apply, and
+>
+> (b) the order may not be made unless a draft has been laid before and approved by resolution of the House of Commons.
+
+**6** In section 33(2) of that Act (no legalising effect), after “bingo duty” insert “ , remote gaming duty ”.
+
+## SCHEDULE 2 — Climate change levy: reduced-rate supplies etc
+
+*Section 23*
+
+### Introductory
+
+**1** Schedule 6 to FA 2000 (climate change levy) is amended as follows.
+
+### Reduced-rate supplies
+
+**2** In paragraph 4(2)(b) (taxable supplies: introduction), after “paragraph 24” insert “ or 45A ”.
+
+**3** In paragraph 5(3) (supplies of electricity), for “or 24” substitute “ , 24 or 45A ”.
+
+**4** In paragraph 6(2A) (supplies of gas), after “24” insert “ or 45A ”.
+
+**5** (1) Paragraph 34 (other commodities: deemed supplies) is amended as follows.
+
+(2) In sub-paragraph (1)(b), for “or 24” substitute “ , 24 or 45A ”.
+
+(3) After sub-paragraph (3) insert—
+
+> (4) A supply that is deemed to be made under paragraph 45A is treated as taking place upon the later determination.
+
+**6** In paragraph 39(1)(c) (regulations as to time of supply), for “or 24” substitute “ , 24 or 45A ”.
+
+**7** For paragraph 44 substitute—
+
+> **44** (1) For the purposes of this Schedule, a taxable supply is a reduced-rate supply if—
+>
+> (a) the taxable commodity is supplied to a facility specified in a certificate given by the Secretary of State to the Commissioners as a facility which is to be taken as being covered by a climate change agreement for a period specified in the certificate, and
+>
+> (b) the supply is made at a time falling in that period.
+>
+> (2) Sub-paragraph (1) has effect subject to paragraph 45.
+>
+> (3) The Commissioners may by regulations make provision for giving effect to sub-paragraph (1).
+>
+> (4) Regulations under this paragraph may, in particular, include provision for determining whether any taxable commodity is supplied to a facility.
+>
+> (5) The provision that may be made by virtue of sub-paragraph (4) includes, in particular, provision for a taxable commodity of any description specified in the regulations to be taken as supplied to a facility only if the commodity is delivered to the facility.
+
+**8** (1) Paragraph 45 (reduced-rate supplies: variation of notices under paragraph 44) is amended as follows.
+
+(2) Omit sub-paragraphs (2) to (4).
+
+(3) In sub-paragraph (5)—
+
+(a) in paragraph (b), for “the variation notice is published” substitute “ the variation certificate is given ”, and
+
+(b) for the words following that paragraph substitute “ the original certificate has effect as if the facility had never been specified in it ”.
+
+(4) In sub-paragraph (6)—
+
+(a) in paragraph (b), for “the variation notice is published” substitute “ the variation certificate is given ”, and
+
+(b) for the words following that paragraph substitute “ the original certificate has effect as if the last day of the period specified for the facility in the original certificate were the day on which the variation certificate is given ”.
+
+(5) In sub-paragraph (7), for the words from “the original notice” to the end substitute
+
+> the original certificate has effect as if the last day of the period specified for the facility in the original certificate were the later of—
+>
+> (a) the day on which the variation certificate is given, and
+>
+> (b) the day specified in the variation certificate.
+
+(6) The italic heading before that paragraph accordingly becomes “ *Reduced-rate supplies: variation of certificates under paragraph 44* ”.
+
+**9** After that paragraph insert—
+
+> **Reduced-rate supplies: deemed supply**
+>
+> **45A** (1) This paragraph applies where—
+>
+> (a) a taxable supply has been made to any person (“the recipient”),
+>
+> (b) the supply was made on the basis that it was a reduced-rate supply, and
+>
+> (c) it is later determined that the supply was not a reduced-rate supply.
+>
+> (2) For the purposes of this Schedule—
+>
+> (a) the recipient is deemed to make a taxable supply to itself of the taxable commodity, and
+>
+> (b) the amount payable by way of levy on that deemed supply is 80 per cent. of the amount that would be payable if the supply were not a reduced-rate supply.
+
+**10** In paragraph 147 (interpretation), in the definition of “reduced-rate supply”—
+
+(a) for “44(3)” substitute “ 44(1) ”, and
+
+(b) for “44(4)” substitute “ 44(2) ”.
+
+### Notifications and certificates
+
+**11** (1) Paragraph 11 (exemption: supply not for burning in UK) is amended as follows.
+
+(2) In sub-paragraph (1)—
+
+(a) omit “has, before the supply is made, notified the supplier”, and
+
+(b) omit “that he” (in both places).
+
+(3) In sub-paragraph (3)—
+
+(a) omit “has, before the supply is made, notified the supplier that”, and
+
+(b) omit “he”.
+
+**12** (1) Paragraph 101 (civil penalties: incorrect notifications etc) is amended as follows.
+
+(2) Omit sub-paragraph (1).
+
+(3) In sub-paragraph (2)—
+
+(a) after “paragraphs” insert “ 11, ” and
+
+(b) after “the certificate is” insert “ (or becomes) ”.
+
+(4) In sub-paragraph (3)—
+
+(a) for “sub-paragraph (1) or (2)” substitute “ this paragraph ”, and
+
+(b) omit “notification or”.
+
+(5) In sub-paragraph (4)—
+
+(a) for “notification or certificate” substitute “ certificate (or not revoking or varying it) ”,
+
+(b) for “the person who gave it” substitute “ the person concerned ”, and
+
+(c) for the words from “there is” to the end substitute “ the person has a reasonable excuse ”.
+
+(6) In sub-paragraph (5)—
+
+(a) for “notification or certificate” substitute “ certificate (or not revoking or varying it) ”, and
+
+(b) for “the giving of the notification or certificate” substitute “ that ”.
+
+(7) The italic heading before paragraph 101 accordingly becomes “ *Civil penalties: incorrect certificates* ”.
+
+### Commencement
+
+**13** (1) Paragraphs 2 to 10 come into force on such day as the Treasury may by order made by statutory instrument appoint.
+
+(2) But any power to make regulations under any provision inserted or amended by any of those paragraphs may be exercised at any time after this Act is passed.
+
+(3) The power to make an order under sub-paragraph (1)—
+
+(a) may be exercised so as to bring a provision into force only in such cases as may be described in the order,
+
+(b) may be exercised so as to make different provision for different cases or descriptions of case,
+
+(c) includes power to make incidental, consequential, supplemental or transitional provision or savings.
+
+## SCHEDULE 3 — Managed service companies
+
+*Section 25*
+
+### Part 1 — Amendments of ITEPA 2003
+
+**1** ITEPA 2003 is amended as follows.
+
+**2** In section 7(5) (meaning of “employment income” etc), for paragraph (a) substitute—
+
+> (a) Chapters 7 to 9 of this Part (agency workers, workers under arrangements made by intermediaries, and workers providing services through managed service companies),
+
+.
+
+**3** In section 48(2) (workers under arrangements made by intermediaries: scope of Chapter) for “or” at the end of paragraph (a) substitute—
+
+> (aa) applies to services provided by a managed service company (within the meaning of Chapter 9 of this Part), or
+
+.
+
+**4** After section 61 insert—
+
+> **Chapter 9 — Managed service companies**
+>
+> **Application of this Chapter**
+>
+> **Scope of this Chapter**
+>
+> **61A** (1) This Chapter has effect with respect to the provision of services by a managed service company.
+>
+> (2) Nothing in this Chapter—
+>
+> (a) affects the operation of Chapter 7 of this Part (agency workers), or
+>
+> (b) applies to payments or transfers to which section 966(3) or (4) of ITA 2007 applies (visiting performers: duty to deduct and account for sums representing income tax).
+>
+> **Meaning of “managed service company”**
+>
+> **61B** (1) A company is a “managed service company” if—
+>
+> (a) its business consists wholly or mainly of providing (directly or indirectly) the services of an individual to other persons,
+>
+> (b) payments are made (directly or indirectly) to the individual (or associates of the individual) of an amount equal to the greater part or all of the consideration for the provision of the services,
+>
+> (c) the way in which those payments are made would result in the individual (or associates) receiving payments of an amount (net of tax and national insurance) exceeding that which would be received (net of tax and national insurance) if every payment in respect of the services were employment income of the individual, and
+>
+> (d) a person who carries on a business of promoting or facilitating the use of companies to provide the services of individuals (“an MSC provider”) is involved with the company.
+>
+> (2) An MSC provider is “involved with the company” if the MSC provider or an associate of the MSC provider—
+>
+> (a) benefits financially on an ongoing basis from the provision of the services of the individual,
+>
+> (b) influences or controls the provision of those services,
+>
+> (c) influences or controls the way in which payments to the individual (or associates of the individual) are made,
+>
+> (d) influences or controls the company's finances or any of its activities, or
+>
+> (e) gives or promotes an undertaking to make good any tax loss.
+>
+> (3) A person does not fall within subsection (1)(d) merely by virtue of providing legal or accountancy services in a professional capacity.
+>
+> (4) A person does not fall within subsection (1)(d) merely by virtue of carrying on a business consisting only of placing individuals with persons who wish to obtain their services (including by contracting with companies which provide their services).
+>
+> (5) Subsection (4) does not apply if the person or an associate of the person—
+>
+> (a) does anything within subsection (2)(c) or (e), or
+>
+> (b) does anything within subsection (2)(d) other than influencing the company's finances or activities by doing anything within subsection (2)(b).
+>
+> **Section 61B: supplementary**
+>
+> **61C** (1) The Treasury may by order provide that persons of a prescribed description do not fall within section 61B(1)(d).
+>
+> (2) An order under subsection (1) may be made so as to have effect in relation to the whole of the tax year in which it is made.
+>
+> (3) In section 61B and this section, “company” means a body corporate or partnership.
+>
+> (4) References in section 61B to an associate of a person (“P”) include a person who, for the purpose of securing that the individual's services are provided by a company, acts in concert with P (or with P and other persons).
+>
+> (5) In section 61B(2)(e), “undertaking to make good any tax loss” means an undertaking (in any terms) to make good (in whole or in part, and by any means) any cost to the individual or an associate of the individual resulting from a relevant provision, or a particular kind of relevant provision, applying in relation to payments made to the individual or associate.
+>
+> (6) In subsection (5) “relevant provision” means—
+>
+> (a) a provision of the Tax Acts,
+>
+> (b) an enactment relating to national insurance, or
+>
+> (c) a provision of subordinate legislation made under any such provision or enactment.
+>
+> **The deemed employment payment**
+>
+> **Worker treated as receiving earnings from employment**
+>
+> **61D** (1) This section applies if—
+>
+> (a) the services of an individual (“the worker”) are provided (directly or indirectly) by a managed service company (“the MSC”),
+>
+> (b) the worker, or an associate of the worker, receives (from any person) a payment or benefit which can reasonably be taken to be in respect of the services, and
+>
+> (c) the payment or benefit is not earnings (within Chapter 1 of Part 3) received by the worker directly from the MSC.
+>
+> (2) The MSC is treated as making to the worker, and the worker is treated as receiving, a payment which is to be treated as earnings from an employment (“the deemed employment payment”).
+>
+> (3) The deemed employment payment is treated as made at the time the payment or benefit mentioned in subsection (1)(b) is received.
+>
+> (4) In this Chapter—
+>
+> - “the worker” has the meaning given by subsection (1),
+> - “the relevant services” means the services mentioned in that subsection, and
+> - “the client” means the person to whom the relevant services are provided.
+>
+> (5) Section 61F supplements this section.
+>
+> **Calculation of deemed employment payment**
+>
+> **61E** (1) The amount of the deemed employment payment is the amount resulting from the following steps—
+>
+> *Step 1*
+>
+> Find (applying section 61F) the amount of the payment or benefit mentioned in section 61D(1)(b).
+>
+> *Step 2*
+>
+> Deduct (applying Chapters 1 to 5 of Part 5) the amount of any expenses met by the worker that would have been deductible from the taxable earnings from the employment if—
+>
+> (a) the worker had been employed by the client to provide the relevant services, and
+>
+> (b) the expenses had been met by the worker out of those earnings.
+>
+> If the result at this point is nil or a negative amount, there is no deemed employment payment.
+>
+> *Step 3*
+>
+> Assume that the result of step 2 represents an amount together with employer's national insurance contributions on it, and deduct what (on that assumption) would be the amount of those contributions.
+>
+> The result is the deemed employment payment.
+>
+> (2) In step 2 of subsection (1), the reference to expenses met by the worker includes, where the MSC is a partnership and the worker is a member of the partnership, expenses met by the worker for and on behalf of the partnership.
+>
+> (3) In step 2 of subsection (1), the expenses deductible include the amount of any mileage allowance relief which the worker would have been entitled to in respect of the use of a vehicle falling within subsection (4) if—
+>
+> (a) the worker had been employed by the client to provide the relevant services, and
+>
+> (b) the vehicle had not been a company vehicle (within the meaning of Chapter 2 of Part 4).
+>
+> (4) A vehicle falls within this subsection if—
+>
+> (a) it is provided by the MSC for the worker, or
+>
+> (b) where the MSC is a partnership and the worker is a member of the partnership, it is provided by the worker for the purposes of the business of the partnership.
+>
+> (5) For the purposes of subsection (1) any necessary apportionment of payments or benefits that are referable partly to the provision of the relevant services and partly to other matters is to be made on a just and reasonable basis.
+>
+> **Sections 61D and 61E: application of rules relating to earnings from employment**
+>
+> **61F** (1) The following provisions apply for the purposes of sections 61D and 61E.
+>
+> (2) A “payment or benefit” means anything that, if received by an employee for performing the duties of an employment, would be general earnings from the employment.
+>
+> (3) The amount of a payment or benefit is taken to be—
+>
+> (a) in the case of a payment or cash benefit, the amount received, and
+>
+> (b) in the case of a non-cash benefit, the cash equivalent of the benefit.
+>
+> (4) The cash equivalent of a non-cash benefit is taken to be—
+>
+> (a) the amount that would be general earnings if the benefit were general earnings from an employment, or
+>
+> (b) in the case of living accommodation, whichever is the greater of that amount and the cash equivalent determined in accordance with section 398(2).
+>
+> (5) A payment or benefit is treated as received—
+>
+> (a) in the case of a payment or cash benefit, when payment is made of or on account of the payment or benefit;
+>
+> (b) in the case of a non-cash benefit, when it would have been treated as received for the purposes of Chapter 4 or 5 of this Part (see section 19 or 32) if—
+>
+> (i) the worker had been an employee, and
+>
+> (ii) the benefit had been provided by reason of the employment.
+>
+> **Application of Income Tax Acts in relation to deemed employment**
+>
+> **61G** (1) The Income Tax Acts (in particular, the PAYE provisions) apply in relation to the deemed employment payment as follows.
+>
+> (2) They apply as if—
+>
+> (a) the worker were employed by the MSC to provide the relevant services, and
+>
+> (b) the deemed employment payment were a payment by the MSC of earnings from that employment;
+>
+> but this is subject to subsection (3).
+>
+> (3) No deduction under Part 5 (deductions allowed from employment income) or section 232 (mileage allowance relief) may be made from the deemed employment payment.
+>
+> (4) The worker is not chargeable to tax in respect of the deemed employment payment if, or to the extent that, by reason of any combination of the factors mentioned in subsection (5), the worker would not be chargeable to tax if—
+>
+> (a) the worker were employed by the client to perform the relevant services, and
+>
+> (b) the deemed employment payment were a payment by the client of earnings from that employment.
+>
+> (5) The factors are—
+>
+> (a) the worker being resident, ordinarily resident or domiciled outside the United Kingdom,
+>
+> (b) the client being resident or ordinarily resident outside the United Kingdom, and
+>
+> (c) the relevant services being provided outside the United Kingdom.
+>
+> (6) Where the MSC is a partnership and the worker is a member of the partnership, the deemed employment payment is treated as received by the worker in the worker's personal capacity and not as income of the partnership.
+>
+> (7) Where—
+>
+> (a) the worker is resident in the United Kingdom, and
+>
+> (b) the relevant services are provided in the United Kingdom,
+>
+> the MSC is treated as having a place of business in the United Kingdom, whether or not it in fact does so.
+>
+> **Supplementary provisions**
+>
+> **Relief in case of distributions by managed service company**
+>
+> **61H** (1) A claim for relief may be made under this section where the MSC—
+>
+> (a) is a body corporate,
+>
+> (b) is treated as making a deemed employment payment in any tax year, and
+>
+> (c) either in that tax year (whether before or after that payment is treated as made), or in a subsequent tax year, makes a distribution (a “relevant distribution”).
+>
+> (2) A claim for relief under this section must be made—
+>
+> (a) by the MSC by notice to an officer of Revenue and Customs, and
+>
+> (b) within 5 years after 31st January following the tax year in which the distribution is made.
+>
+> (3) If on a claim being made an officer of Revenue and Customs is satisfied that relief should be given in order to avoid a double charge to tax, the officer must direct the giving of such relief by way of amending any assessment, by discharge or repayment of tax, or otherwise, as appears to the officer appropriate.
+>
+> (4) Relief under this section is given by setting the amount of the deemed employment payment against the relevant distribution so as to reduce the distribution.
+>
+> (5) In the case of more than one relevant distribution, an officer of Revenue and Customs must exercise the power conferred by this section so as to secure that so far as practicable relief is given by setting the amount of a deemed employment payment—
+>
+> (a) against relevant distributions of the same tax year before those of other years,
+>
+> (b) against relevant distributions received by the worker before those received by another person, and
+>
+> (c) against relevant distributions of earlier years before those of later years.
+>
+> (6) Where the amount of a relevant distribution is reduced under this section, the amount of any associated tax credit is reduced accordingly.
+>
+> **Meaning of “associate”**
+>
+> **61I** (1) Subsections (2) to (4) apply for the purposes of this Chapter.
+>
+> (2) “Associate”, in relation to an individual, means—
+>
+> (a) a member of the individual's family or household,
+>
+> (b) a relative of the individual,
+>
+> (c) a partner of the individual, or
+>
+> (d) the trustee of any settlement in relation to which the individual, or a relative of the individual or member of the individual's family (living or dead), is or was a settlor.
+>
+> (3) “Associate”, in relation to a company, means a person connected with the company.
+>
+> (4) “Associate”, in relation to a partnership, means any associate of a member of the partnership.
+>
+> (5) If—
+>
+> (a) a managed service company (“the MSC”) is a partnership, and
+>
+> (b) a person is an associate of another person by virtue only of being a member of the partnership,
+>
+> the person is to be treated, for the purposes of this Chapter as it applies in relation to the MSC, as if the person were not an associate of that other person.
+>
+> (6) In subsection (2), “relative” means ancestor, lineal descendant, brother or sister.
+>
+> (7) For the purposes of subsection (2)—
+>
+> (a) a man and woman living together as husband and wife are treated as if they were married to each other, and
+>
+> (b) two persons of the same sex living together as if they were civil partners of each other are treated as if they were civil partners of each other.
+>
+> **Interpretation of Chapter**
+>
+> **61J** (1) In this Chapter—
+>
+> - “associate” has the meaning given by section 61I,
+> - “business” means any trade, profession or vocation,
+> - “the client” has the meaning given by section 61D(4),
+> - “employer's national insurance contributions” means secondary Class 1 or Class 1A national insurance contributions,
+> - “managed service company” has the meaning given by section 61B,
+> - “national insurance contributions” means contributions under Part 1 of SSCBA 1992 or Part 1 of SSCB(NI)A 1992,
+> - “PAYE provisions” means the provisions of Part 11 or PAYE regulations,
+> - “the relevant services” has the meaning given by section 61D(4), and
+> - “the worker” has the meaning given by section 61D(4).
+>
+> (2) Nothing in section 995 of ITA 2007 (meaning of control) applies for the purposes of this Chapter.
+
+**5** In section 218(1) (exclusion of lower-paid employments from parts of benefits code: calculation of earnings rate), in Step 1, at the end of paragraph (d) insert
+
+> and
+>
+> (e) in the case of an employment within section 61G(2) (deemed employment payment by managed service company), the total amount of deemed employment payments for the year.
+
+**6** After section 688 insert—
+
+> **Managed service companies: recovery from other persons**
+>
+> **688A** (1) PAYE regulations may make provision authorising the recovery from a person within subsection (2) of any amount that an officer of Revenue and Customs considers should have been deducted by a managed service company (“the MSC”) from a payment of, or on account of, PAYE income of an individual.
+>
+> (2) The persons are—
+>
+> (a) a director or other office-holder, or an associate, of the MSC,
+>
+> (b) an MSC provider,
+>
+> (c) a person who (directly or indirectly) has encouraged or been actively involved in the provision by the MSC of the services of the individual, and
+>
+> (d) a director or other office-holder, or an associate, of a person (other than an individual) who is within paragraph (b) or (c).
+>
+> (3) A person does not fall within subsection (2)(c) merely by virtue of—
+>
+> (a) providing legal or accountancy advice in a professional capacity, or
+>
+> (b) placing the individual with persons who wish to obtain the services of the individual (including by contracting with the MSC for the provision of those services).
+>
+> (4) The supplementary provision that may be made by the regulations includes provision as to the liability of one person within subsection (2) to another such person.
+>
+> (5) In this section—
+>
+> - “associate” has the meaning given by section 61I,
+> - “director” has the meaning given by section 67,
+> - “managed service company” has the meaning given by section 61B, and
+> - “MSC provider” means an MSC provider who is involved with the MSC (within the meaning of section 61B).
+>
+> (6) Section 61C(4) (extended meaning of “associate”) applies for the purposes of subsection (2)(d).
+>
+> (7) The Treasury may by order amend this section (but not this subsection or subsection (8)).
+>
+> (8) The Treasury must not make an order under subsection (7) unless a draft of it has been laid before and approved by a resolution of the House of Commons.
+
+**7** In section 717(4) (orders and regulations not subject to negative procedure), insert at the end “ or section 688A(7) (PAYE regulations: managed service companies) ”.
+
+**8** In Part 2 of Schedule 1 (index of defined expressions), insert at the appropriate places—
+
+> |  |  |
+> |---|---|
+> | associate (in Chapter 9 of Part 2) | section 61I (but see section 61C(4)) |
+
+> |  |  |
+> |---|---|
+> | business (in Chapter 9 of Part 2) | section 61J |
+
+> |  |  |
+> |---|---|
+> | the client (in Chapter 9 of Part 2) | section 61D(4) |
+
+> |  |  |
+> |---|---|
+> | employer's national insurance contributions (in Chapter 9 of Part 2) | section 61J |
+
+> |  |  |
+> |---|---|
+> | managed service company (in Chapter 9 of Part 2) | section 61B |
+
+> |  |  |
+> |---|---|
+> | national insurance contributions (in Chapter 9 of Part 2) | section 61J |
+
+> |  |  |
+> |---|---|
+> | PAYE provisions (in Chapter 9 of Part 2) | section 61J |
+
+> |  |  |
+> |---|---|
+> | the relevant services (in Chapter 9 of Part 2) | section 61D(4) |
+
+> |  |  |
+> |---|---|
+> | the worker (in Chapter 9 of Part 2) | section 61D(4) |
+
+.
+
+### Part 2 — Calculation of profits of MSCs: deduction for deemed employment payments
+
+#### Deduction for deemed employment payments for income tax purposes
+
+**9** In ITTOIA 2005, after section 164 insert—
+
+> **Managed service companies**
+>
+> **Deduction for deemed employment payments**
+>
+> **164A** (1) This section applies for the purpose of calculating the profits of a trade, profession or vocation carried on by a managed service company (“the MSC”) which is treated as making a deemed employment payment in connection with the trade, profession or vocation.
+>
+> (2) A deduction is allowed for—
+>
+> (a) the amount of the deemed employment payment, and
+>
+> (b) the amount of any employer's national insurance contributions paid by the MSC in respect of it.
+>
+> (3) The deduction is allowed for the period of account in which the deemed employment payment is treated as made.
+>
+> (4) The amount of the deduction allowed under subsection (2) is limited to the amount that reduces the profits of the firm for the tax year to nil.
+>
+> (5) No deduction in respect of—
+>
+> (a) the deemed employment payment, or
+>
+> (b) any employer's national insurance contributions paid by the MSC in respect of it,
+>
+> may be made except in accordance with this section.
+>
+> (6) In this section “deemed employment payment”, “employer's national insurance contributions” and “managed service company” have the same meaning as in Chapter 9 of Part 2 of ITEPA 2003.
+
+#### Deduction for deemed employment payments for corporation tax purposes
+
+**[^F49]10** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 4 — Restrictions on trade loss relief for partners
+
+*Section 26*
+
+### Limit on amount of sideways relief and capital gains relief available in any tax year
+
+**1** (1) In ITA 2007, before section 104 (and the italic cross-heading before it) insert—
+
+> **Limit on amount of sideways relief and capital gains relief**
+>
+> **Limit on reliefs in any tax year not to exceed cap for tax year**
+>
+> **103C** (1) This section applies if an individual carries on one or more trades—
+>
+> (a) as a non-active partner in a firm during a tax year, or
+>
+> (b) as a limited partner in a firm at a time in that tax year,
+>
+> and the individual makes a loss in any of those trades (an “affected loss”) in that tax year.
+>
+> (2) There is a restriction on the amount of sideways relief and capital gains relief which (after applying the restrictions under the other provisions of this Chapter) may be given to the individual for any affected loss (but see subsections (6) and (7)).
+>
+> (3) The restriction is that the total amount of the sideways relief and capital gains relief given to the individual for all the affected losses must not exceed the cap for that tax year.
+>
+> (4) The cap for any tax year is £25,000.
+>
+> (5) The Treasury may by order amend the sum for the time being specified in subsection (4).
+>
+> (6) The restriction under this section does not apply to so much of any affected loss as derives from qualifying film expenditure (see section 103D).
+>
+> (7) The restriction under this section does not affect the giving of sideways relief for a loss made in a trade against the profits of that trade.
+>
+> (8) In this section “trade” does not include a trade which consists of the underwriting business of a member of Lloyd's (within the meaning of section 184 of FA 1993).
+
+(2) The amendment made by sub-paragraph (1) has effect in relation to any loss made by an individual in a trade in the tax year 2007-08 or any subsequent tax year.
+
+(3) But, in the case of a loss made by an individual in a trade in a tax year the basis period for which begins before 2nd March 2007 (a “straddling basis period”), the amount of that loss for the purposes of section 103C of ITA 2007 is—
+
+(a) the amount of sideways relief and capital gains relief which (after applying the restrictions under the other provisions of Chapter 3 of Part 4 of that Act) may be given to the individual for that loss, less
+
+(b) the amount (if any) of the pre-announcement loss.
+
+(4) “The pre-announcement loss” is determined as follows.
+
+(5) Calculate the profits or losses of the straddling basis period, but without regard to capital allowances and qualifying film expenditure (within the meaning of section 103D of ITA 2007).
+
+(6) If that calculation produces a loss and the individual has made a contribution of an amount as capital to the firm or LLP in question—
+
+(a) on or before the start of the straddling basis period, or
+
+(b) after the start of that period but before 2nd March 2007,
+
+apportion the loss produced by that calculation to the part of the straddling basis period which begins with the relevant date and falls before 2nd March 2007 in proportion to the number of days in that part.
+
+(7) Calculate so much of the loss of the straddling basis period as derives from relevant pre-announcement capital expenditure.
+
+(8) The pre-announcement loss is the sum of—
+
+(a) the amount of the loss apportioned under sub-paragraph (6) (if any), and
+
+(b) so much of the loss of the straddling basis period (if any) as derives from relevant pre-announcement capital expenditure.
+
+(9) In sub-paragraph (6) “the relevant date” means—
+
+(a) in any case where a contribution was made on or before the start of the straddling basis period, the start of that period, and
+
+(b) in any other case, the date on which the contribution was made or, if more than one contribution was made, the date on which the first contribution was made.
+
+(10) For the purposes of this paragraph the amount of the loss of the straddling basis period that derives from relevant pre-announcement capital expenditure is determined on a just and reasonable basis.
+
+(11) In this paragraph “relevant pre-announcement capital expenditure” means—
+
+(a) any capital allowance in respect of expenditure paid before 2nd March 2007, and
+
+(b) any capital allowance in respect of expenditure paid on or after that date pursuant to an unconditional obligation in a contract made before that date,
+
+and for this purpose “an unconditional obligation” means an obligation which may not be varied or extinguished by the exercise of any right conferred on the firm or LLP in question (whether or not under the contract).
+
+(12) For the purposes of this paragraph—
+
+(a) an amount of money is not to be taken as contributed as capital to a firm or LLP until the money is paid to the firm or LLP, and
+
+(b) a right or other asset is not to be taken as contributed as capital to a firm or LLP until it is transferred to the firm or LLP.
+
+(13) Section 62 of ITA 2007 (partners: losses of a tax year etc) applies for the purposes of this paragraph as it applies for the purposes of Chapter 3 of Part 4 of that Act.
+
+### Disregard of contributions made for purpose of accessing sideways relief and capital gains relief
+
+**2** (1) In ITA 2007, before section 114 insert—
+
+> **Exclusion of amounts in calculating contribution to the firm or LLP**
+>
+> **Exclusion of amounts contributed to access relief**
+>
+> **113A** (1) An amount which an individual contributes to a firm as capital is to be excluded in calculating the individual's contribution to the firm for the purposes of section 104 or 110 if the contribution was made for a prohibited purpose (but see subsection (4)).
+>
+> (2) If—
+>
+> (a) an individual carries on a trade as a member of an LLP at a time in a tax year,
+>
+> (b) the individual does not devote a significant amount of time to the trade in the relevant period for that year, and
+>
+> (c) the individual contributes an amount to the LLP as capital at any time in that year,
+>
+> that amount is to be excluded in calculating the individual's contribution to the LLP for the purposes of section 107 if the contribution was made for a prohibited purpose (but see subsection (4)).
+>
+> (3) For the purposes of this section a contribution is made for a prohibited purpose if the main purpose, or one of the main purposes, of making the contribution is the obtaining of a reduction in tax liability by means of sideways relief or capital gains relief.
+>
+> (4) This section has no effect in relation to the application of any restriction under section 104, 107 or 110 to any loss that derives wholly from qualifying film expenditure.
+
+(2) The amendment made by sub-paragraph (1) has effect in relation to any amount contributed to a firm or LLP as capital on or after 2nd March 2007 (but see sub-paragraph (4)).
+
+(3) For this purpose—
+
+(a) an amount of money is not to be taken as contributed as capital to a firm or LLP until the money is paid to the firm or LLP, and
+
+(b) a right or other asset is not to be taken as contributed as capital to a firm or LLP until it is transferred to the firm or LLP.
+
+(4) The amendment made by sub-paragraph (1) has no effect in relation to any amount contributed by an individual on or after 2nd March 2007 if—
+
+(a) the amount is contributed pursuant to an obligation in a contract made before that date, and
+
+(b) the obligation may not be varied or extinguished by the exercise of any right conferred on the individual (whether or not under the contract).
+
+### Provision corresponding to paragraphs 1 and 2 for tax year 2006-07
+
+**3** (1) ICTA has effect, in relation to any loss made by an individual in a trade in the tax year 2006-07 the basis period for which ends on or after 2nd March 2007, as if provision corresponding to section 103C of ITA 2007 were included in Chapter 7 of Part 4 of ICTA.
+
+(2) Sub-paragraphs (3) to (13) of paragraph 1 apply for the purposes of sub-paragraph (1) above.
+
+(3) ICTA has effect for the tax year 2006-07 as if provision corresponding to section 113A of ITA 2007 were included in that Chapter.
+
+(4) Sub-paragraphs (2) to (4) of paragraph 2 apply for the purposes of sub-paragraph (3) above.
+
+(5) The provisions which are treated by this paragraph as included in Chapter 7 of Part 4 of ICTA have effect as if—
+
+(a) any reference in section 103C of ITA 2007 to sideways relief were to relief under section 380 or 381 of ICTA,
+
+(b) any reference in section 103C of ITA 2007 to capital gains relief in relation to a loss were to the treatment of the loss as an allowable loss by virtue of section 72 of FA 1991,
+
+(c) any reference in section 103C or 113A of ITA 2007 to any provision of Chapter 3 of Part 4 of ITA 2007 were to the corresponding provision of Chapter 7 of Part 4 of ICTA, and
+
+(d) any reference in section 113A of ITA 2007 to a contribution to a firm or an LLP were to a contribution to a trade carried on by the firm or LLP,
+
+and references in paragraphs 1(3) to (13) and 2(2) to (4) to any of those expressions are to be read accordingly.
+
+### Consequential amendments
+
+**4** ITA 2007 is amended as follows.
+
+**5** In section 32 (liability not dealt with in the calculation), for “section 112(5)” substitute “ section 103B(5) ”.
+
+**6** In section 82(a) (exploitation of films), for “sections 115 and 116” substitute “ section 115 ”.
+
+**7** (1) Section 102 (overview of Chapter 3 of Part 4) is amended as follows.
+
+(2) In subsection (1)—
+
+(a) in paragraph (a), for “104 to 106 and section 114)” substitute “ 103A, 103C to 105, 113A and 114) ”,
+
+(b) in paragraph (b), for “107 to 109 and section 114)” substitute “ 103C, 103D, 107 to 109, 113A and 114) ”, and
+
+(c) in paragraph (c), for “in an early tax year (see sections 110 to 114)” substitute “ (see sections 103B to 103D and 110 to 114) ”.
+
+(3) In subsection (2), for “sections 115 and 116” substitute “ section 115 ”.
+
+**8** After section 103 insert—
+
+> **Meaning of “limited partner”**
+>
+> **103A** (1) In this Chapter “limited partner” means an individual who carries on a trade—
+>
+> (a) as a limited partner in a limited partnership registered under the Limited Partnerships Act 1907,
+>
+> (b) as a partner in a firm who in substance acts as a limited partner in relation to the trade (see subsection (2)), or
+>
+> (c) while the condition mentioned in subsection (3) is met in relation to the individual.
+>
+> (2) An individual in substance acts as a limited partner in relation to a trade if the individual—
+>
+> (a) is not entitled to take part in the management of the trade, and
+>
+> (b) is entitled to have any liabilities (or those beyond a certain limit) for debts or obligations incurred for the purposes of the trade met or reimbursed by some other person.
+>
+> (3) The condition referred to in subsection (1)(c) is that—
+>
+> (a) the individual carries on the trade jointly with other persons,
+>
+> (b) under the law of a territory outside the United Kingdom, the individual is not entitled to take part in the management of the trade, and
+>
+> (c) under that law, the individual is not liable beyond a certain limit for debts or obligations incurred for the purposes of the trade.
+>
+> (4) In the case of an individual who is a limited partner as a result of subsection (1)(c), references in this Chapter to the individual's firm are to be read as references to the relationship between the individual and the other persons mentioned in subsection (3)(a).
+>
+> **Meaning of “non-active partner” etc**
+>
+> **103B** (1) For the purposes of this Chapter an individual carries on a trade as a non-active partner during a tax year if the individual—
+>
+> (a) carries on the trade as a partner in a firm at a time during the year,
+>
+> (b) does not carry on the trade as a limited partner at any time during the year, and
+>
+> (c) does not devote a significant amount of time to the trade in the relevant period for the year.
+>
+> (2) For the purposes of this Chapter an individual devotes a significant amount of time to a trade in the relevant period for a tax year if, in that period, the individual spends an average of at least 10 hours a week personally engaged in activities carried on for the purposes of the trade.
+>
+> (3) For this purpose “the relevant period” means the basis period for the tax year (unless the basis period is shorter than 6 months).
+>
+> (4) If the basis period for the tax year is shorter than 6 months, “the relevant period” means—
+>
+> (a) the period of 6 months beginning with the date on which the individual first started to carry on the trade (if the basis period begins with that date), or
+>
+> (b) the period of 6 months ending with the date on which the individual permanently ceased to carry on the trade (if the basis period ends with that date).
+>
+> (5) If—
+>
+> (a) any relief is given on the assumption that the individual devoted or will devote a significant amount of time to the trade in the relevant period for a tax year, but
+>
+> (b) the individual in fact failed or fails to do so,
+>
+> the relief is withdrawn by the making of an assessment to income tax under this section.
+
+**9** After section 103C (as inserted by paragraph 1(1) above) insert—
+
+> **Meaning of “qualifying film expenditure”**
+>
+> **103D** (1) For the purposes of this Chapter expenditure is qualifying film expenditure if—
+>
+> (a) it is deducted under a relevant film provision for the purposes of the calculation required by section 849 of ITTOIA 2005 (calculation of firm's profits or losses), or
+>
+> (b) it is incidental expenditure which (although not deducted under a relevant film provision) is incurred in connection with the production of a film, or the acquisition of the original master version of a film, in relation to which expenditure is so deducted.
+>
+> (2) Expenditure is incidental if it is on management, administration or obtaining finance.
+>
+> (3) The extent to which expenditure is within subsection (1)(b) is determined on a just and reasonable basis.
+>
+> (4) For the purposes of this Chapter the amount of any loss that derives from qualifying film expenditure is determined on a just and reasonable basis.
+>
+> (5) In this section—
+>
+> - “the acquisition of the original master version of a film” has the same meaning as in Chapter 9 of Part 2 of ITTOIA 2005 (see sections 130 and 132 of that Act),
+> - “film” is to be read in accordance with paragraph 1 of Schedule 1 to the Films Act 1985, and
+> - “a relevant film provision” means any one of sections 137 to 140 of ITTOIA 2005 (relief for certified master versions of films).
+
+**10** In—
+
+(a) section 104(5) (restriction on reliefs for limited partners),
+
+(b) section 107(2) (restriction on reliefs for members of LLPs),
+
+(c) section 110(1)(a) (restriction on reliefs for non-active partners in early tax years), and
+
+(d) section 115(1)(d) (restrictions on relief for firms exploiting films),
+
+omit “(see section 112)”.
+
+**11** In—
+
+(a) section 105(11) (meaning of “contribution to the firm” for purposes of section 104),
+
+(b) section 108(9) (meaning of “contribution to the LLP” for purposes of section 107), and
+
+(c) section 111(12) (meaning of “contribution to the firm” for purposes of section 110),
+
+for the words from “any regulations” to “excluded” substitute “ section 113A and any regulations made under section 114 (exclusion of amounts ”.
+
+**12** Omit section 106 (meaning of “limited partner”).
+
+**13** In section 112 (meaning of “non-active partner” and “early tax year” etc)—
+
+(a) omit subsections (1) to (5), and
+
+(b) the heading accordingly becomes “ Meaning of “early tax year” ”.
+
+**14** Omit the italic-cross heading before section 114 (regulations: exclusion of amounts in calculating contribution to the firm or LLP) and for the heading of that section substitute “ Power to exclude other amounts ”.
+
+**15** In section 115 (restrictions on reliefs for firms exploiting films), for subsection (4) substitute—
+
+> (4) The restrictions under this section do not apply to so much of the loss (if any) as derives from qualifying film expenditure.
+
+**16** Omit section 116 (exclusion from restrictions under section 115: certain film expenditure).
+
+**17** In section 792 (partners claiming excess sideways or capital gains relief)—
+
+(a) in subsection (7), for “106” substitute “ 103A ”, and
+
+(b) in subsection (8), for “106(3)(a)” substitute “ 103A(3)(a) ”.
+
+**18** In section 809 (individuals in partnership claiming relief for licence-related trading losses: other definitions)—
+
+(a) in subsection (1), for “112” substitute “ 103B ”, and
+
+(b) in subsection (2), for “112(1)(b)” substitute “ 103B(1)(b) ”.
+
+**19** In paragraph 148(3)(b) of Schedule 2 (transitionals and savings: tax avoidance)—
+
+(a) for “106” substitute “ 103A ”, and
+
+(b) for “112” substitute “ 103B ”.
+
+**20** In Schedule 4 (index of defined expressions)—
+
+(a) in the definition of “limited partner”, for “106” substitute “ 103A ”,
+
+(b) in the definition of “non-active partner”, for “112” substitute “ 103B ”, and
+
+(c) after the definition of “qualifying donation (in Chapter 2 of Part 8)” insert—
+
+> |  |  |
+> |---|---|
+> | qualifying film expenditure (in Chapter 3 of Part 4) | section 103D |
+
+.
+
+**21** The amendments made by paragraphs 5 to 20 are deemed always to have had effect.
+
+## SCHEDULE 5 — Avoidance involving financial arrangements
+
+*Section 30*
+
+### Amounts not forming part of a company's income
+
+**1** (1) ICTA is amended as follows.
+
+(2) In section 347A(1) (annual payments: general rule), as it had effect before ITA 2007, omit paragraph (b) together with the “and” before it (payment to which section applies not income of any company for corporation tax purposes).
+
+(3) The amendment made by sub-paragraph (2) has effect in relation to payments made on or after 6th December 2006 but before 6th April 2007.
+
+(4) Omit section 347A (as amended by ITA 2007).
+
+(5) The amendment made by sub-paragraph (4) has effect in relation to payments made on or after 6th April 2007.
+
+**2** (1) In section 660C of ICTA, omit subsection (4) (income which is income of settlor alone for income tax purposes by virtue of section 624 or 629 of ITTOIA 2005 not income of any company for corporation tax purposes).
+
+(2) The amendment made by sub-paragraph (1) has effect in relation to accounting periods ending on or after 6th March 2007.
+
+(3) But income which arises in an accounting period beginning before that date is to be chargeable to corporation tax as a result of that amendment only if it arises on or after that date.
+
+### Structured finance arrangements
+
+**[^F50][^F51]3** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F50][^F51]4** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F50][^F51]5** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F50][^F51]6** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F50][^F51]7** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**8** (1) Section 263E of TCGA 1992 (structured finance arrangements) is amended as follows.
+
+(2) In subsection (2) (condition A: person making disposal of asset subsequently acquires it), for the words from “subsequently” to the end substitute “ (and no-one else) has the right or obligation under the arrangement to acquire the asset disposed of by that disposal at any subsequent time (whether or not the right or obligation is subject to any conditions). ”
+
+(3) In subsection (3) (condition B: asset ceases to exist)—
+
+(a) in paragraph (a), for “subsequently ceases” substitute “ will subsequently cease ”, and
+
+(b) in paragraph (b), for “that asset was held” substitute “ it is intended that that asset will be held ”.
+
+(4) After subsection (4) insert—
+
+> (4A) If, at any time after that disposal, it becomes apparent that—
+>
+> (a) the person making the disposal will not subsequently acquire under the arrangement the asset disposed of by that disposal, or
+>
+> (b) that asset will not be held as mentioned in subsection (3)(b),
+>
+> that person is to be treated for the purposes of this Act as disposing of that asset at that time for a consideration equal to its market value at that time.
+
+(5) In subsection (5) (disregard of subsequent acquisitions), for “Any” substitute “ Except in a case falling within subsection (4A), any ”.
+
+(6) The amendments made by this paragraph have effect in relation to disposals made on or after 6th March 2007.
+
+(7) The amendments made by this paragraph also have effect in relation to any disposal made by a person before that date if the person makes a claim to that effect under this sub-paragraph.
+
+### Manufactured payments under arrangements having an unallowable purpose
+
+**[^F52]9** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Options and groups of companies
+
+**10** (1) In section 171(2) of TCGA 1992 (exceptions to rule that disposals within the same group of companies produce neither a gain nor a loss), after paragraph (da) insert
+
+> or
+>
+> (db) a disposal by company A in fulfilment of its obligations under an option granted to company B at a time when those companies were not members of the same group;
+
+.
+
+(2) The amendment made by sub-paragraph (1) has effect in relation to cases where the option is exercised on or after 6th March 2007 (whenever the option was granted).
+
+### Loan relationships: amounts not fully recognised for accounting purposes
+
+**[^F53]11** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Shares treated as loan relationships
+
+**[^F53]12** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F53]13** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F53]14** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Exchange gains and losses where loan not on arm's length terms
+
+**[^F53]15** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Loan relationships and collective investment schemes
+
+**[^F53]16** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Plant or machinery subject to a lease and finance leaseback
+
+**17** (1) Chapter 17 of Part 2 of CAA 2001 (plant and machinery allowances: anti-avoidance) is amended as follows.
+
+(2) In section 228A(2) (application of sections 228B to 228D in case of a lease and finance leaseback), for “Sections 228B to 228D” substitute “ Sections 228B and 228C ”.
+
+(3) In section 228F (lease and finance leaseback)—
+
+(a) in subsection (1), for “Sections 228B, 228C and 228D” substitute “ Sections 228B and 228C ”,
+
+(b) omit subsection (4), and
+
+(c) in subsection (8), for “sections 228B to 228D” substitute “ sections 228B and 228C ” and omit paragraph (b) (together with the “and” before it).
+
+[^F54][^F55]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) The amendments made by this paragraph have effect in relation to post-commencement rentals that fall to be taken into account in calculating for tax purposes the income or profits for any post-commencement period of account.
+
+(6) In this paragraph—
+
+- “post-commencement period of account” means any period of account ending on or after 6th December 2006, and
+
+- “post-commencement rental” means—
+
+  - (a) any amount receivable on or after 6th December 2006 in respect of any period beginning on or after that date, or
+  - (b) the appropriate fraction of any amount receivable on or after that date in respect of any period beginning before, and ending on or after, that date,
+
+  but does not include any amount received before that date.
+
+(7) For this purpose the “appropriate fraction”, in relation to any amount received in respect of any period, means the fraction—
+
+(PCP)/(WP) where— “PCP” means the number of days in the part of the period falling on or after 6th December 2006, and “WP” means the number of days in the whole of the period.
+
+(8) Sub-paragraph (9) applies if the amounts that, in accordance with section 228D of CAA 2001 as applied by section 228F of that Act, fall to be taken into account in calculating for tax purposes the income or profits for any post-commencement period of account comprise both post-commencement rentals and other amounts.
+
+(9) For the purposes of section 228D of CAA 2001 as applied by section 228F of that Act, the amount of the gross earnings is taken to be so much of the gross earnings as, on a just and reasonable basis, relates to those other amounts.
+
+“Gross earnings” has the meaning given by section 228D(5) of CAA 2001.
+
+### Derivative contracts: contracts treated for accounting purposes as financial asset or liability
+
+**[^F56]18** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Derivative contracts: transfers of value to connected companies
+
+**[^F57]19** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 6 — Companies carrying on business of leasing plant or machinery
+
+*Section 31*
+
+### Company reconstructions without change of ownership
+
+**[^F58]1** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Sale etc of lessor companies etc
+
+**[^F58]2** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 7 — Insurance business: gross roll-up business etc
+
+*Section 38*
+
+### Part 1 — Amendments
+
+#### Taxes Management Act 1970 (c. 9)
+
+**1** In section 98 of TMA 1970 (special returns etc), in the Table, omit the entries relating to section 333B of ICTA.
+
+#### Income and Corporation Taxes Act 1988 (c. 1)
+
+**2** ICTA is amended as follows.
+
+**[^F59]3** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**4** Omit section 333B (involvement of insurance companies with plans and accounts).
+
+**5** In section 403E (relief for overseas losses of UK resident companies), omit subsection (3).
+
+**[^F60]6** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**7** In section 431A(3)(a) (power to amend), omit “and Schedule 19AA”.
+
+**[^F61]8** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F61]9** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F61]10** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F61]11** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F61]12** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F61]13** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F61]14** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**15** In section 432AB (losses from Schedule A business or overseas property business), omit subsection (6).
+
+**[^F62]16** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F63]17** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**18** Omit section 432D (section 432B apportionment: value of non-participating funds).
+
+**[^F64]19** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**20** In section 432F(2) (section 432B apportionment: supplementary provisions)—
+
+(a) omit “For each category of business in relation to which section 432E falls to be applied”, and
+
+(b) omit “, after making any reduction required by section 432E(5),”.
+
+**[^F65]21** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F65]22** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F65]23** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**24** Omit section 436 (pension business: separate charge on profits).
+
+**[^F66]25** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F67]26** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**27** Omit section 438B (income or gains arising from property investment LLP).
+
+**28** Omit section 438C (determination of policy holders' share for purposes of s.438B).
+
+**29** Omit section 439 (restricted government securities).
+
+**30** Omit section 439B (life reinsurance business: separate charge on profits).
+
+**[^F68]31** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F68]32** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F68]33** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**34** Omit section 441 (overseas life assurance business).
+
+**[^F69]35** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F69]36** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F69]37** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F69]38** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**39** Omit sections 458 and 458A (capital redemption business).
+
+**[^F70]40** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**41** In section 461 (registered friendly societies: other business), omit subsection (3A).
+
+**42** In section 461B (incorporated friendly societies), omit subsection (2A).
+
+**[^F71]43** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F72]44** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F73]45** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F74]46** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**47** (1) Section 755A (treatment of chargeable profits and creditable tax apportioned to company carrying on life assurance business) is amended as follows.
+
+(2) In subsection (4), for the words after “referable to” substitute “ gross roll-up business carried on by the UK company. ”
+
+(3) In subsection (6)(c), for “a category of business specified in paragraphs (a) to (c) of subsection (4) above” substitute “ gross roll-up business ”.
+
+(4) In subsection (13), for paragraphs (a) to (d) substitute—
+
+> (a) basic life assurance and general annuity business, or
+>
+> (ba) gross roll-up business,
+
+.
+
+**[^F75]48** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F75]49** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F75]50** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F75]51** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F75]52** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F75]53** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F76]54** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**55** Omit Schedule 19AA (overseas life assurance fund).
+
+**[^F77][^F78]56** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Finance Act 1989 (c. 26)
+
+**[^F79]57** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F79]58** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F79]59** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Taxation of Chargeable Gains Act 1992 (c. 12)
+
+**60** TCGA 1992 is amended as follows.
+
+**61** In section 204(10) (policies of insurance and non-deferred annuities)—
+
+(a) for “as defined in section 458(3)” substitute “ within the meaning of Chapter 1 of Part 12 ”, and
+
+(b) omit “other”.
+
+**62** In section 210B—
+
+(a) omit paragraph (b) of subsection (6) and the word “or” before it, and
+
+(b) in subsection (8) (disposal and acquisition of section 440A securities), in the definition of “chargeable section 440A holding”, for “(2)(a)(iii)” substitute “ (2)(a)(i) ”.
+
+**63** In section 212(2) (annual deemed disposal of holdings of certain assets), for the words from “pension business” to the end substitute “ gross roll-up business ”.
+
+**64** In section 213(1A) (spreading of gains and losses under section 212), omit the words following “general annuity business”.
+
+#### Finance Act 1996 (c. 8)
+
+**[^F80]65** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F80]66** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F80]67** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Capital Allowances Act 2001 (c. 2)
+
+**68** CAA 2001 is amended as follows.
+
+**69** (1) Section 255 (apportionment of allowances and charges) is amended as follows.
+
+(2) For subsections (1) and (1A) substitute—
+
+> (1) Except where subsection (3) applies, any allowance to which the company is entitled, and any charge to which it is liable, for a chargeable period in respect of a management asset must be apportioned between basic life assurance and general annuity business, gross roll-up business and PHI business in accordance with subsections (1A) and (1B).
+>
+> (1A) The allowance or charge is to be apportioned to a category of business using the formula—
+>
+> A × (B)/(C) where— A is the amount of the allowance or charge, B is the mean of the opening and closing liabilities of that category of business, and C is the mean of the opening and closing liabilities of all the categories of business mentioned in subsection (1) which are carried on by the company.
+>
+> (1B) If C is nil or below nil, the allowance or charge to be apportioned to a category of business is such as is just and reasonable.
+
+(3) Omit subsection (2).
+
+(4) In subsection (3)—
+
+(a) in paragraph (a), for “section 441 of ICTA in respect of its overseas life assurance business” substitute “ section 436A of ICTA (gross roll-up business) ”, and
+
+(b) in paragraph (b), for “provided outside the United Kingdom for use for the management of that business” substitute “ held for the purposes of a permanent establishment outside the United Kingdom at or through which the company carries on gross roll-up business ”.
+
+**70** (1) Section 256 (different giving effect rules for different categories of business) is amended as follows.
+
+(2) In subsection (3), for paragraphs (a) to (c) substitute “ section 436A of ICTA (gross roll-up business) ”.
+
+(3) In subsection (4)—
+
+(a) for “profit” substitute “ profits ”,
+
+(b) in paragraph (a), for “any particular category of business” substitute “ gross roll-up business ” and for “that category of business” substitute “ its gross roll-up business ”, and
+
+(c) in paragraph (b), for “any particular category of business” substitute “ gross roll-up business ” and for “that category of business” substitute “ its gross roll-up business ”.
+
+**71** (1) Section 545 (investment assets) is amended as follows.
+
+(2) In subsection (3), in the second sentence, for “sections 432ZA to 432E, or section 438B,” substitute “ section 432A ”.
+
+(3) In subsection (5)—
+
+(a) for the words from “under—” to “no allowance” substitute “ under section 436A of ICTA (gross roll-up business), no allowance ”, and
+
+(b) for “the category of life assurance business in question” substitute “ gross roll-up business ”.
+
+#### Finance Act 2001 (c. 9)
+
+**[^F81]72** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Finance Act 2002 (c. 23)
+
+**73** FA 2002 is amended as follows.
+
+**[^F82]74** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F83]75** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Income Tax (Trading and Other Income) Act 2005 (c. 5)
+
+**76** ITTOIA 2005 is amended as follows.
+
+**77** In section 473(2) (policies and contracts to which Chapter 9 applies), in the definition of “capital redemption policy”, for “as defined in section 458(3)” substitute “ within the meaning of Chapter 1 of Part 12 ”.
+
+**[^F84]78** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**79** In Schedule 2 (transitionals and savings etc), in paragraph 118(2), for “from “other than” onwards in the definition of “annuity business”” substitute “ following paragraph (b) in the definition of “life assurance business” ”.
+
+### Part 2 — Transitional provisions
+
+#### Introduction
+
+**[^F85]80** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Carry forward of unused pension business losses
+
+**[^F85]81** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Carry forward of unused non-pension business losses
+
+**[^F85]82** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F85]83** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### “Section 432F(2) excesses”
+
+**[^F85]84** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [[^F86][[^F87]Losses transferred under section 444AZA]
+
+**85** (1) This paragraph applies where a loss [^F88]... is treated by virtue of section 444AZA of ICTA as a loss of the transferee [^F88]....
+
+(2) Where any [[^F89] losses so treated] would (assuming the transferor had continued to carry on the business transferred after the transfer) have been losses to which paragraph 81(1) would have applied, the amount of such losses to be treated as [[^F90] losses of the transferee] in any period of account must not exceed—
+
+GRBP × (PBTL)/(GRBTL) where— - “*GRBP*” has the same meaning as in section 444AZA(2) of ICTA, - “*PBTL*” is the mean of the opening and closing liabilities of the transferred pension business for the period of account, and - “*GRBTL*” is the mean of the opening and closing liabilities of the transferred gross roll-up business for the period of account.
+
+#### [[^F91]Losses transferred under section 444AZB]
+
+**86** (1) This paragraph applies where section 444AZB of ICTA has effect in relation to a transferee and the circumstances specified in sub-paragraph (2) or (3) below apply.
+
+(2) The circumstances are that—
+
+(a) the profits of the life assurance business of the transferee for the period of account immediately preceding the first period of account beginning on or after 1st January 2007 were chargeable to tax in accordance with Case I of Schedule D by virtue of section 439A of ICTA, and
+
+(b) in that period, the transferee carried on pension business.
+
+(3) The circumstances are that—
+
+(a) paragraph 29 of Schedule 8 applies in relation to the transferee, and
+
+(b) the transferee has an unused pension business loss within the meaning given by paragraph 81(4).
+
+(4) The appropriate fraction of any amount treated by virtue of section 444AZB(2) of ICTA as a loss of the transferee (a “[[^F92]gross roll-up business] loss”) available to be set off against profits chargeable under section 436A of ICTA is to be treated for the purposes of paragraph 81 as an unused pension business loss.
+
+(5) The relevant fraction of any [[^F93]gross roll-up business] loss is to be treated for the purposes of paragraph 82 as an unused non-pension business loss.
+
+(6) In this paragraph “the appropriate fraction”, in relation to a period of account, is—
+
+(PBTL)/(TL) where— - “*PBTL*” is the mean of the opening and closing liabilities of the transferred pension business for the period of account, and - “*TL*” is the mean of the opening and closing liabilities of the transferred life assurance business for the period of account.
+
+(7) In this paragraph the “the relevant fraction”, in relation to a period of account, is—
+
+(NPBTL)/(TL) where— - “*NPBTL*” is the mean of the opening and closing liabilities of the transferred gross roll-up business which is not pension business for the period of account, and - “*TL*” is the mean of the opening and closing liabilities of the transferred life assurance business for the period of account.]
+
+## SCHEDULE 8 — Insurance companies: basis of taxation etc
+
+*Section 39*
+
+### Part 1 — Amendments
+
+#### Income and Corporation Taxes Act 1988 (c. 1)
+
+**1** ICTA is amended as follows.
+
+**[^F94]2** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F94]3** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F94]4** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F94]5** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F94]6** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**7** Omit section 439A (taxation of pure reinsurance business).
+
+**[^F95]8** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F96]9** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**10** In section 755A(2) and (6)(a) (controlled foreign companies: apportionments to companies carrying on life assurance business), for “not charged to tax under Case I of Schedule D in respect of its profits from” substitute “ charged to tax under the I minus E basis in respect of ”.
+
+#### Finance Act 1989 (c. 26)
+
+**[^F97]11** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F97]12** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F97]13** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F97]14** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F97]15** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F97]16** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Finance Act 1991 (c. 31)
+
+**17** In paragraph 16(1) of Schedule 7 to FA 1991 (transitional relief for old general annuity contracts), for “, otherwise than in accordance with the provisions applicable to Case I of Schedule D,” substitute “ under the I minus E basis ”.
+
+#### Taxation of Chargeable Gains Act 1992 (c. 12)
+
+**18** In section 212 of TCGA 1992 (annual deemed disposal of holdings of unit trusts etc), omit subsection (7A) (which applies section 440B(5) of ICTA).
+
+#### Finance (No. 2) Act 1992 (c. 48)
+
+**19** In F(No.2)A 1992, omit section 65 (life assurance business: I minus E basis).
+
+#### Finance Act 1996 (c. 8)
+
+**[^F98]20** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Finance Act 1998 (c. 36)
+
+**21** In paragraph 84 of Schedule 18 to FA 1998 (company tax returns, assessments and related matters), for sub-paragraphs (1) to (3) substitute—
+
+> (1) This paragraph applies where amounts may be brought into charge to tax either—
+>
+> (a) in computing profits chargeable to tax under Case I of Schedule D, or
+>
+> (b) as amounts within Case III or V of that Schedule.
+
+; and the italic heading before that paragraph accordingly becomes “ *Choice between Case I and Case III or V of Schedule D* ”.
+
+#### Capital Allowances Act 2001 (c. 2)
+
+**22** CAA 2001 is amended as follows.
+
+**23** In section 256(1) (different giving effect rules for different categories of business), for paragraph (b) substitute—
+
+> (b) is charged to tax under the I minus E basis in respect of its life assurance business.
+
+**24** In section 257(2) (life assurance: supplementary), for paragraphs (a) and (b) substitute—
+
+> (a) section 85A(3) of the Finance Act 1989 (excess adjusted Case I profits), or
+>
+> (b) section 89 of that Act (policy holders' share of profits).
+
+#### Finance Act 2002 (c. 23)
+
+**[^F99]25** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F99]26** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F99]27** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Part 2 — Transitional provisions
+
+#### Unused pre-commencement section 76(12) etc excesses
+
+**[^F100]28** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Shifts in basis of taxation at first post-commencement accounting period
+
+**[^F101]29** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 9 — Insurance companies: transfers etc
+
+*Section 40*
+
+### Definition of “insurance business transfer scheme”
+
+**1** [^F102]1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) In consequence of sub-paragraph (1), omit—
+
+(a) the definition of “insurance business transfer scheme” in section 12(7B) of ICTA,
+
+(b) section 444AB(11) of that Act (as originally enacted),
+
+(c) in section 444AC(11) of that Act (as originally enacted), the definition of “insurance business transfer scheme”,
+
+(d) section 460(10B) of that Act,
+
+(e) the definition of “insurance business transfer scheme” in paragraph 12(9) of Schedule 9 to FA 1996,
+
+(f) section 560(5)(b) of CAA 2001,
+
+[^F103]g . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F103]h . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F104]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) In section 66 of FA 2002 (election to continue postponement of mark to market)—
+
+(a) in subsection (4)(a), for “a transfer” substitute “ an insurance business transfer ”,
+
+(b) in subsection (5), omit the definition of “transfer scheme”, and
+
+(c) omit subsections (6) and (7).
+
+[^F105]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Transfer schemes: expenses, losses etc
+
+**2** (1) Section 444A of ICTA (transfers of business: expenses, losses and section 432F(2) excesses) is amended as follows.
+
+(2) In subsection (1), omit “Subject to subsection (7) below,”.
+
+(3) Omit—
+
+(a) subsection (7) (section not to apply if transfer is not for bona fide commercial reasons or forms part of avoidance scheme), and
+
+(b) subsection (8) (clearance procedure as to non-application of subsection (7)).
+
+### Transfer schemes: deemed periodical returns
+
+**3** [^F106]1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F107]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F108]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) In section 213(10) of TCGA 1992, for “before the transfer” substitute “ before the relevant transfer date (within the meaning of that section) ”.
+
+### Transfer schemes: taxing the transferor
+
+**[^F109]4** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Transferor's period of account including transfer
+
+**[^F109]5** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Transfer schemes: taxing the transferee
+
+**[^F109]6** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Repeal of section 444AD
+
+**[^F109]7** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Transfer schemes: anti-avoidance
+
+**[^F109]8** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Repeal of FA s.82C
+
+**9** In FA 1989, omit section 82C (relevant financial reinsurance contracts).
+
+### Transfers: receipts to be taken into account
+
+**[^F110]10** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Transfers and demutualisations: losses where assets added to long-term insurance fund
+
+**11** (1) FA 1989 is amended as follows.
+
+(2) Omit—
+
+(a) in section 83, subsections (3) to (7) and, in subsection (8), the definitions of “add”, “demutualisation” and “total reinsurance” (which relate to losses where assets added to long-term insurance fund),
+
+(b) section 83AA (amounts added to long-term insurance fund in excess of loss), and
+
+(c) section 83AB (treatment of surplus where there is subsequent transfer from company etc).
+
+[^F111]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F112]12** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Transfer schemes: old annuity contracts
+
+**13** (1) Paragraph 16 of Schedule 7 to FA 1991 (transitional relief for old general annuity contracts) is amended as follows.
+
+(2) In sub-paragraph (7), in the definition of “old annuity contract”, insert at the end “ (including one forming part of the business transferred to another insurance company by an insurance business transfer scheme) ”.
+
+(3) After that sub-paragraph insert—
+
+> (8) Where—
+>
+> (a) business is transferred to an insurance company by an insurance business transfer scheme during an accounting period of the company, and
+>
+> (b) the business transferred consists of or includes old annuity contracts (“the transferred contracts”),
+>
+> the reference in the definition of R1 in sub-paragraph (2) above to the company's opening liabilities for the accounting period is, in relation to the transferred contracts, a reference to the company's liabilities in respect of the transferred contracts immediately after the transfer.
+
+### Transfer schemes: no gain/no loss
+
+**14** (1) TCGA 1992 is amended as follows.
+
+(2) In section 211 (application of section 139), for subsections (2) and (2A) substitute—
+
+> (2) Where this section applies the transferor and the transferee are treated for the purposes of corporation tax on chargeable gains as if any assets included in the transfer which—
+>
+> (a) immediately before they are acquired by the transferee, were assets of the transferor's long-term insurance fund, and
+>
+> (b) immediately after they are so acquired are assets of the transferee's long-term insurance fund,
+>
+> were acquired for a consideration of such amount as would secure that neither a gain nor a loss would accrue to the transferor on the disposal.
+>
+> (3) Subsection (2) above is subject to section 212.
+
+[^F113]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Transfer schemes: old reinsurance business
+
+**[^F114]15** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Power to amend transfer provisions
+
+**[^F115]16** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Commencement
+
+**17** (1) The amendments made by paragraphs 1 to 3 and 13 to 15 have effect in relation to periods of account beginning on or after 1st January 2007.
+
+(2) The amendments made by paragraphs 4, 6 to [[^F116]10(5),] 11 and 12 have effect in accordance with provision made by an order made by the Treasury.
+
+(3) But the amendments made by paragraphs 11 and 12 also have effect
+
+[[^F117](a)] in relation to periods of account beginning on or after 1st January 2007 where the transfer of business or demutualisation concerned took place before 21st March 2007 [[^F118]and
+
+(b) in relation to periods of account ending after 30 June 2008 where the transfer of business or demutualisation concerned took place on or after 21 March 2007 and before 1 July 2008.]
+
+(4) The amendment made by paragraph 5 has effect in relation to transfers of business with a transfer date after 21st March 2007.
+
+[[^F119](4A) The amendment made by paragraph 9 has effect in relation to contracts entered into in a period of account beginning on or after 1 January 2008.]
+
+(5) The amendment made by paragraph 10(2) has effect in relation to transfers taking place on or after 6th December 2006.
+
+[[^F120](6) The amendments made by paragraph 10(3) and (4) have effect in relation to assets transferred on or after 1 January 2008.]
+
+## SCHEDULE 10 — Insurance companies: miscellaneous
+
+*Section 41*
+
+### Contingent loans
+
+**[^F121]1** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### “Structural” assets
+
+**2** [^F122]1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) In ICTA, omit section 444ACA (transfers of business).
+
+(3) In section 432E(2A) of that Act, omit “444ACA(2),” and paragraph (b).
+
+(4) In section 211 of TCGA 1992 (transfers of business: application of section 139 of that Act), as amended by paragraph 14 of Schedule 9 to this Act, after subsection (2) insert—
+
+> (2A) The reference in subsection (2) above to assets included in the transfer does not include structural assets within the meaning of section 83XA of the Finance Act 1989.
+
+(5) In paragraph 17 of Schedule 7AC to TCGA 1992 (substantial shareholdings exemption: special rules for assets of insurance company's long-term insurance fund), after sub-paragraph (4) insert—
+
+> (4A) The reference in sub-paragraph (2) to an asset of the investing company's long-term insurance fund, and the references in sub-paragraphs (3) and (4) to shares or an interest in shares held as assets of its long-term insurance fund, do not include a structural asset, or structural assets, within the meaning of section 83XA of the Finance Act 1989.
+
+### Losses on disposal of authorised investment fund assets to connected manager
+
+**3** In TCGA 1992, after section 210B insert—
+
+> **Losses on disposal of authorised investment fund assets to connected manager**
+>
+> **210C** (1) Section 18(3) does not apply in relation to a loss accruing on the disposal by an insurance company of authorised investment fund assets to the manager of the authorised investment fund.
+>
+> (2) In this section—
+>
+> - “authorised investment fund assets” means assets of the company's long-term insurance fund consisting of rights under an authorised unit trust or shares in an open-ended investment company,
+>
+> - “the manager of the authorised investment fund” means—
+>
+>   - (a) in the case of an authorised unit trust, the person who is the manager of the unit trust scheme for the purposes of Chapter 3 of Part 17 of the Financial Services and Markets Act 2000, and
+>   - (b) in the case of an open-ended investment company, a director or other person having responsibility for the management of its scheme property, and
+>
+> - “open-ended investment company” means a company incorporated in the United Kingdom to which section 236 of the Financial Services and Markets Act 2000 applies.
+
+### Priority of section 83(2) of FA 1989 etc
+
+**[^F123]4** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Tidying up of TCGA 1992
+
+**5** (1) TCGA 1992 is amended as follows.
+
+(2) In section 210B(6)(a) (disposal and acquisition of section 440A securities), for the words after “are” substitute “ assets within section 212(1). ”
+
+(3) Omit—
+
+(a) section 212(2A) (disapplication of section 212(1) to assets treated as representing rights under a creditor relationship),
+
+(b) section 214 (rights under authorised unit trusts etc: transitional provisions), and
+
+(c) section 214A (further transitional provisions).
+
+### Tidying up of Chapter 2 of Part 4 of FA 1996
+
+**[^F124]6** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Correction of erroneous repeal
+
+**7** The repeals made by Schedule 3 to ITA 2007 in paragraph 11 of Schedule 6 to FA 1990 are deemed never to have had effect; but Schedule 3 to ITA 2007 is deemed to have included the repeal of the words before the paragraphs in sub-paragraph (1) of that paragraph.
+
+### Non-profit companies, non-profit funds and with-profits funds
+
+**8** (1) In section 431(2) of ICTA (interpretative provisions relating to insurance companies) insert at the appropriate place—
+
+> “non-profit company”, in relation to a period of account, means a company carrying on long-term business where, at the end of the period—
+>
+> (a) none of the liabilities of that business, or
+>
+> (b) none but an insignificant proportion of those liabilities,
+>
+> are with-profits liabilities;
+
+,
+
+> “non-profit fund” means a fund that is not a with-profits fund;
+
+, and
+
+> “with-profits fund” has the meaning given by the Prudential Sourcebook (Insurers);
+
+.
+
+(2) Omit—
+
+(a) in section 432YA(5) of ICTA, the definitions of “non-profit company” and “non-profit fund”,
+
+(b) section 82D(5) of FA 1989,
+
+(c) in section 83YA of that Act, subsection (8) and, in subsection (11), the definition of “with-profits fund”, and
+
+(d) in section 83A of that Act, in subsections (2)(b) and (3D)(b) “(see subsection (6))” and subsection (6).
+
+### Internal linked funds and net value
+
+**9** (1) In section 431(2) of ICTA (interpretative provisions relating to insurance companies) insert at the appropriate place—
+
+> “internal linked fund”, in relation to an insurance company, means an account—
+>
+> (a) to which linked assets are appropriated by the company, and
+>
+> (b) which may be divided into units the value of which is determined by the company by reference to the value of those assets;
+
+, and
+
+> “net value”, in relation to any assets, means the excess of the value of the assets over the value of money debts (within the meaning of Chapter 2 of Part 4 of the Finance Act 1996) attributable to an internal linked fund which are not owed in respect of liabilities;
+
+.
+
+(2) Omit—
+
+(a) in section 432ZA(6) of ICTA, the definition of “internal linked fund”,
+
+(b) section 432A(9A) of that Act,
+
+(c) the definition of “internal linked fund” in section 210B(8) of TCGA 1992, and
+
+(d) paragraph 3A(6) of Schedule 11 to FA 1996.
+
+### Fair value
+
+**10** (1) In section 431(2) of ICTA (interpretative provisions relating to insurance companies) insert at the appropriate place—
+
+> “fair value”, in relation to assets, means the amount which would be obtained from an independent person purchasing them or, if the assets are money, its amount;
+
+.
+
+(2) In section 440 of ICTA (transfer of assets etc)—
+
+(a) in subsections (1) and (2), for “market” substitute “ fair ”, and
+
+(b) omit subsection (5).
+
+(3) Omit—
+
+(a) section 444AB(6) of ICTA (as originally enacted),
+
+(b) in section 444AC(11) of that Act (as originally enacted), the words from the beginning to the end of the definition of “fair value”,
+
+(c) section 444AD(5) of that Act,
+
+(d) in section 83(8) of FA 1989, in the definition of “fair value”, paragraph (a), and
+
+(e) section 83YB(5) of that Act.
+
+### Generalisation of definitions
+
+**[^F125]11** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F125]12** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F125]13** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**14** (1) Omit the following provisions.
+
+(2) In ICTA—
+
+(a) in section 12(7B), the words from the beginning to the end of the definition of “contracts of long-term insurance”,
+
+(b) in section 76(15), “and other expressions have the same meaning as in Chapter 1 of Part 12”,
+
+(c) in section 587B(9), “ “life assurance business” and related expressions have the same meaning as Chapter 1 of Part 12;”,
+
+(d) in section 755A(12), the definition of “long-term insurance fund”,
+
+(e) section 804F, and
+
+(f) in paragraph 14(1) of Schedule 28AA, the definition of “insurance company”.
+
+(3) In FA 1989—
+
+(a) in section 85(2A), the second sentence,
+
+(b) in section 89(6), the words from the beginning to “; and”, and
+
+(c) section 90A.
+
+(4) In paragraph 16(7) of Schedule 7 to FA 1991, the words from “and, subject to that,” to the end.
+
+(5) In TCGA 1992—
+
+(a) section 214BA, and
+
+(b) paragraph 17(5) of Schedule 7AC.
+
+(6) In FA 1996—
+
+(a) in section 87A(2), “, within the meaning of Chapter 1 of Part 12 of the Taxes Act 1988,” and “(see section 431(2) of that Act)”,
+
+(b) section 88(7),
+
+(c) in paragraph 12(9) of Schedule 9, the definitions of “contracts of long-term insurance” and “overseas life insurance company”,
+
+(d) in paragraph 20(3)(b) of that Schedule, “, within the meaning of Chapter 1 of Part 12 of the Taxes Act 1988,” and “(see section 431(2) of that Act)”, and
+
+(e) in Schedule 11, paragraph 6.
+
+(7) In paragraph 13(3) of Schedule 18 to FA 1998, the words after “1988”.
+
+(8) In CAA 2001—
+
+(a) section 257(3),
+
+(b) section 544(5), and
+
+(c) section 560(5)(a) and (c).
+
+[^F126]9 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(10) In FA 2002—
+
+(a) in section 66(5), the words from the beginning to the end of the definition of “long-term insurance fund”,
+
+(b) in paragraph 19(1) of Schedule 12, the definition of “life assurance business”,
+
+[^F127]c . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F127]d . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(e) in Schedule 29, in paragraph 89(3), the definition of “contracts of long-term insurance” and paragraph 138(1).
+
+(11) In Schedule 23 to FA 2003—
+
+(a) in paragraph 30, the definitions of “insurance company” and “life assurance business”, and
+
+(b) in paragraph 31, the entries relating to those definitions.
+
+(12) Section 134(4)(c) of FA 2006.
+
+### Minor changes
+
+**15** [^F128]1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F128]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F128]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) In paragraph 17 of Schedule 7 to FA 1991 (transitional provisions for chargeable gains and unrelieved general annuity business)—
+
+(a) in sub-paragraph (4), for the words after “in an accounting period” substitute “ is so much of the chargeable gains arising to the company in the accounting period as are referable to its basic life assurance and general annuity business. ”, and
+
+(b) omit sub-paragraphs (4A) and (5).
+
+### Obsolete etc provisions
+
+**16** (1) Omit the following provisions (which are obsolete or of limited value).
+
+(2) In the Table in section 98 of TMA 1970, the words “or 441A(3)” in both columns.
+
+(3) In ICTA—
+
+(a) in section 76(7), in Step 3, the entries relating to section 587B(8)(b)(i) of ICTA and paragraph 23(2) of Schedule 13 to FA 2002,
+
+(b) section 440(2A) and (2B) (transfer of assets: loan relationships and derivative contracts),
+
+(c) section 442(4) (special rule for insurance companies ceasing to be resident in United Kingdom),
+
+(d) section 443 (life policies carrying rights not in money),
+
+(e) section 444 (life policies issued before 5th August 1965),
+
+(f) section 587B(8) (gifts to charities etc: modifications for insurance companies), and
+
+(g) in section 807A (disposals and acquisitions of company loan relationships with or without interest), subsections (4) and (5)(b) and, in subsection (6)(a), “or an insurance credit”.
+
+(4) In FA 1989—
+
+(a) section 84(2), (3), (5) and (6) (transitional provisions etc),
+
+(b) in section 85(3) (commencement of provisions for charge of certain BLAGAB receipts), “(including the 1990 component period)”,
+
+(c) in section 86 (spreading of relief for acquisition expenses), subsections (3) and (3A) and, in subsection (10), “(including the 1990 component period)”, and
+
+(d) section 87 (management expenses).
+
+(5) In FA 1996—
+
+(a) paragraph 1(1) and (2) of Schedule 11 (loan relationships: I minus E basis),
+
+(b) paragraph 4(6) of that Schedule (non-trading deficits: transitional provision),
+
+(c) paragraph 5 of that Schedule (elections for accrual basis), and
+
+(d) paragraph 1(3) of Schedule 15 (apportionment of loan relationship credits and debits: transitional provision).
+
+(6) Paragraph 18 of Schedule 12 to FA 1997 (leasing arrangements: meaning of “accounting purposes” for insurance companies).
+
+(7) Paragraph 86 of Schedule 18 to FA 1998 (non-annual actuarial investigations).
+
+[^F129]8 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(9) Section 87(3) and (4) of FA 2001 (tax credits etc).
+
+[^F130]10 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Commencement
+
+**17** (1) The amendment made by paragraph 1 has effect on and after 10th May 2007.
+
+(2) The amendments made by paragraphs 2, 4(2) and (4), 5, 6 and 8 to 15 have effect in relation to periods of account beginning on or after 1st January 2007.
+
+(3) But the amendment made by paragraph 2(4) does not apply where the transfer of business concerned took place before 10th May 2007.
+
+(4) The amendment made by paragraph 3 has effect in relation to losses accruing in a period of account beginning on or after 1st January 2007.
+
+(5) The amendment made by paragraph 4(3) has effect in relation to periods of account beginning on or after 1st January 2005.
+
+## SCHEDULE 11 — Technical provisions made by general insurers
+
+*Section 42*
+
+### Restriction on amount of technical provisions made by general insurers
+
+**1** (1) This paragraph applies if a general insurer makes any technical provisions for a period of account.
+
+(2) The amount of the technical provisions stated in the accounts for that period is to be taken into account in the calculation for tax purposes of the profits of the general insurer's trade for that period unless an officer of Revenue and Customs considers that that amount exceeds the appropriate amount.
+
+(3) In that case—
+
+(a) the excess is not to be taken into account in that calculation, and
+
+(b) the profits of the general insurer's trade for the next period of account are to be adjusted accordingly for tax purposes.
+
+(4) “The appropriate amount” means such amount as is determined in accordance with regulations made by the Commissioners for Her Majesty's Revenue and Customs to be the appropriate amount to be taken into account in that calculation.
+
+(5) Any such determination must be made by reference to the time at which the technical provisions are made.
+
+### Enforcement
+
+**2** (1) This paragraph applies if an officer of Revenue and Customs gives a notice of enquiry under paragraph 24(1) of Schedule 18 to FA 1998 to a general insurer.
+
+(2) The officer may by notice require the general insurer (at the general insurer's own expense) to provide the officer with a report as to whether (and, if so, the extent to which) the amount of any technical provisions stated in the accounts for any period covered by the company tax return into which the enquiry is made exceeds the appropriate amount.
+
+(3) The report must cover such matters, and be in such form, as the officer may reasonably require for the purposes of the enquiry.
+
+(4) The report must be made by a person who is appointed by the general insurer unless the officer requires the report to be made instead by another person.
+
+(5) As soon as the general insurer appoints a person to make the report, the general insurer must give a notice to the officer specifying that person.
+
+(6) A notice under sub-paragraph (2) must specify the time (which must not be less than 30 days) within which the general insurer is to comply with it.
+
+[[^F131](7) The following provisions of Schedule 36 to FA 2008 (information and inspection powers) apply in relation to a notice under sub-paragraph (2) as they apply in relation to a taxpayer notice under that Schedule—
+
+(a) paragraphs 29 and 32 (right to appeal), and
+
+(b) Part 7 (penalties).]
+
+### Supplementary
+
+**3** (1) In paragraph 1 “general insurer” means—
+
+(a) a company within the charge to corporation tax which carries on general business,
+
+[[^F132](b) a CFC (within the meaning of Part 9A of the Taxation (International and Other Provisions) Act 2010) which carries on general business, or]
+
+(c) members of a Lloyd's syndicate who carry on general business.
+
+(2) In paragraph 2 “general insurer” means—
+
+(a) a company within the charge to corporation tax which carries on general business, or
+
+[[^F133](b) a company which for the purposes of Part 9A of the Taxation (International and Other Provisions) Act 2010 has an interest in a CFC (within the meaning of that Part) which carries on general business.]
+
+(3) For the purposes of sub-paragraphs (1) and (2) “general business” means business which consists of the effecting or carrying out of contracts that fall within Part 1 of Schedule 1 to the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001 (S.I. 2001/544).
+
+(4) In the case of members of a Lloyd's syndicate, references in paragraph 1 to any accounts for a period are to the return of the syndicate's profits or loss for that period under regulation 4 of the Lloyd's Underwriters (Tax) Regulations 2005 (S.I. 2005/3338).
+
+(5) In paragraph 1 “period of account”—
+
+(a) except in the case of members of a Lloyd's syndicate, means a period of account for which an account is made up, and
+
+(b) in the case of members of a Lloyd's syndicate, means an underwriting year in which profits or losses are declared for an earlier underwriting year.
+
+(6) In paragraphs 1 and 2 “technical provisions”, except in the case of members of a Lloyd's syndicate, means any of the following—
+
+(a) provisions for claims outstanding,
+
+(b) provisions for unearned premiums, and
+
+(c) provisions for unexpired risks.
+
+(7) In paragraphs 1 and 2 “technical provisions”, in the case of members of a Lloyd's syndicate (“the syndicate”), means—
+
+(a) so much of the reinsurance to close amounts of the members, and
+
+(b) so much of the provisions made by an open Lloyd's syndicate of which any member of the syndicate is a member for claims outstanding, unearned premiums and unexpired risks,
+
+as may be determined by or under regulations made by the Commissioners for Her Majesty's Revenue and Customs.
+
+(8) For this purpose—
+
+(a) the reference to reinsurance to close amounts of any member of a Lloyd's syndicate is to any consideration which, in accordance with the rules or practice of Lloyd's, is given (or any amount which, in accordance with those rules or practice, is treated as consideration given) by the member in respect of the liabilities arising from the member's underwriting business in an underwriting year for the purpose of closing the accounts of the business for that year, and
+
+(b) a Lloyd's syndicate is an “open” Lloyd's syndicate at any time after the end of its closing year if, at that time, the accounts of its business for the underwriting year for which it was formed have not been closed,
+
+and in paragraph (b) “closing year” has the same meaning as in Chapter 3 of Part 2 of FA 1993 or Chapter 5 of Part 4 of FA 1994.
+
+(9) In this paragraph—
+
+- “Lloyd's syndicate” means a syndicate of underwriting members of Lloyd's formed for an underwriting year, and
+- “underwriting year” means the calendar year.
+
+(10) In this paragraph references to provisions for claims outstanding, unearned premiums and unexpired risks have the same meaning as in [[^F134]Schedule 3 to the Large and Medium-sized Companies and Groups (Accounts and Reports) Regulations 2008].
+
+(11) The Commissioners for Her Majesty's Revenue and Customs may by regulations—
+
+(a) provide in prescribed circumstances for paragraph 1 not to apply in relation to any member of a Lloyd's syndicate, or
+
+(b) provide in prescribed circumstances for a reduction in relation to any member of a Lloyd's syndicate of the amount which (as a result of that paragraph) is not to be taken into account in the calculation mentioned in sub-paragraph (2) of that paragraph.
+
+(12) The Treasury may by regulations amend sub-paragraphs (1) to (3) (definition of “general insurer”).
+
+(13) In the event of any changes in the rules or practice of Lloyd's, the Commissioners for Her Majesty's Revenue and Customs may by regulations make such amendments of paragraph 1 and this paragraph as appear to the Commissioners to be expedient having regard to those changes.
+
+(14) Regulations under section 182(1)(a) of FA 1993 or section 229(1)(a) of FA 1994 (assessment and collection of tax charged in case of Lloyd's underwriters) may, in particular, include provision applying paragraph 2 with modifications in the case of members of a Lloyd's syndicate.
+
+(15) Regulations under paragraph 1 or this paragraph may—
+
+(a) make different provision for different purposes, and
+
+(b) make supplementary, incidental, consequential and transitional provision.
+
+### Repeal of section 107 of FA 2000
+
+**4** In FA 2000, omit section 107 (general insurance reserves).
+
+### Commencement
+
+**5** (1) Paragraphs 1 to 3 have effect in relation to periods of account ending on or after the day on which this Act is passed.
+
+(2) The repeal of section 107 of FA 2000 made by paragraph 4 has effect as follows.
+
+(3) The repeal of—
+
+(a) subsections (1) to (3) of that section (technical provisions made by a general insurer proving to be excessive or insufficient),
+
+(b) subsections (5) to (8) and (10) of that section so far as relating to those subsections, and
+
+(c) subsections (9) and (12)(a) of that section (which relate to those subsections),
+
+has effect in relation to any amount that would otherwise have been treated as a receipt or an expense of a trade in computing for tax purposes the profits of the trade for any period of account ending on or after the day on which this Act is passed.
+
+(4) The repeal of—
+
+(a) subsection (4) of that section (election for any part of technical provisions not to be taken into account in a period of account),
+
+(b) subsections (5) to (8) and (10) of that section so far as relating to that subsection, and
+
+(c) subsection (12)(b) of that section (which relates to that subsection),
+
+has effect so that no election may be made under that subsection in respect of technical provisions made by a general insurer for any period of account which begins on or after that day.
+
+(5) There is a restriction in relation to any election made by a general insurer under that subsection in respect of technical provisions made by the general insurer for the final election period.
+
+(6) The restriction is that the amount of the part of those provisions which the general insurer elects not to be taken into account in computing for tax purposes the profits of the general insurer's trade for that period must not exceed 10% of the total amount of those provisions.
+
+(7) In sub-paragraph (5) “the final election period”, in relation to any general insurer, means the general insurer's first period of account ending on or after the day on which this Act is passed.
+
+## [^F135]SCHEDULE 12 — Friendly societies: transfers to insurance companies etc
+
+*Section 44*
+
+### Exempt life or endowment business
+
+**1** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**2** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**3** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Other exempt business
+
+**4** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**5** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Commencement
+
+**6** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 13 — Sale and repurchase of securities
+
+*Section 47*
+
+### Purpose of Schedule
+
+**1** (1) The purpose of this Schedule is to secure that in the case of an arrangement—
+
+(a) which involves the sale of securities and the subsequent purchase of securities, and
+
+(b) which equates, in substance, to a transaction for the lending of money at interest from or to a company (with the securities which were sold as collateral for the loan),
+
+the charge to corporation tax in that case [[^F136]in respect of chargeable gains] reflects the fact that the arrangement equates, in substance, to such a transaction.
+
+(2) But this is not to be read as preventing the rules in this Schedule about corporation tax in respect of chargeable gains from having no effect in relation to debtor quasi-repos and creditor quasi-repos.
+
+### Meaning of debtor repo
+
+**[^F137]2** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Meaning of debtor quasi-repo
+
+**[^F137]3** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Ignoring effect on borrower of sale of securities: debtor repos, debtor quasi-repos and other arrangements
+
+**[^F137]4** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Relief for borrower for finance charges in respect of the advance: debtor repos and debtor quasi-repos
+
+**[^F137]5** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Ignoring sale and subsequent purchase for purposes of chargeable gains: debtor repos
+
+**6** (1) This paragraph applies if—
+
+(a) a company (“the borrower”) has a debtor repo, and
+
+(b) the borrower (having sold the securities under the arrangement to the lender) is the only person with the right or obligation under the arrangement to buy those or similar securities at any subsequent time.
+
+(2) The sale of the securities, and the subsequent purchase of those or similar securities, by the borrower under the arrangement are to be ignored for the purposes of corporation tax in respect of chargeable gains (but see sub-paragraph (5)).
+
+(3) If at any time after the initial sale of the securities—
+
+(a) it becomes apparent that the borrower will not subsequently buy those or similar securities under the arrangement, or
+
+(b) the accounting condition ceases to be met,
+
+the borrower is to be treated for the purposes of corporation tax in respect of chargeable gains as disposing of the securities at that time for a consideration equal to their market value at that time.
+
+(4) The accounting condition ceases to be met if, in accordance with generally accepted accounting practice, the accounts of the borrower for any period after the one in which the advance is received do not record a financial liability in respect of the advance (except as a result of the subsequent purchase of the securities or similar securities).
+
+(5) If sub-paragraph (3) applies because the accounting condition ceases to be met, any subsequent purchase of those or similar securities by the borrower under the arrangement is not to be ignored for the purposes of corporation tax in respect of chargeable gains as a result of this paragraph.
+
+(6) For the purposes of this paragraph references to the borrower include a partnership of which the borrower is a member.
+
+### Meaning of creditor repo
+
+**[^F138]7** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Meaning of creditor quasi-repo
+
+**[^F138]8** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Ignoring effect on lender of sale of securities: creditor repos and creditor quasi-repos
+
+**[^F138]9** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Charge on lender for finance return in respect of the advance: creditor repos and creditor quasi-repos
+
+**[^F138]10** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Ignoring purchase and subsequent sale for purposes of chargeable gains: creditor repos
+
+**11** (1) This paragraph applies if—
+
+(a) a company (“the lender”) has a creditor repo, and
+
+(b) the lender (having bought the securities under the arrangement from the borrower) is the only person with the right or obligation under the arrangement to sell those or similar securities at any subsequent time.
+
+(2) The purchase of the securities, and the subsequent sale of those or similar securities, by the lender under the arrangement are to be ignored for the purposes of corporation tax in respect of chargeable gains (but see sub-paragraph (5)).
+
+(3) If at any time after the initial purchase of the securities—
+
+(a) it becomes apparent that the lender will not subsequently sell those or similar securities under the arrangement, or
+
+(b) the accounting condition ceases to be met,
+
+the lender is to be treated for the purposes of corporation tax in respect of chargeable gains as acquiring the securities at that time for a consideration equal to their market value at that time.
+
+(4) The accounting condition ceases to be met if, in accordance with generally accepted accounting practice, the accounts of the lender for any period after the one in which the advance is made do not record a financial asset in respect of the advance (except as a result of the subsequent sale of the securities or similar securities).
+
+(5) If sub-paragraph (3) applies because the accounting condition ceases to be met, any subsequent sale of those or similar securities by the lender under the arrangement is not to be ignored for the purposes of corporation tax in respect of chargeable gains as a result of this paragraph.
+
+(6) For the purposes of this paragraph references to the lender include a partnership of which the lender is a member.
+
+### Repo under arrangement designed to produce quasi-interest: anti-avoidance
+
+**[^F139]12** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Requirements to deduct tax from manufactured payments: creditor repos and debtor repos
+
+**[^F140]13** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Interpretation etc
+
+**14** (1) In this Schedule—
+
+- “arrangement” includes any agreement or understanding (whether or not legally enforceable),
+
+- “creditor quasi-repo” has the meaning given by [[^F141]section 544 of CTA 2009],
+
+- “creditor repo” has the meaning given by [[^F142]section 543 of CTA 2009],
+
+- “debtor quasi-repo” has the meaning given by [[^F143]section 549 of CTA 2009],
+
+- “debtor repo” has the meaning given by [[^F144]section 548 of CTA 2009],
+
+- “discharge”, in relation to a liability, means the discharge of the liability in whole or in part (and “discharged” is to be read accordingly),
+
+- “the loan relationship rules” means the provisions of [[^F145]Part 5 of CTA 2009],
+
+- “market value” has the same meaning as in TCGA 1992,
+
+- “overseas dividend”, in relation to overseas securities, means any interest, dividend or other annual payment payable in respect of the securities,
+
+- “overseas securities” means shares, stock or other securities issued by—
+
+  - (a) a government or public or local authority of a territory outside the United Kingdom, or
+  - (b) any other body of persons not resident in the United Kingdom,
+
+- “securities” (except in the definition of “overseas securities”) means shares, stock or other securities issued by—
+
+  - (a) the government of the United Kingdom,
+  - (b) any public or local authority in the United Kingdom, or
+  - (c) any company or other body resident in the United Kingdom,
+
+  or overseas securities, and
+
+- “tax advantage” has the meaning given by section 840ZA of ICTA.
+
+(2) For the purposes of this Schedule references to a person's receiving any asset include the person's obtaining directly or indirectly the value of any asset or otherwise deriving directly or indirectly any benefit from it.
+
+(3) For the purposes of this Schedule—
+
+(a) in any case where a person buys securities (or has a right or obligation to buy securities) but the securities are (or are to be) held for another person's benefit, that other person is treated as buying (or having the right or obligation to buy) the securities, and
+
+(b) in any case where a person sells securities but the proceeds of the sale are held for another person's benefit, that other person is treated as selling the securities.
+
+(4) For the purposes of this Schedule securities are similar if they entitle their holders to—
+
+(a) the same rights against the same persons as to capital, interest and dividends, and
+
+(b) the same remedies for the enforcement of those rights,
+
+in spite of any difference in the total nominal amounts of the respective securities or in the form in which they are held or the manner in which they can be transferred.
+
+(5) For the purposes of this Schedule it does not matter whether or not provision of any arrangement conferring a right or imposing an obligation on any person to buy any securities is subject to any conditions.
+
+(6) For the purposes of this Schedule an arrangement is in force from the time when the securities are initially sold until the earlier of—
+
+(a) the time when the relevant repurchase takes place, and
+
+(b) the time when it becomes apparent that that repurchase will not take place.
+
+(7) For this purpose “the relevant repurchase” means—
+
+(a) in the case of a debtor repo, the subsequent buying of the securities or similar securities,
+
+(b) in the case of a debtor quasi-repo, the subsequent buying of the securities or other securities by the borrower, the receipt of the asset from the borrower or (as the case may be) the discharge of the liability to the borrower,
+
+(c) in the case of a creditor repo, the subsequent sale of the securities or similar securities, and
+
+(d) in the case of a creditor quasi-repo, the subsequent sale of the securities or other securities by the lender, the receipt of the asset from the lender or (as the case may be) the discharge of the liability to the lender.
+
+(8) Any reference in this Schedule to an amount being recognised in determining a company's profit or loss for a period is to an amount being recognised for accounting purposes—
+
+(a) in the company's profit and loss account or income statement,
+
+(b) in the company's statement of recognised gains and losses or statement of changes in equity, or
+
+(c) in any other statement of items brought into account in calculating the company's profits and losses for that period.
+
+(9) In determining for the purposes of this Schedule whether an amount is recorded as a financial asset or liability in respect of the advance it is to be assumed that the period of account in which the advance is received or made ended immediately after the receipt or making of the advance.
+
+(10) For the purposes of paragraphs 6(4) and 11(4)—
+
+(a) any period of account in which the advance is received or made is treated as if it ended immediately after the receipt or making of the advance, and
+
+(b) a new period of account is treated as beginning immediately after the end of that period.
+
+(11) If any person does not draw up accounts in accordance with generally accepted accounting practice, this Schedule applies as if the accounts had been drawn up by the person in accordance with that practice.
+
+### Power to modify Schedule
+
+**15** (1) The Treasury may by regulations provide for all or any of the provisions of this Schedule to apply with modifications in relation to either or both of the following cases—
+
+(a) non-standard repo cases (see sub-paragraphs (2) to (5)), and
+
+(b) cases involving redemption arrangements (see sub-paragraph (6)).
+
+(2) A case is a non-standard repo case if—
+
+(a) a company has a repo,
+
+(b) there has been a sale of the securities under the arrangement or arrangements by reference to which the company has the repo, and
+
+(c) any of conditions A to C are met in relation to the repo.
+
+(3) Condition A is that those securities, or similar or other securities, are not subsequently bought under the arrangement or arrangements.
+
+(4) Condition B is that provision is made by or under an arrangement for different or additional securities to be treated as, or as included with, securities which, for the purposes of the subsequent purchase, are to represent those initially sold.
+
+(5) Condition C is that provision is made by or under an arrangement for securities to be treated as not so included.
+
+(6) A case involves redemption arrangements if—
+
+(a) arrangements, corresponding to those made in cases where a company has a repo, are made in relation to securities that are to be redeemed in the period after their sale, and
+
+(b) the arrangements are such that a person (instead of having the right or obligation to buy those securities, or similar or other securities, at any subsequent time) has a right or obligation in respect of the benefits that will result from the redemption.
+
+(7) The regulations may—
+
+(a) make different provision for different cases, and
+
+(b) contain incidental, supplemental, consequential and transitional provision and savings.
+
+(8) Regulations about paragraph 6 or 11 may, in particular, include modifications of TCGA 1992 in relation to cases where, as a result of the regulations, any acquisition or disposal is excluded from those which are to be ignored for the purposes of corporation tax in respect of chargeable gains.
+
+(9) In this paragraph—
+
+- “modifications” include exceptions and omissions, and
+
+- “repo” means—
+
+  - (a) a debtor repo or debtor quasi-repo, or
+  - (b) a creditor repo or creditor quasi-repo (including anything treated, as a result of [[^F146]section 547 of CTA 2009], as a creditor repo for the purposes of [[^F146]section 546 of that Act]).
+
+## SCHEDULE 14 — Sale and repurchase of securities: minor and consequential amendments
+
+*Section 47*
+
+### Income and Corporation Taxes Act 1988 (c. 1)
+
+**1** ICTA is amended as follows.
+
+**[^F147]2** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F147]3** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**4** Omit sections 730A and 730B (treatment of price differential on sale and repurchase of securities).
+
+**5** Omit section 730BB (exchange gains and losses on sale and repurchase of securities).
+
+**[^F148]6** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**7** Omit sections 737A to 737C (sale and repurchase of securities: deemed manufactured payments).
+
+**8** Omit section 737E (power to modify sections 730A, 730BB and 737A to 737C).
+
+**[^F149][^F150]9** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F151]10** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Taxation of Chargeable Gains Act 1992 (c. 12)
+
+**11** TCGA 1992 is amended as follows.
+
+**12** (1) Section 263A (agreements for sale and repurchase of securities) is amended as follows.
+
+(2) In subsection (1), for the words from the beginning to “were different” substitute “ Subject to subsections (3) and (4) below, in any case falling within section 607(1) of ITA 2007 (treatment of price differences under repos) ”.
+
+(3) After that subsection insert—
+
+> (1A) If, at any time after the acquisition mentioned in subsection (1)(a) above, it becomes apparent that the interim holder will not dispose of the securities to the repurchaser, the interim holder shall be treated for the purposes of capital gains tax as acquiring them at that time for a consideration equal to their market value at that time.
+>
+> (1B) If, at any time after the disposal mentioned in subsection (1)(b) above, it becomes apparent that the original owner will not acquire the securities as the repurchaser, the original owner shall be treated for the purposes of capital gains tax as disposing of them at that time for a consideration equal to their market value at that time.
+
+(4) Omit subsection (2).
+
+(5) For subsections (5) and (6) substitute—
+
+> (5) Expressions used in this section and section 607 of ITA 2007 have the same meaning in this section as in that section.
+>
+> (6) This section does not apply for the purposes of corporation tax in respect of chargeable gains.
+
+(6) The heading accordingly becomes “ **Agreements for sale and repurchase of securities: capital gains tax** ”.
+
+**13** (1) For paragraph 12 of Schedule 7AC substitute—
+
+> **12** (1) This paragraph applies where—
+>
+> (a) a company (“the borrower”) which holds shares in another company sells the shares under an arrangement by reference to which the borrower has a debtor repo, and
+>
+> (b) by virtue of paragraph 6 of Schedule 13 to the Finance Act 2007 (sale and repurchase of securities) the sale is ignored for the purposes of corporation tax in respect of chargeable gains.
+>
+> (2) For the period for which the arrangement is in force—
+>
+> (a) the borrower shall be treated for the purposes of this Part as continuing to hold the shares and accordingly as retaining its entitlement to any rights attaching to them, and
+>
+> (b) the lender shall be treated for those purposes as not holding the shares and as not becoming entitled to any such rights.
+>
+> This is subject to the following qualification.
+>
+> (3) If at any time before the end of that period the borrower, or another member of the same group as the borrower, becomes the holder—
+>
+> (a) of any of the shares, or
+>
+> (b) of any shares directly or indirectly representing any of them,
+>
+> sub-paragraph (2) does not apply after that time in relation to those shares or, as the case may be, the shares represented by them.
+>
+> (4) Expressions used in this paragraph and in Schedule 13 to the Finance Act 2007 have the same meaning in this paragraph as in that Schedule.
+
+### Finance Act 1996 (c. 8)
+
+**[^F152]14** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F152]15** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F152]16** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F152]17** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F152]18** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Finance Act 1994 (c. 9)
+
+**19** In section 229(1)(ca) of FA 1994 (Lloyd's corporate members: regulations), for sub-paragraph (ii) substitute—
+
+> (ii) arrangements involving repos (within the meaning of paragraph 15 of Schedule 13 to the Finance Act 2007) or redemption arrangements (within the meaning of that paragraph);
+
+.
+
+### Finance Act 2006 (c. 25)
+
+**20** In section 139 of FA 2006 (Real Estate Investment Trusts: manufactured dividends), omit subsection (5).
+
+### Income Tax Act 2007 (c. 3)
+
+**21** ITA 2007 is amended as follows.
+
+**[^F153]22** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F153]23** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**24** In section 886(2) (interest paid by recognised clearing houses etc), after “repos)” insert “ , or paragraph 5 of Schedule 13 to FA 2007 (relief for borrower for finance charges in case of debtor repos and debtor quasi-repos), ”.
+
+## SCHEDULE 15 — Controlled foreign companies
+
+*Section 48*
+
+### Imputation of chargeable profits and creditable tax of controlled foreign companies
+
+**1** (1) Section 747 of ICTA (imputation of chargeable profits and creditable tax of controlled foreign companies) is amended as follows.
+
+(2) After subsection (3) insert—
+
+> (3A) In the case of an apportionment to a company resident in the United Kingdom which has made an application under section 751A which has been granted, subsection (3) above has effect subject to that section.
+
+(3) After subsection (5) insert—
+
+> (5A) Where the resident company has made an application under section 751A which has been granted, it shall be assumed for the purposes of subsection (5) above that—
+>
+> (a) each of the persons who are connected or associated with the resident company has made an application under that section to the same effect, and
+>
+> (b) all the applications have been granted.
+
+### Residence
+
+**2** In section 749 of ICTA (residence), insert at the end—
+
+> (10) For the purposes of subsection (8) and (9) above, the effect of any application under section 751A shall be disregarded.
+
+### Elections and designations under section 749: supplementary provisions
+
+**3** In section 749A of ICTA (elections and designations under section 749: supplementary provisions), insert at the end—
+
+> (9) For the purposes of this section the effect of any application under section 751A shall be disregarded.
+
+### Territories with a lower level of taxation
+
+**4** In section 750(3) of ICTA (territories with a lower level of taxation), after the “and” at the end of paragraph (a) insert—
+
+> (ab) there shall be disregarded the effect of any application under section 751A; and
+
+.
+
+### Reduction in chargeable profits for certain activities of EEA business establishments
+
+**5** In ICTA, after section 751 insert—
+
+> **Reduction in chargeable profits for certain activities of EEA business establishments**
+>
+> **751A** (1) This section applies if—
+>
+> (a) an apportionment under section 747(3) falls to be made as regards an accounting period (“the relevant accounting period”) of a controlled foreign company,
+>
+> (b) throughout that period the controlled foreign company has a business establishment in an EEA territory,
+>
+> (c) throughout that period there are individuals who work for the controlled foreign company in that territory, and
+>
+> (d) a company resident in the United Kingdom (“the UK resident company”) has a relevant interest in the controlled foreign company in that period.
+>
+> (2) The UK resident company may make an application to the Commissioners for Her Majesty's Revenue and Customs for the chargeable profits of the controlled foreign company for the relevant accounting period to be reduced by an amount (“the specified amount”) specified in the application (including to nil).
+>
+> (3) If the Commissioners grant the application—
+>
+> (a) those chargeable profits are treated as reduced by the specified amount, and
+>
+> (b) the controlled foreign company's creditable tax (if any) for that period is treated as reduced by so much of that tax as, on a just and reasonable basis, relates to the reduction in those chargeable profits,
+>
+> for the purpose of applying section 747(3) to (5) for determining the sum (if any) chargeable on the UK resident company under section 747(4)(a) (but for no other purpose).
+>
+> (4) The Commissioners may grant the application only if they are satisfied that the specified amount does not exceed the amount (if any) equal to so much of those chargeable profits as can reasonably be regarded as representing the net economic value which—
+>
+> (a) arises to the appropriate body of persons (taken as a whole), and
+>
+> (b) is created directly by qualifying work.
+>
+> (5) For the purposes of subsection (4) “net economic value” does not include any value which derives directly or indirectly from the reduction or elimination of any liability of any person to any tax or duty imposed under the law of any territory.
+>
+> (6) For the purposes of subsection (4) “the appropriate body of persons” means—
+>
+> (a) if the controlled foreign company is not a member of a group of companies, the controlled foreign company and the persons who have an interest in it at any time in the relevant accounting period, and
+>
+> (b) if the controlled foreign company is a member of a group of companies, all the persons falling within paragraph (a) and any other person who is a member of that group of companies,
+>
+> and for the purposes of this subsection “group of companies” means a company and any other companies of which it has control.
+>
+> (7) For the purposes of subsection (4) “qualifying work” means work which—
+>
+> (a) is done in any EEA territory in which the controlled foreign company has a business establishment throughout the relevant accounting period, and
+>
+> (b) is done in that territory by individuals working for the controlled foreign company there.
+>
+> (8) Any reference in this section to a business establishment of a controlled foreign company in an EEA territory is to be construed in accordance with paragraph 7 of Schedule 25 (but as if the reference in that paragraph to the territory in which the company is resident were to the EEA territory).
+>
+> (9) For the purposes of this section individuals are not to be regarded as working for a company in any territory unless—
+>
+> (a) they are employed by the company in the territory, or
+>
+> (b) they are otherwise directed by the company to perform duties on its behalf in the territory.
+>
+> **Section 751A: supplementary**
+>
+> **751B** (1) An application by a company under section 751A—
+>
+> (a) must be made in such form as the HMRC Commissioners may determine,
+>
+> (b) must be accompanied by such documents (or copies of documents) in the company's possession or power as those Commissioners may reasonably require for the purpose of determining whether to grant the application, and
+>
+> (c) must contain such information as those Commissioners may reasonably require for that purpose.
+>
+> (2) An application by a company under section 751A—
+>
+> (a) may be made at any time on or before the filing date (within the meaning of Schedule 18 to the Finance Act 1998) for the relevant company tax return of the company, and
+>
+> (b) may be amended or withdrawn at any time before the application is determined by those Commissioners.
+>
+> (3) If an application by a company under section 751A is granted after the company has delivered its relevant company tax return, it has 30 days beginning with the day on which the application is granted in which to amend that return to give effect to section 751A.
+>
+> (4) The time limits otherwise applicable to an amendment of a company tax return do not prevent an amendment being made under subsection (3).
+>
+> (5) If the HMRC Commissioners refuse an application by a company under section 751A, the company may appeal to the Special Commissioners against the refusal.
+>
+> (6) Notice of an appeal must be given in writing to the HMRC Commissioners within 30 days after the application is refused.
+>
+> (7) On an appeal—
+>
+> (a) if the Special Commissioners are satisfied that the relevant amount is a different amount from the amount specified in the application, they must direct the HMRC Commissioners to grant the application as if the amount specified in it were that different amount,
+>
+> (b) if the Special Commissioners are satisfied that the relevant amount is the amount specified in the application, they must direct the HMRC Commissioners to grant the application, and
+>
+> (c) in any other case, the Special Commissioners must confirm the refusal.
+>
+> (8) For the purposes of subsection (7) “the relevant amount” means the amount (if any) equal to so much of the chargeable profits mentioned in subsection (4) of section 751A as can reasonably be regarded as representing the value mentioned in that subsection.
+>
+> (9) Part 5 of the Management Act (appeals against assessments to tax), apart from section 50, applies in relation to an appeal under this section as it applies in relation to an appeal against an assessment to tax.
+>
+> (10) In this section “relevant company tax return”, in relation to a company, means the return for the accounting period for which—
+>
+> (a) any sum is chargeable on the company under section 747(4)(a), or
+>
+> (b) any sum would be so chargeable but for section 751A,
+>
+> in respect of the chargeable profits of the controlled foreign company for the accounting period mentioned in section 751A(1).
+>
+> (11) In this section “the HMRC Commissioners” means the Commissioners for Her Majesty's Revenue and Customs.
+
+### Interpretation
+
+**6** In section 756 of ICTA (interpretation and construction of Chapter 4 of Part 17), after subsection (1) insert—
+
+> (1A) In this Chapter “EEA territory”, in relation to any time, means a territory which is an EEA state at that time other than the United Kingdom.
+>
+> (1B) But a territory is not to be regarded for the purposes of subsection (1A) above as an EEA state at any time if—
+>
+> (a) it is not a member State at that time, and
+>
+> (b) there are no arrangements made in relation to the territory having effect by virtue of section 173 of the Finance Act 2006 (international tax enforcement arrangements) at that time.
+
+### Exempt activities test
+
+**7** (1) Part 2 of Schedule 25 to ICTA (supplementary provision in relation to cases where apportionment under section 747(3) does not apply: exempt activities) is amended as follows.
+
+(2) In paragraph 5, after sub-paragraph (1) insert—
+
+> (1A) Except as provided in paragraph 8 below, the provisions of this Part of this Schedule apply in relation to a company which is resident in an EEA territory in the same way as they apply in relation to a company which is resident elsewhere.
+
+(3) In paragraph 8, in sub-paragraph (1), after “fulfilled” insert “ in relation to a company which is not resident in an EEA territory ”.
+
+(4) Insert at the end of that paragraph—
+
+> (5) The condition in paragraph 6(1)(b) above shall not be regarded as fulfilled in relation to a company which is resident in an EEA territory unless there are sufficient individuals working for the company in the territory who have the competence and authority to undertake all, or substantially all, of the company's business.
+>
+> (6) For the purposes of sub-paragraph (5) above, individuals are not to be regarded as working for a company in any territory unless—
+>
+> (a) they are employed by the company in the territory, or
+>
+> (b) they are otherwise directed by the company to perform duties on its behalf in the territory.
+
+### Abolition of public quotation exemption
+
+**8** (1) In section 748(1) of ICTA (cases where apportionment under section 747(3) does not apply), omit paragraph (c) (together with the “or” at the end of it).
+
+(2) In Schedule 25 to ICTA (supplementary provision in relation to cases where apportionment under section 747(3) does not apply), omit Part 3 (the public quotation condition).
+
+### Discovery assessments
+
+**9** In paragraph 44(3) of Schedule 18 to FA 1998 (discovery assessment: situation not disclosed by return or related documents etc), in the definition of “relevant claim”, insert at the end “ or an application under section 751A of the Taxes Act 1988 made by or on behalf of the company which affects the company's tax return for the period in question ”.
+
+### Commencement
+
+**10** (1) The amendments made by this Schedule have effect in relation to accounting periods of controlled foreign companies beginning on or after 6th December 2006.
+
+(2) In the case of an accounting period (a “straddling period”) of a controlled foreign company—
+
+(a) beginning before 6th December 2006, and
+
+(b) ending on or after that date,
+
+the amendments made by this Schedule have effect as if, for the purposes of Chapter 4 of Part 17 of ICTA, so much of the straddling period as falls before that date, and so much of the straddling period as falls on or after that date, were separate accounting periods.
+
+(3) The company's chargeable profits for the straddling period, and its creditable tax (if any) for that period, are to be apportioned to the two separate accounting periods on a just and reasonable basis.
+
+(4) Each of the following expressions—
+
+- “accounting period”,
+- “chargeable profits”,
+- “controlled foreign company”, and
+- “creditable tax”,
+
+has the same meaning in this paragraph as in Chapter 4 of Part 17 of ICTA.
+
+## SCHEDULE 16 — Venture capital schemes etc
+
+*Section 51*
+
+### Part 1 — Limit on number of employees of company in which investment is made
+
+#### Corporate venturing scheme
+
+**1** (1) Part 3 of Schedule 15 to FA 2000 (requirements as to issuing company) is amended as follows.
+
+(2) In paragraph 15 (introduction to Part) after paragraph (f) insert—
+
+> (fa) number of employees (see paragraph 22A); and
+
+.
+
+(3) After paragraph 22 insert—
+
+> **The number of employees requirement**
+>
+> **22A** (1) If the issuing company is a single company, the full-time equivalent employee number for it must be less than 50 when the relevant shares are issued.
+>
+> (2) If the issuing company is a parent company, the sum of—
+>
+> (a) the full-time equivalent employee number for it, and
+>
+> (b) the full-time equivalent employee numbers for each of its qualifying subsidiaries,
+>
+> must be less than 50 when the relevant shares are issued.
+>
+> (3) The full-time equivalent employee number for a company is calculated as follows—
+>
+> *Step 1*
+>
+> Find the number of full-time employees of the company.
+>
+> *Step 2*
+>
+> Add, for each employee of the company who is not a full-time employee, such fraction as is just and reasonable.
+>
+> The result is the full-time equivalent employee number.
+>
+> (4) In this paragraph references to an employee—
+>
+> (a) include a director, but
+>
+> (b) do not include—
+>
+> (i) an employee on maternity or paternity leave, or
+>
+> (ii) a student on vocational training.
+
+(4) The amendments made by this paragraph do not have effect in relation to shares issued before the day on which this Act is passed.
+
+#### Enterprise investment scheme
+
+**2** (1) Chapter 4 of Part 5 of ITA 2007 (the issuing company) is amended as follows.
+
+(2) In section 180 (overview of Chapter 4), after paragraph (e) insert—
+
+> (ea) number of employees (see section 186A),
+
+.
+
+(3) After section 186 insert—
+
+> **The number of employees requirement**
+>
+> **186A** (1) If the issuing company is a single company, the full-time equivalent employee number for it must be less than 50 when the relevant shares are issued.
+>
+> (2) If the issuing company is a parent company, the sum of—
+>
+> (a) the full-time equivalent employee number for it, and
+>
+> (b) the full-time equivalent employee numbers for each of its qualifying subsidiaries,
+>
+> must be less than 50 when the relevant shares are issued.
+>
+> (3) The full-time equivalent employee number for a company is calculated as follows—
+>
+> *Step 1*
+>
+> Find the number of full-time employees of the company.
+>
+> *Step 2*
+>
+> Add, for each employee of the company who is not a full-time employee, such fraction as is just and reasonable.
+>
+> The result is the full-time equivalent employee number.
+>
+> (4) In this section references to an employee—
+>
+> (a) include a director, but
+>
+> (b) do not include—
+>
+> (i) an employee on maternity or paternity leave, or
+>
+> (ii) a student on vocational training.
+
+(4) The amendments made by this paragraph do not have effect in relation to—
+
+(a) shares issued before the day on which this Act is passed, or
+
+(b) shares issued to the managers of an approved fund which closed before that day.
+
+(5) For the purposes of sub-paragraph (4)(b)—
+
+(a) “the managers of an approved fund” has the same meaning as in section 251 of ITA 2007, and
+
+(b) the reference to shares issued to the managers of an approved fund is to shares issued to those managers as nominee for an individual who has invested in the fund.
+
+#### Venture capital trusts
+
+**3** (1) Part 6 of ITA 2007 is amended as follows.
+
+(2) In section 286(3) (qualifying holdings: introduction) after paragraph (j) insert—
+
+> (ja) number of employees (see section 297A),
+
+.
+
+(3) After section 297 insert—
+
+> **The number of employees requirement**
+>
+> **297A** (1) If the relevant company is a single company, the full-time equivalent employee number for it must be less than 50 when the relevant holding is issued.
+>
+> (2) If the relevant company is a parent company, the sum of—
+>
+> (a) the full-time equivalent employee number for it, and
+>
+> (b) the full-time equivalent employee numbers for each of its qualifying subsidiaries,
+>
+> must be less than 50 when the relevant holding is issued.
+>
+> (3) The full-time equivalent employee number for a company is calculated as follows—
+>
+> *Step 1*
+>
+> Find the number of full-time employees of the company.
+>
+> *Step 2*
+>
+> Add, for each employee of the company who is not a full-time employee, such fraction as is just and reasonable.
+>
+> The result is the full-time equivalent employee number.
+>
+> (4) In this section references to an employee—
+>
+> (a) include a director, but
+>
+> (b) do not include—
+>
+> (i) an employee on maternity or paternity leave, or
+>
+> (ii) a student on vocational training.
+
+(4) In section 327 (certain requirements of Chapter 4 to be treated as met)—
+
+(a) in subsection (1), at the end insert “ , and section 297A (the number of employees requirement). ”;
+
+(b) in subsection (4)(b) for “and 297” substitute “ , 297 and 297A ”.
+
+(5) This paragraph is deemed to have come into force on 6th April 2007.
+
+(6) The amendments made by this paragraph do not have effect in relation to—
+
+(a) a relevant holding issued before that date, or
+
+(b) a relevant holding acquired by a company (“the investing company”) [[^F154]before 6 April 2018] by means of the investment of protected money.
+
+(7) For the purposes of sub-paragraph (6)(b), “protected money” is—
+
+(a) money raised by the issue before 6th April 2007 of shares in or securities of the investing company, or
+
+(b) money derived from the investment of such money.
+
+### Part 2 — Limit on amount raised annually by company through risk capital schemes
+
+#### Corporate venturing scheme
+
+**4** (1) Schedule 15 to FA 2000 is amended as follows.
+
+(2) In paragraph 34 (introduction to Part) after sub-paragraph (a) insert—
+
+> (aa) the maximum amount raised annually through risk capital schemes (see paragraph 35A);
+
+.
+
+(3) After paragraph 35 insert—
+
+> **Requirement as to maximum amount raised annually through risk capital schemes**
+>
+> **35A** (1) The total amount of relevant investments made in the issuing company in the year ending with the date the relevant shares are issued must not exceed £2 million.
+>
+> (2) In sub-paragraph (1), the reference to relevant investments made in the issuing company includes relevant investments made in any company that is, or has at any time in the year mentioned there been, a subsidiary of the issuing company (whether or not it was such a subsidiary when the investment was made).
+>
+> (3) A “relevant investment” is made in a company if—
+>
+> (a) an investment (of any kind) in the company is made by a VCT, or
+>
+> (b) the company issues shares (money having been subscribed for them), and (at any time) the company provides—
+>
+> (i) a compliance statement under paragraph 42, or
+>
+> (ii) a compliance statement under section 205 of ITA 2007 (enterprise investment scheme),
+>
+> in respect of the shares.
+>
+> (4) An investment within sub-paragraph (3)(b) is regarded as made when the shares are issued.
+
+(4) In paragraph 63(1)(a) (withdrawal of relief: interest), after sub-paragraph (i) insert—
+
+> (ia) paragraph 35A (maximum amount raised annually through risk capital schemes);
+
+.
+
+#### Enterprise investment scheme
+
+**5** (1) Part 5 of ITA 2007 is amended as follows.
+
+(2) In section 172 (overview of Chapter), after paragraph (a) insert—
+
+> (aa) the maximum amount raised annually through risk capital schemes (see section 173A),
+
+.
+
+(3) After section 173 insert—
+
+> **The maximum amount raised annually through risk capital schemes requirement**
+>
+> **173A** (1) The total amount of relevant investments made in the issuing company in the year ending with the date the relevant shares are issued must not exceed £2 million.
+>
+> (2) In subsection (1), the reference to relevant investments made in the issuing company includes relevant investments made in any company that is, or has at any time in the year mentioned there been, a subsidiary of the issuing company (whether or not it was such a subsidiary when the investment was made).
+>
+> (3) A “relevant investment” is made in a company if—
+>
+> (a) an investment (of any kind) in the company is made by a VCT, or
+>
+> (b) the company issues shares (money having been subscribed for them), and (at any time) the company provides—
+>
+> (i) a compliance statement under section 205, or
+>
+> (ii) a compliance statement under paragraph 42 of Schedule 15 to FA 2000 (corporate venturing scheme),
+>
+> in respect of the shares.
+>
+> (4) An investment within subsection (3)(b) is regarded as made when the shares are issued.
+
+(4) In section 239(1) (withdrawal etc of relief: date from which interest is chargeable), in column 1 of the Table, after “163,” insert “ ;173A ”.
+
+(5) The amendments made by this paragraph do not have effect in relation to shares issued to the managers of an approved fund which closed before the day on which this Act is passed.
+
+(6) Paragraph 2(5) (meaning of “the managers of an approved fund” etc) applies for the purposes of sub-paragraph (5).
+
+#### Venture capital trusts
+
+**6** (1) Chapter 4 of Part 6 of ITA 2007 (qualifying holdings) is amended as follows.
+
+(2) In section 286(3) (introduction) after paragraph (e) insert—
+
+> (ea) the maximum amount raised annually through risk capital schemes (see section 292A),
+
+.
+
+(3) After section 292 insert—
+
+> **The maximum amount raised annually through risk capital schemes requirement**
+>
+> **292A** (1) The total amount of relevant investments made in the relevant company in the year ending with the date the relevant holding is issued must not exceed £2 million.
+>
+> (2) In subsection (1), the reference to relevant investments made in the relevant company includes relevant investments made in any company that is, or has at any time in the year mentioned there been, a subsidiary of the relevant company (whether or not it was such a subsidiary when the investment was made).
+>
+> (3) A “relevant investment” is made in a company if—
+>
+> (a) an investment (of any kind) in the company is made by a VCT, or
+>
+> (b) the company issues shares (money having been subscribed for them), and (at any time) the company provides—
+>
+> (i) a compliance statement under section 205 (enterprise investment scheme), or
+>
+> (ii) a compliance statement under paragraph 42 of Schedule 15 to FA 2000 (corporate venturing scheme),
+>
+> in respect of the shares.
+>
+> (4) For the purposes of subsections (1) and (2), an investment within subsection (3)(b) is regarded as made when the shares are issued.
+>
+> (5) Subsection (6) applies if, by virtue of the provision of a compliance statement under section 205 above or paragraph 42 of Schedule 15 to FA 2000, the requirement of this section is not met.
+>
+> (6) The requirement is to be treated as having been met throughout the period—
+>
+> (a) beginning with the time the relevant holding was issued, and
+>
+> (b) ending with the time the compliance statement was provided.
+
+(4) This paragraph is deemed to have come into force on 6th April 2007.
+
+(5) The amendments made by this paragraph do not have effect in relation to an investment made by a VCT of protected money.
+
+(6) “Protected money” means—
+
+(a) money raised by the issue on or before 5th April 2007 of shares in or securities of the VCT, and
+
+(b) money derived from the investment of such money.
+
+#### Enterprise investment scheme: reinvestment
+
+**7** (1) Schedule 5B to TCGA 1992 is amended as follows.
+
+(2) In paragraph 1 (application of Schedule)—
+
+(a) in sub-paragraph (2), after paragraph (d) insert—
+
+> (da) the total amount of relevant investments made in the company in the year ending with the date the shares are issued does not exceed £2 million,
+
+, and
+
+(b) after sub-paragraph (5) insert—
+
+> (6) Section 173A(3) and (4) of ITA 2007 (meaning of “relevant investment”) apply for the purposes of sub-paragraph (2)(da).
+>
+> (7) In sub-paragraph (2)(da), the reference to relevant investments made in the company includes relevant investments made in a company that is, or has at any time in the year mentioned there been, a subsidiary of the company (whether or not it was such a subsidiary when the investment was made).
+
+(3) In paragraph 1A(1) (failure of conditions of application), after “(2)(b)” insert “ ;or (2)(da) ”.
+
+#### Transitional provision
+
+**8** (1) This paragraph applies for the purposes of—
+
+(a) paragraph 35A of Schedule 15 to FA 2000,
+
+(b) section 173A of ITA 2007 (including that section as applied by paragraph 1(6) of Schedule 5B to TCGA 1992), and
+
+(c) section 292A of ITA 2007.
+
+(2) References to investments made by a VCT do not include—
+
+(a) investments made on or before 5th April 2007,
+
+(b) investments of protected money (as defined by paragraph 6(6)).
+
+(3) References to shares in respect of which compliance statements are provided do not include—
+
+(a) shares issued before the day on which this Act is passed, or
+
+(b) shares issued to the managers of an approved fund which closed before that day.
+
+(4) Paragraph 2(5) (meaning of “the managers of an approved fund” etc) applies for the purposes of sub-paragraph (3)(b) above.
+
+### Part 3 — Excluded activities: receipt of royalties and licence fees
+
+#### Corporate venturing scheme
+
+**9** (1) Paragraph 29 of Schedule 15 to FA 2000 is amended as follows.
+
+(2) In sub-paragraph (3), for paragraphs (a) and (b) substitute—
+
+> (a) by the issuing company, or
+>
+> (b) by a company which was a qualifying subsidiary of the issuing company throughout a period during which it created the whole or greater part (in terms of value) of the intangible asset.
+
+(3) After sub-paragraph (6) insert—
+
+> (7) If—
+>
+> (a) the issuing company acquired all the shares (“old shares”) in another company (“the old company”) at a time when the only shares issued in the issuing company were subscriber shares, and
+>
+> (b) the consideration for the old shares consisted wholly of the issue of shares in the issuing company,
+>
+> references in sub-paragraph (3) to the issuing company include the old company.
+
+**10** In paragraph 86(2) (substitution of new shares for old shares), after “Schedule”, in the first place it occurs, insert “ ;(except paragraph 29(7)) ”.
+
+#### Enterprise investment scheme
+
+**11** (1) In section 297 of ICTA (qualifying trades)—
+
+(a) in subsection (5), for paragraphs (a) and (b) substitute—
+
+> (a) by the company mentioned in section 293(1), or
+>
+> (b) by a company which was a subsidiary of that company throughout a period during which it created the whole or greater part (in terms of value) of the intangible asset.
+
+,
+
+(b) in subsection (5A), omit paragraphs (b) and (c) and the words after paragraph (c), and
+
+(c) after subsection (5C) insert—
+
+> (5D) If—
+>
+> (a) the company mentioned in section 293(1) (“the issuing company”) acquired all the shares (“old shares”) in another company (“the old company”) at a time when the only shares issued in the issuing company were subscriber shares, and
+>
+> (b) the consideration for the old shares consisted wholly of the issue of shares in the issuing company,
+>
+> references in subsection (5) above to the company mentioned in section 293(1) include the old company.
+
+(2) In section 304A of that Act (acquisition of share capital by new company)—
+
+(a) in subsection (3), after “Chapter” insert “ ;(except section 297(5D)) ”, and
+
+(b) in subsection (4), after “Chapter” insert “ ;(except section 297(5D)) ”.
+
+[^F155]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F155]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) In section 137 of ITA 2007 (share loss relief: trading requirement for shares to which EIS relief not attributable), after subsection (8) insert—
+
+> (9) In section 195 as applied by subsection (7) for the purposes mentioned in subsection (8), references to the issuing company are to be read as references to the company mentioned in subsection (1).
+
+(6) In section 146 of that Act (share loss relief: substitution of new shares for old), after subsection (2) insert—
+
+> (3) Nothing in subsection (2) applies in relation to section 195(7) as applied by section 137(7) for the purposes mentioned in section 137(8).
+
+(7) In section 195 of ITA 2007 (EIS: excluded activities: receipt of royalties and licence fees)—
+
+(a) in subsection (4), for paragraphs (a) and (b) substitute—
+
+> (a) by the issuing company, or
+>
+> (b) by a company which was a qualifying subsidiary of the issuing company throughout a period during which it created the whole or greater part (in terms of value) of the intangible asset.
+
+,
+
+(b) in subsection (6), omit the definition of “holding company”, and
+
+(c) after that subsection insert—
+
+> (7) If—
+>
+> (a) the issuing company acquired all the shares (“old shares”) in another company (“the old company”) at a time when the only shares issued in the issuing company were subscriber shares, and
+>
+> (b) the consideration for the old shares consisted wholly of the issue of shares in the issuing company,
+>
+> references in subsection (4) to the issuing company include the old company.
+
+(8) In section 249 of that Act (substitution of new shares for old shares)—
+
+(a) in subsection (2), after “Part” insert “ ;(except section 195(7)) ”, and
+
+(b) in subsection (4), after “Part” insert “ ;(except section 195(7)) ”.
+
+#### Venture capital trusts
+
+**12** (1) Section 306 of ITA 2007 (qualifying holdings) is amended as follows.
+
+(2) In subsection (4), for paragraphs (a) and (b) substitute—
+
+> (a) by the relevant company, or
+>
+> (b) by a company which was a qualifying subsidiary of the relevant company throughout a period during which it created the whole or greater part (in terms of value) of the intangible asset.
+
+(3) In subsection (6), omit the definition of “holding company”.
+
+(4) After that subsection insert—
+
+> (7) If—
+>
+> (a) the relevant company acquired all the shares (“old shares”) in another company (“the old company”) at a time when the only shares issued in the relevant company were subscriber shares, and
+>
+> (b) the consideration for the old shares consisted wholly of the issue of shares in the relevant company,
+>
+> references in subsection (4) to the relevant company include the old company.
+
+#### Commencement
+
+**13** This Part of this Schedule is deemed to have come into force on 6th April 2007.
+
+#### Transitional provision
+
+**14** (1) This paragraph applies if—
+
+(a) shares in or securities of a company (“the company”) were issued before 6th April 2007,
+
+(b) immediately before that date—
+
+(i) the right to exploit an intangible asset (“the asset”) was vested in the company or a subsidiary of it (in either case, whether alone or jointly with others), and
+
+(ii) the asset was a relevant intangible asset,
+
+(c) at any time on or after that date, an activity carried on by the company or a subsidiary of it would be an excluded activity by reason only of the receipt of royalties or licence fees attributable to the exploitation of the asset, and
+
+(d) the activity would not be an excluded activity if the amendments made by this Part of this Schedule had not been made.
+
+(2) The activity is to be treated, in relation to those shares or securities, as not being an excluded activity at that time.
+
+(3) In sub-paragraphs (1) and (2), references to an excluded activity are to be read—
+
+(a) for the purposes of Chapter 3 of Part 7 of ICTA (including any provision of that Chapter as applied by any other provision), as references to—
+
+(i) an activity within section 293(3B)(a) of ICTA, or
+
+(ii) an activity within subsection (2) of section 297 of ICTA which causes a trade to fail to comply with that section,
+
+(b) for the purposes of Schedule 15 to FA 2000, as references to an excluded activity other than the receiving of royalties or licence fees within paragraph 29 of that Schedule in circumstances where the requirements of sub-paragraph (2) of that paragraph are met.
+
+### Part 4 — Meaning of “qualifying 90% subsidiary”
+
+#### Corporate venturing scheme
+
+**15** (1) Schedule 15 to FA 2000 is amended as follows.
+
+(2) In paragraph 23 (trading activities requirement), omit sub-paragraphs (10) and (11).
+
+(3) After that paragraph insert—
+
+> **Meaning of “qualifying 90% subsidiary”**
+>
+> **23A** (1) For the purposes of this Schedule, a company (“the subsidiary”) is a qualifying 90% subsidiary of the issuing company if the following conditions are met—
+>
+> (a) the issuing company possesses not less than 90% of the issued share capital of, and not less than 90% of the voting power in, the subsidiary;
+>
+> (b) the issuing company would—
+>
+> (i) in the event of a winding up of the subsidiary, or
+>
+> (ii) in any other circumstances,
+>
+> be beneficially entitled to receive not less than 90% of the assets of the subsidiary which would then be available for distribution to the shareholders of the subsidiary;
+>
+> (c) the issuing company is beneficially entitled to not less than 90% of any profits of the subsidiary which are available for distribution to the shareholders of the subsidiary;
+>
+> (d) no person other than the issuing company has control of the subsidiary within the meaning of section 840 of the Taxes Act 1988;
+>
+> (e) no arrangements are in existence by virtue of which any of the conditions in paragraphs (a) to (d) would cease to be met.
+>
+> (2) Paragraph 21(3) and (4) (effect of receivership etc) apply in relation to the conditions in sub-paragraph (1) as they apply in relation to the conditions in paragraph 21(2).
+>
+> (3) If—
+>
+> (a) arrangements are in existence for the disposal by the issuing company of all its interest in the subsidiary, and
+>
+> (b) the disposal is to be for commercial reasons and is not to be part of a scheme or arrangement the main purpose of which, or one of the main purposes of which, is the avoidance of tax,
+>
+> the subsidiary is not to be regarded as having ceased on that account to be a qualifying 90% subsidiary of the issuing company.
+>
+> (4) For the purposes of this Schedule, a company (“company A”) which is a subsidiary of a company that is not the issuing company (“company B”) is a qualifying 90% subsidiary of the issuing company if—
+>
+> (a) company A would be a qualifying 90% subsidiary of company B (if company B were the issuing company), and company B is a qualifying 100% subsidiary of the issuing company; or
+>
+> (b) company A is a qualifying 100% subsidiary of company B, and company B is a qualifying 90% subsidiary of the issuing company.
+>
+> (5) For the purposes of sub-paragraph (4), no account is to be taken of any control the issuing company may have of company A.
+>
+> (6) For those purposes, a company (“company X”) is a qualifying 100% subsidiary of another company (“company Y”) at any time when the conditions in sub-paragraph (1) would be met if—
+>
+> (a) company X were the subsidiary;
+>
+> (b) company Y were the issuing company; and
+>
+> (c) in sub-paragraph (1) for “not less than 90%” in each place there were substituted “100%”.
+
+(4) In paragraph 103 (index of defined expressions), in the entry relating to the definition of “qualifying 90% subsidiary”, for “paragraph 23(10) and (11)” substitute “ ;paragraph 23A ”.
+
+#### Enterprise investment scheme etc
+
+**16** (1) In Chapter 3 of Part 7 of ICTA—
+
+(a) in section 289 (eligibility for relief), for subsections (9) to (13) substitute—
+
+> (9) Section 190 of ITA 2007 (meaning of “qualifying 90% subsidiary”) applies for the purposes of this Chapter.
+
+;
+
+(b) in section 312(1) (interpretation of Chapter), in the definition of “qualifying 90% subsidiary”, omit “to (13)”.
+
+(2) In section 190 of ITA 2007 (EIS: meaning of “qualifying 90% subsidiary”), after subsection (1) insert—
+
+> (1A) For the purposes of this Part, a company (“company A”) which is a subsidiary of another company (“company B”) is a qualifying 90% subsidiary of a third company (“company C”) if—
+>
+> (a) company A is a qualifying 90% subsidiary of company B, and company B is a qualifying 100% subsidiary of company C, or
+>
+> (b) company A is a qualifying 100% subsidiary of company B, and company B is a qualifying 90% subsidiary of company C.
+>
+> (1B) For the purposes of subsection (1A), no account is to be taken of any control company C may have of company A.
+>
+> (1C) For those purposes, a company (“company X”) is a qualifying 100% subsidiary of another company (“company Y”) at any time when the conditions in subsection (1)(a) to (e) would be met if—
+>
+> (a) company X were the subsidiary,
+>
+> (b) company Y were the relevant company, and
+>
+> (c) in subsection (1) for “at least 90%” in each place there were substituted “ ;100% ”.
+
+#### Venture capital trusts
+
+**17** In section 301 of ITA 2007, after subsection (1) insert—
+
+> (1A) For the purposes of this Chapter, a company (“company A”) which is a subsidiary of a company that is not the relevant company (“company B”) is a qualifying 90% subsidiary of the relevant company if—
+>
+> (a) company A would be a qualifying 90% subsidiary of company B (if company B were the relevant company), and company B is a qualifying 100% subsidiary of the relevant company, or
+>
+> (b) company A is a qualifying 100% subsidiary of company B, and company B is a qualifying 90% subsidiary of the relevant company.
+>
+> (1B) For the purposes of subsection (1A), no account is to be taken of any control the relevant company may have of company A.
+>
+> (1C) For those purposes, a company (“company X”) is a qualifying 100% subsidiary of another company (“company Y”) at any time when the conditions in subsection (1)(a) to (e) would be met if—
+>
+> (a) company X were the subsidiary,
+>
+> (b) company Y were the relevant company, and
+>
+> (c) in subsection (1) for “at least 90%” in each place there were substituted “ ;100% ”.
+
+#### Commencement
+
+**18** This Part of this Schedule is deemed to have come into force on 6th April 2007.
+
+### Part 5 — Other amendments
+
+#### EIS: approved investment funds
+
+**19** (1) In Part 5 of ITA 2007 (enterprise investment scheme), in section 251(1)(c) (approved investment fund as nominee), for “6” substitute “ ;12 ”.
+
+(2) The amendment made by this paragraph has effect in relation to approved funds which closed or close on or after 7 October 2006.
+
+#### VCTs: disposal of holding
+
+**20** (1) Chapter 3 of Part 6 of ITA 2007 (VCT approvals) is amended as follows.
+
+(2) In section 274(3) (requirements for the giving of approval), at the end of paragraph (d) insert
+
+> , and
+>
+> (e) the 70% qualifying holdings condition by section 280A
+
+.
+
+(3) After section 280 insert—
+
+> **The 70% qualifying holdings condition: disposal of holding**
+>
+> **280A** (1) This section applies if—
+>
+> (a) a company which is a VCT disposes of shares or securities (“the holding”),
+>
+> (b) the consideration for the disposal does not consist wholly of new qualifying holdings, and
+>
+> (c) the holding was comprised in the company's qualifying holdings throughout the 6 months ending immediately before the disposal.
+>
+> (2) For the purpose of determining whether the 70% qualifying holdings condition is, has been or will be met—
+>
+> (a) the company is to be treated as if it continued to hold the holding for the period of 6 months beginning with the disposal (but see subsection (4)), and
+>
+> (b) the value of the company's investments in that period is to be treated as reduced by the amount of any monetary consideration for the disposal.
+>
+> (3) The value of the holding in the period mentioned in subsection (2)(a) is to be treated as equal to its value (determined in accordance with this Chapter) immediately before the disposal.
+>
+> (4) If the consideration for the disposal includes new qualifying holdings, subsection (2)(a) has effect as if the reference to the holding were to the appropriate proportion of the holding (the value of which is that proportion of the value of the holding, determined in accordance with subsection (3)).
+>
+> (5) The appropriate proportion is—
+>
+> (TC - NQH)/(TC) where— TC is the market value (at the time of the disposal) of the total consideration for the disposal, and NQH is the market value (at that time) of the new qualifying holdings.
+>
+> (6) If at any time the value of the company's investments would by virtue of subsection (2)(b) be reduced to an amount less than the value of its qualifying holdings, the value of its investments at that time is to be treated as equal to the value of its qualifying holdings.
+>
+> (7) “New qualifying holdings” means shares or securities which (on transfer to the company) are comprised in the company's qualifying holdings.
+>
+> (8) If (and to the extent that) the holding was acquired with money the use of which is at any time ignored by virtue of section 280(2), subsections (2) to (6) do not apply in relation to that time.
+>
+> (9) Nothing in this section applies in relation to disposals between companies that are merging (within the meaning of section 323).
+
+(4) This paragraph is deemed to have come into force on 6th April 2007.
+
+(5) The amendments made by this paragraph have effect in relation to disposals made on or after that date.
+
+#### VCTs: power to make regulations as to breaches of conditions
+
+**21** (1) In section 284 of ITA 2007 (power to make regulations as to procedure), in the existing provision (which becomes subsection (1))—
+
+(a) after paragraph (a) insert—
+
+> (aa) for and in connection with the making by a company of an application to the Commissioners for Her Majesty's Revenue and Customs (“the Commissioners”) for relief in respect of a breach (including a future breach) of the conditions for its VCT approval to continue in force,
+
+,
+
+(b) in paragraph (c), for the words from “that the conditions” to the end substitute—
+
+> (i) that the conditions for its VCT approval to continue in force are no longer met, or
+>
+> (ii) that it is likely that those conditions will cease to be met,
+
+, and
+
+(c) in paragraph (d) omit “for Her Majesty's Revenue and Customs”.
+
+(2) After subsection (1) insert—
+
+> (2) In subsection (1)(aa), the reference to relief in respect of a breach of the conditions mentioned there is to a determination by the Commissioners that they will not exercise their power to withdraw the company's VCT approval by reason of the breach for such period as they may determine (and subject to such conditions as they may determine).
+>
+> (3) The provision that may be made by virtue of subsection (1)(aa) includes—
+>
+> (a) provision as to the procedure to be followed in relation to applications and determinations,
+>
+> (b) provision as to the grounds on which applications may be made or determined, and
+>
+> (c) provision conferring a discretion to be exercised by the Commissioners.
+
+## SCHEDULE 17 — Real Estate Investment Trusts
+
+*Section 52*
+
+**[^F156]1** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F156]2** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F156]3** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F156]4** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F156]5** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F156]6** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F156]7** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F156]8** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F156]9** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F156]10** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F156]11** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F156]12** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F156]13** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F156]14** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F156]15** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F156]16** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F156]17** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**18** In section 531 of ITA 2007 (charities: exemptions)—
+
+(a) after subsection (2) insert—
+
+> (2A) Distributions to which section 121 of FA 2006 (Real Estate Investment Trusts: distributions) applies and which are chargeable to income tax under Part 2 or Part 3 of ITTOIA 2005 are not taken into account in calculating total income so far as they arise in respect of shares vested in a person in trust for a charitable trust or for charitable purposes.
+
+, and
+
+(b) in subsection (3), for “and (2)” substitute “ to (2A) ”.
+
+## SCHEDULE 18 — Pensions schemes: abolition of relief for life assurance premium contributions etc
+
+*Section 68*
+
+### Introduction
+
+**1** Part 4 of FA 2004 (pension schemes etc) is amended as follows.
+
+### Life assurance premium contributions not to be relievable pension contributions
+
+**2** In section 188(3) (relief for members' contributions: contributions which are not relievable pension contributions), after paragraph (a) insert—
+
+> (aa) any contributions which are life assurance premium contributions (see section 195A),
+
+.
+
+### Life assurance premium contributions
+
+**3** After section 195 insert—
+
+> **Life assurance premium contributions**
+>
+> **195A** (1) Contributions paid by or on behalf of an individual under a registered pension scheme are life assurance premium contributions for the purposes of section 188(3)(aa) if—
+>
+> (a) rights under a non-group life policy (see subsection (2)) are (or later become) held for the purposes of the pension scheme, and
+>
+> (b) the contributions are treated by this section as paid in respect of premiums under the non-group life policy (see subsections (3) to (5)).
+>
+> (2) For the purposes of this section a “non-group life policy” is a policy of insurance under which the only benefits which may become payable are benefits payable in consequence, or in anticipation, of—
+>
+> (a) the death of the individual or one of a group of individuals which includes the individual, or
+>
+> (b) the deaths of more than one of a group of individuals—
+>
+> (i) which includes the individual, and
+>
+> (ii) the other members of which are connected with the individual.
+>
+> (3) Contributions paid by or on behalf of the individual under the pension scheme are treated as paid in respect of premiums under the non-group life policy if—
+>
+> (a) the payment of the contributions constitutes the payment of premiums under the policy, or
+>
+> (b) the person by whom the contributions are paid intends the contributions (or an amount equivalent to them) to be applied towards paying premiums under the policy.
+>
+> (4) Where the amount of the premiums under the policy in a tax year exceeds the amount of any contributions treated as paid in respect of the premiums by subsection (3), other contributions paid by or on behalf of the individual under the pension scheme in the tax year are treated as paid in respect of premiums under the policy to the extent that their amount does not exceed the difference between the amount of the premiums and the amount of any contributions treated as paid in respect of the premiums by subsection (3).
+>
+> (5) But where—
+>
+> (a) the benefits under the policy relate to the death of one or more of a group of individuals, and
+>
+> (b) contributions are also paid under the pension scheme in the tax year by or on behalf of another member or other members of the group,
+>
+> the amount of the contributions paid by or on behalf of the individual which are treated as paid in respect of premiums under the policy by subsection (4) does not exceed what is just and reasonable having regard to the operation of section 188(3)(aa) in relation to the contributions paid by or on behalf of another member or other members of the group.
+>
+> (6) The Commissioners for Her Majesty's Revenue and Customs may by regulations amend subsections (2) to (5).
+>
+> (7) Regulations under subsection (6) which limit—
+>
+> (a) the policies of insurance which are non-group life assurance policies for the purposes of this section, or
+>
+> (b) the contributions which are treated by this section as paid in respect of premiums under such policies,
+>
+> may be made so as to have effect in relation to times before they are made.
+>
+> (8) For the purposes of this section an individual (“A”) is connected with another individual (“B”) if—
+>
+> (a) A is B's spouse or civil partner,
+>
+> (b) A is a relative of B,
+>
+> (c) A is the spouse or civil partner of a relative of B,
+>
+> (d) A is a relative of B's spouse or civil partner, or
+>
+> (e) A is the spouse or civil partner of a relative of B's spouse or civil partner;
+>
+> and for the purposes of this subsection “relative” means brother, sister, ancestor or lineal descendant.
+
+### Commencement: schemes other than occupational pension schemes
+
+**4** (1) In relation to contributions under any pension scheme that is not an occupational pension scheme, the amendments made by this Schedule have effect in relation to contributions paid on or after 6th April 2007.
+
+(2) But they do not have effect in relation to such contributions paid at any time if the contributions are treated as paid in respect of premiums under a policy of insurance which at that time is a protected policy (see paragraph 5).
+
+**5** (1) This paragraph specifies when a policy of insurance is a protected policy in a case where the rights under it are held for the purposes of a pension scheme that is not an occupational pension scheme.
+
+(2) A policy of insurance within sub-paragraph (3) or (4) is a protected policy but only until a relevant event occurs (see sub-paragraphs (5) and (6)).
+
+(3) A policy of insurance is within this sub-paragraph if—
+
+(a) it is issued in respect of insurances made before 6th December 2006,
+
+(b) the pension scheme became a registered pension scheme before that date, and
+
+(c) rights under the policy became held for the purposes of the pension scheme before that date.
+
+(4) A policy of insurance is within this sub-paragraph if—
+
+(a) it is issued in respect of insurances made before 1st August 2007,
+
+(b) the pension scheme became a registered pension scheme before that date,
+
+(c) rights under the policy became held for the purposes of the pension scheme before that date,
+
+(d) the policy was issued in pursuance of a proposal made in writing (by whatever means) and received by or on behalf of the insurer before the appropriate date,
+
+(e) the amount of the benefits payable under the policy (at the latest of the time when the insurances were made, the pension scheme was registered or rights under the policy became held for the purposes of the pension scheme) is no more than the amount applied for in the proposal,
+
+(f) the period for which benefits are so payable (at the latest of those times) is no longer than the period specified in the proposal, and
+
+(g) the policy is not a protected policy by virtue of sub-paragraph (3).
+
+(5) In sub-paragraph (4)(d) “the appropriate date” means—
+
+(a) 13th April 2007, in any case where, on the day of the making of the insurances in respect of which the policy of insurance was issued, the rights of the individual under the pension scheme included an actual or prospective entitlement to a pension, and
+
+(b) 14th December 2006, in any other case.
+
+(6) For the purposes of sub-paragraph (2) a “relevant event” occurs if, after the relevant time, the terms of the policy are varied so as to—
+
+(a) increase the benefits payable under the policy, or
+
+(b) extend the period during which benefits are so payable.
+
+(7) But where, on the day of the variation, the rights of the individual under the pension scheme included an actual or prospective entitlement to a pension, a relevant event does not occur by virtue of the variation if it was made in pursuance of a proposal made in writing (by whatever means) and received by or on behalf of the insurer before 13th April 2007.
+
+(8) “The relevant time”—
+
+(a) in the case of a policy of insurance within sub-paragraph (3) which is issued in respect of insurances made before 6th April 2006, is 20th March 2007,
+
+(b) in the case of any other policy of insurance within sub-paragraph (3), is 5th December 2006, and
+
+(c) in the case of a policy of insurance within sub-paragraph (4), is the time when it became a protected policy.
+
+### Commencement: occupational pension schemes
+
+**6** (1) In relation to contributions under any occupational pension scheme, the amendments made by this Schedule have effect in relation to contributions paid on or after 1st August 2007.
+
+(2) But they do not have effect in relation to such contributions paid at any time if the contributions are treated as paid in respect of premiums under a policy of insurance which at that time is a protected policy (see paragraph 7).
+
+**7** (1) This paragraph specifies when a policy of insurance is a protected policy in a case where the rights under it are held for the purposes of an occupational pension scheme.
+
+(2) A policy of insurance within sub-paragraph (3) or (4) is a protected policy but only until a relevant event occurs (see sub-paragraphs (5) to (7)).
+
+(3) A policy of insurance is within this sub-paragraph if—
+
+(a) it is issued in respect of insurances made before 21st March 2007,
+
+(b) the pension scheme became a registered pension scheme before that date, and
+
+(c) rights under the policy became held for the purposes of the pension scheme before that date.
+
+(4) A policy of insurance is within this sub-paragraph if—
+
+(a) it is issued in respect of insurances made before 1st August 2007,
+
+(b) the pension scheme became a registered pension scheme before that date,
+
+(c) rights under the policy became held for the purposes of the pension scheme before that date,
+
+(d) the policy was issued in pursuance of a proposal made in writing (by whatever means) and received by or on behalf of the insurer before 29th March 2007,
+
+(e) the amount of the benefits payable under the policy (at the latest of the time when the insurances were made, the pension scheme was registered or rights under the policy became held for the purposes of the pension scheme) is no more than the amount applied for in the proposal,
+
+(f) the period for which benefits are so payable (at the latest of those times) is no longer than the period specified in the proposal, and
+
+(g) the policy is not a protected policy by virtue of sub-paragraph (3).
+
+(5) For the purposes of sub-paragraph (2) a “relevant event” occurs if, after the relevant time, the terms of the policy are varied so as to—
+
+(a) increase the benefits payable under the policy, or
+
+(b) extend the period during which benefits are so payable.
+
+(6) “The relevant time”—
+
+(a) in the case of a policy of insurance within sub-paragraph (3), is 20th March 2007, and
+
+(b) in the case of a policy of insurance within sub-paragraph (4), is the time when it became a protected policy.
+
+(7) A variation of the terms of a policy made in order to comply with the [[^F157]Equality Act 2010, so far as relating to age,] or Employment Equality (Age) Regulations (Northern Ireland) 2006 (S.R. 2006/261) (or any regulations amending or replacing [[^F158]those Regulations]) is to be ignored for the purposes of sub-paragraph (5).
+
+### Power to amend commencement provisions
+
+**8** (1) The Commissioners for Her Majesty's Revenue and Customs may by regulations amend paragraphs 4 to 7.
+
+(2) Regulations under sub-paragraph (1) having the effect of limiting the contributions which are life assurance premium contributions may be made so as to have effect in relation to times before they are made.
+
+## SCHEDULE 19 — Alternatively secured pensions and transfer lump sum death benefit etc
+
+*Section 69*
+
+### Introduction
+
+**1** Part 4 of FA 2004 (pension schemes etc) is amended as follows.
+
+### Alternatively secured pension: guaranteed pension and maximum
+
+**2** (1) In section 165(1) (pension rules) is amended as follows.
+
+(2) In pension rule 2 (guaranteed pensions)—
+
+(a) for “, an annuity or alternatively secured pension” substitute “ or an annuity ”, and
+
+(b) for “, annuity or alternatively secured pension” substitute “ or annuity ”.
+
+[^F159]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**3** In paragraph 12 of Schedule 28 (pension rules: alternatively secured pension year), omit sub-paragraphs (3) and (4) (guaranteed pensions).
+
+### Maximum dependants' alternatively secured pension
+
+**[^F160]4** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Abolition of transfer lump sum death benefit
+
+**5** In section 168(1) (lump sum death benefit rule), omit paragraph (g) (transfer lump sum death benefit).
+
+**6** Omit section 172B(5)(a) (reduction for transfer lump sum death benefit).
+
+**7** In section 188(5) (amounts not to be treated as contributions), omit paragraph (b) and the word “and” before it.
+
+**8** In section 280(2) (index), omit the entry relating to transfer lump sum death benefit.
+
+**9** In Schedule 29, omit paragraph 19 (transfer lump sum death benefit).
+
+**10** In paragraph 17A of Schedule 36 (“enhanced protection”)—
+
+(a) in sub-paragraph (1), insert “ or ” after paragraph (a) and omit paragraph (c) and the word “or” before it, and
+
+(b) in sub-paragraph (2), omit “, or to a transfer lump sum death benefit being paid,”.
+
+### Untraceable members
+
+**[^F161]11** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Increase in rights on death
+
+**12** (1) Section 172B (increase in rights of connected person on death) is amended as follows.
+
+[^F162]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) In subsection (4), for “(6)” substitute “ (5) ”.
+
+(4) In subsection (7)(a), after “there” insert “ are ”.
+
+[^F163]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F164]13** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Minimum alternatively secured pension and dependants' alternatively secured pension
+
+**[^F164]14** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F164]15** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Charity lump sum death benefit
+
+**16** (1) Paragraph 18 of Schedule 29 (charity lump sum death benefit) is amended as follows.
+
+[^F165]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F165]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F165]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) In sub-paragraph (2)(e), for “(or, if the member made no nomination, by the dependant).” substitute “ or, if the member made no nomination, by the dependant (or, if neither the member nor the dependant made a nomination, selected by the scheme administrator). ”
+
+[^F166]6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Discharge of liability to scheme chargeable payment
+
+**17** In section 268(6) (unauthorised payments surcharge and scheme chargeable payments), for “(assignment)” substitute “ , 172A, 172B, 172BA, 172C or 172D or arises under section 181A ”.
+
+### Non-UK schemes
+
+**18** (1) Schedule 34 (non-UK schemes application of certain charges) is amended as follows.
+
+(2) In paragraph 1(6), omit the words from “but also” to the end.
+
+(3) In paragraph 4(3), omit the words from “but also” to the end.
+
+[^F167]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Inheritance tax
+
+**19** IHTA 1984 is amended as follows.
+
+**[^F168]20** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F168]21** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F168]22** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F168]23** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F168]24** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F168]25** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F168]26** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**27** In Schedule 2 (provisions applying on reduction of tax), omit paragraph 6A.
+
+### Consequential amendment
+
+**28** (1) Section 636A of ITEPA 2003 (exemption for certain lump sums under registered pension schemes) is amended as follows.
+
+(2) In subsection (1)—
+
+[^F169]a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) omit paragraph (f) and the word “or” before it.
+
+(3) In subsection (7), omit “ “transfer lump sum death benefit”,”.
+
+### Commencement
+
+**29** (1) The amendments made by paragraphs 2(2) and 3 have effect in relation to deaths of members of registered pension schemes occurring on or after 6th April 2007.
+
+[^F170]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) The amendments made by paragraphs 5 to 10, 18(2) and (3) and 28 have effect in relation to lump sum death benefits paid in respect of members of schemes whose deaths occur on or after 6th April 2007.
+
+[^F171]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F171]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6) The amendments made by paragraph 16(3) and (5) have effect in relation to charity lump sum death benefits paid on or after 6th April 2007.
+
+(7) The amendment made by paragraph 17 is deemed to have come into force on 6th April 2007.
+
+(8) The amendments made by paragraphs 19 to 27 have effect in relation to deaths, cases where scheme administrators become aware of deaths and cessations of dependency occurring on or after 6th April 2007.
+
+## SCHEDULE 20 — Pension schemes etc: miscellaneous
+
+*Section 70*
+
+### Introduction
+
+**1** Part 4 of FA 2004 (pension schemes etc) is amended as follows.
+
+### Persons by whom registered pension schemes may be established
+
+**2** (1) Section 154 (persons by whom registered pension scheme may be established) is amended as follows.
+
+(2) For subsection (1) substitute—
+
+> (1) An application to register a pension scheme may be made only if the pension scheme—
+>
+> (a) is an occupational pension scheme, or
+>
+> (b) has been established by a person with permission under FISMA 2000 to establish in the United Kingdom a personal pension scheme or a stakeholder pension scheme.
+
+(3) After subsection (2) insert—
+
+> (2A) Subsection (1) is to be construed in accordance with section 22 of FISMA 2000, any relevant order under that section and Schedule 2 to that Act.
+
+(4) Omit subsection (3).
+
+(5) In subsection (4), omit “and section 155”.
+
+**3** Omit section 155 (persons by whom scheme may be established: supplementary).
+
+**4** In section 273 (members liable as scheme administrator)—
+
+(a) in subsection (5)(a), omit “was established by a person or body specified in section 154(1)(a) to (g) (insurance companies etc) and”, and
+
+(b) in subsection (7), omit “was established by a person or body specified in section 154(1)(a) to (g) and”.
+
+### Unauthorised payments reduced by amount of scheme sanction charge
+
+**5** In section 160 (unauthorised payments), after subsection (4) insert—
+
+> (4A) If an unauthorised member payment or unauthorised employer payment made to or in respect of a person would have been greater but for a reduction made in respect of the whole, or any proportion, of the amount which the scheme administrator considers may be the amount of the liability to the scheme sanction charge in respect of it, it is to be regarded for the purposes of this Part as increased by the amount of the reduction.
+>
+> (4B) But if the amount, or that proportion of the amount, of that liability is in fact less than the amount of the reduction, a subsequent payment of an amount not exceeding the difference between that amount and the amount of the reduction made—
+>
+> (a) to or in respect of the same person, and
+>
+> (b) before the end of the period of two years beginning with the date on which the unauthorised member payment or unauthorised employer payment was made,
+>
+> is not to be regarded for the purposes of this Part as an unauthorised member payment or unauthorised employer payment.
+
+### Surrenders
+
+**6** (1) Section 172A (surrender) is amended as follows.
+
+(2) In subsection (5), after paragraph (d) insert—
+
+> (da) a surrender made as part of a retirement-benefit activities compliance exercise,
+>
+> (db) a surrender of a prospective entitlement to pension death benefits within section 167(1) or lump sum death benefits within section 168(1) (or both) made in order to comply with the Employment Equality (Age) Regulations 2006 or Employment Equality (Age) Regulations (Northern Ireland) 2006 (or any regulations amending or replacing them),
+
+.
+
+(3) In subsection (10), for “An” substitute “ For the purposes of this section an ”.
+
+(4) After that subsection insert—
+
+> (10A) For the purposes of this section a surrender relating to an arrangement under the pension scheme (“the old arrangement”) is made as part of a retirement-benefit activities compliance exercise if—
+>
+> (a) it is made in connection with the making of an arrangement under another pension scheme relating to the member (“the new arrangement”),
+>
+> (b) the old arrangement and the new arrangement relate to the same employment,
+>
+> (c) both the rights surrendered and the rights conferred under the new arrangement consist of or include a prospective entitlement to pension death benefits within section 167(1) or lump sum death benefits within section 168(1) (or both),
+>
+> (d) the surrender and the making of the new arrangement constitute or form part of a transaction the purpose of which is to secure that the activities of the pension scheme are limited to retirement-benefit activities within the meaning of section 255 of the Pensions Act 2004 or Article 232 of the Pensions (Northern Ireland) Order 2005, and
+>
+> (e) the rights surrendered and the rights conferred under the new arrangement are not significantly different.
+
+### Scheme pensions where ill-health condition met
+
+**7** (1) Schedule 28 (pension rules) is amended as follows.
+
+(2) In paragraph 2(4) (scheme pensions: cases where cessation or reduction of pension is permitted), for paragraph (a) substitute—
+
+> (a) the reduction of the pension if the member became entitled to it by reason of the ill-health condition being met,
+
+.
+
+(3) In paragraph 2A(2) (certain reductions not permitted if part of avoidance arrangements), for “the rate of which is reduced in accordance with paragraph (b) of sub-paragraph (4) of paragraph 2 but” substitute “ which is reduced in accordance with paragraph (a) of sub-paragraph (4) of paragraph 2, or the rate of which is reduced in accordance with paragraph (b) of that sub-paragraph, and ”.
+
+### Unsecured and dependants' unsecured pensions: reference periods
+
+**8** (1) Schedule 28 (pension rules) is amended as follows.
+
+(2) In paragraph 10 (reference periods for unsecured pensions), for sub-paragraph (1) substitute—
+
+> (1) Subject as follows, the period of five unsecured pension years beginning with the first unsecured pension year, and each succeeding period of five unsecured pension years, is a “reference period”.
+>
+> (1A) Sub-paragraph (1B) applies if, at any time during a reference period (“the current reference period”), the member notifies the scheme administrator that the member wishes a new reference period to begin on the next day that is an anniversary of the reference date in relation to the current reference period.
+>
+> (1B) The scheme administrator may determine—
+>
+> (a) that the current reference period is to end immediately before that day (so that sub-paragraph (1) no longer applies), and
+>
+> (b) that (subject to any further operation of this sub-paragraph) the period of five unsecured pension years beginning with that day, and each succeeding period of five unsecured pension years, is to be a reference period.
+>
+> (1C) The first day of each reference period is, in relation to that period, “the reference date”.
+
+(3) In paragraph 24 (reference periods for dependants' unsecured pensions), for sub-paragraph (1) substitute—
+
+> (1) Subject as follows, the period of five unsecured pension years beginning with the first unsecured pension year, and each succeeding period of five unsecured pension years, is a “reference period”.
+>
+> (1A) Sub-paragraph (1B) applies if, at any time during a reference period (“the current reference period”), the dependant notifies the scheme administrator that the dependant wishes a new reference period to begin on the next day that is an anniversary of the reference date in relation to the current reference period.
+>
+> (1B) The scheme administrator may determine—
+>
+> (a) that the current reference period is to end immediately before that day (so that sub-paragraph (1) no longer applies), and
+>
+> (b) that (subject to any further operation of this sub-paragraph) the period of five unsecured pension years beginning with that day, and each succeeding period of five unsecured pension years, is to be a reference period.
+>
+> (1C) The first day of each reference period is, in relation to that period, “the reference date”.
+
+### Pension commencement lump sums
+
+**9** In section 166(2)(a) (when person becomes entitled to pension commencement lump sum), after “paid” insert “ (or, if the person dies before becoming entitled to the pension in connection with which it was anticipated it would be paid, immediately before death) ”.
+
+**10** In section 219(7) (multiple benefit crystallisation events occurring by reason of payment of lump sum death benefits treated as occurring immediately before death), insert at the end “ but immediately after any benefit crystallisation event occurring immediately before the individual's death by virtue of section 166(2). ”
+
+**11** (1) Schedule 29 (authorised lump sums) is amended as follows.
+
+(2) In paragraph 1(1) (conditions to be met if lump sum is to be pension commencement lump sum)—
+
+(a) for paragraph (a) substitute—
+
+> (a) the member becomes entitled to it before reaching the age of 75,
+>
+> (aa) the member becomes entitled to it in connection with becoming entitled to a relevant pension (or dies after becoming entitled to it but before becoming entitled to the relevant pension in connection with which it was anticipated that the member would become entitled to it)
+
+,
+
+(b) in paragraph (c), for “of three months beginning with” substitute “ beginning six months before, and ending one year after, ”, and
+
+(c) omit paragraph (e)(but not including the “and” at the end).
+
+[^F172]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) In paragraph 2 (“permitted maximum”), after sub-paragraph (5) insert—
+
+> (5A) But if the member dies before becoming entitled to the relevant pension in connection with which it was anticipated that the member would become entitled to the lump sum, the permitted maximum is the available portion of the member's lump sum allowance.
+
+### Winding-up lump sums
+
+**12** (1) Paragraph 10 of Schedule 29 (winding-up lump sums) is amended as follows.
+
+(2) In sub-paragraph (1)(c), for “the member's employer” substitute “ any person by whom the member is employed at the time when the lump sum is paid, and who has made contributions under the pension scheme in respect of the member within the period of five years ending with the day on which it is paid, ”.
+
+(3) In sub-paragraph (3)—
+
+(a) for “are that the employer” substitute “ referred to in paragraph (c) of sub-paragraph (1) are that the person mentioned in that paragraph ”, and
+
+(b) omit paragraph (a).
+
+### Lump sum death benefits
+
+**[^F173]13** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Taxable property held by investment-regulated pension schemes: indirect holdings in REITs
+
+**14** (1) Schedule 29A (taxable property held by investment-regulated pension schemes) is amended as follows.
+
+(2) In paragraph 20(1)(b) (indirect holdings: introduction to exception for REITs), for “paragraph 22 makes” substitute “ paragraphs 22, 24 and 25 make ”.
+
+(3) In paragraph 22 (REITs)—
+
+(a) in sub-paragraph (1), after paragraph (b) insert— “ and paragraph 24 applies to the pension scheme's interest in the vehicle. ”, and
+
+(b) omit sub-paragraph (2).
+
+(4) In paragraph 24(1) (conditions applying for paragraph 23), for “paragraph 23” substitute “ paragraphs 22 and 23 ”.
+
+(5) In paragraph 25(2) (provisions supplementing paragraph 24), for “23(1)” substitute “ 22 or 23 ”.
+
+### Transitional provision: primary protection
+
+**15** In paragraph 11D of Schedule 36 (lump sum death benefits to be taken into account as part of individual's pre-commencement rights only if paid under policy not significantly varied since 5th April 2006), after sub-paragraph (2) insert—
+
+> (2A) A variation of the terms of a policy of life insurance made in order to comply with the Employment Equality (Age) Regulations 2006 or Employment Equality (Age) Regulations (Northern Ireland) 2006 (or any regulations amending or replacing them) is to be ignored for the purposes of sub-paragraph (2).
+>
+> (2B) Where a policy of life insurance held on 5th April 2006 for the purposes of an occupational pension scheme is surrendered and a new one is taken out—
+>
+> (a) as part of a retirement-benefit activities compliance exercise, or
+>
+> (b) to comply with the Employment Equality (Age) Regulations 2006 or Employment Equality (Age) Regulations (Northern Ireland) 2006 (or any regulations amending or replacing them),
+>
+> the new policy is to be treated for the purposes of sub-paragraph (2) as if it were the same as the old.
+>
+> (2C) For this purpose a policy of life insurance is surrendered and a new one is taken out as part of a retirement-benefit activities compliance exercise if—
+>
+> (a) the surrender of the old policy and taking out of the new policy constitute or form part of a transaction the purpose of which is to secure that the activities of the pension scheme are limited to retirement-benefit activities within the meaning of section 255 of the Pensions Act 2004 or Article 232 of the Pensions (Northern Ireland) Order 2005, and
+>
+> (b) the rights under the old policy and the new policy are not significantly different.
+
+### Transitional provision: enhanced protection
+
+**16** Schedule 36 (transitional provision) is amended as follows.
+
+**17** (1) Paragraph 12 (when enhanced protection ceases) is amended as follows.
+
+(2) In paragraph (c) of sub-paragraph (2), for “solely for the purposes of a permitted transfer” substitute “ in permitted circumstances ”.
+
+(3) After that sub-paragraph insert—
+
+> (2A) An arrangement is made in permitted circumstances if it is made—
+>
+> (a) for the purposes of a permitted transfer,
+>
+> (b) as part of a retirement-benefit activities compliance exercise, or
+>
+> (c) as part of an age-equality compliance exercise.
+>
+> (2B) For the purposes of sub-paragraph (2A)(b) an arrangement (“the new arrangement”) relating to an individual is made as part of a retirement-benefit activities compliance exercise if—
+>
+> (a) it is made in connection with the cancellation of rights under another arrangement relating to the individual (“the old arrangement”),
+>
+> (b) the old arrangement and the new arrangement relate to the same employment,
+>
+> (c) there is a prospective entitlement to pension death benefits within section 167(1) or lump sum death benefits within section 168(1) (or both) under both the old arrangement and the new arrangement,
+>
+> (d) the making of the new arrangement and the cancellation of the old arrangement constitute or form part of a transaction the purpose of which is to secure that the activities of the pension scheme under which the arrangement is made are limited to retirement-benefit activities within the meaning of section 255 of the Pensions Act 2004 or Article 232 of the Pensions (Northern Ireland) Order 2005, and
+>
+> (e) the rights cancelled under the old arrangement and the rights conferred under the new arrangement are not significantly different.
+>
+> (2C) For the purposes of sub-paragraph (2A)(c) an arrangement (“the new arrangement”) is made as part of an age-equality compliance exercise if—
+>
+> (a) it is made in connection with the cancellation of rights under another arrangement relating to the individual (“the old arrangement”),
+>
+> (b) the old arrangement and the new arrangement relate to the same employment,
+>
+> (c) there is a prospective entitlement to pension death benefits within section 167(1) or lump sum death benefits within section 168(1) (or both) under both the old arrangement and the new arrangement, and
+>
+> (d) the new arrangement is made, and the old arrangement cancelled, in order to comply with the Employment Equality (Age) Regulations 2006 or Employment Equality (Age) Regulations (Northern Ireland) 2006 (or any regulations amending or replacing them).
+
+(4) In sub-paragraph (7)—
+
+(a) omit paragraph (a),
+
+(b) in paragraph (b), omit “held for the purposes of, or representing accrued rights under, the arrangement”, and
+
+(c) in paragraph (c), for “those” (in both places) substitute “ the ”.
+
+(5) In paragraph (a) of sub-paragraph (8), omit—
+
+(a) “, or two or more money purchase arrangements that are not cash balance arrangements,”, and
+
+(b) “or” at the end.
+
+(6) After paragraph (b) of that sub-paragraph insert—
+
+> (c) where the arrangement is a cash balance arrangement or a defined benefits arrangement relating to a present or former employment, they are transferred in connection with a relevant business transfer so as to become held for the purposes of, or to represent rights under, a cash balance arrangement or defined benefits arrangement made under a registered pension scheme or recognised overseas pension scheme, or
+>
+> (d) where the arrangement (“the old arrangement”) is a cash balance arrangement or a defined benefits arrangement, they are transferred as part of a retirement-benefit activities compliance exercise so as to become held for the purposes of, or to represent rights under, a cash balance arrangement or defined benefits arrangement (“the new arrangement”) relating to the same employment as the old arrangement and made under a registered pension scheme or recognised overseas pension scheme.
+
+(7) After that sub-paragraph insert—
+
+> (8A) For the purposes of sub-paragraph (8)(c) “relevant business transfer” means a transfer of an undertaking or a business (or part of an undertaking or a business) from one person to another—
+>
+> (a) which involves the transfer of at least 20 employees, and
+>
+> (b) in the case of which, if the transferor and the transferee are bodies corporate, they would not be treated as members of the same group for the purposes of Chapter 4 of Part 10 of ICTA.
+>
+> (8B) For the purposes of sub-paragraph (8)(d) sums or assets held for the purposes of, or representing accrued rights under, the old arrangement are transferred as part of a retirement-benefit activities compliance exercise if—
+>
+> (a) there is a prospective entitlement to pension death benefits within section 167(1) or lump sum death benefits within section 168(1) (or both) under both the old arrangement and the new arrangement, and
+>
+> (b) the transfer constitutes or forms part of a transaction the purpose of which is to secure that the activities of the pension scheme under which the old arrangement was made are limited to retirement-benefit activities within the meaning of section 255 of the Pensions Act 2004 or Article 232 of the Pensions (Northern Ireland) Order 2005.
+
+(8) In sub-paragraph (9)—
+
+(a) in paragraph (a), omit “, or each of the arrangements,” and “and” at the end,
+
+(b) in paragraph (b), after “(8)(b)” insert “ or (d) ” and after “15” insert “ to 17 ”, and
+
+(c) after that paragraph insert
+
+> and
+>
+> (c) if the transfer is a permitted transfer by virtue of sub-paragraph (8)(c), this paragraph (and paragraphs 13, 15 to 17 and 17A(3)) apply as if the arrangement to which the transfer is made were the same as that from which it is made and (if the employment is transferred) as if the employment with the transferee were the employment with the transferor.
+
+(9) After that sub-paragraph insert—
+
+> (10) The Treasury may by order amend sub-paragraph (8) (and make other amendments consequential on any amendment of that sub-paragraph).
+
+**18** In paragraph 14 (relevant contributions), after sub-paragraph (3) insert—
+
+> (3A) A variation of the terms of a policy made in order to comply with the Employment Equality (Age) Regulations 2006 or Employment Equality (Age) Regulations (Northern Ireland) 2006 (or any regulations amending or replacing them) is to be ignored for the purposes of sub-paragraph (3).
+>
+> (3B) Where a policy of insurance on the life of the individual issued, or issued in respect of insurances made, before 6th April 2006 is surrendered and a new one is taken out—
+>
+> (a) as part of a retirement-benefit activities compliance exercise, or
+>
+> (b) as part of an age-equality compliance exercise.
+>
+> the new policy is to be treated for the purposes of sub-paragraph (3) as if it were the same as the old.
+>
+> (3C) For the purposes of sub-paragraph (3B)(a) a policy is surrendered, and a new policy of life insurance is taken out, as part of a retirement-benefit activities compliance exercise if—
+>
+> (a) the surrender of the old policy and the taking out of the new policy constitute or form part of a transaction the purpose of which is to secure that the activities of the pension scheme under which the arrangement is made are limited to retirement-benefit activities within the meaning of section 255 of the Pensions Act 2004 or Article 232 of the Pensions (Northern Ireland) Order 2005, and
+>
+> (b) the rights under the old policy and the new policy are not significantly different.
+>
+> (3D) For the purposes of sub-paragraph (3B)(b) a policy is surrendered, and a new policy of life insurance is taken out, as part of an age-equality compliance exercise if—
+>
+> (a) the old policy is surrendered, and the new policy is taken out, in order to comply with the Employment Equality (Age) Regulations 2006 or Employment Equality (Age) Regulations (Northern Ireland) 2006 (or any regulations amending or replacing them), and
+>
+> (b) any significant difference between the rights under the old policy and the rights under the new policy is attributable to the need to comply with those Regulations (or any regulations amending or replacing them).
+
+**19** (1) Paragraph 15 (relevant benefit accrual) is amended as follows.
+
+(2) In sub-paragraph (2), after “arrangement” (in both places) insert “ which are transferred ”.
+
+(3) In sub-paragraph (7), for “15 and 16” substitute “ 16 and 17 ”.
+
+### Inheritance tax: lump sum death benefits
+
+**20** In section 58 of IHTA 1984 (settlements: “relevant property”), after subsection (2) insert—
+
+> (2A) For the purposes of subsection (1)(d) above—
+>
+> (a) property applied to pay lump sum death benefits within section 168(1) of the Finance Act 2004 in respect of a member of a registered pension scheme is to be taken to be held for the purposes of the scheme from the time of the member's death until the payment is made, and
+>
+> (b) property applied to pay lump sum death benefits in respect of a member of a section 615(3) scheme is to be taken to be so held if the benefits are paid within the period of two years beginning with the earlier of the day on which the member's death was first known to the trustees or other persons having the control of the fund and the day on which they could first reasonably be expected to have known of it.
+
+### Benefits under employer-financed retirement benefits schemes
+
+**21** In section 393B of ITEPA 2003 (employer-financed retirement benefits schemes: relevant benefits), after subsection (4) insert—
+
+> (4A) Regulations under subsection (3)(d) may include provision having effect in relation to times before they are made.
+
+### Consequential amendments
+
+**22** (1) In section 167(2) of FA 2004 (meaning of “pension death benefit”), for ““Pension” substitute “ “In this Part “pension ”.
+
+(2) In section 280(2) of that Act (index of expressions), insert at the appropriate place—
+
+> |  |  |
+> |---|---|
+> | pension death benefit | section 167(2) |
+
+.
+
+**23** (1) In section 1(1) of the Pension Schemes Act 1993 (c. 48) (categories of pension schemes), in paragraph (b) of the definition of “personal pension scheme”, omit “any of the paragraphs of”.
+
+(2) In section 1(1) of the Pension Schemes (Northern Ireland) Act 1993 (c. 49) (categories of pension schemes), in paragraph (b) of the definition of “personal pension scheme”, omit “any of the paragraphs of”.
+
+### Commencement
+
+**24** (1) The amendments made by paragraphs 2 to 4 and 23 are deemed to have come into force on 6th April 2007.
+
+(2) The amendment made by paragraph 5 has effect in relation to payments made on or after 6th April 2007.
+
+(3) The amendments made by paragraphs 6, 7(2), 9 to 11, 15 to 19 and 22 are deemed always to have had effect.
+
+(4) The amendment made by paragraph 7(3) has effect in relation to reductions occurring on or after 6th April 2007.
+
+(5) The amendments made by paragraph 8 have effect in relation to notifications given on or after 6th December 2006.
+
+(6) The amendments made by paragraph 12 have effect in relation to lump sums paid on or after 6th April 2006.
+
+(7) The amendments made by paragraph 13 have effect in relation to deaths occurring on or after 6th April 2006.
+
+(8) The amendments made by paragraph 14 are deemed to have come into force on 1st January 2007.
+
+(9) The amendment made by paragraph 20 has effect in relation to lump sum death benefits paid on or after 6th April 2006.
+
+## SCHEDULE 21 — Exemptions from stamp duty and SDRT: intermediaries, repurchases etc
+
+*Section 73*
+
+### Intermediaries
+
+**1** (1) Section 80A of FA 1986 (exemption from stamp duty: sales to intermediaries) is amended as follows.
+
+(2) For subsections (1) to (3) substitute—
+
+> (1) Stamp duty shall not be chargeable on an instrument transferring stock of a particular kind on sale to a person or the person's nominee if—
+>
+> (a) the person is a member of a regulated market on which stock of that kind is regularly traded; and
+>
+> (b) the person is an intermediary and is recognised as such by the market in accordance with arrangements approved by the Commissioners.
+>
+> (1A) Stamp duty shall not be chargeable on an instrument transferring stock of a particular kind on sale to a person or the person's nominee if—
+>
+> (a) the person is a member of a multilateral trading facility, or a recognised foreign exchange, on which stock of that kind is regularly traded;
+>
+> (b) the person is an intermediary and is recognised as such by the facility or exchange in accordance with arrangements approved by the Commissioners; and
+>
+> (c) the sale is effected on the facility or exchange.
+>
+> (1B) Stamp duty shall not be chargeable on an instrument transferring stock of a particular kind on sale to a person or the person's nominee if—
+>
+> (a) the person is an intermediary who is approved for the purposes of this section by the Commissioners; and
+>
+> (b) stock of that kind is regularly traded on a regulated market.
+>
+> (1C) Stamp duty shall not be chargeable on an instrument transferring stock of a particular kind on sale to a person or the person's nominee if—
+>
+> (a) the person is an intermediary who is approved for the purposes of this section by the Commissioners;
+>
+> (b) stock of that kind is regularly traded on a multilateral trading facility or a recognised foreign exchange; and
+>
+> (c) the sale is effected on the facility or exchange.
+>
+> (2) Stamp duty shall not be chargeable on an instrument transferring stock of a particular kind on sale to a person or the person's nominee if—
+>
+> (a) the person is a member of a regulated market, a multilateral trading facility or a recognised foreign options exchange;
+>
+> (b) options to buy or sell stock of that kind are regularly traded on, and are listed by or quoted on, that market, facility or exchange;
+>
+> (c) the person is an options intermediary and is recognised as such by that market, facility or exchange in accordance with arrangements approved by the Commissioners; and
+>
+> (d) stock of that kind is regularly traded on a regulated market.
+>
+> (2A) Stamp duty shall not be chargeable on an instrument transferring stock of a particular kind on sale to a person or the person's nominee if—
+>
+> (a) the person is a member of a regulated market, a multilateral trading facility or a recognised foreign options exchange;
+>
+> (b) options to buy or sell stock of that kind are regularly traded on, and are listed by or quoted on, that market, facility or exchange;
+>
+> (c) the person is an options intermediary and is recognised as such by that market, facility or exchange in accordance with arrangements approved by the Commissioners; and
+>
+> (d) the sale is effected on a relevant qualifying exchange on which stock of that kind is regularly traded or is effected on a relevant qualifying exchange pursuant to the exercise of a relevant option and options to buy or sell stock of that kind are regularly traded on, and are listed by or quoted on, that exchange;
+>
+> and in paragraph (d) “relevant qualifying exchange” means a multilateral trading facility, a recognised foreign options exchange or a recognised foreign exchange.
+>
+> (2B) Stamp duty shall not be chargeable on an instrument transferring stock of a particular kind on sale to a person or the person's nominee if—
+>
+> (a) the person is an options intermediary who is approved for the purposes of this section by the Commissioners;
+>
+> (b) options to buy or sell stock of that kind are regularly traded on, and are listed by or quoted on, a regulated market, a multilateral trading facility or a recognised foreign options exchange; and
+>
+> (c) stock of that kind is regularly traded on a regulated market.
+>
+> (2C) Stamp duty shall not be chargeable on an instrument transferring stock of a particular kind on sale to a person or the person's nominee if—
+>
+> (a) the person is an options intermediary who is approved for the purposes of this section by the Commissioners;
+>
+> (b) options to buy or sell stock of that kind are regularly traded on, and are listed by or quoted on, a regulated market, a multilateral trading facility or a recognised foreign options exchange; and
+>
+> (c) the sale is effected on a relevant qualifying exchange on which stock of that kind is regularly traded or is effected on a relevant qualifying exchange pursuant to the exercise of a relevant option and options to buy or sell stock of that kind are regularly traded on, and are listed by or quoted on, that exchange;
+>
+> and in paragraph (c) “relevant qualifying exchange” means a multilateral trading facility, a recognised foreign options exchange or a recognised foreign exchange.
+
+(3) In subsection (6) (meaning of sale being on an exchange)—
+
+(a) after “effected on” insert “ a facility or ”,
+
+(b) for “subsection (1) or (2) above” substitute “ this section ”, and
+
+(c) for “the exchange” (in each place) substitute “ the facility or exchange ”.
+
+(4) After that subsection insert—
+
+> (6A) The Commissioners may approve a person for the purposes of this section only if the person is authorised under the law of an EEA State to provide any of the investment services or activities listed in Section A 2 or 3 of Annex I to the Directive (execution of orders on behalf of clients and dealing on own account), whether or not the person is authorised under the Directive.
+
+(5) The amendments made by this paragraph have effect in relation to any instrument executed on or after 1st November 2007.
+
+**2** (1) Section 80B of FA 1986 (exemption from stamp duty on sales to intermediaries: supplementary) is amended as follows.
+
+(2) In subsection (2)—
+
+(a) after the definition of “collective investment scheme” insert—
+
+> “the Directive” means Directive 2004/39/EC of the European Parliament and of the Council of 21 April 2004 on markets in financial instruments, as amended from time to time;
+
+,
+
+(b) omit the definition of “EEA exchange”, and
+
+(c) in the definition of “EEA State”, for “means a State which” substitute “ , in relation to any time, means a State which at that time is a member State or any other State which at that time ” and insert at the end “ (as modified or supplemented from time to time) ”.
+
+(3) After that subsection insert—
+
+> (2A) Each of the following expressions—
+>
+> - “multilateral trading facility”, and
+> - “regulated market”,
+>
+> has the same meaning in section 80A above as it has for the purposes of the Directive.
+
+(4) After subsection (5) insert—
+
+> (5A) The Treasury may by regulations amend section 80A above and this section (as they have effect for the time being) in order to extend the exemption from duty under that section.
+
+(5) In subsection (7) (power for regulations to provide for stamp duty to be chargeable at a rate not exceeding 0.1%), for “subsection (1) or (2)” substitute “ any of subsections (1) to (2C) ”.
+
+(6) The amendments made by this paragraph have effect in relation to any instrument executed on or after 1st November 2007.
+
+**3** (1) Section 88A of FA 1986 (exemption from SDRT: sales to intermediaries) is amended as follows.
+
+(2) For subsections (1) to (3) substitute—
+
+> (1) Section 87 above shall not apply as regards an agreement to transfer securities of a particular kind to B or B's nominee if—
+>
+> (a) B is a member of a regulated market on which securities of that kind are regularly traded; and
+>
+> (b) B is an intermediary and is recognised as such by the market in accordance with arrangements approved by the Commissioners for Her Majesty's Revenue and Customs (“the Commissioners”).
+>
+> (1A) Section 87 above shall not apply as regards an agreement to transfer securities of a particular kind to B or B's nominee if—
+>
+> (a) B is a member of a multilateral trading facility, or a recognised foreign exchange, on which securities of that kind are regularly traded;
+>
+> (b) B is an intermediary and is recognised as such by the facility or exchange in accordance with arrangements approved by the Commissioners; and
+>
+> (c) the agreement is effected on the facility or exchange.
+>
+> (1B) Section 87 above shall not apply as regards an agreement to transfer securities of a particular kind to B or B's nominee if—
+>
+> (a) B is an intermediary who is approved for the purposes of this section by the Commissioners; and
+>
+> (b) securities of that kind are regularly traded on a regulated market.
+>
+> (1C) Section 87 above shall not apply as regards an agreement to transfer securities of a particular kind to B or B's nominee if—
+>
+> (a) B is an intermediary who is approved for the purposes of this section by the Commissioners;
+>
+> (b) securities of that kind are regularly traded on a multilateral trading facility or a recognised foreign exchange; and
+>
+> (c) the agreement is effected on the facility or exchange.
+>
+> (2) Section 87 above shall not apply as regards an agreement to transfer securities of a particular kind to B or B's nominee if—
+>
+> (a) B is a member of a regulated market, a multilateral trading facility or a recognised foreign options exchange;
+>
+> (b) options to buy or sell securities of that kind are regularly traded on, and are listed by or quoted on, that market, facility or exchange;
+>
+> (c) B is an options intermediary and is recognised as such by that market, facility or exchange in accordance with arrangements approved by the Commissioners; and
+>
+> (d) securities of that kind are regularly traded on a regulated market.
+>
+> (2A) Section 87 above shall not apply as regards an agreement to transfer securities of a particular kind to B or B's nominee if—
+>
+> (a) B is a member of a regulated market, a multilateral trading facility or a recognised foreign options exchange;
+>
+> (b) options to buy or sell securities of that kind are regularly traded on, and are listed by or quoted on, that market, facility or exchange;
+>
+> (c) B is an options intermediary and is recognised as such by that market, facility or exchange in accordance with arrangements approved by the Commissioners; and
+>
+> (d) the agreement is effected on a relevant qualifying exchange on which securities of that kind are regularly traded or is effected on a relevant qualifying exchange pursuant to the exercise of a relevant option and options to buy or sell securities of that kind are regularly traded on, and are listed by or quoted on, that exchange;
+>
+> and in paragraph (d) “relevant qualifying exchange” means a multilateral trading facility, a recognised foreign options exchange or a recognised foreign exchange.
+>
+> (2B) Section 87 above shall not apply as regards an agreement to transfer securities of a particular kind to B or B's nominee if—
+>
+> (a) B is an options intermediary who is approved for the purposes of this section by the Commissioners;
+>
+> (b) options to buy or sell securities of that kind are regularly traded on, and are listed by or quoted on, a regulated market, a multilateral trading facility or a recognised foreign options exchange; and
+>
+> (c) securities of that kind are regularly traded on a regulated market.
+>
+> (2C) Section 87 above shall not apply as regards an agreement to transfer securities of a particular kind to B or B's nominee if—
+>
+> (a) B is an options intermediary who is approved for the purposes of this section by the Commissioners;
+>
+> (b) options to buy or sell securities of that kind are regularly traded on, and are listed by or quoted on, a regulated market, a multilateral trading facility or a recognised foreign options exchange; and
+>
+> (c) the agreement is effected on a relevant qualifying exchange on which securities of that kind are regularly traded or is effected on a relevant qualifying exchange pursuant to the exercise of a relevant option and options to buy or sell securities of that kind are regularly traded on, and are listed by or quoted on, that exchange;
+>
+> and in paragraph (c) “relevant qualifying exchange” means a multilateral trading facility, a recognised foreign options exchange or a recognised foreign exchange.
+
+(3) In subsection (6) (meaning of sale being on an exchange)—
+
+(a) after “effected on” insert “ a facility or ”,
+
+(b) for “subsection (1) or (2) above” substitute “ this section ”, and
+
+(c) for “the exchange” (in each place) substitute “ the facility or exchange ”.
+
+(4) After that subsection insert—
+
+> (6A) The Commissioners may approve a person for the purposes of this section only if the person is authorised under the law of an EEA State to provide any of the investment services or activities listed in Section A 2 or 3 of Annex I to the Directive (execution of orders on behalf of clients and dealing on own account), whether or not the person is authorised under the Directive.
+
+(5) The amendments made by this paragraph have effect in relation to any agreement to transfer securities—
+
+(a) in a case where the agreement is conditional, if the condition is satisfied on or after 1st November 2007, and
+
+(b) in any other case, if the agreement is made on or after that date.
+
+**4** (1) Section 88B of FA 1986 (exemption from SDRT on sales to intermediaries: supplementary) is amended as follows.
+
+(2) In subsection (2)—
+
+(a) after the definition of “collective investment scheme” insert—
+
+> “the Directive” means Directive 2004/39/EC of the European Parliament and of the Council of 21 April 2004 on markets in financial instruments, as amended from time to time;
+
+,
+
+(b) omit the definition of “EEA exchange”, and
+
+(c) in the definition of “EEA State”, for “means a State which” substitute “ , in relation to any time, means a State which at that time is a member State or any other State which at that time ” and insert at the end “ (as modified or supplemented from time to time) ”.
+
+(3) After that subsection insert—
+
+> (2A) Each of the following expressions—
+>
+> - “multilateral trading facility”, and
+> - “regulated market”,
+>
+> has the same meaning in section 88A above as it has for the purposes of the Directive.
+
+(4) After subsection (3) insert—
+
+> (3A) The Treasury may by regulations amend section 88A above and this section (as they have effect for the time being) in order to extend the exemption from tax under that section.
+
+(5) In subsection (5) (power for regulations to provide for SDRT to be chargeable at a rate not exceeding 0.1%), for “subsection (1) or (2)” substitute “ any of subsections (1) to (2C) ”.
+
+(6) In subsection (7) (regulations exercisable by statutory instrument and subject to annulment), for “(4)” substitute “ (3A) ”.
+
+(7) The amendments made by this paragraph have effect in relation to any agreement to transfer securities—
+
+(a) in a case where the agreement is conditional, if the condition is satisfied on or after 1st November 2007, and
+
+(b) in any other case, if the agreement is made on or after that date.
+
+### Repurchases and stock lending
+
+**5** (1) Section 80C of FA 1986 (exemption from stamp duty: repurchases and stock lending) is amended as follows.
+
+(2) In subsection (1) (application of section), after “conditions set out in subsection” insert “ (2A) or ”.
+
+(3) After subsection (2) insert—
+
+> (2A) The conditions in this subsection are—
+>
+> (a) that A or B is authorised under the law of an EEA State to provide any of the investment services or activities listed in Section A 2 or 3 of Annex I to the Directive (execution of orders on behalf of clients and dealing on own account) in relation to stock of the kind concerned, whether or not A or B is authorised under the Directive; and
+>
+> (b) that stock of the kind concerned is regularly traded on a regulated market.
+
+(4) In subsection (3) (conditions for exemption)—
+
+(a) after “The conditions” insert “ in this subsection ”,
+
+(b) for “an EEA exchange” substitute “ a regulated market, a multilateral trading facility ”, and
+
+(c) after “on that” insert “ market, facility or ”.
+
+(5) In subsection (6) (meaning of arrangement being on an exchange)—
+
+(a) after “effected on” insert “ a market, a facility or ”, and
+
+(b) for “the exchange” (in each place) substitute “ the market, facility or exchange ”.
+
+(6) In subsection (7)—
+
+(a) after “In this section—” insert—
+
+> “the Directive” has the meaning given in section 80B(2) above;
+>
+> “EEA State” has the meaning given in section 80B(2) above;
+
+, and
+
+(b) omit the definition of “EEA exchange” (together with the “and” at the end of it).
+
+(7) After that subsection insert—
+
+> (7A) Each of the following expressions—
+>
+> - “multilateral trading facility”, and
+> - “regulated market”,
+>
+> has the same meaning in this section as it has for the purposes of the Directive.
+
+(8) The amendments made by this paragraph have effect in relation to any instrument executed on or after 1st November 2007.
+
+**6** (1) Section 89AA of FA 1986 (exemption from SDRT: repurchases and stock lending) is amended as follows.
+
+(2) In subsection (1) (application of section), after “conditions set out in subsection” insert “ (2A) or ”.
+
+(3) After subsection (2) insert—
+
+> (2A) The conditions in this subsection are—
+>
+> (a) that P or Q is authorised under the law of an EEA State to provide any of the investment services or activities listed in Section A 2 or 3 of Annex I to the Directive (execution of orders on behalf of clients and dealing on own account) in relation to securities of the kind concerned, whether or not P or Q is authorised under the Directive; and
+>
+> (b) that securities of the kind concerned are regularly traded on a regulated market.
+
+(4) In subsection (3) (conditions for exemption)—
+
+(a) after “The conditions” insert “ in this subsection ”,
+
+(b) for “an EEA exchange” substitute “ a regulated market, a multilateral trading facility ”, and
+
+(c) after “on that” insert “ market, facility or ”.
+
+(5) In subsection (5) (meaning of arrangement being on an exchange)—
+
+(a) after “effected on” insert “ a market, a facility or ”, and
+
+(b) for “the exchange” (in each place) substitute “ the market, facility or exchange ”.
+
+(6) In subsection (6)—
+
+(a) after “In this section—” insert—
+
+> “the Directive” has the meaning given in section 88B(2) above;
+>
+> “EEA State” has the meaning given in section 88B(2) above;
+
+, and
+
+(b) omit the definition of “EEA exchange”.
+
+(7) After that subsection insert—
+
+> (6A) Each of the following expressions—
+>
+> - “multilateral trading facility”, and
+> - “regulated market”,
+>
+> has the same meaning in this section as it has for the purposes of the Directive.
+
+(8) The amendments made by this paragraph have effect in relation to any agreement to transfer securities—
+
+(a) in a case where the agreement is conditional, if the condition is satisfied on or after 1st November 2007, and
+
+(b) in any other case, if the agreement is made on or after that date.
+
+### Exemptions from stamp duty and SDRT in cases involving recognised investment exchanges
+
+**7** (1) In section 116 of FA 1991 (stamp duty: investment exchanges and clearing houses), subsection (4) is amended as follows.
+
+(2) After “In this section—” insert—
+
+> (aa) “the Directive” means Directive 2004/39/EC of the European Parliament and of the Council of 21 April 2004 on markets in financial instruments, as amended from time to time,
+
+.
+
+(3) In paragraph (b) (definition of “recognised investment exchange”), after “2000” insert “ , a regulated market within the meaning of the Directive or a multilateral trading facility within the meaning of the Directive ”.
+
+### Consequential repeal
+
+**8** (1) In F(No.2)A 2005, omit section 50 (power to extend stamp duty and SDRT exemptions to recognised exchanges).
+
+(2) This paragraph comes into force on 1st November 2007.
+
+## SCHEDULE 22 — Amendments and repeals consequential on extension of HMRC powers
+
+*Section 84*
+
+### Part 1 — Amendments
+
+**1** In section 20D(1) of TMA 1970, for “sections 20A, 20BA and 20C” substitute “ sections 20A and 20BA ”.
+
+**2** In section 67 of the Criminal Justice and Police Act 2001 (c. 16) and the heading of that section, for “customs officers” substitute “ officers of Revenue and Customs ”.
+
+### Part 2 — Repeals
+
+**3** The provisions listed below are omitted.
+
+**4** In TMA 1970—
+
+(a) sections 20C and 20CC (search warrants), and
+
+(b) in the definition of “tax” in section 118 the word “, 20C”.
+
+**5** In CEMA 1979—
+
+(a) section 118C(3)(c) (gaming duty), and
+
+(b) the references to “a gaming duty offence” in section 118C(4)(b) and (5).
+
+**6** In BGDA 1981—
+
+(a) paragraph 16 of Schedule 1 (general betting duty: search warrants),
+
+(b) paragraph 17 of Schedule 3 (bingo duty: search warrants), and
+
+(c) paragraph 17 of Schedule 4 (amusement machine licence duty: search warrants).
+
+**7** Section 148(4) of FA 1989 (definition of “business” for purposes of section 20C of TMA 1970).
+
+**8** In VATA 1994—
+
+(a) section 72(9) (powers of arrest), and
+
+(b) paragraph 10(3) to (6) of Schedule 11 (search warrants).
+
+**9** In Schedule 7 to FA 1994 (insurance premium tax)—
+
+(a) paragraph 4(2) to (5) (search warrants), and
+
+(b) paragraph 4(6) and (7) (power of arrest).
+
+**10** In Schedule 5 to FA 1996 (landfill tax)—
+
+(a) paragraph 5 (search warrants), and
+
+(b) paragraph 6 (power of arrest).
+
+**11** In Schedule 6 to FA 2000 (climate change levy)—
+
+(a) paragraph 97 (power of arrest), and
+
+(b) paragraph 130 (search warrants).
+
+**12** In FA 2001 (aggregates levy)—
+
+(a) paragraph 6 of Schedule 6 (power of arrest), and
+
+(b) paragraph 7 of Schedule 7 (search warrants).
+
+**13** (1) In the Criminal Justice and Police Act 2001—
+
+(a) section 57(1)(c) (section 20CC of TMA 1970),
+
+(b) section 63(2)(e) (section 20C of TMA 1970), and
+
+(c) section 65(3) (section 20C of TMA 1970).
+
+(2) In Schedule 1 to that Act—
+
+(a) paragraph 13 (section 20C of TMA 1970),
+
+(b) paragraph 28 (paragraph 17(2) of Schedule 3 to BGDA 1981),
+
+(c) paragraph 29 (paragraph 17(2) of Schedule 4 to BDGA 1981),
+
+(d) paragraph 57 (paragraph 4(3) of Schedule 7 to FA 1994),
+
+(e) paragraph 58 (paragraph 10(3) of Schedule 11 to VATA 1994),
+
+(f) paragraph 61 (paragraph 5(2) of Schedule 5 to FA 1996), and
+
+(g) paragraph 72 (paragraph 130(2) of Schedule 6 to FA 2000).
+
+**14** Section 36(2) and (3) of the Tax Credits Act 2002 (c. 21) (search warrants).
+
+**15** Section 323(3)(e) and (f) of the Proceeds of Crime Act 2002 (c. 29) (approval of applications under section 20C of TMA 1970).
+
+**16** Part 7 of Schedule 13 to FA 2003 (stamp duty land tax: search warrants).
+
+**17** In CRCA 2005—
+
+(a) section 13(3)(b) and (c) (Commissioners' functions not delegable to officers), and
+
+(b) section 14(2)(b) and (c) (non-delegable functions of Commissioners).
+
+## SCHEDULE 23 — Extension of HMRC powers: Scotland
+
+*Section 85*
+
+### Criminal Law (Consolidation) (Scotland) Act 1995 (c. 39)
+
+**1** Part 3 of the Criminal Law (Consolidation) (Scotland) Act 1995 is amended as follows.
+
+**2** The heading to that Part becomes “ Investigation of Revenue and Customs offences ”.
+
+**3** At the beginning of that Part insert—
+
+> **Investigation of offences by HMRC**
+>
+> **Investigation of offences by Her Majesty's Revenue and Customs**
+>
+> **23A** (1) This Part of this Act applies to the investigation of Revenue and Customs offences.
+>
+> (2) Subject to subsection (3) below, in this Part of this Act, a “Revenue and Customs offence” is an offence which relates to a matter in relation to which Her Majesty's Revenue and Customs have functions other than any matter specified in—
+>
+> (a) section 54(4)(b) or (f) of; or
+>
+> (b) paragraphs 3, 7, 10, 13 to 15, 19 or 24 to 29 of Schedule 1 to,
+>
+> the Commissioners for Revenue and Customs Act 2005 (former Inland Revenue matters).
+>
+> (3) In sections 23B to 23P and 26A of this Act, any reference to a “Revenue and Customs offence” shall be construed as if, in subsection (2) above, there were added at the end the words “and other than any matter relating to the movement of goods which is subject to any prohibition or restriction for the time being in force under or by virtue of any enactment”.
+>
+> **Production orders**
+>
+> **Production orders**
+>
+> **23B** (1) The sheriff may, if satisfied on information on oath given by an authorised officer as to the matters mentioned in subsection (2) below, make an order under subsection (3) below (in this Part, a “production order”).
+>
+> (2) Those matters are—
+>
+> (a) that there are reasonable grounds to suspect that a Revenue and Customs offence has been or is being committed; and
+>
+> (b) that a person (in this Part, a “haver”) specified by the officer has possession or control of a document which may be required as evidence for the purposes of any proceedings in respect of such an offence.
+>
+> (3) A production order is an order requiring the haver, before the expiry of the period specified in the order—
+>
+> (a) to deliver the document to an officer; or
+>
+> (b) to—
+>
+> (i) give an officer access to the document; and
+>
+> (ii) permit the officer to make copies of or remove the document.
+>
+> (4) The period specified in a production order is—
+>
+> (a) the period of 10 working days beginning with the day on which the order is made; or
+>
+> (b) such other period as the sheriff considers appropriate.
+>
+> (5) A sheriff may make a production order in relation to a haver residing or having a place of business in an area of Scotland notwithstanding that it is outside the area of that sheriff and any such order shall, without being backed or endorsed by another sheriff, have effect throughout Scotland.
+>
+> (6) Subject to section 23J of this Act, a production order has effect in spite of any restriction on disclosure of information (however imposed).
+>
+> (7) Without prejudice to section 23D(1) of this Act, failure by a person to comply with a production order may be dealt with as a contempt of court.
+>
+> (8) In subsection (4)(a) above, “working day” means any day other than—
+>
+> (a) a Saturday;
+>
+> (b) a Sunday; or
+>
+> (c) any day which is a public holiday in the area in which the production order is to have effect.
+>
+> **Production orders: supplementary**
+>
+> **23C** (1) The sheriff may deal with an application for a production order ex parte in chambers.
+>
+> (2) The sheriff may, on the application of a person mentioned in subsection (3) below—
+>
+> (a) vary; or
+>
+> (b) discharge,
+>
+> a production order.
+>
+> (3) The persons referred to in subsection (2) above are—
+>
+> (a) the authorised officer who applied for the production order;
+>
+> (b) a person affected by the order.
+>
+> (4) Without prejudice to section 305 of the Criminal Procedure (Scotland) Act 1995, rules of court made by Act of Adjournal may make provision in relation to—
+>
+> (a) proceedings relating to the making of production orders; and
+>
+> (b) the variation or discharge of such orders.
+>
+> **Offences in relation to production orders**
+>
+> **23D** (1) A person who intentionally—
+>
+> (a) falsifies;
+>
+> (b) conceals;
+>
+> (c) destroys or otherwise disposes of,
+>
+> a document to which this section applies, or who causes or permits any of those acts, commits an offence.
+>
+> (2) This section applies to a document which the person is required, under a production order, to—
+>
+> (a) deliver to an officer; or
+>
+> (b) give an officer access to.
+>
+> (3) A person does not commit an offence if the person acts—
+>
+> (a) with the written permission of—
+>
+> (i) an officer; or
+>
+> (ii) the sheriff who made the order,
+>
+> after the document has been delivered or the officer has had access to it;
+>
+> (b) subject to subsection (4) below, after the expiry of the period of 2 years beginning with the day on which the order is made.
+>
+> (4) Subsection (3)(b) above does not apply where, before the expiry of the period referred to in that paragraph, an officer gives notice in writing to the person that the order has not been complied with to that officer's satisfaction.
+>
+> (5) A person who commits an offence under subsection (1) above is liable—
+>
+> (a) on summary conviction, to imprisonment for a period not exceeding 12 months or to a fine not exceeding the statutory maximum or to both;
+>
+> (b) on conviction on indictment, to imprisonment for a period not exceeding 2 years or to a fine or both.
+>
+> **Revenue and Customs warrants**
+>
+> **Revenue and Customs warrants**
+>
+> **23E** (1) The sheriff may, if satisfied on information on oath given by an authorised officer as to the matters mentioned in subsection (2) below, grant a warrant under subsection (3) below (in this Part, a “Revenue and Customs warrant”).
+>
+> (2) Those matters are—
+>
+> (a) that there are reasonable grounds to suspect that a Revenue and Customs offence has been or is being committed; and
+>
+> (b) that evidence of that offence is to be found in or on premises specified in the information.
+>
+> (3) A Revenue and Customs warrant is a warrant authorising an officer to—
+>
+> (a) enter, if necessary by force, the premises specified in the information; and
+>
+> (b) search those premises,
+>
+> before the expiry of the period of one month beginning with the day on which the warrant is granted.
+>
+> (4) The sheriff may, when granting a warrant, impose such conditions as the sheriff considers appropriate.
+>
+> (5) An officer who enters premises under the authority of a Revenue and Customs warrant may—
+>
+> (a) subject to any condition imposed under subsection (4) above, take with the officer such other persons (including persons who are not officers) as appear to that officer to be necessary;
+>
+> (b) subject to subsection (6) below, seize and remove any document or other thing found in or on the premises which the officer has reasonable cause to believe may be required as evidence for the purposes of proceedings in respect of the offence mentioned in subsection (2)(a) above; and
+>
+> (c) subject to subsections (6) and (7) below—
+>
+> (i) search or cause to be searched any person found in or on the premises whom the officer has reasonable cause to believe may be in possession of any such document or thing; and
+>
+> (ii) seize and remove any such document or thing found.
+>
+> (6) An officer acting under the authority of a Revenue and Customs warrant may, if the officer considers it appropriate, makes copies of any document or thing found in or on the premises or on any person searched under subsection (5)(c) above.
+>
+> (7) No person may be searched under subsection (5)(c) above except by a person of the same sex.
+>
+> (8) A sheriff may grant a Revenue and Customs warrant in relation to premises situated in an area of Scotland notwithstanding that it is outside the area of that sheriff and any such warrant may, without being backed or endorsed by another sheriff, be executed throughout Scotland in the same way as it may be executed within the sheriffdom of the sheriff who granted it.
+>
+> (9) In this section and in sections 23F to 23H of this Act, “premises” includes any place and, in particular—
+>
+> (a) any vehicle, vessel, aircraft or hovercraft;
+>
+> (b) any offshore installation (within the meaning of section 12(1) of the Mineral Workings (Offshore Installations) Act 1971); and
+>
+> (c) any tent or other movable structure.
+>
+> **Orders and warrants: common provisions**
+>
+> **Procedure where documents etc removed**
+>
+> **23F** (1) This section applies where—
+>
+> (a) a document is removed under a production order;
+>
+> (b) a document or other thing is removed under a Revenue and Customs warrant.
+>
+> (2) An officer who removes any document or thing shall, if requested to do so by a person mentioned in subsection (3) below, provide that person with a record of what that officer removed.
+>
+> (3) The persons referred to in subsection (2) above are—
+>
+> (a) in the case of a document removed under a production order, a haver;
+>
+> (b) in the case of a document or thing removed under a Revenue and Customs warrant—
+>
+> (i) a person who is the occupier of any premises from which the document or thing was removed; or
+>
+> (ii) a person who had possession or control of the document or thing before it was removed.
+>
+> (4) The officer must provide the record within a reasonable time of the request for it.
+>
+> **Access to and copies of documents etc removed**
+>
+> **23G** (1) This section applies where—
+>
+> (a) a document is removed under a production order;
+>
+> (b) a document or other thing is removed under a Revenue and Customs warrant.
+>
+> (2) A person mentioned in subsection (3) below may apply to the officer in overall charge of the investigation to which the order or warrant relates—
+>
+> (a) for access to the document or thing; or
+>
+> (b) for a copy or photograph of it.
+>
+> (3) The persons referred to in subsection (2) above are—
+>
+> (a) in the case of a document removed under a production order—
+>
+> (i) a haver; or
+>
+> (ii) a person acting on behalf of the haver;
+>
+> (b) in the case of a document or thing removed under a Revenue and Customs warrant, a person who had possession or control of the document or thing before it was removed.
+>
+> (4) Unless subsection (5) below applies, the officer in overall charge of the investigation shall—
+>
+> (a) in a case to which subsection (2)(a) above applies, allow the applicant supervised access to the document or thing; or
+>
+> (b) in a case to which subsection (2)(b) above applies—
+>
+> (i) allow the applicant supervised access to the document or thing for the purposes of photographing or copying it; or
+>
+> (ii) photograph or copy the document or thing (or cause it to be so photographed or copied) and provide the applicant with such a photograph or copy within a reasonable time.
+>
+> (5) The officer in overall charge need not comply with subsection (4) above where that officer has reasonable grounds for believing that to do so would prejudice—
+>
+> (a) the investigation;
+>
+> (b) the investigation of a Revenue and Customs offence other than the offence for the purposes of the investigation of which the document or thing was removed; or
+>
+> (c) any criminal proceedings which may be brought as a result of any investigation mentioned in paragraph (a) or (b) above.
+>
+> (6) In subsection (4) above, “supervised access” means access under the supervision of an officer approved by the officer in overall charge of the investigation.
+>
+> **Failure to comply with requirements of section 23F and 23G**
+>
+> **23H** (1) This section applies where—
+>
+> (a) a document is removed under a production order;
+>
+> (b) a document or other thing is removed under a Revenue and Customs warrant.
+>
+> (2) Subject to subsection (3) below, a person who claims that—
+>
+> (a) an officer has failed to comply with the requirements of section 23F(2) or (3) of this Act; or
+>
+> (b) an officer in overall charge of an investigation has failed to comply with the requirements of section 23G(4) of this Act,
+>
+> may apply to the sheriff for an order under subsection (4) below.
+>
+> (3) An application under subsection (2) above—
+>
+> (a) relating to a failure mentioned in subsection (2)(a) above, may be made only by a person who is entitled to make a request under section 23F(2) of this Act;
+>
+> (b) relating to a failure mentioned in subsection (2)(b) above, may be made only by—
+>
+> (i) a haver;
+>
+> (ii) a person acting on behalf of a haver but only where that person applied under section 23G(2) of this Act;
+>
+> (iii) a person who had possession or control of the document or thing before it was removed under a Revenue and Customs warrant.
+>
+> (4) The sheriff may, if satisfied that—
+>
+> (a) the officer has failed to comply with the requirements of section 23F(2) or (3) of this Act; or
+>
+> (b) the officer in overall charge of the investigation has failed to comply with the requirements of section 23G(4) of this Act,
+>
+> order the officer or, as the case may be, the officer in overall charge of the investigation to comply with the requirements within such time and in such manner as the sheriff specifies in the order.
+>
+> **Confidentiality**
+>
+> **23J** (1) Neither a production order nor a Revenue and Customs warrant authorises the seizure, removal or copying of any documents or other things subject to legal privilege.
+>
+> (2) Subsection (1) above does not apply where the document or thing is held for the purposes of furthering a criminal purpose.
+>
+> (3) In this section—
+>
+> “documents or other things subject to legal privilege” means—
+>
+> - (a) communications between a professional legal adviser and the adviser's client; or
+> - (b) communications made in connection with or in contemplation of legal proceedings and for the purposes of those proceedings,
+>
+> which would, in legal proceedings, be protected from disclosure by virtue of any rule of law relating to confidentiality of communications.
+>
+> **Meaning of “document” etc**
+>
+> **23K** (1) In sections 23B to 23J of this Act, references to a “document” include—
+>
+> (a) any thing in which information of any description is recorded; and
+>
+> (b) any part of such a thing.
+>
+> (2) Where a production order or a Revenue and Customs warrant applies to a document in electronic or magnetic form, the order or, as the case may be, the warrant requires the person having possession or control of the document to deliver or, as the case may be, give access to the information in a form which is visible and legible and, if the officer executing the order or warrant wishes to remove it, in a form which can be removed.
+>
+> **Execution and enforcement of orders and warrants outwith Scotland**
+>
+> **Cross-border exercise of powers**
+>
+> **23L** (1) Section 4 of the Summary Jurisdiction Act 1881 (execution of process of Scottish courts in England and Wales) shall apply to—
+>
+> (a) a production order; and
+>
+> (b) a Revenue and Customs warrant,
+>
+> as it applies to a process mentioned in that section.
+>
+> (2) Section 29 of the Petty Sessions (Ireland) Act 1851 (execution of warrants in Northern Ireland) shall apply to—
+>
+> (a) a production order; and
+>
+> (b) a Revenue and Customs warrant,
+>
+> as it applies to a warrant mentioned in that section.
+>
+> **Detention and questioning of suspects and witnesses**
+>
+> **Powers relating to suspects and potential witnesses**
+>
+> **23M** (1) Where an authorised officer has reasonable grounds for suspecting that a person has committed or is committing, at any place, a Revenue and Customs offence, the officer may require—
+>
+> (a) that person, if found by the officer at that place or at any place where the officer is entitled to be, to give—
+>
+> (i) the information mentioned in subsection (2) below; and
+>
+> (ii) an explanation of the circumstances which have given rise to the officer's suspicion;
+>
+> (b) any other person whom the officer finds at that place or at any place where the officer is entitled to be and who the officer believes has information relating to the offence, to give the information mentioned in subsection (2) below.
+>
+> (2) That information is—
+>
+> (a) the person's name;
+>
+> (b) the person's address;
+>
+> (c) the person's date of birth;
+>
+> (d) the person's place of birth (in such detail as the officer considers necessary or expedient for the purpose of establishing that person's identity); and
+>
+> (e) the person's nationality.
+>
+> (3) The officer may require the person mentioned in paragraph (a) of subsection (1) above to remain with the officer while the officer (any or all)—
+>
+> (a) subject to subsection (4) below, verifies any information mentioned in subsection (2) above given by the person;
+>
+> (b) subject to section (5) below, establishes whether the person may be a person suspected of having committed a Revenue and Customs offence other than the offence in relation to which the officer made the requirement of that person under paragraph (a) of subsection (1) above;
+>
+> (c) notes any explanation proffered by the person.
+>
+> (4) The officer shall exercise the power under paragraph (a) of subsection (3) above only where it appears to the officer that such verification can be obtained quickly.
+>
+> (5) The officer shall exercise the power under paragraph (b) of subsection (3) above only where—
+>
+> (a) the person mentioned in paragraph (a) of subsection (1) above has given a name and address; and
+>
+> (b) it appears to the officer that establishing the matter mentioned in paragraph (b) of subsection (3) above can be achieved quickly.
+>
+> (6) The officer may use reasonable force to ensure that the person mentioned in paragraph (a) of subsection (1) above remains with that officer.
+>
+> (7) The officer shall inform a person, when making a requirement of that person under—
+>
+> (a) paragraph (a) of subsection (1) above, of the officer's suspicion and of the general nature of the offence which the officer suspects that the person has committed or is committing;
+>
+> (b) paragraph (b) of subsection (1) above, of the officer's suspicion, of the general nature of the offence which the officer suspects has been or is being committed and that the reason for the requirement is that the officer believes the person has information relating to the offence;
+>
+> (c) subsection (3) above, why the person is being required to remain with the officer;
+>
+> (d) any of the said subsections, that failure to comply with the requirement may constitute an offence.
+>
+> **Fingerprinting of persons suspected of offences**
+>
+> **23N** (1) An authorised officer may, if the person mentioned in section 23M(1)(a) of this Act gives a name and address, require that person to provide—
+>
+> (a) that person's fingerprints; or
+>
+> (b) a record, created by an approved device, of the skin on that person's fingers.
+>
+> (2) Such fingerprints or record may be used only for the purposes of—
+>
+> (a) verifying the name and address given by the person;
+>
+> (b) establishing whether the person may be a person who is suspected of having committed any other Revenue and Customs offence,
+>
+> and all record of such fingerprints or record shall be destroyed as soon as possible after they have fulfilled those purposes.
+>
+> (3) The officer shall inform a person, when making a requirement of that person under subsection (1) above—
+>
+> (a) of the existence of the power to make the requirement and why the officer proposes to exercise it in the person's case; and
+>
+> (b) that failure to comply with the requirement may constitute an offence.
+>
+> (4) In subsection (1)(b) above, an “approved device” is any device approved by the Scottish Ministers under section 13(8) of the Criminal Procedure (Scotland) Act 1995.
+>
+> **Offences arising from breach of requirements under sections 23M and 23N**
+>
+> **23P** (1) A person mentioned in paragraph (a) of subsection (1) of section 23M of this Act who, having been required—
+>
+> (a) under that subsection to give the information mentioned in subsection (2) of that section;
+>
+> (b) under subsection (3) of that section to remain with an officer; or
+>
+> (c) under subsection (1) of section 23N of this Act to provide that person's fingerprints or a record such as is mentioned in paragraph (b) of that subsection,
+>
+> fails, without reasonable excuse, to do so, shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+>
+> (2) A person mentioned in paragraph (b) of subsection (1) of section 23M of this Act who, having been required under that subsection to give the information mentioned in subsection (2) of that section, fails, without reasonable excuse, to do so, shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 2 on the standard scale.
+>
+> (3) An authorised officer may arrest without warrant any person whom the officer has reasonable grounds for suspecting has committed an offence under subsection (1) or (2) above.
+
+**[^F174]4** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F175]5** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**6** In section 26 (detention in connection with drug smuggling offences), for “a customs office” (in both places) substitute “ an office of Revenue and Customs ”.
+
+**7** After that section insert—
+
+> **Power of arrest**
+>
+> **Power of arrest**
+>
+> **26A** Where an authorised officer has reasonable grounds for suspecting that a Revenue and Customs offence has been or is being committed, the officer may arrest without warrant any person whom the officer has reasonable grounds for suspecting to be guilty of the offence.
+>
+> **General provisions**
+>
+> **Interpretation of Part 3 etc**
+>
+> **26B** (1) In this Part of this Act—
+>
+> - “authorised officer” means an officer acting with the authority (which may be general or specific) of the Commissioners for Her Majesty's Revenue and Customs;
+> - “office of Revenue and Customs” means premises wholly or partly occupied by Her Majesty's Revenue and Customs; and
+> - “officer” means an officer of Revenue and Customs.
+>
+> (2) In any proceedings (whether civil or criminal) under or arising from this Part of this Act, a certificate of the Commissioners for Her Majesty's Revenue and Customs that an officer had authority to exercise a power or function conferred by a provision of this Part shall be conclusive proof of that fact.
+
+### Criminal Procedure (Scotland) Act 1995 (c. 46)
+
+**8** Section 307 of the Criminal Procedure (Scotland) Act 1995 (interpretation) is amended as follows.
+
+**9** In subsection (1), in the definition of “officer of law”, for paragraph (ba) substitute—
+
+> (ba) subject to subsection (1A) below, an officer of Revenue and Customs acting with the authority (which may be general or specific) of the Commissioners for Her Majesty's Revenue and Customs;
+
+.
+
+**10** After that subsection insert—
+
+> (1A) The inclusion of officers of Revenue and Customs as “officers of law” shall not have effect in relation to any matter specified in—
+>
+> (a) section 54(4)(b) or (f) of; or
+>
+> (b) paragraphs 3, 7, 10, 13 to 15, 19 or 24 to 29 of Schedule 1 to,
+>
+> the Commissioners for Revenue and Customs Act 2005 (former Inland Revenue matters).
+>
+> (1B) In any proceedings (whether civil or criminal) under or arising from this Act, a certificate of the Commissioners for Her Majesty's Revenue and Customs that an officer of Revenue and Customs had the authority to exercise a power or function conferred by a provision of this Act shall be conclusive evidence of that fact.
+
+### Criminal Justice and Police Act 2001 (c. 16)
+
+**11** The Criminal Justice and Police Act 2001 is amended as follows.
+
+**12** In section 63(2) (powers to obtain hard copies etc of information stored in electronic form), after paragraph (g) insert—
+
+> (ga) section 23E(5)(b) (as read with section 23K(2)) of the Criminal Law (Consolidation) (Scotland) Act 1995;
+
+.
+
+**13** In Schedule 1—
+
+(a) in Part 1, after paragraph 59 insert—
+
+> **Criminal Law (Consolidation) (Scotland) Act 1995 (c. 39)**
+>
+> **59A** The power of seizure conferred by section 23E(3) of the Criminal Law (Consolidation) (Scotland) Act 1995 (seizure of evidence of Revenue and Customs offences).
+
+, and
+
+(b) in Part 2, after paragraph 81 insert—
+
+> **Criminal Law (Consolidation) (Scotland) Act 1995 (c. 39)**
+>
+> **81A** The power of seizure conferred by section 23E(3) (as read with section 23E(5)(c)) of the Criminal Law (Consolidation) (Scotland) Act 1995 (seizure of evidence of Revenue and Customs offences).
+
+**14** (1) The amendments made by this Schedule come into force in accordance with provision made by the Treasury by order.
+
+(2) The power to make an order under this paragraph is exercisable by statutory instrument.
+
+## SCHEDULE 24 — Penalties for errors
+
+*Section 97*
+
+### Part 1 — Liability for penalty
+
+#### Error in taxpayer's document
+
+**1** (1) A penalty is payable by a person (P) where—
+
+(a) P gives HMRC a document of a kind listed in the Table below, and
+
+(b) Conditions 1 and 2 are satisfied.
+
+(2) Condition 1 is that the document contains an inaccuracy which amounts to, or leads to—
+
+(a) an understatement of [[^F176]a] liability to tax,
+
+(b) a false or inflated statement of a loss [^F177]..., or
+
+(c) a false or inflated claim to repayment of tax.
+
+(3) Condition 2 is that the inaccuracy was [[^F178]careless (within the meaning of paragraph 3) or deliberate on P’s part].
+
+(4) Where a document contains more than one inaccuracy, a penalty is payable for each inaccuracy.
+
+|  |  |
+|---|---|
+| *Tax* | *Document* |
+| Income tax or capital gains tax | Return under section 8 of TMA 1970 (personal return). |
+| Income tax or capital gains tax | Return under section 8A of TMA 1970 (trustee's return). |
+| Income tax or capital gains tax | Return, statement or declaration in connection with a claim for an allowance, deduction or relief. |
+| Income tax or capital gains tax | Accounts in connection with ascertaining liability to tax. |
+| Income tax or capital gains tax | Partnership return. |
+| Income tax or capital gains tax | Statement or declaration in connection with a partnership return. |
+| Income tax or capital gains tax | Accounts in connection with a partnership return. |
+| [[^F179]Apprenticeship levy | Return under regulations under section 105 of FA 2016.] |
+| [[^F180]Capital gains tax | Return under [[^F181]Schedule 2 to FA 2019] .] |
+| [[^F182]Income tax | Return under section 254 of FA 2004.] |
+| Income tax | Return for the purposes of PAYE regulations. |
+| Construction industry deductions | Return for the purposes of regulations under section 70(1)(a) of FA 2004 in connection with deductions on account of tax under the Construction Industry Scheme. |
+| Corporation tax | Company tax return under paragraph 3 of Schedule 18 to FA 1998. |
+| Corporation tax | Return, statement or declaration in connection with a claim for an allowance, deduction or relief. |
+| Corporation tax | Accounts in connection with ascertaining liability to tax. |
+| [[^F183]Digital services tax | DST return under paragraph 2 of Schedule 8 to FA 2020.] |
+| [[^F184]Multinational top-up tax | Overseas return notification and information provided with it |
+| Multinational top-up tax | Self-assessment return and information provided with it |
+| Multinational top-up tax | Below-threshold notification and information provided with it] |
+| [[^F185]Domestic top-up tax | Overseas return notification and information provided with it |
+| Domestic top-up tax | Self-assessment return and information provided with it |
+| Domestic top-up tax | Self-assessment return and information provided with it] |
+| VAT | Below-threshold notification and information provided with it |
+| VAT | Return, statement or declaration in connection with a claim. |
+| [^F186] . . . | [^F186] . . . |
+| [[^F187]Insurance premium tax | Return under regulations under section 54 of FA 1994. |
+| Insurance premium tax | Return, statement or declaration in connection with a claim. |
+| Inheritance tax | Account under section 216 or 217 of IHTA 1984. |
+| Inheritance tax | Information or document under regulations under section 256 of IHTA 1984. |
+| Inheritance tax | Statement or declaration in connection with a deduction, exemption or relief. |
+| Stamp duty land tax | Return under section 76 of FA 2003. |
+| Stamp duty reserve tax | Return under regulations under section 98 of FA 1986. |
+| [[^F188]Annual tax on enveloped dwellings | Annual tax on enveloped dwellings return.] |
+| [[^F188]Annual tax on enveloped dwellings | Return of adjusted chargeable amount.] |
+| Petroleum revenue tax | Return under paragraph 2 of Schedule 2 to the Oil Taxation Act 1975. |
+| [[^F189]Petroleum revenue tax | Statement or declaration in connection with a claim under paragraph 13A of Schedule 2 to the Oil Taxation Act 1975.] |
+| Petroleum revenue tax | Statement or declaration in connection with a claim under Schedule 5, 6, 7 or 8 to the Oil Taxation Act 1975. |
+| Petroleum revenue tax | Statement under section 1(1)(a) of the Petroleum Revenue Tax Act 1980. |
+| [[^F190]Plastic packaging tax | Return under regulations under section 61 of FA 2021.] |
+| [[^F191]Soft drinks industry levy | Return under regulations under section 52 of FA 2017] |
+| Aggregates levy | Return under regulations under section 25 of FA 2001. |
+| Climate change levy | Return under regulations under paragraph 41 of Schedule 6 to FA 2000. |
+| [[^F192]Carbon border adjustment mechanism | Return under paragraph 7 of Schedule 17 to FA 2026.] |
+| Landfill tax | Return under regulations under section 49 of FA 1996. |
+| Air passenger duty | Return under section 38 of FA 1994. |
+| [^F193] . . . | [^F193] . . . |
+| [[^F194]Alcohol duty | Statement or declaration in connection with a claim for repayment of duty under section 75 of F(No. 2)A 2023.] |
+| [[^F195]Alcohol duty | Return under regulations under section 88 of F(No. 2)A 2023.] |
+| Tobacco products duty | Return under regulations under section 7 of the Tobacco Products Duties Act 1979. |
+| [[^F196]Vaping products duty | Vaping products duty return.] |
+| Hydrocarbon oil duties | Return under regulations under section 21 of the Hydrocarbon Oil Duties Act 1979. |
+| Excise duties | Return under regulations under section 93 of CEMA 1979. |
+| Excise duties | Return under regulations under section 100G or 100H of CEMA 1979. |
+| Excise duties | Statement or declaration in connection with a claim. |
+| General betting duty | Return under regulations under [[^F197]section 166 of FA 2014] . |
+| Pool betting duty | Return under regulations under [[^F198]section 166 of FA 2014] . |
+| Bingo duty | Return under regulations under paragraph 9 of Schedule 3 to BGDA 1981. |
+| Lottery duty | Return under regulations under section 28(2) of FA 1993. |
+| Gaming duty | Return under directions under paragraph 10 of Schedule 1 to FA 1997. |
+| Remote gaming duty | Return under regulations under [[^F199]section 166 of FA 2014] .] |
+| [[^F200]Machine games duty | Return under regulations under paragraph 18 of Schedule 24 to FA 2012] |
+| [[^F201]Any of the taxes mentioned above ] | Any document which is likely to be relied upon by HMRC to determine, without further inquiry, a question about—<br>- (a) P's liability to tax,<br>- (b) payments by P by way of or in connection with tax,<br>- (c) any other payment by P (including penalties), or<br>- (d) repayments, or any other kind of payment or credit, to P. |
+
+[^F202]4A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F202]4B . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F202]4C . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[[^F203](5) In relation to a return under paragraph 2 of Schedule 2 to the Oil Taxation Act 1975 [[^F204]or a statement or declaration under paragraph 13A of that Schedule], references in this Schedule to P include any person who, after the giving of the return for a taxable field (within the meaning of that Act), becomes the responsible person for the field (within the meaning of that Act).]
+
+#### [[^F205]Error in taxpayer's document attributable to another person
+
+**1A** (1) A penalty is payable by a person (T) where—
+
+(a) another person (P) gives HMRC a document of a kind listed in the Table in paragraph 1,
+
+(b) the document contains a relevant inaccuracy, and
+
+(c) the inaccuracy was attributable to T deliberately supplying false information to P (whether directly or indirectly), or to T deliberately withholding information from P, with the intention of the document containing the inaccuracy.
+
+(2) A “relevant inaccuracy” is an inaccuracy which amounts to, or leads to—
+
+(a) an understatement of a liability to tax,
+
+(b) a false or inflated statement of a loss, or
+
+(c) a false or inflated claim to repayment of tax.
+
+(3) A penalty is payable under this paragraph in respect of an inaccuracy whether or not P is liable to a penalty under paragraph 1 in respect of the same inaccuracy.]
+
+#### Under-assessment by HMRC
+
+**2** (1) A penalty is payable by a person (P) where—
+
+(a) an assessment issued to P by HMRC understates P's liability to [[^F206]a relevant tax], and
+
+(b) P has failed to take reasonable steps to notify HMRC, within the period of 30 days beginning with the date of the assessment, that it is an under-assessment.
+
+(2) In deciding what steps (if any) were reasonable HMRC must consider—
+
+(a) whether P knew, or should have known, about the under-assessment, and
+
+(b) what steps would have been reasonable to take to notify HMRC.
+
+[[^F207](3) In sub-paragraph (1) “relevant tax” means any tax mentioned in the Table in paragraph 1.]
+
+[[^F208](4) In this paragraph (and in Part 2 of this Schedule so far as relating to this paragraph)—
+
+(a) “assessment” includes determination, and
+
+(b) accordingly, references to an under-assessment include an under-determination.]
+
+#### Degrees of culpability
+
+**3** (1) [[^F209]For the purposes of a penalty under paragraph 1, inaccuracy in] a document given by P to HMRC is—
+
+(a) “careless” if the inaccuracy is due to failure by P to take reasonable care,
+
+(b) “deliberate but not concealed” if the inaccuracy is deliberate [[^F210]on P's part] but P does not make arrangements to conceal it, and
+
+(c) “deliberate and concealed” if the inaccuracy is deliberate [[^F210]on P's part] and P makes arrangements to conceal it (for example, by submitting false evidence in support of an inaccurate figure).
+
+(2) An inaccuracy in a document given by P to HMRC, which was neither careless nor deliberate [[^F211]on P's part] when the document was given, is to be treated as careless if P—
+
+(a) discovered the inaccuracy at some later time, and
+
+(b) did not take reasonable steps to inform HMRC.
+
+[[^F212](3) Paragraph 47 of Schedule 19 to FA 2016 (special measures for persistently unco-operative large businesses) provides for certain inaccuracies to be treated, for the purposes of this Schedule, as being due to a failure by P to take reasonable care.]
+
+#### [[^F213]Errors related to avoidance arrangements
+
+**3A** (1) This paragraph applies where a document of a kind listed in the Table in paragraph 1 is given to HMRC by a person (“P”) and the document contains an inaccuracy which—
+
+(a) falls within paragraph 1(2), and
+
+(b) arises because the document is submitted on the basis that particular avoidance arrangements (within the meaning of paragraph 3B) had an effect which in fact they did not have.
+
+(2) It is to be presumed that the inaccuracy was careless, within the meaning of paragraph 3, unless—
+
+(a) the inaccuracy was deliberate on P's part, or
+
+(b) P satisfies HMRC or (on an appeal notified to the tribunal) the tribunal that P took reasonable care to avoid inaccuracy.
+
+(3) In considering whether P took reasonable care to avoid inaccuracy, HMRC and (on an appeal notified to the tribunal) the tribunal must take no account of any evidence of any reliance by P on advice where the advice is disqualified.
+
+(4) Advice is “disqualified” if any of the following applies—
+
+(a) the advice was given to P by an interested person;
+
+(b) the advice was given to P as a result of arrangements made between an interested person and the person who gave the advice;
+
+(c) the person who gave the advice did not have appropriate expertise for giving the advice;
+
+(d) the advice took no account of P's individual circumstances;
+
+(e) the advice was addressed to, or given to, a person other than P;
+
+but this is subject to sub-paragraphs (5) and (7).
+
+(5) Where (but for this sub-paragraph) advice would be disqualified under any of paragraphs (a) to (c) of sub-paragraph (4), the advice is not disqualified under that paragraph if at the relevant time P—
+
+(a) has taken reasonable steps to find out whether the advice falls within that paragraph, and
+
+(b) reasonably believes that it does not.
+
+(6) In sub-paragraph (4) “an interested person” means—
+
+(a) a person, other than P, who participated in the avoidance arrangements or any transaction forming part of them, or
+
+(b) a person who for any consideration (whether or not in money) facilitated P's entering into the avoidance arrangements.
+
+(7) Where (but for this sub-paragraph) advice would be disqualified under paragraph (a) of sub-paragraph (4) because it was given by a person within sub-paragraph (6)(b), the advice is not disqualified under that paragraph if—
+
+(a) the person giving the advice had appropriate expertise for giving it,
+
+(b) the advice took account of P's individual circumstances, and
+
+(c) at the time when the question whether the advice is disqualified arises—
+
+(i) Condition E in paragraph 3B(5) is met in relation to the avoidance arrangements, but
+
+(ii) none of Conditions A to D in paragraph 3B(5) is or has at any time been met in relation to them.
+
+(8) If the document mentioned in sub-paragraph (1) is given to HMRC by P as a personal representative of a deceased person (“D”)—
+
+(a) sub-paragraph (4) is to be read as if—
+
+(i) the references in paragraphs (a) and (b) to P were to P or D;
+
+(ii) the reference in paragraph (d) to P were to D, and
+
+(iii) the reference in paragraph (e) to a person other than P were to a person who is neither P nor D,
+
+(b) sub-paragraph (6) is to be read as if—
+
+(i) the reference in paragraph (a) to P were a reference to the person to whom the advice was given, and
+
+(ii) the reference in paragraph (b) to P were to D (or, where P also participated in the avoidance arrangements, P or D), and
+
+(c) sub-paragraph (7) is to be read as if the reference in paragraph (b) to P were to D.
+
+(9) In this paragraph—
+
+- “arrangements” includes any agreement, understanding, scheme, transaction or series of transactions (whether or not legally enforceable);
+- “the relevant time” means the time when the document mentioned in sub-paragraph (1) is given to HMRC;
+- “the tribunal” has the same meaning as in paragraph 17 (see paragraph 17(5A)).
+
+**3B** (1) In paragraph 3A “avoidance arrangements” means, subject to sub-paragraph (3), arrangements which fall within sub-paragraph (2).
+
+(2) Arrangements fall within this sub-paragraph if, having regard to all the circumstances, it would be reasonable to conclude that the obtaining of a tax advantage was the main purpose, or one of the main purposes, of the arrangements.
+
+(3) Arrangements are not avoidance arrangements for the purposes of paragraph 3A if (although they fall within sub-paragraph (2))—
+
+(a) they are arrangements which accord with established practice, and
+
+(b) HMRC had, at the time the arrangements were entered into, indicated its acceptance of that practice.
+
+(4) If, at any time, any of Conditions A to E is met in relation to particular arrangements—
+
+(a) for the purposes of this Schedule the arrangements are to be taken to fall within (and always to have fallen within) sub-paragraph (2), and
+
+(b) in relation to the arrangements, sub-paragraph (3) (and the reference to it in sub-paragraph (1)) are to be treated as omitted.
+
+This does not prevent arrangements from falling within sub-paragraph (2) other than by reason of one or more of Conditions A to E being met.
+
+(5) Conditions A to E are as follows—
+
+(a) Condition A is that the arrangements are DOTAS arrangements within the meaning given by section 219(5) and (6) of FA 2014;
+
+(b) Condition B is that the arrangements are disclosable VAT arrangements or disclosable indirect tax arrangements for the purposes of Schedule 18 to FA 2016 (see paragraphs 8A to 9A of that Schedule);
+
+(c) Condition C is that both of the following apply—
+
+(i) P has been given a notice under a provision mentioned in sub-paragraph (6) stating that a tax advantage arising from the arrangements is to be counteracted, and
+
+(ii) that tax advantage has been counteracted under section 209 of FA 2013;
+
+(d) Condition D is that a follower notice under section 204 of FA 2014 has been given to P by reference to the arrangements (and not withdrawn) and—
+
+(i) the necessary corrective action for the purposes of section 208 of FA 2014 has been taken in respect of the denied advantage, or
+
+(ii) the denied advantage has been counteracted otherwise than as mentioned in sub-paragraph (i);
+
+(e) Condition E is that a tax advantage asserted by reference to the arrangements has been counteracted (by an assessment, an amendment of a return or claim, or otherwise) on the basis that an avoidance-related rule applies in relation to P's affairs.
+
+(6) The provisions referred to in sub-paragraph (5)(c)(i) are—
+
+(a) paragraph 12 of Schedule 43 to FA 2013 (general anti-abuse rule: notice of final decision);
+
+(b) paragraph 8 or 9 of Schedule 43A to that Act (pooled or bound arrangements: notice of final decision);
+
+(c) paragraph 8 of Schedule 43B to that Act (generic referrals: notice of final decision).
+
+(7) In sub-paragraph (5)(d) the reference to giving a follower notice to P includes giving a partnership follower notice in respect of a partnership return in relation to which P is a relevant partner; and for the purposes of this sub-paragraph—
+
+(a) “relevant partner” has the meaning given by paragraph 2(5) of Schedule 31 to FA 2014;
+
+(b) a partnership follower notice is given “in respect of” the partnership return mentioned in paragraph 2(2)(a) or (b) of that Schedule.
+
+(8) For the purposes of sub-paragraph (5)(d) it does not matter whether the denied advantage has been dealt with—
+
+(a) wholly as mentioned in one or other of sub-paragraphs (i) and (ii) of sub-paragraph (5)(d), or
+
+(b) partly as mentioned in one of those sub-paragraphs and partly as mentioned in the other;
+
+and “the denied advantage” has the same meaning as in Chapter 2 of Part 4 of FA 2014 (see section 208(3) of and paragraph 4(3) of Schedule 31 to that Act).
+
+(9) For the purposes of sub-paragraph (5)(e) a tax advantage has been “asserted by reference to” the arrangements if a return, claim or appeal has been made by P on the basis that the tax advantage results from the arrangements.
+
+(10) In this paragraph—
+
+- “arrangements” has the same meaning as in paragraph 3A;
+
+- “avoidance-related rule” has the same meaning as in Part 4 of Schedule 18 to FA 2016 (see paragraph 25 of that Schedule);
+
+- a “tax advantage” includes—
+
+  - (a) relief or increased relief from tax,
+  - (b) repayment or increased repayment of tax,
+  - (c) avoidance or reduction of a charge to tax or an assessment to tax,
+  - (d) avoidance of a possible assessment to tax,
+  - (e) deferral of a payment of tax or advancement of a repayment of tax,
+  - (f) avoidance of an obligation to deduct or account for tax, and
+  - (g) in relation to VAT, anything which is a tax advantage for the purposes of Schedule 18 to FA 2016 under paragraph 5 of that Schedule.]
+
+#### [[^F214]Errors related to transfer pricing records
+
+**3C** (1) This paragraph applies where—
+
+(a) a document of a kind listed in the Table in paragraph 1 relating to a relevant tax period is given to HMRC by a person (“P”),
+
+(b) the document contains an inaccuracy—
+
+(i) which falls within paragraph 1(2), and
+
+(ii) which involves the calculation of profits or losses in accordance with Part 4 of TIOPA 2010 (transfer pricing) for the purposes of that period, and
+
+(c) the relevant person (whether or not P) failed to comply, in relation to specified relevant transfer pricing records that relate to the inaccuracy, with one or more of—
+
+(i) section 12B of TMA 1970 (records to be kept for the purposes of returns),
+
+(ii) paragraph 21 of Schedule 18 to FA 1998 (duty to keep and preserve records), and
+
+(iii) an information notice (within the meaning of Schedule 36 to FA 2008 (information and inspection powers)).
+
+(2) It is to be presumed that the inaccuracy was careless, within the meaning of paragraph 3, unless—
+
+(a) the inaccuracy was deliberate on P’s part, or
+
+(b) P satisfies HMRC or (on an appeal notified to the tribunal) the tribunal that P took reasonable care to avoid the inaccuracy.
+
+(3) Sub-paragraphs (4) to (6) apply for the purposes of this paragraph.
+
+(4) “Relevant person”, in relation to a document of a kind listed in the Table in paragraph 1, means—
+
+(a) the person to whose tax liability the document relates,
+
+(b) in the case of a return under section 8A of TMA 1970 (trustee's return), a relevant trustee (within the meaning of that Act), or
+
+(c) in the case of a partnership return, or a statement, declaration or accounts in connection with a partnership return, a person who was required by a notice under section 12AA of TMA 1970 (partnership return) to make and deliver a return in respect of relevant tax period.
+
+(5) “Relevant tax period” means a tax period—
+
+(a) in respect of which—
+
+(i) the person mentioned in sub-paragraph (4)(a),
+
+(ii) in the case mentioned in sub-paragraph (4)(b), the trustees of the trust concerned, or
+
+(iii) in the case mentioned in sub-paragraph (4)(c), the partnership to which the partnership return relates,
+
+together with one or more other enterprises, constitutes an MNE Group within the meaning of the Taxes (Base Erosion and Profit Shifting) (Country-by-Country Reporting) Regulations 2016 (S.I. 2016/237) (see regulation 2(3) of those Regulations), and
+
+(b) in respect of which the MNE Group meets the threshold requirement within the meaning of those Regulations (see regulations 3(2) to (4) of those Regulations).
+
+(6) Records are “specified relevant transfer pricing records” if—
+
+(a) they are relevant transfer pricing records specified, or of a description specified, in regulations under section 12B of TMA 1970 or paragraph 21 of Schedule 18 to FA 1998 (duties to keep and preserve records), and
+
+(b) the relevant person is required to keep and preserve those records under either or both of those provisions.]
+
+### Part 2 — Amount of penalty
+
+#### Standard amount
+
+**[[^F215]4** (1) This paragraph sets out the penalty payable under paragraph 1.
+
+(2) If the inaccuracy is in category 1, the penalty is—
+
+(a) for careless action, 30% of the potential lost revenue,
+
+(b) for deliberate but not concealed action, 70% of the potential lost revenue, and
+
+(c) for deliberate and concealed action, 100% of the potential lost revenue.
+
+(3) If the inaccuracy is in category 2, the penalty is—
+
+(a) for careless action, 45% of the potential lost revenue,
+
+(b) for deliberate but not concealed action, 105% of the potential lost revenue, and
+
+(c) for deliberate and concealed action, 150% of the potential lost revenue.
+
+(4) If the inaccuracy is in category 3, the penalty is—
+
+(a) for careless action, 60% of the potential lost revenue,
+
+(b) for deliberate but not concealed action, 140% of the potential lost revenue, and
+
+(c) for deliberate and concealed action, 200% of the potential lost revenue.
+
+(5) Paragraph 4A explains the 3 categories of inaccuracy.
+
+**4A** (1) An inaccuracy is in category 1 if—
+
+(a) it involves a domestic matter, or
+
+(b) it involves an offshore matter and—
+
+(i) the territory in question is a category 1 territory, or
+
+(ii) the tax at stake is a tax other than income tax or capital gains tax.
+
+(2) An inaccuracy is in category 2 if—
+
+(a) it involves an offshore matter [[^F216]or an offshore transfer] ,
+
+(b) the territory in question is a category 2 territory, and
+
+(c) the tax at stake is income tax [[^F217], capital gains tax or inheritance tax] .
+
+(3) An inaccuracy is in category 3 if—
+
+(a) it involves an offshore matter [[^F218]or an offshore transfer] ,
+
+(b) the territory in question is a category 3 territory, and
+
+(c) the tax at stake is income tax [[^F219] , capital gains tax or inheritance tax] .
+
+(4) An inaccuracy “involves an offshore matter” if it results in a potential loss of revenue that is charged on or by reference to—
+
+(a) income arising from a source in a territory outside the UK,
+
+(b) assets situated or held in a territory outside the UK,
+
+(c) activities carried on wholly or mainly in a territory outside the UK, or
+
+(d) anything having effect as if it were income, assets or activities of a kind described above.
+
+[[^F220](4A) Where the tax at stake is inheritance tax, assets are treated for the purposes of sub-paragraph (4) as situated or held in a territory outside the UK if they are so situated or held immediately after the transfer of value by reason of which inheritance tax becomes chargeable.
+
+(4B) An inaccuracy “involves an offshore transfer” if—
+
+(a) it does not involve an offshore matter,
+
+(b) it is deliberate (whether or not concealed) and results in a potential loss of revenue,
+
+(c) the tax at stake is income tax, capital gains tax or inheritance tax, and
+
+(d) the applicable condition in paragraph 4AA is satisfied.]
+
+(5) An inaccuracy “involves a domestic matter” if it results in a potential loss of revenue [[^F221]and does not involve either an offshore matter or an offshore transfer ] .
+
+(6) If a single inaccuracy is in more than one category (each referred to as a “relevant category”)—
+
+(a) it is to be treated for the purposes of this Schedule as if it were separate inaccuracies, one in each relevant category according to the matters [[^F222]or transfers] that it involves, and
+
+(b) the potential lost revenue is to be calculated separately in respect of each separate inaccuracy.
+
+(7) “Category 1 territory”, “category 2 territory” and “category 3 territory” are defined in paragraph 21A.
+
+(8) “Assets” has the meaning given in section 21(1) of TCGA 1992, but also includes sterling.
+
+**[[^F223]4AA** (1) This paragraph makes provision in relation to offshore transfers.
+
+(2) Where the tax at stake is income tax, the applicable condition is satisfied if the income on or by reference to which the tax is charged, or any part of the income—
+
+(a) is received in a territory outside the UK, or
+
+(b) is transferred before the filing date to a territory outside the UK.
+
+(3) Where the tax at stake is capital gains tax, the applicable condition is satisfied if the proceeds of the disposal on or by reference to which the tax is charged, or any part of the proceeds—
+
+(a) are received in a territory outside the UK, or
+
+(b) are transferred before the filing date to a territory outside the UK.
+
+(4) Where the tax at stake is inheritance tax, the applicable condition is satisfied if—
+
+(a) the disposition that gives rise to the transfer of value by reason of which the tax becomes chargeable involves a transfer of assets, and
+
+(b) after that disposition but before the filing date the assets, or any part of the assets, are transferred to a territory outside the UK.
+
+(5) In the case of a transfer falling within sub-paragraph (2)(b), (3)(b) or (4)(b), references to the income, proceeds or assets transferred are to be read as including references to any assets derived from or representing the income, proceeds or assets.
+
+(6) In relation to an offshore transfer, the territory in question for the purposes of paragraph 4A is the highest category of territory by virtue of which the inaccuracy involves an offshore transfer.
+
+(7) “Filing date” means the date when the document containing the inaccuracy is given to HMRC.
+
+(8) “Assets” has the same meaning as in paragraph 4A.]
+
+**4B** The penalty payable under paragraph 1A is 100% of the potential lost revenue.
+
+**4C** The penalty payable under paragraph 2 is 30% of the potential lost revenue.
+
+**4D** Paragraphs 5 to 8 define “potential lost revenue”.]
+
+#### Potential lost revenue: normal rule
+
+**5** (1) “The potential lost revenue” in respect of an inaccuracy in a document [[^F224](including an inaccuracy attributable to a supply of false information or withholding of information)] or a failure to notify an under-assessment is the additional amount due or payable in respect of tax as a result of correcting the inaccuracy or assessment.
+
+(2) The reference in sub-paragraph (1) to the additional amount due or payable includes a reference to—
+
+(a) an amount payable to HMRC having been erroneously paid by way of repayment of tax, and
+
+(b) an amount which would have been repayable by HMRC had the inaccuracy or assessment not been corrected.
+
+(3) In sub-paragraph (1) “tax” includes national insurance contributions.
+
+(4) The following shall be ignored in calculating potential lost revenue under this paragraph—
+
+[[^F225](za) any CIR alteration, other than a permitted reduction, in respect of the tax period to which the document relates,]
+
+(a) group relief, and
+
+[[^F226](b) any relief under [[^F227]section 458 of CTA 2010] (relief in respect of repayment etc of loan) which is deferred under [[^F228]subsection (5)] of that section;]
+
+(but this sub-paragraph does not prevent a penalty being charged in respect of an inaccurate claim for relief).
+
+[[^F229](5) For the purposes of sub-paragraph (4)(za)—
+
+(a) a “CIR alteration” means an alteration made to an amount disallowed, or reactivated, under Part 10 of the Taxation (International and Other Provisions) Act 2010 as a result of the submission of a revised interest restriction return under paragraph 8(4) of Schedule 7A to that Act;
+
+(b) a CIR alteration is a “permitted reduction” if it has the effect of—
+
+(i) reducing the allocated disallowance of a company by no more than the relevant proportion, or
+
+(ii) increasing the allocated reactivation of a company by no more than the relevant proportion.
+
+(c) the “relevant proportion” is—
+
+(i) for the purposes of paragraph (b)(i), the proportion by which the total disallowed amount of the worldwide group for the period is reduced, as a result of the submission of the revised interest restriction return;
+
+(ii) for the purposes of paragraph (b)(ii) the proportion by which the interest reactivation cap of the worldwide group is increased, as a result of the submission of the revised interest restriction return.
+
+(6) In sub-paragraph (5), the following terms have the same meaning as in Part 10 of the Taxation (International and Other Provisions) Act 2010—
+
+- “allocated disallowance” (see paragraph 22(2) of Schedule 7A to that Act);
+- “allocated reactivation” (see paragraph 25(2) of that Schedule);
+- “total disallowed amount of the worldwide group” and “interest reactivation cap of the worldwide group” (see section 373 of that Act).]
+
+#### Potential lost revenue: multiple errors
+
+**6** (1) Where P is liable to a penalty [[^F230]under paragraph 1] in respect of more than one inaccuracy, and the calculation of potential lost revenue under paragraph 5 in respect of each inaccuracy depends on the order in which they are corrected—
+
+(a) careless inaccuracies shall be taken to be corrected before deliberate inaccuracies, and
+
+(b) deliberate but not concealed inaccuracies shall be taken to be corrected before deliberate and concealed inaccuracies.
+
+(2) In calculating potential lost revenue where P is liable to a penalty [[^F231]under paragraph 1] in respect of one or more understatements in one or more documents relating to a tax period, account shall be taken of any overstatement in any document given by P which relates to the same tax period.
+
+(3) In sub-paragraph (2)—
+
+(a) “understatement” means an inaccuracy that satisfies Condition 1 of paragraph 1, and
+
+(b) “overstatement” means an inaccuracy that does not satisfy that condition.
+
+(4) For the purposes of sub-paragraph (2) overstatements shall be set against understatements in the following order—
+
+(a) understatements in respect of which P is not liable to a penalty,
+
+(b) careless understatements,
+
+(c) deliberate but not concealed understatements, and
+
+(d) deliberate and concealed understatements.
+
+(5) In calculating [[^F232]for the purposes of a penalty under paragraph 1] potential lost revenue in respect of a document given by or on behalf of P no account shall be taken of the fact that a potential loss of revenue from P is or may be balanced by a potential over-payment by another person (except to the extent that an enactment requires or permits a person's tax liability to be adjusted by reference to P's).
+
+#### Potential lost revenue: losses
+
+**7** (1) Where an inaccuracy has the result that a loss is wrongly recorded for purposes of direct tax and the loss has been wholly used to reduce the amount due or payable in respect of tax, the potential lost revenue is calculated in accordance with paragraph 5.
+
+(2) Where an inaccuracy has the result that a loss is wrongly recorded for purposes of direct tax and the loss has not been wholly used to reduce the amount due or payable in respect of tax, the potential lost revenue is—
+
+(a) the potential lost revenue calculated in accordance with paragraph 5 in respect of any part of the loss that has been used to reduce the amount due or payable in respect of tax, plus
+
+(b) 10% of any part that has not.
+
+(3) Sub-paragraphs (1) and (2) apply both—
+
+(a) to a case where no loss would have been recorded but for the inaccuracy, and
+
+(b) to a case where a loss of a different amount would have been recorded (but in that case sub-paragraphs (1) and (2) apply only to the difference between the amount recorded and the true amount).
+
+(4) Where an inaccuracy has the effect of creating or increasing an aggregate loss recorded for a group of companies—
+
+(a) the potential lost revenue shall be calculated in accordance with this paragraph, and
+
+(b) in applying paragraph 5 in accordance with sub-paragraphs (1) and (2) above, group relief may be taken into account (despite paragraph 5(4)(a)).
+
+(5) The potential lost revenue in respect of a loss is nil where, because of the nature of the loss or P's circumstances, there is no reasonable prospect of the loss being used to support a claim to reduce a tax liability (of any person).
+
+#### Potential lost revenue: delayed tax
+
+**8** (1) Where an inaccuracy resulted in an amount of tax being declared later than it should have been (“the delayed tax”), the potential lost revenue is—
+
+(a) 5% of the delayed tax for each year of the delay, or
+
+(b) a percentage of the delayed tax, for each separate period of delay of less than a year, equating to 5% per year.
+
+(2) This paragraph does not apply to a case to which paragraph 7 applies.
+
+#### Reductions for disclosure
+
+**9** [[^F233](A1) Paragraph 10 provides for reductions in penalties—
+
+(a) under paragraph 1 where a person discloses an inaccuracy that involves a domestic matter,
+
+(b) under paragraph 1A where a person discloses a supply of false information or withholding of information, and
+
+(c) under paragraph 2 where a person discloses a failure to disclose an under-assessment.
+
+(A2) Paragraph 10A provides for reductions in penalties under paragraph 1 where a person discloses an inaccuracy that involves an offshore matter or an offshore transfer.
+
+(A3) Sub-paragraph (1) applies where a person discloses—
+
+(a) an inaccuracy that involves a domestic matter,
+
+(b) a careless inaccuracy that involves an offshore matter,
+
+(c) a supply of false information or withholding of information, or
+
+(d) a failure to disclose an under-assessment.]
+
+(1) A person discloses [[^F234]the matter] by—
+
+(a) telling HMRC about it,
+
+(b) giving HMRC reasonable help in quantifying the inaccuracy [[^F235], the inaccuracy attributable to the [[^F236]supply of false information] or withholding of information, or the] under-assessment, and
+
+(c) allowing HMRC access to records for the purpose of ensuring that the inaccuracy [[^F237], the inaccuracy attributable to the [[^F238]supply of false information] or withholding of information, or the] under-assessment is fully corrected.
+
+[[^F239](1A) Sub-paragraph (1B) applies where a person discloses—
+
+(a) a deliberate inaccuracy (whether concealed or not) that involves an offshore matter, or
+
+(b) an inaccuracy that involves an offshore transfer.
+
+(1B) A person discloses the inaccuracy by—
+
+(a) telling HMRC about it,
+
+(b) giving HMRC reasonable help in quantifying the inaccuracy,
+
+(c) allowing HMRC access to records for the purpose of ensuring that the inaccuracy is fully corrected, and
+
+(d) providing HMRC with additional information.
+
+(1C) The Treasury must make regulations setting out what is meant by “additional information” for the purposes of sub-paragraph (1B)(d).
+
+(1D) Regulations under sub-paragraph (1C) are to be made by statutory instrument.
+
+(1E) An instrument containing regulations under sub-paragraph (1C) is subject to annulment in pursuance of a resolution of the House of Commons.]
+
+(2) Disclosure—
+
+(a) is “unprompted” if made at a time when the person making it has no reason to believe that HMRC have discovered or are about to discover the inaccuracy [[^F240], the supply of false information or withholding of information, or the under-assessment], and
+
+(b) otherwise, is “prompted”.
+
+(3) In relation to disclosure “quality” includes timing, nature and extent.
+
+[[^F241](4) Paragraph 4A(4) to (5) applies to determine whether an inaccuracy involves an offshore matter, an offshore transfer or a domestic matter for the purposes of this paragraph.]
+
+**[[^F242]10** (1) If a person who would otherwise be liable to a penalty of a percentage shown in column 1 of the Table (a “standard percentage”) has made a disclosure, HMRC must reduce the standard percentage to one that reflects the quality of the disclosure.
+
+(2) But the standard percentage may not be reduced to a percentage that is below the minimum shown for it—
+
+(a) in the case of a prompted disclosure, in column 2 of the Table, and
+
+(b) in the case of an unprompted disclosure, in column 3 of the Table.
+
+|  |  |  |
+|---|---|---|
+| *[[^F243]Standard %* | *Minimum % for prompted disclosure* | *Minimum % for unprompted disclosure* |
+| 30% | 15% | 0% |
+| 70% | 35% | 20% |
+| 100% | 50% | 30%]] |
+
+**[[^F244]10A** (1) If a person who would otherwise be liable to a penalty of a percentage shown in column 1 of the Table (a “standard percentage”) has made a disclosure, HMRC must reduce the standard percentage to one that reflects the quality of the disclosure.
+
+(2) But the standard percentage may not be reduced to a percentage that is below the minimum shown for it—
+
+(a) in the case of a prompted disclosure, in column 2 of the Table, and
+
+(b) in the case of an unprompted disclosure, in column 3 of the Table.
+
+|  |  |  |
+|---|---|---|
+| *Standard %* | *Minimum % for prompted disclosure* | *Minimum % for unprompted disclosure* |
+| 30% | 15% | 0% |
+| 37.5% | 18.75% | 0% |
+| 45% | 22.5% | 0% |
+| 60% | 30% | 0% |
+| 70% | 45% | 30% |
+| 87.5% | 53.75% | 35% |
+| 100% | 60% | 40% |
+| 105% | 62.5% | 40% |
+| 125% | 72.5% | 50% |
+| 140% | 80% | 50% |
+| 150% | 85% | 55% |
+| 200% | 110% | 70%] |
+
+#### Special reduction
+
+**11** (1) If they think it right because of special circumstances, HMRC may reduce a penalty under paragraph 1[[^F245], 1A] or 2.
+
+(2) In sub-paragraph (1) “special circumstances” does not include—
+
+(a) ability to pay, or
+
+(b) the fact that a potential loss of revenue from one taxpayer is balanced by a potential over-payment by another.
+
+(3) In sub-paragraph (1) the reference to reducing a penalty includes a reference to—
+
+(a) staying a penalty, and
+
+(b) agreeing a compromise in relation to proceedings for a penalty.
+
+#### Interaction with other penalties [[^F246]and late payment surcharges]
+
+**12** (1) The final entry in the Table in paragraph 1 excludes a document in respect of which a penalty is payable under section 98 of TMA 1970 (special returns).
+
+(2) The amount of a penalty for which P is liable under paragraph 1 or 2 in respect of a document relating to a tax period shall be reduced by the amount of any other penalty [[^F247]incurred by P, or any surcharge for late payment of tax imposed on P, if the amount of the penalty or surcharge is determined by reference to the same tax liability.]
+
+[[^F248](2A) In sub-paragraph (2) “any other penalty” does not include a penalty under Part 4 of FA 2014 (penalty where corrective action not taken after follower notice etc) [[^F249]or Schedule 22 to FA 2016 (asset-based penalty)].]
+
+(3) In the application of section 97A of TMA 1970 (multiple penalties) no account shall be taken of a penalty under paragraph 1 or 2.
+
+[[^F250](4) Where penalties are imposed under paragraphs 1 and 1A in respect of the same inaccuracy, the aggregate of the amounts of the penalties must not exceed the relevant percentage of the potential lost revenue.
+
+(5) The relevant percentage is—
+
+(a) if the penalty imposed under paragraph 1 is for an inaccuracy in category 1, 100%,
+
+(b) if the penalty imposed under paragraph 1 is for an inaccuracy in category 2, 150%, and
+
+(c) if the penalty imposed under paragraph 1 is for an inaccuracy in category 3, 200%.]
+
+### Part 3 — Procedure
+
+#### Assessment
+
+**13** (1) [[^F251]Where a person] becomes liable for a penalty under paragraph 1[[^F252], 1A] or 2 HMRC shall—
+
+(a) assess the penalty,
+
+(b) [[^F253]notify the person], and
+
+(c) state in the notice a tax period in respect of which the penalty is assessed [[^F254](subject to sub-paragraph (1ZB))].
+
+[[^F255](1ZA) Sub-paragraph (1ZB) applies where—
+
+(a) a person is at any time liable for two or more penalties relating to PAYE returns, or for two or more penalties relating to CIS returns, [[^F256] or for two or more penalties relating to apprenticeship levy returns, ] and
+
+(b) the penalties (“the relevant penalties”) are assessed in respect of more than one tax period (“the relevant tax periods”).
+
+(1ZB) A notice under sub-paragraph (1) in respect of any of the relevant penalties may, instead of stating the tax period in respect of which the penalty is assessed, state the tax year or the part of a tax year to which the penalty relates.
+
+(1ZC) For that purpose, a relevant penalty relates to the tax year or the part of a tax year in which the relevant tax periods fall.
+
+(1ZD) For the purposes of sub-paragraph (1ZA)—
+
+- “a PAYE return” means a return for the purposes of PAYE regulations;
+- “a CIS return” means a return for the purposes of regulations under section 70(1)(a) of FA 2004 in connection with deductions on account of tax under the Construction Industry Scheme.]
+- [[^F257]“an apprenticeship levy return” means a return under regulations under section 105 of FA 2016;]
+
+[[^F258](1A) A penalty under paragraph 1, 1A or 2 must be paid before the end of the period of 30 days beginning with the day on which notification of the penalty is issued.]
+
+(2) An assessment—
+
+(a) shall be treated for procedural purposes in the same way as an assessment to tax (except in respect of a matter expressly provided for by this Act),
+
+(b) may be enforced as if it were an assessment to tax, and
+
+(c) may be combined with an assessment to tax.
+
+(3) An assessment of a penalty under paragraph 1 [[^F259] or 1A] must be made [[^F260]before the end of the] period of 12 months beginning with—
+
+(a) the end of the appeal period for the decision correcting the inaccuracy, or
+
+(b) if there is no assessment [[^F261]to the tax concerned] within paragraph (a), the date on which the inaccuracy is corrected.
+
+(4) An assessment of a penalty under paragraph 2 must be made [[^F262]before the end of the period of 12 months beginning with—
+
+(a) the end of the appeal period for the assessment of tax which corrected the understatement, or
+
+(b) if there is no assessment within paragraph (a), the date on which the understatement is corrected.]
+
+(5) For the purpose of sub-paragraphs (3) and (4) a reference to an appeal period is a reference to the period during which—
+
+(a) an appeal could be brought, or
+
+(b) an appeal that has been brought has not been determined or withdrawn.
+
+(6) Subject to sub-paragraphs (3) and (4), a supplementary assessment may be made in respect of a penalty if an earlier assessment operated by reference to an underestimate of potential lost revenue.
+
+[[^F263](7) In this Part of this Schedule references to an assessment to tax, in relation to inheritance tax and stamp duty reserve tax, are to a determination.]
+
+#### Suspension
+
+**14** (1) HMRC may suspend all or part of a penalty for a careless inaccuracy under paragraph 1 by notice in writing to P.
+
+(2) A notice must specify—
+
+(a) what part of the penalty is to be suspended,
+
+(b) a period of suspension not exceeding two years, and
+
+(c) conditions of suspension to be complied with by P.
+
+(3) HMRC may suspend all or part of a penalty only if compliance with a condition of suspension would help P to avoid becoming liable to further penalties under paragraph 1 for careless inaccuracy.
+
+(4) A condition of suspension may specify—
+
+(a) action to be taken, and
+
+(b) a period within which it must be taken.
+
+(5) On the expiry of the period of suspension—
+
+(a) if P satisfies HMRC that the conditions of suspension have been complied with, the suspended penalty or part is cancelled, and
+
+(b) otherwise, the suspended penalty or part becomes payable.
+
+(6) If, during the period of suspension of all or part of a penalty under paragraph 1, P becomes liable for another penalty under that paragraph, the suspended penalty or part becomes payable.
+
+#### Appeal
+
+**15** (1) [[^F264]A person may] appeal against a decision of HMRC that a penalty is payable [[^F265]by the person].
+
+(2) [[^F264]A person may] appeal against a decision of HMRC as to the amount of a penalty payable [[^F265]by the person].
+
+(3) [[^F264]A person may] appeal against a decision of HMRC not to suspend a penalty payable [[^F265]by the person].
+
+(4) [[^F264]A person may] appeal against a decision of HMRC setting conditions of suspension of a penalty payable [[^F265]by the person].
+
+**[[^F266]16** (1) An appeal under this Part of this Schedule shall be treated in the same way as an appeal against an assessment to the tax concerned (including by the application of any provision about bringing the appeal by notice to HMRC, about HMRC review of the decision or about determination of the appeal by the First-tier Tribunal or Upper Tribunal).
+
+(2) [[^F267]Sub-paragraph (1) does not apply—
+
+(a) so as to require P to pay a penalty before an appeal against the assessment of the penalty is determined, or
+
+(b) in respect of any other matter expressly provided for by this Act.]]
+
+**17** (1) On an appeal under paragraph 15(1) the [^F268]... tribunal may affirm or cancel HMRC's decision.
+
+(2) On an appeal under paragraph 15(2) the [^F269]... tribunal may—
+
+(a) affirm HMRC's decision, or
+
+(b) substitute for HMRC's decision another decision that HMRC had power to make.
+
+(3) If the [^F270]... tribunal substitutes its decision for HMRC's, the [^F270]... tribunal may rely on paragraph 11—
+
+(a) to the same extent as HMRC (which may mean applying the same percentage reduction as HMRC to a different starting point), or
+
+(b) to a different extent, but only if the [^F270]... tribunal thinks that HMRC's decision in respect of the application of paragraph 11 was flawed.
+
+(4) On an appeal under paragraph 15(3)—
+
+(a) the [^F271]... tribunal may order HMRC to suspend the penalty only if it thinks that HMRC's decision not to suspend was flawed, and
+
+(b) if the [^F272]... tribunal orders HMRC to suspend the penalty—
+
+(i) P may appeal [^F273]... against a provision of the notice of suspension, and
+
+(ii) the [^F274]... tribunal may order HMRC to amend the notice.
+
+(5) On an appeal under paragraph 15(4) the [^F275]... tribunal—
+
+(a) may affirm the conditions of suspension, or
+
+(b) may vary the conditions of suspension, but only if the [^F275]... tribunal thinks that HMRC's decision in respect of the conditions was flawed.
+
+[[^F276](5A) In this paragraph “tribunal” means the First-tier Tribunal or Upper Tribunal (as appropriate by virtue of paragraph 16(1)).]
+
+(6) In sub-paragraphs (3)(b), (4)(a) and (5)(b) “flawed” means flawed when considered in the light of the principles applicable in proceedings for judicial review.
+
+(7) Paragraph 14 (see in particular paragraph 14(3)) is subject to the possibility of an order under this paragraph.
+
+### Part 4 — Miscellaneous
+
+#### Agency
+
+**18** (1) P is liable under paragraph 1(1)(a) where a document which contains a careless inaccuracy (within the meaning of paragraph 3) is given to HMRC on P's behalf.
+
+(2) In paragraph 2(1)(b) and (2)(a) a reference to P includes a reference to a person who acts on P's behalf in relation to tax.
+
+(3) Despite sub-paragraphs (1) and (2), P is not liable to a penalty [[^F277]under paragraph 1 or 2] in respect of anything done or omitted by P's agent where P satisfies HMRC that P took reasonable care to avoid inaccuracy (in relation to paragraph 1) or unreasonable failure (in relation to paragraph 2).
+
+(4) In paragraph 3(1)(a) (whether in its application to a document given by P or, by virtue of sub-paragraph (1) above, in its application to a document given on P's behalf) a reference to P includes a reference to a person who acts on P's behalf in relation to tax.
+
+(5) In paragraph 3(2) a reference to P includes a reference to a person who acts on P's behalf in relation to tax.
+
+[[^F278](6) [[^F279]Paragraphs 3A and 3C apply] where a document is given to HMRC on behalf of P as [[^F280]they apply] where a document is given to HMRC by P (and in paragraph 3B(9) the reference to P includes a person acting on behalf of P).]
+
+#### Companies: officers' liability
+
+**19** (1) Where a penalty under paragraph 1 is payable by a company for a deliberate inaccuracy which was attributable to an officer [[^F281]of the company, the officer is liable to pay such portion of the penalty (which may be 100%) as HMRC] may specify by written notice to the officer.
+
+(2) Sub-paragraph (1) does not allow HMRC to recover more than 100% of a penalty.
+
+(3) In the application of sub-paragraph (1) to a body corporate [[^F282]other than a limited liability partnership] “officer” means—
+
+(a) a director (including a shadow director within the meaning of section 251 of the Companies Act 2006 (c. 46)), [^F283]...
+
+[[^F284](aa) a manager, and]
+
+(b) a secretary.
+
+[[^F285](3A) In the application of sub-paragraph (1) to a limited liability partnership, “officer” means a member.]
+
+(4) In the application of sub-paragraph (1) in any other case “officer” means—
+
+(a) a director,
+
+(b) a manager,
+
+(c) a secretary, and
+
+(d) any other person managing or purporting to manage any of the company's affairs.
+
+[[^F286](5) Where HMRC have specified a portion of a penalty in a notice given to an officer under sub-paragraph (1)—
+
+(a) paragraph 11 applies to the specified portion as to a penalty,
+
+(b) the officer must pay the specified portion before the end of the period of 30 days beginning with the day on which the notice is given,
+
+(c) paragraph 13(2), (3) and (5) apply as if the notice were an assessment of a penalty,
+
+(d) a further notice may be given in respect of a portion of any additional amount assessed in a supplementary assessment in respect of the penalty under paragraph 13(6),
+
+(e) paragraphs 15(1) and (2), 16 and 17(1) to (3) and (6) apply as if HMRC had decided that a penalty of the amount of the specified portion is payable by the officer, and
+
+(f) paragraph 21 applies as if the officer were liable to a penalty.]
+
+[[^F287](6) In this paragraph “company” means any body corporate or unincorporated association, but does not include a partnership, a local authority or a local authority association.]
+
+#### Partnerships
+
+**20** (1) This paragraph applies where P is liable to a penalty under paragraph 1 for an inaccuracy in or in connection with a partnership return.
+
+(2) Where the inaccuracy affects the amount of tax due or payable by a partner of P, the partner is also liable to a penalty (“a partner's penalty”).
+
+(3) Paragraphs 4 to 13 and 19 shall apply in relation to a partner's penalty (for which purpose a reference to P shall be taken as a reference to the partner).
+
+(4) Potential lost revenue shall be calculated separately for the purpose of P's penalty and any partner's penalty, by reference to the proportions of any tax liability that would be borne by each partner.
+
+(5) Paragraph 14 shall apply jointly to P's penalty and any partner's penalties.
+
+(6) P may bring an appeal under paragraph 15 in respect of a partner's penalty (in addition to any appeal that P may bring in connection with the penalty for which P is liable).
+
+#### Double jeopardy
+
+**21** [[^F288]A person is] not liable to a penalty under paragraph 1 [[^F289], 1A] or 2 in respect of an inaccuracy or failure in respect of which [[^F290]the person has] been convicted of an offence.
+
+**[[^F291]21ZA** (1) A person is not liable to a penalty under paragraph 1 in respect of an inaccuracy if—
+
+(a) the inaccuracy involves a claim by the person to exercise or rely on a VAT right (in relation to a supply) that has been denied or refused by HMRC as mentioned in subsection (4) of section 69C of VATA 1994, and
+
+(b) the person has been assessed to a penalty under that section (and the assessment has not been successfully appealed against or withdrawn).
+
+(2) In sub-paragraph (1)(a) “VAT right” has the same meaning as in section 69C of VATA 1994.]
+
+### Part 5 — General
+
+#### [[^F292]Classification of territories
+
+**21A** (1) A category 1 territory is a territory designated as a category 1 territory by order made by the Treasury.
+
+(2) A category 2 territory is a territory that is neither—
+
+(a) a category 1 territory, nor
+
+(b) a category 3 territory.
+
+(3) A category 3 territory is a territory designated as a category 3 territory by order made by the Treasury.
+
+(4) In considering how to classify a territory for the purposes of this paragraph, the Treasury must have regard to—
+
+(a) the existence of any arrangements between the UK and that territory for the exchange of information for tax enforcement purposes,
+
+(b) the quality of any such arrangements (in particular, whether they provide for information to be exchanged automatically or on request), [^F293]...
+
+(c) the benefit that the UK would be likely to obtain from receiving information from that territory, were such arrangements to exist with it.
+
+[[^F294](d) the existence of any other arrangements between the UK and that territory for co-operation in the area of taxation, and
+
+(e) the quality of any such other arrangements (in particular, the extent to which the co-operation provided for in them assists or is likely to assist in the protection of revenue raised from taxation in the UK).]
+
+(5) An order under this paragraph is to be made by statutory instrument.
+
+(6) Subject to sub-paragraph (7), an instrument containing an order under this paragraph is subject to annulment in pursuance of a resolution of the House of Commons.
+
+(7) If the order is—
+
+(a) the first order to be made under sub-paragraph (1), or
+
+(b) the first order to be made under sub-paragraph (3),
+
+it may not be made unless a draft of the instrument containing it has been laid before, and approved by a resolution of, the House of Commons.
+
+(8) An order under this paragraph does not apply to inaccuracies in a document given to HMRC (or, in a case within paragraph 3(2), inaccuracies discovered by P) before the date on which the order comes into force.
+
+#### Location of assets etc
+
+**21B** (1) The Treasury may by regulations make provision for determining for the purposes of paragraph 4A where—
+
+(a) a source of income is located,
+
+(b) an asset is situated or held, or
+
+(c) activities are wholly or mainly carried on.
+
+[[^F295](1A) The Treasury may by regulations make provision for determining for the purposes of paragraph 4AA where—
+
+(a) income is received or transferred,
+
+(b) the proceeds of a disposal are received or transferred, or
+
+(c) assets are transferred.]
+
+(2) Different provision may be made for different cases and for income tax [[^F296], capital gains tax and inheritance tax] .
+
+(3) Regulations under this paragraph are to be made by statutory instrument.
+
+(4) An instrument containing regulations under this paragraph is subject to annulment in pursuance of a resolution of the House of Commons.]
+
+#### [[^F297]Treatment of certain payments on account of tax
+
+**21C** In paragraphs 1(2) and 5 references to “tax” are to be interpreted as if amounts payable under [[^F298]Schedule 2 to FA 2019] [[^F299]and amounts payable on account of apprenticeship levy] were tax.]
+
+#### Interpretation
+
+**22** Paragraphs 23 to [[^F300]27] apply for the construction of this Schedule.
+
+**23** HMRC means Her Majesty's Revenue and Customs.
+
+**[[^F301]23A** “Tax”, without more, includes duty.]
+
+**[[^F302]23B** “UK” means the United Kingdom, including the territorial sea of the United Kingdom.]
+
+**24** An expression used in relation to income tax has the same meaning as in the Income Tax Acts.
+
+**25** An expression used in relation to corporation tax has the same meaning as in the Corporation Tax Acts.
+
+**26** An expression used in relation to capital gains tax has the same meaning as in the enactments relating to that tax.
+
+**27** An expression used in relation to VAT has the same meaning as in VATA 1994.
+
+**28** In this Schedule—
+
+(a) a reference to corporation tax includes a reference to tax or duty which by virtue of an enactment is assessable or chargeable as if it were corporation tax,
+
+(b) a reference to tax includes a reference to construction industry deductions under Chapter 3 of Part 3 of FA 2004,
+
+(c) “direct tax” means—
+
+(i) income tax,
+
+(ii) capital gains tax, [^F303]...
+
+(iii) corporation tax, [[^F304]and
+
+(iv) petroleum revenue tax,]
+
+(d) a reference to understating liability to VAT includes a reference to overstating entitlement to a VAT credit,
+
+[^F305]da . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(e) a reference to a loss includes a reference to a charge, expense, deficit and any other amount which may be available for, or relied on to claim, a deduction or relief,
+
+(f) a reference to repayment of tax includes a reference to allowing a credit [[^F306]against tax or to a payment of a corporation tax credit],
+
+[[^F307](fa) “corporation tax credit” means—
+
+(i) an R&D tax credit under [[^F308]Chapter 2 or 7 of Part 13 of CTA 2009],
+
+[[^F309](ia) an R&D expenditure credit under [[^F310]Chapter 1A of Part 13] of CTA 2009,]
+
+(ii) a land remediation tax credit or life assurance company tax credit under [[^F311]Chapter 3 or 4 respectively of Part 14 of CTA 2009],
+
+[^F312]iii . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[[^F313](iiia) an audiovisual expenditure credit or video game expenditure credit under Chapter 3 of Part 14A of CTA 2009 (expenditure credit in respect of films, television programmes and video games),]
+
+(iv) a film tax credit under [[^F314]Chapter 3 of Part 15 of CTA 2009], [^F315]...
+
+[[^F316](iva) a television tax credit under Chapter 3 of Part 15A of that Act,
+
+(ivb) a video game tax credit under Chapter 3 of Part 15B of that Act, [^F317]...]
+
+[[^F318](ivc) a theatre tax credit under section 1217K of that Act, [^F319]...]
+
+[[^F320](ivd) an orchestra tax credit under Chapter 3 of Part 15D of that Act, [^F321]...]
+
+[[^F322](ive) a museums and galleries exhibition tax credit under Chapter 3 of Part 15E of that Act, or]
+
+(v) a first-year tax credit under Schedule A1 to CAA 2001,]
+
+(g) “tax period” means a tax year, accounting period or other period in respect of which tax is charged,
+
+(h) a reference to giving a document to HMRC includes a reference to communicating information to HMRC in any form and by any method (whether by post, fax, email, telephone or otherwise),
+
+(i) a reference to giving a document to HMRC includes a reference to making a statement or declaration in a document,
+
+(j) a reference to making a return or doing anything in relation to a return includes a reference to amending a return or doing anything in relation to an amended return, and
+
+(k) a reference to action includes a reference to omission.
+
+#### Consequential amendments
+
+**29** The following provisions are omitted—
+
+(a) sections 95, 95A, 97 and 98A(4) of TMA 1970 (incorrect returns and accounts),
+
+(b) sections 100A(1) and 103(2) of TMA 1970 (deceased persons),
+
+(c) in Schedule 18 to FA 1998 (company tax returns), paragraphs 20 and 89 (company tax returns), and
+
+(d) sections 60, 61, 63 and 64 of VATA 1994 (evasion).
+
+**30** In [[^F323]paragraphs 7 and 7B] of Schedule 1 to the Social Security Contributions and Benefits Act 1992 (c. 4) (penalties) a reference to a provision of TMA 1970 shall be construed as a reference to this Schedule so far as is necessary to preserve its effect.
+
+**31** In [[^F324]paragraphs 7 and 7B] of Schedule 1 to the Social Security Contributions and Benefits (Northern Ireland) Act 1992 (c. 7) (penalties) a reference to a provision of TMA 1970 shall be construed as a reference to this Schedule so far as is necessary to preserve its effect.
+
+## SCHEDULE 25 — Amendments connected with Gambling Act 2005
+
+*Section 105*
+
+### Part 1 — Amendments of the Tax Acts
+
+#### Exemption from corporation tax for profits of charitable companies from certain lotteries
+
+**[^F325]1** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Exemption from income tax for profits of charitable trusts from certain lotteries
+
+**2** In section 530(2) of ITA 2007 (charitable trusts: exemption for profits from lotteries), for paragraph (a) (together with the “or” following it) substitute—
+
+> (a) the lottery is an exempt lottery within the meaning of the Gambling Act 2005 by virtue of Part 1 or 4 of Schedule 11 to that Act,
+>
+> (ab) the lottery is promoted in accordance with a lottery operating licence within the meaning of Part 5 of that Act, or
+
+.
+
+### Part 2 — Amendments of BGDA 1981
+
+#### Introductory
+
+**3** BGDA 1981 is amended as follows.
+
+#### Bookmakers: spread bets
+
+**4** (1) Section 3 (bookmakers: spread bets) is amended as follows.
+
+(2) In subsection (1), omit paragraph (b) (together with the “and” before it).
+
+(3) For subsection (2) substitute—
+
+> (2) A bet is a spread bet if it constitutes a contract the making or accepting of which is a regulated activity within the meaning of section 22 of the Financial Services and Markets Act 2000.
+
+#### Liability to pay general betting duty
+
+**5** In section 5B(3)(a) (liability to pay general betting duty), for “bookmaker's permit” substitute “ general betting operating licence (in Great Britain), or a bookmaker's permit (in Northern Ireland), ”.
+
+#### Bet-brokers
+
+**6** In section 5C(5) (bet-brokers: cases where section 5C does not apply), omit paragraph (b) (together with the “or” before it).
+
+#### Definitions for purposes of betting duties
+
+**7** (1) Section 12(4) (definitions for purposes of Part 1) is amended as follows.
+
+(2) In the definition of “betting office licence”, omit paragraph (a) (together with the “and” following it).
+
+(3) In the definition of “bookmaker's permit”, omit paragraph (a) (together with the “and” following it).
+
+(4) After that definition insert—
+
+> - “general betting operating licence” has the same meaning as in Part 5 of the Gambling Act 2005 (see section 65(2)(c));
+
+.
+
+(5) Omit the definitions of “meeting”, “totalisator” and “track”.
+
+#### Combined bingo
+
+**8** In section 20A(1) (meaning of “combined bingo”), omit paragraph (a) (together with the “or” following it).
+
+#### [^F326]...
+
+**[^F326]9** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Definition of “gaming”
+
+**10** In section 33(1) (interpretation of Act), for the definition of “gaming” substitute—
+
+> “gaming” means playing a game of chance for a prize within the meaning of Group 4 of Schedule 9 to the Value Added Tax Act 1994;
+
+.
+
+#### Supplementary provisions as to betting duties
+
+**11** (1) Schedule 1 (enforcement) is amended as follows.
+
+(2) Omit paragraph 7 (production of documents etc relating to general betting business or pool betting business).
+
+(3) In paragraph 15 (cancellation of betting office licence)—
+
+(a) at the beginning insert—
+
+> (A1) This paragraph applies only in relation to premises in Northern Ireland.
+
+,
+
+(b) in sub-paragraph (2), omit “in England or Wales or Northern Ireland”,
+
+(c) omit sub-paragraphs (3) to (4A), and
+
+(d) in sub-paragraph (5), omit “in Northern Ireland”.
+
+#### Exemptions from bingo duty
+
+**12** (1) Schedule 3 (exemptions from bingo duty) is amended as follows.
+
+(2) For paragraph 2B (and the italic cross-heading before it) substitute—
+
+> **Non-profit making bingo**
+>
+> **2B** (1) In calculating liability to bingo duty no account shall be taken of non-profit making bingo.
+>
+> (2) “Non-profit making bingo” means bingo—
+>
+> (a) in respect of the playing of which no charge in money or money's worth is made, and
+>
+> (b) in respect of which no levy is charged on any of the stakes or on the winnings of any of the players (irrespective of the means by which the levy is charged),
+>
+> and it does not matter whether the charge or levy is compulsory, customary or voluntary.
+>
+> (3) In sub-paragraph (2)(a) “charge” includes an admission charge, but does not include—
+>
+> (a) any payment of the whole or any part of an annual subscription to a club,
+>
+> (b) any payment of an entrance subscription for membership of a club, or
+>
+> (c) any stakes hazarded.
+>
+> (4) In sub-paragraph (3)—
+>
+> - “club” means a club which is so constituted and conducted, in respect of membership and otherwise, as not to be of a temporary character, and
+> - “membership of a club” does not include temporary membership of a club.
+
+(3) In paragraph 5(1) (small-scale amusements provided commercially)—
+
+(a) in paragraph (a), for the words from “premises” to the end substitute “ family entertainment centre within the meaning of the Gambling Act 2005 (see section 238); ”, and
+
+(b) in paragraph (b), for the words from “a permit” to “that Act” substitute “ an adult gaming centre premises licence issued under Part 8 of the Gambling Act 2005 (see section 150(1)(c)) ”.
+
+(4) In paragraph 10(2) (notification to Commissioners by, and registration of, bingo-promoters), in the second sentence, for “the Gaming Act 1968” substitute “ a bingo premises licence ”.
+
+### Part 3 — Amendments of FA 1993 relating to lottery duty
+
+#### Introductory
+
+**13** Chapter 2 of Part 1 of FA 1993 (lottery duty) is amended as follows.
+
+#### Charge to lottery duty
+
+**14** In section 24(4) (lotteries in respect of which lottery duty not chargeable)—
+
+(a) in the opening words, for “not chargeable in respect” substitute “ not chargeable (in Great Britain) in respect of a lottery which is an exempt lottery within the meaning of the Gambling Act 2005 (see section 258) or (in Northern Ireland) in respect ”,
+
+(b) in paragraph (a), omit “the Lotteries and Amusements Act 1976 or”,
+
+(c) in paragraph (b), omit “Act or”,
+
+(d) in paragraph (c), omit “Act or” and “section 5(3) of that Act or”, and
+
+(e) omit paragraph (d).
+
+#### Disclosure of information
+
+**15** In section 37 (disclosure of information to or by the Gaming Board for Great Britain etc)—
+
+(a) in subsection (1), for “Gaming Board for Great Britain” substitute “ Gambling Commission ” and for “or Gaming Board” (in both places) substitute “ or Gambling Commission ”, and
+
+(b) in subsection (2), for “Gaming Board for Great Britain” substitute “ Gambling Commission ” and for “or Gaming Board” substitute “ or Gambling Commission ”.
+
+### Part 4 — Amendments of FA 1997 relating to gaming duty
+
+#### Introductory
+
+**16** FA 1997 is amended as follows.
+
+#### Charge to gaming duty
+
+**17** (1) Section 10 (charge to gaming duty) is amended as follows.
+
+(2) In subsection (3)—
+
+(a) in paragraph (a), for “section 2(2) of the Gaming Act 1968” substitute “ Part 1 of Schedule 15 to the Gambling Act 2005 ”,
+
+(b) in paragraph (b), for “section 6 of that Act” substitute “ section 279 of that Act ”,
+
+(c) omit paragraph (c),
+
+(d) in paragraph (d), omit “section 41 of that Act or”, and
+
+(e) in paragraph (e), for “section 15 or 16 of the Lotteries and Amusements Act 1976” substitute “ Part 13 of that Act ”.
+
+(3) After that subsection insert—
+
+> (3A) This section does not apply to any gaming taking place by means of a machine that is an amusement machine for the purposes of the Betting and Gaming Duties Act 1981.
+>
+> (3B) This section does not apply to any lawful gaming which consists of games played in Great Britain at an entertainment in respect of which all the payments made by the players (whether by way of entrance fee or stake or otherwise) are, after making permissible deductions from those payments, applied for a purpose other than that of private gain (within the meaning of the Gambling Act 2005).
+>
+> (3C) For the purposes of subsection (3B), only the following deductions are permissible deductions—
+>
+> (a) deductions on account of reasonable expenses incurred in providing the facilities for the purposes of the games, and
+>
+> (b) deductions for the provision of prizes or awards in respect of the games.
+
+[^F327]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Banker's profits from gaming
+
+**18** (1) Section 11 (rate of gaming duty) is amended as follows.
+
+(2) In paragraph (b) of subsection (10), for “the value, in money or money's worth, of the winnings paid” substitute “ the value of the prizes provided ”.
+
+(3) After that subsection insert—
+
+> (10A) Subsections (2) to (6)(a) of section 20 of the Betting and Gaming Duties Act 1981 (expenditure on bingo winnings: valuation of prizes) apply, with any necessary modifications, for the purposes of gaming duty as they apply for the purposes of bingo duty.
+
+(4) In subsection (11), for “(10)” substitute “ (10A) ”.
+
+#### Definition of “gaming”
+
+**19** In section 15(3) (definitions for purposes of the gaming duty provisions), for the definition of “gaming” substitute—
+
+> “gaming” has the same meaning as in the Betting and Gaming Duties Act 1981 (see section 33(1));
+
+.
+
+#### Gaming Duty Register
+
+**20** (1) Schedule 1 (gaming duty: administration, enforcement etc) is amended as follows.
+
+(2) In sub-paragraph (1) of paragraph 2 (interpretation), before the definition of “the register” insert—
+
+> “casino premises licence” has the same meaning as in Part 8 of the Gambling Act 2005 (see section 150(1)(a));
+>
+> “club gaming permit” has the same meaning as in that Act (see section 271);
+
+.
+
+(3) In sub-paragraph (2) of that paragraph, for paragraphs (a) and (b) substitute—
+
+> (a) in respect of which a casino premises licence is for the time being in force, or
+>
+> (b) in respect of which a club gaming permit is for the time being in force.
+
+(4) In paragraph 3(4)(a) (registrable persons: holders of licences under the Gaming Act 1968)—
+
+(a) for “licence under the Gaming Act 1968” substitute “ casino premises licence or club gaming permit ”, and
+
+(b) after “which the licence” insert “ or permit ”.
+
+(5) In paragraph 6 (notification of premises)—
+
+(a) in sub-paragraph (10)(a), for “licence under the Gaming Act 1968” substitute “ casino premises licence or club gaming permit ” and after “of the licence” insert “ or permit ”, and
+
+(b) in sub-paragraph (11)(a), for “licence under the Gaming Act 1968” substitute “ casino premises licence or club gaming permit ” and after “of the licence” insert “ or permit ”.
+
+(6) In paragraph 14 (disclosure of information)—
+
+(a) in sub-paragraph (1), for “the Gaming Board for Great Britain” substitute “ the Gambling Commission ”, for “that Board” (in each place) substitute “ that Commission ” and for “that Board's functions under the Gaming Act 1968” substitute “ that Commission's functions under the Gambling Act 2005 ”, and
+
+(b) in sub-paragraph (2), for “the Gaming Board for Great Britain” substitute “ the Gambling Commission ” and for “that Board” (in both places) substitute “ that Commission ”.
+
+### Part 5 — Miscellaneous amendments
+
+#### Provision of FA 1966 relating to repealed law
+
+**21** In Schedule 3 to FA 1966 (provision relating to Schedule 1 to the Betting, Gaming and Lotteries Act 1963 (c. 2)), omit paragraph 6.
+
+#### Customs and Excise Management Act 1979
+
+**22** In section 1(1) of CEMA 1979 (interpretation), in paragraph (a)(ic) of the definition of “revenue trader”, for the words from “any gaming” to the end substitute “ gaming within the meaning of the Betting and Gaming Duties Act 1981 (see section 33(1)) ”.
+
+### Part 6 — Commencement
+
+**23** (1) Paragraphs 3, 4, 6, 7(1) and (5), 11(1) and (2), 13, 15, 16 and 20(1) and (6) and this paragraph come into force on the day on which this Act is passed.
+
+(2) The other provisions of this Schedule come into force in accordance with provision made by the Treasury by order.
+
+(3) The power to make an order under this paragraph is exercisable by statutory instrument.
+
+(4) An order under this paragraph—
+
+(a) may make different provision for different purposes, and
+
+(b) may contain transitional provision and savings.
+
+## SCHEDULE 26 — Meaning of "recognised stock exchange" etc
+
+*Section 109*
+
+### Meaning of “recognised stock exchange” etc in Tax Acts and TCGA 1992
+
+**1** For section 1005 of ITA 2007 substitute—
+
+> **Meaning of “recognised stock exchange” etc**
+>
+> **1005** (1) In the Income Tax Acts “recognised stock exchange” means—
+>
+> (a) any market of a recognised investment exchange which is for the time being designated as a recognised stock exchange for the purposes of this section by an order made by the Commissioners for Her Majesty's Revenue and Customs, and
+>
+> (b) any market outside the United Kingdom which is for the time being so designated.
+>
+> (2) An order under subsection (1) may—
+>
+> (a) designate a market by name or by reference to any class or description of market (including, in the case of a market outside the United Kingdom, one framed by reference to any authority or approval given in a country outside the United Kingdom),
+>
+> (b) contain incidental, supplemental, consequential and transitional provision and savings, and
+>
+> (c) vary or revoke a previous order under that subsection.
+>
+> (3) References in the Income Tax Acts to securities which are listed on a recognised stock exchange are to securities—
+>
+> (a) which are admitted to trading on that exchange, and
+>
+> (b) which are included in the official UK list or are officially listed in a qualifying country outside the United Kingdom in accordance with provisions corresponding to those generally applicable in EEA states.
+>
+> (4) For this purpose “qualifying country outside the United Kingdom” means any country outside the United Kingdom in which there is a recognised stock exchange.
+>
+> (5) References in the Income Tax Acts to securities which are included in the official UK list are to securities which are included in the official list (within the meaning of Part 6 of FISMA 2000) in accordance with the provisions of that Part.
+>
+> (6) In this section—
+>
+> - “recognised investment exchange” has the same meaning as in FISMA 2000 (see section 285), and
+> - “securities” includes shares and stock.
+
+**[^F328]2** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**3** In section 288 of TCGA 1992 (interpretation), after subsection (5) insert—
+
+> (5A) References in this Act to shares or securities which are listed on a recognised stock exchange shall be construed in accordance with subsections (3) and (4) of section 1005 of ITA 2007.
+>
+> (5B) References in this Act to shares or securities which are included in the official UK list shall be construed in accordance with subsection (5) of that section.
+
+### Valuation of shares listed on recognised stock exchange for purposes of TCGA 1992 etc
+
+**4** (1) In section 272 of TCGA 1992 (valuation: general), for subsections (3) and (4) substitute—
+
+> (3) The Treasury may make regulations as to the manner for determining for the purposes of this Act—
+>
+> (a) the market value at any time of shares or securities which are included in the official UK list, and
+>
+> (b) the market value at any time of shares or securities which are listed on a recognised stock exchange outside the United Kingdom.
+>
+> (4) The regulations may—
+>
+> (a) make different provision for different cases, and
+>
+> (b) contain incidental, supplemental, consequential and transitional provision and savings.
+
+(2) The amendment made by sub-paragraph (1) has effect where the date of valuation falls on or after such day as may be appointed by the Treasury by order; and different days may be appointed for different purposes.
+
+**5** (1) In ITTOIA 2005, for sections 450 and 451 substitute—
+
+> **Market value of strips etc**
+>
+> **450** (1) The Treasury may make regulations as to the manner for determining—
+>
+> (a) the market value at any time of a strip for the purposes of this Chapter, and
+>
+> (b) the market value at any time of a security exchanged for strips of that security for the purposes of section 445(1).
+>
+> (2) The regulations may—
+>
+> (a) make different provision for different cases, and
+>
+> (b) contain incidental, supplemental, consequential and transitional provision and savings.
+
+(2) The amendment made by sub-paragraph (1) has effect where the date of valuation falls on or after such day as may be appointed by the Treasury by order; and different days may be appointed for different purposes.
+
+### Minor and consequential amendments
+
+**6** In section 90(8) of FA 1986 (exceptions to the charge to SDRT), for paragraph (b) substitute—
+
+> (b) references to anything listed on a recognised stock exchange shall be construed in accordance with section 1005 of the Income Tax Act 2007;
+
+.
+
+**7** (1) ICTA is amended as follows.
+
+[^F329]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) In section 312(1E)(a) (interpretation of Chapter 3 of Part 7), for “section 841” substitute “ section 1005(1)(b) of ITA 2007 ”.
+
+[^F330]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F330]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F330]6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F330]7 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F330]8 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F330]9 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(10) In paragraph 5 of Schedule 20 (charities: qualifying investments and loans), omit “, or which are dealt in on the Unlisted Securities Market”.
+
+**8** (1) TCGA 1992 is amended as follows.
+
+(2) In section 130(1)(a) (composite new holdings)—
+
+(a) for “had quoted market values” substitute “ were listed ”, and
+
+(b) omit “in the United Kingdom or elsewhere”.
+
+(3) In section 144(8)(a) (options and forfeited deposits), for “quoted on” substitute “ listed on ”.
+
+(4) In section 146(4)(b) (options: application of rules as to wasting assets), omit “in the United Kingdom or elsewhere”.
+
+(5) In section 273(2) (unquoted shares and securities), for “quoted” substitute “ listed ”.
+
+(6) Omit section 285 (recognised investment exchanges).
+
+**9** In paragraph 4(2C)(b) of Schedule 26 to FA 2002 (derivative contracts: contracts excluded by virtue of their underlying subject matter), for “quoted” substitute “ listed ”.
+
+**10** (1) ITEPA 2003 (persons to whom section 421J applies) is amended as follows.
+
+(2) In section 421L (persons to whom section 421J applies)—
+
+(a) in paragraph (b) of subsection (6), for “or dealt in on a recognised stock exchange” substitute “ on a recognised stock exchange or dealt in on any designated market in the United Kingdom ”, and
+
+(b) after that subsection insert—
+
+> (7) In subsection (6)(b) “designated” means designated by an order made by the Commissioners for Her Majesty's Revenue and Customs for the purposes of that provision.
+>
+> (8) An order under subsection (7) may—
+>
+> (a) designate a market by name or by reference to any class or description of market, and
+>
+> (b) vary or revoke a previous order under that subsection.
+
+(3) In section 717(2) (orders and regulations made by Treasury or Commissioners), insert at the end “ or section 421L(7) (persons to whom section 421J applies: order in relation to excluded securities). ”
+
+**11** (1) ITTOIA 2005 is amended as follows.
+
+(2) In section 443(2) (application of Chapter 8 of Part 4 to strips of government securities)—
+
+(a) at the end of paragraph (e) insert “ and ”, and
+
+(b) omit paragraph (g).
+
+(3) In section 460(3) (minor definitions in Chapter 8 of Part 4), omit “or 451”.
+
+**12** (1) ITA 2007 is amended as follows.
+
+(2) In section 143(2)(a) (losses on disposal of shares: the unquoted status requirement), for “1005” substitute “ 1005(1)(b) ”.
+
+(3) In section 151(2) (interpretation of Chapter 6 of Part 4), for “the Stock Exchange” substitute “ a recognised stock exchange ”.
+
+(4) In section 184 (EIS: the unquoted status requirement)—
+
+(a) in subsection (3)(a), for the words from “the Stock Exchange” to the end substitute “ a recognised stock exchange, ”, and
+
+(b) in subsection (6)(a), for “1005” substitute “ 1005(1)(b) ”.
+
+(5) In section 257(5) (minor definitions in Part 5), for “the Stock Exchange” substitute “ a recognised stock exchange ”.
+
+(6) In section 274(2) (requirements for the giving of VCT approval), for “listed throughout the relevant period in the Official List of the Stock Exchange” substitute “ included in the official UK list throughout the relevant period ”.
+
+(7) In section 295(3) (VCTs: the unquoted status requirement)—
+
+(a) in paragraph (a), for the words from “the Stock Exchange” to the end substitute “ a recognised stock exchange, ”, and
+
+(b) in paragraph (c), omit “on the Unlisted Securities Market or dealt in”.
+
+(8) In section 382(2) (minor definitions in Part 7), for “the Stock Exchange” substitute “ a recognised stock exchange ”.
+
+(9) In section 397(6) (eligibility requirements for interest on loans within section 396), in the definition of “unquoted company”, for “listed in the Official List of the Stock Exchange” substitute “ included in the official UK list ”.
+
+(10) In section 432 (gifts of shares, securities and real property to charities etc: meaning of “qualifying investment”)—
+
+(a) in subsection (1)(a), for “or dealt in on a recognised stock exchange” substitute “ on a recognised stock exchange or dealt in on any designated market in the United Kingdom ”,
+
+(b) in subsection (2), after “In this section—” insert—
+
+> “designated” means designated by an order made by the Commissioners for Her Majesty's Revenue and Customs for the purposes of subsection (1)(a),
+
+, and
+
+(c) after that subsection insert—
+
+> (3) An order under subsection (2) may—
+>
+> (a) designate a market by name or by reference to any class or description of market, and
+>
+> (b) vary or revoke a previous order under that subsection.
+
+[^F331]11 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(12) In section 989 (list of Income Tax Acts definitions), after the definition of “settlor” insert—
+
+> “shares, stock or other securities included in the official UK list” is to be read in accordance with section 1005,
+>
+> “shares, stock or other securities listed on a recognised stock exchange” is to be read in accordance with section 1005,
+
+.
+
+(13) Omit section 1010 (application of Income Tax Acts to recognised investment exchanges).
+
+(14) In section 1014(2)(g) (orders and regulations)—
+
+(a) after sub-paragraph (ii) (but before the “and”) insert—
+
+> (iia) section 432(2) (gifts of shares, securities and real property to charities etc: meaning of “qualifying investment”),
+
+, and
+
+(b) in sub-paragraph (iii), for “1005(1)(b)” substitute “ 1005(1) ”.
+
+(15) In Schedule 4 (index of defined expressions), after the entry relating to “share loss relief (in Chapter 6 of Part 4)” insert—
+
+> |  |  |
+> |---|---|
+> | shares, stock or other securities included in the official UK list | section 1005 |
+> | shares, stock or other securities listed on a recognised stock exchange | section 1005 |
+
+## SCHEDULE 27 — Repeals
+
+*Section 114*
+
+### Part 1 — Environment
+
+|  |  |
+|---|---|
+| *Short title and chapter* | *Extent of repeal* |
+| Finance Act 2001 (c. 9) | In section 17(3), the word “or” at the end of paragraph (d). |
+
+<table>
+<tbody>
+<tr><th><i>Short title and chapter</i></th><th><i>Extent of repeal</i></th></tr>
+<tr><td>Finance Act 2000 (c. 17)</td><td>In Schedule 6—<br>- (a) in paragraph 11, in sub-paragraph (1), the words “has, before the supply is made, notified the supplier” and “that he” (in both places), and, in sub-paragraph (3), the words “has, before the supply is made, notified the supplier that” and “he”,<br>- (b) paragraph 45(2) to (4), and<br>- (c) in paragraph 101, sub-paragraph (1), and, in sub-paragraph (3), the words “notification or”.</td></tr>
+</tbody>
+<tfoot>
+<tr><td colspan="2">The repeal of paragraph 45(2) to (4) of Schedule 6 to FA 2000 has effect in accordance with Schedule 2 to this Act.</td></tr>
+</tfoot>
+</table>
+
+### Part 2 — Income tax, corporation tax and capital gains tax
+
+<table>
+<tbody>
+<tr><th><i>Short title and chapter</i></th><th><i>Extent of repeal</i></th></tr>
+<tr><td>Income Tax Act 2007 (c. 3)</td><td>In section 104(5), the words “(see section 112)”. Section 106. In section 107(2), the words “(see section 112)”. In section 110(1)(a), the words “(see section 112)”. Section 112(1) to (5). In section 115(1)(d), the words “(see section 112)”. Section 116.</td></tr>
+</tbody>
+<tfoot>
+<tr><td colspan="2">These repeals have effect in accordance with Schedule 4 to this Act.</td></tr>
+</tfoot>
+</table>
+
+<table>
+<tbody>
+<tr><th><i>Short title and chapter</i></th><th><i>Extent of repeal</i></th></tr>
+<tr><td>Taxation of Chargeable Gains Act 1992 (c. 12)</td><td>Section 8(2A) to (2C).</td></tr>
+<tr><td>Finance Act 2006 (c. 25)</td><td>Section 69.</td></tr>
+</tbody>
+<tfoot>
+<tr><td colspan="2">These repeals have effect in accordance with section 27 of this Act.</td></tr>
+</tfoot>
+</table>
+
+<table>
+<tbody>
+<tr><th><i>Short title and chapter</i></th><th><i>Extent of repeal</i></th></tr>
+<tr><td>Income and Corporation Taxes Act 1988 (c. 1)</td><td>Section 347A. Section 660C(4).</td></tr>
+<tr><td>Finance Act 1988 (c. 39)</td><td>Section 36(1).</td></tr>
+<tr><td>Capital Allowances Act 2001 (c. 2)</td><td>In section 228F—<br>- (a) subsection (4), and<br>- (b) in subsection (8), paragraph (b) (together with the word “and” before it).</td></tr>
+<tr><td>Income Tax (Trading and Other Income) Act 2005 (c. 5)</td><td>In Schedule 1, paragraph 272(4).</td></tr>
+<tr><td>Income Tax Act 2007 (c. 3)</td><td>In Schedule 1, paragraph 52.</td></tr>
+</tbody>
+<tfoot>
+<tr><td colspan="2">These repeals have effect in accordance with Schedule 5 to this Act.</td></tr>
+</tfoot>
+</table>
+
+<table>
+<tbody>
+<tr><th><i>Short title and chapter</i></th><th><i>Extent of repeal</i></th></tr>
+<tr><td>Taxation of Chargeable Gains Act 1992 (c. 12)</td><td>In section 184A(2), the words “unless the gains accrue to the company on a disposal of a pre-change asset”. In section 184B(2), the words “unless the loss accrues to the company on a disposal of a pre-change asset”.</td></tr>
+<tr><td>Finance Act 2006 (c. 25)</td><td>In section 70(9)—<br>- (a) in paragraph (a), the words “or 184B”,<br>- (b) paragraph (d) (together with the word “and” following it), and<br>- (c) in paragraph (e), the words “, or a qualifying gain for the purposes of section 184B of that Act,”.</td></tr>
+</tbody>
+<tfoot>
+<tr><td colspan="2">These repeals have effect in accordance with section 32 of this Act.</td></tr>
+</tfoot>
+</table>
+
+<table>
+<tbody>
+<tr><th><i>Short title and chapter</i></th><th><i>Extent of repeal</i></th></tr>
+<tr><td>Finance Act 2003 (c. 14)</td><td>In Schedule 24, in paragraph 9(1), the definition of “the third party”.</td></tr>
+<tr><td>Finance Act 2004 (c. 12)</td><td>Section 245(2).</td></tr>
+<tr><td>Income Tax (Trading and Other Income) Act 2005 (c. 5)</td><td>In Schedule 1, paragraph 624(2).</td></tr>
+</tbody>
+<tfoot>
+<tr><td colspan="2">These repeals have effect in accordance with section 34 of this Act.</td></tr>
+</tfoot>
+</table>
+
+<table>
+<tbody>
+<tr><th><i>Short title and chapter</i></th><th><i>Extent of repeal</i></th></tr>
+<tr><td>Income and Corporation Taxes Act 1988 (c. 1)</td><td>In section 804ZA(8)(c), the words “resident in a territory outside the United Kingdom”.</td></tr>
+</tbody>
+<tfoot>
+<tr><td colspan="2">This repeal has effect in accordance with section 35 of this Act.</td></tr>
+</tfoot>
+</table>
+
+<table>
+<tbody>
+<tr><th><i>Short title and chapter</i></th><th><i>Extent of repeal</i></th></tr>
+<tr><td>Taxes Management Act 1970 (c. 9)</td><td>In section 98, in the Table, the entries relating to section 333B of the Income and Corporation Taxes Act 1988.</td></tr>
+<tr><td>Income and Corporation Taxes Act 1988 (c. 1)</td><td>In section 76—<br>- (a) in subsection (1), the second sentence,<br>- (b) subsection (14), and<br>- (c) in subsection (15), the definition of “capital redemption business”. Section 333B. Section 403E(3). In section 431(2), the definitions of “annuity business” and “overseas life assurance fund”. In section 431A(3)(a), the words “and Schedule 19AA”. In section 432A—<br>- (a) subsection (4),<br>- (b) in subsection (5), the words “(apart from overseas life assurance business)”,<br>- (c) in subsection (7)(c)(i), the word “438B,” and<br>- (d) subsection (9). In section 432AA—<br>- (a) subsection (3), and<br>- (b) in subsection (5), the words “(3) or”. Section 432AB(6). In section 432B—<br>- (a) in subsection (4), paragraph (b) and the word “and” before it,<br>- (b) in subsection (5), the words “the relevant fraction of”,<br>- (c) in subsection (7), the words “the relevant fraction of” (in both places),<br>- (d) in subsections (8A) and (8C), the words “the relevant fraction of”, and<br>- (e) in subsection (9), the definitions of “the relevant fraction” and “the section 83 net amount”. Section 432D. In section 432E—<br>- (a) in subsection (3)(b), the words “mentioned in subsection (1) above”, and<br>- (b) subsections (5) and (6). In section 432F(2)—<br>- (a) the words “For each category of business in relation to which section 432E falls to be applied”, and<br>- (b) the words “, after making any reduction required by section 432E(5),”. Section 434(6A)(b). In section 434A(2)(a), the words “the aggregate of” and sub-paragraph (iii). Section 436. Section 438(2) and (4). Section 438B. Section 438C. Section 439. Section 439B. Section 440A(2)(c). Section 441. In section 444A(3), paragraph (b) and the word “or” before it. Sections 458 and 458A. Section 460(2)(cb). Section 461(3A). Section 461B(2A). In section 466—<br>- (a) in subsection (2), the definition of “life assurance business”, and<br>- (b) subsections (2ZA), (2A) and (2B). In section 804B—<br>- (a) in subsection (2), the words “or section 438B”,<br>- (b) in subsection (4), the words “or 438B”, and<br>- (c) in subsection (6), the words “or 432D” (in both places). Schedule 19AA.</td></tr>
+<tr><td>Finance Act 1989 (c. 26)</td><td>In Schedule 8, paragraph 6.</td></tr>
+<tr><td>Finance Act 1990 (c. 29)</td><td>In Schedule 6—<br>- (a) in paragraph 1(2)(b), the entry relating to “overseas life assurance fund”, and<br>- (b) paragraph 7. In Schedule 7, paragraphs 3, 6 and 10(2).</td></tr>
+<tr><td>Finance Act 1991 (c. 31)</td><td>In Schedule 7, paragraph 4(1)(b). In Schedule 15, paragraph 16.</td></tr>
+<tr><td>Taxation of Chargeable Gains Act 1992 (c. 12)</td><td>In section 204(10)(b), the word “other”. In section 210B(6), paragraph (b) and the word “or” before it. In section 213(1A), the words following “general annuity business”.</td></tr>
+<tr><td>Finance Act 1995 (c. 4)</td><td>In Schedule 8—<br>- (a) in paragraph 1, the entry relating to “reinsurance business”,<br>- (b) paragraph 3,<br>- (c) paragraph 5(2),<br>- (d) paragraph 8,<br>- (e) paragraph 9(2),<br>- (f) in paragraph 12(1)(a), the words “section 432C(1), section 432D(1) (in both places) and” and “and (6)(a)”,<br>- (g) paragraph 13(5),<br>- (h) paragraph 14,<br>- (i) paragraph 15,<br>- (j) paragraph 16(3),<br>- (k) paragraph 17(2),<br>- (l) paragraph 27(1) and (2),<br>- (m) paragraph 51(5), and<br>- (n) in paragraph 55(1), the word “3,”. In Schedule 9, paragraph 1(3).</td></tr>
+<tr><td>Finance Act 1996 (c. 8)</td><td>Section 167(2). Section 168(1) and (3). In Schedule 11—<br>- (a) in paragraph 3A(5), paragraph (c) and the word “and” before it, and<br>- (b) in paragraph 4, in sub-paragraph (1), paragraph (b) and the word “or” before it, and sub-paragraph (16). In Schedule 31, paragraph 7(2).</td></tr>
+<tr><td>Finance (No. 2) Act 1997 (c. 58)</td><td>In Schedule 3, paragraphs 3 and 6(3).</td></tr>
+<tr><td>Finance Act 1998 (c. 36)</td><td>Section 77.</td></tr>
+<tr><td>Finance Act 2000 (c. 17)</td><td>Section 108(1). Section 109(3), (4), (7) and (9)(b). In Schedule 27, paragraph 8.</td></tr>
+<tr><td>Capital Allowances Act 2001 (c. 2)</td><td>Section 255(2).</td></tr>
+<tr><td>Finance Act 2001 (c. 9)</td><td>In Schedule 22, in paragraph 14(10), “or (6)”. In Schedule 25, paragraphs 5, 6 and 8.</td></tr>
+<tr><td>Finance Act 2003 (c. 14)</td><td>In section 153(1)(a), the words “in Schedule 19AA, paragraph 5(5)(c);”. In Schedule 33, paragraphs 1(3)(a) and (4)(a), 6(7)(a), 9, 10(2) and 13(6)(b).</td></tr>
+<tr><td>Child Trust Funds Act 2004 (c. 6)</td><td>Section 14.</td></tr>
+<tr><td>Finance Act 2004 (c. 12)</td><td>Section 147(1), (2) and (4). In Schedule 7, paragraph 9(1). In Schedule 35, paragraph 22(3).</td></tr>
+<tr><td>Income Tax (Trading and Other Income) Act 2005 (c. 5)</td><td>In Schedule 1, paragraphs 143 and 175.</td></tr>
+<tr><td>Finance (No. 2) Act 2005 (c. 22)</td><td>In Schedule 9—<br>- (a) paragraph 18(5) and (6), and<br>- (b) paragraph 19(1) to (3).</td></tr>
+<tr><td>Income Tax Act 2007 (c. 3)</td><td>In Schedule 1, paragraphs 78 and 83.</td></tr>
+</tbody>
+<tfoot>
+<tr><td colspan="2">These repeals have effect in accordance with section 38 of this Act.</td></tr>
+</tfoot>
+</table>
+
+<table>
+<tbody>
+<tr><th><i>Short title and chapter</i></th><th><i>Extent of repeal</i></th></tr>
+<tr><td>Income and Corporation Taxes Act 1988 (c. 1)</td><td>In section 76—<br>- (a) in subsection (7), Steps 9 and 10, and<br>- (b) subsections (10) and (11). Section 439A. Section 440B(5).</td></tr>
+<tr><td>Finance Act 1989 (c. 26)</td><td>Section 88(2).</td></tr>
+<tr><td>Taxation of Chargeable Gains Act 1992 (c. 12)</td><td>Section 212(7A).</td></tr>
+<tr><td>Finance (No.2) Act 1992 (c. 48)</td><td>Section 65.</td></tr>
+<tr><td>Finance Act 1993 (c. 34)</td><td>In Schedule 14, paragraph 9.</td></tr>
+<tr><td>Finance Act 1995 (c. 4)</td><td>In Schedule 8—<br>- (a) paragraph 12(3),<br>- (b) paragraph 16(6),<br>- (c) paragraph 20(2),<br>- (d) paragraph 26,<br>- (e) paragraph 28(5), and<br>- (f) paragraph 51(3).</td></tr>
+<tr><td>Finance Act 1996 (c. 8)</td><td>In Schedule 11, paragraph 4(12) to (14).</td></tr>
+<tr><td>Finance (No.2) Act 1997 (c. 58)</td><td>In Schedule 3, paragraph 15.</td></tr>
+<tr><td>Finance Act 2002 (c. 23)</td><td>In Schedule 29, paragraph 36(6).</td></tr>
+<tr><td>Finance Act 2003 (c. 14)</td><td>In Schedule 33, paragraph 7.</td></tr>
+</tbody>
+<tfoot>
+<tr><td colspan="2">These repeals have effect in accordance with section 39 of this Act.</td></tr>
+</tfoot>
+</table>
+
+<table>
+<tbody>
+<tr><th><i>Short title and chapter</i></th><th><i>Extent of repeal</i></th></tr>
+<tr><td>Income and Corporation Taxes Act 1988 (c. 1)</td><td>In section 12(7B), the definition of “insurance business transfer scheme”. In section 444A—<br>- (a) in subsection (1), the words “Subject to subsection (7) below,” and<br>- (b) subsections (7) and (8). Section 444AB(11) (as originally enacted). In section 444AC(11) (as originally enacted), the definition of “insurance business transfer scheme”. Section 444AD. Section 460(10B).</td></tr>
+<tr><td>Taxation of Chargeable Gains Act 1992 (c. 12)</td><td>In Schedule 10, paragraph 14(25).</td></tr>
+<tr><td>Finance Act 1989 (c. 26)</td><td>Section 82C. In section 83—<br>- (a) subsection (2A)(b),<br>- (b) in subsection (2B), the second sentence,<br>- (c) subsections (3) to (7), and<br>- (d) in subsection (8), the definitions of “add”, “demutualisation” and “total reinsurance”. Section 83AA. Section 83AB.</td></tr>
+<tr><td>Finance Act 1996 (c. 8)</td><td>In Schedule 9, in paragraph 12(9), the definition of “insurance business transfer scheme”. In Schedule 31—<br>- (a) paragraph 5,<br>- (b) paragraph 9, and<br>- (c) in paragraph 10(2), the words “Subject to paragraph 9 above,”.</td></tr>
+<tr><td>Finance Act 2000 (c. 17)</td><td>In Schedule 29, paragraph 30.</td></tr>
+<tr><td>Capital Allowances Act 2001 (c. 2)</td><td>Section 560(5)(b).</td></tr>
+<tr><td>Finance Act 2002 (c. 23)</td><td>In section 66—<br>- (a) in subsection (5), the definition of “transfer scheme”, and<br>- (b) subsections (6) and (7). In Schedule 9, paragraph 5(11). In Schedule 22, in paragraph 10—<br>- (a) in sub-paragraph (4), the definition of “transfer scheme”, and<br>- (b) sub-paragraphs (5) and (6). In Schedule 26, paragraph 28(5). In Schedule 29, in paragraph 89(3), the definition of “insurance business transfer scheme”.</td></tr>
+<tr><td>Finance Act 2003 (c. 14)</td><td>In Schedule 33—<br>- (a) paragraph 2(3), (4) and (6),<br>- (b) paragraph 5(b),<br>- (c) paragraphs 18 and 19, and<br>- (d) paragraph 20(4).</td></tr>
+<tr><td>Finance Act 2004 (c. 12)</td><td>In Schedule 7—<br>- (a) paragraphs 2 to 4, and<br>- (b) in paragraph 5(2) and (3).</td></tr>
+<tr><td>Finance (No.2) Act 2005 (c. 22)</td><td>In Schedule 9—<br>- (a) paragraphs 6 and 7,<br>- (b) paragraph 11,<br>- (c) paragraph 12(4) and (6), and<br>- (d) paragraph 20(3) to (5).</td></tr>
+<tr><td>Finance Act 2006 (c. 25)</td><td>In Schedule 11—<br>- (a) paragraph 3,<br>- (b) paragraph 4, and<br>- (c) paragraph 6(2).</td></tr>
+</tbody>
+<tfoot>
+<tr><td colspan="2">These repeals have effect in accordance with Schedule 9 to this Act.</td></tr>
+</tfoot>
+</table>
+
+<table>
+<tbody>
+<tr><th><i>Short title and chapter</i></th><th><i>Extent of repeal</i></th></tr>
+<tr><td>Taxes Management Act 1970 (c. 9)</td><td>In section 98, in the Table, in both columns, the words “or 441A(3)”.</td></tr>
+<tr><td>Income and Corporation Taxes Act 1988 (c. 1)</td><td>In section 12(7B), the words from the beginning to the end of the definition of “contracts of long-term insurance”. In section 76—<br>- (a) in subsection (7), in Step 3, the entries relating to section 587B(8)(b)(i) of ICTA and paragraph 23(2) of Schedule 13 to FA 2002, and<br>- (b) in subsection (15), the words “and other expressions have the same meaning as in Chapter 1 of Part 12”. Section 431A(7). In section 432YA(5), the definitions of “non-profit company” and “non-profit fund”. In section 432ZA(6), the definition of “internal linked fund”. Section 432A(9A). In section 432E(2A), the words “444ACA(2),” and paragraph (b). Section 440(2A), (2B) and (5). Section 442(4). Sections 443 and 444. Section 444AB(6) (as originally enacted). In section 444AC(11) (as originally enacted), the words from the beginning to the end of the definition of “fair value”. Section 444ACA. Section 444AD(5). In section 502H—<br>- (a) in subsection (2), paragraph (b) and the word “and” before it”, and<br>- (b) subsections (8) to (10). In section 587B—<br>- (a) subsection (8), and<br>- (b) in subsection (9), the words “ “life assurance business” and related expressions have the same meaning as in Chapter 1 of Part 12;”. In section 587BA—<br>- (a) subsection (12), and<br>- (b) in subsection (13), paragraph (b) and the word “and” before it. In section 755A(12), the definition of “long-term insurance fund”. Section 804F. In section 807A—<br>- (a) subsections (4) and (5)(b), and<br>- (b) in subsection (6)(a), the words “or an insurance credit”. In Schedule 28AA, in paragraph 14(1), the definition of “insurance company”.</td></tr>
+<tr><td>Finance Act 1989 (c. 26)</td><td>Section 82D(5). In section 83(8), in the definition of “fair value”, paragraph (a). In section 83YA—<br>- (a) subsection (8), and<br>- (b) in subsection (11), the definition of “with-profits fund”. Section 83YB(5). In section 83A—<br>- (a) in subsection (1), the words “In sections 82A to 83AB”,<br>- (b) in subsections (2)(b) and (3D)(b), the words “(see subsection (6))”, and<br>- (c) subsection (6). Section 84(2), (3), (5) and (6). In section 85—<br>- (a) in subsection (2A), the second sentence, and<br>- (b) in subsection (3), the words “(including the 1990 component period)”. In section 86—<br>- (a) subsections (3) and (3A), and<br>- (b) in subsection (10), the words “(including the 1990 component period)”. Section 87. In section 89(6), the words from the beginning to “; and”. Section 90A.</td></tr>
+<tr><td>Finance Act 1991 (c. 31)</td><td>In Schedule 7—<br>- (a) paragraph 13(2),<br>- (b) in paragraph 16(7), the words from “and, subject to that,” to the end, and<br>- (c) paragraph 17(4A) and (5).</td></tr>
+<tr><td>Taxation of Chargeable Gains Act 1992 (c. 12)</td><td>In section 210B(8), the definition of “internal linked fund”. Section 212(2A). Section 214. Section 214A. Section 214BA. In Schedule 7AC, paragraph 17(5). In Schedule 10, paragraph 14(22)(b).</td></tr>
+<tr><td>Finance Act 1993 (c. 34)</td><td>Section 91(5) and (6).</td></tr>
+<tr><td>Finance Act 1995 (c. 4)</td><td>In Schedule 8, paragraph 9(3). In Schedule 9—<br>- (a) in paragraph 1(2)(d), the words “214(11) and 214A(7)”, and<br>- (b) paragraph 5.</td></tr>
+<tr><td>Finance Act 1996 (c. 8)</td><td>In section 87A(2), the words “, within the meaning of Chapter 1 of Part 12 of the Taxes Act 1988,” and the words “(see section 431(2) of that Act)”. Section 88(7). In section 103(3), the word “or” at the end of paragraph (a). In Schedule 9—<br>- (a) in paragraph 12(9), the definitions of “contracts of long-term insurance” and “overseas life insurance company”, and<br>- (b) in paragraph 20(3)(b), the words “, within the meaning of Chapter 1 of Part 12 of the Taxes Act 1988,” and the words “(see section 431(2) of that Act)”. In Schedule 11—<br>- (a) paragraph 1,<br>- (b) paragraph 2(2) and (3) to (5),<br>- (c) paragraph 3A(6),<br>- (d) paragraph 4(6), and<br>- (e) paragraphs 5 and 6. In Schedule 14, paragraphs 25 and 63. In Schedule 15, paragraph 1(3). In Schedule 31, paragraph 6.</td></tr>
+<tr><td>Finance Act 1997 (c. 16)</td><td>In Schedule 12—<br>- (a) paragraph 18, and<br>- (b) paragraph 19(1) to (3).</td></tr>
+<tr><td>Finance Act 1998 (c. 36)</td><td>In Schedule 18—<br>- (a) in paragraph 13(3), the words after “1988”, and<br>- (b) paragraph 86.</td></tr>
+<tr><td>Finance Act 1999 (c. 16)</td><td>In Schedule 6, paragraph 4.</td></tr>
+<tr><td>Finance Act 2000 (c. 17)</td><td>In Schedule 30, paragraph 19.</td></tr>
+<tr><td>Capital Allowances Act 2001 (c. 2)</td><td>Section 257(3). Section 544(5). Section 560(5)(a) and (c).</td></tr>
+<tr><td>Finance Act 2001 (c. 9)</td><td>Section 87(3) and (4). In Schedule 22, in paragraph 31(1), the definitions of “insurance company” and “life assurance business”.</td></tr>
+<tr><td>Finance Act 2002 (c. 23)</td><td>In section 66(5), the words from the beginning to the end of the definition of “long-term insurance fund”. In Schedule 12, in paragraph 19(1), the definition of “life assurance business”. In Schedule 13—<br>- (a) paragraphs 22 and 23,<br>- (b) paragraph 25(3), and<br>- (c) in paragraph 27, the definition of “life assurance business”. In Schedule 22, in paragraph 10(4), the words before the definition of “transfer scheme”. In Schedule 26—<br>- (a) in paragraph 12, in sub-paragraph (1), the references to the expressions “Integrated Prudential Sourcebook” and “long-term insurance fund” and sub-paragraphs (15) and (16), and<br>- (b) in paragraph 54(1), the definitions of “insurance company”, “life assurance business”, “long-term insurance business” and “contract of long-term insurance”. In Schedule 27, paragraph 5. In Schedule 29—<br>- (a) paragraph 36(4) and (5),<br>- (b) in paragraph 89(3), the definition of “contracts of long-term insurance”, and<br>- (c) paragraph 138(1).</td></tr>
+<tr><td>Finance Act 2003 (c. 14)</td><td>In Schedule 33, paragraphs 1(2), 26 and 30 to 32.</td></tr>
+<tr><td>Finance Act 2004 (c. 12)</td><td>In Schedule 10, paragraphs 43 and 70.</td></tr>
+<tr><td>Finance (No.2) Act 2005 (c. 22)</td><td>In Schedule 9, paragraphs 4, 8, and 13(5).</td></tr>
+<tr><td>Finance Act 2006 (c. 25)</td><td>Section 134(4)(c).</td></tr>
+<tr><td>Income Tax Act 2007 (c. 3)</td><td>In section 442(6), paragraph (b) and the word “and” before it. Section 443(6). In Schedule 1, paragraph 137(8).</td></tr>
+</tbody>
+<tfoot>
+<tr><td colspan="2">These repeals have effect in accordance with Schedule 10 to this Act.</td></tr>
+</tfoot>
+</table>
+
+<table>
+<tbody>
+<tr><th><i>Short title and chapter</i></th><th><i>Extent of repeal</i></th></tr>
+<tr><td>Income and Corporation Taxes Act 1988 (c. 1)</td><td>Section 804E(3)(d).</td></tr>
+<tr><td>Finance Act 2000 (c. 17)</td><td>Section 107.</td></tr>
+<tr><td>Finance Act 2003 (c. 14)</td><td>Section 153(1)(c).</td></tr>
+</tbody>
+<tfoot>
+<tr><td colspan="2">These repeals have effect in accordance with Schedule 11 to this Act.</td></tr>
+</tfoot>
+</table>
+
+<table>
+<tbody>
+<tr><th><i>Short title and chapter</i></th><th><i>Extent of repeal</i></th></tr>
+<tr><td>Finance (No.2) Act 1992 (c. 48)</td><td>In Schedule 9, paragraphs 8(3) and 11(2).</td></tr>
+</tbody>
+<tfoot>
+<tr><td colspan="2">These repeals have effect in accordance with Schedule 12 to this Act.</td></tr>
+</tfoot>
+</table>
+
+<table>
+<tbody>
+<tr><th><i>Short title and chapter</i></th><th><i>Extent of repeal</i></th></tr>
+<tr><td>Income and Corporation Taxes Act 1988 (c. 1)</td><td>Section 437(1C)(c)(i) and (d)(i). Section 656(5) and (6). Section 658(1) and (4) to (6). In section 828(4), the word “658(3)”.</td></tr>
+<tr><td>Income Tax (Trading and Other Income) Act 2005 (c. 5)</td><td>Section 717(3). Section 723. Section 724(2). Section 873(3)(b). In Schedule 1, paragraphs 268(3) and 270. In Schedule 2, paragraphs 143 and 145.</td></tr>
+<tr><td>Commissioners for Revenue and Customs Act 2005 (c. 11)</td><td>In Schedule 4, paragraph 133(5).</td></tr>
+</tbody>
+<tfoot>
+<tr><td colspan="2">These repeals have effect in accordance with section 46 of this Act.</td></tr>
+</tfoot>
+</table>
+
+<table>
+<tbody>
+<tr><th><i>Short title and chapter</i></th><th><i>Extent of repeal</i></th></tr>
+<tr><td>Income and Corporation Taxes Act 1988 (c. 1)</td><td>In section 231AA(4), the words “or 737A(5)”. Sections 730A to 730BB. In section 731(2A), the words “section 737A(5) below or”. Sections 737A to 737C. Section 737E.</td></tr>
+<tr><td>Taxation of Chargeable Gains Act 1992 (c. 12)</td><td>Section 263A(2).</td></tr>
+<tr><td>Finance Act 1994 (c. 9)</td><td>Section 122.</td></tr>
+<tr><td>Finance Act 1995 (c. 4)</td><td>Section 80(1) and (3).</td></tr>
+<tr><td>Finance Act 1996 (c. 8)</td><td>Section 100(2A). In Schedule 14, paragraph 37.</td></tr>
+<tr><td>Finance Act 1997 (c. 16)</td><td>Section 91(5).</td></tr>
+<tr><td>Finance Act 2002 (c. 23)</td><td>In Schedule 25, paragraphs 32 and 52.</td></tr>
+<tr><td>Finance Act 2003 (c. 14)</td><td>In Schedule 38, paragraphs 2, 3, 5, 7 to 14, 16 to 20 and 21(3).</td></tr>
+<tr><td>Finance Act 2004 (c. 12)</td><td>In Schedule 10, paragraphs 44 and 78.</td></tr>
+<tr><td>Finance (No.2) Act 2005 (c. 22)</td><td>In Schedule 7, paragraph 19.</td></tr>
+<tr><td>Finance Act 2006 (c. 25)</td><td>Section 139(5). In Schedule 6, paragraphs 5 and 20.</td></tr>
+<tr><td>Income Tax Act 2007 (c. 3)</td><td>In Schedule 1, paragraphs 164 to 166, 173, 174 and 334.</td></tr>
+</tbody>
+<tfoot>
+<tr><td colspan="2">These repeals have effect in accordance with section 47 of this Act.</td></tr>
+</tfoot>
+</table>
+
+<table>
+<tbody>
+<tr><th><i>Short title and chapter</i></th><th><i>Extent of repeal</i></th></tr>
+<tr><td>Income and Corporation Taxes Act 1988 (c. 1)</td><td>In section 748(1), paragraph (c) (together with the word “or” at the end of it). In Schedule 25, Part 3.</td></tr>
+<tr><td>Finance Act 1996 (c. 8)</td><td>In Schedule 38, in paragraph 6—<br>- (a) in sub-paragraph (2), paragraph (m) (together with the word “and” before it), and<br>- (b) in sub-paragraph (5), the words “and (m)”.</td></tr>
+</tbody>
+<tfoot>
+<tr><td colspan="2">These repeals have effect in accordance with Schedule 15 to this Act.</td></tr>
+</tfoot>
+</table>
+
+<table>
+<tbody>
+<tr><th><i>Short title and chapter</i></th><th><i>Extent of repeal</i></th></tr>
+<tr><td>Income and Corporation Taxes Act 1988 (c. 1)</td><td>In section 297(5A), paragraphs (b) and (c) and the words after paragraph (c). In section 312(1), in the definition of “qualifying 90% subsidiary”, the words “to (13)”.</td></tr>
+<tr><td>Finance Act 2000 (c. 17)</td><td>In Schedule 15—<br>- (a) in paragraph 15, the word “and” at the end of paragraph (f), and<br>- (b) paragraph 23(10) and (11).</td></tr>
+<tr><td>Finance Act 2004 (c. 12)</td><td>In Schedule 18, paragraph 1(8). In Schedule 20, paragraph 7(d).</td></tr>
+<tr><td>Income Tax Act 2007 (c. 3)</td><td>In section 195(6), the definition of “holding company”. In section 274(3), the word “and” at the end of paragraph (c). In section 284(d), the words “for Her Majesty's Revenue and Customs”. In section 306(6), the definition of “holding company”. In section 327(1), the word “and” immediately before “section 297”.</td></tr>
+</tbody>
+<tfoot>
+<tr><td colspan="2">These repeals have effect in accordance with Schedule 16 to this Act.</td></tr>
+</tfoot>
+</table>
+
+<table>
+<tbody>
+<tr><th><i>Short title and chapter</i></th><th><i>Extent of repeal</i></th></tr>
+<tr><td>Finance Act 2006 (c. 25)</td><td>Section 107(5), (7) and (7A). In section 115(2), the words “+ Financing Costs”. In Schedule 17—<br>- (a) paragraph 6(2) and (3), and<br>- (b) in paragraph 14, the words “+ FinancingCosts (all)” and paragraph (b) of the substituted subsection (2).</td></tr>
+<tr><td>Income Tax Act 2007 (c. 3)</td><td>In Schedule 1, paragraph 617.</td></tr>
+</tbody>
+<tfoot>
+<tr><td colspan="2">These repeals have effect in accordance with section 52 of this Act.</td></tr>
+</tfoot>
+</table>
+
+<table>
+<tbody>
+<tr><th><i>Short title and chapter</i></th><th><i>Extent of repeal</i></th></tr>
+<tr><td>Income and Corporation Taxes Act 1988 (c. 1)</td><td>In Schedule 27, in paragraph 6(1)(c), the words “without regard to the provisions of this paragraph,”.</td></tr>
+</tbody>
+<tfoot>
+<tr><td colspan="2">This repeal has effect in accordance with section 57 of this Act.</td></tr>
+</tfoot>
+</table>
+
+<table>
+<tbody>
+<tr><th><i>Short title and chapter</i></th><th><i>Extent of repeal</i></th></tr>
+<tr><td>Income Tax (Earnings and Pensions) Act 2003 (c. 1)</td><td>Section 219(5) and (6).</td></tr>
+</tbody>
+<tfoot>
+<tr><td colspan="2">This repeal has effect in accordance with section 62 of this Act.</td></tr>
+</tfoot>
+</table>
+
+### Part 3 — Pensions
+
+<table>
+<tbody>
+<tr><th><i>Short title and chapter</i></th><th><i>Extent of repeal</i></th></tr>
+<tr><td>Inheritance Tax Act 1984 (c. 51)</td><td>In section 151C(4), the word “and” at the end of the definition of “dependant”. In Schedule 2, paragraph 6A.</td></tr>
+<tr><td>Income Tax (Earnings and Pensions) Act 2003 (c. 1)</td><td>In section 636A—<br>- (a) in subsection (1), paragraph (f) and the word “or” before it, and<br>- (b) in subsection (7), the words “ “transfer lump sum death benefit”,”.</td></tr>
+<tr><td>Finance Act 2004 (c. 12)</td><td>Section 168(1)(g). Section 172B(5)(a). In section 188(5), paragraph (b) and the word “and” before it. In section 280(2), the entry relating to transfer lump sum death benefit. In Schedule 28, paragraph 12(3) and (4). In Schedule 29, paragraph 19. In Schedule 34, in—<br>- (a) paragraph 1(6), and<br>- (b) paragraph 4(3), the words from “but also” to the end. In Schedule 36, in paragraph 17A—<br>- (a) in sub-paragraph (1), paragraph (c) and the word “or” before it, and<br>- (b) in sub-paragraph (2), the words “, or to a transfer lump sum death benefit being paid,”.</td></tr>
+<tr><td>Finance Act 2006 (c. 25)</td><td>In Schedule 22, paragraph 11.</td></tr>
+</tbody>
+<tfoot>
+<tr><td colspan="2">These repeals have effect in accordance with Schedule 19 to this Act.</td></tr>
+</tfoot>
+</table>
+
+<table>
+<tbody>
+<tr><th><i>Short title and chapter</i></th><th><i>Extent of repeal</i></th></tr>
+<tr><td>Pension Schemes Act 1993 (c. 48)</td><td>In section 1(1), in the definition of “personal pension scheme”, in paragraph (b), the words “any of the paragraphs of”.</td></tr>
+<tr><td>Pension Schemes (Northern Ireland) Act 1993 (c. 49)</td><td>In section 1(1), in the definition of “personal pension scheme”, in paragraph (b), the words “any of the paragraphs of”.</td></tr>
+<tr><td>Finance Act 2004 (c. 12)</td><td>In section 154—<br>- (a) subsection (3), and<br>- (b) in subsection (4), the words “and section 155”. Section 155. In section 273—<br>- (a) in subsection (5)(a), the words “was established by a person or body specified in section 154(1)(a) to (g) (insurance companies etc) and”, and<br>- (b) in subsection (7), the words “was established by a person or body specified in section 154(1)(a) to (g) and”. In Schedule 29—<br>- (a) in paragraph 1(1), paragraph (e) (but not including the word “and” at the end), and<br>- (b) paragraph 10(3)(a). In Schedule 29A, paragraph 22(2). In Schedule 36, in paragraph 12—<br>- (a) in sub-paragraph (7), paragraph (a) and, in paragraph (b), the words “held for the purposes of, or representing accrued rights under, the arrangement”,<br>- (b) in sub-paragraph (8)(a), the words “, or two or more money purchase arrangements that are not cash balance arrangements,” and the word “or” at the end, and<br>- (c) in sub-paragraph (9)(a), the words “, or each of the arrangements,” and the word “and” at the end.</td></tr>
+</tbody>
+<tfoot>
+<tr><td colspan="2">These repeals have effect in accordance with Schedule 20 to this Act.</td></tr>
+</tfoot>
+</table>
+
+### Part 4 — SDLT, stamp duty and SDRT
+
+<table>
+<tbody>
+<tr><th><i>Short title and chapter</i></th><th><i>Extent of repeal</i></th></tr>
+<tr><td>Finance Act 2003 (c. 14)</td><td>In Schedule 15—<br>- (a) paragraphs 13 and 14(1)(b) and (4), and<br>- (b) in the italic cross-heading before paragraph 14, the words “<i>for consideration</i>”.</td></tr>
+</tbody>
+<tfoot>
+<tr><td colspan="2">These repeals have effect in accordance with section 72 of this Act.</td></tr>
+</tfoot>
+</table>
+
+<table>
+<tbody>
+<tr><th><i>Short title and chapter</i></th><th><i>Extent of repeal</i></th></tr>
+<tr><td>Finance Act 1986 (c. 41)</td><td>In section 80B(2), the definition of “EEA exchange”. In section 80C(7), the definition of “EEA exchange” (together with the word “and” at the end of it). In section 88B(2), the definition of “EEA exchange”. In section 89AA(6), the definition of “EEA exchange”.</td></tr>
+<tr><td>Finance (No.2) Act 2005 (c. 22)</td><td>Section 50.</td></tr>
+<tr><td>Finance Act 2007 (c. 11)</td><td>Section 73. Schedule 21.</td></tr>
+</tbody>
+<tfoot>
+<tr><td colspan="2">- 1 Subject to Note 2, these repeals have effect in accordance with Schedule 21 to this Act.<br>- 2 The repeals of section 73 of, and Schedule 21 to, this Act have effect in accordance with sections 108 and 110 of FA 1990.</td></tr>
+</tfoot>
+</table>
+
+<table>
+<tbody>
+<tr><th><i>Short title and chapter</i></th><th><i>Extent of repeal</i></th></tr>
+<tr><td>School Standards and Framework Act 1998 (c. 31)</td><td>Sections 79 and 79A.</td></tr>
+<tr><td>Education and Inspections Act 2006 (c. 40)</td><td>In Part 3 of Schedule 4, paragraph 20.</td></tr>
+</tbody>
+<tfoot>
+<tr><td colspan="2">These repeals have effect in accordance with section 79 of this Act.</td></tr>
+</tfoot>
+</table>
+
+<table>
+<tbody>
+<tr><th><i>Short title and chapter</i></th><th><i>Extent of repeal</i></th></tr>
+<tr><td>Finance Act 2003 (c. 14)</td><td>In section 76(3), paragraph (b) and the word “and” before it. In section 81(2), paragraph (b) and the word “and” before it. In Schedule 10, in paragraph 2(2), paragraph (b) and the word “and” before it.</td></tr>
+</tbody>
+<tfoot>
+<tr><td colspan="2">These repeals have effect in accordance with section 80 of this Act.</td></tr>
+</tfoot>
+</table>
+
+### Part 5 — Investigation, administration etc
+
+<table>
+<tbody>
+<tr><th><i>Short title and chapter</i></th><th><i>Extent of repeal</i></th></tr>
+<tr><td>Taxes Management Act 1970 (c. 9)</td><td>Sections 20C and 20CC. In section 118(1), in the definition of “tax”, the word “, 20C”.</td></tr>
+<tr><td>Customs and Excise Management Act 1979 (c. 2)</td><td>In section 118C—<br>- (a) in subsection (3), paragraph (c) and the word “or” before it,<br>- (b) in subsection (4)(b), the words “or in respect of a gaming duty offence”, and<br>- (c) in subsection (5), the words from “and “a gaming duty offence”” to the end.</td></tr>
+<tr><td>Betting and Gaming Duties Act 1981 (c. 63)</td><td>In Schedule 1, paragraph 16. In Schedule 3, paragraph 17. In Schedule 4, paragraph 17.</td></tr>
+<tr><td>Finance Act 1984 (c. 43)</td><td>In Schedule 3, paragraph 7(12).</td></tr>
+<tr><td>Police and Criminal Evidence Act 1984 (c. 60)</td><td>In Schedule 6, paragraph 39(b) to (d).</td></tr>
+<tr><td>Finance Act 1989 (c. 26)</td><td>Section 146 and 147. Section 148(4).</td></tr>
+<tr><td>Finance Act 1994 (c. 9)</td><td>In Schedule 7, paragraph 4(2) to (7).</td></tr>
+<tr><td>Value Added Tax Act 1994 (c. 23)</td><td>Section 72(9). In Schedule 11, paragraph 10(3) to (6).</td></tr>
+<tr><td>Finance Act 1995 (c. 4)</td><td>In Schedule 3, paragraph 11(10).</td></tr>
+<tr><td>Criminal Procedure (Consequential Provisions) (Scotland) Act 1995 (c. 40)</td><td>In Schedule 4, paragraph 91(a).</td></tr>
+<tr><td>Finance Act 1996 (c. 8)</td><td>In Schedule 5, paragraphs 5 and 6.</td></tr>
+<tr><td>Finance Act 1997 (c. 16)</td><td>In Schedule 2, paragraph 4(3) to (5).</td></tr>
+<tr><td>Finance Act 2000 (c. 17)</td><td>Section 149(4). Section 150. In Schedule 6, paragraphs 97 and 130.</td></tr>
+<tr><td>Finance Act 2001 (c. 9)</td><td>In Schedule 6, paragraph 6. In Schedule 7, paragraph 7.</td></tr>
+<tr><td>Criminal Justice and Police Act 2001 (c. 16)</td><td>Section 57(1)(c). Section 63(2)(e). Section 65(3). In Schedule 1, paragraphs 13, 28, 29, 57, 58, 61 and 72. In Schedule 2, paragraph 13(2)(d).</td></tr>
+<tr><td>Tax Credits Act 2002 (c. 21)</td><td>Section 36(2) and (3).</td></tr>
+<tr><td>Proceeds of Crime Act 2002 (c. 29)</td><td>Section 323(3)(e) and (f).</td></tr>
+<tr><td>Finance Act 2003 (c. 14)</td><td>Part 7 of Schedule 13.</td></tr>
+<tr><td>Commissioners for Revenue and Customs Act 2005 (c. 11)</td><td>Section 13(3)(b) and (c). Section 14(2)(b) and (c). In Schedule 2, paragraphs 7 and 9.</td></tr>
+</tbody>
+<tfoot>
+<tr><td colspan="2">These repeals have effect in accordance with section 84(5) of this Act.</td></tr>
+</tfoot>
+</table>
+
+<table>
+<tbody>
+<tr><th><i>Short title and chapter</i></th><th><i>Extent of repeal</i></th></tr>
+<tr><td>Criminal Law (Consolidation) (Scotland) Act 1995 (c. 39)</td><td>Section 24(9).</td></tr>
+</tbody>
+<tfoot>
+<tr><td colspan="2">This repeal has effect in accordance with Schedule 23 to this Act.</td></tr>
+</tfoot>
+</table>
+
+<table>
+<tbody>
+<tr><th><i>Short title and chapter</i></th><th><i>Extent of repeal</i></th></tr>
+<tr><td>Taxes Management Act 1970 (c. 9)</td><td>In section 8—<br>- (a) in subsection (1)(a), the words “, on or before the day mentioned in subsection (1A) below”, and<br>- (b) subsection (1A). In section 8A—<br>- (a) in subsection (1)(a) the words “, on or before the day mentioned in subsection (1A) below”, and<br>- (b) subsection (1A). In section 33A(9), the definition of “filing date”. In section 93A(8), the definition of “the filing date”.</td></tr>
+<tr><td>Finance Act 1996 (c. 8)</td><td>Section 125(3).</td></tr>
+</tbody>
+<tfoot>
+<tr><td colspan="2">These repeals have effect in accordance with section 92 of this Act.</td></tr>
+</tfoot>
+</table>
+
+|  |  |
+|---|---|
+| *Short title and chapter* | *Extent of repeal* |
+| Value Added Tax Act 1994 (c. 23) | In section 76(3), the word “and” at the end of paragraph (d). |
+| Commissioners for Revenue and Customs Act 2005 (c. 11) | In Schedule 2, paragraph 12. In Schedule 4, paragraph 95(2). |
+
+<table>
+<tbody>
+<tr><th><i>Short title and chapter</i></th><th><i>Extent of repeal</i></th></tr>
+<tr><td>Taxes Management Act 1970 (c. 9)</td><td>Section 95. Section 95A. Section 97. Section 98A(4). Section 100A(1). Section 103(2).</td></tr>
+<tr><td>Finance Act 1989 (c. 26)</td><td>Section 163(1)(a).</td></tr>
+<tr><td>Finance Act 1994 (c. 9)</td><td>In Schedule 19, paragraphs 27(1), 28 and 32.</td></tr>
+<tr><td>Value Added Tax Act 1994 (c. 23)</td><td>Sections 60 and 61. Sections 63 and 64.</td></tr>
+<tr><td>Finance Act 1996 (c. 8)</td><td>Section 36. Section 123(12) and (13).</td></tr>
+<tr><td>Finance Act 1998 (c. 36)</td><td>In Schedule 18, paragraphs 20 and 89.</td></tr>
+<tr><td>Finance Act 2001 (c. 9)</td><td>Section 98(3). In Schedule 29, paragraph 32.</td></tr>
+</tbody>
+<tfoot>
+<tr><td colspan="2">These repeals have effect in accordance with section 97 of this Act.</td></tr>
+</tfoot>
+</table>
+
+### Part 6 — Miscellaneous
+
+<table>
+<tbody>
+<tr><th><i>Short title and chapter</i></th><th><i>Extent of repeal</i></th></tr>
+<tr><td>Value Added Tax Act 1994 (c. 23)</td><td>In Schedule 4, paragraph 5(4A).</td></tr>
+<tr><td>Finance Act 2003 (c. 14)</td><td>Section 22.</td></tr>
+</tbody>
+<tfoot>
+<tr><td colspan="2">These repeals have effect in accordance with section 99 of this Act.</td></tr>
+</tfoot>
+</table>
+
+<table>
+<tbody>
+<tr><th><i>Short title and chapter</i></th><th><i>Extent of repeal</i></th></tr>
+<tr><td>Value Added Tax Act 1994 (c. 23)</td><td>In section 49(1), paragraph (b) (together with the word “and” before it).</td></tr>
+</tbody>
+<tfoot>
+<tr><td colspan="2">This repeal has effect in accordance with section 100 of this Act.</td></tr>
+</tfoot>
+</table>
+
+<table>
+<tbody>
+<tr><th><i>Short title and chapter</i></th><th><i>Extent of repeal</i></th></tr>
+<tr><td>Finance Act 1966 (c. 18)</td><td>In Schedule 3, paragraph 6.</td></tr>
+<tr><td>Betting and Gaming Duties Act 1981 (c. 63)</td><td>In section 3(1), paragraph (b) (together with the word “and” before it). In section 5C(5), paragraph (b) (together with the word “or” before it). In section 12(4)—<br>- (a) in the definition of “betting office licence”, paragraph (a) (together with the word “and” following it),<br>- (b) in the definition of “bookmaker's permit”, paragraph (a) (together with the word “and” following it), and<br>- (c) the definitions of “meeting”, “totalisator” and “track”. In section 20A(1), paragraph (a) (together with the word “or” following it). In Schedule 1—<br>- (a) paragraph 7, and<br>- (b) in paragraph 15, in sub-paragraph (2), the words “in England or Wales or Northern Ireland”, sub-paragraphs (3) to (4A), and in sub-paragraph (5), the words “in Northern Ireland”.</td></tr>
+<tr><td>Finance Act 1986 (c. 41)</td><td>In Schedule 4—<br>- (a) paragraph 4(b), and<br>- (b) in paragraph 11, in sub-paragraph (1), the words from “in paragraph 7” to the end, and sub-paragraph (2)(a) and (b).</td></tr>
+<tr><td>Finance Act 1993 (c. 34)</td><td>In section 24(4)—<br>- (a) in paragraph (a), the words “the Lotteries and Amusements Act 1976 or”,<br>- (b) in paragraph (b), the words “Act or”,<br>- (c) in paragraph (c), the words “Act or” and “section 5(3) of that Act or”, and<br>- (d) paragraph (d).</td></tr>
+<tr><td>Finance Act 1997 (c. 16)</td><td>In section 10(3)—<br>- (a) paragraph (c), and<br>- (b) in paragraph (d), the words “section 41 of that Act or”.</td></tr>
+<tr><td>Access to Justice Act 1999 (c. 22)</td><td>In Schedule 13, paragraph 120.</td></tr>
+<tr><td>Finance Act 2002 (c. 23)</td><td>Section 13. In Schedule 4, paragraph 10(14).</td></tr>
+<tr><td>Finance Act 2003 (c. 14)</td><td>Section 9(4).</td></tr>
+<tr><td>Courts Act 2003 (c. 39)</td><td>In Schedule 8, paragraph 266.</td></tr>
+<tr><td>Income Tax Act 2007 (c. 3)</td><td>In Schedule 1, in paragraph 94(2)(e), sub-paragraph (iii) (together with the word “and” before it).</td></tr>
+</tbody>
+<tfoot>
+<tr><td colspan="2">These repeals have effect in accordance with Schedule 25 to this Act.</td></tr>
+</tfoot>
+</table>
+
+|  |  |
+|---|---|
+| *Short title and chapter* | *Extent of repeal* |
+| Taxes Management Act 1970 (c. 9) | In section 98C(2), the word “or” at the end of paragraph (c). |
+
+|  |  |
+|---|---|
+| *Short title and chapter* | *Extent of repeal* |
+| Income and Corporation Taxes Act 1988 (c. 1) | In Schedule 20, in paragraph 5, the words “, or which are dealt in on the Unlisted Securities Market”. |
+| Taxation of Chargeable Gains Act 1992 (c. 12) | In section 130(1)(a), the words “in the United Kingdom or elsewhere”. In section 146(4)(b), the words “in the United Kingdom or elsewhere”. Section 285. |
+| Finance Act 1996 (c. 8) | In Schedule 38, paragraphs 7 and 12(1). |
+| Financial Services and Markets Act 2000 (c. 8) | In Schedule 20, paragraph 4(6). |
+| Income Tax (Trading and Other Income) Act 2005 (c. 5) | Section 443(2)(g). In section 460(3), the words “or 451”. |
+| Income Tax Act 2007 (c. 3) | In section 295(3)(c), the words “on the Unlisted Securities Market or dealt in”. Section 1010. In Schedule 1, paragraph 227. |
+
+---
+
+[^F1]: S. 3 repealed (with effect in accordance with s. 1184(1) of the amending Act) by Corporation Tax Act 2010 (c. 4), s. 1184(1), Sch. 1 para. 574, Sch. 3 Pt. 1 (with Sch. 2)
+[^F2]: S. 4 omitted (8.4.2010) by virtue of Finance Act 2010 (c. 13), s. 8(2)(b)
+[^F3]: S. 9(2) omitted (retrospective to 1.6.2009) by virtue of Finance Act 2009 (c. 10), s. 22(11)(b)(12)
+[^F4]: S. 9(4) omitted (retrospective to 1.6.2009) by virtue of Finance Act 2009 (c. 10), s. 22(11)(b)(12)
+[^F5]: S. 12 omitted (with effect in accordance with Sch. 5 para. 7 of the amending Act) by virtue of Finance Act 2009 (c. 10), Sch. 5 para. 6(d)
+[^F6]: S. 16(3) repealed (14.11.2012) by The Community Emissions Trading Scheme (Allocation of Allowances for Payment) Regulations 2012 (S.I. 2012/2661), regs. 1, 6(1)(a) (with reg. 6(2))
+[^F7]: Words in s. 16(4)(c) substituted (21.7.2008) by Finance Act 2008 (c. 9), s. 164(2)
+[^F8]: Words in Act substituted (22.4.2011) by The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043), arts. 2, 3, 6 (with art. 3(2)(3), 4(2), 6(4)(5))
+[^F9]: S. 16(6A) inserted (21.7.2008) by Finance Act 2008 (c. 9), s. 164(3)
+[^F10]: S. 17 repealed (with effect in accordance with s. 1329(1) of the amending Act) by Corporation Tax Act 2009 (c. 4), s. 1329(1), Sch. 3 Pt. 1 (with Sch. 2 Pts. 1, 2)
+[^F11]: S. 27(5) repealed (with effect in accordance with s. 1184(1) of the amending Act) by Corporation Tax Act 2010 (c. 4), s. 1184(1), Sch. 3 Pt. 1 (with Sch. 2)
+[^F12]: S. 28 repealed (with effect in accordance with s. 1329(1) of the amending Act) by Corporation Tax Act 2009 (c. 4), s. 1329(1), Sch. 3 Pt. 1 (with Sch. 2 Pts. 1, 2)
+[^F13]: S. 29(1) omitted (with effect in accordance with Sch. 14 para. 18 of the amending Act) by virtue of Finance Act 2008 (c. 9), Sch. 14 para. 17(p)
+[^F14]: S. 34(1)-(6) repealed (with effect in accordance with s. 1329(1) of the amending Act) by Corporation Tax Act 2009 (c. 4), s. 1329(1), Sch. 3 Pt. 1 (with Sch. 2 Pts. 1, 2)
+[^F15]: S. 35 repealed (with effect in accordance with s. 381(1) of the amending Act) by Taxation (International and Other Provisions) Act 2010 (c. 8), s. 381(1), Sch. 10 Pt. 1 (with Sch. 9 paras. 1-9, 22)
+[^F16]: S. 36 omitted (with effect in accordance with Sch. 27 para. 30(1) of the amending Act) by virtue of Finance Act 2008 (c. 9), Sch. 27 para. 28
+[^F17]: S. 37 omitted (21.7.2008) by virtue of Finance Act 2008 (c. 9), s. 75(4)(c)
+[^F18]: S. 44 omitted (17.7.2012) by virtue of Finance Act 2012 (c. 14), Sch. 18 para. 23(e)(i)
+[^F19]: S. 45(4) omitted (21.7.2008) by virtue of Finance Act 2008 (c. 9), Sch. 18 para. 5(3)(c)
+[^F20]: S. 45(5) omitted (21.7.2008) by virtue of Finance Act 2008 (c. 9), Sch. 18 para. 5(3)(c)
+[^F21]: S. 49 repealed (with effect in accordance with s. 1329(1) of the amending Act) by Corporation Tax Act 2009 (c. 4), s. 1329(1), Sch. 3 Pt. 1 (with Sch. 2 Pts. 1, 2)
+[^F22]: S. 50 repealed (with effect in accordance with s. 1329(1) of the amending Act) by Corporation Tax Act 2009 (c. 4), s. 1329(1), Sch. 3 Pt. 1 (with Sch. 2 Pts. 1, 2)
+[^F23]: S. 53(1)-(10) repealed (with effect in accordance with s. 381(1) of the amending Act) by Taxation (International and Other Provisions) Act 2010 (c. 8), s. 381(1), Sch. 10 Pt. 7 (with Sch. 9 paras. 1-9, 22)
+[^F24]: S. 53(11) repealed (with effect in accordance with s. 381(1) of the amending Act) by Taxation (International and Other Provisions) Act 2010 (c. 8), s. 381(1), Sch. 10 Pt. 11 (with Sch. 9 paras. 1-9, 22)
+[^F25]: S. 53(12) repealed (with effect in accordance with s. 1184(1) of the amending Act) by Corporation Tax Act 2010 (c. 4), s. 1184(1), Sch. 3 Pt. 1 (with Sch. 2)
+[^F26]: S. 53(13)(14) repealed (with effect in accordance with s. 381(1) of the amending Act) by Taxation (International and Other Provisions) Act 2010 (c. 8), s. 381(1), Sch. 10 Pt. 7 (with Sch. 9 paras. 1-9, 22)
+[^F27]: S. 54 repealed (with effect in accordance with s. 381(1) of the amending Act) by Taxation (International and Other Provisions) Act 2010 (c. 8), s. 381(1), Sch. 10 Pt. 7 (with Sch. 9 paras. 1-9, 22)
+[^F28]: S. 57(1) repealed (with effect in accordance with s. 1184(1) of the amending Act) by Corporation Tax Act 2010 (c. 4), s. 1184(1), Sch. 3 Pt. 1 (with Sch. 2)
+[^F29]: S. 57(3) repealed (with effect in accordance with s. 1184(1) of the amending Act) by Corporation Tax Act 2010 (c. 4), s. 1184(1), Sch. 3 Pt. 1 (with Sch. 2)
+[^F30]: S. 57(6)(7) repealed (with effect in accordance with s. 1184(1) of the amending Act) by Corporation Tax Act 2010 (c. 4), s. 1184(1), Sch. 3 Pt. 1 (with Sch. 2)
+[^F31]: S. 58(1) repealed (with effect in accordance with s. 1329(1) of the amending Act) by Corporation Tax Act 2009 (c. 4), s. 1329(1), Sch. 3 Pt. 1 (with Sch. 2 Pts. 1, 2)
+[^F32]: S. 59(4)-(6) repealed (with effect in accordance with s. 1184(1) of the amending Act) by Corporation Tax Act 2010 (c. 4), s. 1184(1), Sch. 3 Pt. 1 (with Sch. 2)
+[^F33]: S. 60(1)(b) omitted (with effect in accordance with s. 41(4) of the amending Act) by virtue of Finance Act 2011 (c. 11), s. 41(3)
+[^F34]: S. 60(2) repealed (with effect in accordance with s. 1184(1) of the amending Act) by Corporation Tax Act 2010 (c. 4), s. 1184(1), Sch. 3 Pt. 1 (with Sch. 2)
+[^F35]: S. 72(14) omitted (21.7.2008) by virtue of Finance Act 2008 (c. 9), Sch. 31 para. 10
+[^F36]: S. 81 omitted (with effect in accordance with s. 94(5) of the amending Act) by virtue of Finance Act 2008 (c. 9), Sch. 30 para. 15
+[^F37]: S. 84(3) omitted (27.4.2017 for specified purposes, 27.6.2017 in so far as not already in force) by virtue of Criminal Finances Act 2017 (c. 22), ss. 18(5), 58(4)(6)
+[^F38]: S. 87(2A)-(2D) inserted (31.1.2017 for specified purposes, 1.3.2018 in so far as not already in force) by Policing and Crime Act 2017 (c. 3), s. 183(1)(5)(e), Sch. 17 para. 9(2); S.I. 2018/227, art. 2(g)
+[^F39]: S. 87(2E) inserted (25.1.2018) by The Criminal Justice (Scotland) Act 2016 (Consequential Provisions) Order 2018 (S.I. 2018/46), arts. 2(2)(d), 19(3)(a) (with art. 19(2))
+[^F40]: S. 87(3) repealed (25.1.2018) by The Criminal Justice (Scotland) Act 2016 (Consequential Provisions) Order 2018 (S.I. 2018/46), arts. 2(2)(d), 19(3)(b) (with art. 19(2))
+[^F41]: Words in s. 87(4) substituted (31.1.2017 for specified purposes, 1.3.2018 in so far as not already in force) by Policing and Crime Act 2017 (c. 3), ss. 118, 183(1)(5)(e); S.I. 2018/227, art. 2(f)
+[^F42]: S. 91(4) omitted (with effect in accordance with Sch. 22 para. 2(3) of the amending Act) by virtue of Finance Act 2008 (c. 9), Sch. 22 para. 2(2)(b)
+[^F43]: S. 91(6)(b) omitted (1.4.2010) by virtue of Finance Act 2008 (c. 9), s. 118(2), Sch. 39 para. 65(e); S.I. 2009/403, art. 2(2) (with art. 10)
+[^F44]: S. 107(5A) inserted (with effect in accordance with s. 299(2) of the amending Act) by Finance Act 2014 (c. 26), s. 299(1)
+[^F45]: S. 108(10)(a) omitted (1.4.2009) by virtue of The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56), art. 1(2), Sch. 1 para. 465
+[^F46]: Word in s. 110(4) substituted (1.7.2011) by The Corporation Tax (Implementation of the Mergers Directive) Regulations 2011 (S.I. 2011/1431), regs. 1(2), 3
+[^F47]: Words in s. 113 inserted (with effect in accordance with s. 1329(1) of the amending Act) by Corporation Tax Act 2009 (c. 4), s. 1329(1), Sch. 1 para. 723 (with Sch. 2 Pts. 1, 2)
+[^F48]: Sch. 1 para. 4 omitted (1.4.2026) by virtue of Finance Act 2026 (c. 11), s. 88(3), Sch. 13 para. 11(a) (with Sch. 13 para. 21)
+[^F49]: Sch. 3 para. 10 repealed (with effect in accordance with s. 1329(1) of the amending Act) by Corporation Tax Act 2009 (c. 4), s. 1329(1), Sch. 1 para. 724, Sch. 3 Pt. 1 (with Sch. 2 Pts. 1, 2)
+[^F50]: Sch. 5 paras. 3-7 repealed (with effect in accordance with s. 381(1) of the amending Act) by Taxation (International and Other Provisions) Act 2010 (c. 8), s. 381(1), Sch. 10 Pt. 10 (with Sch. 9 paras. 1-9, 22)
+[^F51]: Sch. 5 paras. 3-7 repealed (with effect in accordance with s. 1184(1) of the amending Act) by Corporation Tax Act 2010 (c. 4), s. 1184(1), Sch. 3 Pt. 2 (with Sch. 2)
+[^F52]: Sch. 5 para. 9 repealed (with effect in accordance with s. 1184(1) of the amending Act) by Corporation Tax Act 2010 (c. 4), s. 1184(1), Sch. 3 Pt. 1 (with Sch. 2)
+[^F53]: Sch. 5 paras. 11-16 repealed (with effect in accordance with s. 1329(1) of the amending Act) by Corporation Tax Act 2009 (c. 4), s. 1329(1), Sch. 3 Pt. 1 (with Sch. 2 Pts. 1, 2)
+[^F54]: Sch. 5 para. 17(4) repealed (with effect in accordance with s. 1184(1) of the amending Act) by Corporation Tax Act 2010 (c. 4), s. 1184(1), Sch. 3 Pt. 2 (with Sch. 2)
+[^F55]: Sch. 5 para. 17(4) repealed (with effect in accordance with s. 381(1) of the amending Act) by Taxation (International and Other Provisions) Act 2010 (c. 8), s. 381(1), Sch. 10 Pt. 10 (with Sch. 9 paras. 1-9, 22)
+[^F56]: Sch. 5 para. 18 repealed (with effect in accordance with s. 1329(1) of the amending Act) by Corporation Tax Act 2009 (c. 4), s. 1329(1), Sch. 3 Pt. 1 (with Sch. 2 Pts. 1, 2)
+[^F57]: Sch. 5 para. 19 repealed (with effect in accordance with s. 1329(1) of the amending Act) by Corporation Tax Act 2009 (c. 4), s. 1329(1), Sch. 3 Pt. 1 (with Sch. 2 Pts. 1, 2)
+[^F58]: Sch. 6 paras. 1, 2 repealed (1.4.2010) by Corporation Tax Act 2010 (c. 4), s. 1184(1), Sch. 3 Pt. 1 (with Sch. 2)
+[^F59]: Sch. 7 para. 3 omitted (17.7.2012) by virtue of Finance Act 2012 (c. 14), Sch. 16 para. 247(p)(i)
+[^F60]: Sch. 7 para. 6 omitted (17.7.2012) by virtue of Finance Act 2012 (c. 14), Sch. 16 para. 247(p)(i)
+[^F61]: Sch. 7 paras. 8-14 omitted (17.7.2012) by virtue of Finance Act 2012 (c. 14), Sch. 16 para. 247(p)(i)
+[^F62]: Sch. 7 para. 16 omitted (17.7.2012) by virtue of Finance Act 2012 (c. 14), Sch. 16 para. 247(p)(i)
+[^F63]: Sch. 7 para. 17 omitted (17.7.2012) by virtue of Finance Act 2012 (c. 14), Sch. 16 para. 247(p)(i)
+[^F64]: Sch. 7 para. 19 omitted (17.7.2012) by virtue of Finance Act 2012 (c. 14), Sch. 16 para. 247(p)(i)
+[^F65]: Sch. 7 paras. 21-23 omitted (17.7.2012) by virtue of Finance Act 2012 (c. 14), Sch. 16 para. 247(p)(i)
+[^F66]: Sch. 7 para. 25 omitted (17.7.2012) by virtue of Finance Act 2012 (c. 14), Sch. 16 para. 247(p)(i)
+[^F67]: Sch. 7 para. 26 omitted (17.7.2012) by virtue of Finance Act 2012 (c. 14), Sch. 16 para. 247(p)(i)
+[^F68]: Sch. 7 paras. 31-33 omitted (17.7.2012) by virtue of Finance Act 2012 (c. 14), Sch. 16 para. 247(p)(i)
+[^F69]: Sch. 7 paras. 35-38 omitted (17.7.2012) by virtue of Finance Act 2012 (c. 14), Sch. 16 para. 247(p)(i)
+[^F70]: Sch. 7 para. 40 omitted (17.7.2012) by virtue of Finance Act 2012 (c. 14), Sch. 18 para. 23(e)(ii)
+[^F71]: Sch. 7 para. 43 omitted (17.7.2012) by virtue of Finance Act 2012 (c. 14), Sch. 18 para. 23(e)(ii)
+[^F72]: Sch. 7 para. 44 omitted (with effect in accordance with Sch. 17 para. 17(12) of the amending Act) by virtue of Finance Act 2008 (c. 9), Sch. 17 para. 17(11)(g)
+[^F73]: Sch. 7 para. 45 omitted (with effect in accordance with Sch. 14 para. 18 of the amending Act) by virtue of Finance Act 2008 (c. 9), Sch. 14 para. 17(p)
+[^F74]: Sch. 7 para. 46 omitted (with effect in accordance with Sch. 14 para. 18 of the amending Act) by virtue of Finance Act 2008 (c. 9), Sch. 14 para. 17(p)
+[^F75]: Sch. 7 paras. 48-53 repealed (with effect in accordance with s. 381(1) of the amending Act) by Taxation (International and Other Provisions) Act 2010 (c. 8), s. 381(1), Sch. 10 Pt. 1 (with Sch. 9 paras. 1-9, 22)
+[^F76]: Sch. 7 para. 54 repealed (with effect in accordance with s. 1184(1) of the amending Act) by Corporation Tax Act 2010 (c. 4), s. 1184(1), Sch. 3 Pt. 1 (with Sch. 2)
+[^F77]: Sch. 7 para. 56 repealed (with effect in accordance with s. 1329(1) of the amending Act) by Corporation Tax Act 2009 (c. 4), s. 1329(1), Sch. 3 Pt. 1 (with Sch. 2 Pts. 1, 2)
+[^F78]: Sch. 7 para. 56 omitted (with effect in accordance with Sch. 16 para. 6 of the amending Act) by virtue of Finance Act 2009 (c. 10), Sch. 16 para. 5(i) (with Sch. 16 paras. 78)
+[^F79]: Sch. 7 paras. 57-59 omitted (17.7.2012) by virtue of Finance Act 2012 (c. 14), Sch. 16 para. 247(p)(i)
+[^F80]: Sch. 7 paras. 65-67 repealed (with effect in accordance with s. 1329(1) of the amending Act) by Corporation Tax Act 2009 (c. 4), s. 1329(1), Sch. 3 Pt. 1 (with Sch. 2 Pts. 1, 2)
+[^F81]: Sch. 7 para. 72 repealed (with effect in accordance with s. 1329(1) of the amending Act) by Corporation Tax Act 2009 (c. 4), s. 1329(1), Sch. 3 Pt. 1 (with Sch. 2 Pts. 1, 2)
+[^F82]: Sch. 7 para. 74 repealed (with effect in accordance with s. 1329(1) of the amending Act) by Corporation Tax Act 2009 (c. 4), s. 1329(1), Sch. 3 Pt. 1 (with Sch. 2 Pts. 1, 2)
+[^F83]: Sch. 7 para. 75 repealed (with effect in accordance with s. 1329(1) of the amending Act) by Corporation Tax Act 2009 (c. 4), s. 1329(1), Sch. 3 Pt. 1 (with Sch. 2 Pts. 1, 2)
+[^F84]: Sch. 7 para. 78 omitted (with effect in accordance with Sch. 17 para. 27(3) of the amending Act) by virtue of Finance Act 2008 (c. 9), Sch. 17 para. 27(2)
+[^F85]: Sch. 7 paras. 80-84 omitted (17.7.2012) by virtue of Finance Act 2012 (c. 14), Sch. 16 para. 247(p)(i)
+[^F86]: Sch. 7 paras 85, 86 and cross-headings added (with effect in accordance with art. 1(5) of the amending S.I.) by The Insurance Business Transfer Schemes (Amendment of the Corporation Tax Acts) Order 2008 (S.I. 2008/381), arts. 1(1), 30
+[^F87]: Sch. 7 para. 85 cross-heading substituted (with effect in accordance with s. 1329(1) of the amending Act) by Corporation Tax Act 2009 (c. 4), s. 1329(1), Sch. 1 para. 725(3) (with Sch. 2 Pts. 1, 2)
+[^F88]: Words in Sch. 7 para. 85(1) repealed (with effect in accordance with s. 1329(1) of the amending Act) by Corporation Tax Act 2009 (c. 4), s. 1329(1), Sch. 1 para. 725(2)(a), Sch. 3 Pt. 1 (with Sch. 2 Pts. 1, 2)
+[^F89]: Words in Sch. 7 para. 85(2) substituted (with effect in accordance with s. 1329(1) of the amending Act) by Corporation Tax Act 2009 (c. 4), s. 1329(1), Sch. 1 para. 725(2)(b)(i) (with Sch. 2 Pts. 1, 2)
+[^F90]: Words in Sch. 7 para. 85(2) substituted (with effect in accordance with s. 1329(1) of the amending Act) by Corporation Tax Act 2009 (c. 4), s. 1329(1), Sch. 1 para. 725(2)(b)(ii) (with Sch. 2 Pts. 1, 2)
+[^F91]: Sch. 7 para. 86 cross-heading substituted (with effect in accordance with s. 1329(1) of the amending Act) by Corporation Tax Act 2009 (c. 4), s. 1329(1), Sch. 1 para. 725(5) (with Sch. 2 Pts. 1, 2)
+[^F92]: Words in Sch. 7 para. 86(4) substituted (with effect in accordance with s. 1329(1) of the amending Act) by Corporation Tax Act 2009 (c. 4), s. 1329(1), Sch. 1 para. 725(4) (with Sch. 2 Pts. 1, 2)
+[^F93]: Words in Sch. 7 para. 86(5) substituted (with effect in accordance with s. 1329(1) of the amending Act) by Corporation Tax Act 2009 (c. 4), s. 1329(1), Sch. 1 para. 725(4) (with Sch. 2 Pts. 1, 2)
+[^F94]: Sch. 8 paras. 2-6 omitted (17.7.2012) by virtue of Finance Act 2012 (c. 14), Sch. 16 para. 247(p)(ii)
+[^F95]: Sch. 8 para. 8 omitted (17.7.2012) by virtue of Finance Act 2012 (c. 14), Sch. 16 para. 247(p)(ii)
+[^F96]: Sch. 8 para. 9 omitted (17.7.2012) by virtue of Finance Act 2012 (c. 14), Sch. 16 para. 247(p)(ii)
+[^F97]: Sch. 8 paras. 11-16 omitted (17.7.2012) by virtue of Finance Act 2012 (c. 14), Sch. 16 para. 247(p)(ii)
+[^F98]: Sch. 8 para. 20 repealed (with effect in accordance with s. 1329(1) of the amending Act) by Corporation Tax Act 2009 (c. 4), s. 1329(1), Sch. 3 Pt. 1 (with Sch. 2 Pts. 1, 2)
+[^F99]: Sch. 8 paras. 25-27 repealed (with effect in accordance with s. 1329(1) of the amending Act) by Corporation Tax Act 2009 (c. 4), s. 1329(1), Sch. 3 Pt. 1 (with Sch. 2 Pts. 1, 2)
+[^F100]: Sch. 8 para. 28 omitted (17.7.2012) by virtue of Finance Act 2012 (c. 14), Sch. 16 para. 247(p)(ii)
+[^F101]: Sch. 8 para. 29 omitted (17.7.2012) by virtue of Finance Act 2012 (c. 14), Sch. 16 para. 247(p)(ii)
+[^F102]: Sch. 9 para. 1(1) omitted (17.7.2012) by virtue of Finance Act 2012 (c. 14), Sch. 16 para. 247(p)(iii)
+[^F103]: Sch. 9 para. 1(2)(g)(h) repealed (with effect in accordance with s. 1329(1) of the amending Act) by Corporation Tax Act 2009 (c. 4), s. 1329(1), Sch. 3 Pt. 1 (with Sch. 2 Pts. 1, 2)
+[^F104]: Sch. 9 para. 1(3) omitted (17.7.2012) by virtue of Finance Act 2012 (c. 14), Sch. 16 para. 247(p)(iii)
+[^F105]: Sch. 9 para. 1(5) repealed (with effect in accordance with s. 1329(1) of the amending Act) by Corporation Tax Act 2009 (c. 4), s. 1329(1), Sch. 3 Pt. 1 (with Sch. 2 Pts. 1, 2)
+[^F106]: Sch. 9 para. 3(1) omitted (17.7.2012) by virtue of Finance Act 2012 (c. 14), Sch. 16 para. 247(p)(iii)
+[^F107]: Sch. 9 para. 3(2) repealed (with effect in accordance with art. 1(2) of the amending S.I.) by The Insurance Business Transfer Schemes (Amendment of the Corporation Tax Acts) Order 2008 (S.I. 2008/381), art. 1(1), Sch. Pt. 1
+[^F108]: Sch. 9 para. 3(3) omitted (17.7.2012) by virtue of Finance Act 2012 (c. 14), Sch. 16 para. 247(p)(iii)
+[^F109]: Sch. 9 paras. 4-8 omitted (17.7.2012) by virtue of Finance Act 2012 (c. 14), Sch. 16 para. 247(p)(iii)
+[^F110]: Sch. 9 para. 10 omitted (17.7.2012) by virtue of Finance Act 2012 (c. 14), Sch. 16 para. 247(p)(iii)
+[^F111]: Sch. 9 para. 11(3) omitted (17.7.2012) by virtue of Finance Act 2012 (c. 14), Sch. 16 para. 247(p)(iii)
+[^F112]: Sch. 9 para. 12 omitted (17.7.2012) by virtue of Finance Act 2012 (c. 14), Sch. 16 para. 247(p)(iii)
+[^F113]: Sch. 9 para. 14(3) omitted (with effect in accordance with Sch. 2 para. 71 of the amending Act) by virtue of Finance Act 2008 (c. 9), Sch. 2 para. 70(i)
+[^F114]: Sch. 9 para. 15 omitted (17.7.2012) by virtue of Finance Act 2012 (c. 14), Sch. 16 para. 247(p)(iii)
+[^F115]: Sch. 9 para. 16 omitted (17.7.2012) by virtue of Finance Act 2012 (c. 14), Sch. 16 para. 247(p)(iii)
+[^F116]: Word in Sch. 9 para. 17(2) substituted (21.7.2008) by Finance Act 2008 (c. 9), Sch. 17 para. 38(2)
+[^F117]: Word in Sch. 9 para. 17(3) inserted (21.7.2008) by Finance Act 2008 (c. 9), Sch. 17 para. 38(3)(a)
+[^F118]: Sch. 9 para. 17(3)(b) and word inserted (21.7.2008) by Finance Act 2008 (c. 9), Sch. 17 para. 38(3)(b)
+[^F119]: Sch. 9 para. 17(4A) inserted (21.7.2008) by Finance Act 2008 (c. 9), Sch. 17 para. 38(4)
+[^F120]: Sch. 9 para. 17(6) inserted (21.7.2008) by Finance Act 2008 (c. 9), Sch. 17 para. 38(5)
+[^F121]: Sch. 10 para. 1 omitted (with effect in accordance with Sch. 17 para. 4(1) of the amending Act) by virtue of Finance Act 2008 (c. 9), Sch. 17 para. 3(d)
+[^F122]: Sch. 10 para. 2(1) omitted (17.7.2012) by virtue of Finance Act 2012 (c. 14), Sch. 16 para. 247(p)(iv)
+[^F123]: Sch. 10 para. 4 omitted (17.7.2012) by virtue of Finance Act 2012 (c. 14), Sch. 16 para. 247(p)(iv)
+[^F124]: Sch. 10 para. 6 repealed (with effect in accordance with s. 1329(1) of the amending Act) by Corporation Tax Act 2009 (c. 4), s. 1329(1), Sch. 3 Pt. 1 (with Sch. 2 Pts. 1, 2)
+[^F125]: Sch. 10 paras. 11-13 omitted (17.7.2012) by virtue of Finance Act 2012 (c. 14), Sch. 16 para. 247(p)(iv)
+[^F126]: Sch. 10 para. 14(9) repealed (with effect in accordance with s. 1329(1) of the amending Act) by Corporation Tax Act 2009 (c. 4), s. 1329(1), Sch. 3 Pt. 1 (with Sch. 2 Pts. 1, 2)
+[^F127]: Sch. 10 para. 14(10)(c)(d) repealed (with effect in accordance with s. 1329(1) of the amending Act) by Corporation Tax Act 2009 (c. 4), s. 1329(1), Sch. 3 Pt. 1 (with Sch. 2 Pts. 1, 2)
+[^F128]: Sch. 10 para. 15(1)-(3) omitted (17.7.2012) by virtue of Finance Act 2012 (c. 14), Sch. 16 para. 247(p)(iv)
+[^F129]: Sch. 10 para. 16(8) repealed (with effect in accordance with s. 1329(1) of the amending Act) by Corporation Tax Act 2009 (c. 4), s. 1329(1), Sch. 3 Pt. 1 (with Sch. 2 Pts. 1, 2)
+[^F130]: Sch. 10 para. 16(10) repealed (with effect in accordance with s. 1329(1) of the amending Act) by Corporation Tax Act 2009 (c. 4), s. 1329(1), Sch. 3 Pt. 1 (with Sch. 2 Pts. 1, 2)
+[^F131]: Sch. 11 para. 2(7) substituted for Sch. 11 para. 2(7)(8) (13.8.2009) by The Finance Act 2009, Schedule 47 (Consequential Amendments) Order 2009 (S.I. 2009/2035), art. 1, Sch. para. 53
+[^F132]: Sch. 11 para. 3(1)(b) substituted (17.7.2012) by Finance Act 2012 (c. 14), Sch. 20 para. 23(2) (with Sch. 20 para. 50(9))
+[^F133]: Sch. 11 para. 3(2)(b) substituted (17.7.2012) by Finance Act 2012 (c. 14), Sch. 20 para. 23(3) (with Sch. 20 para. 50(9))
+[^F134]: Words in Sch. 11 para. 3(10) substituted (with effect in accordance with art. 1(2) of the amending S.I.) by Companies Act 2006 (Consequential Amendments) (Taxes and National Insurance) Order 2008 (S.I. 2008/954), arts. 1(1), 42 (with art. 4)
+[^F135]: Sch. 12 omitted (17.7.2012) by virtue of Finance Act 2012 (c. 14), Sch. 18 para. 23(e)(iii)
+[^F136]: Words in Sch. 13 para. 1(1) inserted (with effect in accordance with s. 1329(1) of the amending Act) by Corporation Tax Act 2009 (c. 4), s. 1329(1), Sch. 1 para. 726(2) (with Sch. 2 Pts. 1, 2)
+[^F137]: Sch. 13 paras. 2-5 repealed (with effect in accordance with s. 1329(1) of the amending Act) by Corporation Tax Act 2009 (c. 4), s. 1329(1), Sch. 1 para. 726(3), Sch. 3 Pt. 1 (with Sch. 2 Pts. 1, 2)
+[^F138]: Sch. 13 paras. 7-10 repealed (with effect in accordance with s. 1329(1) of the amending Act) by Corporation Tax Act 2009 (c. 4), s. 1329(1), Sch. 1 para. 726(3), Sch. 3 Pt. 1 (with Sch. 2 Pts. 1, 2)
+[^F139]: Sch. 13 para. 12 repealed (with effect in accordance with s. 1329(1) of the amending Act) by Corporation Tax Act 2009 (c. 4), s. 1329(1), Sch. 1 para. 726(3), Sch. 3 Pt. 1 (with Sch. 2 Pts. 1, 2)
+[^F140]: Sch. 13 para. 13 repealed (with effect in accordance with s. 381(1) of the amending Act) by Taxation (International and Other Provisions) Act 2010 (c. 8), s. 381(1), Sch. 7 para. 115, Sch. 10 Pt. 12 (with Sch. 9 paras. 1-9, 22)
+[^F141]: Words in Sch. 13 para. 14 substituted (with effect in accordance with s. 1329(1) of the amending Act) by Corporation Tax Act 2009 (c. 4), s. 1329(1), Sch. 1 para. 726(4)(a) (with Sch. 2 Pts. 1, 2)
+[^F142]: Words in Sch. 13 para. 14 substituted (with effect in accordance with s. 1329(1) of the amending Act) by Corporation Tax Act 2009 (c. 4), s. 1329(1), Sch. 1 para. 726(4)(b) (with Sch. 2 Pts. 1, 2)
+[^F143]: Words in Sch. 13 para. 14 substituted (with effect in accordance with s. 1329(1) of the amending Act) by Corporation Tax Act 2009 (c. 4), s. 1329(1), Sch. 1 para. 726(4)(c) (with Sch. 2 Pts. 1, 2)
+[^F144]: Words in Sch. 13 para. 14 substituted (with effect in accordance with s. 1329(1) of the amending Act) by Corporation Tax Act 2009 (c. 4), s. 1329(1), Sch. 1 para. 726(4)(d) (with Sch. 2 Pts. 1, 2)
+[^F145]: Words in Sch. 13 para. 14 substituted (with effect in accordance with s. 1329(1) of the amending Act) by Corporation Tax Act 2009 (c. 4), s. 1329(1), Sch. 1 para. 726(4)(e) (with Sch. 2 Pts. 1, 2)
+[^F146]: Words in Sch. 13 para. 15(9)(b) substituted (with effect in accordance with s. 1329(1) of the amending Act) by Corporation Tax Act 2009 (c. 4), s. 1329(1), Sch. 1 para. 726(5) (with Sch. 2 Pts. 1, 2)
+[^F147]: Sch. 14 paras. 2, 3 repealed (1.4.2010) by Corporation Tax Act 2010 (c. 4), s. 1184(1), Sch. 3 Pt. 1 (with Sch. 2)
+[^F148]: Sch. 14 para. 6 omitted (with effect in accordance with s. 66(8) of the amending Act) by virtue of Finance Act 2008 (c. 9), s. 66(4)(m)
+[^F149]: Sch. 14 para. 9 repealed (with effect in accordance with s. 1184(1) of the amending Act) by Corporation Tax Act 2010 (c. 4), s. 1184(1), Sch. 3 Pt. 2 (with Sch. 2)
+[^F150]: Sch. 14 para. 9 repealed (with effect in accordance with s. 381(1) of the amending Act) by Taxation (International and Other Provisions) Act 2010 (c. 8), s. 381(1), Sch. 10 Pt. 10 (with Sch. 9 paras. 1-9, 22)
+[^F151]: Sch. 14 para. 10 repealed (with effect in accordance with s. 381(1) of the amending Act) by Taxation (International and Other Provisions) Act 2010 (c. 8), s. 381(1), Sch. 10 Pt. 1 (with Sch. 9 paras. 1-9, 22)
+[^F152]: Sch. 14 paras. 14-18 repealed (with effect in accordance with s. 1329(1) of the amending Act) by Corporation Tax Act 2009 (c. 4), s. 1329(1), Sch. 3 Pt. 1 (with Sch. 2 Pts. 1, 2)
+[^F153]: Sch. 14 paras. 22, 23 omitted (with effect in accordance with Sch. 12 para. 18(1) of the amending Act) by virtue of Finance Act 2013 (c. 29), Sch. 12 para. 14
+[^F154]: Words in Sch. 16 para. 3(6)(b) inserted (6.4.2018) by Finance Act 2018 (c. 3), Sch. 5 paras. 9, 13; S.I. 2018/931, reg. 4(e)
+[^F155]: Sch. 16 para. 11(3)(4) repealed (with effect in accordance with s. 1184(1) of the amending Act) by Corporation Tax Act 2010 (c. 4), s. 1184(1), Sch. 3 Pt. 1 (with Sch. 2)
+[^F156]: Sch. 17 paras. 1-17 repealed (with effect in accordance with s. 1184(1) of the amending Act) by Corporation Tax Act 2010 (c. 4), s. 1184(1), Sch. 3 Pt. 1 (with Sch. 2)
+[^F157]: Words in Sch. 18 para. 7(7) substituted by Equality Act 2010 (c. 15) Sch. 26 para. 95(a) (as inserted (E.W.S.) (1.10.2010) by S.I. 2010/2279, art. 1(2), Sch. 1 para. 6 (with S.I. 2010/2317, art. 2))
+[^F158]: Words in Sch. 18 para. 7(7) substituted by Equality Act 2010 (c. 15) Sch. 26 para. 95(b) (as inserted (E.W.S.) (1.10.2010) by S.I. 2010/2279, art. 1(2), Sch. 1 para. 6 (with S.I. 2010/2317, art. 2))
+[^F159]: Sch. 19 para. 2(3) omitted (with effect in accordance with Sch. 16 paras. 85, 107 of the amending Act) by virtue of Finance Act 2011 (c. 11), Sch. 16 para. 84(c)(i)
+[^F160]: Sch. 19 para. 4 omitted (with effect in accordance with Sch. 16 paras. 85, 107 of the amending Act) by virtue of Finance Act 2011 (c. 11), Sch. 16 para. 84(c)(i)
+[^F161]: Sch. 19 para. 11 omitted (with effect in accordance with Sch. 16 paras. 85, 107 of the amending Act) by virtue of Finance Act 2011 (c. 11), Sch. 16 para. 84(c)(i)
+[^F162]: Sch. 19 para. 12(2) omitted (with effect in accordance with Sch. 16 paras. 85, 107 of the amending Act) by virtue of Finance Act 2011 (c. 11), Sch. 16 para. 84(c)(i)
+[^F163]: Sch. 19 para. 12(5) omitted (with effect in accordance with Sch. 16 paras. 85, 107 of the amending Act) by virtue of Finance Act 2011 (c. 11), Sch. 16 para. 84(c)(i)
+[^F164]: Sch. 19 paras. 13-15 omitted (with effect in accordance with Sch. 16 paras. 85, 107 of the amending Act) by virtue of Finance Act 2011 (c. 11), Sch. 16 para. 84(c)(i)
+[^F165]: Sch. 19 para. 16(2)-(4) omitted (with effect in accordance with Sch. 16 paras. 85, 107 of the amending Act) by virtue of Finance Act 2011 (c. 11), Sch. 16 para. 84(c)(i)
+[^F166]: Sch. 19 para. 16(6) omitted (with effect in accordance with Sch. 16 paras. 85, 107 of the amending Act) by virtue of Finance Act 2011 (c. 11), Sch. 16 para. 84(c)(i)
+[^F167]: Sch. 19 para. 18(4) omitted (with effect in accordance with Sch. 16 paras. 85, 107 of the amending Act) by virtue of Finance Act 2011 (c. 11), Sch. 16 para. 84(c)(i)
+[^F168]: Sch. 19 paras. 20-26 omitted (with effect in accordance with Sch. 16 paras. 85, 107 of the amending Act) by virtue of Finance Act 2011 (c. 11), Sch. 16 para. 84(c)(i)
+[^F169]: Sch. 19 para. 28(2)(a) omitted (with application in accordance with Sch. 2 para. 20 of the amending Act) by virtue of Taxation of Pensions Act 2014 (c. 30), Sch. 2 para. 19(4)(b)
+[^F170]: Sch. 19 para. 29(2) omitted (with effect in accordance with Sch. 16 paras. 85, 107 of the amending Act) by virtue of Finance Act 2011 (c. 11), Sch. 16 para. 84(c)(i)
+[^F171]: Sch. 19 para. 29(4)(5) omitted (with effect in accordance with Sch. 16 paras. 85, 107 of the amending Act) by virtue of Finance Act 2011 (c. 11), Sch. 16 para. 84(c)(i)
+[^F172]: Sch. 20 para. 11(3) omitted (with effect in accordance with Sch. 16 paras. 85, 107 of the amending Act) by virtue of Finance Act 2011 (c. 11), Sch. 16 para. 84(c)(ii)
+[^F173]: Sch. 20 para. 13 omitted (with effect in accordance with Sch. 16 paras. 85, 107 of the amending Act) by virtue of Finance Act 2011 (c. 11), Sch. 16 para. 84(c)(ii)
+[^F174]: Sch. 23 para. 4 repealed (25.1.2018) by The Criminal Justice (Scotland) Act 2016 (Consequential Provisions) Order 2018 (S.I. 2018/46), arts. 2(2)(d), 19(4) (with art. 19(2))
+[^F175]: Sch. 23 para. 5 repealed (25.1.2018) by The Criminal Justice (Scotland) Act 2016 (Consequential Provisions) Order 2018 (S.I. 2018/46), arts. 2(2)(d), 19(4) (with art. 19(2))
+[^F176]: Word in Sch. 24 para. 1(2) substituted (1.4.2009) by Finance Act 2008 (c. 9), s. 122(2), Sch. 40 para. 2(2)(a); S.I. 2009/571, art. 2
+[^F177]: Words in Sch. 24 para. 1(2) omitted (1.4.2009) by virtue of Finance Act 2008 (c. 9), s. 122(2), Sch. 40 para. 2(2)(b); S.I. 2009/571, art. 2
+[^F178]: Words in Sch. 24 para. 1(3) substituted (1.4.2009) by Finance Act 2008 (c. 9), s. 122(2), Sch. 40 para. 2(3); S.I. 2009/571, art. 2
+[^F179]: Words in Sch. 24 para. 1 inserted (6.4.2017) by Finance Act 2016 (c. 24), s. 113(2)(16) (with s. 117); S.I. 2017/355, reg. 2
+[^F180]: Words in Sch. 24 para. 1(4) inserted (with effect in accordance with Sch. 7 para. 60 of the amending Act) by Finance Act 2015 (c. 11), Sch. 7 para. 56(2)
+[^F181]: Words in Sch. 24 para. 1(4) substituted (with effect in accordance with Sch. 2 para. 32(1) of the amending Act) by Finance Act 2019 (c. 1), Sch. 2 para. 27(2)
+[^F182]: Words in Sch. 24 para. 1 inserted (with effect in accordance with art. 3-5 of the commencing S.I.) by Finance Act 2008 (c. 9), s. 122(2), Sch. 40 para. 2(4); S.I. 2009/571, art. 2
+[^F183]: Words in Sch. 24 para. 1 table inserted (22.7.2020) by Finance Act 2020 (c. 14), Sch. 10 para. 3(2)
+[^F184]: Words in Sch. 24 para. 1 Table inserted (with effect in relation to accounting periods commencing on or after 31.12.2023) by Finance (No. 2) Act 2023 (c. 30), s. 264, Sch. 14 para. 45
+[^F185]: Words in Sch. 24 para. 1 Table inserted (with effect in relation to accounting periods commencing on or after 31.12.2023) by Finance (No. 2) Act 2023 (c. 30), s. 278, Sch. 18 para. 6(2)
+[^F186]: Words in Sch. 24 para. 1 omitted (31.12.2020) by virtue of Taxation (Cross-border Trade) Act 2018 (c. 22), s. 57(3), Sch. 8 para. 111(2) (with savings and transitional provisions in S.I. 2019/105 (as amended by S.I. 2020/1495, regs. 1(2), 21), S.I. 2020/1545, Pt. 4 and 2020 c. 26, Sch. 2 para. 7(7)-(9)); S.I. 2020/1642, reg. 4(b) (with reg. 7)
+[^F187]: Words in Sch. 24 para. 1 inserted (with effect in accordance with art. 3-5 of the commencing S.I.) by Finance Act 2008 (c. 9), s. 122(2), Sch. 40 para. 2(5); S.I. 2009/571, art. 2
+[^F188]: Words in Sch. 24 para. 1 inserted (17.7.2013) by Finance Act 2013 (c. 29), Sch. 34 para. 6
+[^F189]: Words in Sch. 24 para. 1 inserted (with effect in accordance with s. 28(2) of the amending Act) by Finance (No. 3) Act 2010 (c. 33), Sch. 12 para. 12(2)
+[^F190]: Words in Sch. 24 para. 1 inserted (10.12.2021 for specified purposes, 1.4.2022 in so far as not already in force and with effect in accordance with s. 85(1)(b) of the amending Act) by Finance Act 2021 (c. 26), s. 85(1)(a), Sch. 15 para. 6; S.I. 2021/1409, regs. 3, 4
+[^F191]: Words in Sch. 24 para. 1 inserted (6.4.2018) by Finance Act 2017 (c. 10), s. 61(2), Sch. 11 para. 3; S.I. 2018/467, reg. 2
+[^F192]: Words in Sch. 24 para. 1 Table inserted (with effect in accordance with s. 158 of the amending Act) by Finance Act 2026 (c. 11), s. 158, Sch. 17 para. 36(1)
+[^F193]: Words in Sch. 24 para. 1 omitted (1.2.2025) by virtue of Finance (No. 2) Act 2023 (c. 30), s. 120(2), Sch. 13 para. 29(2); S.I. 2025/96, reg. 2(e) (with reg. 3)
+[^F194]: Words in Sch. 24 para. 1 substituted (1.8.2023) by Finance (No. 2) Act 2023 (c. 30), s. 120(2), Sch. 13 para. 17; S.I. 2023/884, reg. 2(1)(j) (with reg. 10)
+[^F195]: Words in Sch. 24 para. 1 inserted (1.2.2025) by Finance (No. 2) Act 2023 (c. 30), s. 120(2), Sch. 13 para. 29(3); S.I. 2025/96, reg. 2(e) (with reg. 3)
+[^F196]: Words in Sch. 24 para. 1 Table inserted (18.3.2026) by Finance Act 2026 (c. 11), Sch. 15 para. 1(1)
+[^F197]: Words in Sch. 24 para. 1(4) Table substituted (18.3.2026) by Finance Act 2026 (c. 11), s. 280(3)(a)
+[^F198]: Words in Sch. 24 para. 1(4) Table substituted (18.3.2026) by Finance Act 2026 (c. 11), s. 280(3)(b)
+[^F199]: Words in Sch. 24 para. 1(4) Table substituted (18.3.2026) by Finance Act 2026 (c. 11), s. 280(3)(c)
+[^F200]: Words in Sch. 24 para. 1 inserted (with effect in accordance with Sch. 24 para. 66(2) of the amending Act) by Finance Act 2012 (c. 14), Sch. 24 para. 29
+[^F201]: Words in Sch. 24 para. 1 substituted (1.4.2009) by Finance Act 2008 (c. 9), s. 122(2), Sch. 40 para. 2(6); S.I. 2009/571, art. 2
+[^F202]: Sch. 24 para. 1(4A)-(4C) omitted (31.12.2020) by virtue of Taxation (Cross-border Trade) Act 2018 (c. 22), s. 57(3), Sch. 8 para. 111(3) (with savings and transitional provisions in S.I. 2019/105 (as amended by S.I. 2020/1495, regs. 1(2), 21), S.I. 2020/1545, Pt. 4 and 2020 c. 26, Sch. 2 para. 7(7)-(9)); S.I. 2020/1642, reg. 4(b) (with reg. 7)
+[^F203]: Sch. 24 para. 1(5) inserted (1.4.2009) by Finance Act 2008 (c. 9), s. 122(2), Sch. 40 para. 2(7); S.I. 2009/571, art. 2
+[^F204]: Words in Sch. 24 para. 1(5) inserted (with effect in accordance with s. 28(2) of the amending Act) by Finance (No. 3) Act 2010 (c. 33), Sch. 12 para. 12(3)
+[^F205]: Sch. 24 para. 1A and cross-heading inserted (1.4.2009) by Finance Act 2008 (c. 9), s. 122(2), Sch. 40 para. 3; S.I. 2009/571, art. 2
+[^F206]: Words in Sch. 24 para. 2(1) substituted (1.4.2009) by Finance Act 2008 (c. 9), s. 122(2), Sch. 40 para. 4(2); S.I. 2009/571, art. 2
+[^F207]: Sch. 24 para. 2(3) substituted (1.4.2009) by Finance Act 2008 (c. 9), s. 122(2), Sch. 40 para. 4(3); S.I. 2009/571, art. 2
+[^F208]: Sch. 24 para. 2(4) inserted (21.7.2009) by Finance Act 2009 (c. 10), Sch. 57 para. 2
+[^F209]: Words in Sch. 24 para. 3(1) substituted (1.4.2009) by Finance Act 2008 (c. 9), s. 122(2), Sch. 40 para. 5(2)(a); S.I. 2009/571, art. 2
+[^F210]: Words in Sch. 24 para. 3(1) inserted (1.4.2009) by Finance Act 2008 (c. 9), s. 122(2), Sch. 40 para. 5(2)(b); S.I. 2009/571, art. 2
+[^F211]: Words in Sch. 24 para. 3(2) inserted (1.4.2009) by Finance Act 2008 (c. 9), s. 122(2), Sch. 40 para. 5(3); S.I. 2009/571, art. 2
+[^F212]: Sch. 24 para. 3(3) inserted (with effect in accordance with s. 161(2) of the amending Act) by Finance Act 2016 (c. 24), Sch. 19 para. 48
+[^F213]: Sch. 24 paras. 3A, 3B and cross-heading inserted (with effect in accordance with s. 64(5)(6) of the amending Act) by Finance (No. 2) Act 2017 (c. 32), s. 64(2)
+[^F214]: Sch. 24 para. 3C and cross-heading inserted (11.7.2023) by Finance (No. 2) Act 2023 (c. 30), Sch. 5 para. 5(2)
+[^F215]: Sch. 24 paras. 4-4D substituted for Sch. 24 para. 4 (6.4.2011) by Finance Act 2010 (c. 13), s. 35(2), Sch. 10 para. 2; S.I. 2011/975, art. 2(1) (with art. 3)
+[^F216]: Words in Sch. 24 para. 4A(2)(a) inserted (with effect in accordance with art. 3(2) of the commencing S.I.) by Finance Act 2015 (c. 11), s. 120(2), Sch. 20 para. 3(3)(a); S.I. 2016/456, art. 3(1)
+[^F217]: Words in Sch. 24 para. 4A(2)(c) substituted (with effect in accordance with art. 3(2) of the commencing S.I.) by Finance Act 2015 (c. 11), s. 120(2), Sch. 20 para. 3(3)(b); S.I. 2016/456, art. 3(1)
+[^F218]: Words in Sch. 24 para. 4A(3)(a) inserted (with effect in accordance with art. 3(2) of the commencing S.I.) by Finance Act 2015 (c. 11), s. 120(2), Sch. 20 para. 3(4)(a); S.I. 2016/456, art. 3(1)
+[^F219]: Words in Sch. 24 para. 4A(3)(c) substituted (with effect in accordance with art. 3(2) of the commencing S.I.) by Finance Act 2015 (c. 11), s. 120(2), Sch. 20 para. 3(4)(b); S.I. 2016/456, art. 3(1)
+[^F220]: Sch. 24 para. 4A(4A)(4B) inserted (with effect in accordance with art. 3(2) of the commencing S.I.) by Finance Act 2015 (c. 11), s. 120(2), Sch. 20 para. 3(5); S.I. 2016/456, art. 3(1)
+[^F221]: Words in Sch. 24 para. 4A(5) substituted (with effect in accordance with art. 3(2) of the commencing S.I.) by Finance Act 2015 (c. 11), s. 120(2), Sch. 20 para. 3(6); S.I. 2016/456, art. 3(1)
+[^F222]: Words in Sch. 24 para. 4A(6)(a) inserted (with effect in accordance with art. 3(2) of the commencing S.I.) by Finance Act 2015 (c. 11), s. 120(2), Sch. 20 para. 3(7); S.I. 2016/456, art. 3(1)
+[^F223]: Sch. 24 para. 4AA inserted (with effect in accordance with art. 3(2) of the commencing S.I.) by Finance Act 2015 (c. 11), s. 120(2), Sch. 20 para. 4; S.I. 2016/456, art. 3(1)
+[^F224]: Words in Sch. 24 para. 5(1) inserted (1.4.2009) by Finance Act 2008 (c. 9), s. 122(2), Sch. 40 para. 7; S.I. 2009/571, art. 2
+[^F225]: Sch. 24 para. 5(4)(za) inserted (with effect in accordance with Sch. 3 paras. 30-36 of the amending Act) by Finance (No. 2) Act 2023 (c. 30), Sch. 3 para. 26(2)
+[^F226]: Sch. 24 para. 5(4)(b) substituted (21.7.2009) by Finance Act 2009 (c. 10), Sch. 57 para. 3
+[^F227]: Words in Sch. 24 para. 5(4)(b) substituted (with effect in accordance with s. 1184(1) of the amending Act) by Corporation Tax Act 2010 (c. 4), s. 1184(1), Sch. 1 para. 575(a) (with Sch. 2)
+[^F228]: Words in Sch. 24 para. 5(4)(b) substituted (with effect in accordance with s. 1184(1) of the amending Act) by Corporation Tax Act 2010 (c. 4), s. 1184(1), Sch. 1 para. 575(b) (with Sch. 2)
+[^F229]: Sch. 24 para. 5(5)(6) inserted (with effect in accordance with Sch. 3 paras. 30-36 of the amending Act) by Finance (No. 2) Act 2023 (c. 30), Sch. 3 para. 26(3)
+[^F230]: Words in Sch. 24 para. 6(1) inserted (1.4.2009) by Finance Act 2008 (c. 9), s. 122(2), Sch. 40 para. 8(2); S.I. 2009/571, art. 2
+[^F231]: Words in Sch. 24 para. 6(2) inserted (1.4.2009) by Finance Act 2008 (c. 9), s. 122(2), Sch. 40 para. 8(2); S.I. 2009/571, art. 2
+[^F232]: Words in Sch. 24 para. 6(5) inserted (1.4.2009) by Finance Act 2008 (c. 9), s. 122(2), Sch. 40 para. 8(3); S.I. 2009/571, art. 2
+[^F233]: Sch. 24 paras. 9(A1)-(A3) substituted for Sch. 24 para. 9(A1) (with effect in accordance with reg. 2 of the commencing S.I.) by Finance Act 2016 (c. 24), s. 163(2), Sch. 21 para. 2(2); S.I. 2017/259, reg. 2
+[^F234]: Words in Sch. 24 para. 9(1) substituted (with effect in accordance with reg. 2 of the commencing S.I.) by Finance Act 2016 (c. 24), s. 163(2), Sch. 21 para. 2(3); S.I. 2017/259, reg. 2
+[^F235]: Words in Sch. 24 para. 9(1)(b) substituted (1.4.2009) by Finance Act 2008 (c. 9), s. 122(2), Sch. 40 para. 9(3)(b); S.I. 2009/571, art. 2
+[^F236]: Words in Sch. 24 para. 9(1)(b) substituted (21.7.2009) by Finance Act 2009 (c. 10), Sch. 57 para. 4
+[^F237]: Words in Sch. 24 para. 9(1)(c) substituted (1.4.2009) by Finance Act 2008 (c. 9), s. 122(2), Sch. 40 para. 9(3)(b); S.I. 2009/571, art. 2
+[^F238]: Words in Sch. 24 para. 9(1)(c) substituted (21.7.2009) by Finance Act 2009 (c. 10), Sch. 57 para. 4
+[^F239]: Sch. 24 para. 9(1A)-(1E) inserted (8.3.2017 for specified purposes and 1.4.2017 in so far as not already in force and with effect in accordance with reg. 2 of the commencing S.I.) by Finance Act 2016 (c. 24), s. 163(2), Sch. 21 para. 2(4); S.I. 2017/259, regs. 2, 3
+[^F240]: Words in Sch. 24 para. 9(2)(a) substituted (1.4.2009) by Finance Act 2008 (c. 9), s. 122(2), Sch. 40 para. 9(4); S.I. 2009/571, art. 2
+[^F241]: Sch. 24 para. 9(4) inserted (with effect in accordance with reg. 2 of the commencing S.I.) by Finance Act 2016 (c. 24), s. 163(2), Sch. 21 para. 2(5); S.I. 2017/259, reg. 2
+[^F242]: Sch. 24 para. 10 substituted (6.4.2011) by Finance Act 2010 (c. 13), s. 35(2), Sch. 10 para. 3; S.I. 2011/975, art. 2(1) (with art. 3)
+[^F243]: Sch. 24 para. 10(2) Table substituted (with effect in accordance with reg. 2 of the commencing S.I.) by Finance Act 2016 (c. 24), s. 163(2), Sch. 21 para. 3; S.I. 2017/259, reg. 2
+[^F244]: Sch. 24 para. 10A inserted (with effect in accordance with reg. 2 of the commencing S.I.) by Finance Act 2016 (c. 24), s. 163(2), Sch. 21 para. 4; S.I. 2017/259, reg. 2
+[^F245]: Word in Sch. 24 para. 11(1) inserted (1.4.2009) by Finance Act 2008 (c. 9), s. 122(2), Sch. 40 para. 10; S.I. 2009/571, art. 2
+[^F246]: Words in Sch. 24 para. 12 cross-heading inserted (1.4.2009) by Finance Act 2008 (c. 9), s. 122(2), Sch. 40 para. 11(4); S.I. 2009/571, art. 2
+[^F247]: Words in Sch. 24 para. 12(2) substituted (1.4.2009) by Finance Act 2008 (c. 9), s. 122(2), Sch. 40 para. 11(2); S.I. 2009/571, art. 2
+[^F248]: Sch. 24 para. 12(2A) inserted (17.7.2014) by Finance Act 2014 (c. 26), Sch. 33 para. 3
+[^F249]: Words in Sch. 24 para. 12(2A) inserted (with effect in accordance with reg. 2(b) of the commencing S.I.) by Finance Act 2016 (c. 24), s. 165(2), Sch. 22 para. 20(3); S.I. 2017/277, reg. 2(b)
+[^F250]: Sch. 24 para. 12(4)(5) substituted for Sch. 24 para. 12(4) (6.4.2011) by Finance Act 2010 (c. 13), s. 35(2), Sch. 10 para. 4; S.I. 2011/975, art. 2(1) (with art. 3)
+[^F251]: Words in Sch. 24 para. 13(1) substituted (1.4.2009) by Finance Act 2008 (c. 9), s. 122(2), Sch. 40 para. 12(2)(a); S.I. 2009/571, art. 2
+[^F252]: Word in Sch. 24 para. 13(1) inserted (1.4.2009) by Finance Act 2008 (c. 9), s. 122(2), Sch. 40 para. 12(2)(b); S.I. 2009/571, art. 2
+[^F253]: Words in Sch. 24 para. 13(1) substituted (1.4.2009) by Finance Act 2008 (c. 9), s. 122(2), Sch. 40 para. 12(2)(c); S.I. 2009/571, art. 2
+[^F254]: Words in Sch. 24 para. 13(1)(c) inserted (with effect in accordance with Sch. 50 para. 16(1) of the amending Act) by Finance Act 2013 (c. 29), Sch. 50 para. 1(2)
+[^F255]: Sch. 24 para. 13(1ZA)-(1ZD) inserted (with effect in accordance with Sch. 50 para. 16(1) of the amending Act) by Finance Act 2013 (c. 29), Sch. 50 para. 1(3)
+[^F256]: Words in Sch. 24 para. 13(1ZA) inserted (6.4.2017) by Finance Act 2016 (c. 24), s. 113(3)(a)(16) (with s. 117); S.I. 2017/355, reg. 2
+[^F257]: Words in Sch. 24 para. 13(1ZD) inserted (6.4.2017) by Finance Act 2016 (c. 24), s. 113(3)(b)(16) (with s. 117); S.I. 2017/355, reg. 2
+[^F258]: Sch. 24 para. 13(1A) inserted (1.4.2009) by Finance Act 2008 (c. 9), s. 122(2), Sch. 40 para. 12(3); S.I. 2009/571, art. 2
+[^F259]: Words in Sch. 24 para. 13(3) inserted (1.4.2009) by Finance Act 2008 (c. 9), s. 122(2), Sch. 40 para. 12(4)(a); S.I. 2009/571, art. 2
+[^F260]: Words in Sch. 24 para. 13(3) substituted (1.4.2009) by Finance Act 2008 (c. 9), s. 122(2), Sch. 40 para. 12(4)(b); S.I. 2009/571, art. 2
+[^F261]: Words in Sch. 24 para. 13(3) inserted (1.4.2009) by Finance Act 2008 (c. 9), s. 122(2), Sch. 40 para. 12(4)(c); S.I. 2009/571, art. 2
+[^F262]: Words in Sch. 24 para. 13(4) substituted (1.4.2009) by Finance Act 2008 (c. 9), s. 122(2), Sch. 40 para. 12(5); S.I. 2009/571, art. 2
+[^F263]: Sch. 24 para. 13(7) inserted (21.7.2009) by Finance Act 2009 (c. 10), Sch. 57 para. 5
+[^F264]: Words in Sch. 24 para. 15 substituted (1.4.2009) by Finance Act 2008 (c. 9), s. 122(2), Sch. 40 para. 13(a); S.I. 2009/571, art. 2
+[^F265]: Words in Sch. 24 para. 15 substituted (1.4.2009) by Finance Act 2008 (c. 9), s. 122(2), Sch. 40 para. 13(b); S.I. 2009/571, art. 2
+[^F266]: Sch. 24 para. 16 substituted (1.4.2009) by The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56), art. 1(2), Sch. 1 para. 466
+[^F267]: Sch. 24 para. 16(2) substituted (21.7.2009) by Finance Act 2009 (c. 10), Sch. 57 para. 6
+[^F268]: Word in Sch. 24 para. 17(1) omitted (1.4.2009) by virtue of The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56), art. 1(2), Sch. 1 para. 467(2)
+[^F269]: Word in Sch. 24 para. 17(2) omitted (1.4.2009) by virtue of The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56), art. 1(2), Sch. 1 para. 467(2)
+[^F270]: Word in Sch. 24 para. 17(3) omitted (1.4.2009) by virtue of The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56), art. 1(2), Sch. 1 para. 467(2)
+[^F271]: Word in Sch. 24 para. 17(4)(a) omitted (1.4.2009) by virtue of The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56), art. 1(2), Sch. 1 para. 467(3)(a)
+[^F272]: Word in Sch. 24 para. 17(4)(b) omitted (1.4.2009) by virtue of The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56), art. 1(2), Sch. 1 para. 467(3)(b)(i)
+[^F273]: Words in Sch. 24 para. 17(4)(b)(i) omitted (1.4.2009) by virtue of The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56), art. 1(2), Sch. 1 para. 467(3)(b)(ii)
+[^F274]: Word in Sch. 24 para. 17(4)(b)(ii) omitted (1.4.2009) by virtue of The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56), art. 1(2), Sch. 1 para. 467(3)(b)(iii)
+[^F275]: Word in Sch. 24 para. 17(5) omitted (1.4.2009) by virtue of The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56), art. 1(2), Sch. 1 para. 467(4)
+[^F276]: Sch. 24 para. 17(5A) inserted (1.4.2009) by The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56), art. 1(2), Sch. 1 para. 467(5)
+[^F277]: Words in Sch. 24 para. 18(3) inserted (1.4.2009) by Finance Act 2008 (c. 9), s. 122(2), Sch. 40 para. 15; S.I. 2009/571, art. 2
+[^F278]: Sch. 24 para. 18(6) inserted (with effect in accordance with s. 64(5)(6) of the amending Act) by Finance (No. 2) Act 2017 (c. 32), s. 64(3)
+[^F279]: Words in Sch. 24 para. 18(6) substituted (11.7.2023) by Finance (No. 2) Act 2023 (c. 30), Sch. 5 para. 5(3)(a)
+[^F280]: Words in Sch. 24 para. 18(6) substituted (11.7.2023) by Finance (No. 2) Act 2023 (c. 30), Sch. 5 para. 5(3)(b)
+[^F281]: Words in Sch. 24 para. 19(1) substituted (1.4.2009) by Finance Act 2008 (c. 9), s. 122(2), Sch. 40 para. 16(2); S.I. 2009/571, art. 2
+[^F282]: Words in Sch. 24 para. 19(3) inserted (21.7.2009) by Finance Act 2009 (c. 10), Sch. 57 para. 7(2)(a)
+[^F283]: Word in Sch. 24 para. 19(3)(a) omitted (21.7.2009) by virtue of Finance Act 2009 (c. 10), Sch. 57 para. 7(2)(b)
+[^F284]: Sch. 24 para. 19(3)(aa) inserted (21.7.2009) by Finance Act 2009 (c. 10), Sch. 57 para. 7(2)(c)
+[^F285]: Sch. 24 para. 19(3A) inserted (21.7.2009) by Finance Act 2009 (c. 10), Sch. 57 para. 7(3)
+[^F286]: Sch. 24 para. 19(5) substituted (1.4.2009) by Finance Act 2008 (c. 9), s. 122(2), Sch. 40 para. 16(3); S.I. 2009/571, art. 2
+[^F287]: Sch. 24 para. 19(6) inserted (21.7.2009) by Finance Act 2009 (c. 10), Sch. 57 para. 7(4)
+[^F288]: Words in Sch. 24 para. 21 substituted (1.4.2009) by Finance Act 2008 (c. 9), s. 122(2), Sch. 40 para. 17(a); S.I. 2009/571, art. 2
+[^F289]: Word in Sch. 24 para. 21 inserted (1.4.2009) by Finance Act 2008 (c. 9), s. 122(2), Sch. 40 para. 17(b); S.I. 2009/571, art. 2
+[^F290]: Words in Sch. 24 para. 21 substituted (1.4.2009) by Finance Act 2008 (c. 9), s. 122(2), Sch. 40 para. 17(c); S.I. 2009/571, art. 2
+[^F291]: Sch. 24 para. 21ZA inserted (16.11.2017) by Finance (No. 2) Act 2017 (c. 32), s. 68(6)
+[^F292]: Sch. 24 paras. 21A, 21B and cross-headings inserted (6.4.2011) by Finance Act 2010 (c. 13), s. 35(2), Sch. 10 para. 5; S.I. 2011/975, art. 2(1) (with art. 3)
+[^F293]: Word in Sch. 24 para. 21A(4)(b) omitted (17.7.2012) by virtue of Finance Act 2012 (c. 14), s. 219(a)
+[^F294]: Sch. 24 para. 21A(4)(d)(e) inserted (17.7.2012) by Finance Act 2012 (c. 14), s. 219(b)
+[^F295]: Sch. 24 para. 21B(1A) inserted (with effect in accordance with art. 3(2) of the commencing S.I.) by Finance Act 2015 (c. 11), s. 120(2), Sch. 20 para. 8(2); S.I. 2016/456, art. 3(1)
+[^F296]: Words in Sch. 24 para. 21B(2) substituted (with effect in accordance with art. 3(2) of the commencing S.I.) by Finance Act 2015 (c. 11), s. 120(2), Sch. 20 para. 8(3); S.I. 2016/456, art. 3(1)
+[^F297]: Sch. 24 para. 21C and cross-heading inserted (with effect in accordance with Sch. 7 para. 60 of the amending Act) by Finance Act 2015 (c. 11), Sch. 7 para. 56(3)
+[^F298]: Words in Sch. 24 para. 21C substituted (with effect in accordance with Sch. 2 para. 32(1) of the amending Act) by Finance Act 2019 (c. 1), Sch. 2 para. 27(3)
+[^F299]: Words in Sch. 24 para. 21C inserted (6.4.2017) by Finance Act 2016 (c. 24), s. 113(4)(16) (with s. 117); S.I. 2017/355, reg. 2
+[^F300]: Word in Sch. 24 para. 22 substituted (1.4.2009) by Finance Act 2008 (c. 9), s. 122(2), Sch. 40 para. 18; S.I. 2009/571, art. 2
+[^F301]: Sch. 24 para. 23A inserted (1.4.2009) by Finance Act 2008 (c. 9), s. 122(2), Sch. 40 para. 19; S.I. 2009/571, art. 2
+[^F302]: Sch. 24 para. 23B inserted (6.4.2011) by Finance Act 2010 (c. 13), s. 35(2), Sch. 10 para. 6; S.I. 2011/975, art. 2(1) (with art. 3)
+[^F303]: Word in Sch. 24 para. 28(c) omitted (1.4.2009) by virtue of Finance Act 2008 (c. 9), s. 122(2), Sch. 40 para. 20(2); S.I. 2009/571, art. 2
+[^F304]: Sch. 24 para. 28(c)(iv) and preceding word inserted (1.4.2009) by Finance Act 2008 (c. 9), s. 122(2), Sch. 40 para. 20(2); S.I. 2009/571, art. 2
+[^F305]: Sch. 24 para. 28(da) omitted (21.7.2009) by virtue of Finance Act 2009 (c. 10), Sch. 57 para. 8
+[^F306]: Words in Sch. 24 para. 28(f) inserted (1.4.2009) by Finance Act 2008 (c. 9), s. 122(2), Sch. 40 para. 20(4); S.I. 2009/571, art. 2
+[^F307]: Sch. 24 para. 28(fa) inserted (1.4.2009) by Finance Act 2008 (c. 9), s. 122(2), Sch. 40 para. 20(5); S.I. 2009/571, art. 2
+[^F308]: Words in Sch. 24 para. 28(fa)(i) substituted (with effect in accordance with s. 1329(1) of the amending Act) by Corporation Tax Act 2009 (c. 4), s. 1329(1), Sch. 1 para. 727(a) (with Sch. 2 Pts. 1, 2)
+[^F309]: Sch. 24 para. 28(fa)(ia) inserted (with effect in accordance with Sch. 15 para. 27 of the amending Act) by Finance Act 2013 (c. 29), Sch. 15 para. 8
+[^F310]: Words in Sch. 24 para. 28(fa)(ia) substituted (with effect in relation to accounting periods beginning on or after 1.4.2024) by Finance Act 2024 (c. 3), Sch. 1 paras. 11, 16; S.I. 2024/286, reg. 2
+[^F311]: Words in Sch. 24 para. 28(fa)(ii) substituted (with effect in accordance with s. 1329(1) of the amending Act) by Corporation Tax Act 2009 (c. 4), s. 1329(1), Sch. 1 para. 727(b) (with Sch. 2 Pts. 1, 2)
+[^F312]: Sch. 24 para. 28(fa)(iii) omitted (with effect in accordance with s. 1329(1) of the amending Act) by virtue of Corporation Tax Act 2009 (c. 4), s. 1329(1), Sch. 1 para. 727(c) (with Sch. 2 Pts. 1, 2)
+[^F313]: Sch. 24 para. 28(fa)(iiia) inserted (22.2.2024) by Finance Act 2024 (c. 3), Sch. 2 para. 4 (with Sch. 2 paras. 16(1), 17-25)
+[^F314]: Words in Sch. 24 para. 28(fa)(iv) substituted (with effect in accordance with s. 1329(1) of the amending Act) by Corporation Tax Act 2009 (c. 4), s. 1329(1), Sch. 1 para. 727(d) (with Sch. 2 Pts. 1, 2)
+[^F315]: Word in Sch. 24 para. 28(fa)(iv) omitted (with effect in accordance with Sch. 18 para. 23 of the amending Act) by virtue of Finance Act 2013 (c. 29), Sch. 18 paras. 7, 22; S.I. 2013/1817, art. 2(2); S.I. 2014/1962, art. 2(3)
+[^F316]: Sch. 24 para. 28(fa)(iva)(ivb) inserted (with effect in accordance with Sch. 18 para. 23 of the amending Act) by Finance Act 2013 (c. 29), Sch. 18 paras. 7, 22; S.I. 2013/1817, art. 2(2); S.I. 2014/1962, art. 2(3)
+[^F317]: Word in Sch. 24 para. 28(fa)(ivb) omitted (with effect in accordance with Sch. 4 para. 17 of the amending Act) by virtue of Finance Act 2014 (c. 26), Sch. 4 paras. 8, 16; S.I. 2014/2228, art. 2
+[^F318]: Sch. 24 para. 28(fa)(ivc) inserted (with effect in accordance with Sch. 4 para. 17 of the amending Act) by Finance Act 2014 (c. 26), Sch. 4 paras. 8, 16; S.I. 2014/2228, art. 2
+[^F319]: Word in Sch. 24 para. 28(fa)(ivc) omitted (with effect in accordance with Sch. 8 para. 17(1)(a) of the amending Act) by virtue of Finance Act 2016 (c. 24), Sch. 8 para. 8
+[^F320]: Sch. 24 para. 28(fa)(ivd) inserted (with effect in accordance with Sch. 8 para. 17(1)(a) of the amending Act) by Finance Act 2016 (c. 24), Sch. 8 para. 8
+[^F321]: Word in Sch. 24 para. 28(fa)(ivd) omitted (for specified purposes and with effect in accordance with Sch. 6 paras. 20, 21(1)(b) of the amending Act) by virtue of Finance (No. 2) Act 2017 (c. 32), Sch. 6 para. 8
+[^F322]: Sch. 24 para. 28(fa)(ive) inserted (for specified purposes and with effect in accordance with Sch. 6 paras. 20, 21(1)(b) of the amending Act) by Finance (No. 2) Act 2017 (c. 32), Sch. 6 para. 8
+[^F323]: Words in Sch. 24 para. 30 substituted (21.7.2009) by Finance Act 2009 (c. 10), Sch. 57 para. 9
+[^F324]: Words in Sch. 24 para. 31 substituted (21.7.2009) by Finance Act 2009 (c. 10), Sch. 57 para. 9
+[^F325]: Sch. 25 para. 1 repealed (with effect in accordance with s. 1184(1) of the amending Act) by Corporation Tax Act 2010 (c. 4), s. 1184(1), Sch. 3 Pt. 1 (with Sch. 2)
+[^F326]: Sch. 25 para. 9 and cross-heading omitted (1.4.2026) by virtue of Finance Act 2026 (c. 11), s. 88(3), Sch. 13 para. 11(b) (with Sch. 13 para. 21)
+[^F327]: Sch. 25 para. 17(4) omitted (retrospective to 27.4.2009) by virtue of Finance Act 2009 (c. 10), s. 114(16)(b)(17) (with s. 114(18))
+[^F328]: Sch. 26 para. 2 repealed (with effect in accordance with s. 1184(1) of the amending Act) by Corporation Tax Act 2010 (c. 4), s. 1184(1), Sch. 3 Pt. 1 (with Sch. 2)
+[^F329]: Sch. 26 para. 7(2) repealed (with effect in accordance with s. 1184(1) of the amending Act) by Corporation Tax Act 2010 (c. 4), s. 1184(1), Sch. 3 Pt. 1 (with Sch. 2)
+[^F330]: Sch. 26 para. 7(4)-(9) repealed (with effect in accordance with s. 1184(1) of the amending Act) by Corporation Tax Act 2010 (c. 4), s. 1184(1), Sch. 3 Pt. 1 (with Sch. 2)
+[^F331]: Sch. 26 para. 12(11) omitted (with effect in accordance with Sch. 12 para. 15(1) of the amending Act) by virtue of Finance Act 2010 (c. 13), Sch. 12 para. 13

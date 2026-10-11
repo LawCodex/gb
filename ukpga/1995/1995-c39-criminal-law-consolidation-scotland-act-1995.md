@@ -1,0 +1,1903 @@
+---
+title: "Criminal Law (Consolidation) (Scotland) Act 1995"
+identifier: "ukpga/1995/39"
+citation: "1995 c. 39"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S+N.I."
+date: 1995-11-08
+last_amended: 2024-08-28
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/1995/39"
+source_modified: 2024-09-04
+retrieved: 2026-10-11
+---
+
+# Criminal Law (Consolidation) (Scotland) Act 1995
+
+**1995 c. 39**
+
+An Act to consolidate for Scotland certain enactments creating offences and relating to criminal law there.
+
+[8th November 1995]
+
+BE IT ENACTED by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## Part I — SEXUAL OFFENCES
+
+### Incest and related offences
+
+#### 1 Incest.
+
+(1) Any male person who has sexual intercourse with a person related to him in a degree specified in column 1 of the Table set out at the end of this subsection, or any female person who has sexual intercourse with a person related to her in a degree specified in column 2 of that Table, shall be guilty of incest, unless the accused proves that he or she—
+
+(a) did not know and had no reason to suspect that the person with whom he or she had sexual intercourse was related in a degree so specified; or
+
+(b) did not consent to have sexual intercourse, or to have sexual intercourse with that person; or
+
+(c) was married to that person, at the time when the sexual intercourse took place, by a marriage entered into outside Scotland and recognised as valid by Scots law.
+
+<table>
+<tbody>
+<tr><th>Column 1</th><th>Column 2</th></tr>
+<tr><th colspan="2">1. Relationships by consanguinity</th></tr>
+<tr><td>Mother</td><td>Father</td></tr>
+<tr><td>Daughter</td><td>Son</td></tr>
+<tr><td>Grandmother</td><td>Grandfather</td></tr>
+<tr><td>Grand-daughter</td><td>Grandson</td></tr>
+<tr><td>Sister</td><td>Brother</td></tr>
+<tr><td>Aunt</td><td>Uncle</td></tr>
+<tr><td>Niece</td><td>Nephew</td></tr>
+<tr><td>Great grandmother</td><td>Great grandfather</td></tr>
+<tr><td>Great grand-daughter</td><td>Great grandson</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr><th colspan="2">2. Relationships by adoption</th></tr>
+<tr><td>Adoptive mother or former adoptive mother.</td><td>Adoptive father or former adoptive father.</td></tr>
+<tr><td>Adopted daughter or former adopted daughter.</td><td>Adopted son or former adopted son.</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr><th colspan="2"><b><i>[[^F1]3. Relationships by virtue of Part 2 of the Human Fertilisation and Embryology Act 2008</b></i></th></tr>
+<tr><td>Mother</td><td>Father</td></tr>
+<tr><td>Daughter</td><td>Son</td></tr>
+<tr><td>Second female parent by virtue of section 42 or 43 of that Act]</td><td></td></tr>
+</tbody>
+</table>
+
+(2) For the purpose of this section, a degree of relationship exists in the case of a degree specified in paragraph 1 of the Table—
+
+(a) whether it is of the full blood or the half blood; and
+
+(b) even where traced through or to any person whose parents are not or have not been married to one another.
+
+(3) For the avoidance of doubt sexual intercourse between persons who are not related to each other in a degree referred to in subsection (1) above is not incest.
+
+#### 2 Intercourse with step-child.
+
+Any step-parent or former step-parent who has sexual intercourse with his or her step-child or former step-child shall be guilty of an offence if that step-child is either under the age of 21 years or has at any time before attaining the age of 18 years lived in the same household and been treated as a child of his or her family, unless the accused proves that he or she—
+
+(a) did not know and had no reason to suspect that the person with whom he or she had sexual intercourse was a step-child or former step-child; or
+
+(b) believed on reasonable grounds that that person was of or over the age of 21 years; or
+
+(c) did not consent to have sexual intercourse, or to have sexual intercourse with that person; or
+
+(d) was married to that person, at the time when the sexual intercourse took place, by a marriage entered into outside Scotland and recognised as valid by Scots law.
+
+#### 3 Intercourse of person in position of trust with child under 16.
+
+[^F2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 4 Proceedings and penalties for offences under sections 1 [[^F3]and 2].
+
+(1) Proceedings in respect of an offence under section 1 [[^F4]or 2] of this Act may be brought on indictment or, if the Lord Advocate so directs, on a summary complaint before the sheriff.
+
+(2) Summary proceedings in pursuance of this section may be commenced at any time within the period of 6 months from the date on which evidence sufficient in the opinion of the Lord Advocate to justify the proceedings comes to his knowledge.
+
+(3) Subsection (3) of section 136 of the [^M1]Criminal Procedure (Scotland) Act 1995 (date of commencement of summary proceedings) shall have effect for the purposes of subsection (2) above as it has effect for the purposes of that section.
+
+(4) For the purposes of subsection (2) above, a certificate of the Lord Advocate as to the date on which the evidence in question came to his knowledge is conclusive evidence of the date on which it did so.
+
+(5) Subject to subsection (6) below, a person guilty of an offence under section 1 [[^F4]or 2] of this Act shall be liable—
+
+(a) on conviction on indictment, to imprisonment for any term of imprisonment up to and including life imprisonment; and
+
+(b) on summary conviction, to imprisonment for a term not exceeding 3 months.
+
+(6) Before passing sentence on a person convicted of any such offence, the court shall—
+
+(a) obtain information about that person’s circumstances from an officer of a local authority or otherwise and consider that information; and
+
+(b) take into account any information before it which is relevant to his character and to his physical and mental condition.
+
+(7) In subsection (6) above, “local authority” has the meaning assigned to it by section 1(2) of the [^M2]Social Work (Scotland) Act 1968.
+
+### Offences against children
+
+#### 5 Intercourse with girl under 16.
+
+[^F5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 6 Indecent behaviour towards girl between 12 and 16.
+
+[^F6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Procuring, prostitution etc.
+
+#### 7 Procuring.
+
+(1) Any person who procures or attempts to procure—
+
+(a) any woman under 21 years of age or girl to have unlawful sexual intercourse with any other person or persons in any part of the world; or
+
+(b) any woman or girl to become a common prostitute in any part of the world; or
+
+(c) any woman or girl to leave the United Kingdom, with intent that she may become an inmate of or frequent a brothel elsewhere; or
+
+(d) any woman or girl to leave her usual place of abode in the United Kingdom, with intent that she may, for the purposes of prostitution, become an inmate of or frequent a brothel in any part of the world,
+
+shall be liable on conviction on indictment to imprisonment for a term not exceeding two years or on summary conviction to imprisonment for a term not exceeding three months.
+
+(2) [^F7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) [^F7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F8]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 8 Abduction and unlawful detention.
+
+(1) [^F9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) [^F9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) Any person who detains any woman or girl against her will—
+
+(a) in or upon any premises with intent that she may have unlawful sexual intercourse with men or with a particular man; or
+
+(b) in any brothel,
+
+shall be liable on conviction on indictment to imprisonment for a term not exceeding two years or on summary conviction to imprisonment for a term not exceeding three months.
+
+(4) Where a woman or girl is in or upon any premises for the purpose of having unlawful sexual intercourse, or is in a brothel, a person shall be deemed to detain such woman or girl in or upon such premises or brothel if, with intent to compel or induce her to remain in or upon the premises or brothel, he withholds from her any wearing apparel or other property belonging to her or, where wearing apparel has been lent or otherwise supplied to the woman or girl by or by the direction of such person, he threatens the woman or girl with legal proceedings if she takes away with her the wearing apparel so lent or supplied.
+
+(5) No legal proceedings, whether civil or criminal, shall be taken against a woman or girl mentioned in subsection (4) above for taking away or being found in possession of any such wearing apparel as was necessary to enable her to leave such premises or brothel mentioned in that subsection.
+
+#### 9 Permitting girl to use premises for intercourse.
+
+(1) Any person who, being the owner or occupier of any premises, or having, or acting or assisting in, the management or control of any premises, induces or knowingly suffers any girl of such age as is mentioned in this subsection to resort to or be in or upon such premises for the purpose of having unlawful sexual intercourse with men or with a particular man—
+
+(a) if such girl is under the age of 13 years, shall be liable on conviction on indictment to imprisonment for life; and
+
+(b) if such girl is of or over the age of 13 years and under the age of 16 years, shall be liable on conviction on indictment to imprisonment for a term not exceeding two years or on summary conviction to imprisonment for a term not exceeding three months.
+
+(2) It shall be a defence to a charge [[^F10]in proceedings] under this section that the person so charged [^F11]. . . had reasonable cause to believe that the girl was of or over the age of 16 years.
+
+[[^F12](2A) But the defence under subsection (2) is not available to the person so charged if—
+
+(a) that person has previously been charged by the police with a relevant sexual offence;[^F13]. . .
+
+[[^F14](aa) that person has a previous conviction for a relevant foreign offence committed against a person under the age of 16 [[^F15]and the court considers it appropriate for the conviction to have that effect]; or]
+
+(b) there is in force in respect of that person a risk of sexual harm order.]
+
+(3) In subsection [[^F16](2A) above—
+
+(a) “a relevant sexual offence” has the same meaning as in section 39(5)(a) of the Sexual Offences (Scotland) Act 2009 (asp 9); [^F17]. . .
+
+[[^F18](aa) “a previous conviction for a relevant foreign offence” has the same meaning as in section 39(5)(aa) of that Act; and]
+
+(b) “a risk of sexual harm order” has the same meaning as in section 39(5)(b) of that Act.]
+
+#### 10 Seduction, prostitution, etc., of girl under 16.
+
+(1) If any person having parental responsibilities (within the meaning of section 1(3) of the [^M3]Children (Scotland) Act 1995), in relation to, or having charge or care of a girl under the age of 16 years causes or encourages—
+
+(a) the seduction or prostitution of;
+
+(b) unlawful sexual intercourse with; or
+
+(c) the commission of an indecent assault upon,
+
+her he shall be liable on conviction on indictment to imprisonment for a term not exceeding two years or on summary conviction to imprisonment for a term not exceeding three months.
+
+(2) For the purposes of this section, a person shall be deemed to have caused or encouraged the matters mentioned in paragraphs (a) to (c) of subsection (1) above upon a girl who has been seduced or indecently assaulted, or who has had unlawful sexual intercourse or who has become a prostitute, if he has knowingly allowed her to consort with, or to enter or continue in the employment of, any prostitute or person of known immoral character.
+
+(3) Subsections (1) and (2) above shall apply to a contravention of [[^F19]sections 19 to 26 and 29 to 36 of the Sexual Offences (Scotland) Act 2009 (asp 9) (certain sexual offences relating to children)] in like manner as they apply to an indecent assault, and any reference to the commission of such an assault or to being indecently assaulted shall be construed accordingly.
+
+(4) Where on the trial of any offence under this Part of this Act it is proved to the satisfaction of the court that the seduction or prostitution of a girl under the age of 16 years has been caused, encouraged or favoured by her father, mother or guardian it shall be in the power of the court to divest such person of all authority over her, and to appoint any person or persons willing to take charge of such girl to be her guardian until she has attained the age of 21 years, or such lower age as the court may direct.
+
+(5) The High Court of Justiciary shall have the power from time to time to rescind or vary an order under subsection (4) above by the appointment of any other person or persons as such guardian, or in any other respect.
+
+#### 11 Trading in prostitution and brothel-keeping.
+
+(1) Every male person who—
+
+(a) knowingly lives wholly or in part on the earnings of prostitution; or
+
+(b) in any public place persistently solicits or importunes for immoral purposes,
+
+shall be [[^F20]guilty of an offence and liable to the penalties set out in subsection (1A)].
+
+[[^F21](1A) A person—
+
+(a) guilty of the offence set out in subsection (1)(a) is liable—
+
+(i) on conviction on indictment, to imprisonment for a term not exceeding seven years, to a fine, or to both,
+
+(ii) on summary conviction, to imprisonment for a term not exceeding 12 months, to a fine not exceeding the statutory maximum, or to both,
+
+(b) guilty of the offence set out in subsection (1)(b) is liable—
+
+(i) on conviction on indictment, to imprisonment for a term not exceeding two years,
+
+(ii) on summary conviction, to imprisonment for a term not exceeding 12 months.]
+
+(2) If it is made to appear to a court of summary jurisdiction by information on oath that there is reason to suspect that any house or any part of a house is used by a female for purposes of prostitution, and that any male person residing in or frequenting the house is living wholly or in part on the earnings of the prostitute, the court may issue a warrant authorising a constable to enter and search the house and to arrest that male person.
+
+(3) Where a male person is proved to live with or to be habitually in the company of a prostitute, or is proved to have exercised control, direction or influence over the movements of a prostitute in such a manner as to show that he is aiding, abetting or compelling her prostitution with any other person, or generally, he shall, unless he can satisfy the court to the contrary, be deemed to be knowingly living on the earnings of prostitution.
+
+(4) Every female who is proved to have, for the purposes of gain, exercised control, direction or influence over the movements of a prostitute in such a manner as to show that she is aiding, abetting or compelling her prostitution with any other person, or generally, shall be liable to the penalties set out in [[^F22]subsection (1A)(a)] above.
+
+(5) Any person who—
+
+(a) keeps or manages or acts or assists in the management of a brothel; or
+
+(b) being the tenant, lessee, occupier or person in charge of any premises, knowingly permits such premises or any part thereof to be used as a brothel or for the purposes of habitual prostitution; or
+
+(c) being the lessor or landlord of any premises, or the agent of such lessor or landlord, lets the same or any part thereof with the knowledge that such premises or some part thereof are or is to be used as a brothel, or is wilfully a party to the continued use of such premises or any part thereof as a brothel,
+
+shall be guilty of an offence.
+
+[[^F23](6) A person guilty of an offence under subsection (5) is liable—
+
+(a) on conviction on indictment, to imprisonment for a term not exceeding seven years, to a fine, or to both,
+
+(b) on summary conviction, to imprisonment for a term not exceeding 12 months, to a fine not exceeding the statutory maximum, or to both.]
+
+#### 12 Allowing child to be in brothel.
+
+(1) If any person having parental responsibilities (within the meaning of section 1(3) of the [^M4]Children (Scotland) Act 1995), in relation to, or having charge or care of a child who has attained the age of four years and is under the age of 16 years, allows that child to reside in or to frequent a brothel, he shall be liable on conviction on indictment, or on summary conviction, to a fine not exceeding level 2 on the standard scale or alternatively, or in default of payment of such a fine, or in addition thereto, to imprisonment for a term not exceeding six months.
+
+(2) Nothing in this section shall affect the liability of a person to be indicted under section 9 of this Act, but upon the trial of a person under that section it shall be lawful for the jury, if they are satisfied that he is guilty of an offence under this section, to find him guilty of that offence.
+
+#### 12A [[^F24]Sections 11(5) and 12: further provision
+
+(1) Premises shall be treated for the purposes of sections 11(5) and 12 of this Act as a brothel if people resort to them for the purposes of homosexual acts in circumstances in which resort to them for heterosexual practices would have led to the premises being treated as a brothel for the purposes of those sections.
+
+(2) For the purposes of this section, a homosexual act is an act of engaging in sexual activity by one male person with another male person; and an activity is sexual in any case if a reasonable person would, in all the circumstances of the case, consider it to be sexual.]
+
+### [[^F25]Living on earnings of another from male prostitution]
+
+#### 13 [[^F26]Living on earnings of another from male prostitution]
+
+(1) [^F27]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) [^F27]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) [^F28]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) [^F27]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) [^F27]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6) [^F27]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7) [^F27]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(8) [^F27]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(8A) [^F27]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(9) A person who knowingly lives wholly or in part on the earnings of another from male prostitution [^F29]. . . shall be liable—
+
+[[^F30](a) on conviction on indictment, to imprisonment for a term not exceeding seven years, to a fine, or to both,
+
+(b) on summary conviction, to imprisonment for a term not exceeding 12 months, to a fine not exceeding the statutory maximum, or to both.]
+
+(10) [^F31]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(11) [^F31]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Miscellaneous
+
+#### 14 Power, on indictment for rape, etc., to convict of other offences.
+
+[^F32]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 15 Defence to charge of indecent assault.
+
+[^F33]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F34]16 Power of search.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 16A Conspiracy or incitement to commit certain sexual acts outside the United Kingdom.
+
+[^F35]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 16B Commission of certain sexual acts outside the United Kingdom.
+
+[^F36]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 17 Liability to other criminal proceedings.
+
+This Part of this Act shall not exempt any person from any proceedings for an offence which is punishable at common law, or under any enactment other than this Part, but nothing in this Part of this Act shall enable a person to be punished twice for the same offence.
+
+## Part II — SPORTING EVENTS: CONTROL OF ALCOHOL ETC.
+
+### 18 Designation of sports grounds and sporting events.
+
+(1) Subject to subsection (2) below, the Secretary of State may for the purposes of this Part of this Act by order designate—
+
+(a) a sports ground or a class of sports ground;
+
+(b) a sporting event, or a class of sporting event, at that ground or at any of that class of ground;
+
+(c) a sporting event, or a class of sporting event, taking place outside Great Britain.
+
+(2) An order under this section shall not apply to a sporting event at which all the participants take part without financial or material reward and to which all spectators are admitted free of charge; but this subsection is without prejudice to the order’s validity as respects any other sporting event.
+
+(3) The power to make an order under subsection (1) above shall be exercisable by statutory instrument which shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+### 19 Alcohol on vehicles.
+
+(1) Where a public service vehicle or [[^F37]railway vehicle] is being operated for the principal purpose of conveying passengers for the whole or part of a journey to or from a designated sporting event, then—
+
+(a) any person in possession of alcohol on the vehicle shall be guilty of an offence and liable on summary conviction to imprisonment for a period not exceeding 60 days or a fine not exceeding level 3 on the standard scale or both;
+
+(b) if alcohol is being carried on the vehicle and the vehicle is on hire to a person, he shall, subject to subsection (7) below, be guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale; and
+
+(c) any person who is drunk on the vehicle shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 2 on the standard scale.
+
+(2) [^F38]. . . Subject to subsection (7) below, if the operator of a public service vehicle which is being operated as mentioned in subsection (1) above, either by himself or by his employee or agent permits alcohol to be carried on the vehicle, the operator and, as the case may be, the employee or agent shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+(3) This subsection applies to a motor vehicle which is not a public service vehicle but which is adapted to carry more than 8 passengers and is being operated for the [[^F39]principal] purpose of conveying two or more passengers for the whole or part of a journey to or from a designated sporting event.
+
+(4) Any person in possession of alcohol on a vehicle to which subsection (3) above applies shall be guilty of an offence and liable on summary conviction to imprisonment for a period not exceeding 60 days or a fine not exceeding level 3 on the standard scale or both.
+
+(5) Any person who is drunk on a vehicle to which subsection (3) above applies shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 2 on the standard scale.
+
+(6) Any person who permits alcohol to be carried on a vehicle to which subsection (3) above applies and—
+
+(a) is the driver of the vehicle; or
+
+(b) where he is not its driver, is the keeper of the vehicle, the employee or agent of the keeper, a person to whom it is made available (by hire, loan or otherwise) by the keeper or the keeper’s employee or agent, or the employee or agent of a person to whom it is so made available,
+
+shall, subject to subsection (7) below, be guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+(7) Where a person is charged with an offence under subsection (1)(b), (2) or (6) above, it shall be a defence for him to prove that the alcohol was carried on the vehicle without his consent or connivance and that he did all he reasonably could to prevent such carriage.
+
+### 20 Sporting events: controls.
+
+(1) Any person who—
+
+(a) is in possession of a controlled container in; or
+
+(b) while in possession of a controlled container, attempts to enter,
+
+the relevant area of a designated sports ground at any time during the period of a designated sporting event shall be guilty of an offence and liable on summary conviction to imprisonment for a period not exceeding 60 days or to a fine not exceeding level 3 on the standard scale or both.
+
+(2) Any person who—
+
+(a) is in possession of alcohol in; or
+
+(b) while in possession of alcohol, attempts to enter,
+
+the relevant area of a designated sports ground at any time during the period of a designated sporting event, shall be guilty of an offence and liable on summary conviction to imprisonment for a period not exceeding 60 days or to a fine not exceeding level 3 on the standard scale or both.
+
+[^F40]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F41]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F42]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F43]6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7) Any person who—
+
+(a) is drunk in; or
+
+(b) while drunk, attempts to enter,
+
+the relevant area of a designated sports ground at any time during the period of a designated sporting event shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 2 on the standard scale.
+
+(8) In this section—
+
+- [^F44]...
+- “controlled container” means any bottle, can or other portable container, whether open or sealed, which is, or was, in its original manufactured state, capable of containing liquid and is made from such material or is of such construction, or is so adapted, that if it were thrown at or propelled against a person it would be capable of causing some injury to that person; but the term does not include a container holding a medicinal product [[^F45]or veterinary medicinal product] for a medicinal purpose.
+- “medicinal product”and “medicinal purpose” have the meanings assigned to those terms by section 130 of the [^M5]Medicines Act 1968.
+- [[^F46]“veterinary medicinal product” has the meaning assigned to that term by regulation 2 of the Veterinary Medicines Regulations 2006.]
+
+### 21 Police powers of enforcement.
+
+For the purpose of enforcing the provisions of this Part of this Act, a constable shall have the power without warrant—
+
+(a) to enter a designated sports ground at any time during the period of a designated sporting event;
+
+(b) to search a person who he has reasonable grounds to suspect is committing or has committed an offence under this Part of this Act;
+
+(c) to stop and search a vehicle where he has reasonable grounds to suspect that an offence under section 19 of this Act is being or has been committed;
+
+(d) to arrest a person who he has reasonable grounds to suspect is committing or has committed an offence under this Part of this Act;
+
+(e) to seize and detain—
+
+(i) with its contents (if any), a controlled container as defined in section 20(8) of this Act; or
+
+(ii) with its contents, any other container if he has reasonable grounds to suspect that those contents are or include alcohol [[^F47]; or
+
+(iii) a controlled article or substance as defined in section 20(8) of this Act.]
+
+### 22 Presumption as to contents of container.
+
+[[^F48]Section 140 of the Licensing (Scotland) Act 2005 (asp 16) (presumption as to liquid contents of containers)] shall apply for the purposes of any trial in connection with an alleged contravention of any provision of this Part of this Act as it applies for the purposes of any trial in connection with an alleged contravention of any provision of that Act.
+
+### 23 Interpretation of Part II.
+
+In this Part of this Act, unless the context otherwise requires—
+
+- “advertised” means announced in any written or printed document or in any broadcast announcement;
+
+- [[^F49]“alcohol” has the meaning given in section 2 of the Licensing (Scotland) Act 2005 (asp 16);]
+
+- “designated” means designated by the Secretary of State by order under section 18 of this Act, and “designated sporting event” includes a sporting event designated under section 9(3)(a) of the [^M6]Sporting Events (Control of Alcohol) Etc. Act 1985;
+
+- “keeper”, in relation to a vehicle, means the person having the duty to take out a licence for it under section 1(1) of the [^M7]Vehicles Excise and Registration Act 1994;
+
+- [[^F50]“motor vehicle” means a mechanically propelled vehicle intended or adapted for use on roads;]
+
+- “period of a designated sporting event” means the period commencing two hours before the start and ending one hour after the end of a designated sporting event, except that where the event is advertised as to start at a particular time but is delayed or postponed [[^F51]it] includes, and where for any reason an event does not take place it means, the period commencing two hours before and ending one hour after, that particular time;
+
+- “public service vehicle” has the same meaning as in the [^M8]Public Passenger Vehicles Act 1981 and “operator” in relation to such a vehicle means—
+
+  - (a) the driver if he owns the vehicle; and
+  - (b) in any other case the person for whom the driver works (whether under a contract of employment or any other description of contract personally to do work);
+
+- [[^F52]“railway vehicle” means a railway vehicle within the meaning of section 83 of the Railways Act 1993 (c.43) that is used in the provision of a railway service within the meaning of section 82 of that Act (excluding the wider meaning of “railway” given by section 81(2) of that Act);]
+
+- “relevant area” means any part of a sports ground—
+
+  - (a) to which spectators attending a designated sporting event are granted access on payment; or
+  - (b) from which a designated sporting event may be viewed directly;
+
+- “sporting event” means any physical competitive activity at a sports ground, and includes any such activity which has been advertised as to, but does not, take place; and
+
+- “sports ground” means any place whatsoever which is designed, or is capable of being adapted, for the holding of sporting events in respect of which spectators are accommodated.
+
+## Part III — [[^F53]Investigation of Revenue and Customs offences]
+
+### [[^F54]Investigation of offences by HMRC
+
+#### 23A Investigation of offences by Her Majesty's Revenue and Customs
+
+(1) This Part of this Act applies to the investigation of Revenue and Customs offences.
+
+(2) [^F55]... in this Part of this Act, a “Revenue and Customs offence” is an offence which relates to a matter in relation to which Her Majesty's Revenue and Customs have functions [^F55]...
+
+[^F56]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Production orders
+
+#### 23B Production orders
+
+(1) The sheriff may, if satisfied on information on oath given by an authorised officer as to the matters mentioned in subsection (2) below, make an order under subsection (3) below (in this Part, a “production order”).
+
+(2) Those matters are—
+
+(a) that there are reasonable grounds to suspect that a Revenue and Customs offence has been or is being committed; and
+
+(b) that a person (in this Part, a “haver”) specified by the officer has possession or control of a document which may be required as evidence for the purposes of any proceedings in respect of such an offence.
+
+(3) A production order is an order requiring the haver, before the expiry of the period specified in the order—
+
+(a) to deliver the document to an officer; or
+
+(b) to—
+
+(i) give an officer access to the document; and
+
+(ii) permit the officer to make copies of or remove the document.
+
+(4) The period specified in a production order is—
+
+(a) the period of 10 working days beginning with the day on which the order is made; or
+
+(b) such other period as the sheriff considers appropriate.
+
+(5) A sheriff may make a production order in relation to a haver residing or having a place of business in an area of Scotland notwithstanding that it is outside the area of that sheriff and any such order shall, without being backed or endorsed by another sheriff, have effect throughout Scotland.
+
+(6) Subject to section 23J of this Act, a production order has effect in spite of any restriction on disclosure of information (however imposed).
+
+(7) Without prejudice to section 23D(1) of this Act, failure by a person to comply with a production order may be dealt with as a contempt of court.
+
+(8) In subsection (4)(a) above, “working day” means any day other than—
+
+(a) a Saturday;
+
+(b) a Sunday; or
+
+(c) any day which is a public holiday in the area in which the production order is to have effect.
+
+#### 23C Production orders: supplementary
+
+(1) The sheriff may deal with an application for a production order ex parte in chambers.
+
+(2) The sheriff may, on the application of a person mentioned in subsection (3) below—
+
+(a) vary; or
+
+(b) discharge,
+
+a production order.
+
+(3) The persons referred to in subsection (2) above are—
+
+(a) the authorised officer who applied for the production order;
+
+(b) a person affected by the order.
+
+(4) Without prejudice to section 305 of the Criminal Procedure (Scotland) Act 1995, rules of court made by Act of Adjournal may make provision in relation to—
+
+(a) proceedings relating to the making of production orders; and
+
+(b) the variation or discharge of such orders.
+
+#### 23D Offences in relation to production orders
+
+(1) A person who intentionally—
+
+(a) falsifies;
+
+(b) conceals;
+
+(c) destroys or otherwise disposes of,
+
+a document to which this section applies, or who causes or permits any of those acts, commits an offence.
+
+(2) This section applies to a document which the person is required, under a production order, to—
+
+(a) deliver to an officer; or
+
+(b) give an officer access to.
+
+(3) A person does not commit an offence if the person acts—
+
+(a) with the written permission of—
+
+(i) an officer; or
+
+(ii) the sheriff who made the order,
+
+after the document has been delivered or the officer has had access to it;
+
+(b) subject to subsection (4) below, after the expiry of the period of 2 years beginning with the day on which the order is made.
+
+(4) Subsection (3)(b) above does not apply where, before the expiry of the period referred to in that paragraph, an officer gives notice in writing to the person that the order has not been complied with to that officer's satisfaction.
+
+(5) A person who commits an offence under subsection (1) above is liable—
+
+(a) on summary conviction, to imprisonment for a period not exceeding 12 months or to a fine not exceeding the statutory maximum or to both;
+
+(b) on conviction on indictment, to imprisonment for a period not exceeding 2 years or to a fine or both.
+
+### Revenue and Customs warrants
+
+#### 23E Revenue and Customs warrants
+
+(1) The sheriff may, if satisfied on information on oath given by an authorised officer as to the matters mentioned in subsection (2) below, grant a warrant under subsection (3) below (in this Part, a “Revenue and Customs warrant”).
+
+(2) Those matters are—
+
+(a) that there are reasonable grounds to suspect that a Revenue and Customs offence has been or is being committed; and
+
+(b) that evidence of that offence is to be found in or on premises specified in the information.
+
+(3) A Revenue and Customs warrant is a warrant authorising an officer to—
+
+(a) enter, if necessary by force, the premises specified in the information; and
+
+(b) search those premises,
+
+before the expiry of the period of one month beginning with the day on which the warrant is granted.
+
+(4) The sheriff may, when granting a warrant, impose such conditions as the sheriff considers appropriate.
+
+(5) An officer who enters premises under the authority of a Revenue and Customs warrant may—
+
+(a) subject to any condition imposed under subsection (4) above, take with the officer such other persons (including persons who are not officers) as appear to that officer to be necessary;
+
+(b) subject to subsection (6) below, seize and remove any document or other thing found in or on the premises which the officer has reasonable cause to believe may be required as evidence for the purposes of proceedings in respect of the offence mentioned in subsection (2)(a) above; and
+
+(c) subject to subsections (6) and (7) below—
+
+(i) search or cause to be searched any person found in or on the premises whom the officer has reasonable cause to believe may be in possession of any such document or thing; and
+
+(ii) seize and remove any such document or thing found.
+
+(6) An officer acting under the authority of a Revenue and Customs warrant may, if the officer considers it appropriate, makes copies of any document or thing found in or on the premises or on any person searched under subsection (5)(c) above.
+
+(7) No person may be searched under subsection (5)(c) above except by a person of the same sex.
+
+(8) A sheriff may grant a Revenue and Customs warrant in relation to premises situated in an area of Scotland notwithstanding that it is outside the area of that sheriff and any such warrant may, without being backed or endorsed by another sheriff, be executed throughout Scotland in the same way as it may be executed within the sheriffdom of the sheriff who granted it.
+
+(9) In this section and in sections 23F to 23H of this Act, “premises” includes any place and, in particular—
+
+(a) any vehicle, vessel, aircraft or hovercraft;
+
+(b) any offshore installation (within the meaning of section 12(1) of the Mineral Workings (Offshore Installations) Act 1971); and
+
+(c) any tent or other movable structure.
+
+### Orders and warrants: common provisions
+
+#### 23F Procedure where documents etc removed
+
+(1) This section applies where—
+
+(a) a document is removed under a production order;
+
+(b) a document or other thing is removed under a Revenue and Customs warrant.
+
+(2) An officer who removes any document or thing shall, if requested to do so by a person mentioned in subsection (3) below, provide that person with a record of what that officer removed.
+
+(3) The persons referred to in subsection (2) above are—
+
+(a) in the case of a document removed under a production order, a haver;
+
+(b) in the case of a document or thing removed under a Revenue and Customs warrant—
+
+(i) a person who is the occupier of any premises from which the document or thing was removed; or
+
+(ii) a person who had possession or control of the document or thing before it was removed.
+
+(4) The officer must provide the record within a reasonable time of the request for it.
+
+#### 23G Access to and copies of documents etc removed
+
+(1) This section applies where—
+
+(a) a document is removed under a production order;
+
+(b) a document or other thing is removed under a Revenue and Customs warrant.
+
+(2) A person mentioned in subsection (3) below may apply to the officer in overall charge of the investigation to which the order or warrant relates—
+
+(a) for access to the document or thing; or
+
+(b) for a copy or photograph of it.
+
+(3) The persons referred to in subsection (2) above are—
+
+(a) in the case of a document removed under a production order—
+
+(i) a haver; or
+
+(ii) a person acting on behalf of the haver;
+
+(b) in the case of a document or thing removed under a Revenue and Customs warrant, a person who had possession or control of the document or thing before it was removed.
+
+(4) Unless subsection (5) below applies, the officer in overall charge of the investigation shall—
+
+(a) in a case to which subsection (2)(a) above applies, allow the applicant supervised access to the document or thing; or
+
+(b) in a case to which subsection (2)(b) above applies—
+
+(i) allow the applicant supervised access to the document or thing for the purposes of photographing or copying it; or
+
+(ii) photograph or copy the document or thing (or cause it to be so photographed or copied) and provide the applicant with such a photograph or copy within a reasonable time.
+
+(5) The officer in overall charge need not comply with subsection (4) above where that officer has reasonable grounds for believing that to do so would prejudice—
+
+(a) the investigation;
+
+(b) the investigation of a Revenue and Customs offence other than the offence for the purposes of the investigation of which the document or thing was removed; or
+
+(c) any criminal proceedings which may be brought as a result of any investigation mentioned in paragraph (a) or (b) above.
+
+(6) In subsection (4) above, “supervised access” means access under the supervision of an officer approved by the officer in overall charge of the investigation.
+
+#### 23H Failure to comply with requirements of section 23F and 23G
+
+(1) This section applies where—
+
+(a) a document is removed under a production order;
+
+(b) a document or other thing is removed under a Revenue and Customs warrant.
+
+(2) Subject to subsection (3) below, a person who claims that—
+
+(a) an officer has failed to comply with the requirements of section 23F(2) or (3) of this Act; or
+
+(b) an officer in overall charge of an investigation has failed to comply with the requirements of section 23G(4) of this Act,
+
+may apply to the sheriff for an order under subsection (4) below.
+
+(3) An application under subsection (2) above—
+
+(a) relating to a failure mentioned in subsection (2)(a) above, may be made only by a person who is entitled to make a request under section 23F(2) of this Act;
+
+(b) relating to a failure mentioned in subsection (2)(b) above, may be made only by—
+
+(i) a haver;
+
+(ii) a person acting on behalf of a haver but only where that person applied under section 23G(2) of this Act;
+
+(iii) a person who had possession or control of the document or thing before it was removed under a Revenue and Customs warrant.
+
+(4) The sheriff may, if satisfied that—
+
+(a) the officer has failed to comply with the requirements of section 23F(2) or (3) of this Act; or
+
+(b) the officer in overall charge of the investigation has failed to comply with the requirements of section 23G(4) of this Act,
+
+order the officer or, as the case may be, the officer in overall charge of the investigation to comply with the requirements within such time and in such manner as the sheriff specifies in the order.
+
+#### 23J Confidentiality
+
+(1) Neither a production order nor a Revenue and Customs warrant authorises the seizure, removal or copying of any documents or other things subject to legal privilege.
+
+(2) Subsection (1) above does not apply where the document or thing is held for the purposes of furthering a criminal purpose.
+
+(3) In this section—
+
+“documents or other things subject to legal privilege” means—
+
+- (a) communications between a professional legal adviser and the adviser's client; or
+- (b) communications made in connection with or in contemplation of legal proceedings and for the purposes of those proceedings,
+
+which would, in legal proceedings, be protected from disclosure by virtue of any rule of law relating to confidentiality of communications.
+
+#### 23K Meaning of “document” etc
+
+(1) In sections 23B to 23J of this Act, references to a “document” include—
+
+(a) any thing in which information of any description is recorded; and
+
+(b) any part of such a thing.
+
+(2) Where a production order or a Revenue and Customs warrant applies to a document in electronic or magnetic form, the order or, as the case may be, the warrant requires the person having possession or control of the document to deliver or, as the case may be, give access to the information in a form which is visible and legible and, if the officer executing the order or warrant wishes to remove it, in a form which can be removed.
+
+### Execution and enforcement of orders and warrants outwith Scotland
+
+#### 23L Cross-border exercise of powers
+
+(1) Section 4 of the Summary Jurisdiction Act 1881 (execution of process of Scottish courts in England and Wales) shall apply to—
+
+(a) a production order; and
+
+(b) a Revenue and Customs warrant,
+
+as it applies to a process mentioned in that section.
+
+(2) Section 29 of the Petty Sessions (Ireland) Act 1851 (execution of warrants in Northern Ireland) shall apply to—
+
+(a) a production order; and
+
+(b) a Revenue and Customs warrant,
+
+as it applies to a warrant mentioned in that section.
+
+### Detention and questioning of suspects and witnesses
+
+#### 23M Powers relating to suspects and potential witnesses
+
+(1) Where an authorised officer has reasonable grounds for suspecting that a person has committed or is committing, at any place, a Revenue and Customs offence, the officer may require—
+
+(a) that person, if found by the officer at that place or at any place where the officer is entitled to be, to give—
+
+(i) the information mentioned in subsection (2) below; and
+
+(ii) an explanation of the circumstances which have given rise to the officer's suspicion;
+
+(b) any other person whom the officer finds at that place or at any place where the officer is entitled to be and who the officer believes has information relating to the offence, to give the information mentioned in subsection (2) below.
+
+(2) That information is—
+
+(a) the person's name;
+
+(b) the person's address;
+
+(c) the person's date of birth;
+
+(d) the person's place of birth (in such detail as the officer considers necessary or expedient for the purpose of establishing that person's identity); and
+
+(e) the person's nationality.
+
+(3) The officer may require the person mentioned in paragraph (a) of subsection (1) above to remain with the officer while the officer (any or all)—
+
+(a) subject to subsection (4) below, verifies any information mentioned in subsection (2) above given by the person;
+
+(b) subject to section (5) below, establishes whether the person may be a person suspected of having committed a Revenue and Customs offence other than the offence in relation to which the officer made the requirement of that person under paragraph (a) of subsection (1) above;
+
+(c) notes any explanation proffered by the person.
+
+(4) The officer shall exercise the power under paragraph (a) of subsection (3) above only where it appears to the officer that such verification can be obtained quickly.
+
+(5) The officer shall exercise the power under paragraph (b) of subsection (3) above only where—
+
+(a) the person mentioned in paragraph (a) of subsection (1) above has given a name and address; and
+
+(b) it appears to the officer that establishing the matter mentioned in paragraph (b) of subsection (3) above can be achieved quickly.
+
+(6) The officer may use reasonable force to ensure that the person mentioned in paragraph (a) of subsection (1) above remains with that officer.
+
+(7) The officer shall inform a person, when making a requirement of that person under—
+
+(a) paragraph (a) of subsection (1) above, of the officer's suspicion and of the general nature of the offence which the officer suspects that the person has committed or is committing;
+
+(b) paragraph (b) of subsection (1) above, of the officer's suspicion, of the general nature of the offence which the officer suspects has been or is being committed and that the reason for the requirement is that the officer believes the person has information relating to the offence;
+
+(c) subsection (3) above, why the person is being required to remain with the officer;
+
+(d) any of the said subsections, that failure to comply with the requirement may constitute an offence.
+
+#### 23N Fingerprinting of persons suspected of offences
+
+(1) An authorised officer may, if the person mentioned in section 23M(1)(a) of this Act gives a name and address, require that person to provide—
+
+(a) that person's fingerprints; or
+
+(b) a record, created by an approved device, of the skin on that person's fingers.
+
+(2) Such fingerprints or record may be used only for the purposes of—
+
+(a) verifying the name and address given by the person;
+
+(b) establishing whether the person may be a person who is suspected of having committed any other Revenue and Customs offence,
+
+and all record of such fingerprints or record shall be destroyed as soon as possible after they have fulfilled those purposes.
+
+(3) The officer shall inform a person, when making a requirement of that person under subsection (1) above—
+
+(a) of the existence of the power to make the requirement and why the officer proposes to exercise it in the person's case; and
+
+(b) that failure to comply with the requirement may constitute an offence.
+
+(4) In subsection (1)(b) above, an “approved device” is any device approved by the Scottish Ministers under section 13(8) of the Criminal Procedure (Scotland) Act 1995.
+
+#### 23P Offences arising from breach of requirements under sections 23M and 23N
+
+(1) A person mentioned in paragraph (a) of subsection (1) of section 23M of this Act who, having been required—
+
+(a) under that subsection to give the information mentioned in subsection (2) of that section;
+
+(b) under subsection (3) of that section to remain with an officer; or
+
+(c) under subsection (1) of section 23N of this Act to provide that person's fingerprints or a record such as is mentioned in paragraph (b) of that subsection,
+
+fails, without reasonable excuse, to do so, shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+(2) A person mentioned in paragraph (b) of subsection (1) of section 23M of this Act who, having been required under that subsection to give the information mentioned in subsection (2) of that section, fails, without reasonable excuse, to do so, shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 2 on the standard scale.
+
+[^F57]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .]
+
+#### [^F60]24 [[^F58]Detention and questioning ][[^F59]: Revenue and Customs, immigration and nationality offences]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F60]24A Extension of period of detention under section 24
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F60]24B Extension under section 24A: procedure
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F60]25 Right to have someone informed when detained.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F60]25A Right of suspects to have access to a solicitor
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^X1]26 Detention in connection with certain drug smuggling offences.
+
+(1) Where an officer has reasonable grounds for suspecting—
+
+(a) that a person has committed or is committing a relevant offence; and
+
+(b) that, in connection with the commission of such an offence, a controlled drug is secreted in the person’s body,
+
+a superior officer may, notwithstanding that the person has been or is being detained in pursuance of any other enactment or subordinate instrument, authorise the detention of the person at a [[^F61]an office of Revenue and Customs] or other premises in accordance with this section.
+
+(2) Subject to subsection (7) below, where a person is detained under subsection (1) above or is further detained in pursuance of a warrant under subsection (4) below he shall—
+
+(a) provide such specimens of blood or urine for analysis;
+
+(b) submit to such intimate searches, to be carried out by a registered medical practitioner;
+
+(c) submit to such other test or examinations prescribed by the Secretary of State by regulations made under this paragraph to be carried out by, or under the supervision of, a registered medical practitioner,
+
+as the officer may reasonably require; and regulations under paragraph (c) above shall be made by statutory instrument subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(3) Subject to subsection (4) below, detention under subsection (1) above shall be terminated not more than 24 hours after it begins, or (if earlier)—
+
+(a) when the person is arrested;
+
+(b) when he is detained in pursuance of any other enactment or subordinate instrument; or
+
+(c) where there are no longer such grounds as are mentioned in subsection (1),
+
+and, when a person has been detained under subsection (1), he shall, unless further detained in pursuance of a warrant under subsection (4) below, be informed immediately upon the termination of his detention in accordance with this subsection that his detention has been terminated.
+
+(4) Where a person is detained under subsection (1) above and either—
+
+(a) he has failed or refused—
+
+(i) to provide a specimen in pursuance of paragraph (a) of subsection (2) above; or
+
+(ii) to submit to any search, test or examination referred to in paragraph (b) or (c) of that subsection; or
+
+(b) as a result of anything done in pursuance of the said subsection (2) the officer continues to have reasonable grounds for suspecting—
+
+(i) that the person has committed or is committing a relevant offence; and
+
+(ii) that a controlled drug is secreted in the person’s body,
+
+the procurator fiscal may, at the request of a superior officer, apply to the sheriff for a warrant for the further detention of the person at a [[^F61]an office of Revenue and Customs] or other premises for an additional period of not more than 7 days; and if the sheriff is satisfied that there has been such failure or refusal as is mentioned in paragraph (a) above or, as the case may be, that there are reasonable grounds as mentioned in paragraph (b) above he may grant a warrant for such further detention.
+
+(5) Detention in pursuance of a warrant under subsection (4) above shall be terminated at the end of the period of 7 days mentioned in that subsection or (if earlier)—
+
+(a) when the person is arrested;
+
+(b) when he is detained in pursuance of any other enactment or subordinate instrument; or
+
+(c) where there are no longer such grounds as are mentioned in paragraph (b) of that subsection,
+
+and when a person has been detained in pursuance of a warrant under subsection (4), he shall be informed immediately on the termination of his detention in accordance with this subsection that his detention has been terminated.
+
+(6) Subject to subsection (7) below, the question whether it is to be a specimen of blood or a specimen of urine which is to be provided in pursuance of subsection (2) above shall be decided by the officer making the requirement.
+
+(7) A person may be required, in pursuance of subsection (2) above—
+
+(a) to provide a specimen of blood; or
+
+(b) to submit to any search, test or examination,
+
+only if a registered medical practitioner is of the opinion that there are no medical reasons for not making such a requirement; and, if a requirement to provide a specimen of blood is made, the specimen may be taken only by a registered medical practitioner.
+
+[[^F62](7A) An officer may use reasonable force in exercising any power conferred by this section, except as regards a requirement under subsection (2).
+
+(7B) Sections 3 and 6(1), (2) and (8) of the Criminal Justice (Scotland) Act 2016 (giving and recording of information) apply in relation to a person detained by an officer under this section in connection with the commission of a relevant offence as they apply in relation to a person arrested by the officer in respect of that offence.
+
+(7C) Sections 31 to 34 and 38 to 44 of that Act (questioning, and intimation and access to others) apply in relation to a person detained under this section in connection with the commission of a relevant offence as they apply in relation to a person in custody following arrest by an officer in respect of that offence.
+
+(7D) A person may not be detained under this section on any grounds if the person has been detained under this section before on the same grounds or on grounds arising out of the same circumstances.]
+
+(11) In this section—
+
+- “controlled drug” has the meaning assigned by section 2 of the [^M9]Misuse of Drugs Act 1971
+
+- “intimate search” means a search which consists of the physical examination of a persons’s body orifices;
+
+- “relevant offence” means an offence involving a controlled drug under any of the following provisions of the [^M10]Customs and Excise Management Act 1979—
+
+  - (a) section 50(2) or (3) (importation etc. of prohibited goods);
+  - (b) section 68(2) (exportation etc. of prohibited goods);
+  - (c) section 170(1) (possession or dealing with prohibited goods);
+  - (d) section 170(2) (being concerned in evasion or attempt at evasion of a prohibition);
+
+- [[^F63]“superior officer” means an officer whose title is specified for the purposes of this section by the Treasury in an order made by statutory instrument subject to annulment in pursuance of a resolution of either House of Parliament.]
+
+### [[^F64]Power of arrest
+
+#### [^F65]26A Power of arrest
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### General provisions
+
+#### 26B Interpretation of Part 3 etc
+
+(1) In this Part of this Act—
+
+- “authorised officer” means an officer acting with the authority (which may be general or specific) of the Commissioners for Her Majesty's Revenue and Customs;
+- [^F66]...
+- [^F67]...
+- [^F66]...
+- “office of Revenue and Customs” means premises wholly or partly occupied by Her Majesty's Revenue and Customs; and
+- [[^F68]“officer” means an officer of Revenue and Customs;]
+
+(2) In any proceedings (whether civil or criminal) under or arising from this Part of [[^F69]this Act—
+
+(a) a certificate of the Commissioners for Her Majesty's Revenue and Customs that an officer of Revenue of Customs, [^F70]...
+
+[^F70]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+had authority] to exercise a power or function conferred by a provision of this Part shall be conclusive proof of that fact.
+
+#### 26C [[^F71]Investigations by designated customs officials
+
+(1) In the application of this Part of this Act to investigations conducted by designated customs officials—
+
+(a) references to an officer are to a designated customs official;
+
+(b) references to an authorised officer are to a designated customs official acting with the authority (which may be general or specific) of—
+
+(i) the Secretary of State in relation to investigations relating to general customs matters, or
+
+(ii) the Director of Border Revenue in relation to investigations relating to customs revenue matters;
+
+(c) references to the Commissioners for Her Majesty's Revenue and Customs are to—
+
+(i) the Secretary of State in relation to investigations relating to general customs matters, or
+
+(ii) the Director of Border Revenue in relation to investigations relating to customs revenue matters;
+
+(d) references to an office of Revenue and Customs are to premises wholly or partly occupied by designated customs officials;
+
+(e) references to a superior officer are to—
+
+(i) an immigration officer not below the grade of Inspector,
+
+(ii) a person of the grade of Senior Executive Officer, or
+
+(iii) a person of a grade equivalent to that within sub-paragraph (i) or (ii).
+
+(2) In this section “customs revenue matter”, “designated customs official” and “general customs matter” have the meanings given by Part 1 of the Borders, Citizenship and Immigration Act 2009.]]
+
+## Part IV — INVESTIGATION OF SERIOUS OR COMPLEX FRAUD
+
+### 27 Lord Advocate’s direction.
+
+(1) Where it appears to the Lord Advocate—
+
+(a) that a suspected offence may involve serious or complex fraud; and
+
+(b) that, for the purpose of investigating the affairs or any aspect of the affairs of any person, there is good reason to do so,
+
+he may give a direction under this section.
+
+[[^F72](2) The Lord Advocate may also give a direction under this section by virtue of section 15(4) of the Crime (International Co-operation) Act 2003 or on a request made by the Attorney-General of the Isle of Man, Jersey or Guernsey acting under legislation corresponding to this Part of this Act.]
+
+(3) Where a direction is given under this section, this Part of this Act shall apply as regards the investigation of the offence; and any person (other than a constable) nominated by the Lord Advocate either generally or in respect of a particular case (in this Part of this Act referred to as “a nominated officer”) shall be entitled to exercise the powers and functions conferred by this Part of this Act.
+
+(4) A direction under this section shall be signed by the Lord Advocate.
+
+### 28 Powers of investigation.
+
+(1) A nominated officer may by notice in writing require the person whose affairs are to be investigated (“the person under investigation”) or any other person who he has reason to believe has relevant information to answer questions or otherwise furnish information with respect to any matter relevant to the investigation at a specified place and either at a specified time or forthwith.
+
+(2) A nominated officer may by notice in writing require the person under investigation or any other person to produce at such place as may be specified in the notice and either forthwith or at such time as may be so specified any specified documents which appear to a nominated officer to relate to any matter relevant to the investigation or any documents of a specified description which appear to him so to relate; and—
+
+(a) if any such documents are produced, a nominated officer may—
+
+(i) take copies or extracts from them;
+
+(ii) require the person producing them to provide an explanation of any of them;
+
+(b) if any such documents are not produced, a nominated officer may require the person who was required to produce them to state, to the best of his knowledge and belief, where they are.
+
+(3) Where, on a petition presented by the procurator fiscal, the sheriff is satisfied, in relation to any documents, that there are reasonable grounds for believing—
+
+(a) that—
+
+(i) a person has failed to comply with an obligation under this section to produce them;
+
+(ii) it is not practicable to serve a notice under subsection (2) above in relation to them; or
+
+(iii) the service of such a notice in relation to them might seriously prejudice the investigation; and
+
+(b) that they are on premises specified in the petition,
+
+he may issue such a warrant as is mentioned in subsection (4) below.
+
+(4) The warrant referred to in subsection (3) above is a warrant authorising a constable together with any other persons named in the warrant—
+
+(a) to enter (using such force as is reasonably necessary for the purpose) and search the premises; and
+
+(b) to take possession of any documents appearing to be documents of the description specified in the petition or to take in relation to any documents so appearing any other steps which may appear to be necessary for preserving them and preventing interference with them.
+
+(5) A statement by a person in response to a requirement imposed by virtue of this section may only be used in evidence against him—
+
+(a) in a prosecution for an offence under section 44(2) of this Act; or
+
+(b) in a prosecution for some other offence where in giving evidence he makes a statement inconsistent with it.
+
+[[^F73](5A) However, the statement may not be used against that person by virtue of paragraph (b) of subsection (5) unless evidence relating to it is adduced, or a question relating to it is asked, by or on behalf of that person in the proceedings arising out of the prosecution.]
+
+(6) A person shall not under this section be required to disclose any information or produce any document which is an item subject to legal privilege within the meaning of section 33 of this Act; except that a lawyer may be required to furnish the name and address of his client.
+
+(7) No person shall be bound to comply with any requirement imposed by a person exercising power by virtue of a nomination under section 27(3) of this Act unless he has, if required to do so, produced evidence of his authority.
+
+(8) Any evidence obtained [[^F74]by virtue of section 27(2) of this Act shall be given to the overseas authority which requested it or to the Lord Advocate for forwarding to that authority]
+
+(9) [^F75]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(10) Where any evidence obtained by virtue of section 4(2B) of the said Act of 1990 consists of a document, the original or a copy shall be [[^F76]forwarded] and where it consists of any other article, the article itself or a description, photograph or other representation of it shall be [[^F76]forwarded], as may be necessary in order to comply with the relevant request.
+
+(11) In this section—
+
+- “documents” includes information recorded in any form and, in relation to information recorded otherwise than in legible form, references to its production include references to producing a copy of the information in legible form;
+- “evidence”, in relation to a relevant request, includes documents and other articles; and
+- “premises” has the same meaning as in section 33 of this Act.
+
+(12) This section and sections 27 and 29 of this Act shall apply to England and Wales and Northern Ireland; and for the purposes of such application any reference—
+
+(a) to the sheriff shall be construed as a reference to a justice of the peace; and
+
+(b) to a petition presented by the procurator fiscal shall be construed—
+
+(i) in England and Wales as a reference to an information laid by a nominated officer;
+
+(ii) in Northern Ireland as a reference to a complaint laid by a nominated officer.
+
+### 29 Offences in relation to investigations under section 28.
+
+(1) Where any person—
+
+(a) knows or suspects that an investigation under section 28 of this Act is being carried out or is likely to be carried out; and
+
+(b) falsifies, conceals, destroys or otherwise disposes of, or causes or permits the falsification, concealment, destruction or disposal of documents which he knows or suspects or has reasonable grounds to suspect are or would be relevant to such an investigation,
+
+he shall be guilty of an offence.
+
+(2) In proceedings against a person for an offence under subsection (1) above, it shall be a defence to prove—
+
+(a) that he did not know or suspect that by acting as he did he was likely to prejudice the investigation; or
+
+(b) that he had lawful authority or reasonable excuse for acting as he did.
+
+(3) A person guilty of an offence under subsection (1) above shall be liable—
+
+(a) on conviction on indictment, to imprisonment for a term not exceeding seven years or to a fine or to both; and
+
+(b) on summary conviction, to imprisonment for a term not exceeding six months or to a fine not exceeding the statutory maximum or to both.
+
+(4) Any person who fails to comply with a requirement imposed on him under the said section 28 shall be guilty of an offence and liable on summary conviction to imprisonment for a term not exceeding six months or to a fine not exceeding level 5 on the standard scale or to both.
+
+(5) In proceedings against a person for an offence under subsection (4) above, it shall be a defence to prove that he had a reasonable excuse for acting as he did.
+
+### 30 Disclosure of information.
+
+(1) Where any information [[^F77]to which section 18 of the Commissioners for Revenue and Customs Act 2005 would apply but for section 18(2)] has been disclosed by [[^F78]Her Majesty’s Revenue and Customs] for the purposes of any prosecution of an offence [[^F79]relating to a former Inland Revenue matter], that information may be disclosed by the Lord Advocate for the purposes of any prosecution of an offence—
+
+(a) in respect of which a direction has been given under section 27(1)(a) of this Act; or
+
+(b) relating to inland revenue,
+
+but not otherwise.
+
+(2) Where any information is subject to an obligation of secrecy imposed by or under any enactment [[^F80]and is not information to which section 18 of the Commissioners for Revenue and Customs Act 2005 would apply but for section 18(2)], the obligation shall not have effect to prohibit the disclosure of that information to a nominated officer but any information disclosed by virtue of this subsection may only be disclosed by the Lord Advocate for the purpose of a prosecution in Scotland or elsewhere.
+
+(3) Without prejudice to his power to enter into an agreement apart from this subsection, the Lord Advocate may enter into an agreement for the supply of information to or by him subject, in either case, to an obligation not to disclose the information concerned otherwise than for a specified purpose.
+
+(4) Subject to subsections (1) and (2) above and to any provision of an agreement for the supply of information which restricts the disclosure of the information supplied, information obtained by a nominated officer may be disclosed—
+
+(a) to any government department, or any Northern Ireland Department, or other authority or body discharging its functions on behalf of the Crown (including the Crown in right of Her Majesty’s Government in Northern Ireland);
+
+(b) to any competent authority;
+
+(c) for the purposes of any prosecution in Scotland or elsewhere; and
+
+(d) for the purposes of assisting any public or other authority for the time being designated for the purpose of this paragraph by an order made by the Secretary of State to discharge any functions which are specified in the order.
+
+(5) The following are competent authorities for the purposes of subsection (4) above—
+
+(a) an inspector appointed under Part XIV of the [^M11]Companies Act 1985 [^F81]. . . ;
+
+(b) the Accountant in Bankruptcy;
+
+(c) an Official Receiver;
+
+(d) the Official Receiver for Northern Ireland;
+
+[[^F82](e) a person appointed under—
+
+(i) section 167 of the Financial Services and Markets Act 2000 (general investigations),
+
+(ii) section 168 of that Act (investigations in particular cases),
+
+(iii) section 169(1)(b) of that Act (investigation in support of overseas regulator),
+
+(iv) section 284 of that Act (investigations into affairs of certain collective investment schemes), or
+
+(v) regulations made as a result of section 262(2)(k) of that Act (investigations into open-ended investment companies),
+
+to conduct an investigation;
+
+(f) a body corporate established in accordance with section 212(1) of the Financial Services and Markets Act 2000 (compensation scheme manager);]
+
+(6) An order under subsection (4)(d) above may impose conditions subject to which, and otherwise restrict the circumstances in which, information may be disclosed under that paragraph.
+
+[[^F83](7) In subsection (1) above “former Inland Revenue matter” means a matter listed in Schedule 1 to the Commissioners for Revenue and Customs Act 2005 except for paragraphs 2, 10, 13, 14, 15, 17, 19, 28, 29 and 30.]
+
+## [^F84][^F84]Part V — DRUG TRAFFICKING
+
+### Investigations and disclosure of information
+
+#### 31 Order to make material available.
+
+[^F85]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 32 Authority for search.
+
+[^F86]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 33 Interpretation of sections 31 and 32.
+
+[^F87]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 34 Prosecution by order of the Commissioners of Customs and Excise.
+
+[^F88]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 35 Disclosure of information held by government departments.
+
+[^F89]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Offences
+
+#### 36 Offence of prejudicing investigation.
+
+[^F90]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 37 Acquisition, possession or use of proceeds of drug trafficking.
+
+[^F91]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 38 Offence of assisting another to retain the proceeds of drug trafficking.
+
+[^F92]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 39 Failure to disclose knowledge or suspicion of money laundering.
+
+[^F93]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 40 Tipping-off.
+
+[^F94]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 41 Offences relating to controlled drugs: fines.
+
+(1) Without prejudice to section 211(7) of the [^M12]Criminal Procedure (Scotland) Act 1995 (fines) but subject to section 10(3)(a) of the [^M13]Proceeds of Crime (Scotland) Act 1995, where a person is convicted on indictment of an offence to which this section relates and sentenced in respect of that offence to a period of imprisonment or detention, the Court where—
+
+(a) paragraph (b) below does not apply shall, unless it is satisfied that for any reason it would be inappropriate to do so, also impose a fine;
+
+(b) it makes a confiscation order under section 1(1) of the Proceeds of Crime (Scotland) Act 1995 as regards the person, may also impose a fine.
+
+(2) In determining the amount of a fine imposed under paragraph (a) of subsection (1) above, the Court shall have regard to any profits likely to have been made by the person from the crime in respect of which he has been convicted.
+
+(3) This section relates to an offence which is a drug trafficking offence within the meaning of the said last mentioned Act of 1995.
+
+(4) Where in any proceedings a fine has been imposed by virtue of subsection (1) above as regards a person and a period of imprisonment or detention is imposed on him in default of payment of its amount (or as the case may be of an instalment thereof), that period shall run from the expiry of any other period of imprisonment or detention (not being one of life imprisonment or detention for life) imposed on him in the proceedings.
+
+(5) The reference in subsection (4) above to “any other period of imprisonment or detention imposed” includes (without prejudice to the generality of the expression) a reference to such a period imposed on default of payment of a fine (or instalment thereof) or of a confiscation order (or instalment thereof); but only where that default has occurred before the warrant for imprisonment is issued for the default in relation to the fine imposed by virtue of subsection (1) of this section.
+
+#### 42 Extension of certain offences to Crown servants and exemptions for regulators etc.
+
+[^F95]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 43 Interpretation of Part V.
+
+(1) In this Part of this Act (except where the context otherwise requires)—
+
+- “authorised government department” means a government department which is an authorised department for the purposes of the [^M14]Crown Proceedings Act 1947;
+- “confiscation order” means an order under section 1(1), 11(4), 12(3) or 13 of the [^M15]Proceeds of Crime (Scotland) Act 1995; and
+- “drug trafficking” has the same meaning as in the said Act of 1995.
+
+(2) This Part of this Act shall (except where the context otherwise requires) be construed as one with the [^M16]Criminal Procedure (Scotland) Act 1995.
+
+(3) This Part of this Act applies to property whether it is situated in Scotland or elsewhere.
+
+(4) References in this Part of this Act—
+
+(a) to offences include a reference to offences committed before the commencement of section 1 of the [^M17]Criminal Justice (Scotland) Act 1987; but nothing in this Act imposes any duty or confers any power on any court in or in connection with proceedings against a person for an offence to which that section relates instituted before the commencement of that section;
+
+(b) to anything received in connection with drug trafficking include a reference to anything received both in that connection and in some other connection; and
+
+(c) to property held by a person include a reference to property vested in the interim or permanent trustee in his sequestration or in his trustee in bankruptcy or liquidator.
+
+## Part VI — MISCELLANEOUS AND GENERAL
+
+### False oaths etc.
+
+#### 44 False statements and declarations.
+
+(1) Any person who—
+
+(a) is required or authorised by law to make a statement on oath for any purpose; and
+
+(b) being lawfully sworn, wilfully makes a statement which is material for that purpose and which he knows to be false or does not believe to be true,
+
+shall be guilty of an offence and liable on conviction to imprisonment for a term not exceeding five years or to a fine or to both such fine and imprisonment.
+
+(2) Any person who knowingly and wilfully makes, otherwise than on oath, a statement false in a material particular, and the statement is made—
+
+(a) in a statutory declaration; or
+
+(b) in an abstract, account, balance sheet, book, certificate, declaration, entry, estimate, inventory, notice, report, return or other document which he is authorised or required to make, attest or verify by, under or in pursuance of any public general Act of Parliament for the time being in force; or
+
+(c) in any oral declaration or oral answer which he is authorised or required to make by, under or in pursuance of any public general Act of Parliament for the time being in force; or
+
+(d) in any declaration not falling within paragraph (a), (b), or (c) above which he is required to make by an order under section 2 of the [^M18]Evidence (Proceedings in Other Jurisdictions) Act 1975,
+
+shall be guilty of an offence and liable on conviction to imprisonment for a term not exceeding two years or to a fine or to both such fine and imprisonment.
+
+(3) Any person who—
+
+(a) procures or attempts to procure himself to be registered on any register or roll kept under or in pursuance of any Act of Parliament for the time being in force of persons qualified by law to practise any vocation or calling; or
+
+(b) procures or attempts to procure a certificate of the registration of any person on any such register or roll,
+
+by wilfully making or producing or causing to be made or produced either verbally or in writing, any declaration, certificate or representation which he knows to be false or fraudulent, shall be guilty of an offence and be liable on conviction to imprisonment for a term not exceeding 12 months or to a fine or to both such fine and imprisonment.
+
+(4) Subsection (2) above applies to any oral statement made for the purpose of any entry in a register kept in pursuance of any Act of Parliament as it applies to the statements mentioned in that subsection.
+
+#### 45 Provisions supplementary to section 44.
+
+(1) Any person who aids, abets, counsels, procures or suborns another person to commit an offence against section 44 of this Act shall be liable to be proceeded against, indicted, tried and punished as if he were a [[^F96]principal] offender
+
+(2) Any person who incites or attempts to procure or suborn another person to commit an offence against that section shall be guilty of an offence and be liable on conviction to imprisonment or to a fine or to both such fine and imprisonment.
+
+(3) Nothing in section 44 and 46(1) of this Act and subsections (1) and (2) above shall affect the common law relating to the crime of perjury or to any crime or offence involving falsehood, fraud or wilful imposition, or the liability of any person to be prosecuted for any such crime or offence, provided that no person shall be liable in respect of the same matter to be punished both at common law and under these sections.
+
+(4) Where the making of a false statement is not only an offence under the said sections 44 or 46(1) or under subsection (1) or (2) above, but also by virtue of some other Act is a corrupt practice or subjects the offender to any forfeiture or disqualification or to any penalty other than imprisonment or a fine, the liability of the offender under these sections shall be in addition to and not in substitution for his liability under such other Act.
+
+(5) Where the making of a false statement is by any other Act whether passed before or after the commencement of this Act, made punishable on summary conviction, proceedings may be taken either under such other Act or under this Act.
+
+#### 46 Proceedings.
+
+(1) For the purposes of any proceedings at common law for perjury or of any proceedings for a contravention of section 44(1) of this Act—
+
+(a) the forms and ceremonies used in administering an oath shall be immaterial if the court or person before whom the oath is taken has power to administer an oath for the purpose of verifying the statement in question, and if the oath has been administered in a form and with ceremonies which the person taking the oath has accepted without objection or has declared to be binding on him;
+
+(b) an affirmation or declaration made in lieu of an oath shall be of the like effect in all respects as if it had been made on oath.
+
+(2) Where an offence against section 44 of this Act is committed in any place outside the United Kingdom, the offender may be proceeded against, tried and punished in any place in Scotland where he was apprehended or is in custody as if the offence had been committed in that place; and for all purposes incidental to or consequential on the trial or punishment of the offence, it shall be deemed to have been committed in that place.
+
+(3) Any summary criminal proceedings for an offence against section 44 of this Act may, notwithstanding anything in the [^M19]Criminal Procedure (Scotland) Act 1995, be commenced at any time within one year from the date of the commission of the offence, or within three months from the date when evidence sufficient in the opinion of the Lord Advocate to justify the proceedings comes to his knowledge whichever period last expires; and for the purposes of this section a certificate purporting to be signed by or on behalf of the Lord Advocate as to the date on which such evidence as aforesaid came to his knowledge shall be conclusive evidence thereof.
+
+(4) In sections 44 and 45 of this Act and in this section, the expression “statutory declaration” means a declaration made by virtue of the [^M20]Statutory Declarations Act 1835 or of any enactment (including subordinate legislation) applying or extending the provisions of that Act.
+
+### [[^F97]False monetary instruments
+
+#### 46A False monetary instruments
+
+(1) A person who counterfeits or falsifies a specified monetary instrument with the intention that it be uttered as genuine is guilty of an offence.
+
+(2) A person who has in his custody or under his control, without lawful authority or excuse—
+
+(a) anything which is, and which he knows or believes to be, a counterfeited or falsified specified monetary instrument; or
+
+(b) any machine, implement or computer programme, or any paper or other material, which to his knowledge is specially designed or adapted for the making of a specified monetary instrument,
+
+is guilty of an offence.
+
+(3) For the purposes of subsections (1) and (2)(a) above, it is immaterial that the specified monetary instrument (or purported specified monetary instrument) is not in a fit state to be uttered or that the counterfeiting or falsifying of it has not been finished or perfected.
+
+(4) A person guilty of an offence under this section is liable on summary conviction—
+
+(a) to a fine not exceeding the statutory maximum;
+
+(b) to imprisonment for a term not exceeding six months; or
+
+(c) both to a fine and to such imprisonment.
+
+(5) A person guilty of an offence—
+
+(a) under subsection (1) above is liable on conviction on indictment—
+
+(i) to a fine;
+
+(ii) to imprisonment for a term not exceeding ten years; or
+
+(iii) both to a fine and to such imprisonment;
+
+(b) under subsection (2) above is liable on conviction on indictment—
+
+(i) to a fine;
+
+(ii) if it is proved that the offence was committed with the intention that the specified monetary instrument in question be uttered (or as the case may be that a specified monetary instrument be uttered), to imprisonment for a term not exceeding ten years and if it is not so proved, to imprisonment for a term not exceeding two years; or
+
+(iii) both to a fine and to imprisonment for a term not exceeding ten years, if it is proved as mentioned in sub-paragraph (ii) above, or both to a fine and to imprisonment for a term not exceeding two years if it is not so proved.
+
+(6) Where an offence under this section which has been committed—
+
+(a) by a body corporate is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, a director, manager, secretary or other similar officer of that body; or
+
+(b) by a Scottish partnership is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, a member of that partnership,
+
+or by any person who was purporting to act in any such capacity, he as well as the body corporate, or as the case may be the partnership, is guilty of that offence and is liable to be proceeded against and punished accordingly.
+
+(7) Where the affairs of a body corporate are managed by its members, subsection (6) above applies in relation to the actings and defaults of a member in connection with his functions of management as if he were a director of the body corporate.
+
+(8) In subsections (1) to (5) above, “specified” means for the time being specified for the purposes of this section, by order made by the Scottish Ministers.
+
+(9) The power to make an order under subsection (8) above—
+
+(a) includes power to make such incidental, supplemental, transitional or transitory provision as the Scottish Ministers think necessary or expedient; and
+
+(b) is exercisable by statutory instrument.
+
+(10) A statutory instrument containing such an order is subject to annulment in pursuance of a resolution of the Scottish Parliament.]
+
+### Offensive weapons
+
+#### 47 Prohibition of the carrying of offensive weapons.
+
+(1) Any person who [^F98]. . . has with him in any public place any offensive weapon shall be guilty of an offence, and shall be liable—
+
+(a) on summary conviction, to imprisonment for a term not exceeding six months or a fine not exceeding the statutory maximum, or both;
+
+(b) on conviction on indictment, to imprisonment for a term not exceeding [[^F99]5 ] years or a fine, or both.
+
+[[^F100](1A) It is a defence for a person charged with an offence under subsection (1) to show that the person had a reasonable excuse or lawful authority for having the weapon with the person in the public place.]
+
+(2) Where any person is convicted of an offence under subsection (1) above the court may make an order for the forfeiture or disposal of any weapon in respect of which the offence was committed.
+
+[^F101]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[[^F102](4) In this section—
+
+- “offensive weapon” means any article—
+
+  - (a) made or adapted for use for causing injury to a person, or
+  
+  - (b) intended, by the person having the article, for use for causing injury to a person by—
+  
+    - (i) the person having it, or
+    - (ii) some other person,
+
+- “public place” means any place other than—
+
+  - (a) domestic premises,
+  - (b) school premises (within the meaning of section 49A(6)),
+  - (c) a prison (within the meaning of section 49C(7)),
+
+- “domestic premises” means premises occupied as a private dwelling (including any stair, passage, garden, yard, garage, outhouse or other appurtenance of such premises which is not used in common by the occupants of more than one such dwelling).]
+
+#### 48 Search for offensive weapons.
+
+(1) Where a constable has reasonable grounds for suspecting that any person is carrying an offensive weapon and has committed or is committing an offence under section 47 of this Act, the constable may search that person without warrant, and detain him for such time as is reasonably required to permit the search to be carried out; and he shall inform the person of the reason for such detention.
+
+(2) Any person who—
+
+(a) intentionally obstructs a constable in the exercise of the constable’s powers under subsection (1) above; or
+
+(b) conceals from a constable acting in the exercise of those powers an offensive weapon,
+
+shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 4 on the standard scale.
+
+[^F103]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) In this section, “offensive weapon” has the same meaning as in the said section 47.
+
+#### 49 Offence of having in public place article with blade or point.
+
+(1) Subject to subsections (4) and (5) below, any person who has an article to which this section applies with him in a public place shall be guilty of an offence and liable—
+
+(a) on summary conviction, to imprisonment for a term not exceeding [[^F104]twelve] months or a fine not exceeding the statutory maximum or both; and
+
+(b) on conviction on indictment, to imprisonment for a term not exceeding [[^F105]5] years or a fine or both.
+
+(2) Subject to subsection (3) below, this section applies to any article which has a blade or is sharply pointed.
+
+(3) This section does not apply to a folding pocketknife if the cutting edge of its blade does not exceed three inches (7.62 centimetres).
+
+(4) It shall be a defence for a person charged with an offence under subsection (1) above to [[^F106]show that the person had a reasonable excuse] or lawful authority for having the article with him in the public place.
+
+(5) Without prejudice to the generality of subsection (4) above, it shall be a defence for a person charged with an offence under subsection (1) above to [[^F107]show] that he had the article with him—
+
+(a) for use at work;
+
+(b) for religious reasons; or
+
+(c) as part of any national costume.
+
+(6) Where a person is convicted of an offence under subsection (1) above the court may make an order for the forfeiture of any article to which the offence relates, and any article forfeited under this subsection shall (subject to section 193 of the [^M21]Criminal Procedure (Scotland) Act 1995 (suspension of forfeiture etc, pending appeal)) be disposed of as the court may direct.
+
+[[^F108](7) In this section, “public place” has the same meaning as in section 47(4).]
+
+#### [[^F109]49A Offence of having article with blade or point (or offensive weapon) on school premises.
+
+(1) Any person who has an article to which section 49 of this Act applies with him on school premises shall be guilty of an offence.
+
+(2) Any person who has an offensive weapon within the meaning of section 47 of this Act with him on school premises shall be guilty of an offence.
+
+(3) It shall be a defence for a person charged with an offence under subsection (1) or (2) above to [[^F110]show that the person had a reasonable excuse] or lawful authority for having the article or weapon with him on the premises in question.
+
+(4) Without prejudice to the generality of subsection (3) above, it shall be a defence for a person charged with an offence under subsection (1) or (2) above to [[^F111]show] that he had the article or weapon in question with him—
+
+(a) for use at work,
+
+(b) for educational purposes,
+
+(c) for religious reasons, or
+
+(d) as part of any national costume.
+
+(5) A person guilty of an offence—
+
+(a) under subsection (1) above shall be liable—
+
+(i) on summary conviction to imprisonment for a term not exceeding [[^F112]twelve] months, or a fine not exceeding the statutory maximum, or both;
+
+(ii) on conviction on indictment, to imprisonment for a term not exceeding [[^F113]5] years, or a fine, or both;
+
+(b) under subsection (2) above shall be liable—
+
+(i) on summary conviction, to imprisonment for a term not exceeding six months, or a fine not exceeding the statutory maximum, or both;
+
+(ii) on conviction on indictment, to imprisonment for a term not exceeding [[^F114]5] years, or a fine, or both.
+
+(6) In this section and section 49B of this Act, “school premises” means land used for the purposes of a school excluding any land occupied solely as a dwelling by a person employed at the school; and “school” has the meaning given by section 135(1) of the [^M22]Education (Scotland) Act 1980.]
+
+#### [^F115]49B [ Power of entry to search for articles with a blade or point and offensive weapons.
+
+(1) A constable may enter school premises and search those premises and any person on those premises for—
+
+(a) any article to which section 49 of this Act applies, or
+
+(b) any offensive weapon within the meaning of section 47 of this Act,
+
+if he has reasonable grounds for suspecting that an offence under section 49A of this Act is being, or has been, committed.
+
+(2) If in the course of a search under this section a constable discovers an article or weapon which he has reasonable grounds for believing to be an article or weapon of a kind described in subsection (1) above, he may seize it.
+
+(3) The constable may use reasonable force, if necessary, in the exercise of the power of entry conferred by this section.]
+
+#### 49C [[^F116]Offence of having offensive weapon etc. in prison
+
+(1) Any person who has with him in a prison—
+
+(a) an offensive weapon, or
+
+(b) any other article which has a blade or is sharply pointed,
+
+commits an offence.
+
+(2) It is a defence for a person charged with an offence under subsection (1) to [[^F117]show that the person had a reasonable excuse] or lawful authority for having the weapon or other article with him in the prison.
+
+(3) A defence under subsection (2) includes, in particular, a defence that the person had the weapon or other article with him in prison—
+
+(a) for use at work,
+
+(b) for religious reasons, or
+
+(c) as part of any national costume.
+
+(4) Where a person is convicted of an offence under subsection (1), the court may make an order for the forfeiture of any weapon or other article to which the offence relates.
+
+(5) Any weapon or other article forfeited under subsection (4) is, subject to section 193 of the Criminal Procedure (Scotland) Act 1995 (c. 46), to be disposed of as the court may direct.
+
+(6) A person guilty of an offence under subsection (1) is liable—
+
+(a) on summary conviction, to imprisonment for a term not exceeding 12 months or a fine not exceeding the statutory maximum or both,
+
+(b) on conviction on indictment, to imprisonment for a term not exceeding [[^F118]5] years or a fine or both.
+
+(7) In this section—
+
+- “offensive weapon” has the meaning given by section 47(4),
+
+- “prison” includes—
+
+  - (a) any prison other than a naval, military or air force prison,
+  - (b) [^F119]...
+  - (c) a young offenders institution (within the meaning of paragraph (b) of that subsection), and
+  - (d) secure accommodation within the meaning of section 93(1) of the Children (Scotland) Act 1995 (c. 36).]
+
+#### 50 Extension of constable’s power to stop, search and arrest without warrant.
+
+(1) Where a constable has reasonable grounds for suspecting that a person has with him an article to which section 49 of this Act applies and has committed or is committing an offence under subsection (1) of that section, the constable may search that person without warrant and detain him for such time as is reasonably required to permit the search to be carried out.
+
+(2) A constable who detains a person under subsection (1) above shall inform him of the reason for his detention.
+
+[^F120]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) Any person who—
+
+(a) intentionally obstructs a constable in the exercise of the constable’s powers under subsection (1) above; or
+
+(b) conceals from a constable acting in the exercise of those powers an article to which section 49 of this Act applies,
+
+shall be guilty of an offence and liable on summary conviction to a fine not exceeding level [[^F121]4] on the standard scale.
+
+[^F122]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [[^F123] Racially-aggravated harassment]
+
+#### [^F124]50A Racially-aggravated harassment.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Reset
+
+#### 51 Reset.
+
+Criminal resetting of property shall not be limited to the receiving of property taken by theft or robbery, but shall extend to the receiving of property appropriated by breach of trust and embezzlement and by falsehood, fraud and wilful imposition.
+
+### Vandalism
+
+#### 52 Vandalism.
+
+(1) Subject to subsection (2) below, any person who, without reasonable excuse, wilfully or recklessly destroys or damages any property belonging to another shall be guilty of the offence of vandalism.
+
+(2) It shall not be competent to charge acts which constitute the offence of wilful fire-raising as vandalism under this section.
+
+(3) Any person convicted of the offence of vandalism shall be liable on summary conviction—
+
+(a) in the district court, to imprisonment for a term not exceeding 60 days, or to a fine not exceeding level 3 on the standard scale, or to both;
+
+(b) in the sheriff court—
+
+(i) for a first such offence, to imprisonment for a term not exceeding 3 months, or to a fine not exceeding the prescribed sum (within the meaning of section 225(8) of the [^M23]Criminal Procedure (Scotland) Act 1995), or to both; and
+
+(ii) for any subsequent such offence, to imprisonment for a term not exceeding 6 months, or to the fine mentioned in sub-paragraph (i) above, or to both.
+
+### General
+
+#### 53 Short title, commencement and extent.
+
+(1) This Act may be cited as the Criminal Law (Consolidation) (Scotland) Act 1995.
+
+(2) This Act shall come into force on 1 April 1996.
+
+(3) Subject to subsection (4) below, this Act extends only to Scotland.
+
+(4) Section 35(10) to (12) of this Act extends also to England and Wales and sections 27 to 29 of this Act and this section extend also to England and Wales and Northern Ireland.
+
+## TABLE OF DERIVATIONS
+
+### Notes:
+
+#### 1
+
+This Table shows the derivation of the provisions of the Act.
+
+#### 2
+
+The following abbreviations are used in the Table:—
+
+|  |  |
+|---|---|
+| 1933 | = False Oaths (Scotland) Act 1933 (c. 20) |
+| 1976 | = Sexual Offences (Scotland) Act 1976 (c. 67) |
+| 1980 | = Criminal Justice (Scotland) Act 1980 (c. 62) |
+| 1987 | = Criminal Justice (Scotland) Act 1987 (c. 41) |
+| 1988 | = Criminal Justice Act 1988 (c. 33) |
+| 1993 | = Criminal Justice Act 1993 (c. 36) |
+| 1994 | = Drug Trafficking Act 1994 (c. 37) |
+| 1995 | = Criminal Justice (Scotland) Act 1995 (1995 c. 20) |
+| 1995CP | = Criminal Justice (Consequential Provisions) (Scotland) Act (1995 c. 40) |
+| 1995CLC | = Criminal Law (Consolidation) (Scotland) Act 1995 (1995 c. 39) |
+
+|  |  |
+|---|---|
+| Provision | Derivation |
+| 1 | 1976 s.2A; Incest and Related Offences (Scotland) Act 1986 (c. 36) s.1 |
+| 2 | 1976 s.2B; Incest and Related Offences (Scotland) Act 1986 (c. 36) s.1 |
+| 3 | 1976 s.2C; Incest and Related Offences (Scotland) Act 1986 (c. 36) s.1 |
+| 4 | 1976 s.2D; Incest and Related Offences (Scotland) Act 1986 (c. 36) s.1; 1987 Sch.2 |
+| 5(1), (2) | 1976 s.3 |
+| (3) — (7) | 1976 s.4; Incest and Related Offences (Scotland) Act 1986 (c. 36) Sch.1 §.4; Criminal Justice (Scotland) Act 1995 (c. 20) Sch.6 §. |
+| 6 | 1976 s.5 |
+| 7(1) | 1976 s.1 |
+| (2), (3) | 1976 s.2 |
+| (4) | 1976 s.17 |
+| 8(1), (2) | 1976 s.8 |
+| (3) — (5) | 1976 s.9 |
+| 9 | 1976 s.10 |
+| 10 | 1976 s.11 |
+| 11(1) — (4) | 1976 s.12 |
+| (5), (6) | 1976 s.13(1) |
+| 12 | 1976 s.14; Criminal Procedure (Scotland) Act 1975 (c. 21) Sch.7A; Criminal Law Act 1977 (c. 45) Sch.11 |
+| 13 | 1980 s.80; Mental Health (Scotland) Act 1984 (c. 36) Sch.5; Criminal Justice and Public Order Act 1994 (c. 33) ss.145(2), 146(2) |
+| 14 | 1976 s.15 |
+| 15 | 1976 s.6 |
+| 16 | 1976 s.18 |
+| 17 | 1976 s.19 |
+| 18 | 1980 s.68; Sporting Events (Control of Alcohol etc.) Act 1985 (c.57) s.10 |
+| 19(1) | 1980 s.69 |
+| (2) | 1980 s.70 |
+| (3) — (6) | 1980 s.70A; Public Order Act 1986 (c. 64) Sch.1 §.10 |
+| (7) | 1980 s.71; Public Order Act 1986 (c. 64) Sch.1 §.11 |
+| 20(1) | 1980 s.72(1) |
+| (2) | 1980 s.73 |
+| (3) — (6) | 1980 s.72A(1) — (4); Public Order Act 1986 (c. 64) Sch.1 §.14 |
+| (7) | 1980 s.74 |
+| (8) | 1980 ss.72(2), (3), 72A(5); Public Order Act 1986 (c. 64) Sch.1 §.14 |
+| 21 | 1980 s.75; Public Order Act 1986 (c. 64) Sch.1 §.12 |
+| 22 | 1980 s.76; Law Reform (Miscellaneous Provisions) (Scotland) Act 1990 (c. 40) Sch.8 §.30 |
+| 23 | 1980 s.77; Sporting Events (Control of Alcohol etc.) Act 1985 (c.57) s.10; Public Order Act 1986 (c. 64) Sch.1 §.13 |
+| 24 | 1987 s.48; Criminal Justice and Public Order Act 1994 (c. 33) s.129(4), (5) |
+| 25 | 1987 s.49; Criminal Justice and Public Order Act 1994 (c. 33) s.129(6); Children (Scotland) Act 1995 (c. 36) Sch.3 §.[39] |
+| 26 | 1987 s.50 |
+| 27 | 1987 s.51; Criminal Justice and Public Order Act 1994 (c. 33) s.164(3) |
+| 28 | 1987 s.52; 1988 Sch.15 §.117; Criminal Justice and Public Order Act 1994 (c. 33) s.164(4) |
+| 29 | 1987 s.53 |
+| 30 | 1987 s.54; 1988 Sch.15 §.111; S.I. 1989/2405 Sch.9 Pt. II §.58 |
+| 31 | 1987 s.38; 1988 Sch.5 §.23 |
+| 32 | 1987 s.39 |
+| 33 | 1987 s.40 |
+| 34 | 1987 s.40A; 1993 s.20(2) |
+| 35 | 1987 s.41 |
+| 36 | 1987 s.42; 1993 s.26(2) |
+| 37 | 1987 s.42A; 1993 s.17(1) |
+| 38 | 1987 s.43; 1993 s.19(2), (3) |
+| 39 | 1987 s.43A; 1993 s.19(1) |
+| 40 | 1987 s.43B; 1993 s.19(1) |
+| 41 | 1987 s.44 |
+| 42 | 1987 s.46A; 1993 Sch.4 §.2 |
+| 43 | 1987 s.47(1)(part) — (4) |
+| 44(1) | 1933 s.1; Criminal procedure (Scotland) Act 1975 s.221(1) |
+| (2) | 1933 s.2; Evidence (Proceedings in Other Jurisdictions) Act 1975 (c. 35) Sch.1 |
+| (3) | 1933 s.3 |
+| (4) | Criminal Justice (Scotland) Act 1949 (c. 94) s.42(1) |
+| 45(1), (2) | 1933 s.4 |
+| (3) — (5) | 1933 s.6 |
+| 46(1) | 1933 s.7(1) |
+| (2) | 1933 s.5 |
+| (3) | Criminal Justice (Scotland) Act 1949 (c. 94) s.42(2) |
+| (4) | 1933 s.7(2) |
+| 47 | Prevention of Crime Act 1953 (c. 14) s.1; Criminal Procedure (Scotland) Act 1975 (c. 21) ss. 193A, 298B; Roads (Scotland) Act 1984 (c. 54) Sch.9 §.42; Criminal Justice Act 1988 (c. 33) Sch.8 §.16 |
+| 48 | 1980 s.4 |
+| 49 | Carrying of Knives (Scotland) Act 1993 (c. 13) s.1; Council Directive 80/181 (Approximation of Laws Relating to Units of Measurement) |
+| 50 | Carrying of Knives (Scotland) Act 1993 (c. 13) s.2 |
+| 51 | Criminal Procedure (Scotland) Act 1975 (c. 21) s.59 |
+| 52 | 1980 s.78 |
+| 53(1), (2) | Drafting |
+| (3), (4) | 1987 s.72(1), (4) |
+
+---
+
+[^F1]: S. 1(1) Table: para. 3 inserted (6.4.2009 for specified purposes and otherwise 1.9.2009) by Human Fertilisation and Embryology Act 2008 (c. 22), ss. 56, 68(2), Sch. 6 para. 55; S.I. 2009/479, art. 6(1)(e)(2) (as amended by S.I. 2009/2232, art. 3)
+[^F2]: S. 3 repealed (1.12.2010) by Sexual Offences (Scotland) Act 2009 (asp 9), ss. 61(2), 62(2), sch. 6; S.S.I. 2010/357, art. 2(a)
+[^F3]: S. 4: words in section title substituted (1.12.2010) by Sexual Offences (Scotland) Act 2009 (asp 9), ss. 61(1), 62(2), sch. 5 para. 1(3); S.S.I. 2010/357, art. 2(a)
+[^F4]: Words in s. 4(1)(5) substituted (1.12.2010) by Sexual Offences (Scotland) Act 2009 (asp 9), ss. 61(1), 62(2), sch. 5 para. 1(2); S.S.I. 2010/357, art. 2(a)
+[^M1]: 1995 c.46.
+[^M2]: 1968 c.49.
+[^F5]: S. 5 repealed (1.12.2010) by Sexual Offences (Scotland) Act 2009 (asp 9), ss. 61(2), 62(2), sch. 6; S.S.I. 2010/357, art. 2(a)
+[^F6]: S. 6 repealed (1.12.2010) by Sexual Offences (Scotland) Act 2009 (asp 9), ss. 61(2), 62(2), sch. 6; S.S.I. 2010/357, art. 2(a)
+[^F7]: S. 7(2)(3) repealed (1.12.2010) by Sexual Offences (Scotland) Act 2009 (asp 9), ss. 61(2), 62(2), sch. 6; S.S.I. 2010/357, art. 2(a)
+[^F8]: S. 7(4) repealed (25.1.2018) by Criminal Justice (Scotland) Act 2016 (asp 1), sch. 2 para. 12(a); S.S.I. 2017/345, art. 3, sch.
+[^F9]: S. 8(1)(2) repealed (27.6.2003) by Criminal Justice (Scotland) Act 2003 (asp 7), ss. 19(2)(a), 89; S.S.I. 2003/288, art. 2, Sch.
+[^F10]: Words in s. 9(2) inserted (1.12.2010) by Sexual Offences (Scotland) Act 2009 (asp 9), ss. 61(1), 62(2), sch. 5 para. 1(4)(a)(i); S.S.I. 2010/357, art. 2(a)
+[^F11]: Words in s. 9(2) omitted (1.12.2010) by Sexual Offences (Scotland) Act 2009 (asp 9), ss. 61(1), 62(2), sch. 5 para. 1(4)(a)(ii); S.S.I. 2010/357, art. 2(a)
+[^F12]: S. 9(2A) inserted (1.12.2010) by Sexual Offences (Scotland) Act 2009 (asp 9), ss. 61(1), 62(2), sch. 5 para. 1(4)(b); S.S.I. 2010/357, art. 2(a)
+[^F13]: Word in s. 9(2A)(a) repealed (13.12.2010 for specified purposes) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), ss. 71(1), 206(1), sch. 4 para. 11(2)(a); S.S.I. 2010/413, art. 2, Sch.
+[^F14]: S. 9(2A)(aa) inserted (13.12.2010 for specified purposes) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), ss. 71(1), 206(1), sch. 4 para. 11(2)(b); S.S.I. 2010/413, art. 2, Sch.
+[^F15]: Words in s. 9(2A)(aa) inserted (31.12.2020) by The Criminal Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/339), regs. 1(3), 12 (with reg. 16)
+[^F16]: Words in s. 9(3) substituted (1.12.2010) by Sexual Offences (Scotland) Act 2009 (asp 9), ss. 61(1), 62(2), sch. 5 para. 1(4)(c); S.S.I. 2010/357, art. 2(a)
+[^F17]: Word in s. 9(3)(a) repealed (13.12.2010 for specified purposes) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), ss. 71(1), 206(1), sch. 4 para. 11(3)(a); S.S.I. 2010/413, art. 2, Sch.
+[^F18]: S. 9(3)(aa) inserted (13.12.2010 for specified purposes) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), ss. 71(1), 206(1), sch. 4 para. 11(3)(b); S.S.I. 2010/413, art. 2, Sch.
+[^M3]: 1995 c.36.
+[^F19]: Words in s. 10(3) substituted (1.12.2010) by Sexual Offences (Scotland) Act 2009 (asp 9), ss. 61(1), 62(2), sch. 5 para. 1(5); S.S.I. 2010/357, art. 2(a)
+[^F20]: Words in s. 11(1) substituted (13.12.2010 for specified purposes) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), ss. 45(2)(a), 206(1); S.S.I. 2010/413, art. 2, Sch.
+[^F21]: S. 11(1A) inserted (13.12.2010 for specified purposes) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), ss. 45(2)(b), 206(1); S.S.I. 2010/413, art. 2, Sch.
+[^F22]: Words in s. 11(4) substituted (13.12.2010 for specified purposes) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), ss. 45(2)(c), 206(1); S.S.I. 2010/413, art. 2, Sch.
+[^F23]: S. 11(6) substituted (13.12.2010 for specified purposes) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), ss. 45(2)(d), 206(1); S.S.I. 2010/413, art. 2, Sch.
+[^M4]: 1995 c.36.
+[^F24]: S. 12A inserted (1.12.2010) by Sexual Offences (Scotland) Act 2009 (asp 9), ss. 61(1), 62(2), sch. 5 para. 1(6); S.S.I. 2010/357, art. 2(a)
+[^F25]: Cross-heading substituted (1.12.2010) by virtue of Sexual Offences (Scotland) Act 2009 (asp 9), ss. 61(1), 62(2), sch. 5 para. 1(7); S.S.I. 2010/357, art. 2(a)
+[^F26]: S. 13: section title substituted (1.12.2010) by Sexual Offences (Scotland) Act 2009 (asp 9), ss. 61(1), 62(2), sch. 5 para. 1(8); S.S.I. 2010/357, art. 2(a)
+[^F27]: S. 13(1)-(8A) repealed (1.12.2010) by Sexual Offences (Scotland) Act 2009 (asp 9), ss. 61(2), 62(2), sch. 6; S.S.I. 2010/357, art. 2(a)
+[^F28]: S. 13(3) repealed (5.10.2005) by Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13), ss. 331(2), 333, sch. 5 Pt. 1; S.S.I. 2005/161, art. 3 (as amended by S.S.I. 2005/375, art. 2)
+[^F29]: Words in s. 13(9) omitted (1.12.2010) by Sexual Offences (Scotland) Act 2009 (asp 9), ss. 61(1), 62(2), sch. 5 para. 1(9); S.S.I. 2010/357, art. 2(a)
+[^F30]: S. 13(9)(a)(b) substituted (13.12.2010 for specified purposes) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), ss. 45(3), 206(1); S.S.I. 2010/413, art. 2, Sch.
+[^F31]: S. 13(10)(11) repealed (1.12.2010) by Sexual Offences (Scotland) Act 2009 (asp 9), ss. 61(2), 62(2), sch. 6; S.S.I. 2010/357, art. 2(a)
+[^F32]: S. 14 repealed (1.12.2010) by Sexual Offences (Scotland) Act 2009 (asp 9), ss. 61(2), 62(2), sch. 6; S.S.I. 2010/357, art. 2(a)
+[^F33]: S. 15 repealed (27.6.2003) by Criminal Justice (Scotland) Act 2003 (asp 7), ss. 19(2)(b), 89; S.S.I. 2003/288, art. 2, Sch.
+[^F34]: S. 16 repealed (28.3.2011) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), s. 206(1), sch. 7 para. 22; S.S.I. 2011/178, art. 2, sch.
+[^F35]: S. 16A repealed (1.12.2010) by Sexual Offences (Scotland) Act 2009 (asp 9), ss. 61(2), 62(2), sch. 6; S.S.I. 2010/357, art. 2(a)
+[^F36]: S. 16B repealed (1.12.2010) by Sexual Offences (Scotland) Act 2009 (asp 9), ss. 61(2), 62(2), sch. 6; S.S.I. 2010/357, art. 2(a)
+[^F37]: Words in s. 19(1) substituted (1.9.2009 at 5:00 am) by The Licensing (Scotland) Act 2005 (Consequential Provisions) Order 2009 (S.S.I. 2009/248), arts. 1(1), 2(1), {Sch. 1 para. 5(2)}
+[^F38]: Words in s. 19(2) repealed (1.9.2009 at 5.00 am) by Licensing (Scotland) Act 2005 (asp 16), ss. 149, 150, sch. 7; S.S.I. 2007/472, art. 3 and the same words repealed (1.9.2009 at 5:00 am) by The Licensing (Scotland) Act 2005 (Consequential Provisions) Order 2009 (S.S.I. 2009/248), arts. 1(1), 2(2), {Sch. 2}
+[^F39]: Word in s. 19(3) substituted (1.8.1997) by 1997 c. 48, s. 62(1), Sch. 1 para. 18(4); S.I. 1997/1712, art. 3, Sch.
+[^F40]: S. 20(3) repealed (6.6.2023) by The Fireworks and Pyrotechnic Articles (Scotland) Act 2022 (Consequential Modifications, Saving and Transitional Provisions) Regulations 2023 (S.S.I. 2023/157), regs. 1(1), 2(a) (with reg. 3)
+[^F41]: S. 20(4) repealed (6.6.2023) by The Fireworks and Pyrotechnic Articles (Scotland) Act 2022 (Consequential Modifications, Saving and Transitional Provisions) Regulations 2023 (S.S.I. 2023/157), regs. 1(1), 2(a) (with reg. 3)
+[^F42]: S. 20(5) repealed (6.6.2023) by The Fireworks and Pyrotechnic Articles (Scotland) Act 2022 (Consequential Modifications, Saving and Transitional Provisions) Regulations 2023 (S.S.I. 2023/157), regs. 1(1), 2(a) (with reg. 3)
+[^F43]: S. 20(6) repealed (6.6.2023) by The Fireworks and Pyrotechnic Articles (Scotland) Act 2022 (Consequential Modifications, Saving and Transitional Provisions) Regulations 2023 (S.S.I. 2023/157), regs. 1(1), 2(a) (with reg. 3)
+[^F44]: Words in s. 20(8) repealed (6.6.2023) by The Fireworks and Pyrotechnic Articles (Scotland) Act 2022 (Consequential Modifications, Saving and Transitional Provisions) Regulations 2023 (S.S.I. 2023/157), regs. 1(1), 2(b) (with reg. 3)
+[^F45]: S. 20(8): words in definition of "controlled container" inserted (1.10.2006) by The Veterinary Medicines Regulations 2006 (S.I. 2006/2407), reg. 44(3), Sch. 9 Pt. 1 para. 11(a) (with regs. 2(4), 3)
+[^M5]: 1968 c.67.
+[^F46]: S. 20(8): definition of "veterinary medicinal product" inserted (1.10.2006) by The Veterinary Medicines Regulations 2006 (S.I. 2006/2407), reg. 44(3), Sch. 9 Pt. 1 para. 11(b) (with regs. 2(4), 3)
+[^F47]: S. 21(e)(iii) and word preceding it inserted (1.8.1997) by 1997 c. 48, s. 62(1), Sch. 1 para. 18(5); S.I. 1997/1712, art. 3, Sch.
+[^F48]: Words in s. 22 substituted (1.9.2009 at 5.00 am) by Licensing (Scotland) Act 2005 (asp 16), ss. 144, 150, sch. 6 para. 7(2); S.S.I. 2007/472, art. 3
+[^F49]: S. 23: definition of "alcohol" substituted (1.9.2009 at 5.00 am) by Licensing (Scotland) Act 2005 (asp 16), ss. 144, 150, sch. 6 para. 7(3); S.S.I. 2007/472, art. 3 and the same definition substituted (1.9.2009 at 5:00 am) by virtue of The Licensing (Scotland) Act 2005 (Consequential Provisions) Order 2009 (S.S.I. 2009/248), art. 2(1), {Sch. 1 para. 5(3)}
+[^M6]: 1985 c.57.
+[^M7]: 1994 c.22.
+[^F50]: Definition inserted (1.8.1997) by 1997 c. 48, s. 62(1), Sch. 1 para. 18(6); S.I. 1997/1712, art. 3, Sch.
+[^F51]: Word in s. 23 substituted (28.3.2011) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), s. 206(1), sch. 7 para. 23; S.S.I. 2011/178, art. 2, sch.
+[^M8]: 1981 c.14.
+[^F52]: S. 23: definition of "railway vehicle" substituted (1.9.2009 at 5:00 am) by The Licensing (Scotland) Act 2005 (Consequential Provisions) Order 2009 (S.S.I. 2009/248), art. 2(1), {Sch. 1 para. 5(3)}
+[^F53]: Pt. 3 heading substituted (1.12.2007) by virtue of Finance Act 2007 (c. 11), s. 85, Sch. 23 paras. 2, 14; S.I. 2007/3166, art. 3
+[^F54]: Ss. 23A-23P and cross-headings inserted (1.12.2007) by Finance Act 2007 (c. 11), s. 85, Sch. 23 paras. 3, 14; S.I. 2007/3166, art. 3
+[^F55]: Words in s. 23A(2) omitted (27.4.2017 for specified purposes, 27.6.2017 in so far as not already in force) by virtue of Criminal Finances Act 2017 (c. 22), ss. 18(2)(a), 58(4)(6)
+[^F56]: S. 23A(3) omitted (27.4.2017 for specified purposes, 27.6.2017 in so far as not already in force) by virtue of Criminal Finances Act 2017 (c. 22), ss. 18(2)(b), 58(4)(6)
+[^F57]: S. 23P(3) repealed (25.1.2018) by The Criminal Justice (Scotland) Act 2016 (Consequential Provisions) Order 2018 (S.I. 2018/46), arts. 2(2)(c), 16(3) (with art. 16(2))
+[^F58]: S. 24: heading substituted (1.12.2007) by virtue of Finance Act 2007 (c. 11), s. 85, Sch. 23 paras. 4(f), 14; S.I. 2007/3166, art. 3
+[^F59]: Words in s. 24 substituted (25.6.2013) by Crime and Courts Act 2013 (c. 22), s. 61(2), Sch. 21 para. 45(2) (with Sch. 21 paras. 40, 49(1)); S.I. 2013/1042, art. 4(l)
+[^F60]: Ss. 24-25A repealed (25.1.2018) by The Criminal Justice (Scotland) Act 2016 (Consequential Provisions) Order 2018 (S.I. 2018/46), arts. 2(2)(c), 16(4) (with art. 16(2))
+[^X1]: The insertion of the new heading "Detention and questioning of suspects and witnesses" in Pt. III on 1.12.2007 gives rise to a change in the structure of this legislation on SLD which breaks the continuity of historical versions of the existing provisions which are now brought under that new heading.
+[^F61]: Words in s. 26 substituted (1.12.2007) by Finance Act 2007 (c. 11), s. 85, Sch. 23 paras. 6, 14; S.I. 2007/3166, art. 3
+[^F62]: S. 26(7A)-(7D) substituted for s. 26(8)-(10) (25.1.2018) by The Criminal Justice (Scotland) Act 2016 (Consequential Provisions) Order 2018 (S.I. 2018/46), arts. 2(2)(c), 16(5) (with art. 16(2))
+[^M9]: 1971 c. 38.
+[^M10]: 1979 c. 2.
+[^F63]: Definition in s. 26(11) substituted (1.8.1997) by 1997 c. 48, s. 62(1), Sch. 1 para. 18(7); S.I. 1997/1712, art. 3, Sch.
+[^F64]: Ss. 26A, 26B and cross-headings inserted (1.12.2007) by Finance Act 2007 (c. 11), s. 85, Sch. 23 paras. 7, 14; S.I. 2007/3166, art. 3
+[^F65]: S. 26A repealed (25.1.2018) by The Criminal Justice (Scotland) Act 2016 (Consequential Provisions) Order 2018 (S.I. 2018/46), arts. 2(2)(c), 16(6) (with art. 16(2))
+[^F66]: Words in s. 26B(1) repealed (25.1.2018) by The Criminal Justice (Scotland) Act 2016 (Consequential Provisions) Order 2018 (S.I. 2018/46), arts. 2(2)(c), 16(7)(a) (with art. 16(2))
+[^F67]: Words in s. 26B(1) omitted (12.7.2016) by virtue of Immigration Act 2016 (c. 19), ss. 56(6), 94(1); S.I. 2016/603, reg. 3(i)
+[^F68]: Words in s. 26B(1) substituted (25.1.2018) by The Criminal Justice (Scotland) Act 2016 (Consequential Provisions) Order 2018 (S.I. 2018/46), arts. 2(2)(c), 16(7)(b) (with art. 16(2))
+[^F69]: Words in s. 26B(2) substituted (25.6.2013) by Crime and Courts Act 2013 (c. 22), s. 61(2), Sch. 21 para. 48(b) (with Sch. 21 para. 40); S.I. 2013/1042, art. 4(l)
+[^F70]: S. 26B(2)(b) and word repealed (25.1.2018) by The Criminal Justice (Scotland) Act 2016 (Consequential Provisions) Order 2018 (S.I. 2018/46), arts. 2(2)(c), 16(7)(c) (with art. 16(2))
+[^F71]: S. 26C inserted (21.7.2009) by Borders, Citizenship and Immigration Act 2009 (c. 11), ss. 24(1), 58(1) (with s. 36(4))
+[^F72]: S. 27(2) substituted (31.12.2020) by The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742), regs. 1, 78 (with reg. 84) ( as amended by S.I. 2020/1408, regs. 1, 27); 2020 c. 1, Sch. 5 para. 1(1)
+[^F73]: S. 28(5A) inserted ((E.W.N.I.) 14.4.2000 and (S.) 1.1.2001) by 1999 c. 23, s. 59, Sch. 3 para. 25 (with Sch. 7 para. 5(2)); S.I. 2000/1034, art. 2; S.S.I. 2000/445, art. 2
+[^F74]: Words in s. 28(8) substituted (26.4.2004) by Crime (International Co-operation) Act 2003 (c. 32), ss. 91(1), 94, Sch. 5 para. 63(a); S.I. 2004/786, art. 3
+[^F75]: S. 28(9) repealed (26.4.2004) by Crime (International Co-operation) Act 2003 (c. 32), ss. 91, 94, Sch. 5 para. 63(b), Sch. 6; S.I. 2004/786, art. 3
+[^F76]: Words in s. 28(10) substituted (26.4.2004) by Crime (International Co-operation) Act 2003 (c. 32), ss. 91(1), 94, {Sch. 5 par. 63(c)}; S.I. 2004/786, art. 3
+[^F77]: Words in s. 30(1) substituted (18.4.2005) by Commissioners for Revenue and Customs Act 2005 (c. 11), ss. 50, 53, Sch. 4 para. 63(2)(a); S.I. 2005/1126, art. 2(2)(h)
+[^F78]: Words in s. 30(1) substituted (18.4.2005) by Commissioners for Revenue and Customs Act 2005 (c. 11), ss. 50, 53, Sch. 4 para. 63(2)(b); S.I. 2005/1126, art. 2(2)(h)
+[^F79]: Words in s. 30(1) substituted (18.4.2005) by Commissioners for Revenue and Customs Act 2005 (c. 11), ss. 50, 53, Sch. 4 para. 63(2)(c); S.I. 2005/1126, art. 2(2)(h)
+[^F80]: Words in s. 30(2) substituted (18.4.2005) by Commissioners for Revenue and Customs Act 2005 (c. 11), ss. 50, 53, Sch. 4 para. 63(3); S.I. 2005/1126, art. 2(2)(h)
+[^M11]: 1985 c.6.
+[^F81]: Words in s. 30(5)(a) omitted (1.10.2009) by virtue of The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941), art. 2(1), Sch. 1 para. 156
+[^F82]: S. 30(5)(e)(f) substituted (1.12.2001) for s. 30(5)(e)-(l) by S.I. 2001/3649, arts. 1, 234
+[^F83]: S. 30(7) added by (18.4.2005) Commissioners for Revenue and Customs Act 2005 (c. 11), ss. 50, 53, Sch. 4 para. 63(4); S.I. 2005/1126, art. 2(2)(h)
+[^F84]: Pt. V (ss. 31-43) repealed (24.2.2003 in relation to specified provisions and 24.3.2003 otherwise) by 2002 c. 29, ss. 457, 458(1), Sch. 12; S.I. 2003/120, art. 2, Sch. (subject to arts. 3-7 (as amended by S.I. 2003/333, art. 14)); S.S.I. 2003/210, art. 2, Sch. (subject to arts. 3-7)
+[^F85]: Ss. 31-40, 42 repealed (24.2.2003) by 2002 c. 29, ss. 457, 458(1), Sch. 12; S.I. 2003/120, art. 2, Sch. (subject to arts. 3-7 (as amended by S.I. 2003/333, art. 14))
+[^F86]: Ss. 31-40, 42 repealed (24.2.2003) by 2002 c. 29, ss. 457, 458(1), Sch. 12; S.I. 2003/120, art. 2, Sch. (subject to arts. 3-7 (as amended by S.I. 2003/333, art. 14))
+[^F87]: Ss. 31-40, 42 repealed (24.2.2003) by 2002 c. 29, ss. 457, 458(1), Sch. 12; S.I. 2003/120, art. 2, Sch. (subject to arts. 3-7 (as amended by S.I. 2003/333, art. 14))
+[^F88]: Ss. 31-40, 42 repealed (24.2.2003) by 2002 c. 29, ss. 457, 458(1), Sch. 12; S.I. 2003/120, art. 2, Sch. (subject to arts. 3-7 (as amended by S.I. 2003/333, art. 14))
+[^F89]: Ss. 31-40, 42 repealed (24.2.2003) by 2002 c. 29, ss. 457, 458(1), Sch. 12; S.I. 2003/120, art. 2, Sch. (subject to arts. 3-7 (as amended by S.I. 2003/333, art. 14))
+[^F90]: Ss. 31-40, 42 repealed (24.2.2003) by 2002 c. 29, ss. 457, 458(1), Sch. 12; S.I. 2003/120, art. 2, Sch. (subject to arts. 3-7 (as amended by S.I. 2003/333, art. 14))
+[^F91]: Ss. 31-40, 42 repealed (24.2.2003) by 2002 c. 29, ss. 457, 458(1), Sch. 12; S.I. 2003/120, art. 2, Sch. (subject to arts. 3-7 (as amended by S.I. 2003/333, art. 14))
+[^F92]: Ss. 31-40, 42 repealed (24.2.2003) by 2002 c. 29, ss. 457, 458(1), Sch. 12; S.I. 2003/120, art. 2, Sch. (subject to arts. 3-7 (as amended by S.I. 2003/333, art. 14))
+[^F93]: Ss. 31-40, 42 repealed (24.2.2003) by 2002 c. 29, ss. 457, 458(1), Sch. 12; S.I. 2003/120, art. 2, Sch. (subject to arts. 3-7 (as amended by S.I. 2003/333, art. 14))
+[^F94]: Ss. 31-40, 42 repealed (24.2.2003) by 2002 c. 29, ss. 457, 458(1), Sch. 12; S.I. 2003/120, art. 2, Sch. (subject to arts. 3-7 (as amended by S.I. 2003/333, art. 14))
+[^M12]: 1995 c.46.
+[^M13]: 1995 c.43.
+[^F95]: Ss. 31-40, 42 repealed (24.2.2003) by 2002 c. 29, ss. 457, 458(1), Sch. 12; S.I. 2003/120, art. 2, Sch. (subject to arts. 3-7 (as amended by S.I. 2003/333, art. 14))
+[^M14]: 1947 c.44.
+[^M15]: 1995 c.43.
+[^M16]: 1995 c.46.
+[^M17]: 1987 c.41.
+[^M18]: 1975 c.34.
+[^F96]: Word in s. 45(1) substituted (1.8.1997) by 1997 c. 48, s. 62(1), Sch. 1 para. 18(8); S.I. 1997/1712, art. 3, Sch.
+[^M19]: 1995 c.46.
+[^M20]: 1835 c.62.
+[^F97]: S. 46A inserted (26.4.2004) by Crime (International Co-operation) Act 2003 (c. 32), ss. 89, 94; S.S.I. 2004/175, art. 2
+[^F98]: Words in s. 47(1) repealed (13.12.2010 for specified purposes) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), ss. 37(2)(a), 206(1); S.S.I. 2010/413, art. 2, Sch.
+[^F99]: Word in s. 47(1)(b) substituted (10.3.2016) by Criminal Justice (Scotland) Act 2016 (asp 1), ss. 84(2), 117(2); S.S.I. 2016/95, art. 2 (with art. 3)
+[^F100]: S. 47(1A) inserted (13.12.2010 for specified purposes) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), ss. 37(2)(b), 206(1); S.S.I. 2010/413, art. 2, Sch.
+[^F101]: S. 47(3) repealed (25.1.2018) by Criminal Justice (Scotland) Act 2016 (asp 1), sch. 2 para. 12(b); S.S.I. 2017/345, art. 3, sch.
+[^F102]: S. 47(4) substituted (13.12.2010 for specified purposes) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), ss. 37(2)(c), 206(1); S.S.I. 2010/413, art. 2, Sch.
+[^F103]: S. 48(3) repealed (25.1.2018) by Criminal Justice (Scotland) Act 2016 (asp 1), sch. 2 para. 12(c); S.S.I. 2017/345, art. 3, sch.
+[^F104]: Word in s. 49(1)(a) substituted (1.9.2006) by Police, Public Order and Criminal Justice (Scotland) Act 2006 (asp 10), ss. 73(2), 104; S.S.I. 2006/432, art. 2(d)
+[^F105]: Word in s. 49(1)(b) substituted (10.3.2016) by Criminal Justice (Scotland) Act 2016 (asp 1), ss. 84(3), 117(2); S.S.I. 2016/95, art. 2 (with art. 3)
+[^F106]: Words in s. 49(4) substituted (13.12.2010 for specified purposes) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), ss. 37(3)(a), 206(1); S.S.I. 2010/413, art. 2, Sch.
+[^F107]: Word in s. 49(5) substituted (13.12.2010 for specified purposes) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), ss. 37(3)(b), 206(1); S.S.I. 2010/413, art. 2, Sch.
+[^M21]: 1995 c.46.
+[^F108]: S. 49(7) substituted (13.12.2010 for specified purposes) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), ss. 37(3)(c), 206(1); S.S.I. 2010/413, art. 2, Sch.
+[^F109]: Ss. 49A, 49B inserted (1.9.1996) by 1996 c. 26, s. 4(3)(4); S.I. 1996/2071, art. 2
+[^F110]: Words in s. 49A(3) substituted (13.12.2010 for specified purposes) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), ss. 37(4)(a), 206(1); S.S.I. 2010/413, art. 2, Sch.
+[^F111]: Word in s. 49A(4) substituted (13.12.2010 for specified purposes) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), ss. 37(4)(b), 206(1); S.S.I. 2010/413, art. 2, Sch.
+[^F112]: Word in s. 49A(5)(a)(i) substituted (1.9.2006) by Police, Public Order and Criminal Justice (Scotland) Act 2006 (asp 10), ss. 73(4), 104; S.S.I. 2006/432, art. 2(d)
+[^F113]: Word in s. 49A(5)(a)(ii) substituted (10.3.2016) by Criminal Justice (Scotland) Act 2016 (asp 1), ss. 84(4)(a), 117(2); S.S.I. 2016/95, art. 2 (with art. 3)
+[^F114]: Word in s. 49A(5)(b)(ii) substituted (10.3.2016) by Criminal Justice (Scotland) Act 2016 (asp 1), ss. 84(4)(b), 117(2); S.S.I. 2016/95, art. 2 (with art. 3)
+[^M22]: 1980 c. 44.
+[^F115]: Ss. 49A, 49B inserted (1.9.1996) by 1996 c. 26, s. 4(3)(4); S.I. 1996/2071, art. 2
+[^F116]: S. 49C inserted (1.11.2007) by Custodial Sentences and Weapons (Scotland) Act 2007 (asp 17), ss. 63, 67(2); S.S.I. 2007/431, art. 3, Sch.
+[^F117]: Words in s. 49C(2) substituted (13.12.2010 for specified purposes) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), ss. 37(5), 206(1); S.S.I. 2010/413, art. 2, Sch.
+[^F118]: Word in s. 49C(6)(b) substituted (10.3.2016) by Criminal Justice (Scotland) Act 2016 (asp 1), ss. 84(5), 117(2); S.S.I. 2016/95, art. 2 (with art. 3)
+[^F119]: S. 49C(7)(b) repealed (28.8.2024) by Children (Care and Justice) (Scotland) Act 2024 (asp 5), s. 38(3), sch. para. 15(2); S.S.I. 2024/211, reg. 2(j)(ii) (with reg. 3)
+[^F120]: S. 50(3) repealed (25.1.2018) by Criminal Justice (Scotland) Act 2016 (asp 1), sch. 2 para. 12(d); S.S.I. 2017/345, art. 3, sch.
+[^F121]: Word in s. 50(4) substituted (13.12.2010) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), ss. 37(6), 206(1); S.S.I. 2010/413, art. 2, Sch.
+[^F122]: S. 50(5) repealed (25.1.2018) by Criminal Justice (Scotland) Act 2016 (asp 1), sch. 2 para. 12(d); S.S.I. 2017/345, art. 3, sch.
+[^F123]: Crossheading inserted (30.9.1998) by 1998 c. 37, s. 33; S.I. 1998/2327, art. 2(x)
+[^F124]: S. 50A repealed (1.4.2024) by Hate Crime and Public Order (Scotland) Act 2021 (asp 14), s. 21(2), sch. 2 para. 2; S.S.I. 2024/82, reg. 2 (with reg. 3)
+[^M23]: 1995 c. 46.

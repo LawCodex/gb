@@ -1,0 +1,728 @@
+---
+title: "Groceries Code Adjudicator Act 2013"
+identifier: "ukpga/2013/19"
+citation: "2013 c. 19"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S+N.I."
+date: 2013-04-25
+last_amended: 2024-01-01
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/2013/19"
+source_modified: 2024-02-21
+retrieved: 2026-10-11
+---
+
+# Groceries Code Adjudicator Act 2013
+
+**2013 c. 19**
+
+An Act to set up a Groceries Code Adjudicator with the role of enforcing the Groceries Code and encouraging compliance with it.
+
+[25th April 2013]
+
+Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## Introduction
+
+### 1 The Adjudicator
+
+A Groceries Code Adjudicator is established (see Schedule 1).
+
+## How does the Adjudicator arbitrate disputes?
+
+### 2 Arbitration
+
+(1) If a supplier refers a dispute to arbitration under the Groceries Supply Order, the Adjudicator must either—
+
+(a) arbitrate the dispute; or
+
+(b) appoint another person to arbitrate.
+
+(2) If a large retailer refers a dispute to arbitration under a supply agreement, the Adjudicator may accept appointment as the arbitrator.
+
+### 3 Information about arbitration
+
+(1) If the Adjudicator appoints another person as arbitrator under section 2(1)(b), the Adjudicator may require the arbitrator, or a party to the dispute, to provide information to assist the Adjudicator in carrying out functions under this Act.
+
+(2) The Adjudicator may enforce the requirement to provide information by bringing civil proceedings to obtain—
+
+(a) in England and Wales or Northern Ireland, an injunction; or
+
+(b) in Scotland, an order for specific performance under section 45 of the Court of Session Act 1988.
+
+## How does the Adjudicator carry out investigations and enforce their findings?
+
+### 4 Investigations
+
+(1) The Adjudicator may investigate whether a large retailer has broken the Groceries Code if the Adjudicator has reasonable grounds to suspect that—
+
+(a) the retailer has broken the Code; or
+
+(b) the retailer has failed to follow a recommendation made under section 7.
+
+(2) For powers to require a person to provide information, see Schedule 2.
+
+(3) The Adjudicator may not carry out an investigation until the guidance required by section 12(1) has been published.
+
+### 5 Investigation reports
+
+(1) Following an investigation the Adjudicator must—
+
+(a) publish a report on the outcome of the investigation; and
+
+(b) consider whether to use any of the enforcement powers mentioned in section 6.
+
+(2) An investigation report must, in particular, specify—
+
+(a) any findings that the Adjudicator has made;
+
+(b) any action that the Adjudicator has taken or proposes to take; and
+
+(c) the reasons for the findings and any action taken or proposed.
+
+(3) It is not necessary for an investigation report to identify the retailer concerned.
+
+(4) If a retailer is identified in a report, the retailer must have been given a reasonable opportunity to comment on a draft of the report before publication.
+
+### 6 Investigations: forms of enforcement
+
+If, as a result of an investigation, the Adjudicator is satisfied that a large retailer has broken the Groceries Code, the Adjudicator may take one or more of the following enforcement measures—
+
+(a) make recommendations;
+
+(b) require information to be published;
+
+(c) impose financial penalties.
+
+### 7 Investigations: enforcement using recommendations
+
+(1) If the Adjudicator chooses to enforce through making recommendations, that means recommending what the large retailer should do in order to comply with the Groceries Code.
+
+(2) The Adjudicator must monitor whether a recommendation has been followed.
+
+(3) For powers to require a person to provide information, see Schedule 2.
+
+### 8 Investigations: enforcement using requirements to publish information
+
+(1) If the Adjudicator chooses to enforce through requiring information to be published, that means requiring the large retailer to publish information relating to the investigation.
+
+(2) The publication requirement is imposed by giving written notice to the large retailer specifying—
+
+(a) what information is to be published;
+
+(b) how it must be published; and
+
+(c) the time by which it must be published.
+
+(3) The Adjudicator may enforce the requirement to publish information by bringing civil proceedings to obtain—
+
+(a) in England and Wales or Northern Ireland, an injunction or any other appropriate remedy or relief; or
+
+(b) in Scotland, an order for specific performance under section 45 of the Court of Session Act 1988 or any other appropriate remedy or relief.
+
+### 9 Investigations: enforcement using financial penalties
+
+(1) If the Adjudicator chooses to enforce through imposing financial penalties, that means imposing a penalty on the large retailer of an amount not exceeding the amount of the permitted maximum (see subsection (6)).
+
+(2) The financial penalty is imposed by giving the large retailer written notice specifying—
+
+(a) the grounds for imposing the penalty;
+
+(b) the amount of the penalty;
+
+(c) the period within which it must be paid; and
+
+(d) how it must be paid.
+
+(3) The large retailer may appeal against the imposition of a financial penalty or its amount—
+
+(a) to the High Court, in England and Wales or Northern Ireland; or
+
+(b) to the Court of Session, in Scotland.
+
+(4) Financial penalties under this section are recoverable by the Adjudicator as a debt.
+
+(5) Financial penalties received by the Adjudicator must be paid into the Consolidated Fund.
+
+(6) The Secretary of State must make an order—
+
+(a) specifying the amount of the permitted maximum, or
+
+(b) specifying how that amount is to be determined.
+
+(7) The Adjudicator must, within 6 months beginning with the day on which section 1 comes into force, make a recommendation as to the amount that should be specified in the first order under subsection (6) or the method for determining the amount.
+
+(8) Before making a recommendation the Adjudicator must consult any person he or she thinks appropriate.
+
+(9) The Secretary of State—
+
+(a) must have regard to the Adjudicator's recommendation when making the first order under subsection (6);
+
+(b) may amend or replace an order under subsection (6) only if the Secretary of State has considered whether to do so as part of a review under section 15.
+
+(10) The Adjudicator may not impose a financial penalty in respect of a breach of the Groceries Code that occurs before the first order under subsection (6) comes into force.
+
+### 10 Recovery of investigation costs
+
+(1) The Adjudicator may require a large retailer to pay some or all of the costs of an investigation (including any costs incurred in exercising the enforcement powers) if satisfied that the retailer has broken the Groceries Code.
+
+(2) The Adjudicator may require a person to pay some or all of the costs of an investigation if the Adjudicator carried out the investigation as a result of a complaint by the person which, the Adjudicator is satisfied, was vexatious or wholly without merit.
+
+(3) A requirement to pay costs is imposed by giving written notice specifying—
+
+(a) the grounds for imposing the requirement to pay costs;
+
+(b) how much is to be paid; and
+
+(c) by when the costs are to be paid.
+
+(4) A person required to pay costs under this section may appeal against the imposition of the requirement or the amount to which it relates—
+
+(a) to the High Court, in England and Wales or Northern Ireland; or
+
+(b) to the Court of Session, in Scotland.
+
+(5) Costs required to be paid under this section are recoverable by the Adjudicator as a debt.
+
+## What advice, guidance and recommendations does the Adjudicator give?
+
+### 11 Advice
+
+The Adjudicator may give advice on any matter relating to the Groceries Code to suppliers or large retailers.
+
+### 12 Guidance
+
+(1) The Adjudicator must publish guidance about—
+
+(a) the criteria that the Adjudicator intends to adopt in deciding whether to carry out investigations;
+
+(b) the practices and procedures that the Adjudicator intends to adopt in carrying out investigations;
+
+(c) the criteria that the Adjudicator intends to adopt in choosing whether to use the enforcement powers and which ones; and
+
+(d) the criteria that the Adjudicator intends to adopt in deciding the amount of any financial penalty under section 9.
+
+(2) In addition, the Adjudicator may publish guidance about the practices and procedures that the Adjudicator intends to adopt in carrying out other functions.
+
+(3) The Adjudicator may publish guidance about—
+
+(a) the application of any provision of the Groceries Code;
+
+(b) steps that large retailers need to take in order to comply with the Groceries Code;
+
+(c) any other matter relating to the Groceries Code.
+
+(4) Before publishing guidance under this section the Adjudicator must consult any persons he or she thinks appropriate.
+
+(5) The Adjudicator must publish the first guidance under subsection (1)(a), (b), (c) and (d) within 6 months beginning with the day on which section 1 comes into force.
+
+(6) Where there is any guidance in force under this section, the Adjudicator must take account of it in carrying out functions.
+
+### 13 Recommendations to [[^F1]Competition and Markets Authority]
+
+If the Adjudicator considers it appropriate for any changes to be made to the Groceries Code, he or she must recommend them to the [[^F1]Competition and Markets Authority].
+
+## What are the Adjudicator's reporting requirements?
+
+### 14 Annual report
+
+(1) After the end of each reporting period the Adjudicator must prepare and publish a report describing what the Adjudicator has done during the period.
+
+(2) The report must include a summary of—
+
+(a) disputes referred to arbitration under the Groceries Supply Order;
+
+(b) investigations carried out by the Adjudicator; and
+
+(c) cases in which the Adjudicator has used the enforcement measures mentioned in section 6.
+
+(3) If the Adjudicator has made recommendations under section 7, the report must include an assessment of whether they have been followed.
+
+(4) The report must set out any recommendations that the Adjudicator has made to the [[^F2]Competition and Markets Authority] for changes to the Groceries Code.
+
+(5) As well as publishing the report, the Adjudicator must send a copy to—
+
+(a) the Secretary of State; and
+
+(b) the [[^F3]Competition and Markets Authority].
+
+(6) The Secretary of State must lay a copy of the report before Parliament.
+
+(7) In this section “reporting period” means—
+
+(a) the period beginning with the day on which section 1 comes into force and ending with the following 31 March; and
+
+(b) each successive period of 12 months.
+
+## How is the Adjudicator supervised?
+
+### 15 Review of Adjudicator and guidance from Secretary of State
+
+(1) The Secretary of State must review the Adjudicator's performance for each review period.
+
+(2) The first review period is the period ending on the first 31 March that is at least 2 years after section 1 comes into force.
+
+(3) Subsequent review periods are each successive period of 3 years after the first review period.
+
+(4) A review must, in particular—
+
+(a) consider how much the Adjudicator's powers have been exercised; and
+
+(b) assess how effective the Adjudicator has been in enforcing the Groceries Code.
+
+(5) The review must also consider whether it would be desirable—
+
+(a) for an order to be made under subsection (11) (if no order under that subsection is in force), or
+
+(b) for any order under that subsection to be revoked.
+
+(6) A review may consider whether it would be desirable to amend or replace the order for the time being in force under section 9(6).
+
+(7) As soon as practicable after a review period, the Secretary of State must—
+
+(a) publish a report of the findings of the review for that period; and
+
+(b) lay a copy of the report before Parliament.
+
+(8) In carrying out a review, the Secretary of State must consult—
+
+(a) the Adjudicator;
+
+(b) the [[^F4]Competition and Markets Authority];
+
+[^F5]c . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(d) the retailers mentioned in Article 4(1)(a) and (b) of the Groceries Supply Order;
+
+(e) one or more persons appearing to the Secretary of State to represent the interests of suppliers;
+
+(f) one or more persons appearing to the Secretary of State to represent the interests of consumers; and
+
+(g) any other person the Secretary of State thinks appropriate.
+
+(9) As a result of the findings of a review, the Secretary of State may give guidance to the Adjudicator about any matter relating to the Adjudicator's functions.
+
+(10) The Adjudicator is to take account of the guidance in carrying out functions.
+
+(11) The Secretary of State may by order provide that this Act has effect as if the section set out in subsection (13) below were inserted after section 4.
+
+(12) An order under subsection (11)—
+
+(a) may be made only if, as a result of the findings of a review, the Secretary of State thinks that making the order would enable the Adjudicator to be more effective;
+
+(b) may be revoked only if, as a result of the findings of a review, the Secretary of State thinks that revoking the order would not impair the Adjudicator's effectiveness.
+
+(13) This is the section referred to in subsection (11)—
+
+> **4A Information that may be considered when deciding whether to investigate**
+>
+> (1) In deciding whether to carry out an investigation the Adjudicator may consider only—
+>
+> (a) information provided by a supplier;
+>
+> (b) information that is publicly available;
+>
+> (c) information provided by a person who obtained the information at a time when the person was a worker employed by the retailer in question or a company in the same group;
+>
+> (d) information provided by the retailer in question about whether it has complied with a recommendation made under section 7.
+>
+> (2) When carrying out an investigation the Adjudicator may consider any information that it seems appropriate to consider and is not limited to considering the information mentioned in subsection (1).
+>
+> (3) In this section—
+>
+> - “group” has the same meaning as in Part 15 of the Companies Act 2006 (see section 474(1) of that Act);
+> - “worker” and “employed” have the same meaning as in Part 4A of the Employment Rights Act 1996 (see sections 43K and 230 of that Act).
+
+### 16 Transfer of Adjudicator functions and abolition etc
+
+(1) The Secretary of State may by order transfer some or all of the Adjudicator's functions to a public body and in deciding whether to do so must take account of the desirability of—
+
+(a) increasing efficiency, effectiveness and economy in the exercise of public functions; and
+
+(b) ensuring appropriate accountability to Ministers in the exercise of public functions.
+
+(2) The Secretary of State may by order abolish the Adjudicator—
+
+(a) if, as a result of the findings of a review, the Secretary of State is satisfied that the Adjudicator has not been sufficiently effective in enforcing the Groceries Code to justify the continued existence of an Adjudicator;
+
+(b) if, as a result of the findings of a review, the Secretary of State is satisfied that it is no longer necessary for there to be an Adjudicator to enforce the Groceries Code;
+
+(c) if the Secretary of State transfers all of the Adjudicator's functions under subsection (1); or
+
+(d) if the Groceries Supply Order is revoked and not replaced.
+
+(3) An order under subsection (2) may include provision transferring the Adjudicator's property, rights and liabilities.
+
+(4) The Secretary of State may by order amend this Act in consequence of any order amending or replacing the Groceries Supply Order.
+
+(5) For the purpose of giving effect to a transfer of functions or to the abolition of the Adjudicator an order under this section may amend or repeal this Act or any other enactment.
+
+### 17 Information to Secretary of State
+
+(1) The Secretary of State may require the Adjudicator to provide information to assist the Secretary of State in carrying out functions under this Act.
+
+(2) The requirement to provide information to the Secretary of State does not override section 18.
+
+## How does the Adjudicator handle information?
+
+### 18 Confidentiality
+
+(1) The Adjudicator may not make an unauthorised disclosure of information relating to an arbitration under the Groceries Supply Order or under a supply agreement if—
+
+(a) the information identifies a party to the arbitration; or
+
+(b) the Adjudicator thinks that the identity of a party to the arbitration could be deduced from it.
+
+(2) The Adjudicator may not make an unauthorised disclosure of information that the Adjudicator thinks might cause someone to think that a particular person has complained about a large retailer failing to comply with the Groceries Code.
+
+(3) For the purposes of this section a disclosure of information is unauthorised unless—
+
+(a) the Adjudicator has obtained the required consent;
+
+(b) the disclosure is required for the purpose of [[^F6][[^F7]an assimilated] obligation]; or
+
+(c) the disclosure is required, under rules of court or a court order, for the purposes of legal proceedings of any description.
+
+(4) The required consent is—
+
+(a) in the case of information to which subsection (1) applies, the consent of the parties to the arbitration;
+
+(b) in the case of information to which subsection (2) applies, the consent of the person.
+
+(5) The prohibitions contained in this section are in addition to any that apply by virtue of Part 9 of the Enterprise Act 2002.
+
+## How may the Adjudicator be funded?
+
+### 19 Levy funding
+
+(1) The Adjudicator may require the specified retailers to pay a levy towards the Adjudicator's expenses.
+
+(2) Before imposing a levy the Adjudicator must obtain the Secretary of State's consent.
+
+(3) In deciding the amount of a levy the Adjudicator must take into account any sums received or expected to be received from other sources.
+
+(4) The Adjudicator may take into account estimated as well as actual expenses.
+
+(5) The Adjudicator may require different specified retailers to pay different amounts of levy but any differences must be based on criteria broadly intended to reflect the expense and time that the Adjudicator expects (in the light of previous experience) to spend in dealing with matters relating to different specified retailers and any subsidiaries.
+
+(6) The Adjudicator must inform each specified retailer of —
+
+(a) the amount of any levy payable by the retailer; and
+
+(b) when payments are due.
+
+(7) A levy required to be paid under this section is recoverable by the Adjudicator as a debt.
+
+(8) The Adjudicator must publish details of levies and an explanation of how the amounts have been decided (including any criteria under subsection (5)).
+
+(9) If the Adjudicator has a surplus, the Adjudicator may repay some or all of it to the specified retailers.
+
+(10) In this section—
+
+- “specified retailer” means a retailer mentioned in Article 4(1)(a) or (b) of the Groceries Supply Order;
+
+- “surplus” means money held by the Adjudicator at the end of a financial year less—
+
+  - (a) liabilities shown in the Adjudicator's statement of accounts for that financial year; and
+  - (b) the total amount of any grants made by the Secretary of State under section 20 during that financial year or earlier ones.
+
+### 20 Payments by Secretary of State
+
+(1) The Secretary of State may make grants or loans to the Adjudicator.
+
+(2) The grants or loans may be subject to conditions (including conditions as to repayment with or without interest).
+
+## Amendments and transition
+
+### 21 Amendments and transition
+
+(1) In Schedule 2 to the Parliamentary Commissioner Act 1967 (departments etc subject to investigation) at the appropriate place insert— “ Groceries Code Adjudicator. ”
+
+(2) In Part 3 of Schedule 1 to the House of Commons Disqualification Act 1975 (other disqualifying offices) at the appropriate place insert— “ Groceries Code Adjudicator or Deputy Groceries Code Adjudicator. ”
+
+(3) In Part 6 of Schedule 1 to the Freedom of Information Act 2000 (public authorities) at the appropriate place insert— “ Groceries Code Adjudicator. ”
+
+(4) In each of Schedules 14 and 15 to the Enterprise Act 2002 (provisions about disclosure of information) at the appropriate place insert— “ Groceries Code Adjudicator Act 2013. ”
+
+(5) Section 161(5) of the Enterprise Act 2002 (limitation on variation or revocation of orders) does not apply to a variation of the Groceries Supply Order made in consequence of the Arbitration (Scotland) Act 2010 or this Act.
+
+(6) Until the Arbitration (Scotland) Act 2010 is in force in relation to any arbitrations carried out by the Adjudicator, or a person appointed by the Adjudicator, that Act applies as if it were in force in relation to those arbitrations.
+
+## Definitions and final provisions
+
+### 22 Definitions
+
+In this Act—
+
+- “the Adjudicator” means the Groceries Code Adjudicator;
+
+- “direct supplier” means a person who is a supplier within the meaning given by Article 2 of the Groceries Supply Order;
+
+- “dispute” has the meaning given by Article 2 of the Groceries Supply Order;
+
+- “financial year” means—
+
+  - (a) the period beginning with the day on which section 1 comes into force and ending with the following 31 March; and
+  - (b) each successive period of 12 months;
+
+- “Groceries Code” means the code of practice set out in Schedule 1 to the Groceries Supply Order;
+
+- “Groceries Supply Order” means the Groceries (Supply Chain Practices) Market Investigation Order 2009, made by the Competition Commission under section 161 of the Enterprise Act 2002;
+
+- “indirect supplier” means a person who would be a supplier within the meaning given by Article 2 of the Groceries Supply Order but for the reference to direct supply;
+
+- “large retailer” means a designated retailer as defined by Article 2 of the Groceries Supply Order or a subsidiary of a designated retailer;
+
+- “supplier” means—
+
+  - (a) a direct supplier; or
+  - (b) an indirect supplier;
+
+- “supply agreement” has the meaning given by Article 2 of the Groceries Supply Order.
+
+### 23 Orders
+
+(1) Orders under this Act are to be made by statutory instrument.
+
+(2) A statutory instrument containing an order under section 9(6), 15(11) or 16(1) or (2)(a) or (b) may not be made unless a draft of the instrument has been laid before and approved by a resolution of each House of Parliament.
+
+(3) Any other statutory instrument under this Act, other than one that contains only an order under section 25, is subject to annulment as an instrument to which section 5(1) of the Statutory Instruments Act 1946 applies.
+
+(4) Orders under this Act may include measures that are consequential, supplementary, incidental, transitional or transitory.
+
+### 24 Extent
+
+This Act extends to—
+
+(a) England and Wales;
+
+(b) Scotland; and
+
+(c) Northern Ireland.
+
+### 25 Commencement
+
+(1) Sections 1 to 21 and the Schedules come into force on whatever day the Secretary of State by order appoints.
+
+(2) The other provisions of this Act come into force on the day on which this Act is passed.
+
+(3) An order under subsection (1) may make different provision for different purposes.
+
+### 26 Short title
+
+This Act may be cited as the Groceries Code Adjudicator Act 2013.
+
+## SCHEDULE 1 — The Adjudicator
+
+*Section 1*
+
+### Status
+
+**1** The Adjudicator is a corporation sole.
+
+**2** The Adjudicator carries out functions on behalf of the Crown.
+
+### Appointment
+
+**3** The Adjudicator is to be appointed by the Secretary of State.
+
+### Deputy Adjudicator
+
+**4** The Secretary of State may appoint a Deputy Adjudicator.
+
+**5** The Deputy Adjudicator may carry out any of the Adjudicator's functions.
+
+### Term of office etc
+
+**6** A person holds and vacates office as the Adjudicator or Deputy Adjudicator in accordance with the terms of his or her appointment, but—
+
+(a) a person's initial term of office may not be more than four years;
+
+(b) a person may be appointed for one or two further terms of office;
+
+(c) a further term may not be more than three years;
+
+(d) a person may resign by giving written notice to the Secretary of State; and
+
+(e) the Secretary of State may dismiss the person if satisfied that the person is unable, unwilling or unfit to perform his or her functions.
+
+**7** Service as the Adjudicator, or as the Deputy Adjudicator, is not service in the civil service of the state.
+
+### Remuneration
+
+**8** (1) The Adjudicator may pay to or in respect of the person holding office as the Adjudicator or the Deputy Adjudicator—
+
+(a) remuneration;
+
+(b) allowances;
+
+(c) sums by way of or in respect of pensions.
+
+(2) The Secretary of State must determine rates and eligibility criteria for the payments.
+
+### Staff
+
+**9** (1) The Adjudicator may make arrangements with the Secretary of State or any other public authority for staff to be seconded to the Adjudicator.
+
+(2) The arrangements may include provision for payments by the Adjudicator.
+
+### Conflicts of interest
+
+**10** (1) The Adjudicator must make procedural arrangements for dealing with any conflict of interest affecting—
+
+(a) the Adjudicator;
+
+(b) the Deputy Adjudicator; or
+
+(c) staff working for the Adjudicator.
+
+(2) The Adjudicator must consult the Secretary of State before making or revising the arrangements.
+
+(3) The Adjudicator must publish a summary of the arrangements.
+
+**11** (1) This paragraph applies if both the Adjudicator and the Deputy Adjudicator are unable to act in relation to a matter because of conflicts of interest.
+
+(2) The Secretary of State must appoint a person to act as a Deputy Adjudicator if asked to do so by the Adjudicator.
+
+(3) An acting Deputy Adjudicator may carry out any of the Adjudicator's functions for the purpose of dealing with the matter in respect of which he or she is appointed.
+
+(4) A person holds and vacates office as an acting Deputy Adjudicator in accordance with the terms of his or her appointment (subject to sub-paragraph (5)).
+
+(5) Paragraphs 6(d) and (e) and 7 and 8 apply to an acting Deputy Adjudicator as they apply to the Deputy Adjudicator.
+
+### Validity of acts
+
+**12** A defect in appointment does not affect the validity of things done by—
+
+(a) the Adjudicator;
+
+(b) the Deputy Adjudicator; or
+
+(c) an acting Deputy Adjudicator.
+
+### Application of seal and proof of documents
+
+**13** The application of the Adjudicator's seal must be authenticated by the signature of—
+
+(a) the Adjudicator; or
+
+(b) some other person who has been authorised by the Adjudicator for that purpose (whether generally or specially).
+
+**14** A document purporting to be duly executed under the seal—
+
+(a) is to be received in evidence; and
+
+(b) is to be treated as duly executed unless the contrary is shown.
+
+### Accounts
+
+**15** (1) The Adjudicator must keep proper accounts and proper records in relation to the accounts.
+
+(2) For each financial year the Adjudicator must prepare a statement of accounts in respect of that financial year.
+
+(3) The statement must be in whatever form the Secretary of State directs.
+
+(4) The Adjudicator must send a copy of the statement, within a period specified by the Secretary of State, to—
+
+(a) the Secretary of State; and
+
+(b) the Comptroller and Auditor General.
+
+(5) After the Adjudicator has sent a copy of a statement of accounts to the Comptroller and Auditor General, the Comptroller and Auditor General must—
+
+(a) examine, certify and report on the statement; and
+
+(b) send a copy of the certified statement and the report to the Secretary of State as soon as possible.
+
+(6) The Secretary of State must lay before Parliament a copy of the certified statement and of the report.
+
+### Incidental powers
+
+**16** The Adjudicator may do anything that is calculated to facilitate the carrying out of the Adjudicator's functions or is conducive or incidental to the carrying out of those functions.
+
+### Assistance from Office of Fair Trading
+
+**17** The [[^F8]Competition and Markets Authority] may provide staff, premises, facilities or other assistance to the Adjudicator (with or without charge).
+
+### Exemption from liability for damages
+
+**18** (1) The following are exempt from liability in damages for anything done or omitted in the exercise or purported exercise of their functions—
+
+(a) the Adjudicator;
+
+(b) the Deputy Adjudicator;
+
+(c) acting Deputy Adjudicators;
+
+(d) staff working for the Adjudicator.
+
+(2) But sub-paragraph (1) does not apply—
+
+(a) if the act or omission is shown to have been in bad faith; or
+
+(b) so as to prevent an award of damages made in respect of an act or omission on the ground that the act or omission was unlawful as a result of section 6(1) of the Human Rights Act 1998.
+
+## SCHEDULE 2 — Information powers
+
+*Sections 4 and 7*
+
+**1** (1) The Adjudicator may, for the purposes of an investigation, require a person—
+
+(a) to provide documents in the person's possession or control;
+
+(b) to provide other information in the person's possession or control.
+
+(2) The Adjudicator may, for the purposes of monitoring whether a large retailer has followed a recommendation made under section 7, require the retailer—
+
+(a) to provide documents in the retailer's possession or control;
+
+(b) to provide other information in the retailer's possession or control.
+
+(3) A requirement imposed under this paragraph may include a requirement for information to be provided orally.
+
+(4) A requirement is imposed by giving a written notice specifying—
+
+(a) to whom the information is to be provided;
+
+(b) where it is to be provided;
+
+(c) when, or the time by which, it is to be provided;
+
+(d) the form and manner in which it is to be provided.
+
+(5) A notice must also explain the possible consequences of failing to comply.
+
+(6) If a notice requires an individual to attend at a particular place the Adjudicator must offer to pay necessary travelling expenses.
+
+(7) A person may not be required under this paragraph to do anything that the person could not be compelled to do in civil proceedings before—
+
+(a) the High Court in England and Wales or Northern Ireland; or
+
+(b) the Court of Session in Scotland.
+
+**2** (1) It is an offence for a person intentionally to fail to comply with a requirement under this Schedule.
+
+(2) It is a defence for a person charged with that offence to prove that there was a reasonable excuse for the person's failure.
+
+**3** It is an offence for a person knowingly to provide false information in response to a requirement under this Schedule.
+
+**4** A person guilty of an offence under this Schedule is liable—
+
+(a) on summary conviction, to a fine not exceeding the statutory maximum;
+
+(b) on conviction on indictment, to a fine.
+
+---
+
+[^F1]: Words in s. 13 and in heading substituted (1.4.2014) by The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/892), art. 1(1), Sch. 1 para. 205 (with art. 3)
+[^F2]: Words in s. 14(4) substituted (1.4.2014) by The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/892), art. 1(1), Sch. 1 para. 206 (with art. 3)
+[^F3]: Words in s. 14(5)(b) substituted (1.4.2014) by The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/892), art. 1(1), Sch. 1 para. 206 (with art. 3)
+[^F4]: Words in s. 15(8)(b) substituted (1.4.2014) by The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/892), art. 1(1), Sch. 1 para. 207(a) (with art. 3)
+[^F5]: S. 15(8)(c) omitted (1.4.2014) by virtue of The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/892), art. 1(1), Sch. 1 para. 207(b) (with art. 3)
+[^F6]: Words in s. 18(3)(b) substituted (31.12.2020) by The Groceries Code Adjudicator Act 2013, Small Business, Enterprise and Employment Act 2015 and Enterprise Act 2016 (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1046), regs. 1, 2; 2020 c. 1, Sch. 5 para. 1(1)
+[^F7]: Words in s. 18(3)(b) substituted (1.1.2024) by The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424), reg. 1(2), Sch. para. 78
+[^F8]: Words in Sch. 1 para. 17 substituted (1.4.2014) by The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/892), art. 1(1), Sch. 1 para. 208 (with art. 3)

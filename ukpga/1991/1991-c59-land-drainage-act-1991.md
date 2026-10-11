@@ -1,0 +1,3747 @@
+---
+title: "Land Drainage Act 1991"
+identifier: "ukpga/1991/59"
+citation: "1991 c. 59"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W"
+date: 1991-07-25
+last_amended: 2026-07-30
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/1991/59"
+source_modified: 2026-09-07
+retrieved: 2026-10-11
+---
+
+# Land Drainage Act 1991
+
+**1991 c. 59**
+
+An Act to consolidate the enactments relating to internal drainage boards, and to the functions of such boards and of local authorities in relation to land drainage, with amendments to give effect to recommendations of the Law Commission.
+
+[25th July 1991]
+
+BE IT ENACTED by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## Part I — INTERNAL DRAINAGE BOARDS
+
+### Constitution etc. of boards
+
+#### 1 Internal drainage districts and boards.
+
+(1) For the purposes of the drainage of land, there shall continue to be—
+
+(a) districts, known as internal drainage districts, which shall be such areas within [[^F1] the regions of the Regional Flood and Coastal Committees (within the meaning of section 22 of the Flood and Water Management Act 2010) ] [[^F2]or within Wales (within the meaning of section 158 of the Government of Wales Act 2006)] as will derive benefit, or avoid danger, as a result of drainage operations; and
+
+(b) boards, known as internal drainage boards, each of which shall be the drainage board for an internal drainage district;
+
+and, subject to the following provisions of this Part, the internal drainage districts which were such districts immediately before the coming into force of this section, and the boards for those districts, shall continue as such districts and boards.
+
+(2) An internal drainage board shall—
+
+(a) exercise a general supervision over all matters relating to the drainage of land within their district; and
+
+(b) have such other powers and perform such other duties as are conferred or imposed on internal drainage boards by this Act.
+
+(3) Subject to subsections (4) and (6) below, an internal drainage board shall be a body corporate and shall consist of—
+
+(a) members who shall be elected and hold office in accordance with provisions made by or under Schedule 1 to this Act; and
+
+(b) members appointed in accordance with those provisions by charging authorities.
+
+(4) The first members of an internal drainage board shall be persons appointed by the relevant Minister, together with any persons appointed as mentioned in subsection (3)(b) above.
+
+(5) Subject to subsection (6) below, Schedule 2 to this Act shall have effect with respect to the proceedings of internal drainage boards.
+
+(6) The following provisions, that is to say, the provisions of Schedule 1 to this Act, except so far as it relates to the appointment of members by a charging authority, the provisions of Schedule 2 to this Act and the provisions of subsection (3) above, so far as it requires members of an internal drainage board to be elected, shall have effect in relation to an internal drainage board in existence on 1st August 1930 only to such an extent as—
+
+(a) those provisions are applied to the board by a scheme made or having effect as if made under section 3 below; or
+
+(b) immediately before the coming into force of this Act, corresponding provision otherwise applied in relation to that board by virtue of section 7(4) of the [^M1]Land Drainage Act 1976.
+
+#### 2 Review of boundaries of internal drainage districts.
+
+(1) Subject to subsection (7) below, where—
+
+(a) a petition for the alteration of the boundaries of an internal drainage district is made to the [[^F3]appropriate supervisory body] by a sufficient number of qualified persons or by a qualified authority; and
+
+(b) the boundaries of that district have for a period exceeding ten years been neither reviewed on such a petition nor altered,
+
+the [[^F3]appropriate supervisory body] shall review those boundaries.
+
+(2) Subject to subsection (7) below, where a petition under subsection (1) above is received by the [[^F3]appropriate supervisory body] in the circumstances mentioned in subsection (1)(b) above, the [[^F3]appropriate supervisory body] shall—
+
+(a) inform the relevant Minister; and
+
+(b) publish[^F4]... a notice stating—
+
+(i) that the petition has been received;
+
+(ii) that a review of the boundaries is being undertaken; and
+
+(iii) that representations may be made to the [[^F3]appropriate supervisory body] within a period (which shall not be less than thirty days) stated in the notice.
+
+[^F5]2A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) In carrying out any review required by this section the [[^F3]appropriate supervisory body] shall—
+
+(a) consult the drainage board for the internal drainage district in question, unless it is itself the drainage board; and
+
+(b) consider any representations duly made to it.
+
+(4) Within six months after a petition under this section is made or such longer period as the relevant Minister may allow, the [[^F3]appropriate supervisory body] shall inform the relevant Minister—
+
+(a) whether, as a result of the review, it proposes to submit to him a scheme under section 3 below; and
+
+(b) if so, what provision it proposes to make by the scheme.
+
+(5) Subject to subsection (6) below, where—
+
+(a) the [[^F3]appropriate supervisory body] does not propose, as a result of the review, to submit to the relevant Minister a scheme under section 3 below; but
+
+(b) it appears to the [[^F3]appropriate supervisory body] that an order under section 38 below, or an order varying or revoking such an order, should be made by the drainage board for the internal drainage district in question,
+
+the [[^F3]appropriate supervisory body] may direct the drainage board to make such an order in such terms as may be specified in the direction.
+
+(6) If an internal drainage board to which a direction has been given under subsection (5) above object to the direction, the direction shall have no effect unless it is confirmed (with or without modifications) by the relevant Minister.
+
+(7) This section does not require the [[^F3]appropriate supervisory body] to carry out a review or publish any notice on a petition which, in the opinion of the relevant Minister, is frivolous.
+
+#### 3 Schemes for reorganisation of internal drainage districts etc.
+
+(1) The [[^F3]appropriate supervisory body]—
+
+(a) may at any time (in consequence of a review under section 2 above or otherwise) prepare and submit to the relevant Minister for confirmation a scheme making provision for any of the matters specified in subsection (2) below; and
+
+(b) shall prepare and so submit such a scheme if it is directed to do so by the relevant Minister.
+
+(2) The matters mentioned in subsection (1) above are—
+
+(a) the alteration of the boundaries of any internal drainage district;
+
+(b) the amalgamation of the whole or any part of any internal drainage district with any other such district;
+
+(c) the abolition as from such date as may be specified in the scheme of Commissioners of Sewers exercising jurisdiction within the area for which the [[^F3]appropriate supervisory body] carries out functions that are flood defence functions within the meaning of the [^M2]Water Resources Act 1991;
+
+(d) the abolition or reconstitution of any internal drainage district and of the drainage board for that district;
+
+(e) the constitution of new internal drainage districts;
+
+(f) the constitution of internal drainage boards for all or any of the separate internal drainage districts constituted by the scheme;
+
+(g) where it appears desirable so to provide in the case of any internal drainage board, the amendment of the method of constituting that board so far as is necessary to secure that members of the board shall include persons elected as such in accordance with the provisions for that purpose contained in section 1 above and Schedule 1 to this Act;
+
+(h) the making of alterations in, and the addition of supplemental provisions to, the provisions of any local Act or of any award made under any such Act, where such alterations or supplemental provisions are necessary or expedient for enabling the area for the benefit of which drainage works are authorised by the local Act or award to be drained effectually;
+
+(i) any matters supplemental to or consequential on the matters mentioned in paragraphs (a) to (h) above for which it appears necessary or desirable to make provision, including the transfer to the [[^F3]appropriate supervisory body] or an internal drainage board of any property, rights, powers, duties, obligations and liabilities vested in or to be discharged by the [[^F3]appropriate supervisory body] or by the internal drainage board affected by the scheme.
+
+(3) A scheme under this section may provide for the revocation or amendment of, and for the retransfer of property, rights, powers, duties, obligations and liabilities transferred by, any previous scheme under this section.
+
+(4) As soon as any scheme under this section has been submitted to the relevant Minister, the [[^F3]appropriate supervisory body] shall—
+
+(a) send copies of the scheme to every internal drainage board, local authority, navigation authority, harbour authority and conservancy authority affected by it; and
+
+(b) publish [^F6]... a notice stating—
+
+(i) that the scheme has been submitted to that Minister; and
+
+(ii) that a copy of it is open to inspection at a specified place; and
+
+(iii) that representations with respect to the scheme may be made to that Minister at any time within one month after the publication of the notice.
+
+[^F7]4A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) The relevant Minister may by order made by statutory instrument confirm any scheme submitted to him under this section, either with or without modifications.
+
+(6) Schedule 3 to this Act shall apply with respect to an order confirming a scheme under this section.
+
+(7) An order confirming a scheme under this section may contain provisions with respect to the persons by whom all or any of the expenses incurred by the relevant Minister or other persons in connection with the making or confirmation of the order, or the making of the scheme, are to be borne.
+
+(8) Where the boundaries of an internal drainage district are altered under this section, all powers exercisable under any local Act by the drainage board for the district with respect to land included in it shall be exercisable with respect to land added to the district, except so far as provision is otherwise made by the scheme effecting the alteration or by the order confirming that scheme.
+
+#### 4 Powers to make the [[^F8]appropriate supervisory body] a drainage board.
+
+(1) The relevant Minister may, on a petition for the purpose presented to him by the [[^F9]Agency], by order made by statutory instrument transfer to the [[^F9]Agency] the powers, duties, liabilities, obligations and property (including deeds, maps, books, papers and other documents) of the drainage board for any internal drainage district.
+
+(2) On a transfer under this section, the [[^F9]Agency] shall for the purposes of this Act become the drainage board for the district in question; and any expenses incurred by the [[^F9]Agency] as the drainage board for that district shall be defrayed under and in accordance with the powers transferred by the order under this section and not in any other manner.
+
+(3) Without prejudice to the preceding provisions of this section, a scheme under section 3 above which makes provision for the constitution of a new internal drainage district may provide—
+
+(a) for the [[^F9]Agency] to be constituted the drainage board for that district; and
+
+(b) for conferring on the [[^F9]Agency] in relation to that district the powers and duties of an internal drainage board;
+
+and any expenses incurred by the [[^F9]Agency] as the internal drainage board for such a district shall be defrayed under and in accordance with the powers so conferred and not in any other manner.
+
+(4) Schedule 3 to this Act shall apply with respect to an order under this section.
+
+(5) An order under this section may contain provisions with respect to the persons by whom all or any of the expenses incurred by the relevant Minister or other persons in connection with the making or confirmation of the order are to be borne.
+
+#### 5 Transfer of functions etc. back from the [[^F10]appropriate supervisory body].
+
+(1) Where—
+
+(a) the [[^F11]Agency]is (whether by virtue of a scheme under section 3 above or an order under section 4 above) the drainage board for an internal drainage district; and
+
+(b) a petition for constituting an internal drainage board for that district is made to the [[^F11]Agency] by a sufficient number of qualified persons or by a qualified authority,
+
+the relevant Minister may by order made by statutory instrument constitute an internal drainage board for that district and transfer to it the property and liabilities of the [[^F11]Agency], so far as vested in or incurred by the [[^F11]Agency] in its capacity as the drainage board for that district.
+
+(2) On receiving such a petition as is mentioned in subsection (1) above the [[^F11]Agency] shall send a copy of it to the relevant Minister.
+
+(3) The [Agency]shall inform the relevant Minister, within six months of the date on which such a petition is received, whether in its opinion an order under subsection (1) above ought to be made.
+
+(4) Before making an order under subsection (1) above the relevant Minister shall consider the views expressed by the [[^F11]Agency] in accordance with subsection (3) above.
+
+(5) Schedule 3 to this Act shall apply with respect to an order under this section.
+
+(6) An order under this section may contain provisions with respect to the persons by whom all or any of the expenses incurred by the relevant Minister or other persons in connection with the making or confirmation of the order are to be borne.
+
+#### 6 Schemes and orders under sections 3 to 5: compensation for loss of office.
+
+(1) The appropriate Minister shall by regulations provide for the payment, subject to such exceptions or conditions as may be specified in the regulations, of compensation—
+
+(a) if it is specified for the purpose in the regulations, by the [[^F12]appropriate supervisory body]; or
+
+(b) by such internal drainage board or boards as may be so specified,
+
+to any officer or other employee of a drainage body who suffers loss of employment or loss or diminution of emoluments which is attributable to a scheme under section 3 above or anything done in pursuance of such a scheme.
+
+(2) The appropriate Minister shall by regulations provide for the payment, subject to such exceptions or conditions as may be specified in the regulations, of compensation by the [[^F12]appropriate supervisory body]—
+
+(a) to any officer or other employee of an internal drainage board who suffers loss of employment or loss or diminution of emoluments which is attributable to an order under section 4 above or anything done in pursuance of such an order;
+
+(b) to any officer or other employee of the [[^F12]appropriate supervisory body] who suffers loss of employment or loss or diminution of emoluments which is attributable to an order under section 5 above or anything done in pursuance of such an order.
+
+(3) Regulations under this section may include provision—
+
+(a) as to the manner in which and the persons to whom any claim for compensation by virtue of the regulations is to be made; and
+
+(b) for the determination of all questions arising under the regulations;
+
+and may make different provision for different classes of person.
+
+(4) In this section “the appropriate Minister”—
+
+(a) in relation to employees of a drainage body wholly in Wales, means the Secretary of State;
+
+(b) in relation to employees of a drainage body partly in Wales, means the Ministers; and
+
+(c) in any other case, means the Minister;
+
+but in relation to employees of the [[^F12]appropriate supervisory body], the powers and duties conferred or imposed on the appropriate Minister by this section shall be exercisable or, as the case may be, shall fall to be performed by either of the Ministers.
+
+### General provision with respect to functions of drainage boards
+
+#### 7 Supervision of drainage boards by the [[^F13]appropriate supervisory body].
+
+(1) The [[^F14]Agency] may, for the purpose of securing—
+
+(a) the efficient working and maintenance of existing drainage works; and
+
+(b) the construction of such new drainage works as may be necessary,
+
+give such general or special directions as it considers reasonable for the guidance of the internal drainage boards with respect to the exercise and performance by those boards of their powers and duties as such.
+
+(2) Without prejudice to subsection (1) above, an internal drainage board shall not—
+
+(a) except with the consent of the [[^F14]Agency], construct any drainage works or alter any existing drainage works, if the construction or alteration will in any way affect the interests of, or the working of any drainage works belonging to, any other drainage board; or
+
+(b) otherwise than by way of maintaining an existing work, construct or alter any structure, appliance or channel for the discharge of water from their district into a main river except on such terms as may be agreed between the [[^F14]Agency] and the internal drainage board or, in default of agreement, be determined by the relevant Minister.
+
+(3) The consent of the [[^F14]Agency] for the purposes of subsection (2)(a) above shall not be unreasonably withheld and may be given subject to reasonable conditions.
+
+(4) If an internal drainage board acts in contravention of subsection (2) above, the [[^F14]Agency] shall—
+
+(a) have power itself to carry out and maintain any works and do any things which are, in its opinion, necessary in order to prevent or remedy any damage which may result, or has resulted, from the action of the internal drainage board; and
+
+(b) be entitled to recover from that board the amount of any expenses reasonably incurred by the [[^F14]Agency] in the exercise of that power.
+
+(5) If any question arises under this section—
+
+(a) whether the consent of the [[^F14]Agency] is unreasonably withheld;
+
+(b) whether any condition subject to which any consent of the [[^F14]Agency] is given is reasonable; or
+
+(c) whether any expenses have been reasonably incurred by the [[^F14]Agency]in pursuance of this section;
+
+that question shall be referred to the relevant Minister for decision.
+
+(6) Where the relevant Minister gives any decision under this section, he shall make and cause to be laid before Parliament a report giving particulars of the question referred to him and of the reasons for his decision.
+
+#### [^F16]8 Concurrent powers of [[^F15]Agency].
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 9 Default powers of the [[^F17]appropriate supervisory body].
+
+(1) Subject to subsections (2) and (3) below [^F18]..., where in the opinion of the [[^F19]Agency] any land is injured or likely to be injured by [^F20]... inadequate drainage that might be remedied wholly or partially by the exercise of drainage powers vested in any internal drainage board which either—
+
+(a) are not being exercised at all; or
+
+(b) in the opinion of the [[^F19]Agency], are not being exercised to the necessary extent,
+
+the [[^F19]Agency] may exercise all or any of those powers and also any power vested in that board for the purpose of defraying expenses incurred in the exercise by that board of those powers or for any purposes incidental to the exercise of those powers.
+
+(2) Before exercising any powers under subsection (1) above the [[^F19]Agency] shall give to the internal drainage board in whose default it proposes to exercise the powers not less than thirty days’ notice of its intention to do so.
+
+(3) If, before the end of the period of notice specified under subsection (2) above, the internal drainage board in question intimate in writing to the [[^F19]Agency] their objection to the exercise by the [[^F19]Agency] of the powers, the [[^F19]Agency] shall not exercise the powers except with the consent of the relevant Minister.
+
+(4) The relevant Minister may, if he thinks fit, cause a public local inquiry to be held with respect to an objection for the purposes of subsection (3) above.
+
+(5) Where in pursuance of this section the [[^F19]Agency] is exercising the powers of the drainage board for an internal drainage district, any person authorised in that behalf by the [[^F19]Agency] may, so far as is reasonably necessary for the purpose of, and in connection with, the exercise by the [[^F19]Agency] of those powers, at all reasonable times inspect and take copies of any deeds, maps, books, papers or other documents which—
+
+(a) are in the possession of the board; and
+
+(b) relate to land drainage or the provision of flood warning systems in that district.
+
+(6) Any person who intentionally obstructs or impedes any person authorised as mentioned in subsection (5) above in the exercise of his powers under this section shall be liable, on summary conviction, to a fine not exceeding level 4 on the standard scale.
+
+#### 10 Exercise of default powers by local authorities.
+
+(1) The [[^F21]appropriate supervisory body] may, on the application of the council of any county [[^F22]county borough], metropolitan district or London borough, direct that the powers conferred by section 9 above on the [[^F21]appropriate supervisory body] shall, as respects land in the area of the council, be exercisable by that council instead of by the [[^F21]appropriate supervisory body].
+
+(2) If the [[^F21]appropriate supervisory body] refuses to comply with any application under subsection (1) above, the council by which the application was made may appeal against the refusal to the relevant Minister and he may, if he thinks fit, require the [[^F21]appropriate supervisory body] to comply with the application.
+
+(3) Without prejudice to the power of the [[^F21]appropriate supervisory body] to give a new direction, the [[^F21]appropriate supervisory body] may—
+
+(a) subject to the consent of the relevant Minister; and
+
+(b) on giving the council concerned not less than six months’ notice of its intention to do so,
+
+revoke any direction given under subsection (1) above.
+
+#### 11 Arrangements between drainage authorities.
+
+(1) The [[^F23]Agency][[^F24]or the Natural Resources Body for Wales] may enter into an agreement with any internal drainage board for the carrying out by the board, on such terms as to payment or otherwise as may be specified in the agreement, of any work in connection with a main river which the [[^F23]Agency][[^F24]or the Natural Resources Body for Wales] is authorised to carry out.
+
+(2) Notwithstanding any restriction by reference to a main river of the powers conferred on the [[^F25]appropriate supervisory body] by section 165 of the [^M3]Water Resources Act 1991, the [[^F25]appropriate supervisory body] may—
+
+(a) with the consent of an internal drainage board, carry out and maintain in that board’s district any works which the board might carry out or maintain, on such terms as to payment or otherwise as may be agreed between the board and the [[^F25]appropriate supervisory body]; or
+
+(b) agree to contribute to the expense of the carrying out or maintenance of any works by any internal drainage board.
+
+(3) An internal drainage board may—
+
+(a) with the consent of an internal drainage board for any other district, carry out and maintain in that other district any works which the first-mentioned board might carry out or maintain within their own district, on such terms as to payment or otherwise as may be agreed between the boards; or
+
+(b) agree to contribute to the expense of the carrying out or maintenance of any works by the internal drainage board for any other district.
+
+(4) Any expense incurred by an internal drainage board under subsection (3) above shall be defrayed as if the expense had been incurred in their own district.
+
+[[^F26](5) Two internal drainage boards may agree that one is to provide administrative, professional or technical services for the other.]
+
+### Duties with respect to the environment and recreation
+
+#### [^F27]12 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F28]13 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Part II — PROVISIONS FOR FACILITATING OR SECURING THE DRAINAGE OF LAND
+
+### General powers
+
+#### 14 General drainage powers of boards and local authorities.
+
+(1) Subject to section 11 above and subsection (4) and section 17 below—
+
+(a) every drainage board acting within the internal drainage district for which they are the drainage board; and
+
+(b) [^F29]every local authority acting ...—
+
+(i) for the purpose of carrying out works in pursuance of a scheme under section 18 below; or
+
+[^F30]ii . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+shall have the powers specified in subsection (2) below.
+
+(2) The powers mentioned in subsection (1) above are the powers, otherwise than in connection with a main river or the banks of such a river—
+
+(a) to maintain existing works, that is to say, to cleanse, repair or otherwise maintain in a due state of efficiency any existing watercourse or drainage work;
+
+(b) to improve any existing works, that is to say, to deepen, widen, straighten or otherwise improve any existing watercourse or remove or alter mill dams, weirs or other obstructions to watercourses, or raise, widen or otherwise improve any existing drainage work;
+
+(c) to construct new works, that is to say, to make any new watercourse or drainage work or erect any machinery or do any other act (other than an act referred to in paragraph (a) or (b) above) required for the drainage of any land.
+
+(3) Subject to section 11 above and subsection (4) and section 17 below, an internal drainage board or local authority that desire, otherwise than in connection with a main river or the banks of such a river, to carry out any drainage works for the benefit of their district or area in lands outside that district or area shall have the same powers for that purpose as are conferred by this Act on persons interested in land which is capable of being drained or improved and desiring to carry out drainage works for that purpose.
+
+(4) Nothing in this section—
+
+(a) authorises any person to enter on the land of any person except for the purpose of maintaining existing works; or
+
+[^F31]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) Where injury is sustained by any person by reason of the exercise by a drainage board or local authority of any of their powers under this section, the board or authority shall be liable to make full compensation to the injured person.
+
+(6) In case of dispute, the amount of the compensation payable under subsection (5) above shall be determined by the [[^F32]Upper Tribunal].
+
+(7) Any expenses incurred by an internal drainage board under subsection (3) above shall be defrayed as if the expenses had been incurred in their district.
+
+#### 14A [[^F33]General powers: flood risk management works
+
+(1) A lead local flood authority may carry out flood risk management work if Conditions 1 and 2 are satisfied.
+
+(2) An authority listed in subsection (3) may carry out flood risk management work if—
+
+(a) Conditions 1 and 3 are satisfied, or
+
+(b) Conditions 1 and 4 are satisfied.
+
+(3) The authorities are—
+
+(a) an internal drainage board,
+
+(b) a district council, and
+
+(c) a lead local flood authority for an area for which there is no district council.
+
+(4) Condition 1 is that the authority considers the work desirable having regard to the local flood risk management strategy for its area under section 9 or 10 of the Flood and Water Management Act 2010.
+
+(5) Condition 2 is that the purpose of the work is to manage a flood risk in the authority's area from—
+
+(a) surface runoff, or
+
+(b) groundwater.
+
+(6) Condition 3 is that the purpose of the work is to manage a flood risk in the authority's area from an ordinary watercourse.
+
+(7) In subsection (6) the reference to an ordinary watercourse includes a reference to a lake, pond or other area of water which flows into an ordinary watercourse.
+
+(8) Condition 4 is that the purpose of the work is to manage a flood risk in the authority's area from the sea and either—
+
+(a) the work is within subsection (9)(a), (b) or (f), or
+
+(b) the [[^F34]appropriate agency] has consented to the work.
+
+(9) In this section “ flood risk management work ” means anything done—
+
+(a) to maintain existing works (including buildings and structures) including cleansing, repairing or otherwise maintaining the efficiency of an existing watercourse or drainage work;
+
+(b) to operate existing works (such as sluicegates or pumps);
+
+(c) to improve existing works (including buildings or structures) including anything done to deepen, widen, straighten or otherwise improve an existing watercourse, to remove or alter mill dams, weirs or other obstructions to watercourses, or to raise, widen or otherwise improve a drainage work;
+
+(d) to construct or repair new works (including buildings, structures, watercourses, drainage works and machinery);
+
+(e) for the purpose of maintaining or restoring natural processes;
+
+(f) to monitor, investigate or survey a location or a natural process;
+
+(g) to reduce or increase the level of water in a place;
+
+(h) to alter or remove works.
+
+(10) Nothing in this section authorises a person to enter land except for the purpose of maintaining existing works.
+
+(11) Section 14(5) and (6) applies in relation to the exercise by any authority of powers under this section as to the exercise of powers under section 14.
+
+(12) The powers under section 62 and 64 are available to an authority for a purpose in connection with the exercise of powers under this section.
+
+(13) In this section the following terms have the meaning given by Part 1 of the Flood and Water Management Act 2010—
+
+(a) flood risk,
+
+(b) lead local flood authority,
+
+(c) surface runoff, and
+
+(d) groundwater.]
+
+#### 15 Disposal of spoil by boards and local authorities.
+
+(1) Subject to subsections (2) and (3) and sections 16 and 17 below, an internal drainage board or local authority may—
+
+(a) without making payment for it, appropriate and dispose of any matter removed in the course of the carrying out of any work for widening, deepening or dredging any ordinary watercourse; and
+
+(b) deposit any matter so removed on the banks of such a watercourse, or on such width of land adjoining such a watercourse as is sufficient to enable the matter to be removed and deposited by mechanical means in one operation.
+
+(2) The powers conferred on a local authority by this section shall not be exercisable except—
+
+(a) for the purpose of carrying out works in pursuance of a scheme under section 18 below; or
+
+(b) so far as may be necessary for the purpose of preventing flooding or mitigating any damage caused by flooding in their area.
+
+(3) Subsection (1) above shall not authorise the deposit of any matter if the matter deposited would constitute a statutory nuisance within the meaning of Part III of the [^M4]Environmental Protection Act 1990.
+
+(4) Where injury is sustained by any person by reason of the exercise by an internal drainage board or local authority of their powers under subsection (1)(b) above—
+
+(a) the board or authority may, if they think fit, pay to him such compensation as they may determine; and
+
+(b) where the injury could have been avoided if those powers had been exercised with reasonable care, subsections (5) and (6) of section 14 above shall apply as if the injury had been sustained by reason of the exercise by the board or authority of their powers under that section.
+
+(5) An internal drainage board or local authority, on the one hand, and the council of any district or [[^F35]London borough or Welsh county or county borough], on the other, may enter into an agreement providing—
+
+(a) for the disposal by the council of any matter removed as mentioned in subsection (1) above; and
+
+(b) for the payment by the board or authority to the council, in respect of the disposal of the matter by the council, of such sum as may be provided by the agreement.
+
+#### 16 Exercise of local authority powers under sections 14 and 15.
+
+(1) Subject to [[^F36]subsections (3) and (3A)] below, where the powers conferred by section 14 or 15 above on a non-metropolitan district council are not exercised by that council, they may be exercised by the county council—
+
+(a) at the request of the council of the district; or
+
+(b) after not less than six weeks’ notice given in writing by the county council to the district council.
+
+(2) Subject to subsection (3) below, where the powers conferred by section 14(1) above on a metropolitan district council or London borough council [[^F37]or Welsh county council or county borough council] or the Common Council of the City of London are not exercised by that council, they may be exercised by the [[^F38]appropriate agency]—
+
+(a) at the request of the council; or
+
+(b) after not less than six weeks’ notice given in writing by the [[^F38]appropriate agency] to the council;
+
+and any expenses incurred by the [[^F38]appropriate agency] [[^F39]in exercising those powers ] shall be recoverable from the council concerned by the [[^F38]appropriate agency] summarily as a civil debt.
+
+(3) Where the council to whom a notice has been given for the purposes of subsection (1)(b) or (2)(b) above—
+
+(a) appeal against the notice to the Secretary of State before it expires; and
+
+(b) inform the county council or, as the case may be, the [[^F38]appropriate agency] of the appeal,
+
+the powers to which the notice relates shall not be exercised in pursuance of the notice by the county council or, as the case may be, the [[^F38]appropriate agency] unless it is confirmed by the Secretary of State.
+
+[[^F40](3A) Subsection (1) above does not apply in relation to powers conferred on a Welsh county council or county borough council.]
+
+#### [^F41]17 Supervision of local authority powers under sections 14 to 16.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 18 Drainage of small areas.
+
+(1) Where—
+
+(a) the [[^F42]appropriate agency] is of the opinion that any land is capable of improvement by drainage works but that the constitution for that purpose of an internal drainage district would not be practicable; or
+
+(b) a local authority other than a district council is of that opinion in relation to any land in their area,
+
+the [[^F42]appropriate agency] or, as the case may be, that local authority may, in accordance with the provisions of a scheme made by it or them under this section, enter on the land and carry out such drainage works as appear to it or them desirable.
+
+[[^F43](1A) Subsection (1) above has effect in relation to land in Wales with the omission of the words “other than a district council”.]
+
+(2) Schedule 4 to this Act shall have effect with respect to the making of a scheme under this section.
+
+(3) A scheme under this section must state—
+
+(a) the works proposed to be carried out;
+
+(b) the area to be improved by the works;
+
+(c) the estimated expenses (including administrative expenses) of the carrying out of the works;
+
+(d) the maximum amount to be recoverable by the [[^F42]appropriate agency]or local authority in respect of those expenses; and
+
+(e) the manner in which the expenses of carrying out and maintaining the works are to be apportioned amongst the lands comprised in the area to be improved.
+
+(4) Subject to subsection (6) and (7) below, the amount stated in a scheme in pursuance of subsection (3)(c) above shall not exceed an amount equal to £50 for each hectare in the area to be improved.
+
+(5) The following expenses, that is to say-
+
+(a) those incurred by the [[^F42]appropriate agency] or a local authority under this section in the carrying out of drainage works, to an amount not exceeding the amount stated in the scheme in pursuance of subsection (3)(d) above; and
+
+(b) those incurred by the [[^F42]appropriate agency] or a local authority in maintaining works carried out by the [[^F42]appropriate agency] or, as the case may be, that authority under this section,
+
+shall, according to the apportionment provided for by the scheme, be recoverable by the [[^F42]appropriate agency] or that authority from the several owners of the lands to which the scheme relates.
+
+(6) Each of the Ministers shall have power to exempt a scheme from the limit imposed by subsection (4) above if it appears to him that the works proposed to be carried out are urgently required in the public interest.
+
+(7) Each of the Ministers shall have power by order made by statutory instrument from time to time to vary the limit imposed by subsection (4) above; but no such order shall have effect unless it is approved by a resolution of each House of Parliament.
+
+(8) A scheme made under this section shall be a local land charge.
+
+#### 19 Arrangements as to works etc. with navigation and conservancy authorities.
+
+(1) Subject to subsections (2) and (3) below, an internal drainage board, with a view to improving the drainage of any land situated in their district, may enter into an arrangement with a navigation authority or conservancy authority for any of the following purposes, that is to say—
+
+(a) the transfer to the board of—
+
+(i) the whole or any part of the undertaking of the navigation authority or conservancy authority or of any of the rights, powers, duties, liabilities and obligations of that authority; or
+
+(ii) any property vested in that authority as such;
+
+(b) the alteration or improvement by the board of any of the works of the navigation authority or conservancy authority;
+
+(c) the making of payments by the board to the navigation authority or conservancy authority or by that authority to the board in respect of any matter for which provision is made by the arrangement.
+
+(2) An internal drainage board shall not enter into any arrangement under this section in relation to a main river or the banks of a main river or in relation to any drainage works in connection with a main river.
+
+(3) The exercise by an internal drainage board of their power to enter into an arrangement under this section shall require the approval of the relevant Minister and the Secretary of State.
+
+(4) Where an internal drainage board are intending to enter into an arrangement under this section, they shall publish a notice of their intention in such manner as may be directed by the relevant Minister.
+
+(5) Where an arrangement has been made under this section, an internal drainage board shall cause a notice under subsection (6) below to be published in the London Gazette in such form as may be prescribed by regulations made by the relevant Minister.
+
+(6) A notice under this subsection is a notice—
+
+(a) stating that the arrangement has been made; and
+
+(b) specifying the place at which a copy of the arrangement may be inspected by persons interested.
+
+#### 20 Arrangements with other persons for carrying out drainage works.
+
+(1) Subject to subsection (3) below, an internal drainage board may, by agreement with any person and at that person’s expense, carry out and maintain, whether within or outside their district, any drainage works which that person is entitled to carry out and maintain.
+
+(2) Any local authority other than the council of a non metropolitan district may, by agreement with any person and at that person’s expense, carry out within the local authority’s area any drainage works which that person is entitled to carry out.
+
+(3) The powers conferred on an internal drainage board by subsection (1) above shall not be exercisable in connection with a main river, the banks of such a river or any drainage works in connection with a main river.
+
+(4) The obligation of any person under this section to meet the expenses of any works shall be subject to section 59(6) below.
+
+[^F44][5 Subsection (2) above has effect in relation to Wales with the omission of “other than the council of a non-metropolitan district”.]
+
+#### 21 Enforcement of obligations to repair watercourses, bridges, etc.
+
+(1) This section applies to any obligation to which any person was subject, before the commencement of this Act, by reason of tenure, custom, prescription or otherwise, except an obligation under an enactment re-enacted in this Act or the [^M5]Water Resources Act 1991.
+
+(2) If any person—
+
+(a) is liable, by reason of any obligation to which this section applies, to do any work in relation to any watercourse, bridge or drainage work (whether by way of repair, maintenance or otherwise); and
+
+(b) fails to do the work,
+
+the drainage board concerned may serve a notice on that person requiring him to do the necessary work with all reasonable and proper despatch.
+
+(3) Subject to section 107(2) of the Water Resources Act 1991, the powers conferred by this section shall not be exercisable in connection with a main river, the banks of such a river or any drainage works in connection with such a river.
+
+(4) If any person fails, within seven days, to comply with a notice served on him under subsection (2) above by the drainage board concerned, the board may do all such things as are necessary for that purpose.
+
+(5) Any expenses reasonably incurred, in the exercise of their powers under this section, by the drainage board concerned may be recovered from the person liable to repair.
+
+(6) Subject to section 8 above, references in this section to the drainage board concerned—
+
+(a) in relation to any watercourse, bridge or drainage works in an internal drainage district, are references to the drainage board for that district; and
+
+[[^F45](b) in relation to any watercourse, bridge or drainage works in an area outside an internal drainage district, are references to the lead local flood authority for the area.]
+
+[[^F46](7) Lead local flood authority” has the meaning given by section 6 of the Flood and Water Management Act 2010.]
+
+#### 22 Powers of Ministers to authorise landowners to carry out drainage works.
+
+(1) Where—
+
+(a) any persons interested in any land are of the opinion that it is capable of improvement by drainage works; but
+
+(b) the works cannot be carried out by reason of the objection or disability of any person whose land would be entered upon, cut through or interfered with by or for the purposes of the works,
+
+those persons may present an application to the appropriate Minister for an order under this section authorising them to carry out such drainage works as are expedient with a view to the improvement of the land.
+
+(2) An application for an order under this section—
+
+(a) shall be in the prescribed form; and
+
+(b) shall contain particulars of the proposed works and the persons by whom they are to be carried out and such further particulars as the appropriate Minister may prescribe or require;
+
+and the applicants shall give such security for expenses as may be required by the appropriate Minister.
+
+(3) Notice of any application for an order under this section, of the place where it can be inspected and of the period within which objections to the proposed works may be made to the appropriate Minister shall be given in the prescribed manner—
+
+(a) to all persons not parties to the application whose lands are proposed to be entered upon, cut through or interfered with;
+
+(b) to the [[^F47]appropriate agency]; and
+
+(c) to any internal drainage board for any district within which all or any of the proposed works are to be carried out.
+
+(4) If, where an application for an order under this section has been made—
+
+(a) an objection to the proposed works has been made to the appropriate Minister, within the prescribed period, by any person interested or in any way affected by the proposed works; and
+
+(b) that objection is not withdrawn,
+
+the appropriate Minister shall forthwith cause a public inquiry to be held in the locality in which the proposed works are to be carried out.
+
+(5) On an application for an order under this section, the appropriate Minister—
+
+(a) where either no objection has been made as mentioned in subsection (4) above or every such objection has been withdrawn; or
+
+(b) in any other case, after receiving the report of the inquiry under subsection (4) above,
+
+shall, in his discretion, either refuse to authorise the carrying out of the proposed works or by order authorise the carrying out of the works with or without alteration.
+
+(6) Subject to subsection (7) below, the persons authorised by an order under this section to carry out works shall have full power to carry out the works and to maintain them for ever thereafter.
+
+(7) Where an order under this section is made, every person interested in the land affected by the order (other than any person who is one of those authorised to carry out the works) shall be entitled to compensation for any injury suffered by him in respect of that interest by reason of the works; and, in case of a dispute as to the amount of the compensation payable, the amount shall be determined by the [[^F48]Upper Tribunal].
+
+(8) No order of the appropriate Minister under this section shall authorise any work whereby the streams, reservoirs or feeders supplying any ornamental waters will be cut through, diverted or interfered with otherwise than by agreement and with the consent of the persons to whom such ornamental waters belong.
+
+(9) In this section “the appropriate Minister”—
+
+(a) in relation to England, means the Minister; and
+
+(b) in relation to Wales, means the Secretary of State.
+
+### Control of flow of watercourses etc.
+
+#### 23 Prohibition on obstructions etc. in watercourses
+
+(1) No person shall—
+
+(a) erect any mill dam, weir or other like obstruction to the flow of any ordinary watercourse or raise or otherwise alter any such obstruction; or
+
+[[^F49](b) erect a culvert in an ordinary watercourse, or
+
+(c) alter a culvert in a manner that would be likely to affect the flow of an ordinary watercourse,]
+
+without the consent in writing of the drainage board concerned.
+
+[[^F50](1A) Consent under this section may be given subject to reasonable conditions.]
+
+[[^F50](1B) An internal drainage board or lead local flood authority must consult the [[^F51]appropriate agency] before carrying out work within subsection (1)(a), (b) or (c) if the board or authority is “ the drainage board concerned ” for the purposes of this section. ]
+
+[[^F50](1C) The drainage board concerned must have regard to any guidance issued by the [[^F52]appropriate supervisory body] about the exercise of the board's functions under this section.]
+
+(2) The drainage board concerned may require the payment of an application fee by a person who applies to them for their consent under this section; and the amount of that fee shall be £50 or such other sum as may be [[^F53]prescribed].
+
+(3) Where an application is made to the drainage board concerned for their consent under this section—
+
+(a) the consent is not to be unreasonably withheld; and
+
+(b) if the board fail within two months after the relevant day to notify the applicant in writing of their determination with respect to the application, they shall be deemed to have consented.
+
+(4) In subsection (3) above “the relevant day”, in relation to an application for a consent under this section, means whichever is the later of—
+
+(a) the day on which the application is made; and
+
+(b) if at the time when the application is made an application fee is required to be paid, the day on which the liability to pay that fee is discharged.
+
+(5) If any question arises under this section whether the consent of the drainage board concerned is unreasonably withheld, that question shall be referred to a single arbitrator to be agreed between the parties or, failing such agreement, to be appointed by the President of the Institution of Civil Engineers on the application of either party.
+
+(6) Nothing in this section shall apply—
+
+(a) to any works under the control of a navigation authority, harbour authority or conservancy authority; or
+
+(b) to any works carried out or maintained under or in pursuance of any Act or any order having the force of an Act.
+
+(7) The power of the Ministers to make an order under subsection (2) above shall be exercisable by statutory instrument subject to annulment in pursuance of a resolution of either House of Parliament.
+
+[[^F54](7A) In subsection (2) above “ prescribed ” means specified in, or determined in accordance with, an order made by the Ministers; and any such order may make different provision for different cases, including different provision in relation to different persons, circumstances or localities.]
+
+(8) Subject to section 8 above, references in this section and [[^F55] sections 24 and 25] below to the drainage board concerned—
+
+(a) in relation to a watercourse in an internal drainage district, are references to the drainage board for that district; and
+
+[[^F56](b) in relation to a watercourse in an area outside an internal drainage district, are references to the lead local flood authority for the area.]
+
+[[^F57](9) Lead local flood authority” has the meaning given by section 6 of the Flood and Water Management Act 2010.]
+
+#### 24 Contraventions of prohibition on obstructions etc.
+
+(1) If any obstruction is erected or raised or otherwise altered, or any culvert is erected or altered, in contravention of section 23 above, it shall constitute a nuisance in respect of which the drainage board concerned may serve upon such person as is specified in subsection (2) below a notice requiring him to abate the nuisance within a period to be specified in the notice.
+
+(2) The person upon whom a notice may be served under subsection (1) above is—
+
+(a) in a case where the person by whom the obstruction has been erected or raised or otherwise altered has, at the time when the notice is served, power to remove the obstruction, that person; and
+
+(b) in any other case, any person having power to remove the obstruction.
+
+(3) If any person acts in contravention of, or fails to comply with, any notice served under subsection (1) above he shall be guilty of an offence and liable, on summary conviction—
+
+(a) to a fine not exceeding level 5 on the standard scale; and
+
+(b) if the contravention or failure is continued after conviction, to a further fine not exceeding £40 for every day on which the contravention or failure is so continued.
+
+(4) If any person acts in contravention of, or fails to comply with, any notice served under subsection (1) above, the drainage board concerned may, without prejudice to any proceedings under subsection (3) above—
+
+(a) take such action as may be necessary to remedy the effect of the contravention or failure; and
+
+(b) recover the expenses reasonably incurred by them in doing so from the person in default.
+
+#### 25 Powers to require works for maintaining flow of watercourse.
+
+(1) [^F58]..., where any ordinary watercourse is in such a condition that the proper flow of water is impeded, then, unless the condition is attributable to subsidence due to mining operations (including brine pumping), the drainage board [^F59]... concerned may, by notice served on a person falling within subsection (3) below, require that person to remedy that condition.
+
+[^F60]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) Subject to subsection (4) below, a notice under this section in relation to a watercourse may be served on—
+
+(a) any person having control of the part of the watercourse where any impediment occurs; or
+
+(b) any person owning or occupying land adjoining that part; or
+
+(c) any person to whose act or default the condition of the watercourse mentioned in subsection (1) above is due.
+
+(4) No notice under this section requiring any person to carry out any work on land not owned or occupied by him shall be served without the consent of the owner and the occupier of the land, except in a case where it is not practicable, after reasonable inquiry, to ascertain the name and address of the owner or occupier.
+
+(5) A notice under this section shall indicate—
+
+(a) the nature of the works to be carried out and the period within which they are to be carried out; and
+
+(b) the right of appeal to a magistrates’ court and the period within which such an appeal may be brought under section 27 below.
+
+(6) Subject to the right of appeal provided by section 27 below, if the person upon whom a notice is served under this section fails to carry out the works indicated by the notice within the period so indicated—
+
+(a) the drainage board [^F61]... concerned may themselves carry out the works and recover from that person the expenses reasonably incurred by them in doing so; and
+
+(b) without prejudice to their right to exercise that power, that person shall be guilty of an offence and liable, on summary conviction, to a fine not exceeding level 4 on the standard scale.
+
+(7) In proceedings by the drainage board [^F62]... concerned for the recovery of any expenses under subsection (6) above it shall not be open to the defendant to raise any question which he could not have raised on an appeal under section 27 below.
+
+(8) Nothing in this section shall affect the right of an owner or occupier to recover from the other, under the terms of any lease or other contract, the amount of any expenses incurred by him under this section or recovered from him by the drainage board [^F63]... concerned.
+
+#### [^F64]26 Competing jurisdictions under section 25.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 27 Appeals against notices under section 25.
+
+(1) A person served with a notice under section 25 above may, within twenty-one days from the date on which the notice is served on him, appeal to a magistrates’ court on any of the following grounds, that is to say—
+
+(a) that the notice or requirement is not justified by that section;
+
+(b) that there has been some informality, defect or error in, or in connection with, the notice;
+
+(c) that the body which served the notice has refused unreasonably to approve the carrying out of alternative works, or that the works required by the notice to be carried out are otherwise unreasonable in character or extent, or are unnecessary;
+
+(d) that the period within which the works are to be carried out is not reasonably sufficient for the purpose;
+
+(e) that the notice might lawfully have been served on another person and that it would have been equitable for it to have been so served;
+
+(f) that some other person ought to contribute towards the expenses of carrying out any works required by the notice.
+
+(2) The procedure on an appeal under this section shall be by way of complaint for an order and in accordance with the [^M6]Magistrates’ Courts Act 1980.
+
+(3) For the purposes of the time limit for bringing an appeal under this section the making of the complaint shall be treated as the bringing of the appeal.
+
+(4) In so far as an appeal under this section is based on the ground of some informality, defect or error in, or in connection with, the notice, the court shall dismiss the appeal if it is satisfied that the informality, defect or error was not a material one.
+
+(5) In the case of an appeal under this section, the appellant—
+
+(a) may serve a copy of his notice of appeal on any person having an estate or interest in the part of the watercourse where the impediment occurs or land adjoining that part; and
+
+(b) shall, where the grounds upon which the appeal under this section is brought include a ground specified in subsection (1)(e) or (f) above, serve a copy of his notice of appeal on each other person referred to.
+
+(6) On the hearing of an appeal under this section the court may make such order as it thinks fit—
+
+(a) with respect to the person by whom any work is to be carried out and the contribution to be made by any other person towards the cost of the work; or
+
+(b) as to the proportions in which any expenses which may become recoverable by the body which served the notice are to be borne by the appellant and such other person.
+
+(7) In exercising its powers under subsection (6) above the court shall have regard—
+
+(a) as between an owner and an occupier, to the terms and conditions (whether contractual or statutory) of the tenancy and to the nature of the works required; and
+
+(b) in any case, to the degree of benefit to be derived by the different persons concerned.
+
+(8) A person aggrieved by an order, determination or other decision of a magistrates’ court under this section may appeal to the Crown Court.
+
+(9) Where upon an appeal under this section a court varies or reverses any decision of a body which has served a notice under section 25 above, it shall be the duty of that body to give effect to the order of the court.
+
+### Restoration and improvement of ditches
+
+#### 28 Orders requiring the cleansing of ditches etc.
+
+(1) Where a ditch is in such a condition as—
+
+(a) to cause injury to any land; or
+
+(b) to prevent the improvement of the drainage of any land,
+
+the [[^F65]appropriate tribunal], on the application of the owner or occupier of the land, may if they think fit make an order requiring the person or persons named in the order to carry out such remedial work as may be specified in the order.
+
+(2) An order under this section with respect to a ditch may name—
+
+(a) any person who is an owner or occupier of land through which the ditch passes or which abuts on the ditch; and
+
+(b) any person who, though not such an owner or occupier, has a right to carry out the work specified in the order or any part of it.
+
+(3) Where an order under this section names more than one person it may either—
+
+(a) require each of those persons to carry out a specified part of the work specified in the order; or
+
+(b) subject to subsection (4) below, require all those persons jointly to carry out the whole of that work.
+
+(4) Where the [[^F66]appropriate tribunal] make an order requiring persons jointly to carry out any work, the Tribunal, without prejudice to those persons’ joint liability, may, if they think fit, specify in the order the proportions in which those persons are to contribute to the cost of doing so.
+
+(5) In this section—
+
+- “ditch” includes a culverted and a piped ditch but does not include a watercourse vested in, or under the control of, a drainage body; and
+- “remedial work”, in relation to a ditch, means work—
+
+(a) for cleansing the ditch, removing from it any matter which impedes the flow of water or otherwise putting it in proper order; and
+
+(b) for protecting it.
+
+[[^F67](6) For the purposes of this section, “appropriate tribunal” means—
+
+(a) where either the land or the ditch is in England, the First-tier Tribunal; and
+
+(b) where either the land or the ditch is in Wales, the Agricultural Land Tribunal.]
+
+#### 29 Effect of order under section 28.
+
+(1) An order under section 28 above shall be sufficient authority for any person named in the order—
+
+(a) to do the work specified in relation to him in the order; and
+
+(b) so far as may be necessary for that purpose, to enter any land so specified.
+
+[[^F68](1A) Where, in the case of an order made under section 28 by the Agricultural Land Tribunal in relation to land in Wales, the Welsh Ministers, at any time after the end of three months or such longer period as may be specified in the order, have reasonable grounds for believing that any work specified in the order has not been carried out⁠—
+
+(a) the Welsh Ministers, or
+
+(b) any person authorised by them, either generally or in a particular case,
+
+may, in order to ascertain whether the work has been carried out, enter any land which it is necessary to enter for that purpose.]
+
+(2) Where at the end of three months, or such longer period as may be specified in the order, any work specified in an order under section 28 above has not been carried out, the appropriate Minister or any drainage body authorised by him, either generally or in a particular case, may—
+
+(a) carry out the work;
+
+(b) enter any land which it is necessary to enter for that purpose; and
+
+(c) recover from any person named in the order the expenses reasonably incurred in carrying out under this subsection any work which ought to have been carried out by that person;
+
+and those expenses may include any compensation payable in connection with the work under subsection (5) below.
+
+(3) A person entitled by virtue of this section to enter any land—
+
+(a) may take with him such other persons and such equipment as may be necessary; and
+
+(b) if the land is unoccupied, shall, on leaving it, leave it as effectually secured against trespassers as he found it.
+
+(4) Before entering any land under the powers conferred by virtue of this section the person entering it shall give not less than seven days’ notice to the occupier of the land.
+
+(5) Where any person sustains any injury by reason of the exercise of any power conferred by virtue of this section then, unless the power was exercised in or for the purpose of the carrying out of any work which that person was required to carry out by an order under section 28 above, the person exercising the power shall be liable to make full compensation to the person sustaining the injury.
+
+(6) In the case of dispute the amount of the compensation payable under subsection (5) above shall be determined by the [[^F69]Upper Tribunal].
+
+(7) The services for which provision may be made under section 1 of the [^M7]Agriculture Act 1986 (provision of agricultural goods and services) shall include such services to the owner or occupier of any land as may enable him to carry out any work which he is authorised to carry out in exercise of any power conferred by virtue of this section.
+
+(8) In this section “the appropriate Minister”—
+
+(a) in relation to England, means the Minister; and
+
+(b) in relation to Wales, means the Secretary of State.
+
+#### 30 Authorisation of drainage works in connection with a ditch.
+
+(1) Where the drainage of any land requires—
+
+(a) the carrying out of any work in connection with a ditch passing through other land;
+
+(b) the replacement or construction of such a ditch; or
+
+(c) the alteration or removal of any drainage work in connection with such a ditch,
+
+the [[^F70]appropriate tribunal], on the application of the owner or occupier of the first-mentioned land, may if they think fit make an order under this section.
+
+(2) An order under this section is an order authorising the applicant for the order—
+
+(a) for the purpose mentioned in subsection (1) above, to carry out such work as may be specified in the order; and
+
+(b) so far as may be necessary for that purpose, to enter any land so specified.
+
+(3) Subsections (3) to (7) of section 29 above shall apply in relation to the powers conferred by virtue of an order under this section as they apply in relation to the powers conferred by virtue of that section.
+
+(4) In this section “ditch” has the same meaning as in section 28 above.
+
+[[^F71](5) For the purposes of subsection (1), “appropriate tribunal” means—
+
+(a) where the land is in England, the First-tier Tribunal; and
+
+(b) where the land is in Wales, the Agricultural Land Tribunal.]
+
+#### 31 Composition and incidental powers [^F72]....
+
+(1) The Lord Chancellor shall draw up for [[^F73]the] Agricultural Land Tribunal, and from time to time revise, a panel of persons appearing to him to be experienced in matters relating to the drainage of land.
+
+[[^F74](1A) Before drawing up, or revising, a panel under subsection (1), the Lord Chancellor must consult the Lord Chief Justice.]
+
+(2) For each hearing by an Agricultural Land Tribunal of an application under section 28 or 30 above one of the members of the Tribunal shall, instead of being a person nominated in accordance with paragraph 16(1)(b) of Schedule 9 to the [^M8]Agriculture Act 1947, be a person nominated by the chairman from the panel drawn up under this section.
+
+(3) Paragraph 16A of Schedule 9 to the Agriculture Act 1947 (which provides for the exercise of the power of making nominations if the chairman is prevented from doing so) shall apply to nominations under this section.
+
+(4) For the purpose of deciding any application under section 28 or 30 of this Act the [[^F75]appropriate tribunal (within the meaning of that section)] may authorise any of its members or any other person to enter and inspect any land.
+
+(5) Subsections (3) to (6) of section 29 above shall apply in relation to the power conferred by virtue of subsection (4) above as they apply in relation to the powers conferred by virtue of that section.
+
+[[^F76](6) The Lord Chief Justice may nominate a judicial office holder (as defined in section 109(4) of the Constitutional Reform Act 2005) to exercise his functions under this section.]
+
+## Part III — POWERS TO MODIFY EXISTING OBLIGATIONS
+
+### 32 Variation of awards.
+
+(1) Where any award made under any public or local Act contains any provision which in any manner affects or relates to the drainage of land, including any provision affecting the powers or duties of any drainage body or other person with respect to the drainage of land, the [[^F77]appropriate agency]—
+
+(a) may submit to the appropriate Minister for confirmation a scheme for revoking, varying or amending that provision; and
+
+(b) shall submit such a scheme if it is directed to do so by the appropriate Minister on an application under subsection (2) below.
+
+(2) An application may be made to the appropriate Minister for such a direction as is mentioned in subsection (1)(b) above by any person who is under any obligation imposed by the award or by any internal drainage board.
+
+(3) An application under subsection (2) above shall not be entertained unless—
+
+(a) the applicant has requested the [[^F77]appropriate agency] to submit a scheme under this section; and
+
+(b) the [[^F77]appropriate agency] has either refused to do so or failed to do so within six months or has submitted a scheme different from that which was requested.
+
+(4) A scheme under this section with respect to any award may—
+
+(a) provide for commuting, on the basis on which the obligations to which section 33 below relates are to be commuted, the obligation of any person under the award to repair or maintain any drainage works;
+
+(b) contain such incidental, consequential or supplemental provisions as are necessary or proper for the purposes of the scheme;
+
+(c) be revoked or varied by a subsequent scheme under this section.
+
+(5) The appropriate Minister may by order made by statutory instrument confirm any scheme submitted to him under this section, either with or without modifications.
+
+(6) Schedule 3 to this Act shall apply with respect to an order confirming a scheme under this section.
+
+(7) An order confirming a scheme under this section may contain provisions with respect to the persons by whom all or any of the expenses incurred by the appropriate Minister or other persons in connection with the making or confirmation of the order, or the making of the scheme, are to be borne.
+
+(8) In this section “the appropriate Minister”—
+
+(a) in relation to England, means the Minister; and
+
+(b) in relation to Wales, means the Secretary of State.
+
+### 33 Commutation of obligations.
+
+(1) Where—
+
+(a) any person is under an obligation imposed on him by reason of tenure, custom, prescription or otherwise to do any work in connection with the drainage of land (whether by way of repairing banks or walls, maintaining watercourses or otherwise); and
+
+(b) without prejudice to section 107(4) of the [^M9]Water Resources Act 1991 (application of this section to main rivers), that work is otherwise than in connection with a main river,
+
+the [[^F78] relevant authority for the area ] where the work falls to be done may commute the obligation with the consent of the appropriate Minister.
+
+(2) Where the [[^F79] relevant authority proposes ] to commute any obligation to which this section applies, the [[^F80] authority ] shall give, in such manner as the appropriate Minister may direct, notice of—
+
+(a) the proposal;
+
+(b) the terms on which it is to be commuted; and
+
+(c) the period within which objection to the proposal may be made.
+
+(3) If within one month of any notice being given under subsection (2) above the person on whom the obligation is imposed gives notice to the [[^F81] relevant authority ] of his objection to the proposal, the question whether the [[^F81] relevant authority ] shall proceed to commute the obligation shall be referred to the appropriate Minister.
+
+(4) The decision of the appropriate Minister on a reference under subsection (3) above shall be final.
+
+(5) Nothing in this section shall apply to any obligation imposed by section 25 above.
+
+[[^F82](5A) In this section and section 34, references to the relevant authority for an area—
+
+(a) in relation to work in an area which forms part of an internal drainage district, are references to the drainage board for the district, and
+
+(b) in relation to work in any other area, are references to the lead local flood authority for the area.]
+
+[[^F82](5B) “Lead local flood authority” has the meaning given by section 6 of the Flood and Water Management Act 2010.]
+
+(6) In this section and section 34 below “the appropriate Minister”—
+
+[[^F83](a) in relation to a lead local flood authority for an area in England, means the Secretary of State,
+
+(aa) in relation to a lead local flood authority for an area in Wales, means the Welsh Ministers, and]
+
+(b) in relation to an internal drainage board, means the relevant Minister.
+
+### 34 Financial consequences of commutation.
+
+(1) Where any obligation is commuted under section 33 above, any person who would, but for the commutation, be entitled to any exemption in respect of drainage rates (either absolutely as being the person subject to the obligation or conditionally on performance of the obligation) shall be entitled absolutely to a like exemption.
+
+(2) The sum to be paid in respect of the commutation of any obligation under section 33 above shall be such sum as the [[^F84] relevant authority ] in question may, in accordance with the provisions of subsection (4) below, by order determine; and the sum so determined shall—
+
+(a) be payable by way either of a capital sum or of a terminable annuity for a period not exceeding thirty years, at the option of the owner;
+
+(b) be charged on the land in respect of which the obligation existed; and
+
+(c) have priority over any other incumbrances (whenever created) charged on that land by the owner thereof, other than charges (whenever created) under the [^M10]Improvement of Land Act 1864.
+
+(3) Any capital sum or terminable annuity fixed under this section shall, notwithstanding any agreement to the contrary between the owner and any lessee of the land, be payable by the owner.
+
+(4) For the purpose of determining the sum to be paid in respect of the commutation of any obligation, the [[^F85] relevant authority ] in question shall—
+
+(a) ascertain the amount which, in the opinion of the [[^F86] relevant authority ], fairly represents the probable average annual cost, taking one year with another, of carrying out and maintaining in a due state of efficiency the works which are required to be carried out and maintained by virtue of the obligation to be commuted; and
+
+(b) fix the capital sum or terminable annuity to be paid in respect of the commutation accordingly.
+
+(5) In fixing any such capital sum or terminable annuity no account shall be taken of so much of the probable annual average cost as, in the opinion of the [[^F87] relevant authority ] in question, is attributable to the fact that, by reason of—
+
+(a) improvements effected since 1st January 1900 in the drainage of the land drained by a main river; or
+
+(b) alterations effected since that date in the method of cultivation thereof,
+
+the volume of water which is discharged into a main river at any time is greater than it would have been if those improvements or alterations had not been effected.
+
+(6) If any person is aggrieved by any determination of the [[^F88] relevant authority ] under this section as regards the sum to be paid in respect of the commutation of any obligation, he may, at any time within three months after the date on which the [[^F89] authority ] notify him of the determination, require the matter to be referred to the arbitration of a single arbitrator to be appointed, in default of agreement, by the President of the Institution of Civil Engineers.
+
+(7) On any reference under subsection (6) above the arbitrator may either confirm, vary or set aside the determination of the [[^F90] relevant authority ] in question, as he thinks proper.
+
+(8) An order under this section may contain provisions with respect to the persons by whom all or any of the expenses incurred by the appropriate Minister or other persons in connection with the making or confirmation of the order are to be borne.
+
+(9) A record of any such charge as is mentioned in subsection (2) above shall be entered in a register to be kept for the purpose by an authorised officer of the [[^F91] relevant authority ]; and a copy of any such record purporting to be certified by such an officer as a true copy shall be receivable in evidence in all legal proceedings.
+
+### 35 Powers to vary navigation rights.
+
+(1) Subject to the following provisions of this section, where, on an application made to him for that purpose by the [[^F92]appropriate agency] and (except where the application is made in connection with a main river) the drainage boards for every internal drainage district within which any of the waters to which that application relates are situated—
+
+(a) it appears to either of the Ministers that a navigation authority is not exercising at all, or is not exercising to the necessary extent, the powers vested in it; and
+
+(b) it appears to him desirable to do so with a view to securing the better drainage of any land,
+
+he may by order made by statutory instrument revoke, vary or amend the provisions of any local Act relating to navigation rights over any canal, river or navigable waters or to the powers and duties of the navigation authority with respect to any canal, river or navigable waters.
+
+(2) Without prejudice to the generality of the power conferred by subsection (1) above, an order under this section may extinguish, vary or suspend, during such period as the Minister making the order may think proper, any such rights, powers or duties as are mentioned in that subsection.
+
+(3) The power of each of the Ministers to make an order under this section—
+
+(a) shall be exercisable only after consultation with [[^F93]the Secretary of State]; and
+
+(b) shall not be exercisable in relation to any waters within the ebb and flow of the tide at ordinary spring tides except with the consent of [[^F94]the Secretary of State for Transport].
+
+(4) An order made under this section may contain such incidental, consequential or supplemental provisions as appear to the Minister making the order to be necessary or proper for the purposes of the order.
+
+(5) Schedule 3 to this Act shall apply with respect to an order under this section.
+
+## Part IV — FINANCIAL PROVISIONS
+
+### CHAPTER I — PROVISION FOR THE EXPENSES OF INTERNAL DRAINAGE BOARDS
+
+#### Raising and apportionment of expenses
+
+##### 36 Raising of the expenses of internal drainage boards.
+
+(1) The expenses under this or any other Act of the drainage board for an internal drainage district (including any contribution made by the board towards expenses of the [[^F95]appropriate supervisory body]) shall, in so far as they are not met by contributions from the [[^F95]appropriate supervisory body], be raised by means of—
+
+(a) drainage rates made by the board under and in accordance with Chapter II of this Part or, in relation to any time before 1st April 1993, the provisions saved by virtue of paragraph 15 of Schedule 2 to the [^M11]Water Consolidation (Consequential Provisions) Act 1991; and
+
+(b) special levies issued by the board under and in accordance with regulations made under section 75 of the [^M12]Local Government Finance Act 1988.
+
+(2) The expenses of a drainage board which are raised by means of drainage rates in respect of the financial year beginning in 1993 and subsequent financial years shall be defrayed out of such rates without regard to the purpose for which any such expenses were incurred.
+
+##### 37 Apportionment of drainage expenses.
+
+(1) Subject to any provision made by or under section 38 below, the following provision shall have effect with respect to the raising by a drainage board for any internal drainage district of their expenses for the financial year beginning in 1993 and each subsequent financial year, that is to say—
+
+(a) the proportion of the expenses of the board which shall be raised from the proceeds of drainage rates shall be equal to the agricultural proportion, determined for that year in accordance with the following provisions of this section, of land values in that district; and
+
+(b) the proportion of the expenses of the board which shall be raised from the proceeds of special levies shall be such as to raise the balance of the expenses of the board remaining after deduction of the amount to be raised for that year from the proceeds of drainage rates.
+
+(2) The drainage board for every internal drainage district, before 15th February 1993 and before 15th February in every subsequent year, shall determine for the financial year beginning on the following 1st April—
+
+(a) the aggregate annual value of the chargeable properties in that district; and
+
+(b) the aggregate value of all other land in that district;
+
+and the agricultural proportion for any financial year of land values in that district shall be the amount determined for that year under paragraph (a) above divided by the sum of that amount and the amount determined for that year under paragraph (b) above.
+
+(3) A determination made under subsection (2) above for any financial year shall be made as at the 31st December preceding that financial year.
+
+(4) For the purposes of this section the annual value of a chargeable property shall be its annual value for the purposes of Chapter II of this Part.
+
+(5) For the purposes of this section the value of other land in an internal drainage district shall [[^F96], subject to subsection (5ZA)] be taken to be—
+
+(a) in the case of a hereditament shown in the local non-domestic rating list of a charging authority on 1st April 1990, one third of the relevant proportion of the rateable value shown for that hereditament in respect of that date in that list on 31st December 1992;
+
+(b) in the case of domestic property shown in a valuation list on 31st March 1990, one third of the relevant proportion of the rateable value shown for it in the list on that date multiplied by a factor of 6.73;
+
+(c) in the case of a hereditament which—
+
+(i) is neither one to which paragraph (a) above applies nor domestic property to which paragraph (b) above applies; but
+
+(ii) was shown on the 31st March 1990 in the register maintained for the drainage board for that district in accordance with the [^M13]Registers of Drainage Boards Regulations 1968,
+
+one third of the annual value shown for that hereditament in that register on that date multiplied by a factor of 8.02;
+
+[[^F97](d) in the case of any land which, as at 31st March 1990 was in the district but to which none of paragraphs (a) to (c) applies, and which did not then comprise agricultural land or agricultural buildings, a nil value;
+
+(e) in the case of any land to which none of paragraphs (a) to (d) applies, the amount calculated by multiplying—
+
+(i) the area of the land, expressed in hectares and parts of a hectare; by
+
+(ii) such a unit value per hectare as represents the average value per hectare of all land to which those paragraphs do apply if the average is calculated by reference to the values determined in accordance with those paragraphs.]
+
+[[^F98](5ZA) The Secretary of State may by regulations make provision for the value of other land in an English internal drainage district to be determined in accordance with the regulations.
+
+(5ZB) The provision that may be made under subsection (5ZA) includes, in particular, provision—
+
+(a) about methods to be applied, or factors to be taken into account, in determining the value of land;
+
+(b) for the value of land to be determined on the basis of estimates, assumptions or averages;
+
+(c) for the value of land to be determined by reference to such time or times as may be specified in the regulations;
+
+(d) for the value of land to be determined by reference to the value shown for the time being in a list or register prepared for the purposes of another enactment;
+
+(e) for determining the value of land which is only partly within the internal drainage district in question;
+
+(f) for the making of adjustments to what would otherwise be determined to be the value of land;
+
+(g) for land to be taken to have a nil value.
+
+(5ZC) Regulations under subsection (5ZA) may apply in relation to—
+
+(a) English drainage boards specified in the regulations;
+
+(b) English drainage boards of a description specified in the regulations;
+
+(c) all English drainage boards.
+
+(5ZD) Provision made by virtue of subsection (5ZC) may, in particular, include provision for an English drainage board—
+
+(a) to elect that the regulations are to apply to them, and
+
+(b) to make such an election in accordance with the procedure specified in the regulations.
+
+(5ZE) Regulations under subsection (5ZA) may—
+
+(a) make different provision for different cases, including different provision in relation to different circumstances or different descriptions of English drainage board or of land;
+
+(b) make such incidental, supplementary, consequential, transitional, transitory or saving provision as the Secretary of State considers appropriate.
+
+(5ZF) Provision made by virtue of subsection (5ZE)(b) may include provision which amends or repeals any provision of this Act.
+
+(5ZG) Before making regulations under subsection (5ZA) the Secretary of State must consult such persons (if any) as the Secretary of State considers appropriate having regard to the extent to which the regulations are, in the view of the Secretary of State, likely to affect the valuation of any land.
+
+(5ZH) Regulations may not be made under subsection (5ZA) unless a draft of the instrument containing the regulations has been laid before, and approved by a resolution of, each House of Parliament.]
+
+(6) In paragraphs (a) and (b) of subsection (5) above—
+
+- “relevant proportion”, in relation to the rateable value of any hereditament, means the proportion of that value which the area of the part of the hereditament lying within the internal drainage district in question bears to the total area of that hereditament; and
+- “valuation list” means a valuation list maintained under Part V of the [^M14]General Rate Act 1967.
+
+#### [[^F99]Disclosure of Revenue and Customs information
+
+##### 37A Disclosure of Revenue and Customs information
+
+(1) An officer of the Valuation Office of Her Majesty’s Revenue and Customs may disclose Revenue and Customs information to a qualifying person for a qualifying purpose.
+
+(2) Information disclosed to a qualifying person under this section may be retained and used for any qualifying purpose.
+
+(3) Each of the following is a “qualifying person”—
+
+(a) an internal drainage board;
+
+(b) the Agency;
+
+(c) the Natural Resources Body for Wales;
+
+(d) a person authorised to exercise any function of a body within paragraph (a), (b) or (c) relating to drainage rates or special levies;
+
+(e) a person providing services to a body within paragraph (a), (b) or (c) relating to drainage rates or special levies;
+
+(f) the Secretary of State;
+
+(g) the Welsh Ministers;
+
+(h) any other person specified in regulations made by the appropriate national authority.
+
+(4) Each of the following is a “qualifying purpose”—
+
+(a) enabling the qualifying person to whom the disclosure is made, or any other qualifying person, to carry out any functions conferred by or under Chapter 1 or 2 of this Part or section 75 of the Local Government Finance Act 1988;
+
+(b) enabling the qualifying person to whom the disclosure is made, or any other qualifying person, to determine for the purposes of Part 1 how functions mentioned in paragraph (a) might be exercised by—
+
+(i) an internal drainage board which is proposed to be constituted under that Part, or
+
+(ii) the drainage board for an internal drainage district which is proposed to be constituted under that Part.
+
+(5) Regulations under subsection (3)(h) may only be made with the consent of the Commissioners for Her Majesty’s Revenue and Customs.
+
+(6) Regulations may not be made under subsection (3)(h) by the Secretary of State unless a draft of the instrument containing the regulations has been laid before, and approved by a resolution of, each House of Parliament.
+
+(7) Regulations may not be made under subsection (3)(h) by the Welsh Ministers unless a draft of the instrument containing the regulations has been laid before, and approved by a resolution of, Senedd Cymru.
+
+(8) In this section—
+
+- “the appropriate national authority” means—
+
+  - the Secretary of State in relation to English internal drainage districts, and
+  - the Welsh Ministers in relation to Welsh internal drainage districts;
+
+- “drainage rates” means drainage rates made by an internal drainage board under Chapter 2 of this Part;
+
+- “Revenue and Customs information” means information held as mentioned in section 18(1) of the Commissioners for Revenue and Customs Act 2005;
+
+- “special levy” means a special levy issued by an internal drainage board under regulations under section 75 of the Local Government Finance Act 1988.
+
+##### 37B Restrictions on onward disclosure of Revenue and Customs information
+
+(1) Information disclosed under section 37A or this section may not be further disclosed unless that further disclosure is—
+
+(a) to a qualifying person for a qualifying purpose,
+
+(b) in pursuance of a court order,
+
+(c) with the consent of each person to whom the information relates,
+
+(d) required under any other enactment, or
+
+(e) permitted under any other enactment.
+
+(2) Information may not be disclosed—
+
+(a) under subsection (1)(a) to a qualifying person within section 37A(3)(d), (e), (f) or (g),
+
+(b) under subsection (1)(a) to a person who is a qualifying person by virtue of regulations under section 37A(3)(h), where those regulations specify that this subsection is to apply in relation to the person, or
+
+(c) under subsection (1)(e),
+
+except with the consent of the Commissioners for Her Majesty’s Revenue and Customs (which may be general or specific).
+
+(3) Information disclosed to a qualifying person under this section may be retained and used for any qualifying purpose.
+
+(4) A person commits an offence if the person contravenes subsection (1) or (2) by disclosing information relating to a person whose identity—
+
+(a) is specified in the disclosure, or
+
+(b) can be deduced from it.
+
+(5) It is a defence for a person charged with an offence under this section to prove that the person reasonably believed—
+
+(a) that the disclosure was lawful, or
+
+(b) that the information had already lawfully been made available to the public.
+
+(6) A person guilty of an offence under this section is liable—
+
+(a) on summary conviction, to imprisonment for a term not exceeding [[^F100]the general limit in a magistrates’ court], to a fine or to both;
+
+(b) on conviction on indictment, to imprisonment for a term not exceeding two years, to a fine or to both.
+
+(7) A prosecution under this section may be instituted only by, or with the consent of, the Director of Public Prosecutions.
+
+(8) In relation to an offence under this section committed before [[^F101]2 May 2022] the reference in subsection (6)(a) to [[^F102]the general limit in a magistrates’ court] is to be read as a reference to 6 months.
+
+(9) This section is without prejudice to the pursuit of any remedy or the taking of any action in relation to a contravention of subsection (1) or (2) (whether or not subsection (4) applies to the contravention).
+
+(10) In this section—
+
+- “qualifying person” has the same meaning as in section 37A;
+- “qualifying purpose” has the same meaning as in that section.
+
+##### 37C Further provisions about disclosure under section 37A or 37B
+
+(1) A disclosure of information under section 37A or 37B does not breach—
+
+(a) any obligation of confidence owed by the person making the disclosure, or
+
+(b) any other restriction on the disclosure of information (however imposed).
+
+(2) But nothing in section 37A or 37B authorises the making of a disclosure—
+
+(a) if the disclosure would contravene the data protection legislation (but in determining whether a disclosure would do so, take the powers conferred by those sections into account), or
+
+(b) which is prohibited by any of Parts 1 to 7 or Chapter 1 of Part 9 of the Investigatory Powers Act 2016.
+
+(3) Until the repeal of Part 1 of the Regulation of Investigatory Powers Act 2000 by paragraphs 45 and 54 of Schedule 10 to the Investigatory Powers Act 2016 is fully in force, subsection (2)(b) has effect as if it included a reference to that Part.
+
+(4) Revenue and customs information relating to a person which has been disclosed under section 37A or 37B is exempt information by virtue of section 44(1)(a) of the Freedom of Information Act 2000 (prohibition on disclosure) if its further disclosure—
+
+(a) would specify the identity of the person to whom the information relates, or
+
+(b) would enable the identity of such a person to be deduced.
+
+(5) In subsection (4) “revenue and customs information relating to a person” has the same meaning as in section 19(2) of the Commissioners for Revenue and Customs Act 2005.
+
+(6) In this section “data protection legislation” has the same meaning as in the Data Protection Act 2018 (see section 3(9) of that Act).]
+
+#### Division of district for purposes of drainage rates and special levies
+
+##### 38 Orders sub-dividing a district for the purposes of raising expenses.
+
+(1) A drainage board for an internal drainage district, after consultation with the [[^F103]appropriate supervisory body], may—
+
+(a) for the purpose of levying differential drainage rates or issuing differential special levies, from time to time by order divide that district into sub-districts; and
+
+(b) if, having regard to all the circumstances, they think that it is just to do so, exercise their powers, under Chapter II of this Part or any regulations made under section 75 of the [^M15]Local Government Finance Act 1988, to make and levy differential drainage rates or issue differential special levies.
+
+(2) Any order made under this section in respect of an internal drainage district may determine the proportions of the expenses of the drainage board for that district which are to be raised in the respective sub-districts within that district.
+
+(3) Where an order made under this section is in force in respect of an internal drainage district and the order does not determine the proportions of the expenses of the drainage board for that district which are to be raised in the respective sub-districts, the amount to be raised in the respective sub-districts shall be determined as follows, that is to say—
+
+(a) expenses incurred in connection with new works or the maintenance or improvement of existing works in each sub-district shall be raised in that sub-district; and
+
+(b) there shall be raised in each sub-district a proportionate part—
+
+(i) of the charges incurred by the board in respect of contributions to the [[^F103]appropriate supervisory body] under section 139 of the [^M16]Water Resources Act 1991 (contributions from internal drainage boards to [[^F103]appropriate supervisory body]), or amounts specified under section 58 below as corresponding to such contributions; and
+
+(ii) of other expenses and charges not directly attributable to the maintenance of particular works.
+
+(4) Where an order under this section is in force in respect of an internal drainage district, the proportions of the expenses of the drainage board for that district raised in a sub-district which shall be raised by means of drainage rates and special levies respectively shall, in respect of the financial year beginning in 1993 and each subsequent financial year, bear the same proportion to each other as are borne to each other by the following amounts, that is to say—
+
+(a) the aggregate of the annual values of the chargeable properties in that sub-district; and
+
+(b) the aggregate of the values of other land in that sub-district;
+
+and subsections (2) to (6) of section 37 above shall have effect in respect of each sub-district for the purpose of determining those aggregate amounts as they have effect in respect of an internal drainage district for the purpose of determining the amounts specified in subsection (2)(a) and (b) of that section.
+
+(5) When an order is made under this section by the drainage board for an internal drainage district, the board shall—
+
+(a) submit the order to the relevant Minister; and
+
+(b) forthwith thereafter publish[^F104]... a notice under subsection (6) below.
+
+(6) A notice under this subsection is a notice stating—
+
+(a) that the order has been submitted to the relevant Minister;
+
+(b) that a copy of the order is open to inspection at a specified place; and
+
+(c) that representations with respect to the order may be made to the relevant Minister within one month after the publication of the notice.
+
+[^F105] 6A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7) Where an order is submitted to the relevant Minister under this section—
+
+(a) he shall forthwith take into consideration the order; and
+
+(b) the order shall have no effect unless and until it is confirmed by him.
+
+##### 39 Petition for sub-division of internal drainage district.
+
+(1) Subject to subsection (6) below, where a petition for the making, variation or revocation of an order under section 38 above is made to the drainage board for an internal drainage district by a sufficient number of qualified persons or by a qualified authority, the board—
+
+(a) shall consider the petition; and
+
+(b) if so directed by a direction under subsection (2) below, shall make, vary or revoke the order, either in accordance with the petition or in accordance with the petition as modified by the direction.
+
+(2) A direction under this subsection is a direction given—
+
+(a) if the [[^F106]appropriate supervisory body] is the board, by either of the Ministers; and
+
+(b) in any other case, by the [[^F106]appropriate supervisory body].
+
+(3) Where an internal drainage board object to a direction under subsection (2) above given by the [[^F106]appropriate supervisory body], the direction shall have no effect unless confirmed (with or without modifications) by the relevant Minister.
+
+(4) Subject to subsection (6) below, where a petition under this section is received by the drainage board for an internal drainage district, the board shall—
+
+(a) inform the [[^F106]appropriate supervisory body] or, if the [[^F106]appropriate supervisory body] is the board, one of the Ministers; and
+
+(b) publish a notice under subsection (5) below [^F107]....
+
+(5) A notice under this subsection is a notice—
+
+(a) that the petition has been received,
+
+(b) that the making, variation or revocation of an order under section 38 above will be considered; and
+
+(c) that representations may be made to the drainage board within a period (which shall not be less than thirty days) stated in the notice.
+
+[^F108] 5A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6) This section does not require the drainage board for an internal drainage district to consider any petition or publish any notice of a petition if—
+
+(a) they have received a petition under this section within the period of ten years immediately preceding the making of the first-mentioned petition;
+
+(b) they have, within that period, by an order made in exercise of the powers conferred by section 38 above, divided their district into sub-districts or varied or abolished any sub-district; or
+
+(c) the petition is frivolous in the opinion of the [[^F106]appropriate supervisory body] or, if the [[^F106]appropriate supervisory body] is the board, of either of the Ministers.
+
+(7) After considering a petition under this section and not later than six months after it is received, a drainage board shall inform the [[^F106]appropriate supervisory body] or, as the case may be, one of the Ministers—
+
+(a) whether they propose to make, vary or revoke any order under section 38 above; and
+
+(b) if they propose to make or vary such an order, of the terms of the order or variation they propose to make.
+
+### CHAPTER II — DRAINAGE RATES
+
+#### Levying of drainage rates
+
+##### 40 Levying of drainage rates.
+
+(1) In respect of financial years beginning in or after 1993, the drainage board for an internal drainage district may make a drainage rate in respect of agricultural land and buildings.
+
+(2) Every drainage rate made under this Chapter by the drainage board for an internal drainage district shall be assessed and levied, subject to and in accordance with this Chapter and any order under section 38 above, on the occupiers of hereditaments in the district; but for the purposes of this subsection and the following provisions of this Chapter the owner of a hereditament shall be deemed to be its occupier during any period during which it is unoccupied.
+
+(3) Every drainage rate shall be made in respect of a financial year and, without prejudice to section 50 below or any corresponding provision of any local Act, the drainage board for an internal drainage district shall not make more than one rate in respect of the same financial year.
+
+(4) Every drainage rate shall be made before 15th February in the financial year preceding that in respect of which it is made, but is not invalid merely because it is made on or after that date.
+
+##### 41 Rates charged by reference to annual value of agricultural land and buildings.
+
+(1) Subject to section 38 above and section 47 below, a rate made by the drainage board for an internal drainage district shall be assessed at a uniform amount per pound throughout the district on the annual value of the agricultural land or agricultural buildings in respect of which it is made.
+
+(2) For the purposes of this Chapter the annual value of any chargeable property shall (subject to sections 43 and 44 below) be the amount, determined in accordance with section 42 below, which is equal to the yearly rent, in respect of a holding comprising the chargeable property, at which the holding might reasonably be expected to have been let, by a prudent and willing landlord to a prudent and willing tenant, on a tenancy from year to year commencing on 1st April 1988 and on the relevant terms. [[^F109]This is subject to section 41A below.]
+
+(3) For the purposes of subsection (2) above chargeable property is let on the relevant terms if—
+
+(a) the tenancy incorporates the terms set out in subsection (4) below; and
+
+(b) the property is let on the terms relating to maintenance, repair and insurance of fixed equipment which are set out in the Schedule to the [^M17]Agriculture (Maintenance, Repair and Insurance of Fixed Equipment) Regulations 1973.
+
+(4) The terms mentioned in subsection (3)(a) above are—
+
+(a) a covenant by the tenant, in the event of the destruction by fire of harvested crops grown on the holding for consumption on it, to return to the holding the full equivalent manurial value of the crops destroyed, in so far as the return of that value is required for the fulfilment of his responsibilities to farm in accordance with the rules of good husbandry;
+
+(b) a covenant by the tenant to insure against damage by fire all dead stock on the holding and all harvested crops grown on the holding for consumption on it;
+
+(c) a power for the landlord to re-enter on the holding in the event of the tenant not performing his obligations under the tenancy agreement;
+
+(d) a covenant by the tenant not to assign sub-let or part with possession of the holding or any part of it without the landlord’s consent in writing.
+
+(5) In determining for the purposes of subsection (2) above the yearly rents at which a property might reasonably be expected to have been let, any liability for the payment of drainage rates shall be disregarded, but account shall be taken of all other relevant factors, including, in every case—
+
+(a) the character and situation of the holding (including the locality in which it is situated);
+
+(b) the productive capacity of the holding and its related earning capacity; and
+
+(c) the level of rents for comparable lettings current on 1st April 1988.
+
+(6) In determining for the purposes of subsection (5) above the level of rents current on 1st April 1988 for comparable lettings—
+
+(a) account may be taken of any available evidence with respect to the rents which are or were payable in respect of tenancies of comparable agricultural holdings on terms (other than terms fixing the rent payable) similar to those assumed for the holding in question; but
+
+(b) the following shall be disregarded—
+
+(i) any element of the rents in question which is due to appreciable scarcity of comparable holdings available for letting on such terms compared with the number of persons seeking to become tenants of such holdings on such terms;
+
+(ii) any element of those rents which is due to the fact that the tenant of, or a person tendering for, a comparable holding is in occupation of other land in the vicinity of that holding that may conveniently be occupied with that holding; and
+
+(iii) any effect on those rents which is due to any allowances or reductions made in consideration of the charging of premiums.
+
+(7) In this section—
+
+- “productive capacity”, in relation to a holding, means the productive capacity of the holding determined (taking into account fixed equipment and any other available facilities on the holding) on the assumption that the holding is in the occupation of a competent tenant practising a system of farming suitable to the holding; and
+- “related earning capacity”, in relation to the productive capacity of a holding, means the extent to which, in the light of that productive capacity, a competent tenant practising such a system of farming could reasonably be expected to profit from farming that holding.
+
+##### 41A [[^F110]Alternative method of calculating annual value of agricultural land and buildings
+
+(1) The appropriate national authority may by regulations make provision for the annual value of each chargeable property in an internal drainage district to be determined for the purposes of this Chapter by the drainage board for that district in accordance with the regulations.
+
+Any determination made under the regulations is subject to sections 43 and 44 below.
+
+(2) In this section “the appropriate national authority” means—
+
+(a) in the case of any English internal drainage district, the Secretary of State;
+
+(b) in the case of any Welsh internal drainage district, the Welsh Ministers.
+
+(3) Regulations under subsection (1) may, in particular, make provision—
+
+(a) about the date by which a drainage board are to determine the annual value of each chargeable property in their internal drainage district;
+
+(b) about methods to be applied, or factors to be taken into account, in determining the annual value of a chargeable property;
+
+(c) for the annual value of a chargeable property to be determined on the basis of estimates, assumptions or averages;
+
+(d) for the annual value of a chargeable property to be determined by reference to such time or times as may be specified in the regulations;
+
+(e) for the annual value of a chargeable property to be determined by reference to the value shown for the time being in a list or register prepared for the purposes of another enactment;
+
+(f) for the annual value of a chargeable property to be determined by reference to the amount payable under a hypothetical transaction involving the property;
+
+(g) for determining the annual value of a chargeable property which is only partly within the internal drainage district in question;
+
+(h) for the making of adjustments to what would otherwise be determined to be the annual value of a chargeable property;
+
+(i) for the determination of the annual value of a chargeable property to be made on behalf of a drainage board by a person, or a person of a description, specified in the regulations;
+
+(j) about the appointment by the drainage board of such a person.
+
+(4) Provision made by virtue of subsection (3)(f) may, in particular, include provision as to—
+
+(a) the assumptions to be made about—
+
+(i) the date of the transaction;
+
+(ii) the nature of the transaction;
+
+(iii) the characteristics of the parties to the transaction;
+
+(iv) the characteristics of the property;
+
+(v) the terms of the transaction;
+
+(b) any matters relating to the chargeable property which are to be taken into account or disregarded;
+
+(c) any matters relating to comparable transactions which are to be taken into account or disregarded.
+
+(5) Regulations under subsection (1) may make provision which—
+
+(a) applies to a drainage board which have determined the annual values of the chargeable properties in their internal drainage district for the purposes of this Chapter under the regulations (regardless of whether any of those determinations has been replaced under section 43 below or altered on appeal under section 46 below), and
+
+(b) requires the drainage board to make further determinations of those values for those purposes in accordance with the regulations at such times or at the end of such periods as may be specified in the regulations.
+
+(6) Provision made by virtue of subsection (5) may, in particular—
+
+(a) make provision in relation to such a further determination which is the same as or similar to that made in relation to an initial determination, or
+
+(b) apply provision in the regulations relating to an initial determination to a further determination, with or without modifications.
+
+(7) Regulations made by the Secretary of State under subsection (1) may apply in relation to—
+
+(a) English drainage boards specified in the regulations;
+
+(b) English drainage boards of a description specified in the regulations;
+
+(c) all English drainage boards.
+
+(8) Regulations made by the Welsh Ministers under subsection (1) may apply in relation to—
+
+(a) Welsh drainage boards specified in the regulations;
+
+(b) Welsh drainage boards of a description specified in the regulations;
+
+(c) all Welsh drainage boards.
+
+(9) Provision made by virtue of subsection (7) or (8) may, in particular, include provision for an internal drainage board—
+
+(a) to elect that the regulations are to apply to them, and
+
+(b) to make such an election in accordance with the procedure specified in the regulations.
+
+(10) Regulations under subsection (1) may—
+
+(a) make different provision for different cases, including different provision in relation to different circumstances or different descriptions of drainage board or of land;
+
+(b) make such incidental, supplementary, consequential, transitional, transitory or saving provision as the appropriate national authority considers appropriate.
+
+(11) Provision made by virtue of subsection (10)(b) may include provision which amends or repeals any provision of this Act.
+
+(12) Before making regulations under subsection (1) the appropriate national authority must consult such persons (if any) as the authority considers appropriate having regard to the extent to which the regulations are, in the view of the authority, likely to affect the valuation of any chargeable properties.
+
+(13) Regulations may not be made under subsection (1) by the Secretary of State unless a draft of the instrument containing the regulations has been laid before, and approved by a resolution of, each House of Parliament.
+
+(14) Regulations may not be made under subsection (1) by the Welsh Ministers unless a draft of the instrument containing the regulations has been laid before, and approved by a resolution of, Senedd Cymru.]
+
+#### Determination and modification of annual value
+
+##### 42 Determination of annual value.
+
+(1) Without prejudice to sections 43 and 44 below, the drainage board for every internal drainage district shall, not later than 31st December 1992, determine the annual value for the purposes of section 41 above of each chargeable property in their district on that date.
+
+(2) Where after 31st December 1992—
+
+(a) any property in an internal drainage district becomes chargeable property;
+
+(b) any property consisting of agricultural land or buildings becomes part of an internal drainage district,
+
+then, as soon as practicable after the date (“the valuation date”) on which the property has become chargeable property or, as the case may be, part of that district, the drainage board for that district shall determine the annual value for the purposes of section 41 above of that property.
+
+(3) A determination made under subsection (2) above shall have effect from the valuation date.
+
+(4) Where any drainage board make a determination under this section [[^F111]or under regulations under section 41A(1) above], they shall serve notice of the determination, together with a statement in writing of the right of appeal under section 45 below, on the occupier of the property to which the determination relates.
+
+(5) For the purpose of enabling the drainage board for an internal drainage district to comply with their obligations under subsections (1) and (2) above [[^F112]or under regulations under section 41A above], the occupier of a chargeable property shall afford reasonable facilities for inspecting the property to the drainage board for the internal drainage district in which the property lies and to the officers and agents of that board.
+
+##### 43 Adjustment of annual values to secure fair distribution of rating burden.
+
+(1) If the drainage board for any internal drainage district are of the opinion that the amount of the annual value of any chargeable property in that district should be increased or reduced, having regard to changes in the relevant circumstances, for the purpose of securing that the burden of the drainage rates payable in respect of all chargeable properties in the district is fairly distributed so far as reasonably practicable among the persons liable to pay those rates, the board may make a determination of annual value under this section.
+
+(2) If the occupier of any chargeable property in a drainage district is of the opinion that, having regard to changes in the relevant circumstances, the amount of the annual value of the property should be altered for the purpose mentioned in subsection (1) above—
+
+(a) he may request the drainage board in writing to make a determination under this section in respect of the property; and
+
+(b) the board shall either comply with the request or, if they consider that no alteration of the value is required for that purpose, determine that the request be refused.
+
+(3) A determination of annual value under this section shall be a determination in accordance with section 44 below specifying as the annual value of the chargeable property in question such greater or smaller amount than the amount of the annual value as the board, having regard—
+
+(a) to the changes in the relevant circumstances; and
+
+(b) to any other alterations of annual values under this section made or proposed by the board,
+
+consider just for the purpose mentioned in subsection (1) above.
+
+(4) For the purposes of this section a change in the relevant circumstances, in relation to any chargeable property, is a change in the circumstances by reference to which the annual value of the property in question, or of any other chargeable property in the district in question, was fixed.
+
+##### 44 Effect of determinations under section 43.
+
+(1) Where a drainage board make a determination under section 43 above, they shall serve notice of the determination, together with a statement in writing of the rights of appeal conferred by section 45 below, on the occupier of the chargeable property to which the determination relates.
+
+(2) Subject to [[^F113]regulations under section 41A above and to] section 46 below (and notwithstanding anything in section 41 above), where a determination of annual value under section 43 above is made in pursuance of section 43(1) above, the annual value of the property in question shall, for the purposes of any drainage rate made after the effective date, be that specified in the determination.
+
+(3) Subject to [[^F114]regulations under section 41A above and to] section 46 below (and notwithstanding anything in section 41 above), where a determination of annual value under section 43 above is made in pursuance of section 43(2) above, the annual value of the property in question shall for the purposes of—
+
+(a) any drainage rate made in respect of any period included in the financial year in which the request for the determination was made; and
+
+(b) any drainage rate made in respect of any subsequent period,
+
+be that specified in the determination.
+
+(4) Where—
+
+(a) the annual value of any chargeable property is altered by a determination under section 43 above which is made in pursuance of subsection (2) of that section;
+
+(b) drainage rates for any period in respect of the chargeable property have been or are subsequently paid by reference to its annual value before the alteration; and
+
+(c) the period is one for which, in accordance with subsection (3) above, the amount of those rates falls to be assessed on the value specified in the determination,
+
+that amount shall be recalculated accordingly and any sum overpaid shall be repaid or allowed, and any sum underpaid may be recovered as if it were arrears of drainage rates.
+
+(5) In this section “the effective date”, in relation to a determination under section 43 above, means the date on which notice of the determination is served in pursuance of subsection (1) above on the occupier of the chargeable property to which the determination relates.
+
+##### 45 Appeals against determinations of annual value.
+
+(1) Subject to the following provisions of this section, where a determination under [[^F115]regulations under section 41A above or a determination under] section 42 or 43 above is made by the drainage board for an internal drainage district, the occupier of the land in respect of which the determination is made may appeal, in accordance with this section, against the determination.
+
+(2) An occupier who wishes to appeal under this section against any determination must, before the end of—
+
+(a) the period of twenty-eight days beginning with the date of service on him of notice of the determination; or
+
+(b) such longer period as the drainage board which made the determination may allow, either generally or in any particular case,
+
+serve on the board a notice objecting to the determination and stating the grounds of the objection.
+
+(3) Where notice of objection to a determination is served in pursuance of subsection (2) above, the drainage board which made the determination, if they think fit, may, before the end of the period of twenty-eight days beginning with the date of service of the notice on them—
+
+(a) cancel the determination; and
+
+(b) subject to subsection (4) below, make in its place a fresh determination under [[^F116]regulations under section 41A above or a fresh determination under] section 42 or, as the case may be, section 43 above;
+
+and section 46(7) below shall have effect in relation to the cancellation and the other provisions of this Chapter shall have effect in relation to the fresh determination accordingly.
+
+(4) Where notice of objection is served in pursuance of subsection (2) above in respect of a determination made by a drainage board under section 43 above, the board—
+
+(a) may cancel the determination in accordance with subsection (3) above without making a fresh determination in its place; and
+
+(b) where they do so, shall serve notice of cancellation on the person by whom the notice of objection was served on them.
+
+(5) Where—
+
+(a) notice of objection to a determination is served in pursuance of subsection (2) above and is not withdrawn before the end of the period mentioned in subsection (3) above; and
+
+(b) the drainage board which made the determination do not cancel it in accordance with subsection (3) above,
+
+that board shall, forthwith after the end of that period, transmit the notice and a note of the determination to the clerk of the appropriate tribunal.
+
+(6) The transmission in pursuance of subsection (5) above of the notice of objection to a determination by a drainage board shall constitute the lodging of an appeal against the determination, by the person who served the notice on the board, to a [[^F117]valuation tribunal] constituted in accordance with section 46 below.
+
+(7) In subsection (5) above “the appropriate tribunal”, in relation to a determination under [[^F118]regulations under section 41A above or a determination under] section 42 or 43 above, means-
+
+(a) the [[^F117]valuation tribunal] established, [^F119]..., for the area in which the land to which the determination relates is situated; or
+
+(b) where different parts of that land are situated in different areas for which such tribunals are established, such one of those tribunals as may be determined by or under the [^M18]Drainage Rates (Appeals) Regulations 1970.
+
+[[^F120](8) For the purposes of subsection (7)—
+
+(a) “valuation tribunal” means—
+
+(i) the Valuation Tribunal for England, or
+
+(ii) a valuation tribunal established under paragraph 1 of Schedule 11 to the Local Government Finance Act 1988;
+
+(b) England is to be treated as the area for which the Valuation Tribunal for England is established.]
+
+##### [^X1]46 Hearing and determination of appeals under section 45.
+
+(1) It shall be the duty of the president of the [[^F121]valuation tribunal] to whose clerk a notice of objection is transmitted in pursuance of section 45 above to arrange for the appeal to which the notice relates to be heard and determined.
+
+(2) Subsections (5) and (6) of section 88 of the 1967 Act shall apply—
+
+(a) to the constitution of the tribunal to hear and determine an appeal against a determination under [[^F122]regulations under section 41A above or a determination under] section 42 or 43 above; and
+
+(b) to the rehearing of such an appeal in case of such a failure to agree as is mentioned in subsection (6) of section 88 of that Act.
+
+(3) On the hearing of an appeal to a [[^F121]valuation tribunal] against a determination under [[^F123]regulations under section 41A above or a determination under] section 42 or 43 above the following persons, that is to say—
+
+(a) the person whose notice of objection to the determination in question has resulted in the hearing;
+
+(b) any other person who is the occupier of any land to which the determination relates; and
+
+(c) the drainage board by which the determination was made,
+
+shall be entitled to appear and be heard as parties to the appeal and to call witnesses and to examine any witness before the tribunal.
+
+(4) On an appeal to a [[^F121]valuation tribunal] against a determination under [[^F124]regulations under section 41A above or a determination under] section 42 or 43 above, the tribunal—
+
+(a) shall sit in public, unless the tribunal otherwise orders, on being satisfied, on the application of a party to the appeal, that the interests of that party would be prejudicially affected; and
+
+(b) shall have power to administer oaths and to take evidence on oath;
+
+but, subject to that and to the [^M19]Drainage Rates (Appeals) Regulations 1970, the procedure of such a tribunal in relation to such an appeal shall be such as the tribunal may determine.
+
+(5) The tribunal which is convened under this section to determine an appeal against a determination under [[^F125]regulations under section 41A above or a determination under] section 42 or 43 above shall, after hearing the persons mentioned in subsection (3) above or such of them as desire to be heard, do one of the following—
+
+(a) quash the determination to which the appeal relates; or
+
+(b) alter the determination in such manner as the tribunal thinks just; or
+
+(c) dismiss the appeal.
+
+(6) Section 77 of the 1967 Act (which provides for appeals from [[^F126]valuation tribunals] to the [[^F127]Upper Tribunal]) shall have effect in relation to a decision of a [[^F128]valuation tribunal] on an appeal against a determination under [[^F129]regulations under section 41A above or a determination under] section 42 or 43 above as if—
+
+(a) for the reference to section 76 of that Act there were substituted a reference to the preceding provisions of this section; and
+
+(b) the words from “and the valuation officer” onwards were omitted.
+
+(7) Where a determination under [[^F130]regulations under section 41A above or a determination under] section 42 or 43 above of the amount of the annual value of any property is quashed or altered on appeal or is cancelled in accordance with section 45 above, then (except in so far as the parties agree otherwise)—
+
+(a) that amount of the annual value shall be recalculated accordingly; and
+
+(b) any sum overpaid shall be repaid or allowed and any sum underpaid may be recovered as if it were arrears of drainage rates.
+
+(8) Where a determination under [[^F131]regulations under section 41A above or a determination under] section 42 or 43 above which has been quashed is subsequently restored on appeal—
+
+(a) the amount of any drainage rate falling to be recalculated in consequence of the appeal shall (except in so far as the parties agree otherwise) be recalculated accordingly; and
+
+(b) any sum overpaid shall be repaid or allowed and any sum underpaid may be recovered as if it were arrears of drainage rates.
+
+(9) In this section “the 1967 Act” means the [^M20]General Rate Act 1967.
+
+#### Power to grant exemptions from rating
+
+##### 47 Power to grant exemptions from rating.
+
+(1) The drainage board for an internal drainage district, after consultation with the [[^F132]appropriate supervisory body], may by order determine that no rates shall be levied by them on the occupiers of hereditaments in any portion of the district which, in their opinion, ought (either by reason of its height above sea level or for any other reason) to be exempted wholly from rating.
+
+(2) Subsections (5) to (7) of section 38 above shall apply in relation to orders made under this section as they apply in relation to orders made under that section.
+
+(3) Where the occupier of any hereditament in an internal drainage district requests the drainage board for the district to make or amend an order under this section so as to exempt from drainage rates the portion of the district in which the hereditament is situated, the board—
+
+(a) shall consider the request; and
+
+(b) if so directed under this section, shall comply with it.
+
+(4) Where a request under subsection (3) above is refused by the drainage board for an internal drainage district, the person making it may appeal—
+
+(a) to the [[^F132]appropriate supervisory body]; or
+
+(b) if the board is the [[^F132]appropriate supervisory body], to the relevant Minister;
+
+and the [[^F132]appropriate supervisory body] or, as the case may be, the relevant Minister may direct the board to make or amend the order as requested.
+
+(5) Where a request under subsection (3) above is neither refused nor complied with within three months after it is made, it shall be treated for the purposes of subsection (4) above as having been refused.
+
+#### Making and assessment of rates
+
+##### 48 Procedure for making of rate.
+
+(1) A drainage rate shall—
+
+(a) be made by the drainage board for an internal drainage district in writing under the common seal of the board; and
+
+(b) be treated as made on the date on which a resolution is passed by the board authorising their seal to be affixed to the rate.
+
+(2) A drainage rate made by a drainage board shall not be valid unless notice of it stating-
+
+(a) the amount of the rate;
+
+(b) the amounts of the board’s expenses to be raised by means of drainage rates and special levies, respectively; and
+
+(c) the date on which the rate was made,
+
+is given by the board in accordance with subsection (3) below within ten days of its being made.
+
+(3) A notice under subsection (2) above of a rate made by the drainage board for any internal drainage district may, as the board think fit, either—
+
+(a) be affixed in one or more public or conspicuous places in that district; or
+
+(b) be published [[^F133] in some other way ].
+
+[^F134] 3A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) Every drainage rate shall be in the prescribed form.
+
+##### 49 Assessment for rating.
+
+(1) This section shall have effect with respect to the assessment of persons to a drainage rate in respect of any hereditament (“the relevant hereditament”) and the liability of the occupier of that hereditament in respect of the rate.
+
+(2) Every rate shall be assessed on the person who at the date of the making of the rate is the occupier of the relevant hereditament.
+
+(3) The full amount of a drainage rate may be recovered by the drainage board in question from any person who is the occupier of the relevant hereditament at any time during the period in respect of which the rate is made; but a person who is in occupation of any hereditament for part only of the period in respect of which a drainage rate is made shall be liable, by virtue of subsection (4) below, to bear a proportionate part only of the rate.
+
+(4) If a person who is in occupation of the relevant hereditament for part only of a period for which a drainage rate is raised is required under subsection (3) above to pay the full amount of the rate, he may (subject to any agreement to the contrary) recover, from any other person who has been in occupation of the relevant hereditament for part of that period, the amount which that other person is liable to bear.
+
+(5) Where the name of any person liable to be assessed to any drainage rate is not known to the board, it shall be sufficient to assess him by the description of “the occupier” of the premises (naming them) in respect of which the assessment is made, without further name or description.
+
+(6) Every demand for a drainage rate shall be in the prescribed form.
+
+(7) Where the value on which a drainage rate is assessed would, apart from this subsection, include a fraction of a pound, the fraction shall—
+
+(a) if greater than fifty pence, be treated as one pound; and
+
+(b) in any other case, be disregarded.
+
+##### 50 Amendments as respects drainage rates.
+
+(1) The drainage board for an internal drainage district may at any time make such amendments in the current or last preceding drainage rate as appear to them necessary in order to make the rate conform with this Part and, in particular, may—
+
+(a) correct any clerical or arithmetical error;
+
+(b) correct any erroneous insertions or omissions or any misdescriptions;
+
+(c) make such additions or corrections as appear to the board to be necessary by reason of—
+
+(i) any change in the occupation of any hereditament; or
+
+(ii) any property previously rated as a single hereditament becoming liable to be rated in parts.
+
+(2) The drainage board for an internal drainage district shall serve notice of any amendment made by them in pursuance of this section on the occupier of every hereditament affected by it.
+
+(3) Where an amendment is made in pursuance of this section—
+
+(a) any amount overpaid shall be repaid or allowed; and
+
+(b) any amount underpaid may be recovered as if it were arrears of the rate.
+
+##### 51 Other appeals against drainage rates.
+
+(1) Subject to the following provisions of this section, if any person, as occupier of any hereditament in a drainage district, is aggrieved, upon any ground other than a ground upon which he might have appealed in pursuance of section 45 above—
+
+(a) by a drainage rate; or
+
+(b) by an amendment of a drainage rate,
+
+he may appeal against the rate, or the rate as amended, to the Crown Court.
+
+(2) Notice of appeal under this section, specifying the grounds of the appeal, must be given within twenty-eight days after, as the case may be—
+
+(a) the date on which the rate is made; or
+
+(b) the date on which notice of the amendment is served on the appellant,
+
+to the Crown Court, to the internal drainage board in question and also, if the appeal relates to a hereditament not in the occupation of the appellant, to the occupier of that hereditament.
+
+(3) On an appeal under this section, the Crown Court shall, as it thinks just, either confirm the rate or annul or modify it.
+
+(4) The appellant and the respondent to an appeal under this section may agree in writing to refer the matter in dispute to the arbitration of such person as may be agreed between them or, in default of agreement, as may be appointed by the relevant Minister.
+
+(5) In the event of a reference under subsection (4) above, the costs of and incidental to the hearing before the arbitrator and his award shall be in the discretion of the arbitrator and, if not agreed by the parties, shall be taxed as part of the costs of the appeal to the Crown Court.
+
+#### Supplemental and enforcement provisions
+
+##### 52 Registers of drainage hereditaments.
+
+(1) It shall be the duty of the drainage board for each internal drainage district to prepare in the prescribed form and within the prescribed period, or such longer period as the relevant Minister may allow in any particular case—
+
+(a) a register containing the prescribed information in respect of the drainage hereditaments in that district; and
+
+(b) a map showing the prescribed particulars of such of those hereditaments as are of the prescribed description.
+
+(2) It shall be the duty of the drainage board for each internal drainage district—
+
+(a) to maintain the register and map prepared by them in pursuance of subsection (1) above; and
+
+(b) to alter the register or map in such circumstances and in such manner, and within such periods, as may be prescribed.
+
+(3) It shall be the duty of the drainage board for each internal drainage district to keep the register and map maintained by them in pursuance of subsection (2) above open to inspection at prescribed places by members of the public at all reasonable times.
+
+##### 53 Power to require information.
+
+(1) The drainage board for an internal drainage district may serve on the owner of any hereditament in the district in respect of which a drainage rate is levied a notice requiring him to state in writing the name and address of any person known to him as being an occupier of that hereditament.
+
+(2) A person shall be guilty of an offence under this section if, where a notice is served on him under subsection (1) above, he—
+
+(a) fails without reasonable excuse to comply with the notice; or
+
+(b) in pursuance of the notice—
+
+(i) makes any statement in respect of the information required which he knows to be false in a material particular; or
+
+(ii) recklessly makes any statement in respect of that information which is false in a material particular.
+
+(3) A person guilty of an offence under this section shall be liable, on summary conviction, to a fine not exceeding level 4 on the standard scale.
+
+(4) Where—
+
+(a) a person is convicted of an offence under this section in respect of a failure to comply with a notice; and
+
+(b) the failure continues after conviction,
+
+then, unless he has a reasonable excuse for the continuance of the failure, he shall be guilty of a further offence under this section and shall be liable, on summary conviction, to be punished accordingly.
+
+##### 54 Powers for enforcing payment.
+
+(1) Arrears of any drainage rates made under this Chapter may be recovered by the drainage board for an internal drainage district in the same manner in which arrears of a non-domestic rate may be recovered under the [^M21]Local Government Finance Act 1988 by a charging authority.
+
+(2) The drainage board for an internal drainage district may by resolution authorise any member or officer of the board, either generally or in respect of particular proceedings—
+
+(a) to institute or defend on their behalf proceedings in relation to a drainage rate; or
+
+(b) notwithstanding that he is not qualified to act as a solicitor, to appear on their behalf in any proceedings before a magistrates’ court for the issue of a [[^F135] warrant of control ] for failure to pay a drainage rate.
+
+(3) In proceedings for the recovery of arrears of a drainage rate the defendant shall not be entitled to raise by way of defence any matter which might have been raised on an appeal under section 45 or 51 above.
+
+(4) The powers conferred by this section are in addition to, and not in substitution for, the powers conferred by any provision of any local Act on any drainage board in relation to arrears of drainage rates; and for the purposes of any such provisions a rate made under this Chapter shall be treated, subject to subsection (5) below, as a rate to which those provisions apply.
+
+(5) Notwithstanding anything in any local Act—
+
+(a) no distress for arrears of any rate made under this Chapter shall be levied on the goods or chattels of any person other than a person from whom the arrears may be recovered by virtue of subsection (1) above; and
+
+(b) no proceedings shall be taken, whether by action or otherwise, for the enforcement of any charge on land created by a local Act for securing payment of arrears of any rate made under this Chapter.
+
+(6) The drainage board for an internal drainage district shall not be required to enforce payment of any drainage rate in any case where the amount payable is, in their opinion, insufficient to justify the expense of collection.
+
+### CHAPTER III — FURTHER FINANCIAL PROVISIONS
+
+#### 55 Powers of internal drainage boards and local authorities to borrow etc.
+
+(1) Subject to the following provisions of this section, an internal drainage board may borrow, on the security of their property or income—
+
+(a) for the purpose of defraying any costs, charges or expenses incurred by them [[^F136]in the exercise or performance of any power or duty under this Act or the Water Resources Act 1991]; or
+
+(b) for the purpose of discharging any loan contracted by them under this Act or any provision re-enacted, whether directly or indirectly, by this Act.
+
+(2) The council of a county [[^F137], county borough] or London borough and the Common Council of the City of London may borrow for the purposes of this Act.
+
+(3) The consent of the relevant Minister shall be required for any borrowing by an internal drainage board under this section other than a borrowing for the purpose of discharging any loan previously contracted.
+
+(4) Money borrowed by an internal drainage board under this section may be borrowed for such period not exceeding fifty years as the board, with the consent of the relevant Minister, may in each case determine.
+
+(5) Where the drainage board for an internal drainage district borrow any sums in respect of which they have determined that some part only of that district shall be liable, the money borrowed shall be repayable only out of rates levied on, or special levies issued or contributions received in respect of, that part of the drainage district.
+
+(6) The provisions of the [^M22]Commissioners Clauses Act 1847 as to mortgages shall be incorporated with the provisions of this section so far as it relates to borrowing by an internal drainage board.
+
+(7) Where the owner of any land comprised within any internal drainage district is authorised to invest money on real security, he shall, unless the instrument authorising the investment provides to the contrary, have power to invest money on a first mortgage of the drainage rates leviable by the drainage board for that district.
+
+(8) The reference in subsection (1) above to an internal drainage board borrowing on the security of their property or income is a reference to their borrowing on the security of any property vested in the board or on the security of—
+
+(a) any rates to be levied by the board under this Act;
+
+(b) any special levies to be issued by the board in accordance with regulations under section 75 of the [^M23]Local Government Finance Act 1988; or
+
+(c) any contributions to be paid to the board under this Act.
+
+#### 56 Concurrent power of boards to impose navigation tolls.
+
+(1) The power of the [[^F138]appropriate agency] under section 143 of the [^M24]Water Resources Act 1991 to make an application for the imposition of tolls in respect of navigation shall, in the case of waters within an internal drainage district which do not form part of a main river, be exercisable by the drainage board for that district, concurrently with the [[^F138]appropriate agency].
+
+(2) Subsection (4) of section 143 of the Water Resources Act 1991 shall have effect in relation to tolls imposed, by virtue of this section, on the application of an internal drainage board as if the reference in that subsection to the [[^F138]appropriate agency] were a reference to that board.
+
+#### 57 Contributions by the [[^F139]appropriate agency] to expenses of internal drainage boards.
+
+(1) Where it appears to the drainage board for any internal drainage district that, by reason—
+
+(a) of the quantity of water which that district receives from lands at a higher level; or
+
+(b) of the period that will elapse before that district obtains any relief from operations of the [[^F139]appropriate agency] on a main river,
+
+it is fair that a contribution towards their expenses should be made by the [[^F139]appropriate agency], they may make an application to the [[^F139]appropriate agency] for a contribution.
+
+(2) On an application under subsection (1) above the [[^F139]appropriate agency] may resolve to make to the internal drainage board such contribution, if any, as may be specified in the resolution.
+
+(3) A resolution under this section may be acted upon by the [[^F139]appropriate agency] forthwith, notwithstanding that the period for bringing an appeal under subsection (4) below has not expired or that an appeal so brought is pending.
+
+(4) If—
+
+(a) an internal drainage board is aggrieved by a resolution of the [[^F139]appropriate agency] under this section determining the amount of any contribution or refusing to make a contribution; or
+
+(b) the council of any county [[^F140], county borough] or London borough is aggrieved by any such resolution on the ground that the contribution to be made by the [[^F139]appropriate agency] is excessive,
+
+the board or council may, within six weeks after the date on which notice of the resolution is given by the [[^F139]appropriate agency] to the internal drainage board in question, appeal to the relevant Minister against the resolution.
+
+(5) On an appeal under this section the relevant Minister may, after considering any objections made to him and, if he thinks fit, holding a public local inquiry, make such an order in the matter as he thinks just.
+
+(6) Where—
+
+(a) the [[^F139]appropriate agency] has acted on a resolution by virtue of subsection (3) above; and
+
+(b) an appeal is brought in respect of the resolution,
+
+the relevant Minister shall by his order direct such adjustment to be made in respect of any sums paid in pursuance of the resolution as may be necessary for giving effect to his decision.
+
+(7) Where the relevant Minister makes an order under this section, he shall lay before Parliament particulars of the matter in respect of which the appeal was made and of the reasons for his order.
+
+(8) Compliance with any order made by the relevant Minister under this section may be enforced by mandamus.
+
+#### 58 Allocation of [[^F141]appropriate agency] revenue for its functions as an internal drainage board
+
+(1) Where the [[^F141]appropriate agency] is the drainage board for an internal drainage district (whether by virtue of section 3 or 4 above), it may by resolution specify an amount as corresponding to the amount of any contribution which, if it were not the drainage board for that district, it would—
+
+(a) make to that drainage board under section 57 above; or
+
+(b) require from that board under section 139 of the [^M25]Water Resources Act 1991 (contributions from internal drainage boards to [[^F141]appropriate agency] expenses).
+
+(2) Where any amount is specified under subsection (1) above, then, according as that amount is specified by virtue of paragraph (a) or (b) of that subsection—
+
+(a) expenses incurred by the [[^F141]appropriate agency] as the drainage board for the internal drainage district in question shall, to the extent of that amount, be defrayed out of revenue received by it otherwise than as that board; or
+
+(b) expenses incurred by the [[^F141]appropriate agency] as such shall be defrayed out of sums received by it as that board.
+
+(3) The [[^F141]appropriate agency] shall publish any resolution under this section [^F142]....
+
+[^F143] 3A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) Where a sufficient number of qualified persons or the council of any county [[^F144], county borough]or London borough are aggrieved—
+
+(a) by a resolution of the [[^F141]appropriate agency] under this section;
+
+(b) whether on the ground that it is too small or on the ground that it is too large, by the amount specified in such a resolution; or
+
+(c) by the failure of the [[^F141]appropriate agency] to pass such a resolution,
+
+they may appeal to the relevant Minister.
+
+(5) An appeal under subsection (4) above, other than an appeal on the ground that the [[^F141]appropriate agency] has failed to pass a resolution under this section, must be made within six weeks after the date on which the [[^F141]appropriate agency] published the resolution in respect of which it is made.
+
+(6) On an appeal under subsection (4) above the relevant Minister may, after considering any objections made to him, make such an order in the matter as he thinks just.
+
+(7) An order under subsection (6) above shall be treated as an order on an appeal under section 57(5) above or, as the case may require, under section 140 of the [^M26]Water Resources Act 1991 (appeals with respect to resolutions requiring contributions from internal drainage boards).
+
+#### 59 Grants to drainage bodies.
+
+(1) The appropriate Minister may make grants towards expenditure incurred by internal drainage boards or by other drainage bodies (except the [[^F145]Agency][[^F146]or the Natural Resources Body for Wales]) in the exercise of their functions in carrying out drainage schemes.
+
+(2) Grants under subsection (1) above shall be of such amounts and subject to such conditions as may be approved by the Treasury.
+
+(3) Where a drainage body are about to incur in respect of any work expenditure which, if the work is properly carried out, a grant will be payable under subsection (1) above, the appropriate Minister may, with the approval of the Treasury, make advances to that body on account of the expenditure.
+
+(4) The appropriate Minister may, with the approval of the Treasury, make grants to drainage bodies in respect of expenditure properly incurred by them with a view to
+
+[[^F147](a)] carrying out drainage works, being expenditure towards which, if the works had been properly carried out, a grant would have been payable under subsection (1) above.
+
+[[^F148](b) enabling them to determine in any particular case whether drainage works, or drainage works of any particular description, should or should not be carried out;
+
+[^F149] c . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(d) obtaining, at any time after the carrying out of drainage works, information with respect to—
+
+(i) the quality or effectiveness, or the effect on the environment, of those works; or
+
+(ii) any matter of a financial nature relating to those works.
+
+(4A) Paragraphs (b) to (d) of subsection (4) above are without prejudice to any power—
+
+(a) to make any grant under subsection (1) or (4)(a) above, or
+
+(b) to impose any condition under subsection (2) above,
+
+which could be made or imposed apart from those paragraphs.]
+
+(5) Where a drainage body are about to incur expenditure in respect of which it appears to the appropriate Minister that a grant will be payable under subsection (4) above, he may, with the approval of the Treasury, make advances to the body on account of the expenditure.
+
+(6) The appropriate Minister may, with the approval of the Treasury, make grants to an internal drainage board or a local authority in respect of the cost of any works carried out by the board or authority in pursuance of section 20 above; and the reference to expense in that section shall be construed as excluding the amount of any grant paid under this subsection in respect of the works in question.
+
+(7) The appropriate Minister may, with the approval of the Treasury, make to an internal drainage board grants in respect of expenditure incurred by the board, and advances on account of expenditure to be incurred by the board, in carrying out works for the rebuilding or repair of any bridge maintained by the board, other than works appearing to the appropriate Minister to be maintenance works of a routine kind.
+
+(8) In this section “the appropriate Minister”—
+
+(a) in relation to England, means the Minister; and
+
+(b) in relation to Wales, means the Secretary of State.
+
+#### 60 Power of local authority to contribute to expenses of drainage works.
+
+(1) A local authority may contribute, or undertake to contribute, to the expenses of the carrying out or maintenance of any drainage works by a drainage body such an amount as, having regard to the public benefit to be derived therefrom, appears to the local authority to be proper.
+
+(2) Without prejudice to section 55(2) above, the making of contributions under this section shall be a purpose for which a local authority may borrow.
+
+(2) References in this section to a local authority include references to the Sub-Treasurer of the Inner Temple and to the Under Treasurer of the Middle Temple.
+
+#### 61 Land drainage expenses of local authorities.
+
+(1) Subject to any express provision to the contrary contained in this Act or in Chapter II of Part VI of the [^M27]Water Resources Act 1991, the expenses of the council of a metropolitan district or London borough under this Act or the flood defence provisions of that Act shall be defrayed as general expenses or, if and so far as the council think fit, as special expenses charged on such parts of the metropolitan district or, as the case may be, borough as the council think fit.
+
+(2) The reference in subsection (1) above to the flood defence provisions of the Water Resources Act 1991 shall have the same meaning as is given, by virtue of section 221(1) of that Act, to any such reference in that Act.
+
+## [Part IVA — Duties with respect to the environment and recreation]
+
+### [^F150]61A Duties in relation to drainage boards.
+
+(1) It shall be the duty of an internal drainage board, of each of the Ministers and of the [[^F151]appropriate supervisory body], in formulating or considering any proposals relating to any functions of such a board—
+
+(a) so far as may be consistent—
+
+(i) with the purposes of any enactment relating to the functions of such a board; and
+
+(ii) in the case of the Secretary of State, with his duties under section 2 of the Water Industry Act 1991,
+
+so to exercise any power conferred with respect to the proposals on the board, that Minister or, as the case may be, the [[^F151]appropriate supervisory body] as to further the conservation and enhancement of natural beauty and the conservation of flora, fauna and geological or physiographical features of special interest;
+
+(b) to have regard to the desirability of protecting and conserving buildings, sites and objects of archaeological, architectural or historic interest; and
+
+(c) to take into account any effect which the proposals would have on the beauty or amenity of any rural or urban area or on any such flora, fauna, features, buildings, sites or objects.
+
+(2) Subject to subsection (1) above, it shall be the duty of an internal drainage board, of each of the Ministers and of the [[^F151]appropriate supervisory body], in formulating or considering any proposals relating to any functions of such a board—
+
+(a) to have regard to the desirability of preserving for the public any freedom of access to areas of woodland, mountains, moor, heath, down, cliff or foreshore and other places of natural beauty;
+
+(b) to have regard to the desirability of maintaining the availability to the public of any facility for visiting or inspecting any building, site or object of archaeological, architectural or historic interest; and
+
+(c) to take into account any effect which the proposals would have on any such freedom of access or on the availability of any such facility.
+
+(3) Subsections (1) and (2) above shall apply so as to impose duties on an internal drainage board in relation to—
+
+(a) any proposals relating to the functions of the [[^F151]appropriate supervisory body] or of a water undertaker or sewerage undertaker;
+
+(b) any proposals relating to the management, by the company holding an appointment as such an undertaker, of any land for the time being held by that company for any purpose whatever (whether or not connected with the carrying out of the functions of a water undertaker or sewerage undertaker); and
+
+(c) any proposal which by virtue of section 156(7) of the Water Industry Act 1991 (disposals of protected land) falls to be treated for the purposes of section 3 of that Act as a proposal relating to the functions of a water undertaker or sewerage undertaker,
+
+as they apply in relation to proposals relating to the functions of an internal drainage board but as if, for that purpose, the reference in subsection (1)(a) above to enactments relating to the functions of such a board were a reference to enactments relating to that to which the proposal relates.
+
+(4) Subject to obtaining the consent of any navigation authority, harbour authority or conservancy authority before doing anything which causes navigation which is subject to the control of that authority to be obstructed or otherwise interfered with, it shall be the duty of an internal drainage board to take such steps as are—
+
+(a) reasonably practicable; and
+
+(b) consistent with the purposes of the enactments relating to the functions of that board,
+
+for securing, so long as that board have rights to the use of water or land associated with water, that those rights are exercised so as to ensure that the water or land is made available for recreational purposes and is so made available in the best manner.
+
+(5) It shall be the duty of every internal drainage board, in determining what steps to take in performance of any duty imposed by virtue of subsection (4) above, to take into account the needs of persons who are chronically sick or disabled.
+
+(6) Nothing in this section (or any other provision of this Act) shall require recreational facilities made available by an internal drainage board to be made available free of charge.
+
+(7) In this section—
+
+- “building” includes structure; and
+- “harbour authority” means a harbour authority within the meaning of the Prevention of Oil Pollution Act 1971.
+
+### [[^F152]61B Duties in relation to local authorities.
+
+(1) It shall be the duty of a local authority, of each of the Ministers and of the [[^F153]appropriate agency], in formulating or considering any proposals relating to any functions of a local authority under this Act—
+
+(a) so far as may be consistent—
+
+(i) with the purposes of this Act; and
+
+(ii) in the case of the Secretary of State, with his duties under section 2 of the Water Industry Act 1991,
+
+so to exercise any power conferred with respect to the proposals on the local authority, that Minister or, as the case may be, the [[^F153]appropriate agency] as to further the conservation and enhancement of natural beauty and the conservation of flora, fauna and geological or physiographical features of special interest;
+
+(b) to have regard to the desirability of protecting and conserving buildings, sites and objects of archaeological, architectural or historic interest; and
+
+(c) to take into account any effect which the proposals would have on the beauty or amenity of any rural or urban area or on any such flora, fauna, features, buildings, sites or objects.
+
+(2) Subject to subsection (1) above, it shall be the duty of a local authority, of each of the Ministers and of the [[^F153]appropriate agency], in formulating or considering any proposals relating to any functions of a local authority under this Act—
+
+(a) to have regard to the desirability of preserving for the public any freedom of access to areas of woodland, mountains, moor, heath, down, cliff or foreshore and other places of natural beauty;
+
+(b) to have regard to the desirability of maintaining the availability to the public of any facility for visiting or inspecting any building, site or object of archaeological, architectural or historic interest; and
+
+(c) to take into account any effect which the proposals would have on any such freedom of access or on the availability of any such facility.
+
+(3) In this section “ building ” includes structure. ]
+
+### [[^F154] 61C Duties with respect to sites of special scientific interest.
+
+(1) Where [[^F155]Natural England] or [[^F156]the Natural Resources Body for Wales] are of the opinion that any area of land in England or, as the case may be, in Wales—
+
+(a) is of special interest by reason of its flora, fauna or geological or physiographical features; and
+
+(b) may at any time be affected—
+
+(i) by works, operations or activities of an internal drainage board, or
+
+(ii) by works, operations or activities of a local authority under this Act,
+
+[[^F157]Natural England or [[^F156]the Natural Resources Body for Wales]] shall notify the fact that the land is of special interest for that reason to every internal drainage board and local authority whose works, operations or activities may affect the land.
+
+(2) Where a National Park authority or the Broads Authority is of the opinion that any area of land in a National Park or in the Broads—
+
+(a) is land in relation to which the matters for the purposes of which section 61A or 61B above has effect are of particular importance; and
+
+(b) may at any time be affected—
+
+(i) by works, operations or activities of an internal drainage board, or
+
+(ii) by works, operations or activities of a local authority under this Act,
+
+the National Park authority or Broads Authority shall notify the fact that the land is such land, and the reasons why those matters are of particular importance in relation to the land, to every internal drainage board and local authority whose works, operations or activities may affect the land.
+
+(3) Where an internal drainage board or local authority have received a notification under subsection (1) or (2) above with respect to any land, the board or authority shall consult the notifying body before carrying out any works, operations or activities, or in the case of the authority any works operations or activities under this Act, which appear to the board or authority to be likely—
+
+(a) to destroy or damage any of the flora, fauna, or geological or physiographical features by reason of which the land is of special interest; or
+
+(b) significantly to prejudice anything the importance of which is one of the reasons why the matters mentioned in subsection (2) above are of particular importance in relation to that land.
+
+(4) Subsection (3) above shall not apply in relation to anything done in an emergency where particulars of what is done and of the emergency are notified to [[^F158]Natural England ], [[^F156]the Natural Resources Body for Wales], the National Park authority in question or, as the case may be, the Broads Authority as soon as practicable after that thing is done.
+
+(5) In this section—
+
+- “ the Broads ” has the same meaning as in the Norfolk and Suffolk Broads Act 1988;. . .
+- [^F159] . . . ]
+
+### [[^F160]61D Ministerial directions to drainage boards.
+
+(1) Where the relevant Minister, considers that any works, operations or activities which are being, or are about to be, carried out by an internal drainage board are likely to destroy or seriously damage—
+
+(a) any flora or fauna or any geological or physiographical feature of special interest; or
+
+(b) any building, structure, site or object of archaeological, architectural or historic interest,
+
+which in his opinion is of national or international importance, the relevant Minister may give such directions as he considers appropriate to the internal drainage board with respect to the exercise and performance of their functions.
+
+(2) Except in an emergency, the relevant Minister shall not give directions to an internal drainage board under this section unless he has first consulted the board.
+
+(3) It shall be the duty of an internal drainage board to comply with any direction which they are given under this section.]
+
+### [[^F161]61E Codes of practice.
+
+(1) The Ministers may by order approve any code of practice issued (whether by them or by another person) for the purpose of—
+
+(a) giving practical guidance—
+
+(i) to internal drainage boards with respect to any of the matters for the purposes of which sections 61A and 61C above have effect; and
+
+(ii) to local authorities with respect to any of the matters for the purposes of which sections 61B and 61C above have effect; and
+
+(b) promoting what appear to the Ministers to be desirable practices by internal drainage boards or, as the case may be, local authorities with respect to those matters,
+
+and may at any time by order approve a modification of such a code or withdraw their approval of such a code or modification.
+
+(2) A contravention of a code of practice as for the time being approved under this section shall not of itself—
+
+(a) constitute a contravention of any requirement imposed by section 61A, 61B or 61C above; or
+
+(b) give rise to any criminal or civil liability;
+
+but each of the Ministers shall be under a duty to take into account whether there has been or is likely to be any such contravention in determining when and how he should exercise his powers in relation to an internal drainage board or local authority under this Act.
+
+(3) The power of the Ministers to make an order under this section shall be exercisable by statutory instrument subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(4) The Ministers shall not make an order under this section unless they have first consulted—
+
+(a) the NRA ;
+
+[[^F162](aa) the Natural Resources Body for Wales;]
+
+(b) [[^F163]Natural England] [^F164]...;
+
+(c) the Historic Buildings and Monuments Commission for England; and
+
+(d) such other persons or bodies as the Ministers consider it appropriate to consult.]
+
+[[^F165](5) Subsection (4) does not apply to an order which applies only in relation to England.]
+
+## Part V — MISCELLANEOUS AND SUPPLEMENTAL
+
+### Powers to acquire and dispose of land
+
+#### [[^F166]61F Powers of internal drainage boards and local authorities to facilitate spray irrigation.
+
+(1) Any internal drainage board or local authority may, with the consent of the [[^F167]appropriate agency], operate any drainage works under the control of the board or authority so as to manage the level of water in a watercourse for the purpose of facilitating spray irrigation.
+
+(2) Subsection (1) above is without prejudice to—
+
+(a) the powers of an internal drainage board or local authority in relation to drainage; or
+
+(b) any requirement—
+
+(i) for any other consent of the [[^F167]appropriate agency] or any other person; or
+
+(ii) for any licence, approval, authorisation or other permission or registration.]
+
+#### 62 Powers of internal drainage boards and local authorities to acquire land.
+
+(1) An internal drainage board may, for any purpose in connection with the performance of any of their functions—
+
+(a) acquire land inside or outside their district by agreement; or
+
+(b) if authorised by the relevant Minister, acquire any such land compulsorily.
+
+(2) The exercise of the powers conferred on local authorities by sections 14 to 17 above and section 66 below shall be included in the purposes for which the council of any district or London borough [[^F168]or Welsh county or county borough]or the Common Council of the City of London may be authorised by the Secretary of State to purchase land compulsorily; and subsections (1) and (3) of section 16 above shall apply in relation to the powers conferred by this subsection as they apply in relation to the powers conferred by section 14 above.
+
+(3) The [^M28]Acquisition of Land Act 1981 shall apply in relation to the compulsory acquisition of land in pursuance of subsection (1) or (2) above.
+
+(4) An internal drainage board may exercise the powers conferred by subsection (1) above so as to acquire interests in or rights over land by way of securing the creation of new interests or rights in their favour (as well as by acquiring interests or rights already in existence).
+
+(5) Where an internal drainage board exercise their powers under this section so as to acquire compulsorily an interest in or right over land by way of securing compulsorily the creation in their favour of a new interest or right—
+
+(a) the enactments relating to compensation for the compulsory purchase of land shall, in their application to such acquisition, have effect with the necessary modifications; and
+
+(b) the Acquisition of Land Act 1981 and the [^M29]Compulsory Purchase Act 1965 shall, in their application to such compulsory acquisition, have effect with such modifications as may be prescribed.
+
+(6) Where an internal drainage board propose to acquire by agreement any land belonging to Her Majesty in right of the Duchy of Lancaster—
+
+(a) the Chancellor and Council of that Duchy may sell the land to the board; and
+
+(b) the land may be granted to them, and the proceeds of sale shall be paid and dealt with, as if the land had been sold under the authority of the [^M30]Duchy of Lancaster Lands Act 1855.
+
+#### 63 Power of internal drainage boards to dispose of land.
+
+(1) Subject to the following provisions of this section, an internal drainage board may dispose of land held by them in any manner they wish.
+
+(2) Except with the consent of the relevant Minister, an internal drainage board shall not dispose of land under this section, otherwise than by way of a short tenancy, for a consideration less than the best that can reasonably be obtained.
+
+(3) Except with the consent of the relevant Minister, an internal drainage board shall not dispose under this section, otherwise than by way of a short tenancy, of land which has been acquired by them (whether before or after the commencement of this Act) either—
+
+(a) compulsorily; or
+
+(b) at a time when they were authorised to acquire it compulsorily, by agreement.
+
+(4) For the purposes of this section a disposal of land is a disposal by way of a short tenancy if it consists of—
+
+(a) the grant of a term not exceeding seven years; or
+
+(b) the assignment of a term which at the date of the assignment has not more than seven years to run.
+
+#### 64 Powers of entry for internal drainage boards and local authorities.
+
+(1) Any person authorised by an internal drainage board or local authority, after producing (if so required) a duly authenticated document showing his authority, may at all reasonable times—
+
+(a) enter any land for the purpose of exercising any functions of the board or, as the case may be, any functions under this Act of that authority;
+
+(b) without prejudice to paragraph (a) above, enter and survey any land (including the interior of any mill through which water passes or in connection with which water is impounded) and take levels of the land and inspect the condition of any drainage work on it; and
+
+(c) inspect and take copies of any Acts of Parliament, awards or other documents which—
+
+(i) are in the possession of any internal drainage board, local authority or navigation authority;
+
+(ii) relate to the drainage of land; and
+
+(iii) confer any powers or impose any duties on that board or authority.
+
+[[^F169](1A) A person may not be authorised under subsection (1)(a) or (b) to enter and survey or value land in connection with a proposal to acquire an interest in or a right over land (but see section 172 of the Housing and Planning Act 2016).]
+
+(2) A person entitled under this section to enter any land—
+
+(a) may take with him such other persons and such equipment as may be necessary; and
+
+(b) if the land is unoccupied, shall, on leaving it, leave it as effectually secured against trespassers as he found it.
+
+(3) Except in an emergency, admission to any land shall not be demanded as of right under this section, unless notice of the intended entry—
+
+(a) has been given to the occupier; and
+
+(b) if the land is used for residential purposes or the demand is for admission with heavy equipment, has been given not less than seven days before the demand is made.
+
+(4) Where injury is sustained by any person by reason of the exercise by an internal drainage board or local authority of any of their powers under this section, the board or authority shall be liable to make full compensation to the injured person.
+
+(5) In case of dispute, the amount of the compensation payable under subsection (4) above shall be determined by the [[^F170]Upper Tribunal].
+
+(6) If any person intentionally obstructs or impedes any person exercising a power conferred by this section, he shall be guilty of an offence and liable, on summary conviction, to a fine not exceeding level 4 on the standard scale.
+
+(7) This section shall not apply in relation to land belonging to Her Majesty in right of the Crown or the Duchy of Lancaster, in relation to land belonging to the Duchy of Cornwall or in relation to land belonging to a government department.
+
+(8) This section shall be without prejudice to any other enactment conferring powers of entry.
+
+### Subordinate legislation
+
+#### 65 Land drainage regulations.
+
+(1) Each of the Ministers shall have power to make regulations—
+
+(a) for the purpose of prescribing anything which may be prescribed under this Act (other than under section 74 below); and
+
+(b) generally for the purpose of carrying this Act into effect.
+
+(2) [[^F171]Subject to [[^F172]section 37(5ZH)], [[^F173]section 37A(6) and (7),] [[^F174]section 41A(13) and (14) and] section 66A(4),] the power to make regulations under this section or any other provision of this Act shall be exercisable by statutory instrument subject to annulment in pursuance of a resolution of either House of Parliament.
+
+#### 66 Powers to make byelaws.
+
+[[^F175](1) An internal drainage board may make byelaws for Purpose 1, 2 or 3.
+
+(1A) A local authority, except an English county council, may make byelaws for Purpose 1, 2, 3 or 4.
+
+(1B) An English county council which is a lead local flood authority may make byelaws for Purpose 3 or 4.
+
+(1C) Purpose 1 is to secure the efficient working of a drainage system in the authority's district or area.
+
+(1D) Purpose 2 is to regulate the effects on the environment in the authority's district or area of a drainage system.
+
+(1E) Purpose 3 is to secure the effectiveness of flood risk management work within the meaning of section 14A.
+
+(1F) Purpose 4 is to secure the effectiveness of works done in reliance on section 38 or 39 of the Flood and Water Management Act 2010 (incidental flooding or coastal erosion).]
+
+(2) [[^F176] Byelaws may, in particular, have the purpose of ]—
+
+(a) regulating the use and preventing the improper use of any watercourses, banks or works vested in them or under their control or for preserving any such watercourses, banks or works from damage or destruction;
+
+(b) regulating the opening of sluices and flood gates in connection with any such works as are mentioned in paragraph (a) above;
+
+(c) preventing the obstruction of any watercourse vested in them or under their control by the discharge into it of any liquid or solid matter or by reason of any such matter being allowed to flow or fall into it;
+
+(d) compelling the persons having control of any watercourse vested in the board or local authority or under their control, or of any watercourse flowing into any such watercourse, to cut the vegetable growths in or on the bank of the watercourse and, when cut, to remove them.
+
+[[^F177](3) An internal drainage board may not rely on this section to do anything in connection with a main river, the banks of a main river or any drainage works in connection with a main river.]
+
+(4) No byelaw for any purpose specified in subsection (2)(a) above shall be valid if it would prevent reasonable facilities being afforded for enabling a watercourse to be used by stock for drinking purposes.
+
+(5) Byelaws made under this section shall not be valid until they are confirmed—
+
+(a) in the case of byelaws made by an internal drainage board, by the relevant Minister;
+
+(b) in the case of byelaws made by a local authority, in relation to any area of England, by the Minister; and
+
+(c) [^F178]in the case of byelaws made by a local authority in relation to any area of Wales, by the Secretary of State.
+
+and Schedule 5 to this Act and section 236 of the [^M31]Local Government Act 1972 (procedure for byelaws) shall have effect, respectively, in relation to byelaws made under this section by an internal drainage board and in relation to byelaws made under this section by a local authority.
+
+[[^F179](5A) Subsection (5) is subject to section 66A(1).]
+
+[[^F180](5A) In the case of byelaws made by a local authority in relation to any area of Wales, byelaws under this section shall not be valid until they are confirmed by the Welsh Ministers.
+
+(5B) Sections 7 and 8 of the Local Government Byelaws (Wales) Act 2012 shall have effect in relation to byelaws under this section made by a local authority in Wales.]
+
+(6) If any person acts in contravention of, or fails to comply with, any byelaw made under this section he shall be guilty of an offence and liable, on summary conviction—
+
+(a) to a fine not exceeding level 5 on the standard scale; and
+
+(b) if the contravention or failure is continued after conviction, to a further fine not exceeding £40 for every day on which the contravention or failure is so continued.
+
+(7) If any person acts in contravention of, or fails to comply with, any byelaw made under this section by an internal drainage board or local authority, the board or authority may, without prejudice to any proceedings under subsection (6) above—
+
+(a) take such action as may be necessary to remedy the effect of the contravention or failure; and
+
+(b) recover the expenses reasonably incurred by them in doing so from the person in default.
+
+(8) For the purposes of this section—
+
+(a) subsections (1) and (3) of section 16 above shall apply in relation to the powers conferred by this section as they apply in relation to the powers conferred by section 14 above; and
+
+(b) section 17 above shall apply in relation to the carrying out by a local authority of any drainage works authorised by subsection (7) above as it applies in relation to the carrying out of any drainage works authorised by section 14(1) above;
+
+but nothing in this section shall authorise the carrying out of any works in connection with a main river.
+
+(9) Notwithstanding anything in this Act, no byelaw made by an internal drainage board or local authority under this section shall conflict with or interfere with the operation of any byelaw made by a navigation authority, harbour authority or conservancy authority.
+
+#### 66A [[^F181]Alternative procedure for byelaws made by internal drainage boards
+
+(1) The Secretary of State may by regulations —
+
+(a) provide that section 66(5) and Schedule 5 do not apply to byelaws made under section 66 by internal drainage boards for internal drainage districts which are neither wholly nor partly in Wales, and
+
+(b) make provision about the procedure for the making and coming into force of such byelaws.
+
+(2) The regulations may, in particular, include provision about—
+
+(a) consultation to be undertaken before a byelaw is made;
+
+(b) publicising a byelaw after it is made.
+
+(3) The regulations may make such incidental, consequential, transitional or supplemental provision (including provision amending or repealing any provision of this Act) as the Secretary of State considers appropriate.
+
+(4) Regulations may not be made under subsection (1) unless a draft of the instrument containing the regulations has been laid before, and approved by a resolution of, each House of Parliament.]
+
+### Protective provisions
+
+#### 67 Protection for particular undertakings and savings in respect of works.
+
+(1) Subject to subsection (2) below, Schedule 6 to this Act shall have effect for the protection of particular undertakings in connection with the carrying out of works and other activities under this Act.
+
+(2) Schedule 6 to this Act shall not apply in relation to the carrying out of works under this Act by the [[^F182]Agency][[^F183]or the Natural Resources Body for Wales]; but sections 179 and 183 of, and Schedule 22 to, the [^M32]Water Resources Act 1991 (protective provisions for flood defence works and for certain undertakings) shall apply in relation to the carrying out of works under this Act by the [[^F182]Agency][[^F183]or the Natural Resources Body for Wales] as they apply in relation to the carrying out of works by the [[^F182]Agency][[^F183]or the Natural Resources Body for Wales] under the flood defence provisions of that Act.
+
+(3) Nothing in this Act shall authorise any person to carry out any works or do anything in contravention of any of the provisions of the [^M33]Ancient Monuments and Archaeological Areas Act 1979 [[^F184]or Part 2 of the Historic Environment (Wales) Act 2023].
+
+(4) In the exercise of the powers conferred by this Act due regard shall be had to the interests of fisheries, including sea fisheries.
+
+(5) Nothing in this Act shall prejudice or affect the provisions of Part V of the [^M34]Water Resources Act 1991 (fisheries functions of the [[^F185]appropriate agency]) or of the [^M35]Salmon and Freshwater Fisheries Act 1975 or any right, power or duty conferred or imposed by those provisions.
+
+(6) The reference in subsection (2) above to the flood defence provisions of the Water Resources Act 1991 shall have the same meaning as is given, by virtue of section 221(1) of that Act, to any such reference in that Act.
+
+(7) Without prejudice to paragraph 1 of Schedule 2 to the [^M36]Water Consolidation (Consequential Provisions) Act 1991, any provisions for the protection of any authorities or persons contained in any local Act, so far as by virtue of section 114(2) of the [^M37]Land Drainage Act 1976 (protection under local Acts) they applied immediately before the commencement of this Act in relation to the exercise by any internal drainage board or local authority of powers under any enactment re-enacted by this Act, shall apply to the like extent in relation to the exercise by that board or authority of powers under the corresponding provisions of this Act.
+
+(8) Nothing in this Act shall affect any powers of an internal drainage board under any local Act so far as they existed immediately before the commencement of this Act.
+
+#### 68 Power of navigation authorities etc to divert sewers.
+
+(1) Where any watercourses under the control of an internal drainage board pass under or interfere with, or with the improvement or alteration of, any river, canal, dock, harbour, basin or other work (including any towing-path adjacent thereto) which belongs to or is under the jurisdiction of any relevant authority, the relevant authority may, at their own expense and on substituting for those watercourses other equally effective watercourses—
+
+(a) take up, divert or alter the level of those watercourses; and
+
+(b) do all such matters and things as may be necessary in connection with the works authorised to be done by them under this section.
+
+(2) If any question arises under this section between any internal drainage board and any relevant authority as to whether any watercourses substituted or proposed to be substituted by the relevant authority for any existing watercourses are as effective as the existing watercourses, that question shall be referred to a single arbitrator to be agreed between the parties or, failing such agreement, to be appointed by the President of the Institution of Civil Engineers on the application of either party.
+
+(3) In this section “relevant authority” means any navigation authority, harbour authority or conservancy authority.
+
+### Information provisions
+
+#### 69 Power to hold inquiries for land drainage purposes etc.
+
+(1) Each of the Ministers shall have power to cause such inquiries to be held as he considers necessary or desirable for the purposes of this Act.
+
+(2) Subject to subsection (3) below, the person appointed to hold any inquiry under subsection (1) above or otherwise under this Act may for the purposes of the inquiry—
+
+(a) by summons require any person to attend, at a time and place stated in the summons, to give evidence or to produce any documents in his custody or under his control relating to any matter in question at the inquiry; and
+
+(b) take evidence on oath and for that purpose administer oaths.
+
+(3) No person shall be required, in obedience to a summons under this section, to attend to give evidence or to produce any documents, unless the necessary expenses of his attendance are paid or tendered to him; and nothing in this section shall empower a person holding an inquiry to require the production of the title, or of any instrument relating to the title, of any land which is not the property of a local authority.
+
+(4) Any person who—
+
+(a) refuses or deliberately fails to attend in obedience to a summons under this section, or to give evidence; or
+
+(b) deliberately alters, suppresses, conceals, destroys, or refuses to produce any book or other document which he is required or is liable to be required to produce for the purposes of this section,
+
+shall be guilty of an offence and liable, on summary conviction, to imprisonment for a term not exceeding six months or to a fine not exceeding level 3 on the standard scale or to both.
+
+(5) Where either of the Ministers causes an inquiry to be held under this Act—
+
+(a) the costs incurred by him in relation to the inquiry shall be paid by such authority or party to the inquiry as he may direct; and
+
+(b) the Minister in question may cause the amount of the costs so incurred to be certified;
+
+and any amount so certified and directed to be paid by any authority or person shall be recoverable from that authority or person by that Minister summarily as a civil debt.
+
+(6) Where either of the Ministers causes an inquiry to be held under this section—
+
+(a) he may make orders as to the costs of the parties at the inquiry and as to the parties by whom the costs are to be paid; and
+
+(b) every such order may be made a rule of the High Court on the application of any party named in the order.
+
+(7) Section 42 of the [^M38]Housing and Planning Act 1986 (recovery of Minister’s costs in connection with inquiries) shall apply where either of the Ministers is authorised by virtue of subsection (5) above to recover costs incurred by him in relation to an inquiry as it applies where a Minister is so authorised by virtue of an enactment specified in subsection (1) of that section.
+
+#### 70 Confidentiality of information obtained by [[^F186]Agency] [[^F187]and Natural Resources Body for Wales] etc.
+
+[[^F188](1)] Section 204 of the [^M39]Water Resources Act 1991 (confidentiality of information) shall have effect in relation to information obtained by virtue of the provisions of this Act so far as they relate to functions exercisable by or in relation to the [[^F186]Agency] [[^F189]or the Natural Resources Body for Wales] as it has effect in relation to the information obtained as mentioned in that section.
+
+[[^F190](2) Subsection (1) does not apply to information obtained by virtue of section 37A (disclosure of Revenue and Customs information).]
+
+### Construction of Act
+
+#### 71 Service of documents.
+
+(1) A notice required or authorised to be served under or by virtue of this Act by any person shall be in writing.
+
+(2) Any document required or authorised by virtue of this Act to be served on any person may be served—
+
+(a) by delivering it to him or by leaving it at his proper address or by sending it by post to him at that address; or
+
+(b) if the person is a body corporate, by serving it in accordance with paragraph (a) above on the secretary or clerk of that body; or
+
+(c) if the person is a partnership, by serving it in accordance with paragraph (a) above on a partner or a person having the control of management of the partnership business.
+
+(3) For the purposes of this section and section 7 of the [^M40]Interpretation Act 1978 (which relates to the service of documents by post) in its application to this section, the proper address of any person on whom a document is to be served shall be his last known address, except that—
+
+(a) in the case of service on a body corporate or its secretary or clerk, it shall be the address of the registered or principal office of the body;
+
+(b) in the case of service on a partnership or a partner or a person having the control or management of a partnership business, it shall be the principal office of the partnership;
+
+and for the purposes of this subsection the principal office of a company registered outside the United Kingdom or of a partnership carrying on business outside the United Kingdom is its principal office within the United Kingdom.
+
+(4) If a person to be served by virtue of this Act with any document by another has specified to that other an address within the United Kingdom other than his proper address (as determined in pursuance of subsection (3) above) as the one at which he or someone on his behalf will accept documents of the same description as that document, that address shall also be treated as his proper address for the purposes of this section and for the purposes of the said section 7 in its application to this section.
+
+(5) Where under any provision of this Act any document is required to be served on the owner, on a lessee or on the occupier of any premises then—
+
+(a) if the name or address of the owner, of the lessee or, as the case may be, of the occupier of the premises cannot after reasonable inquiry be ascertained; or
+
+(b) in the case of service on the occupier, if the premises appear to be or are unoccupied,
+
+that document may be served either by leaving it in the hands of a person who is or appears to be resident or employed on the land or by leaving it conspicuously affixed to some building or object on the land.
+
+(6) This section shall not apply to any document in relation to the service of which provision is made by rules of court.
+
+#### 72 Interpretation.
+
+(1) In this Act, unless the context otherwise requires—
+
+- [[^F191]“the Agency” means the Environment Agency;]
+
+- “agricultural buildings” has the meaning provided by paragraphs 2 to 8 of Schedule 5 to the [^M41]Local Government Finance Act 1988;
+
+- “agricultural land” has the meaning provided by paragraphs 2 and 4 to 8 of that Schedule;
+
+- [[^F192]“the appropriate agency” means—
+
+  - in relation to England, the Agency;
+  - in relation to Wales, the Natural Resources Body for Wales;]
+
+- [[^F192]“the appropriate supervisory body” means—
+
+  - in relation to internal drainage districts which are wholly or mainly in England, the Agency;
+  - in relation to internal drainage districts which are wholly or mainly in Wales, the Natural Resources Body for Wales.]
+
+- “banks” means banks, walls or embankments adjoining or confining, or constructed for the purposes of or in connection with, any channel or sea front, and includes all land between the bank and low-watermark;
+
+- “chargeable property” means a hereditament comprising agricultural land or agricultural buildings in respect of which drainage rates may be assessed under Chapter II of Part IV of this Act;
+
+- “charging authority” has the same meaning as in the Local Government Finance Act 1988;
+
+- “conservancy authority” means any person who has a duty or power under any enactment to conserve, maintain or improve the navigation of a tidal water and is not a navigation authority or a harbour authority within the meaning of [[^F193]Chapter II of Part VI of the Merchant Shipping Act 1995];
+
+- [[^F194]“culvert” means a covered channel or pipe which prevents the obstruction of a watercourse or drainage path by an artificial construction.]
+
+- [[^F195]“drainage” includes—
+
+  - (a) defence against water (including sea water);
+  - (b) irrigation, other than spray irrigation;
+  - (c) warping; and
+  - (d) the carrying on, for any purpose, of any other practice which involves management of the level of water in a watercourse;]
+
+- “drainage body” means the [[^F196]Agency] [[^F197]the Natural Resources Body for Wales], an internal drainage board or any other body having power to make or maintain works for the drainage of land;
+
+- [[^F198]“enactment” includes an enactment comprised in subordinate legislation within the meaning of the Interpretation Act 1978;]
+
+- [[^F198]“English drainage board” means a drainage board for an English internal drainage district;]
+
+- [[^F198]“English internal drainage district” means an internal drainage district which is wholly or mainly in England;]
+
+- “financial year” means the twelve months ending with 31st March;
+
+- “harbour” and “harbour authority” have the same meanings as in the [[^F193]Merchant Shipping Act 1995];
+
+- “land” includes water and any interests in land or water and any easement or right in, to or over land or water;
+
+- “local authority” means the council of a county, [[^F199]county borough,] district or London borough or the Common Council of the City of London;
+
+- “main river” has the same meaning as in the [^M42]Water Resources Act 1991;
+
+- “the Minister” means the Minister of Agriculture, Fisheries and Food;
+
+- “the Ministers” means the Minister and the Secretary of State, and in relation to anything which falls to be done by the Ministers, means those Ministers acting jointly;
+
+- [^F200] . . .
+
+- “navigation authority” means any person who has a duty or power under any enactment to work, maintain, conserve, improve or control any canal or other inland navigation, navigable river, estuary, harbour or dock;
+
+- “ordinary watercourse” means a watercourse that does not form part of a main river;
+
+- “prescribed” means prescribed by regulations under section 65 above;
+
+- “qualified authority”, in relation to an internal drainage district, means a charging authority for an area wholly or partly included in that district;
+
+- “qualified persons” shall be construed in accordance with subsection (2) below;
+
+- “the relevant Minister”—
+
+  - ((a)) in relation to internal drainage districts which are neither wholly nor partly in Wales or to the boards for such districts, means the Minister;
+  - ((b)) in relation to internal drainage districts which are partly in Wales or to the boards for such districts, means the Ministers; and
+  - ((c)) in relation to internal drainage districts which are wholly in Wales or to the boards for such districts, means the Secretary of State;
+
+- “watercourse” includes all rivers and streams and all ditches, drains, cuts, culverts, dikes, sluices, sewers (other than public sewers within the meaning of the [^M43]Water Industry Act 1991) and passages, through which water flows.
+
+- [[^F198]“Welsh drainage board” means a drainage board for a Welsh internal drainage district;]
+
+- [[^F198]“Welsh internal drainage district” means an internal drainage district which is wholly or mainly in Wales.]
+
+(2) Subject to the provisions of paragraph 19 of Schedule 2 to the [^M44]Water Consolidation (Consequential Provisions) Act 1991 (which makes provision with respect to qualification under this subsection by reference to drainage rates levied on land in respect of years beginning before 1993), where any provision of this Act refers, in relation to an internal drainage district, to the making of any appeal or petition by a sufficient number of qualified persons—
+
+(a) the persons who are qualified are the occupiers of any land in the district in respect of which a drainage rate is levied; and
+
+(b) subject to subsection (3) below, their number shall be sufficient if (but only if)—
+
+(i) they are not less than forty; or
+
+(ii) they are not less than one-fifth of the number of persons who are qualified to make the petition or appeal; or
+
+(iii) the assessable value for the purposes of the last drainage rate levied in the district of all the land in respect of which they are qualified persons is not less than one-fifth of the assessable value of all the land in respect of which that rate was levied.
+
+(3) In relation to a district divided into sub-districts the persons qualified to make a petition under section 39 above as being the occupiers of land in one of the sub-districts shall also be sufficient in any case where the condition in subsection (2)(b)(ii) or (iii) above would be satisfied if the sub-district were an internal drainage district.
+
+(4) The references to the assessable value of any land in paragraph (b) of subsection (2) above are references to the amount which for the purposes of the drainage rate mentioned in that paragraph would be the annual value of the land.
+
+(5) References in this Act to the carrying out of drainage works include references to the improvement of drainage works.
+
+(6) Nothing in this Act shall operate to release any person from an obligation to which section 21 above applies; and the functions of the [[^F196]Agency] [[^F201], the Natural Resources Body for Wales] or any internal drainage board as respects the doing of any work under this Act are not to be treated as in any way limited by the fact that some other person is under an obligation, by reason of tenure, custom, prescription or otherwise, to do that work.
+
+(7) Where by virtue of any provision of this Act any function of a Minister of the Crown is exercisable concurrently by different Ministers, that function shall also be exercisable jointly by any two or more of those Ministers.
+
+(8) This Act so far as it confers any powers on the [[^F196]Agency] [[^F202]or the Natural Resources Body for Wales] shall have effect subject to the provisions of the [^M45]Water Resources Act 1991.
+
+(9) The powers conferred by this Act on the Common Council of the City of London shall be exercisable as respects that City.
+
+(10) Sub-paragraph (1) of paragraph 1 of Schedule 2 to the [^M46]Water Consolidation (Consequential Provisions) Act 1991 has effect (by virtue of sub-paragraph (2)(b) of that paragraph) so that references in this Act to things done under or for the purposes of provisions of this Act or the Water Resources Act 1991 include references to things done, or treated as done, under or for the purposes of the corresponding provisions of the law in force before the commencement of this Act.
+
+#### 73 Disputes as to whether works connected with main river.
+
+(1) If any question arises under this Act—
+
+(a) whether any work is a drainage work in connection with a main river; or
+
+(b) whether any proposed work will, if constructed, be such a drainage work,
+
+the question shall be referred to one of the Ministers for decision or, if either of the parties so requires, to arbitration.
+
+(2) Where any question is required under subsection (1) above to be referred to arbitration it shall be referred to the arbitration of a single arbitrator appointed—
+
+(a) by agreement between the parties; or
+
+(b) in default of agreement, by the President of the Institution of Civil Engineers on the application of either party.
+
+### Other supplemental provisions
+
+#### 74 Application to Crown.
+
+(1) Subject as otherwise expressly provided in this Act, this Act shall apply to land belonging to Her Majesty in right of the Crown or the Duchy of Lancaster, to land belonging to the Duchy of Cornwall and to land belonging to a government department.
+
+(2) For the purposes of this Act the following shall be deemed to be the owner of land to which this section applies by virtue of this section, that is to say—
+
+(a) in the case of land belonging to Her Majesty in right of the Crown, the Crown Estate Commissioners or the Secretary of State, according as the land is under the management of those Commissioners or the Secretary of State;
+
+(b) in the case of land belonging to Her Majesty in right of the Duchy of Lancaster, the Chancellor of the Duchy; and
+
+(c) in the case of land belonging to the Duchy of Cornwall, such person as the Duke of Cornwall or the possessor for the time being of the Duchy of Cornwall appoints.
+
+(3) Notwithstanding subsection (1) above but subject to subsection (4) below, nothing in this Act shall—
+
+(a) authorise the compulsory acquisition of any land belonging to Her Majesty in right of the Crown or the Duchy of Lancaster, or of any land belonging to the Duchy of Cornwall or a government department;
+
+(b) operate as a grant—
+
+(i) by or on behalf of Her Majesty as owner (whether in right of the Crown or of the Duchy of Lancaster) of any tidal lands; or
+
+(ii) by or on behalf of the Duchy of Cornwall as owner of any such lands,
+
+of any estate or interest in or right over any of those lands or any part of them; or
+
+(c) authorise any person to do any work on, over or under, or to use for any purpose, any tidal lands or any lands belonging to Her Majesty in right of the Crown or of the Duchy of Lancaster, to the Duchy of Cornwall, or to any government department, except—
+
+(i) with the consent of the owner of the land or, in the case of tidal lands, of the owner of the land and of the Secretary of State; and
+
+(ii) in accordance with the approved plans and sections and subject to the prescribed restrictions and conditions;
+
+or
+
+(d) confer any power of levying drainage rates in respect of tidal lands.
+
+(4) Nothing in subsection (3)(c) above shall apply to work done in maintaining existing works on tidal lands, or on land not in occupation of Her Majesty, the Duke of Cornwall or a government department.
+
+(5) Section 222 of the [^M47]Water Resources Act 1991 (Crown application) shall have effect in relation to the provisions of this Act so far as they confer powers on the [[^F203]Agency][[^F204]or the Natural Resources Body for Wales] as it applies in relation to the provisions of that Act.
+
+(6) In this section—
+
+- “tidal lands” means lands below the high-water mark of ordinary spring tides but, for the purposes of subsection (3)(c) above, does not include any lands which are protected, by means of walls, embankments or otherwise, from the incursion of the tides; and
+- “approved” and “prescribed” mean, respectively, approved and prescribed by the Secretary of State or, as the case may be, the owner of the lands, before the commencement of the work in question.
+
+#### 75 [[^F205] Application to the Isles of Scilly.
+
+(1) Subject to the provisions of any order under this section, this Act shall not apply in relation to the Isles of Scilly.
+
+(2) The Secretary of State may, after consultation with the Council of the Isles of Scilly, by order provide for the application of any provisions of this Act to the Isles of Scilly; and any such order may provide for the application of those provisions to those Isles with such modifications as may be specified in the order.
+
+(3) An order under this section may—
+
+(a) make different provision for different cases, including different provision in relation to different persons, circumstances or localities; and
+
+(b) contain such supplemental, consequential and transitional provision as the Secretary of State considers appropriate, including provision saving provision repealed by or under any enactment.
+
+(4) The power of the Secretary of State to make an order under this section shall be exercisable by statutory instrument subject to annulment in pursuance of a resolution of either House of Parliament.]
+
+#### 76 Short title, commencement and extent.
+
+(1) This Act may be cited as the Land Drainage Act 1991.
+
+(2) This Act shall come into force on 1st December 1991.
+
+(3) This Act extends to England and Wales only.
+
+## SCHEDULE 1 — MEMBERS OF INTERNAL DRAINAGE BOARDS
+
+*Section 1.*
+
+### Part I — ELECTION OF MEMBERS
+
+#### Election rules
+
+**1** (1) An election of members of an internal drainage board shall be conducted in accordance with rules contained in regulations made by the relevant Minister—
+
+(a) for the preparation of registers of electors and for securing that the registers are open to inspection;
+
+(b) with respect to the holding and conduct of elections, including provisions as to returning officers, nominations, polls and the counting of votes; and
+
+(c) for allowing any person or body of persons entitled to vote at an election to vote by a deputy.
+
+(2) Provision made by virtue of sub-paragraph (1)(a) above may include provision with respect to the making of objections to entries in registers and with respect to the hearing and determination of such objections.
+
+#### Eligiblity of electors
+
+**2** (1) Subject to sub-paragraphs (2) and (3) below, the electors for members of an internal drainage board shall be the persons who at the date of the election occupy land in the board’s district on which a drainage rate has been levied in the year immediately preceding.
+
+(2) A person shall not be entitled to be an elector by reason of his occupation of land if at the date of the election any amount demanded in respect of any drainage rate levied on that land has remained unpaid for more than a month.
+
+(3) For the purposes of this paragraph the owner of any hereditament shall be deemed to be its occupier during any period during which it is unoccupied.
+
+(4) The preceding provisions of this paragraph and paragraph 3 below shall have effect subject to the provisions of paragraph 17 of Schedule 2 to the [^M48]Water Consolidation (Consequential Provisions) Act 1991 (which makes provision with respect to electors who qualify by reference to drainage rates made in respect of years beginning before 1993).
+
+#### Number of votes for each elector
+
+**3** (1) Each elector at an election of members of an internal drainage board shall be entitled, in accordance with the following table, to one or more votes, according to the assessable value of the property in respect of which the elector is entitled to vote—
+
+|  |  |
+|---|---|
+| *Assessable value* | *Number of votes* |
+| Less than £50 | 1 vote |
+| Not less than £50 but less than £100 | 2 votes |
+| Not less than £100 but less than £150 | 3 votes |
+| Not less than £150 but less than £200 | 4 votes |
+| Not less than £200 but less than £250 | 5 votes |
+| Not less than £250 but less than £500 | 6 votes |
+| Not less than £500 but less than £1,000 | 8 votes |
+| £1,000 or more | 10 votes |
+
+(2) In sub-paragraph (1) above, the reference to the assessable value of any land is a reference to the amount which for the purposes of any drainage rate levied at the relevant date would be the annual value of the land.
+
+(3) In this paragraph “the relevant date” means the date as at which the qualifications of electors is determined for the purposes of the election in accordance with rules made under paragraph 1 above.
+
+#### Qualification for election
+
+**4** (1) A person shall not be qualified for election as a member of an internal drainage board unless he is—
+
+(a) both the owner and the occupier of not less than four hectares of land in respect of which a drainage rate may be levied by the board and which is situated in the electoral district for which he is a candidate for election; or
+
+(b) the occupier, whether under tenancies of year to year or otherwise, of not less than eight hectares of such land as aforesaid; or
+
+(c) the occupier of land which is of an assessable value of £30 or upwards and is situated in the electoral district for which he is a candidate for election; or
+
+(d) a person nominated as a candidate for election by the person (whether an individual or a body of persons) who is both the owner and the occupier of land which—
+
+(i) is situated in the electoral district in question; and
+
+(ii) is either of not less than four hectares in extent or of an assessable value of £30 or upwards.
+
+(2) A person shall not be qualified for the purposes of sub-paragraph (1) above as being an occupier of any land or, as being the owner and occupier of any land or a person nominated by the owner and occupier of any land, if at the date of the election any amount demanded in respect of any drainage rate levied on that land has remained unpaid for more than one month.
+
+(3) In sub-paragraph (1) above, the reference to the assessable value of any land is a reference to the amount which for the purposes of any drainage rate levied at the relevant date would be the annual value of the land.
+
+(4) The preceding provisions of this paragraph shall have effect subject to the provisions of paragraph 18 of Schedule 2 to the [^M49]Water Consolidation (Consequential Provisions) Act 1991 (which makes provision with respect to relevant dates falling before 1st April 1993).
+
+(5) In this paragraph “the relevant date” means the date as at which the qualifications of candidates for the election in question are determined in accordance with rules made under paragraph 1 above.
+
+### Part II — MEMBERS APPOINTED BY CHARGING AUTHORITIES
+
+#### Appointment of members by charging authorities
+
+**5** (1) The charging authority for any area wholly or partly included in an internal drainage district may appoint a member or members of the internal drainage board having power, by virtue of regulations under the [^M50]Local Government Finance Act 1988, to issue special levies to that authority.
+
+(2) In appointing a person to be a member of an internal drainage board a charging authority shall have regard to the desirability of appointing a person who—
+
+(a) has knowledge or experience (including knowledge of the internal drainage district in question or commercial experience) of some matter relevant to the functions of the board; and
+
+(b) has shown capacity in such a matter.
+
+(3) This paragraph has effect subject to the restrictions on appointments which are imposed by paragraph 6 below or, as the case may require, paragraph 16 of Schedule 2 to the [^M51]Water Consolidation (Consequential Provisions) Act 1991 (number of appointed members of internal drainage board allowed in period ending with 31st March 1993).
+
+#### Numbers of members appointed by charging authorities
+
+**6** (1) The number of appointed members of an internal drainage board—
+
+(a) shall be determined, in accordance with the following provisions of this paragraph, for the period 1st April 1993 to 31st March 1996 and each succeeding three-year period beginning with 1st April; and
+
+(b) shall be so determined in relation to each drainage board by reference to [[^F206]the proportion of the expenses of the drainage board to be raised from the proceeds of special levies in the first financial year in that period, determined in accordance with section 37 of this Act.].
+
+(2) The number of appointed members of an internal drainage board—
+
+(a) shall not exceed by more than one the number of other members of the board; and
+
+(b) subject to paragraph (a) above, shall be such that the number of appointed members bears, as nearly as possible, the same proportion to the maximum number of all the members of the board as [[^F207]the proportion of the expenses of the board that is to be raised from the proceeds of special levies.].
+
+(3) If more than one charging authority is entitled to appoint members of an internal drainage board under paragraph 5 above—
+
+(a) each such authority may appoint the number of members of the board calculated by multiplying the maximum number of appointed members by the relevant fraction for that authority and disregarding any fraction in the resulting product; and
+
+(b) where in respect of the board—
+
+(i) any such authority has appointed a member; or
+
+(ii) the calculation referred in paragraph (a) above results in respect of each such authority in a product of less than one,
+
+the charging authorities shall, unless they otherwise agree, jointly appoint the number of members of the board representing the difference between the maximum number of appointed members and the aggregate number of members that may be appointed by individual charging authorities or, as the case may be, constituting the maximum number of appointed members.
+
+(4) For the purposes of sub-paragraph (3) above the relevant fraction, in relation to a charging authority, is the fraction [[^F208]the fraction of the expenses of the internal drainage board that is to be raised from the proceeds of special levies in the first financial year of the relevant period referred to in sub-paragraph (1)(a) above, which is to be raised by a special levy issued to that authority.]
+
+(5) In this paragraph “appointed members”, in relation to an internal drainage board, means members of the board appointed by one or more charging authorities under this Part of this Schedule or, at a time before the commencement of this Act, under the corresponding provisions of the [^M52]Internal Drainage Boards (Finance) Regulations 1990.
+
+### Part III — SUPPLEMENTAL PROVISIONS WITH RESPECT TO MEMBERS
+
+#### Terms of office etc. of members
+
+**7** (1) Subject to the following provisions of this Part of this Schedule, elected members of an internal drainage board shall come into office on 1st November next after the day on which they are elected and shall hold office for a term of three years.
+
+(2) Subject as aforesaid, the terms of appointment of a member of an internal drainage board who is appointed by one or more charging authorities shall be determined by the authority or authorities by which he is appointed.
+
+(3) Subject as aforesaid, the members of an internal drainage board who are appointed by the relevant Minister as first members of that board shall hold office until the end of one year from the 1st November next following the day on which they are appointed.
+
+#### Resignation etc. of elected members
+
+**8** (1) An elected member of an internal drainage board may resign his office by notice given to the chairman of the board.
+
+(2) If an elected member of an internal drainage board is absent from meetings of the board for more than six months consecutively, he shall, unless his absence is due to illness or some other reason approved by the board, vacate his office at the end of that six months.
+
+#### Insolvency of members or candidates
+
+**[^F209]9** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Filling casual vacancies
+
+**10** (1) Subject to sub-paragraph (2) below, if for any reason whatsoever the place of an elected member of an internal drainage board becomes vacant before the end of his term of office, the vacancy shall be filled by the election by the board of a new member.
+
+(2) Where the unexpired portion of the term of office of the vacating member is less than six months, the vacancy need not be filled.
+
+(3) A person elected to fill a casual vacancy shall hold office so long as the vacating member would have held office.
+
+#### Eligibility of vacating member of board
+
+**11** Subject to the preceding provisions of this Schedule, a vacating member of an internal drainage board shall be eligible for re-election or re-appointment.
+
+#### Meaning of “elected member”
+
+**12** References in this Part of this Schedule to an elected member, in relation to an internal drainage board, are references to any member of that board other than a member appointed by one or more charging authorities.
+
+## SCHEDULE 2 — EXPENSES AND PROCEEDINGS ETC. OF INTERNAL DRAINAGE BOARDS
+
+*Section 1.*
+
+### Payment of expenses etc. of members and officers
+
+**1** (1) The relevant Minister may, if he thinks fit, by order authorise an internal drainage board to pay to the chairman of the board, for the purpose of enabling him to meet the expenses of his office, such allowance as may be specified in the order.
+
+(2) An internal drainage board may pay any reasonable expenses incurred by their members and officers in—
+
+(a) attending meetings of the board or a committee or sub-committee thereof;
+
+(b) carrying out inspections necessary for the discharge of the functions of the board; or
+
+(c) attending conferences or meetings convened by one or more internal drainage boards, or by any association of internal drainage boards, for the purpose of discussing matters connected with the discharge of the functions of internal drainage boards;
+
+and may pay any reasonable expenses incurred by their members or officers in purchasing reports of the proceedings of any such conference or meeting.
+
+(3) Without prejudice to the other provisions of this Schedule—
+
+(a) an internal drainage board may enter into a contract with any person under which, in consideration of payments made by the board by way of premium or otherwise, that person undertakes to pay to the board such sums as may be provided in the contract in the event of any member of the board or of any of its committees meeting with a personal accident, whether fatal or not, while he is engaged on the business of the board;
+
+(b) any sum received by an internal drainage board under any such contract shall, after deduction of any expenses incurred in the recovery of that sum, be paid by the board to, or to the personal representatives of, the person in respect of whose accident the sum is received;
+
+and the provisions of the [^M53]Life Assurance Act 1774 shall not apply to any such contract.
+
+### Payments etc. to staff
+
+**2** (1) An internal drainage board may pay to persons employed by them such reasonable remuneration as they think fit.
+
+(2) An internal drainage board may provide housing accommodation for persons employed by them (and may, accordingly, acquire land for that purpose under section 62 of this Act).
+
+### Proceedings of internal drainage board
+
+**3** (1) An internal drainage board may, with the approval of the relevant Minister, make rules—
+
+(a) for regulating the proceedings of the board, including quorum, place of meetings and notices to be given of meetings;
+
+(b) with respect to the appointment of a chairman and a vice-chairman;
+
+(c) for enabling the board to constitute committees; and
+
+(d) for authorising the delegation to committees of any of the powers of the board and for regulating the proceedings of committees, including quorum, place of meetings and notices to be given of meetings.
+
+(2) The first meeting of an internal drainage board shall be held on such day and at such time and place as may be fixed by the relevant Minister; and the relevant Minister shall cause notice of the meeting to be sent by post to each member of the board not less than fourteen days before the appointed day.
+
+(3) Any member of an internal drainage board who is interested in any company with which the board has, or proposes to make, any contract shall—
+
+(a) disclose to the board the fact and nature of his interest; and
+
+(b) take no part in any deliberation or decision of the board relating to such contract;
+
+and such disclosure shall be forthwith recorded in the minutes of the board.
+
+(4) A minute of the proceedings of a meeting of an internal drainage board, or of a committee of such a board, purporting to be signed at that or the next ensuing meeting by a person describing himself as, or appearing to be, the chairman of the meeting to the proceedings of which the minute relates—
+
+(a) shall be evidence of the proceedings; and
+
+(b) shall be received in evidence without further proof.
+
+(5) Until the contrary is proved—
+
+(a) every meeting in respect of the proceedings of which a minute has been so signed shall be deemed to have been duly convened and held;
+
+(b) all the proceedings had at any such meeting shall be deemed to have been duly had; and
+
+(c) where the proceedings at any such meeting are the proceedings of a committee, the committee shall be deemed to have been duly constituted and to have had power to deal with the matters referred to in the minute.
+
+(6) The proceedings of an internal drainage board shall not be invalidated by any vacancy in the membership of the board or by any defect in the appointment or qualification of any member of the board.
+
+### Annual report
+
+**4** (1) An internal drainage board shall—
+
+(a) before such date in every year as the relevant Minister may fix, send to that Minister a report of their proceedings during the preceding year; and
+
+(b) at the same time send a copy of the report to the [[^F210]appropriate supervisory body] and to the council of every county [[^F211], county borough] and London borough in which any part of the board’s district is situated.
+
+(2) Every such report shall be in such form and shall contain particulars with respect to such matters as the relevant Minister may direct.
+
+### Accounts
+
+**5** (1) An internal drainage board shall—
+
+(a) as soon as the accounts of the board have been audited, send a copy of them to the relevant Minister; and
+
+(b) at the same time, send a copy of the accounts to the [[^F212]appropriate supervisory body] and to the council of every county [[^F213], county borough] or London borough in which any part of the board’s district is situated.
+
+(2) A copy of the audited accounts of an internal drainage board shall be kept at the office of the board and any person who is liable to pay drainage rates in the board’s district shall be entitled, without payment, to inspect and take copies of, or extracts from, that copy.
+
+## SCHEDULE 3 — PROCEDURE WITH RESPECT TO CERTAIN ORDERS
+
+*Sections 3 to 5, 32 & 35.*
+
+### Application and interpretation of Schedule
+
+**1** (1) This Schedule applies to the following orders under this Act, that is to say—
+
+(a) any order confirming a scheme under section 3 or 32 of this Act; and
+
+(b) any order under section 4, 5 or 35 of this Act.
+
+(2) References in this Schedule to an unconfirmed order are references to any order to which this Schedule applies other than one confirmed under section 6 of the [^M54]Statutory Orders (Special Procedure) Act 1945.
+
+(3) In this Schedule “the appropriate Minister”, in relation to any order or proposed order, means the Minister or Ministers by whom the order is being or has been made or, as the case may be, by whom the proposal to make the order has been made.
+
+### Notice of proposed order
+
+**2** (1) Before making an order to which this Schedule applies the appropriate Minister shall cause notice of—
+
+(a) his intention to make it;
+
+(b) the place where copies of the draft order may be inspected and obtained; and
+
+(c) the period within which, and the manner in which, objections to the draft order may be made,
+
+to be published in the London Gazette and in such other manner as he thinks best adapted for informing persons affected and to be sent to the persons specified in sub-paragraph (2) below.
+
+(2) The persons referred to in sub-paragraph (1) above are—
+
+(a) every county council [[^F214], county borough council] or London borough council in whose area any part of the area proposed to be affected by the order is situated and, if any part of that area is situated in the City of London, the Common Council of the City of London;
+
+(b) every drainage body, navigation authority, harbour authority or conservancy authority that is known to the appropriate Minister to be exercising jurisdiction within the area proposed to be affected by the order.
+
+### Determination of whether to make order
+
+**3** (1) Before making an order to which this Schedule applies the appropriate Minister—
+
+(a) shall consider any objections duly made to the draft order; and
+
+(b) may, in any case, cause a public local inquiry to be held with respect to any objections to the draft order.
+
+(2) The appropriate Minister, in making an order to which this Schedule applies, may make such modifications in the terms of the draft as appear to him to be desirable.
+
+### Procedure and other matters after the making of an order.
+
+**4** (1) After the appropriate Minister has made an order to which this Schedule applies, the order, together with a notice under sub-paragraph (2) below, shall be published in such manner as he thinks best adapted for informing the persons affected.
+
+[[^F215](1A) But this paragraph does not apply to an order confirming a scheme under section 3 of this Act.]
+
+(2) A notice under this sub-paragraph is a notice—
+
+(a) that the appropriate Minister has made the order; and
+
+(b) that the order will become final and have effect unless, within such period of not less than thirty days as may be specified in the notice, a memorial praying that the order shall be subject to special parliamentary procedure is presented to that Minister by a person who—
+
+(i) is affected by the order; and
+
+(ii) has such interest as may be prescribed as being sufficient for the purpose.
+
+### Orders subject to special parliamentary procedure
+
+**5** (1) If, in the case of any order to which [[^F216] paragraph 4 ] applies, either—
+
+(a) no such memorial as is mentioned in paragraph 4(2) above has been presented within the period so mentioned; or
+
+(b) every memorial so presented has been withdrawn,
+
+the appropriate Minister shall confirm the order and it shall thereupon have effect.
+
+(2) If such a memorial has been presented in respect of such an order and has not been withdrawn, the order shall be subject to special parliamentary procedure.
+
+(3) An order to which this Schedule applies shall, in any event, be subject to special parliamentary procedure if the appropriate Minister so directs.
+
+[[^F217](3A) But sub-paragraph (3) does not apply to an order confirming a scheme under section 3 of this Act.]
+
+(4) The appropriate Minister may, at any time before it has been laid before Parliament, revoke, either wholly or partially, any order to which this Schedule applies which is subject to special parliamentary procedure.
+
+### Notice of unconfirmed orders
+
+**6** As soon as may be after an unconfirmed order has effect, the appropriate Minister shall publish in the London Gazette, and in such other manner as he thinks best adapted for informing persons affected, a notice—
+
+(a) stating that the order has come into force; and
+
+(b) naming a place where a copy of it may be seen at all reasonable hours.
+
+### Challenge to unconfirmed orders
+
+**7** (1) If any person aggrieved by an unconfirmed order desires to question its validity on the ground—
+
+(a) that it is not within the powers of this Act; or
+
+(b) that any requirement of this Act has not been complied with,
+
+he may, within six weeks of the relevant date, make an application for the purpose to the High Court.
+
+(2) Where an application is duly made to the High Court under this paragraph, the High Court, if satisfied—
+
+(a) that the order is not within the powers of this Act; or
+
+(b) that the interests of the applicant have been substantially prejudiced by any requirements of this Act not having been complied with,
+
+may quash the order either generally or in so far as it affects the applicant.
+
+(3) Except by leave of the Court of Appeal, no appeal shall lie to the [[^F218]Supreme Court] from a decision of the Court of Appeal in proceedings under this paragraph.
+
+(4) Subject to the preceding provisions of this paragraph, an unconfirmed order shall not at any time be questioned in any legal proceedings whatsoever.
+
+(5) In this paragraph “the relevant date”, in relation to any order to which this Schedule applies, means—
+
+(a) where the order is subject to special parliamentary procedure, the date on which the order becomes operative under the [^M55]Statutory Orders (Special Procedure) Act 1945;
+
+(b) where the order is not subject to special parliamentary procedure, the date of the publication of the notice mentioned in paragraph 6 above.
+
+### Power to make regulations for purposes of Schedule etc.
+
+**8** The Ministers may make regulations in relation to—
+
+(a) the publication of notices under this Schedule;
+
+(b) the holding of public local inquiries under this Schedule and procedure at those inquiries; and
+
+(c) any other matters of procedure respecting the making of orders to which this Schedule applies.
+
+## SCHEDULE 4 — SCHEMES FOR SMALL DRAINAGE WORKS
+
+*Section 18.*
+
+### Consultation and notice with respect to proposed scheme
+
+**1** (1) Before making a scheme under section 18 of this Act, a local authority shall consult the [[^F219]appropriate agency].
+
+(2) Before making a scheme under section 18 of this Act, the [[^F219]appropriate agency] or a local authority shall give a notice under this paragraph—
+
+(a) to the owners and occupiers of land within the area to which the scheme relates; and
+
+(b) to any other persons appearing to the [[^F219]appropriate agency] or, as the case may be, that local authority to be affected by the scheme.
+
+(3) A notice under this paragraph is a notice in the prescribed manner of—
+
+(a) the intention of making the scheme;
+
+(b) the place where a draft of it can be inspected; and
+
+(c) the period (which shall not be less than thirty days) within which objections to it may be made to the [[^F219]appropriate agency] or local authority.
+
+### Objections to scheme
+
+**2** (1) Where any objections to a scheme are duly made and are not withdrawn—
+
+(a) the [[^F219]appropriate agency]or local authority shall send a copy of the draft scheme, together with copies of the objections, to one of the Ministers; and
+
+(b) the scheme shall not be made unless the draft is confirmed, with or without modifications, by one of the Ministers.
+
+(2) Before either of the Ministers confirms a scheme under this paragraph, he shall either—
+
+(a) cause a public local inquiry to be held; or
+
+(b) give to—
+
+(i) the [[^F219]appropriate agency] or, as the case may be, the local authority; and
+
+(ii) the persons by whom the objections are made,
+
+an opportunity of appearing before and being heard by a person appointed by him for the purpose.
+
+### Notice of scheme after it is made
+
+**3** (1) Where a scheme is made by the [^F220] or a local authority under section 18 of this Act, the [[^F219]appropriate agency] or, as the case may be, that authority shall send copies of the scheme to the owners and occupiers of land in the area to which it relates.
+
+(2) Where the [[^F219]appropriate agency]makes such a scheme it shall also notify the council of any county, [[^F221]county borough,]district or London borough in which any of that land is situated.
+
+## SCHEDULE 5 — BYELAWS
+
+*Section 66.*
+
+### Publicity for application for confirmation
+
+**1** (1) An internal drainage board shall, at least one month before they apply for the confirmation of any byelaw—
+
+(a) cause a notice of their intention to make the application to be published [^F222]...
+
+(b) cause copies of the notice to be served on any public authorities who appear to them to be concerned.
+
+[^F223] 1A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) For at least one month before an application is made for the confirmation of any byelaw, a copy of it shall be deposited at the offices of the relevant drainage board.
+
+(3) The relevant drainage board shall provide reasonable facilities for the inspection, without charge, of a byelaw deposited under sub-paragraph (2) above.
+
+(4) Any person on application to the relevant drainage board shall be entitled to be furnished free of charge with a printed copy of such a byelaw.
+
+### Confirmation
+
+**2** (1) The relevant Minister, with or without a local inquiry, may—
+
+(a) refuse to confirm any byelaw submitted for confirmation under this Schedule; or
+
+(b) confirm any such byelaw either without or, if the relevant drainage board consent, with modifications.
+
+(2) The relevant drainage board shall, if so directed by the relevant Minister, cause notice of any proposed modifications to be given in accordance with his directions.
+
+### Commencement of byelaw
+
+**3** (1) The relevant Minister may fix the date on which any confirmed byelaw is to come into force.
+
+(2) If no date is fixed in relation to a byelaw under sub-paragraph (1) above, the byelaw shall come into force at the end of the period of one month beginning with the date of confirmation.
+
+### Publicity for confirmed byelaw
+
+**4** (1) Any byelaw confirmed under this Schedule shall be printed and deposited at the office of the relevant drainage board and copies of it shall, at all reasonable hours, be open to public inspection without charge.
+
+(2) Any person, on application to the relevant drainage board, shall be entitled to be furnished with a copy of any confirmed byelaw, on payment of such reasonable sum as the relevant drainage board may determine.
+
+### Revocation of byelaw
+
+**5** If it appears to the relevant Minister that the revocation of a byelaw is necessary or expedient, he may, after—
+
+(a) giving notice to the relevant drainage board and considering any objections raised by them; and
+
+(b) if required by them, holding a local inquiry,
+
+revoke that byelaw.
+
+### Proof of byelaws
+
+**6** The production of a printed copy of a byelaw purporting to be made by an internal drainage board upon which is indorsed a certificate, purporting to be signed on their behalf, stating—
+
+(a) that the byelaw was made by that board;
+
+(b) that the copy is a true copy of the byelaw;
+
+(c) that on a specified date the byelaw was confirmed; and
+
+(d) the date (if any) fixed under any enactment for the coming into force of the byelaw,
+
+shall be prima facie evidence of the facts stated in the certificate and without proof of the handwriting or official position of any person purporting to sign the certificate.
+
+### Interpretation
+
+**7** In this Schedule “the relevant drainage board”, in relation to a byelaw, means the internal drainage board which made the byelaw.
+
+## SCHEDULE 6 — PROTECTION FOR PARTICULAR UNDERTAKINGS
+
+*Section 67.*
+
+### Undertakings protected by Schedule
+
+**1** (1) The following are the undertakings protected by this Schedule, that is to say—
+
+(a) the undertakings of the [[^F224]Agency],[[^F225]the Natural Resources Body for Wales,] the Civil Aviation Authority, [[^F226]the Coal Authority] and [[^F227]a universal service provider (so far as it is his undertaking in relation to the provision of a universal postal service)];
+
+(b) the undertaking of any water undertaker or sewerage undertaker;
+
+[[^F228](c) any undertaking consisting in the provision of an electronic communications code network;]
+
+(d) any airport to which Part V of the [^M56]Airports Act 1986 applies;
+
+(e) the undertaking of any public gas supplier within the meaning of Part I of the [^M57]Gas Act 1986;
+
+[[^F229](f) the undertaking of any person who holds a licence under Part 1 of the Electricity Act 1989;]
+
+(g) the undertaking of any navigation authority, harbour authority or conservancy authority;
+
+(h) any public utility undertaking carried on by a local authority under any Act or under any order having the force of an Act.
+
+[[^F230](j) the undertaking of any licensed operator, within the meaning of the Coal Industry Act 1994.]
+
+[[^F231](k) the undertaking of a person who holds a licence under Chapter I of Part I of the Transport Act 2000 (air traffic services) to the extent that it is the person’s undertaking as licence holder.]
+
+[[^F232](1A) In sub-paragraph (1)(a) above “universal service provider” has the same meaning as in [[^F233] Part 3 of the Postal Services Act 2011 ]; and the reference to the provision of a universal postal service shall be construed in accordance with [[^F234] that Part ].]
+
+(2) For the purposes of this Schedule any reference in this Schedule, in relation to any such airport as is mentioned in sub-paragraph (1)(d) above, to the persons carrying on the undertaking is a reference to the airport operator.
+
+### Protection for statutory powers and jurisdiction
+
+**2** Without prejudice to any power under this Act to transfer the functions of any authority or to vary navigation rights, nothing in this Act shall confer power to do anything which prejudices the exercise of any statutory power, authority or jurisdiction from time to time vested in or exercisable by any persons carrying on an undertaking protected by this Schedule.
+
+### General provisions protecting undertakings
+
+**3** Nothing in this Act or in any order under this Act shall authorise any person, except with the consent of the persons carrying on an undertaking protected by this Schedule, to do any work which, whether directly or indirectly, interferes or will interfere—
+
+(a) with the works or any property which is vested in, or under the control of, the persons carrying on that undertaking, in their capacity as such; or
+
+(b) with the use of any such works or property,
+
+in such a manner as to affect injuriously those works or that property or the carrying on of that undertaking.
+
+### Special protection for railways etc.
+
+**4** Without prejudice to the preceding provisions of this Schedule, nothing in the provisions of this Act shall authorise any person, except with the consent of the British Railways Board, [[^F235]Transport for London or any subsidiary (within the meaning of the Greater London Authority Act 1999) of Transport for London,] or, as the case may be, the railway company in question, to interfere with—
+
+(a) any railway bridge or any other work connected with a railway; or
+
+(b) the structure, use or maintenance of a railway or the traffic on it.
+
+### Conditions of consent and grounds for refusal
+
+**5** A consent for the purposes of paragraph 3 or 4 above may be given subject to reasonable conditions but shall not be unreasonably withheld.
+
+### Determination of disputes
+
+**6** If any question arises under this Schedule—
+
+(a) as to whether anything done or proposed to be done interferes or will interfere as mentioned in paragraph 3 or 4 above;
+
+(b) as to whether any consent for the purposes of this Schedule is being unreasonably withheld; or
+
+(c) as to whether any condition subject to which any such consent has been given was reasonable,
+
+that question shall be referred to a single arbitrator to be agreed between the parties or, failing such an agreement, to be appointed by the President of the Institution of Civil Engineers.
+
+## Table of Derivations
+
+*Notes:*
+
+**1** The following abbreviations are used in this Table:—
+
+|  |  |
+|---|---|
+| 1976 | = The Land Drainage Act 1976 (c. 70) |
+| 1980(MCA) | = The Magistrates’ Courts Act 1980 (c. 43) |
+| 1982(CJA) | = The Criminal Justice Act 1982 (c. 48) |
+| 1984 | = The Telecommunications Act 1984 (c. 12) |
+| 1985(LG) | = The Local Government Act 1985 (c. 51) |
+| 1989 | = The Water Act 1989 (c. 15) |
+| 1989(EA) | = The Electricity Act 1989 (c. 29) |
+| 1990 | = The Environmental Protection Act 1990 (c. 43) |
+| R: (followed by a number) | = The recommendation so numbered as set out in the Appendix to the Report of the Law Commission ( Cm. 1483). |
+
+**2** Transfer of functions orders (“TFOs”), where applicable in relation to a provision re-enacted in the consolidation Bills, are specified at the appropriate place in column 2 of the Table.
+
+**3** General provisions contained in section 32 of the Magistrates’ Courts Act 1980 (c. 43) and section 46 of the Criminal Justice Act 1982 (c. 48) provide, respectively, for the maximum fine on summary conviction of an either way offence to be the statutory maximum and for a reference to the amount of the maximum fine to which a person is liable in respect of a summary offence to become a reference to a level on the standard scale. Where the effect of one of these enactments is consolidated it is not referred to separately in column 2 of this Table.
+
+|  |  |
+|---|---|
+| Provision of Act | Derivation |
+| 1 | 1976 ss. 6 & 7 & Sch 2 para 2; 1989 s. 140; SI 1990/72 reg 19(1) & (2); TFO: SI b1978/272 Sch 3 para 7(4) & (13). |
+| 2 | 1976 s. 14; 1989 Sch 15 para 1; TFO: SI 1978/272 Sch 3 para 7(4). |
+| 3 | 1976 ss. 11(1) & (3)–(5), 109(1),(5) & (6) & 114(3); 1989 Sch 15 para 1; SI 1991/983; TFO: SI 1978/272 Sch 3 para 7(4). |
+| 4 | 1976 ss. 11(2) & 12 & 109(1) & (6); 1989 Sch 15 para 1; SI 1991/983; TFO: SI 1978/272 Sch 3 para 7(4). |
+| 5 | 1976 ss. 13 & 109(1) & (6); 1989 Sch 15 para 1; SI 1991/983; TFO: SI 1978/272 Sch 3 para 7(4). |
+| 6 | 1976 s. 94; 1989 Sch 15 paras 1 & 33; TFO: SI 1978/272 Sch 3 para 7(8). |
+| 7 | 1976 ss. 15 & 116(4); 1989 Sch 15 para 1; TFO: SI 1978/272 Sch 3 para 7(4). |
+| 8 | 1976 ss. 24(2) & 28(1); 1989 Sch 15 paras 9(1) & 12(1). |
+| 9 | 1976 ss. 16(1)–(4) & 116(1); 1982(CJA) s. 38; 1989 Sch 15 para 1; TFO: SI 1978/272 Sch 3 para 7(4). |
+| 10 | 1976 s. 16(5)–(7); 1985(LG) Sch 7 para 2; 1989 Sch 15 para 1; TFO: SI 1978/272 Sch 3 para 7(4). |
+| 11 | 1976 s. 21; 1989 Sch 15 paras 1 & 6. |
+| 12 | 1989 ss. 8(1)–(3), (5)–(7) & 152(8). |
+| 13 | 1989 s. 9; 1990 Sch 9 para 17(2). |
+| 14 | 1976 ss. 17, 98(1) & (7) & 100(3); 1989 Sch 15 paras 1 & 5. |
+| 15 | 1976 ss. 8(1), 33, 98(1) & (7) & 100(3); 1989 Sch 15 para 1; 1990 Sch 15 para 18. |
+| 16 | 1976 s. 98(5), (5A) & (6); 1985(LG) Sch 7 para 6; 1989 Sch 15 para 1. |
+| 17 | 1976 ss. 98(8)–(13) & 116(4); 1989 Sch 15 para 1. |
+| 18 | 1976 ss. 30, 31(4)–(6), 100(1) & 109(1); 1989 Sch 15 paras 1 & 34; SI 1978/319 Sch para 1; TFO: SI 1978/272 Sch 3 para 7(5). |
+| 19 | 1976 ss. 8(1) & 23(2)–(5); 1984 Sch 4 para 66(1); 1989 Sch 15 paras 1 & 8; TFOs SI 1978/272 Sch 3 para 7(4) & (6); R: 16. |
+| 20 | 1976 ss. 8(1), 22, 99 & 116(4); 1985(LG) Sch 7 para 7; 1989 Sch 15 para 7. |
+| 21 | 1976 ss. 8(1); 24(2) & (3); 1989 Sch 15 paras 1 & 9(1). |
+| 22 | 1976 s. 93; 1989 Sch 15 para 32; TFO: SI 1978/272 Sch 3 para 7(3). |
+| 23 | 1976 ss. 28(1)–(3) & (10)–(11A), 109(1) & (2) & 116(4); 1989 Sch 15 paras 1, 12 & 35. |
+| 24 | 1976 s. 28(4)–(9); 1989 Sch 15 para 1; R: 9. |
+| 25 | 1976 ss. 8(1), 18 (1)–(7) & 97(1); 1982(CJA) s. 38; 1989 Sch 15 para 1. |
+| 26 | 1976 ss 18(8)–(11) & 97(3); 1989 Sch 15 para 1. |
+| 27 | 1976 s. 19; 1980(MCA) Sch 7 para 147; 1989 Sch 15 para 1. |
+| 28 | 1976 s. 40. |
+| 29 | 1976 ss. 40(2), 43 & 44; 1986 (c. 49) Sch 3 para 3; TFO SI 1978/272 Sch 3 para 7(3). |
+| 30 | 1976 ss. 40(4), 41, 43(3) & 44. |
+| 31 | 1976 ss. 42 & 44. |
+| 32 | 1976 ss. 25 & 109(1), (5) & (6); 1989 Sch 15 para 1; SI 1991/983; TFO: SI 1978/272 Sch 3 para 7(3). |
+| 33 | 1976 ss. 18(10) & 26(1)–(3); 1989 Sch 15 para 1; TFO: SI 1978/272 Sch 3 para 7(4) & (5). |
+| 34 | 1976 ss. 26(4)–(11) & 109 (6); 1989 Sch 15 para 1 & 10; SI 1991/983; TFO: SI 1978/272 Sch 3 para 7(4) & (5). |
+| 35 | 1976 ss. 8(1), 27 & 109 (1) & (5); 1989 Sch 15 paras 1 & 11; TFOs: SI 1978/272 Sch 3 para 7(4) & (5); SI 1983/1127 art 1(2)(a). |
+| 36 | SI 1990/72 regs 3 & 6(1). |
+| 37 | SI 1990/72 regs 15, 16 & 18. |
+| 38 | 1976 ss. 68(1), (5) & (6); 1989 Sch 15 paras 1 & 28; SI 1990/72 reg 17; TFO: SI 1978/272 Sch 3 para 7(4). |
+| 39 | 1976 s. 69(2)–(6); 1989 Sch 15 para 1; TFO: SI 1978/272 Sch 3 para 7(4) & (5). |
+| 40 | 1976 ss. 63(3) & 83; 1989 Sch 15 para 1; SI 1990/72 regs 5, 6(1) & 8(1)–(3). |
+| 41 | 1976 s. 64(1); 1989 Sch 15 para 27; SI 1990/72 regs 2 & 7(1) & Sch. |
+| 42 | SI 1990/72 reg 7(2), (3) & (5); SI 1991/523 reg 5. |
+| 43 | 1976 s. 67(1)–(3) & (8); SI 1990/72 reg 6(2). |
+| 44 | 1976 s. 67(4)–(7); SI 1990/72 regs 6(2) & 8(6). |
+| 45 | 1976 s. 78; SI 1989/440 Sch 2 para 4; SI 1990/72 regs 3, 5, 6(2) & 7(4); TFO: SI 1978/272 Sch 3 para 7(3). |
+| 46 | 1976 s. 79; SI 1989/440 Sch 2 para 4; SI 1990/72 reg 6(2). |
+| 47 | 1976 s. 68(4)–(9); 1989 Sch 15 paras 1 & 28; SI 1990/72 reg 6(2); TFO: SI 1978/272 Sch 3 para 7(4). |
+| 48 | 1976 ss 72(1) & (4) & 74; SI 1990/72 reg 8(4). |
+| 49 | 1976 ss. 71 & 72(4)–(6); SI 1990/72 reg 6(2(c). |
+| 50 | 1976 s. 76; SI 1990/72 reg 6(2). |
+| 51 | 1976 s. 77; SI 1990/72 reg 6(2); TFO: SI 1978/272 Sch 3 para 7(4). |
+| 52 | 1976 s. 75; TFO: SI 1978/272 Sch 3 para 7(4). |
+| 53 | 1976 s. 82; 1982(CJA) s. 38. |
+| 54 | 1976 ss. 72(7) & 80; SI 1990/72 reg 8(7) & (8). |
+| 55 | 1976 ss. 87, 104 & 107. |
+| 56 | 1976 ss. 8(1) & 88; 1989 Sch 15 paras 1 & 29. |
+| 57 | 1976 s. 84(4)–(8); 1989 Sch 15 para 1; TFO: SI 1978/272 Sch 3 para 7(4). |
+| 58 | 1976 s. 86; 1989 Sch 15 para 1; TFO: SI 1978/272 Sch 3 para 7(4). |
+| 59 | 1976 s. 91; 1989 Sch 15 para 1; TFO: SI 1978/272 Sch 3 para 7(3). |
+| 60 | 1976 s. 102. |
+| 61 | 1976 s. 110(3); 1985(LG) Sch 7 para 8. |
+| 62 | 1976 ss. 37 & 98(3), (5) & (6); IA s. 17; 1981 (c. 67) Sch 4 para 1; 1989 Sch 15 para 17; TFO: SI 1978/272 sch 3 para 7(4). |
+| 63 | 1976 s. 38; TFO: SI 1978/272 sch 3 para 7(4). |
+| 64 | 1976 ss. 39 & 103; 1982(CJA) s. 38. |
+| 65 | 1976 ss. 95 & 109(1) & (2); TFO: SI 1978/272 Sch 3 para 7(9). |
+| 66 | 1976 ss. 8(1), 34 & 98 & Sch 4 para 1; 1982(CJA) s. 38; 1989 Sch 15 para 15; TFO: SI 1978/272 Sch 3 para 7(3). |
+| 67 | 1976 ss. 111, 113 & 114; 1979 (c. 46) Sch 4 para 16; 1989 s. 160. |
+| 68 | 1976 s. 106. |
+| 69 | 1976 s. 96; 1982(CJA) s. 38; 1986 (c. 63) s. 42; TFO: SI 1978/272 Sch para 7(9). |
+| 70 | 1989 s. 174; R: 11. |
+| 71 | 1976 s. 108; 1989 s. 187; R: 14. |
+| 72 | 1976 ss. 24(1), 26(12) 104A & 116; 1985 Sch 7 para 9; SI 1986/208 Sch 1 Pt II para 4; SI 1990/72 regs 2, 6(2), 7(6), 8(5) & 9(3); SI 1991/523 reg 5(c); R: 16. |
+| 73 | 1976 s. 8(2); TFO: SI 1978/272 Sch 3 para 7(5); R: 8. |
+| 74 | 1976 s. 115; 1989 s. 192. |
+| 75 | 1989 s. 193. |
+| Sch 1 | 1976 ss. 7(3) & 83 & Sch 2 paras 1–6 & Pt II; SI 1978/319 Sch para 7(4); 1989 Sch 15 para 40; SI 1990/72 regs 6, 7(6), 19 & 20; SI 1991/523 reg 5(c) & 7; TFO: SI 1978/272 Sch 3 para 7(4); R: 7. |
+| Sch 2 | 1976 s. 35 & Sch 2 paras 8 to 21; 1989 Sch 15 para 1; TFO: SI 1978/272 Sch 3 para 7(4); R: 10. |
+| Sch 3 | 1976 109(4) & Sch 3; TFO: SI 1978/272 Sch 3 para 7(4), (5) & (12). |
+| Sch 4 | 1976 ss. 31(1)–(3) & 100(1) & (2); 1989 Sch 15 para 1; TFO SI 1978/272 sch 3 para 7(5). |
+| Sch 5 | 1976 Sch 4 paras 2–11; 1989 Sch 15 para 41; TFO: SI 1978/272 Sch 3 para 7(4). |
+| Sch 6 | 1976 s. 112; 1984 (c. 12) Sch 4 para 66(1); 1984 (c. 32) Sch 6 para 12; 1986 (c. 31) Sch 2 para 5; 1986 (c. 44) Sch 7 para 25; 1987 (c. 3) Sch 1 para 32; 1989 Sch 15 para 37; 1989(EA) Sch 16 para 21. |
+
+---
+
+[^F1]: Words in s. 1(1)(a) substituted (14.7.2014) by Water Act 2014 (c. 21), s. 94(2)(r), Sch. 10 para. 4
+[^F2]: Words in s. 1(1)(a) inserted (14.7.2017) by Environment (Wales) Act 2016 (anaw 3), s. 88, Sch. 2 para. 21; S.I. 2017/714, art. 2
+[^M1]: 1976 c. 70.
+[^F3]: Words in s. 3 substituted (1.4.2013) by The Natural Resources Body for Wales (Functions) Order 2013 (No. 755), art. 1(2), Sch. 2 para. 317 (with Sch. 7)
+[^F4]: Words in s. 2(2)(b) repealed (14.7.2014) by Water Act 2014 (c. 21), s. 94(3), Sch. 9 para. 2(2); S.I. 2014/1823, art. 2(b)
+[^F5]: S. 2(2A) omitted (21.5.2016) by virtue of Environment (Wales) Act 2016 (anaw 3), ss. 82(1), 88(2)(d)
+[^M2]: 1991 c. 57.
+[^F6]: Words in s. 3(4)(b) repealed (14.7.2014) by Water Act 2014 (c. 21), s. 94(3), Sch. 9 para. 3(2); S.I. 2014/1823, art. 2(b)
+[^F7]: S. 3(4A) omitted (21.5.2016) by virtue of Environment (Wales) Act 2016 (anaw 3), ss. 82(1), 88(2)(d)
+[^F8]: Words in s. 4 heading substituted (1.4.2013) by The Natural Resources Body for Wales (Functions) Order 2013 (No. 755), art. 1(2), Sch. 2 para. 317 (with Sch. 7)
+[^F9]: Words in s. 4 substituted (1.4.1996) by 1995 c. 25, s. 120(1), Sch. 22, para. 191(with ss. 7(6), 115, 117); S.I. 1996/186, art. 3
+[^F10]: Words in s. 5 heading substituted (1.4.2013) by The Natural Resources Body for Wales (Functions) Order 2013 (No. 755), art. 1(2), Sch. 2 para. 317 (with Sch. 7)
+[^F11]: Words in s. 5 substituted (1.4.1996) by 1995 c. 25, s. 120(1), Sch. 22, para. 191(with ss. 7(6), 115, 117); S.I. 1996/186, art. 3
+[^F12]: Words in s. 6 substituted (1.4.2013) by The Natural Resources Body for Wales (Functions) Order 2013 (No. 755), art. 1(2), Sch. 2 para. 317 (with Sch. 7)
+[^F13]: Words in s. 7 heading substituted (1.4.2013) by The Natural Resources Body for Wales (Functions) Order 2013 (No. 755), art. 1(2), Sch. 2 para. 317 (with Sch. 7)
+[^F14]: Words in s. 7 substituted (1.4.1996) by 1995 c. 25, s. 120(1), Sch. 22, para. 191(with ss. 7(6), 115, 117); S.I. 1996/186, art. 3
+[^F15]: Words in s. 8 substituted (1.4.1996) by 1995 c. 25, s. 120(1), Sch. 22, para. 191 (with ss. 7(6), 115, 117); S.I. 1996/186, art. 3
+[^F16]: S. 8 repealed (6.4.2012) by Flood and Water Management Act 2010 (c. 29), s. 49(3), Sch. 2 para. 26 (with s. 49(1)(6)); S.I. 2012/879, art. 3(b)
+[^F17]: Words in s. 9 heading substituted (1.4.2013) by The Natural Resources Body for Wales (Functions) Order 2013 (No. 755), art. 1(2), Sch. 2 para. 317 (with Sch. 7)
+[^F18]: Words in s. 9(1) omitted (6.4.2012) by virtue of Flood and Water Management Act 2010 (c. 29), s. 49(3), Sch. 2 para. 27(a) (with s. 49(1)(6)); S.I. 2012/879, art. 3(b)
+[^F19]: Words in s. 9 substituted (1.4.1996) by 1995 c. 25, s. 120(1), Sch. 22, para. 191 (with ss. 7(6), 115, 117); S.I. 1996/186, art. 3
+[^F20]: Words in s. 9(1) omitted (6.4.2012) by virtue of Flood and Water Management Act 2010 (c. 29), s. 49(3), Sch. 2 para. 27(b) (with s. 49(1)(6)); S.I. 2012/879, art. 3(b)
+[^F21]: Words in s. 10 substituted (1.4.2013) by The Natural Resources Body for Wales (Functions) Order 2013 (No. 755), art. 1(2), Sch. 2 para. 317 (with Sch. 7)
+[^F22]: Words inserted in s. 10(1) (1.4.1996) by 1994 c. 19, s. 22(5) Sch. 11, Pt. II, para. 4(1), (with ss. 54(5)(7), 55(5)); S.I. 1996/396, art.3
+[^F23]: Words in s. 11 substituted (1.4.1996) by 1995 c. 25, s. 120(1), Sch. 22, para. 191 (with ss. 7(6), 115, 117); S.I. 1996/186, art. 3
+[^F24]: Words in s. 11(1) inserted (1.4.2013) by The Natural Resources Body for Wales (Functions) Order 2013 (No. 755), art. 1(2), Sch. 2 para. 318(2) (with Sch. 7)
+[^F25]: Words in s. 11(2) substituted (1.4.2013) by The Natural Resources Body for Wales (Functions) Order 2013 (No. 755), art. 1(2), Sch. 2 para. 318(3) (with Sch. 7)
+[^M3]: 1991 c. 57.
+[^F26]: S. 11(5) added (1.10.2010) by Flood and Water Management Act 2010 (c. 29), s. 49(3), Sch. 2 para. 28 (with s. 49(1)(6)); S.I. 2010/2169, art. 4, Sch.
+[^F27]: S. 12 repealed (21.09.1994) by 1994 c. 25, ss. 2, 3(2)
+[^F28]: S. 13 repealed (21.09.1994) by 1994 c. 25, ss. 2, 3(2)
+[^F29]: Word in s. 14(1)(b) omitted (19.7.2011 for E., 1.10.2011 for W.) by virtue of Flood and Water Management Act 2010 (c. 29), s. 49(3), Sch. 2 para. 29(2)(a) (with s. 49(1)(6)); S.I. 2011/1770, art. 3(e); S.I. 2011/2204, art. 3(2)(c)
+[^F30]: S. 14(1)(b)(ii) omitted (19.7.2011 for E., 1.10.2011 for W.) by virtue of Flood and Water Management Act 2010 (c. 29), s. 49(3), Sch. 2 para. 29(2)(b) (with s. 49(1)(6)); S.I. 2011/1770, art. 3(e); S.I. 2011/2204, art. 3(2)(c)
+[^F31]: S. 14(4)(b) omitted (19.7.2011 for E., 1.10.2011 for W.) by virtue of Flood and Water Management Act 2010 (c. 29), s. 49(3), Sch. 2 para. 29(3) (with s. 49(1)(6)); S.I. 2011/1770, art. 3(e); S.I. 2011/2204, art. 3(2)(c)
+[^F32]: Words in s. 14(6) substituted (1.6.2009) by The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307), art. 1, Sch. 1 para. 238 (with Sch. 5)
+[^F33]: S. 14A inserted (19.7.2011 for E., 1.10.2011 for W.) by Flood and Water Management Act 2010 (c. 29), s. 49(3), Sch. 2 para. 29(1) (with s. 49(1)(6)); S.I. 2011/1770, art. 3(e); S.I. 2011/2204, art. 3(2)(c)
+[^F34]: Words in s. 14A(8)(b) substituted (1.4.2013) by The Natural Resources Body for Wales (Functions) Order 2013 (No. 755), art. 1(2), Sch. 2 para. 319 (with Sch. 7)
+[^M4]: 1990 c. 43.
+[^F35]: Words in s. 15(5) substituted (1.4.1996) by 1994 c. 19, s. 22(5), Sch. 11, Pt. II, para. 4(3), (with ss. 54(5)(7), 55(5)); S.I. 1996/396, art. 3
+[^F36]: Words in s. 16 substituted (1.4.1996) by 1994 c. 19, ss. 22(5), Sch. 11, Pt. II, para. 4(4)(with ss. 54(5)(7), 55(5)); S.I. 1996/396, art.3
+[^F37]: Words inserted in s.16(2) (1.4.1996) by 1994 c. 19, s. 22(5), Sch. 11, Pt. II, para. 4(4) (with ss. 54(5)(7), 55(5)); S.I. 1996/396, art.3
+[^F38]: Word in s. 16 substituted (1.4.2013) by The Natural Resources Body for Wales (Functions) Order 2013 (No. 755), art. 1(2), Sch. 2 para. 320 (with Sch. 7)
+[^F39]: Words in s. 16(2) substituted (1.4.2004) by Water Act 2003 (c. 37), s. 105(3), Sch. 7 para. 40(2); S.I. 2004/641, art. 3(y), Sch. 2 (with Sch. 3 para. 7)
+[^F40]: S. 16(3A) added (1.4.1996) by 1994 c. 19, s. 22(5), Sch. 11, Pt. II, para. 4(4) (with ss. 54(5)(7), 55(5)); S.I. 1996/396, art.3
+[^F41]: S. 17 repealed (19.7.2011 for E., 1.10.2011 for W.) by Flood and Water Management Act 2010 (c. 29), s. 49(3), Sch. 2 para. 30 (with s. 49(1)(6)); S.I. 2011/1770, art. 3(e) (with art. 4(2)); S.I. 2011/2204, art. 3(2)(c) (with art. 5(2))
+[^F42]: Word in s. 18 substituted (1.4.2013) by The Natural Resources Body for Wales (Functions) Order 2013 (No. 755), art. 1(2), Sch. 2 para. 320 (with Sch. 7)
+[^F43]: S. 18(1A) inserted (1.4.1996) by 1994 c. 19, s. 22(5), Sch. 11, Pt. II, para. 4(5) (with ss. 54(5)(7), 55(5)); S.I. 1996/186, art.3
+[^F44]: S. 20(5) added (1.4.1996) by 1994 c. 19, s. 22(5), Sch. 11, Pt. II, para. 4(6) (with ss. 54(5)(7), 55(5)); S.I. 1996/396, art.3
+[^M5]: 1991 c. 57.
+[^F45]: S. 21(6)(b) substituted (6.4.2012) by Flood and Water Management Act 2010 (c. 29), s. 49(3), Sch. 2 para. 31(2) (with s. 49(1)(6)); S.I. 2012/879, art. 3(b)
+[^F46]: S. 21(7) added (6.4.2012) by Flood and Water Management Act 2010 (c. 29), s. 49(3), Sch. 2 para. 31(3) (with s. 49(1)(6)); S.I. 2012/879, art. 3(b)
+[^F47]: Words in s. 22(3)(b) substituted (1.4.2013) by The Natural Resources Body for Wales (Functions) Order 2013 (No. 755), art. 1(2), Sch. 2 para. 321 (with Sch. 7)
+[^F48]: Words in s. 22(7) substituted (1.6.2009) by The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307), art. 1, Sch. 1 para. 239 (with Sch. 5)
+[^F49]: S. 23(1)(b)(c) substituted for s. 23(1)(b) (6.4.2012) by Flood and Water Management Act 2010 (c. 29), s. 49(3), Sch. 2 para. 32(2) (with s. 49(1)(6)); S.I. 2012/879, art. 3(b) (with art. 4)
+[^F50]: S. 23(1A)-(1C) inserted (6.4.2012) by Flood and Water Management Act 2010 (c. 29), s. 49(3), Sch. 2 para. 32(3) (with s. 49(1)(6)); S.I. 2012/879, art. 3(b) (with art. 4)
+[^F51]: Words in s. 23(1B) substituted (1.4.2013) by The Natural Resources Body for Wales (Functions) Order 2013 (No. 755), art. 1(2), Sch. 2 para. 322(2) (with Sch. 7)
+[^F52]: Words in s. 23(1C) substituted (1.4.2013) by The Natural Resources Body for Wales (Functions) Order 2013 (No. 755), art. 1(2), Sch. 2 para. 322(3) (with Sch. 7)
+[^F53]: Word in s. 23(2) substituted (21.9.1995) by 1995 c. 25, s. 120(1), Sch. 22, para. 192(1)(with ss. 7(6), 115, 117); S.I. 1995/1983, art. 3
+[^F54]: S. 23(7A) inserted (21.9.1995) by 1995 c. 25, s. 120(1), Sch. 22, para. 192(2)(with ss. 7(6), 115, 117); S.I. 1995/1983, art. 3
+[^F55]: Words in s. 23(8) substituted (6.4.2012) by Flood and Water Management Act 2010 (c. 29), s. 49(3), Sch. 2 para. 32(5) (with s. 49(1)(6)); S.I. 2012/879, art. 3(b) (with art. 4)
+[^F56]: S. 23(8)(b) substituted (6.4.2012) by Flood and Water Management Act 2010 (c. 29), s. 49(3), Sch. 2 para. 32(6) (with s. 49(1)(6)); S.I. 2012/879, art. 3(b) (with art. 4)
+[^F57]: S. 23(9) added (6.4.2012) by Flood and Water Management Act 2010 (c. 29), s. 49(3), Sch. 2 para. 32(7) (with s. 49(1)(6)); S.I. 2012/879, art. 3(b) (with art. 4)
+[^F58]: Words in s. 25(1) omitted (6.4.2012) by virtue of Flood and Water Management Act 2010 (c. 29), s. 49(3), Sch. 2 para. 33(2)(a) (with s. 49(1)(6)); S.I. 2012/879, art. 3(b) (with art. 4)
+[^F59]: Words in s. 25(1) omitted (6.4.2012) by virtue of Flood and Water Management Act 2010 (c. 29), s. 49(3), Sch. 2 para. 33(2)(b) (with s. 49(1)(6)); S.I. 2012/879, art. 3(b) (with art. 4)
+[^F60]: S. 25(2) omitted (6.4.2012) by virtue of Flood and Water Management Act 2010 (c. 29), s. 49(3), Sch. 2 para. 33(3) (with s. 49(1)(6)); S.I. 2012/879, art. 3(b) (with art. 4)
+[^F61]: Words in s. 25(6)(a) omitted (6.4.2012) by virtue of Flood and Water Management Act 2010 (c. 29), s. 49(3), Sch. 2 para. 33(4) (with s. 49(1)(6)); S.I. 2012/879, art. 3(b) (with art. 4)
+[^F62]: Words in s. 25(7) omitted (6.4.2012) by virtue of Flood and Water Management Act 2010 (c. 29), s. 49(3), Sch. 2 para. 33(4) (with s. 49(1)(6)); S.I. 2012/879, art. 3(b) (with art. 4)
+[^F63]: Words in s. 25(8) omitted (6.4.2012) by virtue of Flood and Water Management Act 2010 (c. 29), s. 49(3), Sch. 2 para. 33(4) (with s. 49(1)(6)); S.I. 2012/879, art. 3(b) (with art. 4)
+[^F64]: S. 26 repealed (6.4.2012) by Flood and Water Management Act 2010 (c. 29), s. 49(3), Sch. 2 para. 34 (with s. 49(1)(6)); S.I. 2012/879, art. 3(b) (with art. 4)
+[^M6]: 1980 c. 43.
+[^F65]: Words in s. 28(1) substituted (1.7.2013) by The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036), art. 1, Sch. 1 para. 213(a) (with Sch. 3)
+[^F66]: Words in s. 28(4) substituted (1.7.2013) by The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036), art. 1, Sch. 1 para. 213(a) (with Sch. 3)
+[^F67]: S. 28(6) inserted (1.7.2013) by The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036), art. 1, Sch. 1 para. 213(b) (with Sch. 3)
+[^F68]: S. 29(1A) inserted (21.5.2016) by Environment (Wales) Act 2016 (anaw 3), ss. 85(1), 88(2)(f) (with s. 85(2))
+[^F69]: Words in s. 29(6) substituted (1.6.2009) by The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307), art. 1, Sch. 1 para. 240 (with Sch. 5)
+[^M7]: 1986 c. 49.
+[^F70]: Words in s. 30(1) substituted (1.7.2013) by The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036), art. 1, Sch. 1 para. 214(a) (with Sch. 3)
+[^F71]: S. 30(5) inserted (1.7.2013) by The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036), art. 1, Sch. 1 para. 214(b) (with Sch. 3)
+[^F72]: Words in s. 31 heading omitted (1.7.2013) by virtue of The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036), art. 1, Sch. 1 para. 215(a) (with Sch. 3)
+[^F73]: Word in s. 31(1) substituted (1.7.2013) by The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036), art. 1, Sch. 1 para. 215(b) (with Sch. 3)
+[^F74]: S. 31(1A) inserted (3.4.2006) by Constitutional Reform Act 2005 (c. 4) , s. 148(1) , Sch. 4 para. 222(2) ; S.I. 2006/1014 , art. 2(a) , Sch. 1 para. 11(u)
+[^M8]: 1947 c. 48 .
+[^F75]: Words in s. 31(4) substituted (1.7.2013) by The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036), art. 1, Sch. 1 para. 215(c) (with Sch. 3)
+[^F76]: S. 31(6) inserted (3.4.2006) by Constitutional Reform Act 2005 (c. 4), s. 148(1), Sch. 4 para. 222(3); S.I. 2006/1014, art. 2(a), Sch. 1 para. 11(u)
+[^F77]: Words in s. 32 substituted (1.4.2013) by The Natural Resources Body for Wales (Functions) Order 2013 (No. 755), art. 1(2), Sch. 2 para. 323 (with Sch. 7)
+[^M9]: 1991 c. 57.
+[^F78]: Words in s. 33(1) substituted (19.7.2011 for E., 1.10.2011 for W.) by Flood and Water Management Act 2010 (c. 29), s. 49(3), Sch. 2 para. 35(2) (with s. 49(1)(6)); S.I. 2011/1770, art. 3(e); S.I. 2011/2204, art. 3(2)(c)
+[^F79]: Words in s. 33(2) substituted (19.7.2011 for E., 1.10.2011 for W.) by Flood and Water Management Act 2010 (c. 29), s. 49(3), Sch. 2 para. 35(3)(a) (with s. 49(1)(6)); S.I. 2011/1770, art. 3(e); S.I. 2011/2204, art. 3(2)(c)
+[^F80]: Word in s. 33(2) substituted (19.7.2011 for E., 1.10.2011 for W.) by Flood and Water Management Act 2010 (c. 29), s. 49(3), Sch. 2 para. 35(3)(b) (with s. 49(1)(6)); S.I. 2011/1770, art. 3(e); S.I. 2011/2204, art. 3(2)(c)
+[^F81]: Words in s. 33(3) substituted (19.7.2011 for E., 1.10.2011 for W.) by Flood and Water Management Act 2010 (c. 29), s. 49(3), Sch. 2 para. 35(4) (with s. 49(1)(6)); S.I. 2011/1770, art. 3(e); S.I. 2011/2204, art. 3(2)(c)
+[^F82]: S. 33(5A)(5B) inserted (19.7.2011 for E., 1.10.2011 for W.) by Flood and Water Management Act 2010 (c. 29), s. 49(3), Sch. 2 para. 35(5) (with s. 49(1)(6)); S.I. 2011/1770, art. 3(e); S.I. 2011/2204, art. 3(2)(c)
+[^F83]: S. 33(6)(a)(aa) substituted for s. 33(6)(a) (19.7.2011 for E., 1.10.2011 for W.) by Flood and Water Management Act 2010 (c. 29), s. 49(3), Sch. 2 para. 35(6) (with s. 49(1)(6)); S.I. 2011/1770, art. 3(e); S.I. 2011/2204, art. 3(2)(c)
+[^F84]: Words in s. 34(2) substituted (19.7.2011 for E., 1.10.2011 for W.) by Flood and Water Management Act 2010 (c. 29), s. 49(3), Sch. 2 para. 36(2) (with s. 49(1)(6)); S.I. 2011/1770, art. 3(e); S.I. 2011/2204, art. 3(2)(c)
+[^M10]: 1864 c. 114.
+[^F85]: Words in s. 34(4) substituted (19.7.2011 for E., 1.10.2011 for W.) by Flood and Water Management Act 2010 (c. 29), s. 49(3), Sch. 2 para. 36(3)(a) (with s. 49(1)(6)); S.I. 2011/1770, art. 3(e); S.I. 2011/2204, art. 3(2)(c)
+[^F86]: Words in s. 34(4) substituted (19.7.2011 for E., 1.10.2011 for W.) by Flood and Water Management Act 2010 (c. 29), s. 49(3), Sch. 2 para. 36(3)(b) (with s. 49(1)(6)); S.I. 2011/1770, art. 3(e); S.I. 2011/2204, art. 3(2)(c)
+[^F87]: Words in s. 34(5) substituted (19.7.2011 for E., 1.10.2011 for W.) by Flood and Water Management Act 2010 (c. 29), s. 49(3), Sch. 2 para. 36(4) (with s. 49(1)(6)); S.I. 2011/1770, art. 3(e); S.I. 2011/2204, art. 3(2)(c)
+[^F88]: Words in s. 34(6) substituted (19.7.2011 for E., 1.10.2011 for W.) by Flood and Water Management Act 2010 (c. 29), s. 49(3), Sch. 2 para. 36(5)(a) (with s. 49(1)(6)); S.I. 2011/1770, art. 3(e); S.I. 2011/2204, art. 3(2)(c)
+[^F89]: Word in s. 34(6) substituted (19.7.2011 for E., 1.10.2011 for W.) by Flood and Water Management Act 2010 (c. 29), s. 49(3), Sch. 2 para. 36(5)(b) (with s. 49(1)(6)); S.I. 2011/1770, art. 3(e); S.I. 2011/2204, art. 3(2)(c)
+[^F90]: Words in s. 34(7) substituted (19.7.2011 for E., 1.10.2011 for W.) by Flood and Water Management Act 2010 (c. 29), s. 49(3), Sch. 2 para. 36(6) (with s. 49(1)(6)); S.I. 2011/1770, art. 3(e); S.I. 2011/2204, art. 3(2)(c)
+[^F91]: Words in s. 34(9) substituted (19.7.2011 for E., 1.10.2011 for W.) by Flood and Water Management Act 2010 (c. 29), s. 49(3), Sch. 2 para. 36(6) (with s. 49(1)(6)); S.I. 2011/1770, art. 3(e); S.I. 2011/2204, art. 3(2)(c)
+[^F92]: Words in s. 35(1) substituted (1.4.2013) by The Natural Resources Body for Wales (Functions) Order 2013 (No. 755), art. 1(2), Sch. 2 para. 324 (with Sch. 7)
+[^F93]: Words in s. 35(3)(a) substituted (13.8.2001) by S.I. 2001/2568, art. 16, Sch. para. 13(a)(b)
+[^F94]: Words in s. 35(3)(b) substituted (25.11.2002) by S.I. 2002/2626, art. 20, Sch. 2 para. 19
+[^F95]: Words in s. 36(1) substituted (1.4.2013) by The Natural Resources Body for Wales (Functions) Order 2013 (No. 755), art. 1(2), Sch. 2 para. 325 (with Sch. 7)
+[^M11]: 1991 c. 60.
+[^M12]: 1988 c. 41.
+[^F96]: Words in s. 37(5) inserted (29.9.2022) by Environment Act 2021 (c. 30), ss. 94(2), 147(3) (with s. 144); S.I. 2022/988, reg. 2(a)
+[^M13]: S.I. 1968/1672.
+[^F97]: S. 37(5)(d)(e) substituted (30.12.1992) for s. 37(5)(d) by S.I. 1992/3079, reg.3.
+[^F98]: S. 37(5ZA)-(5ZH) inserted (29.9.2022) by Environment Act 2021 (c. 30), ss. 94(3), 147(3) (with s. 144); S.I. 2022/988, reg. 2(a)
+[^M14]: 1967 c. 9.
+[^F99]: Ss. 37A-37C and cross-heading inserted (9.1.2022) by Environment Act 2021 (c. 30), ss. 97(2), 147(2)(n) (with s. 144)
+[^F100]: Words in s. 37B(6)(a) substituted (7.2.2023 at 12.00 p.m.) by The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149), regs. 1(2), 2(1), Sch. Pt. 1
+[^F101]: Words in s. 37B(8) substituted (28.4.2022) by The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500), regs. 1(2), 5(1), Sch. Pt. 1
+[^F102]: Words in s. 37B(8) substituted (7.2.2023 at 12.00 p.m.) by The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149), regs. 1(2), 2(1), Sch. Pt. 1
+[^F103]: Words in s. 38 substituted (1.4.2013) by The Natural Resources Body for Wales (Functions) Order 2013 (No. 755), art. 1(2), Sch. 2 para. 325 (with Sch. 7)
+[^M15]: 1988 c. 41.
+[^M16]: 1991 c. 57.
+[^F104]: Words in s. 38(5)(b) repealed (14.7.2014) by Water Act 2014 (c. 21), s. 94(3), Sch. 9 para. 4(2); S.I. 2014/1823, art. 2(b)
+[^F105]: S. 38(6A) omitted (21.5.2016) by virtue of Environment (Wales) Act 2016 (anaw 3), ss. 82(1), 88(2)(d)
+[^F106]: Words in s. 39 substituted (1.4.2013) by The Natural Resources Body for Wales (Functions) Order 2013 (No. 755), art. 1(2), Sch. 2 para. 325 (with Sch. 7)
+[^F107]: Words in s. 39(4)(b) repealed (14.7.2014) by Water Act 2014 (c. 21), s. 94(3), Sch. 9 para. 5(2); S.I. 2014/1823, art. 2(b)
+[^F108]: S. 39(5A) omitted (21.5.2016) by virtue of Environment (Wales) Act 2016 (anaw 3), ss. 82(1), 88(2)(d)
+[^F109]: Words in s. 41(2) inserted (29.9.2022 for specified purposes) by Environment Act 2021 (c. 30), ss. 96(2), 147(3)(4) (with s. 144); S.I. 2022/988, reg. 2(b)
+[^M17]: S.I. 1973/1473.
+[^F110]: S. 41A inserted (29.9.2022 for specified purposes) by Environment Act 2021 (c. 30), ss. 96(3), 147(3)(4) (with s. 144); S.I. 2022/988, reg. 2(b)
+[^F111]: Words in s. 42(4) inserted (29.9.2022 for specified purposes) by Environment Act 2021 (c. 30), ss. 96(4)(a), 147(3)(4) (with s. 144); S.I. 2022/988, reg. 2(b)
+[^F112]: Words in s. 42(5) inserted (29.9.2022 for specified purposes) by Environment Act 2021 (c. 30), ss. 96(4)(b), 147(3)(4) (with s. 144); S.I. 2022/988, reg. 2(b)
+[^F113]: Words in s. 44(2) inserted (29.9.2022 for specified purposes) by Environment Act 2021 (c. 30), ss. 96(5), 147(3)(4) (with s. 144); S.I. 2022/988, reg. 2(b)
+[^F114]: Words in s. 44(3) inserted (29.9.2022 for specified purposes) by Environment Act 2021 (c. 30), ss. 96(5), 147(3)(4) (with s. 144); S.I. 2022/988, reg. 2(b)
+[^F115]: Words in s. 45(1) inserted (29.9.2022 for specified purposes) by Environment Act 2021 (c. 30), ss. 96(6)(a), 147(3)(4) (with s. 144); S.I. 2022/988, reg. 2(b)
+[^F116]: Words in s. 45(3)(b) inserted (29.9.2022 for specified purposes) by Environment Act 2021 (c. 30), ss. 96(6)(b), 147(3)(4) (with s. 144); S.I. 2022/988, reg. 2(b)
+[^F117]: Words in s. 45(6)(7)(a) substituted (6.3.1992) by Local Government Finance Act 1992 (c. 14) , s. 117(1) , Sch. 13 para.99 (with s. 118(1)(2)(4) ).
+[^F118]: Words in s. 45(7) inserted (29.9.2022 for specified purposes) by Environment Act 2021 (c. 30), ss. 96(6)(c), 147(3)(4) (with s. 144); S.I. 2022/988, reg. 2(b)
+[^F119]: Words in s. 45(7)(a) repealed (1.10.2009) by Local Government and Public Involvement in Health Act 2007 (c. 28), s. 245(5), Sch. 16 para. 6(2), Sch. 18 Pt. 17; S.I. 2008/3110, art. 6(d)(i)
+[^M18]: S.I. 1970/1152 .
+[^F120]: S. 45(8) inserted (1.10.2009) by Local Government and Public Involvement in Health Act 2007 (c. 28), s. 245(5), Sch. 16 para. 6(3); S.I. 2008/3110, art. 6(d)(i)
+[^X1]: 1967 c. 9 which is referred to in s. 46(2)(6) was repealed with savings by Local Government Finance Act 1988 (c. 41), ss. 117(1)(8), 149, Sch. 13, Pt. I. and is not available on the SLDB.
+[^F121]: Words in s. 46(1)(3)(4) substituted (6.3.1992) by Local Government Finance Act 1992 (c. 14), s. 117(1), Sch. 13 para. 100(1) (with s. 118(1)(2)(4))
+[^F122]: Words in s. 46(2)(a) inserted (29.9.2022 for specified purposes) by Environment Act 2021 (c. 30), ss. 96(7), 147(3)(4) (with s. 144); S.I. 2022/988, reg. 2(b)
+[^F123]: Words in s. 46(3) inserted (29.9.2022 for specified purposes) by Environment Act 2021 (c. 30), ss. 96(7), 147(3)(4) (with s. 144); S.I. 2022/988, reg. 2(b)
+[^F124]: Words in s. 46(4) inserted (29.9.2022 for specified purposes) by Environment Act 2021 (c. 30), ss. 96(7), 147(3)(4) (with s. 144); S.I. 2022/988, reg. 2(b)
+[^M19]: S.I. 1970/1152.
+[^F125]: Words in s. 46(5) inserted (29.9.2022 for specified purposes) by Environment Act 2021 (c. 30), ss. 96(7), 147(3)(4) (with s. 144); S.I. 2022/988, reg. 2(b)
+[^F126]: Words in s. 46(6) substituted (6.3.1992) by Local Government Finance Act 1992 (c. 14), s. 117(1), Sch. 13 para. 100(2)(a) (with s. 118(1)(2)(4))
+[^F127]: Words in s. 46(6) substituted (1.6.2009) by The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307), art. 1, Sch. 1 para. 241 (with Sch. 5)
+[^F128]: Words in s. 46(6) substituted (6.3.1992) by Local Government Finance Act 1992 (c. 14), s. 117(1), Sch. 13 para. 100(2)(b) (with s. 118(1)(2)(4))
+[^F129]: Words in s. 46(6) inserted (29.9.2022 for specified purposes) by Environment Act 2021 (c. 30), ss. 96(7), 147(3)(4) (with s. 144); S.I. 2022/988, reg. 2(b)
+[^F130]: Words in s. 46(7) inserted (29.9.2022 for specified purposes) by Environment Act 2021 (c. 30), ss. 96(7), 147(3)(4) (with s. 144); S.I. 2022/988, reg. 2(b)
+[^F131]: Words in s. 46(8) inserted (29.9.2022 for specified purposes) by Environment Act 2021 (c. 30), ss. 96(7), 147(3)(4) (with s. 144); S.I. 2022/988, reg. 2(b)
+[^M20]: 1967 c. 9.
+[^F132]: Words in s. 47 substituted (1.4.2013) by The Natural Resources Body for Wales (Functions) Order 2013 (No. 755), art. 1(2), Sch. 2 para. 325 (with Sch. 7)
+[^F133]: Words in s. 48(3)(b) substituted (14.7.2014) by Water Act 2014 (c. 21), s. 94(3), Sch. 9 para. 6(2); S.I. 2014/1823, art. 2(b)
+[^F134]: S. 48(3A) omitted (21.5.2016) by virtue of Environment (Wales) Act 2016 (anaw 3), ss. 82(1), 88(2)(d)
+[^M21]: 1988 c. 41.
+[^F135]: Words in s. 54(2)(b) substituted (6.4.2014) by Tribunals, Courts and Enforcement Act 2007 (c. 15), s. 148, Sch. 13 para. 100 (with s. 89); S.I. 2014/768, art. 2(1)(b)
+[^F136]: Words in s. 55(1)(a) substituted (1.4.2004) by Water Act 2003 (c. 37), s. 105(3), Sch. 7 para. 40(3); S.I. 2004/641, art. 3(y), Sch. 2 (with Sch. 3 para. 7)
+[^F137]: Words inserted in s. 55(2) (1.4.1996) by 1994 c. 19, s. 22(5), Sch. 11, Pt. II, para. 4(7) (with ss. 54(5)(7), 55(5)); S.I. 1996/396, art.3
+[^M22]: 1847 c. 16.
+[^M23]: 1988 c. 41.
+[^F138]: Words in s. 56 substituted (1.4.2013) by The Natural Resources Body for Wales (Functions) Order 2013 (No. 755), art. 1(2), Sch. 2 para. 326 (with Sch. 7)
+[^M24]: 1991 c. 57.
+[^F139]: Words in s. 57 substituted (1.4.2013) by The Natural Resources Body for Wales (Functions) Order 2013 (No. 755), art. 1(2), Sch. 2 para. 326 (with Sch. 7)
+[^F140]: Words inserted in s. 57(4)(b) (1.4.1996) by 1994 c. 19, s. 22(5), Sch. 11, Pt. II, para. 4(8); S.I. 1996/396, art.3
+[^F141]: Words in s. 58 substituted (1.4.2013) by The Natural Resources Body for Wales (Functions) Order 2013 (No. 755), art. 1(2), Sch. 2 para. 326 (with Sch. 7)
+[^M25]: 1991 c. 57.
+[^F142]: Words in s. 58(3) repealed (14.7.2014) by Water Act 2014 (c. 21), s. 94(3), Sch. 9 para. 7(2); S.I. 2014/1823, art. 2(b)
+[^F143]: S. 58(3A) omitted (21.5.2016) by virtue of Environment (Wales) Act 2016 (anaw 3), ss. 82(1), 88(2)(d)
+[^F144]: Words inserted in s. 58(4) (1.4.1996) by 1994 c. 19, s. 22(5), Sch. 11, Pt. II, para. 4(9) (with ss. 54(5)(7), 55(5)); S.I. 1996/396, art.3
+[^M26]: 1991 c. 57.
+[^F145]: Words in s. 59 substituted (1.4.1996) by 1995 c. 25, s. 120(1), Sch. 22, para. 191 (with ss. 7(6), 115, 117); S.I. 1996/186, art. 3
+[^F146]: Words in s. 59 inserted (1.4.2013) by The Natural Resources Body for Wales (Functions) Order 2013 (No. 755), art. 1(2), Sch. 2 para. 327 (with Sch. 7)
+[^F147]: Word inserted in s. 59(4) (21.09.1995) by 1995 c. 25, s. 101(2)(with ss. 7(6), 115, 117); S.I. 1995/1983, art. 3
+[^F148]: S. 59(4)(b)-(d)(4A) added (21.09.1995) by 1995 c. 25, s. 101(2)(with ss. 7(6), 115, 117); S.I. 1995/1983, art. 3
+[^F149]: S. 59(4)(c) omitted (6.4.2011) by virtue of Flood and Water Management Act 2010 (c. 29), s. 49(3), Sch. 2 para. 37 (with s. 49(1)(6)); S.I. 2011/694, art. 4(1)(i)
+[^M27]: 1991 c. 57.
+[^F150]: Ss. 61A-61E inserted (21.09.1994) by 1994 c. 25, ss .1, 3(2)
+[^F151]: Words in s. 61A substituted (1.4.2013) by The Natural Resources Body for Wales (Functions) Order 2013 (No. 755), art. 1(2), Sch. 2 para. 328 (with Sch. 7)
+[^F152]: Ss. 61A-61E inserted (21.09.1994) by 1994 c. 25, ss. 1, 3(2)
+[^F153]: Words in s. 61B substituted (1.4.2013) by The Natural Resources Body for Wales (Functions) Order 2013 (No. 755), art. 1(2), Sch. 2 para. 329 (with Sch. 7)
+[^F154]: Ss. 61A-61E inserted (21.09.1994) by 1994 c. 25, ss. 1, 3(2)
+[^F155]: Words in s. 61C(1) substituted (1.10.2006) by Natural Environment and Rural Communities Act 2006 (c. 16), s. 107, Sch. 11 para. 134(2)(a); S.I. 2006/2541, art. 2 (with Sch.)
+[^F156]: Words in s. 61C substituted (1.4.2013) by The Natural Resources Body for Wales (Functions) Order 2013 (No. 755), art. 1(2), Sch. 2 para. 330 (with Sch. 7)
+[^F157]: Words in s. 61C(1) substituted (1.10.2006) by Natural Environment and Rural Communities Act 2006 (c. 16), s. 107, Sch. 11 para. 134(2)(b); S.I. 2006/2541, art. 2 (with Sch.)
+[^F158]: Words in s. 61C(4) substituted (1.10.2006) by Natural Environment and Rural Communities Act 2006 (c. 16), s. 107, Sch. 11 para. 134(3); S.I. 2006/2541, art. 2 (with Sch.)
+[^F159]: Definition in s. 61C(5) and the word immediately preceding repealed (1.4.1997) by 1995 c. 25, s. 120(3), Sch. 24 (with ss. 7(6), 115, 117); S.I. 1996/2560, art. 2
+[^F160]: Ss. 61A-61E inserted (21.09.1994) by 1994 c. 25, ss. 1, 3(2)
+[^F161]: Ss. 61A-61E inserted (21.9.1994) by 1994 c. 25, ss. 1, 3(2)
+[^F162]: S. 61E(4)(aa) inserted (1.4.2013) by The Natural Resources Body for Wales (Functions) Order 2013 (No. 755), art. 1(2), Sch. 2 para. 331(2) (with Sch. 7)
+[^F163]: Words in s. 61E(4)(b) substituted (1.10.2006) by Natural Environment and Rural Communities Act 2006 (c. 16), s. 107, Sch. 11 para. 135; S.I. 2006/2541, art. 2 (with Sch.)
+[^F164]: Words in s. 61E(4)(b) omitted (1.4.2013) by virtue of The Natural Resources Body for Wales (Functions) Order 2013 (No. 755), art. 1(2), Sch. 2 para. 331(3) (with Sch. 7)
+[^F165]: S. 61E(5) inserted (E.) (26.5.2015) by Deregulation Act 2015 (c. 20), s. 115(3)(l), Sch. 22 para. 10
+[^F166]: S. 61F inserted (1.4.1996) by 1995 c. 25, s. 120(1), Sch. 22, para. 193 (with ss. 7(6), 115, 117); S.I. 1995/186, art. 3
+[^F167]: Words in s. 61F substituted (1.4.2013) by The Natural Resources Body for Wales (Functions) Order 2013 (No. 755), art. 1(2), Sch. 2 para. 332 (with Sch. 7)
+[^F168]: Words inserted in s. 62(2) (1.4.1996) by 1994 c. 19, s. 22(5), Sch. 11, Pt. II, para. 4(10)(with ss. 54(5)(7), 55(5)); S.I. 1996/396, art.3
+[^M28]: 1981 c. 67.
+[^M29]: 1965 c. 56.
+[^M30]: 1855 c. 58.
+[^F169]: S. 64(1A) inserted (13.7.2016) by Housing and Planning Act 2016 (c. 22), s. 216(3), Sch. 14 para. 21; S.I. 2016/733, reg. 3(h) (with reg. 6)
+[^F170]: Words in s. 64(5) substituted (1.6.2009) by The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307), art. 1, Sch. 1 para. 242 (with Sch. 5)
+[^F171]: Words in s. 65(2) inserted (14.7.2014) by Water Act 2014 (c. 21), ss. 86(2), 94(2)(p)
+[^F172]: Words in s. 65(2) inserted (29.9.2022) by Environment Act 2021 (c. 30), ss. 94(4), 147(3) (with s. 144); S.I. 2022/988, reg. 2(a)
+[^F173]: Words in s. 65(2) inserted (9.1.2022) by Environment Act 2021 (c. 30), ss. 97(3), 147(2)(n) (with s. 144)
+[^F174]: Words in s. 65(2) inserted (29.9.2022 for specified purposes) by Environment Act 2021 (c. 30), ss. 96(8), 147(3)(4) (with s. 144); S.I. 2022/988, reg. 2(b)
+[^F175]: S. 66(1)-(1F) substituted for s. 66(1) (19.7.2011 for E., 1.10.2011 for W.) by Flood and Water Management Act 2010 (c. 29), s. 49(3), Sch. 2 para. 38(2) (with s. 49(1)(6)); S.I. 2011/1770, art. 3(e); S.I. 2011/2204, art. 3(2)(c)
+[^F176]: Words in s. 66(2) substituted (19.7.2011 for E., 1.10.2011 for W.) by Flood and Water Management Act 2010 (c. 29), s. 49(3), Sch. 2 para. 38(3) (with s. 49(1)(6)); S.I. 2011/1770, art. 3(e); S.I. 2011/2204, art. 3(2)(c)
+[^F177]: S. 66(3) substituted (19.7.2011 for E., 1.10.2011 for W.) by Flood and Water Management Act 2010 (c. 29), s. 49(3), Sch. 2 para. 38(4) (with s. 49(1)(6)); S.I. 2011/1770, art. 3(e); S.I. 2011/2204, art. 3(2)(c)
+[^F178]: S. 66(5)(c) omitted (31.3.2015) by virtue of Local Government Byelaws (Wales) Act 2012 (anaw 2), s. 22(2), Sch. 2 para. 14(2); S.I. 2015/1025, art. 2(r) (with art. 3)
+[^M31]: 1972 c. 70.
+[^F179]: S. 66(5A) inserted (14.7.2014) by Water Act 2014 (c. 21), ss. 86(3), 94(2)(p)
+[^F180]: S. 66(5A)(5B) inserted (31.3.2015) by Local Government Byelaws (Wales) Act 2012 (anaw 2), s. 22(2), Sch. 2 para. 14(3); S.I. 2015/1025, art. 2(r) (with art. 3)
+[^F181]: S. 66A inserted (14.7.2014) by Water Act 2014 (c. 21), ss. 86(4), 94(2)(p)
+[^F182]: Words in s. 67 substituted (1.4.1996) by 1995 c. 25, s. 120(1), Sch. 22, para. 191 (with ss. 7(6), 115, 117); S.I. 1996/186, art. 3
+[^F183]: Words in s. 67(2) inserted (1.4.2013) by The Natural Resources Body for Wales (Functions) Order 2013 (No. 755), art. 1(2), Sch. 2 para. 333(2) (with Sch. 7)
+[^M32]: 1991 c. 57.
+[^M33]: 1979 c. 46.
+[^F184]: Words in s. 67(3) inserted (4.11.2024) by Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 163 (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^M34]: 1991 c. 57.
+[^F185]: Words in s. 67(5) substituted (1.4.2013) by The Natural Resources Body for Wales (Functions) Order 2013 (No. 755), art. 1(2), Sch. 2 para. 333(3) (with Sch. 7)
+[^M35]: 1975 c. 51.
+[^M36]: 1991 c. 60.
+[^M37]: 1976 c. 70.
+[^M38]: 1986 c. 63.
+[^F186]: Word in s. 70 substituted (1.4.1996) by 1995 c. 25, s. 120(1), Sch. 22, para. 191 (with ss. 7(6), 115, 117); S.I. 1996/186, art. 3
+[^F187]: Words in s. 70 heading inserted (1.4.2013) by The Natural Resources Body for Wales (Functions) Order 2013 (No. 755), art. 1(2), Sch. 2 para. 334(2) (with Sch. 7)
+[^F188]: S. 70 renumbered as s. 70(1) (9.1.2022) by Environment Act 2021 (c. 30), ss. 97(4)(a), 147(2)(n) (with s. 144)
+[^M39]: 1991 c. 57.
+[^F189]: Words in s. 70 inserted (1.4.2013) by The Natural Resources Body for Wales (Functions) Order 2013 (No. 755), art. 1(2), Sch. 2 para. 334(1) (with Sch. 7)
+[^F190]: S. 70(2) inserted (9.1.2022) by Environment Act 2021 (c. 30), ss. 97(4)(b), 147(2)(n) (with s. 144)
+[^M40]: 1978 c. 30.
+[^F191]: Definition inserted in s. 72(1) (1.4.1996) by 1995 c. 25, s. 120(1), Sch. 22, para. 194(1), (with ss. 7(6), 115, 117); S.I. 1996/186, art. 3
+[^M41]: 1988 c. 41.
+[^F192]: Words in s. 72(1) inserted (1.4.2013) by The Natural Resources Body for Wales (Functions) Order 2013 (No. 755), art. 1(2), Sch. 2 para. 335(2)(a) (with Sch. 7)
+[^F193]: Words in s. 72(1) substituted (1.1.1996) by 1995 c. 21, ss. 314(2), 316(2), Sch. 13, para. 9(b) (with s. 312(1))
+[^F194]: Words in s. 72(1) inserted (19.7.2011 for E., 1.10.2011 for W.) by Flood and Water Management Act 2010 (c. 29), s. 49(3), Sch. 2 para. 39 (with s. 49(1)(6)); S.I. 2011/1770, art. 3(e); S.I. 2011/2204, art. 3(2)(c)
+[^F195]: Definition in s. 72(1) substituted (21.9.1995) by 1995 c. 25, s. 100(2)(with ss. 7(6), 115, 117); S.I. 1995/1983, art. 3
+[^F196]: Words in s. 72 substituted (1.4.1996) by 1995 c. 25, s. 120(1), Sch. 22, para. 191 (with ss. 7(6), 115, 117); S.I. 1996/186, art. 3
+[^F197]: Words in s. 72(1) inserted (1.4.2013) by The Natural Resources Body for Wales (Functions) Order 2013 (No. 755), art. 1(2), Sch. 2 para. 335(2)(b) (with Sch. 7)
+[^F198]: Words in s. 72(1) inserted (9.1.2022) by Environment Act 2021 (c. 30), ss. 97(5), 147(2)(n) (with s. 144)
+[^F199]: Words inserted in s. 72(1) (1.4.1996) by 1994 c. 19, s. 22(5), Sch. 11, Pt. II, para. 4(12) (with ss. 54(5)(7), 55(5)); S.I. 1996/396, art. 3
+[^M42]: 1991 c. 57.
+[^F200]: Definition repealed in s. 72(1) (1.4.1996) by 1995 c. 25, s. 120(1)(3), Sch. 22, para. 194(2) (with ss. 7(6), 115, 117); S.I. 1996/186, art. 3
+[^M43]: 1991 c. 56.
+[^M44]: 1991 c. 60.
+[^F201]: Words in s. 72(6) inserted (1.4.2013) by The Natural Resources Body for Wales (Functions) Order 2013 (No. 755), art. 1(2), Sch. 2 para. 335(3) (with Sch. 7)
+[^F202]: Words in s. 72(8) inserted (1.4.2013) by The Natural Resources Body for Wales (Functions) Order 2013 (No. 755), art. 1(2), Sch. 2 para. 335(4) (with Sch. 7)
+[^M45]: 1991 c. 57.
+[^M46]: 1991 c. 60.
+[^M47]: 1991 c. 57.
+[^F203]: Words in s. 74 substituted (1.4.1996) by 1995 c. 25, s. 120(1), Sch. 22, para. 191 (with ss. 7(6), 115, 117); S.I. 1996/186, art. 3
+[^F204]: Words in s. 74(5) inserted (1.4.2013) by The Natural Resources Body for Wales (Functions) Order 2013 (No. 755), art. 1(2), Sch. 2 para. 336 (with Sch. 7)
+[^F205]: S. 75 substituted (1.2.1996) by 1995 c. 25, s. 118(6)(with ss. 7(6), 115, 117); S.I. 1996/186, art. 2
+[^M48]: 1991 c. 60.
+[^M49]: 1991 c. 60.
+[^M50]: 1988 c. 41.
+[^M51]: 1991 c. 60.
+[^F206]: Words in Sch. 1 para. 6(1)(b) substituted (30.12.1992) by S.I. 1992/3079, reg. 4(a)
+[^F207]: Words in Sch. 1 para. 6(2)(b) substituted (30.12.1992) by S.I. 1992/3079, reg. 4(b)
+[^F208]: Words in Sch. 1 para. 6(4) substituted (30.12.1992) by S.I. 1992/3079, reg. 4(c)
+[^M52]: S.I. 1990/72.
+[^F209]: Sch. 1 para. 9 omitted (29.6.2006) by virtue of Enterprise Act 2002 (Disqualification from Office: General) Order 2006 (S.I. 2006/1722), art. 1(1), Sch. 1 para. 2
+[^M53]: 1774 c. 48.
+[^F210]: Words in Sch. 2 para. 4(1)(b) substituted (1.4.2013) by The Natural Resources Body for Wales (Functions) Order 2013 (No. 755), art. 1(2), Sch. 2 para. 337 (with Sch. 7)
+[^F211]: Words inserted in Sch. 2, para. 4(1)(b) (1.4.1996) by 1994 c. 19, s. 22(5), Sch. 11, Pt. II, para. 4(13) (with ss. 54(5)(7), 55(5)); S.I. 1996/396, art.3
+[^F212]: Words in Sch. 2 para. 5(1)(b) substituted (1.4.2013) by The Natural Resources Body for Wales (Functions) Order 2013 (No. 755), art. 1(2), Sch. 2 para. 337 (with Sch. 7)
+[^F213]: Words in Sch. 2, para. 4(5)(1)(b) (1.4.1996) by 1994 c. 19, s. 22(5), SCh. 11, Pt. II, para. 4(13) (with ss. 54(5)(7), 55(5)); S.I. 1996/396, art.3
+[^M54]: 1945 c. 18 (9 & 10 Geo 6).
+[^F214]: Words inserted in Sch. 3,para. 2(2)(a) (1.4.1996) by 1994 c. 19, s. 22(5), Sch. 11, Pt. II, para. 4(14) (with ss. 54(5)(7), 55(5)); S.I. 1996/396, art.3
+[^F215]: Sch. 3 para. 4(1A) inserted (14.7.2014) by Water Act 2014 (c. 21), ss. 85(2), 94(2)(p)
+[^F216]: Words in Sch. 3 para. 5(1) substituted (14.7.2014) by Water Act 2014 (c. 21), ss. 85(3)(a), 94(2)(p)
+[^F217]: Sch. 3 para. 5(3A) inserted (14.7.2014) by Water Act 2014 (c. 21), ss. 85(3)(b), 94(2)(p)
+[^F218]: Words in Sch. 3 para. 7(3) substituted (1.10.2009) by Constitutional Reform Act 2005 (c. 4), s. 148(1), Sch. 9 para. 56; S.I. 2009/1604, art. 2(d)
+[^M55]: 1945 c. 18 (9 & 10 Geo 6).
+[^F219]: Words in Sch. 4 substituted (1.4.2013) by The Natural Resources Body for Wales (Functions) Order 2013 (No. 755), art. 1(2), Sch. 2 para. 338 (with Sch. 7)
+[^F220]: Words in Sch. 4, para. 3 substituted (1.4.1996) by 1995 c. 25, s. 120(1), Sch. 22, para. 191 (with ss. 7(6), 115, 117); S.I. 1996/186, art. 3
+[^F221]: Words in Sch. 4, para. 3(2) inserted (1.4.1996) by 1994 c. 19, s. 22(5), Sch. 11, Pt. II, para. 4(15) (with ss. 54(5)(7), 55(5)); S.I. 1996/396, art.3
+[^F222]: Words in Sch. 5 para. 1(1)(a) repealed (14.7.2014) by Water Act 2014 (c. 21), s. 94(3), Sch. 9 para. 8(2); S.I. 2014/1823, art. 2(b)
+[^F223]: Sch. 5 para. 1(1A) omitted (21.5.2016) by virtue of Environment (Wales) Act 2016 (anaw 3), ss. 82(1), 88(2)(d)
+[^F224]: Words in Sch. 6 para. 1 substituted (1.4.1996) by 1995 c. 25, s. 120(1), Sch. 22, para. 191 (with ss. 7(6), 115, 117); S.I. 1996/186, art. 3
+[^F225]: Words in Sch. 6 para. 1(1)(a) inserted (1.4.2013) by The Natural Resources Body for Wales (Functions) Order 2013 (No. 755), art. 1(2), Sch. 2 para. 339 (with Sch. 7)
+[^F226]: Words in Sch. 6 para. 1(1)(a), substituted (31.10.1994) by 1994 c. 21, s. 67, Sch. 9 para. 44(a); S.I. 1994/2552, art. 2, Sch. 1
+[^F227]: Words in Sch. 6 para. 1(1)(a) substituted (26.3.2001) by S.I. 2001/1149, art. 3(1), Sch. 1 para. 90(2) (subject to art. 1(3))
+[^F228]: Sch. 6 para. 1(1)(c) substituted (25.7.2003 for specified purposes, 29.12.2003 in so far as not already in force) by Communications Act 2003 (c. 21), s. 411(2), Sch. 17 para. 116 (with Sch. 18); S.I. 2003/1900, arts. 1(2), 2(1), Schs. 1 (with art. 3) (as amended by S.I. 2003/3142, art. 1(3)); S.I. 2003/3142, art. 3(2) (with art. 11)
+[^M56]: 1986 c. 31.
+[^M57]: 1986 c. 44.
+[^F229]: Sch. 6 para. 1(1)(f) substituted (1.10.2024) by The Energy Act 2023 (Consequential Amendments) Regulations 2024 (S.I. 2024/706), regs. 1(1), 13; S.I. 2024/957, reg. 2(a)
+[^F230]: Sch. 6 para. 1(1)(j) inserted (31.10.1994) by 1994 c. 21, s. 67, Sch. 9,para. 44(b); S.I. 1994/2552, art. 2, Sch. 1
+[^F231]: Sch. 6 para. 1(1)(k) inserted (1.4.2001) by 2000 c. 38, s. 37, Sch. 5 para. 16 (with s. 106); S.I. 2001/869, art. 2
+[^F232]: Sch. 6 para. 1(1A) inserted (26.3.2001) by S.I. 2001/1149, art. 3(1), Sch. 1 para. 90(3) (subject to art. 1(3))
+[^F233]: Words in Sch. 6 para. 1(1A) substituted (1.10.2011) by Postal Services Act 2011 (c. 5), s. 93(2)(3), Sch. 12 para. 136(a); S.I. 2011/2329, art. 3
+[^F234]: Words in Sch. 6 para. 1(1A) substituted (1.10.2011) by Postal Services Act 2011 (c. 5), s. 93(2)(3), Sch. 12 para. 136(b); S.I. 2011/2329, art. 3
+[^F235]: Words in Sch. 6 para. 4 substituted (15.7.2003) by The Transport for London (Consequential Provisions) Order 2003 (S.I. 2003/1615), art. 1(1), Sch. 1 para. 17

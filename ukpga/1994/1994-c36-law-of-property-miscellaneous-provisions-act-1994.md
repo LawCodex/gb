@@ -1,0 +1,577 @@
+---
+title: "Law of Property (Miscellaneous Provisions) Act 1994"
+identifier: "ukpga/1994/36"
+citation: "1994 c. 36"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S+N.I."
+date: 1994-11-03
+last_amended: 2013-09-19
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/1994/36"
+source_modified: 2016-01-19
+retrieved: 2026-10-11
+---
+
+# Law of Property (Miscellaneous Provisions) Act 1994
+
+**1994 c. 36**
+
+An Act to provide for new covenants for title to be implied on dispositions of property; to amend the law with respect to certain matters arising in connection with the death of the owner of property; and for connected purposes.
+
+[3rd November 1994]
+
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## Part I — Implied covenants for title
+
+### The covenants
+
+#### 1 Covenants to be implied on a disposition of property.
+
+(1) In an instrument effecting or purporting to effect a disposition of property there shall be implied on the part of the person making the disposition, whether or not the disposition is for valuable consideration, such of the covenants specified in sections 2 to 5 as are applicable to the disposition.
+
+(2) Of those sections—
+
+(a) sections 2, 3(1) and (2), 4 and 5 apply where dispositions are expressed to be made with full title guarantee; and
+
+(b) sections 2, 3(3), 4 and 5 apply where dispositions are expressed to be made with limited title guarantee.
+
+(3) Sections 2 to 4 have effect subject to section 6 (no liability under covenants in certain cases); and sections 2 to 5 have effect subject to section 8(1) (limitation or extension of covenants by instrument effecting the disposition).
+
+(4) In this Part—
+
+- “disposition” includes the creation of a term of years;
+- “instrument” includes an instrument which is not a deed; and
+- “property” includes a thing in action, and any interest in real or personal property.
+
+#### 2 Right to dispose and further assurance.
+
+(1) If the disposition is expressed to be made with full title guarantee or with limited title guarantee there shall be implied the following covenants—
+
+(a) that the person making the disposition has the right (with the concurrence of any other person conveying the property) to dispose of the property as he purports to, and
+
+(b) that that person will at his own cost do all that he reasonably can to give the person to whom he disposes of the property the title he purports to give.
+
+(2) The latter obligation includes—
+
+(a) in relation to a disposition of an interest in land the title to which is registered, doing all that he reasonably can to ensure that the person to whom the disposition is made is entitled to be registered as proprietor with at least the class of title registered immediately before the disposition; and
+
+(b) in relation to a disposition of an interest in land the title to which is required to be registered by virtue of the disposition, giving all reasonable assistance fully to establish to the satisfaction of the Chief Land Registrar the right of the person to whom the disposition is made to registration as proprietor.
+
+(3) In the case of a disposition of an existing legal interest in land, the following presumptions apply, subject to the terms of the instrument, in ascertaining for the purposes of the covenants implied by this section what the person making the disposition purports to dispose of—
+
+(a) where the title to the interest is registered, it shall be presumed that the disposition is of the whole of that interest;
+
+(b) where the title to the interest is not registered, then—
+
+(i) if it appears from the instrument that the interest is a leasehold interest, it shall be presumed that the disposition is of the property for the unexpired portion of the term of years created by the lease; and
+
+(ii) in any other case, it shall be presumed that what is disposed of is the fee simple.
+
+#### 3 Charges, incumbrances and third party rights.
+
+(1) If the disposition is expressed to be made with full title guarantee there shall be implied a covenant that the person making the disposition is disposing of the property free—
+
+(a) from all charges and incumbrances (whether monetary or not), and
+
+(b) from all other rights exercisable by third parties,
+
+other than any charges, incumbrances or rights which that person does not and could not reasonably be expected to know about.
+
+(2) In its application to charges, incumbrances and other third party rights subsection (1) extends to liabilities imposed and rights conferred by or under any enactment, except to the extent that such liabilities and rights are, by reason of—
+
+(a) being, at the time of the disposition, only potential liabilities and rights in relation to the property, or
+
+(b) being liabilities and rights imposed or conferred in relation to property generally,
+
+not such as to constitute defects in title.
+
+(3) If the disposition is expressed to be made with limited title guarantee there shall be implied a covenant that the person making the disposition has not since the last disposition for value—
+
+(a) charged or incumbered the property by means of any charge or incumbrance which subsists at the time when the disposition is made, or granted third party rights in relation to the property which so subsist, or
+
+(b) suffered the property to be so charged or incumbered or subjected to any such rights,
+
+and that he is not aware that anyone else has done so since the last disposition for value.
+
+#### 4 Validity of lease.
+
+(1) Where the disposition is of leasehold land and is expressed to be made with full title guarantee or with limited title guarantee, the following covenants shall also be implied—
+
+(a) that the lease is subsisting at the time of the disposition, and
+
+(b) that there is no subsisting breach of a condition or tenant’s obligation, and nothing which at that time would render the lease liable to forfeiture.
+
+(2) If the disposition is the grant of an underlease, the references to “the lease” in subsection (1) are references to the lease out of which the underlease is created.
+
+#### 5 Discharge of obligations where property subject to rentcharge or leasehold land.
+
+(1) Where the disposition is a mortgage of property subject to a rentcharge, [[^F1]of leasehold land or of a commonhold unit], and is expressed to be made with full title guarantee or with limited title guarantee, the following covenants shall also be implied.
+
+(2) If the property is subject to a rentcharge, there shall be implied a covenant that the mortgagor will fully and promptly observe and perform all the obligations under the instrument creating the rentcharge that are for the time being enforceable with respect to the property by the owner of the rentcharge in his capacity as such.
+
+(3) If the property is leasehold land, there shall be implied a covenant that the mortgagor will fully and promptly observe and perform all the obligations under the lease subject to the mortgage that are for the time being imposed on him in his capacity as tenant under the lease.
+
+[[^F2](3A) If the property is a commonhold unit, there shall be implied a covenant that the mortgagor will fully and promptly observe and perform all the obligations under the commonhold community statement that are for the time being imposed on him in his capacity as a unit-holder or as a joint unit-holder.]
+
+[[^F3](4) In this section—
+
+(a) “commonhold community statement”, “commonhold unit”, “joint unit-holder” and “unit-holder” have the same meanings as in the Commonhold and Leasehold Reform Act 2002, and
+
+(b) “mortgage” includes charge, and “mortgagor” shall be construed accordingly.]
+
+### Effect of covenants
+
+#### 6 No liability under covenants in certain cases.
+
+(1) The person making the disposition is not liable under the covenants implied by virtue of—
+
+(a) section 2(1)(a) (right to dispose),
+
+(b) section 3 (charges, incumbrances and third party rights), or
+
+(c) section 4 (validity of lease),
+
+in respect of any particular matter to which the disposition is expressly made subject.
+
+(2) Furthermore that person is not liable under any of those covenants for anything (not falling within subsection (1))—
+
+(a) which at the time of the disposition is within the actual knowledge, or
+
+(b) which is a necessary consequence of facts that are then within the actual knowledge,
+
+of the person to whom the disposition is made.
+
+(3) For this purpose section 198 of the [^M1]Law of Property Act 1925 (deemed notice by virtue of registration) shall be disregarded.
+
+[[^F4](4) Moreover, where the disposition is of an interest the title to which is registered under the Land Registration Act 2002, that person is not liable under any of those covenants for anything (not falling within subsection (1) or (2)) which at the time of the disposition was entered in relation to that interest in the register of title under that Act.]
+
+#### 7 Annexation of benefit of covenants.
+
+The benefit of a covenant implied by virtue of this Part shall be annexed and incident to, and shall go with, the estate or interest of the person to whom the disposition is made, and shall be capable of being enforced by every person in whom that estate or interest is (in whole or in part) for the time being vested.
+
+#### 8 Supplementary provisions.
+
+(1) The operation of any covenant implied in an instrument by virtue of this Part may be limited or extended by a term of that instrument.
+
+(2) Sections 81 and 83 of the [^M2]Law of Property Act 1925 (effect of covenant with two or more jointly; construction of implied covenants) apply to a covenant implied by virtue of this Part as they apply to a covenant implied by virtue of that Act.
+
+(3) Where in an instrument effecting or purporting to effect a disposition of property a person is expressed to direct the disposition, this Part applies to him as if he were the person making the disposition.
+
+(4) This Part has effect—
+
+(a) where “gyda gwarant teitl llawn” is used instead of “with full title guarantee”, and
+
+(b) where “gyda gwarant teitl cyfyngedig” is used instead of “with limited title guarantee”,
+
+as it has effect where the English words are used.
+
+#### 9 Modifications of statutory forms.
+
+(1) Where a form set out in an enactment, or in an instrument made under an enactment, includes words which (in an appropriate case) would have resulted in the implication of a covenant by virtue of section 76 of the [^M3]Law of Property Act 1925, the form shall be taken to authorise instead the use of the words “with full title guarantee” or “with limited title guarantee” or their Welsh equivalent given in section 8(4).
+
+(2) This applies in particular to the forms set out in [^F5]... Schedules 4 [^F5]... to the [^M4]Law of Property Act 1925.
+
+### Transitional provisions
+
+#### 10 General saving for covenants in old form.
+
+(1) Except as provided by section 11 below (cases in which covenants in old form implied on disposition after commencement), the following provisions, namely—
+
+(a) section 76 of the [^M5]Law of Property Act 1925, and
+
+(b) section 24(1)(a) of the [^M6]Land Registration Act 1925,
+
+are repealed as regards dispositions of property made after the commencement of this Part.
+
+(2) The repeal of those provisions by this Act accordingly does not affect the enforcement of a covenant implied by virtue of either of them on a disposition before the commencement of this Part.
+
+#### 11 Covenants in old form implied in certain cases.
+
+(1) Section 76 of the [^M7]Law of Property Act 1925 applies in relation to a disposition of property made after the commencement of this Part in pursuance of a contract entered into before commencement where—
+
+(a) the contract contains a term providing for a disposition to which that section would have applied if the disposition had been made before commencement, and
+
+(b) the existence of the contract and of that term is apparent on the face of the instrument effecting the disposition,
+
+unless there has been an intervening disposition of the property expressed, in accordance with this Part, to be made with full title guarantee.
+
+(2) Section 24(1)(a) of the [^M8]Land Registration Act 1925 applies in relation to a disposition of a leasehold interest in land made after the commencement of this Part in pursuance of a contract entered into before commencement where—
+
+(a) the covenant specified in that provision would have been implied on the disposition if it had been made before commencement, and
+
+(b) the existence of the contract is apparent on the face of the instrument effecting the disposition,
+
+unless there has been an intervening disposition of the leasehold interest expressed, in accordance with this Part, to be made with full title guarantee.
+
+(3) In subsections (1) and (2) an “intervening disposition” means a disposition after the commencement of this Part to, or to a predecessor in title of, the person by whom the disposition in question is made.
+
+(4) Where in order for subsection (1) or (2) to apply it is necessary for certain matters to be apparent on the face of the instrument effecting the disposition, the contract shall be deemed to contain an implied term that they should so appear.
+
+#### 12 Covenants in new form to be implied in other cases.
+
+(1) This section applies to a contract for the disposition of property entered into before the commencement of this Part where the disposition is made after commencement and section 11 (cases in which covenants in old form to be implied) does not apply because there has been an intervening disposition expressed, in accordance with this Part, to be with full title guarantee.
+
+(2) A contract which contains a term that the person making the disposition shall do so as beneficial owner shall be construed as requiring that person to do so by an instrument expressed to be made with full title guarantee.
+
+(3) A contract which contains a term that the person making the disposition shall do so—
+
+(a) as settlor, or
+
+(b) as trustee or mortgagee or personal representative,
+
+shall be construed as requiring that person to do so by an instrument expressed to be made with limited title guarantee.
+
+(4) A contract for the disposition of a leasehold interest in land entered into at a date when the title to the leasehold interest was registered shall be construed as requiring the person making the disposition for which it provides to do so by an instrument expressed to be made with full title guarantee.
+
+(5) Where this section applies and the contract provides that any of the covenants to be implied by virtue of section 76 of the [^M9]Law of Property Act 1925 or section 24(1)(a) of the [^M10]Land Registration Act 1925 shall be implied in a modified form, the contract shall be construed as requiring a corresponding modification of the covenants implied by virtue of this Part.
+
+#### 13 Application of transitional provisions in relation to options.
+
+For the purposes of sections 11 and 12 (transitional provisions: implication of covenants in old form in certain cases and new form in others) as they apply in relation to a disposition of property in accordance with an option granted before the commencement of this Part and exercised after commencement, the contract for the disposition shall be deemed to have been entered into on the grant of the option.
+
+## Part II — Matters arising in connection with death
+
+### 14 Vesting of estate in case of intestacy or lack of executors.
+
+(1) For section 9 of the [^M11]Administration of Estates Act 1925 (vesting of estate of intestate between death and grant of administration) substitute—
+
+> **9 Vesting of estate in Public Trustee where intestacy or lack of executors.**
+>
+> (1) Where a person dies intestate, his real and personal estate shall vest in the Public Trustee until the grant of administration.
+>
+> (2) Where a testator dies and—
+>
+> (a) at the time of his death there is no executor with power to obtain probate of the will, or
+>
+> (b) at any time before probate of the will is granted there ceases to be any executor with power to obtain probate,
+>
+> the real and personal estate of which he disposes by the will shall vest in the Public Trustee until the grant of representation.
+>
+> (3) The vesting of real or personal estate in the Public Trustee by virtue of this section does not confer on him any beneficial interest in, or impose on him any duty, obligation or liability in respect of, the property.
+
+(2) Any real or personal estate of a person dying before the commencement of this section shall, if it is property to which this subsection applies, vest in the Public Trustee on the commencement of this section.
+
+(3) Subsection (2) above applies to any property—
+
+(a) if it was vested in the Probate Judge under section 9 of the [^M12]Administration of Estates Act 1925 immediately before the commencement of this section, or
+
+(b) if it was not so vested but as at commencement there has been no grant of representation in respect of it and there is no executor with power to obtain such a grant.
+
+(4) Any property vesting in the Public Trustee by virtue of subsection (2) above shall—
+
+(a) if the deceased died intestate, be treated as vesting in the Public Trustee under section 9(1) of the [^M13]Administration of Estates Act 1925 (as substituted by subsection (1) above); and
+
+(b) otherwise be treated as vesting in the Public Trustee under section 9(2) of that Act (as so substituted).
+
+(5) Anything done by or in relation to the Probate Judge with respect to property vested in him as mentioned in subsection (3)(a) above shall be treated as having been done by or in relation to the Public Trustee.
+
+(6) So far as may be necessary in consequence of the transfer to the Public Trustee of the functions of the Probate Judge under section 9 of the [^M14]Administration of Estates Act 1925, any reference in an enactment or instrument to the Probate Judge shall be construed as a reference to the Public Trustee.
+
+### 15 Registration of land charges after death.
+
+(1) The [^M15]Land Charges Act 1972 is amended as follows.
+
+(2) In section 3 (registration of land charges), after subsection (1) (registration in name of estate owner), insert—
+
+> (1A) Where a person has died and a land charge created before his death would apart from his death have been registered in his name, it shall be so registered notwithstanding his death.
+
+(3) In section 5 (register of pending actions), after subsection (4) (entry in name of person whose estate or interest is intended to be affected), insert—
+
+> (4A) Where a person has died and a pending land action would apart from his death have been registered in his name, it shall be so registered notwithstanding his death.
+
+(4) In section 6 (register of writs and orders affecting land), after subsection (2) (entry in name of estate owner or other person whose land is affected), insert—
+
+> (2A) Where a person has died and any such writ or order as is mentioned in subsection (1)(a) or (b) above would apart from his death have been registered in his name, it shall be so registered notwithstanding his death.
+
+(5) The amendments made by this section do not apply where the application for registration was made before the commencement of this section, but without prejudice to a person’s right to make a new application after commencement.
+
+### 16 Concurrence of personal representatives in dealings with interests in land.
+
+(1) In section 2(2) of the [^M16]Administration of Estates Act 1925 (concurrence of all personal representatives required for conveyance of real estate)—
+
+(a) after “a conveyance of real estate devolving under this Part of this Act” insert “ or a contract for such a conveyance ”;
+
+(b) omit the words “, save as otherwise provided as respects trust estates including settled land,” (which are unnecessary); and
+
+(c) after “any conveyance of the real estate” insert “ or contract for such a conveyance ”.
+
+[^F6]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) The amendments made by subsection (1) apply to contracts made after the commencement of this section [^F7]. . .
+
+### 17 Notices affecting land: absence of knowledge of intended recipient’s death.
+
+(1) Service of a notice affecting land which would be effective but for the death of the intended recipient is effective despite his death if the person serving the notice has no reason to believe that he has died.
+
+(2) Where the person serving a notice affecting land has no reason to believe that the intended recipient has died, the proper address for the purposes of section 7 of the [^M17]Interpretation Act 1978 (service of documents by post) shall be what would be the proper address apart from his death.
+
+(3) The above provisions do not apply to a notice authorised or required to be served for the purposes of proceedings before—
+
+(a) any court,
+
+[[^F8](b) any tribunal that [[^F9]was] (to any extent) a listed tribunal for, or for any of, the purposes of Schedule 7 to the Tribunals, Courts and Enforcement Act 2007 (functions etc. of Administrative Justice and Tribunals Council) [[^F10]immediately before the coming into force of the repeal of that Schedule], or ]
+
+(c) the Chief Land Registrar or [[^F11]the Adjudicator to Her Majesty’s Land Registry];
+
+but this is without prejudice to the power to make provision in relation to such proceedings by rules of court, procedural rules [[^F12]of any tribunal referred to in sub-paragraph (b)] or rules under [[^F13]the Land Registration Act 2002].
+
+### 18 Notices affecting land: service on personal representatives before filing of grant.
+
+(1) A notice affecting land which would have been authorised or required to be served on a person but for his death shall be sufficiently served before a grant of representation has been filed if—
+
+(a) it is addressed to “The Personal Representatives of” the deceased (naming him) and left at or sent by post to his last known place of residence or business in the United Kingdom, and
+
+(b) a copy of it, similarly addressed, is served on the Public Trustee.
+
+(2) The reference in subsection (1) to the filing of a grant of representation is to the filing at the Principal Registry of the Family Division of the High Court of a copy of a grant of representation in respect of the deceased’s estate or, as the case may be, the part of his estate which includes the land in question.
+
+(3) The method of service provided for by this section is not available where provision is made—
+
+(a) by or under any enactment, or
+
+(b) by an agreement in writing,
+
+requiring a different method of service, or expressly prohibiting the method of service provided for by this section, in the circumstances.
+
+### 19 Functions of Public Trustee in relation to notices, etc.
+
+(1) The Public Trustee may give directions as to the office or offices at which documents may be served on him—
+
+(a) by virtue of section 9 of the [^M18]Administration of Estates Act 1925 (as substituted by section 14(1) above), or
+
+(b) in pursuance of section 18(1)(b) above (service on Public Trustee of copy of certain notices affecting land);
+
+and he shall publish such directions in such manner as he considers appropriate.
+
+(2) The Lord Chancellor may by regulations make provision with respect to the functions of the Public Trustee in relation to such documents; and the regulations may make different provision in relation to different descriptions of document or different circumstances.
+
+(3) The regulations may, in particular, make provision requiring the Public Trustee—
+
+(a) to keep such documents for a specified period and thereafter to keep a copy or record of their contents in such form as may be specified;
+
+(b) to keep such documents, copies and records available for inspection at such reasonable hours as may be specified; and
+
+(c) to supply copies to any person on request.
+
+In this subsection “specified” means specified by or under the regulations.
+
+(4) Regulations under this section shall be made by statutory instrument which shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(5) The following provisions of the [^M19]Public Trustee Act 1906, namely—
+
+(a) section 8(5) (payment of expenses out of money provided by Parliament), and
+
+(b) section 9(1) [[^F14]and (3)](provisions as to fees),
+
+apply in relation to the functions of the Public Trustee in relation to documents to which this section applies as in relation to his functions under that Act.
+
+## Part III — General provisions
+
+### 20 Crown application.
+
+This Act binds the Crown.
+
+### 21 Consequential amendments and repeals.
+
+(1) The enactments specified in Schedule 1 are amended in accordance with that Schedule, the amendments being consequential on the provisions of this Act.
+
+(2) The enactments specified in Schedule 2 are repealed to the extent specified.
+
+(3) In the case of section 76 of the [^M20]Law of Property Act 1925 and section 24(1)(a) of the [^M21]Land Registration Act 1925, those provisions are repealed in accordance with section 10(1) above (general saving for covenants in old form).
+
+(4) The amendments consequential on Part I of this Act (namely those in paragraphs 1, 2, 3, 5, 7, 9 and 12 of Schedule 1) shall not have effect in relation to any disposition of property to which, by virtue of section 10(1) or 11 above (transitional provisions), section 76 of the Law of Property Act 1925 or section 24(1)(a) of the Land Registration Act 1925 continues to apply.
+
+### 22 Extent.
+
+(1) The provisions of this Act extend to England and Wales.
+
+(2) In addition—
+
+(a) the provisions of Schedules 1 and 2 (consequential amendments and repeals) extend to Scotland so far as they relate to enactments which so extend; and
+
+(b) the provisions of Schedule 1 extend to Northern Ireland so far as they relate to enactments which so extend.
+
+### 23 Commencement.
+
+(1) The provisions of this Act come into force on such day as the Lord Chancellor may appoint by order made by statutory instrument.
+
+(2) Different days may be appointed for different provisions and for different purposes.
+
+### 24 Short title.
+
+This Act may be cited as the Law of Property (Miscellaneous Provisions) Act 1994.
+
+## SCHEDULE 1 — Consequential amendments
+
+*Section 21(1).*
+
+### Law of Property Act 1925 (c.20)
+
+**1** In section 77(1) of the Law of Property Act 1925 (implied covenants in conveyances subject to rents), for “the last preceding section” substitute “ Part I of the Law of Property (Miscellaneous Provisions) Act 1994 ”.
+
+### Land Registration Act 1925 (c.21)
+
+**[^F15]2** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Law of Property (Joint Tenants) Act 1964 (c.63)
+
+**3** In section 1(1) of the Law of Property (Joint Tenants) Act 1964 (assumptions on sale of land by survivor of joint tenants), omit the words “he conveys as beneficial owner or”.
+
+### Land Commission Act 1967 (c.1)
+
+**[^F16]4** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Leasehold Reform Act 1967 (c.88)
+
+**5** (1) In section 10 of the Leasehold Reform Act 1967 (rights to be conveyed to tenant on enfranchisement), in subsection (1) omit the words from “nor to enter into any covenant for title” to the end, and after that subsection insert—
+
+> (1A) The landlord shall not be required to enter into any covenant for title beyond those implied under Part I of the Law of Property (Miscellaneous Provisions) Act 1994 in a case where a disposition is expressed to be made with limited title guarantee; and in the absence of agreement to the contrary he shall be entitled to be indemnified by the tenant in respect of any costs incurred by him in complying with the covenant implied by virtue of section 2(1)(b) of that Act (covenant for further assurance).
+
+(2) In section 15 of that Act (terms of tenancy to be granted on extension), for subsection (9) substitute—
+
+> (9) In granting the new tenancy, the landlord shall not be bound to enter into any covenant for title beyond—
+>
+> (a) those implied from the grant, and
+>
+> (b) those implied under Part I of the Law of Property (Miscellaneous Provisions) Act 1994 in a case where a disposition is expressed to be made with limited title guarantee, but not including (in the case of a sub-tenancy) the covenant in section 4(1)(b) of that Act (compliance with terms of lease);
+>
+> and in the absence of agreement to the contrary the landlord shall be entitled to be indemnified by the tenant in respect of any costs incurred by him in complying with the covenant implied by virtue of section 2(1)(b) of that Act (covenant for further assurance).
+>
+> (9A) A person entering into any covenant required of him as landlord (under subsection (9) or otherwise) shall be entitled to limit his personal liability to breaches of that covenant for which he is responsible.
+
+(3) In Schedule 1 to that Act (enfranchisement or extension by sub-tenants), in paragraph 7(1)(a), after “that tenancy” insert “ , and the reference in subsection (1A) of that section to the covenants for title implied under Part I of the Law of Property (Miscellaneous Provisions) Act 1994 shall be read as excluding the covenant in section 4(1)(b) of that Act (compliance with terms of lease) ”.
+
+### Consumer Credit Act 1974 (c.39)
+
+**6** In section 176 of the Consumer Credit Act 1974 (service of documents), for subsection (7) (service not to be effected on Probate Judge) substitute—
+
+> (7) The following enactments shall not be construed as authorising service on the Public Trustee (in England and Wales) or the Probate Judge (in Northern Ireland) of any document which is to be served under this Act—
+>
+> section 9 of the Administration of Estates Act 1925;
+>
+> section 3 of the Administration of Estates Act (Northern Ireland) 1955.
+
+### Rentcharges Act 1977 (c.30)
+
+**7** In section 11(2) of the Rentcharges Act 1977 (additional covenants relating to rentcharge deemed included and implied in conveyance), for “section 76 of the Law of Property Act 1925” substitute “ Part I of the Law of Property (Miscellaneous Provisions) Act 1994 ”.
+
+### Rent Act 1977 (c.42)
+
+**8** In Part I of Schedule 2 to the Rent Act 1977 (provisions for determining application of resident landlord exemption), in paragraph 1 (periods to be disregarded in ascertaining whether landlord resident at all times since grant of tenancy), in sub-paragraph (c)(iii) (period during which interest of landlord vested in Probate Judge), for “the Probate Judge, within the meaning of that Act” substitute “ the Probate Judge or the Public Trustee ”.
+
+### Housing Act 1985 (c.68)
+
+**9** (1) Schedule 6 to the Housing Act 1985 (conveyance of freehold or grant of lease in pursuance of right to buy) is amended as follows.
+
+(2) In Part I (common provisions), after paragraph 4 insert—
+
+> **4A** he conveyance or grant shall be expressed to be made by the landlord with full title guarantee (thereby implying the covenants for title specified in Part I of the Law of Property (Miscellaneous Provisions) Act 1994).
+
+(3) In paragraph 5, for “covenants” substitute “ other covenants ”.
+
+(4) In Part II (conveyance of freehold), omit paragraph 10.
+
+### Financial Services Act 1986 (c.60)
+
+**10** In section 45(1) of the Financial Services Act 1986 (miscellaneous exemptions from regulation of investment business), in paragraph (a) for “the President of the Family Division of the High Court” substitute “ the Public Trustee ”.
+
+### Housing Act 1988 (c.50)
+
+**11** In Part III of Schedule 1 to the Housing Act 1988 (provisions for determining application of resident landlord exemption), in paragraph 17 (periods to be disregarded in ascertaining whether landlord resident at all times since grant of tenancy), in sub-paragraph (c)(ii) (period during which interest of landlord vested in Probate Judge), for “the Probate Judge, within the meaning of that Act” substitute “the Probate Judge or the Public Trustee”.
+
+### Leasehold Reform, Housing and Urban Development Act 1993 (c.28)
+
+**12** (1) In section 34 of the Leasehold Reform, Housing and Urban Development Act 1993 (conveyance to nominee purchaser), in subsection (9) after second “conveyed” add “, and with the reference to the covenants for title implied under Part I of the Law of Property (Miscellaneous Provisions) Act 1994 being read as excluding the covenant in section 4(1)(b) of that Act (compliance with terms of lease)”.
+
+(2) In section 57 of that Act (terms on which new lease is to be granted), for subsection (8) substitute—
+
+> (8) In granting the new lease the landlord shall not be bound to enter into any covenant for title beyond—
+>
+> (a) those implied from the grant, and
+>
+> (b) those implied under Part I of the Law of Property (Miscellaneous Provisions) Act 1994 in a case where a disposition is expressed to be made with limited title guarantee, but not including (in the case of an underlease) the covenant in section 4(1)(b) of that Act (compliance with terms of lease);
+>
+> and in the absence of agreement to the contrary the landlord shall be entitled to be indemnified by the tenant in respect of any costs incurred by him in complying with the covenant implied by virtue of section 2(1)(b) of that Act (covenant for further assurance).
+>
+> (8A) A person entering into any covenant required of him as landlord (under subsection (8) or otherwise) shall be entitled to limit his personal liability to breaches of that covenant for which he is responsible.
+
+(3) In Schedule 7 to that Act (conveyance to nominee purchaser on enfranchisement), for paragraph 2(2)(b) substitute—
+
+> (b) to enter into any covenant for title beyond those implied under Part I of the Law of Property (Miscellaneous Provisions) Act 1994 in a case where a disposition is expressed to be made with limited title guarantee;
+>
+> and in the absence of agreement to the contrary the freeholder shall be entitled to be indemnified by the nominee purchaser in respect of any costs incurred by him in complying with the covenant implied by virtue of section 2(1)(b) of that Act (covenant for further assurance).
+
+(4) In Schedule 9 to that Act (grant of leases back to former freeholder) after paragraph 9 insert—
+
+> **Covenants for title**
+>
+> **9A** The lessor shall not be bound to enter into any covenant for title beyond—
+>
+> (a) those implied from the grant, and
+>
+> (b) those implied under Part I of the Law of Property (Miscellaneous Provisions) Act 1994 in a case where a disposition is expressed to be made with limited title guarantee.
+
+## SCHEDULE 2 — Repeals
+
+*Section 21(2).*
+
+|  |  |  |
+|---|---|---|
+| Chapter | Short title | Extent of repeal |
+| 15 & 16 Geo.5 c. 20. | Law of Property Act 1925. | Section 76. |
+|  |  | In Schedule 2, Parts I to VI. |
+| 15 & 16 Geo.5 c. 21. | Land Registration Act 1925. | Section 24(1)(a). |
+| 15 & 16 Geo.5 c. 23. | Administration of Estates Act 1925. | In section 2(2), the words “, save as otherwise provided as respects trust estates including settled land,”. |
+|  |  | Section 36(3). |
+|  |  | In section 55(1), paragraph (xv). |
+| 1964 c. 63. | Law of Property (Joint Tenants) Act 1964. | In section 1(1), the words “he conveys as beneficial owner or”. |
+| 1967 c. 1. | Land Commission Act 1967. | In Schedule 12, paragraph 10(2). |
+| 1967 c. 88. | Leasehold Reform Act 1967. | In section 10(1), from the words “nor to enter into any covenant for title” to the end. |
+| 1970 c. 31. | Administration of Justice Act 1970. | In Schedule 2, paragraph 5. |
+| 1985 c. 6. | Companies Act 1985. | Section 209(10)(d). |
+| 1985 c. 68. | Housing Act 1985. | In Schedule 6, paragraph 10. |
+
+---
+
+[^F1]: Words in s. 5(1) substituted (27.9.2004) by Commonhold and Leasehold Reform Act 2002 (c. 15), s. 181(1), Sch. 5 para. 7(2) (with s. 63); S.I. 2004/1832, art. 2
+[^F2]: S. 5(3A) inserted (27.9.2004) by Commonhold and Leasehold Reform Act 2002 (c. 15), s. 181(1), Sch. 5 para. 7(3) (with s. 63); S.I. 2004/1832, art. 2
+[^F3]: S. 5(4) substituted (27.9.2004) by Commonhold and Leasehold Reform Act 2002 (c. 15), s. 181(1), Sch. 5 para. 7(4) (with s. 63); S.I. 2004/1832, art. 2
+[^M1]: 1925 c. 20.
+[^F4]: S. 6(4) inserted (13.10.2003) by Land Registration Act 2002 (c. 9), s. 136(2), Sch. 11 para. 31(2) (with s. 129); S.I. 2003/1725, art. 2(1)
+[^M2]: 1925 c. 20.
+[^M3]: 1925 c. 20.
+[^F5]: Words in s. 9(2) repealed (22.7.2004) by Statute Law (Repeals) Act 2004 (c. 14), Sch. 1 Pt. 12
+[^M4]: 1925 c. 20.
+[^M5]: 1925 c. 20.
+[^M6]: 1925 c. 21.
+[^M7]: 1925 c. 20.
+[^M8]: 1925 c. 21.
+[^M9]: 1925 c. 20.
+[^M10]: 1925 c. 21.
+[^M11]: 1925 c. 23.
+[^M12]: 1925 c. 23.
+[^M13]: 1925 c. 23.
+[^M14]: 1925 c. 23.
+[^M15]: 1972 c. 61.
+[^M16]: 1925 c. 23.
+[^F6]: S. 16(2) repealed (1.1.1997) by 1996 c. 47, s. 25(2), Sch.4 (with s. 24(2), 25(4)); S.I. 1996/2974, art.2.
+[^F7]: Words in s. 16(3) repealed (1.1.1997) by 1996 c. 47, s. 25(2), Sch.4 (with s. 24(2), 25(4)); S.I. 1996/2974, art.2.
+[^M17]: 1978 c. 30.
+[^F8]: S. 17(3)(b) substituted (1.11.2007) by Tribunals, Courts and Enforcement Act 2007 (c. 15), s. 148, Sch. 8 para. 33(2); S.I. 2007/2709, art. 3(b)(i)
+[^F9]: Word in s. 17(3)(b) substituted (19.9.2013) by The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042), art. 1(2), Sch. para. 16(a)(i)
+[^F10]: Words in s. 17(3)(b) inserted (19.9.2013) by The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042), art. 1(2), Sch. para. 16(a)(ii)
+[^F11]: Words in s. 17(3)(c) substituted (13.10.2003) by Land Registration Act 2002 (c. 9), s. 136(2), Sch. 11 para. 31(3)(a) (with s. 129); S.I. 2003/1725, art. 2(1)
+[^F12]: Words in s. 17(3) substituted (19.9.2013) by The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042), art. 1(2), Sch. para. 16(b)
+[^F13]: Words in s. 17(3) substituted (13.10.2003) by Land Registration Act 2002 (c. 9), s. 136(2), Sch. 11 para. 31(3)(b) (with s. 129); S.I. 2003/1725, art. 2(1)
+[^M18]: 1925 c. 23.
+[^M19]: 1906 c. 55.
+[^F14]: Words in s. 19(5)(b) susbtituted (7.11.2002) by 2002 c. 35, s. 2(4)
+[^M20]: 1925 c. 20.
+[^M21]: 1925 c. 21.
+[^F15]: Sch. 1 para. 2 repealed (13.10.2003) by Land Registration Act 2002 (c. 9), s. 136(2), Sch. 13 (with s. 129, Sch. 12 para. 1); S.I. 2003/1725, art. 2(1)
+[^F16]: Sch. 1 para. 4 repealed (19.11.1998) by 1998 c. 43, s. 1(1), Sch. 1 Pt. IV Group2.

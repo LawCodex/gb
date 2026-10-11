@@ -1,0 +1,3485 @@
+---
+title: "European Union (Future Relationship) Act 2020"
+identifier: "ukpga/2020/29"
+citation: "2020 c. 29"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S+N.I."
+date: 2020-12-31
+last_amended: 2024-01-01
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/2020/29"
+source_modified: 2024-01-16
+retrieved: 2026-10-11
+---
+
+# European Union (Future Relationship) Act 2020
+
+**2020 c. 29**
+
+An Act to make provision to implement, and make other provision in connection with, the Trade and Cooperation Agreement; to make further provision in connection with the United Kingdom's future relationship with the EU and its member States; to make related provision about passenger name record data, customs and privileges and immunities; and for connected purposes.
+
+[31st December 2020]
+
+Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## PART 1 — Security
+
+### Criminal records
+
+#### 1 Duty to notify member States of convictions
+
+(1) This section applies where—
+
+(a) an individual who is a national of a member State has been convicted by or before a court in a part of the United Kingdom, and
+
+(b) the conviction is recorded in the criminal records database for that part.
+
+(2) This section also applies where—
+
+(a) an individual who is a national of a member State has been convicted in UK service disciplinary proceedings (whether or not in a part of the United Kingdom), and
+
+(b) the conviction is recorded in the criminal records database for any part of the United Kingdom.
+
+(3) The designated UK authority must notify the central authority of the member State of the conviction.
+
+(4) If the individual is a national of more than one member State, the designated UK authority must notify the central authority of each of those member States of the conviction.
+
+(5) Notification under this section must be given before the end of the period of 28 days beginning with the day on which the conviction is recorded in the criminal records database.
+
+(6) A notification under this section—
+
+(a) must include the information listed in Schedule 1, and
+
+(b) may include any other information that the designated UK authority considers appropriate.
+
+(7) If the record of the conviction is amended so as to alter or delete any of the information mentioned in paragraph 13, 14, 16, 17, 19 or 20 of Schedule 1 (information about the conviction), subsections (3) to (6) apply in relation to the amendment as they apply in relation to the conviction.
+
+(8) Nothing in this section requires the designated UK authority to disclose any information if the disclosure would contravene the data protection legislation (but, in determining whether the disclosure would contravene that legislation, the duties imposed by this section are to be taken into account).
+
+(9) For the purposes of this section it does not matter if the individual is a national of the United Kingdom as well as a national of a member State.
+
+#### 2 Retention of information received from member States
+
+(1) This section applies where—
+
+(a) an individual who is a UK national has been convicted under the law of a member State, and
+
+(b) the central authority of the member State notifies the designated UK authority of the conviction.
+
+(2) The designated UK authority must retain a record of—
+
+(a) the conviction, and
+
+(b) any other information listed in Schedule 1 that is included in the notification.
+
+(3) The record may be retained in whatever way the designated UK authority considers appropriate.
+
+(4) If the designated UK authority is notified by the central authority of any amendment or deletion relating to the information contained in the record, the designated UK authority must amend the record accordingly.
+
+(5) Nothing in this section requires the designated UK authority to retain any information if the retention would contravene the data protection legislation (but, in determining whether the retention would contravene that legislation, the duty imposed by subsection (2) is to be taken into account).
+
+#### 3 Transfers to third countries of personal data notified under section 2
+
+(1) Personal data notified to the designated UK authority as mentioned in section 2 may not be transferred to a third country unless conditions A and B are met.
+
+(2) Condition A is that the transfer—
+
+(a) is based on adequacy regulations, or
+
+(b) is based on there being appropriate safeguards.
+
+(3) For the purposes of subsection (2)—
+
+(a) the reference to a transfer being based on adequacy regulations has the same meaning as it has for the purposes of Part 3 of the Data Protection Act 2018;
+
+(b) the reference to a transfer being based on there being appropriate safeguards is to be read in accordance with section 75 of that Act.
+
+(4) Condition B is that the intended recipient has functions relating to the prevention, investigation, detection or prosecution of criminal offences or the execution of criminal penalties, including the safeguarding against and the prevention of threats to public security.
+
+(5) See also section 73 of the Data Protection Act 2018 for additional conditions that must be met before personal data may be transferred to a third country (in particular, that the transfer must be necessary for any of the law enforcement purposes).
+
+(6) Where personal data within subsection (1) is transferred to a third country, the person making the transfer must make it a condition of the transfer that the data may be used only for the purpose for which it is being transferred.
+
+(7) In this section—
+
+- “personal data” has the same meaning as in the Data Protection Act 2018 (see section 3(2) of that Act);
+
+- “third country” means a country or territory other than—
+
+  - (a) the United Kingdom, or
+  - (b) a member State.
+
+#### 4 Requests for information from member States
+
+(1) The designated UK authority may, for any of the law enforcement purposes, make a request to the central authority of a member State for information relating to any overseas convictions of an individual recorded in a criminal records database of the member State.
+
+(2) If an individual who is a national of a member State makes a request to the designated UK authority for information relating to the individual's overseas convictions, the designated UK authority must make a request to the central authority of that member State for information relating to any overseas convictions of the individual recorded in a criminal records database of the member State.
+
+(3) If the individual is a national of more than one member State, the designated UK authority must make a request to the central authority of each of those member States for the information.
+
+(4) Any information provided to the designated UK authority in response to a request made under this section may be used only—
+
+(a) for the purpose or purposes for which it was requested, and
+
+(b) in accordance with any restrictions specified by the central authority that provided it.
+
+(5) But subsection (4) does not prohibit the use of such information for the purpose of preventing an immediate and serious threat to public security.
+
+(6) In this section “overseas conviction” means a conviction under the law of a country or territory outside the United Kingdom.
+
+#### 5 Requests for information made by member States
+
+(1) If—
+
+(a) the central authority of a member State makes a request to the designated UK authority for information relating to an individual's convictions, and
+
+(b) conditions A and B are met,
+
+the designated UK authority must, as soon as practicable before the end of the relevant period, provide the information to the central authority (but see subsection (5)).
+
+(2) Condition A is that the request is made—
+
+(a) for any of the law enforcement purposes, or
+
+(b) for the purposes of enabling the central authority to comply with a request made by an individual who is a UK national for information relating to the individual's convictions.
+
+(3) Condition B is that the information—
+
+(a) is recorded in the criminal records database for a part of the United Kingdom, or
+
+(b) is retained in accordance with section 2.
+
+(4) “The relevant period” means the period of 20 working days beginning with the day on which the designated UK authority receives the request.
+
+(5) Subsection (1) does not require the designated UK authority to provide any information relating to a conviction that is spent unless—
+
+(a) the request has been made for the purposes of any criminal investigation or criminal proceedings, or
+
+(b) subsection (6) applies.
+
+(6) If the request has been made for the purposes of determining the suitability of an individual to work with children, the information to be provided under subsection (1) must include any information relating to any conviction of the individual for a child sexual offence (whether or not spent).
+
+(7) Nothing in this section requires the designated UK authority to disclose any information if the disclosure would contravene the data protection legislation (but, in determining whether the disclosure would contravene that legislation, the duties imposed by this section are to be taken into account).
+
+(8) In this section—
+
+- “ancillary offence” means—
+
+  - (a) an offence of attempting or conspiring to commit a child sexual offence,
+  - (b) an offence under Part 2 of the Serious Crime Act 2007 in relation to a child sexual offence,
+  - (c) an offence of inciting a person to commit a child sexual offence,
+  - (d) an offence of aiding, abetting, counselling or procuring the commission of a child sexual offence, or
+  - (e) an offence of being involved art and part in the commission of a child sexual offence;
+
+- “child” means an individual under the age of 18;
+
+- “child sexual offence” means—
+
+  - (a) an offence consisting of—
+  
+    - (i) the sexual abuse or sexual exploitation of a child, or
+    - (ii) conduct relating to such abuse or exploitation,
+  
+  - (b) an offence relating to indecent images of a child,
+  
+  - (c) an offence consisting of any other behaviour carried out in relation to a child that is of a sexual nature or carried out for sexual purposes, or
+  
+  - (d) an ancillary offence;
+
+  and for these purposes “offence” includes an offence under a law that is no longer in force;
+
+- “conviction” means—
+
+  - (a) a conviction by or before a court in a part of the United Kingdom,
+  - (b) a conviction in UK service disciplinary proceedings (whether or not in a part of the United Kingdom), or
+  - (c) a conviction under the law of a country or territory outside the United Kingdom;
+
+- “criminal proceedings” means—
+
+  - (a) proceedings before a court for dealing with an individual accused of an offence, or
+  - (b) proceedings before a court for dealing with an individual convicted of an offence, including proceedings in respect of a sentence or order;
+
+- “working day” means any day other than—
+
+  - (a) Saturday or Sunday,
+  - (b) Christmas Day,
+  - (c) Good Friday, and
+  - (d) any day which is a bank holiday in England and Wales under the Banking and Financial Dealings Act 1971.
+
+(9) For the purposes of this section a conviction is “spent” if—
+
+(a) in the case of a conviction in Northern Ireland, it is a spent conviction for the purposes of the Rehabilitation of Offenders (Northern Ireland) Order 1978 (S.I. 1978/1908 (N.I. 27));
+
+(b) in any other case, it is a spent conviction for the purposes of the Rehabilitation of Offenders Act 1974.
+
+#### 6 Interpretation of the criminal records provisions
+
+(1) In the criminal records provisions—
+
+- “central authority”, in relation to a member State, means an authority designated by the government of that member State as the appropriate authority for requesting, receiving or providing information relating to convictions;
+
+- “conviction”, in relation to UK service disciplinary proceedings—
+
+  - (a) in the case of proceedings in respect of a service offence, includes anything that under section 376(1) and (2) of the Armed Forces Act 2006 (which relates to summary hearings and the Summary Appeal Court) is to be treated as a conviction for the purposes of that Act;
+  - (b) in the case of any other UK service disciplinary proceedings, includes a finding of guilt in those proceedings;
+
+  and “convicted”, in relation to UK service disciplinary proceedings, is to be read accordingly;
+
+- “criminal records database” means—
+
+  - (a) in relation to England and Wales, the names database held by the Secretary of State for the use of constables;
+  - (b) in relation to Scotland, the criminal history database of the Police Service of Scotland held for the use of police forces generally;
+  - (c) in relation to Northern Ireland, the names database maintained by the Department of Justice in Northern Ireland for the purpose of recording convictions and cautions;
+  - (d) in relation to a member State, any database maintained in respect of the member State that corresponds to the criminal records database for England and Wales;
+
+- “the criminal records provisions” means sections 1 to 5, this section and Schedule 1;
+
+- “designated UK authority” means a person designated for the purposes of the criminal records provisions by a direction given by the Secretary of State;
+
+- “the law enforcement purposes” means the purposes of the prevention, investigation, detection or prosecution of criminal offences or the execution of criminal penalties, including the safeguarding against and the prevention of threats to public security;
+
+- “service offence” means—
+
+  - (a) a service offence within the meaning of the Armed Forces Act 2006, or
+  - (b) an SDA offence within the meaning of the Armed Forces Act 2006 (Transitional Provisions etc) Order 2009 (S.I. 2009/1059);
+
+- “UK national” means an individual who is—
+
+  - (a) a British citizen, a British overseas territories citizen, a British National (Overseas) or a British Overseas citizen,
+  - (b) a person who under the British Nationality Act 1981 is a British subject, or
+  - (c) a British protected person within the meaning of that Act;
+
+- “UK service disciplinary proceedings” means—
+
+  - (a) any proceedings (whether or not before a court) in respect of a service offence (except proceedings before a civilian court within the meaning of the Armed Forces Act 2006);
+  - (b) any proceedings under the Army Act 1955, the Air Force Act 1955, or the Naval Discipline Act 1957 (whether before a court-martial or before any other court or person authorised under any of those Acts to award a punishment in respect of an offence);
+  - (c) any proceedings before a Standing Civilian Court established under the Armed Forces Act 1976.
+
+(2) The following provisions (which deem a conviction of a person discharged not to be a conviction) do not apply for the purposes of the criminal records provisions to a conviction of an individual for an offence in respect of which an order has been made discharging the individual absolutely or conditionally—
+
+(a) section 247 of the Criminal Procedure (Scotland) Act 1995;
+
+(b) Article 6 of the Criminal Justice (Northern Ireland) Order 1996 (S.I. 1996/3160 (N.I. 24));
+
+(c) section 14 of the Powers of Criminal Courts (Sentencing) Act 2000;
+
+(d) section 82 of the Sentencing Code;
+
+(e) section 187 of the Armed Forces Act 2006 or any corresponding earlier enactment.
+
+(3) The appropriate national authority may by regulations amend this section so as to change the meaning of “criminal records database” in relation to a part of the United Kingdom.
+
+(4) For the purposes of subsection (3) the “appropriate national authority” is—
+
+(a) in relation to England and Wales, the Secretary of State;
+
+(b) in relation to Scotland, the Scottish Ministers;
+
+(c) in relation to Northern Ireland, the Department of Justice in Northern Ireland.
+
+### Passenger and vehicle registration data
+
+#### 7 Passenger name record data
+
+In Schedule 2—
+
+(a) Part 1 amends the Passenger Name Record Data and Miscellaneous Amendments Regulations 2018 (S.I. 2018/598) (the “PNR regulations”);
+
+(b) Part 2 makes provision for an interim period;
+
+(c) Part 3 confers power to modify the PNR regulations to apply to sea and rail travel.
+
+#### 8 Disclosure of vehicle registration data
+
+(1) The Secretary of State may disclose vehicle registration data in accordance with—
+
+(a) [[^F1]Article 537] of the Trade and Cooperation Agreement (automated searching of vehicle registration data), and
+
+(b) [[^F2]Chapter 3 of Annex 39] to that agreement (exchange of vehicle registration data).
+
+(2) A disclosure under this section does not breach—
+
+(a) any obligation of confidence owed by the Secretary of State, or
+
+(b) any other restriction on the disclosure of data (however imposed).
+
+(3) Nothing in this section authorises the making of a disclosure which contravenes the data protection legislation (save that the power conferred by this section is to be taken into account in determining whether any disclosure contravenes that legislation).
+
+(4) Nothing in this section limits the circumstances in which data may be disclosed under any other enactment or rule of law.
+
+(5) “Vehicle registration data” has the meaning given by [[^F3]Article 528] of the Trade and Cooperation Agreement (definitions).
+
+### Evidence
+
+#### 9 Mutual assistance in criminal matters
+
+Schedule 3 contains provision about mutual assistance in criminal matters.
+
+#### 10 Accreditation of forensic service providers
+
+(1) The Accreditation of Forensic Service Providers Regulations 2018 (S.I. 2018/1276) are amended as follows.
+
+(2) In regulation 2 (interpretation)—
+
+(a) in the definitions of “dactyloscopic data”, “DNA-profile” and “laboratory activity”, for “the Framework Decision” substitute “ Title II of Part 3 of the Trade and Cooperation Agreement (exchanges of DNA, fingerprints and vehicle registration data etc) ”,
+
+(b) omit the definition of “Framework Decision”, and
+
+(c) after the definition of “relevant employee” insert—
+
+> “the Trade and Cooperation Agreement” has the same meaning as in the European Union (Future Relationship) Act 2020 (see section 37 of that Act)
+
+.
+
+(3) In regulation 4 (requirement to use an accredited forensic service provider) in paragraph (2)(b) for “Article 4 of the Framework Decision” substitute “ paragraph 1 of Article LAW.PRUM.16 of the Trade and Cooperation Agreement ”.
+
+### Extradition
+
+#### 11 Member States to remain category 1 territories
+
+(1) In the Extradition Act 2003 (Designation of Part 1 Territories) Order 2003 (S.I. 2003/3333) after Article 1 insert—
+
+> **1A**
+>
+> The following territories are designated for the purposes of Part 1 of the Extradition Act 2003—
+>
+> - Austria,
+> - Belgium,
+> - Bulgaria,
+> - Croatia,
+> - Cyprus,
+> - Czech Republic,
+> - Denmark,
+> - Estonia,
+> - Finland,
+> - France,
+> - Germany,
+> - Greece,
+> - Hungary,
+> - Ireland,
+> - Italy,
+> - Latvia,
+> - Lithuania,
+> - Luxembourg,
+> - Malta,
+> - The Netherlands,
+> - Poland,
+> - Portugal,
+> - Romania,
+> - Slovakia,
+> - Slovenia,
+> - Spain,
+> - Sweden.
+
+(2) In Article 2(2) and Article 3(2) of the Extradition Act 2003 (Designation of Part 2 Territories) Order 2003 (S.I. 2003/3334) omit the entry for each territory that is designated for the purposes of Part 1 of the Extradition Act 2003 by reason of subsection (1) of this section.
+
+#### 12 Dual criminality
+
+(1) The Extradition Act 2003 is amended as follows.
+
+(2) In section 64 (extradition offence: persons not sentenced for offence)—
+
+(a) in subsection (2), for “, (4) or (5)” substitute “ or (4) ”, and
+
+(b) omit subsection (5).
+
+(3) In section 65 (extradition offence: persons sentenced for offence)—
+
+(a) in subsection (2), for “, (4) or (5)” substitute “ or (4) ”, and
+
+(b) omit subsection (5).
+
+(4) In section 142 (issue of Part 3 warrant)—
+
+(a) in subsection (6)(a), for “European framework” substitute “ Trade and Cooperation Agreement ”, and
+
+(b) in subsection (7), in the words before paragraph (a), for “European framework” substitute “ Trade and Cooperation Agreement ”.
+
+(5) In section 215 (European framework list)—
+
+(a) in the heading, for “European framework” substitute “ Trade and Cooperation Agreement ”, and
+
+(b) in subsection (1), for “European framework” substitute “ Trade and Cooperation Agreement ”.
+
+(6) In Schedule 2 (European framework list)—
+
+(a) in the heading, for “European framework” substitute “ Trade and Cooperation Agreement ”,
+
+(b) in paragraph 7, after “Corruption” insert “ , including bribery ”, and
+
+(c) in paragraph 31, for “aircraft/ships” substitute “ aircraft/ships/spacecraft ”.
+
+#### 13 Category 1 territories not applying Trade and Cooperation Agreement to old cases
+
+(1) Section 155A of the Extradition Act 2003 (category 1 territories not applying framework decision to old cases) is amended as follows.
+
+(2) In the heading, for “framework decision” substitute “ Trade and Cooperation Agreement ”.
+
+(3) In subsection (1)—
+
+(a) for “European extradition requests” substitute “ requests for extradition made by the United Kingdom ”, and
+
+(b) for “the European framework decision” substitute “ Title VII of Part 3 of the Trade and Cooperation Agreement ”.
+
+(4) In subsection (4)—
+
+(a) omit the definitions of “European extradition request” and “European framework decision”, and
+
+(b) at the end insert—
+
+> “the Trade and Cooperation Agreement” has the same meaning as in the European Union (Future Relationship) Act 2020 (see section 37 of that Act).
+
+## PART 2 — Trade and other matters
+
+### Information about non-food product safety
+
+#### 14 Disclosure of non-food product safety information within UK
+
+(1) This section applies to information which relates to the safety of non-food products and is supplied by the European Commission, or such person as the Commission may specify by written notice to the Secretary of State, to a relevant authority for the purpose of giving effect to a provision of—
+
+(a) [[^F4]Article 96] of the Trade and Cooperation Agreement (including any annex to that Article), or
+
+(b) a non-food product safety annex.
+
+(2) A relevant authority may disclose that information for a permitted purpose.
+
+(3) The following are the “permitted purposes” for the purpose of subsection (2)—
+
+(a) to ensure health and safety,
+
+(b) to ensure the protection of consumers, and
+
+(c) to ensure the protection of the environment.
+
+(4) A person who receives information as a result of subsection (2) may not—
+
+(a) use the information for a purpose other than a permitted purpose, or
+
+(b) further disclose that information except with the consent of the relevant authority who disclosed the information.
+
+#### 15 Disclosure of non-food product safety information to Commission
+
+(1) This section applies to information held by a relevant authority which relates to the safety of non-food products.
+
+(2) A relevant authority may disclose information to the European Commission, or such person as the Commission may specify by written notice to the Secretary of State, for the purpose of giving effect to a provision of—
+
+(a) [[^F5]Article 96] of the Trade and Cooperation Agreement (including any annex to that Article), or
+
+(b) a non-food product safety annex.
+
+#### 16 Offence relating to disclosure under section 14(4)(b)
+
+(1) A person commits an offence if the person, in contravention of section 14(4)(b), discloses information which relates to a person whose identity—
+
+(a) is specified in the disclosure, or
+
+(b) can be deduced from it.
+
+(2) It is a defence for a person charged with an offence under this section to prove that the person reasonably believed—
+
+(a) that the disclosure was lawful, or
+
+(b) that the information had already lawfully been made available to the public.
+
+(3) A prosecution for an offence under this section—
+
+(a) may be brought in England and Wales only with the consent of the Director of Public Prosecutions;
+
+(b) may be brought in Northern Ireland only with the consent of the Director of Public Prosecutions for Northern Ireland.
+
+(4) A person guilty of an offence under this section is liable—
+
+(a) on conviction on indictment, to imprisonment for a term not exceeding two years, to a fine or to both, or
+
+(b) on summary conviction—
+
+(i) in England and Wales, to imprisonment for a term not exceeding [[^F6]the general limit in a magistrates’ court], to a fine or to both;
+
+(ii) in Scotland, to imprisonment for a term not exceeding 12 months, to a fine not exceeding the statutory maximum or to both;
+
+(iii) in Northern Ireland, to imprisonment for a term not exceeding 6 months, to a fine not exceeding the statutory maximum or to both.
+
+(5) In relation to an offence committed before [[^F7]2 May 2022], the reference in subsection (4)(b)(i) to [[^F8]the general limit in a magistrates’ court] is to be read as a reference to 6 months.
+
+#### 17 General provisions about disclosure of non-food product safety information
+
+(1) Nothing in section 14 or 15 limits the circumstances in which information may be disclosed under any other enactment or rule of law.
+
+(2) A disclosure under section 14 or 15 does not breach—
+
+(a) any obligation of confidence owed by the relevant authority, or
+
+(b) any other restriction on the disclosure of information (however imposed).
+
+(3) Nothing in this section, or in section 14 or 15, authorises a disclosure of information if the disclosure would contravene the data protection legislation (but in determining whether a disclosure would do so, the powers conferred by sections 14(2) and 15(2) are to be taken into account).
+
+#### 18 Interpretation of sections 14 to 17
+
+(1) In sections 14 to 17 and this section—
+
+- “market surveillance” means any activity conducted or measure taken for the purpose of ensuring that a product complies with relevant legal requirements;
+
+- “market surveillance authority” means—
+
+  - (a) a person in the United Kingdom with any function of carrying out market surveillance that is conferred by an enactment or rule of law, and
+  - (b) a person in any other country or territory with any corresponding function;
+
+- “non-food product safety annex” means one of the following annexes to the Trade and Cooperation Agreement—
+
+  - (a) [[^F9]Annex 11]: Motor vehicles and equipment and parts thereof, or
+  - (b) [[^F10]Annex 13] : Chemicals;
+
+- “permitted purpose” has the meaning given by section 14(3);
+
+- “relevant authority” means—
+
+  - (a) a Minister of the Crown, or
+  - (b) the Health and Safety Executive;
+
+- “relevant legal requirements” means such requirements of the law relating to a product as apply in the territory in which the product is made available on the market, put into service or put into use.
+
+(2) For the purposes of sections 14 and 15 and this section, information which relates to the safety of non-food products includes—
+
+(a) information about whether, and the extent to which, a non-food product complies, or may comply, with any—
+
+(i) relevant legal requirement, or
+
+(ii) other assessment that relates to product safety,
+
+(b) information about developments, or potential developments, in the field of safety of non-food products, and
+
+(c) the exercise of functions by market surveillance authorities in relation to non-food products.
+
+### Use of relevant international standards
+
+#### 19 Use of relevant international standards
+
+Schedule 4 contains amendments about the use of international standards.
+
+### Customs and tax
+
+#### 20 Disclosure of information and co-operation with other customs services
+
+(1) In the Customs and Excise Management Act 1979, after section 8 insert—
+
+> **8A Disclosure of customs information**
+>
+> (1) HMRC (or anyone acting on their behalf) may disclose to any person information held by them in connection with HMRC's customs functions if the disclosure is made for purposes that are connected with those functions.
+>
+> (2) In this section “HMRC's customs functions” means HMRC's functions in their capacity as a customs service and includes in particular their functions relating to—
+>
+> (a) the movement of goods or cash into or out of the United Kingdom, and
+>
+> (b) the imposition, enforcement or other regulation of import duty.
+>
+> (3) A person who receives information as a result of this section—
+>
+> (a) may use it only for the purposes for which it was disclosed, and
+>
+> (b) may not further disclose it without the consent of the Commissioners (which may be general or specific).
+>
+> (4) If—
+>
+> (a) a person discloses information in contravention of subsection (3)(b), and
+>
+> (b) the information relates to a person whose identity is specified in, or can be deduced from, the disclosure,
+>
+> section 19 of the Commissioners for Revenue and Customs Act 2005 (offence of wrongful disclosure) applies in relation to the disclosure as it applies in relation to a disclosure in contravention of section 20(9) of that Act.
+>
+> (5) Nothing in this section authorises a disclosure of information if the disclosure would contravene the data protection legislation or would be prohibited by the investigatory powers legislation (but in determining whether a disclosure would do either of those things, the power conferred by subsection (1) is to be taken into account).
+>
+> (6) In subsection (5)—
+>
+> - “the data protection legislation” has the same meaning as in the Data Protection Act 2018 (see section 3 of that Act);
+> - “the investigatory powers legislation” means Parts 1 to 7 and Chapter 1 of Part 9 of the Investigatory Powers Act 2016.
+>
+> (7) Nothing in this section—
+>
+> (a) applies to a disclosure made in the exercise of the power conferred by section 8B (1) or (2) of this Act (co-operation with other customs services);
+>
+> (b) limits the circumstances in which information may be disclosed under section 18(2) of the Commissioners for Revenue and Customs Act 2005 or under any other enactment or rule of law.
+>
+> (8) In this section—
+>
+> - “cash” means—
+>
+>   - (a) notes and coins in any currency, and
+>   - (b) any bearer-negotiable or other monetary instrument;
+>
+> - “HMRC” means Her Majesty's Revenue and Customs.
+>
+> **8B Co-operation with other customs services**
+>
+> (1) HMRC (or anyone acting on their behalf) may co-operate with any other customs service (whether by exchanging information or otherwise) on matters of mutual concern with a view to securing—
+>
+> (a) the administration of the import duty system,
+>
+> (b) the prevention or detection of evasion or other fraud relating to import duty, and
+>
+> (c) the prevention, reduction or elimination of avoidance of a liability to import duty.
+>
+> (2) HMRC (or anyone acting on their behalf) may co-operate with any other customs service (whether by exchanging information or otherwise) for the purposes of implementing any international obligation of the United Kingdom.
+>
+> (3) A person who receives information as a result of this section—
+>
+> (a) may use it only for the purposes of HMRC's customs functions or the functions of the other customs service in question, and
+>
+> (b) may not further disclose it without the consent of the Commissioners (which may be general or specific).
+>
+> (4) If—
+>
+> (a) a person discloses information in contravention of subsection (3)(b), and
+>
+> (b) the information relates to a person whose identity is specified in, or can be deduced from, the disclosure,
+>
+> section 19 of the Commissioners for Revenue and Customs Act 2005 (offence of wrongful disclosure) applies in relation to the disclosure as it applies in relation to a disclosure in contravention of section 20(9) of that Act.
+>
+> (5) Nothing in this section authorises a disclosure of information if the disclosure would contravene the data protection legislation or would be prohibited by the investigatory powers legislation (but in determining whether a disclosure would do either of those things, the powers conferred by subsections (1) and (2) are to be taken into account).
+>
+> (6) In subsection (5)—
+>
+> - “the data protection legislation” has the same meaning as in the Data Protection Act 2018 (see section 3 of that Act);
+> - “the investigatory powers legislation” means Parts 1 to 7 and Chapter 1 of Part 9 of the Investigatory Powers Act 2016.
+>
+> (7) Nothing in this section limits the circumstances in which information may be disclosed under section 18(2) of the Commissioners for Revenue and Customs Act 2005 or under any other enactment or rule of law.
+>
+> (8) In this section—
+>
+> - “HMRC's customs functions” and “HMRC” have the same meaning as in section 8A;
+> - “international obligation of the United Kingdom” includes any obligation of the United Kingdom that arises under an international agreement or arrangement to which the United Kingdom is a party (whenever the United Kingdom becomes a party to it).
+
+(2) In section 10 of that Act (disclosure by Commissioners of certain information as to imported goods), omit subsection (A1).
+
+(3) In the Taxation (Cross-border Trade) Act 2018—
+
+(a) omit section 25 (disclosure of information);
+
+(b) omit section 26 (co-operation with other customs services);
+
+(c) (in consequence of the amendment made by subsection (2)), in Schedule 7 (consequential amendments) omit paragraph 8(2).
+
+#### 21 Powers to make regulations about movement of goods
+
+(1) The Customs and Excise Management Act 1979 is amended as follows.
+
+(2) After section 166 insert—
+
+> **Powers to make regulations about movement of goods**
+>
+> **166A Regulations about movement of goods**
+>
+> (1) The Commissioners may by regulations make provision for the purpose of monitoring, or controlling, the movement of goods that pose, or might pose, a risk to—
+>
+> (a) public health or public safety,
+>
+> (b) national security, or
+>
+> (c) the environment (including the health of animals or plants).
+>
+> (2) The Commissioners may by regulations make provision for the purpose of implementing any international obligation of the United Kingdom relating to the movement of goods.
+>
+> (3) Regulations under subsection (1) or (2) may, in particular, include provision—
+>
+> (a) requiring records to be kept or information to be provided,
+>
+> (b) requiring declarations to be made,
+>
+> (c) requiring or authorising persons or vehicles to be searched,
+>
+> (d) requiring or authorising samples of goods to be taken,
+>
+> (e) requiring or authorising goods to be examined, sealed, locked, marked, seized, detained or disposed of, or
+>
+> (f) otherwise imposing restrictions or prohibitions with respect to the movement of goods.
+>
+> (4) A reference in this section to the movement of goods is to their movement into or out of the United Kingdom or within the United Kingdom, and includes a reference to their loading or unloading.
+>
+> (5) In this section “international obligation of the United Kingdom” includes any obligation of the United Kingdom that arises under an international agreement or arrangement to which the United Kingdom is a party (whenever the United Kingdom becomes a party to it).
+>
+> (6) The power to make regulations under subsection (2) in relation to an international obligation arising under an international agreement or arrangement is capable of being exercised before the international agreement or arrangement comes into effect.
+>
+> **166B Authorised economic operators**
+>
+> (1) Regulations under section 166A may include provision—
+>
+> (a) disapplying or simplifying specified requirements imposed by the relevant legislation in relation to things required or authorised to be done by authorised economic operators, or
+>
+> (b) requiring the Commissioners or the Treasury to have regard to the status of a person as an authorised economic operator when considering whether or not, or how, to exercise any power or other function for the purposes of the relevant legislation.
+>
+> (2) In this section—
+>
+> - “authorised economic operators” means persons authorised as such in accordance with provision made by the relevant legislation;
+>
+> - “the relevant legislation” means—
+>
+>   - (a) this Act and subordinate legislation made under it, and
+>   - (b) provisions contained in “customs legislation” within the meaning of Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying down the Union Customs Code (see Article 5(2) of that Regulation).
+>
+> (3) Regulations made by virtue of this section may, in particular—
+>
+> (a) specify the criteria to be applied in determining whether or not any person should be an authorised economic operator;
+>
+> (b) specify those criteria by reference to professional standards of competence (as set by any specified person) or by reference to anything else (including the judgment of any person as to suitability);
+>
+> (c) make provision for a person's status as an authorised economic operator to be subject to compliance with conditions specified in the regulations or in the authorisation;
+>
+> (d) establish different classes of authorised economic operator.
+>
+> **166C Regulations under sections 166A: further provision**
+>
+> (1) Regulations under section 166A may—
+>
+> (a) confer a discretion;
+>
+> (b) authorise fees to be charged in respect of the exercise of a function of the Commissioners, the Treasury or another public body;
+>
+> (c) make provision for enforcement, including provision about civil sanctions;
+>
+> (d) make provision for reviews or appeals in relation to decisions made in the exercise of a function of the Commissioners, the Treasury or another public body;
+>
+> (e) make different provision for different cases or circumstances or for different areas;
+>
+> (f) make supplementary, incidental, consequential, transitional, transitory or saving provision.
+>
+> (2) Regulations under section 166A may provide for requirements of an administrative nature relating to—
+>
+> (a) any requirement or condition imposed by the regulations, or
+>
+> (b) any declaration or application for which provision is made by the regulations,
+>
+> to be specified by a public notice.
+>
+> (3) The requirements that may be specified by virtue of subsection (2) include—
+>
+> (a) requirements about keeping records and other evidence;
+>
+> (b) requirements about the submission of evidence;
+>
+> (c) requirements about the form and content of anything that must or may be provided;
+>
+> (d) requirements about the manner in which, and the time within which, any such thing is to be provided.
+>
+> (4) Regulations under section 166A may not—
+>
+> (a) impose or vary the amount of any duty or other form of taxation, or
+>
+> (b) establish a public authority.
+>
+> (5) Regulations under section 166A may not include—
+>
+> (a) provision that would be within the legislative competence of the Scottish Parliament if it were included in an Act of that Parliament,
+>
+> (b) provision that would be within the legislative competence of Senedd Cymru if it were included in an Act of Senedd Cymru, or
+>
+> (c) provision that would be within the legislative competence of the Northern Ireland Assembly if it were included in an Act of that Assembly,
+>
+> unless the provision is merely incidental to, or consequential on, provision that would be outside that legislative competence.
+>
+> (6) A power to make regulations under section 166A may be exercised by modifying any enactment.
+>
+> (7) In this section—
+>
+> - “enactment” has the same meaning as in the European Union (Future Relationship) Act 2020;
+> - “modify” includes amend, repeal or revoke (and related expressions are to be read accordingly);
+> - “public authority” means a public authority within the meaning of section 6 of the Human Rights Act 1998.
+
+(3) In section 172 (regulations)—
+
+(a) in subsection (2), for “subsection (3)” substitute “ subsections (3) and (4) ”;
+
+(b) after subsection (3) insert—
+
+> (4) A statutory instrument containing (whether alone or with other provision) regulations under section 166A that amend (or repeal or revoke)—
+>
+> (a) an Act of Parliament,
+>
+> (b) an Act of the Scottish Parliament,
+>
+> (c) an Act or Measure of Senedd Cymru, or
+>
+> (d) Northern Ireland legislation,
+>
+> may not be made unless a draft of the instrument has been laid before each House of Parliament and approved by a resolution of each House.
+
+#### 22 Administrative co-operation on VAT and mutual assistance on tax debts
+
+(1) The arrangements contained in the Protocol have effect (and do so in spite of anything in any enactment).
+
+(2) The Commissioners for Her Majesty's Revenue and Customs are the competent authority in the United Kingdom responsible for the application of the Protocol.
+
+(3) A reference in any enactment to arrangements having effect by virtue of, or by virtue of an Order in Council under, section 173 of the Finance Act 2006 (international tax enforcement arrangements) includes a reference to arrangements having effect by virtue of this section.
+
+(4) In this section “the Protocol” means—
+
+(a) the protocol, contained in the Trade and Cooperation Agreement, on administrative co-operation and combating fraud in the field of Value Added Tax and on mutual assistance for the recovery of claims relating to taxes and duties, and
+
+(b) any decision or recommendation adopted by the Specialised Committee in accordance with that protocol.
+
+(5) In subsection (4)—
+
+(a) a reference to the Trade and Cooperation Agreement or to any provision of it is to that agreement or provision as it has effect at the relevant time;
+
+(b) a reference to a decision or recommendation adopted by the Specialised Committee in accordance with any provision is to a decision or recommendation so adopted at or before the relevant time.
+
+(6) In subsection (5) “the relevant time” means the time at which the protocol mentioned in subsection (4)(a) comes into effect (or, if it comes into effect at different times for different purposes, the earliest such time).
+
+(7) The Commissioners for Her Majesty's Revenue and Customs may by regulations amend subsection (6) so as to substitute a later time for that for the time being specified there.
+
+### Transport
+
+#### 23 Licences for access to the international road haulage market
+
+In Regulation (EC) No. 1072/2009 of the European Parliament and of the Council of 21 October 2009 on common rules for access to the international road haulage market, for the model licence set out in Annex 2 (UK licence for the Community model) substitute the model licence set out in Part B of Appendix Road.A.1.3 to Annex Road-1 to the Trade and Cooperation Agreement.
+
+#### 24 International road haulage
+
+(1) The 2009 Regulation is amended in accordance with this section.
+
+(2) In Article 2(2) (meaning of “international carriage”), as amended by regulation 13(3)(b) of the 2019 regulations—
+
+(a) in point (e), omit “or”;
+
+(b) at the end of point (f), insert
+
+> ; or
+>
+> (g) a laden journey undertaken by a vehicle from the United Kingdom between two Member States which follows a journey referred to in point (a).
+
+(3) In Article 8 (general principle of cabotage), as amended by regulation 13(9) of the 2019 regulations, in paragraph 2, for “three cabotage operations”, in each place it appears, substitute “ two cabotage operations ”.
+
+(4) In this section—
+
+- “the 2009 Regulation” means Regulation (EC) No 1072/2009 of the European Parliament and of the Council of 21 October 2009 on common rules for access to the international road haulage market;
+- “the 2019 regulations” means the Licensing of Operators and International Road Haulage (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/708).
+
+#### 25 Disclosure of data relating to drivers' cards for tachographs
+
+(1) The Secretary of State may disclose data from the GB electronic register in accordance with—
+
+(a) Article 13(2) of [[^F11]Section 2 of Part C of Annex 31] to the Trade and Cooperation Agreement (interconnection and accessibility of electronic registers of data relating to drivers' cards for tachographs), or
+
+(b) Article 13(4) of [[^F12]Section 2 of Part C of Annex 31] to the Trade and Cooperation Agreement (access for control officers to electronic registers of data relating to drivers' cards for tachographs).
+
+(2) The Department for Infrastructure may disclose data from the NI electronic register in accordance with—
+
+(a) Article 13(2) of [[^F13]Section 2 of Part C of Annex 31] to the Trade and Cooperation Agreement (interconnection and accessibility of electronic registers of data relating to drivers' cards for tachographs), or
+
+(b) Article 13(4) of [[^F14]Section 2 of Part C of Annex 31] to the Trade and Cooperation Agreement (access for control officers to electronic registers of data relating to drivers' cards for tachographs).
+
+(3) A disclosure under this section does not breach—
+
+(a) any obligation of confidence owed by the Secretary of State or the Department for Infrastructure, or
+
+(b) any other restriction on the disclosure of data (however imposed).
+
+(4) Nothing in this section authorises the making of a disclosure which contravenes the data protection legislation (save that the power conferred by this section is to be taken into account in determining whether any disclosure contravenes that legislation).
+
+(5) Nothing in this section limits the circumstances in which data may be disclosed under any other enactment or rule of law.
+
+(6) In this section—
+
+- “GB electronic register” means any electronic register maintained by the Secretary of State in accordance with Article 13(1) of [[^F15]Section 2 of Part C of Annex 31] to the Trade and Cooperation Agreement (maintenance of electronic registers of data relating to drivers' cards for tachographs);
+- “NI electronic register” means any electronic register maintained by the Department for Infrastructure in accordance with Article 13(1) of [[^F15]Section 2 of Part C of Annex 31] to the Trade and Cooperation Agreement (maintenance of electronic registers of data relating to drivers' cards for tachographs).
+
+### Social security
+
+#### 26 Social security co-ordination
+
+(1) The following provisions of the Trade and Cooperation Agreement, in its English language version, form part of domestic law on and after the relevant day—
+
+(a) the SSC Protocol;
+
+(b) [[^F16]Title I of Heading 4 of Part 2 (Trade, Transport, Fisheries and Other Arrangements)];
+
+(c) [[^F17]Articles 6 and 775], so far as applying to the SSC Protocol.
+
+(2) Any enactment has effect on and after the relevant day with such modifications as—
+
+(a) are required in consequence of subsection (1) or otherwise for the purposes of implementing the provisions mentioned in that subsection, and
+
+(b) are capable of being ascertained from those provisions or otherwise from the Trade and Cooperation Agreement.
+
+(3) Subsections (1) and (2)—
+
+(a) are subject to any equivalent or other provision—
+
+(i) which (whether before, on or after the relevant day) is made by or under this Act or any other enactment or otherwise forms part of domestic law, and
+
+(ii) which is for the purposes of (or has the effect of) implementing to any extent the Trade and Cooperation Agreement or any other future relationship agreement, and
+
+(b) do not limit the scope of any power which is capable of being exercised to make any such provision.
+
+(4) The references to the Trade and Cooperation Agreement in—
+
+(a) subsections (1) and (2), and
+
+(b) the definition of “the SSC Protocol” in subsection (5),
+
+are (except as provided in that definition) references to the agreement as it has effect on the relevant day.
+
+(5) In this section—
+
+- “domestic law” means—
+
+  - (a) in subsection (1), the law of England and Wales, Scotland and Northern Ireland, and
+  - (b) in subsection (3)(a)(i), the law of England and Wales, Scotland or Northern Ireland;
+
+- “relevant day”, in relation to any provision mentioned in subsection (1) or any aspect of it, means—
+
+  - (a) so far as the provision or aspect concerned is provisionally applied before it comes into force, the time and day from which the provisional application applies, and
+  - (b) so far as the provision or aspect concerned is not provisionally applied before it comes into force, the time and day when it comes into force;
+
+- “the SSC Protocol” means the Protocol on Social Security Coordination contained in the Trade and Cooperation Agreement, as that protocol is modified or supplemented from time to time in accordance with Article SSC.11(6), Article SSC.11(8) or Article SSC.68 of that protocol;
+
+and references to the purposes of (or having the effect of) implementing an agreement (or any provision of an agreement) include references to the purposes of (or having the effect of) making provision consequential on any such implementation.
+
+### Privileges and immunities
+
+#### 27 The EU and Euratom and related organisations and bodies
+
+(1) Section 4B of the International Organisations Act 1968 (bodies established under the Treaty on European Union) is amended in accordance with this section.
+
+(2) For the title substitute “ The EU and Euratom and related organisations and bodies ”.
+
+(3) For subsection (1) substitute—
+
+> (1) This section applies to—
+>
+> (a) the European Union,
+>
+> (b) Euratom, or
+>
+> (c) any EU or Euratom organisation or body,
+>
+> if the United Kingdom, or Her Majesty's Government in the United Kingdom, has obligations in relation to it by virtue of any agreement to which the United Kingdom, or Her Majesty's Government in the United Kingdom, is a party (whether made with another sovereign Power or the Government of such a Power or not).
+
+(4) In subsection (2)—
+
+(a) in the words before paragraph (a), for “a specified body to which this section applies” substitute “ the European Union, Euratom or an EU or Euratom organisation or body if this section applies to it and it is specified ”;
+
+(b) in paragraph (a), and in paragraph (b) (in both places), for “body” substitute “ it ”;
+
+(c) in paragraph (b), for “subsection (1)(b)” substitute “ subsection (1) ”.
+
+(5) In subsection (3)—
+
+(a) in paragraph (a), for “body's officers or staff” substitute “officers or staff of the European Union, Euratom or the EU or Euratom organisation or body;
+
+(b) in paragraph (b), for “the body” substitute “ it ”.
+
+(6) After subsection (3) insert—
+
+> (3A) The power conferred by subsection (2) includes power to make such provision (including provision amending any retained EU law) as Her Majesty in Council considers appropriate in consequence of any provision of the kind referred to in subsection (2)(a) to (c).
+
+(7) In subsection (4), for “section, “specified”” substitute
+
+> section—
+>
+> “body” includes a delegation or office;
+>
+> “EU or Euratom organisation or body” means—
+>
+> (a) an organisation or body which is established by or on behalf of the EU or Euratom (or by or on behalf of them jointly), or
+>
+> (b) any other organisation or body in relation to which the United Kingdom, or Her Majesty's Government in the United Kingdom, had obligations immediately before IP completion day by virtue of the United Kingdom's relationship with the EU or Euratom (or with both of them);
+>
+> “specified”
+
+.
+
+### Energy
+
+#### 28 Nuclear Cooperation Agreement
+
+(1) In regulation 3 of the Nuclear Safeguards (Fissionable Material and Relevant International Agreements) (EU Exit) Regulations 2019 (S.I. 2019/195) (relevant international agreements)—
+
+(a) after paragraph (g) insert—
+
+> (h) the Agreement between the Government of the United Kingdom of Great Britain and Northern Ireland and the European Atomic Energy Community for cooperation on the safe and peaceful uses of nuclear energy;
+
+, and
+
+(b) in the words after the paragraphs, for “(g)” substitute “ (h) ”.
+
+(2) In regulation 49 of the Nuclear Safeguards (EU Exit) Regulations 2019 (S.I. 2019/196) (interpretation of Part 13), in the definition of “specified international agreement”, for “paragraphs (c) to (f)” substitute “ any of paragraphs (c) to (f) and (h) ”.
+
+## PART 3 — General implementation
+
+### General implementation of agreements
+
+#### 29 General implementation of agreements
+
+(1) Existing domestic law has effect on and after the relevant day with such modifications as are required for the purposes of implementing in that law the Trade and Cooperation Agreement or the Security of Classified Information Agreement so far as the agreement concerned is not otherwise so implemented and so far as such implementation is necessary for the purposes of complying with the international obligations of the United Kingdom under the agreement.
+
+(2) Subsection (1)—
+
+(a) is subject to any equivalent or other provision—
+
+(i) which (whether before, on or after the relevant day) is made by or under this Act or any other enactment or otherwise forms part of domestic law, and
+
+(ii) which is for the purposes of (or has the effect of) implementing to any extent the Trade and Cooperation Agreement, the Security of Classified Information Agreement or any other future relationship agreement, and
+
+(b) does not limit the scope of any power which is capable of being exercised to make any such provision.
+
+(3) The references in subsection (1) to the Trade and Cooperation Agreement or the Security of Classified Information Agreement are references to the agreement concerned as it has effect on the relevant day.
+
+(4) In this section—
+
+- “domestic law” means the law of England and Wales, Scotland or Northern Ireland;
+
+- “existing domestic law” means—
+
+  - (a) an existing enactment, or
+  - (b) any other domestic law as it has effect on the relevant day;
+
+- “existing enactment” means an enactment passed or made before the relevant day;
+
+- “modifications” does not include any modifications of the kind which would result in a public bill in Parliament containing them being treated as a hybrid bill;
+
+- “relevant day”, in relation to the Trade and Cooperation Agreement or the Security of Classified Information Agreement or any aspect of either agreement, means—
+
+  - (a) so far as the agreement or aspect concerned is provisionally applied before it comes into force, the time and day from which the provisional application applies, and
+  - (b) so far as the agreement or aspect concerned is not provisionally applied before it comes into force, the time and day when it comes into force;
+
+and references to the purposes of (or having the effect of) implementing an agreement include references to the purposes of (or having the effect of) making provision consequential on any such implementation.
+
+#### 30 Interpretation of agreements
+
+A court or tribunal must have regard to [[^F18]Article 4] of the Trade and Cooperation Agreement (public international law) when interpreting that agreement or any supplementing agreement.
+
+### Powers
+
+#### 31 Implementation power
+
+(1) A relevant national authority may by regulations make such provision as the relevant national authority considers appropriate—
+
+(a) to implement the Trade and Cooperation Agreement, the Nuclear Cooperation Agreement, the Security of Classified Information Agreement or any relevant agreement, or
+
+(b) otherwise for the purposes of dealing with matters arising out of, or related to, the Trade and Cooperation Agreement, the Nuclear Cooperation Agreement, the Security of Classified Information Agreement or any relevant agreement.
+
+(2) Regulations under this section may make any provision that could be made by an Act of Parliament (including modifying this Act).
+
+(3) Regulations under this section may (among other things and whether with the same or a different effect) re-implement any aspect of—
+
+(a) the Trade and Cooperation Agreement,
+
+(b) the Nuclear Cooperation Agreement,
+
+(c) the Security of Classified Information Agreement, or
+
+(d) any relevant agreement,
+
+which has already been implemented (whether by virtue of this Act or otherwise).
+
+(4) But regulations under this section may not—
+
+(a) impose or increase taxation or fees,
+
+(b) make retrospective provision,
+
+(c) create a relevant criminal offence,
+
+(d) amend, repeal or revoke the Human Rights Act 1998 or any subordinate legislation made under it, or
+
+(e) amend or repeal the Scotland Act 1998, the Government of Wales Act 2006 or the Northern Ireland Act 1998 (unless the regulations are made by virtue of paragraph 27(b) of Schedule 5 to this Act or are amending or repealing any provision of those Acts which modifies another enactment).
+
+(5) Subsection (4)(b) does not apply in relation to any regulations under this section which are for the purposes of replacing or otherwise modifying, or of otherwise making provision in connection with, the provision made by section 37(4) and (5).
+
+(6) See also Part 2 of Schedule 5 (general restrictions on certain powers of devolved authorities: devolved competence etc.).
+
+(7) In this section “relevant agreement” means—
+
+(a) any future relationship agreement which is not the Trade and Cooperation Agreement, the Nuclear Cooperation Agreement or the Security of Classified Information Agreement, or
+
+(b) any agreement which falls within [[^F19]Article 361(4)] of the Trade and Cooperation Agreement (competition co-operation agreement) (including any agreement which so falls as modified or supplemented from time to time in accordance with any provision of it or of any future relationship agreement).
+
+#### 32 Powers relating to the start of agreements
+
+(1) A relevant national authority may by regulations make such provision as the relevant national authority considers appropriate in connection with—
+
+(a) the Trade and Cooperation Agreement, the Nuclear Cooperation Agreement or the Security of Classified Information Agreement (to any extent) coming into force, or becoming provisionally applied, later than IP completion day and after a period of time during which the agreement concerned was (to that extent) neither in force nor provisionally applied, or
+
+(b) the ending, suspension or resumption of any provisional application of the Trade and Cooperation Agreement, the Nuclear Cooperation Agreement or the Security of Classified Information Agreement.
+
+(2) Regulations under this section may make any provision that could be made by an Act of Parliament (including modifying this Act).
+
+(3) Regulations under this section may not—
+
+(a) create a relevant criminal offence,
+
+(b) amend, repeal or revoke the Human Rights Act 1998 or any subordinate legislation made under it, or
+
+(c) amend or repeal the Scotland Act 1998, the Government of Wales Act 2006 or the Northern Ireland Act 1998 (unless the regulations are made by virtue of paragraph 27(b) of Schedule 5 to this Act or are amending or repealing any provision of those Acts which modifies another enactment).
+
+(4) See also Part 2 of Schedule 5 (general restrictions on certain powers of devolved authorities: devolved competence etc.).
+
+#### 33 Powers relating to the functioning of agreements
+
+(1) A relevant national authority may by regulations make such provision as the relevant national authority considers appropriate for the purposes of, or otherwise in connection with, the suspension, resumption or termination of—
+
+(a) the Trade and Cooperation Agreement,
+
+(b) the Security of Classified Information Agreement, or
+
+(c) any other future relationship agreement,
+
+in accordance with the terms applicable to the agreement.
+
+(2) A relevant national authority may by regulations make such provision as the relevant national authority considers appropriate—
+
+(a) to implement or remove any relevant remedial measures which the United Kingdom has decided to take under the Trade and Cooperation Agreement or any other future relationship agreement, or
+
+(b) otherwise for the purposes of, or otherwise in connection with, the taking of any relevant remedial measures by the United Kingdom or another party to the Trade and Cooperation Agreement or any other future relationship agreement.
+
+(3) A relevant national authority may by regulations make such provision as the relevant national authority considers appropriate—
+
+(a) to implement any agreed resolution of a dispute between the United Kingdom and another party under the Trade and Cooperation Agreement, the Security of Classified Information Agreement or any other future relationship agreement, or
+
+(b) for the purposes of, or otherwise in connection with, any other decision of the United Kingdom in connection with any such dispute (other than a decision to suspend, resume, terminate or take relevant remedial measures).
+
+(4) Regulations under this section may make any provision that could be made by an Act of Parliament (including modifying this Act).
+
+(5) But regulations under this section may not—
+
+(a) make retrospective provision,
+
+(b) create a relevant criminal offence,
+
+(c) confer a power to legislate,
+
+(d) implement a ruling of an arbitration tribunal under the Trade and Cooperation Agreement or any other future relationship agreement,
+
+(e) amend, repeal or revoke the Human Rights Act 1998 or any subordinate legislation made under it, or
+
+(f) amend or repeal the Scotland Act 1998, the Government of Wales Act 2006 or the Northern Ireland Act 1998 (unless the regulations are made by virtue of paragraph 27(b) of Schedule 5 to this Act or are amending or repealing any provision of those Acts which modifies another enactment).
+
+(6) Subsection (5)(c) does not prevent—
+
+(a) the modification of a power to legislate, or
+
+(b) the extension of such a power for similar purposes to those for which it was conferred.
+
+(7) See also Part 2 of Schedule 5 (general restrictions on certain powers of devolved authorities: devolved competence etc.).
+
+(8) References in this section to the suspension, resumption or termination of a future relationship agreement include references to—
+
+(a) its suspension, resumption or termination in whole or in part or for a particular purpose or purposes, and
+
+(b) anything equivalent in effect to a suspension, resumption or termination (however expressed).
+
+(9) In this section “relevant remedial measures” means—
+
+(a) any safeguard measures, or re-balancing measures, which any party to the Trade and Cooperation Agreement or any supplementing agreement is entitled to take under [[^F20]Article 773] of the Trade and Cooperation Agreement (including that Article as it has effect in relation to any supplementing agreement),
+
+(b) any other safeguard measures or re-balancing measures, or
+
+(c) any other remedial measures which any party to a future relationship agreement is entitled to take under that agreement or any other future relationship agreement,
+
+and includes any interim or temporary measures which fall within paragraph (a), (b) or (c) but does not include any suspension, resumption or termination which falls within subsection (1).
+
+### Financial provision
+
+#### 34 Funding of PEACE PLUS programme
+
+(1) There may be paid out of money provided by Parliament any expenditure which the Secretary of State may incur in making payments to the EU or an EU entity to support the PEACE PLUS programme and any successor programmes.
+
+(2) In subsection (1)—
+
+- “EU entity” means an EU institution or any office, body or agency of the EU;
+- “the PEACE PLUS programme” means the programme of the EU which is the successor to the programme known as PEACE IV (Ireland-United Kingdom).
+
+#### 35 General financial provision
+
+(1) There may be paid out of money provided by Parliament any expenditure incurred by a Minister of the Crown, government department or other public authority by virtue of any future relationship agreement.
+
+(2) A Minister of the Crown, government department or devolved authority may incur expenditure, for the purpose of, or in connection with, preparing for anything about which provision may be made under a power to make subordinate legislation conferred or modified by or under this Act, before any such provision is made.
+
+(3) There is to be paid out of money provided by Parliament—
+
+(a) any expenditure incurred by a Minister of the Crown, government department or other public authority by virtue of this Act, and
+
+(b) any increase attributable to this Act in the sums payable by virtue of any other Act out of money so provided.
+
+(4) Subsection (3) is subject to any other provision made by or under this Act or any other enactment.
+
+(5) In this section “government department” means any department of the Government of the United Kingdom.
+
+### Parliamentary scrutiny
+
+#### 36 Requirements in Part 2 of CRAGA
+
+Section 20 of the Constitutional Reform and Governance Act 2010 (treaties to be laid before Parliament before ratification) does not apply in relation to the Trade and Cooperation Agreement, the Nuclear Cooperation Agreement or the Security of Classified Information Agreement (but this does not affect whether that section applies in relation to any treaty which modifies or supplements the agreement concerned).
+
+## PART 4 — Supplementary and final provision
+
+### Supplementary
+
+#### 37 Interpretation
+
+(1) In this Act—
+
+- “the data protection legislation” has the same meaning as in the Data Protection Act 2018 (see section 3 of that Act);
+
+- “devolved authority” means—
+
+  - (a) the Scottish Ministers,
+  - (b) the Welsh Ministers, or
+  - (c) a Northern Ireland department;
+
+- “enactment” means an enactment whenever passed or made and includes—
+
+  - (a) an enactment contained in any Order in Council, order, rules, regulations, scheme, warrant, byelaw or other instrument made under an Act of Parliament,
+  - (b) an enactment contained in any Order in Council made in exercise of Her Majesty's Prerogative,
+  - (c) an enactment contained in, or in an instrument made under, an Act of the Scottish Parliament,
+  - (d) an enactment contained in, or in an instrument made under, a Measure or Act of Senedd Cymru,
+  - (e) an enactment contained in, or in an instrument made under, Northern Ireland legislation,
+  - (f) an enactment contained in any instrument made by a member of the Scottish Government, the Welsh Ministers, the First Minister for Wales, the Counsel General to the Welsh Government, a Northern Ireland Minister, the First Minister in Northern Ireland, the deputy First Minister in Northern Ireland or a Northern Ireland department in exercise of prerogative or other executive functions of Her Majesty which are exercisable by such a person on behalf of Her Majesty,
+  - (g) an enactment contained in, or in an instrument made under, a Measure of the Church Assembly or of the General Synod of the Church of England, and
+  - (h) any [[^F21]assimilated direct] legislation;
+
+- “future relationship agreement” means—
+
+  - (a) the Trade and Cooperation Agreement,
+  
+  - (b) the Nuclear Cooperation Agreement,
+  
+  - (c) the Security of Classified Information Agreement, or
+  
+  - (d) any of the following so far as it is not a treaty to which section 20 of the Constitutional Reform and Governance Act 2010 applies (ignoring section 22 of that Act) (treaties to be laid before Parliament before ratification)—
+  
+    - (i) a supplementing agreement, or
+    - (ii) an agreement under, or otherwise envisaged (whether as part of particular arrangements or otherwise) by, an agreement falling within paragraph (a), (b) or (c) or sub-paragraph (i),
+  
+    (as the agreement concerned is modified or supplemented from time to time in accordance with any provision of it or of any other agreement falling within paragraph (a), (b) or (c) or this paragraph);
+
+- “member State” does not include the United Kingdom;
+
+- “Minister of the Crown” has the same meaning as in the Ministers of the Crown Act 1975 and also includes the Commissioners for Her Majesty's Revenue and Customs;
+
+- “modify” includes amend, repeal or revoke (and related expressions are to be read accordingly);
+
+- “Northern Ireland devolved authority” means the First Minister and deputy First Minister in Northern Ireland acting jointly, a Northern Ireland Minister or a Northern Ireland department;
+
+- “the Nuclear Cooperation Agreement” means the Agreement between the Government of the United Kingdom of Great Britain and Northern Ireland and the European Atomic Energy Community for cooperation on the safe and peaceful uses of nuclear energy (as that agreement is modified or supplemented from time to time in accordance with any provision of it or of any other future relationship agreement);
+
+- “PNR regulations” has the meaning given by section 7(a);
+
+- “power to legislate” does not include a power—
+
+  - (a) to make rules of procedure for any court or tribunal, or
+  - (b) to give directions as to matters of administration;
+
+- “primary legislation” means—
+
+  - (a) an Act of Parliament,
+  - (b) an Act of the Scottish Parliament,
+  - (c) a Measure or Act of Senedd Cymru, or
+  - (d) Northern Ireland legislation;
+
+- “relevant criminal offence” means an offence for which an individual who has reached the age of 18 (or, in relation to Scotland or Northern Ireland, 21) is capable of being sentenced to imprisonment for a term of more than 2 years (ignoring any enactment prohibiting or restricting the imprisonment of individuals who have no previous convictions);
+
+- “relevant national authority” means—
+
+  - (a) a Minister of the Crown,
+  - (b) a devolved authority, or
+  - (c) a Minister of the Crown acting jointly with one or more devolved authorities;
+
+- “[[^F21]assimilated direct] CAP legislation” has the same meaning as in the Direct Payments to Farmers (Legislative Continuity) Act 2020 (see section 2(10) of that Act);
+
+- “retrospective provision”, in relation to provision made by regulations, means provision taking effect from a date earlier than the date on which the regulations are made;
+
+- “the Security of Classified Information Agreement” means the Agreement between the European Union and the United Kingdom of Great Britain and Northern Ireland concerning security procedures for exchanging and protecting classified information (as that agreement is modified or supplemented from time to time in accordance with any provision of it or of any other future relationship agreement);
+
+- “subordinate legislation” means any Order in Council, order, rules, regulations, scheme, warrant, byelaw or other instrument made under any primary legislation; and (except in Part 2 of Schedule 5) includes any Order in Council, order, rules, regulations, scheme, warrant, byelaw or other instrument made on or after IP completion day (or, in the case of any [[^F21]assimilated direct] CAP legislation, on or after exit day) under any [[^F21]assimilated direct] legislation;
+
+- “supplementing agreement” means an agreement which constitutes a supplementing agreement by virtue of [[^F22]Article 2] of the Trade and Cooperation Agreement;
+
+- “the Trade and Cooperation Agreement” means the Trade and Cooperation Agreement between the European Union and the European Atomic Energy Community, of the one part, and the United Kingdom of Great Britain and Northern Ireland, of the other part (as that agreement is modified or supplemented from time to time in accordance with any provision of it or of any other future relationship agreement);
+
+- “treaty” has the same meaning as in Part 2 of the Constitutional Reform and Governance Act 2010 (see section 25 of that Act);
+
+- “tribunal” means any tribunal in which legal proceedings may be brought.
+
+(2) For the purposes of this Act, examples of where an agreement or part of an agreement is modified or supplemented in accordance with any provision of the agreement or of any other future relationship agreement include where it is modified or supplemented as a result of—
+
+(a) a decision or other act of any council, committee, sub-committee or other body of persons established by virtue of the agreement or another future relationship agreement, or
+
+(b) any arrangements provided for by virtue of the agreement or another future relationship agreement.
+
+(3) References in this Act to the Trade and Cooperation Agreement, the Nuclear Cooperation Agreement or the Security of Classified Information Agreement also include references to the agreement concerned—
+
+(a) as provisionally applied, and
+
+(b) as modified or supplemented from time to time on or before its coming into force and otherwise than in accordance with any provision of it or of any other future relationship agreement.
+
+(4) Subsection (5) applies if, in accordance with any provision of the Trade and Cooperation Agreement, the Nuclear Cooperation Agreement or the Security of Classified Information Agreement, any version of the agreement concerned which results from a process of final legal revision replaces from the beginning the signed version of the agreement and is established as authentic and definitive.
+
+(5) References in this Act or any other enactment to the Trade and Cooperation Agreement, the Nuclear Cooperation Agreement or (as the case may be) the Security of Classified Information Agreement, or to any provision or collection of provisions of the agreement concerned, are to be read as modified accordingly.
+
+#### 38 Regulations
+
+Schedule 5 contains provision about regulations under this Act (including provision about procedure).
+
+#### 39 Consequential and transitional provision etc.
+
+(1) A Minister of the Crown may by regulations make such provision as the Minister considers appropriate in consequence of this Act.
+
+(2) The power to make regulations under subsection (1) may (among other things) be exercised by modifying any provision made by or under an enactment.
+
+(3) Part 1 of Schedule 6 contains consequential provision.
+
+(4) A Minister of the Crown may by regulations make such transitional, transitory or saving provision as the Minister considers appropriate in connection with the coming into force of any provision of this Act.
+
+(5) Part 2 of Schedule 6 contains transitional, transitory and saving provision.
+
+### Final
+
+#### 40 Extent, commencement and short title
+
+(1) Subject to subsections (2) to (5), this Act extends to England and Wales, Scotland and Northern Ireland.
+
+(2) Section 25(1) extends to England and Wales and Scotland only.
+
+(3) Section 25(2) extends to Northern Ireland only.
+
+(4) Paragraph 2 of Schedule 4 extends to England and Wales and Scotland only.
+
+(5) Subject to subsection (4), any provision of this Act which amends or repeals an enactment has the same extent as the enactment amended or repealed.
+
+(6) The following provisions—
+
+(a) section 6(1) for the purposes of the Secretary of State giving a direction as provided for in the definition of “designated UK authority”,
+
+(b) paragraph 4 of Schedule 2 for the purposes of the Secretary of State giving a direction under regulation 4A(1) of the PNR regulations and any other provision of that Schedule so far as necessary for those purposes (and section 7 so far as relating to those provisions),
+
+(c) paragraph 2(1) to (5) of Schedule 3 (and section 9 so far as relating to those provisions),
+
+(d) sections 30 to 33,
+
+(e) sections 35 to 38 (including Schedule 5),
+
+(f) section 39(1), (2) and (4),
+
+(g) paragraphs 4 and 11 to 13 of Schedule 6 (and section 39(3) and (5) so far as relating to those paragraphs), and
+
+(h) this section,
+
+come into force on the day on which this Act is passed.
+
+(7) The provisions of this Act, so far as they are not brought into force by subsection (6), come into force on such day as a Minister of the Crown may by regulations appoint; and different days may be appointed for different purposes.
+
+(8) This Act may be cited as the European Union (Future Relationship) Act 2020.
+
+## SCHEDULE 1 — Information to be included in notification of conviction
+
+*Section 1(6)*
+
+### Introductory
+
+**1** (1) This Schedule sets out the information that is required by section 1 to be included in a notification of an individual's conviction.
+
+(2) The information mentioned in paragraphs 4, 8 to 12, 15 and 18 is required to be included only if it is recorded in the criminal records database referred to in subsection (1) or (as the case may be) subsection (2) of that section.
+
+### Information about the individual
+
+**2** The individual's name.
+
+**3** Any previous name of the individual.
+
+**4** Any other name used by the individual.
+
+**5** The individual's gender.
+
+**6** The individual's date and place of birth.
+
+**7** The individual's nationality or nationalities.
+
+**8** The names of the individual's parents.
+
+**9** The number of any passport held by the individual.
+
+**10** The issue number (if any) and description of any other identity document (within the meaning of section 7 of the Identity Documents Act 2010) held by the individual.
+
+**11** The individual's fingerprints.
+
+**12** A photograph or other image of the individual's face.
+
+### Information about the conviction
+
+**13** The date of the conviction.
+
+**14** (1) In the case of a conviction by or before a court, the court by or before which the individual was convicted.
+
+(2) In any other case, the person or description of person by or before which the individual was convicted.
+
+**15** The reference number of the conviction.
+
+**16** The offence of which the individual was convicted.
+
+**17** The date on which the offence was committed (or, if the offence was committed over a period of time, that period).
+
+**18** The place where the offence was committed.
+
+**19** Any sentence imposed in respect of the offence.
+
+In this paragraph “sentence” includes anything that under section 376(1) and (3) of the Armed Forces Act 2006 (punishments awarded by officers etc) is to be treated as a sentence for the purposes of that Act.
+
+**20** Any other order made in respect of the offence.
+
+## SCHEDULE 2 — Passenger name record data
+
+*Section 7*
+
+### PART 1 — Amendments to the PNR regulations
+
+**1** The PNR regulations are amended as follows.
+
+**2** (1) Regulation 2 (interpretation) is amended as follows.
+
+(2) Insert the following definitions at the appropriate places in paragraph (1)—
+
+> - “the Agreement” means the Trade and Cooperation Agreement between the European Union and the European Atomic Energy Community, of the one part, and the United Kingdom of Great Britain and Northern Ireland, of the other part, as it has effect on the relevant day (as amended or supplemented from time to time on or before its coming into force);”;
+
+;
+
+> “air carrier” means the owner or agent of an aircraft operating passenger services to or from the United Kingdom;
+
+;
+
+> “the data protection legislation” has the same meaning as in the Data Protection Act 2018 (see section 3 of that Act);
+
+;
+
+> “designated independent authority” means the person for the time being designated under regulation 4A by a direction given by the Secretary of State;
+
+;
+
+> “EU PIU” means an authority based in a member State which has been notified to the United Kingdom under the Agreement as the passenger information unit for that member State;
+
+;
+
+> “EU PNR data” means PNR data—
+>
+> (a) relating to an aircraft arriving, or expected to arrive, in the United Kingdom from or by way of a member State,
+>
+> (b) relating to an aircraft leaving, or expected to leave, the United Kingdom to travel to or by way of a member State,
+>
+> (c) stored in a member State by an air carrier,
+>
+> (d) stored by an air carrier incorporated in a member State, or
+>
+> (e) received by the PIU from an EU PIU;
+
+;
+
+> “EU PNR information” means EU PNR data, the result of processing EU PNR data or analytical information containing EU PNR data;
+
+;
+
+> “Eurojust” means the European Union Agency for Criminal Justice Cooperation as established by Regulation (EU) 2018/1727 of the European Parliament and of the Council of 14 November 2018 on the European Union Agency for Criminal Justice Cooperation (Eurojust) and replacing and repealing Council Decision 2002/187/JHA (as it has effect in EU law as amended from time to time);
+
+;
+
+> “European Commission” means the Commission of the European Union;
+
+;
+
+> “Europol” means the European Union Agency for Law Enforcement Cooperation as established by Regulation (EU) 2016/794 of the European Parliament and of the Council of 11 May 2016 on the European Union Agency for Law Enforcement Cooperation (Europol) and replacing and repealing Council Decisions 2009/371/JHA, 2009/934/JHA, 2009/935/JHA, 2009/936/JHA and 2009/968/JHA (as it has effect in EU law as amended from time to time);
+
+;
+
+> “PNR information” means PNR data, the result of processing PNR data or analytical information containing PNR data;
+
+;
+
+> “relevant day”, in relation to the Agreement or any aspect of it, means—
+>
+> (a) so far as the Agreement or aspect concerned is provisionally applied before it comes into force, the time and day from which the provisional application applies, and
+>
+> (b) so far as the Agreement or aspect concerned is not provisionally applied before it comes into force, the time and day when it comes into force;
+
+;
+
+> “third country competent authority” means an authority based in a third country that is competent for—
+>
+> (a) the prevention, detection, investigation or prosecution of terrorist offences or serious crime, or
+>
+> (b) protecting the vital interests of persons;
+
+.
+
+(3) Omit the following definitions—
+
+- “data subject”;
+- “non-UK competent authority”;
+- “the Passenger Name Record Directive”.
+
+(4) In the definition of “processing”—
+
+(a) for “PNR data” substitute “ PNR information ”;
+
+(b) for “that data” substitute “ that information ”.
+
+(5) For the definition of “serious crime” substitute—
+
+> “serious crime” means conduct which constitutes an offence in any part of the United Kingdom for which the maximum term of imprisonment (in the case of a person aged 21 or over) is at least 3 years (or would constitute such an offence in any part of the United Kingdom if committed there);
+
+.
+
+(6) In the definition of “third country”—
+
+(a) before “the United Kingdom” insert
+
+> —
+>
+> (a)
+
+;
+
+(b) at the end insert
+
+> , or
+>
+> (b) a member State;
+
+.
+
+(7) For the definition of “terrorist offences” substitute—
+
+> “terrorist offences” means the offences listed in Annex LAW-7 to the Agreement;
+
+.
+
+(8) In the definition of “UK competent authority”—
+
+(a) after “competent for” insert
+
+> —
+>
+> (a)
+
+;
+
+(b) at the end insert
+
+> , or
+>
+> (b) protecting the vital interests of persons.
+
+(9) After paragraph (1) insert—
+
+> (1A) References in these Regulations to protecting the vital interests of persons include protecting persons—
+>
+> (a) who are, or may be, at risk of death or serious injury, or
+>
+> (b) from significant threats to public health.
+
+**3** (1) Regulation 3 (designation of passenger information unit) is amended as follows.
+
+(2) In paragraph (2)(c)—
+
+(a) for “PNR data or the result of processing that data” substitute “ PNR information ”;
+
+(b) at the end insert “ , Europol or Eurojust ”.
+
+(3) After paragraph (2)(c) insert—
+
+> (ca) where appropriate, exchanging PNR information with an EU PIU;
+
+.
+
+(4) In paragraph (2)(d)—
+
+(a) for “PNR data and the result of processing that data” substitute “ PNR information ”;
+
+(b) for “non-UK” substitute “ third country ”.
+
+(5) After paragraph (2) insert—
+
+> (3) The Secretary of State may by regulations amend paragraph (1) so as to designate a different authority as the PIU.
+>
+> (4) The power in paragraph (3) is exercisable by statutory instrument and includes power—
+>
+> (a) to designate different authorities for different purposes or in relation to different areas;
+>
+> (b) to make supplementary, incidental, consequential, transitional, transitory or saving provision.
+>
+> (5) Where regulations under paragraph (3) designate more than one authority as the PIU, the provision that may be made by virtue of paragraph (4)(b) includes, in particular, provision amending these Regulations to make provision for the transfer of PNR information from one authority so designated to another.
+>
+> (6) A statutory instrument containing regulations under paragraph (3) is subject to annulment in pursuance of a resolution of either House of Parliament.
+
+**4** After regulation 4 insert—
+
+> **Designated independent authority**
+>
+> **4A** (1) The Secretary of State must by direction designate a person as the designated independent authority in relation to the PIU.
+>
+> (2) The person for the time being designated must be a person in relation to whom the Secretary of State is satisfied that the requirements of paragraph (3) are met.
+>
+> (3) Those requirements are that the person—
+>
+> (a) does not carry out relevant PNR data processing,
+>
+> (b) acts independently of any person carrying out relevant PNR data processing, and
+>
+> (c) has sufficient expertise and knowledge and has had appropriate training to exercise the functions of the designated independent authority under these Regulations.
+>
+> (4) In paragraph (3), relevant PNR data processing is processing of PNR data otherwise than in exercise of the functions of the designated independent authority under these Regulations.
+>
+> (5) The PIU must make EU PNR data available to the designated independent authority for the purposes of the authority's functions under these Regulations.
+>
+> (6) The designated independent authority may process EU PNR data for the purposes of exercising the authority's functions under these Regulations.
+
+**5** (1) Regulation 5 (scope) is amended as follows.
+
+(2) The existing text becomes paragraph (1).
+
+(3) After that paragraph insert—
+
+> (2) This Part also applies in respect of PNR information provided to the PIU by an EU PIU or a third country competent authority.
+
+**6** (1) Regulation 6 (processing of PNR data by the PIU) is amended as follows.
+
+(2) In paragraph (1)—
+
+(a) for “5” substitute “ 5(1) ”;
+
+(b) omit “personal”;
+
+(c) omit “immediately”.
+
+(3) In paragraph (2), at the end insert “ , subject to regulation 4A (6) ”.
+
+(4) For paragraphs (3) and (4) substitute—
+
+> (3) The purposes are—
+>
+> (a) preventing, detecting, investigating and prosecuting terrorist offences or serious crime, and
+>
+> (b) protecting the vital interests of persons.
+>
+> (4) Where the PIU compares PNR data against a database, the PIU must ensure that the database is—
+>
+> (a) reliable and up to date, and
+>
+> (b) used for a purpose described in paragraph (3).
+
+(5) In paragraph (5)—
+
+(a) at the beginning insert “ Where the PIU processes PNR data against pre-determined criteria, ”;
+
+(b) omit “referred to in paragraph (4)(b)”;
+
+(c) in sub-paragraph (a), at the beginning insert “ reliable, ”.
+
+(6) After paragraph (5) insert—
+
+> (5A) The PIU must not take any decision which produces an adverse legal effect on a person or otherwise significantly affects a person—
+>
+> (a) only by reason of the automated processing of PNR data, or
+>
+> (b) on the basis of any of the matters described in paragraph (5)(c) in relation to that person.
+
+(7) Omit paragraphs (6) to (8).
+
+(8) In paragraph (9)—
+
+(a) for “PNR data or the result of processing that data” substitute “ PNR information ”;
+
+(b) for the words from “otherwise” to the end substitute “except where it does so on a case by case basis where it is satisfied that—
+
+> (a) it is necessary to transfer that PNR information for a purpose described in paragraph (3); and
+>
+> (b) the UK competent authority has arrangements in place for the protection of personal data that are equivalent to the arrangements for the protection of personal data required of the PIU under these Regulations.
+
+**7** (1) Regulation 7 (processing of PNR data by a UK competent authority) is amended as follows.
+
+(2) In paragraph (1)(a)—
+
+(a) for “PNR data or the result of processing that data” substitute “ PNR information ”;
+
+(b) for the words from “the prevention” to “crime” substitute “ a purpose described in regulation 6(3) ”.
+
+(3) In paragraph (2)—
+
+(a) after “functions” insert
+
+> —
+>
+> (a)
+
+;
+
+(b) at the end insert
+
+> , or
+>
+> (b) in relation to public health.
+
+(4) After paragraph (2) insert—
+
+> (3) Where the PIU transfers PNR information under regulation 6(9), the UK competent authority must not transfer the PNR information to another person without the consent of the PIU.
+
+**8** Before regulation 11 insert—
+
+> **Requests for PNR data made by the PIU**
+>
+> **10** (1) Any request made by the PIU to an EU PIU for PNR information must be—
+>
+> (a) made only for the purpose described in regulation 6(3)(a),
+>
+> (b) made in respect of a specific case, and
+>
+> (c) duly reasoned.
+>
+> (2) Any request made by the PIU to a third country competent authority for PNR information must be—
+>
+> (a) made only for a purpose described in regulation 6(3),
+>
+> (b) made in respect of a specific case, and
+>
+> (c) duly reasoned.
+
+**9** (1) Regulation 11 (requests for PNR data made by a UK competent authority) is amended as follows.
+
+(2) In the heading omit “to a non-UK competent authority”.
+
+(3) In paragraph (1)—
+
+(a) for “PNR data” substitute “ PNR information ”;
+
+(b) for “a non-UK competent authority” substitute “ an EU PIU or a third country competent authority ”;
+
+(c) omit “UK's”.
+
+(4) In paragraph (2)—
+
+(a) for “PNR data” substitute “ PNR information ”;
+
+(b) for “non-UK” substitute “ third country ”.
+
+**10** After regulation 11 insert—
+
+> **Transfers of PNR data to an EU PIU**
+>
+> **11A** (1) The PIU must transfer PNR information to an EU PIU in a specific case, as soon as possible, where—
+>
+> (a) the EU PIU has made a duly reasoned request for the PNR information, and
+>
+> (b) the PIU is satisfied that it is necessary to transfer that PNR information for the purpose described in regulation 6(3)(a).
+>
+> (2) The PIU must transfer analytical information containing PNR data to an EU PIU in a specific case, as soon as possible, where the PIU considers that it is necessary to transfer that analytical information for the purpose described in regulation 6(3)(a).
+>
+> **Transfers of PNR data to Europol and Eurojust**
+>
+> **11B** (1) The PIU must transfer PNR information to Europol or Eurojust in a specific case, as soon as possible, where—
+>
+> (a) Europol or Eurojust has made a duly reasoned request for the PNR information, and
+>
+> (b) the PIU is satisfied that it is necessary to transfer that PNR information for the purpose described in regulation 6(3)(a).
+>
+> (2) The PIU must transfer analytical information containing PNR data to Europol or Eurojust in a specific case, as soon as possible, where the PIU considers that it is necessary to transfer that analytical information for the purpose described in regulation 6(3)(a).
+
+**11** (1) Regulation 12 (transfers of PNR data to third country competent authorities) is amended as follows.
+
+(2) In the heading—
+
+(a) after “PNR” insert “ data ”;
+
+(b) for “non-UK” substitute “ third country ”.
+
+(3) For paragraph (1) substitute—
+
+> (1) Paragraphs (1A) to (2A) apply to PNR information that is not EU PNR information.
+>
+> (1A) The PIU must not transfer that PNR information to a third country competent authority except where it does so on a case by case basis where paragraph (2) or (2A) applies.
+
+(4) In paragraph (2)—
+
+(a) for “The first condition is that” substitute “ This paragraph applies where ”;
+
+(b) in sub-paragraph (b) for the words from “the prevention” to “crime” substitute “ a purpose described in regulation 6(3) ”;
+
+(c) for “the data” substitute “ the information ”;
+
+(d) in sub-paragraph (c) for “non-UK”, in both places it occurs, substitute “ third country ”.
+
+(5) In paragraph (2A)—
+
+(a) for “The second condition is that” substitute “ This paragraph applies where ”;
+
+(b) omit sub-paragraph (a);
+
+(c) for the words from “the prevention” to the end substitute “ a purpose described in regulation 6(3) ”.
+
+(6) After paragraph (2A) insert—
+
+> (2B) The PIU must not transfer EU PNR information to a third country competent authority except where it does so on a case by case basis where—
+>
+> (a) paragraph (2C) applies and the PIU is satisfied that it is necessary to transfer the EU PNR information for a purpose described in regulation 6(3), or
+>
+> (b) paragraph (2D) applies.
+>
+> (2C) This paragraph applies where—
+>
+> (a) there is an agreement in force between the third country and the EU that provides for a level of protection of personal data that is equivalent to the level of protection required under the Agreement, or
+>
+> (b) the European Commission has decided that the third country ensures an adequate level of protection of personal data, and that decision has not been repealed or suspended, or amended in a way that demonstrates that the Commission no longer considers there to be an adequate level of protection of personal data.
+>
+> (2D) This paragraph applies where—
+>
+> (a) the PIU considers that it is necessary to transfer the EU PNR information—
+>
+> (i) for the prevention or investigation of an immediate and serious threat to public security, or
+>
+> (ii) to protect the vital interests of persons, and
+>
+> (b) the third country competent authority provides a written confirmation to the PIU that the EU PNR information will be subject to a level of protection that is equivalent to the level of protection under these Regulations and the data protection legislation.
+>
+> (2E) Where the PIU transfers EU PNR information that it received from an EU PIU to a third country competent authority under this regulation, the PIU must notify that EU PIU as soon as possible.
+>
+> (2F) Where, under this regulation, the PIU transfers to a third country competent authority EU PNR data that originated in a member State, and was provided by an air carrier, the PIU must notify the EU PIU for that member State as soon as possible.
+
+(7) In paragraph (3)(a) for the words from “the purposes” to “case” substitute “ a purpose described in regulation 6(3) ”.
+
+(8) In paragraph (4)—
+
+(a) for “PNR data” substitute “ PNR information ”;
+
+(b) for “non-UK” substitute “ third country ”.
+
+**12** (1) Regulation 13 (period of data retention and depersonalisation) is amended as follows.
+
+(2) For paragraph (1) substitute—
+
+> (1) Paragraphs (1A) and (1B) apply to PNR data transferred to the PIU—
+>
+> (a) by air carriers pursuant to a requirement imposed under—
+>
+> (i) paragraph 27B(2) of Schedule 2 to the Immigration Act 1971, or
+>
+> (ii) section 32(2) of the Immigration, Asylum and Nationality Act 2006, or
+>
+> (b) by an EU PIU.
+
+(3) After paragraph (1) insert—
+
+> (1A) In the case of EU PNR data, the PIU must permanently delete the data before the end of the period of five years beginning with the date of the transfer, subject to regulation 13B if the data is restricted EU PNR data within the meaning of that regulation.
+>
+> (1B) In any other case, the PIU must—
+>
+> (a) retain the PNR data for a period of five years beginning with the date of the transfer, and
+>
+> (b) permanently delete that data upon expiry of that period.
+>
+> (1C) Paragraphs (1A) and (1B) do not affect the power of the PIU to retain PNR data where it is used in the context of specific cases for a purpose described in regulation 6(3).
+
+(4) In paragraph (2)—
+
+(a) after “air carrier” insert “ or an EU PIU ”;
+
+(b) in sub-paragraph (e) omit “and”;
+
+(c) after sub-paragraph (f) insert—
+
+> (g) Other Service Information (OSI), and
+>
+> (h) System Service Information (SSI) and System Service Request information (SSR).
+
+(5) In paragraph (3) for “passenger” substitute “ person ”.
+
+(6) After paragraph (3) insert—
+
+> (3A) The PIU must ensure that unmasked PNR data is only accessible by persons specifically authorised by the PIU to access such data and must limit the number of persons authorised to the minimum number practicable.
+
+(7) In paragraph (4)(a) for “the purpose referred to in regulation 6(3)(b)” substitute “ a purpose described in regulation 6(3) ”.
+
+(8) In paragraph (6) for “upon expiry of the period referred to in paragraph (1)” substitute “ when that data is no longer required in the context of the specific case for which it was transferred to the UK competent authority ”.
+
+(9) Omit paragraphs (7) to (10).
+
+**13** After regulation 13 insert—
+
+> **Use and transfer of EU PNR data by the PIU: further provision**
+>
+> **13A** (1) The PIU may not use or transfer EU PNR data unless paragraph (2), (3), (4) or (5) applies.
+>
+> (2) This paragraph applies where the PIU processes the EU PNR data for the purposes of security and border control checks.
+>
+> (3) This paragraph applies if the designated independent authority has given consent for the use or transfer of the EU PNR data.
+>
+> (4) This paragraph applies if the PIU considers that the use or transfer of the EU PNR data is necessary in an urgent case.
+>
+> (5) This paragraph applies if the PIU considers that the use of the EU PNR data is necessary for the purpose of developing, or verifying the accuracy of, the pre-determined criteria referred to in regulation 6(5).
+>
+> (6) Where the PIU—
+>
+> (a) uses EU PNR data as mentioned in paragraph (3) or (4), or
+>
+> (b) transfers EU PNR data to an EU PIU, Europol, Eurojust or a third country competent authority,
+>
+> the PIU must notify the person to whom the data relates, so far as it is reasonably practicable to do so.
+>
+> (7) Where the PIU transfers EU PNR data to a UK competent authority, the UK competent authority must notify the person to whom the data relates, so far as it is reasonably practicable to do so.
+>
+> (8) A notification under paragraph (6) or (7) must—
+>
+> (a) be in writing,
+>
+> (b) be made within a reasonable period, and
+>
+> (c) provide information about the procedures available for seeking redress of any grievance relating to the use or transfer.
+>
+> (9) A notification need not be made under paragraph (6) or (7) during any period when the PIU or the UK competent authority (as the case may be) considers that notifying the person would, or would be likely to, prejudice any ongoing investigations.
+>
+> (10) Nothing in paragraphs (2) to (5) affects the operation of regulation 6(2).
+
+**14** Before regulation 14 insert—
+
+> **Restricted EU PNR data: further provision**
+>
+> **13B** (1) For the purposes of this regulation, EU PNR data is “restricted EU PNR data” if it relates to a person arriving in the United Kingdom who—
+>
+> (a) is not a UK national, and
+>
+> (b) resides outside the United Kingdom.
+>
+> (2) For the purposes of this regulation, restricted EU PNR data relating to a person is subject to deletion if—
+>
+> (a) the PIU, acting as such, knows that the person has left the United Kingdom, or
+>
+> (b) the period for which the person is permitted to stay in the United Kingdom has expired.
+>
+> (3) But restricted EU PNR data is not subject to deletion—
+>
+> (a) if, on the basis of a risk assessment based on objectively established criteria, the PIU considers that retention of the restricted EU PNR data is necessary for the purpose described in regulation 6(3)(a), or
+>
+> (b) where the restricted EU PNR data is used in the context of specific cases for a purpose described in regulation 6(3).
+>
+> (4) The PIU must permanently delete restricted EU PNR data that is subject to deletion as soon as possible.
+>
+> (5) The PIU must ensure that the operation of paragraph (3)(a) is reviewed annually by the designated independent authority.
+>
+> (6) In this regulation, “UK national” means—
+>
+> (a) a British citizen,
+>
+> (b) a person who is a British subject by virtue of Part 4 of the British Nationality Act 1981 and who has a right of abode in the United Kingdom, or
+>
+> (c) a person who is a British overseas territories citizen by virtue of a connection to Gibraltar.
+
+**15** (1) Regulation 14 (protection of personal data) is amended as follows.
+
+(2) After paragraph (1) insert—
+
+> (1A) The PIU must permanently delete any PNR data referred to in paragraph (1).
+
+(3) In paragraph (3)(c) for “non-UK competent authorities” substitute “ EU PIUs, Europol or Eurojust ”.
+
+**16** (1) Regulation 16 (application of other data protection enactments) is amended as follows.
+
+(2) In paragraph (2)—
+
+(a) after “purposes of” insert
+
+> —
+>
+> (a)
+
+;
+
+(b) at the end insert
+
+> , or
+>
+> (b) the protection of the public against threats to public health.
+
+### PART 2 — Interim period: modifications for restricted EU PNR data that is subject to deletion
+
+**17** (1) Until the commencement of paragraph 14, the PNR regulations have effect—
+
+(a) as if the regulation 13AA set out in sub-paragraph (2) were inserted before regulation 14, and
+
+(b) with the modifications set out in sub-paragraphs (3) to (5).
+
+(2) The regulation is—
+
+> **Retention and deletion of EU PNR data by the PIU: interim period**
+>
+> **13AA** (1) For the purposes of this regulation, EU PNR data is “restricted EU PNR data” if it relates to a person arriving in the United Kingdom who—
+>
+> (a) is not a UK national, and
+>
+> (b) resides outside the United Kingdom.
+>
+> (2) For the purposes of this regulation, restricted EU PNR data relating to a person is subject to deletion if—
+>
+> (a) the PIU, acting as such, knows that the person has left the United Kingdom, or
+>
+> (b) the period for which the person is permitted to stay in the United Kingdom has expired.
+>
+> (3) But restricted EU PNR data is not subject to deletion—
+>
+> (a) if, on the basis of a risk assessment based on objectively established criteria, the PIU considers that retention of the restricted EU PNR data is necessary for the purpose described in regulation 6(3)(a), or
+>
+> (b) where the restricted EU PNR data is used in the context of specific cases for a purpose described in regulation 6(3).
+>
+> (4) The PIU must secure that restricted EU PNR data that is subject to deletion—
+>
+> (a) is accessible only by authorised persons, and
+>
+> (b) is accessed by them only for the purpose of determining whether it is subject to deletion.
+>
+> (5) Where restricted EU PNR data is subject to deletion—
+>
+> (a) the PIU must permanently delete it as soon as possible, using best efforts, taking into account the special circumstances referred to in [[^F23]Article 552(10)] of the Agreement, and
+>
+> (b) an authorised person must record the date and time of deletion.
+>
+> (6) Paragraphs (7) to (9) apply where the PIU receives a request for restricted EU PNR data.
+>
+> (7) If the record mentioned in paragraph (9)(b)(iii) indicates that a previous request relating to that data has been refused under paragraph (9)(a), the PIU must refuse the request as a result of that record (and without further accessing the data).
+>
+> (8) In any other case, the PIU must refuse the request unless an authorised person has—
+>
+> (a) made a determination as to whether the data is subject to deletion, and
+>
+> (b) as a result has determined that it is not subject to deletion.
+>
+> (9) If the authorised person determines under paragraph (8)(a) that the restricted EU PNR data is subject to deletion, the PIU must—
+>
+> (a) refuse the request, and
+>
+> (b) record—
+>
+> (i) the request;
+>
+> (ii) the date and time that the restricted EU PNR data was accessed under paragraph (8)(a);
+>
+> (iii) that the request was refused on the ground that the restricted EU PNR data was subject to deletion;
+>
+> (iv) the date and time of the refusal.
+>
+> (10) In this regulation, “authorised person” means a person specifically authorised by the PIU to access restricted EU PNR data.
+>
+> (11) The PIU must limit the number of authorised persons to the minimum number practicable.
+>
+> (12) In this regulation, “UK national” means—
+>
+> (a) a British citizen,
+>
+> (b) a person who is a British subject by virtue of Part 4 of the British Nationality Act 1981 and who has a right of abode in the United Kingdom, or
+>
+> (c) a person who is a British overseas territories citizen by virtue of a connection to Gibraltar.
+>
+> (13) Nothing in this regulation is to be taken to affect the generality of regulation 14.
+
+(3) Regulation 4A has effect as if—
+
+(a) in paragraphs (5) and (6) the references to the functions of the designated independent authority under the PNR regulations included references to that authority's functions under [[^F24]Article 552(12)] of the Agreement, and
+
+(b) paragraph (5) also required the PIU to make the records mentioned in regulation 13AA(5)(b) and (9)(b) available to the designated independent authority for the purposes of the authority's functions under that provision of the Agreement.
+
+For this purpose, “the Agreement”, “designated independent authority” and “the PIU” have the same meanings as in the PNR regulations.
+
+(4) Regulations 11A and 11B each have effect as if the following were inserted at the end—
+
+> (3) This regulation does not apply to restricted EU PNR data that is subject to deletion (within the meaning of regulation 13AA), or to the results of processing that data or analytical information containing that data.
+
+(5) Regulation 13(1A) has effect as if the reference to regulation 13B were a reference to regulation 13AA.
+
+### PART 3 — Sea and rail travel: power to modify PNR regulations etc.
+
+**18** (1) This paragraph applies if an agreement (a “new agreement”) is made between the United Kingdom and the EU or one or more member States which (whether with or without variation)—
+
+(a) applies the provisions of Title III of Part 3 of the Trade and Cooperation Agreement to sea or rail travel as they apply to air travel, or
+
+(b) makes provision about sea or rail travel corresponding to those provisions of that Agreement.
+
+(2) The Secretary of State may by regulations make such provision as the Secretary of State considers appropriate—
+
+(a) to implement the new agreement, or
+
+(b) otherwise for the purposes of dealing with matters arising out of, or related to, the new agreement.
+
+(3) Regulations under sub-paragraph (2) may modify the PNR regulations (as they have effect for the time being).
+
+(4) Paragraph 15 of Schedule 8 to the European Union (Withdrawal) Act 2018 (explanatory statements for instruments amending or revoking regulations etc. under section 2(2) of the European Communities Act 1972) does not apply in relation to any modification by virtue of sub-paragraph (3).
+
+## SCHEDULE 3 — Mutual assistance in criminal matters
+
+*Section 9*
+
+### Introductory
+
+**1** In this Schedule “the 2003 Act” means the Crime (International Co-operation) Act 2003.
+
+### Application of the 2003 Act to member States
+
+**2** (1) The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742) are amended as follows.
+
+(2) In regulation 87 (which amends the 2003 Act)—
+
+(a) omit paragraphs (2) and (4) to (11);
+
+(b) in paragraph (13)(a), omit paragraphs (ii) to (iv).
+
+(3) In consequence of the provision made by sub-paragraph (2)—
+
+(a) in regulation 79, omit paragraph (2);
+
+(b) in regulation 89, omit paragraph (2)(b);
+
+(c) in regulation 91(2), omit sub-paragraphs (b) to (f);
+
+(d) omit regulation 96.
+
+(4) In regulation 88(2), in the inserted article 3, omit the words from “for the purposes of” to the end.
+
+(5) In regulation 90(2), in the inserted article 2, omit the words from “for the purposes of” to the end.
+
+(6) In regulation 97—
+
+(a) in paragraph (1)—
+
+(i) for “regulation 87(11) (amendment of the 2003 Act)” substitute “ regulations 89, 91, 94 and 95 ”,
+
+(ii) after “received” insert “ from a relevant country ”, and
+
+(iii) at the end insert “ as if the relevant country continued to be a participating country within the meaning of the 2003 Act. ”;
+
+(b) in paragraphs (2) to (4)—
+
+(i) for “regulation 87(11)” substitute “ regulations 89, 91, 94 and 95 ”,
+
+(ii) after “received” insert “ from a relevant country ”, and
+
+(iii) at the end insert “ as if the relevant country continued to be a participating country within the meaning of the 2003 Act. ”;
+
+(c) for paragraph (5) substitute—
+
+> (5) In this regulation “relevant country” means Iceland, Switzerland or Japan.
+
+### Customer information orders in relation to safe deposit boxes
+
+**3** (1) In Part 1 of the 2003 Act, Chapter 4 (information about banking transactions) is amended as follows.
+
+(2) In section 32 (customer information: England and Wales and Northern Ireland), for subsection (6) substitute—
+
+> (6) Section 364 of the Proceeds of Crime Act 2002 (meaning of customer information) has effect for the purposes of this section as if—
+>
+> (a) this section were included in Chapter 2 of Part 8 of that Act,
+>
+> (b) subsections (2)(f) and (3)(i) of that section were omitted, and
+>
+> (c) the amendments of that section made in relation to Northern Ireland by Article 14 of the Criminal Justice (Northern Ireland) Order 2005 (S.I. 2005/1965 (N.I. 15)) (which provide that “customer information” includes information in relation to safe deposit boxes) also extended to England and Wales.
+
+(3) In section 37 (customer information: Scotland), for subsection (6) substitute—
+
+> (6) Section 398 of the Proceeds of Crime Act 2002 (meaning of customer information) has effect for the purposes of this section as if—
+>
+> (a) this section were included in Chapter 3 of Part 8 of that Act;
+>
+> (b) in subsection (1), after “accounts” there were inserted “ or any safe deposit box ”;
+>
+> (c) in subsection (2)—
+>
+> (i) in paragraph (a), after “numbers” there were inserted “ or the number of any safe deposit box ”;
+>
+> (ii) in paragraph (e), at the beginning there were inserted “in the case of an account or accounts,”;
+>
+> (iii) after that paragraph there were inserted—
+>
+> > (ee) in the case of any safe deposit box, the date on which the box was made available to him and if the box has ceased to be available to him the date on which it so ceased;
+>
+> ;
+>
+> (iv) paragraph (f) were omitted;
+>
+> (d) in subsection (3)—
+>
+> (i) in paragraph (a), after “numbers” there were inserted “ or the number of any safe deposit box ”;
+>
+> (ii) in paragraph (h), at the beginning there were inserted “in the case of an account or accounts,”;
+>
+> (iii) after that paragraph there were inserted—
+>
+> > (hh) in the case of any safe deposit box, the date on which the box was made available to it and if the box has ceased to be available to it the date on which it so ceased;
+>
+> ;
+>
+> (iv) paragraph (i) were omitted;
+>
+> (e) after subsection (5) there were inserted—
+>
+> > (6) A “safe deposit box” includes any procedure under which a financial institution provides a facility to hold items for safe keeping on behalf of another person.
+
+(4) The amendments made by this paragraph apply in relation to requests received by the Secretary of State or (as the case may be) the Lord Advocate after the coming into force of this paragraph.
+
+**4** (1) In Part 2 of the Proceeds of Crime Act 2002 (External Investigations) Order 2013 (S.I. 2013/2605), article 57 (meaning of customer information) is amended as follows.
+
+(2) In paragraph (1), after “accounts” insert “ or any safe deposit box ”.
+
+(3) In paragraph (2)—
+
+(a) in sub-paragraph (a), after “numbers” insert “ or the number of any safe deposit box ”;
+
+(b) in sub-paragraph (e), at the beginning insert “ in the case of an account or accounts, ”;
+
+(c) after that sub-paragraph insert—
+
+> (ea) in the case of any safe deposit box, the date on which the box was made available to them and if the box has ceased to be available to them the date on which it so ceased,
+
+.
+
+(4) In paragraph (3)—
+
+(a) in sub-paragraph (a), after “numbers” insert “ or the number of any safe deposit box ”;
+
+(b) in sub-paragraph (h), at the beginning insert “ in the case of an account or accounts, ”;
+
+(c) after that sub-paragraph insert—
+
+> (ha) in the case of any safe deposit box, the date on which the box was made available to it and if the box has ceased to be available to it the date on which it so ceased,
+
+.
+
+(5) After paragraph (4) insert—
+
+> (5) A “safe deposit box” includes any procedure under which a financial institution provides a facility to hold items for safe keeping on behalf of another person.
+
+(6) The amendments made by this paragraph apply in relation to requests received by the Secretary of State after the coming into force of this paragraph.
+
+**5** (1) In Part 4 of the Proceeds of Crime Act 2002 (External Investigations) (Scotland) Order 2015 (S.I. 2015/206) (customer information orders), article 23 (meaning of customer information) is amended as follows.
+
+(2) In paragraph (1), after “accounts” insert “ or any safe deposit box ”.
+
+(3) In paragraph (2)—
+
+(a) in sub-paragraph (a), after “numbers” insert “ or the number of any safe deposit box ”;
+
+(b) in sub-paragraph (e), at the beginning insert “ in the case of an account or accounts, ”;
+
+(c) after that sub-paragraph insert—
+
+> (ea) in the case of any safe deposit box, the date on which the box was made available to them and if the box has ceased to be available to them the date on which it so ceased;
+
+.
+
+(4) In paragraph (3)—
+
+(a) in sub-paragraph (a), after “numbers” insert “ or the number of any safe deposit box ”;
+
+(b) in sub-paragraph (h), at the beginning insert “ in the case of an account or accounts, ”;
+
+(c) after that sub-paragraph insert—
+
+> (ha) in the case of any safe deposit box, the date on which the box was made available to it and if the box has ceased to be available to it the date on which it so ceased;
+
+.
+
+(5) After paragraph (4) insert—
+
+> (5) A “safe deposit box” includes any procedure under which a financial institution provides a facility to hold items for safe keeping on behalf of another person.
+
+(6) The amendments made by this paragraph apply in relation to requests received by the Secretary of State after the coming into force of this paragraph.
+
+### Miscellaneous
+
+**6** In section 42 of the 2003 Act (information about banking transactions: offence of disclosure), in subsection (1)(b), omit the words from “in reliance on” to the end.
+
+**7** In section 51(1) of the 2003 Act (general interpretation), in the definition of “administrative proceedings”, for “the Mutual Legal Assistance Convention” substitute “ the European Convention on Mutual Assistance in Criminal Matters of 20 April 1959 ”.
+
+## SCHEDULE 4 — Technical barriers to trade: use of relevant international standards
+
+*Section 19*
+
+### Amendments of subordinate legislation
+
+**1** In the Medical Devices Regulations 2002 (S.I. 2002/618), in regulation 3A (designated standard) (inserted by regulation 3(6) of the Medical Devices (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/791))—
+
+(a) in paragraph (1)(a)(i), after “body” insert “ or an international standardising body ”;
+
+(b) after paragraph (3) insert—
+
+> (3A) In this regulation “international standardising body” has the same meaning as it has for the purposes of the Agreement on Technical Barriers to Trade, part of Annex 1A to the agreement establishing the World Trade Organisation signed at Marrakesh on 15 April 1994 (as modified from time to time).
+
+;
+
+(c) in paragraph (5)—
+
+(i) after “with” insert “ such ”;
+
+(ii) at the end insert “ or by international standardising bodies as the Secretary of State considers to be relevant. ”
+
+**2** In the General Product Safety Regulations 2005 (S.I. 2005/1803), in regulation 6 (presumption of conformity)—
+
+(a) in paragraph (2), for the words from “voluntary” to “the product” substitute
+
+> standard (“S”) which—
+>
+> (a) is a voluntary national standard of the United Kingdom or a standard adopted by an international standardising body, and
+>
+> (b) meets the conditions in paragraph (2A),
+>
+> the product
+
+;
+
+(b) after paragraph (4) insert—
+
+> (5) In this regulation “international standardising body” has the same meaning as it has for the purposes of the Agreement on Technical Barriers to Trade, part of Annex 1A to the agreement establishing the World Trade Organisation signed at Marrakesh on 15 April 1994 (as modified from time to time).
+
+**3** In the Supply of Machinery (Safety) Regulations 2008 (S.I. 2008/1597), in regulation 2A (designated standard) (inserted by paragraph 3 of Schedule 12 to the Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696))—
+
+(a) in paragraph (1)(a), after “body” insert “ or an international standardising body ”;
+
+(b) after paragraph (3) insert—
+
+> (3A) In this regulation “international standardising body” has the same meaning as it has for the purposes of the Agreement on Technical Barriers to Trade, part of Annex 1A to the agreement establishing the World Trade Organisation signed at Marrakesh on 15 April 1994 (as modified from time to time).
+
+;
+
+(c) in paragraph (5)—
+
+(i) after “with” insert “ such ”;
+
+(ii) at the end insert “ or by international standardising bodies as the Secretary of State considers to be relevant. ”
+
+**4** In the Ecodesign for Energy-Related Products Regulations 2010 (S.I. 2010/2617), in regulation 2A (designated standards) (inserted by paragraph 3 of Schedule 1 to the Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/539))—
+
+(a) in paragraph (1)(a), after “body” insert “ or an international standardising body ”;
+
+(b) after paragraph (3) insert—
+
+> (3A) In this regulation “international standardising body” has the same meaning as it has for the purposes of the Agreement on Technical Barriers to Trade, part of Annex 1A to the agreement establishing the World Trade Organisation signed at Marrakesh on 15 April 1994 (as modified from time to time).
+
+;
+
+(c) in paragraph (5)—
+
+(i) after “with” insert “ such ”;
+
+(ii) at the end insert “ or by international standardising bodies as the Secretary of State considers to be relevant. ”
+
+**5** In the Toys (Safety) Regulations 2011 (S.I. 2011/1881), in regulation 3A (designated standard) (inserted by paragraph 5 of Schedule 15 to the Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696))—
+
+(a) in paragraph (1)(a), after “body” insert “ or an international standardising body ”;
+
+(b) after paragraph (3) insert—
+
+> (3A) In this regulation “international standardising body” has the same meaning as it has for the purposes of the Agreement on Technical Barriers to Trade, part of Annex 1A to the agreement establishing the World Trade Organisation signed at Marrakesh on 15 April 1994 (as modified from time to time).
+
+;
+
+(c) in paragraph (5)—
+
+(i) after “with” insert “ such ”;
+
+(ii) at the end insert “ or by international standardising bodies as the Secretary of State considers to be relevant. ”
+
+**6** In the Restriction of the Use of Certain Hazardous Substances in Electrical and Electronic Equipment Regulations 2012 (S.I. 2012/3032), in regulation 2A (interpretation: designated standard) (inserted by regulation 18(3) of the Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188))—
+
+(a) in paragraph (1)(a), after “body” insert “ or an international standardising body ”;
+
+(b) in paragraph (3)—
+
+(i) after “with” insert “ such ”;
+
+(ii) at the end insert “ or by international standardising bodies as the Secretary of State considers to be relevant. ”;
+
+(c) for paragraph (7) substitute—
+
+> (7) In this regulation—
+>
+> (a) “international standardising body” has the same meaning as it has for the purposes of the Agreement on Technical Barriers to Trade, part of Annex 1A to the agreement establishing the World Trade Organisation signed at Marrakesh on 15 April 1994 (as modified from time to time);
+>
+> (b) a “recognised standardisation body” means any one of the following—
+>
+> (i) the European Committee for Standardisation (CEN);
+>
+> (ii) the European Committee for Electrotechnical Standardisation (Cenelec);
+>
+> (iii) the European Telecommunications Standards Institute (ETSI);
+>
+> (iv) the British Standards Institution (BSI).
+
+**7** In the Explosives Regulations 2014 (S.I. 2014/1638), in regulation 2A (interpretation: designated standard) (inserted by paragraph 3 of Schedule 16 to the Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696))—
+
+(a) in paragraph (1)(a), after “body” insert “ or an international standardising body ”;
+
+(b) after paragraph (3) insert—
+
+> (3A) In this regulation “international standardising body” has the same meaning as it has for the purposes of the Agreement on Technical Barriers to Trade, part of Annex 1A to the agreement establishing the World Trade Organisation signed at Marrakesh on 15 April 1994 (as modified from time to time).
+
+;
+
+(c) in paragraph (5)—
+
+(i) after “with” insert “ such ”;
+
+(ii) at the end insert “ or by international standardising bodies as the Secretary of State considers to be relevant. ”
+
+**8** In the Pyrotechnic Articles (Safety) Regulations 2015 (S.I. 2015/1553), in regulation 2A (interpretation: designated standard) (inserted by paragraph 3 of Schedule 19 to the Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696))—
+
+(a) in paragraph (1)(a), after “body” insert “ or an international standardising body ”;
+
+(b) after paragraph (3) insert—
+
+> (3A) In this regulation “international standardising body” has the same meaning as it has for the purposes of the Agreement on Technical Barriers to Trade, part of Annex 1A to the agreement establishing the World Trade Organisation signed at Marrakesh on 15 April 1994 (as modified from time to time).
+
+;
+
+(c) in paragraph (5)—
+
+(i) after “with” insert “ such ”;
+
+(ii) at the end insert “ or by international standardising bodies as the Secretary of State considers to be relevant. ”
+
+**9** In the Electromagnetic Compatibility Regulations 2016 (S.I. 2016/1091), in regulation 2A (designated standard) (inserted by paragraph 3 of Schedule 20 to the Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696))—
+
+(a) in paragraph (1)(a), after “body” insert “ or an international standardising body ”;
+
+(b) after paragraph (3) insert—
+
+> (3A) In this regulation “international standardising body” has the same meaning as it has for the purposes of the Agreement on Technical Barriers to Trade, part of Annex 1A to the agreement establishing the World Trade Organisation signed at Marrakesh on 15 April 1994 (as modified from time to time).
+
+;
+
+(c) in paragraph (5)—
+
+(i) after “with” insert “ such ”;
+
+(ii) at the end insert “ or by international standardising bodies as the Secretary of State considers to be relevant. ”
+
+**10** In the Simple Pressure Vessels (Safety) Regulations 2016 (S.I. 2016/1092), in regulation 2A (designated standard) (inserted by paragraph 3 of Schedule 21 to the Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696))—
+
+(a) in paragraph (1)(a), after “body” insert “ or an international standardising body ”;
+
+(b) after paragraph (3) insert—
+
+> (3A) In this regulation “international standardising body” has the same meaning as it has for the purposes of the Agreement on Technical Barriers to Trade, part of Annex 1A to the agreement establishing the World Trade Organisation signed at Marrakesh on 15 April 1994 (as modified from time to time).
+
+;
+
+(c) in paragraph (5)—
+
+(i) after “with” insert “ such ”;
+
+(ii) at the end insert “ or by international standardising bodies as the Secretary of State considers to be relevant. ”
+
+**11** In the Lifts Regulations 2016 (S.I. 2016/1093), in regulation 2A (designated standard) (inserted by paragraph 3 of Schedule 22 to the Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696))—
+
+(a) in paragraph (1)(a), after “body” insert “ or an international standardising body ”;
+
+(b) after paragraph (3) insert—
+
+> (3A) In this regulation “international standardising body” has the same meaning as it has for the purposes of the Agreement on Technical Barriers to Trade, part of Annex 1A to the agreement establishing the World Trade Organisation signed at Marrakesh on 15 April 1994 (as modified from time to time).
+
+;
+
+(c) in paragraph (5)—
+
+(i) after “with” insert “ such ”;
+
+(ii) at the end insert “ or by international standardising bodies as the Secretary of State considers to be relevant. ”
+
+**12** In the Electrical Equipment (Safety) Regulations 2016 (S.I. 2016/1101), in regulation 2A (designated standard) (inserted by paragraph 3 of Schedule 23 to the Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696))—
+
+(a) in paragraph (1)(a), after “body” insert “ or an international standardising body ”;
+
+(b) after paragraph (3) insert—
+
+> (3A) In this regulation “international standardising body” has the same meaning as it has for the purposes of the Agreement on Technical Barriers to Trade, part of Annex 1A to the agreement establishing the World Trade Organisation signed at Marrakesh on 15 April 1994 (as modified from time to time).
+
+;
+
+(c) in paragraph (5)—
+
+(i) after “with” insert “ such ”;
+
+(ii) at the end insert “ or by international standardising bodies as the Secretary of State considers to be relevant. ”
+
+**13** In the Pressure Equipment (Safety) Regulations 2016 (S.I. 2016/1105), in regulation 2A (designated standard) (inserted by paragraph 3 of Schedule 24 to the Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696))—
+
+(a) in paragraph (1)(a), after “body” insert “ or an international standardising body ”;
+
+(b) after paragraph (3) insert—
+
+> (3A) In this regulation “international standardising body” has the same meaning as it has for the purposes of the Agreement on Technical Barriers to Trade, part of Annex 1A to the agreement establishing the World Trade Organisation signed at Marrakesh on 15 April 1994 (as modified from time to time).
+
+;
+
+(c) in paragraph (5)—
+
+(i) after “with” insert “ such ”;
+
+(ii) at the end insert “ or by international standardising bodies as the Secretary of State considers to be relevant. ”
+
+**14** In the Equipment and Protective Systems Intended for Use in Potentially Explosive Atmospheres Regulations 2016 (S.I. 2016/1107), in regulation 2A (designated standard) (inserted by paragraph 3 of Schedule 25 to the Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696))—
+
+(a) in paragraph (1)(a), after “body” insert “ or an international standardising body ”;
+
+(b) after paragraph (3) insert—
+
+> (3A) In this regulation “international standardising body” has the same meaning as it has for the purposes of the Agreement on Technical Barriers to Trade, part of Annex 1A to the agreement establishing the World Trade Organisation signed at Marrakesh on 15 April 1994 (as modified from time to time).
+
+;
+
+(c) in paragraph (5)—
+
+(i) after “with” insert “ such ”;
+
+(ii) at the end insert “ or by international standardising bodies as the Secretary of State considers to be relevant. ”
+
+**15** In the Non-automatic Weighing Instruments Regulations 2016 (S.I. 2016/1152), in regulation 2A (designated standard) (inserted by paragraph 3 of Schedule 26 to the Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696))—
+
+(a) in paragraph (1)(a), after “body” insert “ or an international standardising body ”;
+
+(b) after paragraph (3) insert—
+
+> (3A) In this regulation “international standardising body” has the same meaning as it has for the purposes of the Agreement on Technical Barriers to Trade, part of Annex 1A to the agreement establishing the World Trade Organisation signed at Marrakesh on 15 April 1994 (as modified from time to time).
+
+;
+
+(c) in paragraph (5)—
+
+(i) after “with” insert “ such ”;
+
+(ii) at the end insert “ or by international standardising bodies as the Secretary of State considers to be relevant. ”
+
+**16** In the Measuring Instruments Regulations 2016 (S.I. 2016/1153), in regulation 2A (designated standard) (inserted by paragraph 3 of Schedule 27 to the Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696))—
+
+(a) in paragraph (1)(a), after “body” insert “ or an international standardising body ”;
+
+(b) after paragraph (3) insert—
+
+> (3A) In this regulation “international standardising body” has the same meaning as it has for the purposes of the Agreement on Technical Barriers to Trade, part of Annex 1A to the agreement establishing the World Trade Organisation signed at Marrakesh on 15 April 1994 (as modified from time to time).
+
+;
+
+(c) in paragraph (5)—
+
+(i) after “with” insert “ such ”;
+
+(ii) at the end insert “ or by international standardising bodies as the Secretary of State considers to be relevant. ”
+
+**17** In the Recreational Craft Regulations 2017 (S.I. 2017/737), in regulation 2A (designated standard) (inserted by paragraph 3 of Schedule 28 to the Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696))—
+
+(a) in paragraph (1)(a), after “body” insert “ or an international standardising body ”;
+
+(b) after paragraph (3) insert—
+
+> (3A) In this regulation “international standardising body” has the same meaning as it has for the purposes of the Agreement on Technical Barriers to Trade, part of Annex 1A to the agreement establishing the World Trade Organisation signed at Marrakesh on 15 April 1994 (as modified from time to time).
+
+;
+
+(c) in paragraph (5)—
+
+(i) after “with” insert “ such ”;
+
+(ii) at the end insert “ or by international standardising bodies as the Secretary of State considers to be relevant. ”
+
+**18** In the Radio Equipment Regulations 2017 (S.I. 2017/1206), in regulation 2A (designated standard) (inserted by paragraph 3 of Schedule 29 to the Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696))—
+
+(a) in paragraph (1)(a), after “body” insert “ or an international standardising body ”;
+
+(b) after paragraph (3) insert—
+
+> (3A) In this regulation “international standardising body” has the same meaning as it has for the purposes of the Agreement on Technical Barriers to Trade, part of Annex 1A to the agreement establishing the World Trade Organisation signed at Marrakesh on 15 April 1994 (as modified from time to time).
+
+;
+
+(c) in paragraph (5)—
+
+(i) after “with” insert “ such ”;
+
+(ii) at the end insert “ or by international standardising bodies as the Secretary of State considers to be relevant. ”
+
+### Amendments of retained direct EU legislation
+
+**19** In Regulation (EC) No 1223/2009 of the European Parliament and of the Council of 30 November 2009 on cosmetic products (recast), in Article 2(3) (designated standard) (substituted by paragraph 3(i) of Schedule 34 to the Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696))—
+
+(a) in subparagraph (1)(a), after “body” insert “ or an international standardising body ”;
+
+(b) after subparagraph (3) insert—
+
+> (3A) In this paragraph “international standardising body” has the same meaning as it has for the purposes of the Agreement on Technical Barriers to Trade, part of Annex 1A to the agreement establishing the World Trade Organisation signed at Marrakesh on 15 April 1994 (as modified from time to time).
+
+;
+
+(c) in subparagraph (5)—
+
+(i) after “with” insert “ such ”;
+
+(ii) at the end insert “ or by international standardising bodies as the Secretary of State considers to be relevant. ”
+
+**20** In Regulation (EU) No 305/2011 of the European Parliament and of the Council of 9 March 2011 laying down harmonised conditions for the marketing of construction products and repealing Council Directive 89/106/EEC, in Article 18B (designated standards) (inserted by paragraph 19 of Schedule 1 to the Construction Products (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/465))—
+
+(a) in paragraph 1(a), after “body” insert “ or adopted by an international standardising body ”;
+
+(b) in paragraph 3, for “international standards” substitute “ , or any other, standards adopted by international standardising bodies ”;
+
+(c) after paragraph 9 insert—
+
+> **10** In this Article “international standardising body” has the same meaning as it has for the purposes of the Agreement on Technical Barriers to Trade, part of Annex 1A to the agreement establishing the World Trade Organisation signed at Marrakesh on 15 April 1994 (as modified from time to time).
+
+**21** In the Commission Implementing Regulation (EU) No 402/2013 of 30 April 2013 on the common safety method for risk evaluation and assessment and repealing Regulation (EC) No 352/2009, in Article 3A (designated standards) (inserted by regulation 16(5) of the Rail Safety (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/837))—
+
+(a) in paragraph 1(a), after “body” insert “ or an international standardising body ”;
+
+(b) after paragraph 3 insert—
+
+> **3A** In this Article “international standardising body” has the same meaning as it has for the purposes of the Agreement on Technical Barriers to Trade, part of Annex 1A to the agreement establishing the World Trade Organisation signed at Marrakesh on 15 April 1994 (as modified from time to time).
+
+;
+
+(c) in paragraph 5—
+
+(i) after “with” insert “ such ”;
+
+(ii) at the end insert “ or by international standardising bodies as the Secretary of State considers to be relevant. ”
+
+**22** In Regulation (EU) 2016/424 of the European Parliament and of the Council of 9 March 2016 on cableway installations and repealing Directive 2000/9/EC, in Article 3A (designated standards) (inserted by regulation 15 of the Cableway Installations (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1347))—
+
+(a) in paragraph 1(a), after “Institution” insert “ or an international standardising body ”;
+
+(b) after paragraph 2 insert—
+
+> **2A** Before publishing the reference number of a technical standard adopted by the British Standards Institution, the Secretary of State must have regard to whether the technical standard is consistent with any standards adopted by international standardising bodies which the Secretary of State considers to be relevant.
+
+;
+
+(c) after paragraph 5 insert—
+
+> **6** In this Article “international standardising body” has the same meaning as it has for the purposes of the Agreement on Technical Barriers to Trade, part of Annex 1A to the agreement establishing the World Trade Organisation signed at Marrakesh on 15 April 1994 (as modified from time to time).
+
+**23** In Regulation (EU) 2016/425 of the European Parliament and of the Council of 9 March 2016 on personal protective equipment and repealing Council Directive 89/686/EEC, in Article 7A (designated standard) (inserted by paragraph 3(7) of Schedule 35 to the Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696))—
+
+(a) in paragraph 1(a), after “body” insert “ or an international standardising body ”;
+
+(b) after paragraph 3 insert—
+
+> **3A** In this Article “international standardising body” has the same meaning as it has for the purposes of the Agreement on Technical Barriers to Trade, part of Annex 1A to the agreement establishing the World Trade Organisation signed at Marrakesh on 15 April 1994 (as modified from time to time).
+
+;
+
+(c) in paragraph 5—
+
+(i) after “with” insert “ such ”;
+
+(ii) at the end insert “ or by international standardising bodies as the Secretary of State considers to be relevant. ”
+
+**24** In Regulation (EU) 2016/426 of the European Parliament and of the Council of 9 March 2016 on appliances burning gaseous fuels and repealing Directive 2009/142/EC, in Article 6A (designated standard) (inserted by paragraph 2(7) of Schedule 36 to the Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696))—
+
+(a) in paragraph 1(a), after “body” insert “ or an international standardising body ”;
+
+(b) after paragraph 3 insert—
+
+> **3A** In this Article “international standardising body” has the same meaning as it has for the purposes of the Agreement on Technical Barriers to Trade, part of Annex 1A to the agreement establishing the World Trade Organisation signed at Marrakesh on 15 April 1994 (as modified from time to time).
+
+;
+
+(c) in paragraph 5—
+
+(i) after “with” insert “ such ”;
+
+(ii) at the end insert “ or by international standardising bodies as the Secretary of State considers to be relevant. ”
+
+## SCHEDULE 5 — Regulations under this Act
+
+*Section 38*
+
+### PART 1 — Procedure
+
+#### Criminal records
+
+**1** (1) A statutory instrument containing regulations under section 6(3) of the Secretary of State is subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(2) Regulations under section 6(3) of the Scottish Ministers are subject to the negative procedure (see section 28 of the Interpretation and Legislative Reform (Scotland) Act 2010 (asp 10)).
+
+(3) Regulations under section 6(3) of the Department of Justice in Northern Ireland are subject to negative resolution within the meaning of section 41(6) of the Interpretation Act (Northern Ireland) 1954 as if they were a statutory instrument within the meaning of that Act.
+
+#### Passenger name record data
+
+**2** A statutory instrument containing regulations under paragraph 18 of Schedule 2 may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, each House of Parliament.
+
+#### Administrative co-operation on VAT and mutual assistance on tax debts
+
+**3** A statutory instrument containing regulations under section 22(7) may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, the House of Commons.
+
+#### Implementation power: before IP completion day
+
+**4** (1) A statutory instrument which—
+
+(a) contains regulations under section 31 of a Minister of the Crown acting alone, and
+
+(b) is to be made before IP completion day,
+
+may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, each House of Parliament.
+
+(2) Regulations which are to be made—
+
+(a) under section 31 by the Scottish Ministers acting alone, and
+
+(b) before IP completion day,
+
+are subject to the affirmative procedure (see section 29 of the Interpretation and Legislative Reform (Scotland) Act 2010 (asp 10)).
+
+(3) A statutory instrument which—
+
+(a) contains regulations under section 31 of the Welsh Ministers acting alone, and
+
+(b) is to be made before IP completion day,
+
+may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, Senedd Cymru.
+
+(4) Regulations which are to be made—
+
+(a) under section 31 by a Northern Ireland department acting alone, and
+
+(b) before IP completion day,
+
+may not be made unless a draft of the regulations has been laid before, and approved by a resolution of, the Northern Ireland Assembly.
+
+(5) This paragraph is subject to paragraphs 14 to 17 (urgency procedures for regulations to which this paragraph applies).
+
+**5** (1) This paragraph applies to regulations under section 31 of a Minister of the Crown acting jointly with a devolved authority which are to be made before IP completion day.
+
+(2) The procedure provided for by sub-paragraph (3) applies in relation to regulations to which this paragraph applies as well as any other procedure provided for by this paragraph which is applicable in relation to the regulations concerned.
+
+(3) A statutory instrument containing regulations to which this paragraph applies may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, each House of Parliament.
+
+(4) Regulations to which this paragraph applies which are made jointly with the Scottish Ministers are subject to the affirmative procedure.
+
+(5) Section 29 of the Interpretation and Legislative Reform (Scotland) Act 2010 (affirmative procedure) applies in relation to regulations to which sub-paragraph (4) applies as it applies in relation to devolved subordinate legislation (within the meaning of Part 2 of that Act) which is subject to the affirmative procedure (but as if references to a Scottish statutory instrument were references to a statutory instrument).
+
+(6) Section 32 of the Interpretation and Legislative Reform (Scotland) Act 2010 (laying) applies in relation to the laying before the Scottish Parliament of a statutory instrument containing regulations to which sub-paragraph (4) applies as it applies in relation to the laying before that Parliament of a Scottish statutory instrument (within the meaning of Part 2 of that Act).
+
+(7) A statutory instrument containing regulations to which this paragraph applies which are made jointly with the Welsh Ministers may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, Senedd Cymru.
+
+(8) Regulations to which this paragraph applies which are made jointly with a Northern Ireland department may not be made unless a draft of the regulations has been laid before, and approved by a resolution of, the Northern Ireland Assembly.
+
+#### Implementation power: on or after IP completion day
+
+**6** (1) A statutory instrument which—
+
+(a) contains regulations under section 31 of a Minister of the Crown acting alone which contain provision falling within sub-paragraph (2), and
+
+(b) is to be made on or after IP completion day,
+
+may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, each House of Parliament.
+
+(2) Provision falls within this sub-paragraph if it—
+
+(a) amends, repeals or revokes primary legislation [^F25]..., or
+
+(b) creates a power to legislate.
+
+(3) Any other statutory instrument which—
+
+(a) contains regulations under section 31 of a Minister of the Crown acting alone, and
+
+(b) is made on or after IP completion day,
+
+is (if a draft of the instrument has not been laid before, and approved by a resolution of, each House of Parliament) subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(4) See paragraph 8 for certain restrictions on the choice of procedure under sub-paragraph (3).
+
+(5) Regulations under section 31 of the Scottish Ministers acting alone which—
+
+(a) contain provision falling within sub-paragraph (2), and
+
+(b) are to be made on or after IP completion day,
+
+are subject to the affirmative procedure (see section 29 of the Interpretation and Legislative Reform (Scotland) Act 2010 (asp 10)).
+
+(6) Any other regulations under section 31 of the Scottish Ministers acting alone which are made on or after IP completion day are (if they have not been subject to the affirmative procedure) subject to the negative procedure (see section 28 of the Interpretation and Legislative Reform (Scotland) Act 2010).
+
+(7) A statutory instrument which—
+
+(a) contains regulations under section 31 of the Welsh Ministers acting alone which contain provision falling within sub-paragraph (2), and
+
+(b) is to be made on or after IP completion day,
+
+may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, Senedd Cymru.
+
+(8) Any other statutory instrument which—
+
+(a) contains regulations under section 31 of the Welsh Ministers acting alone, and
+
+(b) is made on or after IP completion day,
+
+is (if a draft of the instrument has not been laid before, and approved by a resolution of, Senedd Cymru) subject to annulment in pursuance of a resolution of Senedd Cymru.
+
+(9) See paragraph 9 for certain restrictions on the choice of procedure under sub-paragraph (8).
+
+(10) Regulations under section 31 of a Northern Ireland department acting alone which—
+
+(a) contain provision falling within sub-paragraph (2), and
+
+(b) are to be made on or after IP completion day,
+
+may not be made unless a draft of the regulations has been laid before, and approved by a resolution of, the Northern Ireland Assembly.
+
+(11) Any other regulations under section 31 of a Northern Ireland department acting alone which are made on or after IP completion day are (if a draft of the regulations has not been laid before, and approved by a resolution of, the Northern Ireland Assembly) subject to negative resolution within the meaning of section 41(6) of the Interpretation Act (Northern Ireland) 1954 as if they were a statutory instrument within the meaning of that Act.
+
+(12) This paragraph is subject to paragraphs 14 to 17 (urgency procedures for regulations to which this paragraph applies).
+
+**7** (1) This paragraph applies to regulations under section 31 of a Minister of the Crown acting jointly with a devolved authority which are made, or (as the case may be) are to be made, on or after IP completion day.
+
+(2) The procedure provided for by sub-paragraph (3) or (4) applies in relation to regulations to which this paragraph applies as well as any other procedure provided for by this paragraph which is applicable in relation to the regulations concerned.
+
+(3) A statutory instrument containing regulations to which this paragraph applies which contain provision falling within paragraph 6(2) may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, each House of Parliament.
+
+(4) Any other statutory instrument containing regulations to which this paragraph applies is (if a draft of the instrument has not been laid before, and approved by a resolution of, each House of Parliament) subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(5) Regulations to which this paragraph applies which are made jointly with the Scottish Ministers and contain provision falling within paragraph 6(2) are subject to the affirmative procedure.
+
+(6) Any other regulations to which this paragraph applies which are made jointly with the Scottish Ministers are (if they have not been subject to the affirmative procedure) subject to the negative procedure.
+
+(7) Section 29 of the Interpretation and Legislative Reform (Scotland) Act 2010 (affirmative procedure) applies in relation to regulations to which sub-paragraph (5) or (6) applies and which are subject to the affirmative procedure as it applies in relation to devolved subordinate legislation (within the meaning of Part 2 of that Act) which is subject to the affirmative procedure (but as if references to a Scottish statutory instrument were references to a statutory instrument).
+
+(8) Sections 28(2), (3) and (8) and 31 of the Interpretation and Legislative Reform (Scotland) Act 2010 (negative procedure etc.) apply in relation to regulations to which sub-paragraph (6) applies and which are subject to the negative procedure as they apply in relation to devolved subordinate legislation (within the meaning of Part 2 of that Act) which is subject to the negative procedure (but as if references to a Scottish statutory instrument were references to a statutory instrument).
+
+(9) Section 32 of the Interpretation and Legislative Reform (Scotland) Act 2010 (laying) applies in relation to the laying before the Scottish Parliament of a statutory instrument containing regulations to which sub-paragraph (5) or (6) applies as it applies in relation to the laying before that Parliament of a Scottish statutory instrument (within the meaning of Part 2 of that Act).
+
+(10) A statutory instrument containing regulations to which this paragraph applies which are made jointly with the Welsh Ministers and contain provision falling within paragraph 6(2) may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, Senedd Cymru.
+
+(11) Any other statutory instrument containing regulations to which this paragraph applies which are made jointly with the Welsh Ministers is (if a draft of the instrument has not been laid before, and approved by a resolution of, Senedd Cymru) subject to annulment in pursuance of a resolution of Senedd Cymru.
+
+(12) Regulations to which this paragraph applies which are made jointly with a Northern Ireland department and contain provision falling within paragraph 6(2) may not be made unless a draft of the regulations has been laid before, and approved by a resolution of, the Northern Ireland Assembly.
+
+(13) Any other regulations to which this paragraph applies which are made jointly with a Northern Ireland department are (if a draft of the regulations has not been laid before, and approved by a resolution of, the Northern Ireland Assembly) subject to negative resolution within the meaning of section 41(6) of the Interpretation Act (Northern Ireland) 1954 as if they were a statutory instrument within the meaning of that Act.
+
+(14) If in accordance with sub-paragraph (4),(6), (11) or (13)—
+
+(a) either House of Parliament resolves that an address be presented to Her Majesty praying that an instrument be annulled, or
+
+(b) a relevant devolved legislature resolves that an instrument be annulled,
+
+nothing further is to be done under the instrument after the date of the resolution and Her Majesty may by Order in Council revoke the instrument.
+
+(15) In sub-paragraph (14) “relevant devolved legislature” means—
+
+(a) in the case of regulations made jointly with the Scottish Ministers, the Scottish Parliament,
+
+(b) in the case of regulations made jointly with the Welsh Ministers, Senedd Cymru, and
+
+(c) in the case of regulations made jointly with a Northern Ireland department, the Northern Ireland Assembly.
+
+(16) Sub-paragraph (14) does not affect the validity of anything previously done under the instrument or prevent the making of a new instrument.
+
+(17) Sub-paragraphs (14) to (16) apply in place of provision made by any other enactment about the effect of such a resolution.
+
+**8** (1) Sub-paragraph (2) applies if a Minister of the Crown, who is to make within the period of two years beginning with IP completion day a statutory instrument to which paragraph 6(3) applies, is of the opinion that the appropriate procedure for the instrument is for it to be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(2) The Minister may not make the instrument so that it is subject to that procedure unless—
+
+(a) condition 1 is met, and
+
+(b) either condition 2 or 3 is met.
+
+(3) Condition 1 is that a Minister of the Crown—
+
+(a) has made a statement in writing to the effect that in the Minister‘s opinion the instrument should be subject to annulment in pursuance of a resolution of either House of Parliament, and
+
+(b) has laid before each House of Parliament—
+
+(i) a draft of the instrument, and
+
+(ii) a memorandum setting out the statement and the reasons for the Minister's opinion.
+
+(4) Condition 2 is that a committee of the House of Commons charged with doing so and a committee of the House of Lords charged with doing so have, within the relevant period, each made a recommendation as to the appropriate procedure for the instrument.
+
+(5) Condition 3 is that the relevant period has ended without condition 2 being met.
+
+(6) Sub-paragraph (7) applies if—
+
+(a) a committee makes a recommendation as mentioned in sub-paragraph (4) within the relevant period,
+
+(b) the recommendation is that the appropriate procedure for the instrument is for a draft of it to be laid before, and approved by a resolution of, each House of Parliament before it is made, and
+
+(c) the Minister who is to make the instrument is nevertheless of the opinion that the appropriate procedure for the instrument is for it to be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(7) Before the instrument is made, the Minister must make a statement explaining why the Minister does not agree with the recommendation of the committee.
+
+(8) If the Minister fails to make a statement required by sub-paragraph (7) before the instrument is made, a Minister of the Crown must make a statement explaining why the Minister has failed to do so.
+
+(9) A statement under sub-paragraph (7) or (8) must be made in writing and be published in such manner as the Minister making it considers appropriate.
+
+(10) In this paragraph “the relevant period” means the period—
+
+(a) beginning with the first day on which both Houses of Parliament are sitting after the day on which the draft instrument was laid before each House as mentioned in sub-paragraph (3)(b)(i), and
+
+(b) ending with whichever of the following is the later—
+
+(i) the end of the period of 10 Commons sitting days beginning with that first day, and
+
+(ii) the end of the period of 10 Lords sitting days beginning with that first day.
+
+(11) For the purposes of sub-paragraph (10)—
+
+(a) where a draft of an instrument is laid before each House of Parliament on different days, the later day is to be taken as the day on which it is laid before both Houses,
+
+(b) “Commons sitting day” means a day on which the House of Commons is sitting, and
+
+(c) “Lords sitting day” means a day on which the House of Lords is sitting,
+
+and, for the purposes of sub-paragraph (10) and this sub-paragraph, a day is only a day on which the House of Commons or the House of Lords is sitting if the House concerned begins to sit on that day.
+
+(12) Nothing in this paragraph prevents a Minister of the Crown from deciding at any time before a statutory instrument to which paragraph 6(3) applies is made that another procedure should apply in relation to the instrument (whether under paragraph 6(3) or 14).
+
+(13) Section 6(1) of the Statutory Instruments Act 1946 (alternative procedure for certain instruments laid in draft before Parliament) does not apply in relation to any statutory instrument to which this paragraph applies.
+
+**9** (1) Sub-paragraph (2) applies if the Welsh Ministers are to make within the period of two years beginning with IP completion day a statutory instrument to which paragraph 6(8) applies and are of the opinion that the appropriate procedure for the instrument is for it to be subject to annulment in pursuance of a resolution of Senedd Cymru.
+
+(2) The Welsh Ministers may not make the instrument so that it is subject to that procedure unless—
+
+(a) condition 1 is met, and
+
+(b) either condition 2 or 3 is met.
+
+(3) Condition 1 is that the Welsh Ministers—
+
+(a) have made a statement in writing to the effect that in their opinion the instrument should be subject to annulment in pursuance of a resolution of Senedd Cymru, and
+
+(b) have laid before Senedd Cymru—
+
+(i) a draft of the instrument, and
+
+(ii) a memorandum setting out the statement and the reasons for the Welsh Ministers' opinion.
+
+(4) Condition 2 is that a committee of Senedd Cymru charged with doing so has made a recommendation as to the appropriate procedure for the instrument.
+
+(5) Condition 3 is that the period of 14 days beginning with the first day after the day on which the draft instrument was laid before Senedd Cymru as mentioned in sub-paragraph (3)(b)(i) has ended without any recommendation being made as mentioned in sub-paragraph (4).
+
+(6) In calculating the period of 14 days, no account is to be taken of any time during which Senedd Cymru is—
+
+(a) dissolved, or
+
+(b) in recess for more than four days.
+
+(7) Nothing in this paragraph prevents the Welsh Ministers from deciding at any time before a statutory instrument to which paragraph 6(8) applies is made that another procedure should apply to the instrument (whether under paragraph 6(8) or 16).
+
+(8) Section 6(1) of the Statutory Instruments Act 1946 as applied by section 11A of that Act (alternative procedure for certain instruments laid in draft before Senedd Cymru) does not apply in relation to any statutory instrument to which this paragraph applies.
+
+#### Powers relating to the start of agreements
+
+**10** (1) A statutory instrument containing regulations under section 32 of a Minister of the Crown acting alone may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, each House of Parliament.
+
+(2) Regulations under section 32 of the Scottish Ministers acting alone are subject to the affirmative procedure (see section 29 of the Interpretation and Legislative Reform (Scotland) Act 2010 (asp 10)).
+
+(3) A statutory instrument containing regulations under section 32 of the Welsh Ministers acting alone may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, Senedd Cymru.
+
+(4) Regulations under section 32 of a Northern Ireland department acting alone may not be made unless a draft of the regulations has been laid before, and approved by a resolution of, the Northern Ireland Assembly.
+
+(5) This paragraph is subject to paragraphs 14 to 17 (urgency procedures for regulations to which this paragraph applies).
+
+**11** (1) This paragraph applies to regulations under section 32 of a Minister of the Crown acting jointly with a devolved authority.
+
+(2) The procedure provided for by sub-paragraph (3) applies in relation to regulations to which this paragraph applies as well as any other procedure provided for by this paragraph which is applicable in relation to the regulations concerned.
+
+(3) A statutory instrument containing regulations to which this paragraph applies may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, each House of Parliament.
+
+(4) Regulations to which this paragraph applies which are made jointly with the Scottish Ministers are subject to the affirmative procedure.
+
+(5) Section 29 of the Interpretation and Legislative Reform (Scotland) Act 2010 (affirmative procedure) applies in relation to regulations to which sub-paragraph (4) applies as it applies in relation to devolved subordinate legislation (within the meaning of Part 2 of that Act) which is subject to the affirmative procedure (but as if references to a Scottish statutory instrument were references to a statutory instrument).
+
+(6) Section 32 of the Interpretation and Legislative Reform (Scotland) Act 2010 (laying) applies in relation to the laying before the Scottish Parliament of a statutory instrument containing regulations to which sub-paragraph (4) applies as it applies in relation to the laying before that Parliament of a Scottish statutory instrument (within the meaning of Part 2 of that Act).
+
+(7) A statutory instrument containing regulations to which this paragraph applies which are made jointly with the Welsh Ministers may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, Senedd Cymru.
+
+(8) Regulations to which this paragraph applies which are made jointly with a Northern Ireland department may not be made unless a draft of the regulations has been laid before, and approved by a resolution of, the Northern Ireland Assembly.
+
+#### Powers relating to the functioning of agreements
+
+**12** (1) A statutory instrument containing regulations under section 33 of a Minister of the Crown acting alone which contain provision falling within sub-paragraph (2) may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, each House of Parliament.
+
+(2) Provision falls within this sub-paragraph if it amends, repeals or revokes—
+
+(a) primary legislation, [^F26]...
+
+[^F26]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) Any other statutory instrument containing regulations under section 33 of a Minister of the Crown acting alone is subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(4) Regulations under section 33 of the Scottish Ministers acting alone which contain provision falling within sub-paragraph (2) are subject to the affirmative procedure (see section 29 of the Interpretation and Legislative Reform (Scotland) Act 2010 (asp 10)).
+
+(5) Any other regulations under section 33 of the Scottish Ministers acting alone are subject to the negative procedure (see section 28 of the Interpretation and Legislative Reform (Scotland) Act 2010).
+
+(6) A statutory instrument containing regulations under section 33 of the Welsh Ministers acting alone which contain provision falling within sub-paragraph (2) may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, Senedd Cymru.
+
+(7) Any other statutory instrument containing regulations under section 33 of the Welsh Ministers acting alone is subject to annulment in pursuance of a resolution of Senedd Cymru.
+
+(8) Regulations under section 33 of a Northern Ireland department acting alone which contain provision falling within sub-paragraph (2) may not be made unless a draft of the regulations has been laid before, and approved by a resolution of, the Northern Ireland Assembly.
+
+(9) Any other regulations under section 33 of a Northern Ireland department acting alone are subject to negative resolution within the meaning of section 41(6) of the Interpretation Act (Northern Ireland) 1954 as if they were a statutory instrument within the meaning of that Act.
+
+(10) This paragraph is subject to paragraphs 14 to 17 (urgency procedures for regulations to which this paragraph applies).
+
+**13** (1) This paragraph applies to regulations under section 33 of a Minister of the Crown acting jointly with a devolved authority.
+
+(2) The procedure provided for by sub-paragraph (3) or (4) applies in relation to regulations to which this paragraph applies as well as any other procedure provided for by this paragraph which is applicable in relation to the regulations concerned.
+
+(3) A statutory instrument containing regulations to which this paragraph applies which contain provision falling within paragraph 12(2) may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, each House of Parliament.
+
+(4) Any other statutory instrument containing regulations to which this paragraph applies is subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(5) Regulations to which this paragraph applies which are made jointly with the Scottish Ministers and contain provision falling within paragraph 12(2) are subject to the affirmative procedure.
+
+(6) Any other regulations to which this paragraph applies which are made jointly with the Scottish Ministers are subject to the negative procedure.
+
+(7) Section 29 of the Interpretation and Legislative Reform (Scotland) Act 2010 (affirmative procedure) applies in relation to regulations to which sub-paragraph (5) applies as it applies in relation to devolved subordinate legislation (within the meaning of Part 2 of that Act) which is subject to the affirmative procedure (but as if references to a Scottish statutory instrument were references to a statutory instrument).
+
+(8) Sections 28(2), (3) and (8) and 31 of the Interpretation and Legislative Reform (Scotland) Act 2010 (negative procedure etc.) apply in relation to regulations to which sub-paragraph (6) applies as they apply in relation to devolved subordinate legislation (within the meaning of Part 2 of that Act) which is subject to the negative procedure (but as if references to a Scottish statutory instrument were references to a statutory instrument).
+
+(9) Section 32 of the Interpretation and Legislative Reform (Scotland) Act 2010 (laying) applies in relation to the laying before the Scottish Parliament of a statutory instrument containing regulations to which sub-paragraph (5) or (6) applies as it applies in relation to the laying before that Parliament of a Scottish statutory instrument (within the meaning of Part 2 of that Act).
+
+(10) A statutory instrument containing regulations to which this paragraph applies which are made jointly with the Welsh Ministers and contain provision falling within paragraph 12(2) may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, Senedd Cymru.
+
+(11) Any other statutory instrument containing regulations to which this paragraph applies which are made jointly with the Welsh Ministers is subject to annulment in pursuance of a resolution of Senedd Cymru.
+
+(12) Regulations to which this paragraph applies which are made jointly with a Northern Ireland department and contain provision falling within paragraph 12(2) may not be made unless a draft of the regulations has been laid before, and approved by a resolution of, the Northern Ireland Assembly.
+
+(13) Any other regulations to which this paragraph applies which are made jointly with a Northern Ireland department are subject to negative resolution within the meaning of section 41(6) of the Interpretation Act (Northern Ireland) 1954 as if they were a statutory instrument within the meaning of that Act.
+
+(14) If in accordance with sub-paragraph (4),(6), (11) or (13)—
+
+(a) either House of Parliament resolves that an address be presented to Her Majesty praying that an instrument be annulled, or
+
+(b) a relevant devolved legislature resolves that an instrument be annulled,
+
+nothing further is to be done under the instrument after the date of the resolution and Her Majesty may by Order in Council revoke the instrument.
+
+(15) In sub-paragraph (14) “relevant devolved legislature” means—
+
+(a) in the case of regulations made jointly with the Scottish Ministers, the Scottish Parliament,
+
+(b) in the case of regulations made jointly with the Welsh Ministers, Senedd Cymru, and
+
+(c) in the case of regulations made jointly with a Northern Ireland department, the Northern Ireland Assembly.
+
+(16) Sub-paragraph (14) does not affect the validity of anything previously done under the instrument or prevent the making of a new instrument.
+
+(17) Sub-paragraphs (14) to (16) apply in place of provision made by any other enactment about the effect of such a resolution.
+
+#### Implementation and other powers: certain urgent cases
+
+**14** (1) Sub-paragraph (2) applies to—
+
+(a) a statutory instrument to which paragraph 4(1) or 6(1) applies,
+
+(b) a statutory instrument to which paragraph 6(3) applies which would not otherwise be made without a draft of the instrument being laid before, and approved by a resolution of, each House of Parliament, or
+
+(c) a statutory instrument to which paragraph 10(1) or 12(1) applies.
+
+(2) The instrument may be made without a draft of the instrument being laid before, and approved by a resolution of, each House of Parliament if it contains a declaration that the Minister of the Crown concerned is of the opinion that, by reason of urgency, it is necessary to make the regulations without a draft being so laid and approved.
+
+(3) After an instrument is made in accordance with sub-paragraph (2), it must be laid before each House of Parliament.
+
+(4) Regulations contained in an instrument made in accordance with sub-paragraph (2) cease to have effect at the end of the period of 28 days beginning with the day on which the instrument is made unless, during that period, the instrument is approved by a resolution of each House of Parliament.
+
+(5) In calculating the period of 28 days, no account is to be taken of any time during which—
+
+(a) Parliament is dissolved or prorogued, or
+
+(b) either House of Parliament is adjourned for more than four days.
+
+(6) If regulations cease to have effect as a result of sub-paragraph (4), that does not—
+
+(a) affect the validity of anything previously done under the regulations, or
+
+(b) prevent the making of new regulations.
+
+(7) Sub-paragraph (8) applies to a statutory instrument to which paragraph 6(3) applies where the Minister of the Crown who is to make the instrument is of the opinion that the appropriate procedure for the instrument is for it to be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(8) Paragraph 8 does not apply in relation to the instrument if the instrument contains a declaration that the Minister is of the opinion that, by reason of urgency, it is necessary to make the regulations without meeting the requirements of that paragraph.
+
+**15** (1) Sub-paragraph (2) applies to—
+
+(a) regulations to which paragraph 4(2) or 6(5) applies,
+
+(b) regulations to which paragraph 6(6) applies which would not otherwise be made without being subject to the affirmative procedure, or
+
+(c) regulations to which paragraph 10(2) or 12(4) applies.
+
+(2) The regulations may be made without being subject to the affirmative procedure if the regulations contain a declaration that the Scottish Ministers are of the opinion that, by reason of urgency, it is necessary to make the regulations without them being subject to that procedure.
+
+(3) After regulations are made in accordance with sub-paragraph (2), they must be laid before the Scottish Parliament.
+
+(4) Regulations made in accordance with sub-paragraph (2) cease to have effect at the end of the period of 28 days beginning with the day on which they are made unless, during that period, the regulations are approved by resolution of the Scottish Parliament.
+
+(5) In calculating the period of 28 days, no account is to be taken of any time during which the Scottish Parliament is—
+
+(a) dissolved, or
+
+(b) in recess for more than four days.
+
+(6) If regulations cease to have effect as a result of sub-paragraph (4), that does not—
+
+(a) affect the validity of anything previously done under the regulations, or
+
+(b) prevent the making of new regulations.
+
+**16** (1) Sub-paragraph (2) applies to—
+
+(a) a statutory instrument to which paragraph 4(3) or 6(7) applies,
+
+(b) a statutory instrument to which paragraph 6(8) applies which would not otherwise be made without a draft of the instrument being laid before, and approved by a resolution of, Senedd Cymru, or
+
+(c) a statutory instrument to which paragraph 10(3) or 12(6) applies.
+
+(2) The instrument may be made without a draft of the instrument being laid before, and approved by a resolution of, Senedd Cymru if it contains a declaration that the Welsh Ministers are of the opinion that, by reason of urgency, it is necessary to make the regulations without a draft being so laid and approved.
+
+(3) After an instrument is made in accordance with sub-paragraph (2), it must be laid before Senedd Cymru.
+
+(4) Regulations contained in an instrument made in accordance with sub-paragraph (2) cease to have effect at the end of the period of 28 days beginning with the day on which the instrument is made unless, during that period, the instrument is approved by a resolution of Senedd Cymru.
+
+(5) In calculating the period of 28 days, no account is to be taken of any time during which Senedd Cymru is—
+
+(a) dissolved, or
+
+(b) in recess for more than four days.
+
+(6) If regulations cease to have effect as a result of sub-paragraph (4), that does not—
+
+(a) affect the validity of anything previously done under the regulations, or
+
+(b) prevent the making of new regulations.
+
+(7) Sub-paragraph (8) applies to a statutory instrument to which paragraph 6(8) applies where the Welsh Ministers are of the opinion that the appropriate procedure for the instrument is for it to be subject to annulment in pursuance of a resolution of Senedd Cymru.
+
+(8) Paragraph 9 does not apply in relation to the instrument if the instrument contains a declaration that the Welsh Ministers are of the opinion that, by reason of urgency, it is necessary to make the regulations without meeting the requirements of that paragraph.
+
+**17** (1) Sub-paragraph (2) applies to—
+
+(a) regulations to which paragraph 4(4) or 6(10) applies,
+
+(b) regulations to which paragraph 6(11) applies which would not otherwise be made without a draft of the regulations being laid before, and approved by a resolution of, the Northern Ireland Assembly, or
+
+(c) regulations to which paragraph 10(4) or 12(8) applies.
+
+(2) The regulations may be made without a draft of the regulations being laid before, and approved by a resolution of, the Northern Ireland Assembly if they contain a declaration that the Northern Ireland department concerned is of the opinion that, by reason of urgency, it is necessary to make the regulations without a draft being so laid and approved.
+
+(3) After regulations are made in accordance with sub-paragraph (2), they must be laid before the Northern Ireland Assembly.
+
+(4) Regulations made in accordance with sub-paragraph (2) cease to have effect at the end of the period of 28 days beginning with the day on which they are made unless, during that period, the regulations are approved by a resolution of the Northern Ireland Assembly.
+
+(5) In calculating the period of 28 days, no account is to be taken of any time during which the Northern Ireland Assembly is—
+
+(a) dissolved,
+
+(b) in recess for more than four days, or
+
+(c) adjourned for more than six days.
+
+(6) If regulations cease to have effect as a result of sub-paragraph (4), that does not—
+
+(a) affect the validity of anything previously done under the regulations, or
+
+(b) prevent the making of new regulations.
+
+#### Consequential provision
+
+**18** A statutory instrument containing regulations under section 39(1) is subject to annulment in pursuance of a resolution of either House of Parliament.
+
+### PART 2 — General restrictions on certain powers of devolved authorities
+
+#### No power to make provision outside devolved competence
+
+**19** (1) No provision may be made by a devolved authority acting alone in regulations under section 31, 32 or 33 unless the provision is within the devolved competence of the devolved authority.
+
+(2) See paragraphs 23 to 25 for the meaning of “devolved competence” for the purposes of this Part.
+
+#### Requirement for consent where it would otherwise be required
+
+**20** (1) The consent of a Minister of the Crown is required before any provision is made by the Welsh Ministers acting alone in regulations under section 31, 32 or 33 so far as that provision, if contained in an Act of Senedd Cymru, would require the consent of a Minister of the Crown.
+
+(2) The consent of the Secretary of State is required before any provision is made by a Northern Ireland department acting alone in regulations under section 31, 32 or 33 so far as that provision, if contained in an Act of the Northern Ireland Assembly, would require the consent of the Secretary of State.
+
+(3) Sub-paragraph (1) or (2) does not apply if—
+
+(a) the provision could be contained in subordinate legislation made otherwise than under this Act by the Welsh Ministers acting alone or (as the case may be) a Northern Ireland devolved authority acting alone, and
+
+(b) no such consent would be required in that case.
+
+(4) The consent of a Minister of the Crown is required before any provision is made by a devolved authority acting alone in regulations under section 31, 32 or 33 so far as that provision, if contained in—
+
+(a) subordinate legislation made otherwise than under this Act by the devolved authority, or
+
+(b) subordinate legislation not falling within paragraph (a) and made otherwise than under this Act by (in the case of Scotland) the First Minister or Lord Advocate acting alone or (in the case of Northern Ireland) a Northern Ireland devolved authority acting alone,
+
+would require the consent of a Minister of the Crown.
+
+(5) Sub-paragraph (4) does not apply if—
+
+(a) the provision could be contained in—
+
+(i) an Act of the Scottish Parliament, an Act of Senedd Cymru or (as the case may be) an Act of the Northern Ireland Assembly, or
+
+(ii) different subordinate legislation of the kind mentioned in sub-paragraph (4)(a) or (b) and of a devolved authority acting alone or (as the case may be) other person acting alone, and
+
+(b) no such consent would be required in that case.
+
+#### Requirement for joint exercise where it would otherwise be required
+
+**21** (1) No regulations may be made under section 31, 32 or 33 by the Scottish Ministers, so far as they contain provision which relates to a matter in respect of which a power to make subordinate legislation otherwise than under this Act is exercisable by—
+
+(a) the Scottish Ministers acting jointly with a Minister of the Crown, or
+
+(b) the First Minister or Lord Advocate acting jointly with a Minister of the Crown,
+
+unless the regulations are, to that extent, made jointly with the Minister of the Crown.
+
+(2) No regulations may be made under section 31, 32 or 33 by the Welsh Ministers, so far as they contain provision which relates to a matter in respect of which a power to make subordinate legislation otherwise than under this Act is exercisable by the Welsh Ministers acting jointly with a Minister of the Crown, unless the regulations are, to that extent, made jointly with the Minister of the Crown.
+
+(3) No regulations may be made under section 31, 32 or 33 by a Northern Ireland department, so far as they contain provision which relates to a matter in respect of which a power to make subordinate legislation otherwise than under this Act is exercisable by—
+
+(a) a Northern Ireland department acting jointly with a Minister of the Crown, or
+
+(b) another Northern Ireland devolved authority acting jointly with a Minister of the Crown,
+
+unless the regulations are, to that extent, made jointly with the Minister of the Crown.
+
+(4) Sub-paragraph (1), (2) or (3) does not apply if the provision could be contained in—
+
+(a) an Act of the Scottish Parliament, an Act of Senedd Cymru or (as the case may be) an Act of the Northern Ireland Assembly without the need for the consent of a Minister of the Crown, or
+
+(b) different subordinate legislation made otherwise than under this Act by—
+
+(i) the Scottish Ministers, the First Minister or the Lord Advocate acting alone,
+
+(ii) the Welsh Ministers acting alone, or
+
+(iii) (as the case may be), a Northern Ireland devolved authority acting alone.
+
+#### Requirement for consultation where it would otherwise be required
+
+**22** (1) No regulations may be made under section 31, 32 or 33 by the Welsh Ministers acting alone, so far as they contain provision which, if contained in an Act of Senedd Cymru, would require consultation with a Minister of the Crown, unless the regulations are, to that extent, made after consulting with the Minister of the Crown.
+
+(2) No regulations may be made under section 31, 32 or 33 by the Scottish Ministers acting alone, so far as they contain provision which relates to a matter in respect of which a power to make subordinate legislation otherwise than under this Act is exercisable by the Scottish Ministers, the First Minister or the Lord Advocate after consulting with a Minister of the Crown, unless the regulations are, to that extent, made after consulting with the Minister of the Crown.
+
+(3) No regulations may be made under section 31, 32 or 33 by the Welsh Ministers acting alone, so far as they contain provision which relates to a matter in respect of which a power to make subordinate legislation otherwise than under this Act is exercisable by the Welsh Ministers after consulting with a Minister of the Crown, unless the regulations are, to that extent, made after consulting with the Minister of the Crown.
+
+(4) No regulations may be made under section 31, 32 or 33 by a Northern Ireland department acting alone, so far as they contain provision which relates to a matter in respect of which a power to make subordinate legislation otherwise than under this Act is exercisable by a Northern Ireland department after consulting with a Minister of the Crown, unless the regulations are, to that extent, made after consulting with the Minister of the Crown.
+
+(5) Sub-paragraph (2), (3) or (4) does not apply if—
+
+(a) the provision could be contained in an Act of the Scottish Parliament, an Act of Senedd Cymru or (as the case may be) an Act of the Northern Ireland Assembly, and
+
+(b) there would be no requirement for the consent of a Minister of the Crown, or for consultation with a Minister of the Crown, in that case.
+
+(6) Sub-paragraph (2), (3) or (4) does not apply if—
+
+(a) the provision could be contained in different subordinate legislation made otherwise than under this Act by—
+
+(i) the Scottish Ministers, the First Minister or the Lord Advocate acting alone,
+
+(ii) the Welsh Ministers acting alone, or
+
+(iii) (as the case may be), a Northern Ireland devolved authority acting alone, and
+
+(b) there would be no requirement for the consent of a Minister of the Crown, or for consultation with a Minister of the Crown, in that case.
+
+#### Meaning of devolved competence
+
+**23** A provision is within the devolved competence of the Scottish Ministers for the purposes of this Part if—
+
+(a) it would be within the legislative competence of the Scottish Parliament if it were contained in an Act of that Parliament (ignoring section 29(2)(d) of the Scotland Act 1998 so far as relating to EU law and retained EU law), or
+
+(b) it is provision which could be made in other subordinate legislation by the Scottish Ministers, the First Minister or the Lord Advocate acting alone (ignoring section 57(2) of the Scotland Act 1998 so far as relating to EU law and section 57(4) of that Act).
+
+**24** A provision is within the devolved competence of the Welsh Ministers for the purposes of this Part if—
+
+(a) it would be within the legislative competence of Senedd Cymru if it were contained in an Act of Senedd Cymru (ignoring section 108A(2)(e) of the Government of Wales Act 2006 so far as relating to EU law and retained EU law but including any provision that could be made only with the consent of a Minister of the Crown), or
+
+(b) it is provision which could be made in other subordinate legislation by the Welsh Ministers acting alone (ignoring section 80(8) of the Government of Wales Act 2006).
+
+**25** A provision is within the devolved competence of a Northern Ireland department for the purposes of this Part if—
+
+(a) the provision, if it were contained in an Act of the Northern Ireland Assembly—
+
+(i) would be within the legislative competence of the Assembly (ignoring section 6(2)(d) of the Northern Ireland Act 1998), and
+
+(ii) would not require the consent of the Secretary of State,
+
+(b) the provision—
+
+(i) amends or repeals Northern Ireland legislation, and
+
+(ii) would, if it were contained in an Act of the Northern Ireland Assembly, be within the legislative competence of the Assembly (ignoring section 6(2)(d) of the Northern Ireland Act 1998) and require the consent of the Secretary of State, or
+
+(c) the provision is provision which could be made in other subordinate legislation by any Northern Ireland devolved authority acting alone (ignoring section 24(1)(b) and (3) of the Northern Ireland Act 1998).
+
+### PART 3 — General provision about powers under Act
+
+#### Scope and nature of powers: general
+
+**26** (1) Any power to make regulations under this Act—
+
+(a) so far as exercisable by a Minister of the Crown or by a Minister of the Crown acting jointly with a devolved authority, is exercisable by statutory instrument,
+
+(b) so far as exercisable by the Welsh Ministers or by the Welsh Ministers acting jointly with a Minister of the Crown, is exercisable by statutory instrument, and
+
+(c) so far as exercisable by a Northern Ireland department (other than when acting jointly with a Minister of the Crown), is exercisable by statutory rule for the purposes of the Statutory Rules (Northern Ireland) Order 1979 (S.I. 1979/1573 (N.I. 12)) (and not by statutory instrument).
+
+(2) For regulations made under this Act by the Scottish Ministers, see also section 27 of the Interpretation and Legislative Reform (Scotland) Act 2010 (asp 10) (Scottish statutory instruments).
+
+**27** Any power to make regulations under this Act—
+
+(a) may be exercised so as to make different provision for different cases or descriptions of case, different circumstances, different purposes or different areas, and
+
+(b) includes power to make supplementary, incidental, consequential, transitional, transitory or saving provision.
+
+**28** The fact that a power to make regulations is conferred by this Act does not affect the extent of any other power to make subordinate legislation under this Act or any other enactment.
+
+#### Anticipatory exercise of powers in relation to future relationship agreements etc.
+
+**29** Any power to make regulations under this Act in relation to a future relationship agreement or an agreement falling within section 31(7)(b) is also capable of being exercised before the agreement concerned is signed, provisionally applied or ratified or before it comes into force.
+
+#### Scope of appointed day power
+
+**30** The power of a Minister of the Crown under section 40(7) to appoint a day includes a power to appoint a time on that day if the Minister considers it appropriate to do so.
+
+#### Disapplication of certain review provisions
+
+**31** Section 28 of the Small Business, Enterprise and Employment Act 2015 (duty to review regulatory provisions in secondary legislation) does not apply in relation to any power to make regulations under this Act.
+
+#### Hybrid instruments
+
+**32** If an instrument, or a draft of an instrument, containing regulations under this Act would, apart from this paragraph, be treated as a hybrid instrument for the purposes of the standing orders of either House of Parliament, it is to proceed in that House as if it were not a hybrid instrument.
+
+#### Procedure on re-exercise of certain powers
+
+**33** A power to make regulations which, under this Schedule, is capable of being exercised subject to different procedures may (in spite of section 14 of the Interpretation Act 1978) be exercised, when revoking, amending or re-enacting an instrument made under the power, subject to a different procedure from the procedure to which the instrument was subject.
+
+#### Combinations of instruments
+
+**34** (1) Sub-paragraph (2) applies to a statutory instrument containing regulations under this Act which is subject to a procedure before Parliament for the approval of the instrument in draft before it is made or its approval after it is made.
+
+(2) The statutory instrument may also include regulations under this Act or another enactment which are made by statutory instrument which is subject to a procedure before Parliament that provides for the annulment of the instrument after it has been made.
+
+(3) Where regulations are included as mentioned in sub-paragraph (2), the procedure applicable to the statutory instrument is the procedure mentioned in sub-paragraph (1) and not the procedure mentioned in sub-paragraph (2).
+
+(4) Sub-paragraphs (1) to (3) apply in relation to a statutory instrument containing regulations under this Act which is subject to a procedure before Senedd Cymru as they apply in relation to a statutory instrument containing regulations under this Act which is subject to a procedure before Parliament but as if the references to Parliament were references to Senedd Cymru.
+
+(5) Sub-paragraphs (1) to (3) apply in relation to a statutory rule as they apply in relation to a statutory instrument but as if the references to Parliament were references to the Northern Ireland Assembly.
+
+(6) Sub-paragraphs (1) to (3) apply in relation to a statutory instrument containing regulations under this Act which is subject to a procedure before the Scottish Parliament, Senedd Cymru or the Northern Ireland Assembly as well as a procedure before Parliament as they apply to a statutory instrument containing regulations under this Act which is subject to a procedure before Parliament but as if the references to Parliament were references to Parliament and the Scottish Parliament, Senedd Cymru or (as the case may be) the Northern Ireland Assembly.
+
+(7) This paragraph does not prevent the inclusion of other regulations in a statutory instrument or statutory rule which contains regulations under this Act (and, accordingly, references in this Schedule to an instrument containing regulations are to be read as references to an instrument containing (whether alone or with other provision) regulations).
+
+## SCHEDULE 6 — Consequential and transitional provision etc.
+
+*Section 39(3) and (5)*
+
+### PART 1 — Consequential provision
+
+#### [^F27]...
+
+**[^F27]1** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F27]...
+
+**[^F27]2** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F27]...
+
+**[^F27]3** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Interpretation and Legislative Reform (Scotland) Act 2010 (asp 10)
+
+**4** In section 30(7) of the Interpretation and Legislative Reform (Scotland) Act 2010 (exception to the requirement for certain instruments to be laid before the Scottish Parliament) after “2018” insert “ or paragraph 15 of Schedule 5 to the European Union (Future Relationship) Act 2020 ”.
+
+#### European Union (Withdrawal) Act 2018
+
+**5** The European Union (Withdrawal) Act 2018 is amended as follows.
+
+**6** In section 20 (interpretation), in subsection (1), after the definition of “exit day” insert—
+
+> “future relationship agreement” has the same meaning as in the European Union (Future Relationship) Act 2020 (see section 37 of that Act);
+
+.
+
+**7** In section 21 (index of defined expressions), in the table in subsection (1), after the entry for “Former Article 34(2)(c) of Treaty on European Union” insert—
+
+> |  |  |
+> |---|---|
+> | Future relationship agreement | Section 20(1) |
+
+.
+
+**8** In Part 1 of Schedule 8 (general consequential provision), in each of paragraphs 13(8A), 14(11A), 15(11) and 16(9)—
+
+(a) omit the “or” at the end of paragraph (b), and
+
+(b) after paragraph (c) insert
+
+> , or
+>
+> (d) a future relationship agreement
+
+.
+
+### PART 2 — Transitional, transitory and saving provision
+
+#### Passenger name record data
+
+**9** The amendments made by Schedule 2 do not have effect in relation to—
+
+(a) any request to which regulation 106A of the Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742) applies, or
+
+(b) any PNR data, or the result of processing such data, in relation to which regulation 106B(2) of those regulations has effect.
+
+#### Extradition
+
+**10** The amendments made by section 12 do not apply for the purpose of deciding whether the offence specified in a Part 1 warrant is an extradition offence if the person in respect of whom the warrant is issued is arrested under the warrant, or under section 5 of the Extradition Act 2003 on the basis of a belief related to the warrant, before IP completion day.
+
+#### “relevant criminal offence”
+
+**11** (1) The definition of “relevant criminal offence” in section 37(1) is to be read, until the appointed day, as if for the words “the age of 18 (or, in relation to Scotland or Northern Ireland, 21)” there were substituted “ the age of 21 ”.
+
+(2) In sub-paragraph (1), “the appointed day” means the day on which the amendment made to section 81(3)(a) of the Regulation of Investigatory Powers Act 2000 by paragraph 211 of Schedule 7 to the Criminal Justice and Court Services Act 2000 comes into force.
+
+#### Powers of devolved authorities in relation to EU law
+
+**12** Section 57(2) of the Scotland Act 1998, section 80(8) of the Government of Wales Act 2006 and section 24(1)(b) of the Northern Ireland Act 1998, so far as relating to EU law, do not apply to the making of regulations under section 31, 32 or 33.
+
+#### Modifications of subordinate legislation
+
+**13** The fact that a modification of subordinate legislation has been made by this Act does not of itself prevent the subordinate legislation as modified from being further modified under the power under which it was made or by other subordinate legislation.
+
+---
+
+[^F1]: Words in s. 8(1)(a) substituted (23.7.2021) by The European Union (Future Relationship) Act 2020 (References to the Trade and Cooperation Agreement) Regulations 2021 (S.I. 2021/884), reg. 1(2), Sch. (with reg. 1(3)(a))
+[^F2]: Words in s. 8(1)(b) substituted (23.7.2021) by The European Union (Future Relationship) Act 2020 (References to the Trade and Cooperation Agreement) Regulations 2021 (S.I. 2021/884), reg. 1(2), Sch. (with reg. 1(3)(a))
+[^F3]: Words in s. 8(5) substituted (23.7.2021) by The European Union (Future Relationship) Act 2020 (References to the Trade and Cooperation Agreement) Regulations 2021 (S.I. 2021/884), reg. 1(2), Sch. (with reg. 1(3)(a))
+[^F4]: Words in s. 14(1)(a) substituted (23.7.2021) by The European Union (Future Relationship) Act 2020 (References to the Trade and Cooperation Agreement) Regulations 2021 (S.I. 2021/884), reg. 1(2), Sch. (with reg. 1(3)(a))
+[^F5]: Words in s. 15(2)(a) substituted (23.7.2021) by The European Union (Future Relationship) Act 2020 (References to the Trade and Cooperation Agreement) Regulations 2021 (S.I. 2021/884), reg. 1(2), Sch. (with reg. 1(3)(a))
+[^F6]: Words in s. 16(4)(b)(i) substituted (7.2.2023 at 12.00 p.m.) by The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149), regs. 1(2), 2(1), Sch. Pt. 1
+[^F7]: Words in s. 16(5) substituted (28.4.2022) by The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500), regs. 1(2), 5(1), Sch. Pt. 1
+[^F8]: Words in s. 16(5) substituted (7.2.2023 at 12.00 p.m.) by The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149), regs. 1(2), 2(1), Sch. Pt. 1
+[^F9]: Words in s. 18(1) substituted (23.7.2021) by The European Union (Future Relationship) Act 2020 (References to the Trade and Cooperation Agreement) Regulations 2021 (S.I. 2021/884), reg. 1(2), Sch. (with reg. 1(3)(a))
+[^F10]: Words in s. 18(1) substituted (23.7.2021) by The European Union (Future Relationship) Act 2020 (References to the Trade and Cooperation Agreement) Regulations 2021 (S.I. 2021/884), reg. 1(2), Sch. (with reg. 1(3)(a))
+[^F11]: Words in s. 25(1)(a) substituted (23.7.2021) by The European Union (Future Relationship) Act 2020 (References to the Trade and Cooperation Agreement) Regulations 2021 (S.I. 2021/884), reg. 1(2), Sch. (with reg. 1(3)(a))
+[^F12]: Words in s. 25(1)(b) substituted (23.7.2021) by The European Union (Future Relationship) Act 2020 (References to the Trade and Cooperation Agreement) Regulations 2021 (S.I. 2021/884), reg. 1(2), Sch. (with reg. 1(3)(a))
+[^F13]: Words in s. 25(2)(a) substituted (23.7.2021) by The European Union (Future Relationship) Act 2020 (References to the Trade and Cooperation Agreement) Regulations 2021 (S.I. 2021/884), reg. 1(2), Sch. (with reg. 1(3)(a))
+[^F14]: Words in s. 25(2)(b) substituted (23.7.2021) by The European Union (Future Relationship) Act 2020 (References to the Trade and Cooperation Agreement) Regulations 2021 (S.I. 2021/884), reg. 1(2), Sch. (with reg. 1(3)(a))
+[^F15]: Words in s. 25(6) substituted (23.7.2021) by The European Union (Future Relationship) Act 2020 (References to the Trade and Cooperation Agreement) Regulations 2021 (S.I. 2021/884), reg. 1(2), Sch. (with reg. 1(3)(a))
+[^F16]: Words in s. 26(1)(b) substituted (23.7.2021) by The European Union (Future Relationship) Act 2020 (References to the Trade and Cooperation Agreement) Regulations 2021 (S.I. 2021/884), reg. 1(2), Sch. (with reg. 1(3)(a))
+[^F17]: Words in s. 26(1)(c) substituted (23.7.2021) by The European Union (Future Relationship) Act 2020 (References to the Trade and Cooperation Agreement) Regulations 2021 (S.I. 2021/884), reg. 1(2), Sch. (with reg. 1(3)(a))
+[^F18]: Words in s. 30 substituted (23.7.2021) by The European Union (Future Relationship) Act 2020 (References to the Trade and Cooperation Agreement) Regulations 2021 (S.I. 2021/884), reg. 1(2), Sch. (with reg. 1(3)(a))
+[^F19]: Words in s. 31(7)(b) substituted (23.7.2021) by The European Union (Future Relationship) Act 2020 (References to the Trade and Cooperation Agreement) Regulations 2021 (S.I. 2021/884), reg. 1(2), Sch. (with reg. 1(3)(a))
+[^F20]: Words in s. 33(9)(a) substituted (23.7.2021) by The European Union (Future Relationship) Act 2020 (References to the Trade and Cooperation Agreement) Regulations 2021 (S.I. 2021/884), reg. 1(2), Sch. (with reg. 1(3)(a))
+[^F21]: Words in s. 37 substituted (1.1.2024) by The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424), reg. 1(2), Sch. para. 97
+[^F22]: Words in s. 37(1) substituted (23.7.2021) by The European Union (Future Relationship) Act 2020 (References to the Trade and Cooperation Agreement) Regulations 2021 (S.I. 2021/884), reg. 1(2), Sch. (with reg. 1(3)(a))
+[^F23]: Words in Sch. 2 para. 17(2) substituted (23.7.2021) by The European Union (Future Relationship) Act 2020 (References to the Trade and Cooperation Agreement) Regulations 2021 (S.I. 2021/884), reg. 1(2), Sch. (with reg. 1(3)(a))
+[^F24]: Words in Sch. 2 para. 17(3)(a) substituted (23.7.2021) by The European Union (Future Relationship) Act 2020 (References to the Trade and Cooperation Agreement) Regulations 2021 (S.I. 2021/884), reg. 1(2), Sch. (with reg. 1(3)(a))
+[^F25]: Words in Sch. 5 para. 6(2)(a) omitted (29.6.2023) by virtue of Retained EU Law (Revocation and Reform) Act 2023 (c. 28), s. 22(1)(d), Sch. 3 para. 5(2)
+[^F26]: Sch. 5 para. 12(2)(b) and word omitted (29.6.2023) by virtue of Retained EU Law (Revocation and Reform) Act 2023 (c. 28), s. 22(1)(d), Sch. 3 para. 5(3)
+[^F27]: Sch. 6 paras. 1-3 and headings omitted (31.3.2022) by virtue of The European Union (Withdrawal) Act 2018 (Repeal of EU Restrictions in Devolution Legislation, etc.) Regulations 2022 (S.I. 2022/357), regs. 1(1), 8

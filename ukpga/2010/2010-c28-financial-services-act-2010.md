@@ -1,0 +1,1769 @@
+---
+title: "Financial Services Act 2010"
+identifier: "ukpga/2010/28"
+citation: "2010 c. 28"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S+N.I."
+date: 2010-04-08
+last_amended: 2026-07-13
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/2010/28"
+source_modified: 2026-08-12
+retrieved: 2026-10-11
+---
+
+# Financial Services Act 2010
+
+**2010 c. 28**
+
+An Act to make provision amending the Financial Services and Markets Act 2000, including provision about financial education, and other provision about financial services and markets; and to make provision for the administration of court funds by the Director of Savings.
+
+[8th April 2010]
+
+Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## Objectives of FSA etc
+
+### [^F1]1 Financial stability objective
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 2 Enhancing public understanding of financial matters etc
+
+[^F2]1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F3]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F3]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F3]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F3]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F4]6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7) If members of staff of the FSA are transferred to the consumer financial education body, the transfer is to be regarded for the purposes of TUPE as a relevant transfer, whether or not it would otherwise be so regarded.
+
+(8) In subsection (7)—
+
+- “the consumer financial education body” has the same meaning as in section 6A of the Financial Services and Markets Act 2000,
+- “the FSA” means the Financial Services Authority, and
+- “TUPE” means the Transfer of Undertakings (Protection of Employment) Regulations 2006.
+
+### 3 Meeting FSA's regulatory objectives
+
+(1) The Financial Services and Markets Act 2000 is amended as follows.
+
+[^F5]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F5]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F5]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) In section 194 (general grounds on which power of intervention is exercisable)—
+
+(a) in subsection (1), for paragraph (c) substitute—
+
+> (c) it is desirable to exercise the power in order to meet any of its regulatory objectives.
+
+, and
+
+(b) after that subsection insert—
+
+> (1A) For the purposes of subsection (1)(c) it does not matter whether there is a relationship between the incoming firm and the persons whose interests will be protected by the exercise of the power of intervention.
+
+## Remuneration of executives of authorised persons
+
+### 4 Executives' remuneration reports
+
+(1) The Treasury may make provision by regulations about the preparation, approval and disclosure of executives' remuneration reports.
+
+(2) An executives' remuneration report is a report containing information about—
+
+(a) the remuneration of relevant executives of an authorised person, or
+
+(b) anything connected with the remuneration of relevant executives of an authorised person.
+
+(3) The following are relevant executives of an authorised person—
+
+(a) officers of the authorised person,
+
+(b) employees of the authorised person who fall within a prescribed description, and
+
+(c) other individuals who have a prescribed connection with the authorised person.
+
+(4) The individuals who may fall within subsection (3)(c) include any description of—
+
+(a) individuals who provide services, or whose services are provided (directly or indirectly), to the authorised person, or
+
+(b) individuals who are officers or employees of a member of the same group as the authorised person.
+
+(5) Regulations under this section may apply in relation to a prescribed description of authorised person.
+
+(6) Regulations under this section are subject to affirmative resolution procedure.
+
+### 5 Executives' remuneration reports: supplementary
+
+(1) Regulations under section 4 may, in particular, make provision as to—
+
+(a) the information that must be contained in an executives' remuneration report,
+
+(b) how information is to be set out in the report, and
+
+(c) what is to be the auditable part of the report.
+
+(2) The information that may be required to be contained in an executives' remuneration report includes—
+
+(a) information corresponding to information that could be required by regulations under section 421 of the Companies Act 2006 to be contained in a directors' remuneration report, and
+
+(b) information comparing the remuneration of relevant executives of an authorised person with the remuneration of employees of the authorised person who fall within a prescribed description.
+
+(3) Regulations under section 4 may, in particular, make provision —
+
+(a) for the filing of executives' remuneration reports with the registrar of companies for any part of the United Kingdom or with the FSA, and
+
+(b) for the publication by the FSA of reports filed with it.
+
+(4) Regulations under section 4 may apply any provision made by or under the Companies Act 2006 relating to directors' remuneration reports, subject to such exceptions, adaptations and modifications as the Treasury consider appropriate.
+
+(5) The provisions that may be applied include provisions creating offences; but the regulations may not impose a liability for an offence which is more onerous than the liability for the offence under the applied provision.
+
+(6) Regulations under section 4 may provide that any requirement imposed on an authorised person by the regulations is to be treated for the purposes of prescribed provisions of the Financial Services and Markets Act 2000 as if it had been imposed on the person by a provision of that Act.
+
+(7) For the purposes of section 4 and this section—
+
+- “authorised person” has the same meaning as in the Financial Services and Markets Act 2000 (see section 31),
+
+- “the FSA” means the Financial Services Authority,
+
+- “group” has the same meaning as in the Financial Services and Markets Act 2000 (see section 421),
+
+- “officer”—
+
+  - (a) in relation to a partnership, means a partner, and
+  - (b) in relation to a body corporate whose affairs are managed by its members, means a member, and
+
+- “prescribed” means specified in, or determined in accordance with, regulations under section 4.
+
+### [^F6]6 Rules made by FSA about remuneration
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Recovery and resolution plans
+
+### [^F7]7 Rules made by FSA about recovery and resolution plans
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Short selling
+
+### [^F8]8 Power of FSA to prohibit, or require disclosure of, short selling
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## FSA's disciplinary powers
+
+### 9 Suspending permission to carry on regulated activities etc
+
+In Part 14 of the Financial Services and Markets Act 2000 (disciplinary measures), after section 206 insert—
+
+> **206A Suspending permission to carry on regulated activities etc**
+>
+> (1) If the Authority considers that an authorised person has contravened a relevant requirement imposed on the person, it may—
+>
+> (a) suspend, for such period as it considers appropriate, any permission which the person has to carry on a regulated activity; or
+>
+> (b) impose, for such period as it considers appropriate, such limitations or other restrictions in relation to the carrying on of a regulated activity by the person as it considers appropriate.
+>
+> (2) In subsection (1)—
+>
+> - “permission” means any permission that the authorised person has, whether given (or treated as given) by the Authority or conferred by any provision of this Act;
+>
+> - “relevant requirement” means a requirement imposed—
+>
+>   - (a) by or under this Act; or
+>   - (b) by any directly applicable Community regulation made under the markets in financial instruments directive.
+>
+> (3) The period for which a suspension or restriction is to have effect may not exceed 12 months.
+>
+> (4) A suspension may relate only to the carrying on of an activity in specified circumstances.
+>
+> (5) A restriction may, in particular, be imposed so as to require the person concerned to take, or refrain from taking, specified action.
+>
+> (6) The Authority may—
+>
+> (a) withdraw a suspension or restriction; or
+>
+> (b) vary a suspension or restriction so as to reduce the period for which it has effect or otherwise to limit its effect.
+>
+> (7) The power under this section may (but need not) be exercised so as to have effect in relation to all the regulated activities that the person concerned carries on.
+>
+> (8) Any one or more of the powers under—
+>
+> (a) subsection (1)(a) and (b) of this section, and
+>
+> (b) sections 205 and 206,
+>
+> may be exercised in relation to the same contravention.
+
+### 10 Removal of restriction on imposing a penalty and cancelling authorisation
+
+In section 206 of the Financial Services and Markets Act 2000 (financial penalties), omit subsection (2) (which prevents the FSA from imposing a penalty under that section as well as withdrawing a person's authorisation under section 33).
+
+### 11 Performance of controlled function without approval
+
+In the Financial Services and Markets Act 2000, after section 63 insert—
+
+> **Performance of controlled functions without approval**
+>
+> **63A Power to impose penalties**
+>
+> (1) If the Authority is satisfied that—
+>
+> (a) a person (“P”) has at any time performed a controlled function without approval, and
+>
+> (b) at that time P knew, or could reasonably be expected to have known, that P was performing a controlled function without approval,
+>
+> it may impose a penalty on P of such amount as it considers appropriate.
+>
+> (2) For the purposes of this section P performs a controlled function without approval at any time if at that time—
+>
+> (a) P performs a controlled function under an arrangement entered into by an authorised person (“A”), or by a contractor of A, in relation to the carrying on by A of a regulated activity; and
+>
+> (b) the performance by P of the function was not approved under section 59.
+>
+> (3) The Authority may not impose a penalty under this section after the end of the limitation period unless, before the end of that period, it has given a warning notice to the person concerned under section 63B(1).
+>
+> (4) “The limitation period” means the period of three years beginning with the first day on which the Authority knew that the person concerned had performed a controlled function without approval.
+>
+> (5) For this purpose the Authority is to be treated as knowing that a person has performed a controlled function without approval if it has information from which that can reasonably be inferred.
+>
+> (6) Any expression which is used both in this section and section 59 has the same meaning in this section as in that section.
+>
+> **63B Procedure and right to refer to Tribunal**
+>
+> (1) If the Authority proposes to impose a penalty on a person under section 63A, it must give the person a warning notice.
+>
+> (2) A warning notice must state the amount of the penalty.
+>
+> (3) If the Authority decides to impose a penalty on a person under section 63A, it must give the person a decision notice.
+>
+> (4) A decision notice must state the amount of the penalty.
+>
+> (5) If the Authority decides to impose a penalty on a person under section 63A, the person may refer the matter to the Tribunal.
+>
+> **63C Statement of policy**
+>
+> (1) The Authority must prepare and issue a statement of its policy with respect to—
+>
+> (a) the imposition of penalties under section 63A; and
+>
+> (b) the amount of penalties under that section.
+>
+> (2) The Authority's policy in determining whether a penalty should be imposed, and what the amount of a penalty should be, must include having regard to—
+>
+> (a) the conduct of the person on whom the penalty is to be imposed;
+>
+> (b) the extent to which the person could reasonably be expected to have known that a controlled function was performed without approval;
+>
+> (c) the length of the period during which the person performed a controlled function without approval; and
+>
+> (d) whether the person on whom the penalty is to be imposed is an individual.
+>
+> (3) The Authority's policy in determining whether a penalty should be imposed on a person must also include having regard to the appropriateness of taking action against the person instead of, or in addition to, taking action against an authorised person.
+>
+> (4) A statement issued under this section must include an indication of the circumstances in which the Authority would expect to be satisfied that a person could reasonably be expected to have known that the person was performing a controlled function without approval.
+>
+> (5) The Authority may at any time alter or replace a statement issued under this section.
+>
+> (6) If a statement issued under this section is altered or replaced, the Authority must issue the altered or replaced statement.
+>
+> (7) The Authority must, without delay, give the Treasury a copy of any statement which it publishes under this section.
+>
+> (8) A statement issued under this section must be published by the Authority in the way appearing to the Authority to be best calculated to bring it to the attention of the public.
+>
+> (9) The Authority may charge a reasonable fee for providing a person with a copy of the statement.
+>
+> (10) In exercising, or deciding whether to exercise, its power under section 63A in the case of any particular person, the Authority must have regard to any statement of policy published under this section and in force at a time when the person concerned performed a controlled function without approval.
+>
+> **63D Statement of policy: procedure**
+>
+> (1) Before issuing a statement under section 63C, the Authority must publish a draft of the proposed statement in the way appearing to the Authority to be best calculated to bring it to the attention of the public.
+>
+> (2) The draft must be accompanied by notice that representations about the proposal may be made to the Authority within a specified time.
+>
+> (3) Before issuing the proposed statement, the Authority must have regard to any representations made to it in accordance with subsection (2).
+>
+> (4) If the Authority issues the proposed statement it must publish an account, in general terms, of—
+>
+> (a) the representations made to it in accordance with subsection (2); and
+>
+> (b) its response to them.
+>
+> (5) If the statement differs from the draft published under subsection (1) in a way which is, in the opinion of the Authority, significant, the Authority must (in addition to complying with subsection (4)) publish details of the difference.
+>
+> (6) The Authority may charge a reasonable fee for providing a person with a copy of a draft published under subsection (1).
+>
+> (7) This section also applies to a proposal to alter or replace a statement.
+
+### 12 Approved persons guilty of misconduct
+
+(1) Section 66 of the Financial Services and Markets Act 2000 (performance of regulated activities: disciplinary powers) is amended as follows.
+
+(2) In subsection (3)—
+
+(a) in the opening words, for “it may—” substitute “ it may do one or more of the following— ”, and
+
+(b) after paragraph (a) (but before the “or” at the end of it) insert—
+
+> (aa) suspend, for such period as it considers appropriate, any approval of the performance by him of any function to which the approval relates;
+>
+> (ab) impose, for such period as it considers appropriate, such limitations or other restrictions in relation to the performance by him of any function to which any approval relates as it considers appropriate;
+
+.
+
+(3) After that subsection insert—
+
+> (3A) The period for which a suspension or restriction is to have effect may not exceed two years.
+>
+> (3B) A suspension or restriction may have effect in relation to part of a function.
+>
+> (3C) A restriction may, in particular, be imposed so as to require any person to take, or refrain from taking, specified action.
+>
+> (3D) The Authority may—
+>
+> (a) withdraw a suspension or restriction; or
+>
+> (b) vary a suspension or restriction so as to reduce the period for which it has effect or otherwise to limit its effect.
+
+(4) In subsection (4), for “two years” substitute “ three years ”.
+
+### 13 Publication of decision notices
+
+(1) Section 391 of the Financial Services and Markets Act 2000 (publication) is amended as follows.
+
+(2) In subsection (1)(which prevents the FSA and the person to whom a warning or decision notice is given or copied from publishing the notice or any details concerning it), omit “or decision notice”.
+
+(3) After that subsection insert—
+
+> (1A) A person to whom a decision notice is given or copied may not publish the notice or any details concerning it unless the Authority has published the notice or those details.
+
+(4) In subsection (4) (duty of FSA to publish information about a final notice), before “final notice” insert “ decision notice or ”.
+
+## Measures to protect consumers
+
+### 14 Consumer redress schemes
+
+(1) In the Financial Services and Markets Act 2000, for section 404 (and the italic cross-heading before it) substitute—
+
+> **Consumer redress schemes**
+>
+> **404 Consumer redress schemes**
+>
+> (1) This section applies if—
+>
+> (a) it appears to the Authority that there may have been a widespread or regular failure by relevant firms to comply with requirements applicable to the carrying on by them of any activity;
+>
+> (b) it appears to it that, as a result, consumers have suffered (or may suffer) loss or damage in respect of which, if they brought legal proceedings, a remedy or relief would be available in the proceedings; and
+>
+> (c) it considers that it is desirable to make rules for the purpose of securing that redress is made to the consumers in respect of the failure (having regard to other ways in which consumers may obtain redress).
+>
+> (2) “Relevant firms” means—
+>
+> (a) authorised persons; or
+>
+> (b) payment service providers.
+>
+> (3) The Authority may make rules requiring each relevant firm (or each relevant firm of a specified description) which has carried on the activity on or after the specified date to establish and operate a consumer redress scheme.
+>
+> (4) A “consumer redress scheme” is a scheme under which the firm is required to take one or more of the following steps in relation to the activity.
+>
+> (5) The firm must first investigate whether, on or after the specified date, it has failed to comply with the requirements mentioned in subsection (1)(a) that are applicable to the carrying on by it of the activity.
+>
+> (6) The next step is for the firm to determine whether the failure has caused (or may cause) loss or damage to consumers.
+>
+> (7) If the firm determines that the failure has caused (or may cause) loss or damage to consumers, it must then—
+>
+> (a) determine what the redress should be in respect of the failure; and
+>
+> (b) make the redress to the consumers.
+>
+> (8) A relevant firm is required to take the above steps in relation to any particular consumer even if, after the rules are made, a defence of limitation becomes available to the firm in respect of the loss or damage in question.
+>
+> (9) Before making rules under this section, the Authority must consult the scheme operator of the ombudsman scheme.
+>
+> (10) For the meaning of consumers, see section 404E.
+>
+> **404A Rules under s.404: supplementary**
+>
+> (1) Rules under section 404 may make provision—
+>
+> (a) specifying the activities and requirements in relation to which relevant firms are to carry out investigations under consumer redress schemes;
+>
+> (b) setting out, in relation to any specified description of case, examples of things done, or omitted to be done, that are to be regarded as constituting a failure to comply with a requirement;
+>
+> (c) setting out, in relation to any specified description of case, matters to be taken into account, or steps to be taken, by relevant firms for the purpose of—
+>
+> (i) assessing evidence as to a failure to comply with a requirement; or
+>
+> (ii) determining whether such a failure has caused (or may cause) loss or damage to consumers;
+>
+> (d) as to the kinds of redress that are, or are not, to be made to consumers in specified descriptions of case and the way in which redress is to be determined in specified descriptions of case;
+>
+> (e) as to the things that relevant firms are, or are not, to do in establishing and operating consumer redress schemes;
+>
+> (f) securing that relevant firms are not required to investigate anything occurring after a specified date;
+>
+> (g) specifying the times by which anything required to be done under any consumer redress scheme is to be done;
+>
+> (h) requiring relevant firms to provide information to the Authority;
+>
+> (i) authorising one or more competent persons to do anything for the purposes of, or in connection with, the establishment or operation of any consumer redress scheme;
+>
+> (j) for the nomination or approval by the Authority of persons authorised under paragraph (i);
+>
+> (k) as to the circumstances in which, instead of a relevant firm, the Authority (or one or more competent persons acting on the Authority's behalf) may carry out the investigation and take the other relevant steps under any consumer redress scheme;
+>
+> (l) as to the powers to be available to those carrying out an investigation by virtue of paragraph (k);
+>
+> (m) as to the enforcement of any redress (for example, in the case of a money award, as a debt owed by a relevant firm).
+>
+> (2) The only examples that may be set out in the rules as a result of subsection (1)(b) are examples of things done, or omitted to be done, that have been, or would be, held by a court or tribunal to constitute a failure to comply with a requirement.
+>
+> (3) Matters may not be set out in the rules as a result of subsection (1)(c) if they have not been, or would not be, taken into account by a court or tribunal for the purpose mentioned there.
+>
+> (4) The Authority must exercise the power conferred as a result of subsection (1)(d) so as to secure that, in relation to any description of case, the only kinds of redress to be made are those which it considers to be just in relation to that description of case.
+>
+> (5) In acting under subsection (4), the Authority must have regard (among other things) to the nature and extent of the losses or damage in question.
+>
+> (6) The provision that may be made under subsection (1)(h) includes provision applying (with or without modifications)—
+>
+> (a) any provision of section 165; or
+>
+> (b) any provision of Part 11 relating to that section.
+>
+> (7) The reference in subsection (1)(k) to the other relevant steps under any consumer redress scheme is a reference to the Authority making the determinations mentioned in section 404(6) and (7) (with the firm still required to make the redress).
+>
+> (8) If the rules include provision under subsection (1)(k), they must also include provision for—
+>
+> (a) giving warning and decision notices, and
+>
+> (b) conferring rights on relevant firms to refer matters to the Tribunal,
+>
+> in relation to any determination mentioned in section 404(6) and (7) made by the Authority.
+>
+> (9) Nothing in this section is to be taken as limiting the power conferred by section 404.
+>
+> **404B Complaints to the ombudsman scheme**
+>
+> (1) If—
+>
+> (a) a consumer makes a complaint under the ombudsman scheme in respect of an act or omission of a relevant firm, and
+>
+> (b) at the time the complaint is made, the subject-matter of the complaint falls to be dealt with (or has been dealt with) under a consumer redress scheme,
+>
+> the way in which the complaint is to be determined by the ombudsman is to be as mentioned in subsection (4).
+>
+> (2) If a consumer—
+>
+> (a) is not satisfied with a determination made by a relevant firm under a consumer redress scheme, or
+>
+> (b) considers that a relevant firm has failed to make a determination in accordance with a consumer redress scheme,
+>
+> the consumer may, in respect of that determination or failure, make a complaint under the ombudsman scheme.
+>
+> (3) A complaint mentioned in subsection (1) or (2) is referred to in the following provisions of this section as a “relevant complaint”.
+>
+> (4) A relevant complaint is to be determined by reference to what, in the opinion of the ombudsman, the determination under the consumer redress scheme should be or should have been (subject to subsection (5)).
+>
+> (5) If, in determining a relevant complaint, the ombudsman determines that the firm should make (or should have made) a payment of an amount to the consumer, the amount awarded by the ombudsman (a “money award”) must not exceed the monetary limit (within the meaning of section 229).
+>
+> (6) But the ombudsman may recommend that the firm pay a larger amount.
+>
+> (7) A money award—
+>
+> (a) may specify the date by which the amount awarded is to be paid;
+>
+> (b) may provide for interest to be payable, at a rate specified in the award, on any amount which is not paid by that date; and
+>
+> (c) is enforceable by the consumer in accordance with Part 3 or 3A of Schedule 17 (as the case may be).
+>
+> (8) If, in determining a relevant complaint, the ombudsman determines that the firm should take (or should have taken) particular action in relation to the consumer, the ombudsman may direct the firm to take that action.
+>
+> (9) Compliance with a direction under subsection (8) is enforceable, on the application of the consumer, by an injunction or, in Scotland, by an order for specific performance under section 45 of the Court of Session Act 1988.
+>
+> (10) In consequence of the provision made by this section, sections 228(2) and 229 do not apply in relation to relevant complaints; but all other provision made by or under Part 16 applies in relation to those complaints.
+>
+> (11) The compulsory jurisdiction of the ombudsman scheme is to include the jurisdiction resulting from this section.
+>
+> (12) Nothing in subsection (1) is to be taken as requiring the ombudsman to determine a complaint in any case where (apart from that subsection) the complaint would not fall to be determined (whether as a result of rules made under Schedule 17 or otherwise).
+>
+> (13) Nothing in subsection (2) is to be taken as conferring an entitlement on a person who, for the purposes of the ombudsman scheme, is not an eligible complainant in relation to the subject-matter of the determination mentioned there.
+>
+> **404C Enforcement**
+>
+> The following provisions—
+>
+> (a) Part 14 (disciplinary measures), and
+>
+> (b) so much of this Act as relates to any provision of that Part,
+>
+> (which apply only in relation to authorised persons) are also to apply in relation to relevant firms which are not (or are no longer) authorised persons.
+>
+> **404D Applications to Tribunal to quash rules or provision of rules**
+>
+> (1) Any person may apply to the Tribunal for a review of any rules made under section 404.
+>
+> (2) The Tribunal may—
+>
+> (a) dismiss the application; or
+>
+> (b) make an order (a “quashing order”) quashing any rules made under section 404 or any provision of those rules.
+>
+> (3) An application may be made only if permission to make it has first been obtained from the Tribunal.
+>
+> (4) The Tribunal may grant permission to make an application only if it considers that the applicant has a sufficient interest in the matter to which the application relates.
+>
+> (5) The general rule is that, in determining an application, the Tribunal is to apply the principles applicable on an application for judicial review.
+>
+> (6) If (or so far as) an application relates to an example set out in the rules as a result of section 404A(1)(b), the Tribunal may determine whether the example constitutes a failure to comply with the requirement in question.
+>
+> (7) If (or so far as) an application relates to a matter set out in the rules as a result of section 404A(1)(c), the Tribunal may determine whether the matter should be taken into account as mentioned in that provision.
+>
+> (8) In the case of an application within subsection (6) or (7), the Tribunal's jurisdiction under that subsection is in addition to its jurisdiction under subsection (5).
+>
+> (9) A quashing order may be enforced as if it were an order made, on an application for judicial review, by the High Court or, in Scotland, the Court of Session.
+>
+> (10) The Tribunal may award damages to the applicant if—
+>
+> (a) the application includes a claim for damages arising from any matter to which the application relates; and
+>
+> (b) the Tribunal is satisfied that an award would have been made by the High Court or, in Scotland, the Court of Session if the claim had been made in an action begun in that court by the applicant when making the application.
+>
+> (11) An award of damages under subsection (10) may be enforced as if it were an award made by the High Court or, in Scotland, the Court of Session.
+>
+> (12) In the case of any proceedings under this section, the judge presiding at the proceedings must be—
+>
+> (a) a judge of the High Court or the Court of Appeal or a judge of the Court of Session; or
+>
+> (b) such other person as may be agreed from time to time by—
+>
+> (i) the Lord Chief Justice, the Lord President or the Lord Chief Justice of Northern Ireland (as the case may be); and
+>
+> (ii) the Senior President of Tribunals.
+>
+> (13) Section 133 does not apply in the case of an application under this section, but—
+>
+> (a) Tribunal Procedure Rules may make provision for the suspension of rules made under section 404 or of any provision of those rules, pending determination of the application; and
+>
+> (b) in the case of an application within subsection (6) or (7), the Tribunal may consider any evidence relating to the application's subject-matter, whether or not it was available at the time the rules were made.
+>
+> (14) If—
+>
+> (a) the Tribunal refuses to grant permission to make an application under this section, and
+>
+> (b) on an appeal by the applicant, the Court of Appeal grants the permission,
+>
+> the Court of Appeal may go on to decide the application under this section.
+>
+> **404E Meaning of “consumers”**
+>
+> (1) For the purposes of sections 404 to 404B “consumers” means persons who—
+>
+> (a) have used, or may have contemplated using, any of the services within subsection (2); or
+>
+> (b) have relevant rights or interests in relation to any of the services within that subsection.
+>
+> (2) The services within this subsection are services provided by—
+>
+> (a) authorised persons in carrying on regulated activities;
+>
+> (b) authorised persons in carrying on a consumer credit business in connection with the accepting of deposits;
+>
+> (c) authorised persons in communicating, or approving the communication by others of, invitations or inducements to engage in investment activity;
+>
+> (d) authorised persons who are investment firms, or credit institutions, in providing relevant ancillary services;
+>
+> (e) persons acting as appointed representatives; or
+>
+> (f) payment service providers in providing payment services.
+>
+> (3) A person (“P”) has a “relevant right or interest” in relation to any services within subsection (2) if P has a right or interest—
+>
+> (a) which is derived from, or is otherwise attributable to, the use of the services by others; or
+>
+> (b) which may be adversely affected by the use of the services by persons acting on P's behalf or in a fiduciary capacity in relation to P.
+>
+> (4) If a person is providing a service within subsection (2) as a trustee, the persons who have been, or may have been, beneficiaries of the trust are to be treated as persons who have used, or may have contemplated using, the service.
+>
+> (5) A person who deals with another person (“B”) in the course of B providing a service within subsection (2) is to be treated as using the service.
+>
+> (6) In this section—
+>
+> - “accepting”, in relation to deposits, includes agreeing to accept;
+> - “consumer credit business” has the same meaning as in the Consumer Credit Act 1974 (see section 189(1));
+> - “credit institution” has the meaning given by section 138(1B);
+> - “engage in investment activity” has the meaning given by section 21;
+> - “payment services” has the same meaning as in the Payment Services Regulations 2009;
+> - “payment service provider” means a person who is a payment service provider for the purposes of those regulations as a result of falling within any of paragraphs (a) to (e) of the definition in regulation 2(1);
+> - “relevant ancillary services” has the meaning given by section 138(1C).
+>
+> **404F Other definitions etc**
+>
+> (1) For the purposes of sections 404 to 404B—
+>
+> - “redress” includes—
+>
+>   - (a) interest; and
+>   - (b) a remedy or relief which could not be awarded in legal proceedings;
+>
+> - “specified” means specified in rules made under section 404.
+>
+> (2) In determining for the purposes of those sections whether an authorised person has failed to comply with a requirement, anything which an appointed representative has done or omitted as respects business for which the authorised person has accepted responsibility is to be treated as having been done or omitted by the authorised person.
+>
+> (3) References in those sections to the failure by a relevant firm to comply with a requirement applicable to the carrying on by it of any activity include anything done, or omitted to be done, by it in carrying on the activity—
+>
+> (a) which is in breach of a duty or other obligation, prohibition or restriction; or
+>
+> (b) which otherwise gives rise to the availability of a remedy or relief in legal proceedings.
+>
+> (4) It does not matter whether—
+>
+> (a) the duty or other obligation, prohibition or restriction, or
+>
+> (b) the remedy or relief,
+>
+> arises as a result of any provision made by or under this or any other Act, a rule of law or otherwise.
+>
+> (5) References in sections 404 to 404B to a relevant firm include—
+>
+> (a) a person who was at any time a relevant firm but has subsequently ceased to be one; and
+>
+> (b) a person who has assumed a liability (including a contingent one) incurred by a relevant firm in respect of a failure by the firm to comply with a requirement applicable to the carrying on by it of any activity.
+>
+> (6) References in those sections to the carrying on of an activity by a relevant firm are, accordingly, to be read in that case with the appropriate modifications.
+>
+> (7) If the Authority varies a permission or authorisation of a person so as to impose requirements on the person to establish and operate a scheme which corresponds to, or is similar to, a consumer redress scheme, the provision that may be included in the permission or authorisation as varied includes—
+>
+> (a) provision imposing requirements on the person corresponding to those that could be included in rules made under section 404; and
+>
+> (b) provision corresponding to section 404B.
+>
+> (8) In subsection (7) the reference to the variation of a permission or authorisation by the Authority is a reference to—
+>
+> (a) the variation under section 44 or 45 of a Part IV permission; or
+>
+> (b) the variation under regulation 8 or 11 of the Payment Services Regulations 2009 of an authorisation under those regulations.
+>
+> **404G Power to widen the scope of consumer redress schemes**
+>
+> (1) The Treasury may by order amend the definition of “relevant firms” in section 404 or the definition of “consumers” in section 404E (or both).
+>
+> (2) An order under this section may make consequential amendments of any provision of sections 404 to 404F.
+
+(2) This section has effect in relation to failures occurring before the commencement of this section (as well as in relation to failures occurring at or after the commencement of this section).
+
+### 15 Restrictions on provision of credit card cheques (prospective)
+
+(1) The Consumer Credit Act 1974 (“the CCA 1974”) is amended as follows.
+
+(2) After section 51 insert—
+
+> **51A Restrictions on provision of credit card cheques**
+>
+> (1) A person who provides credit card cheques otherwise than in accordance with this section commits an offence.
+>
+> (2) Credit card cheques may be provided only to a person who has asked for them.
+>
+> (3) They may be provided only on a single occasion in respect of each request that is made.
+>
+> (4) The number of cheques provided in respect of a request must not exceed three (or, if less, the number requested).
+>
+> (5) Where a single request is made for the provision of credit card cheques in connection with more than one credit-token agreement, subsections (3) and (4) apply as if a separate request had been made in relation to each agreement.
+>
+> (6) Where more than one request for the provision of cheques is made in the same document or at the same time—
+>
+> (a) they may be provided in respect of only one of the requests, but
+>
+> (b) if the requests relate to more than one credit-token agreement, in relation to each agreement they may be provided only in respect of one of the requests made in relation to that agreement.
+>
+> (7) “Credit card cheque” means a cheque (whether or not drawn on a banker) which, whenever used, will result in the provision of credit under a credit-token agreement.
+>
+> (8) Accordingly, “credit card cheque” does not include a cheque to be used only in connection with a current account.
+>
+> **51B Section 51A: exemption for business**
+>
+> (1) Section 51A does not apply to credit card cheques provided in connection with a credit-token agreement that is entered into by the debtor wholly or predominantly for the purposes of a business carried on, or intended to be carried on, by the debtor.
+>
+> (2) If a credit-token agreement includes a declaration made by the debtor to the effect that the agreement is entered into as mentioned in subsection (1), the agreement is treated for the purposes of that subsection as having been so entered into.
+>
+> (3) Subsection (2) does not apply if, when the agreement is entered into—
+>
+> (a) the creditor, or
+>
+> (b) any person who has acted on behalf of the creditor in connection with the entering into of the agreement,
+>
+> knows, or has reasonable cause to suspect, that the agreement is not entered into as mentioned in subsection (1).
+>
+> (4) The Secretary of State may by order make provision about the form, content and signing of declarations for the purposes of subsection (2).
+>
+> (5) Where an agreement has two or more creditors, references in subsection (3) to the creditor are to any one or more of them.
+
+(3) In Schedule 1 (prosecution and punishment of offences), after the entry relating to section 51(1) insert—
+
+> |  |  |  |  |
+> |---|---|---|---|
+> | 51A(1) | Breach of restrictions on provision of credit card cheques. | (a) Summarily. (b) On indictment. | The statutory maximum. A fine. |
+
+(4) An offence under section 51A of the CCA 1974 is to be treated for the purposes of Part 3 of the Regulatory Enforcement and Sanctions Act 2008 (civil sanctions) as contained in the CCA 1974 immediately before the day on which that Act of 2008 was passed.
+
+## Financial Services Compensation Scheme
+
+### 16 Contribution to costs of special resolution regime
+
+(1) In the Financial Services and Markets Act 2000, for section 214B substitute—
+
+> **214B Contribution to costs of special resolution regime**
+>
+> (1) This section applies if—
+>
+> (a) a stabilisation power under Part 1 of the Banking Act 2009 has been exercised in respect of a bank, building society or credit union within the meaning of that Part (“the institution”); and
+>
+> (b) the Treasury think that the institution was or was likely to have been, or but for the exercise of the power would have become, unable to satisfy claims against it.
+>
+> (2) The Treasury may require the scheme manager to make payments (to the Treasury or any other person) in respect of expenses of a prescribed description incurred (by the Treasury or that person) in connection with the exercise of the power.
+>
+> (3) Subsection (2) is subject to section 214C (limit on amount of special resolution regime payments).
+>
+> (4) In subsection (2) “expenses” includes interest at a specified rate on the difference, at any time, between—
+>
+> (a) the total amount of expenses (including interest) incurred at or before that time; and
+>
+> (b) the total amount recovered, or received from the scheme manager, in respect of the institution, at or before that time, by—
+>
+> (i) the Treasury; and
+>
+> (ii) any other person who has incurred expenses in connection with the exercise of the power that are of a description prescribed under subsection (2).
+>
+> (5) Any payment made by the scheme manager under subsection (2) is to be treated for the purposes of this Part as an expense under the compensation scheme.
+>
+> (6) In this section and section 214C “specified rate” means a rate specified by the Treasury.
+>
+> (7) Different rates may be specified under different provisions or for different periods.
+>
+> (8) A rate may be specified by reference to a rate set (from time to time) by any person.
+>
+> > **214C Limit on amount of special resolution regime payments**
+> >
+> > (1) The total amount of special resolution regime payments required to be made in respect of a person (“the institution”) may not exceed—
+> >
+> > (a) notional net expenditure (see subsection (3)), minus
+> >
+> > (b) actual net expenditure (see subsection (4)).
+> >
+> > (2) A “special resolution regime payment” is—
+> >
+> > (a) a payment under section 214B(2); or
+> >
+> > (b) a payment required to be made by the scheme manager by virtue of section 61 of the Banking Act 2009 (special resolution regime: compensation).
+> >
+> > (3) Notional net expenditure is—
+> >
+> > (a) the total amount of expenses that would have been incurred under the compensation scheme in respect of the institution if the stabilisation power had not been exercised and the institution had been unable to satisfy claims against it, minus
+> >
+> > (b) the total amount that would have been likely, at the time when the power was exercised, to be recovered by the scheme manager in respect of the institution in those circumstances.
+> >
+> > (4) Actual net expenditure is—
+> >
+> > (a) the total amount of expenses (other than special resolution regime payments) actually incurred by the scheme manager in respect of the institution, minus
+> >
+> > (b) the total amount actually recovered by the scheme manager in respect of the institution.
+> >
+> > (5) In subsection (3)(a) “expenses” includes interest at a specified rate on the difference, at any time, between—
+> >
+> > (a) the total amount of expenses (including interest) that would have been incurred as mentioned in subsection (3)(a) at or before that time; and
+> >
+> > (b) the total amount that would have been likely to have been recovered as mentioned in subsection (3)(b) at or before that time.
+> >
+> > (6) In subsection (4)(a) “expenses” includes interest at a specified rate on the difference, at any time, between—
+> >
+> > (a) the total amount of expenses (including special resolution regime payments and interest) actually incurred by the scheme manager in respect of the institution at or before that time; and
+> >
+> > (b) the total amount actually recovered by the scheme manager in respect of the institution at or before that time.
+> >
+> > (7) In paragraph (b) of subsections (3) to (6) references to amounts recovered (or likely to have been recovered) by the scheme manager do not include any levy received (or likely to have been received) by it.
+> >
+> > **214D Contributions under section 214B: supplementary**
+> >
+> > (1) This section supplements sections 214B and 214C.
+> >
+> > (2) The scheme manager must determine—
+> >
+> > (a) the amounts of expenses (other than interest) that would have been incurred as mentioned in section 214C(3)(a); and
+> >
+> > (b) the time or times at which those amounts would have been likely to have been incurred.
+> >
+> > (3) The Treasury, or a person designated by the Treasury, must in accordance with regulations appoint a person (“the valuer”) to determine—
+> >
+> > (a) the amounts that would have been likely, at the time when the stabilisation power was exercised, to be recovered as mentioned in section 214C(3)(b); and
+> >
+> > (b) the time or times at which those amounts would have been likely to be recovered.
+> >
+> > The person appointed under this subsection may be the person appointed as valuer under section 54 of the Banking Act 2009 in respect of the exercise of the stabilisation power.
+> >
+> > (4) Regulations may enable the Treasury to specify principles to be applied by—
+> >
+> > (a) the scheme manager when exercising functions under subsection (2); or
+> >
+> > (b) the valuer when exercising functions under subsection (3).
+> >
+> > (5) The regulations may in particular enable the Treasury to require the scheme manager or valuer—
+> >
+> > (a) to use, or not to use, specified methods;
+> >
+> > (b) to take specified matters into account in a specified manner; or
+> >
+> > (c) not to take specified matters into account.
+> >
+> > (6) Regulations—
+> >
+> > (a) must provide for independent verification of expenses within section 214B(2);
+> >
+> > (b) may provide for the independent verification of other matters; and
+> >
+> > (c) may contain provision about the appointment and payment of an auditor.
+> >
+> > (7) Regulations—
+> >
+> > (a) must contain provision enabling the valuer to reconsider a decision;
+> >
+> > (b) must provide a right of appeal to a court or tribunal against any decision of the valuer;
+> >
+> > (c) may provide for payment of the valuer; and
+> >
+> > (d) may apply (with or without modifications) or make provision corresponding to—
+> >
+> > (i) any provision of sections 54 to 56 of the Banking Act 2009; or
+> >
+> > (ii) any provision made, or that could be made, by virtue of any of those sections.
+> >
+> > (8) Regulations may make provision for payments under section 214B(2) to be made—
+> >
+> > (a) before any verification required by the regulations is undertaken, and
+> >
+> > (b) before the limit imposed by section 214C is calculated,
+> >
+> > subject to any necessary later adjustment.
+> >
+> > (9) If they do so they must provide that the amount of any payment required by virtue of subsection (8) must not be such as to give rise to an expectation that an amount will be required to be repaid to the scheme manager (once any necessary verification has been undertaken and the limit imposed by section 214C has been calculated).
+> >
+> > (10) Regulations may—
+> >
+> > (a) make provision supplementing section 214B or 214C or this section;
+> >
+> > (b) make further provision about the method by which amounts to be paid under section 214B(2) are to be determined;
+> >
+> > (c) make provision about timing;
+> >
+> > (d) make provision about procedures to be followed;
+> >
+> > (e) provide for discretionary functions to be exercised by a specified body or by persons of a specified class; and
+> >
+> > (f) make provision about the resolution of disputes (which may include provision conferring jurisdiction on a court or tribunal).
+> >
+> > (11) “Regulations” means regulations made by the Treasury.
+> >
+> > (12) Any payment made by the Treasury by virtue of this section is to be met out of money provided by Parliament.
+> >
+> > (13) The compensation scheme may make provision about payments under section 214B(2) and levies in connection with such payments (except provision inconsistent with any provision made by or under section 214B or 214C or this section).
+
+(2) Sections 214B to 214D of the Financial Services and Markets Act 2000 (as substituted by subsection (1)) apply to any case where a stabilisation power was exercised before the commencement of this section as if the references in sections 214B(4) and 214C(5) and (6) of that Act to any time were to any time on or after 19 November 2009.
+
+### 17 Power to require FSCS manager to act in relation to other schemes
+
+In the Financial Services and Markets Act 2000, after Part 15 insert—
+
+> **Part 15A — Power to require FSCS manager to act in relation to other schemes**
+>
+> **Introduction**
+>
+> **224B Meaning of “relevant scheme” etc**
+>
+> (1) The following provisions apply for the purposes of this Part.
+>
+> (2) “Relevant scheme” means a scheme or arrangement (other than the FSCS) for the payment of compensation (in certain cases) to customers of persons who provide financial services or carry on a business connected with the provision of such services.
+>
+> (3) References to the manager of a relevant scheme are to the person who administers it or (if there is no such person) the person responsible for making payments under it.
+>
+> (4) “The FSCS” means the Financial Services Compensation Scheme (see section 213(2)).
+>
+> (5) “The FSCS manager” means the scheme manager as defined by section 212(1).
+>
+> (6) “Expense” includes anything that, if incurred in relation to the FSCS, would amount to an expense for the purposes of the FSCS.
+>
+> (7) “Notice” means a notice in writing.
+>
+> (8) In subsection (2)—
+>
+> (a) “customers” includes customers outside the United Kingdom;
+>
+> (b) “persons” includes persons outside the United Kingdom;
+>
+> (c) references to the provision of financial services include the provision outside the United Kingdom of such services.
+>
+> (9) This Part applies to cases where the manager of the relevant scheme is the Treasury or any other Minister of the Crown as it applies to cases where that manager is any other person.
+>
+> **Power to require FSCS manager to act**
+>
+> **224C Power to require FSCS manager to act on behalf of manager of relevant scheme**
+>
+> (1) This section applies if compensation is payable under a relevant scheme.
+>
+> (2) The Treasury may by notice require the FSCS manager to exercise (on behalf of the manager of the relevant scheme) specified functions in respect of specified claims for compensation under the relevant scheme.
+>
+> (3) A notice may be given only with the consent of the manager of the relevant scheme.
+>
+> (4) In subsection (2) “specified” means specified, or of a description specified, in the notice.
+>
+> (5) Claims or descriptions of claims may be specified by reference to the persons or description of persons whose claims they are.
+>
+> **224D Cases where FSCS manager may decline to act**
+>
+> (1) This section applies where a notice under section 224C(2) (a “section 224C notice”) has been given in respect of a relevant scheme.
+>
+> (2) The FSCS manager is not under a duty to comply with the section 224C notice if, as soon as reasonably practicable after receiving it, the FSCS manager gives a notice to the Treasury stating that a ground set out in section 224E applies.
+>
+> (3) Where a notice under subsection (2) is given, the FSCS manager may recover from the manager of the relevant scheme an amount equal to the total expenses incurred by the FSCS manager in connection with the relevant scheme in the period—
+>
+> (a) beginning with the giving of the section 224C notice; and
+>
+> (b) ending with the giving of the notice under subsection (2).
+>
+> (4) The duty to comply with the section 224C notice ceases if, after starting to comply with it, the FSCS manager gives a notice to the Treasury and the manager of the relevant scheme stating that a ground set out in section 224E applies.
+>
+> (5) Where a notice under subsection (4) is given, the FSCS manager must give the Treasury such information connected with the FSCS manager's exercise of functions in relation to the relevant scheme as the Treasury may reasonably require.
+>
+> (6) Any notice under this section—
+>
+> (a) may be given only if, before giving it, the FSCS manager has taken reasonable steps to deal with anything that is causing the ground or grounds in question to apply; and
+>
+> (b) must contain details of those steps.
+>
+> **224E Grounds for declining to act**
+>
+> (1) This section sets out the grounds referred to in section 224D(2) and (4).
+>
+> (2) The first ground is that the FSCS manager is not satisfied that it will be able to obtain any information required in order to comply with the section 224C notice.
+>
+> (3) The second ground is that the FSCS manager is not satisfied that it will be able to obtain any advice or other assistance from the manager of the relevant scheme that is required in order to comply with the section 224C notice.
+>
+> (4) The third ground is—
+>
+> (a) that the FSCS manager has not received an amount at least equal to the total expenses it expects to incur in connection with its relevant scheme functions; and
+>
+> (b) either—
+>
+> (i) that there are no arrangements for the provision of funds to the FSCS manager to enable it to exercise those functions and meet those expenses; or
+>
+> (ii) that the FSCS manager considers that any such arrangements are unsatisfactory.
+>
+> (5) The fourth ground is that the FSCS manager considers that complying with the section 224C notice would detrimentally affect the exercise of its functions under the FSCS.
+>
+> (6) The fifth ground is—
+>
+> (a) that there is no undertaking from the manager of the relevant scheme not to bring proceedings against the FSCS manager; or
+>
+> (b) that the FSCS manager considers that the terms of any such undertaking are unsatisfactory.
+>
+> (7) The sixth ground is—
+>
+> (a) that there are no arrangements for the reimbursement of any expenses incurred by the FSCS manager in connection with any proceedings brought against it in respect of its relevant scheme functions (including expenses incurred in meeting any award of damages made against it); or
+>
+> (b) that the FSCS manager considers that any such arrangements are unsatisfactory.
+>
+> (8) In subsection (6) references to an undertaking of the kind mentioned there are to an undertaking not to bring proceedings in respect of the FSCS manager's relevant scheme functions except proceedings in respect of an act or omission of the FSCS manager that is alleged to have been in bad faith.
+>
+> (9) In this section “proceedings” includes proceedings outside the United Kingdom.
+>
+> **Rules**
+>
+> **224F Rules about relevant schemes**
+>
+> (1) The Authority may by rules make provision in connection with the exercise by the FSCS manager of functions in respect of relevant schemes.
+>
+> (2) The provision that may be made by the rules includes any provision corresponding to provision that could be contained in the FSCS; but this is subject to subsections (3) and (4).
+>
+> (3) The rules may confer on the FSCS manager a power to impose levies on authorised persons (or any class of authorised persons) for the purpose of meeting its management expenses incurred in connection with its functions in respect of relevant schemes.
+>
+> (4) But if the rules confer such a power they must provide that the power may be exercised in relation to expenses incurred in connection with a relevant scheme only if the FSCS manager has tried its best to obtain reimbursement of the expenses from the manager of the relevant scheme.
+>
+> (5) The rules may apply any provision of the FSCS, with or without modifications.
+>
+> (6) An amount payable to the FSCS manager as a result of any provision of the rules made by virtue of subsection (3) may be recovered as a debt due to the FSCS manager.
+>
+> (7) References to the FSCS manager's “management expenses” are to its expenses incurred otherwise than in paying compensation.
+
+## Powers to require information
+
+### 18 Information relating to financial stability
+
+(1) The Financial Services and Markets Act 2000 is amended as follows.
+
+(2) After section 165 insert—
+
+> **165A Authority's power to require information: financial stability**
+>
+> (1) The Authority may, by notice in writing given to a person to whom this section applies, require the person—
+>
+> (a) to provide specified information or information of a specified description; or
+>
+> (b) to produce specified documents or documents of a specified description.
+>
+> (2) This section applies to—
+>
+> (a) a person who has a legal or beneficial interest in any of the assets of a relevant investment fund;
+>
+> (b) a person who is responsible for the management of a relevant investment fund;
+>
+> (c) a person (a “service provider”) who provides any service to an authorised person;
+>
+> (d) a person prescribed by an order made by the Treasury or any person of a description prescribed by such an order (and see also section 165C);
+>
+> (e) a person who is connected with a person to whom this section applies as a result of any of the above paragraphs.
+>
+> (3) This section applies only to information and documents that the Authority considers are, or might be, relevant to the stability of one or more aspects of the UK financial system.
+>
+> (4) A notice may be given to a service provider, or to a person who is connected with a service provider, only if the Authority considers that—
+>
+> (a) the service or the way in which it (or any part of it) is provided, or
+>
+> (b) any failure to provide the service (or any part of it),
+>
+> poses, or would be likely to pose, a serious threat to the stability of the UK financial system.
+>
+> (5) Information or documents required under this section must be provided or produced—
+>
+> (a) before the end of such reasonable period as may be specified; and
+>
+> (b) at such place as may be specified.
+>
+> (6) The Authority may require any information provided under this section to be provided in such form as it may reasonably require.
+>
+> (7) The Authority may require—
+>
+> (a) any information provided, whether in a document or otherwise, to be verified in such manner as it may reasonably require; or
+>
+> (b) any document produced to be authenticated in such manner as it may reasonably require.
+>
+> (8) In this section—
+>
+> - “management” includes any of the activities listed in Annex II to the UCITS directive;
+>
+> - “relevant investment fund” means an investment fund whose assets consist of or include financial instruments which—
+>
+>   - (a) are traded in the United Kingdom; or
+>   - (b) were issued by a body incorporated in the United Kingdom;
+>
+> - “service” includes facility;
+>
+> - “specified” means specified in the notice.
+>
+> (9) For the purposes of the definition of “relevant investment fund”—
+>
+> (a) arrangements may constitute an investment fund even if there is only one person participating in the arrangements; and
+>
+> (b) the reference to financial instruments has the meaning given by Article 4.1(17) of the markets in financial instruments directive.
+>
+> (10) For the purposes of this section a person is connected with another person (“A”) if the person is or has at any relevant time been—
+>
+> (a) a member of A's group;
+>
+> (b) a controller of A;
+>
+> (c) any other member of a partnership of which A is a member; or
+>
+> (d) in relation to A, a person mentioned in Part 1 of Schedule 15 (reading references in that Part to the authorised person as references to A).
+>
+> **165B Safeguards etc in relation to exercise of power under section 165A**
+>
+> (1) If the Authority proposes to impose a requirement on a person under section 165A, it must give the person a notice in writing warning the person that the Authority is proposing to impose the requirement.
+>
+> (2) The notice under subsection (1) must—
+>
+> (a) give the Authority's reasons for proposing to impose the requirement; and
+>
+> (b) specify a reasonable period within which the person may make representations to the Authority.
+>
+> (3) The Authority must then decide, within a reasonable period, whether to impose the requirement.
+>
+> (4) Subsections (1) to (3) do not apply in any case where the Authority is satisfied that it is necessary for the information or documents to be provided or produced without delay.
+>
+> (5) If the Authority imposes a requirement on a person under section 165A, the notice under that section must give the Authority's reasons for imposing the requirement.
+>
+> (6) The Authority must prepare a statement of its policy with respect to the exercise of the power conferred by section 165A.
+>
+> (7) The statement requires the approval of the Treasury.
+>
+> (8) If the Treasury approve the statement, the Authority must publish it.
+>
+> (9) The power conferred by section 165A may not be exercised before the statement has been published.
+>
+> **165C Orders under section 165A(2)(d)**
+>
+> (1) The Treasury may make an order under section 165A(2)(d) only if they consider that—
+>
+> (a) the activities carried on by the prescribed person or persons of the prescribed description, or the way in which those activities (or any part of them) are carried on, or
+>
+> (b) any failure to carry on those activities (or any part of them),
+>
+> pose, or would be likely to pose, a serious threat to the stability of the UK financial system.
+>
+> (2) Subject as follows, an order under section 165A(2)(d) may not be made unless a draft of the order has been laid before, and approved by a resolution of, each House of Parliament.
+>
+> (3) Subsection (2) does not apply in any case where the Treasury are satisfied that it is necessary to make an order under section 165A(2)(d) without laying a draft for approval.
+>
+> (4) In that case, the order—
+>
+> (a) must be laid before Parliament after being made; and
+>
+> (b) ceases to have effect at the end of the relevant period unless before the end of that period it is approved by a resolution of each House of Parliament.
+>
+> (5) If an order ceases to have effect as a result of subsection (4)(b) that does not affect—
+>
+> (a) anything done under it; or
+>
+> (b) the power to make a new one.
+>
+> (6) “Relevant period” means a period of 28 days beginning with the day on which the order is made.
+>
+> (7) In calculating the relevant period no account is to be taken of any time during which Parliament is dissolved or prorogued or during which both Houses are adjourned for more than four days.
+>
+> (8) If a statutory instrument containing an order under section 165A(2)(d) would, apart from this subsection, be treated as a hybrid instrument for the purposes of the Standing Orders of either House of Parliament, it is to proceed in that House as if it were not a hybrid instrument.
+
+(3) After section 169 insert—
+
+> **169A Support of overseas regulator with respect to financial stability**
+>
+> (1) At the request of an overseas regulator, the Authority may exercise a corresponding section 165A power.
+>
+> (2) An “overseas regulator” means an authority in a country or territory outside the United Kingdom which exercises functions with respect to the stability of the financial system operating in that country or territory.
+>
+> (3) A “corresponding section 165A power” means a power corresponding to the one conferred by section 165A, but reading references in that section to the stability of the UK financial system as references to the stability of the financial system operating in the country or territory of the overseas regulator.
+>
+> (4) The following provisions apply in relation to the exercise of the corresponding section 165A power—
+>
+> (a) section 165B(1) to (5); and
+>
+> (b) section 169(3), (4)(a) and (d), (5) and (6).
+>
+> (5) In this section “the financial system” includes—
+>
+> (a) financial markets and exchanges;
+>
+> (b) activities that would be regulated activities if carried on in the United Kingdom; and
+>
+> (c) other activities connected with financial markets and exchanges.
+
+### 19 Asset protection scheme etc
+
+(1) The Treasury may, by notice in writing, require a person who participates (or is proposing to participate) in the asset protection scheme or a qualifying scheme—
+
+(a) to provide such information, or
+
+(b) to produce such documents,
+
+as they may reasonably require for the purposes of, or in connection with, the scheme or a relevant scheme agreement.
+
+(2) “The asset protection scheme” means the scheme known as the Asset Protection Scheme that was the subject of a statement made by the Chancellor of the Exchequer on 26 February 2009.
+
+(3) “Qualifying scheme” means a scheme specified in an order made by the Treasury.
+
+(4) “Relevant scheme agreement” means an agreement entered into (or proposed to be entered into) under the asset protection scheme or a qualifying scheme.
+
+(5) The information or documents must be provided or produced at such times, and at such place, as the Treasury may specify in the notice.
+
+(6) The Treasury may require the information to be provided in such form as they may reasonably require.
+
+(7) A requirement imposed on a person as a result of this section is enforceable by an injunction or, in Scotland, by an order for specific performance under section 45 of the Court of Session Act 1988.
+
+(8) The Treasury may specify a scheme in an order under subsection (3) only if it appears to them that the purpose of the scheme corresponds to, or is connected with, the purpose of the asset protection scheme.
+
+(9) An order under subsection (3) is subject to negative resolution procedure.
+
+## Banking Act 2009
+
+### 20 Services forming part of recognised inter-bank payment systems
+
+In Part 5 of the Banking Act 2009 (inter-bank payment systems), after section 206 insert—
+
+> **206A Services forming part of recognised inter-bank payment systems**
+>
+> (1) The Treasury may by order make provision applying any provision of this Part to persons who are service providers in relation to a recognised inter-bank payment system.
+>
+> (2) A person is a service provider in relation to a recognised inter-bank payment system if—
+>
+> (a) the person provides services that form part of the arrangements constituting the system, and
+>
+> (b) the person is specified as a person within paragraph (a) by the Treasury in the recognition order made in respect of the system.
+>
+> (3) Telecommunication or information technology services are examples of the kind of services that may fall within subsection (2)(a).
+>
+> (4) Before specifying persons under subsection (2)(b), the Treasury must—
+>
+> (a) consult the Bank of England and the FSA,
+>
+> (b) notify the operator of the system and the persons whom the Treasury proposes to specify, and
+>
+> (c) consider any representations made.
+>
+> (5) The Treasury may not specify the Bank of England under subsection (2)(b).
+>
+> (6) Before making an order under subsection (1), the Treasury must consult—
+>
+> (a) the Bank of England,
+>
+> (b) the FSA, and
+>
+> (c) such other persons as the Treasury consider appropriate.
+>
+> (7) An order under subsection (1)—
+>
+> (a) may modify any provision of this Part in its application to persons who are service providers in relation to a recognised inter-bank payment system;
+>
+> (b) may (but need not) take the form of textual amendment.
+>
+> (8) An order under subsection (1)—
+>
+> (a) is to be made by statutory instrument, and
+>
+> (b) may not be made unless a draft has been laid before and approved by resolution of each House of Parliament.
+
+### 21 Minor amendments of provision made by Banking Act 2009
+
+(1) The Banking Act 2009 is amended as follows.
+
+(2) After section 48 insert—
+
+> **48A Creation of liabilities**
+>
+> (1) The provision that may be made by a property transfer instrument or order in reliance on section 33(1)(b), 42(3)(b), 43(3)(b), 44(4)(c), 45(3)(b) or 46(3)(b) includes provision for the creation of liabilities.
+>
+> (2) The provision may be framed by reference to an agreement which has been or is to be entered into, or anything else which has been or is to be done, by any person (including a person other than the person making the instrument or order).
+
+(3) In section 55 (independent valuer: supplemental), at the end insert—
+
+> (10) But subsection (9)(b) does not apply if the order is contained in a statutory instrument that contains an order to which section 62 applies.
+
+(4) In section 56 (independent valuer: money)—
+
+(a) in subsection (1), after paragraph (c) (but before the “and” at the end of it) insert—
+
+> (ca) persons mentioned in section 54(4)(b),
+
+, and
+
+(b) at the end insert—
+
+> (6) But subsection (5)(b) does not apply if the order is contained in a statutory instrument that contains an order to which section 62 applies.
+
+(5) In section 84 (application of Part 1 to building societies), in the entry in the table relating to sections 49 to 62, in paragraph (c) of the third column, at the end insert “ but the Treasury may make a third party compensation order ”.
+
+(6) In section 145(6) (bank administration: general powers, duties and effect), in table 1 of applied provisions (Schedule B1 to the Insolvency Act 1986), for the entry relating to paragraph 80 substitute—
+
+> |  |  |  |
+> |---|---|---|
+> | Para. 79 | Termination: successful rescue | (a) Ignore sub-para. (2). (b) See section 153. |
+
+(7) In section 153 (successful rescue), for subsections (2) and (3) substitute—
+
+> (2) The bank administrator shall make an application under paragraph 79 of Schedule B1 to the Insolvency Act 1986 (court ending administration on achievement of objectives).
+>
+> (3) A bank administrator who makes an application in accordance with subsection (2) must send a copy to the FSA.
+
+(8) In section 219(3A) of the Financial Services and Markets Act 2000 (which was inserted by section 176(6) of the Banking Act 2009)—
+
+(a) after “a bank,” insert “ building society or credit union, ”, and
+
+(b) for “the bank or the Bank of England” substitute “ the bank, building society or credit union, or the Bank of England, ”.
+
+## Director of Savings
+
+### 22 Administration of court funds by Director of Savings
+
+(1) In this section “relevant function” means a function of the Accountant General of the Senior Courts (“the Accountant General”) under court funds rules.
+
+(2) The Director of Savings (“the Director”) may discharge a relevant function if appointed by the Accountant General under court funds rules to do so.
+
+(3) The functions of the Director that are within section 69(1)(a) of the Deregulation and Contracting Out Act 1994 (contracting out of statutory functions) include any power of the Director, conferred under court funds rules, to discharge a relevant function.
+
+(4) In this section “court funds rules” means rules under section 38(7) of the Administration of Justice Act 1982.
+
+## General
+
+### 23 Orders or regulations
+
+(1) This section applies to orders or regulations under this Act made by the Treasury or the Secretary of State.
+
+(2) Orders or regulations—
+
+(a) may contain incidental, supplementary, consequential, transitory, transitional or saving provision, and
+
+(b) may make different provision for different cases or circumstances.
+
+(3) Orders or regulations are to be made by statutory instrument.
+
+(4) Where orders or regulations are subject to “affirmative resolution procedure” the orders or regulations may not be made unless a draft of the statutory instrument containing them has been laid before, and approved by a resolution of, each House of Parliament.
+
+(5) Where orders or regulations are subject to “negative resolution procedure” the statutory instrument containing them is subject to annulment in pursuance of a resolution of either House of Parliament.
+
+### 24 Minor and consequential amendments
+
+(1) Schedule 2 contains minor and consequential amendments.
+
+(2) In that Schedule—
+
+- Part 1 contains amendments of the Financial Services and Markets Act 2000, and
+- Part 2 contains amendments of other legislation.
+
+(3) The Treasury or the Secretary of State may by order make such other provision amending, repealing or revoking any enactment as they consider necessary or expedient in consequence of any provision made by this Act.
+
+(4) “Enactment” includes—
+
+(a) an enactment contained in subordinate legislation within the meaning of the Interpretation Act 1978,
+
+(b) an enactment contained in, or in an instrument made under, an Act of the Scottish Parliament,
+
+(c) an enactment contained in, or in an instrument made under, Northern Ireland legislation, or
+
+(d) an enactment contained in, or in an instrument made under, a Measure or Act of the National Assembly for Wales.
+
+(5) An order under subsection (3) is subject to negative resolution procedure.
+
+### 25 Extent
+
+This Act extends to England and Wales, Scotland and Northern Ireland.
+
+### 26 Commencement
+
+(1) The following provisions of this Act come into force on the day on which this Act is passed—
+
+(a) section 1,
+
+(b) section 2(1) and (5) to (8) (subject, in the case of subsection (6), to the exception mentioned in paragraph (k)),
+
+(c) section 3(1) and (4),
+
+(d) sections 4 and 5,
+
+(e) section 16,
+
+(f) sections 19 to 23,
+
+(g) in section 24—
+
+(i) subsections (1) and (2) so far as relating to the paragraphs of Schedule 2 mentioned in paragraph (l), and
+
+(ii) subsections (3) to (5),
+
+(h) section 25,
+
+(i) this section,
+
+(j) section 27,
+
+(k) Schedule 1 except so far as that Schedule relates to paragraph 13, 15 or 16 of Schedule 1A to the Financial Services and Markets Act 2000, and
+
+(l) paragraphs 1 to 6, 11, 13, 16(1) and (2), 22, 24(1) and (2), 25, 27, 28, 30 to 32, 33(1) and (3), 34, 35, 37 to 45 and 48 of Schedule 2.
+
+(2) The following provisions of this Act come into force at the end of the period of 2 months beginning with the day on which this Act is passed—
+
+(a) section 3(2), (3) and (5),
+
+(b) sections 6 to 12,
+
+(c) section 18,
+
+(d) section 24(1) and (2) so far as relating to the paragraphs of Schedule 2 mentioned in paragraph (e), and
+
+(e) paragraphs 7 to 10, 12, 14, 15, 16(3), 17 to 20, 26, 29, 33(4), 46 and 47 of Schedule 2.
+
+(3) The other provisions of this Act come into force on such day as the Treasury or the Secretary of State may by order appoint (and different days may be appointed for different purposes).
+
+(4) The Treasury or the Secretary of State may by order make such provision as they consider necessary or expedient for transitory, transitional or saving purposes in connection with the commencement of any provision made by this Act.
+
+### 27 Short title
+
+This Act may be cited as the Financial Services Act 2010.
+
+## [^F9] SCHEDULE 1 — Further provision about the consumer financial education body
+
+*Section 2*
+
+**[^F9]1** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F9]2** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 2 — Minor and consequential amendments
+
+*Section 24*
+
+### Part 1 — Amendments of Financial Services and Markets Act 2000
+
+**1** The Financial Services and Markets Act 2000 is amended as follows.
+
+**[^F10]2** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F10]3** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F10]4** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F10]5** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F10]6** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**7** In the italic cross-heading before section 64, at the end insert “ *of approved persons* ”.
+
+**8** (1) Section 66 (performance of regulated activities: disciplinary powers) is amended as follows.
+
+(2) After subsection (5) insert—
+
+> (5A) Approval” means an approval given under section 59.
+
+(3) In subsection (7), omit “under section 59”.
+
+(4) After that subsection insert—
+
+> (8) In relation to any time while a suspension is in force under subsection (3)(aa) in relation to part of a function, any reference in section 59 or 63A to the performance of a function includes the performance of part of a function.
+>
+> (9) If at any time a restriction imposed under subsection (3)(ab) is contravened, the approval in relation to the person concerned is to be treated for the purposes of sections 59 and 63A as if it had been withdrawn at that time.
+
+**9** (1) Section 67 (disciplinary measures: procedure and right to refer to Tribunal) is amended as follows.
+
+(2) In subsection (1), at the end insert “ ; and if it proposes to take action under subsection (3)(aa) or (ab) of that section, it must also give each of the other interested parties a warning notice. ”
+
+(3) After subsection (2) insert—
+
+> (2A) A warning notice about a proposal—
+>
+> (a) to suspend an approval, or
+>
+> (b) to impose a restriction in relation to the performance of a function,
+>
+> must state the period for which the suspension or restriction is to have effect.
+
+(4) In subsection (4), at the end insert “ ; and if it decides to take action under subsection (3)(aa) or (ab) of that section, it must also give each of the other interested parties a decision notice. ”
+
+(5) After subsection (5) insert—
+
+> (5A) A decision notice about—
+>
+> (a) the suspension of an approval, or
+>
+> (b) the imposition of a restriction in relation to the performance of a function,
+>
+> must state the period for which the suspension or restriction is to have effect.
+
+(6) In subsection (7), at the end insert “ ; and if the Authority decides to take action under section 66(3)(aa) or (ab), each of the other interested parties may also refer the matter to the Tribunal. ”
+
+(7) After that subsection insert—
+
+> (8) Approval” means an approval given under section 59.
+>
+> (9) “Other interested parties”, in relation to an approved person (“A”), are—
+>
+> (a) the person on whose application the approval was given (“B”); and
+>
+> (b) the person by whom A's services are retained, if not B.
+>
+> The reference in this subsection to an approved person has the same meaning as in section 64.
+
+**10** (1) Section 69 (statement of policy) is amended as follows.
+
+(2) In subsection (1), for paragraphs (a) and (b) substitute—
+
+> (a) the imposition of penalties, suspensions or restrictions under section 66;
+>
+> (b) the amount of penalties under that section; and
+>
+> (c) the period for which suspensions or restrictions under that section are to have effect.
+
+(3) In subsection (2)—
+
+(a) in the opening words, after “should be” insert “ , or what the period for which a suspension or restriction is to have effect should be, ”, and
+
+(b) in paragraph (c), for “the person on whom the penalty is to be imposed” substitute “ the person against whom action is to be taken ”.
+
+**[^F11]11** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F11]12** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F11]13** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F11]14** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**15** In section 165 (FSA's power to require information), in the heading, at the end insert “ **: authorised persons etc** ”.
+
+**16** (1) Section 168 (appointment of persons to carry out investigations in particular cases) is amended as follows.
+
+(2) In subsection (4), in paragraph (c), for “an authorised person” substitute “ a person ”.
+
+(3) In that subsection, after paragraph (h) insert—
+
+> (ha) a person may have performed a controlled function without approval for the purposes of section 63A;
+
+.
+
+**17** In section 176(11)(a) (entry of premises under warrant), after “165” insert “ , 165A, 169A ”.
+
+**18** (1) Section 207 (proposal to take disciplinary measures) is amended as follows.
+
+(2) In subsection (1), omit the “or” before paragraph (b) and at the end of that paragraph insert
+
+> or
+>
+> (c) to suspend a permission of an authorised person or impose a restriction in relation to the carrying on of a regulated activity by an authorised person (under section 206A),
+
+.
+
+(3) At the end insert—
+
+> (4) A warning notice about a proposal to suspend a permission or impose a restriction must state the period for which the suspension or restriction is to have effect.
+
+**19** (1) Section 208 (decision notice) is amended as follows.
+
+(2) In subsection (1), omit the “or” before paragraph (b) and at the end of that paragraph insert
+
+> or
+>
+> (c) to suspend a permission or impose a restriction under section 206A (whether or not in the manner proposed),
+
+.
+
+(3) After subsection (3) insert—
+
+> (3A) In the case of a suspension or restriction, the decision notice must state the period for which the suspension or restriction is to have effect.
+
+(4) In subsection (4), omit the “or” before paragraph (b) and at the end of that paragraph insert
+
+> or
+>
+> (c) suspend a permission of an authorised person, or impose a restriction in relation to the carrying on of a regulated activity by an authorised person, under section 206A,
+
+.
+
+**20** (1) Section 210 (statements of policy) is amended as follows.
+
+(2) In subsection (1), for paragraphs (a) and (b) substitute—
+
+> (a) the imposition of penalties, suspensions or restrictions under this Part;
+>
+> (b) the amount of penalties under this Part; and
+>
+> (c) the period for which suspensions or restrictions under this Part are to have effect.
+
+(3) In subsection (2)—
+
+(a) in the opening words, after “should be” insert “ , or what the period for which a suspension or restriction is to have effect should be, ”, and
+
+(b) in paragraph (c), for “the person on whom the penalty is to be imposed” substitute “ the person against whom action is to be taken ”.
+
+(4) In subsection (7), after “206” insert “ or 206A ”.
+
+**21** In section 212(2) (the scheme manager), after “those functions” insert “ and the functions conferred on it by or under Part 15A ”.
+
+**22** In section 219(3A) (scheme manager's power to require information), for “applying regulations under section 214B(3) above” substitute “ determining the matters mentioned in section 214D(2)(a) and (b) above ”.
+
+**23** In section 221A(3) (delegation of functions of FSCS manager), after “management expenses of the scheme manager” insert “ except where the function in question is one under Part 15A ”.
+
+**24** (1) Section 223 (FSCS manager's management expenses) is amended as follows.
+
+(2) In subsection (3), in paragraph (c), after “214B” insert “ or 214D ”.
+
+(3) After that paragraph insert—
+
+> (d) under Part 15A.
+
+**25** (1) Section 224A (functions under the Banking Act 2009) is amended as follows.
+
+(2) The existing provision becomes subsection (1) of that section.
+
+(3) After that subsection insert—
+
+> (2) Any payment required to be made by the scheme manager by virtue of section 61 of that Act (special resolution regime: compensation) is to be treated for the purposes of this Part as an expense under the compensation scheme.
+
+**26** In section 348(5)(d) (restrictions on disclosure of confidential information by Authority etc), after “a person appointed” insert “ to collect or update information under section 139E or ”.
+
+**[^F12]27** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**28** In section 391 (publication), for subsection (11) substitute—
+
+> (11) Section 425A (meaning of “consumers”) applies for the purposes of this section.
+
+**29** (1) Section 392 (warning and decision notices: third party rights and access to evidence) is amended as follows.
+
+(2) In paragraph (a)—
+
+(a) after “63(3),” insert “ 63B(1), ”, and
+
+[^F13]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) In paragraph (b)—
+
+(a) after “63(4),” insert “ 63B(3), ”, and
+
+[^F14]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**30** After section 415 insert—
+
+> **Powers of the Authority**
+>
+> **Powers of the Authority**
+>
+> **415A** Any power which the Authority has under any provision of this Act is not limited in any way by any other power which it has under any other provision of this Act.
+
+**31** In section 417(1) (definitions), after the definition of “UK authorised person” (but before the “and” at the end of it) insert—
+
+> “the UK financial system”has the meaning given in section 3;
+
+.
+
+**32** After section 425 insert—
+
+> **Consumers: regulated activities etc carried on by authorised persons**
+>
+> **425A** (1) This section has effect for the purposes of the provisions of this Act which apply this section.
+>
+> (2) “Consumers” means persons who—
+>
+> (a) use, have used or may use any of the services within subsection (3); or
+>
+> (b) have relevant rights or interests in relation to any of those services.
+>
+> (3) The services within this subsection are services provided by—
+>
+> (a) authorised persons in carrying on regulated activities;
+>
+> (b) authorised persons who are investment firms, or credit institutions, in providing relevant ancillary services; or
+>
+> (c) persons acting as appointed representatives.
+>
+> (4) A person (“P”) has a “relevant right or interest” in relation to any services within subsection (3) if P has a right or interest—
+>
+> (a) which is derived from, or is otherwise attributable to, the use of the services by others; or
+>
+> (b) which may be adversely affected by the use of the services by persons acting on P's behalf or in a fiduciary capacity in relation to P.
+>
+> (5) If a person is providing a service within subsection (3) as a trustee, the persons who are, have been or may be beneficiaries of the trust are to be treated as persons who use, have used or may use the service.
+>
+> (6) A person who deals with another person (“A”) in the course of A providing a service within subsection (3) is to be treated as using the service.
+>
+> (7) In this section—
+>
+> - “credit institution” means—
+>
+>   - (a) a credit institution authorised under the banking consolidation directive; or
+>   - (b) an institution which would satisfy the requirements for authorisation as a credit institution under that directive if it had its registered office (or if does not have one, its head office) in an EEA State;
+>
+> - “relevant ancillary service” means any service of a kind mentioned in Section B of Annex I to the markets in financial instruments directive the provision of which does not involve the carrying on of a regulated activity.
+
+**33** (1) Section 429 (Parliamentary control of statutory instruments) is amended as follows.
+
+(2) In subsection (1)(a)—
+
+(a) omit “404”, and
+
+(b) after “236(5),” insert “ 404G ”.
+
+(3) In subsection (2), after “214B” insert “ , 214D ”.
+
+(4) In subsection (8), after “one made under section” insert “ 165A(2)(d) or ”.
+
+**[^F15]34** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**35** (1) In Schedule 4 (treaty rights), paragraph 1 is amended as follows.
+
+(2) The existing provision becomes sub-paragraph (1) of that paragraph.
+
+(3) In that sub-paragraph, omit the definition of “consumers”.
+
+(4) After that sub-paragraph insert—
+
+> (2) Section 425A (meaning of “consumers”) applies for the purposes of this Schedule.
+
+### Part 2 — Amendments of other legislation
+
+#### Consumer Credit Act 1974 (prospective)
+
+**36** In section 25(2A)(b) of the Consumer Credit Act 1974 (evidence as to whether a licensee is a fit person), after sub-paragraph (i) insert—
+
+> (ia) paragraph 13 of Schedule 1A to the Financial Services and Markets Act 2000;
+
+.
+
+#### Contracting Out (Functions Relating to National Savings) Order 1998
+
+**37** In article 3 of the Contracting Out (Functions Relating to National Savings) Order 1998 (contracting out of functions), after paragraph (2) insert—
+
+> (3) Any function conferred on the Director under rules made under section 38(7) of the Administration of Justice Act 1982 (court funds rules) may be exercised by, or by employees of, such person (if any) as may be authorised in that behalf by the Director.
+
+#### Financial Services and Markets Act 2000 (Markets in Financial Instruments) (Modification of Powers) Regulations 2006
+
+**38** In the Financial Services and Markets Act 2000 (Markets in Financial Instruments) (Modification of Powers) Regulations 2006, omit regulation 3(b)(ii) (which made an amendment of the Financial Services and Markets Act 2000 superseded by this Act).
+
+#### Banking Act 2009
+
+**39** The Banking Act 2009 is amended as follows.
+
+**40** In section 1(6) (table describing provisions of Part 1), in the entry relating to sections 33 to 48, for “48” substitute “ 48A ”.
+
+**41** In section 61(2)(b) (sources of compensation), for the words from “subject” to “below),” substitute “ subject to section 214C of the Financial Services and Markets Act 2000 (limit on amount of special resolution regime payments), ”.
+
+**42** In section 83(2)(h) (supplemental), omit “- inserted by section 171 below”.
+
+**43** Omit section 171 (which made amendments of the Financial Services and Markets Act 2000 superseded by this Act).
+
+**44** In section 183(c) (interpretation of expressions for purposes of Part 5), omit “to “the financial system””.
+
+**45** In section 204(1)(a) (inter-bank payment systems: information), after “order” insert “ or an order under section 206A ”.
+
+**46** Omit section 248 (which made an amendment of the Financial Services and Markets Act 2000 superseded by this Act).
+
+**47** In section 250(2) (collection of information by FSA relevant to financial stability)—
+
+(a) after “section 165” insert “ or 165A ”, and
+
+(b) after “as qualified” insert “ , in the case of the section 165 power, ”.
+
+**48** (1) Section 259 (statutory instruments) is amended as follows.
+
+(2) In the table in subsection (3), omit the entry relating to section 171.
+
+(3) In that table, after the entry relating to section 204 insert—
+
+> |  |  |  |
+> |---|---|---|
+> | 206A | Services forming part of recognised inter-bank payment systems | Draft affirmative resolution |
+
+(4) In subsection (5), omit paragraph (o) and the “and” before it.
+
+---
+
+[^F1]: S. 1 repealed (1.4.2013) by Financial Services Act 2012 (c. 21), s. 122(3), Sch. 19 (with Sch. 20); S.I. 2013/423, art. 3, Sch.
+[^F2]: S. 2(1) omitted (6.4.2021) by virtue of Financial Guidance and Claims Act 2018 (c. 10), s. 37(5), Sch. 3 para. 26; S.I. 2021/433, reg. 2(b)(vi)
+[^F3]: S. 2(2)-(5) repealed (1.4.2013) by Financial Services Act 2012 (c. 21), s. 122(3), Sch. 19 (with Sch. 20); S.I. 2013/423, art. 3, Sch.
+[^F4]: S. 2(6) omitted (6.4.2021) by virtue of Financial Guidance and Claims Act 2018 (c. 10), s. 37(5), Sch. 3 para. 26; S.I. 2021/433, reg. 2(b)(vi)
+[^F5]: S. 3(2)-(4) repealed (1.4.2013) by Financial Services Act 2012 (c. 21), s. 122(3), Sch. 19 (with Sch. 20); S.I. 2013/423, art. 3, Sch.
+[^F6]: S. 6 repealed (1.4.2013) by Financial Services Act 2012 (c. 21), s. 122(3), Sch. 19 (with Sch. 20); S.I. 2013/423, art. 3, Sch.
+[^F7]: S. 7 repealed (1.4.2013) by Financial Services Act 2012 (c. 21), s. 122(3), Sch. 19 (with Sch. 20); S.I. 2013/423, art. 3, Sch.
+[^F8]: S. 8 omitted (14.1.2025 for specified purposes, 13.7.2026 in so far as not already in force) by virtue of The Short Selling Regulations 2025 (S.I. 2025/29), reg. 2(2)(3), Sch. 2 para. 2(2); S.I. 2026/587, reg. 2(b)
+[^F9]: Sch. 1 omitted (6.4.2021) by virtue of Financial Guidance and Claims Act 2018 (c. 10), s. 37(5), Sch. 3 para. 27; S.I. 2021/433, reg. 2(b)(vii)
+[^F10]: Sch. 2 paras. 2-6 repealed (1.4.2013) by Financial Services Act 2012 (c. 21), s. 122(3), Sch. 19 (with Sch. 20); S.I. 2013/423, art. 3, Sch.
+[^F11]: Sch. 2 paras. 11-14 repealed (1.4.2013) by Financial Services Act 2012 (c. 21), s. 122(3), Sch. 19 (with Sch. 20); S.I. 2013/423, art. 3, Sch.
+[^F12]: Sch. 2 para. 27 repealed (1.4.2013) by Financial Services Act 2012 (c. 21), s. 122(3), Sch. 19 (with Sch. 20); S.I. 2013/423, art. 3, Sch.
+[^F13]: Sch. 2 para. 29(2)(b) omitted (14.1.2025 for specified purposes, 13.7.2026 in so far as not already in force) by virtue of The Short Selling Regulations 2025 (S.I. 2025/29), reg. 2(2)(3), Sch. 2 para. 2(3); S.I. 2026/587, reg. 2(b)
+[^F14]: Sch. 2 para. 29(3)(b) omitted (14.1.2025 for specified purposes, 13.7.2026 in so far as not already in force) by virtue of The Short Selling Regulations 2025 (S.I. 2025/29), reg. 2(2)(3), Sch. 2 para. 2(3); S.I. 2026/587, reg. 2(b)
+[^F15]: Sch. 2 para. 34 repealed (1.4.2013) by Financial Services Act 2012 (c. 21), s. 122(3), Sch. 19 (with Sch. 20); S.I. 2013/423, art. 3, Sch.

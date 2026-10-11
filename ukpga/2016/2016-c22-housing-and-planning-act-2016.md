@@ -1,0 +1,9842 @@
+---
+title: "Housing and Planning Act 2016"
+identifier: "ukpga/2016/22"
+citation: "2016 c. 22"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S+N.I."
+date: 2016-05-12
+last_amended: 2026-09-14
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/2016/22"
+source_modified: 2026-10-05
+retrieved: 2026-10-11
+---
+
+# Housing and Planning Act 2016
+
+**2016 c. 22**
+
+An Act to make provision about housing, estate agents, rentcharges, planning and compulsory purchase.
+
+[12th May 2016]
+
+Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## PART 1 — New homes in England
+
+### CHAPTER 1 — Starter homes (prospective)
+
+#### 1 Purpose of this Chapter (prospective)
+
+The purpose of this Chapter is to promote the supply of starter homes in England.
+
+#### 2 What is a starter home? (prospective)
+
+(1) In this Chapter “starter home” means a building or part of a building that—
+
+(a) is a new dwelling,
+
+(b) is available for purchase by qualifying first-time buyers only,
+
+(c) is to be sold at a discount of at least 20% of the market value,
+
+(d) is to be sold for less than the price cap, and
+
+(e) is subject to any restrictions on sale or letting specified in regulations made by the Secretary of State (for more about regulations under this paragraph, see section 3).
+
+(2) “New dwelling” means a building or part of a building that—
+
+(a) has been constructed for use as a single dwelling and has not previously been occupied, or
+
+(b) has been adapted for use as a single dwelling and has not been occupied since its adaptation.
+
+(3) “Qualifying first-time buyer” means an individual who—
+
+(a) is a first-time buyer,
+
+(b) is at least 23 years old but has not yet reached the age of 40, and
+
+(c) meets any other criteria specified in regulations made by the Secretary of State (for example, relating to nationality).
+
+(4) “First-time buyer” has the meaning given by section 57AA(2) of the Finance Act 2003.
+
+(5) “Purchase”: the reference to a building or part of a building being available for purchase is to a freehold or a leasehold interest in the building or part being available for purchase.
+
+(6) The “price cap” is set out in the table.
+
+|  |  |
+|---|---|
+| *Location of starter home* | *Price cap* |
+| Greater London | £450,000 |
+| Outside Greater London | £250,000 |
+
+(7) The Secretary of State may by regulations—
+
+(a) amend the definition of “first-time buyer”;
+
+(b) disapply the age requirement in subsection (3)(b) in relation to specified categories of people;
+
+(c) specify circumstances in which a dwelling may still be a starter home even if it is available for purchase by joint purchasers not all of whom meet the age requirement.
+
+(8) The Secretary of State may by regulations amend the price cap; and the regulations may provide for different price caps to apply—
+
+(a) for starter homes in different areas in Greater London;
+
+(b) for starter homes in different areas outside Greater London.
+
+(9) Before making regulations under subsection (8) the Secretary of State must consult—
+
+(a) each local planning authority in England,
+
+(b) the Mayor of London, and
+
+(c) any other person the Secretary of State thinks appropriate.
+
+(10) Regulations under this section may amend this Chapter.
+
+#### 3 Power to require payments or discounts on resale (subject to tapering) etc (prospective)
+
+(1) The restrictions on sale that may be specified by regulations under section 2(1)(e) in relation to a dwelling that has been sold to a qualifying first-time buyer include, in particular, restrictions —
+
+(a) requiring a person who sells the dwelling within a specified period to make a payment to a specified person in respect of the starter homes discount, or
+
+(b) prohibiting a person from selling the dwelling within a specified period unless the dwelling is sold to a qualifying first-time buyer at a discount.
+
+(2) Regulations made by virtue of subsection (1) must—
+
+(a) set out how the amount of the payment or discount is to be determined, and
+
+(b) provide for reductions in the amount of the payment or discount according to the length of time since the dwelling was first sold to a qualifying first-time buyer.
+
+(3) The person specified in regulations under subsection (1)(a) may be the Secretary of State, a local planning authority in England or any other person.
+
+(4) Regulations under section 2(1)(e) may impose restrictions that require a person selling the dwelling to sell it subject to any restrictions to which he or she is subject.
+
+(5) Regulations under section 2(1)(e) may include provision about the legal mechanism by which any requirement is to be imposed.
+
+(6) The Secretary of State may by regulations make provision about the use of sums that are paid to a person in accordance with a requirement imposed by regulations made by virtue of subsection (1)(a) (including provision permitting or requiring the payment of sums into the Consolidated Fund).
+
+(7) In subsection (1)(a) “starter homes discount” means the discount mentioned in section 2(1)(c) or subsection (1)(b) above.
+
+#### 4 General duty to promote supply of starter homes (prospective)
+
+(1) An English planning authority must carry out its relevant planning functions with a view to promoting the supply of starter homes in England.
+
+(2) A local planning authority in England must have regard to any guidance given by the Secretary of State in carrying out that duty.
+
+(3) “English planning authority” means—
+
+(a) a local planning authority in England, or
+
+(b) the Secretary of State when exercising a function relating to the grant of planning permission on an application in respect of land in England.
+
+(4) “Relevant planning functions” means—
+
+(a) functions under Part 3 of the Town and Country Planning Act 1990, other than functions relating to the grant of permission in principle;
+
+(b) functions under Part 8 of the Greater London Authority Act 1999;
+
+(c) functions under Part 2 of the Planning and Compulsory Purchase Act 2004.
+
+(5) The Secretary of State may by regulations—
+
+(a) amend the definition of “English planning authority” in subsection (3);
+
+(b) amend the definition of “relevant planning functions” in subsection (4).
+
+#### 5 Planning permission: provision of starter homes (prospective)
+
+(1) The Secretary of State may by regulations provide that an English planning authority may only grant planning permission for a residential development of a specified description if the starter homes requirement is met.
+
+(2) Where the Secretary of State makes regulations under this section, the regulations must give an English planning authority power to dispense with the condition requiring the starter homes requirement to be met where—
+
+(a) an application is made for planning permission in respect of a rural exception site, and
+
+(b) the application falls to be determined wholly or partly on the basis of a policy contained in a development plan for the provision of housing on rural exception sites.
+
+(3) “English planning authority” means—
+
+(a) a local planning authority in England, or
+
+(b) the Secretary of State when exercising a function relating to the grant of planning permission on an application in respect of land in England.
+
+(4) “The starter homes requirement” means a requirement, specified in the regulations, relating to the provision of starter homes in England.
+
+(5) Regulations under this section may, for example, provide that an English planning authority may grant planning permission only if a person has entered into a planning obligation to provide a certain number of starter homes or to pay a sum to be used by the authority for providing starter homes.
+
+(6) The regulations may confer discretions on an English planning authority.
+
+(7) The regulations may make different provision for different areas.
+
+(8) In section 70 of the Town and Country Planning Act 1990 (determination of applications: general considerations), for subsection (3) substitute—
+
+> (3) Subsection (1) has effect subject to the following—
+>
+> (a) section 65 and the following provisions of this Act;
+>
+> (b) section 15 of the Health Services Act 1976;
+>
+> (c) sections 66, 67, 72 and 73 of the Planning (Listed Buildings and Conservation Areas) Act 1990;
+>
+> [[^F1](ca) section 160 of the Historic Environment (Wales) Act 2023;]
+>
+> (d) regulations under section 5 of the Housing and Planning Act 2016 (starter homes requirements).
+
+#### 6 Monitoring (prospective)
+
+(1) A local planning authority in England must prepare reports containing information about the carrying out of its functions in relation to starter homes.
+
+(2) The Secretary of State may by regulations make provision about reports under this section, including—
+
+(a) provision about their form and content;
+
+(b) provision about their timing;
+
+(c) provision requiring them to be combined with reports under section 35 of the Planning and Compulsory Purchase Act 2004.
+
+(3) The regulations may require a report to contain information about applications to which regulations under section 5 apply and details of how those applications have been dealt with.
+
+(4) An authority must make its reports under this section available to the public.
+
+#### 7 Compliance directions (prospective)
+
+(1) The Secretary of State may make a compliance direction if satisfied that—
+
+(a) a local planning authority has failed to carry out its functions in relation to starter homes or has failed to carry them out adequately, and
+
+(b) a policy contained in a local development document for the authority is incompatible with those functions.
+
+(2) A “compliance direction” is a direction that no regard is to be had to the policy for the purposes of any determination to be made under the planning Acts.
+
+(3) A compliance direction remains in force until revoked by a further direction given by the Secretary of State.
+
+(4) A direction under this section must include the Secretary of State's reasons for making it.
+
+(5) The Secretary of State must publish any direction under this section and give a copy to the local planning authority.
+
+#### 8 Interpretation of this Chapter (prospective)
+
+In this Chapter—
+
+- “development” has the meaning given by section 336 of the Town and Country Planning Act 1990;
+
+- “functions in relation to starter homes”, in relation to a local planning authority, means the authority's functions under—
+
+  - (a) section 4, and
+  - (b) regulations under section 5;
+
+- “local development document” is to be read in accordance with sections 17 and 18(3) of the Planning and Compulsory Purchase Act 2004;
+
+- “local planning authority” means a person who is a local planning authority for the purposes of any provision of Part 3 of the Town and Country Planning Act 1990;
+
+- “the planning Acts” has the meaning given by section 117(4) of the Planning and Compulsory Purchase Act 2004;
+
+- “planning obligation” means a planning obligation under section 106 of the Town and Country Planning Act 1990;
+
+- “planning permission” has the meaning given by section 336 of the Town and Country Planning Act 1990;
+
+- “residential development” means a development that includes at least one dwelling;
+
+- “starter home” has the meaning given by section 2.
+
+### CHAPTER 2 — Self-build and custom housebuilding
+
+#### 9 Definitions
+
+(1) In section 1 of the Self-build and Custom Housebuilding Act 2015 (register of persons seeking to acquire land), before subsection (1) insert—
+
+> (A1) In this Act “self-build and custom housebuilding” means the building or completion by—
+>
+> (a) individuals,
+>
+> (b) associations of individuals, or
+>
+> (c) persons working with or for individuals or associations of individuals,
+>
+> of houses to be occupied as homes by those individuals.
+>
+> (A2) But it does not include the building of a house on a plot acquired from a person who builds the house wholly or mainly to plans or specifications decided or offered by that person.
+
+(2) In subsection (1) of that section—
+
+(a) omit “(including bodies corporate that exercise functions on behalf of associations of individuals)”;
+
+(b) for “in order to build houses for those individuals to occupy as homes” substitute “ for their own self-build and custom housebuilding ”.
+
+(3) After subsection (6) of that section insert—
+
+> (6A) In this section—
+>
+> - “association of individuals” includes a body corporate that exercises functions on behalf of an association of individuals;
+> - “completion” does not include anything that falls outside the definition of “building operations” in section 55(1A) of the Town and Country Planning Act 1990;
+> - “home”, in relation to an individual, means the individual's sole or main residence.
+
+(4) In section 5 of that Act (interpretation)—
+
+(a) at the appropriate place insert—
+
+> “self-build and custom housebuilding” has the meaning given by section 1;
+
+;
+
+(b) for the definition of “serviced plot of land” substitute—
+
+> “serviced plot of land” means a plot of land that—
+>
+> (a) has access to a public highway and has connections for electricity, water and waste water, or
+>
+> (b) can be provided with those things in specified circumstances or within a specified period;
+
+;
+
+(c) at the end of that section (the existing text of which becomes subsection (1)) insert—
+
+> (2) Regulations may amend the definition of “serviced plot of land” by adding further services to those mentioned in paragraph (a).
+
+#### 10 Duty to grant planning permission etc
+
+(1) After section 2 of the Self-build and Custom Housebuilding Act 2015 insert—
+
+> **2A Duty to grant planning permission etc**
+>
+> (1) This section applies to an authority that is both a relevant authority and a local planning authority within the meaning of the Town and Country Planning Act 1990 (“the 1990 Act”).
+>
+> (2) An authority to which this section applies must give suitable development permission in respect of enough serviced plots of land to meet the demand for self-build and custom housebuilding in the authority's area arising in each base period.
+>
+> (3) Regulations must specify the time allowed for compliance with the duty under subsection (2) in relation to any base period.
+>
+> (4) The first base period, in relation to an authority, is the period—
+>
+> (a) beginning with the day on which the register under section 1 kept by the authority is established, and
+>
+> (b) ending with the day before the day on which section 10 of the Housing and Planning Act 2016 comes into force.
+>
+> Each subsequent base period is the period of 12 months beginning immediately after the end of the previous base period.
+>
+> (5) In this section “development permission” means planning permission or permission in principle (within the meaning of the 1990 Act).
+>
+> (6) For the purposes of this section—
+>
+> (a) the demand for self-build and custom housebuilding arising in an authority's area in a base period is the demand as evidenced by the number of entries added during that period to the register under section 1 kept by the authority;
+>
+> (b) an authority gives development permission if such permission is granted—
+>
+> (i) by the authority,
+>
+> (ii) by the Secretary of State or the Mayor of London on an application made to the authority, or
+>
+> (iii) (in the case of permission in principle) by a development order, under section 59A(1)(a) of the 1990 Act, in relation to land allocated for development in a document made, maintained or adopted by the authority;
+>
+> (c) development permission is “suitable” if it is permission in respect of development that could include self-build and custom housebuilding.
+>
+> (7) A grant of development permission in relation to a particular plot of land may not be taken into account in relation to more than one base period in determining whether the duty in this section is discharged.
+>
+> (8) No account is to be taken for the purposes of this section of development permission granted before the start of the first base period.
+>
+> (9) Regulations under subsection (3)—
+>
+> (a) may make different provision for different authorities or descriptions of authority;
+>
+> (b) may make different provision for different proportions of the demand for self-build and custom housebuilding arising in a particular base period.
+
+(2) In section 3 of that Act (guidance), after subsection (2) insert—
+
+> (3) An authority that is subject to the duty in section 2A must have regard to any guidance issued by the Secretary of State in relation to that duty.
+
+(3) In relation to entries made on the register under section 1 of that Act before [[^F2]31 October 2016], any reference to self-build and custom housebuilding in section 2A of that Act (inserted by subsection (1) above) is to be read as if, in section 1 of that Act (as amended by section 9 above)—
+
+(a) the words “or completion” in subsection (A1) were omitted, and
+
+(b) the definitions of “completion” and “home” in subsection (6A) were omitted.
+
+#### 11 Exemption from duty
+
+After section 2A of the Self-build and Custom Housebuilding Act 2015 (inserted by section 10 above) insert—
+
+> **2B Exemption from duty in section 2A**
+>
+> (1) If an authority applies for exemption to the Secretary of State in accordance with regulations, the Secretary of State may direct that the authority is not subject to the duty in section 2A.
+>
+> (2) The regulations may specify the cases or circumstances in which an authority may apply for exemption.
+>
+> (3) Regulations may make further provision about applications under subsection (1), and may in particular—
+>
+> (a) require an application to be supported by specified information and by any further information that the Secretary of State requires the authority to provide;
+>
+> (b) require an authority that is granted exemption to notify persons on the register kept under section 1.
+
+#### 12 Further and consequential amendments
+
+(1) In the Schedule to the Self-build and Custom Housebuilding Act 2015 (registers under section 1), in paragraph 3 (eligibility)—
+
+(a) after sub-paragraph (2) insert—
+
+> (2A) Regulations relating to the matters set out in sub-paragraph (2) may provide for eligibility to be determined by reference to criteria set by a relevant authority.
+
+;
+
+(b) at the end insert—
+
+> (4) The regulations may provide—
+>
+> (a) that persons who fail to meet particular conditions of eligibility, but who meet the other conditions specified, must be entered on a separate part of the register;
+>
+> (b) that the duty in section 2A does not apply in relation to such persons.
+
+(2) In paragraph 6 of that Schedule (fees)—
+
+(a) in sub-paragraph (1), for “section 1” substitute “ sections 1 and 2A ”;
+
+(b) in sub-paragraph (2)(b), after “fixing of fees by” insert “ the Secretary of State or ”;
+
+(c) after sub-paragraph (2) insert—
+
+> (3) The regulations may specify circumstances in which no fee is to be paid.
+
+(3) In section 4(1) of that Act (regulations subject to affirmative resolution procedure)—
+
+(a) in paragraph (b) omit “or”;
+
+(b) after that paragraph insert—
+
+> (ba) section 2A(3),
+>
+> (bb) section 5(2), or
+
+.
+
+(4) In section 4(2) of that Act (regulations subject to negative resolution procedure)—
+
+(a) before paragraph (a) insert—
+
+> (za) section 2B,
+
+;
+
+(b) in paragraph (a), for “section 5” substitute “ section 5(1) ”.
+
+## PART 2 — Rogue landlords and property agents in England
+
+### CHAPTER 1 — Introduction
+
+#### 13 Introduction to this Part
+
+(1) This Part is about rogue landlords and property agents.
+
+(2) In summary—
+
+(a) Chapter 2 allows a banning order to be made where a landlord or property agent has been convicted of a banning order offence,
+
+(b) Chapter 3 requires a database of rogue landlords and property agents to be established,
+
+(c) Chapter 4 allows a rent repayment order to be made against a landlord who has committed an offence to which that Chapter applies, and
+
+(d) Chapter 6 contains definitions.
+
+### CHAPTER 2 — Banning orders
+
+#### Banning orders: key definitions
+
+##### 14 “Banning order” and “banning order offence”
+
+(1) In this Part “banning order” means an order, made by the First-tier Tribunal, banning a person from—
+
+(a) letting housing in England,
+
+(b) engaging in English letting agency work,
+
+(c) engaging in English property management work, or
+
+(d) doing two or more of those things.
+
+(2) See also section 18 (which enables a banning order to include a ban on involvement in certain bodies corporate).
+
+(3) In this Part “banning order offence” means an offence of a description specified in regulations made by the Secretary of State.
+
+(4) Regulations under subsection (3) may, in particular, describe an offence by reference to—
+
+(a) the nature of the offence,
+
+(b) the characteristics of the offender,
+
+(c) the place where the offence is committed,
+
+(d) the circumstances in which it is committed,
+
+(e) the court sentencing a person for the offence, or
+
+(f) the sentence imposed.
+
+[[^F3](5) An offence under section 12 of the Tenant Fees Act 2019 is also a banning order offence for the purposes of this Part.]
+
+#### Imposition of banning orders
+
+##### 15 Application and notice of intended proceedings
+
+(1) A local housing authority in England may apply for a banning order against a person who has been convicted of a banning order offence.
+
+(2) If a local housing authority in England applies for a banning order against a body corporate that has been convicted of a banning order offence, it must also apply for a banning order against any officer who has been convicted of the same offence in respect of the same conduct.
+
+(3) Before applying for a banning order under subsection (1), the authority must give the person a notice of intended proceedings—
+
+(a) informing the person that the authority is proposing to apply for a banning order and explaining why,
+
+(b) stating the length of each proposed ban, and
+
+(c) inviting the person to make representations within a period specified in the notice of not less than 28 days (“the notice period”).
+
+(4) The authority must consider any representations made during the notice period.
+
+(5) The authority must wait until the notice period has ended before applying for a banning order.
+
+(6) A notice of intended proceedings may not be given after the end of the period of 6 months beginning with the day on which the person was convicted of the offence to which the notice relates.
+
+##### 16 Making a banning order
+
+(1) The First-tier Tribunal may make a banning order against a person who—
+
+(a) has been convicted of a banning order offence, and
+
+(b) was a residential landlord or a property agent at the time the offence was committed (but see subsection (3)).
+
+(2) A banning order may only be made on an application by a local housing authority in England that has complied with section 15.
+
+(3) Where an application is made under section 15(1) against an officer of a body corporate, the First-tier Tribunal may make a banning order against the officer even if the condition in subsection (1)(b) of this section is not met.
+
+(4) In deciding whether to make a banning order against a person, and in deciding what order to make, the Tribunal must consider—
+
+(a) the seriousness of the offence of which the person has been convicted,
+
+(b) any previous convictions that the person has for a banning order offence,
+
+(c) whether the person is or has at any time been included in the database of rogue landlords and property agents, and
+
+(d) the likely effect of the banning order on the person and anyone else who may be affected by the order.
+
+##### 17 Duration and effect of banning order
+
+(1) A banning order must specify the length of each ban imposed by the order.
+
+(2) A ban must last at least 12 months.
+
+(3) A banning order may contain exceptions to a ban for some or all of the period to which the ban relates and the exceptions may be subject to conditions.
+
+(4) A banning order may, for example, contain exceptions—
+
+(a) to deal with cases where there are existing tenancies and the landlord does not have the power to bring them to an immediate end, or
+
+(b) to allow letting agents to wind down current business.
+
+##### 18 Content of banning order: involvement in bodies corporate
+
+(1) A banning order may include provision banning the person against whom it is made from being involved in any body corporate that carries out an activity that the person is banned by the order from carrying out.
+
+(2) For this purpose a person is “involved” in a body corporate if the person acts as an officer of the body corporate or directly or indirectly takes part in or is concerned in the management of the body corporate.
+
+##### 19 Power to require information
+
+(1) A local housing authority may require a person to provide specified information for the purpose of enabling the authority to decide whether to apply for a banning order against the person.
+
+(2) It is an offence for the person to fail to comply with a requirement, unless the person has a reasonable excuse for the failure.
+
+(3) It is an offence for the person to provide information that is false or misleading if the person knows that the information is false or misleading or is reckless as to whether it is false or misleading.
+
+(4) A person who commits an offence under this section is liable on summary conviction to a fine.
+
+##### 20 Revocation or variation of banning orders
+
+(1) A person against whom a banning order is made may apply to the First-tier Tribunal for an order under this section revoking or varying the order.
+
+(2) If the banning order was made on the basis of one or more convictions all of which are overturned on appeal, the First-tier Tribunal must revoke the banning order.
+
+(3) If the banning order was made on the basis of more than one conviction and some of them (but not all) have been overturned on appeal, the First-tier Tribunal may—
+
+(a) vary the banning order, or
+
+(b) revoke the banning order.
+
+(4) If the banning order was made on the basis of one or more convictions that have become spent, the First-tier Tribunal may—
+
+(a) vary the banning order, or
+
+(b) revoke the banning order.
+
+(5) The power to vary a banning order under subsection (3)(a) or (4)(a) may be used to add new exceptions to a ban or to vary—
+
+(a) the banned activities,
+
+(b) the length of a ban, or
+
+(c) existing exceptions to a ban.
+
+(6) In this section “spent”, in relation to a conviction, means spent for the purposes of the Rehabilitation of Offenders Act 1974.
+
+#### Consequences of banning order, including consequences of breach
+
+##### 21 Offence of breach of banning order
+
+(1) A person who breaches a banning order commits an offence.
+
+(2) A person guilty of an offence under subsection (1) is liable on summary conviction to imprisonment for a period not exceeding 51 weeks or to a fine or to both.
+
+(3) If a financial penalty under section 23 has been imposed in respect of the breach, the person may not be convicted of an offence under this section.
+
+(4) Where a person is convicted under subsection (1) of breaching a banning order and the breach continues after conviction, the person commits a further offence and is liable on summary conviction to a fine not exceeding one-tenth of level 2 on the standard scale for each day or part of a day on which the breach continues.
+
+(5) In proceedings for an offence under subsection (4) it is a defence to show that the person had a reasonable excuse for the continued breach.
+
+(6) In relation to an offence committed before section 281(5) of the Criminal Justice Act 2003 comes into force, the reference in subsection (2) to 51 weeks is to be read as a reference to 6 months.
+
+##### 22 Offences by bodies corporate
+
+(1) Where an offence under section 21 committed by a body corporate is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, an officer of a body corporate, the officer as well as the body corporate commits the offence and is liable to be proceeded against and punished accordingly.
+
+(2) Where the affairs of a body corporate are managed by its members, subsection (1) applies in relation to the acts and defaults of a member in connection with the member's functions of management as if the member were an officer of the body corporate.
+
+##### 23 Financial penalty for breach of banning order
+
+(1) The responsible local housing authority may impose a financial penalty on a person if satisfied, beyond reasonable doubt, that the person's conduct amounts to an offence under section 21(1).
+
+(2) In this section “responsible local housing authority” means the local housing authority for the area in which the housing to which the conduct relates is situated.
+
+(3) Only one financial penalty under this section may be imposed in respect of the same conduct unless subsection (4) allows another penalty to be imposed.
+
+(4) If a breach continues for more than 6 months, a financial penalty may be imposed for each additional 6 month period for the whole or part of which the breach continues.
+
+(5) The amount of a financial penalty imposed under this section is to be determined by the authority imposing it, but must not be more than [[^F4]£40,000].
+
+(6) The responsible local housing authority may not impose a financial penalty in respect of any conduct amounting to an offence under section 21(1) if—
+
+(a) the person has been convicted of an offence under that section in respect of the conduct, or
+
+(b) criminal proceedings for the offence have been instituted against the person in respect of the conduct and the proceedings have not been concluded.
+
+(7) Schedule 1 deals with—
+
+(a) the procedure for imposing financial penalties,
+
+(b) appeals against financial penalties, and
+
+(c) enforcement of financial penalties.
+
+(8) The Secretary of State may by regulations make provision about how local housing authorities are to deal with financial penalties recovered.
+
+(9) The Secretary of State may by regulations amend the amount specified in subsection (5) to reflect changes in the value of money.
+
+(10) A local housing authority must have regard to any guidance given by the Secretary of State about the exercise of its functions under this section or Schedule 1.
+
+##### 24 Saving for illegal contracts
+
+A breach of a banning order does not affect the validity or enforceability of any provision of a tenancy or other contract entered into by a person despite any rule of law relating to the validity or enforceability of contracts in circumstances involving illegality.
+
+##### 25 Banned person may not hold HMO licence etc
+
+Schedule 2 changes the rules about granting and revoking licences under Parts 2 and 3 of the Housing Act 2004 where a banning order has been made.
+
+##### 26 Management orders following banning order
+
+Schedule 3 amends the Housing Act 2004 to allow interim and final management orders to be made in cases where a banning order has been made.
+
+#### Anti-avoidance
+
+##### 27 Prohibition on certain disposals
+
+(1) A person who is subject to a banning order that includes a ban on letting may not make an unauthorised transfer of an estate in land to a prohibited person.
+
+(2) A disposal in breach of the prohibition imposed by subsection (1) is void.
+
+(3) A transfer is “unauthorised” for the purposes of subsection (1) unless it is authorised by the First-tier Tribunal on an application by the person who is subject to the banning order.
+
+(4) In subsection (1) “prohibited person” means—
+
+(a) a person associated with the landlord,
+
+(b) a business partner of the landlord,
+
+(c) a person associated with a business partner of the landlord,
+
+(d) a business partner of a person associated with the landlord,
+
+(e) a body corporate of which the landlord or a person mentioned in paragraph (a) to (d) is an officer,
+
+(f) a body corporate in which the landlord has a shareholding or other financial interest, or
+
+(g) in a case where the landlord is a body corporate, any body corporate that has an officer in common with the landlord.
+
+(5) In section (4)—
+
+- “associated person” is to be read in accordance with section 178 of the Housing Act 1996;
+- “business partner” is to be read in accordance with section 34(5) of the Deregulation Act 2015.
+
+### CHAPTER 3 — Database of rogue landlords and property agents
+
+#### The database and its content
+
+##### 28 Database of rogue landlords and property agents
+
+(1) The Secretary of State must establish and operate a database of rogue landlords and property agents for the purposes of this Chapter.
+
+(2) Sections 29 and 30 give local housing authorities in England responsibility for maintaining the content of the database.
+
+(3) The Secretary of State must ensure that local housing authorities are able to edit the database for the purpose carrying out their functions under those sections and updating the database under section 34.
+
+##### 29 Duty to include person with banning order
+
+(1) A local housing authority in England must make an entry in the database in respect of a person if—
+
+(a) a banning order has been made against the person following an application by the authority, and
+
+(b) no entry was made under section 30, before the banning order was made, on the basis of a conviction for the offence to which the banning order relates.
+
+(2) An entry made under this section must be maintained for the period for which the banning order has effect and must then be removed.
+
+##### 30 Power to include person convicted of banning order offence
+
+(1) A local housing authority in England may make an entry in the database in respect of a person if—
+
+(a) the person has been convicted of a banning order offence, and
+
+(b) the offence was committed at a time when the person was a residential landlord or a property agent.
+
+(2) A local housing authority in England may make an entry in the database in respect of a person who has, at least twice within a period of 12 months, received a financial penalty in respect of a banning order offence committed at a time when the person was a residential landlord or a property agent.
+
+(3) A financial penalty is to be taken into account for the purposes of subsection (2) only if the period for appealing the penalty has expired and any appeal has been finally determined or withdrawn.
+
+(4) Section 31 imposes procedural requirements that must be met before an entry may be made in the database under this section.
+
+(5) An entry made under this section—
+
+(a) must be maintained for the period specified in the decision notice given under section 31 before the entry was made (or that period as reduced in accordance with section 36), and
+
+(b) must be removed at the end of that period.
+
+(6) Subsection (5)(a) does not prevent an entry being removed early in accordance under section 36.
+
+(7) The Secretary of State must publish guidance setting out criteria to which local housing authorities must have regard in deciding—
+
+(a) whether to make an entry in the database under this section, and
+
+(b) the period to specify in a decision notice under section 31.
+
+##### 31 Procedure for inclusion under section 30
+
+(1) If a local housing authority decides to make an entry in the database in respect of a person under section 30 it must give the person a decision notice before the entry is made.
+
+(2) The decision notice must—
+
+(a) explain that the authority has decided to make the entry in the database after the end of the period of 21 days beginning with the day on which the notice is given (“the notice period”), and
+
+(b) specify the period for which the person's entry will be maintained, which must be at least 2 years beginning with the day on which the entry is made.
+
+(3) The decision notice must also summarise the person's appeal rights under section 32.
+
+(4) The authority must wait until the notice period has ended before making the entry in the database.
+
+(5) If a person appeals under section 32 within the notice period the local housing authority may not make the entry in the database until—
+
+(a) the appeal has been determined or withdrawn, and
+
+(b) there is no possibility of further appeal (ignoring the possibility of an appeal out of time).
+
+(6) A decision notice under this section may not be given after the end of the period of 6 months beginning with the day on which the person—
+
+(a) was convicted of the banning order offence to which the notice relates, or
+
+(b) received the second of the financial penalties to which the notice relates.
+
+##### 32 Appeals
+
+(1) A person who has been given a decision notice under section 31 may appeal to the First-tier Tribunal against—
+
+(a) the decision to make the entry in the database in respect of the person, or
+
+(b) the decision as to the period for which the person's entry is to be maintained.
+
+(2) An appeal under this section must be made before the end of the notice period specified in the decision notice under section 31(2).
+
+(3) The Tribunal may allow an appeal to be made to it after the end of the notice period if satisfied that there is a good reason for the person's failure to appeal within the period (and for any subsequent delay).
+
+(4) On an appeal under this section the tribunal may confirm, vary or cancel the decision notice.
+
+##### 33 Information to be included in the database
+
+(1) The Secretary of State may by regulations make provision about the information that must be included in a person's entry in the database.
+
+(2) The regulations may, in particular, require a person's entry to include—
+
+(a) the person's address or other contact details,
+
+(b) the period for which the entry is to be maintained;
+
+(c) details of properties owned, let or managed by the person;
+
+(d) details of any banning order offences of which the person has been convicted;
+
+(e) details of any banning orders made against the person, whether or not still in force;
+
+(f) details of financial penalties that the person has received.
+
+(3) In relation to a case where a body corporate is entered in the database, the regulations may also require information to be included about its officers.
+
+##### 34 Updating
+
+A local housing authority must take reasonable steps to keep information in the database up-to-date.
+
+##### 35 Power to require information
+
+(1) A local housing authority may require a person to provide specified information for the purpose of enabling the authority to decide whether to make an entry in the database in respect of the person.
+
+(2) A local housing authority that makes an entry in the database in respect of a person, or that is proposing to make an entry in the database in respect of a person, may require the person to provide any information needed to complete the person's entry or keep it up-to-date.
+
+(3) It is an offence for the person to fail to comply with a requirement, unless the person has a reasonable excuse for the failure.
+
+(4) It is an offence for the person to provide information that is false or misleading if the person knows that the information is false or misleading or is reckless as to whether it is false or misleading.
+
+(5) A person who commits an offence under this section is liable on summary conviction to a fine.
+
+#### Removal or variation
+
+##### 36 Removal or variation of entries made under section 30
+
+(1) An entry made in the database under section 30 may be removed or varied in accordance with this section.
+
+(2) If the entry was made on the basis of one or more convictions all of which are overturned on appeal, the responsible local housing authority must remove the entry.
+
+(3) If the entry was made on the basis of more than one conviction and some of them (but not all) have been overturned on appeal, the responsible local housing authority may—
+
+(a) remove the entry, or
+
+(b) reduce the period for which the entry must be maintained.
+
+(4) If the entry was made on the basis of one or more convictions that have become spent, the responsible local housing authority may—
+
+(a) remove the entry, or
+
+(b) reduce the period for which the entry must be maintained.
+
+(5) If the entry was made on the basis that the person has received two or more financial penalties and at least one year has elapsed since the entry was made, the responsible local housing authority may—
+
+(a) remove the entry, or
+
+(b) reduce the period for which the entry must be maintained.
+
+(6) The power in subsection (3), (4) or (5) may even be used—
+
+(a) to remove an entry before the end of the two-year period mentioned in section 31(2)(b), or
+
+(b) to reduce the period for which an entry must be maintained to less than the two-year period mentioned in section 31(2)(b).
+
+(7) If a local housing authority removes an entry in the database, or reduces the period for which it must be maintained, it must notify the person to whom the entry relates.
+
+(8) In this section—
+
+- “responsible local housing authority” means the local housing authority by which the entry was made;
+- “spent”, in relation to a conviction, means spent for the purposes of the Rehabilitation of Offenders Act 1974.
+
+##### 37 Requests for exercise of powers under section 36 and appeals
+
+(1) A person in respect of whom an entry is made in the database under section 30 may request the responsible local housing authority to use its powers under section 36 to—
+
+(a) remove the entry, or
+
+(b) reduce the period for which the entry must be maintained.
+
+(2) The request must be in writing.
+
+(3) Where a request is made, the local housing authority must—
+
+(a) decide whether to comply with the request, and
+
+(b) give the person notice of its decision.
+
+(4) If the local housing authority decides not to comply with the request the notice must include—
+
+(a) reasons for that decision, and
+
+(b) a summary of the appeal rights conferred by this section.
+
+(5) Where a person is given notice that the responsible local housing authority has decided not to comply with the request the person may appeal to the First-tier Tribunal against that decision.
+
+(6) An appeal to the First-tier Tribunal under subsection (5) must be made before the end of the period of 21 days beginning with the day on which the notice was given.
+
+(7) The First-tier Tribunal may allow an appeal to be made to it after the end of that period if satisfied that there is a good reason for the person's failure to appeal within the period (and for any subsequent delay).
+
+(8) On an appeal under this section the tribunal may order the local housing authority to—
+
+(a) remove the entry, or
+
+(b) reduce the period for which the entry must be maintained.
+
+#### Access to information in the database
+
+##### 38 Access to database
+
+The Secretary of State must give every local housing authority in England access to information in the database.
+
+##### 39 Use of information in database
+
+(1) The Secretary of State may use information in the database for statistical or research purposes.
+
+(2) The Secretary of State may disclose information in the database to any person if the information is disclosed in an anonymised form.
+
+(3) Information is disclosed in an anonymised form if no individual or other person to whom the information relates can be identified from the information.
+
+(4) A local housing authority in England may only use information obtained from the database—
+
+(a) for purposes connected with its functions under the Housing Act 2004,
+
+(b) for the purposes of a criminal investigation or proceedings relating to a banning order offence,
+
+(c) for the purposes of an investigation or proceedings relating to a contravention of the law relating to housing or landlord and tenant,
+
+(d) for the purposes of promoting compliance with the law relating to housing or landlord and tenant by any person in the database, or
+
+(e) for statistical or research purposes.
+
+(5) For the purposes of paragraph 17 of Schedule 23 to the Finance Act 2011 (which relates to HMRC data-gathering powers), the database is to be treated as being maintained by the Secretary of State.
+
+### CHAPTER 4 — Rent repayment orders
+
+#### Rent repayment orders: introduction
+
+##### 40 Introduction and key definitions
+
+[[^F5](1) This Chapter confers power on the First-tier Tribunal to make a rent repayment order where an offence to which this Chapter applies has been committed by—
+
+(a) a landlord under a tenancy of housing in England, or
+
+(b) any superior landlord in relation to such a tenancy.
+
+(2) A rent repayment order is an order requiring the landlord or superior landlord who committed the offence to—
+
+(a) pay a tenant an amount in respect of rent paid by or on behalf of the tenant (whether the rent was paid to the landlord or superior landlord against whom the order is made, or to another person), or
+
+(b) pay a local housing authority an amount in respect of a relevant award of universal credit paid (to any person) in respect of rent under the tenancy.
+
+(2A) In a case where the offence was committed by a superior landlord—
+
+(a) references in the following provisions of this Chapter to the landlord are to be read as references to the superior landlord, and
+
+(b) housing in relation to which the person in question is a superior landlord is to be treated for the purposes of this Chapter as let by that person.]
+
+(3) A reference to “an offence to which this Chapter applies” is to an offence, of a description specified in the table, that is committed by a landlord in relation to housing in England let by that landlord.
+
+<table>
+<tbody>
+<tr><th></th><th><i>Act</i></th><th><i>section</i></th><th><i>general description of offence</i></th></tr>
+<tr><td>1</td><td>Criminal Law Act 1977</td><td>section 6(1)</td><td>violence for securing entry</td></tr>
+<tr><td>2</td><td>Protection from Eviction Act 1977</td><td>section 1(2), (3) or (3A)</td><td>eviction or harassment of occupiers</td></tr>
+<tr><td>[[^F6]2A</td><td>Housing Act 1988</td><td>section 16J(1)</td><td>Knowingly or recklessly misusing a possession ground</td></tr>
+<tr><td>2B</td><td>section 16J(2)</td><td>Breach of restriction on letting or marketing dwelling-house</td><td></td></tr>
+<tr><td>2C</td><td>section 16J(3)</td><td>Tenancy reform: continuing breaches]</td><td></td></tr>
+<tr><td>3</td><td rowspan="4">Housing Act 2004</td><td>section 30(1)</td><td>failure to comply with improvement notice</td></tr>
+<tr><td>4</td><td>section 32(1)</td><td>failure to comply with prohibition order etc</td></tr>
+<tr><td>5</td><td>section 72(1)</td><td>[[^F7]offences relating to unlicensed HMOs]</td></tr>
+<tr><td>6</td><td>section 95(1)</td><td>[[^F8]offences relating to unlicensed houses]</td></tr>
+<tr><td>7</td><td>This Act</td><td>section 21</td><td>breach of banning order</td></tr>
+<tr><td></td><td rowspan="3"></td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td></tr>
+</tbody>
+</table>
+
+(4) For the purposes of subsection (3), an offence under section 30(1) or 32(1) of the Housing Act 2004 is committed in relation to housing in England let by a landlord only if the improvement notice or prohibition order mentioned in that section was given in respect of a hazard on the premises let by the landlord (as opposed, for example, to common parts).
+
+#### Application for rent repayment order
+
+##### 41 Application for rent repayment order
+
+(1) A tenant or a local housing authority may apply to the First-tier Tribunal for a rent repayment order against a [[^F9]landlord] who has committed an offence to which this Chapter applies.
+
+(2) A tenant may apply for a rent repayment order only if —
+
+(a) the offence relates to housing that, at the time of the offence, was let to the tenant, and
+
+(b) the offence was committed in the period of [[^F10]2 years] ending with the day on which the application is made.
+
+[[^F11](2A) The requirement in subsection (2)(a) does not apply to an application for a rent repayment order in relation to an offence under section 16J(1) or (2) of the Housing Act 1988.]
+
+(3) A local housing authority may apply for a rent repayment order only if—
+
+(a) the offence relates to housing in the authority's area, and
+
+(b) the authority has complied with section 42.
+
+(4) In deciding whether to apply for a rent repayment order a local housing authority must have regard to any guidance given by the Secretary of State.
+
+##### 42 Notice of intended proceedings
+
+(1) Before applying for a rent repayment order a local housing authority must give the landlord a notice of intended proceedings.
+
+(2) A notice of intended proceedings must—
+
+(a) inform the landlord that the authority is proposing to apply for a rent repayment order and explain why,
+
+(b) state the amount that the authority seeks to recover, and
+
+(c) invite the landlord to make representations within a period specified in the notice of not less than 28 days (“the notice period”).
+
+(3) The authority must consider any representations made during the notice period.
+
+(4) The authority must wait until the notice period has ended before applying for a rent repayment order.
+
+(5) A notice of intended proceedings may not be given after the end of the period of [[^F12]2 years] beginning with the day on which the landlord committed the offence to which it relates.
+
+#### Making of rent repayment order
+
+##### 43 Making of rent repayment order
+
+(1) The First-tier Tribunal may make a rent repayment order if satisfied, beyond reasonable doubt, that a landlord has committed an offence to which this Chapter applies (whether or not the landlord has been convicted).
+
+(2) A rent repayment order under this section may be made only on an application under section 41.
+
+(3) The amount of a rent repayment order under this section is to be determined in accordance with—
+
+(a) section 44 (where the application is made by a tenant);
+
+(b) section 45 (where the application is made by a local housing authority);
+
+(c) section 46 (in certain cases where the landlord has been convicted etc).
+
+[[^F13](d) section 46A (where an order is made against more than one landlord or there has been a previous order).]
+
+##### 44 Amount of order: tenants
+
+(1) Where the First-tier Tribunal decides to make a rent repayment order under section 43 in favour of a tenant, the amount is to be determined in accordance with this section.
+
+(2) The amount must relate to rent paid [[^F14]by, or on behalf of, the tenant] [[^F15]in respect of] the period mentioned in the table.
+
+|  |  |
+|---|---|
+| *If the order is made on the ground that the landlord has committed* | *the amount must relate to rent paid by [[^F16], or on behalf of,] the tenant in respect of* |
+| an offence mentioned in row 1 [^F17]or 2 [[^F17], 2, 2A or 9] of the table in section 40(3) | the period of [[^F18]2 years] ending with the date of the offence |
+| [[^F19]an offence mentioned in row 2B of the table in section 40(3) | the period of 2 years ending with the date of the offence or, if the tenancy ends before that date, the date on which it ends] |
+| an offence mentioned in row [^F20]3, 4, 5, 6 or 7 [[^F20]2C, 3, 4, 5, 6, 7, 8 or 10] of the table in section 40(3) | a period, not exceeding [[^F18]2 years] , during which the landlord was committing the offence |
+
+(3) The amount that the landlord may be required to [[^F21]pay] in respect of a period must not exceed—
+
+(a) the rent paid [[^F22]by, or on behalf of, the tenant] in respect of that period, less
+
+(b) any relevant award of universal credit paid (to any person) in respect of rent under the tenancy during that period.
+
+(4) In determining the amount the tribunal must, in particular, take into account—
+
+(a) the conduct of the landlord and the tenant,
+
+[[^F23](aa) the amount of any rent received by the tenant in respect of the period mentioned in the table in relation to the housing let to the tenant,]
+
+(b) the financial circumstances of the landlord, [^F24]...
+
+(c) whether the landlord has at any time been convicted of [[^F25] or received a financial penalty in respect of,] an offence to which this Chapter applies [[^F26], and
+
+(d) whether the landlord has at any time had a rent repayment order made against them.]
+
+##### 45 Amount of order: local housing authorities
+
+(1) Where the First-tier Tribunal decides to make a rent repayment order under section 43 in favour of a local housing authority, the amount is to be determined in accordance with this section.
+
+(2) The amount must relate to universal credit paid [[^F27]in respect of] the period mentioned in the table.
+
+|  |  |
+|---|---|
+| *In the order is made on the ground that the landlord has committed* | *the amount must relate to universal credit paid in respect of* |
+| an offence mentioned in row 1 [^F28]or 2 [[^F28], 2, 2A or 9] of the table in section 40(3) | the period of [[^F29]2 years] ending with the date of the offence |
+| [[^F30]an offence mentioned in row 2B of the table in section 40(3) | the period of 2 years ending with the date of the offence or, if the tenancy ends before that date, the date on which it ends] |
+| an offence mentioned in row [^F31]3, 4, 5, 6 or 7 [[^F31]2C, 3, 4, 5, 6, 7, 8 or 10] of the table in section 40(3) | a period, not exceeding [[^F29]2 years] , during which the landlord was committing the offence |
+
+(3) The amount that the landlord may be required to [[^F32]pay] in respect of a period must not exceed the amount of universal credit [^F33]... received (directly or indirectly) in respect of rent under the tenancy for that period.
+
+(4) In determining the amount the tribunal must, in particular, take into account—
+
+(a) the conduct of the landlord,
+
+(b) the financial circumstances of the landlord, [^F34]...
+
+(c) whether the landlord has at any time been convicted of [[^F35], or received a financial penalty in respect of,] an offence to which this Chapter applies [[^F36], and
+
+(d) whether the landlord has at any time had a rent repayment order made against them.]
+
+##### 46 Amount of order following conviction
+
+(1) Where the First-tier Tribunal decides to make a rent repayment order under section 43 and [[^F37]either] of the following conditions are met, the amount is to be the maximum that the tribunal has power to order in accordance with section 44 or 45 (but disregarding subsection (4) of those sections).
+
+(2) Condition 1 is that the order—
+
+(a) is made against a landlord who has been convicted of the offence, or
+
+(b) is made against a landlord who has received a financial penalty in respect of the offence and is made at a time when there is no prospect of appeal against that penalty.
+
+[[^F38](3) Condition 2 is that the order is made against a landlord in relation to an offence (the “relevant offence”) where the landlord has at any time (whether or not in relation to the same tenancy or housing)—
+
+(a) been convicted of another offence which is the same offence as the relevant offence,
+
+(b) received a financial penalty in respect of another offence which is the same offence as the relevant offence, or
+
+(c) had a rent repayment order made against them in respect of another offence which is the same offence as the relevant offence.]
+
+(4) For the purposes of subsection (2)(b) there is “no prospect of appeal”, in relation to a penalty, when the period for appealing the penalty has expired and any appeal has been finally determined or withdrawn.
+
+[[^F39](4A) For the purposes of subsection (3), an offence under section 72(1) of the Housing Act 2004 is to be treated as the same offence as an offence under section 95(1) of that Act (and vice versa).]
+
+(5) Nothing in this section requires the payment of any amount that, by reason of exceptional circumstances, the tribunal considers it would be unreasonable to require the landlord to pay.
+
+##### 46A [[^F40]Amount of order: supplementary
+
+(1) A rent repayment order made against more than one landlord must provide for the landlords to be jointly and severally liable for the amount due under the order.
+
+(2) If a rent repayment order (“the original order”) has been made in respect of rent under a tenancy and another rent repayment order (“the new order”) is made in respect of rent under the same tenancy, the new order may not require payment to be made in respect of any period in respect of which the original order required payment to be made.]
+
+#### Enforcement of rent repayment order
+
+##### 47 Enforcement of rent repayment orders
+
+(1) An amount payable to a tenant or local housing authority under a rent repayment order is recoverable as a debt.
+
+(2) An amount payable to a local housing authority under a rent repayment order does not, when recovered by the authority, constitute an amount of universal credit recovered by the authority.
+
+(3) The Secretary of State may by regulations make provision about how local housing authorities are to deal with amounts recovered under rent repayment orders.
+
+#### Local housing authority functions
+
+##### 48 Duty to consider applying for rent repayment orders
+
+If a local housing authority becomes aware that a person has been convicted of an offence to which this Chapter applies in relation to housing in its area, the authority must consider applying for a rent repayment order.
+
+##### 49 Helping tenants apply for rent repayment orders
+
+(1) A local housing authority in England may help a tenant to apply for a rent repayment order.
+
+(2) A local housing authority may, for example, help the tenant to apply by conducting proceedings or by giving advice to the tenant.
+
+#### Amendments etc and interpretation
+
+##### 50 Rent repayment orders: consequential amendments
+
+(1) The Housing Act 2004 is amended as follows.
+
+(2) In section 73 (other consequences of operating unlicensed HMOs: rent repayment orders)—
+
+(a) in subsection (4), after “section 74” insert “ (in the case of an HMO in Wales) or in accordance with Chapter 4 of Part 2 of the Housing and Planning Act 2016 (in the case of an HMO in England) ”;
+
+(b) in subsection (5)(a), after “HMO” insert “ in Wales ”.
+
+(3) In section 96 (other consequences of operating unlicensed houses: rent repayment orders)—
+
+(a) in subsection (4), after “section 97” insert “ (in the case of a house in Wales) or in accordance with Chapter 4 of Part 2 of the Housing and Planning Act 2016 (in the case of a house in England) ”;
+
+(b) in subsection (5)(a), after “house” insert “ in Wales ”.
+
+##### 51 Housing benefit: inclusion pending abolition
+
+(1) In this Chapter a reference to universal credit or a relevant award of universal credit includes housing benefit under Part 7 of the Social Security Contributions and Benefits Act 1992.
+
+(2) Where a local authority applies for a rent repayment order in relation to housing benefit, a reference in this Chapter to “rent” includes any payment in respect of which housing benefit may be paid.
+
+##### 51A [[^F41]Landlord which is body corporate: liability of directors etc
+
+(1) This section applies where—
+
+(a) a landlord which is a body corporate has committed an offence to which this Chapter applies, and
+
+(b) the offence—
+
+(i) was committed with the consent or connivance of a relevant person in relation to the body corporate, or of a person purporting to act in the capacity of a relevant person in relation to the body corporate, or
+
+(ii) was a specified offence and was attributable to any neglect on the part of such a person.
+
+(2) That person, as well as the body corporate, is treated for the purposes of this Chapter as having committed the offence.
+
+(3) In this Chapter a reference to the landlord includes that person.
+
+(4) In this section—
+
+- “relevant person” means—
+
+  - in relation to a body corporate other than one the affairs of which are managed by its members, a director, manager, secretary or other similar officer of the body;
+  - in relation to a body corporate the affairs of which are managed by its members, a member who exercises functions of management with respect to it;
+
+- “specified offence” means an offence under—
+
+  - section 1 (2) of the Protection from Eviction Act 1977;
+  - section 16J (2) or (3) of the Housing Act 1988;
+  - section 30 (1), 32(1), 72(1) or 95(1) of the Housing Act 2004;
+  - section 21 of this Act;
+  - section 67(1) or 92(2) of the Renters’ Rights Act 2025.]
+
+##### 52 Interpretation of Chapter
+
+(1) In this Chapter—
+
+- [[^F42]“landlord” is to be read in accordance with section 40(2A);]
+- “offence to which this Chapter applies” has the meaning given by section 40;
+- “relevant award of universal credit” means an award of universal credit the calculation of which included an amount under section 11 of the Welfare Reform Act 2012;
+- “rent” includes any payment in respect of which an amount under section 11 of the Welfare Reform Act 2012 may be included in the calculation of an award of universal credit;
+- “rent repayment order” has the meaning given by section 40.
+
+(2) For the purposes of this Chapter an amount that a tenant does not pay as rent but which is offset against rent is to be treated as having been paid as rent.
+
+### CHAPTER 5 — Appeals under this Part
+
+#### 53 Appeals from the first-tier tribunal
+
+(1) A person aggrieved by a decision of the First-tier Tribunal made under this Part may appeal to the Upper Tribunal.
+
+(2) An appeal may not be brought under subsection (1) in relation to a decision on a point of law (as to which see instead section 11 of the Tribunals, Courts and Enforcement Act 2007 (right of appeal to Upper Tribunal)).
+
+(3) An appeal may not be brought under subsection (1) if the decision is set aside under section 9 of the Tribunals, Courts and Enforcement Act 2007 (review of decision of First-tier Tribunal).
+
+(4) An appeal may be brought under subsection (1) only if, on an application made by the person concerned, the First-tier Tribunal or Upper Tribunal has given its permission for the appeal to be brought.
+
+(5) In any case where the Upper Tribunal is determining an appeal under subsection (1), section 12(2) to (4) of the Tribunals, Courts and Enforcement Act 2007 (proceedings on appeal to the Upper Tribunal) apply.
+
+### CHAPTER 6 — Interpretation of Part 2
+
+#### 54 Meaning of “letting agent” and related expressions
+
+(1) In this Part “letting agent” means a person who engages in letting agency work (whether or not that person engages in other work).
+
+(2) But a person is not a letting agent for the purposes of this Part if the person engages in letting agency work in the course of that person's employment under a contract of employment.
+
+(3) In this Part “letting agency work” means things done by a person in the course of a business in response to instructions received from—
+
+(a) a person (“a prospective landlord”) seeking to find another person to whom to let housing, or
+
+(b) a person (“a prospective tenant”) seeking to find housing to rent.
+
+(4) But “letting agency work” does not include any of the following things when done by a person who does nothing else within subsection (3)—
+
+(a) publishing advertisements or disseminating information;
+
+(b) providing a means by which a prospective landlord or a prospective tenant can, in response to an advertisement or dissemination of information, make direct contact with a prospective tenant or a prospective landlord;
+
+(c) providing a means by which a prospective landlord and a prospective tenant can communicate directly with each other.
+
+(5) In this Part “English letting agency work” means letting agency work that relates to housing in England.
+
+#### 55 Meaning of “property manager” and related expressions
+
+(1) In this Part “property manager” means a person who engages in English property management work.
+
+(2) But a person is not a property manager for the purposes of this Part if the person engages in English property management work in the course of that person's employment under a contract of employment.
+
+(3) In this Part “English property management work” means things done by a person in the course of a business in response to instructions received from another person (“the client”) where—
+
+(a) the client wishes the person to arrange services, repairs, maintenance, improvements or insurance in respect of, or to deal with any other aspect of the management of, premises on the client's behalf, and
+
+(b) the premises consist of housing in England let under a tenancy.
+
+#### 56 General interpretation of Part
+
+In this Part—
+
+- “banning order” has the meaning given by section 14;
+
+- “banning order offence” has the meaning given by section 14;
+
+- “body corporate” includes a body incorporated outside England and Wales;
+
+- “database” means the database of rogue landlords and letting agents established under section 28;
+
+- “English letting agency work” has the meaning given by section 54;
+
+- “English property management work” has the meaning given by section 55;
+
+- “financial penalty” means a penalty that—
+
+  - (a) is imposed in respect of conduct that amounts to an offence, but
+  - (b) is imposed otherwise than following the person's conviction for the offence;
+
+- “housing” means a building, or part of a building, occupied or intended to be occupied as a dwelling or as more than one dwelling;
+
+- “letting”—
+
+  - (a) includes the grant of a licence, but
+  - (b) except in Chapter 4, does not include the grant of a tenancy or licence for a term of more than 21 years,
+
+  and “let” is to be read accordingly;
+
+- “letting agency work” has the meaning given by section 54;
+
+- “letting agent” has the meaning given by section 54;
+
+- “local housing authority” has the meaning given by section 1 of the Housing Act 1985;
+
+- “officer”, in relation to a body corporate, means—
+
+  - (a) any director, secretary or other similar officer of the body corporate, or
+  - (b) any person who was purporting to act in any such capacity;
+
+- “property agent” means a letting agent or property manager;
+
+- “property manager” has the meaning given by section 55;
+
+- “residential landlord” means a landlord of housing;
+
+- “tenancy”—
+
+  - (a) includes a licence, but
+  - (b) except in Chapter 4, does not include a tenancy or licence for a term of more than 21 years.
+
+## [^F43]PART 3 — Recovering abandoned premises in England (prospective)
+
+### [^F43]57 Recovering abandoned premises (prospective)
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F43]58 The unpaid rent condition (prospective)
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F43]59 Warning notices (prospective)
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F43]60 Reinstatement (prospective)
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F43]61 Methods for giving notices under sections 57 and 59 (prospective)
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F43]62 Interpretation of Part (prospective)
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F43]63 Consequential amendment to Housing Act 1988 (prospective)
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 4 — Social housing in England
+
+### CHAPTER 1 — Implementing the right to buy on a voluntary basis
+
+#### Funding of discounts offered to tenants
+
+##### 64 Grants by Secretary of State
+
+(1) The Secretary of State may make grants to private registered providers in respect of right to buy discounts.
+
+(2) A grant under this section may be made on any terms and conditions the Secretary of State considers appropriate.
+
+(3) See also section 47 of the Housing and Regeneration Act 2008 (which would allow the Secretary of State to direct the Homes and Communities Agency to use its powers to make grants of the kind mentioned above).
+
+##### 65 Grants by Greater London Authority
+
+(1) The Greater London Authority may make grants to private registered providers in respect of right to buy discounts for dwellings in London.
+
+(2) A grant under this section may be made on any terms and conditions the Greater London Authority considers appropriate.
+
+#### Monitoring compliance
+
+##### 66 Monitoring
+
+(1) The Regulator of Social Housing must, if requested to do so by the Secretary of State, monitor compliance with the home ownership criteria.
+
+(2) “The home ownership criteria” means criteria, specified in the request, that relate to the sale of dwellings by private registered providers to tenants otherwise than in exercise of a right conferred by an Act.
+
+(3) The criteria may be expressed by reference to other documents.
+
+(4) On making a request under subsection (1) the Secretary of State must publish the home ownership criteria specified in the request.
+
+(5) The Regulator must provide such reports or other information as the Secretary of State may request about compliance with the home ownership criteria.
+
+(6) The Secretary of State may publish information about a private registered provider that has not met the home ownership criteria.
+
+#### Amendments to other legislation
+
+##### 67 Consequential changes to HCA's duty to give grants
+
+(1) Section 35 of the Housing and Regeneration Act 2008 (duty to give financial assistance in respect of certain disposals) is amended as follows.
+
+(2) For subsection (1) substitute—
+
+> (1) The HCA must exercise its powers under section 19 to give financial assistance by way of grant to a relevant provider of social housing in respect of any discount given by the provider by virtue of a person exercising the right to acquire conferred by section 180.
+
+(3) Omit subsection (2).
+
+(4) In subsection (3), for “(1)(a)” substitute “(1)”.
+
+(5) In subsection (5), omit paragraph (b).
+
+#### Interpretation
+
+##### 68 Interpretation of Chapter
+
+In this Chapter—
+
+- “dwelling” has the meaning given by section 275 of the Housing and Regeneration Act 2008;
+- “private registered provider” means a private registered provider of social housing;
+- “right to buy discount” means a discount given to a tenant of a dwelling on the disposal of the dwelling to the tenant otherwise than in the exercise of a right conferred by an Act.
+
+### CHAPTER 2 — Vacant higher value local authority housing
+
+#### Payments to Secretary of State by local housing authorities
+
+##### 69 Payments to Secretary of State
+
+(1) The Secretary of State may make a determination requiring a local housing authority in England to make a payment to the Secretary of State in respect of a financial year.
+
+(2) The amount of the payment must represent an estimate of—
+
+(a) the market value of the authority's interest in any higher value housing that is likely to become vacant during the year, less
+
+(b) any costs or other deductions of a kind described in the determination.
+
+(3) For the housing to be taken into account, see section 70.
+
+(4) A determination may only be made in respect of a local housing authority that keeps a Housing Revenue Account.
+
+(5) A determination must set out the method for calculating the amount of the payment.
+
+(6) A determination may, in particular, provide for all or part of the amount to be calculated using a formula.
+
+(7) A determination may provide for assumptions to be made in making a calculation whether or not those assumptions are, or are likely to be, borne out by events.
+
+(8) The Secretary of State must by regulations define “higher value”, in relation to housing, for the purposes of this Chapter.
+
+(9) Regulations under subsection (8) may define “higher value” in different ways for different kinds of housing, different local housing authorities or different areas.
+
+(10) In determining how to define “higher value”, in relation to housing, the Secretary of State may—
+
+(a) use any category of housing that the Secretary of State considers appropriate as a comparator (for example, housing in which a local housing authority has an interest or housing in a particular area);
+
+(b) take into account any other factors that the Secretary of State considers appropriate.
+
+##### 70 Housing to be taken into account
+
+(1) This section is about the housing to be taken into account under section 69(2).
+
+(2) Housing is to be taken into account only if—
+
+(a) it appears in the list in section 74(1) of the Local Government and Housing Act 1989 (Housing Revenue Account), and
+
+(b) it is not excluded by regulations made by the Secretary of State.
+
+(3) Where a local housing authority disposes of housing under section 32 or 43 of the Housing Act 1985 to a private registered provider of social housing the Secretary of State may for the purposes of this Chapter—
+
+(a) treat the local housing authority as still having that housing, and
+
+(b) treat the housing as being likely to become vacant whenever it would have been likely to become vacant if it had not been disposed of.
+
+(4) A determination under section 69 must identify any housing that the Secretary of State has taken into account under subsection (3).
+
+##### 71 Procedure for determinations
+
+(1) Before making a determination under section 69 that relates to all local housing authorities or a description of local housing authority the Secretary of State must consult such representatives of local government and relevant professional bodies as the Secretary of State thinks appropriate.
+
+(2) Before making a determination under section 69 that relates to a particular local housing authority, the Secretary of State must consult that local housing authority.
+
+(3) As soon as possible after making a determination under section 69 the Secretary of State must send a copy of it to each local housing authority to which it relates.
+
+(4) Section 87(4) to (7) of the Local Government and Housing Act 1989 (electronic communications) applies to a determination under this Chapter as it applies to a determination under Part 6 of that Act.
+
+(5) A consultation requirement imposed by this section may be satisfied by consultation carried out before this Act was passed.
+
+##### 72 More about determinations
+
+(1) A determination under section 69 must be made before the financial year to which it relates.
+
+(2) But the determination may be varied or revoked by a subsequent determination under that section made before, after or during the financial year to which it relates.
+
+(3) A determination under section 69 may relate to one financial year or to more than one financial year.
+
+(4) A determination under section 69 may make provision about how and when a payment is to be made including, in particular, provision for payments by instalment.
+
+(5) A determination under section 69 may provide for interest to be charged in the event of late payment.
+
+(6) A determination under section 69—
+
+(a) may make different provision for different areas;
+
+(b) may make different provision for different local housing authorities;
+
+(c) may otherwise make different provision for different purposes.
+
+##### 73 Determinations in the first year that section 69 comes into force
+
+If section 69 comes into force part way through a financial year, then, in relation to that financial year—
+
+(a) a determination under section 69 may be made at any time (despite section 72(1)), but
+
+(b) any reference in section 69 to housing becoming vacant during a financial year is to be read as limited to housing becoming vacant after the determination is made (or, in a case where it is varied in accordance with section 72(2), housing becoming vacant after the original determination in relation to that financial year is made).
+
+##### 74 Reduction of payment by agreement
+
+(1) The Secretary of State and a local housing authority may enter into an agreement to reduce the amount that the authority is required to pay because of a determination under this Chapter.
+
+(2) The terms and conditions of an agreement must include—
+
+(a) the amount of the reduction mentioned in subsection (1), and
+
+(b) any terms and conditions required by subsection (3) or (4).
+
+(3) Where the agreement is with a local housing authority outside Greater London, it must include terms and conditions requiring the authority to ensure that at least one new affordable home is provided for each old dwelling.
+
+(4) Where the agreement is with a local housing authority in Greater London, it must include terms and conditions requiring the authority to ensure that at least two new affordable homes are provided for each old dwelling.
+
+(5) But if the Greater London Authority has agreed to ensure that a number of the new affordable homes are provided, that number is to be deducted from the number for which the local housing authority must be made responsible by terms and conditions under subsection (4).
+
+(6) The Secretary of State may by regulations create other exceptions to subsection (3) or (4) in relation to one or more local housing authorities.
+
+(7) In this section—
+
+- “new affordable home” means a new dwelling in England that—
+
+  - (a) is to be made available for people whose needs are not adequately served by the commercial housing market, or
+  - (b) is a starter home as defined by section 2;
+
+- “new dwelling” means a building or part of a building that—
+
+  - (a) has been constructed for use as a single dwelling and has not previously been occupied, or
+  - (b) has been adapted for use as a single dwelling and has not been occupied since its adaptation;
+
+- “old dwelling” means a single dwelling taken into account under section 69(2) for the purposes of the determination.
+
+(8) If a determination under this Chapter relates to more than one financial year—
+
+(a) an agreement under this section may be made in relation to the determination so far as it relates to a particular financial year, and
+
+(b) in the definition of “old dwelling” in subsection (7) the reference to the determination is to the determination so far as it relates to the financial year to which the agreement relates.
+
+(9) The Secretary of State may by regulations amend this section so as to change the meaning of “new affordable home”.
+
+##### 75 Set off against repayments under section 69
+
+Where the Secretary of State is liable to repay an amount that has been overpaid by a local housing authority under section 69, the Secretary of State may set off against the amount of the repayment any amount that the authority is liable to pay the Secretary of State under—
+
+(a) section 69, or
+
+(b) section 11 of the Local Government Act 2003.
+
+#### Duty to consider selling
+
+##### 76 Duty to consider selling vacant higher value housing
+
+(1) A local housing authority in England that keeps a Housing Revenue Account must consider selling its interest in any higher value housing that has become vacant.
+
+(2) The duty in subsection (1) applies only in relation to housing that appears in the list in section 74(1) of the Local Government and Housing Act 1989 (Housing Revenue Account).
+
+(3) The Secretary of State may by regulations exclude housing from the duty in subsection (1).
+
+(4) In discharging its duty under subsection (1) a local housing authority must have regard to any guidance given by the Secretary of State.
+
+#### Amendments and interpretation
+
+##### 77 Local authority disposal of housing: consent requirements
+
+(1) The Housing Act 1985 is amended as follows.
+
+(2) In section 34(4A) (consents to disposals and conditions), after paragraph (ca) (but before the “and”) insert—
+
+> (cb) any reduction in the amount that the local authority may be required to pay under section 69 of the Housing and Planning Act 2016 (payments to Secretary of State in respect of vacant higher value housing in England) as a result of the disposal;
+
+.
+
+(3) In section 43(4A) (consents to disposals and conditions), after paragraph (ca) (but before the “and”) insert—
+
+> (cb) any reduction in the amount that the local authority may be required to pay under section 69 of the Housing and Planning Act 2016 (payments to Secretary of State in respect of vacant higher value housing in England) as a result of the disposal;
+
+.
+
+##### 78 Set off under section 11 of Local Government Act 2003
+
+(1) Section 11 of the Local Government Act 2003 (use of capital receipts) is amended as follows.
+
+(2) In subsection (5), after “an authority” insert “ in Wales ”.
+
+(3) After subsection (5) insert—
+
+> (5A) Where the Secretary of State is liable to repay an amount that has been overpaid by a local housing authority in England under this section, the Secretary of State may set off against the amount of the repayment any amount that the authority is liable to pay the Secretary of State under—
+>
+> (a) this section, or
+>
+> (b) section 69 of the Housing and Planning Act 2016 (payments in respect of vacant higher value housing).
+
+##### 79 Interpretation of Chapter
+
+(1) In this Chapter—
+
+- “becomes vacant”: housing in which a local housing authority has an interest “ becomes vacant ” when a tenancy granted by the authority comes to an end and is not renewed expressly or by operation of law (but see subsection (2));
+- “financial year” means a period of 12 months beginning with 1 April;
+- “higher value”, in relation to housing, has the meaning given by regulations under section 69;
+- “housing” means a building, or part of a building, which is occupied or intended to be occupied as a dwelling or as more than one dwelling;
+- “Housing Revenue Account” has the meaning given by section 74 of the Local Government and Housing Act 1989;
+- “interest” means a freehold or leasehold interest;
+- “local housing authority” has the meaning given by section 1 of the Housing Act 1985;
+- “tenancy” includes a licence to occupy.
+
+(2) The Secretary of State may by regulations specify circumstances in which housing is to be treated as not having become vacant for the purposes of this Part even if it otherwise would be.
+
+### CHAPTER 3 — Rents for high income social tenants
+
+#### Mandatory rents for local authority tenants
+
+##### 80 Mandatory rents for high income local authority tenants
+
+(1) The Secretary of State may by regulations make provision about the levels of rent that an English local housing authority must charge a high income tenant of social housing in England.
+
+(2) The regulations may, in particular, require the rent—
+
+(a) to be equal to the market rate,
+
+(b) to be a proportion of the market rate, or
+
+(c) to be determined by reference to other factors.
+
+(3) The regulations may, in particular, provide for the rent to be different—
+
+(a) for people with different incomes, or
+
+(b) for social housing in different areas.
+
+(4) The regulations may create exceptions for high income tenants of social housing of a specified description.
+
+(5) The regulations may require a local housing authority to have regard to guidance given by the Secretary of State when determining rent in accordance with the regulations.
+
+(6) Regulations under this section are referred to in this Chapter as “rent regulations”.
+
+##### 81 Meaning of “high income” etc
+
+(1) Rent regulations must—
+
+(a) define what is meant by “high income” for the purposes of this Chapter, and
+
+(b) make provision about how a person's income is to be calculated.
+
+(2) The regulations may, in particular—
+
+(a) define “high income” in different ways for different areas;
+
+(b) specify things that are, or are not, to be treated as income;
+
+(c) make provision about the period by reference to which a person's income is to be calculated (which may be a period in the past);
+
+(d) make provision about how a person's income is to be verified;
+
+(e) require a person's household income (as defined by the regulations) to be taken into account;
+
+(f) require a local housing authority to have regard to guidance given by the Secretary of State when calculating or verifying a person's income.
+
+##### 82 Information about income
+
+(1) Rent regulations may give a local housing authority the power to require a tenant to provide information or evidence for the purpose of determining whether the local housing authority is obliged by the regulations to charge a specific level of rent and what that level is.
+
+(2) Rent regulations may require an English local housing authority to charge the maximum rent to a tenant who has failed to comply with a requirement.
+
+(3) Regulations made in reliance on subsection (1) may, in particular, make provision about—
+
+(a) the kind of information or evidence that may be required;
+
+(b) the time within which and the manner and form in which the information or evidence is to be provided.
+
+(4) In subsection (1) “tenant” includes prospective tenant.
+
+(5) In subsection (2) “the maximum rent” means the rent that a local housing authority is required to charge a high income tenant of the premises under section 80 (or, if regulations under section 80(3)(a) provide for different rents for people with different incomes, the rent that a person in the highest income bracket would be required to pay).
+
+##### 83 HMRC information
+
+(1) HMRC may disclose information for the purpose of enabling a local housing authority to determine whether it is obliged by rent regulations to charge a tenant a specific level of rent and what that level is.
+
+(2) The information may only be disclosed to—
+
+(a) a local housing authority,
+
+(b) the Secretary of State for the purposes of passing the information to local housing authorities,
+
+(c) a public body that has been given the function of passing information between HMRC and local housing authorities by regulations under subsection (3), or
+
+(d) a body with which the Secretary of State has made arrangements for the passing of information between HMRC and local housing authorities.
+
+(3) The Secretary of State may by regulations—
+
+(a) give a public body the function mentioned in subsection (2)(c), and
+
+(b) make provision about the carrying out of that function.
+
+(4) The Secretary of State must obtain HMRC's consent before making—
+
+(a) arrangements under subsection (2)(d), or
+
+(b) regulations under subsection (3).
+
+(5) Information disclosed under this section to the Secretary of State or to a body mentioned in subsection (2)(c) or (d) may be passed on to a local housing authority for which it is intended.
+
+(6) Information disclosed under this section may not otherwise be further disclosed without authorisation from HMRC.
+
+(7) Where a person contravenes subsection (6) by disclosing any revenue and customs information relating to a person whose identity—
+
+(a) is specified in the disclosure, or
+
+(b) can be deduced from it,
+
+section 19 of the Commissioners for Revenue and Customs Act 2005 (wrongful disclosure) applies in relation to that disclosure as it applies in relation to a disclosure of such information in contravention of section 20(9) of that Act.
+
+(8) In this section—
+
+- “HMRC” means the Commissioners for Her Majesty's Revenue and Customs;
+- “revenue and customs information relating to a person” has the meaning given by section 19(2) of the Commissioners for Revenue and Customs Act 2005;
+- “tenant” includes prospective tenant.
+
+##### 84 Reverting to original rent levels
+
+(1) Rent regulations may include provision for the purpose of ensuring that where a requirement imposed under section 80(1) ceases to apply, the rent is changed to what it would have been if the requirement had never applied.
+
+(2) Rent regulations may include provision for the purpose of ensuring that where—
+
+(a) a local housing authority is required by section 82(2) to charge the maximum rent because of a tenant's failure to provide information or evidence, and
+
+(b) the tenant subsequently provides the necessary information or evidence,
+
+the rent is changed to what it would have been if section 82(2) had never applied.
+
+##### 85 Power to change rents and procedure for changing rents
+
+(1) Rent regulations may give a local housing authority power to change the rent payable under a tenancy for the purpose of complying with the regulations.
+
+(2) Rent regulations may make provision about the procedure for changing rent to comply with the regulations (whether the change is made using a power given by regulations under subsection (1) or otherwise).
+
+(3) Regulations made in reliance on subsection (2) may, in particular—
+
+(a) make provision about the review of decisions to increase rent;
+
+(b) give rights of appeal to the First-tier Tribunal and amend existing rights of appeal.
+
+(4) Regulations under this section may amend any provision made by or under an Act passed before this Act or in the same Session.
+
+##### 86 Payment by local authority of increased income to Secretary of State
+
+(1) Rent regulations may require a local housing authority to make a payment or payments to the Secretary of State in respect of any estimated increase in rental income because of the regulations.
+
+(2) The amount of a payment is to be calculated in accordance with the regulations.
+
+(3) The regulations may provide for deductions to be made to reflect the administrative costs of local authorities in implementing the regulations.
+
+(4) The regulations may provide for interest to be charged in the event of late payment.
+
+(5) The regulations may provide for assumptions to be made in making a calculation, whether or not those assumptions are, or are likely to be, borne out by events.
+
+(6) The regulations may make provision about how and when payments are to be made including, in particular, provision for payments by instalment.
+
+##### 87 Provision of information to Secretary of State
+
+Rent regulations may give the Secretary of State a power to require a local housing authority to provide information in connection with the regulations.
+
+##### 88 Interaction with other legislation and consequential amendments
+
+(1) The Secretary of State must use the power in section 24(5) of the Welfare Reform and Work Act 2016 to provide that section 23 of that Act does not apply to a high income tenant of social housing to whom rent regulations apply.
+
+(2) In section 24 of the Housing Act 1985 (rent), after subsection (5) insert—
+
+> (5A) See also Chapter 3 of Part 4 of the Housing and Planning Act 2016 (rents for high income social tenants in England).
+
+(3) In Part 2 of Schedule 4 to the Local Government and Housing Act 1989 (the keeping of the Housing Revenue Account: debits), after item 10 insert—
+
+> *Item 11: payments under section 86 of the Housing and Planning Act 2016*
+>
+> Any sums payable for the year to the Secretary of State under regulations made in reliance on section 86 of the Housing and Planning Act 2016 (rents for high income social tenants: payment by local authority of increased income to Secretary of State).
+
+#### Private registered providers: rent policies for high income tenants
+
+##### 89 Private providers: policies for high income social tenants
+
+(1) A private registered provider of social housing that has a policy about levels of rent for high income social tenants in England must publish that policy.
+
+(2) The policy must include provision for requesting reviews of, or appealing, decisions under the policy.
+
+##### 90 HMRC information for private registered providers
+
+(1) HMRC may disclose information for the purpose of enabling a private registered provider of social housing to apply any relevant policy about levels of rent for high income social tenants in England.
+
+(2) The information may only be disclosed to—
+
+(a) the private registered provider of social housing,
+
+(b) the Secretary of State for the purposes of passing the information to registered providers,
+
+(c) a public body that has been given the function of passing information between HMRC and registered providers by regulations under subsection (3), or
+
+(d) a body with which the Secretary of State has made arrangements for the passing of information between HMRC and registered providers.
+
+(3) The Secretary of State may by regulations—
+
+(a) give a public body the function mentioned in subsection (2)(c), and
+
+(b) make provision about the carrying out of that function.
+
+(4) The Secretary of State must obtain HMRC's consent before making—
+
+(a) arrangements under subsection (2)(d), or
+
+(b) regulations under subsection (3).
+
+(5) Information disclosed under this section to the Secretary of State or to a body mentioned in subsection (2)(c) or (d) may be passed on to a registered provider for which it is intended.
+
+(6) Information disclosed under this section may not otherwise be further disclosed without authorisation from HMRC.
+
+(7) Where a person contravenes subsection (6) by disclosing any revenue and customs information relating to a person whose identity—
+
+(a) is specified in the disclosure, or
+
+(b) can be deduced from it,
+
+section 19 of the Commissioners for Revenue and Customs Act 2005 (wrongful disclosure) applies in relation to that disclosure as it applies in relation to a disclosure of such information in contravention of section 20(9) of that Act.
+
+(8) In this section—
+
+- “HMRC” means the Commissioners for Her Majesty's Revenue and Customs;
+
+- “relevant”, in relation to a private registered provider's policy about levels of rent for high income social tenants in England, means a policy that—
+
+  - (a) has been published as required by section 89, and
+  - (b) complies with any requirements imposed under subsection (2) of that section;
+
+- “revenue and customs information relating to a person” has the meaning given by section 19(2) of the Commissioners for Revenue and Customs Act 2005;
+
+- “tenant” includes prospective tenant.
+
+#### Interpretation
+
+##### 91 Interpretation of Chapter
+
+In this Chapter—
+
+- “high income” has the meaning given by regulations under section 81;
+- “local housing authority” has the meaning given by section 1 of the Housing Act 1985;
+- “rent” includes payments under a licence to occupy;
+- “rent regulations” has the meaning given by section 80;
+- “social housing” has the same meaning as in Part 2 of the Housing and Regeneration Act 2008 (see sections 68 and 72 of that Act);
+- “tenancy” includes a licence to occupy;
+- “tenant” includes a person who has a licence to occupy.
+
+### CHAPTER 4 — Reducing regulation of social housing etc
+
+#### 92 Reducing social housing regulation
+
+Schedule 4 contains amendments to reduce the regulation of social housing.
+
+#### 93 Reducing local authority influence over private registered providers
+
+(1) The Secretary of State may by regulations make provision for the purpose of limiting or removing the ability of local authorities to exert influence over private registered providers through—
+
+(a) appointing or removing officers of private registered providers;
+
+(b) exercising or controlling voting rights.
+
+(2) The regulations may in particular—
+
+(a) limit the number of officers that a local authority may appoint;
+
+(b) prohibit a local authority from appointing officers;
+
+(c) confer power on a private registered provider to remove officers appointed by a local authority;
+
+(d) prohibit a local authority from doing things that would result in it obtaining voting rights in a private registered provider;
+
+(e) require a local authority to take steps to reduce or get rid of any voting rights that it has in a private registered provider.
+
+(3) Regulations under this section may override or modify any contractual or other rights (whenever created) or anything in a private registered provider's constitution.
+
+(4) Regulations under this section may—
+
+(a) confer a power to amend the constitution of a private registered provider in consequence of provision made by the regulations;
+
+(b) make provision about the procedure for exercising that power.
+
+(5) In this section—
+
+- “appointing”, in relation to an officer, includes nominating or otherwise influencing the selection of the officer;
+- “constitution” includes rules;
+- “local authority” has the meaning given by section 106 of the Housing Associations Act 1985;
+- “officer”, in relation to a private registered provider, has the meaning given by section 270 of the Housing and Regeneration Act 2008;
+- “private registered provider” means a private registered provider of social housing.
+
+#### 94 Recovery of social housing assistance: successors in title
+
+(1) Section 33 of the Housing and Regeneration Act 2008 (recovery of social housing assistance: interest and successors in title) is amended as follows.
+
+(2) In subsection (6)(b), after “another person” insert “ (“the successor”) ”.
+
+(3) After subsection (6) insert—
+
+> (6A) But subsection (7) does not apply if—
+>
+> (a) the successor is a person other than a registered provider of social housing, and
+>
+> (b) at any time since the social housing assistance was given—
+>
+> (i) a person has enforced a security over the social housing, or
+>
+> (ii) the social housing has been disposed of by a body while it is being wound up or is in administration (which, for this purpose, includes housing administration under Chapter 5 of Part 4 of the Housing and Planning Act 2016).”
+
+(4) In subsection (7) for “that other person” substitute “ the successor ”.
+
+### CHAPTER 5 — Insolvency of registered providers of social housing
+
+#### Housing administration
+
+##### 95 Housing administration order: providers of social housing in England
+
+(1) In this Chapter “housing administration order” means an order which—
+
+(a) is made by the court in relation to a private registered provider of social housing that is—
+
+(i) a company,
+
+(ii) a registered society within the meaning of the Co-operative and Community Benefit Societies Act 2014, or
+
+(iii) a charitable incorporated organisation within the meaning of Part 11 of the Charities Act 2011, and
+
+(b) directs that, while the order is in force, the provider's affairs, business and property are to be managed by a person appointed by the court.
+
+(2) The person appointed for the purposes of the housing administration order is referred to in this Chapter as the “housing administrator”.
+
+[^F44]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### 96 Objectives of housing administration
+
+(1) A housing administrator has two objectives—
+
+(a) Objective 1: normal administration (see section 97), and
+
+(b) Objective 2: keeping social housing in the regulated sector (see section 98).
+
+(2) Objective 1 takes priority over Objective 2 (but the housing administrator must, so far as possible, work towards both objectives).
+
+(3) It follows that, in pursuing Objective 2, the housing administrator must not do anything that would result in a worse distribution to creditors than would be the case if the administrator did not need to pursue Objective 2.
+
+(4) A reference in this Chapter to the objectives of a housing administration is to the objectives to be pursued by the housing administrator.
+
+##### 97 Objective 1: normal administration
+
+(1) Objective 1 is to—
+
+(a) rescue the registered provider as a going concern,
+
+(b) achieve a better result for the registered provider's creditors as a whole than would be likely if the registered provider were wound up (without first being in housing administration), or
+
+(c) realise property in order to make a distribution to one or more secured or preferential creditors.
+
+(2) The housing administrator must aim to achieve Objective 1(a) unless the housing administrator thinks—
+
+(a) that it is not reasonably practicable to achieve it, or
+
+(b) that Objective 1(b) would achieve a better result for the registered provider's creditors as a whole.
+
+(3) The housing administrator may aim to achieve Objective 1(c) only if—
+
+(a) the housing administrator thinks that it is not reasonably practicable to achieve Objective 1(a) or (b), and
+
+(b) the housing administrator does not unnecessarily harm the interests of the registered provider's creditors as a whole.
+
+(4) In pursuing Objective 1(a), (b) or (c) the housing administrator must act in the interests of the registered provider's creditors as a whole so far as consistent with that Objective.
+
+##### 98 Objective 2: keeping social housing in the regulated sector
+
+(1) Objective 2 is to ensure that the registered provider's social housing remains in the regulated housing sector.
+
+(2) For this purpose, social housing remains in the regulated housing sector for so long as it is owned by a private registered provider.
+
+##### 99 Applications for housing administration orders
+
+(1) An application for a housing administration order may be made only—
+
+(a) by the Secretary of State, or
+
+(b) with the consent of the Secretary of State, by the Regulator of Social Housing.
+
+(2) The applicant for a housing administration order in relation to a registered provider must give notice of the application to—
+
+(a) every person who has appointed an administrative receiver of the provider,
+
+(b) every person who is or may be entitled to appoint an administrative receiver of the registered provider,
+
+(c) every person who is or may be entitled to make an appointment in relation to the registered provider under paragraph 14 of Schedule B1 to the Insolvency Act 1986 (appointment of administrators by holders of floating charges), and
+
+(d) any other persons specified by housing administration rules.
+
+(3) The notice must be given as soon as possible after the making of the application.
+
+(4) In this section “administrative receiver” [[^F45]has]
+
+(a) the meaning given by section 251 of the Insolvency Act 1986 for the purposes of Parts 1 to 7 of that Act, [^F46]...
+
+[^F47]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### 100 Powers of court
+
+(1) On hearing an application for a housing administration order, the court has the following powers—
+
+(a) it may make the order,
+
+(b) it may dismiss the application,
+
+(c) it may adjourn the hearing conditionally or unconditionally,
+
+(d) it may make an interim order,
+
+(e) it may treat the application as a winding-up petition and make any order the court could make under section 125 of the Insolvency Act 1986 (power of court on hearing winding-up petition), and
+
+(f) it may make any other order which it thinks appropriate.
+
+(2) The court may make a housing administration order in relation to a registered provider only if it is satisfied—
+
+(a) that the registered provider is unable, or is likely to be unable, to pay its debts, or
+
+(b) that, on a petition by the Secretary of State under section 124A of the Insolvency Act 1986, it would be just and equitable (disregarding the objectives of the housing administration) to wind up the registered provider in the public interest.
+
+(3) The court may not make a housing administration order on the ground set out in subsection (2)(b) unless the Secretary of State has certified to the court that the case is one in which the Secretary of State considers (disregarding the objectives of the housing administration) that it would be appropriate to petition under section 124A of the Insolvency Act 1986.
+
+(4) The court has no power to make a housing administration order in relation to a registered provider which—
+
+(a) is in administration under Schedule B1 to the Insolvency Act 1986, or
+
+(b) has gone into liquidation (within the meaning of section 247(2) of the Insolvency Act 1986).
+
+(5) A housing administration order comes into force—
+
+(a) at the time appointed by the court, or
+
+(b) if no time is appointed by the court, when the order is made.
+
+(6) An interim order under subsection (1)(d) may, in particular—
+
+(a) restrict the exercise of a power of the registered provider or of its relevant officers, or
+
+(b) make provision conferring a discretion on a person qualified to act as an insolvency practitioner in relation to the registered provider.
+
+(7) In subsection (6)(a) “relevant officer”—
+
+(a) in relation to a company, means a director,
+
+(b) in relation to a registered society, means a member of the management committee or other directing body of the society, and
+
+(c) in relation to a charitable incorporated organisation, means a charity trustee (as defined by section 177 of the Charities Act 2011).
+
+[^F48]8 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(9) For the purposes of this section a registered provider is unable to pay its debts if—
+
+(a) it is deemed to be unable to pay its debts under section 123 of the Insolvency Act 1986, or
+
+(b) it is an unregistered company which is deemed, as a result of any of sections 222 to 224 of the Insolvency Act 1986, to be so unable for the purposes of section 221 of that Act, or which would be so deemed if it were an unregistered company for the purposes of those sections.
+
+##### 101 Housing administrators
+
+(1) The housing administrator of a registered provider—
+
+(a) is an officer of the court, and
+
+(b) in carrying out functions in relation to the registered provider, is the registered provider's agent.
+
+(2) The housing administrator of a registered provider must aim to achieve the objectives of the housing administration as quickly and as efficiently as is reasonably practicable.
+
+(3) A person is not to be the housing administrator of a registered provider unless qualified to act as an insolvency practitioner in relation to the registered provider.
+
+(4) If the court appoints two or more persons as the housing administrator of a registered provider, the appointment must set out—
+
+(a) which (if any) of the functions of a housing administrator are to be carried out only by the appointees acting jointly,
+
+(b) the circumstances (if any) in which functions of a housing administrator are to be carried out by one of the appointees, or by particular appointees, acting alone, and
+
+(c) the circumstances (if any) in which things done in relation to one of the appointees, or in relation to particular appointees, are to be treated as done in relation to all of them.
+
+##### 102 Conduct of administration etc
+
+(1) Schedule 5 contains provision applying the provisions of Schedule B1 to the Insolvency Act 1986, and certain other legislation, to housing administration orders in relation to companies.
+
+(2) The Secretary of State may by regulations provide for any provision of Schedule B1 to the Insolvency Act 1986 or any other insolvency legislation to apply, with or without modifications, to cases where a housing administration order is made in relation [[^F49]a limited liability partnership,] to a registered society or a charitable incorporated organisation.
+
+(3) The Secretary of State may by regulations modify any insolvency legislation as it applies in relation [[^F50]a limited liability partnership,] to a registered society or a charitable incorporated organisation if the Secretary State considers the modifications are appropriate in connection with any provision made by or under this Chapter.
+
+(4) In subsection (3) “insolvency legislation” means—
+
+(a) the Insolvency Act 1986, or
+
+(b) any other legislation (whenever passed or made) that relates to insolvency or makes provision by reference to anything that is or may be done under the Insolvency Act 1986.
+
+(5) The power to make rules under section 411 of the Insolvency Act 1986 is to apply for the purpose of giving effect to this Chapter as it applies for the purpose of giving effect to Parts 1 to 7 of that Act (and, accordingly, as if references in that section to those Parts included references to this Chapter).
+
+(6) Section 413(2) of the Insolvency Act 1986 (duty to consult Insolvency Rules Committee about rules) does not apply to rules made under section 411 of that Act as a result of this section.
+
+##### 103 Housing administrator may sell land free from planning obligations
+
+(1) If the housing administrator of a registered provider disposes of land that is the subject of a planning obligation that contains relevant terms, the relevant terms are not binding on the person to whom the land is disposed of or any successor in title.
+
+(2) In this section—
+
+- “disposes of”, in relation to land, means sells a freehold or leasehold interest in the land or grants a lease of the land;
+- “planning obligation” means a planning obligation under section 106 of the Town and Country Planning Act 1990 (whether entered into before or after this section comes into force);
+- “relevant terms” in relation to a planning obligation, means any restrictions or requirements imposed by the planning obligation that are expressed not to apply in the event that the land is disposed of by a mortgagee.
+
+#### Restrictions on other insolvency procedures
+
+##### 104 Winding-up orders
+
+(1) This section applies if a person other than the Secretary of State petitions for the winding-up of a registered provider that is—
+
+(a) a company,
+
+[[^F51](aa) a limited liability partnership,]
+
+(b) a registered society within the meaning of the Co-operative and Community Benefit Societies Act 2014, or
+
+(c) a charitable incorporated organisation within the meaning of Part 11 of the Charities Act 2011.
+
+(2) The court may not exercise its powers on a winding-up petition unless—
+
+(a) notice of the petition has been given to the Regulator of Social Housing and a period of at least 28 days has elapsed since that notice was given, or
+
+(b) the Regulator of Social Housing has waived the notice requirement in paragraph (a).
+
+[[^F52](2A) A notice under subsection (2) must—
+
+(a) be given in writing,
+
+(b) be signed by, or on behalf of, the petitioner,
+
+(c) specify the date the petition was presented, and
+
+(d) contain a copy of the petition.
+
+(2B) Subsection (2C) applies if a person gives a notice purporting to be a notice under subsection (2) but which does not meet the requirements of any (or all) of paragraphs (b), (c) or (d) of subsection (2A).
+
+(2C) The Regulator of Social Housing may, by notice in writing to the petitioner, treat the purported notice as notice given under subsection (2)(a) (and a purported notice so treated will be taken as having been given at the time the purported notice was given).]
+
+(3) If an application for a housing administration order in relation to the registered provider is made to the court in accordance with section 99 before a winding-up order is made on the petition, the court may exercise its powers under section 100 (instead of exercising its powers on the petition).
+
+(4) The Regulator of Social Housing must give the Secretary of State a copy of any notice given under subsection (2)(a).
+
+(5) The Regulator of Social Housing may waive the notice requirement under subsection (2)(a) only with the consent of the Secretary of State.
+
+(6) References in this section to the court's powers on a winding-up petition are to—
+
+(a) its powers under section 125 of the Insolvency Act 1986 (other than its power of adjournment), and
+
+(b) its powers under section 135 of the Insolvency Act 1986.
+
+##### 105 Voluntary winding up
+
+(1) This section applies to a private registered provider that is—
+
+(a) a company,
+
+[[^F53](aa) a limited liability partnership,]
+
+(b) a registered society within the meaning of the Co-operative and Community Benefit Societies Act 2014, or
+
+(c) a charitable incorporated organisation within the meaning of Part 11 of the Charities Act 2011.
+
+(2) The registered provider has no power to pass a resolution for voluntary winding up without the permission of the court.
+
+(3) Permission may be granted by the court only on an application made by the registered provider.
+
+(4) The court may not grant permission unless—
+
+(a) notice of the application has been given to the Regulator of Social Housing and a period of at least 28 days has elapsed since that notice was given, or
+
+(b) the Regulator of Social Housing has waived the notice requirement in paragraph (a).
+
+[[^F54](4A) A notice under subsection (4) must—
+
+(a) be given in writing,
+
+(b) be signed by, or on behalf of, the registered provider,
+
+(c) specify the date the application was made, and
+
+(d) contain a copy of the application.
+
+(4B) Subsection (4C) applies if a person gives a notice purporting to be a notice under subsection (4) but which does not meet the requirements of any (or all) of paragraphs (b), (c) or (d) of subsection (4A).
+
+(4C) The Regulator of Social Housing may, by notice in writing to the registered provider, treat the purported notice as notice given under subsection (4)(a) (and a purported notice so treated will be taken as having been given at the time the purported notice was given).]
+
+(5) If an application for a housing administration order in relation to the registered provider is made to the court in accordance with section 99 after an application for permission under this section has been made and before it is granted, the court may exercise its powers under section 100.
+
+(6) The Regulator of Social Housing must give the Secretary of State a copy of any notice given under subsection (4)(a).
+
+(7) The Regulator of Social Housing may waive the notice requirement under subsection (4)(a) only with the consent of the Secretary of State.
+
+(8) In this section “a resolution for voluntary winding up” has the same meaning as in the Insolvency Act 1986.
+
+##### 106 Making of ordinary administration orders
+
+(1) This section applies if a person other than the Secretary of State makes an ordinary administration application in relation to a private registered provider that is—
+
+(a) a company, [^F55]...
+
+[[^F56](aa) a limited liability partnership, or]
+
+(b) a charitable incorporated organisation within the meaning of Part 11 of the Charities Act 2011.
+
+(2) The court must dismiss the application if—
+
+(a) a housing administration order is in force in relation to the registered provider, or
+
+(b) a housing administration order has been made in relation to the registered provider but is not yet in force.
+
+(3) If subsection (2) does not apply, the court, on hearing the application, must not exercise its powers under paragraph 13 of Schedule B1 to the Insolvency Act 1986 (other than its power of adjournment) unless—
+
+(a) either—
+
+(i) notice of the application has been given to the Regulator of Social Housing and a period of at least 28 days has elapsed since that notice was given, or
+
+(ii) the Regulator of Social Housing has waived the notice requirement in sub-paragraph (i), and
+
+(b) there is no application for a housing administration order which is outstanding.
+
+[[^F57](3A) A notice under subsection (3) must—
+
+(a) be given in writing,
+
+(b) be signed by, or on behalf of, the person who made the ordinary administration application,
+
+(c) specify the date the application was made, and
+
+(d) contain a copy of the application.
+
+(3B) Subsection (3C) applies if a person gives a notice purporting to be a notice under subsection (3) but which does not meet the requirements of any (or all) of paragraphs (b), (c) or (d) of subsection (3A).
+
+(3C) The Regulator of Social Housing may, by notice in writing to the person who made the ordinary administration application, treat the purported notice as notice given under subsection (3)(a)(i) (and a purported notice so treated will be taken as having been given at the time the purported notice was given).]
+
+(4) The Regulator of Social Housing must give the Secretary of State a copy of any notice given under subsection (3)(a).
+
+(5) Paragraph 44 of Schedule B1 to the Insolvency Act 1986 (interim moratorium) does not prevent, or require the permission of the court for, the making of an application for a housing administration order.
+
+(6) On the making of a housing administration order in relation to a registered provider, the court must dismiss any ordinary administration application made in relation to the registered provider which is outstanding.
+
+(7) The Regulator of Social Housing may waive the notice requirement under subsection (3)(a)(i) only with the consent of the Secretary of State.
+
+(8) In this section “ordinary administration application” means an application in accordance with paragraph 12 of Schedule B1 to the Insolvency Act 1986.
+
+##### 107 Administrator appointments by creditors [[^F58]etc]
+
+(1) Subsections (2) to (4) make provision about appointments under paragraph 14 or 22 of Schedule B1 to the Insolvency Act 1986 (powers to appoint administrators) in relation to a private registered provider that is—
+
+(a) a company, [^F59]...
+
+[[^F60](aa) a limited liability partnership, or]
+
+(b) a charitable incorporated organisation within the meaning of Part 11 of the Charities Act 2011.
+
+(2) If in any case—
+
+(a) a housing administration order is in force in relation to the registered provider,
+
+(b) a housing administration order has been made in relation to the registered provider but is not yet in force, or
+
+(c) an application for a housing administration order in relation to the registered provider is outstanding,
+
+a person may not take any step to make an appointment.
+
+(3) In any other case, an appointment takes effect only if each of the following conditions are met.
+
+(4) The conditions are—
+
+(a) either—
+
+(i) that notice of the appointment has been given to the Regulator of Social Housing [^F61]... and that a period of 28 days has elapsed since that notice was given, or
+
+(ii) that the Regulator of Social Housing has waived the notice requirement in sub-paragraph (i),
+
+(b) that there is no outstanding application to the court for a housing administration order in relation to the registered provider, and
+
+(c) that the making of an application for a housing administration order in relation to the registered provider has not resulted in the making of a housing administration order which is in force or is still to come into force.
+
+[[^F62](4A) A notice under subsection (4) must—
+
+(a) be given in writing,
+
+(b) be signed by, or on behalf of, the person making the appointment,
+
+(c) specify the date the appointment was made, and
+
+(d) contain copies of every document in relation to the appointment that is filed or lodged with the court in accordance with paragraph 18 or 29 of Schedule B1 to the Insolvency Act 1986.
+
+(4B) Subsection (4C) applies if a person gives a notice purporting to be a notice under subsection (4) but which does not meet the requirements of any (or all) of paragraphs (b), (c) or (d) of subsection (4A).
+
+(4C) The Regulator of Social Housing may, by notice in writing to the person making the appointment, treat the purported notice as notice given under subsection (4)(a)(i) (and a purported notice so treated will be taken as having been given at the time the purported notice was given).]
+
+(5) The Regulator of Social Housing must give the Secretary of State a copy of any notice given under subsection (4)(a) [^F63]....
+
+(6) The Regulator of Social Housing may waive the notice requirement under subsection (4)(a)(i) only with the consent of the Secretary of State.
+
+(7) Paragraph 44 of Schedule B1 to the Insolvency Act 1986 (interim moratorium) does not prevent, or require the permission of the court for, the making of an application for a housing administration order at any time before the appointment takes effect.
+
+##### 108 Enforcement of security
+
+(1) This section applies in relation to a private registered provider [^F64]...
+
+(2) A person may not take any step to enforce a security over property of the registered provider unless—
+
+(a) notice of the intention to do so has been given to the Regulator of Social Housing and a period of at least 28 days has elapsed since the notice was given, or
+
+(b) the Regulator of Social Housing has waived the notice requirement in paragraph (a).
+
+[[^F65](2A) A notice under subsection (2) must—
+
+(a) be given in writing, and
+
+(b) be signed by, or on behalf of, the person intending to enforce the security.
+
+(2B) Subsection (2C) applies if a person gives a notice purporting to be a notice under subsection (2) but which does not meet the requirement of paragraph (b) of subsection (2A).
+
+(2C) The Regulator of Social Housing may, by notice in writing to the person intending to enforce the security, treat the purported notice as notice given under subsection (2)(a) (and a purported notice so treated will be taken as having been given at the time the purported notice was given).]
+
+[^F66]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[[^F67](3A) In the case of a registered provider that is a charity registered under the Charities Act 2011 which is not a body corporate, the reference to the property of the registered provider is to the property held on the trusts of the charity (and for this purpose “trusts” has the same meaning as in the Charities Act 2011, see section 353 of that Act).]
+
+(4) The Regulator of Social Housing must give the Secretary of State a copy of any notice given under subsection (2)(a).
+
+(5) The Regulator of Social Housing may waive the notice requirement under subsection (2)(a) only with the consent of the Secretary of State.
+
+#### Financial support for registered providers in housing administration
+
+##### 109 Grants and loans where housing administration order is made
+
+(1) If a housing administration order has been made in relation to a registered provider, the Secretary of State may make grants or loans to the registered provider of such amounts as appear to the Secretary of State appropriate for achieving the objectives of the housing administration.
+
+(2) A grant under this section may be made on any terms and conditions the Secretary of State considers appropriate (including provision for repayment, with or without interest).
+
+##### 110 Indemnities where housing administration order is made
+
+(1) If a housing administration order has been made in relation to a registered provider, the Secretary of State may agree to indemnify persons in respect of one or both of the following—
+
+(a) liabilities incurred in connection with the carrying out of functions by the housing administrator, and
+
+(b) loss or damage sustained in that connection.
+
+(2) The agreement may be made in whatever manner, and on whatever terms, the Secretary of State considers appropriate.
+
+(3) As soon as practicable after agreeing to indemnify persons under this section, the Secretary of State must lay a statement of the agreement before Parliament.
+
+(4) For repayment of sums paid by the Secretary of State in consequence of an indemnity agreed to under this section, see section 111.
+
+(5) The power of the Secretary of State to agree to indemnify persons—
+
+(a) is confined to a power to agree to indemnify persons in respect of liabilities, loss and damage incurred or sustained by them as relevant persons, but
+
+(b) includes power to agree to indemnify persons (whether or not they are identified or identifiable at the time of the agreement) who subsequently become relevant persons.
+
+(6) The following are relevant persons for the purposes of this section—
+
+(a) the housing administrator,
+
+(b) an employee of the housing administrator,
+
+(c) a partner or employee of a firm of which the housing administrator is a partner,
+
+(d) a partner or employee of a firm of which the housing administrator is an employee,
+
+(e) a partner of a firm of which the housing administrator was an employee or partner at a time when the order was in force,
+
+(f) a body corporate which is the employer of the housing administrator,
+
+(g) an officer, employee or member of such a body corporate, and
+
+(h) a Scottish firm which is the employer of the housing administrator or of which the housing administrator is a partner.
+
+(7) For the purposes of subsection (6)—
+
+(a) references to the housing administrator are to be read, where two or more persons are appointed as the housing administrator, as references to any one or more of them, and
+
+(b) references to a firm of which a person was a partner or employee at a particular time include a firm which holds itself out to be the successor of a firm of which the person was a partner or employee at that time.
+
+##### 111 Indemnities: repayment by registered provider etc
+
+(1) This section applies where a sum is paid out by the Secretary of State in consequence of an indemnity agreed to under section 110 in relation to the housing administrator of a registered provider.
+
+(2) The registered provider must pay the Secretary of State—
+
+(a) such amounts in or towards the repayment to the Secretary of State of that sum as the Secretary of State may direct, and
+
+(b) interest on amounts outstanding under this subsection at such rates as the Secretary of State may direct.
+
+(3) The payments must be made by the registered provider at such times and in such manner as the Secretary of State may determine.
+
+(4) Subsection (2) does not apply in the case of a sum paid by the Secretary of State for indemnifying a person in respect of a liability to the registered provider.
+
+(5) The Secretary of State must lay before Parliament a statement, relating to the sum paid out in consequence of the indemnity—
+
+(a) as soon as practicable after the end of the financial year in which the sum is paid out, and
+
+(b) if subsection (2) applies to the sum, as soon as practicable after the end of each subsequent financial year in relation to which the repayment condition has not been met.
+
+(6) The repayment condition is met in relation to a financial year if—
+
+(a) the whole of the sum has been repaid to the Secretary of State before the beginning of the year, and
+
+(b) the registered provider was not at any time during the year liable to pay interest on amounts that became due in respect of the sum.
+
+##### 112 Guarantees where housing administration order is made
+
+(1) If a housing administration order has been made in relation to a registered provider the Secretary of State may guarantee—
+
+(a) the repayment of any sum borrowed by the registered provider while that order is in force,
+
+(b) the payment of interest on any sum borrowed by the registered provider while that order is in force, and
+
+(c) the discharge of any other financial obligation of the registered provider in connection with the borrowing of any sum while that order is in force.
+
+(2) The Secretary of State may give the guarantees in whatever manner, and on whatever terms, the Secretary of State considers appropriate.
+
+(3) As soon as practicable after giving a guarantee under this section, the Secretary of State must lay a statement of the guarantee before Parliament.
+
+(4) For repayment of sums paid by the Secretary of State under a guarantee given under this section, see section 113.
+
+##### 113 Guarantees: repayment by registered provider etc
+
+(1) This section applies where a sum is paid out by the Secretary of State under a guarantee given by the Secretary of State under section 112 in relation to a registered provider.
+
+(2) The registered provider must pay the Secretary of State—
+
+(a) such amounts in or towards the repayment to the Secretary of State of that sum as the Secretary of State may direct, and
+
+(b) interest on amounts outstanding under this subsection at such rates as the Secretary of State may direct.
+
+(3) The payments must be made by the registered provider at such times, and in such manner, as the Secretary of State may from time to time direct.
+
+(4) The Secretary of State must lay before Parliament a statement, relating to the sum paid out under the guarantee—
+
+(a) as soon as practicable after the end of the financial year in which the sum is paid out, and
+
+(b) as soon as practicable after the end of each subsequent financial year in relation to which the repayment condition has not been met.
+
+(5) The repayment condition is met in relation to a financial year if—
+
+(a) the whole of the sum has been repaid to the Secretary of State before the beginning of the year, and
+
+(b) the registered provider was not at any time during the year liable to pay interest on amounts that became due in respect of the sum.
+
+#### Supplementary provisions
+
+##### 114 Modification of this Chapter under the Enterprise Act 2002
+
+(1) The power to modify or apply enactments conferred on the Secretary of State by each of the sections of the Enterprise Act 2002 mentioned in subsection (2) includes power to make such consequential modifications of this Chapter as the Secretary of State considers appropriate in connection with any other provision made under that section.
+
+(2) Those sections are—
+
+(a) sections 248 and 277 of the Enterprise Act 2002 (amendments consequential on that Act), and
+
+(b) section 254 of the Enterprise Act 2002 (power to apply insolvency law to foreign companies).
+
+##### 115 Amendments to housing moratorium and consequential amendments
+
+Schedule 6 contains amendments to do with this Chapter.
+
+##### 116 Interpretation of Chapter
+
+(1) In this Chapter—
+
+- “business”, “member”, “property” and “security” have the same meaning as in the Insolvency Act 1986;
+
+- “charitable incorporated organisation” means a charitable incorporated organisation within the meaning of Part 11 of the Charities Act 2011;
+
+- “company” means—
+
+  - (a) a company registered under the Companies Act 2006, or
+  - (b) an unregistered company;
+
+- “the court”, in relation to a company [[^F68], limited liability partnership] or registered society, means the court having jurisdiction to wind up the company [[^F68], limited liability partnership] or registered society;
+
+- [^F69]...
+
+- “housing administration order” has the meaning given by section 95;
+
+- “housing administration rules” means rules made under section 411 of the Insolvency Act 1986 as a result of section 102 above;
+
+- “housing administrator” has the meaning given by section 95 and is to be read in accordance with subsection (2) below;
+
+- “financial year” means a period of 12 months ending with 31 March;
+
+- “legislation” includes provision made by or under—
+
+  - (a) an Act,
+  - (b) an Act of the Scottish Parliament,
+  - (c) Northern Ireland legislation, or
+  - (d) a Measure or Act of the National Assembly for Wales;
+
+- “objectives of the housing administration” is to be read in accordance with section 96(4);
+
+- “private registered provider” means a private registered provider of social housing (see section 80 of the Housing and Regeneration Act 2008);
+
+- “registered provider” means a registered provider of social housing (see section 80 of the Housing and Regeneration Act 2008);
+
+- “registered society” has the same meaning as in the Co-operative and Community Benefit Societies Act 2014;
+
+- “Regulator of Social Housing” has the meaning given by section 92A of the Housing and Regeneration Act 2008;
+
+- “Scottish firm” means a firm constituted under the law of Scotland;
+
+- [^F70]...
+
+- “unregistered company” means a company that is not registered under the Companies Act 2006.
+
+(2) In this Chapter references to the housing administrator of a registered provider—
+
+(a) include a person appointed under paragraph 91 or 103 of Schedule B1 to the Insolvency Act 1986, as applied by Part 1 of Schedule 5 to this Act or regulations under section 102, to be the housing administrator of the registered provider, and
+
+(b) if two or more persons are appointed as the housing administrator of the registered provider, are to be read in accordance with the provision made under section 101.
+
+(3) References in this Chapter to a person qualified to act as an insolvency practitioner in relation to a registered provider are to be read in accordance with Part 13 of the Insolvency Act 1986, but as if references in that Part to a company included a company registered under the Companies Act 2006 in Northern Ireland.
+
+(4) For the purposes of this Chapter an application made to the court is outstanding if it—
+
+(a) has not yet been granted or dismissed, and
+
+(b) has not been withdrawn.
+
+(5) An application is not to be taken as having been dismissed if an appeal against the dismissal of the application, or a subsequent appeal, is pending.
+
+(6) An appeal is to be treated as pending for this purpose if—
+
+(a) an appeal has been brought and has not been determined or withdrawn,
+
+(b) an application for permission to appeal has been made but has not been determined or withdrawn, or
+
+(c) no appeal has been brought and the period for bringing one is still running.
+
+(7) References in this Chapter to a provision of the Insolvency Act 1986 (except the references in subsection (2) above)—
+
+(a) in relation to a company, are to that provision without the modifications made by Part 1 of Schedule 5 to this Act,
+
+[[^F71](aa) in relation to a limited liability partnership, are to that provision as it applies to limited liability partnerships otherwise than by virtue of regulations under section 102 (if at all),]
+
+(b) in relation to a registered society, are to that provision as it applies to registered societies otherwise than by virtue of regulations under section 102 (if at all), and
+
+(c) in relation to a charitable incorporated organisation, are to that provision as it applies to charitable incorporated organisations otherwise than by virtue of regulations under section 102 (if at all).
+
+##### 117 Application of Part to Northern Ireland
+
+(1) This section makes provision about the application of this Chapter to Northern Ireland.
+
+(2) Any reference to any provision of the Insolvency Act 1986 is to have effect as a reference to the corresponding provision of the Insolvency (Northern Ireland) Order 1989.
+
+(3) Section 116(3) is to have effect as if the reference to Northern Ireland were to England and Wales or Scotland.
+
+### CHAPTER 6 — Secure tenancies etc. (prospective)
+
+#### 118 Secure tenancies etc: phasing out of tenancies for life (prospective)
+
+Schedule 7 changes the law about secure tenancies, introductory tenancies and demoted tenancies to phase out tenancies for life.
+
+#### 119 Termination of fixed-term secure tenancies without need to forfeit (prospective)
+
+(1) The Housing Act 1985 is amended as follows.
+
+(2) In section 82 (security of tenure)—
+
+(a) before subsection (1) insert—
+
+> (A1) A fixed-term secure tenancy of a dwelling-house in England that is granted on or after the day on which paragraph 4 of Schedule 7 to the Housing and Planning Act 2016 comes fully into force cannot be brought to an end by the landlord except by—
+>
+> (a) obtaining—
+>
+> (i) an order of the court for the possession of the dwelling-house, and
+>
+> (ii) the execution of the order, or
+>
+> (b) obtaining a demotion order under section 82A.
+>
+> (A2) A secure tenancy can be brought to an end by the landlord as mentioned in subsection (A1)(a) whether or not the tenancy contains terms for it to be brought to an end.
+
+(b) in subsection (1)(b), for “but” substitute “ , other than one to which subsection (A1) applies, that is ”;
+
+(c) in subsection (2), after “subsection” insert “ (A1)(a) or ”.
+
+(3) In section 83 (proceedings for possession), in subsection (A1), for “82(1A)” substitute “ 82(A1) or (1A) ”.
+
+#### 120 Succession to secure tenancies and related tenancies (prospective)
+
+Schedule 8 changes the law about succession to secure tenancies, introductory tenancies and demoted tenancies.
+
+#### 121 Secure and assured tenancies: transfer of tenancy (prospective)
+
+(1) The Localism Act 2011 is amended as follows.
+
+(2) In section 158 of the Localism Act 2011 (secure and assured tenancies: transfer of tenancy)—
+
+(a) in subsection (3)(a), for “not a flexible tenancy” substitute “ an old-style secure tenancy ”;
+
+(b) in subsection (4)(a), for “is a flexible tenancy” substitute “ is not an old-style secure tenancy ”;
+
+(c) omit subsection (6);
+
+(d) in subsection (7), for “fifth” substitute “ fourth ”;
+
+(e) for subsections (8) and (9) substitute—
+
+> (8) The new tenancy is to be granted on whatever terms the landlord determines.
+>
+> (9) A landlord must, on request by a relevant tenant, inform the tenant of the terms on which a new tenancy will be granted to that tenant.
+>
+> (9A) Subsection (9B) applies in a case where—
+>
+> (a) the request was made before section 121 of the Housing and Planning Act 2016 came into force, and
+>
+> (b) one or more of the landlords had not yet complied with the request when that section came into force.
+>
+> (9B) In that case any new tenancy granted in pursuance of this section to a relevant tenant whose existing tenancy is an old-style secure tenancy, or an assured tenancy that is not an assured shorthold tenancy, must be—
+>
+> (a) an old-style secure tenancy, or
+>
+> (b) an assured tenancy that is not an assured shorthold tenancy,
+>
+> according to the landlord's capacity to grant a tenancy of either kind.
+
+(3) In section 159 (interpretation of section 158 etc), in subsection (6), omit paragraph (b).
+
+## PART 5 — Housing, estate agents and rentcharges: other changes
+
+### Electrical safety standards
+
+#### 122 Electrical safety standards for [[^F72]residential properties let by landlords]
+
+(1) The Secretary of State may by regulations impose duties on a [^F73]... landlord of residential premises in England [[^F74]to whom this section applies] for the purposes of ensuring that electrical safety standards are met during any period when the premises are occupied under a tenancy.
+
+[[^F75](1A) This section applies to a landlord who is—
+
+(a) a private landlord, or
+
+(b) a registered provider of social housing.]
+
+(2) “Electrical safety standards” means standards specified in, or determined in accordance with, the regulations in relation to—
+
+(a) the installations in the premises for the supply of electricity, or
+
+(b) electrical fixtures, fittings or appliances provided by the landlord.
+
+(3) The duties imposed on the landlord may include duties to ensure that a qualified person has checked that the electrical safety standards are met.
+
+(4) The regulations may make provision about—
+
+(a) how and when checks are carried out;
+
+(b) who is qualified to carry out checks.
+
+(5) The regulations may require the landlord—
+
+(a) to obtain a certificate from the qualified person confirming that electrical safety standards are met, and
+
+(b) to give a copy of a certificate to the tenant, or a prospective tenant, or any other person specified in the regulations.
+
+(6) In this section—
+
+- “premises” includes land, buildings, moveable structures, vehicles and vessels;
+- “private landlord” means a landlord who is not within section 80(1) of the Housing Act 1985 (the landlord condition for secure tenancies);
+- “residential premises” means premises all or part of which comprise a dwelling;
+- “tenancy” includes a licence to occupy (and “landlord” is to be read accordingly).
+
+#### 123 Electrical safety standards: enforcement
+
+(1) Regulations under section 122 may provide for covenants to be implied into a tenancy.
+
+(2) Regulations under that section—
+
+(a) may make provision about the enforcement of a duty imposed by the regulations;
+
+(b) may confer functions on a local housing authority in England.
+
+(3) The provision that may be made about enforcement includes provision—
+
+(a) requiring a landlord who fails to comply with a duty imposed by the regulations to pay a financial penalty (or more than one penalty in the event of a continuing failure);
+
+(b) conferring power on a local housing authority to arrange for a person to enter on the premises, with the consent of the tenant, to remedy any failure by the landlord to comply with a duty imposed by the regulations.
+
+(4) The provision that may be made in reliance on subsection (3)(a) includes provision—
+
+(a) about the procedure to be followed in imposing penalties;
+
+(b) about the amount of penalties;
+
+(c) conferring rights of appeal against penalties;
+
+(d) for the enforcement of penalties;
+
+(e) about the application of sums paid by way of penalties (and such provision may permit or require the payment of sums into the Consolidated Fund).
+
+(5) The provision that may be made in reliance on subsection (3)(b) includes provision—
+
+(a) about procedural matters;
+
+(b) enabling a local housing authority to recover from the landlord any costs incurred by it in remedying the failure;
+
+(c) about the application of costs recovered (and such provision may permit or require the payment of sums into the Consolidated Fund).
+
+(6) In this section “local housing authority” has the meaning given by section 1 of the Housing Act 1985.
+
+### Accommodation needs in England
+
+#### 124 Assessment of accommodation needs
+
+(1) In section 8 of the Housing Act 1985 (periodical review of housing needs), after subsection (2) insert—
+
+> (3) In the case of a local housing authority in England, the duty under subsection (1) includes a duty to consider the needs of people residing in or resorting to their district with respect to the provision of—
+>
+> (a) sites on which caravans can be stationed, or
+>
+> (b) places on inland waterways where houseboats can be moored.
+>
+> (4) In subsection (3)—
+>
+> - “caravan” has the meaning given by section 29 of the Caravan Sites and Control of Development Act 1960;
+> - “houseboat” means a boat or similar structure designed or adapted for use as a place to live.
+
+(2) In the Housing Act 2004 omit sections 225 and 226 (accommodation needs of gypsies and travellers).
+
+### Housing regulation in England
+
+#### 125 Licences for HMO and other rented accommodation: additional tests (prospective)
+
+(1) The Housing Act 2004 is amended as follows.
+
+(2) In section 63 (application for licences: houses in multiple occupation), in subsection (6)(c), after “information” insert “ or evidence ”.
+
+(3) In section 66 (tests for fitness and satisfactory management arrangements: houses in multiple occupation)—
+
+(a) after subsection (1) insert—
+
+> (1A) A local housing authority in England must also have regard to any evidence within subsection (3A) or (3B).
+
+;
+
+(b) in subsection (2), in paragraph (c), after “tenant law” insert “ (including Part 3 of the Immigration Act 2014) ”;
+
+(c) after subsection (3) insert—
+
+> (3A) Evidence is within this subsection if it shows that P—
+>
+> (a) requires leave to enter or remain in the United Kingdom but does not have it; or
+>
+> (b) is insolvent or an undischarged bankrupt.
+>
+> (3B) Evidence is within this subsection if—
+>
+> (a) it shows that any person associated or formerly associated with P (whether on a personal, work or other basis) is a person to whom subsection (3A)(a) or (b) applies; and
+>
+> (b) it appears to the authority that the evidence is relevant to the question whether P is a fit and proper person to be the licence holder or (as the case may be) the manager of the house.
+
+(4) In section 70 (revocation of licences), in subsection (2), in the words after paragraph (c)—
+
+(a) for “Section 66(1) applies” substitute “ Section 66(1) and (1A) apply ”;
+
+(b) for “it applies” substitute “ they apply ”.
+
+(5) In section 87 (application for licences: certain other houses), in subsection (6)(c) after “information” insert “ or evidence ”.
+
+(6) In section 89 (tests for fitness and satisfactory management arrangements: certain other houses)—
+
+(a) after subsection (1) insert—
+
+> (1A) A local housing authority in England must also have regard to any evidence within subsection (3A) or (3B).
+
+;
+
+(b) in subsection (2), in paragraph (c), after “tenant law” insert “ (including Part 3 of the Immigration Act 2014) ”;
+
+(c) after subsection (3) insert—
+
+> (3A) Evidence is within this subsection if it shows that P—
+>
+> (a) requires leave to enter or remain in the United Kingdom but does not have it; or
+>
+> (b) is insolvent or an undischarged bankrupt.
+>
+> (3B) Evidence is within this subsection if—
+>
+> (a) it shows that any person associated or formerly associated with P (whether on a personal, work or other basis) is a person to whom subsection (3A)(a) or (b) applies; and
+>
+> (b) it appears to the authority that the evidence is relevant to the question whether P is a fit and proper person to be the licence holder or (as the case may be) the manager of the house.
+
+(7) In section 93, in subsection (2), in the words after paragraph (c)—
+
+(a) for “Section 89(1) applies” substitute “ Section 89(1) and (1A) apply ”;
+
+(b) for “it applies” substitute “ they apply ”.
+
+#### 126 Financial penalty as alternative to prosecution under Housing Act 2004
+
+Schedule 9 amends the Housing Act 2004 to allow financial penalties to be imposed as an alternative to prosecution for certain offences.
+
+#### 127 Offence of contravening an overcrowding notice: level of fine (prospective)
+
+(1) Section 139 of the Housing Act 2004 (overcrowding notices) is amended as follows.
+
+(2) In subsection (7), omit “and is liable on summary conviction to a fine not exceeding level 4 on the standard scale”.
+
+(3) After subsection (7) insert—
+
+> (7A) A person who commits an offence under subsection (7) in relation to premises in England is liable on summary conviction to a fine.
+>
+> (7B) A person who commits an offence under subsection (7) in relation to premises in Wales is liable on summary conviction to a fine not exceeding level 4 on the standard scale.
+
+### Housing information in England
+
+#### 128 Tenancy deposit information
+
+(1) The Housing Act 2004 is amended as follows.
+
+(2) In section 212 (tenancy deposit schemes), after subsection (6) insert—
+
+> (6A) For further provision about what must be included in the arrangements, see section 212A.
+
+(3) After section 212 insert—
+
+> **212A Provision of information to local authorities**
+>
+> (1) Arrangements under section 212(1) made by the Secretary of State must require the scheme administrator—
+>
+> (a) to give a local housing authority in England any specified information that they request, or
+>
+> (b) to provide facilities for the sharing of specified information with a local housing authority in England.
+>
+> (2) In subsection (1) “specified information” means information, of a description specified in the arrangements, that relates to a tenancy of premises in the local housing authority's area.
+>
+> (3) Arrangements made by virtue of this section may make the requirement to provide information or facilities to a local housing authority conditional on the payment of a fee.
+>
+> (4) Arrangements made by virtue of this section may include supplementary provision, for example about—
+>
+> (a) the form or manner in which any information is to be provided,
+>
+> (b) the time or times at which it is to be provided, and
+>
+> (c) the notification of anyone to whom the information relates.
+>
+> (5) Information obtained by a local housing authority by virtue of this section may be used only—
+>
+> (a) for a purpose connected with the exercise of the authority's functions under any of Parts 1 to 4 in relation to any premises, or
+>
+> (b) for the purpose of investigating whether an offence has been committed under any of those Parts in relation to any premises.
+>
+> (6) Information obtained by a local housing authority by virtue of this section may be supplied to a person providing services to the authority for a purpose listed in subsection (5).
+>
+> (7) The Secretary of State may by regulations amend the list of purposes in subsection (5).
+
+(4) In section 250(6) (affirmative instruments), after paragraph (b) insert—
+
+> (ba) regulations under section 212A,
+
+.
+
+#### 129 Use of information obtained for certain other statutory purposes
+
+(1) The Housing Act 2004 is amended as follows.
+
+(2) In section 237 (use of information obtained for certain other statutory purposes) after subsection (2) insert—
+
+> (3) The Secretary of State may by regulations amend this section so as to change the list of purposes for which a local housing authority in England may use information to which it applies.
+
+(3) In section 250(6) (affirmative instruments), after paragraph (c) insert—
+
+> (ca) regulations under section 237,
+
+.
+
+#### 130 Tenants' associations: power to request information about tenants
+
+After section 29 of the Landlord and Tenant Act 1985 insert—
+
+> **29A Tenants' associations: power to request information about tenants**
+>
+> (1) The Secretary of State may by regulations impose duties on a landlord to provide the secretary of a relevant tenants' association with information about relevant qualifying tenants.
+>
+> (2) The regulations may—
+>
+> (a) make provision about the tenants about whom information must be provided and what information must be provided;
+>
+> (b) require a landlord to seek the consent of a tenant to the provision of information about that tenant;
+>
+> (c) require a landlord to identify how many tenants have not consented.
+>
+> (3) The regulations may—
+>
+> (a) authorise a landlord to charge costs specified in or determined in accordance with the regulations;
+>
+> (b) impose time limits on a landlord for the taking of any steps under the regulations;
+>
+> (c) make provision about the form or content of any notices under the regulations (including provision permitting or requiring a person to design the form of a notice);
+>
+> (d) make other provision as to the procedure in connection with anything authorised or required by the regulations.
+>
+> (4) The regulations may confer power on a court or tribunal to make an order remedying a failure by a landlord to comply with the regulations.
+>
+> (5) The regulations may include supplementary, incidental, transitional or saving provision.
+>
+> (6) Regulations under this section are to be made by statutory instrument.
+>
+> (7) A statutory instrument containing regulations under this section is subject to annulment in pursuance of a resolution of either House of Parliament.
+>
+> (8) In this section—
+>
+> - “relevant tenants' association”, in relation to a landlord, means an association of tenants of the landlord at least one of whom is a qualifying tenant of a dwelling in England;
+>
+> - “relevant qualifying tenant” means—
+>
+>   - (a) a person who is a qualifying tenant of a dwelling in England and a member of the relevant tenants' association, or
+>   - (b) a person who is a qualifying tenant of a dwelling in England by virtue of being required to contribute to the same costs as a qualifying tenant who is a member of the relevant tenants' association;
+>
+> - “qualifying tenant” means a tenant who, under the terms of the lease, is required to contribute to the same costs as another tenant by the payment of a service charge.
+
+### Administration charges
+
+#### 131 Limitation of administration charges: costs of proceedings
+
+In Schedule 11 to the Commonhold and Leasehold Reform Act 2002 (administration charges), after paragraph 5 insert—
+
+> **5A Limitation of administration charges: costs of proceedings**
+>
+> (1) A tenant of a dwelling in England may apply to the relevant court or tribunal for an order reducing or extinguishing the tenant's liability to pay a particular administration charge in respect of litigation costs.
+>
+> (2) The relevant court or tribunal may make whatever order on the application it considers to be just and equitable.
+>
+> (3) In this paragraph—
+>
+> (a) “litigation costs” means costs incurred, or to be incurred, by the landlord in connection with proceedings of a kind mentioned in the table, and
+>
+> (b) “the relevant court or tribunal” means the court or tribunal mentioned in the table in relation to those proceedings.
+>
+> |  |  |
+> |---|---|
+> | *Proceedings to which costs relate* | *“The relevant court or tribunal”* |
+> | Court proceedings | The court before which the proceedings are taking place or, if the application is made after the proceedings are concluded, the county court |
+> | First-tier Tribunal proceedings | The First-tier Tribunal |
+> | Upper Tribunal proceedings | The Upper Tribunal |
+> | Arbitration proceedings | The arbitral tribunal or, if the application is made after the proceedings are concluded, the county court. |
+
+### Enforcement of estate agents legislation
+
+#### 132 Estate agents: lead enforcement authority
+
+(1) Before section 25 of the Estate Agents Act 1979 insert—
+
+> **24A Lead enforcement authority**
+>
+> (1) In this Act “the lead enforcement authority” means—
+>
+> (a) the Secretary of State, or
+>
+> (b) a person whom the Secretary of State has arranged to be the lead enforcement authority in accordance with subsection (2).
+>
+> (2) The Secretary of State may make arrangements for one of the following to be the lead enforcement authority for the purposes of this Act (for the whole of the United Kingdom) instead of the Secretary of State—
+>
+> (a) a local weights and measures authority in Great Britain, or
+>
+> (b) the Department of Enterprise, Trade and Investment in Northern Ireland.
+>
+> (3) The arrangements—
+>
+> (a) may include provision for payments by the Secretary of State;
+>
+> (b) may include provision about bringing the arrangements to an end.
+>
+> (4) The Secretary of State may by regulations made by statutory instrument make transitional provision for when there is a change in the lead enforcement authority.
+>
+> (5) The regulations may relate to a specific change in the lead enforcement authority or to changes that might arise from time to time.
+
+(2) In section 26(1) of that Act (enforcement authorities), in paragraph (c), for “Department of Commerce for Northern Ireland” substitute “ Department of Enterprise, Trade and Investment in Northern Ireland ”.
+
+(3) In section 33(1) of that Act (general interpretation), for the definition of “the lead enforcement authority” substitute—
+
+> “the lead enforcement authority” has the meaning given by section 24A;
+
+.
+
+(4) In paragraph 13(9) of Schedule 5 to the Consumer Rights Act 2015 (powers under Part 3 of that Schedule to be exercisable for the purposes of certain functions of the lead enforcement authority) after “Great Britain” insert “ , the Department of Enterprise, Trade and Investment in Northern Ireland or the Secretary of State ”.
+
+### Client money protection schemes for property agents
+
+#### 133 Power to require property agents to join client money protection schemes
+
+(1) The Secretary of State may by regulations require a property agent to be a member of—
+
+(a) a client money protection scheme approved by the Secretary of State for the purpose of the regulations, or
+
+(b) a government administered client money protection scheme that is designated by the Secretary of State for the purpose of the regulations.
+
+(2) The regulations may impose requirements about the nature of the membership that a property agent must obtain (for example, by requiring a property agent to obtain membership that results in a particular level of compensation being available).
+
+(3) The regulations shall—
+
+(a) require a property agent to obtain a certificate confirming the property agent's membership of the scheme;
+
+(b) require the property agent to display or publish the certificate in accordance with the regulations;
+
+(c) require the property agent to produce a copy of the certificate, on request, in accordance with the regulations.
+
+(4) In this section—
+
+- “client money protection scheme” means a scheme which enables a person on whose behalf a property agent holds money to be compensated if all or part of that money is not repaid in circumstances in which the scheme applies;
+
+- “government administered client money protection scheme” means a client money protection scheme that is administered by or on behalf of the Secretary of State;
+
+- “property agent” means—
+
+  - (a) a person who engages in English letting agency work within the meaning of section 54, or
+  - (b) a person who engages in English property management work within the meaning of section 55,
+
+  other than a person who engages in that work in the course of the person's employment under a contract of employment.
+
+#### 134 Client money protection schemes: approval or designation
+
+(1) The Secretary of State may by regulations make provision about the approval or designation of client money protection schemes for the purposes of regulations under section 133.
+
+(2) The regulations may, in particular, make provision about—
+
+(a) the making of applications for approval,
+
+(b) conditions which must be satisfied before approval may be given or a scheme may be designated;
+
+(c) conditions which must be complied with by administrators of approved or designated client money protection schemes (including conditions requiring the issue of certificates for the purposes of regulations under section 133(3) and about the form of those certificates);
+
+(d) the withdrawal of approval or revocation of a designation.
+
+[[^F76](3) Regulations under this section may confer a discretion on the Secretary of State in connection with—
+
+(a) the approval or designation of a client money protection scheme,
+
+(b) conditions which must be complied with by the administrator of such a scheme,
+
+(c) the amendment of such a scheme, or
+
+(d) the withdrawal of approval or revocation of designation of such a scheme.]
+
+#### 135 Enforcement of client money protection scheme regulations
+
+(1) The Secretary of State may by regulations make provision about the enforcement of a duty imposed by regulations under section 133.
+
+(2) The regulations may—
+
+(a) confer functions on a local authority in England;
+
+(b) require a property agent who fails to comply with a duty imposed by regulations under 133 to pay a financial penalty (or more than one penalty in the event of a continuing failure).
+
+(3) The provision that may be made under subsection (2)(a) includes provision requiring a local authority in England, when carrying out functions under the regulations, to have regard to guidance given by the Secretary of State [[^F77]or the lead enforcement authority (if not the Secretary of State)].
+
+(4) The provision that may be made under subsection (2)(b) includes provision—
+
+(a) about the procedure to be followed in imposing penalties;
+
+(b) about the amount of penalties;
+
+(c) conferring rights of appeal against penalties;
+
+(d) for the enforcement of penalties;
+
+(e) authorising a local authority in England to use sums paid by way of penalties for the purposes of any of its functions [[^F78] (whether or not the function is expressed to be a function of a local weights and measures authority)].
+
+[[^F79](5) In this section “local authority in England” means a local weights and measures authority in England.]
+
+[[^F80](6) For provisions about enforcement of regulations under section 133 or 134 or under this section by the lead enforcement authority, see sections 24 to 26 of the Tenant Fees Act 2019.
+
+(7) In this section “lead enforcement authority” has the meaning given by section 24(1) of the Tenant Fees Act 2019.]
+
+### Enfranchisement and extension of long leaseholds
+
+#### 136 Enfranchisement and extension of long leaseholds: calculations
+
+Schedule 10 changes the method of calculating certain amounts under—
+
+(a) the Leasehold Reform Act 1967, and
+
+(b) the Leasehold Reform, Housing and Urban Development Act 1993.
+
+### Rentcharges
+
+#### 137 Redemption price for rentcharges
+
+(1) The Rentcharges Act 1977 is amended as follows.
+
+(2) In section 9(4)(a), after “in accordance with” insert “ regulations under ”.
+
+(3) In section 10, for subsection (1) substitute—
+
+> (1) For the purposes of section 9 above, the redemption price for a rentcharge is to be calculated in accordance with regulations made by the Secretary of State.
+
+(4) In section 12(2), after “such” insert “ transitional, ”.
+
+(5) The amendments made by this section apply in relation to cases where—
+
+(a) an application for a redemption certificate is made under section 8 of the Rentcharges Act 1977 before this Act is passed, but
+
+(b) the instructions for redemption have not been served on the applicant under section 9(4) of the Rentcharges Act 1977 before this Act is passed,
+
+as well as to cases involving an application for a redemption certificate made after this Act is passed.
+
+#### 138 Procedure for redeeming English rentcharges (prospective)
+
+(1) The Rentcharges Act 1977 is amended in accordance with subsections (2) to (5).
+
+(2) Before section 8 (but after the italic heading before section 8) insert—
+
+> **7A Power to make procedure for redeeming English rentcharges**
+>
+> (1) The Secretary of State may by regulations make provision allowing the owner of land in England affected by a rentcharge to redeem it.
+>
+> (2) Regulations under subsection (1) may not make provision in relation to—
+>
+> (a) a rentcharge that could be redeemed by making an application under section 8(1A),
+>
+> (b) a rentcharge of a kind mentioned in section 2(3) or section 3(3)(a),
+>
+> (c) a rentcharge in respect of which the period for which it is payable cannot be ascertained, or
+>
+> (d) a variable rentcharge.
+>
+> (3) For the purposes of subsection (2)(d) a rentcharge is variable if the amount of the rentcharge will, or may, vary in the future in accordance with the provisions of the instrument under which it is payable.
+>
+> (4) Regulations under subsection (1) may, in particular—
+>
+> (a) provide for the owner of land affected by a rentcharge to be able to redeem a rentcharge by taking specified steps, including making payments determined in accordance with the regulations;
+>
+> (b) require a rent owner or other person to take specified steps to facilitate the redemption of a rentcharge, such as providing information or executing a deed of release;
+>
+> (c) where the documents of title of the owner of land affected by a rentcharge are in the custody of a mortgagee, require the mortgagee to make those documents or copies of those documents available in accordance with the regulations;
+>
+> (d) permit or require a person specified in the regulations to design the form of any document to be used in connection with the redemption of rentcharges under the regulations;
+>
+> (e) provide for a court or tribunal to—
+>
+> (i) determine disputes about or in relation to the redemption of a rentcharge;
+>
+> (ii) make orders about the redemption of a rentcharge;
+>
+> (iii) issue a redemption certificate;
+>
+> (f) make provision corresponding to any of the provisions of section 10(2) to (4).
+>
+> (5) Nothing in this section prevents the redemption of a rentcharge otherwise than in accordance with regulations under subsection (1).
+
+(3) In section 8—
+
+(a) in subsection (1)—
+
+(i) after “land” insert “ in Wales ”;
+
+(ii) for the words from “a certificate” to the end substitute “ a redemption certificate ”;
+
+(b) after subsection (1) insert—
+
+> (1A) The owner of any land in England affected by a rentcharge which has been apportioned to that land by an apportionment order with a condition under—
+>
+> (a) section 7(2) above, or
+>
+> (b) section 20(1) of the Landlord and Tenant Act 1927,
+>
+> may apply to the Secretary of State, in accordance with this section, for a redemption certificate.
+
+(4) In section 12—
+
+(a) in subsection (1), after “this Act” insert “ , apart from regulations under section 7A, ”;
+
+(b) after subsection (1) insert—
+
+> (1A) Regulations under section 7A are to be made by statutory instrument.
+>
+> (1B) A statutory instrument containing regulations under section 7A may not be made unless a draft of the instrument has been laid before and approved by a resolution of each House of Parliament.
+
+(5) In section 13(1), in the definition of “redemption certificate”, for the words from “has” to the end substitute “ means a certificate certifying that a rentcharge has been redeemed ”.
+
+(6) The Leasehold Reform Act 1967 is amended in accordance with subsections (7) and (8).
+
+(7) In section 8(4)(b), for “8” substitute “ 7A ”.
+
+(8) In section 11—
+
+(a) in subsection (6), after “1977” insert “ or the amount that would have to be paid to secure the redemption of that rentcharge in accordance with regulations made under section 7A of that Act ”;
+
+(b) in subsection (7)(a), after “specified” insert “ or required ”;
+
+(c) in subsection (8), for “8” substitute “ 7A ”.
+
+## PART 6 — Planning in England
+
+### Neighbourhood planning
+
+#### 139 Designation of neighbourhood areas
+
+In section 61G of the Town and Country Planning Act 1990 (meaning of “neighbourhood area”), after subsection (11) insert—
+
+> (12) Regulations under subsection (11) may provide that where an application under this section—
+>
+> (a) meets prescribed criteria, or
+>
+> (b) has not been determined within a prescribed period,
+>
+> the local planning authority must, except in prescribed cases or circumstances, exercise their powers under this section to designate the specified area as a neighbourhood area.
+>
+> (13) The reference in subsection (12) to the designation of an area as a neighbourhood area includes the modification under subsection (6) of a designation already made.
+
+#### 140 Timetable in relation to neighbourhood development orders and plans
+
+(1) In Schedule 4B to the Town and Country Planning Act 1990 (process for making of neighbourhood development orders), after paragraph 13 insert—
+
+> **13A**
+>
+> Regulations may make provision—
+>
+> (a) requiring any prescribed action falling to be taken by the local planning authority under paragraph 12 or 13 to be taken by a prescribed date;
+>
+> (b) imposing time limits for the submission of representations invited under paragraph 13(1).
+
+(2) In section 61E of that Act (neighbourhood development orders), in subsection (4)(b), after “as soon as reasonably practicable after the referendum is held” insert “ and, in any event, by such date as may be prescribed ”.
+
+(3) In section 38A of the Planning and Compulsory Purchase Act 2004 (meaning of “neighbourhood development plan”), in subsection (4)(b), after “as soon as reasonably practicable after the referendum is held” insert “ and, in any event, by such date as may be prescribed ”.
+
+#### 141 Making neighbourhood development orders and plans: intervention powers
+
+(1) In Schedule 4B to the Town and Country Planning Act 1990, before paragraph 14 insert—
+
+> **Intervention powers of Secretary of State**
+>
+> **13B** (1) This paragraph applies where the qualifying body requests the Secretary of State to intervene under this paragraph and—
+>
+> (a) the local planning authority have failed, by the applicable date prescribed under paragraph 13A, to take a decision as to whether a referendum is (or referendums are) to be held on the making of a neighbourhood development order,
+>
+> (b) a recommendation made under paragraph 10(2) is not followed by the authority, or
+>
+> (c) the authority make any modification under paragraph 12(5) that is not—
+>
+> (i) a modification recommended under paragraph 10(2)(b),
+>
+> (ii) a modification that the authority consider needs to be made to secure that the draft order does not breach, and is otherwise compatible with, EU obligations,
+>
+> (iii) a modification that the authority consider needs to be made to secure that the draft order is compatible with the Convention rights, or
+>
+> (iv) a modification for the purpose of correcting an error.
+>
+> (2) The Secretary of State may exercise functions of the local planning authority under paragraph 12(2) and (3) and—
+>
+> (a) if satisfied that paragraph (a) or (b) of paragraph 12(4) applies, may direct the authority to make arrangements for a referendum (or referendums) to be held on the making of a neighbourhood development order;
+>
+> (b) if not so satisfied, may direct the authority to refuse the proposal.
+>
+> (3) The Secretary of State may direct the authority to take the actions referred to in paragraph 12(8) and (9).
+>
+> (4) If by reason (wholly or partly) of new evidence or a new fact, or a different view taken by the Secretary of State as to a particular fact, the Secretary of State proposes to direct the local planning authority to act in a way that is not in accordance with what was recommended by the examiner—
+>
+> (a) the Secretary of State may require the authority to notify prescribed persons of the proposed direction (and the reason for it) and invite representations;
+>
+> (b) the Secretary of State may also require them to refer the issue to independent examination.
+>
+> (5) The order on which a referendum is (or referendums are) to be held by virtue of sub-paragraph (2)(a) is the draft order subject to such modification (if any) as the Secretary of State or the local planning authority consider appropriate.
+>
+> (6) The only modifications the local planning authority may make under sub-paragraph (5) are—
+>
+> (a) modifications that the authority consider need to be made to secure that the draft order does not breach, and is otherwise compatible with, EU obligations,
+>
+> (b) modifications that the authority consider need to be made to secure that the draft order is compatible with the Convention rights, and
+>
+> (c) modifications for the purpose of correcting errors.
+>
+> **13C** Regulations may make provision supplementing that made by paragraph 13B; and the regulations may in particular—
+>
+> (a) prescribe the form and content of a request by the qualifying body under paragraph 13B(1) and the date by which it must be made;
+>
+> (b) confer power on the Secretary of State to direct a local planning authority to refrain from taking any action specified in the direction that they would otherwise be required or entitled to take under paragraph 12 or 13;
+>
+> (c) make provision under which decisions falling to be made by the Secretary of State under paragraph 13B may be made instead by a person appointed by the Secretary of State for the purpose (an “inspector”);
+>
+> (d) prescribe matters that the Secretary of State or an inspector must take into account in making a decision;
+>
+> (e) require a local planning authority to provide prescribed information to the Secretary of State or to an inspector;
+>
+> (f) make provision about examinations carried out by virtue of paragraph 13B(4)(b) (including any provision of a kind mentioned in paragraph 11(2));
+>
+> (g) make provision (in addition to that made by paragraph 13B(4)(b)) for the holding of an examination, and for the payment by a local planning authority of remuneration and expenses of the examiner;
+>
+> (h) provide for the Secretary of State, or a local planning authority on the direction of the Secretary of State, to notify to prescribed persons and to publish—
+>
+> (i) prescribed decisions made by the Secretary of State under paragraph 13B,
+>
+> (ii) the reasons for making those decisions, and
+>
+> (iii) other prescribed matters relating to those decisions.
+
+(2) In paragraph 14 of that Schedule (referendum), in sub-paragraph (1), after “as a result of paragraph 12(4)” insert “ or a direction under paragraph 13B(2)(a) ”.
+
+(3) In section 61N of that Act (legal challenges in relation to neighbourhood development orders), in subsection (2), before “only if” insert “ or paragraph 13B of that Schedule (intervention powers of Secretary of State) ”.
+
+#### 142 Local planning authority to notify neighbourhood forum of applications
+
+In Schedule 1 to the Town and Country Planning Act 1990 (local planning authorities: distribution of functions), after paragraph 8 insert—
+
+> **8A**
+>
+> (1) A local planning authority who have the function of determining applications for planning permission or permission in principle shall, if requested to do so by a neighbourhood forum for an area which (or any part of which) is situated in the authority's area, notify the neighbourhood forum of—
+>
+> (a) any relevant planning application; and
+>
+> (b) any alteration to that application accepted by the authority.
+>
+> (2) In this paragraph—
+>
+> - “neighbourhood forum” means an organisation or body designated as such under section 61F;
+>
+> - “relevant planning application” means an application which—
+>
+>   - (a) relates to land in the area for which the neighbourhood forum is designated; and
+>   
+>   - (b) is an application for—
+>   
+>     - (i) planning permission or permission in principle; or
+>     - (ii) approval of a matter reserved under an outline planning permission within the meaning of section 92.
+>
+> (3) Sub-paragraphs (3) to (6) of paragraph 8 have effect for the purposes of this paragraph, any reference to a parish council being read as a reference to a neighbourhood forum.
+
+### Local planning
+
+#### 143 Power to direct amendment of local development scheme
+
+(1) In section 15 of the Planning and Compulsory Purchase Act 2004 (local development scheme), before subsection (4) insert—
+
+> (3A) If a local planning authority have not prepared a local development scheme, the Secretary of State or the Mayor of London may—
+>
+> (a) prepare a local development scheme for the authority, and
+>
+> (b) direct the authority to bring that scheme into effect.
+
+(2) In subsections (4) and (8AA) of that section, for “effective coverage” substitute “ full and effective coverage (both geographically and with regard to subject matter) ”.
+
+(3) In subsections (4A)(a), (5), (6), (6A) and (6B)(a) of that section, after “under subsection” insert “ (3A) or ”.
+
+#### 144 Power to give direction to examiner of development plan document
+
+In section 20 of the Planning and Compulsory Purchase Act 2004 (independent examination), after subsection (6) insert—
+
+> (6A) The Secretary of State may by notice to the person appointed to carry out the examination—
+>
+> (a) direct the person not to take any step, or any further step, in connection with the examination of the development plan document, or of a specified part of it, until a specified time or until the direction is withdrawn;
+>
+> (b) require the person—
+>
+> (i) to consider any specified matters;
+>
+> (ii) to give an opportunity, or further opportunity, to specified persons to appear before and be heard by the person;
+>
+> (iii) to take any specified procedural step in connection with the examination.
+>
+> In this subsection “specified” means specified in the notice.
+
+#### 145 Intervention by Secretary of State
+
+(1) In section 21 of the Planning and Compulsory Purchase Act 2004 (intervention by Secretary of State), in subsection (3), after “if” insert “ or to the extent that ”.
+
+(2) In subsection (5) of that section—
+
+(a) in paragraph (a), after “until the Secretary of State gives his decision” insert “ , or withdraws the direction ”;
+
+(b) for paragraph (b) substitute—
+
+> (b) if the direction is given, and not withdrawn, before the authority have submitted the document under section 20(1), the Secretary of State must hold an independent examination;
+
+;
+
+(c) in paragraph (c), for “he” substitute “ , and is not withdrawn before those recommendations are made, the person ”;
+
+(d) for paragraph (d) substitute—
+
+> (d) the document has no effect unless the document or (as the case may be) the relevant part of it has been approved by the Secretary of State, or the direction is withdrawn.
+
+(3) After that subsection insert—
+
+> (5A) Subsections (4) to (7C) of section 20 apply to an examination held under subsection (5)(b), the reference to the local planning authority in subsection (7C) of that section being read as a reference to the Secretary of State.
+>
+> (5B) For the purposes of subsection (5)(d) the “relevant part” of a development plan document is the part that—
+>
+> (a) is covered by a direction under subsection (4) which refers to only part of the document, or
+>
+> (b) continues to be covered by a direction under subsection (4) following the partial withdrawal of the direction.
+
+(4) At the end of that section insert—
+
+> (11) The local planning authority must reimburse the Secretary of State for any expenditure incurred by the Secretary of State under this section that is specified in a notice given to the authority by the Secretary of State.
+
+(5) After that section insert—
+
+> **21A Temporary direction pending possible use of intervention powers**
+>
+> (1) If the Secretary of State is considering whether to give a direction to a local planning authority under section 21 in relation to a development plan document or other local development document, he may direct the authority not to take any step in connection with the adoption of the document—
+>
+> (a) until the time (if any) specified in the direction, or
+>
+> (b) until the direction is withdrawn.
+>
+> (2) A document to which a direction under this section relates has no effect while the direction is in force.
+>
+> (3) A direction given under this section in relation to a document ceases to have effect if a direction is given under section 21 in relation to that document.
+
+#### 146 Secretary of State's default powers
+
+For section 27 of the Planning and Compulsory Purchase Act 2004 substitute—
+
+> **27 Secretary of State's default powers**
+>
+> (1) This section applies if the Secretary of State thinks that a local planning authority are failing or omitting to do anything it is necessary for them to do in connection with the preparation, revision or adoption of a development plan document.
+>
+> (2) The Secretary of State may—
+>
+> (a) prepare or revise (as the case may be) the document, or
+>
+> (b) give directions to the authority in relation to the preparation or revision of the document.
+>
+> (3) The Secretary of State must either—
+>
+> (a) hold an independent examination, or
+>
+> (b) direct the authority to submit the document for independent examination.
+>
+> (4) The Secretary of State must either—
+>
+> (a) publish the recommendations and reasons of the person appointed to hold the examination, or
+>
+> (b) give directions to the authority in relation to publication of those recommendations and reasons.
+>
+> (5) The Secretary of State may—
+>
+> (a) approve the document, or approve it subject to specified modifications, as a local development document,
+>
+> (b) direct the authority to consider adopting the document by resolution of the authority as a local development document, or
+>
+> (c) (except where it was prepared or revised by the Secretary of State under subsection (2)(a)) reject the document.
+>
+> (6) Subsections (4) to (7C) of section 20 apply (subject to subsection (7) below) to an examination held under subsection (3)(a), the reference to the local planning authority in subsection (7C) of that section being read as a reference to the Secretary of State.
+>
+> (7) Subsections (5)(c), (7)(b)(ii) and (7B)(b) of section 20 do not apply to an independent examination held—
+>
+> (a) under subsection (3)(a), or
+>
+> (b) in response to a direction under subsection (3)(b),
+>
+> in respect of a document prepared or revised by the Secretary of State under subsection (2)(a).
+>
+> (8) The Secretary of State must give reasons for anything he does in pursuance of subsection (2) or (5).
+>
+> (9) The authority must reimburse the Secretary of State for any expenditure he incurs in connection with anything—
+>
+> (a) which is done by him under subsection (2)(a), and
+>
+> (b) which the authority failed or omitted to do as mentioned in subsection (1).
+
+#### 147 Default powers exercisable by Mayor of London or combined authority
+
+(1) After section 27 of the Planning and Compulsory Purchase Act 2004 insert—
+
+> **27A Default powers exercisable by Mayor of London or combined authority**
+>
+> Schedule A1 (default powers exercisable by Mayor of London or combined authority) has effect.
+
+(2) Before Schedule 1 to that Act insert, as Schedule A1, the Schedule set out in Schedule 11 to this Act.
+
+(3) In section 17 of that Act (local development documents), at the end of subsection (8) insert—
+
+> (c) is approved by the Mayor of London under paragraph 2 of Schedule A1;
+>
+> (d) is approved by a combined authority under paragraph 6 of that Schedule.
+
+#### 148 Costs of independent examinations held by Secretary of State
+
+(1) Section 303A of the Town and Country Planning Act 1990 (responsibility of local planning authorities for costs of holding certain inquiries etc) is amended as follows.
+
+(2) In subsection (1A), after “section 20” insert “ , 21(5)(b), 27(3)(a) ”.
+
+(3) For subsection (9A) substitute—
+
+> (9A) A reference to a local planning authority causing a qualifying procedure to be carried out includes a reference to the case where under the Planning and Compulsory Purchase Act 2004—
+>
+> (a) the local planning authority are required to submit a document to the appropriate authority for independent examination, or
+>
+> (b) the Secretary of State holds an independent examination in relation to a document prepared by the local planning authority, or by the Secretary of State under section 27(2)(a) of that Act.
+
+### Planning in Greater London
+
+#### 149 Planning powers of the Mayor of London
+
+(1) In section 2A of the Town and Country Planning Act 1990 (power of Mayor of London to decide applications of potential strategic importance), in subsection (6), for “areas, and” substitute
+
+> areas;
+>
+> (aa) may prescribe matters by reference to the spatial development strategy, or a development plan document (within the meaning of Part 2 of the Planning and Compulsory Purchase Act 2004), as it has effect from time to time;
+
+.
+
+(2) In section 74 of that Act (directions etc as to method of dealing with applications), in subsection (1B)—
+
+(a) in paragraph (a), for “London borough to refuse” substitute
+
+> London borough—
+>
+> (i) to consult with the Mayor of London before granting or refusing an application for planning permission, or permission in principle, that is an application of a prescribed description, or
+>
+> (ii) to refuse
+
+;
+
+(b) in paragraph (c), for “such a direction;” substitute “ a direction given by virtue of paragraph (a)(ii). ”;
+
+(c) omit the words after that paragraph.
+
+(3) After that subsection insert—
+
+> (1BA) In subsection (1B) “prescribed” means—
+>
+> (a) prescribed by a development order, or
+>
+> (b) specified in directions made under a development order by the Secretary of State or the Mayor of London.
+>
+> (1BB) Matters prescribed under subsection (1B) by a development order may be prescribed by reference to the spatial development strategy, or a development plan document (within the meaning of Part 2 of the Planning and Compulsory Purchase Act 2004), as it has effect from time to time.
+
+### Permission in principle and local registers of land
+
+#### 150 Permission in principle for development of land
+
+(1) After section 58 of the Town and Country Planning Act 1990 insert—
+
+> **Permission in principle**
+>
+> **58A Permission in principle: general**
+>
+> (1) Permission in principle may be granted for housing-led development of land in England as provided in section 59A.
+>
+> (2) Permission in principle may not be granted for development consisting of the winning and working of minerals.
+>
+> (3) For the effect of permission in principle, see section 70(2ZZA) to (2ZZC) (application for technical details consent must be determined in accordance with permission in principle, except after a prescribed period).
+>
+> (4) A reference to permission in principle in any provision of this Act in its application to land in Wales, or in its application to functions of the Welsh Ministers or other authorities in Wales, is to be ignored.
+
+(2) After section 59 of that Act insert—
+
+> **59A Development orders: permission in principle**
+>
+> (1) A development order may either—
+>
+> (a) itself grant permission in principle, in relation to land in England that is allocated for development in a qualifying document (whether or not in existence when the order is made) for development of a prescribed description; or
+>
+> (b) provide for the granting by a local planning authority in England, on application to the authority in accordance with the provisions of the order, of permission in principle for development of a prescribed description.
+>
+> (2) In this section—
+>
+> - “prescribed” means prescribed in a development order;
+>
+> - “qualifying document” means a document, as it has effect from time to time, which—
+>
+>   - (a) falls within subsection (3),
+>   - (b) indicates that the land in question is allocated for development for the purposes of this section, and
+>   - (c) contains prescribed particulars in relation to the land allocated and the kind of development for which it is allocated.
+>
+> (3) The following documents fall within this subsection—
+>
+> (a) a register maintained in pursuance of regulations under section 14A of the Planning and Compulsory Purchase Act 2004 (“the 2004 Act”);
+>
+> (b) a development plan document within the meaning of Part 2 of the 2004 Act (see section 37 of that Act);
+>
+> (c) a neighbourhood development plan within the meaning given by section 38A of the 2004 Act.
+>
+> (4) Permission in principle granted by a development order takes effect—
+>
+> (a) when the qualifying document takes effect, if the land in question is allocated for development in the document at that time;
+>
+> (b) otherwise, when the qualifying document is revised so that the land in question is allocated for development.
+>
+> But a development order may provide that, if the local planning authority so directs, permission in principle does not take effect until the date specified by the local planning authority in the direction.
+>
+> (5) For the purposes of subsection (4)(a)—
+>
+> (a) a register maintained in pursuance of regulations under section 14A of the 2004 Act takes effect when it is first published;
+>
+> (b) a development plan document takes effect when it is adopted or approved under Part 2 of the 2004 Act;
+>
+> (c) a neighbourhood development plan takes effect when it is made by the local planning authority.
+>
+> (6) Permission in principle granted by a development order is not brought to an end by the qualifying document ceasing to have effect or being revised.
+>
+> (7) Permission in principle granted by a development order ceases to have effect on the expiration of—
+>
+> (a) five years beginning with the date on which it takes effect; or
+>
+> (b) such other period (whether longer or shorter) beginning with that date as the local planning authority may direct.
+>
+> (8) Permission in principle granted by a local planning authority ceases to have effect on the expiration of—
+>
+> (a) three years beginning with the date on which it takes effect; or
+>
+> (b) such other period (whether longer or shorter) beginning with that date as the local planning authority may direct.
+>
+> (9) The Secretary of State may by regulations amend subsection (7)(a) or (8)(a) by substituting a shorter period for the period for the time being specified there.
+>
+> (10) A development order—
+>
+> (a) may make provision in relation to an application for planning permission for development of land in respect of which permission in principle has been granted;
+>
+> (b) may require the local planning authority to prepare, maintain and publish a register containing prescribed information as to permissions in principle granted by a development order.
+>
+> (11) In exercising a power of direction conferred by virtue of subsection (4), or conferred by subsection (7)(b) or (8)(b), a local planning authority must have regard to the provisions of the development plan and any other material considerations.
+>
+> (12) In exercising any other function exercisable by virtue of this section, or in exercising any function in relation to an application for planning permission for development of land in respect of which permission in principle has been granted, a local planning authority must have regard to any guidance issued by the Secretary of State.
+>
+> (13) In relation to an application for permission in principle which under any provision of this Part is made to, or determined by, the Secretary of State instead of the local planning authority, a reference in subsection (1) or (8) to a local planning authority has effect (as necessary) as a reference to the Secretary of State.
+
+(3) In section 70 of that Act (determination of applications: general considerations)—
+
+(a) after subsection (1) insert—
+
+> (1A) Where an application is made to a local planning authority for permission in principle—
+>
+> (a) they may grant permission in principle; or
+>
+> (b) they may refuse permission in principle.
+
+;
+
+(b) after subsection (2) insert—
+
+> (2ZZA) The authority must determine an application for technical details consent in accordance with the relevant permission in principle.
+>
+> This is subject to subsection (2ZZC).
+>
+> (2ZZB) An application for technical details consent is an application for planning permission that—
+>
+> (a) relates to land in respect of which permission in principle is in force,
+>
+> (b) proposes development all of which falls within the terms of the permission in principle, and
+>
+> (c) particularises all matters necessary to enable planning permission to be granted without any reservations of the kind referred to in section 92.
+>
+> (2ZZC) Subsection (2ZZA) does not apply where—
+>
+> (a) the permission in principle has been in force for longer than a prescribed period, and
+>
+> (b) there has been a material change of circumstances since the permission came into force.
+>
+> “Prescribed” means prescribed for the purposes of this subsection in a development order.
+
+(4) In section 333 of that Act (regulations and orders), after subsection (3) insert—
+
+> (3ZA) No regulations may be made under section 59A(9) unless a draft of the instrument containing the regulations has been laid before, and approved by a resolution of, each House of Parliament.
+
+(5) Schedule 12 (permission in principle for development of land: minor and consequential amendments) has effect.
+
+#### 151 Local planning authority to keep register of particular kinds of land
+
+(1) In Part 2 of the Planning and Compulsory Purchase Act 2004 (local development), after section 14 insert—
+
+> **Register**
+>
+> **14A Register of land**
+>
+> (1) The Secretary of State may make regulations requiring a local planning authority in England to prepare, maintain and publish a register of land within (or partly within) the authority's area which—
+>
+> (a) is of a prescribed description, or
+>
+> (b) satisfies prescribed criteria.
+>
+> (2) The regulations may require the register to be kept in two or more parts.
+>
+> A reference to the register in the following subsections includes a reference to a prescribed part of the register.
+>
+> (3) The regulations may make provision permitting the local planning authority to enter in the register land within (or partly within) the authority's area which—
+>
+> (a) is of a prescribed description or satisfies prescribed criteria, and
+>
+> (b) is not required by the regulations to be entered in the register.
+>
+> (4) The regulations may—
+>
+> (a) require or authorise a local planning authority to carry out consultation and other procedures in relation to entries in the register;
+>
+> (b) specify descriptions of land that are not to be entered in the register;
+>
+> (c) confer a discretion on a local planning authority, in prescribed circumstances, not to enter in the register land of a prescribed description that the authority would otherwise be required to enter in it;
+>
+> (d) require a local planning authority exercising the discretion referred to in paragraph (c) to explain why they have done so;
+>
+> (e) specify information to be included in the register;
+>
+> (f) make provision about revising the register.
+>
+> (5) The regulations may specify a description of land by reference to a description in national policies and advice.
+>
+> (6) The regulations may confer power on the Secretary of State to require a local planning authority—
+>
+> (a) to prepare or publish the register, or to bring the register up to date, by a specified date;
+>
+> (b) to provide the Secretary of State with specified information, in a specified form and by a specified date, in relation to the register.
+>
+> In this subsection “specified” means specified by the Secretary of State.
+>
+> (7) In exercising their functions under the regulations, a local planning authority must have regard to—
+>
+> (a) the development plan;
+>
+> (b) national policies and advice;
+>
+> (c) any guidance issued by the Secretary of State for the purposes of the regulations.
+>
+> (8) In this section “national policies and advice” means national policies and advice contained in guidance issued by the Secretary of State (as it has effect from time to time).
+
+(2) In section 33 of that Act (power to direct that Part 2 of that Act does not apply to the area of an urban development corporation), for “that this Part does not apply” substitute
+
+> that the provisions of—
+>
+> (a) this Part, or
+>
+> (b) any particular regulations made under section 14A,
+>
+> do not apply
+
+.
+
+### Planning permission etc
+
+#### 152 Approval condition where development order grants permission for building
+
+(1) In section 60 of the Town and Country Planning Act 1990 (permission granted by development order), after subsection (1) insert—
+
+> (1A) Without prejudice to the generality of subsection (1), where planning permission is granted by a development order for building operations in England, the order may require the approval of the local planning authority, or the Secretary of State, to be obtained—
+>
+> (a) for those operations, or
+>
+> (b) with respect to any matters that relate to those operations, or to the use of the land in question following those operations, and are specified in the order.
+
+(2) In subsection (2) of that section, after “any buildings” insert “ in Wales ”.
+
+(3) In subsection (2B) of that section, for “subsection (1)” substitute “ subsections (1) and (1A) ”.
+
+(4) In section 70A of that Act (power to decline to determine subsequent application), in subsection (5)(b), for “section 60(2)” substitute “ section 60(1A), (2) ”.
+
+#### 153 Planning applications that may be made directly to Secretary of State
+
+(1) In section 62A of the Town and Country Planning Act 1990 (when application may be made directly to Secretary of State), in subsection (1), for paragraphs (a) and (b) substitute—
+
+> (a) the local planning authority concerned is designated by the Secretary of State for applications of a description specified in the designation; and
+>
+> (b) the application falls within that description.
+
+(2) After that subsection insert—
+
+> (1A) Only prescribed descriptions of application may be specified in a designation under subsection (1).
+
+(3) For subsection (2) of that section substitute—
+
+> (2) In this section “relevant application” means—
+>
+> (a) an application for planning permission, or permission in principle, for the development of land in England, or
+>
+> (b) an application for approval of a matter that, as defined by section 92, is a reserved matter in the case of an outline planning permission for the development of land in England,
+>
+> but does not include an application of the kind described in section 73(1) or an application of a description excluded by regulations.
+
+(4) In subsection (3)(a)(i) of that section omit “, or for conservation area consent,”.
+
+(5) In section 62B of that Act (designation for the purposes of section 62A), after subsection (1) insert—
+
+> (1A) A document to which subsection (2) applies may set out different criteria for each description of application prescribed under section 62A(1A).
+
+#### 154 Planning freedoms: right for local areas to request alterations to planning system
+
+(1) If the following conditions are met, the Secretary of State may by regulations make a planning freedoms scheme, having effect for a specified period, in relation to a specified planning area in England.
+
+A “planning freedoms scheme” is a scheme that disapplies or modifies specified planning provisions in order to facilitate an increase in the amount of housing in the planning area concerned.
+
+(2) The first condition is that the relevant planning authority or authorities have requested the Secretary of State to make a planning freedoms scheme for their area.
+
+(3) The second condition is that the Secretary of State is satisfied—
+
+(a) that there is a need for a significant increase in the amount of housing in the planning area concerned,
+
+(b) that the planning freedoms scheme will contribute to such an increase, and
+
+(c) that adequate consultation has been carried out.
+
+(4) The third condition is that—
+
+(a) the relevant planning authority or authorities have prepared a summary of the views expressed in the consultation referred to in subsection (3)(c), and
+
+(b) the Secretary of State has considered that summary.
+
+(5) For the purposes of subsection (3)(c) consultation is “adequate” only if—
+
+(a) the relevant authority or authorities publish an explanation of what the proposed planning freedoms scheme is expected to involve, and
+
+(b) persons in the planning area concerned, and other persons likely to be affected, have a reasonable opportunity to communicate their views about the proposed scheme.
+
+(6) The Secretary of State may decide to restrict the number of planning freedoms schemes in force at any one time (and accordingly is not required to make a scheme merely because the conditions in this section are met).
+
+(7) The Secretary of State may by regulations bring a planning freedoms scheme to an end, and must do so if the relevant planning authority or, as the case may be, any of the relevant planning authorities so request.
+
+(8) In this section—
+
+- “planning area” means the area of a local planning authority, or an area comprising two or more adjoining areas of local planning authorities;
+- “planning provision” means a provision to do with planning that is contained in or made under any Act;
+- “relevant planning authority” means the local planning authority for an area that is or forms part of a planning area;
+- “specified” means specified in regulations under subsection (1).
+
+#### 155 Local planning authorities: information about financial benefits (prospective)
+
+After section 75 of the Town and Country Planning Act 1990 insert—
+
+> **Information in planning reports for local planning authorities**
+>
+> **75ZA Information about financial benefits**
+>
+> (1) A local planning authority in England must make arrangements to ensure that the required financial benefits information is included in each report which—
+>
+> (a) is made by an officer or agent of the authority for the purposes of a non-delegated determination of an application for planning permission, and
+>
+> (b) contains a recommendation as to how the authority should determine the application in accordance with section 70(2).
+>
+> (2) The required financial benefits information is—
+>
+> (a) a list of any financial benefits (whether or not material to the application) which are local finance considerations or benefits of a prescribed description, and which appear to the person making the report to be likely to be obtained—
+>
+> (i) by the authority, or
+>
+> (ii) by a person of a prescribed description or (if regulations so provide) by any person,
+>
+> as a result of the proposed development (if it is carried out);
+>
+> (b) in relation to each listed financial benefit, a statement of the opinion of the person making the report as to whether the benefit is material to the application;
+>
+> (c) any other prescribed information about a listed financial benefit.
+>
+> (3) In this section—
+>
+> - “local finance consideration” has the same meaning as in section 70;
+> - “non-delegated determination” means a determination that is not delegated to an officer of the authority in question;
+> - “officer” includes employee.
+>
+> (4) Regulations under this section may—
+>
+> (a) prescribe a description of financial benefits by reference to the amount or value of the benefit;
+>
+> (b) make different provision for different kinds of local planning authority or different kinds of development.
+
+#### 156 Local planning authorities: information about neighbourhood development plans
+
+After section 75ZA of the Town and Country Planning Act 1990 (inserted by section 155 above) insert—
+
+> **75ZB Information about neighbourhood development plans**
+>
+> (1) This section applies where—
+>
+> (a) a report of the kind mentioned in section 75ZA(1) recommends the grant of planning permission or permission in principle, and
+>
+> (b) the proposed development is in an area for which a neighbourhood development plan (made under section 38A of the Planning and Compulsory Purchase Act 2004) is in force.
+>
+> (2) The report must—
+>
+> (a) set out how the plan was taken into account in making the recommendation, and
+>
+> (b) identify any points of conflict between the plan and the recommendation.
+
+#### 157 Planning applications etc: setting of fees
+
+In section 303 of the Town and Country Planning Act 1990 (fees for planning applications etc), after subsection (8) insert—
+
+> (8A) If a draft of regulations of the Secretary of State under this section would, apart from this subsection, be treated as a hybrid instrument for the purposes of the standing orders of either House of Parliament, it is to proceed in that House as if it were not a hybrid instrument.
+
+### Planning obligations (prospective)
+
+#### 158 Resolution of disputes about planning obligations (prospective)
+
+(1) After section 106 of the Town and Country Planning Act 1990 (planning obligations) insert—
+
+> **106ZA Resolution of disputes about planning obligations**
+>
+> Schedule 9A (resolution of disputes about planning obligations) has effect.
+
+(2) After Schedule 9 to that Act insert, as Schedule 9A, the Schedule set out in Schedule 13 to this Act.
+
+(3) In section 106 of that Act, in subsection (1), for “and sections 106A to 106C” substitute “ , sections 106A to 106C and Schedule 9A ”.
+
+#### 159 Planning obligations and affordable housing (prospective)
+
+(1) After section 106ZA of the Town and Country Planning Act 1990 (inserted by section 158 above) insert—
+
+> **106ZB Enforceability of planning obligations regarding affordable housing**
+>
+> (1) Regulations made by the Secretary of State may impose restrictions or conditions on the enforceability of planning obligations entered into with regard to the provision of—
+>
+> (a) affordable housing, or
+>
+> (b) prescribed descriptions of affordable housing.
+>
+> (2) Regulations under this section—
+>
+> (a) may make consequential, supplementary, incidental, transitional or saving provision;
+>
+> (b) may impose different restrictions or conditions (or none) depending on the size, scale or nature of the site or the proposed development to which any planning obligations would relate.
+>
+> Paragraph (b) is without prejudice to the generality of section 333(2A).
+>
+> (3) This section does not apply in relation to a planning obligation if—
+>
+> (a) planning permission for the development was granted wholly or partly on the basis of a policy for the provision of housing on rural exception sites, or
+>
+> (b) the obligation relates to development in a National Park or in an area designated under section 82 of the Countryside and Rights of Way Act 2000 as an area of outstanding natural beauty.
+>
+> (4) In this section “affordable housing” means new dwellings in England that—
+>
+> (a) are to be made available for people whose needs are not adequately served by the commercial housing market, or
+>
+> (b) are starter homes within the meaning of Chapter 1 of Part 1 of the Housing and Planning Act 2016 (see section 2 of that Act).
+>
+> (5) “New dwelling” here means a building or part of a building that—
+>
+> (a) has been constructed for use as a dwelling and has not previously been occupied, or
+>
+> (b) has been adapted for use as a dwelling and has not been occupied since its adaptation.
+>
+> (6) The Secretary of State may by regulations amend this section so as to modify the definition of “affordable housing”.
+
+(2) In section 333 of that Act (regulations and orders), after subsection (3ZA) (inserted by section 150(4) above) insert—
+
+> (3ZB) No regulations may be made under section 106ZB unless a draft of the instrument containing the regulations has been laid before, and approved by a resolution of, each House of Parliament.
+
+### Nationally significant infrastructure projects
+
+#### 160 Development consent for projects that involve housing
+
+(1) Section 115 of the Planning Act 2008 (development for which development consent may be granted) is amended as follows.
+
+(2) At the end of subsection (1) insert
+
+> , or
+>
+> (c) related housing development.
+
+(3) In subsection (2)(b), for “is not” substitute “ does not consist of or include ”.
+
+(4) Before subsection (5) insert—
+
+> (4B) Related housing development” means development which—
+>
+> (a) consists of or includes the construction or extension of one or more dwellings,
+>
+> (b) is on the same site as, or is next to or close to, any part of the development within subsection (1)(a), or is otherwise associated with that development (or any part of it),
+>
+> (c) is to be carried out wholly in England, and
+>
+> (d) meets the condition in subsection (4C).
+>
+> (4C) Development meets the condition in this subsection if the development within subsection (1)(a) to which it is related is to be carried out in one or more of the following areas—
+>
+> (a) England;
+>
+> (b) waters adjacent to England up to the seaward limits of the territorial sea.
+
+(5) In subsection (5), after “associated development” insert “ or related housing development ”.
+
+(6) At the end insert—
+
+> (7) The Secretary of State, in deciding an application for an order granting development consent for development that includes related housing development, must take into account any matters set out in guidance published by the Secretary of State.
+
+### Powers for piloting alternative provision of processing services
+
+#### 161 Processing of planning applications by alternative providers
+
+(1) The Secretary of State may by regulations provide for temporary arrangements in particular areas in England to test the practicality and desirability of competition in the processing (but not determining) of applications to do with planning.
+
+(2) The regulations may make provision—
+
+(a) for an application for planning permission that falls to be determined by a specified local planning authority in England to be processed, if the applicant so chooses, not by that authority but by a designated person;
+
+(b) for any connected application also to be processed by a designated person and not by that authority.
+
+(3) The regulations must specify a period after which any such provision ceases to apply.
+
+That period (whether as originally specified or as subsequently extended) must end no later than five years after the first regulations under this section come into force.
+
+(4) The Secretary of State must—
+
+(a) review the operation and effectiveness of any arrangements made under the regulations;
+
+(b) no later than 12 months after the date when the arrangements (or the last of them) cease to have effect—
+
+(i) lay a report before each House of Parliament, or
+
+(ii) make a statement to the House of Parliament of which that Secretary of State is a member,
+
+setting out the results and conclusions of the review.
+
+(5) The regulations may provide that—
+
+(a) they apply only to applications that relate to development of a specified description;
+
+(b) designations of persons by the Secretary of State (see subsection (13)) may be made so as to apply only in relation to applications that relate to development of a specified description.
+
+(6) The regulations may—
+
+(a) apply or disapply, in relation to England, any enactment about planning;
+
+(b) modify the effect of any such enactment in relation to England.
+
+(7) The regulations may not contain anything that allows or requires, or could allow or require, the responsible planning authority's duty to determine an application to be carried out, to any extent, by a designated person on the authority's behalf.
+
+(8) Nothing said or done by a designated person appointed under the regulations to process an application is binding on the responsible planning authority when determining the application.
+
+(9) Before making the first regulations under this section the Secretary of State must consult such representatives of local planning authorities, and such other persons, as the Secretary of State thinks fit.
+
+(10) Sections 162 to 164, which set out matters that may be included in regulations under this section, do not limit the power in section 214(6) (to make supplementary provision etc).
+
+(11) For the purposes of this group of sections (that is, this section and sections 162 to 164), processing an application means taking any action in relation to the application (other than determining it) of a kind that—
+
+(a) might otherwise be taken by or for the responsible planning authority, and
+
+(b) is specified in the regulations.
+
+(12) In this group of sections “connected application”, in relation to an application for planning permission that is to be or has been processed by a designated person under the regulations (“the main application”), means—
+
+(a) an application for approval of a matter reserved under an outline planning permission within the meaning of section 92 of the Town and Country Planning Act 1990 (where the main application resulted in the grant of such permission), or
+
+(b) an application of a specified description, made under or by virtue of an enactment about planning, that relates to some or all of the land to which the main application relates.
+
+(13) In this group of sections “designated person” means a person—
+
+(a) who is designated by the Secretary of State in accordance with the regulations, and
+
+(b) whose designation has not been withdrawn in accordance with the regulations.
+
+The Secretary of State may designate a local planning authority.
+
+(14) In this group of sections—
+
+- “local planning authority” has the same meaning as in the Town and Country Planning Act 1990;
+- “planning permission” means planning permission under Part 3 of that Act;
+- “responsible planning authority”, in relation to an application for planning permission or a connected application, means the local planning authority responsible for determining the application;
+- “specified” means specified in regulations under this section.
+
+#### 162 Regulations under section 161: general
+
+(1) Regulations under section 161 may—
+
+(a) require a designated person (subject to any specified exceptions) to process an application for planning permission if chosen to do so by an applicant;
+
+(b) provide that, where an application for planning permission is to be or has been processed by a designated person, any connected application must (subject to any specified exceptions) also be processed by that person;
+
+(c) allow a responsible planning authority to take over the processing of an application for planning permission, or a connected application, in specified circumstances.
+
+(2) The regulations may make provision about—
+
+(a) eligibility to act as a designated person;
+
+(b) the capacity of a local planning authority to act as a designated person;
+
+(c) actions to be taken or procedures to be followed—
+
+(i) by persons making applications for planning permission or connected applications,
+
+(ii) by designated persons, or
+
+(iii) by responsible planning authorities,
+
+and periods within which the actions or procedures are to be taken or followed;
+
+(d) matters to be considered by designated persons or responsible planning authorities;
+
+(e) performance standards for designated persons;
+
+(f) the investigation of complaints or concerns about designated persons;
+
+(g) cases where a person ceases to be a designated person or where a designated person is unable to continue processing an application.
+
+(3) The provision that may be made under subsection (2)(c) includes provision requiring a designated person to provide assistance to the responsible planning authority in connection with—
+
+(a) any appeal against the authority's determination of the application;
+
+(b) any application to the court made in relation to that determination.
+
+(4) The provision that may be made under subsection (2)(f) includes—
+
+(a) provision about the payment of compensation;
+
+(b) provision for a designated person to be required to indemnify the responsible authority for any compensation that the authority is required to pay;
+
+(c) provision applying anything in Part 3 of the Local Government Act 1974 (local government administration) with or without modifications.
+
+(5) The regulations may confer powers on the Mayor of London [[^F81], a mayor of a mayoral combined authorities or a mayoral combined county authority] or the Secretary of State in cases where a direction is given under section 2A or 77 of the Town and Country Planning Act 1990 (“call-in” directions).
+
+[[^F82](6) In this section, “mayoral combined authority” and “mayoral combined county authority” have the same meaning as in the Town and Country Planning Act 1990 (see section 336 of that Act).]
+
+#### 163 Regulations under section 161: fees and payments
+
+(1) Regulations under section 161 may make provision about—
+
+(a) the setting, publication and charging of fees by designated persons or responsible planning authorities;
+
+(b) the refunding of fees, by designated persons or responsible planning authorities, in specified circumstances.
+
+(2) The provision that may be made under subsection (1)(a) includes provision giving power to the Secretary of State to prevent the charging of fees that he or she considers excessive.
+
+(3) The provision that may be made under subsection (1)(b) includes provision requiring a designated person or a responsible planning authority to refund to an applicant some or all of a fee paid by the applicant to a designated person where the person or the authority fails to do a particular thing within a specified period.
+
+(4) The regulations may authorise the making of payments by the Secretary of State to local planning authorities or designated persons.
+
+#### 164 Regulations under section 161: information
+
+(1) Regulations under section 161 may make provision—
+
+(a) requiring responsible planning authorities to disclose information to designated persons;
+
+(b) requiring designated persons to disclose information to responsible planning authorities or to other designated persons;
+
+(c) restricting the uses to which information disclosed by virtue of paragraph (a) or (b) may be put;
+
+(d) restricting further disclosure of such information.
+
+(2) The regulations may make provision for designated persons or responsible planning authorities to be required to provide information to the Secretary of State.
+
+### Review of minimum energy performance requirements
+
+#### 165 Review of minimum energy performance requirements
+
+After section 2B of the Building Act 1984 insert—
+
+> **Duty to review minimum energy performance requirements**
+>
+> **2C Review of minimum energy performance requirements**
+>
+> The Secretary of State must carry out a review of any minimum energy performance requirements approved by the Secretary of State under building regulations in relation to dwellings in England.
+
+### Urban development corporations
+
+#### 166 Designation of urban development areas: procedure
+
+(1) Section 134 of the Local Government, Planning and Land Act 1980 (urban development areas) is amended as follows.
+
+(2) After subsection (1) insert—
+
+> (1A) Before making an order under subsection (1) in relation to land in England, the Secretary of State must consult the following persons—
+>
+> (a) persons who appear to the Secretary of State to represent those living within, or in the vicinity of, the proposed urban development area;
+>
+> (b) persons who appear to the Secretary of State to represent businesses with any premises within, or in the vicinity of, the proposed urban development area;
+>
+> (c) each local authority for an area which falls wholly or partly within the proposed urban development area; and
+>
+> (d) any other person whom the Secretary of State considers it appropriate to consult.
+
+(3) For subsection (4) substitute—
+
+> (4) A statutory instrument containing an order made by the Secretary of State under subsection (1) does not have effect until approved by a resolution of each House of Parliament.
+>
+> (4A) If a draft of an instrument containing an order by the Secretary of State under subsection (1) would, but for this subsection, be treated for the purposes of the standing orders of either House of Parliament as a hybrid instrument, it is to proceed in that House as if it were not a hybrid instrument.
+>
+> (4B) An order made by the Welsh Ministers under subsection (1) (by virtue of paragraph 30 of Schedule 11 to the Government of Wales Act 2006) does not have effect until approved by a resolution of the National Assembly for Wales.
+>
+> (4C) An order made by the Scottish Ministers under subsection (1) (by virtue of section 53 of the Scotland Act 1998) is subject to the affirmative procedure (see Part 2 of the Interpretation and Legislative Reform (Scotland) Act 2010 (asp 10)).
+
+#### 167 Establishment of urban development corporations: procedure
+
+(1) Section 135 of the Local Government, Planning and Land Act 1980 (urban development corporations) is amended as follows.
+
+(2) After subsection (1) insert—
+
+> (1A) Before making an order under this section in relation to an urban development area in England, the Secretary of State must consult the following persons—
+>
+> (a) persons who appear to the Secretary of State to represent those living within, or in the vicinity of, the urban development area;
+>
+> (b) persons who appear to the Secretary of State to represent businesses with any premises within, or in the vicinity of, the urban development area;
+>
+> (c) each local authority for an area which falls wholly or partly within the urban development area; and
+>
+> (d) any other person whom the Secretary of State considers it appropriate to consult.
+
+(3) For subsection (3) substitute—
+
+> (3) A statutory instrument containing an order made by the Secretary of State under this section does not have effect until approved by a resolution of each House of Parliament.
+>
+> (3A) If a draft of an instrument containing an order by the Secretary of State under this section would, but for this subsection, be treated for the purposes of the standing orders of either House of Parliament as a hybrid instrument, it is to proceed in that House as if it were not a hybrid instrument.
+>
+> (3B) An order made by the Welsh Ministers under this section (by virtue of paragraph 30 of Schedule 11 to the Government of Wales Act 2006) does not have effect until approved by a resolution of the National Assembly for Wales.
+>
+> (3C) An order made by the Scottish Ministers under this section (by virtue of section 53 of the Scotland Act 1998) is subject to the affirmative procedure (see Part 2 of the Interpretation and Legislative Reform (Scotland) Act 2010 (asp 10)).
+
+#### 168 Sections 166 and 167: consequential repeals
+
+In the Deregulation Act 2015, omit sections 46 and 47.
+
+### New towns
+
+#### 169 Designation of new town areas and establishment of corporations: procedure
+
+(1) The New Towns Act 1981 is amended as follows.
+
+(2) In section 1 (designation of areas)—
+
+(a) after subsection (3) insert—
+
+> (3A) Before making an order under this section designating an area of land in England as the site of a proposed new town, the Secretary of State must consult the following persons (as well as the local authorities mentioned in subsection (1))—
+>
+> (a) persons who appear to the Secretary of State to represent those living within, or in the vicinity of, the site;
+>
+> (b) persons who appear to the Secretary of State to represent businesses with any premises within, or in the vicinity of, the site;
+>
+> (c) any other person whom the Secretary of State considers it appropriate to consult.
+
+(b) in subsection (4), after “section” insert “ designating areas of land in Wales ”.
+
+(3) In section 3 (establishment of development corporations for new towns), after subsection (2) insert—
+
+> (2A) Before making an order under this section in relation to a site in England, the Secretary of State must consult the following persons—
+>
+> (a) persons who appear to the Secretary of State to represent those living within, or in the vicinity of, the site;
+>
+> (b) persons who appear to the Secretary of State to represent businesses with any premises within, or in the vicinity of, the site;
+>
+> (c) every county or district council for an area which falls wholly or partly within the site;
+>
+> (d) any other person whom the Secretary of State considers it appropriate to consult.
+
+(4) In section 77 (regulations and orders)—
+
+(a) after subsection (3) insert—
+
+> (3ZA) The power of the Secretary of State to make orders under section 3 is also exercisable by statutory instrument.
+
+;
+
+(b) after subsection (3A) insert—
+
+> (3B) A statutory instrument containing an order made by the Secretary of State under section 1, 2 or 3 may not be made unless a draft of the instrument has been laid before and approved by a resolution of each House of Parliament.
+>
+> (3C) If a draft of an instrument containing an order of the Secretary of State under section 1, 2 or 3 would, but for this subsection, be treated for the purposes of the standing orders of either House of Parliament as a hybrid instrument, it is to proceed in that House as if it were not a hybrid instrument.
+
+;
+
+(c) in subsection (4), for the words before paragraph (a) substitute “ A statutory instrument that is made by the Welsh Ministers (by virtue of paragraph 30 of Schedule 11 to the Government of Wales Act 2006) under any of the following provisions of this Act is subject to annulment in pursuance of a resolution of the National Assembly for Wales— ”;
+
+(d) in subsection 4(a)(ii), omit “a county planning authority or, where the order is one designating an area in Wales, by”.
+
+(5) In Schedule 1 (procedure for designating area), before paragraph 1 (and before the italic heading before that paragraph) insert—
+
+> **A1 Application of Schedule: Wales only**
+>
+> This Schedule applies only in relation to an order under section 1 designating an area of land in Wales as the site of a proposed new town.
+
+#### 170 New towns: objects of development corporations in England
+
+In section 4 of the New Towns Act 1981 (objects and general powers of development corporations), after subsection (1) insert—
+
+> (1A) In pursuing those objects a development corporation that is established for the purposes of a new town in England must aim to contribute to the achievement of sustainable development.
+>
+> (1B) For the purposes of subsection (1A) a development corporation must (in particular) have regard to the desirability of good design.
+
+### Sustainable drainage
+
+#### 171 Sustainable drainage
+
+The Secretary of State must carry out a review of planning legislation, government planning policy and local planning policies concerning sustainable drainage in relation to the development of land in England.
+
+## PART 7 — Compulsory purchase etc
+
+### Right to enter and survey land
+
+#### 172 Right to enter and survey land
+
+(1) A person authorised in writing by an acquiring authority may enter and survey or value land in connection with a proposal to acquire an interest in or a right over land.
+
+(2) The person—
+
+(a) may only enter and survey or value land at a reasonable time, and
+
+(b) may not use force unless a justice of the peace has issued a warrant under section 173(1) authorising the person to do so.
+
+(3) The person must, if required when exercising or seeking to exercise the power conferred by subsection (1), produce—
+
+(a) evidence of the authorisation, and
+
+(b) a copy of any warrant issued under section 173(1).
+
+(4) An authorisation under subsection (1) may relate to the land which is the subject of the proposal or to other land.
+
+(5) If the land is unoccupied or the occupier is absent from the land when the person enters it, the person must leave it as secure against trespassers as when the person entered it.
+
+(6) In this section and sections 173 to 178 [[^F83]—
+
+(a) “acquiring authority” means a person who could be authorised to acquire compulsorily the land to which the proposal mentioned in subsection (1) relates (regardless of whether the proposal is to acquire an interest in or a right over the land or to take temporary possession of it), and
+
+(b) “owner” has the meaning given in section 7 of the Acquisition of Land Act 1981.]
+
+#### 173 Warrant authorising use of force to enter and survey land
+
+(1) A justice of the peace may issue a warrant authorising a person to use force in the exercise of the power conferred by section 172(1) if satisfied—
+
+(a) that another person has prevented or is likely to prevent the exercise of that power, and
+
+(b) that it is reasonable to use force in the exercise of that power.
+
+(2) The force that may be authorised by a warrant is limited to that which is reasonably necessary.
+
+(3) A warrant authorising the person to use force must specify the number of occasions on which the authority can rely on the warrant when entering and surveying or valuing land.
+
+(4) The number specified must be the number which the justice of the peace considers appropriate to achieve the purpose for which the entry and survey or valuation are required.
+
+(5) Any evidence in proceedings for a warrant under this section must be given on oath.
+
+#### 174 Notice of survey and copy of warrant
+
+(1) The acquiring authority must give every owner or occupier of land at least 14 days' notice before the first day on which the authority intends to enter the land in exercise of the power conferred by section 172.
+
+(2) Notice given in accordance with subsection (1) must include—
+
+(a) a statement of the recipient's rights under section 176, and
+
+(b) a copy of the warrant, if there is one.
+
+(3) If the authority proposes to do any of the following, the notice must include details of what is proposed—
+
+(a) searching, boring or excavating;
+
+(b) leaving apparatus on the land;
+
+(c) taking samples;
+
+(d) an aerial survey;
+
+(e) carrying out any other activities that may be required to facilitate compliance with the instruments mentioned in subsection (5).
+
+(4) If the authority obtains a warrant after giving notice in accordance with subsection (1) it must give a copy of the warrant to all those to whom it gave that notice.
+
+(5) The instruments referred to in subsection (3)(e) are—
+
+(a) Council Directive 85/337/EEC of 27 June 1985 on the assessment of the effects of certain public and private projects on the environment, as amended from time to time,
+
+(b) Council Directive 92/43/EC of 21 May 1992 on the conservation of natural habitats and of wild fauna and flora, as amended from time to time, or
+
+(c) any EU instrument from time to time replacing all or part of those Directives.
+
+#### 175 Enhanced authorisation procedures etc. for certain surveys
+
+(1) A written authorisation from the appropriate Minister is required before a person enters and surveys or values land in exercise of the power conferred by section 172 if—
+
+(a) the land is held by a statutory undertaker,
+
+(b) within the notice period mentioned in section 174(1), the statutory undertaker objects to the proposed entry and survey or valuation in writing to the acquiring authority, and
+
+(c) the objection is that the proposed entry and survey or valuation would be seriously detrimental to the statutory undertaker carrying on its undertaking.
+
+(2) In subsection (1)—
+
+- “the appropriate Minister” means—
+
+  - (a) in the case of land in Wales held by a water or sewerage undertaker, the Welsh Ministers, and
+  - (b) in any other case, the Secretary of State;
+
+- “statutory undertaker” means—
+
+  - (a) any person who is, or who is deemed to be, a statutory undertaker for the purposes of section 16 or 17 of the Acquisition of Land Act 1981 or of any provision of Part 11 of the Town and Country Planning Act 1990, and
+  - (b) any person in relation to whom the electronic communications code is applied by a direction under section 106(3)(a) of the Communications Act 2003.
+
+(3) Where the survey or valuation is to take place in a street, the following sections of the New Roads and Street Works Act 1991 apply to the survey or valuation as if it were street works—
+
+(a) section 55 (notice of starting date of works),
+
+(b) section 69 (requirements to be complied with where works likely to affect another person's apparatus in the street), and
+
+(c) section 82 (liability for damage or loss caused).
+
+(4) In the application of those sections references to an “undertaker” are to be read as references to the acquiring authority which authorised the survey or valuation.
+
+(5) See section 169(4) of the Water Industry Act 1991 and section 171(4) of the Water Resources Act 1991 for additional procedures in relation to the exercise of the power in section 172 on behalf of a water undertaker, the Environment Agency or the Natural Resources Body for Wales.
+
+#### 176 Right to compensation after entry on or survey of land
+
+(1) A person interested in land is entitled to compensation from the acquiring authority for damage as a result of the exercise of the power conferred by section 172.
+
+(2) Any disputes relating to compensation under this section are to be determined by the Upper Tribunal.
+
+(3) The provisions of section 4 of the Land Compensation Act 1961 apply to the determination of such disputes, with any necessary modifications.
+
+#### 177 Offences in connection with powers to enter land
+
+(1) A person who without reasonable excuse obstructs another person in the exercise of the power conferred by section 172 commits an offence.
+
+(2) A person who commits an offence under subsection (1) is liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+(3) A person commits an offence if the person discloses confidential information, obtained in the exercise of the power conferred by section 172, for purposes other than those for which the power was exercised.
+
+(4) A person who commits an offence under subsection (3) is liable—
+
+(a) on summary conviction to a fine,
+
+(b) on conviction on indictment to imprisonment for a term not exceeding 2 years or to a fine, or both.
+
+(5) In subsection (3) “confidential information” means information—
+
+(a) which constitutes a trade secret, or
+
+(b) the disclosure of which would or would be likely to prejudice the commercial interests of any person.
+
+#### 178 Right to enter and survey or value Crown land
+
+(1) Sections 172 to 177 apply in relation to Crown land.
+
+(2) But a person may only exercise the power conferred by section 172 in relation to Crown land if the person has the permission of the appropriate authority.
+
+(3) In this section, “Crown land” and “the appropriate authority” have the meaning given in section 293 of the Town and Country Planning Act 1990.
+
+#### 179 Amendments to do with sections 172 to 178
+
+Schedule 14 amends legislation conferring rights of entry relating to the acquisition of an interest in or a right over land in England and Wales.
+
+### Confirmation and time limits
+
+#### 180 Timetable for confirmation of compulsory purchase order
+
+After section 14A of the Acquisition of Land Act 1981 (confirmation by acquiring authorities) insert—
+
+> **14B Timetables for confirmation of CPOs except by Welsh Ministers**
+>
+> (1) The Secretary of State must publish one or more timetables in relation to steps to be taken by confirming authorities, other than the Welsh Ministers, in confirming a compulsory purchase order.
+>
+> (2) Different timetables may be published in relation to—
+>
+> (a) different confirming authorities, or
+>
+> (b) different types of compulsory purchase order.
+>
+> (3) The Secretary of State may at any time revise a timetable published under this section.
+>
+> (4) The validity of an order is not affected by any failure to comply with a timetable published under this section.
+>
+> (5) The Secretary of State must lay before Parliament an annual report showing the extent to which confirming authorities have complied with any applicable timetable published under this section.
+>
+> (6) A report laid by the Secretary of State under this section need not include information about a confirming authority if the number of compulsory purchase orders submitted to it is lower than a minimum specified by the Secretary of State in the report.
+>
+> **14C Timetables for confirmation of CPOs by Welsh Ministers**
+>
+> (1) The Welsh Ministers may publish one or more timetables in relation to steps to be taken by them in confirming a compulsory purchase order.
+>
+> (2) Different timetables may be published in relation to different types of compulsory purchase order.
+>
+> (3) The Welsh Ministers may at any time revise a timetable published under this section.
+>
+> (4) The validity of an order is not affected by any failure to comply with a timetable published under this section.
+>
+> (5) The Welsh Ministers must lay before the National Assembly for Wales an annual report showing the extent to which they have complied with any applicable timetable published under this section.
+
+#### 181 Confirmation by inspector
+
+(1) The Acquisition of Land Act 1981 is amended as follows.
+
+(2) After section 14C (inserted by section 180 of this Act), insert—
+
+> **14D Power to appoint inspector**
+>
+> (1) A confirming authority may appoint a person (“an inspector”) to act instead of it in relation to the confirmation of a compulsory purchase order to which section 13A applies.
+>
+> (2) An inspector may be appointed to act in relation to—
+>
+> (a) a specific compulsory purchase order, or
+>
+> (b) a description of compulsory purchase orders.
+>
+> (3) An inspector—
+>
+> (a) has the same functions as a confirming authority under this Part (excluding this section),
+>
+> (b) retains those functions even if all remaining objections are withdrawn after the inspector has begun to act in relation to a compulsory purchase order, and
+>
+> (c) may hold a public local inquiry under section 13A(3)(a) or act as the person appointed to hear remaining objections under section 13A(3)(b).
+>
+> (4) Where an inspector is to act in relation to a compulsory purchase order, the confirming authority must inform—
+>
+> (a) every person who has made a remaining objection, and
+>
+> (b) the acquiring authority.
+>
+> (5) Where an inspector decides whether or not to confirm the whole or part of a compulsory purchase order, the inspector's decision is to be treated as that of the confirming authority.
+>
+> (6) The confirming authority may at any time—
+>
+> (a) revoke its appointment of an inspector, and
+>
+> (b) appoint another inspector.
+>
+> (7) If the confirming authority revokes its appointment of an inspector while the inspector is acting in relation to a compulsory purchase order and does not replace the inspector, the authority must give its reasons—
+>
+> (a) to the inspector whose appointment has been revoked, and
+>
+> (b) to all those informed under subsection (4).
+>
+> (8) Where in any enactment there is a provision that applies in relation to a confirming authority acting under this Part, that provision is to be read as applying equally in relation to an inspector so far as the context permits.
+>
+> (9) In this section “remaining objection” is to be construed in accordance with section 13A.
+
+(3) In section 2 (procedure for authorisation), for subsection (2) substitute—
+
+> (2) A compulsory purchase order authorising a compulsory purchase by an authority other than a Minister is to be—
+>
+> (a) made by that authority,
+>
+> (b) submitted to the confirming authority, and
+>
+> (c) confirmed in accordance with Part 2 of this Act.
+
+#### 182 Time limits for notice to treat or general vesting declaration
+
+(1) For section 4 of the Compulsory Purchase Act 1965 substitute—
+
+> **4 Time limit for giving notice to treat**
+>
+> A notice to treat may not be served by the acquiring authority after the end of the period of 3 years beginning with the day on which the compulsory purchase order becomes operative.
+
+(2) After section 5 of the Compulsory Purchase (Vesting Declarations) Act 1981 insert—
+
+> **5A Time limit for general vesting declaration**
+>
+> A general vesting declaration may not be executed after the end of the period of 3 years beginning with the day on which the compulsory purchase order becomes operative.
+
+### Vesting declarations: procedure
+
+#### 183 Notice of general vesting declaration procedure
+
+Schedule 15 changes the notice requirements for general vesting declarations.
+
+#### 184 Earliest vesting date under general vesting declaration
+
+In section 4 of the Compulsory Purchase (Vesting Declarations) Act 1981 (execution of declaration vesting land at the end of a period of not less than 28 days from the date of service), in subsection (1) for “28 days” substitute “ 3 months ”.
+
+#### 185 No general vesting declaration after notice to treat
+
+In section 4 of the Compulsory Purchase (Vesting Declarations) Act 1981 (execution of declaration), after subsection (1) insert—
+
+> (1A) But an acquiring authority may not execute a declaration in respect of land if they have served a notice to treat in respect of that land and have not withdrawn it.
+>
+> (1B) In subsection (1A) the reference to an authority having “served” a notice does not include cases in which the authority is deemed to have served a notice.
+
+### Possession following notice to treat etc
+
+#### 186 Extended notice period for taking possession following notice to treat
+
+(1) The Compulsory Purchase Act 1965 is amended as follows.
+
+(2) In section 11 (powers of entry)—
+
+(a) in subsection (1)—
+
+(i) for “not less than fourteen days notice” substitute “ a notice of entry ”; and
+
+(ii) after “specified in the notice” insert “ , after the end of a period specified in the notice ”;
+
+(b) after subsection (1) insert—
+
+> (1A) A notice of entry under subsection (1) must specify the period after the end of which the acquiring authority may enter on and take possession of the land to which the notice relates.
+>
+> (1B) The period specified in a notice of entry under subsection (1) must not end earlier than the end of the period of 3 months beginning with the day on which the notice is served unless it is a notice to which section 11A(4) or paragraph 13 of Schedule 2A applies.
+
+(3) After section 11 insert—
+
+> **11A Powers of entry: further notices of entry**
+>
+> (1) This section applies where—
+>
+> (a) an acquiring authority have given a notice of entry under section 11(1) but have not yet entered on and taken possession of the land, and
+>
+> (b) the authority become aware of an owner, lessee or occupier (“the newly identified person”) to whom they ought to have given a notice to treat under section 5(1) but have not.
+>
+> (2) Any notice of entry already served under section 11(1) remains valid, but the authority may not enter on and take possession of the land unless they serve on the newly identified person—
+>
+> (a) a notice to treat under section 5(1), and
+>
+> (b) a notice of entry under section 11(1).
+>
+> (3) Subsection (4) applies for the purpose of determining the period to be specified in the notice of entry under section 11(1) served on the newly identified person if—
+>
+> (a) the person is an occupier of the land and the authority were not aware of the person because they were given misleading information when carrying out inquiries under section 5(1), or
+>
+> (b) the person is not an occupier of the land.
+>
+> (4) The period specified in the notice must be a period that ends—
+>
+> (a) no earlier than the end of the period of 14 days beginning with the day on which the notice of entry is served, and
+>
+> (b) no earlier than the end of the period specified in any previous notice of entry given by the acquiring authority in respect of the land.
+
+#### 187 Counter-notice requiring possession to be taken on specified date
+
+(1) The Compulsory Purchase Act 1965 is amended as follows.
+
+(2) In section 11 (powers of entry), after subsection (1B) (inserted by section 186 of this Act), insert—
+
+> (1C) A notice of entry under subsection (1) must explain the effect of section 11B (counter-notice requiring possession to be taken on specified date) and give an address at which the acquiring authority may be served with a counter-notice.
+
+(3) After section 11A (inserted by section 186 above) insert—
+
+> **11B Counter-notice requiring possession to be taken on specified date**
+>
+> (1) Where an acquiring authority serve a notice of entry under section 11(1) on an occupier with an interest in land, the occupier may serve a counter-notice requiring the acquiring authority to take possession of the land by no later than a date specified in the counter-notice.
+>
+> (2) If the occupier gives up possession of the land on or before the specified date the acquiring authority are to be treated as having taken possession on that date (unless the acquiring authority has in fact taken possession before that date).
+>
+> (3) The date specified in the counter-notice—
+>
+> (a) must not be before the end of the period specified in the notice of entry under section 11(1), and
+>
+> (b) must be at least 28 days after the day on which the counter-notice is served.
+>
+> (4) A counter-notice under subsection (1) has no effect if the notice to treat relating to the land is withdrawn or ceases to have effect before the date specified in the counter-notice.
+>
+> (5) A counter-notice under subsection (1) has no effect if it would require an acquiring authority to take possession of land at a time when section 11A or paragraph 6 of Schedule 2A prohibit the authority from entering on and taking possession of the land.
+>
+> (6) If subsection (5) applies, the authority must notify the occupier who served the counter-notice—
+>
+> (a) that the counter-notice has no effect, and
+>
+> (b) if the authority serve a notice of entry as mentioned in section 11A(2)(b), of the date after which the authority could enter on and take possession of the land.
+>
+> (7) If a counter-notice served under subsection (1) has no effect because of subsection (5), the occupier who served it may serve a further counter-notice.
+>
+> (8) Where a notice of entry under section 11(1) is served on more than one occupier with the same interest in the land, a reference in this section to the occupier with an interest in land is to all of them acting together.
+
+#### 188 Agreement to extend notice period for possession following notice to treat
+
+In section 11 of the Compulsory Purchase Act 1965 (powers of entry), after subsection (1C) (inserted by section 187 of this Act), insert—
+
+> (1D) An acquiring authority may extend the period specified in a notice of entry under subsection (1) by agreement with each person on whom it was served.
+>
+> (1E) A reference in this Act to the period specified in a notice of entry under subsection (1) is to the period as extended by any agreement under subsection (1D).
+
+#### 189 Corresponding amendments to the New Towns Act 1981
+
+(1) Schedule 6 to the New Towns Act 1981 (modification of compulsory purchase legislation as applied for the purposes of the Act) is amended as follows.
+
+(2) In paragraph 4—
+
+(a) in sub-paragraph (1)—
+
+(i) in the words before paragraph (a), after “every owner of that land” insert “ so far as known to the acquiring authority after making diligent inquiry in accordance with section 5(1) of the Compulsory Purchase Act 1965 ”;
+
+(ii) in the words after paragraph (b), omit “(not being less than 14 days)”;
+
+(b) after sub-paragraph (2) insert—
+
+> (2A) The period specified in a notice under sub-paragraph (1) must not end earlier than the end of the period of 3 months beginning with the day on which the notice is served unless—
+>
+> (a) it is a notice to which paragraph 4A(4) applies, or
+>
+> (b) it is a notice to which paragraph 13 of Schedule 2A to the Compulsory Purchase Act 1965 (as modified by paragraph 1(2)(g) above) applies.
+>
+> (2B) A notice under sub-paragraph (1) must explain the effect of paragraph 4B (counter-notice requiring possession to be taken on specified date) and give an address at which the acquiring authority may be served with a counter-notice.
+>
+> (2C) An acquiring authority may extend the period specified in a notice under sub-paragraph (1) by agreement with each person on whom it was served.
+>
+> (2D) A reference in this Schedule to the period specified in a notice under sub-paragraph (1) is to the period as extended by any agreement under sub-paragraph (2C).
+
+(3) After paragraph 4 insert—
+
+> **4A**
+>
+> (1) This paragraph applies where—
+>
+> (a) an acquiring authority have given a notice under paragraph 4(1) but have not yet entered on and taken possession of the land, and
+>
+> (b) the authority become aware of an owner (“the newly identified owner”) to whom they ought to have given a notice to treat under section 5(1) of the Compulsory Purchase Act 1965 but have not.
+>
+> (2) Any notice already served under paragraph 4(1) remains valid, but the authority may not enter on and take possession of the land unless they serve on the newly identified owner—
+>
+> (a) a notice to treat under section 5(1) of the Compulsory Purchase Act 1965, and
+>
+> (b) a notice under paragraph 4(1).
+>
+> (3) Sub-paragraph (4) applies for the purpose of determining the period to be specified in the notice under paragraph 4(1) served on the newly identified owner if—
+>
+> (a) the owner is an occupier of the land and the authority were not aware of the owner because they were given misleading information when carrying out inquiries under section 5(1) of the Compulsory Purchase Act 1965, or
+>
+> (b) the owner is not an occupier of the land.
+>
+> (4) The period must be a period that ends—
+>
+> (a) no earlier than the end of the period of 14 days beginning with the day on which the notice of entry is served, and
+>
+> (b) no earlier than the end of the period specified in any previous notice under paragraph 4(1) given by the acquiring authority in respect of the land.
+>
+> (5) This paragraph applies instead of section 11A of the Compulsory Purchase Act 1965.
+>
+> **4B**
+>
+> (1) Where the acquiring authority serves a notice under paragraph 4(1) on an occupier with an interest in land, the occupier may serve a counter-notice requiring the acquiring authority to take possession of the land by no later than a date specified in the counter-notice.
+>
+> (2) If the occupier gives up possession of the land on or before the specified date, the acquiring authority is to be treated as having taken possession on that date (unless the acquiring authority has in fact taken possession before that date).
+>
+> (3) The date specified in the counter-notice—
+>
+> (a) must not be before the end of the period specified in the notice under paragraph 4(1), and
+>
+> (b) must be at least 28 days after the day on which the counter-notice is served.
+>
+> (4) A counter-notice under sub-paragraph (1) has no effect if the notice to treat relating to the land is withdrawn or ceases to have effect before the date specified in the counter-notice.
+>
+> (5) A counter-notice under sub-paragraph (1) has no effect if it would require an acquiring authority to take possession of land at a time when either paragraph 4A of this Schedule or paragraph 6 of Schedule 2A to the Compulsory Purchase Act 1965 prohibit the authority from entering on and taking possession of the land.
+>
+> (6) If sub-paragraph (5) applies, the authority must notify the occupier who served the counter-notice—
+>
+> (a) that the counter-notice has no effect, and
+>
+> (b) if the authority serve a notice under paragraph 4(1) of this Schedule as mentioned in paragraph 4A(2)(b) of this Schedule, of the date after which the authority could enter on and take possession of the land.
+>
+> (7) If a counter-notice served under sub-paragraph (1) has no effect because of sub-paragraph (5), the occupier who served it may serve a further counter-notice.
+>
+> (8) Where a notice under paragraph 4(1) is served on more than one occupier with the same interest in the land, a reference in this section to the occupier with an interest in land is to all of them acting together.
+>
+> (9) This paragraph applies instead of section 11B of the Compulsory Purchase Act 1965.
+
+#### 190 Abolition of alternative possession procedure following notice to treat
+
+Schedule 16 abolishes the alternative procedure for taking possession of land under section 11(2) of, and Schedule 3 to, the Compulsory Purchase Act 1965.
+
+#### 191 Extended notice period for taking possession following vesting declaration
+
+In section 9 of the Compulsory Purchase (Vesting Declarations) Act 1981 (minor tenancies and tenancies about to expire), in subsection (2), for “14 days” substitute “ 3 months ”.
+
+### Compensation
+
+#### 192 Making a claim for compensation
+
+(1) After section 4 of the Land Compensation Act 1961 (costs) insert—
+
+> **4A Making a claim for compensation**
+>
+> (1) The appropriate national authority may by regulations impose further requirements about the notice mentioned in section 4(1)(b).
+>
+> (2) In subsection (1) “appropriate national authority” means—
+>
+> (a) in relation to a claim for compensation for the compulsory acquisition of land in England, the Secretary of State;
+>
+> (b) in relation to a claim for compensation for the compulsory acquisition of land in Wales, the Welsh Ministers.
+>
+> (3) Regulations under subsection (1) may make provision about—
+>
+> (a) the form and content of the notice, and
+>
+> (b) the time at which the notice must be given.
+>
+> (4) Regulations under subsection (1) may permit or require a person specified in the regulations to design the form of the notice.
+>
+> (5) Regulations under subsection (1) may require an acquiring authority to supply, at specified stages of the compulsory acquisition process, copies of a form to be used in giving the notice.
+>
+> (6) Regulations under subsection (1) are to be made by statutory instrument.
+>
+> (7) A statutory instrument containing regulations under subsection (1) is subject to annulment—
+>
+> (a) in the case of an instrument made by the Secretary of State, in pursuance of a resolution of either House of Parliament;
+>
+> (b) in the case of an instrument made by the Welsh Ministers, in pursuance of a resolution of the National Assembly for Wales.
+
+(2) In section 5 of the Compulsory Purchase Act 1965 (notice to treat and untraced owners), after subsection (2) insert—
+
+> (2ZA) For provision about notice of claims for compensation, see sections 4 and 4A of the Land Compensation Act 1961.
+
+#### 193 Compensation after withdrawal of notice to treat
+
+(1) Section 31 of the Land Compensation Act 1961 (withdrawal of notices to treat) is amended in accordance with subsections (2) and (3).
+
+(2) After subsection (3) insert—
+
+> (3A) Where the acquiring authority withdraw a notice to treat under this section, the authority shall also be liable to pay a person compensation for any loss or expenses occasioned by the person as a result of the giving and withdrawal of the notice to treat if the person—
+>
+> (a) acquired the interest to which the notice to treat relates before its withdrawal, and
+>
+> (b) has not subsequently been given a notice to treat in relation to that interest.
+
+(3) In subsection (4), after “(3)” insert “ or (3A) ”.
+
+(4) In Schedule 18 to the Planning and Compensation Act 1991 (provisions under which compensation is payable with interest), in Part 1, in the entry relating to the Land Compensation Act 1961, after “section 31(3)” insert “ or (3A) ”.
+
+#### 194 Making a request for advance payment of compensation
+
+(1) The Land Compensation Act 1973 is amended as follows.
+
+(2) In section 52 (right to advance payment of compensation), for subsection (2) substitute—
+
+> (2) A request for advance payment must be made in writing by the person entitled to it (“the claimant”) and must include—
+>
+> (a) details of the claimant's interest in the land, and
+>
+> (b) information to enable the acquiring authority to estimate the amount of the compensation in respect of which the advance payment is to be made.
+>
+> (2A) Within 28 days of receiving a request, the acquiring authority must—
+>
+> (a) determine whether they have enough information to estimate the amount of compensation, and
+>
+> (b) if they need more information, require the claimant to provide it.
+
+(3) In section 52ZC (land subject to mortgage: supplementary), for subsection (2) substitute—
+
+> (2) Within 28 days of receiving a request for a payment under section 52ZA or 52ZB, the acquiring authority must—
+>
+> (a) determine whether they have enough information to give effect to section 52ZA or, as the case may be, 52ZB, and
+>
+> (b) if they need more information, require the claimant to provide it.
+
+(4) After section 52ZC (land subject to mortgage: supplementary) insert—
+
+> **52ZD Making a request for advance payment**
+>
+> (1) The appropriate national authority may by regulations impose requirements about the form and content of a request under section 52(2), 52ZA(3) or 52ZB(3).
+>
+> (2) In subsection (1) “appropriate national authority” means—
+>
+> (a) in relation to a request relating to the compulsory acquisition of land in England, the Secretary of State;
+>
+> (b) in relation to a request relating to the compulsory acquisition of land in Wales, the Welsh Ministers.
+>
+> (3) Regulations under subsection (1) may permit or require a person specified in the regulations to design a form to be used in making a request.
+>
+> (4) Regulations under subsection (1) may require an acquiring authority to supply, at specified stages of the compulsory acquisition process, copies of a form to be used in making a request.
+>
+> (5) Regulations under subsection (1) are to be made by statutory instrument.
+>
+> (6) A statutory instrument containing regulations under subsection (1) is subject to annulment—
+>
+> (a) in the case of an instrument made by the Secretary of State, in pursuance of a resolution of either House of Parliament;
+>
+> (b) in the case of an instrument made by the Welsh Ministers, in pursuance of a resolution of the National Assembly for Wales.
+
+#### 195 Power to make and timing of advance payment
+
+(1) The Land Compensation Act 1973 is amended as follows.
+
+(2) In section 52 (right to advance payment of compensation)—
+
+(a) for subsections (1) to (1B) substitute—
+
+> (1) An acquiring authority may make an advance payment on account of compensation payable by them for the compulsory acquisition of an interest in land if a request has been made under subsection (2) after the compulsory acquisition has been authorised.
+>
+> (1A) In a case where the compulsory acquisition is one to which the Lands Clauses Consolidation Act 1845 applies, the acquiring authority may not make an advance payment if they have not taken possession of the land, but must do so if they have.
+>
+> (1B) In all other cases, an acquiring authority must make an advance payment under subsection (1) if, before or after the request is made, the authority—
+>
+> (a) give a notice of entry under section 11(1) of the Compulsory Purchase Act 1965, or
+>
+> (b) execute a general vesting declaration under section 4 of the Compulsory Purchase (Vesting Declarations) Act 1981 in respect of that land.
+
+;
+
+(b) for subsection (4) substitute—
+
+> (4) An advance payment required by subsection (1A) must be made—
+>
+> (a) before the end of the day on which the authority take possession of the land, or
+>
+> (b) if later, before the end of the period of two months beginning with the day on which the authority—
+>
+> (i) received the request for the advance payment, or
+>
+> (ii) received any further information required under subsection (2A)(b).
+>
+> (4ZA) An advance payment required by subsection (1B) must be made—
+>
+> (a) before the end of the day on which the notice of entry is given or the general vesting declaration is executed, or
+>
+> (b) if later, before the end of the period of two months beginning with the day on which the authority—
+>
+> (i) received the request for the advance payment, or
+>
+> (ii) received any further information required under subsection (2A)(b).
+
+;
+
+(c) omit subsection (11).
+
+(3) In section 52ZA (advance payments: land subject to mortgage for up to 90% of value), for subsection (1) substitute—
+
+> (1) This section applies if—
+>
+> (a) a request is made for an advance payment under section 52(1) in respect of land,
+>
+> (b) the authority is required by section 52(1A) or (1B) to make the advance payment, and
+>
+> (c) the land is subject to a mortgage the principal of which does not exceed 90% of the relevant amount.
+
+(4) In section 52ZB (advance payments: land subject to mortgage for more than 90% of value)—
+
+(a) for subsection (1) substitute—
+
+> (1) This section applies if—
+>
+> (a) a request is made for an advance payment under section 52(1) in respect of land,
+>
+> (b) the authority would be required by section 52(1A) or (1B) to make the advance payment if it were not for this section, and
+>
+> (c) the land is subject to a mortgage the principal of which exceeds 90% of the relevant amount.
+
+;
+
+(b) in subsection (9)(c) for “section 52ZA(1)(b)” substitute “ section 52ZA(1)(c) ”.
+
+(5) In section 52ZC (land subject to mortgage: supplementary provisions)—
+
+(a) after subsection (3) insert—
+
+> (3A) In a case where the compulsory acquisition to which the request relates is one to which the Lands Clauses Consolidation Act 1845 applies, the acquiring authority must make any payment under section 52ZA or 52ZB—
+>
+> (a) before the end of the day on which the authority take possession of the land, or
+>
+> (b) if later, before the end of the period of two months beginning with the day on which the authority—
+>
+> (i) received the request under section 52ZA(3) or 52ZB(3), or
+>
+> (ii) received any further information required under subsection (2).
+>
+> (3B) In all other cases, the authority must make any payment under section 52ZA or 52ZB—
+>
+> (a) before the end of the day on which the notice of entry is given or the general vesting declaration is executed, or
+>
+> (b) if later, before the end of the period of two months beginning with the day on which the authority—
+>
+> (i) received the request under section 52ZA(3) or 52ZB(3), or
+>
+> (ii) received any further information required under subsection (2).
+
+;
+
+(b) in subsection (4) omit “(4) and”.
+
+#### 196 Interest on advance payments of compensation
+
+(1) The Land Compensation Act 1973 is amended as follows.
+
+(2) In section 52A (right to interest where advance payment made)—
+
+(a) in subsection (2), after the words “payment under section 52(1)” insert “ after the date of entry ”;
+
+(b) after subsection (2A) insert—
+
+> (2B) In respect of any period in relation to which the acquiring authority is required to pay interest under section 52B (interest on advance payment), the interest payable under subsection (2) is limited to the interest which accrues on the difference between the total amount and the paid amount.
+
+(3) After section 52A insert—
+
+> **52B Interest on advance payments of compensation paid late**
+>
+> (1) If the acquiring authority are required by section 52(1A) or (1B) to make an advance payment of compensation but pay some or all of it late, the authority must pay interest on the amount which is paid late (“the unpaid amount”).
+>
+> (2) Interest under subsection (1) accrues on the unpaid amount for the period beginning with the day after the last day on which payment could have been made in accordance with section 52(4) or (4ZA).
+>
+> (3) If the amount of the advance payment is greater than the compensation as finally determined or agreed (“the actual amount”), the claimant must repay any interest paid under this section that is attributable to the amount by which the advance payment exceeded the actual amount.
+>
+> (4) The Treasury must by regulations specify the rate of interest for the purposes of subsection (1).
+>
+> (5) Regulations under subsection (4) may contain further provision in connection with the payment of interest under subsection (1).
+>
+> (6) Regulations under subsection (4) are to be made by statutory instrument.
+>
+> (7) A statutory instrument containing regulations under subsection (4) is subject to annulment in pursuance of a resolution of either House of Parliament.
+
+#### 197 Repayment of advance payment where no compulsory purchase
+
+(1) The Land Compensation Act 1973 is amended as follows.
+
+(2) Section 52 (right to advance payment of compensation) is amended in accordance with subsections (3) and (4).
+
+(3) Omit subsection (5).
+
+(4) In subsection (9), for the words from “he disposes” to the end substitute—
+
+> (a) the claimant's interest in some or all of the land is acquired by another person, or
+>
+> (b) the claimant creates an interest in some or all of the land in favour of a person other than the acquiring authority,
+>
+> the amount of the advance payment together with any amount paid under section 52A shall be set off against any sum payable by the authority to that other person in respect of the compulsory acquisition of the interest acquired or the compulsory acquisition or release of the interest created.
+
+(5) After section 52 insert—
+
+> **52AZA Repayment by claimant etc.**
+>
+> (1) Where the amount or aggregate amount of any payments under section 52 made on the basis of the acquiring authority's estimate of the compensation exceeds the compensation as finally determined or agreed, the excess is to be repaid.
+>
+> (2) If after any payment under section 52 has been made to any person it is discovered that the person was not entitled to it, the person must repay it.
+>
+> (3) If the notice to treat relating to an interest in land in relation to which an acquiring authority have made a payment to a claimant under section 52 is withdrawn or has ceased to have effect before the authority take possession of the land, the authority may by notice require the claimant to pay them an amount equal to the amount of the payment, unless another person has acquired the whole of the claimant's interest in the land.
+>
+> (4) Subsection (5) applies where—
+>
+> (a) a payment made to a claimant has been registered as a local land charge in accordance with section 52(8A),
+>
+> (b) the whole of the claimant's interest in land has subsequently been acquired by another person (a “successor”),
+>
+> (c) any notice to treat given in relation to the interest is withdrawn or ceases to have effect before the acquiring authority take possession of the land, and
+>
+> (d) the authority notify the successor that they are not going to give the successor a notice to treat (or a further notice to treat) for the interest.
+>
+> (5) The authority may by notice require the successor to pay them an amount equal to the amount of any payment made to the claimant under section 52.
+>
+> (6) A notice under subsection (3) or (5) must specify the date by which the claimant or successor must pay the amount.
+>
+> (7) The date mentioned in subsection (6) must be after the period of two months beginning with the day on which the authority give the notice under subsection (3) or (5).
+>
+> (8) Neither subsection (3) nor subsection (5) affects a right to compensation under section 31(3) or (3A) of the Land Compensation Act 1961 or section 5(2C)(b) of the Compulsory Purchase Act 1965.
+
+#### 198 Repayment of payment to mortgagee if land not acquired
+
+In the Land Compensation Act 1973, after section 52ZD (inserted by section 194 above) insert—
+
+> **52ZE Payment to mortgagee recoverable if notice to treat withdrawn**
+>
+> (1) Where an acquiring authority have made a payment to a mortgagee under section 52ZA or 52ZB in relation to an interest in land and notify the claimant that the notice to treat relating to the interest is withdrawn or has ceased to have effect before the authority take possession of the land, the authority may by notice require the claimant to pay them an amount equal to the amount of the payment, unless another person has acquired the whole of the claimant's interest in the land.
+>
+> (2) Subsection (3) applies where—
+>
+> (a) a payment under section 52ZA or 52ZB has been registered as a local land charge in accordance with section 52(8A),
+>
+> (b) the whole of a claimant's interest in land has subsequently been acquired by another person (a “successor”),
+>
+> (c) any notice to treat given in relation to the interest is withdrawn or ceases to have effect before the authority take possession of the land, and
+>
+> (d) the acquiring authority notify the successor that they are not going to give the successor a notice to treat (or a further notice to treat) in relation to the interest.
+>
+> (3) The authority may by notice require the successor to pay them an amount equal to the amount of the payment.
+>
+> (4) A notice under subsection (1) or (3) must specify the date by which the claimant or successor must pay the amount.
+>
+> (5) The date mentioned in subsection (4) must be after the period of two months beginning with the day on which the authority give the notice under subsection (1) or (3).
+>
+> (6) Neither subsection (1) nor subsection (3) affects a right to compensation under section 31(3) or (3A) of the Land Compensation Act 1961 or section 5(2C)(b) of the Compulsory Purchase Act 1965.
+
+### Disputes
+
+#### 199 Objection to division of land
+
+(1) Schedule 17 contains amendments about objecting to the division of land following a notice to treat under section 5 of the Compulsory Purchase Act 1965.
+
+(2) Schedule 18 contains amendments about objecting to the division of land following a general vesting declaration under section 4 of the Compulsory Purchase (Vesting Declarations) Act 1981.
+
+#### 200 Objection to division of land: blight notices
+
+(1) The Town and Country Planning Act 1990 is amended as follows.
+
+(2) In section 153 (reference of objection to Upper Tribunal), after subsection (4) insert—
+
+> (4A) Where the effect of a blight notice would be a compulsory purchase to which Part 1 of the Compulsory Purchase Act 1965 applies, the Upper Tribunal may uphold an objection on the grounds mentioned in section 151(4)(c) only if it is satisfied that the part of the hereditament or affected area proposed to be acquired in the counter-notice—
+>
+> (a) in the case of a house, building or factory, can be taken without material detriment to the house, building or factory, or
+>
+> (b) in the case of a park or garden belonging to a house, can be taken without seriously affecting the amenity or convenience of the house.
+
+(3) In section 166 (saving for claimant's right to sell whole hereditament etc.)—
+
+(a) in subsection (1) omit paragraph (b) (and the “or” before it);
+
+(b) omit subsection (2).
+
+#### 201 Power to quash decision to confirm compulsory purchase order
+
+In section 24 of the Acquisition of Land Act 1981 (powers of the court), after subsection (2) insert—
+
+> (3) If the court has power under subsection (2) to quash a compulsory purchase order it may instead quash the decision to confirm the order either generally or in so far as it affects any property of the applicant.
+
+#### 202 Extension of compulsory purchase time limit during challenge
+
+(1) After section 4 of the Compulsory Purchase Act 1965 (time limit for giving notice to treat) insert—
+
+> **4A Extension of time limit during challenge**
+>
+> (1) If an application is made under section 23 of the Acquisition of Land Act 1981 (application to High Court in respect of compulsory purchase order), the three year period mentioned in section 4 is to be extended by—
+>
+> (a) a period equivalent to the period beginning with the day the application is made and ending on the day it is withdrawn or finally determined, or
+>
+> (b) if shorter, one year.
+>
+> (2) An application is not finally determined for the purposes of subsection (1)(a) if an appeal in respect of the application—
+>
+> (a) could be brought (ignoring any possibility of an appeal out of time with permission), or
+>
+> (b) has been made and not withdrawn or finally determined.
+
+(2) After section 5A of the Compulsory Purchase (Vesting Declarations) Act 1981 (time limit for general vesting declaration) insert—
+
+> **5B Extension of time limit during challenge**
+>
+> (1) If an application is made under section 23 of the Acquisition of Land Act 1981 (application to High Court in respect of compulsory purchase order), the three year period mentioned in section 5A is to be extended by—
+>
+> (a) a period equivalent to the period beginning with the day the application is made and ending on the day it is withdrawn or finally determined, or
+>
+> (b) if shorter, one year.
+>
+> (2) An application is not finally determined for the purposes of subsection (1)(a) if an appeal in respect of the application—
+>
+> (a) could be brought (ignoring any possibility of an appeal out of time with permission), or
+>
+> (b) has been made and not withdrawn or finally determined.
+
+### Power to override easements and other rights
+
+#### 203 Power to override easements and other rights
+
+(1) A person may carry out building or maintenance work to which this subsection applies even if it involves—
+
+(a) interfering with a relevant right or interest, or
+
+(b) breaching
+
+[[^F84](i)] a restriction as to the user of land arising by virtue of a contract [[^F85], or
+
+(ii) an obligation under a conservation covenant.]
+
+(2) Subsection (1) applies to building or maintenance work where—
+
+(a) there is planning consent for the building or maintenance work,
+
+(b) the work is carried out on land that has at any time on or after [[^F86]the relevant day] —
+
+(i) become vested in or acquired by a specified authority [[^F87]or a specified company acting on behalf of a specified authority], or
+
+(ii) been appropriated by a local authority for planning purposes as defined by section 246(1) of the Town and Country Planning Act 1990,
+
+(c) the authority could acquire the land compulsorily for the purposes of the building or maintenance work, and
+
+(d) the building or maintenance work is for purposes related to the purposes for which the land was vested, acquired or appropriated as mentioned in paragraph (b).
+
+(3) Subsection (1) also applies to building or maintenance work where—
+
+(a) there is planning consent for the building or maintenance work,
+
+(b) the work is carried out on other qualifying land,
+
+(c) the qualifying authority in relation to the land could acquire the land compulsorily for the purposes of the building or maintenance work, and
+
+(d) the building or maintenance work is for purposes related to the purposes for which the land was vested in, or acquired or appropriated by, the qualifying authority in relation to the land.
+
+(4) A person may use land in a case to which this subsection applies even if the use involves—
+
+(a) interfering with a relevant right or interest, or
+
+(b) breaching
+
+[[^F88](i)] a restriction as to the user of land arising by virtue of a contract [[^F89], or
+
+(ii) an obligation under a conservation covenant.]
+
+(5) Subsection (4) applies to the use of land in a case where—
+
+(a) there is planning consent for that use of the land,
+
+(b) the land has at any time on or after [[^F90]the relevant day] —
+
+(i) become vested in or acquired by a specified authority [[^F91]or a specified company acting on behalf of a specified authority] , or
+
+(ii) been appropriated by a local authority for planning purposes as defined by section 246(1) of the Town and Country Planning Act 1990,
+
+(c) the authority could acquire the land compulsorily for the purposes of erecting or constructing any building, or carrying out any works, for that use, and
+
+(d) the use is for purposes related to the purposes for which the land was vested, acquired or appropriated as mentioned in paragraph (b).
+
+(6) Subsection (4) also applies to the use of land in a case where—
+
+(a) there is planning consent for that use of the land,
+
+(b) the land is other qualifying land, and
+
+(c) the qualifying authority in relation to the land could acquire the land compulsorily for the purposes of erecting or constructing any building, or carrying out any works, for that use, and
+
+(d) the use is for purposes related to the purposes for which the land was vested in, or acquired or appropriated by, the qualifying authority in relation to the land.
+
+(7) Land currently owned by a specified authority is to be treated for the purposes of subsection (2)(c) or (5)(c) as if it were not currently owned by the authority.
+
+(8) Land currently owned by a qualifying authority is to be treated for the purposes of subsection (3)(c) or (6)(c) as if it were not currently owned by the authority.
+
+(9) Nothing in this section authorises an interference with—
+
+(a) a right of way on, under or over land that is a protected right, or
+
+(b) a right of laying down, erecting, continuing or maintaining apparatus on, under or over land if it is a protected right.
+
+(10) Nothing in this section authorises—
+
+(a) an interference with a relevant right or interest annexed to land belonging to the National Trust which is held by the National Trust inalienably, [^F92]...
+
+(b) a breach of a restriction as to the user of land which does not belong to the National Trust—
+
+(i) arising by virtue of a contract to which the National Trust is a party, or
+
+(ii) benefiting land which does belong to the National Trust [[^F93], or
+
+(c) a breach of an obligation under a conservation covenant owed to the National Trust.]
+
+(11) For the purposes of subsection (10)—
+
+(a) “National Trust” means the National Trust for Places of Historic Interest or Natural Beauty incorporated by the National Trust Act 1907, and
+
+(b) land is held by the National Trust “inalienably” if it is inalienable under section 21 of the National Trust Act 1907 or section 8 of the National Trust Act 1939.
+
+#### 204 Compensation for overridden easements etc
+
+(1) A person is liable to pay compensation for any interference with a relevant right or interest or breach of a restriction that is authorised by section 203 [[^F94](1)(a) or (b)(i) or (4)(a) or (b)(i)].
+
+[[^F95](1A) But a person is not liable to pay compensation under this section for breaching an obligation under a conservation covenant.]
+
+(2) The compensation is to be calculated on the same basis as compensation payable under sections 7 and 10 of the Compulsory Purchase Act 1965.
+
+(3) Where a person other than a specified or qualifying authority is liable to pay compensation under this section but has not paid—
+
+(a) the liability is enforceable against the authority, but
+
+(b) the authority may recover from that person any amount it pays out.
+
+[[^F96](4) The authority against which a liability is enforceable by virtue of subsection (3)(a) is—
+
+(a) where the land to which the compensation relates was vested in or acquired by a company through which the Greater London Authority exercises or has exercised functions in relation to housing or regeneration, the Greater London Authority,
+
+(b) where the land was vested in or acquired by a company through which Transport for London exercises or has exercised any of its functions, Transport for London, or
+
+(c) in all other cases, the specified or qualifying authority in which the land was vested, or by which the land was acquired or appropriated.]
+
+(5) Any dispute about compensation payable under this section may be referred to and determined by the Upper Tribunal.
+
+#### 205 Interpretation of sections 203 and 204
+
+(1) In sections 203 and 204—
+
+- “building or maintenance work” means the erection, construction, carrying out or maintenance of any building or work;
+
+- [[^F97]“obligation under a conservation covenant” has the same meaning as in Part 7 of the Environment Act 2021;]
+
+- “other qualifying land” means land in England and Wales that has at any time before [[^F98]13 July 2016] been—
+
+  - (a) acquired by the National Assembly for Wales or the Welsh Ministers under section 21A of the Welsh Development Agency Act 1975;
+  
+  - (b) vested in or acquired by an urban development corporation or a local highway authority for the purposes of Part 16 of the Local Government, Planning and Land Act 1980;
+  
+  - (c) acquired by a development corporation or a local highway authority for the purposes of the New Towns Act 1981;
+  
+  - (d) vested in or acquired by a housing action trust for the purposes of Part 3 of the Housing Act 1988;
+  
+  - (e) acquired or appropriated by a local authority for planning purposes as defined by section 246(1) of the Town and Country Planning Act 1990;
+  
+  - (f) vested in or acquired by the Homes and Communities Agency, apart from land the freehold interest in which was disposed of by the Agency before 12 April 2015;
+  
+  - (g) vested in or acquired by the Greater London Authority for the purposes of housing or regeneration, [[^F99]or vested in or acquired by a company or body through which the Greater London Authority exercises functions in relation to housing or regeneration,] apart from land the freehold interest in which was disposed of before 12 April 2015—
+  
+    - (i) by the Authority, other than to a company or body through which it exercises functions in relation to housing or regeneration, or
+    - (ii) by such a company or body;
+  
+  - (h) vested in or acquired by a Mayoral development corporation (established under section 198(2) of the Localism Act 2011), apart from land the freehold interest in which was disposed of by the corporation before 12 April 2015;
+
+- “planning consent” means—
+
+  - (a) permission under [^F100]Part 3 of the Town and Country Planning Act 1990 or section 293A of that Act [[^F100]Parts 3 or 13 of the Town and Country Planning Act 1990], [^F101]...
+  - (b) development consent under the Planning Act 2008; [[^F102], or
+  - (c) infrastructure consent under the Infrastructure (Wales) Act 2024]
+
+- “protected right” means—
+
+  - (a) a right vested in, or belonging to, a statutory undertaker for the purpose of carrying on its statutory undertaking, or
+  - (b) a right conferred by, or in accordance with, the electronic communications code on the operator of an electronic communications code network (and expressions used in this paragraph have the meaning given by paragraph 1(1) of Schedule 17 to the Communications Act 2003);
+
+- “qualifying authority” in relation to other qualifying land means the [[^F103]person in whom the land was vested, or who] acquired or appropriated the land, as mentioned in the definition of “other qualifying land [[^F104](but, for the purposes of section 203(3)(c) and (6)(c), where that person is a company or body through which the Greater London Authority exercises functions in relation to housing or regeneration, the qualifying authority is the Greater London Authority)];
+
+- [[^F105]“ relevant day” means—
+
+  - (a) in relation to a specified company which is a company or body through which Transport for London exercises any of its functions, 19th July 2017, and
+  - (b) in all other cases, 13 July 2016.]
+
+- “relevant right or interest” means any easement, liberty, privilege, right or advantage annexed to land and adversely affecting other land (including any natural right to support);
+
+- “specified authority” means—
+
+  - (a) a Minister of the Crown or the Welsh Ministers or a government department,
+  - (b) a local authority as defined by section 7 of the Acquisition of Land Act 1981,
+  - (c) a body established by or under an Act,
+  - (d) a body established by or under an Act or Measure of the National Assembly for Wales, or
+  - (e) a statutory undertaker;
+
+- [[^F106]“ specified company ” means—
+
+  - (a) a company or body through which the Greater London Authority exercises functions in relation to housing or regeneration, or
+  - (b) a company or body through which Transport for London exercises any of its functions;]
+
+- “statutory undertaker” means—
+
+  - (a) a person who is, or who is deemed to be, a statutory undertaker for the purposes of any provision of Part 11 of the Town and Country Planning Act 1990, or
+  - (b) a person in relation to whom the electronic communications code is applied by a direction under section 106(3)(a) of the Communications Act 2003;
+
+- “statutory undertaking” is to be read in accordance with section 262 of the Town and Country Planning Act 1990 (meaning of “statutory undertakers”).
+
+(2) The Secretary of State may by regulations amend the definition of “specified authority” in subsection (1).
+
+#### 206 Amendments to do with sections 203 and 204
+
+Schedule 19 gets rid of legislation replaced by sections 203 and 204.
+
+## PART 8 — Public authority land (prospective)
+
+### 207 Engagement with public authorities in relation to proposals to dispose of land (prospective)
+
+(1) A Minister of the Crown must, in developing proposals for the disposal of the Minister's interest in any land, engage on an ongoing basis with—
+
+(a) each local authority in whose area the land is situated, and
+
+(b) each public authority that is specified, or of a description specified, in regulations.
+
+(2) A relevant public authority must, in developing proposals for the disposal of the authority's interest in any land, engage on an ongoing basis with other relevant public authorities.
+
+(3) In subsection (2), “relevant public authority” means a public authority that is specified, or of a description specified, in regulations.
+
+(4) A person who is subject to a duty under subsection (1) or (2) must have regard to any guidance given by the Minister for the Cabinet Office about how the duty is to be complied with.
+
+(5) Subsections (1) and (2) do not apply in relation to proposals in respect of land that is specified, or of a description specified, in regulations.
+
+(6) Regulations under subsection (3) may not be made so as to require a public authority to carry out engagement under subsection (2)—
+
+(a) in relation to proposals for the disposal of an interest in land in Scotland, unless the authority is—
+
+(i) a body to which paragraph 3 of Part 3 of Schedule 5 to the Scotland Act 1998 applies, or
+
+(ii) Her Majesty's Revenue and Customs, [^F107]...
+
+[^F108]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[[^F109](6A) Regulations under subsection (3) may not be made so to require a devolved Welsh authority to carry out engagement under subsection (2).]
+
+(7) In this section—
+
+- “interest” means a freehold or leasehold interest;
+
+- “local authority” means—
+
+  - (a) a county council,
+  - (b) a county borough council,
+  - (c) a district council,
+  - (d) a London borough council,
+  - (e) a combined authority established under section 103 of the Local Democracy, Economic Development and Construction Act 2009,
+  - (f) the Common Council of the City of London (in its capacity as a local authority),
+  - (g) the Council of the Isles of Scilly, or
+  - (h) the council for a local government area in Scotland;
+
+- “Minister of the Crown” has the same meaning as in the Ministers of the Crown Act 1975 (see section 8(1) of that Act);
+
+- “public authority” means a person with functions of a public nature;
+
+- “regulations” means regulations made by the Minister for the Cabinet Office.
+
+- [[^F110]“devolved Welsh authority” has the same meaning as in the Government of Wales Act 2006 (see section 157A of that Act).]
+
+### 208 Duty of public authorities to prepare report of surplus land holdings (prospective)
+
+(1) A relevant public authority must, in respect of each reporting period, prepare and publish a report containing details of surplus land in England and Wales.
+
+(2) A relevant public authority must, in respect of each reporting period, prepare and publish a report containing details of surplus land in Scotland.
+
+(3) For the purposes of this section, land is “surplus land” in relation to a relevant public authority if—
+
+(a) the authority owns an interest in the land,
+
+(b) the authority has determined that the land is surplus to its requirements, and
+
+(c) the authority first determined that the land was surplus to its requirements—
+
+(i) in the case of land used wholly or mainly for residential purposes, at any time before the beginning of the period of 6 months ending with the last day of the reporting period, and
+
+(ii) in the case of other land, at any time before the beginning of the period of two years ending with that day.
+
+(4) In this section, “relevant public authority” means—
+
+(a) a Minister of the Crown (within the meaning of the Ministers of the Crown Act 1975), or
+
+(b) a public authority that is specified, or of a description specified, in regulations.
+
+(5) In determining whether land is surplus to its requirements, and in carrying out its other functions under this section, a relevant public authority must have regard to guidance given by the Secretary of State.
+
+(6) A report prepared by a relevant public authority must explain why the authority has not disposed of surplus land.
+
+(7) Regulations may provide that the definition of “surplus land” in subsection (3) applies in relation to public authorities that are specified, or of a description specified, in the regulations as if subsection (3)(c) were omitted.
+
+(8) Regulations may provide that the duty under subsection (1) or (2) does not apply in respect of specified land or descriptions of land.
+
+(9) Regulations may make further provision about reports under this section, including—
+
+(a) provision about their form and timing,
+
+(b) provision specifying information to be included in reports, and
+
+(c) provision about their publication.
+
+[[^F111](10) Regulations may not specify a devolved Welsh authority for the purposes of subsection (1).]
+
+(11) Regulations may not specify a public authority for the purposes of subsection (2) unless it is—
+
+(a) a body to which paragraph 3 of Part 3 of Schedule 5 to the Scotland Act 1998 applies, or
+
+(b) Her Majesty's Revenue and Customs.
+
+(12) In this section—
+
+- “interest” means a freehold or leasehold interest;
+- “public authority” means a person with functions of a public nature;
+- “regulations” means regulations made by the Secretary of State;
+- “reporting period” means the period (not exceeding 12 months) specified by or determined in accordance with regulations.
+- [[^F112]“devolved Welsh authority” has the same meaning as in the Government of Wales Act 2006 (see section 157A of that Act).]
+
+### 209 Power to direct bodies to dispose of land (prospective)
+
+(1) Section 98 of the Local Government, Planning and Land Act 1980 (disposal of land at direction of Secretary of State) is amended as follows.
+
+(2) Before subsection (1) insert—
+
+> (A1) Where a body to which this Part applies is a relevant public authority, the Secretary of State may in specified circumstances direct the body to take steps for the disposal of the body's freehold or leasehold interest in any land or any lesser interest in the land.
+>
+> (B1) In subsection (A1)—
+>
+> (a) “relevant public authority” has the same meaning as in section 208 of the Housing and Planning Act 2016;
+>
+> (b) “specified” means specified by the Secretary of State in regulations made by statutory instrument;
+>
+> (c) the reference to steps for the disposal of an interest in land is a reference to steps which it is necessary to take to dispose of the interest and which it is in the body's power to take.
+
+(3) After subsection (9) insert—
+
+> (10) A statutory instrument containing regulations made by virtue of subsection (A1) may not be made unless a draft of the instrument has been laid before and approved by a resolution of each House of Parliament.
+
+### 210 Reports on improving efficiency and sustainability of buildings owned by local authorities (prospective)
+
+(1) Each authority listed in Schedule 20 must prepare, in respect of each year (beginning with 2017), a report containing a buildings efficiency and sustainability assessment.
+
+(2) A “buildings efficiency and sustainability assessment” is an assessment of the progress made by the authority, in the year to which the report relates, towards improving the efficiency and contribution to sustainability of buildings that are part of the authority's estate.
+
+(3) A report must, in particular, include an assessment of the progress made by the authority, in the year to which the report relates, towards—
+
+(a) reducing the size of the authority's estate, and
+
+(b) ensuring that buildings that become part of the authority's estate fall within the top quartile of energy performance.
+
+(4) If a building that does not fall within the top quartile of energy performance becomes part of the authority's estate in the year to which the report relates, the report must explain why the building has nevertheless become part of the authority's estate.
+
+(5) A report under this section must be published not later than 1 June in the year following the year to which it relates.
+
+(6) In carrying out its functions under this section, an authority must have regard to guidance given by the Minister for the Cabinet Office.
+
+(7) For the purposes of this section, a building is part of an authority's estate if—
+
+(a) the building is situated in the authority's area, and
+
+(b) the authority has a freehold or leasehold interest in the building.
+
+(8) The Minister for the Cabinet Office may by regulations provide for buildings of a specified description to be treated as being, or as not being, part of an authority's estate for the purposes of this section.
+
+(9) In this section, “building” means a building that uses energy for heating or cooling the whole or any part of its interior.
+
+### 211 Reports on improving efficiency and sustainability of buildings in military estate (prospective)
+
+(1) Section 86 of the Climate Change Act 2008 (report on the civil estate) is amended as follows.
+
+(2) In subsection (1)—
+
+(a) the text from “buildings” to the end becomes paragraph (a), and
+
+(b) after that paragraph insert
+
+> , and
+>
+> (b) buildings that are part of the military estate.
+
+(3) In subsection (2)—
+
+(a) in paragraph (a), after “estate” insert “ and the military estate ”, and
+
+(b) in paragraph (b), after “estate” insert “ or the military estate ”.
+
+(4) In subsection (3)—
+
+(a) after “estate”, in the first place it occurs, insert “ or the military estate ”, and
+
+(b) for “civil estate”, in the second place it occurs, insert “ the estate in question ”.
+
+(5) After subsection (7) insert—
+
+> (7A) For the purposes of this section, a building is part of the military estate if—
+>
+> (a) it is not part of the civil estate,
+>
+> (b) the Secretary of State has a freehold or leasehold interest in the building, and
+>
+> (c) it is used by or for the purposes of Her Majesty's armed forces.
+>
+> (7B) The Minister for the Cabinet Office may by order provide for buildings of a specified description to be treated as being, or as not being, part of the military estate for the purposes of this section.
+
+(6) In subsection (8), for “Any such order” substitute “ An order under subsection (7) or (7B) ”.
+
+(7) In the heading, after “estate” insert “ and the military estate ”.
+
+## PART 9 — General
+
+### 212 Power to make transitional provision
+
+The Secretary of State may by regulations make transitional, transitory or saving provision in connection with the coming into force of any provision of this Act.
+
+### 213 Power to make consequential provision
+
+(1) The Secretary of State may by regulations make provision that is consequential on any provision made by this Act.
+
+(2) Regulations under this section may amend, repeal or revoke any provision made by or under an Act passed or made before this Act or in the same Session.
+
+### 214 Regulations: general
+
+(1) Regulations under this Act are to be made by statutory instrument.
+
+(2) A statutory instrument containing—
+
+(a) regulations under section 2, 3(6), 4 or 5,
+
+(b) regulations under section 14,
+
+(c) regulations under section 69(8),
+
+(d) regulations under section 74(9),
+
+(e) the first regulations under section 80,
+
+(f) regulations under section 85 that amend or repeal a provision of an Act,
+
+(g) regulations under section 93,
+
+(h) regulations under section 102 or paragraph 45 of Schedule 5,
+
+(i) regulations under section 122,
+
+(j) regulations under section 133, 134, or 135,
+
+(k) regulations under section 154(1),
+
+(l) regulations under section 161 that make provision of the kind referred to in section 161(3), (5), (6) or (12)(b), section 163 or section 164,
+
+(m) regulations under section 205(2),
+
+(n) regulations under section 213 that amend or repeal a provision of an Act, or
+
+(o) regulations under paragraph 8 of Schedule 15 that amend or repeal a provision of an Act,
+
+(whether alone or together with other provision) may not be made unless a draft of the instrument has been laid before and approved by a resolution of each House of Parliament.
+
+(3) Any other statutory instrument containing regulations under this Act is subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(4) Subsection (3) does not apply to a statutory instrument that only contains regulations under section 212 or 216.
+
+(5) If a draft of regulations under section 69(8), 154 or 161 would, apart from this subsection, be treated as a hybrid instrument for the purposes of the Standing Orders of either House of Parliament, it is to proceed in that House as if it were not a hybrid instrument.
+
+(6) Regulations under this Act may make—
+
+(a) consequential, supplementary, incidental, transitional or saving provision;
+
+(b) different provision for different purposes.
+
+### 215 Extent
+
+(1) An amendment or repeal made by this Act has the same extent as the provision amended or repealed.
+
+(2) Chapter 5 of Part 4 and this Part extend to—
+
+(a) England and Wales,
+
+(b) Scotland, and
+
+(c) Northern Ireland.
+
+(3) Sections 207 and 208 extend to—
+
+(a) England and Wales, and
+
+(b) Scotland.
+
+(4) Subject to that, this Act extends to England and Wales only.
+
+### 216 Commencement
+
+(1) The following come into force on the day on which this Act is passed—
+
+(a) this Part;
+
+(b) Chapter 2 of Part 4;
+
+(c) sections 136 and 137 and Schedule 10;
+
+(d) sections 139, 140, 149, 151, 152(1) and 157;
+
+(e) sections 161 to 168.
+
+(2) The following come into force at the end of the period of two months beginning with the day on which this Act is passed—
+
+(a) section 124;
+
+(b) section 130;
+
+(c) sections 150(1) to (3) and 153.
+
+(3) The other provisions of this Act come into force on such day as the Secretary of State may by regulations appoint.
+
+(4) Different days may be appointed for different purposes.
+
+(5) In respect of sections 181 and 183, and Schedule 15, different days may be appointed for different areas.
+
+### 217 Short title
+
+This Act may be cited as the Housing and Planning Act 2016.
+
+## SCHEDULE 1 — Financial penalty for breach of banning order
+
+*Section 23*
+
+### Notice of intent
+
+**1** Before imposing a financial penalty on a person under section 23 a local housing authority must give the person notice of its proposal to do so (a “notice of intent”).
+
+**2** (1) The notice of intent must be given before the end of the period of 6 months beginning with the first day on which the authority has sufficient evidence of the conduct to which the financial penalty relates.
+
+(2) But if the person is continuing to engage in the conduct on that day, and the conduct continues beyond the end of that day, the notice of intent may be given—
+
+(a) at any time when the conduct is continuing, or
+
+(b) within the period of 6 months beginning with the last day on which the conduct occurs.
+
+**3** The notice of intent must set out—
+
+(a) the amount of the proposed financial penalty,
+
+(b) the reasons for proposing to impose the financial penalty, and
+
+(c) information about the right to make representations under paragraph 4.
+
+### Right to make representations
+
+**4** (1) A person who is given a notice of intent may make written representations to the local housing authority about the proposal to impose a financial penalty.
+
+(2) Any representations must be made within the period of 28 days beginning with the day after that on which the notice was given (“the period for representations”).
+
+### Final notice
+
+**5** After the end of the period for representations the local housing authority must—
+
+(a) decide whether to impose a financial penalty on the person, and
+
+(b) if it decides to impose a financial penalty, decide the amount of the penalty.
+
+**6** If the authority decides to impose a financial penalty on the person, it must give the person a notice (a “final notice”) imposing that penalty.
+
+**7** The final notice must require the penalty to be paid within the period of 28 days beginning with the day after that on which the notice was given.
+
+**8** The final notice must set out—
+
+(a) the amount of the financial penalty,
+
+(b) the reasons for imposing the penalty,
+
+(c) information about how to pay the penalty,
+
+(d) the period for payment of the penalty,
+
+(e) information about rights of appeal, and
+
+(f) the consequences of failure to comply with the notice.
+
+### Withdrawal or amendment of notice
+
+**9** (1) A local housing authority may at any time—
+
+(a) withdraw a notice of intent or final notice, or
+
+(b) reduce the amount specified in a notice of intent or final notice.
+
+(2) The power in sub-paragraph (1) is to be exercised by giving notice in writing to the person to whom the notice was given.
+
+### Appeals
+
+**10** (1) A person to whom a final notice is given may appeal to the First-tier Tribunal against—
+
+(a) the decision to impose the penalty, or
+
+(b) the amount of the penalty.
+
+(2) An appeal under this paragraph must be brought within the period of 28 days beginning with the day after that on which the final notice was sent.
+
+(3) If a person appeals under this paragraph, the final notice is suspended until the appeal is finally determined or withdrawn.
+
+(4) An appeal under this paragraph—
+
+(a) is to be a re-hearing of the local housing authority's decision, but
+
+(b) may be determined having regard to matters of which the authority was unaware.
+
+(5) On an appeal under this paragraph the First-tier Tribunal may confirm, vary or cancel the final notice.
+
+(6) The final notice may not be varied under sub-paragraph (5) so as to make it impose a financial penalty of more than the local housing authority could have imposed.
+
+### Recovery of financial penalty
+
+**11** (1) This paragraph applies if a person fails to pay the whole or any part of a financial penalty which, in accordance with this Schedule, the person is liable to pay.
+
+(2) The local housing authority which imposed the financial penalty may recover the penalty or part on the order of the county court as if it were payable under an order of that court.
+
+(3) In proceedings before the county court for the recovery of a financial penalty or part of a financial penalty, a certificate which is—
+
+(a) signed by the chief finance officer of the local housing authority which imposed the penalty, and
+
+(b) states that the amount due has not been received by a date specified in the certificate,
+
+is conclusive evidence of that fact.
+
+(4) A certificate to that effect and purporting to be so signed is to be treated as being so signed unless the contrary is proved.
+
+(5) In this paragraph “chief finance officer” has the same meaning as in section 5 of the Local Government and Housing Act 1989.
+
+## SCHEDULE 2 — Banned person may not hold HMO licence etc
+
+*Section 25*
+
+**1** The Housing Act 2004 is amended as follows.
+
+**2** In section 64 (grant or refusal of HMO licence), in subsection (3), after paragraph (a) insert—
+
+> (aa) that no banning order under section 16 of the Housing and Planning Act 2016 is in force against a person who—
+>
+> (i) owns an estate or interest in the house or part of it, and
+>
+> (ii) is a lessor or licensor of the house or part;
+
+.
+
+**3** In section 66 (HMO licence: tests for fitness etc), after subsection (3) insert—
+
+> (3C) A person is not a fit and proper person for the purposes of section 64(3)(b) or (d) if a banning order under section 16 of the Housing and Planning Act 2016 is in force against the person.
+
+**4** In section 68 (licences: general requirements and duration), in subsection (3)(b), after “section 70” insert “ or 70A ”.
+
+**5** For the heading of section 70 substitute “ Power to revoke licences ”.
+
+**6** After section 70 insert—
+
+> **Duty to revoke licence in banning order cases**
+>
+> **70A** (1) The local housing authority must revoke a licence if a banning order is made against the licence holder.
+>
+> (2) The local housing authority must revoke a licence if a banning order is made against a person who—
+>
+> (a) owns an estate or interest in the house or part of it, and
+>
+> (b) is a lessor or licensor of the house or part.
+>
+> (3) The notice served by the local housing authority under paragraph 24 of Schedule 5 must specify when the revocation takes effect.
+>
+> (4) The revocation must not take effect earlier than the end of the period of 7 days beginning with the day on which the notice is served.
+>
+> (5) In this section “banning order” means a banning order under section 16 of the Housing and Planning Act 2016.
+
+**7** In section 88 (grant or refusal of Part 3 licence), in subsection (3), after paragraph (a) insert—
+
+> (aa) that no banning order under section 16 of the Housing and Planning Act 2016 is in force against a person who—
+>
+> (i) owns an estate or interest in the house or part of it, and
+>
+> (ii) is a lessor or licensor of the house or part;
+
+.
+
+**8** In section 89 (Part 3 licences: tests for fitness etc), after subsection (3) insert—
+
+> (3C) A person is not a fit and proper person for the purposes of section 88(3)(a) or (c) if a banning order under section 16 of the Housing and Planning Act 2016 is in force against the person.
+
+**9** In section 91 (licences: general requirements and duration), in subsection (3)(b), after “section 93” insert “ or 93A ”.
+
+**10** For the heading of section 93 substitute “ Power to revoke licences ”.
+
+**11** After section 93 insert—
+
+> **Duty to revoke licence in banning order cases**
+>
+> **93A** (1) The local housing authority must revoke a licence if a banning order is made against the licence holder.
+>
+> (2) The local housing authority must revoke a licence if a banning order is made against a person who—
+>
+> (a) owns an estate or interest in the house or part of it, and
+>
+> (b) is a lessor or licensor of the house or part.
+>
+> (3) The notice served by the local housing authority under paragraph 24 of Schedule 5 must specify when the revocation takes effect.
+>
+> (4) The revocation must not take effect earlier than the end of the period of 7 days beginning with the day on which the notice is served.
+>
+> (5) In this section “banning order” means a banning order under section 16 of the Housing and Planning Act 2016.
+
+**12** (1) Schedule 5 (licences under Parts 2 and 3: procedure and appeals) is amended as follows.
+
+(2) After paragraph 11 insert—
+
+> **11A** The requirements of paragraph 5 do not apply where the refusal to grant the licence was because of section 66(3C) or 89(3C) (person with banning order not a fit and proper person).
+
+(3) After paragraph 25 insert—
+
+> **25A** The requirements of paragraph 22 do not apply if the revocation is required by section 70A or 93A (duty to revoke licence in banning order cases).
+
+(4) After paragraph 32 insert—
+
+> **No rights of appeal where banning order involved**
+>
+> **32A** (1) The right of appeal under paragraph 31(1)(a) does not apply where a licence is refused because of section 66(3C) or 89(3C) (person with banning order not a fit and proper person).
+>
+> (2) The right of appeal under paragraph 32(1)(a) does not apply in relation to the revocation of a licence required by section 70A or 93A (duty to revoke licence in banning order cases).
+
+## SCHEDULE 3 — Management orders following banning order
+
+*Section 26*
+
+**1** The Housing Act 2004 is amended as follows.
+
+**2** (1) Section 101 (interim and final management orders) is amended as follows.
+
+(2) In subsection (1), at the end insert “ or property let in breach of a banning order under section 16 of the Housing and Planning Act 2016 ”.
+
+(3) In subsection (3)(b), omit “the grant of a licence under Part 2 or 3 in respect of the house or”.
+
+(4) In subsection (5), after “section 102(7)” insert “ or (7A) ”.
+
+(5) After subsection (6) insert—
+
+> (6A) In this Chapter any reference to “the house”, in relation to an interim or final management order that relates to property let in breach of a banning order under section 16 of the Housing and Planning Act 2016, means the property let in breach of that order.
+>
+> (6B) In this Chapter any reference to property that is let in breach of a banning order under section 16 of the Housing and Planning Act 2016 includes property in respect of which a breach is (or would be) caused by a licence to occupy.
+>
+> (6C) When determining for the purposes of this Chapter whether property is let in breach of a banning order disregard any exception included in the banning order in reliance on section 17 of the Housing and Planning Act 2016.
+
+**3** (1) Section 102 (making of interim management orders) is amended as follows.
+
+(2) In subsection (1)(b), for “or (7)” substitute “ , (7) or (7A) ”.
+
+(3) After subsection (7) insert—
+
+> (7A) The authority may make an interim management order in respect of any property let in breach of a banning order under section 16 of the Housing and Planning Act 2016.
+
+(4) In subsection (9), after “the making of an interim management order” insert “ under subsection (2), (3), (4) or (7) ”.
+
+**4** (1) Section 105 (operation of interim management orders) is amended as follows.
+
+(2) After subsection (7) insert—
+
+> (7A) An order under section 102(7A) ceases to have effect (if it has not already ceased to have effect) when the ban on letting housing in England ceases to have effect.
+>
+> (7B) In subsection (7A) “the ban on letting housing in England” means the ban on letting contained in the banning order mentioned in section 102(7A).
+
+(3) In subsection (8), for “and” substitute “ to ”.
+
+(4) After subsection (9) insert—
+
+> (9A) If—
+>
+> (a) the IMO was made under section 102(7A), and
+>
+> (b) the date on which the FMO or another interim management order comes into force in relation to the house (or part of it) following the disposal of the appeal is later than the date on which the IMO would cease to have effect apart from this subsection,
+>
+> the IMO continues in force until that later date.
+
+**5** (1) Section 110 (financial arrangements while order is in force) is amended as follows.
+
+(2) In subsection (4), at the beginning insert “ If the interim management order is not made under section 102(7A), ”.
+
+(3) After subsection (5) insert—
+
+> (5A) The Secretary of State may by regulations make provision about how local authorities are to deal with any surplus in a case where the interim management order was made under section 102(7A).
+>
+> (5B) In subsection (5A) “surplus” means any amount of rent or other payments collected or recovered as mentioned in subsection (3) that remains after deductions to meet relevant expenditure and any amounts of compensation payable as mentioned in that subsection.
+
+**6** In section 112 (revocation of interim management orders), after subsection (2) insert—
+
+> (2A) An interim management order may not be revoked under this section if—
+>
+> (a) the immediate landlord is subject to a banning order under section 16 of the Housing and Planning Act 2016,
+>
+> (b) there is in force an agreement which, under section 108, has effect as a lease or licence granted by the authority, and
+>
+> (c) revoking the interim management order would cause the immediate landlord to breach the banning order because of the effect of section 130(2)(b).
+
+**7** (1) Section 113 (making of final management orders) is amended as follows.
+
+(2) In subsection (1), for “section 102” substitute “ any provision of section 102 other than subsection (7A) of that section ”.
+
+(3) After subsection (3) insert—
+
+> (3A) A local housing authority who have made an interim management order under section 102(7A) may make a final management order so as to replace the interim management order as from its expiry date if the authority consider that making the final management order is necessary for the purpose of protecting, on a long-term basis, the health, safety or welfare of persons occupying the house, or persons occupying or having an estate or interest in any premises in the vicinity.
+
+(4) In subsection (4), after “under” insert “ subsection (2), (3), (5) or (6) of ”.
+
+(5) After subsection (6) insert—
+
+> (6A) A local housing authority who have made a final management order in respect of a house under subsection (3A) or this subsection (“the existing order”) may make a new final management order so as to replace the existing order as from its expiry date if the authority consider that making the new order is necessary for the purpose of protecting, on a long-term basis, the health, safety or welfare of persons occupying the house, or persons occupying or having an estate or interest in any premises in the vicinity.
+
+**8** (1) Section 114 (operation of final management orders) is amended as follows.
+
+(2) After subsection (4) insert—
+
+> (4A) An order under section 113(3A) or (6A) ceases to have effect (if it has not already ceased to have effect) when the relevant ban on letting housing in England ceases to have effect.
+>
+> (4B) In subsection (4A) “the relevant ban on letting housing in England” means the ban on letting contained in the banning order mentioned in section 102(7A).
+
+(3) In subsection (5), for “and” substitute “ to ”.
+
+(4) After subsection (6) insert—
+
+> (6A) If—
+>
+> (a) the existing order was made under section 113(3A) or (6A), and
+>
+> (b) the date on which the new order comes into force in relation to the house (or part of it) following the disposal of the appeal is later than the date on which the existing order would cease to have effect apart from this subsection,
+>
+> the existing order continues in force until that later date.
+
+**9** In section 119 (management schemes and accounts), after subsection (4) insert—
+
+> (4A) Subsection (4)(f) and (g) does not apply in a case where the final management order was made under section 113(3A) or (6A).
+>
+> (4B) The Secretary of State may by regulations make provision about how local authorities are to deal with any surplus in a case where the final management order was made under section 113(3A) or (6A).
+>
+> (4C) In subsection (4B) “surplus” means any amount of rent or other payments that the authority have collected or recovered, by virtue of this Chapter, that remains after deductions to meet relevant expenditure and any amounts of compensation payable as mentioned in subsection (2)(d).
+
+**10** In section 122 (revocation of final management orders), after subsection (2) insert—
+
+> (2A) A final management order may not be revoked under this section at a time when—
+>
+> (a) the immediate landlord is subject to a banning order under section 16 of the Housing and Planning Act 2016,
+>
+> (b) there is in force an agreement which, under section 117, has effect as a lease or licence granted by the authority, and
+>
+> (c) revoking the final management order would cause the immediate landlord to breach the banning order because of the effect of section 130(2)(b).
+
+**11** In section 129 (termination of management orders: financial arrangements), in subsection (2), after “order” insert “ that is not made under section 102(7A) ”.
+
+**12** (1) Schedule 6 (management orders: procedure and appeals) is amended as follows.
+
+(2) In paragraph 7(4)(c), for “section 105(4) and (5) or 114(3) and (4)” substitute “ section 105(4), (5) or (7A) or 114(3), (4) or (4A) ”.
+
+(3) In paragraph 26, after sub-paragraph (4) insert—
+
+> (4A) An interim management order may not be revoked under this paragraph if—
+>
+> (a) the immediate landlord is subject to a banning order under section 16 of the Housing and Planning Act 2016,
+>
+> (b) there is in force an agreement which, under section 108, has effect as a lease or licence granted by the authority, and
+>
+> (c) revoking the interim management order specified in the order would cause the immediate landlord to breach the banning order because of the effect of section 130(2)(b).
+>
+> (4B) In a case where sub-paragraph (4A) would otherwise prevent the tribunal from revoking the order with effect from a particular date, the tribunal may require the local housing authority to exercise any power it has to bring an agreement mentioned in that sub-paragraph to an end.
+
+(4) In paragraph 30, after sub-paragraph (4) insert—
+
+> (5) In a case where subsection (2A) of section 112 or 122 would otherwise prevent the tribunal from revoking the order with effect from a particular date, the tribunal may require the local housing authority to exercise any power it has to bring an agreement mentioned in that subsection to an end.
+
+## SCHEDULE 4 — Reducing social housing regulation
+
+*Section 92*
+
+### PART 1 — Removal of disposal consent requirements
+
+#### Housing Act 1985 (c. 68)
+
+**1** (1) Section 171D of the Housing Act 1985 (consent to certain disposals of housing obtained subject to the preserved right to buy) is amended as follows.
+
+(2) After subsection (2) insert—
+
+> (2ZA) Subsection (2) does not apply to a disposal of land by a private registered provider of social housing.
+
+(3) In subsection (2A)—
+
+(a) omit paragraph (a);
+
+(b) in paragraph (b), for “any other” substitute “ a ”.
+
+#### Housing Act 1988 (c. 50)
+
+**2** The Housing Act 1988 is amended as follows.
+
+**3** (1) Section 81 (consent to certain disposals of housing obtained from housing action trusts) is amended as follows.
+
+(2) In subsection (1), for “section 79(2)(za) or (a)” substitute “ section 79(2)(a) ”.
+
+(3) In subsection (3A)—
+
+(a) omit paragraph (a);
+
+(b) in paragraph (b), for “any other” substitute “ a ”.
+
+(4) In subsection (7), omit “section 148 or 172 of the Housing and Regeneration Act 2008,”.
+
+**4** (1) Section 133 (consent to certain disposals of housing obtained from local authorities) is amended as follows.
+
+(2) In subsection (1ZA)—
+
+(a) omit paragraph (a);
+
+(b) in paragraph (b), for “any other” substitute “ a ”.
+
+(3) For subsection (1B) substitute—
+
+> (1B) This section does not apply if the original disposal was made to a private registered provider of social housing.
+
+(4) In subsection (7), omit “section 148 or 172 of the Housing and Regeneration Act 2008,”.
+
+#### Local Government and Housing Act 1989 (c. 42)
+
+**5** (1) Section 173 of the Local Government and Housing Act 1989 (consent to certain disposals of housing obtained from new town corporations) is amended as follows.
+
+(2) After subsection (1) insert—
+
+> (1ZA) Subsection (1) does not apply to a disposal of land by a private registered provider of social housing.
+
+(3) In subsection (1A)—
+
+(a) omit paragraph (a);
+
+(b) in paragraph (b), for “any other” substitute “ a ”.
+
+(4) In subsection (7), omit “section 148 or 172 of the Housing and Regeneration Act 2008,”.
+
+#### Leasehold Reform, Housing and Urban Development Act 1993 (c. 28)
+
+**6** In Schedule 10 to the Leasehold Reform, Housing and Urban Development Act 1993 (acquisition of Interests from Local Authorities etc), in paragraph 1(2)(b), for “sections 148 and 172” substitute “ section 148 ”.
+
+#### Housing and Regeneration Act 2008
+
+**7** The Housing and Regeneration Act 2008 is amended as follows.
+
+**8** In section 60 (structural overview), in subsection (4), in the final column of the entry relating to Chapter 5 of Part 2 of the Act—
+
+(a) for paragraph (b) (Regulator's consent) substitute—
+
+> (b) Notification of regulator
+
+;
+
+(b) omit paragraphs (c), (d) and (g).
+
+**9** After section 74 insert—
+
+> **Leaving the social housing stock: transfer by private providers**
+>
+> **74A** (1) A dwelling ceases to be social housing if a private registered provider of social housing owns the freehold or a leasehold interest and transfers it to a person who is not a registered provider of social housing.
+>
+> (2) Subsection (1) does not apply if and for so long as the private registered provider has a right to have the interest transferred back to it.
+>
+> (3) Subsection (1) does not apply where low cost home ownership accommodation is transferred to—
+>
+> (a) the “buyer” under equity percentage arrangements (see section 70(5)), or
+>
+> (b) the trustees under a shared ownership trust (see section 70(6)).
+>
+> (4) See section 73 for circumstances when low cost home ownership accommodation ceases to be social housing.
+
+**10** (1) Section 75 (leaving the social housing stock) is amended as follows.
+
+(2) Omit subsection (1).
+
+(3) In subsections (2) and (3), for “Subsections 1 and (1A) do” substitute “ Subsection (1A) does ”.
+
+(4) In the heading, after “stock:” insert “ local authority ”.
+
+**11** In section 119 (de-registration: voluntary), in subsection (5), omit paragraph (a) and the “and” at the end of that paragraph.
+
+**12** In section 149 (moratorium: exempted disposals)—
+
+(a) omit subsection (6);
+
+(b) in subsection (7), for “6” substitute “ 5 ”;
+
+(c) in subsection (8), for “7” substitute “ 6 ”.
+
+**13** In section 171 (power to dispose), in subsection (3), omit “(which include provisions requiring the regulator's consent for certain disposals)”.
+
+**14** For the italic heading above section 172 substitute— “ Notification of regulator ”.
+
+**15** Omit sections 172 to 175 (disposal consents).
+
+**16** For section 176 substitute—
+
+> **Notification of disposal**
+>
+> **176** (1) If a private registered provider disposes of a dwelling that is social housing it must notify the regulator.
+>
+> (2) If a non-profit registered provider disposes of land other than a dwelling it must notify the regulator.
+>
+> (3) Subsection (1) continues to apply to any land of a private registered provider even if it has ceased to be a dwelling.
+>
+> (4) The regulator may give directions about—
+>
+> (a) the period within which notifications under subsection (1) or (2) must be given;
+>
+> (b) the content of those notifications.
+>
+> (5) The regulator may give directions dispensing with the notification requirement in subsection (1) or (2).
+>
+> (6) A direction under this section may be—
+>
+> (a) general, or
+>
+> (b) specific (whether as to particular registered providers, as to particular property, as to particular forms of disposal or in any other way).
+>
+> (7) A direction dispensing with a notification requirement—
+>
+> (a) may be expressed by reference to a policy for disposals submitted by a registered provider;
+>
+> (b) may include conditions.
+>
+> (8) The regulator must make arrangements for bringing a direction under this section to the attention of every registered provider to which it applies.
+
+**17** Omit section 179 and the italic heading before it (application of provisions of the Housing Act 1996 that have a connection with disposal consents.)
+
+**18** In section 186 (former registered providers), for “to 175” substitute “ and 176 (apart from section 176(2)) ”.
+
+**19** Omit section 187 (change of use, etc).
+
+**20** Omit section 190 (consent to disposals under other legislation).
+
+**21** In section 278A (power to nominate for consultation purposes), for paragraph (b) substitute—
+
+> (b) section 176;
+
+.
+
+### PART 2 — Restructuring and dissolution: removal of consent requirements etc
+
+**22** The Housing and Regeneration Act 2008 is amended as follows.
+
+**23** In section 115 (profit-making and non-profit organisations), in subsection (9), after “non-profit organisation” insert “ or vice versa ”.
+
+**24** For section 160 substitute—
+
+> **Company: arrangements and reconstructions**
+>
+> **160** (1) This section applies to a non-profit registered provider which is a registered company.
+>
+> (2) The registered provider must notify the regulator of any voluntary arrangement under Part 1 of the Insolvency Act 1986.
+>
+> (3) The registered provider must notify the regulator of any order under section 899 of the Companies Act 2006 (court sanction for compromise or arrangement).
+>
+> (4) An order under section 899 of Companies Act 2006 does not take effect until the registered provider has confirmed to the registrar of companies that the regulator has been notified.
+>
+> (5) The registered provider must notify the regulator of any order under section 900 of the Companies Act 2006 (powers of court to facilitate reconstruction or amalgamation).
+>
+> (6) The requirement in section 900(6) of the Companies Act 2006 (sending copy of order to registrar) is satisfied only if the copy is accompanied by confirmation that the regulator has been notified.
+
+**25** For section 161 substitute—
+
+> **Company: conversion into registered society**
+>
+> **161** (1) This section applies to a non-profit registered provider which is a registered company.
+>
+> (2) The registered provider must notify the regulator of any resolution under section 115 of the Co-operative and Community Benefit Societies Act 2014 for converting the registered provider into a registered society.
+>
+> (3) The registrar of companies may register a resolution under that section only if the registered provider has confirmed to the registrar that the regulator has been notified.
+>
+> (4) The regulator must decide whether the new body is eligible for registration under section 112.
+>
+> (5) If the new body is eligible for registration, the regulator must register it and designate it as a non-profit organisation.
+>
+> (6) If the new body is not eligible for registration, the regulator must notify it of that fact.
+>
+> (7) Pending registration, or notification that it is not eligible for registration, the new body is to be treated as if it were registered and designated as a non-profit organisation.
+
+**26** For section 163 substitute—
+
+> **Registered society: restructuring**
+>
+> **163** (1) This section applies to a non-profit registered provider which is a registered society.
+>
+> (2) The registered provider must notify the regulator of any resolution passed by the society for the purposes of the restructuring provisions listed in subsection (4).
+>
+> (3) The Financial Conduct Authority may register the resolution only if the registered provider has confirmed to the Financial Conduct Authority that the regulator has been notified.
+>
+> (4) The following provisions of the Co-operative and Community Benefit Societies Act 2014 are the restructuring provisions—
+>
+> (a) section 109 (amalgamation of societies);
+>
+> (b) section 110 (transfer of engagements between societies);
+>
+> (c) section 112 (conversion of society into a company etc).
+>
+> (5) The regulator must decide whether the body created or to whom engagements are transferred (“the new body”) is eligible for registration under section 112.
+>
+> (6) If the new body is eligible for registration, the regulator must register it and designate it as a non-profit organisation.
+>
+> (7) If the new body is not eligible for registration, the regulator must notify it of that fact.
+>
+> (8) Pending registration, or notification that it is not eligible for registration, the new body is to be treated as if it were registered and designated as a non-profit organisation.
+
+**27** In section 165 (registered society: dissolution), for subsection (2) substitute—
+
+> (2) The registered provider must notify the regulator.
+>
+> (3) The Financial Conduct Authority may register the instrument under section 121 of that Act, or cause notice of the dissolution to be advertised under section 122 of that Act, only if the registered provider has confirmed to the Financial Conduct Authority that the regulator has been notified.
+
+**28** Omit section 166 (winding up petition by regulator).
+
+**29** After section 169 insert—
+
+> **Notification of constitutional changes**
+>
+> **Registered societies: change of rules**
+>
+> **169A** A non-profit registered provider that is a registered society must notify the regulator of any change to the society's rules.
+>
+> **Charity: change of objects**
+>
+> **169B** The trustees of a registered charity that is a non-profit registered provider must notify the regulator of any amendment to the charity's objects.
+>
+> **Companies: change of articles etc**
+>
+> **169C** A non-profit registered provider that is a registered company must notify the regulator of—
+>
+> (a) any amendment of the company's articles of association,
+>
+> (b) any change to its name or registered office.”
+>
+> **Directions about notifications**
+>
+> **Directions about notifications**
+>
+> **169D** (1) The regulator may give directions about—
+>
+> (a) the period within which notifications under sections 160 to 165 or 169A to 169C must be given by private registered providers;
+>
+> (b) the content of those notifications.
+>
+> (2) The regulator may give directions dispensing with notification requirements imposed by sections 160 to 165 or 169A to 169C.
+>
+> (3) A direction under this section may be—
+>
+> (a) general, or
+>
+> (b) specific (whether as to particular registered providers, particular kinds of notification requirement or in any other way).
+>
+> (4) A direction dispensing with a notification requirement may include conditions.
+>
+> (5) The regulator must make arrangements for bringing a direction under this section to the attention of every registered provider to which it applies.
+
+**30** In section 192 (overview), omit paragraph (c).
+
+**31** Omit sections 211 to 214 and the italic heading before section 211 (constitutional changes to non-profit providers).
+
+### PART 3 — Abolition of disposal proceeds fund
+
+**32** The Housing and Regeneration Act 2008 is amended as follows.
+
+**33** Omit—
+
+(a) sections 177 and 178;
+
+(b) the italic heading before section 177.
+
+**34** (1) Section 181 (meaning of “publicly funded” for purposes of provisions about right to acquire) is amended as follows.
+
+(2) After subsection (2) insert—
+
+> (2A) Condition 2 is that—
+>
+> (a) the dwelling was provided wholly or partly by a person using an amount for purposes for which the amount was required to be used by an HCA direction under section 32(4), and
+>
+> (b) before giving the direction the HCA notified the person that any dwelling so provided would be regarded as publicly funded.
+
+(3) In subsection (3), for “2” substitute “ 3 ”.
+
+(4) After subsection (3) insert—
+
+> (3A) In relation to a private registered provider, the reference in subsection (3) to its disposal proceeds fund is to its disposal proceeds fund before the abolition of that fund by Part 3 of Schedule 4 to the Housing and Planning Act 2016.
+
+(5) In subsections (4) and (5), for “3” substitute “ 4 ”.
+
+(6) In subsection (6), for “4” substitute “ 5 ”.
+
+**35** Regulations under section 213 in connection with the coming into force of paragraph 33 may, in particular, include provision to preserve the effect of sections 177 and 178 of the Housing and Regeneration Act 2008 for a period in relation to sums in a private registered provider's disposal proceeds fund immediately before that paragraph comes into force (including later interest added under section 177(7) of that Act).
+
+### PART 4 — Enforcement Powers
+
+**36** The Housing and Regeneration Act 2008 is amended as follows.
+
+**37** In section 269 (appointment of new officers of non-profit registered providers) in subsection (1)(c), for “proper management of the body's affairs” substitute “ to ensure that the registered provider's affairs are managed in accordance with legal requirements (imposed by or under an Act or otherwise) ”.
+
+**38** In section 275 (interpretation), for the definition of “mismanagement” substitute—
+
+> “mismanagement”, in relation to the affairs of a registered provider, means managed in breach of any legal requirements (imposed by or under an Act or otherwise);
+
+.
+
+## SCHEDULE 5 — Conduct of housing administration: companies
+
+*Section 102*
+
+### PART 1 — Modifications of Schedule B1 to the Insolvency Act 1986
+
+#### Introductory
+
+**1** (1) The applicable provisions of Schedule B1 to the Insolvency Act 1986 are to have effect in relation to a housing administration order that applies to a company as they have effect in relation to an administration order under that Schedule applies to a company, but with the modifications set out in this Part of this Schedule.
+
+(2) The applicable provisions of Schedule B1 to the Insolvency Act 1986 are—
+
+(a) paragraphs 1, 40 to 49, 54, 59 to 68, 70 to 79, 83 to 91, 98 to 107, 109 to 111 and 112 to 116, and
+
+(b) paragraph 50 (until the repeal of that paragraph by Schedule 10 to the Small Business, Enterprise and Employment Act 2015 comes into force).
+
+#### General modifications of the applicable provisions
+
+**2** Those paragraphs are to have effect as if—
+
+(a) for “administration application”, in each place, there were substituted “ housing administration application ”,
+
+(b) for “administration order”, in each place, there were substituted “ housing administration order ”,
+
+(c) for “administrator”, in each place, there were substituted “ housing administrator ”,
+
+(d) for “enters administration”, in each place, there were substituted “ enters housing administration ”,
+
+(e) for “in administration”, in each place, there were substituted “ in housing administration ”, and
+
+(f) for “purpose of administration”, in each place (other than in paragraph 111(1)), there were substituted “ objectives of the housing administration ”.
+
+#### Specific modifications
+
+**3** Paragraph 1 (administration) is to have effect as if—
+
+(a) for sub-paragraph (1) there were substituted—
+
+> (1) In this Schedule “housing administrator”, in relation to a company, means a person appointed by the court for the purposes of a housing administration order to manage its affairs, business and property.
+
+, and
+
+(b) in sub-paragraph (2), for “Act” there were substituted “ Schedule ”.
+
+**4** Paragraph 40 (dismissal of pending winding-up petition) is to have effect as if sub-paragraphs (1)(b), (2) and (3) were omitted.
+
+**5** Paragraph 42 (moratorium on insolvency proceedings) is to have effect as if sub-paragraphs (4) and (5) were omitted.
+
+**6** Paragraph 44 (interim moratorium) is to have effect as if sub-paragraphs (2) to (4), (6) and (7)(a) to (c) were omitted.
+
+**7** Paragraph 46(6) (date for notifying administrator's appointment) is to have effect as if for paragraphs (a) to (c) there were substituted “ the date on which the housing administration order comes into force ”.
+
+**8** Paragraph 49 (administrator's proposals) is to have effect as if—
+
+(a) in sub-paragraph (2)(b) for “objective mentioned in paragraph 3(1)(a) or (b) cannot be achieved” there were substituted “ objectives of the housing administration should be achieved by means other than just a rescue of the company as a going concern ”, and
+
+(b) in sub-paragraph (4), after paragraph (a) there were inserted—
+
+> (aa) to the Secretary of State and the Regulator of Social Housing,
+
+.
+
+**9** Paragraph 54 is to have effect as if the following were substituted for it—
+
+> **54** (1) The housing administrator of a company may on one or more occasions revise the proposals included in the statement made under paragraph 49 in relation to the company.
+>
+> (2) If the housing administrator thinks that a revision is substantial, the housing administrator must send a copy of the revised proposals—
+>
+> (a) to the registrar of companies,
+>
+> (b) to the Secretary of State and the Regulator of Social Housing,
+>
+> (c) to every creditor of the company, other than an opted-out creditor, of whose claim and address the housing administrator is aware, and
+>
+> (d) to every member of the company of whose address the housing administrator is aware.
+>
+> (3) A copy sent in accordance with sub-paragraph (2) must be sent within the prescribed period.
+>
+> (4) The housing administrator is to be taken to have complied with sub-paragraph (2)(d) if the housing administrator publishes, in the prescribed manner, a notice undertaking to provide a copy of the revised proposals free of charge to any member of the company who applies in writing to a specified address.
+>
+> (5) A housing administrator who fails without reasonable excuse to comply with this paragraph commits an offence.
+
+**10** Paragraph 60 (powers of an administrator) has effect as if after that sub-paragraph (2) there were inserted—
+
+> (3) The housing administrator of a company has the power to act on behalf of the company for the purposes of provision contained in any legislation which confers a power on the company or imposes a duty on it.
+>
+> (4) In sub-paragraph (2) “legislation” has the same meaning as in the Chapter 5 of Part 4 of the Housing and Planning Act 2016.
+
+**11** Paragraph 68 (management duties of an administrator) is to have effect as if—
+
+(a) in sub-paragraph (1), for paragraphs (a) to (c) there were substituted
+
+> the proposals as—
+>
+> (a) set out in the statement made under paragraph 49 in relation to the company, and
+>
+> (b) from time to time revised under paragraph 54,
+>
+> for achieving the objectives of the housing administration.
+
+, and
+
+(b) in sub-paragraph (3), for paragraphs (a) to (d) there were substituted “ the directions are consistent with the achievement of the objectives of the housing administration ”.
+
+**12** Paragraph 73(3) (protection for secured or preferential creditor) is to have effect as if for “or modified” there were substituted “ under paragraph 54 ”.
+
+**13** Paragraph 74 (challenge to administrator's conduct) is to have effect as if—
+
+(a) for sub-paragraph (2) there were substituted—
+
+> (2) If a company is in housing administration, a person mentioned in sub-paragraph (2A) may apply to the court claiming that the housing administrator is acting in a manner preventing the achievement of the objectives of the housing administration as quickly and efficiently as is reasonably practicable.
+>
+> (2A) The persons who may apply to the court are—
+>
+> (a) the Secretary of State;
+>
+> (b) with the consent of the Secretary of State, the Regulator of Social Housing;
+>
+> (c) a creditor or member of the company.
+
+,
+
+(b) in sub-paragraph (6)—
+
+(i) at the end of paragraph (b) there were inserted “or”, and
+
+(ii) paragraph (c) (and the “or” before it) were omitted, and
+
+(c) after that sub-paragraph there were inserted—
+
+> (7) In the case of a claim made otherwise than by the Secretary of State or the Regulator of Social Housing, the court may grant a remedy or relief or make an order under this paragraph only if it has given the Secretary of State or the Regulator a reasonable opportunity of making representations about the claim and the proposed remedy, relief or order.
+>
+> (8) The court may grant a remedy or relief or make an order on an application under this paragraph only if it is satisfied, in relation to the matters that are the subject of the application, that the housing administrator—
+>
+> (a) is acting,
+>
+> (b) has acted, or
+>
+> (c) is proposing to act,
+>
+> in a way that is inconsistent with the achievement of the objectives of the housing administration as quickly and as efficiently as is reasonably practicable.
+>
+> (9) Before the making of an order of the kind mentioned in sub-paragraph (4)(d)—
+>
+> (a) the court must notify the housing administrator of the proposed order and of a period during which the housing administrator is to have the opportunity of taking steps falling within sub-paragraphs (10) to (12), and
+>
+> (b) the period notified must have expired without the taking of such of those steps as the court thinks should have been taken,
+>
+> and that period must be a reasonable period.
+>
+> (10) In the case of a claim under sub-paragraph (1)(a), the steps referred to in sub-paragraph (9) are—
+>
+> (a) ceasing to act in a manner that unfairly harms the interests to which the claim relates,
+>
+> (b) remedying any harm unfairly caused to those interests, and
+>
+> (c) steps for ensuring that there is no repetition of conduct unfairly causing harm to those interests.
+>
+> (11) In the case of a claim under sub-paragraph (1)(b), the steps referred to in sub-paragraph (9) are steps for ensuring that the interests to which the claim relates are not unfairly harmed.
+>
+> (12) In the case of a claim under sub-paragraph (2), the steps referred to in sub-paragraph (9) are—
+>
+> (a) ceasing to act in a manner preventing the achievement of the objectives of the housing administration as quickly and as efficiently as is reasonably practicable,
+>
+> (b) remedying the consequences of the housing administrator having acted in such a manner, and
+>
+> (c) steps for ensuring that there is no repetition of conduct preventing the achievement of the objectives of the housing administration as quickly and as efficiently as is reasonably practicable.
+
+**14** Paragraph 75(2) (misfeasance) is to have effect as if after paragraph (b) there were inserted—
+
+> (ba) a person appointed as an administrator of the company under the provisions of this Act, as they have effect in relation to administrators other than housing administrators,
+
+.
+
+**15** Paragraph 78 (consent to extension of administrator's term of office) is to have effect as if sub-paragraph (2) were omitted.
+
+**16** Paragraph 79 (end of administration) is to have effect as if—
+
+(a) for sub-paragraphs (1) and (2) there were substituted—
+
+> (1) On an application made by a person mentioned in sub-paragraph (2), the court may provide for the appointment of a housing administrator of a company to cease to have effect from a specified time.
+>
+> (2) An application may be made to the court under this paragraph—
+>
+> (a) by the Secretary of State,
+>
+> (b) with the consent of the Secretary of State, by the Regulator of Social Housing, or
+>
+> (c) with the consent of the Secretary of State, by the housing administrator.
+
+, and
+
+(b) sub-paragraph (3) were omitted.
+
+**17** Paragraph 83(3) (notice to registrar when moving to voluntary liquidation) is to have effect as if after “may” there were inserted “ , with the consent of the Secretary of State or of the Regulator of Social Housing, ”.
+
+**18** Paragraph 84 (notice to registrar when moving to dissolution) is to have effect as if—
+
+(a) in sub-paragraph (1), for “to the registrar of companies” there were substituted—
+
+> (a) to the Secretary of State and the Regulator of Social Housing, and
+>
+> (b) if directed to do so by either the Secretary of State or the Regulator of Social Housing, to the registrar of companies.
+
+,
+
+(b) sub-paragraph (2) were omitted, and
+
+(c) in sub-paragraphs (3) to (6), for “(1)”, in each place, there were substituted “ (1)(b) ”.
+
+**19** Paragraph 87(2) (resignation of administrator) is to have effect as if for paragraphs (a) to (d) there were substituted “ by notice in writing to the court ”.
+
+**20** Paragraph 89(2) (administrator ceasing to be qualified) is to have effect as if for paragraphs (a) to (d) there were substituted “ to the court ”.
+
+**21** Paragraph 90 (filling vacancy in office of administrator) is to have effect as if for “Paragraphs 91 to 95 apply” there were substituted “ Paragraph 91 applies ”.
+
+**22** Paragraph 91 (vacancies in court appointments) is to have effect as if—
+
+(a) for sub-paragraph (1) there were substituted—
+
+> (1) The court may replace the housing administrator on an application made—
+>
+> (a) by the Secretary of State,
+>
+> (b) with the consent of the Secretary of State, by the Regulator of Social Housing, or
+>
+> (c) where more than one person was appointed to act jointly as the housing administrator, by any of those persons who remains in office.
+
+(b) sub-paragraph (2) were omitted.
+
+**23** Paragraph 98 (discharge from liability on vacation of office) is to have effect as if sub-paragraphs (2)(b) and (ba), (3) and (3A) were omitted.
+
+**24** Paragraph 99 (charges and liabilities upon vacation of office by administrator) is to have effect as if—
+
+(a) in sub-paragraph (4), for the words from the beginning to “cessation”, in the first place, there were substituted “ A sum falling within sub-paragraph (4A) ”,
+
+(b) after that sub-paragraph there were inserted—
+
+> (4A) A sum falls within this sub-paragraph if it is—
+>
+> (a) a sum payable in respect of a debt or other liability arising out of a contract that was entered into before cessation by the former housing administrator or a predecessor,
+>
+> (b) a sum that must be repaid by the company in respect of a grant that was made under section 109 of the Housing and Planning Act 2016 before cessation,
+>
+> (c) a sum that must be repaid by the company in respect of a loan made under that section before cessation or that must be paid by the company in respect of interest payable on such a loan,
+>
+> (d) a sum payable by the company under section 111 of that Act in respect of an agreement to indemnify made before cessation, or
+>
+> (e) a sum payable by the company under section 113 of that Act in respect of a guarantee given before cessation.”, and
+
+(c) in sub-paragraph (5), for “(4)” there were substituted “ (4A)(a) ”.
+
+**25** Paragraph 100 (joint and concurrent administrators) is to have effect as if sub-paragraph (2) were omitted.
+
+**26** Paragraph 101(3) (joint administrators) is to have effect as if after “87 to” there were inserted “ 91, 98 and ”.
+
+**27** Paragraph 103 (appointment of additional administrators) is to have effect as if—
+
+(a) in sub-paragraph (2) the words from the beginning to “order” were omitted and for paragraph (a) there were substituted—
+
+> (a) the Secretary of State,
+>
+> (aa) the Regulator of Social Housing, or
+
+,
+
+(b) after that sub-paragraph there were inserted—
+
+> (2A) The consent of the Secretary of State is required for an application by the Regulator of Social Housing for the purposes of sub-paragraph (2).
+
+, and
+
+(c) sub-paragraphs (3) to (5) were omitted.
+
+**28** Paragraph 106(2) (penalties) is to have effect as if paragraphs (a), (b), (f), (g), (i) and (l) to (n) were omitted.
+
+**29** Paragraph 109 (references to extended periods) is to have effect as if “or 108” were omitted.
+
+**30** Paragraph 111 (interpretation) is to have effect as if—
+
+(a) in sub-paragraph (1), the definitions of “correspondence”, “holder of a qualifying floating charge”, “the purpose of administration” and “unable to pay its debts” were omitted,
+
+(b) in that sub-paragraph, at the appropriate places there were inserted—
+
+> “company” and “court” have the same meaning as in Chapter 5 of Part 4 of the Housing and Planning Act 2016,
+
+,
+
+> “housing administration application” means an application to the court for a housing administration order under Chapter 5 of Part 4 of the Housing and Planning Act 2016;
+
+,
+
+> “housing administration order” has the same meaning as in Chapter 5 of Part 4 of the Housing and Planning Act 2016;
+
+,
+
+> “objectives”, in relation to a housing administration, is to be read in accordance with section 96(4) of the Housing and Planning Act 2016;
+
+, and
+
+> “prescribed” means prescribed by housing administration rules within the meaning of Chapter 5 of Part 4 of the Housing and Planning Act 2016.
+
+,
+
+(c) sub-paragraphs (1A) and (1B) were omitted, and
+
+(d) after sub-paragraph (3) there were inserted—
+
+> (4) For the purposes of this Schedule a reference to a housing administration order includes a reference to an appointment under paragraph 91 or 103.
+
+### [^F113]PART 2 — Further modifications of Schedule B1 to Insolvency Act 1986: foreign companies
+
+#### Introductory
+
+**[^F113]31** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F113]32** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Modifications
+
+**[^F113]33** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F113]34** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F113]35** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F113]36** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F113]37** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F113]38** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### PART 3 — Other modifications
+
+#### General modifications
+
+**39** (1) References within sub-paragraph (2) which are contained—
+
+(a) in the Insolvency Act 1986 (other than Schedule B1 to that Act), or
+
+(b) in other legislation passed or made before this Act,
+
+include references to whatever corresponds to them for the purposes of this paragraph.
+
+(2) The references are those (however expressed) which are or include references to—
+
+(a) an administrator appointed by an administration order,
+
+(b) an administration order,
+
+(c) an application for an administration order,
+
+(d) a company in administration,
+
+(e) entering into administration, and
+
+(f) Schedule B1 to the Insolvency Act 1986 or a provision of that Schedule.
+
+(3) For the purposes of this paragraph—
+
+(a) a housing administrator of a company corresponds to an administrator appointed by an administration order,
+
+(b) a housing administration order in relation to a company corresponds to an administration order,
+
+(c) an application for a housing administration order in relation to a company corresponds to an application for an administration order,
+
+(d) a company in housing administration corresponds to a company in administration,
+
+(e) entering into housing administration in relation to a company corresponds to entering into administration, and
+
+(f) what corresponds to Schedule B1 to the Insolvency Act 1986 or a provision of that Schedule is that Schedule or that provision as applied by Part 1 of this Schedule.
+
+**40** (1) Paragraph 39, in its application to section 1(3) of the Insolvency Act 1986, does not entitle the housing administrator of an unregistered company to make a proposal under Part 1 of the Insolvency Act 1986 (company voluntary arrangements).
+
+(2) Paragraph 39 does not confer any right under section 7(4) of the Insolvency Act 1986 (implementation of voluntary arrangements) for a supervisor of voluntary arrangements to apply for a housing administration order in relation to a company that is a private registered provider.
+
+(3) Paragraph 39 does not apply to section 359 of the Financial Services and Markets Act 2000 (administration order).
+
+#### Modifications of the Insolvency Act 1986
+
+**41** The following provisions of the Insolvency Act 1986 are to have effect in the case of any housing administration with the following modifications.
+
+**42** Section 5 (effect of approval of voluntary arrangements) is to have effect as if after subsection (4) there were inserted—
+
+> (4A) Where the company is in housing administration, the court must not make an order or give a direction under subsection (3) unless—
+>
+> (a) the court has given the Secretary of State or the Regulator of Social Housing a reasonable opportunity of making representations to it about the proposed order or direction, and
+>
+> (b) the order or direction is consistent with the objectives of the housing administration.
+>
+> (4B) In subsection (4A) “in housing administration” and “objectives of the housing administration” are to be read in accordance with Schedule B1 to this Act, as applied by Part 1 of Schedule 5 to the Housing and Planning Act 2016.
+
+**43** Section 6 (challenge of decisions in relation to voluntary arrangements) is to have effect as if—
+
+(a) in subsection (2), for “this section” there were substituted “ subsection (1) ”,
+
+(b) after that subsection there were inserted—
+
+> (2AA) Subject to this section, where a voluntary arrangement in relation to a company in housing administration is approved at the meetings summoned under section 3, an application to the court may be made—
+>
+> (a) by the Secretary of State, or
+>
+> (b) with the consent of the Secretary of State, by the Regulator of Social Housing,
+>
+> on the ground that the voluntary arrangement is not consistent with the achievement of the objectives of the housing administration.
+
+,
+
+(c) in subsection (4), after “subsection (1)” there were inserted “ or, in the case of an application under subsection (2AA), as to the ground mentioned in that subsection ”, and
+
+(d) after subsection (7) there were inserted—
+
+> (7A) In this section “in housing administration” and “objectives of the housing administration” are to be read in accordance with Schedule B1 to this Act, as applied by Part 1 of Schedule 5 to the Housing and Planning Act 2016.
+
+**44** In section 129(1A) (commencement of winding up), the reference to paragraph 13(1)(e) of Schedule B1 is to include section 100(1)(e) of this Act.
+
+#### Power to make further modifications
+
+**45** (1) The Secretary of State may by regulations amend this Part of this Schedule so as to add further modifications.
+
+(2) The further modifications that may be made are confined to such modifications of—
+
+(a) the Insolvency Act 1986, or
+
+(b) other legislation passed or made before this Act that relate to insolvency or make provision by reference to anything that is or may be done under the Insolvency Act 1986,
+
+as the Secretary of State considers appropriate in relation to any provision made by or under this Chapter.
+
+#### Interpretation of Part 3 of Schedule
+
+**46** In this Part of this Schedule—
+
+- “administration order”, “administrator”, “enters administration” and “in administration” are to be read in accordance with Schedule B1 to the Insolvency Act 1986 (disregarding Part 1 of this Schedule), and
+- “enters housing administration” and “in housing administration” are to be read in accordance with Schedule B1 to the Insolvency Act 1986 (as applied by Part 1 of this Schedule).
+
+## SCHEDULE 6 — Amendments to housing moratorium and consequential amendments
+
+*Section 115*
+
+**1** The Housing and Regeneration Act 2008 is amended as follows.
+
+**2** Omit section 144 (insolvency: preparatory steps notice).
+
+**3** For section 145 substitute—
+
+> **Moratorium**
+>
+> **145** A moratorium on the disposal of land by a private registered provider begins if a notice is given to the regulator under any of the following provisions of the Housing and Planning Act 2016—
+>
+> (a) section 104(2)(a) (notice of winding up petition);
+>
+> (b) section 105(4)(a) (notice of application for permission to pass a resolution for voluntary winding up);
+>
+> (c) section 106(3)(a) (notice of ordinary administration application);
+>
+> (d) section 107(4)(a) (notice of appointment of ordinary administrator);
+>
+> (e) section 108(2)(a) (notice of intention to enforce security).
+
+**4** (1) Section 146 (duration of moratorium) is amended as follows.
+
+(2) For subsections (1) and (2) substitute—
+
+> (1) The moratorium begins when the notice mentioned in section 145 is given.
+>
+> (2) The moratorium ends when one of the following occurs—
+>
+> (a) the expiry of the relevant period,
+>
+> (b) the making of a housing administration order under Chapter 5 of Part 4 of the Housing and Planning Act 2016 in relation to the registered provider, or
+>
+> (c) the cancellation of the moratorium (see subsection (5)).
+>
+> (2A) The “relevant period” is—
+>
+> (a) the period of 28 days beginning with the day on which the notice mentioned in section 145 is given, plus
+>
+> (b) any period by which that period is extended under subsection (3).
+
+(3) Omit subsection (6).
+
+(4) For subsection (9) substitute—
+
+> (9) If a notice mentioned in section 145 is given during a moratorium, that does not—
+>
+> (a) start a new moratorium, or
+>
+> (b) alter the existing moratorium's duration.
+
+**5** (1) Section 147 (further moratorium) is amended as follows.
+
+(2) In subsection (1)(b), for “step specified in section 145 is taken” substitute “ notice mentioned in section 145 is given ”.
+
+(3) In subsection (2), for “step” substitute “ notice ”.
+
+**6** In section 154 (proposals: effect), in subsection (2), after paragraph (a) insert—
+
+> (aa) in the case of a charitable incorporated organisation, its charity trustees (as defined by section 177 of the Charities Act 2011),
+
+.
+
+**7** Omit section 162 (consent to company winding up).
+
+**8** Omit section 164 (consent to registered society winding up).
+
+**9** In section 275 (general interpretation), omit the definition of “working day”.
+
+**10** In section 276 (index of defined terms), omit the entry relating to “working day”.
+
+## SCHEDULE 7 — Secure tenancies etc: phasing out of tenancies for life (prospective)
+
+*Section 118*
+
+### Law of Property Act 1925 (c. 20) (prospective)
+
+**1** (1) Section 52 of the Law of Property Act 1925 (conveyances to be by deed, unless excepted by subsection (2) of that section) is amended as follows.
+
+(2) In subsection (2), after paragraph (db) insert—
+
+> (dc) secure tenancies of dwellings in England granted on or after the day on which paragraph 4 of Schedule 7 to the Housing and Planning Act 2016 comes fully into force, other than old-style secure tenancies;”;
+>
+> (dd) introductory tenancies of dwellings in England granted on or after the day on which paragraph 4 of Schedule 7 to the Housing and Planning Act 2016 comes fully into force;
+
+.
+
+(3) In subsection (3)—
+
+(a) in the definition of “flexible tenancy”, for “107A” substitute “ 115B ”;
+
+(b) at the appropriate places insert—
+
+> “introductory tenancy” has the same meaning as in Chapter 1 of Part 5 of the Housing Act 1996;
+
+;
+
+> “secure tenancy” has the meaning given by section 79 of the Housing Act 1985 and “old-style secure tenancy” has the meaning given by section 115C of that Act;
+
+.
+
+### Housing Act 1985 (c. 68) (prospective)
+
+**2** The Housing Act 1985 is amended as follows.
+
+**3** For the italic heading before section 79 substitute— “ Secure tenancies ”.
+
+**4** After section 81 insert—
+
+> **Grant of new secure tenancies in England**
+>
+> **New English secure tenancies to be between 2 and 10 years in general**
+>
+> **81A** (1) A person may grant a secure tenancy of a dwelling-house in England only if it is a tenancy for a fixed term that is—
+>
+> (a) at least 2 years, and
+>
+> (b) no longer than the permitted maximum length.
+>
+> (2) The permitted maximum length is 10 years, unless subsection (3) applies.
+>
+> (3) If the person granting the tenancy has been notified in writing that a child aged under 9 will live in the dwelling-house, the permitted maximum length is the period—
+>
+> (a) beginning with the day on which the tenancy is granted, and
+>
+> (b) ending with the day on which the child will reach the age of 19.
+>
+> (4) If a person purports to grant a secure tenancy in breach of subsection (1), it takes effect as a tenancy for a fixed term of 5 years.
+>
+> (5) In deciding what length of tenancy to grant in a case to which this section applies a person must have regard to any guidance given by the Secretary of State.
+>
+> (6) This section does not apply to the grant of an old-style secure tenancy (as to which, see section 81B).
+>
+> **Cases where old-style English secure tenancies may be granted**
+>
+> **81B** (1) A person may grant an old-style secure tenancy of a dwelling-house in England only—
+>
+> (a) in circumstances specified in regulations made by the Secretary of State,
+>
+> (b) in accordance with subsection (2), or
+>
+> (c) if required to do so by section 158(9B) of the Localism Act 2011 (which relates to transfer requests made before section 121 of the Housing and Planning Act 2016 comes into force).
+>
+> (2) A local housing authority that grants a secure tenancy of a dwelling-house in England must grant an old-style secure tenancy if—
+>
+> (a) the tenancy is offered as a replacement for an old-style secure tenancy of some other dwelling-house, and
+>
+> (b) the tenant has not made an application to move.
+>
+> (3) Other provisions of this Part set out the consequences of a tenancy being an old-style secure tenancy.
+>
+> (4) Regulations under subsection (1) may include transitional or saving provision.
+>
+> (5) Regulations under subsection (1) are to be made by statutory instrument.
+>
+> (6) A statutory instrument containing regulations under subsection (1) may not be made unless a draft of the instrument has been laid before and approved by a resolution of each House of Parliament.
+>
+> **Duty to offer new secure tenancy in limited circumstances**
+>
+> **81C** (1) This section applies where a change in circumstances means that a tenancy that is not a secure tenancy would become a secure tenancy but for the exception in paragraph 1ZA of Schedule 1.
+>
+> (2) The landlord must, within the period of 28 days, make the tenant a written offer of a secure tenancy in return for the tenant surrendering the original tenancy.
+>
+> (3) If the tenant accepts in writing within the period of 28 days beginning with the day on which the tenant receives the offer, the landlord must grant the secure tenancy on the tenant surrendering the original tenancy.
+>
+> **Review of decisions about length of secure tenancies in England**
+>
+> **81D** (1) A person who is offered a secure tenancy of a dwelling-house in England (under section 81C or otherwise) may request a review under this section, unless the tenancy on offer is an old-style secure tenancy.
+>
+> (2) The sole purpose of a review under this section is to consider whether the length of the tenancy is in accordance with any policy that the prospective landlord has about the length of secure tenancies it grants.
+>
+> (3) The request must be made before the end of—
+>
+> (a) the period of 21 days beginning with the day on which the person making the request first receives the offer, or
+>
+> (b) such longer period as the prospective landlord may allow in writing.
+>
+> (4) On receiving the request the prospective landlord must carry out the review.
+>
+> (5) On completing the review the prospective landlord must —
+>
+> (a) notify the tenant in writing of the outcome,
+>
+> (b) revise its offer or confirm its original decision about the length of the tenancy, and
+>
+> (c) if it decides to confirm its original decision, give reasons.
+>
+> (6) The Secretary of State may by regulations make provision about the procedure to be followed in connection with a review under this section.
+>
+> (7) The regulations may, in particular—
+>
+> (a) require the review to be carried out by a person of appropriate seniority who was not involved in the original decision;
+>
+> (b) make provision as to the circumstances in which the person who requested the review is entitled to an oral hearing, and whether and by whom that person may be represented.
+>
+> (8) Regulations under this section may include transitional or saving provision.
+>
+> (9) Regulations under this section are to be made by statutory instrument which is subject to annulment in pursuance of a resolution of either House of Parliament.
+
+**5** In section 82 (security of tenure), in subsection (3), for the words from “section 86” to the end substitute “ section 86 or 86D shall apply ”.
+
+**6** After section 82 insert— “ Orders for possession and expiry of term etc ”.
+
+**7** (1) Section 82A (demoted tenancy) is amended as follows.
+
+(2) After subsection (4) insert—
+
+> (4A) The court may not make a demotion order in relation to a secure tenancy of a dwelling-house in England if—
+>
+> (a) the landlord is a local housing authority or housing action trust, and
+>
+> (b) the term has less than 1 year and 9 months left to run
+>
+> (4B) But subsection (4A) does not apply to a tenancy to which an exception in section 86A(2) or (3) applies.
+
+(3) In subsection (5), for paragraph (b) substitute—
+
+> (b) the period or term of the tenancy (but see subsection (6));
+
+.
+
+(4) For subsection (6) substitute—
+
+> (6) Subsection (5)(b) does not apply if—
+>
+> (a) the secure tenancy was for a fixed term and was an old-style secure tenancy or a flexible tenancy, or
+>
+> (b) the secure tenancy was for a fixed term and was a tenancy of a dwelling-house in Wales,
+>
+> and in such a case the demoted tenancy is a weekly periodic tenancy.
+
+**8** In section 83 (proceedings for possession or termination: general notice requirements), in subsection (A1), for paragraph (b) substitute—
+
+> (b) proceedings for possession of a dwelling-house under section 86E (recovery of possession on expiry of certain English secure tenancies).
+
+**9** In section 84 (grounds and orders for possession), in subsection (1), for “section 107D (recovery of possession on expiry of flexible tenancy)” substitute “ section 86E (recovery of possession on expiry of certain English secure tenancies) ”.
+
+**10** (1) Section 86 (periodic tenancy arising on termination of fixed term) is amended as follows.
+
+(2) In subsection (1), after “secure tenancy” insert “ to which this section applies ”.
+
+(3) After subsection (1) insert—
+
+> (1A) This section applies to a secure tenancy of a dwelling-house in Wales.
+>
+> (1B) This section also applies to a secure tenancy of a dwelling-house in England that is—
+>
+> (a) an old-style secure tenancy, or
+>
+> (b) a flexible tenancy the term of which ends within the period of 9 months beginning with the day on which paragraph 4 of Schedule 7 to the Housing and Planning Act 2016 comes fully into force,
+>
+> unless it is a tenancy excluded by subsection (1C).
+
+(4) In subsection (2), for “this section” substitute “ subsection (1) ”.
+
+**11** After section 86 insert—
+
+> **English secure tenancies: review, renewal and possession**
+>
+> **English tenancies: review to determine what to do at end of fixed term**
+>
+> **86A** (1) The landlord under a fixed term secure tenancy of a dwelling-house in England must carry out a review to decide what to do at the end of the term, unless one of the following exceptions applies.
+>
+> (2) Exception 1 is where the tenancy is an old-style secure tenancy.
+>
+> (3) Exception 2 is where the tenancy is a flexible tenancy the term of which ends within the period of 9 months beginning with the day on which paragraph 4 of Schedule 7 to the Housing and Planning Act 2016 comes fully into force.
+>
+> (4) A review under this section must be carried out while the term has 6 to 9 months left to run.
+>
+> (5) On a review under this section the landlord must decide which of the following options to take.
+>
+> |  |  |
+> |---|---|
+> | Option 1: | offer to grant a new secure tenancy of the dwelling-house at the end of the current tenancy. |
+> | Option 2: | seek possession of the dwelling house at the end of the current tenancy but offer to grant a secure tenancy of another dwelling-house instead. |
+> | Option 3: | seek possession of the dwelling-house at the end of the current tenancy without offering to grant a secure tenancy of another dwelling-house. |
+>
+> (6) The landlord must also—
+>
+> (a) offer the tenant advice on buying a home if the landlord considers that to be a realistic option for the tenant, and
+>
+> (b) in appropriate cases, offer the tenant advice on other housing options.
+>
+> **Notification of outcome of review under section 86A**
+>
+> **86B** (1) On completing a review under section 86A the landlord must notify the tenant in writing of the outcome of the review.
+>
+> (2) The notice must be given by no later than 6 months before the end of the term of the current tenancy.
+>
+> (3) The notice must state which of the options mentioned in section 86A the landlord has decided to take.
+>
+> (4) If the landlord has decided to seek possession of the dwelling-house at the end of the secure tenancy the notice must also—
+>
+> (a) inform the tenant of the right under section 86C to request the landlord to reconsider, and
+>
+> (b) specify the time limit for making a request under that section.
+>
+> (5) If the notice states that the landlord has decided to offer a new tenancy and the tenant accepts in writing before the end of the current tenancy, the landlord must grant the new tenancy in accordance with the offer.
+>
+> **Reconsideration of decision not to grant a tenancy**
+>
+> **86C** (1) Where a tenant is notified that the outcome of a review under section 86A is that the landlord has decided to seek possession of the dwelling-house at the end of the current tenancy, the tenant may request the landlord to reconsider its decision.
+>
+> (2) The request must be made before the end of the period of 21 days beginning with the day on which tenant was notified of the decision.
+>
+> (3) On receiving the request, the landlord must reconsider its decision.
+>
+> (4) The landlord must, in particular, consider whether the original decision is in accordance with any policy that the landlord has about the circumstances in which it will grant a further tenancy on the coming to an end of an existing fixed term tenancy.
+>
+> (5) Once the landlord has reconsidered the decision the landlord must—
+>
+> (a) notify the tenant in writing of the outcome,
+>
+> (b) revise or confirm its original decision, and
+>
+> (c) if it decides to confirm its original decision, give reasons.
+>
+> (6) The Secretary of State may by regulations make provision about the procedure to be followed in connection with reconsidering a decision for the purposes of this section.
+>
+> (7) The regulations may, in particular—
+>
+> (a) require the original decision to be reconsidered by a person of appropriate seniority who was not involved in the original decision, and
+>
+> (b) make provision as to the circumstances in which the person who requested the landlord to reconsider the original decision is entitled to an oral hearing, and whether and by whom that person may be represented.
+>
+> (8) Regulations under this section may include transitional or saving provision.
+>
+> (9) Regulations under this section are to be made by statutory instrument which is subject to annulment in pursuance of a resolution of either House of Parliament.
+>
+> **Fixed term tenancy arising on termination of previous fixed term**
+>
+> **86D** (1) This section applies to a secure tenancy of a dwelling-house in England other than—
+>
+> (a) an old-style secure tenancy, or
+>
+> (b) a flexible tenancy the term of which ends within the period of 9 months beginning with the day on which paragraph 4 of Schedule 7 to the Housing and Planning Act 2016 comes fully into force.
+>
+> (2) If the tenancy comes to an end by virtue of the term expiring, or by virtue of an order under section 82(3), a new tenancy of the same dwelling-house arises by virtue of this subsection.
+>
+> (3) Where the landlord has offered the tenant a new tenancy of the same dwelling-house following a review under section 86A but the tenant has failed to accept, the new tenancy that arises by virtue of subsection (2) is a fixed term tenancy of whatever length the landlord offered.
+>
+> (4) In any other case, the new tenancy that arises by virtue of subsection (2) is a 5 year fixed term tenancy.
+>
+> (5) The parties and other terms of a new tenancy that arises by virtue of subsection (2) are the same as those of the tenancy that it replaces, except that the terms are confined to those which are compatible with a tenancy of the length determined in accordance with subsection (3) or (4).
+>
+> (6) A new tenancy does not arise by virtue of subsection (2) if the tenant has been granted another secure tenancy of the same dwelling-house to begin at the same time as the earlier tenancy ends.
+>
+> **Recovery of possession of secure tenancies in England**
+>
+> **86E** (1) The landlord under a secure tenancy of a dwelling-house in England may bring proceedings for possession under this section if—
+>
+> (a) the landlord has decided on a review under section 86A to seek possession at the end of the tenancy, and
+>
+> (b) the landlord has not subsequently revised the decision under section 86C.
+>
+> (2) If the landlord brings proceedings under this section the court must make an order for possession if satisfied that—
+>
+> (a) the landlord has complied with all of the requirements of sections 86A to 86C,
+>
+> (b) the tenancy that was the subject of the review section 86A has ended,
+>
+> (c) the proceedings were commenced before the end of the period of 3 months beginning with the day on which the tenancy ended, and
+>
+> (d) the only fixed term tenancy still in existence is a new secure tenancy arising by virtue of section 86D.
+>
+> (3) But the court may refuse to grant an order for possession under this section if the court considers that a decision of the landlord under section 86A or 86C was wrong in law.
+>
+> (4) Where a court makes an order for possession of a dwelling-house under this section, any fixed term tenancy arising by virtue of section 86D on the coming to an end of the tenancy that was the subject of the review under section 86A comes to an end (without further notice) in accordance with section 82(2).
+>
+> (5) This section does not limit any right of the landlord under a secure tenancy to recover possession of the dwelling-house let on the tenancy in accordance with other provisions of this Part.
+>
+> **Termination of English secure tenancies by tenant**
+>
+> **Termination of English secure tenancies by tenant**
+>
+> **86F** (1) It is a term of every secure tenancy of a dwelling-house in England, other than an old-style secure tenancy, that the tenant may terminate the tenancy in accordance with the following provisions of this section.
+>
+> (2) The tenant must serve a notice in writing on the landlord stating that the tenancy will be terminated on the date specified in the notice.
+>
+> (3) That date must be after the end of the period of four weeks beginning with the date on which the notice is served.
+>
+> (4) The landlord may agree with the tenant to dispense with the requirement in subsection (2) or (3).
+>
+> (5) The tenancy is terminated on the date specified in the notice or (as the case may be) determined in accordance with arrangements made under subsection (4) only if on that date—
+>
+> (a) no arrears of rent are payable under the tenancy, and
+>
+> (b) the tenant is not otherwise materially in breach of a term of the tenancy.
+
+**12** (1) Section 97 (tenant's improvements require consent) is amended as follows.
+
+(2) In subsection (1), after “secure tenancy” insert “ to which this section applies ”.
+
+(3) After subsection (1) insert—
+
+> (1A) This section applies to—
+>
+> (a) a secure tenancy of a dwelling-house in Wales, or
+>
+> (b) an old-style secure tenancy of a dwelling-house in England.
+
+(4) Omit subsection (5).
+
+**13** (1) Section 99A (right to compensation for improvements) is amended as follows.
+
+(2) In subsection (1)(c), after “secure tenancy” insert “ to which this section applies ”.
+
+(3) After subsection (1) insert—
+
+> (1A) This section applies to—
+>
+> (a) a secure tenancy of a dwelling-house in Wales, or
+>
+> (b) an old-style secure tenancy of a dwelling-house in England.
+
+(4) Omit subsection (9).
+
+**14** Omit sections 107A to 107E (flexible tenancies).
+
+**15** After section 115A insert—
+
+> **Meaning of “flexible tenancy”**
+>
+> **115B** (1) For the purposes of this Act, a flexible tenancy is a secure tenancy to which any of the following subsections applies.
+>
+> (2) This subsection applies to a secure tenancy if—
+>
+> (a) it was granted by a landlord in England for a fixed term of not less than two years,
+>
+> (b) it was granted before the day on which paragraph 4 of Schedule 7 to the Housing and Planning Act 2016 came fully into force, and
+>
+> (c) before it was granted the person who became the landlord under the tenancy served a written notice on the person who became the tenant under the tenancy stating that the tenancy would be a flexible tenancy.
+>
+> (3) This subsection applies to a secure tenancy if—
+>
+> (a) it became a secure tenancy by virtue of a notice under paragraph 4ZA(2) of Schedule 1 (family intervention tenancies becoming secure tenancies),
+>
+> (b) the notice was given before the day on which paragraph 4 of Schedule 7 to the Housing and Planning Act 2016 came fully into force,
+>
+> (c) the landlord under the family intervention tenancy in question was a local housing authority in England,
+>
+> (d) the family intervention tenancy was granted to a person on the coming to an end of a flexible tenancy under which the person was a tenant,
+>
+> (e) the notice states that the tenancy is to become a secure tenancy that is a flexible tenancy for a fixed term of the length specified in the notice, and sets out the other express terms of the tenancy, and
+>
+> (f) the length of the term specified in the notice is at least two years.
+>
+> (4) The length of the term of a flexible tenancy that becomes such a tenancy by virtue of subsection (3) is that specified in the notice under paragraph 4ZA(2) of Schedule 1.
+>
+> (5) The other express terms of the flexible tenancy are those set out in the notice, so far as those terms are compatible with the statutory provisions relating to flexible tenancies; and in this subsection “statutory provision” means any provision made by or under an Act.
+>
+> (6) This subsection applies to a secure tenancy if—
+>
+> (a) it is created by virtue of section 137A of the Housing Act 1996 (introductory tenancies becoming flexible tenancies), or
+>
+> (b) it arises by virtue of section 143MA or 143MB of that Act (demoted tenancies becoming flexible tenancies).”
+>
+> **Meaning of “old-style secure tenancy” in England**
+>
+> **115C** In this Part “old-style secure tenancy” means a secure tenancy of a dwelling-house in England that—
+>
+> (a) is a secure tenancy, other than a flexible tenancy, granted before the day on which paragraph 4 of Schedule 7 to the Housing and Planning Act 2016 came fully into force,
+>
+> (b) is a secure tenancy granted on or after that date that contains an express term stating that it is an old-style secure tenancy, or
+>
+> (c) is a tenancy that arose by virtue of section 86 on the coming to an end of a secure tenancy within paragraph (a) or (b).
+
+**16** (1) Section 117 (index of defined expressions) is amended as follows.
+
+(2) In the entry relating to flexible tenancies, for “section 107A” substitute “ section 115B ”.
+
+(3) At the appropriate place insert—
+
+> |  |  |
+> |---|---|
+> | old-style secure tenancy | section 115C |
+
+**17** (1) Schedule 1 (tenancies which are not secure tenancies) is amended as follows.
+
+(2) After paragraph 1 insert—
+
+> **Certain English tenancies that were not secure tenancies when originally granted**
+>
+> **1ZA** A tenancy of a dwelling-house in England cannot become a secure tenancy if—
+>
+> (a) it was granted on or after the day on which paragraph 4 of Schedule 7 to the Housing and Planning Act 2016 came fully into force,
+>
+> (b) it was not a secure tenancy or an introductory tenancy at the time it was granted, and
+>
+> (c) it is a periodic tenancy or a tenancy for a fixed term of less than 2 years or more than 5 years.
+
+(3) In paragraph 4ZA, after sub-paragraph (2) insert—
+
+> (2A) A notice under sub-paragraph (2) that relates to a tenancy of a dwelling-house in England must—
+>
+> (a) state that the tenancy is to become a secure tenancy for a fixed term of a length specified in the notice, and
+>
+> (b) set out the other express terms of the tenancy.
+>
+> (2B) The length of the term specified in a notice in accordance with sub-paragraph (2A) must not be—
+>
+> (a) less than 2 years, or
+>
+> (b) more than the permitted maximum length.
+>
+> (2C) The permitted maximum length is 10 years, unless sub-paragraph (2D) applies.
+>
+> (2D) If the landlord has been notified in writing that a child aged under 9 will live in the dwelling-house, the permitted maximum length is the period—
+>
+> (a) beginning with the day on which the tenancy becomes a secure tenancy, and
+>
+> (b) ending with the day on which the child will reach the age of 19.
+>
+> (2E) In deciding what length to specify in a notice under sub-paragraph (2A)(a) the landlord must have regard to any guidance given by the Secretary of State.
+>
+> (2F) Where a notice is given in accordance with sub-paragraph (2A) the length of the secure tenancy, and the other terms, are those set out in the notice.
+>
+> (2G) Sub-paragraphs (2A) to (2F) do not apply to notices given before the day on which paragraph 4 of Schedule 7 to the Housing and Planning Act 2016 comes fully into force.
+
+### Landlord and Tenant Act 1985 (c. 70) (prospective)
+
+**18** (1) Section 13 of the Landlord and Tenant Act 1985 is amended as follows.
+
+(2) After subsection (1A) insert—
+
+> (1AB) Section 11 also applies to a lease of a dwelling-house in England which is an introductory tenancy for a fixed term of seven years or more granted on or after the day on which paragraph 4 of Schedule 7 to the Housing and Planning Act 2016 comes fully into force.
+
+(3) In subsection (1B)—
+
+(a) for “In subsection (1A)” substitute “ In this section ”, and
+
+(b) after the definition of “assured tenancy” insert—
+
+> “introductory tenancy” has the same meaning as in Chapter 1 of Part 5 of the Housing Act 1996;
+
+.
+
+### Housing Act 1996 (c. 52) (prospective)
+
+**19** The Housing Act 1996 is amended as follows.
+
+**20** (1) Section 124 (introductory tenancies) is amended as follows.
+
+(2) After subsection (1) insert—
+
+> (1A) When such an election is in force, every fixed term tenancy of a dwelling-house in England entered into or adopted by the authority or trust shall, if it would otherwise be a secure tenancy, be an introductory tenancy, unless section 124A(7) applies or immediately before the tenancy was entered into or adopted the tenant or, in the case of joint tenants, one or more of them was—
+>
+> (a) a secure tenant of the same or another dwelling-house, or
+>
+> (b) a tenant under a relevant assured tenancy, other than an assured shorthold tenancy, of the same or another dwelling-house.
+
+(3) In subsection (2), in the words before paragraph (a), after “dwelling-house” insert “ in Wales ”.
+
+(4) In subsection (2A), for “subsection (2)(b)” substitute “ subsections (1A)(b) and (2)(b) ”.
+
+(5) In subsection (3), for “subsection (2)” substitute “ subsections (1A) and (2) ”.
+
+(6) After subsection (5) insert—
+
+> (6) In relation to a tenancy entered into or adopted by a local housing authority or a housing action trust before the day on which paragraph 4 of Schedule 7 to the Housing and Planning Act 2016 comes fully into force, this section has effect—
+>
+> (a) as if subsection (1A) were omitted, and
+>
+> (b) as if, in subsection (2), the words “in Wales” were omitted.
+
+**21** After section 124 insert—
+
+> **New introductory tenancies in England: overall length**
+>
+> **124A** (1) A local housing authority or a housing action trust may enter into an introductory tenancy of a dwelling-house in England only if it is a tenancy for a fixed term that is—
+>
+> (a) at least 2 years, and
+>
+> (b) no longer than the permitted maximum length.
+>
+> (2) The permitted maximum length is 10 years, unless subsection (3) applies.
+>
+> (3) If the person entering into the tenancy has been notified in writing that a child aged under 9 will live in the dwelling-house, the permitted maximum length is the period—
+>
+> (a) beginning with the day on which the tenancy is entered into, and
+>
+> (b) ending with the day on which the child will reach the age of 19.
+>
+> (4) If a local housing authority or a housing action trust purports to enter into an introductory tenancy in breach of subsection (1), it takes effect as a tenancy for a fixed term of 5 years.
+>
+> (5) In deciding what length of tenancy to enter into in a case to which subsection (1) applies, the local housing authority or housing action trust must have regard to any guidance given by the Secretary of State.
+>
+> (6) Subsections (1) and (4) apply only to tenancies entered into on or after the day on which paragraph 4 of Schedule 7 to the Housing and Planning Act 2016 comes fully into force.
+>
+> (7) A tenancy of a dwelling-house in England that is adopted by a local housing authority or a housing action trust does not become an introductory tenancy if—
+>
+> (a) it is adopted on or after the day on which paragraph 4 of Schedule 7 to the Housing and Planning Act 2016 came fully into force, and
+>
+> (b) the tenancy is a periodic tenancy or it is a tenancy for a fixed term of less than 2 years or more than 5 years.
+>
+> (8) Subsections (9) and (10) apply where a tenancy that has been adopted by a local housing authority or a housing action trust is not an introductory tenancy but would (on adoption or at any later time) become a secure tenancy but for subsection (7).
+>
+> (9) The local housing authority or housing action trust must, within the period of 28 days, make the tenant a written offer of an introductory tenancy in return for the tenant surrendering the original tenancy.
+>
+> (10) If the tenant accepts in writing within the period of 28 days beginning with the day on which the tenant receives the offer, the local housing authority or housing action trust must grant an introductory tenancy on the tenant surrendering the original tenancy.
+>
+> **Review of decisions about length of introductory tenancies in England**
+>
+> **124B** (1) A person who is offered an introductory tenancy of a dwelling-house in England may request a review under this section.
+>
+> (2) The sole purpose of a review under this section is to consider whether the length of the tenancy is in accordance with any policy that the prospective landlord has about the length of introductory tenancies it grants.
+>
+> (3) The request must be made before the end of—
+>
+> (a) the period of 21 days beginning with the day on which the person making the request first receives the offer, or
+>
+> (b) such longer period as the prospective landlord may allow in writing.
+>
+> (4) On receiving the request the prospective landlord must carry out the review.
+>
+> (5) On completing the review the prospective landlord must —
+>
+> (a) notify the tenant in writing of the outcome,
+>
+> (b) revise its offer or confirm its original decision about the length of the tenancy, and
+>
+> (c) if it decides to confirm its original decision, give reasons.
+>
+> (6) The Secretary of State may by regulations make provision about the procedure to be followed in connection with a review under this section.
+>
+> (7) The regulations may, in particular—
+>
+> (a) require the review to be carried out by a person of appropriate seniority who was not involved in the original decision;
+>
+> (b) make provision as to the circumstances in which the person who requested the review is entitled to an oral hearing, and whether and by whom that person may be represented.
+
+**22** (1) Section 125A (extension of trial period by 6 months) is amended as follows.
+
+(2) In subsection (1), for “both” substitute “ each ”.
+
+(3) After subsection (3) insert—
+
+> (3A) The third condition must be met only if the introductory tenancy —
+>
+> (a) is one to which section 124A(1) or (2) applies, or
+>
+> (b) is adopted by a local housing authority or housing action trust on or after the day on which paragraph 4 of Schedule 7 came fully into force.
+>
+> (3B) The third condition is that the new expiry date would be before the period mentioned in section 86A(3) of the Housing Act 1985 (review to determine what to do at end of fixed term secure tenancy); and for this purpose “the new expiry date” means the last day of the 6 month extension period mentioned in subsection (1).
+
+**23** In section 128 (notice of proceedings for possession), in subsection (4), for the second sentence substitute—
+
+> The date so specified—
+>
+> (a) in a case where the introductory tenancy is a periodic tenancy, must not be earlier than the date on which the tenancy could, apart from this Chapter, be brought to an end by notice to quit given by the landlord on the same date as the proceedings, and
+>
+> (b) in a case where the introductory tenancy is a fixed term tenancy, must not be earlier than the end of the period of 6 weeks beginning with the date on which the notice of proceedings is served.
+
+**24** In section 137A (introductory tenancies that are to become flexible tenancies), in subsection (2), for “, before entering into or adopting the introductory tenancy” substitute “ the introductory tenancy was entered into or adopted before the day on which paragraph 4 of Schedule 7 to the Housing and Planning Act 2016 came fully into force and, before entering into or adopting it, ”.
+
+**25** In section 143A (demoted tenancies), in subsection (1), omit “periodic”.
+
+**26** In section 143E (notice of proceedings for possession), for subsection (3) substitute—
+
+> (3) The date specified under subsection (2)(c)—
+>
+> (a) in a case where the demoted tenancy is a periodic tenancy, must not be earlier than the date on which the tenancy could, apart from this Chapter, be brought to an end by notice to quit given by the landlord on the same date as the proceedings, and
+>
+> (b) in a case where the demoted tenancy is a fixed term tenancy, must not be earlier than the end of the period of 6 weeks beginning with the date on which the notice of proceedings is served.
+
+**27** (1) Section 143MA (demoted tenancies that are to become flexible tenancies) is amended as follows.
+
+(2) In subsection (1), for “section 107A of the Housing Act 1985” substitute “ section 115B of the Housing Act 1985 (certain tenancies granted etc before the day on which paragraph 4 of Schedule 7 to the Housing and Planning Act 2016 came fully into force) ”.
+
+(3) After subsection (3) insert—
+
+> (3A) If the notice is given on or after the day on which paragraph 4 of Schedule 7 to the Housing and Planning Act 2016 comes fully into force, the period specified under subsection (3)(b) must be no longer than the permitted maximum length.
+>
+> (3B) The permitted maximum length is 10 years, unless subsection (3C) applies.
+>
+> (3C) If the landlord has been notified in writing that a child aged under 9 will live in the dwelling-house, the permitted maximum length is the period—
+>
+> (a) beginning with the day on which the tenancy becomes a secure tenancy, and
+>
+> (b) ending with the day on which the child will reach the age of 19.
+>
+> (3D) In deciding what length to specify in a notice under paragraph (3)(b) the landlord must have regard to any guidance given by the Secretary of State.
+
+**28** After section 143MA insert—
+
+> **Default flexible tenancies when no notice given under section 143MA**
+>
+> **143MB** (1) This section applies where—
+>
+> (a) a landlord has the power to serve a notice under section 143MA on the tenant under a demoted tenancy but fails to do so, and
+>
+> (b) the tenancy comes to an end on or after the day on which paragraph 4 of Schedule 7 to the Housing and Planning Act 2016 comes fully into force.
+>
+> (2) On ceasing to be a demoted tenancy, the tenancy becomes a secure tenancy for a fixed term of 5 years that is a flexible tenancy.
+>
+> (3) The terms of the new tenancy are the same as those of the tenancy that it replaces, so far as those terms are compatible with—
+>
+> (a) a tenancy for a fixed term of 5 years, and
+>
+> (b) the statutory provisions relating to flexible tenancies (within the meaning given by section 143MA(5).
+
+### Land Registration Act 2002 (c. 9) (prospective)
+
+**29** In section 132 of the Land Registration Act 2002 (interpretation), in subsection (1)—
+
+(a) in the definition of “flexible tenancy”, for “107A” substitute “ 115B ”;
+
+(b) in the definition of “relevant social housing tenancy”, after paragraph (a) (but before the “or” at the end) insert—
+
+> (aa) a secure tenancy of a dwelling-house in England granted on or after the day on which paragraph 4 of Schedule 7 to the Housing and Planning Act 2016 comes fully into force,
+>
+> (ab) an introductory tenancy of a dwelling-house in England granted on or after the day on which paragraph 4 of Schedule 7 to the Housing and Planning Act 2016 comes fully into force,
+
+;
+
+(c) at the appropriate places insert—
+
+> “introductory tenancy” has the same meaning as in Chapter 1 of Part 5 of the Housing Act 1996;
+
+;
+
+> “secure tenancy” has the meaning given by section 79 of the Housing Act 1985;
+
+.
+
+### Localism Act 2011 (c. 20) (prospective)
+
+**30** The Localism Act 2011 (flexible tenancies: other amendments) is amended as follows.
+
+**31** In section 155, omit subsections (3) and (4).
+
+**32** In section 159 (further provisions about transfer of tenancy under section 158), in subsection (6)(b), for “107A” substitute “ 115B ”.
+
+### Savings for flexible tenancies with only 9 months left to run (prospective)
+
+**33** (1) Despite the repeal of sections 107D and 107E of the Housing Act 1985 (flexible tenancies: recovery of possession) by paragraph 14 above, those sections continue to apply in relation to a flexible tenancy the term of which ends within the period of 9 months beginning with the day on which paragraph 4 of this Schedule comes fully into force.
+
+(2) The amendments made by paragraphs 8 and 9 (which replace references to proceedings for possession under section 107D of the Housing Act 1985) do not apply in relation to such a tenancy.
+
+## SCHEDULE 8 — Succession to secure tenancies and related tenancies (prospective)
+
+*Section 120*
+
+### Housing Act 1985 (c. 68) (prospective)
+
+**1** The Housing Act 1985 is amended as follows.
+
+**2** In section 86 (periodic tenancy arising on termination of fixed term), after subsection (1B) (inserted by Schedule 7) insert—
+
+> (1C) This section does not apply to a secure tenancy of a dwelling-house in England if—
+>
+> (a) the original secure tenant has died,
+>
+> (b) the tenancy has been vested in, or otherwise disposed of to, the current tenant in the course of the administration of the original tenant's estate, and
+>
+> (c) the current tenant qualified to succeed the original tenant under section 86G(2) or (4).
+
+**3** (1) Section 86A (persons qualified to succeed: England) as inserted by the Localism Act 2011—
+
+(a) is renumbered section 86G (so that it follows on from section 86F as inserted by Schedule 7 without making the numbering more complex than it has to be), and
+
+(b) is amended as follows.
+
+(2) After subsection (7) insert—
+
+> (8) This section applies to a tenancy that was granted before 1 April 2012, or that arose by virtue of section 86 on the coming to the end of a secure tenancy granted before 1 April 2012, as it applies to a secure tenancy granted on or after that day.
+
+**4** In section 88 (cases where the tenant is a successor), in subsection (1), after paragraph (b) insert—
+
+> (ba) the tenancy arose by virtue of section 89(2A) (fixed term tenancy arising in certain cases following succession to periodic tenancy), or
+
+.
+
+**5** (1) Section 89 (succession to periodic tenancy) is amended as follows.
+
+(2) In subsection (1A), for “section 86A” substitute “ section 86G ”.
+
+(3) After subsection (2) insert—
+
+> (2A) Where the tenancy vests in a person qualified to succeed the tenant under section 86G(2) or (4) and continues to be a secure tenancy—
+>
+> (a) the periodic tenancy (“the old tenancy”) comes to an end immediately after vesting, and
+>
+> (b) a new tenancy of the same dwelling-house arises by virtue of this subsection for a fixed term of 5 years.
+>
+> (2B) The parties and terms of a tenancy arising by virtue of subsection (2A) are the same as those of the tenancy that it replaces, except that the terms are confined to those which are compatible with a tenancy for a fixed term of 5 years.
+>
+> (2C) Where a possession order was in force in relation to the old tenancy—
+>
+> (a) the possession order is to be treated, so far as possible, as if it applied in relation to the new tenancy, and
+>
+> (b) any other court orders made in connection with the possession order are also to be treated, so far as possible, as if they applied in relation to the new tenancy.
+>
+> (2D) In subsection (2C) “possession order” means an order for possession of the dwelling house.
+
+**6** In section 117 (index of defined expressions), in the entry relating to persons qualified to succeed, for “section 87” substitute “ sections 86G and 87 ”.
+
+### Housing Act 1996 (c. 52) (prospective)
+
+**7** Before section 131 (but after the italic heading) insert—
+
+> **Persons qualified to succeed to introductory tenancy: England**
+>
+> **130A** (1) A person is qualified to succeed the tenant under an introductory tenancy of a dwelling-house in England if—
+>
+> (a) the person occupies the dwelling-house as his or her only or principal home at the time of the tenant's death, and
+>
+> (b) the person is the tenant's spouse or civil partner.
+>
+> (2) A person is qualified to succeed the tenant under an introductory tenancy of a dwelling-house in England if—
+>
+> (a) at the time of the tenant's death the dwelling-house is not occupied by a spouse or civil partner of the tenant as his or her only or principal home,
+>
+> (b) an express term of the tenancy makes provision for a person other than such a spouse or civil partner of the tenant to succeed to the tenancy, and
+>
+> (c) the person's succession is in accordance with that term.
+>
+> (3) Subsection (1) or (2) does not apply if the tenant was a successor as defined in section 132.
+>
+> (4) In such a case, a person is qualified to succeed the tenant if—
+>
+> (a) an express term of the tenancy makes provision for a person to succeed a successor to the tenancy, and
+>
+> (b) the person's succession is in accordance with that term.
+>
+> (5) For the purposes of this section a person who was living with the tenant as the tenant's wife or husband is to be treated as the tenant's spouse.
+>
+> (6) Subsection (7) applies if, on the death of the tenant, there is by virtue of subsection (5) more than one person who fulfils the condition in subsection (1)(b).
+>
+> (7) Such one of those persons as may be agreed between them or as may, where there is no such agreement, be selected by the landlord is for the purpose of this section to be treated as the fulfilling that condition.
+
+**8** (1) Section 131 (persons qualified to succeed tenant) is amended as follows.
+
+(2) At the end of the heading for “tenant” substitute “ to introductory tenancy: Wales ”.
+
+(3) After “introductory tenancy” insert “ of a dwelling-house in Wales ”.
+
+**9** (1) Section 133 (succession to introductory tenancy) is amended as follows.
+
+(2) After subsection (1) insert—
+
+> (1A) Where there is a person qualified to succeed the tenant under section 130A, the tenancy vests by virtue of this section—
+>
+> (a) in that person, or
+>
+> (b) if there is more than one such person, in such one of them as may be agreed between them or as may, where there is no agreement, be selected by the landlord.
+
+(3) In subsection (2), after “ “tenant” insert “ under section 131 ”.
+
+**10** Before section 143H (but after the italic heading) insert—
+
+> **Persons qualified to succeed to demoted tenancy: England**
+>
+> **143GA** (1) A person is qualified to succeed the tenant under a demoted tenancy of a dwelling-house in England if—
+>
+> (a) the person occupies the dwelling-house as his or her only or principal home at the time of the tenant's death, and
+>
+> (b) the person is the tenant's spouse or civil partner.
+>
+> (2) A person is qualified to succeed the tenant under a demoted tenancy of a dwelling-house in England if—
+>
+> (a) at the time of the tenant's death the dwelling-house is not occupied by a spouse or civil partner of the tenant as his or her only or principal home,
+>
+> (b) an express term of the tenancy makes provision for a person other than such a spouse or civil partner of the tenant to succeed to the tenancy, and
+>
+> (c) the person's succession is in accordance with that term.
+>
+> (3) Subsection (1) or (2) does not apply if the tenant was a successor as defined in section 132.
+>
+> (4) In such a case, a person is qualified to succeed the tenant if—
+>
+> (a) an express term of the tenancy makes provision for a person to succeed a successor to the tenancy, and
+>
+> (b) the person's succession is in accordance with that term.
+>
+> (5) For the purposes of this section a person who was living with the tenant as the tenant's wife or husband is to be treated as the tenant's spouse.
+>
+> (6) Subsection (7) applies if, on the death of the tenant, there is by virtue of subsection (5) more than one person who fulfils the condition in subsection (1)(b).
+>
+> (7) Such one of those persons as may be agreed between them or as may, where there is no such agreement, be selected by the landlord is for the purpose of this section to be treated as fulfilling that condition.
+>
+> (8) This section applies to a tenancy that became a demoted tenancy before or after Schedule 8 of the Housing Act 2015 comes into force.
+>
+> **Succession to demoted tenancy: England**
+>
+> **143GB** (1) This section applies if the tenant under a demoted tenancy of a dwelling-house in England dies.
+>
+> (2) Where there is a person qualified to succeed the tenant under section 143GA, the tenancy vests by virtue of this section—
+>
+> (a) in that person, or
+>
+> (b) if there is more than one such person, in such one of them as may be agreed between them or as may, where there is no agreement, be selected by the landlord.
+>
+> (3) Where a periodic demoted tenancy vests in a person qualified to succeed the tenant under section 143GA(2) or (4) and continues to be a demoted tenancy—
+>
+> (a) the tenancy comes to an end immediately after vesting, and
+>
+> (b) a new tenancy of the same dwelling-house arises by virtue of this subsection for a fixed term of 5 years.
+>
+> (4) The parties and terms of a tenancy arising by virtue of subsection (3) are the same as those of the tenancy that it replaces, except that the terms are confined to those which are compatible with a tenancy for a fixed term of 5 years.
+>
+> (5) Where a demoted tenancy comes to an end and a new tenancy arises by virtue of subsection (3), as from that time the demotion order is to be treated for all purposes as it had been made in relation to the new tenancy (and the demotion period remains the same).
+
+**11** (1) Section 143H (succession to demoted tenancy) is amended as follows.
+
+(2) At the heading insert “ : Wales ”.
+
+(3) In subsection (1), after “tenancy” insert “ of a dwelling-house in Wales ”.
+
+**12** In section 143I (no successor tenant: termination), after “section” insert “ 143GA or ”.
+
+**13** (1) Section 143J of the Housing Act 1996 (demoted tenancies: successor tenants) is amended as follows.
+
+(2) After subsection (3) insert—
+
+> (3A) The tenancy arose by virtue of section 89(2A) of the Housing Act 1985.
+
+(3) For subsection (7) substitute—
+
+> (7) A person is the successor to a demoted tenancy if—
+>
+> (a) the tenancy vests in the person by virtue of section 143GB(2) or 143H(4) or (5), or
+>
+> (b) the tenancy arose by virtue of section 143GB(3).
+
+### Localism Act 2011 (c. 20) (prospective)
+
+**14** In section 160 of the Localism Act 2011 (succession to secure tenancies), omit subsection (6).
+
+### Savings (prospective)
+
+**15** The amendments made by this Schedule do not apply in relation to cases where the tenant under a secure tenancy dies before it comes into force.
+
+**16** The amendments made by paragraphs 7 and 8 do not apply in relation to an introductory tenancy granted before the day on which this Schedule comes into force.
+
+**17** The amendments made by paragraphs 10 to 13 do not apply in relation to cases where the tenant under a demoted tenancy dies before this Schedule comes into force.
+
+## SCHEDULE 9 — Financial penalty as alternative to prosecution under Housing Act 2004
+
+*Section 126*
+
+**1** The Housing Act 2004 is amended as follows.
+
+**2** In section 30 (offence of failing to comply with improvement notice), after subsection (6) insert—
+
+> (7) See also section 249A (financial penalties as alternative to prosecution for certain housing offences in England).
+>
+> (8) If a local housing authority has imposed a financial penalty on a person under section 249A in respect of conduct amounting to an offence under this section the person may not be convicted of an offence under this section in respect of the conduct.
+
+**3** In section 72 (offences in relation to licensing of HMOs), after subsection (7) insert—
+
+> (7A) See also section 249A (financial penalties as alternative to prosecution for certain housing offences in England).
+>
+> (7B) If a local housing authority has imposed a financial penalty on a person under section 249A in respect of conduct amounting to an offence under this section the person may not be convicted of an offence under this section in respect of the conduct.
+
+**4** In section 95 (offences in relation to licensing of houses under Part 3), after subsection (6) insert—
+
+> (6A) See also section 249A (financial penalties as alternative to prosecution for certain housing offences in England).
+>
+> (6B) If a local housing authority has imposed a financial penalty on a person under section 249A in respect of conduct amounting to an offence under this section the person may not be convicted of an offence under this section in respect of the conduct.
+
+**5** In section 139 (overcrowding notices), after subsection (9) insert—
+
+> (10) See also section 249A (financial penalties as alternative to prosecution for certain housing offences in England).
+>
+> (11) If a local housing authority has imposed a financial penalty on a person under section 249A in respect of conduct amounting to an offence under this section the person may not be convicted of an offence under this section in respect of the conduct.
+
+**6** In section 234 (management regulations in respect of HMOs), after subsection (5) insert—
+
+> (6) See also section 249A (financial penalties as alternative to prosecution for certain housing offences in England).
+>
+> (7) If a local housing authority has imposed a financial penalty on a person under section 249A in respect of conduct amounting to an offence under this section the person may not be convicted of an offence under this section in respect of the conduct.
+
+**7** After section 249 insert—
+
+> **Financial penalties as alternative to prosecution**
+>
+> **Financial penalties for certain housing offences in England**
+>
+> **249A** (1) The local housing authority may impose a financial penalty on a person if satisfied, beyond reasonable doubt, that the person's conduct amounts to a relevant housing offence in respect of premises in England.
+>
+> (2) In this section “relevant housing offence” means an offence under—
+>
+> (a) section 30 (failure to comply with improvement notice),
+>
+> (b) section 72 (licensing of HMOs),
+>
+> (c) section 95 (licensing of houses under Part 3),
+>
+> (d) section 139(7) (failure to comply with overcrowding notice), or
+>
+> (e) section 234 (management regulations in respect of HMOs).
+>
+> (3) Only one financial penalty under this section may be imposed on a person in respect of the same conduct.
+>
+> (4) The amount of a financial penalty imposed under this section is to be determined by the local housing authority, but must not be more than £30,000.
+>
+> (5) The local housing authority may not impose a financial penalty in respect of any conduct amounting to a relevant housing offence if—
+>
+> (a) the person has been convicted of the offence in respect of that conduct, or
+>
+> (b) criminal proceedings for the offence have been instituted against the person in respect of the conduct and the proceedings have not been concluded.
+>
+> (6) Schedule 13A deals with—
+>
+> (a) the procedure for imposing financial penalties,
+>
+> (b) appeals against financial penalties,
+>
+> (c) enforcement of financial penalties, and
+>
+> (d) guidance in respect of financial penalties.
+>
+> (7) The Secretary of State may by regulations make provision about how local housing authorities are to deal with financial penalties recovered.
+>
+> (8) The Secretary of State may by regulations amend the amount specified in subsection (4) to reflect changes in the value of money.
+>
+> (9) For the purposes of this section a person's conduct includes a failure to act.
+
+**8** After Schedule 13 insert—
+
+> **SCHEDULE 13A — Financial penalties under section 249A**
+>
+> *Section 249A*
+>
+> **Notice of intent**
+>
+> **1** Before imposing a financial penalty on a person under section 249A the local housing authority must give the person notice of the authority's proposal to do so (a “notice of intent”).
+>
+> **2** (1) The notice of intent must be given before the end of the period of 6 months beginning with the first day on which the authority has sufficient evidence of the conduct to which the financial penalty relates.
+>
+> (2) But if the person is continuing to engage in the conduct on that day, and the conduct continues beyond the end of that day, the notice of intent may be given—
+>
+> (a) at any time when the conduct is continuing, or
+>
+> (b) within the period of 6 months beginning with the last day on which the conduct occurs.
+>
+> (3) For the purposes of this paragraph a person's conduct includes a failure to act.
+>
+> **3** The notice of intent must set out—
+>
+> (a) the amount of the proposed financial penalty,
+>
+> (b) the reasons for proposing to impose the financial penalty, and
+>
+> (c) information about the right to make representations under paragraph 4.
+>
+> **Right to make representations**
+>
+> **4** (1) A person who is given a notice of intent may make written representations to the local housing authority about the proposal to impose a financial penalty.
+>
+> (2) Any representations must be made within the period of 28 days beginning with the day after that on which the notice was given (“the period for representations”).
+>
+> **Final notice**
+>
+> **5** After the end of the period for representations the local housing authority must—
+>
+> (a) decide whether to impose a financial penalty on the person, and
+>
+> (b) if it decides to impose a financial penalty, decide the amount of the penalty.
+>
+> **6** If the authority decides to impose a financial penalty on the person, it must give the person a notice (a “final notice”) imposing that penalty.
+>
+> **7** The final notice must require the penalty to be paid within the period of 28 days beginning with the day after that on which the notice was given.
+>
+> **8** The final notice must set out—
+>
+> (a) the amount of the financial penalty,
+>
+> (b) the reasons for imposing the penalty,
+>
+> (c) information about how to pay the penalty,
+>
+> (d) the period for payment of the penalty,
+>
+> (e) information about rights of appeal, and
+>
+> (f) the consequences of failure to comply with the notice.
+>
+> **Withdrawal or amendment of notice**
+>
+> **9** (1) A local housing authority may at any time—
+>
+> (a) withdraw a notice of intent or final notice, or
+>
+> (b) reduce the amount specified in a notice of intent or final notice.
+>
+> (2) The power in sub-paragraph (1) is to be exercised by giving notice in writing to the person to whom the notice was given.
+>
+> **Appeals**
+>
+> **10** (1) A person to whom a final notice is given may appeal to the First-tier Tribunal against—
+>
+> (a) the decision to impose the penalty, or
+>
+> (b) the amount of the penalty.
+>
+> (2) If a person appeals under this paragraph, the final notice is suspended until the appeal is finally determined or withdrawn.
+>
+> (3) An appeal under this paragraph—
+>
+> (a) is to be a re-hearing of the local housing authority's decision, but
+>
+> (b) may be determined having regard to matters of which the authority was unaware.
+>
+> (4) On an appeal under this paragraph the First-tier Tribunal may confirm, vary or cancel the final notice.
+>
+> (5) The final notice may not be varied under sub-paragraph (4) so as to make it impose a financial penalty of more than the local housing authority could have imposed.
+>
+> **Recovery of financial penalty**
+>
+> **11** (1) This paragraph applies if a person fails to pay the whole or any part of a financial penalty which, in accordance with this Schedule, the person is liable to pay.
+>
+> (2) The local housing authority which imposed the financial penalty may recover the penalty or part on the order of the county court as if it were payable under an order of that court.
+>
+> (3) In proceedings before the county court for the recovery of a financial penalty or part of a financial penalty, a certificate which is—
+>
+> (a) signed by the chief finance officer of the local housing authority which imposed the penalty, and
+>
+> (b) states that the amount due has not been received by a date specified in the certificate,
+>
+> is conclusive evidence of that fact.
+>
+> (4) A certificate to that effect and purporting to be so signed is to be treated as being so signed unless the contrary is proved.
+>
+> (5) In this paragraph “chief finance officer” has the same meaning as in section 5 of the Local Government and Housing Act 1989.
+>
+> **Guidance**
+>
+> **12** A local housing authority must have regard to any guidance given by the Secretary of State about the exercise of its functions under this Schedule or section 249A.
+
+## SCHEDULE 10 — Enfranchisement and extension of long leaseholds: calculations
+
+*Section 136*
+
+### Leasehold Reform Act 1967
+
+**1** (1) In Schedule 1 to the Leasehold Reform Act 1967 (enfranchisement and extension by sub-tenants), paragraph 7A is amended as follows.
+
+(2) For sub-paragraph (1) substitute—
+
+> (1) The price payable for a minor superior tenancy is to be calculated in accordance with regulations made by the appropriate national authority instead of in accordance with section 9.
+
+(3) Omit sub-paragraphs (5) and (6).
+
+(4) At the end insert—
+
+> (7) In sub-paragraph (1) “appropriate national authority” means—
+>
+> (a) in relation to a tenancy of land in England, the Secretary of State;
+>
+> (b) in relation to a tenancy of land in Wales, the Welsh Ministers.
+>
+> (8) Regulations under sub-paragraph (1) may include transitional provision.
+>
+> (9) Regulations under sub-paragraph (1) are to be made by statutory instrument.
+>
+> (10) A statutory instrument containing regulations under sub-paragraph (1) is subject to annulment—
+>
+> (a) in the case of an instrument made by the Secretary of State, in pursuance of a resolution of either House of Parliament;
+>
+> (b) in the case of an instrument made by the Welsh Ministers, in pursuance of a resolution of the National Assembly for Wales.
+
+(5) The amendments made by this paragraph apply to cases where the relevant time is—
+
+(a) before this Act is passed, but
+
+(b) on or after 11 July 2015,
+
+as well as to cases where the relevant time is after this Act is passed.
+
+(6) The “relevant time” has the meaning given by section 37(1)(d) of the Leasehold Reform Act 1967.
+
+### Leasehold Reform, Housing and Urban Development Act 1993
+
+**2** The Leasehold Reform, Housing and Urban Development Act 1993 is amended as follows.
+
+**3** (1) Section 100 (orders and regulations) is amended as follows.
+
+(2) In subsection (1), after “Secretary of State” insert “ or the Welsh Ministers ”.
+
+(3) After subsection (2) insert—
+
+> (3) Any power of the Welsh Ministers to make regulations under this Part shall be exercisable by statutory instrument which (except in the case of regulations making only such provision as is mentioned in section 99(6)) shall be subject to annulment in pursuance of a resolution of the National Assembly for Wales.
+
+**4** (1) In Schedule 6, paragraph 7 is amended as follows.
+
+(2) For sub-paragraph (2) substitute—
+
+> (2) The value of an intermediate leasehold interest which is the interest of the tenant under a minor intermediate lease is to be calculated in accordance with regulations made by the appropriate national authority instead of in accordance with sub-paragraph (1).
+
+(3) In sub-paragraph (4)—
+
+(a) for “formula set out in sub-paragraph (7)” substitute “ calculation method mentioned in sub-paragraph (2) ”;
+
+(b) for “by so applying the formula” substitute “ in accordance with that method ”.
+
+(4) Omit sub-paragraphs (7) and (8).
+
+(5) After sub-paragraph (10) insert—
+
+> (11) In sub-paragraph (2) “appropriate national authority” means—
+>
+> (a) in relation to a leasehold interest of land in England, the Secretary of State;
+>
+> (b) in relation to a leasehold interest of land in Wales, the Welsh Ministers.
+
+(6) The amendments made by this paragraph apply to cases where the relevant date is—
+
+(a) before this Act is passed, but
+
+(b) on or after 11 July 2015,
+
+as well as to cases where the relevant date is after this Act is passed.
+
+(7) The “relevant date” has the meaning given by section 1(8) of the Leasehold Reform, Housing and Urban Development Act 1993.
+
+**5** (1) In Schedule 13 (premium and other amounts payable by tenant on grant of new lease), paragraph 8 is amended as follows.
+
+(2) For sub-paragraph (2) substitute—
+
+> (2) The value of an intermediate leasehold interest which is the interest of the tenant under a minor intermediate lease is to be calculated in accordance with regulations made by the appropriate national authority instead of in accordance with sub-paragraph (1).
+
+(3) Omit sub-paragraphs (6) and (7).
+
+(4) After sub-paragraph (9) insert—
+
+> (10) In sub-paragraph (2) “appropriate national authority” means—
+>
+> (a) in relation to a leasehold interest of land in England, the Secretary of State;
+>
+> (b) in relation to a leasehold interest of land in Wales, the Welsh Ministers.
+
+(5) The amendments made by this paragraph apply to cases where the relevant date is—
+
+(a) before this Act is passed, but
+
+(b) on or after 11 July 2015,
+
+as well as to cases where the relevant date is after this Act is passed.
+
+(6) The “relevant date” has the meaning given by section 39(8) of the Leasehold Reform, Housing and Urban Development Act 1993.
+
+## SCHEDULE 11 — Default powers exercisable by Mayor of London or combined authority: Schedule to be inserted in the Planning and Compulsory Purchase Act 2004
+
+*Section 147*
+
+> **SCHEDULE 1 — Default powers exercisable by Mayor of London or combined authority**
+>
+> *Section 27A*
+>
+> **Default powers exercisable by Mayor of London**
+>
+> **1** If the Secretary of State—
+>
+> (a) thinks that a London borough council, in their capacity as local planning authority, are failing or omitting to do anything it is necessary for them to do in connection with the preparation, revision or adoption of a development plan document, and
+>
+> (b) invites the Mayor of London to prepare or revise the document,
+>
+> the Mayor of London may prepare or revise (as the case may be) the development plan document.
+>
+> **2** (1) This paragraph applies where a development plan document is prepared or revised by the Mayor of London under paragraph 1.
+>
+> (2) The Mayor of London must hold an independent examination.
+>
+> (3) The Mayor of London—
+>
+> (a) must publish the recommendations and reasons of the person appointed to hold the examination, and
+>
+> (b) may also give directions to the council in relation to publication of those recommendations and reasons.
+>
+> (4) The Mayor of London may—
+>
+> (a) approve the document, or approve it subject to specified modifications, as a local development document, or
+>
+> (b) direct the council to consider adopting the document by resolution of the council as a local development document.
+>
+> **3** (1) Subsections (4) to (7C) of section 20 apply to an examination held under paragraph 2(2)—
+>
+> (a) with the reference to the local planning authority in subsection (7C) of that section being read as a reference to the Mayor of London, and
+>
+> (b) with the omission of subsections (5)(c), (7)(b)(ii) and (7B)(b).
+>
+> (2) The Mayor of London must give reasons for anything he does in pursuance of paragraph 1 or 2(4).
+>
+> (3) The council must reimburse the Mayor of London—
+>
+> (a) for any expenditure that the Mayor incurs in connection with anything which is done by him under paragraph 1 and which the council failed or omitted to do as mentioned in that paragraph;
+>
+> (b) for any expenditure that the Mayor incurs in connection with anything which is done by him under paragraph 2(2).
+>
+> **Default powers exercisable by combined authority**
+>
+> **4** In this Schedule—
+>
+> - “combined authority” means a combined authority established under section 103 of the Local Democracy, Economic Development and Construction Act 2009;
+>
+> - “constituent planning authority”, in relation to a combined authority, means—
+>
+>   - (a) a county council, metropolitan district council or non-metropolitan district council which is the local planning authority for an area within the area of the combined authority, or
+>   - (b) a joint committee established under section 29 whose area is within, or the same as, the area of the combined authority.
+>
+> **5** If the Secretary of State—
+>
+> (a) thinks that a constituent planning authority are failing or omitting to do anything it is necessary for them to do in connection with the preparation, revision or adoption of a development plan document, and
+>
+> (b) invites the combined authority to prepare or revise the document,
+>
+> the combined authority may prepare or revise (as the case may be) the development plan document.
+>
+> **6** (1) This paragraph applies where a development plan document is prepared or revised by a combined authority under paragraph 5.
+>
+> (2) The combined authority must hold an independent examination.
+>
+> (3) The combined authority—
+>
+> (a) must publish the recommendations and reasons of the person appointed to hold the examination, and
+>
+> (b) may also give directions to the constituent planning authority in relation to publication of those recommendations and reasons.
+>
+> (4) The combined authority may—
+>
+> (a) approve the document, or approve it subject to specified modifications, as a local development document, or
+>
+> (b) direct the constituent planning authority to consider adopting the document by resolution of the authority as a local development document.
+>
+> **7** (1) Subsections (4) to (7C) of section 20 apply to an examination held under paragraph 6(2)—
+>
+> (a) with the reference to the local planning authority in subsection (7C) of that section being read as a reference to the combined authority, and
+>
+> (b) with the omission of subsections (5)(c), (7)(b)(ii) and (7B)(b).
+>
+> (2) The combined authority must give reasons for anything they do in pursuance of paragraph 5 or 6(4).
+>
+> (3) The constituent planning authority must reimburse the combined authority—
+>
+> (a) for any expenditure that the combined authority incur in connection with anything which is done by them under paragraph 5 and which the constituent planning authority failed or omitted to do as mentioned in that paragraph;
+>
+> (b) for any expenditure that the combined authority incur in connection with anything which is done by them under paragraph 6(2).
+>
+> **Intervention by Secretary of State**
+>
+> **8** (1) This paragraph applies to a development plan document that has been prepared or revised—
+>
+> (a) under paragraph 1 by the Mayor of London, or
+>
+> (b) under paragraph 5 by a combined authority.
+>
+> (2) If the Secretary of State thinks that a development plan document to which this paragraph applies is unsatisfactory—
+>
+> (a) he may at any time before the document is adopted under section 23, or approved under paragraph 2(4)(a) or 6(4)(a), direct the Mayor of London or the combined authority to modify the document in accordance with the direction;
+>
+> (b) if he gives such a direction he must state his reasons for doing so.
+>
+> (3) Where a direction is given under sub-paragraph (2)—
+>
+> (a) the Mayor of London or the combined authority must comply with the direction;
+>
+> (b) the document must not be adopted or approved unless the Secretary of State gives notice that the direction has been complied with.
+>
+> (4) Sub-paragraph (3) does not apply if or to the extent that the direction under sub-paragraph (2) is withdrawn by the Secretary of State.
+>
+> (5) At any time before a development plan document to which this paragraph applies is adopted under section 23, or approved under paragraph 2(4)(a) or 6(4)(a), the Secretary of State may direct that the document (or any part of it) is submitted to him for his approval.
+>
+> (6) In relation to a document or part of a document submitted to him under sub-paragraph (5) the Secretary of State—
+>
+> (a) may approve the document or part;
+>
+> (b) may approve it subject to specified modifications;
+>
+> (c) may reject it.
+>
+> The Secretary of State must give reasons for his decision under this sub-paragraph.
+>
+> (7) The Secretary of State may at any time—
+>
+> (a) after a development plan document to which this paragraph applies has been submitted for independent examination, but
+>
+> (b) before it is adopted under section 23 or approved under paragraph 2(4)(a) or 6(4)(a),
+>
+> direct the Mayor of London or the combined authority to withdraw the document.
+>
+> **9** (1) This paragraph applies if the Secretary of State gives a direction under paragraph 8(5).
+>
+> (2) No steps are to be taken in connection with the adoption or approval of the document until the Secretary of State gives his decision, or withdraws the direction.
+>
+> (3) If the direction is given, and not withdrawn, before the document has been submitted for independent examination, the Secretary of State must hold an independent examination.
+>
+> (4) If the direction—
+>
+> (a) is given after the document has been submitted for independent examination but before the person appointed to carry out the examination has made his recommendations, and
+>
+> (b) is not withdrawn before those recommendations are made,
+>
+> the person must make his recommendations to the Secretary of State.
+>
+> (5) The document has no effect unless the document or (as the case may be) the relevant part of it has been approved by the Secretary of State, or the direction is withdrawn.
+>
+> The “relevant part” is the part of the document that—
+>
+> (a) is covered by a direction under paragraph 8(5) which refers to only part of the document, or
+>
+> (b) continues to be covered by a direction under paragraph 8(5) following the partial withdrawal of the direction.
+>
+> (6) The Secretary of State must publish the recommendations made to him by virtue of sub-paragraph (3) or (4) and the reasons of the person making the recommendations.
+>
+> (7) In considering a document or part of a document submitted under paragraph 8(5) the Secretary of State may take account of any matter which he thinks is relevant.
+>
+> (8) It is immaterial whether any such matter was taken account of by the Mayor of London or the combined authority.
+>
+> **10** Subsections (4) to (7C) of section 20 apply to an examination held under paragraph 9(3)—
+>
+> (a) with the reference to the local planning authority in subsection (7C) of that section being read as a reference to the Secretary of State, and
+>
+> (b) with the omission of subsections (5)(c), (7)(b)(ii) and (7B)(b).
+>
+> **11** In the exercise of any function under paragraph 8 or 9 the Secretary of State must have regard to the local development scheme.
+>
+> **12** The Mayor of London or the combined authority must reimburse the Secretary of State for any expenditure incurred by the Secretary of State under paragraph 8 or 9 that is specified in a notice given by him to the Mayor or the authority.
+>
+> **Temporary direction pending possible use of intervention powers**
+>
+> **13** (1) If the Secretary of State is considering whether to give a direction to the Mayor of London or a combined authority under paragraph 8 in relation to a development plan document, he may direct the Mayor or the authority not to take any step in connection with the adoption or approval of the document—
+>
+> (a) until the time (if any) specified in the direction, or
+>
+> (b) until the direction is withdrawn.
+>
+> (2) A document to which a direction under this paragraph relates has no effect while the direction is in force.
+>
+> (3) A direction given under this paragraph in relation to a document ceases to have effect if a direction is given under paragraph 8 in relation to that document.
+
+## SCHEDULE 12 — Permission in principle for development of land: minor and consequential amendments
+
+*Section 150*
+
+### Town and Country Planning Act 1990 (c. 8)
+
+**1** The Town and Country Planning Act 1990 is amended as follows.
+
+**2** In section 2A (the Mayor of London: applications of potential strategic importance), in subsections (1)(a) and (1B), after “planning permission” insert “ or permission in principle ”.
+
+**3** In the heading before section 61W, after “planning permission” insert “ or permission in principle ”.
+
+**4** In section 61W (requirement to carry out pre-application consultation), in subsection (1)(a), after “planning permission” insert “ , or permission in principle, ”.
+
+**5** In section 61X (duty to take account of responses to consultation), in subsection (1)(a) and (b), after “planning permission” insert “ or permission in principle ”.
+
+**6** In section 61Y (power to make supplementary provision), in subsection (1), after “planning permission” insert “ or permission in principle ”.
+
+**7** In the heading before section 62, after “planning permission” insert “ or permission in principle ”.
+
+**8** (1) Section 62 (applications for planning permission) is amended as follows.
+
+(2) In the heading and in subsection (1), after “planning permission” insert “ or permission in principle ”.
+
+(3) In subsection (7)—
+
+(a) after “the application for planning permission” insert “ or permission in principle ”;
+
+(b) in paragraphs (a) and (b), after “planning permission” insert “ or permission in principle ”.
+
+**9** In section 65 (notice etc of applications for planning permission), in the heading and in subsections (1)(a), (3), (5) and (8), after “planning permission” insert “ or permission in principle ”.
+
+**10** In section 69 (register of applications etc), after paragraph (a) of subsection (1) insert—
+
+> (aza) applications for permission in principle;
+
+.
+
+**11** (1) Section 70 (determination of applications: general considerations) is amended as follows.
+
+(2) In subsection (2), for “such an application” substitute “ an application for planning permission or permission in principle ”.
+
+(3) In subsection (2A), for “Subsection (2)(b) does not” substitute “ Subsections (1A), (2)(b) and (2ZZA) to (2ZZC) do not ”.
+
+**12** (1) Section 70A (power to decline to determine subsequent application) is amended as follows.
+
+(2) In subsection (5), after paragraph (a) insert—
+
+> (aa) an application for permission in principle for the development of any land;
+
+.
+
+(3) In subsection (8), for “An application for planning permission is similar” substitute “ Subject to subsection (9), an application is similar ”.
+
+(4) After that subsection insert—
+
+> (9) An application within subsection (5)(a) or (b) is not similar to an earlier application within subsection (5)(aa).
+
+**13** (1) Section 70B (power to decline to determine overlapping application) is amended as follows.
+
+(2) In subsections (1) and (4A), after “planning permission” insert “ , or permission in principle, ”.
+
+(3) In subsection (5) omit “for planning permission”.
+
+**14** In section 70C (power to decline to determine retrospective application), in subsections (1) and (2), after “for planning permission” insert “ or permission in principle ”.
+
+**15** In section 71 (consultation in connection with determinations under section 70), in subsection (1), after “planning permission” insert “ or permission in principle ”.
+
+**16** In section 71A (assessment of environmental effects), in subsection (1), after “planning permission” insert “ , or permission in principle, ”.
+
+**17** (1) Section 74 (directions etc as to method of dealing with applications) is amended as follows.
+
+(2) In subsection (1)—
+
+(a) after “applications for planning permission” insert “ , or permission in principle, ”;
+
+(b) in paragraphs (a), (c), (d) and (f), after “planning permission” insert “ or permission in principle ”;
+
+(c) in paragraph (b), after “planning permission” insert “ , or permission in principle, ”.
+
+(3) In subsection (1B)—
+
+(a) in paragraph (a), after “planning permission” insert “ , or permission in principle, ”;
+
+(b) in paragraph (c), after “planning permission” insert “ or permission in principle ”.
+
+**18** In section 76C (provisions applying to applications made under section 62A), after subsection (2) insert—
+
+> (2A) Sections 65(5) and 70 to 70C apply, with any necessary modifications, to an application for permission in principle made to the Secretary of State under section 62A as they apply to an application for permission in principle which is to be determined by the local planning authority.
+>
+> (2B) Any requirements imposed by a development order by virtue of section 62(1), (2) or (8), 65 or 71 or paragraph 8(6) of Schedule 1 may be applied by a development order, with or without modifications, to an application for permission in principle made to the Secretary of State under section 62A.
+
+**19** In section 76D (deciding applications made under section 62A), in subsection (3), after “planning permission” insert “ or permission in principle ”.
+
+**20** (1) Section 77 (references of applications to Secretary of State) is amended as follows.
+
+(2) In subsection (1), after “planning permission” insert “ or permission in principle ”.
+
+(3) In subsection (4)—
+
+(a) for “subsection (5), where” substitute
+
+> subsection (5)—
+>
+> (a) where
+
+;
+
+(b) for “local planning authority and” substitute
+
+> local planning authority;
+>
+> (b) where an application for permission in principle is referred to the Secretary of State under this section, section 70 shall apply, with any necessary modifications, as it applies to such an application which falls to be determined by the local planning authority;
+>
+> and
+
+.
+
+**21** In section 78 (right of appeal against planning decisions and failure to take such decision), in subsection (1), after paragraph (a) insert—
+
+> (aa) refuse an application for permission in principle;
+
+.
+
+**22** (1) Section 78A (appeal made: functions of local planning authorities) is amended as follows.
+
+(2) In subsection (1), after “section 78(1)(a)” insert “ or (aa) ”.
+
+(3) In subsection (4), for “to grant the application” substitute “ to grant an application mentioned in section 78(1)(a) ”.
+
+**23** (1) Section 79 (determination of appeals) is amended as follows.
+
+(2) In subsection (4)—
+
+(a) for “subsection (2), the provisions of sections” substitute
+
+> subsection (2)—
+>
+> (a) sections
+
+;
+
+(b) after “under section 78” insert “ in respect of an application within section 78(1)(a), (b) or (c) ”;
+
+(c) for “local planning authority and” substitute
+
+> local planning authority;
+>
+> (b) section 70 shall apply, with any necessary modifications, in relation to an appeal to the Secretary of State under section 78 in respect of an application for permission in principle as it applies in relation to such an application which falls to be determined by the local planning authority;
+>
+> and
+
+.
+
+(3) After subsection (6) insert—
+
+> (6ZA) If, before or during the determination of such an appeal in respect of an application for permission in principle to develop land, the Secretary of State forms the opinion that, having regard to the provisions of section 70 and the development order, permission in principle for that development could not have been granted by the local planning authority, he may decline to determine the appeal or to proceed with the determination.
+
+**24** In the heading before section 97, after “planning permission” insert “ or permission in principle ”.
+
+**25** (1) Section 97 (power to revoke or modify planning permission) is amended as follows.
+
+(2) In the heading, at the end insert “ or permission in principle ”.
+
+(3) In subsection (1), for the words from “modify” to “the authority” substitute
+
+> modify—
+>
+> (a) any permission (including permission in principle) to develop land granted on an application made under this Part, or
+>
+> (b) any permission in principle granted by a development order,
+>
+> the authority
+
+.
+
+(4) In subsection (3)(a) and (b), for “where the permission” substitute “ in the case of planning permission that ”.
+
+(5) In subsection (4), for “permission” substitute “ planning permission ”.
+
+**26** In section 99 (procedure for section 97 orders: unopposed cases), in subsection (8)(a), after “planning permission” insert “ or permission in principle ”.
+
+**27** (1) In section 106BB (duty to notify the Mayor of London of certain applications under section 106BA), in paragraphs (a), (b) and (c) of subsection (1), for “planning permission” substitute “ permission ”.
+
+(2) At the end of that subsection insert—
+
+> In this subsection, “permission” means planning permission or permission in principle.
+
+**28** (1) Section 107 (compensation where planning permission revoked or modified) is amended as follows.
+
+(2) In the heading, after “planning permission” insert “ or permission in principle ”.
+
+(3) In subsection (1)—
+
+(a) after “planning permission” insert “ or permission in principle ”;
+
+(b) or “section 97” substitute “section 97(1)(a)”.
+
+(4) In subsections (2) and (3), for “this section” substitute “ subsection (1) ”.
+
+(5) In subsection (4)—
+
+(a) for “this section” substitute “ subsection (1) ”;
+
+(b) for “consisting” substitute “ that is attributable to the revocation or modification of planning permission and consists ”.
+
+(6) After that subsection insert—
+
+> (4A) A development order may make provision for the payment of compensation, in such circumstances and subject to such conditions as may be prescribed in the order, where permission in principle is revoked or modified by an order under section 97(1)(b).
+
+**29** (1) Section 108 (compensation for refusal or conditional grant of planning permission formerly granted by development order etc) is amended as follows.
+
+(2) In the heading, after “planning permission” insert “ etc ”.
+
+(3) After subsection (2A) insert—
+
+> (2B) Where—
+>
+> (a) permission in principle granted by a development order is withdrawn by the revocation or amendment of the order, and
+>
+> (b) on an application made under Part 3 or section 293A before the end of the period of 12 months beginning with the date on which the revocation or amendment came into operation, permission in principle is refused for development of a description that is the same as, or falls within, that to which the withdrawn permission in principle related,
+>
+> section 107 shall apply as if the permission in principle granted by the development order had been granted by the local planning authority under Part 3 or section 293A, and had been revoked or modified by an order under section 97.
+
+(4) In subsection (3), after “planning permission” insert “ , or permission in principle, ”.
+
+(5) In subsections (3B)(a) and (3C)(a), after “planning permission” insert “ or permission in principle ”.
+
+(6) In subsection (3C)(b), for “planning permission” substitute “ permission ”.
+
+(7) In subsection (3C)(d), before “either” insert “ where the development order granted planning permission, ”.
+
+**30** In section 109 (apportionment of compensation for depreciation), in the definition of “relevant planning decision” in subsection (6), for “by which planning permission is refused, or is granted” substitute “ by which planning permission or permission in principle is refused, or by which planning permission is granted ”.
+
+**31** In section 284 (validity of development plans and certain orders, decisions and directions), in subsection (3)(i), after “planning permission” insert “ or permission in principle ”.
+
+**32** In section 286 (challenges to validity on ground of authority's powers), in subsections (1)(a) and (2), after “planning permission” insert “ or permission in principle ”.
+
+**33** In section 293 (application to Crown: definitions), in subsection (2A), after “planning permission” insert “ or permission in principle ”.
+
+**34** (1) Section 293A (urgent Crown development: application) is amended as follows.
+
+(2) In subsection (2), after “planning permission” (in both places) insert “ or permission in principle ”.
+
+(3) In subsection (4)(a), after “planning permission” insert “ , or (as the case may be) permission in principle, ”.
+
+**35** (1) Section 298A (application for planning permission by Crown) is amended as follows.
+
+(2) In the heading, after “planning permission” insert “ etc ”.
+
+(3) In subsection (1), after “for planning permission” insert “ , for permission in principle ”.
+
+**36** In section 303 (fees for planning applications etc), in subsection (4), after “planning permission” insert “ or permission in principle ”.
+
+**37** In section 316 (land of interested planning authorities and development by them), for subsection (7) substitute—
+
+> (7) This section applies—
+>
+> (a) to permission in principle to develop any land, and
+>
+> (b) to any consent required in respect of any land,
+>
+> as it applies to planning permission to develop land.
+
+**38** In section 322B (local inquiries in London: special provision as to costs in certain cases)—
+
+(a) in subsection (1)(a),
+
+(b) in paragraph (a) of the subsection set out in subsection (5), and
+
+(c) in paragraph (a) of the subsection set out in subsection (6),
+
+after “planning permission” insert “ or permission in principle ”.
+
+**39** In section 332 (combined applications), in subsection (1)(a), after “planning permission” insert “ , or permission in principle, ”.
+
+**40** (1) In section 336 (interpretation), subsection (1) is amended as follows.
+
+(2) At the appropriate place insert—
+
+> “permission in principle” means permission of the kind referred to in section 58A;
+
+.
+
+(3) At the end of the definition of “planning permission” insert “ but does not include permission in principle ”.
+
+**41** (1) Schedule 1 (local planning authorities: distribution of functions) is amended as follows.
+
+(2) In paragraph 3(1)(a), after “planning permission” insert “ or permission in principle ”.
+
+(3) In paragraph 4(2), after “application for planning permission” insert “ or permission in principle ”.
+
+(4) In paragraphs 7(1), 8(1) and 8(2)(b)(i), 11(1)(a), 16(2)(a) and 18, after “planning permission” insert “ or permission in principle ”.
+
+### Planning (Listed Buildings and Conservation Areas) Act 1990 (c. 9)
+
+**42** (1) In section 66 of the Planning (Listed Buildings and Conservation Areas) Act 1990 (general duty as respects listed buildings in exercise of planning functions) in subsection (1), after “planning permission” insert “ or permission in principle ”.
+
+**43** In section 91(2) of that Act (expressions that have the same meaning as in the principal Act), at the appropriate place insert—
+
+> permission in principle
+
+.
+
+### Commons Act 2006 (c. 26)
+
+**44** (1) Schedule 1A to the Commons Act 2006 (exclusion of right under section 15) is amended as follows.
+
+(2) In the first column of the Table, in paragraphs 1 and 2, after “An application for planning permission” insert “ , or permission in principle, ”.
+
+(3) In the second column of the Table, in paragraphs 1(c) and 2(c), after “planning permission” insert “ or permission in principle ”.
+
+## SCHEDULE 13 — Resolution of disputes about planning obligations: Schedule to be inserted in the Town and Country Planning Act 1990 (prospective)
+
+*Section 158*
+
+> **SCHEDULE 9A — Resolution of disputes about planning obligations**
+>
+> *Section 106ZA*
+>
+> **Appointment of person to help resolve disputes**
+>
+> **1** (1) This paragraph applies where—
+>
+> (a) a person (“the applicant”) has made an application for planning permission or an application of a prescribed description (“the application”) to a local planning authority in England,
+>
+> (b) there are unresolved issues regarding what should be the terms of any section 106 instrument, and
+>
+> (c) any prescribed conditions are met.
+>
+> (2) The Secretary of State must (subject to sub-paragraphs (6) to (8)) appoint a person to help with the resolution of the unresolved issues if—
+>
+> (a) the Secretary of State thinks that the local planning authority would be likely to grant the application if satisfactory planning obligations were entered into, but not otherwise, and
+>
+> (b) sub-paragraph (3), (4) or (5) applies.
+>
+> (3) This sub-paragraph applies where the applicant or the authority requests the Secretary of State to make an appointment.
+>
+> (4) This sub-paragraph applies where—
+>
+> (a) a person of a prescribed description requests the Secretary of State to make an appointment, and
+>
+> (b) any prescribed requirements as to the consent of the applicant or the authority are satisfied.
+>
+> (5) This sub-paragraph applies where—
+>
+> (a) regulations require an appointment to be made, in prescribed circumstances, if the unresolved issues have not been resolved by the end of a prescribed period,
+>
+> (b) the circumstances are as prescribed, and
+>
+> (c) the unresolved issues have not been resolved by the end of that period.
+>
+> (6) The Secretary of State may decline to make an appointment in prescribed circumstances.
+>
+> (7) Regulations must provide that—
+>
+> (a) no appointment is to be made under this paragraph before the end of a prescribed period;
+>
+> (b) no appointment is to be made in response to a request under sub-paragraph (3) or (4) if the request is withdrawn before the end of that period.
+>
+> (8) No request may be made under sub-paragraph (3) or (4), and sub-paragraph (5) does not apply—
+>
+> (a) if the application has been referred to the Secretary of State under section 77;
+>
+> (b) if the applicant has appealed to the Secretary of State under section 78(2) in respect of the application;
+>
+> (c) if the applicant has made an application to the court, which has not been disposed of, in respect of it;
+>
+> (d) in such other circumstances as may be prescribed.
+>
+> **Co-operation etc with person appointed under paragraph 1**
+>
+> **2** Where a person is appointed under paragraph 1 the parties must—
+>
+> (a) co-operate with the person;
+>
+> (b) comply with any reasonable requests by the person to provide information or documents or to take part in meetings.
+>
+> **Report by appointed person**
+>
+> **3** (1) A person appointed under paragraph 1 must prepare a report and send it to the parties.
+>
+> (2) The report must—
+>
+> (a) identify the unresolved issues;
+>
+> (b) indicate the steps taken since the person's appointment to try to resolve those issues.
+>
+> (3) If—
+>
+> (a) agreement is reached between the local planning authority and those who are proposing to enter into planning obligations, before the report is sent to the parties, on what are to be the terms of the section 106 instrument, and
+>
+> (b) the appointed person is aware of the agreement,
+>
+> the report must set out the terms agreed.
+>
+> (4) Where sub-paragraph (3) does not apply, the report must set out the appointed person's recommendations as to what terms would be appropriate.
+>
+> (5) In deciding what recommendations to make under sub-paragraph (4), the appointed person must have regard to any template or model for section 106 instruments that is published by the Secretary of State.
+>
+> (6) The local planning authority must publish the report in accordance with any provision made by regulations about the manner and time of publication.
+>
+> **Temporary prohibition on refusal or appeal**
+>
+> **4** (1) Where paragraph 1(3), (4) or (5) applies, the applicant may not appeal to the Secretary of State under section 78(2) in relation to the application before—
+>
+> (a) the resolution process has come to an end, and
+>
+> (b) the applicant has paid any fees or costs that the applicant is required to pay by virtue of paragraph 10(3) or (4)(c).
+>
+> (2) Where paragraph 1(3), (4) or (5) applies and the local planning authority are minded to refuse the application, they may not do so before—
+>
+> (a) the resolution process has come to an end, and
+>
+> (b) the authority have paid any fees or costs that they are required to pay by virtue of paragraph 10(3) or (4)(c).
+>
+> (3) For the purposes of this paragraph, the resolution process comes to an end—
+>
+> (a) on the expiry of the period prescribed under paragraph 1(7), if paragraph 1(5) does not apply and the request under paragraph 1(3) or (4) is withdrawn (or, where more than one such request has been made, they are all withdrawn) before the end of that period;
+>
+> (b) when the Secretary of State declines to appoint a person under paragraph 1, if the Secretary of State declines to make an appointment;
+>
+> (c) when the parties agree that the process has come to an end, if they agree that it has;
+>
+> (d) when the local planning authority publish the appointed person's report, if paragraph (a), (b) or (c) does not apply.
+>
+> **Effect of appointed person's report: planning obligations entered into**
+>
+> **5** (1) This paragraph applies where—
+>
+> (a) a local planning authority are determining an application in connection with which—
+>
+> (i) a report has been prepared under paragraph 3, and
+>
+> (ii) planning obligations have been entered into, and
+>
+> (b) the section 106 instrument satisfies the requirements of sub-paragraph (2).
+>
+> (2) A section 106 instrument satisfies the requirements of this sub-paragraph if—
+>
+> (a) the instrument is in accordance with the terms or recommendations reported under paragraph 3(3) or (4), or
+>
+> (b) the instrument is executed before the end of a prescribed period and the local planning authority—
+>
+> (i) are a party to it, or
+>
+> (ii) notify the applicant, before the end of that period, that they are content with the terms of it.
+>
+> (3) The local planning authority must not refuse the application on a ground that relates to the appropriateness of the terms of the section 106 instrument.
+>
+> (4) If the local authority grant the application, the authority's power to make the grant conditional on a person undertaking—
+>
+> (a) a planning obligation other than one entered into by the section 106 instrument, or
+>
+> (b) an obligation of some other kind,
+>
+> is subject to any limitations specified in regulations.
+>
+> **Effect of appointed person's report: no planning obligations entered into**
+>
+> **6** Where—
+>
+> (a) a local planning authority are determining an application in connection with which a report has been prepared under paragraph 3,
+>
+> (b) the report records (under paragraph 3(3)) an agreement that planning obligations are to be entered into, or recommends (under paragraph 3(4)) that planning obligations are entered into, and
+>
+> (c) no section 106 instrument is executed before the end of a prescribed period,
+>
+> the local planning authority must refuse the application.
+>
+> **Effect of appointed person's report: further provision**
+>
+> **7** (1) Where a report is prepared under paragraph 3 in connection with an application—
+>
+> (a) the local planning authority determining the application must have regard to the report, to the extent that this requirement is consistent with the restrictions in paragraphs 5 and 6;
+>
+> (b) a person determining an appeal against the authority's decision on the application, or an appeal under section 78(2) in respect of the application, must have regard to the report but is not subject to those restrictions.
+>
+> (2) Regulations may prescribe cases or circumstances in which a restriction in paragraph 5 or 6 does not apply.
+>
+> **Appointment in connection with two or more applications**
+>
+> **8** (1) A person may be appointed under paragraph 1 in connection with two or more applications if the same or similar issues arise on both or all of them.
+>
+> (2) In such cases—
+>
+> (a) the provisions of this Schedule apply separately in relation to each application, but
+>
+> (b) a single report may be made under paragraph 3 in relation to both or all of the applications.
+>
+> **Exercise of functions on behalf of the Secretary of State**
+>
+> **9** (1) The Secretary of State may arrange for a function of the Secretary of State under paragraph 1 (other than a function of making regulations) to be exercised by any body or person on behalf of the Secretary of State.
+>
+> (2) A reference in this Schedule to the Secretary of State is to be read, where appropriate, as including a reference to a body or person exercising functions under any such arrangements.
+>
+> (3) Arrangements under this paragraph—
+>
+> (a) do not affect the responsibility of the Secretary of State for the exercise of the function;
+>
+> (b) may include provision for payments to be made to the body or person exercising the function under the arrangements.
+>
+> **Regulations**
+>
+> **10** (1) Regulations may make provision about requests under paragraph 1(3) or (4), including in particular—
+>
+> (a) provision about when requests may be made;
+>
+> (b) provision about the form of requests;
+>
+> (c) provision requiring requests to be served on prescribed persons;
+>
+> (d) provision requiring prescribed information or documents to be provided;
+>
+> (e) provision about withdrawal of requests.
+>
+> (2) Regulations may make provision requiring the applicant or the local planning authority to notify the Secretary of State where paragraph 1(5) applies.
+>
+> (3) Regulations may make provision for the payment by the parties of fees in cases where a person is appointed under paragraph 1, including in particular provision about—
+>
+> (a) calculating the amount of the fees;
+>
+> (b) the proportion of the fees that each party is to bear;
+>
+> (c) when fees are to be payable.
+>
+> (4) Regulations may make further provision supplementing that made by paragraphs 1 to 9, and may in particular—
+>
+> (a) make provision about the qualifications or experience that an appointed person must have;
+>
+> (b) require an appointed person—
+>
+> (i) to consider or take into account prescribed matters;
+>
+> (ii) not to consider or take into account prescribed matters;
+>
+> (iii) to make prescribed assumptions;
+>
+> (c) provide for a party that is in breach of paragraph 2, or otherwise behaves unreasonably, to be required by an appointed person to pay some or all of the costs incurred by another party in connection with that breach or behaviour;
+>
+> (d) make provision for corrections or other revisions to be made to a report under paragraph 3;
+>
+> (e) require particular steps to be taken by an appointed person or the parties for the purposes of, or otherwise in connection with, a report under paragraph 3;
+>
+> (f) require the application to be determined no earlier than a specified period following the time when a report under paragraph 3 is sent to the parties, or no later than a specified period following that time.
+>
+> **Interpretation**
+>
+> **11** In this Schedule—
+>
+> - “the applicant” and “the application” have the meaning given by paragraph 1(1);
+> - “appointed person” means a person appointed under paragraph 1;
+> - “parties” means the applicant and the local planning authority;
+> - “prescribed period” means a period prescribed by, or determined in accordance with, regulations;
+> - “section 106 instrument” means an instrument by which planning obligations are entered into.
+
+## SCHEDULE 14 — Right to enter and survey land: consequential amendments
+
+*Section 179*
+
+### Defence Act 1842 (5 & 6 Vict c. 94)
+
+**1** In section 16 of the Defence Act 1842, at the end insert—
+
+> (3) A person may not be authorised under subsection (1) to enter and survey or value land in England and Wales in connection with a proposal to acquire an interest in or a right over land (but see section 172 of the Housing and Planning Act 2016).
+
+### Coast Protection Act 1949 (12 & 13 Geo 6 c. 74)
+
+**2** In section 25 of the Coast Protection Act 1949, after subsection (1) insert—
+
+> (1A) A person may not be authorised under subsection (1) to enter and survey or value land in England and Wales in connection with a proposal to acquire an interest in or a right over land (but see section 172 of the Housing and Planning Act 2016).
+
+### National Parks and Access to the Countryside Act 1949 (12, 13 & 14 Geo 6 c. 97)
+
+**3** (1) Section 108 of the National Parks and Access to the Countryside Act 1949 is amended as follows.
+
+(2) In subsection (1)(a), after “therein” insert “ in relation to land in Scotland ”.
+
+(3) After subsection (1) insert—
+
+> (1A) A person may not be authorised under subsection (1) to enter and survey or value land in England and Wales in connection with a proposal to acquire an interest in or a right over land (but see section 172 of the Housing and Planning Act 2016).
+
+### Land Powers (Defence) Act 1958 (6 & 7 Eliz 2 c. 30)
+
+**4** In section 21 of the Land Powers (Defence) Act 1958, after subsection (1) insert—
+
+> (1A) A person may not be authorised under subsection (1) to enter and survey or value land in England and Wales in connection with a proposal to acquire an interest in or a right over land (but see section 172 of the Housing and Planning Act 2016).
+
+### Caravan Sites and Control of Development Act 1960 (8 & 9 Eliz 2 c. 62)
+
+**5** In section 26 of the Caravan Sites and Control of Development Act 1960, after subsection (1) insert—
+
+> (1A) A person may not be authorised under subsection (1) to enter and survey or value land in England and Wales in connection with a proposal to acquire an interest in or a right over land (but see section 172 of the Housing and Planning Act 2016).
+
+### Compulsory Purchase Act 1965 (c. 56)
+
+**6** In section 11(3) of the Compulsory Purchase Act 1965 for “surveying and taking levels” substitute “ surveying, valuing or taking levels ”.
+
+### Criminal Justice Act 1972 (c. 71)
+
+**7** In the Criminal Justice Act 1972 omit section 60.
+
+### Welsh Development Agency Act 1975 (c. 70)
+
+**8** In Schedule 4 to the Welsh Development Agency Act 1975 omit paragraph 14(1).
+
+### Local Government (Miscellaneous Provisions) Act 1976 (c. 57)
+
+**9** In the Local Government (Miscellaneous Provisions) Act 1976 omit section 15.
+
+### Ancient Monuments and Archaeological Areas Act 1979 (c. 46)
+
+**10** In section 43 of the Ancient Monuments and Archaeological Areas Act 1979, for subsection (1) substitute—
+
+> (1) Any person authorised under this section may at any reasonable time enter any land in Scotland for the purpose of surveying it, or estimating its value, in connection with any proposal to acquire that or any other land under this Act or in connection with any claim for compensation under this Act in respect of any such acquisition.
+>
+> (1A) Any person authorised under this section may at any reasonable time enter any land in England and Wales or Scotland for the purpose of surveying it, or estimating its value, in connection with any claim for compensation under this Act for any damage to that or any other land.
+>
+> (1B) See section 172 of the Housing and Planning Act 2016 for a power to enter and survey or value land in England and Wales in connection with a proposal to acquire an interest in or a right over land.
+
+### Local Government, Planning and Land Act 1980 (c. 65)
+
+**11** (1) Section 167 of the Local Government, Planning and Land Act 1980 is amended as follows.
+
+(2) In the heading, after “land” insert “ in Scotland ”.
+
+(3) In subsection (1)—
+
+(a) in paragraph (a) after “any land” insert “ in Scotland ”;
+
+(b) in paragraph (b) after “other land” insert “ in Scotland ”.
+
+(4) In subsection (7)—
+
+(a) for the words before paragraph (a) substitute “ Where it is proposed to search or bore in pursuance of this section in a road within the meaning of Part 4 of the New Roads and Street Works Act 1991— ”;
+
+(b) in paragraph (a) omit “55 or”;
+
+(c) in paragraph (b) omit “69 or”;
+
+(d) in paragraph (c) omit “82 or”;
+
+(e) for the words after paragraph (c) substitute “ have effect in relation to the searching or boring as if they were road works within the meaning of Part 4 of that Act. ”
+
+(5) In subsection (9)—
+
+(a) for “Upper Tribunal” substitute “ Lands Tribunal for Scotland ”;
+
+(b) for the words from “section 4” to “costs)” substitute “ sections 9(2) to (5) and 11 of the Land Compensation (Scotland) Act 1963 (procedure and expenses) ”.
+
+(6) Omit subsection (13).
+
+### Highways Act 1980 (c. 66)
+
+**12** In section 289 of the Highways Act 1980, after subsection (1) insert—
+
+> (1A) A person may not be authorised under subsection (1) to enter and survey or value land in connection with a proposal to acquire an interest in or a right over land (but see section 172 of the Housing and Planning Act 2016).
+
+### New Towns Act 1981 (c. 64)
+
+**13** In section 73(1) of the New Towns Act 1981 omit paragraph (b) (and the “or” before it).
+
+### Civil Aviation Act 1982 (c. 16)
+
+**14** (1) Section 50 of the Civil Aviation Act 1982 is amended as follows.
+
+(2) In subsection (1), for paragraph (e) substitute—
+
+> (e) in any case not falling within paragraphs (a) to (d) above where the Secretary of State has made an order under or in pursuance of this Part of this Act—
+>
+> (i) authorising the compulsory purchase of land,
+>
+> (ii) providing for the creation in favour of a particular person of a right in or in relation to land, or
+>
+> (iii) declaring that an area of land shall be subject to control by directions.
+>
+> (f) in any case not falling within paragraphs (a) to (d) above where the Secretary of State is considering making an order under or in pursuance of this Part of this Act—
+>
+> (i) authorising the compulsory purchase of land in Scotland or Northern Ireland,
+>
+> (ii) providing for the creation in favour of a particular person of a right in or in relation to land in Scotland or Northern Ireland, or
+>
+> (iii) declaring that an area of land in England and Wales, Scotland or Northern Ireland shall be subject to control by directions.
+
+(3) In subsection (3)(e), after “(1)(e)” insert “ or (f) ”.
+
+(4) In subsection (4)(b), after “(1)(e)” insert “ or (f) ”.
+
+(5) In subsection (7)(c), after “(1)(e)” insert “ or (f) ”.
+
+### Industrial Development Act 1982 (c. 52)
+
+**15** In section 14 of the Industrial Development Act 1982 omit subsection (6).
+
+### Housing Act 1985 (c. 68)
+
+**16** In section 54 of the Housing Act 1985, after subsection (2) insert—
+
+> (3) A person may not be authorised by a local housing authority under subsection (1)(a) to enter and survey or value land in connection with a proposal to acquire an interest in or a right over land (but see section 172 of the Housing and Planning Act 2016).
+
+### Local Government and Housing Act 1989 (c. 42)
+
+**17** In section 97 of the Local Government and Housing Act 1989, after subsection (1) insert—
+
+> (1A) A person may not be authorised by a local housing authority under subsection (1)(a) to enter and survey or value land in connection with a proposal to acquire an interest in or a right over land (but see section 172 of the Housing and Planning Act 2016).
+
+### Electricity Act 1989 (c. 29)
+
+**18** In Schedule 4 to the Electricity Act 1989, in paragraph 10, after sub-paragraph (1) insert—
+
+> (1A) A person may not be authorised under sub-paragraph (1) to enter and survey or value land in England and Wales in connection with a proposal to acquire an interest in or a right over land (but see section 172 of the Housing and Planning Act 2016).
+
+### Town and Country Planning Act 1990 (c. 8)
+
+**19** In section 324 of the Town and Country Planning Act 1990 omit subsection (6).
+
+### Planning (Listed Buildings and Conservation Areas) Act 1990 (c. 9)
+
+**20** In section 88 of the Planning (Listed Buildings and Conservation Areas) Act 1990 omit subsection (5).
+
+### Land Drainage Act 1991 (c. 59)
+
+**21** In section 64 of the Land Drainage Act 1991, after subsection (1) insert—
+
+> (1A) A person may not be authorised under subsection (1)(a) or (b) to enter and survey or value land in connection with a proposal to acquire an interest in or a right over land (but see section 172 of the Housing and Planning Act 2016).
+
+### Water Industry Act 1991 (c. 56)
+
+**22** (1) Section 169 of the Water Industry Act 1991 is amended as follows.
+
+(2) In subsection (2) omit paragraph (a) (and the “or” at the end of it).
+
+(3) In subsection (4), for the words before paragraph (a) substitute “ The powers conferred by this section or section 172 of the Housing and Planning Act 2016 shall not be exercised on behalf of a water undertaker in any case for purposes connected with the determination of— ”.
+
+### Water Resources Act 1991 (c. 57)
+
+**23** (1) Section 171 of the Water Resources Act 1991 is amended as follows.
+
+(2) In subsection (2) omit paragraph (a) (and the “or” at the end of it).
+
+(3) In subsection (4), for the words before paragraph (a) substitute “ The powers conferred by this section or section 172 of the Housing and Planning Act 2016 shall not be exercised on behalf of the Agency or the NRBW in any case for purposes connected with the determination of— ”.
+
+### Environment Act 1995 (c. 25)
+
+**24** (1) Schedule 8 to the Environment Act 1995 is amended as follows.
+
+(2) In paragraph 1(2) omit paragraph (b).
+
+(3) In paragraph 2(3)—
+
+(a) at the end of paragraph (a) insert “ and ”;
+
+(b) omit paragraph (c) (and the “and” before it).
+
+### Greater London Authority Act 1999 (c. 29)
+
+**25** In the Greater London Authority Act 1999 omit section 333ZD.
+
+### Postal Services Act 2000 (c. 26)
+
+**26** In Schedule 6 to the Postal Services Act 2000, in paragraph 2, after sub-paragraph (2) insert—
+
+> (2A) A person may not be authorised under sub-paragraph (1) to enter and survey or value land in England and Wales in connection with a proposal to acquire an interest in or a right over land (but see section 172 of the Housing and Planning Act 2016).
+
+### Housing and Regeneration Act 2008 (c. 17)
+
+**27** In the Housing and Regeneration Act 2008 omit sections 17 and 18.
+
+### Localism Act 2011 (c. 20)
+
+**28** In the Localism Act 2011 omit section 210.
+
+## SCHEDULE 15 — Notice of general vesting declaration procedure
+
+*Section 183*
+
+### New notice requirements
+
+**1** The Acquisition of Land Act 1981 is amended as follows.
+
+**2** (1) Section 15 (compulsory purchase order: confirmation notice) is amended as follows.
+
+(2) In subsection (4), after paragraph (d) insert—
+
+> (e) containing a prescribed statement about the effect of Parts 2 and 3 of the Compulsory Purchase (Vesting Declarations) Act 1981;
+>
+> (f) inviting any person who would be entitled to claim compensation if a declaration were executed under section 4 of that Act to give the acquiring authority information about the person's name, address and interest in land, using a prescribed form.
+
+(3) After subsection (5) insert—
+
+> (6) The acquiring authority must send the confirmation notice to the Chief Land Registrar and it shall be a local land charge.
+
+**3** (1) Paragraph 6 of Schedule 1 (purchase by Minister: notices after making of order) is amended as follows.
+
+(2) In sub-paragraph (4), after paragraph (d) insert—
+
+> (e) containing a prescribed statement about the effect of Parts 2 and 3 of the Compulsory Purchase (Vesting Declarations) Act 1981;
+>
+> (f) inviting any person who would be entitled to claim compensation if a declaration were executed under section 4 of that Act to give the acquiring authority information about the person's name, address and interest in land, using a prescribed form.
+
+(3) After sub-paragraph (5) insert—
+
+> (6) The Minister must send the making notice to the Chief Land Registrar and it shall be a local land charge.
+
+### Consequential amendments
+
+**4** The Compulsory Purchase (Vesting Declarations) Act 1981 is amended as follows.
+
+**5** Omit section 3 (preliminary notices).
+
+**6** In section 5, omit subsection (1) (earliest date for execution of declaration following preliminary notice etc).
+
+**7** In section 6 (notices after execution of declaration), in subsection (1)(b), for “section 3(1) above” substitute “ section 15 of, or paragraph 6 of Schedule 1 to, the Acquisition of Land Act 1981 ”.
+
+### Power to make corresponding amendments elsewhere
+
+**8** (1) The Secretary of State may by regulations amend any legislation in connection with the compulsory acquisition of land for the purpose of making amendments which correspond to the amendments made by this Schedule.
+
+(2) “Legislation” means any provision made by or under an Act passed or made before this Act or in the same Session.
+
+## SCHEDULE 16 — Abolition of alternative possession procedure following notice to treat
+
+*Section 190*
+
+### Land Compensation Act 1961 (c. 33)
+
+**1** In section 5A of the Land Compensation Act 1961—
+
+(a) in subsection (6) omit paragraph (b);
+
+(b) in subsection (9)(b) omit “under Schedule 3 to that Act or”.
+
+### Compulsory Purchase Act 1965 (c. 56)
+
+**2** The Compulsory Purchase Act 1965 is amended as follows.
+
+**3** In section 11 omit subsection (2).
+
+**4** In section 12(6) omit “, or have paid it into court under Schedule 3 to this Act by way of security,”.
+
+**5** In section 37 for “Subsections (1) and (2)” substitute “ Subsection (1) ”.
+
+**6** Omit Schedule 3.
+
+### Forestry Act 1967 (c. 10)
+
+**7** In Schedule 5 to the Forestry Act 1967, in paragraph 11(3), omit paragraph (b).
+
+### Agriculture (Miscellaneous Provisions) Act 1968 (c. 34)
+
+**8** In Schedule 3 to the Agriculture (Miscellaneous Provisions) Act 1968, in paragraph 5(b), omit “and Schedule 3”.
+
+### Land Compensation Act 1973 (c. 26)
+
+**9** The Land Compensation Act 1973 is amended as follows.
+
+**10** In section 33A(4) omit paragraph (b).
+
+**11** In section 52ZC(7)(c) for “, any bond under Schedule 3 to that Act or” substitute “ or any bond under ”.
+
+**12** In section 52A—
+
+(a) in subsection (1), omit “Schedule 3 to that Act or”;
+
+(b) in subsection (9), omit “under Schedule 3 to that Act or”.
+
+**13** In section 57(1) omit “, under Schedule 3 to the Compulsory Purchase Act 1965”.
+
+### Local Government (Miscellaneous Provisions) Act 1976 (c. 57)
+
+**14** In section 29(1)(a) of the Local Government (Miscellaneous Provisions) Act 1976 omit “or 3”.
+
+### Ancient Monuments and Archaeological Areas Act 1979 (c. 46)
+
+**15** In section 36(1)(b) of the Ancient Monuments and Archaeological Areas Act 1979 omit “or (2)”.
+
+### Planning and Compensation Act 1991 (c. 34)
+
+**16** In section 80(2) of the Planning and Compensation Act 1991 omit “or Schedule 3 to the Compulsory Purchase Act 1965”.
+
+### Planning Act 2008 (c. 29)
+
+**17** In section 125 of the Planning Act 2008, in subsection (3), omit paragraph (c).
+
+## SCHEDULE 17 — Objection to division of land following notice to treat
+
+*Section 199*
+
+### PART 1 — Amendments to Compulsory Purchase Act 1965
+
+**1** The Compulsory Purchase Act 1965 is amended as follows.
+
+**2** In section 8 (material detriment arising from severance of land etc.), for subsection (1) substitute—
+
+> (1) Schedule 2A makes provision in respect of a proposal by an acquiring authority to acquire part only of a—
+>
+> (a) house, building or factory, or
+>
+> (b) park or garden belonging to a house.
+
+**3** After Schedule 2 insert—
+
+> **SCHEDULE 2A — Counter-notice requiring purchase of land not in notice to treat**
+>
+> *Section 8*
+>
+> **PART 1 — Counter-notice where acquiring authority has not taken possession**
+>
+> **Introduction**
+>
+> **1** (1) This Part applies where an acquiring authority—
+>
+> (a) serve a notice to treat in respect of part only of a house, building or factory,
+>
+> (b) have not entered on and taken possession of the land to which the notice to treat relates, and
+>
+> (c) have not executed a general vesting declaration under section 4 of the Compulsory Purchase (Vesting Declarations) Act 1981 in respect of the land to which the notice to treat relates.
+>
+> (2) But see section 2A of the Acquisition of Land Act 1981 (under which a compulsory purchase order can exclude from this Schedule land that is 9 metres or more below the surface).
+>
+> **2** This Part does not apply by virtue of a notice to treat that is deemed to have been served in respect of part only of a house, building or factory under section 154(5) of the Town and Country Planning Act 1990 (deemed notice to treat in relation to blighted land).
+>
+> **3** In this Part—
+>
+> - “additional land” means the part of the house, building, or factory not specified in the notice to treat;
+> - “house” includes any park or garden belonging to a house;
+> - “land proposed to be acquired” means the part of the house, building or factory specified in the notice to treat;
+> - “whole of the land” means the land proposed to be acquired and the additional land.
+>
+> **Counter-notice requiring authority to purchase whole of land**
+>
+> **4** A person who is able to sell the whole of the land (“the owner”) may serve a counter-notice requiring the acquiring authority to purchase the owner's interest in the whole of the land.
+>
+> **5** A counter-notice under this Part must be served within—
+>
+> (a) the period of 28 days beginning with the day on which the notice to treat was served, or
+>
+> (b) if it would end earlier, the period specified in a repeat notice of entry served in accordance with section 11A.
+>
+> **Effect of counter-notice on notice of entry**
+>
+> **6** If the owner serves a counter-notice—
+>
+> (a) any notice of entry under section 11(1) that has already been served on the owner in respect of the land proposed to be acquired ceases to have effect, and
+>
+> (b) the acquiring authority may not serve a notice of entry (or a further notice of entry) on the owner under section 11(1) in respect of that land unless they are permitted to do so by paragraph 11 or 12.
+>
+> **Acquiring authority must respond to counter-notice within three months**
+>
+> **7** On receiving a counter-notice the acquiring authority must decide whether to—
+>
+> (a) withdraw the notice to treat,
+>
+> (b) accept the counter-notice, or
+>
+> (c) refer the counter-notice to the Upper Tribunal.
+>
+> **8** The authority must serve notice of their decision on the owner within the period of 3 months beginning with the day on which the counter-notice is served (“the decision period”).
+>
+> **9** If the authority decide to refer the counter-notice to the Upper Tribunal they must do so within the decision period.
+>
+> **10** If the authority do not serve notice of a decision within the decision period they are to be treated as if they had served notice of a decision to withdraw the notice to treat at the end of that period.
+>
+> **Effects of accepting counter-notice or referring it to the Upper Tribunal**
+>
+> **11** If the acquiring authority serve notice of a decision to accept the counter-notice—
+>
+> (a) the compulsory purchase order and the notice to treat are to have effect as if they included the owner's interest in the whole of the land, and
+>
+> (b) the authority may serve a notice of entry under section 11(1) in relation to the whole of the land.
+>
+> **12** If the acquiring authority serve notice of a decision to refer the counter-notice to the Upper Tribunal, the acquiring authority may serve a notice of entry under section 11(1) on the owner in relation to the land proposed to be acquired.
+>
+> **13** If the authority have already served one or more notices of entry under section 11(1) in respect of the land proposed to be acquired the period specified in any new notice of entry in relation to that land must be a period that ends no earlier than the end of the period in the most recent notice of entry.
+>
+> **PART 2 — Counter-notice where authority has taken possession**
+>
+> **Introduction**
+>
+> **14** (1) This Part applies where an acquiring authority—
+>
+> (a) have entered on and taken possession of part only of a house, building or factory,
+>
+> (b) did not enter on and take possession of the land in accordance with section 11(1), whether because they had not served a notice to treat or otherwise, and
+>
+> (c) have not executed a general vesting declaration under section 4 of the Compulsory Purchase (Vesting Declarations) Act 1981 in respect of the land which they have entered on and taken possession of.
+>
+> (2) But see section 2A of the Acquisition of Land Act 1981 (under which a compulsory purchase order can exclude from this Schedule land that is 9 metres or more below the surface).
+>
+> **15** This Part does not apply if the acquiring authority are deemed to have served a notice to treat in respect of the land proposed to be acquired under section 154(5) of the Town and Country Planning Act 1990 (deemed notice to treat in relation to blighted land).
+>
+> **16** In this Part—
+>
+> - “additional land” means the part of the house, building, or factory that the authority have not entered on and taken possession of;
+> - “house” includes any park or garden belonging to a house;
+> - “land proposed to be acquired” means the part of the house, building or factory that the authority entered on and took possession of otherwise than in accordance with section 11(1);
+> - “whole of the land” means the land proposed to be acquired and the additional land.
+>
+> **Counter-notice requiring authority to purchase additional land**
+>
+> **17** A person who is able to sell the whole of the land (“the owner”) may serve a counter-notice requiring the acquiring authority to purchase the owner's interest in the whole of the land.
+>
+> **18** A counter-notice under this Part must be served within the period of 28 days beginning with the day on which—
+>
+> (a) the owner first had knowledge that the acquiring authority had entered on and taken possession of the land, or
+>
+> (b) if later, the owner receives any notice to treat.
+>
+> **Acquiring authority must respond to counter-notice within 3 months**
+>
+> **19** On receiving a counter-notice the acquiring authority must decide whether to—
+>
+> (a) accept the counter-notice, or
+>
+> (b) refer the counter-notice to the Upper Tribunal.
+>
+> **20** The authority must serve notice of their decision on the owner within the period of 3 months beginning with the day on which the counter-notice is served (“the decision period”).
+>
+> **21** If the authority decide to refer the counter-notice to the Upper Tribunal they must do so within the decision period.
+>
+> **22** If the authority do not serve notice of a decision within the decision period they are to be treated as if they had served notice of a decision to accept the counter-notice at the end of that period.
+>
+> **Effects of accepting counter-notice**
+>
+> **23** (1) This paragraph applies where the acquiring authority serve notice of a decision to accept the counter-notice.
+>
+> (2) The compulsory purchase order has effect as if it included the owner's interest in the additional land.
+>
+> (3) If the acquiring authority have already served a notice to treat in relation to the land proposed to be acquired, the notice has effect as if it also included the owner's interest in the additional land.
+>
+> (4) If the acquiring authority have not served a notice to treat, they must serve a notice to treat in relation to the owner's interest in the whole of the land.
+>
+> **PART 3 — Determination by the Upper Tribunal**
+>
+> **Introduction**
+>
+> **24** This Part applies where, in accordance with paragraph 9 or 21, the acquiring authority refer a counter-notice to the Upper Tribunal.
+>
+> **25** In this Part “land proposed to be acquired” and “additional land” have the meanings given by paragraph 3 or 16 as the case may be.
+>
+> **Role of the Upper Tribunal**
+>
+> **26** (1) The Upper Tribunal must determine whether the severance of the land proposed to be acquired would—
+>
+> (a) in the case of a house, building or factory, cause material detriment to the house, building or factory, or
+>
+> (b) in the case of a park or garden, seriously affect the amenity or convenience of the house to which the park or garden belongs.
+>
+> (2) In making its determination, the Upper Tribunal must take into account—
+>
+> (a) the effect of the severance,
+>
+> (b) the proposed use of the land proposed to be acquired, and
+>
+> (c) if that land is proposed to be acquired for works or other purposes extending to other land, the effect of the whole of the works and the use of the other land.
+>
+> **27** If the Upper Tribunal determines that the severance of the land proposed to be acquired would have either of the consequences described in paragraph 26(1) it must determine how much of the additional land the acquiring authority ought to be required to take in addition to the land proposed to be acquired.
+>
+> **Effect of determination that more land should be acquired**
+>
+> **28** (1) This paragraph applies where the Upper Tribunal determines that the acquiring authority ought to be required to take the whole or part of the additional land.
+>
+> (2) The compulsory purchase order has effect as if it included the owner's interest in the additional land.
+>
+> (3) If the acquiring authority have already served a notice to treat in relation to the land proposed to be acquired, the notice has effect as if it also included the owner's interest in the additional land.
+>
+> (4) If the acquiring authority have not served a notice to treat, they must serve a notice to treat in relation to the owner's interest in the land proposed to be acquired and the additional land.
+>
+> (5) If the acquiring authority have already entered on and taken possession of the land proposed to be acquired, the power to award compensation under section 7 includes power to award compensation for any loss suffered by the owner by reason of the temporary severance of the land from the additional land.
+>
+> (6) Where the Upper Tribunal determines that the acquiring authority ought to be required to take part only of the additional land, a reference in sub-paragraph (2) to (5) to “the additional land” is to that part.
+>
+> **Withdrawal of notice to treat following determination**
+>
+> **29** (1) This paragraph applies where—
+>
+> (a) the acquiring authority have served a notice to treat in respect of the land proposed to be acquired,
+>
+> (b) the Upper Tribunal has determined that the authority ought to be required to take the whole or part of the additional land, and
+>
+> (c) the authority have not yet entered on and taken possession of any of the land proposed to be acquired or the additional land.
+>
+> (2) The acquiring authority may withdraw the notice to treat in respect of the whole of the land at any time within the period of 6 weeks beginning with the day on which the Upper Tribunal made its determination.
+>
+> (3) If the acquiring authority withdraws the notice to treat under this paragraph they must pay the person on whom the notice was served compensation for any loss or expense caused by the giving and withdrawal of the notice.
+>
+> (4) Any dispute as to the compensation is to be determined by the Upper Tribunal.
+
+### PART 2 — Consequential amendments
+
+#### Land Compensation Act 1961 (c. 33)
+
+**4** (1) Section 5A of the Land Compensation Act 1961 (relevant valuation date) is amended as follows.
+
+(2) After subsection (5) insert—
+
+> (5A) If—
+>
+> (a) the acquiring authority enters on and takes possession of land in pursuance of a notice of entry given as mentioned in paragraph 12 of Schedule 2A to the Compulsory Purchase Act 1965 (“the original land”),
+>
+> (b) the acquiring authority are subsequently required by a determination under paragraph 27 of Schedule 2A to the Compulsory Purchase Act 1965 to take additional land, and
+>
+> (c) the acquiring authority enters on and takes possession of that additional land,
+>
+> the authority is deemed for the purposes of subsection (3)(a) to have entered on and taken possession of the additional land when it entered on and took possession of the original land.
+
+(3) In subsection (6), for “Subsection (5) also applies” substitute “ Subsections (5), (5A) and (5B) also apply ”.
+
+#### Land Compensation Act 1973 (c. 26)
+
+**5** In section 58 of the Land Compensation Act 1973 (determination of material detriment where part of house etc. subject to compulsory acquisition)—
+
+(a) in subsection (1) omit “section 8(1) or 34(2) of the Compulsory Purchase Act 1965, or”;
+
+(b) omit subsection (2).
+
+#### Provisions which refer to section 8(1)
+
+**6** For each of the following provisions substitute, with the same paragraph or sub-paragraph number as the provision being replaced, the provision in paragraph 7—
+
+(a) paragraph 7 of Schedule 1 to the Local Government (Miscellaneous Provisions) Act 1976;
+
+(b) paragraph 23(2) of Schedule 28 to the Local Government, Planning and Land Act 1980;
+
+(c) paragraph 7 of Schedule 19 to the Highways Act 1980;
+
+(d) paragraph 8 of Schedule 3 to the Gas Act 1986;
+
+(e) paragraph 22 of Schedule 10 to the Housing Act 1988;
+
+(f) paragraph 9 of Schedule 3 to the Electricity Act 1989;
+
+(g) paragraph 4 of Schedule 9 to the Water Industry Act 1991;
+
+(h) paragraph 4 of Schedule 18 to the Water Resources Act 1991;
+
+(i) paragraph 4 of Schedule 1B to the Coal Industry Act 1994;
+
+(j) paragraph 8 of Schedule 5 to the Postal Services Act 2000;
+
+(k) paragraph 11 of Schedule 2 to the Housing and Regeneration Act 2008.
+
+**7** This is the provision to be substituted for the provisions listed in paragraph 6—
+
+> **X** Section 8(1) of the Compulsory Purchase Act 1965 has effect as if references to acquiring land were to acquiring a right in the land, and Schedule 2A to that Act is to be read as if, for that Schedule, there were substituted—
+>
+> > **SCHEDULE 2A — Counter-notice requiring purchase of land**
+> >
+> > **Introduction**
+> >
+> > **1** (1) This Schedule applies where an acquiring authority serve a notice to treat in respect of a right over the whole or part of a house, building or factory.
+> >
+> > (2) But see section 2A of the Acquisition of Land Act 1981 (under which a compulsory purchase order can exclude from this Schedule land that is 9 metres or more below the surface).
+> >
+> > **2** In this Schedule “house” includes any park or garden belonging to a house.
+> >
+> > **Counter-notice requiring purchase of land**
+> >
+> > **3** A person who is able to sell the house, building or factory (“the owner”) may serve a counter-notice requiring the authority to purchase the owner's interest in the house, building or factory.
+> >
+> > **4** A counter-notice under paragraph 3 must be served within the period of 28 days beginning with the day on which the notice to treat was served.
+> >
+> > **Response to counter-notice**
+> >
+> > **5** On receiving a counter-notice the acquiring authority must decide whether to—
+> >
+> > (a) withdraw the notice to treat,
+> >
+> > (b) accept the counter-notice, or
+> >
+> > (c) refer the counter-notice to the Upper Tribunal.
+> >
+> > **6** The authority must serve notice of their decision on the owner within the period of 3 months beginning with the day on which the counter-notice is served (“the decision period”).
+> >
+> > **7** If the authority decide to refer the counter-notice to the Upper Tribunal they must do so within the decision period.
+> >
+> > **8** If the authority do not serve notice of a decision within the decision period they are to be treated as if they had served notice of a decision to withdraw the notice to treat at the end of that period.
+> >
+> > **9** If the authority serve notice of a decision to accept the counter-notice, the compulsory purchase order and the notice to treat are to have effect as if they included the owner's interest in the house, building or factory.
+> >
+> > **Determination by Upper Tribunal**
+> >
+> > **10** On a referral under paragraph 7 the Upper Tribunal must determine whether the acquisition of the right would—
+> >
+> > (a) in the case of a house, building or factory, cause material detriment to the house, building or factory, or
+> >
+> > (b) in the case of a park or garden, seriously affect the amenity or convenience of the house to which the park or garden belongs.
+> >
+> > **11** In making its determination, the Upper Tribunal must take into account—
+> >
+> > (a) the effect of the acquisition of the right,
+> >
+> > (b) the proposed use of the right, and
+> >
+> > (c) if the right is proposed to be acquired for works or other purposes extending to other land, the effect of the whole of the works and the use of the other land.
+> >
+> > **12** If the Upper Tribunal determines that the acquisition of the right would have either of the consequences described in paragraph 10 it must determine how much of the house, building or factory the authority ought to be required to take.
+> >
+> > **13** If the Upper Tribunal determines that the authority ought to be required to take some or all of the house, building or factory the compulsory purchase order and the notice to treat are to have effect as if they included the owner's interest in that land.
+> >
+> > **14** (1) If the Upper Tribunal determines that the authority ought to be required to take some or all of the house, building or factory, the authority may at any time within the period of 6 weeks beginning with the day on which the Upper Tribunal makes its determination withdraw the notice to treat in relation to that land.
+> >
+> > (2) If the acquiring authority withdraws the notice to treat under this paragraph they must pay the person on whom the notice was served compensation for any loss or expense caused by the giving and withdrawal of the notice.
+> >
+> > (3) Any dispute as to the compensation is to be determined by the Upper Tribunal.
+
+#### New Towns Act 1981 (c. 64)
+
+**8** In Part 1 of Schedule 6 to the New Towns Act 1981 (modifications of the Compulsory Purchase Act 1965 for the purposes of the New Towns Act 1981), in paragraph 1(2)—
+
+(a) at the end of paragraph (e) omit “and”, and
+
+(b) at the end of paragraph (f) insert
+
+> ;
+>
+> (g) in Schedule 2A to that Act references to section 11 or 11A of that Act are to be read respectively as references to paragraph 4 or 4A of this Schedule.
+
+#### Acquisition of Land Act 1981 (c. 67)
+
+**9** In the Acquisition of Land Act 1981, after section 2 insert—
+
+> **Tunnels etc**
+>
+> **2A** (1) A compulsory purchase order may provide that in the following provisions, a reference to land (however expressed) does not include specified land that is at least 9 metres or more below the surface.
+>
+> (2) The provisions mentioned in subsection (1) are—
+>
+> (a) Schedule 2A of the Compulsory Purchase Act 1965 (objection to division of land),
+>
+> (b) any substituted version of that Schedule that applies by virtue of provision made by or under any Act, and
+>
+> (c) Schedule A1 to the Compulsory Purchase (Vesting Declarations) Act 1981 (objection to division of land).
+
+#### Water Industry Act 1991 (c. 56)
+
+**10** In Schedule 11 to the Water Industry Act 1991 (orders conferring compulsory works powers), in paragraph 6(1)(b), for “section” substitute “ sections 2A and ”.
+
+#### Water Resources Act 1991 (c. 57)
+
+**11** In Schedule 19 to the Water Resources Act 1991 (orders conferring compulsory works powers), in paragraph 6(1)(b), for “section” substitute “ sections 2A and ”.
+
+## SCHEDULE 18 — Objection to division of land following vesting declaration
+
+*Section 199*
+
+### PART 1 — Amendments to Compulsory Purchase (Vesting Declarations) Act 1981
+
+**1** The Compulsory Purchase (Vesting Declarations) Act 1981 is amended as follows.
+
+**2** In section 4 (execution of declaration), for subsection (3), substitute—
+
+> (3) For the purposes of this Act the “vesting date” in relation to any land that is actually specified in a general vesting declaration is—
+>
+> (a) the first day after the end of the period specified in the declaration in accordance with subsection (1) above, or
+>
+> (b) if a counter-notice is served under paragraph 2 of Schedule A1 within that period in relation to land, the day determined as the vesting date for the land in accordance with that Schedule.
+>
+> (4) For the purposes of this Act, the “vesting date” for any land that is deemed to have been specified in a general vesting declaration by Schedule A1 is the day determined as the vesting date for the land in accordance with that Schedule.
+
+**3** In section 7 (constructive notice to treat), for subsection (1) substitute—
+
+> (1) On the vesting date the provisions of—
+>
+> (a) the Land Compensation Act 1961 (as modified by section 4 of the Acquisition of Land Act 1981),
+>
+> (b) the Compulsory Purchase Act 1965, and
+>
+> (c) Schedule A1 to this Act,
+>
+> shall apply as if, on the date on which the general vesting declaration was executed, a notice to treat had been served on every person on whom, under section 5 of the Compulsory Purchase Act 1965, the acquiring authority could have served such a notice, other than any person entitled to a minor tenancy or a long tenancy which is about to expire.
+
+**4** In section 8 (vesting and the right to enter on and take possession), in subsection (1), for the words before paragraph (a) substitute “ Any land specified in the general vesting declaration, together with the right to enter upon and take possession of it, shall, subject to section 9 below, vest in the acquiring authority on the vesting date in relation to that land as if— ”.
+
+**5** In section 12 (divided land), for “Schedule 1” substitute “ Schedules A1 and 1 ”.
+
+**6** Before Schedule 1 insert—
+
+> **SCHEDULE A1 — Counter-notice requiring purchase of land not in general vesting declaration**
+>
+> *Section 12*
+>
+> **PART 1 — Counter-notice requiring purchase of additional land**
+>
+> **1** (1) This Schedule applies where an acquiring authority have executed a general vesting declaration in respect of part only of a house, building or factory.
+>
+> (2) But see section 2A of the Acquisition of Land Act 1981 (under which a compulsory purchase order can exclude from this Schedule land that is 9 metres or more below the surface).
+>
+> **2** A person able to sell the whole of the house, building or factory (“the owner”) may serve a counter-notice requiring the authority to purchase the owner's interest in the whole.
+>
+> **3** A counter-notice under paragraph 2 must be served before the end of the period of 28 days beginning with the day the owner first had knowledge of the general vesting declaration.
+>
+> **4** In a case where this Schedule applies by virtue of a general vesting declaration executed after a counter-notice has been served under paragraph 4 or 17 of Schedule 2A to the Compulsory Purchase Act 1965, that counter-notice is to have effect as a counter-notice served under this Schedule.
+>
+> **5** In this Schedule—
+>
+> - “additional land” means the part of the house, building or factory not specified in the general vesting declaration;
+> - “house” includes any park or garden belonging to a house;
+> - “land proposed to be acquired” means the part of the house, building or factory specified in the general vesting declaration;
+> - “notice to treat” means a notice to treat deemed to have been served under section 7(1);
+> - “original vesting date” is the first day after the end of the period specified in the general vesting declaration in accordance with section 4(1).
+>
+> **PART 2 — Consequences of counter-notice**
+>
+> **Acquiring authority must respond to counter-notice within three months**
+>
+> **6** (1) On receiving a counter-notice the acquiring authority must decide whether to—
+>
+> (a) withdraw the notice to treat in relation to the land proposed to be acquired,
+>
+> (b) accept the counter-notice, or
+>
+> (c) refer the counter-notice to the Upper Tribunal.
+>
+> (2) But the acquiring authority may not decide to withdraw the notice to treat if the counter-notice was served on or after the original vesting date.
+>
+> **7** The authority must serve notice of their decision on the owner within the period of 3 months beginning with the day on which the counter-notice is served (“the decision period”).
+>
+> **8** If the authority decide to refer the counter-notice to the Upper Tribunal they must do so within the decision period.
+>
+> **9** (1) This paragraph applies if the acquiring authority do not serve notice of a decision within the decision period.
+>
+> (2) If the counter-notice was served before the original vesting date, the authority are to be treated as if they had served notice of a decision to withdraw the notice to treat in relation to the land proposed to be acquired.
+>
+> (3) If the counter-notice was served on or after the original vesting date, they are to be treated as if they had served notice of a decision to accept it.
+>
+> **No vesting if notice to treat withdrawn**
+>
+> **10** If the acquiring authority serve notice of a decision to withdraw the notice to treat in relation to the land proposed to be acquired the general vesting declaration is to have effect as if it did not include that land.
+>
+> **Effects of accepting counter-notice**
+>
+> **11** (1) This paragraph applies where the acquiring authority serve notice of a decision to accept the counter-notice.
+>
+> (2) The general vesting declaration and the notice to treat (and, where applicable, the compulsory purchase order) are to have effect as if they included the owner's interest in the additional land as well as in the land proposed to be acquired.
+>
+> (3) The authority must serve on the owner a notice specifying the vesting date or dates for—
+>
+> (a) the land proposed to be acquired (if the counter-notice was served before the original vesting date), and
+>
+> (b) the additional land.
+>
+> (4) The new vesting date for the land proposed to be acquired must not be before the original vesting date.
+>
+> (5) The vesting date for the additional land must be after the period of 3 months beginning with the day on which the notice under sub-paragraph (3) is served.
+>
+> **Effects of referring counter-notice to the Upper Tribunal**
+>
+> **12** (1) This paragraph applies where—
+>
+> (a) the acquiring authority refer the counter-notice to the Upper Tribunal, and
+>
+> (b) the counter-notice was served before the original vesting date.
+>
+> (2) At any time before the Upper Tribunal make a determination under paragraph 14, the acquiring authority may serve notice on the owner specifying a new vesting date for the land proposed to be acquired.
+>
+> (3) The new vesting date for the land proposed to be acquired must not be before the original vesting date.
+>
+> **PART 3 — Determination by the Upper Tribunal**
+>
+> **Introduction**
+>
+> **13** This Part applies where, in accordance with paragraph 8, the acquiring authority refer a counter-notice to the Upper Tribunal.
+>
+> **Role of the Upper Tribunal**
+>
+> **14** (1) The Upper Tribunal must determine whether the severance of the land proposed to be acquired would—
+>
+> (a) in the case of a house, building or factory, cause material detriment to the house, building or factory, or
+>
+> (b) in the case of a park or garden, seriously affect the amenity or convenience of the house to which the park or garden belongs.
+>
+> (2) In making its determination, the Upper Tribunal must take into account—
+>
+> (a) the effect of the severance,
+>
+> (b) the proposed use of the land proposed to be acquired, and
+>
+> (c) if that land is proposed to be acquired for works or other purposes extending to other land, the effect of the whole of the works and the use of the other land.
+>
+> **15** If the Upper Tribunal determines that the severance of the land proposed to be acquired would have either of the consequences described in paragraph 14(1) it must determine how much of the additional land the acquiring authority ought to be required to take in addition to the land proposed to be acquired.
+>
+> **Effect of determination that more land should be acquired**
+>
+> **16** (1) This paragraph applies where the Upper Tribunal specifies in its determination that the acquiring authority ought to be required to take the whole or part of the additional land (“the specified land”).
+>
+> (2) The general vesting declaration and any notice to treat (and, where applicable, the compulsory purchase order) are to have effect as if they included the owner's interest in the specified land.
+>
+> (3) The Upper Tribunal must order a vesting date for—
+>
+> (a) the specified land, and
+>
+> (b) any land proposed to be acquired which has not vested in the authority and for which no vesting date has been specified under paragraph 12.
+>
+> **Withdrawal of notice to treat following determination**
+>
+> **17** (1) This paragraph applies where—
+>
+> (a) the Upper Tribunal has specified in its determination that the acquiring authority ought to be required to take the whole or part of the additional land (“the specified land”), and
+>
+> (b) the vesting date in relation to the land proposed to be acquired has not passed, and
+>
+> (c) the vesting date in relation to the specified land has not passed.
+>
+> (2) The acquiring authority may, within the period of 6 weeks beginning with the day on which the Upper Tribunal made its determination, withdraw the notice to treat in relation to the land proposed to be acquired together with the specified land.
+>
+> (3) If the acquiring authority withdraws the notice to treat, the general vesting declaration is to have effect as if it did not include that land.
+>
+> (4) If the acquiring authority withdraws the notice to treat under this paragraph they must pay the person on whom the notice was served compensation for any loss or expense caused by the giving and withdrawal of the notice.
+>
+> (5) Any dispute as to the compensation is to be determined by the Upper Tribunal.
+
+**7** In Schedule 1 (divided land) omit Part 1 (buildings and gardens etc).
+
+**8** In Schedule 2 (vesting of land in urban development corporation), for paragraph 4 substitute—
+
+> **4** In Schedule A1, for paragraph 3 there is to be substituted—
+>
+> > **3** A counter-notice under paragraph 2 must be served within the period of 28 days beginning with the day on which the order comes into force.
+
+### PART 2 — Consequential amendments
+
+**9** In section 5A of the Land Compensation Act 1961 (relevant valuation date), after subsection (5A) (inserted by Schedule 17 to this Act) insert—
+
+> (5B) If—
+>
+> (a) the land is the subject of a general vesting declaration, and
+>
+> (b) the vesting date is different for different parts of the land,
+>
+> the first of the vesting dates is deemed for the purposes of subsection (4)(a) to be the vesting date for the whole of the land.
+
+**10** In Schedule 6 to the Crossrail Act 2008 (acquisition of land shown within limits on deposited plans), in paragraph 11(3)(b), for “Schedule 1” substitute “ Schedule A1 ”.
+
+## SCHEDULE 19 — Amendments to do with sections 203 and 204
+
+*Section 206*
+
+### Welsh Development Agency Act 1975 (c. 70)
+
+**1** (1) Schedule 4 to the Welsh Development Agency Act 1975 is amended as follows.
+
+(2) Omit paragraph 6 and the italic heading before it.
+
+(3) In paragraph 9 omit sub-paragraph (a).
+
+### Local Government, Planning and Land Act 1980 (c. 65)
+
+**2** (1) Schedule 28 to the Local Government, Planning and Land Act 1980 is amended as follows.
+
+(2) In paragraph 6—
+
+(a) in sub-paragraph (1), after “work on land” insert “ in Scotland ”;
+
+(b) omit sub-paragraph (1A);
+
+(c) in sub-paragraph (2), omit “or (1A)”;
+
+(d) in sub-paragraph (4)—
+
+(i) omit “or (1A)”;
+
+(ii) omit “section 7 or 10 of the Compulsory Purchase Act 1965 (or”
+
+(iii) omit “, or use of,”;
+
+(e) in sub-paragraph (7)—
+
+(i) for “at the suit (or in Scotland at the instance)” substitute “ at the instance ”;
+
+(ii) omit “or 1A”.
+
+(3) In paragraph 7, for sub-paragraph (11) substitute—
+
+> (11) Nothing in this paragraph shall be construed as authorising any act or omission on the part of an urban development corporation or local highway authority, or of any body corporate, in contravention of any limitation imposed by law on its capacity by virtue of the constitution of the corporation, authority or body.
+
+(4) In paragraph 9, for sub-paragraph (3) substitute—
+
+> (3) Nothing in this paragraph shall be construed as authorising any act or omission on the part of an urban development corporation or local highway authority, or of any body corporate, in contravention of any limitation imposed by law on its capacity by virtue of the constitution of the corporation, authority or body.
+
+### New Towns Act 1981 (c. 64)
+
+**3** The New Towns Act 1981 is amended as follows.
+
+**4** Omit section 19.
+
+**5** In section 20, for subsection (10) substitute—
+
+> (10) Nothing in this section shall be construed as authorising any act or omission on the part of a development corporation or local highway authority, or of any body corporate, in contravention of any limitation imposed by law on their capacity by virtue of the constitution of the corporation, authority or body.
+
+**6** In section 21, for subsection (3) substitute—
+
+> (3) Nothing in this section shall be construed as authorising any act or omission on the part of a development corporation or local highway authority, or of any body corporate, in contravention of any limitation imposed by law on their capacity by virtue of the constitution of the corporation, authority or body.
+
+### Housing Act 1988 (c. 50)
+
+**7** (1) Schedule 10 to the Housing Act 1988 is amended as follows.
+
+(2) Omit paragraph 5 and the italic heading before it.
+
+(3) In paragraph 6, for sub-paragraph (11) substitute—
+
+> (11) Nothing in this paragraph shall be construed as authorising any act or omission on the part of a housing action trust, or of any body corporate, in contravention of any limitation imposed by law on its capacity by virtue of the constitution of the trust or body.
+
+(4) In paragraph 7, for sub-paragraph (3) substitute—
+
+> (3) Nothing in this paragraph shall be construed as authorising any act or omission on the part of a housing action trust, or of any body corporate, in contravention of any limitation imposed by law on its capacity by virtue of the constitution of the trust or body.
+
+### Town and Country Planning Act 1990 (c. 8)
+
+**8** The Town and Country Planning Act 1990 is amended as follows.
+
+**9** Omit section 237.
+
+**10** In section 245(4), omit paragraph (a).
+
+**11** In section 246(2), for “237” substitute “ 238 ”.
+
+### Greater London Authority Act 1999 (c. 29)
+
+**12** (1) Section 333ZB of the Greater London Authority Act 1999 is amended as follows.
+
+(2) For subsection (1) substitute—
+
+> (1) Schedule 3 to the Housing and Regeneration Act 2008 (powers in relation to land acquired by the Homes and Communities Agency) applies in relation to the Authority and land held by it for the purposes of housing or regeneration as it applies in relation to the Homes and Communities Agency and its land.
+
+(3) In subsection (2)—
+
+(a) insert “ , and ” at the end of paragraph (a);
+
+(b) omit paragraph (aa) and the “and” at the end of it.
+
+(4) In the heading, omit “acquired or”.
+
+### Planning Act 2008 (c. 29)
+
+**13** The Planning Act 2008 is amended as follows.
+
+**14** In section 194, omit subsection (1).
+
+**15** Omit Schedule 9.
+
+### Housing and Regeneration Act 2008 (c. 17)
+
+**16** In Schedule 3 to the Housing and Regeneration Act 2008, omit Part 1.
+
+### Localism Act 2011 (c. 20)
+
+**17** In section 208 of the Localism Act 2011, for subsection (1) substitute—
+
+> (1) Schedule 3 to the Housing and Regeneration Act 2008 (powers, in relation to land of the Homes and Communities Agency, to extinguish public rights of way, and in relation to burial grounds and consecrated land) applies in relation to an MDC and its land as it applies in relation to the Homes and Communities Agency and its land.
+
+### Infrastructure Act 2015 (c. 7)
+
+**18** In section 32 of the Infrastructure Act 2015, omit subsections (6), (7), (8) and (10).
+
+## SCHEDULE 20 — Authorities specified for purposes of section 210 (prospective)
+
+*Section 210*
+
+**1** A county council in England.
+
+**2** A district council.
+
+**3** A London borough council.
+
+**4** The Greater London Authority.
+
+**5** An economic prosperity board established under section 88 of the Local Democracy, Economic Development and Construction Act 2009.
+
+**6** A combined authority established under section 103 of the Local Democracy, Economic Development and Construction Act 2009.
+
+**[[^F114]7** The London Fire Commissioner.]
+
+**8** Transport for London.
+
+**9** A sub-national transport body established under section 102E of the Local Transport Act 2008.
+
+**10** A fire and rescue authority in England constituted by—
+
+(a) a scheme under section 2 of the Fire and Rescue Services Act 2004, or
+
+(b) a scheme to which section 4 of that Act applies.
+
+**11** An authority established under section 10 of the Local Government Act 1985 (joint authority for waste disposal functions).
+
+**12** A joint authority established under Part 4 of the Local Government Act 1985 for an area in England.
+
+**13** The Common Council of the City of London (in its capacity as a local authority).
+
+**14** A National Park authority for a National Park in England.
+
+**15** The Broads Authority.
+
+**16** The Council of the Isles of Scilly.
+
+---
+
+[^F1]: Words in s. 5(8) inserted (4.11.2024) by Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 194 (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F2]: Words in s. 10(3) substituted (31.10.2016) by The Housing and Planning Act 2016 (Commencement No.2, Transitional Provisions and Savings) Regulations 2016 (S.I. 2016/733), reg. 12(2)
+[^F3]: S. 14(5) inserted (1.6.2019) by Tenant Fees Act 2019 (c. 4), ss. 12(6), 34(1); S.I. 2019/857, reg. 3(k)
+[^F4]: Sum in S. 23(5) substituted (1.5.2026) by The Financial Penalties (Housing Offences and Breach of Banning Orders) Regulations 2026 (S.I. 2026/319), regs. 1(2), 3 (with reg. 4)
+[^F5]: S. 40(1)-(2A) substituted for s. 40(1)(2) (1.5.2026) by Renters’ Rights Act 2025 (c. 26), ss. 103(2), 145(1)(7) (with s. 138); S.I. 2026/421, reg. 3(j) (with reg. 11)
+[^F6]: Words in s. 40(3) table inserted (1.5.2026) by Renters’ Rights Act 2025 (c. 26), ss. 98(2)(a), 145(1)(7) (with s. 138); S.I. 2026/421, reg. 3(h)(i) (with reg. 11)
+[^F7]: Words in s. 40(3) table substituted (1.5.2026) by Renters’ Rights Act 2025 (c. 26), ss. 98(2)(b), 145(1)(7) (with s. 138); S.I. 2026/421, reg. 3(h)(i) (with reg. 11)
+[^F8]: Words in s. 40(3) table substituted (1.5.2026) by Renters’ Rights Act 2025 (c. 26), ss. 98(2)(c), 145(1)(7) (with s. 138); S.I. 2026/421, reg. 3(h)(i) (with reg. 11)
+[^F9]: Word in s. 41(1) substituted (1.5.2026) by Renters’ Rights Act 2025 (c. 26), ss. 103(3), 145(1)(7) (with s. 138); S.I. 2026/421, reg. 3(j) (with reg. 11)
+[^F10]: Words in s. 41(2)(b) substituted (1.5.2026) by Renters’ Rights Act 2025 (c. 26), ss. 98(3)(a), 145(1)(7) (with s. 138); S.I. 2026/421, reg. 3(h)(i) (with reg. 11)
+[^F11]: S. 41(2A) inserted (1.5.2026) by Renters’ Rights Act 2025 (c. 26), ss. 98(3)(b), 145(1)(7) (with s. 138); S.I. 2026/421, reg. 3(h)(i) (with reg. 11)
+[^F12]: Words in s. 42(5) substituted (1.5.2026) by Renters’ Rights Act 2025 (c. 26), ss. 98(4), 145(1)(7) (with s. 138); S.I. 2026/421, reg. 3(h)(i) (with reg. 11)
+[^F13]: S. 43(3)(d) inserted (1.5.2026) by Renters’ Rights Act 2025 (c. 26), ss. 103(4), 145(1)(7) (with s. 138); S.I. 2026/421, reg. 3(j) (with reg. 11)
+[^F14]: Words in s. 44(2) inserted (1.5.2026) by Renters’ Rights Act 2025 (c. 26), ss. 103(5)(a)(i), 145(1)(7) (with s. 138); S.I. 2026/421, reg. 3(j) (with reg. 11)
+[^F15]: Words in s. 44(2) substituted (1.5.2026) by Renters’ Rights Act 2025 (c. 26), ss. 103(5)(a)(ii), 145(1)(7) (with s. 138); S.I. 2026/421, reg. 3(j) (with reg. 11)
+[^F16]: Words in s. 44(2) Table inserted (1.5.2026) by Renters’ Rights Act 2025 (c. 26), ss. 103(5)(a)(iii), 145(1)(7) (with s. 138); S.I. 2026/421, reg. 3(j) (with reg. 11)
+[^F17]: Words in s. 44(2) Table substituted (1.5.2026 for specified purposes) by Renters’ Rights Act 2025 (c. 26), ss. 98(5)(a)(i), 145(1)(7) (with s. 138); S.I. 2026/421, reg. 3(h)(ii) (with reg. 11)
+[^F18]: Words in s. 44(2) substituted (1.5.2026) by Renters’ Rights Act 2025 (c. 26), ss. 103(5)(a)(iv), 145(1)(7) (with s. 138); S.I. 2026/421, reg. 3(j) (with reg. 11)
+[^F19]: Words in s. 44(2) Table inserted (1.5.2026) by Renters’ Rights Act 2025 (c. 26), ss. 98(5)(b), 145(1)(7) (with s. 138); S.I. 2026/421, reg. 3(h)(i) (with reg. 11)
+[^F20]: Words in s. 44(2) Table substituted (1.5.2026 for specified purposes) by Renters’ Rights Act 2025 (c. 26), ss. 98(5)(a)(ii), 145(1)(7) (with s. 138); S.I. 2026/421, reg. 3(h)(ii) (with reg. 11)
+[^F21]: Word in s. 44(3) substituted (1.5.2026) by Renters’ Rights Act 2025 (c. 26), ss. 103(5)(b)(i), 145(1)(7) (with s. 138); S.I. 2026/421, reg. 3(j) (with reg. 11)
+[^F22]: Words in s. 44(3)(a) inserted (1.5.2026) by Renters’ Rights Act 2025 (c. 26), ss. 103(5)(b)(ii), 145(1)(7) (with s. 138); S.I. 2026/421, reg. 3(j) (with reg. 11)
+[^F23]: S. 44(4)(aa) inserted (1.5.2026) by Renters’ Rights Act 2025 (c. 26), ss. 103(5)(c), 145(1)(7) (with s. 138); S.I. 2026/421, reg. 3(j) (with reg. 11)
+[^F24]: Word in s. 44(4)(b) omitted (1.5.2026) by virtue of Renters’ Rights Act 2025 (c. 26), ss. 98(5)(c)(i), 145(1)(7) (with s. 138); S.I. 2026/421, reg. 3(h)(i) (with reg. 11)
+[^F25]: Words in s. 44(4)(c) inserted (1.5.2026) by Renters’ Rights Act 2025 (c. 26), ss. 98(5)(c)(ii), 145(1)(7) (with s. 138); S.I. 2026/421, reg. 3(h)(i) (with reg. 11)
+[^F26]: S. 44(4)(d) and word inserted (1.5.2026) by Renters’ Rights Act 2025 (c. 26), ss. 98(5)(c)(iii), 145(1)(7) (with s. 138); S.I. 2026/421, reg. 3(h)(i) (with reg. 11)
+[^F27]: Words in s. 45(2) substituted (1.5.2026) by Renters’ Rights Act 2025 (c. 26), ss. 103(6)(a)(i), 145(1)(7) (with s. 138); S.I. 2026/421, reg. 3(j) (with reg. 11)
+[^F28]: Words in s. 45(2) Table substituted (1.5.2026 for specified purposes) by Renters’ Rights Act 2025 (c. 26), ss. 98(6)(a)(i), 145(1)(7) (with s. 138); S.I. 2026/421, reg. 3(h)(ii) (with reg. 11)
+[^F29]: Words in s. 45(2) substituted (1.5.2026) by Renters’ Rights Act 2025 (c. 26), ss. 103(6)(a)(ii), 145(1)(7) (with s. 138); S.I. 2026/421, reg. 3(j) (with reg. 11)
+[^F30]: Words in s. 45(2) Table inserted (1.5.2026) by Renters’ Rights Act 2025 (c. 26), ss. 98(6)(b), 145(1)(7) (with s. 138); S.I. 2026/421, reg. 3(h)(i) (with reg. 11)
+[^F31]: Words in s. 45(2) Table substituted (1.5.2026 for specified purposes) by Renters’ Rights Act 2025 (c. 26), ss. 98(6)(a)(ii), 145(1)(7) (with s. 138); S.I. 2026/421, reg. 3(h)(ii) (with reg. 11)
+[^F32]: Word in s. 45(3) substituted (1.5.2026) by Renters’ Rights Act 2025 (c. 26), ss. 103(6)(b)(i), 145(1)(7) (with s. 138); S.I. 2026/421, reg. 3(j) (with reg. 11)
+[^F33]: Words in s. 45(3) omitted (1.5.2026) by virtue of Renters’ Rights Act 2025 (c. 26), ss. 103(6)(b)(ii), 145(1)(7) (with s. 138); S.I. 2026/421, reg. 3(j) (with reg. 11)
+[^F34]: Word in s. 45(4)(b) omitted (1.5.2026) by virtue of Renters’ Rights Act 2025 (c. 26), ss. 98(6)(c)(i), 145(1)(7) (with s. 138); S.I. 2026/421, reg. 3(h)(i) (with reg. 11)
+[^F35]: Words in s. 45(4)(c) inserted (1.5.2026) by Renters’ Rights Act 2025 (c. 26), ss. 98(6)(c)(ii), 145(1)(7) (with s. 138); S.I. 2026/421, reg. 3(h)(i) (with reg. 11)
+[^F36]: S. 45(4)(d) and word inserted (1.5.2026) by Renters’ Rights Act 2025 (c. 26), ss. 98(6)(c)(iii), 145(1)(7) (with s. 138); S.I. 2026/421, reg. 3(h)(i) (with reg. 11)
+[^F37]: Word in s. 46(1) substituted (1.5.2026) by Renters’ Rights Act 2025 (c. 26), ss. 98(7)(a), 145(1)(7) (with s. 138); S.I. 2026/421, reg. 3(h)(i) (with reg. 11)
+[^F38]: S. 46(3) substituted (1.5.2026) by Renters’ Rights Act 2025 (c. 26), ss. 98(7)(b), 145(1)(7) (with s. 138); S.I. 2026/421, reg. 3(h)(i) (with reg. 11)
+[^F39]: S. 46(4A) inserted (1.5.2026) by Renters’ Rights Act 2025 (c. 26), ss. 98(7)(c), 145(1)(7) (with s. 138); S.I. 2026/421, reg. 3(h)(i) (with reg. 11)
+[^F40]: S. 46A inserted (1.5.2026) by Renters’ Rights Act 2025 (c. 26), ss. 103(7), 145(1)(7) (with s. 138); S.I. 2026/421, reg. 3(j) (with reg. 11)
+[^F41]: S. 51A inserted (1.5.2026 for specified purposes) by Renters’ Rights Act 2025 (c. 26), ss. 104, 145(1)(7) (with s. 138); S.I. 2026/421, reg. 3(k) (with reg. 11)
+[^F42]: Words in s. 52(1) inserted (1.5.2026) by Renters’ Rights Act 2025 (c. 26), ss. 103(8), 145(1)(7) (with s. 138); S.I. 2026/421, reg. 3(j) (with reg. 11)
+[^F43]: Pt. 3 omitted (27.12.2025) by virtue of Renters’ Rights Act 2025 (c. 26), ss. 59, 145(5)(b) (with s. 138)
+[^F44]: S. 95(3) omitted (21.3.2024) by The Social Housing (Regulation) Act 2023 (Consequential and Miscellaneous Amendments) Regulations 2024 (S.I. 2024/399), reg. 1(2), Sch. 1 para. 4(2)
+[^F45]: Word in s. 99(4) substituted (21.3.2024) by The Social Housing (Regulation) Act 2023 (Consequential and Miscellaneous Amendments) Regulations 2024 (S.I. 2024/399), reg. 1(2), Sch. 1 para. 4(3)(a)
+[^F46]: Word in s. 99(4) omitted (21.3.2024) by The Social Housing (Regulation) Act 2023 (Consequential and Miscellaneous Amendments) Regulations 2024 (S.I. 2024/399), reg. 1(2), Sch. 1 para. 4(3)(b)
+[^F47]: Words in s. 99(4) omitted (21.3.2024) by The Social Housing (Regulation) Act 2023 (Consequential and Miscellaneous Amendments) Regulations 2024 (S.I. 2024/399), reg. 1(2), Sch. 1 para. 4(3)(c)
+[^F48]: S. 100(8) omitted (21.3.2024) by The Social Housing (Regulation) Act 2023 (Consequential and Miscellaneous Amendments) Regulations 2024 (S.I. 2024/399), reg. 1(2), Sch. 1 para. 4(4)
+[^F49]: Words in s. 102(2) inserted (20.9.2023) by Social Housing (Regulation) Act 2023 (c. 36), s. 46(3), Sch. 1 para. 4; S.I. 2023/1001, reg. 2(v)(ii)
+[^F50]: Words in s. 102(3) inserted (20.9.2023) by Social Housing (Regulation) Act 2023 (c. 36), s. 46(3), Sch. 1 para. 4; S.I. 2023/1001, reg. 2(v)(ii)
+[^F51]: S. 104(1)(aa) inserted (1.4.2024) by Social Housing (Regulation) Act 2023 (c. 36), s. 46(3), Sch. 1 para. 5; S.I. 2024/437, reg. 2(w)(ii)
+[^F52]: S. 104(2A)-(2C) inserted (1.4.2024) by Social Housing (Regulation) Act 2023 (c. 36), s. 46(3), Sch. 2 para. 2; S.I. 2024/437, reg. 2(x)
+[^F53]: S. 105(1)(aa) inserted (1.4.2024) by Social Housing (Regulation) Act 2023 (c. 36), s. 46(3), Sch. 1 para. 6; S.I. 2024/437, reg. 2(w)(ii)
+[^F54]: S. 105(4A)-(4C) inserted (1.4.2024) by Social Housing (Regulation) Act 2023 (c. 36), s. 46(3), Sch. 2 para. 3; S.I. 2024/437, reg. 2(x)
+[^F55]: Word in s. 106(1)(a) omitted (1.4.2024) by virtue of Social Housing (Regulation) Act 2023 (c. 36), s. 46(3), Sch. 1 para. 7(a); S.I. 2024/437, reg. 2(w)(ii)
+[^F56]: S. 106(1)(aa) inserted (1.4.2024) by Social Housing (Regulation) Act 2023 (c. 36), s. 46(3), Sch. 1 para. 7(b); S.I. 2024/437, reg. 2(w)(ii)
+[^F57]: S. 106(3A)-(3C) inserted (1.4.2024) by Social Housing (Regulation) Act 2023 (c. 36), s. 46(3), Sch. 2 para. 4; S.I. 2024/437, reg. 2(x)
+[^F58]: Word in s. 107 heading inserted (1.4.2024) by Social Housing (Regulation) Act 2023 (c. 36), s. 46(3), Sch. 2 para. 5(a); S.I. 2024/437, reg. 2(x)
+[^F59]: Word in s. 107(1)(a) omitted (1.4.2024) by virtue of Social Housing (Regulation) Act 2023 (c. 36), s. 46(3), Sch. 1 para. 8(a); S.I. 2024/437, reg. 2(w)(ii)
+[^F60]: S. 107(1)(aa) inserted (1.4.2024) by Social Housing (Regulation) Act 2023 (c. 36), s. 46(3), Sch. 1 para. 8(b); S.I. 2024/437, reg. 2(w)(ii)
+[^F61]: Words in s. 107(4)(a)(i) omitted (1.4.2024) by virtue of Social Housing (Regulation) Act 2023 (c. 36), s. 46(3), Sch. 2 para. 5(b); S.I. 2024/437, reg. 2(x)
+[^F62]: S. 107(4A)-(4C) inserted (1.4.2024) by Social Housing (Regulation) Act 2023 (c. 36), s. 46(3), Sch. 2 para. 5(c); S.I. 2024/437, reg. 2(x)
+[^F63]: Words in s. 107(5) omitted (1.4.2024) by virtue of Social Housing (Regulation) Act 2023 (c. 36), s. 46(3), Sch. 2 para. 5(d); S.I. 2024/437, reg. 2(x)
+[^F64]: Words in s. 108(1) omitted (1.4.2024) by virtue of Social Housing (Regulation) Act 2023 (c. 36), s. 46(3), Sch. 2 para. 6(a); S.I. 2024/437, reg. 2(x)
+[^F65]: S. 108(2A)-(2C) inserted (1.4.2024) by Social Housing (Regulation) Act 2023 (c. 36), s. 46(3), Sch. 2 para. 6(b); S.I. 2024/437, reg. 2(x)
+[^F66]: S. 108(3) omitted (1.4.2024) by virtue of Social Housing (Regulation) Act 2023 (c. 36), s. 46(3), Sch. 2 para. 6(c); S.I. 2024/437, reg. 2(x)
+[^F67]: S. 108(3A) inserted (1.4.2024) by Social Housing (Regulation) Act 2023 (c. 36), s. 46(3), Sch. 2 para. 6(d); S.I. 2024/437, reg. 2(x)
+[^F68]: Words in s. 116(1) inserted (1.4.2024) by Social Housing (Regulation) Act 2023 (c. 36), s. 46(3), Sch. 1 para. 9(a); S.I. 2024/437, reg. 2(w)(ii)
+[^F69]: Words in s. 116(1) omitted (21.3.2024) by The Social Housing (Regulation) Act 2023 (Consequential and Miscellaneous Amendments) Regulations 2024 (S.I. 2024/399), reg. 1(2), Sch. 1 para. 4(5)(a)
+[^F70]: Words in s. 116(1) omitted (21.3.2024) by The Social Housing (Regulation) Act 2023 (Consequential and Miscellaneous Amendments) Regulations 2024 (S.I. 2024/399), reg. 1(2), Sch. 1 para. 4(5)(b)
+[^F71]: S. 116(7)(aa) inserted (1.4.2024) by Social Housing (Regulation) Act 2023 (c. 36), s. 46(3), Sch. 1 para. 9(b); S.I. 2024/437, reg. 2(w)(ii)
+[^F72]: Words in s. 122 heading substituted (20.7.2023) by Social Housing (Regulation) Act 2023 (c. 36), ss. 11(2), 46(1)(a)
+[^F73]: Word in s. 122(1) omitted (20.7.2023) by virtue of Social Housing (Regulation) Act 2023 (c. 36), ss. 11(3)(a), 46(1)(a)
+[^F74]: Words in s. 122(1) inserted (20.7.2023) by Social Housing (Regulation) Act 2023 (c. 36), ss. 11(3)(b), 46(1)(a)
+[^F75]: S. 122(1A) inserted (20.7.2023) by Social Housing (Regulation) Act 2023 (c. 36), ss. 11(4), 46(1)(a)
+[^F76]: S. 134(3) inserted (1.6.2019) by Tenant Fees Act 2019 (c. 4), ss. 21(2), 34(1); S.I. 2019/857, reg. 3(t)
+[^F77]: Words in s. 135(3) inserted (15.4.2019) by Tenant Fees Act 2019 (c. 4), ss. 29(5)(a), 34(1); S.I. 2019/857, reg. 2(d)
+[^F78]: Words in s. 135(4)(e) inserted (1.4.2019) by Tenant Fees Act 2019 (c. 4), ss. 21(3)(a), 34(1); S.I. 2019/428, reg. 2(a)
+[^F79]: S. 135(5) substituted (1.4.2019) by Tenant Fees Act 2019 (c. 4), ss. 21(3)(b), 34(1); S.I. 2019/428, reg. 2(a)
+[^F80]: S. 135(6)(7) inserted (15.4.2019) by Tenant Fees Act 2019 (c. 4), ss. 29(5)(b), 34(1); S.I. 2019/857, reg. 2(d)
+[^F81]: Words in s. 162(5) inserted (29.4.2026 for specified purposes) by English Devolution and Community Empowerment Act 2026 (c. 23), s. 108(1)(6), Sch. 16 para. 15(a) (with s. 102)
+[^F82]: S. 162(6) inserted (29.4.2026 for specified purposes) by English Devolution and Community Empowerment Act 2026 (c. 23), s. 108(1)(6), Sch. 16 para. 15(b) (with s. 102)
+[^F83]: Words in s. 172(6) substituted (22.9.2017) by Neighbourhood Planning Act 2017 (c. 20), ss. 26(8)(b), 46(1) (with s. 31); S.I. 2017/936, reg. 3(a) (with reg. 5)
+[^F84]: Words in s. 203(1)(b) renumbered as s. 203(1)(b)(i) (30.9.2022) by Environment Act 2021 (c. 30), s. 147(3), Sch. 20 para. 5(2)(a) (with s. 144); S.I. 2022/48, reg. 5(d)
+[^F85]: S. 203(1)(b)(ii) and word inserted (30.9.2022) by Environment Act 2021 (c. 30), s. 147(3), Sch. 20 para. 5(2)(b) (with s. 144); S.I. 2022/48, reg. 5(d)
+[^F86]: Words in s. 203(2)(b) substituted (19.7.2017) by Neighbourhood Planning Act 2017 (c. 20), ss. 37(2)(a), 46(1); S.I. 2017/767, reg. 2(i)
+[^F87]: Words in s. 203(2)(b)(i) inserted (19.7.2017) by Neighbourhood Planning Act 2017 (c. 20), ss. 37(2)(b), 46(1); S.I. 2017/767, reg. 2(i)
+[^F88]: Words in s. 203(4)(b) renumbered as s. 203(4)(b)(i) (30.9.2022) by Environment Act 2021 (c. 30), s. 147(3), Sch. 20 para. 5(2)(a) (with s. 144); S.I. 2022/48, reg. 5(d)
+[^F89]: S. 203(4)(b)(ii) and word inserted (30.9.2022) by Environment Act 2021 (c. 30), s. 147(3), Sch. 20 para. 5(2)(b) (with s. 144); S.I. 2022/48, reg. 5(d)
+[^F90]: Words in s. 203(5)(b) substituted (19.7.2017) by Neighbourhood Planning Act 2017 (c. 20), ss. 37(2)(c), 46(1); S.I. 2017/767, reg. 2(i)
+[^F91]: Words in s. 203(5)(b)(i) inserted (19.7.2017) by Neighbourhood Planning Act 2017 (c. 20), ss. 37(2)(d), 46(1); S.I. 2017/767, reg. 2(i)
+[^F92]: Word in s. 203(10)(a) omitted (30.9.2022) by virtue of Environment Act 2021 (c. 30), s. 147(3), Sch. 20 para. 5(3)(a) (with s. 144); S.I. 2022/48, reg. 5(d)
+[^F93]: S. 203(10)(c) and word inserted (30.9.2022) by Environment Act 2021 (c. 30), s. 147(3), Sch. 20 para. 5(3)(b) (with s. 144); S.I. 2022/48, reg. 5(d)
+[^F94]: Words in s. 204(1) inserted (30.9.2022) by Environment Act 2021 (c. 30), s. 147(3), Sch. 20 para. 6(2) (with s. 144); S.I. 2022/48, reg. 5(d)
+[^F95]: S. 204(1A) inserted (30.9.2022) by Environment Act 2021 (c. 30), s. 147(3), Sch. 20 para. 6(3) (with s. 144); S.I. 2022/48, reg. 5(d)
+[^F96]: S. 204(4) substituted (19.7.2017) by Neighbourhood Planning Act 2017 (c. 20), ss. 37(3), 46(1); S.I. 2017/767, reg. 2(i)
+[^F97]: Words in s. 205(1) inserted (30.9.2022) by Environment Act 2021 (c. 30), s. 147(3), Sch. 20 para. 7 (with s. 144); S.I. 2022/48, reg. 5(d)
+[^F98]: Words in s. 205(1) substituted (13.7.2016) by The Housing and Planning Act 2016 (Commencement No.2, Transitional Provisions and Savings) Regulations 2016 (S.I. 2016/733), reg. 12(4)
+[^F99]: Words in s. 205 inserted (19.7.2017) by Neighbourhood Planning Act 2017 (c. 20), ss. 37(4)(a), 46(1); S.I. 2017/767, reg. 2(i)
+[^F100]: Words in s. 205(1) substituted (26.12.2023 for specified purposes, 1.5.2025 for specified purposes) by Levelling-up and Regeneration Act 2023 (c. 55), s. 255(3), Sch. 10 para. 11 (with s. 247); S.I. 2025/430, reg. 2(b)
+[^F101]: Word in s. 205(1) omitted (W.) (15.12.2025) by virtue of Infrastructure (Wales) Act 2024 (asc 3), ss. 74(a), 147(2), Sch. 3 para. 14(2)(a) (with s. 84(5)); S.I. 2025/698, art. 3(d)(l)
+[^F102]: Words in s. 205(1) inserted (W.) (15.12.2025) by Infrastructure (Wales) Act 2024 (asc 3), ss. 74(b), 147(2), Sch. 3 para. 14(2)(b) (with s. 84(5)); S.I. 2025/698, art. 3(d)(l)
+[^F103]: Words in s. 205 substituted (19.7.2017) by Neighbourhood Planning Act 2017 (c. 20), ss. 37(4)(b)(i), 46(1); S.I. 2017/767, reg. 2(i)
+[^F104]: Words in s. 205 inserted (19.7.2017) by Neighbourhood Planning Act 2017 (c. 20), ss. 37(4)(b)(ii), 46(1); S.I. 2017/767, reg. 2(i)
+[^F105]: Words in s. 205 inserted (19.7.2017) by Neighbourhood Planning Act 2017 (c. 20), ss. 37(4)(c), 46(1); S.I. 2017/767, reg. 2(i) (as amended (19.7.2017) by The Neighbourhood Planning Act 2017 (Commencement No. 1) Regulations 2017 (S.I. 2017/767), reg. 3)
+[^F106]: Words in s. 205 inserted (19.7.2017) by Neighbourhood Planning Act 2017 (c. 20), ss. 37(4)(d), 46(1); S.I. 2017/767, reg. 2(i)
+[^F107]: Word in s. 207(6)(a) omitted (1.4.2018) by virtue of Wales Act 2017 (c. 4), s. 71(4), Sch. 6 para. 111(2)(a) (with Sch. 7 paras. 1, 6); S.I. 2017/1179, reg. 3(r)
+[^F108]: S. 207(6)(b) omitted (1.4.2018) by virtue of Wales Act 2017 (c. 4), s. 71(4), Sch. 6 para. 111(2)(b) (with Sch. 7 paras. 1, 6); S.I. 2017/1179, reg. 3(r)
+[^F109]: S. 207(6A) inserted (1.4.2018) by Wales Act 2017 (c. 4), s. 71(4), Sch. 6 para. 111(3) (with Sch. 7 paras. 1, 6); S.I. 2017/1179, reg. 3(r)
+[^F110]: Words in s. 207(7) inserted (1.4.2018) by Wales Act 2017 (c. 4), s. 71(4), Sch. 6 para. 111(4) (with Sch. 7 paras. 1, 6); S.I. 2017/1179, reg. 3(r)
+[^F111]: S. 208(10) substituted (1.4.2018) by Wales Act 2017 (c. 4), s. 71(4), Sch. 6 para. 112(2) (with Sch. 7 paras. 1, 6); S.I. 2017/1179, reg. 3(r)
+[^F112]: Words in s. 208(12) inserted (1.4.2018) by Wales Act 2017 (c. 4), s. 71(4), Sch. 6 para. 112(3) (with Sch. 7 paras. 1, 6); S.I. 2017/1179, reg. 3(r)
+[^F113]: Sch. 5 Pt. 2 omitted (21.3.2024) by The Social Housing (Regulation) Act 2023 (Consequential and Miscellaneous Amendments) Regulations 2024 (S.I. 2024/399), reg. 1(2), Sch. 1 para. 4(6)
+[^F114]: Sch. 20 para. 7 substituted (1.4.2018) by The Policing and Crime Act 2017 (Consequential Amendments) Regulations 2018 (S.I. 2018/226), regs. 1, 11(2)

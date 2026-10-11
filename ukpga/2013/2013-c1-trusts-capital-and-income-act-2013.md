@@ -1,0 +1,169 @@
+---
+title: "Trusts (Capital and Income) Act 2013"
+identifier: "ukpga/2013/1"
+citation: "2013 c. 1"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W"
+date: 2013-01-31
+last_amended: 2014-01-01
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/2013/1"
+source_modified: 2015-11-11
+retrieved: 2026-10-11
+---
+
+# Trusts (Capital and Income) Act 2013
+
+**2013 c. 1**
+
+An Act to amend the law relating to capital and income in trusts.
+
+[31st January 2013]
+
+Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## 1 Disapplication of apportionment etc. rules
+
+(1) Any entitlement to income under a new trust is to income as it arises (and accordingly section 2 of the Apportionment Act 1870, which provides for income to accrue from day to day, does not apply in relation to the trust).
+
+(2) The following do not apply in relation to a new trust—
+
+(a) the first part of the rule known as the rule in *Howe v. Earl of Dartmouth* (which requires certain residuary personal estate to be sold);
+
+(b) the second part of that rule (which withholds from a life tenant income arising from certain investments and compensates the life tenant with payments of interest);
+
+(c) the rule known as the rule in *Re Earl of Chesterfield's Trusts* (which requires the proceeds of the conversion of certain investments to be apportioned between capital and income);
+
+(d) the rule known as the rule in *Allhusen v. Whittell* (which requires a contribution to be made from income for the purpose of paying a deceased person's debts, legacies and annuities).
+
+(3) Trustees have power to sell any property which (but for subsection (2)(a)) they would have been under a duty to sell.
+
+(4) Subsections (1) to (3) have effect subject to any contrary intention that appears—
+
+(a) in any trust instrument of the trust, and
+
+(b) in any power under which the trust is created or arises.
+
+(5) In this section “new trust” means a trust created or arising on or after the day on which this section comes into force (and includes a trust created or arising on or after that day under a power conferred before that day).
+
+## 2 Classification of certain corporate distributions as capital
+
+(1) A receipt consisting of a tax-exempt corporate distribution is to be treated for the purposes of any trust to which this section applies as a receipt of capital (even if it would otherwise be treated for those purposes as a receipt of income).
+
+(2) Subsection (1) has effect subject to any contrary intention that appears—
+
+(a) in any trust instrument of the trust, and
+
+(b) in any power under which the trust is created or arises.
+
+(3) The following are tax-exempt corporate distributions for the purposes of this section and section 3—
+
+(a) a distribution that is an exempt distribution by virtue of section 1076, 1077 or 1078 of the Corporation Tax Act 2010, and
+
+(b) any other distribution of assets (in any form) by a body corporate, where the distribution is of a description specified by an order made by the Secretary of State by statutory instrument.
+
+(4) An order under subsection (3)(b) may specify a description of distribution only if neither income tax nor capital gains tax is chargeable in respect of a distribution of that description.
+
+(5) A statutory instrument containing an order under subsection (3)(b) is subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(6) This section applies to any trust, whether created or arising before or after this section comes into force.
+
+## 3 Power to compensate income beneficiary
+
+(1) This section applies in any case where—
+
+(a) by virtue of section 2 a tax-exempt corporate distribution made by a body corporate is treated for the purposes of a trust to which that section applies as a receipt of capital, and
+
+(b) the trustees are satisfied that it is likely that, but for the distribution, there would have been a receipt from the body corporate that would have been a receipt of income for the purposes of the trust.
+
+(2) The trustees may make a payment out of the capital funds of the trust, or transfer any property of the trust, to an income beneficiary for the purpose set out in subsection (3) (and any such payment or transfer is to be treated as a payment or transfer of capital).
+
+(3) The purpose is placing the income beneficiary (so far as practicable) in the position in which the trustees consider that the beneficiary would have been had there been the receipt of income mentioned in subsection (1)(b).
+
+(4) In this section “income beneficiary”, in relation to a trust, means a person entitled to income arising under the trust, or for whose benefit such income may be applied.
+
+## 4 Total return investment by charities
+
+After section 104 of the Charities Act 2011 insert—
+
+> **Total return investment**
+>
+> **104A Investment of endowment fund on total return basis**
+>
+> (1) This section applies to any available endowment fund of a charity.
+>
+> (2) If the condition in subsection (3) is met in relation to the charity, the charity trustees may resolve that the fund, or a portion of it—
+>
+> (a) should be invested without the need to maintain a balance between capital and income returns, and
+>
+> (b) accordingly, should be freed from the restrictions with respect to expenditure of capital that apply to it.
+>
+> (3) The condition is that the charity trustees are satisfied that it is in the interests of the charity that regulations under section 104B(1)(b) should apply in place of the restrictions mentioned in subsection (2)(b).
+>
+> (4) While a resolution under subsection (2) has effect, the regulations apply in place of the restrictions.
+>
+> (5) In this section “available endowment fund”, in relation to a charity, means—
+>
+> (a) the whole of the charity's permanent endowment if it is all subject to the same trusts, or
+>
+> (b) any part of its permanent endowment which is subject to any particular trusts that are different from those to which any other part is subject.
+>
+> **104B Total return investment: regulations**
+>
+> (1) The Commission may by regulations make provision about—
+>
+> (a) resolutions under section 104A(2),
+>
+> (b) the investment of a relevant fund without the need to maintain a balance between capital and income returns, and expenditure from such a fund, and
+>
+> (c) the steps that must be taken by charity trustees in respect of a fund, or portion of a fund, in the event of a resolution under section 104A(2) ceasing to have effect in respect of the fund or portion.
+>
+> (2) Regulations under subsection (1)(a) may, in particular—
+>
+> (a) specify steps that must be taken by charity trustees before passing a resolution under section 104A(2),
+>
+> (b) make provision about the variation and revocation of such a resolution,
+>
+> (c) require charity trustees to notify the Commission of the passing, variation or revocation of such a resolution, and
+>
+> (d) specify circumstances in which such a resolution is to cease to have effect.
+>
+> (3) Regulations under subsection (1)(b) may, in particular—
+>
+> (a) make provision requiring a relevant fund to be invested, and the returns from that investment to be allocated, in such a way as to maintain (so far as practicable) the long-term capital value of the fund,
+>
+> (b) make provision about the taking of advice by charity trustees in connection with the investment of, and expenditure from, a relevant fund,
+>
+> (c) confer on the charity trustees of a relevant fund a power (subject to such restrictions as may be specified in the regulations) to accumulate income,
+>
+> (d) make provision about expenditure from a relevant fund (including by imposing limits on expenditure and specifying circumstances in which expenditure requires the Commission's consent), and
+>
+> (e) require charity trustees to report to the Commission on the investment of, and expenditure from, a relevant fund.
+>
+> (4) A power to accumulate income conferred by regulations under subsection (1)(b) or (c) is not subject to section 14(3) of the Perpetuities and Accumulations Act 2009 (which provides for certain powers to accumulate income to cease to have effect after 21 years).
+>
+> (5) Any regulations made by the Commission under this section must be published by the Commission in such manner as it thinks fit.
+>
+> (6) In this section “relevant fund” means a fund, or portion of a fund, in respect of which a resolution under section 104A(2) has effect, and includes the returns from the investment of the fund or portion.
+
+## 5 Crown application, extent and commencement
+
+(1) Sections 1 to 3 bind the Crown.
+
+(2) This Act extends to England and Wales only.
+
+(3) This section and section 6 come into force on the day on which this Act is passed, but otherwise this Act comes into force on such day as the Secretary of State may by order made by statutory instrument appoint.
+
+(4) An order under subsection (3) may—
+
+(a) appoint different days for different purposes;
+
+(b) make such provision as the Secretary of State considers necessary or expedient for transitory, transitional or saving purposes in connection with the coming into force of any provision of this Act.
+
+## 6 Short title
+
+This Act may be cited as the Trusts (Capital and Income) Act 2013.

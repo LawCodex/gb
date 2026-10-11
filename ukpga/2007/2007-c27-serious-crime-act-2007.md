@@ -1,0 +1,7829 @@
+---
+title: "Serious Crime Act 2007"
+identifier: "ukpga/2007/27"
+citation: "2007 c. 27"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S+N.I."
+date: 2007-10-30
+last_amended: 2026-09-30
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/2007/27"
+source_modified: 2026-09-29
+retrieved: 2026-10-11
+---
+
+# Serious Crime Act 2007
+
+**2007 c. 27**
+
+An Act to make provision about serious crime prevention orders; to create offences in respect of the encouragement or assistance of crime; to enable information to be shared or processed to prevent fraud or for purposes relating to proceeds of crime; to enable data matching to be conducted both in relation to fraud and for other purposes; to transfer functions of the Director of the Assets Recovery Agency to the Serious Organised Crime Agency and other persons and to make further provision in connection with the abolition of the Agency and the office of Director; to amend the Proceeds of Crime Act 2002 in relation to certain investigations and in relation to accredited financial investigators, management receivers and enforcement receivers, cash recovery proceedings and search warrants; to extend stop and search powers in connection with incidents involving serious violence; to make amendments relating to Her Majesty's Revenue and Customs in connection with the regulation of investigatory powers; and for connected purposes.
+
+[30th October 2007]
+
+Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## Part 1 — Serious Crime Prevention Orders
+
+### General
+
+#### 1 Serious crime prevention orders
+
+(1) The High Court in England and Wales may make an order if—
+
+(a) it is satisfied that a person has been involved in serious crime (whether in England and Wales or elsewhere); and
+
+(b) it has reasonable grounds to believe that the order would protect the public by preventing, restricting or disrupting involvement by the person in serious crime in England and Wales.
+
+[[^F1](1A) The appropriate court in Scotland may make an order if—
+
+(a) it is satisfied that a person has been involved in serious crime (whether in Scotland or elsewhere); and
+
+(b) it has reasonable grounds to believe that the order would protect the public by preventing, restricting or disrupting involvement by the person in serious crime in Scotland.]
+
+(2) The High Court in Northern Ireland may make an order if—
+
+(a) it is satisfied that a person has been involved in serious crime (whether in Northern Ireland or elsewhere); and
+
+(b) it has reasonable grounds to believe that the order would protect the public by preventing, restricting or disrupting involvement by the person in serious crime in Northern Ireland.
+
+(3) An order under this section may contain—
+
+(a) such prohibitions, restrictions or requirements; and
+
+(b) such other terms;
+
+as the court considers appropriate for the purpose of protecting the public by preventing, restricting or disrupting involvement by the person concerned in serious crime in England and Wales [[^F2], Scotland] or (as the case may be) Northern Ireland.
+
+(4) The powers of the court in respect of an order under this section are subject to sections 6 to 15 (safeguards).
+
+[[^F3](5) In this Part—
+
+- “appropriate court” means the Court of Session or sheriff;
+
+- “serious crime prevention order” means—
+
+  - (a) an order under this section;
+  - (b) an order under section 19 (corresponding order of the Crown Court on conviction); or
+  - (c) an order under section 22A (corresponding order of the High Court of Justiciary or sheriff on conviction).]
+
+(6) For the purposes of this Part references to the person who is the subject of a serious crime prevention order are references to the person against whom the public are to be protected.
+
+#### 2 Involvement in serious crime: England and Wales orders
+
+(1) For the purposes of this Part, a person has been involved in serious crime in England and Wales if he—
+
+(a) has committed a serious offence in England and Wales;
+
+(b) has facilitated the commission by another person of a serious offence in England and Wales; or
+
+(c) has conducted himself in a way that was likely to facilitate the commission by himself or another person of a serious offence in England and Wales (whether or not such an offence was committed).
+
+(2) In this Part “a serious offence in England and Wales” means an offence under the law of England and Wales which, at the time when the court is considering the application or matter in question—
+
+(a) is specified, or falls within a description specified, in Part 1 of Schedule 1; or
+
+(b) is one which, in the particular circumstances of the case, the court considers to be sufficiently serious to be treated for the purposes of the application or matter as if it were so specified.
+
+(3) For the purposes of this Part, involvement in serious crime in England and Wales is any one or more of the following—
+
+(a) the commission of a serious offence in England and Wales;
+
+(b) conduct which facilitates the commission by another person of a serious offence in England and Wales;
+
+(c) conduct which is likely to facilitate the commission, by the person whose conduct it is or another person, of a serious offence in England and Wales (whether or not such an offence is committed).
+
+(4) For the purposes of section 1(1)(a), a person has been involved in serious crime elsewhere than in England and Wales if he—
+
+(a) has committed a serious offence in a country outside England and Wales;
+
+(b) has facilitated the commission by another person of a serious offence in a country outside England and Wales; or
+
+(c) has conducted himself in a way that was likely to facilitate the commission by himself or another person of a serious offence in a country outside England and Wales (whether or not such an offence was committed).
+
+(5) In subsection (4) “a serious offence in a country outside England and Wales” means an offence under the law of a country outside England and Wales which, at the time when the court is considering the application or matter in question—
+
+(a) would be an offence under the law of England and Wales if committed in or as regards England and Wales; and
+
+(b) either—
+
+(i) would be an offence which is specified, or falls within a description specified, in Part 1 of Schedule 1 if committed in or as regards England and Wales; or
+
+(ii) is conduct which, in the particular circumstances of the case, the court considers to be sufficiently serious to be treated for the purposes of the application or matter as if it meets the test in sub-paragraph (i).
+
+(6) The test in subsection (4) is to be used instead of the [[^F4]tests in sections 2A(1) and] 3(1) in deciding for the purposes of section 1(1)(a) whether a person has been involved in serious crime in[[^F5]Scotland or (as the case may be)] Northern Ireland.
+
+(7) An act punishable under the law of a country outside the United Kingdom constitutes an offence under that law for the purposes of subsection (5), however it is described in that law.
+
+#### 2A [[^F6]Involvement in serious crime: Scotland orders
+
+(1) For the purposes of this Part, a person has been involved in serious crime in Scotland if he—
+
+(a) has committed a serious offence in Scotland;
+
+(b) has facilitated the commission by another person of a serious offence in Scotland; or
+
+(c) has conducted himself in a way that was likely to facilitate the commission by himself or another person of a serious offence in Scotland (whether or not such an offence was committed).
+
+(2) In this Part “a serious offence in Scotland” means an offence under the law of Scotland which, at the time when the court is considering the application or matter in question—
+
+(a) is specified, or falls within a description specified, in Part 1A of Schedule 1; or
+
+(b) is one which, in the particular circumstances of the case, the court considers to be sufficiently serious to be treated for the purposes of the application or matter as if it were so specified.
+
+(3) For the purposes of this Part, involvement in serious crime in Scotland is any one or more of the following—
+
+(a) the commission of a serious offence in Scotland;
+
+(b) conduct which facilitates the commission by another person of a serious offence in Scotland;
+
+(c) conduct which is likely to facilitate the commission, by the person whose conduct it is or another person, of a serious offence in Scotland (whether or not such an offence is committed).
+
+(4) For the purposes of section 1(1A)(a), a person has been involved in serious crime elsewhere than in Scotland if he—
+
+(a) has committed a serious offence in a country outside Scotland;
+
+(b) has facilitated the commission by another person of a serious offence in a country outside Scotland; or
+
+(c) has conducted himself in a way that was likely to facilitate the commission by himself or another person of a serious offence in a country outside Scotland (whether or not such an offence was committed).
+
+(5) In subsection (4) “ a serious offence in a country outside Scotland ” means an offence under the law of a country outside Scotland which, at the time when the court is considering the application or matter in question—
+
+(a) would be an offence under the law of Scotland if committed in or as regards Scotland; and
+
+(b) either—
+
+(i) would be an offence which is specified, or falls within a description specified, in Part 1A of Schedule 1 if committed in or as regards Scotland; or
+
+(ii) is conduct which, in the particular circumstances of the case, the court considers to be sufficiently serious to be treated for the purposes of the application or matter as if it meets the test in sub-paragraph (i).
+
+(6) The test in subsection (4) is to be used instead of the tests in sections 2(1) and 3(1) in deciding for the purposes of section 1(1A)(a) whether a person has been involved in serious crime in England and Wales or (as the case may be) Northern Ireland.
+
+(7) An act punishable under the law of a country outside the United Kingdom constitutes an offence under that law for the purposes of subsection (5), however it is described in that law.]
+
+#### 3 Involvement in serious crime: Northern Ireland orders
+
+(1) For the purposes of this Part, a person has been involved in serious crime in Northern Ireland if he—
+
+(a) has committed a serious offence in Northern Ireland;
+
+(b) has facilitated the commission by another person of a serious offence in Northern Ireland; or
+
+(c) has conducted himself in a way that was likely to facilitate the commission by himself or another person of a serious offence in Northern Ireland (whether or not such an offence was committed).
+
+(2) In this Part “a serious offence in Northern Ireland” means an offence under the law of Northern Ireland which, at the time when the court is considering the application or matter in question—
+
+(a) is specified, or falls within a description specified, in Part 2 of Schedule 1; or
+
+(b) is one which, in the particular circumstances of the case, the court considers to be sufficiently serious to be treated for the purposes of the application or matter as if it were so specified.
+
+(3) For the purposes of this Part, involvement in serious crime in Northern Ireland is any one or more of the following—
+
+(a) the commission of a serious offence in Northern Ireland;
+
+(b) conduct which facilitates the commission by another person of a serious offence in Northern Ireland;
+
+(c) conduct which is likely to facilitate the commission, by the person whose conduct it is or another person, of a serious offence in Northern Ireland (whether or not such an offence is committed).
+
+(4) For the purposes of section 1(2)(a), a person has been involved in serious crime elsewhere than in Northern Ireland if he—
+
+(a) has committed a serious offence in a country outside Northern Ireland;
+
+(b) has facilitated the commission by another person of a serious offence in a country outside Northern Ireland; or
+
+(c) has conducted himself in a way that was likely to facilitate the commission by himself or another person of a serious offence in a country outside Northern Ireland (whether or not such an offence was committed).
+
+(5) In subsection (4) “a serious offence in a country outside Northern Ireland” means an offence under the law of a country outside Northern Ireland which, at the time when the court is considering the application or matter in question—
+
+(a) would be an offence under the law of Northern Ireland if committed in or as regards Northern Ireland; and
+
+(b) either—
+
+(i) would be an offence which is specified, or falls within a description specified, in Part 2 of Schedule 1 if committed in or as regards Northern Ireland; or
+
+(ii) is conduct which, in the particular circumstances of the case, the court considers to be sufficiently serious to be treated for the purposes of the application or matter as if it meets the test in sub-paragraph (i).
+
+(6) The test in subsection (4) is to be used instead of the [[^F7]tests in sections 2(1) and 2A(1)] in deciding for the purposes of section 1(2)(a) whether a person has been involved in serious crime in England and Wales[[^F8]or (as the case may be) Scotland].
+
+(7) An act punishable under the law of a country outside the United Kingdom constitutes an offence under that law for the purposes of subsection (5), however it is described in that law.
+
+#### 4 Involvement in serious crime: supplementary
+
+(1) In considering for the purposes of this Part whether a person has committed a serious offence—
+
+(a) the court must decide that the person has committed the offence if—
+
+(i) he has been convicted of the offence; and
+
+(ii) the conviction has not been quashed on appeal nor has the person been pardoned of the offence; but
+
+(b) the court must not otherwise decide that the person has committed the offence.
+
+(2) In deciding for the purposes of this Part whether a person (“the respondent”) facilitates the commission by another person of a serious offence, the court must ignore—
+
+(a) any act that the respondent can show to be reasonable in the circumstances; and
+
+(b) subject to this, his intentions, or any other aspect of his mental state, at the time.
+
+(3) In deciding for the purposes of this Part whether a person (“the respondent”) conducts himself in a way that is likely to facilitate the commission by himself or another person of a serious offence (whether or not such an offence is committed), the court must ignore—
+
+(a) any act that the respondent can show to be reasonable in the circumstances; and
+
+(b) subject to this, his intentions, or any other aspect of his mental state, at the time.
+
+(4) The Secretary of State may by order amend [[^F9]Part 1 of] Schedule 1.
+
+[[^F10](4A) The Scottish Ministers may by order amend Part 1A of Schedule 1.
+
+(4B) The Scottish Ministers may not exercise the power conferred by subsection (4A) in relation to an offence which relates to a reserved matter (within the meaning of the Scotland Act 1998) without the consent of the Secretary of State.]
+
+[[^F11](5) The Department of Justice in Northern Ireland may by order amend Part 2 of Schedule 1.]
+
+#### 5 Type of provision that may be made by orders
+
+(1) This section contains examples of the type of provision that may be made by a serious crime prevention order but it does not limit the type of provision that may be made by such an order.
+
+(2) Examples of prohibitions, restrictions or requirements that may be imposed by serious crime prevention orders in England and Wales[[^F12], Scotland] or Northern Ireland include prohibitions, restrictions or requirements in relation to places other than England and Wales[[^F12], Scotland] or (as the case may be) Northern Ireland.
+
+(3) Examples of prohibitions, restrictions or requirements that may be imposed on individuals (including partners in a partnership) by serious crime prevention orders include prohibitions or restrictions on, or requirements in relation to—
+
+(a) an individual's financial, property or business dealings or holdings;
+
+(b) an individual's working arrangements;
+
+(c) the means by which an individual communicates or associates with others, or the persons with whom he communicates or associates;
+
+(d) the premises to which an individual has access;
+
+(e) the use of any premises or item by an individual;
+
+(f) an individual's travel (whether within the United Kingdom, between the United Kingdom and other places or otherwise).
+
+(4) Examples of prohibitions, restrictions or requirements that may be imposed on bodies corporate, partnerships and unincorporated associations by serious crime prevention orders include prohibitions or restrictions on, or requirements in relation to—
+
+(a) financial, property or business dealings or holdings of such persons;
+
+(b) the types of agreements to which such persons may be a party;
+
+(c) the provision of goods or services by such persons;
+
+(d) the premises to which such persons have access;
+
+(e) the use of any premises or item by such persons;
+
+(f) the employment of staff by such persons.
+
+(5) Examples of requirements that may be imposed on any persons by serious crime prevention orders include—
+
+(a) a requirement on a person to answer questions, or provide information, specified or described in an order—
+
+(i) at a time, within a period or at a frequency;
+
+(ii) at a place;
+
+(iii) in a form and manner; and
+
+(iv) to a law enforcement officer or description of law enforcement officer;
+
+notified to the person by a law enforcement officer specified or described in the order;
+
+(b) a requirement on a person to produce documents specified or described in an order—
+
+(i) at a time, within a period or at a frequency;
+
+(ii) at a place;
+
+(iii) in a manner; and
+
+(iv) to a law enforcement officer or description of law enforcement officer;
+
+notified to the person by a law enforcement officer specified or described in the order.
+
+(6) The prohibitions, restrictions or requirements that may be imposed on individuals by serious crime prevention orders include prohibitions, restrictions or requirements in relation to an individual's private dwelling (including, for example, prohibitions or restrictions on, or requirements in relation to, where an individual may reside).
+
+(7) In this Part—
+
+- “document” means anything in which information of any description is recorded (whether or not in legible form);
+
+- “a law enforcement officer” means—
+
+  - (a) a constable;
+  - (b) [[^F13]a National Crime Agency officer who is for the time being designated under section 9 or 10 of the Crime and Courts Act 2013;]
+  - (c) an officer of Revenue and Customs; or
+  - (d) a member of the Serious Fraud Office; and
+
+- “premises” includes any land, vehicle, vessel, aircraft or hovercraft.
+
+(8) Any reference in this Part to the production of documents is, in the case of a document which contains information recorded otherwise than in legible form, a reference to the production of a copy of the information in legible form.
+
+#### 5A [[^F14]Verification and disclosure of information
+
+(1) This section applies where information is provided to a law enforcement officer in response to an information requirement imposed by a serious crime prevention order.
+
+“ Information requirement ” means a requirement of the kind referred to in section 5(5)(a) or (b).
+
+(2) The law enforcement officer may, for the purpose of—
+
+(a) checking the accuracy of the information, or
+
+(b) discovering the true position,
+
+disclose the information to any person who the officer reasonably believes may be able to contribute to doing either of those things.
+
+(3) Any other person may disclose information to—
+
+(a) the law enforcement officer, or
+
+(b) a person to whom the law enforcement officer has disclosed information under subsection (2),
+
+for the purpose of contributing to doing either of the things mentioned in subsection (2)(a) and (b).
+
+(4) The law enforcement officer may also disclose the information referred to in subsection (1) for the purposes of—
+
+(a) the prevention, detection, investigation or prosecution of criminal offences, whether in the United Kingdom or elsewhere, or
+
+(b) the prevention, detection or investigation of conduct for which penalties other than criminal penalties are provided under the law of any part of the United Kingdom or of any country or territory outside the United Kingdom.
+
+(5) A disclosure under this section does not breach—
+
+(a) any obligation of confidence owed by the person making the disclosure, or
+
+(b) any other restriction on the disclosure of information (however imposed).
+
+(6) But nothing in this section authorises a disclosure, in contravention of any provisions of [[^F15]the data protection legislation], of personal data which [[^F16]is] not exempt from those provisions.
+
+[[^F17](7) In this section, “the data protection legislation” has the same meaning as in the Data Protection Act 2018 (see section 3 of that Act).]]
+
+### [[^F18]Electronic monitoring requirements
+
+#### 5B Electronic monitoring requirements
+
+(1) A serious crime prevention order made by a court in England and Wales may require an individual (including a partner in a partnership) to submit to electronic monitoring of their compliance with prohibitions, restrictions or other requirements imposed by the order.
+
+(2) A requirement imposed under subsection (1) is referred to in this Part as an “electronic monitoring requirement”.
+
+(3) A serious crime prevention order that includes an electronic monitoring requirement must specify the person who is to be responsible for the monitoring.
+
+(4) The person specified under subsection (3) (“the responsible person”) must be of a description specified in regulations made by the Secretary of State.
+
+(5) Where a serious crime prevention order imposes an electronic monitoring requirement on a person, the person must (among other things)—
+
+(a) submit, as required from time to time by the responsible person, to—
+
+(i) being fitted with, or the installation of, any necessary apparatus, and
+
+(ii) the inspection or repair of any apparatus fitted or installed for the purpose of the monitoring;
+
+(b) not interfere with, or with the working of, any apparatus fitted or installed for the purpose of the monitoring;
+
+(c) take any steps required by the responsible person for the purpose of keeping in working order any apparatus fitted or installed for the purpose of the monitoring.
+
+These obligations have effect as requirements of the order.
+
+(6) A serious crime prevention order may not provide for an electronic monitoring requirement to have effect for more than 12 months (but this does not limit any power of a court to extend that period).
+
+#### 5C Conditions for imposing electronic monitoring requirements
+
+(1) This section applies for the purpose of determining whether a court may impose an electronic monitoring requirement on a person (“P”) under section 5B.
+
+(2) The requirement may not be imposed in P’s absence.
+
+(3) If there is a person (other than P) without whose co-operation it would be impracticable to secure the monitoring in question, the requirement may not be imposed without that person’s consent.
+
+(4) A court may impose the requirement in relation to a relevant police area or areas only if—
+
+(a) it has been notified by the Secretary of State that electronic monitoring arrangements are available in the area or areas, and
+
+(b) it is satisfied that the necessary provision can be made under the arrangements currently available.
+
+(5) For the purposes of subsection (4)—
+
+- “relevant police area” means—
+
+  - the police area in England or Wales in which it appears to the court that P resides or will reside, and
+  
+  - in a case where it is proposed to include in the order—
+  
+    - a requirement that P must remain, for specified periods, at a specified place, or
+    - a provision prohibiting P from entering a specified place or area,
+  
+    the police area in England or Wales in which the place or area proposed to be specified is situated;
+
+- “specified” means specified in the order.
+
+#### 5D Data from electronic monitoring: code of practice
+
+(1) The Secretary of State must issue a code of practice relating to the processing of data gathered in the course of electronic monitoring of individuals under electronic monitoring requirements imposed by serious crime prevention orders.
+
+(2) A failure to act in accordance with a code issued under this section does not of itself make a person liable to any criminal or civil proceedings.]
+
+### General safeguards in relation to orders
+
+#### 6 Any individual must be 18 or over
+
+An individual under the age of 18 may not be the subject of a serious crime prevention order.
+
+#### 7 [[^F19]Other exceptions
+
+(1) A person may not be made the subject of a serious crime prevention order in England and Wales if the person falls within a description specified by order of the Secretary of State.
+
+[[^F20](1A) A person may not be made the subject of a serious crime prevention order in Scotland if the person falls within a description specified by order of the Scottish Ministers.]
+
+(2) A person may not be made the subject of a serious crime prevention order in Northern Ireland if the person falls within a description specified by order of the Department of Justice in Northern Ireland.]
+
+#### 8 Limited class of applicants for making of orders
+
+[^F21][[^F22]1] [^F21]A serious crime prevention order may be made only on an application by—
+
+[^F21]a [^F21]in the case of an order in England and Wales—
+
+[^F21]i [^F21]the Director of Public Prosecutions;
+
+[^F23][^F21]ii [^F21]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . .; [^F24][^F21]...
+
+[^F21]iii [^F21]the Director of the Serious Fraud Office; [^F21][[^F25]or
+
+[^F21]iv [^F21]subject to subsection (2), a chief officer of police;]
+
+[^F21][[^F26]aa [^F21]in the case of an order in Scotland [^F21][[^F27]—
+
+[^F21]i [^F21]the Lord Advocate; or
+
+[^F21]ii [^F21]subject to subsection (2), the chief officer of police;]]
+
+[^F21]b [^F21]in the case of an order in Northern Ireland [^F21][[^F28]—
+
+[^F21]i [^F21]the Director of Public Prosecutions for Northern Ireland; or
+
+[^F21]ii [^F21]subject to subsection (2), the chief officer of police.]
+
+[^F21][[^F29]2 [^F21]A chief officer of police may make an application for a serious crime prevention order only if—
+
+[^F21]a [^F21]it is an application for an order under section 1 that is terrorism-related (see section 8A);
+
+[^F21]b [^F21]the chief officer has consulted—
+
+[^F21]i [^F21]the Director of Public Prosecutions, in the case of an order in England and Wales;
+
+[^F21]ii [^F21]the Lord Advocate, in the case of an order in Scotland; or
+
+[^F21]iii [^F21]the Director for Public Prosecutions for Northern Ireland, in the case of an order in Northern Ireland; and
+
+[^F21]c [^F21]in the case of an application by the chief constable of the Police Service of Scotland, it is made to the Court of Session (and not to the sheriff).
+
+[^F21]3 [^F21]In this section “chief officer of police”—
+
+[^F21]a [^F21]in relation to England and Wales, means the chief officer of police of a police force in England and Wales;
+
+[^F21]b [^F21]in relation to Scotland, means the chief constable of the Police Service of Scotland;
+
+[^F21]c [^F21]in relation to Northern Ireland, means the Chief Constable of the Police Service of Northern Ireland.]
+
+[[^F21](1) A serious crime prevention order may be made by the High Court in England and Wales—
+
+(a) only on an application by—
+
+(i) the Director of Public Prosecutions,
+
+(ii) the Director of the Serious Fraud Office,
+
+(iii) the Director General of the National Crime Agency,
+
+(iv) the Commissioners for His Majesty’s Revenue and Customs,
+
+(v) the chief officer of police of a police force in England and Wales,
+
+(vi) the Chief Constable of the British Transport Police Force, or
+
+(vii) the Chief Constable of the Ministry of Defence Police, and
+
+(b) in the case of an application by a person listed in paragraph (a)(iii) to (vii), only if the person has consulted the Director of Public Prosecutions.
+
+(2) A serious crime prevention order may be made by the Crown Court in England and Wales—
+
+(a) only on an application by—
+
+(i) the Director of Public Prosecutions,
+
+(ii) the Director of the Serious Fraud Office, or
+
+(iii) the chief officer of police of a police force in England and Wales, and
+
+(b) in the case of an application by the chief officer of police of such a police force, only if—
+
+(i) it is an application for an order under section 19 or 19A that is terrorism-related (see section 8A), and
+
+(ii) the chief officer has consulted the Director of Public Prosecutions.
+
+(3) A serious crime prevention order may be made by a court or sheriff in Scotland—
+
+(a) only on an application by—
+
+(i) the Lord Advocate, or
+
+(ii) the chief constable of the Police Service of Scotland, and
+
+(b) in the case of an application by the chief constable, only if—
+
+(i) it is an application for an order under section 1 that is terrorism-related (see section 8A),
+
+(ii) the chief constable has consulted the Lord Advocate, and
+
+(iii) it is an application made to the Court of Session (and not to the sheriff).
+
+(4) A serious crime prevention order may be made by a court in Northern Ireland—
+
+(a) only on an application by—
+
+(i) the Director of Public Prosecutions for Northern Ireland, or
+
+(ii) the Chief Constable of the Police Service of Northern Ireland, and
+
+(b) in the case of an application by the Chief Constable, only if—
+
+(i) it is an application for an order under section 1 that is terrorism-related (see section 8A), and
+
+(ii) the Chief Constable has consulted the Director of Public Prosecutions for Northern Ireland.]
+
+#### 8A [[^F30]Serious crime prevention orders that are terrorism-related
+
+(1) For the purposes of this Part, a serious crime prevention order is “terrorism-related” if the trigger offence is within subsection (3).
+
+(2) The “trigger offence”, in relation to a serious crime prevention order, is the serious offence referred to in section 2(1) or (4), 2A(1) or (4) or (as the case may be) 3(1) or (4) pursuant to which the court is satisfied that the person who is the subject of the order has been involved in serious crime.
+
+(3) A trigger offence is within this subsection if—
+
+(a) it falls within section 2(2)(a) or (5)(b)(i) by virtue of paragraph 2A of Schedule 1;
+
+(b) it falls within section 2A(2)(a) or (5)(b)(i) by virtue of paragraph 16BA of Schedule 1;
+
+(c) if falls within section 3(2)(a) or (5)(b)(i) by virtue of paragraph 18A of Schedule 1; or
+
+(d) in the case of any other trigger offence (whether or not specified, or within a description specified, in Schedule 1), it appears to the court that the offence—
+
+(i) is, or takes place in the course of, an act of terrorism; or
+
+(ii) is committed for the purposes of terrorism.
+
+(4) Subsection (5) applies where—
+
+(a) the court is considering whether a trigger offence is within subsection (3)(d);
+
+(b) the court has, for the purposes of this Part, decided that a person has committed the trigger offence (see section 4(1)); and
+
+(c) at the time at which the person was sentenced for the trigger offence, the offence was of a kind capable of being determined to have a terrorist connection.
+
+(5) The court—
+
+(a) must decide that the trigger offence is within subsection (3)(d) if the offence was determined to have a terrorist connection; and
+
+(b) must not otherwise decide that the trigger offence is within subsection (3)(d).
+
+(6) For the purposes of this section, an offence was determined to have a terrorist connection if —
+
+(a) it was determined to have a terrorist connection under—
+
+(i) section 69 of the Sentencing Code (in the case of an offender sentenced in England and Wales or for a service offence); or
+
+(ii) section 30 or 32 of the Counter-Terrorism Act 2008 (in the case of an offender sentenced in Northern Ireland, or an offender sentenced in England and Wales, or for a service offence, before the Sentencing Code applied); or
+
+(b) it has been proved to have been aggravated by reason of having a terrorist connection under section 31 of that Act (in the case of an offender sentenced in Scotland);
+
+(and the reference in subsection (4)(c) to an offence being capable of being determined to have such a connection is to be read accordingly).
+
+(7) In this section “terrorism” has the same meaning as in the Terrorism Act 2000 (see section 1 of that Act).]
+
+#### 9 Right of third parties to make representations
+
+(1) The High Court[[^F31]or (in Scotland) the appropriate court] must, on an application by a person, give the person an opportunity to make representations in proceedings before it about the making of a serious crime prevention order if it considers that the making of the order would be likely to have a significant adverse effect on that person.
+
+(2) The High Court[[^F31]or (in Scotland) the appropriate court] must, on an application by a person, give the person an opportunity to make representations in proceedings before it about the variation of a serious crime prevention order if it considers that—
+
+(a) the variation of the order; or
+
+(b) a decision not to vary it;
+
+would be likely to have a significant adverse effect on that person.
+
+(3) The High Court[[^F31]or (in Scotland) the appropriate court] must, on an application by a person, give the person an opportunity to make representations in proceedings before it about the discharge of a serious crime prevention order if it considers that—
+
+(a) the discharge of the order; or
+
+(b) a decision not to discharge it;
+
+would be likely to have a significant adverse effect on that person.
+
+(4) The Crown Court must, on an application by a person, give the person an opportunity to make representations in proceedings before it arising by virtue of section 19, 20 [[^F32], 21 or 22E] if it considers that the making or variation of the serious crime prevention order concerned (or a decision not to vary it) would be likely to have a significant adverse effect on that person.
+
+[[^F33](4A) The High Court of Justiciary must, on an application by a person, give the person an opportunity to make representations in proceedings before it arising by virtue of section 24B(3) if it considers that the making or variation of the serious crime prevention order concerned (or a decision not to vary it) would be likely to have a significant adverse effect on that person.]
+
+(5) A court which is considering an appeal in relation to a serious crime prevention order must, on an application by a person, give the person an opportunity to make representations in the proceedings if that person was given an opportunity to make representations in the proceedings which are the subject of the appeal.
+
+#### 10 Notice requirements in relation to orders
+
+(1) The subject of a serious crime prevention order is bound by it or a variation of it only if—
+
+(a) he is represented (whether in person or otherwise) at the proceedings at which the order or (as the case may be) variation is made; or
+
+(b) a notice setting out the terms of the order or (as the case may be) variation has been served on him.
+
+(2) The notice may be served on him by—
+
+(a) delivering it to him in person; or
+
+(b) sending it by recorded delivery to him at his last-known address (whether residential or otherwise).
+
+(3) For the purposes of delivering such a notice to him in person, a constable or a person authorised for the purpose by the relevant applicant authority may (if necessary by force)—
+
+(a) enter any premises where he has reasonable grounds for believing the person to be; and
+
+(b) search those premises for him.
+
+(4) In this Part “the relevant applicant authority” means—
+
+(a) in relation to a serious crime prevention order in England and Wales—
+
+(i) [^F34]where the order was applied for by the Director of Public Prosecutions, the Director of Public Prosecutions;
+
+[^F35]ii . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ; [^F36]...
+
+(iii) [^F37]where the order was applied for by the Director of the Serious Fraud Office, the Director of the Serious Fraud Office; [^F38][^F37]...
+
+[[^F39](iv) where the order was applied for by the chief officer of police of a police force in England and Wales, the chief officer of police of any such police force;]
+
+[[^F40](v) in any other case, the person who applied for the order;]
+
+[[^F41](aa) in relation to a serious crime prevention order in Scotland [[^F42]—
+
+(i) where the order was applied for by the Lord Advocate, the Lord Advocate;
+
+(ii) where the order was applied for by the chief constable of the Police Service of Scotland, the chief constable;]]
+
+(b) in relation to a serious crime prevention order in Northern Ireland [[^F43]—
+
+(i) where the order was applied for by the Director of Public Prosecutions for Northern Ireland, the Director;
+
+(ii) where the order was applied for by the Chief Constable of the Police Service of Northern Ireland, the Chief Constable.]
+
+### Information safeguards
+
+#### 11 Restrictions on oral answers
+
+A serious crime prevention order may not require a person to answer questions, or provide information, orally.
+
+#### 12 Restrictions for legal professional privilege
+
+(1) A serious crime prevention order[[^F44]in England and Wales or Northern Ireland] may not require a person—
+
+(a) to answer any privileged question;
+
+(b) to provide any privileged information; or
+
+(c) to produce any privileged document.
+
+(2) A “privileged question” is a question which the person would be entitled to refuse to answer on grounds of legal professional privilege in proceedings in the High Court.
+
+(3) “Privileged information” is information which the person would be entitled to refuse to provide on grounds of legal professional privilege in such proceedings.
+
+(4) A “privileged document” is a document which the person would be entitled to refuse to produce on grounds of legal professional privilege in such proceedings.
+
+[[^F45](4A) A serious crime prevention order in Scotland may not require a person to breach any duty of confidentiality of communications which the person could not be required to breach in proceedings before the appropriate court.]
+
+(5) But [[^F46]subsections (1) and (4A) do not] prevent an order from requiring a lawyer to provide the name and address of a client of his.
+
+#### 13 Restrictions on excluded material and banking information
+
+(1) A serious crime prevention order may not require a person to produce—
+
+(a) in the case of an order in England and Wales, any excluded material as defined by section 11 of the Police and Criminal Evidence Act 1984 (c. 60); [^F47]...
+
+[[^F48](aa) in the case of an order in Scotland, any excluded material (as defined by that section (except that “enactment” in subsection (2)(b) of that section is to be taken to include an Act of the Scottish Parliament or an instrument made under such an Act));]
+
+(b) in the case of an order in Northern Ireland, any excluded material as defined by Article 13 of the Police and Criminal Evidence (Northern Ireland) Order 1989 (S.I. 1989/1341 (N.I.12)).
+
+(2) A serious crime prevention order may not require a person to disclose any information or produce any document in respect of which he owes an obligation of confidence by virtue of carrying on a banking business unless condition A or B is met.
+
+(3) Condition A is that the person to whom the obligation of confidence is owed consents to the disclosure or production.
+
+(4) Condition B is that the order contains a requirement—
+
+(a) to disclose information, or produce documents, of this kind; or
+
+(b) to disclose specified information which is of this kind or to produce specified documents which are of this kind.
+
+#### 14 Restrictions relating to other enactments
+
+(1) A serious crime prevention order may not require a person—
+
+(a) to answer any question;
+
+(b) to provide any information; or
+
+(c) to produce any document;
+
+if the disclosure concerned is prohibited under any other enactment.
+
+(2) In this section—
+
+- “enactment” includes an Act of the Scottish Parliament, Northern Ireland legislation and an enactment comprised in subordinate legislation, and includes an enactment whenever passed or made; and
+
+- “subordinate legislation” has the same meaning as in the Interpretation Act 1978 (c. 30) and also includes an instrument made under—
+
+  - (a) an Act of the Scottish Parliament; or
+  - (b) Northern Ireland legislation.
+
+#### 15 Restrictions on use of information obtained
+
+(1) A statement made by a person in response to a requirement imposed by a serious crime prevention order may not be used in evidence against him in any criminal proceedings unless condition A or B is met.
+
+(2) Condition A is that the criminal proceedings relate to an offence under section 25.
+
+(3) Condition B is that—
+
+(a) the criminal proceedings relate to another offence;
+
+(b) the person who made the statement gives evidence in the criminal proceedings;
+
+(c) in the course of that evidence, the person makes a statement which is inconsistent with the statement made in response to the requirement imposed by the order; and
+
+(d) in the criminal proceedings evidence relating to the statement made in response to the requirement imposed by the order is adduced, or a question about it is asked, by the person or on his behalf.
+
+### [[^F49]Notification requirements: England and Wales
+
+#### 15A Notification requirements: England and Wales
+
+(1) Schedule 1A contains provision about notifications to be given by a person who is subject to a serious crime prevention order in England and Wales (a “relevant order”).
+
+(2) A relevant order—
+
+(a) must specify a person listed in section 8(1)(a) as the person to whom a notification under Schedule 1A is to be given;
+
+(b) may make provision about how a notification under Schedule 1A is to be given (including provision requiring a person to give a notification in person or otherwise).
+
+(3) In this Part references to a “specified person” are to a person specified under subsection (2)(a).]
+
+### Duration, variation and discharge of orders
+
+#### 16 Duration of orders
+
+(1) A serious crime prevention order must specify when it is to come into force and when it is to cease to be in force.
+
+(2) An order is not to be in force for more than 5 years beginning with the coming into force of the order.
+
+(3) An order can specify different times for the coming into force, or ceasing to be in force, of different provisions of the order.
+
+(4) Where it specifies different times in accordance with subsection (3), the order—
+
+(a) must specify when each provision is to come into force and cease to be in force; and
+
+(b) is not to be in force for more than 5 years beginning with the coming into force of the first provision of the order to come into force.
+
+(5) The fact that an order, or any provision of an order, ceases to be in force does not prevent the court from making a new order to the same or similar effect.
+
+(6) A new order may be made in anticipation of an earlier order or provision ceasing to be in force.
+
+[[^F50](7) Subsections (2) and (4)(b) have effect subject to section 22E.]
+
+#### 17 Variation of orders
+
+(1) The High Court in England and Wales may, on an application under this section, vary a serious crime prevention order in England and Wales if it has reasonable grounds to believe that the terms of the order as varied would protect the public by preventing, restricting or disrupting involvement, by the person who is the subject of the order, in serious crime in England and Wales.
+
+[[^F51](1A) The appropriate court in Scotland may, on an application under this section, vary a serious crime prevention order in Scotland if it has reasonable grounds to believe that the terms of the order as varied would protect the public by preventing, restricting or disrupting involvement, by the person who is the subject of the order, in serious crime in Scotland.]
+
+(2) The High Court in Northern Ireland may, on an application under this section, vary a serious crime prevention order in Northern Ireland if it has reasonable grounds to believe that the terms of the order as varied would protect the public by preventing, restricting or disrupting involvement, by the person who is the subject of the order, in serious crime in Northern Ireland.
+
+(3) An application for the variation of an order under this section may be made by—
+
+(a) the relevant applicant authority [[^F52](but see subsection (7A))]; or
+
+(b) subject as follows—
+
+(i) the person who is the subject of the order; or
+
+(ii) any other person.
+
+(4) The court must not entertain an application by the person who is the subject of the order unless it considers that there has been a change of circumstances affecting the order.
+
+(5) The court must not entertain an application by any person falling within subsection (3)(b)(ii) unless it considers that—
+
+(a) the person is significantly adversely affected by the order;
+
+(b) condition A or B is met; and
+
+(c) the application is not for the purpose of making the order more onerous on the person who is the subject of it.
+
+(6) Condition A is that—
+
+(a) the person falling within subsection (3)(b)(ii)—
+
+(i) has, on an application under section 9, been given an opportunity to make representations; or
+
+(ii) has made an application otherwise than under that section;
+
+in earlier proceedings in relation to the order (whether before the High Court [[^F53], the appropriate court] or the Crown Court); and
+
+(b) there has been a change of circumstances affecting the order.
+
+(7) Condition B is that—
+
+(a) the person falling within subsection (3)(b)(ii) has not made an application of any kind in earlier proceedings in relation to the order (whether before the High Court [[^F54], the appropriate court] or the Crown Court); and
+
+(b) it was reasonable in all the circumstances for the person not to have done so.
+
+[[^F55](7A) Where the relevant applicant authority is the chief constable of the Police Service of Scotland, an application for the variation of the order may only be made under this section to the Court of Session (and not to the sheriff).]
+
+(8) A variation on an application under subsection (3)(a) may include an extension of the period during which the order, or any provision of it, is in force (subject to the original limits imposed on the order by section 16(2) and (4)(b)).
+
+#### 18 Discharge of orders
+
+(1) On an application under this section—
+
+(a) the High Court in England and Wales may discharge a serious crime prevention order in England and Wales; [^F56]...
+
+[[^F57](aa) the appropriate court in Scotland may discharge a serious crime prevention order in Scotland;]
+
+(b) the High Court in Northern Ireland may discharge a serious crime prevention order in Northern Ireland.
+
+(2) An application for the discharge of an order may be made by—
+
+(a) the relevant applicant authority [[^F58](but see subsection (7))]; or
+
+(b) subject as follows—
+
+(i) the person who is the subject of the order; or
+
+(ii) any other person.
+
+(3) The court must not entertain an application by the person who is the subject of the order unless it considers that there has been a change of circumstances affecting the order.
+
+(4) The court must not entertain an application by any person falling within subsection (2)(b)(ii) unless it considers that—
+
+(a) the person is significantly adversely affected by the order; and
+
+(b) condition A or B is met.
+
+(5) Condition A is that—
+
+(a) the person—
+
+(i) has, on an application under section 9, been given an opportunity to make representations; or
+
+(ii) has made an application otherwise than under that section;
+
+in earlier proceedings in relation to the order (whether before the High Court [[^F59], the appropriate court] or the Crown Court); and
+
+(b) there has been a change of circumstances affecting the order.
+
+(6) Condition B is that—
+
+(a) the person has not made an application of any kind in earlier proceedings in relation to the order (whether before the High Court [[^F60], the appropriate court] or the Crown Court); and
+
+(b) it was reasonable in all the circumstances for the person not to have done so.
+
+[[^F61](7) Where the relevant applicant authority is the chief constable of the Police Service of Scotland, an application for the discharge of the order may only be made under this section to the Court of Session (and not to the sheriff).]
+
+### Extension of jurisdiction to Crown Court
+
+#### 19 Orders by Crown Court on conviction
+
+(1) Subsection (2) applies where the Crown Court in England and Wales is dealing with a person who—
+
+(a) has been convicted by or before a magistrates' court of having committed a serious offence in England and Wales and has been committed to the Crown Court to be dealt with; or
+
+(b) has been convicted by or before the Crown Court of having committed a serious offence in England and Wales.
+
+(2) The Crown Court may, in addition to dealing with the person in relation to the offence, make an order if it has reasonable grounds to believe that the order would protect the public by preventing, restricting or disrupting involvement by the person in serious crime in England and Wales.
+
+[[^F62](2A) A court that makes an order by virtue of subsection (2) in the case of a person who is already the subject of a serious crime prevention order in England and Wales must discharge the existing order.]
+
+(3) Subsection (4) applies where the Crown Court in Northern Ireland is dealing with a person who has been convicted by or before the Crown Court of having committed a serious offence in Northern Ireland.
+
+(4) The Crown Court may, in addition to dealing with the person in relation to the offence, make an order if it has reasonable grounds to believe that the order would protect the public by preventing, restricting or disrupting involvement by the person in serious crime in Northern Ireland.
+
+[[^F63](4A) A court that makes an order by virtue of subsection (4) in the case of a person who is already the subject of a serious crime prevention order in Northern Ireland must discharge the existing order.]
+
+(5) An order under this section may contain—
+
+(a) such prohibitions, restrictions or requirements; and
+
+(b) such other terms;
+
+as the court considers appropriate for the purpose of protecting the public by preventing, restricting or disrupting involvement by the person concerned in serious crime in England and Wales or (as the case may be) Northern Ireland.
+
+(6) The powers of the court in respect of an order under this section are subject to sections 6 to 15 (safeguards).
+
+(7) An order must not be made under this section except—
+
+(a) in addition to a sentence imposed in respect of the offence concerned; or
+
+(b) in addition to an order discharging the person conditionally.
+
+(8) An order under this section is also called a serious crime prevention order.
+
+#### 20 Powers of Crown Court to vary orders on conviction
+
+(1) Subsection (2) applies where the Crown Court in England and Wales is dealing with a person who—
+
+(a) has been convicted by or before a magistrates' court of having committed a serious offence in England and Wales and has been committed to the Crown Court to be dealt with; or
+
+(b) has been convicted by or before the Crown Court of having committed a serious offence in England and Wales.
+
+(2) The Crown Court may—
+
+(a) in the case of a person who is the subject of a serious crime prevention order in England and Wales; and
+
+(b) in addition to dealing with the person in relation to the offence;
+
+vary the order if the court has reasonable grounds to believe that the terms of the order as varied would protect the public by preventing, restricting or disrupting involvement by the person in serious crime in England and Wales.
+
+(3) Subsection (4) applies where the Crown Court in Northern Ireland is dealing with a person who has been convicted by or before the Crown Court of having committed a serious offence in Northern Ireland.
+
+(4) The Crown Court may—
+
+(a) in the case of a person who is the subject of a serious crime prevention order in Northern Ireland; and
+
+(b) in addition to dealing with the person in relation to the offence;
+
+vary the order if the court has reasonable grounds to believe that the terms of the order as varied would protect the public by preventing, restricting or disrupting involvement by the person in serious crime in Northern Ireland.
+
+(5) A variation under this section may be made only on an application by the relevant applicant authority.
+
+(6) A variation must not be made except—
+
+(a) in addition to a sentence imposed in respect of the offence concerned; or
+
+(b) in addition to an order discharging the person conditionally.
+
+(7) A variation may include an extension of the period during which the order, or any provision of it, is in force (subject to the original limits imposed on the order by section 16(2) and (4)(b)).
+
+#### 21 Powers of Crown Court to vary[[^F64]or replace] orders on breach
+
+(1) Subsection (2) applies where the Crown Court in England and Wales is dealing with a person who—
+
+(a) has been convicted by or before a magistrates' court of having committed an offence under section 25 in relation to a serious crime prevention order and has been committed to the Crown Court to be dealt with; or
+
+(b) has been convicted by or before the Crown Court of having committed an offence under section 25 in relation to a serious crime prevention order.
+
+(2) The Crown Court may—
+
+(a) in the case of an order in England and Wales; and
+
+(b) in addition to dealing with the person in relation to the offence;
+
+vary[[^F65]or replace] the order if it has reasonable grounds to believe that the terms of the order as varied[[^F66], or the new order,] would protect the public by preventing, restricting or disrupting involvement by the person in serious crime in England and Wales.
+
+(3) Subsection (4) applies where the Crown Court in Northern Ireland is dealing with a person who has been convicted by or before the Crown Court of an offence under section 25 in relation to a serious crime prevention order.
+
+(4) The Crown Court may—
+
+(a) in the case of an order in Northern Ireland; and
+
+(b) in addition to dealing with the person in relation to the offence;
+
+vary[[^F67]or replace] the order if it has reasonable grounds to believe that the terms of the order as varied[[^F68], or the new order,] would protect the public by preventing, restricting or disrupting involvement by the person in serious crime in Northern Ireland.
+
+(5) [[^F69]An order may be varied or replaced under this section] only on an application by the relevant applicant authority.
+
+(6) A variation[[^F70]or new order] must not be made except—
+
+(a) in addition to a sentence imposed in respect of the offence concerned; or
+
+(b) in addition to an order discharging the person conditionally.
+
+(7) A variation may include an extension of the period during which the order, or any provision of it, is in force (subject to the original limits imposed on the order by section 16(2) and (4)(b)).
+
+[[^F71](8) A reference in this section to replacing a serious crime prevention order is to making a new serious crime prevention order and discharging the existing one.]
+
+#### 22 Inter-relationship between different types of orders[[^F72] in England and Wales or Northern Ireland]
+
+(1) The fact that a serious crime prevention order has been made or varied by the High Court does not prevent it from being varied by the Crown Court in accordance with this Part.
+
+(2) The fact that a serious crime prevention order has been made or varied by the Crown Court does not prevent it from being varied or discharged by the High Court in accordance with this Part.
+
+(3) A decision by the Crown Court not to make an order under section 19 does not prevent a subsequent application to the High Court for an order under section 1 in consequence of the same offence.
+
+(4) A decision by the Crown Court not to vary a serious crime prevention order under section 20 or 21 does not prevent a subsequent application to the High Court for a variation of the order in consequence of the same offence.
+
+### [[^F73]Extension of jurisdiction: Scotland
+
+#### 22A Orders by High Court of Justiciary and sheriff on conviction
+
+(1) Subsection (2) applies where—
+
+(a) the High Court of Justiciary (the “High Court”) is dealing with a person who—
+
+(i) has been convicted by or before the High Court of having committed a serious offence in Scotland, or
+
+(ii) has been convicted by or before the sheriff of having committed a serious offence in Scotland and by virtue of section 195 of the Criminal Procedure (Scotland) Act 1995 has been remitted by the sheriff to the High Court for sentencing; or
+
+(b) the sheriff is dealing with a person who has been convicted by or before the sheriff of having committed a serious offence in Scotland.
+
+(2) The High Court or (as the case may be) the sheriff may, in addition to dealing with the person in relation to the offence, make an order if the High Court or (as the case may be) the sheriff has reasonable grounds to believe that the order would protect the public by preventing, restricting or disrupting involvement by the person in serious crime in Scotland.
+
+(3) The High Court or sheriff making an order by virtue of subsection (2) in the case of a person who is already the subject of a serious crime prevention order in Scotland must discharge the existing order.
+
+(4) An order under this section may contain—
+
+(a) such prohibitions, restrictions or requirements; and
+
+(b) such other terms;
+
+as the High Court or (as the case may be) the sheriff considers appropriate for the purpose of protecting the public by preventing, restricting or disrupting involvement by the person concerned in serious crime in Scotland.
+
+(5) The powers of the High Court and the sheriff in respect of an order under this section are subject to sections 6 to 15 (safeguards).
+
+(6) An order must not be made under this section except—
+
+(a) in addition to a sentence imposed in respect of the offence concerned; or
+
+(b) in addition to an order discharging the person absolutely.
+
+(7) An order under this section is also called a serious crime prevention order.
+
+#### 22B Powers of High Court of Justiciary and sheriff to vary orders on conviction
+
+(1) Subsection (2) applies where—
+
+(a) the High Court of Justiciary (the “High Court”) is dealing with a person who—
+
+(i) has been convicted by or before the High Court of having committed a serious offence in Scotland, or
+
+(ii) has been convicted by or before the sheriff of having committed a serious offence in Scotland and by virtue of section 195 of the Criminal Procedure (Scotland) Act 1995 has been remitted by the sheriff to the High Court for sentencing; or
+
+(b) the sheriff is dealing with a person who has been convicted by or before the sheriff of having committed a serious offence in Scotland.
+
+(2) The High Court or (as the case may be) the sheriff may—
+
+(a) in the case of a person who is the subject of a serious crime prevention order in Scotland; and
+
+(b) in addition to dealing with the person in relation to the offence,
+
+vary the order if the High Court or (as the case may be) the sheriff has reasonable grounds to believe that the terms of the order as varied would protect the public by preventing, restricting or disrupting involvement by the person in serious crime in Scotland.
+
+(3) A variation under this section may be made only on an application by the Lord Advocate.
+
+(4) A variation must not be made except—
+
+(a) in addition to a sentence imposed in respect of the offence concerned; or
+
+(b) in addition to an order discharging the person absolutely.
+
+(5) A variation may include an extension of the period during which the order, or any provision of it, is in force (subject to the original limits imposed on the order by section 16(2) and (4)(b)).
+
+#### 22C Powers of High Court of Justiciary and sheriff to vary or replace orders on breach
+
+(1) Subsection (2) applies where—
+
+(a) the High Court of Justiciary (the “High Court”) is dealing with a person who—
+
+(i) has been convicted by or before the sheriff of having committed an offence under section 25 in relation to a serious crime prevention order and has been remitted to the High Court to be dealt with, or
+
+(ii) has been convicted by or before the High Court of having committed an offence under section 25 in relation to a serious crime prevention order; or
+
+(b) the sheriff is dealing with a person who has been convicted by or before the sheriff of having committed an offence under section 25 in relation to a serious crime prevention order.
+
+(2) The High Court or (as the case may be) the sheriff may—
+
+(a) in the case of an order in Scotland; and
+
+(b) in addition to dealing with the person in relation to the offence;
+
+vary or replace the order if the High Court or (as the case may be) the sheriff has reasonable grounds to believe that the terms of the order as varied, or the new order, would protect the public by preventing, restricting or disrupting involvement by the person in serious crime in Scotland.
+
+(3) An order may be varied or replaced under this section only on an application by the Lord Advocate.
+
+(4) A variation or new order must not be made except—
+
+(a) in addition to a sentence imposed in respect of the offence concerned; or
+
+(b) in addition to an order discharging the person absolutely.
+
+(5) A variation may include an extension of the period during which the order, or any provision of it, is in force (subject to the original limits imposed on the order by section 16(2) and (4)(b)).
+
+(6) A reference in this section to replacing a serious crime prevention order is to making a new serious crime prevention order and discharging the existing one.
+
+#### 22D Inter-relationship between different types of orders in Scotland
+
+(1) A serious crime prevention order made under section 1(1A) or varied under section 17(1A) may be varied under section 22B(2) or 22C(2).
+
+(2) The fact that a serious crime prevention order made under section 1(1A) or varied under section 17(1A) has been varied under section 22B(2) or 22C(2) does not prevent it from being varied or discharged by the appropriate court.
+
+(3) A decision by the High Court of Justiciary or (as the case may be) the sheriff not to make an order under section 22A does not prevent a subsequent application to the appropriate court for an order under section 1(1A) in consequence of the same offence.
+
+(4) Where a serious crime prevention order is made under section 1(1A) or varied under section 17(1A), a decision by the High Court of Justiciary or (as the case may be) the sheriff not to vary the order under section 22B(2) or 22C(2) does not prevent a subsequent application under section 17(1A) for a variation of the order in consequence of the same offence.]
+
+### [[^F74]Powers to extend orders where person charged
+
+#### 22E Extension of orders pending outcome of criminal proceedings
+
+(1) This section applies where a person subject to a serious crime prevention order is charged with—
+
+(a) a serious offence, or
+
+(b) an offence under section 25 of failing to comply with the serious crime prevention order.
+
+(2) The relevant applicant authority may make an application under this section to—
+
+(a) the Crown Court in England and Wales, in the case of a serious crime prevention order in England and Wales;
+
+(b) the High Court of Justiciary or the sheriff, in the case of a serious crime prevention order in Scotland;
+
+(c) the Crown Court in Northern Ireland, in the case of a serious crime prevention order in Northern Ireland.
+
+(3) On an application under this section, the court or sheriff may vary the serious crime prevention order so that it continues in effect until one of the events listed in subsection (4) occurs (if the order would otherwise cease to have effect before then).
+
+(4) The events are—
+
+(a) following the person's conviction of the offence mentioned in subsection (1)—
+
+(i) the order is varied under section 20 or 21, or under section 22B or 22C, by reference to the offence,
+
+(ii) a new serious crime prevention order is made under section 19 or 21, or under section 22A or 22C, by reference to the offence, or
+
+(iii) the court or sheriff deals with the person for the offence without varying the order or making a new one;
+
+(b) the person is acquitted of the offence;
+
+(c) the charge is withdrawn;
+
+(d) in the case of a serious crime prevention order in England and Wales or Northern Ireland—
+
+(i) proceedings in respect of the charge are discontinued, or
+
+(ii) an order is made for the charge to lie on the file;
+
+(e) in the case of a serious crime prevention order in Scotland—
+
+(i) proceedings against the person are deserted *simpliciter* ,
+
+(ii) proceedings against the person are deserted *pro loco et tempore* and no trial diet is appointed,
+
+(iii) the indictment or complaint relating to the person falls or for any other reason does not proceed to trial, or
+
+(iv) the diet not having been continued, adjourned or postponed, no further proceedings are in contemplation in relation to the person.
+
+(5) An order may be made under this section only if—
+
+(a) the serious crime prevention order is still in force, and
+
+(b) the court or sheriff has reasonable grounds for believing that the order would protect the public by preventing, restricting or disrupting involvement by the person in serious crime.
+
+(6) In subsection (5)(b) “ serious crime ” means—
+
+(a) serious crime in England and Wales, in the case of a serious crime prevention order in England and Wales;
+
+(b) serious crime in Scotland, in the case of a serious crime prevention order in Scotland;
+
+(c) serious crime in Northern Ireland, in the case of a serious crime prevention order in Northern Ireland.]
+
+### Appeals
+
+#### 23 Additional right of appeal from High Court
+
+(1) An appeal may be made to the Court of Appeal in relation to a decision of the High Court—
+
+(a) to make a serious crime prevention order;
+
+(b) to vary, or not to vary, such an order; or
+
+(c) to discharge or not to discharge such an order;
+
+by any person who was given an opportunity to make representations in the proceedings concerned by virtue of section 9(1), (2) or (as the case may be) (3).
+
+(2) Subsection (1) is without prejudice to the rights of other persons to make appeals, by virtue of section 16 of the Senior Courts Act 1981 (c. 54) or section 35 of the Judicature (Northern Ireland) Act 1978 (c. 23), in relation to any judgments or orders of the High Court about serious crime prevention orders.
+
+#### 24 Appeals from Crown Court
+
+(1) An appeal against a decision of the Crown Court in relation to a serious crime prevention order may be made to the Court of Appeal by—
+
+(a) the person who is the subject of the order; or
+
+(b) the relevant applicant authority.
+
+(2) In addition, an appeal may be made to the Court of Appeal in relation to a decision of the Crown Court—
+
+(a) to make a serious crime prevention order; or
+
+(b) to vary, or not to vary, such an order;
+
+by any person who was given an opportunity to make representations in the proceedings concerned by virtue of section 9(4).
+
+(3) Subject to subsection (4), an appeal under subsection (1) or (2) lies only with the leave of the Court of Appeal.
+
+(4) An appeal under subsection (1) or (2) lies without the leave of the Court of Appeal if the judge who made the decision grants a certificate that the decision is fit for appeal under this section.
+
+(5) Subject to any rules of court made under section 53(1) of the Senior Courts Act 1981 (c. 54) (distribution of business between civil and criminal divisions), the criminal division of the Court of Appeal is the division which is to exercise jurisdiction in relation to an appeal under subsection (1) or (2) from a decision of the Crown Court in the exercise of its jurisdiction in England and Wales under this Part.
+
+(6) An appeal against a decision of the Court of Appeal on an appeal to that court under subsection (1) or (2) may be made to the Supreme Court by any person who was a party to the proceedings before the Court of Appeal.
+
+(7) An appeal under subsection (6) lies only with the leave of the Court of Appeal or the Supreme Court.
+
+(8) Such leave must not be granted unless—
+
+(a) it is certified by the Court of Appeal that a point of law of general public importance is involved in the decision; and
+
+(b) it appears to the Court of Appeal or (as the case may be) the Supreme Court that the point is one which ought to be considered by the Supreme Court.
+
+(9) The Secretary of State may for the purposes of this section by order make provision corresponding (subject to any specified modifications) to that made by or under an enactment and relating to—
+
+(a) appeals to the Court of Appeal under Part 1 of—
+
+(i) the Criminal Appeal Act 1968 (c. 19); or
+
+(ii) the Criminal Appeal (Northern Ireland) Act 1980 (c. 47);
+
+(b) appeals from any decision of the Court of Appeal on appeals falling within paragraph (a); or
+
+(c) any matter connected with or arising out of appeals falling within paragraph (a) or (b).
+
+[[^F75](9A) The power to make an order under subsection (9) is exercisable by the Department of Justice in Northern Ireland (and not by the Secretary of State) so far as the power may be used to make provision which could be made by an Act of the Northern Ireland Assembly without the consent of the Secretary of State (see sections 6 to 8 of the Northern Ireland Act 1998).]
+
+(10) An order under subsection (9) may, in particular, make provision about the payment of costs.
+
+(11) The power to make an appeal to the Court of Appeal under subsection (1)(a) operates instead of any power for the person who is the subject of the order to make an appeal against a decision of the Crown Court in relation to a serious crime prevention order by virtue of—
+
+(a) section 9 or 10 of the Criminal Appeal Act 1968; or
+
+(b) section 8 of the Criminal Appeal (Northern Ireland) Act 1980.
+
+(12) Section 33(3) of the Criminal Appeal Act 1968 (limitation on appeal from criminal division of the Court of Appeal: England and Wales) does not prevent an appeal to the Supreme Court under subsection (6) above.
+
+#### 24A [[^F76]Additional right of appeal from Court of Session
+
+(1) An appeal may be made to the Inner House of the Court of Session in relation to a decision of the Outer House of the Court of Session—
+
+(a) to make a serious crime prevention order;
+
+(b) to vary, or not to vary, such an order; or
+
+(c) to discharge or not to discharge such an order;
+
+by any person who was given an opportunity to make representations in the proceedings concerned by virtue of section 9(1), (2) or (as the case may be) (3).
+
+(2) Subsection (1) is without prejudice to the rights of the person who is the subject of the order and the Lord Advocate to make appeals, under section 28 of the Court of Session Act 1988, in relation to any judgments or orders of the Outer House of the Court of Session about serious crime prevention orders.
+
+#### 24B Appeals from High Court of Justiciary and sheriff
+
+(1) The following are to be taken to be a sentence for the purpose of an appeal—
+
+(a) a serious crime prevention order made under section 22A;
+
+(b) the variation under section 22B or 22C of an order made under section 22A;
+
+(c) the discharge of an order made under section 22A.
+
+(2) If the Lord Advocate considers that a decision of the High Court of Justiciary or the sheriff under section 22A not to make a serious crime prevention order was inappropriate, the Lord Advocate may appeal against the decision.
+
+(3) In addition, an appeal may be made in relation to a decision of the High Court of Justiciary or the sheriff—
+
+(a) to make a serious crime prevention order under section 22A; or
+
+(b) to vary, or not to vary, such an order under section 22B or 22C;
+
+by any person who was given an opportunity to make representations in the proceedings concerned by virtue of section 9(4A).]
+
+### Enforcement
+
+#### 25 Offence of failing to comply with order
+
+(1) A person who, without reasonable excuse, fails to comply with a serious crime prevention order commits an offence.
+
+(2) A person who commits an offence under this section is liable—
+
+(a) on summary conviction, to imprisonment for a term not exceeding 12 months or to a fine not exceeding the statutory maximum or to both;
+
+(b) on conviction on indictment, to imprisonment for a term not exceeding 5 years or to a fine or to both.
+
+(3) In the application of subsection (2)(a) in Northern Ireland, the reference to 12 months is to be read as a reference to 6 months.
+
+[[^F77](3A) In the application of subsection (2)(a) in England and Wales, the reference to 12 months is to be read as a reference to the general limit in a magistrates’ court subject to paragraph 4 of Schedule 13.]
+
+(4) In proceedings for an offence under this section, a copy of the original order or any variation of it, certified as such by the proper officer of the court which made it, is admissible as evidence of its having been made and of its contents to the same extent that oral evidence of those things is admissible in those proceedings.
+
+#### 26 Powers of forfeiture in respect of offence
+
+(1) The court before which a person is convicted of an offence under section 25 may order the forfeiture of anything in his possession at the time of the offence which the court considers to have been involved in the offence.
+
+(2) Before making an order under subsection (1) in relation to anything the court must give an opportunity to make representations to any person (in addition to the convicted person) who claims to be the owner of that thing or otherwise to have an interest in it.
+
+(3) An order under subsection (1) may not be made so as to come into force at any time before there is no further possibility (ignoring any power to appeal out of time) of the order being varied or set aside on appeal.
+
+(4) Where the court makes an order under subsection (1), it may also make such other provision as it considers to be necessary for giving effect to the forfeiture.
+
+(5) That provision may, in particular, include provision relating to the retention, handling, destruction or other disposal of what is forfeited.
+
+(6) Provision made by virtue of this section may be varied at any time by the court that made it.
+
+#### 27 [^F78]Powers to wind up companies etc: England and Wales ...
+
+(1) The Director of Public Prosecutions [^F79]... or the Director of the Serious Fraud Office may present a petition to the court for the winding up of a company, partnership or relevant body if—
+
+(a) the company, partnership or relevant body has been convicted of an offence under section 25 in relation to a serious crime prevention order; and
+
+(b) the Director concerned considers that it would be in the public interest for the company, partnership or (as the case may be) relevant body to be wound up.
+
+[[^F80](1A) [^F81]The chief officer of police of a police force in England and Wales may present a petition to the court for the winding up of a company, partnership or relevant body if—
+
+[^F81]a [^F81]the company, partnership or relevant body has been convicted of an offence under section 25 in relation to a police-initiated serious crime prevention order; and
+
+[^F81]b [^F81]the chief officer of police concerned considers that it would be in the public interest for the company, partnership or (as the case may be) relevant body to be wound up.]
+
+[[^F81]A person mentioned in section 8(1)(a)(iii) to (vii) may present a petition to the court for the winding up of a company, partnership or relevant body if—
+
+(a) the company, partnership or relevant body has been convicted of an offence under section 25 in relation to a serious crime prevention order or an interim serious crime prevention order made on an application by a person of the same description, and
+
+(b) the person considers that it would be in the public interest for the company, partnership or (as the case may be) relevant body to be wound up.]
+
+(2) The Insolvency Act 1986 (c. 45) applies in relation to—
+
+(a) a petition under this section for the winding up of a company; and
+
+(b) the company's winding up;
+
+as it applies in relation to a petition under section 124A of the Act of 1986 for the winding up of a company and the company's winding up (winding up on grounds of public interest) but subject to the modifications in subsections (3) and (4).
+
+(3) Section 124(4)(b) of the Act of 1986 (application for winding up) applies in relation to a petition under this section as if it permits the petition to be presented by [^F82]the Director of Public Prosecutions [^F83][^F82]... [^F82][[^F84], the Director of the Serious Fraud Office or the chief officer of police of a police force in England and Wales] [[^F82]a person who is authorised to present a petition in accordance with subsection (1) or (1A)].
+
+(4) The court may make an order under section 125 of the Act of 1986 (powers of court on hearing of petition) to wind up the company only if—
+
+(a) the company has been convicted of an offence under section 25 in relation to a serious crime prevention order; and
+
+(b) the court considers that it is just and equitable for the company to be wound up.
+
+(5) Section 420 of the Act of 1986 (power to make provision about insolvent partnerships) applies for the purposes of this section as if the reference to an insolvent partnership were a reference to a partnership to which this section applies.
+
+(6) The appropriate Minister may by order provide for the Act of 1986 to apply, with such modifications as that person considers appropriate, in relation to a petition under this section for the winding up of a relevant body and the relevant body's winding up.
+
+(7) An order made by virtue of subsection (5) or (6) must ensure that the court may make an order to wind up the partnership or relevant body only if—
+
+(a) the partnership or relevant body has been convicted of an offence under section 25 in relation to a serious crime prevention order; and
+
+(b) the court considers that it is just and equitable for the partnership or relevant body to be wound up.
+
+(8) No petition may be presented to, or order to wind up made by, a court in Scotland by virtue of this section in respect of a company, partnership or relevant body whose estate may be sequestrated under the Bankruptcy (Scotland) Act [[^F85]2016].
+
+(9) No petition may be presented, or order to wind up made, by virtue of this section if—
+
+(a) an appeal against conviction for the offence concerned has been made and not finally determined; or
+
+(b) the period during which such an appeal may be made has not expired.
+
+(10) No petition may be presented, or order to wind up made, by virtue of this section if the company, partnership or relevant body is already being wound up by the court.
+
+(11) In deciding for the purposes of subsection (9) whether an appeal is finally determined or whether the period during which an appeal may be made has expired, any power to appeal out of time is to be ignored.
+
+(12) In this section—
+
+- “appropriate Minister” means—
+
+  - (a) in relation to a relevant body falling within paragraphs (a) to (c) of the definition of “relevant body” below, the Treasury; and
+  - (b) in relation to any other relevant body, the Secretary of State;
+
+- [[^F86]“company” means—
+
+  - a company registered under the Companies Act 2006 in England and Wales [^F87]..., or
+  - an unregistered company within the meaning of Part 5 of the Insolvency Act 1986 (see section 220 of that Act),
+
+  but does not include a relevant body;]
+
+- [[^F88]“the court”, in relation to a company, means a court in England and Wales [^F89]... having jurisdiction to wind up the company;]
+
+- [^F90]...
+
+- “partnership” does not include a relevant body;
+
+- [^F91][[^F92]“[^F91]police-initiated serious crime prevention order[^F91]” means a serious crime prevention order that was made on the application of the chief officer of police of a police force in England and Wales;][^F91] and
+
+- “relevant body” means—
+
+  - (a) a building society (within the meaning of the Building Societies Act 1986 (c. 53));
+  - (b) an incorporated friendly society (within the meaning of the Friendly Societies Act 1992 (c. 40));
+  - (c) [[^F93]a registered society within the meaning of the Co-operative and Community Benefit Societies Act 2014;]
+  - (d) a limited liability partnership; or
+  - (e) such other description of person as may be specified by order made by the Secretary of State;
+
+and the references to sections 124 to 125 of the Insolvency Act 1986 (c. 45) include references to those sections as applied by section 221(1) of that Act (unregistered companies).
+
+#### 27A [[^F94]Powers to wind up companies etc: Scotland
+
+(1) The Scottish Ministers may present a petition to the court for the winding up of a company or relevant body, or the dissolution of a partnership, if—
+
+(a) the company, relevant body or partnership has been convicted of an offence under section 25 in relation to a serious crime prevention order; and
+
+(b) the Scottish Ministers consider that it would be in the public interest for the company or (as the case may be) relevant body to be wound up or the partnership to be dissolved.
+
+[[^F95](1A) The chief constable of the Police Service of Scotland may present a petition to the court for the winding up of a company or relevant body, or the dissolution of a partnership, if—
+
+(a) the company, relevant body or partnership has been convicted of an offence under section 25 in relation to a serious crime prevention order that was made on the application of the chief constable; and
+
+(b) the chief constable considers that it would be in the public interest for the company or (as the case may be) relevant body to be wound up or the partnership to be dissolved.]
+
+(2) The Insolvency Act 1986 applies in relation to—
+
+(a) a petition under this section for the winding up of a company; and
+
+(b) the company's winding up;
+
+as it applies in relation to a petition under section 124A of the Act of 1986 for the winding up of a company and the company's winding up (winding up on grounds of public interest) but subject to the modifications in subsections (3) and (4).
+
+(3) Section 124(4)(b) of the Act of 1986 (application for winding up) applies in relation to a petition under this section as if it permits the petition to be presented by the Scottish Ministers [[^F96]or the chief constable of the Police Service of Scotland].
+
+(4) The court may make an order under section 125 of the Act of 1986 (powers of court on hearing of petition) to wind up the company only if—
+
+(a) the company has been convicted of an offence under section 25 in relation to a serious crime prevention order; and
+
+(b) the court considers that it is just and equitable for the company to be wound up.
+
+(5) Where a petition is made to the court under this section for the dissolution of a partnership, the court may make an order to dissolve the partnership only if—
+
+(a) the partnership has been convicted of an offence under section 25 in relation to a serious crime prevention order; and
+
+(b) the court considers that it is just and equitable for the partnership to be dissolved.
+
+(6) Where the court makes an order to dissolve a partnership under this section, the Partnership Act 1890 applies in respect of the dissolution as if it were a dissolution under section 35 of that Act.
+
+(7) The appropriate Minister may by order provide for the Act of 1986 to apply, with such modifications as that person considers appropriate, in relation to a petition under this section for the winding up of a relevant body and the relevant body's winding up.
+
+(8) An order made by virtue of subsection (7) must ensure that the court may make an order to wind up the relevant body only if—
+
+(a) the relevant body has been convicted of an offence under section 25 in relation to a serious crime prevention order; and
+
+(b) the court considers that it is just and equitable for the relevant body to be wound up.
+
+(9) No petition may be presented, or order to wind up or dissolve made, by virtue of this section if—
+
+(a) an appeal against conviction for the offence concerned has been made and not finally determined; or
+
+(b) the period during which such an appeal may be made has not expired.
+
+(10) No petition may be presented, or order to wind up or dissolve made, by virtue of this section if—
+
+(a) the company or relevant body is already being wound up by the court, or
+
+(b) the partnership is already being dissolved by the court.
+
+(11) In deciding for the purposes of subsection (9) whether an appeal is finally determined or whether the period during which an appeal may be made has expired, any power to appeal out of time is to be ignored.
+
+(12) In this section—
+
+- “appropriate Minister” means—
+
+  - (a) in relation to a relevant body falling within paragraphs (a) to (c) of the definition of “relevant body” below, the Treasury; and
+  - (b) in relation to any other relevant body, the Scottish Ministers;
+
+- “company” means—
+
+  - (a) a company registered under the Companies Act 2006 in Scotland, or
+  - (b) an unregistered company within the meaning of Part 5 of the Insolvency Act 1986 (see section 220 of that Act),
+
+  but does not include a relevant body;
+
+- “the court”, in relation to a company, means a court in Scotland having jurisdiction to wind up the company;
+
+- “partnership” does not include a relevant body; and
+
+- “relevant body” means—
+
+  - (a) a building society (within the meaning of the Building Societies Act 1986);
+  - (b) an incorporated friendly society (within the meaning of the Friendly Societies Act 1992);
+  - (c) a registered society within the meaning of the Co-operative and Community Benefit Societies Act 2014;
+  - (d) a limited liability partnership; or
+  - (e) such other description of person as may be specified by order made by the Scottish Ministers;
+
+and the references to sections 124 to 125 of the Insolvency Act 1986 include references to those sections as applied by section 221(1) of that Act (unregistered companies).]
+
+#### 28 Powers to wind up companies etc: Northern Ireland
+
+(1) The Director of Public Prosecutions for Northern Ireland may present a petition to the court for the winding up of a company, partnership or relevant body if—
+
+(a) the company, partnership or relevant body has been convicted of an offence under section 25 in relation to a serious crime prevention order; and
+
+(b) the Director of Public Prosecutions for Northern Ireland considers that it would be in the public interest for the company, partnership or (as the case may be) relevant body to be wound up.
+
+[[^F97](1A) The Chief Constable of the Police Service of Northern Ireland may present a petition to the court for the winding up of a company, partnership or relevant body if—
+
+(a) the company, partnership or relevant body has been convicted of an offence under section 25 in relation to a serious crime prevention order that was made on the application of the Chief Constable; and
+
+(b) the Chief Constable considers that it would be in the public interest for the company, partnership or (as the case may be) relevant body to be wound up.]
+
+(2) The Insolvency (Northern Ireland) Order 1989 (S.I. 1989/2405 (N.I.19)) applies in relation to—
+
+(a) a petition under this section for the winding up of a company; and
+
+(b) the company's winding up;
+
+as it applies in relation to a petition under Article 104A of the Order of 1989 for the winding up of a company and the company's winding up (winding up on grounds of public interest) but subject to the modifications in subsections (3) and (4).
+
+(3) Article 104(5)(b) of the Order of 1989 (application for winding up) applies in relation to a petition under this section as if it permits the petition to be presented by the Director of Public Prosecutions for Northern Ireland [[^F98]or the Chief Constable of the Police Service of Northern Ireland].
+
+(4) The court may make an order under Article 105 of the Order of 1989 (powers of court on hearing of petition) to wind up the company only if—
+
+(a) the company has been convicted of an offence under section 25 in relation to a serious crime prevention order; and
+
+(b) the court considers that it is just and equitable for the company to be wound up.
+
+(5) Article 364 of the Order of 1989 (power to make provision about insolvent partnerships) applies for the purposes of this section as if the reference to an insolvent partnership were a reference to a partnership to which this section applies.
+
+(6) The appropriate Minister may by order provide for the Order of 1989 to apply, with such modifications as that person considers appropriate, in relation to a petition under this section for the winding up of a relevant body and the relevant body's winding up.
+
+(7) An order made by virtue of subsection (5) or (6) must ensure that the court may make an order to wind up the partnership or relevant body only if—
+
+(a) the partnership or relevant body has been convicted of an offence under section 25 in relation to a serious crime prevention order; and
+
+(b) the court considers that it is just and equitable for the partnership or relevant body to be wound up.
+
+(8) No petition may be presented, or order to wind up made, by virtue of this section if—
+
+(a) an appeal against conviction for the offence concerned has been made and not finally determined; or
+
+(b) the period during which such an appeal may be made has not expired.
+
+(9) No petition may be presented, or order to wind up made, by virtue of this section if the company, partnership or relevant body is already being wound up by the court.
+
+(10) In deciding for the purposes of subsection (8) whether an appeal is finally determined or whether the period during which an appeal may be made has expired, any power to appeal out of time is to be ignored.
+
+(11) In this section—
+
+- “appropriate Minister” means—
+
+  - (a) in relation to a relevant body falling within paragraph (a) or (b) of the definition of “relevant body” below, the Treasury; and
+  - (b) in relation to any other relevant body, the [[^F99]Department of Justice in Northern Ireland];
+
+- [[^F100]“company” means—
+
+  - a company registered under the Companies Act 2006 in Northern Ireland, or
+  - an unregistered company within the meaning of Part 6 of the Insolvency (Northern Ireland) Order 1989 (see Article 184 of that Order),]
+
+- “ the court ” means the High Court in Northern Ireland;
+
+- “ an industrial and provident society ” means a society registered under the Industrial and Provident Societies Act (Northern Ireland) 1969 (c. 24) or a society deemed by virtue of section 4 of that Act to be so registered;
+
+- “ partnership ” does not include a relevant body; and
+
+- “ relevant body ” means—
+
+  - (a) a building society (within the meaning of the Building Societies Act 1986 (c. 53));
+  - (b) an incorporated friendly society (within the meaning of the Friendly Societies Act 1992 (c. 40));
+  - (c) an industrial and provident society;
+  - (d) a limited liability partnership; or
+  - (e) such other description of person as may be specified by order made by the [[^F101]Department of Justice in Northern Ireland];
+
+and the references to Articles 104 to 105 of the Insolvency (Northern Ireland) Order 1989 ( S.I. 1989/2405 (N.I.19)) include references to those Articles as applied by Article 185(1) of that Order (unregistered companies).
+
+#### 29 Powers to wind up: supplementary
+
+(1) The Secretary of State may by order make such modifications as he considers appropriate to the application of—
+
+(a) the Insolvency Act 1986 (c. 45) by virtue of section 27(2); or
+
+[^F102]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[[^F103](1ZA) The Scottish Ministers may by order make such modifications as they consider appropriate to the application of the Insolvency Act 1986 by virtue of section 27A(2).]
+
+[[^F104](1A) The Department of Justice in Northern Ireland may by order make such modifications as the Department considers appropriate to the application of the Insolvency (Northern Ireland) Order 1989 by virtue of section 28(2).]
+
+(2) Any modifications made by virtue of subsection (1)[[^F105], (1ZA)] [[^F106]or (1A)] are in addition to the modifications made by section 27(3) and (4)[[^F107], 27A(3) and (4)] or (as the case may be) section 28(3) and (4).
+
+(3) The Secretary of State may by order make such consequential or supplementary provision, applying with or without modifications any provision made by or under an enactment, as he considers appropriate in connection with section 27(2) to (4) [^F108]....
+
+[[^F109](3ZA) The Scottish Ministers may by order make such consequential or supplementary provision, applying with or without modifications any provision made by or under an enactment including an enactment comprised in, or in an instrument made under, an Act of the Scottish Parliament, as they consider appropriate in connection with section 27A(2) to (4).]
+
+[[^F110](3A) The Department of Justice in Northern Ireland may by order make such consequential or supplementary provision, applying with or without modifications any provision made by or under an enactment, as the Department considers appropriate in connection with section 28(2) to (4).]
+
+(4) An order made by virtue of section 27(5) or (6), section 28(5) or (6)[[^F111], 27A(7)] or subsection (1)[[^F112], (1ZA)] [[^F113]or (1A)] above may, in particular, contain consequential or supplementary provision applying, with or without modifications, any provision made by or under an enactment[[^F114]including, in the case of an order made by virtue of section 27A(7) or subsection (1ZA) above, an enactment comprised in, or in an instrument made under, an Act of the Scottish Parliament.]
+
+### Particular types of persons
+
+#### 30 Bodies corporate including limited liability partnerships
+
+(1) For the purposes of section 10 in its application to a serious crime prevention order against a body corporate or to the variation of such an order—
+
+(a) a notice setting out the terms of the order or variation—
+
+(i) is delivered to the body corporate in person if it is delivered to an officer of the body corporate in person; and
+
+(ii) is sent by recorded delivery to the body corporate at its last-known address if it is so sent to an officer of the body corporate at the address of the registered office of that body or at the address of its principal office in the United Kingdom; and
+
+(b) the power conferred by subsection (3) of that section is a power to enter any premises where the person exercising the power has reasonable grounds for believing an officer of the body corporate to be and to search those premises for the officer.
+
+(2) If an offence under section 25 committed by a body corporate is proved to have been committed with the consent or connivance of—
+
+(a) an officer of the body corporate; or
+
+(b) a person who was purporting to act in any such capacity;
+
+he (as well as the body corporate) is guilty of the offence and liable to be proceeded against and punished accordingly.
+
+(3) Nothing in this section prevents a serious crime prevention order from being made against an officer or employee of a body corporate or against any other person associated with a body corporate.
+
+(4) In this section—
+
+- “body corporate” includes a limited liability partnership;
+- “director”, in relation to a body corporate whose affairs are managed by its members, means a member of the body corporate; and
+- “officer of a body corporate” means any director, manager, secretary or other similar officer of the body corporate.
+
+#### 31 Other partnerships
+
+(1) A serious crime prevention order against a partnership must be made in the name of the partnership (and not in that of any of the partners).
+
+(2) An order made in the name of the partnership continues to have effect despite a change of partners provided that at least one of the persons who was a partner before the change remains a partner after it.
+
+(3) For the purposes of this Part, a partnership is involved in serious crime in England and Wales[[^F115], Scotland,], Northern Ireland or elsewhere if the partnership, or any of the partners, is so involved; and involvement in serious crime in England and Wales[[^F115], Scotland,] or Northern Ireland is to be read accordingly.
+
+(4) For the purposes of section 10 in its application to a serious crime prevention order against a partnership or to the variation of such an order—
+
+(a) a notice setting out the terms of the order or variation—
+
+(i) is delivered to the partnership in person if it is delivered to any of the partners in person or to a senior officer of the partnership in person; and
+
+(ii) is sent by recorded delivery to the partnership at its last-known address if it is so sent to any of the partners or to a senior officer of the partnership at the address of the principal office of the partnership in the United Kingdom; and
+
+(b) the power conferred by subsection (3) of that section is a power to enter any premises where the person exercising the power has reasonable grounds for believing a partner or senior officer of the partnership to be and to search those premises for the partner or senior officer.
+
+(5) Proceedings for an offence under section 25 alleged to have been committed by a partnership must be brought in the name of the partnership (and not in that of any of the partners).
+
+(6) For the purposes of such proceedings—
+
+(a) rules of court relating to the service of documents have effect as if the partnership were a body corporate; and
+
+(b) the following provisions apply as they apply in relation to a body corporate—
+
+(i) section 33 of the Criminal Justice Act 1925 (c. 86) and Schedule 3 to the Magistrates' Courts Act 1980 (c. 43);
+
+[^F116]ii . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(iii) section 18 of the Criminal Justice Act (Northern Ireland) 1945 (c. 15 (N.I.)) and Schedule 4 to the Magistrates' Courts (Northern Ireland) Order 1981 (S.I. 1981/1675 (N.I.26)).
+
+(7) A fine imposed on the partnership on its conviction for an offence under section 25 is to be paid out of the partnership assets.
+
+(8) If an offence under section 25 committed by a partnership is proved to have been committed with the consent or connivance of a partner or a senior officer of the partnership, he (as well as the partnership) is guilty of the offence and liable to be proceeded against and punished accordingly.
+
+(9) For the purposes of subsection (8)—
+
+(a) references to a partner or to a senior officer of a partnership include references to any person purporting to act in such a capacity; and
+
+(b) subsection (5) is not to be read as prejudicing any liability of a partner under subsection (8).
+
+(10) Nothing in this section prevents a serious crime prevention order from being made against—
+
+(a) a particular partner; or
+
+(b) a senior officer or employee of a partnership or any other person associated with a partnership.
+
+(11) In this section—
+
+- “senior officer of a partnership” means any person who has the control or management of the business carried on by the partnership at the principal place where it is carried on; and
+- “partnership” does not include a limited liability partnership.
+
+#### 32 Unincorporated associations
+
+(1) A serious crime prevention order against an unincorporated association must be made in the name of the association (and not in that of any of its members).
+
+(2) An order made in the name of the association continues to have effect despite a change in the membership of the association provided that at least one of the persons who was a member of the association before the change remains a member after it.
+
+(3) For the purposes of section 10 in its application to a serious crime prevention order against an unincorporated association or to the variation of such an order—
+
+(a) a notice setting out the terms of the order or variation—
+
+(i) is delivered to the association in person if it is delivered to an officer of the association in person; and
+
+(ii) is sent by recorded delivery to the association at its last-known address if it is so sent to an officer of the association at the address of the principal office of the association in the United Kingdom; and
+
+(b) the power conferred by subsection (3) of that section is a power to enter any premises where the person exercising the power has reasonable grounds for believing an officer of the association to be and to search those premises for the officer.
+
+(4) Proceedings for an offence under section 25 alleged to have been committed by an unincorporated association must be brought in the name of the association (and not in that of any of its members).
+
+(5) For the purposes of such proceedings—
+
+(a) rules of court relating to the service of documents have effect as if the association were a body corporate; and
+
+(b) the following provisions apply as they apply in relation to a body corporate—
+
+(i) section 33 of the Criminal Justice Act 1925 (c. 86) and Schedule 3 to the Magistrates' Courts Act 1980 (c. 43);
+
+[^F117]ii . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(iii) section 18 of the Criminal Justice Act (Northern Ireland) 1945 (c. 15 (N.I.)) and Schedule 4 to the Magistrates' Courts (Northern Ireland) Order 1981 (S.I. 1981/1675 (N.I.26)).
+
+(6) A fine imposed on the association on its conviction for an offence under section 25 is to be paid out of the funds of the association.
+
+(7) If an offence under section 25 committed by an unincorporated association is proved to have been committed with the consent or connivance of an officer of the association, he (as well as the association) is guilty of the offence and liable to be proceeded against and punished accordingly.
+
+(8) For the purposes of subsection (7)—
+
+(a) references to an officer of an unincorporated association include references to any person purporting to act in such a capacity; and
+
+(b) subsection (4) is not to be read as prejudicing any liability of an officer of an unincorporated association under subsection (7).
+
+(9) Nothing in this section prevents a serious crime prevention order from being made against—
+
+(a) a member, officer or employee of an unincorporated association; or
+
+(b) any other person associated with an unincorporated association.
+
+(10) In this section—
+
+- “officer of an unincorporated association” means any officer of an unincorporated association or any member of its governing body; and
+- “unincorporated association” means any body of persons unincorporate but does not include a partnership.
+
+#### 33 Overseas bodies
+
+The Secretary of State may by order modify section 30, 31 or 32 in its application to a body of persons formed under law having effect outside the United Kingdom.
+
+#### 34 Providers of information society services
+
+(1) A serious crime prevention order may not include terms which restrict the freedom of a service provider who is established in an EEA state [^F118]... to provide information society services in relation to an EEA state unless the conditions in subsections (2) and (3) are met.
+
+(2) The condition in this subsection is that the court concerned considers that the terms—
+
+(a) are necessary for the objective of protecting the public by preventing, restricting or disrupting involvement in—
+
+(i) in the case of an order in England and Wales, serious crime in England and Wales; [^F119]...
+
+[[^F120](ia) in the case of an order in Scotland, serious crime in Scotland;]
+
+(ii) in the case of an order in Northern Ireland, serious crime in Northern Ireland;
+
+(b) relate to an information society service which prejudices that objective or presents a serious and grave risk of prejudice to it; and
+
+(c) are proportionate to that objective.
+
+(3) The conditions in this subsection are that—
+
+(a) a law enforcement officer has requested the EEA state in which the service provider is established to take measures which the law enforcement officer considers to be of equivalent effect under the law of the EEA state to the terms and the EEA state has failed to take the measures; [^F121]...
+
+[^F121]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) It does not matter for the purposes of subsection (3) whether the request [^F122]... is made before or after the making of the application for the order.
+
+(5) A serious crime prevention order may not include terms which impose liabilities on service providers of intermediary services so far as the imposition of those liabilities would result in a contravention of Article 12, 13 or 14 of the E-Commerce Directive (various protections for service providers of intermediary services) [[^F123], reading those Articles as if the requirements imposed on a Member State were imposed on the court making the order].
+
+(6) A serious crime prevention order may not include terms which impose a general obligation on service providers of intermediary services [[^F124]falling within the descriptions contained in] Articles 12, 13 and 14 of the E-Commerce Directive—
+
+(a) to monitor the information which they transmit or store when providing those services; or
+
+(b) actively to seek facts or circumstances indicating illegal activity when providing those services.
+
+(7) For the purposes of this section—
+
+(a) a service provider is established in a particular EEA state if he effectively pursues an economic activity using a fixed establishment in that EEA state for an indefinite period and he is a national of an EEA state or a company or firm mentioned in [[^F125]Article 54 of the Treaty on the Functioning of the European Union];
+
+(b) the presence or use in a particular place of equipment or other technical means of providing an information society service does not, of itself, constitute the establishment of a service provider;
+
+(c) where it cannot be determined from which of a number of establishments a given information society service is provided, that service is to be regarded as provided from the establishment where the service provider has the centre of his activities relating to the service;
+
+and references to a person being established in an EEA state are to be read accordingly.
+
+(8) In this section—
+
+- “the E-Commerce Directive” means Directive 2000/31/EC of the European Parliament and of the Council of 8 June 2000 on certain legal aspects of information society services, in particular electronic commerce, in the Internal Market (Directive on electronic commerce);
+
+- “information society services”—
+
+  - (a) has the meaning given in Article 2(a) of the E-Commerce Directive (which refers to Article 1(2) of Directive 98/34/EC of the European Parliament and of the Council of 22 June 1998 laying down a procedure for the provision of information in the field of technical standards and regulations); and
+  - (b) is summarised in recital 17 of the E-Commerce Directive as covering “any service normally provided for remuneration, at a distance, by means of electronic equipment for the processing (including digital compression) and storage of data, and at the individual request of a recipient of a service”;
+
+- “intermediary services” means an information society service which—
+
+  - (a) consists in the provision of access to a communication network or the transmission in a communication network of information provided by a recipient of the service;
+  
+  - (b) consists in the transmission in a communication network of information which—
+  
+    - (i) is provided by a recipient of the service; and
+    - (ii) is the subject of automatic, intermediate and temporary storage which is solely for the purpose of making the onward transmission of the information to other recipients of the service at their request more efficient; or
+  
+  - (c) consists in the storage of information provided by a recipient of the service;
+
+- “recipient”, in relation to a service, means any person who, for professional ends or otherwise, uses an information society service, in particular for the purposes of seeking information or making it accessible; and
+
+- “service provider” means a person providing an information society service.
+
+(9) For the purposes of paragraph (a) of the definition of “intermediary services”, the provision of access to a communication network and the transmission of information in a communication network includes the automatic, intermediate and transient storage of the information transmitted so far as the storage is for the sole purpose of carrying out the transmission in the network.
+
+(10) Subsection (9) does not apply if the information is stored for longer than is reasonably necessary for the transmission.
+
+### Supplementary
+
+#### 35 Proceedings in the High Court
+
+(1) Proceedings before the High Court in relation to serious crime prevention orders are civil proceedings.
+
+(2) One consequence of this is that the standard of proof to be applied by the court in such proceedings is the civil standard of proof.
+
+#### 36 Proceedings in the Crown Court
+
+(1) Proceedings before the Crown Court arising by virtue of section 19, 20 [[^F126], 21 or 22E] are civil proceedings.
+
+(2) One consequence of this is that the standard of proof to be applied by the court in such proceedings is the civil standard of proof.
+
+(3) Two other consequences of this are that the court—
+
+(a) is not restricted to considering evidence that would have been admissible in the criminal proceedings in which the person concerned was convicted; and
+
+(b) may adjourn any proceedings in relation to a serious crime prevention order even after sentencing the person concerned.
+
+(4) The Crown Court, when exercising its jurisdiction in England and Wales under this Part, is a criminal court for the purposes of Part 7 of the Courts Act 2003 (c. 39) (procedure rules and practice directions).
+
+(5) A serious crime prevention order may be made as mentioned in section 19(7)(b) in spite of anything in [[^F127]sections 79, 80 and 82 of the Sentencing Code] or (as the case may be) Articles 4 and 6 of the Criminal Justice (Northern Ireland) Order 1996 (S.I. 1996/3160 (N.I.24)) (which relate to orders discharging a person absolutely or conditionally and their effect).
+
+(6) A variation of a serious crime prevention order may be made as mentioned in section 20(6)(b) or 21(6)(b) in spite of anything in sections 12 and 14 of the Act of 2000 or (as the case may be) Articles 4 and 6 of the Order of 1996.
+
+#### 36A [[^F128]Proceedings in the High Court of Justiciary and sheriff court
+
+(1) Proceedings before the High Court of Justiciary (the “High Court”) or the sheriff arising by virtue of section 22A, 22B, 22C or 22E are civil proceedings.
+
+(2) One consequence of this is that the standard of proof to be applied by the High Court or (as the case may be) the sheriff in such proceedings is the civil standard of proof.
+
+(3) Two other consequences of this are that the High Court or (as the case may be) the sheriff—
+
+(a) is not restricted to considering evidence that would have been admissible in the criminal proceedings in which the person concerned was convicted; and
+
+(b) may adjourn any proceedings in relation to a serious crime prevention order even after sentencing the person concerned.
+
+(4) Despite subsection (1), an Act of Adjournal under section 305 of the Criminal Procedure (Scotland) Act 1995 (Acts of Adjournal) may be made in relation to proceedings before the High Court or the sheriff arising by virtue of section 22A, 22B, 22C or 22E.
+
+(5) A serious crime prevention order may be made as mentioned in section 22A(6)(b) in spite of anything in sections 246 and 247 of the Criminal Procedure (Scotland) Act 1995 (which relate to orders discharging a person absolutely and their effect).
+
+(6) A variation of a serious crime prevention order may be made as mentioned in section 22B(4)(b), or (as the case may be) a variation of or a new serious crime prevention order may be made as mentioned in section 22C(4)(b), in spite of anything in sections 246 and 247 of the Criminal Procedure (Scotland) Act 1995.]
+
+#### 37 Functions of applicant authorities
+
+Schedule 2 (functions of applicant authorities under this Part) has effect.
+
+#### 38 Disclosure of information in accordance with orders
+
+(1) A person who complies with a requirement imposed by a serious crime prevention order to answer questions, provide information or produce documents does not breach—
+
+(a) any obligation of confidence; or
+
+(b) any other restriction on making the disclosure concerned (however imposed).
+
+(2) But see sections 11 to 14 (which limit the requirements that may be imposed by serious crime prevention orders in connection with answering questions, providing information or producing documents).
+
+#### 39 Compliance with orders: authorised monitors
+
+(1) A serious crime prevention order against a body corporate, partnership or unincorporated association may authorise a law enforcement agency to enter into arrangements with—
+
+(a) a specified person; or
+
+(b) any person who falls within a specified description of persons;
+
+to perform specified monitoring services or monitoring services of a specified description.
+
+(2) A person with whom the agency has entered into arrangements in accordance with such an authorisation is known for the purposes of this section as an authorised monitor.
+
+(3) A serious crime prevention order which provides for an authorised monitor may, for the purpose of enabling the performance of monitoring services, impose requirements of the type mentioned in section 5(5) as if the references in paragraph (a)(iv) and (b)(iv) of that provision to a law enforcement officer included references to an authorised monitor.
+
+(4) A serious crime prevention order which provides for an authorised monitor may require any body corporate, partnership or unincorporated association which is the subject of the order to pay to the law enforcement agency concerned some or all of the costs incurred by the agency under the arrangements with the authorised monitor.
+
+(5) Any such order—
+
+(a) must specify the period, or periods, within which payments are to be made;
+
+(b) may require the making of payments on account;
+
+(c) may include other terms about the calculation or payment of costs.
+
+(6) The tests for making or varying a serious crime prevention order in sections 1(1)(b), (2)(b) and (3), 17(1) and (2), 19(2), (4) and (5), 20(2) and (4) and 21(2) and (4) do not operate in relation to an order so far as the order contains terms of the kind envisaged by subsections (4) and (5) above (or by subsection (1) above for the purposes of those subsections).
+
+(7) But a court must not include in a serious crime prevention order (whether initially or on a variation) terms of the kind envisaged by subsection (4) or (5) unless it considers that it is appropriate to do so having regard to all the circumstances including, in particular—
+
+(a) the means of the body corporate, partnership or unincorporated association concerned;
+
+(b) the expected size of the costs; and
+
+(c) the effect of the terms on the ability of any body corporate, partnership or unincorporated association which is carrying on business to continue to do so.
+
+(8) A law enforcement agency must inform the subject of a serious crime prevention order which provides for an authorised monitor of the name of, and an address for, any person with whom the agency has entered into arrangements in accordance with the authorisation in the order.
+
+(9) Nothing in this section affects the ability of law enforcement agencies to enter into arrangements otherwise than in accordance with an authorisation under this section.
+
+(10) In this section—
+
+- “law enforcement agency” means—
+
+  - (za) [[^F129]the chief constable of a police force maintained under section 2 of the Police Act 1996;
+  - (zb) the Commissioner of Police of the Metropolis;
+  - (zc) the Common Council of the City of London in its capacity as police authority;]
+  - (zd) [[^F130]the chief constable of the Police Service of Scotland;]
+  - (a) [^F131]... the Northern Ireland Policing Board;
+  - (b) [[^F132]the National Crime Agency;]
+  - (c) the Commissioners for Her Majesty's Revenue and Customs; or
+  - (d) the Director of the Serious Fraud Office;
+
+- “monitoring services” means—
+
+  - (a) analysing some or all information received in accordance with a serious crime prevention order;
+  - (b) reporting to a law enforcement officer as to whether, on the basis of the information and any other information analysed for this purpose, the subject of the order appears to be complying with the order or any part of it; and
+  - (c) any related services; and
+
+- “specified”, in relation to a serious crime prevention order, means specified in the order.
+
+#### 40 Costs in relation to authorised monitors
+
+(1) The [[^F133]appropriate authority] may by order make provision about the practice and procedure for determining the amount of—
+
+(a) any costs payable by virtue of section 39(4) and (5); and
+
+(b) any interest payable in respect of those costs.
+
+(2) Such provision may, in particular, include provision about appeals.
+
+(3) Where any amounts required to be paid by virtue of section 39(4) and (5) have not been paid within a required period, the law enforcement agency concerned must take reasonable steps to recover them and any interest payable in respect of them.
+
+(4) The [[^F134]appropriate authority] must by order provide for what are reasonable steps for the purposes of subsection (3).
+
+(5) Any amounts which have not been recovered despite the taking of the reasonable steps are [[^F135]recoverable—
+
+(a) in England and Wales and Northern Ireland, as if ] due to the law enforcement agency concerned by virtue of a civil order or judgment.
+
+[[^F136](b) in Scotland, in like manner as an extract registered decree arbitral bearing a warrant for execution issued by the sheriff court of any sheriffdom in Scotland.]
+
+(6) Where any amounts required to be paid by virtue of section 39(4) and (5) are, in the case of an order of the Crown Court, not paid within a required period, the unpaid balance from time to time carries interest at the rate for the time being specified in section 17 of the Judgments Act 1838 (c. 110) (interest on civil judgment debts).
+
+[[^F137](6A) Where any amounts required to be paid by virtue of section 39(4) and (5) are, in the case of a serious crime prevention order made under section 22A, not paid within a required period, the unpaid balance from time to time carries interest at the rate payable under a decree of the Court of Session.]
+
+(7) For the purposes of section 25, a failure to comply with a requirement imposed by virtue of section 39(4) and (5) to make payments occurs when the amounts become recoverable as mentioned in subsection (5) above (and not before).
+
+(8) In this section “law enforcement agency” has the same meaning as in section 39.
+
+[[^F138](9) In this section “the appropriate authority” means—
+
+(a) in relation to serious crime prevention orders in England and Wales, the Secretary of State;
+
+[[^F139](aa) in relation to serious crime prevention orders in Scotland, the Scottish Ministers;]
+
+(b) in relation to serious crime prevention orders in Northern Ireland, the Department of Justice in Northern Ireland.]
+
+#### 41 Powers of law enforcement officers to retain documents
+
+(1) A law enforcement officer—
+
+(a) may take and retain copies of, or extracts from, any document produced to a law enforcement officer in pursuance of a serious crime prevention order; and
+
+(b) may retain any document so produced for as long as he considers that it is necessary to retain it (rather than any copy of it) for the purposes for which the document was obtained.
+
+(2) A law enforcement officer may retain any document produced to a law enforcement officer in pursuance of a serious crime prevention order until the conclusion of any legal proceedings if he has reasonable grounds for believing that the document—
+
+(a) may have to be produced for the purposes of those proceedings; and
+
+(b) might be unavailable unless retained.
+
+### Interpretation: Part 1
+
+#### 42 Interpretation: Part 1
+
+In this Part—
+
+- “act” and “conduct” include omissions and statements;
+- “country” includes territory;
+- “modifications” includes additions and omissions (and “modify” is to be read accordingly);
+- “the public” includes a section of the public or a particular member of the public.
+
+#### 43 Index of defined expressions: Part 1
+
+In this Part, the expressions listed in the left-hand column have the meaning given by, or are to be interpreted in accordance with, the provisions listed in the right-hand column.
+
+|  |  |
+|---|---|
+| *Expression* | *Provision* |
+| act | section 42 |
+| [[^F140]appropriate court | section 1(5)] |
+| committed a serious offence | section 4(1) |
+| conduct | section 42 |
+| conducts oneself in a way likely to facilitate the commission by oneself or another person of a serious offence | section 4(3) |
+| country | section 42 |
+| Director of Public Prosecutions, [^F141] ..., Director of the Serious Fraud Office and Director of Public Prosecutions for Northern Ireland | Paragraphs 2(2), [^F142] ..., 13(2) and 17 of Schedule 2 |
+| document | section 5(7) |
+| facilitates the commission by another person of a serious offence | section 4(2) |
+| involvement in serious crime: England and Wales orders | sections 2, 4 and 31(3) |
+| involvement in serious crime: Northern Ireland orders | sections 3, 4 and 31(3) |
+| [[^F140]involvement in serious crime: Scotland orders | sections 2A, 4 and 31(3)] |
+| law enforcement officer | section 5(7) |
+| modifications (and modify) | section 42 |
+| person who is the subject of a serious crime prevention order | section 1(6) |
+| premises | section 5(7) |
+| production of documents | section 5(8) |
+| the public | section 42 |
+| relevant applicant authority | section 10(4) |
+| serious crime prevention order | section 1(5) |
+| serious offence in England and Wales | section 2(2) |
+| serious offence in Northern Ireland | section 3(2) |
+| [[^F140]serious offence in Scotland | section 2A(2)] |
+| [[^F143]terrorism-related | section 8A] |
+
+## Part 2 — Encouraging or assisting crime
+
+### Inchoate offences
+
+#### 44 Intentionally encouraging or assisting an offence
+
+(1) A person commits an offence if—
+
+(a) he does an act capable of encouraging or assisting the commission of an offence; and
+
+(b) he intends to encourage or assist its commission.
+
+(2) But he is not to be taken to have intended to encourage or assist the commission of an offence merely because such encouragement or assistance was a foreseeable consequence of his act.
+
+#### 45 Encouraging or assisting an offence believing it will be committed
+
+A person commits an offence if—
+
+(a) he does an act capable of encouraging or assisting the commission of an offence; and
+
+(b) he believes—
+
+(i) that the offence will be committed; and
+
+(ii) that his act will encourage or assist its commission.
+
+#### 46 Encouraging or assisting offences believing one or more will be committed
+
+(1) A person commits an offence if—
+
+(a) he does an act capable of encouraging or assisting the commission of one or more of a number of offences; and
+
+(b) he believes—
+
+(i) that one or more of those offences will be committed (but has no belief as to which); and
+
+(ii) that his act will encourage or assist the commission of one or more of them.
+
+(2) It is immaterial for the purposes of subsection (1)(b)(ii) whether the person has any belief as to which offence will be encouraged or assisted.
+
+(3) If a person is charged with an offence under subsection (1)—
+
+(a) the indictment must specify the offences alleged to be the “number of offences” mentioned in paragraph (a) of that subsection; but
+
+(b) nothing in paragraph (a) requires all the offences potentially comprised in that number to be specified.
+
+(4) In relation to an offence under this section, reference in this Part to the offences specified in the indictment is to the offences specified by virtue of subsection (3)(a).
+
+#### 47 Proving an offence under this Part
+
+(1) Sections 44, 45 and 46 are to be read in accordance with this section.
+
+(2) If it is alleged under section 44(1)(b) that a person (D) intended to encourage or assist the commission of an offence, it is sufficient to prove that he intended to encourage or assist the doing of an act which would amount to the commission of that offence.
+
+(3) If it is alleged under section 45(b) that a person (D) believed that an offence would be committed and that his act would encourage or assist its commission, it is sufficient to prove that he believed—
+
+(a) that an act would be done which would amount to the commission of that offence; and
+
+(b) that his act would encourage or assist the doing of that act.
+
+(4) If it is alleged under section 46(1)(b) that a person (D) believed that one or more of a number of offences would be committed and that his act would encourage or assist the commission of one or more of them, it is sufficient to prove that he believed—
+
+(a) that one or more of a number of acts would be done which would amount to the commission of one or more of those offences; and
+
+(b) that his act would encourage or assist the doing of one or more of those acts.
+
+(5) In proving for the purposes of this section whether an act is one which, if done, would amount to the commission of an offence—
+
+(a) if the offence is one requiring proof of fault, it must be proved that—
+
+(i) D believed that, were the act to be done, it would be done with that fault;
+
+(ii) D was reckless as to whether or not it would be done with that fault; or
+
+(iii) D's state of mind was such that, were he to do it, it would be done with that fault; and
+
+(b) if the offence is one requiring proof of particular circumstances or consequences (or both), it must be proved that—
+
+(i) D believed that, were the act to be done, it would be done in those circumstances or with those consequences; or
+
+(ii) D was reckless as to whether or not it would be done in those circumstances or with those consequences.
+
+(6) For the purposes of subsection (5)(a)(iii), D is to be assumed to be able to do the act in question.
+
+(7) In the case of an offence under section 44—
+
+(a) subsection (5)(b)(i) is to be read as if the reference to “D believed” were a reference to “D intended or believed”; but
+
+(b) D is not to be taken to have intended that an act would be done in particular circumstances or with particular consequences merely because its being done in those circumstances or with those consequences was a foreseeable consequence of his act of encouragement or assistance.
+
+(8) Reference in this section to the doing of an act includes reference to—
+
+(a) a failure to act;
+
+(b) the continuation of an act that has already begun;
+
+(c) an attempt to do an act (except an act amounting to the commission of the offence of attempting to commit another offence).
+
+(9) In the remaining provisions of this Part (unless otherwise provided) a reference to the anticipated offence is—
+
+(a) in relation to an offence under section 44, a reference to the offence mentioned in subsection (2); and
+
+(b) in relation to an offence under section 45, a reference to the offence mentioned in subsection (3).
+
+#### 48 Proving an offence under section 46
+
+(1) This section makes further provision about the application of section 47 to an offence under section 46.
+
+(2) It is sufficient to prove the matters mentioned in section 47(5) by reference to one offence only.
+
+(3) The offence or offences by reference to which those matters are proved must be one of the offences specified in the indictment.
+
+(4) Subsection (3) does not affect any enactment or rule of law under which a person charged with one offence may be convicted of another and is subject to section 57.
+
+#### 49 Supplemental provisions
+
+(1) A person may commit an offence under this Part whether or not any offence capable of being encouraged or assisted by his act is committed.
+
+(2) If a person's act is capable of encouraging or assisting the commission of a number of offences—
+
+(a) section 44 applies separately in relation to each offence that he intends to encourage or assist to be committed; and
+
+(b) section 45 applies separately in relation to each offence that he believes will be encouraged or assisted to be committed.
+
+(3) A person may, in relation to the same act, commit an offence under more than one provision of this Part.
+
+(4) In reckoning whether—
+
+(a) for the purposes of section 45, an act is capable of encouraging or assisting the commission of an offence; or
+
+(b) for the purposes of section 46, an act is capable of encouraging or assisting the commission of one or more of a number of offences;
+
+offences under this Part and listed offences are to be disregarded.
+
+(5) “Listed offence” means—
+
+(a) in England and Wales, an offence listed in Part 1, 2 or 3 of Schedule 3; and
+
+(b) in Northern Ireland, an offence listed in Part 1, 4 or 5 of that Schedule.
+
+(6) The Secretary of State may by order amend Schedule 3.
+
+[[^F144](6A) The power to make an order under subsection (6) for the purposes of subsection (5)(b) is exercisable by the Department of Justice in Northern Ireland (and not by the Secretary of State) so far as the power may be used to make provision which could be made by an Act of the Northern Ireland Assembly without the consent of the Secretary of State (see sections 6 to 8 of the Northern Ireland Act 1998).]
+
+(7) For the purposes of sections 45(b)(i) and 46(1)(b)(i) it is sufficient for the person concerned to believe that the offence (or one or more of the offences) will be committed if certain conditions are met.
+
+### [[^F145]Defences]
+
+#### 50 Defence of acting reasonably
+
+(1) A person is not guilty of an offence under this Part if he proves—
+
+(a) that he knew certain circumstances existed; and
+
+(b) that it was reasonable for him to act as he did in those circumstances.
+
+(2) A person is not guilty of an offence under this Part if he proves—
+
+(a) that he believed certain circumstances to exist;
+
+(b) that his belief was reasonable; and
+
+(c) that it was reasonable for him to act as he did in the circumstances as he believed them to be.
+
+(3) Factors to be considered in determining whether it was reasonable for a person to act as he did include—
+
+(a) the seriousness of the anticipated offence (or, in the case of an offence under section 46, the offences specified in the indictment);
+
+(b) any purpose for which he claims to have been acting;
+
+(c) any authority by which he claims to have been acting.
+
+#### 50A [[^F146]Extra-territorial offences: defence for intelligence services and armed forces
+
+(1) This section applies where a person is charged with an offence under this Part by reason of a provision of Schedule 4 (extra-territorial jurisdiction).
+
+(2) It is a defence for the person to show that their act was necessary for—
+
+(a) the proper exercise of a function of an intelligence service, or
+
+(b) the proper exercise of a function of the armed forces relating to intelligence.
+
+(3) A person is taken to have shown that their act was so necessary if—
+
+(a) sufficient evidence of that fact is adduced to raise an issue with respect to it, and
+
+(b) the contrary is not proved beyond reasonable doubt.
+
+(4) The head of each intelligence service must ensure that the service has in place arrangements designed to ensure that acts of a member of the service to which a provision of Schedule 4 applies are necessary for the proper exercise of a function of the service.
+
+(5) The Defence Council must ensure that the armed forces have in place arrangements designed to ensure that acts of—
+
+(a) a member of the armed forces, or
+
+(b) a civilian subject to service discipline when working in support of a member of the armed forces,
+
+to which a provision of Schedule 4 applies are necessary for the proper exercise of a function of the armed forces relating to intelligence.
+
+(6) The arrangements which must be in place by virtue of subsection (4) or (5) must be arrangements which the Secretary of State considers to be satisfactory.
+
+(7) In this section—
+
+- “armed forces” means His Majesty’s forces (within the meaning of the Armed Forces Act 2006);
+
+- “civilian subject to service discipline” has the same meaning as in the Armed Forces Act 2006;
+
+- “GCHQ” has the meaning given by section 3(3) of the Intelligence Services Act 1994;
+
+- “head” means—
+
+  - in relation to the Security Service, the Director General of the Security Service,
+  - in relation to the Secret Intelligence Service, the Chief of the Secret Intelligence Service, and
+  - in relation to GCHQ, the Director of GCHQ;
+
+- “intelligence service” means the Security Service, the Secret Intelligence Service or GCHQ.]
+
+### Limitation on liability
+
+#### 51 Protective offences: victims not liable
+
+(1) In the case of protective offences, a person does not commit an offence under this Part by reference to such an offence if—
+
+(a) he falls within the protected category; and
+
+(b) he is the person in respect of whom the protective offence was committed or would have been if it had been committed.
+
+(2) “Protective offence” means an offence that exists (wholly or in part) for the protection of a particular category of persons (“the protected category”).
+
+#### 51A [[^F147]Exceptions to section 44 for encouraging or assisting suicide [[^F148]or serious self-harm]
+
+[[^F149](1)] Section 44 does not apply to an offence under section 2(1) of the Suicide Act 1961 or section 13(1) of the Criminal Justice Act (Northern Ireland) 1966 (offence of encouraging or assisting suicide).
+
+[[^F150](2) Section 44 does not apply to an offence under section 184(1) of the Online Safety Act 2023 (offence of encouraging or assisting serious self-harm).]]
+
+### Jurisdiction and procedure
+
+#### 52 Jurisdiction
+
+(1) If a person (D) knows or believes that what he anticipates might take place wholly or partly in England or Wales, he may be guilty of an offence under section 44, 45 or 46 no matter where he was at any relevant time.
+
+(2) If it is not proved that D knows or believes that what he anticipates might take place wholly or partly in England or Wales, he is not guilty of an offence under section 44, 45 or 46 unless paragraph 1, 2 or 3 of Schedule 4 applies.
+
+(3) A reference in this section (and in any of those paragraphs) to what D anticipates is to be read as follows—
+
+(a) in relation to an offence under section 44 or 45, it refers to the act which would amount to the commission of the anticipated offence;
+
+(b) in relation to an offence under section 46, it refers to an act which would amount to the commission of any of the offences specified in the indictment.
+
+(4) In their application to Northern Ireland, this section and Schedule 4 have effect as if references to—
+
+(a) England or Wales; and
+
+(b) England and Wales;
+
+were references to Northern Ireland.
+
+(5) Nothing in this section or Schedule 4 restricts the operation of any enactment by virtue of which an act constituting an offence under this Part is triable under the law of England and Wales or Northern Ireland.
+
+#### 53 Prosecution of offences triable by reason of Schedule 4
+
+[[^F151](1)] No proceedings for an offence triable by reason of any provision of Schedule 4 may be instituted—
+
+(a) in England and Wales, except by, or with the consent of, the Attorney General; or
+
+(b) in Northern Ireland, except by, or with the consent of, the Advocate General for Northern Ireland.
+
+[[^F152](2) Subsection (1) does not apply to an offence under this Part to which section 10 of the Bribery Act 2010 applies by virtue of section 54(1) and (2) below (encouraging or assisting bribery).]
+
+#### 54 Institution of proceedings etc. for an offence under this Part
+
+(1) Any provision to which this section applies has effect with respect to an offence under this Part as it has effect with respect to the anticipated offence.
+
+(2) This section applies to provisions made by or under an enactment (whenever passed or made) that—
+
+(a) provide that proceedings may not be instituted or carried on otherwise than by, or on behalf or with the consent of, any person (including any provision which also makes exceptions to the prohibition);
+
+(b) confer power to institute proceedings;
+
+(c) confer power to seize and detain property;
+
+(d) confer a power of forfeiture, including any power to deal with anything liable to be forfeited.
+
+(3) In relation to an offence under section 46—
+
+(a) the reference in subsection (1) to the anticipated offence is to be read as a reference to any offence specified in the indictment; and
+
+(b) each of the offences specified in the indictment must be an offence in respect of which the prosecutor has power to institute proceedings.
+
+(4) Any consent to proceedings required as a result of this section is in addition to any consent required by section 53.
+
+(5) No proceedings for an offence under this Part are to be instituted against a person providing information society services who is established in an EEA State [^F153]... unless the derogation condition is satisfied.
+
+(6) The derogation condition is satisfied where the institution of proceedings—
+
+(a) is necessary to pursue the public interest objective;
+
+(b) relates to an information society service that prejudices that objective or presents a serious and grave risk of prejudice to it; and
+
+(c) is proportionate to that objective.
+
+(7) The public interest objective is public policy.
+
+(8) In this section “information society services” has the same meaning as in section 34, and subsection (7) of that section applies for the purposes of this section as it applies for the purposes of that section.
+
+#### 55 Mode of trial
+
+(1) An offence under section 44 or 45 is triable in the same way as the anticipated offence.
+
+(2) An offence under section 46 is triable on indictment.
+
+#### 56 Persons who may be perpetrators or encouragers etc.
+
+(1) In proceedings for an offence under this Part (“the inchoate offence”) the defendant may be convicted if—
+
+(a) it is proved that he must have committed the inchoate offence or the anticipated offence; but
+
+(b) it is not proved which of those offences he committed.
+
+(2) For the purposes of this section, a person is not to be treated as having committed the anticipated offence merely because he aided, abetted, counselled or procured its commission.
+
+(3) In relation to an offence under section 46, a reference in this section to the anticipated offence is to be read as a reference to an offence specified in the indictment.
+
+#### 57 Alternative verdicts and guilty pleas
+
+(1) If in proceedings on indictment for an offence under section 44 or 45 a person is not found guilty of that offence by reference to the specified offence, he may be found guilty of that offence by reference to an alternative offence.
+
+(2) If in proceedings for an offence under section 46 a person is not found guilty of that offence by reference to any specified offence, he may be found guilty of that offence by reference to one or more alternative offences.
+
+(3) If in proceedings for an offence under section 46 a person is found guilty of the offence by reference to one or more specified offences, he may also be found guilty of it by reference to one or more other alternative offences.
+
+(4) For the purposes of this section, an offence is an alternative offence if—
+
+(a) it is an offence of which, on a trial on indictment for the specified offence, an accused may be found guilty; or
+
+(b) it is an indictable offence, or one to which section 40 of the Criminal Justice Act 1988 (c. 33) applies (power to include count for common assault etc. in indictment), and the condition in subsection (5) is satisfied.
+
+(5) The condition is that the allegations in the indictment charging the person with the offence under this Part amount to or include (expressly or by implication) an allegation of that offence by reference to it.
+
+(6) Subsection (4)(b) does not apply if the specified offence, or any of the specified offences, is murder or treason.
+
+(7) In the application of subsection (5) to proceedings for an offence under section 44, the allegations in the indictment are to be taken to include an allegation of that offence by reference to the offence of attempting to commit the specified offence.
+
+(8) Section 49(4) applies to an offence which is an alternative offence in relation to a specified offence as it applies to that specified offence.
+
+(9) In this section—
+
+(a) in relation to a person charged with an offence under section 44 or 45, “the specified offence” means the offence specified in the indictment as the one alleged to be the anticipated offence;
+
+(b) in relation to a person charged with an offence under section 46, “specified offence” means an offence specified in the indictment (within the meaning of subsection (4) of that section), and related expressions are to be read accordingly.
+
+(10) A person arraigned on an indictment for an offence under this Part may plead guilty to an offence of which he could be found guilty under this section on that indictment.
+
+(11) This section applies to an indictment containing more than one count as if each count were a separate indictment.
+
+(12) This section is without prejudice to—
+
+(a) section 6(1)(b) and (3) of the Criminal Law Act 1967 (c. 58);
+
+(b) section 6(1)(b) and (2) of the Criminal Law Act (Northern Ireland) 1967 (c. 18).
+
+#### 58 Penalties
+
+(1) Subsections (2) and (3) apply if—
+
+(a) a person is convicted of an offence under section 44 or 45; or
+
+(b) a person is convicted of an offence under section 46 by reference to only one offence (“the reference offence”).
+
+(2) If the anticipated or reference offence is murder, he is liable to imprisonment for life.
+
+(3) In any other case he is liable to any penalty for which he would be liable on conviction of the anticipated or reference offence.
+
+(4) Subsections (5) to (7) apply if a person is convicted of an offence under section 46 by reference to more than one offence (“the reference offences”).
+
+(5) If one of the reference offences is murder, he is liable to imprisonment for life.
+
+(6) If none of the reference offences is murder but one or more of them is punishable with imprisonment, he is liable—
+
+(a) to imprisonment for a term not exceeding the maximum term provided for any one of those offences (taking the longer or the longest term as the limit for the purposes of this paragraph where the terms provided differ); or
+
+(b) to a fine.
+
+(7) In any other case he is liable to a fine.
+
+(8) Subsections (3), (6) and (7) are subject to any contrary provision made by or under—
+
+(a) an Act; or
+
+(b) Northern Ireland legislation.
+
+(9) In the case of an offence triable either way, the reference in subsection (6) to the maximum term provided for that offence is a reference to the maximum term so provided on conviction on indictment.
+
+### Consequential alterations of the law
+
+#### 59 Abolition of common law replaced by this Part
+
+The common law offence of inciting the commission of another offence is abolished.
+
+#### 60 Amendments relating to service law
+
+Schedule 5 (which amends enactments relating to service law) has effect.
+
+#### 61 Repeal of offence of enabling unauthorised access to computer material
+
+(1) The Police and Justice Act 2006 (c. 48) is amended as follows.
+
+(2) In section 35 (unauthorised access to computer material), omit subsection (2).
+
+(3) In section 36 (unauthorised acts with intent to impair operation of computer, etc.), in the section to be substituted for section 3 of the Computer Misuse Act 1990 (c. 18)—
+
+(a) in subsection (2)—
+
+(i) at the end of paragraph (b), insert “ or ”; and
+
+(ii) omit paragraph (d) and the word “or” preceding it;
+
+(b) in subsection (3) for “to (d)” substitute “ to (c) ”.
+
+(4) In section 38 (transitional and saving provision), omit subsection (1).
+
+(5) In Schedule 14 (minor and consequential amendments), omit paragraphs 19(2) and 29(2).
+
+#### 62 No individual liability in respect of corporate manslaughter
+
+In section 18 of the Corporate Manslaughter and Corporate Homicide Act 2007 (c. 19) (no individual liability for offences under that Act) after subsection (1) insert—
+
+> (1A) An individual cannot be guilty of an offence under Part 2 of the Serious Crime Act 2007 (encouraging or assisting crime) by reference to an offence of corporate manslaughter.
+
+#### 63 Consequential amendments: Part 2
+
+(1) In the provisions listed in Part 1 of Schedule 6, any reference however expressed to (or to conduct amounting to) the offence abolished by section 59 has effect as a reference to (or to conduct amounting to) the offences under this Part.
+
+(2) Part 2 of Schedule 6 contains other minor and consequential amendments.
+
+(3) The Secretary of State may by order amend Part 1 of Schedule 6 [[^F154]as it applies to England and Wales] by adding or removing a provision.
+
+[[^F155](4) The Department of Justice in Northern Ireland may by order amend Part 1 of Schedule 6 as it applies to Northern Ireland by adding or removing a provision.]
+
+### Interpretation: Part 2
+
+#### 64 Encouraging or assisting the commission of an offence
+
+A reference in this Part to encouraging or assisting the commission of an offence is to be read in accordance with section 47.
+
+#### 65 Being capable of encouraging or assisting
+
+(1) A reference in this Part to a person's doing an act that is capable of encouraging the commission of an offence includes a reference to his doing so by threatening another person or otherwise putting pressure on another person to commit the offence.
+
+(2) A reference in this Part to a person's doing an act that is capable of encouraging or assisting the commission of an offence includes a reference to his doing so by—
+
+(a) taking steps to reduce the possibility of criminal proceedings being brought in respect of that offence;
+
+(b) failing to take reasonable steps to discharge a duty.
+
+(3) But a person is not to be regarded as doing an act that is capable of encouraging or assisting the commission of an offence merely because he fails to respond to a constable's request for assistance in preventing a breach of the peace.
+
+#### 66 Indirectly encouraging or assisting
+
+If a person (D1) arranges for a person (D2) to do an act that is capable of encouraging or assisting the commission of an offence, and D2 does the act, D1 is also to be treated for the purposes of this Part as having done it.
+
+#### 67 Course of conduct
+
+A reference in this Part to an act includes a reference to a course of conduct, and a reference to doing an act is to be read accordingly.
+
+## Part 3 — Other measures to prevent or disrupt serious and other crime
+
+### Chapter 1 — Prevention of fraud
+
+#### Sharing information with anti-fraud organisations
+
+##### 68 Disclosure of information to prevent fraud
+
+(1) A public authority may, for the purposes of preventing fraud or a particular kind of fraud, disclose information as a member of a specified anti-fraud organisation or otherwise in accordance with any arrangements made by such an organisation.
+
+(2) The information—
+
+(a) may be information of any kind; and
+
+(b) may be disclosed to the specified anti-fraud organisation, any members of it or any other person to whom disclosure is permitted by the arrangements concerned.
+
+(3) Disclosure under this section does not breach—
+
+(a) any obligation of confidence owed by the public authority disclosing the information; or
+
+(b) any other restriction on the disclosure of information (however imposed).
+
+(4) But nothing in this section authorises any disclosure of information which—
+
+(a) contravenes [[^F156]the data protection legislation]; or
+
+(b) is prohibited by [[^F157]any of Parts 1 to 7 or Chapter 1 of Part 9 of the Investigatory Powers Act 2016].
+
+[^F158]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F159]6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7) This section does not limit the circumstances in which information may be disclosed apart from this section.
+
+(8) In this section—
+
+- “an anti-fraud organisation” means any unincorporated association, body corporate or other person which enables or facilitates any sharing of information to prevent fraud or a particular kind of fraud or which has any of these functions as its purpose or one of its purposes;
+- [[^F160]“ the data protection legislation” has the same meaning as in the Data Protection Act 2018 (see section 3 of that Act).]
+- “information” includes documents;
+- “public authority” means any public authority within the meaning of section 6 of the Human Rights Act 1998 (c. 42) (acts of public authorities); and
+- “specified” means specified by an order made by the Secretary of State.
+
+##### 69 Offence for certain further disclosures of information
+
+(1) A person (“B”) commits an offence, subject as follows, if—
+
+(a) B discloses protected information which has been disclosed by a public authority—
+
+(i) as a result of the public authority being a member of a specified anti-fraud organisation; or
+
+(ii) otherwise in accordance with any arrangements made by such an organisation;
+
+(b) the information—
+
+(i) has been so disclosed by the public authority to B; or
+
+(ii) has come into B's possession as a result (whether directly or indirectly) of such a disclosure by the public authority to another person; and
+
+(c) B knows or suspects, or has reasonable grounds for suspecting, that the information is information of the kind mentioned in paragraphs (a) and (b).
+
+(2) Subsection (1) does not apply to a disclosure made by B—
+
+(a) where B is acting (whether as an employee or otherwise) on behalf of the person to whom the information was disclosed by the public authority concerned and the disclosure by B is to another person acting (whether as an employee or otherwise) on behalf of that person;
+
+(b) for the purposes of the detection, investigation or prosecution of an offence in the United Kingdom;
+
+(c) with the consent of the public authority concerned; or
+
+(d) in pursuance of [[^F161][[^F162]an assimilated] obligation] or a duty imposed by an enactment;
+
+but it does apply to a disclosure made by B which does not fall within paragraphs (a) to (d) above but which (but for the offence) would have been permitted by a power conferred by an enactment.
+
+[^F163]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) It is a defence for a person charged with an offence under this section to prove that the person reasonably believed—
+
+(a) that the disclosure was lawful; or
+
+(b) that the information had already and lawfully been made available to the public.
+
+(5) In this section “protected information” means—
+
+(a) any revenue and customs information disclosed by Revenue and Customs and revealing the identity of the person to whom it relates; or
+
+(b) any specified information disclosed by a specified public authority.
+
+(6) For the purposes of this section—
+
+(a) “revenue and customs information” means information about, acquired as a result of or held in connection with the exercise of a function of the Commissioners of Revenue and Customs or an officer of Revenue and Customs in respect of a person;
+
+(b) revenue and customs information reveals a person's identity if—
+
+(i) it specifies his identity; or
+
+(ii) his identity can be deduced from it; and
+
+(c) revenue and customs information relates to a person if he is the person in respect of whom the function mentioned in paragraph (a) is exercised.
+
+(7) In this section—
+
+- “Commissioners of Revenue and Customs” means Commissioners for Her Majesty's Revenue and Customs;
+
+- “enactment” has the same meaning as in section 14;
+
+- “public authority” has the same meaning as in section 68;
+
+- “Revenue and Customs” means—
+
+  - (a) the Commissioners of Revenue and Customs;
+  - (b) an officer of Revenue and Customs; or
+  - (c) a person acting on behalf of the Commissioners or an officer of Revenue and Customs;
+
+- “specified anti-fraud organisation” means any person which is a specified anti-fraud organisation for the purposes of section 68;
+
+- “specified information” means information specified or described in an order made by the Secretary of State; and
+
+- “specified public authority” means a public authority specified or described in an order made by the Secretary of State.
+
+##### 70 Penalty and prosecution for offence under section 69
+
+(1) A person who commits an offence under section 69 is liable—
+
+(a) on summary conviction, to imprisonment for a term not exceeding 12 months or to a fine not exceeding the statutory maximum or to both;
+
+(b) on conviction on indictment, to imprisonment for a term not exceeding two years or to a fine or to both.
+
+(2) A prosecution for an offence under section 69 may be begun in England and Wales [[^F164]only by or with the consent of the Director of Public Prosecutions]
+
+(3) A prosecution for an offence under section 69 may be begun in Northern Ireland only—
+
+(a) in the case of revenue and customs information disclosed by Revenue and Customs—
+
+(i) by the Commissioners of Revenue and Customs; or
+
+(ii) with the consent of the Director of Public Prosecutions for Northern Ireland; and
+
+(b) in any other case, with the consent of the Director of Public Prosecutions for Northern Ireland.
+
+(4) If an offence under section 69 committed by a body corporate or a partnership is proved to have been committed with the consent or connivance of—
+
+(a) an officer of the body corporate or (as the case may be) a partner or a senior officer of the partnership; or
+
+(b) a person who was purporting to act in any such capacity;
+
+he (as well as the body corporate or partnership) is guilty of the offence and liable to be proceeded against and punished accordingly.
+
+(5) In the application of subsection (1)(a) in Northern Ireland, the reference to 12 months is to be read as a reference to 6 months.
+
+[[^F165](5A) In the application of subsection (1)(a) in England and Wales, the reference to 12 months is to be read as a reference to the general limit in a magistrates’ court subject to paragraph 8 of Schedule 13.]
+
+(6) In this section—
+
+- “body corporate” includes a limited liability partnership;
+- “Commissioners of Revenue and Customs”, “Revenue and Customs” and “revenue and customs information” have the same meaning as in section 69;
+- “director”, in relation to a body corporate whose affairs are managed by its members, means a member of the body corporate;
+- “officer of a body corporate” means any director, manager, secretary or other similar officer of the body corporate; and
+- “senior officer of a partnership” means any person who has the control or management of the business carried on by the partnership at the principal place where it is carried on.
+
+##### 71 Code of practice for disclosure of information to prevent fraud
+
+(1) The Secretary of State must prepare, and keep under review, a code of practice with respect to the disclosure, for the purposes of preventing fraud or a particular kind of fraud, of information by public authorities as members of specified anti-fraud organisations or otherwise in accordance with any arrangements made by such organisations.
+
+(2) Before preparing or altering the code, the Secretary of State must consult—
+
+(a) any specified anti-fraud organisation;
+
+(b) the [[^F166]Information Commission]; and
+
+(c) such other persons as the Secretary of State considers appropriate.
+
+(3) A public authority must have regard to the code in (or in connection with) disclosing information, for the purposes of preventing fraud or a particular kind of fraud, as a member of a specified anti-fraud organisation or otherwise in accordance with any arrangements made by such an organisation.
+
+[^F167]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) The Secretary of State must—
+
+(a) lay a copy of the code, and of any alterations to it, before Parliament; and
+
+(b) from time to time publish the code as for the time being in force.
+
+(6) In this section—
+
+- “information” and “public authority” have the same meaning as in section 68;
+- [^F168]“[^F168]relevant public authority[^F168]” has the meaning given by section 68(6); and
+- “specified anti-fraud organisation” means any person which is a specified anti-fraud organisation for the purposes of section 68.
+
+##### 72 Data protection rules
+
+In Schedule 3 to the Data Protection Act 1998 (c. 29) (conditions for processing sensitive personal data), after paragraph 7, insert—
+
+> **7A**
+>
+> (1) The processing—
+>
+> (a) is either—
+>
+> (i) the disclosure of sensitive personal data by a person as a member of an anti-fraud organisation or otherwise in accordance with any arrangements made by such an organisation; or
+>
+> (ii) any other processing by that person or another person of sensitive personal data so disclosed; and
+>
+> (b) is necessary for the purposes of preventing fraud or a particular kind of fraud.
+>
+> (2) In this paragraph “an anti-fraud organisation” means any unincorporated association, body corporate or other person which enables or facilitates any sharing of information to prevent fraud or a particular kind of fraud or which has any of these functions as its purpose or one of its purposes.
+
+#### Data matching
+
+##### 73 Data matching
+
+Schedule 7 (which makes provision about data matching) has effect.
+
+### Chapter 2 — Proceeds of crime
+
+#### Assets Recovery Agency
+
+##### 74 Abolition of Assets Recovery Agency and redistribution of functions etc.
+
+(1) The Assets Recovery Agency and the corporation sole that is its Director shall cease to exist on such day as the Secretary of State may by order appoint.
+
+(2) The following Parts of Schedule 8 (abolition of Assets Recovery Agency and its Director) have effect—
+
+(a) Part 1 (abolition of confiscation functions);
+
+(b) Part 2 (transfer to SOCA and prosecution authorities of civil recovery functions);
+
+(c) Part 3 (transfer to SOCA of Revenue functions and power to abolish those functions);
+
+(d) Part 4 (transfer of investigation functions);
+
+(e) Part 5 (transfer of accreditation and training functions to National Policing Improvement Agency);
+
+(f) Part 6 (other amendments to the Proceeds of Crime Act 2002 (c. 29)); and
+
+(g) Part 7 (amendments to other enactments).
+
+(3) Schedule 9 (which makes provision about the transfer of the Director and staff of the Agency, and property, rights and liabilities of the Director and the Agency, to SOCA and the National Policing Improvement Agency) has effect.
+
+(4) In this section and Schedules 8 and 9 “SOCA” means the Serious Organised Crime Agency.
+
+#### Detained cash investigations: use of production orders and warrants
+
+##### 75 Use of production orders for detained cash investigations
+
+(1) After section 341(3) of the Proceeds of Crime Act 2002 (types of investigation to which Part 8 applies) insert—
+
+> (3A) For the purposes of this Part a detained cash investigation is—
+>
+> (a) an investigation for the purposes of Chapter 3 of Part 5 into the derivation of cash detained under section 295 or a part of such cash, or
+>
+> (b) an investigation for the purposes of Chapter 3 of Part 5 into whether cash detained under section 295, or a part of such cash, is intended by any person to be used in unlawful conduct.
+
+(2) In section 345(2) of that Act (investigations in respect of which production orders may be made), in paragraph (b), after “a civil recovery investigation” insert “ or a detained cash investigation ”.
+
+(3) In section 346(2) of that Act (reasonable suspicion requirement for making a production order), after paragraph (b), insert—
+
+> (ba) in the case of a detained cash investigation into the derivation of cash, the property the application for the order specifies as being subject to the investigation, or a part of it, is recoverable property;
+>
+> (bb) in the case of a detained cash investigation into the intended use of cash, the property the application for the order specifies as being subject to the investigation, or a part of it, is intended by any person to be used in unlawful conduct;
+
+.
+
+(4) In section 380(3) of that Act (investigations in respect of which production orders may be made in Scotland), in paragraph (b), after “a civil recovery investigation” insert “ or a detained cash investigation ”.
+
+(5) In section 381(2) of that Act (reasonable suspicion requirement for making a production order in Scotland), after paragraph (b), insert—
+
+> (ba) in the case of a detained cash investigation into the derivation of cash, the property the application for the order specifies as being subject to the investigation, or a part of it, is recoverable property;
+>
+> (bb) in the case of a detained cash investigation into the intended use of cash, the property the application for the order specifies as being subject to the investigation, or a part of it, is intended by any person to be used in unlawful conduct;
+
+.
+
+##### 76 Use of search warrants etc. for detained cash investigations
+
+(1) In section 352(2) of the Proceeds of Crime Act 2002 (c. 29) (investigations in respect of which a search and seizure warrant may be issued), in paragraph (b), after “a civil recovery investigation” insert “ or a detained cash investigation ”.
+
+(2) In section 353(2) of that Act (reasonable suspicion grounds for warrant where no production order), after paragraph (b), insert—
+
+> (ba) in the case of a detained cash investigation into the derivation of cash, the property specified in the application for the warrant, or a part of it, is recoverable property;
+>
+> (bb) in the case of a detained cash investigation into the intended use of cash, the property specified in the application for the warrant, or a part of it, is intended by any person to be used in unlawful conduct;
+
+.
+
+(3) After section 353(7) of that Act (types of material in respect of which warrant may be issued where no production order) insert—
+
+> (7A) In the case of a detained cash investigation into the derivation of cash, material falls within this subsection if it cannot be identified at the time of the application but it—
+>
+> (a) relates to the property specified in the application, the question whether the property, or a part of it, is recoverable property or any other question as to its derivation, and
+>
+> (b) is likely to be of substantial value (whether or not by itself) to the investigation for the purposes of which the warrant is sought.
+>
+> (7B) In the case of a detained cash investigation into the intended use of cash, material falls within this subsection if it cannot be identified at the time of the application but it—
+>
+> (a) relates to the property specified in the application or the question whether the property, or a part of it, is intended by any person to be used in unlawful conduct, and
+>
+> (b) is likely to be of substantial value (whether or not by itself) to the investigation for the purposes of which the warrant is sought.
+
+(4) In section 387(3) of that Act (investigations in respect of which a search warrant may be issued in Scotland), in paragraph (b), after “a civil recovery investigation” insert “ or a detained cash investigation ”.
+
+(5) In section 388(2) of that Act (reasonable suspicion grounds for issue of warrant in Scotland where no production order), after paragraph (b), insert—
+
+> (ba) in the case of a detained cash investigation into the derivation of cash, the property specified in the application for the warrant, or a part of it, is recoverable property;
+>
+> (bb) in the case of a detained cash investigation into the intended use of cash, the property specified in the application for the warrant, or a part of it, is intended by any person to be used in unlawful conduct;
+
+.
+
+(6) After section 388(7) of that Act (types of material in respect of which warrant may be issued in Scotland where no production order) insert—
+
+> (7A) In the case of a detained cash investigation into the derivation of cash, material falls within this subsection if it cannot be identified at the time of the application but it—
+>
+> (a) relates to the property specified in the application, the question whether the property, or a part of it, is recoverable property or any other question as to its derivation, and
+>
+> (b) is likely to be of substantial value (whether or not by itself) to the investigation for the purposes of which the warrant is sought.
+>
+> (7B) In the case of a detained cash investigation into the intended use of cash, material falls within this subsection if it cannot be identified at the time of the application but it—
+>
+> (a) relates to the property specified in the application or the question whether the property, or a part of it, is intended by any person to be used in unlawful conduct, and
+>
+> (b) is likely to be of substantial value (whether or not by itself) to the investigation for the purposes of which the warrant is sought.
+
+##### 77 Further provision about detained cash investigations
+
+Schedule 10 (which makes further provision about detained cash investigations) has effect.
+
+#### Extension of powers of accredited financial investigators
+
+##### [^F169]78 Powers to seize property to which restraint orders apply
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### 79 Powers to recover cash
+
+Schedule 11 (which gives accredited financial investigators powers to recover cash under Chapter 3 of Part 5 of the Proceeds of Crime Act 2002 (c. 29) and makes related amendments) has effect.
+
+##### 80 Powers in relation to certain investigations
+
+(1) In section 352(5) of the Proceeds of Crime Act 2002 (search and seizure warrants in connection with confiscation, money laundering and detained cash investigations etc.)—
+
+[^F170]a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) in paragraph (c) (as inserted by Schedule 10 to this Act), after “constable” insert “ , an accredited financial investigator ”.
+
+(2) After section 352(6) of that Act insert—
+
+> (7) The reference in paragraph (a) or (c) of subsection (5) to an accredited financial investigator is a reference to an accredited financial investigator who falls within a description specified in an order made for the purposes of that paragraph by the Secretary of State under section 453.
+
+(3) In section 353(10) of that Act (requirements in relation to search and seizure warrants)—
+
+[^F171]a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) in paragraph (c) (as inserted by Schedule 10 to this Act), after “constable” insert “ , an accredited financial investigator ”.
+
+(4) After section 353(10) of that Act insert—
+
+> (11) The reference in paragraph (a) or (c) of subsection (10) to an accredited financial investigator is a reference to an accredited financial investigator who falls within a description specified in an order made for the purposes of that paragraph by the Secretary of State under section 453.
+
+[^F172]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F172]6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7) In section 378(3A) of that Act (as inserted by Schedule 10 to this Act) (meaning of “officers” for purposes of Part 8 in relation to detained cash investigations) after paragraph (a) insert—
+
+> (ab) an accredited financial investigator;
+
+.
+
+(8) After section 378(3A) of that Act (as inserted by Schedule 10 to this Act) insert—
+
+> (3B) The reference in paragraph (ab) of subsection (3A) to an accredited financial investigator is a reference to an accredited financial investigator who falls within a description specified in an order made for the purposes of that paragraph by the Secretary of State under section 453.
+
+##### 81 Supplementary provision in relation to new powers
+
+(1) In section 453(2) of the Proceeds of Crime Act 2002 (c. 29) (power to modify references to accredited financial investigators)—
+
+(a) after “may” insert “ , in particular, ”; and
+
+(b) after “person” insert “ or by reference to particular types of training undertaken ”.
+
+(2) After section 453 of that Act insert—
+
+> **453A Certain offences in relation to financial investigators**
+>
+> (1) A person commits an offence if he assaults an accredited financial investigator who is acting in the exercise of a relevant power.
+>
+> (2) A person commits an offence if he resists or wilfully obstructs an accredited financial investigator who is acting in the exercise of a relevant power.
+>
+> (3) A person guilty of an offence under subsection (1) is liable on summary conviction—
+>
+> (a) to imprisonment for a term not exceeding 51 weeks; or
+>
+> (b) to a fine not exceeding level 5 on the standard scale;
+>
+> or to both.
+>
+> (4) A person guilty of an offence under subsection (2) is liable on summary conviction—
+>
+> (a) to imprisonment for a term not exceeding 51 weeks; or
+>
+> (b) to a fine not exceeding level 3 on the standard scale;
+>
+> or to both.
+>
+> (5) In this section “relevant power” means a power exercisable under—
+>
+> (a) section 45 or 194 (powers to seize property to which restraint orders apply);
+>
+> (b) section 289 (powers to search for cash);
+>
+> (c) section 294 (powers to seize cash);
+>
+> (d) section 295(1) (power to detain seized cash); or
+>
+> (e) a search and seizure warrant issued under section 352.
+>
+> (6) In the application of this section to England and Wales in relation to an offence committed before the commencement of section 281(5) of the Criminal Justice Act 2003 (c. 44) (alteration of penalties for summary offences), and in the application of this section to Northern Ireland—
+>
+> (a) the reference to 51 weeks in subsection (3)(a) is to be read as a reference to 6 months; and
+>
+> (b) the reference to 51 weeks in subsection (4)(a) is to be read as a reference to 1 month.
+
+#### Miscellaneous
+
+##### 82 Powers of management receivers and enforcement receivers
+
+(1) After section 49(8) of the Proceeds of Crime Act 2002 (c. 29) (opportunity for persons to make representations before powers conferred on management receivers to manage or otherwise deal with property: England and Wales) insert—
+
+> (8A) Subsection (8), so far as relating to the power mentioned in subsection (2)(b), does not apply to property which—
+>
+> (a) is perishable; or
+>
+> (b) ought to be disposed of before its value diminishes.
+
+(2) After section 51(8) of that Act (opportunity for persons to make representations before powers conferred on enforcement receivers to manage or otherwise deal with property: England and Wales) insert—
+
+> (8A) Subsection (8), so far as relating to the power mentioned in subsection (2)(b), does not apply to property which—
+>
+> (a) is perishable; or
+>
+> (b) ought to be disposed of before its value diminishes.
+
+(3) After section 197(8) of that Act (opportunity for persons to make representations before powers conferred on management receivers to manage or otherwise deal with property: Northern Ireland) insert—
+
+> (8A) Subsection (8), so far as relating to the power mentioned in subsection (2)(b), does not apply to property which—
+>
+> (a) is perishable; or
+>
+> (b) ought to be disposed of before its value diminishes.
+
+(4) After section 199(8) of that Act (opportunity for persons to make representations before powers conferred on enforcement receivers to manage or otherwise deal with property: Northern Ireland) insert—
+
+> (8A) Subsection (8), so far as relating to the power mentioned in subsection (2)(b), does not apply to property which—
+>
+> (a) is perishable; or
+>
+> (b) ought to be disposed of before its value diminishes.
+
+##### 83 Civil recovery management receivers
+
+(1) After section 245D of the Proceeds of Crime Act 2002 (property freezing orders) insert—
+
+> **245E Receivers in connection with property freezing orders**
+>
+> (1) Subsection (2) applies if—
+>
+> (a) the High Court makes a property freezing order on an application by an enforcement authority, and
+>
+> (b) the authority applies to the court to proceed under subsection (2) (whether as part of the application for the property freezing order or at any time afterwards).
+>
+> (2) The High Court may by order appoint a receiver in respect of any property to which the property freezing order applies.
+>
+> (3) An application for an order under this section may be made without notice if the circumstances are such that notice of the application would prejudice any right of the enforcement authority to obtain a recovery order in respect of any property.
+>
+> (4) In its application for an order under this section, the enforcement authority must nominate a suitably qualified person for appointment as a receiver.
+>
+> (5) Such a person may be a member of staff of the enforcement authority.
+>
+> (6) The enforcement authority may apply a sum received by it under section 280(2) in making payment of the remuneration and expenses of a receiver appointed under this section.
+>
+> (7) Subsection (6) does not apply in relation to the remuneration of the receiver if he is a member of the staff of the enforcement authority (but it does apply in relation to such remuneration if the receiver is a person providing services under arrangements made by the enforcement authority).
+>
+> **245F Powers of receivers appointed under section 245E**
+>
+> (1) If the High Court appoints a receiver under section 245E on an application by an enforcement authority, the court may act under this section on the application of the authority.
+>
+> (2) The court may by order authorise or require the receiver—
+>
+> (a) to exercise any of the powers mentioned in paragraph 5 of Schedule 6 (management powers) in relation to any property in respect of which the receiver is appointed,
+>
+> (b) to take any other steps the court thinks appropriate in connection with the management of any such property (including securing the detention, custody or preservation of the property in order to manage it).
+>
+> (3) The court may by order require any person in respect of whose property the receiver is appointed—
+>
+> (a) to bring the property to a place (in England and Wales or, as the case may be, Northern Ireland) specified by the receiver or to place it in the custody of the receiver (if, in either case, he is able to do so),
+>
+> (b) to do anything he is reasonably required to do by the receiver for the preservation of the property.
+>
+> (4) The court may by order require any person in respect of whose property the receiver is appointed to bring any documents relating to the property which are in his possession or control to a place (in England and Wales or, as the case may be, Northern Ireland) specified by the receiver or to place them in the custody of the receiver.
+>
+> (5) In subsection (4) “document” means anything in which information of any description is recorded.
+>
+> (6) Any prohibition on dealing with property imposed by a property freezing order does not prevent a person from complying with any requirements imposed by virtue of this section.
+>
+> (7) If—
+>
+> (a) the receiver deals with any property which is not property in respect of which he is appointed under section 245E, and
+>
+> (b) at the time he deals with the property he believes on reasonable grounds that he is entitled to do so by virtue of his appointment,
+>
+> the receiver is not liable to any person in respect of any loss or damage resulting from his dealing with the property except so far as the loss or damage is caused by his negligence.
+>
+> **245G Supervision of section 245E receiver and variations**
+>
+> (1) Any of the following persons may at any time apply to the High Court for directions as to the exercise of the functions of a receiver appointed under section 245E—
+>
+> (a) the receiver,
+>
+> (b) any party to the proceedings for the appointment of the receiver or the property freezing order concerned,
+>
+> (c) any person affected by any action taken by the receiver,
+>
+> (d) any person who may be affected by any action proposed to be taken by the receiver.
+>
+> (2) Before giving any directions under subsection (1), the court must give an opportunity to be heard to—
+>
+> (a) the receiver,
+>
+> (b) the parties to the proceedings for the appointment of the receiver and for the property freezing order concerned,
+>
+> (c) any person who may be interested in the application under subsection (1).
+>
+> (3) The court may at any time vary or set aside the appointment of a receiver under section 245E, any order under section 245F or any directions under this section.
+>
+> (4) Before exercising any power under subsection (3), the court must give an opportunity to be heard to—
+>
+> (a) the receiver,
+>
+> (b) the parties to the proceedings for the appointment of the receiver, for the order under section 245F or, as the case may be, for the directions under this section;
+>
+> (c) the parties to the proceedings for the property freezing order concerned,
+>
+> (d) any person who may be affected by the court's decision.
+
+(2) In sections 273(4)(b) and 277(7)(b) of that Act (recovery orders and consent orders: recovery of costs of pension scheme trustees or managers) after “enforcement authority,” insert “ receiver appointed under section 245E, ”.
+
+(3) In paragraph 1 of Schedule 10 to that Act (disapplication of special income tax and capital gains tax rules for receivers), after paragraph (c), insert—
+
+> (ca) a receiver appointed under section 245E;
+
+.
+
+##### 84 Powers for prosecutors to appear in cash recovery proceedings
+
+(1) After section 302 of the Proceeds of Crime Act 2002 (c. 29) (recovery of cash in summary proceedings: compensation) insert—
+
+> **302A Powers for prosecutors to appear in proceedings**
+>
+> (1) The Director of Public Prosecutions or the Director of Public Prosecutions for Northern Ireland may appear for a constable in proceedings under this Chapter if the Director—
+>
+> (a) is asked by, or on behalf of, a constable to do so, and
+>
+> (b) considers it appropriate to do so.
+>
+> (2) The Director of Revenue and Customs Prosecutions may appear for the Commissioners for Her Majesty's Revenue and Customs or an officer of Revenue and Customs in proceedings under this Chapter if the Director—
+>
+> (a) is asked by, or on behalf of, the Commissioners for Her Majesty's Revenue and Customs or (as the case may be) an officer of Revenue and Customs to do so, and
+>
+> (b) considers it appropriate to do so.
+>
+> (3) The Directors may charge fees for the provision of services under this section.
+
+(2) After section 2C(3) of that Act (prosecuting authorities) (as inserted by Schedule 8 to this Act) insert—
+
+> (3A) Subsection (3) does not apply to the functions of the Director of Public Prosecutions for Northern Ireland and the Director of Revenue and Customs Prosecutions under section 302A.
+
+[^F173]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F173]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### 85 Disclosure of information by Revenue and Customs
+
+(1) This section applies to information held as mentioned in section 18(1) of the Commissioners for Revenue and Customs Act 2005 (c. 11) (confidentiality).
+
+(2) Information to which this section applies may be disclosed by or with the authority of the Commissioners of Revenue and Customs—
+
+(a) to the Criminal Assets Bureau in Ireland (“the CAB”) for the purpose of enabling or assisting the CAB to exercise any of its functions in connection with any matter within subsection (3); or
+
+(b) to any specified public authority (in the United Kingdom or elsewhere)—
+
+(i) for the purpose of enabling or assisting the public authority to exercise any of its functions in connection with any matter within subsection (3); or
+
+(ii) (if the specifying order so provides) for the purpose of enabling or assisting the public authority to exercise any of its functions in connection with any matter within that subsection that is specified, or of a description specified, in the order.
+
+(3) The matters within this subsection are—
+
+(a) the identification of proceeds of crime;
+
+(b) the bringing of civil proceedings for enforcement purposes in relation to proceeds of crime; and
+
+(c) the taking of other action in relation to proceeds of crime.
+
+(4) Information disclosed in accordance with subsection (2) must not be further disclosed except—
+
+(a) in connection with the exercise of any of the functions of the CAB or a specified public authority in connection with any matter within subsection (3) (or, in a subsection (2)(b)(ii) case, any such matter as is mentioned there); and
+
+(b) with the consent of the Commissioners of Revenue and Customs or an authorised officer of the Commissioners of Revenue and Customs.
+
+(5) For the purposes of this section any consent or authorisation may be general or specific.
+
+(6) If a person in the United Kingdom discloses, in contravention of subsection (4), any revenue and customs information relating to a person whose identity—
+
+(a) is specified in the disclosure; or
+
+(b) can be deduced from it;
+
+section 19 of the 2005 Act (wrongful disclosure) applies in relation to that disclosure as it applies in relation to a disclosure of such information in contravention of section 20(9) of that Act.
+
+(7) Any reference in this section to a disclosure to the CAB or a specified public authority is a reference to a disclosure to such person, or to persons of such description, as may be specified in relation to the CAB or the public authority (as the case may be).
+
+(8) Nothing in this section authorises any disclosure of information which—
+
+(a) contravenes [[^F174]the data protection legislation]; or
+
+(b) is prohibited by [[^F175]any of Parts 1 to 7 or Chapter 1 of Part 9 of the Investigatory Powers Act 2016].
+
+(9) In this section—
+
+- “the 2005 Act” means the Commissioners for Revenue and Customs Act 2005 (c. 11);
+
+- “assets” means property of any description, wherever situated;
+
+- “civil proceedings” means civil proceedings of whatever nature and whether brought in the United Kingdom or elsewhere;
+
+- “Commissioners of Revenue and Customs” means the Commissioners for Her Majesty's Revenue and Customs;
+
+- [[^F176]“the data protection legislation” has the same meaning as in the Data Protection Act 2018 (see section 3 of that Act).]
+
+- “enforcement purposes”, in relation to the proceeds of crime, means with a view to—
+
+  - (a) recovering, forfeiting or freezing assets constituting proceeds of crime; or
+  - (b) otherwise depriving persons (to any extent) of, or of access to, such assets or the benefit of such assets;
+
+- “functions” includes powers, duties and objectives, and references to the exercise of functions include the pursuit of objectives;
+
+- “proceeds of crime” means assets derived, or suspected to be derived, directly or indirectly from criminal conduct (wherever occurring);
+
+- “public authority” means any body or person discharging functions of a public nature;
+
+- “revenue and customs information relating to a person” has the meaning given by section 19(2) of the 2005 Act;
+
+- “specified” means specified in an order made by the Treasury; and
+
+- “the specifying order”, in relation to a specified public authority, means the order specifying the authority for the purposes of this section.
+
+##### 86 Use of force in executing search warrants: Scotland
+
+In section 387 of the Proceeds of Crime Act 2002 (c. 29) (issue of search warrants in Scotland in connection with certain investigations), after subsection (4), insert—
+
+> (4A) A proper person may, if necessary, use reasonable force in executing a search warrant.
+
+### Chapter 3 — Other measures
+
+#### 87 Incidents involving serious violence: powers to stop and search
+
+(1) In section 60(1) of the Criminal Justice and Public Order Act 1994 (c. 33) (powers to authorise stop and search if reasonable belief that there may be incidents involving serious violence etc.), before the word “or” at the end of paragraph (a), insert—
+
+> (aa) that—
+>
+> (i) an incident involving serious violence has taken place in England and Wales in his police area;
+>
+> (ii) a dangerous instrument or offensive weapon used in the incident is being carried in any locality in his police area by a person; and
+>
+> (iii) it is expedient to give an authorisation under this section to find the instrument or weapon;
+
+.
+
+(2) In section 60(9) of that Act (authorisation must be in writing), at the beginning, insert “ Subject to subsection (9ZA), ”.
+
+(3) After section 60(9) of that Act insert—
+
+> (9ZA) An authorisation under subsection (1)(aa) need not be given in writing where it is not practicable to do so but any oral authorisation must state the matters which would otherwise have to be specified under subsection (9) and must be recorded in writing as soon as it is practicable to do so.
+
+(4) In section 60(9A) of that Act (application to British Transport Police)—
+
+(a) after “place” insert “ in England and Wales ”; and
+
+(b) after “2003” insert “ and as if the reference in subsection (1)(aa)(i) above to his police area were a reference to any place falling within section 31(1)(a) to (f) of the Act of 2003 ”.
+
+(5) In section 60(11) of that Act (definitions), in the definition of “offensive weapon”, after “1995” insert “ ; but in subsections (1)(aa), (4), (5) and (6) above and subsection (11A) below includes, in the case of an incident of the kind mentioned in subsection (1)(aa)(i) above, any article used in the incident to cause or threaten injury to any person or otherwise to intimidate ”.
+
+(6) In the heading to section 60 of that Act after “of” insert “ , or after, ”.
+
+#### 88 Extension of investigatory powers of Revenue and Customs
+
+Schedule 12 (which makes provision about the regulation of investigatory powers of Her Majesty's Revenue and Customs) has effect.
+
+## Part 4 — General and final provisions
+
+### General
+
+#### 89 Orders [[^F177]and regulations]
+
+(1) Any power of the Secretary of State[[^F178]or the Treasury] to make an order [[^F179]or regulations] under this Act is exercisable by statutory instrument.
+
+(2) Any power of the Secretary of State [[^F180], the Treasury or the Scottish Ministers] to make an order [[^F179]or regulations] under this Act—
+
+(a) may be exercised so as to make different provision for different cases or descriptions of case or different purposes;
+
+(b) includes power to make such supplementary, incidental, consequential, transitional, transitory or saving provision as the Secretary of State or (as the case may be) the Treasury considers appropriate[[^F181]or the Scottish Ministers consider appropriate].
+
+(3) [^F182]No order is to be made [^F182][[^F183] by statutory instrument][^F182] under section 4(4), 49(6), 63(3), 69 or 90, or paragraph 102 of Schedule 8, unless a draft of the order has been laid before, and approved by a resolution of, each House of Parliament.
+
+[[^F182]A statutory instrument containing an order or regulations under any of the following provisions may not be made unless a draft of the instrument has been laid before and approved by a resolution of each House of Parliament—
+
+- section 4(4);
+- section 49(6);
+- section 63(3);
+- section 69;
+- section 90;
+- paragraph 2(5)(j) of Schedule 1A;
+- paragraph 102 of Schedule 8.]
+
+(4) Subsection (3) does not apply to an order under section 90 which does not amend or repeal any provision of an Act.
+
+(5) An order under section 90 which does not amend or repeal any provision of an Act is subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(6) An order [[^F184] made by [[^F185]the Secretary of State or the Treasury]] under [[^F186]section 7(1)], 24(9), 27(6) or (12),[[^F187], 27A(7)] 28(6) [^F188]..., 29, 33, 40, 68 or 85 is subject to annulment in pursuance of a resolution of either House of Parliament.
+
+[[^F189](6A) An order under section 4(4A) is subject to the affirmative procedure.
+
+(6B) An order made by the Scottish Ministers under section 7(1A), 27A(7) or (12), 29(1ZA) or (3ZA) or 40 is subject to the negative procedure.]
+
+[[^F190](7) Any power of the Department of Justice in Northern Ireland to make an order under this Act is exercisable by statutory rule for the purposes of the Statutory Rules (Northern Ireland) Order 1979.
+
+(8) Any power of the Department of Justice to make an order under this Act—
+
+(a) may be exercised so as to make different provision for different cases or descriptions of case or different purposes;
+
+(b) includes power to make such supplementary, incidental, consequential, transitional, transitory or saving provision as the Department considers appropriate.
+
+(9) No order is to be made by the Department of Justice under section 4(5), 49(6) or 63(4) unless a draft of it has been laid before, and approved by a resolution of, the Northern Ireland Assembly.
+
+(10) Section 41(3) of the Interpretation Act (Northern Ireland) 1954 applies for the purposes of subsection (9) in relation to the laying of a draft as it applies in relation to the laying of a statutory document under an enactment.
+
+(11) An order made by the Department of Justice under section 7(2), 24(9), 28(6) or (11), 29 or 40 is subject to negative resolution (within the meaning of section 41(6) of the Interpretation Act (Northern Ireland) 1954).]
+
+#### 90 Supplementary, incidental and consequential provision
+
+(1) The Secretary of State may by order make such supplementary, incidental or consequential provision as he considers appropriate for the general purposes, or any particular purpose, of this Act or in consequence of any provision made by or under this Act or for giving full effect to this Act or any such provision.
+
+(2) The power conferred by this section may, in particular, be exercised by amending, repealing, revoking or otherwise modifying any provision made by or under an enactment (including this Act and any Act passed in the same Session as this Act).
+
+(3) The power conferred by this section does not include the power to make provision which would be within the legislative competence of the Scottish Parliament if it were included in an Act of that Parliament.
+
+#### 91 Transitional and transitory provisions and savings
+
+(1) Schedule 13 (transitional and transitory provisions and savings) has effect.
+
+(2) The Secretary of State may by order make such transitional, transitory or saving provision as he considers appropriate in connection with the coming into force of any provision of this Act (other than the provisions specified in section 94(4)).
+
+(3) The Scottish Ministers may by order make such transitional, transitory or saving provision as they consider appropriate in connection with the coming into force of the provisions of this Act specified in section 94(4).
+
+#### 92 Repeals and revocations
+
+Schedule 14 (which contains repeals and revocations) has effect.
+
+### Final
+
+#### 93 Extent
+
+(1) The following provisions extend to England and Wales only—
+
+(a) section 78(1) and (2);
+
+(b) section 82(1) and (2);
+
+(c) section 87; and
+
+(d) Parts 1 and 2 of Schedule 7 and section 73 so far as relating to those Parts.
+
+(2) The following provisions extend to England and Wales and Northern Ireland only—
+
+[^F191]a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) Part 2 (including Schedules 3 and 4 and Part 1 of Schedule 6) but excluding sections 60 and 61, Schedule 5 and Part 2 of Schedule 6;
+
+(c) section 75(2) and (3);
+
+(d) section 76(1) to (3);
+
+(e) section 80;
+
+(f) section 81(2); and
+
+(g) section 83(1) and (2).
+
+(3) The following provisions extend to Scotland only—
+
+(a) section 68(5) and (6);
+
+(b) section 69(3);
+
+(c) section 71(4);
+
+(d) section 75(4) and (5);
+
+(e) section 76(4) to (6); and
+
+(f) section 86.
+
+(4) The following provisions extend to Northern Ireland only—
+
+(a) section 78(3) and (4);
+
+(b) section 82(3) and (4); and
+
+(c) Part 3 of Schedule 7 and section 73 so far as relating to that Part.
+
+(5) Any provision of section 61 or Part 2 of Schedule 6 (and any corresponding entry in Schedule 14) has the same extent as the enactment amended, repealed or revoked by it except that—
+
+(a) it does not extend to Scotland; and
+
+(b) paragraph 53 of Schedule 6 does not extend to Northern Ireland.
+
+(6) Any amendment, repeal or revocation by Schedule 5, 8, 10 or 14 of an enactment has (subject to subsection (5)) the same extent as the enactment amended, repealed or revoked.
+
+(7) Subject as above, this Act extends to England and Wales, Scotland and Northern Ireland.
+
+#### 94 Commencement
+
+(1) The preceding provisions of this Act (other than sections 89, 90, 91(2) and (3) and 93 and the provisions specified in subsection (4) but, subject to this, including the Schedules) come into force on such day as the Secretary of State may by order appoint; and different days may be appointed for different purposes.
+
+(2) The Secretary of State must consult the Scottish Ministers before making an order under subsection (1) in relation to—
+
+(a) section 75(1);
+
+(b) paragraph 2 of Schedule 10; or
+
+(c) paragraph 24 of that Schedule.
+
+(3) The provisions of this Act specified in subsection (4) come into force on such day as the Scottish Ministers may by order appoint; and different days may be appointed for different purposes.
+
+(4) Those provisions are—
+
+(a) section 75(4) and (5);
+
+(b) section 76(4) to (6);
+
+(c) section 86;
+
+(d) paragraphs 14 to 23 and, so far as extending to Scotland, paragraph 25 of Schedule 10; and
+
+(e) so far as relating to the provisions falling within paragraph (d) above, paragraph 1 of that Schedule and section 77.
+
+#### 95 Short title
+
+This Act may be cited as the Serious Crime Act 2007.
+
+## SCHEDULE 1 — Serious offences
+
+*Sections 2 and 3*
+
+### Part 1 — Serious offences in England and Wales
+
+#### Drug trafficking
+
+**1** (1) An offence under any of the following provisions of the Misuse of Drugs Act 1971 (c. 38)—
+
+(a) section 4(2) or (3) (unlawful production or supply of controlled drugs);
+
+(b) section 5(3) (possession of controlled drug with intent to supply);
+
+[[^F192](ba) section 6 (restriction of cultivation of cannabis plant);]
+
+(c) section 8 (permitting etc. certain activities relating to controlled drugs);
+
+(d) section 20 (assisting in or inducing the commission outside the United Kingdom of an offence punishable under a corresponding law).
+
+(2) An offence under any of the following provisions of the Customs and Excise Management Act 1979 (c. 2) if it is committed in connection with a prohibition or restriction on importation or exportation which has effect by virtue of section 3 of the Misuse of Drugs Act 1971—
+
+(a) section 50(2) or (3) (improper importation of goods);
+
+(b) section 68(2) (exportation of prohibited or restricted goods);
+
+(c) section 170 (fraudulent evasion of duty etc.).
+
+(3) An offence under either of the following provisions of the Criminal Justice (International Co-operation) Act 1990 (c. 5)—
+
+(a) section 12 (manufacture or supply of a substance for the time being specified in Schedule 2 to that Act);
+
+(b) section 19 (using a ship for illicit traffic in controlled drugs).
+
+**[[^F193]1ZA** An offence under any of the following provisions of the Psychoactive Substances Act 2016—
+
+(a) section 4 (producing a psychoactive substance);
+
+(b) section 5 (supplying, or offering to supply, a psychoactive substance);
+
+(c) section 7 (possession of psychoactive substance with intent to supply);
+
+(d) section 8 (importing or exporting a psychoactive substance).]
+
+#### [[^F194]Slavery etc
+
+**1A** An offence under section 1 of the Modern Slavery Act 2015 (slavery, servitude and forced or compulsory labour).]
+
+#### People trafficking
+
+**2** (1) An offence under section 25 [[^F195]or 25A] of the Immigration Act 1971 (c. 77) (assisting unlawful immigration etc.).
+
+(2) An offence under any of sections 57 to [[^F196]59A] of the Sexual Offences Act 2003 (c. 42) (trafficking for sexual exploitation).
+
+(3) An offence under section 4 of the Asylum and Immigration (Treatment of Claimants, etc.) Act 2004 (c. 19) (trafficking people for exploitation).
+
+[[^F197](4) An offence under section 2 of the Modern Slavery Act 2015.]
+
+#### [[^F198]Terrorism
+
+**2A** An offence for the time being listed in section 41(1) of the Counter-Terrorism Act 2008 (offences to which Part 4 of that Act applies: terrorism offences).]
+
+#### [[^F199]Firearms offences
+
+**3** (1) An offence under any of the following provisions of the Firearms Act 1968—
+
+(a) section 1(1) (possession etc of firearms or ammunition without certificate);
+
+(b) section 2(1) (possession etc of shot gun without certificate);
+
+(c) section 3(1) (dealing etc in firearms or ammunition by way of trade or business without being registered);
+
+(d) section 5(1), (1A) or (2A) (possession, manufacture etc of prohibited weapons).
+
+(2) An offence under either of the following provisions of the Customs and Excise Management Act 1979 if it is committed in connection with a firearm or ammunition—
+
+(a) section 68(2) (exportation of prohibited or restricted goods);
+
+(b) section 170 (fraudulent evasion of duty etc ).
+
+(3) In sub-paragraph (2) “ firearm ” and “ ammunition ” have the same meanings as in section 57 of the Firearms Act 1968. ]
+
+#### Prostitution and child sex
+
+**4** (1) An offence under section 33A of the Sexual Offences Act 1956 (c. 69) (keeping a brothel used for prostitution).
+
+(2) An offence under any of the following provisions of the Sexual Offences Act 2003 (c. 42)—
+
+(a) section 14 (arranging or facilitating commission of a child sex offence);
+
+(b) section 48 (causing or inciting [[^F200]sexual exploitation of a child]);
+
+(c) section 49 (controlling a child [[^F201]in relation to sexual exploitation]);
+
+(d) section 50 (arranging or facilitating [[^F202]sexual exploitation of a child]);
+
+(e) section 52 (causing or inciting prostitution for gain);
+
+(f) section 53 (controlling prostitution for gain).
+
+#### Armed robbery etc.
+
+**5** (1) An offence under section 8(1) of the Theft Act 1968 (c. 60) (robbery) where the use or threat of force involves a firearm, an imitation firearm or an offensive weapon.
+
+(2) An offence at common law of an assault with intent to rob where the assault involves a firearm, imitation firearm or an offensive weapon.
+
+(3) In this paragraph—
+
+- “firearm” has the meaning given by section 57(1) of the Firearms Act 1968;
+- “imitation firearm” has the meaning given by section 57(4) of that Act;
+- “offensive weapon” means any weapon to which section 141 of the Criminal Justice Act 1988 (c. 33) (offensive weapons) applies.
+
+#### Money laundering
+
+**6** An offence under any of the following provisions of the Proceeds of Crime Act 2002 (c. 29)—
+
+(a) section 327 (concealing etc. criminal property);
+
+(b) section 328 (facilitating the acquisition etc. of criminal property by or on behalf of another);
+
+(c) section 329 (acquisition, use and possession of criminal property).
+
+#### Fraud
+
+**7** (1) An offence under section 17 of the Theft Act 1968 (c. 60) (false accounting).
+
+(2) An offence under any of the following provisions of the Fraud Act 2006 (c. 35)—
+
+(a) section 1 (fraud by false representation, failing to disclose information or abuse of position);
+
+(b) section 6 (possession etc. of articles for use in frauds);
+
+(c) section 7 (making or supplying articles for use in frauds);
+
+(d) section 9 (participating in fraudulent business carried on by sole trader etc.);
+
+(e) section 11 (obtaining services dishonestly).
+
+[[^F203](2A) An offence under section 199 of the Economic Crime and Corporate Transparency Act 2023 (failure to prevent fraud offences).]
+
+(3) An offence at common law of conspiracy to defraud.
+
+#### Offences in relation to public revenue [[^F204]etc]
+
+**8** (1) An offence under section 170 of the Customs and Excise Management Act 1979 (c. 2) (fraudulent evasion of duty etc.) so far as not falling within paragraph 1(2)(c) or 3(1)(b) above.
+
+(2) An offence under section 72 of the Value Added Tax Act 1994 (c. 23) (fraudulent evasion of VAT etc.).
+
+(3) An offence under [[^F205]section 106A of the Taxes Management Act 1970] (fraudulent evasion of income tax).
+
+(4) An offence under section 35 of the Tax Credits Act 2002 (c. 21) (tax credit fraud).
+
+(5) An offence at common law of cheating in relation to the public revenue.
+
+[[^F206](6) An offence under section 45 or 46 of the Criminal Finances Act 2017 (failure to prevent the facilitation of UK tax evasion offences or foreign tax evasion offences).]
+
+#### [[^F207]Bribery
+
+**9** An offence under any of the following provisions of the Bribery Act 2010—
+
+(a) section 1 (offences of bribing another person);
+
+(b) section 2 (offences relating to being bribed);
+
+(c) section 6 (bribery of foreign public officials).]
+
+#### Counterfeiting
+
+**10** An offence under any of the following provisions of the Forgery and Counterfeiting Act 1981 (c. 45)—
+
+(a) section 14 (making counterfeit notes or coins);
+
+(b) section 15 (passing etc. counterfeit notes or coins);
+
+(c) section 16 (having custody or control of counterfeit notes or coins);
+
+(d) section 17 (making or having custody or control of counterfeiting materials or implements).
+
+#### [[^F208]Computer misuse
+
+**11A** An offence under any of the following provisions of the Computer Misuse Act 1990—
+
+(a) section 1 (unauthorised access to computer material);
+
+(b) section 2 (unauthorised access with intent to commit or facilitate commission of further offences);
+
+(c) section 3 (unauthorised acts with intent to impair, or with recklessness as to impairing, operation of computer etc );
+
+(d) section 3ZA (unauthorised acts causing, or creating risk of, serious damage to human welfare etc );
+
+(e) section 3A (making, supplying or obtaining articles for use in offence under section 1, 3 or 3ZA).]
+
+#### Intellectual property
+
+**12** (1) An offence under any of the following provisions of the Copyright, Designs and Patents Act 1988 (c. 48)—
+
+(a) section 107(1)(a), (b), (d)(iv) or (e) (making, importing or distributing an article which infringes copyright);
+
+(b) section 198(1)(a), (b) or (d)(iii) (making, importing or distributing an illicit recording);
+
+(c) section 297A (making or dealing etc. in unauthorised decoders).
+
+(2) An offence under section 92(1), (2) or (3) of the Trade Marks Act 1994 (c. 26) (unauthorised use of trade mark etc.).
+
+#### Environment
+
+**13** (1) An offence under section 1 of the Salmon and Freshwater Fisheries Act 1975 (c. 51) (fishing [^F209]...with prohibited implements etc.).
+
+(2) An offence under section 14 of the Wildlife and Countryside Act 1981 (c. 69) (introduction of new species etc.).
+
+(3) An offence under section 33 of the Environmental Protection Act 1990 (c. 43) (prohibition on unauthorised or harmful deposit, treatment or disposal etc. of waste).
+
+[[^F210](4) An offence under paragraph 1(2) of Schedule 1 to the Control of Trade in Endangered Species Regulations 2018 (S.I. 2018/703).
+
+(5) An offence under paragraph 2 of that Schedule which consists of the conduct specified in the table in that paragraph as the subject matter of Article 16(1)(c) or (d) of Council Regulation (EC) No 338/97 on the protection of species of wild fauna and flora by regulating trade therein.]
+
+#### [[^F211]Organised crime
+
+**13A** An offence under section 45 of the Serious Crime Act 2015 (participating in activities of organised crime group).]
+
+#### [^F212]... Sanctions legislation
+
+**13B** (1) An offence under an instrument made under section 2(2) of the European Communities Act 1972 for the purpose of implementing, or otherwise in relation to, EU obligations created or arising by or under an EU financial sanctions Regulation.
+
+(2) An offence under an Act or under subordinate legislation where the offence was created for the purpose of implementing a UN financial sanctions Resolution.
+
+(3) An offence under paragraph 7 of Schedule 3 to the Anti-terrorism, Crime and Security Act 2001 (freezing orders).
+
+(4) An offence under paragraph 30 or 30A of Schedule 7 to the Counter-Terrorism Act 2008 where the offence relates to a requirement of the kind mentioned in paragraph 13 of that Schedule.
+
+(5) An offence under paragraph 31 of Schedule 7 to the Counter-Terrorism Act 2008.
+
+[[^F213](5A) An offence under regulations made under section 1 of the Sanctions and Anti-Money Laundering Act 2018.]
+
+(6) In this paragraph—
+
+- “EU financial sanctions Regulation” and “UN financial sanctions Resolution” have the same meanings as in Part 8 of the Policing and Crime Act 2017 (see section 143 of that Act);
+- “subordinate legislation” has the same meaning as in the Interpretation Act 1978.
+
+#### Inchoate offences
+
+**14** (1) An offence of attempting or conspiring the commission of an offence specified or described in this Part of this Schedule.
+
+(2) An offence under Part 2 of this Act (encouraging or assisting) where the offence (or one of the offences) which the person in question intends or believes would be committed is an offence specified or described in this Part of this Schedule.
+
+(3) An offence of aiding, abetting, counselling or procuring the commission of an offence specified or described in this Part of this Schedule.
+
+(4) The references in sub-paragraphs (1) to (3) to offences specified or described in this Part of this Schedule do not include the offence at common law of conspiracy to defraud.
+
+#### Earlier offences
+
+**15** (1) This Part of this Schedule (apart from paragraph 14(2)) has effect, in its application to conduct before the passing of this Act, as if the offences specified or described in this Part included any corresponding offences under the law in force at the time of the conduct.
+
+(2) Paragraph 14(2) has effect, in its application to conduct before the passing of this Act or before the coming into force of section 59 of this Act, as if the offence specified or described in that provision were an offence of inciting the commission of an offence specified or described in this Part of this Schedule.
+
+#### Scope of offences
+
+**16** Where this Part of this Schedule refers to offences which are offences under the law of England and Wales and another country, the reference is to be read as limited to the offences so far as they are offences under the law of England and Wales.
+
+### [[^F214]PART 1A — SERIOUS OFFENCES IN SCOTLAND
+
+#### Drug trafficking
+
+**16A** (1) An offence under any of the following provisions of the Misuse of Drugs Act 1971—
+
+(a) section 4(2) or (3) (unlawful production or supply of controlled drugs);
+
+(b) section 5(3) (possession of controlled drug with intent to supply);
+
+(c) section 6 (restriction of cultivation of cannabis plant);
+
+(d) section 8 (permitting etc certain activities relating to controlled drugs);
+
+(e) section 20 (assisting in or inducing the commission outside the United Kingdom of an offence punishable under a corresponding law).
+
+(2) An offence under any of the following provisions of the Customs and Excise Management Act 1979 if it is committed in connection with a prohibition or restriction on importation or exportation which has effect by virtue of section 3 of the Misuse of Drugs Act 1971—
+
+(a) section 50(2) or (3) (improper importation of goods);
+
+(b) section 68(2) (exportation of prohibited or restricted goods);
+
+(c) section 170 (fraudulent evasion of duty etc ).
+
+(3) An offence under either of the following provisions of the Criminal Justice (International Co-operation) Act 1990—
+
+(a) section 12 (manufacture or supply of a substance for the time being specified in Schedule 2 to that Act);
+
+(b) section 19 (using a ship for illicit traffic in controlled drugs).
+
+**[[^F215]16AA** An offence under any of the following provisions of the Psychoactive Substances Act 2016—
+
+(a) section 4 (producing a psychoactive substance);
+
+(b) section 5 (supplying, or offering to supply, a psychoactive substance);
+
+(c) section 7 (possession of psychoactive substance with intent to supply);
+
+(d) section 8 (importing or exporting a psychoactive substance).]
+
+#### People trafficking
+
+**16B** (1) An offence under section 25 [[^F216]or 25A] of the Immigration Act 1971 (assisting unlawful immigration etc).
+
+(2) An offence under section 4 of the Asylum and Immigration (Treatment of Claimants, etc.) Act 2004 (trafficking people for exploitation).
+
+#### [[^F217]Terrorism
+
+**16BA** An offence for the time being listed in section 41(1) of the Counter-Terrorism Act 2008 (offences to which Part 4 of that Act applies: terrorism offences).]
+
+#### Firearms offences
+
+**16C** (1) An offence under any of the following provisions of the Firearms Act 1968—
+
+(a) section 1(1) (possession etc of firearms or ammunition without certificate);
+
+(b) section 2(1) (possession etc of shot gun without certificate);
+
+(c) section 3(1) (dealing etc in firearms or ammunition by way of trade or business without being registered);
+
+(d) section 5(1), (1A) or (2A) (possession, manufacture etc of prohibited weapons).
+
+(2) An offence under either of the following provisions of the Customs and Excise Management Act 1979 if it is committed in connection with a firearm or ammunition—
+
+(a) section 68(2) (exportation of prohibited or restricted goods);
+
+(b) section 170 (fraudulent evasion of duty etc).
+
+(3) In sub-paragraph (2) “firearm” and “ammunition” have the same meanings as in section 57 of the Firearms Act 1968.
+
+#### Prostitution, child sex and pornography
+
+**16D** (1) An offence under any of the following provisions of the Criminal Law Consolidation (Scotland) Act 1995—
+
+(a) section 11(1) (living on earnings of prostitution or soliciting for immoral purposes);
+
+(b) section 11(4) (aiding, abetting or compelling prostitution for gain);
+
+(c) section 11(5) (running of brothels).
+
+(2) An offence under section 22 of the Criminal Justice (Scotland) Act 2003 (traffic in prostitution etc).
+
+(3) An offence under any of the following provisions of the Protection of Children and Prevention of Sexual Offences (Scotland) Act 2005—
+
+(a) section 10 (causing or inciting provision by child of sexual services or child pornography);
+
+(b) section 11 (controlling a child providing sexual services or involved in pornography);
+
+(c) section 12 (arranging or facilitating provision by child of sexual services or child pornography).
+
+(4) An offence under section 51(2) of the Civic Government (Scotland) Act 1982 (obscene material).
+
+#### Serious organised crime
+
+**16E** (1) An offence under any of the following provisions of the Criminal Justice and Licensing (Scotland) Act 2010—
+
+(a) section 28(1) (involvement in serious organised crime);
+
+(b) section 30(1) or (2) (directing serious organised crime).
+
+(2) An offence aggravated by a connection with serious organised crime as mentioned in section 29(1) of the Criminal Justice and Licensing (Scotland) Act 2010 (offences aggravated by connection with serious organised crime).
+
+#### Money laundering
+
+**16F** An offence under any of the following provisions of the Proceeds of Crime Act 2002—
+
+(a) section 327 (concealing etc criminal property);
+
+(b) section 328 (facilitating the acquisition etc of criminal property by or on behalf of another);
+
+(c) section 329 (acquisition, use and possession of criminal property).
+
+#### Offences in relation to public revenue [[^F218]etc]
+
+**16G** (1) An offence under section 170 of the Customs and Excise Management Act 1979 (fraudulent evasion of duty etc) so far as not falling within paragraph 16A(2)(c) or 16C(2)(b) above.
+
+(2) An offence under section 72 of the Value Added Tax Act 1994 (fraudulent evasion of VATetc).
+
+(3) An offence under section 106A of the Taxes Management Act 1970 (fraudulent evasion of income tax).
+
+(4) An offence under section 35 of the Tax Credits Act 2002 (tax credit fraud).
+
+[[^F219](5) An offence under section 45 or 46 of the Criminal Finances Act 2017 (failure to prevent the facilitation of UK tax evasion offences or foreign tax evasion offences).]
+
+#### Bribery
+
+**16H** An offence under any of the following provisions of the Bribery Act 2010—
+
+(a) section 1 (offences of bribing another person);
+
+(b) section 2 (offences relating to being bribed);
+
+(c) section 6 (bribery of foreign public officials).
+
+#### Counterfeiting
+
+**16I** An offence under any of the following provisions of the Forgery and Counterfeiting Act 1981—
+
+(a) section 14 (making counterfeit notes or coins);
+
+(b) section 15 (passing etc counterfeit notes or coins);
+
+(c) section 16 (having custody or control of counterfeit notes or coins);
+
+(d) section 17 (making or having custody or control of counterfeiting materials or implements).
+
+#### Fraud etc
+
+**16J** (1) An offence under section 12(1) or (2) of the Gangmasters (Licensing) Act 2004 (acting as a gangmaster other than under the authority of a licence, possession of false documents, etc).
+
+[[^F220](1A) An offence under section 199 of the Economic Crime and Corporate Transparency Act 2023 (failure to prevent fraud offences).]
+
+(2) Fraud.
+
+(3) Conspiracy to defraud.
+
+(4) Theft.
+
+(5) Extortion.
+
+(6) Assault and robbery.
+
+#### Computer misuse
+
+**16K** An offence under any of the following provisions of the Computer Misuse Act 1990—
+
+(a) section 1 (unauthorised access to computer material);
+
+(b) section 2 (unauthorised access with intent to commit or facilitate commission of further offences);
+
+(c) section 3 (unauthorised acts with intent to impair, or with recklessness as to impairing, operation of computer etc);
+
+(d) section 3ZA (unauthorised acts causing, or creating risk of, serious damage to human welfare etc);
+
+(e) section 3A (making, supplying or obtaining articles for use in offence under section 1, 3 or 3ZA).
+
+#### Intellectual property
+
+**16L** (1) An offence under section 297A of the Copyright, Designs and Patents Act 1988 (making or dealing etc in unauthorised decoders).
+
+(2) An offence under section 92(1), (2) or (3) of the Trade Marks Act 1994 (unauthorised use of trade mark etc).
+
+#### Environment
+
+**16M** (1) An offence under any of the following provisions of the Salmon and Freshwater Fisheries (Consolidation) (Scotland) Act 2003—
+
+(a) section 1 (fishing for salmon: methods);
+
+(b) section 2 (fishing for freshwater fish: methods);
+
+(c) section 5 (using explosive or other noxious substances for taking or destruction of fish etc).
+
+(2) An offence under section 14 of the Wildlife and Countryside Act 1981 (introduction of new species etc).
+
+(3) An offence under section 33 of the Environmental Protection Act 1990 (prohibition on unauthorised or harmful deposit, treatment or disposal etc of waste).
+
+[[^F221](4) An offence under paragraph 1(2) of Schedule 1 to the Control of Trade in Endangered Species Regulations 2018 (S.I. 2018/703).]
+
+[[^F221](5) An offence under paragraph 2 of that Schedule which consists of the conduct specified in the table in that paragraph as the subject matter of Article 16(1)(c) or (d) of Council Regulation (EC) No 338/97 on the protection of species of wild fauna and flora by regulating trade therein.]
+
+#### [^F222]... Sanctions legislation
+
+**16MA** (1) An offence under an instrument made under section 2(2) of the European Communities Act 1972 for the purpose of implementing, or otherwise in relation to, EU obligations created or arising by or under an EU financial sanctions Regulation.
+
+(2) An offence under an Act or under subordinate legislation where the offence was created for the purpose of implementing a UN financial sanctions Resolution.
+
+(3) An offence under paragraph 7 of Schedule 3 to the Anti-terrorism, Crime and Security Act 2001 (freezing orders).
+
+(4) An offence under paragraph 30 or 30A of Schedule 7 to the Counter-Terrorism Act 2008 where the offence relates to a requirement of the kind mentioned in paragraph 13 of that Schedule.
+
+(5) An offence under paragraph 31 of Schedule 7 to the Counter-Terrorism Act 2008.
+
+[[^F223](5A) An offence under regulations made under section 1 of the Sanctions and Anti-Money Laundering Act 2018.]
+
+(6) In this paragraph—
+
+- “EU financial sanctions Regulation” and “UN financial sanctions Resolution” have the same meanings as in Part 8 of the Policing and Crime Act 2017 (see section 143 of that Act);
+- “subordinate legislation” has the same meaning as in the Interpretation Act 1978.
+
+#### Inchoate offences
+
+**16N** An offence of attempting or conspiring to commit an offence specified or described in this Part of this Schedule.
+
+#### Earlier offences
+
+**16O** This Part of this Schedule has effect, in its application to conduct before the coming into force of this Part, as if the offences specified or described in this Part included any corresponding offences under the law in force at the time of the conduct.
+
+#### Scope of offences
+
+**16P** Where this Part of this Schedule refers to offences which are offences under the law of Scotland and another country, the reference is to be read as limited to the offences so far as they are offences under the law of Scotland.]
+
+### Part 2 — Serious offences in Northern Ireland
+
+#### Drug trafficking
+
+**17** (1) An offence under any of the following provisions of the Misuse of Drugs Act 1971 (c. 38)—
+
+(a) section 4(2) or (3) (unlawful production or supply of controlled drugs);
+
+(b) section 5(3) (possession of controlled drug with intent to supply);
+
+[[^F224](ba) section 6 (restriction of cultivation of cannabis plant);]
+
+(c) section 8 (permitting etc. certain activities relating to controlled drugs);
+
+(d) section 20 (assisting in or inducing the commission outside the United Kingdom of an offence punishable under a corresponding law).
+
+(2) An offence under any of the following provisions of the Customs and Excise Management Act 1979 (c. 2) if it is committed in connection with a prohibition or restriction on importation or exportation which has effect by virtue of section 3 of the Misuse of Drugs Act 1971—
+
+(a) section 50(2) or (3) (improper importation of goods);
+
+(b) section 68(2) (exportation of prohibited or restricted goods);
+
+(c) section 170 (fraudulent evasion of duty etc.).
+
+(3) An offence under either of the following provisions of the Criminal Justice (International Co-operation) Act 1990 (c. 5)—
+
+(a) section 12 (manufacture or supply of a substance for the time being specified in Schedule 2 to that Act);
+
+(b) section 19 (using a ship for illicit traffic in controlled drugs).
+
+**[[^F225]17A** An offence under any of the following provisions of the Psychoactive Substances Act 2016—
+
+(a) section 4 (producing a psychoactive substance);
+
+(b) section 5 (supplying, or offering to supply, a psychoactive substance);
+
+(c) section 7 (possession of psychoactive substance with intent to supply);
+
+(d) section 8 (importing or exporting a psychoactive substance).]
+
+#### People trafficking
+
+**18** (1) An offence under section 25 [[^F226]or 25A] of the Immigration Act 1971 (c. 77) (assisting unlawful immigration etc.).
+
+[^F227]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F228]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[[^F229](4) An offence under section1 or 2 of the Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015]
+
+#### [[^F230]Terrorism
+
+**18A** An offence for the time being listed in section 41(1) of the Counter-Terrorism Act 2008 (offences to which Part 4 of that Act applies: terrorism offences).]
+
+#### [[^F231]Firearms offences]
+
+**19** (1) An offence under either of the following provisions of the Customs and Excise Management Act 1979 (c. 2) if it is committed in connection with a firearm or ammunition—
+
+(a) section 68(2) (exportation of prohibited or restricted goods);
+
+(b) section 170 (fraudulent evasion of duty etc.).
+
+[[^F232](2) An offence under any of the following provisions of the Firearms (Northern Ireland) Order 2004 ( S.I. 2004/702 (N.I. 3))—
+
+(a) Article 3 (possession etc of firearms or ammunition without certificate);
+
+(b) Article 24 (dealing etc in firearms or ammunition by way of trade or business without being registered);
+
+(c) Article 45 (possession, manufacture etc of prohibited weapons). ]
+
+(3) In this paragraph “firearm” and “ammunition” have the same meanings as in Article 2(2) of the Firearms (Northern Ireland) Order 2004.
+
+#### Prostitution and child sex
+
+**20** (1) An offence under section 13(1) of the Criminal Law Amendment Act 1885 (c. 69) (keeping a brothel used for prostitution).
+
+(2) An offence under any of the following provisions of the Sexual Offences Act 2003—
+
+(a) section 48 (causing or inciting child prostitution or pornography);
+
+(b) section 49 (controlling a child prostitute or a child involved in pornography);
+
+(c) section 50 (arranging or facilitating child prostitution or pornography);
+
+(d) section 52 (causing or inciting prostitution for gain);
+
+(e) section 53 (controlling prostitution for gain).
+
+#### Armed robbery etc.
+
+**21** (1) An offence under section 8(1) of the Theft Act (Northern Ireland) 1969 (c. 16 (N.I.)) (robbery) where the use or threat of force involves a firearm, an imitation firearm or an offensive weapon.
+
+(2) An offence at common law of an assault with intent to rob where the assault involves a firearm, imitation firearm or an offensive weapon.
+
+(3) In this paragraph—
+
+- “firearm” and “imitation firearm” have the meaning given by Article 2(2) of the Firearms (Northern Ireland) Order 2004;
+- “offensive weapon” means any weapon to which section 141 of the Criminal Justice Act 1988 (c. 33) (offensive weapons) applies.
+
+#### Money laundering
+
+**22** An offence under any of the following provisions of the Proceeds of Crime Act 2002 (c. 29)—
+
+(a) section 327 (concealing etc. criminal property);
+
+(b) section 328 (facilitating the acquisition etc. of criminal property by or on behalf of another);
+
+(c) section 329 (acquisition, use and possession of criminal property).
+
+#### Fraud
+
+**23** (1) An offence under section 17 of the Theft Act (Northern Ireland) 1969 (c. 16 (N.I.)) (false accounting).
+
+(2) An offence under any of the following provisions of the Fraud Act 2006 (c. 35)—
+
+(a) section 1 (fraud by false representation, failing to disclose information or abuse of position);
+
+(b) section 6 (possession etc. of articles for use in frauds);
+
+(c) section 7 (making or supplying articles for use in frauds);
+
+(d) section 9 (participating in fraudulent business carried on by sole trader etc.);
+
+(e) section 11 (obtaining services dishonestly).
+
+[[^F233](2A) An offence under section 199 of the Economic Crime and Corporate Transparency Act 2023 (failure to prevent fraud offences).]
+
+(3) An offence at common law of conspiracy to defraud.
+
+#### Offences in relation to public revenue [[^F234]etc]
+
+**24** (1) An offence under section 170 of the Customs and Excise Management Act 1979 (c. 2) (fraudulent evasion of duty etc.) so far as not falling within paragraph 17(2)(c) or 19(1)(b) above.
+
+(2) An offence under section 72 of the Value Added Tax Act 1994 (c. 23) (fraudulent evasion of VAT etc.).
+
+(3) An offence under [[^F235]section 106A of the Taxes Management Act 1970] (fraudulent evasion of income tax).
+
+(4) An offence under section 35 of the Tax Credits Act 2002 (c. 21) (tax credit fraud).
+
+(5) An offence at common law of cheating in relation to the public revenue.
+
+[[^F236](6) An offence under section 45 or 46 of the Criminal Finances Act 2017 (failure to prevent the facilitation of UK tax evasion offences or foreign tax evasion offences).]
+
+#### [[^F237]Bribery
+
+**25** An offence under any of the following provisions of the Bribery Act 2010—
+
+(a) section 1 (offences of bribing another person);
+
+(b) section 2 (offences relating to being bribed);
+
+(c) section 6 (bribery of foreign public officials).]
+
+#### Counterfeiting
+
+**26** An offence under any of the following provisions of the Forgery and Counterfeiting Act 1981 (c. 45)—
+
+(a) section 14 (making counterfeit notes or coins);
+
+(b) section 15 (passing etc. counterfeit notes or coins);
+
+(c) section 16 (having custody or control of counterfeit notes or coins);
+
+(d) section 17 (making or having custody or control of counterfeiting materials or implements).
+
+#### Blackmail
+
+**27** (1) An offence under section 20 of the Theft Act (Northern Ireland) 1969 (c. 16) (blackmail).
+
+(2) An offence under section 12(1) or (2) of the Gangmasters (Licensing) Act 2004 (c. 11) (acting as a gangmaster other than under the authority of a licence, possession of false documents, etc.).
+
+#### [[^F238]Computer misuse
+
+**27A** An offence under any of the following provisions of the Computer Misuse Act 1990—
+
+(a) section 1 (unauthorised access to computer material);
+
+(b) section 2 (unauthorised access with intent to commit or facilitate commission of further offences);
+
+(c) section 3 (unauthorised acts with intent to impair, or with recklessness as to impairing, operation of computer etc );
+
+(d) section 3ZA (unauthorised acts causing, or creating risk of, serious damage to human welfare etc );
+
+(e) section 3A (making, supplying or obtaining articles for use in offence under section 1, 3 or 3ZA).]
+
+#### Intellectual property
+
+**28** (1) An offence under any of the following provisions of the Copyright, Designs and Patents Act 1988 (c. 48)—
+
+(a) section 107(1)(a), (b), (d)(iv) or (e) (making, importing or distributing an article which infringes copyright);
+
+(b) section 198(1)(a), (b) or (d)(iii) (making, importing or distributing an illicit recording);
+
+(c) section 297A (making or dealing etc. in unauthorised decoders).
+
+(2) An offence under section 92(1), (2) or (3) of the Trade Marks Act 1994 (c. 26) (unauthorised use of trade mark etc.).
+
+#### Environment
+
+**29** (1) An offence under section 62 or 63 of the Fisheries Act (Northern Ireland) 1966 (c. 17 (N.I.)) (prohibition of certain methods of fishing).
+
+(2) An offence under Article 15 of the Wildlife (Northern Ireland) Order 1985 (S.I. 1985/171 (N.I.2)) (introduction of new species, etc.).
+
+(3) An offence under Article 4 of the Waste and Contaminated Land (Northern Ireland) Order 1997 (S.I. 1997/2778 (N.I.19)) (prohibition on unauthorised or harmful deposit, treatment or disposal, etc. of waste).
+
+[[^F239](4) An offence under paragraph 1(2) of Schedule 1 to the Control of Trade in Endangered Species Regulations 2018 (S.I. 2018/703).]
+
+[[^F239](5) An offence under paragraph 2 of that Schedule which consists of the conduct specified in the table in that paragraph as the subject matter of Article 16(1)(c) or (d) of Council Regulation (EC) No 338/97 on the protection of species of wild fauna and flora by regulating trade therein.]
+
+#### [^F240]... Sanctions legislation
+
+**29A** (1) An offence under an instrument made under section 2(2) of the European Communities Act 1972 for the purpose of implementing, or otherwise in relation to, EU obligations created or arising by or under an EU financial sanctions Regulation.
+
+(2) An offence under an Act or under subordinate legislation where the offence was created for the purpose of implementing a UN financial sanctions Resolution.
+
+(3) An offence under paragraph 7 of Schedule 3 to the Anti-terrorism, Crime and Security Act 2001 (freezing orders).
+
+(4) An offence under paragraph 30 or 30A of Schedule 7 to the Counter-Terrorism Act 2008 where the offence relates to a requirement of the kind mentioned in paragraph 13 of that Schedule.
+
+(5) An offence under paragraph 31 of Schedule 7 to the Counter-Terrorism Act 2008.
+
+[[^F241](5A) An offence under regulations made under section 1 of the Sanctions and Anti-Money Laundering Act 2018.]
+
+(6) In this paragraph—
+
+- “EU financial sanctions Regulation” and “UN financial sanctions Resolution” have the same meanings as in Part 8 of the Policing and Crime Act 2017 (see section 143 of that Act);
+- “subordinate legislation” has the same meaning as in the Interpretation Act 1978.
+
+#### Inchoate offences
+
+**30** (1) An offence of attempting or conspiring the commission of an offence specified or described in this Part of this Schedule.
+
+(2) An offence under Part 2 of this Act (encouraging or assisting) where the offence (or one of the offences) which the person in question intends or believes would be committed is an offence specified or described in this Part of this Schedule.
+
+(3) An offence of aiding, abetting, counselling or procuring the commission of an offence specified or described in this Part of this Schedule.
+
+(4) The references in sub-paragraphs (1) to (3) to offences specified or described in this Part of this Schedule do not include the offence at common law of conspiracy to defraud.
+
+#### Earlier offences
+
+**31** (1) This Part of this Schedule (apart from paragraph 30(2)) has effect, in its application to conduct before the passing of this Act, as if the offences specified or described in this Part included any corresponding offences under the law in force at the time of the conduct.
+
+(2) Paragraph 30(2) has effect, in its application to conduct before the passing of this Act or before the coming into force of section 59 of this Act, as if the offence specified or described in that provision were an offence of inciting the commission of an offence specified or described in this Part of this Schedule.
+
+#### Scope of offences
+
+**32** Where this Part of this Schedule refers to offences which are offences under the law of Northern Ireland and another country, the reference is to be read as limited to the offences so far as they are offences under the law of Northern Ireland.
+
+## [[^F242]Schedule 1A — Relevant orders: notification requirements
+
+*Section 15A*
+
+### Notification requirements for persons other than individuals
+
+**1** (1) Where a person other than an individual is subject to a relevant order that person (“P”) must, within the period of three days beginning with the first day on which any provision of the order comes into force, notify the specified person of the name of an authorised individual.
+
+(2) In this paragraph “authorised individual” means an individual who—
+
+(a) is authorised by P to communicate with the specified person in relation to P’s compliance with the order, and
+
+(b) has consented to act in that capacity.
+
+(3) P may, at any time after notifying the specified person of the name of an authorised individual under this paragraph, notify the specified person of the name of a replacement authorised individual.
+
+(4) Where an individual whose name is notified by P under this paragraph ceases to be an authorised individual P must, within the period of 28 days beginning with the day on which the individual ceases to be an authorised individual, notify the specified person of the name of a replacement authorised individual.
+
+### Notification requirements for individuals
+
+**2** (1) An individual who is subject to a relevant order must, within the period of three days beginning with the first day on which any of the provisions of the order comes into force, notify the specified person of the notifiable information relating to the individual.
+
+(2) If there is a change in any of the notifiable information relating to an individual who has given a notification under this paragraph the individual must, within the period of three days beginning with the day on which the change occurs, notify the specified person of the change.
+
+(3) A requirement to notify information under sub-paragraph (1) or (2) does not apply to an individual by virtue of a relevant order whilst the individual is required to notify that information to that person by virtue of an earlier relevant order.
+
+(4) If the earlier order ceases to be in force on a day on which the later order remains in force, the reference in sub-paragraph (1) to the first day on which any of the provisions of the order comes into force is to be read as a reference to that day.
+
+(5) In this paragraph “the notifiable information” relating to an individual means—
+
+(a) their name and, if they use one or more other names, each of those names;
+
+(b) the address of their sole or main residence in the United Kingdom and the address of any other premises in the United Kingdom at which they regularly reside or stay;
+
+(c) each of their telephone numbers and email addresses (if any);
+
+(d) any name which they use to access a social media service or the function of which is to identify the user of such a service;
+
+(e) any name—
+
+(i) which they use to access a video game that is a user-to-user service or that is available as part of a user-to-user service, or
+
+(ii) the function of which is to identify them as the user of such a game;
+
+(f) identifying information relating to any motor vehicle of which they are the registered keeper, or which they have a right to use (whether routinely or on specific occasions or for specific purposes);
+
+(g) specified financial information;
+
+(h) specified information about identification documents;
+
+(i) the name and address of each of their employers (if any);
+
+(j) any information of a description specified in regulations made by the Secretary of State.
+
+(6) For the purposes of sub-paragraph (5)—
+
+(a) where the individual does not have a sole or main residence in the United Kingdom, paragraph (b) of that sub-paragraph is to be read as if it refers to the address or location of a place in the United Kingdom where they can regularly be found (and, if there is more than one such place, the address or location of each of those places);
+
+(b) “social media service” means an online service that meets the following conditions—
+
+(i) the main purpose, or one of the main purposes, of the service is to promote interaction between users (including interaction between users and user-generated content), and
+
+(ii) making content generated by users available to other users is a significant feature of the service;
+
+(c) “specified financial information” means the information specified in paragraph 1(1)(a) and (b) of Schedule 3A to the Counter-Terrorism Act 2008;
+
+(d) “specified information about identification documents” means the information specified in paragraph 2(a) and (b) of that Schedule;
+
+(e) “user-to-user service” has the meaning given by section 3 of the Online Safety Act 2023.
+
+### Offences
+
+**3** (1) A person commits an offence under the law of England and Wales if the person fails, without reasonable excuse, to comply with a requirement imposed by paragraph 1(1) or (4).
+
+(2) A person guilty of an offence under sub-paragraph (1) is liable on summary conviction to a fine.
+
+(3) A person commits an offence under the law of England and Wales if the person—
+
+(a) fails, without reasonable excuse, to comply with a requirement imposed by paragraph 2;
+
+(b) gives a notification, in purported compliance with such a requirement, of any information which the person knows to be false.
+
+(4) A person guilty of an offence under sub-paragraph (3) is liable—
+
+(a) on summary conviction, to imprisonment for a term not exceeding the general limit in a magistrates’ court or a fine, or both;
+
+(b) on conviction on indictment, to imprisonment for a term not exceeding 5 years or a fine, or both.]
+
+## SCHEDULE 2 — Functions of applicant authorities under Part 1
+
+*Section 37*
+
+### Director of Public Prosecutions
+
+**1** The functions of the Director of Public Prosecutions under this Part are—
+
+(a) to have the conduct of applications for serious crime prevention orders in England and Wales or for their variation or discharge;
+
+(b) to appear on any application made under section 17 or 18 by another person for the variation or discharge of a serious crime prevention order in England and Wales;
+
+(c) to have the conduct of, or (as the case may be) appear in, any other proceedings in connection with serious crime prevention orders (whether proceedings on appeal, by virtue of section 27 or otherwise);
+
+(d) to give advice in connection with any proceedings or possible proceedings in connection with serious crime prevention orders; and
+
+(e) to do anything for the purposes of, or in connection with, the functions in paragraphs (a) to (d).
+
+**2** (1) The Director may, to such extent as he may decide, delegate the exercise of his functions under this Part to a Crown Prosecutor.
+
+(2) References in this Part to the Director are accordingly to be read, so far as necessary for the purposes of sub-paragraph (1), as references to the Director or any Crown Prosecutor.
+
+**3** The functions of the Director under this Part are exercisable under the superintendence of the Attorney General.
+
+**4** (1) The Code for Crown Prosecutors issued under section 10 of the Prosecution of Offences Act 1985 (c. 23) (guidelines for Crown Prosecutors) may include guidance by the Director on general principles to be applied by Crown Prosecutors in determining in any case—
+
+(a) whether to make an application for a serious crime prevention order in England and Wales or for the variation or discharge of such an order;
+
+(b) whether to present a petition by virtue of section 27 of this Act; or
+
+(c) where such an application has been made or petition presented, whether the proceedings concerned should be discontinued.
+
+(2) Section 10(2) and (3) of that Act (power to make alterations in the Code and duty to set out alterations in Director's report) are to be read accordingly.
+
+**5** Section 14 of that Act (power of Attorney General to make regulations about fees of legal representatives and costs and expenses of witnesses) applies in relation to proceedings in connection with serious crime prevention orders and attendance for the purposes of such cases as it applies in relation to criminal proceedings and attendance for the purposes of such cases.
+
+**[[^F243]5A** Section 21 of the Commissioners for Revenue and Customs Act 2005 (disclosure to prosecuting authority) has effect as if the purpose mentioned in subsection (1)(b) included the purpose of enabling the Director to exercise the Director’s functions under this Part.]
+
+### [^F244]...
+
+**[^F245]6** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F245]7** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F245]8** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F245]9** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F245]10** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F245]11** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Director of Serious Fraud Office
+
+**12** The functions of the Director of the Serious Fraud Office under this Part are—
+
+(a) to have the conduct of applications for serious crime prevention orders in England and Wales or for their variation or discharge;
+
+(b) to appear on any application made under section 17 or 18 by another person for the variation or discharge of a serious crime prevention order in England and Wales;
+
+(c) to have the conduct of, or (as the case may be) appear in, any other proceedings in connection with serious crime prevention orders (whether proceedings on appeal, by virtue of section 27 or otherwise);
+
+(d) to give advice in connection with any proceedings or possible proceedings in connection with serious crime prevention orders; and
+
+(e) to do anything for the purposes of, or in connection with, the functions in paragraphs (a) to (d).
+
+**13** (1) The Director may, to such extent as he may decide, delegate the exercise of his functions under this Part to a member of the Serious Fraud Office designated under section 1(7) of the Criminal Justice Act 1987 (c. 38).
+
+(2) References in this Part to the Director are accordingly to be read, so far as necessary for the purposes of sub-paragraph (1) above, as references to the Director or any member of the Serious Fraud Office so designated.
+
+**14** The functions of the Director under this Part are exercisable under the superintendence of the Attorney General.
+
+**15** Paragraph 8 of Schedule 1 to the Criminal Justice Act 1987 (power of Attorney General to make regulations about fees of counsel and costs and expenses of witnesses) applies in relation to proceedings in connection with serious crime prevention orders and attendance for the purposes of such cases as it applies in relation to criminal proceedings and attendance for the purposes of such cases.
+
+### [[^F246]Director General of the National Crime Agency
+
+**15ZA** The functions of the Director General of the National Crime Agency under this Part are—
+
+(a) to have the conduct of applications for serious crime prevention orders and interim serious crime prevention orders in England and Wales or for their variation or discharge,
+
+(b) to appear on any application made under section 17 or 18 by another person for the variation or discharge of a serious crime prevention order or an interim serious crime prevention order in England and Wales,
+
+(c) to have the conduct of, or (as the case may be) appear in, any other proceedings in connection with serious crime prevention orders or interim serious crime prevention orders (whether proceedings on appeal, by virtue of section 27 or otherwise),
+
+(d) to give advice in connection with any proceedings or possible proceedings in connection with serious crime prevention orders or interim serious crime prevention orders, and
+
+(e) to do anything for the purposes of, or in connection with, the functions in paragraphs (a) to (d).
+
+### Commissioners for His Majesty’s Revenue and Customs
+
+**15ZB** The functions of the Commissioners for His Majesty’s Revenue and Customs under this Part are—
+
+(a) to have the conduct of applications for serious crime prevention orders and interim serious crime prevention orders in England and Wales or for their variation or discharge,
+
+(b) to appear on any application made under section 17 or 18 by another person for the variation or discharge of a serious crime prevention order or an interim serious crime prevention order in England and Wales,
+
+(c) to have the conduct of, or (as the case may be) appear in, any other proceedings in connection with serious crime prevention orders or interim serious crime prevention orders (whether proceedings on appeal, by virtue of section 27 or otherwise),
+
+(d) to give advice in connection with any proceedings or possible proceedings in connection with serious crime prevention orders or interim serious crime prevention orders, and
+
+(e) to do anything for the purposes of, or in connection with, the functions in paragraphs (a) to (d).]
+
+### [[^F247]Chief officers of police in England and Wales
+
+**15A** The functions of a chief officer of police of a police force in England and Wales (referred to in this paragraph and paragraph 15B as a “chief officer”) are—
+
+(a) to have the conduct of applications for serious crime prevention orders in England and Wales [^F248]that are terrorism-related or for their variation or discharge;
+
+(b) to appear on any application made under section 17 or 18 by another person for the variation or discharge of a serious crime prevention order in England and Wales [^F249]that is terrorism-related;
+
+(c) to have the conduct of, or (as the case may be) appear in, any other proceedings in connection with serious crime prevention orders in England and Wales [^F250]that are terrorism-related (whether proceedings on appeal, by virtue of section 27 or otherwise);
+
+(d) to give advice in connection with any proceedings or possible proceedings in connection with serious crime prevention orders in England and Wales [^F251]that are terrorism-related; and
+
+(e) to do anything for the purposes of, or in connection with, the functions in paragraphs (a) to (d).
+
+**15B** (1) A chief officer may, to such extent as they may decide, delegate the exercise of their functions under this Part to any police officer of at least the rank of superintendent.
+
+(2) References in this Part to a chief officer are accordingly to be read, so far as necessary for the purposes of sub-paragraph (1), as references to a chief officer or any police officer of at least the rank of superintendent.
+
+#### [[^F252]Chief Constable of British Transport Police Force
+
+**15BA** The functions of the Chief Constable of the British Transport Police Force under this Part are—
+
+(a) to have the conduct of applications for serious crime prevention orders and interim serious crime prevention orders in England and Wales or for their variation or discharge,
+
+(b) to appear on any application made under section 17 or 18 by another person for the variation or discharge of a serious crime prevention order or an interim serious crime prevention order in England and Wales,
+
+(c) to have the conduct of, or (as the case may be) appear in, any other proceedings in connection with serious crime prevention orders or interim serious crime prevention orders in England and Wales (whether proceedings on appeal, by virtue of section 27 or otherwise),
+
+(d) to give advice in connection with any proceedings or possible proceedings in connection with serious crime prevention orders or interim serious crime prevention orders in England and Wales, and
+
+(e) to do anything for the purposes of, or in connection with, the functions in paragraphs (a) to (d).
+
+**15BB** (1) The Chief Constable of the British Transport Police Force may, to such extent as they may decide, delegate the exercise of their functions under this Part to any member of the British Transport Police Force of at least the rank of superintendent.
+
+(2) References in this Part to the Chief Constable of the British Transport Police Force are accordingly to be read, so far as necessary for the purposes of sub-paragraph (1), as references to the Chief Constable or any member of the British Transport Police Force of at least the rank of superintendent.
+
+#### Chief Constable of the Ministry of Defence Police
+
+**15BC** The functions of the Chief Constable of the Ministry of Defence Police under this Part are—
+
+(a) to have the conduct of applications for serious crime prevention orders and interim serious crime prevention orders in England and Wales or for their variation or discharge,
+
+(b) to appear on any application made under section 17 or 18 by another person for the variation or discharge of a serious crime prevention order or an interim serious crime prevention order in England and Wales,
+
+(c) to have the conduct of, or (as the case may be) appear in, any other proceedings in connection with serious crime prevention orders or interim serious crime prevention orders in England and Wales (whether proceedings on appeal, by virtue of section 27 or otherwise),
+
+(d) to give advice in connection with any proceedings or possible proceedings in connection with serious crime prevention orders or interim serious crime prevention orders in England and Wales, and
+
+(e) to do anything for the purposes of, or in connection with, the functions in paragraphs (a) to (d).
+
+**15BD** (1) The Chief Constable of the Ministry of Defence Police may, to such extent as they may decide, delegate the exercise of their functions under this Part to any member of the Ministry of Defence Police of at least the rank of superintendent.
+
+(2) References in this Part to the Chief Constable of the Ministry of Defence Police are accordingly to be read, so far as necessary for the purposes of sub-paragraph (1), as references to the Chief Constable or any member of the Ministry of Defence Police of at least the rank of superintendent.]
+
+### The chief constable of the Police Service of Scotland
+
+**15C** The functions of the chief constable of the Police Service of Scotland are—
+
+(a) to have the conduct of applications for serious crime prevention orders in Scotland that are terrorism-related and are made to the Court of Session, or for their variation or discharge;
+
+(b) to appear on any application made under section 17 or 18 by another person for the variation or discharge of a serious crime prevention order in Scotland that is terrorism-related;
+
+(c) to have the conduct of, or (as the case may be) appear in, any other proceedings in connection with serious crime prevention orders in Scotland that are terrorism-related (whether proceedings on appeal, by virtue of section 27A or otherwise);
+
+(d) to give advice in connection with any proceedings or possible proceedings in connection with serious crime prevention orders in Scotland that are terrorism-related; and
+
+(e) to do anything for the purposes of, or in connection with, the functions in paragraphs (a) to (d).
+
+**15D** (1) The chief constable of the Police Service of Scotland (“the chief constable”) may, to such extent as they may decide, delegate the exercise of their functions under this Part to any police officer of at least the rank of superintendent.
+
+(2) References in this Part to the chief constable are accordingly to be read, so far as necessary for the purposes of sub-paragraph (1), as references to the chief constable or any police officer of at least the rank of superintendent.]
+
+### Director of Public Prosecutions for Northern Ireland
+
+**16** The functions of the Director of Public Prosecutions for Northern Ireland under this Part are—
+
+(a) to have the conduct of applications for serious crime prevention orders in Northern Ireland or for their variation or discharge;
+
+(b) to appear on any application made under section 17 or 18 by another person for the variation or discharge of a serious crime prevention order in Northern Ireland;
+
+(c) to have the conduct of, or (as the case may be) appear in, any other proceedings in connection with serious crime prevention orders (whether proceedings on appeal, by virtue of section 28 or otherwise);
+
+(d) to give advice in connection with any proceedings or possible proceedings about serious crime prevention orders; and
+
+(e) to do anything for the purposes of, or in connection with, the functions in paragraphs (a) to (d).
+
+**17** References in this Part to the Director are to be read, so far as necessary for the purposes of functions delegated by him to Public Prosecutors, as references to the Director or any Public Prosecutor.
+
+**18** (1) The Code for Public Prosecutors issued under section 37 of the Justice (Northern Ireland) Act 2002 (c. 26) (guidelines for Public Prosecutors) may include guidance by the Director on general principles to be applied by Public Prosecutors in determining in any case—
+
+(a) whether to make an application for a serious crime prevention order in Northern Ireland or for the variation or discharge of such an order;
+
+(b) whether to present a petition by virtue of section 28 of this Act; or
+
+(c) where such an application has been made or petition presented, whether the proceedings concerned should be discontinued.
+
+(2) Sections 37(4) and 39(2) of that Act (power to make alterations in the Code and duty to set out alterations in Director's report) are to be read accordingly.
+
+**19** Sections 75(1) and (2) and 76(1) of, and Schedule 9 to, the Northern Ireland Act 1998 (c. 47) (duties of public authorities) do not apply to the functions of the Director of Public Prosecutions for Northern Ireland under this Part.
+
+**20** Section 1 of the Costs in Criminal Cases Act (Northern Ireland) 1968 (c. 10 (N.I.)) (expenses of prosecution) applies in relation to proceedings in connection with serious crime prevention orders and attendance for the purposes of such cases as it applies in relation to criminal proceedings and attendance for the purposes of such cases.
+
+### [[^F253]The Chief Constable of the Police Service of Northern Ireland
+
+**20A** The functions of the Chief Constable of the Police Service of Northern Ireland are—
+
+(a) to have the conduct of applications for serious crime prevention orders in Northern Ireland that are terrorism-related or for their variation or discharge;
+
+(b) to appear on any application made under section 17 or 18 by another person for the variation or discharge of a serious crime prevention order in Northern Ireland that is terrorism-related;
+
+(c) to have the conduct of, or (as the case may be) appear in, any other proceedings in connection with serious crime prevention orders in Northern Ireland that are terrorism-related (whether proceedings on appeal, by virtue of section 28 or otherwise);
+
+(d) to give advice in connection with any proceedings or possible proceedings in connection with serious crime prevention orders in Northern Ireland that are terrorism-related; and
+
+(e) to do anything for the purposes of, or in connection with, the functions in paragraphs (a) to (d).
+
+**20B** (1) The Chief Constable of the Police Service of Northern Ireland (“the Chief Constable”) may, to such extent as they may decide, delegate the exercise of their functions under this Part to any police officer of at least the rank of superintendent.
+
+(2) References in this Part to the Chief Constable are accordingly to be read, so far as necessary for the purposes of sub-paragraph (1), as references to the Chief Constable or any police officer of at least the rank of superintendent.]
+
+### Interpretation
+
+**21** In this Schedule references to having the conduct of proceedings include references to starting or discontinuing proceedings.
+
+## SCHEDULE 3 — Listed Offences
+
+*Section 49(5)*
+
+### Part 1 — Offences common to England and Wales and Northern Ireland
+
+#### Offences against the Person Act 1861 (c. 100)
+
+**1** An offence under section 4 of the Offences against the Person Act 1861 (solicitation etc. of murder).
+
+**2** An offence under section 21 of that Act (attempting to choke etc. in order to commit or assist in the committing of any indictable offence) so far as it may be committed with the intention of enabling any other person to commit, or assisting any other person in the commission of, an indictable offence.
+
+**3** An offence under section 22 of that Act (using chloroform etc. to commit or assist in the committing of any indictable offence) so far as it may be committed with the intention of enabling any other person to commit, or assisting any other person in the commission of, an indictable offence.
+
+**4** But references in paragraphs 2 and 3 to any other person do not include reference to the person whose act is capable of encouraging or assisting the commission of the offence under section 21 or, as the case may be, section 22 of that Act.
+
+#### Aliens Restriction (Amendment) Act 1919 (c. 92)
+
+**5** An offence under section 3(1) of the Aliens Restriction (Amendment) Act 1919 (acts calculated or likely to cause sedition or disaffection amongst HM forces etc.) consisting in attempting an act calculated or likely to cause sedition or disaffection in contravention of that subsection.
+
+**6** An offence under section 3(2) of that Act (promoting or attempting to promote industrial unrest) consisting in attempting to promote industrial unrest in contravention of that subsection.
+
+#### Official Secrets Act 1920 (c. 75)
+
+**[^F254]7** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Incitement to Disaffection Act 1934 (c. 56)
+
+**8** An offence under section 1 of the Incitement to Disaffection Act 1934 (endeavouring to seduce members of HM forces from their duty or allegiance).
+
+#### Misuse of Drugs Act 1971 (c. 38)
+
+**9** An offence under section 19 of the Misuse of Drugs Act 1971 (inciting any other offence under that Act).
+
+**10** An offence under section 20 of that Act (assisting or inducing commission outside United Kingdom of offence punishable under corresponding law).
+
+#### Immigration Act 1971 (c. 77)
+
+**11** An offence under section 25 of the Immigration Act 1971 (assisting unlawful immigration to a member State [[^F255]or the United Kingdom]).
+
+**[^F256]12** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Representation of the People Act 1983 (c. 2)
+
+**13** An offence under section 97(1) of the Representation of the People Act 1983 (public meetings) consisting in the incitement of others to act in a disorderly manner for the purpose of preventing at a lawful public meeting to which that section applies the transaction of the business for which the meeting was called.
+
+#### Computer Misuse Act 1990 (c. 18)
+
+**14** An offence under section 3A(1) of the Computer Misuse Act 1990 (making etc. article intending it to be used to commit, or to assist in the commission of, an offence under section 1 or 3 of that Act).
+
+**15** An offence under section 3A(2) of that Act (supply or offer to supply article believing it is likely to be used to commit, or to assist in the commission of, an offence under section 1 or 3 of that Act).
+
+**16** An offence under section 3A(3) of that Act (obtaining an article with a view to its being supplied for use to commit, or to assist in the commission of, an offence under section 1 or 3 of that Act).
+
+#### Criminal Justice Act 1993 (c. 36)
+
+**17** An offence under section 52(2)(a) of the Criminal Justice Act 1993 (encouraging insider dealing).
+
+#### Reserve Forces Act 1996 (c. 14)
+
+**18** An offence under section 101 of the Reserve Forces Act 1996 (inducing a person to desert or absent himself).
+
+#### Landmines Act 1998 (c. 33)
+
+**19** An offence under section 2(2) of the Landmines Act 1998 (encouraging, assisting or inducing an offence under section 2(1) of that Act).
+
+#### Terrorism Act 2006 (c. 11)
+
+**20** An offence under section 1(2) of the Terrorism Act 2006 (encouraging terrorism).
+
+**21** An offence under section 2(1) of that Act (disseminating terrorist publications).
+
+**22** An offence under section 5 of that Act (engaging in conduct in preparation for giving effect to intention to commit or assisting another to commit acts of terrorism).
+
+**23** An offence under section 6(1) of that Act (provision of instruction or training knowing that a person trained or instructed intends to use the skills obtained for or in connection with the commission of acts of terrorism or for assisting the commission or preparation of such acts by others).
+
+**24** An offence under section 6(2) of that Act as a result of paragraph (b)(ii) of that subsection (receipt of instruction or training intending to use the skills obtained for assisting the commission or preparation of acts of terrorism by others).
+
+#### [[^F257]Cluster Munitions (Prohibitions) Act 2010 (c. 11)
+
+**24A** An offence under section 2(2) of the Cluster Munitions (Prohibitions) Act 2010 (assisting, encouraging or inducing another to engage in conduct mentioned in section 2(1) of that Act).]
+
+#### [[^F258]Online Safety Act 2023
+
+**24B** An offence under section 184(1) of the Online Safety Act 2023 (encouraging or assisting serious self-harm).]
+
+#### [[^F259]National Security Act 2023 (c. 32)
+
+**24C** An offence under section 18 of the National Security Act 2023.]
+
+### Part 2 — Offences under particular enactments: England and Wales
+
+#### Public Meeting Act 1908 (c. 66)
+
+**25** An offence under section 1(2) of the Public Meeting Act 1908 (inciting others to commit offences under that section).
+
+#### Perjury Act 1911 (c. 6)
+
+**26** An offence under section 7(2) of the Perjury Act 1911 (inciting a person to commit an offence under that Act).
+
+#### Prison Act 1952 (c. 52)
+
+**27** An offence under section 39(1) of the Prison Act 1952 (assisting a prisoner to escape).
+
+#### [[^F260]Suicide Act 1961 (c. 60)
+
+**27A** An offence under section 2(1) of the Suicide Act 1961 (encouraging or assisting suicide).]
+
+#### Criminal Law Act 1967 (c. 58)
+
+**28** An offence under section 4(1) of the Criminal Law Act 1967 (assisting persons who have committed an offence).
+
+**29** An offence under section 5(1) of that Act (accepting or agreeing to accept consideration for not disclosing information about an offence).
+
+#### Greater London Council (General Powers) Act 1973 (c. xxx)
+
+**30** An offence under section 13 of the Greater London Council (General Powers) Act 1973 (assaults etc. on officers) consisting in the aiding or inciting of any person to assault, resist or obstruct an officer of the Thames Water Authority duly exercising or performing any power or duty under a section or byelaw mentioned in that section.
+
+#### Greater London Council (General Powers) Act 1974 (c. xxiv)
+
+**31** An offence under section 21(6) of the Greater London Council (General Powers) Act 1974 (assaults etc. on officers of a borough council) consisting in the aiding or inciting of any person to assault, resist or obstruct an officer of a borough council duly exercising or performing any power or duty under section 21 of that Act.
+
+#### Criminal Law Act 1977 (c. 45)
+
+**32** An offence under section 1(1) of the Criminal Law Act 1977 (conspiracy).
+
+#### Criminal Attempts Act 1981 (c. 47)
+
+**33** An offence under section 1(1) of the Criminal Attempts Act 1981 (attempting to commit an offence).
+
+#### Public Order Act 1986 (c. 64)
+
+**34** An offence under section 12(6) of the Public Order Act 1986 (inciting commission of offences under section 12(5) of that Act).
+
+**35** An offence under section 13(9) of that Act (inciting commission of offences under section 13(8) of that Act).
+
+**36** An offence under section 14(6) of that Act (inciting commission of offences under section 14(5) of that Act).
+
+**37** An offence under section 14B(3) of that Act (inciting commission of offences under section 14B(2) of that Act).
+
+#### Terrorism Act 2000 (c. 11)
+
+**38** An offence under section 59 of the Terrorism Act 2000 (inciting in England and Wales the commission of acts of terrorism outside the United Kingdom).
+
+#### [[^F261]Sexual Offences Act 2003
+
+**38ZA** An offence under section 66F of the Sexual Offences Act 2003 (requesting the creation of purported intimate image of adult).]
+
+#### [[^F262]Serious Crime Act 2015
+
+**38A** An offence under section 45 of the Serious Crime Act 2015 (participating in activities of organised crime group).]
+
+### Part 3 — Other offences: England and Wales
+
+**39** An offence of conspiracy falling within section 5(2) or (3) of the Criminal Law Act 1977 (c. 45) (forms of conspiracy not affected by abolition of offence of conspiracy at common law).
+
+**40** (1) An attempt under a special statutory provision.
+
+(2) Sub-paragraph (1) is to be read with section 3 of the Criminal Attempts Act 1981 (c. 47).
+
+### Part 4 — Offences under particular enactments: Northern Ireland
+
+#### Prison Act (Northern Ireland) 1953 (c. 18)
+
+**41** An offence under section 29(a) of the Prison Act (Northern Ireland) 1953 (rescuing or assisting a person sentenced to imprisonment for life, or in lawful custody for an offence carrying that sentence, to escape or attempt to escape) so far as it consists in assisting a person.
+
+**42** An offence under section 30(a) of that Act (rescuing or assisting a person sentenced to imprisonment for a term less than life, or in lawful custody for an offence carrying such a sentence, to escape or attempt to escape) so far as it consists in assisting a person.
+
+#### [[^F263]Criminal Justice Act (Northern Ireland) 1966 (c. 20)
+
+**42A** An offence under section 13(1) of the Criminal Justice Act (Northern Ireland) 1966 (encouraging or assisting suicide).]
+
+#### Criminal Law Act (Northern Ireland) 1967 (c. 18)
+
+**43** An offence under section 4(1) of the Criminal Law Act (Northern Ireland) 1967 (assisting persons who have committed an offence).
+
+#### Perjury (Northern Ireland) Order 1979 (S.I. 1979/1714 (N.I.19))
+
+**44** An offence under Article 12(2) of the Perjury (Northern Ireland) Order 1979 (inciting a person to commit an offence under that Order).
+
+#### Criminal Attempts and Conspiracy (Northern Ireland) Order 1983 (S.I. 1983/1120 (N.I.13))
+
+**45** An offence under Article 3(1) of the Criminal Attempts and Conspiracy (Northern Ireland) Order 1983 (attempting to commit an offence).
+
+**46** An offence under Article 9(1) of that Order (conspiracy).
+
+#### Public Processions (Northern Ireland) Act 1998 (c. 2)
+
+**47** An offence under section 8(8) of the Public Processions (Northern Ireland) Act 1998 (inciting commission of offences under section 8(7) of that Act).
+
+**48** An offence under section 9A(8) of that Act (inciting commission of offences under section 9A of that Act).
+
+#### Terrorism Act 2000 (c. 11)
+
+**49** An offence under section 60 of the Terrorism Act 2000 (inciting in Northern Ireland the commission of acts of terrorism outside the United Kingdom).
+
+### Part 5 — Other offences: Northern Ireland
+
+**50** An offence of conspiracy falling within Article 13(2) or (3) of the Criminal Attempts and Conspiracy (Northern Ireland) Order 1983 (S.I. 1983/1120 (N.I.13)) (forms of conspiracy not affected by abolition of offence of conspiracy at common law).
+
+## SCHEDULE 4 — Extra-territoriality
+
+*Section 52(2)*
+
+**1** (1) This paragraph applies if—
+
+(a) any relevant behaviour of D's takes place wholly or partly in England or Wales;
+
+(b) D knows or believes that what he anticipates might take place wholly or partly in a place outside England and Wales; and
+
+(c) either—
+
+(i) the anticipated offence is one that would be triable under the law of England and Wales if it were committed in that place; or
+
+(ii) if there are relevant conditions, it would be so triable if it were committed there by a person who satisfies the conditions.
+
+(2) “Relevant condition” means a condition that—
+
+(a) determines (wholly or in part) whether an offence committed outside England and Wales is nonetheless triable under the law of England and Wales; and
+
+(b) relates to the citizenship, nationality or residence of the person who commits it.
+
+**2** (1) This paragraph applies if—
+
+(a) paragraph 1 does not apply;
+
+(b) any relevant behaviour of D's takes place wholly or partly in England or Wales;
+
+(c) D knows or believes that what he anticipates might take place wholly or partly in a place outside England and Wales; and
+
+(d) what D anticipates would amount to an offence under the law in force in that place.
+
+(2) The condition in sub-paragraph (1)(d) is to be taken to be satisfied unless, not later than rules of court may provide, the defence serve on the prosecution a notice—
+
+(a) stating that on the facts as alleged the condition is not in their opinion satisfied;
+
+(b) showing their grounds for that opinion; and
+
+(c) requiring the prosecution to show that it is satisfied.
+
+(3) The court, if it thinks fit, may permit the defence to require the prosecution to show that the condition is satisfied without prior service of a notice under sub-paragraph (2).
+
+(4) In the Crown Court, the question whether the condition is satisfied is to be decided by the judge alone.
+
+(5) An act punishable under the law in force in any place outside England and Wales constitutes an offence under that law for the purposes of this paragraph, however it is described in that law.
+
+**3** (1) This paragraph applies if—
+
+(a) any relevant behaviour of D's takes place wholly outside England and Wales;
+
+(b) D knows or believes that what he anticipates might take place wholly or partly in a place outside England and Wales; and
+
+(c) D could be tried under the law of England and Wales if he committed the anticipated offence in that place.
+
+(2) For the purposes of sub-paragraph (1)(c), D is to be assumed to be able to commit the anticipated offence.
+
+**4** In relation to an offence under section 46, a reference in this Schedule to the anticipated offence is to be read as a reference to any of the offences specified in the indictment.
+
+## SCHEDULE 5 — Amendments relating to service law
+
+*Section 60*
+
+### Criminal Justice Act 1982 (c. 48)
+
+**1** In section 32 of the Criminal Justice Act 1982 (early release of prisoners), in subsection (2A) for “incitement” substitute “ encouragement and assistance ”.
+
+### Sexual Offences (Amendment) Act 1992 (c. 34)
+
+**2** In section 6 of the Sexual Offences (Amendment) Act 1992 (interpretation), in subsection (1A) for “incitement” substitute “ encouragement and assistance ”.
+
+### Powers of Criminal Courts (Sentencing) Act 2000 (c. 6)
+
+**3** In section 114 of the Powers of Criminal Courts (Sentencing) Act 2000 (offences under service law), in subsection (3) for “incitement” substitute “ encouragement and assistance ”.
+
+### Sexual Offences Act 2003 (c. 42)
+
+**4** (1) The Sexual Offences Act 2003 is amended as follows.
+
+(2) In paragraph 93A of Schedule 3 (sexual offences for purposes of Part 2), in sub-paragraph (3) for “incitement” substitute “ encouragement and assistance ”.
+
+(3) In paragraph 172A of Schedule 5 (other offences for purposes of Part 2), in sub-paragraph (2) for “incitement” substitute “ encouragement and assistance ”.
+
+### Criminal Justice Act 2003 (c. 44)
+
+**5** In section 233 of the Criminal Justice Act 2003 (offences under service law), in subsection (2) for “incitement” substitute “ encouragement and assistance ”.
+
+### Gambling Act 2005 (c. 19)
+
+**6** In Part 1 of Schedule 7 to the Gambling Act 2005 (relevant offences), in paragraph 22A for “incitement” substitute “ encouragement and assistance ”.
+
+### Armed Forces Act 2006 (c. 52)
+
+**7** The Armed Forces Act 2006 is amended as follows.
+
+**8** In section 39 (attempts), in subsection (4)(b) for “inciting another person to commit” substitute “ encouraging or assisting the commission of ”.
+
+**9** For section 40 (incitement) substitute—
+
+> **Encouraging and assisting**
+>
+> **40** (1) A person subject to service law commits an offence if he encourages or assists the commission of a service offence (other than an offence under section 42).
+>
+> (2) A civilian subject to service discipline commits an offence if he encourages or assists the commission of an offence mentioned in section 39(4).
+>
+> (3) Reference in this section to encouraging or assisting the commission of an offence is to the doing of an act that would have constituted an offence under Part 2 of the Serious Crime Act 2007 if the offence encouraged or assisted had been an offence under the law of England and Wales.
+>
+> (4) In determining whether an act would have constituted an offence under that Part, section 49(4) of that Act has effect as if for “offences under this Part and listed offences” it read “offences under sections 39 and 40 of the Armed Forces Act 2006”.
+>
+> (5) Any requirement in that Part to specify matters in an indictment applies for the purposes of this section as it applies for the purposes of that Part, but with references to the indictment being read as references to the charge sheet.
+>
+> (6) A person guilty of an offence under this section is liable to the same punishment as he would be liable to if guilty of—
+>
+> (a) the service offence encouraged or assisted; or
+>
+> (b) if convicted of the offence under this section by reference to more than one such service offence, any one of those service offences.
+
+**10** Accordingly, in the heading immediately before section 39 for “incitement” substitute “ encouragement and assistance ”.
+
+**11** For section 46 (inciting criminal conduct) substitute—
+
+> **Encouraging or assisting criminal conduct**
+>
+> **46** (1) Subsection (2) applies if a person subject to service law, or a civilian subject to service discipline, encourages or assists the doing of an act (or one or more of a number of acts) that, if done in England or Wales, would be punishable by the law of England and Wales.
+>
+> (2) Regardless of where that act (or those acts) might be done and of his state of mind with respect to that question, his encouragement or assistance shall be treated for the purposes of section 42(1) as an act that is punishable by the law of England and Wales (so far as it is not such an act in any event).
+>
+> (3) Reference in this section to encouraging or assisting is to an act that would constitute an offence under Part 2 of the Serious Crime Act 2007 disregarding any provision in that Part about the place where the act (or acts) being encouraged or assisted might be done or the accused's state of mind with respect to that question.
+
+**12** In section 48 (provision supplementary to sections 43 to 47), in subsection (1)(a) for “incitement” substitute “ encouragement or assistance ”.
+
+**13** In Schedule 2 (list of serious offences)—
+
+(a) in paragraph 11 for “inciting another person to commit” substitute “ encouraging or assisting the commission of ”;
+
+(b) in paragraph 13 for “of incitement to commit” substitute “ under Part 2 of the Serious Crime Act 2007 of encouraging or assisting the commission of ”.
+
+## SCHEDULE 6 — Minor and consequential amendments: Part 2
+
+*Section 63(1) and (2)*
+
+### Part 1 — References to common law offence of incitement
+
+**1** Section 30(4) of the Theft Act 1968 (c. 60) (restriction of proceedings against spouses and civil partners).
+
+**2** Section 1B(2) of the Biological Weapons Act 1974 (c. 6) (Revenue and Customs prosecutions).
+
+**3** Section 17(1) of the Industry Act 1975 (c. 68) (no criminal proceedings to lie in respect of contravention of a prohibition order).
+
+**4** Section 7(2)(ix) of the Sexual Offences (Amendment) Act 1976 (c. 82) (meaning of “rape offence” in relation to court martial proceedings).
+
+**5** In the Magistrates' Courts Act 1980 (c. 43)—
+
+(a) section 22(11)(b) (aggregation of value in relation to charges involving two or more scheduled offences);
+
+(b) section 103(2)(d) (written statement of child admissible in committal proceedings for certain offences);
+
+(c) paragraph 2 of Schedule 2 (offences for which the value involved is relevant to the mode of trial).
+
+**6** Article 8(1A) of the Criminal Justice (Northern Ireland) Order 1980 (S.I. 1980/704 (N.I.6)) (driving disqualification where vehicle used for the purposes of crime).
+
+**7** In the Betting and Gaming Duties Act 1981 (c. 63)—
+
+(a) section 9(5) (prohibitions for protection of revenue);
+
+(b) section 9A(4) (prohibitions for protection of revenue: overseas brokers).
+
+**8** In section 32(1) of the Criminal Justice Act 1982 (c. 48) (early release of prisoners)—
+
+(a) paragraph (b)(iv) (imprisonment for excluded offence etc.);
+
+(b) paragraph (c)(iv) (imprisonment for service offence corresponding to excluded offence etc.), inserted by paragraph 94(2) of Schedule 16 to the Armed Forces Act 2006 (c. 52).
+
+**9** Section 80(3)(c) of the Police and Criminal Evidence Act 1984 (c. 60) (compellability of accused's spouse or civil partner).
+
+**[^F264]10** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**11** Section 12(6)(a) of the Outer Space Act 1986 (c. 38) (offences).
+
+**12** Section 30(4) of the Gas Act 1986 (c. 44) (no criminal proceedings to lie in respect of contravention of final or provisional order).
+
+**13** Section 7(1) of the Public Order Act 1986 (c. 64) (consent of DPP to prosecution).
+
+**14** Section 2(3)(ba) of the Ministry of Defence Police Act 1987 (c. 4) (jurisdiction of members of MoD police).
+
+**15** In the Road Traffic Offenders Act 1988 (c. 53)—
+
+(a) section 28(2) (penalty points to be attributed to an offence);
+
+(b) section 34(5) (disqualification for certain offences);
+
+(c) section 35(5A) (disqualification for repeated offences).
+
+**16** Paragraph 2(a) of Schedule 1 to the Football Spectators Act 1989 (c. 37) (offences).
+
+**17** Article 79(3)(c) of the Police and Criminal Evidence (Northern Ireland) Order 1989 (S.I. 1989/1341 (N.I.12)) (compellability of accused's spouse or civil partner).
+
+**18** In the Aviation and Maritime Security Act 1990 (c. 31)—
+
+(a) section 11(3)(b) (destroying ships or fixed platforms or endangering their safety);
+
+(b) section 15(2)(c) (master's power of delivery).
+
+**19** In the Criminal Justice Act 1991 (c. 53)—
+
+(a) section 53(7) (cases involving children in which notice of transfer may be given);
+
+(b) section 86A(4) (offences in respect of which prisoner custody officers have powers in relation to persons other than prisoners).
+
+**20** In the Sexual Offences (Amendment) Act 1992 (c. 34)—
+
+(a) subsections (1)(g) and (3)(k) of section 2 (offences to which Act applies);
+
+(b) section 6(2A) (person who is to be treated as person against whom inchoate offences are committed).
+
+**21** In the Criminal Justice Act 1993 (c. 36)—
+
+(a) section 1(3)(d) (Group B offences);
+
+(b) section 5(4) (incitement to commit Group A offence).
+
+**[^F265]22** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**23** Section 27 of the Antarctic Act 1994 (c. 15) (references to offences under the Act).
+
+**24** Section 9A(4) of the Criminal Justice and Public Order Act 1994 (c. 33) (offences in respect of which custody officers at contracted out secure training centres have powers in relation to persons other than those detained in the centre).
+
+**25** Paragraph (b) of the definition of “specified offence” in section 60(6) of the Drug Trafficking Act 1994 (c. 37) (Revenue and Customs prosecutions).
+
+**[^F266]26** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**27** Article 4(1A) and (7) of the Children's Evidence (Northern Ireland) Order 1995 (S.I. 1995/757 (N.I.3)) (cases involving children in which notice of transfer may be given).
+
+**28** Section 30A(2) of the Chemical Weapons Act 1996 (c. 6) (Revenue and Customs prosecutions).
+
+**29** Section 29(6)(i) of the Criminal Procedure and Investigations Act 1996 (c. 25) (meaning of “terrorism offence” for purpose of requirement to hold preparatory hearing).
+
+**30** In the Sexual Offences (Conspiracy and Incitement) Act 1996 (c. 29)—
+
+(a) section 2(1) and (2) (incitement to commit certain sexual acts outside the United Kingdom);
+
+(b) section 3(8) (extended meaning of offence of incitement to commit a listed sexual offence).
+
+**31** In the Proceeds of Crime (Northern Ireland) Order 1996 (S.I. 1996/1299 (N.I.9))—
+
+(a) paragraph (h) of the definition of “drug trafficking offence” in Article 2(2) (interpretation);
+
+(b) paragraph (b) of the definition of “specified offence” in Article 55 (Revenue and Customs prosecutions).
+
+**32** In the Road Traffic Offenders (Northern Ireland) Order 1996 (S.I. 1996/1320 (N.I.10))—
+
+(a) Article 30(2) (penalty points to be attributed to an offence);
+
+(b) Article 35(6) (disqualification for certain offences);
+
+(c) Article 40(7) (disqualification for repeated offences).
+
+**33** In the Criminal Justice (Northern Ireland) Order 1996 (S.I. 1996/3160 (N.I.24)) —
+
+(a) Article 38(3)(d) (Group B offences);
+
+(b) Article 42(2) (incitement to commit Group A offence).
+
+**34** Paragraph 8 of the Schedule to the Sexual Offences (Protected Material) Act 1997 (c. 39) (sexual offences for the purposes of that Act).
+
+**35** Section 14(2)(d) of the Northern Ireland (Sentences) Act 1998 (c. 35) (inadmissibility).
+
+**36** Section 51C(3)(e) of the Crime and Disorder Act 1998 (c. 37) (notices in certain cases involving children).
+
+**37** Section 62(2) of the Youth Justice and Criminal Evidence Act 1999 (c. 23) (meaning of “sexual offence” and other references to offences).
+
+**38** Article 3(2) of the Criminal Evidence (Northern Ireland) Order 1999 (S.I. 1999/2789 (N.I.8)) (meaning of “sexual offence” and other references to offences).
+
+**[^F267]39** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**40** Paragraph 3(t)(i) of Schedule 4 to the Criminal Justice and Court Services Act 2000 (c. 43) (meaning of “offence against a child”).
+
+**41** Section 34(1)(g) of the Criminal Justice and Police Act 2001 (c. 16) (meaning of “drug trafficking offence”).
+
+**42** Sections 55(1)(b) and 62(1)(b) of the International Criminal Court Act 2001 (c. 17) (meaning of “ancillary offence”).
+
+**43** Section 53(2) of the Anti-terrorism, Crime and Security Act 2001 (c. 24) (Revenue and Customs prosecutions).
+
+**44** In the Proceeds of Crime Act 2002 (c. 29)—
+
+(a) section 340(11)(b) (interpretation of Part 7: money laundering);
+
+(b) section 415(2)(a) (money laundering offences for purposes of Part 8: investigations);
+
+(c) section 447(9)(b) (interpretation of Part 11: national and international co-operation);
+
+(d) section 451(6)(c) (Revenue and Customs prosecutions).
+
+**45** Section 4 of the Dealing in Cultural Objects (Offences) Act 2003 (c. 27) (Revenue and Customs prosecutions).
+
+**46** Section 142(7)(a) of the Extradition Act 2003 (c. 41) (extradition from category 1 territory to the United Kingdom).
+
+**47** Paragraph 3(a) of Schedule 2 to the Sexual Offences Act 2003 (c. 42) (sexual offences to which section 72 of that Act applies).
+
+**48** In the Criminal Justice Act 2003 (c. 44)—
+
+(a) in Schedule 15 (specified violent and sexual offences for the purposes of Chapter 5 of Part 12 of that Act), paragraphs 64(a) and 153(a);
+
+(b) in Schedule 17 (Northern Ireland violent and sexual offences specified for the purposes of section 229(4) of that Act), paragraphs 61(a) and 110(a).
+
+**49** Paragraph 3(i)(i) of the Schedule to the Protection of Children and Vulnerable Adults (Northern Ireland) Order 2003 (S.I. 2003/417 (N.I.4)) (meaning of “offence against a child”).
+
+**50** Section 14 of the Gangmasters (Licensing) Act 2004 (c. 11) (enforcement officer's power of arrest).
+
+**51** Section 76(3)(p) of the Serious Organised Crime and Police Act 2005 (c. 15) (offences giving rise to financial reporting order).
+
+**52** In the Terrorism Act 2006 (c. 11)—
+
+(a) section 17(2)(f) (commission of offences abroad);
+
+(b) paragraph 12(b) of Schedule 1 (Convention offences).
+
+### Part 2 — Other minor and consequential amendments
+
+#### Misuse of Drugs Act 1971 (c. 38)
+
+**53** In section 19 of the Misuse of Drugs Act 1971 for “such an offence” substitute “ an offence under any other provision of this Act ”.
+
+#### Criminal Law Act 1977 (c. 45)
+
+**54** In section 5 of the Criminal Law Act 1977 (effects of creation of statutory offence of conspiracy) omit subsection (7).
+
+#### Magistrates' Courts Act 1980 (c. 43)
+
+**55** (1) The Magistrates' Courts Act 1980 is amended as follows.
+
+(2) In section 32(1) (penalties for offences triable either way as a result of Schedule 1 to that Act) omit paragraph (b).
+
+(3) Omit section 45.
+
+(4) In Schedule 1 (offences triable either way) omit paragraph 35.
+
+#### Magistrates' Courts (Northern Ireland) Order 1981 (S.I. 1981/1675 (N.I.26))
+
+**56** Omit Article 60(1) of the Magistrates' Courts (Northern Ireland) Order 1981.
+
+#### Criminal Attempts and Conspiracy (Northern Ireland) Order 1983 (S.I. 1983/1120 (N.I.13))
+
+**57** In Article 13 of the Criminal Attempts and Conspiracy (Northern Ireland) Order 1983 (effects of creation of statutory offence of conspiracy) omit paragraph (8).
+
+#### Public Order Act 1986 (c. 64)
+
+**58** (1) The Public Order Act 1986 is amended as follows.
+
+(2) In each of the provisions mentioned in sub-paragraph (3) omit the words from “notwithstanding” to the end.
+
+(3) The provisions are—
+
+(a) section 12(10);
+
+(b) section 13(13);
+
+(c) section 14(10);
+
+(d) section 14B(7).
+
+#### Computer Misuse Act 1990 (c. 18)
+
+**59** (1) The Computer Misuse Act 1990 is amended as follows.
+
+(2) In section 6 (incitement) omit subsection (3).
+
+(3) In section 7 (territorial scope of inchoate offences related to offences under external law corresponding to offences under the Act) omit subsection (4).
+
+(4) In section 8(3) (relevance of external law) omit “or by virtue of section 7(4) above”.
+
+(5) In section 9(2) (offences in relation to which British citizenship is immaterial) omit paragraph (d).
+
+(6) In section 16(4) (application to Northern Ireland) omit the words from “and any reference” to the end.
+
+#### Sexual Offences (Conspiracy and Incitement) Act 1996 (c. 29)
+
+**60** In section 2(3) of the Sexual Offences (Conspiracy and Incitement) Act 1996 for “of incitement” substitute “ done ”.
+
+#### International Criminal Court Act 2001 (c. 17)
+
+**61** (1) The International Criminal Court Act 2001 is amended as follows.
+
+(2) In section 55 (meaning of ancillary offence: England and Wales) omit subsection (3).
+
+(3) In section 62 (meaning of ancillary offence: Northern Ireland) omit subsection (3).
+
+#### Proceeds of Crime Act 2002 (c. 29)
+
+**62** After sub-paragraph (1) in each of paragraph 10 of Schedule 2 to the Proceeds of Crime Act 2002 and paragraph 10 of Schedule 5 to that Act (inchoate offences which are lifestyle offences) insert the following sub-paragraph—
+
+> (1A) An offence under section 44 of the Serious Crime Act 2007 of doing an act capable of encouraging or assisting the commission of an offence specified in this Schedule.
+
+#### Sexual Offences Act 2003 (c. 42)
+
+**63** (1) The Sexual Offences Act 2003 is amended as follows.
+
+(2) In Schedule 3 (sexual offences for the purposes of Part 2 of that Act), after paragraph 94, insert—
+
+> **94A** A reference in a preceding paragraph to an offence (“offence A”) includes a reference to an offence under Part 2 of the Serious Crime Act 2007 in relation to which offence A is the offence (or one of the offences) which the person intended or believed would be committed.
+
+(3) In Schedule 5 (other offences which are relevant for the purposes of Part 2 of the Act), after paragraph 173, insert—
+
+> **173A** A reference in a preceding paragraph to an offence (“offence A”) includes a reference to an offence under Part 2 of the Serious Crime Act 2007 in relation to which offence A is the offence (or one of the offences) which the person intended or believed would be committed.
+
+#### Serious Organised Crime and Police Act 2005 (c. 15)
+
+**64** (1) The Serious Organised Crime and Police Act 2005 is amended as follows.
+
+(2) In section 136 (penalties in relation to demonstrations in the vicinity of Parliament) for subsection (4) substitute—
+
+> (4) A person who is guilty of an offence under section 44 or 45 of the Serious Crime Act 2007 in relation to which an offence mentioned in subsection (1), (2) or (3) is the anticipated offence (as defined by section 47(9) of that Act) is liable on summary conviction to imprisonment for a term not exceeding 51 weeks, to a fine not exceeding level 4 on the standard scale or to both.
+>
+> (4A) If a person is guilty of an offence under section 46 of that Act by reference to an offence mentioned in subsection (1), (2) or (3), the maximum term of imprisonment applicable for the purposes of section 58(6) of that Act to the offence so mentioned is a term not exceeding 51 weeks.
+
+(3) In section 175(3) (transitional modification of penalties for summary offences in England and Wales) in the table, for the entry relating to section 136(4) substitute—
+
+> |  |  |
+> |---|---|
+> | section 136(4) | 3 months |
+> | section 136(4A) | 3 months |
+
+.
+
+## SCHEDULE 7 — Data matching
+
+*Section 73*
+
+### [^F268]Part 1 — Data matching: England
+
+**[^F268]1** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F268]2** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F268]3** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Part 2 — Data matching: Wales
+
+**4** After Part 3 of the Public Audit (Wales) Act 2004 (c. 23) insert—
+
+> **Part 3A — Data matching**
+>
+> **Power to conduct data matching exercises**
+>
+> **64A** (1) The Auditor General for Wales may conduct data matching exercises or arrange for them to be conducted on his behalf.
+>
+> (2) A data matching exercise is an exercise involving the comparison of sets of data to determine how far they match (including the identification of any patterns and trends).
+>
+> (3) The power in subsection (1) is exercisable for the purpose of assisting in the prevention and detection of fraud in or with respect to Wales.
+>
+> (4) That assistance may, but need not, form part of an audit.
+>
+> (5) A data matching exercise may not be used to identify patterns and trends in an individual's characteristics or behaviour which suggest nothing more than his potential to commit fraud in the future.
+>
+> (6) In the following provisions of this Part, reference to a data matching exercise is to an exercise conducted or arranged to be conducted under this section.
+>
+> **Mandatory provision of data**
+>
+> **64B** (1) The Auditor General for Wales may require—
+>
+> (a) any body mentioned in subsection (2), and
+>
+> (b) any officer or member of such a body,
+>
+> to provide the Auditor General or a person acting on his behalf with such data (and in such form) as the Auditor General or that person may reasonably require for the purpose of conducting data matching exercises.
+>
+> (2) The bodies are—
+>
+> (a) a local government body in Wales (as defined in section 12(1));
+>
+> (b) a Welsh NHS body (as defined in section 60).
+>
+> (3) A person who without reasonable excuse fails to comply with a requirement of the Auditor General under subsection (1)(b) is guilty of an offence and liable on summary conviction—
+>
+> (a) to a fine not exceeding level 3 on the standard scale, and
+>
+> (b) to an additional fine not exceeding £20 for each day on which the offence continues after conviction for that offence.
+>
+> (4) If an officer or member of a body is convicted of an offence under subsection (3), any expenses incurred by the Auditor General in connection with proceedings for the offence, so far as not recovered from any other source, are recoverable from that body.
+>
+> **Voluntary provision of data**
+>
+> **64C** (1) If the Auditor General for Wales thinks it appropriate to conduct a data matching exercise using data held by or on behalf of a body or person not subject to section 64B, the data may be disclosed to the Auditor General or a person acting on his behalf.
+>
+> (2) A disclosure under subsection (1) does not breach—
+>
+> (a) any obligation of confidence owed by a person making the disclosure, or
+>
+> (b) any other restriction on the disclosure of information (however imposed).
+>
+> (3) But nothing in this section authorises a disclosure which—
+>
+> (a) contravenes the Data Protection Act 1998 (c. 29), or
+>
+> (b) is prohibited by Part 1 of the Regulation of Investigatory Powers Act 2000 (c. 23).
+>
+> (4) Data may not be disclosed under subsection (1) if the data comprise or include patient data.
+>
+> (5) “Patient data” means data relating to an individual which are held for medical purposes (within the meaning of section 251 of the National Health Service Act 2006 (c. 41)) and from which the individual can be identified.
+>
+> (6) This section does not limit the circumstances in which data may be disclosed apart from this section.
+>
+> (7) Data matching exercises may include data provided by a body or person outside England and Wales.
+>
+> **Disclosure of results of data matching etc**
+>
+> **64D** (1) This section applies to the following information—
+>
+> (a) information relating to a particular body or person obtained by or on behalf of the Auditor General for Wales for the purpose of conducting a data matching exercise,
+>
+> (b) the results of any such exercise.
+>
+> (2) Information to which this section applies may be disclosed by or on behalf of the Auditor General for Wales if the disclosure is—
+>
+> (a) for or in connection with a purpose for which the data matching exercise is conducted,
+>
+> (b) to a body mentioned in subsection (3) (or a related party) for or in connection with a function of that body corresponding or similar to the functions of an auditor under Chapter 1 of Part 2 or the functions of the Auditor General under Part 3 or this Part, or
+>
+> (c) in pursuance of a duty imposed by or under a statutory provision.
+>
+> (3) The bodies are—
+>
+> (a) the Audit Commission,
+>
+> (b) the Auditor General for Scotland,
+>
+> (c) the Accounts Commission for Scotland,
+>
+> (d) Audit Scotland,
+>
+> (e) the Comptroller and Auditor General for Northern Ireland,
+>
+> (f) a person designated as a local government auditor under Article 4 of the Local Government (Northern Ireland) Order 2005 (S.I. 2005/1968 (N.I.18)).
+>
+> (4) “Related party”, in relation to a body mentioned in subsection (3), means—
+>
+> (a) a body or person acting on its behalf,
+>
+> (b) a body whose accounts are required to be audited by it or by a person appointed by it,
+>
+> (c) a person appointed by it to audit those accounts.
+>
+> (5) If the data used for a data matching exercise include patient data—
+>
+> (a) subsection (2)(a) applies only so far as the purpose for which the disclosure is made relates to a relevant NHS body,
+>
+> (b) subsection (2)(b) applies only so far as the function for or in connection with which the disclosure is made relates to such a body.
+>
+> (6) In subsection (5)—
+>
+> (a) “patient data” has the same meaning as in section 64C,
+>
+> (b) “relevant NHS body” means—
+>
+> (i) a Welsh NHS body as defined in section 60,
+>
+> (ii) a health service body as defined in section 53(1) of the Audit Commission Act 1998 (c. 18),
+>
+> (iii) an NHS body as defined in section 22(1) of the Community Care and Health (Scotland) Act 2002 (asp 5),
+>
+> (iv) a body to which Article 90 of the Health and Personal Social Services (Northern Ireland) Order 1972 (S.I. 1972/1265 (N.I.14)) applies.
+>
+> (7) Information disclosed under subsection (2) may not be further disclosed except—
+>
+> (a) for or in connection with the purpose for which it was disclosed under paragraph (a) or the function for which it was disclosed under paragraph (b) of that subsection,
+>
+> (b) for the investigation or prosecution of an offence (so far as the disclosure does not fall within paragraph (a)), or
+>
+> (c) in pursuance of a duty imposed by or under a statutory provision.
+>
+> (8) Except as authorised by subsections (2) and (7), a person who discloses information to which this section applies is guilty of an offence and liable—
+>
+> (a) on conviction on indictment, to imprisonment for a term not exceeding two years, to a fine or to both, or
+>
+> (b) on summary conviction, to imprisonment for a term not exceeding 12 months, to a fine not exceeding the statutory maximum or to both.
+>
+> (9) Section 54 does not apply to information to which this section applies.
+>
+> (10) In this section “statutory provision” has the meaning given in section 59(8).
+>
+> **Publication**
+>
+> **64E** (1) Nothing in section 64D prevents the Auditor General for Wales from publishing a report on a data matching exercise (including on the results of the exercise).
+>
+> (2) But the report may not include information relating to a particular body or person if—
+>
+> (a) the body or person is the subject of any data included in the data matching exercise,
+>
+> (b) the body or person can be identified from the information, and
+>
+> (c) the information is not otherwise in the public domain.
+>
+> (3) A report published under this section may be published in any manner which the Auditor General considers appropriate for bringing it to the attention of those members of the public who may be interested.
+>
+> (4) This section does not affect any powers of an auditor or the Auditor General where the data matching exercise in question forms part of an audit under Part 2 or 3.
+>
+> **Fees for data matching**
+>
+> **64F** (1) The Auditor General for Wales must prescribe a scale or scales of fees in respect of data matching exercises.
+>
+> (2) A body required under section 64B(1) to provide data for a data matching exercise must pay to the Auditor General the fee applicable to that exercise in accordance with the appropriate scale.
+>
+> (3) But if it appears to the Auditor General that the work involved in the exercise was substantially more or less than that envisaged by the appropriate scale, the Auditor General may charge the body a fee which is larger or smaller than that referred to in subsection (2).
+>
+> (4) Before prescribing a scale of fees under this section, the Auditor General must consult—
+>
+> (a) the bodies mentioned in section 64B(2), and
+>
+> (b) such other bodies or persons as the Auditor General thinks fit.
+>
+> (5) If the Welsh Ministers consider it necessary or desirable to do so, they may by regulations prescribe a scale or scales of fees to have effect, for such period as is specified in the regulations, in place of any scale or scales of fees prescribed by the Auditor General and, if they do so, references in this section to the appropriate scale are to be read as respects that period as references to the appropriate scale prescribed by the Welsh Ministers.
+>
+> (6) Before making any regulations under subsection (5), the Welsh Ministers must consult—
+>
+> (a) the Auditor General for Wales, and
+>
+> (b) such other bodies or persons as they think fit.
+>
+> (7) The power under subsection (5) is exercisable by statutory instrument subject to annulment in pursuance of a resolution of the Assembly.
+>
+> (8) In addition to the power under subsection (2), the Auditor General may charge a fee to any other body or person providing data for or receiving the results of a data matching exercise, such fee to be payable in accordance with terms agreed between the Auditor General and that body or person.
+>
+> **Code of data matching practice**
+>
+> **64G** (1) The Auditor General for Wales must prepare, and keep under review, a code of practice with respect to data matching exercises.
+>
+> (2) Regard must be had to the code in conducting and participating in any such exercise.
+>
+> (3) Before preparing or altering the code, the Auditor General must consult the bodies mentioned in section 64B(2), the Information Commissioner and such other bodies or persons as the Auditor General thinks fit.
+>
+> (4) The Auditor General must—
+>
+> (a) lay a copy of the code, and of any alterations made to the code, before the Assembly, and
+>
+> (b) from time to time publish the code as for the time being in force.
+>
+> **Powers of Secretary of State**
+>
+> **64H** (1) The Secretary of State may by order amend this Part—
+>
+> (a) to add any purpose mentioned in subsection (2) to the purposes for which data matching exercises may be conducted,
+>
+> (b) to modify the application of this Part in relation to a purpose so added.
+>
+> (2) The purposes which may be added are—
+>
+> (a) to assist in the prevention and detection of crime (other than fraud) in or with respect to Wales,
+>
+> (b) to assist in the apprehension and prosecution of offenders in or with respect to Wales,
+>
+> (c) to assist in the recovery of debt owing to Welsh public bodies.
+>
+> (3) The Secretary of State may by order amend this Part—
+>
+> (a) to add a Welsh public body to the list of bodies in section 64B(2),
+>
+> (b) to modify the application of this Part in relation to a body so added,
+>
+> (c) to remove a body from that list.
+>
+> (4) Before making an order under this section, the Secretary of State must consult the Auditor General for Wales.
+>
+> (5) An order under this section—
+>
+> (a) is to be made by statutory instrument, and
+>
+> (b) may include such incidental, consequential, supplemental or transitional provision as the Secretary of State thinks fit.
+>
+> (6) No order under this section may be made unless a draft of the statutory instrument has been laid before, and approved by a resolution of, each House of Parliament.
+>
+> (7) In this section “Welsh public body” means a public body (as defined in section 12(3)) whose functions relate exclusively to Wales or an area of Wales.
+
+**5** (1) Paragraph 9 of Schedule 8 to the Government of Wales Act 2006 (c. 32) (special finance provisions) is amended as follows.
+
+(2) In sub-paragraph (3)(b) after “government audit)” insert “ or, so far as the functions relate to local government bodies in Wales, Part 3A of that Act (data matching) ”.
+
+(3) In sub-paragraph (4)(c) for the words from “Part 2” to the end substitute
+
+> the following provisions of the Public Audit (Wales) Act 2004 (c. 23)—
+>
+> (i) Part 2 (including those charged as a result of paragraph 11(3)(c)),
+>
+> (ii) Part 3A (but only those charged to a local government body in Wales).
+
+(4) After sub-paragraph (4) insert—
+
+> (5) “Local government body in Wales” has the meaning given in section 12(1) of the Public Audit (Wales) Act 2004.
+
+### Part 3 — Data matching: Northern Ireland
+
+**6** After Article 4 of the Audit and Accountability (Northern Ireland) Order 2003 (S.I. 2003/418 (N.I.5)) insert—
+
+> **Data matching**
+>
+> **Power to conduct data matching exercises**
+>
+> **4A** (1) The Comptroller and Auditor General may conduct data matching exercises or arrange for them to be conducted on his behalf.
+>
+> (2) A data matching exercise is an exercise involving the comparison of sets of data to determine how far they match (including the identification of any patterns and trends).
+>
+> (3) The power in paragraph (1) is exercisable for the purpose of assisting in the prevention and detection of fraud.
+>
+> (4) That assistance may, but need not, form part of an audit.
+>
+> (5) A data matching exercise may not be used to identify patterns and trends in an individual's characteristics or behaviour which suggest nothing more than his potential to commit fraud in the future.
+>
+> (6) In Articles 4B to 4H, reference to a data matching exercise is to an exercise conducted or arranged to be conducted under this Article.
+>
+> **Mandatory provision of data**
+>
+> **4B** (1) The Comptroller and Auditor General may require—
+>
+> (a) any body mentioned in paragraph (2); and
+>
+> (b) any officer or member of such a body,
+>
+> to provide the Comptroller and Auditor General or a person acting on his behalf with such data (and in such form) as the Comptroller and Auditor General or that person may reasonably require for the purpose of conducting data matching exercises.
+>
+> (2) The bodies are—
+>
+> (a) any body (including a holder of a statutory office) whose accounts are required to be audited by the Comptroller and Auditor General, other than a body whose accounts are required to be so audited by virtue of section 55 of the Northern Ireland Act 1998 (c. 47);
+>
+> (b) any body whose accounts are required to be audited by a local government auditor.
+>
+> (3) A person who without reasonable excuse fails to comply with a requirement of the Comptroller and Auditor General under paragraph (1)(b) is guilty of an offence and liable on summary conviction—
+>
+> (a) to a fine not exceeding level 3 on the standard scale; and
+>
+> (b) to an additional fine not exceeding £20 for each day on which the offence continues after conviction for that offence.
+>
+> (4) If an officer or member of a body is convicted of an offence under paragraph (3), any expenses incurred by the Comptroller and Auditor General in connection with proceedings for the offence, so far as not recovered from any other source, are recoverable from that body.
+>
+> **Voluntary provision of data**
+>
+> **4C** (1) If the Comptroller and Auditor General thinks it appropriate to conduct a data matching exercise using data held by or on behalf of a body or person not subject to Article 4B, the data may be disclosed to the Comptroller and Auditor General or a person acting on his behalf.
+>
+> (2) A disclosure under paragraph (1) does not breach—
+>
+> (a) any obligation of confidence owed by a person making the disclosure; or
+>
+> (b) any other restriction on the disclosure of information (however imposed).
+>
+> (3) But nothing in this Article authorises a disclosure which—
+>
+> (a) contravenes the Data Protection Act 1998 (c. 29); or
+>
+> (b) is prohibited by Part 1 of the Regulation of Investigatory Powers Act 2000 (c. 23).
+>
+> (4) Data may not be disclosed under paragraph (1) if the data comprise or include patient data.
+>
+> (5) “Patient data” means data relating to an individual which are held for any of the following purposes and from which the individual can be identified—
+>
+> (a) preventative medicine, medical diagnosis, medical research, the provision of care and treatment and the management of health and social care services;
+>
+> (b) informing individuals about their physical or mental health or condition, the diagnosis of their condition or their care and treatment.
+>
+> (6) This Article does not limit the circumstances in which data may be disclosed apart from this Article.
+>
+> (7) Data matching exercises may include data provided by a body or person outside Northern Ireland.
+>
+> **Disclosure of results of data matching etc**
+>
+> **4D** (1) This Article applies to the following information—
+>
+> (a) information relating to a particular body or person obtained by or on behalf of the Comptroller and Auditor General for the purpose of conducting a data matching exercise;
+>
+> (b) the results of any such exercise.
+>
+> (2) Information to which this Article applies may be disclosed by or on behalf of the Comptroller and Auditor General if the disclosure is—
+>
+> (a) for or in connection with a purpose for which the data matching exercise is conducted;
+>
+> (b) to a body mentioned in paragraph (3) (or a related party) for or in connection with a function of that body corresponding or similar to the audit functions of the Comptroller and Auditor General or a local government auditor under any statutory provision or the data matching functions of the Comptroller and Auditor General under Article 4A; or
+>
+> (c) in pursuance of a duty imposed by or under a statutory provision.
+>
+> (3) The bodies are—
+>
+> (a) the Audit Commission for Local Authorities and the National Health Service in England;
+>
+> (b) the Auditor General for Wales;
+>
+> (c) the Auditor General for Scotland;
+>
+> (d) the Accounts Commission for Scotland;
+>
+> (e) Audit Scotland.
+>
+> (4) “Related party”, in relation to a body mentioned in paragraph (3), means—
+>
+> (a) a body or person acting on its behalf;
+>
+> (b) a body whose accounts are required to be audited by it or by a person appointed by it;
+>
+> (c) a person appointed by it to audit those accounts.
+>
+> (5) If the data used for a data matching exercise include patient data—
+>
+> (a) paragraph (2)(a) applies only so far as the purpose for which the disclosure is made relates to a relevant NHS body;
+>
+> (b) paragraph (2)(b) applies only so far as the function for or in connection with which the disclosure is made relates to such a body.
+>
+> (6) In paragraph (5)—
+>
+> (a) “patient data” has the same meaning as in Article 4C;
+>
+> (b) “relevant NHS body” means—
+>
+> (i) a body to which Article 90 of the Health and Personal Social Services (Northern Ireland) Order 1972 (NI 14) applies;
+>
+> (ii) a health service body as defined in section 53(1) of the Audit Commission Act 1998 (c. 18);
+>
+> (iii) a Welsh NHS body as defined in section 60 of the Public Audit (Wales) Act 2004 (c. 23);
+>
+> (iv) an NHS body as defined in section 22(1) of the Community Care and Health (Scotland) Act 2002 (asp 5).
+>
+> (7) Information disclosed under paragraph (2) may not be further disclosed except—
+>
+> (a) for or in connection with the purpose for which it was disclosed under sub-paragraph (a) or the function for which it was disclosed under sub-paragraph (b) of that paragraph;
+>
+> (b) for the investigation or prosecution of an offence (so far as the disclosure does not fall within sub-paragraph (a)); or
+>
+> (c) in pursuance of a duty imposed by or under a statutory provision.
+>
+> (8) Except as authorised by paragraphs (2) and (7), a person who discloses information to which this Article applies is guilty of an offence and liable—
+>
+> (a) on conviction on indictment, to imprisonment for a term not exceeding two years, to a fine or to both; or
+>
+> (b) on summary conviction, to imprisonment for a term not exceeding 6 months, to a fine not exceeding the statutory maximum or to both.
+>
+> (9) Article 27 of the Local Government (Northern Ireland) Order 2005 (NI 18) does not apply to information to which this Article applies.
+>
+> (10) In this Article “body” includes office.
+>
+> **Publication**
+>
+> **4E** (1) Nothing in Article 4D prevents the Comptroller and Auditor General from publishing a report on a data matching exercise (including on the results of the exercise).
+>
+> (2) But the report may not include information relating to a particular body or person if—
+>
+> (a) the body or person is the subject of any data included in the data matching exercise;
+>
+> (b) the body or person can be identified from the information; and
+>
+> (c) the information is not otherwise in the public domain.
+>
+> (3) A report published under this Article may be published in such manner as the Comptroller and Auditor General considers appropriate for bringing it to the attention of those members of the public who may be interested.
+>
+> (4) This Article does not affect any powers of the Comptroller and Auditor General or a local government auditor where the data matching exercise in question forms part of an audit carried out by either of them.
+>
+> **Fees for data matching**
+>
+> **4F** (1) The Comptroller and Auditor General may charge a fee to any body required under Article 4B(1) to provide data for a data matching exercise.
+>
+> (2) But a body whose functions are discharged on behalf of the Crown may not be charged a fee under paragraph (1) except with the consent of the Department.
+>
+> (3) In addition to the power under paragraph (1), the Comptroller and Auditor General may charge a fee to any other body or person providing data for or receiving the results of a data matching exercise, such fee to be payable in accordance with terms agreed between the Comptroller and Auditor General and that body or person.
+>
+> (4) Any fee received by the Comptroller and Auditor General by virtue of this Article is to be paid by him into the Consolidated Fund.
+>
+> **Code of data matching practice**
+>
+> **4G** (1) The Comptroller and Auditor General must prepare, and keep under review, a code of practice with respect to data matching exercises.
+>
+> (2) Regard must be had to the code in conducting and participating in any such exercise.
+>
+> (3) Before preparing or altering the code, the Comptroller and Auditor General must consult the bodies mentioned in Article 4B(2), the Information Commissioner and such other bodies or persons as he thinks fit.
+>
+> (4) The Comptroller and Auditor General must—
+>
+> (a) send a copy of the code, and of any alterations made to the code, to the Department and the Department must lay the copy before the Assembly; and
+>
+> (b) from time to time publish the code as for the time being in force.
+>
+> **Powers of the Department**
+>
+> **4H** (1) The Department may by order amend Articles 4A to 4G—
+>
+> (a) to add any purpose mentioned in paragraph (2) to the purposes for which data matching exercises may be conducted;
+>
+> (b) to modify the application of those Articles in relation to a purpose so added.
+>
+> (2) The purposes which may be added are—
+>
+> (a) to assist in the prevention and detection of crime (other than fraud);
+>
+> (b) to assist in the apprehension and prosecution of offenders;
+>
+> (c) to assist in the recovery of debt owing to public bodies.
+>
+> (3) The Department may by order amend Articles 4A to 4G—
+>
+> (a) to add a public body to the list of bodies in Article 4B(2);
+>
+> (b) to modify the application of those Articles in relation to a body so added;
+>
+> (c) to remove a body from that list.
+>
+> (4) An order under this Article may include such incidental, consequential, supplemental or transitional provision as the Department thinks fit.
+>
+> (5) An order under this Article is subject to affirmative resolution.
+>
+> (6) In this Article “public body” means a body or person whose functions—
+>
+> (a) are functions of a public nature; or
+>
+> (b) include functions of that nature,
+>
+> but, in the latter case, the body or person is a public body to the extent only of those functions.
+
+**7** In Article 6 of the Audit (Northern Ireland) Order 1987 (S.I. 1987/460 (N.I.5)) (expenses and accounts of Northern Ireland Audit Office), in paragraph (5) after “examination” insert “ or in respect of data matching ”.
+
+## SCHEDULE 8 — Abolition of Assets Recovery Agency and its Director
+
+*Section 74(2)*
+
+### Part 1 — Abolition of confiscation functions
+
+**1** The Proceeds of Crime Act 2002 (c. 29) is amended as follows.
+
+**2** In section 6(3)(a) (making of confiscation orders in England and Wales) omit “or the Director”.
+
+**3** In section 11(7) (time for payment of order) omit paragraph (b) and the word “or” before it.
+
+**[^F269]4** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**5** (1) Section 16 (statement of information) is amended as follows.
+
+(2) In subsection (1) omit “or the Director (as the case may be)”.
+
+(3) In subsection (3) omit—
+
+(a) “or the Director (as the case may be)”; and
+
+(b) “or the Director”.
+
+(4) In subsection (4) omit “or Director”.
+
+(5) In subsection (5) omit—
+
+(a) “or the Director (as the case may be)”; and
+
+(b) “or the Director”.
+
+(6) In subsection (6) omit “or the Director”.
+
+**6** In section 17(1) (defendant's response to statement of information) omit “or the Director”.
+
+**7** In section 18(6) (provision of information by defendant) omit “or the Director (as the case may be)”.
+
+**8** In section 19(1)(c) (no order made: reconsideration of case) omit “or the Director”.
+
+**9** (1) Section 20 (no order made: reconsideration of benefit) is amended as follows.
+
+(2) Omit subsection (3).
+
+(3) In subsection (4)—
+
+(a) omit the words from “If the court” to “to do so,”; and
+
+(b) in paragraph (b) omit “or the Director”.
+
+**10** In section 21(1) (order made: reconsideration of benefit), in paragraphs (b), (c) and (d), omit “or the Director”.
+
+**11** In section 22(2) (order made: reconsideration of available amount)—
+
+(a) omit paragraph (b); and
+
+(b) in paragraph (c) omit “or 52”.
+
+**12** In section 23(1)(b) (inadequacy of available amount: variation of order) omit “or 52”.
+
+**13** (1) Section 26 (information) is amended as follows.
+
+(2) In subsection (1)(b) omit “or the Director”.
+
+(3) In subsection (2)—
+
+(a) in paragraph (a) omit “or the Director (as the case may be)”; and
+
+(b) in paragraph (b) omit “or the Director”.
+
+**14** (1) Section 27 (defendant convicted or committed) is amended as follows.
+
+(2) In subsection (3)(a) omit “or the Director”.
+
+(3) In subsection (5)(b) omit “or the Director (as the case may be)”.
+
+(4) In subsection (7) omit “or the Director”.
+
+**15** (1) Section 28 (defendant neither convicted nor acquitted) is amended as follows.
+
+(2) In subsection (3)(a) omit “or the Director”.
+
+(3) In subsection (5)(b) omit “or the Director (as the case may be)”.
+
+**[^F270]16** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F271]17** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**18** Omit section 34 (Director as enforcement authority).
+
+**[^F272]19** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**20** Omit sections 36 and 37 (Director appointed as enforcement authority and Director's application for enforcement).
+
+**21** (1) Section 39 (reconsideration etc: variation of prison term) is amended as follows.
+
+(2) In subsection (5) for “appropriate person” substitute “ prosecutor ”.
+
+(3) Omit subsection (6).
+
+**22** (1) Section 40 (conditions for exercise of powers) is amended as follows.
+
+(2) In subsection (4)(a) omit “or the Director”.
+
+(3) In subsection (5)(a) omit “or the Director”.
+
+(4) In subsection (6)(a) omit “or the Director”.
+
+(5) In subsection (8)(b) omit “or the Director (as the case may be)”.
+
+**23** In section 42(2) (application, discharge and variation) omit paragraph (b).
+
+**24** Omit sections 52 and 53 (Director's receivers).
+
+**25** Omit sections 56 and 57 (Director's receivers and sums received by Director).
+
+**26** In section 58(6)(b) (restraint orders: restrictions) for “, 50 or 52” substitute “ or 50 ”.
+
+**27** Omit section 60 (Director's receivers).
+
+**28** In section 61 (protection) for “, 50 or 52” substitute “ or 50 ”.
+
+**29** In section 62(1) (further applications) for “, 50 or 52” substitute “ or 50 ”.
+
+**30** In section 63(1) (discharge and variation)—
+
+(a) for “to 53” substitute “ to 51 ”; and
+
+(b) in paragraph (b) omit the words from “or”, where it first appears, to “Director”.
+
+**31** (1) Section 64 (management receivers: discharge) is amended as follows.
+
+(2) In subsection (1)(b) omit the words from “or” to “section 52”.
+
+(3) Omit subsection (3).
+
+**[^F273]32** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**33** In section 67(4) (seized money) omit paragraph (c).
+
+**34** In section 69(1) (powers of court and receiver)—
+
+(a) in paragraph (a) for “60” substitute “ 59 ”; and
+
+(b) in paragraph (b) for “, 50 or 52” substitute “ or 50 ”.
+
+**35** In section 74(1) (enforcement abroad)—
+
+(a) in paragraph (b) omit “or the Director”; and
+
+(b) in paragraph (c) omit “or the Director (as the case may be)”.
+
+**36** In section 156(3)(a) (making of confiscation orders in Northern Ireland) omit “or the Director”.
+
+**37** In section 161(7) (time for payment of order) omit paragraph (b) and the word “or” before it.
+
+**38** In section 164(7)(b) (postponement of proceedings) omit “or the Director (as the case may be)”.
+
+**39** (1) Section 166 (statement of information) is amended as follows.
+
+(2) In subsection (1) omit “or the Director (as the case may be)”.
+
+(3) In subsection (3) omit—
+
+(a) “or the Director (as the case may be)”; and
+
+(b) “or the Director”.
+
+(4) In subsection (4) omit “or Director”.
+
+(5) In subsection (5) omit—
+
+(a) “or the Director (as the case may be)”; and
+
+(b) “or the Director”.
+
+(6) In subsection (6) omit “or the Director”.
+
+**40** In section 167(1) (defendant's response to statement of information) omit “or the Director”.
+
+**41** In section 168(6) (provision of information by defendant) omit “or the Director (as the case may be)”.
+
+**42** In section 169(1)(c) (no order made: reconsideration of case) omit “or the Director”.
+
+**43** (1) Section 170 (no order made: reconsideration of benefit) is amended as follows.
+
+(2) Omit subsection (3).
+
+(3) In subsection (4)—
+
+(a) omit the words from “If the court” to “to do so,”; and
+
+(b) in paragraph (b) omit “or the Director”.
+
+**44** In section 171(1) (order made: reconsideration of benefit), in paragraphs (b), (c) and (d), omit “or the Director”.
+
+**45** In section 172(2) (order made: reconsideration of available amount)—
+
+(a) omit paragraph (b); and
+
+(b) in paragraph (c) omit “or 200”.
+
+**46** In section 173(1)(b) (inadequacy of available amount: variation of order) omit “or 200”.
+
+**47** (1) Section 176 (information) is amended as follows.
+
+(2) In subsection (1)(b) omit “or the Director”.
+
+(3) In subsection (2)—
+
+(a) in paragraph (a) omit “or the Director (as the case may be)”; and
+
+(b) in paragraph (b) omit “or the Director”.
+
+**48** (1) Section 177 (defendant convicted or committed) is amended as follows.
+
+(2) In subsection (3)(a) omit “or the Director”.
+
+(3) In subsection (5)(b) omit “or the Director (as the case may be)”.
+
+(4) In subsection (7) omit “or the Director”.
+
+**49** (1) Section 178 (defendant neither convicted nor acquitted) is amended as follows.
+
+(2) In subsection (3)(a) omit “or the Director”.
+
+(3) In subsection (5)(b) omit “or the Director (as the case may be)”.
+
+**50** (1) Section 181 (appeal by prosecutor or Director) is amended as follows.
+
+(2) In the heading omit “or Director”.
+
+(3) In subsection (1) omit “or the Director”.
+
+(4) In subsection (2) omit “or the Director”.
+
+**51** In section 183(2) (appeal to the House of Lords)—
+
+(a) in paragraph (a) omit “(if the prosecutor appealed under section 181)”; and
+
+(b) omit paragraph (b).
+
+**52** Omit section 184 (Director as enforcement authority).
+
+**53** Omit section 186 (Director's application for enforcement).
+
+**54** (1) Section 188 (reconsideration etc: variation of prison term) is amended as follows.
+
+(2) In subsection (5) for “appropriate person” substitute “ prosecutor ”.
+
+(3) Omit subsection (6).
+
+**55** (1) Section 189 (conditions for exercise of powers) is amended as follows.
+
+(2) In subsection (4)(a) omit “or the Director”.
+
+(3) In subsection (5)(a) omit “or the Director”.
+
+(4) In subsection (6)(a) omit “or the Director”.
+
+(5) In subsection (8)(b) omit “or the Director (as the case may be)”.
+
+**56** In section 191(2) (application, discharge and variation) omit paragraph (b).
+
+**57** Omit sections 200 and 201 (Director's receivers).
+
+**58** Omit sections 204 and 205 (Director's receivers and sums received by Director).
+
+**59** In section 206(5)(b) (restraint orders) for “, 198 or 200” substitute “ or 198 ”.
+
+**60** Omit section 208 (Director's receivers).
+
+**61** In section 209 (protection) for “, 198 or 200” substitute “ or 198 ”.
+
+**62** (1) Section 210 (further applications) is amended as follows.
+
+(2) In subsection (1) for “, 198 or 200” substitute “ or 198 ”.
+
+(3) In subsection (2)(b) omit “or 200”.
+
+(4) In subsection (3) omit “or 200”.
+
+**63** In section 211(1) (discharge and variation)—
+
+(a) for “any of sections 198 to 201” substitute “ section 198 or 199 ”; and
+
+(b) in paragraph (b) omit the words from “or”, where it first appears, to “Director”.
+
+**64** (1) Section 212 (management receivers: discharge) is amended as follows.
+
+(2) In subsection (1)(b) omit the words from “or” to “section 200”.
+
+(3) Omit subsection (3).
+
+**65** (1) Section 213 (appeal to Court of Appeal) is amended as follows.
+
+(2) In subsection (1) omit “or section 201”.
+
+(3) In subsection (2) omit “or section 201”.
+
+(4) In subsection (5)(a) omit the words from “or”, where it first appears, to “Director”.
+
+**66** In section 215(4) (seized money) omit paragraph (d).
+
+**67** In section 217(1) (powers of court and receiver)—
+
+(a) in paragraph (a) for “208” substitute “ 207 ”; and
+
+(b) in paragraph (b) for “, 198 or 200” substitute “ or 198 ”.
+
+**68** In section 222(1) (enforcement abroad)—
+
+(a) in paragraph (b) omit “or the Director”; and
+
+(b) in paragraph (c) omit “or the Director (as the case may be)”.
+
+**69** In section 417(2) (insolvency etc: modifications of the 1986 Act)—
+
+(a) in paragraph (b) omit “or 52”; and
+
+(b) in paragraph (d) omit “or 200”.
+
+**70** (1) Section 418 (restriction of powers) is amended as follows.
+
+(2) In subsection (2)—
+
+(a) in paragraph (a) for “, 50 or 52” substitute “ or 50 ”; and
+
+(b) in paragraph (c) for “, 198 or 200” substitute “ or 198 ”.
+
+(3) In subsection (3)(d) for “, 52, 198 or 200” substitute “ or 198 ”.
+
+**71** In section 419(2)(b) (tainted gifts)—
+
+(a) omit “52,”; and
+
+(b) for “, 198 or 200” substitute “ or 198 ”.
+
+**72** In section 420(2) (modifications of the 1985 Act)—
+
+(a) in paragraph (b) omit “or 52”; and
+
+(b) in paragraph (d) omit “or 200”.
+
+**73** (1) Section 421 (restriction of powers) is amended as follows.
+
+(2) In subsection (2)—
+
+(a) in paragraph (a) for “, 50 or 52” substitute “ or 50 ”; and
+
+(b) in paragraph (c) for “, 198 or 200” substitute “ or 198 ”.
+
+(3) In subsection (3)(d) for “, 52, 198 or 200” substitute “ or 198 ”.
+
+**74** In section 422(2)(b) (tainted gifts)—
+
+(a) omit “52,”; and
+
+(b) for “, 198 or 200” substitute “ or 198 ”.
+
+**75** In section 423(2) (modifications of the 1989 Order)—
+
+(a) in paragraph (b) omit “or 52”; and
+
+(b) in paragraph (d) omit “or 200”.
+
+**76** (1) Section 424 (restriction of powers) is amended as follows.
+
+(2) In subsection (2)—
+
+(a) in paragraph (a) for “, 50 or 52” substitute “ or 50 ”; and
+
+(b) in paragraph (c) for “, 198 or 200” substitute “ or 198 ”.
+
+(3) In subsection (3)(d) for “, 52, 198 or 200” substitute “ or 198 ”.
+
+**77** In section 425(2)(b) (tainted gifts)—
+
+(a) omit “52,”; and
+
+(b) for “, 198 or 200” substitute “ or 198 ”.
+
+**78** (1) Section 426 (winding up under the 1986 Act) is amended as follows.
+
+(2) In subsection (2)—
+
+(a) in paragraph (b) omit “or 52”; and
+
+(b) in paragraph (d) omit “or 200”.
+
+(3) In subsection (5)—
+
+(a) in paragraph (a) for “, 50 or 52” substitute “ or 50 ”; and
+
+(b) in paragraph (c) for “, 198 or 200” substitute “ or 198 ”.
+
+**79** In section 427(3)(b) (tainted gifts)—
+
+(a) omit “52,”; and
+
+(b) for “, 198 or 200” substitute “ or 198 ”.
+
+**80** (1) Section 428 (winding up under the 1989 Order) is amended as follows.
+
+(2) In subsection (2)—
+
+(a) in paragraph (b) omit “or 52”; and
+
+(b) in paragraph (d) omit “or 200”.
+
+(3) In subsection (5)—
+
+(a) in paragraph (a) for “, 50 or 52” substitute “ or 50 ”; and
+
+(b) in paragraph (c) for “, 198 or 200” substitute “ or 198 ”.
+
+**81** In section 429(3)(b) (tainted gifts)—
+
+(a) omit “52,”; and
+
+(b) for “, 198 or 200” substitute “ or 198 ”.
+
+**82** (1) Section 430 (floating charges) is amended as follows.
+
+(2) In subsection (2)—
+
+(a) in paragraph (b) omit “or 52”; and
+
+(b) in paragraph (d) omit “or 200”.
+
+(3) In subsection (5)—
+
+(a) in paragraph (a) for “, 50 or 52” substitute “ or 50 ”; and
+
+(b) in paragraph (c) for “, 198 or 200” substitute “ or 198 ”.
+
+**83** In section 432(7) (insolvency practitioners)—
+
+(a) in paragraph (a) for “, 55(3), 56(2) or 57(3)” substitute “ or 55(3) ”; and
+
+(b) in paragraph (c) for “, 203(3), 204(2) or 205(3)” substitute “ or 203(3) ”.
+
+**84** In Schedule 10 (tax), in paragraph 1—
+
+(a) in paragraph (a) for “, 50 or 52” substitute “ or 50 ”; and
+
+(b) in paragraph (c) for “, 198 or 200” substitute “ or 198 ”.
+
+### Part 2 — Transfer of civil recovery functions
+
+**85** The Proceeds of Crime Act 2002 (c. 29) is amended as follows.
+
+**86** In section 246(7) (application for interim receiving order) for “Agency” substitute “ enforcement authority ”.
+
+**87** After section 272(6) (compensation for loss in relation to associated and joint property) insert—
+
+> (7) In subsection (5) the reference to the enforcement authority is, in the case of an enforcement authority in relation to England and Wales or Northern Ireland, a reference to the enforcement authority which obtained the property freezing order or interim receiving order concerned.
+
+**88** (1) Section 280 (applying realised proceeds) is amended as follows.
+
+(2) In subsection (3)—
+
+(a) for “Director” substitute “ enforcement authority (unless it is the Scottish Ministers) ”; and
+
+(b) for “him” substitute “ it ”.
+
+(3) In subsection (4) for “Agency” substitute “ enforcement authority concerned ”.
+
+**89** After section 283(9) (compensation) insert—
+
+> (10) In the case of an enforcement authority in relation to England and Wales or Northern Ireland—
+>
+> (a) the reference in subsection (5) to the enforcement authority is a reference to the enforcement authority which obtained the property freezing order or interim receiving order concerned, and
+>
+> (b) the reference in subsection (8) to the enforcement authority is a reference to the enforcement authority which obtained the recovery order concerned.
+
+**90** Omit section 313 (restriction on performance of Director's functions by police).
+
+**91** (1) Section 316 (general interpretation: Part 5) is amended as follows.
+
+(2) In subsection (1), in the definition of “enforcement authority”—
+
+(a) for paragraph (a) substitute—
+
+> (a) in relation to England and Wales, means SOCA, the Director of Public Prosecutions, the Director of Revenue and Customs Prosecutions or the Director of the Serious Fraud Office,
+
+; and
+
+(b) after paragraph (b) insert—
+
+> (c) in relation to Northern Ireland, means SOCA, the Director of the Serious Fraud Office or the Director of Public Prosecutions for Northern Ireland,
+
+.
+
+(3) After subsection (8) insert—
+
+> (8A) In relation to an order in England and Wales or Northern Ireland which is a recovery order, a property freezing order, an interim receiving order or an order under section 276, references to the enforcement authority are, unless the context otherwise requires, references to the enforcement authority which is seeking, or (as the case may be) has obtained, the order.
+
+### Part 3 — Transfer or abolition of Revenue functions
+
+**92** The Proceeds of Crime Act 2002 (c. 29) is amended in accordance with paragraphs 93 to 101.
+
+**93** (1) Section 317 (Director's general Revenue functions) is amended as follows.
+
+(2) In the heading for “Director's” substitute “ SOCA's ”.
+
+(3) In subsection (1) for “the Director” substitute “ SOCA ”.
+
+(4) In subsection (2) for “the Director”, in both places where it appears, substitute “ SOCA ”.
+
+(5) In subsection (3) for “the Director” substitute “ SOCA ”.
+
+(6) In subsection (4) for “The Director” substitute “ SOCA ”.
+
+(7) In subsection (6) for “the Director” substitute “ SOCA ”.
+
+(8) In subsection (7) for “the Director” substitute “ SOCA ”.
+
+(9) In subsection (8)(b) for “the Director” substitute “ SOCA ”.
+
+**94** (1) Section 318 (Revenue functions regarding employment) is amended as follows.
+
+(2) In subsection (1)(a) for “the Director” substitute “ SOCA ”.
+
+(3) In subsection (2) for “the Director” substitute “ SOCA ”.
+
+(4) In subsection (3)(a) for “the Director” substitute “ SOCA ”.
+
+(5) In subsection (4) for “the Director” substitute “ SOCA ”.
+
+**95** (1) Section 319 (source of income) is amended as follows.
+
+(2) In subsection (1)—
+
+(a) for “the Director” substitute “ SOCA ”;
+
+(b) for “him” substitute “ it ”; and
+
+(c) for “he” substitute “ SOCA ”.
+
+(3) In subsection (2) for “the Director” substitute “ SOCA ”.
+
+(4) In subsection (3)—
+
+(a) for “the Director” substitute “ SOCA ”; and
+
+(b) for “him” substitute “ SOCA ”.
+
+**96** (1) Section 320 (appeals) is amended as follows.
+
+(2) In subsection (1) for “the Director” substitute “ SOCA ”.
+
+(3) In subsection (2)—
+
+(a) for “the Director” substitute “ SOCA ”; and
+
+(b) for “his” substitute “ its ”.
+
+**97** (1) Section 321 (Director's functions: transfers of value) is amended as follows.
+
+(2) In the heading for “Director's” substitute “ SOCA's ”.
+
+(3) In subsection (1)—
+
+(a) for “the Director” substitute “ SOCA ”; and
+
+(b) in paragraph (b) for “it” substitute “ the transfer of value ”.
+
+(4) In subsection (2) for “the Director”, in both places where it appears, substitute “ SOCA ”.
+
+(5) In subsection (3) for “the Director” substitute “ SOCA ”.
+
+(6) In subsection (4) for “The Director” substitute “ SOCA ”.
+
+(7) In subsection (5) for “the Director” substitute “ SOCA ”.
+
+(8) In subsection (6) for “the Director” substitute “ SOCA ”.
+
+**98** (1) Section 322 (Director's functions: certain settlements) is amended as follows.
+
+(2) In the heading for “Director's” substitute “ SOCA's ”.
+
+(3) In subsection (1) for “the Director” substitute “ SOCA ”.
+
+(4) In subsection (2)—
+
+(a) for “the Director”, in both places where it appears, substitute “ SOCA ”; and
+
+(b) in paragraph (c) for “he” substitute “ SOCA ”.
+
+(5) In subsection (3) for “the Director” substitute “ SOCA ”.
+
+(6) In subsection (4) for “The Director” substitute “ SOCA ”.
+
+(7) In subsection (5) for “the Director” substitute “ SOCA ”.
+
+(8) In subsection (6) for “the Director” substitute “ SOCA ”.
+
+**99** (1) Section 324 (exercise of Revenue functions) is amended as follows.
+
+(2) In subsection (1) for “the Director” substitute “ SOCA ”.
+
+(3) In subsection (2) for “Paragraph (b) of section 1(6)” substitute “ Section 2B(2) ”.
+
+(4) In subsection (3) for “The Director” substitute “ SOCA ”.
+
+(5) In subsection (4) for “The Director” substitute “ SOCA ”.
+
+(6) In subsection (5)—
+
+(a) for “The Director” substitute “ SOCA ”; and
+
+(b) for “they” substitute “ the Board ”.
+
+**100** (1) Section 325 (declarations) is amended as follows.
+
+(2) Omit subsection (1).
+
+(3) For subsection (2) substitute—
+
+> (2) Every member of SOCA's staff who is assigned to carry out any of SOCA's functions under this Part must, as soon as practicable after being so assigned, make a declaration in the form set out in Schedule 8 before a person nominated by the Director General of SOCA for the purpose.
+
+**101** (1) Schedule 8 (forms of declarations) is amended as follows.
+
+(2) Omit the words from “The Director”, where it first appears, to “by law.””, where it first appears.
+
+(3) For “The Staff Of The Agency” substitute “ SOCA's Staff ”.
+
+(4) For “authorised by the Director of the Assets Recovery Agency” substitute “ assigned by SOCA ”.
+
+(5) For “to the Director” substitute “ to SOCA ”.
+
+(6) For “his” substitute “ its ”.
+
+**102** The Secretary of State may by order—
+
+(a) repeal Part 6 of the Proceeds of Crime Act 2002 (c. 29); and
+
+(b) make such amendment, repeal or revocation of any provision made by or under any enactment (including this Schedule to this Act) as appears to the Secretary of State to be appropriate in consequence of the repeal of Part 6 of the Act of 2002.
+
+### Part 4 — Transfer of investigation functions
+
+**103** The Proceeds of Crime Act 2002 (c. 29) is amended as follows.
+
+**104** In section 351(5) (supplementary)—
+
+(a) after “investigator,”, where it first appears, insert “ a member of SOCA's staff, ”; and
+
+(b) after “investigator,”, where it appears for the second time, insert “ member of SOCA's staff, ”.
+
+**105** (1) Section 352 (search and seizure warrants) is amended as follows.
+
+(2) In subsection (5)(b) for “named member of the staff of the Agency” substitute “ member of SOCA's staff or of the staff of the relevant Director ”.
+
+(3) After subsection (5) insert—
+
+> (5A) In this Part “relevant Director”—
+>
+> (a) in relation to England and Wales, means the Director of Public Prosecutions, the Director of Revenue and Customs Prosecutions or the Director of the Serious Fraud Office; and
+>
+> (b) in relation to Northern Ireland, means the Director of the Serious Fraud Office or the Director of Public Prosecutions for Northern Ireland.
+
+**106** In section 353(10)(b) (requirements where production order not available) for “the staff of the Agency” substitute “ SOCA's staff or of the staff of the relevant Director ”.
+
+**107** (1) Section 356 (further provisions: civil recovery) is amended as follows.
+
+(2) Omit subsection (6).
+
+[^F274]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**108** (1) Section 357 (disclosure orders) is amended as follows.
+
+(2) In subsection (1) for “the Director” substitute “ the relevant authority ”.
+
+(3) After subsection (2) insert—
+
+> (2A) The relevant authority may only make an application for a disclosure order in relation to a confiscation investigation if the relevant authority is in receipt of a request to do so from an appropriate officer.
+
+(4) In subsection (3)(a) for “the Director” substitute “ an appropriate officer ”.
+
+(5) In subsection (4)—
+
+(a) for “the Director”, where it first appears, substitute “ an appropriate officer ”; and
+
+(b) for “the Director”, where it appears for the second time, substitute “ the appropriate officer ”.
+
+(6) In subsection (5) for “the Director” substitute “ the appropriate officer concerned ”.
+
+(7) After subsection (6) insert—
+
+> (7) In this Part “relevant authority” means—
+>
+> (a) in relation to a confiscation investigation, a prosecutor; and
+>
+> (b) in relation to a civil recovery investigation, a member of SOCA's staff or the relevant Director.
+>
+> (8) For the purposes of subsection (7)(a) a prosecutor is—
+>
+> (a) in relation to a confiscation investigation carried out by a member of SOCA's staff, the relevant Director or any specified person;
+>
+> (b) in relation to a confiscation investigation carried out by an accredited financial investigator, the Director of Public Prosecutions, the Director of Public Prosecutions for Northern Ireland or any specified person;
+>
+> (c) in relation to a confiscation investigation carried out by a constable, the Director of Public Prosecutions, the Director of Public Prosecutions for Northern Ireland, the Director of the Serious Fraud Office or any specified person; and
+>
+> (d) in relation to a confiscation investigation carried out by an officer of Revenue and Customs, the Director of Revenue and Customs Prosecutions, the Director of Public Prosecutions for Northern Ireland or any specified person.
+>
+> (9) In subsection (8) “specified person” means any person specified, or falling within a description specified, by an order of the Secretary of State.
+
+**109** (1) Section 361 (further provisions) is amended as follows.
+
+(2) In subsection (7) for “The Director” substitute “ An appropriate officer ”.
+
+(3) In subsection (9) for “the Director” substitute “ an appropriate officer ”.
+
+**110** (1) Section 362 (supplementary) is amended as follows.
+
+(2) In subsection (3)(a) for “Director” substitute “ person who applied for the order ”.
+
+(3) After subsection (4) insert—
+
+> (4A) If a member of SOCA's staff or a person falling within a description of persons specified by virtue of section 357(9) applies for a disclosure order, an application to discharge or vary the order need not be by the same member of SOCA's staff or (as the case may be) the same person falling within that description.
+>
+> (4B) References to a person who applied for a disclosure order must be construed accordingly.
+
+(4) In subsection (5) for “(4)” substitute “ (4B) ”.
+
+**111** (1) Section 369 (supplementary) is amended as follows.
+
+(2) In subsection (5)—
+
+(a) after “investigator,”, where it first appears, insert “ a member of SOCA's staff, ”; and
+
+(b) after “investigator,”, where it appears for the second time, insert “ member of SOCA's staff, ”.
+
+(3) In subsection (7) after “investigator,” insert “ a member of SOCA's staff, ”.
+
+**112** In section 375(4) (supplementary)—
+
+(a) after “investigator,”, where it first appears, insert “ a member of SOCA's staff, ”; and
+
+(b) after “investigator,”, where it appears for the second time, insert “ member of SOCA's staff, ”.
+
+**113** Omit section 376 (evidence overseas).
+
+**114** (1) Section 377 (code of practice) is amended as follows.
+
+(2) In the heading after “practice” insert “ of Secretary of State etc. ”.
+
+(3) In subsection (1)—
+
+(a) in paragraph (a) for “the Director” substitute “ the Director General of SOCA ”; and
+
+(b) in paragraph (b) for “members of the staff of the Agency” substitute “ other members of SOCA's staff ”.
+
+(4) In subsection (9)—
+
+(a) after “officer” insert “ or the relevant authority ”; and
+
+(b) for “he” substitute “ either ”.
+
+**115** After section 377 (code of practice of Secretary of State etc.) insert—
+
+> **Code of practice of Attorney General or Advocate General for Northern Ireland**
+>
+> **377A** (1) The Attorney General must prepare a code of practice as to—
+>
+> (a) the exercise by the Director of Public Prosecutions, the Director of Revenue and Customs Prosecutions and the Director of the Serious Fraud Office of functions they have under this Chapter; and
+>
+> (b) the exercise by any other person, who is the relevant authority by virtue of section 357(9) in relation to a confiscation investigation, of functions he has under this Chapter in relation to England and Wales as the relevant authority.
+>
+> (2) The Advocate General for Northern Ireland must prepare a code of practice as to—
+>
+> (a) the exercise by the Director of Public Prosecutions for Northern Ireland of functions he has under this Chapter; and
+>
+> (b) the exercise by any other person, who is the relevant authority by virtue of section 357(9) in relation to a confiscation investigation, of functions he has under this Chapter in relation to Northern Ireland as the relevant authority.
+>
+> (3) After preparing a draft of the code the Attorney General or (as the case may be) the Advocate General for Northern Ireland—
+>
+> (a) must publish the draft;
+>
+> (b) must consider any representations made to him about the draft;
+>
+> (c) may amend the draft accordingly.
+>
+> (4) After the Attorney General or the Advocate General for Northern Ireland has proceeded under subsection (3) he must lay the code before Parliament.
+>
+> (5) When the code has been so laid the Attorney General or (as the case may be) the Advocate General for Northern Ireland may bring the code into operation on such day as he may appoint by order.
+>
+> (6) A person specified in subsection (1)(a) or (b) or (2)(a) or (b) must comply with a code of practice which is in operation under this section in the exercise of any function he has under this Chapter to which the code relates.
+>
+> (7) If such a person fails to comply with any provision of such a code of practice the person is not by reason only of that failure liable in any criminal or civil proceedings.
+>
+> (8) But the code of practice is admissible in evidence in such proceedings and a court may take account of any failure to comply with its provisions in determining any question in the proceedings.
+>
+> (9) The Attorney General or (as the case may be) the Advocate General for Northern Ireland may from time to time revise a code previously brought into operation under this section; and the preceding provisions of this section apply to a revised code as they apply to the code as first prepared.
+>
+> (10) In this section references to the Advocate General for Northern Ireland are to be read, before the coming into force of section 27(1) of the Justice (Northern Ireland) Act 2002 (c. 26), as references to the Attorney General for Northern Ireland.
+
+**116** (1) Section 378 (officers) is amended as follows.
+
+(2) In subsection (1)(a) for “the Director” substitute “ a member of SOCA's staff ”.
+
+(3) In subsection (2)(a) for “the Director” substitute “ a senior member of SOCA's staff ”.
+
+(4) In subsection (3) for the words from “the Director”, where it first appears, to the end of the subsection substitute
+
+> —
+>
+> (a) a member of SOCA's staff or the relevant Director is an appropriate officer;
+>
+> (b) a senior member of SOCA's staff is a senior appropriate officer.
+
+(5) In subsection (5) for “the Serious Organised Crime Agency” substitute “ SOCA ”.
+
+(6) Omit subsection (7).
+
+(7) After subsection (7) insert—
+
+> (8) For the purposes of this Part a senior member of SOCA's staff is—
+>
+> (a) the Director General of SOCA; or
+>
+> (b) any member of SOCA's staff authorised by the Director General (whether generally or specifically) for this purpose.
+
+**117** In section 416(2) (other interpretative provisions)—
+
+(a) after the entry for production order insert—
+
+> relevant authority: section 357(7) to (9)
+>
+> relevant Director: section 352(5A)
+
+; and
+
+(b) at the end insert— “ senior member of SOCA's staff: section 378(8). ”
+
+**118** After section 449 (pseudonyms) insert—
+
+> **Staff of relevant Directors: pseudonyms**
+>
+> **449A** (1) This section applies to a member of the staff of the relevant Director if—
+>
+> (a) the member is to exercise a function as a member of that staff under, or in relation to, Part 5 or 8; and
+>
+> (b) it is necessary or expedient for the purpose of exercising that function for the member of staff to identify himself by name.
+>
+> (2) The relevant Director may direct that such a member of staff may for that purpose identify himself by means of a pseudonym.
+>
+> (3) For the purposes of any proceedings or application under this Act, a certificate signed by the relevant Director which sufficiently identifies the member of staff by reference to the pseudonym is conclusive evidence that that member of staff is authorised to use the pseudonym.
+>
+> (4) In any proceedings or application under this Act a member of the staff of the relevant Director in respect of whom a direction under this section is in force must not be asked (and if asked is not required to answer) any question which is likely to reveal his true identity.
+>
+> (5) The relevant Director may not delegate the exercise of his functions under this section or otherwise authorise another person to exercise those functions on his behalf.
+>
+> (6) In this section “relevant Director” has the meaning given by section 352(5A).
+
+**119** (1) Section 459 (orders and regulations) is amended as follows.
+
+(2) In subsection (3) after “instrument” insert “ (other than the power of the Advocate General for Northern Ireland to make an order under section 377A(5) which is exercisable by statutory rule for the purposes of the Statutory Rules (Northern Ireland) Order 1979 (S.I. 1979/1573 (N.I.12))) ”.
+
+(3) In subsection (4)(a) after “377(4)” insert “ , 377A(5) ”.
+
+(4) After subsection (6)(a) insert—
+
+> (aa) by the Attorney General or the Advocate General for Northern Ireland under section 377A(5) unless a draft of the order has been laid before Parliament and approved by a resolution of each House;
+
+.
+
+(5) After subsection (7) insert—
+
+> (8) In this section references to the Advocate General for Northern Ireland are to be read, before the coming into force of section 27(1) of the Justice (Northern Ireland) Act 2002 (c. 26), as references to the Attorney General for Northern Ireland.
+
+### Part 5 — Transfer of accreditation and training functions
+
+**120** (1) Section 3 of the Proceeds of Crime Act 2002 (c. 29) (accreditation and training) is amended as follows.
+
+(2) In subsection (1)—
+
+(a) for “Director” substitute “ National Policing Improvement Agency ”; and
+
+(b) for “establish” substitute “ provide ”.
+
+(3) Omit subsection (6).
+
+(4) In subsection (7) for “Director” substitute “ National Policing Improvement Agency ”.
+
+(5) Omit subsection (8).
+
+### Part 6 — Other amendments to 2002 Act
+
+**121** The Proceeds of Crime Act 2002 is amended as follows.
+
+**122** In the heading for Part 1 for “Assets Recovery Agency” substitute “ Introductory ”.
+
+**123** Omit sections 1 and 2 (the Assets Recovery Agency, its Director and the Director's general functions).
+
+**124** After section 2 insert—
+
+> **Contribution to the reduction of crime**
+>
+> **2A** (1) A relevant authority must exercise its functions under this Act in the way which it considers is best calculated to contribute to the reduction of crime.
+>
+> (2) In this section “a relevant authority” means—
+>
+> (a) SOCA,
+>
+> (b) the Director of Public Prosecutions,
+>
+> (c) the Director of Public Prosecutions for Northern Ireland,
+>
+> (d) the Director of Revenue and Customs Prosecutions, or
+>
+> (e) the Director of the Serious Fraud Office.
+>
+> (3) In considering under subsection (1) the way which is best calculated to contribute to the reduction of crime a relevant authority must have regard to any guidance given to it by—
+>
+> (a) in the case of SOCA, the Secretary of State,
+>
+> (b) in the case of the Director of Public Prosecutions, the Director of Revenue and Customs Prosecutions or the Director of the Serious Fraud Office, the Attorney General, and
+>
+> (c) in the case of the Director of Public Prosecutions for Northern Ireland, the Advocate General for Northern Ireland.
+>
+> (4) The guidance must indicate that the reduction of crime is in general best secured by means of criminal investigations and criminal proceedings.
+>
+> (5) The reference in this section to the Advocate General for Northern Ireland is to be read, before the coming into force of section 27(1) of the Justice (Northern Ireland) Act 2002 (c. 26), as a reference to the Attorney General for Northern Ireland.
+>
+> **SOCA and members of SOCA's staff**
+>
+> **2B** (1) For the purposes of this Act SOCA is the Serious Organised Crime Agency.
+>
+> (2) Anything which SOCA is authorised or required to do under this Act (whether directly or through its staff) may be done by a person providing services under arrangements made by SOCA if the person is authorised by SOCA (whether generally or specifically) for that purpose.
+>
+> (3) References in this Act to members of SOCA's staff are to be read in accordance with paragraph 8(4) of Schedule 1 to the Serious Organised Crime and Police Act 2005 (c. 15) (employees of SOCA or persons seconded to SOCA to serve as members of its staff).
+>
+> **Prosecuting authorities**
+>
+> **2C** (1) Anything which the Director of Public Prosecutions is authorised or required to do under, or in relation to, Part 5 or 8 of this Act may be done by a member of his staff if the member of staff is authorised by the Director (generally or specifically) for that purpose.
+>
+> (2) Anything which the Director of Revenue and Customs Prosecutions or the Director of the Serious Fraud Office is authorised or required to do under, or in relation to, Part 5 or 8 of this Act may be done by a member of his staff if the member of staff is authorised by the Director concerned (generally or specifically) for that purpose.
+>
+> (3) Anything which a relevant Director or a member of his staff is authorised or required to do under, or in relation to, Part 5 or 8 of this Act may be done by a person providing services under arrangements made by the relevant Director if the person is authorised by the relevant Director (whether generally or specifically) for that purpose.
+>
+> (4) In this section “relevant Director” means—
+>
+> (a) the Director of Public Prosecutions,
+>
+> (b) the Director of Public Prosecutions for Northern Ireland,
+>
+> (c) the Director of Revenue and Customs Prosecutions, or
+>
+> (d) the Director of the Serious Fraud Office.
+
+**125** Omit sections 4 and 5 (co-operation and advice and assistance for Secretary of State).
+
+**126** In section 330(4)(b) (failure to disclose: regulated sector) for “the Serious Organised Crime Agency” substitute “ SOCA ”.
+
+**127** In section 331(4) (failure to disclose: nominated officers in the regulated sector) for “the Serious Organised Crime Agency” substitute “ SOCA ”.
+
+**128** In section 332(4) (failure to disclose: other nominated officers) for “the Serious Organised Crime Agency” substitute “ SOCA ”.
+
+**129** In section 336(2)(a), (3)(a) and (4)(a) (nominated officer: consent) for “the Serious Organised Crime Agency” substitute “ SOCA ”.
+
+**130** In section 340(13) (interpretation: Part 7) for “the Serious Organised Crime Agency” substitute “ SOCA ”.
+
+**131** For section 435 (use of information by Director) substitute—
+
+> **Use of information by certain Directors**
+>
+> **435** (1) Information obtained by or on behalf of the Director in connection with the exercise of any of his functions under, or in relation to, Part 5 or 8 may be used by him in connection with his exercise of any of his other functions (whether under, or in relation to, either Part, another Part of this Act or otherwise).
+>
+> (2) Information obtained by or on behalf of the Director in connection with the exercise of any of his functions (whether under, or in relation to, this Act or otherwise) which are not functions under, or in relation to, Part 5 or 8 may be used by him in connection with his exercise of any of his functions under, or in relation to, Part 5 or 8.
+>
+> (3) This section applies to information obtained before the coming into force of the section as well as to information obtained after the coming into force of the section.
+>
+> (4) In this section “the Director” means—
+>
+> (a) the Director of Public Prosecutions;
+>
+> (b) the Director of the Serious Fraud Office; or
+>
+> (c) the Director of Public Prosecutions for Northern Ireland.
+
+**132** (1) Section 436 (disclosure of information to Director) is amended as follows.
+
+(2) In the heading for “Director” substitute “ certain Directors ”.
+
+(3) In subsection (1)—
+
+(a) for “this section” substitute “ subsection (10) ”; and
+
+(b) after “functions” insert “ under, or in relation to, Part 5 or 8 ”.
+
+(4) In subsection (5), omit paragraph (b) and (ga).
+
+(5) After subsection (9) insert—
+
+> (10) In this section “the Director” has the same meaning as in section 435.
+
+**133** (1) Section 437 (further disclosure) is amended as follows.
+
+(2) In subsection (2)(a) after “functions” insert “ under, or in relation to, Part 5 or 8 ”.
+
+(3) After subsection (6) insert—
+
+> (7) In this section “the Director” has the same meaning as in section 435.
+
+**134** (1) Section 438 (disclosure of information by Director) is amended as follows.
+
+(2) In the heading for “Director” substitute “ certain Directors ”.
+
+(3) In subsection (1)—
+
+(a) after “functions”, where it first appears, insert “ under, or in relation to, Part 5 or 8 ”;
+
+(b) in paragraph (c) after “functions” insert “ under, or in relation to, Part 5 or 8 ”; and
+
+(c) after paragraph (f) insert—
+
+> (fa) the exercise of any functions of SOCA, another Director or the Director of Revenue and Customs Prosecutions under, or in relation to, Part 5 or 8;
+
+.
+
+(4) Omit subsections (2) to (4).
+
+(5) After subsection (8) insert—
+
+> (8A) This section does not affect a power to disclose which exists apart from this section.
+>
+> (8B) This section applies to information obtained before the coming into force of subsection (10) as well as to information obtained after the coming into force of that subsection.
+
+(6) After subsection (9) insert—
+
+> (10) In this section “the Director” has the same meaning as in section 435.
+
+**135** In section 439(5) (disclosure of information to Lord Advocate and to Scottish Ministers)—
+
+(a) in paragraph (b) for “the Director General of the Serious Organised Crime Agency” substitute “ SOCA but only so far as the information is held by it or on its behalf otherwise than in connection with its functions under this Act ”; and
+
+[^F275]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**136** In section 441(2) (disclosure of information by Lord Advocate and by Scottish Ministers) for paragraph (f) substitute—
+
+> (fa) the exercise of the functions of the Director of Public Prosecutions, the Director of Revenue and Customs Prosecutions, the Director of the Serious Fraud Office or the Director of Public Prosecutions for Northern Ireland under, or in relation to, Part 5 or 8;
+
+.
+
+**137** (1) Section 443 (enforcement in different parts of the United Kingdom) is amended as follows.
+
+(2) In subsection (3)(a) for “and the Director” substitute “ , SOCA and the relevant Director ”.
+
+(3) After subsection (4) insert—
+
+> (5) In this section “relevant Director” has the meaning given by section 352(5A).
+
+**138** In section 444(4)(d) (external requests and orders) for “the Director” substitute “ SOCA ”.
+
+**139** In section 445(2)(b) (external investigations) for the words from “the Director”, where it first appears, to “Agency” substitute “ SOCA, the Director of Public Prosecutions, the Director of Public Prosecutions for Northern Ireland, the Director of Revenue and Customs Prosecutions ”.
+
+**140** (1) Section 449 (agency staff: pseudonyms) is amended as follows.
+
+(2) In the heading for “Agency” substitute “ SOCA's ”.
+
+(3) In subsection (1)—
+
+(a) for “the staff of the Agency”, in both places where it appears, substitute “ SOCA's staff ”; and
+
+(b) for “authorised (generally or specifically) by the Director” substitute “ assigned by SOCA ”.
+
+(4) In subsection (2)—
+
+(a) for “The Director” substitute “ An authorised person ”; and
+
+(b) for “the staff of the Agency” substitute “ SOCA's staff ”.
+
+(5) In subsection (3)—
+
+(a) for “the Director” substitute “ an authorised person ”; and
+
+(b) for “the staff of the Agency”, in both places where it appears, substitute “ SOCA's staff ”.
+
+(6) In subsection (4) for “the staff of the Agency” substitute “ SOCA's staff ”.
+
+(7) Omit subsection (5).
+
+(8) After subsection (5) insert—
+
+> (6) In this section “authorised person” means a member of SOCA's staff authorised by SOCA for the purposes of this section.
+
+**141** After section 460(2) (finance) insert—
+
+> (3) Subject to anything in this Act—
+>
+> (a) any sums received by the Director of Public Prosecutions, the Director of Revenue and Customs Prosecutions or the Director of the Serious Fraud Office in consequence of this Act are to be paid into the Consolidated Fund; and
+>
+> (b) any sums received by the Director of Public Prosecutions for Northern Ireland in consequence of this Act are to be paid to the Secretary of State.
+
+**142** Omit Schedule 1 (the Assets Recovery Agency).
+
+### Part 7 — Amendments to other enactments
+
+#### Parliamentary Commissioner Act 1967 (c. 13)
+
+**143** (1) Schedule 2 to the Parliamentary Commissioner Act 1967 (departments etc. subject to investigation) is amended as follows.
+
+(2) Omit the entry for “The Director of the Assets Recovery Agency.”.
+
+(3) After the entry for “Sentencing Guidelines Council” insert “ The Serious Organised Crime Agency. ”.
+
+(4) Omit the paragraph in the Notes headed “Assets Recovery Agency”.
+
+(5) After the paragraph in the Notes headed “Ministry of Justice” insert—
+
+> **Serious Organised Crime Agency**
+>
+> In the case of the Serious Organised Crime Agency, an investigation may be conducted only in respect of the exercise of functions vested in it by virtue of a notice served on the Commissioners for Her Majesty's Revenue and Customs under section 317(2), 321(2) or 322(2) of the Proceeds of Crime Act 2002 (c. 29) (Revenue functions).
+
+#### Criminal Appeal Act 1968 (c. 19)
+
+**144** In section 33 of the Criminal Appeal Act 1968 (right of appeal to House of Lords) omit subsection (1A).
+
+**145** In section 51(1A) of that Act (interpretation) omit “, subject to section 33(1A) of this Act,”.
+
+#### Criminal Appeal (Northern Ireland) Act 1980 (c. 47)
+
+**146** (1) Section 31 of the Criminal Appeal (Northern Ireland) Act 1980 (right of appeal to House of Lords) is amended as follows.
+
+(2) Omit subsection (1A).
+
+(3) In subsection (3) omit “, subject to subsection (1A) above,”.
+
+#### Limitation Act 1980 (c. 58)
+
+**147** (1) Section 27A of the Limitation Act 1980 (actions for recovery of property obtained through unlawful conduct etc.) is amended as follows.
+
+(2) In subsection (2) for “Director's” substitute “ relevant person's ”.
+
+(3) In subsection (4) for “Director's” substitute “ relevant person's ”.
+
+(4) After subsection (7) insert—
+
+> (8) In this section “relevant person” means—
+>
+> (a) the Serious Organised Crime Agency,
+>
+> (b) the Director of Public Prosecutions,
+>
+> (c) the Director of Revenue and Customs Prosecutions, or
+>
+> (d) the Director of the Serious Fraud Office.
+
+#### Legal Aid, Advice and Assistance (Northern Ireland) Order 1981 (S.I. 1981/228 (N.I.8))
+
+**148** (1) Paragraph 2A of Part 1 of Schedule 1 to the Legal Aid, Advice and Assistance (Northern Ireland) Order 1981 (Crown Court proceedings under the Proceeds of Crime Act 2002 (c. 29)) for which legal aid may be given under Part 2 of the Order) is amended as follows.
+
+(2) In sub-paragraph (1)(a) omit “or 204(3)”.
+
+(3) In sub-paragraph (1)(c) for “to 201” substitute “ to 199 ”.
+
+#### Prosecution of Offences Act 1985 (c. 23)
+
+**149** In section 3(2) of the Prosecution of Offences Act 1985 (functions of the Director of Public Prosecutions), after paragraph (fe), insert—
+
+> (ff) to discharge such duties as are conferred on him by, or in relation to, Part 5 or 8 of the Proceeds of Crime Act 2002 (c. 29) (civil recovery of the proceeds etc. of unlawful conduct, civil recovery investigations and disclosure orders in relation to confiscation investigations);
+
+.
+
+#### Bankruptcy (Scotland) Act 1985 (c. 66)
+
+**[^F276]150** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Insolvency Act 1986 (c. 45)
+
+**[^F277]151** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Criminal Justice Act 1987 (c. 38)
+
+**152** After section 1(6) of the Criminal Justice Act 1987 (functions of the Director of the Serious Fraud Office) insert—
+
+> (6A) The Director has the functions conferred on him by, or in relation to, Part 5 or 8 of the Proceeds of Crime Act 2002 (c. 29) (civil recovery of the proceeds etc. of unlawful conduct, civil recovery investigations and disclosure orders in relation to confiscation investigations).
+
+#### Limitation (Northern Ireland) Order 1989 (SI 1989/1339 (N.I.11))
+
+**153** (1) Article 72A of the Limitation (Northern Ireland) Order 1989 (actions for recovery of property obtained through unlawful conduct etc.) is amended as follows.
+
+(2) In paragraph (2) for “Director's” substitute “ relevant person's ”.
+
+(3) In paragraph (4) for “Director's” substitute “ relevant person's ”.
+
+(4) After paragraph (7) insert—
+
+> (8) In this Article “relevant person” means—
+>
+> (a) the Serious Organised Crime Agency,
+>
+> (b) the Director of the Serious Fraud Office, or
+>
+> (c) the Director of Public Prosecutions for Northern Ireland.
+
+#### Insolvency (Northern Ireland) Order 1989 (SI 1989/2405 (N.I.19))
+
+**[^F278]154** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Police Act 1996 (c. 16)
+
+**155** (1) Section 97 of the Police Act 1996 (police officers engaged on service outside their force) is amended as follows.
+
+(2) In subsection (1) omit paragraph (ce).
+
+(3) In subsection (6)(a) omit “(ce),”.
+
+(4) In subsection (8) omit “(ce),”.
+
+#### Police (Northern Ireland) Act 1998 (c. 32)
+
+**156** (1) Section 27 of the Police (Northern Ireland) Act 1998 (members of the Police Service of Northern Ireland engaged on other police service) is amended as follows.
+
+(2) In subsection (1) omit paragraph (ca).
+
+(3) In subsection (5)(b) omit “(ca),”.
+
+(4) In subsection (7) omit “(ca),”.
+
+**157** After section 60ZA(6) of that Act (SOCA) insert—
+
+> (7) An agreement or order under this section must not provide for procedures in relation to so much of any complaint or matter as relates to any functions of the Agency mentioned in section 2A of the Serious Organised Crime and Police Act 2005 (c. 15) (functions as to the recovery of assets).
+
+#### Northern Ireland Act 1998 (c. 47)
+
+**158** (1) In section 75(4A) of the Northern Ireland Act 1998 (statutory duty on public authorities) after “offences” insert “ or any of the functions conferred on him by, or in relation to, Part 5 or 8 of the Proceeds of Crime Act 2002 (c. 29) (civil recovery of the proceeds etc. of unlawful conduct, civil recovery investigations and disclosure orders in relation to confiscation investigations) ”.
+
+(2) After section 76(10) of that Act (discrimination by public authorities) insert—
+
+> (11) The reference in subsection (1) to the functions of the Director of Public Prosecutions for Northern Ireland does not include any of the functions conferred on him by, or in relation to, Part 5 or 8 of the Proceeds of Crime Act 2002 (c. 29) (civil recovery of the proceeds etc. of unlawful conduct, civil recovery investigations and disclosure orders in relation to confiscation investigations).
+
+#### Access to Justice Act 1999 (c. 22)
+
+**[^F279]159** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Police Reform Act 2002 (c. 30)
+
+**160** After section 10(8) of the Police Reform Act 2002 (general functions of the Independent Police Complaints Commission) insert—
+
+> (9) Nothing in this Part shall confer any function on the Commission in relation to so much of any complaint, conduct matter or DSI matter as relates to—
+>
+> (a) any functions of the Serious Organised Crime Agency mentioned in section 2A of the Serious Organised Crime and Police Act 2005 (c. 15) (functions as to the recovery of assets); or
+>
+> (b) the functions of the National Policing Improvement Agency under section 3 of the Proceeds of Crime Act 2002 (c. 29) (accreditation and training of financial investigators).
+
+**161** After section 26A(4) of that Act (SOCA) insert—
+
+> (4A) An agreement under this section must not provide for procedures in relation to so much of any complaint, conduct matter or DSI matter as relates to any functions of the Agency mentioned in section 2A of the Serious Organised Crime and Police Act 2005 (c. 15) (functions as to the recovery of assets).
+
+**162** After section 26B(4) of that Act (National Policing Improvement Agency) insert—
+
+> (4A) An agreement under this section must not provide for procedures in relation to so much of any complaint, conduct matter or DSI matter as relates to the functions of the Agency under section 3 of the Proceeds of Crime Act 2002 (c. 29) (accreditation and training of financial investigators).
+
+#### Access to Justice (Northern Ireland) Order 2003 (S.I. 2003/435 (N.I.10))
+
+**163** (1) Paragraph 3 of Schedule 2 to the Access to Justice (Northern Ireland) Order 2003 (representation in Crown Court proceedings under the Proceeds of Crime Act 2002 (c. 29) which may be funded by the Northern Ireland Legal Services Commission) is amended as follows.
+
+(2) In sub-paragraph (1)(a) omit “or 204(3)”.
+
+(3) In sub-paragraph (1)(c) for “to 201” substitute “ to 199 ”.
+
+#### Commissioners for Revenue and Customs Act 2005 (c. 11)
+
+**164** In section 21(1)(b) of the Commissioners for Revenue and Customs Act 2005 (disclosure to prosecuting authority)—
+
+(a) omit “or” at the end of sub-paragraph (i); and
+
+(b) after sub-paragraph (ii) insert
+
+> , or
+>
+> “ in the case of the Director of Revenue and Customs Prosecutions, to exercise his functions under, or in relation to, Part 5 or 8 of the Proceeds of Crime Act 2002 (c. 29).
+
+**[^F280]165** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**166** In section 37(1) of that Act (prosecutors) after “section 35” insert “ (excluding any function mentioned in subsection (4A) of that section) ”.
+
+**167** (1) Section 40 of that Act (confidentiality) is amended as follows.
+
+(2) In subsection (2) (exceptions to confidentiality restrictions), after paragraph (c), insert—
+
+> (ca) does not apply to a disclosure made for the purposes of—
+>
+> (i) the exercise of any functions of the prosecutor under Parts 2, 3 and 4 of the Proceeds of Crime Act 2002 (c. 29),
+>
+> (ii) the exercise of any functions of the Serious Organised Crime Agency under that Act,
+>
+> (iii) the exercise of any functions of the Director of Public Prosecutions, the Director of the Serious Fraud Office, the Director of Public Prosecutions for Northern Ireland or the Scottish Ministers under, or in relation to, Part 5 or 8 of that Act,
+>
+> (iv) the exercise of any functions of an officer of Revenue and Customs or a constable under Chapter 3 of Part 5 of that Act, or
+>
+> (v) investigations or proceedings outside the United Kingdom which have led or may lead to the making of an external order within the meaning of section 447 of that Act,
+>
+> (cb) does not apply to a disclosure of information obtained in the exercise of functions under the Proceeds of Crime Act 2002 (c. 29) if the disclosure is made for the purposes of the exercise of a function which the Secretary of State thinks is a public function and which he designates by order,
+
+.
+
+(3) After subsection (10) insert—
+
+> (10A) An order under subsection (2)(cb)—
+>
+> (a) may include transitional or incidental provision,
+>
+> (b) shall be made by statutory instrument, and
+>
+> (c) shall not be made unless a draft has been laid before, and approved by a resolution of, each House of Parliament.
+
+**[^F281]168** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Serious Organised Crime and Police Act 2005 (c. 15)
+
+**169** After section 2 of the Serious Organised Crime and Police Act 2005 (functions of SOCA as to serious organised crime) insert—
+
+> **Functions of SOCA as to the recovery of assets**
+>
+> **2A** SOCA has the functions conferred on it (whether directly or through its staff) by the Proceeds of Crime Act 2002 (c. 29) (functions relating to the recovery of assets).
+
+**170** (1) Section 5 of that Act (SOCA's general powers) is amended as follows.
+
+(2) In subsection (2)(d) after “or 3” insert “ or mentioned in section 2A, ”.
+
+(3) In subsection (3) after “3” insert “ or mentioned in section 2A ”.
+
+(4) In subsection (4) after “section” insert “ 2A or ”.
+
+**171** After section 19(4) of that Act (charges by SOCA and other receipts) insert—
+
+> (4A) Subsection (3) is subject to any provision made by the Proceeds of Crime Act 2002 (c. 29).
+
+**172** (1) Section 33 (disclosure of information by SOCA) of that Act is amended as follows.
+
+(2) In subsection (2) after paragraph (c) insert—
+
+> (ca) the exercise of any function of SOCA mentioned in section 2A (functions relating to the recovery of assets);
+>
+> (cb) the exercise of any functions of the prosecutor under Parts 2, 3 and 4 of the Proceeds of Crime Act 2002 (c. 29);
+>
+> (cc) the exercise of any functions of the Director of Public Prosecutions, the Director of Revenue and Customs Prosecutions, the Director of the Serious Fraud Office, the Director of Public Prosecutions for Northern Ireland or the Scottish Ministers under, or in relation to, Part 5 or 8 of that Act;
+>
+> (cd) the exercise of any functions of an officer of Revenue and Customs or a constable under Chapter 3 of Part 5 of that Act;
+>
+> (ce) investigations or proceedings outside the United Kingdom which have led or may lead to the making of an external order within the meaning of section 447 of that Act;
+
+.
+
+(3) After subsection (2) insert—
+
+> (2A) Subsections (1) and (2) do not apply to information obtained by SOCA in connection with the exercise of its functions under Part 6 of the Proceeds of Crime Act 2002 (c. 29) (Revenue functions).
+>
+> (2B) But such information may be disclosed by SOCA—
+>
+> (a) to the Commissioners;
+>
+> (b) to the Lord Advocate for the purpose of the exercise by the Lord Advocate of his functions under Part 3 of that Act (confiscation: Scotland).
+>
+> (2C) Information disclosed to the Lord Advocate under subsection (2B)(b) may be further disclosed by him only to the Scottish Ministers for the purpose of the exercise by them of their functions under Part 5 of that Act (civil recovery of the proceeds etc. of unlawful conduct).
+>
+> (2D) Subsections (1) and (2), so far as relating to disclosure for the purposes of the exercise of any functions of the Lord Advocate under Part 3 of the Proceeds of Crime Act 2002 (c. 29) or of the Scottish Ministers under, or in relation to, Part 5 of that Act, do not apply to information obtained by SOCA in connection with the exercise of any of its functions other than its functions under that Act.
+
+**173** After section 35(1) of that Act (restrictions on further disclosure) insert—
+
+> (1A) Subsection (1) does not apply to—
+>
+> (a) information disclosed by SOCA under section 33 to the Lord Advocate for the purpose of the exercise of any of his functions under Part 3 of the Proceeds of Crime Act 2002; or
+>
+> (b) information disclosed by SOCA under section 33 to the Scottish Ministers for the purposes of the exercise of any of their functions under, or in relation to, Part 5 of that Act;
+>
+> but see instead section 441 of the Proceeds of Crime Act 2002.
+
+**174** In paragraph 8 of Schedule 1 to that Act (SOCA's staff) after sub-paragraph (1), insert—
+
+> (1A) SOCA must appoint one of its employees as a person with responsibilities in relation to the exercise of SOCA's functions in Northern Ireland under the Proceeds of Crime Act 2002 (c. 29).
+
+**175** In paragraph 21(1) and (2) of Schedule 5 to that Act (persons specified for the purposes of protection) omit “is or”.
+
+#### Gambling Act 2005 (c. 19)
+
+**176** In Part 2 of Schedule 6 to the Gambling Act 2005 (exchange of information: enforcement and regulatory bodies)—
+
+(a) omit the entries relating to the Director and staff of the Assets Recovery Agency, the Director General and staff of the National Crime Squad and the Director General and staff of the National Criminal Intelligence Service; and
+
+(b) after the entry for the Serious Fraud Office insert— “ The Serious Organised Crime Agency ”.
+
+#### Police and Justice Act 2006 (c. 48)
+
+**177** (1) Schedule 1 to the Police and Justice Act 2006 (National Policing Improvement Agency) is amended as follows.
+
+(2) In paragraph 1 (the objects of the Agency)—
+
+(a) after paragraph (e), insert—
+
+> (ea) the carrying out of its functions under section 3 of the Proceeds of Crime Act 2002 (c. 29) (accreditation and training of financial investigators);
+
+; and
+
+(b) in paragraph (f) for “(e)” substitute “ (ea) ”.
+
+(3) After paragraph 4(5) (consultation: Scotland or Northern Ireland) insert—
+
+> (6) This paragraph does not apply to any exercise of the Agency's power under paragraph 2(1) which is for the purposes of attaining the object mentioned in paragraph 1(ea) (accreditation and training of financial investigators).
+
+(4) After paragraph 6(4) (strategic priorities) insert—
+
+> (4A) Before determining strategic priorities for the Agency in relation to its functions under section 3 of the Proceeds of Crime Act 2002 (c. 29) (accreditation and training of financial investigators), the Secretary of State must (in addition to those required above) consult such other persons as the Secretary of State considers appropriate.
+
+(5) In paragraph 35 (payments by Agency to police authorities) after “objects” insert “ (other than the object mentioned in paragraph 1(ea): accreditation and training of financial investigators) ”.
+
+#### Corporate Manslaughter and Corporate Homicide Act 2007 (c. 19)
+
+**178** In Schedule 1 to the Corporate Manslaughter and Corporate Homicide Act 2007 (list of government departments etc.) omit “Assets Recovery Agency”.
+
+## SCHEDULE 9 — Transfers to SOCA or NPIA
+
+*Section 74(3)*
+
+### Interpretation
+
+**1** In this Schedule—
+
+- “the Agency” means the Assets Recovery Agency;
+- “the Director” means the Director of the Assets Recovery Agency;
+- “NPIA” means the National Policing Improvement Agency; and
+- “transfer scheme” means a scheme made by the Secretary of State under this Schedule.
+
+### Director and staff of Agency
+
+**2** (1) A transfer scheme may provide for a person who is the Director or a member of staff of the Agency to become an employee of SOCA or NPIA.
+
+(2) If the person had a contract of employment before becoming an employee of SOCA or NPIA, the scheme may provide for that contract to have effect (subject to any necessary modifications) as if originally made between him and SOCA or (as the case may be) NPIA.
+
+(3) If the person did not have a contract of employment, the scheme may provide for the terms and conditions of his appointment or service to have effect (subject to any necessary modifications) as the terms and conditions of his contract of employment with SOCA or (as the case may be) NPIA.
+
+**3** (1) A transfer scheme may provide—
+
+(a) for any secondment by virtue of which a person serves as the Director or a member of staff of the Agency to have effect as a secondment to SOCA or NPIA; and
+
+(b) for him to serve as a member of the staff of SOCA or (as the case may be) NPIA.
+
+(2) The scheme may make provision as to the terms and conditions which are to have effect as the terms and conditions of his secondment to SOCA or (as the case may be) NPIA.
+
+**4** (1) A transfer scheme may provide—
+
+(a) for the transfer to SOCA or (as the case may be) NPIA of the rights, powers, duties and liabilities of the employer under or in connection with the contract of employment of a person who becomes a member of the staff of SOCA or NPIA by virtue of the scheme;
+
+(b) for anything done before that transfer by, or in relation to, the employer in respect of such a contract or the employee to be treated as having been done by, or in relation to, SOCA or (as the case may be) NPIA.
+
+(2) Sub-paragraph (1) applies with the necessary modifications in relation to a person who before becoming a member of the staff of SOCA or NPIA—
+
+(a) did not have a contract of employment; or
+
+(b) held an appointment by virtue of a secondment.
+
+(3) A transfer scheme may make provision for periods before a person became an employee of SOCA or NPIA to count as periods of employment with SOCA or (as the case may be) NPIA (and for the operation of the scheme not to be treated as having interrupted the continuity of that employment).
+
+**5** (1) A transfer scheme may provide for a person who—
+
+(a) is the Director or a member of staff of the Agency; and
+
+(b) would otherwise become a member of the staff of SOCA or NPIA by the operation of the scheme;
+
+not to become a member of the staff of SOCA or (as the case may be) NPIA if he gives notice objecting to the operation of the scheme in relation to him.
+
+(2) A transfer scheme may provide for any person who would be treated (whether by an enactment or otherwise) as being dismissed by the operation of the scheme not to be so treated.
+
+**6** (1) A transfer scheme may provide for the termination of an appointment as the Director or a member of staff of the Agency.
+
+(2) The Secretary of State may make a payment of such amount (if any) as he may determine to the person who held the appointment.
+
+### Property, rights and liabilities etc.
+
+**7** (1) A transfer scheme may provide for the transfer to SOCA or NPIA of property, rights and liabilities of the Director or the Agency.
+
+(2) The scheme may create rights, or impose liabilities, in relation to property, rights and liabilities transferred by virtue of the scheme.
+
+(3) The scheme may provide for things done by or in relation to persons to whom sub-paragraph (4) applies to be—
+
+(a) treated as done by or in relation to SOCA or members of the staff of SOCA or (as the case may be) NPIA or members of the staff of NPIA;
+
+(b) continued by or in relation to SOCA or members of the staff of SOCA or (as the case may be) NPIA or members of the staff of NPIA.
+
+(4) This sub-paragraph applies to—
+
+(a) the Director;
+
+(b) members of staff of the Agency.
+
+(5) The scheme may, in particular, make provision about the continuation of legal proceedings.
+
+**8** A transfer scheme may provide for SOCA or NPIA to make any payment which—
+
+(a) before a day specified in the scheme could have been made by the Director or a member of staff of the Agency; but
+
+(b) is not a liability which can be transferred by virtue of paragraph 7.
+
+### Supplementary
+
+**9** (1) A transfer scheme may contain—
+
+(a) further provision in connection with any of the matters to which paragraphs 2 to 8 relate;
+
+(b) the provision mentioned in sub-paragraph (3).
+
+(2) The provision which may be made under sub-paragraph (1)(a) includes provision as to the consequences of the termination of a person's appointment or employment by or by virtue of the scheme.
+
+(3) The provision mentioned in this sub-paragraph is provision—
+
+(a) for the Secretary of State, or any other person nominated by or in accordance with the scheme, to determine any matter requiring determination under or in consequence of the scheme; and
+
+(b) as to the payment of fees charged, or expenses incurred, by any person nominated to determine any matter by virtue of paragraph (a).
+
+**10** Before making a transfer scheme which contains any provision relating to the Director or the members of staff of the Agency, the Secretary of State must consult such bodies appearing to represent the interests of the persons concerned as he considers appropriate.
+
+**11** A transfer scheme is not an order of the Secretary of State for the purposes of section 89.
+
+## SCHEDULE 10 — Detained cash investigations: further provision
+
+*Section 77*
+
+### Amendments to the Proceeds of Crime Act 2002
+
+**1** The Proceeds of Crime Act 2002 (c. 29) (investigations) is amended as follows.
+
+**2** In section 342(1) (offences of prejudicing investigation) after “a civil recovery investigation” insert “ , a detained cash investigation ”.
+
+**[^F282]3** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F282]4** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F282]5** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F282]6** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**7** (1) Section 352 (search and seizure warrants) is amended as follows.
+
+(2) In subsection (3)(c) after “(7)” insert “ , (7A), (7B) ”.
+
+(3) After subsection (5)(b) insert—
+
+> (c) a constable or an officer of Revenue and Customs, if the warrant is sought for the purposes of a detained cash investigation.
+
+**8** (1) Section 353 (requirements where production order not available) is amended as follows.
+
+(2) In subsection (5)(a) after “(7)” insert “ , (7A), (7B) ”.
+
+(3) After subsection (10)(b) insert—
+
+> (c) a constable or an officer of Revenue and Customs, if the warrant is sought for the purposes of a detained cash investigation.
+
+**[^F283]9** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**10** In section 357(2) (investigations to which disclosure orders do not apply) after “to a” insert “ detained cash investigation or a ”.
+
+**11** In section 363 (customer information orders) after subsection (1) insert—
+
+> (1A) No application for a customer information order may be made in relation to a detained cash investigation.
+
+**12** In section 370 (account monitoring orders) after subsection (1) insert—
+
+> (1A) No application for an account monitoring order may be made in relation to a detained cash investigation.
+
+**13** In section 378 (officers) after subsection (3) insert—
+
+> (3A) In relation to a detained cash investigation these are appropriate officers—
+>
+> (a) a constable;
+>
+> (b) an officer of Revenue and Customs.
+
+**14** In section 380(2) (sheriff in Scotland to act in exercise of civil jurisdiction in making production orders in certain cases) after “a civil recovery investigation” insert “ or a detained cash investigation ”.
+
+**15** In section 385(4)(b) (government departments: Scotland) after “a civil recovery investigation” insert “ or a detained cash investigation ”.
+
+**16** In section 386(3)(b) (rules of court in connection with production orders and orders to grant entry: Scotland) after “a civil recovery investigation” insert “ or a detained cash investigation ”.
+
+**17** In section 387(2) (sheriff in Scotland to act in exercise of civil jurisdiction in issuing search warrants in certain cases) after “a civil recovery investigation” insert “ or a detained cash investigation ”.
+
+**18** In section 388(5)(a) (requirements where production order not available: Scotland) after “(7)” insert “ , (7A), (7B) ”.
+
+**19** (1) Section 390 (further provisions: confiscation, civil recovery and money laundering: Scotland) is amended as follows.
+
+(2) In the heading after “civil recovery” insert “ , detained cash ”.
+
+(3) In subsection (1) after “civil recovery investigations” insert “ , detained cash investigations ”.
+
+(4) In subsection (5) after “a civil recovery investigation” insert “ or a detained cash investigation ”.
+
+(5) In subsection (6) after “a civil recovery investigation” insert “ or a detained cash investigation ”.
+
+(6) In subsection (7) after “a civil recovery investigation” insert “ or a detained cash investigation ”.
+
+**20** In section 391(2) (investigations to which disclosure orders do not apply: Scotland) after “to a” insert “ detained cash investigation or a ”.
+
+**21** In section 397 (customer information orders: Scotland) after subsection (1) insert—
+
+> (1A) No application for a customer information order may be made in relation to a detained cash investigation.
+
+**22** In section 404 (account monitoring orders: Scotland) after subsection (1) insert—
+
+> (1A) No application for an account monitoring order may be made in relation to a detained cash investigation.
+
+**23** (1) Section 412 (interpretation: Scotland) is amended as follows.
+
+(2) In the definition of “appropriate person”, in paragraph (b), after “a civil recovery investigation” insert “ or a detained cash investigation ”.
+
+(3) In the definition of “proper person”, in paragraph (b), after “a civil recovery investigation” insert “ or a detained cash investigation ”.
+
+**24** (1) Section 416 (other interpretative provisions) is amended as follows.
+
+(2) In subsection (1) after “confiscation investigation: section 341(1)” insert— “ detained cash investigation: section 341(3A) ”.
+
+(3) After subsection (7) insert—
+
+> (7A) “Unlawful conduct” has the meaning given by section 241.
+
+**25** In section 450(1)(a) (pseudonyms: Scotland) after “a civil recovery investigation” insert “ or a detained cash investigation ”.
+
+### [^F282][^F284]Other amendments
+
+**[^F282][^F284]26** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F282][^F284]27** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F282][^F284]28** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 11 — Powers to recover cash: financial investigators
+
+*Section 79*
+
+### Amendments to Chapter 3 of Part 5 of 2002 Act
+
+**1** Chapter 3 of Part 5 of the Proceeds of Crime Act 2002 (c. 29) (recovery of cash in summary proceedings) is amended in accordance with paragraphs 2 to 13.
+
+**2** (1) Section 289 (powers to search for cash) is amended as follows.
+
+(2) In subsection (1)—
+
+(a) for “or constable who” substitute “ , a constable or an accredited financial investigator ”; and
+
+(b) after “premises”, where it first appears, insert “ and ”.
+
+(3) In subsection (2) for “or constable” substitute “ , a constable or an accredited financial investigator ”.
+
+(4) In subsections (3) and (4) for “or constable” substitute “ , constable or accredited financial investigator ”.
+
+(5) In subsection (5), after paragraph (b), insert—
+
+> (c) are exercisable by an accredited financial investigator only in relation to premises or (as the case may be) suspects in England, Wales or Northern Ireland.
+
+**3** (1) Section 290 (prior approval by senior officer) is amended as follows.
+
+(2) In subsection (4), after paragraph (b), insert—
+
+> (c) in relation to the exercise of the power by an accredited financial investigator, an accredited financial investigator who falls within a description specified in an order made for this purpose by the Secretary of State under section 453.
+
+(3) In subsection (6) for “or constable” substitute “ , constable or accredited financial investigator ”.
+
+**4** In section 291(2) (report on exercise of powers) for “or constable” substitute “ , constable or accredited financial investigator ”.
+
+**5** (1) Section 292 (code of practice) is amended as follows.
+
+(2) In subsection (1) after “constables” insert “ and accredited financial investigators ”.
+
+(3) In subsection (6) for “or constable” substitute “ , a constable or an accredited financial investigator ”.
+
+**6** (1) Section 294 (seizure of cash) is amended as follows.
+
+(2) In subsections (1) and (2) for “or constable” substitute “ , a constable or an accredited financial investigator ”.
+
+(3) After subsection (3) insert—
+
+> (4) This section does not authorise the seizure by an accredited financial investigator of cash found in Scotland.
+
+**7** (1) Section 295 (detention of seized cash) is amended as follows.
+
+(2) In subsection (1) for “or constable” substitute “ , constable or accredited financial investigator ”.
+
+(3) In subsection (4)(a) for “or a constable” substitute “ , a constable or an accredited financial investigator ”.
+
+**8** In section 296(2) (release of part of cash seized) for “or constable” substitute “ , constable or accredited financial investigator ”.
+
+**9** In section 297(4) (release of detained cash) after “constable” insert “ or accredited financial investigator ”.
+
+**10** In section 298(1)(a) (power to apply for forfeiture) before “or” insert “ , an accredited financial investigator ”.
+
+**11** After section 302(7) insert—
+
+> (7A) If the cash was seized by an accredited financial investigator who was not an officer of Revenue and Customs or a constable, the compensation is to be paid as follows—
+>
+> (a) in the case of an investigator—
+>
+> (i) who was employed by a police authority in England and Wales under section 15 of the Police Act 1996 (c. 16) and was under the direction and control of the chief officer of police of the police force maintained by the authority, or
+>
+> (ii) who was a member of staff of the City of London police force,
+>
+> it is to be paid out of the police fund from which the expenses of the police force are met,
+>
+> (b) in the case of an investigator who was a member of staff of the Police Service of Northern Ireland, it is to be paid out of money provided by the Chief Constable,
+>
+> (c) in the case of an investigator who was a member of staff of a department of the Government of the United Kingdom, it is to be paid by the Minister of the Crown in charge of the department or by the department,
+>
+> (d) in the case of an investigator who was a member of staff of a Northern Ireland department, it is to be paid by the department,
+>
+> (e) in any other case, it is to be paid by the employer of the investigator.
+>
+> (7B) The Secretary of State may by order amend subsection (7A).
+
+**12** (1) Section 302A (powers for prosecutors to appear in proceedings) (as inserted by section 84(1) above) is amended as follows.
+
+(2) In subsection (1)—
+
+(a) after “constable”, in the first place where it appears, insert “ or an accredited financial investigator ”; and
+
+(b) after “constable”, in the second place where it appears, insert “ or (as the case may be) an accredited financial investigator ”.
+
+(3) After subsection (3) insert—
+
+> (4) The references in subsection (1) to an accredited financial investigator do not include an accredited financial investigator who is an officer of Revenue and Customs but the references in subsection (2) to an officer of Revenue and Customs do include an accredited financial investigator who is an officer of Revenue and Customs.
+
+**13** After section 303 insert—
+
+> **Financial investigators**
+>
+> **303A** (1) In this Chapter (apart from this section) any reference in a provision to an accredited financial investigator is a reference to an accredited financial investigator who falls within a description specified in an order made for the purposes of that provision by the Secretary of State under section 453.
+>
+> (2) Subsection (1) does not apply to the second reference to an accredited financial investigator in section 290(4)(c).
+>
+> (3) Where an accredited financial investigator of a particular description—
+>
+> (a) applies for an order under section 295,
+>
+> (b) applies for forfeiture under section 298, or
+>
+> (c) brings an appeal under, or relating to, this Chapter,
+>
+> any subsequent step in the application or appeal, or any further application or appeal relating to the same matter, may be taken, made or brought by a different accredited financial investigator of the same description.
+
+### Other amendments to 2002 Act
+
+**14** In section 438(1)(f) of the Proceeds of Crime Act 2002 (c. 29) (disclosure of information by the Director of the Assets Recovery Agency) before “or” insert “ , an accredited financial investigator ”.
+
+**15** (1) Section 459 of that Act (orders and regulations) is amended as follows.
+
+(2) In subsection (4)(a) (exceptions to negative procedure) after “292(4),” insert “ 302(7B), ”.
+
+(3) In subsection (6)(a) (powers subject to affirmative procedure) after “292(4),” insert “ 302(7B), ”.
+
+(4) After subsection (6) insert—
+
+> (6A) If a draft of an order under section 302(7B) would, apart from this subsection, be treated as a hybrid instrument for the purposes of the standing orders of either House of Parliament, it shall proceed in that House as if it were not a hybrid instrument.
+
+### Amendments to other enactments
+
+**16** In section 40(2)(ca)(iv) of the Commissioners for Revenue and Customs Act 2005 (c. 11) (confidentiality) (as inserted by Schedule 8) after “Customs” insert “ , an accredited financial investigator ”.
+
+**17** In section 33(2)(cd) of the Serious Organised Crime and Police Act 2005 (c. 15) (disclosure of information by SOCA) (as inserted by Schedule 8) after “Customs” insert “ , an accredited financial investigator ”.
+
+## SCHEDULE 12 — Revenue and Customs: regulation of investigatory powers
+
+*Section 88*
+
+### Police Act 1997 (c. 50)
+
+**1** In section 93 of the Police Act 1997 (authorisations to interfere with property, &c.)—
+
+(a) in subsection (1B) for “customs officer” substitute “ an officer of Revenue and Customs ”;
+
+(b) in subsection (3)(d) for “a customs officer” substitute “ an officer of Revenue and Customs ”; and
+
+(c) for subsection (5)(h) substitute—
+
+> (h) an officer of Revenue and Customs who is a senior official within the meaning of the Regulation of Investigatory Powers Act 2000 and who is designated for the purposes of this paragraph by the Commissioners for Her Majesty's Revenue and Customs;
+
+.
+
+**2** In section 94(2)(f) of that Act (urgency) for “by a customs officer designated by the Commissioners of Customs and Excise” substitute “ by an officer of Revenue and Customs who is a senior official within the meaning of the Regulation of Investigatory Powers Act 2000 and who is designated by the Commissioners for Her Majesty's Revenue and Customs ”.
+
+**[^F285]3** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**4** In section 108(1) of that Act (interpretation) omit the definition of “customs officer”.
+
+### Regulation of Investigatory Powers Act 2000 (c. 23)
+
+**5** The Regulation of Investigatory Powers Act 2000 is amended as follows.
+
+**[^F286]6** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F287]7** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F287]8** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**9** In section 27(4)(c) (lawful surveillance, &c.) for “customs officers).” substitute “ officers of Revenue and Customs). ”
+
+**10** For section 32(6)(m) (authorisation of intrusive surveillance) substitute—
+
+> (m) an officer of Revenue and Customs who is a senior official and who is designated for the purposes of this paragraph by the Commissioners for Her Majesty's Revenue and Customs;
+
+.
+
+**11** In section 33 (surveillance: authorisation)—
+
+(a) for subsection (2) substitute—
+
+> (2) A person who is a designated person for the purposes of section 28 or 29 by reference to office, rank or position in Her Majesty's Revenue and Customs shall not grant an authorisation under that section except on an application made by an officer of Revenue and Customs.
+
+;
+
+(b) for subsection (4) substitute—
+
+> (4) A person who is a senior authorising officer by virtue of a designation by the Commissioners for Her Majesty's Revenue and Customs shall not grant an authorisation for the carrying out of intrusive surveillance except on an application made by an officer of Revenue and Customs.
+
+; and
+
+(c) in subsection (5)(a) for “a customs officer” substitute “ an officer of Revenue and Customs ”;
+
+(and in the italic cross-heading before section 33 for “customs” substitute “ Revenue and Customs ”).
+
+**12** In section 34 (grant of authorisation in senior officer's absence)—
+
+(a) in subsection (1) for “a customs officer;” substitute “ an officer of Revenue and Customs; ”;
+
+(b) in subsection (2)(a) for “the Commissioners of Customs and Excise,” substitute “ the Commissioners for Her Majesty's Revenue and Customs, ”; and
+
+(c) in subsection (4)(l)—
+
+(i) for “the Commissioners of Customs and Excise,” substitute “ “ the Commissioners for Her Majesty's Revenue and Customs, ”and
+
+(ii) after “if he is” insert “ a senior official ”.
+
+**13** In section 35 (intrusive surveillance authorisation: notification)—
+
+(a) in subsection (1) for “customs” substitute “ Revenue and Customs ”;
+
+(b) in subsection (10) for “customs” substitute “ Revenue and Customs ”; and
+
+(c) in subsection (10)(b) for “the Commissioners of Customs and Excise;” substitute “ the Commissioners for Her Majesty's Revenue and Customs; ”.
+
+**14** In section 36 (approval required for authorisation of intrusive surveillance to take effect)—
+
+(a) for subsection (1)(d) substitute—
+
+> (d) an officer of Revenue and Customs;
+
+; and
+
+(b) for subsection (6)(g) substitute—
+
+> (g) where the authorisation was granted by an officer of Revenue and Customs, the officer of Revenue and Customs for the time being designated for the purposes of this paragraph by a written notice given to the Chief Surveillance Commissioner by the Commissioners for Her Majesty's Revenue and Customs;
+
+.
+
+**15** For section 37(1)(d) (quashing authorisations) substitute—
+
+> (d) an officer of Revenue and Customs;
+
+(and in the heading to that section for “customs” substitute “ Revenue and Customs ”).
+
+**16** For section 40(d) (information) substitute—
+
+> (d) every officer of Revenue and Customs,
+
+.
+
+**17** In section 46(3) (Scotland: restrictions) for paragraph (e) substitute—
+
+> (e) the Commissioners for Her Majesty's Revenue and Customs;
+
+.
+
+**18** In section 48(3)(c)(ii) (interpretation) for “customs officers).” substitute “ officers of Revenue and Customs). ”
+
+**19** In section 49(1)(e) (encrypted data: disclosure: permission) for “the customs and excise” substitute (in each place) “ Her Majesty's Revenue and Customs ”.
+
+**20** In section 51 (cases where key required)—
+
+(a) for “the customs and excise” (in each place) substitute “ Her Majesty's Revenue and Customs ”; and
+
+(b) for “the Commissioners of Customs and Excise” (in each place) substitute “ the Commissioners for Her Majesty's Revenue and Customs ”.
+
+**21** In section 54(3) (secrecy) for “the customs and excise” substitute (in each place) “ Her Majesty's Revenue and Customs ”.
+
+**22** For section 55(1)(c) (general duty in relation to encrypted data) substitute—
+
+> (c) the Commissioners for Her Majesty's Revenue and Customs;
+
+.
+
+**23** In section 56(1) (interpretation) omit the definition of “the customs and excise”.
+
+**24** For section 65(6)(f) (the Tribunal) substitute—
+
+> (f) the Commissioners for Her Majesty's Revenue and Customs;
+
+.
+
+**25** In section 71(2)(c) (codes of practice) for “customs and excise” substitute “ Her Majesty's Revenue and Customs ”.
+
+**26** In section 76A(11) (foreign surveillance operations) for paragraph (d) of the definition of “United Kingdom officer” substitute—
+
+> (d) an officer of Revenue and Customs.
+
+**27** In section 81(1) (interpretation) omit the definition of “customs officer”.
+
+**[^F288]28** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**29** (1) In paragraphs 2(3) and (5), 4(2) and 5(3)(b) of Schedule 2 (encrypted data: disclosure: permission) for “customs and excise” or “the customs and excise” (in each place) substitute “ Her Majesty's Revenue and Customs ”.
+
+(2) In paragraph 6(4) of that Schedule—
+
+(a) for “A person commissioned by the Commissioners of Customs and Excise” substitute “ An officer of Revenue and Customs ”;
+
+(b) for “those Commissioners themselves” substitute “ the Commissioners for Her Majesty's Revenue and Customs ”;
+
+(c) for “their department” substitute “ Revenue and Customs ”; and
+
+(d) for “they” substitute “ the Commissioners ”.
+
+### Commissioners for Revenue and Customs Act 2005 (c. 11)
+
+**30** The following paragraphs of Schedule 2 to the Commissioners for Revenue and Customs Act 2005 (which restrict the class of functions in connection with which certain powers may be used) shall cease to have effect—
+
+(a) paragraph 1 (Wireless Telegraphy Act 2006 (c. 36), s. 48); and
+
+(b) paragraph 11 (Regulation of Investigatory Powers Act 2000 (c. 23), ss. 6(2)(h), 32(6)(m), 49(1)(e) and 54 and Sched. 2, paras. 2(3) and 4(2)).
+
+**31** Nothing in section 6 or 7 of the Commissioners for Revenue and Customs Act 2005 (initial functions) restricts the functions in connection with which Her Majesty's Revenue and Customs may exercise a power under an enactment amended by this Schedule.
+
+## SCHEDULE 13 — Transitional and transitory provisions and savings
+
+*Section 91(1)*
+
+### Serious crime prevention orders
+
+**1** In deciding for the purposes of paragraph (a) of section 1(1) or (2) whether a person has been involved in serious crime, the court may take account of conduct before the coming into force of that provision as well as conduct after the coming into force of that provision.
+
+**2** (1) Section 19, 20 or 21 does not apply to a person who is being dealt with on or after the coming into force of the section in relation to an offence of which the person was convicted before the coming into force of the section.
+
+(2) Sub-paragraph (1) does not prevent an application to the High Court for a serious crime prevention order in connection with the offence concerned.
+
+**3** In the application of section 23(2) or 24(5) before the commencement of paragraph 1(1) of Part 1 of Schedule 11 to the Constitutional Reform Act 2005 (c. 4) (citation of acts and rules), the reference to the Senior Courts Act 1981 (c. 54) is to be read as a reference to the Supreme Court Act 1981 (c. 54).
+
+**4** In the application of section 25(2)(a)—
+
+(a) in England and Wales, in relation to an offence committed before [[^F289]2 May 2022]; and
+
+(b) in Scotland, until the commencement of section 45(1) of the Criminal Proceedings etc. (Reform) (Scotland) Act 2007 (asp 6) (increase in sentencing powers from 6 to 12 months);
+
+the reference to 12 months is to be read as a reference to 6 months.
+
+### Encouraging or assisting crime
+
+**5** (1) Nothing in any provision of Part 2 affects the operation of—
+
+(a) any rule of the common law; or
+
+(b) any provision made by or under an Act or Northern Ireland legislation;
+
+in relation to offences committed wholly or partly before the commencement of the provision in Part 2 concerned.
+
+(2) For the purposes of sub-paragraph (1), an offence is partly committed before commencement if—
+
+(a) a relevant event occurs before commencement; and
+
+(b) another relevant event occurs on or after commencement.
+
+(3) In this paragraph “relevant event”, in relation to an offence, means any act or other event (including any consequence of an act) proof of which is required for conviction of the offence.
+
+**6** (1) This paragraph applies where, in any proceedings—
+
+(a) a person (“D”) is charged in respect of the same act both with an offence under section 44 and with the common law offence of inciting the commission of another offence;
+
+(b) the only thing preventing D from being found guilty of the offence under section 44 is the fact that it has not been proved beyond reasonable doubt that the time when the act took place was after the coming into force of that section; and
+
+(c) the only thing preventing D from being found guilty of the common law offence is that it has not been proved beyond reasonable doubt that that time was before the coming into force of section 59.
+
+(2) For the purpose of determining D's guilt it shall be conclusively presumed that the time when the act took place was before the coming into force of section 44.
+
+**7** In relation to any time before the coming into force of section 27(1) of the Justice (Northern Ireland) Act 2002 (c. 26), the reference in section 53(b) to the Advocate General for Northern Ireland is to be read as a reference to the Attorney General for Northern Ireland.
+
+### Data-sharing
+
+**8** In the application of section 70(1)(a)—
+
+(a) in England and Wales, in relation to an offence committed before the commencement of section 282(1) of the Criminal Justice Act 2003 (increase in sentencing powers of magistrates' court from 6 to 12 months for certain offences triable either way); and
+
+(b) in Scotland, until the commencement of section 45(1) of the Criminal Proceedings etc. (Reform) (Scotland) Act 2007 (asp 6) (increase in sentencing powers from 6 to 12 months);
+
+the reference to 12 months is to be read as a reference to 6 months.
+
+### Data matching
+
+**9** In relation to an offence committed before the commencement of section 282(1) of the Criminal Justice Act 2003 (c. 44) (increase in sentencing powers of magistrates' court from 6 to 12 months for certain offences triable either way), the reference to 12 months in each of the following provisions is to be read as a reference to 6 months—
+
+[^F290]a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) section 64D(8)(b) of the Public Audit (Wales) Act 2004 (c. 23) (as inserted by paragraph 4 of that Schedule).
+
+## SCHEDULE 14 — Repeals and revocations
+
+*Section 92*
+
+|  |  |
+|---|---|
+| *Title* | *Extent of repeal or revocation* |
+| Parliamentary Commissioner Act 1967 (c. 13) | In Schedule 2—<br>- (a) the entry for “The Director of the Assets Recovery Agency.”;<br>- (b) the paragraph in the Notes headed “Assets Recovery Agency”. |
+| Criminal Appeal Act 1968 (c. 19) | Section 33(1A). In section 51(1A), the words “, subject to section 33(1A) of this Act,”. |
+| Criminal Law Act 1977 (c. 45) | Section 5(7). |
+| Magistrates' Courts Act 1980 (c. 43) | Section 32(1)(b). Section 45. In Schedule 1, paragraph 35. |
+| Criminal Appeal (Northern Ireland) Act 1980 (c. 47) | In section 31—<br>- (a) subsection (1A);<br>- (b) in subsection (3), the words “, subject to subsection (1A) above,”. |
+| Legal Aid, Advice and Assistance (Northern Ireland) Order 1981 (S.I. 1981/228 (N.I.8)) | In paragraph 2A(1)(a) of Part 1 of Schedule 1, the words “or 204(3)”. |
+| Magistrates' Courts (Northern Ireland) Order 1981 (S.I. 1981/1675 (N.I.26)) | Article 60(1). |
+| Criminal Attempts and Conspiracy (Northern Ireland) Order 1983 (S.I. 1983/1120 (N.I.13)) | Article 13(8). |
+| Bankruptcy (Scotland) Act 1985 (c. 66) | In section 31A(1)(b), the word “52,”. |
+| Insolvency Act 1986 (c. 45) | In section 306A(1)(b), the word “52,”. |
+| Public Order Act 1986 (c. 64) | In section 12(10), the words from “notwithstanding” to the end. In section 13(13), the words from “notwithstanding” to the end. In section 14(10), the words from “notwithstanding” to the end. In section 14B(7), the words from “notwithstanding” to the end. |
+| Insolvency (Northern Ireland) Order 1989 (S.I. 1989/2405 (N.I.19)) | In Article 279A(1)(b), the word “52,”. |
+| Computer Misuse Act 1990 (c. 18) | Section 6(3). Section 7(4). In section 8(3), the words “or by virtue of section 7(4) above”. Section 9(2)(d). In section 16(4), the words from “and any reference” to the end. |
+| Police Act 1996 (c. 16) | In section 97—<br>- (a) subsection (1)(ce);<br>- (b) in subsections (6)(a) and (8), the word “(ce),”. |
+| Police Act 1997 (c. 50) | In section 108(1), the definition of “customs officer”. |
+| Police (Northern Ireland) Act 1998 (c. 32) | In section 27—<br>- (a) subsection (1)(ca);<br>- (b) in subsection (5)(b), the word “(ca),”;<br>- (c) in subsection (7), the word “(ca),”. |
+| Access to Justice Act 1999 (c. 22) | In paragraph 3(1)(b) of Schedule 2, the words “or 56(3)”. |
+| Regulation of Investigatory Powers Act 2000 (c. 23) | In section 56(1), the definition of “the customs and excise”. In section 81(1), the definition of “customs officer”. |
+| International Criminal Court Act 2001 (c. 17) | Section 55(3). Section 62(3). |
+| Proceeds of Crime Act 2002 (c. 29) | Sections 1 and 2. Section 3(6) and (8). Sections 4 and 5. In section 6(3)(a), the words “or the Director”. In section 11(7), paragraph (b) and the word “or” before it. In section 14(7)(b), the words “or the Director (as the case may be)”. In section 16—<br>- (a) in subsection (1), the words “or the Director (as the case may be)”;<br>- (b) in subsection (3), the words “or the Director (as the case may be)” and “or the Director”;<br>- (c) in subsection (4), the words “or Director”;<br>- (d) in subsection (5), the words “or the Director (as the case may be)” and “or the Director”;<br>- (e) in subsection (6), the words “or the Director”. In section 17(1), the words “or the Director”. In section 18(6), the words “or the Director (as the case may be)”. In section 19(1)(c), the words “or the Director”. In section 20—<br>- (a) subsection (3);<br>- (b) in subsection (4), the words from “If the court” to “to do so,” and, in paragraph (b), the words “or the Director”. In section 21(1)(b), (c) and (d), the words “or the Director”. In section 22(2), paragraph (b) and, in paragraph (c), the words “or 52”. In section 23(1)(b), the words “or 52”. In section 26—<br>- (a) in subsection (1)(b), the words “or the Director”;<br>- (b) in subsection (2), in paragraph (a), the words “or the Director (as the case may be)” and, in paragraph (b), the words “or the Director”. In section 27—<br>- (a) in subsection (3)(a), the words “or the Director”;<br>- (b) in subsection (5)(b), the words “or the Director (as the case may be)”;<br>- (c) in subsection (7), the words “or the Director”. In section 28—<br>- (a) in subsection (3)(a), the words “or the Director”;<br>- (b) in subsection (5)(b), the words “or the Director (as the case may be)”. In section 31—<br>- (a) in the heading, the words “or Director”;<br>- (b) in subsections (1) and (2), the words “or the Director”. In section 33(2)—<br>- (a) in paragraph (a), the words “(if the prosecutor appealed under section 31)”;<br>- (b) paragraph (b). Section 34. In section 35(1), paragraph (b) and the word “and” before it. Sections 36 and 37. Section 39(6). In section 40—<br>- (a) in subsections (4)(a), (5)(a) and (6)(a), the words “or the Director”;<br>- (b) in subsection (8)(b), the words “or the Director (as the case may be)”. Section 42(2)(b). Sections 52 and 53. Sections 56 and 57. Section 60. In section 63(1)(b), the words from “or”, where it first appears, to “Director”. In section 64—<br>- (a) in subsection (1)(b), the words from “or” to “section 52”;<br>- (b) subsection (3). In section 65—<br>- (a) in subsections (1) and (2), the words “or section 53”;<br>- (b) in subsection (5)(a), the words from “or”, where it first appears, to “Director”. Section 67(4)(c). In section 74(1)—<br>- (a) in paragraph (b), the words “or the Director”;<br>- (b) in paragraph (c), the words “or the Director (as the case may be)”. In section 156(3)(a), the words “or the Director”. In section 161(7), paragraph (b) and the word “or” before it. In section 164(7)(b), the words “or the Director (as the case may be)”. In section 166—<br>- (a) in subsection (1), the words “or the Director (as the case may be)”;<br>- (b) in subsection (3), the words “or the Director (as the case may be)” and “or the Director”;<br>- (c) in subsection (4), the words “or Director”;<br>- (d) in subsection (5), the words “or the Director (as the case may be)” and “or the Director”;<br>- (e) in subsection (6), the words “or the Director”. In section 167(1), the words “or the Director”. In section 168(6), the words “or the Director (as the case may be)”. In section 169(1)(c), the words “or the Director”. In section 170—<br>- (a) subsection (3);<br>- (b) in subsection (4), the words from “If the court” to “to do so,” and, in paragraph (b), the words “or the Director”. In section 171(1)(b), (c) and (d), the words “or the Director”. In section 172(2), paragraph (b) and, in paragraph (c), the words “or 200”. In section 173(1)(b), the words “or 200”. In section 176—<br>- (a) in subsection (1)(b), the words “or the Director”;<br>- (b) in subsection (2), in paragraph (a), the words “or the Director (as the case may be)” and, in paragraph (b), the words “or the Director”. In section 177—<br>- (a) in subsection (3)(a), the words “or the Director”;<br>- (b) in subsection (5)(b), the words “or the Director (as the case may be)”;<br>- (c) in subsection (7), the words “or the Director”. In section 178—<br>- (a) in subsection (3)(a), the words “or the Director”;<br>- (b) in subsection (5)(b), the words “or the Director (as the case may be)”. In section 181—<br>- (a) in the heading, the words “or Director”;<br>- (b) in subsections (1) and (2), the words “or the Director”. In section 183(2)—<br>- (a) in paragraph (a), the words “(if the prosecutor appealed under section 181)”;paragraph (b). Section 184. Section 186. Section 188(6). In section 189—<br>- (a) in subsections (4)(a), (5)(a) and (6)(a), the words “or the Director”;<br>- (b) in subsection (8)(b), the words “or the Director (as the case may be)”. Section 191(2)(b). Sections 200 and 201. Sections 204 and 205. Section 208. In section 210(2)(b) and (3), the words “or 200”. In section 211(1)(b), the words from “or”, where it first appears, to “Director”. In section 212—<br>- (a) in subsection (1)(b), the words from “or” to “section 200”;<br>- (b) subsection (3). In section 213—<br>- (a) in subsections (1) and (2), the words “or section 201”;<br>- (b) in subsection (5)(a), the words from “or”, where it first appears, to “Director”. Section 215(4)(d). In section 222(1)—<br>- (a) in paragraph (b), the words “or the Director”;<br>- (b) in paragraph (c), the words “or the Director (as the case may be)”. Section 313. Section 325(1). Section 356(6). Section 376. Section 378(7). In section 417(2)—<br>- (a) in paragraph (b), the words “or 52”;<br>- (b) in paragraph (d), the words “or 200”. In section 419(2)(b), the word “52,”. In section 420(2)—<br>- (a) in paragraph (b), the words “or 52”;<br>- (b) in paragraph (d), the words “or 200”. In section 422(2)(b), the word “52,”. In section 423(2)—<br>- (a) in paragraph (b), the words “or 52”;<br>- (b) in paragraph (d), the words “or 200”. In section 425(2)(b), the word “52,”. In section 426(2)—<br>- (a) in paragraph (b), the words “or 52”;<br>- (b) in paragraph (d), the words “or 200”. In section 427(3)(b), the word “52,”. In section 428(2)—<br>- (a) in paragraph (b), the words “or 52”;<br>- (b) in paragraph (d), the words “or 200”. In section 429(3)(b), the word “52,”. In section 430(2)—<br>- (a) in paragraph (b), the words “or 52”;<br>- (b) in paragraph (d), the words “or 200”. Section 436(5)(b) and (ga). Section 438(2) to (4). Section 449(5). Schedule 1. In Schedule 8, the words from “The Director”, where it first appears, to “by law.””, where it first appears. In Schedule 11, paragraphs 2, 4(2), 9(3), 30(1) and (2) and 34(1) and (2). |
+| Crime (International Co-operation) Act 2003 (c. 32) | In Schedule 5, paragraphs 82 and 83. |
+| Access to Justice (Northern Ireland) Order 2003 (S.I. 2003/435 (N.I.10)) | In paragraph 3(1)(a) of Schedule 2, the words “or 204(3)”. |
+| Commissioners for Revenue and Customs Act 2005 (c. 11) | In section 21(1)(b), the word “or” at the end of sub-paragraph (i). Paragraphs 1 and 11 of Schedule 2. Paragraph 98 of Schedule 4. |
+| Serious Organised Crime and Police Act 2005 (c. 15) | Section 99(4). In Schedule 4—<br>- (a) in paragraph 82(2), paragraph (b) and the word “and” at the end of paragraph (b);<br>- (b) paragraphs 169, 176 and 178. In Schedule 5, in paragraph 21(1) and (2), the words “is or”. |
+| Gambling Act 2005 (c. 19) | In Part 2 of Schedule 6, the entries relating to the Director and staff of the Assets Recovery Agency, the Director General and staff of the National Crime Squad and the Director General and staff of the National Criminal Intelligence Service. |
+| Wireless Telegraphy Act 2006 (c. 36) | In Schedule 7, paragraph 38. |
+| Police and Justice Act 2006 (c. 48) | Section 35(2). In section 36, in the section to be substituted for section 3 of the Computer Misuse Act 1990 (c. 18), in subsection (2), paragraph (d) and the word “or” preceding it. Section 38(1). In Schedule 14, paragraphs 19(2) and 29(2). |
+| Tribunals, Courts and Enforcement Act 2007 (c. 15) | In Schedule 13, paragraph 145. |
+| Corporate Manslaughter and Corporate Homicide Act 2007 (c. 19) | In Schedule 1, the words “Assets Recovery Agency”. |
+
+---
+
+[^F1]: S. 1(1A) inserted (1.3.2016) by Serious Crime Act 2015 (c. 9), s. 88(1), Sch. 1 para. 2(2); S.I. 2016/148, reg. 3(f) (with art. 4)
+[^F2]: Word in s. 1(3) inserted (1.3.2016) by Serious Crime Act 2015 (c. 9), s. 88(1), Sch. 1 para. 2(3); S.I. 2016/148, reg. 3(f)
+[^F3]: S. 1(5) substituted (1.3.2016) by Serious Crime Act 2015 (c. 9), s. 88(1), Sch. 1 para. 2(4); S.I. 2016/148, reg. 3(f)
+[^F4]: Words in s. 2(6) substituted (1.3.2016) by Serious Crime Act 2015 (c. 9), s. 88(1), Sch. 1 para. 3(a); S.I. 2016/148, reg. 3(f)
+[^F5]: Words in s. 2(6) inserted (1.3.2016) by Serious Crime Act 2015 (c. 9), s. 88(1), Sch. 1 para. 3(b); S.I. 2016/148, reg. 3(f)
+[^F6]: S. 2A inserted (1.3.2016) by Serious Crime Act 2015 (c. 9), s. 88(1), Sch. 1 para. 4; S.I. 2016/148, reg. 3(f)
+[^F7]: Words in s. 3(6) substituted (1.3.2016) by Serious Crime Act 2015 (c. 9), s. 88(1), Sch. 1 para. 5(a); S.I. 2016/148, reg. 3(f)
+[^F8]: Words in s. 3(6) inserted (1.3.2016) by Serious Crime Act 2015 (c. 9), s. 88(1), Sch. 1 para. 5(b); S.I. 2016/148, reg. 3(f)
+[^F9]: Words in s. 4(4) inserted (12.4.2010) by The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976), Sch. 10 para. 2(2) (with arts. 28-31)
+[^F10]: S. 4(4A)(4B) inserted (1.3.2016) by Serious Crime Act 2015 (c. 9), s. 88(1), Sch. 1 para. 6; S.I. 2016/148, reg. 3(f)
+[^F11]: S. 4(5) inserted (12.4.2010) by The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976), Sch. 10 para. 2(3) (with arts. 28-31)
+[^F12]: Word in s. 5(2) inserted (1.3.2016) by Serious Crime Act 2015 (c. 9), s. 88(1), Sch. 1 para. 7; S.I. 2016/148, reg. 3(f)
+[^F13]: Words in s. 5(7) substituted (7.10.2013) by Crime and Courts Act 2013 (c. 22), s. 61(2), Sch. 8 para. 177; S.I. 2013/1682, art. 3(v)
+[^F14]: S. 5A inserted (3.5.2015) by Serious Crime Act 2015 (c. 9), ss. 50(2), 88(1); S.I. 2015/820, reg. 2(i)
+[^F15]: Words in s. 5A(6) substituted (25.5.2018) by Data Protection Act 2018 (c. 12), s. 212(1), Sch. 19 para. 144(2)(a) (with ss. 117, 209, 210); S.I. 2018/625, reg. 2(1)(g)
+[^F16]: Word in s. 5A(6) substituted (25.5.2018) by Data Protection Act 2018 (c. 12), s. 212(1), Sch. 19 para. 144(2)(b) (with ss. 117, 209, 210); S.I. 2018/625, reg. 2(1)(g)
+[^F17]: S. 5A(7) inserted (25.5.2018) by Data Protection Act 2018 (c. 12), s. 212(1), Sch. 19 para. 144(3) (with ss. 117, 209, 210); S.I. 2018/625, reg. 2(1)(g)
+[^F18]: Ss. 5B-5D inserted (2.12.2025 for specified purposes) by Border Security, Asylum and Immigration Act 2025 (c. 31), ss. 55(2), 65(3)(f)
+[^F19]: S. 7 substituted (12.4.2010) by The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976), Sch. 10 para. 3 (with arts. 28-31)
+[^F20]: S. 7(1A) inserted (1.3.2016) by Serious Crime Act 2015 (c. 9), s. 88(1), Sch. 1 para. 8; S.I. 2016/148, reg. 3(f)
+[^F21]: S. 8 substituted (2.2.2026 for specified purposes) by Border Security, Asylum and Immigration Act 2025 (c. 31), ss. 57(2), 65(1); S.I. 2026/59, reg. 2(g)
+[^F22]: S. 8 renumbered as s. 8(1) (29.6.2021) by Counter Terrorism and Sentencing Act 2021 (c. 11), s. 50(2)(t), Sch. 12 para. 2(2)
+[^F23]: S. 8(a)(ii) omitted (27.3.2014) by virtue of The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834), art. 1(1), Sch. 2 para. 46
+[^F24]: Word in s. 8(1)(a) omitted (29.6.2021) by virtue of Counter-Terrorism and Sentencing Act 2021 (c. 11), s. 50(2)(t), Sch. 12 para. 2(3)(a)(i)
+[^F25]: S. 8(1)(a)(iv) and word inserted (29.6.2021) by Counter-Terrorism and Sentencing Act 2021 (c. 11), s. 50(2)(t), Sch. 12 para. 2(3)(a)(ii)
+[^F26]: S. 8(aa) inserted (1.3.2016) by Serious Crime Act 2015 (c. 9), s. 88(1), Sch. 1 para. 9(b); S.I. 2016/148, reg. 3(f)
+[^F27]: S. 8(1)(aa)(i)(ii) substituted for words (29.6.2021) by Counter-Terrorism and Sentencing Act 2021 (c. 11), s. 50(2)(t), Sch. 12 para. 2(3)(b)
+[^F28]: S. 8(1)(b)(i)(ii) substituted for words (29.6.2021) by Counter-Terrorism and Sentencing Act 2021 (c. 11), s. 50(2)(t), Sch. 12 para. 2(3)(c)
+[^F29]: S. 8(2)(3) inserted (29.6.2021) by Counter-Terrorism and Sentencing Act 2021 (c. 11), s. 50(2)(t), Sch. 12 para. 2(4)
+[^F30]: S. 8A inserted (29.6.2021) by Counter-Terrorism and Sentencing Act 2021 (c. 11), s. 50(2)(t), Sch. 12 para. 3
+[^F31]: Words in s. 9(1)-(3) inserted (1.3.2016) by Serious Crime Act 2015 (c. 9), s. 88(1), Sch. 1 para. 10(2); S.I. 2016/148, reg. 3(f)
+[^F32]: Words in s. 9(4) substituted (3.5.2015) by Serious Crime Act 2015 (c. 9), s. 88(1), Sch. 4 para. 76; S.I. 2015/820, reg. 2(r)(xv)
+[^F33]: S. 9(4A) inserted (1.3.2016) by Serious Crime Act 2015 (c. 9), s. 88(1), Sch. 1 para. 10(3); S.I. 2016/148, reg. 3(f)
+[^F34]: S. 10(4)(a)(i) omitted (2.2.2026 for specified purposes) by virtue of Border Security, Asylum and Immigration Act 2025 (c. 31), ss. 57(3)(a), 65(1); S.I. 2026/59, reg. 2(g)
+[^F35]: S. 10(4)(a)(ii) omitted (27.3.2014) by virtue of The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834), art. 1(1), Sch. 2 para. 47
+[^F36]: Word in s. 10(4)(a) omitted (29.6.2021) by virtue of Counter-Terrorism and Sentencing Act 2021 (c. 11), s. 50(2)(t), Sch. 12 para. 4(2)(a)
+[^F37]: S. 10(4)(a)(iii) omitted (2.2.2026 for specified purposes) by virtue of Border Security, Asylum and Immigration Act 2025 (c. 31), ss. 57(3)(a), 65(1); S.I. 2026/59, reg. 2(g)
+[^F38]: Word in s. 10(4)(a) omitted (1.3.2016) by virtue of Serious Crime Act 2015 (c. 9), s. 88(1), Sch. 1 para. 11(a); S.I. 2016/148, reg. 3(f)
+[^F39]: S. 10(4)(a)(iv) inserted (29.6.2021) by Counter-Terrorism and Sentencing Act 2021 (c. 11), s. 50(2)(t), Sch. 12 para. 4(2)(b)
+[^F40]: S. 10(4)(a)(v) inserted (2.2.2026 for specified purposes) by Border Security, Asylum and Immigration Act 2025 (c. 31), ss. 57(3)(b), 65(1); S.I. 2026/59, reg. 2(g)
+[^F41]: S. 10(4)(aa) inserted (1.3.2016) by Serious Crime Act 2015 (c. 9), s. 88(1), Sch. 1 para. 11(b); S.I. 2016/148, reg. 3(f)
+[^F42]: S. 10(4)(aa)(i)(ii) substituted for words in s. 10(4)(aa) (29.6.2021) by Counter-Terrorism and Sentencing Act 2021 (c. 11), s. 50(2)(t), Sch. 12 para. 4(3)
+[^F43]: S. 10(4)(b)(i)(ii) substituted for words in s. 10(4)(b) (29.6.2021) by Counter-Terrorism and Sentencing Act 2021 (c. 11), s. 50(2)(t), Sch. 12 para. 4(4)
+[^F44]: Words in s. 12(1) inserted (1.3.2016) by Serious Crime Act 2015 (c. 9), s. 88(1), Sch. 1 para. 12(2); S.I. 2016/148, reg. 3(f)
+[^F45]: S. 12(4A) inserted (1.3.2016) by Serious Crime Act 2015 (c. 9), s. 88(1), Sch. 1 para. 12(3); S.I. 2016/148, reg. 3(f)
+[^F46]: Words in s. 12(5) substituted (1.3.2016) by Serious Crime Act 2015 (c. 9), s. 88(1), Sch. 1 para. 12(4); S.I. 2016/148, reg. 3(f)
+[^F47]: Word in s. 13(1)(a) omitted (1.3.2016) by virtue of Serious Crime Act 2015 (c. 9), s. 88(1), Sch. 1 para. 13(a); S.I. 2016/148, reg. 3(f)
+[^F48]: S. 13(1)(aa) inserted (1.3.2016) by Serious Crime Act 2015 (c. 9), s. 88(1), Sch. 1 para. 13(b); S.I. 2016/148, reg. 3(f)
+[^F49]: S. 15A and cross-heading inserted (2.12.2025 for specified purposes) by Border Security, Asylum and Immigration Act 2025 (c. 31), ss. 58(2), 65(3)(f)
+[^F50]: S. 16(7) inserted (3.5.2015) by Serious Crime Act 2015 (c. 9), s. 88(1), Sch. 4 para. 77; S.I. 2015/820, reg. 2(r)(xv)
+[^F51]: S. 17(1A) inserted (1.3.2016) by Serious Crime Act 2015 (c. 9), s. 88(1), Sch. 1 para. 14(2); S.I. 2016/148, reg. 3(f)
+[^F52]: Words in s. 17(3)(a) inserted (29.6.2021) by Counter-Terrorism and Sentencing Act 2021 (c. 11), s. 50(2)(t), Sch. 12 para. 5(2)
+[^F53]: Words in s. 17(6)(a) inserted (1.3.2016) by Serious Crime Act 2015 (c. 9), s. 88(1), Sch. 1 para. 14(3); S.I. 2016/148, reg. 3(f)
+[^F54]: Words in s. 17(7)(a) inserted (1.3.2016) by Serious Crime Act 2015 (c. 9), s. 88(1), Sch. 1 para. 14(3); S.I. 2016/148, reg. 3(f)
+[^F55]: S. 17(7A) inserted (29.6.2021) by Counter-Terrorism and Sentencing Act 2021 (c. 11), s. 50(2)(t), Sch. 12 para. 5(3)
+[^F56]: Word in s. 18(1)(a) omitted (1.3.2016) by virtue of Serious Crime Act 2015 (c. 9), s. 88(1), Sch. 1 para. 15(2)(a); S.I. 2016/148, reg. 3(f)
+[^F57]: S. 18(1)(aa) inserted (1.3.2016) by Serious Crime Act 2015 (c. 9), s. 88(1), Sch. 1 para. 15(2)(b); S.I. 2016/148, reg. 3(f)
+[^F58]: Words in s. 18(2)(a) inserted (29.6.2021) by Counter-Terrorism and Sentencing Act 2021 (c. 11), s. 50(2)(t), Sch. 12 para. 6(2)
+[^F59]: Words in s. 18(5)(a) inserted (1.3.2016) by Serious Crime Act 2015 (c. 9), s. 88(1), Sch. 1 para. 15(3); S.I. 2016/148, reg. 3(f)
+[^F60]: Words in s. 18(6)(a) inserted (1.3.2016) by Serious Crime Act 2015 (c. 9), s. 88(1), Sch. 1 para. 15(3); S.I. 2016/148, reg. 3(f)
+[^F61]: S. 18(7) inserted (29.6.2021) by Counter-Terrorism and Sentencing Act 2021 (c. 11), s. 50(2)(t), Sch. 12 para. 6(3)
+[^F62]: S. 19(2A) inserted (3.5.2015) by Serious Crime Act 2015 (c. 9), s. 88(1), Sch. 4 para. 78(2); S.I. 2015/820, reg. 2(r)(xv)
+[^F63]: S. 19(4A) inserted (3.5.2015) by Serious Crime Act 2015 (c. 9), s. 88(1), Sch. 4 para. 78(3); S.I. 2015/820, reg. 2(r)(xv)
+[^F64]: Words in s. 21 heading inserted (3.5.2015) by Serious Crime Act 2015 (c. 9), s. 88(1), Sch. 4 para. 79; S.I. 2015/820, reg. 2(r)(xv)
+[^F65]: Words in s. 21(2) inserted (3.5.2015) by Serious Crime Act 2015 (c. 9), ss. 48(2)(a), 88(1); S.I. 2015/820, reg. 2(g)
+[^F66]: Words in s. 21(2) inserted (3.5.2015) by Serious Crime Act 2015 (c. 9), ss. 48(2)(b), 88(1); S.I. 2015/820, reg. 2(g)
+[^F67]: Words in s. 21(4) inserted (3.5.2015) by Serious Crime Act 2015 (c. 9), ss. 48(3)(a), 88(1); S.I. 2015/820, reg. 2(g)
+[^F68]: Words in s. 21(4) inserted (3.5.2015) by Serious Crime Act 2015 (c. 9), ss. 48(3)(b), 88(1); S.I. 2015/820, reg. 2(g)
+[^F69]: Words in s. 21(5) substituted (3.5.2015) by Serious Crime Act 2015 (c. 9), ss. 48(4), 88(1); S.I. 2015/820, reg. 2(g)
+[^F70]: Words in s. 21(6) inserted (3.5.2015) by Serious Crime Act 2015 (c. 9), ss. 48(5), 88(1); S.I. 2015/820, reg. 2(g)
+[^F71]: S. 21(8) inserted (3.5.2015) by Serious Crime Act 2015 (c. 9), ss. 48(6), 88(1); S.I. 2015/820, reg. 2(g)
+[^F72]: Words in s. 22 heading inserted (1.3.2016) by Serious Crime Act 2015 (c. 9), s. 88(1), Sch. 1 para. 16; S.I. 2016/148, reg. 3(f)
+[^F73]: Ss. 22A-22D and cross-heading inserted (1.3.2016) by Serious Crime Act 2015 (c. 9), s. 88(1), Sch. 1 para. 17; S.I. 2016/148, reg. 3(f) (with art. 5)
+[^F74]: S. 22E and cross-heading inserted (3.5.2015) by Serious Crime Act 2015 (c. 9), ss. 49, 88(1); S.I. 2015/820, reg. 2(h)
+[^F75]: S. 24(9A) inserted (12.4.2010) by The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976), Sch. 10 para. 4(2) (with arts. 28-31)
+[^F76]: S. 24A - S. 24B inserted (1.3.2016) by Serious Crime Act 2015 (c. 9), s. 88(1), Sch. 1 para. 18; S.I. 2016/148, reg. 3(f)
+[^F77]: S. 25(3A) inserted (7.2.2023 at 12.00 p.m.) by The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149), regs. 1(2), 14(2)
+[^F78]: Words in s. 27 heading omitted (1.3.2016) by virtue of Serious Crime Act 2015 (c. 9), s. 88(1), Sch. 1 para. 19(2); S.I. 2016/148, reg. 3(f)
+[^F79]: Words in s. 27(1) omitted (27.3.2014) by virtue of The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834), art. 1(1), Sch. 2 para. 48
+[^F80]: S. 27(1A) inserted (29.6.2021) by Counter-Terrorism and Sentencing Act 2021 (c. 11), s. 50(2)(t), Sch. 12 para. 7(2)
+[^F81]: S. 27(1A) substituted (2.2.2026 for specified purposes) by Border Security, Asylum and Immigration Act 2025 (c. 31), ss. 57(4)(a), 65(1); S.I. 2026/59, reg. 2(g)
+[^F82]: Words in s. 27(3) substituted (2.2.2026 for specified purposes) by Border Security, Asylum and Immigration Act 2025 (c. 31), ss. 57(4)(b), 65(1); S.I. 2026/59, reg. 2(g)
+[^F83]: Words in s. 27(3) omitted (27.3.2014) by virtue of The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834), art. 1(1), Sch. 2 para. 48
+[^F84]: Words in s. 27(3) substituted (29.6.2021) by Counter-Terrorism and Sentencing Act 2021 (c. 11), s. 50(2)(t), Sch. 12 para. 7(3)
+[^F85]: Word in s. 27(8) substituted (30.11.2016) by The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034), art. 1, Sch. 1 para. 31
+[^F86]: Words in s. 27(12) substituted (1.10.2009) by The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941), art. 1(2), Sch. 1 para. 265(2)(a) (with art. 10)
+[^F87]: Words in s. 27(12) omitted (1.3.2016) by virtue of Serious Crime Act 2015 (c. 9), s. 88(1), Sch. 1 para. 19(3)(a); S.I. 2016/148, reg. 3(f)
+[^F88]: Words in s. 27(12) substituted (1.10.2009) by The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941), art. 1(2), Sch. 1 para. 265(2)(b) (with art. 10)
+[^F89]: Words in s. 27(12) omitted (1.3.2016) by virtue of Serious Crime Act 2015 (c. 9), s. 88(1), Sch. 1 para. 19(3)(b); S.I. 2016/148, reg. 3(f)
+[^F90]: Words in s. 27(12) omitted (1.8.2014) by virtue of Co-operative and Community Benefit Societies Act 2014 (c. 14), s. 154, Sch. 4 para. 116(2) (with Sch. 5)
+[^F91]: Words in s. 27(12) omitted (2.2.2026 for specified purposes) by virtue of Border Security, Asylum and Immigration Act 2025 (c. 31), ss. 57(4)(c), 65(1); S.I. 2026/59, reg. 2(g)
+[^F92]: Words in s. 27(12) inserted (29.6.2021) by Counter-Terrorism and Sentencing Act 2021 (c. 11), s. 50(2)(t), Sch. 12 para. 7(4)
+[^F93]: Words in s. 27(12) substituted (1.8.2014) by Co-operative and Community Benefit Societies Act 2014 (c. 14), s. 154, Sch. 4 para. 116(3) (with Sch. 5)
+[^F94]: S. 27A inserted (1.3.2016) by Serious Crime Act 2015 (c. 9), s. 88(1), Sch. 1 para. 20; S.I. 2016/148, reg. 3(f)
+[^F95]: S. 27A(1A) inserted (29.6.2021) by Counter-Terrorism and Sentencing Act 2021 (c. 11), s. 50(2)(t), Sch. 12 para. 8(2)
+[^F96]: Words in s. 27A(3) inserted (29.6.2021) by Counter-Terrorism and Sentencing Act 2021 (c. 11), s. 50(2)(t), Sch. 12 para. 8(3)
+[^F97]: S. 28(1A) inserted (29.6.2021) by Counter-Terrorism and Sentencing Act 2021 (c. 11), s. 50(2)(t), Sch. 12 para. 9(2)
+[^F98]: Words in s. 28(3) inserted (29.6.2021) by Counter-Terrorism and Sentencing Act 2021 (c. 11), s. 50(2)(t), Sch. 12 para. 9(3)
+[^F99]: Words in s. 28(11) substituted (12.4.2010) by The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976), Sch. 10 para. 5(2)(a) (with arts. 28-31)
+[^F100]: Words in s. 28(11) substituted (1.10.2009) by The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941) , art. 1(2) , Sch. 1 para. 265(3) (with art. 10 )
+[^F101]: Words in s. 28(11) substituted (12.4.2010) by The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976), Sch. 10 para. 5(2)(b) (with arts. 28-31)
+[^F102]: S. 29(1)(b) omitted (12.4.2010) by virtue of The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976), Sch. 10 para. 6(2) (with arts. 28-31)
+[^F103]: S. 29(1ZA) inserted (1.3.2016) by Serious Crime Act 2015 (c. 9), s. 88(1), Sch. 1 para. 21(2); S.I. 2016/148, reg. 3(f)
+[^F104]: S. 29(1A) inserted (12.4.2010) by The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976), Sch. 10 para. 6(3) (with arts. 28-31)
+[^F105]: Word in s. 29(2) inserted (1.3.2016) by Serious Crime Act 2015 (c. 9), s. 88(1), Sch. 1 para. 21(3)(a); S.I. 2016/148, reg. 3(f)
+[^F106]: Words in s. 29(2) inserted (12.4.2010) by The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976), Sch. 10 para. 6(4) (with arts. 28-31)
+[^F107]: Words in s. 29(2) inserted (1.3.2016) by Serious Crime Act 2015 (c. 9), s. 88(1), Sch. 1 para. 21(3)(b); S.I. 2016/148, reg. 3(f)
+[^F108]: Words in s. 29(3) omitted (12.4.2010) by virtue of The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976), Sch. 10 para. 6(5) (with arts. 28-31)
+[^F109]: S. 29(3ZA) inserted (1.3.2016) by Serious Crime Act 2015 (c. 9), s. 88(1), Sch. 1 para. 21(4); S.I. 2016/148, reg. 3(f)
+[^F110]: S. 29(3A) inserted (12.4.2010) by The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976), Sch. 10 para. 6(6) (with arts. 28-31)
+[^F111]: Word in s. 29(4) inserted (1.3.2016) by Serious Crime Act 2015 (c. 9), s. 88(1), Sch. 1 para. 21(5)(a); S.I. 2016/148, reg. 3(f)
+[^F112]: Word in s. 29(4) inserted (1.3.2016) by Serious Crime Act 2015 (c. 9), s. 88(1), Sch. 1 para. 21(5)(b); S.I. 2016/148, reg. 3(f)
+[^F113]: Words in s. 29(4) inserted (12.4.2010) by The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976), Sch. 10 para. 6(7) (with arts. 28-31)
+[^F114]: Words in s. 29(4) inserted (1.3.2016) by Serious Crime Act 2015 (c. 9), s. 88(1), Sch. 1 para. 21(5)(c); S.I. 2016/148, reg. 3(f)
+[^F115]: Word in s. 31(3) inserted (1.3.2016) by Serious Crime Act 2015 (c. 9), s. 88(1), Sch. 1 para. 22(2); S.I. 2016/148, reg. 3(f)
+[^F116]: S. 31(6)(b)(ii) omitted (1.3.2016) by virtue of Serious Crime Act 2015 (c. 9), s. 88(1), Sch. 1 para. 22(3); S.I. 2016/148, reg. 3(f)
+[^F117]: S. 32(5)(b)(iii) omitted (1.3.2016) by virtue of Serious Crime Act 2015 (c. 9), s. 88(1), Sch. 1 para. 23; S.I. 2016/148, reg. 3(f)
+[^F118]: Words in s. 34(1) omitted (31.12.2020) by virtue of The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742), regs. 1, 122(2)(a); 2020 c. 1, Sch. 5 para. 1(1)
+[^F119]: Word in s. 34(2)(a)(i) omitted (1.3.2016) by virtue of Serious Crime Act 2015 (c. 9), s. 88(1), Sch. 1 para. 24(a); S.I. 2016/148, reg. 3(f)
+[^F120]: S. 34(2)(a)(ia) inserted (1.3.2016) by Serious Crime Act 2015 (c. 9), s. 88(1), Sch. 1 para. 24(b); S.I. 2016/148, reg. 3(f)
+[^F121]: S. 34(3)(b) and word omitted (31.12.2020) by virtue of The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742), regs. 1, 122(2)(b); 2020 c. 1, Sch. 5 para. 1(1)
+[^F122]: Words in s. 34(4) omitted (31.12.2020) by virtue of The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742), regs. 1, 122(2)(c); 2020 c. 1, Sch. 5 para. 1(1)
+[^F123]: Words in s. 34(5) inserted (31.12.2020) by The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742), regs. 1, 122(2)(d); 2020 c. 1, Sch. 5 para. 1(1)
+[^F124]: Words in s. 34(6) substituted (31.12.2020) by The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742), regs. 1, 122(2)(e); 2020 c. 1, Sch. 5 para. 1(1)
+[^F125]: Words in s. 34(7)(a) substituted (1.8.2012) by The Treaty of Lisbon (Changes in Terminology or Numbering) Order 2012 (S.I. 2012/1809), art. 2(1), Sch. Pt. 1 (with art. 2(2))
+[^F126]: Words in s. 36(1) substituted (3.5.2015) by Serious Crime Act 2015 (c. 9), s. 88(1), Sch. 4 para. 80; S.I. 2015/820, reg. 2(r)(xv)
+[^F127]: Words in s. 36(5) substituted (1.12.2020) by Sentencing Act 2020 (c. 17), s. 416(1), Sch. 24 para. 264 (with Sch. 24 para. 447, Sch. 27); S.I. 2020/1236, reg. 2
+[^F128]: S. 36A inserted (1.3.2016) by Serious Crime Act 2015 (c. 9), s. 88(1), Sch. 1 para. 25; S.I. 2016/148, reg. 3(f)
+[^F129]: S. 39(10)(za)-(zc) inserted (16.1.2012) by Police Reform and Social Responsibility Act 2011 (c. 13), s. 157(1), Sch. 16 para. 370(a); S.I. 2011/3019, art. 3, Sch. 1 (with Sch. 2 para. 79)
+[^F130]: Words in s. 39(10) inserted (1.3.2016) by Serious Crime Act 2015 (c. 9), s. 88(1), Sch. 1 para. 26; S.I. 2016/148, reg. 3(f)
+[^F131]: Words in s. 39(10)(a) omitted (16.1.2012) by virtue of Police Reform and Social Responsibility Act 2011 (c. 13), s. 157(1), Sch. 16 para. 370(b); S.I. 2011/3019, art. 3, Sch. 1 (with Sch. 2 para. 79)
+[^F132]: Words in s. 39(10) substituted (7.10.2013) by Crime and Courts Act 2013 (c. 22), s. 61(2), Sch. 8 para. 178; S.I. 2013/1682, art. 3(v)
+[^F133]: Words in s. 40(1) substituted (12.4.2010) by The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976), Sch. 10 para. 7(2) (with arts. 28-31)
+[^F134]: Words in s. 40(4) substituted (12.4.2010) by The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976), Sch. 10 para. 7(2) (with arts. 28-31)
+[^F135]: S. 40(5)(a) substituted for words (1.3.2016) by Serious Crime Act 2015 (c. 9), s. 88(1), Sch. 1 para. 27(2); S.I. 2016/148, reg. 3(f)
+[^F136]: S. 40(5)(b) inserted (1.3.2016) by Serious Crime Act 2015 (c. 9), s. 88(1), Sch. 1 para. 27(3); S.I. 2016/148, reg. 3(f)
+[^F137]: S. 40(6A) inserted (1.3.2016) by Serious Crime Act 2015 (c. 9), s. 88(1), Sch. 1 para. 27(4); S.I. 2016/148, reg. 3(f)
+[^F138]: S. 40(9) inserted (12.4.2010) by The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976), Sch. 10 para. 7(3) (with arts. 28-31)
+[^F139]: S. 40(9)(aa) inserted (1.3.2016) by Serious Crime Act 2015 (c. 9), s. 88(1), Sch. 1 para. 27(5); S.I. 2016/148, reg. 3(f)
+[^F140]: Words in s. 43 inserted (1.3.2016) by Serious Crime Act 2015 (c. 9), s. 88(1), Sch. 1 para. 28; S.I. 2016/148, reg. 3(f)
+[^F141]: Words in s. 43 omitted (27.3.2014) by virtue of The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834), art. 1(1), Sch. 2 para. 49(a)
+[^F142]: Word in s. 43 omitted (27.3.2014) by virtue of The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834), art. 1(1), Sch. 2 para. 49(b)
+[^F143]: Words in s. 43 inserted (29.6.2021) by Counter-Terrorism and Sentencing Act 2021 (c. 11), s. 50(2)(t), Sch. 12 para. 10
+[^F144]: S. 49(6A) inserted (12.4.2010) by The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976), Sch. 10 para. 8(2) (with arts. 28-31)
+[^F145]: S. 50 cross-heading substituted (20.12.2023) by National Security Act 2023 (c. 32), ss. 30(3), 100(1) (with s. 97); S.I. 2023/1272, reg. 2(a)
+[^F146]: S. 50A inserted (20.12.2023) by National Security Act 2023 (c. 32), ss. 30(2), 100(1) (with s. 97); S.I. 2023/1272, reg. 2(a)
+[^F147]: S. 51A inserted (1.2.2010) by Coroners and Justice Act 2009 (c. 25), s. 182(5), Sch. 21 para. 61(2) (with s. 180); S.I. 2010/145, art. 2(2), Sch. para. 25(a)
+[^F148]: Words in s. 51A heading inserted (31.1.2024) by Online Safety Act 2023 (c. 50), s. 240(1), Sch. 14 para. 12(2)(c); S.I. 2024/31, reg. 2
+[^F149]: S. 51A renumbered as s. 51A(1) (31.1.2024) by Online Safety Act 2023 (c. 50), s. 240(1), Sch. 14 para. 12(2)(a); S.I. 2024/31, reg. 2
+[^F150]: S. 51A(2) inserted (31.1.2024) by Online Safety Act 2023 (c. 50), s. 240(1), Sch. 14 para. 12(2)(b); S.I. 2024/31, reg. 2
+[^F151]: S. 53 renumbered as s. 53(1) by Bribery Act 2010 (c. 23), s 19(1), Sch. 1 para. 13(2) (with ss. 16, 19(05)); S.I. 2011/1418, art. 2
+[^F152]: S. 53(2) inserted (1.7.2011) by Bribery Act 2010 (c. 23), s. 19(1), Sch. 1 para. 13(3) (with ss. 16, 19(5)); S.I. 2011/1418, art. 2
+[^F153]: Words in s. 54(5) omitted (31.12.2020) by virtue of The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742), regs. 1, 122(3); 2020 c. 1, Sch. 5 para. 1(1)
+[^F154]: Words in s. 63(3) inserted (12.4.2010) by The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976), Sch. 10 para. 9(2) (with arts. 28-31)
+[^F155]: S. 63(4) inserted (12.4.2010) by The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976), Sch. 10 para. 9(3) (with arts. 28-31)
+[^F156]: Words in s. 68(4)(a) substituted (25.5.2018) by Data Protection Act 2018 (c. 12), s. 212(1), Sch. 19 para. 145(2) (with ss. 117, 209, 210); S.I. 2018/625, reg. 2(1)(g)
+[^F157]: Words in s. 68(4)(b) substituted (27.6.2018) by Investigatory Powers Act 2016 (c. 25), s. 272(1), Sch. 10 para. 19(2) (with Sch. 9 paras. 7, 8, 10); S.I. 2018/652, reg. 12(g)(iii)
+[^F158]: S. 68(5) repealed (8.11.2021) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), ss. 98(a), 206(1); S.S.I. 2021/355, art. 2
+[^F159]: S. 68(6) repealed (8.11.2021) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), ss. 98(a), 206(1); S.S.I. 2021/355, art. 2
+[^F160]: Words in s. 68(8) inserted (25.5.2018) by Data Protection Act 2018 (c. 12), s. 212(1), Sch. 19 para. 145(3) (with ss. 117, 209, 210); S.I. 2018/625, reg. 2(1)(g)
+[^F161]: Words in s. 69(2)(d) substituted (31.12.2020) by The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742), regs. 1, 122(4); 2020 c. 1, Sch. 5 para. 1(1)
+[^F162]: Words in s. 69(2)(d) substituted (1.1.2024) by The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424), reg. 1(2), Sch. para. 66
+[^F163]: S. 69(3) repealed (8.11.2021) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), ss. 98(b), 206(1); S.S.I. 2021/355, art. 2
+[^F164]: Words in s. 70(2) substituted (27.3.2014) by The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834), art. 1(1), Sch. 2 para. 50
+[^F165]: S. 70(5A) inserted (7.2.2023 at 12.00 p.m.) by The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149), regs. 1(2), 14(3)
+[^F166]: Words in s. 71(2)(b) substituted (30.9.2026) by The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386), reg. 1(2), Sch. 2 para. 14; S.I. 2026/1015, reg. 2(c)
+[^F167]: S. 71(4) repealed (8.11.2021) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), ss. 98(c)(i), 206(1); S.S.I. 2021/355, art. 2
+[^F168]: Words in s. 71(6) repealed (S.) (8.11.2021) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), ss. 98(c)(ii), 206(1); S.S.I. 2021/355, art. 2
+[^F169]: S. 78 repealed (1.6.2015 for specified purposes, 1.3.2016 in so far as not already in force) by Policing and Crime Act 2009 (c. 26), s. 116(1), Sch. 8 Pt. 4; S.I. 2015/983, art. 2(2)(f); S.I. 2016/147, art. 3(k)
+[^F170]: S. 80(1)(a) omitted (17.7.2013) by virtue of Finance Act 2013 (c. 29), Sch. 48 para. 23
+[^F171]: S. 80(3)(a) omitted (17.7.2013) by virtue of Finance Act 2013 (c. 29), Sch. 48 para. 23
+[^F172]: S. 80(5)(6) repealed (1.6.2015 for E.W.S., 1.3.2016 in so far as not already in force) by Policing and Crime Act 2009 (c. 26), s. 116(1), Sch. 8 Pt. 5; S.I. 2015/983, art. 2(2)(g); S.I. 2016/147, art. 3(l) (with art. 5)
+[^F173]: S. 84(3)(4) omitted (27.3.2014) by virtue of The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834), art. 1(1), Sch. 2 para. 51
+[^F174]: Words in s. 85(8)(a) substituted (25.5.2018) by Data Protection Act 2018 (c. 12), s. 212(1), Sch. 19 para. 146(2) (with ss. 117, 209, 210); S.I. 2018/625, reg. 2(1)(g)
+[^F175]: Words in s. 85(8)(b) substituted (27.6.2018) by Investigatory Powers Act 2016 (c. 25), s. 272(1), Sch. 10 para. 19(3) (with Sch. 9 paras. 7, 8, 10); S.I. 2018/652, reg. 12(g)(iii)
+[^F176]: Words in s. 85(9) inserted (25.5.2018) by Data Protection Act 2018 (c. 12), s. 212(1), Sch. 19 para. 146(3) (with ss. 117, 209, 210); S.I. 2018/625, reg. 2(1)(g)
+[^F177]: Words in s. 89 heading inserted (2.12.2025 for specified purposes) by Border Security, Asylum and Immigration Act 2025 (c. 31), ss. 55(6)(a), 65(3)(f)
+[^F178]: Words in s. 89(1) substituted (1.3.2016) by Serious Crime Act 2015 (c. 9), s. 88(1), Sch. 1 para. 29(a); S.I. 2016/148, reg. 3(f)
+[^F179]: Words in s. 89(1)(2) inserted (2.12.2025 for specified purposes) by Border Security, Asylum and Immigration Act 2025 (c. 31), ss. 55(6)(b), 65(3)(f)
+[^F180]: Words in s. 89(2) substituted (1.3.2016) by Serious Crime Act 2015 (c. 9), s. 88(1), Sch. 1 para. 29(b)(i); S.I. 2016/148, reg. 3(f)
+[^F181]: Words in s. 89(2) inserted (1.3.2016) by Serious Crime Act 2015 (c. 9), s. 88(1), Sch. 1 para. 29(b)(ii); S.I. 2016/148, reg. 3(f)
+[^F182]: S. 89(3) substituted (2.12.2025 for specified purposes) by Border Security, Asylum and Immigration Act 2025 (c. 31), ss. 58(7), 65(3)(f)
+[^F183]: Words in s. 89(3) inserted (12.4.2010) by The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976), Sch. 10 para. 10(2) (with arts. 28-31)
+[^F184]: Words in s. 89(6) inserted (12.4.2010) by The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976), Sch. 10 para. 10(3)(a) (with arts. 28-31)
+[^F185]: Words in s. 89(6) substituted (1.3.2016) by Serious Crime Act 2015 (c. 9), s. 88(1), Sch. 1 para. 29(c)(i); S.I. 2016/148, reg. 3(f)
+[^F186]: Words in s. 89(6) substituted (12.4.2010) by The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976), Sch. 10 para. 10(3)(b) (with arts. 28-31)
+[^F187]: Word in s. 89(6) inserted (1.3.2016) by Serious Crime Act 2015 (c. 9), s. 88(1), Sch. 1 para. 29(c)(ii); S.I. 2016/148, reg. 3(f)
+[^F188]: Words in s. 89(6) omitted (12.4.2010) by virtue of The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976), Sch. 10 para. 10(3)(c) (with arts. 28-31)
+[^F189]: S. 89(6A)(6B) inserted (1.3.2016) by Serious Crime Act 2015 (c. 9), s. 88(1), Sch. 1 para. 29(d); S.I. 2016/148, reg. 3(f)
+[^F190]: S. 89(7)-(11) inserted (12.4.2010) by The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976), Sch. 10 para. 10(4) (with arts. 28-31)
+[^F191]: S. 93(2)(a) omitted (1.3.2016) by virtue of Serious Crime Act 2015 (c. 9), s. 88(1), Sch. 1 para. 30; S.I. 2016/148, reg. 3(f)
+[^F192]: Sch. 1 para. 1(1)(ba) inserted (3.5.2015) by Serious Crime Act 2015 (c. 9), ss. 47(2), 88(1); S.I. 2015/820, reg. 2(f)
+[^F193]: Sch. 1 para. 1ZA inserted (26.5.2016) by Psychoactive Substances Act 2016 (c. 2), s. 63(2), Sch. 5 para. 8(2); S.I. 2016/553, reg. 2
+[^F194]: Sch. 1 para. 1A and cross-heading inserted (31.7.2015) by Modern Slavery Act 2015 (c. 30), s. 61(1), Sch. 5 para. 7(2); S.I. 2015/1476, reg. 2(j)
+[^F195]: Words in Sch. 1 para. 2(1) substituted (31.12.2020) by The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309), reg. 1(2), Sch. 1 para. 1(4)(a) (with Sch. 1 para. 1(5))
+[^F196]: Word in Sch. 1 para. 2(2) substituted (E.W.) (6.4.2013) by Protection of Freedoms Act 2012 (c. 9), s. 120, Sch. 9 para. 142 (with s. 97); S.I. 2013/470, art. 2(d) (with arts. 5-8)
+[^F197]: Sch. 1 para. 2(4) inserted (31.7.2015) by Modern Slavery Act 2015 (c. 30), s. 61(1), Sch. 5 para. 7(3); S.I. 2015/1476, reg. 2(j)
+[^F198]: Sch. 1 para. 2A inserted (12.4.2019) by Counter-Terrorism and Border Security Act 2019 (c. 3), ss. 14(2), 27(3) (with s. 25(6))
+[^F199]: Sch. 1 para. 3 and cross-heading substituted (3.5.2015) by Serious Crime Act 2015 (c. 9), ss. 47(3), 88(1); S.I. 2015/820, reg. 2(f)
+[^F200]: Words in Sch. 1 para. 4(2)(b) substituted (3.5.2015) by Serious Crime Act 2015 (c. 9), s. 88(1), Sch. 4 para. 81(2)(a); S.I. 2015/820, reg. 2(r)(xvi)
+[^F201]: Words in Sch. 1 para. 4(2)(c) substituted (3.5.2015) by Serious Crime Act 2015 (c. 9), s. 88(1), Sch. 4 para. 81(2)(b); S.I. 2015/820, reg. 2(r)(xvi)
+[^F202]: Words in Sch. 1 para. 4(2)(d) substituted (3.5.2015) by Serious Crime Act 2015 (c. 9), s. 88(1), Sch. 4 para. 81(2)(c); S.I. 2015/820, reg. 2(r)(xvi)
+[^F203]: Sch. 1 para. 7(2A) inserted (26.10.2023 for specified purposes, 1.9.2025 in so far as not already in force) by Economic Crime and Corporate Transparency Act 2023 (c. 56), ss. 206(2)(a), 219(1)(2)(b); S.I. 2025/349, reg. 3
+[^F204]: Word in Sch. 1 para. 8 cross-heading inserted (27.4.2017 for specified purposes, 30.9.2017 in so far as not already in force) by Criminal Finances Act 2017 (c. 22), ss. 51(2)(a), 58(5)(6); S.I. 2017/739, reg. 3
+[^F205]: Words in Sch. 1 para. 8(3) substituted (with effect in accordance with s. 381(1) of the amending Act) by Taxation (International and Other Provisions) Act 2010 (c. 8), s. 381(1), Sch. 7 para. 101(2) (with Sch. 9 paras. 1-9, 22)
+[^F206]: Sch. 1 para. 8(6) inserted (27.4.2017 for specified purposes, 30.9.2017 in so far as not already in force) by Criminal Finances Act 2017 (c. 22), ss. 51(2)(a), 58(5)(6); S.I. 2017/739, reg. 3
+[^F207]: Sch. 1 para. 9 and cross-heading substituted (1.7.2011) by Bribery Act 2010 (c. 23), s. 19(1), Sch. 1 para. 14(2) (with ss. 16, 19(5)); S.I. 2011/1418, art. 2
+[^F208]: Sch. 1 para. 11A and cross-heading inserted (3.5.2015) by Serious Crime Act 2015 (c. 9), ss. 47(4), 88(1); S.I. 2015/820, reg. 2(f)
+[^F209]: Words in Sch. 1 para. 13(1) repealed (12.1.2010) by Marine and Coastal Access Act 2009 (c. 23), s. 324(3), Sch. 22 Pt. 5(B); S.I. 2009/3345, art. 2, Sch. para. 27(b)
+[^F210]: Sch. 1 para. 13(4)(5) substituted for Sch. 1 para. 13(4) (6.11.2019) by The Control of Trade in Endangered Species (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1354), regs. 1, 3
+[^F211]: Sch. 1 para. 13A inserted (3.5.2015) by Serious Crime Act 2015 (c. 9), s. 88(1), Sch. 4 para. 81(3); S.I. 2015/820, reg. 2(r)(xvi)
+[^F212]: Word in Sch. 1 para. 13B heading omitted (22.11.2018) by Sanctions and Anti-Money Laundering Act 2018 (c. 13), s. 64, Sch. 3 para. 5(5); S.I. 2018/1213, reg. 2(f)
+[^F213]: Sch. 1 para. 13B(5A) inserted (22.11.2018) by Sanctions and Anti-Money Laundering Act 2018 (c. 13), s. 64, Sch. 3 para. 5(2); S.I. 2018/1213, reg. 2(f)
+[^F214]: Sch. 1 Pt. 1A inserted (1.3.2016) by Serious Crime Act 2015 (c. 9), s. 88(1), Sch. 1 para. 31; S.I. 2016/148, reg. 3(f)
+[^F215]: Sch. 1 para. 16AA inserted (26.5.2016) by Psychoactive Substances Act 2016 (c. 2), s. 63(2), Sch. 5 para. 8(3); S.I. 2016/553, reg. 2
+[^F216]: Words in Sch. 1 para. 16B(1) substituted (31.12.2020) by The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309), reg. 1(2), Sch. 1 para. 1(4)(a) (with Sch. 1 para. 1(5))
+[^F217]: Sch. 1 para. 16BA inserted (12.4.2019) by Counter-Terrorism and Border Security Act 2019 (c. 3), ss. 14(3), 27(3) (with s. 25(6))
+[^F218]: Word in Sch. 1 para. 16G cross-heading inserted (27.4.2017 for specified purposes, 30.9.2017 in so far as not already in force ) by Criminal Finances Act 2017 (c. 22), ss. 51(2)(b), 58(5)(6); S.I. 2017/739, reg. 3
+[^F219]: Sch. 1 para. 16G(5) inserted (27.4.2017 for specified purposes, 30.9.2017 in so far as not already in force) by Criminal Finances Act 2017 (c. 22), ss. 51(2)(b), 58(5)(6); S.I. 2017/739, reg. 3
+[^F220]: Sch. 1 para. 16J(1A) inserted (26.10.2023 for specified purposes, 1.9.2025 in so far as not already in force) by Economic Crime and Corporate Transparency Act 2023 (c. 56), ss. 206(2)(b), 219(1)(2)(b); S.I. 2025/349, reg. 3
+[^F221]: Sch. 1 para. 16M(4)(5) substituted for Sch. 1 para. 16M(4) (6.11.2019) by The Control of Trade in Endangered Species (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1354), regs. 1, 3
+[^F222]: Word in Sch. 1 para. 16MA heading omitted (22.11.2018) by Sanctions and Anti-Money Laundering Act 2018 (c. 13), s. 64, Sch. 3 para. 5(5); S.I. 2018/1213, reg. 2(f)
+[^F223]: Sch. 1 para. 16MA(5A) inserted (22.11.2018) by Sanctions and Anti-Money Laundering Act 2018 (c. 13), s. 64, Sch. 3 para. 5(3); S.I. 2018/1213, reg. 2(f)
+[^F224]: Sch. 1 para. 17(1)(ba) inserted (3.5.2015) by Serious Crime Act 2015 (c. 9), ss. 47(6), 88(1); S.I. 2015/820, reg. 2(f)
+[^F225]: Sch. 1 para. 17A inserted (26.5.2016) by Psychoactive Substances Act 2016 (c. 2), s. 63(2), Sch. 5 para. 8(4); S.I. 2016/553, reg. 2
+[^F226]: Words in Sch. 1 para. 18(1) substituted (31.12.2020) by The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309), reg. 1(2), Sch. 1 para. 1(4)(a) (with Sch. 1 para. 1(5))
+[^F227]: Sch. 1 para. 18(2) repealed (N.I.) (14.1.2015) by Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015 (c. 2 (N.I.)), s. 28(2), Sch. 5
+[^F228]: Sch. 1 para. 18(3) repealed (N.I.) (14.1.2015) by Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015 (c. 2 (N.I.)), s. 28(2), Sch. 5
+[^F229]: Sch. 1 para. 18(4) added (N.I.) (14.1.2015) by Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015 (c. 2), s. 28(2), Sch. 4 para. 7
+[^F230]: Sch. 1 para. 18A inserted (12.4.2019) by Counter-Terrorism and Border Security Act 2019 (c. 3), ss. 14(4), 27(3) (with s. 25(6))
+[^F231]: Sch. 1 para. 19 (crossheading)(arms)(trafficking) substituted (3.5.2015) by Serious Crime Act 2015 (c. 9), s. 88(1), Sch. 4 para. 81(4); S.I. 2015/820, reg. 2(r)(xvi)
+[^F232]: Sch. 1 para. 19(2) substituted (3.5.2015) by Serious Crime Act 2015 (c. 9), ss. 47(7), 88(1); S.I. 2015/820, reg. 2(f)
+[^F233]: Sch. 1 para. 23(2A) inserted (26.10.2023 for specified purposes, 1.9.2025 in so far as not already in force) by Economic Crime and Corporate Transparency Act 2023 (c. 56), ss. 206(2)(c), 219(1)(2)(b); S.I. 2025/349, reg. 3
+[^F234]: Word in Sch. 1 para. 24 cross-heading inserted (27.4.2017 for specified purposes, 30.9.2017 in so far as not already in force) by Criminal Finances Act 2017 (c. 22), ss. 51(2)(c), 58(5)(6); S.I. 2017/739, reg. 3
+[^F235]: Words in Sch. 1 para. 24(3) substituted (with effect in accordance with s. 381(1) of the amending Act) by Taxation (International and Other Provisions) Act 2010 (c. 8), s. 381(1), Sch. 7 para. 101(3) (with Sch. 9 paras. 1-9, 22)
+[^F236]: Sch. 1 para. 24(6) inserted (27.4.2017 for specified purposes, 30.9.2017 in so far as not already in force) by Criminal Finances Act 2017 (c. 22), ss. 51(2)(c), 58(5)(6); S.I. 2017/739, reg. 3
+[^F237]: Sch. 1 para. 25 and cross-heading substituted (1.7.2011) by Bribery Act 2010 (c. 23), s. 19(1), Sch. 1 para. 14(3) (with ss. 16, 19(5)); S.I. 2011/1418, art. 2
+[^F238]: S. 27A and cross-heading inserted (3.5.2015) by Serious Crime Act 2015 (c. 9), ss. 47(8), 88(1); S.I. 2015/820, reg. 2(f)
+[^F239]: Sch. 1 para. 29(4)(5) substituted for Sch. 1 para. 29(4) (6.11.2019) by The Control of Trade in Endangered Species (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1354), regs. 1, 3
+[^F240]: Word in Sch. 1 para. 29A heading omitted (22.11.2018) by Sanctions and Anti-Money Laundering Act 2018 (c. 13), s. 64, Sch. 3 para. 5(5); S.I. 2018/1213, reg. 2(f)
+[^F241]: Sch. 1 para. 29A(5A) inserted (22.11.2018) by Sanctions and Anti-Money Laundering Act 2018 (c. 13), s. 64, Sch. 3 para. 5(4); S.I. 2018/1213, reg. 2(f)
+[^F242]: Sch. 1A inserted (2.12.2025 for specified purposes) by Border Security, Asylum and Immigration Act 2025 (c. 31), ss. 58(3), 65(3)(f)
+[^F243]: Sch. 2 para. 5A inserted (27.3.2014) by The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834), art. 1(1), Sch. 2 para. 52(2)
+[^F244]: Sch. 2 para. 6 crossheading omitted (27.3.2014) by virtue of The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834), art. 1(1), Sch. 2 para. 52(3)
+[^F245]: Sch. 2 paras. 6-11 omitted (27.3.2014) by virtue of The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834), art. 1(1), Sch. 2 para. 52(4)
+[^F246]: Sch. 2 paras. 15ZA, 15ZB and cross-headings inserted (2.2.2026 for specified purposes) by Border Security, Asylum and Immigration Act 2025 (c. 31), ss. 57(5)(a), 65(1); S.I. 2026/59, reg. 2(g)
+[^F247]: Sch. 2 paras. 15A-15D and cross-headings inserted (29.6.2021) by Counter Terrorism and Sentencing Act 2021 (c. 11), s. 50(2)(t), Sch. 12 para. 11(2)
+[^F248]: Words in Sch. 2 para. 15A(a) omitted (2.2.2026 for specified purposes) by virtue of Border Security, Asylum and Immigration Act 2025 (c. 31), ss. 57(5)(b)(i), 65(1); S.I. 2026/59, reg. 2(g)
+[^F249]: Words in Sch. 2 para. 15A(b) omitted (2.2.2026 for specified purposes) by virtue of Border Security, Asylum and Immigration Act 2025 (c. 31), ss. 57(5)(b)(ii), 65(1); S.I. 2026/59, reg. 2(g)
+[^F250]: Words in Sch. 2 para. 15A(c) omitted (2.2.2026 for specified purposes) by virtue of Border Security, Asylum and Immigration Act 2025 (c. 31), ss. 57(5)(b)(i), 65(1); S.I. 2026/59, reg. 2(g)
+[^F251]: Words in Sch. 2 para. 15A(d) omitted (2.2.2026 for specified purposes) by virtue of Border Security, Asylum and Immigration Act 2025 (c. 31), ss. 57(5)(b)(i), 65(1); S.I. 2026/59, reg. 2(g)
+[^F252]: Sch. 2 paras. 15BA-15BD and cross-headings inserted (2.2.2026 for specified purposes) by Border Security, Asylum and Immigration Act 2025 (c. 31), ss. 57(5)(c), 65(1); S.I. 2026/59, reg. 2(g)
+[^F253]: Sch. 2 paras. 20A, 20B and cross-heading inserted (29.6.2021) by Counter-Terrorism and Sentencing Act 2021 (c. 11), s. 50(2)(t), Sch. 12 para. 11(3)
+[^F254]: Sch. 3 para. 7 omitted (20.12.2023) by virtue of The National Security Act 2023 (Consequential Amendments of Primary Legislation) Regulations 2023 (S.I. 2023/1386), reg. 1(2), Sch. para. 26(a)
+[^F255]: Words in Sch. 3 para. 11 inserted (31.12.2020) by The Immigration, Nationality and Asylum (EU Exit) Regulations 2019 (S.I. 2019/745), regs. 1(2), 16; 2020 c. 1, Sch. 5 para. 1(1)
+[^F256]: Sch. 3 para. 12 omitted (31.12.2020) by virtue of The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309), reg. 1(2), Sch. 1 para. 1(4)(b) (with Sch. 1 para. 1(5))
+[^F257]: Sch. 3 para. 24A inserted (25.3.2010) by Cluster Munitions (Prohibitions) Act 2010 (c. 11), s. 34(1), Sch. 3 para. 2 (with s. 32)
+[^F258]: Sch. 3 para. 24B and cross-heading inserted (31.1.2024) by Online Safety Act 2023 (c. 50), s. 240(1), Sch. 14 para. 12(3); S.I. 2024/31, reg. 2
+[^F259]: Sch. 3 para. 24C and heading inserted (20.12.2023) by The National Security Act 2023 (Consequential Amendments of Primary Legislation) Regulations 2023 (S.I. 2023/1386), reg. 1(2), Sch. para. 26(b)
+[^F260]: Sch. para 27A and cross-heading inserted (1.2.2010) by Coroners and Justice Act 2009 (c. 25), s. 182(5), Sch. 21 para. 61(3)(a) (with s. 180); S.I. 2010/145, art. 2(2), Sch. para. 25(a)
+[^F261]: Sch. 3 para. 38ZA inserted (E.W.N.I.) (6.2.2026) by Data (Use and Access) Act 2025 (c. 18), ss. 138(5), 142(1); S.I. 2026/31, reg. 2
+[^F262]: Sch. 3 para. 38A and cross-heading inserted (3.5.2015) by Serious Crime Act 2015 (c. 9), s. 88(1), Sch. 4 para. 82; S.I. 2015/820, reg. 2(r)(xvii)
+[^F263]: Sch. 3 para. 42A and cross-heading inserted (1.2.2010) by Coroners and Justice Act 2009 (c. 25), s. 182(5), Sch. 21 para. 61(3)(b) (with s. 180); S.I. 2010/145, art. 2(2), Sch. para. 25(a)
+[^F264]: Sch. 6 para. 10 repealed (1.4.2014) by Civil Aviation Act 2012 (c. 19), s. 110(1), Sch. 9 para. 17 (with Sch. 10 paras. 12, 17); S.I. 2013/589, art. 5(1)(b)
+[^F265]: Sch. 6 para. 22 omitted (1.4.2011) by virtue of Finance (No. 3) Act 2010 (c. 33), s. 29(2), Sch. 13 para. 4; S.I. 2011/777, art. 2
+[^F266]: Sch. 6 para. 26 repealed (6.4.2013) by Civil Aviation Act 2012 (c. 19), s. 110(1), Sch. 9 para. 17 (with Sch. 10 paras. 12, 17); S.I. 2013/589, art. 2(3)
+[^F267]: Sch. 6 para. 39 repealed (1.12.2020) by Sentencing Act 2020 (c. 17), s. 416(1), Sch. 28 (with ss. 413(4)(5), 416(7), Sch. 27); S.I. 2020/1236, reg. 2
+[^F268]: Sch. 7 Pt. 1 repealed (1.4.2015) by Local Audit and Accountability Act 2014 (c. 2), s. 49(1), Sch. 1 Pt. 2; S.I. 2015/841, art. 3(a) (with arts. 5-8 Sch.) (as amended (27.6.2016) by S.I. 2016/675, art. 2)
+[^F269]: Sch. 8 para. 4 omitted (29.6.2026) by virtue of Crime and Policing Act 2026 (c. 20), s. 255(1), Sch. 21 para. 34(a); S.I. 2026/689, reg. 2(1)(z12)
+[^F270]: Sch. 8 para. 16 omitted (29.6.2026) by virtue of Crime and Policing Act 2026 (c. 20), s. 255(1), Sch. 21 para. 34(b); S.I. 2026/689, reg. 2(1)(z12)
+[^F271]: Sch. 8 para. 17 omitted (29.6.2026) by virtue of Crime and Policing Act 2026 (c. 20), s. 255(1), Sch. 21 para. 34(b); S.I. 2026/689, reg. 2(1)(z12)
+[^F272]: Sch. 8 para. 19 omitted (29.6.2026) by virtue of Crime and Policing Act 2026 (c. 20), s. 255(1), Sch. 21 para. 34(c); S.I. 2026/689, reg. 2(1)(z12)
+[^F273]: Sch. 8 para. 32 omitted (29.6.2026) by virtue of Crime and Policing Act 2026 (c. 20), s. 255(1), Sch. 21 para. 34(d); S.I. 2026/689, reg. 2(1)(z12)
+[^F274]: Sch. 8 para. 107(3) repealed (1.6.2015 for E.W.S., 1.3.2016 in so far as not already in force) by Policing and Crime Act 2009 (c. 26), s. 116(1), Sch. 8 Pt. 5; S.I. 2015/983, art. 2(2)(g); S.I. 2016/147, art. 3(l) (with art. 5)
+[^F275]: Sch. 8 para. 135(b) omitted (27.3.2014) by virtue of The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834), art. 1(1), Sch. 2 para. 53
+[^F276]: Sch. 8 para. 150 repealed (1.6.2015) by Policing and Crime Act 2009 (c. 26), s. 116(1), Sch. 8 Pt. 4; S.I. 2015/983, art. 2(2)(f)
+[^F277]: Sch. 8 para. 151 repealed (1.6.2015) by Policing and Crime Act 2009 (c. 26), s. 116(1), Sch. 8 Pt. 4; S.I. 2015/983, art. 2(2)(f)
+[^F278]: Sch. 8 para. 154 repealed (1.6.2015) by Policing and Crime Act 2009 (c. 26), s. 116(1), Sch. 8 Pt. 4; S.I. 2015/983, art. 2(2)(f)
+[^F279]: Sch. 8 para. 159 repealed (1.4.2013) by Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10), s. 151(1), Sch. 5 Pt. 2; S.I. 2013/453, art. 3(h) (with savings and transitional provisions in S.I. 2013/534, art. 6)
+[^F280]: Sch. 8 para. 165 omitted (27.3.2014) by virtue of The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834), art. 1(1), Sch. 2 para. 53
+[^F281]: Sch. 8 para. 168 omitted (27.3.2014) by virtue of The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834), art. 1(1), Sch. 2 para. 53
+[^F282]: Sch. 10 paras. 3-6 repealed (1.6.2015 for E.W.S., 1.3.2016 in so far as not already in force) by Policing and Crime Act 2009 (c. 26), s. 116(1), Sch. 8 Pt. 5; S.I. 2015/983, art. 2(2)(g); S.I. 2016/147, art. 3(l) (with art. 5)
+[^F283]: Sch. 10 para. 9 repealed (1.6.2015 for E.W.S., 1.3.2016 in so far as not already in force) by Policing and Crime Act 2009 (c. 26), s. 116(1), Sch. 8 Pt. 5; S.I. 2015/983, art. 2(2)(g); S.I. 2016/147, art. 3(l) (with art. 5)
+[^F284]: Sch. 10 paras. 26-28 repealed (1.6.2015 for E.W.S., 1.3.2016 in so far as not already in force) by Policing and Crime Act 2009 (c. 26), s. 116(1), Sch. 8 Pt. 5; S.I. 2015/983, art. 2(2)(g); S.I. 2016/147, art. 3(l) (with art. 5)
+[^F285]: Sch. 12 para. 3 repealed (30.8.2018) by Investigatory Powers Act 2016 (c. 25), s. 272(1), Sch. 10 Pt. 8 (with Sch. 9 paras. 7, 8, 10); S.I. 2018/940, reg. 2(1)(h)(ii) (with reg. 2(2))
+[^F286]: Sch. 12 para. 6 repealed (7.11.2018) by Investigatory Powers Act 2016 (c. 25), s. 272(1), Sch. 10 Pt. 8 (with Sch. 9 paras. 7, 8, 10); S.I. 2018/940, reg. 4(b)
+[^F287]: Sch. 12 para. 8 repealed (22.7.2020) by Investigatory Powers Act 2016 (c. 25), s. 272(1), Sch. 10 Pt. 8 (with Sch. 9 paras. 7, 8, 10); S.I. 2020/766, reg. 2(e)(iv)
+[^F288]: Sch. 12 para. 28 omitted (10.8.2021 for specified purposes, 15.9.2021 for specified purposes, 30.9.2021 in so far as not already in force) by virtue of Covert Human Intelligence Sources (Criminal Conduct) Act 2021 (c. 4), s. 9(2), Sch. para. 12; S.I. 2021/605, reg. 2(a)(b)(c)
+[^F289]: Words in Sch. 13 para. 4(a) substituted (28.4.2022) by The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500), regs. 1(2), 5(1), Sch. Pt. 1
+[^F290]: Sch. 13 para. 9(a) omitted (1.4.2015) by virtue of Local Audit and Accountability Act 2014 (c. 2), s. 49(1), Sch. 12 para. 79; S.I. 2015/841, art. 3(x)

@@ -1,0 +1,7272 @@
+---
+title: "Planning and Compensation Act 1991"
+identifier: "ukpga/1991/34"
+citation: "1991 c. 34"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S+N.I."
+date: 1991-07-25
+last_amended: 2026-04-28
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/1991/34"
+source_modified: 2026-06-05
+retrieved: 2026-10-11
+---
+
+# Planning and Compensation Act 1991
+
+**1991 c. 34**
+
+An Act to amend the law relating to town and country planning; to extend the powers to acquire by agreement land which may be affected by carrying out public works; to amend the law relating to compulsory acquisition of land and to compensation where persons are displaced from land or the value of land or its enjoyment may be affected by public works; to provide, in the case of compensation payable in respect of things done in the exercise of statutory powers, for advance payments and payments in interest; and to repeal Part X of the Highways Act 1980.
+
+[25th July 1991]
+
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## Part I — Town and Country Planning: England and Wales
+
+### New enforcement powers
+
+#### 1 Planning contravention notices.
+
+In the the [^M1]Town and Country Planning Act 1990 (referred to in this Act as “the principal Act”) in Part VII (enforcement) before section 172 there is inserted—
+
+> **Planning contravention notices**
+>
+> **171C Power to require information about activities on land.**
+>
+> (1) Where it appears to the local planning authority that there may have been a breach of planning control in respect of any land, they may serve notice to that effect (referred to in this Act as a “planning contravention notice”) on any person who—
+>
+> (a) is the owner or occupier of the land or has any other interest in it; or
+>
+> (b) is carrying out operations on the land or is using it for any purpose.
+>
+> (2) A planning contravention notice may require the person on whom it is served to give such information as to—
+>
+> (a) any operations being carried out on the land, any use of the land and any other activities being carried out on the land; and
+>
+> (b) any matter relating to the conditions or limitations subject to which any planning permission in respect of the land has been granted,
+>
+> as may be specified in the notice.
+>
+> (3) Without prejudice to the generality of subsection (2), the notice may require the person on whom it is served, so far as he is able—
+>
+> (a) to state whether or not the land is being used for any purpose specified in the notice or any operations or activities specified in the notice are being or have been carried out on the land;
+>
+> (b) to state when any use, operations or activities began;
+>
+> (c) to give the name and address of any person known to him to use or have used the land for any purpose or to be carrying out, or have carried out, any operations or activities on the land;
+>
+> (d) to give any information he holds as to any planning permission for any use or operations or any reason for planning permission not being required for any use or operations;
+>
+> (e) to state the nature of his interest (if any) in the land and the name and address of any other person known to him to have an interest in the land.
+>
+> (4) A planning contravention notice may give notice of a time and place at which—
+>
+> (a) any offer which the person on whom the notice is served may wish to make to apply for planning permission, to refrain from carrying out any operations or activities or to undertake remedial works; and
+>
+> (b) any representations which he may wish to make about the notice,
+>
+> will be considered by the authority, and the authority shall give him an opportunity to make in person any such offer or representations at that time and place.
+>
+> (5) A planning contravention notice must inform the person on whom it is served—
+>
+> (a) of the likely consequences of his failing to respond to the notice and, in particular, that enforcement action may be taken; and
+>
+> (b) of the effect of section 186(5)(b).
+>
+> (6) Any requirement of a planning contravention notice shall be complied with by giving information in writing to the local planning authority.
+>
+> (7) The service of a planning contravention notice does not affect any other power exercisable in respect of any breach of planning control.
+>
+> (8) In this section references to operations or activities on land include operations or activities in, under or over the land.
+>
+> **171D Penalties for non-compliance with planning contravention notice.**
+>
+> (1) If, at any time after the end of the period of twenty-one days beginning with the day on which a planning contravention notice has been served on any person, he has not complied with any requirement of the notice, he shall be guilty of an offence.
+>
+> (2) An offence under subsection (1) may be charged by reference to any day or longer period of time and a person may be convicted of a second or subsequent offence under that subsection by reference to any period of time following the preceding conviction for such an offence.
+>
+> (3) It shall be a defence for a person charged with an offence under subsection (1) to prove that he had a reasonable excuse for failing to comply with the requirement.
+>
+> (4) A person guilty of an offence under subsection (1) shall be liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+>
+> (5) If any person—
+>
+> (a) makes any statement purporting to comply with a requirement of a planning contravention notice which he knows to be false or misleading in a material particular; or
+>
+> (b) recklessly makes such a statement which is false or misleading in a material particular,
+>
+> he shall be guilty of an offence.
+>
+> (6) A person guilty of an offence under subsection (5) shall be liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+#### 2 Enforcement of conditions.
+
+After section 187 of the principal Act there is inserted—
+
+> **Breach of condition**
+>
+> **187A Enforcement of conditions.**
+>
+> (1) This section applies where planning permission for carrying out any development of land has been granted subject to conditions.
+>
+> (2) The local planning authority may, if any of the conditions is not complied with, serve a notice (in this Act referred to as a “breach of condition notice”) on—
+>
+> (a) any person who is carrying out or has carried out the development; or
+>
+> (b) any person having control of the land,
+>
+> requiring him to secure compliance with such of the conditions as are specified in the notice.
+>
+> (3) References in this section to the person responsible are to the person on whom the breach of condition notice has been served.
+>
+> (4) The conditions which may be specified in a notice served by virtue of subsection (2)(b) are any of the conditions regulating the use of the land.
+>
+> (5) A breach of condition notice shall specify the steps which the authority consider ought to be taken, or the activities which the authority consider ought to cease, to secure compliance with the conditions specified in the notice.
+>
+> (6) The authority may by notice served on the person responsible withdraw the breach of condition notice, but its withdrawal shall not affect the power to serve on him a further breach of condition notice in respect of the conditions specified in the earlier notice or any other conditions.
+>
+> (7) The period allowed for compliance with the notice is—
+>
+> (a) such period of not less than twenty-eight days beginning with the date of service of the notice as may be specified in the notice; or
+>
+> (b) that period as extended by a further notice served by the local planning authority on the person responsible.
+>
+> (8) If, at any time after the end of the period allowed for compliance with the notice—
+>
+> (a) any of the conditions specified in the notice is not complied with; and
+>
+> (b) the steps specified in the notice have not been taken or, as the case may be, the activities specified in the notice have not ceased,
+>
+> the person responsible is in breach of the notice.
+>
+> (9) If the person responsible is in breach of the notice he shall be guilty of an offence.
+>
+> (10) An offence under subsection (9) may be charged by reference to any day or longer period of time and a person may be convicted of a second or subsequent offence under that subsection by reference to any period of time following the preceding conviction for such an offence.
+>
+> (11) It shall be a defence for a person charged with an offence under subsection (9) to prove—
+>
+> (a) that he took all reasonable measures to secure compliance with the conditions specified in the notice; or
+>
+> (b) where the notice was served on him by virtue of subsection (2)(b), that he no longer had control of the land.
+>
+> (12) A person who is guilty of an offence under subsection (9) shall be liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+>
+> (13) In this section—
+>
+> (a) “conditions” includes limitations; and
+>
+> (b) references to carrying out any development include causing or permitting another to do so.
+
+#### 3 Injunctions restraining breaches of planning control.
+
+After section 187A of the principal Act (as inserted by section 2 of this Act) there is inserted—
+
+> **Injunctions**
+>
+> **187B Injunctions restraining breaches of planning control.**
+>
+> (1) Where a local planning authority consider it necessary or expedient for any actual or apprehended breach of planning control to be restrained by injunction, they may apply to the court for an injunction, whether or not they have exercised or are proposing to exercise any of their other powers under this Part.
+>
+> (2) On an application under subsection (1) the court may grant such an injunction as the court thinks appropriate for the purpose of restraining the breach.
+>
+> (3) Rules of court may provide for such an injunction to be issued against a person whose identity is unknown.
+>
+> (4) In this section “the court” means the High Court or the county court.
+
+### Other changes relating to enforcement
+
+#### 4 Time limits on enforcement action.
+
+(1) At the beginning of Part VII of the principal Act (enforcement) there is inserted—
+
+> **Introductory**
+>
+> **171A Expressions used in connection with enforcement.**
+>
+> (1) For the purposes of this Act—
+>
+> (a) carrying out development without the required planning permission; or
+>
+> (b) failing to comply with any condition or limitation subject to which planning permission has been granted,
+>
+> constitutes a breach of planning control.
+>
+> (2) For the purposes of this Act—
+>
+> (a) the issue of an enforcement notice (defined in section 172); or
+>
+> (b) the service of a breach of condition notice (defined in section 187A),
+>
+> constitutes taking enforcement action.
+>
+> (3) In this Part “planning permission” includes permission under Part III of the 1947 Act, of the 1962 Act or of the 1971 Act.
+>
+> **171B Time limits.**
+>
+> (1) Where there has been a breach of planning control consisting in the carrying out without planning permission of building, engineering, mining or other operations in, on, over or under land, no enforcement action may be taken after the end of the period of four years beginning with the date on which the operations were substantially completed.
+>
+> (2) Where there has been a breach of planning control consisting in the change of use of any building to use as a single dwellinghouse, no enforcement action may be taken after the end of the period of four years beginning with the date of the breach.
+>
+> (3) In the case of any other breach of planning control, no enforcement action may be taken after the end of the period of ten years beginning with the date of the breach.
+>
+> (4) The preceding subsections do not prevent—
+>
+> (a) the service of a breach of condition notice in respect of any breach of planning control if an enforcement notice in respect of the breach is in effect; or
+>
+> (b) taking further enforcement action in respect of any breach of planning control if, during the period of four years ending with that action being taken, the local planning authority have taken or purported to take enforcement action in respect of that breach.
+
+(2) If, in the case of any breach of planning control, the time for issuing an enforcement notice has expired, before the coming into force of this section, by virtue of section 172(4)(b) of the principal Act (as originally enacted), nothing in this section enables any enforcement action to be taken in respect of the breach.
+
+#### 5 Enforcement notices.
+
+(1) For sections 172 and 173 of the principal Act (power to issue and contents of enforcement notice) there is substituted—
+
+> **172 Issue of enforcement notice.**
+>
+> (1) The local planning authority may issue a notice (in this Act referred to as an “enforcement notice”) where it appears to them—
+>
+> (a) that there has been a breach of planning control; and
+>
+> (b) that it is expedient to issue the notice, having regard to the provisions of the development plan and to any other material considerations.
+>
+> (2) A copy of an enforcement notice shall be served—
+>
+> (a) on the owner and on the occupier of the land to which it relates; and
+>
+> (b) on any other person having an interest in the land, being an interest which, in the opinion of the authority, is materially affected by the notice.
+>
+> (3) The service of the notice shall take place—
+>
+> (a) not more than twenty-eight days after its date of issue; and
+>
+> (b) not less than twenty-eight days before the date specified in it as the date on which it is to take effect.
+>
+> **173 Contents and effect of notice.**
+>
+> (1) An enforcement notice shall state—
+>
+> (a) the matters which appear to the local planning authority to constitute the breach of planning control; and
+>
+> (b) the paragraph of section 171A(1) within which, in the opinion of the authority, the breach falls.
+>
+> (2) A notice complies with subsection (1)(a) if it enables any person on whom a copy of it is served to know what those matters are.
+>
+> (3) An enforcement notice shall specify the steps which the authority require to be taken, or the activities which the authority require to cease, in order to achieve, wholly or partly, any of the following purposes.
+>
+> (4) Those purposes are—
+>
+> (a) remedying the breach by making any development comply with the terms (including conditions and limitations) of any planning permission which has been granted in respect of the land, by discontinuing any use of the land or by restoring the land to its condition before the breach took place; or
+>
+> (b) remedying any injury to amenity which has been caused by the breach.
+>
+> (5) An enforcement notice may, for example, require—
+>
+> (a) the alteration or removal of any buildings or works;
+>
+> (b) the carrying out of any building or other operations;
+>
+> (c) any activity on the land not to be carried on except to the extent specified in the notice; or
+>
+> (d) the contour of a deposit of refuse or waste materials on land to be modified by altering the gradient or gradients of its sides.
+>
+> (6) Where an enforcement notice is issued in respect of a breach of planning control consisting of demolition of a building, the notice may require the construction of a building (in this section referred to as a “replacement building”) which, subject to subsection (7), is as similar as possible to the demolished building.
+>
+> (7) A replacement building—
+>
+> (a) must comply with any requirement imposed by any enactment applicable to the construction of buildings;
+>
+> (b) may differ from the demolished building in any respect which, if the demolished building had been altered in that respect, would not have constituted a breach of planning control;
+>
+> (c) must comply with any regulations made for the purposes of this subsection (including regulations modifying paragraphs (a) and (b)).
+>
+> (8) An enforcement notice shall specify the date on which it is to take effect and, subject to sections 175(4) and 289(4A), shall take effect on that date.
+>
+> (9) An enforcement notice shall specify the period at the end of which any steps are required to have been taken or any activities are required to have ceased and may specify different periods for different steps or activities; and, where different periods apply to different steps or activities, references in this Part to the period for compliance with an enforcement notice, in relation to any step or activity, are to the period at the end of which the step is required to have been taken or the activity is required to have ceased.
+>
+> (10) An enforcement notice shall specify such additional matters as may be prescribed, and regulations may require every copy of an enforcement notice served under section 172 to be accompanied by an explanatory note giving prescribed information as to the right of appeal under section 174.
+>
+> (11) Where—
+>
+> (a) an enforcement notice in respect of any breach of planning control could have required any buildings or works to be removed or any activity to cease, but does not do so; and
+>
+> (b) all the requirements of the notice have been complied with,
+>
+> then, so far as the notice did not so require, planning permission shall be treated as having been granted by virtue of section 73A in respect of development consisting of the construction of the buildings or works or, as the case may be, the carrying out of the activities.
+>
+> (12) Where—
+>
+> (a) an enforcement notice requires the construction of a replacement building; and
+>
+> (b) all the requirements of the notice with respect to that construction have been complied with,
+>
+> planning permission shall be treated as having been granted by virtue of section 73A in respect of development consisting of that construction.
+>
+> **173A Variation and withdrawal of enforcement notices.**
+>
+> (1) The local planning authority may—
+>
+> (a) withdraw an enforcement notice issued by them; or
+>
+> (b) waive or relax any requirement of such a notice and, in particular, may extend any period specified in accordance with section 173(9).
+>
+> (2) The powers conferred by subsection (1) may be exercised whether or not the notice has taken effect.
+>
+> (3) The local planning authority shall, immediately after exercising the powers conferred by subsection (1), give notice of the exercise to every person who has been served with a copy of the enforcement notice or would, if the notice were re-issued, be served with a copy of it.
+>
+> (4) The withdrawal of an enforcement notice does not affect the power of the local planning authority to issue a further enforcement notice.
+
+#### 6 Appeal against enforcement notice.
+
+(1) For section 174(2) and (3) of the principal Act (grounds of appeal and notice) there is substituted—
+
+> (2) An appeal may be brought on any of the following grounds—
+>
+> (a) that, in respect of any breach of planning control which may be constituted by the matters stated in the notice, planning permission ought to be granted or, as the case may be, the condition or limitation concerned ought to be discharged;
+>
+> (b) that those matters have not occurred;
+>
+> (c) that those matters (if they occurred) do not constitute a breach of planning control;
+>
+> (d) that, at the date when the notice was issued, no enforcement action could be taken in respect of any breach of planning control which may be constituted by those matters;
+>
+> (e) that copies of the enforcement notice were not served as required by section 172;
+>
+> (f) that the steps required by the notice to be taken, or the activities required by the notice to cease, exceed what is necessary to remedy any breach of planning control which may be constituted by those matters or, as the case may be, to remedy any injury to amenity which has been caused by any such breach;
+>
+> (g) that any period specified in the notice in accordance with section 173(9) falls short of what should reasonably be allowed.
+>
+> (3) An appeal under this section shall be made either—
+>
+> (a) by giving written notice of the appeal to the Secretary of State before the date specified in the enforcement notice as the date on which it is to take effect; or
+>
+> (b) by sending such notice to him in a properly addressed and pre-paid letter posted to him at such time that, in the ordinary course of post, it would be delivered to him before that date.
+
+(2) In section 175(4) of that Act (enforcement notices of no effect pending final determination or withdrawal of appeals) after “shall” there is inserted “ subject to any order under section 289(4A) ”.
+
+(3) After section 177(5) of that Act (appellant deemed to have made an application for planning permission for the development to which the enforcement notice relates) there is inserted—
+
+> (5A) Where—
+>
+> (a) the statement under subsection (4) of section 174 specifies the ground mentioned in subsection (2)(a) of that section;
+>
+> (b) any fee is payable under regulations made by virtue of section 303 in respect of the application deemed to be made by virtue of the appeal; and
+>
+> (c) the Secretary of State gives notice in writing to the appellant specifying the period within which the fee must be paid,
+>
+> then, if that fee is not paid within that period, the appeal, so far as brought on that ground, and the application shall lapse at the end of that period.
+
+(4) In section 289 of that Act (appeals to High Court) after subsection (4) there is inserted—
+
+> (4A) In proceedings brought by virtue of this section in respect of an enforcement notice, the High Court or, as the case may be, the Court of Appeal may, on such terms if any as the Court thinks fit (which may include terms requiring the local planning authority to give an undertaking as to damages or any other matter), order that the notice shall have effect, or have effect to such extent as may be specified in the order, pending the final determination of those proceedings and any re-hearing and determination by the Secretary of State.
+>
+> (4B) Where proceedings are brought by virtue of this section in respect of any notice under section 207, the notice shall be of no effect pending the final determination of those proceedings and any re-hearing and determination by the Secretary of State.
+
+(5) For subsection (6) of that section there is substituted—
+
+> (5A) Rules of court may also provide for the High Court or, as the case may be, the Court of Appeal to give directions as to the exercise, until such proceedings in respect of an enforcement notice are finally concluded and any re-hearing and determination by the Secretary of State has taken place, of any other powers in respect of the matters to which such a notice relates.
+>
+> (6) No proceedings in the High Court shall be brought by virtue of this section except with the leave of that Court and no appeal to the Court of Appeal shall be so brought except with the leave of the Court of Appeal or of the High Court.
+
+[^F1]6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 7 Execution of works required by enforcement notice.
+
+(1) For section 178(1) of the principal Act (power to execute works required by enforcement notice) there is substituted—
+
+> (1) Where any steps required by an enforcement notice to be taken are not taken within the period for compliance with the notice, the local planning authority may—
+>
+> (a) enter the land and take the steps; and
+>
+> (b) recover from the person who is then the owner of the land any expenses reasonably incurred by them in doing so.
+
+(2) For subsections (6) and (7) of that section there is substituted—
+
+> (6) Any person who wilfully obstructs a person acting in the exercise of powers under subsection (1) shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+#### 8 Offence where enforcement notice not complied with.
+
+For section 179 of the principal Act (penalties for non-compliance with enforcement notice) there is substituted—
+
+> **179 Offence where enforcement notice not complied with.**
+>
+> (1) Where, at any time after the end of the period for compliance with an enforcement notice, any step required by the notice to be taken has not been taken or any activity required by the notice to cease is being carried on, the person who is then the owner of the land is in breach of the notice.
+>
+> (2) Where the owner of the land is in breach of an enforcement notice he shall be guilty of an offence.
+>
+> (3) In proceedings against any person for an offence under subsection (2), it shall be a defence for him to show that he did everything he could be expected to do to secure compliance with the notice.
+>
+> (4) A person who has control of or an interest in the land to which an enforcement notice relates (other than the owner) must not carry on any activity which is required by the notice to cease or cause or permit such an activity to be carried on.
+>
+> (5) A person who, at any time after the end of the period for compliance with the notice, contravenes subsection (4) shall be guilty of an offence.
+>
+> (6) An offence under subsection (2) or (5) may be charged by reference to any day or longer period of time and a person may be convicted of a second or subsequent offence under the subsection in question by reference to any period of time following the preceding conviction for such an offence.
+>
+> (7) Where—
+>
+> (a) a person charged with an offence under this section has not been served with a copy of the enforcement notice; and
+>
+> (b) the notice is not contained in the appropriate register kept under section 188,
+>
+> it shall be a defence for him to show that he was not aware of the existence of the notice.
+>
+> (8) A person guilty of an offence under this section shall be liable—
+>
+> (a) on summary conviction, to a fine not exceeding £20,000; and
+>
+> (b) on conviction on indictment, to a fine.
+>
+> (9) In determining the amount of any fine to be imposed on a person convicted of an offence under this section, the court shall in particular have regard to any financial benefit which has accrued or appears likely to accrue to him in consequence of the offence.
+
+#### 9 Stop notices.
+
+(1) For section 183(1) to (5) of the principal Act (stop notices) there is substituted—
+
+> (1) Where the local planning authority consider it expedient that any relevant activity should cease before the expiry of the period for compliance with an enforcement notice, they may, when they serve the copy of the enforcement notice or afterwards, serve a notice (in this Act referred to as a “stop notice”) prohibiting the carrying out of that activity on the land to which the enforcement notice relates, or any part of that land specified in the stop notice.
+>
+> (2) In this section and sections 184 and 186 “relevant activity” means any activity specified in the enforcement notice as an activity which the local planning authority require to cease and any activity carried out as part of that activity or associated with that activity.
+>
+> (3) A stop notice may not be served where the enforcement notice has taken effect.
+>
+> (4) A stop notice shall not prohibit the use of any building as a dwellinghouse.
+>
+> (5) A stop notice shall not prohibit the carrying out of any activity if the activity has been carried out (whether continuously or not) for a period of more than four years ending with the service of the notice; and for the purposes of this subsection no account is to be taken of any period during which the activity was authorised by planning permission.
+>
+> (5A) Subsection (5) does not prevent a stop notice prohibiting any activity consisting of, or incidental to, building, engineering, mining or other operations or the deposit of refuse or waste materials.
+
+(2) For section 184(3) of that Act (date on which stop notice takes effect) there is substituted—
+
+> (3) That date—
+>
+> (a) must not be earlier than three days after the date when the notice is served, unless the local planning authority consider that there are special reasons for specifying an earlier date and a statement of those reasons is served with the stop notice; and
+>
+> (b) must not be later than twenty-eight days from the date when the notice is first served on any person.
+
+(3) For section 186(5) of that Act (matters relevant to compensation) there is substituted—
+
+> (5) No compensation is payable under this section—
+>
+> (a) in respect of the prohibition in a stop notice of any activity which, at any time when the notice is in force, constitutes or contributes to a breach of planning control; or
+>
+> (b) in the case of a claimant who was required to provide information under section 171C or 330 or section 16 of the [^M2]Local Government (Miscellaneous Provisions) Act 1976, in respect of any loss or damage suffered by him which could have been avoided if he had provided the information or had otherwise co-operated with the local planning authority when responding to the notice.
+
+(4) For section 187(1) and (2) of that Act (offences and penalties) there is substituted—
+
+> (1) If any person contravenes a stop notice after a site notice has been displayed or the stop notice has been served on him he shall be guilty of an offence.
+>
+> (1A) An offence under this section may be charged by reference to any day or longer period of time and a person may be convicted of a second or subsequent offence under this section by reference to any period of time following the preceding conviction for such an offence.
+>
+> (1B) References in this section to contravening a stop notice include causing or permitting its contravention.
+>
+> (2) A person guilty of an offence under this section shall be liable—
+>
+> (a) on summary conviction, to a fine not exceeding £20,000; and
+>
+> (b) on conviction on indictment, to a fine.
+>
+> (2A) In determining the amount of any fine to be imposed on a person convicted of an offence under this section, the court shall in particular have regard to any financial benefit which has accrued or appears likely to accrue to him in consequence of the offence.
+
+#### 10 Certificate of lawful use or development.
+
+(1) For sections 191 to 194 of the principal Act (established use certificates) there is substituted—
+
+> **Certificate of lawful use or development**
+>
+> **191 Certificate of lawfulness of existing use or development.**
+>
+> (1) If any person wishes to ascertain whether—
+>
+> (a) any existing use of buildings or other land is lawful;
+>
+> (b) any operations which have been carried out in, on, over or under land are lawful; or
+>
+> (c) any other matter constituting a failure to comply with any condition or limitation subject to which planning permission has been granted is lawful,
+>
+> he may make an application for the purpose to the local planning authority specifying the land and describing the use, operations or other matter.
+>
+> (2) For the purposes of this Act uses and operations are lawful at any time if—
+>
+> (a) no enforcement action may then be taken in respect of them (whether because they did not involve development or require planning permission or because the time for enforcement action has expired or for any other reason); and
+>
+> (b) they do not constitute a contravention of any of the requirements of any enforcement notice then in force.
+>
+> (3) For the purposes of this Act any matter constituting a failure to comply with any condition or limitation subject to which planning permission has been granted is lawful at any time if—
+>
+> (a) the time for taking enforcement action in respect of the failure has then expired; and
+>
+> (b) it does not constitute a contravention of any of the requirements of any enforcement notice or breach of condition notice then in force.
+>
+> (4) If, on an application under this section, the local planning authority are provided with information satisfying them of the lawfulness at the time of the application of the use, operations or other matter described in the application, or that description as modified by the local planning authority or a description substituted by them, they shall issue a certificate to that effect; and in any other case they shall refuse the application.
+>
+> (5) A certificate under this section shall—
+>
+> (a) specify the land to which it relates;
+>
+> (b) describe the use, operations or other matter in question (in the case of any use falling within one of the classes specified in an order under section 55(2)(f), identifying it by reference to that class);
+>
+> (c) give the reasons for determining the use, operations or other matter to be lawful; and
+>
+> (d) specify the date of the application for the certificate.
+>
+> (6) The lawfulness of any use, operations or other matter for which a certificate is in force under this section shall be conclusively presumed.
+>
+> (7) A certificate under this section in respect of any use shall also have effect, for the purposes of the following enactments, as if it were a grant of planning permission—
+>
+> (a) section 3(3) of the [^M3]Caravan Sites and Control of Development Act 1960;
+>
+> (b) section 5(2) of the [^M4]Control of Pollution Act 1974; and
+>
+> (c) section 36(2)(a) of the [^M5]Environmental Protection Act 1990.
+>
+> **192 Certificate of lawfulness of proposed use or development.**
+>
+> (1) If any person wishes to ascertain whether—
+>
+> (a) any proposed use of buildings or other land; or
+>
+> (b) any operations proposed to be carried out in, on, over or under land,
+>
+> would be lawful, he may make an application for the purpose to the local planning authority specifying the land and describing the use or operations in question.
+>
+> (2) If, on an application under this section, the local planning authority are provided with information satisfying them that the use or operations described in the application would be lawful if instituted or begun at the time of the application, they shall issue a certificate to that effect; and in any other case they shall refuse the application.
+>
+> (3) A certificate under this section shall—
+>
+> (a) specify the land to which it relates;
+>
+> (b) describe the use or operations in question (in the case of any use falling within one of the classes specified in an order under section 55(2)(f), identifying it by reference to that class);
+>
+> (c) give the reasons for determining the use or operations to be lawful; and
+>
+> (d) specify the date of the application for the certificate.
+>
+> (4) The lawfulness of any use or operations for which a certificate is in force under this section shall be conclusively presumed unless there is a material change, before the use is instituted or the operations are begun, in any of the matters relevant to determining such lawfulness.
+>
+> **193 Certificates under sections 191 and 192: supplementary provisions.**
+>
+> (1) An application for a certificate under section 191 or 192 shall be made in such manner as may be prescribed by a development order and shall include such particulars, and be verified by such evidence, as may be required by such an order or by any directions given under such an order or by the local planning authority.
+>
+> (2) Provision may be made by a development order for regulating the manner in which applications for certificates under those sections are to be dealt with by local planning authorities.
+>
+> (3) In particular, such an order may provide for requiring the authority—
+>
+> (a) to give to any applicant within such time as may be prescribed by the order such notice as may be so prescribed as to the manner in which his application has been dealt with; and
+>
+> (b) to give to the Secretary of State and to such other persons as may be prescribed by or under the order, such information as may be so prescribed with respect to such applications made to the authority, including information as to the manner in which any application has been dealt with.
+>
+> (4) A certificate under either of those sections may be issued—
+>
+> (a) for the whole or part of the land specified in the application; and
+>
+> (b) where the application specifies two or more uses, operations or other matters, for all of them or some one or more of them;
+>
+> and shall be in such form as may be prescribed by a development order.
+>
+> (5) A certificate under section 191 or 192 shall not affect any matter constituting a failure to comply with any condition or limitation subject to which planning permission has been granted unless that matter is described in the certificate.
+>
+> (6) In section 69 references to applications for planning permission shall include references to applications for certificates under section 191 or 192.
+>
+> (7) A local planning authority may revoke a certificate under either of those sections if, on the application for the certificate—
+>
+> (a) a statement was made or document used which was false in a material particular; or
+>
+> (b) any material information was withheld.
+>
+> (8) Provision may be made by a development order for regulating the manner in which certificates may be revoked and the notice to be given of such revocation.
+>
+> **194 Offences.**
+>
+> (1) If any person, for the purpose of procuring a particular decision on an application (whether by himself or another) for the issue of a certificate under section 191 or 192—
+>
+> (a) knowingly or recklessly makes a statement which is false or misleading in a material particular;
+>
+> (b) with intent to deceive, uses any document which is false or misleading in a material particular; or
+>
+> (c) with intent to deceive, withholds any material information,
+>
+> he shall be guilty of an offence.
+>
+> (2) A person guilty of an offence under subsection (1) shall be liable—
+>
+> (a) on summary conviction, to a fine not exceeding the statutory maximum; or
+>
+> (b) on conviction on indictment, to imprisonment for a term not exceeding two years, or a fine, or both.
+>
+> (3) Notwithstanding section 127 of the [^M6]Magistrates’ Courts Act 1980, a magistrates’ court may try an information in respect of an offence under subsection (1) whenever laid.
+
+(2) An order under section 84(2) of this Act may provide for established use certificates to have effect, in such circumstances and to such extent as may be specified in the order, for the purposes of section 191 of the principal Act as substituted by this section.
+
+#### 11 Rights of entry for enforcement purposes.
+
+(1) At the end of Part VII of the principal Act there is inserted—
+
+> **Rights of entry for enforcement purposes**
+>
+> **196A Rights to enter without warrant.**
+>
+> (1) Any person duly authorised in writing by a local planning authority may at any reasonable hour enter any land—
+>
+> (a) to ascertain whether there is or has been any breach of planning control on the land or any other land;
+>
+> (b) to determine whether any of the powers conferred on a local planning authority by this Part should be exercised in relation to the land or any other land;
+>
+> (c) to determine how any such power should be exercised in relation to the land or any other land;
+>
+> (d) to ascertain whether there has been compliance with any requirement imposed as a result of any such power having been exercised in relation to the land or any other land,
+>
+> if there are reasonable grounds for entering for the purpose in question.
+>
+> (2) Any person duly authorised in writing by the Secretary of State may at any reasonable hour enter any land to determine whether an enforcement notice should be issued in relation to the land or any other land, if there are reasonable grounds for entering for that purpose.
+>
+> (3) The Secretary of State shall not so authorise any person without consulting the local planning authority.
+>
+> (4) Admission to any building used as a dwellinghouse shall not be demanded as of right by virtue of subsection (1) or (2) unless twenty-four hours’ notice of the intended entry has been given to the occupier of the building.
+>
+> **196B Right to enter under warrant.**
+>
+> (1) If it is shown to the satisfaction of a justice of the peace on sworn information in writing—
+>
+> (a) that there are reasonable grounds for entering any land for any of the purposes mentioned in section 196A(1) or (2); and
+>
+> (b) that—
+>
+> (i) admission to the land has been refused, or a refusal is reasonably apprehended; or
+>
+> (ii) the case is one of urgency,
+>
+> the justice may issue a warrant authorising any person duly authorised in writing by a local planning authority or, as the case may be, the Secretary of State to enter the land.
+>
+> (2) For the purposes of subsection (1)(b)(i) admission to land shall be regarded as having been refused if no reply is received to a request for admission within a reasonable period.
+>
+> (3) A warrant authorises entry on one occasion only and that entry must be—
+>
+> (a) within one month from the date of the issue of the warrant; and
+>
+> (b) at a reasonable hour, unless the case is one of urgency.
+>
+> **196C Rights of entry: supplementary provisions.**
+>
+> (1) A person authorised to enter any land in pursuance of a right of entry conferred under or by virtue of section 196A or 196B (referred to in this section as “a right of entry”)—
+>
+> (a) shall, if so required, produce evidence of his authority and state the purpose of his entry before so entering;
+>
+> (b) may take with him such other persons as may be necessary; and
+>
+> (c) on leaving the land shall, if the owner or occupier is not then present, leave it as effectively secured against trespassers as he found it.
+>
+> (2) Any person who wilfully obstructs a person acting in the exercise of a right of entry shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+>
+> (3) If any damage is caused to land or chattels in the exercise of a right of entry, compensation may be recovered by any person suffering the damage from the authority who gave the written authority for the entry or, as the case may be, the Secretary of State.
+>
+> (4) The provisions of section 118 shall apply in relation to compensation under subsection (3) as they apply in relation to compensation under Part IV.
+>
+> (5) If any person who enters any land, in exercise of a right of entry, discloses to any person any information obtained by him while on the land as to any manufacturing process or trade secret, he shall be guilty of an offence.
+>
+> (6) Subsection (5) does not apply if the disclosure is made by a person in the course of performing his duty in connection with the purpose for which he was authorised to enter the land.
+>
+> (7) A person who is guilty of an offence under subsection (5) shall be liable on summary conviction to a fine not exceeding the statutory maximum or on conviction on indictment to imprisonment for a term not exceeding two years or a fine or both.
+>
+> (8) In sections 196A and 196B and this section references to a local planning authority include, in relation to a building situated in Greater London, a reference to the Historic Buildings and Monuments Commission for England.
+
+(2) In section 324(1)(c) of that Act (rights of entry) “Part VII” is omitted.
+
+(3) In section 325(6) of that Act (compensation in respect of damage caused in exercise of right of entry)—
+
+(a) for “land is damaged” there is substituted “ damage is caused to land or chattels ”; and
+
+(b) for the words from “in respect of” to “in the land” there is substituted “ may be recovered by any person suffering the damage ”.
+
+### Control over development
+
+#### 12 Planning obligations.
+
+(1) For section 106 of the principal Act (agreements regulating development or use of land) there is substituted—
+
+> **106 Planning obligations.**
+>
+> (1) Any person interested in land in the area of a local planning authority may, by agreement or otherwise, enter into an obligation (referred to in this section and sections 106A and 106B as “a planning obligation”), enforceable to the extent mentioned in subsection (3)—
+>
+> (a) restricting the development or use of the land in any specified way;
+>
+> (b) requiring specified operations or activities to be carried out in, on, under or over the land;
+>
+> (c) requiring the land to be used in any specified way; or
+>
+> (d) requiring a sum or sums to be paid to the authority on a specified date or dates or periodically.
+>
+> (2) A planning obligation may—
+>
+> (a) be unconditional or subject to conditions;
+>
+> (b) impose any restriction or requirement mentioned in subsection (1)(a) to (c) either indefinitely or for such period or periods as may be specified; and
+>
+> (c) if it requires a sum or sums to be paid, require the payment of a specified amount or an amount determined in accordance with the instrument by which the obligation is entered into and, if it requires the payment of periodical sums, require them to be paid indefinitely or for a specified period.
+>
+> (3) Subject to subsection (4) a planning obligation is enforceable by the authority identified in accordance with subsection (9)(d)—
+>
+> (a) against the person entering into the obligation; and
+>
+> (b) against any person deriving title from that person.
+>
+> (4) The instrument by which a planning obligation is entered into may provide that a person shall not be bound by the obligation in respect of any period during which he no longer has an interest in the land.
+>
+> (5) A restriction or requirement imposed under a planning obligation is enforceable by injunction.
+>
+> (6) Without prejudice to subsection (5), if there is a breach of a requirement in a planning obligation to carry out any operations in, on, under or over the land to which the obligation relates, the authority by whom the obligation is enforceable may—
+>
+> (a) enter the land and carry out the operations; and
+>
+> (b) recover from the person or persons against whom the obligation is enforceable any expenses reasonably incurred by them in doing so.
+>
+> (7) Before an authority exercise their power under subsection (6)(a) they shall give not less than twenty-one days’ notice of their intention to do so to any person against whom the planning obligation is enforceable.
+>
+> (8) Any person who wilfully obstructs a person acting in the exercise of a power under subsection (6)(a) shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+>
+> (9) A planning obligation may not be entered into except by an instrument executed as a deed which—
+>
+> (a) states that the obligation is a planning obligation for the purposes of this section;
+>
+> (b) identifies the land in which the person entering into the obligation is interested;
+>
+> (c) identifies the person entering into the obligation and states what his interest in the land is; and
+>
+> (d) identifies the local planning authority by whom the obligation is enforceable.
+>
+> (10) A copy of any such instrument shall be given to the authority so identified.
+>
+> (11) A planning obligation shall be a local land charge and for the purposes of the [^M7]Local Land Charges Act 1975 the authority by whom the obligation is enforceable shall be treated as the originating authority as respects such a charge.
+>
+> (12) Regulations may provide for the charging on the land of—
+>
+> (a) any sum or sums required to be paid under a planning obligation; and
+>
+> (b) any expenses recoverable by a local planning authority under subsection (6)(b),
+>
+> and this section and sections 106A and 106B shall have effect subject to any such regulations.
+>
+> (13) In this section “specified” means specified in the instrument by which the planning obligation is entered into and in this section and section 106A “land” has the same meaning as in the [^M8]Local Land Charges Act 1975.
+>
+> **106A Modification and discharge of planning obligations.**
+>
+> (1) A planning obligation may not be modified or discharged except—
+>
+> (a) by agreement between the authority by whom the obligation is enforceable and the person or persons against whom the obligation is enforceable; or
+>
+> (b) in accordance with this section and section 106B.
+>
+> (2) An agreement falling within subsection (1)(a) shall not be entered into except by an instrument executed as a deed.
+>
+> (3) A person against whom a planning obligation is enforceable may, at any time after the expiry of the relevant period, apply to the local planning authority by whom the obligation is enforceable for the obligation—
+>
+> (a) to have effect subject to such modifications as may be specified in the application; or
+>
+> (b) to be discharged.
+>
+> (4) In subsection (3) “the relevant period” means—
+>
+> (a) such period as may be prescribed; or
+>
+> (b) if no period is prescribed, the period of five years beginning with the date on which the obligation is entered into.
+>
+> (5) An application under subsection (3) for the modification of a planning obligation may not specify a modification imposing an obligation on any other person against whom the obligation is enforceable.
+>
+> (6) Where an application is made to an authority under subsection (3), the authority may determine—
+>
+> (a) that the planning obligation shall continue to have effect without modification;
+>
+> (b) if the obligation no longer serves a useful purpose, that it shall be discharged; or
+>
+> (c) if the obligation continues to serve a useful purpose, but would serve that purpose equally well if it had effect subject to the modifications specified in the application, that it shall have effect subject to those modifications.
+>
+> (7) The authority shall give notice of their determination to the applicant within such period as may be prescribed.
+>
+> (8) Where an authority determine that a planning obligation shall have effect subject to modifications specified in the application, the obligation as modified shall be enforceable as if it had been entered into on the date on which notice of the determination was given to the applicant.
+>
+> (9) Regulations may make provision with respect to—
+>
+> (a) the form and content of applications under subsection (3);
+>
+> (b) the publication of notices of such applications;
+>
+> (c) the procedures for considering any representations made with respect to such applications; and
+>
+> (d) the notices to be given to applicants of determinations under subsection (6).
+>
+> (10) Section 84 of the [^M9]Law of Property Act 1925 (power to discharge or modify restrictive covenants affecting land) does not apply to a planning obligation.
+>
+> **106B Appeals.**
+>
+> (1) Where a local planning authority—
+>
+> (a) fail to give notice as mentioned in section 106A(7); or
+>
+> (b) determine that a planning obligation shall continue to have effect without modification,
+>
+> the applicant may appeal to the Secretary of State.
+>
+> (2) For the purposes of an appeal under subsection (1)(a), it shall be assumed that the authority have determined that the planning obligation shall continue to have effect without modification.
+>
+> (3) An appeal under this section shall be made by notice served within such period and in such manner as may be prescribed.
+>
+> (4) Subsections (6) to (9) of section 106A apply in relation to appeals to the Secretary of State under this section as they apply in relation to applications to authorities under that section.
+>
+> (5) Before determining the appeal the Secretary of State shall, if either the applicant or the authority so wish, give each of them an opportunity of appearing before and being heard by a person appointed by the Secretary of State for the purpose.
+>
+> (6) The determination of an appeal by the Secretary of State under this section shall be final.
+>
+> (7) Schedule 6 applies to appeals under this section.
+
+(2) In section 296(2) of that Act (exercise of powers in relation to Crown land) after “authority-” there is inserted—
+
+> (aa) in relation to land which for the time being is Crown land—
+>
+> (i) a planning obligation shall not be enforced by injunction; and
+>
+> (ii) the power to enter land conferred by section 106(6) shall not be exercised;
+
+.
+
+(3) After section 299 of that Act there is inserted—
+
+> **299A Crown planning obligations.**
+>
+> (1) The appropriate authority in relation to any Crown interest or Duchy interest in land in the area of a local planning authority may enter into an obligation falling within any of paragraphs (a) to (d) of section 106(1) (in this section referred to as a “planning obligation”) enforceable to the extent mentioned in subsection (3).
+>
+> (2) A planning obligation may not be entered into except by an instrument executed as a deed which—
+>
+> (a) states that the obligation is a planning obligation for the purposes of this section;
+>
+> (b) identifies the land in relation to which the obligation is entered into;
+>
+> (c) identifies the appropriate authority who are entering into the obligation and states what the Crown or Duchy interest in the land is; and
+>
+> (d) identifies the local planning authority by whom the obligation is enforceable.
+>
+> (3) A planning obligation entered into under this section is enforceable—
+>
+> (a) against any person with a private interest deriving from the Crown or Duchy interest stated in accordance with subsection (2)(c);
+>
+> (b) by the authority identified in accordance with subsection (2)(d).
+>
+> (4) Subject to subsection (5), subsections (2), (4) to (8) and (10) to (13) of section 106 and sections 106A and 106B apply to a planning obligation entered into under this section as they apply to a planning obligation entered into under that section.
+>
+> (5) The consent of the appropriate authority must be obtained to—
+>
+> (a) the enforcement by injunction of a planning obligation against a person in respect of land which is Crown land; and
+>
+> (b) the exercise, in relation to Crown land, of the power to enter land conferred by section 106(6) (as applied by subsection (4)).
+
+#### 13 Demolition of buildings.
+
+(1) In section 55 of the principal Act (meaning of “development”) after subsection (1) there is inserted—
+
+> (1A) For the purposes of this Act “building operations” includes—
+>
+> (a) demolition of buildings;
+>
+> (b) rebuilding;
+>
+> (c) structural alterations of or additions to buildings; and
+>
+> (d) other operations normally undertaken by a person carrying on business as a builder.
+
+(2) In subsection (2) of that section after paragraph (f) there is inserted—
+
+> (g) the demolition of any description of building specified in a direction given by the Secretary of State to local planning authorities generally or to a particular local planning authority.
+
+(3) After section 108(3) of that Act (compensation for refusal or conditional grant of planning permission formerly granted by development order) there is inserted—
+
+> (4) Regulations made by virtue of this subsection may provide that subsection (1) shall not apply where planning permission granted by a development order for demolition of buildings or any description of buildings is withdrawn by the issue of directions under powers conferred by the order.
+
+#### 14 Fish farming.
+
+(1) After section 55(4) of the principal Act (meaning of “development”) there is inserted—
+
+> (4A) Where the placing or assembly of any tank in any part of any inland waters for the purpose of fish farming there would not, apart from this subsection, involve development of the land below, this Act shall have effect as if the tank resulted from carrying out engineering operations over that land; and in this subsection—
+>
+> - “fish farming” means the breeding, rearing or keeping of fish or shellfish (which includes any kind of crustacean and mollusc);
+> - “inland waters” means waters which do not form part of the sea or of any creek, bay or estuary or of any river as far as the tide flows; and
+> - “tank” includes any cage and any other structure for use in fish farming.
+
+(2) This section does not apply to the placing or assembly of any structure before this section comes into force.
+
+#### 15 Assessment of environmental effects.
+
+After section 71 of the principal Act there is inserted—
+
+> **71A Assessment of environmental effects.**
+>
+> (1) The Secretary of State may by regulations make provision about the consideration to be given, before planning permission for development of any class specified in the regulations is granted, to the likely environmental effects of the proposed development.
+>
+> (2) The regulations—
+>
+> (a) may make the same provision as, or provision similar or corresponding to, any provision made, for the purposes of any [[^F2]EU] obligation of the United Kingdom about the assessment of the likely effects of development on the environment, under section 2(2) of the [^M10]European Communities Act 1972; and
+>
+> (b) may make different provision for different classes of development.
+>
+> (3) Where a draft of regulations made in exercise both of the power conferred by this section and the power conferred by section 2(2) of the European Communities Act 1972 is approved by resolution of each House of Parliament, section 333(3) shall not apply.
+
+#### 16 Notice etc. of applications for planning permission.
+
+(1) For sections 65 to 68 of the principal Act (publicity for applications for planning permission) there is substituted—
+
+> **65 Notice etc. of applications for planning permission.**
+>
+> (1) A development order may make provision requiring—
+>
+> (a) notice to be given of any application for planning permission, and
+>
+> (b) any applicant for such permission to issue a certificate as to the interests in the land to which the application relates or the purpose for which it is used,
+>
+> and provide for publicising such applications and for the form, content and service of such notices and certificates.
+>
+> (2) Provision shall be made by a development order for the purpose of securing that, in the case of any application for planning permission, any person (other than the applicant) who on such date as may be prescribed by the order is an owner of the land to which the application relates, or a tenant of any agricultural holding any part of which is comprised in that land, is given notice of the application in such manner as may be required by the order.
+>
+> (3) A development order may require an applicant for planning permission to certify, in such form as may be prescribed by the order, or to provide evidence, that any requirements of the order have been satisfied.
+>
+> (4) A development order making any provision by virtue of this section may make different provision for different cases or different classes of development.
+>
+> (5) A local planning authority shall not entertain an application for planning permission unless any requirements imposed by virtue of this section have been satisfied.
+>
+> (6) If any person—
+>
+> (a) issues a certificate which purports to comply with any requirement imposed by virtue of this section and contains a statement which he knows to be false or misleading in a material particular; or
+>
+> (b) recklessly issues a certificate which purports to comply with any such requirement and contains a statement which is false or misleading in a material particular,
+>
+> he shall be guilty of an offence.
+>
+> (7) A person guilty of an offence under this section shall be liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+>
+> (8) In this section—
+>
+> - “agricultural holding” has the same meaning as in the [^M11]Agricultural Holdings Act 1986; and
+>
+> - “owner” in relation to any land means any person who—
+>
+>   - (a) is the estate owner in respect of the fee simple;
+>   - (b) is entitled to a tenancy granted or extended for a term of years certain of which not less than seven years remain unexpired; or
+>   - (c) in the case of such applications as may be prescribed by a development order, is entitled to an interest in any mineral so prescribed,
+>
+> and the reference to the interests in the land to which an application for planning permission relates includes any interest in any mineral in, on or under the land.
+>
+> (9) Notwithstanding section 127 of the [^M12]Magistrates’ Courts Act 1980, a magistrates’ court may try an information in respect of an offence under this section whenever laid.
+
+(2) For section 71(1) and (2) there is substituted—
+
+> (1) A development order may provide that a local planning authority shall not determine an application for planning permission before the end of such period as may be prescribed.
+>
+> (2) A development order may require a local planning authority—
+>
+> (a) to take into account in determining such an application such representations, made within such period, as may be prescribed; and
+>
+> (b) to give to any person whose representations have been taken into account such notice as may be prescribed of their decision.
+>
+> (2A) A development order making any provision by virtue of this section may make different provision for different cases or different classes of development.
+
+#### 17 Power of local planning authority to decline to determine applications.
+
+(1) After section 70 of the principal Act there is inserted—
+
+> **70A Power of local planning authority to decline to determine applications.**
+>
+> (1) A local planning authority may decline to determine an application for planning permission for the development of any land if—
+>
+> (a) within the period of two years ending with the date on which the application is received, the Secretary of State has refused a similar application referred to him under section 77 or has dismissed an appeal against the refusal of a similar application; and
+>
+> (b) in the opinion of the authority there has been no significant change since the refusal or, as the case may be, dismissal mentioned in paragraph (a) in the development plan, so far as material to the application, or in any other material considerations.
+>
+> (2) For the purposes of this section an application for planning permission for the development of any land shall only be taken to be similar to a later application if the development and the land to which the applications relate are in the opinion of the local planning authority the same or substantially the same.
+>
+> (3) The reference in subsection (1)(a) to an appeal against the refusal of an application includes an appeal under section 78(2) in respect of an application.
+
+(2) In section 78(2) of that Act (right to appeal to Secretary of State where local planning authority have failed to take a decision on an application) for “neither” there is substituted “ done none of the following ” and for “nor” there is substituted—
+
+> (aa) given notice to the applicant that they have exercised their power under section 70A to decline to determine the application;
+
+.
+
+#### 18 Dismissal of appeals in cases of undue delay.
+
+After section 79(6) of the principal Act (determination of appeals) there is inserted—
+
+> (6A) If at any time before or during the determination of such an appeal it appears to the Secretary of State that the appellant is responsible for undue delay in the progress of the appeal, he may—
+>
+> (a) give the appellant notice that the appeal will be dismissed unless the appellant takes, within the period specified in the notice, such steps as are specified in the notice for the expedition of the appeal; and
+>
+> (b) if the appellant fails to take those steps within that period, dismiss the appeal accordingly.
+
+#### 19 Receipt and determination of applications.
+
+(1) After section 74(1) of the principal Act (provisions that may be made by a development order for dealing with applications) there is inserted—
+
+> (1A) Provision may be made by a development order—
+>
+> (a) for determining the persons to whom applications under this Act are to be sent; and
+>
+> (b) for requiring persons to whom such applications are sent to send copies to other interested persons.
+
+(2) In Schedule 1 to that Act (distribution of functions)—
+
+(a) in paragraph 3(2) (functions which appear to the district planning authority to relate to a county matter to be exercised by the county authority) for “appears to the district planning authority to relate” there is substituted “ relates ”,
+
+(b) paragraphs 3(3) to (6) and 4(1) (all applications to be made to district planning authority) are omitted.
+
+### Controls over particular matters
+
+#### 20 Land of interested planning authorities and development by them.
+
+For section 316 of the principal Act (application of certain provisions to local planning authorities) there is substituted—
+
+> **316 Land of interested planning authorities and development by them.**
+>
+> (1) The provisions of Parts III, VII and VIII of this Act shall apply in relation to—
+>
+> (a) land of interested planning authorities; and
+>
+> (b) the development of any land by interested planning authorities or by such authorities jointly with any other persons,
+>
+> subject to regulations made by virtue of this section.
+>
+> (2) The regulations may, in relation to such land or such development—
+>
+> (a) provide for any of those provisions to apply subject to prescribed exceptions or modifications or not to apply;
+>
+> (b) make new provision as to any matter dealt with in any of those provisions;
+>
+> (c) make different provision in relation to different classes of land or development.
+>
+> (3) Without prejudice to subsection (2), the regulations may provide—
+>
+> (a) subject to subsection (5), for applications for planning permission to develop such land, or for such development, to be determined by the authority concerned, by another interested planning authority or by the Secretary of State; and
+>
+> (b) for the procedure to be followed on such applications,
+>
+> and, in the case of applications falling to be determined by an interested planning authority, they may regulate the authority’s arrangements for the discharge of their functions, notwithstanding anything in section 101 of the [^M13]Local Government Act 1972.
+>
+> (4) The regulations shall—
+>
+> (a) provide for section 71(3), and any provision made by virtue of section 65 or 71 by a development order, to apply to applications for planning permission to develop such land, or for such development, subject to prescribed exceptions or modifications, or
+>
+> (b) make corresponding provision.
+>
+> (5) In the case of any application for planning permission to develop land of an interested planning authority where—
+>
+> (a) the authority do not intend to develop the land themselves or jointly with any other person; and
+>
+> (b) if it were not such land, the application would fall to be determined by another body,
+>
+> the regulations shall provide for the application to be determined by that other body, unless the application is referred to the Secretary of State under section 77.
+>
+> (6) In this section “interested planning authority”, in relation to any land, means any body which exercises any of the functions of a local planning authority in relation to that land; and for the purposes of this section land is land of an authority if the authority have any interest in it.
+>
+> (7) This section applies to any consent required in respect of any land as it applies to planning permission to develop land.
+>
+> (8) Subsection (1) does not apply to sections 76, 90(2) and (5) and 223.
+
+#### 21 Mines and waste.
+
+Schedule 1 to this Act (which, among other things, provides for aftercare where permission is given to deposit refuse or waste materials and provides for altering the provisions relating to compensation for restrictions on mineral working and depositing mineral waste) shall have effect.
+
+#### 22 Old mining permissions.
+
+(1) In this section and Schedule 2 to this Act, “old mining permission” means any planning permission for development—
+
+(a) consisting of the winning and working of minerals; or
+
+(b) involving the depositing of mineral waste,
+
+which was deemed to be granted under Part III of the [^M14]Town and Country Planning Act 1947 by virtue of section 77 of that Act (development authorised under interim development orders after 21st July 1943).
+
+(2) An old mining permission shall, if an application under that Schedule to determine the conditions to which the permission is to be subject is finally determined, have effect as from the final determination as if granted on the terms required to be registered.
+
+(3) If no such development has, at any time in the period of two years ending with 1st May 1991, been carried out to any substantial extent anywhere in, on or under the land to which an old mining permission relates, that permission shall not authorise any such development to be carried out at any time after the coming into force of this section unless—
+
+(a) the permission has effect in accordance with subsection (2) above; and
+
+(b) the development is carried out after such an application is finally determined.
+
+(4) An old mining permission shall—
+
+(a) if no application for the registration of the permission is made under that Schedule, cease to have effect on the day following the last date on which such an application may be made; and
+
+(b) if such an application is refused, cease to have effect on the day following the date on which the application is finally determined.
+
+(5) An old mining permission shall, if—
+
+(a) such an application is granted; but
+
+(b) an application under that Schedule to determine the conditions to which the permission is to be subject is required to be served before the end of any period and is not so served,
+
+cease to have effect on the day following the last date on which the application to determine those conditions may be served.
+
+(6) Subject to subsection (3) above, this section—
+
+(a) shall not affect any development carried out under an old mining permission before an application under that Schedule to determine the conditions to which the permission is to be subject is finally determined or, as the case may be, the date on which the permission ceases to have effect; and
+
+(b) shall not affect any order made or having effect as if made under section 102 of or Schedule 9 to the principal Act (discontinuance, etc. orders).
+
+(7) This section and that Schedule, and the principal Act, shall have effect as if the section and Schedule were included in Part III of that Act.
+
+#### 23 Trees.
+
+(1) In section 207 of the principal Act (enforcement of duties as to replacement of trees) for subsections (3) and (4) there is substituted—
+
+> (3) A notice under subsection (1) shall specify a period at the end of which it is to take effect.
+>
+> (4) The specified period shall be a period of not less than twenty-eight days beginning with the date of service of the notice.
+
+(2) In section 208 (appeals against section 207 notices) in subsection (1) after paragraph (a) there is inserted—
+
+> (aa) that in all the circumstances of the case the duty imposed by section 206(1) should be dispensed with in relation to any tree;
+
+.
+
+(3) For subsections (2) and (3) of that section there is substituted—
+
+> (2) An appeal under subsection (1) shall be made either—
+>
+> (a) by giving written notice of the appeal to the Secretary of State before the end of the period specified in accordance with section 207(3); or
+>
+> (b) by sending such notice to him in a properly addressed and pre-paid letter posted to him at such time that, in the ordinary course of post, it would be delivered to him before the end of that period.
+
+(4) For subsections (7) and (8) of that section there is substituted—
+
+> (7) On such an appeal the Secretary of State may—
+>
+> (a) correct any defect, error or misdescription in the notice; or
+>
+> (b) vary any of its requirements,
+>
+> if he is satisfied that the correction or variation will not cause injustice to the appellant or the local planning authority.
+>
+> (8) Where the Secretary of State determines to allow the appeal, he may quash the notice.
+>
+> (8A) The Secretary of State shall give any directions necessary to give effect to his determination on the appeal.
+
+(5) For section 209(6) there is substituted—
+
+> (6) Any person who wilfully obstructs a person acting in the exercise of the power under subsection (1)(a) shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+(6) In section 210 (penalties for non-compliance with tree preservation order)—
+
+[^F3]a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) in subsection (3) “on indictment” is omitted; and
+
+(c) subsection (5) is omitted.
+
+(7) After section 214 there is inserted—
+
+> **Injunctions**
+>
+> **214A Injunctions.**
+>
+> (1) Where a local planning authority consider it necessary or expedient for an actual or apprehended offence under section 210 or 211 to be restrained by injunction, they may apply to the court for an injunction, whether or not they have exercised or are proposing to exercise any of their other powers under this Chapter.
+>
+> (2) Subsections (2) to (4) of section 187B apply to an application under this section as they apply to an application under that section.
+>
+> **Rights of entry**
+>
+> **214B Rights to enter without warrant.**
+>
+> (1) Any person duly authorised in writing by a local planning authority may enter any land for the purpose of—
+>
+> (a) surveying it in connection with making or confirming a tree preservation order with respect to the land;
+>
+> (b) ascertaining whether an offence under section 210 or 211 has been committed on the land; or
+>
+> (c) determining whether a notice under section 207 should be served on the owner of the land,
+>
+> if there are reasonable grounds for entering for the purpose in question.
+>
+> (2) Any person duly authorised in writing by the Secretary of State may enter any land for the purpose of surveying it in connection with making, amending or revoking a tree preservation order with respect to the land, if there are reasonable grounds for entering for that purpose.
+>
+> (3) Any person who is duly authorised in writing by a local planning authority may enter any land in connection with the exercise of any functions conferred on the authority by or under this Chapter.
+>
+> (4) Any person who is an officer of the Valuation Office may enter any land for the purpose of surveying it, or estimating its value, in connection with a claim for compensation in respect of any land which is payable by the local planning authority under this Chapter (other than section 204).
+>
+> (5) Any person who is duly authorised in writing by the Secretary of State may enter any land in connection with the exercise of any functions conferred on the Secretary of State by or under this Chapter.
+>
+> (6) The Secretary of State shall not authorise any person as mentioned in subsection (2) without consulting the local planning authority.
+>
+> (7) Admission shall not be demanded as of right—
+>
+> (a) by virtue of subsection (1) or (2) to any building used as a dwellinghouse; or
+>
+> (b) by virtue of subsection (3), (4) or (5) to any land which is occupied,
+>
+> unless twenty-four hours’ notice of the intended entry has been given to the occupier.
+>
+> (8) Any right to enter by virtue of this section shall be exercised at a reasonable hour.
+>
+> **214C Right to enter under warrant.**
+>
+> (1) If it is shown to the satisfaction of a justice of the peace on sworn information in writing—
+>
+> (a) that there are reasonable grounds for entering any land for any of the purposes mentioned in section 214B(1) or (2); and
+>
+> (b) that—
+>
+> (i) admission to the land has been refused, or a refusal is reasonably apprehended; or
+>
+> (ii) the case is one of urgency,
+>
+> the justice may issue a warrant authorising any person duly authorised in writing by a local planning authority or, as the case may be, the Secretary of State to enter the land.
+>
+> (2) For the purposes of subsection (1)(b)(i) admission to land shall be regarded as having been refused if no reply is received to a request for admission within a reasonable period.
+>
+> (3) A warrant authorises entry on one occasion only and that entry must be—
+>
+> (a) within one month from the date of the issue of the warrant; and
+>
+> (b) at a reasonable hour, unless the case is one of urgency.
+>
+> **214D Rights of entry: supplementary provisions.**
+>
+> (1) Any power conferred under or by virtue of section 214B or 214C to enter land (referred to in this section as “a right of entry”) shall be construed as including power to take samples from any tree and samples of the soil.
+>
+> (2) A person authorised to enter land in the exercise of a right of entry—
+>
+> (a) shall, if so required, produce evidence of his authority and state the purpose of his entry before so entering;
+>
+> (b) may take with him such other persons as may be necessary; and
+>
+> (c) on leaving the land shall, if the owner or occupier is not then present, leave it as effectively secured against trespassers as he found it.
+>
+> (3) Any person who wilfully obstructs a person acting in the exercise of a right of entry shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+>
+> (4) If any damage is caused to land or chattels in the exercise of a right of entry, compensation may be recovered by any person suffering the damage from the authority who gave the written authority for the entry or, as the case may be, the Secretary of State.
+>
+> (5) The provisions of section 118 shall apply in relation to compensation under subsection (4) as they apply in relation to compensation under Part IV.
+
+(8) In section 324 (rights of entry)—
+
+(a) in subsection (1), in paragraph (b) “198 to 200” is omitted;
+
+(b) in paragraph (c) of that subsection for “or Part VIII” there is inserted “ or Chapter 2 or 3 of Part VIII ”;
+
+(c) subsection (2) is omitted; and
+
+(d) in subsection (5) for “Part VIII (other than section 204)” there is substituted “ Chapter 2 or 3 of Part VIII ”.
+
+#### 24 Advertisements.
+
+In section 336(1) of the principal Act (interpretation) in the definition of “advertisement”—
+
+(a) after “notice” there is inserted “ awning, blind ”;
+
+(b) after “used,” there is inserted “ or designed ”; and
+
+(c) after “use” there is inserted “ and anything else principally used, or designed or adapted principally for use, ”.
+
+#### 25 Listed buildings, conservation areas and hazardous substances.
+
+Schedule 3 to this Act (which makes amendments in relation to the enforcement of the enactments about listed buildings, conservation areas and hazardous substances) shall have effect.
+
+### Development plans and simplified planning zones
+
+#### 26 Status of development plans.
+
+At the end of Part II of the principal Act there is inserted—
+
+> **Chapter III — General**
+>
+> **54A Status of development plans.**
+>
+> Where, in making any determination under the planning Acts, regard is to be had to the development plan, the determination shall be made in accordance with the plan unless material considerations indicate otherwise
+
+.
+
+#### 27 Streamlining of development plan system.
+
+Schedule 4 to this Act (which provides for streamlining the development plan system) shall have effect.
+
+#### 28 Simplified planning zones.
+
+Schedule 5 to this Act which—
+
+(a) modifies the procedure for making simplified planning zones, and
+
+(b) makes minor and consequential amendments of Schedule 7 to the principal Act,
+
+shall have effect.
+
+### Miscellaneous
+
+#### 29 Functions of Historic Buildings and Monuments Commission.
+
+(1) In section 33 of the [^M15]National Heritage Act 1983 (general functions of Commission) after subsection (2) there is inserted—
+
+> (2A) In relation to England, the Commission may—
+>
+> (a) prosecute any offence under Part I of the [^M16]Ancient Monuments and Archaeological Areas Act 1979 or under the [^M17]Planning (Listed Buildings and Conservation Areas) Act 1990, or
+>
+> (b) institute in their own name proceedings for an injunction to restrain any contravention of any provision of that Part or of that Act of 1990.
+
+(2) In section 89 of the Planning (Listed Buildings and Conservation Areas) Act 1990 (application of general provisions of principal Act, including power under section 330 to require information) after subsection (2) there is inserted—
+
+> (3) In the application of section 330 by virtue of this section, references to a local authority include the Commission.
+
+#### 30 Orders as to costs where inquiry or hearing does not take place.
+
+(1) After section 322 of the principal Act there is inserted—
+
+> **322A Orders as to costs: supplementary.**
+>
+> (1) This section applies where—
+>
+> (a) for the purposes of any proceedings under this Act—
+>
+> (i) the Secretary of State is required, before a decision is reached, to give any person an opportunity, or ask any person whether he wishes, to appear before and be heard by a person appointed by him; and
+>
+> (ii) arrangements are made for a local inquiry or hearing to be held;
+>
+> (b) the inquiry or hearing does not take place; and
+>
+> (c) if it had taken place, the Secretary of State or a person appointed by him would have had power to make an order under section 250(5) of the [^M18]Local Government Act 1972 requiring any party to pay any costs of any other party.
+>
+> (2) Where this section applies the power to make such an order may be exercised, in relation to costs incurred for the purposes of the inquiry or hearing, as if it had taken place.
+
+(2) In section 89(1) of the Planning (Listed Buildings and Conservation Areas) Act 1990 and section 37(2) of the [^M19] Planning (Hazardous Substances) Act 1990 (application of provisions of the principal Act) before “323” there is inserted “ 322A (orders as to costs: supplementary) ”.
+
+#### 31 Planning compensation repeals.
+
+(1) Part V of the principal Act (compensation for restrictions on new development where land has an unexpended balance of development value) and Schedule 12 to that Act (unexpended balance of development value) are repealed.
+
+(2) Section 114 of that Act (compensation for planning decisions restricting development other than new development) is repealed.
+
+(3) Section 27 of the [^M20]Planning (Listed Buildings and Conservation Areas) Act 1990 (compensation for refusal of consent to alteration, etc. of listed building) is repealed.
+
+(4) Schedule 6 to this Act (compensation repeals: minor and consequential amendments) shall have effect.
+
+(5) Subsection (1) above shall have effect in relation to any compensation under Part V of the principal Act unless a claim for the compensation has been made in accordance with section 127 of that Act before the repeal of that section comes into force.
+
+(6) Any amount recoverable under section 133 of that Act which has not been paid, including any interest on any such amount, shall cease to be recoverable and any mortgage, covenant or other obligation by which the payment of any such amount, or interest on it, is secured is discharged.
+
+(7) The repeal of section 114 of that Act shall have effect, or be treated as having had effect, where the application for planning permission was made on or after 16th November 1990.
+
+(8) The repeal of section 27 of the Planning (Listed Buildings and Conservation Areas) Act 1990 shall have effect, or be treated as having had effect, where the application for listed building consent was made on or after 16th November 1990.
+
+#### 32 Planning: minor and consequential amendments.
+
+Schedule 7 to this Act (which makes minor and consequential amendments of the enactments relating to planning) shall have effect.
+
+## Part II — Town and Country Planning - Scotland
+
+### New enforcement powers
+
+#### [^F4]33 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F5]34 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F6]35 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Other changes relating to enforcement
+
+#### [^F7]36 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F8]37 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F9]38 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F10]39 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F11]40 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F12]41 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F13]42 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F14]43 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Control over development
+
+#### [^F15]44 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F16]45 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F17]46 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F18]47 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F19]48 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F20]49 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F21]50 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Controls over particular matters
+
+#### [^F22]51 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F23]52 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F24]53 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F25]54 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F26]55 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F27]56 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F28]57 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Development plans and simplified planning zones
+
+#### [^F29]58 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F30]59 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Miscellaneous
+
+#### 60 Repeal of certain compensation provisions of the 1972 Act.
+
+[^F31]1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F31]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F31]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F31]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F31]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6) Schedule 12 to this Act shall have effect.
+
+[^F31]7 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F31]8 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 61 Planning: minor and consequential amendments - Scotland.
+
+Schedule 13 to this Act (which makes minor and consequen tial amendments of the enactments relating to planning in Scotland) shall have effect.
+
+## Part III — Land Compensation, etc: England and Wales
+
+### Acquisition of land
+
+#### 62 Powers to acquire land which will be affected by public works.
+
+(1) After section 26(2) of the [^M21]Land Compensation Act 1973 (responsible authority may acquire land by agreement where enjoyment of land affected by public works) there is inserted—
+
+> (2A) Where the responsible authority—
+>
+> (a) propose to carry out works on blighted land for the construction or alteration of any public works, and
+>
+> (b) are, in relation to the land, the appropriate authority,
+>
+> they may, subject to the provisions of this section, acquire by agreement land the enjoyment of which will in their opinion be seriously affected by the carrying out of the works or the use of the public works if the interest of the vendor is a qualifying interest.
+>
+> (2B) In this section—
+>
+> - “qualifying interest” has the meaning given in section 149(2) of the [^M22]Town and Country Planning Act 1990, taking references to the relevant date as references to the date on which the purchase agreement is made, and
+> - “appropriate authority” and “blighted land” have the meanings given respectively in sections 169(1) and 149(1) of that Act.
+
+(2) After section 246(2) of the [^M23]Highways Act 1980 (acquisition of land by agreement where enjoyment of land affected by works) there is inserted—
+
+> (2A) Where the highway authority propose to carry out works on blighted land for the construction or improvement of a highway, they may acquire by agreement land the enjoyment of which will in their opinion be seriously affected by the carrying out of the works or the use of the highway if the interest of the vendor is a qualifying interest.
+>
+> (2B) In this section—
+>
+> - “qualifying interest” has the meaning given in section 149(2) of the Town and Country Planning Act 1990, taking references to the relevant date as references to the date on which the purchase agreement is made, and
+> - “blighted land” has the meaning given in section 149(1) of that Act.
+
+#### 63 Advance payments of compensation and interest.
+
+(1) In section 52 of the [^M24]Land Compensation Act 1973 (right to advance payment of compensation) for subsection (5) there is substituted—
+
+> (4A) Where, at any time after an advance payment has been made on the basis of the acquiring authority’s estimate of the compensation, it appears to the acquiring authority that their estimate was too low, they shall, if a request in that behalf is made in accordance with subsection (2) above, pay to the claimant the balance of the amount of the advance payment calculated as at that time.
+>
+> (5) Where the amount, or aggregate amount, of any payment under this section made on the basis of the acquiring authority’s estimate of the compensation exceeds the compensation as finally determined or agreed, the excess shall be repaid; and if after any payment under this section has been made to any person it is discovered that he was not entitled to it, the amount of the payment shall be recoverable by the acquiring authority.
+
+(2) After that section there is inserted—
+
+> **52A Right to interest where advance payment made.**
+>
+> (1) This section applies where the compensation to be paid by the acquiring authority for the compulsory acquisition of any interest in land would (apart from this section) carry interest under section 11(1) of the [^M25]Compulsory Purchase Act 1965 or any bond under Schedule 3 to that Act or section 85 of the [^M26]Lands Clauses Consolidation Act 1845.
+>
+> (2) If the authority make a payment under section 52(1) above to any person on account of the compensation—
+>
+> (a) they shall at the same time make a payment to that person of accrued interest, for the period beginning with the date of entry, on the amount by reference to which the payment under section 52(1) above was calculated; and
+>
+> (b) the difference between the amount of the payment under section 52(1) above and the amount by reference to which it was calculated is an unpaid balance for the purposes of this section.
+>
+> (3) If the authority make a payment under section 52(4A) above to any person on account of the compensation, they shall at the same time make a payment to him of accrued interest, for the period beginning with the date of entry, on—
+>
+> (a) the amount by reference to which the payment under section 52(4A) above was calculated; less
+>
+> (b) the amount by reference to which the preceding payment under section 52(1) or (4A) above was calculated.
+>
+> (4) Where the authority make a payment under section 52(4A) above on account of the compensation, the difference between—
+>
+> (a) the amount of the payment; and
+>
+> (b) the amount by reference to which it was calculated less the amount by reference to which the preceding payment under section 52(1) or (4A) above was calculated,
+>
+> is an unpaid balance for the purposes of this section.
+>
+> (5) If, on an anniversary of the date on which the authority made a payment to any person under section 52(1) above on account of the compensation—
+>
+> (a) the amount of accrued interest on the unpaid balance under subsection (2) above or, as the case may be,
+>
+> (b) the aggregate amount of the accrued interest on any unpaid balances,
+>
+> exceeds £1,000, the authority shall make a payment to the claimant of the amount or aggregate amount.
+>
+> (6) The acquiring authority shall, on paying the outstanding compensation, pay the amount of the accrued interest on the unpaid balance under subsection (2) above or, as the case may be, the aggregate amount of the accrued interest on any unpaid balances.
+>
+> (7) For the purposes of subsections (5) and (6) above, interest accrues on any unpaid balance for the period beginning with—
+>
+> (a) the making of the payment under section 52(1) or, as the case may be, 52(4A) above; or
+>
+> (b) if any payment has already been made in respect of that balance under subsection (5) above, the date of the preceding payment under that subsection.
+>
+> (8) For the purposes of this section—
+>
+> (a) interest accrues at the rate prescribed under section 32 of the [^M27]Land Compensation Act 1961 or, in the case of a bond under section 85 of the [^M28]Lands Clauses Consolidation Act 1845, at the rate specified in section 85; and
+>
+> (b) the amount by reference to which a payment under section 52(1) or (4A) was calculated is the amount referred to in section 52(3)(a) or (b) for the purposes of that calculation.
+>
+> (9) Where any payment has been made under section 52(1) above on account of any compensation, the acquiring authority is not required to pay interest under section 11(1) of the [^M29]Compulsory Purchase Act 1965 or any bond under Schedule 3 to that Act or under section 85 of the Lands Clauses Consolidation Act 1845.
+>
+> (10) Where the amount, or aggregate amount, of any payment under section 52 above made on the basis of the acquiring authority’s estimate of the compensation is greater than the compensation as finally determined or agreed and, accordingly, the interest paid under this section is excessive, the excess shall be repaid.
+>
+> (11) If after any interest has been paid to any person under this section on any amount it is discovered that he was not entitled to the amount, the interest shall be recoverable by the acquiring authority.
+>
+> (12) The Secretary of State may from time to time by order substitute another sum for the sum specified in subsection (5) above; and the power to make orders under this subsection shall be exercisable by statutory instrument which shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+#### [^F32]64 Planning assumptions in connection with highway schemes.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F32]65 Certification of appropriate alternative development.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F33]66 Compensation where permission for additional development granted after acquisition.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 67 Time limit on validity of notice to treat.
+
+In section 5 of the [^M30]Compulsory Purchase Act 1965 (notice to treat) after subsection (2) there is inserted—
+
+> (2A) A notice to treat shall cease to have effect at the end of the period of three years beginning with the date on which it is served unless—
+>
+> (a) the compensation has been agreed or awarded or has been paid or paid into court,
+>
+> (b) a general vesting declaration has been executed under section 4 of the [^M31]Compulsory Purchase (Vesting Declarations) Act 1981,
+>
+> (c) the acquiring authority have entered on and taken possession of the land specified in the notice, or
+>
+> (d) the question of compensation has been referred to the Lands Tribunal.
+>
+> (2B) If the person interested in the land, or having power to sell and convey or release it, and the acquiring authority agree to extend the period referred to in subsection (2A) of this section, the notice to treat shall cease to have effect at the end of the period as extended unless—
+>
+> (a) any of the events referred to in that subsection have then taken place, or
+>
+> (b) the parties have agreed to a further extension of the period (in which case this subsection shall apply again at the end of the period as further extended, and so on).
+>
+> (2C) Where a notice to treat ceases to have effect by virtue of subsection (2A) or (2B) of this section, the acquiring authority—
+>
+> (a) shall immediately give notice of that fact to the person on whom the notice was served and any other person who, since it was served, could have made an agreement under subsection (2B) of this section, and
+>
+> (b) shall be liable to pay compensation to any person entitled to such a notice for any loss or expenses occasioned to him by the giving of the notice and its ceasing to have effect.
+>
+> (2D) The amount of any compensation payable under subsection (2C) shall, in default of agreement, be determined by the Lands Tribunal.
+>
+> (2E) Compensation payable to any person under subsection (2C) shall carry interest at the rate prescribed under section 32 of the [^M32]Land Compensation Act 1961 from the date on which he was entitled to to be given notice under that subsection until payment.
+
+### Home loss payments
+
+#### 68 Home loss payments.
+
+(1) For section 29(2) of the [^M33]Land Compensation Act 1973 (home loss payment where person displaced from dwelling: period and nature of occupation) there is substituted—
+
+> (2) A person shall not be entitled to a home loss payment unless the following conditions have been satisfied throughout the period of one year ending with the date of displacement—
+>
+> (a) he has been in occupation of the dwelling, or a substantial part of it, as his only or main residence; and
+>
+> (b) he has been in such occupation by virtue of an interest or right to which this section applies,
+>
+> but, if those conditions are satisfied on the date of displacement, a payment (referred to in this section and sections 32 and 33 below as a “discretionary payment”) may be made to him of an amount not exceeding the amount to which he would have been entitled if he had satisfied those conditions throughout that period.
+
+(2) Subsection (5) of that section (no payments where acquisition is in pursuance of blight notice) is omitted.
+
+(3) For section 30 of that Act (amount of home loss payment in England and Wales) there is substituted—
+
+> **30 Amount of home loss payment in England and Wales.**
+>
+> (1) In the case of a person who on the date of displacement is occupying, or is treated for the purposes of section 29 above as occupying, the dwelling by virtue of an interest in it which is an owner’s interest, the amount of the home loss payment shall be 10 per cent. of the market value of his interest in the dwelling or, as the case may be, the interest in the dwelling vested in trustees, subject to a maximum of £15,000 and a minimum of £1,500.
+>
+> (2) In any other case, the amount of the home loss payment shall be £1,500.
+>
+> (3) For the purposes of this section and section 32 below the market value of an interest in a dwelling—
+>
+> (a) in a case where the interest is compulsorily acquired, is the amount assessed for the purposes of the acquisition as the value of the interest; and
+>
+> (b) in any other case, is the amount which, if the interest were being compulsorily acquired in pursuance of a notice to treat served on the date of displacement, would be assessed for the purposes of the acquisition as the value of the interest,
+>
+> and any dispute as to the amount referred to in paragraph (b) above shall be determined by the Lands Tribunal.
+>
+> (4) In determining for the purposes of this section and section 32 below the market value of an interest in a dwelling, the dwelling shall be taken to include any garden, yard, outhouses and appurtenances belonging to or usually enjoyed with that dwelling.
+>
+> (5) The Secretary of State may from time to time by regulations prescribe a different maximum or minimum for the purposes of subsection (1) above and a different amount for the purposes of subsection (2) above.
+>
+> (6) The power to make regulations under subsection (5) above shall be exercisable by statutory instrument which shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+>
+> (7) In this section “owner’s interest” means the interest of a person who is an owner as defined in section 7 of the [^M34]Acquisition of Land Act 1981.
+
+(4) For section 32(1) to (3) of that Act (supplementary provisions about home loss payments) there is substituted—
+
+> (1) No home loss payment or discretionary payment shall be made except on a claim in writing made by the claimant giving such particulars as the authority responsible for making the payment may reasonably require for the purpose of determining whether the payment should be made and, if so, its amount.
+>
+> (2) Where a person is entitled to a home loss payment, the payment shall be made on or before the latest of the following dates—
+>
+> (a) the date of displacement;
+>
+> (b) the last day of the period of three months beginning with the making of the claim; and
+>
+> (c) where the amount of the payment is to be determined in accordance with section 30(1) above, the day on which the market value of the interest in question is agreed or finally determined.
+>
+> (2A) Where the amount of the payment is to be determined in accordance with section 30(1) above—
+>
+> (a) the acquiring authority may at any time make a payment in advance; and
+>
+> (b) if, on the later of the dates referred to in subsection (2)(a) and (b) above, the market value of the interest in question has not been agreed or finally determined, the acquiring authority shall make a payment in advance (where they have not already done so).
+>
+> (2B) The amount of the payment in advance shall be the lesser of—
+>
+> (a) the maximum amount for the purposes of section 30(1) above,
+>
+> (b) 10 per cent. of the amount agreed to be the market value of the interest in question or, if there is no such agreement, 10 per cent. of the acquiring authority’s estimate of that amount.
+>
+> (2C) Where the amount of a payment in advance differs from the amount of the home loss payment, the shortfall or excess shall be paid by or, as the case may be, repaid to the acquiring authority when the market value of the interest in question is agreed or finally determined.
+>
+> (3) Where the claimant has satisfied, throughout any period, the conditions mentioned in section 29(2) above, that period shall be treated for the purposes of that subsection as including any immediately preceding period throughout which—
+>
+> (a) he has resided in the dwelling as his only or main residence but without satisfying those conditions, and
+>
+> (b) another person or other persons have satisfied those conditions,
+>
+> and references in this subsection and subsection (3A) below to a dwelling include a reference to a substantial part of it.
+>
+> (3A) Where the claimant has satisfied, throughout any period, the conditions mentioned in section 29(2) above, that period (or that period as extended under subsection (3) above) shall be treated for the purposes of section 29(2) above as including any immediately preceding period, or successive periods, throughout which he satisfied the conditions mentioned in section 29(2) above in relation to another dwelling or, as the case may be, other dwellings (applying subsection (3) above to determine the length of any period or periods).
+
+(5) In section 32(4) of that Act for “five years” there is substituted “ one year ”.
+
+(6) In section 32(5) of that Act, for “(3) and (4)” there is substituted “ (3) to (4) ”.
+
+(7) In section 32(7) and (7B) of that Act, after “home loss payment” (in both places) there is inserted “ or discretionary payment ” and after “required” (in both places) there is inserted “ or authorised ”.
+
+(8) In section 33 of that Act (caravan dwellers)—
+
+(a) in subsection (2) after “home loss payment” there is inserted “ or discretionary payment ”,
+
+(b) in subsection (3), for the words following “substituted” (in the second place) there is substituted—
+
+> (a) he has been in occupation of the caravan site by using a caravan stationed on it as his only or main residence; and
+>
+> (b) he has been in such occupation of the site by virtue of an interest or right to which this section applies.
+
+(c) for subsection (4) there is substituted—
+
+> (4) Section 30 above shall have effect as if the references to a person occupying a dwelling by virtue of an interest in it and to his interest in the dwelling were to a person occupying a caravan site by virtue of an interest in it and to that interest.
+
+,
+
+(d) in subsection (5), for paragraph (a) there is substituted—
+
+> (a) as if in subsections (3) and (3A) the references to a dwelling were to a caravan site;
+
+,and in paragraph (c) for “(3) and (4)” there is substituted “ (3) to (4) ”.
+
+(9) This section shall have effect in relation to displacements occurring on or after 16th November 1990 but, in the case of claims made before the date on which this section comes into force, no amount is required or authorised to be paid by virtue only of this section before the expiry of the period of one month beginning with the date on which this section comes into force.
+
+#### 69 Home loss payments: spouses having statutory rights of occupation.
+
+After section 29 of the [^M35]Land Compensation Act 1973 there is inserted—
+
+> **29A Spouses having statutory rights of occupation.**
+>
+> (1) This section applies where, by reason of the entitlement of one spouse (“A”) to occupy a dwelling by virtue of an interest or right to which section 29 above applies, the other spouse (“B”) acquires rights of occupation (within the meaning of the [^M36]Matrimonial Homes Act 1983).
+>
+> (2) So long as—
+>
+> (a) those rights of occupation continue,
+>
+> (b) B is in occupation of the dwelling and A is not, and
+>
+> (c) B is not, apart from this section, treated as occupying the dwelling by virtue of an interest or right to which that section applies,
+>
+> B shall be treated for the purposes of that section as occupying the dwelling by virtue of such an interest (but not an owner’s interest within the meaning of section 30 below).
+>
+> (3) References in this section to a dwelling include a reference to a substantial part of it.
+
+### General
+
+#### 70 Further amendments relating to land compensation.
+
+Schedule 15 to this Act, of which—
+
+(a) Part I contains miscellaneous amendments, and
+
+(b) Part II contains minor and consequential amendments,
+
+relating to land compensation, shall have effect.
+
+## Part IV — Land Compensation - Scotland
+
+### 71 Home loss payments.
+
+(1) For section 27(2) of the [^M37]Land Compensation (Scotland) Act 1973 (home loss payment where person displaced from dwelling) there is substituted—
+
+> (2) A person shall not be entitled to a home loss payment unless the following conditions have been satisfied throughout the period of one year ending with the date of displacement—
+>
+> (a) he has been in occupation of the dwelling, or a substantial part of it, as his only or main residence; and
+>
+> (b) he has been in such occupation by virtue of an interest or right to which this section applies,
+>
+> but, if those conditions are satisfied on the date of displacement, a payment (referred to in this section and sections 29 and 30 below as a “discretionary payment”) may be made to him of an amount not exceeding the amount to which he would have been entitled if he had satisfied those conditions throughout that period.
+
+(2) Subsection (5) of that section (no payments where acquisition is in pursuance of blight notice) is omitted.
+
+(3) For section 28 of that Act (amount of home loss payment) there is substituted—
+
+> **28 Amount of home loss payment.**
+>
+> (1) In the case of a person who on the date of displacement is occupying, or is treated for the purposes of section 27 above as occupying, the dwelling by virtue of an interest in it which is an owner’s interest, the amount of the home loss payment shall be 10 per cent. of the market value of his interest in the dwelling or, as the case may be, the interest in the dwelling vested in trustees, subject to a maximum of £15,000 and a minimum of £1,500.
+>
+> (2) In any other case, the amount of the home loss payment shall be £1,500.
+>
+> (3) For the purposes of this section and section 29 below the market value of an interest in a dwelling—
+>
+> (a) in a case where the interest is compulsorily acquired, is the amount assessed for the purposes of the acquisition as the value of the interest; and
+>
+> (b) in any other case, is the amount which, if the interest were being compulsorily acquired in pursuance of a notice to treat served on the date of displacement, would be assessed for the purposes of the acquisition as the value of the interest,
+>
+> and any dispute as to the amount referred to in paragraph (b) above shall be determined by the Lands Tribunal.
+>
+> (4) In determining for the purposes of this section and section 29 below the market value of an interest in a dwelling, the dwelling shall be taken to include any garden, yard, outhouses and appurtenances belonging to or usually enjoyed with that dwelling.
+>
+> (5) The Secretary of State may from time to time by regulations prescribe a different maximum or minimum for the purposes of subsection (1) above and a different amount for the purposes of subsection (2) above.
+>
+> (6) The power to make regulations under subsection (5) above shall be exercisable by statutory instrument which shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+>
+> (7) In this section “owner’s interest” means the interest of a person who is an owner as defined in section 45(1) of the [^M38]Land Compensation (Scotland) Act 1963.
+
+(4) For section 29(1) to (3) of that Act (supplementary provisions about home loss payments) there is substituted—
+
+> (1) No home loss payment or discretionary payment shall be made except on a claim in writing made by the person entitled thereto (“the claimant”) giving such particulars as the authority responsible for making the payment may reasonably require for the purpose of determining whether the payment should be made and, if so, its amount.
+>
+> (2) Where a person is entitled to a home loss payment, the payment shall be made on or before the latest of the following dates—
+>
+> (a) the date of displacement;
+>
+> (b) the last day of the period of three months beginning with the making of the claim; and
+>
+> (c) where the amount of the payment is to be determined in accordance with section 28(1) above, the day on which the market value of the interest in question is agreed or finally determined.
+>
+> (2A) Where the amount of the payment is to be determined in accordance with section 28(1) above—
+>
+> (a) the acquiring authority may at any time make a payment in advance; and
+>
+> (b) if, on the later of the dates referred to in subsection (2)(a) and (b) above, the market value of the interest in question has not been agreed or finally determined, the acquiring authority shall make a payment in advance (where they have not already done so).
+>
+> (2B) The amount of the payment in advance shall be the lesser of—
+>
+> (a) the maximum amount for the purposes of section 28(1) above,
+>
+> (b) 10 per cent. of the amount agreed to be the market value of the interest in question or, if there is no such agreement, 10 per cent. of the acquiring authority’s estimate of that amount.
+>
+> (2C) Where the amount of a payment in advance differs from the amount of the home loss payment, the shortfall or excess shall be paid by or, as the case may be, repaid to the acquiring authority when the market value of the interest in question is agreed or finally determined.
+>
+> (3) Where the claimant has satisfied, throughout any period, the conditions mentioned in section 27(2) above, that period shall be treated for the purposes of that subsection as including any immediately preceding period throughout which—
+>
+> (a) he has resided in the dwelling as his only or main residence but without satisfying those conditions, and
+>
+> (b) another person or other persons have satisfied those conditions,
+>
+> and references in this subsection and subsection (3A) below to a dwelling include a reference to a substantial part of it.
+>
+> (3A) Where the claimant has satisfied, throughout any period, the conditions mentioned in section 27(2) above, that period (or that period as extended under subsection (3) above) shall be treated for the purposes of section 27(2) above as including any immediately preceding period, or successive periods, throughout which he satisfied the conditions mentioned in section 27(2) above in relation to another dwelling or, as the case may be, other dwellings (applying subsection (3) above to determine the length of any period or periods).
+
+(5) In section 29(4) of that Act, for “five years” there is substituted “ one year ”.
+
+(6) In section 29(5) of that Act, for “(3) and (4)” there is substituted “ (3) to (4) ”.
+
+(7) In section 29(7) and (7AA), after “home loss payment” (in both places) there is inserted “ or discretionary payment ” and after “required” (in both places) there is inserted “ or authorised ”.
+
+(8) In section 30 of that Act (caravan dwellers)—
+
+(a) in subsection (2) after “home loss payment” there is inserted “ or discretionary payment ”,
+
+(b) in subsection (3), for the words following “substituted” (in the second place) there is substituted—
+
+> (a) he has been in occupation of the caravan site by using a caravan stationed on it as his only or main residence; and
+>
+> (b) he has been in such occupation of the site by virtue of an interest or right to which this section applies
+
+,
+
+(c) for subsection (4) there is substituted—
+
+> (4) Section 28 above shall have effect as if the references to a person occupying a dwelling by virtue of an interest in it and to his interest in the dwelling were to a person occupying a caravan site by virtue of an interest in it and to that interest.
+
+,
+
+(d) in subsection (5), for paragraph (a) there is substituted—
+
+> (a) as if in subsections (3) and (3A) the references to a dwelling were to a caravan site;
+
+,and in paragraph (c) for “(3) and (4)” there is substituted “ (3) to (4) ”.
+
+(9) This section shall have effect in relation to displacements occurring on or after 16th November 1990 but, in the case of claims made before the date on which this section comes into force, no amount is required or authorised to be paid by virtue only of this section before the expiry of the period of one month beginning with the date on which this section comes into force.
+
+### 72 Home loss payments: spouses having statutory occupancy rights.
+
+After section 27 of the [^M39]Land Compensation (Scotland) Act 1973 there is inserted—
+
+> **27A Spouses having statutory occupancy rights.**
+>
+> (1) This section applies where, by reason of the entitlement of one spouse (“A”) to occupy a dwelling by virtue of an interest or right to which section 27 above applies, the other spouse (“B”) acquires occupancy rights (within the meaning of the [^M40]Matrimonial Homes (Family Protection) (Scotland) Act 1981).
+>
+> (2) So long as—
+>
+> (a) those occupancy rights continue;
+>
+> (b) B is in occupation of the dwelling and A is not; and
+>
+> (c) B is not, apart from this section, treated as occupying the dwelling by virtue of an interest or right to which that section applies,
+>
+> B shall be treated for the purposes of that section as occupying the dwelling by virtue of such an interest (but not an owner’s interest within the meaning of section 28 below).
+>
+> (3) References in this section to a dwelling include a reference to a substantial part of it.
+
+### 73 Advance payments of compensation and interest.
+
+(1) In section 48 of the [^M41]Land Compensation (Scotland) Act 1973 (right to advance payment of compensation) for subsection (5) there is substituted—
+
+> (4A) Where, at any time after an advance payment has been made on the basis of the acquiring authority’s estimate of the compensation, it appears to the acquiring authority that their estimate was too low, they shall, if a request in that behalf is made in accordance with subsection (2) above, pay to the claimant the balance of the amount of the advance payment calculated as at that time.
+>
+> (5) Where the amount, or aggregate amount, of any payment under this section made on the basis of the acquiring authority’s estimate of the compensation exceeds the compensation as finally determined or agreed, the excess shall be repaid; and if after any payment under this section has been made to any person it is discovered that he was not entitled to it, the amount of the payment shall be recoverable by the acquiring authority
+
+.
+
+(2) After that section there is inserted—
+
+> **48A Right to interest where advance payment made.**
+>
+> (1) This section applies where the compensation to be paid by the acquiring authority for the compulsory acquisition of any interest in land would (apart from this section) carry interest under paragraph 3(1) of the second Schedule to the [^M42]Acquisition of Land (Authorisation Procedures) (Scotland) Act 1947 or any bond under section 84 (promoters to be allowed to enter on lands before purchase on giving bond etc.) of the [^M43]Lands Clauses Consolidation (Scotland) Act 1845.
+>
+> (2) If the authority make a payment under section 48(1) above to any person on account of the compensation—
+>
+> (a) they shall at the same time make a payment to that person of accrued interest, for the period beginning with the date of entry, on the amount by reference to which the payment under section 48(1) above was calculated; and
+>
+> (b) the difference between the amount of the payment under section 48(1) above and the amount by reference to which it was calculated is an unpaid balance for the purposes of this section.
+>
+> (3) If the authority make a payment under section 48(4A) above to any person on account of the compensation, they shall at the same time make a payment to him of accrued interest, for the period beginning with the date of entry, on—
+>
+> (a) the amount by reference to which the payment under section 48(4A) above was calculated; less
+>
+> (b) the amount by reference to which the preceding payment under section 48(1) or (4A) above was calculated.
+>
+> (4) Where the authority make a payment under section 48(4A) above on account of the compensation, the difference between—
+>
+> (a) the amount of the payment; and
+>
+> (b) the amount by reference to which it was calculated less the amount by reference to which the preceding payment under section 48(1) or (4A) above was calculated,
+>
+> is an unpaid balance for the purposes of this section.
+>
+> (5) If, on an anniversary of the date on which the authority made a payment to any person under section 48(1) above on account of the compensation—
+>
+> (a) the amount of accrued interest on the unpaid balance under subsection (2) above or, as the case may be,
+>
+> (b) the aggregate amount of the accrued interest on any unpaid balances,
+>
+> exceeds £1,000, the authority shall make a payment to the claimant of the amount or aggregate amount.
+>
+> (6) The acquiring authority shall, on paying the compensation, pay the amount of the accrued interest on the unpaid balance under subsection (2) above or, as the case may be, the aggregate amount of the accrued interest on any unpaid balances.
+>
+> (7) For the purposes of subsections (5) and (6) above, interest accrues on any unpaid balance for the period beginning with—
+>
+> (a) the making of the payment under section 48(1) or, as the case may be, 48(4A) above; or
+>
+> (b) if any payment has already been made in respect of that balance under subsection (5) above, the date of the preceding payment under that subsection.
+>
+> (8) For the purposes of this section—
+>
+> (a) interest accrues at the rate prescribed under section 40 of the [^M44]Land Compensation (Scotland) Act 1963 or, in the case of a bond under section 84 of the [^M45]Lands Clauses Consolidation (Scotland) Act 1845, at the rate specified in that section; and
+>
+> (b) the amount by reference to which a payment under section 48(1) or (4A) was calculated is the amount referred to in section 48(3)(a) or (b) for the purposes of that calculation.
+>
+> (9) Where any payment has been made under section 48(1) above on account of any compensation, the acquiring authority is not required to pay interest under paragraph 3(1) of the second Schedule to the [^M46]Acquisition of Land (Authorisation Procedure) (Scotland) Act 1947 or any bond under section 84 (promoters to be allowed to enter on lands before purchase on giving bond etc.) of the [^M47]Lands Clauses Consolidation (Scotland) Act 1845.
+>
+> (10) Where the amount, or aggregate amount, of any payment under section 48 above made on the basis of the acquiring authority’s estimate of the compensation is greater than the compensation as finally determined or agreed and, accordingly, the interest paid under this section is excessive, the excess shall be repaid.
+>
+> (11) If after any interest has been paid to any person under this section on any amount it is discovered that he was not entitled to the amount, the interest shall be recoverable by the acquiring authority.
+>
+> (12) The Secretary of State may by order increase the sum specified in subsection (5) above; and the power to make orders under this subsection shall be exercisable by statutory instrument which shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+### 74 Planning assumptions in connection with acquisition of land by roads authorities.
+
+At the end of section 22 (assumptions as to planning permission) of the [^M48]Land Compensation (Scotland) Act 1963 there is added—
+
+> (5) If, in a case where—
+>
+> (a) the relevant land is to be acquired for use for, or in connection with, providing, altering or improving a public road; or
+>
+> (b) that use, or its use in that connection, is being considered by the roads authority,
+>
+> a determination mentioned in subsection (7) of this section falls to be made, that determination shall be made on the following assumption.
+>
+> (6) The assumption is that, if the relevant land were not so used, no public road would be provided, altered or improved to meet the same or substantially the same need as would have been met by the provision, alteration or improvement of the public road referred to in paragraph (a) or (b) of subsection (5) of this section.
+>
+> (7) The determinations referred to in subsection (5) of this section are—
+>
+> (a) a determination, for the purpose of assessing compensation in respect of any compulsory acquisition, whether planning permission might reasonably have been expected to be granted for any development if no part of the relevant land were proposed to be acquired by any authority possessing compulsory purchase powers, and
+>
+> (b) a determination under section 25 of this Act as to the development for which, in the opinion of the planning authority, planning permission would or would not have been granted if no part of the relevant land were proposed to be acquired by any authority possessing compulsory purchase powers .
+
+### 75 Certification of appropriate alternative development.
+
+(1) For section 25(1) of the [^M49]Land Compensation (Scotland) Act 1963 (certificate of appropriate alternative development may be issued only if land is not in an area defined in development plan as an area of comprehensive development or shown in the plan as allocated for residential, commercial or industrial use) there is substituted—
+
+> (1) Where an interest in land is proposed to be acquired by an authority possessing compulsory purchase powers, either of the parties directly concerned may, subject to subsection (2) of this section, apply to the planning authority for a certificate under this section
+
+.
+
+(2) In subsection (4) of that section (certificate stating that permission for development would or would not be granted) for paragraphs (a) and (b) there is substituted—
+
+> (a) planning permission would have been granted for development of one or more classes specified in the certificate (whether specified in the application or not) and for any development for which the land is to be acquired, but would not have been granted for any other development; or
+>
+> (b) planning permission would have been granted for any development for which the land is to be acquired, but would not have been granted for any other development,
+>
+> and for the purposes of this subsection development is development for which the land is to be acquired if the land is to be acquired for purposes which involve the carrying out of proposals of the acquiring authority for that development.
+
+(3) After subsection (9) of that section there is inserted—
+
+> (9A) In assessing the compensation payable to any person in respect of any compulsory acquisition, there shall be taken into account any expenses reasonably incurred by him in connection with the issue of a certificate under this section (including expenses incurred in connection with an appeal under section 26 of this Act where any of the issues on the appeal are determined in his favour)
+
+.
+
+### 76 Powers to acquire land whose enjoyment will be affected by public works.
+
+(1) After section 24(2) of the [^M50]Land Compensation (Scotland) Act 1973 (acquisition of land in connection with public works) there is inserted—
+
+> (2A) Where the responsible authority—
+>
+> (a) propose to carry out works on land to which this subsection applies for the construction or alteration of any public works, and
+>
+> (b) are, in relation to the land, the appropriate authority,
+>
+> they may, subject to the provisions of this section, acquire by agreement land the enjoyment of which will in their opinion be seriously affected by the carrying out of the works or the use of the public works if the interest of the seller is an interest such as is mentioned in subsection (3) to (5) of section 181 (interests qualifying for protection under blight provisions) of the [^M51]Town and Country Planning (Scotland) Act 1972.
+>
+> (2B) Subsection (2A) above applies to any land such as is mentioned in subsection (1) of the said section 181.
+>
+> (2C) In this section—
+>
+> “appropriate authority” has the meaning given in section 194(1) of the said Act.
+
+.
+
+(2) After section 106(2) of the [^M52]Roads (Scotland) Act 1984 (acquisition of land for mitigating adverse effects of construction of road) there is inserted—
+
+> (2A) Where the roads authority propose to carry out works on land to which this subsection applies for the construction or improvement of a road, they may acquire by agreement land the enjoyment of which will in their opinion be seriously affected by the carrying out of the works or the use of the road if the interest of the seller is an interest such as is mentioned in subsections (3) to (5) of section 181 (interests qualifying for protection under blight provisions) of the [^M53]Town and Country Planning (Scotland) Act 1972.
+>
+> (2B) Subsection (2A) above applies to any land such as is mentioned in subsection (1) of the said section 181.
+
+### 77 Compensation where permission for additional development granted after acquisition.
+
+(1) Schedule 16 to this Act (which revives Part V of the [^M54]Land Compensation (Scotland) Act 1963) shall have effect.
+
+(2) This section applies to an acquisition or sale of an interest in land if the date of completion (within the meaning of that Part) falls on or after the day on which this section comes into force.
+
+### 78 Time limit on validity of notice to treat.
+
+(1) A notice to treat under section 17 of the [^M55]Lands Clauses Consolidation (Scotland) Act 1845 shall, for the purposes of any compulsory purchase to which the provisions of the first Schedule to the [^M56]Acquisition of Land (Authorisation Procedure) (Scotland) Act 1947 apply, cease to have effect at the end of the period of three years beginning with the date on which it is served unless—
+
+(a) the compensation has been agreed or awarded or has been paid or paid into a bank;
+
+(b) a general vesting declaration has been executed under paragraph 1 of [[^F34]Schedule 15 to the Town and Country Planning (Scotland) Act 1997];
+
+(c) the acquiring authority have entered on and taken possession of the land specified in the notice; or
+
+(d) the question of compensation has been referred to the Lands Tribunal for Scotland.
+
+(2) If the person interested in the land, or having power to sell and convey it, and the acquiring authority agree to extend the period referred to in subsection (1) of this section, the notice to treat shall cease to have effect at the end of the period as extended unless—
+
+(a) any of the events referred to in that subsection have then taken place; or
+
+(b) the parties have agreed to a further extension of the period (in which case this subsection shall apply again at the end of the period as further extended, and so on).
+
+(3) Where a notice to treat ceases to have effect by virtue of subsection (1) or (2) of this section, the acquiring authority—
+
+(a) shall immediately give notice of that fact to the person on whom the notice was served and any other person who, since it was served, could have made an agreement under subsection (2) of this section, and
+
+(b) shall be liable to pay compensation to any person entitled to such a notice for any loss or expenses occasioned to him by the giving of the notice and its ceasing to have effect.
+
+(4) The amount of any compensation payable under subsection (3) of this section shall, in default of agreement, be determined by the Lands Tribunal for Scotland.
+
+(5) Compensation payable to any person under subsection (3) of this section shall carry interest at the rate prescribed under section 40 (rate of interest after entry on land) of the [^M57]Land Compensation (Scotland) Act 1963 from the date on which he was entitled to be given notice under that subsection until payment.
+
+### 79 Further amendments relating to land compensation in Scotland.
+
+Schedule 17 to this Act—
+
+(a) Part I of which contains miscellaneous amendments; and
+
+(b) Part II of which contains minor and consequential amendments,
+
+relating to land compensation in Scotland shall have effect.
+
+## Part V — Miscellaneous and General
+
+### 80 Interest on compensation and payments on account.
+
+(1) Compensation payable under any provision mentioned in column 1 of an entry in Part I of Schedule 18 to this Act shall carry interest at the rate for the time being prescribed under section 32 of the [^M58]Land Compensation Act 1961 or, in relation to Scotland, section 40 of the Land Compensation (Scotland) Act 1963 from the date shown against that provision in column 2 of the entry until payment.
+
+(2) If it appears to any person that he may become liable to pay to another—
+
+(a) compensation under any provision mentioned in Schedule 18 to this Act, or
+
+(b) interest under subsection (1) above, under any provision mentioned in Part II of Schedule 18 to this Act or under any bond under section 85 of the [^M59]Lands Clauses Consolidation Act 1845 or [^F35]...,
+
+he may, if the other person requests him in writing to do so, make one or more payments on account of such compensation or interest.
+
+(3) If after a payment has been made by any person under subsection (2) above—
+
+(a) it is agreed or determined that he is not liable to pay the compensation or interest, or
+
+(b) by reason of any agreement or determination, any payment under that subsection is shown to have been excessive,
+
+the payment or, as the case may be, excess shall be recoverable by that person.
+
+(4) The Secretary of State may by order amend that Schedule by adding further entries or provisions to Part I or Part II.
+
+(5) An order under this section shall be made by statutory instrument which shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+### 81 Abolition of new street byelaws.
+
+(1) Part X of the [^M60]Highways Act 1980 (new street byelaws) is repealed.
+
+(2) Nothing in this section affects—
+
+(a) any order made before the day on which this section comes into force under section 188 of that Act (new street orders) or under any enactment from which that section is derived; or
+
+(b) any powers of a local authority exercisable under Part X of that Act in respect of such an order.
+
+(3) The Secretary of State may by order made by statutory instrument repeal any local enactment so far as it makes provision having similar effect to any provision of Part X of that Act.
+
+### 82 Home loss payments: Northern Ireland.
+
+An order in Council under paragraph 1(1)(b) of Schedule 1 to the [^M61]Northern Ireland Act 1974 (exercise of legislative functions for Northern Ireland) which states that it is made only for purposes corresponding to the purposes of sections 68 and 69 of this Act—
+
+(a) shall not be subject to paragraph 1(4) and (5) of that Schedule (affirmative resolution procedure and procedure in cases of urgency), but
+
+(b) shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+### 83 Consequential amendment of section 91A of Income and Corporation Taxes Act 1988.
+
+In section 91A of the [^M62]Income and Corporation Taxes Act 1988 (waste disposal: restoration payments)—
+
+(a) in subsection (4)(b) for “any term of a relevant agreement” there is substituted “ any relevant obligation ”; and
+
+(b) for subsection (7) there is substituted—
+
+> (7) For the purposes of this section a relevant obligation is—
+>
+> (a) an obligation arising under an agreement made under—
+>
+> (i) section 106 of the [^M63]Town and Country Planning Act 1990, as originally enacted;
+>
+> (ii) section 50 of the [^M64]Town and Country Planning (Scotland) Act 1972;
+>
+> (b) a planning obligation entered into under section 106 of the Act of 1990, as substituted by section 12 of the [^M65]Planning and Compensation Act 1991, or under section 299A of the Act of 1990;
+>
+> (c) an obligation arising under or under an agreement made under any provision—
+>
+> (i) corresponding to section 106 of the [^M66]Town and Country Planning Act 1990, as originally enacted or as substituted by the Act of 1991 or to section 299A of the Act of 1990; and
+>
+> (ii) for the time being in force in Northern Ireland.
+
+### 84 Short title, commencement, etc.
+
+(1) This Act may be cited as the Planning and Compensation Act 1991.
+
+(2) Subject to subsection (4) below, this Act shall come into force on such day as the Secretary of State may by order made by statutory instrument appoint, and different days may be appointed for different provisions and for different purposes.
+
+(3) An order under subsection (2) above may contain such supplementary, incidental, consequential and transitional provisions as the Secretary of State thinks fit.
+
+(4) Sections 31(2), (3), (7) and (8) and 60(2), (3) and (5), paragraphs 1, 5 and 13 of Schedule 6 and the related repeals shall come into force on the day on which this Act is passed.
+
+(5) Nothing in any provision of this Act affects the punishment for an offence committed before the provision comes into force.
+
+(6) The enactments mentioned in Schedule 19 to this Act are repealed to the extent specified in the third column.
+
+(7) Parts I and III of this Act and section 81 extend to England and Wales only.
+
+(8) Parts II and IV of this Act extend to Scotland only.
+
+(9) This Act, apart from sections 82 and 83, does not extend to Northern Ireland.
+
+## SCHEDULE 1 — Mines and Waste
+
+*Section 21.*
+
+**1** The principal Act is amended as follows.
+
+**2** In section 72(5) (conditional grant of planning permission) after “the winning and working of minerals” there is inserted “ or involving the depositing of refuse or waste materials ”.
+
+**3** In section 91(4) (circumstances in which general condition limiting duration of planning permission does not apply) for paragraph (d) there is substituted—
+
+> (d) to any planning permission for development consisting of the winning and working of minerals or involving the depositing of mineral waste which is granted (or deemed to be granted) subject to a condition that the development to which it relates must be begun before the expiration of a specified period after—
+>
+> (i) the completion of other development consisting of the winning and working of minerals already being carried out by the applicant for the planning permission; or
+>
+> (ii) the cessation of depositing of mineral waste already being carried out by the applicant for the planning permission;
+
+.
+
+**4** In section 97 (power to revoke or modify planning permission) in subsection (5) the words from “and Part II of Schedule 5” to the end are omitted and after that subsection there is inserted—
+
+> (6) Part II of Schedule 5 shall have effect for the purpose of making special provision with respect to the conditions that may be imposed by an order under this section which revokes or modifies permission for development—
+>
+> (a) consisting of the winning and working of minerals; or
+>
+> (b) involving the depositing of refuse or waste materials.
+
+**5** In section 100 (revocation and modification of planning permission by the Secretary of State) for subsection (8) there is substituted—
+
+> (8) Subsections (5) and (6) of section 97 apply for the purposes of this section as they apply for the purposes of that.
+
+**6** In section 102(8) (discontinuance orders, etc.) for “consisting in the winning and working of minerals” there is substituted “ consisting of the winning and working of minerals or involving the depositing of refuse or waste materials ”.
+
+**7** For section 105 (duty of mineral planning authorities to review mineral workings) there is substituted—
+
+> **Reviews by mineral planning authorities.**
+>
+> **105** (1) Every mineral planning authority shall undertake periodic reviews about the winning and working of minerals and the depositing of mineral waste in their area.
+>
+> (2) Subject to regulations made by virtue of subsection (4), the duty under this section is, at such intervals as they think fit—
+>
+> (a) to review every mining site in their area; and
+>
+> (b) to consider whether they should make an order under section 97 or under paragraph 1, 3, 5 or 6 of Schedule 9, and if they do consider that they should make any such order, to make it.
+>
+> (3) For the purposes of subsection (2) “a mining site” means a site which—
+>
+> (a) is being used for the winning and working of minerals or the depositing of mineral waste;
+>
+> (b) has been so used at any time during—
+>
+> (i) the period of five years preceding the date of the beginning of the review; or
+>
+> (ii) such other period preceding that date as may be prescribed; or
+>
+> (c) is authorised to be so used.
+>
+> (4) If regulations so require, the reviews shall be undertaken at prescribed intervals and shall cover such matters as may be prescribed.
+
+**8** In section 107 (compensation where planning permission revoked or modified) in subsection (5) for “1(2)” there is substituted “ 1(3) ”.
+
+**9** For section 116 (special basis for compensation in respect of certain orders affecting mineral working) there is substituted—
+
+> **Modification of compensation provisions in respect of mineral working etc.**
+>
+> **116** (1) Regulations made by virtue of this section with the consent of the Treasury may provide that where an order is made under—
+>
+> (a) section 97 modifying planning permission for development consisting of the winning and working of minerals or involving the depositing of mineral waste; or
+>
+> (b) paragraph 1, 3, 5 or 6 of Schedule 9 with respect to such winning and working or depositing,
+>
+> sections 107, 115, 117, 279 and 280 shall have effect subject, in such cases as may be prescribed, to such modifications as may be prescribed.
+>
+> (2) Any such regulations may make provision—
+>
+> (a) as to circumstances in which compensation is not to be payable;
+>
+> (b) for the modification of the basis on which any amount to be paid by way of compensation is to be assessed;
+>
+> (c) for the assessment of any such amount on a basis different from that on which it would otherwise have been assessed,
+>
+> and may also make different provision for different cases and incidental or supplementary provision.
+>
+> (3) No such regulations shall be made unless a draft of the instrument is laid before and approved by a resolution of each House of Parliament.
+>
+> (4) Before making any such regulations the Secretary of State shall consult such persons as appear to him to be representative—
+>
+> (a) of persons carrying out mining operations;
+>
+> (b) of owners of interests in land containing minerals; and
+>
+> (c) of mineral planning authorities.
+
+**10** In section 117(2) (general provisions as to compensation for depreciation under Part IV) for “under paragraph 1 of Schedule 11” there is substituted “ by virtue of section 116 ”.
+
+**11** In sections 189(1)(b) (penalties for contravention of orders under s.102 and Schedule 9) and 315(1) (power to modify Act in relation to minerals) after “minerals” there is inserted “ or involving the depositing of mineral waste ”.
+
+**12** In section 336(1) (interpretation)—
+
+(a) after the definition of “conservation area” there is inserted—
+
+> “depositing of mineral waste” means any process whereby a mineral-working deposit is created or enlarged and “depositing of refuse or waste materials” includes the depositing of mineral waste;
+
+(b) the definitions of “development consisting of the winning and working of minerals” and “mineral compensation modifications” are omitted;
+
+(c) in the definition of “minerals” for “minerals and substances in or under land” there is substituted “ substances ”;
+
+(d) the definitions of “relevant order”, “restriction on the winning and working of minerals” and “special consultations” are omitted; and
+
+(e) at the end there is inserted—
+
+> “the winning and working of minerals” includes the extraction of minerals from a mineral working deposit.
+
+**13** In Schedule 1 (local planning authorities: distribution of functions), in paragraph 1—
+
+(a) in sub-paragraph (1)(d) for “disposal” there is substituted “ depositing ”; and
+
+(b) sub-paragraph (2) is omitted.
+
+**14** (1) In Schedule 5, in paragraph 1(1) for “consisting of the winning and working of minerals” there is substituted
+
+> —
+>
+> (a) consisting of the winning and working of minerals; or
+>
+> (b) involving the depositing of mineral waste,
+
+.
+
+(2) In sub-paragraphs (2), (3) and (5) of that paragraph for “development”, in each place where it occurs, there is substituted “ winning and working of minerals or the depositing of mineral waste ”.
+
+(3) In sub-paragraph (6) of that paragraph “consisting of the winning and working of minerals” is omitted.
+
+(4) In paragraph 2(1) of that Schedule—
+
+(a) in paragraph (a) after “minerals” there is inserted “ or involving the depositing of refuse or waste materials ”; and
+
+(b) in paragraph (b) for “operations for the winning and working of minerals have been completed” there is substituted “ the winning and working is completed or the depositing has ceased ”.
+
+(5) In paragraph 6 of that Schedule for the words from “carried out” to “under the land” there is substituted “ won and worked minerals or deposited refuse or waste materials ”.
+
+(6) In paragraph 7 of that Schedule after “minerals” there is inserted “ or involving the depositing of refuse or waste materials ”.
+
+(7) At the end of that Schedule there is inserted—
+
+> **Interpretation**
+>
+> **9** In this Schedule any reference to a mineral planning authority shall be construed, in relation to the exercise of functions with respect to the depositing of refuse or waste materials (other than mineral waste), as a reference to the authority entitled to discharge such functions.
+
+**15** (1) In Schedule 9, in paragraph 1(1) for paragraph (a) there is substituted—
+
+> (a) that any use of land for—
+>
+> (i) development consisting of the winning and working of minerals; or
+>
+> (ii) the depositing of refuse or waste materials,
+>
+> should be discontinued or that any conditions should be imposed on the continuance of the winning and working or the depositing;
+
+.
+
+(2) For paragraph (c) of that sub-paragraph there is substituted—
+
+> (c) that any plant or machinery used for the winning and working or the depositing should be altered or removed,
+
+.
+
+(3) For sub-paragraphs (2) and (3) of that paragraph there is substituted—
+
+> (2) An order under this paragraph may grant planning permission for any development of the land to which the order relates, subject to such conditions as may be—
+>
+> (a) required by paragraph 1 of Schedule 5; or
+>
+> (b) specified in the order.
+>
+> (3) Subsections (3) to (5) and (7) of section 102 and section 103 apply to orders under this paragraph as they apply to orders under section 102, but as if—
+>
+> (a) references to the local planning authority were references to the mineral planning authority; and
+>
+> (b) the reference in section 103(2)(a) to subsection (2) of section 102 were a reference to sub-paragraph (2).
+
+(4) In paragraph 2 of that Schedule for sub-paragraph (1) there is substituted—
+
+> (1) An order under paragraph 1 may impose a restoration condition
+
+.
+
+(5) In sub-paragraph (4)(b) of that paragraph for the words from “before” to “under it” there is substituted “ before the development began ”.
+
+(6) For paragraph 3(1) to (3) of that Schedule there is substituted—
+
+> (1) Where it appears to the mineral planning authority—
+>
+> (a) that development of land—
+>
+> (i) consisting of the winning and working of minerals; or
+>
+> (ii) involving the depositing of mineral waste,
+>
+> has occurred; but
+>
+> (b) the winning and working or depositing has permanently ceased,
+>
+> the mineral planning authority may by order—
+>
+> (i) prohibit the resumption of the winning and working or the depositing; and
+>
+> (ii) impose, in relation to the site, any such requirement as is specified in sub-paragraph (3).
+>
+> (2) The mineral planning authority may assume that the winning and working or the depositing has permanently ceased only when—
+>
+> (a) no winning and working or depositing has occurred, to any substantial extent, at the site for a period of at least two years; and
+>
+> (b) it appears to the mineral planning authority, on the evidence available to them at the time when they make the order, that resumption of the winning and working or the depositing to any substantial extent at the site is unlikely.
+>
+> (3) The requirements mentioned in sub-paragraph (1) are—
+>
+> (a) a requirement to alter or remove plant or machinery which was used for the purpose of the winning and working or the depositing or for any purpose ancillary to that purpose;
+>
+> (b) a requirement to take such steps as may be specified in the order, within such period as may be so specified, for the purpose of removing or alleviating any injury to amenity which has been caused by the winning and working or depositing, other than injury due to subsidence caused by underground mining operations;
+>
+> (c) a requirement that any condition subject to which planning permission for the development was granted or which has been imposed by virtue of any provision of this Act shall be complied with; and
+>
+> (d) a restoration condition.
+
+(7) At the end of paragraph 4(8) of that Schedule there is inserted “ or involving the depositing of mineral waste ”.
+
+(8) For paragraph 5(1) of that Schedule there is substituted—
+
+> (1) Where it appears to the mineral planning authority—
+>
+> (a) that development of land—
+>
+> (i) consisting of the winning and working of minerals; or
+>
+> (ii) involving the depositing of mineral waste,
+>
+> has occurred; but
+>
+> (b) the winning and working or depositing has been temporarily suspended,
+>
+> the mineral planning authority may by order require that steps be taken for the protection of the environment.
+
+(9) For sub-paragraphs (3) and (4) there is substituted—
+
+> (3) The mineral planning authority may assume that the winning and working or the depositing has been temporarily suspended only when—
+>
+> (a) no such winning and working or depositing has occurred, to any substantial extent, at the site for a period of at least twelve months; but
+>
+> (b) it appears to the mineral planning authority, on the evidence available to them at the time when they make the order, that a resumption of such winning and working or depositing to a substantial extent is likely.
+>
+> (4) In this Act “steps for the protection of the environment” means steps for the purpose—
+>
+> (a) of preserving the amenities of the area in which the land in, on or under which the development was carried out is situated during the period while the winning and working or the depositing is suspended;
+>
+> (b) of protecting that area from damage during that period; or
+>
+> (c) of preventing any deterioration in the condition of the land during that period.
+
+(10) In paragraph 10(1) of that Schedule for “in, on or under the land” there is substituted “ or involving the depositing of mineral waste at the site ”.
+
+(11) In sub-paragraph (3) of that paragraph for “development consisting of the winning and working of minerals” there is substituted “ the development ”.
+
+(12) For sub-paragraph (4) of that paragraph there is substituted—
+
+> (4) The mineral planning authority shall revoke the order if the winning and working of minerals or the depositing of mineral waste has recommenced to a substantial extent at the site in relation to which the order has effect.
+
+(13) For sub-paragraph (8) there is substituted—
+
+> (8) If the Secretary of State is satisfied that the winning and working of minerals or the depositing of mineral waste has recommenced to a substantial extent at the site in relation to which the order has effect, he shall revoke the order.
+
+(14) At the end of that Schedule there is inserted—
+
+> **Interpretation**
+>
+> **12** In this Schedule any reference to a mineral planning authority shall be construed, in relation to the exercise of functions with respect to the depositing of refuse or waste materials (other than mineral waste), as a reference to the authority entitled to discharge such functions.
+
+**16** (1) Schedule 11 (compensation in respect of certain orders affecting mineral working) is omitted.
+
+(2) Without prejudice to section 17(2)(b) of the [^M67]Interpretation Act 1978, any regulations made or having effect as if made by virtue of Schedule 11 to the principal Act shall, to the extent that they are in force on the coming into force of this paragraph, have effect as if made under section 116 of the principal Act as substituted by paragraph 9 of this Schedule.
+
+## SCHEDULE 2 — Registration of Old Mining Permissions
+
+*Section 22.*
+
+### Application for registration
+
+**1** (1) Any person who is an owner of any land to which an old mining permission relates, or is entitled to an interest in a mineral to which such a permission relates, may apply to the mineral planning authority for the permission to be registered.
+
+(2) The application must specify the development which the applicant claims is authorised by the permission, including the land to which the permission relates, and the conditions (if any) to which the permission is subject.
+
+(3) The application must be served on the mineral planning authority before the end of the period of six months beginning with the day on which this Schedule comes into force.
+
+(4) On an application under this paragraph, the mineral planning authority must—
+
+(a) if they are satisfied that (apart from section 22(3) of this Act) the permission authorises development consisting of the winning and working of minerals or involving the depositing of mineral waste, ascertain—
+
+(i) the area of land to which the permission relates, and
+
+(ii) the conditions (if any) to which the permission is subject,
+
+and grant the application, and
+
+(b) in any other case, refuse the application.
+
+(5) Where—
+
+(a) application has been made under this paragraph, but
+
+(b) the mineral planning authority have not given the applicant notice of their determination within the period of three months beginning with the service of notice of the application (or within such extended period as may at any time be agreed upon in writing between the applicant and the authority),
+
+the application is to be treated for the purposes of section 22 of this Act and this Schedule as having been refused by the authority.
+
+### Determination of conditions
+
+**2** (1) The conditions to which an old mining permission is to be subject—
+
+(a) may include any conditions which may be imposed on a grant of planning permission for development consisting of the winning and working of minerals or involving the depositing of mineral waste,
+
+(b) may be imposed in addition to, or in substitution for, any conditions ascertained under paragraph 1(4)(a) above, and
+
+(c) must include a condition that the winning and working of minerals or depositing of mineral waste must cease not later than 21st February 2042.
+
+(2) Where an application for the registration of an old mining permission has been granted, any person who is an owner of any land to which the permission relates, or is entitled to an interest in a mineral to which the permission relates, may apply to the mineral planning authority to determine the conditions to which the permission is to be subject.
+
+(3) The application must set out proposed conditions.
+
+(4) The application must be served on the mineral planning authority—
+
+(a) after the date mentioned in sub-paragraph (5) below, and
+
+(b) except where section 22(3) of this Act applies, before the end of the period of twelve months beginning with that date or such extended period as may at any time be agreed upon in writing between the applicant and the authority.
+
+(5) The date referred to in sub-paragraph (4) above is—
+
+(a) the date on which the application for registration is granted by the mineral planning authority, if no appeal is made to the Secretary of State under paragraph 5 below, and
+
+(b) in any other case, the date on which the application for registration is finally determined.
+
+(6) On an application under this paragraph—
+
+(a) the mineral planning authority must determine the conditions to which the permission is to be subject, and
+
+(b) if, within the period of three months beginning with the service of notice of the application (or within such extended period as may at any time be agreed upon in writing between the applicant and the authority) the authority have not given the applicant notice of their determination, the authority shall be treated for the purposes of section 22 of this Act and this Schedule as having determined that the permission is to be subject to the conditions set out in the application.
+
+(7) The condition to which an old mining permission is to be subject by reason of sub-paragraph (1)(c) above is not to be regarded for the purposes of the planning Acts as a condition such as is mentioned in section 72(1)(b) of the principal Act (planning permission granted for a limited period).
+
+(8) This paragraph does not apply to an old mining permission which has ceased to have effect since the application under paragraph 1 above was granted.
+
+### Registration
+
+**3** (1) Where an application for the registration of an old mining permission is granted, the permission must be entered in the appropriate part of the register kept under section 69 of the principal Act and the entry must specify the area of land ascertained under paragraph 1(4)(a) above.
+
+(2) Where an application to determine the conditions to which an old mining permission is to be subject is finally determined, the conditions must be entered in the appropriate part of that register.
+
+(3) The matters required to be entered in the register under this paragraph must be entered as soon as reasonably practicable.
+
+### General provisions about applications
+
+**4** (1) An application under paragraph 1 or 2 above is an application which is—
+
+(a) made on an official form, and
+
+(b) accompanied by an appropriate certificate.
+
+(2) The applicant must, so far as reasonably practicable, give the information required by the form.
+
+(3) Where the mineral planning authority receive an application under paragraph 1 or 2 above, they must as soon as reasonably practicable give to the applicant a written acknowledgement of the application.
+
+(4) Where the mineral planning authority determine an application under either of those paragraphs, they must as soon as reasonably practicable give written notice of their determination to the applicant.
+
+(5) An appropriate certificate is such a certificate—
+
+(a) as would be required under the provisions mentioned in sub-paragraph (6) or, as the case may be, (7) below to accompany the application if it were an application for planning permission for development consisting of the winning and working of minerals or, as the case may be, involving the depositing of mineral waste, but
+
+(b) with such modifications as are required for the purposes of this Schedule.
+
+(6) For the purposes of paragraph 1 above, the provisions referred to in sub-paragraph (5) above are—
+
+(a) sections 66 to 68 of the principal Act (notification of owners and agricultural tenants) and any provisions of a development order made by virtue of those sections, or
+
+(b) where section 16(1) of this Act is in force, any provision, corresponding to the provisions referred to in paragraph (a) above, of section 65 of that Act (notice etc. of applications) and of a development order made by virtue of that section.
+
+(7) For the purposes of paragraph 2 above, the provisions referred to in sub-paragraph (5) above are—
+
+(a) sections 65 to 68 of the principal Act (publicity for applications) and any provision of a development order made by virtue of those sections, or
+
+(b) where section 16(1) of this Act is in force, section 65 of that Act and any provision of a development order made by virtue of that section.
+
+(8) Section 68(1) or, as the case may be, 65(5) of that Act (offences) shall also have effect in relation to any certificate purporting to be an appropriate certificate.
+
+### Right of appeal
+
+**5** (1) Where the mineral planning authority—
+
+(a) refuse an application under paragraph 1 above, or
+
+(b) in granting such an application, ascertain an area of land, or conditions, which differ from those specified in the application,
+
+the applicant may appeal to the Secretary of State.
+
+(2) Where on an application under paragraph 2 above, the mineral planning authority determine conditions that differ in any respect from the conditions set out in the application, the applicant may appeal to the Secretary of State.
+
+(3) An appeal under this paragraph must be made by giving notice of appeal to the Secretary of State.
+
+(4) In the case of an appeal under sub-paragraph (1) above, the notice must be given to the Secretary of State before the end of the period of three months beginning with the determination or, in the case of an application treated as refused by virtue of paragraph 1(5) above, beginning at the end of the period or extended period referred to in paragraph 1(5)(b).
+
+(5) In the case of an appeal under sub-paragraph (2) above, the notice must be given to the Secretary of State before the end of the period of six months beginning with the determination.
+
+(6) A notice of appeal under this paragraph is a notice which—
+
+(a) is made on an official form, and
+
+(b) is accompanied by an appropriate certificate.
+
+(7) The appellant must, so far as reasonably practicable, give the information required by the form.
+
+(8) Paragraph 4(5) to (8) above shall apply for the purposes of sub-paragraph (7) above as it applies for the purposes of paragraph 4(1) above.
+
+[[^F36](9) Schedule 6 to the principal Act (determination of appeals by persons appointed by Secretary of State) applies to appeals under this paragraph.]
+
+### Determination of appeal
+
+**6** (1) On an appeal under paragraph 5 above the Secretary of State may—
+
+(a) allow or dismiss the appeal, or
+
+(b) reverse or vary any part of the decision of the mineral planning authority (whether the appeal relates to that part of it or not),
+
+and may deal with the application as if it had been made to him in the first instance.
+
+(2) Before determining such an appeal the Secretary of State must, if either the appellant or the mineral planning authority so wish, give each of them an opportunity of appearing before and being heard by a person appointed by the Secretary of State for the purpose.
+
+(3) If at any time before or during the determination of such an appeal it appears to the Secretary of State that the appellant is responsible for undue delay in the progress of the appeal, he may—
+
+(a) give the appellant notice that the appeal will be dismissed unless the appellant takes, within the period specified in the notice, such steps as are specified in the notice for the expedition of the appeal, and
+
+(b) if the appellant fails to take those steps within that period, dismiss the appeal accordingly.
+
+(4) The decision of the Secretary of State on such an appeal shall be final.
+
+### Reference of applications to Secretary of State
+
+**7** (1) The Secretary of State may give directions requiring applications under this Schedule to any mineral planning authority to be referred to him for determination instead of being dealt with by the authority.
+
+(2) The direction may relate either to a particular application or to applications of a class specified in the direction.
+
+(3) Where an application is referred to him under this paragraph—
+
+(a) subject to paragraph (b) and sub-paragraph (4) below, the following provisions of this Schedule—
+
+(i) paragraph 1(1) to (4),
+
+(ii) paragraph 2(1) to (6)(a), (7) and (8),
+
+(iii) paragraphs 3 and 4, and
+
+(iv) paragraphs 8 to 10,
+
+shall apply, with any necessary modifications, as they apply to applications which fall to be determined by the mineral planning authority,
+
+(b) before determining the application the Secretary of State must, if either the applicant or the mineral planning authority so wish, give each of them an opportunity of appearing before and being heard by a person appointed by the Secretary of State for the purpose, and
+
+(c) the decision of the Secretary of State on the application shall be final.
+
+(4) Where an application under paragraph 1 above is so referred to him, paragraph 2(5) above shall apply as if for paragraphs (a) and (b) there were substituted “the date on which the application for registration is finally determined”.
+
+### Two or more applicants
+
+**8** (1) Where a person has served an application under paragraph 1 or 2 above in respect of an old mining permission—
+
+(a) he may not serve any further application under the paragraph in question in respect of the same permission, and
+
+(b) if the application has been determined, whether or not it has been finally determined, no other person may serve an application under the paragraph in question in respect of the same permission.
+
+(2) Where—
+
+(a) a person has served an application under paragraph 1 or 2 above in respect of an old mining permission, and
+
+(b) another person duly serves an application under the paragraph in question in respect of the same permission,
+
+then for the purpose of the determination of the applications and any appeal against such a determination, this Schedule shall have effect as if the applications were a single application served on the date on which the later application was served and references to the applicant shall be read as references to either or any of the applicants.
+
+### Application of provisions of principal Act
+
+**9** (1) Subject to paragraph 3 above, section 69 of the principal Act (registers of applications, etc.), and any provision of a development order made by virtue of that section, shall have effect with any necessary modifications as if references to applications for planning permission included applications under paragraph 1 or 2 above.
+
+(2) Where the mineral planning authority is not the authority required to keep the register under that section, the mineral planning authority must provide the authority required to keep the register with such information and documents as that authority requires to comply with paragraph 3 above and with that section as applied by this paragraph.
+
+(3) Sections 284 and 288 of the principal Act (validity of certain decisions and proceedings for questioning their validity) shall have effect as if the action mentioned in section 284(3) included any decision of the Secretary of State on an appeal under paragraph 5 above or on an application referred to him under paragraph 7 above.
+
+### Interpretation
+
+**10** (1) In this Schedule—
+
+- “official form” means, in relation to an application or appeal, a document supplied by or on behalf of the Secretary of State for use for the purpose in question, and
+- “owner” in relation to any land means any person who—
+
+(a) is the estate owner in respect of the fee simple, or
+
+(b) is entitled to a tenancy granted or extended for a term of years certain of which not less than seven years remain unexpired.
+
+(2) For the purposes of section 22 of this Act and this Schedule, an application under paragraph 1 or 2 above is finally determined when the following conditions are met—
+
+(a) the proceedings on the application, including any proceedings on or in consequence of an application under section 288 of the principal Act, have been determined, and
+
+(b) any time for appealing under paragraph 5 above, or applying or further applying under that section, (where there is a right to do so) has expired.
+
+## SCHEDULE 3 — Listed Buildings, Conservation Areas and Hazardous Substances
+
+*Section 25.*
+
+### Part I — Changes relating to enforcement
+
+#### Planning (Listed Buildings and Conservation Areas) Act 1990 (c. 9)
+
+**1** In section 9 of the Planning (Listed Buildings and Conservation Areas) Act 1990 (offences: penalties)—
+
+(a) for subsection (4) there is substituted—
+
+> (4) A person who is guilty of an offence under this section shall be liable—
+>
+> (a) on summary conviction, to imprisonment for a term not exceeding six months or a fine not exceeding £20,000, or both; or
+>
+> (b) on conviction on indictment, to imprisonment for a term not exceeding two years or a fine, or both.
+
+; and
+
+(b) in subsection (5) “on indictment” is omitted.
+
+**2** For section 38(5) and (6) of that Act (withdrawal of notices) there is substituted—
+
+> (5) The local planning authority may—
+>
+> (a) withdraw a listed building enforcement notice (without prejudice to their power to issue another); or
+>
+> (b) waive or relax any requirement of such a notice and, in particular, may extend the period specified in accordance with section 38(3),
+>
+> and the powers conferred by this subsection may be exercised whether or not the notice has taken effect.
+>
+> (6) The local planning authority shall, immediately after exercising the powers conferred by subsection (5), give notice of the exercise to every person who has been served with a copy of the listed building enforcement notice or would, if the notice were re-issued, be served with a copy of it
+
+.
+
+**3** (1) Section 39 of that Act (appeals) is amended as follows.
+
+(2) For subsection (1)(b) and (c) there is substituted—
+
+> (b) that the matters alleged to constitute a contravention of section 9(1) or (2) have not occurred;
+>
+> (c) that those matters (if they occurred) do not constitute such a contravention
+
+.
+
+(3) For subsection (2) there is substituted—
+
+> (2) An appeal under this section shall be made either—
+>
+> (a) by giving written notice of the appeal to the Secretary of State before the date specified in the listed building enforcement notice as the date on which it is to take effect; or
+>
+> (b) by sending such notice to him in a properly addressed and pre-paid letter posted to him at such time that, in the ordinary course of post, it would be delivered to him before that date.
+
+(4) In subsection (3) after “shall” there is inserted “ subject to any order under section 65(3A) ”.
+
+**4** For section 41(1) and (2) (power to correct or vary enforcement notice on appeal) there is substituted—
+
+> (1) On an appeal under section 39 the Secretary of State may—
+>
+> (a) correct any defect, error or misdescription in the listed building enforcement notice; or
+>
+> (b) vary the terms of the listed building enforcement notice,
+>
+> if he is satisfied that the correction or variation will not cause injustice to the appellant or the local planning authority.
+>
+> (2) Where the Secretary of State determines to allow the appeal, he may quash the notice.
+>
+> (2A) The Secretary of State shall give any directions necessary to give effect to his determination on the appeal.
+
+**5** For section 42(6) of that Act (power to execute works required by listed building enforcement notice) there is substituted—
+
+> (6) Any person who wilfully obstructs a person acting in the exercise of powers under subsection (1) shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+**6** For section 43 of that Act (penalties for non-compliance) there is substituted—
+
+> **Offence where listed building enforcement notice not complied with.**
+>
+> **43** (1) Where, at any time after the end of the period for compliance with the notice, any step required by a listed building enforcement notice to be taken has not been taken, the person who is then owner of the land is in breach of the notice.
+>
+> (2) If at any time the owner of the land is in breach of a listed building enforcement notice he shall be guilty of an offence.
+>
+> (3) An offence under this section may be charged by reference to any day or longer period of time and a person may be convicted of a second or subsequent offence under this section by reference to any period of time following the preceding conviction for such an offence.
+>
+> (4) In proceedings against any person for an offence under this section, it shall be a defence for him to show—
+>
+> (a) that he did everything he could be expected to do to secure that all the steps required by the notice were taken; or
+>
+> (b) that he was not served with a copy of the listed building enforcement notice and was not aware of its existence.
+>
+> (5) A person guilty of an offence under this section shall be liable—
+>
+> (a) on summary conviction, to a fine not exceeding £20,000; and
+>
+> (b) on conviction on indictment, to a fine.
+>
+> (6) In determining the amount of any fine to be imposed on a person convicted of an offence under this section, the court shall in particular have regard to any financial benefit which has accrued or appears likely to accrue to him in consequence of the offence.
+
+**7** After section 44 of that Act there is inserted—
+
+> **Injunctions.**
+>
+> **44A** (1) Where a local planning authority consider it necessary or expedient for any actual or apprehended contravention of section 9(1) or (2) to be restrained by injunction, they may apply to the court for an injunction, whether or not they have exercised or are proposing to exercise any of their other powers under this Part.
+>
+> (2) On an application under subsection (1) the court may grant such an injunction as the court thinks appropriate for the purpose of restraining the contravention.
+>
+> (3) Rules of court may, in particular, provide for such an injunction to be issued against a person whose identity is unknown.
+>
+> (4) The references in subsection (1) to a local planning authority include, as respects England, the Commission.
+>
+> (5) In this section “the court” means the High Court or the county court.
+
+**8** (1) Section 65 of that Act (appeals to High Court) is amended as follows.
+
+(2) After subsection (3) there is inserted—
+
+> (3A) In proceedings brought by virtue of this section, the High Court or, as the case may be, the Court of Appeal may, on such terms, if any, as the Court thinks fit (which may include terms requiring the local planning authority to give an undertaking as to damages or any other matter), order that the listed building enforcement notice shall have effect, or have effect to such extent as may be specified in the order, pending the final determination of those proceedings and any re-hearing and determination by the Secretary of State.
+
+(3) For subsection (5) there is substituted—
+
+> (5) No proceedings in the High Court shall be brought by virtue of this section except with the leave of that Court and no appeal to the Court of Appeal shall be so brought except with the leave of the Court of Appeal or of the High Court.
+
+**9** (1) In section 88 of that Act (rights of entry)—
+
+(a) in subsection (1) after “on it” there is inserted “ or any other land ”,
+
+(b) in subsection (2)(a) after “surveying it” there is inserted “ or any other land ”,
+
+(c) in subsection (2)(b) after “complied with” there is inserted “ in relation to the land or any other land ”,
+
+(d) in subsection (2)(c) after “on the land” there is inserted “ or any other land ”,
+
+(e) in subsection (2)(d) for “such building” there is substituted “ building on the land or any other land ”,
+
+(f) in subsection (3)(a) after “section 59” there is inserted “ in relation to the land or any other land ”, and
+
+(g) in subsection (3)(b) and (c) after “the land” there is inserted “ or any other land ”.
+
+(2) For subsection (7) of that section there is substituted—
+
+> **Warrants to enter land.**
+>
+> **88A** (1) If it is shown to the satisfaction of a justice of the peace on sworn information in writing—
+>
+> (a) that there are reasonable grounds for entering any land for any of the purposes mentioned in section 88; and
+>
+> (b) that—
+>
+> (i) admission to the land has been refused, or a refusal is reasonably apprehended; or
+>
+> (ii) the case is one of urgency,
+>
+> the justice may issue a warrant authorising any person duly authorised in writing by the appropriate authority to enter the land.
+>
+> (2) In subsection (1) “the appropriate authority” means the person who may authorise entry on the land under section 88 for the purpose in question.
+>
+> (3) For the purposes of subsection (1)(b)(i) admission to land shall be regarded as having been refused if no reply is received to a request for admission within a reasonable period.
+>
+> (4) A warrant authorises entry on one occasion only and that entry must be—
+>
+> (a) within one month from the date of the issue of the warrant; and
+>
+> (b) at a reasonable hour, unless the case is one of urgency.
+>
+> **Rights of entry: supplementary provisions.**
+>
+> **88B** (1) A person authorised under section 88 to enter any land shall not demand admission as of right to any land which is occupied unless twenty-four hours notice of the intended entry has been given to the occupier.
+>
+> (2) A person authorised to enter land in pursuance of a right of entry conferred under or by virtue of section 88 or 88A (referred to in this section as “a right of entry”)—
+>
+> (a) shall, if so required, produce evidence of his authority and state the purpose of his entry before so entering;
+>
+> (b) may take with him such other persons as may be necessary; and
+>
+> (c) on leaving the land shall, if the owner or occupier is not then present, leave it as effectively secured against trespassers as he found it.
+>
+> (3) Any person who wilfully obstructs a person acting in the exercise of a right of entry shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+>
+> (4) If any person who enters any land, in exercise of a right of entry, discloses to any person any information obtained by him while on the land as to any manufacturing process or trade secret, he shall be guilty of an offence.
+>
+> (5) Subsection (4) does not apply if the disclosure is made by a person in the course of performing his duty in connection with the purpose for which he was authorised to enter the land.
+>
+> (6) A person who is guilty of an offence under subsection (4) shall be liable—
+>
+> (a) on summary conviction to a fine not exceeding the statutory maximum, or
+>
+> (b) on conviction on indictment to imprisonment for a term not exceeding two years or a fine or both.
+>
+> (7) If any damage is caused to land or chattels in the exercise of—
+>
+> (a) a right of entry; or
+>
+> (b) a power conferred by virtue of section 88(6) in connection with such a right,
+>
+> compensation may be recovered by any person suffering the damage from the authority who gave the written authority for the entry or, as the case may be, the Secretary of State; and section 118 of the principal Act shall apply in relation to compensation under this subsection as it applies in relation to compensation under Part IV of that Act.
+>
+> (8) No person shall carry out any works in exercise of a power conferred under section 88 unless notice of his intention to do so was included in the notice required by subsection (1).
+>
+> (9) The authority of the appropriate Minister shall be required for the carrying out of works in exercise of a power conferred under section 88 if—
+>
+> (a) the land in question is held by statutory undertakers; and
+>
+> (b) they object to the proposed works on the ground that the execution of the works would be seriously detrimental to the carrying on of their undertaking.
+>
+> (10) Section 265(1) and (3) of the principal Act (meaning of “appropriate Minister”) applies for the purposes of subsection (9) as it applies for the purposes of section 325(9) of the principal Act.
+
+#### Planning (Hazardous Substances) Act 1990 (c. 10.)
+
+**10** In section 23(4) of the Planning (Hazardous Substances) Act 1990 (offences)—
+
+[^F37]a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) for the words following paragraph (b) there is substituted—
+
+> (4A) In determining the amount of any fine to be imposed on a person convicted of an offence under this section, the court shall in particular have regard to any financial benefit which has accrued or appears likely to accrue to him in consequence of the offence
+
+.
+
+**11** In section 24 of that Act (hazardous substances contravention notices)—
+
+(a) in subsection (1)(b) after “remedy” there is inserted “ wholly or partly ”, and
+
+(b) in subsection (8) after “before” there is inserted “ or after ”, and
+
+(c) at the end of subsection (9) there is inserted “ or would, if the notice were re-issued, be served with a copy of it ”.
+
+**12** After that section there is inserted—
+
+> **Variation of hazardous substances contravention notices.**
+>
+> **24A** (1) A hazardous substances authority may waive or relax any requirement of a hazardous substances contravention notice issued by them and, in particular, may extend any period specified in accordance with section 24(5)(b) in the notice.
+>
+> (2) The powers conferred by subsection (1) may be exercised before or after the notice takes effect.
+>
+> (3) The hazardous substances authority shall, immediately after exercising those powers, give notice of the exercise to every person who has been served with a copy of the hazardous substances contravention notice or would, if the notice were re-issued, be served with a copy of it.
+
+**13** In section 25(2) of that Act (contravention notices: effect of appeal) after “shall” there is inserted “ subject to regulations under this section ”.
+
+**14** After section 26(2) of that Act (transitional exemptions) there is inserted—
+
+> (2A) This section shall have effect until the end of the transitional period.
+
+**15** After section 26 of that Act there is inserted—
+
+> **Injunctions.**
+>
+> **26AA** (1) Where a hazardous substances authority consider it necessary or expedient for any actual or apprehended contravention of hazardous substances control to be restrained by injunction, they may apply to the court for an injunction, whether or not they have exercised or are proposing to exercise any of their other powers under this Act.
+>
+> (2) On an application under subsection (1) the court may grant such an injunction as the court thinks appropriate for the purpose of restraining the contravention.
+>
+> (3) Rules of court may, in particular, provide for such an injunction to be issued against a person whose identity is unknown.
+>
+> (4) In this section “the court” means the High Court or the county court.
+
+**16** (1) Section 36 of that Act (rights of entry) is amended as follows.
+
+(2) In subsection (4) after “contravention notice” there is inserted “ or a notice under section 183 of the principal Act (as applied by regulations made by virtue of section 25) ”.
+
+(3) For subsection (6) there is substituted—
+
+> **Warrants to enter land.**
+>
+> **36A** (1) If it is shown to the satisfaction of a justice of the peace on sworn information in writing—
+>
+> (a) that there are reasonable grounds for entering any land for any of the purposes mentioned in section 36; and
+>
+> (b) that—
+>
+> (i) admission to the land has been refused, or a refusal is reasonably apprehended; or
+>
+> (ii) the case is one of urgency,
+>
+> the justice may issue a warrant authorising any person duly authorised in writing by a hazardous substances authority to enter the land.
+>
+> (2) For the purposes of subsection (1)(b)(i) admission to land shall be regarded as having been refused if no reply is received to a request for admission within a reasonable period.
+>
+> (3) A warrant authorises entry on one occasion only and that entry must be—
+>
+> (a) within one month from the date of the issue of the warrant; and
+>
+> (b) at a reasonable hour, unless the case is one of urgency.
+>
+> **Rights of entry: supplementary provisions.**
+>
+> **36B** (1) A person authorised to enter land in pursuance of a right of entry conferred under or by virtue of section 36 or 36A (referred to in this section as “a right of entry”)—
+>
+> (a) shall, if so required, produce evidence of his authority and state the purpose of his entry before so entering;
+>
+> (b) may take with him such other persons as may be necessary; and
+>
+> (c) on leaving the land shall, if the owner or occupier is not then present, leave it as effectively secured against trespassers as he found it.
+>
+> (2) Any person who wilfully obstructs a person acting in the exercise of a right of entry shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+>
+> (3) If any person who enters any land, in exercise of a right of entry, discloses to any person any information obtained by him while on the land as to any manufacturing process or trade secret, he shall be guilty of an offence.
+>
+> (4) Subsection (3) does not apply if the disclosure is made by a person in the course of performing his duty in connection with the purpose for which he was authorised to enter the land.
+>
+> (5) A person who is guilty of an offence under subsection (3) shall be liable—
+>
+> (a) on summary conviction to a fine not exceeding the statutory maximum, or
+>
+> (b) on conviction on indictment to imprisonment for a term not exceeding two years or a fine or both.
+>
+> (6) If any damage is caused to land or chattels in the exercise of—
+>
+> (a) a right of entry; or
+>
+> (b) a power conferred by virtue of section 36(5) in connection with such a right,
+>
+> compensation may be recovered by any person suffering the damage from the authority who gave the written authority for the entry or, as the case may be, the Secretary of State; and section 118 of the principal Act shall apply in relation to compensation under this section as it applies in relation to compensation under Part IV of that Act.
+>
+> (7) The authority of the appropriate Minister shall be required for the carrying out of works in the exercise of a power under section 36 if—
+>
+> (a) the land in question is held by statutory undertakers, and
+>
+> (b) they object to the proposed works on the ground that the execution of the works would be seriously detrimental to the carrying on of their undertaking.
+>
+> (8) Section 265(1) and (3) of the principal Act (meaning of “appropriate Minister”) applies for the purposes of subsection (7) as it applies for the purposes of section 325(9) of the principal Act.
+
+### Part II — Minor and Consequential Amendments
+
+#### Local Government, Planning and Land Act 1980 (c. 65.)
+
+**17** In Part I of Schedule 29 to the Local Government, Planning and Land Act 1980, the following are inserted at the appropriate places among the provisions of the [^M68]Planning (Listed Buildings and Conservation Areas) Act 1990 there listed: 44A, 88 and 88A.
+
+#### Housing Act 1988 (c. 50.)
+
+**18** In section 67(3A) of the Housing Act 1988 for “25 and 36” there is substituted “ 26AA, 36 and 36A ”.
+
+#### Planning (Listed Buildings and Conservation Areas) Act 1990 (c. 9.)
+
+**19** In section 38 of the Planning (Listed Buildings and Conservation Areas) Act 1990—
+
+(a) in subsection (2) “within such period as may be so specified” is omitted,
+
+(b) for subsection (3) there is substituted—
+
+> (3) A listed building enforcement notice—
+>
+> (a) shall specify the date on which it is to take effect and, subject to sections 39(3) and 65(3A), shall take effect on that date, and
+>
+> (b) shall specify the period within which any steps are required to be taken and may specify different periods for different steps,
+>
+> and, where different periods apply to different steps, references in this Part to the period for compliance with a listed building enforcement notice, in relation to any step, are to the period within which the step is required to be taken.
+
+, and
+
+(c) in subsection (4) for “specified date” there is substituted “ date specified in it as the date on which it is to take effect ”.
+
+**20** In section 39(7) of that Act “in writing” is omitted.
+
+**21** In section 42 of that Act—
+
+(a) in subsection (1) for “compliance period” there is substituted “ period for compliance with the notice ”, and
+
+(b) subsection (7) is omitted.
+
+**22** In section 46(4) of that Act for “sections 42 and 43” there is substituted “ section 42 ” and for “those sections” there is substituted “ that section ”.
+
+**23** Section 55(6) of that Act is omitted.
+
+**24** In section 82 of that Act—
+
+(a) in subsection (1) for “39(6), 42(6) and 55(6)” there is substituted “ and 39(6) ”, and
+
+(b) in subsection (3) for “sections 39(6) and 42(6)” there is substituted “ section 39(6) ”.
+
+**25** In section 88(6) of that Act for “subsection (7)” there is substituted “ section 88B(8) ” and “or the presence of minerals in it” is omitted.
+
+**26** In section 90(6)(b) of that Act “and 42(6)” is omitted.
+
+**27** In section 92(2)(b) of that Act “and 42(6)” is omitted.
+
+**28** In Schedule 3 to that Act, in paragraph 2(1)(b), after “section 41(1), (2)” there is inserted “ (2A) ”.
+
+**29** In Schedule 4 to that Act, in paragraph 5(b) for “and 88(2)(a) and (b)” there is substituted “ 44A, 88(2)(a) and (b) and 88A ”.
+
+#### Planning (Hazardous Substances) Act 1990 (c. 10)
+
+**30** In section 25(1) of the Planning (Hazardous Substances) Act 1990—
+
+(a) in paragraph (b)(v) for “175(1) to (4)” there is substituted “ 175(1) to (3) ”, and
+
+(b) in paragraph (c) “(1) to (5) and (7)” is omitted.
+
+**31** In section 31(2) of that Act for “or 24” there is substituted “ 24 or 26AA ”.
+
+**32** In section 36(5) of that Act “Subject to subsection (6)” is omitted.
+
+## SCHEDULE 4 — Development Plans
+
+*Section 27.*
+
+### Part I — Streamlining of Development Plan System
+
+**1** Part II of the principal Act (development plans) is amended as follows.
+
+#### Unitary development plans
+
+**2** (1) In section 12 (content of unitary development plan), in subsection (3) for the words from “other” to the end there is substituted
+
+> use of land in their area.
+>
+> (3A) The policies shall, subject to subsection (3B), include policies in respect of—
+>
+> (a) the conservation of the natural beauty and amenity of the land;
+>
+> (b) the improvement of the physical environment; and
+>
+> (c) the management of traffic.
+>
+> (3B) Regulations under this section may prescribe the aspects of such development and use with which the general policies in Part I of a unitary development plan are to be concerned, in which case the policies shall be concerned with those aspects and no others.
+
+(2) In subsection (4)(a) of that section “other”, in the second place where it occurs, and “or for any description of development or other use of such land” are omitted.
+
+(3) For subsection (6) of that section there is substituted—
+
+> (6) In formulating the general policies in Part I of a unitary development plan the authority shall have regard to—
+>
+> (a) any regional or strategic planning guidance given by the Secretary of State to assist them in the preparation of the plan;
+>
+> (b) current national policies;
+>
+> (c) the resources likely to be available; and
+>
+> (d) such other matters as the Secretary of State may prescribe or, in a particular case, direct.
+
+(4) After subsection (7) of that section there is inserted—
+
+> (7A) In formulating their proposals in Part II of a unitary development plan, the authority shall have regard to such information and other considerations as the Secretary of State may prescribe or, in a particular case, direct.
+
+(5) At the end of that section there is inserted—
+
+> (10) Regulations under this section may make different provision for different cases and shall be subject to any direction given, in a particular case, by the Secretary of State.
+
+**3** After that section there is inserted—
+
+> **Urban development corporations.**
+>
+> **12A** (1) The Secretary of State may direct that a unitary development plan—
+>
+> (a) shall not be prepared; or
+>
+> (b) shall not operate,
+>
+> in relation to the area of an urban development corporation.
+>
+> (2) The Secretary of State may direct that proposals for the alteration or replacement of a unitary development plan shall not be prepared in relation to the area of an urban development corporation.
+
+**4** For section 13 (publicity in connection with preparation of unitary development plan) there is substituted—
+
+> **Public participation.**
+>
+> **13** (1) When preparing a unitary development plan for their area and before finally determining its contents the local planning authority shall—
+>
+> (a) comply with—
+>
+> (i) any requirements imposed by regulations made under section 26; and
+>
+> (ii) any particular direction given to them by the Secretary of State with respect to a matter falling within any of paragraphs (a) to (c) or (e) of subsection (2) of that section; and
+>
+> (b) consider any representations made in accordance with those regulations.
+>
+> (2) Where the local planning authority have prepared a unitary development plan, before adopting it they shall—
+>
+> (a) make copies of it available for inspection at such places as may be prescribed by those regulations;
+>
+> (b) send a copy to the Secretary of State; and
+>
+> (c) comply with any requirements imposed by those regulations.
+>
+> (3) Each copy made available for inspection or sent under subsection (2) shall be accompanied by a statement of the prescribed period within which objections may be made to the authority.
+>
+> (4) In this section “the prescribed period” means such period as may be prescribed by or determined in accordance with regulations made under section 26 and in this Chapter “objections made in accordance with the regulations” means objections made—
+>
+> (a) in accordance with regulations made under that section; and
+>
+> (b) within the prescribed period.
+>
+> (5) The persons who may make objections in accordance with the regulations include, in particular, the Secretary of State.
+>
+> (6) A unitary development plan shall not be adopted by the authority under section 15 until—
+>
+> (a) after they have considered any objections made in accordance with the regulations; or
+>
+> (b) if no such objections are made, after the expiry of the prescribed period.
+
+**5** In section 14 (withdrawal of unitary development plan)—
+
+(a) in subsections (2) and (4) for “13(3)” there is substituted “ 13(2) ”; and
+
+(b) subsection (3) (concerning publicity) is omitted.
+
+**6** In section 15 (adoption of unitary development plan by local planning authority) for subsection (1) there is substituted—
+
+> (1) Subject to the following provisions of this section and sections 17 and 18, the local planning authority may by resolution adopt the unitary development plan, either as originally prepared or as modified so as to take account of—
+>
+> (a) any objections to the plan; or
+>
+> (b) any other considerations which appear to them to be material.
+
+**7** In section 16 (local inquiries) for subsection (1) there is substituted—
+
+> (1) Where any objections have been made, in accordance with the regulations, to proposals for a unitary development plan copies of which have been made available for inspection under section 13(2), the local planning authority shall cause a local inquiry or other hearing to be held for the purpose of considering the objections.
+>
+> (1A) The local planning authority may cause a local inquiry or other hearing to be held for the purpose of considering any other objections to the proposals.
+>
+> (1B) The local inquiry or other hearing shall be held by a person appointed by the Secretary of State or, in such cases as may be prescribed, by the authority themselves.
+
+**8** In section 17(1) (direction to consider proposals) for “consider modifying” there is substituted “ modify ”.
+
+**9** In sections 17(1) and 18(1) for “13(3)”, in both places where it occurs, there is substituted “ 13(2) ”.
+
+**10** In section 19(2) (approval of unitary development plan by Secretary of State) after “taken into account in” there is inserted “ preparing ”.
+
+**11** In section 20(1) (local inquiry, public examination and consultation by Secretary of State) for “regulations under this Chapter” there is substituted “ the regulations. ”
+
+**12** (1) In section 21 (alteration or replacement of unitary development plan) for subsection (1) there is substituted—
+
+> (1) A local planning authority may at any time prepare proposals—
+>
+> (a) for alterations to the unitary development plan for their area; or
+>
+> (b) for its replacement.
+>
+> (1A) If the Secretary of State directs them to do so, the authority shall prepare, within such time as he may direct, proposals for—
+>
+> (a) such alterations to the unitary development plan as he directs; or
+>
+> (b) its replacement.
+>
+> (1B) An authority shall not, without the consent of the Secretary of State, prepare proposals in respect of a unitary development plan if the plan or any part of it has been approved by the Secretary of State.
+
+(2) In subsection (2) of that section “Subject to section 22” is omitted.
+
+**13** Section 22 (short procedure for certain alterations and replacements) is omitted.
+
+**14** In section 23 (joint unitary development plans)—
+
+(a) subsections (2) to (4) and (9) and (10) are omitted;
+
+(b) in subsection (5) for “(3)” there is substituted “ (2) ”;
+
+(c) in subsection (6) for “(4)” there is substituted “ (3) ”; and
+
+(d) in subsection (8) for “making” there is substituted “ preparing ” and for “make” there is substituted “ prepare ”.
+
+**15** In section 26(2) (regulations with respect to publicity, etc. for unitary development plans)—
+
+(a) after paragraph (c) there is inserted—
+
+> (cc) make provision with respect to the circumstances in which representations with respect to the matters to be included in a plan or proposals are to be treated, for any of the purposes of this Chapter, as being objections made in accordance with the regulations;
+
+(b) in paragraph (f) for the words from “for the purpose” to “22(2)(b)” there is substituted “ in compliance with the regulations or available for inspection under section 13(2) ”; and
+
+(c) after that paragraph there is inserted—
+
+> (ff) make provision for steps taken in compliance with the regulations in respect of a unitary development plan which has been withdrawn to be taken into account in prescribed circumstances for the purposes of complying with the regulations in respect of a subsequent unitary development plan;
+
+.
+
+#### Structure and local plans
+
+**16** In section 31 (structure plans: continuity, form and content), for subsections (2) to (5) there is substituted—
+
+> (2) A structure plan shall contain a written statement formulating the authority’s general policies in respect of the development and use of land in their area.
+>
+> (3) The policies shall, subject to subsection (4), include policies in respect of—
+>
+> (a) the conservation of the natural beauty and amenity of the land;
+>
+> (b) the improvement of the physical environment; and
+>
+> (c) the management of traffic.
+>
+> (4) Regulations under this section may prescribe the aspects of such development and use with which the general policies in a structure plan are to be concerned, in which case the policies shall be concerned with those aspects and no others.
+>
+> (5) A structure plan shall also contain —
+>
+> (a) such diagrams, illustrations or other descriptive or explanatory matter in respect of the general policies as may be prescribed; and
+>
+> (b) such other matters as the Secretary of State may, in any particular case, direct.
+>
+> (6) In formulating their general policies the authority shall have regard to—
+>
+> (a) any regional or strategic planning guidance given by the Secretary of State to assist them in the preparation of the plan;
+>
+> (b) current national policies;
+>
+> (c) the resources likely to be available; and
+>
+> (d) such other matters as the Secretary of State may prescribe or, in a particular case, direct.
+>
+> (7) Where there is in operation, by virtue of section 7(7) of the 1971 Act, a structure plan relating to part of the area of a local planning authority, the authority shall, within such period (if any) as the Secretary of State may direct, prepare proposals for replacing the structure plans for the time being in operation with a single structure plan relating to the whole of their area.
+>
+> (8) The following provisions of this Chapter apply to such replacement as they apply to replacement in exercise of the power in section 32(1)(b).
+>
+> (9) Regulations under this section may make different provision for different cases and shall be subject to any direction given, in a particular case, by the Secretary of State.
+>
+> (10) For the purposes of this section, except subsection (6)(b), “policies” includes proposals.
+
+**17** For sections 32 to 41 (provisions with respect to the alteration and replacement of structure plans and the making, alteration and replacement of local plans and related provisions) there is substituted—
+
+> **Alteration and replacement of structure plans.**
+>
+> **32** (1) A local planning authority may at any time prepare proposals—
+>
+> (a) for alterations to the structure plan for their area; or
+>
+> (b) for its replacement.
+>
+> (2) If the Secretary of State directs them to do so, the authority shall prepare, within such time as he may direct, proposals for—
+>
+> (a) such alterations to the structure plan as he directs; or
+>
+> (b) its replacement.
+>
+> (3) An authority shall not, without the consent of the Secretary of State, prepare proposals in respect of a structure plan if the plan or any part of it has been approved by the Secretary of State under section 35A.
+>
+> (4) Proposals for the alteration of a structure plan may relate to the whole or part of the area to which the plan relates.
+>
+> (5) Proposals prepared under this section shall be accompanied by an explanatory memorandum.
+>
+> (6) The explanatory memorandum shall state—
+>
+> (a) the reasons which in the opinion of the authority justify each of their proposals;
+>
+> (b) any information on which the proposals are based;
+>
+> (c) the relationship of the proposals to general policies for the development and use of land in neighbouring areas which may be expected to affect the area to which the proposals relate,
+>
+> and may contain such illustrative material as the authority think appropriate.
+>
+> (7) Proposals for the alteration or replacement of a structure plan shall not become operative unless they are—
+>
+> (a) adopted by the authority (under section 35); or
+>
+> (b) approved by the Secretary of State (under section 35A).
+>
+> **Public participation.**
+>
+> **33** (1) When preparing proposals for the alteration or replacement of a structure plan for their area and before finally determining their contents the local planning authority shall—
+>
+> (a) comply with—
+>
+> (i) any requirements imposed by regulations made under section 53; and
+>
+> (ii) any particular direction given to them by the Secretary of State with respect to a matter falling within any of paragraphs (a) to (c) or (e) of subsection (2) of that section; and
+>
+> (b) consider any representations made in accordance with those regulations.
+>
+> (2) Where the authority have prepared proposals for the alteration or replacement of a structure plan they shall—
+>
+> (a) make copies of the proposals and the explanatory memorandum available for inspection at such places as may be prescribed by those regulations;
+>
+> (b) send a copy of the proposals and the explanatory memorandum to the Secretary of State; and
+>
+> (c) comply with any requirements imposed by those regulations.
+>
+> (3) Each copy made available for inspection or sent under subsection (2) shall be accompanied by a statement of the prescribed period within which objections may be made to the authority.
+>
+> (4) In this section “the prescribed period” means such period as may be prescribed by or determined in accordance with regulations made under section 53 and in this Chapter “objections made in accordance with the regulations” means objections made—
+>
+> (a) in accordance with regulations made under that section; and
+>
+> (b) within the prescribed period.
+>
+> (5) The persons who may make objections in accordance with the regulations include, in particular, the Secretary of State.
+>
+> (6) The proposals shall not be adopted by the authority under section 35 until—
+>
+> (a) after they have considered any objections made in accordance with the regulations; or
+>
+> (b) if no such objections are made, after the expiry of the prescribed period.
+>
+> **Withdrawal of proposals for alteration and replacement of structure plans.**
+>
+> **34** (1) Proposals for the alteration or replacement of a structure plan may be withdrawn by the local planning authority at any time before they have adopted them or the Secretary of State has approved them.
+>
+> (2) On the withdrawal of such proposals, the authority shall—
+>
+> (a) withdraw the copies made available for inspection in accordance with section 33(2); and
+>
+> (b) give notice that the proposals have been withdrawn to every person who has made an objection to them.
+>
+> **Adoption of proposals.**
+>
+> **35** (1) Subject to subsection (3) and sections 35A and 35B, the local planning authority may by resolution adopt proposals for the alteration or replacement of a structure plan, either as originally prepared or as modified so as to take account of—
+>
+> (a) any objections to the proposals; or
+>
+> (b) any other considerations which appear to them to be material.
+>
+> (2) If it appears to the Secretary of State that the proposals are unsatisfactory he may, at any time before the local planning authority have adopted the proposals, direct the authority to modify the proposals in such respects as are indicated in the direction.
+>
+> (3) An authority to whom such a direction is given shall not adopt the proposals unless—
+>
+> (a) they satisfy the Secretary of State that they have made the modifications necessary to conform with the direction; or
+>
+> (b) the direction is withdrawn.
+>
+> (4) Subject to the following provisions of this Chapter and to section 287, proposals for the alteration or replacement of a structure plan shall become operative on the date on which they are adopted.
+>
+> **Calling in of proposals for approval by Secretary of State.**
+>
+> **35A** (1) The Secretary of State may, at any time before the local planning authority have adopted proposals for the alteration or replacement of a structure plan, direct that all or any part of the proposals shall be submitted to him for his approval.
+>
+> (2) If he gives such a direction—
+>
+> (a) the local planning authority shall not take any further steps for the adoption of any of the proposals until the Secretary of State has given his decision on the proposals or the relevant part of the proposals; and
+>
+> (b) the proposals or the relevant part of the proposals shall not have effect unless approved by him and shall not require adoption by the authority under section 35.
+>
+> (3) Subsection (2)(a) applies in particular to holding or proceeding with an examination in public under section 35B(1).
+>
+> (4) The Secretary of State may, after considering proposals submitted to him in compliance with a direction under subsection (1)—
+>
+> (a) approve them, in whole or in part and with or without modifications or reservations; or
+>
+> (b) reject them.
+>
+> (5) In considering proposals so submitted to him the Secretary of State—
+>
+> (a) shall take into account any objections made in accordance with the regulations; and
+>
+> (b) may take into account any matters which he thinks relevant, whether or not they were taken into account in preparing the proposals.
+>
+> (6) For the purpose of taking into account any objection or matter, the Secretary of State may, but need not, consult with any local planning authority or other person.
+>
+> (7) The Secretary of State shall give the authority such statement as he considers appropriate of the reasons governing his decision on any proposals submitted to him.
+>
+> (8) Subject to section 287, proposals approved by the Secretary of State under this section shall become operative on such day as he may appoint.
+>
+> **Examination in public.**
+>
+> **35B** (1) Before adopting proposals for the alteration or replacement of a structure plan, the local planning authority shall, unless the Secretary of State otherwise directs, cause an examination in public to be held of such matters affecting the consideration of the proposals as—
+>
+> (a) they consider ought to be so examined; or
+>
+> (b) the Secretary of State directs.
+>
+> (2) Where proposals are submitted to the Secretary of State in compliance with a direction under section 35A(1), he may cause an examination in public to be held of any matter specified by him.
+>
+> (3) An examination in public shall be conducted by a person or persons appointed by the Secretary of State for the purpose.
+>
+> (4) No person shall have a right to be heard at an examination in public.
+>
+> (5) The following may take part in an examination in public—
+>
+> (a) in the case of an examination held under subsection (1), the local planning authority; and
+>
+> (b) in any case, any person invited to do so by the person or persons holding the examination or the person causing the examination to be held.
+>
+> (6) The Secretary of State may, after consultation with the Lord Chancellor, make regulations with respect to the procedure to be followed at any examination in public.
+>
+> (7) An examination in public shall constitute a statutory inquiry for the purposes of section l(l)(c) of the [^M69]Tribunals and Inquiries Act 1971 but shall not constitute such an inquiry for any other purpose of that Act.
+>
+> **Duties to notify authorities responsible for local plans**
+>
+> **35C** (1) An authority responsible for a structure plan shall, where any proposals of theirs for the alteration or replacement of a structure plan are adopted or approved—
+>
+> (a) notify any authority responsible for a local plan in their area that the proposals have been adopted or approved; and
+>
+> (b) supply that authority with a statement that the local plan is or, as the case may be, is not in general conformity with the altered or new structure plan.
+>
+> (2) A statement that a local plan is not in general conformity with a structure plan shall specify the respects in which it is not in such conformity.
+>
+> (3) An authority responsible for a structure plan shall, where any proposals of theirs for the alteration or replacement of a structure plan are withdrawn, notify any authority responsible for a local plan in their area that the proposals have been withdrawn.
+>
+> (4) Nothing in this section requires an authority to notify or supply a statement to themselves.
+>
+> (5) For the purposes of this section an authority shall be regarded as responsible—
+>
+> (a) for a structure plan, if they are entitled to prepare proposals for its alteration or replacement; and
+>
+> (b) for a local plan, if they are under a duty to prepare a local plan or are entitled to prepare proposals for its alteration or replacement.
+>
+> **Local plans**
+>
+> **Local plans.**
+>
+> **36** (1) The local planning authority shall, within such period (if any) as the Secretary of State may direct, prepare for their area a plan to be known as a local plan.
+>
+> (2) A local plan shall contain a written statement formulating the authority’s detailed policies for the development and use of land in their area.
+>
+> (3) The policies shall include policies in respect of—
+>
+> (a) the conservation of the natural beauty and amenity of the land;
+>
+> (b) the improvement of the physical environment; and
+>
+> (c) the management of traffic.
+>
+> (4) A local plan shall be in general conformity with the structure plan.
+>
+> (5) A local plan shall not contain—
+>
+> (a) any policies in respect of the winning and working of minerals or the depositing of mineral waste, unless it is a plan for a National Park;
+>
+> (b) any policies in respect of the depositing of refuse or waste materials other than mineral waste, unless it is a plan for a National Park or for an area where such depositing is not a county matter for the purposes of Schedule 1.
+>
+> (6) A local plan shall also contain—
+>
+> (a) a map illustrating each of the detailed policies; and
+>
+> (b) such diagrams, illustrations or other descriptive or explanatory matter in respect of the policies as may be prescribed,
+>
+> and may contain such descriptive or explanatory matter as the authority think appropriate.
+>
+> (7) A local plan may designate any part of the authority’s area as an action area, that is to say, an area which they have selected for the commencement during a prescribed period of comprehensive treatment by development, redevelopment or improvement (or partly by one and partly by another method).
+>
+> (8) If an area is so designated the plan shall contain a description of the treatment proposed by the authority.
+>
+> (9) In formulating their detailed policies, the authority shall have regard to—
+>
+> (a) such information and other considerations as the Secretary of State may prescribe or, in a particular case, direct; and
+>
+> (b) the provisions of any scheme under paragraph 3 of Schedule 32 to the [^M70]Local Government, Planning and Land Act 1980 relating to land in their area which has been designated under that Schedule as an enterprise zone.
+>
+> (10) Subject to the following provisions of this Chapter and section 287, a local plan shall become operative on the date on which it is adopted.
+>
+> (11) For the purposes of this section “policies” includes proposals.
+>
+> **Minerals local plans.**
+>
+> **37** (1) A mineral planning authority for an area other than a National Park shall, within such period (if any) as the Secretary of State may direct, prepare for their area a plan to be known as a minerals local plan.
+>
+> (2) A minerals local plan shall contain a written statement formulating the authority’s detailed policies for their area in respect of development consisting of the winning and working of minerals or involving the depositing of mineral waste.
+>
+> (3) The local planning authority for a National Park shall, within such period (if any) as the Secretary of State may direct—
+>
+> (a) prepare for their area a plan to be known as a minerals local plan; or
+>
+> (b) include in their local plan their detailed policies in respect of development consisting of the winning and working of minerals or involving the depositing of mineral waste.
+>
+> (4) In formulating the policies in a minerals local plan, the authority shall have regard to such information and other considerations as the Secretary of State may prescribe or, in a particular case, direct.
+>
+> (5) Subsections (4), (6), (10) and (11) of section 36 apply with respect to minerals local plans as they apply with respect to local plans.
+>
+> (6) The following provisions of this Chapter apply with respect to minerals local plans as they apply with respect to local plans, but as if references to a local planning authority were, in relation to an area other than a National Park, references to a mineral planning authority.
+>
+> **Waste policies.**
+>
+> **38** (1) In this section —
+>
+> - “waste policies” means detailed policies in respect of development which involves the depositing of refuse or waste materials other than mineral waste; and
+> - “waste local plan” means a plan containing waste policies.
+>
+> (2) A local planning authority other than an excluded authority shall, within such period (if any) as the Secretary of State may direct—
+>
+> (a) prepare a waste local plan for their area; or
+>
+> (b) include their waste policies in their minerals local plan.
+>
+> (3) A local planning authority are an excluded authority for the purposes of subsection (2) if they are an authority—
+>
+> (a) for a National Park;
+>
+> (b) for an area where waste policies are not a county matter for the purposes of Schedule 1.
+>
+> (4) A local planning authority for a National Park shall within such period (if any) as the Secretary of State may direct—
+>
+> (a) prepare a waste local plan for their area; or
+>
+> (b) include their waste policies in—
+>
+> (i) their minerals local plan; or
+>
+> (ii) their local plan.
+>
+> (5) In formulating their waste policies, the authority shall have regard to such information and other considerations as the Secretary of State may prescribe or, in a particular case, direct.
+>
+> (6) Subsections (4), (6), (10) and (11) of section 36 apply with respect to waste local plans as they apply with respect to local plans.
+>
+> (7) The following provisions of this Chapter apply with respect to waste local plans as they apply with respect to local plans, but as if references to a local planning authority were references to the authority who are entitled to prepare a waste local plan.
+>
+> **Alteration and replacement of local plans.**
+>
+> **39** (1) A local planning authority may at any time prepare proposals—
+>
+> (a) for alterations to the local plan for their area; or
+>
+> (b) for its replacement.
+>
+> (2) A local planning authority shall—
+>
+> (a) consider whether they need to prepare such proposals, if they have been supplied with a statement under section 35C that the local plan is not in general conformity with the structure plan; and
+>
+> (b) prepare such proposals, if they are directed to do so by the Secretary of State, within such period (if any) as he may direct.
+>
+> (3) An authority shall not, without the consent of the Secretary of State, prepare such proposals if the plan or any part of it has been approved by the Secretary of State.
+>
+> (4) Proposals for the alteration of a local plan may relate to the whole or part of the area to which the plan relates.
+>
+> (5) Subject to the following provisions of this Chapter and section 287, proposals for the alteration or replacement of a local plan shall become operative on the date on which they are adopted.
+>
+> **Public participation.**
+>
+> **40** (1) When preparing a local plan for their area or proposals for its alteration or replacement and before finally determining the contents of the plan or the proposals the local planning authority shall—
+>
+> (a) comply with—
+>
+> (i) any requirements imposed by regulations made under section 53; and
+>
+> (ii) any particular direction given to them by the Secretary of State with respect to a matter falling within any of paragraphs (a) to (c) or (e) of subsection (2) of that section; and
+>
+> (b) consider any representations made in accordance with those regulations.
+>
+> (2) Subject to section 46(1), where the authority have prepared a local plan or proposals for its alteration or replacement they shall—
+>
+> (a) make copies of the relevant documents available for inspection at such places as may be prescribed by those regulations;
+>
+> (b) send a copy of the relevant documents to the Secretary of State; and
+>
+> (c) comply with any requirements imposed by those regulations.
+>
+> (3) In subsection (2) “the relevant documents” means—
+>
+> (a) the plan or the proposals; and
+>
+> (b) any statement supplied under section 46(2).
+>
+> (4) Each copy made available for inspection or sent under subsection (2) shall be accompanied by a statement of the prescribed period within which objections may be made to the authority.
+>
+> (5) In this section “the prescribed period” means such period as may be prescribed by or determined in accordance with regulations made under section 53 and in this Chapter “objections made in accordance with the regulations” means objections made—
+>
+> (a) in accordance with regulations made under that section; and
+>
+> (b) within the prescribed period.
+>
+> (6) The persons who may make objections in accordance with the regulations include, in particular, the Secretary of State.
+>
+> (7) A local plan or proposals for its alteration or replacement shall not be adopted by the authority under section 43 until—
+>
+> (a) after they have considered any objections made in accordance with the regulations; or
+>
+> (b) if no such objections are made, after the expiry of the prescribed period.
+
+**18** For section 42(1) and (2) (local inquiries) there is substituted—
+
+> (1) Where any objections have been made, in accordance with the regulations, to proposals for a local plan or for its alteration or replacement copies of which have been made available for inspection under section 40(2), the local planning authority shall cause a local inquiry or other hearing to be held for the purpose of considering the objections.
+>
+> (2) The local planning authority may cause a local inquiry or other hearing to be held for the purpose of considering any other objections to the proposals.
+>
+> (2A) No local inquiry or other hearing need be held under this section if all persons who have made objections have indicated in writing that they do not wish to appear.
+
+**19** (1) In section 43 (adoption of proposals) for subsections (1) and (2) there is substituted—
+
+> (1) Subject to the following provisions of this section and section 44, the local planning authority may by resolution adopt proposals for a local plan or for its alteration or replacement, either as originally prepared or as modified so as to take account of—
+>
+> (a) any objections to the plan; or
+>
+> (b) any other considerations which appear to them to be material.
+
+(2) In subsection (4) of that section for “consider modifying” there is substituted “ modify ”.
+
+**20** (1) In section 44 (calling in of proposals for approval by Secretary of State) in subsection (1) after “proposals” in the second place where it occurs there is inserted “ or any part of them ”.
+
+(2) For subsection (2) of that section there is substituted—
+
+> (2) If he gives such a direction—
+>
+> (a) the authority shall not take any further steps for the adoption of any of the proposals until the Secretary of State has given his decision on the proposals or the relevant part of the proposals; and
+>
+> (b) the proposals or the relevant part of the proposals shall not have effect unless approved by him and shall not require adoption by the authority under section 43.
+
+**21** (1) In section 45 (approval of proposals by Secretary of State), in subsection (3)(a) after “with” there is inserted “ the ”.
+
+(2) After subsection (4) of that section there is inserted—
+
+> (5) Subject to section 287, proposals approved by the Secretary of State under this section shall become operative on such day as he may appoint.
+
+**22** For sections 46 to 48 (conformity between local plan and structure plan) there is substituted—
+
+> **Conformity between plans.**
+>
+> **46** (1) An authority responsible for a local plan shall not make copies available as mentioned in section 40(2) unless—
+>
+> (a) they have served on the authority responsible for the structure plan in their area a copy of the plan or the proposals; and
+>
+> (b) such period as may be prescribed has elapsed since they served the copy of the plan or proposals.
+>
+> (2) Where a local planning authority have been served with a copy as mentioned in subsection (1) they shall, before the end of any period prescribed for the purposes of that subsection, supply the authority responsible for the local plan with—
+>
+> (a) a statement that the plan or the proposals are in general conformity with the structure plan; or
+>
+> (b) a statement that the plan or the proposals are not in such conformity.
+>
+> (3) A statement that a plan or proposals are not in such conformity shall specify the respects in which the plan or proposals are not in such conformity.
+>
+> (4) Any such statement shall be treated for the purposes of this Chapter as an objection made in accordance with the regulations.
+>
+> (5) Nothing in this section requires an authority to serve a copy on or supply a statement to themselves.
+>
+> (6) Where—
+>
+> (a) a local planning authority propose to make, alter or replace a local plan;
+>
+> (b) copies of proposals for the alteration or replacement of the structure plan for their area have been made available for inspection under section 33(2); and
+>
+> (c) the authority mentioned in paragraph (a) include in any relevant copy of the plan or proposals a statement that they are making the permitted assumption,
+>
+> the permitted assumption shall, subject to subsection (9), be made for all purposes (including in particular any question as to conformity between plans).
+>
+> (7) In this section “the permitted assumption” means the assumption that—
+>
+> (a) the proposals mentioned in subsection (6)(b); or
+>
+> (b) if any proposed modifications to those proposals are published in accordance with regulations made under section 53, the proposals as so modified,
+>
+> have been adopted.
+>
+> (8) For the purposes of subsection (6)(c) a copy is a relevant copy of a plan or proposals if it is—
+>
+> (a) served under subsection (1)(a); or
+>
+> (b) made available or sent under section 40(2).
+>
+> (9) The permitted assumption shall not be made at any time after the authority mentioned in subsection (6)(a) know that the proposals mentioned in subsection (6)(b) have been withdrawn.
+>
+> (10) The provisions of a local plan prevail for all purposes over any conflicting provisions in the relevant structure plan unless the local plan is one—
+>
+> (a) stated under section 35C not to be in general conformity with the structure plan; and
+>
+> (b) neither altered nor replaced after the statement was supplied.
+>
+> (11) The Secretary of State may make regulations with respect to cases where—
+>
+> (a) provisions in a structure plan or a local plan conflict with provisions in—
+>
+> (i) a minerals local plan; or
+>
+> (ii) a waste local plan;
+>
+> (b) a structure plan and a local plan are made by the same authority and the provisions of the two plans conflict.
+>
+> (12) Subsection (5) of section 35C applies for the purposes of this section as it applies for the purposes of that.
+
+**23** In section 49 “repeal” is omitted.
+
+**24** (1) In section 50 (joint structure and local plans), in subsection (1), the words “for the repeal and” and subsections (2) and (3) are omitted.
+
+(2) In subsection (4) of that section “repeal and” is omitted and for “33(3)” there is substituted “ 33(2) ”.
+
+(3) In subsection (5) of that section “repeal and” is omitted and for “(3)” there is substituted “ (2) ”.
+
+(4) In subsection (6) of that section—
+
+(a) in the opening words, “repeal” is omitted;
+
+(b) in paragraph (a)—
+
+(i) the words from the beginning to “except that” and the words “or 40(2)(a)” and “or 40(3)” are omitted;
+
+(ii) for “39(5)(a)” there is substituted “ 40(2) ”; and
+
+(iii) for “39(6)” there is substituted “ 40(4) ”; and
+
+(c) in paragraph (b) “and they may do so as respects any part of that area to which the proposals relate” is omitted.
+
+(5) For subsection (7) of that section there is substituted—
+
+> (7) Where a structure plan has been jointly prepared by two or more local planning authorities, the duty—
+>
+> (a) to notify and supply a statement under section 35C; and
+>
+> (b) to supply a statement under section 46,
+>
+> shall apply to each of those authorities.
+>
+> (7A) Where a local plan, or proposals for its alteration or replacement have been jointly prepared by two or more local planning authorities—
+>
+> (a) the requirement to serve a copy under subsection (1) of section 46; and
+>
+> (b) the right to be supplied with a statement under subsection (2) of that section,
+>
+> shall apply to each of those authorities.
+
+(6) In subsection (8) of that section “repeal” and “in accordance with the provisions of the relevant local plan scheme” are omitted and for “38” there is substituted “ 39 ”.
+
+(7) For subsection (9) of that section there is substituted—
+
+> (9) The date of the coming into operation—
+>
+> (a) of proposals for the alteration or replacement of a structure plan prepared jointly by two or more local planning authorities; and
+>
+> (b) of a local plan or proposals for its alteration or replacement so prepared,
+>
+> shall be a date jointly agreed by those authorities.
+
+**25** In section 51(1) “repeal”, in both places where it occurs, is omitted.
+
+**26** After section 51 there is inserted—
+
+> **Urban development corporations.**
+>
+> **51A** (1) The Secretary of State may direct—
+>
+> (a) that a structure plan shall not operate; or
+>
+> (b) that a local plan shall not be prepared or operate,
+>
+> in relation to the area of an urban development corporation.
+>
+> (2) The Secretary of State may direct that proposals for the alteration or replacement of a structure plan or a local plan shall not be prepared in relation to the area of an urban development corporation.
+
+**27** (1) In section 52(1) (reviews of plans in enterprise zones) for paragraphs (a) and (b) there is substituted “ any local planning authority for an area in which the enterprise zone is wholly or partly situated shall consider whether they need, in the light of the provisions in the scheme or modified scheme, to prepare proposals for the alteration or replacement of any structure or local plan in relation to which they have power to prepare such proposals. ”
+
+(2) Subsections (2) and (3) are omitted.
+
+**28** (1) In section 53 (regulations with respect to publicity etc. for structure plans and local plans), in subsection (1) “repeal” is omitted.
+
+(2) In subsection (2) of that section—
+
+(a) in paragraph (b) “repeal” is omitted;
+
+(b) after paragraph (c) there is inserted—
+
+> (cc) make provision with respect to the circumstances in which representations with respect to the matters to be included in a plan or proposals are to be treated, for any of the purposes of this Chapter, as being objections made in accordance with the regulations;
+
+(c) in paragraph (f) for the words from “for the purpose” to “40(2)(a)” there is substituted “ in compliance with the regulations or available for inspection under section 33(2) or 40(2) ”;
+
+(d) after that paragraph there is inserted—
+
+> (ff) make provision for steps taken in compliance with the regulations in respect of a plan or proposal which has been withdrawn to be taken into account in prescribed circumstances for the purposes of complying with the regulations in respect of a subsequent plan or proposal;
+
+(e) in paragraph (g) “repealing” is omitted.
+
+(3) Subsection (5) of that section (date on which plans or proposals become operative) is omitted.
+
+**29** (1) In section 54 (meaning of “development plan” outside Greater London and the metropolitan counties) in subsection (1) for paragraphs (a) to (d) there is substituted—
+
+> (a) the provisions of the structure plan for the time being in operation in the area;
+>
+> (b) any alterations to that structure plan;
+>
+> (c) the provisions of the local plan and any minerals local plan or waste local plan for the time being in operation in the area;
+>
+> (d) any alterations to that local plan or minerals local plan or waste local plan,
+>
+> together with the resolutions of the authority who made or altered the plan or, as the case may be the Secretary of State’s notice of approval.
+
+(2) In subsection (4) of that section at the end there is inserted “ and Part III of Schedule 4 to the [^M71]Planning and Compensation Act 1991 ”.
+
+### Part II — Minor and Consequential Amendments
+
+**30** In section 284(1)(a) of the principal Act (validity of development plans etc.)—
+
+(a) after “local plan” there is inserted “ minerals local plan, waste local plan ”; and
+
+(b) “repeal”, in both places where it occurs, is omitted.
+
+**31** In section 287 of that Act (proceedings for questioning validity of development plans, etc.)—
+
+(a) in subsection (1) after “local plan” there is inserted “ minerals local plan or waste local plan ”; and
+
+(b) in subsections (1) to (3) and (5) “repeal” is omitted.
+
+**32** In section 306(2) of that Act (contributions by local authorities and statutory undertakers)—
+
+(a) after “local plan” there is inserted “ minerals local plan or waste local plan ”; and
+
+(b) “repeal” is omitted.
+
+**33** In section 324(1)(a) (rights of entry in connection with preparation etc. of plans), after “local plan” there is inserted “ minerals local plan or waste local plan ”.
+
+**34** In section 336(1) (interpretation) in the definition of “development plan” after “Schedule 2” there is inserted “ and Part III of Schedule 4 to the Planning and Compensation Act 1991 ”.
+
+**35** (1) In Schedule 1 to that Act (local planning authorities: distribution of functions) for paragraph 2 there is substituted—
+
+> **2** The functions of a local planning authority—
+>
+> (a) under sections 30 to 35B, 38(2) and 50(1), (4), (5) and (7) shall be exercisable by the county planning authority and not by the district planning authority;
+>
+> (b) under section 36, 39, 40, 42 to 44 and 50(6), (7A) and (8) shall be exercisable by the district planning authority and not by the county planning authority;
+>
+> and references to a local planning authority in those sections shall be construed accordingly.
+
+(2) In paragraph 7(3) of that Schedule, in paragraph (a)—
+
+(a) for sub-paragraphs (i) to (iii) there is substituted—
+
+> (i) of any policy contained in a structure plan which has been adopted or approved;
+>
+> (ii) of any policy contained in proposals made available for inspection under section 33(2);
+
+and
+
+(b) for sub-paragraphs (v) to (vii) there is substituted—
+
+> (v) of any policy contained in a minerals local plan or a waste local plan which has been adopted or approved;
+>
+> (vi) of any policy contained in proposals for the making, alteration or replacement of a minerals local plan or a waste local plan which have been made available for inspection under section 40(2);
+>
+> (vii) of any proposal contained in a local plan which was prepared by the county planning authority and continued in operation by virtue of paragraph 44 of Schedule 4 to the [^M72]Planning and Compensation Act 1991;
+>
+> (viii) of any proposal contained in proposals in respect of a local plan which have been prepared by the county planning authority and are adopted or approved by virtue of paragraph 43 of that Schedule or made available for inspection in pursuance of that paragraph;
+
+.
+
+**36** (1) In Schedule 2 to that Act (transitional provisions with respect to unitary development plans)—
+
+(a) in Part I, paragraphs 3, 5 and 6, and
+
+(b) in Part II, paragraphs 3 to 16 and 18,
+
+are omitted.
+
+(2) For paragraph 4 of Part I of that Schedule and paragraph 17 of Part II of that Schedule there is substituted in each case—
+
+> **0** (1) Sub-paragraph (2) applies where—
+>
+> (a) a local plan is in force in the area of a local planning authority;
+>
+> (b) a unitary development plan is being prepared;
+>
+> (c) the local planning authority who are preparing that plan have published in the prescribed manner a statement in the prescribed form identifying a policy included in the plan as an existing policy; and
+>
+> (d) a local inquiry or other hearing is held for the purpose of considering any objection to the plan.
+>
+> (2) Where this sub-paragraph applies, the person holding the inquiry or other hearing need not allow an objector to appear if he is satisfied that—
+>
+> (a) the objection is to a policy identified in the statement published under sub-paragraph (1)(c);
+>
+> (b) the policy so identified is an existing policy; and
+>
+> (c) there has been no significant change in circumstances affecting the existing policy since it first formed part of the plan mentioned in sub-paragraph (1)(a).
+>
+> (3) In this paragraph “existing policy” means a policy or proposal the substance of which (however expressed) was contained in a local plan in force as mentioned in sub-paragraph (1)(a).
+
+**37** (1) In Schedule 13 to that Act (blighted land) in paragraph 1 in Note (1) for paragraphs (a) and (b) there is substituted—
+
+> (a) proposals for the alteration or replacement of a structure plan which have been made available for inspection under section 33(2);
+>
+> (b) any proposed modifications to those proposals which have been published in accordance with regulations under section 53.
+
+(2) In Note (2) to that paragraph for the words from “33(9)” to the end there is substituted “ 34 ”.
+
+(3) In Note (5) for “in force” there is substituted “ in operation ”.
+
+(4) After that Note there is inserted—
+
+> (5A) In Note (5) the reference to a local plan in operation includes a reference to a minerals local plan, a waste local plan, which in either case is in operation, and to a local plan continued in operation by virtue of paragraph 44 of Schedule 4 to the [^M73]Planning and Compensation Act 1991.
+
+(5) In Note (7) to that paragraph for the words from “and all references” to the end there is substituted “ and Notes (1) to (4) shall be omitted ”.
+
+(6) In paragraph 2 of that Schedule in paragraph (a) for “in force” there is substituted “ in operation ”.
+
+(7) For Note (1) to paragraph 2 there is substituted—
+
+> (1) In this paragraph the reference to a local plan in operation includes a reference to a minerals local plan, a waste local plan, which in either case is in operation, and to a local plan continued in operation by virtue of paragraph 44 of Schedule 4 to the [^M74]Planning and Compensation Act 1991, and also includes—
+>
+> (a) proposals for the making or alteration and replacement of any such plan where copies of the proposals have been made available for inspection under section 40(2) or by virtue of paragraph 43 of Schedule 4 to the [^M75]Planning and Compensation Act 1991; and
+>
+> (b) any proposed modifications to those proposals which have been published in accordance with regulations under section 53.
+
+(8) Notes (2) and (5) to that paragraph are omitted.
+
+(9) In Note (3) to that paragraph “also” is omitted.
+
+(10) In paragraph 3 of that Schedule, in Note (1)—
+
+(a) in paragraph (a) for “13(3)” there is substituted “ 13(2) ”; and
+
+(b) in paragraph (b) “or under section 22” is omitted.
+
+(11) In Note (2) to that paragraph “13(7) or” is omitted.
+
+(12) In paragraph 4 of that Schedule, in Note (1)—
+
+(a) in paragraph (a) for “13(3)” there is substituted “ 13(2) ”;
+
+(b) in paragraph (b) “or under section 22” is omitted.
+
+(13) In Note (2) to that paragraph “13(7) or” is omitted.
+
+**38** In Schedule 4 to the [^M76]Planning (Consequential Provisions) Act 1990—
+
+(a) in paragraph 1, in the Table, the entry relating to section 9(4) of the 1971 Act and paragraph 2 of that Schedule is omitted;
+
+(b) paragraph 2 is omitted.
+
+**[^F38]39** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F39]Part III — Transitional Provisions
+
+#### [^F39] Interpretation
+
+**[^F39]40** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F39] Unitary development plans
+
+**[^F39]41** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F39] Structure plans
+
+**[^F39]42** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F39] Local plans
+
+**[^F39]43** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F39]44** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F39]45** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F39] Minerals and waste local plans
+
+**[^F39]46** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F39] Duty of structure plan authority to notify authorities responsible for saved local plans et ceteralaetc.
+
+**[^F39]47** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F39] Consultation
+
+**[^F39]48** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F39] Joint plans
+
+**[^F39]49** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F39] Proceedings for questioning validity of development plans
+
+**[^F39]50** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F39] The Isles of Scilly
+
+**[^F39]51** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 5 — Simplified Planning Zones
+
+*Section 28.*
+
+### Part I — Modification of Procedure for Making or Altering Schemes
+
+#### Procedure before and after deposit of proposals
+
+**1** In Schedule 7 to the principal Act (simplified planning zones) for paragraphs 5 to 7 there is substituted—
+
+> **Steps to be taken before depositing proposals**
+>
+> **5** (1) A local planning authority proposing to make or alter a simplified planning zone scheme shall, before determining the content of their proposals, comply with this paragraph.
+>
+> (2) They shall—
+>
+> (a) consult the Secretary of State having responsibility for highways as to the effect any proposals they may make might have on existing or future highways,
+>
+> (b) if they are the district planning authority, consult the county council—
+>
+> (i) as county planning authority, and
+>
+> (ii) as to the effect which any matters the district planning authority are considering including in the proposals might have on existing or future highways, and
+>
+> (c) consult or notify such persons as regulations may require them to consult or, as the case may be, notify.
+>
+> (3) They shall take such steps as may be prescribed or as the Secretary of State may, in a particular case, direct to publicise—
+>
+> (a) the fact that they propose to make or alter a simplified planning zone scheme, and
+>
+> (b) the matters which they are considering including in the proposals.
+>
+> (4) They shall consider any representations that are made in accordance with regulations.
+>
+> **Procedure after deposit of proposals**
+>
+> **6** Where a local planning authority have prepared a proposed simplified planning zone scheme, or proposed alterations to a simplified planning zone scheme, they shall—
+>
+> (a) make copies of the proposed scheme or alterations available for inspection at such places as may be prescribed,
+>
+> (b) take such steps as may be prescribed for the purpose of advertising the fact that the proposed scheme or alterations are so available and the places at which, and times during which, they may be inspected,
+>
+> (c) take such steps as may be prescribed for inviting objections to be made within such period as may be prescribed, and
+>
+> (d) send a copy of the proposed scheme or alterations to the Secretary of State and to the Secretary of State having responsibility for highways and, if they are the district planning authority, to the county council.
+
+#### Dealing with objections, etc.
+
+**2** (1) For paragraph 8(1) to (3) (objections: local inquiry or other hearing) there is substituted—
+
+> **Procedure for dealing with objections**
+>
+> **8** (1) Where objections to the proposed scheme or alterations are made, the local planning authority may—
+>
+> (a) for the purpose of considering the objections, cause a local inquiry or other hearing to be held by a person appointed by the Secretary of State or, in such cases as may be prescribed, appointed by the authority, or
+>
+> (b) require the objections to be considered by a person appointed by the Secretary of State.
+>
+> (2) A local planning authority shall exercise the power under sub-paragraph (1), or paragraph (a) or (b) of that sub-paragraph, if directed to do so by the Secretary of State.
+
+(2) For paragraph 11(3) and (4) (consideration of objections, etc., by Secretary of State) there is substituted—
+
+> (3) Where on taking the proposals into consideration the Secretary of State does not determine then to reject them he shall, before determining whether or not to approve them, consider any objections made in accordance with regulations (and not withdrawn) except objections which—
+>
+> (a) have already been considered by the local planning authority or by a person appointed by the Secretary of State, or
+>
+> (b) have already been considered at a local inquiry or other hearing.
+>
+> (4) The Secretary of State may—
+>
+> (a) for the purpose of considering any objections and the views of the local planning authority and of such other persons as he thinks fit, cause a local inquiry or other hearing to be held by a person appointed by him, or
+>
+> (b) require such objections and views to be considered by a person appointed by him.
+>
+> (5) In considering the proposals the Secretary of State may consult with, or consider the views of, any local planning authority or any other person; but he need not do so, or give an opportunity for the making or consideration of representations or objections, except so far as he is required to do so by sub-paragraph (3).
+
+### Part II — Minor and Consequential Amendments
+
+**3** In Schedule 1 to that Act, paragraph 9(2) and (3) is omitted.
+
+**4** Schedule 7 to that Act is amended as follows.
+
+**5** At the end of paragraph 4(1) there is added “ and, in either case, requires the local planning authority to take all the steps required by this Schedule for the adoption of proposals for the making or, as the case may be, alteration of a scheme. ”
+
+**6** In paragraph 8(4) for “to hold a local inquiry or other hearing” there is substituted “ for the purposes of this paragraph ”.
+
+**7** (1) In paragraph 9 for sub-paragraph (1) there is substituted—
+
+> (1) After the expiry of the period for making objections or, if objections have been made in accordance with the regulations, after considering those objections and the views of any person holding an inquiry or hearing or considering the objections under paragraph 8, the local planning authority may by resolution adopt the proposals (subject to the following provisions of this paragraph and paragraph 10).
+
+(2) In sub-paragraph (3) of that paragraph for “consider modifying” there is substituted “ modify ”.
+
+**8** In paragraph 10(2)(a) after “hearing” there is inserted “ or any consideration of objections ”.
+
+**9** For paragraph 12(1) there is substituted—
+
+> **12** (1) Where—
+>
+> (a) a local planning authority are directed under paragraph 3 to make a simplified planning zone scheme which the Secretary of State considers appropriate or to alter such a scheme in such manner as he considers appropriate, and
+>
+> (b) the Secretary of State is satisfied, after holding a local inquiry or other hearing, that the authority are not taking within a reasonable period the steps required by this Schedule for the adoption of proposals for the making or, as the case may be, alteration of a scheme,
+>
+> he may himself make a scheme or, as the case may be, the alterations.
+
+**10** In paragraph 13(2)—
+
+(a) after paragraph (b) there is inserted—
+
+> (bb) make provision with respect to the circumstances in which representations with respect to the matters to be included in such a scheme or proposals for its alteration are to be treated, for the purposes of this Schedule, as being objections made in accordance with regulations;
+
+and
+
+(b) in paragraph (e) the words from “for the purpose” to “6(2)” are omitted.
+
+## SCHEDULE 6 — Planning Compensation Repeals: Minor and Consequential Amendments
+
+*Section 31.*
+
+### Land Compensation Act 1961 (c. 33)
+
+**1** (1) In section 15 of the Land Compensation Act 1961 (assumptions not directly derived from development plans)—
+
+[^F40]a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) in subsection (4), paragraphs (a) and (b) are omitted.
+
+(2) This paragraph shall have effect, or be treated as having had effect, in relation to compensation which fell or falls to be assessed by reference to prices current on 16th November 1990 or on any subsequent date.
+
+### Gas Act 1965 (c. 36)
+
+**2** In Schedule 3 to the Gas Act 1965, paragraph 3 is omitted.
+
+### Public Expenditure and Receipts Act 1968 (c.14)
+
+**3** In Schedule 3 to the Public Expenditure and Receipts Act 1968 (variation of fees) in paragraph 7, sub-paragraph (b) is omitted.
+
+### Post Office Act 1969 (c.48)
+
+**4** In Schedule 9 to the Post Office Act 1969 (transitional provisions) in paragraph 27(7) for “Parts V and XII of the Town and Country Planning Act 1990” there is substituted “ Part XII of the Town and Country Planning Act 1990 ”.
+
+### Land Compensation Act 1973 (c. 26)
+
+**5** (1) In section 5 of the Land Compensation Act 1973 (assessment of compensation: assumptions as to planning permission)—
+
+(a) for subsection (2) there is substituted—
+
+> (2) Subject to subsection (3) below, it shall be assumed that, in respect of the land in which the interest subsists (“the relevant land”) or any part of it, planning permission would be granted—
+>
+> (a) subject to the condition set out in Schedule 10 to the Town and Country Planning Act 1990, for any development of a class specified in paragraph 1 of Schedule 3 to that Act; and
+>
+> (b) for any development of a class specified in paragraph 2 of Schedule 3 to that Act.
+
+; and
+
+(b) in subsection (3), paragraphs (a) and (b) are omitted.
+
+(2) This paragraph shall have effect, or be treated as having had effect, where the relevant date for the purposes of Part I of the [^M77]Land Compensation Act 1973 fell or falls on or after 16th November 1990.
+
+### Civil Aviation Act 1982 (c. 16)
+
+**6** In section 53(1)(a) of the Civil Aviation Act 1982 “114,” is omitted.
+
+### Airports Act 1986 (c.31)
+
+**7** In section 61(1)(a) of the Airports Act 1986 “114,” is omitted.
+
+### The principal Act
+
+**8** The principal Act is amended as follows.
+
+**9** In section 55 (meaning of development) subsection (6) (meaning of new development) is omitted.
+
+**10** In section 56(5) (time when development begun) for paragraph (b) there is substituted—
+
+> (b) development of a class specified in paragraph 1 or 2 of Schedule 3;
+
+.
+
+**11** Sections 80 and 81 (review of planning decisions where compensation claimed under Part V) are omitted.
+
+**12** In section 90(3) (development with Government authorisation) for “Parts V and” there is substituted “ Part ”.
+
+**13** (1) In section 107(4) (compensation where planning permission revoked or modified) for “for any development of the land of any class specified in Schedule 3” there is substituted
+
+> —
+>
+> (a) subject to the condition set out in Schedule 10, for any development of the land of a class specified in paragraph 1 of Schedule 3;
+>
+> (b) for any development of a class specified in paragraph 2 of Schedule 3.
+
+(2) This paragraph shall have effect, or be treated as having had effect, in relation to claims made on or after 16th November 1990.
+
+**14** In section 109(6) (apportionment of compensation for depreciation) for “in sections 110 and 113” there is substituted “ section 110 ”.
+
+**15** In section 111 (recovery of compensation under section 107 on subsequent development)—
+
+(a) in subsections (1) and (2) “new”, in both places where it occurs, is omitted;
+
+(b) in subsection (2) for “and (4)” there is substituted “ to (5) ”; and
+
+(c) for subsection (5) there is substituted—
+
+> (5) This section does not apply to any development—
+>
+> (a) of a class specified in paragraph 1 of Schedule 3 which is carried out in accordance with the condition set out in Schedule 10; or
+>
+> (b) of a class specified in paragraph 2 of Schedule 3.
+
+**16** In section 112 (amount recoverable under section 111 and provisions for payment or remission of it) the following are omitted—
+
+(a) in subsection (9), “new”;
+
+(b) in subsection (12), paragraph (a); and
+
+(c) in subsection (13), “paragraph (a) or paragraph (b) of”.
+
+**17** Section 113 (contribution of Secretary of State where compensation could have been claimed under Part V) is omitted.
+
+**18** In section 138(2)(a) (circumstances in which land incapable of reasonably beneficial use) for “new development,” there is substituted “ development other than any development specified in paragraph 1 or 2 of Schedule 3; ”.
+
+**19** In section 144 (special provisions as to compensation where purchase notice served)—
+
+(a) in subsection (2)(b), for “existing use value” there is substituted “ Schedule 3 value ”; and
+
+(b) in subsection (6), for the definition of “existing use value” there is substituted—
+
+> “Schedule 3 value”, in relation to such an interest, means the value of that interest calculated on the assumption that planning permission would be granted—
+>
+> (a) subject to the condition in Schedule 10, for any development of a class specified in paragraph 1 of Schedule 3; and
+>
+> (b) for any development of a class specified in paragraph 2 of Schedule 3.
+
+**20** In section 198(4)(a) (tree preservation orders) “80, 81” is omitted.
+
+**21** In section 220(3)(a) (advertisement regulations) “80, 81” is omitted.
+
+**22** In section 262(4) and (7)(a) (meaning of “statutory undertakers”) “123” is omitted.
+
+**23** In section 263(3) (meaning of “operational land”) “123(3) and (4)” is omitted.
+
+**24** In section 284(3) (validity of orders, etc.) paragraph (c) is omitted.
+
+**25** (1) In section 298 (supplementary provisions as to Crown and Duchy interests) for subsections (1) and (2) there is substituted—
+
+> (1) Where there is a Crown interest in any land, sections 109 to 112 shall have effect in relation to any private interest or Duchy interest as if the Crown interest were a private interest.
+>
+> (2) Where there is a Duchy interest in any land, those sections shall have effect in relation to that interest or any private interest as if the Duchy interest were a private interest.
+
+(2) In subsection (3) of that section for “the provisions of this Act referred to in subsection (1)(a)” there is substituted “ sections 109 to 112 ”.
+
+(3) This paragraph does not affect the operation of Schedule 3 to the [^M78]Planning (Consequential Provisions) Act 1990 in relation to any private interest or Duchy interest (as defined in section 293 of the principal Act).
+
+**26** (1) In section 308 (recovery from acquiring authorities of sums paid by way of compensation)—
+
+(a) in subsection (1)(b), “or 132(1)” is omitted;
+
+(b) in subsection (2), “or, as the case may be, section 132(4)” is omitted; and
+
+(c) in subsection (6) “and in section 309” is omitted.
+
+(2) Any amount recoverable under that section, by reason of a notice registered under section 132(1), which has not been paid shall cease to be recoverable.
+
+**27** Section 309 (recovery from acquiring authorities of sums paid in respect of war-damaged land) is omitted.
+
+**28** In section 310 (sums recoverable from acquiring authorities reckonable for purposes of grant) “or 309” is omitted.
+
+**29** In section 311(1)(b) (expenses of government departments) “or V” is omitted.
+
+**30** Section 312 (payments under s. 59 of 1947 Act and Parts I and V of 1954 Act) is omitted.
+
+**31** In section 313 (general provision as to receipts of Secretary of State) “Without prejudice to section 312, and” is omitted.
+
+**32** In section 315(2) (power to modify Act in relation to minerals) the words from “and in relation” to “in respect of such land” are omitted.
+
+**33** In section 318(5) (ecclesiastical property) for “112, 133 or 327” there is substituted “ or 112 ”.
+
+**34** In section 324 (rights of entry) subsection (4) is omitted.
+
+**35** Section 326 (assumptions as to planning permission in determining value of interests in land) is omitted.
+
+**36** Section 327 (recovery on subsequent development of payments in respect of war-damaged land) is omitted.
+
+**37** In section 328(1) (settled land, etc.) for “112, 133 or 327” there is substituted “ or 112 ”.
+
+**38** In section 336(1) (interpretation) the definitions of “new development” and “previous apportionment” are omitted.
+
+**39** In Schedule 1 (distribution of functions) in paragraph 16(1) “114” is omitted.
+
+**40** (1) In Schedule 3 (existing use development, etc.), paragraphs 3 to 8, 11 and 14 are omitted.
+
+(2) In paragraph 10(2) of that Schedule for “paragraphs 1 and 3” there is substituted “ paragraph 1 ”.
+
+(3) In paragraph 13 of that Schedule for sub-paragraph (2) there is substituted—
+
+> (2) This paragraph does not apply for the purposes of sections 111 and 138.
+
+**41** In Schedule 16 (provisions referred to in sections 314 to 319)—
+
+(a) in Part I for the entry relating to sections 114 and 115 there is substituted— “ Section 115 ”,
+
+(b) in Parts III and VI, the entries relating to Schedule 12 are omitted.
+
+### Planning (Listed Buildings and Conservation Areas) Act 1990 (c. 9)
+
+**42** (1) In section 30 of the Planning (Listed Buildings and Conservation Areas) Act 1990 (local planning authorities for compensation purposes), in subsection (1), paragraph (a) is omitted.
+
+(2) In subsection (2) of that section “27,” is omitted.
+
+**[^F41]43** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**44** In section 32(4) of that Act (purchase notices) for “new development” there is substituted “ development (other than any development specified in paragraph 1 or 2 of Schedule 3 to the principal Act) ”.
+
+**45** In section 49 of that Act (compensation on compulsory acquisition of building) the words from “other than” to the end are omitted.
+
+**46** In section 88(4) of that Act (rights of entry) “27,” is omitted.
+
+**47** (1) In section 90 of that Act (financial provisions), in subsection (2) for “27” there is substituted “ 28 ”.
+
+(2) In subsection (7)(a) of that section for “27 to” there is substituted “ 28 or ”.
+
+**48** In section 91(2) of that Act (interpretation) “new development” is omitted.
+
+### Planning (Consequential Provisions) Act 1990 (c.11)
+
+**49** The saving made by paragraph 3 of Schedule 3 to the Planning (Consequential Provisions) Act 1990 (transitional provisions and savings) shall cease to have effect in relation to any right to or claim for or any liability in respect of any payment—
+
+(a) under a scheme made under section 59 of the [^M79]Town and Country Planning Act 1947;
+
+(b) under any provision of Part I or V of the [^M80]Town and Country Planning Act 1954.
+
+## SCHEDULE 7 — Planning in England and Wales: Minor and Consequential Amendments
+
+*Section 32.*
+
+### Agricultural Land (Removal of Surface Soil) Act 1953 (c. 10)
+
+**1** In section 2(3) of the Agricultural Land (Removal of Surface Soil) Act 1953 for the words from “it was determined” to the end there is substituted “ a certificate was issued under section 192 of the Town and Country Planning Act 1990 that the operations would be lawful. ”
+
+### Local Government Act 1972 (c. 70)
+
+**2** In Part III of Schedule 12A to the Local Government Act 1972, in the definition of “protected informant”, for “172(3)” there is substituted “ 171A ”.
+
+### Local Government (Miscellaneous Provisions) Act 1976 (c. 57)
+
+**3** In section 7(5) of the Local Government (Miscellaneous Provisions) Act 1976 paragraph (a)(iii) is omitted.
+
+### Rent (Agriculture) Act 1976 (c.80)
+
+**4** In section 33(4) of the Rent (Agriculture) Act 1976 for the words from “section 63(2)(b)” to the end there is substituted “ section 73A of the Town and Country Planning Act 1990 ”.
+
+### Local Government, Planning and Land Act 1980 (c. 65)
+
+**5** In Part I of Schedule 29 to the Local Government, Planning and Land Act 1980, the following are inserted at the appropriate places among the provisions of the principal Act there listed: 171C, 173A, 187A, 187B, 196A to 196C and 324(1)(b) and (c) and (7).
+
+### Local Government (Miscellaneous Provisions) Act 1982 (c. 30)
+
+**6** In section 33 of the Local Government (Miscellaneous Provisions) Act 1982, in subsection (1) for paragraphs (a) to (c) there is substituted—
+
+> (a) is executed for the purpose of securing the carrying out of works on land in the council’s area in which the other person has an interest, or
+>
+> (b) is executed for the purpose of regulating the use of or is otherwise connected with land in or outside the council’s area in which the other person has an interest,
+>
+> and which is neither executed for the purpose of facilitating nor connected with the development of the land in question.
+
+### Housing Act 1988 (c. 50)
+
+**7** In section 67(3A) of the Housing Act 1988 after “104” there is inserted “ 171C, 171D ”.
+
+### The principal Act
+
+**8** The principal Act is amended as follows.
+
+### Part I
+
+**9** (1) In section 5(1) for “300 and 324(1)(b) and (c) and (7)” there is substituted “ and 300 ”.
+
+(2) In section 5(3)—
+
+(a) for “sections 36 to 49, 50(6) to (9), 51” there is substituted “ Part II, sections ”,
+
+(b) for “64 to 72” there is substituted “ 65, 69 to 72 ”,
+
+(c) for “81” there is substituted “ 79 ”,
+
+(d) after “106” there is inserted “ to 106B, 171C ”,
+
+(e) after “173” there is inserted “ 173A ”,
+
+(f) after “184” there is inserted “ 187A, 187B ”,
+
+(g) for “215” there is substituted “ 214, 215 ”,
+
+(h) after “299” there is inserted “ 299A ”, and
+
+(i) for “316(1) to (3) and 324(1)(a)” there is substituted “ 316 and 324(1) and (7) ”.
+
+### Part III
+
+**10** (1) In section 56, in subsection (3) after “87(4)” there is inserted “ 89 ”.
+
+(2) In subsection (4) of that section after paragraph (a) there is inserted—
+
+> (aa) any work of demolition of a building;
+
+.
+
+**11** Section 63 is omitted.
+
+**12** Section 64 is omitted.
+
+**13** In section 69—
+
+(a) in subsection (1) “made to that authority”, and
+
+(b) in subsection (3) “made to the authority”,
+
+are omitted.
+
+**14** In section 70(3) for “sections 65, 66 and 67” there is substituted “ section 65 ”.
+
+**15** In section 71(4) for the definitions of “agricultural holding” and “owner” there is substituted—
+
+> “prescribed” means prescribed by a development order
+
+.
+
+**16** (1) After section 73 there is inserted—
+
+> **Planning permission for development already carried out.**
+>
+> **73A** (1) On an application made to a local planning authority, the planning permission which may be granted includes planning permission for development carried out before the date of the application.
+>
+> (2) Subsection (1) applies to development carried out—
+>
+> (a) without planning permission;
+>
+> (b) in accordance with planning permission granted for a limited period; or
+>
+> (c) without complying with some condition subject to which planning permission was granted.
+>
+> (3) Planning permission for such development may be granted so as to have effect from—
+>
+> (a) the date on which the development was carried out; or
+>
+> (b) if it was carried out in accordance with planning permission granted for a limited period, the end of that period.
+
+**17** In section 74(2) “section 71 of this Act and” is omitted.
+
+**18** In section 77(4) for “65(2) and (9), 66, 67, 70, 71(1) and (2), 72(1) and (5) and 73” there is substituted “ 70, 72(1) and (5), 73 and 73A ” and at the end there is inserted “ and a development order may apply, with or without modifications, to an application so referred any requirements imposed by such an order by virtue of section 65 or 71 ”.
+
+**19** In section 79(4) for “66, 67, 70, 71(2), 72(1) and (5) and 73” there is substituted “ 70, 72(1) and (5), 73 and 73A ” and at the end there is inserted “ and a development order may apply, with or without modifications, to such an appeal any requirements imposed by a development order by virtue of section 65 or 71 ”.
+
+**20** In section 91(4)(b), for the words from “granted” to the end there is substituted “ granted for development carried out before the grant of that permission ”.
+
+**21** In section 102, for subsections (4) and (5) there is substituted—
+
+> (4) The planning permission which may be granted by an order under this section includes planning permission, subject to such conditions as may be specified in the order, for development carried out before the date on which the order was submitted to the Secretary of State under section 103.
+>
+> (5) Planning permission for such development may be granted so as to have effect from—
+>
+> (a) the date on which the development was carried out; or
+>
+> (b) if it was carried out in accordance with planning permission granted for a limited period, the end of that period.
+
+### Part VII
+
+**22** In section 174(6) “in writing” is omitted.
+
+**23** For section 176(1) and (2) there is substituted—
+
+> (1) On an appeal under section 174 the Secretary of State may—
+>
+> (a) correct any defect, error or misdescription in the enforcement notice; or
+>
+> (b) vary the terms of the enforcement notice,
+>
+> if he is satisfied that the correction or variation will not cause injustice to the appellant or the local planning authority.
+>
+> (2) Where the Secretary of State determines to allow the appeal, he may quash the notice.
+>
+> (2A) The Secretary of State shall give any directions necessary to give effect to his determination on the appeal.
+
+**24** (1) In section 177(1)—
+
+(a) for paragraph (a) there is substituted—
+
+> (a) grant planning permission in respect of the matters stated in the enforcement notice as constituting a breach of planning control, whether in relation to the whole or any part of those matters or in relation to the whole or any part of the land to which the notice relates;
+
+and
+
+(b) for paragraph (c) there is substituted—
+
+> (c) determine whether, on the date on which the appeal was made, any existing use of the land was lawful, any operations which had been carried out in, on, over or under the land were lawful or any matter constituting a failure to comply with any condition or limitation subject to which planning permission was granted was lawful and, if so, issue a certificate under section 191.
+>
+> (1A) The provisions of sections 191 to 194 mentioned in subsection (1B) shall apply for the purposes of subsection (1)(c) as they apply for the purposes of section 191, but as if—
+>
+> (a) any reference to an application for a certificate were a reference to the appeal and any reference to the date of such an application were a reference to the date on which the appeal is made; and
+>
+> (b) references to the local planning authority were references to the Secretary of State.
+>
+> (1B) Those provisions are: sections 191(5) to (7), 193(4) (so far as it relates to the form of the certificate), (6) and (7) and 194
+
+.
+
+(2) For section 177(3) there is substituted—
+
+> (3) The planning permission that may be granted under subsection (1) is any planning permission that might be granted on an application under Part III.
+
+(3) In section 177(5) for “for the development to which the notice relates” there is substituted “ in respect of the matters stated in the enforcement notice as constituting a breach of planning control ”.
+
+**25** In section 178(2) “(as defined in section 172(3))” is omitted.
+
+**26** For section 180 there is substituted—
+
+> **Effect of planning permission, etc., on enforcement or breach of condition notice.**
+>
+> **180** (1) Where, after the service of—
+>
+> (a) a copy of an enforcement notice; or
+>
+> (b) a breach of condition notice,
+>
+> planning permission is granted for any development carried out before the grant of that permission, the notice shall cease to have effect so far as inconsistent with that permission.
+>
+> (2) Where after a breach of condition notice has been served any condition to which the notice relates is discharged, the notice shall cease to have effect so far as it requires any person to secure compliance with the condition in question.
+>
+> (3) The fact that an enforcement notice or breach of condition notice has wholly or partly ceased to have effect by virtue of this section shall not affect the liability of any person for an offence in respect of a previous failure to comply, or secure compliance, with the notice.
+
+**27** In section 181—
+
+(a) in subsections (1)(a), (4)(b) and (5)(b) for “demolition”, in each place where it occurs, there is substituted “ removal ”;
+
+(b) in subsections (3), (4) and (5) for “demolished”, in each place where it occurs, there is substituted “ removed ”; and
+
+(c) in subsection (5)(b) for “any of the provisions of section 179(1) to (5)” there is substituted “ section 179(2) ”.
+
+**28** In section 184—
+
+(a) in subsection (4)(b) for “compliance period” there is substituted “ period for compliance with the enforcement notice ”;
+
+(b) in subsection (5) for the words from “included” to the end there is substituted “ relevant activities ”;
+
+(c) in subsection (8) for “172(6)” there is substituted “ 172 ”.
+
+**29** In section 186—
+
+(a) in subsection (1)(b) for the words from “matters” to the end there is substituted “ any activity the carrying out of which is prohibited by the stop notice ceases to be a relevant activity ”; and
+
+(b) in subsection (1)(c) the words from “or for its retention” to “granted” are omitted;
+
+(c) in subsection (2) for the words from “so much” to the end there is substituted “ the prohibition of such of the activities prohibited by the stop notice as cease to be relevant activities ”.
+
+**30** In section 188—
+
+(a) after subsection (1)(b) there is inserted
+
+> and
+>
+> (c) to breach of condition notices
+
+, and the “and” immediately preceding paragraph (b) is omitted;
+
+(b) in subsection (2)(a) for “or stop notice” there is substituted “ stop notice or breach of condition notice ”, and
+
+(c) in subsection (2)(b) after “stop notices” there is inserted “ and breach of condition notices ”.
+
+**31** Section 190(4) is omitted.
+
+**32** In section 195—
+
+(a) in subsection (1) for “an established use certificate” there is substituted “ a certificate under section 191 or 192 ”,
+
+(b) in subsection (2) for “an established use certificate” there is substituted “ a certificate under section 191 or, as the case may be, 192 ”, and
+
+(c) for subsection (4) there is substituted—
+
+> (4) References in this section to a refusal of an application in part include a modification or substitution of the description in the application of the use, operations or other matter in question.
+
+**33** In section 196—
+
+(a) in subsection (1) “an application referred to him under section 192(5) or” is omitted and for “applicant or appellant (as the case may be)” there is substituted “ appellant ”,
+
+(b) in subsection (2) for “an established use certificate on such a reference or” there is substituted “ a certificate under section 191 or 192 on ”,
+
+(c) in subsection (3) “application or” is omitted,
+
+(d) in subsection (4) for “established use certificates” there is substituted “ certificates under section 191 or 192 ”, and
+
+(e) subsections (5) to (7) are omitted.
+
+### Part VIII
+
+**34** In section 198(4)(a) “to 68” is omitted.
+
+**35** In section 216(6) for “£40” there is substituted “ one-tenth of level 3 on the standard scale ”.
+
+**36** Section 219(6) is omitted.
+
+**37** In section 220(3)(a) “to 68” is omitted.
+
+**38** In section 224(3) for “£40” there is substituted “ one-tenth of level 3 on the standard scale ”.
+
+### Part X
+
+**39** Section 250(2) is omitted.
+
+### Part XI
+
+**40** Section 266(3) is omitted.
+
+### Part XII
+
+**41** In section 284(3)(g) the words from “on an application” to “or” are omitted.
+
+**42** In section 285—
+
+(a) in subsection (1) “Subject to the provisions of this section” is omitted;
+
+(b) in subsection (2) “(6) to (8)” is omitted; and
+
+(c) subsections (5) and (6) are omitted.
+
+**43** In section 286—
+
+(a) in subsection (1), paragraph (b) is omitted and in paragraph (c) for “an established use certificate under section 192” there is substituted “ a certificate under section 191 or 192 ”, and
+
+(b) in subsection (2), after “183” there is inserted “ or a breach of condition notice under section 187A ”.
+
+**44** Section 290 is omitted.
+
+### Part XIII
+
+**45** (1) In section 296, in subsection (1)(c) after “VII” there is inserted “ except sections 196A and 196B ”.
+
+(2) In subsection (2)(a) of that section for “172” there is substituted “ 171C, 172, 173A, 183, 187A, 187B ”.
+
+**46** (1) Section 299 is amended as follows.
+
+(2) In subsection (1) for “determination under section 64” there is substituted “ certificate under section 192 ”.
+
+(3) In subsection (2) for “or determination” there is substituted “ or certificate ”.
+
+(4) For subsection (4) there is substituted—
+
+> (4) Any application made by virtue of this section for a certificate under section 192 shall be determined as if the land were not Crown land.
+
+(5) In subsection (5)(a) for “determinations” there is substituted “ certificates ”.
+
+(6) In subsection (6) for “determination” there is substituted “ certificate ”.
+
+### Part XIV
+
+**47** In section 306(2)(b) and (3) after “VII”, in both places where it occurs, there is inserted “ except sections 196A and 196B ”.
+
+### Part XV
+
+**48** After section 316 there is inserted—
+
+> **Local planning authorities as statutory undertakers.**
+>
+> **316A** In relation to statutory undertakers who are local planning authorities, section 283 and the provisions specified in that section shall have effect subject to such exceptions and modifications as may be prescribed.
+
+**49** For section 319 there is substituted—
+
+> **The Isles of Scilly.**
+>
+> **319** (1) This Act applies to the Isles of Scilly subject to such exceptions, adaptations and modifications as the Secretary of State may by order direct.
+>
+> (2) An order under this section may in particular provide for the exercise by the Council of the Isles of Scilly of any functions exercisable by a local planning authority or mineral planning authority.
+>
+> (3) Before making an order under this section the Secretary of State shall consult with that Council.
+
+**50** (1) Section 325 is amended as follows.
+
+(2) In subsection (1)(a) after “authority” there is inserted “ and state the purpose of his entry ”.
+
+(3) In subsection (2), for “level 2” there is substituted “ level 3 ”.
+
+(4) In subsection (4), for “premises” there is substituted “ land ”.
+
+**51** At the end of section 329 there is inserted—
+
+> (4) This section is without prejudice to section 233 of the [^M81]Local Government Act 1972 (general provisions as to service of notices by local authorities).
+
+**52** (1) Section 336 is amended as follows.
+
+(2) In subsection (1)—
+
+(a) after the definition of “authority to whom Part II of the 1959 Act applies” there is inserted—
+
+> “breach of condition notice” has the meaning given in section 187A;
+>
+> “breach of planning control” has the meaning given in section 171A
+
+,
+
+(b) at the end of the definition of “buildings or works” there is inserted “ and references to the removal of buildings or works include demolition of buildings and filling in of trenches ”; and
+
+(c) for the definition of “building operations” there is substituted—
+
+> “building operations” has the meaning given by section 55
+
+,
+
+(d) the definition of “established use certificate” is omitted,
+
+(e) in the definition of “owner” the words “(except in sections 66, 67 and 71)” are omitted,
+
+(f) after the definition of “the planning Acts” there is inserted—
+
+> “planning contravention notice” has the meaning given in section 171C
+
+, and
+
+(g) in the definition of “planning permission” the words from “and in construing” to the end are omitted.
+
+(3) In subsection (9) for “in Part V of Schedule 16” there is substituted “ of Parts III, VII and VIII ” and “(1) to (3)” is omitted.
+
+(4) In subsection (10) for “sections 324(2) and” there is substituted “ section ”.
+
+### Schedules
+
+**53** (1) Schedule 1 is amended as follows.
+
+(2) For paragraph 3(1)(b) and (c) there is substituted—
+
+> (b) applications for a certificate under section 191 or 192
+
+.
+
+(3) In paragraph 4(2) for “such application relating” there is substituted “ application for planning permission, for a certificate under section 191 or 192 or for consent to the display of advertisements under section 220, relating in each case ”.
+
+(4) In paragraph 7(1) for “sections 70 and 71” there is substituted “ section 70 ”.
+
+(5) For paragraph 8 there is substituted—
+
+> **8** (1) A local planning authority who have the function of determining applications for planning permission shall, if requested to do so by the council of any parish or community situated in their area, notify the council of—
+>
+> (a) any relevant planning application; and
+>
+> (b) any alteration to that application accepted by the authority.
+>
+> (2) In sub-paragraph (1) “a relevant planning application” means an application which—
+>
+> (a) relates to land in the parish or community; and
+>
+> (b) is an application for—
+>
+> (i) planning permission; or
+>
+> (ii) approval of a matter reserved under an outline planning permission within the meaning of section 92.
+>
+> (3) Any request made for the purposes of sub-paragraph (1) shall be in writing and state that the council wishes to be notified of all relevant applications or all applications of a description specified in the request.
+>
+> (4) An authority shall comply with the duty to notify a council of an application by—
+>
+> (a) sending the council a copy of the application; or
+>
+> (b) indicating to the council the nature of the development which is the subject of the application and identifying the land to which it relates,
+>
+> and any notification falling within paragraph (b) shall be in writing.
+>
+> (5) An authority shall comply with their duty to notify a council of an alteration by—
+>
+> (a) sending a copy of the alteration to the council; or
+>
+> (b) informing the council in writing of its general effect,
+>
+> but they need not notify a council of an alteration which in their opinion is trivial.
+>
+> (6) A development order may require a local planning authority which is dealing with an application of which a council is entitled to be notified—
+>
+> (a) to give the council an opportunity to make representations to them as to the manner in which the application should be determined;
+>
+> (b) to take into account any such representations;
+>
+> (c) to notify the council of the terms of their decision or, where the application is referred to the Secretary of State, the date when it was so referred and, when notified to them, the terms of his decision.
+
+(6) In paragraph 11(1)(b), after “serving” there is inserted “ planning contravention notices under section 171C or ” and after “section 183” there is inserted “ or breach of condition notices under section 187A ”.
+
+(7) After paragraph 12 there is inserted—
+
+> **12A** The functions of a local planning authority under section 187B are exercisable by any body having the function of taking enforcement action in respect of the breach in question
+
+.
+
+(8) In paragraph 20, in sub-paragraph (1), for “100(3), 104(3) or 202(1)” there is substituted “ 100(3), 104(3), 196A(3), 202(1) or 214B(6) ”.
+
+(9) For sub-paragraph (3) of that paragraph there is substituted—
+
+> (3) In relation to land in the area of a joint planning board, a person entering into a planning obligation under section 106 or 299A may identify the council of the county in which the land is situated as the authority by whom the obligation is enforceable.
+
+**54** (1) Schedule 6 is amended as follows.
+
+(2) In paragraph 1(1), after “78” there is inserted “ 106B ”.
+
+(3) In paragraph 2—
+
+(a) in sub-paragraph (1)(a), for “subsections (1) and (4)” there is substituted “ subsections (1), (4) and (6A) ”,
+
+(b) after that sub-paragraph there is inserted—
+
+> (aa) in relation to an appeal under section 106B, as he has under that section
+
+;
+
+(c) in sub-paragraph (1)(b), after “(2)” there is inserted “ to (2A) ”;
+
+(d) in sub-paragraph (1)(c) “and subsection (5) of section 196” is omitted;
+
+(e) in sub-paragraph (1)(d) for “and (8)” there is substituted “ to (8A) ”;
+
+(f) in sub-paragraph (2) after “79(2)” there is inserted “ 106B(4) ”; and
+
+(g) in sub-paragraph (8) “or 290” is omitted.
+
+(4) In paragraphs 3(2) and 4(2) after “under” there is inserted “ any provision of a development order made by virtue of ”.
+
+**55** In Schedule 8, in paragraphs 3(2) and 4(5)(a) for “section 71(1) or (2)” there is substituted “ any provision of a development order made by virtue of section 71(2)(a) ”.
+
+**56** In Schedule 13, in paragraph 5, for “functions of a government department, local authority or statutory undertakers” there is substituted “ such functions as are mentioned in paragraph 1(a)(i) or (ii). ”
+
+**57** (1) Schedule 16 is amended as follows.
+
+(2) In Part I—
+
+(a) in the entry relating to sections 61 to 64 for “to 64” there is substituted “ and 62 ”,
+
+(b) after the entry for section 70 there is inserted— “ Section 70A. ”,
+
+(c) after the entry relating to section 72(1) to (4) there is inserted— “ Section 73A. ”,
+
+(d) in the entry relating to section 77, “(2) and (9), 66 and 67” is omitted,
+
+(e) in the entry relating to sections 78 and 79, the words from “with” to the end are omitted,
+
+(f) for the entry relating to section 106 there is substituted— “ Sections 106 to 106B. ”,
+
+(g) after the entry relating to section 190 there is inserted—
+
+> Section 192.
+>
+> Sections 196A to 196C.
+
+,
+
+(h) after the entry relating to section 211(4) there is inserted— “ Sections 214A to 214D. ”,
+
+(i) in the entry relating to section 285, “except subsections (5) and (6)” is omitted,
+
+(j) in the entry relating to section 296, for “sections 65 to 68” there is substituted “ section 65 ”, and
+
+(k) for the entry relating to section 316 there is substituted— “ Sections 316 and 316A. ”
+
+(3) In Part II—
+
+(a) for the entries relating to sections 65 and 68 there is substituted— “ Section 65. ”,
+
+(b) in the entry for section 79 for “and” there is substituted “ to ”,
+
+(c) after the entry relating to section 166 there is inserted— “ Sections 171A to 171D. ”,
+
+(d) for the entry relating to section 187 there is substituted— “ Sections 187 to 187B. ”
+
+(4) In Part III—
+
+(a) for the first three entries there is substituted— “ Sections 109 to 112. ”,
+
+(b) the entries relating to sections 312(2) and 324(4) are omitted, and
+
+(c) for the entry relating to sections 327 and 328 there is substituted— “ Section 328. ”
+
+(5) Parts IV and V are omitted.
+
+(6) In Part VI—
+
+(a) for the entries relating to sections 65 to 68 there is substituted— “ Section 65. ”,
+
+(b) in the entry relating to section 71 for “and (2)” there is substituted “ (2) and (2A) ”,
+
+(c) for the entry relating to sections 290 and 291 there is substituted— “ Section 291. ”, and
+
+(d) in the entry relating to section 296 for “sections 65 to 68” there is substituted “ section 65 ”.
+
+### Planning (Listed Buildings and Conservation Areas) Act 1990 (c. 9)
+
+**58** In section 59(4) of the Planning (Listed Buildings and Conservation Areas) Act 1990 for “£40” there is substituted “ one-tenth of level 3 on the standard scale ”.
+
+**59** For section 67(8) of that Act there is substituted—
+
+> (8) In this section references to planning permission do not include references to planning permissions falling within section 73A of the principal Act.
+
+**60** For section 73(2) of that Act there is substituted—
+
+> (2) In this section references to planning permission do not include references to planning permissions falling within section 73A of the principal Act.
+
+**61** For paragraph 3 of Schedule 4 to that Act (distribution of functions: National Parks) there is substituted—
+
+> **3** Where an application for listed building consent under section 10 relating to land in a National Park falls to be determined by a county planning authority, that authority—
+>
+> (a) shall send a copy of the application, as soon as practicable and in any event not later than seven days after they have received it, to the district planning authority for the area in which the land to which the application relates is situated; and
+>
+> (b) shall before determining the application consult the district planning authority.
+
+## [^F42]SCHEDULE 8
+
+**1** The 1972 Act is amended as follows.
+
+**2** In section 27A (aftercare conditions on permission for winning and working of minerals)—
+
+(a) in subsection (1) after “minerals" there is inserted “ or involving the depositing of refuse or waste materials ”;
+
+(b) in subsection (2) for “operations for the winning and working of minerals have been completed" there is substituted “ the winning and working is completed or the depositing has ceased ”; and
+
+(c) in subsection (18) for the words from “carried out" to “under the land" there is substituted “ won and worked minerals or deposited refuse or waste materials ”.
+
+**3** In section 38(3) (circumstances in which general condition limiting duration of planning permission does not apply) for paragraph (bb) there is substituted—
+
+> (bb) to any planning permission for development consisting of the winning and working of minerals or involving the depositing of mineral waste which is granted (or deemed to be granted) subject to a condition that the development to which it relates must be begun before the expiration of a specified period after—
+>
+> (i) the completion of other development consisting of the winning and working of minerals already being carried out by the applicant for the planning permission; or
+>
+> (ii) the cessation of depositing of mineral waste already being carried out by the applicant for the planning permission;
+
+.
+
+**4** (1) In section 41A (limit of duration of planning permission for winning and working of minerals), in subsection (1) for “consisting of the winning and working of minerals" there is substituted
+
+> —
+>
+> (a) consisting of the winning and working of minerals; or
+>
+> (b) involving the depositing of mineral waste,
+
+.
+
+(2) In subsections (2), (3) and (5) of that section for “development", in each place where it occurs, there is substituted “ winning and working of minerals or the depositing of mineral waste ”.
+
+(3) In subsections (6) and (7) of that section the words “consisting of the winning and working of minerals" in both places where they occur, are omitted.
+
+**5** (1) Section 49 (discontinuance orders, etc.) is amended as follows.
+
+(2) In subsection (1A), after “minerals" there is inserted “ or involving the deposit of refuse or waste materials ”.
+
+(3) In subsection (1B), for “of minerals" there is substituted “ or depositing ”.
+
+(4) In subsection (1C), after “minerals" there is inserted “ or involving the deposit of refuse or waste materials ”.
+
+(5) For subsection (1E) there is substituted—
+
+> (1E) An order under this section may grant planning permission for any development of the land to which the order relates, subject to such conditions as may be—
+>
+> (a) required by section 41A of this Act; or
+>
+> (b) specified in the order.
+
+.
+
+(6) In subsection (1F), for the words from “before" to “under it" there is substituted “ before the development began ”.
+
+(7) In subsection (7) at the beginning there is inserted “ Subject to subsection (7A) of this section, ”.
+
+(8) After subsection (7) there is inserted—
+
+> (7A) Subsection (7) of this section does not apply where the order under this section relates to the discontinuance of a use of land consisting of the winning and working of minerals or involving the deposit of refuse or waste materials.
+
+.
+
+**6** (1) For subsections (1) to (3) of section 49A (prohibition of resumption of winning and working of minerals) there is substituted—
+
+> (1) Where it appears to the planning authority—
+>
+> (a) that development of land—
+>
+> (i) consisting of the winning and working of minerals; or
+>
+> (ii) involving the depositing of mineral waste,
+>
+> has occurred; but
+>
+> (b) the winning and working or depositing has permanently ceased,
+>
+> the planning authority may by order—
+>
+> (i) prohibit the resumption of the winning and working or the depositing; and
+>
+> (ii) impose, in relation to the site, any such requirement as is specified in subsection (3) of this section.
+>
+> (2) The planning authority may assume that the winning and working or the depositing has permanently ceased only when—
+>
+> (a) no winning and working or depositing has occurred, to any substantial extent, at the site for a period of at least two years; and
+>
+> (b) it appears to the planning authority, on the evidence available to them at the time when they make the order, that resumption of the winning and working or the depositing to any substantial extent at the site is unlikely.
+>
+> (3) The requirements mentioned in subsection (1) of this section are—
+>
+> (a) a requirement to alter or remove plant or machinery which was used for the purpose of the winning and working or the depositing or for any purpose ancillary to that purpose;
+>
+> (b) a requirement to take such steps as may be specified in the order, within such period as may be so specified, for the purpose of removing or alleviating any injury to amenity which has been caused by the winning and working or depositing, other than injury due to subsidence caused by underground mining operations;
+>
+> (c) a requirement that any condition subject to which planning permission for the development was granted or which has been imposed by virtue of any provision of this Act shall be complied with; and
+>
+> (d) a restoration condition.
+
+(2) At the end of subsection (11) of that section there is inserted “ or involving the depositing of mineral waste ”.
+
+**7** For subsections (1) to (3) of section 49B (orders after suspension of winning and working of minerals) there is substituted—
+
+> (1) Where it appears to the planning authority—
+>
+> (a) that development of land—
+>
+> (i) consisting of the winning and working of minerals; or
+>
+> (ii) involving the depositing of mineral waste,
+>
+> has occurred; but
+>
+> (b) the winning and working or depositing has been temporarily suspended,
+>
+> the planning authority may by order (in this Act referred to as a “suspension order") require that steps be taken for the protection of the environment.
+>
+> (2) The planning authority may assume that the winning and working or the depositing has been temporarily suspended only when—
+>
+> (a) no such winning and working or depositing has occurred, to any substantial extent, at the site for a period of at least 12 months; but
+>
+> (b) it appears to the planning authority, on the evidence available to them at the time when they make the order, that a resumption of such winning and working or depositing to a substantial extent is likely.
+>
+> (3) In this Act “steps for the protection of the environment” means steps for the purpose—
+>
+> (a) of preserving the amenities of the area in which the land in, on or under which the development was carried out is situated during the period while the winning and working or the depositing is suspended;
+>
+> (b) of protecting that area from damage during that period; or
+>
+> (c) of preventing any deterioration in the condition of the land during that period.
+
+.
+
+**8** In section 49F (resumption of winning and working of minerals after suspension order)—
+
+(a) in subsection (1), for “in, on or under the land" there is substituted “ or involving the depositing of mineral waste at the site ”;
+
+(b) in subsection (2) for “development consisting of the winning and working of minerals" there is substituted “ the development ”;
+
+(c) for subsection (3) there is substituted—
+
+> (3) The planning authority shall revoke the order if the winning and working of minerals or the depositing of mineral waste has recommenced to a substantial extent at the site in relation to which the order has effect.
+
+;
+
+(d) for subsection (7) there is substituted—
+
+> (7) If the Secretary of State is satisfied that the winning and working of minerals or the depositing of mineral waste has recommenced to a substantial extent at the site in relation to which the order has effect, he shall revoke the order.
+
+**9** In sections 100(1)(b) (enforcement of orders under sections 49, 49A and 49B) and 251(1) (power to modify Act in relation to minerals) after “minerals" there is inserted “ or involving the depositing of mineral waste ”.
+
+**10** Sections 153A, 159A and 159B are omitted.
+
+**11** For section 167A there is substituted—
+
+> **Regulations as to compensation in respect of orders relating to mineral working.**
+>
+> **167A** (1) The Secretary of State may by regulations made with the consent of the Treasury provide, in relation to orders made under—
+>
+> (a) section 42 of this Act modifying planning permission for development consisting of the winning or working of minerals or involving the depositing of mineral waste; or
+>
+> (b) section 49, 49A or 49B of this Act with respect to such winning and working or depositing,
+>
+> that sections 153, 159, 167, 226 and 227 of this Act shall have effect subject, in such cases as may be prescribed, to such modifications as may be prescribed.
+>
+> (2) Without prejudice to the generality of subsection (1) of this section, regulations made by virtue of this section may make provision—
+>
+> (a) as to circumstances in which compensation is not to be payable;
+>
+> (b) for the modification of the basis on which any amount to be paid by way of compensation is to be assessed;
+>
+> (c) for the assessment of any such amount on a basis different from that on which it would otherwise have been assessed,
+>
+> and may also make different provision for different cases, and incidental or supplementary provision.
+>
+> (3) No regulations under this section shall have effect until approved by a resolution of each House of Parliament.
+>
+> (4) Before making any such regulations, the Secretary of State shall consult such persons as appear to him to be representative—
+>
+> (a) of persons carrying out mining operations;
+>
+> (b) of owners of interests in land containing minerals;
+>
+> (c) of planning authorities.
+
+.
+
+**12** Sections 167B and 167C are omitted.
+
+**13** In section 251(1A) (power to modify Act in relation to minerals) the definition of “development consisting of the winning and working of minerals" is omitted.
+
+**14** For section 251A (duty of planning authorities to review mineral workings) there is substituted—
+
+> **Reviews of mineral workings by planning authorities.**
+>
+> **251A** (1) Every planning authority shall undertake periodic reviews about the winning and working of minerals, and the depositing of mineral waste, in their area.
+>
+> (2) Subject to regulations made by virtue of subsection (4) of this section, the duty under this section is, at such intervals as they think fit—
+>
+> (a) to review every mining site in their area; and
+>
+> (b) to consider whether they should make an order under section 42, 49, 49A or 49B of this Act, and if they do consider that they should make any such order, to make it.
+>
+> (3) For the purposes of subsection (2) “a mining site” means a site which—
+>
+> (a) is being used for the winning and working of minerals or the depositing of mineral waste;
+>
+> (b) has been so used at any time during—
+>
+> (i) the period of five years preceding the date of the beginning of the review; or
+>
+> (ii) such other period preceding that date as may be prescribed; or
+>
+> (c) is authorised to be so used.
+>
+> (4) If regulations so require, the reviews shall be undertaken at prescribed intervals and shall cover such matters as may be prescribed.
+
+**15** In section 275(1) (interpretation)—
+
+(a) after the definition of “conservation area" there is inserted—
+
+> “depositing of mineral waste” means any process whereby a mineral-working deposit is created or enlarged and “depositing of refuse or waste materials” includes the depositing of mineral waste;
+
+(b) the definition of “development consisting of the winning and working of minerals" is omitted;
+
+(c) the definition of “mineral compensation modifications" is omitted;
+
+(d) in the definition of “minerals" for “minerals and substances in or under land" there is substituted “ substances ”;
+
+(e) the definitions of “relevant order", “restrictions on the winning and working of minerals" and “special consultations" are omitted; and
+
+(f) at the end there is inserted—
+
+> “the winning and working of minerals” includes the extraction of minerals from a mineral working deposit.
+
+## [^F43]SCHEDULE 9
+
+The following Schedule shall be inserted as Schedule 10A to the 1972 Act—
+
+> **Registration of old mining permissions**
+>
+> **Application for registration**
+>
+> **1** (1) Any person who is an owner of any land to which an old mining permission relates, or is entitled to an interest in a mineral to which such a permission relates, may apply to the planning authority for the permission to be registered.
+>
+> (2) The application must specify the development which the applicant claims is authorised by the permission, including the land to which the permission relates, and the conditions (if any) to which the permission is subject.
+>
+> (3) The application must be served on the planning authority before the end of the period of six months beginning with the day on which this Schedule comes into force.
+>
+> (4) On an application under this paragraph, the planning authority must—
+>
+> (a) if they are satisfied that (apart from section 49H(3) of this Act) the permission authorises development consisting of the winning and working of minerals or involving the depositing of mineral waste, ascertain—
+>
+> (i) the area of land to which the permission relates, and
+>
+> (ii) the conditions (if any) to which the permission is subject,
+>
+> and grant the application; and
+>
+> (b) in any other case, refuse the application.
+>
+> (5) Where—
+>
+> (a) application has been made under this paragraph, but
+>
+> (b) the planning authority have not given the applicant notice of their determination within the period of three months beginning with the service of notice of the application (or within such extended period as may at any time be agreed upon in writing between the applicant and the authority),
+>
+> the application is to be treated for the purposes of section 49H of this Act and this Schedule as having been refused by the authority.
+>
+> **Determination of conditions**
+>
+> **2** (1) The conditions to which an old mining permission is to be subject—
+>
+> (a) may include any conditions which may be imposed on a grant of planning permission for development consisting of the winning and working of minerals or involving the depositing of mineral waste,
+>
+> (b) may be imposed in addition to, or in substitution for, any conditions ascertained under paragraph 1(4)(a) above, and
+>
+> (c) must include a condition that the winning and working of minerals or depositing of mineral waste must cease not later than 21st February 2042.
+>
+> (2) Where an application for the registration of an old mining permission has been granted, any person who is an owner of any land to which the permission relates, or is entitled to an interest in a mineral to which the permission relates, may apply to the planning authority to determine the conditions to which the permission is to be subject.
+>
+> (3) The application must set out proposed conditions.
+>
+> (4) The application must be served on the planning authority—
+>
+> (a) after the date mentioned in sub-paragraph (5) below, and
+>
+> (b) except where section 49H(3) of this Act applies, before the end of the period of twelve months beginning with that date or such extended period as may at any time be agreed upon in writing between the applicant and the authority.
+>
+> (5) The date referred to in sub-paragraph (4) above is—
+>
+> (a) the date on which the application for registration is granted by the planning authority, if no appeal is made to the Secretary of State under paragraph 5 below, and
+>
+> (b) in any other case, the date on which the application for registration is finally determined.
+>
+> (6) On an application under this paragraph—
+>
+> (a) the planning authority must determine the conditions to which the permission is to be subject, and
+>
+> (b) if, within the period of three months beginning with the service of notice of the application (or within such extended period as may at any time be agreed upon in writing between the applicant and the authority) the authority have not given the applicant notice of their determination, the authority shall be treated for the purposes of section 49H of this Act and this Schedule as having determined that the permission is to be subject to the conditions set out in the application.
+>
+> (7) The condition to which an old mining permission is to be subject by reason of sub-paragraph (1)(c) above is not to be regarded for the purposes of the planning Acts as a condition such as is mentioned in section 27(1)(b) of this Act (planning permission granted for a limited period).
+>
+> (8) This paragraph does not apply to an old mining permission which has ceased to have effect since the application under paragraph 1 above was granted.
+>
+> **Registration**
+>
+> **3** (1) Where an application for the registration of an old mining permission is granted, the permission must be entered in the appropriate part of the register kept under section 31 of this Act and the entry must specify the area of land ascertained under paragraph 1(4)(a) above.
+>
+> (2) Where an application to determine the conditions to which an old mining permission is to be subject is finally determined, the conditions must be entered in the appropriate part of that register.
+>
+> (3) The matters required to be entered in the register under this paragraph must be entered as soon as reasonably practicable.
+>
+> **General provisions about applications**
+>
+> **4** (1) An application under paragraph 1 or 2 above is an application which is—
+>
+> (a) made on an official form, and
+>
+> (b) accompanied by an appropriate certificate.
+>
+> (2) The applicant must, so far as reasonably practicable, give the information required by the form.
+>
+> (3) Where the planning authority receive an application under paragraph 1 or 2 above, they must as soon as reasonably practicable give to the applicant a written acknowledgement of the application.
+>
+> (4) Where the planning authority determine an application under either of those paragraphs, they must as soon as reasonably practicable give written notice of their determination to the applicant.
+>
+> (5) An appropriate certificate is such a certificate—
+>
+> (a) as would be required under sections 23 or 24 of this Act to accompany the application if it were an application for planning permission for development consisting of the winning and working of minerals or involving the depositing of mineral waste; but
+>
+> (b) with such modifications as are required for the purposes of this Schedule.
+>
+> (6) Sections 23(3) and 24(6) of this Act (offences) shall also have effect in relation to any certificate purporting to be an appropriate certificate.
+>
+> **Right of appeal**
+>
+> **5** (1) Where the planning authority—
+>
+> (a) refuse an application under paragraph 1 above, or
+>
+> (b) in granting such an application, ascertain an area of land, or conditions, which differ from those specified in the application,
+>
+> the applicant may appeal to the Secretary of State.
+>
+> (2) Where on an application under paragraph 2 above, the planning authority determine conditions that differ in any respect from the conditions set out in the application, the applicant may appeal to the Secretary of State.
+>
+> (3) An appeal under this paragraph must be made by giving notice of appeal to the Secretary of State.
+>
+> (4) In the case of an appeal under sub-paragraph (1) above, the notice must be given to the Secretary of State before the end of the period of three months beginning with the determination or, in the case of an application treated as refused by virtue of paragraph 1(5) above, beginning at the end of the period or extended period referred to in paragraph 1(5)(b).
+>
+> (5) In the case of an appeal under sub-paragraph (2) above, the notice must be given to the Secretary of State before the end of the period of six months beginning with the determination.
+>
+> (6) A notice of appeal under this paragraph is a notice which—
+>
+> (a) is made on an official form, and
+>
+> (b) is accompanied by an appropriate certificate.
+>
+> (7) The appellant must, so far as reasonably practicable, give the information required by the form.
+>
+> (8) Paragraph 4(5) and (6) above shall apply for the purposes of sub-paragraph (7) above as it applies for the purposes of paragraph 4(1) above.
+>
+> **Determination of appeal**
+>
+> **6** (1) On an appeal under paragraph 5 above the Secretary of State may—
+>
+> (a) allow or dismiss the appeal, or
+>
+> (b) reverse or vary any part of the decision of the planning authority (whether the appeal relates to that part of it or not),
+>
+> and may deal with the application as if it had been made to him in the first instance.
+>
+> (2) Before determining such an appeal the Secretary of State must, if either the appellant or the planning authority so wish, give each of them an opportunity of appearing before and being heard by a person appointed by the Secretary of State for the purpose.
+>
+> (3) If at any time before or during the determination of such an appeal it appears to the Secretary of State that the appellant is responsible for undue delay in the progress of the appeal, he may—
+>
+> (a) give the appellant notice that the appeal will be dismissed unless the appellant takes, within the period specified in the notice, such steps as are specified in the notice for the expedition of the appeal, and
+>
+> (b) if the appellant fails to take those steps within that period, dismiss the appeal accordingly.
+>
+> (4) The decision of the Secretary of State on such an appeal shall be final.
+>
+> **Reference of applications to Secretary of State**
+>
+> **7** (1) The Secretary of State may give directions requiring applications under this Schedule to any planning authority to be referred to him for determination instead of being dealt with by the authority.
+>
+> (2) The direction may relate either to a particular application or to applications of a class specified in the direction.
+>
+> (3) Where an application is referred to him under this paragraph—
+>
+> (a) subject to paragraph (b) and sub-paragraph (4) below, the following provisions of this Schedule—
+>
+> (i) paragraph 1(1) to (4),
+>
+> (ii) paragraph 2(1) to (6)(a), (7) and (8),
+>
+> (iii) paragraphs 3 and 4, and
+>
+> (iv) paragraphs 8 to 10,
+>
+> shall apply, with any necessary modifications, as they apply to applications which fall to be determined by the planning authority,
+>
+> (b) before determining the application the Secretary of State must, if either the applicant or the planning authority so wish, give each of them an opportunity of appearing before and being heard by a person appointed by the Secretary of State for the purpose, and
+>
+> (c) the decision of the Secretary of State on the application shall be final.
+>
+> (4) Where an application under paragraph 1 above is so referred to him, paragraph 2(5) above shall apply as if for paragraphs (a) and (b) there were substituted “the date on which the application for registration is finally determined".
+>
+> **Two or more applicants**
+>
+> **8** (1) Where a person has served an application under paragraph 1 or 2 above in respect of an old mining permission—
+>
+> (a) he may not serve any further application under the paragraph in question in respect of the same permission, and
+>
+> (b) if the application has been determined, whether or not it has been finally determined, no other person may serve an application under the paragraph in question in respect of the same permission.
+>
+> (2) Where—
+>
+> (a) a person has served an application under paragraph 1 or 2 above in respect of an old mining permission, and
+>
+> (b) another person duly serves an application under the paragraph in question in respect of the same permission,
+>
+> then for the purpose of the determination of the applications and any appeal against such a determination, this Schedule shall have effect as if the applications were a single application served on the date on which the later application was served and references to the applicant shall be read as references to either or any of the applicants.
+>
+> **Application of provisions relating to planning permission**
+>
+> **9** (1) Subject to paragraph 3 above, section 31 of this Act (registers of applications, etc.), and any provision of regulations under this Act or a development order made by virtue of that section, shall have effect with any necessary modifications as if references to applications for planning permission included applications under paragraph 1 or 2 above.
+>
+> (2) Where the planning authority is not the authority required to keep the register under that section, the planning authority must provide the authority required to keep the register with such information and documents as that authority requires to comply with paragraph 3 above and with that section as applied by this paragraph.
+>
+> (3) Sections 231 and 233 of this Act (validity of certain decisions and proceedings for questioning their validity) shall have effect as if the action mentioned in section 231(3) included any decision of the Secretary of State on an appeal under paragraph 5 above or on an application referred to him under paragraph 7 above.
+>
+> **Interpretation**
+>
+> **10** (1) In this Schedule—
+>
+> - “official form” means, in relation to an application or appeal, a document supplied by or on behalf of the Secretary of State for use for the purpose in question, and
+> - “owner” in relation to any land means any person who under the Lands Clauses Acts would be enabled to sell and convey the land to the promoters of an undertaking and includes any person entitled to possession of the land as lessee under a lease the unexpired portion of which is not less than seven years.
+>
+> (2) For the purposes of section 49H of this Act and this Schedule, an application under paragraph 1 or 2 above is finally determined when the following conditions are met—
+>
+> (a) the proceedings on the application, including any proceedings on or in consequence of an application under section 233 of this Act, have been determined, and
+>
+> (b) any time for appealing under paragraph 5 above, or applying or further applying under that section, (where there is a right to do so) has expired.
+
+.
+
+## [^F44]SCHEDULE 10
+
+### The 1972 Act
+
+**1** The 1972 Act is amended as follows.
+
+**2** For section 53(5) (offences: penalties) there is substituted—
+
+> (5) A person who is guilty of an offence under this section shall be liable—
+>
+> (a) on summary conviction, to imprisonment for a term not exceeding six months or a fine not exceeding £20,000, or both; or
+>
+> (b) on conviction on indictment, to imprisonment for a term not exceeding two years or a fine, or both;
+>
+> and in determining the amount of any fine to be imposed on a person convicted of an offence under this section, the court shall in particular have regard to any financial benefit which has accrued or appears likely to accrue to him in consequence of the offence.
+
+**3** In section 56L(4) (offences)—
+
+(a) for “the statutory maximum" there is substituted “ £20,000 ”; and
+
+(b) for the words following paragraph (b) there is substituted—
+
+> (4A) In determining the amount of any fine to be imposed on a person convicted of an offence under this section, the court shall in particular have regard to any financial benefit which has accrued or appears likely to accrue to him in consequence of the offence.
+
+**4** In section 92, (power to serve listed buildings enforcement notice)—
+
+(a) subsection (1)(c) is omitted; and
+
+(b) for subsection (4) there is substituted—
+
+> (4) A listed building enforcement notice—
+>
+> (a) shall specify the date upon which it is to take effect, and, subject to section 93(3) of this Act, shall take effect on that date, and
+>
+> (b) shall specify the period within which any steps are required to be taken and may specify different periods for different steps,
+>
+> and, where different periods apply to different steps, references in this Part of this Act to the period for compliance with a listed building enforcement notice, in relation to any step, are to the period within which the step is required to be taken.
+
+**5** For section 92(5) of that Act (withdrawal of notices) there is substituted—
+
+> (5) The planning authority may—
+>
+> (a) withdraw a listed building enforcement notice (without prejudice to their power to issue another); or
+>
+> (b) waive or relax any requirement of such a notice and, in particular, may extend the period specified in accordance with section 92(4) of this Act,
+>
+> and the powers conferred by this subsection may be exercised whether or not the notice has taken effect.
+>
+> (5A) The planning authority shall, immediately after exercising the powers conferred by subsection (5), give notice of the exercise to every person who has been served with a copy of the listed building enforcement notice or would, if the notice were re-issued, be served with a copy of it
+
+.
+
+**6** (1) Section 93 (appeals) is amended as follows.
+
+(2) In subsection (1)—
+
+(a) for paragraph (b) there is substituted—
+
+> (b) that the matters alleged to constitute a contravention of section 53(1) or (4) of this Act have not occurred;
+>
+> (ba) that those matters (if they occurred) do not constitute such a contravention;
+
+; and
+
+(b) paragraph (k) is omitted.
+
+(3) For subsection (2) of that section there is substituted—
+
+> (2) An appeal under this section shall be made either—
+>
+> (a) by giving written notice of the appeal to the Secretary of State before the date specified in the listed building enforcement notice as the date on which it is to take effect; or
+>
+> (b) by sending such notice to him in a properly addressed and pre-paid letter posted to him at such time that, in the ordinary course of post, it would be delivered to him before that date.
+
+(4) In subsection (4) (power to correct notice on appeal), for paragraph (a) there is substituted—
+
+> (a) the Secretary of State may—
+>
+> (i) correct any defect, error or misdescription in the listed building enforcement notice; or
+>
+> (ii) vary the terms of the listed building enforcement notice,
+>
+> if he is satisfied that the correction or variation will not cause injustice to the appellant or the local planning authority.
+
+(5) In subsection (5), the words “or for varying the terms of the notice in favour of the appellant" are omitted.
+
+**7** For section 94 (penalties for non-compliance with listed building enforcement notice) there is substituted—
+
+> **Offence where listed building enforcement notice not complied with.**
+>
+> **94** (1) Where, after the end of the period for compliance with the notice, any step required by a listed building enforcement notice to be taken has not been taken, the person who is for the time being owner of the land is in breach of the duty under this subsection.
+>
+> (2) If at any time the owner of the land is in breach of a listed building enforcement notice he shall be guilty of an offence.
+>
+> (3) An offence under this section may be charged by reference to any day or longer period of time and a person may be convicted of a second or subsequent offence under this section by reference to any period of time following the preceding conviction for such an offence.
+>
+> (4) In proceedings against any person for an offence under this section, it shall be a defence for him to show—
+>
+> (a) that he did everything he could be expected to do to secure that all the steps required by the notice were taken; or
+>
+> (b) that he was not served with a copy of the listed building enforcement notice and was not aware of its existence.
+>
+> (5) A person guilty of an offence under this section shall be liable—
+>
+> (a) on summary conviction, to a fine not exceeding £20,000; and
+>
+> (b) on conviction on indictment, to a fine.
+>
+> (6) In determining the amount of any fine to be imposed on a person convicted of an offence under this section, the court shall in particular have regard to any financial benefit which has accrued or appears likely to accrue to him in consequence of the offence.
+
+**8** In section 95 (execution and cost of works required by listed building enforcement notice), at the end there is inserted—
+
+> (4) Any person who wilfully obstructs a person acting in the exercise of powers under subsection (1) of this section shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+**9** (1) In section 97B (power to issue hazardous substances contravention notice)—
+
+(a) in subsection (3)(b) after “remedy" there is inserted “ wholly or partly ”, and
+
+(b) in subsection (8) after “before" there is inserted “ or after ”, and
+
+(c) at the end of subsection (9) there is inserted “ or would, if the notice were re-issued, be served with a copy of it ”.
+
+**10** After section 97A there is inserted—
+
+> **Further provision as to rights of entry in relation to listed buildings.**
+>
+> **97AB** (1) The provisions of this section and of section 97AC of this Act shall apply, in place of the provisions of section 266 of this Act, to rights of entry exercised under section 265 of this Act in relation to listed buildings and listed buildings control.
+>
+> (2) If the sheriff is satisfied—
+>
+> (a) that there are reasonable grounds for entering any land for any of the purposes mentioned in section 265 of this Act; and
+>
+> (b) that—
+>
+> (i) admission to the land has been refused, or a refusal is reasonably apprehended; or
+>
+> (ii) the case is one of urgency,
+>
+> he may issue a warrant authorising any person duly authorised in writing to enter the land.
+>
+> (3) For the purposes of subsection (2)(b)(i) of this section admission to land shall be regarded as having been refused if no reply is received to a request for admission within a reasonable period.
+>
+> (4) A warrant authorises entry on one occasion only and that entry must be—
+>
+> (a) within one month from the date of the issue of the warrant; and
+>
+> (b) at a reasonable hour, unless the case is one of urgency.
+>
+> **Rights of entry in relation to listed buildings: supplementary provisions.**
+>
+> **97AC** (1) Subject to subsection (2) of this section, a person authorised to enter any land in pursuance of a right of entry conferred under or by virtue of section 265 or 97AB of this Act (referred to in this section as “a right of entry”),—
+>
+> (a) shall, if so required, produce evidence of his authority and state the purpose of his entry before so entering;
+>
+> (b) may take with him such other persons as may be necessary; and
+>
+> (c) on leaving the land shall, if the owner or occupier is not then present, leave it as effectively secured against trespassers as he found it.
+>
+> (2) Admission to any land which is occupied shall not be demanded as of right by virtue of section 265 of this section unless 24 hours’ notice of the intended entry has been given to the occupier of the land.
+>
+> (3) Any person who wilfully obstructs a person acting in the exercise of a right of entry shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+>
+> (4) If any damage is caused to land or moveable property in the exercise of a right of entry, compensation may be recovered by any person suffering the damage from the authority who gave the written authority for the entry or, as the case may be, the Secretary of State; and section 168 of this Act shall apply in relation to compensation under this subsection as it applies in relation to compensation under Part VIII of this Act.
+>
+> (5) If any person who enters any land, in exercise of a right of entry, discloses to any person any information obtained by him while on the land as to any manufacturing process or trade secret, he shall be guilty of an offence.
+>
+> (6) Subsection (5) does not apply if the disclosure is made by a person in the course of performing his duty in connection with the purpose for which he was authorised to enter the land.
+>
+> (7) A person who is guilty of an offence under subsection (5) shall be liable on summary conviction to a fine not exceeding the statutory maximum or on conviction on indictment to imprisonment for a term not exceeding two years or a fine or both.
+>
+> (8) No person shall carry out any works in exercise of a power conferred under section 97 of this Act unless notice of his intention to do so was included in the notice required by subsection (2) of this section.
+>
+> (9) The authority of the appropriate Minister shall be required for the carrying out of works in exercise of a power conferred under section 97 of this Act if—
+>
+> (a) the land in question is held by statutory undertakers; and
+>
+> (b) they object to the proposed works on the ground that the execution of the works would be seriously detrimental to the carrying on of their undertaking.
+>
+> (10) Section 213(1) of this Act applies for the purposes of subsection (9) of this section as it applies for the purposes of section 266(6)(b) of this Act.
+
+**11** After section 97B there is inserted—
+
+> **Variation of hazardous substances contravention notices.**
+>
+> **97BA** (1) A planning authority may waive or relax any requirement of a hazardous substances contravention notice issued by them and, in particular, may extend any period specified in accordance with section 97B(5)(b) of this Act in the notice.
+>
+> (2) The powers conferred by subsection (1) of this section may be exercised before or after the notice takes effect.
+>
+> (3) The planning authority shall, immediately after exercising those powers, give notice of the exercise to every person who has been served with a copy of the hazardous substances contravention notice or would, if the notice were re-issued, be served with a copy of it.
+>
+> **Further provision as to rights of entry in relation to hazardous substances control.**
+>
+> **97BB** (1) The provisions of this section and of section 97BC of this Act apply, in place of the provisions of section 266 of this Act, to rights of entry exercised under section 265 of this Act in relation to applications for hazardous substances consent and hazardous substances control.
+>
+> (2) If the sheriff is satisfied—
+>
+> (a) that there are reasonable grounds for entering any land for any of the purposes mentioned in section 265 of this Act; and
+>
+> (b) that—
+>
+> (i) admission to the land has been refused, or a refusal is reasonably apprehended; or
+>
+> (ii) the case is one of urgency,
+>
+> he may issue a warrant authorising any person duly authorised in writing to enter the land.
+>
+> (2) For the purposes of subsection (2)(b)(i) of this section admission to land shall be regarded as having been refused if no reply is received to a request for admission within a reasonable period.
+>
+> (3) A warrant authorises entry on one occasion only and that entry must be—
+>
+> (a) within one month from the date of the issue of the warrant; and
+>
+> (b) at a reasonable hour, unless the case is one of urgency.
+>
+> **Rights of entry in relation to hazardous substances control: supplementary provisions.**
+>
+> **97BC** (1) A person authorised to enter any land in pursuance of a right of entry conferred under or by virtue of section 265 or 97BB of this Act (referred to in this section as “a right of entry”)—
+>
+> (a) shall, if so required, produce evidence of his authority and state the purpose of his entry before so entering;
+>
+> (b) may take with him such other persons as may be necessary; and
+>
+> (c) on leaving the land shall, if the owner or occupier is not then present, leave it as effectively secured against trespassers as he found it.
+>
+> (2) Any person who wilfully obstructs a person acting in the exercise of a right of entry shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+>
+> (3) If any damage is caused to land or moveable property in the exercise of a right of entry, compensation may be recovered by any person suffering the damage from the authority who gave the written authority for the entry or, as the case may be, the Secretary of State; and section 168 of this Act shall apply in relation to compensation under this subsection as it applies in relation to compensation under Part VIII of this Act.
+>
+> (4) If any person who enters any land, in exercise of a right of entry, discloses to any person any information obtained by him while on the land as to any manufacturing process or trade secret, he shall be guilty of an offence.
+>
+> (5) Subsection (4) does not apply if the disclosure is made by a person in the course of performing his duty in connection with the purpose for which he was authorised to enter the land.
+>
+> (6) A person who is guilty of an offence under subsection (4) shall be liable on summary conviction to a fine not exceeding the statutory maximum or on conviction on indictment to imprisonment for a term not exceeding two years or a fine or both.
+>
+> (7) The authority of the appropriate Minister shall be required for the carrying out of works in exercise of a power conferred under section 265(8) of this Act if—
+>
+> (a) the land in question is held by statutory undertakers; and
+>
+> (b) they object to the proposed works on the ground that the execution of the works would be seriously detrimental to the carrying on of their undertaking.
+>
+> (8) Section 213(1) of this Act applies for the purposes of subsection (7) of this section as it applies for the purposes of section 266(6)(b) of this Act.
+
+**12** In section 265 (rights of entry)—
+
+(a) in subsection (2), for “thereon" there is substituted “ on that or any other land ”; and
+
+(b) in subsection (3), for “the land" there is substituted “ that or any other land ”.
+
+### Local Government, Planning and Land Act 1980 (c. 65)
+
+**13** In Part I of Schedule 30 to the Local Government, Planning and Land Act 1980, the following is inserted at the appropriate place among the provisions there listed: 97AB.
+
+## [^F45]SCHEDULE 11
+
+### Part I — Modification of Procedure for Making or Altering Schemes
+
+#### Procedure before and after deposit of proposals
+
+**1** In Schedule 6A to the 1972 Act (simplified planning zones) for paragraphs 5 and 6 there is substituted—
+
+> **Steps to be taken before depositing proposals**
+>
+> **5** (1) A planning authority proposing to make or alter a simplified planning zone scheme shall, before determining the content of their proposals, comply with this paragraph.
+>
+> (2) They shall—
+>
+> (a) consult—
+>
+> (i) the Secretary of State; and
+>
+> (ii) any local roads authority in whose area the proposed zone or any part of it lies,
+>
+> as to the effect any proposals they may make might have on existing or future roads; and
+>
+> (b) consult or notify such persons as regulations may require them to consult or, as the case may be, notify.
+>
+> (3) They shall take such steps as may be prescribed, or as the Secretary of State may in a particular case direct, to publicise—
+>
+> (a) the fact that they propose to make or alter a simplified planning zone scheme, and
+>
+> (b) the matters which they are considering including in the proposals.
+>
+> (4) They shall consider any representations that are made in accordance with regulations.
+>
+> **Procedure after deposit of proposals**
+>
+> **6** Where a planning authority have prepared a proposed simplified planning zone scheme, or proposed alterations to a simplified planning zone scheme, they shall—
+>
+> (a) make copies of the proposed scheme or alterations available for inspection at such places as may be prescribed;
+>
+> (b) take such steps as may be prescribed for the purpose of advertising the fact that the proposed scheme or alterations are so available and the places at which, and times during which, they may be inspected;
+>
+> (c) take such steps as may be prescribed for inviting representations or objections to be made within such period as may be prescribed; and
+>
+> (d) send a copy of the proposed scheme or alterations to the Secretary of State and to any local roads authority whom they have consulted under paragraph 5(2)(a) of this Schedule.
+
+#### Dealing with objections, etc.
+
+**2** (1) For paragraph 7(1) to (3) (objections: local inquiry or other hearing) there is substituted—
+
+> **Procedure for dealing with objections**
+>
+> **7** (1) Where objections to the proposed scheme or alterations are made, the planning authority may—
+>
+> (a) for the purpose of considering the objections, cause a local inquiry or other hearing to be held by a person appointed by the Secretary of State or, in such cases as may be prescribed, appointed by the authority, or
+>
+> (b) require the objections to be considered by a person appointed by the Secretary of State.
+>
+> (2) A planning authority shall exercise the power under sub-paragraph (1), or paragraph (a) or (b) of that sub-paragraph, if directed to do so by the Secretary of State.
+
+(2) For paragraph 10(3) and (4) (consideration of objections, etc., by Secretary of State) there is substituted—
+
+> (3) Where on taking the proposals into consideration the Secretary of State does not determine then to reject them he shall, before determining whether or not to approve them, consider any objections made in accordance with regulations (and not withdrawn) except objections which—
+>
+> (a) have already been considered by the planning authority or by a person appointed by the Secretary of State, or
+>
+> (b) have already been considered at a local inquiry or other hearing.
+>
+> (4) The Secretary of State may—
+>
+> (a) for the purpose of considering any objections and the views of the planning authority and of such other persons as he thinks fit, cause a local inquiry or other hearing to be held by a person appointed by him, or
+>
+> (b) require such objections and views to be considered by a person appointed by him.
+>
+> (5) In considering the proposals the Secretary of State may consult with, or consider the views of, any planning authority or any other person; but he need not do so, or give an opportunity for the making or consideration of representations or objections, except so far as he is required to do so by sub-paragraph (3) of this paragraph.
+
+### Part II — Minor and Consequential Amendments
+
+**3** Schedule 6A to the 1972 Act is amended as follows.
+
+**4** At the end of paragraph 4(1) there is added “ and, in either case, requires the planning authority to take all the steps required by this Schedule for the adoption of proposals for the making or, as the case may be, alteration of a scheme. ”
+
+**5** In paragraph 7(4) for “to hold a local inquiry or other hearing" there is substituted “ for the purposes of this paragraph ”.
+
+**6** For paragraph 8(1) there is substituted—
+
+> (1) After the expiry of the period for making objections or, if objections have been made in accordance with the regulations, after considering those objections and the views of any person holding an inquiry or hearing or considering the objections under paragraph 7, the planning authority may by resolution adopt the proposals (subject to the following provisions of this paragraph and of paragraph 9 of this Schedule)
+
+.
+
+**7** In paragraph 9(2)(a) after “hearing" there is inserted “ or any consideration of objections ”.
+
+**8** For paragraph 11(1) there is substituted—
+
+> **11** (1) Where—
+>
+> (a) a planning authority are directed under paragraph 3 to make a simplified planning zone scheme which the Secretary of State considers appropriate or to alter such a scheme in such manner as he considers appropriate, and
+>
+> (b) the Secretary of State is satisfied, after holding a local inquiry or other hearing, that the authority are not taking within a reasonable period the steps required by this Schedule for the adoption of proposals for the making or, as the case may be, alteration of a scheme,
+>
+> he may himself make a scheme or, as the case may be, the alterations.
+
+**9** In paragraph 12(2)—
+
+(a) after paragraph (b) there is inserted—
+
+> (bb) make provision with respect to the circumstances in which representations with respect to the matters to be included in such a scheme or proposals for its alteration are to be treated, for the purposes of this Schedule, as being objections made in accordance with regulations;
+
+and
+
+(b) in paragraph (e) the words from “for the purpose" to “5(3)" are omitted.
+
+## SCHEDULE 12 — Planning Compensation Repeals: Minor and Consequential Amendments - Scotland
+
+*Section 60.*
+
+### Land Compensation (Scotland) Act 1963 (c.51)
+
+**1** In section 23 of the Land Compensation (Scotland) Act 1963 (assumptions not directly derived from development plans)—
+
+(a) for subsection (3) there is substituted—
+
+> (3) Subject to subsection (4) of this section, it shall be assumed that, in respect of the relevant land or any part of it, planning permission would be granted—
+>
+> (a) subject to the condition set out in Schedule 16 to the Town and Country Planning (Scotland) Act 1972, for any development of a class specified in paragraph 1 of Schedule 6 to that Act; and
+>
+> (b) for any development of a class specified in paragraph 2 of Schedule 6 to that Act.
+
+; and
+
+(b) in subsection (4), paragraphs (a) and (b) are omitted.
+
+(2) This paragraph shall have effect, or be treated as having had effect, in relation to compensation which fell or falls to be assessed by reference to prices current on 16th November 1990 or on any subsequent date.
+
+### Gas Act 1965 (c. 36)
+
+**2** In Schedule 3 to the Gas Act 1965, paragraph 3 is omitted.
+
+### Public Expenditure and Receipts Act 1968 (c.14)
+
+**3** In Schedule 3 to the Public Expenditure and Receipts Act 1968 (variation of fees) in paragraph 7, sub-paragraph (a) is omitted.
+
+### Post Office Act 1969 (c.48)
+
+**4** In Schedule 9 to the Post Office Act 1969 (transitional provisions) in paragraph 27(7) for “Parts VII and XII of the Town and Country Planning (Scotland) Act 1972” there is substituted “ Part XII of the Town and Country Planning (Scotland) Act 1972 ”.
+
+### Land Compensation (Scotland) Act 1973 (c. 56)
+
+**5** (1) In section 5 of the Land Compensation (Scotland) Act 1973 (assessment of compensation: assumptions as to planning permission)—
+
+(a) for subsection (2) there is substituted—
+
+> (3) Subject to subsection (3) below, it shall be assumed that, in respect of the land in which the interest subsists (“the relevant land”) or any part of it, planning permission would be granted—
+>
+> (a) subject to the condition set out in Schedule 16 to the Town and Country Planning (Scotland) Act 1972, for any development of a class specified in paragraph 1 of Schedule 6 to that Act; and
+>
+> (b) for any development of a class specified in paragraph 2 of Schedule 6 to that Act.
+
+; and
+
+(b) in subsection (3), paragraphs (a) and (b) are omitted.
+
+(2) This paragraph shall have effect, or be treated as having had effect, where the relevant date for the purposes of Part I of the Land Compensation (Scotland) Act 1973 fell or falls on or after 16th November 1990.
+
+### The 1972 Act
+
+**[^F46]6** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F47]7** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F48]8** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F49]9** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F50]10** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F51]11** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F52]12** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F53]13** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F54]14** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F55]15** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F56]16** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F57]17** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F58]18** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F59]19** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F60]20** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F61]21** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F62]22** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F63]23** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F64]24** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F65]25** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F66]26** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F67]27** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F68]28** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F69]29** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F70]30** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F71]31** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F72]32** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F73]33** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Civil Aviation Act 1982 (c. 16)
+
+**34** In section 53(1)(a) of the Civil Aviation Act 1982 “158,” is omitted.
+
+### Airports Act 1986 (c.31)
+
+**35** In section 61(1)(a) of the Airports Act 1986 “158,” is omitted.
+
+## SCHEDULE 13 — Planning in Scotland: Minor and Consequential Amendments
+
+*Section 61.*
+
+### Agricultural Land (Removal of Surface Soil) Act 1953 (c.10.)
+
+**1** For section 4 (application to Scotland) of the Agricultural Land (Removal of Surface Soil) Act 1953 there is substituted—
+
+> **4** In the application of this Act to Scotland, for the references to the Town and Country Planning Act 1990, to Part III of that Act, and to section 192 of that Act, there shall be substituted references to the Town and Country Planning (Scotland) Act 1972, to Part III of that Act, and to section 90A of that Act.
+
+.
+
+### The 1972 Act
+
+**[^F74]2** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F75]3** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F76]4** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F77]5** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F78]6** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F79]7** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F80]8** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F81]9** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F82]10** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F83]11** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F84]12** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F85]13** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F86]14** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F87]15** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F88]16** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F89]17** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F90]18** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F91]19** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F92]20** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F93]21** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F94]22** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F95]23** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F96]24** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F97]25** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F98]26** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F99]27** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F100]28** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F101]29** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F102]30** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F103]31** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F104]32** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F105]33** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F106]34** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F107]35** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F108]36** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F109]37** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F110]38** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F111]39** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F112]40** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F113]41** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F114]42** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F115]43** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Local Government (Scotland) Act 1973 (c.65)
+
+**[^F116]44** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Local Government, Planning and Land Act 1980 (c.65)
+
+**[^F117]45** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F118]46** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Town and Country Planning Act 1984 (c.10)
+
+**[^F119]47** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## [^F120]SCHEDULE 14 — Compensation where Permission for Additional Development Granted after Acquisition
+
+*Section 66.*
+
+**[^F120]1** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F120]2** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 15 — Amendments Relating to Land Compensation
+
+*Section 70.*
+
+### Part I — Miscellaneous Amendments
+
+#### Rules for assessment of compensation
+
+**1** In section 5 of the [^M82]Land Compensation Act 1961 (rules for assessing compensation), in rule (3) (disregard of special suitability of land for any purpose where, in particular, there is no market for that purpose apart from the special needs of a particular purchaser or the requirements of an authority possessing compulsory purchase powers) “the special needs of a particular purchaser or” is omitted.
+
+#### Expenses in acquiring replacement land
+
+**2** After section 10 of the [^M83]Land Compensation Act 1961 there is inserted—
+
+> **Expenses of owners not in occupation.**
+>
+> **10A** Where, in consequence of any compulsory acquisition of land—
+>
+> (a) the acquiring authority acquire an interest of a person who is not then in occupation of the land; and
+>
+> (b) that person incurs incidental charges or expenses in acquiring, within the period of one year beginning with the date of entry, an interest in other land in the United Kingdom,
+>
+> the charges or expenses shall be taken into account in assessing his compensation as they would be taken into account if he were in occupation of the land.
+
+#### Compensation otherwise than in the form of money
+
+**3** In section 3 of the [^M84]Compulsory Purchase Act 1965 (acquisition by agreement for a consideration in money) after “money” there is inserted “ or money’s worth ”.
+
+#### Tenants at will, etc: part acquisitions
+
+**4** In section 20(2) of the Compulsory Purchase Act 1965 (tenant at will, etc., entitled to compensation for damage done to him in his tenancy), for “in his tenancy by severing the” there is substituted “ by severing ”.
+
+#### Caravans etc. affected by noise of public works
+
+**5** (1) After section 20 of the [^M85]Land Compensation Act 1973 there is inserted—
+
+> **Power to make payments in respect of caravans and other structures affected by noise of public works.**
+>
+> **20A** (1) The Secretary of State may make regulations empowering responsible authorities to make a payment, not exceeding an amount specified in the regulations, in respect of any dwelling which—
+>
+> (a) is not a building;
+>
+> (b) is occupied by a person as his only or main residence; and
+>
+> (c) is affected or likely to be affected by noise caused by the construction or use of public works.
+>
+> (2) Regulations under this section may—
+>
+> (a) make provision as to the level of noise giving rise to a power under the regulations and the area in which a dwelling must be situated if a power is to arise in respect of it;
+>
+> (b) specify the classes of public works and of dwellings in respect of which a power is to arise, and the classes of persons entitled to make claims, under the regulations; and
+>
+> (c) make provision as to the funds out of which expenses incurred by responsible authorities under the regulations are to be defrayed.
+>
+> (3) The power to make regulations under this section shall be exercisable by statutory instrument which shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+>
+> (4) Subsections (3), (7) and (12) of section 20 above apply for the purposes of this section as they apply for the purposes of that.
+
+(2) This paragraph does not apply in relation to any public works if the relevant date for the purposes of Part I of the [^M86]Land Compensation Act 1973 fell more than twelve months before the date on which this paragraph comes into force.
+
+#### Farm loss payments
+
+**6** (1) Section 34 of the Land Compensation Act 1973 (right to farm loss payment where person displaced from agricultural unit) is amended as follows.
+
+(2) For subsection (1)(a) (section applies only if whole of land is acquired) there is substituted—
+
+> (a) in consequence of the compulsory acquisition of his interest in the whole, or a sufficient part, of that land, he is displaced from the land acquired
+
+.
+
+(3) In subsection (2) (interests qualifying for compensation) for the words following “tenancy” there is substituted “ where his interest is as tenant for a year or from year to year or a greater interest, and “sufficient part” means not less than 0.5 hectares or such other area as the Secretary of State may by order specify ”.
+
+(4) After that subsection there is inserted—
+
+> (2A) The power to make an order under subsection (2) above shall be exercisable by statutory instrument which shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(5) At the end of subsection (3)(a) (meaning of displacement) there is added “ or on any date after the making or confirmation of the compulsory purchase order but before being required to do so by the acquiring authority ”.
+
+(6) Subsection (6) is omitted.
+
+#### Notice to quit agricultural holding: right to opt for notice of entry compensation
+
+**7** At the end of section 59(7) of the Land Compensation Act 1973 (which does not apply where land was Crown land at time of agreement to acquire it) there is inserted “ and the reference in that subsection to an authority possessing compulsory purchase powers includes a person or body of persons who would be an authority possessing compulsory purchase powers if the landlord’s interest were not an interest in Crown land (as defined by section 293 of the [^M87]Town and Country Planning Act 1990). ”
+
+#### Service of documents
+
+**8** In section 6(4) of the [^M88]Acquisition of Land Act 1981 (service of documents where not practicable to ascertain name or address of owner, etc.), for the words from “premises or” to the end there is substituted “ land or, if there is no person on the land to whom it may be delivered, by leaving it or a copy of it on or near the land ”.
+
+#### Meaning of “owner”
+
+**9** In section 7 of the Acquisition of Land Act 1981 (interpretation) at the end of the definition of “owner” there is inserted “ and a person who would have power to sell and convey or release the land to the acquiring authority if a compulsory purchase order were operative ”.
+
+#### Local authority and statutory undertakers’ land
+
+**10** (1) At the end of section 16(1) of, and paragraph 3(1) of Schedule 3 to, the [^M89]Acquisition of Land Act 1981 (statutory undertakers’ land excluded from compulsory purchase if objection made and no certificate given) there is added “ and the representation is not withdrawn. ”
+
+(2) For section 31(2) and (3) of that Act (acquisition under certain enactments without a certificate) there is substituted—
+
+> (2) Section 16(2) of, and paragraph 3(2) of Schedule 3 to, this Act shall not apply to an order confirmed or made by the appropriate Minister jointly with the Minister or Ministers who would (apart from this subsection) have power to make or confirm it.
+
+**11** In section 17(3) of, and paragraph 4(3) of Schedule 3 to, that Act (certain compulsory acquisitions to be subject to special parliamentary procedure, unless acquirer is local authority, etc.), before “the Land Authority for Wales” there is inserted “ an urban development corporation ”.
+
+#### Commons, open spaces, etc.
+
+**12** (1) In section 19 of the Acquisition of Land Act 1981 (compulsory acquisition of commons, etc., to be subject to special parliamentary procedure, with exceptions)—
+
+(a) at the end of subsection (1)(a) there is inserted—
+
+> (aa) that the land is being purchased in order to secure its preservation or improve its management
+
+, and
+
+(b) in subsection (2) after “shall” there is inserted “ direct the acquiring authority to ”,
+
+(c) after that subsection there is inserted—
+
+> (2A) Notice under subsection (2) above shall be given in such form and manner as the Secretary of State may direct.
+
+, and
+
+(d) at the end of subsection (3) there is added “ except where the Secretary of State has given a certificate under subsection (1)(aa) above. ”
+
+(2) In paragraph 6 of Schedule 3 to that Act—
+
+(a) after sub-paragraph (1)(a) there is inserted—
+
+> (aa) that the right is being acquired in order to secure the preservation or improve the management of the land
+
+, and
+
+(b) in sub-paragraph (3) after “shall” there is inserted “ direct the acquiring authority to ”,
+
+(c) after that sub-paragraph there is inserted—
+
+> (3A) Notice under sub-paragraph (3) above shall be given in such form and manner as the Secretary of State may direct.
+
+, and
+
+(d) in sub-paragraph (4), after “mentioned, and” there is inserted “ except where the Secretary of State has given his certificate under sub-paragraph (1)(aa) above. ”
+
+#### Blighted land
+
+**13** In sections 150(1)(b), 161(2)(c) and 162(1)(b) of the principal Act (notices requiring purchase of blighted land: need to show reasonable endeavours to sell interest) after “interest” there is inserted “ or the land falls within paragraph 21 or paragraph 22 (disregarding the notes) of Schedule 13 and the powers of compulsory acquisition remain exercisable ”.
+
+**14** (1) In Schedule 13 to that Act (blighted land) for paragraph 16 there is substituted—
+
+> **16** Land comprised in the site of a highway as proposed to be constructed, improved or altered by the Secretary of State if he has given written notice of the proposal, together with maps or plans sufficient to identify the land in question, to the local planning authority.
+
+(2) In paragraph 18 of that Schedule for “trunk road or special road” there is substituted “ highway ”.
+
+### Part II — Minor and Consequential Amendments
+
+#### Land Compensation Act 1961 (c. 33)
+
+**15** (1) In [^F121]... the Land Compensation Act 1961 [^F121]...
+
+[^F122]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**16** In section 17 of that Act—
+
+[^F123]a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) subsection (8) is omitted.
+
+**17** In section 19(1) of that Act for “in the circumstances mentioned in subsection (1) of section 17 of this Act” there is substituted “ by an authority possessing compulsory purchase powers ”.
+
+**18** Section 22(3) of that Act is omitted.
+
+#### Compulsory Purchase Act 1965 (c. 56)
+
+**19** In section 31 of the Compulsory Purchase Act 1965—
+
+(a) after “but” there is inserted “ in the case of land which is not diocesan glebe land ”,
+
+(b) for “to be applied” there is substituted “ and, in the case of diocesan glebe land, shall be paid to the Diocesan Board of Finance in which the land is vested and, in either case, shall be applied ”, and
+
+(c) at the end of that section there is added— “ In this section “Diocesan Board of Finance” and “diocesan glebe land” have the same meaning as in the [^M90]Endowments and Glebe Measure 1976. ”
+
+#### Land Compensation Act 1973 (c. 26)
+
+**20** In section 13 of the Land Compensation Act 1973—
+
+(a) in subsection (1) for “to the Church Commissioners to” there is substituted—
+
+> (a) in the case of land which is not diocesan glebe land, to the Church Commissioners; and
+>
+> (b) in the case of diocesan glebe land, to the Diocesan Board of Finance in which the land is vested,
+>
+> and (in either case) shall
+
+, and
+
+(b) at the end of subsection (2) there is added “ or being diocesan glebe land; and “Diocesan Board of Finance” and “diocesan glebe land” have the same meaning as in the [^M91]Endowments and Glebe Measure 1976 ”.
+
+**21** In section 26 of that Act—
+
+(a) in subsection (2) for “of the kind mentioned in section 22(2) above” there is substituted “ a qualifying interest ”, and
+
+(b) in subsection (5) for “and (2)” there is substituted “ (2) and (2A) ”.
+
+**22** (1) Section 29 of that Act is amended as follows.
+
+(2) In subsection (1)—
+
+(a) in paragraph (ii) “passed the resolution” is omitted;
+
+(b) “and” following paragraph (iii) is omitted;
+
+(c) after paragraph (iv) there is inserted “ and ”; and
+
+(d) in paragraph (v) after “(e)” there is inserted “ above ”.
+
+(3) In subsection (3A) the words from “of the service” to “(1)(b) above” are omitted.
+
+(4) In subsection (4)—
+
+(a) for paragraph (b) there is substituted—
+
+> (b) a right to occupy the dwelling—
+>
+> (i) as a statutory tenant within [^M92]the meaning of the [^M93]Rent (Agriculture) Act 1976 or the Rent Act 1977, or
+>
+> (ii) under a contract to which section 19 of the Rent Act 1977 (restricted contracts) applies or would apply if the contract or dwelling were not excluded by section 19(3) to (5) or 144 of that Act
+
+, and
+
+(b) for paragraph (e) there is substituted—
+
+> (e) a right to occupy the dwelling under a licence where—
+>
+> (i) it is a right to occupy as a protected occupier within the meaning of the Rent (Agriculture) Act 1976,
+>
+> (ii) Part IV of the [^M94]Housing Act 1985 (secure tenancies) applies to the licence, or
+>
+> (iii) the licence is an assured agricultural occupancy within the meaning of Part I of the [^M95]Housing Act 1988.
+
+**23** In section 32(7B) of that Act for “the person giving up possession” there is substituted “ any person giving up possession or occupation ”.
+
+**24** In section 52 of that Act—
+
+(a) in subsection (9) after “the amount of the advance payment” there is inserted “ together with any amount paid under section 52A ”, and
+
+(b) in subsection (10) the words following “unpaid” are omitted.
+
+#### Local Government, Planning and Land Act 1980 (c. 65)
+
+**[^F124]25** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Highways Act 1980 (c. 66)
+
+**26** In section 246(2) of the Highways Act 1980, for the words following paragraph (b) there is substituted “ if the interest of the vendor is a qualifying interest ”.
+
+#### Acquisition of Land Act 1981 (c. 67)
+
+**27** At the end of section 12(3) of, and paragraph 3(3) of Schedule 1 to, the Acquisition of Land Act 1981 there is added “ or being diocesan glebe land within the meaning of the [^M96]Endowments and Glebe Measure 1976 ”.
+
+**28** Section 20 of, and paragraph 7 of Schedule 3 to, that Act are repealed.
+
+#### The principal Act
+
+**29** In section 231 of the principal Act the words from “for a purpose” to “is situated” are omitted.
+
+**30** (1) In section 318 of that Act, in subsection (3) for the words from “be” (in paragraph (a)) to “shall” (in paragraph (b)) there is substituted—
+
+> in the case of land which is not diocesan glebe land, be paid to the Church Commissioners; and
+>
+> (b) shall, in the case of diocesan glebe land, be paid to the Diocesan Board of Finance in which the land is vested,
+>
+> and shall (in either case)
+
+.
+
+(2) In subsection (4)(b) of that section for “(3)(b)” there is substituted “ (3) ”.
+
+(3) At the end of section 318(6) of that Act there is added “ or being diocesan glebe land; and “Diocesan Board of Finance” and “diocesan glebe land” have the same meaning as in the Endowments and Glebe Measure 1976 ”.
+
+#### Planning (Listed Buildings and Conservation Areas) Act 1990 (c. 9)
+
+**31** (1) In section 86(3) of the Planning (Listed Buildings and Conservation Areas) Act 1990 for the words from “be” (in paragraph (a)) to “shall” (in paragraph (b)) there is substituted—
+
+> in the case of land which is not diocesan glebe land, be paid to the Church Commissioners; and
+>
+> (b) shall, in the case of diocesan glebe land, be paid to the Diocesan Board of Finance in which the land is vested,
+>
+> and shall (in either case).
+
+(2) At the end of section 86(4) of that Act there is added “ or being diocesan glebe land; and “Diocesan Board of Finance” and “diocesan glebe land” have the same meaning as in the Endowments and Glebe Measure 1976 ”.
+
+#### Planning (Hazardous Substances) Act 1990 (c. 10)
+
+**32** (1) In section 34(3) of the Planning (Hazardous Substances) Act 1990 for the words from “be” (in paragraph (a)) to “shall” (in paragraph (b)) there is substituted—
+
+> in the case of land which is not diocesan glebe land, be paid to the Church Commissioners; and
+>
+> (b) shall, in the case of diocesan glebe land, be paid to the Diocesan Board of Finance in which the land is vested,
+>
+> and shall (in either case).
+
+(2) At the end of section 34(4) of that Act there is added “ or being diocesan glebe land; and “Diocesan Board of Finance” and “diocesan glebe land” have the same meaning as in the [^M97]Endowments and Glebe Measure 1976 ”.
+
+## SCHEDULE 16 — Compensation where Permission for Additional Development Granted after Acquisition-Scotland
+
+*Section 77.*
+
+**1** After section 30 of the [^M98]Land Compensation (Scotland) Act 1963 there is inserted—
+
+> **Part V — Compensation where Permission for Additional Development Granted after Acquisition**
+>
+> **Compensation where planning decision made after acquisition.**
+>
+> **31** (1) Where—
+>
+> (a) any interest in land is compulsorily acquired or is sold to an authority possessing compulsory purchase powers and, before the end of the period of ten years beginning with the date of completion, a planning decision is made granting permission for the carrying out of additional development of any of the land; and
+>
+> (b) the principal amount of the compensation which was payable in respect of the compulsory acquisition or, in the case of a sale by agreement, the amount of the purchase price, was less than the amount specified in subsection (2) of this section,
+>
+> then, subject to the following provisions of this section, the person to whom the compensation or purchase price was payable shall be entitled, on a claim duly made by him, to compensation from the acquiring authority of an amount equal to the difference.
+>
+> (2) The amount referred to in subsection (1)(b) of this section is the principal amount of the compensation which would have been payable in respect of a compulsory acquisition of the interest by the acquiring authority, in pursuance of a notice to treat served on the relevant date if—
+>
+> (a) the planning decision mentioned in subsection (1)(a) of this section had been made before that date; and
+>
+> (b) the permission granted by it had been in force on that date.
+>
+> (3) No compensation shall be payable by virtue of this section in respect of a planning decision in so far as it relates to land acquired by the acquiring authority, whether compulsorily or by agreement—
+>
+> (a) under section 142 or 143 of the [^M99]Local Government, Planning and Land Act 1980 (acquisitions by urban development corporations and by roads authorities in connection with urban development areas);
+>
+> (b) under the [^M100]New Towns (Scotland) Act 1968 (acquisitions by development corporations and by roads authorities in connection with new town areas); or
+>
+> (c) where the compulsory purchase order included a direction under section 107 of the [^M101]Town and Country Planning (Scotland) Act 1972 (minimum compensation in case of listed building deliberately left derelict).
+>
+> (4) If—
+>
+> (a) in accordance with the preceding provisions of this section the person referred to in subsection (1) of this section would be entitled to compensation under this section; but
+>
+> (b) before the planning decision in question that person has died, or any other act or event has occurred whereby the right to compensation under this section, if vested in him immediately before that act or event, would thereupon have vested in some other person,
+>
+> the right to compensation under this section shall be treated as having devolved as if that right had been vested in him immediately before his death or immediately before that act or event, as the case may be, and the compensation shall be payable to the persons claiming under him accordingly.
+>
+> (5) Compensation under this section shall carry interest at the rate prescribed under section 40 of this Act from the date of the planning decision in question until payment.
+>
+> (6) The provisions of Part II of this Act (so far as applicable) shall apply (subject to the following provisions) in relation to the assessment of compensation under this section as they apply in relation to the assessment of compensation in respect of the compulsory acquisition of an interest in land.
+>
+> **Provisions as to claims under section 31.**
+>
+> **32** (1) For the purpose of facilitating the making of claims for compensation under section 31 of this Act—
+>
+> (a) the person entitled to receive the compensation or purchase price in respect of such an acquisition or sale as is mentioned in section 31(1)(a) of this Act; or
+>
+> (b) any person claiming under him as being a person who, if compensation under that section became payable, would be entitled to it by virtue of subsection (4) of that section,
+>
+> may give to the acquiring authority an address for service under this section.
+>
+> (2) Where, at any time—
+>
+> (a) after a person has given an acquiring authority an address for service under this section; and
+>
+> (b) before the end of the period mentioned in paragraph (a) of section 31(1) of this Act,
+>
+> such a planning decision is made as is mentioned in that paragraph, the acquiring authority shall, subject to subsection (3) of this section, give notice of the decision in the prescribed form to that person at that address.
+>
+> (3) If—
+>
+> (a) an address for service has been given by such a person as is mentioned in subsection (1)(b) of this section; and
+>
+> (b) the acquiring authority have reasonable grounds for believing that the person mentioned in subsection (1)(a) of this section is dead or that any other act or event has occurred as mentioned in section 31(4)(b) of this Act,
+>
+> the acquiring authority need not give a notice to the person mentioned in subsection (1)(a).
+>
+> (4) A claim for compensation under section 31 of this Act in respect of a planning decision shall not have effect if made more than six months after the following date, that is to say—
+>
+> (a) if the claim is made by a person who has not given the acquiring authority an address for service under this section, the date of the decision;
+>
+> (b) if the claim is made by a person who has given the acquiring authority such an address, the date on which notice of the decision is given to him in accordance with subsection (2) of this section;
+>
+> but, where there is an appeal against the planning decision, the reference in paragraph (a) of this subsection to the date of the planning decision shall be read as a reference to the date of the decision on the appeal.
+>
+> (5) The references in subsection (4) of this section to an appeal against a planning decision include an appeal made by virtue of section 34 of the [^M102]Town and Country Planning (Scotland) Act 1972.
+>
+> (6) Where—
+>
+> (a) a person has given to an acquiring authority an address for service under this section; and
+>
+> (b) that authority, before the end of the period mentioned in section 31(1)(a) of this Act, cease to be entitled to an interest in the whole or part of the land comprised in the acquisition or sale, without remaining or becoming entitled to the dominium utile, or a tenancy, of that land or that part of it, as the case may be,
+>
+> they shall notify the planning authority; and after that it shall be the duty of the planning authority to give notice to the acquiring authority of any planning decision of which the acquiring authority are required to give notice under subsection (2) of this section.
+>
+> (7) Notice under subsection (6) of this section of a planning decision—
+>
+> (a) in the case of a decision made by the planning authority, shall be given within seven days after the making of the decision; and
+>
+> (b) in any other case, shall be given within seven days after the making of the decision has been notified to the planning authority.
+>
+> **Extension to planning permission where no planning decision made.**
+>
+> **33** (1) The provisions of sections 31 and 32(1) of this Act shall have effect in relation to any planning permission falling within column 1 of the following table for any development as if a planning decision granting that permission had been made on the date shown in column 2.
+>
+> |  |  |
+> |---|---|
+> | Planning permission | Date of decision |
+> | Permission granted by a development order | When development is initiated |
+> | Permission granted by the adoption or approval of a simplified planning zone scheme | When the scheme is approved or adopted |
+> | Permission granted by an order designating an enterprise zone | When the designation takes effect |
+> | Permission deemed to be granted by a direction under section 37 of the Town and Country Planning (Scotland) Act 1972 | When the direction is given |
+> | Permission deemed to be granted by a planning authority | The occurrence of the event in consequence of which the permission is deemed to be granted |
+>
+> (2) Where the provisions of section 31 of this Act have effect as applied by subsection (1) of this section in relation to any planning permission falling within column 1 of that table for any development, then if—
+>
+> (a) before the date shown in column 2, a person who (under section 32(1) of this Act as so applied) is entitled to give an address for service under that section has given such an address to the acquiring authority; and
+>
+> (b) the development is proposed to be carried out by the acquiring authority or, if it is proposed to be carried out by a person other than the acquiring authority, notice of that proposal is given to the acquiring authority by the person proposing to carry out the development,
+>
+> it shall, subject to subsection (3) of this section, be the duty of the acquiring authority to give notice of that proposal in the prescribed form to the person mentioned in paragraph (a) of this subsection at the address given by him to the authority.
+>
+> (3) An acquiring authority shall not be required by virtue of subsection (2) of this section to give notice of proposed development to the person mentioned in section 32(1)(a) of this Act if—
+>
+> (a) an address for service has been given to them by such a person as is mentioned in section 32(1)(b) of this Act; and
+>
+> (b) they have reasonable grounds for believing that the former person is dead or that any other act or event has occurred as mentioned in section 31(4)(b) of this Act.
+>
+> (4) A claim for compensation under section 31 of this Act in respect of a planning permission falling within column 1 of that table shall not have effect if made more than six months after the following date, that is to say—
+>
+> (a) if the claim is made by a person to whom notice has been given under subsection (2) of this section, the date on which the notice was given;
+>
+> (b) in any other case, the date shown in column 2.
+>
+> **Extension to Crown development.**
+>
+> **34** (1) Where—
+>
+> (a) any interest in land is compulsorily acquired or is sold to an authority possessing compulsory purchase powers, and before the end of the period of ten years beginning with the date of completion there is initiated any additional development of any of the land which was comprised in the acquisition or sale; and
+>
+> (b) by reason of any such circumstances as are mentioned in subsection (2) of this section the development in question is development for which planning permission is not required,
+>
+> the provisions of sections 31 and 32(1) of this Act shall apply as if a planning decision granting permission for that development had been made at the time when the additional development is so initiated.
+>
+> (2) The circumstances referred to in subsection (1) of this section are either or both of the following—
+>
+> (a) that the development is initiated by or on behalf of the Crown;
+>
+> (b) that there is a Crown interest in the land and the development is initiated in right of that interest.
+>
+> (3) Where—
+>
+> (a) the provisions of section 31 of this Act have effect as applied by subsection (1) of this section in relation to the initiation of any development; and
+>
+> (b) before the development is initiated a person who (under section 32(1) of this Act as so applied) is entitled to give an address for service under that section has given such an address to the acquiring authority,
+>
+> it shall, subject to subsections (4) and (5) of this section, be the duty of the acquiring authority to give notice in the prescribed form of the initiation of the development to the person mentioned in paragraph (b) of this subsection at the address given by him to the authority.
+>
+> (4) Where—
+>
+> (a) by virtue of subsection (3) of this section, it is the duty of a government department to give notice of development initiated by or on behalf of that department; and
+>
+> (b) the Minister in charge of the department certifies that for reasons of national security it is necessary that the nature of the development should not be disclosed, except to the extent specified in the certificate,
+>
+> the department shall give notice of development, but shall not be required to give any particulars of the nature of the development except to the extent specified in the certificate.
+>
+> (5) An acquiring authority shall not be required by virtue of subsection (3) of this section to give notice of proposed development to the person mentioned in section 32(1)(a) of this Act if—
+>
+> (a) an address for service has been given to them by such a person as is mentioned in section 32(1)(b) of this Act; and
+>
+> (b) they have reasonable grounds for believing that the former person is dead or that any other act or event has occurred as mentioned in section 31(4)(b) of this Act.
+>
+> (6) A claim for compensation under section 31 of this Act in respect of the initiation of any development shall not have effect if made more than six months after the following date, that is to say—
+>
+> (a) if the claim is made by a person to whom notice has been given under subsection (3) of this section, the date on which the notice was given;
+>
+> (b) in any other case, the time the development is initiated.
+>
+> (7) In this section “Crown interest” means an interest belonging to Her Majesty in right of the Crown, or belonging to a government department or held in trust for Her Majesty for the purposes of a government department.
+>
+> **Application of Part V to certain cases.**
+>
+> **35** The preceding provisions of this Part of this Act shall have effect subject to the provisions of the Third Schedule to this Act.
+>
+> **Regulations for purposes of Part V.**
+>
+> **36** (1) The Secretary of State may by statutory instrument make regulations for prescribing the form of any notice required by this Part of this Act to be given in the prescribed form.
+>
+> (2) Any statutory instrument containing such regulations shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+>
+> **Interpretation of Part IV.**
+>
+> **37** (1) In this Part of this Act—
+>
+> - “additional development”, in relation to an acquisition or sale of an interest in land, means any development of the land other than the following, that is to say—
+>
+> (a) where the acquiring authority are a local authority, and acquired the interest for the purposes of any of their functions, development for the purposes of the functions for which they acquired it;
+>
+> (b) where the acquiring authority are not a local authority, development for the purposes of the project in connection with which they acquired the interest;
+>
+> (c) development for which planning permission was in force on the relevant date;
+>
+> (d) in the case of compulsory acquisition, development for which it was assumed (in accordance with the provisions of sections 22 to 24 of this Act) for the purpose of assessing compensation that planning permission would be granted; and
+>
+> (e) in the case of a sale by agreement, development for which, if the interest (instead of being sold by agreement) had been compulsorily acquired by the acquiring authority in pursuance of a notice to treat served on the relevant date, it would have been so assumed;
+>
+> - “date of completion”, in relation to an acquisition or sale of an interest in land, means the date on which the acquisition or sale is completed by the vesting of that interest in the acquiring authority;
+> - “local authority” means a regional, islands or district council;
+> - “prescribed” means prescribed by regulations under this Part of this Act;
+> - “the relevant date”, in relation to a compulsory acquisition of an interest in land, means the date of service of the notice to treat and, in relation to a sale of such an interest by agreement, means the date of the making of the contract in pursuance of which the sale was effected.
+>
+> (2) In this Part of this Act any reference to the granting of permission for the carrying out of development of any land is a reference to the granting of permission (including where applicable outline permission) for that development—
+>
+> (a) either unconditionally or subject to conditions; and
+>
+> (b) either in respect of that land taken by itself or in respect of an area including that land.
+
+**2** After Schedule 2 to that Act there is inserted—
+
+> **Third Schedule — Application of Part V to Certain Cases**
+>
+> **Disturbance, severance and injurious affection**
+>
+> **1** Subject to paragraph 2 of this Schedule, any reference in section 31 of this Act to the principal amount of any compensation shall be construed as including any sum attributable to disturbance, severance or injurious affection.
+>
+> **2** If the person entitled to the compensation under section 31 of this Act—
+>
+> (a) was, at the time of the compulsory acquisition or sale mentioned in subsection (1) of that section, entitled to an interest in other land contiguous or adjacent to the land acquired or purchased; but
+>
+> (b) is, at the time of the planning decision in question, no longer entitled to that interest, either in respect of the whole or in respect of part of that land;
+>
+> any reference in section 31 of this Act to the principal amount of any compensation or the amount of the purchase price shall be construed as excluding so much of the compensation or purchase price as was or would have been attributable to severance or injurious affection of that land or, as the case may be, of that part.
+>
+> **Increase in value of contiguous or adjacent land**
+>
+> **3** In determining for the purposes of section 31 of this Act the difference between the principal amount of the compensation specified in subsection (2) of that section and the principal amount of the compensation or the amount of the purchase price mentioned in subsection (1) of that section, in a case where—
+>
+> (a) the compensation or the purchase price was or would have been reduced (whether by virtue of section 14 of this Act or otherwise) by reason of an increase in the value of an interest in contiguous or adjacent land; but
+>
+> (b) at the time of the planning decision the person entitled to the compensation under section 23 of this Act is not entitled to the interest or is entitled to it only as respects part of the contiguous or adjacent land,
+>
+> the amount specified in section 31(2) and the principal amount or purchase price mentioned in section 31(1) shall be calculated as if the circumstances by reason of which it was or would have been so reduced had not existed or, as the case may be, as if the interest in the contiguous or adjacent land had subsisted only in that part of the land.
+>
+> **Land held subject to heritable security**
+>
+> **4** Subject to the provisions of this Schedule relating to settled land, where, in a case falling within section 31(1) of this Act, the interest in land which was acquired or sold was subject to a heritable security, any reference (however expressed) in section 31 or section 32 of this Act to the person entitled to the compensation or purchase price shall be construed as a reference to the person who, subject to the heritable security, was entitled to that interest, and not as a reference to the heritable creditor.
+>
+> **5** For the purposes of the application of section 31 of this Act, and of the provisions of this Schedule other than this paragraph, to a case falling within the preceding paragraph, any reference to the principal amount of the compensation which was or would have been payable in respect of any compulsory acquisition shall be construed as a reference to the principal amount of the compensation which would have been payable if the interest in question had not been subject to a heritable security.
+>
+> **6** No compensation shall be payable by virtue of section 31 of this Act in respect of a compulsory acquisition or sale by agreement where the interest acquired or sold was the interest of a heritable creditor (as distinct from an interest subject to a heritable security).
+>
+> **Land held in trust**
+>
+> **7** (1) Where, in a case falling within section 31(1) of this Act, the interest in land which was acquired or sold was subject to a trust, and accordingly the compensation or purchase price was payable to the trustees of that trust, any reference (however expressed) in section 31 or section 32 of this Act to the person entitled to the compensation or purchase price shall be construed as a reference to the trustees for the time being of the trust.
+>
+> (2) Where sub-paragraph (1) of this paragraph applies, section 31(4) of this Act shall not apply.
+>
+> (3) Any compensation paid to the trustees of the trust by virtue of section 31 of this Act in respect of a compulsory acquisition or sale by agreement shall be applicable by the trustees as if it were proceeds of the 1sale of the interest acquired or sold.
+>
+> (4) In this paragraph “trust” has the same meaning as in the [^M103]Trusts (Scotland) Act 1921.
+>
+> **Interpretation**
+>
+> **8** References in this Schedule to sections 31 and 32 of this Act include references to those sections as applied by section 33 or 34 of this Act, and references to the time of any planning decision shall be construed accordingly.
+
+## SCHEDULE 17 — Amendments relating to land compensation in Scotland
+
+*Section 79.*
+
+### Part I — Miscellaneous amendments
+
+#### Compensation for tenants for a year or from year to year
+
+**1** In section 114 of the [^M104]Lands Clauses Consolidation (Scotland) Act 1845 (compensation to be made to tenants for a year etc.), for “in his tenancy by the severing of the” there is substituted “ by severing ”.
+
+#### Local authority and statutory undertakers’ land
+
+**2** In paragraph 10 (protection of land held by statutory undertakers) of Schedule 1 to the [^M105]Acquisition of Land (Authorisation Procedure) (Scotland) Act 1947, before “the compulsory purchase order” there is inserted “ and, if the representation is not withdrawn, ”.
+
+**3** In paragraph 11 of that Schedule (purchase of open space)—
+
+(a) in sub-paragraph (2), after “shall” there is inserted “ direct the acquiring authority to ”; and
+
+(b) after that sub-paragraph there is inserted—
+
+> (3) Notice under sub-paragraph (2) of this paragraph shall be given in such form and manner as the Secretary of State may direct.
+
+.
+
+#### Service of documents
+
+**4** In paragraph 19(4) of that Schedule (service of documents where not practicable to ascertain name or address of owner, etc.), for the words from “premises or” to the end there is substituted “ land or, if there is no person on the land to whom it may be delivered, by leaving it or a copy of it on or near the land ”.
+
+#### Rules for the assessment of compensation
+
+**5** In section 12 of the [^M106]Land Compensation (Scotland) Act 1963 (rules for assessing compensation), in rule (3) (disregard of special suitability of land for any purpose where, in particular, there is no market for that purpose apart from the special needs of a particular purchaser or the requirements of an authority possessing compulsory purchase powers) “the special needs of a particular purchaser or” is omitted.
+
+#### Expenses in acquiring replacement land
+
+**6** After section 17 of the Land Compensation (Scotland) Act 1963 there is inserted—
+
+> **Expenses of owners not in occupation.**
+>
+> **17A** Where, in consequence of any compulsory acquisition of land—
+>
+> (a) the acquiring authority acquire an interest of a person who is not then in occupation of the land; and
+>
+> (b) that person incurs incidental charges or expenses in acquiring, within the period of one year beginning with the date of entry, an interest in other land in the United Kingdom,
+>
+> the charges or expenses shall be taken into account in assessing his compensation as they would be taken into account if he were in occupation of the land.
+
+.
+
+**7** (1) In section 22(1) of the Land Compensation (Scotland) Act 1963 after “shall” there is inserted “ (subject to subsection (3A) of this section) ”.
+
+(2) In section 22(3) of that Act, for the words from “but” to the end there is substituted—
+
+> (3A) In determining—
+>
+> (a) for the purpose referred to in subsection (1) of this section whether planning permission for any development could in any particular circumstances reasonably have been expected to be granted in respect of any land; or
+>
+> (b) whether any of the assumptions mentioned in section 24 of this Act (but not section 23) are applicable to the relevant land or any part thereof,
+>
+> regard shall be had to any contrary opinion expressed in relation to that land in any certificate issued under Part IV of this Act.
+
+**8** In section 25 of that Act—
+
+(a) for the words from the beginning of subsection (2) to “acquire it” there is substituted “ If the authority proposing to acquire the interest ”, and
+
+(b) subsection (8) is omitted.
+
+**9** In section 27(1) of that Act for “in the circumstances mentioned in section 25(1) of this Act” there is substituted “ by an authority possessing compulsory purchase powers ”.
+
+**10** Section 30(3) of that Act is omitted.
+
+#### Blighted land
+
+**[^F125]11** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Local authority and statutory undertakers’ land
+
+**[^F126]12** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Caravans etc. affected by noise of public works
+
+**13** (1) After section 18 of the [^M107]Land Compensation (Scotland) Act 1973 there is inserted—
+
+> **Power to make payments in respect of caravans and other structures affected by noise of public works.**
+>
+> **18A** (1) The Secretary of State may make regulations empowering responsible authorities to make a payment, not exceeding an amount specified in the regulations, in respect of any dwelling which—
+>
+> (a) is not a building;
+>
+> (b) is occupied by a person as his only or main residence; and
+>
+> (c) is affected or likely to be affected by noise caused by the construction or use of public works.
+>
+> (2) Regulations under this section may—
+>
+> (a) make provision as to the level of noise giving rise to a power under the regulations and the area in which a dwelling must be situated if a power is to arise in respect of it;
+>
+> (b) specify the classes of public works and of dwellings in respect of which a power is to arise, and the classes of persons entitled to make claims, under the regulations; and
+>
+> (c) make provision as to the funds out of which expenses incurred by responsible authorities under the regulations are to be defrayed.
+>
+> (3) The power to make regulations under this section shall be exercisable by statutory instrument which shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+>
+> (4) Subsections (3), (6) and (11) of section 18 above apply for the purposes of this section as they apply for the purposes of that.
+
+(2) This paragraph does not apply in relation to any public works if the relevant date for the purposes of Part I of the [^M108]Land Compensation (Scotland) Act 1973 fell more than twelve months before the date on which this paragraph comes into force.
+
+#### Farm loss payments
+
+**14** (1) Section 31 of the Land Compensation (Scotland) Act 1973 (right to farm loss payment where person displaced from agricultural unit) is amended as follows.
+
+(2) For subsection (1)(a) (section applies only if whole of land is acquired) there is substituted—
+
+> (a) in consequence of the compulsory acquisition of his interest in the whole, or a sufficient part, of that land, he is displaced from the land acquired;
+
+.
+
+(3) In subsection (2) (interests qualifying for compensation)—
+
+(a) for the words from “lease” where it first appears to “three years” there is substituted “ where his interest is as a lessee for a year or from year to year or a greater interest, ”; and
+
+(b) at the end there is inserted “ , and “sufficient part” means not less than 0.5 hectares or such other area as the Secretary of State may by order specify ”.
+
+(4) After that subsection there is inserted—
+
+> (2A) The power to make an order under subsection (2) above shall be exercisable by statutory instrument which shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(5) At the end of subsection (3)(a) (meaning of displacement) there is added “ or on any date after the making or confirmation of the compulsory purchase order but before being required to do so by the acquiring authority ”.
+
+(6) Subsection (6) is omitted.
+
+#### Notice to quit agricultural holding; right to opt for notice of entry compensation
+
+**15** At the end of section 55(7) of the Land Compensation (Scotland) Act 1973 (which does not apply where land was Crown land at time of agreement to acquire it) there is inserted “ and the reference in that subsection to an authority possessing compulsory purchase powers includes a person or body of persons who would be an authority possessing compulsory purchase powers if the landlord’s interest were not an interest in Crown land (as defined by section 253(7) of the [^M109]Town and Country Planning (Scotland) Act 1972). ”
+
+### Part II — Minor and consequential amendments
+
+#### Land Compensation (Scotland) Act 1963 (c.51)
+
+**16** In section 28 (power to prescribe matters relevant to Part IV) of the Land Compensation (Scotland) Act 1963, for the words “The provisions which may be made by a development order shall” there are substituted the words “ Regulations made under section 273(1)(c) of the Town and Country Planning (Scotland) Act 1972 or a development order may ”.
+
+#### The 1972 Act
+
+**[^F127]17** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F128]18** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Land Compensation (Scotland) Act 1973 (c.56)
+
+**19** In section 24 (acquisition of land in connection with public works) of the Land Compensation (Scotland) Act 1973—
+
+(a) in subsection (2) for the word “vendor” there shall be substituted the word “ seller ”, and
+
+(b) in subsection (5), for “and (2)” there is substituted “ (2) and (2A) ”.
+
+**20** (1) Section 27 of that Act is amended as follows.
+
+(2) In subsection (1)—
+
+(a) in paragraph (ii), “passed the resolution” is omitted;
+
+(b) “and” following paragraph (iii) is omitted; and
+
+(c) after paragraph (iv) there is inserted “ and ”.
+
+(3) In subsection (4), for paragraph (b) there is substituted—
+
+> (b) a right to occupy the dwelling-house—
+>
+> (i) as a statutory tenant within the meaning of the Rent (Scotland) Act 1984; or
+>
+> (ii) under a contract to which Part VII of that Act applies or would apply if the contract or dwelling-house were not excluded by section 63(3) to (5) or under section 64(3) respectively of that Act; and
+
+.
+
+**21** In section 48 (right to advance payment of compensation) of that Act—
+
+(a) in subsection (8), after “the amount of the advance payment” there is inserted “ together with any amount paid under section 48A ”, and
+
+(b) in subsection (9), the words following “unpaid” are omitted.
+
+#### Local Government, Planning and Land Act 1980 (c. 65)
+
+**22** After section 141(5) of the Local Government, Planning and Land Act 1980 there is inserted—
+
+> (5B) No compensation is payable, by virtue of an order under this section, under Part V of the Land Compensation (Scotland) Act 1963
+
+.
+
+## SCHEDULE 18 — Compensation Provisions Referred to in Section 80
+
+*Section 80.*
+
+### Part I — Provisions that do not Provide for Interest
+
+<table>
+<tbody>
+<tr><th>(1)</th><th>(2)</th></tr>
+<tr><th>Enactment</th><th>Date from which interest payable</th></tr>
+<tr><td colspan="2"><i>Enactments extending to Great Britain</i></td></tr>
+<tr><td>Section 10(4)(a) of the [^M110] Forestry Act 1967</td><td>Date of claim for compensation</td></tr>
+<tr><td>Section 18(1)(a) of the [^M111] Reservoirs Act 1975</td><td>Date of entry on the land</td></tr>
+<tr><td>Section 18(1)(b) of that Act</td><td>Date of claim for disturbance</td></tr>
+<tr><td>Section 7 of the [^M112] Ancient Monuments and Archaeological Areas Act 1979</td><td>Date of the refusal, or grant subject to conditions, of scheduled monument consent</td></tr>
+<tr><td>Section 9 of that Act</td><td>Date works ceased to be authorised</td></tr>
+<tr><td>Section 46 of that Act</td><td>Date of entry on the land</td></tr>
+<tr><td>[^F129][[^F130]Section 35A(4) of the Environmental Protection Act 1990</td><td>[^F129]In the case of so much of the compensation as is payable under section 35A– [^F129](a)by virtue of paragraph (a) or (b) of regulation 4 (compensation following grant of rights) of the Waste Management Licences (Consultation and Compensation) Regulations 1999: the date of the depreciation; [^F129](b)by virtue of paragraph (c), (d) or (e) of that regulation: the date on which the loss is sustained or the damage is done; or where injurious affection is sustained: the date of the injurious affection; [^F129](c)by virtue of paragraph (6) of regulation 7 (basis on which compensation assessed) of those Regulations: the date on which the expenses become payable.]</td></tr>
+<tr><td>[^F129][[^F131]Section 78G(5) of that Act</td><td>[^F129]In the case of so much of the compensation as is payable under section 78G– [^F129](a)by virtue of paragraph 4(a) or (b) of Schedule 2 (compensation for rights of entry [^F129]etc.[^F129]) to the Contaminated Land (England) Regulations 2000, the date of the depreciation; [^F129](b)by virtue of paragraph 4(c), (d) or (e) of that Schedule, the date on which the loss is sustained or the damage is done; or where injurious affection is sustained, the date of the injurious affection; [^F129](c) by virtue of paragraph 5(6) of that Schedule, the date on which the expenses become payable. ]</td></tr>
+<tr><td colspan="2"><i>Enactments extending to England and Wales</i></td></tr>
+<tr><td>Section 31(3) [[^F132]or (3A)] of the [^M113] Land Compensation Act 1961</td><td>Date of withdrawal of notice to treat</td></tr>
+<tr><td>Section 11(3) of the [^M114] Compulsory Purchase Act 1965</td><td>Date of entry on the land</td></tr>
+<tr><td>[^F133] . . .</td><td>[^F133] . . .</td></tr>
+<tr><td>[^F134] . . .</td><td>[^F134] . . .</td></tr>
+<tr><td>[^F134] . . .</td><td>[^F134] . . .</td></tr>
+<tr><td>Section 23 of the [^M115] Highways Act 1980</td><td>Date which would be the date from which interest is payable if the works were executed under Part V by a highway authority</td></tr>
+<tr><td>Section 28(1) of that Act</td><td>Date of claim</td></tr>
+<tr><td>Section 73(9) of that Act</td><td>Date of claim</td></tr>
+<tr><td>Section 74(8) of that Act</td><td>Date of claim</td></tr>
+<tr><td>Section 77(2) of that Act</td><td>In the case of damage sustained by reason of expenditure, the date on which the damage is sustained; otherwise the date of claim</td></tr>
+<tr><td>Section 79(11) of that Act</td><td>In the case of loss, the date of the notice; and in the case of injurious affection, the date of claim</td></tr>
+<tr><td>Section 79(12) of that Act</td><td>Date of service of the notice</td></tr>
+<tr><td>Section 126(2) of that Act</td><td>Date of claim</td></tr>
+<tr><td>Section 231 of that Act</td><td>In the case damage sustained by reason of expenditure, the date on which the damage is sustained; otherwise the date of claim</td></tr>
+<tr><td>Section 292(1) of that Act</td><td>In the case of damage, the date of entry; in the case of disturbance, the date of claim</td></tr>
+<tr><td>[^F133]Section 57 of the [^M116] [^F133]Public Health (Control of Disease) Act 1984</td><td>[^F133]In the case damage sustained by reason of expenditure, the date on which the damage is sustained; otherwise the date of claim</td></tr>
+<tr><td>Section 106 of the [^M117] Building Act 1984</td><td>In the case damage sustained by reason of expenditure, the date on which the damage is sustained; otherwise the date of claim</td></tr>
+<tr><td>[^F134] . . .</td><td>[^F134] . . .</td></tr>
+<tr><td>[^F134] . . .</td><td>[^F134] . . .</td></tr>
+<tr><td>[^F134] . . .</td><td>[^F134] . . .</td></tr>
+<tr><td>[^F134] . . .</td><td>[^F134] . . .</td></tr>
+<tr><td>[^F134] . . .</td><td>[^F134] . . .</td></tr>
+<tr><td>[^F134] . . .</td><td>[^F134] . . .</td></tr>
+<tr><td>[^F134] . . .</td><td>[^F134] . . .</td></tr>
+<tr><td>[^F134] . . .</td><td>[^F134] . . .</td></tr>
+<tr><td>[^F134] . . .</td><td>[^F134] . . .</td></tr>
+<tr><td>[^F134] . . .</td><td>[^F134] . . .</td></tr>
+<tr><td>Section 107(1) of the principal Act</td><td>Date of order under section 97</td></tr>
+<tr><td>Section 107(1) of that Act as applied by section 108(1)</td><td>Date planning permission is refused or granted subject to conditions</td></tr>
+<tr><td>Section 115 of that Act</td><td>Date damage suffered or expenses incurred</td></tr>
+<tr><td>Section 144(2) of that Act</td><td>Date of direction under section 141(3)</td></tr>
+<tr><td>Section 186 of that Act</td><td>Date of service of stop notice</td></tr>
+<tr><td>[[^F135]Section 202E of that Act</td><td>Date—<br>- (a) any consent required by tree preservation regulations is refused,<br>- (b) any such consent is granted subject to conditions, or<br>- (c) any approval required under such a condition is refused.]</td></tr>
+<tr><td>[^F136] . . .</td><td>[^F136] . . .</td></tr>
+<tr><td>[^F136] . . .</td><td>[^F136] . . .</td></tr>
+<tr><td>Section 223 of that Act</td><td>Date expenses incurred</td></tr>
+<tr><td>Section 250 of that Act</td><td>Date of order under section 249(2)</td></tr>
+<tr><td>Section 279(1) of that Act</td><td>Date of decision made in accordance with section 266 or of order under section 97</td></tr>
+<tr><td>Section 279(2) of that Act</td><td>Date right extinguished or requirement imposed</td></tr>
+<tr><td>Section 28 of [^M118] Planning (Listed Buildings and Conservation Areas) Act 1990</td><td>Date of order under section 23</td></tr>
+<tr><td>[^F137] . . .</td><td>[^F137] . . .</td></tr>
+<tr><td>Section 16 of the [^M119] Planning (Hazardous Substances) Act 1990</td><td>Date of order under section 14(1)</td></tr>
+<tr><td>Section 19 of that Act</td><td>Date of modification or revocation of hazardous substances consent</td></tr>
+<tr><td>[[^F138]Section 161B of the Water Resources Act 1991</td><td>In the case of so much of the compensation as is payable under section 161B– (a)by virtue of paragraph 4(a) of the Schedule to the Anti-Pollution Works Regulations 1999 (compensation following grant of rights), the date of the depreciation; (b)by virtue of paragraph 4(b), (c), or (d) of that Schedule, the date on which the loss is sustained or the damage done; or where injurious affection is sustained, the date of the injurious affection; (c)by virtue of paragraph 4(e) of that Schedule, the date on which the expenses become payable.]</td></tr>
+<tr><td>[[^F139]Paragraph 1 of Schedule 9 to the Water Resources Act 1991</td><td>Date of entry upon or occupation or use of land</td></tr>
+<tr><td>Paragraph 2(2) or (3) of that Schedule</td><td>Date of the ordinary drought order [[^F140]or the drought permit]</td></tr>
+<tr><td>Paragraph 2(4) of that Schedule</td><td>Date of decision to prohibit or limit the taking of water</td></tr>
+<tr><td>Paragraph 2(5) of that Schedule</td><td>Date of suspension or variation of consent to make discharges or of the attachment of conditions to such consent</td></tr>
+<tr><td>Paragraph 2(1) of Schedule 21 to that Act</td><td>Date of claim</td></tr>
+<tr><td>Paragraph 2(2) or (3) of that Schedule</td><td>In the case of damage sustained by reason of expenditure, the date on which the damage is sustained; otherwise the date of claim</td></tr>
+<tr><td>Paragraph 4(1)(b) of that Schedule</td><td>Date loss is caused or damage done</td></tr>
+<tr><td>Paragraph 5(1) of that Schedule (including that provision as applied by paragraph 5(3)(b) of that Schedule)</td><td>Date of claim</td></tr>
+<tr><td>Paragraph 2(1) of Schedule 12 to the Water Industry Act 1991</td><td>Date of claim</td></tr>
+<tr><td>Paragraph 2(2) or (3) of that Schedule</td><td>In the case of damage sustained by reason of expenditure, the date on which the damage is sustained; otherwise the date of claim</td></tr>
+<tr><td>Paragraph 6(1)(b) of that Schedule</td><td>Date loss is caused or damage done</td></tr>
+<tr><td>Section 14 of the Land Drainage Act 1991 (including that provision as applied by section 25(4)(b))</td><td>Date of claim</td></tr>
+<tr><td>Section 22 of that Act</td><td>Date of claim</td></tr>
+<tr><td>Section 29(5) of that Act (including that provision as applied by sections 30(3) and 31(5))</td><td>Date of claim]</td></tr>
+<tr><td>[[^F141]Section 8 of the Historic Environment (Wales) Act 2023</td><td>Date interim protection takes effect</td></tr>
+<tr><td>Section 21 of that Act</td><td>Date scheduled monument consent is refused or granted subject to conditions</td></tr>
+<tr><td>Section 24 of that Act</td><td>Date works ceased to be authorised</td></tr>
+<tr><td>Section 28 of that Act</td><td>Date notice of proposed termination is served</td></tr>
+<tr><td>Section 34 of that Act</td><td>Date temporary stop notice takes effect</td></tr>
+<tr><td>Section 70 of that Act</td><td>Date damage is caused</td></tr>
+<tr><td>Section 80 of that Act</td><td>Date interim protection takes effect</td></tr>
+<tr><td>Section 86 of that Act</td><td>Date temporary listing notice is served</td></tr>
+<tr><td>Section 108 of that Act</td><td>Date modification or revocation of consent takes effect</td></tr>
+<tr><td>Section 116 of that Act</td><td>Date termination of agreement or provision takes effect</td></tr>
+<tr><td>Section 122 of that Act</td><td>Date temporary stop notice takes effect</td></tr>
+<tr><td>[[^F142]Section 142(4) of that Act</td><td>Date right is extinguished or apparatus is transferred]</td></tr>
+<tr><td>Section 155(4) of that Act</td><td>Date damage is caused]</td></tr>
+<tr><td colspan="2"><i>Enactments extending to Scotland</i></td></tr>
+<tr><td>Section 2 of the [^M120] Land Drainage (Scotland) Act 1930</td><td>Date loss is caused or damage done</td></tr>
+<tr><td>Section 1 of the [^M121] Land Drainage (Scotland) Act 1941</td><td>Date of injury or damage</td></tr>
+<tr><td>Section 4 of the [^M122] Land Drainage (Scotland) Act 1958</td><td>Date damage is suffered</td></tr>
+<tr><td>Section 39(3) of the [^M123] Land Compensation (Scotland) Act 1963</td><td>Date of withdrawal of notice to treat</td></tr>
+<tr><td>[[^F143][^F144]Section 46B of the Control of Pollution Act 1974</td><td>[^F144]In the case of so much of the compensation as is payable under section 46B–<br>- [^F144]by virtue of paragraph 4(a) of the Schedule to the Anti-Pollution Works (Scotland) Regulations 2003 (loss and damage for which compensation payable), the date of the depreciation;<br>- [^F144]by virtue of paragraph 4(b), (c), or (d) of that Schedule, the date on which the loss is sustained or the damage is done; or where injurious affection is sustained, the date of the injurious affection;<br>- [^F144]by virtue of paragraph 4(e) of that Schedule, the date on which the expenses become payable]</td></tr>
+<tr><td>[[^F145]Section 76 of the Town and Country Planning (Scotland) Act 1997</td><td>Date of order under section 65</td></tr>
+<tr><td>Section 77 of that Act</td><td>Date permission is refused or granted subject to conditions</td></tr>
+<tr><td>Section 83 of that Act</td><td>Date damage suffered or expenses incurred</td></tr>
+<tr><td>Section 95 of that Act</td><td>Date of direction under section 92(3)</td></tr>
+<tr><td>Section 143 of that Act</td><td>Date of service of stop notice</td></tr>
+<tr><td>Section 165 of that Act</td><td>Date consent required by tree preservation order is refused or granted subject to conditions</td></tr>
+<tr><td>Section 166 of that Act</td><td>Date requirement is imposed by planning authority or Secretary of State</td></tr>
+<tr><td>Section 185 of that Act</td><td>Date expenses incurred</td></tr>
+<tr><td>Section 204(1) of that Act</td><td>Date on which order takes effect</td></tr>
+<tr><td>Section 232 of that Act</td><td>Date planning permission refused or granted subject to conditions</td></tr>
+<tr><td>Paragraph 1 of Schedule 13 to that Act</td><td>Date order made</td></tr>
+<tr><td>Section 25 of the Planning (Listed Buildings and Conservation Areas) (Scotland) Act 1997</td><td>Date of order under section 21</td></tr>
+<tr><td>Section 26 of that Act</td><td>Date building preservation notice served</td></tr>
+<tr><td>Section 14 of the Planning (Hazardous Substances) (Scotland) Act 1997</td><td>Date of order revoking or modifying consent</td></tr>
+<tr><td>Section 17 of that Act</td><td>Date of modification or revocation of consent]</td></tr>
+<tr><td>Section 10 of the [^M124] Water (Scotland) Act 1980</td><td>Date damage sustained</td></tr>
+<tr><td>Schedule 6 to that Act</td><td>Date source or land is affected or injury is sustained</td></tr>
+<tr><td>Section 71 of the [^M125] Roads (Scotland) Act 1984</td><td>Date access stopped up or limited</td></tr>
+<tr><td>Section 72 of that Act</td><td>Date access stopped up</td></tr>
+<tr><td>Section 83(8) of that Act</td><td>As regards expenses, date expenses incurred; as regards injurious effect, date injury sustained</td></tr>
+<tr><td>Section 88(2) of that Act</td><td>Date on which damage sustained</td></tr>
+<tr><td>Section 106 of that Act</td><td>As regards compulsory acquisition, date on which compulsory purchase notice first published; as regards acquisition by agreement, date agreement made.</td></tr>
+<tr><td>Section 116 of that Act</td><td>Date on which damage sustained</td></tr>
+<tr><td>Section 121 of that Act</td><td>Date on which damage done or materials removed</td></tr>
+<tr><td>Section 140 of that Act</td><td>Date of damage or disturbance</td></tr>
+</tbody>
+</table>
+
+### Part II — Provisions that Provide for Interest
+
+#### Enactments extending to England and Wales
+
+Section 23 of the [^M126]Land Compensation Act 1961 (permission for additional development granted after acquisition).
+
+The following provisions of the [^M127]Compulsory Purchase Act 1965—
+
+- section 5 (notice to treat ceasing to have effect), and
+- section 11(1) (entry on land under compulsory purchase powers).
+
+The following provisions of the [^M128]Land Compensation Act 1973—
+
+- section 18 (claims under Part I of that Act),
+- [^F146]...
+- section 37(6) (disturbance payments), and
+- section 63(1) (injurious affection payments under section 10 of the Compulsory Purchase Act 1965).
+
+[[^F147]Rule 32 of the Lands Tribunal Rules 1996 (awards with interest by Lands Chamber of the Upper Tribunal).]
+
+#### Enactments extending to Scotland
+
+Sections 84 to 86 of the [^M129]Lands Clauses Consolidation (Scotland) Act 1845.
+
+Paragraph 3 of Schedule 2 to the [^M130]Acquisition of Land (Authorisation Procedure) (Scotland) Act 1947.
+
+Section 31 (compensation where planning decision made after acquisition) of the [^M131]Land Compensation (Scotland) Act 1963.
+
+The following provisions of the [^M132]Land Compensation (Scotland) Act 1973—
+
+- section 16 (interest on compensation),
+- section 33(6) (supplementary provisions about farm loss payments),
+- section 34(5) (disturbance payments for people without compensatable interests),
+- section 59 (interest on compensation for injurious affection where no land taken).
+
+Section 78 of this Act.
+
+## SCHEDULE 19 — Repeals
+
+*Section 84.*
+
+### Part I — Planning: England and Wales
+
+|  |  |  |
+|---|---|---|
+| Chapter | Short title | Extent of repeal |
+| 1976 c. 57. | Local Government (Miscellaneous Provisions) Act 1976. | In section 7(5) paragraph (a)(iii). |
+| 1990 c. 8. | Town and Country Planning Act 1990. | In section 12(4)(a), “other” (in the second place where it occurs) and “or for any description of development or other use of such land”. |
+|  |  | Section 14(3). |
+|  |  | In section 21(2) “Subject to section 22”. |
+|  |  | Section 22. |
+|  |  | Section 23(2) to (4), (9) and (10). |
+|  |  | In section 49 “repeal”. |
+|  |  | In section 50, in subsection (1) “for the repeal and”, subsections (2) and (3), in subsections (4) and (5) “repeal and”, in subsection (6) “repeal”, in paragraph (a) the words from the beginning to “except that”, “or 40(2)(a)” and “or 40(3)” and in paragraph (b) “and they may do so as respects any part of their area to which the proposals relate” and in subsection (8) “repeal” and “in accordance with the provisions of the relevant local plan scheme”. |
+|  |  | In section 51(1) “repeal” (in both places). |
+|  |  | Section 52(2) and (3). |
+|  |  | In section 53, in subsections (1) and (2)(b) “repeal”, in subsection (2)(g) “repealing” and subsection (5). |
+|  |  | Section 55(6). |
+|  |  | Section 63. |
+|  |  | Section 64. |
+|  |  | In section 69, in subsection (1) “made to that authority” and in subsection (3) “made to the authority”. |
+|  |  | In section 74(2) “section 71 of this Act and”. |
+|  |  | In section 97(5) the words from “and Part II of Schedule 5” to the end. |
+|  |  | In section 176(4) “in writing”. |
+|  |  | In section 178(2) “(as defined in section 172(3))”. |
+|  |  | In section 186(1)(c) the words from “or for its retention” to “granted”. |
+|  |  | In section 188(1) the “and” immediately preceding paragraph (b). |
+|  |  | Section 190(4). |
+|  |  | In section 196 “an application referred to him under section 192(5) or” (in subsection (1)), and “an application or” (in subsection (3)), and subsections (5) to (7). |
+|  |  | In section 198(4)(a) “to 68”. |
+|  |  | In section 210, in subsection (3) “on indictment” and subsection (5). |
+|  |  | Section 219(6). |
+|  |  | In section 220(3)(a) “to 68”. |
+|  |  | Section 221(7) to (9). |
+|  |  | Section 250(2). |
+|  |  | Section 266(3). |
+|  |  | In section 284, in subsection (1)(a) “repeal” (in both places) and in subsection (3)(g) the words from “on an application” to “or”. |
+|  |  | In section 285, in subsection (1) “Subject to the provisions of this section”, in subsection (2) “(6) to (8)” and subsections (5) and (6). |
+|  |  | Section 286(1)(b). |
+|  |  | In section 287(1), (2), (3) and (5) “repeal” in each place where it occurs. |
+|  |  | Section 290. |
+|  |  | In section 306(2) “repeal”. |
+|  |  | In section 324, in subsection (1)(b) “198 to 200”, in subsection (1)(c) “Part VII” and subsection (2). |
+|  |  | In section 336(1), the definitions of “development consisting of the winning and working of minerals”, “established use certificate” and “mineral compensation modifications”, in the definition of “owner” the words “(except in sections 66, 67 and 71)”, in the definition of “planning permission” the words from “and in construing” to the end, the definitions of “relevant order”, “restriction on the winning and working of minerals” and “special consultations” and in section 336(9) “(1) to (3)”. |
+|  |  | In Schedule 1, paragraphs 1(2), 3(3) to (6), 4(1) and 9(2) and (3). |
+|  |  | In Schedule 2, in Part I paragraphs 3, 5 and 6, and in Part II paragraphs 3 to 16 and 18. |
+|  |  | In Schedule 5, in paragraph 1(6) “consisting of the winning and working of minerals”. |
+|  |  | In Schedule 6, in paragraph 2, in sub-paragraph (1)(c) “and subsection (5) of section 196” and in sub-paragraph (8) “or 290”. |
+|  |  | In Schedule 7, in paragraph 13(2)(e) the words from “for the purpose” to “6(2)”. |
+|  |  | Schedule 11. |
+|  |  | In Schedule 13, Notes (2) and (5) to paragraph 2, in Note (3) to paragraph 2 “also”, in Note (1)(b) to paragraph 3 “or under section 22”, in Note (2) to paragraph 3 “13(7) or”, in Note (1)(b) to paragraph 4 “or under section 22” and in Note (2) to paragraph 4 “13(7) or”. |
+|  |  | In Schedule 16, in Part I, in the entry relating to section 77 “(2) and (9), 66 and 67”, in the entry relating to sections 78 and 79 the words from “with” to the end and in the entry relating to section 285 “except subsections (5) and (6)”; and in Part III, the entries relating to sections 312(2) and 324(4); and Parts IV and V. |
+| 1990 c. 9. | Planning (Listed Buildings and Conservation Areas) Act 1990. | In section 9(5) “on indictment”. |
+|  |  | In section 38(2) “within such period as may be so specified”. |
+|  |  | In section 39(7) “in writing”. |
+|  |  | Section 42(7). |
+|  |  | Section 55(6). |
+|  |  | In section 88(6) “or the presence of minerals in it”. |
+|  |  | In section 90(6)(b) “and 42(6)”. |
+|  |  | In section 92(2)(b) “and 42(6)”. |
+| 1990 c. 10. | Planning (Hazardous Substances) Act 1990. | In section 25(1)(c) “(1) to (5) and (7)”. |
+|  |  | In section 36(5) “Subject to subsection (6)”. |
+| 1990 c. 11. | Planning (Consequential Provisions) Act 1990. | In Schedule 2, paragraphs 3(2), 35(1)(b) and 38. |
+|  |  | In Schedule 4, in paragraph 1, in the Table the entry relating to section 9(4) of the 1971 Act and paragraph 2 of the Schedule, and paragraph 2 of the Schedule. |
+
+### Part II — Planning Compensation Repeals
+
+|  |  |  |
+|---|---|---|
+| Chapter | Short title | Extent of repeal |
+| 1961 c. 33. | Land Compensation Act 1961. | In section 15(4) paragraphs (a) and (b). |
+| 1965 c. 36. | Gas Act 1965. | In Schedule 3, paragraph 3. |
+| 1968 c. 14. | Public Expenditure and Receipts Act 1968. | In Schedule 3, paragraph 7(b). |
+| 1973 c. 26. | Land Compensation Act 1973. | In section 5(3), paragraphs (a) and (b). |
+| 1982 c. 16. | Civil Aviation Act 1982. | In section 53(1)(a) “114”. |
+| 1986 c. 31. | Airports Act 1986. | In section 61(1)(a) “114”. |
+| 1990 c. 8. | Town and Country Planning Act 1990. | Section 55(6). |
+|  |  | Sections 80 and 81. |
+|  |  | In section 111(1) and (2) “new” (in both places). |
+|  |  | In section 112, in subsection (9) “new”, subsection (12)(a) and in subsection (13) “paragraph (a) or paragraph (b) of”. |
+|  |  | Sections 113 and 114. |
+|  |  | Part V. |
+|  |  | In section 198(4)(a) “80, 81”. |
+|  |  | In section 220(3)(a) “80, 81”. |
+|  |  | In section 262(4) and (7)(a) “123”. |
+|  |  | In section 263(3) “123(3) and (4)”. |
+|  |  | Section 284(3)(c). |
+|  |  | In section 308, in subsection (1)(b) “or 132(1)”, in subsection (2) “or, as the case may be, section 132(4)” and in subsection (6) “and in section 309”. |
+|  |  | Section 309. |
+|  |  | In section 310 “or 309”. |
+|  |  | In section 311(1)(b) “or V”. |
+|  |  | Section 312. |
+|  |  | In section 313 “Without prejudice to section 312, and”. |
+|  |  | In section 315(2), the words from “and in relation” to “in respect of such land”. |
+|  |  | Section 324(4). |
+|  |  | Sections 326 and 327. |
+|  |  | In section 336(1) the definitions of “new development” and “previous apportionment”. |
+|  |  | In Schedule 1, in paragraph 16(1) “114”. |
+|  |  | In Schedule 3, paragraphs 3 to 8, 11 and 14. |
+|  |  | Schedule 12. |
+|  |  | In Schedule 16, in Parts III and VI, the entries relating to Schedule 12. |
+| 1990 c. 9. | Planning (Listed Buildings and Conservation Areas) Act 1990. | Section 27. |
+|  |  | In section 30, subsection (1)(a) and in subsection (2) “27”. |
+|  |  | In section 49 the words from “other than” to the end. |
+|  |  | In section 88(4) “27”. |
+|  |  | In section 91(2) “new development”. |
+| 1990 c. 11. | Planning (Consequential Provisions) Act 1990. | In Schedule 2, paragraphs 12(3)(a), 18, 24(3)(a)(i) and, in paragraph 29(2) paragraph (a) and, in paragraph (b), sub-paragraphs (i) and (ii). |
+
+The repeals in Part II have effect subject to section 31(7) and (8) of this Act and paragraphs 1(2), 5(2) and 13(2) of Schedule 6.
+
+### Part III — Land Compensation: England and Wales
+
+|  |  |  |
+|---|---|---|
+| Chapter | Short title | Extent of repeal |
+| 1961 c. 33. | Land Compensation Act 1961. | In section 5, in rule (3), “the special needs of a particular purchaser or”. |
+|  |  | Section 17(8). |
+|  |  | Section 22(3). |
+| 1973 c. 26. | Land Compensation Act 1973. | In section 29, in subsection (1) “passed the resolution” in paragraph (ii) and the “and” following paragraph (iii), in subsection (3A) the words from “of the service” to “(1)(b) above” and subsection (5). |
+|  |  | Section 34(6). |
+|  |  | In section 52(10), the words following “unpaid”. |
+| 1973 c. 56. | Land Compensation (Scotland) Act 1973. | In Part II of Schedule 2, the entry for section 33(4) of the Land Compensation Act 1973. |
+| 1980 c. 65. | Local Government, Planning and Land Act 1980. | Section 114(2). |
+| 1981 c. 67. | Acquisition of Land Act 1981. | Section 20.Paragraph 7 of Schedule 3. |
+| 1985 c. 71. | Housing (Consequential Provisions) Act 1985. | In Schedule 2, paragraph 24(2)(c). |
+| 1986 c. 63. | Housing and Planning Act 1986. | Section 9(3)(c). |
+| 1990 c. 8. | Town and Country Planning Act 1990. | In section 231, the words from “for a purpose” to “is situated”. |
+| 1990 c. 11. | Planning (Consequential Provisions) Act 1990. | In Schedule 2, paragraph 29(4). |
+
+### Part IV — Scotland
+
+|  |  |  |
+|---|---|---|
+| Chapter | Short title | Extent of repeal |
+| 1963 c.51 | Land Compensation (Scotland) Act 1963. | In section 12, in rule 3, the words “the special needs of a particular purchaser or”. |
+|  |  | Section 23(4)(a) and (b). |
+|  |  | Section 25(8). |
+|  |  | Section 30(3). |
+| 1965 c. 36. | Gas Act 1965. | In Schedule 3, paragraph 3. |
+| 1968 c. 14. | Public Expenditure and Receipts Act 1968. | In Schedule 3, paragraph 7(a). |
+| [^F148] . . . | . . . | . . . |
+| 1973 c. 56. | Land Compensation (Scotland) Act 1973. | Section 5(3)(a) and (b). |
+|  |  | In section 27, in subsection (1), the words “passed the resolution” in paragraph (ii), and the word “and” following paragraph (iii); and subsection (5). |
+|  |  | Section 31(6). |
+|  |  | Section 48(9)(b). |
+|  |  | In Part II of Schedule 2, the entry for section 33(4) of the Land Compensation Act 1973. |
+| 1980 c. 65. | Local Government, Planning and Land Act 1980. | Section 114(2). |
+| 1982 c. 16. | Civil Aviation Act 1982. | In section 53(1)(a), the word “158”. |
+| 1986 c. 31. | Airports Act 1986. | In section 61(1)(a), the word “158”. |
+
+### Part V — New Street Byelaws
+
+|  |  |  |
+|---|---|---|
+| Chapter | Short title | Extent of repeal |
+| 1980 c. 66. | Highways Act 1980. | Part X. |
+|  |  | Section 203(2)(b)(ii). |
+|  |  | In section 232(9), in the definition of “byelaw width”, the word “byelaws”. |
+|  |  | In section 307(1) the words “193, 200(2)”. |
+|  |  | Section 325(1)(c). |
+|  |  | In section 326(1) the words “or 186”. |
+|  |  | In Schedule 22 paragraph 4. |
+|  |  | In Schedule 23 paragraphs 10 and 11. |
+| 1985 c. 51. | Local Government Act 1985. | In Schedule 4, paragraphs 29 to 32. |
+| 1985 c. 68. | Housing Act 1985. | In section 622, in the definition of “building regulations”, paragraph (b). |
+| 1990 c. 8. | Town and Country Planning Act 1990. | In paragraph 2 of Schedule 17 the words— “Sections 188, 193 and 196 Section 200(2) and (4)”. |
+|  |  | In Schedule 17, in paragraph 3, sub-paragraphs (a) and (c)(iii). |
+
+The repeals in Part V are subject to the savings in section 81(2) of this Act.
+
+---
+
+[^M1]: 1990 c. 8.
+[^F1]: S. 6(6) repealed (6.4.2009 for E.) by Planning Act 2008 (c. 29), s. 241(3)(4), Sch. 13 (with s. 226); S.I. 2009/400, art. 5(g), Sch. Pt. 2
+[^M2]: 1976 c. 57.
+[^M3]: 1960 c. 62.
+[^M4]: 1974 c. 40.
+[^M5]: 1990 c. 43.
+[^M6]: 1980 c. 43.
+[^M7]: 1975 c. 76.
+[^M8]: 1975 c. 76.
+[^M9]: 1925 c. 20.
+[^F2]: Words in Act substituted (22.4.2011) by The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043), arts. 2, 3, 6 (with art. 3(2)(3), 4(2), 6(4)(5))
+[^M10]: 1972 c. 68.
+[^M11]: 1986 c. 5.
+[^M12]: 1980 c. 43.
+[^M13]: 1972 c. 70.
+[^M14]: 1947 c. 51.
+[^F3]: S. 23(6)(a) omitted (12.3.2015) by virtue of The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664), reg. 1(1), Sch. 4 para. 96(2) (with reg. 5(1))
+[^M15]: 1983 c. 47.
+[^M16]: 1979 c. 46.
+[^M17]: 1990 c. 9.
+[^M18]: 1972 c. 70.
+[^M19]: 1990 c. 10.
+[^M20]: 1990. c. 9.
+[^F4]: S. 33-59 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt.I(with s. 5, Sch. 3)
+[^F5]: S. 33-59 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt.I(with s. 5, Sch. 3)
+[^F6]: S. 33-59 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt.I(with s. 5, Sch. 3)
+[^F7]: S. 33-59 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt.I(with s. 5, Sch. 3)
+[^F8]: S. 33-59 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt.I(with s. 5, Sch. 3)
+[^F9]: S. 33-59 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt. I(with s. 5, Sch. 3)
+[^F10]: S. 33-59 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt.I(with s. 5, Sch. 3)
+[^F11]: S. 33-59 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt.I(with s. 5, Sch. 3)
+[^F12]: S. 33-59 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt.I(with s. 5, Sch. 3)
+[^F13]: S. 33-59 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt.I(with s. 5, Sch. 3)
+[^F14]: S. 33-59 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt.I(with s. 5, Sch. 3)
+[^F15]: S. 33-59 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt.I(with s. 5, Sch. 3)
+[^F16]: S. 33-59 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt. I(with s. 5, Sch. 3)
+[^F17]: S. 33-59 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt.I(with s. 5, Sch. 3)
+[^F18]: S. 33-59 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt.I(with s. 5, Sch. 3)
+[^F19]: S. 33-59 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt.I(with s. 5, Sch. 3)
+[^F20]: S. 33-59 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt.I(with s. 5, Sch. 3)
+[^F21]: S. 33-59 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt.I(with s. 5, Sch. 3)
+[^F22]: S. 33-59 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt.I(with s. 5, Sch. 3)
+[^F23]: S. 33-59 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt.I(with s. 5, Sch. 3)
+[^F24]: S. 33-59 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt.I(with s. 5, Sch. 3)
+[^F25]: S. 33-59 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt.I(with s. 5, Sch. 3)
+[^F26]: S. 33-59 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt. I(with s. 5, Sch. 3)
+[^F27]: S. 33-59 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt.I(with s. 5, Sch. 3)
+[^F28]: S. 33-59 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt.I(with s. 5, Sch. 3)
+[^F29]: S. 33-59 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt.I(with s. 5, Sch. 3)
+[^F30]: S. 33-59 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt.I(with s. 5, Sch. 3)
+[^F31]: S. 60(1)-(5)(7)(8) repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt.I(with s. 5, Sch. 3)
+[^M21]: 1973 c. 26.
+[^M22]: 1990 c. 8.
+[^M23]: 1980 c. 66.
+[^M24]: 1973 c. 26.
+[^M25]: 1965 c. 56.
+[^M26]: 1845 c. 18.
+[^M27]: 1961 c. 33.
+[^M28]: 1845 c. 18.
+[^M29]: 1965 c. 56.
+[^F32]: S. 65 repealed (6.4.2012) by Localism Act 2011 (c. 20), s. 240(2), Sch. 25 Pt. 34; S.I. 2012/628, art. 8(e) (with arts. 9, 12, 13, 16, 18-20) (as amended (3.8.2012) by S.I. 2012/2029, arts. 2, 4)
+[^F33]: S. 66 repealed (22.9.2017) by Neighbourhood Planning Act 2017 (c. 20), ss. 33(4)(a), 46(1) (with s. 33(5)); S.I. 2017/936, reg. 3(c)
+[^M30]: 1965 c. 56.
+[^M31]: 1981 c. 66.
+[^M32]: 1961 c. 33.
+[^M33]: 1973 c. 26.
+[^M34]: 1981 c. 67.
+[^M35]: 1973 c. 26.
+[^M36]: 1983 c. 19
+[^M37]: 1973 c. 56.
+[^M38]: 1963 c. 51.
+[^M39]: 1973 c. 56.
+[^M40]: 1981 c. 59.
+[^M41]: 1973 c.56.
+[^M42]: 1947 c. 42.
+[^M43]: 1845 c. 19.
+[^M44]: 1963 c. 51.
+[^M45]: 1845 c. 19
+[^M46]: 1947 c. 42.
+[^M47]: 1845 c. 19.
+[^M48]: 1963 c. 51.
+[^M49]: 1963 c. 51.
+[^M50]: 1973 c. 56.
+[^M51]: 1972 c. 52.
+[^M52]: 1984 c. 54.
+[^M53]: 1972 c. 52.
+[^M54]: 1963 c. 51.
+[^M55]: 1845 c. 19.
+[^M56]: 1947 c. 42.
+[^F34]: Words in s. 78(1)(b) substituted (27.5.1997) by 1997 c. 11, ss. 4, 6(2), Sch. 2 para. 49(1)(with s. 5, Sch. 3)
+[^M57]: 1963 c. 51.
+[^M58]: 1961 c. 33.
+[^M59]: 1845 c. 18.
+[^F35]: Words in s. 80(2) omitted (13.7.2016) by virtue of Housing and Planning Act 2016 (c. 22), s. 216(3), Sch. 16 para. 16; S.I. 2016/733, reg. 3(j)
+[^M60]: 1980 c. 66.
+[^M61]: 1974 c. 28.
+[^M62]: 1988 c. 1.
+[^M63]: 1990 c. 8.
+[^M64]: 1972 c. 52.
+[^M65]: 1991 c. 34.
+[^M66]: 1990 c. 8.
+[^M67]: 1978 c. 30.
+[^F36]: Sch. 2 para. 5(9) inserted (6.4.2009 for E., 28.11.2014 for W.) by Planning Act 2008 (c. 29), ss. 198(4), 241(3)(4) (with s. 226); S.I. 2009/400, art. 5(e); S.I. 2014/2780, art. 2
+[^F37]: Sch. 3 para. 10(a) omitted (12.3.2015) by virtue of The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664), reg. 1(1), Sch. 4 para. 96(3) (with reg. 5(1))
+[^M68]: 1990 c. 9.
+[^M69]: 1971 c. 62.
+[^M70]: 1980 c. 65.
+[^M71]: 1991 c. 34.
+[^M72]: 1991 c. 34.
+[^M73]: 1991 c. 34.
+[^M74]: 1991 c. 34.
+[^M75]: 1991 c. 34.
+[^M76]: 1990 c. 11.
+[^F38]: Sch. 4 para. 39 repealed (1.4.1997) by 1995 c. 25, ss. 120(3), 125(1), Sch.24(with ss. 7(6), 115, 117); S.I. 1996/2560, art. 2,Sch.
+[^F39]: Sch. 4 Pt. III repealed (28.9.2004 for E., 15.10.2005 for W.) by Planning and Compulsory Purchase Act 2004 (c. 5), Sch. 7 para. 16, Sch. 9 (with s. 111); S.I. 2004/2202, art. 2(i)(k), Sch. 1 Pt. 1; S.I. 2005/2847, art. 2(f)(g), Sch. 1
+[^F40]: Sch. 6 para. 1(1)(a) repealed (6.4.2012) by Localism Act 2011 (c. 20), s. 240(2), Sch. 25 Pt. 34; S.I. 2012/628, art. 8(e) (with arts. 9, 12, 13, 16, 18-20) (as amended (3.8.2012) by S.I. 2012/2029, arts. 2, 4)
+[^M77]: 1973 c. 26.
+[^M78]: 1990 c. 11.
+[^F41]: Sch. 6 para. 43 omitted (4.11.2024) by virtue of 2023 asc 3, Sch. 13 para. 161A (as substituted by The Historic Environment (Wales) Act 2023 (Consequential Provision) (Primary Legislation) Regulations 2024 (S.I. 2024/1061), regs. 1(2), 20; S.I. 2024/860, art. 3(d))
+[^M79]: 1947 c. 51
+[^M80]: 1954 c. 72.
+[^M81]: 1972 c. 70.
+[^F42]: Sch. 8-11 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt.I (with s. 5, Sch. 3)
+[^F43]: Sch. 8-11 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt.I (with s. 5, Sch. 3)
+[^F44]: Sch. 8-11 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt.I (with s. 5, Sch. 3)
+[^F45]: Sch. 8-11 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt.I (with s. 5, Sch. 3)
+[^F46]: Sch. 12 paras. 6-33 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt.I (with s. 5, Sch. 3)
+[^F47]: Sch. 12 paras. 6-33 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt.I (with s. 5, Sch. 3)
+[^F48]: Sch. 12 paras. 6-33 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt.I (with s. 5, Sch. 3)
+[^F49]: Sch. 12 paras. 6-33 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt.I (with s. 5, Sch. 3)
+[^F50]: Sch. 12 paras. 6-33 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt.I (with s. 5, Sch. 3)
+[^F51]: Sch. 12 paras. 6-33 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt.I (with s. 5, Sch. 3)
+[^F52]: Sch. 12 paras. 6-33 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt.I (with s. 5, Sch. 3)
+[^F53]: Sch. 12 paras. 6-33 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt.I (with s. 5, Sch. 3)
+[^F54]: Sch. 12 paras. 6-33 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt.I (with s. 5, Sch. 3)
+[^F55]: Sch. 12 paras. 6-33 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt.I (with s. 5, Sch. 3)
+[^F56]: Sch. 12 paras. 6-33 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt.I (with s. 5, Sch. 3)
+[^F57]: Sch. 12 paras. 6-33 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt. I (with s. 5, Sch. 3)
+[^F58]: Sch. 12 paras. 6-33 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt.I (with s. 5, Sch. 3)
+[^F59]: Sch. 12 paras. 6-33 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt.I (with s. 5, Sch. 3)
+[^F60]: Sch. 12 paras. 6-33 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt.I (with s. 5, Sch. 3)
+[^F61]: Sch. 12 paras. 6-33 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt. I (with s. 5, Sch. 3)
+[^F62]: Sch. 12 paras. 6-33 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt.I (with s. 5, Sch. 3)
+[^F63]: Sch. 12 paras. 6-33 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt.I (with s. 5, Sch. 3)
+[^F64]: Sch. 12 paras. 6-33 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt.I (with s. 5, Sch. 3)
+[^F65]: Sch. 12 paras. 6-33 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt.I (with s. 5, Sch. 3)
+[^F66]: Sch. 12 paras. 6-33 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt.I (with s. 5, Sch. 3)
+[^F67]: Sch. 12 paras. 6-33 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt.I (with s. 5, Sch. 3)
+[^F68]: Sch. 12 paras. 6-33 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt.I (with s. 5, Sch. 3)
+[^F69]: Sch. 12 paras. 6-33 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt.I (with s. 5, Sch. 3)
+[^F70]: Sch. 12 paras. 6-33 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt.I (with s. 5, Sch. 3)
+[^F71]: Sch. 12 paras. 6-33 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt.I (with s. 5, Sch. 3)
+[^F72]: Sch. 12 paras. 6-33 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt.I (with s. 5, Sch. 3)
+[^F73]: Sch. 12 paras. 6-33 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt.I (with s. 5, Sch. 3)
+[^F74]: Sch. 13 paras. 2-43 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt.I (with s. 5, Sch. 3)
+[^F75]: Sch. 13 paras. 2-43 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt.I (with s. 5, Sch. 3)
+[^F76]: Sch. 13 paras. 2-43 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt.I (with s. 5, Sch. 3)
+[^F77]: Sch. 13 paras. 2-43 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt.I (with s. 5, Sch. 3)
+[^F78]: Sch. 13 paras. 2-43 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt.I (with s. 5, Sch. 3)
+[^F79]: Sch. 13 paras. 2-43 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt.I (with s. 5, Sch. 3)
+[^F80]: Sch. 13 paras. 2-43 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt.I (with s. 5, Sch. 3)
+[^F81]: Sch. 13 paras. 2-43 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt.I (with s. 5, Sch. 3)
+[^F82]: Sch. 13 paras. 2-43 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt.I (with s. 5, Sch. 3)
+[^F83]: Sch. 13 paras. 2-43 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt.I (with s. 5, Sch. 3)
+[^F84]: Sch. 13 paras. 2-43 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt.I (with s. 5, Sch. 3)
+[^F85]: Sch. 13 paras. 2-43 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt.I (with s. 5, Sch. 3)
+[^F86]: Sch. 13 paras. 2-43 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt.I (with s. 5, Sch. 3)
+[^F87]: Sch. 13 paras. 2-43 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt.I (with s. 5, Sch. 3)
+[^F88]: Sch. 13 paras. 2-43 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt.I (with s. 5, Sch. 3)
+[^F89]: Sch. 13 paras. 2-43 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt.I (with s. 5, Sch. 3)
+[^F90]: Sch. 13 paras. 2-43 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt.I (with s. 5, Sch. 3)
+[^F91]: Sch. 13 paras. 2-43 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt.I (with s. 5, Sch. 3)
+[^F92]: Sch. 13 paras. 2-43 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt.I (with s. 5, Sch. 3)
+[^F93]: Sch. 13 paras. 2-43 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt.I (with s. 5, Sch. 3)
+[^F94]: Sch. 13 paras. 2-43 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt.I (with s. 5, Sch. 3)
+[^F95]: Sch. 13 paras. 2-43 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt.I (with s. 5, Sch. 3)
+[^F96]: Sch. 13 paras. 2-43 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt.I (with s. 5, Sch. 3)
+[^F97]: Sch. 13 paras. 2-43 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt.I (with s. 5, Sch. 3)
+[^F98]: Sch. 13 paras. 2-43 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt.I (with s. 5, Sch. 3)
+[^F99]: Sch. 13 paras. 2-43 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt.I (with s. 5, Sch. 3)
+[^F100]: Sch. 13 paras. 2-43 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt.I (with s. 5, Sch. 3)
+[^F101]: Sch. 13 paras. 2-43 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt.I (with s. 5, Sch. 3)
+[^F102]: Sch. 13 paras. 2-43 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt.I (with s. 5, Sch. 3)
+[^F103]: Sch. 13 paras. 2-43 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt.I (with s. 5, Sch. 3)
+[^F104]: Sch. 13 paras. 2-43 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt.I (with s. 5, Sch. 3)
+[^F105]: Sch. 13 paras. 2-43 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt.I (with s. 5, Sch. 3)
+[^F106]: Sch. 13 paras. 2-43 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt.I (with s. 5, Sch. 3)
+[^F107]: Sch. 13 paras. 2-43 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt.I (with s. 5, Sch. 3)
+[^F108]: Sch. 13 paras. 2-43 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt.I (with s. 5, Sch. 3)
+[^F109]: Sch. 13 paras. 2-43 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt.I (with s. 5, Sch. 3)
+[^F110]: Sch. 13 paras. 2-43 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt.I (with s. 5, Sch. 3)
+[^F111]: Sch. 13 paras. 2-43 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt.I (with s. 5, Sch. 3)
+[^F112]: Sch. 13 paras. 2-43 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt.I (with s. 5, Sch. 3)
+[^F113]: Sch. 13 paras. 2-43 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt.I (with s. 5, Sch. 3)
+[^F114]: Sch. 13 paras. 2-43 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt.I (with s. 5, Sch. 3)
+[^F115]: Sch. 13 paras. 2-43 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt.I (with s. 5, Sch. 3)
+[^F116]: Sch. 13 para. 44 repealed (1.4.1996) by 1994 c. 39, s. 180(2), Sch.14; S.I. 1996/323, art. 4(1)(d), Sch.2
+[^F117]: Sch. 13 paras. 45-47 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt.I (with s. 5, Sch. 3)
+[^F118]: Sch. 13 paras. 45-47 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt.I (with s. 5, Sch. 3)
+[^F119]: Sch. 13 paras. 45-47 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt.I (with s. 5, Sch. 3)
+[^F120]: Sch. 14 repealed (22.9.2017) by Neighbourhood Planning Act 2017 (c. 20), ss. 33(4)(b), 46(1) (with s. 33(5)); S.I. 2017/936, reg. 3(c)
+[^M82]: 1961 c. 33.
+[^M83]: 1961 c. 33.
+[^M84]: 1965 c. 56.
+[^M85]: 1973 c. 26.
+[^M86]: 1973 c. 26.
+[^M87]: 1990 c. 8.
+[^M88]: 1981 c. 67.
+[^M89]: 1981 c. 67.
+[^F121]: Words in Sch. 15 para. 15(1) repealed (6.4.2012) by Localism Act 2011 (c. 20), s. 240(2), Sch. 25 Pt. 34; S.I. 2012/628, art. 8(e) (with arts. 9, 12, 13, 16, 18-20) (as amended (3.8.2012) by S.I. 2012/2029, arts. 2, 4)
+[^F122]: Sch. 15 para. 15(2) repealed (6.4.2012) by Localism Act 2011 (c. 20), s. 240(2), Sch. 25 Pt. 34; S.I. 2012/628, art. 8(e) (with arts. 9, 12, 13, 16, 18-20) (as amended (3.8.2012) by S.I. 2012/2029, arts. 2, 4)
+[^F123]: Sch. 15 para. 16(a) repealed (6.4.2012) by Localism Act 2011 (c. 20), s. 240(2), Sch. 25 Pt. 34; S.I. 2012/628, art. 8(e) (with arts. 9, 12, 13, 16, 18-20) (as amended (3.8.2012) by S.I. 2012/2029, arts. 2, 4)
+[^M90]: 1976 No. 4.
+[^M91]: 1976 No. 4.
+[^M92]: 1977 c. 42.
+[^M93]: 1976 c. 80.
+[^M94]: 1985 c. 68.
+[^M95]: 1988 c. 50.
+[^F124]: Sch. 15 para. 25 repealed (22.9.2017) by Neighbourhood Planning Act 2017 (c. 20), ss. 33(4)(c), 46(1) (with s. 33(5)); S.I. 2017/936, reg. 3(c)
+[^M96]: 1976 No. 4.
+[^M97]: 1976 No. 4.
+[^M98]: 1963 c. 51.
+[^M99]: 1980 c. 65.
+[^M100]: 1968 c. 16.
+[^M101]: 1972 c. 52.
+[^M102]: 1972 c. 52.
+[^M103]: 1921 c. 58.
+[^M104]: 1845 c. 19.
+[^M105]: 1947 c. 42.
+[^M106]: 1963 c. 51.
+[^F125]: Sch. 17 para. 11 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt.I (with s. 5, Sch. 3)
+[^F126]: Sch. 17 para. 12 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt.I (with s. 5, Sch. 3)
+[^M107]: 1973 c. 56.
+[^M108]: 1973 c. 56.
+[^M109]: 1972 c. 52.
+[^F127]: Sch. 17 para. 17 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt.I (with s. 5, Sch. 3)
+[^F128]: Sch. 17 para. 18 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt.I (with s. 5, Sch. 3)
+[^M110]: 1967 c. 10
+[^M111]: 1975 c. 23
+[^M112]: 1979 c. 46
+[^F129]: Words in Sch. 18 Pt. 1 omitted (S.) (1.11.2025) by virtue of The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165), reg. 1(2), sch. 22 para. 3 (with sch. 23)
+[^F130]: Entry in Sch. 18 Pt. I inserted (1.4.1999) by S.I. 1999/648, art. 2(2)(a)
+[^F131]: Sch. 18 Pt. I: Entry inserted (E.) (22.2.2002) by S.I. 2002/116, art. 2
+[^F132]: Words in Sch. 18 Pt. 1 inserted (6.4.2018) by Housing and Planning Act 2016 (c. 22), ss. 193(4), 216(3); S.I. 2018/251, reg. 4(d) (with reg. 6)
+[^M113]: 1961 c. 33
+[^M114]: 1965 c. 56
+[^F133]: Sch. 18 Pt. 1 entry repealed (6.4.2010 for E., 26.7.2010 for W.) by Health and Social Care Act 2008 (c. 14), s. 170(3)(4), Sch. 11 para. 31, Sch. 15 Pt. 3; S.I. 2010/708, art. 6(e)(f) (with Sch. 2); S.I. 2010/1547, art. 2(e)(f) (with Sch. 1)
+[^F134]: Entries in Sch. 18 Pt. I repealed (E.W.) (1.12.1991) by Water Consolidation (COnsequential Provisions) Act 1991 (c. 60, SIF 130), ss. 2, 4(2), Sch. 3 Pt. I (with Sch. 2 paras. 12, 14(1), 15).
+[^M115]: 1980 c. 66
+[^M116]: 1984 c. 22
+[^M117]: 1984 c. 55
+[^F135]: Words in Sch. 18 Pt. 1 inserted (6.4.2012 for E.) by Planning Act 2008 (c. 29), s. 241(3)(4), Sch. 8 para. 20(2) (with s. 226); S.I. 2012/601, art. 2(a)
+[^F136]: Words in Sch. 18 Pt. 1 repealed (6.4.2009 for E.W. for specified purposes, 6.4.2012 for E. in so far as not already in force) by Planning Act 2008 (c. 29), s. 241(3)(4), Sch. 8 para. 20(3), Sch. 13 (with s. 226); S.I. 2009/400, art. 3(o); S.I. 2012/601, art. 2(a)(c), Sch.
+[^M118]: 1990 c. 9
+[^F137]: Words in Sch. 18 omitted (4.11.2024) by virtue of 2023 asc 3, Sch. 13 para. 161B(a) (as substituted by The Historic Environment (Wales) Act 2023 (Consequential Provision) (Primary Legislation) Regulations 2024 (S.I. 2024/1061), regs. 1(2), 20; S.I. 2024/860, art. 3(d))
+[^M119]: 1990 c. 10
+[^F138]: Entry in Sch. 18 Pt. I inserted (19.7.1999) by S.I. 1999/1765, art. 2
+[^F139]: Entries in Sch. 18 Pt. I inserted (E.W.) (1.12.1991) by Water Consolidation (Consequential Provisions) Act 1991 (c. 60, SIF 130), ss. 2, 4(2), Sch. 1 para. 58.
+[^F140]: Words in Sch. 18 Pt. I inserted (1.4.1996) by S.I. 1996/593, reg. 3, Sch. 2 para. 7
+[^F141]: Words in Sch. 18 inserted (4.11.2024) by 2023 asc 3, Sch. 13 para. 161B(b) (as amended by The Historic Environment (Wales) Act 2023 (Consequential Provision) (Primary Legislation) Regulations 2024 (S.I. 2024/1061), regs. 1(2), 20; S.I. 2024/860, art. 3(d))
+[^F142]: Words in Sch. 18 Pt. 1 inserted (E.W.) (28.4.2026) by Planning (Consequential Provisions) (Wales) Act 2026 (asc 7), s. 5(1), Sch. 2 para. 262(a) (with Sch. 5 Pt. 1)
+[^M120]: 1930 c. 20
+[^M121]: 1941 c. 13
+[^M122]: 1958 c. 24
+[^M123]: 1963 c. 51
+[^F143]: Words in Sch. 18 Pt. 1 inserted (S.) (1.4.2003) by The Planning and Compensation Act 1991 (Amendment of Schedule 18) (Scotland) Order 2003 (S.S.I. 2003/175), arts. 1(1), 2
+[^F144]: Sch. 18 Pt. 1 entry omitted (S.) (1.4.2006) by virtue of The Water Environment (Consequential and Savings Provisions) (Scotland) Order 2006 (S.S.I. 2006/181), sch. Pt. 4 para. 6(2)
+[^F145]: Entries substituted (27.5.1997) for the entries relating to the 1972 Act by 1997 c. 11, ss. 4, 6(2), Sch. 2 para. 49(2) (with s. 5, Sch. 3)
+[^M124]: 1980 c. 45
+[^M125]: 1984 c. 54
+[^M126]: 1961 c. 33.
+[^M127]: 1965 c. 56.
+[^M128]: 1973 c. 26.
+[^F146]: Sch. 18 Pt. II entry repealed (31.10.2004) by Planning and Compulsory Purchase Act 2004 (c. 5), Sch. 9 (with s. 111); S.I. 2004/2593, art. 2(e)
+[^F147]: Words in Sch. 18 Pt. II substituted (18.1.2010) by The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22), art. 1(1), Sch. 2 para. 11 (with Sch. 5)
+[^M129]: 1845 c. 19.
+[^M130]: 1947 c. 42.
+[^M131]: 1963 c. 51.
+[^M132]: 1973 c. 56.
+[^F148]: Entries relating to the Town and Country Planning (Scotland) Act 1972 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt.I (with s. 5, Sch. 3)

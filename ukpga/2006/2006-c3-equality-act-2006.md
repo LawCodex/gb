@@ -1,0 +1,2552 @@
+---
+title: "Equality Act 2006"
+identifier: "ukpga/2006/3"
+citation: "2006 c. 3"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S"
+date: 2006-02-16
+last_amended: 2024-10-26
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/2006/3"
+source_modified: 2024-11-01
+retrieved: 2026-10-11
+---
+
+# Equality Act 2006
+
+**2006 c. 3**
+
+An Act to make provision for the establishment of the Commission for Equality and Human Rights; to dissolve the Equal Opportunities Commission, the Commission for Racial Equality and the Disability Rights Commission; to make provision about discrimination on grounds of religion or belief; to enable provision to be made about discrimination on grounds of sexual orientation; to impose duties relating to sex discrimination on persons performing public functions; to amend the Disability Discrimination Act 1995; and for connected purposes.
+
+[16th February 2006]
+
+Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## Part 1 — The Commission for Equality and Human Rights
+
+### The Commission
+
+#### 1 Establishment
+
+There shall be a body corporate known as the Commission for Equality and Human Rights.
+
+#### 2 Constitution, &c.
+
+Schedule 1 (constitution of the Commission, proceedings, money, &c.) shall have effect.
+
+#### 3 General duty
+
+The Commission shall exercise its functions under this Part with a view to encouraging and supporting the development of a society in which—
+
+(a) people's ability to achieve their potential is not limited by prejudice or discrimination,
+
+(b) there is respect for and protection of each individual's human rights,
+
+(c) there is respect for the dignity and worth of each individual,
+
+(d) each individual has an equal opportunity to participate in society, and
+
+(e) there is mutual respect between groups based on understanding and valuing of diversity and on shared respect for equality and human rights.
+
+#### 4 Strategic plan
+
+(1) The Commission shall prepare a plan showing—
+
+(a) activities or classes of activity to be undertaken by the Commission in pursuance of its functions under this Act,
+
+(b) an expected timetable for each activity or class, and
+
+(c) priorities for different activities or classes, or principles to be applied in determining priorities.
+
+(2) The Commission shall review the plan—
+
+(a) at least once during the period of three years beginning with its completion,
+
+(b) at least once during each period of three years beginning with the completion of a review, and
+
+(c) at such other times as the Commission thinks appropriate.
+
+(3) If the Commission thinks it appropriate as a result of a review, the Commission shall revise the plan.
+
+(4) The Commission shall send the plan and each revision to the [[^F1]Secretary of State], who shall lay a copy before Parliament.
+
+(5) The Commission shall publish the plan and each revision.
+
+#### 5 Strategic plan: consultation
+
+Before preparing or reviewing a plan in accordance with section 4 the Commission shall—
+
+(a) consult such persons having knowledge or experience relevant to the Commission's functions as the Commission thinks appropriate,
+
+(b) consult such other persons as the Commission thinks appropriate,
+
+(c) issue a general invitation to make representations, in a manner likely in the Commission's opinion to bring the invitation to the attention of as large a class of persons who may wish to make representations as is reasonably practicable, and
+
+(d) take account of any representations made.
+
+#### 6 Disclosure
+
+(1) A person who is or was a Commissioner, an Investigating Commissioner, an employee of the Commission or a member of a committee established by the Commission commits an offence if he discloses information to which this section applies unless subsection (3) authorises the disclosure.
+
+(2) This section applies to information acquired by the Commission—
+
+(a) by way of representations made in relation to, or otherwise in the course of, an inquiry under section 16,
+
+(b) by way of representations made in relation to, or otherwise in the course of, an investigation under section 20,
+
+(c) by way of representations made in relation to, or otherwise in the course of, an assessment under section 31,
+
+(d) by way of representations made in relation to, or otherwise in connection with, a notice under section 32, or
+
+(e) from a person with whom the Commission enters into, or considers entering into, an agreement under section 23.
+
+(3) This subsection authorises a disclosure made—
+
+(a) for the purpose of the exercise of a function of the Commission under any of sections 16, 20, 21, 24, 25, 31 and 32,
+
+(b) in a report of an inquiry, investigation or assessment published by the Commission,
+
+(c) in pursuance of an order of a court or tribunal,
+
+(d) with the consent of each person to whom the disclosed information relates,
+
+(e) in a manner that ensures that no person to whom the disclosed information relates can be identified,
+
+(f) for the purpose of civil or criminal proceedings to which the Commission is party, or
+
+(g) if the information was acquired by the Commission more than 70 years before the date of the disclosure.
+
+(4) But subsection (3) does not authorise, nor may the Commission make, a disclosure of information provided by or relating to an intelligence service unless the service has authorised the disclosure.
+
+(5) In subsection (4) “intelligence service” means—
+
+(a) the Security Service,
+
+(b) the Secret Intelligence Service, and
+
+(c) the Government Communications Headquarters.
+
+(6) A person guilty of an offence under subsection (1) shall be liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+#### 7 Scotland: human rights
+
+(1) The Commission shall not take human rights action in relation to a matter if the Scottish Parliament has legislative competence to enable a person to take action of that kind in relation to that matter.
+
+(2) In subsection (1) “human rights action” means action taken—
+
+(a) in accordance with section 9(1), and
+
+(b) under, by virtue of or in pursuance of—
+
+(i) section 11(1) in so far as it relates to the Human Rights Act 1998 (c. 42),
+
+(ii) section 11(2)(c) or (d),
+
+(iii) section 12,
+
+(iv) section 13,
+
+(v) section 16,
+
+(vi) section 17, or
+
+(vii) section 30.
+
+(3) Despite section 9(4), the Commission shall not, in the course of fulfilling a duty under section 8 [^F2]..., consider the question whether a person's human rights have been contravened if the Scottish Parliament has legislative competence to enable a person to consider that question.
+
+(4) Subsections (1) and (3) shall not prevent the Commission from taking action with the consent (whether general or specific) of a person if—
+
+(a) the person is established by Act of the Scottish Parliament, and
+
+(b) the person's principal duties relate to human rights and are similar to any of the Commission's duties under section 9.
+
+(5) Subsections (1) and (3) shall not prevent the Commission from relying on section 13(1)(f) so as to act jointly or cooperate (but not assist) for a purpose relating to human rights and connected with Scotland.
+
+### Duties
+
+#### 8 Equality and diversity
+
+(1) The Commission shall, by exercising the powers conferred by this Part—
+
+(a) promote understanding of the importance of equality and diversity,
+
+(b) encourage good practice in relation to equality and diversity,
+
+(c) promote equality of opportunity,
+
+(d) promote awareness and understanding of rights under the [[^F3]Equality Act 2010],
+
+(e) enforce [[^F4]that Act],
+
+(f) work towards the elimination of unlawful discrimination, and
+
+(g) work towards the elimination of unlawful harassment.
+
+(2) In subsection (1)—
+
+- “diversity” means the fact that individuals are different,
+- “equality” means equality between individuals, and
+- “unlawful” is to be construed in accordance with section 34.
+
+(3) In promoting equality of opportunity between disabled persons and others, the Commission may, in particular, promote the favourable treatment of disabled persons.
+
+(4) In this Part “disabled person” means a person who—
+
+(a) is a disabled person within the meaning of the [[^F5]Equality Act 2010], or
+
+(b) has been a disabled person within that meaning (whether or not at a time when that Act had effect).
+
+#### 9 Human rights
+
+(1) The Commission shall, by exercising the powers conferred by this Part—
+
+(a) promote understanding of the importance of human rights,
+
+(b) encourage good practice in relation to human rights,
+
+(c) promote awareness, understanding and protection of human rights, and
+
+(d) encourage public authorities to comply with section 6 of the Human Rights Act 1998 (c. 42) (compliance with Convention rights).
+
+(2) In this Part “human rights” means—
+
+(a) the Convention rights within the meaning given by section 1 of the Human Rights Act 1998, and
+
+(b) other human rights.
+
+(3) In determining what action to take in pursuance of this section the Commission shall have particular regard to the importance of exercising the powers conferred by this Part in relation to the Convention rights.
+
+(4) In fulfilling a duty under section 8 [^F6]... the Commission shall take account of any relevant human rights.
+
+(5) A reference in this Part (including this section) to human rights does not exclude any matter by reason only of its being a matter to which section 8 [^F6]... relates.
+
+#### 10 Groups
+
+[^F7]1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) In this Part “group” means a group or class of persons who share a common attribute in respect of any of the following matters—
+
+(a) age,
+
+(b) disability,
+
+(c) gender,
+
+[[^F8](d) gender reassignment (within the meaning of section 7 of the Equality Act 2010),]
+
+(e) race,
+
+(f) religion or belief, and
+
+(g) sexual orientation.
+
+(3) For the purposes of this Part a reference to a group (as defined in subsection (2)) includes a reference to a smaller group or smaller class, within a group, of persons who share a common attribute (in addition to the attribute by reference to which the group is defined) in respect of any of the matters specified in subsection (2)(a) to (g).
+
+[^F9]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F9]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F9]6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F9]7 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 11 Monitoring the law
+
+(1) The Commission shall monitor the effectiveness of the equality and human rights enactments.
+
+(2) The Commission may—
+
+(a) advise central government about the effectiveness of any of the equality and human rights enactments;
+
+(b) recommend to central government the amendment, repeal, consolidation (with or without amendments) or replication (with or without amendments) of any of the equality and human rights enactments;
+
+(c) advise central or devolved government about the effect of an enactment (including an enactment in or under an Act of the Scottish Parliament);
+
+(d) advise central or devolved government about the likely effect of a proposed change of law.
+
+(3) In this section—
+
+(a) “central government” means Her Majesty's Government,
+
+(b) “devolved government” means—
+
+(i) the Scottish Ministers, and
+
+(ii) the [[^F10]Welsh Ministers, the First Minister for Wales and the Counsel General to the Welsh Assembly Government][^F10], and
+
+[[^F11](c) a reference to the equality and human rights enactments is a reference to the Human Rights Act 1998, this Act and the Equality Act 2010.]
+
+#### 12 Monitoring progress
+
+(1) The Commission shall from time to time identify—
+
+(a) changes in society that have occurred or are expected to occur and are relevant to [[^F12]the duties specified in sections 8 and 9],
+
+(b) results at which to aim for the purpose of encouraging and supporting [[^F13]changes in society that are consistent with those duties] (“outcomes”), and
+
+(c) factors by reference to which progress towards those results may be measured (“indicators”).
+
+(2) In identifying outcomes and indicators the Commission shall—
+
+(a) consult such persons having knowledge or experience relevant to the Commission's functions as the Commission thinks appropriate,
+
+(b) consult such other persons as the Commission thinks appropriate,
+
+(c) issue a general invitation to make representations, in a manner likely in the Commission's opinion to bring the invitation to the attention of as large a class of persons who may wish to make representations as is reasonably practicable, and
+
+(d) take account of any representations made.
+
+(3) The Commission shall from time to time monitor progress towards each identified outcome by reference to any relevant identified indicator.
+
+(4) The Commission shall publish a report on progress towards the identified outcomes by reference to the identified indicators—
+
+(a) within the period of three years beginning with the date on which this section comes into force, and
+
+(b) within each period of [[^F14]five] years beginning with the date on which a report is published under this subsection.
+
+(5) The Commission shall send each report to the [[^F15]Secretary of State], who shall lay a copy before Parliament.
+
+### General powers
+
+#### 13 Information, advice, &c.
+
+(1) In pursuance of its duties under sections 8 [[^F16]and 9] the Commission may—
+
+(a) publish or otherwise disseminate ideas or information;
+
+(b) undertake research;
+
+(c) provide education or training;
+
+(d) give advice or guidance (whether about the effect or operation of an enactment or otherwise);
+
+(e) arrange for a person to do anything within paragraphs (a) to (d);
+
+(f) act jointly with, co-operate with or assist a person doing anything within paragraphs (a) to (d).
+
+(2) The reference to giving advice in subsection (1)(d) does not include a reference to preparing, or assisting in the preparation of, a document to be used for the purpose of legal proceedings.
+
+#### 14 Codes of practice
+
+[[^F17](1) The Commission may issue a code of practice in connection with any matter addressed by the Equality Act 2010.]
+
+[^F18]2 A code of practice under subsection (1) shall contain provision designed—
+
+(a) to ensure or facilitate compliance with [[^F19]the Equality Act 2010 or an enactment made under that Act ], or
+
+(b) to promote equality of opportunity.
+
+(3) The Commission may issue a code of practice giving practical guidance to landlords and tenants in England or Wales about—
+
+(a) circumstances in which a tenant requires the consent of his landlord to make a relevant improvement, within the meaning of [[^F20]section 190(7) of the Equality Act 2010] (improvements), to a dwelling house,
+
+(b) reasonableness in relation to that consent, and
+
+(c) the application in relation to relevant improvements (within that meaning) to dwelling houses of—
+
+(i) section 19(2) of the Landlord and Tenant Act 1927 (c. 36) (consent to improvements),
+
+(ii) sections 81 to 85 of the Housing Act 1980 (c. 51) (tenant's improvements),
+
+(iii) sections 97 to 99 of the Housing Act 1985 (c. 68) (tenant's improvements), and
+
+[[^F21](iv) section 190 of the Equality Act 2010.]
+
+(4) The Commission may issue a code of practice giving practical guidance to landlords and tenants of houses (within the meaning of the Housing (Scotland) Act 2006 (asp 01)) in Scotland about—
+
+(a) circumstances in which the tenant requires the consent of the landlord to carry out work in relation to the house for the purpose of making the house suitable for the accommodation, welfare or employment of any disabled person who occupies, or intends to occupy, the house as a sole or main residence,
+
+(b) circumstances in which it is unreasonable to withhold that consent,
+
+(c) circumstances in which any condition imposed on the granting of that consent is unreasonable, and
+
+(d) the application in relation to such work of—
+
+(i) sections 28 to 31 and 34(6) of the Housing (Scotland) Act 2001 (asp 10), and
+
+(ii) sections 52, 53 and 64(6) of the Housing (Scotland) Act 2006 (asp 01).
+
+(5) The Commission shall comply with a direction of the [[^F22]Secretary of State] to issue a code under this section in connection with a specified matter if—
+
+(a) the matter is not [[^F23]a matter addressed by the Equality Act 2010], but
+
+(b) the [[^F24]Minister][^F24] expects to add it by order under section 15(6).
+
+(6) Before issuing a code under this section the Commission shall—
+
+(a) publish proposals, and
+
+(b) consult such persons as it thinks appropriate.
+
+(7) Before issuing a code under this section the Commission shall submit a draft to the [[^F25]Secretary of State], who shall—
+
+(a) if he approves the draft—
+
+(i) notify the Commission, and
+
+(ii) lay a copy before Parliament, or
+
+(b) otherwise, give the Commission written reasons why he does not approve the draft.
+
+(8) Where a draft is laid before Parliament under subsection (7)(a)(ii), if neither House passes a resolution disapproving the draft within 40 days—
+
+(a) the Commission may issue the code in the form of the draft, and
+
+(b) it shall come into force in accordance with provision made by the [[^F25]Secretary of State] by order.
+
+(9) If, or in so far as, a code relates to a duty imposed by or under [[^F26]section 149, 153 or 154 of the Equality Act 2010 (public sector equality duty)] the [[^F25]Secretary of State] shall consult the Scottish Ministers and the [[^F27]Welsh Ministers][^F27] before—
+
+(a) approving a draft under subsection (7)(a) above, or
+
+(b) making an order under subsection (8)(b) above.
+
+(10) In relation to a code of practice under subsection (4), the [[^F25]Secretary of State] shall consult the Scottish Ministers before—
+
+(a) approving a draft under subsection (7)(a) above, or
+
+(b) making an order under subsection (8)(b) above.
+
+#### 15 Codes of practice: supplemental
+
+(1) The Commission may revise a code issued under section 14; and a reference in this section or in that section to the issue of a code shall be treated as including a reference to the revision of a code.
+
+(2) The 40 day period specified in section 14(8)—
+
+(a) shall begin with the date on which the draft is laid before both Houses (or, if laid before each House on a different date, with the later date), and
+
+(b) shall be taken not to include a period during which—
+
+(i) Parliament is prorogued or dissolved, or
+
+(ii) both Houses are adjourned for more than four days.
+
+(3) A code issued under section 14 may be revoked by the [[^F28]Secretary of State], at the request of the Commission, by order.
+
+(4) A failure to comply with a provision of a code shall not of itself make a person liable to criminal or civil proceedings; but a code—
+
+(a) shall be admissible in evidence in criminal or civil proceedings, and
+
+(b) shall be taken into account by a court or tribunal in any case in which it appears to the court or tribunal to be relevant.
+
+(5) Subsection (4)(b) does not apply in relation to a code issued under section 14(4).
+
+(6) The [[^F29]Secretary of State] may by order amend section 14 so as to vary the range of matters that codes of practice under that section may address.
+
+#### 16 Inquiries
+
+(1) The Commission may conduct an inquiry into a matter relating to any of the Commission's duties under sections 8 [[^F30]and 9].
+
+(2) If in the course of an inquiry the Commission begins to suspect that a person may have committed an unlawful act—
+
+(a) in continuing the inquiry the Commission shall, so far as possible, avoid further consideration of whether or not the person has committed an unlawful act,
+
+(b) the Commission may commence an investigation into that question under section 20,
+
+(c) the Commission may use information or evidence acquired in the course of the inquiry for the purpose of the investigation, and
+
+(d) the Commission shall so far as possible ensure (whether by aborting or suspending the inquiry or otherwise) that any aspects of the inquiry which concern the person investigated, or may require his involvement, are not pursued while the investigation is in progress.
+
+(3) The report of an inquiry—
+
+(a) may not state (whether expressly or by necessary implication) that a specified or identifiable person has committed an unlawful act, and
+
+(b) shall not otherwise refer to the activities of a specified or identifiable person unless the Commission thinks that the reference—
+
+(i) will not harm the person, or
+
+(ii) is necessary in order for the report adequately to reflect the results of the inquiry.
+
+(4) Subsections (2) and (3) shall not prevent an inquiry from considering or reporting a matter relating to human rights (whether or not a necessary implication arises in relation to the [[^F31]Equality Act 2010]).
+
+(5) Before settling a report of an inquiry which records findings which in the Commission's opinion are of an adverse nature and relate (whether expressly or by necessary implication) to a specified or identifiable person the Commission shall—
+
+(a) send a draft of the report to the person,
+
+(b) specify a period of at least 28 days during which he may make written representations about the draft, and
+
+(c) consider any representations made.
+
+(6) Schedule 2 makes supplemental provision about inquiries.
+
+#### 17 Grants
+
+(1) In pursuance of any of its duties under sections 8 [[^F32]and 9] the Commission may make grants to another person.
+
+(2) A grant under subsection (1) may be made subject to conditions (which may, in particular, include conditions as to repayment).
+
+(3) A power under this Part to co-operate with or assist a person may not be exercised by the provision of financial assistance otherwise than in accordance with this section.
+
+#### 18 Human rights
+
+In pursuance of its duties under section 9 the Commission may (without prejudice to the generality of section 13) co-operate with persons interested in human rights within the United Kingdom or elsewhere.
+
+#### [^F33]19 Groups
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Enforcement powers
+
+#### 20 Investigations
+
+(1) The Commission may investigate whether or not a person—
+
+(a) has committed an unlawful act,
+
+(b) has complied with a requirement imposed by an unlawful act notice under section 21, or
+
+(c) has complied with an undertaking given under section 23.
+
+(2) The Commission may conduct an investigation under subsection (1)(a) only if it suspects that the person concerned may have committed an unlawful act.
+
+(3) A suspicion for the purposes of subsection (2) may (but need not) be based on the results of, or a matter arising during the course of, an inquiry under section 16.
+
+(4) Before settling a report of an investigation recording a finding that a person has committed an unlawful act or has failed to comply with a requirement or undertaking the Commission shall—
+
+(a) send a draft of the report to the person,
+
+(b) specify a period of at least 28 days during which he may make written representations about the draft, and
+
+(c) consider any representations made.
+
+(5) Schedule 2 makes supplemental provision about investigations.
+
+#### 21 Unlawful act notice
+
+(1) The Commission may give a person a notice under this section (an “unlawful act notice”) if—
+
+(a) he is or has been the subject of an investigation under section 20(1)(a), and
+
+(b) the Commission is satisfied that he has committed an unlawful act.
+
+(2) A notice must specify—
+
+(a) the unlawful act, and
+
+(b) the provision of the [[^F34]Equality Act 2010] by virtue of which the act is unlawful.
+
+(3) A notice must inform the recipient of the effect of—
+
+(a) subsections (5) to (7),
+
+(b) section 20(1)(b), and
+
+(c) section 24(1).
+
+(4) A notice may—
+
+(a) require the person to whom the notice is given to prepare an action plan for the purpose of avoiding repetition or continuation of the unlawful act;
+
+(b) recommend action to be taken by the person for that purpose.
+
+(5) A person who is given a notice may, within the period of six weeks beginning with the day on which the notice is given, appeal to the appropriate court or tribunal on the grounds—
+
+(a) that he has not committed the unlawful act specified in the notice, or
+
+(b) that a requirement for the preparation of an action plan imposed under subsection (4)(a) is unreasonable.
+
+(6) On an appeal under subsection (5) the court or tribunal may—
+
+(a) affirm a notice;
+
+(b) annul a notice;
+
+(c) vary a notice;
+
+(d) affirm a requirement;
+
+(e) annul a requirement;
+
+(f) vary a requirement;
+
+(g) make an order for costs or expenses.
+
+(7) In subsection (5) “the appropriate court or tribunal” means—
+
+(a) an employment tribunal, if a claim in respect of the alleged unlawful act could be made to it, or
+
+(b) [[^F35]the county court] (in England and Wales) or the sheriff (in Scotland), if a claim in respect of the alleged unlawful act could be made to it or to him.
+
+[[^F36](8) Subsection (7) applies as though a claim could be made to an employment tribunal in respect of—
+
+(a) an alleged contravention of section 40A(1) of the Equality Act 2010 (duty to take reasonable steps to prevent harassment of employees), or
+
+(b) an alleged contravention of section 111 or 112 of that Act which relates to a contravention of section 40A(1) of that Act.]
+
+#### 22 Action plans
+
+(1) This section applies where a person has been given a notice under section 21 which requires him (under section 21(4)(a)) to prepare an action plan.
+
+(2) The notice must specify a time by which the person must give the Commission a first draft plan.
+
+(3) After receiving a first draft plan from a person the Commission shall—
+
+(a) approve it, or
+
+(b) give the person a notice which—
+
+(i) states that the draft is not adequate,
+
+(ii) requires the person to give the Commission a revised draft by a specified time, and
+
+(iii) may make recommendations about the content of the revised draft.
+
+(4) Subsection (3) shall apply in relation to a revised draft plan as it applies in relation to a first draft plan.
+
+(5) An action plan comes into force—
+
+(a) if the period of six weeks beginning with the date on which a first draft or revised draft is given to the Commission expires without the Commission—
+
+(i) giving a notice under subsection (3)(b), or
+
+(ii) applying for an order under subsection (6)(b), or
+
+(b) upon a court's declining to make an order under subsection (6)(b) in relation to a revised draft of the plan.
+
+(6) The Commission may apply to [[^F37]the county court] (in England and Wales) or to the sheriff (in Scotland)—
+
+(a) for an order requiring a person to give the Commission a first draft plan by a time specified in the order,
+
+(b) for an order requiring a person who has given the Commission a revised draft plan to prepare and give to the Commission a further revised draft plan—
+
+(i) by a time specified in the order, and
+
+(ii) in accordance with any directions about the plan's content specified in the order, or
+
+(c) during the period of five years beginning with the date on which an action plan prepared by a person comes into force, for an order requiring the person—
+
+(i) to act in accordance with the action plan, or
+
+(ii) to take specified action for a similar purpose.
+
+(7) An action plan may be varied by agreement between the Commission and the person who prepared it.
+
+(8) Paragraphs 10 to 14 of Schedule 2 apply (but omitting references to oral evidence) in relation to consideration by the Commission of the adequacy of a draft action plan as they apply in relation to the conduct of an inquiry.
+
+(9) A person commits an offence if without reasonable excuse he fails to comply with an order under subsection (6); and a person guilty of an offence under this subsection shall be liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+#### 23 Agreements
+
+(1) The Commission may enter into an agreement with a person under which—
+
+(a) the person undertakes—
+
+(i) not to commit an unlawful act of a specified kind, and
+
+(ii) to take, or refrain from taking, other specified action (which may include the preparation of a plan for the purpose of avoiding an unlawful act), and
+
+(b) the Commission undertakes not to proceed against the person under section 20 or 21 in respect of any unlawful act of the kind specified under paragraph (a)(i).
+
+(2) The Commission may enter into an agreement with a person under this section only if it thinks that the person has committed an unlawful act.
+
+(3) But a person shall not be taken to admit to the commission of an unlawful act by reason only of entering into an agreement under this section.
+
+(4) An agreement under this section—
+
+(a) may be entered into whether or not the person is or has been the subject of an investigation under section 20,
+
+(b) may include incidental or supplemental provision (which may include provision for termination in specified circumstances), and
+
+(c) may be varied or terminated by agreement of the parties.
+
+(5) This section shall apply in relation to the breach of a duty specified in section 34(2) as it applies in relation to the commission of an unlawful act; and for that purpose the reference in subsection (1)(b) above to section 20 or 21 shall be taken as a reference to section 32.
+
+#### 24 Applications to court
+
+(1) If the Commission thinks that a person is likely to commit an unlawful act, it may apply—
+
+(a) in England and Wales, to [[^F38]the county court] for an injunction restraining the person from committing the act, or
+
+(b) in Scotland, to the sheriff for an interdict prohibiting the person from committing the act.
+
+(2) Subsection (3) applies if the Commission thinks that a party to an agreement under section 23 has failed to comply, or is likely not to comply, with an undertaking under the agreement.
+
+(3) The Commission may apply to[[^F38]the county court] (in England and Wales) or to the sheriff (in Scotland) for an order requiring the person—
+
+(a) to comply with his undertaking, and
+
+(b) to take such other action as the court or the sheriff may specify.
+
+#### 24A [[^F39]Enforcement powers: supplemental
+
+(1) This section has effect in relation to—
+
+(a) an act which is unlawful because, by virtue of any of sections 13 to 18 of the Equality Act 2010, it amounts to a contravention of any of Parts 3, 4, 5, 6 or 7 of that Act,
+
+[[^F40](aa) an act which is unlawful because it amounts to a contravention of section 40A(1) of that Act (or to a contravention of section 111 or 112 of that Act that relates to a contravention of section 40A(1) of that Act) (employer duty to take reasonable steps to prevent sexual harassment of employees),]
+
+(b) an act which is unlawful because it amounts to a contravention of section 60(1) of that Act (or to a contravention of section 111 or 112 of that Act that relates to a contravention of section 60(1) of that Act) (enquiries about disability and health),
+
+(c) an act which is unlawful because it amounts to a contravention of section 106 of that Act (information about diversity in range of election candidates etc.),
+
+(d) an act which is unlawful because, by virtue of section 108(1) of that Act, it amounts to a contravention of any of Parts 3, 4, 5, 6 or 7 of that Act, or
+
+(e) the application of a provision, criterion or practice which, by virtue of section 19 [[^F41]or 19A] of that Act, amounts to a contravention of that Act.
+
+(2) For the purposes of sections 20 to 24 of this Act, it is immaterial whether the Commission knows or suspects that a person has been or may be affected by the unlawful act or application.
+
+(3) For those purposes, an unlawful act includes making arrangements to act in a particular way which would, if applied to an individual, amount to a contravention mentioned in subsection (1)(a).
+
+(4) Nothing in this Act affects the entitlement of a person to bring proceedings under the Equality Act 2010 in respect of a contravention mentioned in subsection (1).]
+
+#### [^F42]25 Application to restrain unlawful advertising, pressure, &c.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F43]26 Section 25: supplemental
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F44]27 Conciliation
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 28 Legal assistance
+
+(1) The Commission may assist an individual who is or may become party to legal proceedings if—
+
+(a) the proceedings relate or may relate (wholly or partly) to a provision of the [[^F45]Equality Act 2010], and
+
+(b) the individual alleges that he has been the victim of behaviour contrary to a provision of the [[^F46]that Act].
+
+(2) The Commission may assist an individual who is or may become party to legal proceedings in England and Wales if and in so far as the proceedings concern or may concern the question of a landlord's reasonableness in relation to consent to the making of an improvement to a dwelling where the improvement would be likely to facilitate the enjoyment of the premises by the tenant or another lawful occupier having regard to a disability.
+
+(3) The Commission may assist an individual who is or may become a party to legal proceedings in Scotland if and in so far as the proceedings concern or may concern the question whether—
+
+(a) it is unreasonable for a landlord to withhold consent to the carrying out of work in relation to a house (within the meaning of the Housing (Scotland) Act 2006 (asp 01)) for the purpose of making the house suitable for the accommodation, welfare or employment of any disabled person who occupies, or intends to occupy, the house as a sole or main residence, or
+
+(b) any condition imposed by a landlord on consenting to the carrying out of such work is unreasonable.
+
+(4) In giving assistance under this section the Commission may provide or arrange for the provision of—
+
+(a) legal advice;
+
+(b) legal representation;
+
+(c) facilities for the settlement of a dispute;
+
+(d) any other form of assistance.
+
+(5) Assistance may not be given under subsection (1) in relation to alleged behaviour contrary to a provision of [[^F47]Part 12 of the Equality Act 2010 (disabled persons:] transport).
+
+(6) Where proceedings relate or may relate partly to a provision of [[^F48]the Equality Act 2010] and partly to other matters—
+
+(a) assistance may be given under subsection (1) in respect of any aspect of the proceedings while they relate to a provision of [[^F49]that Act], but
+
+(b) if the proceedings cease to relate to a provision of [[^F49]that Act], assistance may not be continued under subsection (1) in respect of the proceedings (except in so far as it is permitted by virtue of subsection (7) or (8)).
+
+(7) The Lord Chancellor may by order disapply subsection (6)(b), and enable the Commission to give assistance under subsection (1), in respect of legal proceedings which—
+
+(a) when instituted, related (wholly or partly) to a provision of the [[^F50]Equality Act 2010],
+
+(b) have ceased to relate to the provision of [[^F51]that Act], and
+
+(c) relate (wholly or partly) to any of the Convention rights within the meaning given by section 1 of the Human Rights Act 1998 (c. 42).
+
+(8) The [[^F52]Secretary of State] may by order enable the Commission to give assistance under this section in respect of legal proceedings in the course of which an individual who is or has been a disabled person relies or proposes to rely on a matter relating to his disability; but an order under this subsection may not permit assistance in relation to alleged behaviour contrary to a provision of [[^F53]Part 12 of the Equality Act 2010].
+
+(9) An order under subsection (7) or (8) may make provision generally or only in relation to proceedings of a specified kind or description (which in the case of an order under subsection (7) may, in particular, refer to specified provisions of the [[^F54]Equality Act 2010]) or in relation to specified circumstances.
+
+(10) This section is without prejudice to the effect of any restriction imposed, in respect of representation—
+
+(a) by virtue of an enactment (including an enactment in or under an Act of the Scottish Parliament), or
+
+(b) in accordance with the practice of a court.
+
+(11) A legislative provision which requires insurance or an indemnity in respect of advice given in connection with a [[^F55]settlement agreement] shall not apply to advice provided by the Commission under this section.
+
+(12) [[^F56]This section applies] to [[^F57]anything in] [[^F58]assimilated] law which—
+
+(a) relates to discrimination on grounds of sex (including reassignment of gender), racial origin, ethnic origin, religion, belief, disability, age or sexual orientation, and
+
+(b) confers rights on individuals[[^F59]as it applies to [[^F60]a provision of] the Equality Act 2010.]
+
+(13) In its application by virtue of subsection (12), subsection (1)(b) shall have effect as if it referred to an allegation by an individual that he is disadvantaged by—
+
+(a) an enactment (including an enactment in or under an Act of the Scottish Parliament) which is contrary to [[^F61]anything in] [[^F62]assimilated] law, or
+
+(b) a failure by the United Kingdom to implement a right as required by [[^F63]EU] law [[^F64](as it had effect before exit day)].
+
+#### 29 Legal assistance: costs
+
+(1) This section applies where—
+
+(a) the Commission has assisted an individual under section 28 in relation to proceedings, and
+
+(b) the individual becomes entitled to some or all of his costs in the proceedings (whether by virtue of an award or by virtue of an agreement).
+
+(2) The Commission's expenses in providing the assistance—
+
+(a) shall be charged on sums paid to the individual by way of costs, and
+
+(b) may be enforced as a debt due to the Commission.
+
+(3) A requirement to pay money to the Commission under subsection (2) ranks, in England and Wales, after a requirement imposed by virtue of [[^F65]section 25 of the Legal Aid, Sentencing and Punishment of Offenders Act 2012 (statutory charge in connection with civil legal aid)].
+
+(4) Subsection (2), in its application to Scotland, shall not affect the operation of section 17(2A) of the Legal Aid (Scotland) Act 1986 (c. 47) (requirement in certain cases to pay to the Scottish Legal Aid Board sums recovered under awards of, or agreements as to, expenses).
+
+(5) For the purposes of subsection (2) the Commission's expenses shall be calculated in accordance with such provision (if any) as the [[^F66]Secretary of State] makes for the purpose by regulations; and regulations may, in particular, provide for the apportionment of expenditure incurred by the Commission—
+
+(a) partly for one purpose and partly for another, or
+
+(b) for general purposes.
+
+(6) In the application of this section to Scotland a reference to costs shall be taken as a reference to expenses.
+
+#### 30 Judicial review and other legal proceedings
+
+(1) The Commission shall have capacity to institute or intervene in legal proceedings, whether for judicial review or otherwise, if it appears to the Commission that the proceedings are relevant to a matter in connection with which the Commission has a function.
+
+(2) The Commission shall be taken to have title and interest in relation to the subject matter of any legal proceedings in Scotland which it has capacity to institute, or in which it has capacity to intervene, by virtue of subsection (1).
+
+(3) The Commission may, in the course of legal proceedings for judicial review which it institutes (or in which it intervenes), rely on section 7(1)(b) of the Human Rights Act 1998 (c. 42) (breach of Convention rights); and for that purpose—
+
+(a) the Commission need not be a victim or potential victim of the unlawful act to which the proceedings relate,
+
+(b) the Commission may act only if there is or would be one or more victims of the unlawful act,
+
+(c) section 7(3) and (4) of that Act shall not apply, and
+
+(d) no award of damages may be made to the Commission (whether or not the exception in section 8(3) of that Act applies);
+
+and an expression used in this subsection and in section 7 of the Human Rights Act 1998 has the same meaning in this subsection as in that section.
+
+(4) Subsections (1) and (2)—
+
+(a) do not create a cause of action, and
+
+(b) are, except as provided by subsection (3), subject to any limitation or restriction imposed by virtue of an enactment (including an enactment in or under an Act of the Scottish Parliament) or in accordance with the practice of a court.
+
+#### 31 Public sector duties: assessment
+
+[[^F67](1) The Commission may assess the extent to which or the manner in which a person has complied with a duty under or by virtue of section 149, 153 or 154 of the Equality Act 2010 (public sector equality duty).]
+
+(2) Schedule 2 makes supplemental provision about assessments.
+
+(3) This section is without prejudice to the generality of sections 16 and 20.
+
+#### 32 Public sector duties: compliance notice
+
+[[^F68](1) This section applies where the Commission thinks that a person has failed to comply with a duty under or by virtue of section 149, 153 or 154 of the Equality Act 2010 (public sector equality duty).]
+
+(2) The Commission may give the person a notice requiring him—
+
+(a) to comply with the duty, and
+
+(b) to give the Commission, within the period of 28 days beginning with the date on which he receives the notice, written information of steps taken or proposed for the purpose of complying with the duty.
+
+(3) A notice under this section may require a person to give the Commission information required by the Commission for the purposes of assessing compliance with the duty; in which case the notice shall specify—
+
+(a) the period within which the information is to be given (which shall begin with the date on which the notice is received and shall not exceed three months), and
+
+(b) the manner and form in which the information is to be given.
+
+(4) The Commission may not give a notice under this section in respect of a duty under [[^F69]section 149 of the Equality Act 2010] unless—
+
+(a) the Commission has carried out an assessment under section 31 above, and
+
+(b) the notice relates to the results of the assessment.
+
+(5) A person who receives a notice under this section shall comply with it.
+
+(6) But a notice under this section shall not oblige a person to give information—
+
+(a) that he is prohibited from disclosing by virtue of an enactment, or
+
+(b) that he could not be compelled to give in proceedings before the High Court or the Court of Session.
+
+(7) Paragraphs 11 and 14 of Schedule 2 shall have effect (with any necessary modifications) in relation to a requirement imposed by a notice under this section as they have effect in relation to a requirement imposed by a notice under paragraph 9 of that Schedule.
+
+(8) If the Commission thinks that a person, to whom a notice under this section has been given, has failed to comply with a requirement of the notice, the Commission may apply to the court for an order requiring the person to comply.
+
+(9) In subsection (8) “the court” means—
+
+(a) where the notice related to a duty under [[^F70]section 149 of the Equality Act 2010], the High Court (in England and Wales) or (in Scotland) the Court of Session, and
+
+(b) [[^F71]where the notice related to a duty by virtue of section 153 or 154 of that Act], [[^F72]the county court] (in England and Wales) or the sheriff (in Scotland).
+
+(10) A notice under this section shall specify a time before which the Commission may not make an application under subsection (8) in respect of the notice.
+
+(11) Legal proceedings in relation to a duty by virtue of [[^F73]section 153 or 154 of the Equality Act 2010]—
+
+(a) may be brought by the Commission in accordance with subsection (8) above, and
+
+(b) may not be brought in any other way.
+
+### Interpretation
+
+#### [^F74]33 Equality and human rights enactments
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 34 Unlawful
+
+(1) In this Part (except section 30(3)) “unlawful” means contrary to a provision of the [[^F75]Equality Act 2010].
+
+(2) But action is not unlawful for the purposes of this Part by reason only of the fact that it contravenes a duty under or by virtue of [[^F76]any of the following provisions of the Equality Act 2010]—
+
+[[^F77](a) section 1 (public sector duty regarding socio-economic inequalities),
+
+(b) section 149, 153 or 154 (public sector equality duty),
+
+(c) Part 12 (disabled persons: transport), or
+
+(d) section 190 (disability: improvements to let dwelling houses).]
+
+#### 35 General
+
+In this Part—
+
+- “act” includes deliberate omission,
+
+- “groups” has the meaning given by section 10,
+
+- “the Commission” means the Commission for Equality and Human Rights,
+
+- “disabled person” has the meaning given by section 8,
+
+- “human rights” has the meaning given by section 9,
+
+- [^F78]...
+
+- “race” includes colour, nationality, ethnic origin and national origin,
+
+- “religion or belief” has the same meaning as in [[^F79]section 10 of the Equality Act 2010], and
+
+- “sexual orientation” [[^F80]has the same meaning as in section 12 of the Equality Act 2010.]
+
+  - (a) persons of the same sex as him or her,
+  - (b) persons of the opposite sex, or
+  - (c) both.
+
+### Dissolution of Existing Commissions
+
+#### 36 Dissolution
+
+(1) The Secretary of State may by order provide for—
+
+(a) any of the former Commissions to cease to exist, or
+
+(b) the removal from any of the former Commissions of a specified function.
+
+(2) In this Part “the former Commissions” means—
+
+(a) the Equal Opportunities Commission,
+
+(b) the Commission for Racial Equality, and
+
+(c) the Disability Rights Commission.
+
+(3) The Secretary of State shall by exercising the power under subsection (1) ensure that each of the former Commissions ceases to exist not later than the end of 31st March 2009.
+
+#### 37 Transfer of property, &c.
+
+(1) An order under section 36(1) in respect of any of the former Commissions may provide for the transfer to the Commission for Equality and Human Rights of specified property, rights and liabilities of the former Commission.
+
+(2) The Secretary of State may give a former Commission any direction that the Secretary of State thinks appropriate in connection with the dissolution of the former Commission or the establishment of the Commission for Equality and Human Rights; and a direction may, in particular, require the former Commission—
+
+(a) to provide information in connection with property, rights or liabilities;
+
+(b) to provide information in connection with the exercise of functions;
+
+(c) to transfer specified property, rights and liabilities to a specified person;
+
+(d) to make property, staff or facilities available, on such terms or conditions as may be specified in the direction, to the Commission for Equality and Human Rights;
+
+(e) not to take action of a specified kind or in specified circumstances.
+
+(3) The Secretary of State may direct a former Commission to prepare a scheme for the transfer of specified property, rights and liabilities to—
+
+(a) the Commission for Equality and Human Rights, or
+
+(b) another person specified in the direction.
+
+(4) If the Secretary of State gives a direction under subsection (3)—
+
+(a) the former Commission shall prepare a scheme in accordance with the direction, having consulted either the Commission for Equality and Human Rights or the person specified under subsection (3)(b), and
+
+(b) the scheme shall have effect—
+
+(i) when approved by the Secretary of State, and
+
+(ii) subject to any modifications made by him, having consulted the former Commission and either the Commission for Equality and Human Rights or the person specified under subsection (3)(b).
+
+(5) Where a former Commission ceases to exist by virtue of section 36(1)(a), its property, rights and liabilities shall by virtue of this subsection vest in the Commission for Equality and Human Rights (and this subsection operates in addition to any transfer provided for by virtue of subsection (1) above).
+
+(6) An order, direction or scheme under or by virtue of this section may, in particular—
+
+(a) specify property, rights or liabilities;
+
+(b) specify a class or description of property, rights or liabilities;
+
+(c) specify property, rights or liabilities to a specified extent.
+
+#### 38 Transfer of property: supplemental
+
+(1) A direction under section 37—
+
+(a) shall be in writing,
+
+(b) may be given only following consultation with the former Commission to which the direction relates and, where the Secretary of State thinks it appropriate, the Commission for Equality and Human Rights, and
+
+(c) may be varied or revoked by a further direction.
+
+(2) In so far as is appropriate as a consequence of a transfer effected by or by virtue of section 37—
+
+(a) anything done by or in relation to any of the former Commissions which has effect immediately before the transfer shall continue to have effect as if done by or in relation to the Commission for Equality and Human Rights, and
+
+(b) anything (including any legal proceedings) which immediately before the transfer is in the process of being done by or in relation to any of the former Commissions may be continued by or in relation to the Commission for Equality and Human Rights.
+
+(3) In so far as is appropriate in consequence of a transfer effected by or by virtue of section 37 a reference to any of the former Commissions in an agreement, instrument or other document shall be treated as a reference to the Commission for Equality and Human Rights.
+
+(4) Section 37, and a direction, scheme or order under or by virtue of that section, shall operate in relation to property, rights or liabilities—
+
+(a) whether or not they would otherwise be capable of being transferred,
+
+(b) without any instrument or other formality being required, and
+
+(c) irrespective of any requirement for consent that would otherwise apply.
+
+(5) A scheme or order under or by virtue of section 37 which relates to rights or liabilities under a contract of employment—
+
+(a) must provide for the application of the [[^F81]Transfer of Undertakings (Protection of Employment) Regulations 2006][^F81], and
+
+(b) must provide that for any purpose relating to an employee of a former commission who becomes an employee of the Commission for Equality and Human Rights by virtue of the scheme or order—
+
+(i) a period of employment with the former commission shall be treated as a period of employment with the Commission for Equality and Human Rights, and
+
+(ii) the transfer to that Commission shall not be treated as a break in service.
+
+### Miscellaneous
+
+#### 39 Orders and regulations
+
+(1) An order of a Minister of the Crown under this Part and regulations under this Part shall be made by statutory instrument.
+
+(2) An order of a Minister of the Crown under this Part and regulations under this Part—
+
+(a) may make provision generally or only for specified purposes,
+
+(b) may make different provision for different purposes, and
+
+(c) may include transitional, incidental or consequential provision.
+
+(3) An order or regulations under any of the following provisions shall be subject to annulment in pursuance of a resolution of either House of Parliament—
+
+(a) section 15(3),
+
+(b) section 28,
+
+(c) section 29,
+
+(d) section 36, and
+
+(e) Part 5 of Schedule 1.
+
+(4) An order under section [[^F82]15(6)]—
+
+(a) may, in particular, make consequential amendment of an enactment (including this Act and including an enactment in or under an Act of the Scottish Parliament), and
+
+(b) may not be made unless a draft has been laid before and approved by resolution of each House of Parliament.
+
+(5) An incidental provision included in an order or regulations by virtue of subsection (2)(c) may, in particular, impose a requirement for consent to action under or by virtue of the order or regulations.
+
+#### 40 Consequential amendments
+
+Schedule 3 (consequential amendments) shall have effect.
+
+#### 41 Transitional: the Commission
+
+(1) If an order under section 93 provides for any of sections 1 to 3 and Schedule 1 to come into force (to any extent) at a time before any of sections 8 to 32 come into force (to any extent)—
+
+(a) the period between that time and the commencement of any of sections 8 to 32 (to any extent) is the “transitional period” for the purposes of this section, and
+
+(b) the following provisions of this section shall have effect.
+
+(2) During the transitional period the minimum number of Commissioners shall be five (and not as provided by paragraph 1 of Schedule 1).
+
+(3) The Secretary of State shall, as soon as is reasonably practicable after making the first appointments under that paragraph, appoint as additional members of the Commission (to be known as Transition Commissioners)—
+
+(a) a commissioner of the Equal Opportunities Commission nominated by its chairman,
+
+(b) a commissioner of the Commission for Racial Equality nominated by its chairman, and
+
+(c) a commissioner of the Disability Rights Commission nominated by its chairman.
+
+(4) A person may nominate himself as a Transition Commissioner.
+
+(5) If a Transition Commissioner ceases to be a commissioner of the Commission whose chairman nominated him—
+
+(a) he shall cease to be a Transition Commissioner,
+
+(b) the chairman of that Commission shall nominate a replacement, and
+
+(c) the Secretary of State shall appoint the nominated replacement.
+
+(6) A person shall hold appointment as a Transition Commissioner until a time specified by order of the Secretary of State (subject to subsection (5)); and the Secretary of State shall specify a time which in his opinion is not more than two years after the time when, by virtue of section 36, the Commission whose chairman nominated the Transition Commissioner—
+
+(a) ceases to exist, or
+
+(b) loses its principal functions.
+
+(7) In all other respects the provisions of this Part apply in relation to a Transition Commissioner as in relation to another Commissioner.
+
+#### 42 Transitional: functions of the dissolved Commissions
+
+(1) An order under section 36(1)(a) or (b) may—
+
+(a) provide for a former Commission to continue to exercise a function in respect of a transitional case of a kind specified;
+
+(b) provide for the Commission for Equality and Human Rights to exercise a function of a former Commission in respect of a transitional case of a kind specified.
+
+(2) An order under section 93 commencing a provision of Schedule 3 or 4 may include a saving or a consequential or incidental provision for the purpose of the operation of provision made by virtue of subsection (1) above; and the saving, consequential or incidental provision may, in particular, include provision applying, disapplying or modifying the application of a provision of this Act or of another enactment (including an enactment in or under an Act of the Scottish Parliament).
+
+(3) A code of practice issued by a Commission dissolved by virtue of section 36, or which relates to a function of a Commission removed by virtue of section 36(1)(b)—
+
+(a) shall continue to have effect until revoked by the Secretary of State, at the request of the Commission for Equality and Human Rights, by order made by statutory instrument, and
+
+(b) may be revised by the Commission for Equality and Human Rights as if it had been issued under section 14.
+
+(4) Consultation undertaken by a former Commission in relation to the issue or revision of a code of practice may be relied upon by the Commission for Equality and Human Rights for a purpose of section 14.
+
+(5) An order under subsection (3)(a) shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+#### [^F83]43 Transitional: rented housing in Scotland
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## [^F84]Part 2 — Discrimination on grounds of religion or belief
+
+### [^F84]Key concepts
+
+#### [^F84]44 [^F84]Religion and belief
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F84]45 [^F84]Discrimination
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F84]Prohibited discrimination
+
+#### [^F84]46 [^F84]Goods, facilities and services
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F84]47 [^F84]Premises
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F84]48 [^F84]Section 47: exceptions
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F84]49 [^F84]Educational establishments
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F84]50 [^F84]Section 49: exceptions
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F84]51 [^F84]Local education authorities and education authorities
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F84]52 [^F84]Public authorities: general
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F84]Other unlawful acts
+
+#### [^F84]53 [^F84]Discriminatory practices
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F84]54 [^F84]Discriminatory advertisements
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F84]55 [^F84]Instructing or causing discrimination
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F84]General exceptions
+
+#### [^F84]56 [^F84]Statutory requirements
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F84]57 [^F84]Organisations relating to religion or belief
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F84]58 [^F84]Charities relating to religion or belief
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F84]59 [^F84]Faith schools, &c.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F84]60 [^F84]Membership requirement
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F84]61 [^F84]Education, training and welfare
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F84]62 [^F84]Care within family
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F84]63 [^F84]National security
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F84]64 [^F84]Amendment of exceptions
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F84]Enforcement
+
+#### [^F84]65 [^F84]Restriction of proceedings
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F84]66 [^F84]Claim of unlawful action
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F84]67 [^F84]Immigration...
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F84]68 [^F84]Remedies
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F84]69 [^F84]Timing
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F84]70 [^F84]Information
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F84]71 [^F84]National security
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F84]72 [^F84]Validity and revision of contracts
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F84]General
+
+#### [^F84]73 [^F84]Aiding unlawful acts
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F84]74 [^F84]Employers' and principals' liability
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F84]75 [^F84]Police, &c.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F84]76 [^F84]Indirect provision of benefit, &c.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F84]77 [^F84]Employment Equality Regulations
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F84]78 [^F84]Crown application
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F84]79 [^F84]Interpretation
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F84]80 [^F84]Territorial application
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Part 3 — Discrimination on grounds of sexual orientation
+
+### [^F85]81 Regulations
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 82 Regulations for Northern Ireland
+
+(1) The Office of the First Minister and deputy First Minister may by regulations make provision about discrimination or harassment on grounds of sexual orientation.
+
+(2) In subsection (1) “sexual orientation” has the same meaning as in the Employment Equality (Sexual Orientation) Regulations (Northern Ireland) 2003 (SR 2003 No. 497).
+
+(3) The regulations may, in particular—
+
+(a) make provision of a kind similar to Part 3 of the Race Relations Order (discrimination on grounds of race, etc. other than in employment field) and Part 4 of that Order so far as it applies for the purposes of Part 3;
+
+(b) define discrimination;
+
+(c) define harassment;
+
+(d) make provision for enforcement (which may, in particular, include provision—
+
+(i) creating a criminal offence of a kind similar to, and with the same maximum penalties as, an offence created by the Race Relations Order;
+
+(ii) about validity and revision of contracts;
+
+(iii) about discriminatory advertisements;
+
+(iv) about instructing or causing discrimination or harassment);
+
+(e) provide for exceptions (whether or not of a kind similar to those provided for by Part 6 of the Race Relations Order or any other enactment relating to discrimination);
+
+(f) confer powers or impose duties or restrictions on the Equality Commission for Northern Ireland of a kind similar to those conferred or imposed on the Commission by Part 7 of the Race Relations Order;
+
+(g) make provision which applies generally or only in specified cases or circumstances;
+
+(h) make different provision for different cases or circumstances;
+
+(i) include incidental or consequential provision (which may include provision amending an enactment);
+
+(j) include transitional provision.
+
+(4) The power to make regulations under this section is exercisable by statutory rule for the purposes of the Statutory Rules (Northern Ireland) Order 1979 (SI 1979/ 1573 (NI 12)).
+
+(5) Regulations may not be made under this section unless a draft has been laid before and approved by resolution of the Northern Ireland Assembly.
+
+(6) In this section—
+
+- “the Race Relations Order” means the Race Relations (Northern Ireland) Order 1997 (SI 1997/869 (N.I. 6));
+- “enactment” includes an enactment contained in or made under Northern Ireland legislation.
+
+## [^F86]Part 4 — Public Functions
+
+### [^F86]Sex discrimination
+
+#### [^F86]83 [^F86]Prohibition of discrimination
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F86]84 [^F86]General duty to promote equality, &c.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F86]85 [^F86]Specific duties
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F86]86 [^F86]Codes of practice
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F86]87 [^F86]National security
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F86]Disability discrimination
+
+#### [^F86]88 [^F86]General duty: exceptions
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F86]89 [^F86]National security
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F86]Race discrimination
+
+#### [^F86]90 [^F86]National security
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Part 5 — General
+
+### 91 Repeals
+
+The enactments listed in Schedule 4 are hereby repealed to the extent specified.
+
+### 92 Crown application
+
+This Act applies (except as is otherwise expressly provided) to—
+
+(a) Ministers of the Crown,
+
+(b) government departments,
+
+(c) office-holders in the Scottish Administration (within the meaning of section 126(7) of the Scotland Act 1998 (c. 46)), and
+
+[[^F87](ca) the Welsh Ministers, the First Minister for Wales and the Counsel General to the Welsh Assembly Government,]
+
+[^F87]d other agents of the Crown.
+
+### 93 Commencement
+
+(1) The preceding provisions of this Act, except for sections 41, 42 and 86, shall come into force in accordance with provision made by the Secretary of State by order.
+
+(2) An order under subsection (1)—
+
+(a) shall be made by statutory instrument,
+
+(b) may make provision generally or only for a specified purpose,
+
+(c) may make different provision for different purposes, and
+
+(d) may include transitional provisions and savings.
+
+### 94 Extent
+
+(1) This Act extends only to—
+
+(a) England and Wales, and
+
+(b) Scotland.
+
+(2) But—
+
+(a) section 82 extends only to Northern Ireland, and
+
+(b) except as provided by subsection (3), an amendment of an enactment by this Act shall have the same extent as the enactment amended (or as the relevant part of the enactment amended).
+
+(3) Paragraphs 36 to 38 [^F88]... of Schedule 3 (which amend the Estate Agents Act 1979 (c. 38) [^F89]...), together with corresponding entries in Schedule 4, shall not extend to Northern Ireland.
+
+### 95 Short title
+
+This Act may be cited as the Equality Act 2006.
+
+## SCHEDULE 1 — The Commission: Constitution, &c.
+
+*Section 2*
+
+### Part 1 — Constitution
+
+#### Membership
+
+**1** (1) The [[^F90]Secretary of State] shall appoint not less than 10 or more than 15 individuals as members of the Commission (to be known as Commissioners).
+
+(2) The chief executive of the Commission (appointed under paragraph 7 below) shall be a Commissioner *ex officio*.
+
+**2** (1) In appointing Commissioners the [[^F90]Secretary of State] shall—
+
+(a) appoint an individual only if the [[^F90]Secretary of State] thinks that the individual—
+
+(i) has experience or knowledge relating to a relevant matter, or
+
+(ii) is suitable for appointment for some other special reason, and
+
+(b) have regard to the desirability of the Commissioners together having experience and knowledge relating to the relevant matters.
+
+(2) For the purposes of sub-paragraph (1) the relevant matters are those matters in respect of which the Commission has functions including, in particular—
+
+(a) discrimination (whether on grounds of age, disability, gender, gender reassignment, race, religion or belief, sexual orientation or otherwise), and
+
+(b) human rights.
+
+(3) The [[^F90]Secretary of State] shall ensure that the Commission includes—
+
+(a) a Commissioner appointed under paragraph 1(1) who is (or has been) a disabled person,
+
+(b) a Commissioner appointed under paragraph 1(1), with the consent of the Scottish Ministers, who knows about conditions in Scotland, and
+
+(c) a Commissioner appointed under paragraph 1(1), with the consent of the [[^F91]Welsh Ministers][^F91], who knows about conditions in Wales.
+
+(4) A person may not be appointed for the purpose of satisfying more than one paragraph of sub-paragraph (3).
+
+#### Tenure
+
+**3** (1) A Commissioner shall hold and vacate office in accordance with the terms of his appointment (subject to this Schedule).
+
+(2) The appointment of a Commissioner must be expressed to be for a specified period of not less than two years or more than five years.
+
+(3) A Commissioner whose period of membership has expired may be re-appointed.
+
+(4) A Commissioner may resign by notice in writing to the [[^F90]Secretary of State].
+
+(5) The [[^F90]Secretary of State] may dismiss a Commissioner who is, in the opinion of the [[^F90]Secretary of State], unable, unfit or unwilling to perform his functions.
+
+(6) This paragraph does not apply to the chief executive.
+
+#### Chairman
+
+**4** (1) The [[^F90]Secretary of State] shall appoint—
+
+(a) a Commissioner as Chairman, and
+
+(b) one or more Commissioners as deputy Chairman.
+
+(2) The Chairman shall—
+
+(a) preside over meetings of the Commission,
+
+(b) perform such functions as may be specified in the terms of his appointment, and
+
+(c) perform such other functions as may be assigned to him by the Commission.
+
+(3) A deputy Chairman—
+
+(a) may act for the Chairman when he is unavailable, and
+
+(b) shall perform—
+
+(i) such functions as may be specified in the terms of his appointment, and
+
+(ii) such other functions as the Chairman may delegate or assign to him.
+
+(4) The Chairman or a deputy Chairman—
+
+(a) shall vacate office if he ceases to be a Commissioner,
+
+(b) may resign by notice in writing to the [[^F90]Secretary of State], and
+
+(c) otherwise, shall hold and vacate office in accordance with the terms of his appointment (and may be reappointed).
+
+(5) If the Chairman resigns he shall cease to be a Commissioner (but he may be reappointed as a Commissioner).
+
+(6) The chief executive may not be appointed Chairman or deputy Chairman.
+
+### Part 2 — Proceedings
+
+#### Procedure
+
+**5** The Commission may regulate its own proceedings (subject to this Schedule).
+
+**6** (1) The Commission shall determine a quorum for its meetings.
+
+(2) At least five Commissioners must participate in the process by which a determination under sub-paragraph (1) is made.
+
+#### Staff
+
+**7** (1) The Commission—
+
+(a) shall appoint a chief executive, and
+
+(b) may appoint other staff.
+
+(2) A person may be appointed under sub-paragraph (1)(a) only with the consent of the [[^F90]Secretary of State].
+
+(3) An appointment may be made under sub-paragraph (1)(b) only if consistent with arrangements determined by the Commission and approved by the [[^F90]Secretary of State] as to—
+
+(a) numbers, and
+
+(b) terms and conditions of appointment.
+
+**8** At the end of section 3(2) of the Employers' Liability (Compulsory Insurance) Act 1969 (c. 57) (exempt employers) add—
+
+> ; and
+>
+> (c) the Commission for Equality and Human Rights.
+
+#### Investigating Commissioners
+
+**9** (1) The Commission may appoint one or more Investigating Commissioners.
+
+(2) An Investigating Commissioner may be appointed only—
+
+(a) for the purpose of having delegated to him by the Commission the function of taking action of a kind listed in sub-paragraph (3), and
+
+(b) with the consent of the [[^F90]Secretary of State].
+
+(3) The kinds of action referred to in sub-paragraph (2)(a) are—
+
+(a) carrying out an inquiry under section 16,
+
+(b) carrying out an investigation under section 20,
+
+(c) giving an unlawful act notice under section 21, and
+
+(d) entering into an agreement under section 23.
+
+(4) An Investigating Commissioner is not a Commissioner; but paragraphs 3(1), (4) and (5) and 33 apply to him as if he were (and with the substitution of references to the Commission for references to the [[^F90]Secretary of State]).
+
+#### Delegation
+
+**10** (1) The Commission may delegate a function—
+
+(a) to a Commissioner,
+
+(b) to staff, or
+
+(c) in accordance with paragraph 9, to an Investigating Commissioner.
+
+(2) Paragraphs 15, 21, 22, 29, 30 and 52 make provision about delegation to committees.
+
+#### Committees
+
+**11** (1) The Commission may establish one or more committees (to be known as advisory committees) to advise—
+
+(a) the Commission, or
+
+(b) an Investigating Commissioner.
+
+(2) An advisory committee may include any of the following—
+
+(a) Commissioners;
+
+(b) staff;
+
+(c) other non-Commissioners.
+
+**12** (1) The Commission may establish one or more committees to whom the Commission may delegate functions (to be known as decision-making committees).
+
+(2) A decision-making committee may include any of the following—
+
+(a) Commissioners;
+
+(b) staff;
+
+(c) other non-Commissioners.
+
+(3) The Commission shall ensure that the Chairman of each decision-making committee is a Commissioner.
+
+(4) In allocating its resources the Commission shall ensure that each decision-making committee receives a share sufficient to enable it to exercise its functions.
+
+**13** A member of a committee shall hold and vacate office in accordance with the terms of his appointment by the Commission (which may include provision for dismissal).
+
+**14** The Commission—
+
+(a) may, to any extent, regulate the proceedings of a committee (and may, in particular, determine a quorum for meetings),
+
+(b) may, to any extent, permit a committee to regulate its own proceedings (and may, in particular, enable a committee to determine a quorum for meetings), and
+
+(c) may dissolve a committee.
+
+**15** (1) The Commission may delegate a function to a decision-making committee.
+
+(2) This paragraph is subject to paragraphs 21, 22, 29, 30 and 52.
+
+#### Scotland Committee
+
+**16** (1) The Commission shall establish a decision-making committee to be known as the Scotland Committee.
+
+(2) The Commission shall ensure that the Scotland Committee is established before any of sections 8 to 12 comes into force (to any extent).
+
+**17** The Commission shall appoint as the Chairman of the Scotland Committee a Commissioner appointed for the purpose of satisfying paragraph 2(3)(b).
+
+**18** The Commission shall appoint each member of the Scotland Committee for a period of not less than two years or more than 5 years, subject to the possibilities of—
+
+(a) reappointment, and
+
+(b) dismissal in accordance with the terms of appointment.
+
+**19** The Scotland Committee shall advise the Commission about the exercise of the Commission's functions in so far as they affect Scotland.
+
+**20** Before exercising a function in a manner which in the opinion of the Commission is likely to affect persons in Scotland, the Commission shall consult the Scotland Committee.
+
+**21** (1) The power under section 13—
+
+(a) shall be treated by virtue of this paragraph as having been delegated by the Commission to the Scotland Committee in so far as its exercise, in the opinion of the Commission, affects Scotland, and
+
+(b) to that extent shall not be exercisable by the Commission.
+
+[^F92]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) Sub-paragraph (1) shall not prevent the Commission from making arrangements under section 13(1)(d) or (e) for the provision of advice or guidance to persons anywhere in Great Britain.
+
+**22** (1) The power under section 11(2)(c)—
+
+(a) shall be treated by virtue of this paragraph as having been delegated by the Commission to the Scotland Committee in so far as it concerns the giving of advice to devolved government about enactments which, in the opinion of the Commission, affect only Scotland, and
+
+(b) to that extent shall not be exercisable by the Commission.
+
+(2) The power under section 11(2)(d)—
+
+(a) shall be treated by virtue of this paragraph as having been delegated by the Commission to the Scotland Committee in so far as it concerns the giving of advice to devolved government about proposed changes in the law which, in the opinion of the Commission, would affect only Scotland, and
+
+(b) to that extent shall not be exercisable by the Commission.
+
+[^F93]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**23** In allocating its resources the Commission shall ensure that the Scotland Committee receives a share sufficient to enable it to exercise its functions.
+
+#### Wales Committee
+
+**24** (1) The Commission shall establish a decision-making committee to be known as the Wales Committee.
+
+(2) The Commission shall ensure that the Wales Committee is established before any of sections 8 to 12 comes into force (to any extent).
+
+**25** The Commission shall appoint as the Chairman of the Wales Committee a Commissioner appointed for the purpose of satisfying paragraph 2(3)(c).
+
+**26** The Commission shall appoint each member of the Wales Committee for a period of not less than two years or more than 5 years, subject to the possibilities of—
+
+(a) reappointment, and
+
+(b) dismissal in accordance with the terms of appointment.
+
+**27** The Wales Committee shall advise the Commission about the exercise of its functions in so far as they affect Wales.
+
+**28** Before exercising a function in a manner which in the opinion of the Commission is likely to affect persons in Wales, the Commission shall consult the Wales Committee.
+
+**29** (1) The power under section 13—
+
+(a) shall be treated by virtue of this paragraph as having been delegated by the Commission to the Wales Committee in so far as its exercise, in the opinion of the Commission, affects Wales, and
+
+(b) to that extent shall not be exercisable by the Commission.
+
+[^F94]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) Sub-paragraph (1) shall not prevent the Commission from making arrangements under section 13(1)(d) or (e) for the provision of advice or guidance to persons anywhere in Great Britain.
+
+**30** (1) The power under section 11(2)(c)—
+
+(a) shall be treated by virtue of this paragraph as having been delegated by the Commission to the Wales Committee in so far as it concerns the giving of advice to devolved government about enactments which, in the opinion of the Commission, affect only Wales, and
+
+(b) to that extent shall not be exercisable by the Commission.
+
+(2) The power under section 11(2)(d)—
+
+(a) shall be treated by virtue of this paragraph as having been delegated by the Commission to the Wales Committee in so far as it concerns the giving of advice to devolved government about proposed changes in the law which, in the opinion of the Commission, would affect only Wales, and
+
+(b) to that extent shall not be exercisable by the Commission.
+
+[^F95]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**31** In allocating its resources the Commission shall ensure that the Wales Committee receives a share sufficient to enable it to exercise its functions.
+
+#### Annual report
+
+**32** (1) The Commission shall for each financial year prepare a report on the performance of its functions in that year (to be known as its annual report).
+
+(2) An annual report shall, in particular, indicate in what manner and to what extent the Commission's performance of its functions has accorded to the plan under section 4.
+
+(3) The matters addressed by an annual report shall, in particular, include the Commission's activities in relation to—
+
+(a) Scotland, and
+
+(b) Wales.
+
+(4) The Commission shall send each annual report to the [[^F90]Secretary of State] within such period, beginning with the end of the financial year to which the report relates, as he may specify.
+
+(5) The [[^F90]Secretary of State] shall lay before Parliament a copy of each annual report received under sub-paragraph (4).
+
+(6) The Commission shall send a copy of each annual report to—
+
+(a) the Scottish Parliament, and
+
+(b) the National Assembly for Wales.
+
+#### Savings
+
+**33** The validity of proceedings of the Commission shall not be affected by—
+
+(a) a vacancy (whether for Commissioner, Chairman, deputy Chairman or chief executive), or
+
+(b) a defect in relation to an appointment.
+
+**34** The validity of proceedings of a committee of the Commission shall not be affected by—
+
+(a) a vacancy (including a vacancy in the office of Chairman), or
+
+(b) a defect in relation to an appointment (including a defect in relation to the office of Chairman).
+
+### Part 3 — Money
+
+#### Remuneration, &c.
+
+**35** (1) The Commission may pay to the Chairman, a deputy Chairman or another Commissioner—
+
+(a) such remuneration as the [[^F90]Secretary of State] may determine, and
+
+(b) such travelling and other allowances as the [[^F90]Secretary of State] may determine.
+
+(2) The Commission may pay to or in respect of the Chairman, a deputy Chairman or another Commissioner such sums as the [[^F90]Secretary of State] may determine by way of, or in respect of, pensions, allowances or gratuities.
+
+(3) If the [[^F90]Secretary of State] thinks that there are special circumstances that make it right for a person ceasing to hold office as Chairman, deputy Chairman or Commissioner to receive compensation, the Commission may pay to him such compensation as the [[^F90]Secretary of State] may determine.
+
+(4) This paragraph does not apply to the Chief Executive.
+
+**36** (1) The Commission may pay sums to or in respect of a member or former member of staff by way of or in respect of—
+
+(a) remuneration,
+
+(b) allowances,
+
+(c) pensions,
+
+(d) gratuities, or
+
+(e) compensation for loss of employment.
+
+(2) In Schedule 1 to the Superannuation Act 1972 (c. 11) (employment to which superannuation schemes may extend) in the list of other bodies insert at the appropriate place—
+
+(a) “The Commission for Equality and Human Rights.”
+
+(3) The Commission shall pay to the Minister for the Civil Service such sums as he may determine in respect of any increase attributable to sub-paragraph (2) in the sums payable out of money provided by Parliament under the Superannuation Act 1972 (c. 11).
+
+**37** (1) The Commission may, with the approval of the [[^F90]Secretary of State], pay sums to or in respect of a member or former member of an advisory or decision-making committee by way of or in respect of—
+
+(a) remuneration,
+
+(b) allowances, or
+
+(c) gratuities.
+
+(2) This paragraph does not apply in relation to a person who is a member of staff of the Commission.
+
+(3) Approval for the purposes of sub-paragraph (1) may be general or specific.
+
+#### [[^F90]Secretary of State]
+
+**38** The [[^F90]Secretary of State] shall pay to the Commission such sums as appear to the [[^F90]Secretary of State] reasonably sufficient for the purpose of enabling the Commission to perform its functions.
+
+#### Charging
+
+**39** The Commission may make a charge for a service provided under section 13 [^F96]....
+
+#### Accounts
+
+**40** (1) The Commission shall—
+
+(a) keep proper accounting records, and
+
+(b) prepare a statement of accounts in respect of each financial year in such form as the [[^F90]Secretary of State] may direct.
+
+(2) The Commission shall send a copy of a statement under sub-paragraph (1)(b) to—
+
+(a) the [[^F90]Secretary of State], and
+
+(b) the Comptroller and Auditor General.
+
+(3) A copy of a statement must be sent under sub-paragraph (2) within such period, beginning with the end of the financial year to which the statement relates, as the [[^F90]Secretary of State] may direct.
+
+(4) The Comptroller and Auditor General shall—
+
+(a) examine, certify and report on a statement received under this paragraph, and
+
+(b) lay a copy of the statement and his report before Parliament.
+
+(5) The [[^F90]Secretary of State] may make a direction under sub-paragraph (1)(b) only with the consent of the Treasury.
+
+#### Financial year
+
+**41** (1) The financial year of the Commission shall be the period of 12 months ending with 31st March.
+
+(2) But the first financial year of the Commission shall be the period—
+
+(a) beginning with the coming into force of section 1, and
+
+(b) ending with—
+
+(i) the following 31st March, if that section comes into force on 1st April, and
+
+(ii) the second following 31st March, in any other case.
+
+### Part 4 — Status, &c.
+
+#### Status
+
+**42** (1) The Commission shall not—
+
+(a) be regarded as the servant or agent of the Crown, or
+
+(b) enjoy any status, immunity or privilege of the Crown.
+
+(2) Service as Commissioner, Investigating Commissioner or employee of the Commission is not employment in the civil service of the State.
+
+(3) The [[^F90]Secretary of State] shall have regard to the desirability of ensuring that the Commission is under as few constraints as reasonably possible in determining—
+
+(a) its activities,
+
+(b) its timetables, and
+
+(c) its priorities.
+
+#### Supervision
+
+**43** In Schedule 2 to the Parliamentary Commissioner Act 1967 (c. 13) (departments, &c. subject to investigation) at the appropriate place insert— “ The Commission for Equality and Human Rights. ”
+
+#### Disqualifications
+
+**44** (1) In Part II of Schedule 1 to the House of Commons Disqualification Act 1975 (c. 24) (bodies all members of which are disqualified) at the appropriate place insert— “ The Commission for Equality and Human Rights. ”
+
+(2) In Part III of that Schedule (other disqualifying offices) at the appropriate place insert— “ Investigating Commissioner of, or member of a decision-making committee of, the Commission for Equality and Human Rights. ”
+
+**45** (1) In Part II of Schedule 1 to the Northern Ireland Assembly Disqualification Act 1975 (c. 25) (bodies all members of which are disqualified) at the appropriate place insert— “ The Commission for Equality and Human Rights. ”
+
+(2) In Part III of that Schedule (other disqualifying offices) at the appropriate place insert— “ Investigating Commissioner of, or member of a decision-making committee of, the Commission for Equality and Human Rights. ”
+
+**46** A Commissioner or Investigating Commissioner, and a member of a decision-making committee of the Commission, shall be disqualified from being a member of the National Assembly for Wales.
+
+#### Records
+
+**47** In Schedule 1 to the Public Records Act 1958 (c. 51) (definition of public records) at the appropriate place in Part II of the Table at the end of paragraph 3 insert— “ The Commission for Equality and Human Rights. ”
+
+#### Freedom of information
+
+**48** In Part VI of Schedule 1 to the Freedom of Information Act 2000 (c. 36) (public bodies) at the appropriate place insert— “ The Commission for Equality and Human Rights. ”
+
+### [^F97]Part 5 — Disability Committee
+
+#### [^F97]Establishment
+
+**[^F97]49** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F97]Membership
+
+**[^F97]50** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F97]51** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F97]Functions
+
+**[^F97]52** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F97]53** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F97]54** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F97]Resources
+
+**[^F97]55** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F97]Report
+
+**[^F97]56** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F97]5-year review
+
+**[^F97]57** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F97]58** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F97]59** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F97]60** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F97]61** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F97]62** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F97]63** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F97]64** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 2 — Inquiries, Investigations and Assessments
+
+*Sections 16, 20 and 31*
+
+### Introduction
+
+**1** This Schedule applies to—
+
+(a) inquiries under section 16,
+
+(b) investigations under section 20, and
+
+(c) assessments under section 31.
+
+### Terms of reference
+
+**2** Before conducting an inquiry the Commission shall—
+
+(a) publish the terms of reference of the inquiry in a manner that the Commission thinks is likely to bring the inquiry to the attention of persons whom it concerns or who are likely to be interested in it, and
+
+(b) in particular, give notice of the terms of reference to any persons specified in them.
+
+**3** Before conducting an investigation the Commission shall—
+
+(a) prepare terms of reference specifying the person to be investigated and the nature of the unlawful act which the Commission suspects,
+
+(b) give the person to be investigated notice of the proposed terms of reference,
+
+(c) give the person to be investigated an opportunity to make representations about the proposed terms of reference,
+
+(d) consider any representations made, and
+
+(e) publish the terms of reference once settled.
+
+**4** Before conducting an assessment of a person's compliance with a duty the Commission shall—
+
+(a) prepare terms of reference,
+
+(b) give the person notice of the proposed terms of reference,
+
+(c) give the person an opportunity to make representations about the proposed terms of reference,
+
+(d) consider any representations made, and
+
+(e) publish the terms of reference once settled.
+
+**5** Paragraphs 2 to 4 shall apply in relation to revised terms of reference as they apply in relation to original terms of reference.
+
+### Representations
+
+**6** (1) The Commission shall make arrangements for giving persons an opportunity to make representations in relation to inquiries, investigations and assessments.
+
+(2) In particular, in the course of an investigation, inquiry or assessment the Commission must give any person specified in the terms of reference an opportunity to make representations.
+
+**7** Arrangements under paragraph 6 may (but need not) include arrangements for oral representations.
+
+**8** (1) The Commission shall consider representations made in relation to an inquiry, investigation or assessment.
+
+(2) But the Commission may, where they think it appropriate, refuse to consider representations—
+
+(a) made neither by nor on behalf of a person specified in the terms of reference, or
+
+(b) made on behalf of a person specified in the terms of reference by a person who is not [[^F98]a relevant lawyer][^F98].
+
+[[^F99](2A) “Relevant lawyer” means—
+
+(a) an advocate or solicitor in Scotland, or
+
+(b) a person who, for the purposes of the Legal Services Act 2007, is an authorised person in relation to an activity which constitutes the exercise of a right of audience or the conduct of litigation (within the meaning of that Act).]
+
+[^F99]3 If the Commission refuse to consider representations in reliance on sub-paragraph (2) they shall give the person who makes them written notice of the Commission's decision and the reasons for it.
+
+### Evidence
+
+**9** In the course of an inquiry, investigation or assessment the Commission may give a notice under this paragraph to any person.
+
+**10** (1) A notice given to a person under paragraph 9 may require him—
+
+(a) to provide information in his possession,
+
+(b) to produce documents in his possession, or
+
+(c) to give oral evidence.
+
+(2) A notice under paragraph 9 may include provision about—
+
+(a) the form of information, documents or evidence;
+
+(b) timing.
+
+(3) A notice under paragraph 9—
+
+(a) may not require a person to provide information that he is prohibited from disclosing by virtue of an enactment,
+
+(b) may not require a person to do anything that he could not be compelled to do in proceedings before the High Court or the Court of Session, and
+
+(c) may not require a person to attend at a place unless the Commission undertakes to pay the expenses of his journey.
+
+**11** The recipient of a notice under paragraph 9 may apply to [[^F100]the county court] (in England and Wales) or to the sheriff (in Scotland) to have the notice cancelled on the grounds that the requirement imposed by the notice is—
+
+(a) unnecessary having regard to the purpose of the inquiry, investigation or assessment to which the notice relates, or
+
+(b) otherwise unreasonable.
+
+**12** (1) Sub-paragraph (2) applies where the Commission thinks that a person—
+
+(a) has failed without reasonable excuse to comply with a notice under paragraph 9, or
+
+(b) is likely to fail without reasonable excuse to comply with a notice under paragraph 9.
+
+(2) The Commission may apply to [[^F101]the county court] (in England and Wales) or to the sheriff (in Scotland) for an order requiring a person to take such steps as may be specified in the order to comply with the notice.
+
+**13** (1) A person commits an offence if without reasonable excuse he—
+
+(a) fails to comply with a notice under paragraph 9 or an order under paragraph 12(2),
+
+(b) falsifies anything provided or produced in accordance with a notice under paragraph 9 or an order under paragraph 12(2), or
+
+(c) makes a false statement in giving oral evidence in accordance with a notice under paragraph 9.
+
+(2) A person who is guilty of an offence under this paragraph shall be liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+**14** (1) Where a person is given a notice under paragraph 9 he shall disregard it, and notify the Commission that he is disregarding it, in so far as he thinks it would require him—
+
+(a) to disclose sensitive information within the meaning of [[^F102]paragraph 5 of Schedule 1 to the Justice and Security Act 2013] (Intelligence and Security Committee[[^F103]of Parliament]),
+
+(b) to disclose information which might lead to the identification of an employee or agent of an intelligence service (other than one whose identity is already known to the Commission),
+
+(c) to disclose information which might provide details of processes used in recruiting, selecting or training employees or agents of an intelligence service,
+
+(d) to disclose information which might provide details of, or cannot practicably be separated from, information falling within any of paragraphs (a) to (c), or
+
+(e) to make a disclosure of information relating to an intelligence service which would prejudice the interests of national security.
+
+(2) In sub-paragraph (1) “intelligence service” means—
+
+(a) the Security Service,
+
+(b) the Secret Intelligence Service, and
+
+(c) the Government Communications Headquarters.
+
+(3) Where in response to a notice under paragraph 9 a person gives a notice to the Commission under sub-paragraph (1) above—
+
+(a) paragraphs 12 and 13 shall not apply in relation to that part of the notice under paragraph 9 to which the notice under sub-paragraph (1) above relates,
+
+(b) the Commission may apply to the tribunal established by section 65 of the Regulation of Investigatory Powers Act 2000 (c. 23) for an order requiring the person to take such steps as may be specified in the order to comply with the notice,
+
+(c) the following provisions of that Act shall apply in relation to proceedings under this paragraph as they apply in relation to proceedings under that Act (with any necessary modifications)—
+
+(i) section 67(7), (8) and (10) to (12) (determination),
+
+(ii) section 68 (procedure), and
+
+(iii) section 69 (rules), and
+
+(d) the tribunal shall determine proceedings under this paragraph by considering the opinion of the person who gave the notice under sub-paragraph (1) above in accordance with the principles that would be applied by a court on an application for judicial review of the giving of the notice.
+
+(4) Where the Commission receives information or documents from or relating to an intelligence service in response to a notice under paragraph 9, the Commission shall store and use the information or documents in accordance with any arrangements specified by the Secretary of State.
+
+(5) The recipient of a notice under paragraph 9 may apply to the High Court (in England and Wales) or the Court of Session (in Scotland) to have the notice cancelled on the grounds that the requirement imposed by the notice is undesirable for reasons of national security, other than for the reason that it would require a disclosure of a kind to which sub-paragraph (1) above applies.
+
+### Reports
+
+**15** The Commission shall publish a report of its findings on an inquiry, investigation or assessment.
+
+### Recommendations
+
+**16** (1) The Commission may make recommendations—
+
+(a) as part of a report of an inquiry, investigation or assessment under paragraph 15, or
+
+(b) in respect of a matter arising in the course of an inquiry, investigation or assessment.
+
+(2) A recommendation may be addressed to any class of person.
+
+### Effect of report
+
+**17** (1) A court or tribunal—
+
+(a) may have regard to a finding of the report of an inquiry, investigation or assessment, but
+
+(b) shall not treat it as conclusive.
+
+**18** A person to whom a recommendation in the report of an inquiry, investigation or assessment is addressed shall have regard to it.
+
+### Courts and tribunals
+
+**19** An inquiry, investigation or assessment may not question (whether expressly or by necessary implication) the findings of a court or tribunal.
+
+### Intelligence services
+
+**20** (1) An inquiry may not consider—
+
+(a) whether an intelligence service has acted (or is acting) in a way which is incompatible with a person's human rights, or
+
+(b) other matters concerning human rights in relation to an intelligence service.
+
+(2) In this paragraph “intelligence service” has the same meaning as in paragraph 14.
+
+## SCHEDULE 3 — Amendments Consequential on Part 1
+
+*Section 40*
+
+### Public Records Act 1958 (c. 51)
+
+**1** In Schedule 1 to the Public Records Act 1958 (definition of public records) omit the reference to the Disability Rights Commission.
+
+### Parliamentary Commissioner Act 1967 (c. 13)
+
+**2** In Schedule 2 to the Parliamentary Commissioner Act 1967 (departments, &c. subject to investigation) omit the references to—
+
+(a) the Commission for Racial Equality,
+
+(b) the Disability Rights Commission, and
+
+(c) the Equal Opportunities Commission.
+
+### Superannuation Act 1972 (c. 11)
+
+**3** In Schedule 1 to the Superannuation Act 1972 (employments) omit the references to—
+
+(a) the Commission for Racial Equality,
+
+(b) the Disability Rights Commission, and
+
+(c) the Equal Opportunities Commission.
+
+### House of Commons Disqualification Act 1975 (c. 24)
+
+**4** (1) The House of Commons Disqualification Act 1975 shall be amended as follows.
+
+(2) In Part II of Schedule 1 (bodies of which all members are disqualified) omit the references to—
+
+(a) the Commission for Racial Equality,
+
+(b) the Disability Rights Commission, and
+
+(c) the Equal Opportunities Commission.
+
+(3) In Part III of Schedule 1 (disqualifying offices) omit the references to—
+
+(a) Additional Commissioner of the Commission for Racial Equality, and
+
+(b) Additional Commissioner of the Equal Opportunities Commission.
+
+### Northern Ireland Assembly Disqualification Act 1975 (c. 25)
+
+**5** (1) The Northern Ireland Assembly Disqualification Act 1975 shall be amended as follows.
+
+(2) In Part II of Schedule 1 (bodies of which all members are disqualified) omit the references to—
+
+(a) the Commission for Racial Equality,
+
+(b) the Disability Rights Commission, and
+
+(c) the Equal Opportunities Commission.
+
+(3) In Part III of Schedule 1 (disqualifying offices) omit the references to—
+
+(a) Additional Commissioner of the Commission for Racial Equality, and
+
+(b) Additional Commissioner of the Equal Opportunities Commission.
+
+### Sex Discrimination Act 1975 (c. 65)
+
+**[^F104]6** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F104]7** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F104]8** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F104]9** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F104]10** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F104]11** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F104]12** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F104]13** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F104]14** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F104]15** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F104]16** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F104]17** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F104]18** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F104]19** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F104]20** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Race Relations Act 1976 (c. 74)
+
+**[^F104]21** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F104]22** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F104]23** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F104]24** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F104]25** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F104]26** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F104]27** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F104]28** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F104]29** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F104]30** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F104]31** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F104]32** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F104]33** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F104]34** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F104]35** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Estate Agents Act 1979 (c. 38)
+
+**36** The Estate Agents Act 1979 shall be amended as follows.
+
+**37** In section 9(6) (provision of information to Office of Fair Trading)—
+
+(a) for paragraph (a) substitute—
+
+> (a) the Commission for Equality and Human Rights, and
+
+, and
+
+(b) paragraph (c) (and the word “and” immediately before it) shall cease to have effect.
+
+**38** (1) Schedule 1 shall be amended as follows.
+
+(2) For paragraph 2(b) to (d) substitute—
+
+> (b) where he has been given an unlawful act notice under section 21 of the Equality Act 2006 and no appeal under that section is pending or can be brought;
+>
+> (c) where he is the subject of an injunction, interdict or order under section 24 (unlawful acts) or 25 (unlawful advertising, pressure, &c.) of the Equality Act 2006;
+>
+> (d) where—
+>
+> (i) a county court has determined in accordance with section 25 of the Equality Act 2006 that he committed an act which is unlawful under section 38, 39 or 40 of the Sex Discrimination Act 1975 or section 29, 30 or 31 of the Race Relations Act 1976 (unlawful advertising, pressure, &c.), and
+>
+> (ii) no appeal under section 25 of the Equality Act 2006 is pending or can be brought (disregarding an appeal out of time);
+
+.
+
+(3) Paragraph 2(f) to (h) shall cease to have effect.
+
+(4) In the words following paragraph 2(h) after “injunction” insert “ , interdict ”.
+
+(5) In paragraph 4(1) and (2) omit—
+
+(a) the words “and notices”, and
+
+(b) the words “(1) and”.
+
+### Legal Aid (Scotland) Act 1986 (c. 47)
+
+**39** (1) The Legal Aid (Scotland) Act 1986 shall be amended as follows.
+
+(2) In section 4(2) (sums which may be paid out of the Scottish Legal Aid Fund), after paragraph (ab) insert—
+
+> (ac) any sums payable by the Board under section 17(2D) of this Act;
+
+.
+
+(3) In section 17 (contributions and payments out of property recovered), after subsection (2B) insert—
+
+> (2C) Subsection (2D) below applies where, after applying sums paid to the Board under subsection (2A) above in respect of the expenses of any party in any proceedings—
+>
+> (a) there is a surplus in the Fund on the account of the party; and
+>
+> (b) the party received, in respect of the same proceedings, assistance from the Commission for Equality and Human Rights under section 28 of the Equality Act 2006 (power of the Commission to provide legal assistance).
+>
+> (2D) The Board shall apply the surplus to pay to the Commission any sums due to it under section 29(2) of that Act (Commission's entitlement to recover expenses incurred in providing assistance) in respect of the assistance provided by it to the party.
+
+### Employment Act 1989 (c. 38)
+
+**40** In section 28(2) of the Employment Act 1989 (orders) for “Equal Opportunities Commission” substitute “ Commission for Equality and Human Rights ”.
+
+### Disability Discrimination Act 1995 (c. 50)
+
+**[^F105]41** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F105]42** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F105]43** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F105]44** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F105]45** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F105]46** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F105]47** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F105]48** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F105]49** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F105]50** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F105]51** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F105]52** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F105]53** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F105]54** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F105]55** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F105]56** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Employment Tribunals Act 1996 (c. 17)
+
+**57** After section 21(1)(gb) of the Employment Tribunals Act 1996 (jurisdiction of Employment Appeal Tribunal) insert—
+
+> (gc) the Equality Act 2006,
+
+.
+
+### Asylum and Immigration Act 1996 (c. 49)
+
+**58** In section 8A(4)(a) of the Asylum and Immigration Act 1996, for “Commission for Racial Equality;” substitute “ Commission for Equality and Human Rights; ”.
+
+### Disability Rights Commission Act 1999 (c. 17)
+
+**59** The Disability Rights Commission Act 1999 shall cease to have effect.
+
+### Freedom of Information Act 2000 (c. 36)
+
+**60** In Part VI of Schedule 1 to the Freedom of Information Act 2000 (public bodies) omit the references to—
+
+(a) the Commission for Racial Equality,
+
+(b) the Disability Rights Commission, and
+
+(c) the Equal Opportunities Commission.
+
+### Anti-terrorism, Crime and Security Act 2001 (c. 24)
+
+**61** In Schedule 4 to the Anti-terrorism, Crime and Security Act 2001 (disclosure)—
+
+(a) paragraphs 13, 14 and 46 shall cease to have effect, and
+
+(b) after paragraph 53A insert—
+
+> **Equality Act 2006**
+>
+> **53B** Section 6 of the Equality Act 2006.
+
+### Housing (Scotland) Act 2001 (asp 10)
+
+**62** In paragraph 8(e) of Schedule 5 to the Housing (Scotland) Act 2001, for “Disability Rights Commission” substitute “ Commission for Equality and Human Rights ”.
+
+### Housing (Scotland) Act 2006 (asp 01)
+
+**63** In each of the following provisions of the Housing (Scotland) Act 2006, for “Disability Rights Commission” substitute “ Commission for Equality and Human Rights ”
+
+(a) section 53(1)(g),
+
+(b) section 65(4), and
+
+(c) section 67(2)(b)(i).
+
+## SCHEDULE 4 — Repeals
+
+*Section 91*
+
+|  |  |
+|---|---|
+| *Short title and chapter* | *Extent of repeal* |
+| Public Records Act 1958 (c. 51) | In Part II of Schedule 1, the reference to the Disability Rights Commission. |
+| Parliamentary Commissioner Act 1967 (c. 13) | In Schedule 2, the references to the Commission for Racial Equality, the Disability Rights Commission and the Equal Opportunities Commission. |
+| Superannuation Act 1972 (c. 11) | In Schedule 1, the references to the Commission for Racial Equality, the Disability Rights Commission and the Equal Opportunities Commission. |
+| House of Commons Disqualification Act 1975 (c. 24) | In Part II of Schedule 1, the references to the Commission for Racial Equality, the Disability Rights Commission and the Equal Opportunities Commission. In Part III of Schedule 1, the references to an Additional Commissioner of the Commission for Racial Equality and an Additional Commissioner of the Equal Opportunities Commission. |
+| Northern Ireland Assembly Disqualification Act 1975 (c. 25) | In Part II of Schedule 1, the references to the Commission for Racial Equality, the Disability Rights Commission and the Equal Opportunities Commission. In Part III of Schedule 1, the references to an Additional Commissioner of the Commission for Racial Equality and an Additional Commissioner of the Equal Opportunities Commission. |
+| Sex Discrimination Act 1975 (c. 65) | Part VI. Sections 67 to 73. Section 75. Section 76(3) and (4). Section 76D. Section 76E. In section 81(1) the words “and 59(2)”. In section 81(2) the words “, 59(2)”. In section 82(1) the definitions of “formal investigation” and “non-discrimination notice”. In section 82(4) the words—<br>- (a) “a non-discrimination notice or”,<br>- (b) “notice or”, and<br>- (c) the words from “and for this purpose” to the end of the subsection. Schedule 3. |
+| Race Relations Act 1976 (c. 74) | Part VII. Sections 58 to 64. Section 66. Sections 71C to 71E. Section 68(3), (3A)(c), (4) and (5). In section 74(1), the words “(except section 50(2)(a))”. Section 74(5). In section 78(1) the definitions of “formal investigation” and “non-discrimination notice”. In section 78(4) the words—<br>- (a) “a non-discrimination notice or”,<br>- (b) “notice or”, and<br>- (c) the words from “and for this purpose” to the end of the subsection. Schedule 1. In Part II of Schedule 1A, the references to the Commission for Racial Equality, Disability Rights Commission and Equal Opportunities Commission. Paragraphs 1, 2, 6, 7, 8 and 9 of Schedule 4. |
+| Estate Agents Act 1979 (c. 38) | Section 9(6)(c) (and the word “and” immediately before it). Paragraph 2(f) to (h) of Schedule 1. In each sub-paragraph of paragraph 4 of Schedule 1—<br>- (a) the words “and notices”, and<br>- (b) the words “(1) and”. |
+| County Courts Act 1984 (c. 28) | Paragraphs 54 and 61 of Schedule 2. |
+| Legal Aid (Scotland) Act 1986 (c. 47) | Paragraphs 5 and 6 of Schedule 3. |
+| Legal Aid Act 1988 (c. 34) | Paragraphs 6 and 7 of Schedule 5. |
+| Housing Act 1988 (c. 50) | Section 137. |
+| Employment Act 1989 (c. 38) | Paragraph 16 of Schedule 6. |
+| Local Government and Housing Act 1989 (c. 42) | Section 180. |
+| Trade Union Reform and Employment Rights Act 1993 (c. 19) | Paragraph 15 of Schedule 7. |
+| Disability Discrimination Act 1995 (c. 50) | Section 17B. Section 28. Section 31B. Section 49E. Section 49F. Section 49H. Section 49I. Section 53A. In section 67(5)(b), the words “, 53A(6)(a)”. In the definition of “regulations” in section 68(1), the words “to 49F”. |
+| Employment Tribunals Act 1996 (c. 17) | Paragraphs 3 and 4(3) of Schedule 1. |
+| Disability Rights Commission Act 1999 (c. 17) | The whole Act. |
+| Access to Justice Act 1999 (c. 22) | Paragraphs 13, 14 and 56 of Schedule 4. |
+| Race Relations (Amendment) Act 2000 (c. 34) | Paragraphs 8, 9 and 11 of Schedule 2. |
+| Freedom of Information Act 2000 (c. 36) | In Part VI of Schedule 1, the references to the Commission for Racial Equality, Disability Rights Commission and Equal Opportunities Commission. |
+| Special Educational Needs and Disability Act 2001 (c. 10) | Sections 35 to 37. Schedule 7. |
+| Anti-terrorism, Crime and Security Act 2001 (c. 24) | Paragraphs 13, 14 and 46 of Schedule 4. |
+| Nationality, Immigration and Asylum Act 2002 (c. 41) | Paragraphs 13 and 15 of Schedule 7. |
+| Disability Discrimination Act 2005 (c. 13) | Section 16(2) and (3). Paragraphs 10, 25, 28 and 50 of Schedule 1. |
+| Equality Act 2006 | Section 86. |
+
+---
+
+[^F1]: Words in s. 4(4) substituted (18.8.2010) by Transfer of Functions (Equality) Order 2010 (S.I. 2010/1839), art. 1(2), Sch. para. 7(2)(a)
+[^F2]: Words in s. 7(3) omitted (25.6.2013) by virtue of Enterprise and Regulatory Reform Act 2013 (c. 24), ss. 64(4), 103(2)
+[^F3]: Words in s. 8(1)(d) substituted (1.10.2010) by Equality Act 2010 (c. 15), s. 216(3), Sch. 26 para. 62(2)(a) (with ss. 6(4), 205); S.I. 2010/2317, art. 2(15)(e)(iv) (as amended (1.10.2010) by S.I. 2010/2337, art. 2)
+[^F4]: Words in s. 8(1)(e) substituted (1.10.2010) by Equality Act 2010 (c. 15), s. 216(3), Sch. 26 para. 62(2)(b) (with ss. 6(4), 205); S.I. 2010/2317, art. 2(15)(e)(iv) (as amended (1.10.2010) by S.I. 2010/2337, art. 2)
+[^F5]: Words in s. 8(4) substituted (1.10.2010) by Equality Act 2010 (c. 15), s. 216(3), Sch. 26 para. 62(3) (with ss. 6(4), 205); S.I. 2010/2317, art. 2(15)(e)(iv) (as amended (1.10.2010) by S.I. 2010/2337, art. 2)
+[^F6]: Words in s. 9(4)(5) omitted (25.6.2013) by virtue of Enterprise and Regulatory Reform Act 2013 (c. 24), ss. 64(5), 103(2)
+[^F7]: S. 10(1) omitted (25.6.2013) by virtue of Enterprise and Regulatory Reform Act 2013 (c. 24), ss. 64(1)(a), 103(2)
+[^F8]: S. 10(2)(d) substituted (1.10.2010) by Equality Act 2010 (c. 15), s. 216(3), Sch. 26 para. 63 (with ss. 6(4), 205); S.I. 2010/2317, art. 2(15)(e)(iv) (as amended (1.10.2010) by S.I. 2010/2337, art. 2)
+[^F9]: S. 10(4)-(7) omitted (25.6.2013) by virtue of Enterprise and Regulatory Reform Act 2013 (c. 24), ss. 64(1)(a), 103(2)
+[^F10]: Words in s. 11(3)(b)(ii) substituted by The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388), art. 3, Sch. 1 para. 113, the amending provision coming into force immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) - see Government of Wales Act 2006, ss. 46, 161(5)
+[^F11]: S. 11(3)(c) substituted (1.10.2010) by Equality Act 2010 (c. 15), s. 216(3), Sch. 26 para. 64 (with ss. 6(4), 205); S.I. 2010/2317, art. 2(15)(e)(iv) (as amended (1.10.2010) by S.I. 2010/2337, art. 2)
+[^F12]: Words in s. 12(1)(a) substituted (25.6.2013) by Enterprise and Regulatory Reform Act 2013 (c. 24), ss. 64(6)(a), 103(2)
+[^F13]: Words in s. 12(1)(b) substituted (25.6.2013) by Enterprise and Regulatory Reform Act 2013 (c. 24), ss. 64(6)(b), 103(2)
+[^F14]: Word in s. 12(4)(b) substituted (25.6.2013) by Enterprise and Regulatory Reform Act 2013 (c. 24), ss. 64(2), 103(2)
+[^F15]: Words in s. 12(5) substituted (18.8.2010) by Transfer of Functions (Equality) Order 2010 (S.I. 2010/1839), art. 1(2), Sch. para. 7(2)(c)
+[^F16]: Words in s. 13(1) substituted (25.6.2013) by Enterprise and Regulatory Reform Act 2013 (c. 24), ss. 64(7), 103(2)
+[^F17]: S. 14(1) substituted (6.7.2010) by Equality Act 2010 (c. 15), s. 216(3), Sch. 26 para. 65(2) (with ss. 6(4), 205); S.I. 2010/1736, art. 3(1)(b) (with art. 3(2))
+[^F18]: S. 14(1)(i) and preceding word inserted (1.10.2006) by The Employment Equality (Age) Regulations 2006 (S.I. 2006/1031), reg. 49(1), Sch. 8 para. 38(3) (with regs. 44-46)
+[^F19]: Words in s. 14(2)(a) substituted (6.7.2010) by Equality Act 2010 (c. 15), s. 216(3), Sch. 26 para. 65(3) (with ss. 6(4), 205); S.I. 2010/1736, art. 3(1)(b) (with art. 3(2))
+[^F20]: Words in s. 14(3)(a) substituted (1.10.2010) by Equality Act 2010 (c. 15), s. 216(3), Sch. 26 para. 65(4)(a) (with ss. 6(4), 205); S.I. 2010/2317, art. 2(15)(e)(v) (as amended (1.10.2010) by S.I. 2010/2337, art. 2)
+[^F21]: S. 14(3)(c)(iv) substituted (1.10.2010) by Equality Act 2010 (c. 15), s. 216(3), Sch. 26 para. 65(4)(b) (with ss. 6(4), 205); S.I. 2010/2317, art. 2(15)(e)(v) (as amended (1.10.2010) by S.I. 2010/2337, art. 2)
+[^F22]: Words in s. 14(5) substituted (18.8.2010) by Transfer of Functions (Equality) Order 2010 (S.I. 2010/1839), art. 1(2), Sch. para. 7(2)(d)
+[^F23]: Words in s. 14(5)(a) substituted (6.7.2010) by Equality Act 2010 (c. 15), s. 216(3), Sch. 26 para. 65(5) (with ss. 6(4), 205); S.I. 2010/1736, art. 3(1)(b) (with art. 3(2))
+[^F24]: S. 14(5)(7)-(10): "Minister" substituted (12.10.2007) for "Secretary of State" in each place by The Transfer of Functions (Equality) Order 2007 (S.I. 2007/2914), art. 8, Sch. para. 16(d)
+[^F25]: Words in s. 14(7)-(10) substituted (18.8.2010) by Transfer of Functions (Equality) Order 2010 (S.I. 2010/1839), art. 1(2), Sch. para. 7(2)(d)
+[^F26]: Words in s. 14(9) substituted (5.4.2011) by Equality Act 2010 (c. 15), s. 216(3), Sch. 26 para. 65(6) (with ss. 6(4), 205); S.I. 2011/1066, art. 2(g)(ii)
+[^F27]: Words in s. 14(9) substituted by The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388), art. 3, Sch. 1 para. 114 the amending provision coming into force immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) - Government of Wales Act 2006 (c. 32), ss. 46, 161(5)
+[^F28]: Words in s. 15(3) substituted (18.8.2010) by Transfer of Functions (Equality) Order 2010 (S.I. 2010/1839), art. 1(2), Sch. para. 7(2)(e)
+[^F29]: Words in s. 15(6) substituted (18.8.2010) by Transfer of Functions (Equality) Order 2010 (S.I. 2010/1839), art. 1(2), Sch. para. 7(2)(e)
+[^F30]: Words in s. 16(1) substituted (25.6.2013) by Enterprise and Regulatory Reform Act 2013 (c. 24), ss. 64(8), 103(2)
+[^F31]: Words in s. 16(4) substituted (1.10.2010) by Equality Act 2010 (c. 15), s. 216(3), Sch. 26 para. 66 (with ss. 6(4), 205); S.I. 2010/2317, art. 2(15)(e)(vi) (as amended (1.10.2010) by S.I. 2010/2337, art. 2)
+[^F32]: Words in s. 17(1) substituted (25.6.2013) by Enterprise and Regulatory Reform Act 2013 (c. 24), ss. 64(9), 103(2)
+[^F33]: S. 19 omitted (25.6.2013) by virtue of Enterprise and Regulatory Reform Act 2013 (c. 24), ss. 64(1)(a), 103(2)
+[^F34]: Words in s. 21(2)(b) substituted (1.10.2010) by Equality Act 2010 (c. 15), s. 216(3), Sch. 26 para. 67 (with ss. 6(4), 205); S.I. 2010/2317, art. 2(15)(e)(vi) (as amended (1.10.2010) by S.I. 2010/2337, art. 2)
+[^F35]: Words in s. 21(7)(b) substituted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 9 para. 52; S.I. 2014/954, art. 2(c) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F36]: S. 21(8) inserted (26.10.2024) by Worker Protection (Amendment of Equality Act 2010) Act 2023 (c. 51), ss. 4(2), 5(3)
+[^F37]: Words in s. 22(6) substituted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 9 para. 52; S.I. 2014/954, art. 2(c) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F38]: Words in s. 24 substituted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 9 para. 52; S.I. 2014/954, art. 2(c) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F39]: S. 24A inserted (1.10.2010) by Equality Act 2010 (c. 15), s. 216(3), Sch. 26 para. 68 (with ss. 6(4), 205); S.I. 2010/2317, art. 2(15)(e)(vi) (as amended (1.10.2010) by S.I. 2010/2337, art. 2)
+[^F40]: S. 24A(1)(aa) inserted (26.10.2024) by Worker Protection (Amendment of Equality Act 2010) Act 2023 (c. 51), ss. 4(3), 5(3)
+[^F41]: Words in s. 24A(1)(e) inserted (1.1.2024) by The Equality Act 2010 (Amendment) Regulations 2023 (S.I. 2023/1425), regs. 1(2), 3(8)
+[^F42]: S. 25 repealed (1.10.2010) by Equality Act 2010 (c. 15), s. 216(3), Sch. 26 para. 69, Sch. 27 Pt. 1 (with ss. 6(4), 205); S.I. 2010/2317, art. 2(15)(e)(vi) (as amended (1.10.2010) by S.I. 2010/2337, art. 2)
+[^F43]: S. 26 repealed (1.10.2010) by Equality Act 2010 (c. 15), s. 216(3), Sch. 26 para. 70, Sch. 27 Pt. 1 (with ss. 6(4), 205); S.I. 2010/2317, art. 2(15)(e)(vi) (as amended (1.10.2010) by S.I. 2010/2337, art. 2)
+[^F44]: S. 27 omitted (25.6.2013) by virtue of Enterprise and Regulatory Reform Act 2013 (c. 24), ss. 64(1)(b), 103(2)
+[^F45]: Words in s. 28(1)(a) substituted (1.10.2010) by Equality Act 2010 (c. 15), s. 216(3), Sch. 26 para. 72(2)(a) (with ss. 6(4), 205); S.I. 2010/2317, art. 2(15)(e)(vi) (as amended (1.10.2010) by S.I. 2010/2337, art. 2)
+[^F46]: Words in s. 28(1)(b) substituted (1.10.2010) by Equality Act 2010 (c. 15), s. 216(3), Sch. 26 para. 72(2)(b) (with ss. 6(4), 205); S.I. 2010/2317, art. 2(15)(e)(vi) (as amended (1.10.2010) by S.I. 2010/2337, art. 2)
+[^F47]: Words in s. 28(5) substituted (1.10.2010) by Equality Act 2010 (c. 15), s. 216(3), Sch. 26 para. 72(3) (with ss. 6(4), 205); S.I. 2010/2317, art. 2(15)(e)(vi) (as amended (1.10.2010) by S.I. 2010/2337, art. 2)
+[^F48]: Words in s. 28(6) substituted (1.10.2010) by Equality Act 2010 (c. 15), s. 216(3), Sch. 26 para. 72(4)(a) (with ss. 6(4), 205); S.I. 2010/2317, art. 2(15)(e)(vi) (as amended (1.10.2010) by S.I. 2010/2337, art. 2)
+[^F49]: Words in s. 28(6) substituted (1.10.2010) by Equality Act 2010 (c. 15), s. 216(3), Sch. 26 para. 72(4)(b) (with ss. 6(4), 205); S.I. 2010/2317, art. 2(15)(e)(vi) (as amended (1.10.2010) by S.I. 2010/2337, art. 2)
+[^F50]: Words in s. 28(7)(a) substituted (1.10.2010) by Equality Act 2010 (c. 15), s. 216(3), Sch. 26 para. 72(5)(a) (with ss. 6(4), 205); S.I. 2010/2317, art. 2(15)(e)(vi) (as amended (1.10.2010) by S.I. 2010/2337, art. 2)
+[^F51]: Words in s. 28(7)(b) substituted (1.10.2010) by Equality Act 2010 (c. 15), s. 216(3), Sch. 26 para. 72(5)(b) (with ss. 6(4), 205); S.I. 2010/2317, art. 2(15)(e)(vi) (as amended (1.10.2010) by S.I. 2010/2337, art. 2)
+[^F52]: Words in s. 28(8) substituted (18.8.2010) by Transfer of Functions (Equality) Order 2010 (S.I. 2010/1839), art. 1(2), Sch. para. 7(2)(g)
+[^F53]: Words in s. 28(8) substituted (1.10.2010) by Equality Act 2010 (c. 15), s. 216(3), Sch. 26 para. 72(6) (with ss. 6(4), 205); S.I. 2010/2317, art. 2(15)(e)(vi) (as amended (1.10.2010) by S.I. 2010/2337, art. 2)
+[^F54]: Words in s. 28(9) substituted (1.10.2010) by Equality Act 2010 (c. 15), s. 216(3), Sch. 26 para. 72(7) (with ss. 6(4), 205); S.I. 2010/2317, art. 2(15)(e)(vi) (as amended (1.10.2010) by S.I. 2010/2337, art. 2)
+[^F55]: Words in s. 28(11) substituted (29.7.2013) by Enterprise and Regulatory Reform Act 2013 (c. 24), ss. 23(4), 103(3); S.I. 2013/1648, art. 2(c)
+[^F56]: Words in s. 28(12) substituted (1.10.2010) by Equality Act 2010 (c. 15), s. 216(3), Sch. 26 para. 72(8)(a) (with ss. 6(4), 205); S.I. 2010/2317, art. 2(15)(e)(vi) (as amended (1.10.2010) by S.I. 2010/2337, art. 2)
+[^F57]: Words in s. 28(12) substituted (31.12.2020) by The Equality (Amendment and Revocation) (EU Exit) Regulations 2019 (S.I. 2019/305), regs. 1, 4(2)(a)(i); 2020 c. 1, Sch. 5 para. 1(1)
+[^F58]: Word in s. 28(12) substituted (1.1.2024) by The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424), reg. 1(2), Sch. para. 59
+[^F59]: Words in s. 28(12) added (1.10.2010) by Equality Act 2010 (c. 15), s. 216(3), Sch. 26 para. 72(8)(b) (with ss. 6(4), 205); S.I. 2010/2317, art. 2(15)(e)(vi) (as amended (1.10.2010) by S.I. 2010/2337, art. 2)
+[^F60]: Words in s. 28(12) inserted (31.12.2020) by The Equality (Amendment and Revocation) (EU Exit) Regulations 2019 (S.I. 2019/305), regs. 1, 4(2)(a)(ii); 2020 c. 1, Sch. 5 para. 1(1)
+[^F61]: Words in s. 28(13)(a) substituted (31.12.2020) by The Equality (Amendment and Revocation) (EU Exit) Regulations 2019 (S.I. 2019/305), regs. 1, 4(2)(b)(i); 2020 c. 1, Sch. 5 para. 1(1)
+[^F62]: Word in s. 28(13) substituted (1.1.2024) by The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424), reg. 1(2), Sch. para. 59
+[^F63]: Words in Act substituted (22.4.2011) by The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043), arts. 2, 3, 6 (with arts. 3(2)(3), 4(2), 6(4)(5))
+[^F64]: Words in s. 28(13)(b) inserted (31.12.2020) by The Equality (Amendment and Revocation) (EU Exit) Regulations 2019 (S.I. 2019/305), regs. 1, 4(2)(b)(ii); 2020 c. 1, Sch. 5 para. 1(1)
+[^F65]: Words in s. 29(3) substituted (1.4.2013) by Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10), s. 151(1), Sch. 5 para. 67; S.I. 2013/453, art. 3(h) (with savings and transitional provisions in S.I. 2013/534, art. 6)
+[^F66]: Words in s. 29(5) substituted (18.8.2010) by Transfer of Functions (Equality) Order 2010 (S.I. 2010/1839), art. 1(2), Sch. para. 7(2)(h)
+[^F67]: S. 31(1) substituted (5.4.2011) by Equality Act 2010 (c. 15), s. 216(3), Sch. 26 para. 73 (with ss. 6(4), 205); S.I. 2011/1066, art. 2(g)(iii)
+[^F68]: S. 32(1) substituted (5.4.2011) by Equality Act 2010 (c. 15), s. 216(3), Sch. 26 para. 74(2) (with ss. 6(4), 205); S.I. 2011/1066, art. 2(g)(iii)
+[^F69]: Words in s. 32(4) substituted (5.4.2011) by Equality Act 2010 (c. 15), s. 216(3), Sch. 26 para. 74(3) (with ss. 6(4), 205); S.I. 2011/1066, art. 2(g)(iii)
+[^F70]: Words in s. 32(9)(a) substituted (5.4.2011) by Equality Act 2010 (c. 15), s. 216(3), Sch. 26 para. 74(4) (with ss. 6(4), 205); S.I. 2011/1066, art. 2(g)(iii)
+[^F71]: Words in s. 32(9)(b) substituted (5.4.2011) by Equality Act 2010 (c. 15), s. 216(3), Sch. 26 para. 74(5) (with ss. 6(4), 205); S.I. 2011/1066, art. 2(g)(iii)
+[^F72]: Words in s. 32(9)(b) substituted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 9 para. 52; S.I. 2014/954, art. 2(c) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F73]: Words in s. 32(11) substituted (5.4.2011) by Equality Act 2010 (c. 15), s. 216(3), Sch. 26 para. 74(6) (with ss. 6(4), 205); S.I. 2011/1066, art. 2(g)(iii)
+[^F74]: S. 33 repealed (1.10.2010) by Equality Act 2010 (c. 15), s. 216(3), Sch. 26 para. 75, Sch. 27 Pt. 1 (with ss. 6(4), 205); S.I. 2010/2317, art. 2(15)(e)(vii) (as amended (1.10.2010) by S.I. 2010/2337, art. 2)
+[^F75]: Words in s. 34(1) substituted (1.10.2010) by Equality Act 2010 (c. 15), s. 216(3), Sch. 26 para. 76(2) (with ss. 6(4), 205); S.I. 2010/2317, art. 2(15)(e)(viii) (as amended (1.10.2010) by S.I. 2010/2337, art. 2)
+[^F76]: Words in s. 34(2) inserted (1.10.2010) by Equality Act 2010 (c. 15), s. 216(3), Sch. 26 para. 76(3)(a) (with ss. 6(4), 205); S.I. 2010/2317, art. 2(15)(e)(viii) (as amended (1.10.2010) by S.I. 2010/2337, art. 2)
+[^F77]: S. 34(2)(a)-(d) substituted for (1.10.2010 except in relation to s. 34(2)(a)(b), 5.4.2011 in so far as it relates to s. 34(2)(b), 20.11.2021 for W.S. in so far as not already in force, otherwise prosp.) by Equality Act 2010 (c. 15), s. 216(3), Sch. 26 para. 76(3)(b) (with ss. 6(4), 205); S.I. 2010/2317, art. 2(15)(e)(viii) (with arts. 4-25, Schs. 1-8) (as amended (1.10.2010) by S.I. 2010/2337, art. 2); S.I. 2011/1066, art. 2(g)(iv); S.I. 2021/1322, arts. 3, 4
+[^F78]: Words in s. 35 omitted (18.8.2010) by virtue of Transfer of Functions (Equality) Order 2010 (S.I. 2010/1839), art. 1(2), Sch. para. 7(3)
+[^F79]: Words in s. 35 substituted (1.10.2010) by Equality Act 2010 (c. 15), s. 216(3), Sch. 26 para. 77(2) (with ss. 6(4), 205); S.I. 2010/2317, art. 2(15)(e)(ix) (as amended (1.10.2010) by S.I. 2010/2337, art. 2)
+[^F80]: Words in s. 35 substituted (1.10.2010) by Equality Act 2010 (c. 15), s. 216(3), Sch. 26 para. 77(3) (with ss. 6(4), 205); S.I. 2010/2317, art. 2(15)(e)(ix) (as amended (1.10.2010) by S.I. 2010/2337, art. 2)
+[^F81]: Words in s. 38(5) substituted (6.4.2006) by virtue of The Transfer of Undertakings (Protection of Employment) Regulations 2006 (S.I. 2006/246), reg. 20, Sch. 2 para. 1(l) (with application according to reg. 21(1))
+[^F82]: Words in s. 39(4) substituted (25.6.2013) by Enterprise and Regulatory Reform Act 2013 (c. 24), ss. 64(10), 103(2)
+[^F83]: S. 43 repealed (1.10.2010) by Equality Act 2010 (c. 15), s. 216(3), Sch. 26 para. 79, Sch. 27 Pt. 1 (with ss. 6(4), 205); S.I. 2010/2317, art. 2(15)(e)(ix) (as amended (1.10.2010) by S.I. 2010/2337, art. 2)
+[^F84]: Pt. 2 repealed (1.10.2010) by Equality Act 2010 (c. 15), s. 216(3), Sch. 26 para. 82, Sch. 27 Pt. 1 (with ss. 6(4), 205); S.I. 2010/2317, art. 2(15)(e)(ix) (as amended (1.10.2010) by S.I. 2010/2337, art. 2)
+[^F85]: S. 81 repealed (1.10.2010) by Equality Act 2010 (c. 15), s. 216(3), Sch. 26 para. 81, Sch. 27 Pt. 1 (with ss. 6(4), 205); S.I. 2010/2317, art. 2(15)(e)(ix) (as amended (1.10.2010) by S.I. 2010/2337, art. 2)
+[^F86]: Pt. 4 repealed (1.10.2010 for specified purposes, 5.4.2011 in so far as not already in force) by Equality Act 2010 (c. 15), s. 216(3), Sch. 26 para. 82, Sch. 27 Pt. 1 (with ss. 6(4), 205); S.I. 2010/2317, art. 2(15)(e)(x)(f)(vi) (as amended (1.10.2010) by S.I. 2010/2337, art. 2); S.I. 2011/1066, art. 2(g)(v)
+[^F87]: S. 92(c)(a) inserted by The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388), art. 3, Sch. 1 para. 119, the amending provision coming into force immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) - see Government of Wales Act 2006, ss. 46, 161(5)
+[^F88]: Words in s. 94(3) repealed (1.10.2010) by Equality Act 2010 (c. 15), s. 216(3), Sch. 26 para. 83(a), Sch. 27 Pt. 1 (with ss. 6(4), 205); S.I. 2010/2317, art. 2(15)(e)(xi) (as amended (1.10.2010) by S.I. 2010/2337, art. 2)
+[^F89]: Words in s. 94(3) repealed (1.10.2010) by Equality Act 2010 (c. 15), s. 216(3), Sch. 26 para. 83(b), Sch. 27 Pt. 1 (with ss. 6(4), 205); S.I. 2010/2317, art. 2(15)(e)(xi) (as amended (1.10.2010) by S.I. 2010/2337, art. 2)
+[^F90]: Words in Sch. 1 substituted (18.8.2010) by Transfer of Functions (Equality) Order 2010 (S.I. 2010/1839), art. 1(2), Sch. para. 7(2)(o)
+[^F91]: Words in Sch. 1 para. 2(3)(c) substituted by The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388), art. 3, Sch. 1 para. 120, the amending provision coming into force immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) - see Government of Wales Act 2006, ss. 46, 161(5)
+[^F92]: Sch. 1 para. 21(2) omitted (31.3.2017) by virtue of The Equality Act 2006 (Dissolution of the Disability Committee) Order 2014 (S.I. 2014/406), art. 3(1)(2)
+[^F93]: Sch. 1 para. 22(3) omitted (31.3.2017) by virtue of The Equality Act 2006 (Dissolution of the Disability Committee) Order 2014 (S.I. 2014/406), art. 3(1)(2)
+[^F94]: Sch. 1 para. 29(2) omitted (31.3.2017) by virtue of The Equality Act 2006 (Dissolution of the Disability Committee) Order 2014 (S.I. 2014/406), art. 3(1)(2)
+[^F95]: Sch. 1 para. 30(3) omitted (31.3.2017) by virtue of The Equality Act 2006 (Dissolution of the Disability Committee) Order 2014 (S.I. 2014/406), art. 3(1)(2)
+[^F96]: Words in Sch. 1 para. 39 omitted (25.6.2013) by virtue of Enterprise and Regulatory Reform Act 2013 (c. 24), ss. 64(11)(a), 103(2)
+[^F97]: Sch. 1 Pt. 5 repealed (31.3.2017) by The Equality Act 2006 (Dissolution of the Disability Committee) Order 2014 (S.I. 2014/406), art. 3(1)(1)
+[^F98]: Words in Sch. 2 para. 8(2)(b) substituted (1.1.2010) by Legal Services Act 2007 (c. 29), ss. 208, 211, Sch. 21 para. 152(a) (with ss. 29, 192, 193); S.I. 2009/3250, art. 2 (with art. 9)
+[^F99]: Sch. 2 para. 8(2A) inserted (1.1.2010) by Legal Services Act 2007 (c. 29), ss. 208, 211, Sch. 21 para. 152(b) (with ss. 29, 192, 193); S.I. 2009/3250, art. 2 (with art. 9)
+[^F100]: Words in Sch. 2 para. 11 substituted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 9 para. 52; S.I. 2014/954, art. 2(c) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F101]: Words in Sch. 2 para. 12(2) substituted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 9 para. 52; S.I. 2014/954, art. 2(c) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F102]: Words in Sch. 2 para. 14(1)(a) substituted (25.6.2013) by Justice and Security Act 2013 (c. 18), s. 20(1), Sch. 2 para. 6(a); S.I. 2013/1482, art. 2 (with arts. 3, 4)
+[^F103]: Words in Sch. 2 para. 14(1)(a) inserted (25.6.2013) by Justice and Security Act 2013 (c. 18), s. 20(1), Sch. 2 para. 6(b); S.I. 2013/1482, art. 2 (with arts. 3, 4)
+[^F104]: Sch. 3 paras. 6-35 repealed (1.10.2010) by Equality Act 2010 (c. 15), s. 216(3), Sch. 26 para. 85, Sch. 27 Pt. 1 (with ss. 6(4), 205); S.I. 2010/2317, art. 2(15)(e)(xi) (as amended (1.10.2010) by S.I. 2010/2337, art. 2)
+[^F105]: Sch. 3 paras. 41-56 repealed (1.10.2010) by Equality Act 2010 (c. 15), s. 216(3), Sch. 26 para. 85, Sch. 27 Pt. 1 (with ss. 6(4), 205); S.I. 2010/2317, art. 2(15)(e)(xi) (as amended (1.10.2010) by S.I. 2010/2337, art. 2)

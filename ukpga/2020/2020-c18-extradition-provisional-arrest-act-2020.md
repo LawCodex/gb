@@ -1,0 +1,450 @@
+---
+title: "Extradition (Provisional Arrest) Act 2020"
+identifier: "ukpga/2020/18"
+citation: "2020 c. 18"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S+N.I."
+date: 2020-10-22
+last_amended: 2021-12-31
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/2020/18"
+source_modified: 2023-04-04
+retrieved: 2026-10-11
+---
+
+# Extradition (Provisional Arrest) Act 2020
+
+**2020 c. 18**
+
+An Act to create a power of arrest, without warrant, for the purpose of extraditing people for serious offences.
+
+[22nd October 2020]
+
+Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## 1 Power of arrest for extradition purposes
+
+The Schedule—
+
+(a) creates a power of arrest, without warrant, for the purpose of extraditing people for serious offences, and
+
+(b) contains consequential amendments and a power to make further amendments.
+
+## 2 Extent, commencement and short title
+
+(1) Any amendment or repeal made by this Act has the same extent within the United Kingdom as the provision amended or repealed.
+
+(2) The powers under sections 177 and 222 of the Extradition Act 2003 (extension to British overseas territories, the Channel Islands or the Isle of Man) may be exercised in relation to any amendment or repeal made by this Act of any part of that Act.
+
+(3) This section comes into force on the day on which this Act is passed.
+
+(4) The other provisions of this Act come into force on such day as the Secretary of State may by regulations appoint, but paragraph 4 of the Schedule may not be commenced so as to come into force in relation to a territory before that territory is a category 2 territory for the purposes of the Extradition Act 2003.
+
+(5) Different days may be appointed for different purposes.
+
+(6) The Secretary of State may by regulations make transitional or saving provision in connection with the coming into force of any provision of this Act.
+
+(7) Regulations under this section are to be made by statutory instrument.
+
+(8) This Act may be cited as the Extradition (Provisional Arrest) Act 2020.
+
+## SCHEDULE — Power of arrest for extradition purposes
+
+*Section 1*
+
+### PART 1 — Main amendments to the Extradition Act 2003
+
+**1** Part 2 of the Extradition Act 2003 (extradition to category 2 territories) is amended as follows.
+
+**2** After section 74 insert—
+
+> **Provisional arrest without warrant**
+>
+> **Provisional arrest where certificate issued under section 74B**
+>
+> **74A** (1) A constable, a customs officer or a service policeman may arrest a person without a warrant if a certificate has been issued under section 74B in respect of the person.
+>
+> (2) A copy of the certificate must be given to the person as soon as practicable after the arrest.
+>
+> (3) The person must be brought as soon as practicable before the appropriate judge (see further, section 74D).
+>
+> (4) A constable or a customs officer may arrest a person under subsection (1) in any part of the United Kingdom.
+>
+> (5) A service policeman may arrest a person under subsection (1) only if the person is subject to service law or is a civilian subject to service discipline.
+>
+> (6) A service policeman who has power to arrest a person under subsection (1) may exercise the power anywhere.
+>
+> (7) A person arrested under subsection (1) may not be arrested again in reliance on the same certificate.
+>
+> **Certificates enabling provisional arrest under section 74A**
+>
+> **74B** (1) The designated authority may issue a certificate under this section in respect of a person if—
+>
+> (a) it receives a valid request, made by an authority of a specified category 2 territory, for the person's arrest (for more about requests, see section 74C),
+>
+> (b) it is satisfied that the request is made under arrangements which allow such a request to be made only if—
+>
+> (i) a warrant for the person's arrest has been issued in the category 2 territory in respect of an offence, or
+>
+> (ii) the person is alleged to be unlawfully at large after conviction of an offence by a court in the category 2 territory,
+>
+> (c) it has reasonable grounds for believing that the offence specified in the request is a serious extradition offence, and
+>
+> (d) it is satisfied that the seriousness of the conduct constituting the offence makes it appropriate to issue the certificate.
+>
+> (2) A certificate issued by the designated authority under this section must—
+>
+> (a) state the category 2 territory in respect of which the request is made, the form of the request and the date on which the request was made,
+>
+> (b) certify that the category 2 territory is a specified category 2 territory,
+>
+> (c) certify that the request is a valid request,
+>
+> (d) certify the matters in subsection (1)(c) and (d), and
+>
+> (e) set out the statement and information mentioned in section 74C(1)(a) or (b) (as the case may be).
+>
+> (3) A certificate (or purported certificate) may be withdrawn and a new one issued on the basis of the same request at any time before the person has been arrested in reliance on it.
+>
+> (4) The “designated authority” is the National Crime Agency.
+>
+> (5) The Secretary of State may by regulations amend this section so as to change the meaning of “designated authority”.
+>
+> (6) Regulations made under subsection (5) may—
+>
+> (a) designate more than one authority;
+>
+> (b) designate different authorities for different parts of the United Kingdom.
+>
+> (7) A “specified category 2 territory” is a category 2 territory that is specified in Schedule A1.
+>
+> (8) The Secretary of State may by regulations—
+>
+> (a) amend Schedule A1 so as to add, vary or remove a reference to a territory, and
+>
+> (b) in consequence, amend section 74C so as to change what it means to make a request in the approved way for the purposes of that section.
+>
+> (9) The reference in subsection (1)(b) to a warrant for a person's arrest includes a reference to a judicial document authorising the person's arrest.
+>
+> (10) For the purposes of determining whether an offence is a “serious extradition offence”, sections 137 and 138 apply as if—
+>
+> (a) a reference to an “extradition offence” were to a “serious extradition offence”,
+>
+> (b) a reference to the relevant part of the United Kingdom were to any part of the United Kingdom (and, accordingly, each of sections 137 and 138 have effect as if subsection (8) were omitted),
+>
+> (c) a reference to the request for the person's extradition were a reference to the request for the person's arrest,
+>
+> (d) the references in sections 137(3)(b) and (4)(b) and 138(3)(b) to “12 months” were to “3 years”, and
+>
+> (e) the references in section 137(3)(c) and (4)(c) to conduct that is “so punishable” were to conduct that is punishable with imprisonment or another form of detention for a term of 12 months or a greater punishment.
+>
+> **Section 74B supplementary: valid requests for arrest**
+>
+> **74C** (1) For the purposes of section 74B a request for a person's arrest is valid if it is made in the approved way and it contains—
+>
+> (a) the statement referred to in subsection (2) and the information referred to in subsection (3), or
+>
+> (b) the statement referred to in subsection (4) and the information referred to in subsection (5).
+>
+> (2) The statement is one that—
+>
+> (a) the person is accused in the category 2 territory of the commission of an offence specified in the request, and
+>
+> (b) the request is made with a view to the arrest and extradition of the person to the category 2 territory for the purpose of being prosecuted for the offence.
+>
+> (3) The information is—
+>
+> (a) particulars of the person's identity;
+>
+> (b) particulars of the circumstances in which the person is alleged to have committed the offence, including the conduct alleged to constitute the offence, the time and place at which the person is alleged to have committed the offence and any provision of the law of the category 2 territory under which the conduct is alleged to constitute an offence;
+>
+> (c) particulars of the sentence which may be imposed under the law of the category 2 territory in respect of the offence if the person is convicted of it.
+>
+> (4) The statement is one that—
+>
+> (a) the person has been convicted of an offence specified in the request by a court in the category 2 territory, and
+>
+> (b) the request is made with a view to the arrest and extradition of the person to the category 2 territory for the purpose of being sentenced for the offence or of serving a sentence of imprisonment or another form of detention imposed in respect of the offence.
+>
+> (5) The information is—
+>
+> (a) particulars of the person's identity;
+>
+> (b) particulars of the conviction;
+>
+> (c) particulars of the sentence which may be imposed under the law of the category 2 territory in respect of the offence, if the person has not been sentenced for the offence;
+>
+> (d) particulars of the sentence which has been imposed under the law of the category 2 territory in respect of the offence, if the person has been sentenced for the offence.
+>
+> (6) A request is made in the approved way for the purposes of this section if it is made by an authority of the category 2 territory which the designated authority believes has the function of making such requests in that territory.
+>
+> **Person provisionally arrested under section 74A**
+>
+> **74D** (1) The judge before whom a person is brought following arrest under section 74A must decide, on the basis of any evidence or information produced to the judge, whether a warrant would be issued under section 73 if the person were not already under arrest.
+>
+> (2) If the judge decides the question in subsection (1) in the negative, the judge must order the person's discharge.
+>
+> (3) If the judge decides that question in the affirmative, the judge must proceed under section 74E.
+>
+> (4) The judge may adjourn the proceedings to allow more evidence or information to be produced if—
+>
+> (a) an application for the adjournment is made in accordance with rules of court, and
+>
+> (b) the judge is satisfied, on the balance of probabilities, that evidence or information could not reasonably have been produced in time to avoid the need for the adjournment.
+>
+> (5) If the judge grants an adjournment under subsection (4), the judge must remand the person in custody or on bail.
+>
+> (6) If the person is remanded in custody, the judge may later grant bail.
+>
+> (7) More than one adjournment may be granted under subsection (4) but the total period of any adjournments must not exceed 72 hours.
+>
+> (8) In calculating that 72-hour period, no account is to be taken of any day falling within section 6(8A)(a) to (d) (weekends, bank holidays etc).
+>
+> (9) If the judge has granted an adjournment or further adjournment, the question in subsection (1) must be decided by the appropriate judge on the next occasion when the person is brought or appears before the appropriate judge (unless a further adjournment is granted on that occasion).
+>
+> (10) If the person applies to the judge to be discharged—
+>
+> (a) the judge may order the person's discharge if—
+>
+> (i) section 74A(2) (copy of certificate to be given to arrested person) was not complied with, or
+>
+> (ii) the certificate did not comply with section 74B(2);
+>
+> (b) the judge must order the person's discharge if—
+>
+> (i) the judge is satisfied that there were no reasonable grounds on which the designated authority could have issued the certificate under section 74B(1), or
+>
+> (ii) section 74A(3) (person to be brought before judge as soon as practicable after arrest) was not complied with.
+>
+> **Person provisionally arrested under section 74A: next steps**
+>
+> **74E** (1) If the appropriate judge is required by section 74D(3) to proceed under this section, the judge must—
+>
+> (a) inform the person that they are accused of the commission of an offence in a category 2 territory or are alleged to be unlawfully at large after conviction of an offence by a court in a category 2 territory,
+>
+> (b) give the person the required information about consent, and
+>
+> (c) remand the person in custody or on bail.
+>
+> (2) The required information about consent is—
+>
+> (a) that the person may consent to extradition to the category 2 territory in which the person is accused of the commission of an offence or is alleged to have been convicted of an offence;
+>
+> (b) an explanation of the effect of consent and the procedure that will apply if the person gives consent;
+>
+> (c) that consent must be given in writing and is irrevocable.
+>
+> (3) If the person is remanded in custody, the appropriate judge may later grant bail.
+>
+> (4) The judge must order the person's discharge if the documents referred to in section 70(9) are not received by the judge within the required period as defined by section 74(11).
+
+**3** Before Schedule 1 insert—
+
+> **SCHEDULE A1 — Specified category 2 territories**
+>
+> - Australia
+> - Canada
+> - Liechtenstein
+> - New Zealand
+> - Switzerland
+> - The United States of America.
+
+**4** In Schedule A1 (as inserted by paragraph 3), at the appropriate places, insert— [^F1]... “ Iceland ”; [^F1]...“ Norway ” [^F1]... .
+
+**5** Paragraph 4 is repealed at the end of 2021 if, or to the extent that, it has not been brought into force before the end of that year.
+
+**6** A reference in section 74B of the Extradition Act 2003 (inserted by paragraph 2 of this Schedule) to a request includes a request made before this Act is passed.
+
+### PART 2 — Consequential amendments
+
+#### Police and Criminal Evidence Act 1984
+
+**7** In section 65 of the Police and Criminal Evidence Act 1984 (questioning and treatment of persons by police: supplementary), in the definition of “extradition arrest power”, at the end insert—
+
+> (e) section 74A of that Act;
+
+.
+
+#### Police and Criminal Evidence (Northern Ireland) Order 1989 (S.I. 1989/1341 (N.I. 12))
+
+**8** In Article 53(1) of the Police and Criminal Evidence (Northern Ireland) Order 1989 (questioning and treatment of persons by police: interpretation), in the definition of “extradition arrest power”, at the end insert—
+
+> (e) section 74A of that Act.
+
+#### Nationality, Immigration and Asylum Act 2002
+
+**9** In section 94 of the Nationality, Immigration and Asylum Act 2002 (appeal from within United Kingdom: unfounded human rights or protection claim), in subsection (6A), after paragraph (c) insert—
+
+> (ca) is the subject of a certificate under section 74B of that Act,
+
+.
+
+#### Extradition Act 2003
+
+**10** The Extradition Act 2003 is amended as follows.
+
+**11** (1) Section 76 (date of extradition hearing: arrest under provisional warrant) is amended as follows.
+
+(2) In the heading, after “provisional warrant” insert “ or under section 74A ”.
+
+(3) In subsection (1)—
+
+(a) in paragraph (a), after “provisional warrant” insert “ or under section 74A ”;
+
+(b) in paragraph (b), after “section 74(10)” insert “ or 74E(4) ”.
+
+**12** In section 76A (person charged with offence in United Kingdom before extradition hearing), in subsection (1)(a), for “or 74(3)” substitute “ , 74(3) or 74A(3) ”.
+
+**13** In section 76B (person serving sentence in United Kingdom before extradition hearing), in subsection (1)(a), for “or 74(3)” substitute “ , 74(3) or 74A(3) ”.
+
+**14** In section 127 (consent to extradition: general), in subsection (2), after “provisional warrant” insert “ or under section 74A ”.
+
+**15** (1) Section 136 (persons serving sentences outside territory where convicted) is amended as follows.
+
+(2) In subsection (1)—
+
+(a) in paragraph (a) omit “or” at the end;
+
+(b) in paragraph (b), at the end insert
+
+> , or
+>
+> (c) a request for the person's arrest is made by an authority of a specified category 2 territory (within the meaning of section 74B(7)) and the request contains the statement referred to in subsection (2).
+
+(3) In subsection (3)—
+
+(a) in paragraph (b), after “subsection (1)(b)” insert “ or (c) (as the case may be) ”;
+
+(b) after paragraph (b) insert—
+
+> (c) section 74C(1)(b) has effect as if the reference to the statement referred to in subsection (4) of that section were a reference to the statement in subsection (2) of this section;
+>
+> (d) section 74C(5) has effect as if paragraph (c) were omitted and as if in paragraph (d)—
+>
+> (i) “the category 2 territory” read “the convicting territory”;
+>
+> (ii) “if the person has been sentenced for the offence” were omitted.
+
+(4) In subsection (4)—
+
+(a) after paragraph (a) insert—
+
+> (aa) section 74(7)(a) has effect as if “accused of the commission of an offence in a category 2 territory or that he is alleged to be unlawfully at large after conviction of an offence by a court in a category 2 territory” read “alleged to be unlawfully at large from a prison in the imprisoning territory after conviction of an offence in the convicting territory”;
+
+;
+
+(b) after paragraph (c) insert—
+
+> (ca) section 74B(1)(b) has effect as if sub-paragraph (i) were omitted and as if for sub-paragraph (ii) there were substituted—
+>
+> > (ii) the person is alleged to be unlawfully at large from a prison in the imprisoning territory after conviction of an offence in the convicting territory;
+>
+> ;
+>
+> (cb) section 74B(1)(c) has effect as if “a serious extradition offence” read “a serious extradition offence in relation to the convicting territory”;
+>
+> (cc) section 74E(1)(a) has effect as if “accused of the commission of an offence in a category 2 territory or are alleged to be unlawfully at large after conviction of an offence by a court in a category 2 territory” read “alleged to be unlawfully at large from a prison in the imprisoning territory after conviction of an offence in the convicting territory”;
+>
+> (cd) section 74E(2)(a) has effect as if “the category 2 territory in which the person is accused of the commission of an offence or is alleged to have been convicted of an offence” read “the imprisoning territory”;
+
+.
+
+**16** In section 162 (entry and search of premises on arrest), in subsection (3)(d), after “provisional warrant” insert “ or under section 74A ”.
+
+**17** In section 164 (entry and search of premises after arrest), in subsection (3)(d), after “provisional warrant” insert “ or under section 74A ”.
+
+**18** In section 172 (delivery of seized property), in subsection (4)(d), after “provisional warrant” insert “ or section 74A. ”
+
+**19** In section 174 (interpretation), in subsection (2), after paragraph (d) insert—
+
+> (e) section 74A.
+
+**20** In section 193 (parties to international conventions), in subsection (4)(a), after “74(11)(b)” insert “ , 74A to 74E ”.
+
+**21** In section 194 (special extradition arrangements), in subsection (4)(a), after “74(11)(b)” insert “ , 74A to 74E ”.
+
+**22** (1) Section 206B (live links: supplementary) is amended as follows.
+
+(2) In subsection (6)(b), for “or 74(3)” substitute “ , 74(3) or 74A(3) ”.
+
+(3) In subsection (7), for “or 74(3)” substitute “ , 74(3) or 74A(3) ”.
+
+**23** (1) In section 206C (live links: interpretation), subsection (4) is amended as follows.
+
+(2) In paragraph (c) omit “or” at the end.
+
+(3) In paragraph (d), at the end insert
+
+> ; or
+>
+> (e) a certificate is issued under section 74B in respect of the person.
+
+**24** (1) In section 208 (national security), subsection (9) is amended as follows.
+
+(2) In paragraph (b), for “or under a provisional warrant” substitute “ , under a provisional warrant or under section 74A ”.
+
+(3) In paragraph (c), after “74” insert “ , 74D, 74E ”.
+
+**25** (1) Section 216 (other interpretive provisions) is amended as follows.
+
+(2) After subsection (2) insert—
+
+> (2A) References in sections 74B and 74C to the designated authority must be read in accordance with section 74B(4).
+
+(3) In subsection (3), at the start insert “ Other ”.
+
+**26** In section 223 (orders and regulations), after subsection (6) insert—
+
+> (6A) No regulations under section 74B(8) may be made unless a draft of the regulations has been laid before Parliament and approved by a resolution of each House.
+
+#### UK Borders Act 2007
+
+**27** The UK Borders Act 2007 is amended as follows.
+
+**28** In section 2 (detention), in subsections (1) and (1A), at the end of paragraph (a) (but before “or”) insert—
+
+> (aa) is the subject of a certificate under section 74B of the Extradition Act 2003,
+
+.
+
+**29** In section 33 (exceptions to automatic deportation), in subsection (5), after paragraph (c) insert—
+
+> (ca) is the subject of a certificate under section 74B of that Act,
+
+.
+
+#### Criminal Justice (Scotland) Act 2016 (asp 1)
+
+**30** In section 57A of the Criminal Justice (Scotland) Act 2016 (arrest without warrant otherwise than in respect of an offence), in subsection (3)(e), for “section 5” substitute “ sections 5 and 74A ”.
+
+#### Further consequential provision
+
+**31** (1) The Secretary of State may by regulations make further provision that is consequential on the amendments made by this Schedule.
+
+(2) Regulations under this paragraph may amend, repeal or revoke any provision made by primary legislation.
+
+(3) Regulations under this paragraph may make transitional, saving or incidental provision.
+
+(4) Regulations under this paragraph are to be made by statutory instrument.
+
+(5) A statutory instrument containing regulations under this paragraph that amend, repeal or revoke a provision of primary legislation may not be made unless a draft of the instrument has been laid before and approved by a resolution of each House of Parliament.
+
+(6) Any other statutory instrument containing regulations under this paragraph is subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(7) In this paragraph, “primary legislation” means—
+
+(a) an Act of Parliament,
+
+(b) an Act of the Scottish Parliament,
+
+(c) an Act or Measure of Senedd Cymru, or
+
+(d) Northern Ireland legislation.
+
+---
+
+[^F1]: Words in Sch. para. 4 repealed (31.12.2021) by Extradition (Provisional Arrest) Act 2020 (c. 18), Sch. para. 5

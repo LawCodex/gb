@@ -1,0 +1,1570 @@
+---
+title: "Electoral Registration and Administration Act 2013"
+identifier: "ukpga/2013/6"
+citation: "2013 c. 6"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S+N.I."
+date: 2013-01-31
+last_amended: 2024-09-10
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/2013/6"
+source_modified: 2024-10-09
+retrieved: 2026-10-11
+---
+
+# Electoral Registration and Administration Act 2013
+
+**2013 c. 6**
+
+An Act to make provision about the registration of electors and the administration and conduct of elections; and to amend section 3(2)(a) of the Parliamentary Constituencies Act 1986.
+
+[31st January 2013]
+
+Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## PART 1 — Individual electoral registration in Great Britain
+
+### 1 Individual registration
+
+(1) After section 10ZB of the Representation of the People Act 1983 insert—
+
+> **10ZC Registration of electors in Great Britain**
+>
+> (1) A registration officer in Great Britain must enter a person (“P”) in a register maintained by the officer if—
+>
+> (a) an application for registration is made by someone who appears to the officer to be P,
+>
+> (b) any requirements imposed by or under this Act in relation to the application are met, and
+>
+> (c) P appears to the officer to be entitled to be registered in the register.
+>
+> (2) In determining an application under this section, the officer must consider any objection made in accordance with the prescribed requirements by another person whose name appears in the register.
+>
+> (3) Regulations may make provision about the procedure for determining applications under this section.
+
+(2) Schedule 1 contains amendments about the alteration of registers and removal from a register.
+
+(3) [^F1]Registration officers in Great Britain must have regard to any guidance given by the Minister about the determination of applications under section 10ZC of the 1983 Act.
+
+[^F1]4 [^F1]The guidance that may be given includes guidance about the process for determining whether the conditions in subsection (1) of that section are met and the relative weight to be given to different kinds of evidence.
+
+(5) Subsections (3) and (4) cease to have effect at the end of the period of 5 years beginning with the day on which they come fully into force.
+
+### 2 Applications for registration and verification of entitlement etc
+
+(1) Schedule 2 to the Representation of the People Act 1983 (provisions which may be contained in regulations as to registration etc) is amended as follows.
+
+(2) In paragraph 1, after sub-paragraph (2) insert—
+
+> (2A) Provision made under sub-paragraph (2) authorising or requiring a registration officer in Great Britain to—
+>
+> (a) require a person who has made an application under section 10ZC or 10ZD to provide evidence that he or she is the person named in the application, or
+>
+> (b) require a person who has made an application under section 10ZC or 10ZD, or any person who has an entry in a register, to provide evidence for the purpose of enabling the officer to determine whether a person is entitled to be registered in a register maintained by the officer,
+>
+> must specify the kind of evidence that a person may be required to provide (for examples, see paragraph 3ZA(5)).
+>
+> (2B) Provision of the kind mentioned in sub-paragraph (2A) may authorise or require the registration officer to require a person to provide the evidence to a registration officer or to some other prescribed person (or person of a prescribed description).
+
+(3) After paragraph 3 insert—
+
+> **3ZA**
+>
+> (1) Provision about applications under section 10ZC or 10ZD, including in particular provision about—
+>
+> (a) the form and contents of applications and of any declarations to be made in connection with them;
+>
+> (b) the manner in which applications are to be made.
+>
+> (2) Provision made under sub-paragraph (1) may include provision—
+>
+> (a) conferring functions on registration officers, or local or public authorities, to enable applications to be made in a particular manner;
+>
+> (b) conferring other functions on registration officers;
+>
+> (c) conferring functions on the Electoral Commission.
+>
+> (3) Provision requiring a person making an application under section 10ZC or 10ZD—
+>
+> (a) to provide evidence that he or she is the person named in the application;
+>
+> (b) to provide evidence of entitlement to be registered.
+>
+> (4) Provision made under sub-paragraph (3) must specify the kind of evidence that a person is required to provide.
+>
+> (5) Examples of the evidence that may be specified include a person's date of birth or national insurance number.
+>
+> (6) Provision made under sub-paragraph (3) may require a person to provide the evidence to a registration officer or to some other prescribed person (or person of a prescribed description).
+
+(4) After paragraph 8A insert—
+
+> **8B**
+>
+> (1) Provision authorising or requiring a registration officer in determining an application under section 10ZC or 10ZD, in prescribed cases, to treat a prescribed person's statement of a fact as sufficient evidence of that fact.
+>
+> (2) In sub-paragraph (1) “prescribed” includes of a prescribed description.
+
+(5) In section 201 of the Representation of the People Act 1983 (regulations), before subsection (3) insert—
+
+> (2C) Regulations made for the purposes only of omitting a particular kind of evidence from the kinds of evidence that a person is or may be required to provide by virtue of regulations under paragraph 1(2A) or 3ZA(3) of Schedule 2 shall be subject to annulment in pursuance of a resolution of either House of Parliament (and subsection (2) does not apply to regulations made for those purposes only).
+
+(6) Schedule 2 to this Act contains amendments related to this section.
+
+### 3 Proxies to be registered electors
+
+In paragraph 6 of Schedule 4 to the Representation of the People Act 2000 (absent voting in Great Britain), for sub-paragraphs (3) and (4) substitute—
+
+> (3) A person is not capable of being appointed to vote, or voting, as proxy at a parliamentary election unless the person is or will be registered in a register of parliamentary electors in Great Britain or Northern Ireland.
+>
+> (3A) A person is not capable of being appointed to vote, or voting, as proxy at a local government election unless the person is or will be registered in a register of local government electors in Great Britain or Northern Ireland.
+>
+> (4) A person is not capable of being appointed to vote, or voting, as proxy at a parliamentary or local government election if the person is subject to any legal incapacity (age apart) to vote at that election as an elector.
+
+### 4 Annual canvass
+
+After section 9C of the Representation of the People Act 1983 insert—
+
+> **9D Maintenance of registers: duty to conduct canvass in Great Britain**
+>
+> (1) Each registration officer in Great Britain must conduct an annual canvass in relation to the area for which the officer acts.
+>
+> (2) The purpose of the canvass is to ascertain—
+>
+> (a) the names and addresses of persons who are entitled to be registered in a register maintained by the officer but who are not registered;
+>
+> (b) those persons who are registered in such a register but who are not entitled to be registered.
+>
+> (3) The canvass is to be conducted in a manner to be set out in regulations.
+>
+> (4) The regulations may confer functions on the Electoral Commission (for example, the Commission may be required to design a canvass form).
+>
+> (5) A registration officer may make house to house inquiries for the purposes of the canvass, for example—
+>
+> (a) to obtain information before sending out a canvass form,
+>
+> (b) to supplement information provided on a canvass form, or
+>
+> (c) to obtain information where no canvass form is returned.
+>
+> (6) Nothing in this section applies in relation to—
+>
+> (a) the registration of persons in respect of residence in penal institutions (within the meaning of section 3) or mental hospitals (within the meaning of section 7) or other places at which persons to whom section 7A applies may be detained,
+>
+> (b) the registration of persons in pursuance of declarations of local connection, service declarations or overseas electors' declarations, or
+>
+> (c) the registration of persons with anonymous entries in the register.
+
+### 5 Invitations to register
+
+(1) After section 9D of the Representation of the People Act 1983 insert—
+
+> **9E Maintenance of registers: invitations to register in Great Britain**
+>
+> (1) A registration officer in Great Britain must give a person an invitation to apply for registration in a register maintained by the officer if—
+>
+> (a) the officer is aware of the person's name and address,
+>
+> (b) the person is not registered in the register, and
+>
+> (c) the officer has reason to believe that the person may be entitled to be registered in the register.
+>
+> (2) Regulations may make provision about invitations under subsection (1), including—
+>
+> (a) provision about the form and contents of invitations;
+>
+> (b) provision about the giving of invitations (for example, provision about the manner in which they must be given or how often they must be given);
+>
+> (c) provision requiring invitations to be accompanied by, or combined with, application forms or other documents (including partially completed application forms).
+>
+> (3) Regulations under subsection (2) may confer functions on the Electoral Commission (for example, the Commission may be required to design an invitation).
+>
+> (4) A registration officer who gives a person an invitation under subsection (1) may subsequently require the person to make an application for registration by a specified date.
+>
+> (5) A requirement under subsection (4) is of no effect if the person is not entitled to be registered.
+>
+> (6) Regulations—
+>
+> (a) may make provision about requirements under subsection (4) (including provision for them to be cancelled in specified circumstances);
+>
+> (b) may specify steps that a registration officer must take before imposing a requirement.
+>
+> (7) A registration officer may impose a civil penalty on a person who fails to comply with a requirement imposed by the officer under subsection (4).
+>
+> (8) For more about civil penalties under this section, see Schedule ZA1.
+
+(2) Schedule 3 inserts a new Schedule ZA1 into the 1983 Act.
+
+### [^F2]6 Amendment of Parliamentary Constituencies Act 1986
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 7 Power to amend or abolish the annual canvass
+
+(1) The [[^F3]Secretary of State] may by order make provision for the purposes of assisting registration officers in Great Britain to ascertain—
+
+(a) the names and addresses of persons who are not registered in a register but who are entitled to be registered;
+
+(b) those persons who are registered in a register but who are not entitled to be registered.
+
+(2) The [[^F4]Secretary of State] may by order—
+
+(a) modify section 9D of the Representation of the People Act 1983 or any other provision relating to a canvass under that section;
+
+(b) abolish the duty to conduct a canvass under that section.
+
+[[^F5](2A) But the power in subsection (2) does not include the power to modify any provision or abolish the duty in section 9D so far as the provision or duty applies in relation to a register of local government electors maintained by a registration officer in Wales.]
+
+(3) If the duty to conduct a canvass is abolished, the provision that may be made under subsection (1) includes provision reinstating the duty.
+
+(4) An order under this section may create offences punishable on summary conviction by a fine not exceeding level 5 on the standard scale.
+
+(5) An order under this section may confer power to make subordinate legislation and, if it does so, must provide—
+
+(a) that the subordinate legislation is to be made by statutory instrument, and
+
+(b) that the instrument may not be made unless a draft of it has been laid before and approved by a resolution of each House of Parliament.
+
+### 8 Consulting Electoral Commission about proposals under section 7
+
+(1) If the [[^F6]Secretary of State] consults the Electoral Commission about a proposal to make an order under section 7, the Commission must prepare a report assessing—
+
+(a) the extent to which the objective in subsection (2) is met,
+
+(b) the extent to which the objective would be met if the order were made, and
+
+(c) the merits of alternative ways of achieving the objective.
+
+(2) The objective is to assist registration officers in Great Britain to ascertain—
+
+(a) the names and addresses of persons who are not registered in a register but who are entitled to be registered;
+
+(b) those persons who are registered in a register but who are not entitled to be registered.
+
+(3) The Electoral Commission must give a copy of the report to the [[^F7]Secretary of State] by the specified date.
+
+(4) The “specified date” means a date to be specified by the [[^F8]Secretary of State] and the date must not be before the end of the period of 3 months beginning with the day on which the Commission is consulted.
+
+(5) A registration officer in Great Britain must comply with any request made by the Electoral Commission for information that it reasonably requires in connection with the preparation of a report under this section.
+
+(6) When a draft of a statutory instrument containing an order under section 7 is laid before Parliament (see section 11), it must be accompanied by a report under this section, unless the instrument contains provision only for the purpose of reinstating the duty to conduct a canvass as mentioned in section 7(3).
+
+### 9 Piloting of changes to the annual canvass
+
+(1) An order under section 7 may be made so as to have effect in relation to a specified period.
+
+(2) An order which, by virtue of subsection (1), is to have effect in relation to a limited period is referred to in this section as a “pilot scheme”.
+
+(3) The [[^F9]Secretary of State] may make a pilot scheme applying in relation to an area only if the registration officer for that area has—
+
+(a) proposed the making of a pilot scheme in relation to that area, and
+
+(b) agreed to any modifications made by the [[^F9]Secretary of State] to the proposal.
+
+(4) Section 8 does not apply in relation to a pilot scheme.
+
+(5) The provision that may be made in a pilot scheme by virtue of section 11(3) includes, in particular, provision in connection with the expiry of the specified period.
+
+(6) A pilot scheme may be replaced by a further pilot scheme.
+
+(7) If a pilot scheme is made, the Electoral Commission must—
+
+(a) prepare a report on the pilot scheme, and
+
+(b) by no later than a date to be specified in the pilot scheme, give a copy of the report to the [[^F10]Secretary of State] and to the registration officer for the area concerned (or the officer for each area concerned).
+
+(8) The Electoral Commission's report must contain—
+
+(a) a description of the pilot scheme,
+
+(b) an assessment of the extent to which the objective in section 8(2) was met in the area or areas concerned immediately before the specified period,
+
+(c) an assessment of the extent to which the objective was met in the area or areas concerned during the specified period, and
+
+(d) an assessment of the extent to which the scheme resulted in savings of time and costs, or the opposite.
+
+(9) The [[^F11]Secretary of State] must publish the Electoral Commission's report.
+
+(10) A registration officer in Great Britain must comply with any request made by the Electoral Commission for information that it reasonably requires in connection with the preparation of a report under this section.
+
+### 10 Piloting registration provisions
+
+(1) The [[^F12]Secretary of State] may by order make provision for the purpose of testing, for a specified period and in relation to a specified area, how the changes made by any registration provision work in practice.
+
+[[^F13](1A) But an order under subsection (1) may not make provision for the purpose of testing how the changes made by any registration provision work in relation to a register of local government electors maintained by a registration officer in Wales.]
+
+(2) An order under this section may, in particular, make provision the effect of which corresponds to the effect of the amendments made by any registration provision (or the subordinate legislation that may be made by virtue of any registration provision).
+
+(3) “Registration provision” means any provision of—
+
+(a) section 1 and Schedule 1,
+
+(b) section 2 and Schedule 2, and
+
+(c) Schedule 4.
+
+(4) The [[^F14]Secretary of State] may make an order under this section in relation to an area only if the registration officer for that area has—
+
+(a) proposed the making of an order in relation to that area, and
+
+(b) agreed to any modifications made by the [[^F14]Secretary of State] to the proposal.
+
+(5) The provision that may be made in an order under this section by virtue of section 11(3) includes, in particular, provision in connection with the expiry of the specified period.
+
+(6) An order under this section may make provision modifying Schedule 5 (for example, to modify the meaning of “new application for registration”).
+
+### 11 Orders under Part 1
+
+(1) An order under this Part is to be made by statutory instrument.
+
+(2) A statutory instrument containing an order under this Part (whether alone or with other provision) may not be made unless a draft of the instrument has been laid before and approved by a resolution of each House of Parliament (but paragraph 28 of Schedule 5 contains an exception to this).
+
+(3) An order under this Part may make consequential, supplementary, incidental, transitional or saving provision.
+
+(4) An order under this Part may modify any other Act or subordinate legislation (whenever passed or made).
+
+(5) An order under this Part—
+
+(a) may apply generally or only in specified cases, circumstances or areas;
+
+(b) may make different provision for different cases, circumstances or areas.
+
+### 12 Interpretation of Part 1
+
+In this Part—
+
+- “modify” includes amend, repeal or revoke;
+- “register” means a register of parliamentary electors or local government electors maintained by a registration officer in Great Britain [[^F15]other than a register of local government electors maintained by a registration officer in Wales];
+- “registration officer” has the same meaning as in the Representation of the People Act 1983 (see section 8 of that Act);
+- “subordinate legislation” has the same meaning as in the Interpretation Act 1978.
+
+### 13 Amendments and transitional provision
+
+(1) Schedule 4 contains amendments to do with this Part.
+
+(2) Schedule 5 makes transitional provision to do with this Part.
+
+(3) In relation to an offence committed in England and Wales before [[^F16]2 May 2022] , the reference to [[^F17]the general limit in a magistrates’ court] in paragraph 13(1ZD)(a) of Schedule 2 to the Representation of the People Act 1983 (inserted by Schedule 2 to this Act) is to be read as a reference to 6 months.
+
+(4) In relation to an offence committed in England and Wales before the commencement of section 281(5) of the Criminal Justice Act 2003, the reference to 51 weeks in paragraph 13(1ZD)(b) of Schedule 2 to the Representation of the People Act 1983 (inserted by Schedule 2 to this Act) is to be read as a reference to 6 months.
+
+## PART 2 — Administration and conduct of elections etc
+
+### 14 Extension of timetable for parliamentary elections
+
+[^F18]1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) Schedule 1 to the Representation of the People Act 1983 (parliamentary elections rules) is amended in accordance with subsections (3) to (5).
+
+(3) In the Timetable in rule 1, in the entry relating to “Polling”, in column 3 (polling day for by-election to be on 9th to 11th day after last day for delivery of nomination papers)—
+
+(a) for “ninth” substitute “ 17th ”, and
+
+(b) for “eleventh” substitute “ 19th ”.
+
+(4) In rule 30(3) (notice of appointment of polling and counting agents to be given no later than the second day before the poll), for “second” substitute “ 5th ”.
+
+(5) In rules 61(9), 63(9) and 64(6) (where election candidate dies, fresh poll to be held 15 to 19 days after day on which election writ treated as received)—
+
+(a) for “15” substitute “ 21 ”, and
+
+(b) for “19” substitute “ 27 ”.
+
+(6) In Schedule 1 to the Northern Ireland Assembly (Elections) Order 2001 (S.I. 2001/2599 (N.I.)), in the entry for rule 30, omit the words in the second column.
+
+### 15 Timing of parish and community council elections in England and Wales
+
+(1) Section 16 of the Representation of the People Act 1985 (postponement of parish and community council elections in England and Wales) is repealed.
+
+(2) In section 29(5) of that Act (provisions which do not extend to Northern Ireland), for “16 to 18” substitute “ 17 and 18 ”.
+
+(3) In section 40(1) of the Representation of the People Act 1983 (effect of bank holidays etc on timing of elections), omit “or section 16 of the Representation of the People Act 1985”.
+
+### 16 Alteration of electoral registers: pending elections
+
+(1) The Representation of the People Act 1983 is amended as follows.
+
+(2) In section 13A (alteration of registers)—
+
+(a) in subsection (4), after “section” insert “ 13AB(2), ”;
+
+(b) in subsection (5), after “this section, section” insert “ 13AB, ”.
+
+(3) After that section insert—
+
+> **13AB Alteration of registers: interim publication dates**
+>
+> (1) Subsections (2) and (3) apply in relation to an interim publication date where—
+>
+> (a) at any time before the interim publication date, section 13A applies to a registration officer (by virtue of section 13A(1)) in connection with a determination, requirement or decision within section 13A(1)(za), (zb), (b), (c) or (d),
+>
+> (b) in consequence of the determination, requirement or decision an entry relating to a person falls to be made in (or removed from) the register in respect of an address in the relevant election area, and
+>
+> (c) no alteration made in consequence of the determination, requirement or decision has already taken effect, or is due to take effect, under a relevant provision on or before the interim publication date.
+>
+> (2) On the interim publication date the registration officer must issue, in the prescribed manner, a notice specifying the appropriate alteration in the register.
+>
+> (3) The alteration takes effect from the beginning of the interim publication date.
+>
+> (4) There are two interim publication dates (in relation to a registration officer and an election to which this section applies).
+>
+> (5) The first interim publication date is the last day on which nomination papers may be delivered to the returning officer for the purposes of the election.
+>
+> (6) The second interim publication date is to be determined by the registration officer, but must be a day after the first interim publication date and before the appropriate publication date.
+>
+> (7) In subsection (1)(c) “relevant provision” means—
+>
+> (a) in relation to the first interim publication date, section 13A(2);
+>
+> (b) in relation to the second interim publication date, section 13A(2) and subsection (3) as it applies in relation to the first interim publication date.
+>
+> (8) This section applies to—
+>
+> (a) parliamentary elections in England, Wales or Scotland;
+>
+> (b) elections in England, Wales or Scotland to the European Parliament;
+>
+> (c) elections to the Scottish Parliament;
+>
+> (d) elections to the National Assembly for Wales;
+>
+> (e) local government elections in England, Wales or Scotland;
+>
+> (f) elections of police and crime commissioners in England and Wales.
+>
+> (9) Subsections (5) and (6) of section 13B apply for the purposes of this section as they apply for the purposes of that section.
+
+(4) In section 13B(2) (alteration of registers in Great Britain: pending elections), after “subsection (2) of that section” insert “ or section 13AB(3) ”.
+
+(5) In section 56 (registration appeals: England and Wales)—
+
+(a) in subsection (4), after “13A” insert “ , 13AB ”;
+
+(b) in subsection (4A), after “13A(2)” insert “ , 13AB(3) ”.
+
+### 17 Review of polling districts and places in Great Britain
+
+In section 18C of the Representation of the People Act 1983 (review of polling districts and places), for subsections (1) to (5) substitute—
+
+> (1) A relevant authority must during each compulsory review period carry out and complete—
+>
+> (a) a review under section 18A of all the polling districts in its area, and
+>
+> (b) a review under section 18B of all the polling places in its area.
+>
+> (2) The compulsory review periods are—
+>
+> (a) the period of 16 months beginning with 1st October 2013, and
+>
+> (b) the period of 16 months beginning with 1st October of every fifth year after that.
+>
+> (3) Subsection (1) does not prevent a relevant authority carrying out a review of some or all of the polling districts or polling places in its area at other times.
+
+### 18 Inadequate performance of returning officer: reduction of charges
+
+(1) In section 29(3) of the Representation of the People Act 1983 (payments by and to a returning officer) at the beginning insert “ Subject to section 29A, ”.
+
+(2) After section 29 of that Act insert—
+
+> **29A Inadequate performance of returning officer: reduction of charges**
+>
+> (1) This section applies to a service rendered by a returning officer for or in connection with a parliamentary election in Great Britain which, in the opinion of the Electoral Commission, was inadequately performed.
+>
+> (2) The Commission may recommend to the Secretary of State that the returning officer is entitled under section 29(3) to no more than a specified amount (which may be nil) in respect of that service.
+>
+> (3) In making a recommendation under subsection (2), the Commission must have regard to—
+>
+> (a) any report prepared under section 5 of the Political Parties, Elections and Referendums Act 2000 on the administration of the parliamentary election concerned,
+>
+> (b) any assessments of the level of performance of the returning officer in relation to that election under section 9B(4) of that Act,
+>
+> (c) any representations made to the Commission by the returning officer in respect of the performance of the service, and
+>
+> (d) any other information relating to the performance of the service by the returning officer that has been provided to the Commission.
+>
+> (4) Where the Commission makes a recommendation under subsection (2), the returning officer is entitled under section 29(3) to no more than the amount (which may be nil) determined by the Secretary of State, having regard to the recommendation by the Commission.
+
+(3) In paragraph 107 of Schedule 1 to the Electoral Administration Act 2006 (amendment to section 29 of the 1983 Act) in sub-paragraph (2), in substituted subsection (3), at the beginning insert “ Subject to section 29A, ”.
+
+### 19 Voters waiting at polling station at close of poll
+
+(1) Schedule 1 to the Representation of the People Act 1983 (parliamentary election rules) is amended as follows.
+
+(2) In rule 37 (voting procedure) as it extends to England and Wales and Scotland, after paragraph (6) insert—
+
+> (7) A voter who at the close of the poll is in the polling station, or in a queue outside the polling station, for the purpose of voting shall (despite the close of the poll) be entitled to apply for a ballot paper under paragraph (1); and these rules apply in relation to such a voter accordingly.
+
+(3) In rule 37 (voting procedure) as it extends to Northern Ireland, after paragraph (3) insert—
+
+> (4) A voter who at the close of the poll is in the polling station, or in a queue outside the polling station, for the purpose of voting shall (despite the close of the poll) be entitled to apply for a ballot paper under paragraph (1); and these rules apply in relation to such a voter accordingly.
+
+### 20 Use of emblems on ballot papers
+
+(1) Rule 19 of Schedule 1 to the Representation of the People Act 1983 (ballot papers for parliamentary elections) is amended as follows.
+
+(2) After paragraph (2A) insert—
+
+> (2AA) If a candidate who is the subject of an authorisation by two or more parties under rule 6A(1B) so requests, the ballot paper shall contain, against the candidate's particulars, the registered emblem (or, as the case may be, one of the registered emblems) of one of those parties.
+
+(3) In paragraph (2B), for “The request” substitute “ A request under paragraph (2A) or (2AA) ”.
+
+### 21 Community support officers
+
+(1) In Schedule 1 to the Representation of the People Act 1983 (parliamentary elections rules), in rule 31 (notification of requirement of secrecy), make the existing provision paragraph (1) and after that paragraph insert—
+
+> (2) In the application of this rule to an election in England or Wales, a reference to a constable includes a person designated as a community support officer under section 38 of the Police Reform Act 2002 (police powers for employees).
+
+(2) In rule 32 of that Schedule (admission to polling station), after paragraph (4) insert—
+
+> (5) In the application of this rule to an election in England or Wales, a reference to a constable includes a person designated as a community support officer under section 38 of the Police Reform Act 2002 (police powers for employees).
+
+(3) In Schedule 4 to the Representation of the People Act 2000 (absent voting in Great Britain), in paragraph 2 (manner of voting at parliamentary or local government elections), after sub-paragraph (5) insert—
+
+> (5ZA) In the application of sub-paragraph (5) to an election in England or Wales, a reference to a constable includes a person designated as a community support officer under section 38 of the Police Reform Act 2002 (police powers for employees).
+
+### 22 Notification of rejected postal vote
+
+(1) In Schedule 4 to the Representation of the People Act 2000 (absent voting in Great Britain), after paragraph 7D insert—
+
+> **7E Notification of rejected postal vote**
+>
+> (1) Regulations may make provision as to circumstances in which, following the close of the poll at a parliamentary or local government election, a registration officer must—
+>
+> (a) notify a person that the person's postal ballot paper has been rejected, and
+>
+> (b) where such notification is required to be given to a person appointed as proxy to vote for another (“the elector”) in respect of a proxy postal ballot paper, notify the elector that the ballot paper has been rejected.
+>
+> (2) For the purposes of sub-paragraph (1), a postal ballot paper is “rejected” if it was not taken to have been duly returned in accordance with the appropriate rules because the returned postal voting statement was not duly completed.
+>
+> (3) Regulations under this paragraph may include provision as to—
+>
+> (a) the information to be notified (which may include information as to the respect in which the postal voting statement was not duly completed);
+>
+> (b) the time within which the notification is to be given;
+>
+> (c) the way in which it is to be given.
+>
+> **7F Regulations under paragraph 7E in relation to local government elections in Scotland**
+>
+> (1) The power to make regulations under paragraph 7E in relation to local government elections in Scotland is exercisable by the Scottish Ministers.
+>
+> (2) Regulations made by the Scottish Ministers by virtue of this paragraph are subject to the affirmative procedure.
+>
+> (3) Such regulations may—
+>
+> (a) make different provision for different cases, circumstances or areas;
+>
+> (b) contain such incidental, supplemental, saving or transitional provision as the Scottish Ministers think fit.
+
+(2) In section 7 of the Political Parties, Elections and Referendums Act 2000 (Electoral Commission to be consulted on changes to Electoral Law), after subsection (2)(e) insert—
+
+> (ea) regulations made by virtue of paragraph 7F of Schedule 4 to the Representation of the People Act 2000 (regulations made by the Scottish Ministers about notification of rejected postal votes in relation to local government elections in Scotland);
+
+.
+
+### 23 Repeal of powers to establish co-ordinated on-line record of electors
+
+(1) Part 1 of the Electoral Administration Act 2006 (co-ordinated on-line record of electors) is repealed.
+
+(2) The table contains consequential repeals.
+
+|  |  |
+|---|---|
+| *Short title* | *Extent of repeal* |
+| Representation of the People Act 1983 | In section 10ZB—<br>- (a) in subsection (5), paragraph (b) and the “or” before it;<br>- (b) subsections (6) and (8). |
+| Political Parties, Elections and Referendums Act 2000 | Section 20A. |
+| Electoral Administration Act 2006 | Section 77(1)(a) to (g). |
+| Northern Ireland (Miscellaneous Provisions) Act 2006 | In Schedule 4, paragraph 8. |
+| Political Parties and Elections Act 2009 | Sections 28 and 29. |
+
+## PART 3 — Final provisions
+
+### 24 Financial provisions
+
+(1) There is to be paid out of money provided by Parliament—
+
+(a) any expenditure incurred by a Minister of the Crown in consequence of this Act, and
+
+(b) any increase attributable to this Act in the sums payable under any other Act out of money so provided.
+
+(2) There is to be paid out of the Consolidated Fund any increase attributable to this Act in the sums payable under any other Act out of that Fund.
+
+### [^F19]25 Meaning of “the Minister” etc
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 26 Extent
+
+An amendment or repeal made by this Act has the same extent as the enactment (or part of an enactment) amended or repealed.
+
+### 27 Commencement
+
+(1) Subject as follows, Parts 1 and 2 of this Act come into force on such day as the [[^F20]Secretary of State] may by order made by statutory instrument appoint.
+
+(2) Paragraph 28 of Schedule 5 comes into force at the end of the period of 2 months beginning with the day on which this Act is passed.
+
+(3) This Part comes into force on the day on which this Act is passed.
+
+(4) An order under subsection (1) may appoint different days for different purposes (including different days for different parts of the United Kingdom).
+
+(5) An order under subsection (1) bringing into force any provision of section 19 may—
+
+(a) make provision in consequence of, or for giving full effect to, that section, or
+
+(b) make supplementary or incidental provision for the purposes of that section.
+
+(6) An order made by virtue of subsection (5) may—
+
+(a) modify any Act (whenever passed), including any provision inserted by a provision of this Act apart from section 19, or
+
+(b) modify subordinate legislation (whenever made).
+
+(7) An order made by virtue of subsection (5) that contains provision modifying an Act may not be made unless a draft of the statutory instrument containing it has been laid before and approved by a resolution of each House of Parliament.
+
+(8) Any other order made by virtue of subsection (5) is subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(9) In this section—
+
+- “modify” includes amend, repeal or revoke;
+- “subordinate legislation” has the same meaning as in the Interpretation Act 1978.
+
+(10) The [[^F21]Secretary of State] may by order made by statutory instrument make transitional, transitory or saving provision in connection with the coming into force of any provision of this Act or of any provision of an order made by virtue of subsection (5).
+
+### 28 Short title
+
+This Act may be cited as the Electoral Registration and Administration Act 2013.
+
+## SCHEDULE 1 — Register of electors: alterations and removal
+
+*Section 1*
+
+**1** After section 10ZC of the Representation of the People Act 1983 insert—
+
+> **Registration of electors in Great Britain: alterations**
+>
+> **10ZD** (1) A registration officer in Great Britain must alter the name or address in respect of which a person (“P”) is registered in a register maintained by the officer if—
+>
+> (a) an application for alteration is made by someone who appears to the officer to be P,
+>
+> (b) any requirements imposed by or under this Act in relation to the application are met, and
+>
+> (c) P appears to the officer to be entitled to be registered in the register in respect of the new name or the new address (as the case may be).
+>
+> (2) In determining an application under this section, the officer must consider any objection made in accordance with the prescribed requirements by another person whose name appears in the register.
+>
+> (3) Regulations may make provision about the procedure for determining applications under this section.
+>
+> **Removal of electors in Great Britain from register**
+>
+> **10ZE** (1) Where a person is entered in a register in respect of an address in Great Britain, the person is entitled to remain registered until the registration officer concerned determines that—
+>
+> (a) the person was not entitled to be registered in respect of the address,
+>
+> (b) the person has ceased to be resident at the address or has otherwise ceased to satisfy the conditions for registration set out in section 4, or
+>
+> (c) the person was registered as the result of an application under section 10ZC made by some other person or the person's entry has been altered as the result of an application under section 10ZD made by some other person.
+>
+> (2) Where a person's entitlement to remain registered terminates by virtue of subsection (1), the officer must remove the person's entry from the register.
+>
+> (3) A registration officer may make house to house inquiries for the purpose of deciding whether or not to make a determination under subsection (1).
+>
+> (4) Regulations may make provision about the procedure for making determinations under subsection (1), which may include provision requiring an officer to take prescribed steps before making a determination.
+>
+> (5) A registration officer in Great Britain must consider whether to make a determination under subsection (1) if the officer—
+>
+> (a) receives an objection to a person's registration in a register maintained by the officer, or
+>
+> (b) otherwise becomes aware of information that causes the officer to suspect that a condition in subsection (1)(a) to (c) may be met in relation to a person's entry in such a register.
+>
+> (6) Subsection (5)(a)—
+>
+> (a) applies only if the objection to the person's registration is made in accordance with the prescribed requirements by someone whose name appears in the register, and
+>
+> (b) does not apply if the person has an anonymous entry in the register.
+>
+> (7) Nothing in this section applies in relation to the registration of persons in pursuance of—
+>
+> (a) applications for registration made by virtue of section 7(2) or 7A(2), or
+>
+> (b) declarations of local connection, service declarations or overseas electors' declarations.
+>
+> (8) In this section “resident” means resident for the purposes of section 4.
+
+**2** (1) [^F22]Registration officers in Great Britain must have regard to any guidance given by the Minister about the determination of applications under section 10ZD of the Representation of the People Act 1983.
+
+(2) [^F22]The guidance that may be given includes guidance about the process for determining whether the conditions in subsection (1) of that section are met and the relative weight to be given to different kinds of evidence.
+
+(3) Sub-paragraphs (1) and (2) cease to have effect at the end of the period of 5 years beginning with the day on which they come fully into force.
+
+**3** In section 13A(1)(d) of the Representation of the People Act 1983 (alteration of registers to correct clerical errors), at the end insert “ or, in the case of a registration officer in Great Britain, determines that the register contains any information that is incorrect. ”
+
+## SCHEDULE 2 — Sharing and checking information etc
+
+*Section 2*
+
+**1** Schedule 2 to the Representation of the People Act 1983 (provisions which may be contained in regulations as to registration etc) is amended as follows.
+
+**2** After paragraph 1 insert—
+
+> **1A** (1) Provision authorising or requiring a person to disclose information to another person for the purpose of assisting a registration officer in Great Britain—
+>
+> (a) to verify information relating to a person who is registered in a register maintained by the officer or who is named in an application for registration in, or alteration of, a register,
+>
+> (b) to ascertain the names and addresses of people who are not registered but who are entitled to be registered, or
+>
+> (c) to identify those people who are registered but who are not entitled to be registered.
+>
+> (2) Provision made under sub-paragraph (1) may authorise or require the person to whom the information is disclosed—
+>
+> (a) to compare it with other information;
+>
+> (b) to disclose the results of the comparison to a registration officer for the purpose mentioned in that sub-paragraph.
+>
+> (3) The provision that may be made under sub-paragraph (1) or (2) includes provision—
+>
+> (a) conferring other functions on a person;
+>
+> (b) authorising the Secretary of State to make grants to a person on whom functions are conferred;
+>
+> (c) authorising a person to disclose or otherwise process information only in accordance with an agreement;
+>
+> (d) authorising or requiring a person to disclose or otherwise process information only in accordance with requirements imposed by the Secretary of State;
+>
+> (e) regulating the manner in which information is disclosed;
+>
+> (f) requiring the retention or disposal, or otherwise regulating the processing, of information disclosed.
+>
+> (4) Provision made under this paragraph has effect despite any statutory or other restriction on the disclosure of information.
+>
+> (5) In this paragraph “processing” has the same meaning as in the Data Protection Act 1998.
+
+**3** After paragraph 8B (inserted by section 2) insert—
+
+> **8C** (1) Provision requiring the retention or disposal, or otherwise regulating the processing, of—
+>
+> (a) information provided in an application under section 10ZC or 10ZD;
+>
+> (b) information provided to a person in accordance with a requirement imposed by a registration officer in Great Britain under provision made by virtue of paragraph 1(2);
+>
+> (c) information provided to a person by virtue of provision made under paragraph 3ZA.
+>
+> (2) In this paragraph “processing” has the same meaning as in the Data Protection Act 1998.
+
+**4** In paragraph 13, after sub-paragraph (1ZA) insert—
+
+> (1ZB) Provision making it an offence, in prescribed circumstances, for a person to process information in breach of provision made under paragraph 1A(3)(e) or (f) or 8C.
+>
+> (1ZC) Provision made under sub-paragraph (1ZB) creating an offence may not—
+>
+> (a) provide for the offence to be punishable on conviction on indictment by imprisonment for a term exceeding two years;
+>
+> (b) provide for the offence to be punishable on summary conviction by imprisonment for a term exceeding the relevant maximum;
+>
+> (c) provide for the offence to be punishable on summary conviction by a fine exceeding the statutory maximum or level 5 on the standard scale (as appropriate).
+>
+> (1ZD) In sub-paragraph (1ZC)(b) “the relevant maximum”—
+>
+> (a) in relation to an offence triable either on indictment or summarily, means—
+>
+> (i) in England and Wales or Scotland, 12 months, and
+>
+> (ii) in Northern Ireland, 6 months;
+>
+> (b) in relation to an offence triable only summarily, means—
+>
+> (i) in England and Wales, 51 weeks, and
+>
+> (ii) in Scotland or Northern Ireland, 6 months.
+
+**5** In section 53 of the Representation of the People Act 1983 (power to make regulations as to registration etc), after subsection (4) insert—
+
+> (5) Before making regulations containing provision under paragraph 1A of Schedule 2, or paragraph 13(1ZB) of that Schedule so far as relating to that paragraph, the Secretary of State must consult—
+>
+> (a) the Electoral Commission,
+>
+> (b) the Information Commissioner, and
+>
+> (c) any other person the Secretary of State thinks appropriate.
+>
+> (6) The Secretary of State may require the Electoral Commission to—
+>
+> (a) prepare a report on specified matters relating to the operation of any provision made under paragraph 1A of Schedule 2, and
+>
+> (b) give the Secretary of State a copy of the report by no later than a specified date.
+>
+> (7) The Secretary of State must publish a copy of the report.
+>
+> (8) A registration officer in Great Britain must comply with any request made by the Electoral Commission for information that it reasonably requires in connection with the preparation of a report under subsection (6).
+
+## SCHEDULE 3 — Civil penalty for failing to make application when required by registration officer
+
+*Section 5*
+
+In the Representation of the People Act 1983, before Schedule A1 insert—
+
+> **SCHEDULE ZA1 — Civil penalties under section 9E**
+>
+> *Section 9E*
+>
+> **Introduction**
+>
+> **1** This Schedule is about civil penalties under section 9E.
+>
+> **Amount**
+>
+> **2** The amount of a civil penalty is to be specified in regulations.
+>
+> **Procedure**
+>
+> **3** (1) The procedure for imposing a civil penalty on a person is to be set out in regulations.
+>
+> (2) The regulations must, in particular, require the registration officer to give the person written notice specifying—
+>
+> (a) the amount of the penalty,
+>
+> (b) the reasons for imposing it, and
+>
+> (c) the date by which and manner in which it is to be paid.
+>
+> **4** Regulations may specify steps that a registration officer must take before imposing a civil penalty.
+>
+> **Reviews and appeals**
+>
+> **5** (1) Regulations may give a person on whom a civil penalty is imposed—
+>
+> (a) a right to request a review of the decision to impose the penalty;
+>
+> (b) a right to appeal against the decision to the First-tier Tribunal.
+>
+> (2) Regulations under this paragraph may, in particular—
+>
+> (a) specify the grounds on which a person may request a review or appeal;
+>
+> (b) specify the time within which a person must request a review or appeal;
+>
+> (c) require a person to request a review before appealing;
+>
+> (d) make provision about the procedure for a review;
+>
+> (e) make further provision about reviews and appeals (including provision as to the powers available on a review or appeal).
+>
+> **Power to create exceptions**
+>
+> **6** Regulations may specify circumstances in which—
+>
+> (a) a civil penalty may not be imposed, or
+>
+> (b) a civil penalty may be cancelled.
+>
+> **Accounts and record keeping**
+>
+> **7** Regulations may impose duties on registration officers about the keeping of accounts and other records in connection with civil penalties.
+>
+> **Interest and enforcement etc.**
+>
+> **8** Regulations may—
+>
+> (a) allow interest to be charged on a civil penalty that is paid late;
+>
+> (b) allow an additional penalty to be imposed for late payment.
+>
+> **9** In this Schedule “civil penalty” includes any interest or additional penalty.
+>
+> **10** Regulations may make provision about the recovery of civil penalties by registration officers.
+>
+> **11** A civil penalty received by a registration officer is to be paid into the Consolidated Fund.
+>
+> **Power to make further provision**
+>
+> **12** Regulations may make further provision about civil penalties.
+
+## SCHEDULE 4 — Amendments to do with Part 1
+
+*Section 13*
+
+### Representation of the People Act 1983 (c. 2)
+
+**1** The Representation of the People Act 1983 is amended as follows.
+
+**2** In section 7 (residence: patients in mental hospitals who are not detained offenders or on remand), in subsection (3), after paragraph (aa) insert—
+
+> (ab) the registration officer determines in accordance with regulations that the person was registered as the result of an application under section 10ZC made by some other person or that the person's entry has been altered as the result of an application under section 10ZD made by some other person, or
+
+.
+
+**3** In section 7A (residence: persons remanded in custody etc), in subsection (3), after paragraph (aa) insert—
+
+> (ab) the registration officer determines in accordance with regulations that the person was registered as the result of an application under section 10ZC made by some other person or that the person's entry has been altered as the result of an application under section 10ZD made by some other person, or
+
+.
+
+**4** In section 7C (effect of declaration of local connection), in subsection (2), after paragraph (aa) insert—
+
+> (ab) the registration officer determines in accordance with regulations that the person was registered as the result of an application under section 10ZC made by some other person or that the person's entry has been altered as the result of an application under section 10ZD made by some other person,
+
+.
+
+**5** In section 9 (registers of electors), in subsection (2)—
+
+(a) for the words from the beginning to “register” substitute “ Subject to any other provision of this Act, each register ”;
+
+(b) for paragraph (a) substitute—
+
+> (a) the names of persons who appear to the registration officer to be entitled to be registered in it and in respect of whom a successful application for registration has been made;
+
+.
+
+**6** (1) Section 9A (registration officers: duty to take necessary steps) is amended as follows.
+
+(2) At the end of subsection (1) insert “ and for the purpose of securing that, so far as is reasonably practicable, persons who are entitled to be registered in a register (and no others) are registered in it ”.
+
+(3) In subsection (2)(a), for “section 10” substitute “ section 9D ”.
+
+**7** (1) Section 9B (anonymous registration) is amended as follows.
+
+(2) For subsections (1) and (2) substitute—
+
+> (1) An application under this section (an application for an anonymous entry) may be made—
+>
+> (a) by any person, in conjunction with an application for registration under section 10ZC, or
+>
+> (b) by a person who already has an anonymous entry, for the purposes of remaining registered with such an entry (see section 9C(3)).
+>
+> (1A) An application for an anonymous entry must be made in accordance with prescribed requirements and must be accompanied by—
+>
+> (a) a declaration made in accordance with prescribed requirements, and
+>
+> (b) such evidence in support as may be prescribed.
+>
+> (2) A registration officer who receives an application for an anonymous entry must determine whether the safety test is satisfied (unless, in the case of an application under subsection (1)(a), the person's application for registration has been rejected otherwise than by virtue of this section).
+
+(3) In subsection (5), after “a person” insert “ as the result of an application under subsection (1)(a) ”.
+
+(4) For subsection (6) substitute—
+
+> (6) If a person makes an application under subsection (1)(a) and the registration officer determines that the safety test is not satisfied, no entry is to be made in the register as a result of the person's application under section 10ZC (whether an anonymous entry or otherwise).
+
+(5) In subsection (7)(b), omit the words from “(including an application” to the end.
+
+**8** (1) Section 9C (removal of anonymous entries) is amended as follows.
+
+(2) In subsection (1), omit “in pursuance of the application for registration mentioned in section 9B(1)”.
+
+(3) In subsection (3), omit “a further application for registration accompanied by”.
+
+**9** (1) Section 10 (maintenance of the registers: duty to conduct canvass) is amended as follows.
+
+(2) Omit subsection (1).
+
+(3) In subsection (2), omit “(1) or”.
+
+(4) In subsection (3)—
+
+(a) after “canvass” insert “ under this section ”;
+
+[^F23]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) For subsection (4) substitute—
+
+> (4) The form to be used for the purposes of a canvass under this section must be a form prescribed for those purposes.
+
+(6) In subsection (4A), omit “for the purposes of a canvass in Northern Ireland”.
+
+(7) In subsection (5), for “a registration officer” substitute “ under this section the Chief Electoral Officer for Northern Ireland ”.
+
+(8) In subsection (6), for “a registration officer” substitute “ under this section the Chief Electoral Officer for Northern Ireland ”.
+
+(9) In the heading, after “canvass” insert “ in Northern Ireland ”.
+
+**10** (1) Section 10A (maintenance of the registers: registration of electors) is amended as follows.
+
+(2) In subsection (1), for “A registration officer” substitute “ The Chief Electoral Officer for Northern Ireland ”.
+
+(3) In subsection (2A), omit “(subject to section 13BB(2))”.
+
+(4) In subsection (3)—
+
+(a) for “A registration officer” substitute “ The Chief Electoral Officer for Northern Ireland ”;
+
+(b) after “registration” insert “ in Northern Ireland ”.
+
+[^F24]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6) In subsection (4), before “asking” insert “ in Northern Ireland ”.
+
+(7) In subsection (5)—
+
+(a) after “in respect of any address” insert “ in Northern Ireland ”;
+
+(b) for “the registration officer concerned” substitute “ the Chief Electoral Officer for Northern Ireland ”;
+
+(c) for “the registration officer is” substitute “ the Officer is ”.
+
+(8) In subsection (5A)(b), for “the registration officer” substitute “ the Chief Electoral Officer for Northern Ireland ”.
+
+(9) In subsection (5B), for “A registration officer” substitute “ The Chief Electoral Officer for Northern Ireland ”.
+
+(10) In subsection (6), for “the registration officer concerned” substitute “ the Chief Electoral Officer for Northern Ireland ”.
+
+(11) In subsection (7), for “a registration officer” substitute “ the Chief Electoral Officer for Northern Ireland ”.
+
+(12) In the heading, after “electors” insert “ in Northern Ireland ”.
+
+**11** (1) Section 13 (publication of registers) is amended as follows.
+
+(2) In subsection (2)(b), after “13A(3)” insert “ or (3A) ”.
+
+(3) In subsection (5)(b), for “13BB” substitute “ 13BA ”.
+
+**12** (1) Section 13A (alteration of registers) is amended as follows.
+
+(2) In subsection (1)—
+
+(a) before paragraph (a) insert—
+
+> (za) is required by section 10ZC(1) to enter a person in the register;
+>
+> (zb) is required by section 10ZD(1) to alter a person's entry in the register;
+
+;
+
+(b) in paragraph (a), after “registration” insert “ in Northern Ireland ”.
+
+(3) After subsection (3) insert—
+
+> (3A) Subsection (2)(a)(ii) also does not require a registration officer in Great Britain to issue a notice under subsection (2) in a case where the month which follows that in which the relevant time falls is the month containing the date on which a revised version of the register is next due to be published in accordance with section 13(1)(a); and in such a case the alteration in question shall be made in that revised version of the register.
+
+(4) In subsection (5), for “13B or 13BA below or section 13BB below” substitute “ section 13B or section 13BA below ”.
+
+**13** In section 13B (alteration of registers in Great Britain: pending elections), in subsection (2)(a), for “paragraphs (a) to (d)” substitute “ paragraphs (za), (zb), (b), (c) and (d) ”.
+
+**14** Omit section 13BB (election falling within canvass period).
+
+**15** In section 15 (service declaration), in subsection (2), after paragraph (aa) insert—
+
+> (ab) the registration officer determines in accordance with regulations that the person was registered as the result of an application under section 10ZC made by some other person or that the person's entry has been altered as the result of an application under section 10ZD made by some other person,
+
+.
+
+**16** (1) Section 49 (effect of registers) is amended as follows.
+
+(2) In subsection (5)—
+
+(a) in paragraph (b), for the words from “is not” to “was not” substitute “ is not or was not at any particular time ”;
+
+(b) in paragraph (c), for the words from “is, or” to “was,” substitute “ is or was at any particular time ”.
+
+(3) Omit subsection (6).
+
+**17** In section 54(1) (payment of expenses of registration), after “under this Act” insert “ or the Electoral Registration and Administration Act 2013 ”.
+
+**18** In section 56(1) (registration appeals: England and Wales), for paragraphs (a) and (aa) substitute—
+
+> (a) from any decision of a registration officer not to register a person following an application under section 10ZC,
+>
+> (aza) from any decision of a registration officer to register a person following an application under section 10ZC in a case where an objection has been made under that section,
+>
+> (azb) from any decision of a registration officer not to alter a register following an application under section 10ZD,
+>
+> (azc) from any decision of a registration officer to alter a register following an application under section 10ZD in a case where an objection has been made under that section,
+>
+> (azd) from any decision of a registration officer under section 10ZE, or any other provision of this Act, as a result of which a person's entitlement to remain registered terminates,
+>
+> (aa) from any decision of a registration officer not to make a determination under section 10ZE(1) following an objection under section 10ZE(5)(a),
+
+.
+
+**19** In section 62 (offences as to declarations), in subsection (1A), for “section 9B(1)(b)” substitute “ section 9B(1A)(a) ”.
+
+**20** (1) Schedule 2 (provisions which may be contained in regulations as to registration etc) is amended as follows.
+
+(2) In paragraph 1—
+
+(a) in sub-paragraph (2), after “authorising” insert “ or requiring ”;
+
+(b) in sub-paragraph (3)(a)—
+
+(i) for “so required” substitute “ by virtue of regulations under sub-paragraph (2) required ”;
+
+(ii) after “so registered” insert “ or to determine whether the person is the person who made the application under section 10ZC or 10ZD ”.
+
+(3) After paragraph 1A (inserted by Schedule 2) insert—
+
+> **1B** (1) Provision as to the information that a registration officer may or must require persons to give by virtue of regulations under paragraph 1(2), or must provide to persons, when conducting a canvass in Great Britain (whether as part of a canvass form or otherwise).
+>
+> (2) Provision authorising or requiring a registration officer in Great Britain to complete canvass forms in part for people.
+>
+> (3) Provision as to the form and contents of declarations to be made by those responding to a canvass in Great Britain.
+
+[^F25]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) After paragraph 3B insert—
+
+> **3C** (1) Provision authorising or requiring a registration officer conducting a canvass in Great Britain to take specified steps for the purpose of obtaining information where no response is received in respect of a particular address.
+>
+> (2) Provision authorising or requiring a registration officer in Great Britain to take specified steps to encourage a person to make an application under section 10ZC or 10ZD in response to an invitation to do so made by the officer.
+>
+> (3) Examples of the steps that a registration officer may be authorised or required to take under sub-paragraph (1) or (2) include writing to the person or visiting the person's address to speak to the person.
+
+(6) In paragraph 5(2) (provision as to evidence of age or nationality which may be required), after “required” insert “ by the Chief Electoral Officer for Northern Ireland ”.
+
+(7) After paragraph 5A insert—
+
+> **5B** (1) Provision as to the steps that a registration officer in Great Britain must take, before appointing a person as proxy to vote for another, to ensure that the appointment complies with paragraph 6(3) or (3A) of Schedule 4 to the Representation of the People Act 2000.
+>
+> (2) Provision under sub-paragraph (1) may require another registration officer (including the Chief Electoral Officer for Northern Ireland) to provide information about whether the person has or will have an entry in a register maintained by that officer.
+
+### [^F26]...
+
+**[^F26]21** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Representation of the People Act 2000 (c. 2)
+
+**22** In Schedule 1 to the Representation of the People Act 2000 (registration: amendments of Representation of the People Act 1983), omit paragraph 12(3) and (4).
+
+### Electoral Administration Act 2006 (c. 22)
+
+**23** In Schedule 1 to the Electoral Administration Act 2006 (amendments), omit paragraphs 4(2), 5 and 6(2).
+
+### Political Parties and Elections Act 2009 (c. 12)
+
+**24** In the Political Parties and Elections Act 2009 the following are repealed—
+
+(a) section 23(1) (which inserted section 13BB of the Representation of the People Act 1983);
+
+(b) sections 30 to 34 (electoral registration: provision of identifying information);
+
+(c) sections 35 and 36 (data schemes);
+
+(d) section 37 (interpretation).
+
+## SCHEDULE 5 — Transitional provision to do with Part 1
+
+*Section 13*
+
+### PART 1 — Introduction
+
+#### Applications for registration etc made before commencement
+
+**1** The amendments made by Part 1 of this Act do not apply in relation to an application made before the commencement date (even if it is determined later).
+
+#### Meaning of “commencement date”
+
+**2** In this Schedule “commencement date” means the date appointed for sections 1 and 4 and Schedule 1 to come fully into force.
+
+#### Meaning of “new application for registration” and “successful” new application
+
+**3** (1) For the purposes of this Schedule, a person (“P”) makes a “new application for registration” in a register maintained by a registration officer in Great Britain if—
+
+(a) an application for registration in the register under section 10ZC of the Representation of the People Act 1983 is made in respect of P, or
+
+(b) an application for alteration of the register under section 10ZD of that Act is made in respect of P.
+
+(2) For the purposes of this Schedule, a new application for registration is “successful”—
+
+(a) in the case of an application within sub-paragraph (1)(a), if the officer determines that P is to be entered in the register (or that P would be entered in the register had P not already been registered);
+
+(b) in the case of an application within sub-paragraph (1)(b), if the officer determines that P's entry in the register is to be altered.
+
+#### Checking of old entries and meaning of “confirmation” of entitlement to remain registered
+
+**4** (1) The Minister may by order require a registration officer in Great Britain to take specified steps to check whether each person who has an entry in a register maintained by the officer is entitled to remain registered.
+
+(2) For the purposes of this Schedule a person's entitlement to remain registered has been “confirmed” if, having taken steps in accordance with an order under sub-paragraph (1), the registration officer is satisfied that there is evidence of a kind specified in the order to support the person's entitlement to be registered.
+
+(3) An order under this paragraph may make further provision about checking or confirming a person's entitlement to remain registered, including—
+
+(a) provision of the kind mentioned in paragraph 1A or 13(1ZB) to (1ZD) of Schedule 2 to the Representation of the People Act 1983 (inserted by Schedule 2 to this Act);
+
+(b) provision requiring a registration officer to have regard to guidance given by the Minister (including guidance of the kind mentioned in section 1(4));
+
+(c) provision requiring a registration officer who has confirmed a person's entitlement, to notify that person in a specified manner and within a specified period;
+
+(d) provision requiring the notification to be accompanied by, or combined with, other documents.
+
+(4) Subsections (5) to (8) of section 53 of the Representation of the People Act 1983 (inserted by Schedule 2 to this Act) apply in relation to an order containing provision of the kind mentioned in sub-paragraph (3)(a) above as they apply in relation to the regulations mentioned in subsection (5) of that section.
+
+(5) Nothing in this paragraph requires a registration officer to take steps to check the entitlement of a person to remain registered in a register if—
+
+(a) the person's entry in the register was carried forward on the conclusion of the final old canvass (see paragraph 5(2)),
+
+(b) the person has made a successful new application for registration in the register, or
+
+(c) the person is a relevant person for the purposes of Part 5 or 6 of this Schedule.
+
+### PART 2 — Removal of existing registrations by end of the third new canvass
+
+#### Removal of certain existing registrations after the first new canvass
+
+**5** (1) A registration officer in Great Britain must, immediately before the publication of a register following the first new canvass, remove the entry of a person (“P”) if—
+
+(a) P's entry was carried forward on the conclusion of the final old canvass,
+
+(b) P has not made a new application for registration in the register, and
+
+(c) at the first new canvass, no canvass form has been completed and returned in respect of P and the address to which the entry relates.
+
+(2) For the purposes of sub-paragraph (1), P's entry on the register was carried forward on the conclusion of the final old canvass if—
+
+(a) P's entitlement to remain registered in the register terminated on the conclusion of the final old canvass by virtue of section 10A(5)(a) of the Representation of the People Act 1983, but
+
+(b) in accordance with regulations under section 10A(7) of that Act, P's entry was not removed from the register.
+
+(3) In this paragraph “the final old canvass” means the final canvass under section 10(1) of the Representation of the People Act 1983.
+
+#### Removal of existing registrations after the third new canvass
+
+**6** A registration officer in Great Britain must, immediately before the publication of a register following the third new canvass, remove the entry of any person who has neither—
+
+(a) had his or her entitlement to remain registered confirmed, nor
+
+(b) made a successful new application for registration in the register.
+
+#### This Part not to apply to persons within Part 5 or 6 below
+
+**7** In this Part of this Schedule, references to a person who has an entry in a register do not include a person who is a relevant person for the purposes of Part 5 or 6 of this Schedule.
+
+### PART 3 — Encouraging new applications
+
+#### Registration officers to invite applications in year of first new canvass from those with existing registrations
+
+**8** (1) A registration officer in Great Britain must, within a prescribed period, give an invitation to make a new application for registration in a register maintained by the officer to each person who—
+
+(a) has an entry in the register but has not had his or her entitlement to remain registered confirmed, and
+
+(b) has not made a new application for registration.
+
+(2) But the officer need not give an invitation at a time when the officer has reason to believe, from records available to the officer, that the person is no longer resident at the address to which the entry relates.
+
+(3) The period prescribed for the purposes of this paragraph must begin in the year in which the first new canvass begins.
+
+#### Powers to delay canvasses and timing of canvasses
+
+**9** (1) The Minister may by order—
+
+(a) postpone any canvass to be conducted under section 10(1) of the Representation of the People Act 1983;
+
+(b) make provision about the period during which canvass forms to be used for the purpose of such a canvass are to be given.
+
+(2) The Minister may by order postpone the first new canvass.
+
+(3) Any canvass forms to be used by a registration officer for the purpose of the first new canvass must be given within the period prescribed for the purposes of paragraph 8.
+
+(4) The Minister may by order make provision about the period during which any canvass forms to be used for the purpose of the second new canvass are to be given.
+
+(5) A registration officer is not required, before the commencement date, to do anything for the purpose of conducting any canvass under section 10(1) of the Representation of the People Act 1983 by reference to residence on the 15 October after the commencement date.
+
+(6) An order under sub-paragraph (1) or (2) postponing a canvass must specify the period during which it is to be conducted; and the period must not end later than the 1 April after it begins.
+
+(7) An order under sub-paragraph (1) or (2) postponing a canvass does not postpone or remove a duty to conduct any other canvass.
+
+#### Canvass forms need not be supplied to addresses to which invitations supplied
+
+**10** (1) At the first new canvass, a registration officer is not required to supply a canvass form to an address if the officer thinks that it is unnecessary to do so and—
+
+(a) the officer has given a person an invitation under paragraph 8 in respect of the address,
+
+(b) the officer has given a person an invitation under section 9E of the Representation of the People Act 1983 in respect of the address, or
+
+(c) a person is registered in respect of the address in a register maintained by the officer and the person's entitlement to remain registered in the register has been confirmed.
+
+(2) In deciding whether it is necessary to supply a canvass form to an address the registration officer must, in particular, consider whether supplying the canvass form is likely to result in the officer finding out about people residing at the address whom the officer might not otherwise find out about.
+
+#### Registration officers to invite applications in year of second new canvass from those with existing registrations
+
+**11** (1) A registration officer in Great Britain must, on or as soon as reasonably practicable after the relevant date, give a person an invitation to make a new application for registration in a register maintained by the officer if the person—
+
+(a) has an entry in the register but has not had his or her entitlement to remain registered confirmed, and
+
+(b) has not made a successful new application for registration in the register.
+
+(2) “The relevant date” means whichever of the following comes first—
+
+(a) the date on which, at the second new canvass, a canvass form is completed and returned in respect of the address to which the person's entry in the register relates;
+
+(b) the date on which it appears to the officer that, at the second new canvass, no canvass form will be completed and returned in respect of that address;
+
+(c) 31 October in the year of the second new canvass.
+
+(3) But the officer need not give an invitation at a time when—
+
+(a) the officer has reason to believe, from records available to the officer, that the person is no longer resident at that address, or
+
+(b) the person has made a new application for registration which has not been determined.
+
+#### Invitations under paragraph 8 or 11 and power to require application following invitation
+
+**12** The Minister may by order make provision in connection with invitations under paragraph 8 or 11, including provision of the kind mentioned in—
+
+(a) section 9E(2) and (3) of the Representation of the People Act 1983, or
+
+(b) paragraph 3C(2) of Schedule 2 to that Act.
+
+**13** (1) A registration officer who gives a person an invitation under paragraph 8 or 11 may subsequently require the person to make an application for registration by a specified date.
+
+(2) A requirement under sub-paragraph (1) is of no effect if the person is not entitled to be registered.
+
+(3) The Minister may by order make provision of the kind mentioned in section 9E(6) of the Representation of the People Act 1983 in connection with requirements under sub-paragraph (1).
+
+(4) A registration officer may impose a civil penalty on a person who fails to comply with a requirement imposed by the officer under sub-paragraph (1).
+
+(5) The Minister—
+
+(a) must by order make provision of the kind mentioned in paragraphs 2 and 3 of Schedule ZA1 to the Representation of the People Act 1983 in connection with a civil penalty under sub-paragraph (4), and
+
+(b) may by order make any other provision of the kind mentioned in that Schedule in connection with a civil penalty under that sub-paragraph.
+
+(6) A civil penalty under sub-paragraph (4) received by a registration officer is to be paid into the Consolidated Fund.
+
+#### Power to require additional information on poll cards at 2014 European Parliamentary election
+
+**14** Regulations under section 7(1) of the European Parliamentary Elections Act 2002 may include provision for the purpose of requiring a poll card to be used at the 2014 European Parliamentary general election to include information relating to changes made by Part 1 of this Act.
+
+#### Certain provisions of this Part not to apply to persons within Part 5 or 6 below
+
+**15** In this Part of this Schedule, references to a person who has an entry in a register do not include a person who is a relevant person for the purposes of Part 5 or 6 of this Schedule.
+
+### PART 4 — Absent voting
+
+#### Applicant for absent vote must have made successful new application for registration or had registration confirmed
+
+**16** (1) For the purposes of an absent voting application made on or after the commencement date, a person is to be regarded as registered in a register in Great Britain only if the person—
+
+(a) was registered in the register immediately before the commencement date and has had his or her entitlement to remain registered confirmed, or
+
+(b) has made a successful new application for registration.
+
+(2) “Absent voting application” means an application under paragraph 3(1) or (2) or 4(1) or (2) of Schedule 4 to the Representation of the People Act 2000.
+
+(3) This paragraph does not apply in relation to a person who is a relevant person for the purposes of Part 5 or 6 of this Schedule.
+
+#### Entitlement to absent vote ceases after first new canvass if no successful new application for registration or confirmation of registration
+
+**17** (1) Sub-paragraph (2) applies if, on the day on which a registration officer in Great Britain publishes a register following the first new canvass—
+
+(a) a person is shown in the absent voters' record as the result of an application made in reliance on the person's registration in the register, and
+
+(b) the person was registered in the register immediately before the commencement date and has not had his or her entitlement to remain registered confirmed or made a successful new application for registration in the register.
+
+(2) The officer must remove the person's entry from the absent voters' record so far as the entry concerns elections of the kind to which the register relates.
+
+(3) “Absent voters' record” means the record kept under paragraph 3 of Schedule 4 to the Representation of the People Act 2000.
+
+(4) Sub-paragraph (5) applies if, on the day on which a registration officer in Great Britain publishes a register following the first new canvass—
+
+(a) a person is shown in an absent voters' list as the result of an application made in reliance on the person's registration in the register, and
+
+(b) the person was registered in the register immediately before the commencement date and has not had his or her entitlement to remain registered confirmed or made a successful new application for registration in the register.
+
+(5) The officer must remove the person's entry from the absent voters' list.
+
+(6) “Absent voters' list” means the list mentioned in paragraph 5(2) or (3) of Schedule 4 to the Representation of the People Act 2000.
+
+(7) If a registration officer removes a person's entry from an absent voters' record or list, the officer must—
+
+(a) notify the person in the prescribed manner, and
+
+(b) take any other prescribed steps.
+
+(8) This paragraph does not apply in relation to a person who is a relevant person for the purposes of Part 5 or 6 of this Schedule.
+
+#### Proxies to have made successful new application for registration or had registration confirmed
+
+**18** A person is to be regarded as registered in a register in Great Britain for the purposes of paragraph 6(3) or (3A) of Schedule 4 to the Representation of the People Act 2000 (as substituted by section 3 of this Act) only if the person—
+
+(a) was registered in the register immediately before the commencement date and has had his or her entitlement to remain registered confirmed, or
+
+(b) has made a successful new application for registration.
+
+#### Proxy for existing absent voter need not have made successful new application for registration or had registration confirmed until after first new canvass
+
+**19** (1) The amendment made by section 3 (read with paragraph 18 above) does not apply in relation to a proxy appointment for an existing absent voter (or the proxy's entitlement to vote) until the registration officer who made the appointment publishes the relevant register following the first new canvass.
+
+(2) In this paragraph—
+
+(a) “proxy appointment” means an appointment of a person as proxy under paragraph 6(7) or (8) of Schedule 4 to the Representation of the People Act 2000 (whether made before, on or after the commencement date);
+
+(b) “existing absent voter”, in relation to a proxy appointment, means a person whose absent voting application was made before the commencement date;
+
+(c) “absent voting application” means the application under paragraph 3(2) or 4(2) or (3) of Schedule 4 to the Representation of the People Act 2000 by virtue of which the proxy appointment is made;
+
+(d) “relevant register” means the register in which the existing absent voter is registered and which relates to elections of the same kind as those to which the proxy appointment relates.
+
+(3) If a proxy appointment ceases to be in force because sub-paragraph (1) ceases to preserve it, the officer must—
+
+(a) notify the proxy and the existing absent voter in the prescribed manner, and
+
+(b) take any other prescribed steps.
+
+(4) This paragraph does not apply in relation to an existing absent voter who is a relevant person for the purposes of Part 5 or 6 of this Schedule.
+
+### PART 5 — Persons with existing registrations by virtue of declarations etc
+
+#### Meaning of “relevant person”
+
+**20** (1) In this Part of this Schedule “relevant person” means a person who falls within sub-paragraph (2) or (3).
+
+(2) A person falls within this sub-paragraph if the person—
+
+(a) is for the time being registered in a register in pursuance of a declaration of local connection, a service declaration or an overseas elector's declaration, and
+
+(b) has been registered in pursuance of a declaration of that kind since immediately before the commencement date.
+
+(3) A person falls within this sub-paragraph if the person—
+
+(a) has for the time being an anonymous entry in a register, and
+
+(b) has had such an entry since immediately before the commencement date.
+
+#### Relevant person's first renewal of registration after 3-month transitional period: successful new application required
+
+**21** (1) On the first occasion after the transitional period on which a relevant person's entry in a register comes up for renewal, the person is not entitled to remain registered unless the person has made a successful new application for registration (in addition to complying with any other requirements).
+
+(2) “Transitional period” means the period of 3 months beginning with the commencement date.
+
+(3) For the purposes of this paragraph, a relevant person's entry in a register comes up for renewal when an event mentioned in the applicable provision occurs in relation to that entry.
+
+(4) “The applicable provision” means—
+
+(a) section 7C(2) or 15(2) of the Representation of the People Act 1983 or section 2(2) of the Representation of the People Act 1985, or
+
+(b) section 9C(1) of the Representation of the People Act 1983;
+
+(as applicable).
+
+#### Application for absent vote before first renewal of registration after 3-month transitional period: relevant person need not have made successful new application for registration
+
+**22** (1) An absent voting application made by a relevant person on or after the commencement date is not to be refused merely because the person has not made a successful new application for registration (but see paragraph 21).
+
+(2) “Absent voting application” means an application under paragraph 3(1) or (2) or 4(1) or (2) of Schedule 4 to the Representation of the People Act 2000.
+
+#### Proxy for relevant person need not have made successful new application for registration until relevant person's first successful new application for registration
+
+**23** (1) The amendment made by section 3 of this Act (read with paragraph 18 above) does not apply in relation to a proxy appointment for a relevant person (or the proxy's entitlement to vote) until the first occasion on which the relevant person makes a successful new application for registration in the relevant register.
+
+(2) In this paragraph—
+
+(a) “proxy appointment” means an appointment of a person as proxy under paragraph 6(7) or (8) of Schedule 4 to the Representation of the People Act 2000 (whether made before, on or after the commencement date);
+
+(b) “relevant register” means the register which relates to elections of the same kind as those to which the proxy appointment relates.
+
+(3) If a proxy appointment ceases to be in force because sub-paragraph (1) ceases to preserve it, the officer must—
+
+(a) notify the proxy and the relevant person in the prescribed manner, and
+
+(b) take any other prescribed steps.
+
+### PART 6 — Persons with existing registrations by virtue of section 7(2) or 7A(2) of the Representation of the People Act 1983
+
+#### Meaning of “relevant person”
+
+**24** In this Part of this Schedule “relevant person” means a person who—
+
+(a) is for the time being registered in a register by virtue of an application made under section 7(2) or 7A(2) of the Representation of the People Act 1983, and
+
+(ab) has been registered by virtue of an application of that kind since immediately before the commencement date.
+
+#### Amendments not to apply to application made by relevant person before first renewal of registration after 3-month transitional period
+
+**25** (1) The amendments made by Part 1 of this Act do not apply to an application made by a relevant person by virtue of section 7(4) or 7A(4) of the Representation of the People Act 1983 in relation to a case where the person's entry in a register comes up for renewal during the transitional period.
+
+(2) “Transitional period” means the period of 3 months beginning with the commencement date.
+
+(3) For the purposes of this paragraph, a relevant person's entry in a register comes up for renewal when an event mentioned in section 7(3) or 7A(3) of the Representation of the People Act 1983 occurs in relation to that entry.
+
+#### Application for absent vote before first renewal of registration after 3-month transitional period: relevant person need not have made successful new application for registration
+
+**26** (1) An absent voting application made by a relevant person on or after the commencement date is not to be refused merely because the person has not made a successful new application for registration (but see paragraph 25).
+
+(2) “Absent voting application” means an application under paragraph 3(1) or (2) or 4(1) or (2) of Schedule 4 to the Representation of the People Act 2000.
+
+#### Proxy for relevant person need not have made successful new application for registration until relevant person's first successful new application for registration
+
+**27** (1) The amendment made by section 3 of this Act (read with paragraph 18 above) does not apply in relation to a proxy appointment for a relevant person (or the proxy's entitlement to vote) until the first occasion on which the relevant person makes a successful new application for registration in the relevant register.
+
+(2) In this paragraph—
+
+(a) “proxy appointment” means an appointment of a person as proxy under paragraph 6(7) or (8) of Schedule 4 to the Representation of the People Act 2000 (whether made before, on or after the commencement date);
+
+(b) “relevant register” means the register which relates to elections of the same kind as those to which the proxy appointment relates.
+
+(3) If a proxy appointment ceases to be in force because sub-paragraph (1) ceases to preserve it, the officer must—
+
+(a) notify the proxy and the relevant person in the prescribed manner, and
+
+(b) take any other prescribed steps.
+
+### PART 7 — Supplementary
+
+#### Power to bring forward effect of paragraph 6
+
+**28** (1) The Minister may by order provide for paragraph 6 to have effect as if the reference to the third new canvass were a reference to the second new canvass.
+
+(2) An order under sub-paragraph (1) may be made only in the period of 3 months beginning with 1 June in the year in which the second new canvass begins.
+
+(3) A statutory instrument containing provision under sub-paragraph (1) only is subject to annulment in pursuance of a resolution of either House of Parliament (and section 11(2) does not apply to it).
+
+#### Power to make supplementary provision
+
+**29** The Minister may by order make provision for supplementing, or provision incidental to, the provision made by this Schedule.
+
+#### Interpretation of this Schedule
+
+**30** (1) In this Schedule—
+
+- “the first new canvass” means the first canvass under section 9D of the Representation of the People Act 1983;
+- “prescribed” means prescribed by order made by the Minister;
+- “the second new canvass” means the second canvass under section 9D of the Representation of the People Act 1983;
+- “the third new canvass” means the third canvass under section 9D of the Representation of the People Act 1983.
+
+(2) In this Schedule references to publication of a register are to publication of the revised version of the register under section 13(1)(a) of the Representation of the People Act 1983.
+
+(3) In this Schedule—
+
+(a) references to a person who is registered in a register immediately before the commencement date include a person who becomes registered in the register on or after that date as the result of an application made before that date;
+
+(b) references to a person who has an anonymous entry in a register immediately before the commencement date include a person whose anonymous entry is made in the register on or after that date as the result of an application made before that date.
+
+(4) For the purposes of this Schedule a document may be given to a person—
+
+(a) by delivering it to the person,
+
+(b) by leaving it at the person's address, or
+
+(c) by sending it to the person by post.
+
+(5) The Representation of the People Act 1983 and this Schedule are to have effect as if this Schedule were contained in Part 1 of that Act.
+
+(6) References in an enactment other than one contained in this Schedule or the Representation of the People Act 1983 to Part 1 of that Act include a reference to this Schedule.
+
+---
+
+[^F1]: S. 1(3)(4) cease to have effect at the end of the period of 5 years beginning with the day on which they come fully into force. S. 1 was brought into force on 10.6.2014 for E.W. and 19.9.2014 for S. by S.I. 2014/414, art. 5(a) and on 15.9.2014 for N.I. by S.I. 2014/2439, art. 2(a)
+[^F2]: S. 6 omitted (14.12.2020) by virtue of Parliamentary Constituencies Act 2020 (c. 25), s. 14(2), Sch. para. 11 (with s. 13(2))
+[^F3]: Words in s. 7(1) substituted (8.12.2021) by The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265), art. 1(2), Sch. 2 para. 23(2)(a) (with art. 12)
+[^F4]: Words in s. 7(2) substituted (8.12.2021) by The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265), art. 1(2), Sch. 2 para. 23(2)(a) (with art. 12)
+[^F5]: S. 7(2A) inserted (W.) (10.9.2024) by Elections and Elected Bodies (Wales) Act 2024 (asc 5), s. 72(1)(a), Sch. 1 para. 5(2)
+[^F6]: Words in s. 8(1) substituted (8.12.2021) by The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265), art. 1(2), Sch. 2 para. 23(2)(b) (with art. 12)
+[^F7]: Words in s. 8(3) substituted (8.12.2021) by The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265), art. 1(2), Sch. 2 para. 23(2)(b) (with art. 12)
+[^F8]: Words in s. 8(4) substituted (8.12.2021) by The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265), art. 1(2), Sch. 2 para. 23(2)(b) (with art. 12)
+[^F9]: Words in s. 9(3) substituted (8.12.2021) by The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265), art. 1(2), Sch. 2 para. 23(2)(c) (with art. 12)
+[^F10]: Words in s. 9(7) substituted (8.12.2021) by The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265), art. 1(2), Sch. 2 para. 23(2)(c) (with art. 12)
+[^F11]: Words in s. 9(9) substituted (8.12.2021) by The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265), art. 1(2), Sch. 2 para. 23(2)(c) (with art. 12)
+[^F12]: Words in s. 10(1) substituted (8.12.2021) by The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265), art. 1(2), Sch. 2 para. 23(2)(d) (with art. 12)
+[^F13]: S. 10(1A) inserted (W.) (10.9.2024) by Elections and Elected Bodies (Wales) Act 2024 (asc 5), s. 72(1)(a), Sch. 1 para. 5(3)
+[^F14]: Words in s. 10(4) substituted (8.12.2021) by The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265), art. 1(2), Sch. 2 para. 23(2)(d) (with art. 12)
+[^F15]: Words in s. 12 inserted (W.) (10.9.2024) by Elections and Elected Bodies (Wales) Act 2024 (asc 5), s. 72(1)(a), Sch. 1 para. 5(4)
+[^F16]: Words in s. 13(3) substituted (28.4.2022) by The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500), regs. 1(2), 5(1), Sch. Pt. 1
+[^F17]: Words in s. 13(3) substituted (7.2.2023 at 12.00 p.m.) by The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149), regs. 1(2), 2(1), Sch. Pt. 1
+[^F18]: S. 14(1) omitted (24.3.2022) by virtue of Dissolution and Calling of Parliament Act 2022 (c. 11), s. 6(3), Sch. para. 22
+[^F19]: S. 25 omitted (8.12.2021) by virtue of The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265), art. 1(2), Sch. 2 para. 23(3) (with art. 12)
+[^F20]: Words in s. 27(1) substituted (8.12.2021) by The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265), art. 1(2), Sch. 2 para. 23(4) (with art. 12)
+[^F21]: Words in s. 27(10) substituted (8.12.2021) by The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265), art. 1(2), Sch. 2 para. 23(4) (with art. 12)
+[^F22]: Sch. 1 para. 2(1)(2) ceases to have effect (10.6.2014 for E.W., 15.9.2014 for N.I., 19.9.2014 for S.) by virtue of Electoral Registration and Administration Act 2013 (c. 6), s. 27(1), Sch. 1 para. 2(3) (with Sch. 5); S.I. 2014/414, art. 5(k); S.I. 2014/2439, art. 2(j)
+[^F23]: Sch. 4 para. 9(4)(b) repealed (15.9.2014) by The Anonymous Registration (Northern Ireland) Order 2014 (S.I. 2014/1116), arts. 1(1), 4
+[^F24]: Sch. 4 para. 10(5) repealed (15.9.2014) by The Anonymous Registration (Northern Ireland) Order 2014 (S.I. 2014/1116), arts. 1(1), 4
+[^F25]: Sch. 4 para. 20(4) repealed (27.8.2022) by Elections Act 2022 (c. 37), s. 67(1), Sch. 2 para. 14(c); S.I. 2022/916, art. 2(e)
+[^F26]: Sch. 4 para. 21 and cross-heading repealed (16.1.2024) by Elections Act 2022 (c. 37), s. 67(1), Sch. 7 para. 11(d) (with Sch. 7 para. 13); S.I. 2023/1405, reg. 2

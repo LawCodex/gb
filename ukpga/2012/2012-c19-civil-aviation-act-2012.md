@@ -1,0 +1,5866 @@
+---
+title: "Civil Aviation Act 2012"
+identifier: "ukpga/2012/19"
+citation: "2012 c. 19"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S+N.I."
+date: 2012-12-19
+last_amended: 2026-04-06
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/2012/19"
+source_modified: 2026-05-05
+retrieved: 2026-10-11
+---
+
+# Civil Aviation Act 2012
+
+**2012 c. 19**
+
+An Act to make provision about the regulation of operators of dominant airports; to confer functions on the Civil Aviation Authority under competition legislation in relation to services provided at airports; to make provision about aviation security; to make provision about the regulation of provision of flight accommodation; to make further provision about the Civil Aviation Authority's membership, administration and functions in relation to enforcement, regulatory burdens and the provision of information relating to aviation; and for connected purposes.
+
+[19th December 2012]
+
+Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## PART 1 — Airports
+
+### CHAPTER 1 — Regulation of operators of dominant airports
+
+#### General duties
+
+##### 1 CAA's general duty
+
+(1) The CAA must carry out its functions under this Chapter in a manner which it considers will further the interests of users of air transport services regarding the range, availability, continuity, cost and quality of airport operation services.
+
+(2) The CAA must do so, where appropriate, by carrying out the functions in a manner which it considers will promote competition in the provision of airport operation services.
+
+(3) In performing its duties under subsections (1) and (2) the CAA must have regard to—
+
+(a) the need to secure that each holder of a licence under this Chapter is able to finance its provision of airport operation services in the area for which the licence is granted,
+
+(b) the need to secure that all reasonable demands for airport operation services are met,
+
+(c) the need to promote economy and efficiency on the part of each holder of a licence under this Chapter in its provision of airport operation services at the airport to which the licence relates,
+
+(d) the need to secure that each holder of a licence under this Chapter is able to take reasonable measures to reduce, control or mitigate the adverse environmental effects of the airport to which the licence relates, facilities used or intended to be used in connection with that airport (“associated facilities”) and aircraft using that airport,
+
+(e) any guidance issued to the CAA by the Secretary of State for the purposes of this Chapter,
+
+(f) any international obligation of the United Kingdom notified to the CAA by the Secretary of State for the purposes of this Chapter, and
+
+(g) the principles in subsection (4).
+
+(4) Those principles are that—
+
+(a) regulatory activities should be carried out in a way which is transparent, accountable, proportionate and consistent, and
+
+(b) regulatory activities should be targeted only at cases in which action is needed.
+
+(5) If, in a particular case, the CAA considers that there is a conflict—
+
+(a) between the interests of different classes of user of air transport services, or
+
+(b) between the interests of users of air transport services in different matters mentioned in subsection (1),
+
+its duty under subsection (1) is to carry out the functions in a manner which it considers will further such of those interests as it thinks best.
+
+(6) For the purposes of subsection (3)(d) the environmental effects of the airport, associated facilities and aircraft include—
+
+(a) substances, energy, noise, vibration or waste, including emissions, discharges and other releases into the environment,
+
+(b) visual or other disturbance to the public,
+
+(c) effects from works carried out at the airport or the associated facilities or to extend the airport or the associated facilities, and
+
+(d) effects from services provided at the airport or the associated facilities.
+
+(7) Section 4 of the Civil Aviation Act 1982 (CAA's general objectives) does not apply in relation to the carrying out by the CAA of its functions under this Chapter.
+
+##### 2 Secretary of State's general duty
+
+(1) The Secretary of State must carry out the functions listed in subsection (3) in a manner which the Secretary of State considers will further the interests of users of air transport services regarding the range, availability, continuity, cost and quality of airport operation services.
+
+(2) The Secretary of State must do so, where appropriate, by carrying out the functions in a manner which the Secretary of State considers will promote competition in the provision of airport operation services.
+
+(3) Those functions are—
+
+(a) the Secretary of State's functions under this Chapter, and
+
+(b) the Secretary of State's functions under Chapter 3, other than the functions under sections 66(3) and 68(6).
+
+(4) In performing the duties under subsections (1) and (2) the Secretary of State must have regard to—
+
+(a) the need to secure that each holder of a licence under this Chapter is able to finance its provision of airport operation services in the area for which the licence is granted,
+
+(b) the need to secure that all reasonable demands for airport operation services are met,
+
+(c) the need to promote economy and efficiency on the part of each holder of a licence under this Chapter in its provision of airport operation services at the airport to which the licence relates,
+
+(d) the need to secure that each holder of a licence under this Chapter is able to take reasonable measures to reduce, control or mitigate the adverse environmental effects of the airport to which the licence relates, facilities used or intended to be used in connection with that airport (“associated facilities”) and aircraft using that airport, and
+
+(e) the principles in subsection (5).
+
+(5) Those principles are that—
+
+(a) regulatory activities should be carried out in a way which is transparent, accountable, proportionate and consistent, and
+
+(b) regulatory activities should be targeted only at cases in which action is needed.
+
+(6) If, in a particular case, the Secretary of State considers that there is a conflict—
+
+(a) between the interests of different classes of user of air transport services, or
+
+(b) between the interests of users of air transport services in different matters mentioned in subsection (1),
+
+the duty under subsection (1) is to carry out the functions in a manner which the Secretary of State considers will further such of those interests as the Secretary of State thinks best.
+
+(7) For the purposes of subsection (4)(d) the environmental effects of the airport, associated facilities and aircraft include the effects mentioned in section 1(6).
+
+#### Prohibition
+
+##### 3 Prohibition
+
+(1) Subsection (2) applies where for a period—
+
+(a) a person (“P”) is the operator of an airport area (“area A”) that is a dominant area or part of a dominant area,
+
+(b) area A is located at a dominant airport, and
+
+(c) P does not have a licence in respect of area A.
+
+(2) The persons mentioned in subsection (3) may not require a person to pay a relevant charge in respect of airport operation services that are provided during that period in—
+
+(a) area A, or
+
+(b) any other area that forms part of the same airport and in respect of which P is the operator and does not have a licence.
+
+(3) Those persons are—
+
+(a) P,
+
+(b) a person who is connected to P,
+
+(c) a person to whom P or a person connected to P has assigned the right to require payment of the charge, and
+
+(d) a person acting on behalf of a person within paragraph (a), (b) or (c).
+
+(4) If a person requires payment of charges in contravention of subsection (2)—
+
+(a) the charge is not recoverable by the person, and
+
+(b) if paid, the charge is recoverable from the person.
+
+(5) A charge is not irrecoverable under subsection (4)(a) or recoverable under subsection (4)(b) by reason of—
+
+(a) the invalidity of a market power determination (and the consequent continuation in effect of a previous market power determination), or
+
+(b) the invalidity of an operator determination,
+
+if it is a charge in respect of services provided before invalidity is finally determined in legal proceedings.
+
+(6) Subsection (5) applies—
+
+(a) whether or not the charge is required to be paid before the final determination of invalidity, and
+
+(b) whether or not the charge is paid before that determination.
+
+(7) The CAA may enforce subsection (2) in civil proceedings for an injunction or, in Scotland, an interdict.
+
+(8) In this section “relevant charge” means any charge other than—
+
+(a) a penalty payable by virtue of section 38C of the Civil Aviation Act 1982 (breaches of noise control schemes),
+
+(b) a penalty payable by virtue of section 78A of the Civil Aviation Act 1982 (penalty schemes established by managers of aerodromes), or
+
+(c) a charge payable by virtue of section 73 of the Transport Act 2000 (charges for chargeable air services).
+
+##### 4 Prohibition: exemption
+
+(1) This section applies if a person who is the operator of an airport area (“area A”) on a day on which area A becomes a dominant area located at a dominant airport, or part of such an area, does not have a licence in respect of area A on that day.
+
+(2) For the purposes of section 3, the person is to be treated as having a licence in respect of area A during the preliminary period.
+
+(3) The preliminary period begins for area A on the day mentioned in subsection (1).
+
+(4) The preliminary period ends for area A when one of the following occurs—
+
+(a) a licence is granted to the person in respect of area A or an area that includes all of area A;
+
+(b) the CAA publishes a notice of its decision to refuse to grant a licence to the person in respect of area A;
+
+(c) the person ceases to be the operator of area A;
+
+(d) area A ceases to be a dominant area or part of a dominant area;
+
+(e) the airport at which area A is located ceases to be a dominant airport.
+
+(5) If subsection (4)(a), (b), (c) or (d) is satisfied in relation to a part of area A, the preliminary period ends for that part of the area.
+
+#### Dominant airports
+
+##### 5 Dominant areas and dominant airports
+
+(1) For the purposes of this Part, an airport area is dominant if the CAA has—
+
+(a) made a determination that the market power test is met in relation to the area (see section 6), and
+
+(b) published a notice of the determination.
+
+(2) For the purposes of this Part, an airport is dominant if all or part of its core area is a dominant area or part of a dominant area.
+
+(3) In this Part—
+
+- “airport area” means an area that consists of or forms part of an airport;
+- “area” includes an area of land, a building or other structure and a part of a building or other structure.
+
+(4) In this Part “core area”, in relation to an airport, means—
+
+(a) the land, buildings and other structures used for the purposes of the landing, taking off, manoeuvring, parking and servicing of aircraft at the airport,
+
+(b) the passenger terminals, and
+
+(c) the cargo processing areas,
+
+(subject to regulations under section 66).
+
+(5) In subsection (1) the reference to a determination does not include a determination that has ceased to have effect (see section 7(9) and (10)).
+
+##### 6 Market power test
+
+(1) The market power test is met in relation to an airport area if tests A to C are met by or in relation to the relevant operator.
+
+(2) For the purposes of tests A to C “the relevant operator” means the person who is the operator of the airport area at the time the test is applied.
+
+(3) Test A is that the relevant operator has, or is likely to acquire, substantial market power in a market, either alone or taken with such other persons as the CAA considers appropriate (but see subsections (6) and (7)).
+
+(4) Test B is that competition law does not provide sufficient protection against the risk that the relevant operator may engage in conduct that amounts to an abuse of that substantial market power.
+
+(5) Test C is that, for users of air transport services, the benefits of regulating the relevant operator by means of a licence are likely to outweigh the adverse effects.
+
+(6) Test A is met only if—
+
+(a) the market is a market for one or more of the types of airport operation service provided in the airport area (or for services that include one or more of those types of service), and
+
+(b) geographically the market consists of or includes all or part of the airport area.
+
+(7) In relation to an airport area that includes all or part of the core area of an airport (as well as all or part of the rest of the airport), subsection (6) has effect as if the references to the airport area were references to the core area or, as appropriate, the part of the core area.
+
+(8) For the purposes of test B conduct may, in particular, amount to an abuse of substantial market power if it is conduct described in section 18(2)(a) to (d) of the Competition Act 1998.
+
+(9) In test B “competition law” means—
+
+[^F1]a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) Part 1 of the Competition Act 1998, and
+
+(c) Part 4 of the Enterprise Act 2002 (market investigations).
+
+(10) In applying tests A to C, the CAA must have regard to—
+
+[^F2]a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) relevant advice and information published under section 52 of the Competition Act 1998 (advice and information about the application and enforcement of the prohibitions in Part 1 of that Act [^F3]...);
+
+(c) relevant advice and information published under section 171 of the Enterprise Act 2002 (advice and information about the operation of Part 4 of that Act).
+
+[^F4]11 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### 7 Market power determinations
+
+(1) The CAA may make a determination that the market power test is or is not met in relation to an airport area (a “market power determination”) whenever it considers it appropriate to do so.
+
+(2) The CAA must make a market power determination in respect of an airport area if—
+
+(a) it is asked to do so by a person listed in subsection (3),
+
+(b) the area is located at an airport that is a large airport at the time the request is made, and
+
+(c) the area consists of or includes all or part of the core area of the airport.
+
+(3) Those persons are—
+
+(a) the operator of the airport area, and
+
+(b) any other person whose interests are likely to be materially affected by the determination.
+
+(4) For the purposes of subsection (2)(b), an airport is a large airport during a calendar year if, in the previous calendar year, the number of passenger movements at the airport exceeded 5 million.
+
+(5) Subsection (2) does not apply if—
+
+(a) the CAA has previously made a market power determination in respect of the airport area (or an area that includes all of the airport area), and
+
+(b) it considers that there has not been a material change of circumstances since that determination.
+
+(6) The CAA may treat a request under subsection (2) in respect of an airport area (“area A”) as if it were—
+
+(a) a number of requests in respect of a number of airport areas that consist of or include different parts of area A, or
+
+(b) a request in respect of an area that includes all of area A.
+
+(7) When choosing an airport area that is to be the subject of a market power determination, the CAA must have regard to the market or markets that are relevant for the purposes of test A (see section 6(3)).
+
+(8) The CAA may, in particular—
+
+(a) make separate market power determinations in respect of different areas which are located at the same airport and have the same relevant operator (within the meaning of section 6(2));
+
+(b) make a market power determination in respect of an airport area that consists of two or more areas that are not adjacent if the areas are located at the same airport.
+
+(9) A market power determination in respect of an airport area ceases to have effect if the CAA publishes a notice of a further market power determination in respect of the airport area or in respect of an area that includes all of the airport area.
+
+(10) Where the CAA—
+
+(a) publishes a notice of a market power determination in respect of an airport area (“determination A”), and
+
+(b) subsequently publishes a notice of a market power determination in respect of part of the airport area or in respect of an area that includes part of the airport area,
+
+determination A ceases to have effect in relation to that part (but continues to have effect in relation to the rest of the airport area).
+
+(11) In this section “passenger movements” has the same meaning as in Directive 2009/12/EC of the European Parliament and of the Council of 11 March 2009 on airport charges.
+
+##### 8 Publication of market power determinations
+
+(1) As soon as practicable after making a market power determination the CAA must—
+
+(a) publish a notice of the determination, and
+
+(b) send a copy of the notice to each person listed in subsection (2).
+
+(2) Those persons are—
+
+(a) the operator of the airport area that is the subject of the determination,
+
+(b) if the CAA was required by section 7(2) to make the determination, any other person who requested the determination, and
+
+(c) such bodies representing airport operators or providers of air transport services as the CAA considers appropriate.
+
+(3) If the notice does not include the CAA's reasons for the determination, the CAA must as soon as practicable after publishing the notice—
+
+(a) publish its reasons, and
+
+(b) send a copy of them to each person listed in subsection (2).
+
+##### 9 Operators of areas
+
+(1) For the purposes of this Part, a person is the operator of an airport area if the person has overall responsibility for the management of all of the area.
+
+(2) The Secretary of State may by regulations make provision about when a person is or is not to be treated for the purposes of this Part as having overall responsibility for the management of an airport area.
+
+(3) The regulations may, in particular, make provision for determining which person has overall responsibility for the management of an airport area where more than one person controls or may control the matters listed in subsection (4) to some extent.
+
+(4) Those matters are—
+
+(a) the types of services that are or may be provided in the area,
+
+(b) the prices that are or may be charged for services provided in the area,
+
+(c) the quality of services provided in the area,
+
+(d) access to the area, and
+
+(e) the development of the area.
+
+(5) The regulations have effect subject to operator determinations by the CAA under section 10.
+
+##### 10 Operator determinations
+
+(1) The CAA may determine whether, in a particular case, a person has overall responsibility for the management of an airport area.
+
+(2) A determination under subsection (1) is an “operator determination” for the purposes of this Part if the CAA states in the determination that it is made for the purposes of this section.
+
+(3) If the CAA publishes a notice of an operator determination in respect of a person, the person is to be treated for the purposes of this Part as having or not having overall responsibility for the management of the airport area in accordance with the determination until the CAA publishes a notice withdrawing it.
+
+(4) When making an operator determination in respect of a person, the CAA must have regard, in particular, to—
+
+(a) regulations under section 9, and
+
+(b) the extent to which the person controls or may control the matters listed in section 9(4).
+
+(5) The CAA must make an operator determination in respect of a person and an area that consists of or forms part of a dominant airport if it is asked to do so by the person.
+
+(6) Subsection (5) does not apply if—
+
+(a) the CAA has previously made an operator determination to the effect that the person requesting the determination does or does not have overall responsibility for the management of the airport area,
+
+(b) it has not published a notice withdrawing that determination, and
+
+(c) it considers that there has not been a material change of circumstances since that determination.
+
+(7) Subsection (5) does not apply if the CAA considers that it is possible to ascertain whether the person has overall responsibility for the management of the area from—
+
+(a) information that is in the public domain, and
+
+(b) information that is in the person's custody or under the person's control.
+
+(8) The CAA may treat a request under subsection (5) in respect of an airport area (“area A”) as if it were—
+
+(a) a number of requests in respect of a number of airport areas that consist of or include different parts of area A, or
+
+(b) a request in respect of an area that includes all of area A.
+
+##### 11 Publication of operator determinations
+
+(1) As soon as practicable after making an operator determination the CAA must—
+
+(a) publish a notice of the determination, and
+
+(b) send a copy of the notice to each person listed in subsection (2).
+
+(2) Those persons are—
+
+(a) the person in respect of whom the determination was made, and
+
+(b) such bodies representing airport operators or providers of air transport services as the CAA considers appropriate.
+
+(3) The notice of the determination must include the statement under section 10(2).
+
+(4) As soon as practicable after withdrawing an operator determination the CAA must—
+
+(a) publish a notice of the withdrawal, and
+
+(b) send a copy of the notice to each person listed in subsection (2).
+
+(5) If a notice under subsection (1) or (4) does not include the CAA's reasons for the determination or withdrawal, the CAA must as soon as practicable after publishing the notice—
+
+(a) publish its reasons, and
+
+(b) send a copy of them to each person listed in subsection (2).
+
+##### 12 Advance determinations
+
+(1) The CAA may make a market power determination or an operator determination based entirely or partly on circumstances that have not arisen at the time the determination is made.
+
+(2) The CAA must specify the circumstances in the determination.
+
+(3) The CAA may make a determination in reliance on subsection (1) only if it considers that the specified circumstances are likely to arise.
+
+(4) Sections 8 and 11 do not require the CAA to publish or send a copy of a notice of a determination made in reliance on subsection (1), or reasons for such a determination, at a time when—
+
+(a) the circumstances specified in the determination have not arisen, and
+
+(b) it considers that doing so would involve disclosing commercially sensitive information.
+
+(5) If a notice of a market power determination made in reliance on subsection (1) is published before the circumstances specified in the determination arise—
+
+(a) an airport area or airport is not dominant by virtue of the determination until those circumstances arise, and
+
+(b) a previous market power determination which would otherwise cease to have effect by virtue of section 7(9) or (10) continues to have effect until those circumstances arise.
+
+(6) If a notice of an operator determination made in reliance on subsection (1) is published before the circumstances specified in the determination arise, a person is not to be treated as having or not having overall responsibility for the management of an airport area by virtue of the determination until those circumstances arise.
+
+##### 13 Appeals against determinations
+
+Schedule 1 (appeals against determinations) has effect.
+
+#### Licences
+
+##### 14 Application for licence
+
+(1) An application for a licence—
+
+(a) must be made in the specified form and manner,
+
+(b) must contain or be accompanied by the specified information, and
+
+(c) must be published by the applicant in the specified form and manner and within a period notified to the applicant by the CAA.
+
+(2) On an application made and published in accordance with subsection (1), the CAA must—
+
+(a) grant the licence (see section 15), or
+
+(b) refuse to grant the licence (see section 16),
+
+unless the application is withdrawn.
+
+(3) Subsection (4) applies if a person who is the operator of an airport area (“area A”) on a day on which area A becomes a dominant area located at a dominant airport, or part of such an area, does not have a licence in respect of area A on that day.
+
+(4) The person is to be treated as having made and published an application for such a licence in accordance with subsection (1).
+
+(5) In subsection (1) “specified” means specified by the CAA.
+
+(6) The CAA must publish a copy of the matters specified for the purposes of subsection (1).
+
+##### 15 Granting licence
+
+(1) Before granting a licence the CAA must—
+
+(a) publish a notice in relation to the proposed licence,
+
+(b) send a copy of the notice to the persons listed in subsection (2), and
+
+(c) consider any representations about the proposal to grant the licence, including the proposed conditions, that are made in the period specified in the notice (and not withdrawn).
+
+(2) Those persons are—
+
+(a) the applicant for the licence, and
+
+(b) such bodies representing airport operators or providers of air transport services as the CAA considers appropriate.
+
+(3) A notice under subsection (1) must—
+
+(a) state that the CAA proposes to grant the licence to the applicant,
+
+(b) specify the airport area for which it is to be granted,
+
+(c) specify the airport at which the area is located,
+
+(d) specify the conditions proposed to be included in the licence,
+
+(e) give the CAA's reasons for the proposed conditions, and
+
+(f) specify a reasonable period for making representations.
+
+(4) The CAA may withdraw a notice under subsection (1) at any time.
+
+(5) If, after complying with subsections (1) to (3), the CAA decides to grant the licence, it must—
+
+(a) publish a copy of the licence and a notice in relation to the licence, and
+
+(b) send a copy of the licence and the notice to the persons listed in subsection (2).
+
+(6) The CAA is not to be treated as having complied with subsections (1) to (3) in relation to a licence granted to an applicant for an area if the conditions included in the licence when it is granted differ significantly from the conditions proposed in the notice under subsection (1) relating to the applicant and the area (or, if more than one, the latest such notice).
+
+(7) A notice under subsection (5) must—
+
+(a) specify the date from which the licence comes into force (subject to subsection (9)),
+
+(b) give the CAA's reasons for the conditions included in the licence,
+
+(c) state how it has taken account of any representations made in the period specified in the notice under subsection (1), and
+
+(d) state the reason for any differences between the conditions included in the licence and those proposed in the notice under subsection (1).
+
+(8) The date specified under subsection (7)(a) must be a date falling after the end of the period of 6 weeks beginning with the day on which the notice under subsection (5) was published.
+
+(9) If the CAA grants a licence to a person in respect of an airport area at a time when the person is not the operator of any part of the area, the licence does not come into force until the person becomes the operator of all or part of the area.
+
+##### 16 Refusing to grant licence
+
+(1) The CAA may refuse to grant a licence for an airport area if—
+
+(a) the CAA considers that the applicant is not the operator of the area and is not likely to become the operator of the area,
+
+(b) the area is not a dominant area (or part of a dominant area) and the CAA considers that it is not likely to become a dominant area (or part of a dominant area),
+
+(c) the airport at which the area is located is not a dominant airport and the CAA considers that it is not likely to become a dominant airport,
+
+(d) the applicant is a person falling within subsection (2), or
+
+(e) the applicant is connected to a person falling within subsection (2).
+
+(2) A person falls within this subsection if—
+
+(a) the person has previously held a licence in respect of the airport area that is the subject of the application or an area that included all or part of that airport area, and
+
+(b) the licence was revoked in accordance with a relevant provision of the licence.
+
+(3) For the purposes of subsection (2)(b) a provision is a relevant provision of the licence if it states that revocation of the licence entirely or partly in reliance on that provision is relevant for the purposes of this section.
+
+(4) Before refusing to grant a licence, the CAA must—
+
+(a) publish a notice in relation to the proposed refusal,
+
+(b) send a copy of the notice to the persons listed in subsection (5), and
+
+(c) consider any representations about the proposed refusal that are made in the period specified in the notice (and not withdrawn).
+
+(5) Those persons are—
+
+(a) the applicant for the licence, and
+
+(b) such bodies representing airport operators or providers of air transport services as the CAA considers appropriate.
+
+(6) A notice under subsection (4) must—
+
+(a) state that the CAA proposes to refuse to grant the licence,
+
+(b) specify the airport area in respect of which the application was made,
+
+(c) specify the airport at which the area is located, and
+
+(d) give the CAA's reasons for the proposed refusal.
+
+(7) The period specified in the notice must be a period of not less than 30 days beginning with the day on which the notice is published.
+
+(8) The CAA may withdraw a notice under subsection (4) at any time.
+
+(9) If, after complying with subsections (4) to (7), the CAA decides to refuse to grant the licence, it must—
+
+(a) publish a notice of its decision, and
+
+(b) send a copy of the notice to the persons listed in subsection (5).
+
+(10) A notice under subsection (9) must—
+
+(a) specify the airport area in respect of which the application was made,
+
+(b) specify the airport at which the area is located, and
+
+(c) give the CAA's reasons for the refusal.
+
+##### 17 Content and effect of licence
+
+(1) A licence must include provision specifying—
+
+(a) the airport area for which it is granted, and
+
+(b) the airport at which the area is located.
+
+(2) The specified area may consist of two or more separate areas if they form part of the same airport.
+
+(3) References in this Part to licence conditions do not include provision mentioned in subsection (1).
+
+(4) A licence must—
+
+(a) include provision about the circumstances in which it may be revoked by the CAA, and
+
+(b) provide that it may be revoked only in accordance with section 48.
+
+(5) References in this Part to licence conditions include provision mentioned in subsection (4), except in section 21(6).
+
+(6) A licence continues in force until it is revoked in accordance with its provisions.
+
+(7) A licence is not valid unless it is in writing.
+
+(8) A licence is not transferable.
+
+#### Licence conditions
+
+##### 18 Licence conditions
+
+(1) A licence may include—
+
+(a) such conditions as the CAA considers necessary or expedient having regard to the risk that the holder of the licence may engage in conduct that amounts to an abuse of substantial market power in a market for airport operation services (or for services that include airport operation services), and
+
+(b) such other conditions as the CAA considers necessary or expedient having regard to the CAA's duties under section 1.
+
+(2) For the purposes of this section conduct may, in particular, amount to an abuse of substantial market power if it is conduct described in section 18(2)(a) to (d) of the Competition Act 1998.
+
+##### 19 Price control conditions
+
+(1) For the purposes of this Part a licence condition is a price control condition to the extent that it regulates prices by—
+
+(a) providing that the amount, or the maximum amount, that may be charged is an amount specified in, or determined in accordance with, the condition, or
+
+(b) requiring the amount, or maximum amount, that may be charged to be approved by the CAA.
+
+(2) A licence must include such price control conditions as the CAA considers necessary or expedient having regard to the risk referred to in section 18(1)(a).
+
+(3) The duty in subsection (2) has effect subject to—
+
+(a) the provision in this Chapter about the conditions that may be included in the licence,
+
+(b) the provision in this Chapter about granting licences, and
+
+(c) the provision in this Chapter and in the licence about modifying licence conditions.
+
+(4) Subsection (5) applies where the CAA considers that the holder (“H”) of a licence for an airport area engaged in conduct amounting to an abuse of substantial market power by directly or indirectly imposing unfairly high charges in respect of activities carried on in the airport area during—
+
+(a) a period during which H was treated as having a licence in respect of the area by virtue of section 4;
+
+(b) a period during which H would have been so treated but for the suspension of a market power determination or operator determination under Schedule 1.
+
+(5) The licence may include such price control conditions as the CAA considers appropriate for the purpose of depriving the holder of the licence of an amount not exceeding the amount which the CAA considers was earned from the abuse during that period.
+
+(6) A price control condition may make provision—
+
+(a) by reference to the amount charged for particular goods or services;
+
+(b) by reference to the overall amount charged for a range of goods or services.
+
+(7) A licence that includes a price control condition must include conditions specifying a period or periods for which the price control condition has effect.
+
+##### 20 Conditions relating to CAA charges
+
+(1) A licence may include conditions requiring the payment to the CAA of charges determined under a scheme or regulations made under section 11 of the Civil Aviation Act 1982 in respect of the carrying out of the CAA's functions under this Chapter.
+
+(2) Such conditions may require the payment of charges on the grant of the licence or while it continues in force (or both).
+
+(3) The inclusion of such conditions does not prevent the CAA recovering charges mentioned in subsection (1) as a debt due to it.
+
+##### 21 Content and effect of licence conditions
+
+(1) Licence conditions may, in particular, include—
+
+(a) provision for a condition to have effect or to cease to have effect at times or in circumstances specified in, or determined in accordance with, a condition,
+
+(b) provision requiring the holder of the licence to enter into a contract or other arrangement for a purpose specified in a condition and on terms specified in, or determined in accordance with, a condition,
+
+(c) provision requiring the holder of the licence to comply with requirements imposed (by directions or otherwise) by a specified person,
+
+(d) provision requiring the holder of the licence to do or not to do things specified, or of a description specified, in the licence unless a specified person consents to its not doing or doing those things,
+
+(e) provision requiring the holder of the licence to refer a matter to a specified person for approval or determination, and
+
+(f) provision relating to activities carried on outside the airport area for which the licence is granted.
+
+(2) In subsection (1) the references to a specified person are to—
+
+(a) a person specified, or of a description specified, in a condition for the purpose concerned, and
+
+(b) a person nominated for the purpose concerned by a person within paragraph (a).
+
+(3) A licence condition may include provision for its modification only if it specifies or describes—
+
+(a) the circumstances in which it may be modified,
+
+(b) the types of modification that may be made, and
+
+(c) the period or periods in which it may be modified.
+
+(4) If a licence condition includes such provision, it may be modified in accordance with that provision or in accordance with the provision made by this Chapter about modifying licence conditions.
+
+(5) Where a licence condition is subject to an exception (however expressed) relating to, or operating by reference to, financial arrangements entered into by the holder of the licence, or a person connected to the holder of the licence, before section 3 came into force, the licence may not—
+
+(a) provide for the exception to cease to have effect at times or in circumstances specified in, or determined in accordance with, a licence condition, or
+
+(b) provide for the CAA to determine which financial arrangements benefit from the exception.
+
+(6) A licence condition does not have effect at a time when—
+
+(a) the holder of the licence is not the operator of any part of the airport area for which the licence is granted, or
+
+(b) that airport area is not a dominant area located at a dominant airport (or part of such an area) and does not include all or part of such an area,
+
+and provision included in a licence under subsection (1)(a) has effect subject to this subsection.
+
+#### Modifying licences
+
+##### 22 Modifying licence conditions and licence area
+
+(1) The CAA may modify a licence by modifying—
+
+(a) the licence conditions, or
+
+(b) the area for which the licence is granted,
+
+subject to section 23.
+
+(2) Before modifying a licence in reliance on this section, the CAA must—
+
+(a) publish a notice in relation to the proposed modification,
+
+(b) send a copy of the notice to the persons listed in subsection (3), and
+
+(c) consider any representations about the proposed modification that are made in the period specified in the notice (and not withdrawn).
+
+(3) Those persons are—
+
+(a) the holder of the licence, and
+
+(b) such bodies representing airport operators or providers of air transport services as the CAA considers appropriate.
+
+(4) The notice under subsection (2) must—
+
+(a) state that the CAA proposes to modify the licence,
+
+(b) specify the proposed modification,
+
+(c) give the CAA's reasons for the proposed modification,
+
+(d) state the effect of the proposed modification, and
+
+(e) specify a reasonable period for making representations.
+
+(5) If, after publishing the notice under subsection (2), the CAA decides not to modify the licence in reliance on this section, the CAA must—
+
+(a) publish a notice, giving its reasons, and
+
+(b) send a copy of the notice to the persons listed in subsection (3).
+
+(6) If, after complying with subsections (2) to (4) in relation to a modification, the CAA decides to modify the licence in reliance on this section, the CAA must—
+
+(a) publish a notice in relation to the modification, and
+
+(b) send a copy of the notice to the persons listed in subsection (3).
+
+(7) The CAA is not to be treated as having complied with subsections (2) to (4) in relation to a modification of a licence if the modification differs significantly from the modification proposed in the notice under subsection (2).
+
+(8) The notice under subsection (6) must—
+
+(a) specify the modification,
+
+(b) specify the date from which the modification has effect (subject to paragraphs 7, 8 and 12 to 14 of Schedule 2),
+
+(c) give the CAA's reasons for the modification,
+
+(d) state the effect of the modification,
+
+(e) state how it has taken account of any representations made in the period specified in the notice under subsection (2), and
+
+(f) state the reason for any differences between the modifications and those set out in the notice given under subsection (2).
+
+(9) In the case of a modification of a licence condition, the date specified under subsection (8)(b) must fall after the end of the period of 6 weeks beginning with the day on which the notice under subsection (6) was published (subject to paragraph 21(2) of Schedule 2).
+
+##### 23 Restriction on power to modify
+
+(1) This section applies where—
+
+(a) a licence condition is subject to an exception (however expressed) relating to, or operating by reference to, financial arrangements specified or described in the licence,
+
+(b) the financial arrangements were entered into by the holder of the licence, or a person connected to the holder of the licence, before section 3 came into force, and
+
+(c) the CAA proposes to modify the licence by removing or restricting the exception.
+
+(2) The CAA may not make such a modification unless it has determined that—
+
+(a) there has been a material change of circumstances since the day on which the exception was included in the licence condition, and
+
+(b) for users of air transport services, the benefits of the modification are likely to outweigh any adverse effects.
+
+(3) On or before the day on which it publishes a notice under section 22(2) in respect of a proposal to make such a modification, the CAA must—
+
+(a) publish a notice of its determination under subsection (2) of this section, giving its reasons for the determination, and
+
+(b) send a copy of the notice to the persons listed in subsection (4).
+
+(4) Those persons are—
+
+(a) the holder of the licence, and
+
+(b) such bodies representing airport operators or providers of transport services as the CAA considers appropriate.
+
+(5) For the purposes of subsection (1)(b), financial arrangements entered into after section 3 came into force but pursuant to other financial arrangements entered into by the holder of the licence, or a person connected to the holder of the licence, before that time are to be treated as entered into before that time.
+
+(6) In subsection (2) “material change of circumstances” includes a material change in the terms of the financial arrangements.
+
+#### Appeals against licence conditions etc
+
+##### 24 Appeal to [[^F5] Competition and Markets Authority ]: conditions of new licences
+
+(1) An appeal lies to the [[^F6] Competition and Markets Authority ] against a decision by the CAA under section 15 to include, or not to include, a condition in a licence when it is granted.
+
+(2) An appeal may be brought under this section only by—
+
+(a) the holder of the licence, or
+
+(b) a provider of air transport services whose interests are materially affected by the decision.
+
+(3) An appeal may be brought under this section only with the permission of the [[^F6] Competition and Markets Authority ].
+
+(4) An application for permission to appeal under this section may be made only by a person who, if permission is granted, will be entitled to bring the appeal.
+
+(5) The [[^F7] Competition and Markets Authority ] may refuse permission to appeal under this section only on one of the following grounds—
+
+(a) that the appeal is brought for reasons that are trivial or vexatious, or
+
+(b) that the appeal does not have a reasonable prospect of success.
+
+##### 25 Appeal to [[^F8] Competition and Markets Authority ]: modification of licence conditions
+
+(1) An appeal lies to the [[^F9] Competition and Markets Authority ] against a decision by the CAA to modify a licence condition under section 22.
+
+(2) An appeal may be brought under this section only by—
+
+(a) the holder of the licence, or
+
+(b) a provider of air transport services whose interests are materially affected by the decision.
+
+(3) An appeal may be brought under this section only with the permission of the [[^F10] Competition and Markets Authority ].
+
+(4) An application for permission to appeal under this section may be made only by a person who, if permission is granted, will be entitled to bring the appeal.
+
+(5) The [[^F11] Competition and Markets Authority ] may refuse permission to appeal under this section only on one of the following grounds—
+
+(a) that the appeal is brought for reasons that are trivial or vexatious,
+
+(b) that the appeal does not have a reasonable prospect of success, or
+
+(c) that subsection (6) is satisfied.
+
+(6) This subsection is satisfied if the appeal is brought—
+
+(a) against a decision that relates entirely to a matter remitted to the CAA following an earlier appeal under section 24 or this section, and
+
+(b) on grounds that were considered, or could have been raised by the current applicant or a relevant connected person, as part of the earlier appeal.
+
+(7) In subsection (6), in relation to an applicant, “relevant connected person” means a person who was connected to the applicant at any time during the consideration of the earlier appeal by the [[^F12] Competition and Markets Authority ].
+
+##### 26 When appeals may be allowed
+
+The [[^F13] Competition and Markets Authority ] may allow an appeal under section 24 or 25 only to the extent that it is satisfied that the decision appealed against was wrong on one or more of the following grounds—
+
+(a) that the decision was based on an error of fact;
+
+(b) that the decision was wrong in law;
+
+(c) that an error was made in the exercise of a discretion.
+
+##### 27 Determination of appeal
+
+(1) Where it does not allow an appeal under section 24 or 25, the [[^F14] Competition and Markets Authority ] must confirm the decision appealed against.
+
+(2) Where it allows an appeal under section 24 or 25, the [[^F15] Competition and Markets Authority ] must do one or more of the following—
+
+(a) quash the decision appealed against;
+
+(b) remit the matter that is the subject of the decision appealed against to the CAA for reconsideration and decision in accordance with this Chapter and any directions given by [[^F16] the Competition and Markets Authority ];
+
+(c) substitute its own decision for that of the CAA.
+
+(3) Where it allows only part of an appeal under section 24 or 25—
+
+(a) subsection (2) applies in relation to the part of the decision appealed against in respect of which the appeal is allowed, and
+
+(b) subsection (1) applies in relation to the rest of that decision.
+
+(4) Where the [[^F17] Competition and Markets Authority ] substitutes its own decision for that of the CAA, [[^F18] the Competition and Markets Authority ] may give directions to—
+
+(a) the CAA, and
+
+(b) the holder of the licence.
+
+(5) The [[^F19] Competition and Markets Authority ] must not give a direction under this section that requires a person to do anything that the person would not have power to do apart from the direction.
+
+(6) A person to whom a direction is given under this section must comply with it.
+
+(7) A direction given under this section to a person other than the CAA is enforceable—
+
+(a) in England and Wales and Northern Ireland, as if it were an order of the High Court, and
+
+(b) in Scotland, as if it were an order of the Court of Session.
+
+##### 28 Determination of appeal: time limits
+
+(1) The [[^F20] Competition and Markets Authority ] must determine an appeal under section 24 or 25 against a decision in respect of a licence within the period of 24 weeks beginning with the day on which the CAA published the relevant notice, subject to subsections (3) to (6).
+
+(2) In subsection (1) “the relevant notice” means—
+
+(a) in the case of an appeal under section 24, the notice published in accordance with section 15 of the decision to grant the licence, and
+
+(b) in the case of an appeal under section 25, the notice published in accordance with section 22 of the decision that is the subject of the appeal.
+
+(3) The [[^F21] Competition and Markets Authority ] may extend the appeal period by not more than 8 weeks if it is satisfied that there are good reasons for doing so.
+
+(4) The [[^F22] Competition and Markets Authority ] may only extend the appeal period once in reliance on subsection (3).
+
+(5) The [[^F23] Competition and Markets Authority ] may extend the appeal period by such period as it considers appropriate if—
+
+(a) there is an appeal to the Competition Appeal Tribunal under this Chapter which [[^F24] the Competition and Markets Authority ] considers may be relevant to the appeal under section 24 or 25, and
+
+(b) the appeal to the Tribunal has not been determined or withdrawn.
+
+(6) The [[^F25] Competition and Markets Authority ] may extend the appeal period more than once in reliance on subsection (5).
+
+(7) If the [[^F25] Competition and Markets Authority ] extends the appeal period it must—
+
+(a) publish a notice stating the new time limit for determining the appeal, and
+
+(b) send a copy of the notice to the persons listed in subsection (8).
+
+(8) Those persons are—
+
+(a) the holder of the licence which is the subject of the appeal,
+
+(b) if the appeal was brought by someone other than the holder of that licence, the appellant,
+
+(c) any other person with a qualifying interest in the decision that is the subject of the appeal (see paragraph 35(4) of Schedule 2),
+
+(d) such bodies representing airport operators or providers of air transport services as the [[^F25] Competition and Markets Authority ] considers appropriate, and
+
+(e) the CAA.
+
+(9) The Secretary of State may by regulations modify the periods of time specified in this section.
+
+(10) In this section “the appeal period”, in relation to an appeal under section 24 or 25, means the period allowed for determining the appeal.
+
+##### 29 Determination of appeal: publication etc
+
+(1) A determination made by the [[^F26] Competition and Markets Authority ] on an appeal under section 24 or 25—
+
+(a) must be contained in an order made by [[^F27] the Competition and Markets Authority ], and
+
+(b) takes effect at the time specified in the order or determined in accordance with the order.
+
+(2) The order must set out the reasons for the determination.
+
+(3) The [[^F28] Competition and Markets Authority ] must—
+
+(a) publish the order as soon as practicable after the determination is made, and
+
+(b) send a copy of the order to the persons listed in subsection (4).
+
+(4) Those persons are—
+
+(a) the holder of the licence which is the subject of the appeal,
+
+(b) if the appeal was brought by someone other than the holder of that licence, the appellant,
+
+(c) any other person with a qualifying interest in the decision that is the subject of the appeal (see paragraph 35(4) of Schedule 2),
+
+(d) such bodies representing airport operators or providers of air transport services as the [[^F28] Competition and Markets Authority ] considers appropriate, and
+
+(e) the CAA.
+
+(5) The [[^F29] Competition and Markets Authority ] may exclude from publication under subsection (3) any information which it is satisfied is—
+
+(a) commercial information, the disclosure of which would, or might in the [[^F30] opinion of the Competition and Markets Authority ], significantly harm the legitimate business interests of an undertaking to which it relates, or
+
+(b) information relating to the private affairs of an individual, the disclosure of which would, or might in the [[^F30] opinion of the Competition and Markets Authority ], significantly harm the individual's interests.
+
+(6) The CAA must take such steps as it considers requisite for it to comply with the order.
+
+(7) The steps must be taken—
+
+(a) if a time is specified in the order or is to be determined in accordance with the order, within that time, and
+
+(b) otherwise, within a reasonable time.
+
+##### 30 Procedure on appeals
+
+(1) Schedule 2 (appeals under sections 24 and 25) has effect.
+
+(2) In carrying out the functions listed in subsection (3) the [[^F31] Competition and Markets Authority] must have regard to the matters in respect of which duties are imposed on the CAA by section 1.
+
+(3) Those functions are—
+
+(a) deciding an application for permission to appeal under section 24 or 25,
+
+(b) deciding an application under Schedule 2 for permission to intervene in an appeal, and
+
+(c) determining an appeal under section 24 or 25, including taking decisions and giving directions described in section 27.
+
+[[^F32](4) Except where specified otherwise in Schedule 2, the functions of the Competition and Markets Authority with respect to an appeal under section 24 or 25 are to be carried out on behalf of the Competition and Markets Authority by a group constituted for the purpose, by the chair of the Competition and Markets Authority, under Schedule 4 to the Enterprise and Regulatory Reform Act 2013.]
+
+#### Enforcement of licence conditions
+
+##### 31 Contravention notice
+
+(1) The CAA may give a notice under this section (a “contravention notice”) to a person if it has reasonable grounds for believing that the person is contravening, or has contravened, a licence condition.
+
+(2) A contravention notice must—
+
+(a) specify the condition and contravention in respect of which it is given,
+
+(b) explain the action that the CAA may take under this Chapter in connection with the contravention, and
+
+(c) explain that representations may be made about the matters in the notice before the end of the period specified in the notice.
+
+(3) The CAA must specify a period of not less than 30 days beginning with the day on which the contravention notice is given, subject to subsection (4).
+
+(4) The CAA may specify a shorter period in a contravention notice given in respect of a repeated contravention.
+
+(5) A contravention notice is given to a person in respect of a repeated contravention if, in the period of 2 years ending with the day on which the notice is given, the CAA did one or more of the following in respect of a contravention by the person of the same condition—
+
+(a) gave the person a contravention notice;
+
+(b) gave the person an enforcement order;
+
+(c) gave the person an urgent enforcement order;
+
+(d) imposed a penalty on the person under section 39 or 40.
+
+(6) The CAA may extend the period specified in a contravention notice given to a person on one or more occasions by giving a notice to that person.
+
+(7) The CAA may withdraw a contravention notice given to a person at any time by giving a notice to the person that includes its reasons for doing so.
+
+(8) As soon as practicable after giving a notice under subsection (1), (6) or (7), the CAA must—
+
+(a) publish the notice, and
+
+(b) send a copy of the notice to such bodies representing airport operators or providers of air transport services as the CAA considers appropriate.
+
+(9) A contravention notice given in respect of a contravention that is or was a continuing contravention must specify the period of contravention in respect of which it is given.
+
+(10) In this Part “representation period”, in connection with a contravention notice, means—
+
+(a) the period specified in the contravention notice for making representations, or
+
+(b) where the period has been extended in accordance with subsection (6), the extended period.
+
+##### 32 Restrictions on giving contravention notices
+
+(1) If the CAA gives a person a contravention notice or an urgent enforcement order (see section 35) in respect of a contravention, it may not subsequently give the person a contravention notice in respect of the same contravention.
+
+(2) Subsection (1) does not apply if—
+
+(a) the CAA withdraws the first contravention notice without imposing a penalty on the person under section 39, or
+
+(b) the CAA revokes the urgent enforcement order without imposing a penalty on the person under section 40.
+
+(3) Subsection (1) does not prevent the CAA giving a person more than one contravention notice, or a contravention notice and an urgent enforcement order, in respect of—
+
+(a) contraventions of the same condition in different ways, or
+
+(b) contraventions of the same condition at different times or during different periods.
+
+##### 33 Enforcement order
+
+(1) The CAA may give an order under this section (an “enforcement order”) to a person if—
+
+(a) it has given the person a contravention notice (and has not withdrawn it),
+
+(b) the representation period has ended,
+
+(c) it has considered any representations made about the matters in the contravention notice before the end of that period (and not withdrawn), and
+
+(d) subsection (2) or (3) is satisfied.
+
+(2) This subsection is satisfied if the CAA has determined that the person is contravening a condition specified in the contravention notice in one or more of the ways specified in the notice.
+
+(3) This subsection is satisfied if the CAA has determined that the person—
+
+(a) has contravened a condition specified in the contravention notice in one or more of the ways specified in the notice, and
+
+(b) did not, before the end of the representation period, take all of the appropriate steps mentioned in subsection (6)(b).
+
+(4) An enforcement order must—
+
+(a) specify the condition and contravention in respect of which it is given,
+
+(b) require the person to take such of the appropriate steps as are specified in the order,
+
+(c) specify a reasonable period within which the steps must be taken, and
+
+(d) give the CAA's reasons for giving the order.
+
+(5) As soon as practicable after giving an enforcement order, the CAA must—
+
+(a) publish the order, and
+
+(b) send a copy of the order to such bodies representing airport operators or providers of air transport services as the CAA considers appropriate.
+
+(6) In this section “the appropriate steps”, in relation to a contravention of a condition, means the steps that the CAA has determined are appropriate—
+
+(a) for complying with the condition, and
+
+(b) for remedying the consequences of the contravention.
+
+##### 34 Enforcement order: modification and revocation
+
+(1) The CAA may—
+
+(a) modify an enforcement order with the agreement of the person to whom it was given, or
+
+(b) revoke an enforcement order.
+
+(2) Before modifying or revoking the order, the CAA must—
+
+(a) publish a notice in relation to the proposed modification or revocation,
+
+(b) send a copy of the notice to the person to whom the order was given, and
+
+(c) consider any representations made about the proposal in the period specified in the notice (and not withdrawn).
+
+(3) The notice under subsection (2) must—
+
+(a) state that the CAA proposes to modify or revoke the order,
+
+(b) specify the proposed modification (if relevant),
+
+(c) give the CAA's reasons for the modification or revocation, and
+
+(d) specify a reasonable period for making representations.
+
+(4) As soon as practicable after modifying or revoking an enforcement order, the CAA must—
+
+(a) publish a notice giving details of the modification or revocation, and
+
+(b) send a copy of the notice to the persons listed in subsection (5).
+
+(5) Those persons are—
+
+(a) the person to whom the enforcement order was given, and
+
+(b) such bodies representing airport operators or providers of air transport services as the CAA considers appropriate.
+
+##### 35 Urgent enforcement order
+
+(1) The CAA may give an order under this section (an “urgent enforcement order”) to a person if subsection (2) or (3) is satisfied.
+
+(2) This subsection is satisfied if the CAA has reasonable grounds for believing that—
+
+(a) the person is contravening, or has contravened, a licence condition,
+
+(b) the contravention has resulted in, or creates an immediate risk of, a serious economic or operational problem for users of air transport services, for a class of user of such services or for a relevant service provider, and
+
+(c) it is appropriate to give the urgent enforcement order to prevent, remove or reduce that problem or risk.
+
+(3) This subsection is satisfied if the CAA has reasonable grounds for believing that—
+
+(a) the person is likely to contravene a licence condition,
+
+(b) the contravention is likely to result in, or create an immediate risk of, a problem described in subsection (2)(b), and
+
+(c) it is appropriate to give the urgent enforcement order to prevent, or reduce the likelihood of, that problem or risk arising.
+
+(4) An urgent enforcement order must—
+
+(a) specify the condition and contravention in respect of which it is given,
+
+(b) require the person to take such of the appropriate steps as are specified in the order,
+
+(c) specify a reasonable period within which the steps must be taken, and
+
+(d) give the CAA's reasons for giving the order.
+
+(5) As soon as practicable after giving an urgent enforcement order, the CAA must—
+
+(a) publish the order, and
+
+(b) send a copy of the order to such bodies representing airport operators or providers of air transport services as the CAA considers appropriate.
+
+(6) In this section “the appropriate steps” means—
+
+(a) in relation to a contravention of a condition that has occurred or is occurring, the steps that the CAA has determined are appropriate—
+
+(i) for complying with the condition, and
+
+(ii) for remedying the consequences of the contravention, and
+
+(b) in relation to a contravention of a condition that is likely to occur, the steps that the CAA has determined are appropriate for securing that the contravention does not occur.
+
+(7) In this section “relevant service provider” means a person, other than the person to whom the urgent enforcement order is to be given, who provides services at the airport at which, or in connection with which, the contravention occurred, is occurring or is likely to occur.
+
+##### 36 Urgent enforcement order: confirmation
+
+(1) As soon as practicable after giving an urgent enforcement order, the CAA must—
+
+(a) confirm the order, or
+
+(b) revoke the order (see section 37).
+
+(2) The CAA may confirm an urgent enforcement order with or without modifications.
+
+(3) The CAA may confirm an urgent enforcement order given in reliance on section 35(2) only if it has determined that—
+
+(a) the person is contravening, or has contravened, a licence condition specified in the order in one or more of the ways specified in the order,
+
+(b) the contravention has resulted in, or creates an immediate risk of, a problem described in section 35(2)(b), and
+
+(c) it is appropriate to confirm the urgent enforcement order, with any modifications, to prevent, remove or reduce that problem or risk.
+
+(4) The CAA may confirm an urgent enforcement order given in reliance on section 35(3) only if it has determined—
+
+(a) that paragraphs (a) to (c) of subsection (3) of this section are satisfied, or
+
+(b) that—
+
+(i) the person is likely to contravene a licence condition specified in the order in one or more of the ways specified in the order,
+
+(ii) the contravention is likely to result in, or create an immediate risk of, a problem described in section 35(2)(b), and
+
+(iii) it is appropriate to confirm the urgent enforcement order, with any modifications, in order to prevent, or reduce the likelihood of, that problem or risk arising.
+
+(5) Before confirming an urgent enforcement order, the CAA must—
+
+(a) publish a notice in relation to the proposal to confirm the order,
+
+(b) send a copy of the notice to the person to whom the order was given, and
+
+(c) consider any representations made about the proposal in the period specified in the notice (and not withdrawn).
+
+(6) The notice under subsection (5) must—
+
+(a) state that the CAA proposes to confirm the order,
+
+(b) specify any proposed modifications of the order,
+
+(c) give the CAA's reasons for confirming the order and for any modifications, and
+
+(d) specify a reasonable period for making representations.
+
+(7) As soon as practicable after confirming an urgent enforcement order, the CAA must—
+
+(a) publish a notice giving details of the confirmation, including any modifications of the order, and
+
+(b) send a copy of the notice to the persons listed in subsection (8).
+
+(8) Those persons are—
+
+(a) the person to whom the urgent enforcement order was given, and
+
+(b) such bodies representing airport operators or providers of air transport services as the CAA considers appropriate.
+
+##### 37 Urgent enforcement order: modification and revocation
+
+(1) The CAA may—
+
+(a) modify an urgent enforcement order with the agreement of the person to whom it was given, or
+
+(b) revoke an urgent enforcement order.
+
+(2) Before modifying or revoking the order, the CAA must—
+
+(a) publish a notice in relation to the proposed modification or revocation,
+
+(b) send a copy of the notice to the person to whom the order was given, and
+
+(c) consider any representations made about the proposal in the period specified in the notice (and not withdrawn).
+
+(3) The notice under subsection (2) must—
+
+(a) state that the CAA proposes to modify or revoke the order,
+
+(b) specify the proposed modification (if relevant),
+
+(c) give the CAA's reasons for the modification or revocation, and
+
+(d) specify a reasonable period for making representations.
+
+(4) As soon as practicable after modifying or revoking an urgent enforcement order, the CAA must—
+
+(a) publish a notice giving details of the modification or revocation, and
+
+(b) send a copy of the notice to the persons listed in subsection (5).
+
+(5) Those persons are—
+
+(a) the person to whom the urgent enforcement order was given, and
+
+(b) such bodies representing airport operators or providers of air transport services as the CAA considers appropriate.
+
+(6) Nothing in this section restricts, or applies in relation to the exercise of, the CAA's power under section 36 to modify an urgent enforcement order when confirming the order.
+
+##### 38 Civil proceedings
+
+(1) A person who is given an enforcement order must comply with it (unless it is revoked).
+
+(2) The obligation to comply with an enforcement order is a duty owed to every person who may be affected by a contravention of a requirement of the order.
+
+(3) A person who is given an urgent enforcement order must comply with it, whether or not it has been confirmed (unless it is revoked).
+
+(4) The obligation to comply with an urgent enforcement order that has been confirmed is a duty owed to every person who may be affected by a contravention of a requirement of the order.
+
+(5) Where a duty is owed to a person under subsection (2) or (4), the following are actionable by the person—
+
+(a) a breach of the duty that causes the person to sustain loss or damage, and
+
+(b) an act that—
+
+(i) by inducing a breach of the duty or interfering with its performance, causes that person to sustain loss or damage, and
+
+(ii) is done entirely or partly for achieving that result.
+
+(6) In proceedings brought against a person (“P”) by virtue of subsection (5)(a), it is a defence for P to show that P took all reasonable steps and exercised all due diligence to avoid contravening the requirements of the order.
+
+(7) The CAA may enforce the duties under subsections (1) and (3) in—
+
+(a) civil proceedings for an injunction,
+
+(b) civil proceedings in Scotland for an interdict or for specific performance of a statutory duty under section 45 of the Court of Session Act 1988, or
+
+(c) civil proceedings for any other appropriate remedy or relief.
+
+(8) Enforcement of a duty under subsection (1) or (3) by the CAA does not prejudice any rights that a person may have by virtue of subsection (5).
+
+##### 39 Penalty for contravention of licence condition
+
+(1) The CAA may impose a penalty on a person if—
+
+(a) it has given the person a contravention notice (and has not withdrawn it),
+
+(b) the representation period has ended,
+
+(c) it has considered any representations made about the matters in the contravention notice before the end of that period (and not withdrawn), and
+
+(d) it has determined that the person is contravening, or has contravened, a licence condition specified in the notice in one or more of the ways specified in the notice.
+
+(2) If the contravention notice specifies more than one contravention, the CAA may impose a separate penalty under this section for each contravention.
+
+(3) If the contravention notice specifies more than one period of contravention, the CAA may impose a separate penalty under this section for each period.
+
+##### 40 Penalty for contravention of order
+
+The CAA may impose a penalty on a person if it has determined that the person is contravening, or has contravened, a requirement of—
+
+(a) an enforcement order, or
+
+(b) an urgent enforcement order that has been confirmed.
+
+##### 41 Procedure before imposing penalty
+
+(1) Before imposing a penalty on a person under section 39 or 40 the CAA must—
+
+(a) give the person a notice about the proposed penalty,
+
+(b) publish the notice as soon as practicable,
+
+(c) send a copy of the notice as soon as practicable to such bodies representing airport operators or providers of air transport services as the CAA considers appropriate, and
+
+(d) consider any representations made about the proposed penalty in the period specified in the notice (and not withdrawn).
+
+(2) A notice under subsection (1) must—
+
+(a) state that the CAA proposes to impose a penalty,
+
+(b) state the proposed amount of the penalty,
+
+(c) specify the relevant licence condition or requirement, and
+
+(d) specify the act or omission that the CAA has determined constitutes a contravention of the condition or requirement.
+
+(3) In the case of a penalty calculated entirely or partly by reference to a daily amount (see section 43(2)), a notice under subsection (1) must specify—
+
+(a) the day on which daily amounts would begin to accumulate, and
+
+(b) the day on which, or the circumstances in which, they would cease to accumulate.
+
+(4) The period specified in a notice under subsection (1) for making representations must be a period of not less than 21 days beginning with the day on which the notice is given to the person.
+
+(5) Before varying the proposed amount of the penalty, the CAA must—
+
+(a) give the person on whom the penalty is to be imposed a notice about the proposed variation,
+
+(b) publish the notice as soon as practicable,
+
+(c) send a copy of the notice as soon as practicable to such bodies representing airport operators or providers of air transport services as the CAA considers appropriate, and
+
+(d) consider any representations made about the proposed variation in the period specified in the notice (and not withdrawn).
+
+(6) In the case of a penalty calculated entirely or partly by reference to a daily amount (see section 43(2)), the reference in subsection (5) to varying the proposed amount of the penalty includes varying—
+
+(a) the day on which daily amounts would begin to accumulate, and
+
+(b) the day on which, or circumstances in which, they would cease to accumulate.
+
+(7) The notice under subsection (5) must—
+
+(a) specify the proposed variation, and
+
+(b) give the CAA's reasons for the proposed variation.
+
+(8) The period specified in the notice under subsection (5) for making representations must be a period of not less than 21 days beginning with the day on which the notice is given to the person.
+
+(9) The CAA may withdraw a notice under subsection (1) or (5) at any time by giving notice to the person on whom it proposed to impose the penalty.
+
+(10) As soon as practicable after giving a notice under subsection (9), the CAA must—
+
+(a) publish the notice, and
+
+(b) send a copy of the notice to such bodies representing airport operators or providers of air transport services as the CAA considers appropriate.
+
+##### 42 Procedure after imposing penalty
+
+(1) As soon as practicable after imposing a penalty under section 39 or 40 the CAA must—
+
+(a) give a notice to the person on whom the penalty is imposed,
+
+(b) publish the notice, and
+
+(c) send a copy of the notice to such bodies representing airport operators or providers of air transport services as the CAA considers appropriate.
+
+(2) The notice must—
+
+(a) state that the CAA has imposed the penalty,
+
+(b) state the amount of the penalty,
+
+(c) specify the relevant licence condition or requirement,
+
+(d) specify the act or omission that the CAA has determined constitutes a contravention of the condition or requirement, and
+
+(e) specify a reasonable period within which the penalty must be paid or reasonable periods within which different portions of the penalty must be paid.
+
+(3) In the case of a penalty calculated entirely or partly by reference to a daily amount (see section 43(2)), the notice must specify—
+
+(a) the day on which daily amounts begin to accumulate, and
+
+(b) the day on which, or the circumstances in which, they cease to accumulate.
+
+(4) As soon as practicable after daily amounts cease to accumulate, the CAA must—
+
+(a) give a notice to the person on whom the penalty was imposed confirming the day on which they ceased to accumulate,
+
+(b) publish the notice, and
+
+(c) send a copy of the notice to such bodies representing airport operators or providers of air transport services as the CAA considers appropriate.
+
+##### 43 Amount of penalty
+
+(1) The amount of a penalty imposed on a person under section 39 or 40 must be such amount as the CAA determines to be—
+
+(a) appropriate, and
+
+(b) proportionate to the contravention for which it is imposed.
+
+(2) The penalty may consist of either or both of the following—
+
+(a) a fixed amount (see section 44);
+
+(b) a daily amount (see section 45).
+
+(3) In determining the amount of a penalty, the CAA must have regard, in particular, to—
+
+(a) any representations made to it in a period specified in a notice proposing the penalty given under section 41(1) or (5) (and not withdrawn),
+
+(b) any steps taken by the person on whom the penalty is to be imposed towards complying with the licence condition or requirement specified in the notice under section 41(1), and
+
+(c) any steps taken by that person towards remedying the consequences of the contravention of the condition or requirement.
+
+##### 44 Amount of penalty: fixed amount
+
+(1) A penalty imposed on a person (“P”) under section 39 or 40 for a contravention may not consist of or include a fixed amount exceeding 10% of P's qualifying turnover for the qualifying period.
+
+(2) P's qualifying turnover is—
+
+(a) P's turnover from activities carried on at the airport at which, or in connection with which, the contravention occurred or is occurring (“the qualifying airport”), and
+
+(b) the turnover of persons connected to P from such activities.
+
+(3) The qualifying period is the last regulatory year ending on or before the day on which the notice proposing the penalty is given under section 41(1) (“the notice day”), except in the cases described in subsection (4).
+
+(4) Those cases are—
+
+(a) where P was not the operator of an area at the qualifying airport throughout the last regulatory year that ends on or before the notice day;
+
+(b) where there is no regulatory year or the last regulatory year ended more than 12 months before the notice day;
+
+(c) where P has not provided the CAA with accounts prepared in accordance with the licence for the last regulatory year that ends on or before the notice day.
+
+(5) In those cases—
+
+(a) if P was the operator of an area at the qualifying airport on the notice day, the qualifying period is the year ending with the notice day (or, if shorter, the period ending with the notice day during which P was the operator of such an area), and
+
+(b) if P was not the operator of such an area on the notice day, the qualifying period is the year ending with the last day before the notice day on which P was the operator of such an area (or, if shorter, the period ending with that day during which P was the operator of such an area).
+
+(6) P's qualifying turnover for a qualifying period is to be taken to be the qualifying turnover for that period as reported in accounts which P is required to prepare by a licence condition, unless regulations under subsection (7) provide otherwise.
+
+(7) The Secretary of State may by regulations—
+
+(a) amend or otherwise modify the definition of qualifying turnover, and
+
+(b) make provision about how a person's qualifying turnover for a qualifying period is to be calculated.
+
+(8) The regulations may, in particular—
+
+(a) make provision about cases in which turnover is or is not to be treated as qualifying turnover for a qualifying period,
+
+(b) provide that a person's qualifying turnover for a qualifying period is to be taken to be the qualifying turnover reported in accounts specified or described in the regulations, and
+
+(c) provide that a person's qualifying turnover is to be calculated entirely or partly using accounting rules specified or described in the regulations.
+
+(9) In this section “regulatory year” means a year for which P was required to prepare accounts by a licence condition in respect of an area at the qualifying airport.
+
+##### 45 Amount of penalty: daily amounts
+
+(1) In relation to a penalty under section 39 or 40, a daily amount is an amount payable where the contravention in respect of which the penalty is imposed continues after it is imposed.
+
+(2) A penalty under section 39 may not consist of or include a daily amount unless that contravention has been continuous since the end of the representation period for the contravention notice in which the contravention was specified.
+
+(3) A daily amount must not exceed 0.1% of the person's qualifying turnover for the qualifying period.
+
+(4) A daily amount is payable in respect of each day in a period specified by the CAA in the notice under section 42 stating that it has imposed the penalty.
+
+(5) A specified period during which daily amounts accumulate must be such period as the CAA considers appropriate, subject to subsections (6) and (7).
+
+(6) The period must begin after the day on which the CAA gives the notice under section 42.
+
+(7) The period must end before—
+
+(a) the day on which the contravention specified in the notice under section 42 ceases, or
+
+(b) if more than one contravention is specified in that notice, the day on which the last of those contraventions ceases.
+
+(8) In this section “qualifying turnover” and “qualifying period” have the same meaning as in section 44.
+
+##### 46 Use of powers under Competition Act 1998
+
+(1) Before exercising a power listed in subsection (3), the CAA must consider whether it would be more appropriate to proceed under the Competition Act 1998.
+
+(2) The CAA must not exercise such a power to the extent that it considers that it would be more appropriate to proceed under the Competition Act 1998.
+
+(3) Those powers are—
+
+(a) the power to give a contravention notice under section 31;
+
+(b) the power to give an enforcement order under section 33;
+
+(c) the powers to give and confirm an urgent enforcement order under sections 35 and 36;
+
+(d) the powers to impose penalties under sections 39 and 40.
+
+##### 47 Appeals against orders and penalties
+
+Schedule 3 (appeals against orders and penalties) has effect.
+
+#### Revocation of licence
+
+##### 48 Revocation of licence
+
+(1) A licence may be revoked by the CAA by giving a notice to the holder of the licence.
+
+(2) The CAA may give a notice revoking a licence only in circumstances specified in the licence in accordance with section 17.
+
+(3) Before revoking a licence, the CAA must—
+
+(a) notify the holder of the licence that it intends to revoke the licence, giving its reasons, and
+
+(b) give the holder of the licence an opportunity to make representations.
+
+(4) The CAA must not give a notice revoking a licence before the end of the period of 30 days beginning with the day on which the CAA notifies the holder of the licence in accordance with subsection (3), unless the holder of the licence agrees otherwise.
+
+(5) A notice revoking a licence takes effect at the end of the period specified in the notice (subject to paragraph 1(3) of Schedule 4).
+
+(6) The period specified in the notice must be a period of not less than 30 days beginning with the day on which the notice is given.
+
+(7) The CAA may extend the period specified in the notice at any time before the end of that period by giving a notice to the holder of the licence.
+
+(8) The CAA may only extend the period once and only by up to 30 days.
+
+(9) The CAA may withdraw a notice revoking a licence at any time before it takes effect by giving a further notice to the holder of the licence.
+
+(10) A notice under subsection (1) or (9) must give the CAA's reasons for revoking the licence or withdrawing a notice revoking the licence (as appropriate).
+
+(11) As soon as practicable after giving a notice under subsection (1), (7) or (9), the CAA must—
+
+(a) publish the notice, and
+
+(b) send a copy of the notice to such bodies representing airport operators or providers of air transport services as the CAA considers appropriate.
+
+##### 49 Appeals against revocation of licence
+
+Schedule 4 (appeals against revocation of licence) has effect.
+
+#### Obtaining information
+
+##### 50 Power to obtain information
+
+(1) The CAA may by notice require a person to provide—
+
+(a) information, or
+
+(b) a document that is in the person's custody or under the person's control.
+
+(2) The CAA may give a notice under this section only in respect of information or documents that it reasonably requires for the purpose of carrying out its functions under this Chapter.
+
+(3) The notice may require the information or document to be provided—
+
+(a) at a time and place specified in the notice, and
+
+(b) in a form and manner specified in the notice.
+
+(4) The notice may not require a person to provide information or documents that the person could not be compelled to provide in evidence in civil proceedings before the appropriate court.
+
+(5) “The appropriate court” means—
+
+(a) in relation to England and Wales and Northern Ireland, the High Court, and
+
+(b) in relation to Scotland, the Court of Session.
+
+##### 51 Enforcement of information notice
+
+(1) If a person fails to comply with a notice under section 50 without reasonable excuse, the CAA may do either or both of the following—
+
+(a) impose a penalty on the person;
+
+(b) enforce the duty to comply with the notice in civil proceedings for an injunction or, in Scotland, for specific performance of a statutory duty under section 45 of the Court of Session Act 1988.
+
+(2) The amount of the penalty must be such amount as the CAA determines to be—
+
+(a) appropriate, and
+
+(b) proportionate to the failure in respect of which it is imposed.
+
+(3) A penalty may consist of either or both of the following—
+
+(a) a fixed amount;
+
+(b) an amount payable in respect of each day in a period specified by the CAA (a “daily amount”).
+
+(4) A fixed amount must not exceed £2,000,000.
+
+(5) A daily amount must not exceed £100,000.
+
+(6) A specified period during which daily amounts accumulate must be such period as the CAA considers appropriate, subject to subsections (7) and (8).
+
+(7) The period must begin after the day on which the CAA gives the notice under section 54(1) stating that it has imposed the penalty.
+
+(8) The period must end before the day on which the person provides the information or documents specified in the notice under section 50.
+
+(9) The Secretary of State may by regulations replace the amount for the time being specified in subsection (4) or (5).
+
+##### 52 Penalty for providing false information, destroying documents etc
+
+(1) The CAA may impose a penalty on a person if, in relevant circumstances, the person provides information to the CAA that is false or misleading in a material respect and—
+
+(a) the person knows that the information is false or misleading, or
+
+(b) the person is reckless as to whether the information is false or misleading.
+
+(2) A person provides information in relevant circumstances if the person does so—
+
+(a) in accordance with a licence condition,
+
+(b) in response to a notice under section 50, or
+
+(c) knowing that the CAA is likely to use the information for the purpose of carrying out its functions under this Chapter.
+
+(3) The CAA may impose a penalty on a person if the person intentionally alters, suppresses or destroys a document that the person is required to produce by a notice under section 50.
+
+(4) The amount of a penalty imposed on a person under this section must be such amount as the CAA determines to be—
+
+(a) appropriate, and
+
+(b) proportionate to the action in respect of which it is imposed.
+
+##### 53 Procedure before imposing penalty
+
+(1) Before imposing a penalty on a person under section 51 or 52 the CAA must—
+
+(a) give the person a notice about the proposed penalty,
+
+(b) publish the notice as soon as practicable,
+
+(c) send a copy of the notice as soon as practicable to such bodies representing airport operators or providers of air transport services as the CAA considers appropriate, and
+
+(d) consider any representations made about the proposed penalty in the period specified in the notice (and not withdrawn).
+
+(2) The notice under subsection (1) must—
+
+(a) state that the CAA proposes to impose a penalty,
+
+(b) state the proposed amount of the penalty, and
+
+(c) give the CAA's reasons for imposing the penalty.
+
+(3) In the case of a penalty under section 51 calculated entirely or partly by reference to a daily amount, the notice under subsection (1) must specify—
+
+(a) the day on which daily amounts would begin to accumulate, and
+
+(b) the day on which, or the circumstances in which, they would cease to accumulate.
+
+(4) The period specified in the notice under subsection (1) for making representations must be a period of not less than 21 days beginning with the day on which the notice is given to the person.
+
+(5) Before varying the proposed amount of the penalty, the CAA must—
+
+(a) give the person on whom the penalty is to be imposed a notice about the proposed variation,
+
+(b) publish the notice as soon as practicable,
+
+(c) send a copy of the notice as soon as practicable to such bodies representing airport operators or providers of air transport services as the CAA considers appropriate, and
+
+(d) consider any representations made about the proposed variation in the period specified in the notice (and not withdrawn).
+
+(6) In the case of a penalty under section 51 calculated entirely or partly by reference to a daily amount, the reference in subsection (5) to varying the proposed amount of the penalty includes varying—
+
+(a) the day on which daily amounts would begin to accumulate, and
+
+(b) the day on which, or circumstances in which, they would cease to accumulate.
+
+(7) The notice under subsection (5) must—
+
+(a) specify the proposed variation, and
+
+(b) give the CAA's reasons for the proposed variation.
+
+(8) The period specified in the notice under subsection (5) for making representations must be a period of not less than 21 days beginning with the day on which the notice is given to the person.
+
+(9) The CAA may withdraw a notice under subsection (1) or (5) at any time by giving notice to the person on whom it proposed to impose the penalty.
+
+(10) As soon as practicable after giving a notice under subsection (9), the CAA must—
+
+(a) publish the notice, and
+
+(b) send a copy of the notice to such bodies representing airport operators or providers of air transport services as the CAA considers appropriate.
+
+##### 54 Procedure after imposing penalty
+
+(1) As soon as practicable after imposing a penalty on a person under section 51 or 52, the CAA must—
+
+(a) give a notice to the person on whom the penalty is imposed,
+
+(b) publish the notice, and
+
+(c) send a copy of the notice to such bodies representing airport operators or providers of air transport services as the CAA considers appropriate.
+
+(2) The notice must—
+
+(a) state that the CAA has imposed the penalty,
+
+(b) state the amount of the penalty,
+
+(c) give the CAA's reasons for imposing the penalty, and
+
+(d) specify a reasonable period within which the penalty must be paid or reasonable periods within which different portions of the penalty must be paid.
+
+(3) In the case of a penalty under section 51 calculated entirely or partly by reference to a daily amount, the notice must specify—
+
+(a) the day on which daily amounts begin to accumulate, and
+
+(b) the day on which, or the circumstances in which, they cease to accumulate.
+
+(4) As soon as practicable after daily amounts cease to accumulate, the CAA must—
+
+(a) give a notice to the person on whom the penalty was imposed confirming the day on which they ceased to accumulate,
+
+(b) publish the notice, and
+
+(c) send a copy of the notice to such bodies representing airport operators or providers of air transport services as the CAA considers appropriate.
+
+##### 55 Appeals against penalties
+
+Schedule 5 (appeals against penalties: information) has effect.
+
+#### Penalties
+
+##### 56 Imposing penalties
+
+(1) The CAA may not impose a penalty on a person under section 39, 40 or 51 for an act or omission if it has imposed a penalty on the person under one of those sections in respect of the same act or omission.
+
+(2) Subsection (1) does not prevent the CAA imposing more than one penalty on a person in respect of acts or omissions that take place at different times or over different periods.
+
+##### 57 Recovering penalties
+
+(1) This section applies if all or part of a penalty imposed on a person under this Chapter is not paid within the period specified in the notice given in respect of the penalty under—
+
+(a) section 42, or
+
+(b) section 54.
+
+(2) The unpaid balance carries interest from time to time at the rate for the time being specified in section 17 of the Judgments Act 1838.
+
+(3) The CAA may recover from the person as a debt due to the CAA—
+
+(a) the unpaid balance, and
+
+(b) any interest on the penalty that has not been paid.
+
+(4) Any sums received by the CAA by way of a penalty or interest under this Chapter must be paid into the Consolidated Fund.
+
+##### 58 Statement of policy on penalties
+
+(1) The CAA must prepare and publish a statement of its policy with respect to—
+
+(a) imposing penalties under this Chapter, and
+
+(b) determining their amount.
+
+(2) The CAA may revise the statement of policy and, if it does so, it must publish the revised statement.
+
+(3) When imposing a penalty under this Chapter, or determining the amount of such a penalty, the CAA must have regard to the last statement of policy published before the act or omission in respect of which the penalty is to be imposed.
+
+(4) When preparing or revising a statement of policy, the CAA must consult such persons as it considers appropriate.
+
+#### Disclosing information
+
+##### 59 Disclosing information
+
+(1) Nothing in this Chapter requires the CAA to publish or otherwise disclose any information which it is satisfied is—
+
+(a) commercial information, the disclosure of which would, or might in the CAA's opinion, significantly harm the legitimate business interests of an undertaking to which it relates, or
+
+(b) information relating to the private affairs of an individual, the disclosure of which would, or might in the CAA's opinion, significantly harm the individual's interests.
+
+(2) Schedule 6 (restrictions on disclosing information) has effect.
+
+### CHAPTER 2 — Competition
+
+#### 60 Functions under Part 4 of Enterprise Act 2002
+
+(1) The functions of the [[^F33]Competition and Markets Authority (“the CMA”]) specified in subsection (2) are to be concurrent functions of the CAA and the [[^F34]CMA].
+
+(2) Those functions are the [[^F35]CMA’s] functions under Part 4 of the Enterprise Act 2002 (market investigations)[[^F36], other than functions under sections 166 [[^F37], 167C], 171 and 174E,] so far as [[^F38]those functions—
+
+(a) are exercisable by the CMA Board (within the meaning of Schedule 4 to the Enterprise and Regulatory Reform Act 2013), and
+
+(b)] relate to the provision of airport operation services[^F39]....
+
+(3) References to the [[^F40]CMA] in the following are to be read as including a reference to the CAA—
+
+(a) Part 4 of the Enterprise Act 2002, other than sections 166 [[^F41], 167C] [[^F42], 171 and 174E], and
+
+(b) provisions of that Act applied by that Part.
+
+[[^F43](3A) References to section 5 of the Enterprise 2002 in Part 4 of that Act must be read as including a reference to section 64(1) of this Act.]
+
+(4) But [^F44]...—
+
+(a) [[^F45]subsections (3) and (3A) apply only so far as they are] consequential on subsections (1) and (2), and
+
+(b) [[^F46]subsection (3) applies] only if the context does not otherwise require.
+
+[[^F47](4A) Section 130A of the Enterprise Act 2002 is to have effect in its application to the CAA by virtue of subsections (1) and (2)—
+
+(a) as if for subsection (1) of that section there were substituted—
+
+> (1) Where the Civil Aviation Authority—
+>
+> (a) is proposing to carry out its functions under section 64(1) of the Civil Aviation Act 2012 in relation to a matter for the purposes mentioned in subsection (2), and
+>
+> (b) considers that the matter is one in respect of which it would be appropriate for the Authority to exercise its powers under section 174 (investigation) in connection with deciding whether to make a reference under section 131,
+>
+> the Authority must publish a notice under this section (referred to in this Part as a “market study notice”).
+
+, and
+
+(b) as if in subsection (2)(a) of that section, for “the acquisition or supply of goods or services of one or more than one description in the United Kingdom” there were substituted “the provision of airport operation services (within the meaning given by section 68 of the Civil Aviation Act 2012)”.]
+
+#### 61 Enterprise Act 2002: supplementary
+
+(1) Before the [[^F48]Competition and Markets Authority (“the CMA”)] or the CAA first carries out functions specified in section 60(2) (“relevant 2002 Act functions”) in relation to a matter it must consult the other.
+
+(2) If the [[^F49]CMA] or the CAA has carried out relevant 2002 Act functions in relation to a matter, the other must not carry out those functions in relation to that matter.
+
+(3) Subsections (4) to (6) apply if, in carrying out relevant 2002 Act functions, the CAA makes a [[^F50]market investigation reference (under section 131 of the 2002 Act)].
+
+(4) The CAA must give [[^F51]to the CMA group (constituted under Schedule 4 to the Enterprise and Regulatory Reform Act 2013) which is to conduct the investigation on the reference] any information in the CAA's possession or control—
+
+(a) which is requested by the [[^F52]group] for the purpose of the reference, or
+
+(b) which the CAA considers it appropriate to give to the [[^F52]group] for that purpose.
+
+(5) The CAA must give the [[^F53]CMA group] any other assistance requested by the [[^F54]group] for the purpose of the reference which it is within the CAA's power to give.
+
+(6) In carrying out its investigation on the reference the [[^F55]CMA group] must take account of any information given to it under subsection (4).
+
+(7) If a question arises as to whether a relevant 2002 Act function must or may be carried out by the CAA in relation to a particular case, the question must be referred to and determined by the Secretary of State.
+
+(8) No objection may be taken to anything done by or in relation to the CAA under Part 4 of the Enterprise Act 2002, other than section 166 [[^F56], 167C, 171 or 174E], on the ground that it should have been done by or in relation to the [[^F57]CMA].
+
+(9) The CAA may, when carrying out relevant 2002 Act functions, have regard to any matter in respect of which a duty is imposed by section 1(1) to (3) of this Act if it is a matter to which the [[^F57]CMA] may have regard when carrying out relevant 2002 Act functions.
+
+(10) Section 4 of the Civil Aviation Act 1982 (CAA's general objectives) does not apply in relation to the carrying out by the CAA of relevant 2002 Act functions.
+
+(11) In section 136(7) of the Enterprise Act 2002 (investigations and reports on market investigation references: relevant sectoral enactments), at the end of paragraph (g) insert “ or section 60 of the Civil Aviation Act 2012; ”.
+
+[[^F58](12) In making any decision, or otherwise taking action, for the purposes of any relevant 2002 Act functions, the CAA must have regard to the need for making a decision, or taking action, as soon as reasonably practicable.]
+
+#### 62 Functions under Competition Act 1998
+
+(1) The functions of the [[^F59]Competition and Markets Authority (“the CMA”)] specified in subsection (2) are to be concurrent functions of the CAA and the [[^F60]CMA].
+
+(2) Those functions are the [[^F61]CMA’s] functions under Part 1 of the Competition Act 1998 (competition) so far as they relate to anything which—
+
+(a) is mentioned in subsection (3)(a) to [[^F62](c)], and
+
+(b) relates to the provision of airport operation services,
+
+other than functions under sections 31D(1) to (6) [[^F63], 35C] , 38(1) to (6)[[^F64] , 40B(1) to (4) ] and 51.
+
+(3) Those things are—
+
+(a) agreements, decisions or concerted practices of the kind mentioned in section 2(1) of that Act,
+
+(b) conduct of the kind mentioned in section 18(1) of that Act, [[^F65]or]
+
+[[^F66](c) transferred EU anti-trust commitments or transferred EU anti-trust directions (as defined in section 40ZA of that Act).]
+
+(4) References to the [[^F67]CMA] in Part 1 of the Competition Act 1998 [[^F68](including references in provisions of the Enterprise Act 2002 applied by that Part)], other than in sections 31D(1) to (6) [[^F69], 35C], 38(1) to (6) [[^F64] , 40B(1) to (4) ] and 51, are to be read as including a reference to the CAA.
+
+(5) But subsection (4) applies—
+
+(a) only so far as it is consequential on subsections (1) and (2), and
+
+(b) only if the context does not otherwise require.
+
+#### 63 Competition Act 1998: supplementary
+
+(1) No objection may be taken to anything done by or in relation to the CAA under a provision of Part 1 of the Competition Act 1998, other than sections 31D(1) to (6) [[^F70], 35C], 38(1) to (6) [[^F71] , 40B(1) to (4)] and 51, on the ground that it should have been done by or in relation to the [[^F72]Competition and Markets Authority].
+
+(2) The CAA may, when carrying out relevant 1998 Act functions, have regard to any matter in respect of which a duty is imposed by section 1(1) to (3) of this Act if it is a matter to which the [[^F72]Competition and Markets Authority] may have regard when carrying out relevant 1998 Act functions.
+
+(3) Section 4 of the Civil Aviation Act 1982 (CAA's general objectives) does not apply in relation to the carrying out by the CAA of relevant 1998 Act functions.
+
+[[^F73](3A) In making any decision, or otherwise taking action, for the purposes of any relevant 1998 Act functions that are functions within Schedule 4A to the Enterprise and Regulatory Reform Act 2013 by virtue of paragraph 5 of that Schedule, the CAA must have regard to the need for making a decision, or taking action, as soon as reasonably practicable.]
+
+(4) In this section “relevant 1998 Act functions” means functions specified in section 62(2).
+
+#### 64 Review etc of airport operation services
+
+(1) The CAA must, so far as it appears to it practicable to do so—
+
+(a) keep under review the provision of airport operation services in the United Kingdom and elsewhere, and
+
+(b) collect information about the provision of such services in the United Kingdom and elsewhere,
+
+with a view to facilitating the carrying out of its functions under this Chapter.
+
+(2) The CAA must provide information, advice and assistance to the Secretary of State and the [[^F74]Competition and Markets Authority (“the CMA”)] regarding any matter in respect of which the CAA has a function under this Chapter if—
+
+(a) it thinks it expedient to do so, or
+
+(b) it is asked by the Secretary of State or the [[^F75]CMA] to do so.
+
+(3) Subsection (2)(b) applies only so far as it appears to the CAA practicable for the CAA to provide the information, advice or assistance requested.
+
+(4) The CAA may—
+
+(a) prepare reports relating to competition in markets for airport operation services, and
+
+(b) arrange for such reports to be published.
+
+(5) The CAA may exclude from publication under subsection (4)(b) any information which it is satisfied is—
+
+(a) commercial information, the disclosure of which would, or might in the CAA's opinion, significantly harm the legitimate business interests of an undertaking to which it relates, or
+
+(b) information relating to the private affairs of an individual, the disclosure of which would, or might in the CAA's opinion, significantly harm the individual's interests.
+
+(6) For the purposes of carrying out its functions under this section the CAA may carry out, commission or provide financial or other support for research.
+
+#### 65 Power to modify CAA's competition powers
+
+(1) The Secretary of State may by regulations modify sections 60(2) and 62(2) by providing that the functions of the [[^F76]Competition and Markets Authority] mentioned in those provisions—
+
+(a) do not include functions relating to the provision of particular airport operation services, or
+
+(b) include functions relating to the provision of particular services at an airport that are not airport operation services.
+
+(2) The regulations may make consequential, incidental or supplementary provision amending this Chapter.
+
+### CHAPTER 3 — General provision
+
+#### Interpretation
+
+##### 66 Airports
+
+(1) In this Part “airport” means an aerodrome within the meaning of the Civil Aviation Act 1982 together with other land, buildings and structures used for the purposes of—
+
+(a) the landing and taking off of aircraft at the aerodrome,
+
+(b) the manoeuvring, parking or servicing of aircraft between landing and take-off at the aerodrome,
+
+(c) the arrival or departure of persons carried or to be carried as passengers by air transport services operating to or from the aerodrome, together with their baggage,
+
+(d) the arrival or departure of cargo carried or to be carried by such services,
+
+(e) the processing of such persons, baggage and cargo between their arrival and departure, and
+
+(f) the arrival or departure of persons who work at the airport.
+
+(2) Section 67 makes further provision about what is and is not included in an airport for the purposes of this Part.
+
+(3) The Secretary of State may by regulations provide that, for the purposes of this Part, land, buildings and other structures specified in the regulations, or of a description specified in the regulations, are or are not—
+
+(a) part of an airport, or
+
+(b) part of the core area of an airport.
+
+(4) The regulations may, in particular—
+
+(a) modify subsection (1)(a) to (f) and section 67, and
+
+(b) modify the definition of the core area of an airport in section 5.
+
+(5) In this section “modify” includes amend or repeal.
+
+##### 67 Airports: supplementary
+
+(1) An airport includes, in particular—
+
+(a) a passenger terminal,
+
+(b) the forecourt of a passenger terminal,
+
+(c) a qualifying car park,
+
+(d) a cargo processing area,
+
+(e) land, buildings and other structures used for air traffic services, and
+
+(f) land, buildings and other structures used for the purposes of transferring passengers, baggage or cargo—
+
+(i) between passenger terminals or cargo processing areas that form part of the airport, or
+
+(ii) between such terminals or areas and aircraft using the airport,
+
+subject to the following provisions of this section.
+
+(2) The forecourt of a passenger terminal includes an area that—
+
+(a) is used by road vehicles to pick up or drop off passengers using the terminal, and
+
+(b) has pedestrian access to the terminal,
+
+other than a car park, bus station, tram station or railway station.
+
+(3) A car park is a qualifying car park if—
+
+(a) it is part of a passenger terminal that forms part of the airport, or
+
+(b) it has pedestrian access to such a terminal.
+
+(4) An airport does not include a hotel, unless it is situated in a passenger terminal that forms part of the airport.
+
+(5) An airport does not include a bus station, tram station or railway station.
+
+(6) For the purposes of section 66(1) when a person arrives at, or departs from, an airport other than in an aircraft the person's arrival or departure takes place on arrival at or departure from—
+
+(a) a passenger terminal that is part of the airport,
+
+(b) the forecourt of such a terminal, or
+
+(c) a qualifying car park that is part of the airport.
+
+(7) For the purposes of section 66(1)—
+
+(a) when cargo arrives at an airport other than in an aircraft its arrival takes place when it is first unloaded from the vehicle in which it arrives, and
+
+(b) when cargo departs from an airport other than in an aircraft its departure takes place when it is loaded on to the vehicle in which it is to depart.
+
+(8) For the purposes of sections 5(4) and 66(1) the servicing of aircraft between landing and take-off at the aerodrome includes—
+
+(a) the supply of fuel, and
+
+(b) the repair, maintenance and overhaul of aircraft that land at the aerodrome.
+
+##### 68 Airport operation services
+
+(1) In this Part “airport operation services” means services provided at an airport for the purposes of—
+
+(a) the landing and taking off of aircraft,
+
+(b) the manoeuvring, parking or servicing of aircraft,
+
+(c) the arrival or departure of passengers and their baggage,
+
+(d) the arrival or departure of cargo,
+
+(e) the processing of passengers, baggage or cargo between their arrival and departure, or
+
+(f) the arrival or departure of persons who work at the airport.
+
+(2) Section 67(6) to (8) apply for the purposes of subsection (1) as they apply for the purposes of section 66(1).
+
+(3) “Airport operation services” include, in particular, the provision at an airport of—
+
+(a) groundhandling services described in the Annex to Council Directive 96/67/EC of 15 October 1996 on access to the groundhandling market at Community airports (as amended from time to time),
+
+(b) facilities for car parking, and
+
+(c) facilities for shops and other retail businesses.
+
+(4) “Airport operation services” do not include—
+
+(a) air transport services,
+
+(b) air traffic services, or
+
+(c) services provided in shops or as part of other retail businesses.
+
+(5) For the purposes of this Part—
+
+(a) “airport operation services” include permitting a person to access or use land that forms part of an airport or facilities at an airport for a purpose described in subsection (1)(a) to (f), and
+
+(b) a person who permits another to access or use land that forms part of an airport area, or facilities in an airport area, for such a purpose is to be treated as providing airport operation services in that area.
+
+(6) The Secretary of State may by regulations provide that, for the purposes of this Part, services are or are not to be treated as airport operation services.
+
+(7) The regulations may, in particular, modify subsections (1) to (5).
+
+(8) In this section “modify” includes amend or repeal.
+
+##### 69 Air transport services
+
+(1) In this Part—
+
+- “air transport service” means a service for the carriage by air of passengers or cargo to or from an airport in the United Kingdom;
+
+- “provider”, in relation to an air transport service, means a person who has the management of the aircraft used to provide the service;
+
+- “user”, in relation to an air transport service, means a person who—
+
+  - (a) is a passenger carried by the service, or
+  - (b) has a right in property carried by the service.
+
+(2) In this Part references to users of air transport services include future users of such services.
+
+##### 70 Joint operators of areas
+
+(1) Two or more persons are joint operators of an airport area where they jointly have overall responsibility for the management of all of the area.
+
+(2) Regulations under section 9 may include provision about when two or more persons are or are not to be treated for the purposes of this Part as jointly having such responsibility.
+
+(3) The CAA's power under section 10 to make a determination includes power to determine whether, in a particular case, two or more persons have such responsibility.
+
+(4) The Secretary of State may by regulations provide that, where there are joint operators of an airport area, the provisions of Chapters 1 and 3 of this Part (other than this section) apply in relation to the operators and the area with the modifications specified in the regulations.
+
+##### 71 Connected persons
+
+(1) For the purposes of this Part one person is connected with another if they are group undertakings in relation to each other.
+
+(2) “Group undertaking” has the same meaning as in the Companies Acts (see section 1161 of the Companies Act 2006).
+
+(3) The Secretary of State may by regulations make provision about when one person is connected with another for the purposes of this Part, including provision amending or otherwise modifying subsections (1) and (2).
+
+##### 72 Minor definitions and index
+
+(1) In this Part—
+
+- “air traffic services” has the same meaning as in Part 1 of the Transport Act 2000 (see section 98 of that Act);
+
+- “airport operator” means a person who is the operator of an area that consists of or forms part of an airport;
+
+- “the CAA” means the Civil Aviation Authority;
+
+- “cargo” includes mail;
+
+- “change of circumstances” includes the discovery that information is false or misleading in a material respect;
+
+- “conduct” includes a failure to act and unintentional conduct;
+
+- “contravention” includes a failure to comply and related expressions are to be interpreted accordingly;
+
+- “contravention notice” has the meaning given in section 31(1);
+
+- “document” means anything in which information is recorded;
+
+- “enforcement order” has the meaning given in section 33(1);
+
+- “international obligation of the United Kingdom” includes—
+
+  - (a) [[^F77][[^F78]an assimilated] obligation], and
+  - (b) an obligation that arises or may arise under an international agreement or arrangement to which the United Kingdom is a party;
+
+- “land” includes land covered by water;
+
+- “licence” means a licence under Chapter 1 of this Part and includes a licence which has been granted under section 15 but has not come into force;
+
+- “market power determination” has the meaning given in section 7(1);
+
+- “modifying”, in relation to a licence condition, means adding, removing or altering a licence condition and related expressions are to be interpreted accordingly;
+
+- “representation” includes objection;
+
+- “urgent enforcement order” has the meaning given in section 35(1).
+
+(2) References in this Part to providing a service, however expressed, include providing a facility (and related expressions are to be interpreted accordingly).
+
+(3) References in this Part to a building or other structure are to any building or structure, whether above or below ground.
+
+(4) References in this Part to a notice are to a notice in writing.
+
+(5) References in this Part to remedying the consequences of a contravention of a licence condition or requirement include paying an amount to a person—
+
+(a) by way of compensation for loss or damage suffered by the person, or
+
+(b) in respect of annoyance, inconvenience or anxiety suffered by the person.
+
+(6) Schedule 7 (index of defined expressions) has effect.
+
+#### Other general provision
+
+##### 73 Regulations
+
+(1) Regulations under this Part—
+
+(a) may make different provision for different cases,
+
+(b) may make provision generally or only for particular cases, and
+
+(c) may make consequential, incidental, supplementary, transitional, transitory or saving provision.
+
+(2) Regulations under this Part are to be made by statutory instrument.
+
+(3) A statutory instrument containing regulations under the following provisions is subject to annulment in pursuance of a resolution of either House of Parliament—
+
+(a) section 28(9);
+
+(b) section 77;
+
+(c) paragraph 33 of Schedule 2;
+
+(d) paragraph 6 of Schedule 6.
+
+(4) A statutory instrument containing other regulations under this Part may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, each House of Parliament.
+
+##### 74 Publication and production of documents
+
+(1) Where a person is required to publish something by this Part, the person must publish it in such form and manner as the person considers appropriate for bringing it to the attention of persons likely to be affected by it.
+
+(2) A person to whom a document is produced under this Part may take copies of the document.
+
+##### 75 Sending documents
+
+(1) A document required or authorised by this Part to be sent to a person may be sent—
+
+(a) by delivering it to the person or by leaving it at the person's proper address or by sending it by post to the person at that address,
+
+(b) if the person is a body corporate, by sending it in accordance with paragraph (a) to the secretary of the body or to any other person authorised to receive the document on behalf of the body, or
+
+(c) if the person is a partnership, by sending it in accordance with paragraph (a) to a partner or a person having the control or management of the partnership business.
+
+(2) For the purposes of this section and section 7 of the Interpretation Act 1978 (service of documents by post) in its application to this section, the proper address of a person to whom a document is to be sent is the person's last known address, except that—
+
+(a) if the person is a body corporate, it is the address of the registered or principal office of the body, and
+
+(b) if the person is a partnership or a partner or a person having the control or management of the partnership business, it is the address of the principal office of the partnership.
+
+(3) For the purposes of subsection (2) the principal office of a company constituted under the law of a country or territory outside the United Kingdom or of a partnership carrying on business outside the United Kingdom is its principal office within the United Kingdom.
+
+(4) Subsection (5) applies if a person to whom a document is to be sent by another person under this Part has specified to that other person an address within the United Kingdom other than the proper address (as determined under subsection (2)) as the one to which documents of the same description as the document should be sent.
+
+(5) In relation to that document, that address must be treated as the person's proper address for the purposes of this section and section 7 of the Interpretation Act 1978 in its application to this section, instead of that determined under subsection (2).
+
+(6) This section does not apply to a document if rules of court make provision about how or where it should be sent.
+
+(7) In this section references to sending include references to similar expressions (such as giving).
+
+##### 76 Minor, consequential and transitional provision
+
+(1) Part 4 of the Airports Act 1986 (economic regulation of airports) is repealed.
+
+(2) Part 4 of the Airports (Northern Ireland) Order 1994 (S.I. 1994/426 (N.I. 1)) (economic regulation of airports) is revoked.
+
+(3) Schedule 8 (status of airport operators as statutory undertakers etc) has effect.
+
+(4) Schedule 9 (regulation of operators of dominant airports: consequential provision) has effect.
+
+(5) Schedule 10 (regulation of operators of dominant airports: transitional provision) has effect.
+
+##### 77 Crown application
+
+(1) Chapter 2 of this Part binds the Crown to the extent that it applies or modifies provisions of the Competition Act 1998, subject to section 73 of that Act.
+
+(2) The following provisions of this Part bind the Crown—
+
+(a) Chapter 1, other than sections 50 to 52, and
+
+(b) Chapter 3,
+
+subject to subsections (3) and (5) to (9).
+
+(3) Chapters 1 and 3 of this Part do not affect Her Majesty in her private capacity.
+
+(4) Subsection (3) is to be read as if section 38(3) of the Crown Proceedings Act 1947 (meaning of Her Majesty in her private capacity) were contained in this Part.
+
+(5) Nothing in Chapters 1 and 3 of this Part prevents a person from requiring payment of, or recovering, charges in respect of services provided in the course of carrying out exempt Crown functions.
+
+(6) If the operator of an airport area (“area C”) exercises overall responsibility for its management in the course of carrying out exempt Crown functions—
+
+(a) section 7(2) (requirement to make market power determination) does not apply in respect of area C,
+
+(b) section 14(4) (deemed application for licence where airport area becomes dominant) does not apply in relation to the operator, and
+
+(c) the absence of a licence in respect of area C does not prevent a person from requiring payment of, or recovering, charges in respect of services provided in area C or another area that forms part of the same airport.
+
+(7) Nothing in Chapters 1 and 3 of this Part prevents a person from requiring payment of, or recovering, charges in respect of services provided in an exempt Crown airport area.
+
+(8) The absence of a licence in respect of an exempt Crown airport area does not prevent a person from requiring payment of, or recovering, charges in respect of services provided in another area that forms part of the same airport.
+
+(9) A licence must not include conditions relating to services provided in an exempt Crown airport area.
+
+(10) For the purposes of this section, an airport area is an exempt Crown airport area if—
+
+(a) it consists of all or part of a small airport,
+
+(b) the operator of the airport area is the Crown or a person acting on behalf of the Crown, and
+
+(c) the airport area is exempted for the purposes of this section by the Secretary of State by regulations.
+
+(11) For the purposes of this section, an airport is a small airport during a calendar year if in the previous calendar year—
+
+(a) the number of passenger movements at the airport did not exceed 5 million, or
+
+(b) the airport was not open to commercial traffic.
+
+(12) In this section—
+
+- “exempt Crown functions” means the following functions to the extent that they are carried out by or on behalf of the Crown—
+
+  - (a) customs functions within the meaning of Part 1 of the Borders, Citizenship and Immigration Act 2009,
+  - (b) functions relating to immigration, asylum or nationality,
+  - (c) police functions, and
+  - (d) other functions exempted for the purposes of this section by the Secretary of State by regulations;
+
+- “open to commercial traffic” and “passenger movements” have the same meaning as in Directive 2009/12/EC of the European Parliament and of the Council of 11 March 2009 on airport charges.
+
+## PART 2 — Other aviation matters
+
+### Aviation security
+
+#### 78 Aviation security directions etc
+
+(1) Part 2 of the Aviation Security Act 1982 (protection of civil aviation against acts of violence and other unlawful interference) is amended as follows.
+
+(2) After section 14 insert—
+
+> **14A Review by CAA**
+>
+> (1) The CAA must keep under review the directions under sections 12 to 14 for the time being in force.
+>
+> (2) The CAA must, when it considers it appropriate, make recommendations to the Secretary of State about those directions and about the giving of further directions under those sections.
+>
+> (3) The CAA must make the recommendations in the form specified by the Secretary of State.
+
+(3) After section 16 insert—
+
+> **16A Directions requiring national security vetting**
+>
+> (1) This section applies where a direction under any of sections 12 to 14 makes provision requiring an individual who carries on, or wishes to carry on, an activity specified or described in the direction to be subject to national security vetting by the CAA.
+>
+> (2) The CAA must make arrangements for carrying out that vetting, including—
+>
+> (a) arrangements for renewing and withdrawing clearance, and
+>
+> (b) arrangements for appeals.
+>
+> (3) The Secretary of State may give directions to the CAA in connection with the arrangements, including directions as to—
+>
+> (a) steps to be included in the vetting process,
+>
+> (b) time limits for completing such steps, and
+>
+> (c) the period for which clearance is to remain valid.
+>
+> (4) The CAA must comply with a direction given to it under this section.
+>
+> (5) This section does not affect any other power relating to national security vetting.
+
+(4) After section 23 insert—
+
+> **23A Functions of CAA under this Part**
+>
+> (1) The CAA must carry out the functions conferred on it by or under this Part of this Act with a view to achieving the purposes to which this Part of this Act applies.
+>
+> (2) If the CAA considers that there is a conflict between its duty under subsection (1) and its duty under section 4 of the Civil Aviation Act 1982 (CAA's general objectives) it must—
+>
+> (a) consult the Secretary of State, and
+>
+> (b) resolve the conflict in the manner directed by the Secretary of State,
+>
+> and doing so is to be treated for all purposes as compliance with subsection (1) of this section and section 4 of that Act.
+
+(5) In section 24A(1) (interpretation)—
+
+(a) for the definition of “authorised person” substitute—
+
+> “authorised person” means a person authorised in writing by the Secretary of State or the CAA for the purposes of this Part of this Act,
+
+, and
+
+(b) after that definition insert—
+
+> - “the CAA” means the Civil Aviation Authority,
+
+.
+
+(6) Schedule 11 (aviation security directions etc: minor and consequential amendments) has effect.
+
+#### 79 Approved providers of aviation security services
+
+(1) Section 20A of the Aviation Security Act 1982 (aviation security services: approved providers) is amended as follows.
+
+(2) In subsection (2), for “provide for the Secretary of State to maintain a list of persons who are approved by him” substitute “ provide for the CAA to maintain a list of persons who are approved by it ”.
+
+(3) In subsection (3)—
+
+(a) before paragraph (a) insert—
+
+> (za) provide for approval to be given, and persons to be listed, in respect of the provision of the aviation security service generally or only at a particular location;
+
+,
+
+(b) in paragraphs (a) and (b) for “that service” substitute “ the provision of that service generally or at the relevant location ”,
+
+(c) after paragraph (d) insert—
+
+> (da) make provision about factors to be taken into account when deciding whether to grant an application;
+
+,
+
+(d) after paragraph (e) insert—
+
+> (ea) make provision for employees of persons who are listed in respect of the provision of an aviation security service generally or at a particular location to be treated as listed in respect of the provision of that service generally or at that location (as appropriate) in specified circumstances;
+
+,
+
+(e) in paragraph (f), after “are listed” insert “ , or employees of such persons, ”,
+
+(f) after that paragraph insert—
+
+> (fa) make provision about other conditions with which persons who apply to be listed or who are listed, or employees of such persons, must comply;
+
+,
+
+(g) in paragraph (g) omit “which shall include provision for appeal”, and
+
+(h) in paragraph (i) after “functions” insert “ on the CAA, ”.
+
+(4) After subsection (3) insert—
+
+> (3A) The regulations must—
+>
+> (a) include provision for appeals against the refusal of applications for inclusion in a list,
+>
+> (b) include provision for appeals against removal from a list, and
+>
+> (c) if they make provision described in subsection (3)(f) or (fa), include provision for appeals against the conditions.
+
+(5) After subsection (5) insert—
+
+> (5A) In subsection (5) “listed person”, in relation to an aviation security service, means a person who is listed in respect of the provision of that service generally or at the relevant location.
+
+#### 80 Advice and assistance in connection with aviation security
+
+After section 21G of the Aviation Security Act 1982 insert—
+
+> **Advice and assistance**
+>
+> **21H Provision of advice and assistance to Secretary of State**
+>
+> (1) The CAA must provide such advice and assistance to the Secretary of State as the Secretary of State requires in connection with matters relevant to the purposes to which this Part of this Act applies.
+>
+> (2) A requirement under subsection (1) may be expressed so as to operate as a continuing requirement on the CAA.
+>
+> (3) Nothing in this section affects the generality of section 16 of the Civil Aviation Act 1982 (provision by CAA of assistance etc for Secretary of State and others).
+>
+> **21I Provision of advice and assistance to other persons**
+>
+> (1) The CAA must provide such advice and assistance to the persons listed in subsection (3) as it considers appropriate having regard to the purposes to which this Part of this Act applies.
+>
+> (2) The CAA may, in particular, provide advice and assistance to such persons in connection with measures that they are required to take by directions under sections 12 to 14.
+>
+> (3) Those persons are—
+>
+> (a) managers of aerodromes in the United Kingdom,
+>
+> (b) authorities responsible for air navigation installations in the United Kingdom,
+>
+> (c) operators of aircraft registered or operating in the United Kingdom,
+>
+> (d) persons occupying land forming part of an aerodrome or air navigation installation in the United Kingdom,
+>
+> (e) persons permitted to have access to a security restricted area of such an aerodrome or air navigation installation for the purposes of carrying on a business, and
+>
+> (f) any other persons carrying on activities at or in connection with such an aerodrome or air navigation installation, or considering doing so, who are of a description notified to the CAA by the Secretary of State for the purposes of this section.
+>
+> (4) The Secretary of State may provide such advice and assistance to the persons listed in subsection (3) as the Secretary of State considers appropriate having regard to—
+>
+> (a) the purposes to which this Part of this Act applies, and
+>
+> (b) any advice and assistance provided to those persons by the CAA.
+
+#### 81 Power to modify functions of CAA etc relating to aviation security
+
+After section 21I of the Aviation Security Act 1982 (inserted by section 80) insert—
+
+> **21J Power to modify functions of CAA etc relating to aviation security**
+>
+> (1) The Secretary of State may by regulations modify—
+>
+> (a) the functions of the CAA relating to the purposes to which this Part of this Act applies, and
+>
+> (b) the functions under this Part of this Act of persons authorised in writing by the CAA for the purposes of this Part.
+>
+> (2) Regulations under this section may, in particular—
+>
+> (a) confer powers, or impose duties, on the CAA or persons mentioned in subsection (1)(b),
+>
+> (b) remove or restrict powers or duties of the CAA or such persons,
+>
+> (c) require the CAA to comply with directions given by the Secretary of State when carrying out a function conferred by the regulations,
+>
+> (d) make different provision for different cases,
+>
+> (e) amend or repeal an enactment (whenever passed), including a provision of this Part of this Act, and amend or revoke a provision of an instrument made under an enactment (whenever made), and
+>
+> (f) include consequential, supplementary, incidental, transitional, transitory and saving provision.
+>
+> (3) The Secretary of State must consult the CAA before making regulations under this section.
+>
+> (4) The regulations must be made by statutory instrument.
+>
+> (5) A statutory instrument containing the regulations may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, each House of Parliament.
+
+#### 82 Transfer schemes
+
+(1) The Secretary of State may make one or more schemes for the transfer to the Civil Aviation Authority (“the CAA”) of—
+
+(a) rights, powers, duties and liabilities of the Crown in connection with individuals employed in the civil service of the Crown, and
+
+(b) other property, rights and liabilities of the Crown.
+
+(2) A scheme may transfer only such property, rights, powers, duties and liabilities as the Secretary of State considers appropriate having regard to—
+
+(a) the functions conferred on the CAA by or under Part 2 of the Aviation Security Act 1982 (as amended by sections 78 to 81 and Schedule 11), and
+
+(b) the functions of persons authorised by the CAA for the purposes of that Part (as so amended).
+
+(3) Before making a scheme under this section the Secretary of State must consult the CAA.
+
+(4) Schedule 12 (aviation security: further provision about transfer schemes) has effect.
+
+### Provision of information about aviation
+
+#### 83 Information for benefit of users of air transport services
+
+(1) The CAA must publish, or arrange for the publication of, such information and advice as it considers appropriate for the purpose of assisting users of air transport services to compare—
+
+(a) air transport services provided to or from a civil airport;
+
+(b) services and facilities provided at a civil airport in the United Kingdom;
+
+(c) services and facilities provided elsewhere in the United Kingdom and used, or likely to be used, in connection with the use of air transport services provided to or from a civil airport.
+
+(2) The CAA may publish guidance and advice with a view to improving the standard of such services and facilities for users of air transport services.
+
+(3) The CAA must take such steps as it considers practicable to keep under review information, guidance and other advice that is published under this section by the CAA or by other persons.
+
+(4) Subsection (1) does not require the CAA to disclose, or arrange for the disclosure of, information if the CAA could refuse to disclose the information in response to a request made under the Freedom of Information Act 2000.
+
+(5) For the purposes of carrying out its functions under this section, the CAA may carry out, commission or provide financial or other support for research.
+
+(6) Information and advice published under subsection (1) by persons other than the CAA must be published in such form and manner as the CAA considers appropriate.
+
+(7) In this section—
+
+- “air transport service” means a service for the carriage by air of passengers or cargo to or from an airport in the United Kingdom;
+
+- “airport” has the same meaning as in Part 1 of this Act (see sections 66 and 67);
+
+- “civil airport” means an airport other than a military airport;
+
+- “user”, in relation to an air transport service, means a person who—
+
+  - (a) is a passenger carried by the service, or
+  - (b) has a right in property carried by the service.
+
+(8) In this section references to users of air transport services include potential users of such services.
+
+#### 84 Environmental information
+
+(1) The CAA must publish, or arrange for the publication of, such information and advice as it considers appropriate relating to—
+
+(a) the environmental effects of civil aviation in the United Kingdom,
+
+(b) how human health and safety is, or may be, affected by such effects, and
+
+(c) measures taken, or proposed to be taken, with a view to reducing, controlling or mitigating the adverse environmental effects of civil aviation in the United Kingdom.
+
+(2) The CAA may publish guidance and advice with a view to reducing, controlling or mitigating the adverse environmental effects of civil aviation in the United Kingdom.
+
+(3) The CAA must take such steps as it considers practicable to keep under review information, guidance and other advice that is published under this section by the CAA or by other persons.
+
+(4) Subsection (1) does not require the CAA to disclose, or arrange for the disclosure of, information if it could refuse to disclose the information in response to a request made under the Freedom of Information Act 2000.
+
+(5) For the purposes of carrying out its functions under this section, the CAA may carry out, commission or provide financial or other support for research.
+
+(6) Information and advice published under subsection (1) by persons other than the CAA must be published in such form and manner as the CAA considers appropriate.
+
+(7) In this section—
+
+- “civil aviation” means civil airports, associated facilities and aircraft using such airports;
+- “airport” has the same meaning as in Part 1 of this Act (see sections 66 and 67);
+- “associated facilities”, in relation to an airport, means facilities used, or intended to be used, in connection with the airport;
+- “civil airport” means an airport other than a military airport.
+
+(8) In this section references to the environmental effects of civil aviation include—
+
+(a) substances, energy, noise, vibration or waste, including emissions, discharges and other releases into the environment,
+
+(b) visual or other disturbance to the public,
+
+(c) effects from works carried out at civil airports or associated facilities or in the construction of such airports or facilities, and
+
+(d) effects from services provided at civil airports or associated facilities.
+
+#### 85 Power to obtain information
+
+(1) The CAA may by notice require a person to provide—
+
+(a) information, or
+
+(b) a document that is in the person's custody or under the person's control.
+
+(2) The CAA may give a notice under this section only in respect of information or documents that it reasonably requires for the purpose of carrying out its functions under section 83 or 84.
+
+(3) The notice may require the information or document to be provided—
+
+(a) at a time and place specified in the notice, and
+
+(b) in a form and manner specified in the notice.
+
+(4) The notice may not require a person to provide information or documents that the person could not be compelled to provide in evidence in civil proceedings before the appropriate court.
+
+(5) “The appropriate court” means—
+
+(a) in relation to England and Wales and Northern Ireland, the High Court, and
+
+(b) in relation to Scotland, the Court of Session.
+
+(6) Schedule 6 (restrictions on disclosure of information) applies to information and documents provided to the CAA by virtue of this section as it applies to information obtained under or by virtue of Chapter 1 of Part 1.
+
+#### 86 Enforcement of information notice
+
+(1) If a person fails to comply with a notice under section 85 without reasonable excuse, the CAA may do either or both of the following—
+
+(a) impose a penalty on the person;
+
+(b) enforce the duty to comply with the notice in civil proceedings for an injunction or, in Scotland, for specific performance of a statutory duty under section 45 of the Court of Session Act 1988.
+
+(2) The amount of the penalty must be such amount as the CAA determines to be—
+
+(a) appropriate, and
+
+(b) proportionate to the failure in respect of which it is imposed.
+
+(3) A penalty may consist of either or both of the following—
+
+(a) a fixed amount;
+
+(b) an amount payable in respect of each day in a period specified by the CAA (a “daily amount”).
+
+(4) A fixed amount must not exceed £50,000.
+
+(5) A daily amount must not exceed £5,000.
+
+(6) A specified period during which daily amounts accumulate must be such period as the CAA considers appropriate, subject to subsections (7) and (8).
+
+(7) The period must begin after the day on which the CAA gives the notice under section 89 stating that it has imposed the penalty.
+
+(8) The period must end before the day on which the person provides the information or documents specified in the notice under section 85.
+
+(9) The Secretary of State may by regulations replace the amount for the time being specified in subsection (4) or (5).
+
+(10) The regulations must be made by statutory instrument.
+
+(11) A statutory instrument containing the regulations may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, each House of Parliament.
+
+#### 87 Penalty for providing false information, destroying documents etc
+
+(1) The CAA may impose a penalty on a person if, in relevant circumstances, the person provides information to the CAA that is false or misleading in a material respect and—
+
+(a) the person knows that the information is false or misleading, or
+
+(b) the person is reckless as to whether the information is false or misleading.
+
+(2) A person provides information in relevant circumstances if the person does so—
+
+(a) in response to a notice under section 85, or
+
+(b) knowing that the CAA is likely to use the information for the purpose of carrying out its functions under section 83 or 84.
+
+(3) The CAA may impose a penalty on a person if the person intentionally alters, suppresses or destroys a document that the person is required to produce by a notice under section 85.
+
+(4) The amount of a penalty imposed on a person under this section must be such amount as the CAA determines to be—
+
+(a) appropriate, and
+
+(b) proportionate to the action in respect of which it is imposed.
+
+#### 88 Procedure before imposing penalty
+
+(1) Before imposing a penalty on a person under section 86 or 87 the CAA must—
+
+(a) give the person a notice about the proposed penalty,
+
+(b) publish the notice as soon as practicable, and
+
+(c) consider any representations made about the proposed penalty in the period specified in the notice (and not withdrawn).
+
+(2) The notice under subsection (1) must—
+
+(a) state that the CAA proposes to impose a penalty,
+
+(b) state the proposed amount of the penalty, and
+
+(c) give the CAA's reasons for imposing the penalty.
+
+(3) In the case of a penalty under section 86 calculated entirely or partly by reference to a daily amount, the notice under subsection (1) must specify—
+
+(a) the day on which daily amounts would begin to accumulate, and
+
+(b) the day on which, or the circumstances in which, they would cease to accumulate.
+
+(4) The period specified in the notice under subsection (1) for making representations must be a period of not less than 21 days beginning with the day on which the notice is given to the person.
+
+(5) Before varying the proposed amount of the penalty, the CAA must—
+
+(a) give the person on whom the penalty is to be imposed a notice about the proposed variation,
+
+(b) publish the notice as soon as practicable, and
+
+(c) consider any representations made about the proposed variation in the period specified in the notice (and not withdrawn).
+
+(6) In the case of a penalty under section 86 calculated entirely or partly by reference to a daily amount, the reference in subsection (5) to varying the proposed amount of the penalty includes varying—
+
+(a) the day on which daily amounts would begin to accumulate, and
+
+(b) the day on which, or circumstances in which, they would cease to accumulate.
+
+(7) The notice under subsection (5) must—
+
+(a) specify the proposed variation, and
+
+(b) give the CAA's reasons for the proposed variation.
+
+(8) The period specified in the notice under subsection (5) for making representations must be a period of not less than 21 days beginning with the day on which the notice is given to the person.
+
+(9) The CAA may withdraw a notice under subsection (1) or (5) at any time by giving notice to the person on whom it proposed to impose the penalty.
+
+(10) The CAA must publish a notice under subsection (9) as soon as practicable after it is given.
+
+#### 89 Procedure after imposing penalty
+
+(1) As soon as practicable after imposing a penalty on a person under section 86 or 87, the CAA must—
+
+(a) give a notice to the person on whom the penalty is imposed, and
+
+(b) publish the notice.
+
+(2) The notice must—
+
+(a) state that the CAA has imposed the penalty,
+
+(b) state the amount of the penalty,
+
+(c) give the CAA's reasons for imposing the penalty, and
+
+(d) specify a reasonable period within which the penalty must be paid or reasonable periods within which different portions of the penalty must be paid.
+
+(3) In the case of a penalty under section 86 calculated entirely or partly by reference to a daily amount, the notice must specify—
+
+(a) the day on which daily amounts begin to accumulate, and
+
+(b) the day on which, or the circumstances in which, they cease to accumulate.
+
+(4) As soon as practicable after daily amounts cease to accumulate, the CAA must—
+
+(a) give a notice to the person on whom the penalty was imposed confirming the day on which they ceased to accumulate, and
+
+(b) publish the notice.
+
+#### 90 Appeals
+
+Schedule 13 (appeals against penalties) has effect.
+
+#### 91 Recovering penalties
+
+(1) Subsections (2) and (3) apply if all or part of a penalty imposed on a person under section 86 or 87 is not paid within the period specified in the notice given in respect of the penalty under section 89.
+
+(2) The unpaid balance carries interest from time to time at the rate for the time being specified in section 17 of the Judgments Act 1838.
+
+(3) The CAA may recover from the person as a debt due to the CAA—
+
+(a) the unpaid balance, and
+
+(b) any interest on the penalty that has not been paid.
+
+(4) Any sums received by the CAA by way of a penalty under section 86 or 87 or interest under this section must be paid into the Consolidated Fund.
+
+#### 92 Statement of policy
+
+(1) The CAA must prepare and publish a statement of its policy with respect to—
+
+(a) carrying out its functions under sections 83 and 84,
+
+(b) imposing penalties under sections 86 and 87, and
+
+(c) determining the amount of such penalties.
+
+(2) The CAA may revise a statement of policy and, if it does so, it must publish the revised statement.
+
+(3) When preparing or revising a statement of policy with respect to carrying out the functions under sections 83 and 84, the CAA must have regard to the principle that the benefits of carrying out the functions should outweigh any adverse effects.
+
+(4) When imposing a penalty under section 86 or 87, or determining the amount of such a penalty, the CAA must have regard to the last statement of policy published under this section before the act or omission in respect of which the penalty is to be imposed.
+
+(5) When preparing or revising a statement of policy, the CAA must consult such persons as it considers appropriate.
+
+#### 93 Minor definitions
+
+In sections 83 to 92 and Schedule 13—
+
+(a) “the CAA” means the Civil Aviation Authority, and
+
+(b) references to a notice are to a notice in writing.
+
+### Regulation of provision of flight accommodation
+
+#### 94 Regulation of provision of flight accommodation
+
+(1) Section 71 of the Civil Aviation Act 1982 (regulation of provision of accommodation in aircraft) is amended in accordance with subsections (2) to (4).
+
+(2) For subsection (1) substitute—
+
+> (1) The Secretary of State may by regulations make provision so as to secure—
+>
+> (a) that a person does not in the United Kingdom make available flight accommodation, either as principal or agent, unless the person meets the condition in subsection (1A) or (1B);
+>
+> (b) that a person does not in the United Kingdom hold himself or herself out as one who may make flight accommodation available, either as principal or agent or without disclosing the person's capacity, unless the person meets the condition in subsection (1A) or (1B);
+>
+> (c) that a person (“A”) acting as an agent for another person (“B”), in the course of a business carried on by A, does not in the United Kingdom procure flight accommodation on behalf of B unless A meets the condition in subsection (1A);
+>
+> (d) that a person (“P”) acting in the course of a business carried on by P does not in the United Kingdom facilitate the making available of flight accommodation by another person in circumstances in which one or more prescribed arrangements relating to payment apply, unless P meets the condition in subsection (1A).
+>
+> (1A) A person meets the condition in this subsection if the person—
+>
+> (a) holds and acts in accordance with a licence issued in pursuance of the regulations, or
+>
+> (b) is exempt from the need to hold a licence as a result of provision made by or under the regulations.
+>
+> (1B) A person meets the condition in this subsection if the person—
+>
+> (a) is the operator of the aircraft on which flight accommodation is made available, and
+>
+> (b) in making the flight accommodation available is acting as a flight-only provider.
+>
+> (1C) The regulations may make provision for the purposes of subsection (1B) about when the operator of an aircraft acts as a flight-only provider.
+>
+> (1D) The arrangements relating to payment that may be prescribed under subsection (1)(d) are any arrangements under which P makes or receives payment, or facilitates the making or receipt of payment by another person, in connection with the making available of the flight accommodation.
+
+(3) In subsection (2)—
+
+(a) in paragraph (b), for the words from “the minimum charges” to the end substitute “ goods, services and other benefits which are or are not to be provided by any person in prescribed circumstances; ”, and
+
+(b) omit paragraph (f).
+
+(4) After subsection (2) insert—
+
+> (3) The Secretary of State may by regulations make provision—
+>
+> (a) imposing requirements to be complied with by persons holding licences issued in pursuance of regulations under subsection (1), or by prescribed descriptions of such persons, which may include requirements as to goods, services or other benefits which are or are not to be provided by any person in prescribed circumstances;
+>
+> (b) about rights of action in respect of contraventions of requirements imposed by virtue of paragraph (a);
+>
+> (c) imposing criminal penalties for contraventions of such requirements.
+>
+> (4) Regulations made by virtue of subsection (3)(c) may not provide for penalties exceeding, in the case of each contravention—
+>
+> (a) on summary conviction, a fine of the statutory maximum;
+>
+> (b) on conviction on indictment, a fine and imprisonment for a term not exceeding 2 years.
+>
+> (5) In this section “flight accommodation” means accommodation for the carriage of persons on flights in any part of the world.
+
+(5) In consequence of the above—
+
+(a) in sections 71A(1) and (3) and 71B(2)(a) of the Civil Aviation Act 1982 (contributions by licence holders to Air Travel Trust) for “71” substitute “ 71(1) ”;
+
+(b) in section 99(4) of that Act (offences) for “71” substitute “ 71(1) or (3) ”.
+
+### CAA membership
+
+#### 95 CAA membership
+
+(1) In section 2 of the Civil Aviation Act 1982 (constitution of CAA) for subsection (2) substitute—
+
+> (2) The CAA is to consist of at least seven but not more than sixteen members.
+>
+> (2A) It is to consist of—
+>
+> (a) a person appointed to chair the CAA (“the chair”) and other non-executive members, and
+>
+> (b) a chief executive and other executive members.
+>
+> (2B) The chair and other non-executive members are to be appointed by the Secretary of State.
+>
+> (2C) The Secretary of State may appoint a deputy chair from among the non-executive members.
+>
+> (2D) The chief executive is to be appointed by the non-executive members with the approval of the Secretary of State.
+>
+> (2E) Other executive members are to be appointed by the chief executive with the approval of—
+>
+> (a) the chair, and
+>
+> (b) at least one other non-executive member.
+>
+> (2F) The Secretary of State and the chief executive must exercise their powers under this section to secure that, so far as practicable, the number of non-executive members exceeds the number of executive members.
+
+(2) In paragraph 12 of Schedule 1 to that Act (CAA staff), at the beginning insert “ Subject to section 2, ”.
+
+(3) In paragraph 18 of that Schedule (interpretation of additional provisions relating to constitution, etc of CAA), for the words from “ “the chairman”” to “the CAA and” substitute
+
+> —
+>
+> (a) chair”, “deputy chair”, “member”, “executive member” and “non-executive member” mean respectively the chair, the deputy chair, a member, an executive member and a non-executive member of the CAA, and
+>
+> (b)
+
+.
+
+#### 96 Non-executive members of CAA
+
+(1) Schedule 1 to the Civil Aviation Act 1982 (additional provisions relating to constitution, etc of CAA) is amended as follows.
+
+(2) For the heading immediately before paragraph 1 substitute— “ Appointment and tenure of non-executive members ”.
+
+(3) In paragraphs 1 to 4 for “a member”, in each place, substitute “ a non-executive member ”.
+
+(4) In paragraph 1(b) for “each member” substitute “ each non-executive member ”.
+
+(5) In paragraphs 2 to 4 for “the chairman or a deputy chairman”, in each place, substitute “ the chair or deputy chair ”.
+
+(6) In paragraph 5 for sub-paragraph (1) substitute—
+
+> (1) The Secretary of State may by notification in writing remove a non-executive member from office if the Secretary of State is satisfied that the member—
+>
+> (a) has a financial or other interest that is likely to affect prejudicially the performance of the member's functions,
+>
+> (b) has become bankrupt or made an arrangement with the member's creditors,
+>
+> (c) is a person in respect of whom a debt relief order has been made under Part 7A of the Insolvency Act 1986,
+>
+> (d) is failing, or has failed, to perform the functions of a non-executive member, or
+>
+> (e) is otherwise unable or unfit to perform those functions.
+
+(7) For the heading immediately before paragraph 6 substitute— “ Remuneration etc of non-executive members ”.
+
+(8) In paragraph 6—
+
+(a) for “member” substitute “ non-executive member ”, and
+
+(b) omit “with the consent of the Treasury”.
+
+(9) In paragraph 7—
+
+(a) omit “with the consent of the Treasury”,
+
+(b) for “pensions, allowances or gratuities to or in respect of” substitute “ allowances to ”,
+
+(c) for “members” substitute “ non-executive members ”, and
+
+(d) omit sub-paragraph (2).
+
+(10) In paragraph 8—
+
+(a) for “member” substitute “ non-executive member ”, and
+
+(b) omit “with the consent of the Treasury” in both places.
+
+(11) Omit paragraph 13(2) (member's participation in employee pension scheme).
+
+#### 97 Executive members of CAA
+
+(1) Schedule 1 to the Civil Aviation Act 1982 (additional provisions relating to constitution, etc of CAA) is amended as follows.
+
+(2) After paragraph 8 insert—
+
+> **8A Executive members: terms and conditions**
+>
+> (1) The chief executive is to be employed on such terms and conditions as the non-executive members may determine.
+>
+> (2) Other executive members are to be employed on such terms and conditions as the chief executive may determine with the approval of the chair and at least one other non-executive member.
+>
+> (3) In sub-paragraphs (1) and (2) references to terms and conditions include terms and conditions as to remuneration and the payment of pensions, allowances or gratuities.
+>
+> (4) The CAA shall make provision for the payment of pensions, allowances and gratuities to or in respect of executive members in accordance with their terms and conditions.
+
+(3) In paragraph 12 (staff)—
+
+(a) after “a reference to” insert
+
+> a person who is—
+>
+> (a) an executive member, or
+>
+> (b)
+
+, and
+
+(b) at the end insert “ (referred to in this Act as a “general employee”) ”.
+
+(4) In paragraph 13(1) (payment of pensions, allowances and gratuities) for “its employees” substitute “ its general employees ”.
+
+(5) In Schedule 3 to that Act (matters arising out of certain transfers to the CAA), in paragraph 2(1) for “an employee” substitute “ a general employee ”.
+
+#### 98 CAA's air navigation functions
+
+(1) In section 66 of the Transport Act 2000 (CAA's air navigation functions), for subsection (3) substitute—
+
+> (3) The chief executive of the CAA must, with the approval of the chair and at least one other non-executive member of the CAA, nominate another executive member of the CAA for the purposes of this section.
+>
+> (3A) A person nominated under subsection (3) must perform on the CAA's behalf such of its air navigation functions as the Secretary of State may specify.
+>
+> (3B) The chief executive must consult the Secretary of State before nominating a person under subsection (3).
+
+(2) In section 67 of that Act (national security nominee), in subsection (1) for “member” substitute “ non-executive member ”.
+
+#### 99 Transitional and saving provision
+
+Schedule 14 (CAA membership: transitional and saving provision) has effect.
+
+### Further provision about CAA
+
+#### 100 CAA charges
+
+(1) Section 11 of the Civil Aviation Act 1982 (schemes and regulations determining CAA's charges) is amended as follows.
+
+(2) In subsection (1) omit “, after consultation with the Secretary of State,”.
+
+(3) After that subsection insert—
+
+> (1A) Before making a scheme under this section, the CAA must—
+>
+> (a) consult the persons who, in its opinion, are likely to be affected by the scheme or such of those persons as it thinks fit, and
+>
+> (b) after consulting those persons, consult the Secretary of State.
+
+(4) In subsection (2) for “sixty days” substitute “ 14 days ”.
+
+(5) After subsection (3) insert—
+
+> (3A) Before making regulations under this section, the Secretary of State must consult the persons who, in the Secretary of State's opinion, are likely to be affected by the regulations or such of those persons as the Secretary of State thinks fit.
+>
+> (3B) Subsection (3A) does not apply if the Secretary of State is satisfied that such consultation is unnecessary having regard to consultation carried out by the CAA in accordance with subsection (1A).
+
+(6) In section 16 of that Act (provision by CAA of assistance etc for Secretary of State and others), in subsection (4A)—
+
+(a) after “with” insert
+
+> —
+>
+> (a)
+
+, and
+
+(b) at the end insert
+
+> , or
+>
+> (b) the making of regulations under section 11(3).
+
+(7) In section 17 of that Act (provision by CAA of information etc for Secretary of State), at the end insert—
+
+> (4) Subsection (3) above does not apply in relation to information furnished to the Secretary of State in connection with the making of regulations under section 11(3).
+
+#### 101 Criminal proceedings
+
+In section 20 of the Civil Aviation Act 1982 (supplementary provisions with respect to the functions of CAA), after subsection (1) insert—
+
+> (1A) The power conferred on the CAA by subsection (1)(a) includes power to institute and carry on criminal proceedings in England and Wales or Northern Ireland.
+
+#### 102 CAA efficiency
+
+(1) Section 21 of the Civil Aviation Act 1982 (annual report) is amended as follows.
+
+(2) In subsection (2), after paragraph (d) insert—
+
+> (e) shall contain a statement by the CAA about efficiency in the performance of its functions (an “efficiency statement”);
+>
+> (f) shall contain the auditors' assessment mentioned in subsection (2B).
+
+(3) After subsection (2) insert—
+
+> (2A) The Secretary of State may from time to time give directions about matters that must be covered in an efficiency statement, including matters relating to the plans or the past or present activities of the CAA.
+>
+> (2B) The auditors appointed under section 15(2) in respect of an accounting year must produce an assessment of the efficiency statement for that year.
+
+#### 103 Civil sanctions
+
+(1) Part 3 of the Regulatory Enforcement and Sanctions Act 2008 (civil sanctions) is amended as follows.
+
+(2) In Schedule 5 (designated regulators) at the appropriate place insert— “ Civil Aviation Authority ”.
+
+(3) In Schedule 7 (powers under specified enactments to include power to make provision for civil sanctions) at the appropriate place insert— “ Civil Aviation Act 1982, sections 7, 61, 71, 71A, 86 ”.
+
+#### 104 Regulatory burdens
+
+(1) Section 73 of the Regulatory Enforcement and Sanctions Act 2008 (functions to which duty not to impose or maintain unnecessary burdens applies) is amended as follows.
+
+(2) In subsection (1), after paragraph (a) insert—
+
+> (aa) the regulatory functions specified in subsection (2A),
+
+.
+
+(3) After subsection (2) insert—
+
+> (2A) The regulatory functions referred to in subsection (1)(aa) are the regulatory functions exercised by the Civil Aviation Authority under—
+>
+> (a) Chapter 1 of Part 1 of the Transport Act 2000 (air traffic services);
+>
+> (b) Chapter 1 of Part 1 of the Civil Aviation Act 2012 (regulation of operators of dominant airports).
+
+(4) In subsection (3) for “subsection (2)” substitute “ subsection (2) or (2A) ”.
+
+#### 105 Disclosure of medical information
+
+(1) Section 23 of the Civil Aviation Act 1982 (disclosure of information) is amended as follows.
+
+(2) In subsection (1) for “subsection (4)” substitute “ subsections (4) and (4A) ”.
+
+(3) After subsection (4) insert—
+
+> (4A) Nothing in subsection (1) above prohibits the disclosure of medical information provided to the CAA in accordance with an Air Navigation Order if—
+>
+> (a) the disclosure is for the purposes of medical research approved by a research ethics committee,
+>
+> (b) the CAA considers that the research is likely to improve understanding of risks to the health of the types of individual who are required by an Air Navigation Order to provide medical information to the CAA,
+>
+> (c) the CAA considers that it would be difficult or expensive to take the steps necessary to enable all of the information to be disclosed in reliance on subsection (1), and
+>
+> (d) the information disclosed is anonymised.
+>
+> (4B) For the purposes of subsection (4A)(d), information is anonymised if no individual can be identified—
+>
+> (a) from that information, or
+>
+> (b) from that information and any other information which the CAA has reasonable grounds for believing is likely to be in the possession of the person to whom it is disclosed or is likely to come into that person's possession.
+
+(4) After subsection (6) insert—
+
+> (7) In this section “research ethics committee” means a committee which is—
+>
+> (a) established to advise on the ethics of research investigations in human beings, and
+>
+> (b) recognised for that purpose by the Secretary of State, the Welsh Ministers, the Scottish Ministers or the Department of Health, Social Services and Public Safety in Northern Ireland or by a body comprising two or more of those persons.
+
+### Miscellaneous
+
+#### 106 Dangerous flying
+
+(1) Section 81 of the Civil Aviation Act 1982 (dangerous flying) is repealed.
+
+(2) In consequence of subsection (1), that Act is amended in accordance with subsections (3) to (7).
+
+(3) In section 76 (liability of aircraft in respect of trespass etc), in subsection (1) omit the words “and there has been no breach of section 81 below”.
+
+(4) In section 92 (application of criminal law to aircraft), in the definition of “the air navigation enactments” in subsection (5), for “81 to” substitute “ 82, ”.
+
+(5) In section 101 (power to apply certain provisions to Crown aircraft), in subsection (2) omit “81,”.
+
+(6) In Part 3 of Schedule 13 (subordinate instruments: supplemental powers), in paragraph 4(2) omit “81,”.
+
+(7) In Schedule 14 (transitional and transitory provisions and savings), in paragraph 7 omit “81,”.
+
+#### 107 Offences under Civil Aviation Act 1982
+
+(1) Section 99 of the Civil Aviation Act 1982 (offences) is amended as follows.
+
+(2) In subsection (4)—
+
+(a) for “or under” substitute “ , under ”, and
+
+(b) at the end insert “ or under an Air Navigation Order ”.
+
+(3) In subsection (5) omit paragraphs (c) and (d).
+
+## PART 3 — Final provisions
+
+### 108 Power to make consequential and transitional provision
+
+(1) The Secretary of State may by regulations make consequential, transitional, transitory or saving provision in relation to any provision of this Act.
+
+(2) The regulations may, in particular, amend, repeal, revoke or otherwise modify legislation.
+
+(3) Regulations under this section are to be made by statutory instrument.
+
+(4) A statutory instrument containing regulations under this section is subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(5) In this section—
+
+- “legislation”, in relation to regulations made in relation to a provision of this Act, means—
+
+  - (a) an enactment passed before the end of the Session in which this Act is passed, including an enactment contained in this Act, and
+  - (b) an instrument made under an enactment before the provision of this Act comes into force;
+
+- “enactment” means an enactment contained in—
+
+  - (a) an Act,
+  - (b) an Act or Measure of the National Assembly for Wales,
+  - (c) an Act of the Scottish Parliament, or
+  - (d) Northern Ireland legislation.
+
+### 109 Financial provision
+
+There is to be paid out of money provided by Parliament any increase attributable to this Act in the sums payable under any other Act out of money so provided.
+
+### 110 Commencement
+
+(1) The provisions of this Act come into force on such day as the Secretary of State may by order appoint, subject to subsections (2) to (4).
+
+(2) The following provisions come into force on the day on which this Act is passed—
+
+(a) paragraphs 1 and 7 of Schedule 10 and section 76(5) so far as it relates to those paragraphs, and
+
+(b) this Part.
+
+(3) The following provisions come into force at the end of the period of 2 months beginning with the day on which this Act is passed—
+
+(a) sections 83 to 93 and Schedule 13,
+
+(b) section 94,
+
+(c) sections 95 to 99 and Schedule 14,
+
+(d) section 101, and
+
+(e) sections 105 to 107.
+
+(4) The day appointed for the coming into force of section 3 must fall on or after 1 April 2014, unless paragraph 3 of Schedule 10, or provision having equivalent effect, comes into force on or before the appointed day.
+
+(5) An order under this section must be made by statutory instrument.
+
+(6) An order under this section may—
+
+(a) appoint different days for different purposes, and
+
+(b) make transitional, transitory or saving provision.
+
+### 111 Extent
+
+(1) This Act extends to England and Wales, Scotland and Northern Ireland, subject to subsection (2).
+
+(2) The amendments, repeals and revocations made by section 76 and Schedules 8 and 9 have the same extent as the provisions amended, repealed or revoked.
+
+### 112 Channel Islands, Isle of Man and British overseas territories
+
+(1) The powers in section 108(1) of the Civil Aviation Act 1982 (power to extend to Channel Islands, Isle of Man and British overseas territories) are exercisable in relation to the amendments of that Act made by or under this Act.
+
+(2) The powers in section 39(3) of the Aviation Security Act 1982 (extension outside United Kingdom) are exercisable in relation to the amendments of that Act made by or under this Act.
+
+(3) The power in section 107 of the Transport Act 2000 (extension outside United Kingdom) is exercisable in relation to the amendments of provisions listed in section 107(2) of that Act made by or under this Act.
+
+### 113 Short title
+
+This Act may be cited as the Civil Aviation Act 2012.
+
+## SCHEDULE 1 — Appeals against determinations
+
+*Section 13*
+
+### Appeals against determinations
+
+**1** (1) The following may appeal to the Competition Appeal Tribunal against a market power determination in respect of an airport area—
+
+(a) a person who is the operator of the area at the time the determination is made, and
+
+(b) any other person whose interests are materially affected by the determination.
+
+(2) A person who is the subject of an operator determination may appeal to the Competition Appeal Tribunal against the determination.
+
+(3) The making of an appeal under this paragraph in respect of a determination does not suspend the effect of the determination, unless the Competition Appeal Tribunal orders otherwise.
+
+### Notice of appeal
+
+**2** (1) An appeal under paragraph 1 against a determination must be made by sending a notice of appeal to the Registrar of the Competition Appeal Tribunal.
+
+(2) The notice must be received by the Registrar before the end of the period of 60 days beginning with the relevant day.
+
+(3) In this paragraph “the relevant day” means the later of—
+
+(a) the day on which the CAA publishes the notice of the determination, and
+
+(b) the day on which the CAA publishes the reasons for the determination.
+
+(4) Sub-paragraphs (1) and (2) have effect subject to provision in rules made under section 15 of the Enterprise Act 2002 (Tribunal rules) after this Schedule comes into force—
+
+(a) as to the person to whom a notice of an appeal under paragraph 1 must be given;
+
+(b) providing that such a notice must be received within a longer or shorter period beginning with the relevant day.
+
+### Decisions on appeal
+
+**3** (1) The Competition Appeal Tribunal may allow an appeal under paragraph 1 only to the extent that it is satisfied that the market power determination or operator determination appealed against was wrong on one or more of the following grounds—
+
+(a) that the determination was based on an error of fact;
+
+(b) that the determination was wrong in law;
+
+(c) that an error was made in the exercise of a discretion.
+
+(2) It may—
+
+(a) confirm or set aside all or part of the market power determination or operator determination;
+
+(b) direct the CAA to make a further determination;
+
+(c) give the CAA such other directions as it considers appropriate, including directions about the time within which the CAA must act.
+
+(3) It may not direct the CAA to do anything that the CAA would not have power to do apart from the direction.
+
+(4) The CAA must comply with directions under this paragraph.
+
+(5) If the CAA fails to comply with a direction to make a further market power determination in respect of an airport area within the time specified by the Competition Appeal Tribunal, the Tribunal may make the determination.
+
+(6) If the Competition Appeal Tribunal makes a market power determination under sub-paragraph (5)—
+
+(a) the determination has effect as if made by the CAA, and
+
+(b) section 8 applies in relation to the determination as if the references to the CAA were references to the Competition Appeal Tribunal.
+
+(7) If the CAA fails to comply with a direction to make a further operator determination in respect of a person and an airport area within the time specified by the Competition Appeal Tribunal, the Tribunal may make the determination.
+
+(8) If the Competition Appeal Tribunal makes an operator determination under sub-paragraph (7)—
+
+(a) the determination has effect as if made by the CAA under section 10(1), and
+
+(b) sections 10(2) and 11(1) to (3) and (5) apply in relation to the determination as if the references to the CAA were references to the Competition Appeal Tribunal.
+
+### Effect of suspending or setting aside market power determination
+
+**4** (1) This paragraph applies where—
+
+(a) the CAA publishes a notice of a market power determination (“determination A”) in respect of an airport area (“area Z”),
+
+(b) the CAA subsequently publishes a notice of another market power determination (“determination B”) in respect of all or part of area Z or in respect of an area that includes all or part of area Z,
+
+(c) determination A ceases to have effect in respect of all or part of area Z by virtue of section 7(9) or (10), and
+
+(d) there is subsequently an appeal under this Schedule against determination B.
+
+(2) If the effect of determination B is suspended under paragraph 1(3), determination A has effect again during the period of suspension, unless the Competition Appeal Tribunal orders otherwise.
+
+(3) If all or part of determination B is set aside at the end of a period of suspension, determination A continues to have effect after the end of the period of suspension, unless the Competition Appeal Tribunal orders otherwise.
+
+(4) If all or part of determination B is set aside otherwise than at the end of a period of suspension, determination A has effect again from the setting aside, unless the Competition Appeal Tribunal orders otherwise.
+
+(5) If the suspension or setting aside of determination B only affects part of area Z, or an area that includes part of area Z, the references in sub-paragraphs (2) to (4) to determination A are to be treated as references to that determination so far as it relates to that part of area Z.
+
+(6) Sub-paragraphs (2) to (4) do not apply if determination B is suspended or set aside only so far as it relates to an area that does not include any part of area Z.
+
+(7) Nothing in sub-paragraphs (3) to (5) affects the operation of section 7(9) or (10) where notice is published of a further market power determination in respect of all or part of area Z or in respect of an area that includes all or part of area Z.
+
+### Appeals to Competition Appeal Tribunal: supplementary
+
+**5** (1) When deciding an appeal under paragraph 1 (including giving directions), making an order under paragraph 1 or 4 or making a market power determination or operator determination, the Competition Appeal Tribunal must have regard to the matters in respect of which duties are imposed on the CAA by section 1.
+
+(2) When deciding an appeal under paragraph 1 relating to a market power determination (including giving directions) or making such a determination, the Competition Appeal Tribunal must have regard to the notices, guidance, advice and information described in section 6(10).
+
+### Further appeals
+
+**6** (1) An appeal lies to the appropriate court on a point of law arising from a decision of the Competition Appeal Tribunal under paragraph 3 or 4(3) or (4), including a direction.
+
+(2) An appeal under this paragraph against a decision relating to a market power determination may be brought by—
+
+(a) a party to the proceedings before the Competition Appeal Tribunal, or
+
+(b) a person whose interests are materially affected by the decision or direction.
+
+(3) An appeal under this paragraph against a decision relating to an operator determination may be brought by a party to the proceedings before the Competition Appeal Tribunal.
+
+(4) An appeal may not be brought under this paragraph without the permission of—
+
+(a) the Competition Appeal Tribunal, or
+
+(b) the appropriate court.
+
+(5) “The appropriate court” means—
+
+(a) in the case of an appeal from proceedings in England and Wales or Northern Ireland, the Court of Appeal, or
+
+(b) in the case of an appeal from proceedings in Scotland, the Court of Session.
+
+## SCHEDULE 2 — Appeals under sections 24 and 25
+
+*Section 30*
+
+### PART 1 — Permission to appeal
+
+#### Application for permission to appeal
+
+**1** (1) An application for permission to appeal under section 24 or 25 against a decision in respect of a licence may not be made after the end of the period of 6 weeks beginning with the day on which the CAA published the relevant notice.
+
+(2) In this paragraph “the relevant notice” means—
+
+(a) in the case of an application for permission to appeal under section 24, the notice published in accordance with section 15 of the decision to grant the licence, and
+
+(b) in the case of an application for permission to appeal under section 25, the notice published in accordance with section 22 of the decision that is the subject of the application.
+
+(3) The applicant must send a copy of the application to the CAA.
+
+(4) The CAA must—
+
+(a) publish the application, and
+
+(b) send a copy of the application to the persons listed in sub-paragraph (5) (other than the applicant).
+
+(5) Those persons are—
+
+(a) the holder of the licence that is the subject of the application,
+
+(b) any other person with a qualifying interest in the decision that is the subject of the application, and
+
+(c) such bodies representing airport operators or providers of air transport services as the CAA considers appropriate.
+
+#### Determination of application for permission to appeal
+
+**2** (1) The [[^F79] decision of the Competition and Markets Authority ] on an application for permission to appeal is to be taken by an authorised member of [[^F80] the Competition and Markets Authority ].
+
+(2) The authorised member must take the decision before the end of the period of 10 weeks beginning with the day on which the CAA published the relevant notice (as defined in paragraph 1).
+
+(3) The authorised member may grant permission to appeal subject to conditions.
+
+(4) The conditions may, in particular, include—
+
+(a) conditions which limit the matters that are to be considered on the appeal,
+
+(b) conditions for the purpose of expediting the determination of the appeal, and
+
+(c) conditions requiring the appeal to be considered together with other appeals, including appeals relating to different matters or decisions and appeals brought by different persons.
+
+(5) An authorised member of the [[^F81] Competition and Markets Authority ] who grants permission to appeal against a decision that relates entirely or partly to a matter remitted to the CAA following an earlier appeal under section 24 or 25 must grant it subject to conditions excluding consideration of—
+
+(a) matters that were considered as part of the earlier appeal, and
+
+(b) matters that could have been raised by the applicant or a relevant connected person as part of the earlier appeal,
+
+unless the member considers that there are compelling reasons not to do so.
+
+(6) In sub-paragraph (5), in relation to an applicant, “relevant connected person” means a person who was connected to the applicant at any time during the consideration of the earlier appeal by the [[^F81] Competition and Markets Authority ].
+
+(7) [[^F82] An authorised member of the Competition and Markets Authority ] must—
+
+(a) publish the decision on an application for permission to appeal and the reasons for the decision, and
+
+(b) send a copy of the decision and reasons to the persons listed in sub-paragraph (8).
+
+(8) Those persons are—
+
+(a) the holder of the licence which is the subject of the application,
+
+(b) if the application was made by someone other than the holder of that licence, the applicant,
+
+(c) any other person with a qualifying interest in the decision that is the subject of the application,
+
+(d) such bodies representing airport operators or providers of air transport services as the [[^F83]authorised member] considers appropriate, and
+
+(e) the CAA.
+
+(9) Section 29(5) applies to the publication of a decision and reasons under this paragraph as it applies to the publication of an order containing a determination of an appeal.
+
+#### Time limit for CAA to make representations
+
+**3** (1) This paragraph applies where the CAA wishes to make representations to the [[^F84] Competition and Markets Authority ] in relation to an application under paragraph 1 for permission to appeal against a decision.
+
+(2) The CAA must make the representations in writing before the end of the period of 8 weeks beginning with the day on which the CAA publishes the relevant notice (as defined in paragraph 1).
+
+(3) The CAA must send a copy of its representations to—
+
+(a) the holder of the licence which is the subject of the application,
+
+(b) if the application was made by someone other than the holder of that licence, the applicant,
+
+(c) any other person with a qualifying interest in the decision that is the subject of the application, and
+
+(d) such bodies representing airport operators or providers of air transport services as the CAA considers appropriate.
+
+### PART 2 — Intervention in appeal
+
+#### Application for permission to intervene in appeal
+
+**4** (1) Where an application is made under paragraph 1 for permission to appeal against a decision, an application for permission to intervene in the appeal may be made to the [[^F85]Competition and Markets Authority] by another person who would be entitled to appeal against the decision.
+
+(2) An application for permission to intervene may be made before the end of the period of 1 week beginning with the day [[^F86]of publication of the Competition and Markets Authority's] decision to grant permission to appeal against the decision.
+
+(3) An application for permission to intervene may be made after the end of that period only with the leave of an authorised member of the [[^F87]Competition and Markets Authority].
+
+(4) The applicant must send a copy of the application to the CAA.
+
+(5) The CAA must—
+
+(a) publish the application, and
+
+(b) send a copy of the application to the persons listed in sub-paragraph (6) (other than the applicant).
+
+(6) Those persons are—
+
+(a) the holder of the licence that is the subject of the application for permission to appeal,
+
+(b) any other person with a qualifying interest in the decision that is the subject of that application, and
+
+(c) such bodies representing airport operators or providers of air transport services as the CAA considers appropriate.
+
+#### Determination of application for permission to intervene
+
+**5** (1) The [[^F88]decision of the Competition and Markets Authority] on an application for permission to intervene is to be taken by an authorised member of [[^F89]the Competition and Markets Authority].
+
+(2) An authorised member of the [[^F90]Competition and Markets Authority] may grant permission to intervene in an appeal only if satisfied that allowing the applicant to intervene is necessary or desirable for the proper resolution of the appeal.
+
+(3) The authorised member—
+
+(a) may grant permission to intervene for the purposes of supporting or opposing an appeal;
+
+(b) must make any permission to intervene for the purposes of supporting an appeal subject to conditions preventing the intervener from putting forward new grounds of appeal;
+
+(c) may make permission to intervene subject to other conditions, including conditions which limit the matters that may be raised by the intervener.
+
+(4) [[^F91]An authorised member of the Competition and Markets Authority must]—
+
+(a) publish the decision on an application for permission to intervene and the reasons for the decision, and
+
+(b) send a copy of the decision and reasons to the persons listed in sub-paragraph (5).
+
+(5) Those persons are—
+
+(a) the holder of the licence which is the subject of the application,
+
+(b) if the application was made by someone other than the holder of that licence, the applicant,
+
+(c) any other person with a qualifying interest in the decision that is the subject of the application,
+
+(d) such bodies representing airport operators or providers of air transport services as the [[^F92]authorised member] considers appropriate, and
+
+(e) the CAA.
+
+(6) Section 29(5) applies to the publication of a decision and reasons under this paragraph as it applies to the publication of an order containing a determination of an appeal.
+
+### PART 3 — Automatic suspension of condition of new licence or modification
+
+#### Automatic suspension of condition of new licence including exception for certain financial arrangements
+
+**6** (1) Sub-paragraph (2) applies where—
+
+(a) the CAA decides to grant a licence under section 15,
+
+(b) an application is made for permission to appeal under section 24 against the CAA's decision to include a relevant financial arrangements condition in the licence, and
+
+(c) the relevant financial arrangements condition would have effect, but for this paragraph, before the end of the period of 10 weeks beginning with the day on which notice of the decision was published in accordance with section 15 (“the 10 week period”).
+
+(2) The relevant financial arrangements condition does not have effect during the 10 week period.
+
+(3) Sub-paragraph (4) applies where—
+
+(a) the CAA decides to grant a licence under section 15, and
+
+(b) the [[^F93] Competition and Markets Authority ] grants an application for permission to appeal under section 24 against the CAA's decision to include a relevant financial arrangements condition in the licence.
+
+(4) The relevant financial arrangements condition does not have effect until the appeal against the decision is determined or withdrawn (or, if there is more than one appeal against the decision, until all of the appeals are determined or withdrawn).
+
+(5) In this paragraph, “relevant financial arrangements condition” means a condition that is subject to an exception (however expressed) relating to, or operating by reference to, financial arrangements entered into by the holder of the licence, or a person connected to the holder of the licence, before section 3 came into force.
+
+(6) For the purposes of this paragraph, financial arrangements entered into after section 3 came into force but pursuant to other financial arrangements entered into by the holder of the licence, or a person connected to the holder of the licence, before that time are to be treated as entered into before that time.
+
+#### Automatic suspension of modification of existing licence involving exception for certain financial arrangements
+
+**7** (1) Sub-paragraph (2) applies where—
+
+(a) the CAA decides under section 22 to modify a licence by adding a relevant financial arrangements condition,
+
+(b) an application is made for permission to appeal under section 25 against the decision, and
+
+(c) the condition would have effect, but for this paragraph, before the end of the period of 10 weeks beginning with the day on which notice of the decision was published in accordance with section 22 (“the 10 week period”).
+
+(2) The relevant financial arrangements condition does not have effect during the 10 week period.
+
+(3) Sub-paragraph (4) applies where—
+
+(a) the CAA decides under section 22 to modify a licence by adding a relevant financial arrangements condition, and
+
+(b) the [[^F94] Competition and Markets Authority ] grants permission to appeal against the decision.
+
+(4) The relevant financial arrangements condition does not have effect until the appeal against the decision is determined or withdrawn (or, if there is more than one appeal against the decision, until all of the appeals are determined or withdrawn).
+
+(5) In this paragraph, “relevant financial arrangements condition” has the same meaning as in paragraph 6.
+
+**8** (1) Sub-paragraph (2) applies where—
+
+(a) the CAA decides under section 22 to modify a licence condition,
+
+(b) the decision is subject to the restrictions in section 23,
+
+(c) an application is made for permission to appeal under section 25 against the decision, and
+
+(d) the licence modification that is the subject of the decision would have effect, but for this paragraph, before the end of the period of 10 weeks beginning with the day on which notice of the decision was published in accordance with section 22 (“the 10 week period”).
+
+(2) The licence modification does not have effect during the 10 week period.
+
+(3) Sub-paragraph (4) applies where—
+
+(a) the CAA decides under section 22 to modify a licence condition,
+
+(b) the decision is subject to the restrictions in section 23, and
+
+(c) the [[^F95] Competition and Markets Authority ] grants permission to appeal against the decision.
+
+(4) The licence modification does not have effect until the appeal against the decision is determined or withdrawn (or, if there is more than one appeal against the decision, until all of the appeals are determined or withdrawn).
+
+### PART 4 — Application for suspension of condition of new licence or modification
+
+#### Application for direction suspending condition of new licence
+
+**9** (1) Where an application is made for permission to appeal against a decision under section 15 to include a condition in a licence, an application for a direction suspending the effect of the decision may be made to the [[^F96] Competition and Markets Authority ]—
+
+(a) by the person who applied for permission to appeal, or
+
+(b) by another person who would be entitled to appeal against the decision.
+
+(2) An application for a direction may be made at any time before the determination of the appeal.
+
+(3) The applicant must send a copy of the application to the CAA.
+
+(4) The CAA must—
+
+(a) publish the application, and
+
+(b) send a copy of the application to the persons listed in sub-paragraph (5) (other than the applicant).
+
+(5) Those persons are—
+
+(a) the holder of the licence that is the subject of the application,
+
+(b) any other person with a qualifying interest in the decision that is the subject of the application, and
+
+(c) such bodies representing airport operators or providers of air transport services as the CAA considers appropriate.
+
+#### Effect of early application for direction under paragraph 9
+
+**10** (1) This paragraph applies if—
+
+(a) an application is made under paragraph 9 for a direction suspending the effect of a decision under section 15 to include a condition in a licence,
+
+(b) the application is made before the end of the period of 6 weeks beginning with the day on which the CAA published the notice of the decision to grant the licence in accordance with section 15, and
+
+(c) the licence condition would have effect, but for this paragraph, before the end of the period of 10 weeks beginning with that day (“the 10 week period”).
+
+(2) The licence condition does not have effect during the 10 week period.
+
+(3) The [[^F97] decision of the Competition and Markets Authority ] on the application under paragraph 9 must be taken before the end of the 10 week period.
+
+#### Direction following application under paragraph 9
+
+**11** (1) The [[^F98]functions of the Competition and Markets Authority] in relation to an application under paragraph 9 for a direction are to be carried out by an authorised member of [[^F99]the Competition and Markets Authority].
+
+(2) An authorised member of the [[^F100]Competition and Markets Authority] may give a direction suspending the effect of a decision under section 15 to include a condition in a licence only if—
+
+(a) the applicant for the direction would incur significant costs if the licence condition were to have effect from the date specified in the decision, and
+
+(b) the balance of convenience does not otherwise require the licence condition to have effect from that date.
+
+(3) If an authorised member gives a direction suspending the effect of the decision, the licence condition does not have effect or ceases to have effect—
+
+(a) to the extent specified in the direction, and
+
+(b) for the period specified or described in the direction.
+
+(4) [[^F101]An authorised member of the Competition and Markets Authority] may by notice vary or withdraw a direction under this paragraph if [[^F102]he or she] considers it appropriate to do so having regard to the costs and the balance of convenience referred to in sub-paragraph (2).
+
+#### Application for direction suspending licence modification
+
+**12** (1) Where an application for permission to appeal against a decision under section 22 to modify a licence condition is made, an application for a direction suspending the effect of the decision may be made to the [[^F103]Competition and Markets Authority]—
+
+(a) by the person who applied for permission to appeal, or
+
+(b) by another person who would be entitled to appeal against the decision.
+
+(2) An application for a direction may be made at any time before the determination of the appeal.
+
+(3) The applicant must send a copy of the application to the CAA.
+
+(4) The CAA must—
+
+(a) publish the application, and
+
+(b) send a copy of the application to the persons listed in sub-paragraph (5) (other than the applicant).
+
+(5) Those persons are—
+
+(a) the holder of the licence that is the subject of the application,
+
+(b) any other person with a qualifying interest in the decision that is the subject of the application, and
+
+(c) such bodies representing airport operators or providers of air transport services as the CAA considers appropriate.
+
+#### Effect of early application for direction under paragraph 12
+
+**13** (1) This paragraph applies if—
+
+(a) an application is made under paragraph 12 for a direction suspending the effect of a decision under section 22 to modify a licence condition,
+
+(b) the application is made before the end of the period of 6 weeks beginning with the day on which the CAA published notice of that decision in accordance with that section, and
+
+(c) the modification would have effect, but for this paragraph, before the end of the period of 10 weeks beginning with that day (“the 10 week period”).
+
+(2) The modification does not have effect during the 10 week period.
+
+(3) The [[^F104]decision of the Competition and Markets Authority] on the application under paragraph 12 must be taken before the end of the 10 week period.
+
+#### Direction following application under paragraph 12
+
+**14** (1) The [[^F105]functions of the Competition and Markets Authority] in relation to an application under paragraph 12 for a direction are to be carried out by an authorised member of [[^F106]the Competition and Markets Authority].
+
+(2) An authorised member of the [[^F107]Competition and Markets Authority] may give a direction suspending the effect of a decision under section 22 to include a condition in a licence only if—
+
+(a) the applicant for the direction would incur significant costs if the licence condition were to have effect from the date specified in the decision, and
+
+(b) the balance of convenience does not otherwise require the licence condition to have effect from that date.
+
+(3) If an authorised member gives a direction suspending the effect of the decision, the licence condition does not have effect or ceases to have effect—
+
+(a) to the extent specified in the direction, and
+
+(b) for the period specified or described in the direction.
+
+(4) [[^F108]An authorised member of the Competition and Markets Authority] may by notice vary or withdraw a direction under this paragraph if [[^F109]he or she] considers it appropriate to do so having regard to the costs and the balance of convenience referred to in sub-paragraph (2).
+
+#### Publication of decisions about directions
+
+**15** (1) [[^F110]An authorised member of the Competition and Markets Authority must]—
+
+(a) publish a decision on an application under paragraph 9 or 12 for a direction and the reasons for the decision, and
+
+(b) send a copy of the decision and reasons to the persons listed in sub-paragraph (4).
+
+(2) Where paragraph 10 or 13 applies, [[^F111]the requirements of sub-paragraph (1) must be complied with] before the end of the 10 week period referred to in that paragraph.
+
+(3) [[^F112]An authorised member of the Competition and Markets Authority must]—
+
+(a) publish any notice varying or withdrawing a direction under paragraph 11 or 14 and the reasons for the variation or withdrawal, and
+
+(b) send a copy of the notice and reasons to the persons listed in sub-paragraph (4).
+
+(4) Those persons are—
+
+(a) the holder of the licence which is the subject of the application or direction,
+
+(b) if the application for the direction was made by someone other than the holder of that licence, the applicant,
+
+(c) any other person with a qualifying interest in the decision that is the subject of the application,
+
+(d) such bodies representing airport operators or providers of air transport services as the [[^F113]authorised member] considers appropriate, and
+
+(e) the CAA.
+
+(5) Section 29(5) applies to the publication of a decision, notice or reasons mentioned in sub-paragraph (1) or (3) as it applies to the publication of an order containing a determination of an appeal.
+
+#### Time limit for CAA to make representations
+
+**16** (1) This paragraph applies where the CAA wishes to make representations to the [[^F114] Competition and Markets Authority ] in relation to an application under paragraph 9 or 12 for a direction.
+
+(2) In a case to which paragraph 10 or 13 applies, the CAA must make the representations in writing before the end of the period of 8 weeks beginning with the day on which the CAA published the relevant notice.
+
+(3) In sub-paragraph (2) “the relevant notice” means—
+
+(a) in the case of an application under paragraph 9, the notice published in accordance with section 15 of the decision to grant the licence, and
+
+(b) in the case of an application under paragraph 12, the notice published in accordance with section 22 of the decision that is the subject of the application.
+
+(4) In any other case—
+
+(a) [[^F115] an authorised member of the Competition and Markets Authority ] must specify a reasonable period for making representations, and
+
+(b) the CAA must make the representations in writing before the end of that period.
+
+(5) In all cases, the CAA must send a copy of its representations to—
+
+(a) the holder of the licence which is the subject of the application,
+
+(b) if the application was made by someone other than the holder of that licence, the applicant,
+
+(c) any other person with a qualifying interest in the decision that is the subject of the application, and
+
+(d) such bodies representing airport operators or providers of air transport services as the CAA considers appropriate.
+
+### PART 5 — Appeals
+
+#### Determination of appeal by group
+
+**17** [^F116]1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) [[^F117] A group constituted by the chair of the Competition and Markets Authority, under Schedule 4 to the Enterprise and Regulatory Reform Act 2013,for the purpose of carrying out functions of the Competition and Markets Authority with respect to an appeal under section 24 or 25 ] must consist of 3 members of the [[^F118]CMA panel ].
+
+[^F119]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F119]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) A decision of the group is effective only if—
+
+(a) all of the members of the group are present when it is made, and
+
+(b) at least 2 members of the group are in favour of the decision.
+
+#### Replacing members of group
+
+**[^F120]18** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Representations made by the CAA
+
+**19** (1) This paragraph applies where an application for permission to appeal has been granted and the CAA makes representations to the [[^F121] Competition and Markets Authority ] for the purposes of the appeal.
+
+(2) The CAA must send a copy of its representations to—
+
+(a) the holder of the licence which is the subject of the appeal,
+
+(b) if the appeal was brought by someone other than the holder of that licence, the appellant,
+
+(c) any other person with a qualifying interest in the decision that is the subject of the appeal, and
+
+(d) such bodies representing airport operators or providers of air transport services as the CAA considers appropriate.
+
+#### Matters that may be disregarded
+
+**20** (1) [[^F122]The Competition and Markets Authority] may disregard matters raised by the CAA if it thinks it necessary to do so for the purpose of securing that [[^F123]an appeal] is determined within the period allowed under section 28, unless they are matters contained in representations made to the [[^F124]Competition and Markets Authority]—
+
+(a) in accordance with paragraph 16, or
+
+(b) before the end of the period of 12 weeks beginning with the day on which the relevant notice was published.
+
+(2) In sub-paragraph (1) “the relevant notice” means—
+
+(a) in the case of an appeal under section 24, the notice published in accordance with section 15 of the decision to grant the licence, and
+
+(b) in the case of an appeal under section 25, the notice published in accordance with section 22 of the decision that is the subject of the appeal.
+
+(3) [[^F125]The Competition and Markets Authority] may disregard matters raised by the appellant if it thinks it necessary to do so for the purpose of securing that [[^F126]an appeal] is determined within the period allowed under section 28, unless the matters were raised by the appellant—
+
+(a) at the time of the application under paragraph 1 for permission to appeal, or
+
+(b) in an application under paragraph 9 or 12 for a direction.
+
+(4) [[^F127]The Competition and Markets Authority] may disregard matters raised by an intervener if it thinks it necessary to do so for the purpose of securing that [[^F128]an appeal] is determined within the period allowed under section 28, unless the matters were raised by the intervener—
+
+(a) at the time of the application under paragraph 4 for permission to intervene, or
+
+(b) in an application under paragraph 9 or 12 for a direction.
+
+#### Remitting decision to CAA
+
+**21** (1) This paragraph applies where the [[^F129] Competition and Markets Authority ] decides to remit a matter that is the subject of an appeal to the CAA for reconsideration and decision.
+
+(2) Where, on reconsidering the matter, the CAA decides to modify a licence, the notice under section 22(6) in respect of the modification may, with the agreement of the holder of the licence, specify a date falling—
+
+(a) before the end of the period of 6 weeks beginning with the date on which the notice is published, but
+
+(b) on or after the date on which the decision that was the subject of the appeal took effect or would have taken effect but for its suspension under this Schedule.
+
+(3) Where, on reconsidering the matter, the CAA considers it appropriate to modify a licence by adding or altering a price cap condition in respect of goods and services—
+
+(a) sub-paragraph (4) applies if the highest charges that would be permitted by the new or altered price cap condition (disregarding sub-paragraphs (4) and (6)) (“the proposed maximum charges”) are lower than charges imposed by the holder of the licence in respect of such goods and services during all or part of the appeal period, and
+
+(b) sub-paragraph (6) applies if the proposed maximum charges are higher than charges imposed by the holder of the licence in respect of such goods and services during all or part of that period.
+
+(4) Where this sub-paragraph applies, the CAA may modify the licence so that it includes such price cap conditions as the CAA considers appropriate with a view to putting the holder of the licence in the position that it would have been in if, during the appeal period, it had imposed such lower charges as the CAA considers appropriate.
+
+(5) The reference in sub-paragraph (4) to lower charges does not include charges of less than the proposed maximum charges.
+
+(6) Where this sub-paragraph applies, the CAA may modify the licence so that it includes such price cap conditions as the CAA considers appropriate with a view to putting the holder of the licence in the position that it would have been in if, during the appeal period, it had imposed such higher charges as the CAA considers appropriate.
+
+(7) The reference in sub-paragraph (6) to higher charges does not include charges of more than the proposed maximum charges.
+
+(8) For the purposes of this paragraph a licence condition is a price cap condition to the extent that it regulates prices by providing that the amount, or the maximum amount, that may be charged is an amount specified in, or determined in accordance with, the condition.
+
+(9) In this paragraph “appeal period” has the same meaning as in section 28.
+
+#### Substituting CAA's decision
+
+**22** (1) This paragraph applies where the [[^F130]Competition and Markets Authority] decides to substitute its own decision for a decision of the CAA that is the subject of an appeal.
+
+(2) Section 23 applies to the [[^F130]Competition and Markets Authority] as it applies to the CAA.
+
+(3) The [[^F131]decision of the Competition and Markets Authority] has effect as if made by the CAA, except that—
+
+(a) section 22(6) does not apply, and
+
+(b) an appeal may not be brought against it under this Chapter.
+
+(4) Any modification of a licence effected by the [[^F132]decision of the Competition and Markets Authority] takes effect from the date specified by [[^F133]the Competition and Markets Authority].
+
+(5) The [[^F134]Competition and Markets Authority] may, with the agreement of the holder of the licence, specify a date falling—
+
+(a) before the date on which the order containing its decision is published, but
+
+(b) on or after the date on which the decision that was the subject of the appeal took effect or would have taken effect but for its suspension under this Schedule.
+
+(6) Where the [[^F134] Competition and Markets Authority] considers it appropriate to modify the licence by adding or altering a price cap condition in respect of goods and services—
+
+(a) sub-paragraph (7) applies if the highest charges that would be permitted by the new or altered price cap condition (disregarding sub-paragraphs (7) and (9)) (“the proposed maximum charges”) are lower than charges imposed by the holder of the licence in respect of such goods and services during all or part of the appeal period, and
+
+(b) sub-paragraph (9) applies if the proposed charges are higher than charges imposed by the holder of the licence in respect of such goods and services during all or part of that period.
+
+(7) Where this sub-paragraph applies, the [[^F135] decision of the Competition and Markets Authority ] may modify the licence so that it includes such price cap conditions as the [[^F136] Competition and Markets Authority ] considers appropriate with a view to putting the holder of the licence in the position that it would have been in if, during the appeal period, it had imposed such lower charges as the [[^F136] Competition and Markets Authority ] considers appropriate.
+
+(8) The reference in sub-paragraph (7) to lower charges does not include charges of less than the proposed maximum charges.
+
+(9) Where this sub-paragraph applies, the [[^F137] decision of the Competition and Markets Authority ] may modify the licence so that it includes such price cap conditions as the [[^F138] Competition and Markets Authority] considers appropriate with a view to putting the holder of the licence in the position that it would have been in if, during the appeal period, it had imposed such higher charges as the [[^F138]Competition and Markets Authority] considers appropriate.
+
+(10) The reference in sub-paragraph (9) to higher charges does not include charges of more than the proposed maximum charges.
+
+(11) In this paragraph—
+
+- “appeal period” has the same meaning as in section 28;
+- “price cap condition” has the same meaning as in paragraph 21.
+
+### PART 6 — General
+
+#### Consideration of new matters
+
+**23** (1) This paragraph applies to—
+
+(a) an authorised member of the [[^F139] Competition and Markets Authority ] with the function of determining an application for permission to appeal under section 24 or 25, and
+
+(b) a group with the function of determining an appeal.
+
+(2) The member or group must not have regard to any matter, information or evidence raised or provided by the CAA if it was not considered by the CAA in making the decision that is the subject of the application or appeal, unless the member or group considers that—
+
+(a) the CAA could not reasonably have been expected to consider the matter, information or evidence when making that decision, and
+
+(b) the matter, information or evidence is likely to have an important effect on the outcome of the application or appeal, either by itself or taken together with other matters, information or evidence.
+
+(3) The member or group must not have regard to any matter, information or evidence raised or provided by a person other than the CAA if it was not considered by the CAA in making the decision that is the subject of the application or appeal, unless the member or group considers that—
+
+(a) the person or a relevant connected person could not reasonably have raised the matter with the CAA, or provided the information or evidence to the CAA, during the period in which the CAA was making that decision, and
+
+(b) the matter, information or evidence is likely to have an important effect on the outcome of the application or appeal, either by itself or taken together with other matters, information or evidence.
+
+(4) Where the member or group has regard to a matter, information or evidence in reliance on sub-paragraph (2) or (3), those sub-paragraphs do not prevent the member or group having regard to further matters, information or evidence raised or provided in response to it if the member or group considers that the further matter, information or evidence is likely to have an important effect on the outcome of the application or appeal, either by itself or taken together with other matters, information or evidence.
+
+(5) In sub-paragraph (3), in relation to a person who raises or provides a matter, information or evidence, “relevant connected person” means a person who was connected to that person at any time during the period in which the CAA was making the decision that is the subject of the application or appeal.
+
+(6) References in this paragraph to the period in which the CAA was making a decision are to the period—
+
+(a) beginning with the publication of a notice under section 15(1) or 22(2) proposing to make the decision, and
+
+(b) ending with the publication of a notice under section 15(5) or 22(6) in relation to the decision.
+
+#### Production of documents
+
+**24** (1) The [[^F140]Competition and Markets Authority] may by notice require a person to produce to [[^F141]the Competition and Markets Authority] documents specified or described in the notice that are in the person's custody or under the person's control.
+
+(2) The notice may require the production of documents—
+
+(a) at the time and place specified in the notice, and
+
+(b) in the form and manner specified in the notice.
+
+(3) The notice may not require a person to produce documents that the person could not be compelled to provide in evidence in civil proceedings before the appropriate court.
+
+(4) A notice under this paragraph may be given [[^F142]on behalf of the Competition and Markets Authority by an authorised member of the Competition and Markets Authority].
+
+#### Oral hearings
+
+**25** (1) For the purposes of this Schedule the following persons may hold an oral hearing and take evidence on oath—
+
+(a) an authorised member of the [[^F143]Competition and Markets Authority] considering an application under paragraph 1 for permission to appeal,
+
+(b) an authorised member of the [[^F143]Competition and Markets Authority] considering an application under paragraph 4 for permission to intervene,
+
+(c) an authorised member of the [[^F143]Competition and Markets Authority] considering an application under paragraph 9 or 12 for a direction, and
+
+(d) a group with the function of determining an appeal.
+
+(2) In the course of holding such a hearing and taking such evidence, a person or group described in sub-paragraph (1) may administer oaths.
+
+(3) [[^F144]An authorised member of the Competition and Markets Authority] may by notice require a person—
+
+(a) to attend at a time and place specified in the notice, and
+
+(b) at that time and place, to give evidence to a member or group described in sub-paragraph (1).
+
+(4) At an oral hearing, the member or group conducting the hearing may require the following persons to give evidence or to make representations—
+
+(a) the applicant, the appellant or any intervener (if present), or
+
+(b) a person attending the hearing as a representative of the applicant, the appellant, an intervener or the CAA.
+
+(5) A person who gives oral evidence at the hearing may be cross-examined by or on behalf of a party to the appeal, subject to sub-paragraph (6).
+
+(6) Such a person may be cross-examined by or on behalf of an intervener only with the leave of the person or group conducting the hearing.
+
+(7) If the applicant, the appellant, an intervener or a representative of such a person or the CAA is not present at a hearing—
+
+(a) [[^F145]there is no requirement] to give notice to that person under sub-paragraph (3), and
+
+(b) the member or group conducting the hearing may determine the application or appeal without hearing that person's evidence or representations.
+
+(8) A person may not be required under this paragraph to give evidence that the person could not be compelled to give in civil proceedings before the appropriate court.
+
+(9) Where a person is required under this paragraph to attend at a place more than 16 kilometres from the person's place of residence, [[^F146]an authorised member of the Competition and Markets Authority must arrange for the person to be paid] the necessary expenses of attendance.
+
+(10) A notice under this paragraph may be given [[^F147]on behalf of the Competition and Markets Authority by an authorised member of the Competition and Markets Authority].
+
+#### Written evidence
+
+**26** (1) The [[^F148]Competition and Markets Authority] may by notice require a person to produce a written statement with respect to a matter specified in the notice to—
+
+(a) an authorised member of the [[^F148]Competition and Markets Authority] considering an application under paragraph 1 for permission to appeal,
+
+(b) an authorised member of the [[^F148]Competition and Markets Authority] considering an application under paragraph 4 for permission to intervene,
+
+(c) an authorised member of the [[^F148]Competition and Markets Authority] considering an application under paragraph 9 or 12 for a direction, or
+
+(d) a group with the function of determining an appeal.
+
+(2) The notice may require the written statement—
+
+(a) to be produced at the time and place specified in the notice, and
+
+(b) to be verified by a statement of truth.
+
+(3) Where a notice requires a written statement to be verified by a statement of truth, the statement may be disregarded unless it is so verified.
+
+(4) A person may not be required under this paragraph to produce a written statement about a matter about which the person could not be compelled to give evidence in civil proceedings before the appropriate court.
+
+(5) A notice under this paragraph may be given [[^F149]on behalf of the Competition and Markets Authority by an authorised member of the Competition and Markets Authority].
+
+#### Expert advice
+
+**27** Where permission to appeal is granted under paragraph 2, the [[^F150] Competition and Markets Authority ] may commission expert advice with respect to any matter raised by a party to the appeal.
+
+#### Enforcement of requirements in relation to evidence etc
+
+**28** (1) This paragraph applies where a person (“P”)—
+
+(a) fails to comply with a notice under paragraph 24, 25 or 26,
+
+(b) fails to comply with any other requirement imposed under paragraph 24, 25 or 26,
+
+(c) in complying with a notice under paragraph 26, makes a statement that is false or misleading in a material respect, or
+
+(d) in providing information verified by a statement of truth required by appeal rules, provides information that is false or misleading in a material respect.
+
+(2) [[^F151] An authorised member of the Competition and Markets Authority ] may certify to the appropriate court—
+
+(a) the failure,
+
+(b) the fact that P has made a false or misleading statement in circumstances described in sub-paragraph (1)(c), or
+
+(c) the fact that P has provided false or misleading information in circumstances described in sub-paragraph (1)(d).
+
+(3) The appropriate court may inquire into the certified failure or act and, if it does so, must hear—
+
+(a) any witness against P,
+
+(b) any witness on behalf of P, and
+
+(c) any statement in P's defence.
+
+(4) The appropriate court may punish P as if P had been guilty of contempt of court if it is satisfied that—
+
+(a) the certified failure or act took place, and
+
+(b) P did not have a reasonable excuse for the failure or act.
+
+(5) Where P is a body corporate, the appropriate court may punish any director or other officer of that body, either instead of or as well as punishing the body.
+
+(6) In this paragraph “director”, in relation to a body corporate whose affairs are managed by its members, means a member of the body.
+
+#### Destruction of documents
+
+**29** (1) A person who intentionally alters, suppresses or destroys a document that the person has been required to produce under paragraph 24 is guilty of an offence.
+
+(2) A person guilty of an offence under this paragraph is liable—
+
+(a) on summary conviction, to a fine not exceeding the statutory maximum;
+
+(b) on conviction on indictment, to imprisonment for not more than 2 years or a fine (or both).
+
+#### Withdrawal of applications and appeals
+
+**30** (1) An application under paragraph 1 for permission to appeal may be withdrawn only with the consent of [[^F152] the Competition and Markets Authority ].
+
+(2) After an application for permission to appeal is granted, the appeal may be withdrawn only with the consent of [[^F152] the Competition and Markets Authority ].
+
+(3) An application under paragraph 4 for permission to intervene may be withdrawn only with the consent of [[^F152] the Competition and Markets Authority ].
+
+(4) After an application for permission to intervene is granted, the intervener may withdraw from the appeal only with the consent of [[^F152] the Competition and Markets Authority ].
+
+[[^F153](4A) For the purposes of sub-paragraphs (1) to (4), the consent of the Competition and Markets Authority is to be given by an authorised member of the Competition and Markets Authority.]
+
+(5) An application under paragraph 9 or 12 for a direction suspending the effect of a decision may be withdrawn at any time.
+
+(6) Withdrawal of an application under this Schedule or of an appeal has effect when the applicant or appellant gives notice to the [[^F154] Competition and Markets Authority ].
+
+(7) The applicant or appellant must send a copy of the notice to the CAA.
+
+(8) The CAA must—
+
+(a) publish the notice, and
+
+(b) send a copy of the notice to the persons listed in sub-paragraph (9) (other than the person withdrawing the application or appeal).
+
+(9) Those persons are—
+
+(a) the holder of the licence that is the subject of the application or appeal,
+
+(b) any other person with a qualifying interest in the decision that is the subject of the application or appeal, and
+
+(c) such bodies representing airport operators or providers of air transport services as the CAA considers appropriate.
+
+#### Appeal rules
+
+**31** (1) The [[^F155] CMA Board ] may make rules regulating the conduct and disposal of appeals.
+
+(2) The rules may include provision supplementing the provisions of this Schedule in relation to any application, notice, hearing or requirement for which this Schedule provides.
+
+(3) The rules may, in particular, include—
+
+(a) provision requiring an application to be accompanied by information specified in the rules,
+
+(b) provision requiring such information to be verified by a statement of truth,
+
+(c) provision requiring an applicant to provide the CAA with information specified in the rules,
+
+(d) provision imposing time limits or other restrictions on the taking of evidence at an oral hearing, and
+
+(e) provision imposing time limits or other restrictions on the making of representations or observations at such a hearing.
+
+(4) The rules may make different provision for different purposes.
+
+(5) Before making rules under this paragraph the [[^F156] CMA Board ] must consult such persons as it considers appropriate.
+
+(6) The [[^F157] CMA Board ] must publish rules made under this paragraph.
+
+#### Costs
+
+**32** (1) Where an application under this Schedule or an appeal is withdrawn, an authorised member of the [[^F158]Competition and Markets Authority] may make such order as the member thinks fit requiring the parties to the application or appeal to make payments to each other and to [[^F159]the Competition and Markets Authority] in respect of costs incurred in connection with the application or appeal.
+
+(2) A group that determines an appeal must make an order requiring the payment to the [[^F160]Competition and Markets Authority] of the costs incurred by [[^F161]the Competition and Markets Authority] in connection with the appeal.
+
+(3) An order under sub-paragraph (2) must require those costs to be paid—
+
+(a) where the appeal is allowed in full, by the CAA,
+
+(b) where the appeal is dismissed in full, by the appellant, and
+
+(c) where the appeal is allowed in part, by the appellant and the CAA in such proportions as the [[^F162]group] considers appropriate,
+
+subject to sub-paragraph (4).
+
+(4) The order may require an intervener in the appeal to pay such proportion of those costs (if any) as the [[^F162]group] considers appropriate.
+
+(5) A group that determines an appeal may make such order as it thinks fit requiring one party to the appeal to make payments to another in respect of costs reasonably incurred by the other party in connection with the appeal.
+
+(6) A person who is required to make a payment by an order under this paragraph must comply with the order before the end of the period of 28 days beginning with the day after the making of the order.
+
+(7) If that person does not do so, the unpaid balance carries interest at a rate specified in the order or determined in accordance with the order.
+
+(8) In this paragraph, references to an intervener in an appeal, and to a party to an appeal, include a person who was granted permission to intervene in the appeal and subsequently withdrew from the appeal.
+
+#### Secretary of State's power to modify time limits
+
+**33** The Secretary of State may by regulations modify any period of time specified in this Schedule.
+
+#### Publication etc
+
+**34** Where the CAA or the [[^F163] Competition and Markets Authority or a member of the Competition and Markets Authority ] is required by this Schedule to publish something or send a copy of something and this Schedule does not specify a time for doing so, [[^F164]it must be published or sent] as soon as practicable.
+
+#### Interpretation
+
+**35** (1) In this Schedule—
+
+- “appeal” means an appeal under section 24 or 25;
+
+- “appeal rules” means rules under paragraph 31;
+
+- “the appropriate court” means—
+
+  - (a) in relation to England and Wales and Northern Ireland, the High Court, and
+  - (b) in relation to Scotland, the Court of Session;
+
+- [[^F165]“authorised member of the Competition and Markets Authority—
+
+  - (a) in relation to a power exercisable in connection with an appeal or application or direction in respect of which a group has been constituted by the chair of the Competition and Markets Authority under Schedule 4 to the Enterprise and Regulatory Reform Act 2013, means a member of that group who has been authorised by the chair of the Competition and Markets Authority to exercise that power;
+  
+  - (b) in relation to a power exercisable in connection with an application for permission to bring an appeal, or otherwise in connection with an appeal or application or direction in respect of which a group has not been so constituted by the chair of the Competition and Markets Authority, means—
+  
+    - any member of the CMA Board who is also a member of the CMA panel, or
+    - any member of the CMA panel authorised by the Secretary of State (whether generally or specifically) to exercise the power in question;]
+
+- [^F166]...
+
+- [^F167]...
+
+- [[^F168] “ CMA Board ” and “ CMA panel ” have the same meaning as in Schedule 4 to the Enterprise and Regulatory Reform Act 2013; ]
+
+- “intervener”, in relation to an appeal, means a person who has been granted permission to intervene in the appeal and who has not withdrawn from the appeal (but see paragraph 32(8));
+
+- “statement of truth”, in relation to the production of a statement or in relation to information provided by a person, means a statement that the person producing that statement or providing that information believes the facts contained in the statement or the information to be true.
+
+(2) References in this Schedule to a party to an application are to—
+
+(a) the applicant, or
+
+(b) the CAA.
+
+(3) References in this Schedule to a party to an appeal are to—
+
+(a) the appellant,
+
+(b) an intervener, or
+
+(c) the CAA.
+
+(4) For the purposes of this Schedule and sections 28 and 29, a person has a qualifying interest in a decision that is the subject of an appeal or an application under this Schedule for permission to appeal if—
+
+(a) the person has been granted permission to appeal against the decision and has not withdrawn the appeal,
+
+(b) the person has applied for permission to appeal against the decision and the application has not been withdrawn or refused,
+
+(c) the person has been granted permission to intervene in an appeal against the decision and the appeal has not been withdrawn,
+
+(d) the person has applied for permission to intervene in an appeal against the decision and the application has not been withdrawn or refused, or
+
+(e) the person has applied for a direction under this Schedule suspending the effect of the decision, the application has not been withdrawn or refused and any direction made in response to the application has not been withdrawn.
+
+## SCHEDULE 3 — Appeals against orders and penalties
+
+*Section 47*
+
+### Appeals against enforcement orders and urgent enforcement orders
+
+**1** (1) A person may appeal to the Competition Appeal Tribunal against—
+
+(a) an enforcement order given to the person, or
+
+(b) an urgent enforcement order given to the person that has been confirmed.
+
+(2) The appeal may be against one or more of the following—
+
+(a) a decision to give the order or, in the case of an urgent enforcement order, to confirm the order;
+
+(b) a decision as to the steps specified in the order;
+
+(c) a decision as to the period allowed for taking those steps.
+
+(3) The making of an appeal under this paragraph against an enforcement order suspends the effect of the order until the appeal is decided or withdrawn, unless the Competition Appeal Tribunal orders otherwise.
+
+(4) The making of an appeal under this paragraph against an urgent enforcement order does not suspend the effect of the order, unless the Competition Appeal Tribunal orders otherwise.
+
+### Appeals against modification and revocation of orders
+
+**2** (1) A person may appeal to the Competition Appeal Tribunal against—
+
+(a) a decision to modify or revoke an enforcement order, or
+
+(b) a decision to modify or revoke an urgent enforcement order that has been confirmed.
+
+(2) An appeal under this paragraph may be made only by a person—
+
+(a) who is not the person to whom the order was given, but
+
+(b) who appears to the Competition Appeal Tribunal to have a sufficient interest in the decision.
+
+(3) The making of an appeal under this paragraph against the modification or revocation of an order suspends its modification or revocation until the appeal is decided or withdrawn, unless the Competition Appeal Tribunal orders otherwise.
+
+### Appeals against penalties
+
+**3** (1) A person may appeal to the Competition Appeal Tribunal against a penalty imposed on the person under section 39 or 40.
+
+(2) The appeal may be against one or more of the following—
+
+(a) a decision to impose the penalty;
+
+(b) a decision as to the amount of the penalty;
+
+(c) in the case of a penalty calculated entirely or partly by reference to a daily amount, a decision as to the period during which daily amounts accumulate;
+
+(d) a decision as to the period allowed for payment of the penalty.
+
+(3) Where a person appeals under this paragraph against a penalty, the CAA may not require the person to pay the penalty until the appeal is decided or withdrawn.
+
+### Decisions on appeal
+
+**4** (1) The Competition Appeal Tribunal may allow an appeal under paragraph 1, 2 or 3 only to the extent that it is satisfied that the decision appealed against was wrong on one or more of the following grounds—
+
+(a) that the decision was based on an error of fact;
+
+(b) that the decision was wrong in law;
+
+(c) that an error was made in the exercise of a discretion.
+
+(2) It may—
+
+(a) confirm or set aside the order, modification, revocation or penalty;
+
+(b) give the CAA such directions as it considers appropriate, including directions about the time within which the CAA must act.
+
+(3) It may not direct the CAA to do anything that the CAA would not have power to do apart from the direction.
+
+(4) The CAA must comply with directions under this paragraph.
+
+(5) When deciding an appeal under paragraph 1, 2 or 3 (including giving directions), the Competition Appeal Tribunal must have regard to the matters in respect of which duties are imposed on the CAA by section 1.
+
+### Further appeals
+
+**5** (1) An appeal lies to the appropriate court on a point of law arising from a decision of the Competition Appeal Tribunal under paragraph 4, including a direction.
+
+(2) An appeal under this paragraph may be brought by a party to the proceedings before the Competition Appeal Tribunal.
+
+(3) An appeal may not be brought under this paragraph without the permission of—
+
+(a) the Competition Appeal Tribunal, or
+
+(b) the appropriate court.
+
+(4) “The appropriate court” means—
+
+(a) in the case of an appeal from proceedings in England and Wales and Northern Ireland, the Court of Appeal, or
+
+(b) in the case of an appeal from proceedings in Scotland, the Court of Session.
+
+## SCHEDULE 4 — Appeals against revocation of licence
+
+*Section 49*
+
+### Appeals against revocation of licence
+
+**1** (1) A person may appeal to the Competition Appeal Tribunal against—
+
+(a) a notice under section 48(1) revoking a licence, and
+
+(b) a further notice under section 48(9) withdrawing a notice revoking a licence,
+
+unless the notice or further notice was given in accordance with a direction given by the Competition Appeal Tribunal under this Schedule.
+
+(2) The appeal may be against one or more of the following—
+
+(a) a decision to give the notice or further notice;
+
+(b) in the case of an appeal under sub-paragraph (1)(a), a decision as to the day on which revocation takes effect.
+
+(3) The making of an appeal under this paragraph against a notice under section 48(1) revoking a licence—
+
+(a) suspends the effect of the notice until the appeal is decided or withdrawn, and
+
+(b) extends the period specified in the notice until the appeal is decided or withdrawn.
+
+(4) The making of an appeal under this paragraph against a further notice under section 48(9) withdrawing a notice revoking a licence—
+
+(a) suspends the effect of the further notice until the appeal is decided or withdrawn, and
+
+(b) extends the period specified in the notice revoking the licence until the appeal is decided or withdrawn.
+
+### Notice of appeal
+
+**2** (1) An appeal under paragraph 1 must be made by sending a notice of appeal to the Registrar of the Competition Appeal Tribunal.
+
+(2) The notice must be received by the Registrar before the end of the period of 30 days beginning with the relevant day.
+
+(3) In the case of an appeal under paragraph 1(1)(a) “the relevant day” means the later of—
+
+(a) the day on which the CAA publishes the notice under section 48(1) revoking the licence, and
+
+(b) the day on which the CAA publishes a notice extending the period on which the notice revoking the licence takes effect.
+
+(4) In the case of an appeal under paragraph 1(1)(b) “the relevant day” means the day on which the CAA publishes the further notice under section 48(9).
+
+(5) Sub-paragraphs (1) and (2) have effect subject to provision in rules made under section 15 of the Enterprise Act 2002 (Tribunal rules) after this Schedule comes into force—
+
+(a) as to the person to whom a notice of an appeal under paragraph 1 must be given;
+
+(b) providing that such a notice must be received within a longer or shorter period beginning with the relevant day.
+
+### Decisions on appeal
+
+**3** (1) The Competition Appeal Tribunal may allow an appeal under paragraph 1 only to the extent that it is satisfied that the decision appealed against was wrong on one or more of the following grounds—
+
+(a) that the decision was based on an error of fact;
+
+(b) that the decision was wrong in law;
+
+(c) that an error was made in the exercise of a discretion.
+
+(2) It may—
+
+(a) confirm or set aside the notice that is the subject of the appeal;
+
+(b) give the CAA such directions as it considers appropriate, including directions about the time within which the CAA must act.
+
+(3) It may not direct the CAA to do anything that the CAA would not have power to do apart from the direction.
+
+(4) The CAA must comply with directions under this paragraph.
+
+(5) When deciding an appeal under paragraph 1 (including giving directions), the Competition Appeal Tribunal must have regard to the matters in respect of which duties are imposed on the CAA by section 1.
+
+### Further appeals
+
+**4** (1) An appeal lies to the appropriate court on a point of law arising from a decision of the Competition Appeal Tribunal under paragraph 3, including a direction.
+
+(2) An appeal under this paragraph may be brought by a party to the proceedings before the Competition Appeal Tribunal.
+
+(3) An appeal may not be brought under this paragraph without the permission of—
+
+(a) the Competition Appeal Tribunal, or
+
+(b) the appropriate court.
+
+(4) “The appropriate court” means—
+
+(a) in the case of an appeal from proceedings in England and Wales and Northern Ireland, the Court of Appeal, or
+
+(b) in the case of an appeal from proceedings in Scotland, the Court of Session.
+
+## SCHEDULE 5 — Appeals against penalties: information
+
+*Section 55*
+
+### Appeals against penalties
+
+**1** (1) A person may appeal to the Competition Appeal Tribunal against a penalty imposed on the person under section 51 or 52.
+
+(2) The appeal may be against one or more of the following—
+
+(a) a decision to impose the penalty;
+
+(b) a decision as to the amount of the penalty;
+
+(c) in the case of a penalty calculated entirely or partly by reference to a daily amount, a decision as to the period during which daily amounts accumulate;
+
+(d) a decision as to the period allowed for payment of the penalty.
+
+(3) Where a person appeals under this paragraph against a penalty, the CAA may not require the person to pay the penalty until the appeal is decided or withdrawn.
+
+### Decisions on appeal
+
+**2** (1) The Competition Appeal Tribunal may allow an appeal under paragraph 1 only to the extent that it is satisfied that the decision appealed against was wrong on one or more of the following grounds—
+
+(a) that the decision was based on an error of fact;
+
+(b) that the decision was wrong in law;
+
+(c) that an error was made in the exercise of a discretion.
+
+(2) It may—
+
+(a) confirm or set aside the penalty;
+
+(b) give the CAA such directions as it considers appropriate, including directions about the time within which the CAA must act.
+
+(3) It may not direct the CAA to do anything that the CAA would not have power to do apart from the direction.
+
+(4) The CAA must comply with directions under this paragraph.
+
+(5) When deciding an appeal under paragraph 1 (including giving directions), the Competition Appeal Tribunal must have regard to the matters in respect of which duties are imposed on the CAA by section 1.
+
+### Further appeals
+
+**3** (1) An appeal lies to the appropriate court on a point of law arising from a decision of the Competition Appeal Tribunal under paragraph 2, including a direction.
+
+(2) An appeal under this paragraph may be brought by a party to the proceedings before the Competition Appeal Tribunal.
+
+(3) An appeal may not be brought under this paragraph without the permission of—
+
+(a) the Competition Appeal Tribunal, or
+
+(b) the appropriate court.
+
+(4) “The appropriate court” means—
+
+(a) in the case of an appeal from proceedings in England and Wales and Northern Ireland, the Court of Appeal, or
+
+(b) in the case of an appeal from proceedings in Scotland, the Court of Session.
+
+## SCHEDULE 6 — Restrictions on disclosing information
+
+*Section 59*
+
+### Prohibition on disclosure
+
+**1** (1) This paragraph applies to information if—
+
+(a) it was obtained under or by virtue of Chapter 1 of this Part, and
+
+(b) it relates to the affairs of an individual or to a particular business.
+
+(2) The information must not be disclosed—
+
+(a) during the lifetime of the individual, or
+
+(b) while the business continues to be carried on.
+
+(3) Sub-paragraph (2) has effect subject to the following provisions of this Schedule.
+
+### Disclosure with consent
+
+**2** Paragraph 1(2) does not apply to a disclosure made with the consent of—
+
+(a) the individual, or
+
+(b) the person for the time being carrying on the business.
+
+### Disclosure of information already available to public
+
+**3** Paragraph 1(2) does not apply to information that has been made available to the public by being disclosed—
+
+(a) in circumstances in which disclosure is not precluded by this Schedule, or
+
+(b) for a purpose for which disclosure is not precluded by this Schedule.
+
+### Other permitted disclosures
+
+**4** (1) Paragraph 1(2) does not apply where information is disclosed—
+
+(a) for the purpose of facilitating the carrying out of functions of a relevant person under a relevant statutory provision, or
+
+(b) for the purposes of civil proceedings brought under or by virtue of a relevant statutory provision.
+
+(2) These are relevant persons—
+
+- the CAA;
+- a Minister of the Crown (within the meaning of the Ministers of the Crown Act 1975);
+- the Welsh Ministers;
+- the Scottish Ministers;
+- a Northern Ireland Department;
+- the Competition Appeal Tribunal;
+- the [[^F169]Competition and Markets Authority];
+- [^F170]...
+- the Gas and Electricity Markets Authority;
+- the Northern Ireland Authority for Utility Regulation;
+- the Water Services Regulation Authority;
+- [^F171]the Office of Rail Regulation [[^F171]Office of Rail and Road];
+- the Coal Authority;
+- the Office of Communications;
+- [^F172]...
+- a local weights and measures authority in Great Britain;
+- a district council in Northern Ireland.
+
+(3) These are relevant statutory provisions—
+
+- Part 1 of this Act;
+
+- sections 83 and 84 of this Act;
+
+- Trade Descriptions Act 1968;
+
+- Fair Trading Act 1973;
+
+- Consumer Credit Act 1974;
+
+- Estate Agents Act 1979;
+
+- Competition Act 1980;
+
+- Civil Aviation Act 1982;
+
+- Air Navigation Orders made under section 60 of the Civil Aviation Act 1982;
+
+- regulations made under section 75 of the Civil Aviation Act 1982 (investigation of accidents);
+
+- Airports Act 1986;
+
+- Gas Act 1986;
+
+- Insolvency Act 1986;
+
+- Consumer Protection Act 1987;
+
+- Consumer Protection (Northern Ireland) Order 1987 (S.I. 1987/2049 (N.I. 20));
+
+- Electricity Act 1989;
+
+- Insolvency (Northern Ireland) Order 1989 (S.I. 1989/2405 (N.I. 19));
+
+- Broadcasting Act 1990;
+
+- [^F173]...
+
+- Water Industry Act 1991;
+
+- Water Resources Act 1991;
+
+- Electricity (Northern Ireland) Order 1992 (S.I. 1992/231 (N.I. 1));
+
+- Railways Act 1993;
+
+- Airports (Northern Ireland) Order 1994 (S.I. 1994/426 (N.I. 1));
+
+- Broadcasting Act 1996;
+
+- Gas (Northern Ireland) Order 1996 (S.I. 1996/275 (N.I. 2));
+
+- Competition Act 1998;
+
+- Part 1 of the Transport Act 2000;
+
+- Enterprise Act 2002;
+
+- Communications Act 2003;
+
+- Water Act 2003;
+
+- Railways Act 2005;
+
+- Water and Sewerage Services (Northern Ireland) Order 2006 (S.I. 2006/3336 (N.I. 21));
+
+- Postal Services Act 2011;
+
+- [[^F174]Parts 3 and 4 of the Enterprise and Regulatory Reform Act 2013;]
+
+- [[^F175]Water Act 2014;]
+
+- [[^F176]the following provisions of the Digital Markets, Competition and Consumers Act 2024—
+
+  - Part 3;
+  - [^F177]Chapter 1 of Part 4;
+  - Chapter 2 of Part 5.]
+
+and subordinate legislation made for the purpose of securing compliance with relevant EU provisions.
+
+(4) These are relevant EU provisions—
+
+(a) Articles 104 and 105 of the Treaty on the Functioning of the European Union (competition);
+
+[^F178]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(c) Directive 2006/114/EC of the European Parliament and of the Council of 12 December 2006 concerning misleading and comparative advertising;
+
+(d) Directive 2009/12/EC of the European Parliament and of the Council of 11 March 2009 on airport charges.
+
+**5** Paragraph 1(2) does not apply where information is disclosed—
+
+(a) in connection with the investigation of a criminal offence or for the purposes of criminal proceedings,
+
+(b) in pursuance of [[^F179][[^F180]an assimilated] obligation],
+
+[^F181]c . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(d) for the purpose of enabling or assisting the Secretary of State or the Treasury to exercise powers conferred by or under the Financial Services and Markets Act 2000 or by or under the enactments relating to companies, insurance companies or insolvency,
+
+(e) for the purpose of enabling or assisting an inspector appointed under the enactments relating to companies to carry out functions under those enactments,
+
+(f) for the purpose of enabling or assisting an official receiver to carry out functions under the enactments relating to insolvency,
+
+(g) for the purpose of enabling or assisting a recognised professional body for the purposes of section 391 of the Insolvency Act 1986 or Article 350 of the Insolvency (Northern Ireland) Order 1989 (S.I. 1989/2405 (N.I. 19)) to carry out its functions,
+
+(h) for the purpose of facilitating the carrying out by the Health and Safety Executive of its functions under an enactment,
+
+[[^F182](ha) for the purpose of facilitating the carrying out by the Office for Nuclear Regulation of its functions under an enactment,]
+
+(i) for the purpose of facilitating the carrying out by an enforcing authority (within the meaning of Part 1 of the Health and Safety at Work etc Act 1974) of functions under a relevant statutory provision (within the meaning of that Act), or
+
+(j) for the purpose of facilitating the carrying out by the Comptroller and Auditor General of functions under any enactment.
+
+**6** The Secretary of State may by regulations amend paragraph 4 or 5.
+
+### Offence
+
+**7** A person who discloses information in contravention of paragraph 1(2) is guilty of an offence and liable—
+
+(a) on summary conviction, to a fine not exceeding the statutory maximum, or
+
+(b) on conviction on indictment, to imprisonment for not more than 2 years or to a fine (or both).
+
+### Criminal liability of officers of bodies corporate etc
+
+**8** (1) Sub-paragraph (2) applies if an offence under this Schedule committed by a body corporate—
+
+(a) is committed with the consent or connivance of a director, manager, secretary or other similar officer of the body corporate or a person who was purporting to act in such a capacity, or
+
+(b) is attributable to neglect on the part of such a person.
+
+(2) That person, as well as the body corporate, commits the offence.
+
+(3) In sub-paragraph (1) “director”, in relation to a body corporate whose affairs are managed by its members, means a member of the body.
+
+## SCHEDULE 7 — Index of defined expressions
+
+*Section 72*
+
+This Table lists expressions defined in Part 1 of this Act.
+
+|  |  |
+|---|---|
+| *Expression* | *Section* |
+| air traffic services | Section 72 |
+| air transport service | Section 69 |
+| airport | Section 66 |
+| airport area | Section 5 |
+| airport operation services | Section 68 |
+| airport operator | Section 72 |
+| area | Section 5 |
+| building or other structure | Section 72 |
+| the CAA | Section 72 |
+| cargo | Section 72 |
+| change of circumstances | Section 72 |
+| conduct | Section 72 |
+| connected | Section 71 |
+| contravention | Section 72 |
+| contravention notice | Section 72 |
+| core area (in relation to an airport) | Section 5 |
+| document | Section 72 |
+| dominant airport | Section 5 |
+| dominant area | Section 5 |
+| enforcement order | Section 72 |
+| international obligation of the United Kingdom | Section 72 |
+| land | Section 72 |
+| licence | Section 72 |
+| licence condition | Section 17(3) and (5) |
+| market power determination | Section 72 |
+| market power test | Section 6 |
+| modifying (in relation to licence conditions) | Section 72 |
+| notice | Section 72 |
+| operator (in relation to an airport area) | Section 9 |
+| operator determination | Section 10 |
+| price control condition | Section 19 |
+| provider (in relation to an air transport service) | Section 69 |
+| providing (in relation to a service) | Section 72 |
+| remedying the consequences of a contravention | Section 72 |
+| representation | Section 72 |
+| representation period (in connection with contravention notice) | Section 31 |
+| urgent enforcement order | Section 72 |
+| user (in relation to an air transport service) | Section 69 |
+
+## SCHEDULE 8 — Status of airport operators as statutory undertakers etc
+
+*Section 76*
+
+### PART 1 — Great Britain
+
+#### Airports Act 1986 (c. 31)
+
+**1** The Airports Act 1986 is amended as follows.
+
+**2** For section 57 (scope of Part 5: status of certain airport operators as statutory undertakers etc) substitute—
+
+> **Scope of Part 5**
+>
+> **57A** (1) In this Part “relevant airport operator” means the airport operator in the case of an airport to which this Part applies.
+>
+> (2) This Part applies to any airport in respect of which a certificate has been granted under this section (and has not been withdrawn).
+>
+> (3) The CAA must grant a certificate under this section in respect of an airport if, but only if—
+>
+> (a) the airport operator applies for a certificate (and has not withdrawn the application),
+>
+> (b) the airport operator pays the charge (if any) specified in a scheme or regulations made under section 11 of the 1982 Act, and
+>
+> (c) the CAA considers that, at the time, the airport is an eligible airport.
+>
+> (4) An airport is an eligible airport if—
+>
+> (a) the annual turnover of the business carried on at the airport by the airport operator exceeded £1 million in at least two of the last three financial years ending before the application for the certificate is made, and
+>
+> (b) the airport is not excluded by virtue of subsection (5).
+>
+> (5) The excluded airports are—
+>
+> (a) an airport owned by a principal council or jointly owned by two or more principal councils;
+>
+> (b) an airport owned by an Integrated Transport Authority in England or jointly owned by such an Authority and one or more principal councils;
+>
+> (c) an airport owned by a metropolitan county passenger transport authority in Scotland or jointly owned by such an authority and one or more principal councils.
+>
+> (6) The appropriate Minister may withdraw a certificate granted under this section in respect of an airport if the appropriate Minister considers that, at the time, the annual turnover of the business carried on at the airport by the airport operator in each of the last two financial years did not exceed the sum for the time being specified in subsection (4)(a).
+>
+> (7) Before withdrawing a certificate in respect of an airport, the appropriate Minister must consult—
+>
+> (a) the CAA, and
+>
+> (b) the airport operator.
+>
+> (8) The withdrawal of a certificate does not affect any rights or liabilities accruing by virtue of this Part before it is withdrawn.
+>
+> (9) In this section—
+>
+> - “annual turnover”, in relation to the business carried on at an airport by the airport operator, means the aggregate of all sums received in the course of the business during a financial year, as stated or otherwise shown in the accounts of the business, including grants from any public or local authority but excluding—
+>
+>   - (a) capital receipts, and
+>   - (b) loans made by any person;
+>
+> - “the appropriate Minister” means—
+>
+>   - (a) in relation to an airport in England or Wales, the Secretary of State, and
+>   - (b) in relation to an airport in Scotland, the Scottish Ministers;
+>
+> - “financial year” means a period of 12 months ending with 31 March;
+>
+> - “local authority” and “principal council” have the same meaning as in Part 2.
+>
+> (10) Where the person who is for the time being the airport operator in relation to an airport has not had its management for the whole or any part of a period relevant for the purposes of this section, references in this section to the business carried on at the airport by the airport operator include a reference to the business carried on there by any other person who was the airport operator in relation to the airport for the whole or any part of that period.
+>
+> (11) The Secretary of State may by order substitute a greater sum for the sum specified in subsection (4)(a).
+>
+> (12) An order under subsection (11) does not affect the validity of a certificate granted under this section before the order comes into force.
+
+**3** (1) Section 79 (orders and regulations) is amended as follows.
+
+(2) In subsection (2), at the end insert “ , unless it is an instrument described in subsection (4A) ”.
+
+(3) After subsection (4) insert—
+
+> (4A) A statutory instrument that contains (whether alone or with other provision) an order under section 57A(11) increasing the specified sum by more than is necessary to reflect changes in the value of money may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, each House of Parliament.
+
+#### Consequential repeal
+
+**4** In Schedule 4 to the Local Transport Act 2008, omit paragraph 54(3).
+
+#### Power to make provision in relation to operators of airport areas
+
+**5** (1) The Secretary of State may by regulations make provision about the operation of section 57A of the Airports Act 1986 in cases in which two or more persons are operators of different areas that form part of the same airport.
+
+(2) Regulations under this paragraph may modify—
+
+(a) section 57A of the Airports Act 1986, and
+
+(b) any provision of an Act (including the Airports Act 1986), or of an instrument made under an Act, which refers to or otherwise operates by reference to a relevant airport operator or an airport to which Part 5 of the Airports Act 1986 applies.
+
+(3) In this paragraph—
+
+- “Act” includes an Act or Measure of the National Assembly for Wales and an Act of the Scottish Parliament;
+- “airport” has the same meaning as in the Airports Act 1986;
+- “modify” includes amend, repeal or revoke;
+- “operator”, in relation to an area that forms part of an airport, means the person who is the operator of the area for the purposes of this Part of this Act;
+- “relevant airport operator” has the same meaning as in Part 5 of the Airports Act 1986.
+
+### PART 2 — Northern Ireland
+
+#### Airports (Northern Ireland) Order 1994 (S.I. 1994/426 (N.I. 1))
+
+**6** The Airports (Northern Ireland) Order 1994 is amended as follows.
+
+**7** In Article 2(2) (interpretation), for the definition of “regulated airport” substitute—
+
+> “regulated airport” has the meaning given in Article 2A;
+
+.
+
+**8** In Part 2 (powers in relation to land exercisable in connection with airports), before Article 3 insert—
+
+> **Regulated airports**
+>
+> **2A** (1) In this Order “regulated airport” means an airport in respect of which a certificate has been granted under this Article (and has not been withdrawn).
+>
+> (2) The CAA must grant a certificate under this Article in respect of an airport if, but only if—
+>
+> (a) the airport operator applies for a certificate (and has not withdrawn the application),
+>
+> (b) the airport operator pays the charge (if any) specified in a scheme or regulations made under section 11 of the 1982 Act, and
+>
+> (c) the CAA considers that, at the time, the airport is an eligible airport.
+>
+> (3) An airport is an eligible airport if the annual turnover of the business carried on at the airport by the airport operator exceeded £1 million in at least two of the last three financial years ending before the application for the certificate is made.
+>
+> (4) The Department may withdraw a certificate granted under this Article in respect of an airport if it considers that, at the time, the annual turnover of the business carried on at the airport by the airport operator in each of the last two financial years did not exceed the sum for the time being specified in paragraph (3).
+>
+> (5) Before withdrawing a certificate in respect of an airport, the Department must consult—
+>
+> (a) the CAA, and
+>
+> (b) the airport operator.
+>
+> (6) The withdrawal of a certificate does not affect any rights or liabilities accruing by virtue of this Part or Article 25 or 26 before it is withdrawn.
+>
+> (7) In this Article—
+>
+> - “annual turnover”, in relation to the business carried on at an airport by the airport operator, means the aggregate of all sums received in the course of the business during a financial year, as stated or otherwise shown in the accounts of the business, including grants from any public body but excluding—
+>
+>   - (a) capital receipts, and
+>   - (b) loans made by any person;
+>
+> - “financial year” means a period of 12 months ending with 31 March;
+>
+> - “public body” means a body established by or under a statutory provision.
+>
+> (8) Where the person who is for the time being the airport operator in relation to an airport has not had its management for the whole or any part of a period relevant for the purposes of this Article, references in this Article to the business carried on at the airport by the airport operator include a reference to the business carried on there by any other person who was the airport operator in relation to the airport for the whole or any part of that period.
+>
+> (9) The Department may, by order made with the consent of the Department of Finance and Personnel, substitute a greater sum for the sum specified in paragraph (3).
+>
+> (10) An order under paragraph (9) does not affect the validity of a certificate granted under this Article before the order comes into force.
+
+**9** (1) Article 70 (regulations and orders) is amended as follows.
+
+(2) In paragraph (2), after “Schedule 7” insert “ and orders described in paragraph (2A) ”.
+
+(3) After paragraph (2) insert—
+
+> (2A) An order under Article 2A(9) increasing the specified sum by more than is necessary to reflect changes in the value of money may not be made unless a draft of the order has been laid before, and approved by a resolution of, the Assembly.
+
+**10** The amendments in paragraphs 7 to 9 are without prejudice to the power to make further orders amending or revoking the provisions inserted.
+
+#### Power to make provision in relation to operators of airport areas
+
+**11** (1) The Secretary of State may by regulations make provision about the operation of Article 2A of the Airports (Northern Ireland) Order 1994 in cases in which two or more persons are operators of different areas that form part of the same airport.
+
+(2) Regulations under this paragraph may modify—
+
+(a) Article 2A of the Airports (Northern Ireland) Order 1994, and
+
+(b) any provision of Northern Ireland legislation (including the Airports (Northern Ireland) Order 1994), or of an instrument made under Northern Ireland legislation, which refers to or otherwise operates by reference to a regulated airport or an airport operator of such an airport.
+
+(3) In this paragraph—
+
+- “airport” and “airport operator” have the same meaning as in the Airports (Northern Ireland) Order 1994;
+- “modify” includes amend, repeal or revoke;
+- “operator”, in relation to an area that forms part of an airport, means the person who is the operator of the area for the purposes of this Part of this Act;
+- “regulated airport” has the same meaning as in the Airports (Northern Ireland) Order 1994.
+
+## SCHEDULE 9 — Regulation of operators of dominant airports: consequential provision
+
+*Section 76*
+
+### Fair Trading Act 1973 (c. 41)
+
+**1** Omit section 93B (false or misleading information provided to Competition Commission in connection with functions under Airports Act 1986).
+
+### Airports Act 1986 (c. 31)
+
+**2** The Airports Act 1986 is amended as follows.
+
+**3** (1) Section 74 (restriction on disclosure of information) is amended as follows.
+
+(2) In subsection (3)—
+
+(a) omit paragraph (ll), and
+
+(b) after paragraph (w) insert—
+
+> (x) Part 1 of the Civil Aviation Act 2012
+
+.
+
+(3) In subsection (4)—
+
+(a) leave out paragraph (a), and
+
+(b) in paragraph (b), for “such a report” substitute “ a report of the Competition Commission under section 45 ”.
+
+**4** (1) Section 82 (general interpretation) is amended as follows.
+
+(2) In subsection (1), in paragraph (a) of the definition of “user”, for “the definition of “relevant activities” in section 36(1)” substitute “ subsection (1A) ”.
+
+(3) After that subsection insert—
+
+> (1A) The services and facilities mentioned in the definition of “user” in subsection (1) are services or facilities provided at an airport for the purposes of—
+>
+> (a) the landing, parking or taking off of aircraft,
+>
+> (b) the servicing of aircraft (including the supply of fuel), or
+>
+> (c) the handling of passengers or their baggage or of cargo at all stages while on airport premises.
+>
+> (1B) The services and facilities mentioned in subsection (1A)(c)—
+>
+> (a) include services and facilities provided for the purposes of the transfer of passengers, their baggage or cargo to and from aircraft, but
+>
+> (b) do not include facilities for car parking, for the refreshment of passengers or for the supply of consumer goods or services.
+
+(4) In subsection (3) omit “or 37”.
+
+### Water Act 1989 (c. 15)
+
+**5** In section 174(3) of the Water Act 1989 (exceptions from restrictions on disclosure of information), after paragraph (m) insert—
+
+> (n) Part 1 of the Civil Aviation Act 2012
+
+.
+
+### Water Industry Act 1991 (c. 56)
+
+**6** In Part 2 of Schedule 15 to the Water Industry Act 1991 (enactments conferring functions for the purposes of which information may be disclosed), at the end insert— “ Part 1 of the Civil Aviation Act 2012. ”
+
+### Water Resources Act 1991 (c. 57)
+
+**7** In Part 2 of Schedule 24 to the Water Resources Act 1991 (enactments conferring functions for the purposes of which information may be disclosed), at the end insert— “ Part 1 of the Civil Aviation Act 2012. ”
+
+### Railways Act 1993 (c. 43)
+
+**8** In section 145(3) of the Railways Act 1993 (exceptions from restrictions on disclosure of information), after paragraph (r) insert—
+
+> (s) Part 1 of the Civil Aviation Act 2012
+
+.
+
+### Competition Act 1998 (c. 41)
+
+**9** In paragraph 19A of Schedule 7 to the Competition Act 1998 (performance of Commission's general functions: rules of procedure), in the definition of “special reference group” in sub-paragraph (9), omit paragraphs (c) and (j).
+
+### Greater London Authority Act 1999 (c. 29)
+
+**10** In section 235(3) of the Greater London Authority Act 1999 (exceptions from restrictions on disclosure of information), after paragraph (s) insert—
+
+> (t) Part 1 of the Civil Aviation Act 2012
+
+.
+
+### Utilities Act 2000 (c. 27)
+
+**11** In section 105(6) of the Utilities Act 2000 (exceptions from restrictions on disclosure of information), after paragraph (w) insert—
+
+> (x) Part 1 of the Civil Aviation Act 2012
+
+.
+
+### Transport Act 2000 (c. 38)
+
+**12** In paragraph 3(3) of Schedule 9 to the Transport Act 2000 (exceptions from restrictions on disclosure of information), after paragraph (re) insert—
+
+> (rf) Part 1 of the Civil Aviation Act 2012;
+
+.
+
+### Enterprise Act 2002 (c. 40)
+
+**13** The Enterprise Act 2002 is amended as follows.
+
+**14** (1) Section 168 (regulated markets) is amended as follows.
+
+(2) In subsection (3)—
+
+(a) omit paragraph (b), and
+
+(b) at the end insert—
+
+> (q) modifying the conditions of a licence granted under Chapter 1 of Part 1 of the Civil Aviation Act 2012
+
+.
+
+(3) In subsection (4)—
+
+(a) omit paragraph (b), and
+
+(b) at the end insert—
+
+> (s) in relation to a licence granted under Chapter 1 of Part 1 of the Civil Aviation Act 2012, the duties of the Civil Aviation Authority under section 1 of that Act
+
+.
+
+**15** In Schedule 15 (enactments conferring functions for the purposes of which information may be disclosed), at the end insert— “ Civil Aviation Act 2012. ”
+
+### Civil Contingencies Act 2004 (c. 36)
+
+**16** (1) Schedule 1 to the Civil Contingencies Act 2004 (category 1 and 2 responders) is amended as follows.
+
+(2) In Part 3 (category 2 responders: general), after paragraph 26 insert—
+
+> **26A** A person who, for the purposes of Part 1 of the Civil Aviation Act 2012, is an operator of an airport area that consists of or forms part of an airport in Great Britain.
+
+(3) In Part 4 (category 2 responders: Scotland), after paragraph 36 insert—
+
+> **36A** A person who, for the purposes of Part 1 of the Civil Aviation Act 2012, is an operator of an airport area that consists of or forms part of an airport in Scotland.
+
+### Further repeals and revocations
+
+**17** The following repeals and revocations are consequential on section 76(1) and (2) and the preceding paragraphs of this Schedule.
+
+|  |  |
+|---|---|
+| *Act or instrument* | *Extent of repeal or revocation* |
+| Companies Act 1989 (c. 40) | Section 151. |
+| Airports (Northern Ireland) Order 1994 (S.I. 1994/426 (N.I. 1)) | In Schedule 9, paragraph 10. |
+| Scotland Act 1998 (Transfer of Functions to Scottish Ministers) Order 1999 (S.I. 1999/1750) | In Schedule 1, in the entry in respect of the Airports Act 1986, the word “37(5),”. |
+| Enterprise Act 2002 (c. 40) | In Schedule 9—<br>- (a) paragraphs 2(2) and (4) and 3;<br>- (b) paragraphs 11(2) and (4) and 12. In Schedule 25—<br>- (a) paragraph 5(4)(b);<br>- (b) paragraph 14(3) to (5);<br>- (c) paragraph 33(3) to (6). |
+| Transport Act 2000 (c. 38) | In Schedule 8, paragraph 10. |
+| Civil Aviation Act 2006 (c. 34) | In Schedule 2, paragraph 5. |
+| Serious Crime Act 2007 (c. 27) | In Schedule 6—<br>- (a) paragraph 10;<br>- (b) paragraph 26. |
+
+## SCHEDULE 10 — Regulation of operators of dominant airports: transitional provision
+
+*Section 76*
+
+### PART 1 — Regulation
+
+#### Definitions
+
+**1** In this Part of this Schedule—
+
+- “the 1986 Act” means the Airports Act 1986;
+- “the 1994 Order” means the Airports (Northern Ireland) Order 1994 (S.I. 1994/426 (N.I. 1));
+- “the commencement day” means the day on which section 3 of this Act comes into force;
+- “designated airport” means an airport (as defined in the 1986 Act or the 1994 Order) which is designated for the purposes of section 40 of the 1986 Act or Article 31 of the 1994 Order;
+- “the interim period” means the period beginning with the commencement day and ending with 31 March 2014.
+
+#### Market power determinations: designated airports
+
+**2** (1) This paragraph applies where, immediately before the commencement day, an airport is a designated airport.
+
+(2) The market power test is to be treated as met on the commencement day in relation to the airport area consisting of the whole of the airport.
+
+(3) Part 1 of this Act has effect on and after the commencement day as if the CAA—
+
+(a) had made a determination to that effect on the commencement day, and
+
+(b) had published a notice of the determination on that day in accordance with section 8.
+
+(4) In section 7(5) (disapplication of CAA's duty to make market power determination), the reference to a market power determination previously made by the CAA does not include a determination treated as made by virtue of sub-paragraph (3).
+
+(5) Section 8(3) (CAA's reasons for determination) does not apply in relation to the notice treated as published under sub-paragraph (3).
+
+(6) A person may not appeal under Schedule 1 against the market power determination treated as made under sub-paragraph (3).
+
+#### Exemption from prohibition for designated airports during interim period
+
+**3** (1) This paragraph applies where, immediately before the commencement day, an airport is a designated airport.
+
+(2) Nothing in Chapters 1 and 3 of this Part prevents a person from requiring payment of, or recovering, charges in respect of services provided at the airport during the shorter of the following periods—
+
+(a) the interim period;
+
+(b) the period beginning with the commencement day and ending with the day on which the airport ceases to be a designated airport.
+
+#### Designation and de-designation before commencement day
+
+**4** (1) In section 7(5) (disapplication of CAA's duty to make market power determination), the reference to a market power determination previously made by the CAA in relation to an airport area (or an area that includes all of a particular airport area) includes any of the following that are made on or after 10 November 2011—
+
+(a) an order designating the airport at which the area is located for the purposes of section 40 of the 1986 Act or Article 31 of the 1994 Order;
+
+(b) an order revoking the designation of that airport for those purposes;
+
+(c) a decision by the Secretary of State or the Department of the Environment in Northern Ireland not to make an order mentioned in paragraph (a) or (b).
+
+(2) Where—
+
+(a) a request is made before the commencement day for an order designating an airport for the purposes of section 40 of the 1986 Act or Article 31 of the 1994 Order or revoking the designation of an airport for those purposes, and
+
+(b) the Secretary of State or the Department of the Environment in Northern Ireland does not make the order, or decide not to make the order, before the commencement day,
+
+the request is to be treated on and after that day as a request to the CAA for a market power determination in respect of the airport area consisting of the whole of the airport.
+
+(3) In this paragraph, references to an airport are to an airport as defined in the 1986 Act or the 1994 Order, except in the expression “airport area”.
+
+#### Designation and de-designation during interim period
+
+**5** (1) During the interim period, an order may not be made designating an airport for the purposes of section 40 of the 1986 Act or Article 31 of the 1994 Order.
+
+(2) Section 40A(1) of the 1986 Act and Article 31A(1) of the 1994 Order (duty to designate airports in specified circumstances) do not require an order designating an airport for those purposes to be made during the interim period.
+
+(3) During the interim period, an order designating an airport for the purposes of section 40 of the 1986 Act or Article 31 of the 1994 Order—
+
+(a) must be revoked if the CAA makes, and publishes a notice of, a determination that the market power test is not met in relation to the designated airport (subject to sub-paragraph (4)), and
+
+(b) may not otherwise be revoked.
+
+(4) During the interim period, such an order must not be revoked—
+
+(a) during the period in which a person may appeal to the Competition Appeal Tribunal against the determination,
+
+(b) at a time when the effect of the determination is suspended or the Secretary of State or the Department of the Environment in Northern Ireland considers that it may be suspended, or
+
+(c) if all or part of the determination has been set aside or quashed.
+
+(5) Where—
+
+(a) a request is made during the interim period for an order revoking the designation of an airport for the purposes of section 40 of the 1986 Act or Article 31 of the 1994 Order, and
+
+(b) the Secretary of State or the Department of the Environment in Northern Ireland does not make the order, or decide not to make the order, before the end of that period,
+
+the request is to be treated after the end of the interim period as a request to the CAA for a market power determination in respect of the airport area consisting of the whole of the airport.
+
+(6) In this paragraph, references to an airport are to an airport as defined in the 1986 Act or the 1994 Order, except in the expressions “airport area” and “dominant airport”.
+
+#### Modification of preceding paragraphs
+
+**6** (1) This paragraph applies where an airport as defined in section 66 of this Act (a “2012 Act airport”) consists of an airport as defined in the 1986 Act or the 1994 Order (a “predecessor airport”) and other land, buildings and structures.
+
+(2) In this paragraph “the main operator's airport area” means the whole of the area at the 2012 Act airport in respect of which the operator (as defined in this Act) on the commencement day is the person who was the operator (as defined in the 1986 Act or the 1994 Order) of the predecessor airport immediately before the commencement day.
+
+(3) In paragraph 2—
+
+(a) the reference in sub-paragraph (1) to an airport is to the predecessor airport, and
+
+(b) the reference in sub-paragraph (2) to the airport area consisting of the whole of the airport is to the main operator's airport area.
+
+(4) In paragraph 3—
+
+(a) the reference in sub-paragraph (1) to an airport is to the predecessor airport,
+
+(b) the reference in sub-paragraph (2) to services provided at the airport is to services provided in the main operator's airport area, and
+
+(c) the reference in sub-paragraph (2)(b) to the airport is to the predecessor airport.
+
+(5) An airport area that is not located at the predecessor airport is to be treated as located at that airport for the purposes of paragraph 4(1) if it forms part of the main operator's airport area.
+
+(6) Where a request falling within paragraph 4(2)(a) and (b) is made in relation to the predecessor airport, the request is to be treated on and after the commencement day as a request for a market power determination in respect of the main operator's airport area.
+
+(7) In paragraph 5(3), the reference to a determination that the market power test is not met in relation to the designated airport includes a determination that it is not met in relation to an airport area that includes the whole of the predecessor airport.
+
+(8) Where a request falling within paragraph 5(5)(a) and (b) is made in relation to the predecessor airport, the request is to be treated after the end of the interim period as a request for a market power determination in respect of the main operator's airport area.
+
+#### Power to amend this Schedule
+
+**7** The power under section 108 may not be used—
+
+(a) to provide that the interim period ends before 31 March 2014, or
+
+(b) to make provision having an effect equivalent to any effect that would result from such a change.
+
+### PART 2 — Status of airport operators as statutory undertakers etc
+
+#### Great Britain
+
+**8** In paragraphs 9 to 12 “the commencement day” means the day on which Part 1 of Schedule 8 comes into force.
+
+**9** (1) This paragraph applies where, in relation to an airport, a permission to levy airport charges is in force under Part 4 of the Airports Act 1986 (economic regulation of airports) immediately before the commencement day (but see paragraph 11).
+
+(2) The permission has effect on and after the commencement day as if it were a certificate granted by the CAA under section 57A of that Act (statutory undertakers) (inserted by Part 1 of Schedule 8).
+
+**10** (1) This paragraph applies where, immediately before the commencement day, there subsists a pending application made by the operator of an airport in accordance with section 38 of the Airports Act 1986 for a permission to levy airport charges (but see paragraph 11).
+
+(2) The application has effect on and after the commencement day as if it were an application for a certificate under section 57A of that Act (statutory undertakers) (inserted by Part 1 of Schedule 8).
+
+(3) Part 5 of the Airports Act 1986 (statutory undertakers) applies to the airport while the application is pending.
+
+**11** Paragraphs 9 and 10 do not apply where the airport is an airport mentioned in section 57A(5) of the Airports Act 1986 (airports owned by councils or transport authorities etc) (inserted by Part 1 of Schedule 8).
+
+**12** Nothing in this Act affects any rights or liabilities accruing under or by virtue of Part 5 of the Airports Act 1986 (statutory undertakers) before the commencement day.
+
+**13** In paragraphs 9 to 11, “airport” has the same meaning as in the Airports Act 1986.
+
+#### Northern Ireland
+
+**14** In paragraphs 15 to 17 “the commencement day” means the day on which Part 2 of Schedule 8 comes into force.
+
+**15** (1) This paragraph applies where, in relation to an airport, a permission to levy airport charges is in force under Part 4 of the Airports (Northern Ireland) Order 1994 (S.I. 1994/426 (N.I. 1)) (economic regulation of airports) immediately before the commencement day.
+
+(2) The permission has effect on and after the commencement day as if it were a certificate granted by the CAA under Article 2A of that Order (statutory undertakers) (inserted by Part 2 of Schedule 8).
+
+**16** (1) This paragraph applies where, immediately before the commencement day, there subsists a pending application made by the operator of an airport in accordance with Article 29 of the Airports (Northern Ireland) Order 1994 (S.I. 1994/426 (N.I. 1)) for a permission to levy airport charges.
+
+(2) The application has effect on and after the commencement day as if it were an application for a certificate under Article 2A of that Order (regulated airports) (inserted by Part 2 of Schedule 8).
+
+(3) The airport is to be treated as a regulated airport for the purposes of the Airports (Northern Ireland) Order 1994 (S.I. 1994/426 (N.I. 1)) while the application is pending.
+
+**17** Nothing in this Act affects any rights or liabilities accruing under or by virtue of Part 2 of the Airports (Northern Ireland) Order 1994 (S.I. 1994/426 (N.I. 1)) (powers in relation to land exercisable in connection with airports) or Article 25 or 26 of that Order before the commencement day.
+
+**18** In paragraphs 15 to 17, “airport” has the same meaning as in the Airports (Northern Ireland) Order 1994 (S.I. 1994/426 (N.I. 1)).
+
+## SCHEDULE 11 — Aviation security directions etc: minor and consequential amendments
+
+*Section 78*
+
+### Civil Aviation Act 1982 (c. 16)
+
+**1** Part 1 of the Civil Aviation Act 1982 (administration) is amended as follows.
+
+**2** In section 11 (charges by CAA) at the end insert—
+
+> (8) References in this section to functions of the CAA include functions conferred by or under Part 2 of the Aviation Security Act 1982 on authorised persons (as defined in that Part) to the extent that the functions are carried out by persons authorised by the CAA.
+
+**3** In section 20 (supplementary provisions with respect to functions of the CAA) at the end insert—
+
+> (5) References in this section to functions of the CAA include functions conferred by or under Part 2 of the Aviation Security Act 1982 on authorised persons (as defined in that Part) to the extent that the functions are carried out by persons authorised by the CAA.
+
+### Aviation Security Act 1982 (c. 36)
+
+**4** Part 2 of the Aviation Security Act 1982 (protection of civil aviation against acts of violence and other unlawful interference) is amended as follows.
+
+**5** For the heading before section 11 substitute “ Information ”.
+
+**6** (1) Section 11 (power to require information) is amended as follows.
+
+(2) In subsection (1)—
+
+(a) for “The Secretary of State” substitute “ A relevant authority ”,
+
+(b) for “the Secretary of State”, in each place, substitute “ the authority ”, and
+
+(c) for “his functions” substitute “ functions conferred by or ”.
+
+(3) After that subsection insert—
+
+> (1A) Each of the following is a relevant authority for the purposes of this section—
+>
+> (a) the Secretary of State, and
+>
+> (b) the CAA.
+
+(4) In subsections (2) to (4) and (6) for “Secretary of State”, in each place, substitute “ relevant authority ”.
+
+(5) In subsection (4) for “him” substitute “ the authority ”.
+
+(6) In subsection (6)—
+
+(a) after “person” insert “ by a relevant authority ”, and
+
+(b) after “varied” insert “ by the relevant authority ”.
+
+(7) Accordingly, in the heading of that section omit “for Secretary of State”.
+
+**7** Before section 11A insert— “ Designation of security restricted areas ”.
+
+**8** (1) Section 11A (designation of security restricted area) is amended as follows.
+
+(2) After subsection (4) insert—
+
+> (4A) Before approving an application without modifications the Secretary of State shall consult the CAA.
+
+(3) In subsection (5), before paragraph (a) insert—
+
+> (za) the CAA,
+
+.
+
+(4) In subsection (8), before paragraph (a) insert—
+
+> (za) the CAA,
+
+.
+
+**9** Before section 12 insert— “ Directions ”.
+
+**10** In section 12(3) (power to impose restrictions in relation to aircraft)—
+
+(a) for “the Civil Aviation Authority” substitute “ the CAA ”, and
+
+(b) for “that Authority” substitute “ the CAA ”.
+
+**11** In section 15(2) (matters which may be included in directions under section 12) for “the Civil Aviation Authority” substitute “ the CAA ”.
+
+**12** (1) After section 17 insert—
+
+> **Copies of directions etc for CAA**
+>
+> **17A** (1) The Secretary of State must give the CAA a copy of—
+>
+> (a) each direction under section 12, 13, 13A or 14, and
+>
+> (b) each direction varying or revoking such a direction.
+>
+> (2) The Secretary of State must inform the CAA of each notification given under section 17.
+
+(2) The amendment made by sub-paragraph (1) applies only in relation to directions and notifications given on or after the day on which this paragraph comes into force.
+
+**13** (1) Section 18A (enforcement notices) is amended as follows.
+
+(2) Omit subsection (3).
+
+(3) After that subsection insert—
+
+> (4) Where a person authorised in writing by the Secretary of State for the purposes of this Part of this Act serves an enforcement notice, the Secretary of State must give the CAA a copy of the notice.
+>
+> (5) Where a person authorised in writing by the CAA for the purposes of this Part of this Act serves an enforcement notice, the CAA must give the Secretary of State a copy of the notice.
+
+**14** (1) Section 18D (objections to enforcement notices) is amended as follows.
+
+(2) After subsection (3) insert—
+
+> (3A) On receipt of an objection to an enforcement notice under subsection (1) the Secretary of State must—
+>
+> (a) give a copy of the objection to the authorised person who served the enforcement notice and the CAA,
+>
+> (b) consider the objection,
+>
+> (c) allow the person making the objection and the authorised person who served the enforcement notice an opportunity to make written or oral representations to the Secretary of State or a person appointed by the Secretary of State,
+>
+> (d) give a decision notice to the person who made the objection, and
+>
+> (e) give a copy of the decision notice to the authorised person who served the enforcement notice and the CAA.
+
+(3) In subsection (4)—
+
+(a) for the words from the beginning to “on the objector” substitute “ In this section “decision notice” means ”, and
+
+(b) in paragraph (b) for “notice under this subsection” substitute “ decision notice ”.
+
+(4) In subsection (5) for “a notice under subsection (4) above”, in both places, substitute “ a decision notice ”.
+
+**15** (1) Section 20B (detention directions) is amended as follows.
+
+(2) After subsection (2) insert—
+
+> (2A) Where a person authorised in writing by the Secretary of State for the purposes of this Part of this Act gives a detention direction, the Secretary of State must give the CAA a copy of the direction.
+>
+> (2B) Where a person authorised in writing by the CAA for the purposes of this Part of this Act gives a detention direction, the CAA must give the Secretary of State a copy of the direction.
+
+(3) In subsection (5)—
+
+(a) before paragraph (a) insert—
+
+> (za) give a copy of the objection to the authorised person who gave the direction and the CAA,
+
+,
+
+(b) omit “and” at the end of paragraph (c),
+
+(c) in paragraph (d) omit “and the authorised person who gave the direction”, and
+
+(d) after that paragraph insert
+
+> , and
+>
+> (e) give a copy of the notice to the authorised person who gave the direction and the CAA.
+
+**16** In section 21 (application of provisions to air navigation installations), in subsection (7)—
+
+(a) after “in section” insert “ 14A, 16A, ”, and
+
+(b) after “17,” insert “ 17A, ”.
+
+**17** (1) Section 21G (duty to report certain occurrences) is amended as follows.
+
+(2) In subsection (1) after “to him” insert “ or the CAA ”.
+
+(3) In subsection (2) after “consult” insert
+
+> —
+>
+> (a) the CAA, and
+>
+> (b)
+
+.
+
+### Application of Part 3 of Regulatory Enforcement and Sanctions Act 2008 (“the RESA 2008”)
+
+**18** The offences under section 11 of the Aviation Security Act 1982 (as amended by this Schedule) (“the ASA 1982”) in connection with providing, or failing to provide, information to the Civil Aviation Authority are to be treated for the purposes of Part 3 of the RESA 2008 (civil sanctions) as contained in Part 2 of the ASA 1982 immediately before the day on which the RESA 2008 was passed.
+
+## SCHEDULE 12 — Aviation security: further provision about transfer schemes
+
+*Section 82*
+
+### Transfer
+
+**1** (1) The property, rights and liabilities that may be transferred by a scheme under section 82 (a “transfer scheme”) include property, rights and liabilities that would otherwise be incapable of being transferred.
+
+(2) A transfer scheme may—
+
+(a) create rights, or impose liabilities, in relation to property transferred by the scheme,
+
+(b) create new rights and liabilities as between the Crown and the Civil Aviation Authority (“the CAA”), and
+
+(c) apportion property, rights and liabilities between the Crown and the CAA.
+
+(3) A transfer scheme may include consequential, incidental, supplementary, transitional, transitory and saving provision.
+
+### Employment
+
+**2** (1) This paragraph has effect where rights, powers, duties and liabilities relating to an individual's contract of employment are transferred in accordance with a transfer scheme.
+
+(2) The transfer does not break the continuity of the individual's employment and accordingly—
+
+(a) the individual is not to be regarded for the purposes of Part 11 of the Employment Rights Act 1996 (redundancy) as having been dismissed by virtue of the transfer, and
+
+(b) the individual's period of employment in the civil service of the Crown counts as a period of employment with the CAA for the purposes of that Act.
+
+**3** (1) This paragraph has effect where—
+
+(a) a transfer scheme contains provision for the transfer of rights, powers, duties and liabilities relating to an individual's contract of employment, but
+
+(b) before the transfer takes effect, the individual informs the Secretary of State or the CAA that the individual objects to the transfer.
+
+(2) Those rights, powers, duties and liabilities are not transferred under the transfer scheme.
+
+(3) The individual's contract of employment is terminated immediately before the day on which the transfer would occur.
+
+(4) The individual is not, for any purpose, to be regarded as having been dismissed.
+
+(5) Nothing in this paragraph affects the individual's right to terminate the contract of employment if, apart from the change of employer, a substantial change is made to the individual's detriment in the individual's working conditions.
+
+**4** (1) If a transfer scheme contains provision for the transfer of rights, powers, duties and liabilities relating to an individual's contract of employment, it may include provision with respect to the individual's eligibility to become a member of a pension scheme by virtue of employment with the CAA.
+
+(2) The transfer scheme may include provision with respect to rights of, or rights or liabilities in respect of, the individual under—
+
+(a) a pension scheme of which the individual may become a member by virtue of employment with the CAA, or
+
+(b) a pension scheme of which the individual is a member by virtue of employment immediately before the transfer.
+
+(3) In this paragraph “pension scheme” includes a scheme made under section 1 of the Superannuation Act 1972 (superannuation schemes as respects civil servants etc).
+
+### Civil servants treated as employed under a contract of employment etc
+
+**5** (1) This Schedule applies with the following modifications in relation to employment in the civil service of the Crown on terms which do not constitute a contract of employment.
+
+(2) Where an individual holds such employment—
+
+(a) the individual is to be treated as employed under a contract of employment,
+
+(b) the terms of the employment in the civil service of the Crown are to be treated as the terms of that contract, and
+
+(c) the reference in paragraph 3 to dismissal is to be treated as a reference to termination of the employment in the civil service of the Crown.
+
+### Certificate
+
+**6** A certificate issued by the Secretary of State that any property, rights, powers, duties or liabilities have been transferred to the CAA under a transfer scheme is conclusive evidence of the transfer.
+
+### Validity
+
+**7** A transfer under a transfer scheme does not affect the validity of anything done by or in relation to the Crown before the transfer takes effect.
+
+### Continuity
+
+**8** (1) A transfer scheme may provide for things done by or in relation to the Crown for the purposes of or in connection with anything transferred under a transfer scheme to be—
+
+(a) treated as done by or in relation to the CAA or its members or employees, or
+
+(b) continued by or in relation to the CAA or its members or employees.
+
+(2) A transfer scheme may, in particular—
+
+(a) make provision about the continuation of legal proceedings, and
+
+(b) make provision for references to the Crown in documents to be treated as references to the CAA.
+
+## SCHEDULE 13 — Appeals against penalties
+
+*Section 90*
+
+### Appeals against penalties
+
+**1** (1) A person may appeal to the Competition Appeal Tribunal against a penalty imposed on the person under section 86 or 87.
+
+(2) The appeal may be against one or more of the following—
+
+(a) a decision to impose the penalty;
+
+(b) a decision as to the amount of the penalty;
+
+(c) in the case of a penalty calculated entirely or partly by reference to a daily amount, a decision as to the period during which daily amounts accumulate;
+
+(d) a decision as to the period allowed for payment of the penalty.
+
+(3) Where a person appeals under this paragraph against a penalty, the CAA may not require the person to pay the penalty until the appeal is decided or withdrawn.
+
+### Decisions on appeal
+
+**2** (1) The Competition Appeal Tribunal may allow an appeal under paragraph 1 only to the extent that it is satisfied that the decision appealed against was wrong on one or more of the following grounds—
+
+(a) that the decision was based on an error of fact;
+
+(b) that the decision was wrong in law;
+
+(c) that an error was made in the exercise of a discretion.
+
+(2) It may—
+
+(a) confirm or set aside the notice or penalty;
+
+(b) give the CAA such directions as it considers appropriate, including directions about the time within which the CAA must act.
+
+(3) It may not direct the CAA to do anything that the CAA would not have power to do apart from the direction.
+
+(4) The CAA must comply with directions under this paragraph.
+
+(5) When deciding an appeal under paragraph 1 (including giving directions), the Competition Appeal Tribunal must have regard to the matters in respect of which duties are imposed on the CAA by section 4 of the Civil Aviation Act 1982.
+
+### Further appeals
+
+**3** (1) An appeal lies to the appropriate court on a point of law arising from a decision of the Competition Appeal Tribunal under paragraph 2, including a direction.
+
+(2) An appeal under this paragraph may be brought by a party to the proceedings before the Competition Appeal Tribunal.
+
+(3) An appeal may not be brought under this paragraph without the permission of—
+
+(a) the Competition Appeal Tribunal, or
+
+(b) the appropriate court.
+
+(4) “The appropriate court” means—
+
+(a) in the case of an appeal from proceedings in England and Wales or Northern Ireland, the Court of Appeal, or
+
+(b) in the case of an appeal from proceedings in Scotland, the Court of Session.
+
+## SCHEDULE 14 — CAA membership: transitional and saving provision
+
+*Section 99*
+
+### Commencement day
+
+**1** In this Schedule “the commencement day” means the day after the end of the period of 2 months beginning with the day on which this Act is passed.
+
+### Executive members of CAA
+
+**2** (1) This paragraph applies where a person—
+
+(a) is a member of the CAA immediately before the commencement day, and
+
+(b) receives a notice from the Secretary of State before that day—
+
+(i) stating that the person is to be an executive member of the CAA by virtue of this paragraph, and
+
+(ii) setting out the terms and conditions on which the person is to be employed by the CAA.
+
+(2) The person—
+
+(a) becomes an executive member and employee of the CAA on the commencement day as if appointed in accordance with section 2 of the Civil Aviation Act 1982 as amended by section 95 of this Act, and
+
+(b) is employed on the terms and conditions set out in the notice as if they had been determined and approved in accordance with paragraph 8A of Schedule 1 to the Civil Aviation Act 1982 (inserted by section 97 of this Act).
+
+### Chief executive of CAA
+
+**3** If the notice given to a person under paragraph 2(1)(b) states that the person is to be the chief executive of the CAA, the person becomes the chief executive of the CAA on the commencement day as if appointed in accordance with section 2 of the Civil Aviation Act 1982 as amended by section 95 of this Act.
+
+### Non-executive members of CAA
+
+**4** (1) This paragraph applies where a person—
+
+(a) is a member of the CAA immediately before the commencement day, and
+
+(b) does not receive a notice under paragraph 2(1)(b) before that day.
+
+(2) The person becomes a non-executive member of the CAA on the commencement day as if appointed in accordance with section 2 of the Civil Aviation Act 1982 as amended by section 95 of this Act.
+
+(3) The instrument appointing the person to the office of member of the CAA has effect on and after that day as if it were an instrument appointing the person to the office of non-executive member of the CAA.
+
+### Chair of CAA
+
+**5** The person who is the chairman of the CAA immediately before the commencement day becomes the chair of the CAA on that day as if appointed in accordance with section 2 of the Civil Aviation Act 1982 as amended by section 95 of this Act.
+
+### Pensions
+
+**6** (1) This paragraph applies where, before the commencement day, the CAA has made provision under paragraph 7 of Schedule 1 to the Civil Aviation Act 1982 for the payment of pensions to or in respect of persons who are or have been members of the CAA.
+
+(2) Despite the amendment of that paragraph by section 96 of this Act, the CAA must continue to make such provision as may be determined by the Secretary of State for the payment of pensions to or in respect of those persons.
+
+**7** (1) This paragraph applies where, before the commencement day, the CAA has made a determination under sub-paragraph (2) of paragraph 13 of Schedule 1 to the Civil Aviation Act 1982 in respect of the treatment of the service of a member of the CAA for the purposes of a pension scheme maintained by the CAA.
+
+(2) Despite the repeal of that sub-paragraph by section 96 of this Act, the member's service is to continue to be treated in accordance with the determination for the purposes of the pension scheme.
+
+### Nominee under section 66 of Transport Act 2000
+
+**8** (1) This paragraph applies where—
+
+(a) a nomination of a member of the CAA under section 66 of the Transport Act 2000 (CAA's air navigation functions) is in force immediately before the commencement day, and
+
+(b) the nominated member becomes an executive member of the CAA by virtue of paragraph 2.
+
+(2) The nomination is to be treated on and after that day as having been made in accordance with section 66 of the Transport Act 2000 as amended by section 98 of this Act.
+
+### Nominee under section 67 of Transport Act 2000
+
+**9** (1) This paragraph applies where—
+
+(a) a nomination of a member of the CAA under section 67 of the Transport Act 2000 (national security nominee) is in force immediately before the commencement day, and
+
+(b) the nominated member becomes a non-executive member of the CAA by virtue of paragraph 4.
+
+(2) The nomination is to be treated on and after that day as having been made in accordance with section 67 of the Transport Act 2000 as amended by section 98 of this Act.
+
+---
+
+[^F1]: S. 6(9)(a) omitted (31.12.2020) by virtue of The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93), reg. 1(1), Sch. 1 para. 14(2)(a) (with Sch. 4 paras. 7, 13) (as amended by S.I. 2020/1343, regs. 35-59); 2020 c. 1, Sch. 5 para. 1(1)
+[^F2]: S. 6(10)(a) omitted (31.12.2020) by virtue of The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93), reg. 1(1), Sch. 1 para. 14(2)(b) (with Sch. 4 paras. 7, 13) (as amended by S.I. 2020/1343, regs. 35-59); 2020 c. 1, Sch. 5 para. 1(1)
+[^F3]: Words in s. 6(10)(b) omitted (31.12.2020) by virtue of The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93), reg. 1(1), Sch. 1 para. 14(2)(c) (with Sch. 4 paras. 7, 13) (as amended by S.I. 2020/1343, regs. 35-59); 2020 c. 1, Sch. 5 para. 1(1)
+[^F4]: S. 6(11) omitted (31.12.2020) by virtue of The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93), reg. 1(1), Sch. 1 para. 14(2)(d) (with Sch. 4 paras. 7, 13) (as amended by S.I. 2020/1343, regs. 35-59); 2020 c. 1, Sch. 5 para. 1(1)
+[^F5]: Words in s. 24 heading substituted (1.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 6 para. 141(3); S.I. 2014/416, art. 2(1)(d) (with Sch.)
+[^F6]: Words in s. 24(1)(3) substituted (1.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 6 para. 141(2); S.I. 2014/416, art. 2(1)(d) (with Sch.)
+[^F7]: Words in s. 24(5) substituted (1.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 6 para. 141(2); S.I. 2014/416, art. 2(1)(d) (with Sch.)
+[^F8]: Words in s. 25 heading substituted (1.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 6 para. 142(3); S.I. 2014/416, art. 2(1)(d) (with Sch.)
+[^F9]: Words in s. 25(1) substituted (1.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 6 para. 142(2); S.I. 2014/416, art. 2(1)(d) (with Sch.)
+[^F10]: Words in s. 25(3) substituted (1.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 6 para. 142(2); S.I. 2014/416, art. 2(1)(d) (with Sch.)
+[^F11]: Words in s. 25(5) substituted (1.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 6 para. 142(2); S.I. 2014/416, art. 2(1)(d) (with Sch.)
+[^F12]: Words in s. 25(7) substituted (1.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 6 para. 142(2); S.I. 2014/416, art. 2(1)(d) (with Sch.)
+[^F13]: Words in s. 26 substituted (1.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 6 para. 143; S.I. 2014/416, art. 2(1)(d) (with Sch.)
+[^F14]: Words in s. 27(1) substituted (1.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 6 para. 144(2); S.I. 2014/416, art. 2(1)(d) (with Sch.)
+[^F15]: Words in s. 27(2) substituted (1.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 6 para. 144(3)(a); S.I. 2014/416, art. 2(1)(d) (with Sch.)
+[^F16]: Words in s. 27(2) substituted (1.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 6 para. 144(3)(b); S.I. 2014/416, art. 2(1)(d) (with Sch.)
+[^F17]: Words in s. 27(4) substituted (1.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 6 para. 144(4)(a); S.I. 2014/416, art. 2(1)(d) (with Sch.)
+[^F18]: Words in s. 27(4) substituted (1.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 6 para. 144(4)(b); S.I. 2014/416, art. 2(1)(d) (with Sch.)
+[^F19]: Words in s. 27(5) substituted (1.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 6 para. 144(5); S.I. 2014/416, art. 2(1)(d) (with Sch.)
+[^F20]: Words in s. 28(1) substituted (1.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 6 para. 145(2); S.I. 2014/416, art. 2(1)(d) (with Sch.)
+[^F21]: Words in s. 28(3) substituted (1.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 6 para. 145(2); S.I. 2014/416, art. 2(1)(d) (with Sch.)
+[^F22]: Words in s. 28(4) substituted (1.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 6 para. 145(2); S.I. 2014/416, art. 2(1)(d) (with Sch.)
+[^F23]: Words in s. 28(5) substituted (1.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 6 para. 145(3)(a); S.I. 2014/416, art. 2(1)(d) (with Sch.)
+[^F24]: Words in s. 28(5) substituted (1.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 6 para. 145(3)(b); S.I. 2014/416, art. 2(1)(d) (with Sch.)
+[^F25]: Words in s. 28(6)-(8) substituted (1.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 6 para. 145(4); S.I. 2014/416, art. 2(1)(d) (with Sch.)
+[^F26]: Words in s. 29(1) substituted (1.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 6 para. 146(2)(a); S.I. 2014/416, art. 2(1)(d) (with Sch.)
+[^F27]: Words in s. 29(1) substituted (1.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 6 para. 146(2)(b); S.I. 2014/416, art. 2(1)(d) (with Sch.)
+[^F28]: Words in s. 29(3)(4) substituted (1.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 6 para. 146(3); S.I. 2014/416, art. 2(1)(d) (with Sch.)
+[^F29]: Words in s. 29(5) substituted (1.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 6 para. 146(4)(a); S.I. 2014/416, art. 2(1)(d) (with Sch.)
+[^F30]: Words in s. 29(5) substituted (1.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 6 para. 146(4)(b); S.I. 2014/416, art. 2(1)(d) (with Sch.)
+[^F31]: Words in s. 30(2) substituted (1.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 6 para. 147(2); S.I. 2014/416, art. 2(1)(d) (with Sch.)
+[^F32]: S. 30(4) substituted (1.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 6 para. 147(3); S.I. 2014/416, art. 2(1)(d) (with Sch.)
+[^F33]: Words in s. 60(1) substituted (1.4.2014) by The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/892), art. 1(1), Sch. 1 para. 197(2)(a) (with art. 3)
+[^F34]: Word in s. 60(1) substituted (1.4.2014) by The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/892), art. 1(1), Sch. 1 para. 197(2)(b) (with art. 3)
+[^F35]: Word in s. 60(2) substituted (1.4.2014) by The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/892), art. 1(1), Sch. 1 para. 197(3)(a) (with art. 3)
+[^F36]: Words in s. 60(2) inserted (1.4.2014) by The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/892), art. 1(1), Sch. 1 para. 197(3)(b) (with art. 3)
+[^F37]: Word in s. 60(2) inserted (1.1.2025) by Digital Markets, Competition and Consumers Act 2024 (c. 13), s. 339(1), Sch. 12 para. 2(2); S.I. 2024/1226, regs. 1(2), 2(1)(16)
+[^F38]: Words in s. 60(2) substituted (1.4.2014) by The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/892), art. 1(1), Sch. 1 para. 197(3)(c) (with art. 3)
+[^F39]: Words in s. 60(2) omitted (1.4.2014) by virtue of The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/892), art. 1(1), Sch. 1 para. 197(3)(d) (with art. 3)
+[^F40]: Word in s. 60(3) substituted (1.4.2014) by The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/892), art. 1(1), Sch. 1 para. 197(4)(a) (with art. 3)
+[^F41]: Word in s. 60(3)(a) inserted (1.1.2025) by Digital Markets, Competition and Consumers Act 2024 (c. 13), s. 339(1), Sch. 12 para. 2(3); S.I. 2024/1226, regs. 1(2), 2(1)(16)
+[^F42]: Words in s. 60(3) substituted (1.4.2014) by The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/892), art. 1(1), Sch. 1 para. 197(4)(b) (with art. 3)
+[^F43]: S. 60(3A) inserted (1.4.2014) by The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/892), art. 1(1), Sch. 1 para. 197(5) (with art. 3)
+[^F44]: Words in s. 60(4) omitted (1.4.2014) by virtue of The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/892), art. 1(1), Sch. 1 para. 197(6)(a) (with art. 3)
+[^F45]: Words in s. 60(4)(a) substituted (1.4.2014) by The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/892), art. 1(1), Sch. 1 para. 197(6)(b) (with art. 3)
+[^F46]: Words in s. 60(4)(b) inserted (1.4.2014) by The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/892), art. 1(1), Sch. 1 para. 197(6)(c) (with art. 3)
+[^F47]: S. 60(4A) inserted (1.4.2014) by The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/892), art. 1(1), Sch. 1 para. 197(7) (with art. 3)
+[^F48]: Words in s. 61(1) substituted (1.4.2014) by The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/892), art. 1(1), Sch. 1 para. 198(2) (with art. 3)
+[^F49]: Word in s. 61(2) substituted (1.4.2014) by The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/892), art. 1(1), Sch. 1 para. 198(3) (with art. 3)
+[^F50]: Words in s. 61(3) substituted (1.4.2014) by The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/892), art. 1(1), Sch. 1 para. 198(4) (with art. 3)
+[^F51]: Words in s. 61(4) substituted (1.4.2014) by The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/892), art. 1(1), Sch. 1 para. 198(5)(a) (with art. 3)
+[^F52]: Word in s. 61(4)(a)(b) substituted (1.4.2014) by The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/892), art. 1(1), Sch. 1 para. 198(5)(b) (with art. 3)
+[^F53]: Words in s. 61(5) substituted (1.4.2014) by The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/892), art. 1(1), Sch. 1 para. 198(6)(a) (with art. 3)
+[^F54]: Word in s. 61(5) substituted (1.4.2014) by The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/892), art. 1(1), Sch. 1 para. 198(6)(b) (with art. 3)
+[^F55]: Words in s. 61(6) substituted (1.4.2014) by The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/892), art. 1(1), Sch. 1 para. 198(7) (with art. 3)
+[^F56]: Words in s. 61(8) substituted (1.1.2025) by Digital Markets, Competition and Consumers Act 2024 (c. 13), s. 339(1), Sch. 12 para. 3; S.I. 2024/1226, regs. 1(2), 2(1)(16)
+[^F57]: Word in s. 61(8)(9) substituted (1.4.2014) by The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/892), art. 1(1), Sch. 1 para. 198(8) (with art. 3)
+[^F58]: S. 61(12) inserted (1.1.2025 for specified purposes, 6.4.2025 for specified purposes) by Digital Markets, Competition and Consumers Act 2024 (c. 13), s. 339(1), Sch. 29 para. 1(2); S.I. 2024/1226, regs. 1(2), 2(1)(21); S.I. 2025/272, reg. 2(1)(13)
+[^F59]: Words in s. 62(1) substituted (1.4.2014) by The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/892), art. 1(1), Sch. 1 para. 199(2)(a) (with art. 3)
+[^F60]: Word in s. 62(1) substituted (1.4.2014) by The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/892), art. 1(1), Sch. 1 para. 199(2)(b) (with art. 3)
+[^F61]: Word in s. 62(2) substituted (1.4.2014) by The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/892), art. 1(1), Sch. 1 para. 199(3) (with art. 3)
+[^F62]: Word in s. 62(2)(a) substituted (31.12.2020) by S.I. 2019/93, Sch. 1 para 14(2A) (as inserted by The Competition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1343), regs. 1(1), 26(a))
+[^F63]: Word in s. 62(2) inserted (1.1.2025) by Digital Markets, Competition and Consumers Act 2024 (c. 13), s. 339(1), Sch. 12 para. 4(2); S.I. 2024/1226, regs. 1(2), 2(1)(16)
+[^F64]: Words in s. 62(2)(4) inserted (1.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 15 para. 51; S.I. 2014/416, art. 2(1)(f) (with Sch.)
+[^F65]: Word in s. 62(3)(b) inserted (31.12.2020) by S.I. 2019/93, Sch. 1 para. 14(3)(a) (as substituted by The Competition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1343), regs. 1(1), 26(b))
+[^F66]: S. 62(3)(c) substituted (31.12.2020) for s. 62(3)(c)(d) by S.I. 2019/93, Sch. 1 para. 14(3)(b) (as substituted by The Competition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1343), regs. 1(1), 26(b))
+[^F67]: Word in s. 62(4) substituted (1.4.2014) by The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/892), art. 1(1), Sch. 1 para. 199(4) (with art. 3)
+[^F68]: Words in s. 62(4) inserted (1.1.2025) by Digital Markets, Competition and Consumers Act 2024 (c. 13), s. 339(1), Sch. 13 para. 4; S.I. 2024/1226, regs. 1(2), 2(1)(17)
+[^F69]: Word in s. 62(4) inserted (1.1.2025) by Digital Markets, Competition and Consumers Act 2024 (c. 13), s. 339(1), Sch. 12 para. 4(3); S.I. 2024/1226, regs. 1(2), 2(1)(16)
+[^F70]: Word in s. 63(1) inserted (1.1.2025) by Digital Markets, Competition and Consumers Act 2024 (c. 13), s. 339(1), Sch. 12 para. 5; S.I. 2024/1226, regs. 1(2), 2(1)(16)
+[^F71]: Words in s. 63(1) inserted (1.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 15 para. 52; S.I. 2014/416, art. 2(1)(f) (with Sch.)
+[^F72]: Words in s. 63 substituted (1.4.2014) by The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/892), art. 1(1), Sch. 1 para. 200 (with art. 3)
+[^F73]: S. 63(3A) inserted (1.1.2025 for specified purposes, 6.4.2025 for specified purposes) by Digital Markets, Competition and Consumers Act 2024 (c. 13), s. 339(1), Sch. 29 para. 1(3); S.I. 2024/1226, regs. 1(2), 2(1)(21); S.I. 2025/272, reg. 2(1)(13)
+[^F74]: Words in s. 64(2) substituted (1.4.2014) by The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/892), art. 1(1), Sch. 1 para. 201(a) (with art. 3)
+[^F75]: Word in s. 64(2)(b) substituted (1.4.2014) by The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/892), art. 1(1), Sch. 1 para. 201(b) (with art. 3)
+[^F76]: Words in s. 65(1) substituted (1.4.2014) by The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/892), art. 1(1), Sch. 1 para. 202 (with art. 3)
+[^F77]: Words in s. 72(1) substituted (31.1.2020) by The Civil Aviation (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/687), regs. 1(2), 3(2); 2020 c. 1, Sch. 5 para. 1(1)
+[^F78]: Words in s. 72(1) substituted (1.1.2024) by The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424), reg. 1(2), Sch. para. 76(2)
+[^F79]: Words in Sch. 2 para. 2(1) substituted (1.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 6 para. 148(2)(a)(i); S.I. 2014/416, art. 2(1)(d) (with Sch.)
+[^F80]: Words in Sch. 2 para. 2(1) substituted (1.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 6 para. 148(2)(a)(ii); S.I. 2014/416, art. 2(1)(d) (with Sch.)
+[^F81]: Words in Sch. 2 para. 2(5)(6) substituted (1.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 6 para. 148(2)(b); S.I. 2014/416, art. 2(1)(d) (with Sch.)
+[^F82]: Words in Sch. 2 para. 2(7) substituted (1.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 6 para. 148(2)(c); S.I. 2014/416, art. 2(1)(d) (with Sch.)
+[^F83]: Words in Sch. 2 para. 2(8)(d) substituted (1.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 6 para. 148(2)(d); S.I. 2014/416, art. 2(1)(d) (with Sch.)
+[^F84]: Words in Sch. 2 para. 3(1) substituted (1.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 6 para. 148(3); S.I. 2014/416, art. 2(1)(d) (with Sch.)
+[^F85]: Words in Sch. 2 para. 4(1) substituted (1.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 6 para. 148(4)(a); S.I. 2014/416, art. 2(1)(d) (with Sch.)
+[^F86]: Words in Sch. 2 para. 4(2) substituted (1.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 6 para. 148(4)(b); S.I. 2014/416, art. 2(1)(d) (with Sch.)
+[^F87]: Words in Sch. 2 para. 4(3) substituted (1.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 6 para. 148(4)(c); S.I. 2014/416, art. 2(1)(d) (with Sch.)
+[^F88]: Words in Sch. 2 para. 5(1) substituted (1.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 6 para. 148(5)(a)(i); S.I. 2014/416, art. 2(1)(d) (with Sch.)
+[^F89]: Words in Sch. 2 para. 5(1) substituted (1.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 6 para. 148(5)(a)(ii); S.I. 2014/416, art. 2(1)(d) (with Sch.)
+[^F90]: Words in Sch. 2 para. 5(2) substituted (1.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 6 para. 148(5)(b); S.I. 2014/416, art. 2(1)(d) (with Sch.)
+[^F91]: Words in Sch. 2 para. 5(4) substituted (1.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 6 para. 148(5)(c); S.I. 2014/416, art. 2(1)(d) (with Sch.)
+[^F92]: Words in Sch. 2 para. 5(5)(d) substituted (1.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 6 para. 148(5)(d); S.I. 2014/416, art. 2(1)(d) (with Sch.)
+[^F93]: Words in Sch. 2 para. 6(3) substituted (1.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 6 para. 148(6); S.I. 2014/416, art. 2(1)(d) (with Sch.)
+[^F94]: Words in Sch. 2 para. 7(3) substituted (1.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 6 para. 148(7); S.I. 2014/416, art. 2(1)(d) (with Sch.)
+[^F95]: Words in Sch. 2 para. 8(3) substituted (1.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 6 para. 148(8); S.I. 2014/416, art. 2(1)(d) (with Sch.)
+[^F96]: Words in Sch. 2 para. 9(1) substituted (1.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 6 para. 148(9); S.I. 2014/416, art. 2(1)(d) (with Sch.)
+[^F97]: Words in Sch. 2 para. 10(3) substituted (1.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 6 para. 148(10); S.I. 2014/416, art. 2(1)(d) (with Sch.)
+[^F98]: Words in Sch. 2 para. 11(1) substituted (1.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 6 para. 148(11)(a)(i); S.I. 2014/416, art. 2(1)(d) (with Sch.)
+[^F99]: Words in Sch. 2 para. 11(1) substituted (1.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 6 para. 148(11)(a)(ii); S.I. 2014/416, art. 2(1)(d) (with Sch.)
+[^F100]: Words in Sch. 2 para. 11(2) substituted (1.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 6 para. 148(11)(b); S.I. 2014/416, art. 2(1)(d) (with Sch.)
+[^F101]: Words in Sch. 2 para. 11(4) substituted (1.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 6 para. 148(11)(c)(i); S.I. 2014/416, art. 2(1)(d) (with Sch.)
+[^F102]: Words in Sch. 2 para. 11(4) substituted (1.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 6 para. 148(11)(c)(ii); S.I. 2014/416, art. 2(1)(d) (with Sch.)
+[^F103]: Words in Sch. 2 para. 12(1) substituted (1.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 6 para. 148(12); S.I. 2014/416, art. 2(1)(d) (with Sch.)
+[^F104]: Words in Sch. 2 para. 13(3) substituted (1.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 6 para. 148(13); S.I. 2014/416, art. 2(1)(d) (with Sch.)
+[^F105]: Words in Sch. 2 para. 14(1) substituted (1.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 6 para. 148(14)(a)(i); S.I. 2014/416, art. 2(1)(d) (with Sch.)
+[^F106]: Words in Sch. 2 para. 14(1) substituted (1.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 6 para. 148(14)(a)(ii); S.I. 2014/416, art. 2(1)(d) (with Sch.)
+[^F107]: Words in Sch. 2 para. 14(2) substituted (1.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 6 para. 148(14)(b); S.I. 2014/416, art. 2(1)(d) (with Sch.)
+[^F108]: Words in Sch. 2 para. 14(4) substituted (1.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 6 para. 148(14)(c)(i); S.I. 2014/416, art. 2(1)(d) (with Sch.)
+[^F109]: Words in Sch. 2 para. 14(4) substituted (1.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 6 para. 148(14)(c)(ii); S.I. 2014/416, art. 2(1)(d) (with Sch.)
+[^F110]: Words in Sch. 2 para. 15(1) substituted (1.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 6 para. 148(15)(a); S.I. 2014/416, art. 2(1)(d) (with Sch.)
+[^F111]: Words in Sch. 2 para. 15(2) substituted (1.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 6 para. 148(15)(b); S.I. 2014/416, art. 2(1)(d) (with Sch.)
+[^F112]: Words in Sch. 2 para. 15(3) substituted (1.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 6 para. 148(15)(c); S.I. 2014/416, art. 2(1)(d) (with Sch.)
+[^F113]: Words in Sch. 2 para. 15(4)(d) substituted (1.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 6 para. 148(15)(d); S.I. 2014/416, art. 2(1)(d) (with Sch.)
+[^F114]: Words in Sch. 2 para. 16(1) substituted (1.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 6 para. 148(16)(a); S.I. 2014/416, art. 2(1)(d) (with Sch.)
+[^F115]: Words in Sch. 2 para. 16(4)(a) substituted (1.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 6 para. 148(16)(b); S.I. 2014/416, art. 2(1)(d) (with Sch.)
+[^F116]: Sch. 2 para. 17(1) omitted (1.4.2014) by virtue of Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 6 para. 148(17)(a); S.I. 2014/416, art. 2(1)(d) (with Sch.)
+[^F117]: Words in Sch. 2 para. 17(2) substituted (1.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 6 para. 148(17)(b)(i); S.I. 2014/416, art. 2(1)(d) (with Sch.)
+[^F118]: Words in Sch. 2 para. 17(2) substituted (1.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 6 para. 148(17)(b)(ii); S.I. 2014/416, art. 2(1)(d) (with Sch.)
+[^F119]: Sch. 2 para. 17(3)(4) omitted (1.4.2014) by virtue of Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 6 para. 148(17)(c); S.I. 2014/416, art. 2(1)(d) (with Sch.)
+[^F120]: Sch. 2 para. 18 omitted (1.4.2014) by virtue of Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 6 para. 148(18); S.I. 2014/416, art. 2(1)(d) (with Sch.)
+[^F121]: Words in Sch. 2 para. 19(1) substituted (1.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 6 para. 148(19); S.I. 2014/416, art. 2(1)(d) (with Sch.)
+[^F122]: Words in Sch. 2 para. 20(1) substituted (1.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 6 para. 148(20)(a)(i); S.I. 2014/416, art. 2(1)(d) (with Sch.)
+[^F123]: Words in Sch. 2 para. 20(1) substituted (1.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 6 para. 148(20)(a)(ii); S.I. 2014/416, art. 2(1)(d) (with Sch.)
+[^F124]: Words in Sch. 2 para. 20(1) substituted (1.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 6 para. 148(20)(a)(iii); S.I. 2014/416, art. 2(1)(d) (with Sch.)
+[^F125]: Words in Sch. 2 para. 20(3) substituted (1.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 6 para. 148(20)(b)(i); S.I. 2014/416, art. 2(1)(d) (with Sch.)
+[^F126]: Words in Sch. 2 para. 20(3) substituted (1.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 6 para. 148(20)(b)(ii); S.I. 2014/416, art. 2(1)(d) (with Sch.)
+[^F127]: Words in Sch. 2 para. 20(4) substituted (1.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 6 para. 148(20)(c)(i); S.I. 2014/416, art. 2(1)(d) (with Sch.)
+[^F128]: Words in Sch. 2 para. 20(4) substituted (1.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 6 para. 148(20)(c)(ii); S.I. 2014/416, art. 2(1)(d) (with Sch.)
+[^F129]: Words in Sch. 2 para. 21(1) substituted (1.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 6 para. 148(21); S.I. 2014/416, art. 2(1)(d) (with Sch.)
+[^F130]: Words in Sch. 2 para. 22(1)(2) substituted (1.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 6 para. 148(22)(a); S.I. 2014/416, art. 2(1)(d) (with Sch.)
+[^F131]: Words in Sch. 2 para. 22(3) substituted (1.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 6 para. 148(22)(b); S.I. 2014/416, art. 2(1)(d) (with Sch.)
+[^F132]: Words in Sch. 2 para. 22(4) substituted (1.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 6 para. 148(22)(c)(i); S.I. 2014/416, art. 2(1)(d) (with Sch.)
+[^F133]: Words in Sch. 2 para. 22(4) substituted (1.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 6 para. 148(22)(c)(ii); S.I. 2014/416, art. 2(1)(d) (with Sch.)
+[^F134]: Words in Sch. 2 para. 22(5)(6) substituted (1.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 6 para. 148(22)(d); S.I. 2014/416, art. 2(1)(d) (with Sch.)
+[^F135]: Words in Sch. 2 para. 22(7) substituted (1.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 6 para. 148(22)(e)(i); S.I. 2014/416, art. 2(1)(d) (with Sch.)
+[^F136]: Words in Sch. 2 para. 22(7) substituted (1.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 6 para. 148(22)(e)(ii); S.I. 2014/416, art. 2(1)(d) (with Sch.)
+[^F137]: Words in Sch. 2 para. 22(9) substituted (1.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 6 para. 148(22)(f)(i); S.I. 2014/416, art. 2(1)(d) (with Sch.)
+[^F138]: Words in Sch. 2 para. 22(9) substituted (1.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 6 para. 148(22)(f)(ii); S.I. 2014/416, art. 2(1)(d) (with Sch.)
+[^F139]: Words in Sch. 2 para. 23(1) substituted (1.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 6 para. 148(23); S.I. 2014/416, art. 2(1)(d) (with Sch.)
+[^F140]: Words in Sch. 2 para. 24(1) substituted (1.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 6 para. 148(24)(a)(i); S.I. 2014/416, art. 2(1)(d) (with Sch.)
+[^F141]: Words in Sch. 2 para. 24(1) substituted (1.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 6 para. 148(24)(a)(ii); S.I. 2014/416, art. 2(1)(d) (with Sch.)
+[^F142]: Words in Sch. 2 para. 24(4) substituted (1.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 6 para. 148(24)(b); S.I. 2014/416, art. 2(1)(d) (with Sch.)
+[^F143]: Words in Sch. 2 para. 25(1) substituted (1.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 6 para. 148(25)(a); S.I. 2014/416, art. 2(1)(d) (with Sch.)
+[^F144]: Words in Sch. 2 para. 25(3) substituted (1.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 6 para. 148(25)(b); S.I. 2014/416, art. 2(1)(d) (with Sch.)
+[^F145]: Words in Sch. 2 para. 25(7)(a) substituted (1.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 6 para. 148(25)(c); S.I. 2014/416, art. 2(1)(d) (with Sch.)
+[^F146]: Words in Sch. 2 para. 25(9) substituted (1.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 6 para. 148(25)(d); S.I. 2014/416, art. 2(1)(d) (with Sch.)
+[^F147]: Words in Sch. 2 para. 25(10) substituted (1.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 6 para. 148(25)(e); S.I. 2014/416, art. 2(1)(d) (with Sch.)
+[^F148]: Words in Sch. 2 para. 26(1) substituted (1.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 6 para. 148(26)(a); S.I. 2014/416, art. 2(1)(d) (with Sch.)
+[^F149]: Words in Sch. 2 para. 26(5) substituted (1.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 6 para. 148(26)(b); S.I. 2014/416, art. 2(1)(d) (with Sch.)
+[^F150]: Words in Sch. 2 para. 27 substituted (1.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 6 para. 148(27); S.I. 2014/416, art. 2(1)(d) (with Sch.)
+[^F151]: Words in Sch. 2 para. 28(2) substituted (1.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 6 para. 148(28); S.I. 2014/416, art. 2(1)(d) (with Sch.)
+[^F152]: Words in Sch. 2 para. 30(1)-(4) substituted (1.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 6 para. 148(29)(a); S.I. 2014/416, art. 2(1)(d) (with Sch.)
+[^F153]: Sch. 2 para. 30(4A) inserted (1.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 6 para. 148(29)(b); S.I. 2014/416, art. 2(1)(d) (with Sch.)
+[^F154]: Words in Sch. 2 para. 30(6) substituted (1.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 6 para. 148(29)(c); S.I. 2014/416, art. 2(1)(d) (with Sch.)
+[^F155]: Words in Sch. 2 para. 31(1) substituted (1.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 6 para. 148(30); S.I. 2014/416, art. 2(1)(d) (with Sch.)
+[^F156]: Words in Sch. 2 para. 31(5) substituted (1.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 6 para. 148(30); S.I. 2014/416, art. 2(1)(d) (with Sch.)
+[^F157]: Words in Sch. 2 para. 31(6) substituted (1.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 6 para. 148(30); S.I. 2014/416, art. 2(1)(d) (with Sch.)
+[^F158]: Words in Sch. 2 para. 32(1) substituted (1.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 6 para. 148(31)(a)(i); S.I. 2014/416, art. 2(1)(d) (with Sch.)
+[^F159]: Words in Sch. 2 para. 32(1) substituted (1.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 6 para. 148(31)(a)(ii); S.I. 2014/416, art. 2(1)(d) (with Sch.)
+[^F160]: Words in Sch. 2 para. 32(2) substituted (1.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 6 para. 148(31)(b)(i); S.I. 2014/416, art. 2(1)(d) (with Sch.)
+[^F161]: Words in Sch. 2 para. 32(2) substituted (1.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 6 para. 148(31)(b)(ii); S.I. 2014/416, art. 2(1)(d) (with Sch.)
+[^F162]: Words in Sch. 2 para. 32(3)(4) substituted (1.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 6 para. 148(31)(c); S.I. 2014/416, art. 2(1)(d) (with Sch.)
+[^F163]: Words in Sch. 2 para. 34 substituted (1.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 6 para. 148(32)(a); S.I. 2014/416, art. 2(1)(d) (with Sch.)
+[^F164]: Words in Sch. 2 para. 34 substituted (1.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 6 para. 148(32)(b); S.I. 2014/416, art. 2(1)(d) (with Sch.)
+[^F165]: Words in Sch. 2 para. 35(1) substituted (1.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 6 para. 148(33)(a); S.I. 2014/416, art. 2(1)(d) (with Sch.)
+[^F166]: Words in Sch. 2 para. 35(1) omitted (1.4.2014) by virtue of Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 6 para. 148(33)(b); S.I. 2014/416, art. 2(1)(d) (with Sch.)
+[^F167]: Words in Sch. 2 para. 35(1) omitted (1.4.2014) by virtue of Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 6 para. 148(33)(c); S.I. 2014/416, art. 2(1)(d) (with Sch.)
+[^F168]: Words in Sch. 2 para. 35(1) inserted (1.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 6 para. 148(33)(d); S.I. 2014/416, art. 2(1)(d) (with Sch.)
+[^F169]: Words in Sch. 6 para. 4(2) substituted (1.4.2014) by The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/892), art. 1(1), Sch. 1 para. 203(2)(a) (with art. 3)
+[^F170]: Sch. 6 para. 4(2) entry omitted (1.4.2014) by virtue of The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/892), art. 1(1), Sch. 1 para. 203(2)(b) (with art. 3)
+[^F171]: Words in Sch. 6 para. 4(2) substituted (E.W.S.) (16.10.2015) by The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682), reg. 1(2), Sch. para. 4(u)
+[^F172]: Words in Sch. 6 para. 4(2) omitted (1.10.2015) by virtue of Deregulation Act 2015 (c. 20), s. 115(7), Sch. 6 para. 22(17); S.I. 2015/1732, art. 2(e)(vi) (with art. 7)
+[^F173]: Words in Sch. 6 para. 4(3) omitted (1.10.2013) by virtue of The Property Misdescriptions Act 1991 (Repeal) Order 2013 (S.I. 2013/1575), art. 1, Sch. para. 15
+[^F174]: Words in Sch. 6 para. 4(3) inserted (1.4.2014) by The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/892), art. 1(1), Sch. 1 para. 203(3) (with art. 3)
+[^F175]: Words in Sch. 6 para. 4(3) inserted (31.3.2017) by The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506), arts. 1(1), 16
+[^F176]: Words in Sch. 6 para. 4(3) inserted (1.1.2025) by Digital Markets, Competition and Consumers Act 2024 (c. 13), s. 339(1), Sch. 30 para. 33(a); S.I. 2024/1226, regs. 1(2), 2(1)(22)
+[^F177]: Words in Sch. 6 para. 4(3)(b) omitted (6.4.2025 for specified purposes, 1.1.2026 for specified purposes, 6.4.2026 for specified purposes) by virtue of The Digital Markets, Competition and Consumers Act 2024 (Consequential Amendments) Regulations 2025 (S.I. 2025/381), reg. 1(2)(4), Sch. para. 20; S.I. 2025/272, reg. 3; S.I. 2026/284, regs. 1(2), 2(1)(2)
+[^F178]: Sch. 6 para. 4(4)(b) omitted (6.4.2025) by virtue of Digital Markets, Competition and Consumers Act 2024 (c. 13), s. 339(1), Sch. 30 para. 33(b); S.I. 2025/272, reg. 2(1)(14)
+[^F179]: Words in Sch. 6 para. 5(b) substituted (31.1.2020) by The Civil Aviation (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/687), regs. 1(2), 3(3)(a); 2020 c. 1, Sch. 5 para. 1(1)
+[^F180]: Words in Sch. 6 para. 5(b) substituted (1.1.2024) by The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424), reg. 1(2), Sch. para. 76(3)
+[^F181]: Sch. 6 para. 5(c) omitted (31.1.2020) by virtue of The Civil Aviation (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/687), regs. 1(2), 3(3)(b); 2020 c. 1, Sch. 5 para. 1(1)
+[^F182]: Sch. 6 para. 5(ha) inserted (1.4.2014) by The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469), art. 1(2), Sch. 2 para. 26 (with Sch. 4)

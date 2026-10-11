@@ -1,0 +1,2766 @@
+---
+title: "Public Audit (Wales) Act 2004"
+identifier: "ukpga/2004/23"
+citation: "2004 c. 23"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W"
+date: 2004-09-16
+last_amended: 2026-09-30
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/2004/23"
+source_modified: 2026-10-02
+retrieved: 2026-10-11
+---
+
+# Public Audit (Wales) Act 2004
+
+**2004 c. 23**
+
+An Act to confer further functions on the Auditor General for Wales; to make provision about the audit of accounts of public bodies in Wales and related matters; to make provision about economy, efficiency and effectiveness in relation to public bodies and registered social landlords in Wales; and for connected purposes.
+
+[16th September 2004]
+
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## Part 1 — Auditor General for Wales
+
+### New functions of the Auditor General for Wales
+
+#### 1 Transfer of functions of Assembly
+
+After section 146 of the Government of Wales Act 1998 (c. 38) insert—
+
+> **146A Transfer etc of functions of Assembly**
+>
+> (1) The Assembly may, with the consent of the Auditor General for Wales, by order provide for any of its supervisory functions in respect of a public body or a registered social landlord in Wales—
+>
+> (a) to be exercised on its behalf by the Auditor General for Wales, or
+>
+> (b) to be transferred to the Auditor General for Wales.
+>
+> (2) In this section—
+>
+> - “public body” means—
+>
+>   - (a) a body exercising functions of a public nature, or
+>   - (b) a body entirely or substantially funded from public money,
+>
+>   (and for this purpose “body” includes office);
+>
+> - “registered social landlord in Wales” means a body which is—
+>
+>   - (a) registered as a social landlord under Chapter 1 of Part 1 of the Housing Act 1996, and
+>   - (b) mentioned in any of paragraphs (a) to (c) of section 56(2) of that Act;
+>
+> - “supervisory functions”, in respect of a public body or a registered social landlord in Wales, means functions of examining, inspecting, reviewing or studying the financial or other management of the public body or registered social landlord or the way in which it discharges any of its functions.
+>
+> (3) The Assembly may direct the Auditor General for Wales to prepare a report on his exercise, generally or in respect of a specific body or matter, of any function transferred to him by an order under subsection (1)(b).
+>
+> (4) The Auditor General for Wales must lay before the Assembly any report prepared by him in accordance with a direction under subsection (3).
+>
+> (5) An order under subsection (1) may contain any appropriate consequential, incidental, supplementary or transitional provisions or savings (including provisions in the form of amendments or repeals of enactments).
+
+#### 2 Additional functions of Auditor General
+
+[^F1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Accountability of certain public bodies in Wales
+
+#### 3 Studies for improving economy etc in services
+
+After section 145 of the Government of Wales Act 1998 (c. 38) insert—
+
+> **145A Studies for improving economy etc in services**
+>
+> (1) The Auditor General for Wales may undertake or promote studies designed to enable him to make recommendations for improving economy, efficiency and effectiveness in the discharge of the functions of any relevant body or bodies.
+>
+> (2) The Auditor General for Wales may also undertake or promote other studies relating to the provision of services by any relevant body or bodies.
+>
+> (3) Subsections (1) and (2) do not entitle the Auditor General for Wales to question the merits of the policy objectives of any relevant body.
+>
+> (4) In determining how to exercise his functions under this section, the Auditor General for Wales shall take into account the views of the Audit Committee as to the studies which he should undertake or promote under this section.
+>
+> (5) For the purposes of this section each of the following is a “relevant body”—
+>
+> (a) a person who prepares auditable accounts within the meaning given in section 95(7);
+>
+> (b) any other person (other than a local government body in Wales) in relation to whom, by virtue of provision made by or under this or any other Act, the Auditor General for Wales carries out examinations or studies relating to the economy, efficiency and effectiveness with which that person has used his resources in discharging his functions;
+>
+> (c) a person (other than a registered social landlord in Wales) in respect of whom the Auditor General for Wales has functions by virtue of provision made under section 146A.
+>
+> (6) Where the Auditor General for Wales undertakes or promotes a study under this section he may arrange for a report containing—
+>
+> (a) the results of the study, and
+>
+> (b) his recommendations (if any),
+>
+> to be laid before the Assembly.
+>
+> (7) In this section—
+>
+> - “local government body in Wales” has the meaning given in section 12(1) of the Public Audit (Wales) Act 2004; and
+> - “registered social landlord in Wales” has the meaning given in section 146A(2).
+
+#### 4 Studies at request of educational bodies
+
+After section 145A of the Government of Wales Act 1998 (c. 38) (inserted by section 3) insert—
+
+> **145B Studies at request of educational bodies**
+>
+> (1) The Auditor General for Wales may undertake studies designed to enable him to make recommendations for improving economy, efficiency and effectiveness in the discharge of the functions of a body specified in the first column of the Table, if requested to do so by the body (or one of the bodies) specified in relation to it in the second column of the Table.
+>
+> |  |  |
+> |---|---|
+> | *Subject of study* | *Requesting body* |
+> | The governing body of an institution in Wales within the higher education sector. | The governing body or the Higher Education Funding Council for Wales. |
+> | The governing body of an institution in Wales receiving financial support under Part 1 of the Education Act 1994. | The governing body or the appropriate funding agency. |
+> | The governing body of an institution in Wales within the further education sector. | The governing body or the National Council for Education and Training for Wales. |
+>
+> (2) Subsection (1) does not entitle the Auditor General for Wales to question the merits of the policy objectives of a body.
+>
+> (3) Where the Auditor General for Wales undertakes a study under subsection (1) he may, with the consent of the body that requested the study, arrange for a report containing—
+>
+> (a) the results of the study, and
+>
+> (b) his recommendations (if any),
+>
+> to be laid before the Assembly.
+>
+> (4) The Auditor General for Wales may, at the request of the Higher Education Funding Council for Wales, give the council advice in connection with the discharge of the council’s functions under section 124B(2)(b) of the Education Reform Act 1988 or paragraph 18(2)(b) of Schedule 7 to that Act.
+>
+> (5) The Auditor General for Wales may, at the request of a higher education corporation or further education corporation in Wales—
+>
+> (a) advise them in connection with the appointment of persons to audit their accounts;
+>
+> (b) arrange for their accounts for a financial year to be audited by one or more members of the staff of the Auditor General for Wales appointed by the corporation.
+>
+> (6) In subsection (5)—
+>
+> (a) “higher education corporation” and “further education corporation” have the same meaning as in the Further and Higher Education Act 1992;
+>
+> (b) references to the accounts of a higher education corporation include references to a statement of accounts prepared by the corporation under section 124B of the Education Reform Act 1988 or paragraph 18 of Schedule 7 to that Act.
+>
+> (7) This section must be construed as one with the Education Act 1996; and references in any enactment to the Education Acts include this section.
+
+#### 5 Studies relating to registered social landlords
+
+After section 145B of the Government of Wales Act 1998 (c. 38) (inserted by section 4) insert—
+
+> **145C Studies relating to registered social landlords**
+>
+> (1) The Assembly and the Auditor General for Wales may agree on one or more programmes of studies designed to enable the Auditor General for Wales to make recommendations for improving economy, efficiency and effectiveness in the discharge of the functions of registered social landlords in Wales.
+>
+> (2) If a programme is agreed, the Auditor General for Wales shall ensure that studies giving effect to the programme are undertaken by him or on his behalf.
+>
+> (3) It shall be a term of every such programme that the Assembly make good to the Auditor General for Wales the full costs incurred by him in undertaking the programme.
+>
+> (4) This section does not entitle the Auditor General for Wales to question the merits of the policy objectives of a registered social landlord in Wales.
+>
+> (5) Where a study is undertaken under this section by the Auditor General for Wales or on his behalf, he may arrange for a report containing—
+>
+> (a) the results of the study, and
+>
+> (b) his recommendations (if any),
+>
+> to be laid before the Assembly.
+>
+> (6) A person commits an offence if without reasonable excuse he fails to comply with a requirement imposed under section 95(3)(a) or (b) in relation to a study under this section.
+>
+> (7) A person guilty of an offence under subsection (6) is liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+>
+> (8) The Auditor General for Wales may disclose to the Assembly information obtained by him or a person acting on his behalf in the course of a study under this section.
+>
+> (9) “Registered social landlord in Wales” means a body which is—
+>
+> (a) registered as a social landlord under Chapter 1 of Part 1 of the Housing Act 1996, and
+>
+> (b) mentioned in any of paragraphs (a) to (c) of section 56(2) of that Act.
+
+### Funding of Auditor General
+
+#### 6 Expenses and accounts
+
+[^F2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 7 Fees
+
+[^F3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Administrative matters
+
+#### 8 Auditor General’s seal
+
+[^F4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 9 Staff etc of the Auditor General
+
+[^F5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 10 Accounting officer
+
+[^F6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 11 Access to information, etc by Auditor General
+
+[^F7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Part 2 — Local government bodies in Wales
+
+### Chapter 1 — Accounts and audit
+
+#### Local government bodies in Wales
+
+##### 12 Local government bodies in Wales
+
+(1) In this Part “local government body in Wales” means any of these—
+
+(a) a local authority in Wales;
+
+(b) a committee of a local authority in Wales (including a joint committee of two or more local authorities in Wales);
+
+[[^F8](ba) a corporate joint committee;]
+
+(c) a port health authority for a port health district wholly in Wales;
+
+(d) a National Park authority for a National Park in Wales;
+
+(e) a conservation board established by order of the Assembly under section 86 of the Countryside and Rights of Way Act 2000 (c. 37);
+
+(f) a [[^F9]police and crime commissioner] for a police area in Wales;
+
+[[^F10](fa) a chief constable of a police force maintained under section 2 of the Police Act 1996 for a police area in Wales;]
+
+(g) a fire and rescue authority in Wales constituted by a scheme under section 2 of the Fire and Rescue Services Act 2004 (c. 21) or a scheme to which section 4 of that Act applies;
+
+(h) an internal drainage board for an internal drainage district wholly in Wales;
+
+(i) a local probation board established under section 4 of the Criminal Justice and Court Services Act 2000 (c. 43) for an area in Wales;
+
+[[^F11](j) a Welsh probation trust (as defined by paragraph 13(6) of Schedule 1 to the Offender Management Act 2007).]
+
+(2) The Assembly may by order amend subsection (1) by—
+
+(a) adding a public body whose functions relate exclusively to Wales or an area of Wales;
+
+(b) omitting a body;
+
+(c) altering the description of a body.
+
+(3) In subsection (2) “public body” means a body which—
+
+(a) exercises functions of a public nature, or
+
+(b) is entirely or substantially funded from public money.
+
+#### Audit of accounts
+
+##### 13 [[^F12]Audit of accounts of local government bodies in Wales
+
+(1) A local government body in Wales—
+
+(a) must make up its accounts each year to 31 March or such other date as the Welsh Ministers may generally or in any special case direct;
+
+(b) must ensure that its accounts are audited in accordance with this Chapter.
+
+(2) The Auditor General for Wales must audit the accounts of local government bodies in Wales.]
+
+##### [^F13]14 Appointment of auditors
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### [^F13]15 Persons to assist auditors
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### [^F14]16 Code of audit practice
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### 17 [[^F15]General duties on audit of accounts]
+
+(1) This section applies in relation to the audit of a body’s accounts under this Chapter.
+
+(2) [[^F16]The Auditor General for Wales must], by examination of the accounts and otherwise, satisfy himself of these things—
+
+(a) that the accounts are prepared in accordance with regulations under section 39;
+
+(b) that they comply with the requirements of all other statutory provisions applicable to the accounts;
+
+(c) that proper practices have been observed in the compilation of the accounts;
+
+(d) that the body has made proper arrangements for securing economy, efficiency and effectiveness in its use of resources;
+
+(e) that the body, if required to publish information in pursuance of a direction under section 47 (performance information) has made such arrangements for collecting and recording the information and for publishing it as are required for the performance of its duties under that section.
+
+[^F17]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F17]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### [^F18]18 Auditors' rights to documents and information
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### [^F18]19 Auditors' rights to documents and information: offences
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### 20 [[^F19]Fees in respect of functions exercised by the Auditor General for Wales]
+
+[[^F20](A1) The Wales Audit Office must, in accordance with a scheme for charging fees prepared under section 24 of the Public Audit (Wales) Act 2013, charge a fee in respect of functions exercised by the Auditor General for Wales—
+
+(a) in auditing the accounts of local government bodies in Wales under this Chapter, and
+
+(b) in undertaking studies at the request of a local government body under section 44.]
+
+(1) [[^F21]The Wales Audit Office] must prescribe a scale or scales of fees payable for one or more financial years in respect of the audit of accounts of local government bodies in Wales under this Chapter.
+
+(2) Before prescribing a scale of fees under subsection (1) [[^F22]the Wales Audit Office] must consult—
+
+(a) any associations [[^F23]of local government bodies] in Wales which appear to [[^F22]the Wales Audit Office] to be concerned, and
+
+[[^F24](b) such other persons as the Wales Audit Office thinks fit.]
+
+[^F25]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) A local government body in Wales must, subject to subsection (5), pay to [[^F26]the Wales Audit Office] the fee payable in respect of the audit in accordance with the appropriate scale.
+
+(5) If it appears to [[^F27]the Wales Audit Office] that the work involved in a particular audit differed substantially from that envisaged by [^F28]... the appropriate scale, [[^F27]the Wales Audit Office] may charge a fee which differs from that referred to in subsection (4).
+
+[[^F29](5A) But a fee charged under this section may not exceed the full cost of exercising the function to which it relates.]
+
+[^F30]6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### [^F31]21 Fees prescribed by Assembly
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Auditors' reports and recommendations
+
+##### 22 Immediate and other reports in public interest
+
+(1) In auditing accounts of a body under this Chapter, [[^F32]the Auditor General for Wales] must consider whether, in the public interest, he should make a report on any matter which comes to his notice in the course of the audit, in order for it to be—
+
+(a) considered by the body, or
+
+(b) brought to the attention of the public.
+
+(2) If [[^F32]the Auditor General for Wales] considers that, in the public interest, he should make a report such as is mentioned in subsection (1), he must consider whether the public interest requires the matter to be made the subject of an immediate report.
+
+(3) If [[^F32]the Auditor General for Wales] considers that the public interest requires the matter to be made the subject of an immediate report, he must make the report immediately.
+
+(4) If [[^F32]the Auditor General for Wales] considers that the public interest does not require the matter to be made the subject of an immediate report, he must make the report at the conclusion of the audit.
+
+(5) In a case within subsection (3), [[^F32]the Auditor General for Wales] must send the report to the body[^F33]... immediately after making it.
+
+(6) In a case within subsection (4), [[^F32]the Auditor General for Wales] must send the report to the body[^F34]... before the end of the period of 14 days starting with the day on which he concludes the audit.
+
+##### 23 General report
+
+(1) This section applies if [[^F35]the Auditor General for Wales] has concluded his audit of a body’s accounts under this Chapter.
+
+(2) If a statement of accounts is required to be prepared by regulations under section 39, [[^F35]the Auditor General for Wales] must enter on the statement—
+
+(a) a certificate that he has completed the audit in accordance with this Chapter, and
+
+(b) his opinion on the statement.
+
+(3) In any other case, [[^F35]the Auditor General for Wales] must enter on the accounts—
+
+(a) a certificate that he has completed the audit in accordance with this Chapter, and
+
+(b) his opinion on the accounts.
+
+(4) But if [[^F35]the Auditor General for Wales] makes a report under section 22 at the conclusion of the audit, he may include the certificate and opinion referred to in subsections (2) and (3) in the report instead of making an entry on the statement or accounts.
+
+##### 24 Consideration of reports in public interest
+
+(1) This section applies if [[^F36]the Auditor General for Wales] makes a report under section 22 on a matter which comes to his notice in the course of the audit of the accounts of a body.
+
+(2) The body must take the report into consideration—
+
+(a) as soon as practicable after receiving it, if the body is a body mentioned in subsection (3);
+
+(b) in accordance with section 25, in any other case.
+
+(3) The bodies referred to in subsection (2)(a) are—
+
+(a) a port health authority;
+
+(b) a conservation board;
+
+(c) an internal drainage board;
+
+(d) a local probation board;
+
+[[^F37](e) a probation trust.]
+
+(4) The agenda supplied to members of the body for the meeting of the body at which the report is to be considered must be accompanied by the report.
+
+(5) Subsection (6) applies to these powers—
+
+(a) the power under section 1(4)(b) of the Public Bodies (Admission to Meetings) Act 1960 (c. 67) to exclude items from the matter supplied under that section (supply of agenda etc. to newspapers);
+
+(b) the power under [[^F38]section 100BA(2)] of the Local Government Act 1972 (c. 70) to—
+
+(i) exclude documents from the documents [[^F39]published under section 100BA(1)] of that Act, or
+
+(ii) exclude items from the matter supplied under [[^F40]section 100BA(9)] of that Act (public access to agenda and reports before meetings and supply of agenda etc. to newspapers).
+
+(6) The powers mentioned in subsection (5) do not include power to exclude the report.
+
+(7) Part 5A of the Local Government Act 1972 has effect in relation to the report as if [[^F41]section 100C(1B)(d)] of that Act (public access to copies of reports for 6 years after meeting) were not limited to so much of the report as relates to an item during which the meeting was open to the public.
+
+##### 25 Procedure for consideration of reports and recommendations
+
+(1) This section applies if a body is required under section 24(2)(b) to take a report into consideration in accordance with this section.
+
+(2) This section also applies if [[^F42]the Auditor General for Wales, in auditing] any accounts of a local government body in Wales—
+
+(a) sends to the body a written recommendation, and
+
+(b) states in the document containing the recommendation that in his opinion the recommendation should be considered in accordance with this section.
+
+(3) But subsection (2) does not apply if the body is—
+
+(a) a port health authority;
+
+(b) a conservation board;
+
+(c) an internal drainage board;
+
+(d) a local probation board;
+
+[[^F43](e) a probation trust.]
+
+(4) If this section applies, the body must consider the report or recommendation at a meeting held by it before the end of the period of one month starting with the day on which [[^F44]the Auditor General for Wales] sends the report or recommendation to it.
+
+(5) At the meeting the body must decide—
+
+(a) if a report under section 22 is considered at the meeting, whether the report requires it to take any action;
+
+(b) if a recommendation within subsection (2) is considered at the meeting, whether the recommendation is to be accepted;
+
+(c) what action (if any) to take in response to the report or recommendation.
+
+(6) [[^F45]The Auditor General for Wales] may extend the period of one month mentioned in subsection (4) in relation to a report or recommendation if he is satisfied that it is reasonable to allow the body more time to comply with its duties under subsections (4) and (5) in relation to the report or recommendation.
+
+(7) A period may be extended under subsection (6) more than once.
+
+(8) Nothing in section 101 of the Local Government Act 1972 (c. 70) (delegation of functions) applies to a duty imposed on a body by this section.
+
+[[^F46](8A) Where a duty imposed on a body by this section is imposed on a corporate joint committee, the duty may not be discharged on behalf of the corporate joint committee by—
+
+(a) a sub-committee of the corporate joint committee, or
+
+(b) any other person.]
+
+(9) This section does not affect any duties (so far as they relate to the subject-matter of a report or recommendation) imposed by or under—
+
+(a) this Act;
+
+(b) sections 114 to 116 of the Local Government Finance Act 1988 (c. 41) (reports by chief finance officers);
+
+(c) section 5 of the Local Government and Housing Act 1989 (c. 42) (functions of monitoring officers);
+
+(d) any other enactment.
+
+##### 26 Publicity for meetings under section 25
+
+(1) This section applies if a body is required under section 25(4) to hold a meeting.
+
+(2) The meeting may be held on a particular day only if, at least seven clear days before that day, a notice complying with subsection (3) has been published in a newspaper circulating in the area of the body.
+
+(3) A notice complies with this subsection if it—
+
+(a) states the time and place of the meeting, [[^F47](but where the meeting is to be held by a body mentioned in subsection (3A) through remote means only, there is no need for the notice to state the place of the meeting)]
+
+[[^F48](aa) in the case of a meeting held through remote means by a body mentioned in subsection (3A), also gives details of how to access the meeting;]
+
+(b) indicates that the meeting is to be held to consider [[^F49]the Auditor General for Wales]’s report or recommendation (as the case may be), and
+
+(c) describes the subject-matter of the report or recommendation.
+
+[[^F50](3A) The bodies referred to in subsection (3)(a) and (aa) are—
+
+(a) a local authority in Wales;
+
+(b) a committee of a local authority in Wales (including a joint committee of two or more local authorities in Wales);
+
+[[^F51](ba) a corporate joint committee;]
+
+(c) a National Park authority for a National Park in Wales;
+
+(d) a fire and rescue authority in Wales constituted by a scheme under section 2 of the Fire and Rescue Services Act 2004 (c. 21) or a scheme to which section 4 of that Act applies.]
+
+[[^F50](3B) In subsection (3)(a) and (aa) the references to a meeting of a body held through remote means are to a meeting held by means of equipment or other facility which enables persons who are not in the same place to speak to and be heard by each other (whether or not the equipment or facility enables those persons to see and be seen by each other).]
+
+(4) As soon as practicable after the meeting the body must—
+
+(a) ensure that [[^F49]the Auditor General for Wales] is notified of the decisions made by the body under section 25(5),
+
+(b) obtain the approval of [[^F49]the Auditor General for Wales] to a written summary of those decisions (“the approved summary”), and
+
+(c) ensure that a notice containing the approved summary is published in one or more newspapers circulating in the area of the body.
+
+(5) The approved summary need not summarise any decision made at the meeting while the public were excluded—
+
+(a) under section 100A(2) of the Local Government Act 1972 (confidential information);
+
+(b) in pursuance of a resolution under section 100A(4) of that Act (exempt information);
+
+(c) in pursuance of a resolution under section 1(2) of the Public Bodies (Admission to Meetings) Act 1960 (c. 67) (protection of public interest).
+
+(6) But if sections 100C and 100D of the Local Government Act 1972 (c. 70) (availability for inspection [[^F52]and publication] after meeting of minutes, background papers and other documents) apply in relation to the meeting the approved summary must indicate the documents in relation to the meeting which are [[^F53]published electronically or] open for inspection under those sections.
+
+(7) This section does not affect any provisions made in relation to meetings of a body by section 24(4) to (7) or by or under—
+
+(a) the Local Government Act 1972;
+
+(b) the Public Bodies (Admission to Meetings) Act 1960;
+
+(c) any other enactment.
+
+##### 27 Additional publicity for immediate reports
+
+(1) This section applies where under section 22(5) [[^F54]the Auditor General for Wales] has sent a report made under section 22(3) to a body.
+
+(2) From the time when the report is received by the body any member of the public may—
+
+(a) inspect the report at all reasonable times without payment;
+
+(b) make a copy of the report or any part of it at all reasonable times without payment;
+
+(c) require the body to supply him on payment of a reasonable sum with a copy of the report or any part of it.
+
+(3) On receiving a report sent to it under section 22(5) a body must immediately—
+
+(a) ensure that a notice is published in one or more newspapers circulating in the area of the body, and
+
+(b) supply a copy of the report to every member of the body.
+
+(4) The notice published under subsection (3) must—
+
+(a) identify the subject-matter of the report, and
+
+(b) state that any member of the public may inspect the report and make a copy of it or any part of it between such times and at such place or places as are specified in the notice.
+
+(5) [[^F55]The Auditor General for Wales] may—
+
+(a) notify any person that he has made the report;
+
+(b) supply a copy of the report or of any part of it to any person.
+
+(6) A person who has custody of a report made under section 22(3) commits an offence if—
+
+(a) he obstructs a person in the exercise of a right conferred by subsection (2)(a) or (b), or
+
+(b) he refuses to comply with a requirement under subsection (2)(c).
+
+(7) A person guilty of an offence under subsection (6) is liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+(8) A body commits an offence if it fails to comply with a requirement of subsection (3).
+
+(9) A body guilty of an offence under subsection (8) is liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+(10) Nothing in this section affects the operation of section 24(4) to (7).
+
+##### 28 Additional publicity for non-immediate reports
+
+(1) This section applies where under section 22(6) [[^F56]the Auditor General for Wales] has sent a report made under section 22(4) to a body.
+
+(2) [[^F56]the Auditor General for Wales] may—
+
+(a) notify any person that he has made the report;
+
+(b) publish the report;
+
+(c) supply a copy of the report or any part of it to any person.
+
+(3) From the time when the report is sent to the body—
+
+(a) [[^F56]the Auditor General for Wales] must ensure that any member of the public may—
+
+(i) inspect the report at all reasonable times without payment;
+
+(ii) make a copy of the report or any part of it at all reasonable times without payment;
+
+(b) any member of the public may require [[^F56]the Auditor General for Wales] to supply him on payment of a reasonable sum with a copy of the report or any part of it.
+
+[^F57]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [[^F58]Public inspection etc and action by the Auditor General for Wales]
+
+##### 29 [[^F59]Inspection of statements of accounts and Auditor General for Wales' reports]
+
+(1) A local government elector for the area of a local government body in Wales may—
+
+(a) at all reasonable times and without payment inspect and make a copy of any statement of accounts prepared by the body under regulations made under section 39;
+
+(b) at all reasonable times and without payment inspect and make a copy of any report (other than a report under section 22(3)) made to the body by [[^F60]the Auditor General for Wales];
+
+(c) require a copy of a statement or report falling within paragraph (a) or (b) to be delivered to him on payment of a reasonable sum for each copy.
+
+(2) A person who has custody of a document falling within paragraph (a) or (b) of subsection (1) commits an offence if—
+
+(a) he obstructs a person in the exercise of a right under this section to inspect or make a copy of the document, or
+
+(b) he refuses to supply a copy of the document to a person entitled to the copy under subsection (1)(c).
+
+(3) A person guilty of an offence under subsection (2) is liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+(4) In this section references to a copy of a document include a copy of any part of it.
+
+##### 30 Inspection of documents and questions at audit
+
+(1) At an audit of accounts under this Chapter an interested person may—
+
+(a) inspect the accounts to be audited and all books, deeds, contracts, bills, vouchers and receipts relating to them;
+
+(b) make a copy of all or any part of the accounts and of any of the other documents mentioned in paragraph (a).
+
+(2) At the request of a local government elector for any area to which accounts to be audited under this Chapter relate, [[^F61]the Auditor General for Wales] must give the elector or any representative of his an opportunity to question [[^F62]the Auditor General] about the accounts.
+
+(3) But nothing in this section entitles a person—
+
+(a) to inspect any accounts or other document relating to a body to the extent that the accounts contain, or the document contains, personal information;
+
+(b) to require any personal information to be disclosed by [[^F63]the Auditor General for Wales] in answer to any question.
+
+(4) In subsection (3) “personal information” means information relating to an individual which is available to the body for reasons connected with either of these—
+
+(a) the fact that the individual holds or has held an office or employment under the body;
+
+(b) the fact that payments or other benefits are or have been made or provided to the individual by the body in respect of an office or employment under another person.
+
+(5) For the purposes of subsection (4) payments made or benefits provided to an individual in respect of an office or employment include any payment made or benefit provided to an individual in respect of his ceasing to hold the office or employment.
+
+##### 31 Right to make objections at audit
+
+(1) At an audit of accounts under this Chapter a local government elector for the area to which the accounts relate, or any representative of his, may make objections before [[^F64]the Auditor General for Wales] as to—
+
+(a) any matter in respect of which [[^F64]the Auditor General for Wales] has a power to apply for a declaration under section 32;
+
+(b) any other matter in respect of which [[^F64]the Auditor General for Wales] has the power to make a report under section 22.
+
+(2) A local government elector proposing to make an objection under subsection (1) must—
+
+(a) give written notice to [[^F64]the Auditor General for Wales] of the proposed objection and the grounds on which it is to be made, and
+
+(b) at the same time, send a copy of the notice to the body whose accounts are being audited.
+
+##### 32 Declaration that item of account is unlawful
+
+(1) Where it appears to [[^F65]the Auditor General for Wales in] carrying out an audit under this Chapter that an item of account is contrary to law, [[^F66]he] may apply to the court for a declaration that the item is contrary to law.
+
+(2) On an application under this section the court may make or refuse to make the declaration applied for.
+
+(3) If the court makes the declaration applied for it may also order rectification of the accounts.
+
+(4) If [[^F67]the Auditor General for Wales] decides not to make an application for a declaration under this section in relation to an item of account, he must notify a person who has made an objection under section 31(1)(a) in relation to the item of account of his decision.
+
+(5) Subsection (4) does not apply if the person who has made the objection has failed to comply with section 31(2).
+
+(6) A person notified under subsection (4) of [[^F68]the Auditor General for Wales]’s decision may require the auditor to state in writing the reasons for his decision before the end of the permitted period, which is 14 days starting with the day on which the person is notified of [[^F68]the Auditor General for Wales]’s decision.
+
+(7) A person who receives reasons for [[^F68]the Auditor General for Wales]’s decision under subsection (6) may appeal to the court against the decision before the end of the permitted period, which is 28 days starting with the day on which he receives the reasons.
+
+(8) On an appeal under subsection (7) the court has the same powers in relation to the item of account as it would have if [[^F68]the Auditor General for Wales] had applied to the court for a declaration under subsection (1) in relation to the item of account.
+
+(9) On an application or appeal under this section relating to the accounts of a body, the court may make such order as it thinks fit for the payment by the body of expenses incurred in connection with the application or appeal by—
+
+(a) [[^F68]the Auditor General for Wales];
+
+(b) the person by whom the appeal is brought.
+
+(10) The High Court and the county [[^F69]court] have jurisdiction for the purposes of this section.
+
+#### Prevention of unlawful expenditure etc
+
+##### 33 Advisory notices
+
+(1) [[^F70]The Auditor General for Wales] may issue a notice under this section (an “advisory notice”) if he has reason to believe that one or more of the requirements specified in subsection (2) is met [[^F71]in respect of a local government body in Wales].
+
+(2) The requirements are that—
+
+(a) the body or an officer of the body is about to make or has made a decision which involves or would involve the body incurring expenditure which is unlawful;
+
+(b) the body or an officer of the body is about to take or has begun to take a course of action which, if pursued to its conclusion, would be unlawful and likely to cause a loss or deficiency;
+
+(c) the body or an officer of the body is about to enter an item of account, the entry of which is unlawful.
+
+(3) For the purposes of this section and section 34 the actions of any of these are to be treated as the actions of a body—
+
+(a) a committee or sub-committee of the body;
+
+(b) a person (other than an officer of the body) authorised to act on behalf of the body.
+
+(4) An advisory notice is a notice which meets these requirements—
+
+(a) it is addressed to the body or officer;
+
+(b) it specifies which of the requirements specified in subsection (2) is met and the decision, course of action or item of account to which the notice relates;
+
+(c) it specifies that the notice will take effect on the day a copy of it is served on the person to whom it is addressed;
+
+(d) it requires the body or officer to give [[^F72]the Auditor General for Wales] not less than the specified period of notice in writing of the intention of the body or officer to—
+
+(i) make or implement the decision to which the notice relates,
+
+(ii) take or continue to take the course of action to which the notice relates, or
+
+(iii) enter the item of account to which the notice relates.
+
+(5) For the purposes of subsection (4)(d) the specified period of notice is the period (not exceeding 21 days) specified in the advisory notice.
+
+(6) A copy of an advisory notice—
+
+(a) must be served on the body to which, or to an officer of which, it is addressed;
+
+(b) if the notice is addressed to an officer, must be served on him;
+
+(c) may be served on any other person considered appropriate by [[^F73]the Auditor General for Wales].
+
+(7) [[^F74]The Auditor General for Wales] must before the end of the required period serve a statement of his reasons for the belief referred to in subsection (1) on—
+
+(a) the body, and
+
+(b) if the advisory notice is addressed to an officer of the body, the officer.
+
+(8) The required period for the purposes of subsection (7) is 7 days starting on the day on which a copy of the advisory notice was served on the person to whom it is addressed.
+
+(9) A document to be served on an officer of a body under this section must be served on him by addressing it to him and—
+
+(a) delivering it to him at an office of the body at which he is employed,
+
+(b) leaving it at such an office, or
+
+(c) sending it by post to such an office.
+
+(10) An advisory notice may at any time be withdrawn by [[^F75]the Auditor General for Wales].
+
+(11) [[^F76]The Auditor General for Wales] must give notice in writing of the withdrawal to any body or person on whom a copy of the advisory notice was served under subsection (6).
+
+[^F77]12 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### 34 Effect of an advisory notice
+
+(1) Subsections (2) to (4) apply while an advisory notice has effect.
+
+(2) If the advisory notice relates to a decision, it is not lawful for the body concerned or an officer of the body to make or implement the decision unless and until the conditions set out in subsection (5) are met.
+
+(3) If the advisory notice relates to a course of action, it is not lawful for the body concerned or an officer of the body to take or continue to take the course of action unless and until the conditions set out in subsection (5) are met.
+
+(4) If the advisory notice relates to an item of account, it is not lawful for the body concerned or an officer of the body to enter the item of account unless and until the conditions set out in subsection (5) are met.
+
+(5) The conditions are—
+
+(a) that the body has considered, in the light of the advisory notice and the statement under section 33(7), the consequences of doing the thing mentioned in whichever of subsections (2) to (4) is applicable;
+
+(b) that the body or officer has given [[^F78]the Auditor General for Wales] the period of notice in writing required by the advisory notice under section 33(4)(d);
+
+(c) that that period has expired.
+
+(6) An advisory notice takes effect on the day on which a copy of the notice is served on the person to whom it is addressed.
+
+(7) An advisory notice ceases to have effect—
+
+(a) if a statement of reasons is not served in accordance with section 33(7), at the end of the period specified in section 33(8);
+
+(b) in any other case, when it is withdrawn under section 33(10).
+
+(8) [[^F79]The Wales Audit Office] may recover from the body concerned any expenses reasonably incurred [[^F80]by the Auditor General for Wales] in or in connection with the issue of an advisory notice.
+
+(9) In this section “the body concerned”, in relation to an advisory notice, means the body to which, or to an officer of which, the notice is addressed.
+
+##### 35 Advisory notices: legal actions
+
+(1) Subsection (2) applies if—
+
+(a) before an advisory notice is served, a body enters into a contract to dispose of or acquire an interest in land, and
+
+(b) before the disposal or acquisition is completed, an advisory notice takes effect as a result of which it is unlawful for the body to complete the disposal or acquisition.
+
+(2) The existence of the advisory notice does not prejudice any remedy in damages which may be available to any person as a result of the body’s failure to complete the contract.
+
+(3) No action lies against [[^F81]the Auditor General for Wales] in respect of loss or damage alleged to have been caused as a result of the issue of an advisory notice which was issued in good faith.
+
+##### 36 Power of auditor to make a claim for judicial review
+
+(1) [[^F82]The Auditor General for Wales] may make a claim for judicial review with respect to a decision of [[^F83]a local government body in Wales] or a failure of the body to act, if it is reasonable to believe that the decision or failure to act would have an effect on the body’s accounts.
+
+(2) Subsection (1) is subject to section 31(3) of the [[^F84]Senior Courts Act 1981] (no claim for judicial review without permission of court).
+
+(3) The existence of the powers conferred on [[^F85]the Auditor General for Wales] under this Part is not a ground for refusing—
+
+(a) a claim falling within subsection (1), or
+
+(b) an application for permission to make a claim falling within subsection (1).
+
+(4) On a claim by [[^F86]the Auditor General for Wales] for judicial review with respect to a decision of a body or a failure of a body to act, the court may make any order it thinks fit for the payment by the body of expenses incurred by [[^F87]the Auditor General for Wales or the Wales Audit Office] in connection with the claim.
+
+#### Miscellaneous
+
+##### 37 Extraordinary audit
+
+(1) The Auditor General for Wales may [^F88]... hold an extraordinary audit of the accounts of a local government body in Wales if the condition in subsection (2) or the condition in subsection (3) is met.
+
+(2) The condition is that it appears to the Auditor General for Wales to be desirable to hold an extraordinary audit of the body’s accounts.
+
+(3) The condition is that an application for an extraordinary audit of the body’s accounts is made by a local government elector for the area of the body.
+
+(4) [[^F89]the Welsh Ministers] may require the Auditor General for Wales to [^F90]... hold an extraordinary audit of the accounts of a local government body in Wales if it appears to [[^F89]the Welsh Ministers] to be desirable in the public interest for an extraordinary audit of the body’s accounts to be held.
+
+(5) These provisions apply to an extraordinary audit under this section as they apply to an ordinary audit under this Chapter—
+
+[^F91]a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) sections 17 to 19;
+
+(c) sections 22 to 28;
+
+(d) sections 31 and 32.
+
+(6) An extraordinary audit of a body’s accounts may be held under this section only if 3 clear days' notice in writing of the audit is given to the body.
+
+(7) The expenditure incurred in holding an extraordinary audit of a body’s accounts under this section must be met in the first instance by the Auditor General for Wales.
+
+(8) [[^F92]The Wales Audit Office] may recover all or part of the expenditure from the body.
+
+##### 38 Audit of accounts of officers
+
+(1) This section applies if an officer of a local government body in Wales receives money or other property—
+
+(a) on behalf of the body, or
+
+(b) for which he ought to account to the body.
+
+(2) [[^F93]the Auditor General for Wales] must audit the officer’s accounts.
+
+(3) These provisions apply with the necessary modifications to the accounts and audit—
+
+(a) section 13(1);
+
+(b) sections 17 to 24;
+
+(c) sections 27 to 32;
+
+(d) section 37;
+
+(e) section 39.
+
+##### 39 Accounts and audit regulations
+
+(1) The [[^F94]Welsh Ministers] may by regulations applying to local government bodies in Wales make provision with respect to—
+
+(a) the keeping of accounts;
+
+(b) the form, preparation and certification of accounts and of statements of accounts;
+
+(c) the deposit of the accounts of a body at the offices of the body or at another place;
+
+(d) the publication of information relating to accounts and the publication of statements of accounts;
+
+(e) the exercise of any rights of objection or inspection conferred by section 29, 30 or 31 and the steps to be taken by a body for informing local government electors for the area of the body of those rights.
+
+(2) Before making any regulations under this section the [[^F94]Welsh Ministers] must consult—
+
+(a) the Auditor General for Wales,
+
+(b) any associations of local authorities in Wales which appear to [[^F95]them] to be concerned, and
+
+(c) any bodies of accountants which appear to [[^F95]them] to be appropriate.
+
+(3) A person commits an offence if—
+
+(a) without reasonable excuse he contravenes a provision of regulations under this section, and
+
+(b) the regulations declare that contravention of the provision is an offence.
+
+(4) A person guilty of an offence under subsection (3) is liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+(5) Subsection (6) applies if—
+
+(a) a person is convicted of committing an offence under subsection (3) in relation to a body, and
+
+(b) expenses are incurred by [[^F96]the Auditor General for Wales or the Wales Audit Office] in connection with proceedings for the offence.
+
+(6) The expenses may be recovered [[^F97]by the Wales Audit Office] from the convicted person or the body, to the extent that they are not recovered from any other source.
+
+##### 40 Documents relating to [[^F98]police and crime commissioners and chief constables]
+
+(1) If the Auditor General for Wales [[^F99]makes a report under section 22] and the report relates to a [[^F100]police and crime commissioner for, or the chief constable of a police force maintained under section 2 of the Police Act 1996 for,] a police area in Wales, he must send a copy of the report to the Secretary of State and the [[^F101]Welsh Ministers].
+
+(2) If the Auditor General for Wales has sent a document (or a copy of a document) relating to one or more [[^F102]police and crime commissioners] for police areas in Wales to a [[^F103]police and crime commissioner] for a police area in Wales, he may send a copy of the document to the Secretary of State and the [[^F101]Welsh Ministers].
+
+[[^F104](3) If the Auditor General for Wales has sent a document (or a copy of a document) relating to one or more chief constables of police forces maintained under section 2 of the Police Act 1996 for a police area in Wales, the Auditor General may send a copy of the document to the persons to whom a copy of a document may be sent under subsection (2).]
+
+### Chapter 2 — Studies and performance standards
+
+#### Studies
+
+##### 41 Studies for improving economy etc in services
+
+(1) The Auditor General for Wales must for each financial year undertake [^F105]... studies designed to enable himto make recommendations—
+
+(a) for improving economy, efficiency and effectiveness in the discharge of the functions of [[^F106]—
+
+(i) county councils and county borough councils in Wales;
+
+(ii) fire and rescue authorities in Wales constituted by a scheme under section 2 of the Fire and Rescue Services Act 2004 or a scheme to which section 4 of that Act applies;
+
+(iii) National Park authorities for National Parks in Wales;]
+
+(b) for improving economy, efficiency and effectiveness in the provision of services provided by other localgovernment bodies in Wales;
+
+(c) for improving the financialor other management of local government bodies in Wales.
+
+(2) The studies which the Auditor General for Wales is required to undertake [^F105]... under subsection (1) include in particular—
+
+(a) studies designed to enable the Auditor General for Wales to determine what directions he should give under section 47;
+
+(b) studies of information published in pursuance of section 47 which are designed to enable the Auditor General for Wales to determine, in relation to each financial year, what comparative information to publish himself about the standards of performance achieved by bodies which are relevant bodies for the purposes of that section.
+
+(3) The Auditor General for Wales may undertake [^F105]... other studies relating to the provision of services by local government bodies in Wales.
+
+(4) Where the Auditor General for Wales undertakes [^F105]... a study under this section, he must publish or otherwise make available—
+
+(a) the results of the study, and
+
+(b) any recommendations made by him.
+
+(5) Before undertaking [^F105]... a study under this section, other than a study of a kind mentioned in paragraph (a) or (b) of subsection (2), the Auditor General for Wales must consult—
+
+(a) any associations of local government bodies in Wales which appear to him to be concerned, and
+
+(b) any associations of employees which appear to him to be appropriate.
+
+(6) The Auditor General for Wales and [[^F107]the Welsh Ministers] must co-operate with each other with respect to the exercise of their respective functions under this section and [[^F108]sections 149A and 149B of the Social Services and Well-being (Wales) Act 2014 (reviews of studies and research and other reviews relating to local authority social services functions carried out by the Welsh Ministers).]
+
+[[^F109](7) Subsection (8) applies in respect of the discharge of social services functions by local authorities in Wales.
+
+(8) The Auditor General and the Social Care Wales must co-operate with each other with respect to the exercise of their respective functions under this section and section 70 of the Regulation and Inspection of Social Care (Wales) Act 2016 (studies by SCW as to economy etc.).
+
+(9) In subsection (7) “social services functions” has the same meaning as in the Social Services and Well-being (Wales) Act 2014.]
+
+##### 42 Studies on impact of statutory provisions etc
+
+(1) The Auditor General for Wales must undertake [^F110]... studies designed to enable him to prepare reports as to the impact of —
+
+(a) the operation of any statutory provisions, or
+
+(b) any directions or guidance given by [[^F111]the Welsh Ministers] (whether or not under a statutory provision),
+
+on economy, efficiency and effectiveness in the discharge of the functions of localgovernment bodies in Wales.
+
+(2) The Auditor General for Wales must from time to time lay before [[^F112]the National Assembly for Wales] a report of any matters which,in his opinion—
+
+(a) arise out of studies under this section, and
+
+(b) ought to be drawn to the attention of [[^F112]the National Assembly for Wales].
+
+(3) Before undertaking [^F113]... a study under this section, the Auditor General for Wales must consult—
+
+(a) any associations of local government bodies in Wales which appear to him to be concerned, and
+
+(b) any associations of employees which appear to him to be appropriate.
+
+(4) The Auditor General for Wales and the [[^F114]Welsh Ministers] must co-operate with each other with respect to the exercise of their respective functions under this section and [[^F115]sections 149A and 149B of the Social Services and Well-being (Wales) Act 2014 (reviews of studies and research and other reviews relating to local authority social services functions carried out by the Welsh Ministers).]
+
+##### [^F116]43 Co-operation with Audit Commission
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### 44 Studies at request of local government bodies in Wales
+
+(1) The Auditor General for Wales may, at the request of a local government body in Wales, undertake [^F117]... studies designed to enable him to make recommendations for improving economy, efficiency and effectiveness in the discharge of the functions of the body.
+
+(2) Before making the request the body must consult any associations of employees which appear to it to be appropriate.
+
+##### 45 Benefit administration studies for Secretary of State
+
+(1) The Auditor General for Wales may, at the request of the Secretary of State, conduct,or assist the Secretary of State in conducting, benefit administration studies.
+
+(2) Benefit administration studies are studies designed to enable recommendations to be made for improving economy, efficiency, and effectiveness and quality of performance in the discharge by one or more local authorities in Wales of functions relating to the administration of housing benefit or council tax benefit (or both).
+
+(3) Any information obtained in the course of a benefit administration study may be disclosed by the Auditor General for Wales to the Secretary of State for the purposes of any functions of the Secretary of State which are connected with housing benefit or council tax benefit.
+
+(4) The Auditor General for Wales must send to the Secretary of State a copy of a report of a benefit administration study carried out by the Auditor General for Wales.
+
+(5) The Secretary of State or the Auditor General for Wales may send a copy of a report of a benefit administration study to any local authority to which the study relates.
+
+(6) The Secretary of State may publish a report of a benefit administration study in conjunction with the Auditor General for Wales.
+
+(7) The Auditor General for Wales may conduct, or assist the Secretary of State in conducting, a benefit administration study only if the Secretary of State has made arrangements for the payment to [[^F118]the Wales Audit Office] of a fee in respect of the study.
+
+(8) The amount of the fee must be a reasonable amount agreed between the Secretary of State and [[^F119]the Wales Audit Office, (but may not exceed the full cost incurred by the Auditor General for Wales in conducting, or assisting the Secretary of State to conduct, the study)].
+
+[[^F120](9) A fee payable under this section must be charged in accordance with a scheme for charging fees prepared under section 24 of the Public Audit (Wales) Act 2013.]
+
+#### Performance standards
+
+##### 46 Performance standards: relevant bodies
+
+(1) Each of these local government bodies in Wales is a relevant body for the purposes of sections 47 to 49—
+
+(a) a local authority in Wales;
+
+(b) a committee of a local authority in Wales (including a joint committee of two or more local authorities in Wales);
+
+[[^F121](ba) a corporate joint committee;]
+
+(c) a National Park authority for a National Park in Wales;
+
+(d) a [[^F122]police and crime commissioner] for a police area in Wales;
+
+(e) a fire and rescue authority in Wales constituted by a scheme under section 2 of the Fire and Rescue Services Act 2004 (c. 21) or a scheme to which section 4 of that Act applies.
+
+(2) [[^F123]the Welsh Ministers] may by order provide for sections 47 to 49 to have effect as if any other local government body in Wales were a relevant body for the purposes of those sections.
+
+(3) In this section “local authority in Wales” does not include a community council.
+
+##### 47 Publication of information as to standards of performance
+
+(1) The Auditor General for Wales must give any directions which he thinks fit for requiring relevant bodies to publish the information mentioned in subsection (2).
+
+(2) The information is information relating to their activities in a financial year which will, in the opinion of the Auditor General for Wales, facilitate the making of appropriate comparisons—
+
+(a) between the standards of performance achieved by different relevant bodies in the financial year, or
+
+(b) between the standards of performance achieved by relevant bodies in different financial years.
+
+(3) The comparisons are to be made by reference to the criteria of cost, economy, efficiency and effectiveness.
+
+(4) If a relevant body is required by a direction under this section to publish information in relation to a financial year, it must—
+
+(a) make arrangements for collecting and recording the information which secure that the information is available for publication and (so far as practicable) that everything published in pursuance of the direction is accurate and complete,
+
+(b) publish the information in accordance with the direction and in a method permitted under section 48 before the end of the period of 9 months starting immediately after the end of the financial year, and
+
+(c) [[^F124]in the case of a relevant body which is not a corporate joint committee,] keep a document containing any information published in pursuance of the direction available for inspection by local government electors for its area.
+
+(5) [[^F125]The Welsh Ministers] may by order vary the period specified in subsection (4)(b).
+
+(6) The period specified in an order under subsection (5) must not be longer than 9 months starting immediately after the end of the financial year in question.
+
+(7) A local government elector for the area of a relevant body may—
+
+(a) at all reasonable times and without payment, inspect and make copies of the whole or any part of a document kept available for inspection by the body under subsection (4)(c);
+
+(b) require copies of the whole or part of any such document to be delivered to him on payment of a reasonable sum for each copy.
+
+(8) A person who has custody of a document kept available for inspection under subsection (4)(c) commits an offence if—
+
+(a) he obstructs a person in the exercise of his rights under subsection (7), or
+
+(b) he refuses to comply with a requirement under subsection (7)(b).
+
+(9) A person guilty of an offence under subsection (8) is liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+##### 48 Permitted methods of publishing information under section 47
+
+[[^F126](1) The permitted methods of publication referred to in section 47(4)(b) are—
+
+(a) in the case of a relevant body which is a corporate joint committee, electronic publication;
+
+(b) in the case of a relevant body which is not a corporate joint committee, the methods mentioned in subsections (2) and (3).]
+
+(2) The relevant body may publish the information in a newspaper which is—
+
+(a) printed for sale, and
+
+(b) circulating in its area.
+
+(3) If the relevant body ensures that the distribution condition is met with respect to the information, it may publish the information in a newspaper or periodical publication which—
+
+(a) is produced and distributed by another person (other than a local authority company), and
+
+(b) is free of charge to the recipient.
+
+(4) A relevant body ensures that the distribution condition is met with respect to information if—
+
+(a) in any case, the body takes all reasonable steps to secure that a copy of a publication containing the information is distributed to each dwelling house in its area;
+
+(b) in a case where the body considers that the information is of concern to persons carrying on business in its area, the body takes such steps as it considers reasonable and practicable to secure that a copy of a publication containing the information is also distributed to business premises in its area.
+
+(5) A local authority company is a company under the control of a local authority.
+
+(6) Section 68(1) of the Local Government and Housing Act 1989 (c. 42) (company under control of local authority) has effect for the purposes of subsection (5) as it has effect for the purposes of Part 5 of that Act.
+
+##### 49 Directions under section 47
+
+(1) A direction under section 47 requiring the publication of information must—
+
+(a) identify the financial year or years in relation to which the information is to be published,
+
+(b) specify or describe the activities to which the information is to relate, and
+
+(c) make provision as to the matters to be contained in the information and as to the form in which it is to be published.
+
+(2) A direction under section 47—
+
+(a) may be given so as to apply either to all relevant bodies or to all relevant bodies of a description specified in the direction;
+
+(b) may be varied or revoked by a subsequent direction under that section.
+
+(3) Before giving a direction under section 47 which imposes a new requirement on a relevant body as to the publication of any information the Auditor General for Wales must consult—
+
+(a) any associations of relevant bodies he thinks fit, and
+
+(b) any other persons he thinks fit.
+
+(4) A direction under section 47 imposing a new requirement on a relevant body as to the publication of any information must not be given later than the 31 December in the financial year which precedes the relevant financial year.
+
+(5) The relevant financial year is the financial year in relation to which the information is to be published.
+
+(6) If the Auditor General for Wales gives a direction under section 47 he must—
+
+(a) publish the direction in the manner he considers appropriate for bringing it to the attention of members of the public, and
+
+(b) send a copy of the direction to every relevant body on which duties are imposed by virtue of the direction.
+
+(7) References in this section to the imposition of a new requirement on a relevant body as to the publication of information are to—
+
+(a) the imposition of a requirement by the first direction under section 47 to apply to the body;
+
+(b) any subsequent extension of or addition to—
+
+(i) the matters to be contained in the information which the body is required to publish in relation to a financial year in pursuance of directions under section 47, or
+
+(ii) the activities to which any such information is to relate.
+
+### Chapter 3 — Best value
+
+#### 50 Best value audit and inspections
+
+Schedule 1 has effect (amendments to Part 1 of the Local Government Act 1999 (c. 27): best value).
+
+### Chapter 4 — General
+
+#### 51 Social security references and reports to Secretary of State
+
+(1) The Auditor General for Wales may refer to the Secretary of State any matter arising from an audit or study under this Part if it appears that the matter may be relevant for the purposes of any of the functions of the Secretary of State relating to social security.
+
+[^F127]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) The Auditor General for Wales may send to the Secretary of State a copy of any report—
+
+[[^F128](a) made by him under section 22, and]
+
+(b) which contains observations on the administration by a local authority in Wales of housing benefit or council tax benefit.
+
+#### 52 Rights of Auditor General for Wales to documents and information
+
+(1) The Auditor General for Wales has a right of access at all reasonable times to every document relating to a local government body in Wales which appears to him necessary for the purposes of his functions under this Part.
+
+(2) The documents relating to a body to which the right conferred by subsection (1) applies may include in particular—
+
+(a) a document which is held or controlled by a person who has received financial assistance from the body by means of a grant, loan or guarantee or as a result of the taking of an interest in any property or body corporate;
+
+(b) a document which is held or controlled by a person who has supplied goods or services to the body in pursuance of a contract to which the body was party or who has supplied goods or services in pursuance of a relevant sub-contract;
+
+(c) a document of a description specified in an order made by [[^F129]the Welsh Ministers].
+
+(3) For the purposes of subsection (2)(b) a contract is a relevant sub-contract if its performance fulfils, or contributes to the fulfilment of, an obligation to supply goods or services to the body in another contract.
+
+(4) The Auditor General for Wales may require a person whom he thinks has information of the kind mentioned in subsection (5)—
+
+(a) to give him any assistance, information and explanation which the Auditor General for Wales thinks necessary for the purposes of his functions under this Part;
+
+(b) to attend before him in person to—
+
+(i) give the assistance, information or explanation, or
+
+(ii) produce any document which is held or controlled by the person and to which the right conferred by subsection (1) applies.
+
+(5) The information is information which relates to—
+
+(a) a local government body in Wales;
+
+(b) a document to which the right conferred by subsection (1) applies;
+
+(c) a person who holds or controls such a document.
+
+[^F130]6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7) Every local government body in Wales must provide the Auditor General for Wales with every facility and all information which he may reasonably need for the purposes of his functions under this Part.
+
+(8) Before making an order under subsection (2)(c) [[^F131]the Welsh Ministers] must consult—
+
+(a) the Auditor General for Wales, and
+
+(b) any associations of local authorities in Wales which appear to it to be concerned.
+
+[[^F132](9) A statutory instrument containing an order under subsection (2)(c) is (unless a draft of the order has been laid before, and approved by a resolution of the National Assembly for Wales) subject to annulment in pursuance of a resolution of the Assembly.]
+
+#### 53 Rights of Auditor General for Wales to documents and information: offences
+
+(1) A person commits an offence if without reasonable excuse he fails to comply with a requirement imposed by the Auditor General for Wales under section 52(4).
+
+(2) A person guilty of an offence under subsection (1) is liable on summary conviction—
+
+(a) to a fine not exceeding level 3 on the standard scale, and
+
+(b) to an additional fine not exceeding £20 for each day on which the offence continues after he has been convicted of it.
+
+(3) Subsection (4) applies if—
+
+(a) a person is convicted of an offence under subsection (1), and
+
+(b) expenses are incurred by the Auditor General for Wales [[^F133]or the Wales Audit Office] in connection with proceedings for the offence.
+
+(4) The expenses may be recovered [[^F134]by the Wales Audit Office] from the convicted person or an appropriate person, to the extent that they are not recovered from any other source.
+
+(5) An appropriate person is a person who controlled the document referred to in section 52(5) at the time the requirement was imposed.
+
+#### 54 Restriction on disclosure of information
+
+(1) This section applies if information relating to a particular body or other person is obtained by the Auditor General for Wales [[^F135]or a person acting on behalf of the Auditor General for Wales by virtue of a delegation made under section 18 of the Public Audit (Wales) Act 2013]—
+
+(a) pursuant to a provision of this Part [^F136]... [[^F137]or Part 1 of the Local Government (Wales) Measure 2009],
+
+[[^F138](aa) pursuant to [[^F139]a provision of Chapter 1 [[^F140]or 1A] of Part 6 or] section 159 of the Local Government and Elections (Wales) Act 2021,] or
+
+(b) in the course of an audit, study [[^F141]assessment] or inspection under a provision of this Part, section 145C of the Government of Wales Act 1998 (c. 38) [^F142]... [[^F143]or Part 1 of the Local Government (Wales) Measure 2009 [[^F144]or Chapter 1 [[^F145]or 1A] of Part 6 of the Local Government and Elections (Wales) Act 2021]].
+
+(2) The information must not be disclosed except in accordance with any of these—
+
+(a) with the consent of the body or person to whom the information relates;
+
+(b) for the purposes of any functions of the Auditor General for Wales [^F146]... under this Part [^F147]... [[^F148]or Part 1 of the Local Government (Wales) Measure 2009 [[^F149]or Chapter 1 [[^F150]or 1A] of Part 6 of the Local Government and Elections (Wales) Act 2021]];
+
+[[^F151](ba) section 159 of the Local Government and Elections (Wales) Act 2021;
+
+(bb) for the purposes of any functions of the Auditor General for Wales which are specified functions within the meaning of section 159 of the Local Government and Elections (Wales) Act 2021 (and are not mentioned elsewhere in this subsection);]
+
+(c) for the purposes of the functions of the Secretary of State relating to social security;
+
+(d) for the purposes of the functions of [[^F152]the Public Services Ombudsman for Wales] under Part 3 of the Local Government Act 2000 (c. 22);
+
+(e) for the purposes of any functions of [[^F153]the Welsh Ministers] which are connected with the discharge of social services functions by local authorities in Wales;
+
+(f) [^F154]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(g) for the purposes of any criminal investigation which is being or may be carried out, whether in the United Kingdom or elsewhere;
+
+(h) for the purposes of any criminal proceedings which have been or may be initiated, whether in the United Kingdom or elsewhere;
+
+(i) for the purposes of the initiation or bringing to an end of any such investigation or proceedings;
+
+(j) for the purpose of facilitating a determination of whether any such investigation or proceedings should be initiated or brought to an end.
+
+[[^F155](2ZA) A person who is, or acts on behalf of a person who is, a public authority for the purposes of the Freedom of Information Act 2000, may also disclose such information—
+
+(a) in accordance with section 145C(5) or (8) of the Government of Wales Act 1998; or
+
+(b) in any other circumstances, except where the disclosure would, or would be likely to, prejudice the effective performance of a function imposed or conferred on the person by or under an enactment.
+
+[^F156]2ZB . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2ZC) A person who does not fall within subsection (2ZA) [^F157]... may also disclose such information in accordance with consent given by the Auditor General for Wales [^F158]....
+
+(2ZD) Section 54ZA makes further provision about consent for the purposes of subsection (2ZC).]
+
+[[^F159](2A) [^F160] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ]
+
+(3) A person commits an offence if he discloses information in contravention of [[^F161]this section].
+
+(4) A person guilty of an offence under subsection (3) is liable—
+
+(a) on summary conviction, [^F162]. . . to a fine not exceeding the statutory maximum [^F162]. . .
+
+(b) [^F163]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) In subsection (2) “social services functions” has the same meaning as in [[^F164]section 143 of the Social Services and Well-being (Wales) Act 2014].
+
+[^F165]6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F165]7 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F165]8 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 54ZA [[^F166]Consent under section 54(2ZC)
+
+(1) Consent for the purposes of section 54(2ZC) must be obtained in accordance with this section.
+
+(2) A person requesting consent (“ the applicant ”) must make a request for consent which—
+
+(a) is in writing,
+
+(b) states the name of the applicant and an address for correspondence,
+
+(c) describes the information in relation to which consent is requested, and
+
+(d) identifies the person to whom the information will be disclosed.
+
+(3) Consent must be given except where the disclosure would, or would be likely to, prejudice the effective performance of a function imposed or conferred on the Auditor General for Wales [^F167]... by or under an enactment.
+
+(4) Consent may be given or refused orally or in writing; but where it is given or refused orally the consent or refusal must be confirmed in writing.
+
+(5) A refusal (or, where the refusal is oral, the confirmation of the refusal) must contain the reasons for the refusal.
+
+(6) [[^F168]The Auditor General for Wales] must give or refuse consent not later than the twentieth working day following the day on which the request is received.
+
+(7) “ Working day ” means any day other than a Saturday, a Sunday, Christmas Day, Good Friday or a day which is a bank holiday under the Banking and Financial Dealings Act 1971 in any part of the United Kingdom. ]
+
+#### 54A [[^F169]Disclosure of information by or on behalf of public authorities
+
+[^F170]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .]
+
+#### 55 Supply of benefit information to Auditor General for Wales
+
+The Secretary of State may supply to the Auditor General for Wales any information held by the Secretary of State which—
+
+(a) relates to housing benefit or council tax benefit, and
+
+(b) appears to the Secretary of State to be relevant to the exercise of any function of the Auditor General for Wales.
+
+#### 56 Publication of information by Auditor General for Wales
+
+(1) The Auditor General for Wales may publish information with respect to any of these—
+
+(a) the making [^F171]... of a report under section 22;
+
+(b) the subject-matter of a report under section 22;
+
+(c) the decision made and other action taken by a body in response to the receipt of a report under section 22 or to anything in a report under section 22;
+
+(d) a contravention by a body of regulations made under section 39;
+
+(e) a contravention by a body of an obligation imposed on the body under section 47(4).
+
+(2) The information that may be published under subsection (1)(a), (b) or (c) does not include information excluded under section 26(5) from an approved summary published under section 26(4)(c).
+
+(3) The Auditor General for Wales must inform a body before publishing information under subsection (1) relating to it.
+
+(4) Information published under subsection (1) must be published in any manner which the Auditor General for Wales considers appropriate for bringing the information to the attention of members of the public who may be interested in it.
+
+#### [^F172]57 Provision of information to Audit Commission
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 58 Orders and regulations
+
+(1) Any power conferred on [[^F173]the Welsh Ministers] by this Part to make orders or regulations is exercisable by statutory instrument.
+
+(2) Any power conferred on [[^F173]the Welsh Ministers] or the Secretary of State to make an order or regulations under this Part includes power—
+
+(a) to make such incidental, consequential, transitional or supplementary provision as [[^F173]the Welsh Ministers] or the Secretary of State thinks appropriate;
+
+(b) to make different provision for different cases, including different provision for different localities and different bodies and descriptions of bodies.
+
+#### 59 Interpretation of Part 2
+
+(1) This section applies for the interpretation of this Part.
+
+[^F174]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F174]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) [^F175]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) “Local authority in Wales” means a county council, county borough council or community council in Wales.
+
+(6) “Local government elector” means a person registered as a local government elector in the register of electors in accordance with the provisions of the Representation of the People Acts.
+
+(7) A reference to a local government elector for an area, in relation to a National Park authority which is the local planning authority for a National Park, is to a local government elector for any area the whole or part of which is comprised in the Park.
+
+(8) “Statutory provision” means a provision contained in or having effect under an enactment.
+
+[[^F176](9) “Corporate joint committee” means a corporate joint committee established by regulations made under Part 5 of the Local Government and Elections (Wales) Act 2021.]
+
+## Part 3 — Welsh NHS bodies
+
+### 60 Meaning of “Welsh NHS body”
+
+In this Part “Welsh NHS body” means—
+
+(a) a Local Health Board,
+
+(b) a Special Health Authority performing functions only or mainly in respect of Wales,
+
+(c) a National Health Service trust all or most of whose hospitals, establishments and facilities are situated in Wales or any trustees appointed in pursuance of [[^F177]paragraph 10 of Schedule 3 to the National Health Service (Wales) Act 2006] for such a trust, or
+
+(d) a body of trustees appointed in pursuance of section 29(1) of the National Health Service Reorganisation Act 1973 (c. 32) and section 95(1) of the National Health Service Act 1977 (c. 49) [[^F178]and section 160(1) of the National Health Service (Wales) Act 2006] for a trust all or most of whose hospitals, establishments and facilities are situated in Wales.
+
+### 61 Audit of Welsh NHS bodies
+
+(1) The accounts prepared by a Welsh NHS body under [[^F179]paragraph 4(2) of Schedule 12B to the National Health Service Act 1977 (preparation of annual accounts of Welsh NHS bodies)] for a financial year must be submitted by that body to the Auditor General for Wales no later than five months after the end of that year.
+
+(2) The Auditor General for Wales must—
+
+(a) examine and certify any accounts submitted to him under this section, and
+
+(b) no later than four months after the accounts are submitted to him, lay before [[^F180]the National Assembly for Wales] a copy of them as certified by him together with his report on them.
+
+(3) In examining any accounts submitted to him under this section, the Auditor General for Wales must, in particular, satisfy himself—
+
+(a) that the expenditure to which the accounts relate has been incurred lawfully and in accordance with the authority which governs it, and
+
+(b) that the body to which the accounts relate has made proper arrangements for securing economy, efficiency and effectiveness in its use of resources.
+
+### 62 [[^F181]Co-operation with Welsh Ministers, [^F182]... or Care Quality Commission]
+
+The Auditor General for Wales must co-operate with—
+
+(a) [[^F183]the Welsh Ministers],
+
+[^F184]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[[^F185](c) the Care Quality Commission,]
+
+where it seems to him appropriate to do so for the efficient and effective discharge of his functions in relation to Welsh NHS bodies.
+
+### 63 Audit of accounts of officers of Welsh NHS bodies
+
+(1) This section applies where an officer of a Welsh NHS body receives money or other property—
+
+(a) on behalf of that body, or
+
+(b) for which he ought to account to that body.
+
+(2) The officer must keep accounts.
+
+(3) The accounts of the officer must—
+
+(a) be made up each year to 31 March, and
+
+(b) be audited by the Auditor General for Wales,
+
+and section 61 applies with the necessary modifications in relation to the accounts and audit.
+
+### 64 Provision of information by CHAI
+
+(1) [[^F186]The Care Quality Commission] must, on request, provide the Auditor General for Wales with any information he may reasonably require for the purpose of making comparisons, in the discharge of his functions under sections 145 and 145A of the Government of Wales Act 1998 (c. 38) in relation to a Welsh NHS body, between the Welsh NHS body and English NHS bodies and cross-border SHAs.
+
+(2) Subsection (1) does not require information to be provided in circumstances where (but for that subsection) the disclosure of the information would contravene [[^F187]section 76 of the Health and Social Care Act 2008 (disclosure of confidential personal information: offence).]
+
+[[^F188](3) In this section—
+
+- “English NHS body” has the meaning given by subsection (1) of section 97 of that Act; and
+- “cross-border SHA” means a cross-border Special Health Authority as defined by that subsection.]
+
+## [[^F189]Part 3A — Data matching
+
+### 64A Power to conduct data matching exercises
+
+(1) The Auditor General for Wales may conduct data matching exercises [^F190]....
+
+(2) A data matching exercise is an exercise involving the comparison of sets of data to determine how far they match (including the identification of any patterns and trends).
+
+(3) The power in subsection (1) is exercisable for the purpose of assisting in the prevention and detection of fraud in or with respect to Wales.
+
+(4) That assistance may, but need not, form part of an audit.
+
+(5) A data matching exercise may not be used to identify patterns and trends in an individual's characteristics or behaviour which suggest nothing more than his potential to commit fraud in the future.
+
+(6) In the following provisions of this Part, reference to a data matching exercise is to an exercise conducted or arranged to be conducted under this section.
+
+### 64B Mandatory provision of data
+
+(1) The Auditor General for Wales may require—
+
+(a) any body mentioned in subsection (2), and
+
+(b) any officer or member of such a body,
+
+to provide the Auditor General or a person acting on his behalf [[^F191]by virtue of a delegation made under section 18 of the Public Audit (Wales) Act 2013] with such data (and in such form) as the Auditor General or that person may reasonably require for the purpose of conducting data matching exercises.
+
+(2) The bodies are—
+
+(a) a local government body in Wales (as defined in section 12(1));
+
+(b) a Welsh NHS body (as defined in section 60).
+
+(3) A person who without reasonable excuse fails to comply with a requirement of the Auditor General under subsection (1)(b) is guilty of an offence and liable on summary conviction—
+
+(a) to a fine not exceeding level 3 on the standard scale, and
+
+(b) to an additional fine not exceeding £20 for each day on which the offence continues after conviction for that offence.
+
+(4) If an officer or member of a body is convicted of an offence under subsection (3), any expenses incurred by the Auditor General [[^F192]or by the Wales Audit Office] in connection with proceedings for the offence, so far as not recovered from any other source, are recoverable from that body [[^F193]by the Wales Audit Office].
+
+### 64C Voluntary provision of data
+
+(1) If the Auditor General for Wales thinks it appropriate to conduct a data matching exercise using data held by or on behalf of a body or person not subject to section 64B, the data may be disclosed to the Auditor General or a person acting on his behalf [[^F194]by virtue of a delegation made under section 18 of the Public Audit (Wales) Act 2013].
+
+(2) A disclosure under subsection (1) does not breach—
+
+(a) any obligation of confidence owed by a person making the disclosure, or
+
+(b) any other restriction on the disclosure of information (however imposed).
+
+(3) But nothing in this section authorises a disclosure which—
+
+(a) contravenes [[^F195]the data protection legislation], or
+
+(b) is prohibited by [[^F196]any of Parts 1 to 7 or Chapter 1 of Part 9 of the Investigatory Powers Act 2016].
+
+(4) Data may not be disclosed under subsection (1) if the data comprise or include patient data.
+
+(5) [[^F197]In this section—
+
+“the data protection legislation” has the same meaning as in the Data Protection Act 2018 (see section 3 of that Act);]
+
+“Patient data” means data relating to an individual which are held for medical purposes (within the meaning of section 251 of the National Health Service Act 2006 (c. 41)) and from which the individual can be identified.
+
+(6) This section does not limit the circumstances in which data may be disclosed apart from this section.
+
+(7) Data matching exercises may include data provided by a body or person outside England and Wales.
+
+### 64D Disclosure of results of data matching etc
+
+(1) This section applies to the following information—
+
+(a) information relating to a particular body or person obtained by or on behalf of the Auditor General for Wales for the purpose of conducting a data matching exercise,
+
+(b) the results of any such exercise.
+
+(2) Information to which this section applies may be disclosed by or on behalf of the Auditor General for Wales if the disclosure is—
+
+(a) for or in connection with a purpose for which the data matching exercise is conducted,
+
+(b) to a body [[^F198]or person] mentioned in subsection (3) (or a related party) for or in connection with a function of that body [[^F198]or person] corresponding or similar to the functions of [[^F199]the Auditor General] under Chapter 1 of Part 2 or the functions of the Auditor General under Part 3 or this Part, or
+
+(c) in pursuance of a duty imposed by or under a statutory provision.
+
+(3) The bodies [[^F200]and persons] are—
+
+[[^F201](a) the Secretary of State,
+
+(aa) the Minister for the Cabinet Office,
+
+(ab) a local auditor within the meaning of the Local Audit and Accountability Act 2014,]
+
+(b) the Auditor General for Scotland,
+
+(c) the Accounts Commission for Scotland,
+
+(d) Audit Scotland,
+
+(e) the Comptroller and Auditor General for Northern Ireland,
+
+(f) a person designated as a local government auditor under Article 4 of the Local Government (Northern Ireland) Order 2005 (S.I. 2005/1968 (N.I.18)).
+
+(4) “Related party”, in relation to a body [[^F202]or person] mentioned in subsection (3), means—
+
+(a) a body or person acting on its behalf,
+
+(b) a body whose accounts are required to be audited by it or by a person appointed by it,
+
+(c) a person appointed by it to audit those accounts.
+
+(5) If the data used for a data matching exercise include patient data—
+
+(a) subsection (2)(a) applies only so far as the purpose for which the disclosure is made relates to—
+
+[[^F203](i)] a relevant NHS body [[^F204], or
+
+(ii) in relation to patient data which are held for the purposes of local authority social care provided to individuals aged 18 or over, a local authority,]
+
+(b) subsection (2)(b) applies only so far as the function for or in connection with which the disclosure is made relates to such a body.
+
+(6) In subsection (5) [[^F205]and this subsection]—
+
+[[^F206](za) “local authority” has the meaning given by section 275(1) of the National Health Service Act 2006,
+
+(zb) “local authority social care” means—
+
+(i) social care provided or arranged for by a local authority, or
+
+(ii) social care all or part of the cost of which is paid for with funds provided by a local authority,]
+
+(a) “patient data” has the same meaning as in section 64C,
+
+(b) “relevant NHS body” means—
+
+(i) a Welsh NHS body as defined in section 60,
+
+[[^F207](ii) a body mentioned in paragraph (a), (b) or (c) of paragraph 4(12) of Schedule 9 to the Local Audit and Accountability Act 2014 (“relevant NHS body”);]
+
+(iii) an NHS body as defined in section 22(1) of the Community Care and Health (Scotland) Act 2002 (asp 5),
+
+[[^F208](iv) a health and social care body mentioned in paragraphs (a) to (e) of section 1(5) of the Health and Social Care (Reform) Act (Northern Ireland) 2009,]
+
+[[^F209](c) “social care” has the meaning given by section 251(12A) of the National Health Service Act 2006.]
+
+(7) Information disclosed under subsection (2) may not be further disclosed except—
+
+(a) for or in connection with the purpose for which it was disclosed under paragraph (a) or the function for which it was disclosed under paragraph (b) of that subsection,
+
+(b) for the investigation or prosecution of an offence (so far as the disclosure does not fall within paragraph (a)), or
+
+(c) in pursuance of a duty imposed by or under a statutory provision.
+
+(8) Except as authorised by subsections (2) and (7), a person who discloses information to which this section applies is guilty of an offence and liable—
+
+(a) on conviction on indictment, to imprisonment for a term not exceeding two years, to a fine or to both, or
+
+(b) on summary conviction, to imprisonment for a term not exceeding [[^F210]the general limit in a magistrates’ court], to a fine not exceeding the statutory maximum or to both.
+
+(9) Section 54 does not apply to information to which this section applies.
+
+(10) In this section “ statutory provision ” has the meaning given in section 59(8).
+
+### 64E Publication
+
+(1) Nothing in section 64D prevents the Auditor General for Wales from publishing a report on a data matching exercise (including on the results of the exercise).
+
+(2) But the report may not include information relating to a particular body or person if—
+
+(a) the body or person is the subject of any data included in the data matching exercise,
+
+(b) the body or person can be identified from the information, and
+
+(c) the information is not otherwise in the public domain.
+
+(3) A report published under this section may be published in any manner which the Auditor General considers appropriate for bringing it to the attention of those members of the public who may be interested.
+
+(4) This section does not affect any powers of [^F211]... the Auditor General where the data matching exercise in question forms part of an audit under Part 2 or 3.
+
+### 64F Fees for data matching
+
+[[^F212](A1) The Wales Audit Office may, in accordance with a scheme for charging fees prepared under section 24 of the Public Audit (Wales) Act 2013, charge a fee in respect of a data matching exercise undertaken by the Auditor General for Wales.]
+
+(1) The [[^F213]Wales Audit Office] must prescribe a scale or scales of fees in respect of data matching exercises.
+
+(2) A body required under section 64B(1) to provide data for a data matching exercise must pay to [[^F214]the Wales Audit Office] the fee applicable to that exercise in accordance with the appropriate scale.
+
+(3) But if it appears to the [[^F215]Wales Audit Office] that the work involved in the exercise was substantially more or less than that envisaged by the appropriate scale, the [[^F215]Wales Audit Office] may charge the body a fee which is larger or smaller than that referred to in subsection (2).
+
+(4) Before prescribing a scale of fees under this section, the [[^F216]Wales Audit Office] must consult—
+
+(a) the bodies mentioned in section 64B(2), and
+
+(b) such other bodies or persons as the [[^F216]Wales Audit Office] thinks fit.
+
+(5) If the Welsh Ministers consider it necessary or desirable to do so, they may by regulations prescribe a scale or scales of fees to have effect, for such period as is specified in the regulations, in place of any scale or scales of fees prescribed by the [[^F217]Wales Audit Office] and, if they do so, references in this section to the appropriate scale are to be read as respects that period as references to the appropriate scale prescribed by the Welsh Ministers.
+
+(6) Before making any regulations under subsection (5), the Welsh Ministers must consult—
+
+(a) the [[^F218]Wales Audit Office], and
+
+(b) such other bodies or persons as they think fit.
+
+(7) The power under subsection (5) is exercisable by statutory instrument subject to annulment in pursuance of a resolution of [[^F219]the National Assembly for Wales].
+
+(8) In addition to the power under subsection (2), the [[^F220]Wales Audit Office] may charge a fee to any other body or person providing data for or receiving the results of a data matching exercise, such fee to be payable in accordance with terms agreed between the [[^F220]Wales Audit Office] and that body or person.
+
+[[^F221](9) Any terms as to payment agreed by the Wales Audit Office under subsection (8) must be in accordance with a scheme for charging fees prepared under section 24 of the Public Audit (Wales) Act 2013.
+
+(10) A fee charged under this section may not exceed the full cost of exercising the function to which it relates.]
+
+### 64G Code of data matching practice
+
+(1) The Auditor General for Wales must prepare, and keep under review, a code of practice with respect to data matching exercises.
+
+(2) Regard must be had to the code in conducting and participating in any such exercise.
+
+(3) Before preparing or altering the code, the Auditor General must consult the bodies mentioned in section 64B(2), the [[^F222]Information Commission] and such other bodies or persons as the Auditor General thinks fit.
+
+(4) The Auditor General must—
+
+(a) lay a copy of the code, and of any alterations made to the code, before [[^F223]the National Assembly for Wales], and
+
+(b) from time to time publish the code as for the time being in force.
+
+### 64H Powers of Secretary of State
+
+(1) The Secretary of State may by order amend this Part—
+
+(a) to add any purpose mentioned in subsection (2) to the purposes for which data matching exercises may be conducted,
+
+(b) to modify the application of this Part in relation to a purpose so added.
+
+(2) The purposes which may be added are—
+
+(a) to assist in the prevention and detection of crime (other than fraud) in or with respect to Wales,
+
+(b) to assist in the apprehension and prosecution of offenders in or with respect to Wales,
+
+(c) to assist in the recovery of debt owing to Welsh public bodies.
+
+(3) The Secretary of State may by order amend this Part—
+
+(a) to add a Welsh public body to the list of bodies in section 64B(2),
+
+(b) to modify the application of this Part in relation to a body so added,
+
+(c) to remove a body from that list.
+
+(4) Before making an order under this section, the Secretary of State must consult the Auditor General for Wales.
+
+(5) An order under this section—
+
+(a) is to be made by statutory instrument, and
+
+(b) may include such incidental, consequential, supplemental or transitional provision as the Secretary of State thinks fit.
+
+(6) No order under this section may be made unless a draft of the statutory instrument has been laid before, and approved by a resolution of, each House of Parliament.
+
+(7) In this section “Welsh public body” means a public body (as defined in section 12(3)) whose functions relate exclusively to Wales or an area of Wales.]
+
+## Part 4 — Miscellaneous and general
+
+### Miscellaneous
+
+#### 65 Public bodies subject to audit etc
+
+(1) The Government of Wales Act 1998 is amended as follows.
+
+(2) [^F224]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) In subsection (9) of that section, after paragraph (b) add
+
+> and
+>
+> (c) “public body” means—
+>
+> (i) a body exercising functions of a public nature, or
+>
+> (ii) a body entirely or substantially funded from public money.
+
+(4) In Schedule 17, in Part 1 (bodies subject generally to audit etc provisions), in paragraph 1 omit “(other than the Care Council for Wales)”.
+
+#### 66 Minor and consequential amendments
+
+Schedule 2 (which makes minor and consequential amendments) has effect.
+
+#### 67 Functions transferred to Assembly
+
+(1) Any reference in Schedule 1 to the National Assembly for Wales (Transfer of Functions) Order 1999 (S.I.1999/672) to an enactment amended by this Act is to be treated as a reference to that enactment as amended by this Act.
+
+(2) Subsection (1) does not affect the power to make further Orders varying or omitting those references.
+
+#### 67A [[^F225]Assistance by Auditor General to inspectorates
+
+(1) The Auditor General for Wales may provide assistance to—
+
+(a) Her Majesty's Chief Inspector of Prisons,
+
+(b) Her Majesty's Inspectors of Constabulary,
+
+(c) Her Majesty's Chief Inspector of the Crown Prosecution Service,
+
+(d) [[^F226]Her Majesty's Inspectorate of Probation for England and Wales],
+
+[^F227] e . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+in the discharge of any of their functions.
+
+(2) Assistance under subsection (1) may be provided on such terms, including terms as to payment, as [[^F228]the Wales Audit Office] and the body or person in question may agree[[^F229], but any terms as to payment agreed by the Wales Audit Office must be made in accordance with a scheme for charging fees prepared under section 24 of the Public Audit (Wales) Act 2013].
+
+[[^F230](3) Any sums charged in relation to assistance provided under this section may not exceed the full cost of providing that assistance.]]
+
+#### 67B [[^F231]Protection from defamation claims
+
+For the purposes of the law of defamation, the publication in a communication between the Auditor General for Wales or the Wales Audit Office and the Public Services Ombudsman for Wales of a matter in connection with a joint investigation conducted under section 68(2) of the Public Services Ombudsman (Wales) Act 2019, is absolutely privileged.]
+
+### Transitional provision
+
+#### 68 [[^F232] Transfer of property etc to Wales Audit Office ]
+
+(1) Any property, rights and liabilities which are the subject of a transfer scheme are to be transferred to and vested in the [[^F233]Wales Audit Office] in accordance with the scheme.
+
+(2) For this purpose “a transfer scheme” means a scheme contained in an order made under paragraph 1 of Schedule 3.
+
+(3) Schedule 3 (which makes provision about schemes for the transfer of property etc) has effect.
+
+#### [^F234]69 Local government bodies in Wales
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F234]70 Welsh NHS bodies
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### General
+
+#### 71 Interpretation
+
+In this Act—
+
+- “the Assembly” means the National Assembly for Wales;
+- “the Audit Commission” means the Audit Commission for Local Authorities and the National Health Service in England [^F235]. . . ;
+- “body” includes office;
+- “financial year” means the 12 months ending with 31 March.
+
+#### 72 Repeals
+
+The enactments mentioned in Schedule 4 are repealed to the extent specified.
+
+#### 73 Commencement
+
+(1) The preceding provisions (and the Schedules), except section 71, come into force in accordance with provision made by the Assembly by order.
+
+(2) The power to make orders under subsection (1) is exercisable by statutory instrument.
+
+(3) Orders under subsection (1)—
+
+(a) may include transitional provision or savings;
+
+(b) may make different provision for different purposes.
+
+#### 74 Extent
+
+(1) The amendment or repeal of a provision by this Act has the same extent as the provision amended or repealed.
+
+(2) Subject to that, this Act extends to England and Wales only.
+
+#### 75 Short title
+
+This Act may be cited as the Public Audit (Wales) Act 2004.
+
+## SCHEDULE 1 — Best value audit and inspections
+
+*Section 50*
+
+**1** The Local Government Act 1999 (c. 27) is amended as follows.
+
+**2** In section 1 (best value authorities) after subsection (5) insert—
+
+> (6) For the purposes of this Part each of these is a best value authority in Wales—
+>
+> (a) a local authority in Wales;
+>
+> (b) a National Park authority for a National Park in Wales;
+>
+> (c) a police authority for a police area in Wales;
+>
+> (d) a fire and rescue authority in Wales constituted by a scheme under section 2 of the Fire and Rescue Services Act 2004 (c. 21) or a scheme to which section 4 of that Act applies.
+>
+> (7) In subsection (6) “local authority in Wales” means a county council, county borough council or community council in Wales.
+
+**3** After section 2 insert—
+
+> **Power to extend or disapply: best value authorities in Wales**
+>
+> **2A** (1) The National Assembly for Wales may by order provide that any of the bodies mentioned in subsection (2) is a best value authority in Wales for the purposes of this Part.
+>
+> (2) The bodies are—
+>
+> (a) a levying body within the meaning of section 74(1) of the Local Government Finance Act 1988;
+>
+> (b) a body to which section 75 of that Act applies (special levies).
+>
+> (3) An order under subsection (1) providing for a body to be a best value authority in Wales may provide for section 7 to have effect in relation to that body with specified modifications.
+>
+> (4) The National Assembly for Wales may by order provide that a best value authority in Wales specified, or of a description specified, in the order is not to be subject, in relation to such functions as may be specified, to a duty—
+>
+> (a) which is specified in the order, and
+>
+> (b) to which the authority would otherwise be subject under this Part.
+
+**4** [^F236]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**5** (1) Section 7 (audit) is amended as follows.
+
+(2) [^F237]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) After subsection (3) insert—
+
+> (3A) If an authority’s auditor is appointed by the Auditor General for Wales, sections 18 and 19 of the Public Audit (Wales) Act 2004 (auditor’s rights to documents and information) shall have effect in relation to the auditor’s functions under this Part as those sections have effect in relation to his functions under Chapter 1 of Part 2 of that Act.
+
+(4) [^F237]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) In subsection (4) after “section 10,” insert—
+
+> (ea) if the auditor is appointed by the Auditor General for Wales, recommending whether the Auditor General for Wales should carry out a best value inspection of the authority under section 10A,
+
+.
+
+(6) [^F237]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7) In subsection (5) after “Audit Commission,” insert—
+
+> (ba) if the auditor is appointed by the Auditor General for Wales, to the Auditor General for Wales,
+
+.
+
+(8) In subsection (7)—
+
+(a) for “reference in subsection (1)” substitute “ references in subsections (1), (3) and (3A) ”;
+
+(b) for “is” substitute “ are ”;
+
+(c) for “a reference” substitute “ references ”.
+
+(9) [^F237]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(10) In subsection (8) after “Audit Commission Act 1998,” insert—
+
+> (aa) if he was appointed by the Auditor General for Wales, is no longer eligible for appointment under section 14 of the Public Audit (Wales) Act 2004,
+
+.
+
+(11) In subsection (8) for the words after paragraph (b) substitute “ the references in subsections (1), (3) and (3A) to the authority’s auditor are, in respect of that financial year, references to the auditor or auditors appointed in accordance with subsection (8A). ”
+
+(12) After subsection (8) insert—
+
+> (8A) The auditor or auditors shall be appointed—
+>
+> (a) by the Auditor General for Wales, if the authority is a best value authority in Wales;
+>
+> (b) by the Audit Commission, in any other case.
+>
+> (8B) Section 14 of the Public Audit (Wales) Act 2004 shall apply to an appointment under subsection (8A)(a) as if it were an appointment of a person to audit the authority’s accounts under section 13 of that Act.
+
+(13) [^F237]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**6** Omit section 8(1) (auditor to have regard to code of practice under section 8).
+
+**7** After section 8 insert—
+
+> **Code of practice and fees: Auditor General for Wales**
+>
+> **8A** (1) The Auditor General for Wales may prepare, and keep under review, a code of practice prescribing the way in which auditors appointed by him are to carry out their functions under section 7.
+>
+> (2) Section 16(2) to (9) of the Public Audit (Wales) Act 2004 (code of audit practice) shall have effect in relation to a code of practice under this section.
+>
+> (3) The Auditor General for Wales shall prescribe a scale or scales of fees in respect of the audit of performance plans which are required to be audited in accordance with this Part by auditors appointed by him.
+>
+> (4) Sections 20(4) to (6) and 21(1) to (4) of the Public Audit (Wales) Act 2004 (fees for audit) shall have effect in relation to fees under subsection (3).
+>
+> (5) Before prescribing a scale of fees under subsection (3) the Auditor General for Wales shall consult—
+>
+> (a) the Assembly, and
+>
+> (b) persons appearing to the Auditor General for Wales to represent best value authorities in Wales.
+>
+> **Auditor’s duty in relation to codes**
+>
+> **8B** (1) An auditor appointed by the Audit Commission who is carrying out an audit of an authority’s performance plan under section 7 shall have regard to any provisions of a code of practice under section 8 which—
+>
+> (a) are applicable to the audit, and
+>
+> (b) are in force.
+>
+> (2) An auditor appointed by the Auditor General for Wales who is carrying out an audit of an authority’s performance plan under section 7 shall have regard to any provisions of a code of practice under section 8A which—
+>
+> (a) are applicable to the audit, and
+>
+> (b) are in force.
+>
+> (3) Subsection (4) applies at any time before there are provisions of a code of practice under section 8A to which an auditor appointed by the Auditor General for Wales is required under subsection (2) to have regard in carrying out an audit of an authority’s performance plan under section 7.
+>
+> (4) The auditor shall have regard to any provisions of a code of practice under section 8 which—
+>
+> (a) are applicable to an audit of a performance plan published by an authority of a corresponding description to the authority, and
+>
+> (b) are in force.
+
+**8** In section 10 (inspections by Audit Commission) after subsection (4) insert—
+
+> (5) The preceding provisions of this section do not apply in relation to a best value authority in Wales.
+
+**9** After section 10 insert—
+
+> **Inspections: Auditor General for Wales**
+>
+> **10A** (1) The Auditor General for Wales may carry out an inspection of the compliance with the requirements of this Part by a best value authority in Wales.
+>
+> (2) If the Secretary of State directs the Auditor General for Wales to carry out an inspection of the compliance with the requirements of this Part by a specified best value authority in Wales in relation to specified functions, the Auditor General for Wales shall comply with the direction.
+>
+> (3) Before giving a direction under subsection (2) the Secretary of State shall consult the Auditor General for Wales.
+>
+> (4) In carrying out an inspection, and in deciding whether to do so, the Auditor General for Wales shall have regard to—
+>
+> (a) any relevant recommendation under section 7(4)(ea), and
+>
+> (b) any guidance issued by the Secretary of State.
+
+**10** In section 11 (inspectors' powers and duties) for subsection (7) substitute—
+
+> (7) In this section “inspector” means—
+>
+> (a) an officer, servant or agent of the Audit Commission carrying out an inspection under section 10;
+>
+> (b) the Auditor General for Wales, a member of his staff or a person providing services to him who is carrying out an inspection under section 10A.
+
+**11** In section 12 (fees in respect of inspections under section 10), in subsection (4)(b) after “authorities” insert “ which may be inspected under section 10 ”.
+
+**12** After section 12 insert—
+
+> **Fees: inspections under section 10A**
+>
+> **12A** (1) The Auditor General for Wales shall prescribe a scale or scales of fees in respect of inspections carried out under section 10A.
+>
+> (2) An authority inspected under section 10A shall, subject to subsection (3), pay to the Auditor General for Wales the fee applicable to the inspection in accordance with the appropriate scale.
+>
+> (3) If it appears to the Auditor General for Wales that the work involved in a particular inspection was substantially more or less than that envisaged by the appropriate scale, the Auditor General for Wales may charge a fee which is larger or smaller than that referred to in subsection (2).
+>
+> (4) Before prescribing a scale of fees under this section the Auditor General for Wales shall consult—
+>
+> (a) the Secretary of State, and
+>
+> (b) persons appearing to the Auditor General for Wales to represent best value authorities in Wales.
+
+**13** After section 13 insert—
+
+> **Reports of inspections under section 10A**
+>
+> **13A** (1) Where the Auditor General for Wales has carried out an inspection of an authority under section 10A he shall issue a report.
+>
+> (2) A report—
+>
+> (a) shall mention any matter in respect of which the Auditor General for Wales believes as a result of an inspection that the authority is failing to comply with the requirements of this Part, and
+>
+> (b) may, if it mentions a matter under paragraph (a), recommend that the Secretary of State give a direction under section 15.
+>
+> (3) The Auditor General for Wales—
+>
+> (a) shall send a copy of a report to the authority concerned, and
+>
+> (b) may publish a report and any information in respect of a report.
+>
+> (4) If a report recommends that the Secretary of State give a direction under section 15, the Auditor General for Wales shall as soon as reasonably practicable—
+>
+> (a) arrange for the recommendation to be published, and
+>
+> (b) send a copy of the report to the Secretary of State.
+>
+> (5) If a report states that the Auditor General for Wales believes as a result of an inspection that an authority is failing to comply with the requirements of this Part, the next performance plan prepared by the authority under section 6 must record—
+>
+> (a) that fact, and
+>
+> (b) any action taken by the authority as a result of the report.
+
+**[^F238]14** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**15** In section 25 (coordination of inspections etc.), in subsection (2) after paragraph (a) insert—
+
+> (aa) the Auditor General for Wales;
+
+.
+
+**16** In section 26 (guidance issued by Secretary of State), after subsection (3) insert—
+
+> (3A) Before issuing guidance under section 10A the Secretary of State shall, in addition to the consultation required by subsection (2)(c) above, consult the Auditor General for Wales.
+
+**17** In section 33(3) (grants by National Assembly for Wales) after “make grants to” insert “ (a) ” and after “this Act” insert
+
+> ;
+>
+> (b) the Auditor General for Wales in respect of expenditure incurred or to be incurred by him under this Act
+
+.
+
+## SCHEDULE 2 — Minor and consequential amendments
+
+*Section 66*
+
+### Local Government Act 1972 (c. 70)
+
+**1** (1) Section 137 of the Local Government Act 1972 (local authority expenditure for certain purposes not otherwise authorised) is amended as follows.
+
+(2) In subsection (7), omit the words from “and section 14” to the end.
+
+(3) After that subsection insert—
+
+> (7A) In relation to England, section 14 of the Audit Commission Act 1998 (rights of inspection) applies in relation to a separate account included in a local authority’s accounts by virtue of subsection (7) above as it applies in relation to a statement of accounts prepared by the authority pursuant to regulations under section 27 of that Act.
+>
+> (7B) In relation to Wales, section 29 of the Public Audit (Wales) Act 2004 (rights of inspection) applies in relation to a separate account included in a local authority’s accounts by virtue of subsection (7) above as it applies in relation to a statement of accounts prepared by the authority pursuant to regulations under section 39 of that Act.
+
+### National Health Service Act 1977 (c. 49)
+
+**2** [^F239]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Local Government, Planning and Land Act 1980 (c. 65)
+
+**3** In section 2(7) of the Local Government, Planning and Land Act 1980 (ways in which information may be published), in paragraph (b) after “Audit Commission Act 1998” insert “ or section 39 of the Public Audit (Wales) Act 2004 ”.
+
+### Further Education Act 1985 (c. 47)
+
+**4** In section 3(4) of the Further Education Act 1985 (accounting provisions: local education authorities) after “Audit Commission Act 1998” insert “ or section 39 of the Public Audit (Wales) Act 2004 ”.
+
+### Housing Associations Act 1985 (c. 69)
+
+**5** (1) Section 75 of the Housing Associations Act 1985 (general functions of Relevant Authority) is amended as follows.
+
+(2) In subsection (1), omit paragraph (f).
+
+(3) [^F240]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Local Government Act 1986 (c. 10)
+
+**6** In section 5 of the Local Government Act 1986 (separate account of local authority’s expenditure on publicity), in subsection (4) after “Audit Commission Act 1998” insert “ , section 39(1)(e) of the Public Audit (Wales) Act 2004 ”.
+
+### Airports Act 1986 (c. 31)
+
+**7** (1) The Airports Act 1986 is amended as follows.
+
+(2) In section 22(5) (audit of accounts of public airport companies) for the words from “the Audit Commission” to the end substitute—
+
+> (a) the Auditor General for Wales, in a case where the company’s controlling authority are—
+>
+> (i) a county council or county borough council in Wales, or
+>
+> (ii) a composite authority of which both or all the constituent councils are county councils or county borough councils in Wales;
+>
+> (b) the Audit Commission for Local Authorities and the National Health Service in England and Wales, in any other case.
+
+.
+
+(3) In section 24(3) (inspection of accounts of councils providing services for public airport companies), in paragraph (a) omit “and Wales” and after that paragraph insert—
+
+> (aa) in Wales, section 29 of the Public Audit (Wales) Act 2004 (rights of inspection) shall apply in relation to any such separate account as it applies in relation to any statement of accounts prepared by the council pursuant to regulations under section 39 of that Act;
+
+.
+
+### Local Government Finance Act 1988 (c. 41)
+
+**8** In Schedule 8 to the Local Government Finance Act 1988 (non-domestic rating: pooling), in paragraph 5—
+
+(a) in sub-paragraph (6)(c) for the words from “to be certified” to the end substitute
+
+> to be certified—
+>
+> (i) if it is an authority in England, under arrangements made by the Audit Commission for Local Authorities and the National Health Service in England and Wales (“the Commission”), and
+>
+> (ii) if it is an authority in Wales, under arrangements made by the Auditor General for Wales.
+
+, and
+
+(b) in sub-paragraph (6A), after “The Commission” insert “ or the Auditor General for Wales, as the case may be, ”.
+
+### Education Reform Act 1988 (c. 40)
+
+**9** (1) Section 124B of the Education Reform Act 1988 (accounts of higher education corporations) is amended as follows.
+
+[^F241]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) After that subsection insert—
+
+> (5A) A corporation in Wales shall consult, and take into account any advice given by, the Auditor General for Wales before appointing any auditor under subsection (4) above in respect of their first financial year.
+
+(4) In subsection (6) for “that subsection” substitute “ subsection (4) above ”.
+
+### Local Government and Housing Act 1989 (c. 42)
+
+**10** The Local Government and Housing Act 1989 is amended as follows.
+
+**11** In section 65(2) (certification of information supplied to Secretary of State) in paragraph (b) after “arrangements made” insert “ (i) if the authority is in England, ” and at the end insert—
+
+> (ii) if the authority is in Wales, by the Auditor General for Wales.
+
+**12** (1) Section 70 (requirements for companies under control or subject to influence of local authorities) is amended as follows.
+
+(2) In subsection (2) after “Audit Commission Act 1998” insert “ and Part 2 of the Public Audit (Wales) Act 2004 ”.
+
+(3) In subsection (4) after “Audit Commission Act 1998” insert “ and Part 2 of the Public Audit (Wales) Act 2004 ”.
+
+(4) In subsection (5) after “England and Wales,” insert “ or of the Auditor General for Wales, ”.
+
+### Town and Country Planning Act 1990 (c. 8)
+
+**13** In section 2 of the Town and Country Planning Act 1990 (joint planning boards) for subsection (6A) substitute—
+
+> (6A) Section 241 of the Local Government Act 1972 shall be taken to authorise the application to a joint planning board, by such an order as is mentioned in subsection (6) above, of any provisions mentioned in subsection (6B) below (as well as any provisions of the Local Government Act 1972), subject to any necessary modifications.
+>
+> (6B) The provisions referred to in subsection (6A) above are—
+>
+> (a) the Audit Commission Act 1998, except sections 11, 12, 44 to 47 and 51;
+>
+> (b) Part 2 of the Public Audit (Wales) Act 2004, except sections 25, 26, 46 to 49 and 56.
+
+### National Health Service and Community Care Act 1990 (c. 19)
+
+**14** [^F242]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Social Security Administration Act 1992 (c. 5)
+
+**15** [^F243]1 [^F243]Section 139D of the Social Security Administration Act 1992 (directions concerning prevention and detection of fraud) is amended as follows.
+
+[^F243]2 [^F243]In subsection (1), after paragraph (b) insert—
+
+> [^F243]ba [^F243]a copy of a report has been sent to an authority under section 22(5) or (6) of the Public Audit (Wales) Act 2004 and to the Secretary of State under section 51(3) of that Act;
+
+[^F243].
+
+[^F243]3 [^F243]In subsection (1)(d) after “Audit Commission Act 1998” insert [^F243]“ , section 45(5) of the Public Audit (Wales) Act 2004 ”[^F243].
+
+### Health Service Commissioners Act 1993 (c. 46)
+
+**16** In Schedule 1A to the Health Service Commissioners Act 1993, omit paragraph 13(5) (co-operation of Auditor General for Wales and Comptroller and Auditor General in connection with examinations in respect of the Health Service Commissioner for Wales).
+
+### Education Act 1997 (c. 44)
+
+**17** The Education Act 1997 is amended as follows.
+
+**18** [^F244]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**19** After that section insert—
+
+> **Inspections involving collaboration of Auditor General for Wales**
+>
+> **41A** (1) If requested to do so by the Chief Inspector, the Auditor General for Wales may assist with any inspection under section 38 of a local education authority in Wales; and subsections (2) to (5) below have effect where the Auditor General for Wales assists with any such inspection.
+>
+> (2) Section 40 shall apply to the Auditor General for Wales and to any authorised person as it applies to the inspector.
+>
+> (3) Any information obtained by virtue of section 40 by a person falling within one of the categories mentioned in subsection (4) may be disclosed for the purposes of the inspection, or the preparation or making of the report under section 39(1), to a person falling within the other category.
+>
+> (4) Those categories are—
+>
+> (a) the Auditor General for Wales and any authorised person; and
+>
+> (b) the inspector and any person assisting him.
+>
+> (5) Any report prepared under section 39(1) shall be prepared by the inspector acting in conjunction with the Auditor General for Wales.
+>
+> (6) The Auditor General for Wales shall not provide assistance under this section unless, before he does so, the Chief Inspector has agreed to pay the Auditor General for Wales an amount equal to the full costs incurred by the Auditor General for Wales in providing the assistance.
+>
+> (7) In this section “authorised person” means a person authorised by the Auditor General for Wales for the purposes of this section.
+
+### Local Government (Contracts) Act 1997 (c. 65)
+
+**20** In section 8(1) of the Local Government (Contracts) Act 1997 (meaning of “audit review”)—
+
+(a) in paragraph (a) after “Audit Commission Act 1998” insert “ or section 32 of the Public Audit (Wales) Act 2004 ”;
+
+[^F245]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Audit Commission Act 1998 (c. 18)
+
+**[^F246]21** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F246]22** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F246]23** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F246]24** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F246]25** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F246]26** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**27** [^F247]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**28** [^F248]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**29** [^F249]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**30** [^F250]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**31** [^F251]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F252]32** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F252]33** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F252]34** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F252]35** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F252]36** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F253]37** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F252]38** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### School Standards and Framework Act 1998 (c. 31)
+
+**39** The School Standards and Framework Act 1998 is amended as follows.
+
+**40** [^F254]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**41** After that section insert—
+
+> **Certification of statements by Auditor General for Wales**
+>
+> **53A** (1) A local education authority in Wales shall, if directed to do so by the National Assembly for Wales, require the Auditor General for Wales to make arrangements in accordance with section 96B(1)(d) of the Government of Wales Act 1998 for certifying—
+>
+> (a) such statement or statements prepared by the authority under section 52 above, or
+>
+> (b) such part or parts of any such statement or statements,
+>
+> as may be specified in the directions; and for the purposes of section 96B(1)(d) of that Act any statement under section 52 above shall be regarded as a return by the authority.
+>
+> (2) The arrangements made by the Auditor General for Wales in pursuance of subsection (1) shall include arrangements for sending to the National Assembly for Wales—
+>
+> (a) a copy of the statement or statements so certified, or
+>
+> (b) a copy of the part or parts so certified,
+>
+> as the case may be.
+>
+> (3) Directions given under subsection (1) may relate to any local education authority or to local education authorities generally or to any class or description of such authority.
+
+### Government of Wales Act 1998 (c. 38)
+
+**42** The Government of Wales Act 1998 is amended as follows.
+
+**43** [^F255]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**44** Omit section 100(6) (co-operation of Auditor General for Wales and Comptroller and Auditor General with respect to examinations into Assembly’s use of resources etc.).
+
+**45** [^F256]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**46** In section 144 (accounts, audit and reports), in subsection (2) for “subject to audit by auditors appointed by the Audit Commission)” substitute “ and audit of NHS bodies) ”.
+
+**47** (1) Section 145 (examination into use of resources) is amended as follows.
+
+(2) Omit subsection (5).
+
+(3) At the end of that section insert—
+
+> (7) This section is without prejudice to the power conferred on the Auditor General for Wales by section 96(3)(b).
+
+**48** In Schedule 6, omit paragraph 8(5) (co-operation of Auditor General for Wales and Comptroller and Auditor General in connection with examinations in respect of Her Majesty’s Chief Inspector of Education and Training in Wales).
+
+**49** In Schedule 7, omit paragraph 8(5) (co-operation of Auditor General for Wales and Comptroller and Auditor General in connection with examinations in respect of the Forestry Commissioners).
+
+**50** In Schedule 9, omit paragraph 12(5) (co-operation of Auditor General for Wales and Comptroller and Auditor General in connection with examinations in respect of the Welsh Administration Ombudsman).
+
+**51** In Schedule 17, in Part 2 (bodies partially subject to audit etc provisions), after paragraph 14 insert—
+
+> **14A** A body of trustees appointed in pursuance of section 29(1) of the National Health Service Reorganisation Act 1973 and section 95(1) of the National Health Service Act 1977 for a trust all or most of whose hospitals, establishments and facilities are situated in Wales.
+
+### Local Government Act 2000 (c. 22)
+
+**52** The Local Government Act 2000 is amended as follows.
+
+**53** (1) Section 49 (principles governing conduct of members of relevant authorities) is amended as follows.
+
+[^F257]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) In subsection (5)(b) for “Audit Commission” substitute “ Auditor General for Wales ”.
+
+**[^F258]54** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**55** (1) Section 82 (code of conduct for local government employees) is amended as follows.
+
+[^F259]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) In subsection (6)(b) for “Audit Commission” substitute “ Auditor General for Wales ”.
+
+### Health (Wales) Act 2003 (c. 4)
+
+**56** In Schedule 2 to the Health (Wales) Act 2003, omit paragraph 25(4)(co-operation of Auditor General for Wales and Comptroller and Auditor General with respect to examinations in respect of the Wales Centre for Health).
+
+### Health and Social Care (Community Health and Standards) Act 2003 (c. 43)
+
+**57** The Health and Social Care (Community Health and Standards) Act 2003 is amended as follows.
+
+**58** In section 60 (provision of material to Comptroller and Auditor General etc), after subsection (1) insert—
+
+> (1A) The CHAI must also, on request, provide the Auditor General for Wales with all material which is relevant to a review under section 51 and to one or more Welsh NHS bodies.
+
+**59** After section 69 insert—
+
+> **Provision of information by Auditor General for Wales**
+>
+> **69A** The Auditor General for Wales must, on request, provide the CHAI with any information it may reasonably require for the purpose of making comparisons, in the exercise of its functions under sections 51, 52 and 57, between English NHS bodies and Welsh NHS bodies.
+
+**60** In section 70 (reviews and investigations by the Assembly relating to provision of health care), after subsection (3) insert—
+
+> (3A) Before conducting a review under this section the Assembly must—
+>
+> (a) consult the Auditor General for Wales, and
+>
+> (b) take into account any relevant work done or being done by the Auditor General for Wales.
+
+**61** After section 145 insert—
+
+> **Duties in connection with the Auditor General for Wales**
+>
+> **145A** (1) The CHAI must co-operate with the Auditor General for Wales where it seems to it appropriate to do so for the efficient and effective discharge of its functions.
+>
+> (2) The CHAI must also—
+>
+> (a) consult the Auditor General for Wales, and
+>
+> (b) take into account any relevant work done or being done by the Auditor General for Wales,
+>
+> before exercising its functions under section 51 in relation to a Welsh NHS body.
+>
+> (3) Subsection (2) does not apply in the case of a review requested by the Secretary of State under section 51(2).
+
+## SCHEDULE 3 — Transfer schemes
+
+*Section 68*
+
+### Preparation of transfer schemes
+
+**1** (1) The Secretary of State may, with the consent of the Assembly, by order—
+
+(a) make one or more schemes for the transfer to the [[^F260]Wales Audit Office] of defined property, rights and liabilities of the Comptroller and Auditor General, [^F261]...
+
+[^F261]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) The property, rights and liabilities which may be the subject of a scheme include—
+
+(a) any that would otherwise be incapable of being transferred or assigned, and
+
+(b) rights and liabilities under a contract of employment.
+
+(3) For the purpose of dividing any property, rights or liabilities in connection with a scheme, the scheme may—
+
+(a) create in favour of the transferor an interest in, or right over, any property transferred in accordance with the scheme;
+
+(b) create in favour of the [[^F260]Wales Audit Office] an interest in, or right over, any property retained by the transferor;
+
+(c) create new rights and liabilities as between the [[^F260]Wales Audit Office] and the transferor; or
+
+(d) in connection with provision made under paragraph (a), (b) or (c), make incidental provision as to the interests, rights and liabilities of persons other than the transferor and the [[^F260]Wales Audit Office] with respect to the subject-matter of the scheme;
+
+and references in this Schedule (other than this sub-paragraph) or section 68 to the transfer of property, rights or liabilities (so far as relating to transfers provided for in a scheme) are accordingly to be construed as including references to the creation of any interests, rights or liabilities by virtue of paragraph (a), (b) or (c) or the making of provision by virtue of paragraph (d).
+
+(4) A scheme may define the property, rights and liabilities to be transferred by specifying or describing them (including describing them by reference to a specified part of the transferor’s undertaking).
+
+(5) A scheme may include supplementary, incidental, transitional and consequential provision.
+
+(6) The provision that may be made by virtue of sub-paragraph (3)(c) includes—
+
+(a) provision for treating any person who is entitled by virtue of an order under this paragraph to possession of a document as having given another person an acknowledgement in writing of the right of that other person to the production of the document and to delivery of copies of it, and
+
+(b) provision applying section 64 of the Law of Property Act 1925 (c. 20) (production and safe custody of documents) in relation to any case in relation to which provision within sub-paragraph (3)(a) has effect.
+
+(7) Sub-paragraph (8) applies in the case of a scheme which contains provision for the transfer of rights or liabilities under the contract of employment of an individual (“the employee”).
+
+(8) The provision that may be made in the scheme by virtue of sub-paragraph (5) includes provision with respect to—
+
+(a) the employee’s eligibility to become a member of any pension scheme by virtue of his employment with the transferee if the rights or liabilities relating to his contract of employment are transferred in accordance with the scheme, and
+
+(b) rights of, or rights or liabilities in respect of, the employee under—
+
+(i) any pension scheme of which he may become a member by virtue of his employment with the transferee, or
+
+(ii) any pension scheme of which he is a member by virtue of his employment immediately before the transfer,
+
+(and for the purposes of this sub-paragraph “pension scheme” includes any scheme made under section 1 of the Superannuation Act 1972 (c. 11) (superannuation schemes as respects civil servants etc)).
+
+(9) The power to make an order under this paragraph is exercisable by statutory instrument, and any such instrument is subject to annulment in pursuance of a resolution of either House of Parliament.
+
+**2** Before making an order under paragraph 1, the Secretary of State must consult—
+
+(a) the [[^F260]Wales Audit Office],[[^F262]and]
+
+(b) [^F263]... the Comptroller and Auditor General, [^F264]...
+
+[^F264]c . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Transfer of employees
+
+**3** (1) This paragraph has effect in any case where the rights and liabilities relating to an individual’s contract of employment are transferred in accordance with a scheme.
+
+(2) The transfer does not break the continuity of the individual’s employment, and accordingly—
+
+(a) he is not to be regarded for the purposes of Part 11 of the Employment Rights Act 1996 (c. 18) (redundancy) as having been dismissed by virtue of the transfer,
+
+(b) his period of employment with the transferor counts as a period of employment with the transferee for the purposes of that Act.
+
+(3) The terms and conditions of the individual’s employment with the transferee (taken as a whole) must not be less favourable to the individual than the terms and conditions on which he is employed immediately before the transfer.
+
+**4** (1) This paragraph has effect in any case where—
+
+(a) a scheme contains provision for the transfer of rights or liabilities under the contract of employment of any individual (“the employee”), but
+
+(b) the employee informs the transferor or the [[^F260]Wales Audit Office] that he objects to becoming employed by the [[^F260]Wales Audit Office].
+
+(2) Section 68—
+
+(a) does not operate to transfer any rights, powers, duties or liabilities under or in connection with the contract of employment, but
+
+(b) operates to terminate that contract on the day preceding the transfer date.
+
+(3) The employee is not, by virtue of that termination, to be treated for any purpose as having been dismissed.
+
+(4) In this paragraph “the transfer date”, in relation to a scheme, means the date on which (but for this paragraph) any rights, powers, duties or liabilities under the employee’s contract of employment would have been transferred in accordance with the scheme.
+
+### Continuity
+
+**5** (1) Anything done by or in relation to the transferor for the purposes of or in connection with anything transferred by section 68 which is in effect immediately before it is transferred is to be treated as if done by or in relation to the [[^F260]Wales Audit Office].
+
+(2) There may be continued by or in relation to the [[^F260]Wales Audit Office] anything (including legal proceedings) relating to anything so transferred which is in the process of being done by or in relation to the transferor immediately before it is transferred.
+
+(3) A reference to the transferor in any document relating to anything so transferred is to be taken (so far as necessary for the purposes of or in consequence of the transfer) as a reference to the [[^F260]Wales Audit Office].
+
+(4) A transfer under section 68 does not affect the validity of anything done by or in relation to the transferor before the transfer takes effect.
+
+## SCHEDULE 4 — Repeals
+
+*Section 72*
+
+|  |  |
+|---|---|
+| *Short title and chapter* | *Extent of repeal* |
+| Local Government Act 1972 (c. 70) | In section 137(7), the words from “and section 14” to the end. |
+| Housing Associations Act 1985 (c. 69) | Section 75(1)(f). |
+| Airports Act 1986 (c. 31) | In section 24(3)(a), the words “and Wales”. |
+| Health Service Commissioners Act 1993 (c. 46) | In Schedule 1A, paragraph 13(5). |
+| Audit Commission Act 1998 (c. 18) | In section 33(6), the word “and” immediately preceding paragraph (c). In section 34(6), the word “and” immediately preceding paragraph (d). In section 36(1), in the Table, the entry relating to the National Council for Education and Training for Wales. Section 40(2A). In section 41B—<br>- (a) subsections (2), (4) and (6),<br>- (b) in subsection (5), the words “made by the Secretary of State”. In section 47(1)(a), the words “and community” and “and Wales”. In section 52(1), the words “or the National Assembly for Wales”. |
+| Government of Wales Act 1998 (c. 38) | In section 92—<br>- (a) subsection (1),<br>- (b) in subsection (2), the words “, having regard to any arrangements made or capable of being made under subsection (1),”,<br>- (c) subsection (3). Section 93(3). Section 100(6). In section 144(9), the word “and” immediately preceding paragraph (b). Section 145(5). In Schedule 6, paragraph 8(5). In Schedule 7, paragraph 8(5). In Schedule 9, paragraph 12(5). In Schedule 16, paragraph 99(4). In Schedule 17, in paragraph 1, the words “(other than the Care Council for Wales)”. |
+| Local Government Act 1999 (c. 27) | Section 8(1). Section 22(7). |
+| Care Standards Act 2000 (c. 14) | In Schedule 1, in paragraph 27, sub-paragraph (d) and the word “and” immediately preceding it. |
+| Health (Wales) Act 2003 (c. 4) | In Schedule 2, paragraph 25(4). |
+| Local Government Act 2003 (c. 26) | Section 109(2). |
+
+---
+
+[^F1]: S. 2 repealed by Government of Wales Act 2006 (c. 32), ss. 161(4)(d), 163, Sch. 12 (with Sch. 11 para. 22), the repealing provision coming into force immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007)
+[^F2]: Ss. 6-11 repealed by Government of Wales Act 2006 (c. 32), ss. 161(4)(d), 163, Sch. 12 (with Sch. 11 para. 22), the repealing provision coming into force immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007)
+[^F3]: Ss. 6-11 repealed by Government of Wales Act 2006 (c. 32), ss. 161(4)(d), 163, Sch. 12 (with Sch. 11 para. 22), the repealing provision coming into force immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007)
+[^F4]: Ss. 6-11 repealed by Government of Wales Act 2006 (c. 32), ss. 161(4)(d), 163, Sch. 12 (with Sch. 11 para. 22), the repealing provision coming into force immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007)
+[^F5]: Ss. 6-11 repealed by Government of Wales Act 2006 (c. 32), ss. 161(4)(d), 163, Sch. 12 (with Sch. 11 para. 22), the repealing provision coming into force immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007)
+[^F6]: Ss. 6-11 repealed by Government of Wales Act 2006 (c. 32), ss. 161(4)(d), 163, Sch. 12 (with Sch. 11 para. 22), the repealing provision coming into force immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007)
+[^F7]: Ss. 6-11 repealed by Government of Wales Act 2006 (c. 32), ss. 161(4)(d), 163, Sch. 12 (with Sch. 11 para. 22), the repealing provision coming into force immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007)
+[^F8]: S. 12(1)(ba) inserted (1.4.2021) by The Public Audit (Wales) Act 2004 (Amendment) (Local Government Bodies in Wales) Order 2021 (S.I. 2021/349), arts. 1(2), 2(2)
+[^F9]: Words in s. 12(1)(f) substituted (22.11.2012) by Police Reform and Social Responsibility Act 2011 (c. 13), s. 157(1), Sch. 16 para. 337(a); S.I. 2012/2892, art. 2(i)
+[^F10]: S. 12(1)(fa) inserted (22.11.2012) by Police Reform and Social Responsibility Act 2011 (c. 13), s. 157(1), Sch. 16 para. 337(b); S.I. 2012/2892, art. 2(i)
+[^F11]: S. 12(1)(j) inserted (1.3.2008) by Offender Management Act 2007 (c. 21), ss. 5(6), 41(1), Sch. 1 para. 13(5)(a); S.I. 2008/504, art. 2(a)
+[^F12]: S. 13 substituted (1.4.2014) by Public Audit (Wales) Act 2013 (anaw 3), ss. 11(1), 35(2) (with Sch. 3 paras. 2, 3); S.I. 2013/1466, art. 3(1) (with art. 4(1))
+[^F13]: Ss. 14, 15 omitted (1.4.2014) by virtue of Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 21 (with Sch. 3 paras. 2, 3); S.I. 2013/1466, art. 3(1)
+[^F14]: S. 16 omitted (1.4.2014) by virtue of Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 22 (with Sch. 3 paras. 2, 3); S.I. 2013/1466, art. 3(1)
+[^F15]: S. 17 heading substituted (1.4.2014) by Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 23(4) (with Sch. 3 paras. 2, 3); S.I. 2013/1466, art. 3(1)
+[^F16]: Words in s. 17(2) substituted (1.4.2014) by Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 23(2) (with Sch. 3 paras. 2, 3); S.I. 2013/1466, art. 3(1)
+[^F17]: S. 17(3)(4) omitted (1.4.2014) by virtue of Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 23(3) (with Sch. 3 paras. 2, 3); S.I. 2013/1466, art. 3(1)
+[^F18]: Ss. 18, 19 omitted (1.4.2014) by virtue of Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 24 (with Sch. 3 paras. 2, 3); S.I. 2013/1466, art. 3(1)
+[^F19]: S. 20 heading substituted (1.4.2014) by Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 25(3) (with Sch. 3 paras. 2, 3); S.I. 2013/1466, art. 3(1)
+[^F20]: S. 20(A1) inserted (1.4.2014) by Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 25(2) (with Sch. 3 paras. 2, 3); S.I. 2013/1466, art. 3(1)
+[^F21]: Words in s. 20(1) substituted (1.4.2014) by Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 25(4) (with Sch. 3 paras. 2, 3); S.I. 2013/1466, art. 3(1)
+[^F22]: Words in s. 20(2) substituted (1.4.2014) by Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 25(5)(a) (with Sch. 3 paras. 2, 3); S.I. 2013/1466, art. 3(1)
+[^F23]: Words in s. 20(2)(a) substituted (1.4.2014) by Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 25(5)(b) (with Sch. 3 paras. 2, 3); S.I. 2013/1466, art. 3(1)
+[^F24]: S. 20(2)(b) substituted (1.4.2014) by Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 25(5)(c) (with Sch. 3 paras. 2, 3); S.I. 2013/1466, art. 3(1)
+[^F25]: S. 20(3) omitted (1.4.2014) by virtue of Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 25(6) (with Sch. 3 paras. 2, 3); S.I. 2013/1466, art. 3(1)
+[^F26]: Words in s. 20(4) substituted (1.4.2014) by Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 25(7) (with Sch. 3 paras. 2, 3); S.I. 2013/1466, art. 3(1)
+[^F27]: Words in s. 20(5) substituted (1.4.2014) by Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 25(8)(a) (with Sch. 3 paras. 2, 3); S.I. 2013/1466, art. 3(1)
+[^F28]: Words in s. 20(5) omitted (1.4.2014) by virtue of Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 25(8)(b) (with Sch. 3 paras. 2, 3); S.I. 2013/1466, art. 3(1)
+[^F29]: S. 20(5A) inserted (1.4.2014) by Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 25(9) (with Sch. 3 paras. 2, 3); S.I. 2013/1466, art. 3(1)
+[^F30]: S. 20(6) omitted (1.4.2014) by virtue of Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 25(10) (with Sch. 3 paras. 2, 3); S.I. 2013/1466, art. 3(1)
+[^F31]: S. 21 omitted (1.4.2014) by virtue of Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 26 (with Sch. 3 paras. 2, 3); S.I. 2013/1466, art. 3(1)
+[^F32]: Words in s. 22 substituted (1.4.2014) by Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 27(2) (with Sch. 3 paras. 2, 3); S.I. 2013/1466, art. 3(1)
+[^F33]: Words in s. 22(5) omitted (1.4.2014) by virtue of Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 27(3) (with Sch. 3 paras. 2, 3); S.I. 2013/1466, art. 3(1)
+[^F34]: Words in s. 22(6) omitted (1.4.2014) by virtue of Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 27(4) (with Sch. 3 paras. 2, 3); S.I. 2013/1466, art. 3(1)
+[^F35]: Words in s. 23 substituted (1.4.2014) by Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 28 (with Sch. 3 paras. 2, 3); S.I. 2013/1466, art. 3(1)
+[^F36]: Words in s. 24 substituted (1.4.2014) by Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 29 (with Sch. 3 paras. 2, 3); S.I. 2013/1466, art. 3(1)
+[^F37]: S. 24(2)(e) inserted (1.3.2008) by Offender Management Act 2007 (c. 21), ss. 5(6), 41(1), Sch. 1 para. 13(5)(b); S.I. 2008/504, art. 2(a)
+[^F38]: Words in s. 24(5)(b) substituted (coming into force in accordance with reg. 1(2) of the amending S.I.) by The Local Government and Elections (Wales) Act 2021 (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/356), regs. 1(2), 2(2)(a)(i) (with regs. 10, 11)
+[^F39]: Words in s. 24(5)(b)(i) substituted (coming into force in accordance with reg. 1(2) of the amending S.I.) by The Local Government and Elections (Wales) Act 2021 (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/356), regs. 1(2), 2(2)(a)(ii) (with regs. 10, 11)
+[^F40]: Words in s. 24(5)(b)(ii) substituted (coming into force in accordance with reg. 1(2) of the amending S.I.) by The Local Government and Elections (Wales) Act 2021 (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/356), regs. 1(2), 2(2)(a)(iii) (with regs. 10, 11)
+[^F41]: Words in s. 24(7) substituted (coming into force in accordance with reg. 1(2) of the amending S.I.) by The Local Government and Elections (Wales) Act 2021 (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/356), regs. 1(2), 2(2)(b) (with regs. 10, 11)
+[^F42]: Words in s. 25(2) substituted (1.4.2014) by Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 30(2) (with Sch. 3 paras. 2, 3); S.I. 2013/1466, art. 3(1)
+[^F43]: S. 25(3)(e) inserted (1.3.2008) by Offender Management Act 2007 (c. 21), ss. 5(6), 41(1), Sch. 1 para. 13(5)(c); S.I. 2008/504, art. 2(a)
+[^F44]: Words in s. 25(4) substituted (1.4.2014) by Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 30(3) (with Sch. 3 paras. 2, 3); S.I. 2013/1466, art. 3(1)
+[^F45]: Words in s. 25(6) substituted (1.4.2014) by Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 30(4) (with Sch. 3 paras. 2, 3); S.I. 2013/1466, art. 3(1)
+[^F46]: S. 25(8A) inserted (1.4.2021) by The Public Audit (Wales) Act 2004 (Amendment) (Local Government Bodies in Wales) Order 2021 (S.I. 2021/349), arts. 1(2), 2(3)
+[^F47]: Words in s. 26(3)(a) inserted (coming into force in accordance with reg. 1(2) of the amending S.I.) by The Local Government and Elections (Wales) Act 2021 (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/356), regs. 1(2), 2(3)(a)(i) (with regs. 10, 11)
+[^F48]: S. 26(3)(aa) inserted (coming into force in accordance with reg. 1(2) of the amending S.I.) by The Local Government and Elections (Wales) Act 2021 (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/356), regs. 1(2), 2(3)(a)(ii) (with regs. 10, 11)
+[^F49]: Words in s. 26 substituted (1.4.2014) by Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 31 (with Sch. 3 paras. 2, 3); S.I. 2013/1466, art. 3(1)
+[^F50]: S. 26(3A)(3B) inserted (coming into force in accordance with reg. 1(2) of the amending S.I.) by The Local Government and Elections (Wales) Act 2021 (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/356), regs. 1(2), 2(3)(b) (with regs. 10, 11)
+[^F51]: S. 26(3A)(ba) inserted (3.12.2021) by The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2021 (S.I. 2021/1349), regs. 1(2), 29
+[^F52]: Words in s. 26(6) inserted (coming into force in accordance with reg. 1(2) of the amending S.I.) by The Local Government and Elections (Wales) Act 2021 (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/356), regs. 1(2), 2(3)(c)(i) (with regs. 10, 11)
+[^F53]: Words in s. 26(6) inserted (coming into force in accordance with reg. 1(2) of the amending S.I.) by The Local Government and Elections (Wales) Act 2021 (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/356), regs. 1(2), 2(3)(c)(ii) (with regs. 10, 11)
+[^F54]: Words in s. 27(1) substituted (1.4.2014) by Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 32(2) (with Sch. 3 paras. 2, 3); S.I. 2013/1466, art. 3(1)
+[^F55]: Words in s. 27(5) substituted (1.4.2014) by Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 32(3) (with Sch. 3 paras. 2, 3); S.I. 2013/1466, art. 3(1)
+[^F56]: Words in s. 28 substituted (1.4.2014) by Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 33(2) (with Sch. 3 paras. 2, 3); S.I. 2013/1466, art. 3(1)
+[^F57]: S. 28(4) omitted (1.4.2014) by virtue of Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 33(3) (with Sch. 3 paras. 2, 3); S.I. 2013/1466, art. 3(1)
+[^F58]: S. 29 crossheading substituted (1.4.2014) by Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 34(4) (with Sch. 3 paras. 2, 3); S.I. 2013/1466, art. 3(1)
+[^F59]: S. 29 heading substituted (1.4.2014) by Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 34(3) (with Sch. 3 paras. 2, 3); S.I. 2013/1466, art. 3(1)
+[^F60]: Words in s. 29(1)(b) substituted (1.4.2014) by Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 34(2) (with Sch. 3 paras. 2, 3); S.I. 2013/1466, art. 3(1)
+[^F61]: Words in s. 30(2) substituted (1.4.2014) by Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 35(2)(a) (with Sch. 3 paras. 2, 3); S.I. 2013/1466, art. 3(1)
+[^F62]: Words in s. 30(2) substituted (1.4.2014) by Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 35(2)(b) (with Sch. 3 paras. 2, 3); S.I. 2013/1466, art. 3(1)
+[^F63]: Words in s. 30(3) substituted (1.4.2014) by Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 35(3) (with Sch. 3 paras. 2, 3); S.I. 2013/1466, art. 3(1)
+[^F64]: Words in s. 31 substituted (1.4.2014) by Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 36 (with Sch. 3 paras. 2, 3); S.I. 2013/1466, art. 3(1)
+[^F65]: Words in s. 32(1) substituted (1.4.2014) by Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 37(2)(a) (with Sch. 3 paras. 2, 3); S.I. 2013/1466, art. 3(1)
+[^F66]: Word in s. 32(1) substituted (1.4.2014) by Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 37(2)(b) (with Sch. 3 paras. 2, 3); S.I. 2013/1466, art. 3(1)
+[^F67]: Words in s. 32(4) substituted (1.4.2014) by Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 37(3) (with Sch. 3 paras. 2, 3); S.I. 2013/1466, art. 3(1)
+[^F68]: Words in s. 32(6)-(9) substituted (1.4.2014) by Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 37(4) (with Sch. 3 paras. 2, 3); S.I. 2013/1466, art. 3(1)
+[^F69]: Word in s. 32(10) substituted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 9 para. 124; S.I. 2014/954, art. 2(c) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F70]: Words in s. 33(1) substituted (1.4.2014) by Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 38(2)(a) (with Sch. 3 paras. 2, 3); S.I. 2013/1466, art. 3(1)
+[^F71]: Words in s. 33(1) inserted (1.4.2014) by Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 38(2)(b) (with Sch. 3 paras. 2, 3); S.I. 2013/1466, art. 3(1)
+[^F72]: Words in s. 33(4)(d) substituted (1.4.2014) by Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 38(3) (with Sch. 3 paras. 2, 3); S.I. 2013/1466, art. 3(1)
+[^F73]: Words in s. 33(6)(c) substituted (1.4.2014) by Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 38(4) (with Sch. 3 paras. 2, 3); S.I. 2013/1466, art. 3(1)
+[^F74]: Words in s. 33(7) substituted (1.4.2014) by Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 38(5) (with Sch. 3 paras. 2, 3); S.I. 2013/1466, art. 3(1)
+[^F75]: Words in s. 33(10) substituted (1.4.2014) by Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 38(6) (with Sch. 3 paras. 2, 3); S.I. 2013/1466, art. 3(1)
+[^F76]: Words in s. 33(11) substituted (1.4.2014) by Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 38(7) (with Sch. 3 paras. 2, 3); S.I. 2013/1466, art. 3(1)
+[^F77]: S. 33(12) omitted (1.4.2014) by virtue of Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 38(8) (with Sch. 3 paras. 2, 3); S.I. 2013/1466, art. 3(1)
+[^F78]: Words in s. 34(5)(b) substituted (1.4.2014) by Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 39(2) (with Sch. 3 paras. 2, 3); S.I. 2013/1466, art. 3(1)
+[^F79]: Words in s. 34(8) substituted (1.4.2014) by Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 39(3)(a) (with Sch. 3 paras. 2, 3); S.I. 2013/1466, art. 3(1)
+[^F80]: Words in s. 34(8) substituted (1.4.2014) by Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 39(3)(b) (with Sch. 3 paras. 2, 3); S.I. 2013/1466, art. 3(1)
+[^F81]: Words in s. 35(3) substituted (1.4.2014) by Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 40 (with Sch. 3 paras. 2, 3); S.I. 2013/1466, art. 3(1)
+[^F82]: Words in s. 36(1) substituted (1.4.2014) by Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 41(2)(a) (with Sch. 3 paras. 2, 3); S.I. 2013/1466, art. 3(1)
+[^F83]: Words in s. 36(1) substituted (1.4.2014) by Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 41(2)(b) (with Sch. 3 paras. 2, 3); S.I. 2013/1466, art. 3(1)
+[^F84]: Words in s. 36(2) substituted (1.10.2009) by Constitutional Reform Act 2005 (c. 4), ss. 59, 148, Sch. 11 para. 1(2); S.I. 2009/1604, art. 2
+[^F85]: Words in s. 36(3) substituted (1.4.2014) by Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 41(3) (with Sch. 3 paras. 2, 3); S.I. 2013/1466, art. 3(1)
+[^F86]: Words in s. 36(4) substituted (1.4.2014) by Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 41(4)(a) (with Sch. 3 paras. 2, 3); S.I. 2013/1466, art. 3(1)
+[^F87]: Words in s. 36(4) substituted (1.4.2014) by Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 41(4)(b) (with Sch. 3 paras. 2, 3); S.I. 2013/1466, art. 3(1)
+[^F88]: Words in s. 37(1) omitted (1.4.2014) by virtue of Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 42(3) (with Sch. 3 paras. 2, 3); S.I. 2013/1466, art. 3(1)
+[^F89]: Words in s. 37 substituted (1.4.2014) by Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 42(2) (with Sch. 3 paras. 2, 3); S.I. 2013/1466, art. 3(1)
+[^F90]: Words in s. 37(4) omitted (1.4.2014) by virtue of Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 42(4) (with Sch. 3 paras. 2, 3); S.I. 2013/1466, art. 3(1)
+[^F91]: S. 37(5)(a) omitted (1.4.2014) by virtue of Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 42(5) (with Sch. 3 paras. 2, 3); S.I. 2013/1466, art. 3(1)
+[^F92]: Words in s. 37(8) substituted (1.4.2014) by Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 42(6) (with Sch. 3 paras. 2, 3); S.I. 2013/1466, art. 3(1)
+[^F93]: Words in s. 38(2) substituted (1.4.2014) by virtue of Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 43 (with Sch. 3 paras. 2, 3); S.I. 2013/1466, art. 3(1)
+[^F94]: Words in s. 39 substituted (1.4.2014) by Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 44(2) (with Sch. 3 paras. 2, 3); S.I. 2013/1466, art. 3(1)
+[^F95]: Word in s. 39(2) substituted (1.4.2014) by Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 44(3) (with Sch. 3 paras. 2, 3); S.I. 2013/1466, art. 3(1)
+[^F96]: Words in s. 39(5)(b) substituted (1.4.2014) by Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 44(4) (with Sch. 3 paras. 2, 3); S.I. 2013/1466, art. 3(1)
+[^F97]: Words in s. 39(6) inserted (1.4.2014) by Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 44(5) (with Sch. 3 paras. 2, 3); S.I. 2013/1466, art. 3(1)
+[^F98]: Words in s. 40 title substituted (22.11.2012) by Police Reform and Social Responsibility Act 2011 (c. 13), s. 157(1), Sch. 16 para. 338(2); S.I. 2012/2892, art. 2(i)
+[^F99]: Words in s. 40(1) substituted (1.4.2014) by Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 45(3) (with Sch. 3 paras. 2, 3); S.I. 2013/1466, art. 3(1)
+[^F100]: Words in s. 40(1) substituted (22.11.2012) by Police Reform and Social Responsibility Act 2011 (c. 13), s. 157(1), Sch. 16 para. 338(3); S.I. 2012/2892, art. 2(i)
+[^F101]: Words in s. 40 substituted (1.4.2014) by Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 45(2) (with Sch. 3 paras. 2, 3); S.I. 2013/1466, art. 3(1)
+[^F102]: Words in s. 40(2) substituted (22.11.2012) by Police Reform and Social Responsibility Act 2011 (c. 13), s. 157(1), Sch. 16 para. 338(4)(a); S.I. 2012/2892, art. 2(i)
+[^F103]: Words in s. 40(2) substituted (22.11.2012) by Police Reform and Social Responsibility Act 2011 (c. 13), s. 157(1), Sch. 16 para. 338(4)(b); S.I. 2012/2892, art. 2(i)
+[^F104]: S. 40(3) inserted (22.11.2012) by Police Reform and Social Responsibility Act 2011 (c. 13), s. 157(1), Sch. 16 para. 338(5); S.I. 2012/2892, art. 2(i)
+[^F105]: Words in s. 41(1)-(5) omitted (1.4.2014) by virtue of Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 46(2) (with Sch. 3 paras. 2, 3); S.I. 2013/1466, art. 3(1)
+[^F106]: Words in s. 41(1)(a) substituted (1.4.2021) by The Local Government and Elections (Wales) Act 2021 (Consequential Amendments) Regulations 2021 (S.I. 2021/296), regs. 1(2), 6(2)
+[^F107]: Words in s. 41(6) substituted (1.4.2014) by Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 46(4) (with Sch. 3 paras. 2, 3); S.I. 2013/1466, art. 3(1)
+[^F108]: Words in s. 41(6) substituted (29.4.2019) by Regulation and Inspection of Social Care (Wales) Act 2016 (anaw 2), s. 188(1), Sch. 3 para. 22; S.I. 2019/864, art. 2(3)(d), Sch. (with arts. 3-13)
+[^F109]: S. 41(7)-(9) inserted (3.4.2017) by Regulation and Inspection of Social Care (Wales) Act 2016 (anaw 2), s. 188(1), Sch. 3 para. 48; S.I. 2017/309, art. 2(j) (with arts. 3, 4, Sch.)
+[^F110]: Words in s. 42(1) omitted (1.4.2014) by virtue of Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 47(2)(a) (with Sch. 3 paras. 2, 3); S.I. 2013/1466, art. 3(1)
+[^F111]: Words in s. 42(1)(b) substituted (1.4.2014) by Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 47(2)(b) (with Sch. 3 paras. 2, 3); S.I. 2013/1466, art. 3(1)
+[^F112]: Words in s. 42(2) substituted (1.4.2014) by Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 47(3) (with Sch. 3 paras. 2, 3); S.I. 2013/1466, art. 3(1)
+[^F113]: Words in s. 42(3) omitted (1.4.2014) by virtue of Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 47(4) (with Sch. 3 paras. 2, 3); S.I. 2013/1466, art. 3(1)
+[^F114]: Words in s. 42(4) substituted (1.4.2014) by Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 47(5) (with Sch. 3 paras. 2, 3); S.I. 2013/1466, art. 3(1)
+[^F115]: Words in s. 42(4) substituted (29.4.2019) by Regulation and Inspection of Social Care (Wales) Act 2016 (anaw 2), s. 188(1), Sch. 3 para. 23; S.I. 2019/864, art. 2(3)(d), Sch. (with arts. 3-13)
+[^F116]: S. 43 omitted (1.4.2015) by virtue of Local Audit and Accountability Act 2014 (c. 2), s. 49(1), Sch. 12 para. 60; S.I. 2015/841, art. 3(x)
+[^F117]: Words in s. 44(1) omitted (1.4.2014) by virtue of Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 48 (with Sch. 3 paras. 2, 3); S.I. 2013/1466, art. 3(1)
+[^F118]: Words in s. 45(7) substituted (1.4.2014) by Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 49(2) (with Sch. 3 paras. 2, 3); S.I. 2013/1466, art. 3(1)
+[^F119]: Words in s. 45(8) substituted (1.4.2014) by Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 49(3) (with Sch. 3 paras. 2, 3); S.I. 2013/1466, art. 3(1)
+[^F120]: S. 45(9) inserted (1.4.2014) by Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 49(4) (with Sch. 3 paras. 2, 3); S.I. 2013/1466, art. 3(1)
+[^F121]: S. 46(1)(ba) inserted (15.7.2022) by The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2022 (S.I. 2022/797), regs. 1(2), 3(2)
+[^F122]: Words in s. 46(1)(d) substituted (22.11.2012) by Police Reform and Social Responsibility Act 2011 (c. 13), s. 157(1), Sch. 16 para. 339; S.I. 2012/2892, art. 2(i)
+[^F123]: Words in s. 46(2) substituted (1.4.2014) by virtue of Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 50 (with Sch. 3 paras. 2, 3); S.I. 2013/1466, art. 3(1)
+[^F124]: Words in s. 47(4)(c) inserted (15.7.2022) by The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2022 (S.I. 2022/797), regs. 1(2), 3(3)
+[^F125]: Words in s. 47(5) substituted (1.4.2014) by Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 51 (with Sch. 3 paras. 2, 3); S.I. 2013/1466, art. 3(1)
+[^F126]: S. 48(1) substituted (15.7.2022) by The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2022 (S.I. 2022/797), regs. 1(2), 3(4)
+[^F127]: S. 51(2) omitted (1.4.2014) by virtue of Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 52(2) (with Sch. 3 paras. 2, 3); S.I. 2013/1466, art. 3(1)
+[^F128]: S. 51(3)(a) substituted (1.4.2014) by Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 52(3) (with Sch. 3 paras. 2, 3); S.I. 2013/1466, art. 3(1)
+[^F129]: Words in s. 52(2)(c) substituted (1.4.2014) by Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 53(2) (with Sch. 3 paras. 2, 3); S.I. 2013/1466, art. 3(1)
+[^F130]: S. 52(6) omitted (1.4.2014) by virtue of Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 53(3) (with Sch. 3 paras. 2, 3); S.I. 2013/1466, art. 3(1)
+[^F131]: Words in s. 52(8) substituted (1.4.2014) by Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 53(4) (with Sch. 3 paras. 2, 3); S.I. 2013/1466, art. 3(1)
+[^F132]: S. 52(9) inserted (1.4.2014) by Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 53(5) (with Sch. 3 paras. 2, 3); S.I. 2013/1466, art. 3(1)
+[^F133]: Words in s. 53(3)(b) inserted (1.4.2014) by Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 54(2) (with Sch. 3 paras. 2, 3); S.I. 2013/1466, art. 3(1)
+[^F134]: Words in s. 53(4) inserted (1.4.2014) by Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 54(3) (with Sch. 3 paras. 2, 3); S.I. 2013/1466, art. 3(1)
+[^F135]: Words in s. 54(1) substituted (1.4.2014) by Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 55(2) (with Sch. 3 paras. 2, 3); S.I. 2013/1466, art. 3(1)
+[^F136]: Words in s. 54(1)(a) omitted (1.4.2014) by virtue of Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 55(3)(a) (with Sch. 3 paras. 2, 3); S.I. 2013/1466, art. 3(1)
+[^F137]: Words in s. 54(1)(a) inserted (W.) (1.4.2010) by Local Government (Wales) Measure 2009 (nawm 2), ss. 51(1), 53(2), Sch. 1 para. 36(a); S.I. 2009/3272, art. 3(1), Sch. 2
+[^F138]: S. 54(1)(aa) inserted (21.1.2021) by Local Government and Elections (Wales) Act 2021 (asc 1), ss. 160(a), 175(1)(h)
+[^F139]: Words in s. 54(1)(aa) inserted (1.4.2021) by The Local Government and Elections (Wales) Act 2021 (Consequential Amendments) Regulations 2021 (S.I. 2021/296), regs. 1(2), 6(3)(a)(i)
+[^F140]: Words in s. 54(1)(aa) inserted (15.7.2022) by The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2022 (S.I. 2022/797), regs. 1(2), 22(a)(i)
+[^F141]: Words in s. 54(1)(b) inserted (W.) (1.4.2010) by Local Government (Wales) Measure 2009 (nawm 2), ss. 51(1), 53(2), Sch. 1 para. 36(b)(i); S.I. 2009/3272, art. 3(1), Sch. 2
+[^F142]: Words in s. 54(1)(b) omitted (1.4.2014) by virtue of Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 55(3)(b) (with Sch. 3 paras. 2, 3); S.I. 2013/1466, art. 3(1)
+[^F143]: Words in s. 54(1)(b) inserted (W.) (1.4.2010) by Local Government (Wales) Measure 2009 (nawm 2), ss. 51(1), 53(2), Sch. 1 para. 36(b)(ii); S.I. 2009/3272, art. 3(1), Sch. 2
+[^F144]: Words in s. 54(1)(b) inserted (1.4.2021) by The Local Government and Elections (Wales) Act 2021 (Consequential Amendments) Regulations 2021 (S.I. 2021/296), regs. 1(2), 6(3)(a)(ii)
+[^F145]: Words in s. 54(1)(b) inserted (15.7.2022) by The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2022 (S.I. 2022/797), regs. 1(2), 22(a)(ii)
+[^F146]: Words in s. 54(2)(b) omitted (1.4.2014) by virtue of Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 55(4)(a)(i) (with Sch. 3 paras. 2, 3); S.I. 2013/1466, art. 3(1)
+[^F147]: Words in s. 54(2)(b) omitted (1.4.2014) by virtue of Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 55(4)(a)(ii) (with Sch. 3 paras. 2, 3); S.I. 2013/1466, art. 3(1)
+[^F148]: Words in s. 54(2)(b) inserted (W.) (1.4.2010) by Local Government (Wales) Measure 2009 (nawm 2), ss. 51(1), 53(2), Sch. 1 para. 36(c); S.I. 2009/3272, art. 3(1), Sch. 2
+[^F149]: Words in s. 54(2)(b) inserted (1.4.2021) by The Local Government and Elections (Wales) Act 2021 (Consequential Amendments) Regulations 2021 (S.I. 2021/296), regs. 1(2), 6(3)(b)
+[^F150]: Words in s. 54(2)(b) inserted (15.7.2022) by The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2022 (S.I. 2022/797), regs. 1(2), 22(b)
+[^F151]: S. 54(2)(ba)(bb) inserted (21.1.2021) by Local Government and Elections (Wales) Act 2021 (asc 1), ss. 160(b), 175(1)(h)
+[^F152]: Words in s. 54(2)(d) substituted (1.4.2006) by Public Services Ombudsman (Wales) Act 2005 (c. 10), ss. 39, 40, Sch. 6 para. 77; S.I. 2005/2800, art. 5(1)
+[^F153]: Words in s. 54(2)(e) substituted (1.4.2014) by Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 55(4)(b) (with Sch. 3 paras. 2, 3); S.I. 2013/1466, art. 3(1)
+[^F154]: S. 54(2)(f) omitted (20.7.2005 in accordance with art. 1(2) of the amending S.I.) by virtue of The Public Audit (Wales) Act 2004 (Relaxation of Restriction on Disclosure) Order 2005 (S.I. 2005/1018), art. 2(2)
+[^F155]: S. 54(2ZA)-(2ZD) inserted (31.1.2008) by Local Government and Public Involvement in Health Act 2007 (c. 28), ss.167(2), 245 (with s. 167(8)); S.I. 2008/172, art. 2(1)(h)
+[^F156]: S. 54(2ZB) omitted (1.4.2014) by virtue of Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 55(5) (with Sch. 3 paras. 2, 3); S.I. 2013/1466, art. 3(1)
+[^F157]: Words in s. 54(2ZC) omitted (1.4.2014) by virtue of Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 55(6)(a) (with Sch. 3 paras. 2, 3); S.I. 2013/1466, art. 3(1)
+[^F158]: Words in s. 54(2ZC) omitted (1.4.2014) by virtue of Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 55(6)(b) (with Sch. 3 paras. 2, 3); S.I. 2013/1466, art. 3(1)
+[^F159]: S. 54(2A) inserted (20.7.2005 in accordance with art. 1(2) of the amending S.I.) by The Public Audit (Wales) Act 2004 (Relaxation of Restriction on Disclosure) Order 2005 (S.I. 2005/1018), art. 2(3)
+[^F160]: S. 54(2A) repealed (31.1.2008) by Local Government and Public Involvement in Health Act 2007 (c. 28), ss. 167(3), 241, 245, Sch. 18 Pt. 13 (with s. 167(8)); S.I. 2008/172, art. 2(1)(h)(u)
+[^F161]: Words in s. 54(3) substituted (31.1.2008) by Local Government and Public Involvement in Health Act 2007 (c. 28), ss. 167(4), 245 (with s. 167(8)); S.I. 2008/172, art. 2(1)(h)
+[^F162]: Words in s. 54(4)(a) repealed (31.1.2008) by Local Government and Public Involvement in Health Act 2007 (c. 28), ss. 167(5)(a), 241, 245, Sch. 18 Pt. 13 (with s. 167(8)); S.I. 2008/172, art. 2(1)(h)(u)
+[^F163]: S. 54(4)(b) repealed (31.1.2008) by Local Government and Public Involvement in Health Act 2007 (c. 28), ss. 167(5)(b), 241, 245, Sch. 18 Pt. 13 (with s. 167(8)); S.I. 2008/172, art. 2(1)(h)(u)
+[^F164]: Words in s. 54(5) substituted (6.4.2016) by The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (No. 413), regs. 2(1), 214
+[^F165]: S. 54(6)-(8) omitted (1.4.2014) by virtue of Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 55(7) (with Sch. 3 paras. 2, 3); S.I. 2013/1466, art. 3(1)
+[^F166]: S. 54ZA inserted (31.1.2008) by Local Government and Public Involvement in Health Act 2007 (c. 28), ss.167(6), 245 (with s. 167(8)); S.I. 2008/172, art. 2(1)(h)
+[^F167]: Words in s. 54ZA(3) omitted (1.4.2014) by virtue of Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 56(2) (with Sch. 3 paras. 2, 3); S.I. 2013/1466, art. 3(1)
+[^F168]: Words in s. 54ZA(6) substituted (1.4.2014) by Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 56(3) (with Sch. 3 paras. 2, 3); S.I. 2013/1466, art. 3(1)
+[^F169]: S. 54A inserted (20.7.2005 in accordance with art. 1(2) of the amending S.I.) by The Public Audit (Wales) Act 2004 (Relaxation of Restriction on Disclosure) Order 2005 (S.I. 2005/1018), art. 2(4); S.I. 2005/1911, art. 2, Sch.
+[^F170]: S. 54A repealed (31.1.2008) by Local Government and Public Involvement in Health Act 2007 (c. 28), ss. 167(7), 241, 245, Sch. 18 Pt. 13 (with s. 167(8)); S.I. 2008/172, art. 2(1)(h)(u)
+[^F171]: Words in s. 56(1)(a) omitted (1.4.2014) by virtue of Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 57 (with Sch. 3 paras. 2, 3); S.I. 2013/1466, art. 3(1)
+[^F172]: S. 57 omitted (1.4.2015) by virtue of Local Audit and Accountability Act 2014 (c. 2), s. 49(1), Sch. 12 para. 61; S.I. 2015/841, art. 3(x)
+[^F173]: Words in s. 58 substituted (1.4.2014) by Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 58 (with Sch. 3 paras. 2, 3); S.I. 2013/1466, art. 3(1)
+[^F174]: S. 59(2)(3) omitted (1.4.2014) by virtue of Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 59 (with Sch. 3 paras. 2, 3); S.I. 2013/1466, art. 3(1)
+[^F175]: S. 59(4) repealed (1.4.2008) by Local Government and Public Involvement in Health Act 2007 (c. 28), ss. 144, 241, 245, Sch. 8 para. 27(3), Sch. 18 Pt. 8; S.I. 2008/917, art. 2
+[^F176]: S. 59(9) inserted (1.4.2021) by The Public Audit (Wales) Act 2004 (Amendment) (Local Government Bodies in Wales) Order 2021 (S.I. 2021/349), arts. 1(2), 2(4)
+[^F177]: Words in s. 60(c) substituted (1.3.2007) by National Health Service (Consequential Provisions) Act 2006 (c. 43), ss. 2, 8(2), Sch. 1 para. 261(a) (with Sch. 3 Pt. 1)
+[^F178]: Words in s. 60(d) inserted (1.3.2007) by National Health Service (Consequential Provisions) Act 2006 (c. 43), ss. 2, 8(2), Sch. 1 para. 261(b) (with Sch. 3 Pt. 1)
+[^F179]: Words in s. 61(1) substituted (1.2.2007) by Health Act 2006 (c. 28), ss. 80, 83, Sch. 8 para. 62; S.I. 2007/204, art. 4(b)
+[^F180]: Words in s. 61(2)(b) substituted (1.4.2014) by Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 60 (with Sch. 3 para. 3); S.I. 2013/1466, art. 3(1)
+[^F181]: S. 62 heading substituted (1.4.2014) by Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 61(3) (with Sch. 3 para. 3); S.I. 2013/1466, art. 3(1)
+[^F182]: Words in s. 62 heading omitted (1.4.2015) by virtue of Local Audit and Accountability Act 2014 (c. 2), s. 49(1), Sch. 12 para. 62(3); S.I. 2015/841, art. 3(x)
+[^F183]: Words in s. 62(a) substituted (1.4.2014) by Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 61(2) (with Sch. 3 para. 3); S.I. 2013/1466, art. 3(1)
+[^F184]: S. 62(b) omitted (1.4.2015) by virtue of Local Audit and Accountability Act 2014 (c. 2), s. 49(1), Sch. 12 para. 62(2); S.I. 2015/841, art. 3(x)
+[^F185]: S. 62(c) substituted (1.4.2009) by Health and Social Care Act 2008 (c. 14), ss. 95, 170, Sch. 5 para. 76; S.I. 2009/462, art. 2, Sch. 1 para. 35(z)
+[^F186]: Words in s. 64(1) substituted (1.4.2009) by Health and Social Care Act 2008 (c. 14), ss. 95, 170, Sch. 5 para. 77(a); S.I. 2009/462, art. 2, Sch. 1 para. 35(z)
+[^F187]: Words in s. 64(2) substituted (1.4.2009) by Health and Social Care Act 2008 (c. 14), ss. 95, 170, Sch. 5 para. 77(b); S.I. 2009/462, art. 2, Sch. 1 para. 35(z)
+[^F188]: S. 64(3) substituted (1.4.2009) by Health and Social Care Act 2008 (c. 14), ss. 95, 170, Sch. 5 para. 77(c); S.I. 2009/462, art. 2, Sch. 1 para. 35(z)
+[^F189]: Pt. 3A inserted (1.3.2008 for s. 64G(1)(3)(4) and 6.4.2008 otherwise) by Serious Crime Act 2007 (c. 27), ss. 73, 94, Sch. 7 para. 4; S.I. 2008/219, art. 3(i); S.I. 2008/755, art. 16
+[^F190]: Words in s. 64A(1) omitted (1.4.2014) by virtue of Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 62 (with Sch. 3 para. 3); S.I. 2013/1466, art. 3(1)
+[^F191]: Words in s. 64B(1) inserted (1.4.2014) by Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 63(2) (with Sch. 3 para. 3); S.I. 2013/1466, art. 3(1)
+[^F192]: Words in s. 64B(4) inserted (1.4.2014) by Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 63(3)(a) (with Sch. 3 para. 3); S.I. 2013/1466, art. 3(1)
+[^F193]: Words in s. 64B(4) inserted (1.4.2014) by Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 63(3)(b) (with Sch. 3 para. 3); S.I. 2013/1466, art. 3(1)
+[^F194]: Words in s. 64C(1) inserted (1.4.2014) by Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 64 (with Sch. 3 para. 3); S.I. 2013/1466, art. 3(1)
+[^F195]: Words in s. 64C(3)(a) substituted (25.5.2018) by Data Protection Act 2018 (c. 12), s. 212(1), Sch. 19 para. 99(2) (with ss. 117, 209, 210); S.I. 2018/625, reg. 2(1)(g)
+[^F196]: Words in s. 64C(3)(b) substituted (27.6.2018) by Investigatory Powers Act 2016 (c. 25), s. 272(1), Sch. 10 para. 16 (with Sch. 9 paras. 7, 8, 10); S.I. 2018/652, reg. 12(g)(iii)
+[^F197]: Words in s. 64C(5) inserted (25.5.2018) by Data Protection Act 2018 (c. 12), s. 212(1), Sch. 19 para. 99(3) (with ss. 117, 209, 210); S.I. 2018/625, reg. 2(1)(g)
+[^F198]: Words in s. 64D(2)(b) inserted (1.4.2015) by Local Audit and Accountability Act 2014 (c. 2), s. 49(1), Sch. 12 para. 63(2); S.I. 2015/841, art. 3(x) (with Sch. para. 2) (as amended (27.6.2016) by S.I. 2016/675, art. 2)
+[^F199]: Words in s. 64D(2)(b) substituted (1.4.2014) by Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 65(2) (with Sch. 3 para. 3); S.I. 2013/1466, art. 3(1)
+[^F200]: Words in s. 64D(3) inserted (1.4.2015) by Local Audit and Accountability Act 2014 (c. 2), s. 49(1), Sch. 12 para. 63(3); S.I. 2015/841, art. 3(x) (with Sch. para. 2) (as amended (27.6.2016) by S.I. 2016/675, art. 2)
+[^F201]: S. 64D(3)(a)-(ab) substituted for s. 64D(3)(a) (1.4.2015) by Local Audit and Accountability Act 2014 (c. 2), s. 49(1), Sch. 12 para. 63(4); S.I. 2015/841, art. 3(x) (with Sch. para. 2) (as amended (27.6.2016) by S.I. 2016/675, art. 2)
+[^F202]: Words in s. 64D(4) inserted (1.4.2015) by Local Audit and Accountability Act 2014 (c. 2), s. 49(1), Sch. 12 para. 63(5); S.I. 2015/841, art. 3(x) (with Sch. para. 2) (as amended (27.6.2016) by S.I. 2016/675, art. 2)
+[^F203]: Words in s. 64D(5)(a) renumbered as s. 64D(5)(a)(i) (4.9.2025) by The Legislative Reform (Disclosure of Adult Social Care Data) Order 2025 (S.I. 2025/993), arts. 1(1), 3(2)(a)
+[^F204]: S. 64D(5)(a)(ii) and word inserted (4.9.2025) by The Legislative Reform (Disclosure of Adult Social Care Data) Order 2025 (S.I. 2025/993), arts. 1(1), 3(2)(b)
+[^F205]: Words in s. 64D(6) inserted (4.9.2025) by The Legislative Reform (Disclosure of Adult Social Care Data) Order 2025 (S.I. 2025/993), arts. 1(1), 3(3)(a)
+[^F206]: S. 64D(6)(za)(zb) inserted (4.9.2025) by The Legislative Reform (Disclosure of Adult Social Care Data) Order 2025 (S.I. 2025/993), arts. 1(1), 3(3)(b)
+[^F207]: S. 64D(6)(b)(ii) substituted (1.4.2015) by Local Audit and Accountability Act 2014 (c. 2), s. 49(1), Sch. 12 para. 63(6); S.I. 2015/841, art. 3(x) (with Sch. para. 2) (as amended (27.6.2016) by S.I. 2016/675, art. 2)
+[^F208]: S. 64D(6)(b)(iv) substituted (1.4.2014) by Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 65(3) (with Sch. 3 para. 3); S.I. 2013/1466, art. 3(1)
+[^F209]: S. 64D(6)(c) inserted (4.9.2025) by The Legislative Reform (Disclosure of Adult Social Care Data) Order 2025 (S.I. 2025/993), arts. 1(1), 3(3)(c)
+[^F210]: Words in s. 64D(8)(b) substituted (7.2.2023 at 12.00 p.m.) by The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149), regs. 1(2), 2(1), Sch. Pt. 1
+[^F211]: Words in s. 64E(4) omitted (1.4.2014) by virtue of Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 66 (with Sch. 3 paras. 2, 3); S.I. 2013/1466, art. 3(1)
+[^F212]: S. 64F(A1) inserted (1.4.2014) by Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 67(2) (with Sch. 3 para. 3); S.I. 2013/1466, art. 3(1)
+[^F213]: Words in s. 64F(1) substituted (1.4.2014) by Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 67(3) (with Sch. 3 para. 3); S.I. 2013/1466, art. 3(1)
+[^F214]: Words in s. 64F(2) substituted (1.4.2014) by Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 67(4) (with Sch. 3 para. 3); S.I. 2013/1466, art. 3(1)
+[^F215]: Words in s. 64F(3) substituted (1.4.2014) by Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 67(5) (with Sch. 3 para. 3); S.I. 2013/1466, art. 3(1)
+[^F216]: Words in s. 64F(4) substituted (1.4.2014) by Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 67(5) (with Sch. 3 para. 3); S.I. 2013/1466, art. 3(1)
+[^F217]: Words in s. 64F(5) substituted (1.4.2014) by Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 67(5) (with Sch. 3 para. 3); S.I. 2013/1466, art. 3(1)
+[^F218]: Words in s. 64F(6) substituted (1.4.2014) by Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 67(3) (with Sch. 3 para. 3); S.I. 2013/1466, art. 3(1)
+[^F219]: Words in s. 64F(7) substituted (1.4.2014) by Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 67(6) (with Sch. 3 para. 3); S.I. 2013/1466, art. 3(1)
+[^F220]: Words in s. 64F(8) substituted (1.4.2014) by Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 67(5) (with Sch. 3 para. 3); S.I. 2013/1466, art. 3(1)
+[^F221]: S. 64F(9)(10) inserted (1.4.2014) by Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 67(7) (with Sch. 3 para. 3); S.I. 2013/1466, art. 3(1)
+[^F222]: Words in s. 64G(3) substituted (30.9.2026) by The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386), reg. 1(2), Sch. 2 para. 34; S.I. 2026/1015, reg. 2(c)
+[^F223]: Words in s. 64G(4)(a) substituted (1.4.2014) by Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 68 (with Sch. 3 para. 3); S.I. 2013/1466, art. 3(1)
+[^F224]: S. 65(2) repealed by Government of Wales Act 2006 (c. 32), ss. 161(4)(d), 163, Sch. 12 (with Sch. 11 para. 22), the repealing provision coming into force immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007)
+[^F225]: S. 67A inserted (1.4.2007) by Police and Justice Act 2006 (c. 48), ss. 52, 53, Sch. 14 para. 60; S.I. 2007/709, art. 3(p) (subject to arts. 6, 7)
+[^F226]: Words in s. 67A(1)(d) substituted (1.4.2008) by The Offender Management Act 2007 (Consequential Amendments) Order 2008 (S.I. 2008/912), art. 3, Sch. 1 para. 26(2)(g)
+[^F227]: S. 67A(1)(e) and preceding word repealed (18.9.2012) by The Public Bodies (Abolition of Her Majesty’s Inspectorate of Courts Administration and the Public Guardian Board) Order 2012 (S.I. 2012/2401), art. 1(2)(3), Sch. 1 para. 17 (with art. 2)
+[^F228]: Words in s. 67A(2) substituted (1.4.2014) by Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 69(2) (with Sch. 3 para. 3); S.I. 2013/1466, art. 3(1)
+[^F229]: Words in s. 67A(2) inserted (1.4.2014) by Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 69(3) (with Sch. 3 para. 3); S.I. 2013/1466, art. 3(1)
+[^F230]: S. 67A(3) inserted (1.4.2014) by Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 69(4) (with Sch. 3 para. 3); S.I. 2013/1466, art. 3(1)
+[^F231]: S. 67B inserted (23.7.2019) by Public Services Ombudsman (Wales) Act 2019 (anaw 3), s. 77(1), Sch. 5 para. 3; S.I. 2019/1096, reg. 2
+[^F232]: S. 68 heading substituted (1.4.2014) by The Public Audit (Wales) Act 2013 (Consequential Amendments) Order 2014 (No. 77), arts. 1(1), 3(3)
+[^F233]: Words in s. 68(1) substituted (1.4.2014) by The Public Audit (Wales) Act 2013 (Consequential Amendments) Order 2014 (No. 77), arts. 1(1), 3(2)
+[^F234]: S. 70 omitted (1.4.2015) by virtue of Local Audit and Accountability Act 2014 (c. 2), s. 49(1), Sch. 12 para. 64; S.I. 2015/841, art. 3(x)
+[^F235]: Words in s. 71 repealed (1.4.2008) by Local Government and Public Involvement in Health Act 2007 (c. 28), ss. 146, 241, 245, Sch. 9 para. 1(1)(2)(w), Sch. 18 Pt. 11; S.I. 2008/172, art. 4
+[^F236]: Sch. 1 para. 4 repealed (1.4.2008) by Local Government and Public Involvement in Health Act 2007 (c. 28), ss. 241, 245, Sch. 18 Pt. 8; S.I. 2008/917, art. 2(1)(v)
+[^F237]: Sch. 1 para. 5(2)(4)(6)(9)(13) repealed (1.4.2008) by Local Government and Public Involvement in Health Act 2007 (c. 28), ss. 241, 245, Sch. 18 Pt. 8; S.I. 2008/917, art. 2(1)(v)
+[^F238]: Sch. 1 para. 14 repealed (1.4.2015) by Local Audit and Accountability Act 2014 (c. 2), s. 49(1), Sch. 12 para. 123(c); S.I. 2015/841, art. 3(x)
+[^F239]: Sch. 2 para. 2 repealed (1.2.2007) by Health Act 2006 (c. 28), ss. 80, 83, Sch. 9; S.I. 2007/204, art. 4(c) (with art. 5)
+[^F240]: Sch. 2 para. 5(3) repealed (1.4.2010) by The Housing and Regeneration Act 2008 (Consequential Provisions) Order 2010 (S.I. 2010/866), art. 7, Sch. 4 (with art. 6, Sch. 3)
+[^F241]: Sch. 2 para. 9(2) repealed (1.4.2015) by Local Audit and Accountability Act 2014 (c. 2), s. 49(1), Sch. 12 para. 123(c); S.I. 2015/841, art. 3(x)
+[^F242]: Sch. 2 para. 14 repealed (1.3.2007) by National Health Service (Consequential Provisions) Act 2006 (c. 43), ss. 6, 8(2), Sch. 4 (with Sch. 2 Pt. 1, Sch. 3 Pt. 1)
+[^F243]: Sch. 2 para. 15 repealed (1.4.2013 for specified purposes) by Welfare Reform Act 2012 (c. 5), s. 150(3), Sch. 14 Pt. 1; S.I. 2013/358, art. 8(c), Sch. 4 (with arts. 9 10 Sch. 5)
+[^F244]: Sch. 2 para. 18 repealed (1.4.2007) by Education and Inspections Act 2006 (c. 40), ss. 184, 188, Sch. 18 Pt. 5; S.I. 2007/935, art. 5(ii)
+[^F245]: Sch. 2 para. 20(b) repealed (1.4.2015) by Local Audit and Accountability Act 2014 (c. 2), s. 49(1), Sch. 12 para. 123(c); S.I. 2015/841, art. 3(x)
+[^F246]: Sch. 2 paras. 21-26 repealed (1.4.2015) by Local Audit and Accountability Act 2014 (c. 2), s. 49(1), Sch. 1 Pt. 2; S.I. 2015/841, art. 3(a) (with arts. 5-8 Sch.) (as amended (27.6.2016) by S.I. 2016/675, art. 2)
+[^F247]: Sch. 2 paras. 27-30, 37 repealed (1.4.2010) by Housing and Regeneration Act 2008 (c. 17), ss. 321(1), 325, Sch. 16; S.I. 2010/862, art. 3 (with savings in Sch.)
+[^F248]: Sch. 2 paras. 27-30, 37 repealed (1.4.2010) by Housing and Regeneration Act 2008 (c. 17), ss. 321(1), 325, Sch. 16; S.I. 2010/862, art. 3 (with savings in Sch.)
+[^F249]: Sch. 2 paras. 27-30, 37 repealed (1.4.2010) by Housing and Regeneration Act 2008 (c. 17), ss. 321(1), 325, Sch. 16; S.I. 2010/862, art. 3 (with savings in Sch.)
+[^F250]: Sch. 2 paras. 27-30, 37 repealed (1.4.2010) by Housing and Regeneration Act 2008 (c. 17), ss. 321(1), 325, Sch. 16; S.I. 2010/862, art. 3 (with savings in Sch.)
+[^F251]: Sch. 2 para. 31 repealed (31.1.2008) by Local Government and Public Involvement in Health Act 2007 (c. 28), ss. 241, 245, Sch. 18 Pt. 11; S.I. 2008/172, art. 2(1)(u)
+[^F252]: Sch. 2 paras. 32-38 repealed (1.4.2015) by Local Audit and Accountability Act 2014 (c. 2), s. 49(1), Sch. 1 Pt. 2; S.I. 2015/841, art. 3(a) (with arts. 5-8 Sch.) (as amended (27.6.2016) by S.I. 2016/675, art. 2)
+[^F253]: Sch. 2 paras. 27-30, 37 repealed (1.4.2010) by Housing and Regeneration Act 2008 (c. 17), ss. 321(1), 325, Sch. 16; S.I. 2010/862, art. 3 (with savings in Sch.)
+[^F254]: Sch. 2 para. 40 repealed (12.1.2010) by Apprenticeships, Skills, Children and Learning Act 2009 (c. 22), ss. 266, 269, Sch. 16 Pt. 9; S.I. 2009/3317, art. 2, Sch.
+[^F255]: Sch. 2 para. 43 repealed by Government of Wales Act 2006 (c. 32), ss. 163, 161(4)(d), 163, Sch. 12 (with Sch. 11 para. 22), the repealing provision coming into force immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007)
+[^F256]: Sch. 2 para. 45 repealed by Government of Wales Act 2006 (c. 32), ss. 163, 161(4)(d), 163, Sch. 12 (with Sch. 11 para. 22), the repealing provision coming into force immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007)
+[^F257]: Sch. 2 para. 53(2) repealed (1.7.2012 for specified purposes, 22.11.2012 in so far as not already in force) by Localism Act 2011 (c. 20), s. 240(2), Sch. 25 Pt. 5; S.I. 2012/1463, art. 5(d) (with arts. 6 7) (as amended (3.7.2012) by S.I. 2012/1714, art. 2); S.I. 2012/2913, arts. 1(2), 2(b)(c) (with arts. 3-6)
+[^F258]: Sch. 2 para. 54 repealed (1.7.2012 for specified purposes, 22.11.2012 in so far as not already in force) by Localism Act 2011 (c. 20), s. 240(2), Sch. 25 Pt. 5; S.I. 2012/1463, art. 5(d) (with arts. 6 7) (as amended (3.7.2012) by S.I. 2012/1714, art. 2); S.I. 2012/2913, arts. 1(2), 2(b)(c) (with arts. 3-6)
+[^F259]: Sch. 2 para. 55(2) repealed (1.7.2012 for specified purposes, 22.11.2012 in so far as not already in force) by Localism Act 2011 (c. 20), s. 240(2), Sch. 25 Pt. 5; S.I. 2012/1463, art. 5(d) (with arts. 6 7) (as amended (3.7.2012) by S.I. 2012/1714, art. 2); S.I. 2012/2913, arts. 1(2), 2(b)(c) (with arts. 3-6)
+[^F260]: Words in Sch. 3 substituted (1.4.2014) by The Public Audit (Wales) Act 2013 (Consequential Amendments) Order 2014 (No. 77), arts. 1(1), 3(4)
+[^F261]: Sch. 3 para. 1(1)(b) and preceding word omitted (1.4.2015) by virtue of Local Audit and Accountability Act 2014 (c. 2), s. 49(1), Sch. 12 para. 65(2) (with Sch. 12 para. 66); S.I. 2015/841, art. 3(x)
+[^F262]: Word in Sch. 3 para. 2(a) inserted (1.4.2015) by Local Audit and Accountability Act 2014 (c. 2), s. 49(1), Sch. 12 para. 65(3)(a) (with Sch. 12 para. 66); S.I. 2015/841, art. 3(x)
+[^F263]: Words in Sch. 3 para. 2(b) omitted (1.4.2015) by virtue of Local Audit and Accountability Act 2014 (c. 2), s. 49(1), Sch. 12 para. 65(3)(b) (with Sch. 12 para. 66); S.I. 2015/841, art. 3(x)
+[^F264]: Sch. 3 para. 2(c) and preceding word omitted (1.4.2015) by virtue of Local Audit and Accountability Act 2014 (c. 2), s. 49(1), Sch. 12 para. 65(3)(c) (with Sch. 12 para. 66); S.I. 2015/841, art. 3(x)

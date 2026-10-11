@@ -1,0 +1,6445 @@
+---
+title: "Counter-Terrorism and Sentencing Act 2021"
+identifier: "ukpga/2021/11"
+citation: "2021 c. 11"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S+N.I."
+date: 2021-04-29
+last_amended: 2026-03-31
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/2021/11"
+source_modified: 2026-04-15
+retrieved: 2026-10-11
+---
+
+# Counter-Terrorism and Sentencing Act 2021
+
+**2021 c. 11**
+
+An Act to make provision about the sentencing of offenders convicted of terrorism offences, of offences with a terrorist connection or of certain other offences; to make other provision in relation to terrorism; and for connected purposes.
+
+[29th April 2021]
+
+Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## PART 1 — Sentencing of terrorist and certain other offenders
+
+### Offences to be sentenced as terrorist offences
+
+#### 1 Offences aggravated by terrorist connection
+
+(1) The Sentencing Code is amended as set out in subsections (2) and (3).
+
+(2) In section 69 (offences aggravated by terrorist connection)—
+
+(a) in subsection (1), for the words from “specified” to the end substitute “ within subsection (4) or (5) ”;
+
+(b) after subsection (3) insert—
+
+> (4) An offence is within this subsection if it—
+>
+> (a) was committed on or after the day on which section 1 of the Counter-Terrorism and Sentencing Act 2021 came into force,
+>
+> (b) is punishable on indictment with imprisonment for more than 2 years, and
+>
+> (c) is not specified in Schedule A1.
+>
+> (5) An offence is within this subsection if it—
+>
+> (a) was committed before the day on which section 1 of the Counter-Terrorism and Sentencing Act 2021 came into force, and
+>
+> (b) is specified in Schedule 1.
+>
+> (6) Where an offence is found to have been committed over a period of 2 or more days, or at some time during a period of 2 or more days, it must be taken for the purposes of subsections (4) and (5) to have been committed on the last of those days.
+
+(3) Before Schedule 1 insert, as Schedule A1, the Schedule set out in Part 1 of Schedule 1 to this Act.
+
+(4) The Counter-Terrorism Act 2008 is amended as follows.
+
+(5) In section 30 (offences aggravated by terrorist connection: Northern Ireland)—
+
+(a) in subsection (1), for the words from “specified” to the end substitute “ within subsection (5A) or (5B) ”;
+
+(b) after subsection (5) insert—
+
+> (5A) An offence is within this subsection if it—
+>
+> (a) was committed on or after the day on which section 1 of the Counter-Terrorism and Sentencing Act 2021 came into force,
+>
+> (b) is punishable on indictment with imprisonment for more than 2 years (or would be so punishable in the case of an offender aged at least 21), and
+>
+> (c) is not specified in Schedule 1A.
+>
+> (5B) An offence is within this subsection if it—
+>
+> (a) was committed—
+>
+> (i) on or after 12 April 2019 (being the date on which section 8 of the Counter-Terrorism and Border Security Act 2019, which extended this section to Northern Ireland, came into force), but
+>
+> (ii) before the day on which section 1 of the Counter-Terrorism and Sentencing Act 2021 came into force, and
+>
+> (b) is specified in Schedule 2.
+>
+> (5C) Where an offence is found to have been committed over a period of 2 or more days, or at some time during a period of 2 or more days, it must be taken for the purposes of subsections (5A) and (5B) to have been committed on the last of those days.
+
+;
+
+(c) omit subsection (6).
+
+(6) In section 31 (offences aggravated by terrorist connection: Scotland)—
+
+(a) in subsection (1), for the words from “specified” to “considered)” substitute “ within subsection (4A) or (4B) ”;
+
+(b) after subsection (4) insert—
+
+> (4A) An offence is within this subsection if it—
+>
+> (a) was committed on or after the day on which section 1 of the Counter-Terrorism and Sentencing Act 2021 came into force,
+>
+> (b) is punishable on indictment with imprisonment for more than 2 years (or would be so punishable in the case of an offender aged at least 21), and
+>
+> (c) is not specified in Schedule 1A.
+>
+> (4B) An offence is within this subsection if it—
+>
+> (a) was committed—
+>
+> (i) on or after the relevant date, but
+>
+> (ii) before the day on which section 1 of the Counter-Terrorism and Sentencing Act 2021 came into force, and
+>
+> (b) is specified in Schedule 2.
+>
+> (4C) The relevant date for the purposes of subsection (4B)(a)(i) is—
+>
+> (a) 18 June 2009 (being the date on which this section came into force), in relation to any offence that is not mentioned in paragraph (b);
+>
+> (b) 12 April 2019 (being the date on which section 8 of the Counter-Terrorism and Border Security Act 2019, which amended Schedule 2, came into force) in relation to any of the following offences under the law of Scotland—
+>
+> (i) assault by explosive device;
+>
+> (ii) assault to severe injury;
+>
+> (iii) assault and poisoning;
+>
+> (iv) poisoning.
+>
+> (4D) Where an offence is found to have been committed over a period of 2 or more days, or at some time during a period of 2 or more days, it must be taken for the purposes of subsections (4A) to (4C) to have been committed on the last of those days.
+
+;
+
+(c) omit subsection (5).
+
+(7) After Schedule 1 insert, as Schedule 1A, the Schedule set out in Part 2 of Schedule 1 to this Act.
+
+#### 2 Meaning of “serious terrorism offence”: England and Wales
+
+In the Sentencing Code—
+
+(a) in section 306 (extended sentences: meaning of “specified offence” etc), in subsection (2), after the definition of “serious harm” insert—
+
+> “serious terrorism offence” means an offence that—
+>
+> (a) is specified in Part 1 of Schedule 17A, or
+>
+> (b) is specified in Part 2 of that Schedule and has been determined to have a terrorist connection under section 69;
+
+;
+
+(b) after Schedule 17 insert, as Schedule 17A, the Schedule set out in Schedule 2 to this Act.
+
+#### 3 Offences relevant for provisions of this Act relating to Northern Ireland
+
+(1) The Criminal Justice (Northern Ireland) Order 2008 (S.I. 2008/1216 (N.I. 1)) is amended as follows.
+
+(2) In Article 12 (interpretation of Chapter 3 of Part 2 (dangerous offenders and other terrorist offenders))—
+
+(a) in paragraph (3), before the definition of “life sentence” insert—
+
+> “determination of terrorist connection”, in relation to an offence, means a determination by the court that the offence has a terrorist connection under section 30 of the Counter-Terrorism Act 2008;
+
+;
+
+(b) after paragraph (5) insert—
+
+> (6) Schedule 2A specifies certain terrorism offences, and other offences which may be determined to have a terrorist connection, for the purposes of various provisions of this Chapter and Chapter 4, and makes related provision.
+>
+> (7) In this Chapter “serious terrorism offence” means—
+>
+> (a) an offence within Part 2 of Schedule 2A (terrorism offences punishable with life imprisonment); or
+>
+> (b) an offence within Part 3 of that Schedule (offences with possible terrorist connection punishable with life imprisonment) in respect of which a determination of terrorist connection is made.
+
+(3) After Schedule 2 insert, as Schedule 2A, the Schedule set out in Schedule 3 to this Act.
+
+### Serious terrorism sentences
+
+#### 4 Serious terrorism sentence for adults aged under 21: England and Wales
+
+After section 268 of the Sentencing Code insert—
+
+> **Serious terrorism sentence**
+>
+> **268A Serious terrorism sentence of detention in a young offender institution**
+>
+> A serious terrorism sentence of detention in a young offender institution is a sentence of detention in a young offender institution the term of which is equal to the aggregate of—
+>
+> (a) the appropriate custodial term (see section 268C), and
+>
+> (b) a further period (the “extension period”) for which the offender is to be subject to a licence.
+>
+> **268B Serious terrorism sentence of detention in a young offender institution: circumstances in which required**
+>
+> (1) Subsection (2) applies where a court is dealing with an offender for a serious terrorism offence (see section 306(2)) where—
+>
+> (a) the offence was committed on or after the day on which section 4 of the Counter-Terrorism and Sentencing Act 2021 came into force,
+>
+> (b) the offender was aged 18 or over when the offence was committed,
+>
+> (c) the offender is aged under 21 when convicted of the offence,
+>
+> (d) the court is of the opinion that there is a significant risk to members of the public of serious harm occasioned by the commission by the offender of further serious terrorism offences or other specified offences (see section 308),
+>
+> (e) the court does not impose a sentence of custody for life, and
+>
+> (f) the risk of multiple deaths condition is met.
+>
+> (2) The court must impose a serious terrorism sentence of detention in a young offender institution under section 268A unless the court is of the opinion that there are exceptional circumstances which—
+>
+> (a) relate to the offence or to the offender, and
+>
+> (b) justify not doing so.
+>
+> (3) The risk of multiple deaths condition is that the court is of the opinion that—
+>
+> (a) either—
+>
+> (i) the serious terrorism offence, or
+>
+> (ii) the combination of the offence and one or more offences associated with it,
+>
+> was very likely to result in or contribute to (whether directly or indirectly) the deaths of at least two people as a result of an act of terrorism (within the meaning of section 1 of the Terrorism Act 2000), and
+>
+> (b) the offender was, or ought to have been, aware of that likelihood.
+>
+> (4) It is irrelevant for the purposes of determining whether the risk of multiple deaths condition is met whether or not any death actually occurred.
+>
+> (5) Where an offence is found to have been committed over a period of 2 or more days, or at some time during a period of 2 or more days, it must be taken for the purposes of subsection (1) to have been committed on the last of those days.
+>
+> (6) The pre-sentence report requirements (see section 30) apply to the court in relation to forming the opinion mentioned in subsection (1)(d).
+>
+> **268C Term of serious terrorism sentence of detention in a young offender institution**
+>
+> (1) This section applies where the court dealing with an offender is required by section 268B to impose a serious terrorism sentence of detention in a young offender institution under section 268A.
+>
+> (2) The appropriate custodial term is—
+>
+> (a) 14 years, or
+>
+> (b) if longer, the term of detention in a young offender institution that would be imposed in respect of the offence in compliance with section 231(2) (length of discretionary custodial sentences) if the court did not impose a serious terrorism sentence (or an extended sentence or a sentence under section 265).
+>
+> (3) The extension period must be a period of such length as the court considers necessary for the purpose of protecting members of the public from serious harm occasioned by the commission by the offender of further serious terrorism offences or other specified offences.
+>
+> This is subject to subsection (4).
+>
+> (4) The extension period must—
+>
+> (a) be at least 7 years, and
+>
+> (b) not exceed 25 years.
+
+#### 5 Serious terrorism sentence for adults aged 21 or over: England and Wales
+
+After section 282 of the Sentencing Code insert—
+
+> **Serious terrorism sentence**
+>
+> **282A Serious terrorism sentence of imprisonment: persons 21 or over**
+>
+> A serious terrorism sentence of imprisonment is a sentence of imprisonment the term of which is equal to the aggregate of—
+>
+> (a) the appropriate custodial term (see section 282C), and
+>
+> (b) a further period (the “extension period”) for which the offender is to be subject to a licence.
+>
+> **282B Serious terrorism sentence of imprisonment: circumstances in which required**
+>
+> (1) Subsection (2) applies where a court is dealing with an offender for a serious terrorism offence (see section 306(2)) where—
+>
+> (a) the offence was committed on or after the day on which section 5 of the Counter-Terrorism and Sentencing Act 2021 came into force,
+>
+> (b) the offender was aged 18 or over when the offence was committed,
+>
+> (c) the offender is aged 21 or over when convicted of the offence,
+>
+> (d) the court is of the opinion that there is a significant risk to members of the public of serious harm occasioned by the commission by the offender of further serious terrorism offences or other specified offences (see section 308),
+>
+> (e) the court does not impose a sentence of imprisonment for life, and
+>
+> (f) the risk of multiple deaths condition is met.
+>
+> (2) The court must impose a serious terrorism sentence of imprisonment under section 282A unless the court is of the opinion that there are exceptional circumstances which—
+>
+> (a) relate to the offence or to the offender, and
+>
+> (b) justify not doing so.
+>
+> (3) The risk of multiple deaths condition is that the court is of the opinion that—
+>
+> (a) either—
+>
+> (i) the serious terrorism offence, or
+>
+> (ii) the combination of the offence and one or more offences associated with it,
+>
+> was very likely to result in or contribute to (whether directly or indirectly) the deaths of at least two people as a result of an act of terrorism (within the meaning of section 1 of the Terrorism Act 2000), and
+>
+> (b) the offender was, or ought to have been, aware of that likelihood.
+>
+> (4) It is irrelevant for the purposes of determining whether the risk of multiple deaths condition is met whether or not any death actually occurred.
+>
+> (5) Where an offence is found to have been committed over a period of 2 or more days, or at some time during a period of 2 or more days, it must be taken for the purposes of subsection (1) to have been committed on the last of those days.
+>
+> (6) The pre-sentence report requirements (see section 30) apply to the court in relation to forming the opinion mentioned in subsection (1)(d).
+>
+> **282C Term of serious terrorism sentence of imprisonment**
+>
+> (1) This section applies where the court dealing with an offender is required by section 282B to impose a serious terrorism sentence of imprisonment under section 282A.
+>
+> (2) The appropriate custodial term is—
+>
+> (a) 14 years, or
+>
+> (b) if longer, the term of imprisonment that would be imposed in respect of the offence in compliance with section 231(2) (length of discretionary custodial sentences) if the court did not impose a serious terrorism sentence of imprisonment (or an extended sentence or a sentence under section 278).
+>
+> (3) The extension period must be a period of such length as the court considers necessary for the purpose of protecting members of the public from serious harm occasioned by the commission by the offender of further serious terrorism offences or other specified offences.
+>
+> This is subject to subsection (4).
+>
+> (4) The extension period must—
+>
+> (a) be at least 7 years, and
+>
+> (b) not exceed 25 years.
+
+#### 6 Serious terrorism sentence: Scotland
+
+(1) After section 205 of the Criminal Procedure (Scotland) Act 1995 insert—
+
+> **205ZA Serious terrorism sentence**
+>
+> (1) This section applies where—
+>
+> (a) a person is convicted on indictment of a serious terrorism offence,
+>
+> (b) the offence was committed on or after the day on which section 6 of the Counter-Terrorism and Sentencing Act 2021 comes into force,
+>
+> (c) the offender was aged 18 or over when the offence was committed,
+>
+> (d) the court is of the opinion that there is a significant risk to members of the public of serious harm occasioned by the commission by the offender of further serious terrorism offences or other terrorism offences to which section 210A applies,
+>
+> (e) the court does not impose a sentence of imprisonment for life or a sentence of detention for life in a young offenders institution,
+>
+> (f) the court does not make an order for lifelong restriction, and
+>
+> (g) the risk of multiple deaths condition is met.
+>
+> (2) Where the offender is 21 years of age or over, the court must impose a serious terrorism sentence of imprisonment unless the court is of the opinion that there are exceptional circumstances which—
+>
+> (a) relate to the offence or to the offender, and
+>
+> (b) justify not doing so.
+>
+> (3) The risk of multiple deaths condition is that the court is of the opinion that—
+>
+> (a) either—
+>
+> (i) the serious terrorism offence, or
+>
+> (ii) the combination of the offence and one or more offences associated with it,
+>
+> was very likely to result in or contribute to (whether directly or indirectly) the deaths of at least two people as a result of an act of terrorism (within the meaning of section 1 of the Terrorism Act 2000), and
+>
+> (b) the offender was, or ought to have been, aware of that likelihood.
+>
+> (4) It is irrelevant for the purposes of determining whether the risk of multiple deaths condition is met whether or not any death actually occurred.
+>
+> (5) A serious terrorism sentence of imprisonment is a sentence of imprisonment the term of which is equal to the aggregate of—
+>
+> (a) the appropriate custodial term, and
+>
+> (b) a further period (“the extension period”) for which the offender is to be subject to a licence under Part 1 of the Prisoners and Criminal Proceedings (Scotland) Act 1993.
+>
+> (6) Where the offender is under 21 years of age, the court must impose a serious terrorism sentence of detention unless the court is of the opinion that there are exceptional circumstances which—
+>
+> (a) relate to the offence or to the offender, and
+>
+> (b) justify not doing so.
+>
+> (7) A serious terrorism sentence of detention is a sentence of detention in a young offenders institution the term of which is equal to the aggregate of—
+>
+> (a) the appropriate custodial term, and
+>
+> (b) a further period (“the extension period”) for which the offender is to be subject to a licence under Part 1 of the Prisoners and Criminal Proceedings (Scotland) Act 1993.
+>
+> (8) The appropriate custodial term is—
+>
+> (a) 14 years, or
+>
+> (b) if longer, the term of imprisonment or, as the case may be, detention that would be imposed in respect of the offence if the court did not impose a serious terrorism sentence of imprisonment or, as the case may be, a serious terrorism sentence of detention (or a sentence under section 205ZC or an extended sentence under section 210A).
+>
+> (9) The extension period must be a period of such length as the court considers necessary for the purpose of protecting members of the public from serious harm occasioned by the commission by the offender of further serious terrorism offences or other terrorism offences to which section 210A applies (but subject to subsection (10)).
+>
+> (10) The extension period must—
+>
+> (a) be at least 7 years, and
+>
+> (b) not exceed 25 years.
+>
+> (11) Before forming an opinion for the purposes of subsection (1)(d), the court must—
+>
+> (a) consider a report by a relevant officer of a local authority about the offender and the offender's circumstances, and
+>
+> (b) if the court thinks it necessary, hear that officer.
+>
+> (12) In this section—
+>
+> - “local authority” and “relevant officer” have the meanings given by section 27 of the Prisoners and Criminal Proceedings (Scotland) Act 1993;
+>
+> - “serious terrorism offence” means an offence that—
+>
+>   - (a) is specified in Part 1 of Schedule 5ZA, or
+>   - (b) is specified in Part 2 of that Schedule and has been proved to have been aggravated by reason of having a terrorist connection under section 31 of the Counter-Terrorism Act 2008.
+
+(2) After Schedule 5 to that Act insert, as Schedule 5ZA, the Schedule set out in Schedule 4 to this Act.
+
+#### 7 Serious terrorism sentence: Northern Ireland
+
+In the Criminal Justice (Northern Ireland) Order 2008 (S.I. 2008/1216 (N.I. 1)), after Article 13 insert—
+
+> **13A Serious terrorism sentence**
+>
+> (1) This Article applies where—
+>
+> (a) a person is convicted on indictment of a serious terrorism offence;
+>
+> (b) the offence was committed after the commencement of section 7 of the Counter-Terrorism and Sentencing Act 2021;
+>
+> (c) at the time when the offence was committed the offender was aged 18 or over;
+>
+> (d) the court is of the opinion that there is a significant risk to members of the public of serious harm occasioned by the commission by the offender of further serious terrorism offences or specified offences;
+>
+> (e) the court does not impose a life sentence or an indeterminate custodial sentence; and
+>
+> (f) the risk of multiple deaths condition is met.
+>
+> (2) The court shall impose a serious terrorism sentence, unless the court is of the opinion that there are exceptional circumstances which—
+>
+> (a) relate to the offence or to the offender; and
+>
+> (b) justify not doing so.
+>
+> (3) The risk of multiple deaths condition is that the court is of the opinion that—
+>
+> (a) either—
+>
+> (i) the offence referred to in paragraph (1)(a); or
+>
+> (ii) the combination of that offence and one or more offences associated with it,
+>
+> was very likely to result in or contribute to (whether directly or indirectly) the deaths of at least two people as a result of an act of terrorism (within the meaning of section 1 of the Terrorism Act 2000); and
+>
+> (b) the offender was, or ought to have been, aware of that likelihood.
+>
+> (4) It is irrelevant for the purposes of determining whether the risk of multiple deaths condition is met whether or not any death actually occurred.
+>
+> (5) Where the offender is aged 21 or over, a serious terrorism sentence is a sentence of imprisonment the term of which is equal to the aggregate of—
+>
+> (a) the appropriate custodial term; and
+>
+> (b) a further period (“the extension period”) for which the offender is to be subject to a licence.
+>
+> (6) Where the offender is under the age of 21, a serious terrorism sentence is a sentence of detention at such place and under such conditions as the Department of Justice may direct for a term which is equal to the aggregate of—
+>
+> (a) the appropriate custodial term; and
+>
+> (b) a further period (“the extension period”) for which the offender is to be subject to a licence.
+>
+> (7) A person detained pursuant to the directions of the Department of Justice under paragraph (6) shall while so detained be in legal custody.
+>
+> (8) In paragraphs (5)(a) and (6)(a), “the appropriate custodial term” means (subject to paragraphs (9) and (10))—
+>
+> (a) a term of 14 years; or
+>
+> (b) if longer, the term that would (apart from this Article and Articles 14 and 15A) be imposed in compliance with Article 7 (length of custodial sentences).
+>
+> (9) The court may, to the extent that it considers appropriate in order to take into account a guilty plea in accordance with Article 33(1) of the Criminal Justice (Northern Ireland) Order 1996, specify an appropriate custodial term of less than 14 years but no less than 11 years and 73 days.
+>
+> (10) The court may specify a lesser period than that otherwise required by paragraph (8) or (9) if the court is of the opinion that it is appropriate to do so on taking account of matters under section 73(2) of the Serious Organised Crime and Police Act 2005 (assistance given or offered to investigator or prosecutor).
+>
+> (11) The extension period under paragraph (5)(b) or (6)(b)—
+>
+> (a) must be at least seven years and must not exceed 25 years; and
+>
+> (b) subject to those limits, is to be of such length as the court considers necessary for the purpose of protecting members of the public from the risk of harm referred to in paragraph (1)(d).
+>
+> (12) A court which imposes a serious terrorism sentence shall not make an order under section 18 of the Treatment of Offenders Act (Northern Ireland) 1968 (suspended sentences) in relation to that sentence.
+>
+> (13) Remission shall not be granted under prison rules to the offender in respect of a sentence imposed under this Article.
+
+### Serious terrorism sentences: supplementary provision
+
+#### 8 Reduction in appropriate custodial term for guilty pleas: England and Wales
+
+In section 73 of the Sentencing Code (reduction in sentences for guilty pleas), after subsection (2) insert—
+
+> (2A) If the court imposes a serious terrorism sentence in relation to the offence, nothing in section 268C(2) or, as the case may be, 282C(2) prevents the court, after taking into account any matter referred to in subsection (2), from imposing as the appropriate custodial term a term of any length which is not less than 80 per cent of the term which would otherwise be required.
+
+#### 9 Reduction in appropriate custodial term for guilty pleas: Scotland
+
+In section 196 of the Criminal Procedure (Scotland) Act 1995 (sentence following guilty plea), after subsection (1A) insert—
+
+> (1B) Subsection (1C) applies where—
+>
+> (a) the court is making an order for lifelong restriction to which section 205ZB applies in respect of an offender or imposing on an offender—
+>
+> (i) a serious terrorism sentence of imprisonment under section 205ZA(2),
+>
+> (ii) a serious terrorism sentence of detention under section 205ZA(6),
+>
+> (iii) a sentence of imprisonment for life to which section 205ZB applies, or
+>
+> (iv) a sentence of detention for life to which section 205ZB applies, and
+>
+> (b) the offender has pled guilty to the offence for which the offender is being sentenced.
+>
+> (1C) The court may, after taking into account the matters mentioned in paragraphs (a) and (b) of subsection (1), impose as the appropriate custodial term or, as the case may be, specify as the punishment part, a term of any length which is not less than 80 per cent of the term which would otherwise be required.
+
+#### 10 Reduction in appropriate custodial term for assistance to prosecution: England and Wales
+
+In section 74 of the Sentencing Code (reduction in sentence for assistance to prosecution), after subsection (4) insert—
+
+> (4A) Nothing in section 268C(2) or 282C(2) (minimum appropriate custodial term for serious terrorism sentences) affects the court's power under subsection (2) so far it relates to determining the appropriate custodial term.
+
+### Life or indeterminate sentences for serious terrorism offences
+
+#### 11 Minimum term order for serious terrorism offenders: England and Wales
+
+In section 323 of the Sentencing Code (minimum term order: other life sentences), after subsection (2) insert—
+
+> (3) Subsection (2) is subject to the requirement that the minimum term in a serious terrorism case must be at least 14 years.
+>
+> This is subject to subsections (5) and (6).
+>
+> (4) A “serious terrorism case” is a case where, but for the fact that the court passes a life sentence, the court would be required by section 268B(2) or 282B(2) to impose a serious terrorism sentence (assuming for this purpose that the court is not of the opinion mentioned in section 268B(2) or 282B(2)).
+>
+> (5) The minimum term may be less than 14 years if the court is of the opinion that there are exceptional circumstances which—
+>
+> (a) relate to the offence or to the offender, and
+>
+> (b) justify a lesser period.
+>
+> (6) The minimum term may be less than 14 years if the court considers it appropriate, taking into account—
+>
+> (a) the matters mentioned in subsection (2)(c), and
+>
+> (b) the effect that the following would, if the court had sentenced the offender under section 268B(2) or 282B(2), have had in relation to the appropriate custodial term for that sentence—
+>
+> (i) section 73 (reductions for guilty pleas), and
+>
+> (ii) section 74 (reductions for assistance to the prosecution).
+
+#### 12 Minimum punishment part for serious terrorism offenders: Scotland
+
+After section 205ZA of the Criminal Procedure (Scotland) Act 1995 (inserted by section 6) insert—
+
+> **205ZB Minimum punishment part where life sentence imposed for serious terrorism offence**
+>
+> (1) This section applies where—
+>
+> (a) section 205ZA(1)(a) to (d) and (f) applies in relation to a person, and
+>
+> (b) the court—
+>
+> (i) imposes a sentence of imprisonment for life or a sentence of detention for life in a young offenders institution on the person, or
+>
+> (ii) makes an order for lifelong restriction in respect of the person.
+>
+> (2) In making under section 2(3) of the Prisoners and Criminal Proceedings (Scotland) Act 1993 an order mentioned in section 2(2) of that Act in respect of the offender, the court must specify a punishment part of at least 14 years (but subject to subsection (3) and section 196(1C) of this Act).
+>
+> (3) The punishment part may be less than 14 years if the court is of the opinion that there are exceptional circumstances which—
+>
+> (a) relate to the offence or to the offender, and
+>
+> (b) justify a lesser period.
+>
+> (4) Before forming an opinion for the purposes of section 205ZA(1)(d) (by virtue of subsection (1)), the court must—
+>
+> (a) consider a report by a relevant officer of a local authority about the offender and the offender's circumstances, and
+>
+> (b) if the court thinks it necessary, hear that officer.
+>
+> (5) In this section, “local authority” and “relevant officer” have the meanings given by section 27 of the Prisoners and Criminal Proceedings (Scotland) Act 1993.
+
+#### 13 Minimum tariff for serious terrorism offenders given life sentences: Northern Ireland
+
+(1) The Life Sentences (Northern Ireland) Order 2001 (S.I. 2001/2564 (N.I. 2)) is amended as follows.
+
+(2) In Article 5(2) (length of tariff), after “shall” insert “ (subject to Article 5A (serious terrorism cases)) ”.
+
+(3) After Article 5 insert—
+
+> **5A Minimum tariff in serious terrorism cases**
+>
+> (1) If the court makes an order under Article 5(1) in a serious terrorism case, the part of the sentence specified in the order must be at least 14 years.
+>
+> This is subject to paragraphs (2) to (4).
+>
+> (2) The court may, to the extent that it considers appropriate in order to take into account a guilty plea in accordance with Article 33(1) of the Criminal Justice (Northern Ireland) Order 1996, specify a period of less than 14 years but (subject to paragraphs (3) and (4)) no less than 11 years and 73 days.
+>
+> (3) The court may specify a lesser period than that otherwise required by paragraph (1) or (2) if the court is of the opinion that it is appropriate to do so on taking account of matters under section 73(2) of the Serious Organised Crime and Police Act 2005 (assistance given or offered to investigator or prosecutor).
+>
+> (4) The court may specify a lesser period than that otherwise required by paragraph (1) or (2) if the court is of the opinion that there are exceptional circumstances which—
+>
+> (a) relate to the offence or to the offender; and
+>
+> (b) justify the specification of a lesser period.
+>
+> (5) For the purposes of this Article, a “serious terrorism case” is a case where, if the court did not impose a life sentence or an indeterminate custodial sentence, it would be required by Article 13A of the Criminal Justice (Northern Ireland) Order 2008 to impose a serious terrorism sentence (assuming for this purpose that the court was not of the opinion mentioned in paragraph (2) of that Article).
+>
+> (6) In paragraph (5), “indeterminate custodial sentence” means a sentence under Article 13(4) of the Criminal Justice (Northern Ireland) Order 2008.
+
+#### 14 Minimum custodial period for serious terrorism offenders given indeterminate custodial sentences: Northern Ireland
+
+(1) Article 13 of the Criminal Justice (Northern Ireland) Order 2008 (S.I. 2008/1216 (N.I. 1)) (life sentences and indeterminate custodial sentences) is amended as follows.
+
+(2) In paragraph (3)(b), after “being” insert “ (subject to paragraphs (3A) to (3E)) ”.
+
+(3) After paragraph (3) insert—
+
+> (3A) In a serious terrorism case, the period specified under paragraph (3)(b) must (subject to paragraphs (3C) to (3E)) be at least 14 years.
+>
+> (3B) A “serious terrorism case” is a case where, but for the fact that the court is required to impose an indeterminate custodial sentence, it would be required by Article 13A to impose a serious terrorism sentence (assuming for this purpose that the court was not of the opinion mentioned in paragraph (2) of that Article).
+>
+> (3C) The court may, to the extent that it considers appropriate in order to take into account a guilty plea in accordance with Article 33(1) of the Criminal Justice (Northern Ireland) Order 1996, specify a period of less than 14 years but (subject to paragraphs (3D) and (3E)) no less than 11 years and 73 days.
+>
+> (3D) The court may specify a lesser period than that otherwise required by paragraph (3A) or (3C) if the court is of the opinion that it is appropriate to do so on taking account of matters under section 73(2) of the Serious Organised Crime and Police Act 2005 (assistance given or offered to investigator or prosecutor).
+>
+> (3E) The court may specify a lesser period than that otherwise required by paragraph (3A) or (3C) if the court is of the opinion that there are exceptional circumstances which—
+>
+> (a) relate to the offence or to the offender; and
+>
+> (b) justify the specification of a lesser period.
+
+### Extended sentences
+
+#### 15 Additional offences attracting extended sentence: England and Wales
+
+(1) Part 1 of Schedule 18 to the Sentencing Code (specified violent offences attracting extended sentence) is amended as follows.
+
+(2) In paragraph 5 (offences under the Explosive Substances Act 1883), at the end insert—
+
+> (d) section 5 (punishment of accessories to offences of causing or attempting to cause explosions or making or possessing explosives) in a case where the offender is convicted on or after the day on which section 15 of the Counter-Terrorism and Sentencing Act 2021 comes into force.
+
+(3) After paragraph 11 insert—
+
+> **11A Biological Weapons Act 1974**
+>
+> An offence under section 1 of the Biological Weapons Act 1974 (developing certain biological agents and toxins or biological weapons) in a case where the offender is convicted on or after the day on which section 15 of the Counter-Terrorism and Sentencing Act 2021 comes into force.
+
+(4) In paragraph 13 (offences under the Aviation Security Act 1982), at the end insert—
+
+> (e) section 6(2) (inducing or assisting the commission of offences relating to safety of aircraft) in a case where the offender is convicted on or after the day on which section 15 of the Counter-Terrorism and Sentencing Act 2021 comes into force.
+
+(5) After paragraph 13 insert—
+
+> **13A Nuclear Material (Offences) Act 1983**
+>
+> An offence under either of the following provisions of the Nuclear Material (Offences) Act 1983 in a case where the offender is convicted on or after the day on which section 15 of the Counter-Terrorism and Sentencing Act 2021 comes into force—
+>
+> (a) section 1B (offences relating to damage to the environment);
+>
+> (b) section 2 (preparatory acts and threats).
+
+(6) In paragraph 19 (offences under the Aviation and Maritime Security Act 1990), at the end insert—
+
+> (g) section 14(4) (inducing or assisting the commission of offences relating to hijacking of ships, or destroying ships or fixed platforms or endangering their safety) in a case where the offender is convicted on or after the day on which section 15 of the Counter-Terrorism and Sentencing Act 2021 comes into force.
+
+(7) After paragraph 20 insert—
+
+> **20A Chemical Weapons Act 1996**
+>
+> An offence under either of the following provisions of the Chemical Weapons Act 1996 in a case where the offender is convicted on or after the day on which section 15 of the Counter-Terrorism and Sentencing Act 2021 comes into force—
+>
+> (a) section 2 (use etc of chemical weapons);
+>
+> (b) section 11 (premises or equipment used for producing chemical weapons).
+
+#### 16 Increase in extension period for serious terrorism offenders aged under 18: England and Wales
+
+(1) Section 256(4) of the Sentencing Code (limits on extension period in term of extended sentence of detention) is amended as follows.
+
+(2) In paragraph (b)—
+
+(a) in sub-paragraph (i), at the end insert “ (unless sub-paragraph (iii) applies) ”;
+
+(b) in sub-paragraph (ii), at the end insert “ (unless sub-paragraph (iii) applies) ”;
+
+(c) after sub-paragraph (ii) insert—
+
+> (iii) 10 years in the case of a serious terrorism offence for which the sentence is imposed on or after the day on which section 16 of the Counter-Terrorism and Sentencing Act 2021 comes into force.
+
+(3) In the words after paragraph (b), for “and “specified terrorism offence”” substitute “, “specified terrorism offence” and “serious terrorism offence””.
+
+#### 17 Increase in extension period for adult serious terrorism offenders aged under 21: England and Wales
+
+(1) Section 268(4) of the Sentencing Code (limits on extension period in term of extended sentence of detention in a young offender institution) is amended as follows.
+
+(2) In paragraph (b)—
+
+(a) in sub-paragraph (i), at the end insert “ (unless sub-paragraph (iii) applies); ”;
+
+(b) in sub-paragraph (ii), at the end insert “ (unless sub-paragraph (iii) applies); ”;
+
+(c) after sub-paragraph (ii) insert—
+
+> (iii) 10 years in the case of a serious terrorism offence for which the sentence is imposed on or after the day on which section 17 of the Counter-Terrorism and Sentencing Act 2021 comes into force.
+
+(3) In the words after paragraph (b), for “and “specified terrorism offence”” substitute “, “specified terrorism offence” and “serious terrorism offence””.
+
+#### 18 Increase in extension period for serious terrorism offenders aged 21 or over: England and Wales
+
+(1) Section 281(4) of the Sentencing Code (limits on extension period in term of extended sentence of imprisonment) is amended as follows.
+
+(2) In paragraph (b)—
+
+(a) in sub-paragraph (i), at the end insert “ (unless sub-paragraph (iii) applies) ”;
+
+(b) in sub-paragraph (ii), at the end insert “ (unless sub-paragraph (iii) applies) ”;
+
+(c) after sub-paragraph (ii) insert—
+
+> (iii) 10 years in the case of a serious terrorism offence for which the sentence is imposed on or after the day on which section 18 of the Counter-Terrorism and Sentencing Act 2021 comes into force.
+
+(3) In the words after paragraph (b), for “and “specified terrorism offence”” substitute “, “specified terrorism offence” and “serious terrorism offence””.
+
+#### 19 Additional terrorism offences attracting extended sentence: Scotland
+
+(1) The Criminal Procedure (Scotland) Act 1995 is amended as follows.
+
+(2) In section 210A(10) (extended sentences for terrorist offenders etc: interpretation), for the definition of “terrorism offence” substitute—
+
+> “terrorism offence” means an offence that—
+>
+> (a) is specified in Part 1 of Schedule 5ZC, or
+>
+> (b) is specified in Part 2 of that Schedule and has been proved to have been aggravated by reason of having a terrorist connection under section 31 of the Counter-Terrorism Act 2008;
+
+.
+
+(3) After Schedule 5ZB to that Act (inserted by section 23) insert, as Schedule 5ZC, the Schedule set out in Schedule 5 to this Act.
+
+#### 20 Extended custodial sentences for serious terrorism offenders: Northern Ireland
+
+(1) Article 14 of the Criminal Justice (Northern Ireland) Order 2008 (S.I. 2008/1216 (N.I. 1)) (extended custodial sentences) is amended as follows.
+
+(2) In paragraph (1)—
+
+(a) in sub-paragraph (a), for the words from “convicted” to the end (including the final “and”) substitute
+
+> —
+>
+> (i) convicted on indictment of a specified offence; or
+>
+> (ii) convicted after the commencement of section 20 of the Counter-Terrorism and Sentencing Act 2021 of any other offence that is a serious terrorism offence;
+
+;
+
+(b) after sub-paragraph (a) insert—
+
+> (aa) the offence was committed after the commencement of this Article; and
+
+.
+
+(3) In paragraph (8)—
+
+(a) in sub-paragraph (a), for “; and” substitute “ (unless sub-paragraph (c) applies); ”;
+
+(b) in sub-paragraph (b), at the end insert “ (unless sub-paragraph (c) applies); and ”;
+
+(c) after sub-paragraph (b) insert—
+
+> (c) ten years in the case of a serious terrorism offence for which the offender is convicted after the commencement of section 20 of the Counter-Terrorism and Sentencing Act 2021.
+
+### Other custodial sentences for terrorist offenders
+
+#### 21 Offences attracting special custodial sentence for offenders of particular concern: England and Wales
+
+(1) In the Sentencing Code, for Schedule 13 (offences attracting special custodial sentence for offenders of particular concern) substitute the Schedule set out in Schedule 6 to this Act.
+
+(2) The amendment made by subsection (1) does not apply where a person is convicted of an offence before the day on which this section comes into force.
+
+#### 22 Special custodial sentence for certain terrorist offenders aged under 18 at time of offence: England and Wales
+
+(1) The Sentencing Code is amended as follows.
+
+(2) After section 252 insert—
+
+> **Special custodial sentence for terrorist offenders**
+>
+> **252A Required special sentence of detention for terrorist offenders of particular concern**
+>
+> (1) Subsections (3) to (5) apply where—
+>
+> (a) a person aged under 18 is convicted of an offence listed in Part 1 of Schedule 13 (offences involving or connected with terrorism),
+>
+> (b) the offence was committed on or after the day on which section 22 of the Counter-Terrorism and Sentencing Act 2021 came into force,
+>
+> (c) the court does not impose either of the following for the offence (or for an offence associated with it)—
+>
+> (i) a sentence of detention for life under section 250, or
+>
+> (ii) an extended sentence of detention under section 254, and
+>
+> (d) the court would, apart from this section, impose a custodial sentence (see, in particular, section 230(2)).
+>
+> (2) In determining for the purposes of subsection (1)(d) whether it would impose a custodial sentence, the court must disregard any restriction on its power to impose such a sentence by reference to the age of the offender.
+>
+> (3) The court must impose a sentence of detention under this section.
+>
+> (4) The term of the sentence must be equal to the aggregate of—
+>
+> (a) the appropriate custodial term, and
+>
+> (b) a further period of 1 year for which the offender is to be subject to a licence,
+>
+> and must not exceed the maximum term of imprisonment with which the offence is punishable in the case of a person aged 21 or over.
+>
+> (5) For the purposes of subsection (4), the “appropriate custodial term” is the term that, in the opinion of the court, ensures that the sentence is appropriate.
+>
+> (6) Where an offence is found to have been committed over a period of 2 or more days, or at some time during a period of 2 or more days, it must be taken for the purposes of subsection (1) to have been committed on the last of those days.
+
+(3) In section 265 (special sentence of detention in young offender institution for offenders of particular concern)—
+
+(a) in subsection (1)(b)—
+
+(i) omit sub-paragraph (i) (including the final “and”);
+
+(ii) in sub-paragraph (ii), after “aged” insert “ at least 18 but ”;
+
+(b) after subsection (1) insert—
+
+> (1A) But this section does not apply if—
+>
+> (a) the offender was aged under 18 when the offence was committed, and
+>
+> (b) the offence—
+>
+> (i) was committed before the day on which section 22 of the Counter-Terrorism and Sentencing Act 2021 came into force, or
+>
+> (ii) is listed in Part 2 of Schedule 13 (sexual offences).
+
+(4) In section 278 (special sentence of imprisonment for offenders of particular concern)—
+
+(a) in subsection (1)(b), omit sub-paragraph (i) (including the final “and”);
+
+(b) after subsection (1) insert—
+
+> (1A) But this section does not apply if—
+>
+> (a) the offender was aged under 18 when the offence was committed, and
+>
+> (b) the offence—
+>
+> (i) was committed before the day on which section 22 of the Counter-Terrorism and Sentencing Act 2021 came into force, or
+>
+> (ii) is listed in Part 2 of Schedule 13 (sexual offences).
+
+#### 23 Terrorism sentence with fixed licence period: Scotland
+
+(1) The Criminal Procedure (Scotland) Act 1995 is amended as follows.
+
+(2) After section 205ZB (inserted by section 12) insert—
+
+> **205ZC Terrorism sentence with fixed licence period**
+>
+> (1) This section applies where—
+>
+> (a) a person is convicted on indictment of a terrorism offence on or after the day on which section 23 of the Counter-Terrorism and Sentencing Act 2021 comes into force, and
+>
+> (b) the court does not impose one of the following for the offence—
+>
+> (i) a sentence of imprisonment for life to which section 205ZB applies,
+>
+> (ii) a sentence of imprisonment for life to which section 205ZB does not apply but which is imposed for a terrorism offence,
+>
+> (iii) a sentence of detention for life to which section 205ZB applies,
+>
+> (iv) a sentence of detention for life to which section 205ZB does not apply but which is imposed for a terrorism offence (or a sentence of detention without limit of time so imposed),
+>
+> (v) an order for lifelong restriction to which section 205ZB applies,
+>
+> (vi) an order for lifelong restriction to which section 205ZB does not apply but which is imposed for a terrorism offence,
+>
+> (vii) a serious terrorism sentence of imprisonment under section 205ZA(2),
+>
+> (viii) a serious terrorism sentence of detention under section 205ZA(6), or
+>
+> (ix) an extended sentence under section 210A.
+>
+> (2) But this section does not apply where—
+>
+> (a) the offender is under the age of 18 when convicted of the offence, and
+>
+> (b) the offence was committed before the day on which section 23 of the Counter-Terrorism and Sentencing Act 2021 came into force.
+>
+> (3) If the court decides to impose a sentence of imprisonment and the offender is 21 years of age or over, the court must impose a sentence of imprisonment the term of which is equal to the aggregate of—
+>
+> (a) the appropriate custodial term, and
+>
+> (b) a further period of 1 year for which the offender is to be subject to a licence under Part 1 of the Prisoners and Criminal Proceedings (Scotland) Act 1993.
+>
+> (4) If the offender is at least 16 years of age but under 21 (other than an offender falling within subsection (5)) and the court decides to impose a sentence of detention, the court must impose a sentence of detention in a young offenders institution the term of which is equal to the aggregate of—
+>
+> (a) the appropriate custodial term, and
+>
+> (b) a further period of 1 year for which the offender is to be subject to a licence under Part 1 of the Prisoners and Criminal Proceedings (Scotland) Act 1993.
+>
+> (5) If the offender is a child and the court decides to impose a sentence of detention, the court must impose a sentence of detention in such place and on such conditions as may be directed under section 208 the term of which is equal to the aggregate of—
+>
+> (a) the appropriate custodial term, and
+>
+> (b) a further period of 1 year for which the offender is to be subject to a licence under Part 1 of the Prisoners and Criminal Proceedings (Scotland) Act 1993.
+>
+> (6) The “appropriate custodial term” is the term that, in the opinion of the court, ensures that the sentence is appropriate.
+>
+> (7) The term of a sentence of imprisonment or, as the case may be, a sentence of detention, imposed under this section for an offence must not exceed the term that, at the time the offence was committed, was the maximum term permitted for the offence.
+>
+> (8) In this section, “terrorism offence” means—
+>
+> (a) an offence that is specified in Schedule 5ZB, or
+>
+> (b) any other offence that has been proved to have been aggravated by reason of having a terrorist connection under section 31 of the Counter-Terrorism Act 2008.
+
+(3) After Schedule 5ZA (inserted by section 6) insert, as Schedule 5ZB, the Schedule set out in Schedule 7 to this Act.
+
+#### 24 Terrorism sentence with fixed licence period: Northern Ireland
+
+In the Criminal Justice (Northern Ireland) Order 2008 (S.I. 2008/1216 (N.I. 1)), after Article 15 insert—
+
+> **15A Terrorism sentence with fixed licence period**
+>
+> (1) This Article applies where—
+>
+> (a) a person is convicted after the commencement of section 24 of the Counter-Terrorism and Sentencing Act 2021 of—
+>
+> (i) a serious terrorism offence;
+>
+> (ii) an offence within Part 4 of Schedule 2A (terrorism offences punishable with more than two years' imprisonment); or
+>
+> (iii) any other offence in respect of which a determination of terrorist connection is made;
+>
+> (b) the court does not impose, in respect of the offence or any offence associated with it, a life sentence, an indeterminate custodial sentence, a serious terrorism sentence or an extended custodial sentence; and
+>
+> (c) the court decides to impose a custodial sentence.
+>
+> (2) But this Article does not apply where—
+>
+> (a) the offender is under the age of 18 when convicted of the offence; and
+>
+> (b) the offence was committed before the commencement of section 24 of the Counter-Terrorism and Sentencing Act 2021.
+>
+> (3) The court shall impose on the offender a sentence under this Article.
+>
+> (4) Where the offender is aged 21 or over, a sentence under this Article is a sentence of imprisonment the term of which is equal to the aggregate of—
+>
+> (a) the appropriate custodial term; and
+>
+> (b) a further period of one year for which the offender is to be subject to a licence.
+>
+> (5) Where the offender is under the age of 21, a sentence under this Article is a sentence of detention at such place and under such conditions as the Department of Justice may direct for a term which is equal to the aggregate of—
+>
+> (a) the appropriate custodial term; and
+>
+> (b) a further period of one year for which the offender is to be subject to a licence.
+>
+> (6) The term under paragraph (4) or (5) must not exceed the maximum term of imprisonment with which the offence is punishable (apart from Article 13).
+>
+> (7) In paragraphs (4)(a) and (5)(a), the “appropriate custodial term” means the term that, in the opinion of the court, ensures that the sentence is appropriate.
+>
+> (8) A person detained pursuant to the directions of the Department of Justice under paragraph (5) shall while so detained be in legal custody.
+>
+> (9) A court which imposes a sentence under this Article shall not make an order under section 18 of the Treatment of Offenders Act (Northern Ireland) 1968 (suspended sentences) in relation to that sentence.
+>
+> (10) Remission shall not be granted under prison rules to the offender in respect of a sentence under this Article.
+
+### Sentencing for service offences (prospective)
+
+#### 25 Corresponding provision under service law (prospective)
+
+Schedule 8 makes provision in relation to sentencing under service law that corresponds to certain provision made by this Part.
+
+### Maximum sentences
+
+#### 26 Increase in maximum sentences for certain terrorist offences
+
+(1) In the Terrorism Act 2000—
+
+(a) in section 11(3)(a) (sentence on conviction on indictment for membership of proscribed organisation), for “ten” substitute “ 14 ”;
+
+(b) in section 12(6)(a) (sentence on conviction on indictment for inviting or expressing support for proscribed organisation), for “ten” substitute “ 14 ”.
+
+(2) In the Terrorism Act 2006, in section 8(4)(a) (sentence on conviction on indictment for attendance at place used for terrorist training), for “10” substitute “ 14 ”.
+
+(3) An amendment made by this section has effect only in relation to an offence committed on or after the day on which this section comes into force.
+
+## PART 2 — Release of terrorist offenders
+
+### Removal or restriction of early release for terrorist prisoners
+
+#### 27 Removal of early release for dangerous terrorist prisoners: England and Wales
+
+(1) The Criminal Justice Act 2003 is amended as follows.
+
+(2) In section 247A (restricted eligibility for release on licence of terrorist prisoners) (as amended by Schedule 13)—
+
+(a) in subsection (2), for paragraph (a) substitute—
+
+> (a) it is specified in Part 1 or 2 of Schedule 19ZA (terrorism offences punishable with imprisonment for life or for more than two years),
+
+;
+
+(b) after subsection (2) insert—
+
+> (2A) Subsections (3) to (5) apply unless the terrorist prisoner's sentence was imposed—
+>
+> (a) under section 226A or 226B or under section 254, 266, 268A, 279 or 282A of the Sentencing Code (extended sentence or serious terrorism sentence for dangerous offenders),
+>
+> (b) on or after the day on which section 27 of the Counter-Terrorism and Sentencing Act 2021 comes into force, and
+>
+> (c) in respect of an offence that—
+>
+> (i) is specified in Part 1 of Schedule 19ZA (terrorism offences punishable with imprisonment for life),
+>
+> (ii) is a service offence as respects which the corresponding civil offence is so specified,
+>
+> (iii) is specified in Part 3 of that Schedule (other offences punishable with imprisonment for life) and was determined to have a terrorist connection, or
+>
+> (iv) is a service offence as respects which the corresponding civil offence is so specified, and was determined to have a terrorist connection.
+
+(3) For Schedule 19ZA substitute the Schedule set out in Schedule 9 to this Act.
+
+#### 28 Removal of early release for dangerous terrorist prisoners: Scotland
+
+(1) The Prisoners and Criminal Proceedings (Scotland) Act 1993 is amended as follows.
+
+(2) In section 1AB (restricted eligibility for release on licence of terrorist prisoners) (as amended by Schedule 13)—
+
+(a) in subsection (2), for paragraph (a) substitute—
+
+> (a) it is specified in Part 1 or 2 of Schedule 1A (terrorism offences punishable with imprisonment for life or for more than two years),
+
+;
+
+(b) after subsection (2) insert—
+
+> (2A) Subsections (3) to (5) apply unless the terrorist prisoner's sentence was imposed—
+>
+> (a) under section 205ZA or 210A of the 1995 Act (serious terrorism sentence or extended sentence for dangerous offenders),
+>
+> (b) on or after the day on which section 28 of the Counter-Terrorism and Sentencing Act 2021 comes into force, and
+>
+> (c) in respect of an offence that—
+>
+> (i) is specified in Part 1 of Schedule 1A (terrorism offences punishable with imprisonment for life),
+>
+> (ii) is a service offence as respects which the corresponding civil offence is so specified,
+>
+> (iii) is specified in Part 3 of that Schedule (other offences punishable with imprisonment for life) and was determined to have a terrorist connection, or
+>
+> (iv) is a service offence as respects which the corresponding civil offence is so specified, and was determined to have a terrorist connection.
+
+(3) For Schedule 1A substitute the Schedule set out in Schedule 10 to this Act.
+
+#### 29 Further provision about release of terrorist prisoners: Scotland
+
+After section 26 of the Prisoners and Criminal Proceedings (Scotland) Act 1993 insert—
+
+> **Terrorism sentences**
+>
+> **26ZA Terrorism sentences**
+>
+> (1) This section applies to a person (other than a life prisoner) (a “terrorist prisoner”) who is serving a terrorism sentence.
+>
+> (2) A terrorism sentence is—
+>
+> (a) a sentence of imprisonment imposed under section 205ZA of the 1995 Act (serious terrorism sentence),
+>
+> (b) a sentence of imprisonment imposed under section 205ZC of that Act (terrorism sentence with fixed licence period), or
+>
+> (c) an extended sentence imposed under section 210A of that Act in respect of a terrorism offence.
+>
+> (3) Subject to the provisions of this section, this Part, except sections 1AB, 1A and 1B, applies in relation to a terrorism sentence as if any reference to a sentence or term of imprisonment were a reference to the appropriate custodial term of a terrorism sentence.
+>
+> (4) Where a terrorist prisoner is released on licence under this Part the licence remains in force until the end of the extension period (but subject to section 17).
+>
+> (5) Where, apart from this subsection, a terrorist prisoner would be released unconditionally at the end of the appropriate custodial term—
+>
+> (a) the prisoner must be released on licence, and
+>
+> (b) the licence remains in force until the end of the extension period (but subject to section 17).
+>
+> (6) The extension period is to be taken to begin—
+>
+> (a) for the purposes of subsection (4), on the day following the date on which, had there been no extension period, the prisoner would have ceased to be on licence in respect of the appropriate custodial term;
+>
+> (b) for the purposes of subsection (5), on the day on which, apart from that subsection, the prisoner would have been released unconditionally at the end of the appropriate custodial term.
+>
+> (7) Where a terrorist prisoner is subject to two or more terrorism sentences, the extension period which is taken to begin in accordance with subsection (6) is the aggregate of the extension period of each of those sentences.
+>
+> (8) Subsection (7) is subject to—
+>
+> (a) sections 1A(1)(c) and 1B(11), and
+>
+> (b) in the case of a terrorism sentence imposed under section 205ZA of the 1995 Act, subsection (10) of that section and any direction by the court imposing the sentence.
+>
+> (9) For the purposes of sections 12(3) and 17(1), the question of whether a terrorist prisoner is a long-term or short-term prisoner is to be determined by reference to the terrorism sentence.
+>
+> (10) In the application of this Part to a terrorism sentence—
+>
+> (a) references in sections 1A(1)(c) and 16(1)(a) to the date on which a prisoner would have served the prisoner's sentence in full are to be read as if they were references to the date on which the terrorism sentence as originally imposed by the court would expire, and
+>
+> (b) the reference in section 17(5) to a prisoner being liable to be detained in pursuance of the prisoner's sentence is to be read as if it were a reference to the prisoner being liable to be detained until the expiry of the extension period.
+>
+> (11) For the purposes of this section—
+>
+> - “appropriate custodial term”, in relation to a terrorism sentence imposed on a terrorist prisoner, means—
+>
+>   - (a) the term determined as such by the court that imposes the sentence on the prisoner under section 205ZA or, as the case may be, section 205ZC of the 1995 Act, or
+>   - (b) the term determined as the custodial term by the court that imposes the extended sentence on the prisoner under section 210A of that Act;
+>
+> - “extension period” means—
+>
+>   - (a) in relation to a sentence of imprisonment imposed on a terrorist prisoner under section 205ZA of the 1995 Act, the period specified as such under that section by the court that imposes the sentence on the prisoner;
+>   - (b) in relation to a sentence of imprisonment imposed on a terrorist prisoner under section 205ZC of that Act, the period of 1 year specified as such under that section by the court that imposes the sentence on the prisoner;
+>   - (c) in relation to an extended sentence imposed on a terrorist prisoner under section 210A of that Act in respect of a terrorism offence, the period specified as such under that section by the court that imposes the sentence on the prisoner.
+
+#### 30 Restricted eligibility for early release of terrorist prisoners: Northern Ireland
+
+(1) In the Criminal Justice (Northern Ireland) Order 2008 (S.I. 2008/1216 (N.I. 1)), after Article 20 insert—
+
+> **Terrorist prisoners**
+>
+> **20A Restricted eligibility for release on licence of terrorist prisoners**
+>
+> (1) This Article applies to a fixed-term prisoner (a “terrorist prisoner”) who—
+>
+> (a) is serving a sentence imposed (whether before or after the commencement date) in respect of an offence within paragraph (2); and
+>
+> (b) has not been released on licence before the commencement date.
+>
+> (2) An offence is within this paragraph (whenever it was committed) if—
+>
+> (a) it is specified in Part 2, 4, 5 or 7 of Schedule 2A (terrorism offences punishable with imprisonment for life or more than two years);
+>
+> (b) it is a service offence as respects which the corresponding civil offence is so specified; or
+>
+> (c) it was determined to have a terrorist connection.
+>
+> (3) The Department of Justice shall release the terrorist prisoner on licence under this Article as soon as—
+>
+> (a) the prisoner has served the relevant part of the sentence; and
+>
+> (b) the Parole Commissioners have directed the release of the prisoner under this Article.
+>
+> (4) The Parole Commissioners shall not give a direction under paragraph (3) with respect to the terrorist prisoner unless—
+>
+> (a) the Department of Justice has referred the prisoner's case to them; and
+>
+> (b) they are satisfied that it is no longer necessary for the protection of the public that the prisoner should be confined.
+>
+> (5) The terrorist prisoner may require the Department of Justice to refer the prisoner's case to the Parole Commissioners at any time—
+>
+> (a) after the prisoner has served the relevant part of the sentence; and
+>
+> (b) where there has been a previous reference of the prisoner's case to the Parole Commissioners, after the expiration of the period of 2 years beginning with the disposal of that reference or such shorter period as the Parole Commissioners may on the disposal of that reference determine;
+>
+> and in this paragraph “previous reference” means a reference under paragraph (4) or Article 28(4).
+>
+> (6) Where the Parole Commissioners do not direct the prisoner's release under paragraph (3)(b), the Department of Justice shall refer the case to them again not later than the expiration of the period of 2 years beginning with the disposal of that reference.
+>
+> (7) In determining for the purpose of this Article whether a terrorist prisoner has served the relevant part of a sentence, no account shall be taken of any time during which the prisoner was unlawfully at large, unless the Department of Justice otherwise directs.
+>
+> (8) If the terrorist prisoner is serving a serious terrorism sentence, an extended custodial sentence or an Article 15A terrorism sentence, the Department of Justice shall release the terrorist prisoner on licence under this Article as soon as the prisoner has served the appropriate custodial term unless the prisoner has previously been recalled under Article 28.
+>
+> (9) For the purposes of this Article—
+>
+> - “appropriate custodial term”, in relation to a serious terrorism sentence, an extended custodial sentence or an Article 15A terrorism sentence, means the term determined as such by the court under Article 13A, 14 or 15A;
+>
+> - “commencement date” means the date on which section 30 of the Counter-Terrorism and Sentencing Act 2021 comes into force;
+>
+> - “relevant part of the sentence” means—
+>
+>   - (a) in relation to an extended custodial sentence or an Article 15A terrorism sentence, two-thirds of the appropriate custodial term;
+>   - (b) in relation to any other sentence, two-thirds of the term of the sentence.
+>
+> (10) For the purposes of this Article, a reference of a terrorist prisoner's case to the Parole Commissioners under Article 18 that was disposed of—
+>
+> (a) before the commencement date; and
+>
+> (b) at a time when the prisoner had served two-thirds of the appropriate custodial term,
+>
+> is to be treated as if it was made (and disposed of) under this Article.
+
+(2) The amendment made by subsection (1) does not affect any duty of the Department of Justice under Chapter 4 of Part 2 of the Criminal Justice (Northern Ireland) Order 2008 to release a person whose release has been directed by the Parole Commissioners before this section comes into force.
+
+#### 31 Removal of early release for dangerous terrorist prisoners: Northern Ireland
+
+In Article 20A of the Criminal Justice (Northern Ireland) Order 2008 (S.I. 2008/1216 (N.I. 1)) (as inserted by section 30) (eligibility for release on licence of terrorist prisoners), after paragraph (2) insert—
+
+> (2A) Paragraphs (3) to (7) apply unless the terrorist prisoner's sentence—
+>
+> (a) is a serious terrorism sentence or an extended custodial sentence;
+>
+> (b) was imposed after the commencement of section 31 of the Counter-Terrorism and Sentencing Act 2021; and
+>
+> (c) was imposed in respect of an offence that—
+>
+> (i) is specified in Part 2 or 5 of Schedule 2A (terrorism offences punishable with imprisonment for life);
+>
+> (ii) is a service offence as respects which the corresponding civil offence is so specified;
+>
+> (iii) is specified in Part 3 or 6 of that Schedule (other offences punishable with life imprisonment) and was determined to have a terrorist connection; or
+>
+> (iv) is a service offence as respects which the corresponding civil offence is so specified and was determined to have a terrorist connection.
+
+### Polygraph conditions in licences for release
+
+#### 32 Polygraph licence conditions for terrorist offenders: England and Wales
+
+(1) The Offender Management Act 2007 is amended as follows.
+
+(2) In section 28 (application of polygraph condition)—
+
+(a) in subsection (2), before “who” insert “ or a relevant terrorist offence ”;
+
+(b) after subsection (4) insert—
+
+> (4A) In this section “relevant terrorist offence” means—
+>
+> (a) an offence that is specified in Part 1 or 2 of Schedule 19ZA to the Criminal Justice Act 2003 (terrorism offences carrying restricted eligibility for release on licence),
+>
+> (b) a service offence as respects which the corresponding civil offence is so specified, or
+>
+> (c) an offence that was determined to have a terrorist connection.
+>
+> (4B) In subsection (4A)—
+>
+> (a) in paragraph (b), “service offence” and “corresponding civil offence” have the same meaning as in the Counter-Terrorism Act 2008 (see section 95 of that Act);
+>
+> (b) paragraph (c) is to be read in accordance with section 247A(7A) of the Criminal Justice Act 2003 (meaning of offences determined to have a terrorist connection).
+
+(3) In section 29 (effect of polygraph condition), after subsection (7) insert—
+
+> (7A) Rules under subsection (6) may make—
+>
+> (a) different provision for different purposes or different areas;
+>
+> (b) incidental, supplemental, consequential, saving or transitional provision.
+
+### Repatriated terrorist prisoners
+
+#### 33 Release on licence of terrorist prisoners repatriated to the United Kingdom
+
+Schedule 11 provides for the application of certain provision made by this Part and the Terrorist Offenders (Restriction of Early Release) Act 2020 to terrorist prisoners who are repatriated, or responsibility for whom is transferred, to the United Kingdom.
+
+## PART 3 — Prevention and investigation of terrorism
+
+### Terrorism prevention and investigation measures
+
+#### 34 TPIMs: condition as to involvement in terrorism-related activity
+
+In section 3 of the Terrorism Prevention and Investigation Measures Act 2011 (conditions for imposition of measures), in subsection (1), for “is satisfied, on the balance of probabilities,” substitute “ reasonably believes ”.
+
+#### 35 TPIMs: extension of time limit
+
+(1) The Terrorism Prevention and Investigation Measures Act 2011 (the “2011 Act”) is amended in accordance with subsections (2) to (6).
+
+(2) For the italic heading before section 5, substitute “ Duration of measures ”.
+
+(3) In section 5 (two year limit for TPIM notices)—
+
+(a) in subsection (3)(b), for “only one occasion” substitute “ up to four occasions ”;
+
+(b) in the heading, for “Two” substitute “ Five ”.
+
+(4) In section 12 (variation of measures), in subsection (9)(a), for “without being extended under section 5(2)” substitute “ as mentioned in section 13(6)(a) ”.
+
+(5) In section 13 (revocation and revival of TPIM notice)—
+
+(a) in subsection (6)(a)—
+
+(i) the words “without being extended under section 5(2)” become sub-paragraph (i);
+
+(ii) at the end of that sub-paragraph (i) insert
+
+> , or
+>
+> (ii) having been extended under section 5(2) on fewer than four occasions,
+
+;
+
+(b) in subsection (7)(b), at the end insert “ (and regardless of how many times it has been so extended) ”;
+
+(c) in subsection (9)—
+
+(i) omit the “and” at the end of paragraph (a);
+
+(ii) after paragraph (b) insert
+
+> ; and
+>
+> (c) is treated as having been extended under section 5(2) on the same number of occasions (if any) as on which the revived notice had been so extended.
+
+(6) In section 14 (replacement of quashed TPIM notice), for subsection (3) substitute—
+
+> (3) The replacement TPIM notice is to be treated as having been extended under section 5(2) on the same number of occasions (if any) as on which the overturned notice had been so extended (including any extension that was quashed).
+
+(7) The amendments made by this section do not apply in relation to—
+
+(a) a TPIM notice served before the day on which this section comes into force, or
+
+(b) a replacement TPIM notice served on or after that day in a case where—
+
+(i) the overturned notice to which it relates was served before that day, and
+
+(ii) the Secretary of State has not made a determination under section 14(6)(b) of the 2011 Act (certain provisions not to apply as if replacement notice was continuation of original notice) in relation to the replacement TPIM notice.
+
+(8) In subsection (7)—
+
+- “TPIM notice” has the meaning given by section 2(1) of the 2011 Act;
+- “replacement TPIM notice” and “overturned notice” have the meanings given by section 14(7) of that Act.
+
+#### 36 TPIMs: variation of measures
+
+(1) The Terrorism Prevention and Investigation Measures Act 2011 is amended as follows.
+
+(2) In section 12 (variation of measures)—
+
+(a) after subsection (1) insert—
+
+> (1A) The Secretary of State may by variation notice vary a relocation measure so as to substitute a different specified residence if the Secretary of State reasonably considers that—
+>
+> (a) the variation is necessary for reasons connected with the efficient and effective use of resources in relation to the individual; and
+>
+> (b) the relocation measure (as varied) remains necessary for purposes connected with preventing or restricting the individual's involvement in terrorism-related activity.
+>
+> (1B) A “relocation measure” is a measure under paragraph 1(2) of Schedule 1 which requires the individual to reside at a specified residence within paragraph 1(3)(b) of that Schedule (requirement to reside at premises specified by Secretary of State other than individual's own residence).
+
+;
+
+(b) in each of subsections (7), (8), (9) and (10), after “subsection (1)” insert “ or (1A) ”;
+
+(c) at the end insert—
+
+> (11) Subsection (1A) does not limit the power under subsection (1).
+
+(3) In section 16 (appeals)—
+
+(a) in subsection (2), in the words before paragraph (a)—
+
+(i) after “varies” insert “ under section 12(1)(c) ”;
+
+(ii) omit “(see section 12(1)(c))”;
+
+(b) after subsection (2) insert—
+
+> (2A) If the Secretary of State varies a relocation measure specified in a TPIM notice under section 12(1A)—
+>
+> (a) the individual may appeal to the court against the variation; and
+>
+> (b) the function of the court on such an appeal is to review the Secretary of State's decisions that—
+>
+> (i) the variation was necessary for reasons connected with the efficient and effective use of resources in relation to the individual, and
+>
+> (ii) the relocation measure (as varied) remained, and continues to be, necessary for purposes connected with preventing or restricting involvement by the individual in terrorism-related activity.
+>
+> (2B) In subsection (2A) “relocation measure” has the meaning given by section 12(1B).
+
+(4) In section 21 (expiry and repeal of TPIM powers), in subsection (8), in the definition of “Secretary of State's TPIM powers”, in paragraph (c) after “12(1)(c)” insert “ or (1A) ”.
+
+(5) In Schedule 5 (powers of entry etc), in paragraph 5(2), for paragraph (c) (but not the final “or”) substitute—
+
+> (c) a notice varying a TPIM notice under section 12(1) as mentioned in paragraph (c) of that subsection or under section 12(1A);
+
+.
+
+#### 37 TPIMs: extension of residence measure
+
+In Schedule 1 to the Terrorism Prevention and Investigation Measures Act 2011 (measures)—
+
+(a) in the heading before paragraph 1, omit “Overnight”, and
+
+(b) in paragraph 1(2)(c) and (8)(a), omit “overnight”.
+
+#### 38 TPIMs: polygraph measure
+
+(1) In Schedule 1 to the Terrorism Prevention and Investigation Measures Act 2011 (measures), after paragraph 10 insert—
+
+> **10ZA Polygraph measure**
+>
+> (1) The Secretary of State may impose a requirement for the individual—
+>
+> (a) to participate in polygraph sessions conducted with a view to—
+>
+> (i) monitoring the individual's compliance with other specified measures;
+>
+> (ii) assessing whether any variation of the specified measures is necessary for purposes connected with preventing or restricting the individual's involvement in terrorism-related activity,
+>
+> (b) to participate in those polygraph sessions at such times as may be specified in instructions given by the Secretary of State, and
+>
+> (c) while participating in a polygraph session, to comply with instructions given to the individual by the polygraph operator.
+>
+> (2) The Secretary of State may by regulations made by statutory instrument make provision relating to the conduct of polygraph sessions, which may include in particular—
+>
+> (a) provision requiring polygraph operators to be persons who satisfy such requirements as to qualifications, experience and other matters as are specified in the regulations;
+>
+> (b) provision about the keeping of records of polygraph sessions;
+>
+> (c) provision about the preparation of reports on the results of polygraph sessions.
+>
+> (3) The measurement and recording of the physiological reactions of an individual while being questioned in the course of a polygraph examination must be done by means of equipment of a type approved by the Secretary of State.
+>
+> (4) The following may not be used in evidence against the individual in any proceedings for an offence—
+>
+> (a) any statement made by the individual while participating in a polygraph session;
+>
+> (b) any physiological reaction of the individual while being questioned in the course of a polygraph examination.
+>
+> (5) Regulations under sub-paragraph (2) may make—
+>
+> (a) different provision for different purposes or different areas;
+>
+> (b) incidental, supplemental, consequential, saving or transitional provision.
+>
+> (6) A statutory instrument containing regulations under sub-paragraph (2) is subject to annulment in pursuance of a resolution of either House of Parliament.
+>
+> (7) In this paragraph—
+>
+> - “polygraph examination” means a procedure in which—
+>
+>   - (a) the polygraph operator questions the individual,
+>   - (b) the questions and the individual's answers are recorded, and
+>   - (c) physiological reactions of the individual while being questioned are measured and recorded;
+>
+> - “polygraph operator” means the person conducting a polygraph session;
+>
+> - “polygraph session” means a session during which the polygraph operator—
+>
+>   - (a) conducts one or more polygraph examinations of the individual, and
+>   - (b) interviews the individual in preparation for, or otherwise in connection with, any such examination.
+
+(2) In section 17 of that Act (jurisdiction in relation to decisions under the Act), in subsection (3), after paragraph (c) insert—
+
+> (ca) a decision by a polygraph operator to give an instruction by virtue of paragraph 10ZA(1)(c) of Schedule 1 (polygraph measure);
+
+.
+
+#### 39 TPIMs: drug testing measure
+
+(1) In Schedule 1 to the Terrorism Prevention and Investigation Measures Act 2011 (measures), after paragraph 10ZA (inserted by section 38) insert—
+
+> **10ZB Drug testing measure**
+>
+> (1) The Secretary of State may impose a requirement for the individual—
+>
+> (a) to—
+>
+> (i) attend such a testing place, at such times, and
+>
+> (ii) provide an authorised person at the testing place with such a permitted sample,
+>
+> as the Secretary of State may by notice require for the purpose of ascertaining whether the individual has any specified Class A drug or specified Class B drug in their body, and
+>
+> (b) to comply with any directions given by an authorised person in relation to the provision of the permitted sample.
+>
+> (2) In this paragraph—
+>
+> - “authorised person” means—
+>
+>   - (a) a constable, or
+>   - (b) a person prescribed, or of a description prescribed, by regulations made by the Secretary of State;
+>
+> - “permitted sample” means—
+>
+>   - (a) a sample of hair other than pubic hair;
+>   - (b) a sample taken from a nail or from under a nail;
+>   - (c) a sample of urine;
+>   - (d) saliva;
+>   - (e) a swab taken from any part of a person's body except a person's genitals (including pubic hair) or a person's body orifice other than the mouth;
+>   - (f) a skin impression;
+>
+> - “specified Class A drug” and “specified Class B drug” have the same meanings as in Part 3 of the Criminal Justice and Court Services Act 2000 (see section 70 of that Act);
+>
+> - “testing place” means—
+>
+>   - (a) a police station, or
+>   - (b) a place prescribed, or of a description prescribed, by regulations made by the Secretary of State.
+>
+> (3) Regulations under sub-paragraph (2) are to be made by statutory instrument.
+>
+> (4) Regulations under sub-paragraph (2) may make—
+>
+> (a) different provision for different purposes or different areas;
+>
+> (b) incidental, supplemental, consequential, saving or transitional provision.
+>
+> (5) A statutory instrument containing regulations under sub-paragraph (2) is subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(2) In section 17 of that Act (jurisdiction in relation to decisions under the Act), in subsection (3), after paragraph (ca) (inserted by section 38) insert—
+
+> (cb) a decision by an authorised person to give a direction by virtue of paragraph 10ZB(1)(b) of Schedule 1 (drug testing measure);
+
+.
+
+#### 40 TPIMs: provision of information
+
+(1) Schedule 1 to the Terrorism Prevention and Investigation Measures Act 2011 (measures) is amended as follows.
+
+(2) In paragraph 7 (electronic communication device measure)—
+
+(a) in sub-paragraph (4), at the end insert—
+
+> (f) the disclosure to the Secretary of State of such details as may be specified of any electronic communication device possessed or used by the individual or any other person in the individual's residence.
+
+;
+
+(b) in sub-paragraph (6)(c) and (d), after “designed or adapted” insert “ , or capable of being adapted, ”.
+
+(3) After paragraph 12 insert—
+
+> **12A Provision of residence information measure**
+>
+> (1) The Secretary of State may impose a requirement for the individual to disclose to the Secretary of State—
+>
+> (a) the address of the individual's residence;
+>
+> (b) if the individual resides at multiple occupancy premises, such details as may be specified concerning where, in the premises, the individual's residence is located;
+>
+> (c) such details as may be specified in relation to any change (or anticipated change) in the matters referred to in paragraphs (a) and (b).
+>
+> (2) The Secretary of State may impose a requirement for the individual to comply with any other specified conditions in connection with the disclosure of information within sub-paragraph (1).
+>
+> (3) “Multiple occupancy premises” are premises at which two or more individuals who are not members of the same household reside.
+
+#### 41 TPIMs: annual review
+
+(1) In section 20 of the Terrorism Prevention and Investigation Measures Act 2011 (reviews of the operation of that Act)—
+
+(a) after subsection (1) insert—
+
+> (1A) The independent reviewer must carry out a review under this section in respect of each calendar year starting with 2022 and ending with 2026.
+>
+> Each review must be completed as soon as reasonably practicable after the year to which it relates.
+
+;
+
+(b) in subsection (2), after “calendar year” insert “ after 2026 ”;
+
+(c) in subsection (4), for “subsection (2)” substitute “ this section ”;
+
+(d) after subsection (6) insert—
+
+> (7) Subsection (1A) does not require a review to be carried out in respect of any calendar year during the whole of which the Secretary of State's TPIM powers (within the meaning given by section 21(8)) do not exist because of their expiry or repeal under section 21.
+
+(2) Subsection (1) does not affect any duty to carry out a review further to a notification given under section 20(2) of the Terrorism Prevention and Investigation Measures Act 2011 before the coming into force of this section.
+
+### Notification requirements under Part 4 of the Counter-Terrorism Act 2008
+
+#### 42 Additional offences attracting notification requirements
+
+In section 41(1) of the Counter-Terrorism Act 2008 (terrorism offences that attract notification requirements under Part 4 of that Act), after paragraph (e) insert—
+
+> (f) an offence under section 23 of the Terrorism Prevention and Investigation Measures Act 2011 (breach of notice imposing terrorism prevention and investigation measures) dealt with on or after the day on which section 42 of the Counter-Terrorism and Sentencing Act 2021 comes into force;
+>
+> (g) an offence under section 10(1) or (3) of the Counter-Terrorism and Security Act 2015 (breach of temporary exclusion order or related obligation) dealt with on or after that day.
+
+### Serious crime prevention orders
+
+#### 43 Police powers to apply for serious crime prevention orders in terrorism cases
+
+Schedule 12 amends the Serious Crime Act 2007 to make provision conferring powers on chief officers of police to apply for serious crime prevention orders in terrorism-related cases.
+
+#### 44 Serious crime prevention orders: review of operation of police powers
+
+(1) The Secretary of State must—
+
+(a) review the operation of the amendments made by this Act to the Serious Crime Act 2007 (see Schedule 12), and
+
+(b) publish the outcome of the review in a report.
+
+(2) The report must be published before the end of the period of 3 years beginning with the day on which section 43 comes into force.
+
+(3) The Secretary of State must lay the report before Parliament.
+
+### “Prevent” strategy
+
+#### 45 Persons vulnerable to being drawn into terrorism: timing of independent review
+
+(1) In section 20 of the Counter-Terrorism and Border Security Act 2019 (support for persons vulnerable to being drawn into terrorism)—
+
+(a) in subsection (8), omit the words from “, within the period” to “passed,”;
+
+(b) in subsection (9), omit the words from “, within the period” to the end.
+
+(2) The amendments made by subsection (1) are to be treated as having had effect from the time when section 20 of the Counter-Terrorism and Border Security Act 2019 came into force.
+
+## PART 4 — General
+
+### 46 Consequential and related amendments
+
+Schedule 13 contains consequential and other related amendments.
+
+### 47 Power to state effect in Sentencing Act 2020 of commencement of amendments made by this Act
+
+The power in section 419(1) of the Sentencing Act 2020 (power to state effect of commencement provisions) applies in relation to any amendment or repeal made by or under this Act of that Act as it applies in relation to an amendment or repeal made by Schedule 22 to that Act.
+
+### 48 Power to make further consequential provision
+
+(1) The Secretary of State may by regulations make provision in consequence of this Act.
+
+(2) The power conferred by subsection (1) includes power—
+
+(a) to amend, repeal or revoke any provision of primary legislation or subordinate legislation (including legislation passed or made on or before the last day of the Session in which this Act is passed);
+
+(b) to make different provision for different purposes;
+
+(c) to make transitional, transitory or saving provision.
+
+(3) Regulations under this section are to be made by statutory instrument.
+
+(4) A statutory instrument that contains (with or without other provision) regulations under this section which amend, repeal or revoke primary legislation may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, each House of Parliament.
+
+(5) Any other statutory instrument that contains regulations under this section is subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(6) In this section—
+
+- “primary legislation” means—
+
+  - (a) an Act of Parliament;
+  - (b) an Act of the Scottish Parliament;
+  - (c) an Act or Measure of Senedd Cymru;
+  - (d) Northern Ireland legislation;
+
+- “subordinate legislation” means—
+
+  - (a) subordinate legislation within the meaning of the Interpretation Act 1978;
+  - (b) an instrument made under an Act of the Scottish Parliament;
+  - (c) an instrument made under an Act or Measure of Senedd Cymru;
+  - (d) an instrument made under Northern Ireland legislation.
+
+(7) In the Criminal Justice and Court Services Act 2000—
+
+(a) in section 77 (supplementary and consequential provision), at the end insert—
+
+> (3) The provision which may be made under subsection (1) in relation to section 61 of this Act (abolition of sentence of detention in young offender institution etc) also includes provision amending or repealing—
+>
+> (a) any provision of the Counter-Terrorism and Sentencing Act 2021,
+>
+> (b) any provision of an enactment that was inserted or amended by, or by regulations made under, the Counter-Terrorism and Sentencing Act 2021.
+
+;
+
+(b) in section 78(2) (meaning of “enactment”), after “in this Part” insert “ other than section 77(3) ”.
+
+### 49 Extent
+
+(1) A provision of this Act which amends, repeals or revokes an enactment has the same extent within the United Kingdom as the enactment amended, repealed or revoked.
+
+(2) Subject to subsections (3) and (4), the other provisions of this Act extend to England and Wales, Scotland and Northern Ireland.
+
+(3) Section 21(2) extends to England and Wales only.
+
+(4) Section 45(2) extends to England and Wales and Scotland.
+
+(5) Nothing in subsections (1) to (4) limits the extent within the United Kingdom of any provision made, or inserted, by or under this Act so far as it is applied (by whatever words) by or under the Armed Forces Act 2006.
+
+(6) Subsections (1) and (2) of section 384 of the Armed Forces Act 2006 (extent outside the United Kingdom) apply to the armed forces provisions as those subsections apply to the provisions of that Act.
+
+(7) The following are “armed forces provisions”—
+
+(a) a provision made, or inserted, by or under this Act so far as it is applied (by whatever words) by or under the Armed Forces Act 2006;
+
+(b) an amendment, modification or repeal made by or under this Act of—
+
+(i) a provision of or made under the Armed Forces Act 2006,
+
+(ii) a provision that amends, modifies or repeals a provision of, or made under, that Act, or
+
+(iii) any other provision, so far as the provision is applied (by whatever words) by or under that Act.
+
+(8) The power under section 39(6) of the Terrorism Act 2006 (extension to the Channel Islands or the Isle of Man) may be exercised in relation to any amendments made to that Act by this Act.
+
+(9) The power under section 31(4) of the Terrorism Prevention and Investigation Measures Act 2011 (extension to the Isle of Man) may be exercised in relation to any amendments made to that Act by this Act.
+
+### 50 Commencement
+
+(1) The following provisions come into force on the day after the day on which this Act is passed—
+
+(a) section 3 (and Schedule 3);
+
+(b) section 21 (and Schedule 6), except as mentioned in subsection (3)(f);
+
+(c) section 22;
+
+(d) section 23 (and Schedule 7);
+
+(e) section 24;
+
+(f) section 30;
+
+(g) section 45;
+
+(h) sections 47 to 49, this section and section 51;
+
+(i) the following provisions in Schedule 13 (and section 46 to the extent that it relates to those provisions)—
+
+(i) Part 3 of that Schedule, except as mentioned in subsection (3)(i);
+
+(ii) Part 4 of that Schedule;
+
+(iii) paragraph 44;
+
+(iv) paragraph 45 other than sub-paragraph (4);
+
+(v) paragraphs 47 to 51;
+
+(vi) paragraph 52 other than sub-paragraph (7)(a);
+
+(vii) paragraph 53 other than sub-paragraph (4);
+
+(viii) paragraphs 54 to 60;
+
+(ix) Parts 9 and 10 of that Schedule.
+
+(2) The following provisions come into force at the end of the period of two months beginning with the day on which this Act is passed—
+
+(a) section 1 (and Schedule 1), except as mentioned in subsection (3)(a);
+
+(b) section 2 (and Schedule 2);
+
+(c) sections 4 and 5;
+
+(d) section 6 (and Schedule 4);
+
+(e) sections 7 to 10;
+
+(f) section 11, except as mentioned in subsection (3)(b);
+
+(g) sections 12 to 14;
+
+(h) section 15, except as mentioned in subsection (3)(c);
+
+(i) section 16, except as mentioned in subsection (3)(d);
+
+(j) sections 17 and 18, except as mentioned in subsection (3)(e);
+
+(k) section 19 (and Schedule 5);
+
+(l) section 20;
+
+(m) section 26;
+
+(n) section 27 (and Schedule 9);
+
+(o) section 28 (and Schedule 10);
+
+(p) section 29;
+
+(q) sections 31 and 32;
+
+(r) section 33 (and Schedule 11);
+
+(s) sections 34 to 42;
+
+(t) section 43 (and Schedule 12);
+
+(u) section 44;
+
+(v) the following provisions in Schedule 13 (and section 46 to the extent that it relates to those provisions)—
+
+(i) Part 1 of that Schedule, except as mentioned in subsection (3)(h);
+
+(ii) Part 2 of that Schedule;
+
+(iii) paragraphs 45(4), 46, 52(7)(a) and 53(4);
+
+(iv) Part 8 of that Schedule.
+
+(3) The following provisions of this Act come into force on such day as the Secretary of State may by regulations appoint—
+
+(a) section 1 (and Schedule 1), as they have effect for the purposes of section 69 of the Sentencing Code as applied by section 238 of the Armed Forces Act 2006;
+
+(b) section 11, as it has effect for the purposes of section 323 of the Sentencing Code as applied by section 261A of the Armed Forces Act 2006;
+
+(c) section 15, as it has effect for the purposes of Schedule 18 to the Sentencing Code as applied by sections 219A and 221A of the Armed Forces Act 2006;
+
+(d) section 16, as it has effect for the purposes of section 256 of the Sentencing Code as applied by section 221A of the Armed Forces Act 2006;
+
+(e) sections 17 and 18, as they have effect for the purposes of sections 268 and 281 of the Sentencing Code as applied by section 219A of the Armed Forces Act 2006;
+
+(f) section 21 (and Schedule 6), as they have effect for the purposes of Schedule 13 to the Sentencing Code as applied by section 224A of the Armed Forces Act 2006;
+
+(g) section 25 (and Schedule 8);
+
+(h) paragraph 6(3)(a) and (4) of Schedule 13 as they have effect for the purposes mentioned in paragraph (a) above (and section 46 to the extent that it relates to those provisions for those purposes);
+
+(i) Part 3 of Schedule 13 as it has effect for the purposes mentioned in paragraph (f) above (and section 46 to the extent that it relates to that Part for those purposes);
+
+(j) Part 5 of Schedule 13 (and section 46 to the extent that it relates to that Part).
+
+(4) Different days may be appointed for different purposes.
+
+(5) The Secretary of State may by regulations make transitional, transitory or saving provision in connection with the coming into force of any provision of this Act.
+
+(6) Regulations under this section are to be made by statutory instrument.
+
+### 51 Short title
+
+This Act may be cited as the Counter-Terrorism and Sentencing Act 2021.
+
+## SCHEDULE 1 — Offences where terrorist connection not required to be considered
+
+*Section 1*
+
+### PART 1 — England and Wales; service offences
+
+This is the Schedule to be inserted as Schedule A1 to the Sentencing Code—
+
+> **SCHEDULE A1 — Offences where terrorist connection not required to be considered**
+>
+> *Section 69*
+>
+> **Terrorism Act 2000**
+>
+> **1** An offence under any of the following provisions of the Terrorism Act 2000—
+>
+> (a) section 11 (membership of a proscribed organisation);
+>
+> (b) section 12 (inviting or expressing support for a proscribed organisation);
+>
+> (c) section 15 (fund-raising);
+>
+> (d) section 16 (use of money or property for terrorist purposes);
+>
+> (e) section 17 (involvement in terrorist funding arrangements);
+>
+> (f) section 17A (insuring payments made in response to terrorist threats);
+>
+> (g) section 18 (laundering of terrorist property);
+>
+> (h) section 19 (failure to disclose professional belief or suspicion about terrorist offences);
+>
+> (i) section 21A (failure in regulated sectors to disclose knowledge or suspicion about terrorist offences);
+>
+> (j) section 38B (failure to disclose information about acts of terrorism);
+>
+> (k) section 39 (disclosure of information prejudicial to a terrorist investigation etc);
+>
+> (l) section 54 (weapons training);
+>
+> (m) section 56 (directing a terrorist organisation);
+>
+> (n) section 57 (possession of article for terrorist purposes);
+>
+> (o) section 58 (collection of information likely to be of use to a terrorist);
+>
+> (p) section 58A (publishing information about members of the armed forces etc);
+>
+> (q) section 58B (entering or remaining in a designated area);
+>
+> (r) section 59 (inciting terrorism overseas).
+>
+> **Anti-terrorism, Crime and Security Act 2001**
+>
+> **2** An offence under section 113 of the Anti-terrorism, Crime and Security Act 2001 (use of noxious substance or thing to cause harm or intimidate).
+>
+> **Terrorism Act 2006**
+>
+> **3** An offence under any of the following provisions of the Terrorism Act 2006—
+>
+> (a) section 1 (encouragement of terrorism);
+>
+> (b) section 2 (dissemination of terrorist publications);
+>
+> (c) section 5 (preparation of terrorist acts);
+>
+> (d) section 6 (training for terrorism);
+>
+> (e) section 8 (attendance at a place used for terrorist training);
+>
+> (f) section 9 (making or possession of radioactive device or material);
+>
+> (g) section 10 (misuse of radioactive device or material for terrorist purposes etc);
+>
+> (h) section 11 (terrorist threats relating to radioactive devices etc).
+>
+> **Counter-Terrorism Act 2008**
+>
+> **4** An offence under section 54 of the Counter-Terrorism Act 2008 (breach of police notification requirements etc).
+>
+> **Terrorism Prevention and Investigation Measures 2011**
+>
+> **5** An offence under section 23 of the Terrorism Prevention and Investigation Measures Act 2011 (breach of notices imposing terrorism prevention and investigation measures).
+>
+> **Counter-Terrorism and Security Act 2015**
+>
+> **6** An offence under section 10 of the Counter-Terrorism and Security Act 2015 (breach of temporary exclusion order).
+>
+> **Inchoate offences**
+>
+> **7** An inchoate offence (see section 398) in relation to an offence specified in any of the preceding paragraphs of this Schedule.
+
+### PART 2 — Scotland and Northern Ireland
+
+This is the Schedule to be inserted as Schedule 1A to the Counter-Terrorism Act 2008—
+
+> **SCHEDULE 1A — Offences where terrorist connection not required to be considered**
+>
+> *Sections 30 and 31*
+>
+> **Terrorism Act 2000**
+>
+> **1** An offence under any of the following provisions of the Terrorism Act 2000—
+>
+> (a) section 11 (membership of a proscribed organisation);
+>
+> (b) section 12 (inviting or expressing support for a proscribed organisation);
+>
+> (c) section 15 (fund-raising);
+>
+> (d) section 16 (use of money or property for terrorist purposes);
+>
+> (e) section 17 (involvement in terrorist funding arrangements);
+>
+> (f) section 17A (insuring payments made in response to terrorist threats);
+>
+> (g) section 18 (laundering of terrorist property);
+>
+> (h) section 19 (failure to disclose professional belief or suspicion about terrorist offences);
+>
+> (i) section 21A (failure in regulated sectors to disclose knowledge or suspicion about terrorist offences);
+>
+> (j) section 38B (failure to disclose information about acts of terrorism);
+>
+> (k) section 39 (disclosure of information prejudicial to a terrorist investigation etc);
+>
+> (l) section 54 (weapons training);
+>
+> (m) section 56 (directing a terrorist organisation);
+>
+> (n) section 57 (possession of article for terrorist purposes);
+>
+> (o) section 58 (collection of information likely to be of use to a terrorist);
+>
+> (p) section 58A (publishing information about members of the armed forces etc);
+>
+> (q) section 58B (entering or remaining in a designated area);
+>
+> (r) section 60 (inciting terrorism overseas: Northern Ireland);
+>
+> (s) section 61 (inciting terrorism overseas: Scotland).
+>
+> **Anti-terrorism, Crime and Security Act 2001**
+>
+> **2** An offence under section 113 of the Anti-terrorism, Crime and Security Act 2001 (use of noxious substance or thing to cause harm or intimidate).
+>
+> **Terrorism Act 2006**
+>
+> **3** An offence under any of the following provisions of the Terrorism Act 2006—
+>
+> (a) section 1 (encouragement of terrorism);
+>
+> (b) section 2 (dissemination of terrorist publications);
+>
+> (c) section 5 (preparation of terrorist acts);
+>
+> (d) section 6 (training for terrorism);
+>
+> (e) section 8 (attendance at a place used for terrorist training);
+>
+> (f) section 9 (making or possession of radioactive device or material);
+>
+> (g) section 10 (misuse of radioactive device or material for terrorist purposes etc);
+>
+> (h) section 11 (terrorist threats relating to radioactive devices etc).
+>
+> **Counter-Terrorism Act 2008**
+>
+> **4** An offence under section 54 of the Counter-Terrorism Act 2008 (breach of police notification requirements etc).
+>
+> **Terrorism Prevention and Investigation Measures 2011**
+>
+> **5** An offence under section 23 of the Terrorism Prevention and Investigation Measures Act 2011 (breach of notices imposing terrorism prevention and investigation measures).
+>
+> **Counter-Terrorism and Security Act 2015**
+>
+> **6** An offence under section 10 of the Counter-Terrorism and Security Act 2015 (breach of temporary exclusion order).
+>
+> **Ancillary offences**
+>
+> **7** An ancillary offence in relation to an offence specified in any of the preceding paragraphs of this Schedule.
+
+## SCHEDULE 2 — Serious terrorism offences: England and Wales
+
+*Section 2*
+
+This is the Schedule to be inserted as Schedule 17A to the Sentencing Code—
+
+> **SCHEDULE 17A — Serious terrorism offences**
+>
+> *Section 306*
+>
+> **PART 1 — Terrorism offences**
+>
+> **Terrorism Act 2000**
+>
+> **1** An offence under any of the following provisions of the Terrorism Act 2000—
+>
+> (a) section 54 (weapons training);
+>
+> (b) section 56 (directing a terrorist organisation);
+>
+> (c) section 59 (inciting terrorism overseas), other than an offence which is an offence by virtue of subsection (2)(c) of that section.
+>
+> **Terrorism Act 2006**
+>
+> **2** An offence under any of the following provisions of the Terrorism Act 2006—
+>
+> (a) section 5 (preparation of terrorist acts);
+>
+> (b) section 6 (training for terrorism);
+>
+> (c) section 9 (making or possession of radioactive device or material);
+>
+> (d) section 10 (misuse of radioactive device or material for terrorist purposes etc);
+>
+> (e) section 11 (terrorist threats relating to radioactive devices etc).
+>
+> **Inchoate offences**
+>
+> **3** An inchoate offence (see section 398) in relation to an offence specified in any of the preceding paragraphs of this Part of this Schedule.
+>
+> **PART 2 — Other offences (in case where determination of terrorist connection under section 69 is made)**
+>
+> **Common law offences**
+>
+> **4** Manslaughter.
+>
+> **5** Kidnapping.
+>
+> **6** False imprisonment.
+>
+> **Offences against the Person Act 1861**
+>
+> **7** An offence under any of the following provisions of the Offences against the Person Act 1861—
+>
+> (a) section 4 (soliciting murder);
+>
+> (b) section 18 (wounding with intent to cause grievous bodily harm);
+>
+> (c) section 21 (attempting to choke, suffocate or strangle in order to commit or assist in the committing of an indictable offence);
+>
+> (d) section 22 (using chloroform etc to commit or assist in the committing of any indictable offence);
+>
+> (e) section 28 (causing bodily injury by explosives);
+>
+> (f) section 29 (using explosives etc with intent to do grievous bodily harm);
+>
+> (g) section 32 (endangering the safety of railway passengers).
+>
+> **Explosive Substances Act 1883**
+>
+> **8** An offence under any of the following provisions of the Explosive Substances Act 1883—
+>
+> (a) section 2 (causing explosion likely to endanger life or property);
+>
+> (b) section 3 (attempt to cause explosion, or making or keeping explosive with intent to endanger life or property);
+>
+> (c) section 4 (making or possession of explosive under suspicious circumstances);
+>
+> (d) section 5 (punishment of accessories to offences of causing or attempting to cause explosions or making or possessing explosives).
+>
+> **Infant Life (Preservation) Act 1929**
+>
+> **9** An offence under section 1 of the Infant Life (Preservation) Act 1929 (child destruction).
+>
+> **Infanticide Act 1938**
+>
+> **10** An offence under section 1 of the Infanticide Act 1938 (infanticide).
+>
+> **Firearms Act 1968**
+>
+> **11** An offence under any of the following provisions of the Firearms Act 1968—
+>
+> (a) section 16 (possession of firearm with intent to endanger life);
+>
+> (b) section 17(1) (use of firearm to resist arrest);
+>
+> (c) section 17(2) (possession of firearm at time of committing or being arrested for offence specified in Schedule 1 to that Act);
+>
+> (d) section 18 (carrying a firearm with criminal intent).
+>
+> **Theft Act 1968**
+>
+> **12** An offence under either of the following provisions of the Theft Act 1968—
+>
+> (a) section 8 (robbery or assault with intent to rob);
+>
+> (b) section 10 (aggravated burglary).
+>
+> **Criminal Damage Act 1971**
+>
+> **13** (1) An offence of arson under section 1 of the Criminal Damage Act 1971.
+>
+> (2) An offence under section 1(2) of that Act (destroying or damaging property) other than an offence of arson.
+>
+> **Biological Weapons Act 1974**
+>
+> **14** An offence under section 1 of the Biological Weapons Act 1974 (developing certain biological agents and toxins or biological weapons).
+>
+> **Taking of Hostages Act 1982**
+>
+> **15** An offence under section 1 of the Taking of Hostages Act 1982 (hostage-taking).
+>
+> **Aviation Security Act 1982**
+>
+> **16** An offence under any of the following provisions of the Aviation Security Act 1982—
+>
+> (a) section 1 (hijacking);
+>
+> (b) section 2 (destroying, damaging or endangering safety of aircraft);
+>
+> (c) section 3 (other acts endangering or likely to endanger safety of aircraft);
+>
+> (d) section 6(2) (inducing or assisting the commission of offences relating to safety of aircraft).
+>
+> **Nuclear Material (Offences) Act 1983**
+>
+> **17** An offence under either of the following provisions of the Nuclear Material (Offences) Act 1983—
+>
+> (a) section 1B (offences relating to damage to the environment);
+>
+> (b) section 2 (preparatory acts and threats).
+>
+> **Criminal Justice Act 1988**
+>
+> **18** An offence under section 134 of the Criminal Justice Act 1988 (torture).
+>
+> **Aviation and Maritime Security Act 1990**
+>
+> **19** An offence under any of the following provisions of the Aviation and Maritime Security Act 1990—
+>
+> (a) section 1 (endangering safety at aerodromes);
+>
+> (b) section 9 (hijacking of ships);
+>
+> (c) section 10 (seizing or exercising control of fixed platforms);
+>
+> (d) section 11 (destroying ships or fixed platforms or endangering their safety);
+>
+> (e) section 12 (other acts endangering or likely to endanger safe navigation);
+>
+> (f) section 13 (offences involving threats);
+>
+> (g) section 14(4) (inducing or assisting the commission of offences relating to hijacking of ships, or destroying ships or fixed platforms or endangering their safety).
+>
+> **Channel Tunnel (Security) Order 1994**
+>
+> **20** An offence under Part 2 of the Channel Tunnel (Security) Order 1994 (S.I. 1994/570) (offences relating to Channel Tunnel trains and the tunnel system).
+>
+> **Chemical Weapons Act 1996**
+>
+> **21** An offence under either of the following provisions of the Chemical Weapons Act 1996—
+>
+> (a) section 2 (use etc of chemical weapons);
+>
+> (b) section 11 (premises or equipment used for producing chemical weapons).
+>
+> **International Criminal Court Act 2001**
+>
+> **22** An offence under section 51 or 52 of the International Criminal Court Act 2001 (genocide, crimes against humanity, war crimes and related offences), other than one involving murder.
+>
+> **Anti-terrorism, Crime and Security Act 2001**
+>
+> **23** An offence under either of the following provisions of the Anti-terrorism, Crime and Security Act 2001—
+>
+> (a) section 47 (use etc of nuclear weapons);
+>
+> (b) section 50 (assisting or inducing certain weapons-related acts overseas).
+>
+> **Modern Slavery Act 2015**
+>
+> **24** An offence under either of the following provisions of the Modern Slavery Act 2015—
+>
+> (a) section 1 (slavery, servitude and forced or compulsory labour);
+>
+> (b) section 2 (human trafficking).
+>
+> **Inchoate offences**
+>
+> **25** An inchoate offence (see section 398) in relation to an offence specified in any of the preceding paragraphs of this Part of this Schedule.
+>
+> **26** An inchoate offence in relation to murder.
+
+## SCHEDULE 3 — Offences for the purposes of this Act: Northern Ireland
+
+*Section 3*
+
+This is the Schedule to be inserted as Schedule 2A to the Criminal Justice (Northern Ireland) Order 2008 (S.I. 2008/1216 (N.I. 1))—
+
+> **SCHEDULE 2A — Offences specified for various purposes of this Order relating to terrorism**
+>
+> *Article 12(6)*
+>
+> **PART 1 — Introduction**
+>
+> **1** (1) In this Schedule—
+>
+> (a) Part 2 specifies certain terrorism offences that are—
+>
+> (i) offences under the law of Northern Ireland; and
+>
+> (ii) punishable with imprisonment for life;
+>
+> (b) Part 3 specifies certain offences that—
+>
+> (i) are offences under the law of Northern Ireland;
+>
+> (ii) are not terrorism offences (but are offences capable of being determined to have a terrorist connection); and
+>
+> (iii) are punishable with imprisonment for life;
+>
+> (c) Part 4 specifies certain terrorism offences that are—
+>
+> (i) offences under the law of Northern Ireland; and
+>
+> (ii) punishable with imprisonment for more than two years (but not for life);
+>
+> (d) Part 5 specifies certain terrorism offences that are—
+>
+> (i) offences only under the law of a part of the United Kingdom other than Northern Ireland; and
+>
+> (ii) punishable with imprisonment for life;
+>
+> (e) Part 6 specifies certain offences that—
+>
+> (i) are offences only under the law of a part of the United Kingdom other than Northern Ireland;
+>
+> (ii) are not terrorism offences (but are offences capable of being determined to have a terrorist connection); and
+>
+> (iii) are punishable with imprisonment for life;
+>
+> (f) Part 7 specifies certain terrorism offences that are—
+>
+> (i) offences only under the law of a part of the United Kingdom other than Northern Ireland; and
+>
+> (ii) punishable with imprisonment for more than two years (but not for life).
+>
+> (2) An offence specified in Parts 2 to 4 includes, for the purposes of Article 20A, that offence to the extent that it also forms part of the law of another part of the United Kingdom (and see also paragraph 15(2) of Schedule 1 to the Crime (Sentences) Act 1997 for provision relevant to the application of Article 20A to offences under the law of another part of the United Kingdom).
+>
+> (3) In this Schedule any reference to an offence includes—
+>
+> (a) an ancillary offence in relation to that offence (unless the reference is specifically to an ancillary offence); and
+>
+> (b) an abolished offence in relation to that offence.
+>
+> (4) In this Schedule—
+>
+> (a) “ancillary offence”, in relation to an offence, has the same meaning as in the Counter-Terrorism Act 2008 (see section 94 of that Act);
+>
+> (b) “abolished offence”, in relation to an offence (“the current offence”), means an offence that—
+>
+> (i) was abolished before the commencement of section 3 of the Counter-Terrorism and Sentencing Act 2021; and
+>
+> (ii) would, if committed on the day on which the offender is or was convicted, have constituted the current offence.
+>
+> **PART 2 — Terrorism offences in Northern Ireland punishable with imprisonment for life**
+>
+> **2** An offence under any of the following provisions of the Terrorism Act 2000—
+>
+> (a) section 54 (weapons training);
+>
+> (b) section 56 (directing a terrorist organisation);
+>
+> (c) section 60 (inciting terrorism overseas), other than an offence which is an offence by virtue of subsection (2)(c) of that section.
+>
+> **3** An offence under any of the following provisions of the Terrorism Act 2006—
+>
+> (a) section 5 (preparation of terrorist acts);
+>
+> (b) section 6 (training for terrorism);
+>
+> (c) section 9 (making or possession of radioactive device or material);
+>
+> (d) section 10 (misuse of radioactive device or material for terrorist purposes etc);
+>
+> (e) section 11 (terrorist threats relating to radioactive devices etc).
+>
+> **PART 3 — Other offences in Northern Ireland punishable with imprisonment for life**
+>
+> **4** An ancillary offence in relation to murder, other than one which must (in the case of an offender aged 21 or over) be punished by imprisonment for life.
+>
+> **5** Manslaughter.
+>
+> **6** Kidnapping.
+>
+> **7** False imprisonment.
+>
+> **8** Riot.
+>
+> **9** Affray.
+>
+> **10** An offence under any of the following provisions of the Offences against the Person Act 1861—
+>
+> (a) section 4 (soliciting murder);
+>
+> (b) section 18 (wounding with intent to cause grievous bodily harm);
+>
+> (c) section 21 (attempting to choke, suffocate or strangle in order to commit or assist in the committing of an indictable offence);
+>
+> (d) section 22 (using chloroform etc to commit or assist in the committing of any indictable offence);
+>
+> (e) section 28 (causing bodily injury by explosives);
+>
+> (f) section 29 (using explosives etc with intent to do grievous bodily harm);
+>
+> (g) section 32 (endangering the safety of railway passengers).
+>
+> **11** An offence under any of the following provisions of the Explosive Substances Act 1883—
+>
+> (a) section 2 (causing explosion likely to endanger life or property);
+>
+> (b) section 3 (attempt to cause explosion, or making or keeping explosive with intent to endanger life or property);
+>
+> (c) section 4 (making or possession of explosive under suspicious circumstances);
+>
+> (d) section 5 (punishment of accessories to offences of causing or attempting to cause explosions or making or possessing explosives).
+>
+> **12** An offence under section 1 of the Infanticide Act (Northern Ireland) 1939 (infanticide).
+>
+> **13** An offence under section 25 of the Criminal Justice Act (Northern Ireland) 1945 (child destruction).
+>
+> **14** An offence under either of the following provisions of the Theft Act (Northern Ireland) 1969—
+>
+> (a) section 8 (robbery);
+>
+> (b) section 10 (aggravated burglary).
+>
+> **15** An offence under section 1 of the Biological Weapons Act 1974 (developing certain biological agents and toxins or biological weapons).
+>
+> **16** (1) An offence of arson under Article 3 of the Criminal Damage (Northern Ireland) Order 1977.
+>
+> (2) An offence under Article 3(2) of that Order (destruction or damage of property with intent or recklessness as to endangerment of life) other than an offence of arson.
+>
+> **17** An offence under section 1 of the Taking of Hostages Act 1982 (hostage-taking).
+>
+> **18** An offence under any of the following provision of the Aviation Security Act 1982—
+>
+> (a) section 1 (hijacking);
+>
+> (b) section 2 (destroying, damaging or endangering safety of aircraft);
+>
+> (c) section 3 (other acts endangering or likely to endanger safety of aircraft);
+>
+> (d) section 6(2) (inducing or assisting the commission of offences relating to safety of aircraft).
+>
+> **19** An offence under either of the following provisions of the Nuclear Material (Offences) Act 1983—
+>
+> (a) section 1B (offences relating to damage to the environment);
+>
+> (b) section 2 (preparatory acts and threats).
+>
+> **20** An offence under section 134 of the Criminal Justice Act 1988 (torture).
+>
+> **21** An offence under any of the following provisions of the Aviation and Maritime Security Act 1990—
+>
+> (a) section 1 (endangering safety at aerodromes);
+>
+> (b) section 9 (hijacking of ships);
+>
+> (c) section 10 (seizing or exercising control of fixed platforms);
+>
+> (d) section 11 (destroying ships or fixed platforms or endangering their safety);
+>
+> (e) section 12 (other acts endangering or likely to endanger safe navigation);
+>
+> (f) section 13 (offences involving threats);
+>
+> (g) section 14(4) (inducing or assisting the commission of offences relating to hijacking of ships, or destroying ships or fixed platforms or endangering their safety).
+>
+> **22** An offence under Part 2 of the Channel Tunnel (Security) Order 1994 (S.I. 1994/570) (offences relating to Channel Tunnel trains and the tunnel system).
+>
+> **23** An offence under either of the following provisions of the Chemical Weapons Act 1996—
+>
+> (a) section 2 (use etc of chemical weapons);
+>
+> (b) section 11 (premises or equipment for producing chemical weapons).
+>
+> **24** An offence under section 58 or 59 of the International Criminal Court Act 2001 (genocide, crimes against humanity, war crimes and related offences), other than one involving murder.
+>
+> **25** An offence under either of the following provisions of the Anti-Terrorism, Crime and Security Act 2001—
+>
+> (a) section 47 (use etc of nuclear weapons);
+>
+> (b) section 50 (assisting or inducing certain weapons-related acts overseas).
+>
+> **26** An offence under any of the following provisions of the Firearms (Northern Ireland) Order 2004—
+>
+> (a) Article 58(1) (possession of firearm with intent to endanger life etc);
+>
+> (b) Article 59(1) (use of firearm to resist arrest);
+>
+> (c) Article 59(2) (possession of firearm while committing other offence);
+>
+> (d) Article 60 (carrying a firearm with criminal intent).
+>
+> **27** An offence under either of the following provisions of the Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015—
+>
+> (a) section 1 (slavery, servitude and forced or compulsory labour);
+>
+> (b) section 2 (human trafficking).
+>
+> **28** An offence under any of the following provisions of Schedule 4 to the Space Industry Act 2018—
+>
+> (a) paragraph 1 (hijacking of spacecraft);
+>
+> (b) paragraph 2 (destroying, damaging or endangering the safety of spacecraft);
+>
+> (c) paragraph 3 (other acts endangering or likely to endanger safety of spacecraft);
+>
+> (d) paragraph 4 (endangering safety at spaceports).
+>
+> **PART 4 — Terrorism offences in Northern Ireland punishable with imprisonment for more than two years (but not life)**
+>
+> **29** An offence under any of the following provisions of the Terrorism Act 2000—
+>
+> (a) section 11 (membership of a proscribed organisation);
+>
+> (b) section 12 (inviting or expressing support for a proscribed organisation);
+>
+> (c) section 15 (fund-raising);
+>
+> (d) section 16 (use of money or property for terrorist purposes);
+>
+> (e) section 17 (involvement in terrorist funding arrangements);
+>
+> (f) section 17A (insuring payments made in response to terrorist threats);
+>
+> (g) section 18 (laundering of terrorist property);
+>
+> (h) section 19 (failure to disclose professional belief or suspicion about terrorist offences);
+>
+> (i) section 21A (failure in regulated sectors to disclose knowledge or suspicion about terrorist offences);
+>
+> (j) section 38B (failure to disclose information about acts of terrorism);
+>
+> (k) section 39 (disclosure of information prejudicial to a terrorist investigation etc);
+>
+> (l) section 57 (possession of article for terrorist purposes);
+>
+> (m) section 58 (collection of information likely to be of use to a terrorist);
+>
+> (n) section 58A (publishing information about members of the armed forces etc);
+>
+> (o) section 58B (entering or remaining in a designated area);
+>
+> (p) section 60 (inciting terrorism overseas), in the case of an offence which is an offence by virtue of the reference in subsection (2)(c) of that section to an offence under section 23 of the Offences against the Person Act 1861.
+>
+> **30** An offence under section 113 of the Anti-terrorism, Crime and Security Act 2001 (use of noxious substance or thing to cause harm or intimidate).
+>
+> **31** An offence under any of the following provisions of the Terrorism Act 2006—
+>
+> (a) section 1 (encouragement of terrorism);
+>
+> (b) section 2 (dissemination of terrorist publications);
+>
+> (c) section 8 (attendance at a place used for terrorist training).
+>
+> **32** An offence under section 54 of the Counter-Terrorism Act 2008 (breach of police notification requirements etc).
+>
+> **33** An offence under section 23 of the Terrorism Prevention and Investigation Measures Act 2011 (breach of notices imposing terrorism prevention and investigation measures).
+>
+> **34** An offence under section 10 of the Counter-Terrorism and Security Act 2015 (breach of temporary exclusion order).
+>
+> **PART 5 — Terrorism offences only in other parts of the United Kingdom punishable with imprisonment for life**
+>
+> **35** An offence under either of the following provisions of the Terrorism Act 2000—
+>
+> (a) section 59 (inciting terrorism overseas: England and Wales), other than an offence which is an offence by virtue of subsection (2)(c) of that section;
+>
+> (b) section 61 (inciting terrorism overseas: Scotland).
+>
+> **PART 6 — Other offences only in other parts of the United Kingdom punishable with imprisonment for life**
+>
+> **36** Culpable homicide (under the law of Scotland).
+>
+> **37** Abduction (under the law of Scotland).
+>
+> **38** Assault by explosive device (under the law of Scotland).
+>
+> **39** Assault to severe injury (under the law of Scotland).
+>
+> **40** Assault and poisoning (under the law of Scotland).
+>
+> **41** Poisoning (under the law of Scotland).
+>
+> **42** Robbery (under the law of Scotland).
+>
+> **43** Assault with intent to rob (under the law of Scotland).
+>
+> **44** Wilful fire-raising (under the law of Scotland).
+>
+> **45** Malicious mischief (under the law of Scotland).
+>
+> **46** An offence under section 1 of the Infant Life (Preservation) Act 1929 (child destruction).
+>
+> **47** An offence under section 1 of the Infanticide Act 1938 (infanticide).
+>
+> **48** An offence under any of the following provisions of the Firearms Act 1968—
+>
+> (a) section 16 (possession of firearm with intent to endanger life);
+>
+> (b) section 17(1) (use of firearm to resist arrest);
+>
+> (c) section 17(2) (possession of firearm at time of committing or being arrested for offence specified in Schedule 1 to that Act);
+>
+> (d) section 18 (carrying a firearm with criminal intent).
+>
+> **49** An offence under either of the following provisions of the Theft Act 1968—
+>
+> (a) section 8 (robbery or assault with intent to rob);
+>
+> (b) section 10 (aggravated burglary).
+>
+> **50** (1) An offence of arson under section 1 of the Criminal Damage Act 1971.
+>
+> (2) An offence under section 1(2) of that Act (destruction or damage of property with intent or recklessness as to endangerment of life) other than an offence of arson.
+>
+> **51** An offence under section 51 or 52 of the International Criminal Court Act 2001 (genocide, crimes against humanity, war crimes and related offences: England and Wales), other than one involving murder.
+>
+> **52** An offence under section 1 or 2 of the International Criminal Court (Scotland) Act 2001 (asp 13) (genocide, crimes against humanity, war crimes and related offences), other than one involving murder.
+>
+> **53** An offence under either of the following provisions of the Modern Slavery Act 2015—
+>
+> (a) section 1 (slavery, servitude and forced or compulsory labour);
+>
+> (b) section 2 (human trafficking).
+>
+> **54** An offence under either of the following provisions of the Human Trafficking and Exploitation (Scotland) Act 2015 (asp 12)—
+>
+> (a) section 1 (human trafficking);
+>
+> (b) section 4 (slavery, servitude and forced or compulsory labour).
+>
+> **PART 7 — Terrorism offences only in other parts of the United Kingdom punishable with imprisonment for more than two years (but not life)**
+>
+> **55** An offence under section 59 of the Terrorism Act 2000 (inciting terrorism overseas: England and Wales), in the case of an offence which is an offence by virtue of the reference in subsection (2)(c) of that section to an offence under section 23 of the Offences against the Person Act 1861.
+
+## SCHEDULE 4 — Serious terrorism offences: Scotland
+
+*Section 6*
+
+This is the Schedule to be inserted as Schedule 5ZA to the Criminal Procedure (Scotland) Act 1995—
+
+> **SCHEDULE 5ZA — Serious terrorism offences**
+>
+> *Section 205ZA*
+>
+> **PART 1 — Terrorism offences**
+>
+> **Terrorism Act 2000**
+>
+> **1** An offence under any of the following provisions of the Terrorism Act 2000—
+>
+> (a) section 54 (weapons training);
+>
+> (b) section 56 (directing a terrorist organisation);
+>
+> (c) section 61 (inciting terrorism overseas).
+>
+> **Terrorism Act 2006**
+>
+> **2** An offence under any of the following provisions of the Terrorism Act 2006—
+>
+> (a) section 5 (preparation of terrorist acts);
+>
+> (b) section 6 (training for terrorism);
+>
+> (c) section 9 (making or possession of radioactive device or material);
+>
+> (d) section 10 (misuse of radioactive device or material for terrorist purposes etc);
+>
+> (e) section 11 (terrorist threats relating to radioactive devices etc).
+>
+> **Ancillary offences**
+>
+> **3** (1) An attempt to commit an offence specified in the preceding paragraphs of this Part (“a listed offence”).
+>
+> (2) Conspiracy to commit a listed offence.
+>
+> (3) Incitement to commit a listed offence.
+>
+> (4) Aiding, abetting, counselling or procuring the commission of a listed offence.
+>
+> **PART 2 — Other offences (in case where aggravated by having a terrorist connection under section 31 of the counter-terrorism act 2008)**
+>
+> **Common law offences**
+>
+> **4** Culpable homicide.
+>
+> **5** Abduction.
+>
+> **6** Assault by explosive device.
+>
+> **7** Assault to severe injury.
+>
+> **8** Assault and poisoning.
+>
+> **9** Poisoning.
+>
+> **10** Robbery.
+>
+> **11** Assault with intent to rob.
+>
+> **12** Wilful fire-raising.
+>
+> **13** Malicious mischief.
+>
+> **Explosive Substances Act 1883**
+>
+> **14** An offence under any of the following provisions of the Explosive Substances Act 1883—
+>
+> (a) section 2 (causing explosion likely to endanger life or property);
+>
+> (b) section 3 (attempt to cause explosion, or making or keeping explosive with intent to endanger life or property);
+>
+> (c) section 4 (making or possession of explosive under suspicious circumstances);
+>
+> (d) section 5 (punishment of accessories to offences of causing or attempting to cause explosions or making or possessing explosives).
+>
+> **Firearms Act 1968**
+>
+> **15** An offence under any of the following provisions of the Firearms Act 1968—
+>
+> (a) section 16 (possession of firearm with intent to endanger life);
+>
+> (b) section 17(1) (use of firearm to resist arrest);
+>
+> (c) section 17(2) (possession of firearm at time of committing or being arrested for offence specified in Schedule 1 to that Act);
+>
+> (d) section 18 (carrying a firearm with criminal intent).
+>
+> **Biological Weapons Act 1974**
+>
+> **16** An offence under section 1 of the Biological Weapons Act 1974 (developing certain biological agents and toxins or biological weapons).
+>
+> **Taking of Hostages Act 1982**
+>
+> **17** An offence under section 1 of the Taking of Hostages Act 1982 (hostage-taking).
+>
+> **Aviation Security Act 1982**
+>
+> **18** An offence under any of the following provisions of the Aviation Security Act 1982—
+>
+> (a) section 1 (hijacking);
+>
+> (b) section 2 (destroying, damaging or endangering safety of aircraft);
+>
+> (c) section 3 (other acts endangering or likely to endanger safety of aircraft);
+>
+> (d) section 6(2) (inducing or assisting the commission of offences relating to safety of aircraft).
+>
+> **Nuclear Material (Offences) Act 1983**
+>
+> **19** An offence under either of the following provisions of the Nuclear Material (Offences) Act 1983—
+>
+> (a) section 1B (offences relating to damage to the environment);
+>
+> (b) section 2 (preparatory acts and threats).
+>
+> **Criminal Justice Act 1988**
+>
+> **20** An offence under section 134 of the Criminal Justice Act 1988 (torture).
+>
+> **Aviation and Maritime Security Act 1990**
+>
+> **21** An offence under any of the following provisions of the Aviation and Maritime Security Act 1990—
+>
+> (a) section 1 (endangering safety at aerodromes);
+>
+> (b) section 9 (hijacking of ships);
+>
+> (c) section 10 (seizing or exercising control of fixed platforms);
+>
+> (d) section 11 (destroying ships or fixed platforms or endangering their safety);
+>
+> (e) section 12 (other acts endangering or likely to endanger safe navigation);
+>
+> (f) section 13 (offences involving threats);
+>
+> (g) section 14(4) (inducing or assisting the commission of offences relating to hijacking of ships, or destroying ships or fixed platforms or endangering their safety).
+>
+> **Channel Tunnel (Security) Order 1994**
+>
+> **22** An offence under Part 2 of the Channel Tunnel (Security) Order 1994 (S.I. 1994/570) (offences relating to Channel Tunnel trains and the tunnel system).
+>
+> **Chemical Weapons Act 1996**
+>
+> **23** An offence under either of the following provisions of the Chemical Weapons Act 1996—
+>
+> (a) section 2 (use etc of chemical weapons);
+>
+> (b) section 11 (premises or equipment used for producing chemical weapons).
+>
+> **Anti-terrorism, Crime and Security Act 2001**
+>
+> **24** An offence under either of the following provisions of the Anti-terrorism, Crime and Security Act 2001—
+>
+> (a) section 47 (use etc of nuclear weapons);
+>
+> (b) section 50 (assisting or inducing certain weapons-related acts overseas).
+>
+> **International Criminal Court (Scotland) Act 2001 (asp 13)**
+>
+> **25** An offence under section 1 or 2 of the International Criminal Court (Scotland) Act 2001 (genocide, crimes against humanity, war crimes and related offences), other than one involving murder.
+>
+> **Human Trafficking and Exploitation (Scotland) Act 2015 (asp 12)**
+>
+> **26** An offence under either of the following provisions of the Human Trafficking and Exploitation (Scotland) Act 2015—
+>
+> (a) section 1 (human trafficking);
+>
+> (b) section 4 (slavery, servitude and forced or compulsory labour).
+>
+> **Space Industry Act 2018**
+>
+> **27** An offence under any of the following provisions of Schedule 4 to the Space Industry Act 2018—
+>
+> (a) paragraph 1 (hijacking of spacecraft);
+>
+> (b) paragraph 2 (destroying, damaging or endangering the safety of spacecraft);
+>
+> (c) paragraph 3 (other acts endangering or likely to endanger safety of spacecraft);
+>
+> (d) paragraph 4 (endangering safety at spaceports).
+>
+> **Ancillary offences**
+>
+> **28** (1) An attempt to commit an offence specified in the preceding paragraphs of this Part (“a listed offence”).
+>
+> (2) Conspiracy to commit a listed offence.
+>
+> (3) Incitement to commit a listed offence.
+>
+> (4) Aiding, abetting, counselling or procuring the commission of a listed offence.
+>
+> **29** (1) An attempt to commit murder.
+>
+> (2) Conspiracy to commit murder.
+>
+> (3) Incitement to commit murder.
+
+## SCHEDULE 5 — Terrorism offences attracting extended sentence: Scotland
+
+*Section 19*
+
+This is the Schedule to be inserted as Schedule 5ZC to the Criminal Procedure (Scotland) Act 1995—
+
+> **SCHEDULE 5ZC — Terrorism offences**
+>
+> *Section 210A*
+>
+> **PART 1 — Terrorism offences**
+>
+> **Terrorism Act 2000**
+>
+> **1** An offence under any of the following provisions of the Terrorism Act 2000—
+>
+> (a) section 11 (membership of a proscribed organisation);
+>
+> (b) section 12 (inviting or expressing support for a proscribed organisation);
+>
+> (c) section 54 (weapons training);
+>
+> (d) section 56 (directing a terrorist organisation);
+>
+> (e) section 57 (possession of article for terrorist purposes);
+>
+> (f) section 58 (collection of information likely to be of use to a terrorist);
+>
+> (g) section 58A (publishing information about members of the armed forces etc);
+>
+> (h) section 58B (entering or remaining in a designated area);
+>
+> (i) section 61 (inciting terrorism overseas).
+>
+> **Anti-Terrorism, Crime and Security Act 2001**
+>
+> **2** An offence under section 113 of the Anti-Terrorism, Crime and Security Act 2001 (use of noxious substances to harm or intimidate).
+>
+> **Terrorism Act 2006**
+>
+> **3** An offence under any of the following provisions of the Terrorism Act 2006—
+>
+> (a) section 1 (encouragement of terrorism);
+>
+> (b) section 2 (dissemination of terrorist publications);
+>
+> (c) section 5 (preparation of terrorist acts);
+>
+> (d) section 6 (training for terrorism);
+>
+> (e) section 8 (attendance at a place used for terrorist training);
+>
+> (f) section 9 (making or possession of radioactive device or material);
+>
+> (g) section 10 (misuse of radioactive device or material for terrorist purposes etc);
+>
+> (h) section 11 (terrorist threats relating to radioactive devices etc).
+>
+> **Ancillary offences**
+>
+> **4** (1) An attempt to commit an offence specified in the preceding paragraphs of this Part (“a listed offence”).
+>
+> (2) Conspiracy to commit a listed offence.
+>
+> (3) Incitement to commit a listed offence.
+>
+> (4) Aiding, abetting, counselling or procuring the commission of a listed offence.
+>
+> **PART 2 — Other offences (in case where aggravated by having a terrorist connection under section 31 of the counter-terrorism act 2008)**
+>
+> **Common law offences**
+>
+> **5** Culpable homicide.
+>
+> **6** Abduction.
+>
+> **7** Assault by explosive device.
+>
+> **8** Assault to severe injury.
+>
+> **9** Assault and poisoning.
+>
+> **10** Poisoning.
+>
+> **11** Robbery.
+>
+> **12** Assault with intent to rob.
+>
+> **13** Wilful fire-raising.
+>
+> **14** Malicious mischief.
+>
+> **Explosive Substances Act 1883**
+>
+> **15** An offence under any of the following provisions of the Explosive Substances Act 1883—
+>
+> (a) section 2 (causing explosion likely to endanger life or property);
+>
+> (b) section 3 (attempt to cause explosion, or making or keeping explosive with intent to endanger life or property);
+>
+> (c) section 4 (making or possession of explosive under suspicious circumstances);
+>
+> (d) section 5 (punishment of accessories to offences of causing or attempting to cause explosions or making or possessing explosives).
+>
+> **Firearms Act 1968**
+>
+> **16** An offence under any of the following provisions of the Firearms Act 1968—
+>
+> (a) section 16 (possession of firearm with intent to endanger life);
+>
+> (b) section 17(1) (use of firearm to resist arrest);
+>
+> (c) section 17(2) (possession of firearm at time of committing or being arrested for offence specified in Schedule 1 to that Act);
+>
+> (d) section 18 (carrying a firearm with criminal intent).
+>
+> **Biological Weapons Act 1974**
+>
+> **17** An offence under section 1 of the Biological Weapons Act 1974 (developing certain biological agents and toxins or biological weapons).
+>
+> **Taking of Hostages Act 1982**
+>
+> **18** An offence under section 1 of the Taking of Hostages Act 1982 (hostage-taking).
+>
+> **Aviation Security Act 1982**
+>
+> **19** An offence under any of the following provisions of the Aviation Security Act 1982—
+>
+> (a) section 1 (hijacking);
+>
+> (b) section 2 (destroying, damaging or endangering safety of aircraft);
+>
+> (c) section 3 (other acts endangering or likely to endanger safety of aircraft);
+>
+> (d) section 6(2) (inducing or assisting the commission of offences relating to safety of aircraft).
+>
+> **Nuclear Material (Offences) Act 1983**
+>
+> **20** An offence under either of the following provisions of the Nuclear Material (Offences) Act 1983—
+>
+> (a) section 1B (offences relating to damage to the environment);
+>
+> (b) section 2 (preparatory acts and threats).
+>
+> **Criminal Justice Act 1988**
+>
+> **21** An offence under section 134 of the Criminal Justice Act 1988 (torture).
+>
+> **Aviation and Maritime Security Act 1990**
+>
+> **22** An offence under any of the following provisions of the Aviation and Maritime Security Act 1990—
+>
+> (a) section 1 (endangering safety at aerodromes);
+>
+> (b) section 9 (hijacking of ships);
+>
+> (c) section 10 (seizing or exercising control of fixed platforms);
+>
+> (d) section 11 (destroying ships or fixed platforms or endangering their safety);
+>
+> (e) section 12 (other acts endangering or likely to endanger safe navigation);
+>
+> (f) section 13 (offences involving threats);
+>
+> (g) section 14(4) (inducing or assisting the commission of offences relating to hijacking of ships, or destroying ships or fixed platforms or endangering their safety).
+>
+> **Channel Tunnel (Security) Order 1994**
+>
+> **23** An offence under Part 2 of the Channel Tunnel (Security) Order 1994 (S.I. 1994/570) (offences relating to Channel Tunnel trains and the tunnel system).
+>
+> **Chemical Weapons Act 1996**
+>
+> **24** An offence under either of the following provisions of the Chemical Weapons Act 1996—
+>
+> (a) section 2 (use etc of chemical weapons);
+>
+> (b) section 11 (premises or equipment used for producing chemical weapons).
+>
+> **Anti-terrorism, Crime and Security Act 2001**
+>
+> **25** An offence under either of the following provisions of the Anti-terrorism, Crime and Security Act 2001—
+>
+> (a) section 47 (use etc of nuclear weapons);
+>
+> (b) section 50 (assisting or inducing certain weapons-related acts overseas).
+>
+> **International Criminal Court (Scotland) Act 2001 (asp 13)**
+>
+> **26** An offence under section 1 or 2 of the International Criminal Court (Scotland) Act 2001 (genocide, crimes against humanity, war crimes and related offences), other than one involving murder.
+>
+> **Human Trafficking and Exploitation (Scotland) Act 2015 (asp 12)**
+>
+> **27** An offence under either of the following provisions of the Human Trafficking and Exploitation (Scotland) Act 2015—
+>
+> (a) section 1 (human trafficking);
+>
+> (b) section 4 (slavery, servitude and forced or compulsory labour).
+>
+> **Space Industry Act 2018**
+>
+> **28** An offence under any of the following provisions of Schedule 4 to the Space Industry Act 2018—
+>
+> (a) paragraph 1 (hijacking of spacecraft);
+>
+> (b) paragraph 2 (destroying, damaging or endangering the safety of spacecraft);
+>
+> (c) paragraph 3 (other acts endangering or likely to endanger safety of spacecraft);
+>
+> (d) paragraph 4 (endangering safety at spaceports).
+>
+> **Ancillary offences**
+>
+> **29** (1) An attempt to commit an offence specified in the preceding paragraphs of this Part (“a listed offence”).
+>
+> (2) Conspiracy to commit a listed offence.
+>
+> (3) Incitement to commit a listed offence.
+>
+> (4) Aiding, abetting, counselling or procuring the commission of a listed offence.
+>
+> **30** (1) An attempt to commit murder.
+>
+> (2) Conspiracy to commit murder.
+>
+> (3) Incitement to commit murder.
+
+## SCHEDULE 6 — Offences attracting special custodial sentence for offenders of particular concern: England and Wales
+
+*Section 21*
+
+This is the Schedule to be substituted for Schedule 13 to the Sentencing Code—
+
+> **SCHEDULE 13 — Special sentence for offenders of particular concern: offences**
+>
+> *Sections 252A, 265 and 278*
+>
+> **PART 1 — Offences involving or connected with terrorism**
+>
+> **Terrorism Act 2000**
+>
+> **1** An offence under any of the following provisions of the Terrorism Act 2000—
+>
+> (a) section 11 (membership of a proscribed organisation);
+>
+> (b) section 12 (inviting or expressing support for a proscribed organisation);
+>
+> (c) section 15 (fund-raising);
+>
+> (d) section 16 (use of money or property for terrorist purposes);
+>
+> (e) section 17 (involvement in terrorist funding arrangements);
+>
+> (f) section 17A (insuring payments made in response to terrorist threats);
+>
+> (g) section 18 (laundering of terrorist property);
+>
+> (h) section 19 (failure to disclose professional belief or suspicion about terrorist offences);
+>
+> (i) section 21A (failure in regulated sectors to disclose knowledge or suspicion about terrorist offences);
+>
+> (j) section 38B (failure to disclose information about acts of terrorism);
+>
+> (k) section 39 (disclosure of information prejudicial to a terrorist investigation etc);
+>
+> (l) section 54 (weapons training);
+>
+> (m) section 56 (directing terrorist organisation);
+>
+> (n) section 57 (possession of article for terrorist purposes);
+>
+> (o) section 58 (collection of information likely to be of use to a terrorist);
+>
+> (p) section 58A (publishing information about members of the armed forces etc);
+>
+> (q) section 58B (entering or remaining in a designated area);
+>
+> (r) section 59 (inciting terrorism overseas).
+>
+> **Anti-terrorism, Crime and Security Act 2001**
+>
+> **2** An offence under section 113 of the Anti-terrorism, Crime and Security Act 2001 (use of noxious substance or thing to cause harm or intimidate).
+>
+> **Terrorism Act 2006**
+>
+> **3** An offence under any of the following provisions of the Terrorism Act 2006—
+>
+> (a) section 1 (encouragement of terrorism);
+>
+> (b) section 2 (dissemination of terrorist publications);
+>
+> (c) section 5 (preparation of terrorist acts);
+>
+> (d) section 6 (training for terrorism);
+>
+> (e) section 8 (attendance at a place used for terrorist training);
+>
+> (f) section 9 (making or possession of radioactive device or material);
+>
+> (g) section 10 (misuse of radioactive device or material for terrorist purposes etc);
+>
+> (h) section 11 (terrorist threats relating to radioactive devices etc).
+>
+> **Counter-Terrorism Act 2008**
+>
+> **4** An offence under section 54 of the Counter-Terrorism Act 2008 (breach of police notification requirements etc).
+>
+> **Terrorism Prevention and Investigation Measures 2011**
+>
+> **5** An offence under section 23 of the Terrorism Prevention and Investigation Measures Act 2011 (breach of notices imposing terrorism prevention and investigation measures).
+>
+> **Counter-Terrorism and Security Act 2015**
+>
+> **6** An offence under section 10 of the Counter-Terrorism and Security Act 2015 (breach of temporary exclusion order).
+>
+> **Inchoate offences**
+>
+> **7** An inchoate offence in relation to an offence specified in any of the preceding paragraphs of this Part of this Schedule.
+>
+> **Abolished offences**
+>
+> **8** (1) An abolished offence in relation to an offence specified in any of the preceding paragraphs of this Part of this Schedule.
+>
+> (2) “Abolished offence”, in relation to an offence (“the current offence”), means an offence that—
+>
+> (a) was abolished before the relevant date, and
+>
+> (b) would, if committed on the day on which the offender is or was convicted, have constituted the current offence.
+>
+> (3) The relevant date is 13 April 2015, unless sub-paragraph (4) or (5) applies.
+>
+> (4) If the current offence is within—
+>
+> (a) sub-paragraph (a), (b), (o), (p) or (q) of paragraph 1,
+>
+> (b) sub-paragraph (a), (b) or (e) of paragraph 3, or
+>
+> (c) paragraph 7 by virtue of any provision referred to in paragraph (a) or (b),
+>
+> the relevant date is 12 April 2019.
+>
+> (5) If the current offence is within—
+>
+> (a) sub-paragraphs (c) to (k) of paragraph 1,
+>
+> (b) paragraph 4, 5 or 6, or
+>
+> (c) paragraph 7 by virtue of any provision referred to in paragraph (a) or (b),
+>
+> the relevant date is the date on which section 21 of the Counter-Terrorism and Sentencing Act 2021 comes into force.
+>
+> **Offences connection with terrorism**
+>
+> **9** An offence, other than one for which the sentence is fixed by law as life imprisonment, which is determined to have a terrorist connection under section 69.
+>
+> **PART 2 — Sexual offences**
+>
+> **Sexual Offences Act 2003**
+>
+> **10** An offence under either of the following provisions of the Sexual Offences Act 2003—
+>
+> (a) section 5 (rape of a child under 13);
+>
+> (b) section 6 (assault of a child under 13 by penetration).
+>
+> **Inchoate offences**
+>
+> **11** An inchoate offence in relation to an offence specified paragraph 10.
+>
+> **Abolished offences**
+>
+> **12** (1) An abolished offence in relation to an offence specified in either of the preceding paragraphs of this Part of this Schedule.
+>
+> (2) “Abolished offence”, in relation to an offence (“the current offence”), means an offence that—
+>
+> (a) was abolished before 13 April 2015, and
+>
+> (b) would, if committed on the day on which the offender is or was convicted, have constituted the current offence.
+
+## SCHEDULE 7 — Offences attracting terrorism sentence with fixed licence period: Scotland
+
+*Section 23*
+
+This is the Schedule to be inserted as Schedule 5ZB to the Criminal Procedure (Scotland) Act 1995—
+
+> **SCHEDULE 5ZB — Terrorism Offences**
+>
+> *Section 205ZC*
+>
+> **Terrorism Act 2000**
+>
+> **1** An offence under any of the following provisions of the Terrorism Act 2000—
+>
+> (a) section 11 (membership of a proscribed organisation);
+>
+> (b) section 12 (inviting or expressing support for a proscribed organisation);
+>
+> (c) section 15 (fund-raising);
+>
+> (d) section 16 (use of money or property for terrorist purposes);
+>
+> (e) section 17 (involvement in terrorist funding arrangements);
+>
+> (f) section 17A (insuring payments made in response to terrorist threats);
+>
+> (g) section 18 (laundering of terrorist property);
+>
+> (h) section 19 (failure to disclose professional belief or suspicion about terrorist offences);
+>
+> (i) section 21A (failure in regulated sectors to disclose knowledge or suspicion about terrorist offences);
+>
+> (j) section 38B (failure to disclose information about acts of terrorism);
+>
+> (k) section 39 (disclosure of information prejudicial to a terrorist investigation etc);
+>
+> (l) section 54 (weapons training);
+>
+> (m) section 56 (directing a terrorist organisation);
+>
+> (n) section 57 (possession of article for terrorist purposes);
+>
+> (o) section 58 (collection of information likely to be of use to a terrorist);
+>
+> (p) section 58A (publishing information about members of the armed forces etc);
+>
+> (q) section 58B (entering or remaining in a designated area);
+>
+> (r) section 61 (inciting terrorism overseas).
+>
+> **Anti-terrorism, Crime and Security Act 2001**
+>
+> **2** An offence under section 113 of the Anti-terrorism, Crime and Security Act 2001 (use of noxious substances to harm or intimidate).
+>
+> **Terrorism Act 2006**
+>
+> **3** An offence under any of the following provisions of the Terrorism Act 2006—
+>
+> (a) section 1 (encouragement of terrorism);
+>
+> (b) section 2 (dissemination of terrorist publications);
+>
+> (c) section 5 (preparation of terrorist acts);
+>
+> (d) section 6 (training for terrorism);
+>
+> (e) section 8 (attendance at a place used for terrorist training);
+>
+> (f) section 9 (making or possession of radioactive device or material);
+>
+> (g) section 10 (misuse of radioactive device or material for terrorist purposes etc);
+>
+> (h) section 11 (terrorist threats relating to radioactive devices etc).
+>
+> **Counter-Terrorism Act 2008**
+>
+> **4** An offence under section 54 of the Counter-Terrorism Act 2008 (breach of police notification requirements etc).
+>
+> **Terrorism Prevention and Investigation Measures Act 2011**
+>
+> **5** An offence under section 23 of the Terrorism Prevention and Investigation Measures Act 2011 (breach of notices imposing terrorism prevention and investigation measures).
+>
+> **Counter-Terrorism and Security Act 2015**
+>
+> **6** An offence under section 10 of the Counter-Terrorism and Security Act 2015 (breach of temporary exclusion order).
+>
+> **Ancillary offences**
+>
+> **7** (1) An attempt to commit an offence specified in the preceding paragraphs of this Part (“a listed offence”).
+>
+> (2) Conspiracy to commit a listed offence.
+>
+> (3) Incitement to commit a listed offence.
+>
+> (4) Aiding, abetting, counselling or procuring the commission of a listed offence.
+>
+> **Abolished offences**
+>
+> **8** An offence that—
+>
+> (a) was abolished before the coming into force of this Schedule, and
+>
+> (b) if committed on the day on which this Schedule came into force, would have constituted an offence specified in the preceding paragraphs of this Part of this Schedule.
+
+## SCHEDULE 8 — Corresponding provision about sentencing under service law (prospective)
+
+*Section 25*
+
+### PART 1 — Serious terrorism sentences etc (prospective)
+
+**1** The Armed Forces Act 2006 is amended as follows.
+
+#### Serious terrorism sentence for services offences (prospective)
+
+**2** After section 219 insert—
+
+> **Serious terrorism sentence: offenders aged 18 or over**
+>
+> **219ZA** (1) This section applies where—
+>
+> (a) a person is convicted by the Court Martial of a serious terrorism offence (see subsection (11));
+>
+> (b) the offence was committed on or after the day on which paragraph 2 of Schedule 8 to the Counter-Terrorism and Sentencing Act 2021 came into force;
+>
+> (c) the offender was aged 18 or over when the offence was committed;
+>
+> (d) the court is of the required opinion (see section 223(1A));
+>
+> (e) the court does not impose a sentence of custody for life or (as the case may be) a sentence of imprisonment for life; and
+>
+> (f) the risk of multiple deaths condition is met.
+>
+> (2) The risk of multiple deaths condition is that the court is of the opinion that—
+>
+> (a) either—
+>
+> (i) the serious terrorism offence, or
+>
+> (ii) the combination of the offence and one or more offences associated with it,
+>
+> was very likely to result in or contribute to (whether directly or indirectly) the deaths of at least two people as a result of an act of terrorism (within the meaning of section 1 of the Terrorism Act 2000), and
+>
+> (b) the offender was, or ought to have been, aware of that likelihood.
+>
+> (3) It is irrelevant for the purposes of determining whether the risk of multiple deaths condition is met whether or not any deaths actually occurred.
+>
+> (4) Where the offender is aged under 21 when convicted of the serious terrorism offence, section 268B(2) of the Sentencing Code (duty to impose a serious terrorism sentence of detention in young offender institution under section 268A) applies in relation to the offender.
+>
+> (5) Section 268C of the Sentencing Code applies where a court is required to impose a serious terrorism sentence under section 268A by virtue of this section.
+>
+> (6) In its application to an offender by virtue of subsection (5)—
+>
+> (a) section 268C(2)(b) of the Sentencing Code has effect as if—
+>
+> (i) for “section 231(2)” there were substituted “ section 261(2) of the Armed Forces Act 2006 ”, and
+>
+> (ii) after “section 265” there were inserted “ passed as a result of section 224A of that Act ”, and
+>
+> (b) section 268C(3) of the Code has effect as if after “other specified offences” there were inserted “ or further acts or omissions that would be serious terrorism offences or other specified offences if committed in England and Wales ”.
+>
+> (7) Where the offender is aged 21 or over when convicted of the serious terrorism offence, section 282B(2) of the Sentencing Code (duty to impose serious terrorism sentence of imprisonment under section 282A) applies in relation to the offender.
+>
+> (8) Section 282C of the Sentencing Code applies where a court is required to impose a serious terrorism sentence under section 282A by virtue of this section.
+>
+> (9) In its application to an offender by virtue of subsection (8)—
+>
+> (a) section 282C(2)(b) of the Sentencing Code has effect as if—
+>
+> (i) for “section 231(2)” there were substituted “ section 261(2) of the Armed Forces Act 2006 ”, and
+>
+> (ii) after “section 278” there were inserted “ passed as a result of section 224A of that Act ”, and
+>
+> (b) section 282C(3) of the Code has effect as if, after “other specified offences” there were inserted “ or further acts or omissions that would be serious terrorism offences or other specified offences if committed in England and Wales ”.
+>
+> (10) Where an offence is found to have been committed over a period of 2 or more days, or at some time during a period of 2 or more days, it must be taken for the purposes of subsection (1) to have been committed on the last of those days.
+>
+> (11) In this section “serious terrorism offence” means—
+>
+> (a) an offence under section 42 (criminal conduct) as respects which the corresponding offence under the law of England and Wales is specified in Part 1 of Schedule 17A to the Sentencing Code, or
+>
+> (b) an offence under that section—
+>
+> (i) as respects which the corresponding offence under the law of England and Wales is specified in Part 2 of that Schedule, and
+>
+> (ii) which has been determined to have a terrorist connection under section 69 of the Code as applied by section 238(6) of this Act.
+
+#### Reduction in appropriate custodial term for guilty plea (prospective)
+
+**3** In section 239 (reduction in sentence for guilty plea), after subsection (3) insert—
+
+> (3A) Subsection (3B) applies in the case of an offence the sentence for which, as a result of section 219ZA(4) or (7) of this Act (serious terrorism sentences) falls to be imposed under section 268A or 282A of the Sentencing Code.
+>
+> (3B) Nothing in section 268C(2) or, as the case may be, 282C(2) of the Sentencing Code prevents the court, after taking into account any matter referred to in subsection (2) above, from imposing as the appropriate custodial term a term of any length which is not less than 80% of the term which would otherwise be required.
+
+#### Minimum term orders for serious terrorism offenders in cases of service offences (prospective)
+
+**4** In section 261A (life sentences: further provision), in subsection (3)—
+
+(a) the words from “subsection (2)(c)(i)” to the end become paragraph (a),
+
+(b) at the end insert—
+
+> (b) subsection (4) has effect as if, after “by section 268B(2) or 282B(2)” there were inserted “ as a result of section 219ZA of the Armed Forces Act 2006 ”;
+>
+> (c) subsection (6)(b) has effect as if—
+>
+> (i) after “section 268B(2) or 282B(2)” there were inserted “ as a result of section 219ZA of the Armed Forces Act 2006 ”;
+>
+> (ii) for sub-paragraphs (i) and (ii) there were substituted—
+>
+> > (i) section 239 of that Act, and
+> >
+> > (ii) section 304C of that Act
+
+.
+
+#### Reduction in appropriate custodial term for assistance to prosecution (prospective)
+
+**5** In section 304C (to be inserted by the Armed Forces Act 2016) (reduction in sentence), after subsection (5) insert—
+
+> (5A) The power of a court to act under subsection (2) is not affected by section 268C(2) or 282C(2) of the Sentencing Code as applied by section 219ZA(5) or (8) of this Act (minimum appropriate custodial term for serious terrorism sentences) so far as the power relates to determining the appropriate custodial term.
+
+### PART 2 — Offences attracting special custodial sentence (prospective)
+
+**6** In section 224A of the Armed Forces Act 2006 (special custodial sentence for offenders of particular concern)—
+
+(a) in subsection (1)—
+
+(i) in paragraph (a), omit “under section 42 (criminal conduct)”;
+
+(ii) for paragraph (b) substitute—
+
+> (b) the offence—
+>
+> (i) is an offence under section 42 (criminal conduct) as respects which the corresponding offence under the law of England and Wales is listed in Schedule 13 to the Sentencing Code (except in paragraph 9 of that Schedule), or
+>
+> (ii) is an offence, other than one for which the sentence is fixed by law as life imprisonment, that is determined to have a terrorist connection under section 69 of the Sentencing Code (as applied by section 238(6)),
+
+;
+
+(b) omit subsection (4).
+
+### PART 3 — Special custodial sentence for terrorist offenders of particular concern aged under 18 at time of offence (prospective)
+
+**7** The Armed Forces Act 2006 is amended as follows.
+
+**8** (1) Section 224A (special custodial sentence for offenders of particular concern) is amended as follows.
+
+(2) In the heading, at the end insert “ aged 18 or over ”.
+
+(3) In subsection (1)—
+
+(a) in paragraph (a), after “person” insert “ aged 18 or over ”;
+
+(b) omit paragraph (c) (but not the final “and”).
+
+(4) After subsection (1) insert—
+
+> (1A) But this section does not apply if—
+>
+> (a) the offender was aged under 18 when the offence was committed, and
+>
+> (b) the offence—
+>
+> (i) was committed before the day on which paragraph 8 of Schedule 8 to the Counter-Terrorism and Sentencing Act 2021 came into force, or
+>
+> (ii) is an offence under section 42 as respects which the corresponding offence under the law of England and Wales is listed in Part 2 of Schedule 13 to the Sentencing Code (sexual offences).
+
+**9** After section 224A insert—
+
+> **Special sentence of detention for terrorist offenders of particular concern aged under 18**
+>
+> **224B** (1) Subsections (3) and (4) apply where—
+>
+> (a) a person aged under 18 is convicted by the Court Martial of an offence committed on or after day on which paragraph 9 of Schedule 8 to the Counter-Terrorism and Sentencing Act 2021 comes into force,
+>
+> (b) the offence—
+>
+> (i) is an offence under section 42 (criminal conduct) as respects which the corresponding offence under the law of England and Wales is listed in Part 1 of Schedule 13 to the Sentencing Code (except in paragraph 9 of that Schedule) (terrorism offences), or
+>
+> (ii) is an offence, other than one for which the sentence is fixed by law as life imprisonment, that is determined to have a terrorist connection under section 69 of the Sentencing Code (as applied by section 238(6)),
+>
+> (c) the court does not impose either of the following for the offence (or for an offence associated with it)—
+>
+> (i) a sentence of detention for life under section 209, or
+>
+> (ii) an extended sentence of detention under section 254 of the Sentencing Code (as applied by section 221A of this Act), and
+>
+> (d) the court would, apart from this section, impose a custodial sentence (see, in particular, section 260(2)).
+>
+> (2) In determining for the purposes of subsection (1)(d) whether it would impose a custodial sentence, the court must disregard any restriction on its power to impose such a sentence by reference to the age of the offender.
+>
+> (3) The court must impose a sentence of detention under this section.
+>
+> (4) Subsections (4) and (5) of section 252A of the Sentencing Code apply in relation to the term of the sentence.
+>
+> (5) Where an offence is found to have been committed over a period of 2 or more days, or at some time during a period of 2 or more days, it must be taken for the purposes of subsection (1) to have been committed on the last of those days.
+
+## SCHEDULE 9 — Offences carrying restricted eligibility of terrorist prisoners for release on licence: England and Wales
+
+*Section 27*
+
+This is the Schedule to be substituted for Schedule 19ZA to the Criminal Justice Act 2003—
+
+> **SCHEDULE 19ZA — Offences carrying restricted eligibility of terrorist prisoners for release on licence**
+>
+> *Section 247A*
+>
+> **PART 1 — Terrorism offences punishable with imprisonment for life**
+>
+> **1** An offence under any of the following provisions of the Terrorism Act 2000—
+>
+> (a) section 54 (weapons training);
+>
+> (b) section 56 (directing a terrorist organisation);
+>
+> (c) section 59 (inciting terrorism overseas: England and Wales), other than an offence which is an offence by virtue of subsection (2)(c) of that section;
+>
+> (d) section 60 (inciting terrorism overseas: Northern Ireland), other than an offence which is an offence by virtue of subsection (2)(c) of that section;
+>
+> (e) section 61 (inciting terrorism overseas: Scotland).
+>
+> **2** An offence under any of the following provisions of the Terrorism Act 2006—
+>
+> (a) section 5 (preparation of terrorist acts);
+>
+> (b) section 6 (training for terrorism);
+>
+> (c) section 9 (making or possession of radioactive device or material);
+>
+> (d) section 10 (misuse of radioactive device or material for terrorist purposes etc);
+>
+> (e) section 11 (terrorist threats relating to radioactive devices etc).
+>
+> **3** (1) An attempt to commit an offence specified in a preceding paragraph of this Part of this Schedule (“a listed offence”).
+>
+> (2) Conspiracy to commit a listed offence.
+>
+> (3) An offence under Part 2 of the Serious Crime Act 2007 in relation to which a listed offence is the offence (or one of the offences) which the person intended or believed would be committed.
+>
+> (4) Incitement to commit a listed offence.
+>
+> (5) Aiding, abetting, counselling or procuring the commission of a listed offence.
+>
+> **4** An offence that—
+>
+> (a) was abolished before the coming into force of this Schedule, and
+>
+> (b) if committed on the day on which this Schedule came into force, would have constituted an offence specified in any of the preceding paragraphs of this Part of this Schedule.
+>
+> **PART 2 — Terrorism offences punishable with imprisonment for more than two years (but not life)**
+>
+> **5** An offence under any of the following provisions of the Terrorism Act 2000—
+>
+> (a) section 11 (membership of a proscribed organisation);
+>
+> (b) section 12 (inviting or expressing support for a proscribed organisation);
+>
+> (c) section 15 (fund-raising);
+>
+> (d) section 16 (use of money or property for terrorist purposes);
+>
+> (e) section 17 (involvement in terrorist funding arrangements);
+>
+> (f) section 17A (insuring payments made in response to terrorist threats);
+>
+> (g) section 18 (laundering of terrorist property);
+>
+> (h) section 19 (failure to disclose professional belief or suspicion about terrorist offences);
+>
+> (i) section 21A (failure in regulated sectors to disclose knowledge or suspicion about terrorist offences);
+>
+> (j) section 38B (failure to disclose information about acts of terrorism);
+>
+> (k) section 39 (disclosure of information prejudicial to a terrorist investigation etc);
+>
+> (l) section 57 (possession of article for terrorist purposes);
+>
+> (m) section 58 (collection of information likely to be of use to a terrorist);
+>
+> (n) section 58A (publishing information about members of the armed forces etc);
+>
+> (o) section 58B (entering or remaining in a designated area);
+>
+> (p) section 59 (inciting terrorism overseas: England and Wales), in the case of an offence which is an offence by virtue of the reference in subsection (2)(c) of that section to an offence under section 23 of the Offences against the Person Act 1861;
+>
+> (q) section 60 (inciting terrorism overseas: Northern Ireland), in the case of an offence which is an offence by virtue of the reference in subsection (2)(c) of that section to an offence under section 23 of the Offences against the Person Act 1861.
+>
+> **6** An offence under section 113 of the Anti-terrorism, Crime and Security Act 2001 (use of noxious substances to harm or intimidate).
+>
+> **7** An offence under any of the following provisions of the Terrorism Act 2006—
+>
+> (a) section 1 (encouragement of terrorism);
+>
+> (b) section 2 (dissemination of terrorist publications);
+>
+> (c) section 8 (attendance at a place used for terrorist training).
+>
+> **8** An offence under section 54 of the Counter-Terrorism Act 2008 (breach of police notification requirements etc).
+>
+> **9** An offence under section 23 of the Terrorism Prevention and Investigation Measures Act 2011 (breach of notices imposing terrorism prevention and investigation measures).
+>
+> **10** An offence under section 10 of the Counter-Terrorism and Security Act 2015 (breach of temporary exclusion order).
+>
+> **11** (1) An attempt to commit an offence specified in a preceding paragraph of this Part of this Schedule (“a listed offence”).
+>
+> (2) Conspiracy to commit a listed offence.
+>
+> (3) An offence under Part 2 of the Serious Crime Act 2007 in relation to which a listed offence is the offence (or one of the offences) which the person intended or believed would be committed.
+>
+> (4) Incitement to commit a listed offence.
+>
+> (5) Aiding, abetting, counselling or procuring the commission of a listed offence.
+>
+> **12** An offence that—
+>
+> (a) was abolished before the coming into force of this Schedule, and
+>
+> (b) if committed on the day on which this Schedule came into force, would have constituted an offence specified in any of the preceding paragraphs of this Part of this Schedule.
+>
+> **PART 3 — Other offences punishable with imprisonment for life**
+>
+> **13** Manslaughter.
+>
+> **14** Culpable homicide (under the law of Scotland).
+>
+> **15** Kidnapping.
+>
+> **16** False imprisonment.
+>
+> **17** Abduction (under the law of Scotland).
+>
+> **18** Assault by explosive device (under the law of Scotland).
+>
+> **19** Assault to severe injury (under the law of Scotland).
+>
+> **20** Assault and poisoning (under the law of Scotland).
+>
+> **21** Poisoning (under the law of Scotland).
+>
+> **22** Robbery (under the law of Scotland).
+>
+> **23** Assault with intent to rob (under the law of Scotland).
+>
+> **24** Wilful fire-raising (under the law of Scotland).
+>
+> **25** Malicious mischief (under the law of Scotland).
+>
+> **26** Riot (under the law of Northern Ireland).
+>
+> **27** Affray (under the law of Northern Ireland).
+>
+> **28** An offence under any of the following provisions of the Offences against the Person Act 1861—
+>
+> (a) section 4 (soliciting murder);
+>
+> (b) section 18 (wounding with intent to cause grievous bodily harm);
+>
+> (c) section 21 (attempting to choke, suffocate or strangle in order to commit or assist in the committing of an indictable offence);
+>
+> (d) section 22 (using chloroform etc to commit or assist in the committing of any indictable offence);
+>
+> (e) section 28 (causing bodily injury by explosives);
+>
+> (f) section 29 (using explosives etc with intent to do grievous bodily harm);
+>
+> (g) section 32 (endangering the safety of railway passengers).
+>
+> **29** An offence under any of the following provisions of the Explosive Substances Act 1883—
+>
+> (a) section 2 (causing explosion likely to endanger life or property);
+>
+> (b) section 3 (attempt to cause explosion, or making or keeping explosive with intent to endanger life or property);
+>
+> (c) section 4 (making or possession of explosive under suspicious circumstances);
+>
+> (d) section 5 (punishment of accessories to offences of causing or attempting to cause explosions or making or possessing explosives).
+>
+> **30** An offence under section 1 of the Infant Life (Preservation) Act 1929 (child destruction).
+>
+> **31** An offence under section 1 of the Infanticide Act 1938 (infanticide).
+>
+> **32** An offence under section 1 of the Infanticide Act (Northern Ireland) 1939 (c. 5 (N.I.)) (infanticide).
+>
+> **33** An offence under section 25 of the Criminal Justice Act (Northern Ireland) 1945 (c. 15 (N.I.)) (child destruction).
+>
+> **34** An offence under any of the following provisions of the Firearms Act 1968—
+>
+> (a) section 16 (possession of firearm with intent to endanger life);
+>
+> (b) section 17(1) (use of firearm to resist arrest);
+>
+> (c) section 17(2) (possession of firearm at time of committing or being arrested for offence specified in Schedule 1 to that Act);
+>
+> (d) section 18 (carrying a firearm with criminal intent).
+>
+> **35** An offence under either of the following provisions of the Theft Act 1968—
+>
+> (a) section 8 (robbery or assault with intent to rob);
+>
+> (b) section 10 (aggravated burglary).
+>
+> **36** An offence under either of the following provisions of the Theft Act (Northern Ireland) 1969 (c. 16 (N.I.))—
+>
+> (a) section 8 (robbery);
+>
+> (b) section 10 (aggravated burglary).
+>
+> **37** (1) An offence of arson under section 1 of the Criminal Damage Act 1971.
+>
+> (2) An offence under section 1(2) of that Act (destruction or damage of property with intent or recklessness as to endangerment of life) other than an offence of arson.
+>
+> **38** An offence under section 1 of the Biological Weapons Act 1974 (developing certain biological agents and toxins or biological weapons).
+>
+> **39** (1) An offence of arson under Article 3 of the Criminal Damage (Northern Ireland) Order 1977 (S.I. 1977/426 (N.I. 4)).
+>
+> (2) An offence under Article 3(2) of that Order (destruction or damage of property with intent or recklessness as to endangerment of life) other than an offence of arson.
+>
+> **40** An offence under section 1 of the Taking of Hostages Act 1982 (hostage-taking).
+>
+> **41** An offence under any of the following provisions of the Aviation Security Act 1982—
+>
+> (a) section 1 (hijacking);
+>
+> (b) section 2 (destroying, damaging or endangering safety of aircraft);
+>
+> (c) section 3 (other acts endangering or likely to endanger safety of aircraft);
+>
+> (d) section 6(2) (inducing or assisting the commission of offences relating to safety of aircraft).
+>
+> **42** An offence under either of the following provisions of the Nuclear Material (Offences) Act 1983—
+>
+> (a) section 1B (offences relating to damage to the environment);
+>
+> (b) section 2 (preparatory acts and threats).
+>
+> **43** An offence under section 134 of the Criminal Justice Act 1988 (torture).
+>
+> **44** An offence under any of the following provisions of the Aviation and Maritime Security Act 1990—
+>
+> (a) section 1 (endangering safety at aerodromes);
+>
+> (b) section 9 (hijacking of ships);
+>
+> (c) section 10 (seizing or exercising control of fixed platforms);
+>
+> (d) section 11 (destroying ships or fixed platforms or endangering their safety);
+>
+> (e) section 12 (other acts endangering or likely to endanger safe navigation);
+>
+> (f) section 13 (offences involving threats);
+>
+> (g) section 14(4) (inducing or assisting the commission of offences relating to hijacking of ships, or destroying ships or fixed platforms or endangering their safety).
+>
+> **45** An offence under Part 2 of the Channel Tunnel (Security) Order 1994 (S.I. 1994/570) (offences relating to Channel Tunnel trains and the tunnel system).
+>
+> **46** An offence under either of the following provisions of the Chemical Weapons Act 1996—
+>
+> (a) section 2 (use etc of chemical weapons);
+>
+> (b) section 11 (premises or equipment used for producing chemical weapons).
+>
+> **47** An offence under any of the following provisions of the International Criminal Court Act 2001, other than an offence involving murder—
+>
+> (a) section 51 (genocide, crimes against humanity and war crimes: England and Wales);
+>
+> (b) section 52 (conduct ancillary to genocide etc: England and Wales);
+>
+> (c) section 58 (genocide, crimes against humanity and war crimes: Northern Ireland);
+>
+> (d) section 59 (conduct ancillary to genocide etc: Northern Ireland).
+>
+> **48** An offence under either of the following provisions of the Anti-Terrorism, Crime and Security Act 2001—
+>
+> (a) section 47 (use etc of nuclear weapons);
+>
+> (b) section 50 (assisting or inducing certain weapons-related acts overseas).
+>
+> **49** An offence under section 1 or 2 of the International Criminal Court (Scotland) Act 2001 (asp 13) (genocide, crimes against humanity, war crimes and related offences), other than one involving murder.
+>
+> **50** An offence under any of the following provisions of the Firearms (Northern Ireland) Order 2004 (S.I. 2004/702 (N.I. 3))—
+>
+> (a) Article 58(1) (possession of firearm with intent to endanger life etc);
+>
+> (b) Article 59(1) (use of firearm to resist arrest);
+>
+> (c) Article 59(2) (possession of firearm while committing other offence);
+>
+> (d) Article 60 (carrying a firearm with criminal intent).
+>
+> **51** An offence under either of the following provisions of the Modern Slavery Act 2015—
+>
+> (a) section 1 (slavery, servitude and forced or compulsory labour);
+>
+> (b) section 2 (human trafficking).
+>
+> **52** An offence under either of the following provisions of the Human Trafficking and Exploitation (Scotland) Act 2015 (asp 12)—
+>
+> (a) section 1 (human trafficking);
+>
+> (b) section 4 (slavery, servitude and forced or compulsory labour).
+>
+> **53** An offence under either of the following provisions of the Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015 (c. 2 (N.I.))—
+>
+> (a) section 1 (slavery, servitude and forced or compulsory labour);
+>
+> (b) section 2 (human trafficking).
+>
+> **54** An offence under any of the following provisions of Schedule 4 to the Space Industry Act 2018—
+>
+> (a) paragraph 1 (hijacking of spacecraft);
+>
+> (b) paragraph 2 (destroying, damaging or endangering the safety of spacecraft);
+>
+> (c) paragraph 3 (other acts endangering or likely to endanger safety of spacecraft);
+>
+> (d) paragraph 4 (endangering safety at spaceports).
+>
+> **55** (1) An attempt to commit an offence specified in a preceding paragraph of this Part of this Schedule (“a listed offence”).
+>
+> (2) Conspiracy to commit a listed offence.
+>
+> (3) An offence under Part 2 of the Serious Crime Act 2007 in relation to which a listed offence is the offence (or one of the offences) which the person intended or believed would be committed.
+>
+> (4) Incitement to commit a listed offence.
+>
+> (5) Aiding, abetting, counselling or procuring the commission of a listed offence.
+>
+> **56** (1) An attempt to commit murder.
+>
+> (2) Conspiracy to commit murder.
+>
+> (3) An offence under Part 2 of the Serious Crime Act 2007 in relation to which murder is the offence (or one of the offences) which the person intended or believed would be committed.
+>
+> (4) Incitement to commit murder.
+>
+> (5) Aiding, abetting, counselling or procuring murder.
+>
+> **57** An offence that—
+>
+> (a) was abolished before the coming into force of this Schedule, and
+>
+> (b) if committed on the day on which this Schedule came into force, would have constituted an offence specified in any of the preceding paragraphs of this Part of this Schedule.
+
+## SCHEDULE 10 — Offences carrying restricted eligibility of terrorist prisoners for release on licence: Scotland
+
+*Section 28*
+
+This is the Schedule to be substituted for Schedule 1A to the Prisoners and Criminal Proceedings (Scotland) Act 1993—
+
+> **SCHEDULE 1A — Offences carrying restricted eligibility of terrorist prisoners for release on licence**
+>
+> *Section 1AB*
+>
+> **PART 1 — Terrorism offences punishable with imprisonment for life**
+>
+> **1** An offence under any of the following provisions of the Terrorism Act 2000—
+>
+> (a) section 54 (weapons training);
+>
+> (b) section 56 (directing a terrorist organisation);
+>
+> (c) section 59 (inciting terrorism overseas: England and Wales), other than an offence which is an offence by virtue of subsection (2)(c) of that section;
+>
+> (d) section 60 (inciting terrorism overseas: Northern Ireland), other than an offence which is an offence by virtue of subsection (2)(c) of that section;
+>
+> (e) section 61 (inciting terrorism overseas: Scotland).
+>
+> **2** An offence under any of the following provisions of the Terrorism Act 2006—
+>
+> (a) section 5 (preparation of terrorist acts);
+>
+> (b) section 6 (training for terrorism);
+>
+> (c) section 9 (making or possession of radioactive device or material);
+>
+> (d) section 10 (misuse of radioactive device or material for terrorist purposes etc);
+>
+> (e) section 11 (terrorist threats relating to radioactive devices etc).
+>
+> **3** (1) An attempt to commit an offence specified in a preceding paragraph of this Part of this Schedule (“a listed offence”).
+>
+> (2) Conspiracy to commit a listed offence.
+>
+> (3) Incitement to commit a listed offence.
+>
+> (4) Aiding, abetting, counselling or procuring the commission of a listed offence.
+>
+> (5) An offence under Part 2 of the Serious Crime Act 2007 in relation to which a listed offence is the offence (or one of the offences) which the person intended or believed would be committed.
+>
+> **4** An offence that—
+>
+> (a) was abolished before the coming into force of this Schedule, and
+>
+> (b) if committed on the day on which this Schedule came into force, would have constituted an offence specified in any of the preceding paragraphs of this Part of this Schedule.
+>
+> **PART 2 — Terrorism offences punishable with imprisonment for more than two years (but not life)**
+>
+> **5** An offence under any of the following provisions of the Terrorism Act 2000—
+>
+> (a) section 11 (membership of a proscribed organisation);
+>
+> (b) section 12 (inviting or expressing support for a proscribed organisation);
+>
+> (c) section 15 (fund-raising);
+>
+> (d) section 16 (use of money or property for terrorist purposes);
+>
+> (e) section 17 (involvement in terrorist funding arrangements);
+>
+> (f) section 17A (insuring payments made in response to terrorist threats);
+>
+> (g) section 18 (laundering of terrorist property);
+>
+> (h) section 19 (failure to disclose professional belief or suspicion about terrorist offences);
+>
+> (i) section 21A (failure in regulated sectors to disclose knowledge or suspicion about terrorist offences);
+>
+> (j) section 38B (failure to disclose information about acts of terrorism);
+>
+> (k) section 39 (disclosure of information prejudicial to a terrorist investigation etc);
+>
+> (l) section 57 (possession of article for terrorist purposes);
+>
+> (m) section 58 (collection of information likely to be of use to a terrorist);
+>
+> (n) section 58A (publishing information about members of the armed forces etc);
+>
+> (o) section 58B (entering or remaining in a designated area);
+>
+> (p) section 59 (inciting terrorism overseas: England and Wales), in the case of an offence which is an offence by virtue of the reference in subsection (2)(c) of that section to an offence under section 23 of the Offences against the Person Act 1861;
+>
+> (q) section 60 (inciting terrorism overseas: Northern Ireland), in the case of an offence which is an offence by virtue of the reference in subsection (2)(c) of that section to an offence under section 23 of the Offences against the Person Act 1861.
+>
+> **6** An offence under section 113 of the Anti-terrorism, Crime and Security Act 2001 (use of noxious substances to harm or intimidate).
+>
+> **7** An offence under any of the following provisions of the Terrorism Act 2006—
+>
+> (a) section 1 (encouragement of terrorism);
+>
+> (b) section 2 (dissemination of terrorist publications);
+>
+> (c) section 8 (attendance at a place used for terrorist training).
+>
+> **8** An offence under section 54 of the Counter-Terrorism Act 2008 (breach of police notification requirements etc).
+>
+> **9** An offence under section 23 of the Terrorism Prevention and Investigation Measures Act 2011 (breach of notices imposing terrorism prevention and investigation measures).
+>
+> **10** An offence under section 10 of the Counter-Terrorism and Security Act 2015 (breach of temporary exclusion order).
+>
+> **11** (1) An attempt to commit an offence specified in a preceding paragraph of this Part of this Schedule (“a listed offence”).
+>
+> (2) Conspiracy to commit a listed offence.
+>
+> (3) Incitement to commit a listed offence.
+>
+> (4) Aiding, abetting, counselling or procuring the commission of a listed offence.
+>
+> (5) An offence under Part 2 of the Serious Crime Act 2007 in relation to which a listed offence is the offence (or one of the offences) which the person intended or believed would be committed.
+>
+> **12** An offence that—
+>
+> (a) was abolished before the coming into force of this Schedule, and
+>
+> (b) if committed on the day on which this Schedule came into force, would have constituted an offence specified in any of the preceding paragraphs of this Part of this Schedule.
+>
+> **PART 3 — Other offences punishable with imprisonment for life**
+>
+> **13** Culpable homicide.
+>
+> **14** Manslaughter (under the law of England and Wales or Northern Ireland).
+>
+> **15** Abduction.
+>
+> **16** Assault by explosive device.
+>
+> **17** Assault to severe injury.
+>
+> **18** Assault and poisoning.
+>
+> **19** Poisoning.
+>
+> **20** Robbery.
+>
+> **21** Assault with intent to rob.
+>
+> **22** Wilful fire-raising.
+>
+> **23** Malicious mischief.
+>
+> **24** Kidnapping (under the law of England and Wales or Northern Ireland).
+>
+> **25** False imprisonment (under the law of England and Wales or Northern Ireland).
+>
+> **26** Riot (under the law of Northern Ireland).
+>
+> **27** Affray (under the law of Northern Ireland).
+>
+> **28** An offence under any of the following provisions of the Offences against the Person Act 1861—
+>
+> (a) section 4 (soliciting murder);
+>
+> (b) section 18 (wounding with intent to cause grievous bodily harm);
+>
+> (c) section 21 (attempting to choke, suffocate or strangle in order to commit or assist in the committing of an indictable offence);
+>
+> (d) section 22 (using chloroform etc to commit or assist in the committing of any indictable offence);
+>
+> (e) section 28 (causing bodily injury by explosives);
+>
+> (f) section 29 (using explosives etc with intent to do grievous bodily harm);
+>
+> (g) section 32 (endangering the safety of railway passengers).
+>
+> **29** An offence under any of the following provisions of the Explosive Substances Act 1883—
+>
+> (a) section 2 (causing explosion likely to endanger life or property);
+>
+> (b) section 3 (attempt to cause explosion, or making or keeping explosive with intent to endanger life or property);
+>
+> (c) section 4 (making or possession of explosive under suspicious circumstances);
+>
+> (d) section 5 (punishment of accessories to offences of causing or attempting to cause explosions or making or possessing explosives).
+>
+> **30** An offence under section 1 of the Infant Life (Preservation) Act 1929 (child destruction).
+>
+> **31** An offence under section 1 of the Infanticide Act 1938 (infanticide).
+>
+> **32** An offence under section 1 of the Infanticide Act (Northern Ireland) 1939 (c. 5 (N.I.)) (infanticide).
+>
+> **33** An offence under section 25 of the Criminal Justice Act (Northern Ireland) 1945 (c. 15 (N.I.)) (child destruction).
+>
+> **34** An offence under any of the following provisions of the Firearms Act 1968—
+>
+> (a) section 16 (possession of firearm with intent to endanger life);
+>
+> (b) section 17(1) (use of firearm to resist arrest);
+>
+> (c) section 17(2) (possession of firearm at time of committing or being arrested for offence specified in Schedule 1 to that Act);
+>
+> (d) section 18 (carrying a firearm with criminal intent).
+>
+> **35** An offence under either of the following provisions of the Theft Act 1968—
+>
+> (a) section 8 (robbery or assault with intent to rob);
+>
+> (b) section 10 (aggravated burglary).
+>
+> **36** An offence under either of the following provisions of the Theft Act (Northern Ireland) 1969 (c. 16 (N.I.))—
+>
+> (a) section 8 (robbery);
+>
+> (b) section 10 (aggravated burglary).
+>
+> **37** (1) An offence of arson under section 1 of the Criminal Damage Act 1971.
+>
+> (2) An offence under section 1(2) of that Act (destruction or damage of property with intent or recklessness as to endangerment of life) other than an offence of arson.
+>
+> **38** An offence under section 1 of the Biological Weapons Act 1974 (developing certain biological agents and toxins or biological weapons).
+>
+> **39** (1) An offence of arson under Article 3 of the Criminal Damage (Northern Ireland) Order 1977 (S.I. 1977/426 (N.I. 4)).
+>
+> (2) An offence under Article 3(2) of that Order (destruction or damage of property with intent or recklessness as to endangerment of life) other than an offence of arson.
+>
+> **40** An offence under section 1 of the Taking of Hostages Act 1982 (hostage-taking).
+>
+> **41** An offence under any of the following provisions of the Aviation Security Act 1982—
+>
+> (a) section 1 (hijacking);
+>
+> (b) section 2 (destroying, damaging or endangering safety of aircraft);
+>
+> (c) section 3 (other acts endangering or likely to endanger safety of aircraft);
+>
+> (d) section 6(2) (inducing or assisting the commission of offences relating to safety of aircraft).
+>
+> **42** An offence under either of the following provisions of the Nuclear Material (Offences) Act 1983—
+>
+> (a) section 1B (offences relating to damage to the environment);
+>
+> (b) section 2 (preparatory acts and threats).
+>
+> **43** An offence under section 134 of the Criminal Justice Act 1988 (torture).
+>
+> **44** An offence under any of the following provisions of the Aviation and Maritime Security Act 1990—
+>
+> (a) section 1 (endangering safety at aerodromes);
+>
+> (b) section 9 (hijacking of ships);
+>
+> (c) section 10 (seizing or exercising control of fixed platforms);
+>
+> (d) section 11 (destroying ships or fixed platforms or endangering their safety);
+>
+> (e) section 12 (other acts endangering or likely to endanger safe navigation);
+>
+> (f) section 13 (offences involving threats);
+>
+> (g) section 14(4) (inducing or assisting the commission of offences relating to hijacking of ships, or destroying ships or fixed platforms or endangering their safety).
+>
+> **45** An offence under Part 2 of the Channel Tunnel (Security) Order 1994 (S.I. 1994/570) (offences relating to Channel Tunnel trains and the tunnel system).
+>
+> **46** An offence under either of the following provisions of the Chemical Weapons Act 1996—
+>
+> (a) section 2 (use etc of chemical weapons);
+>
+> (b) section 11 (premises or equipment used for producing chemical weapons).
+>
+> **47** An offence under any of the following provisions of the International Criminal Court Act 2001, other than an offence involving murder—
+>
+> (a) section 51 (genocide, crimes against humanity and war crimes: England and Wales);
+>
+> (b) section 52 (conduct ancillary to genocide etc: England and Wales);
+>
+> (c) section 58 (genocide, crimes against humanity and war crimes: Northern Ireland);
+>
+> (d) section 59 (conduct ancillary to genocide etc: Northern Ireland).
+>
+> **48** An offence under either of the following provisions of the Anti-Terrorism, Crime and Security Act 2001—
+>
+> (a) section 47 (use etc of nuclear weapons);
+>
+> (b) section 50 (assisting or inducing certain weapons-related acts overseas).
+>
+> **49** An offence under section 1 or 2 of the International Criminal Court (Scotland) Act 2001 (asp 13) (genocide, crimes against humanity, war crimes and related offences), other than one involving murder.
+>
+> **50** An offence under any of the following provisions of the Firearms (Northern Ireland) Order 2004 (S.I. 2004/702 (N.I. 3))—
+>
+> (a) Article 58(1) (possession of firearm with intent to endanger life etc);
+>
+> (b) Article 59(1) (use of firearm to resist arrest);
+>
+> (c) Article 59(2) (possession of firearm while committing other offence);
+>
+> (d) Article 60 (carrying a firearm with criminal intent).
+>
+> **51** An offence under either of the following provisions of the Modern Slavery Act 2015—
+>
+> (a) section 1 (slavery, servitude and forced or compulsory labour);
+>
+> (b) section 2 (human trafficking).
+>
+> **52** An offence under either of the following provisions of the Human Trafficking and Exploitation (Scotland) Act 2015 (asp 12)—
+>
+> (a) section 1 (human trafficking);
+>
+> (b) section 4 (slavery, servitude and forced or compulsory labour).
+>
+> **53** An offence under either of the following provisions of the Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015 (c. 2 (N.I.))—
+>
+> (a) section 1 (slavery, servitude and forced or compulsory labour);
+>
+> (b) section 2 (human trafficking).
+>
+> **54** An offence under any of the following provisions of Schedule 4 to the Space Industry Act 2018—
+>
+> (a) paragraph 1 (hijacking of spacecraft);
+>
+> (b) paragraph 2 (destroying, damaging or endangering the safety of spacecraft);
+>
+> (c) paragraph 3 (other acts endangering or likely to endanger safety of spacecraft);
+>
+> (d) paragraph 4 (endangering safety at spaceports).
+>
+> **55** (1) An attempt to commit an offence specified in a preceding paragraph of this Part of this Schedule (“a listed offence”).
+>
+> (2) Conspiracy to commit a listed offence.
+>
+> (3) Incitement to commit a listed offence.
+>
+> (4) Aiding, abetting, counselling or procuring the commission of a listed offence.
+>
+> (5) An offence under Part 2 of the Serious Crime Act 2007 in relation to which a listed offence is the offence (or one of the offences) which the person intended or believed would be committed.
+>
+> **56** (1) An attempt to commit murder.
+>
+> (2) Conspiracy to commit murder.
+>
+> (3) Incitement to commit murder.
+>
+> (4) Aiding, abetting, counselling or procuring murder.
+>
+> (5) An offence under Part 2 of the Serious Crime Act 2007 in relation to which murder is the offence (or one of the offences) which the person intended or believed would be committed.
+>
+> **57** An offence that—
+>
+> (a) was abolished before the coming into force of this Schedule, and
+>
+> (b) if committed on the day on which this Schedule came into force, would have constituted an offence specified in any of the preceding paragraphs of this Part of this Schedule.
+
+## SCHEDULE 11 — Release on licence of repatriated terrorist prisoners
+
+*Section 33*
+
+**1** The Schedule to the Repatriation of Prisoners Act 1984 is amended as follows.
+
+**2** In paragraph 2 (application of early release provisions), as it applies in relation to prisoners repatriated to England and Wales, after sub-paragraph (3A) insert—
+
+> (3B) If sub-paragraph (3D) or (3E) applies by virtue of an offence in relation to which a determinate sentence is to be served, Chapter 6 of Part 12 of the Criminal Justice Act 2003 applies to the prisoner as if that offence was within section 247A(2) of that Act (terrorist offences carrying restricted eligibility for release on licence).
+>
+> (3C) If sub-paragraph (3D) or (3E) applies by virtue of any offence, section 28 of the Offender Management Act 2007 applies to the prisoner as if that offence was within subsection (4A) of that section (terrorist offences in relation to which polygraph conditions can be included in release licence).
+>
+> (3D) This sub-paragraph applies if the warrant specifies that the offence or any of the offences in relation to which a sentence is to be served corresponds to an offence specified in Part 1 or 2 of Schedule 19ZA to the Criminal Justice Act 2003 (terrorism offences carrying restricted eligibility for release on licence).
+>
+> (3E) This sub-paragraph applies if the warrant specifies that—
+>
+> (a) the offence or any of the offences in relation to which a sentence is to be served (“the overseas offence”) corresponds to an offence under the law of England and Wales (“the corresponding offence”),
+>
+> (b) section 69 of the Sentencing Code or (as the case may be) section 30 of the Counter-Terrorism Act 2008 would have applied to the corresponding offence if—
+>
+> (i) it had been committed at the same time as the overseas offence, and
+>
+> (ii) the prisoner had been convicted of and sentenced for it in England and Wales at the same time respectively as the conviction and sentencing for the overseas offence, and
+>
+> (c) findings made by the court before which the prisoner was tried or sentenced for the overseas offence would, had the prisoner been tried and sentenced in England and Wales for the corresponding offence, have justified a determination under that section that the corresponding offence had a terrorist connection.
+>
+> (3F) The Secretary of State may amend a warrant (whether issued before or after sub-paragraph (3B) or (3C) comes into force and whether or not the transfer it authorises has taken place) so as to specify the matters referred to in sub-paragraph (3D) or (3E).
+
+**3** (1) Paragraph 2 (application of early release provisions), as it applies in relation to certain prisoners repatriated to Scotland on or after 27 June 2003 in accordance with section 33(2) of the Criminal Justice (Scotland) Act 2003 (asp 7), is amended as follows.
+
+(2) In sub-paragraph (1), after “(3),” insert “ 1AB(3), ”.
+
+(3) In sub-paragraph (2), in the words before paragraph (a), after “licence)” insert “ , or of section 1AB(3) of that Act in the case of a long-term prisoner to whom that section applies ”.
+
+(4) After sub-paragraph (3) insert—
+
+> (3A) If sub-paragraph (3B) or (3C) applies by virtue of an offence in relation to which a determinate sentence is to be served, Part 1 of the Prisoners and Criminal Proceedings (Scotland) Act 1993 applies to the prisoner as if that offence was within section 1AB(2) of that Act (terrorist offences carrying restricted eligibility for release on licence).
+>
+> (3B) This sub-paragraph applies if the warrant specifies that the offence or any of the offences in relation to which a sentence is to be served corresponds to an offence specified in Part 1 or 2 of Schedule 1A to the Prisoners and Criminal Proceedings (Scotland) Act 1993 (terrorism offences carrying restricted eligibility for release on licence).
+>
+> (3C) This sub-paragraph applies if the warrant specifies that—
+>
+> (a) the offence or any of the offences in relation to which a sentence is to be served (“the overseas offence”) corresponds to an offence under the law of Scotland (“the corresponding offence”),
+>
+> (b) section 31 of the Counter-Terrorism Act 2008 (sentences for offences aggravated by terrorist connection) would have been capable of applying in relation to the corresponding offence if—
+>
+> (i) it had been committed at the same time as the overseas offence, and
+>
+> (ii) the prisoner had been convicted of and sentenced for it in Scotland at the same time respectively as the conviction and sentencing for the overseas offence, and
+>
+> (c) findings made by the court before which the prisoner was tried or sentenced for the overseas offence would, had the prisoner been tried and sentenced in Scotland for the corresponding offence, have justified its being found proved for the purposes of that section that the corresponding offence was aggravated by reason of having a terrorist connection.
+>
+> (3D) The Scottish Ministers may amend a warrant (whether issued before or after sub-paragraph (3A) comes into force and whether or not the transfer it authorises has taken place) so as to specify the matters referred to in sub-paragraph (3B) or (3C).
+
+**4** (1) Paragraph 2 (application of early release provisions), as it applies in relation to prisoners repatriated to Scotland other than as mentioned in paragraph 3(1), is amended as follows.
+
+(2) In sub-paragraph (1A)(b), after “(3),” insert “ 1AB(3), ”.
+
+(3) After sub-paragraph (2) insert—
+
+> (3) If sub-paragraph (4) applies by virtue of an offence in relation to which a determinate sentence is to be served, Part 1 of the Prisoners and Criminal Proceedings (Scotland) Act 1993 applies to the prisoner as if that offence was within section 1AB(2) of that Act (terrorist offences carrying restricted eligibility for release on licence).
+>
+> (4) This sub-paragraph applies if the warrant specifies that the offence or any of the offences in relation to which a sentence is to be served corresponds to an offence specified in Part 1 or 2 of Schedule 1A to the Prisoners and Criminal Proceedings (Scotland) Act 1993 (terrorism offences carrying restricted eligibility for release on licence).
+>
+> (5) The Scottish Ministers may amend a warrant (whether issued before or after sub-paragraph (3) comes into force and whether or not the transfer it authorises has taken place) so as to specify the matters referred to in sub-paragraph (4).
+
+**5** In paragraph 2A (application of early release provisions to prisoners repatriated to Northern Ireland), after sub-paragraph (4) insert—
+
+> (4A) If sub-paragraph (4B) or (4C) applies by virtue of an offence in relation to which a determinate sentence is to be served, Chapter 4 of Part 2 of the Criminal Justice (Northern Ireland) Order 2008 applies to the prisoner as if that offence was within Article 20A(2) (terrorist offences carrying restricted eligibility for release on licence).
+>
+> (4B) This sub-paragraph applies if the warrant specifies that the offence or any of the offences in relation to which a sentence is to be served corresponds to an offence specified in Part 2, 4, 5 or 7 of Schedule 2A to the Criminal Justice (Northern Ireland) Order 2008 (terrorism offences carrying restricted eligibility for release on licence).
+>
+> (4C) This sub-paragraph applies if the warrant specifies that—
+>
+> (a) the offence or any of the offences in relation to which a sentence is to be served (“the overseas offence”) corresponds to an offence under the law of Northern Ireland (“the corresponding offence”),
+>
+> (b) section 30 of the Counter-Terrorism Act 2008 would have applied to the corresponding offence if—
+>
+> (i) it had been committed at the same time as the overseas offence, and
+>
+> (ii) the prisoner had been convicted of and sentenced for it in Northern Ireland at the same time respectively as the conviction and sentencing for the overseas offence, and
+>
+> (c) findings made by the court before which the prisoner was tried or sentenced for the overseas offence would, had the prisoner been tried and sentenced in Northern Ireland for the corresponding offence, have justified a determination under that section that the corresponding offence had a terrorist connection.
+>
+> (4D) The Department of Justice may amend a warrant (whether issued before or after sub-paragraph (4A) comes into force and whether or not the transfer it authorises has taken place) so as to specify the matters referred to in sub-paragraph (4B) or (4C).
+
+## SCHEDULE 12 — Serious crime prevention orders: power for police to apply in terrorism-related cases
+
+*Section 43*
+
+**1** The Serious Crime Act 2007 is amended as follows.
+
+**2** (1) Section 8 (authorities that can apply for a serious crime prevention order) is amended as follows.
+
+(2) The existing text becomes subsection (1).
+
+(3) In that subsection (1)—
+
+(a) in paragraph (a)—
+
+(i) omit the “or” before sub-paragraph (iii);
+
+(ii) at the end of that sub-paragraph insert
+
+> or
+>
+> (iv) subject to subsection (2), a chief officer of police;
+
+;
+
+(b) in paragraph (aa), for “, the Lord Advocate” substitute
+
+> —
+>
+> (i) the Lord Advocate; or
+>
+> (ii) subject to subsection (2), the chief officer of police;
+
+;
+
+(c) in paragraph (b), for “, the Director of Public Prosecutions for Northern Ireland” substitute
+
+> —
+>
+> (i) the Director of Public Prosecutions for Northern Ireland; or
+>
+> (ii) subject to subsection (2), the chief officer of police.
+
+(4) After subsection (1) insert—
+
+> (2) A chief officer of police may make an application for a serious crime prevention order only if—
+>
+> (a) it is an application for an order under section 1 that is terrorism-related (see section 8A);
+>
+> (b) the chief officer has consulted—
+>
+> (i) the Director of Public Prosecutions, in the case of an order in England and Wales;
+>
+> (ii) the Lord Advocate, in the case of an order in Scotland; or
+>
+> (iii) the Director for Public Prosecutions for Northern Ireland, in the case of an order in Northern Ireland; and
+>
+> (c) in the case of an application by the chief constable of the Police Service of Scotland, it is made to the Court of Session (and not to the sheriff).
+>
+> (3) In this section “chief officer of police”—
+>
+> (a) in relation to England and Wales, means the chief officer of police of a police force in England and Wales;
+>
+> (b) in relation to Scotland, means the chief constable of the Police Service of Scotland;
+>
+> (c) in relation to Northern Ireland, means the Chief Constable of the Police Service of Northern Ireland.
+
+**3** After section 8 insert—
+
+> **Serious crime prevention orders that are terrorism-related**
+>
+> **8A** (1) For the purposes of this Part, a serious crime prevention order is “terrorism-related” if the trigger offence is within subsection (3).
+>
+> (2) The “trigger offence”, in relation to a serious crime prevention order, is the serious offence referred to in section 2(1) or (4), 2A(1) or (4) or (as the case may be) 3(1) or (4) pursuant to which the court is satisfied that the person who is the subject of the order has been involved in serious crime.
+>
+> (3) A trigger offence is within this subsection if—
+>
+> (a) it falls within section 2(2)(a) or (5)(b)(i) by virtue of paragraph 2A of Schedule 1;
+>
+> (b) it falls within section 2A(2)(a) or (5)(b)(i) by virtue of paragraph 16BA of Schedule 1;
+>
+> (c) if falls within section 3(2)(a) or (5)(b)(i) by virtue of paragraph 18A of Schedule 1; or
+>
+> (d) in the case of any other trigger offence (whether or not specified, or within a description specified, in Schedule 1), it appears to the court that the offence—
+>
+> (i) is, or takes place in the course of, an act of terrorism; or
+>
+> (ii) is committed for the purposes of terrorism.
+>
+> (4) Subsection (5) applies where—
+>
+> (a) the court is considering whether a trigger offence is within subsection (3)(d);
+>
+> (b) the court has, for the purposes of this Part, decided that a person has committed the trigger offence (see section 4(1)); and
+>
+> (c) at the time at which the person was sentenced for the trigger offence, the offence was of a kind capable of being determined to have a terrorist connection.
+>
+> (5) The court—
+>
+> (a) must decide that the trigger offence is within subsection (3)(d) if the offence was determined to have a terrorist connection; and
+>
+> (b) must not otherwise decide that the trigger offence is within subsection (3)(d).
+>
+> (6) For the purposes of this section, an offence was determined to have a terrorist connection if —
+>
+> (a) it was determined to have a terrorist connection under—
+>
+> (i) section 69 of the Sentencing Code (in the case of an offender sentenced in England and Wales or for a service offence); or
+>
+> (ii) section 30 or 32 of the Counter-Terrorism Act 2008 (in the case of an offender sentenced in Northern Ireland, or an offender sentenced in England and Wales, or for a service offence, before the Sentencing Code applied); or
+>
+> (b) it has been proved to have been aggravated by reason of having a terrorist connection under section 31 of that Act (in the case of an offender sentenced in Scotland);
+>
+> (and the reference in subsection (4)(c) to an offence being capable of being determined to have such a connection is to be read accordingly).
+>
+> (7) In this section “terrorism” has the same meaning as in the Terrorism Act 2000 (see section 1 of that Act).
+
+**4** (1) Section 10(4) (definition of “relevant applicant authority”) is amended as follows.
+
+(2) In paragraph (a)—
+
+(a) omit the “and” before sub-paragraph (iii);
+
+(b) at the end of that sub-paragraph insert—
+
+> (iv) where the order was applied for by the chief officer of police of a police force in England and Wales, the chief officer of police of any such police force;
+
+.
+
+(3) In paragraph (aa), for “, the Lord Advocate” substitute
+
+> —
+>
+> (i) where the order was applied for by the Lord Advocate, the Lord Advocate;
+>
+> (ii) where the order was applied for by the chief constable of the Police Service of Scotland, the chief constable;
+
+.
+
+(4) In paragraph (b), for “, the Director of Public Prosecutions for Northern Ireland” substitute
+
+> —
+>
+> (i) where the order was applied for by the Director of Public Prosecutions for Northern Ireland, the Director;
+>
+> (ii) where the order was applied for by the Chief Constable of the Police Service of Northern Ireland, the Chief Constable.
+
+**5** (1) Section 17 (variation of orders) is amended as follows.
+
+(2) In subsection (3)(a), after “authority” insert “ (but see subsection (7A)) ”.
+
+(3) After subsection (7) insert—
+
+> (7A) Where the relevant applicant authority is the chief constable of the Police Service of Scotland, an application for the variation of the order may only be made under this section to the Court of Session (and not to the sheriff).
+
+**6** (1) Section 18 (discharge of orders) is amended as follows.
+
+(2) In subsection (2)(a), after “authority” insert “ (but see subsection (7)) ”.
+
+(3) At the end insert—
+
+> (7) Where the relevant applicant authority is the chief constable of the Police Service of Scotland, an application for the discharge of the order may only be made under this section to the Court of Session (and not to the sheriff).
+
+**7** (1) Section 27 (powers to wind up companies etc: England and Wales) is amended as follows.
+
+(2) After subsection (1) insert—
+
+> (1A) The chief officer of police of a police force in England and Wales may present a petition to the court for the winding up of a company, partnership or relevant body if—
+>
+> (a) the company, partnership or relevant body has been convicted of an offence under section 25 in relation to a police-initiated serious crime prevention order; and
+>
+> (b) the chief officer of police concerned considers that it would be in the public interest for the company, partnership or (as the case may be) relevant body to be wound up.
+
+(3) In subsection (3), for “or the Director of the Serious Fraud Office” substitute “ , the Director of the Serious Fraud Office or the chief officer of police of a police force in England and Wales ”.
+
+(4) In subsection (12), after the definition of “partnership” (but before the final “and”) insert—
+
+> “police-initiated serious crime prevention order” means a serious crime prevention order that was made on the application of the chief officer of police of a police force in England and Wales;
+
+.
+
+**8** (1) Section 27A (powers to wind up companies etc: Scotland) is amended as follows.
+
+(2) After subsection (1) insert—
+
+> (1A) The chief constable of the Police Service of Scotland may present a petition to the court for the winding up of a company or relevant body, or the dissolution of a partnership, if—
+>
+> (a) the company, relevant body or partnership has been convicted of an offence under section 25 in relation to a serious crime prevention order that was made on the application of the chief constable; and
+>
+> (b) the chief constable considers that it would be in the public interest for the company or (as the case may be) relevant body to be wound up or the partnership to be dissolved.
+
+(3) In subsection (3), at the end insert “ or the chief constable of the Police Service of Scotland ”.
+
+**9** (1) Section 28 (powers to wind up companies etc: Northern Ireland) is amended as follows.
+
+(2) After subsection (1) insert—
+
+> (1A) The Chief Constable of the Police Service of Northern Ireland may present a petition to the court for the winding up of a company, partnership or relevant body if—
+>
+> (a) the company, partnership or relevant body has been convicted of an offence under section 25 in relation to a serious crime prevention order that was made on the application of the Chief Constable; and
+>
+> (b) the Chief Constable considers that it would be in the public interest for the company, partnership or (as the case may be) relevant body to be wound up.
+
+(3) In subsection (3), at the end insert “ or the Chief Constable of the Police Service of Northern Ireland ”.
+
+**10** In section 43 (index of defined expressions for Part 1), at the appropriate place insert—
+
+> |  |  |
+> |---|---|
+> | “terrorism-related” | section 8A |
+
+.
+
+**11** (1) Schedule 2 (functions of applicant authorities under Part 1) is amended as follows.
+
+(2) After paragraph 15 insert—
+
+> **Chief officers of police in England and Wales**
+>
+> **15A** The functions of a chief officer of police of a police force in England and Wales (referred to in this paragraph and paragraph 15B as a “chief officer”) are—
+>
+> (a) to have the conduct of applications for serious crime prevention orders in England and Wales that are terrorism-related or for their variation or discharge;
+>
+> (b) to appear on any application made under section 17 or 18 by another person for the variation or discharge of a serious crime prevention order in England and Wales that is terrorism-related;
+>
+> (c) to have the conduct of, or (as the case may be) appear in, any other proceedings in connection with serious crime prevention orders in England and Wales that are terrorism-related (whether proceedings on appeal, by virtue of section 27 or otherwise);
+>
+> (d) to give advice in connection with any proceedings or possible proceedings in connection with serious crime prevention orders in England and Wales that are terrorism-related; and
+>
+> (e) to do anything for the purposes of, or in connection with, the functions in paragraphs (a) to (d).
+>
+> **15B** (1) A chief officer may, to such extent as they may decide, delegate the exercise of their functions under this Part to any police officer of at least the rank of superintendent.
+>
+> (2) References in this Part to a chief officer are accordingly to be read, so far as necessary for the purposes of sub-paragraph (1), as references to a chief officer or any police officer of at least the rank of superintendent.
+>
+> **The chief constable of the Police Service of Scotland**
+>
+> **15C** The functions of the chief constable of the Police Service of Scotland are—
+>
+> (a) to have the conduct of applications for serious crime prevention orders in Scotland that are terrorism-related and are made to the Court of Session, or for their variation or discharge;
+>
+> (b) to appear on any application made under section 17 or 18 by another person for the variation or discharge of a serious crime prevention order in Scotland that is terrorism-related;
+>
+> (c) to have the conduct of, or (as the case may be) appear in, any other proceedings in connection with serious crime prevention orders in Scotland that are terrorism-related (whether proceedings on appeal, by virtue of section 27A or otherwise);
+>
+> (d) to give advice in connection with any proceedings or possible proceedings in connection with serious crime prevention orders in Scotland that are terrorism-related; and
+>
+> (e) to do anything for the purposes of, or in connection with, the functions in paragraphs (a) to (d).
+>
+> **15D** (1) The chief constable of the Police Service of Scotland (“the chief constable”) may, to such extent as they may decide, delegate the exercise of their functions under this Part to any police officer of at least the rank of superintendent.
+>
+> (2) References in this Part to the chief constable are accordingly to be read, so far as necessary for the purposes of sub-paragraph (1), as references to the chief constable or any police officer of at least the rank of superintendent.
+
+(3) After paragraph 20 insert—
+
+> **The Chief Constable of the Police Service of Northern Ireland**
+>
+> **20A** The functions of the Chief Constable of the Police Service of Northern Ireland are—
+>
+> (a) to have the conduct of applications for serious crime prevention orders in Northern Ireland that are terrorism-related or for their variation or discharge;
+>
+> (b) to appear on any application made under section 17 or 18 by another person for the variation or discharge of a serious crime prevention order in Northern Ireland that is terrorism-related;
+>
+> (c) to have the conduct of, or (as the case may be) appear in, any other proceedings in connection with serious crime prevention orders in Northern Ireland that are terrorism-related (whether proceedings on appeal, by virtue of section 28 or otherwise);
+>
+> (d) to give advice in connection with any proceedings or possible proceedings in connection with serious crime prevention orders in Northern Ireland that are terrorism-related; and
+>
+> (e) to do anything for the purposes of, or in connection with, the functions in paragraphs (a) to (d).
+>
+> **20B** (1) The Chief Constable of the Police Service of Northern Ireland (“the Chief Constable”) may, to such extent as they may decide, delegate the exercise of their functions under this Part to any police officer of at least the rank of superintendent.
+>
+> (2) References in this Part to the Chief Constable are accordingly to be read, so far as necessary for the purposes of sub-paragraph (1), as references to the Chief Constable or any police officer of at least the rank of superintendent.
+
+## SCHEDULE 13 — Consequential and related amendments
+
+*Section 46*
+
+### PART 1 — Offences aggravated by terrorist connection
+
+#### Terrorism Act 2000 (c. 11)
+
+**1** (1) The Terrorism Act 2000 is amended as follows.
+
+(2) In section 23A(4) (application of forfeiture provisions to offences with terrorist connection)—
+
+(a) in the words before paragraph (a), omit the words from “specified” to “considered)”;
+
+(b) in paragraph (a), for “that Act” substitute “ the Counter-Terrorism Act 2008. ”
+
+(3) In Schedule 4 (forfeiture orders)—
+
+(a) in paragraph 1, in the definition of “relevant offence”, in paragraph (c), for the words from “specified” to the end substitute “ within section 69(4) or (5) of the Sentencing Code (offences where terrorist connection to be treated as aggravating factor) ”;
+
+(b) in paragraph 15, in the definition of “relevant offence”, in paragraph (c), for the words from “specified” to the end substitute “ within section 31(4A) or (4B) of the Counter-Terrorism Act 2008 (offences where terrorist connection to be treated as aggravating factor) ”.
+
+#### Counter-Terrorism Act 2008 (c. 28)
+
+**2** (1) The Counter-Terrorism Act 2008 is amended as follows.
+
+(2) Omit section 33 (power to amend Schedule 2).
+
+(3) In section 42 (application of notification provisions to offences with terrorist connection), omit subsection (4).
+
+(4) In Schedule 2 (offences aggravated by terrorist connection)—
+
+(a) in the heading, after “Offences” insert “ committed before the commencement of section 1 of the Counter-Terrorism and Sentencing Act 2021 ”;
+
+(b) in the entry relating to the Nuclear Material (Offences) Act 1983, in paragraph (c), omit “, so far as relating to an offence specified in this Schedule”.
+
+#### Counter-Terrorism and Security Act 2015 (c. 6)
+
+**3** In section 44(2)(e) of the Counter-Terrorism and Security Act 2015 (provisions subject to review by the independent reviewer of terrorism legislation), for “Schedule 1” substitute “ Schedules A1 and 1 ”.
+
+#### Space Industry Act 2018 (c. 5)
+
+**4** Paragraph 29 of Schedule 12 to the Space Industry Act 2018 (addition of offences to Schedule 2 to the Counter-Terrorism Act 2008) is repealed to the extent that it is not yet in force when section 1 of this Act comes into force.
+
+#### Counter-Terrorism and Border Security Act 2019 (c. 3)
+
+**5** In section 25(2) of the Counter-Terrorism and Border Security Act 2019 (transitional provision about amendments to do with offences aggravated by terrorist connection), omit “or 8”.
+
+#### Sentencing Act 2020 (c. 17)
+
+**6** (1) The Sentencing Act 2020 is amended as follows.
+
+(2) In the table in section 160(2) (list of forfeiture powers), in the entry for section 23A of the Terrorism Act 2000, in the second column, omit “specified in Schedule 1 to this Act”.
+
+(3) In Schedule 1 (offences aggravated by terrorist connection)—
+
+(a) in the heading, after “Offences” insert “ committed before the commencement of section 1 of the Counter-Terrorism and Sentencing Act 2021 ”;
+
+(b) in paragraph 9(c), omit “, so far as relating to an offence specified in this Schedule”.
+
+(4) In Schedule 22, paragraph 4 (prospective addition of offences to Schedule 1 to the Code), and the heading above it, are repealed to the extent that paragraph 4 is not yet in force when section 1 of this Act comes into force.
+
+(5) In Schedule 23, omit Part 1 (power to amend Schedule 1).
+
+### PART 2 — Serious terrorism sentence: England and Wales
+
+#### Criminal Justice Act 1982 (c. 48)
+
+**7** In section 32 of the Criminal Justice Act 1982 (early release of prisoners to make the best use of the places available for detention, subject to certain exceptions)—
+
+(a) in subsection (1)(a), after “protection” insert “ , a serious terrorism sentence ”;
+
+(b) in subsection (1A), after paragraph (c) insert—
+
+> (ca) references to a serious terrorism sentence are to a sentence under section 268A or 282A of the Sentencing Code;
+
+.
+
+#### Mental Health Act 1983 (c. 20)
+
+**8** In section 37 of the Mental Health Act 1983 (power of courts to order hospital admission etc)—
+
+(a) in subsection (1A), for “273, 274” substitute “ 268A, 273, 274, 282A ”;
+
+(b) in subsection (1B), after paragraph (a) insert—
+
+> (aa) a sentence falls to be imposed under section 268A or 282A of that Code if it is required by section 268B(2) or 282B(2) of that Code and the court is not of the opinion there mentioned;
+
+.
+
+#### Criminal Justice Act 2003 (c. 44)
+
+**9** (1) The Criminal Justice Act 2003 is amended as follows.
+
+(2) In section 237 (meaning of “fixed-term prisoner”)—
+
+(a) in subsection (1)(b), for “266, 278 or 279” substitute “ 266 or 268A ”;
+
+(b) in subsection (3), for “or 266” substitute “ , 266 or 268A ”.
+
+(3) In section 240ZA (time remanded in custody to count as time served), in subsection (11), for “or 266” substitute “ , 266 or 268A ”.
+
+(4) In section 247A (restricted eligibility for early release for terrorist prisoners)—
+
+(a) in subsection (6), for “278 or 279” substitute “ 268A, 278, 279 or 282A ”;
+
+(b) in subsection (8), in the definition of “the appropriate custodial term”, for “278 or 279” substitute “ 268A, 278, 279 or 282A ”.
+
+(5) In section 250 (licence conditions), in subsection (4)—
+
+(a) for “or 279” substitute “ , 279 or 282A ”;
+
+(b) for “or 266” substitute “ , 266 or 268A ”.
+
+[^F1]6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7) In section 255C (extended sentence prisoners and those not suitable for automatic release)—
+
+(a) for the heading, substitute “ Prisoners not suitable for automatic release ”;
+
+[^F2]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(8) In section 258 (early release for fine defaulters etc), in subsection (3A), for “or 266” substitute “ , 266 or 268A ”.
+
+(9) In section 263 (concurrent terms) in subsection (4), for “or 266” substitute “ , 266 or 268A ”.
+
+(10) In section 264(7) (application of provisions about consecutive sentences of imprisonment to sentences of detention), for “or 266” substitute “ , 266 or 268A ”.
+
+#### Offender Management Act 2007 (c. 21)
+
+**10** In section 28(3) of the Offender Management Act 2007 (custodial sentences where polygraph condition may be imposed on release on licence), in paragraph (a), after “279” insert “ or 282A ”.
+
+#### Sentencing Act 2020 (c. 17)
+
+**11** (1) The Sentencing Act 2020 is amended as follows.
+
+(2) In section 15 (committal for sentence of dangerous adult offenders)—
+
+(a) after subsection (1) insert—
+
+> (1A) This section also applies where—
+>
+> (a) on the summary trial of an offence specified in Schedule 17A triable either way a person is convicted of the offence, and
+>
+> (b) the court is of the opinion that the circumstances are such that a serious terrorism sentence (see section 268A or 282A) may be required to be imposed.
+
+;
+
+(b) in subsection (6), for “a specified offence” substitute “ an offence ”.
+
+(3) In section 59(2) (provisions to which duty to follow sentencing guidelines is subject), after paragraph (g) insert—
+
+> (ga) sections 268B and 282B (requirement to impose serious terrorism sentence);
+
+.
+
+(4) In section 61 (sentencing guidelines: extended sentences and life sentences)—
+
+(a) in the heading, after “extended sentences” insert “ , serious terrorism sentences ”;
+
+(b) after subsection (2) insert—
+
+> (2A) Subsection (2B) applies where a court is required to impose a serious terrorism sentence for an offence.
+>
+> (2B) In determining the appropriate custodial term for the purposes of section 268C(2)(b) or 282C(2)(b) (serious terrorism sentences: appropriate custodial term exceeding 14-year minimum), section 60 applies to the court as it applies to a court in determining the sentence for an offence.
+
+(5) In section 120(2)(a) (exceptions to the general power to fine offender convicted on indictment), after sub-paragraph (ii) (but before the final “or”) insert—
+
+> (iia) paragraph (ba) (serious terrorism sentences),
+
+.
+
+(6) In section 166(5) (periods of extension of driving disqualification order where custodial sentence imposed)—
+
+(a) after entry 4 in the table insert—
+
+> |  |  |  |
+> |---|---|---|
+> | 4A | a serious terrorism sentence of detention in a young offender institution | the term imposed pursuant to section 268C(2) (the appropriate custodial term) |
+
+;
+
+(b) after entry 6 in the table insert—
+
+> |  |  |  |
+> |---|---|---|
+> | 6A | a serious terrorism sentence of imprisonment | the term imposed pursuant to section 282C(2) (the appropriate custodial term) |
+
+.
+
+(7) In section 221 (overview of Part 10)—
+
+(a) in subsection (3)(a)—
+
+(i) omit the “and” at the end of sub-paragraph (ii);
+
+(ii) at the end of sub-paragraph (iii) insert
+
+> and
+>
+> (iv) serious terrorism sentences,
+
+;
+
+(b) in subsection (4), after paragraph (c) (but before the final “and”) insert—
+
+> (ca) serious terrorism sentences,
+
+.
+
+(8) In section 231 (length of discretionary custodial sentences: general)—
+
+(a) in the italic heading before subsection (3), for “mandatory sentences and extended sentences” substitute “ certain sentences ”;
+
+(b) after subsection (6) insert—
+
+> (6A) Subsection (2) does not apply where the custodial sentence is a serious terrorism sentence, except as provided in sections 268C(2)(b) and 282C(2)(b) (determination of appropriate custodial period where longer than the 14-year minimum).
+
+(9) In section 262(3) (circumstances in which detention in young offender institution required), after “mentioned in” insert
+
+> —
+>
+> (a) section 399(ba) (serious terrorism sentences);
+>
+> (b)
+
+.
+
+(10) In section 263 (term of detention in a young offender institution), in subsection (4), at the end insert—
+
+> (c) section 268B (serious terrorism sentence).
+
+(11) In section 265(1) (circumstances in which special custodial sentence for certain young adult offenders of particular concern is required), in paragraph (c)—
+
+(a) in the words before sub-paragraph (i), for “either” substitute “ any ”;
+
+(b) after sub-paragraph (i) (but before the final “or”) insert—
+
+> (ia) a serious terrorism sentence under section 268A,
+
+.
+
+(12) In section 267(1) (availability of extended sentence of detention), after paragraph (d) (but before the final “and”) insert—
+
+> (da) the court is not required by section 268B to impose a serious terrorism sentence for the offence or for an offence associated with it,
+
+.
+
+(13) In section 278 (special custodial sentence for offenders of particular concern), in subsection (1)(c)—
+
+(a) in the words before sub-paragraph (i), for “either” substitute “ any ”;
+
+(b) after sub-paragraph (i) (but before the final “or”) insert—
+
+> (ia) a serious terrorism sentence under section 282A,
+
+.
+
+(14) In section 280(1) (availability of extended sentence of imprisonment), after paragraph (d) (but before the final “and”) insert—
+
+> (da) the court is not required by section 282B to impose a serious terrorism sentence for the offence or for an offence associated with it,
+
+.
+
+(15) In section 308 (assessment of dangerous), in subsection (1), after paragraph (a) insert—
+
+> (aa) section 268B or 282B (serious terrorism sentence);
+
+.
+
+(16) In section 329 (conversion of sentence of detention to sentence of imprisonment)—
+
+(a) in subsection (3) (as amended by Part 4 of this Schedule), for “(5)” substitute “ (5A) ”;
+
+(b) after subsection (5) insert—
+
+> (5A) If the relevant custodial sentence is a serious terrorism sentence of detention in a young offender institution, the offender is to be treated as if sentenced to a serious terrorism sentence of imprisonment under section 282A.
+
+;
+
+(c) in subsection (7), after paragraph (e) insert—
+
+> (ea) a serious terrorism sentence of detention in a young offender institution (see section 268A);
+
+.
+
+(17) In section 397(1) (interpretation), after the definition of “sentencing guidelines” insert—
+
+> “serious terrorism sentence” means a sentence under—
+>
+> (a) section 268A (serious terrorism sentence of detention in young offender institution for adults aged under 21), or
+>
+> (b) section 282A (serious terrorism sentence of imprisonment);
+
+.
+
+(18) In section 399 (mandatory sentences), after paragraph (b) (but before the final “or”) insert—
+
+> (ba) the court is obliged by section 268B or 282B to impose a serious terrorism sentence,
+
+.
+
+(19) In section 417(3) (commencement of provisions of Schedule 22 which relate to prospective abolition of sentences of detention in a young offender institution)—
+
+(a) in paragraph (a), for “38” substitute “ 38B ”;
+
+(b) in paragraph (d), for “268” substitute “ 268C ”;
+
+(c) in paragraph (f), after “paragraphs” insert “ 68A, ”.
+
+(20) In Schedule 22 (amendments of the Sentencing Code, including in relation to the prospective abolition of sentences of detention in a young offender institution)—
+
+(a) for paragraph 36 substitute—
+
+> **36** In section 15 (committal for sentence of dangerous adult offenders)—
+>
+> (a) in subsection (1)(b), omit—
+>
+> (i) “of detention in a young offender institution or”;
+>
+> (ii) “266 or”;
+>
+> (b) in subsection (1A), omit “268A or”.
+
+;
+
+(b) in paragraph 37 (amendments of section 59 of the Code)—
+
+(i) for “59(2)(h)” substitute “ 59(2) ”;
+
+(ii) after “court)” insert
+
+> —
+>
+> (a) in paragraph (ga), for “sections 268B and” substitute “ section ”;
+>
+> (b) in paragraph (h),
+
+;
+
+(c) in paragraph 38 (amendments of section 61 of the Code), after sub-paragraph (a) insert—
+
+> (aa) in subsection (2B), omit “268C(2)(b) or”;
+
+;
+
+(d) after paragraph 38 insert—
+
+> **38A** In section 73(2A) (reduction in serious terrorism sentence for guilty plea), omit “268C(2) or, as the case may be,”.
+>
+> **38B** In section 74(4A) (reduction in serious terrorism sentence for assistance to prosecution), omit “268C(2) or”.
+
+;
+
+(e) in paragraph 40 (amendments of section 166 of the Code), for “paragraphs 3 and 4” substitute “ entries 3, 4 and 4A ”;
+
+(f) in paragraph 46 (amendments of section 231 of the Code), at the end insert—
+
+> (d) in subsection (6A), for “sections 268C(2)(b) and” substitute “ section ”.
+
+;
+
+(g) after paragraph 57 insert—
+
+> **57A** In section 282A (serious terrorism sentence of imprisonment: persons 21 or over), in the heading omit “: persons 21 or over”.
+>
+> **57B** In section 282B (serious terrorism sentence of imprisonment: circumstances in which required), omit subsection (1)(c).
+
+;
+
+(h) in paragraph 62 (amendments of section 308(1) of the Code), after paragraph (a) insert—
+
+> (aa) in paragraph (aa), omit “268B or”;
+
+;
+
+(i) after paragraph 68 insert—
+
+> **68A** In section 323 (minimum term order: other life sentences)—
+>
+> (a) in subsection (4), omit “268B(2) or” in both places;
+>
+> (b) in subsection (6)(b), omit “268B(2) or”.
+
+;
+
+(j) in paragraph 70 (amendments of section 329 of the Code)—
+
+(i) after the opening words insert—
+
+> (za) in subsection (3), for “(4) to (5A)” substitute “ (4), (4A) and (5) ”;
+
+(ii) after paragraph (a) insert—
+
+> (aa) omit subsection (5A);
+
+;
+
+(iii) in paragraph (b), after “(e)” insert “ , (ea) ”;
+
+(k) in paragraph 72 (amendments of section 397(1) of the Code)—
+
+(i) the words from “in the definition” to the end become sub-paragraph (a);
+
+(ii) at the end insert—
+
+> (b) in the definition of “serious terrorism sentence”, omit paragraph (a) (including the word “or” immediately after that paragraph).
+
+;
+
+(l) for paragraph 73 (amendments of section 399 of the Code) substitute—
+
+> **73** In section 399 (mandatory sentences)—
+>
+> (a) in paragraph (b)—
+>
+> (i) in the opening words, omit “, custody for life”;
+>
+> (ii) in sub-paragraph (i), omit “, 274”;
+>
+> (iii) in sub-paragraph (ii), omit “273 or”;
+>
+> (b) in paragraph (ba), omit “268B or”.
+
+;
+
+(m) before paragraph 80 (amendment of Schedule 18 to the Code) insert—
+
+> **79A** In Schedule 17A (serious terrorism offences), after paragraph 24 insert—
+>
+> > **Space Industry Act 2018**
+> >
+> > **24A** An offence under any of the following provisions of Schedule 4 to the Space Industry Act 2018—
+> >
+> > (a) paragraph 1 (hijacking of spacecraft);
+> >
+> > (b) paragraph 2 (destroying, damaging or endangering the safety of spacecraft);
+> >
+> > (c) paragraph 3 (other acts endangering or likely to endanger safety of spacecraft);
+> >
+> > (d) paragraph 4 (endangering safety at spaceports).
+
+;
+
+(n) in paragraph 101 (amendment of section 37 of the Mental Health Act 1983)—
+
+(i) in sub-paragraph (1), omit “, as amended by paragraph 73 of Schedule 24”;
+
+(ii) in sub-paragraph (2), for “273” substitute “ 268A, 273 ”;
+
+(iii) in sub-paragraph (3), after “(1B)” insert
+
+> —
+>
+> (a) in paragraph (aa), omit “section 268A or” and “282B(2) or”;
+>
+> (b)
+
+.
+
+### PART 3 — Offences attracting special custodial sentence: England and Wales
+
+#### Sentencing Act 2020 (c. 17)
+
+**12** (1) In section 398 of the Sentencing Act 2020 (ancillary or inchoate offences), in subsection (4), in the words after paragraph (b), for “9” substitute “ 8 or 12 ”.
+
+(2) The amendment made by sub-paragraph (1) does not apply where a person is convicted of an offence before the day on which this paragraph comes into force.
+
+### PART 4 — Sentence for offenders of particular concern aged under 18 at time of offence: England and Wales
+
+#### Rehabilitation of Offenders Act 1974 (c. 53)
+
+**13** In section 5 of the Rehabilitation of Offenders Act 1974 as it forms part of the law of England and Wales (rehabilitation periods for particular sentences)—
+
+(a) in subsection (1)(d), after “or section 250” insert “ or 252A ”;
+
+(b) in subsection (8), in paragraph (f) of the definition of “custodial sentence”, before “of the Sentencing Code” insert “ or 252A ”.
+
+#### Magistrates' Courts Act 1980 (c. 43)
+
+**14** (1) The Magistrates' Courts Act 1980 is amended as follows.
+
+(2) In section 24A(5)(b) (explanation of sentencing powers if offender aged under 18 pleads guilty)—
+
+(a) after “16” insert “ , 16A ”;
+
+(b) after “16(1)(c)” insert “ , 16A(1)(c) ”.
+
+(3) In section 113(3) (no bail pending appeal for accused committed to Crown Court), after “16” insert “ , 16A ”.
+
+#### Mental Health Act 1983 (c. 20)
+
+**15** In section 43(4) of the Mental Health Act 1983 (modification of magistrates' court's powers of committal), for “or 16” substitute “ , 16 or 16A ”.
+
+#### Criminal Justice and Public Order Act 1994 (c. 33)
+
+**16** In section 25(5) of the Criminal Justice and Public Order Act 1994 (restriction of bail for certain offenders: interpretation), in paragraph (a) of the definition of “the relevant enactments”, after “250” insert “ or 252A ”.
+
+#### Crime and Disorder Act 1998 (c. 37)
+
+**17** (1) The Crime and Disorder Act 1998 is amended as follows.
+
+(2) In section 38(4) (youth justice services to be provided by local authorities), in paragraph (i), after “250,” insert “ 252A, ”.
+
+(3) In section 41(5)(i) (accommodation that may be provided under agreement with the Youth Justice Board), in sub-paragraph (ii), after “250,” insert “ 252A, ”.
+
+(4) In section 51A(3) (conditions for sending offender aged under 18 to Crown Court for trial), after paragraph (b) insert—
+
+> (ba) that the offence is such as is mentioned in section 252A(1)(a) of the Sentencing Code and the court considers that if he is found guilty of the offence it ought to be possible to sentence him under that section to a term of detention of more than two years;
+
+.
+
+#### Criminal Justice and Court Services Act 2000 (c. 43)
+
+**18** (1) The Criminal Justice and Court Services Act 2000 is amended as follows.
+
+(2) In section 62(5) (sentences in relation to which electronic monitoring conditions may be imposed on release), in paragraph (d), after “250” insert “ or 252A ”.
+
+(3) In section 62A(4) (exceptions from power to require imposition of electronic monitoring condition), in paragraph (b), after “250” insert “ or 252A ”.
+
+(4) In section 64(5) (sentences in relation to which drug testing requirement may be imposed on release), in paragraph (d), after “250” insert “ or 252A ”.
+
+(5) In section 64A(8) (power to require attendance at drug testing appointment: interpretation), in paragraph (c) of the definition of “sentence of imprisonment”, after “250” insert “ or 252A ”.
+
+#### Proceeds of Crime Act 2002 (c. 29)
+
+**19** In section 70(5) of the Proceeds of Crime Act 2002 (duty to state whether committal would have been made on grounds other than confiscation), after “16(2)” insert “ or 16A(2) ”.
+
+#### Sexual Offences Act 2003 (c. 42)
+
+**20** In section 131 of the Sexual Offences Act 2003 (application of notification requirements and orders to young offenders), in paragraph (h), after “250” insert “ , 252A ”.
+
+#### Criminal Justice Act 2003 (c. 44)
+
+**21** (1) The Criminal Justice Act 2003 is amended as follows.
+
+(2) In section 237(1)(b) (offender sentenced to youth detention to count as fixed-term prisoner), after “250” insert “ , 252A ”.
+
+(3) In section 240ZA(11) (time remanded in custody to count towards term of youth detention), after “250,” insert “ 252A, ”.
+
+(4) In section 247A (eligibility for release on licence of terrorist prisoners)—
+
+(a) in subsection (6), after “or under section” insert “ 252A, ”;
+
+(b) in subsection (8), in the definition of “the appropriate custodial term”, and in paragraph (a) of the definition of “the requisite custodial period”, after “or under section” insert “ 252A, ”.
+
+(5) In section 250 (licence conditions)—
+
+(a) in subsection (4), after “250,” insert “ 252A, ”;
+
+(b) in subsection (5A)(b), after “or under section” insert “ 252A, ”.
+
+(6) In section 258(3A) (no duty to release fine defaulter or contemnor also serving term of youth detention), after “250” insert “ , 252A ”.
+
+(7) In section 263(4) (sentences of detention to which provision about concurrent terms applies), after “250,” insert “ 252A, ”.
+
+(8) In section 264 (consecutive sentences)—
+
+(a) in subsection (6A)(a), for “265” substitute “ 252A, 265 ”;
+
+(b) in subsection (7), after “250,” insert “ 252A, ”.
+
+(9) In section 327(3) (sentences attracting risk assessment measures for sexual or violent offenders), in paragraph (b)(v), after “250” insert “ or 252A ”.
+
+#### Domestic Violence, Crime and Victims Act 2004 (c. 28)
+
+**22** In section 45(1) of the Domestic Violence, Crime and Victims Act 2004 (victims' representations and information: interpretation), in the definition of “relevant sentence”, after “250” insert “ or 252A ”.
+
+#### Armed Forces Act 2006 (c. 52)
+
+**23** (1) The Armed Forces Act 2006 is amended as follows.
+
+(2) In section 188(4) (consecutive sentence may be passed on offender serving term of youth detention), in paragraph (b), after “250” insert “ or 252A ”.
+
+(3) In section 213(3A) (application of section 253 of the Sentencing Code), after “250” insert “ or 252A ”.
+
+(4) In section 227(3) (minimum sentence for certain firearms offences), after “250” insert “ or 252A ”.
+
+#### Offender Management Act 2007 (c. 21)
+
+**24** In section 28(3) of the Offender Management Act 2007 (custodial sentences where polygraph condition may be imposed on release on licence)—
+
+(a) omit the “or” before paragraph (f);
+
+(b) at the end of that paragraph insert
+
+> or
+>
+> (g) a sentence of detention under section 252A of the Sentencing Code.
+
+#### Counter-Terrorism Act 2008 (c. 28)
+
+**25** In section 45(1)(a) of the Counter-Terrorism Act 2008 (sentences attracting notification requirements), after paragraph (via) (but before the final “or”) insert—
+
+> (vib) detention under section 252A of the Sentencing Code (special sentence for terrorist offenders of particular concern aged under 18),
+
+.
+
+#### Sentencing Act 2020 (c. 17)
+
+**26** (1) The Sentencing Act 2020 is amended as follows.
+
+(2) After section 16 insert—
+
+> **Committal for sentence of young offenders on summary trial of certain terrorist offences**
+>
+> **16A** (1) This section applies where—
+>
+> (a) on summary trial of an offence within section 252A(1)(a) (terrorism offences attracting special sentence for offenders of particular concern), a person is convicted of the offence,
+>
+> (b) the person is aged under 18 at the time of conviction, and
+>
+> (c) the court is of the opinion that—
+>
+> (i) the offence, or
+>
+> (ii) the combination of the offence and one or more offences associated with it,
+>
+> was such that the Crown Court should have power to deal with the offender by imposing a sentence of detention under section 252A for a term of more than two years.
+>
+> (2) The court may commit the offender in custody or on bail to the Crown Court for sentence in accordance with section 22(2).
+>
+> (3) For powers of the court, where it commits a person under subsection (2), also to commit in respect of other offences, see section 20.
+
+(3) In section 17(4) (power to commit dangerous young offender for sentence not to affect other powers of committal), after “16” insert “ , 16A ”.
+
+(4) In section 19 (committal for sentence on indication of guilty plea by child with related offences)—
+
+(a) in subsection (1)(b), at the end insert “ or section 252A(1)(a) (terrorism offences attracting special sentence for offenders of particular concern) ”;
+
+(b) in subsection (2)(a), after “249(1)” insert “ or within section 252A(1)(a) ”;
+
+(c) in subsection (3)(b), after “16(2)” insert “ , 16A(2) ”.
+
+(5) In section 22 (powers of Crown Court where offender aged under 18 committed for sentence)—
+
+(a) in the heading, after “16,” insert “ 16A, ”;
+
+(b) in subsection (1), after paragraph (a) insert—
+
+> (aa) section 16A(2) (committal for sentence of young offenders on summary trial of certain terrorist offences),
+
+;
+
+(c) in subsection (4)(b), after “16(2)” insert “ , 16A(2) ”.
+
+(6) In section 166(5) (periods of extension of driving disqualification order where custodial sentence imposed), after entry 1 in the table insert—
+
+> |  |  |  |
+> |---|---|---|
+> | 1A | a sentence of detention under section 252A (special sentence of detention for terrorist offenders of particular concern) | two-thirds of the term imposed pursuant to section 252A(5) (the appropriate custodial term) |
+
+.
+
+(7) In section 221(2) (kinds of custodial sentence dealt with by Chapter 2 of Part 10), after paragraph (b) insert—
+
+> (ba) special sentences of detention for terrorist offenders of particular concern (section 252A);
+
+.
+
+(8) In section 225 (restriction on consecutive sentences for released prisoners), in subsection (3)(c), after sub-paragraph (i) insert—
+
+> (ia) section 252A,
+
+.
+
+(9) In section 226(2)(b) (sentences which may not be imposed on offender aged under 21 without representation), after “(or 254)” insert “ , under section 252A ”.
+
+(10) In section 234(1)(c) (sentences to be considered before detention and training order), after sub-paragraph (i) (but before the final “or”) insert—
+
+> (ia) a sentence of detention under section 252A,
+
+.
+
+(11) In section 241(6) (modification of order for release from detention and training order where offender subject to another sentence), in paragraph (b), after sub-paragraph (i) insert—
+
+> (ia) a sentence of detention under section 252A,
+
+.
+
+(12) In section 248(4) (meaning of “relevant sentence of detention”), after paragraph (a) insert—
+
+> (aa) a sentence of detention under section 252A,
+
+.
+
+(13) In section 249(1) (availability of sentence of detention under section 250), after “table” insert “ (but the court is not required to pass a sentence of detention under section 252A) ”.
+
+(14) Before section 253, insert as an italic heading, “ Sentences of detention passed during detention and training order ”.
+
+(15) In section 253 (effect of sentence of detention where offender already subject to detention and training order), in subsection (1), after “250” insert “ or 252A ”.
+
+(16) In section 255(1)(a) (offences for which extended sentence of detention available), for sub-paragraph (ii) substitute—
+
+> (ii) is one for which a sentence of detention is available under section 250 or 252A (see the table in section 249(1) and section 252A(1)(a) and (b)),
+
+.
+
+(17) In section 260 (place and conditions of detention), in the heading and in subsection (1), after “250” insert “ , 252A ”.
+
+(18) In section 265 (special sentence of detention in young offender institution for offenders of particular concern), after subsection (3) insert—
+
+> (4) Where an offence is found to have been committed over a period of 2 or more days, or at some time during a period of 2 or more days, it must be taken for the purposes of subsection (1A) to have been committed on the last of those days.
+
+(19) In section 278 (special sentence of imprisonment for offenders of particular concern), after subsection (3) insert—
+
+> (4) Where an offence is found to have been committed over a period of 2 or more days, or at some time during a period of 2 or more days, it must be taken for the purposes of subsection (1A) to have been committed on the last of those days.
+
+(20) In section 311(3) (appropriate type of sentence where minimum sentence for firearms offence imposed), after “250” insert “ or, in a case to which section 252A applies, under that section ”.
+
+(21) In section 312 (minimum sentence for threatening with weapon or bladed article), after subsection (3) insert—
+
+> (4) This section is subject to section 252A.
+
+(22) In section 315 (minimum sentence for repeat offence involving weapon or bladed article), after subsection (5) insert—
+
+> (6) This section is subject to section 252A.
+
+(23) In section 325(5) (sentences where certain time on bail to count towards term), in paragraph (c), after “section 250” insert “ , 252A ”.
+
+(24) In section 327(2) (sentences where time in custody awaiting extradition to count towards term), in paragraph (c), after “section 250” insert “ , 252A ”.
+
+(25) In section 329 (conversion of sentences of detention to imprisonment)—
+
+(a) in subsection (3), for “(4) and” substitute “ (4) to ”;
+
+(b) after subsection (4) insert—
+
+> (4A) If the relevant custodial sentence is—
+>
+> (a) a sentence of detention under section 252A, or
+>
+> (b) a sentence of detention in a young offender institution under section 265,
+>
+> the offender is to be treated as if sentenced to a sentence of imprisonment under section 278.
+
+;
+
+(c) in subsection (7), after paragraph (a) insert—
+
+> (aa) a sentence of detention under section 252A;
+
+.
+
+(26) In section 417(3) (commencement of provisions of Schedule 22 which relate to prospective abolition of sentences of detention in a young offender institution), in paragraph (c), after “51” insert “ , 51A ”.
+
+(27) In Schedule 22 (amendments of the Sentencing Code, including in relation to prospective abolition of sentences of detention in a young offender institution)—
+
+(a) after paragraph 51 insert—
+
+> **51A** In section 252A (special sentence of detention for terrorist offenders of particular concern aged under 18), in subsection (4), for “21” substitute “ 18 ”.
+
+;
+
+(b) in paragraph 70 (amendment of section 329 of the Sentencing Code in relation to the prospective abolition of sentences of detention in a young offender institution), before paragraph (a) insert—
+
+> (zb) in subsection (4A), omit paragraph (b) (and the word “or” immediately before it);
+
+.
+
+(28) In Schedule 27 (transitional provision and savings), in paragraph 15(2), before paragraph (a) insert—
+
+> (za) the reference in section 252A(1)(c)(i) to a sentence of detention for life under section 250 includes a reference to a sentence of detention for life under section 91 of the Powers of Criminal Courts (Sentencing) Act 2000;
+>
+> (zb) the reference in section 252A(1)(c)(ii) to an extended sentence of detention under section 254 includes a reference to an extended sentence of detention under section 226B of the Criminal Justice Act 2003;”.
+
+#### Children (Secure Accommodation) Regulations 1991 (S.I. 1991/1505)
+
+**27** In regulation 5(1) of the Children (Secure Accommodation) Regulations 1991 (custodial sentences disapplying section 25 of the Children Act 1989), before “or 259” insert “ , 252A ”.
+
+#### Youth Justice Board for England and Wales Order 2000 (S.I. 2000/1160)
+
+**28** In article 4(2) of the Youth Justice Board for England and Wales Order 2000 (functions exercisable by the Youth Justice Board concurrently with the Secretary of State)—
+
+(a) in paragraph (a), before “or 259” insert “ , 252A ”;
+
+(b) in paragraph (m)(ii), before “or 259” insert “ , 252A ”.
+
+#### Child Benefit (General) Regulations 2006 (S.I. 2006/223)
+
+**29** In regulation 1(3) of the Child Benefit (General) Regulations 2006 (interpretation of Regulations), in paragraph (a) of the definition of “penalty”, after “250,” insert “ 252A, ”.
+
+#### Employment and Support Allowance Regulations 2008 (S.I. 2008/794)
+
+**30** In regulation 160(5) of the Employment and Support Allowance Regulations 2008 (exceptions from disqualification for imprisonment: interpretation), in paragraph (c), after “250” insert “ , 252A ”.
+
+#### Employment and Support Allowance Regulations 2013 (S.I. 2013/379)
+
+**31** In regulation 96(6) of the Employment and Support Allowance Regulations 2013 (exceptions from disqualification for imprisonment: interpretation), in paragraph (c), after “250” insert “ , 252A ”.
+
+#### Children (Secure Accommodation) (Wales) Regulations 2015 (S.I. 2015/1988 (W. 298))
+
+**32** In regulation 14(a) of the Children (Secure Accommodation) (Wales) Regulations 2015 (sentences of detention disapplying section 119 of the Social Services and Well-being (Wales) Act 2014), after “250” insert “ , 252A ”.
+
+### PART 5 — Amendments in relation to sentencing under service law (prospective)
+
+#### Rehabilitation of Offenders Act 1974 (c. 53) (prospective)
+
+**33** In section 5 of the Rehabilitation of Offenders Act 1974 as it forms part of the law of England and Wales (rehabilitation periods for particular sentences)—
+
+(a) in subsection (1)(d), after “or section 209” insert “ or 224B ”;
+
+(b) in subsection (8), in paragraph (f) of the definition of “custodial sentence”, after “209” insert “ or 224B ”.
+
+**34** (1) The Rehabilitation of Offenders Act 1974 as it forms part of the law of Scotland is amended as follows.
+
+(2) In section 5 (rehabilitation periods for particular sentences)—
+
+(a) in subsection (1)(d), after “or section 209” insert “ or 224B ”;
+
+(b) in subsection (2F)(a)(ii), after “209” insert “ or 224B ”.
+
+(3) In section 5B (Table B – disclosure periods: service disciplinary cases), in the sixth entry of Table B, after “209” insert “ or 224B ”.
+
+#### Rehabilitation of Offenders (Northern Ireland) Order 1978 (S.I. 1978/1908 (N.I. 27)) (prospective)
+
+**35** In Article 6 of the Rehabilitation of Offenders (Northern Ireland) Order 1978 (rehabilitation periods for particular sentences), in each of the following places, after “209” insert “ or 224B ”
+
+(a) paragraph (1)(e);
+
+(b) in paragraph (2), in Table B, in the first column, the fourth and fifth entries;
+
+(c) paragraph (9)(c).
+
+#### Criminal Justice Act 1982 (c. 48) (prospective)
+
+**36** In section 32(1A) of the Criminal Justice Act 1982 (sentences excluded from early release of prisoners to make the best use of the places available for detention), in paragraph (ca) (inserted by Part 2 of this Schedule), at the end insert “ , including a sentence passed as a result of section 219ZA of the Armed Forces Act 2006 ”.
+
+#### Crime and Disorder Act 1998 (c. 37) (prospective)
+
+**37** (1) The Crime and Disorder Act 1998 is amended as follows.
+
+(2) In section 38(4) (youth justice services to be provided by local authorities), in paragraph (i), for “or 222” substitute “ , 222 or 224B ”.
+
+(3) In section 41(5)(i) (accommodation that may be provided under agreement with the Youth Justice Board), in sub-paragraph (ii), for “or 222” substitute “ , 222 or 224B ”.
+
+#### Criminal Justice and Court Services Act 2000 (c. 43) (prospective)
+
+**38** (1) The Criminal Justice and Court Services Act 2000 is amended as follows.
+
+(2) In section 62(5) (sentences in relation to which electronic monitoring conditions may be imposed on release), in paragraph (g), for “or 218” substitute “ , 218 or 224B ”.
+
+(3) In section 62A(4) (exceptions from power to require imposition of electronic monitoring condition), in paragraph (c), after “209” insert “ or 224B ”.
+
+(4) In section 64(5) (sentences in relation to which drug testing requirement may be imposed on release), in paragraph (g), for “or 218” substitute “ , 218 or 224B ”.
+
+(5) In section 64A(8) (power to require attendance at drug testing appointment: interpretation), in paragraph (f) of the definition of “sentence of imprisonment”, after “209” insert “ or 224B ”.
+
+#### Sexual Offences Act 2003 (c. 42) (prospective)
+
+**39** In section 131 of the Sexual Offences Act 2003 (application of notification requirements and orders to young offenders), in paragraph (h), for “or 218” substitute “ , 218 or 224B ”.
+
+#### Criminal Justice Act 2003 (c. 44) (prospective)
+
+**40** In section 237(1B) of the Criminal Justice Act 2003 (service sentences to be treated as equivalent sentences in England and Wales) —
+
+(a) omit the “and” before paragraph (e);
+
+(b) at the end of that paragraph insert—
+
+> (f) references to a sentence of detention under section 252A of the Sentencing Code include a sentence of detention under section 224B of that Act;
+>
+> (g) references to a sentence under section 268A or 282A of the Sentencing Code include such a sentence passed as a result of section 219ZA of that Act.
+
+#### Armed Forces Act 2006 (c. 52) (prospective)
+
+**41** (1) The Armed Forces Act 2006 is amended as follows.
+
+(2) In section 188 (power to pass consecutive custodial sentences), in subsections (2)(b) and (4)(b), after “209” insert “ or 224B ”.
+
+(3) In section 209 (sentence of detention for offender aged under 18), after subsection (7) insert—
+
+> (8) This section does not apply if the Court Martial is required to impose a sentence of detention under section 224B.
+
+(4) In section 210 (place and conditions of youth detention), after “209”, in each place it occurs (including in the heading), insert “ or 224B ”.
+
+(5) In section 211(4) (cases in which detention and training order not required), after “221A” insert “ , 224B ”.
+
+(6) In section 213(3A) (as amended by Part 4 of this Schedule) (application of section 253 of the Sentencing Code), after “209” insert “ or 224B ”.
+
+(7) In section 219A(1) (availability of extended sentence for certain violent, sexual or terrorism offences), after paragraph (d) (but before the final “and”) insert—
+
+> (da) the court is not required—
+>
+> (i) by section 268B(2) of the Sentencing Code (as applied by section 219ZA(4) of this Act) to impose a serious terrorism sentence of detention in a young offender institution for the offence or for an offence associated with it;
+>
+> (ii) by section 282B(2) of the Sentencing Code (as applied by section 219ZA(7) of this Act) to impose a serious terrorism sentence of imprisonment for the offence or for an offence associated with it;
+
+.
+
+(8) In section 223 (meaning of “the required opinion”)—
+
+(a) after subsection (1) insert—
+
+> (1A) “The required opinion” for the purposes of section 219ZA is the opinion that there is a significant risk to members of the public of serious harm occasioned by the commission by the offender of—
+>
+> (a) further serious terrorism offences or other specified offences; or
+>
+> (b) further acts or omissions that would be serious terrorism offences or other specified offences if committed in England or Wales.
+
+;
+
+(b) in subsection (4), after the definition of “serious harm” insert—
+
+> “serious terrorism offence” has the meaning given by that section;
+
+.
+
+(9) In section 224A (special custodial sentence for offenders of particular concern)—
+
+(a) in subsection (1), in paragraph (d)—
+
+(i) omit the “or” at the end of sub-paragraph (i);
+
+(ii) after sub-paragraph (ii) insert
+
+> , or
+>
+> (iii) a serious terrorism sentence of detention or imprisonment under section 268A or 282A of the Sentencing Code (as applied by section 219ZA of this Act).
+
+;
+
+(b) after subsection (3) insert—
+
+> (3A) Where an offence is found to have been committed over a period of 2 or more days, or at some time during a period of 2 or more days, it must be taken for the purposes of subsection (1A) to have been committed on the last of those days.
+
+(10) In section 227(3) (minimum sentence for certain firearms offences), for the words from “, the reference” to the end substitute
+
+> —
+>
+> (a) the reference to a sentence of detention under section 250 of that Code is to be read as a reference to a sentence of detention under section 209 of this Act, and
+>
+> (b) the reference to a sentence of detention under section 252A of that Code is to be read as a reference to a sentence of detention under section 224B of this Act.
+
+(11) In section 238(6) (offences aggravated by terrorist connection)—
+
+(a) omit the “and” at the end of paragraph (a);
+
+(b) after paragraph (a) insert—
+
+> (aa) the reference in subsection (4)(c) to an offence not specified in Schedule A1 includes a reference to an offence under section 42 as respects which the corresponding offence under the law of England and Wales is not specified in Schedule A1, and
+
+;
+
+(c) in paragraph (b), for “(1)” substitute “ (5)(b) ”.
+
+(12) In section 246 (crediting of time in custody), in subsection (6)(a), after “209” insert “ or 224B ”.
+
+(13) In section 256(1)(c) (cases where pre-sentence report to be considered), after “219(1),” insert “ 219ZA(1)(d), ”.
+
+(14) In section 260 (discretionary custodial sentences: general restrictions) —
+
+(a) in subsection (1)—
+
+(i) for “This section applies” substitute “ Subsection (2) applies ”;
+
+(ii) after paragraph (c) insert—
+
+> (ca) falls to be imposed under section 268A or 282A of the Sentencing Code as a result of section 219ZA (serious terrorism sentences);
+
+;
+
+(b) in subsection (4B), before paragraph (a) insert—
+
+> (za) section 268C(2) or 282C(2) of the Sentencing Code, as applied by section 219ZA of this Act (serious terrorism sentences for offenders aged 18 or over),
+
+.
+
+(15) In section 261 (length of discretionary custodial sentences: general), in subsection (1), after paragraph (b)—
+
+> (ba) section 268A or 282A of the Sentencing Code as a result of section 219ZA (serious terrorism sentences),
+
+.
+
+(16) In section 262A (application of section 329 of the Sentencing Code)—
+
+(a) after subsection (2) insert—
+
+> (2A) In subsection (4A)—
+>
+> (a) paragraph (a) has effect as if, for “252A”, there were substituted “ 224B of the Armed Forces Act 2006 ”;
+>
+> (b) paragraph (b) has effect as if, after “265”, there were inserted “ passed as a result of section 224A of the Armed Forces Act 2006 ”;
+>
+> (c) the words after paragraph (b) have effect as if, after “278”, there were inserted “ passed as a result of section 224A of the Armed Forces Act 2006 ”.
+
+;
+
+(b) after subsection (3) insert—
+
+> (3A) Subsection (5A) has effect as if, at the end, there were inserted “passed as a result of section 219ZA(7) of the Armed Forces Act 2006.
+
+;
+
+(c) in subsection (4)—
+
+(i) after the paragraph (a) treated as substituted in subsection (7) of section 329 of the Sentencing Code insert—
+
+> (aa) a sentence of detention under section 224B of that Act;
+
+;
+
+(ii) after the paragraph (d) treated as substituted in subsection (7) of section 329 of the Sentencing Code insert—
+
+> (da) a serious terrorism sentence of detention in a young offender institution (see section 219ZA(4) of the Armed Forces Act 2006);
+
+.
+
+(17) In section 374 (interpretation of Act), in the definition of “custodial sentence”, in paragraph (b), for “or 221A” substitute “ , 221A or 224B ”.
+
+#### Counter-Terrorism Act 2008 (c. 28) (prospective)
+
+**42** In paragraph 5(1)(a)(iv) of Schedule 6 to the Counter-Terrorism Act 2008 (service sentences of youth detention attracting notification requirements for terrorist offenders), after “209” insert “ or 224B ”.
+
+#### Sentencing Act 2020 (c. 17) (prospective)
+
+**43** (1) The Sentencing Act 2020 is amended as follows.
+
+(2) In section 225 (restriction on consecutive sentences for released prisoners), in subsection (3)(c)(vi), after “209” insert “ or 224B ”.
+
+(3) In section 241 (period of detention and training under detention and training order), in subsections (6)(b)(ii) and (7)(c), after “209” insert “ or 224B ”.
+
+(4) In section 248(4) (meaning of “relevant sentence of detention”), in paragraph (c), after “209” insert “ or 224B ”.
+
+(5) In section 418 (commencement of provisions of Schedule 26 in relation to prospective abolition of sentences of detention in a young offender institution), after subsection (2) insert—
+
+> (2A) Paragraphs 13A, 20A and 24A (and paragraph 1 so far as it relates to them) also come into force at that time.
+
+(6) In Schedule 25 (amendments of Armed Forces Act 2006), omit paragraph 45(5).
+
+(7) In Schedule 26 (further amendments of the Armed Forces Act 2006 in relation to prospective abolition of sentences of detention in a young offender institution)—
+
+(a) after paragraph 13 insert—
+
+> **13A** In section 219ZA (serious terrorism sentence for offenders aged 18 or over)—
+>
+> (a) in subsection (1)(e), omit “a sentence of custody for life or (as the case may be)”;
+>
+> (b) omit subsections (4) to (6);
+>
+> (c) in subsection (7), omit “Where the offender is aged 21 or over when convicted of the serious terrorism offence,”.
+
+;
+
+(b) in paragraph 14 (amendments of section 219A of the 2006 Act), for sub-paragraph (a) substitute—
+
+> (a) in subsection (1)—
+>
+> (i) in paragraph (d), omit sub-paragraphs (i) and (iii);
+>
+> (ii) in paragraph (da), omit sub-paragraph (i);
+
+;
+
+(c) in paragraph 15(a) (amendments of section 224A of the 2006 Act), after paragraph (ii) insert—
+
+> (iii) in sub-paragraph (iii), for “detention or imprisonment under section 268A or 282A” substitute “ imprisonment under section 282A ”;
+
+;
+
+(d) in paragraph 18 (amendment of section 239 of the 2006 Act), after “pleas)” insert
+
+> —
+>
+> (a) in subsection (3A), omit—
+>
+> (i) “(4) or”;
+>
+> (ii) “268A or”;
+>
+> (b) in subsection (3B), omit “268C(2) or, as the case may be,”;
+>
+> (c)
+
+;
+
+(e) in paragraph 19 (amendments of section 260 of the 2006 Act)—
+
+(i) in sub-paragraph (a), after paragraph (ii) insert—
+
+> (iia) in paragraph (ca), omit “268A or”;
+
+;
+
+(ii) for sub-paragraph (b) substitute—
+
+> (b) in subsection (4B)—
+>
+> (i) in paragraph (za), omit “268C(2) or”;
+>
+> (ii) in paragraph (a), omit “268(2) or”.
+
+;
+
+(f) in paragraph 20 (amendments of section 261 of the 2006 Act), at the end insert—
+
+> (c) in paragraph (ba), omit “268A or”.
+
+;
+
+(g) after paragraph 20 insert—
+
+> **20A** In section 261A(3) (life sentences: further provision)—
+>
+> (a) in paragraph (b), omit “268B(2) or”;
+>
+> (b) in paragraph (c)(i), omit “268B(2) or”.
+
+;
+
+(h) in paragraph 21 (amendments of section 262A of the 2006 Act), for the words from “, in subsection (4)” to the end substitute—
+
+> (a) in subsection (2A), omit paragraph (b);
+>
+> (b) omit subsection (3A);
+>
+> (c) in subsection (4), omit paragraphs (d), (da), (e) and (f) treated as substituted in subsection (7) of section 329 of the Sentencing Code.
+
+;
+
+(i) after paragraph 24 insert—
+
+> **24A** In section 304C (to be inserted by the Armed Forces Act 2016: reduction in sentence), in subsection (5A)—
+>
+> (a) omit “268C(2) or”;
+>
+> (b) for “section 219ZA(5) to (8)” substitute “ section 219ZA(8) ”.
+
+(8) In Schedule 27 (transitional provision and savings), in paragraph 16(2), for the words from “, the reference” to the end substitute
+
+> —
+>
+> (a) the reference in section 224A(1)(d)(ii) of the Armed Forces Act 2006 to an extended sentence under section 266 or 279 of the Sentencing Code includes a reference to an extended sentence under section 226A of the Criminal Justice Act 2003;
+>
+> (b) the reference in section 224B(1)(c)(ii) to an extended sentence of detention under section 254 of the Sentencing Code includes a reference to an extended sentence of detention under section 226B of the Criminal Justice Act 2003.
+
+### PART 6 — Amendments in relation to release: England and Wales
+
+#### Powers of Criminal Courts (Sentencing) Act 2000 (c. 6)
+
+**[^F3]44** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Criminal Justice Act 2003 (c. 44)
+
+**45** (1) The Criminal Justice Act 2003 is amended as follows.
+
+(2) In section 247A (restricted eligibility for release on licence of terrorist prisoners)—
+
+(a) in subsection (2)—
+
+(i) in the words before paragraph (a), for “whether it was committed before or after this section comes into force” substitute “ whenever it was committed ”;
+
+(ii) for paragraphs (b) and (c) substitute—
+
+> (b) it is a service offence as respects which the corresponding civil offence is so specified, or
+>
+> (c) it was determined to have a terrorist connection.
+
+;
+
+(b) after subsection (7) insert—
+
+> (7A) For the purposes of this section, an offence was determined to have a terrorist connection if it was—
+>
+> (a) determined to have a terrorist connection under—
+>
+> (i) section 69 of the Sentencing Code (including as applied by section 238(6) of the Armed Forces Act 2006),
+>
+> (ii) section 30 of the Counter-Terrorism Act 2008 (in the case of an offender sentenced in England and Wales before the Sentencing Code applied, or an offender sentenced in Northern Ireland but now subject to the provisions of this Chapter), or
+>
+> (iii) section 32 of that Act (in the case of a person sentenced for a service offence before the Sentencing Code applied), or
+>
+> (b) proved to have been aggravated by reason of having a terrorist connection under section 31 of the Counter-Terrorism Act 2008 (in the case of an offender sentenced in Scotland but now subject to the provisions of this Chapter).
+
+;
+
+(c) in subsection (8), in the final definition, for “, “corresponding civil offence” and “service court”” substitute “and “corresponding civil offence””;
+
+(d) in subsection (9) (transitional provision for pre-commencement referrals of terrorist prisoners), in paragraph (a), for “sentence” substitute “ period ”;
+
+(e) after subsection (10) insert—
+
+> (10A) In the case of a prisoner to whom this section applies as a result of the amendments made by sub-paragraph (2) of paragraph 45 of Schedule 13 to the Counter-Terrorism and Sentencing Act 2021, the references in subsections (9) and (10) to the date on which this section comes into force are to be read as references to the date on which that sub-paragraph comes into force.
+
+(3) In section 250 (licence conditions)—
+
+(a) in subsection (5A), in each of paragraphs (a) and (b), after “a prisoner” insert “ , other than a terrorist prisoner, ”;
+
+(b) after subsection (5A) insert—
+
+> (5AA) Subsection (5B) also applies to a licence granted, either on initial release or after recall to prison, to a terrorist prisoner in a case where the licence is granted following a direction of the Board for the prisoner's release.
+
+;
+
+(c) omit subsection (5BA);
+
+(d) after subsection (8) insert—
+
+> (9) In this section “terrorist prisoner” means a prisoner to whom section 247A applies, or would apply but for the prisoner's having been released on licence.
+
+(4) In section 264(6A) (custodial periods to be aggregated in case of consecutive terms served by terrorist prisoner)—
+
+(a) before paragraph (a) insert—
+
+> (za) in relation to a sentence within subsection (2A) of that section, the whole of the “appropriate custodial term” within the meaning of that section (see subsection (8) of that section),
+
+;
+
+(b) in paragraph (a), after “extended sentence” insert “ (not being one to which paragraph (za) applies) ”.
+
+(5) In section 264AA(2) (Parole Board directions when detention and training order to take effect on release from sentence of detention), after “under that section” insert “ or paragraph ”.
+
+(6) In Schedule 19ZA (offences carrying restricted eligibility for release on licence), omit Part 2.
+
+#### Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)
+
+**46** In section 128 of the Legal Aid, Sentencing and Punishment of Offenders Act 2012 (power to alter test for discretionary release on licence)—
+
+(a) in subsection (2), in paragraphs (bb) and (c), after “terrorist prisoner” insert “ eligible for discretionary release ”;
+
+(b) in subsection (6)—
+
+(i) in the definitions of “extended sentence prisoner” and “section 236A prisoner”, for “a terrorist prisoner” substitute “ one to whom section 247A of the Criminal Justice Act 2003 applies ”;
+
+(ii) in the definition of “terrorist prisoner”—
+
+(a) after “terrorist prisoner” insert “ eligible for discretionary release ”;
+
+(b) after “247A” insert “ (3) to (5) ”.
+
+### PART 7 — Consequential and related amendments: Scotland
+
+#### Social Work (Scotland) Act 1968 (c. 49)
+
+**47** In section 6A(1)(d) of the Social Work (Scotland) Act 1968 (inquiries into detention of children under certain enactments), after “44” insert “ , 205ZC(5) ”.
+
+#### Rehabilitation of Offenders Act 1974 (c. 53)
+
+**48** In section 5 of the Rehabilitation of Offenders Act 1974 as it forms part of the law of England and Wales (rehabilitation periods for particular sentences), in subsection (1)(d)—
+
+(a) for “Act 1975” substitute “ Act 1995 ”;
+
+(b) for the words from “section 206” to the end substitute “ section 205ZC(5) or 208 of the Criminal Procedure (Scotland) Act 1995; ”.
+
+**49** In section 5 of the Rehabilitation of Offenders Act 1974 as it forms part of the law of Scotland (rehabilitation periods for particular sentences)—
+
+(a) in subsection (1)(da), after “section” insert “ 205ZA(6) (serious terrorism sentence for young offenders), 205ZC(4) or (5) (terrorism sentence for young offenders or children), ”;
+
+(b) in subsection (12), in paragraph (b) of the definition of “custodial sentence”, after “44,” insert “ 205ZA(6), 205ZC(4) or (5), ”.
+
+#### Repatriation of Prisoners Act 1984 (c. 47)
+
+**50** In section 2(4)(b)(ii) of the Repatriation of Prisoners Act 1984 (provision that may be included in direction varying order requiring certain prisoners to be detained), after “or (4),” insert “ 1AB, ”.
+
+#### Prisons (Scotland) Act 1989 (c. 45)
+
+**51** (1) The Prisons (Scotland) Act 1989 is amended as follows.
+
+(2) In section 39(7B) (rules for the management of prisons and other institutions: application in relation to extended sentence)—
+
+(a) after “above to” insert—
+
+> (a) a prisoner subject to a sentence under section 205ZA or 205ZC of the 1995 Act (sentences for terrorism offences), the reference to the prisoner's sentence is to be construed as a reference to the appropriate custodial term of the sentence concerned, and
+>
+> (b)
+
+;
+
+(b) for “the 1995” substitute “ that ”.
+
+(3) In section 40(3)(a) (arrest of absent prisoners: application of section to persons sentenced or ordered to be detained under certain provisions of the 1995 Act), after “205” insert “ , 205ZC(5) ”.
+
+#### Prisoners and Criminal Proceedings (Scotland) Act 1993 (c. 9)
+
+**52** (1) The Prisoners and Criminal Proceedings (Scotland) Act 1993 is amended as follows.
+
+(2) In section 1 (release of short-term, long-term and life prisoners)—
+
+(a) in subsection (3A), for “section 1A” substitute “ sections 1A and 1B ”;
+
+(b) in subsection (9), after “applies” insert “ to the extent that the person is serving a sentence of imprisonment imposed in respect of an offence within section 1AB(2) ”.
+
+(3) In section 1AA (release of certain sexual offenders), for subsection (9) substitute—
+
+> (9) This section is subject to section 1B.
+
+(4) In section 1AB (restricted eligibility for release on licence of terrorist prisoners)—
+
+(a) in subsection (2)—
+
+(i) in the words before paragraph (a), for “whether it was committed before or after this section comes into force” substitute “ whenever it was committed ”;
+
+(ii) for paragraphs (b) and (c) substitute—
+
+> (b) it is a service offence as respects which the corresponding civil offence is so specified, or
+>
+> (c) it was determined to have a terrorist connection.
+
+;
+
+(b) after subsection (5) insert—
+
+> (5A) For the purposes of this section, an offence was determined to have a terrorist connection if it was—
+>
+> (a) proved to have been aggravated by reason of having a terrorist connection under section 31 of the Counter-Terrorism Act 2008, or
+>
+> (b) determined to have a terrorist connection under—
+>
+> (i) section 30 or 32 of that Act, or
+>
+> (ii) section 69 of the Sentencing Code (including as applied by section 238(6) of the Armed Forces Act 2006),
+>
+> (in the case of an offender sentenced in England and Wales or Northern Ireland, or for a service offence, but now subject to the provisions of this Part).
+>
+> (5B) Subsection (4) is subject to sections 1A and 1B.
+
+;
+
+(c) in subsection (6), for “, “corresponding civil offence” and “service court”” substitute “and “corresponding civil offence””.
+
+(5) In the heading of section 1A, after “to” insert “ certain ”.
+
+(6) After section 1A insert—
+
+> **Prisoners serving consecutive sentences including at least one terrorism sentence**
+>
+> **1B** (1) This section applies where—
+>
+> (a) a prisoner has been sentenced to two or more terms of imprisonment which are to be served consecutively on each other,
+>
+> (b) one or more of the sentences (the “terrorism sentence”) was imposed in respect of an offence within section 1AB(2), and
+>
+> (c) the sentences were imposed on the same occasion or, where they were imposed on different occasions, the prisoner has not been released under this Part at any time during the period beginning with the first and ending with the last of those occasions.
+>
+> (2) If the prisoner is serving a terrorism sentence and a sentence imposed in respect of an offence that is not within section 1AB(2) (a “non-terrorism sentence”), the terrorism sentence is to be served (or, where subsection (7) applies, treated as being served) after the non-terrorism sentence irrespective of when the sentences were imposed.
+>
+> (3) Where subsection (2) applies, the prisoner is to be taken to begin serving the custodial part of the terrorism sentence (or first such sentence) as soon as the prisoner has served the custodial part of the non-terrorism sentence.
+>
+> (4) If (but for this section) the prisoner would have been released on licence under this Part in respect of a non-terrorism sentence, the period during which the prisoner would have been on licence under this Part is to be served concurrently with the custodial part of the terrorism sentence.
+>
+> (5) The prisoner may not be released under this Part in respect of the terrorism sentence unless and until the prisoner has served the aggregate of—
+>
+> (a) if the prisoner is serving a non-terrorism sentence, the custodial part of the sentence, and
+>
+> (b) the custodial part of each terrorism sentence that the prisoner is serving.
+>
+> (6) Subsection (7) applies where—
+>
+> (a) a non-terrorism sentence is imposed on the prisoner (the “new sentence”), and
+>
+> (b) the prisoner has already served part of the custodial part of a terrorism sentence (the “served part”).
+>
+> (7) The prisoner is to be treated as having served—
+>
+> (a) where the served part is less than the custodial part of the new sentence, such part of the custodial part of the new sentence as is equal to the served part,
+>
+> (b) where the served part is equal to the custodial part of the new sentence, the custodial part of the new sentence,
+>
+> (c) where the served part exceeds the custodial part of the new sentence—
+>
+> (i) the custodial part of the new sentence, and
+>
+> (ii) so much of the custodial part of the terrorism sentence as is equal to the amount by which the served part exceeds the custodial part of the new sentence.
+>
+> (8) Nothing in this Part requires—
+>
+> (a) the Scottish Ministers to release the prisoner in respect of any of the terms of imprisonment unless and until they are required to release the prisoner in respect of each of the other terms of imprisonment,
+>
+> (b) the Scottish Ministers or the Parole Board to consider the prisoner's release in respect of any of the terms of imprisonment unless and until the Ministers are or the Board is required to consider the prisoner's release, or the Ministers are required to release the prisoner, in respect of each of the other terms.
+>
+> (9) If the prisoner is released on licence under this Part the prisoner is to be on licence, on and after the release, until the prisoner would, but for the release, have served a term equal in length to the aggregate length of the term of imprisonment of any non-terrorism sentence and the term or, as the case may be, terms of imprisonment for the terrorism sentence or sentences less the period mentioned in subsection (10).
+>
+> (10) The period is—
+>
+> (a) any period served concurrently in accordance with subsection (4), and
+>
+> (b) if (but for this section) the prisoner would have been released unconditionally under section 1(1) in respect of a non-terrorism sentence, the period equal to one-half of the term of that sentence.
+>
+> (11) Where a prisoner to which this section applies is released on licence under this Part (other than a licence under section 3AA), the release is to be on a single licence which is to be subject to such conditions as may be specified or required by this Part in relation to all the sentences in respect of which the prisoner has been so released.
+>
+> (12) In this section “custodial part”, in relation to a term of imprisonment means a period equal to the part of the term that (but for this section) the prisoner would be required to serve before—
+>
+> (a) the Scottish Ministers are required to release the prisoner under this Part, or
+>
+> (b) the Parole Board is first entitled under this Part to make a recommendation that the prisoner be released on licence under this Part.
+>
+> (13) In this section—
+>
+> (a) references to a non-terrorism sentence include references to two or more such sentences that are treated as a single term by virtue of section 27(5) (whether imposed before, after or both before and after a terrorism sentence), and
+>
+> (b) where subsection (7) applies, the references in that subsection to the “custodial part of the new sentence” include references to the custodial part of the single term.
+>
+> (14) This section applies to a prisoner on whom sentence was imposed before the day on which paragraph 52(6) of Schedule 13 to the Counter-Terrorism and Sentencing Act 2021 came into force as it applies to a prisoner on whom sentence was imposed on or after that day.
+
+(7) In section 2 (duty to release discretionary life prisoners)—
+
+(a) in subsection (2)—
+
+(i) in the opening words, after “being” insert “ , subject to section 205ZB(2) of the 1995 Act, ”;
+
+(ii) in paragraph (c), after “appropriate” insert “ (and except in the case of a prisoner to whom section 205ZB of the 1995 Act applies) ”;
+
+(b) in subsection (6), for “subsection (7)” substitute “ subsections (6B) and (7) ”;
+
+(c) after subsection (6A) insert—
+
+> (6B) No requirement may be made under subsection (6) by a life prisoner who is also serving or liable to serve a sentence of imprisonment in respect of an offence within section 1AB(2)—
+>
+> (a) in the case of a prisoner to whom section 1AB(3) applies, before the day on which the Scottish Ministers are required to refer the prisoner's case to the Parole Board under section 1AB(3), or
+>
+> (b) in the case of a prisoner to whom section 1AB(3) does not apply by virtue of section 1AB(2A), before the day on which the Scottish Ministers are required to release the prisoner under section 26ZA(5).
+
+;
+
+(d) in subsection (7), after “prisoner” insert “ (other than a prisoner to whom subsection (6B) applies) ”.
+
+(8) In section 2B(1) (punishment part for life prisoners: assessment under section 2A(1)(a) and (b)), at the beginning insert “ Subject to section 205ZB(2) of the 1995 Act, ”.
+
+(9) In section 3A (re-release of prisoners serving extended sentences)—
+
+(a) in the heading, after “serving” insert “ certain terrorism sentences and ”;
+
+(b) in subsection (1), for the words from “an” to “sentences)” substitute “ a sentence mentioned in subsection (1ZA) ”;
+
+(c) after subsection (1) insert—
+
+> (1ZA) The sentences are—
+>
+> (a) a sentence imposed under section 205ZA of the 1995 Act (serious terrorism sentence);
+>
+> (b) a sentence imposed under section 205ZC of that Act (terrorism sentence with fixed licence period);
+>
+> (c) an extended sentence under section 210A of that Act.
+
+;
+
+(d) in subsection (3), after “term with” insert “ the sentence under section 205ZA or, as the case may be, section 205ZC or ”;
+
+(e) in subsection (4), for the words from “if” to the end substitute—
+
+> (a) where—
+>
+> (i) the prisoner is serving a sentence imposed under section 205ZA or 205ZC of the 1995 Act or an extended sentence under section 210A of that Act in respect of a terrorism offence, and
+>
+> (ii) the Board is satisfied that the condition in subsection (4A) is met (but not otherwise),
+>
+> direct that the prisoner should be released;
+>
+> (b) where—
+>
+> (i) the prisoner is serving an extended sentence under section 210A of that Act in respect of a sexual or violent offence, and
+>
+> (ii) the Board is satisfied that the condition in subsection (4B) is met (but not otherwise),
+>
+> direct that the prisoner should be released.
+
+;
+
+(f) after subsection (4) insert—
+
+> (4A) The condition is that it is no longer necessary for the protection of the public that the prisoner should be confined.
+>
+> (4B) The condition is that it is no longer necessary for the protection of the public from serious harm that the prisoner should be confined.
+
+(10) In section 3B (review of decisions as to determinate sentences)—
+
+(a) in subsection (1)(a), after “from” insert “ a sentence imposed under section 205ZC of the 1995 Act or ”;
+
+(b) in subsection (1)(b)—
+
+(i) after “serving” insert “ a sentence imposed under section 205ZC of the 1995 Act or ”;
+
+(ii) after “sentence”, in the second place it occurs, insert “ or extended sentence ”;
+
+(c) in subsection (4)(b), after “relates to” insert “ a sentence imposed under section 205ZC of the 1995 Act or ”.
+
+(11) In section 5 (application of Part to fine defaulters and persons in contempt of court)—
+
+(a) in subsection (2), for “subsection (2A)” substitute “ section 1B ”;
+
+(b) omit subsection (2A);
+
+(c) in subsection (4), after “1A” insert “ , 1B ”.
+
+(12) In section 6(1) (application of Act to young offenders and to children detained without limit of time), for paragraph (a) substitute—
+
+> (a) to—
+>
+> (i) persons on whom detention in a young offenders institution has been imposed under section 205ZA(6) of the 1995 Act,
+>
+> (ii) persons on whom detention in a young offenders institution has been imposed under section 205ZC(4) of that Act, and
+>
+> (iii) persons on whom detention in a young offenders institution (other than detention without limit of time or for life) has been imposed under section 207(2) of that Act,
+>
+> as the Part applies to persons serving equivalent sentences of imprisonment;
+
+.
+
+(13) In section 7 (children detained in solemn proceedings)—
+
+(a) in subsection (3)—
+
+(i) after “(2) above” insert “ or, as the case may be, section 1AB(4) or 26ZA(5)(a) ”;
+
+(ii) after “sentence)” insert “ or, as the case may be, before the date on which the sentence under section 205ZC(5) as originally imposed by the court expires ”;
+
+(iii) after “so elapses” insert “ or, as the case may be, the sentence under section 205ZC(5) expires ”;
+
+(b) in subsection (5)(a)—
+
+(i) for “and 20(2)” substitute “ , 20(2) and 26ZA ”;
+
+(ii) for “detained under section 208 of the 1995” substitute “ on whom detention has been imposed under section 205ZC(5) of the 1995 Act and children detained under section 208 of that ”;
+
+(iii) at the end (but before the final “and”) insert “ (but subject to the modifications of section 26ZA in subsection (5A)) ”;
+
+(c) in subsection (5), after paragraph (a) (but before the final “and”) insert—
+
+> (aa) sections 3A and 3B of this Act apply to children on whom detention has been imposed under section 205ZC(5) of the 1995 Act as they apply to long-term prisoners;
+
+;
+
+(d) in subsection (5)(b), after “1A” insert “ , 1B ”;
+
+(e) after subsection (5) insert—
+
+> (5A) The modifications are that section 26ZA is to be read as if—
+>
+> (a) subsection (9) were omitted, and
+>
+> (b) subsection (10)(a) related to section 1A(1)(c) only.
+
+;
+
+(f) in subsection (8)—
+
+(i) for “subsection (5)” substitute “ subsections (2) and (3) to (7) ”;
+
+(ii) after “applies” insert “ to the extent that detention is imposed on the person under section 205ZC(5) of the 1995 Act. ”;
+
+(g) after subsection (8) insert—
+
+> (9) This section is subject to section 1B.
+
+(14) In section 9 (persons liable to removal from the United Kingdom), omit subsection (1A).
+
+(15) In section 26A (extended sentences: application of section)—
+
+(a) in subsection (1), after “sentences)” insert “ other than an extended sentence imposed in respect of a terrorism offence. ”;
+
+(b) in subsection (2), for “section 1A” substitute “ sections 1A and 1B ”;
+
+(c) in subsection (6), for “section 1A(c)” substitute “ sections 1A(1)(c) and 1B(11) ”.
+
+(16) In section 27 (interpretation of Part 1 of the Act)—
+
+(a) in subsection (5), after “shall” insert “ , subject to subsection (5A), ”;
+
+(b) after subsection (5) insert—
+
+> (5A) Subsection (5) does not apply in relation to a sentence passed on a person—
+>
+> (a) in respect of an offence within section 1AB(2), and
+>
+> (b) on or after the coming into force of paragraph 52(6) of Schedule 13 to the Counter-Terrorism and Sentencing Act 2021.
+>
+> (5B) In determining, for the purposes of subsection (5), whether a sentence passed on a person in respect of an offence (other than an offence within section 1AB(2)) is to be treated as part of a single term, any sentence passed on the person in respect of an offence within section 1AB(2) is to be ignored.
+
+(17) In Schedule 1A (offences carrying restricted eligibility for release on licence), omit Part 2.
+
+#### Criminal Procedure (Scotland Act) 1995 (c. 46)
+
+**53** (1) The Criminal Procedure (Scotland) Act 1995 is amended as follows.
+
+(2) In section 207(2) (detention of young offenders), after “205(2) and (3)” insert “ , 205ZA(6), 205ZC(4) ”.
+
+(3) In section 208(1) (detention of children convicted on indictment), for “section 205” substitute “ sections 205 and 205ZC(5) ”.
+
+(4) In section 210A(1) (extended sentences for sex, violent and terrorist offenders)—
+
+(a) omit “and” after paragraph (a);
+
+(b) after paragraph (b) insert
+
+> and
+>
+> (c) is not required by section 205ZA to impose a serious terrorism sentence of imprisonment or a serious terrorism sentence of detention,
+
+.
+
+#### Crime (Sentences) Act 1997 (c. 43)
+
+**54** In Schedule 1 to the Crime (Sentences) Act 1997 (transfer of prisoners within the British Islands)—
+
+(a) in each of paragraphs 10(2)(a) and 11(2)(a), after “1AA,” insert “ 1AB, ”;
+
+(b) in each of paragraphs 10(2)(a) and (5)(a) and 11(2)(a) and (4)(a)—
+
+(i) after “1A,” insert “ 1B, ”;
+
+(ii) after “21,” insert “ 26ZA, ”.
+
+#### International Criminal Court (Scotland) Act 2001 (asp 13)
+
+**55** In section 24(c) of the International Criminal Court (Scotland) Act 2001 (disapplication of transfer and release provisions of the Prisoners and Criminal Proceedings (Scotland) Act 1993 in relation to certain persons detained in Scotland)—
+
+(a) after “1AA,” insert “ 1AB, ”;
+
+(b) after “1A,” insert “ 1B, ”;
+
+(c) after “10” insert “ , 26ZA ”.
+
+#### Extradition Act 2003 (c. 41)
+
+**56** In each of the following provisions of the Extradition Act 2003 (which set out the circumstances in which a person is entitled to be released from detention for the purposes of the section), after “1AA” insert “ , 1AB ”
+
+(a) section 59(11)(c),
+
+(b) section 132(11)(c), and
+
+(c) section 153B(10)(a)(iii).
+
+#### Sexual Offences Act 2003 (c. 42)
+
+**57** In section 131 of the Sexual Offences Act 2003 (application of notification requirements and orders to young offenders), in paragraph (h), before “208” insert “ 205ZC(5) or ”.
+
+#### Custodial Sentences and Weapons (Scotland) Act 2007 (asp 17)
+
+**58** In Schedule 6 to the Custodial Sentences and Weapons (Scotland) Act 2007 (transitory modifications of Part 1 of the Prisoners and Criminal Proceedings (Scotland) Act 1993), in paragraph 4, in the inserted section 9B, after subsection (6) insert—
+
+> (7) This section does not apply in relation to a person to whom section 1AB applies.
+
+#### Counter-Terrorism Act 2008 (c. 28)
+
+**59** In section 45(2) of the Counter-Terrorism Act 2008 (Scottish sentences attracting notification requirements), in paragraph (a), at the end of sub-paragraph (iv) (but before the final “or”) insert—
+
+> (iva) detention under section 205ZC(5) of that Act,
+
+.
+
+#### Terrorist Offenders (Restriction of Early Release) Act 2020 (c. 3)
+
+**60** In section 4 of the Terrorist Offenders (Restriction of Early Release) Act 2020 (disapplication of certain existing release provisions: Scotland), omit subsections (5) and (7).
+
+### PART 8 — Serious terrorism sentence and extended custodial sentence: Northern Ireland
+
+#### Treatment of Offenders Act (Northern Ireland) 1968 (c. 29 (N.I.))
+
+**61** In section 26(2) of the Treatment of Offenders Act (Northern Ireland) 1968 (as amended by Part 9 of this Schedule) (length of custodial sentences to be reduced for periods already spent in custody), after “Article” insert “ 13A(6), ”.
+
+#### Rehabilitation of Offenders (Northern Ireland) Order 1978 (S.I. 1978/1908 (N.I. 27))
+
+**62** In Article 6 of the Rehabilitation of Offenders (Northern Ireland) Order 1978 (as amended by Part 9 of this Schedule) (rehabilitation periods for particular sentences), in paragraph (9)(b), after “Article” insert “ 13A(6) or ”.
+
+#### Mental Health (Northern Ireland) Order 1986 (S.I. 1985/595 (N.I. 4))
+
+**63** In Article 44(1A) of the Mental Health (Northern Ireland) Order 1986 (sentences requirement to impose which does not prevent making of hospital or guardianship order), in sub-paragraph (c), after “13” insert “ , 13A ”.
+
+#### Criminal Justice (Northern Ireland) Order 1996 (S.I. 1996/3160 (N.I. 24))
+
+**64** (1) The Criminal Justice (Northern Ireland) Order 1996 is amended as follows.
+
+(2) In Article 2(2) (meaning of expressions), in paragraph (b) of the definition of “custodial sentence”, after “13(4)(b)” insert “ , 13A(6) ”.
+
+(3) In Article 4(1) (power to grant absolute or condition discharge subject to certain sentencing requirements), after “13” insert “ , 13A ”.
+
+(4) In Article 10(1) (power to make probation order subject to certain sentencing requirements), after “13” insert “ , 13A ”.
+
+(5) In Article 13(1) (power to make community service order subject to sentencing requirements), after “13” insert “ , 13A ”.
+
+(6) In Article 15(1) (power to make combined probation and community service order subject to certain sentencing requirements), after “13” insert “ , 13A ”.
+
+#### Counter-Terrorism Act 2008 (c. 28)
+
+**65** In section 45(3) of the Counter-Terrorism Act 2008 (Northern Irish sentences attracting notification requirements), in paragraph (a), after sub-paragraph (iii) insert—
+
+> (iiia) a serious terrorism sentence under Article 13A(6) of that Order (offenders under 21 convicted of certain serious terrorist or terrorism-related offences),
+
+.
+
+#### Criminal Justice (Northern Ireland) Order 2008 (S.I. 2008/1216 (N.I. 1))
+
+**66** (1) The Criminal Justice (Northern Ireland) Order 2008 is amended as follows.
+
+(2) In Article 3 (interpretation of Part 2 (sentencing)), in paragraph (1), after the definition of “serious harm” insert—
+
+> “serious terrorism sentence” has the meaning given by Article 13A;
+
+.
+
+(3) In Article 4 (interpretation of Chapter 2 (custodial sentences))—
+
+(a) in paragraph (1) (as amended by Part 9 of this Schedule), in paragraph (c) of the definition of “custodial sentence”, after “13(4)(b),” insert “ 13A(6), ”;
+
+(b) in paragraph (2), after sub-paragraph (a) insert—
+
+> (aa) a sentence falls to be imposed under Article 13A if, because the court is of the opinions mentioned in paragraphs (1)(d) and (3) of that Article and is not of the opinion mentioned in paragraph (2) of that Article, the court is obliged to pass a sentence complying with that Article;
+
+.
+
+(4) In Article 5(1)(b) (sentences not subject to general restriction on imposing custody), in paragraph (i), for “or 14” substitute “ , 13A or 14 ”.
+
+(5) In Article 7(2) (as amended by Part 9 of this Schedule) (custodial term to be shortest commensurate with seriousness of offence), in paragraph (2), after “Articles” insert 13A,”.
+
+(6) In Article 8(1)(a) (as amended by Part 9 of this Schedule) (setting of custodial period), after “other than” insert “ a serious terrorism sentence, ”.
+
+(7) In Article 9(2) (pre-sentence reports before forming opinion as to dangerousness), after “13(1)(b)” insert “ , 13A(1)(d) ”.
+
+(8) In Article 13(3) (duty to impose indeterminate custodial sentence), in the words before paragraph (a), after “extended custodial sentence” insert “ or a serious terrorism sentence ”.
+
+(9) In Article 14 (extended custodial sentences)—
+
+(a) in paragraph (1)(b)—
+
+(i) at the end of paragraph (i), for “; and” substitute “ or serious terrorism offences; ”;
+
+(ii) in paragraph (ii), after “specified offence” insert “ or serious terrorism offence ”;
+
+(iii) at the end of paragraph (ii) insert
+
+> ; and
+>
+> (iii) where the offence, or an offence associated with it, is a serious terrorism offence, that the case is not one in which the court is required by Article 13A to pass a serious terrorism sentence.
+
+;
+
+(b) in paragraphs (3)(b) and (5)(b), after “specified offences” insert “ or serious terrorism offences ”;
+
+(c) in paragraph (10), for the words from “that is” to the end substitute “ with which the offence is punishable (apart from Article 13) ”.
+
+(10) In Article 15(1) (cases where assessment of dangerousness required)—
+
+(a) in sub-paragraph (a), after “specified offence” insert “ or serious terrorism offence ”;
+
+(b) in sub-paragraph (b), after “13” insert “ , 13A ”.
+
+(11) In Article 16(2) (interpretation of Chapter 4 (release on licence)), in paragraph (c) of the definition of “custodial sentence” (as amended by Part 9 of this Schedule), after “13(4)(b),” insert “ 13A(6), ”.
+
+(12) In Article 33(6) (custodial periods to be aggregated in case of consecutive sentences), in sub-paragraph (a)(i) (as amended by Part 9 of this Schedule)—
+
+(a) after “in relation to” insert “ a serious terrorism sentence, ”;
+
+(b) after “Article” insert “ 13A, ”.
+
+### PART 9 — Terrorism sentence with fixed licence period: Northern Ireland
+
+#### Treatment of Offenders Act (Northern Ireland) 1968 (c. 29 (N.I.))
+
+**67** In section 26(2) of the Treatment of Offenders Act (Northern Ireland) 1968 (length of custodial sentences to be reduced for periods already spent in custody), after “14(5)” insert “ or 15A(5) ”.
+
+#### Rehabilitation of Offenders (Northern Ireland) Order 1978 (S.I. 1978/1908 (N.I. 27))
+
+**68** In Article 6 of the Rehabilitation of Offenders (Northern Ireland) Order 1978 (rehabilitation periods for particular sentences), in paragraph (9)(b), after “centre” insert “ , a sentence of detention under Article 15A(5) of the Criminal Justice (Northern Ireland) Order 2008 ”.
+
+#### Criminal Justice (Northern Ireland) Order 1996 (S.I. 1996/3160 (N.I. 24))
+
+**69** (1) The Criminal Justice (Northern Ireland) Order 1996 is amended as follows.
+
+(2) In Article 2(2) (meaning of expressions), in paragraph (b)(ii) of the definition of “custodial sentence”, for “or 14(5)” substitute “ , 14(5) or 15A(5) ”.
+
+(3) In Article 4(1) (power to grant absolute or conditional discharge subject to certain sentencing requirements), for “or 14” substitute “ , 14 or 15A ”.
+
+(4) In Article 10(1) (power to make probation order subject to certain sentencing requirements), for “or 14” substitute “ , 14 or 15A ”.
+
+(5) In Article 13(1) (power to make community service order subject to certain sentencing requirements), for “or 14” substitute “ , 14 or 15A ”.
+
+(6) In Article 15(1) (power to make combined probation and community service order subject to certain sentencing requirements), for “or 14” substitute “ , 14 or 15A ”.
+
+#### Sexual Offences Act 2003 (c. 42)
+
+**70** In section 131 of the Sexual Offences Act 2003 (application of notification requirements and orders to young offenders), after paragraph (l) of that section as it forms part of the law of England and Wales and Scotland, and after paragraph (m) of that section as it forms part of the law of Northern Ireland, insert—
+
+> (n) a sentence of detention under Article 15A(5) of the Criminal Justice (Northern Ireland) Order 2008
+
+.
+
+#### Counter-Terrorism Act 2008 (c. 28)
+
+**71** In section 45(3) of the Counter-Terrorism Act 2008 (Northern Irish sentences attracting notification requirements), in paragraph (a), after sub-paragraph (iv) insert—
+
+> (iva) a sentence under Article 15A(5) of that Order (offenders under 21 convicted of certain terrorist or terrorism-related offences),
+
+.
+
+#### Criminal Justice (Northern Ireland) Order 2008 (S.I. 2008/1216 (N.I. 1))
+
+**72** (1) The Criminal Justice (Northern Ireland) Order 2008 is amended as follows.
+
+(2) In Article 3 (interpretation of Part 2 (sentencing))—
+
+(a) in paragraph (1), before the definition of “community sentence” insert—
+
+> “Article 15A terrorism sentence” means a sentence under Article 15A;
+
+;
+
+(b) after paragraph (4) insert—
+
+> (5) For the purposes of this Part, references to an offence punishable with imprisonment for a certain term are to be read as references to an offence that is punishable with imprisonment for that term on conviction on indictment in the case of an offender aged 21 or over.
+
+(3) In Article 4 (interpretation of Chapter 2 (custodial sentences))—
+
+(a) in paragraph (1), in paragraph (c) of the definition of “custodial sentence”, for “or 14(5)” substitute “ , 14(5) or 15A(5) ”;
+
+(b) in paragraph (2), after sub-paragraph (b) insert—
+
+> (ba) a sentence falls to be imposed under Article 15A if the court is obliged to pass a sentence complying with that Article;
+
+.
+
+(4) In Article 7 (custodial term to be shortest commensurate with seriousness of offence)—
+
+(a) in paragraph (1), after sub-paragraph (c) (but before the final “or”) insert—
+
+> (ca) of detention under Article 15A(5);
+
+;
+
+(b) in paragraph (2), for “Article 14” substitute “ Articles 14 and 15A ”.
+
+(5) In Article 8(1)(a) (setting of custodial period), after “extended custodial sentence” insert “ or an Article 15A terrorism sentence ”.
+
+(6) In the heading of Chapter 3 of Part 2, at the end insert “ and other terrorist offenders ”.
+
+(7) In Article 14 (extended custodial sentences), in paragraph (4)(a), after “this Article” insert “ and Article 15A ”.
+
+(8) In Article 16(2) (interpretation of Chapter 4 (release on licence)), in paragraph (c) of the definition of “custodial sentence”, for “or 14(5)” substitute “ , 14(5) or 15A(5) ”.
+
+(9) In Article 33(6) (custodial periods to be aggregated in case of consecutive sentences), in sub-paragraph (a)(i)—
+
+(a) after “extended sentence” insert “ or an Article 15A terrorism sentence ”;
+
+(b) after “14” insert “ or 15A ”.
+
+### PART 10 — Release on licence: Northern Ireland
+
+#### Extradition Act 2003 (c. 41)
+
+**73** In each of the following provisions of the Extradition Act 2003 (which set out the circumstances in which a person is entitled to be released from detention for the purposes of the section), for “or 18(8)” substitute “ , 18(8) or 20A(8) ”
+
+(a) section 59(11)(d);
+
+(b) section 132(11)(d);
+
+(c) section 153B(10)(a)(iv).
+
+#### Criminal Justice (Northern Ireland) Order 2008 (S.I. 2008/1216 (N.I. 1))
+
+**74** (1) The Criminal Justice (Northern Ireland) Order 2008 is amended as follows.
+
+(2) In Article 16 (interpretation of Chapter 4 of Part 2 (release on licence)), after paragraph (3) insert—
+
+> (3A) For the purposes of this Chapter, an offence was determined to have a terrorist connection if it was—
+>
+> (a) determined to have a terrorist connection under—
+>
+> (i) section 30 or 32 of the Counter-Terrorism Act 2008 (in the case of an offender sentenced in Northern Ireland, or an offender sentenced in England and Wales or for a service offence before the Sentencing Code applied but now subject to the provisions of this Chapter), or
+>
+> (ii) section 69 of the Sentencing Code (in the case of an offender sentenced in England and Wales or for a service offence but now subject to the provisions of this Chapter), or
+>
+> (b) proved to have been aggravated by reason of having a terrorist connection under section 31 of the Counter-Terrorism Act 2008 (in the case of an offender sentenced in Scotland but now subject to the provisions of this Chapter).
+>
+> (3B) In this Chapter “service offence” and “corresponding civil offence” have the same meanings as in the Counter-Terrorism Act 2008 (see section 95 of that Act).
+
+(3) In Article 17(1) (duty to release fixed-term prisoners not serving extended sentences), for “a prisoner serving an extended custodial sentence” substitute “ one to whom Article 18 or 20A applies ”.
+
+(4) In Article 18 (duty to release prisoners serving indeterminate or extended sentences), after paragraph (1) insert—
+
+> (1A) But this Article does not apply to a prisoner to whom Article 20A applies.
+
+(5) In Article 19 (power to release prisoners before required), in paragraph (3), for sub-paragraph (a) substitute—
+
+> (a) Article 18 or 20A applies to the prisoner;
+
+.
+
+(6) In Article 20(3) (consultation with Parole Commissioners before release of certain prisoners), for the words from “serving” to the end of sub-paragraph (b) substitute “ to whom Article 18 or 20A applies ”.
+
+(7) In Article 23(1) (power of court to recommend licence conditions), for “or 19” substitute “ , 19 or 20A ”.
+
+(8) In Article 24(5) (requirement to consult Parole Commissioners about licence conditions), in the words before sub-paragraph (a), after “18” insert “ or 20A ”.
+
+(9) In Article 28 (recall of prisoners while on licence)—
+
+(a) in paragraph (1), for “or 20” substitute “ , 20 or 20A ”;
+
+(b) in paragraph (6)(a), after “extended custodial sentence” insert “ and was not released under Article 20A ”.
+
+(10) In Article 29 (further release after recall for certain prisoners), in paragraph (1)(a), after “extended custodial sentence” insert “ or a prisoner to whom Article 20A applies ”.
+
+#### Justice Act (Northern Ireland) 2016 (c. 21 (N.I.))
+
+**75** (1) In section 55(2) of the Justice Act (Northern Ireland) 2016 (prisoners who may be removed early from prison if liable to removal from the United Kingdom), for the words from “serving an” to the end substitute
+
+> —
+>
+> (a) who is serving an extended custodial sentence under Article 14 of the 2008 Order, or
+>
+> (b) to whom Article 20A of that Order applies.
+
+(2) In the case of a person—
+
+(a) who has been removed from prison under section 55(2) of the Justice Act (Northern Ireland) 2016 before the amendment made by sub-paragraph (1) comes into force, and
+
+(b) to whom Article 20A of the Criminal Justice (Northern Ireland) Order 2008 applies,
+
+subsection (3) of that section continues to apply to the person despite that amendment, but as if for the words “has served the requisite custodial period” there were substituted “ becomes entitled to be released in accordance with Article 20A of the 2008 Order ”.
+
+#### Parole Commissioners' Rules (Northern Ireland) 2009 (S.R. (N.I.) 2009 No. 82)
+
+**76** (1) The Parole Commissioners' Rules (Northern Ireland) 2009 are amended as follows.
+
+(2) In rule 2(1) (application of the rules), after “Articles 18” insert “ , 20A ”.
+
+(3) In rule 7(2) (persons who may act as representatives of prisoner only with consent of Chief Commissioner), in paragraph (b), for the words from “sentenced to” to the end substitute
+
+> who —
+>
+> (i) is on licence having been released under Article 18 or 20A of the 2008 Order, or
+>
+> (ii) is a person to whom Article 18 or 20A of that Order applies and who is on licence having been released under Article 20 of that Order;
+
+.
+
+(4) In rule 25 (application of rules to recalled life, indeterminate and extended custodial prisoners)—
+
+(a) in the heading after “custodial” insert “ and terrorist ”;
+
+(b) in the words before paragraph (a), for “an indeterminate custodial or extended custodial prisoner's case” substitute “ the case of a prisoner who was released on licence under Article 18 or 20A of the 2008 Order ”.
+
+(5) In rule 26 (short custodial terms)—
+
+(a) for paragraph (1) substitute—
+
+> (1) Subject to paragraph (2), where—
+>
+> (a) the Department of Justice refers to the Commissioners—
+>
+> (i) the case of an extended custodial prisoner under Article 18 of the 2008 Order, or
+>
+> (ii) the case of any prisoner under Article 20A of that Order, and
+>
+> (b) the relevant part of the prisoner's sentence is less than 26 weeks;
+>
+> these rules shall apply subject to the modifications made by rule 25(a).
+
+;
+
+(b) after paragraph (2) insert—
+
+> (3) For the purposes of paragraph (1)(b), the “relevant part of the sentence”—
+>
+> (a) in the case of an extended custodial prisoner to whom Article 18 of the 2008 Order applies, means one half of the appropriate custodial term of the sentence as defined by Article 14(4) or 14(6) of that Order;
+>
+> (b) in the case of a prisoner to whom Article 20A of that Order applies, has the meaning given by paragraph (9) of that Article;
+>
+> and in determining the length of that part any reduction required by section 26(2) of the Treatment of Offenders Act (Northern Ireland) 1968 is to be taken into account.
+
+---
+
+[^F1]: Sch. 13 para. 9(6) omitted (31.3.2026 for specified purposes and otherwise coming into force in accordance with reg. 4 of the commencing S.I.) by virtue of Sentencing Act 2026 (c. 2), ss. 33(13)(d), 49(1) (with s. 33(14)); S.I. 2026/86, regs. 3(b)(iv), 4
+[^F2]: Sch. 13 para. 9(7)(b) omitted (31.3.2026 for specified purposes and otherwise coming into force in accordance with reg. 4 of the commencing S.I.) by virtue of Sentencing Act 2026 (c. 2), ss. 33(13)(d), 49(1) (with s. 33(14)); S.I. 2026/86, regs. 3(b)(iv), 4
+[^F3]: Sch. 13 para. 44 omitted (28.6.2022) by virtue of Police, Crime, Sentencing and Courts Act 2022 (c. 32), s. 208(5)(aa), Sch. 21 para. 13

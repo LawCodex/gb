@@ -1,0 +1,4612 @@
+---
+title: "Domestic Violence, Crime and Victims Act 2004"
+identifier: "ukpga/2004/28"
+citation: "2004 c. 28"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S+N.I."
+date: 2004-11-15
+last_amended: 2026-09-15
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/2004/28"
+source_modified: 2026-09-16
+retrieved: 2026-10-11
+---
+
+# Domestic Violence, Crime and Victims Act 2004
+
+**2004 c. 28**
+
+An Act to amend Part 4 of the Family Law Act 1996, the Protection from Harassment Act 1997 and the Protection from Harassment (Northern Ireland) Order 1997; to make provision about homicide; to make common assault an arrestable offence; to make provision for the payment of surcharges by offenders; to make provision about alternative verdicts; to provide for a procedure under which a jury tries only sample counts on an indictment; to make provision about findings of unfitness to plead and about persons found unfit to plead or not guilty by reason of insanity; to make provision about the execution of warrants; to make provision about the enforcement of orders imposed on conviction; to amend section 58 of the Criminal Justice Act 2003 and to amend Part 12 of that Act in relation to intermittent custody; to make provision in relation to victims of offences, witnesses of offences and others affected by offences; and to make provision about the recovery of compensation from offenders.
+
+[15th November 2004]
+
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## Part 1 — Domestic violence etc
+
+### Amendments to Part 4 of the Family Law Act 1996
+
+#### 1 Breach of non-molestation order to be a criminal offence
+
+In Part 4 of the Family Law Act 1996 (c. 27) (family homes and domestic violence), after section 42 insert—
+
+> **42A Offence of breaching non-molestation order**
+>
+> (1) A person who without reasonable excuse does anything that he is prohibited from doing by a non-molestation order is guilty of an offence.
+>
+> (2) In the case of a non-molestation order made by virtue of section 45(1), a person can be guilty of an offence under this section only in respect of conduct engaged in at a time when he was aware of the existence of the order.
+>
+> (3) Where a person is convicted of an offence under this section in respect of any conduct, that conduct is not punishable as a contempt of court.
+>
+> (4) A person cannot be convicted of an offence under this section in respect of any conduct which has been punished as a contempt of court.
+>
+> (5) A person guilty of an offence under this section is liable—
+>
+> (a) on conviction on indictment, to imprisonment for a term not exceeding five years, or a fine, or both;
+>
+> (b) on summary conviction, to imprisonment for a term not exceeding 12 months, or a fine not exceeding the statutory maximum, or both.
+>
+> (6) A reference in any enactment to proceedings under this Part, or to an order under this Part, does not include a reference to proceedings for an offence under this section or to an order made in such proceedings.
+>
+> “Enactment” includes an enactment contained in subordinate legislation within the meaning of the Interpretation Act 1978 (c. 30).
+
+#### 2 Additional considerations if parties are cohabitants or former cohabitants
+
+(1) Section 41 of the Family Law Act 1996 (c. 27) (which requires a court, when considering the nature of the relationship of cohabitants or former cohabitants, to have regard to their non-married status) is repealed.
+
+(2) In section 36(6)(e) of that Act (court to have regard to nature of parties' relationship when considering whether to give right to occupy to cohabitant or former cohabitant with no existing right), after “relationship” insert “ and in particular the level of commitment involved in it ”.
+
+#### 3 “Cohabitants” in Part 4 of 1996 Act to include same-sex couples
+
+In section 62(1)(a) of the Family Law Act 1996 (definition of “cohabitant” for the purposes of Part 4 of that Act), for the words after “ “cohabitants” are” substitute “ two persons who, although not married to each other, are living together as husband and wife or (if of the same sex) in an equivalent relationship; and ”.
+
+#### 4 Extension of Part 4 of 1996 Act to non-cohabiting couples
+
+In section 62(3) of the Family Law Act 1996 (definition of “associated” persons for the purposes of Part 4 of that Act), after paragraph (e) insert—
+
+> (ea) they have or have had an intimate personal relationship with each other which is or was of significant duration;
+
+.
+
+### [[^F1]Causing or allowing a child or vulnerable adult to die or suffer serious physical harm]
+
+#### 5 The offence
+
+(1) A person (“D”) is guilty of an offence if—
+
+(a) a child or vulnerable adult (“V”) dies [[^F2]or suffers serious physical harm] as a result of the unlawful act of a person who—
+
+(i) was a member of the same household as V, and
+
+(ii) had frequent contact with him,
+
+(b) D was such a person at the time of that act,
+
+(c) at that time there was a significant risk of serious physical harm being caused to V by the unlawful act of such a person, and
+
+(d) either D was the person whose act caused [[^F3]the death or serious physical harm] or—
+
+(i) D was, or ought to have been, aware of the risk mentioned in paragraph (c),
+
+(ii) D failed to take such steps as he could reasonably have been expected to take to protect V from the risk, and
+
+(iii) the act occurred in circumstances of the kind that D foresaw or ought to have foreseen.
+
+(2) The prosecution does not have to prove whether it is the first alternative in subsection (1)(d) or the second (sub-paragraphs (i) to (iii)) that applies.
+
+(3) If D was not the mother or father of V—
+
+(a) D may not be charged with an offence under this section if he was under the age of 16 at the time of the act that caused [[^F4]the death or serious physical harm];
+
+(b) for the purposes of subsection (1)(d)(ii) D could not have been expected to take any such step as is referred to there before attaining that age.
+
+(4) For the purposes of this section—
+
+(a) a person is to be regarded as a “member” of a particular household, even if he does not live in that household, if he visits it so often and for such periods of time that it is reasonable to regard him as a member of it;
+
+(b) where V lived in different households at different times, “the same household as V” refers to the household in which V was living at the time of the act that caused [[^F5]the death or serious physical harm].
+
+(5) For the purposes of this section an “unlawful” act is one that—
+
+(a) constitutes an offence, or
+
+(b) would constitute an offence but for being the act of—
+
+(i) a person under the age of ten, or
+
+(ii) a person entitled to rely on a defence of insanity.
+
+Paragraph (b) does not apply to an act of D.
+
+(6) In this section—
+
+- “act” includes a course of conduct and also includes omission;
+- “child” means a person under the age of 16;
+- “serious” harm means harm that amounts to grievous bodily harm for the purposes of the Offences against the Person Act 1861 (c. 100);
+- “vulnerable adult” means a person aged 16 or over whose ability to protect himself from violence, abuse or neglect is significantly impaired through physical or mental disability or illness, through old age or otherwise.
+
+(7) A person guilty of an offence under this section [[^F6] of causing or allowing a person's death] is [[^F7]liable—
+
+(a) on conviction on indictment in England and Wales, to imprisonment for life or to a fine, or to both;
+
+(b) on conviction on indictment in Northern Ireland,] to imprisonment for a term not exceeding 14 years or to a fine, or to both.
+
+[[^F8](8) A person guilty of an offence under this section of causing or allowing a person to suffer serious physical harm is [[^F9]liable—
+
+(a) on conviction on indictment in England and Wales, to imprisonment for a term not exceeding 14 years or to a fine, or to both;
+
+(b) on conviction on indictment in Northern Ireland,] to imprisonment for a term not exceeding 10 years or to a fine, or to both.]
+
+#### 6 [[^F10]Evidence and procedure in cases of death: England and Wales]
+
+(1) Subsections (2) to (4) apply where a person (“the defendant”) is charged in the same proceedings with an offence of murder or manslaughter and with an offence under section 5 in respect of the same death (“the section 5 offence”).
+
+(2) Where by virtue of section 35(3) of the Criminal Justice and Public Order Act 1994 (c. 33) a court or jury is permitted, in relation to the section 5 offence, to draw such inferences as appear proper from the defendant’s failure to give evidence or refusal to answer a question, the court or jury may also draw such inferences in determining whether he is guilty—
+
+(a) of murder or manslaughter, or
+
+(b) of any other offence of which he could lawfully be convicted on the charge of murder or manslaughter,
+
+even if there would otherwise be no case for him to answer in relation to that offence.
+
+(3) The charge of murder or manslaughter is not to be dismissed under paragraph 2 of Schedule 3 to the Crime and Disorder Act 1998 (c. 37) (unless the section 5 offence is dismissed).
+
+(4) At the defendant’s trial the question whether there is a case for the defendant to answer on the charge of murder or manslaughter is not to be considered before the close of all the evidence (or, if at some earlier time he ceases to be charged with the section 5 offence, before that earlier time).
+
+(5) An offence under section 5 [[^F11] of causing or allowing a person's death] is an offence of homicide for the purposes of the following enactments—
+
+- sections 24 and 25 of the Magistrates' Courts Act 1980 (c. 43) (mode of trial of child or young person for indictable offence);
+- section 51A of the Crime and Disorder Act 1998 (sending cases to the Crown Court: children and young persons);
+- [[^F12]section 25 of the Sentencing Code] (power and duty to remit young offenders to youth courts for sentence).
+
+#### 6A [[^F13]Evidence and procedure in cases of serious physical harm: England and Wales
+
+(1) Subsections (3) to (5) apply where a person (“the defendant”) is charged in the same proceedings with a relevant offence and with an offence under section 5 in respect of the same harm (“the section 5 offence”).
+
+(2) In this section “relevant offence” means—
+
+(a) an offence under section 18 or 20 of the Offences against the Person Act 1861 (grievous bodily harm etc);
+
+(b) an offence under section 1 of the Criminal Attempts Act 1981 of attempting to commit murder;
+
+[[^F14](c) an offence under section 75A of the Serious Crime Act 2015 (strangulation or suffocation).]
+
+(3) Where by virtue of section 35(3) of the Criminal Justice and Public Order Act 1994 a court or jury is permitted, in relation to the section 5 offence, to draw such inferences as appear proper from the defendant's failure to give evidence or refusal to answer a question, the court or jury may also draw such inferences in determining whether the defendant is guilty of a relevant offence, even if there would otherwise be no case for the defendant to answer in relation to that offence.
+
+(4) The charge of the relevant offence is not to be dismissed under paragraph 2 of Schedule 3 to the Crime and Disorder Act 1998 (unless the section 5 offence is dismissed).
+
+(5) At the defendant's trial the question whether there is a case for the defendant to answer on the charge of the relevant offence is not to be considered before the close of all the evidence (or, if at some earlier time the defendant ceases to be charged with the section 5 offence, before that earlier time).]
+
+#### 7 [[^F15]Evidence and procedure in cases of death: Northern Ireland]
+
+(1) Subsections (2) to (4) apply where a person (“the defendant”) is charged in the same proceedings with an offence of murder or manslaughter and with an offence under section 5 in respect of the same death (“the section 5 offence”).
+
+(2) Where by virtue of Article 4(4) of the Criminal Evidence (Northern Ireland) Order 1988 (S.I. 1988/1987 (N.I. 20)) a court or jury is permitted, in relation to the section 5 offence, to draw such inferences as appear proper from the defendant’s failure to give evidence or refusal to answer a question, the court or jury may also draw such inferences in determining whether he is guilty—
+
+(a) of murder or manslaughter, or
+
+(b) of any other offence of which he could lawfully be convicted on the charge of murder or manslaughter,
+
+even if there would otherwise be no case for him to answer in relation to that offence.
+
+(3) Where a magistrates' court is considering under Article 37 of the Magistrates' Courts (Northern Ireland) Order 1981 (S.I. 1981/1675 (N.I. 26)) whether to commit the defendant for trial for the offence of murder or manslaughter, if there is sufficient evidence to put him upon trial for the section 5 offence there is deemed to be sufficient evidence to put him upon trial for the offence of murder or manslaughter.
+
+(4) At the defendant’s trial the question whether there is a case to answer on the charge of murder or manslaughter is not to be considered before the close of all the evidence (or, if at some earlier time he ceases to be charged with the section 5 offence, before that earlier time).
+
+(5) An offence under section 5 [[^F16] of causing or allowing a person's death] is an offence of homicide for the purposes of the following provisions—
+
+- Article 17 of the Criminal Justice (Children) (Northern Ireland) Order 1998 (S.I. 1998/1504 (N.I. 9)) (mode of trial of child for indictable offence);
+- Article 32 of that Order (power and duty to remit children to youth courts for sentence).
+
+#### 7A [[^F17]Evidence and procedure in cases of serious physical harm: Northern Ireland
+
+(1) Subsections (3) to (5) apply where a person (“the defendant”) is charged in the same proceedings with a relevant offence and with an offence under section 5 in respect of the same harm (“the section 5 offence”).
+
+(2) In this section “relevant offence” means—
+
+(a) an offence under section 18 or 20 of the Offences against the Person Act 1861 (grievous bodily harm etc.);
+
+(b) an offence under Article 3 of the Criminal Attempts and Conspiracy (Northern Ireland) Order 1983 of attempting to commit murder.
+
+[[^F18](c) an offence under section 28 of the Justice (Sexual Offences and Trafficking Victims) Act (Northern Ireland) 2022 (non-fatal strangulation or asphyxiation).]
+
+(3) Where by virtue of Article 4(4) of the Criminal Evidence (Northern Ireland) Order 1988 a court or jury is permitted, in relation to the section 5 offence, to draw such inferences as appear proper from the defendant's failure to give evidence or refusal to answer a question, the court or jury may also draw such inferences in determining whether the defendant is guilty of a relevant offence, even if there would otherwise be no case for the defendant to answer in relation to that offence.
+
+(4) Where a magistrates' court is considering under Article 37 of the Magistrates' Courts (Northern Ireland) Order 1981 whether to commit the defendant for trial for the relevant offence, if there is sufficient evidence to put the defendant on trial for the section 5 offence there is deemed to be sufficient evidence to put the defendant on trial for the relevant offence.
+
+(5) The power of a judge of the Crown Court under section 2(3) of the Grand Jury (Abolition) Act (Northern Ireland) 1969 (entry of “No Bill”)is not to be exercised in relation to a relevant offence unless it is also exercised in relation to the section 5 offence.
+
+(6) At the defendant's trial the question whether there is a case for the defendant to answer on the charge of the relevant offence is not to be considered before the close of all the evidence (or, if at some earlier time the defendant ceases to be charged with the section 5 offence, before that earlier time).]
+
+#### 8 Evidence and procedure: [[^F19]the Court Martial]
+
+(1) Section 6(1), (2) and (4) has effect in relation to proceedings before [[^F20]the Court Martial] with the following adaptations.
+
+[[^F21](2) A reference to an offence—
+
+(a) of murder,
+
+(b) of manslaughter, or
+
+(c) under section 5,
+
+is to be read as a reference to an offence under section 42 of the Armed Forces Act 2006 as respects which the corresponding offence under the law of England and Wales (within the meaning given by that section) is that offence.]
+
+(3) A reference to the court or jury is to be read as a reference to the court.
+
+[[^F22](4) Section 6A(1), (3) and (5) has effect in relation to proceedings before the Court Martial with the following adaptations.
+
+(5) A reference to an offence—
+
+(a) listed in section 6A(2), or
+
+(b) under section 5,
+
+is to be read as a reference to an offence under section 42 of the Armed Forces Act 2006 as respects which the corresponding offence under the law of England and Wales (within the meaning given by that section) is that offence.
+
+(6) A reference to the court or jury is to be read as a reference to the court.]
+
+### [[^F23]Domestic abuse related death reviews
+
+#### 8A Establishment and conduct of reviews
+
+(1) In this section “domestic abuse related death review” means a review of the circumstances of the death of a person which is held—
+
+(a) where the death has, or appears to have, resulted from domestic abuse towards the person within the meaning of the Domestic Abuse Act 2021, and
+
+(b) with a view to identifying the lessons to be learned from the death.
+
+(2) The Secretary of State may in a particular case direct a specified person or body within subsection (6) to establish, or to participate in, a domestic abuse related death review.
+
+(3) It is the duty of any person or body within subsection (6) establishing or participating in a domestic abuse related death review (whether or not held pursuant to a direction under subsection (2)) to have regard to any guidance issued by the Secretary of State as to the establishment and conduct of such reviews.
+
+(4) A person or body within subsection (6) that establishes a domestic abuse related death review (whether or not held pursuant to a direction under subsection (2)) must send a copy of any report setting out the conclusions of the review to the Secretary of State and the Domestic Abuse Commissioner.
+
+(5) The copy must be sent as soon as reasonably practicable after the report is completed.
+
+(6) The persons and bodies within this subsection are—
+
+- chief officers of police for police areas in England and Wales;
+- local authorities;
+- NHS England;
+- integrated care boards established under section 14Z25 of the National Health Service Act 2006;
+- providers of probation services;
+- Local Health Boards established under section 11 of the National Health Service (Wales) Act 2006;
+- NHS trusts established under section 25 of the National Health Service Act 2006 or section 18 of the National Health Service (Wales) Act 2006.
+
+(7) In subsection (6) “local authority” means—
+
+(a) in relation to England, the council of a district, county or London borough, the Common Council of the City of London and the Council of the Isles of Scilly;
+
+(b) in relation to Wales, the council of a county or county borough.
+
+(8) The Secretary of State may by order amend subsection (6) or (7).]
+
+### Domestic homicide reviews
+
+#### 9 Establishment and conduct of reviews
+
+(1) In this section “domestic homicide review” means a review of the circumstances in which the death of a person aged 16 or over has, or appears to have, resulted from violence, abuse or neglect by—
+
+(a) a person to whom he was related or with whom he was or had been in an intimate personal relationship, or
+
+(b) a member of the same household as himself,
+
+held with a view to identifying the lessons to be learnt from the death.
+
+(2) The [[^F24]Department of Justice in Northern Ireland] may in a particular case direct a specified person or body within subsection [[^F25](4)(b)] to establish, or to participate in, a domestic homicide review.
+
+(3) It is the duty of any person or body within subsection [[^F26](4)(b)] establishing or participating in a domestic homicide review (whether or not held pursuant to a direction under subsection (2)) to have regard to any guidance issued by the [[^F27]Department of Justice in Northern Ireland] as to the establishment and conduct of such reviews.
+
+[^F28]3A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F29]3B . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F30]3C . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) The persons and bodies within this subsection are—
+
+[^F31]a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) in relation to Northern Ireland—
+
+- the Chief Constable of the Police Service of Northern Ireland;
+- the Probation Board for Northern Ireland;
+- [^F32]...
+- [[^F33]Health and Social Care trusts] established under Article 10 of the Health and Personal Social Services (Northern Ireland) Order 1991 (S.I. 1991/194 (N.I. 1)).
+
+[^F34]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F35]6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[[^F36](7) The Department of Justice in Northern Ireland may, in relation to Northern Ireland, by order amend subsection (4)(b).]
+
+## Part 2 — Criminal Justice
+
+### Assault, harassment etc
+
+#### 10 Common assault to be an arrestable offence
+
+(1) [^F37]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) [^F38]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 11 Common assault etc as alternative verdict
+
+In section 6 of the Criminal Law Act 1967 (c. 58) (trial of offences), after subsection (3) (alternative verdicts on trial on indictment) insert—
+
+> (3A) For the purposes of subsection (3) above an offence falls within the jurisdiction of the court of trial if it is an offence to which section 40 of the Criminal Justice Act 1988 applies (power to join in indictment count for common assault etc.), even if a count charging the offence is not included in the indictment.
+>
+> (3B) A person convicted of an offence by virtue of subsection (3A) may only be dealt with for it in a manner in which a magistrates' court could have dealt with him.
+
+#### 12 Restraining orders: England and Wales
+
+(1) In section 5 of the Protection from Harassment Act 1997 (c. 40) (power to make restraining order where defendant convicted of offence under section 2 or 4 of that Act), in subsection (1) omit “under section 2 or 4”.
+
+[^F39]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F39]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F39]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) After that section insert—
+
+> **5A Restraining orders on acquittal**
+>
+> (1) A court before which a person (“the defendant”) is acquitted of an offence may, if it considers it necessary to do so to protect a person from harassment by the defendant, make an order prohibiting the defendant from doing anything described in the order.
+>
+> (2) Subsections (3) to (7) of section 5 apply to an order under this section as they apply to an order under that one.
+>
+> (3) Where the Court of Appeal allow an appeal against conviction they may remit the case to the Crown Court to consider whether to proceed under this section.
+>
+> (4) Where—
+>
+> (a) the Crown Court allows an appeal against conviction, or
+>
+> (b) a case is remitted to the Crown Court under subsection (3),
+>
+> the reference in subsection (1) to a court before which a person is acquitted of an offence is to be read as referring to that court.
+>
+> (5) A person made subject to an order under this section has the same right of appeal against the order as if—
+>
+> (a) he had been convicted of the offence in question before the court which made the order, and
+>
+> (b) the order had been made under section 5.
+
+#### 13 Restraining orders: Northern Ireland
+
+(1) In Article 7 of the Protection from Harassment (Northern Ireland) Order 1997 (S.I. 1997/1180 (N.I. 9)) (power to make restraining order where defendant convicted of offence under Article 4 or 6 of that Order), in paragraph (1) omit “under Article 4 or 6”.
+
+(2) After paragraph (3) of that Article insert—
+
+> (3A) In proceedings under this Article both the prosecution and the defence may lead, as further evidence, any evidence that would be admissible in proceedings for an injunction under Article 5.
+
+(3) After paragraph (4) of that Article insert—
+
+> (4A) Any person mentioned in the order is entitled to be heard on the hearing of an application under paragraph (4).
+
+(4) After paragraph (6) of that Article insert—
+
+> (7) A court dealing with a person for an offence under this Article may vary or discharge the order in question by a further order.
+
+(5) After that Article insert—
+
+> **7A Restraining orders on acquittal**
+>
+> (1) A court before which a person (“the defendant”) is acquitted of an offence may, if it considers it necessary to do so to protect a person from harassment by the defendant, make an order prohibiting the defendant from doing anything described in the order.
+>
+> (2) Paragraphs (3) to (7) of Article 7 apply to an order under this Article as they apply to an order under that one.
+>
+> (3) Where the Court of Appeal allow an appeal against conviction they may remit the case to the Crown Court to consider whether to proceed under this Article.
+>
+> (4) Where—
+>
+> (a) a county court allows an appeal against conviction, or
+>
+> (b) a case is remitted to the Crown Court under paragraph (3),
+>
+> the reference in paragraph (1) to a court before which a person is acquitted of an offence is to be read as referring to that court.
+>
+> (5) A person made subject to an order under this Article has the same right of appeal against the order as if—
+>
+> (a) he had been convicted of the offence in question before the court which made the order, and
+>
+> (b) the order had been made under Article 7.
+
+### Surcharges
+
+#### 14 Surcharge payable on conviction
+
+[^F40]1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F40]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) In Part 1 of Schedule 9 to the Administration of Justice Act 1970 (c. 31) (cases where payment enforceable as on summary conviction), after paragraph 12 insert—
+
+> **13** Where under section 161A of the Criminal Justice Act 2003 a court orders the payment of a surcharge.
+
+[^F41]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) The Secretary of State may by order—
+
+(a) make provision amending Schedule 5 (collection of fines) or Schedule 6 (discharge of fines by unpaid work) to the Courts Act 2003 in its application by virtue of subsection (3) or (4) to surcharges;
+
+(b) make provision for any part of Schedule 5, or the whole or any part of Schedule 6, not to apply to surcharges;
+
+(c) make amendments to any enactment that are consequential on provision made under paragraph (a) or (b).
+
+#### 15 Increase in maximum on-the-spot penalty for disorderly behaviour
+
+(1) In Chapter 1 of Part 1 of the Criminal Justice and Police Act 2001 (c. 16) (on-the-spot penalties for disorderly behaviour), section 3 is amended as follows.
+
+(2) In subsection (2) (maximum penalty that may be prescribed), at the end insert “ plus a half of the relevant surcharge ”.
+
+(3) After that subsection insert—
+
+> (2A) The “relevant surcharge”, in relation to a person of a given age, is the amount payable by way of surcharge under section 161A of the Criminal Justice Act 2003 by a person of that age who is fined the maximum amount for the offence.
+
+#### 16 Higher fixed penalty for repeated road traffic offences (prospective)
+
+(1) The Road Traffic Offenders Act 1988 (c. 53) is amended as follows.
+
+(2) [^F42]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) At the end of section 84 (regulations) (which becomes subsection (1)) insert—
+
+> (2) The Secretary of State may by regulations provide that where—
+>
+> (a) a conditional offer has been issued under section 75 of this Act,
+>
+> (b) the amount of the penalty stated in the offer is not the higher amount applicable by virtue of section 53(3) of this Act, and
+>
+> (c) it subsequently appears that that higher amount is in fact applicable,
+>
+> the fixed penalty clerk may issue a further notice (a “surcharge notice”) requiring payment of the difference between the two amounts.
+>
+> (3) Regulations under subsection (2) above may—
+>
+> (a) provide for this Part of this Act to have effect, in cases to which the regulations apply, with such modifications as may be specified;
+>
+> (b) make provision for the collection and enforcement of amounts due under surcharge notices.
+
+### Trial by jury of sample counts only
+
+#### 17 Application by prosecution for certain counts to be tried without a jury
+
+(1) The prosecution may apply to a judge of the Crown Court for a trial on indictment to take place on the basis that the trial of some, but not all, of the counts included in the indictment may be conducted without a jury.
+
+(2) If such an application is made and the judge is satisfied that the following three conditions are fulfilled, he may make an order for the trial to take place on the basis that the trial of some, but not all, of the counts included in the indictment may be conducted without a jury.
+
+(3) The first condition is that the number of counts included in the indictment is likely to mean that a trial by jury involving all of those counts would be impracticable.
+
+(4) The second condition is that, if an order under subsection (2) were made, each count or group of counts which would accordingly be tried with a jury can be regarded as a sample of counts which could accordingly be tried without a jury.
+
+(5) The third condition is that it is in the interests of justice for an order under subsection (2) to be made.
+
+(6) In deciding whether or not to make an order under subsection (2), the judge must have regard to any steps which might reasonably be taken to facilitate a trial by jury.
+
+(7) But a step is not to be regarded as reasonable if it could lead to the possibility of a defendant in the trial receiving a lesser sentence than would be the case if that step were not taken.
+
+(8) An order under subsection (2) must specify the counts which may be tried without a jury.
+
+(9) For the purposes of this section and sections 18 to 20, a count may not be regarded as a sample of other counts unless the defendant in respect of each count is the same person.
+
+#### 18 Procedure for applications under section 17
+
+(1) An application under section 17 must be determined at a preparatory hearing.
+
+(2) Section 7(1) of the 1987 Act and section 29(2) of the 1996 Act are to have effect as if the purposes there mentioned included the purpose of determining an application under section 17.
+
+(3) Section 29(1) of the 1996 Act is to have effect as if the grounds on which a judge of the Crown Court may make an order under that provision included the ground that an application under section 17 has been made.
+
+(4) The parties to a preparatory hearing at which an application under section 17 is to be determined must be given an opportunity to make representations with respect to the application.
+
+(5) Section 9(11) of the 1987 Act and section 35(1) of the 1996 Act are to have effect as if they also provided for an appeal to the Court of Appeal to lie from the determination by a judge of an application under section 17.
+
+(6) In this section—
+
+- “preparatory hearing” means a preparatory hearing within the meaning of the 1987 Act or Part 3 of the 1996 Act;
+- “the 1987 Act” means the Criminal Justice Act 1987 (c. 38);
+- “the 1996 Act” means the Criminal Procedure and Investigations Act 1996 (c. 25).
+
+#### 19 Effect of order under section 17(2)
+
+(1) The effect of an order under section 17(2) is that where, in the course of the proceedings to which the order relates, a defendant is found guilty by a jury on a count which can be regarded as a sample of other counts to be tried in those proceedings, those other counts may be tried without a jury in those proceedings.
+
+(2) Where the trial of a count is conducted without a jury because of an order under section 17(2), the court is to have all the powers, authorities and jurisdiction which the court would have had if the trial of that count had been conducted with a jury (including power to determine any question and to make any finding which would be required to be determined or made by a jury).
+
+(3) Except where the context otherwise requires, any reference in an enactment to a jury, the verdict of a jury or the finding of a jury is to be read, in relation to the trial of a count conducted without a jury because of an order under section 17(2), as a reference to the court, the verdict of the court or the finding of the court.
+
+(4) Where the trial of a count is conducted without a jury because of an order under section 17(2) and the court convicts the defendant of that count—
+
+(a) the court must give a judgment which states the reasons for the conviction at, or as soon as reasonably practicable after, the time of the conviction, and
+
+(b) the reference in section 18(2) of the Criminal Appeal Act 1968 (c. 19) (notice of appeal or of application for leave to appeal to be given within 28 days from date of conviction etc) to the date of the conviction is to be read as a reference to the date of the judgment mentioned in paragraph (a).
+
+(5) Where, in the case of proceedings in respect of which an order under section 17(2) has been made, a jury convicts a defendant of a count, time does not begin to run under section 18(2) of the Criminal Appeal Act 1968 in relation to an appeal against that conviction until the date on which the proceedings end.
+
+(6) In determining for the purposes of subsection (5) the date on which proceedings end, any part of those proceedings which takes place after the time when matters relating to sentencing begin to be dealt with is to be disregarded.
+
+(7) Nothing in this section or section 17, 18 or 20 affects the requirement under section 4A of the Criminal Procedure (Insanity) Act 1964 (c. 84) that any question, finding or verdict mentioned in that section be determined, made or returned by a jury.
+
+#### 20 Rules of court
+
+(1) Rules of court may make such provision as appears to the authority making them to be necessary or expedient for the purposes of sections 17 to 19.
+
+(2) Without limiting subsection (1), rules of court may in particular make provision for time limits within which applications under section 17 must be made or within which other things in connection with that section or section 18 or 19 must be done.
+
+(3) Nothing in this section is to be taken as affecting the generality of any enactment conferring powers to make rules of court.
+
+#### 21 Application of sections 17 to 20 to Northern Ireland
+
+(1) In their application to Northern Ireland, sections 17 to 20 have effect subject to the modifications in Schedule 1.
+
+[[^F43](2) Sections 17 to 20 do not apply in relation to a trial to which section 5 of the Justice and Security (Northern Ireland) Act 2007 (trials on indictment without a jury) applies.]
+
+### Unfitness to plead and insanity
+
+#### 22 Procedure for determining fitness to plead: England and Wales
+
+(1) The Criminal Procedure (Insanity) Act 1964 is amended as follows.
+
+(2) In section 4 (finding of unfitness to plead), in subsection (5) (question of fitness to be determined by a jury), for the words from “by a jury” to the end substitute “ by the court without a jury ”.
+
+(3) In subsection (6) of that section, for “A jury” substitute “ The court ”.
+
+(4) In subsection (1) of section 4A (finding that the accused did the act or omission charged against him), for “jury” substitute “ court ”.
+
+(5) For subsection (5) of that section substitute—
+
+> (5) Where the question of disability was determined after arraignment of the accused, the determination under subsection (2) is to be made by the jury by whom he was being tried.
+
+#### 23 Procedure for determining fitness to be tried: Northern Ireland
+
+(1) The Mental Health (Northern Ireland) Order 1986 (S.I. 1986/595 (N.I. 4)) is amended as follows.
+
+(2) In Article 49 (finding of unfitness to be tried), in paragraph (4) (question of fitness to be determined by a jury), for the words from “by a jury” to the end substitute “ by the court without a jury ”.
+
+(3) In paragraph (4A) of that Article, for “A jury” substitute “ The court ”.
+
+(4) In paragraph (1) of Article 49A (finding that the accused did the act or omission charged against him), for “jury” substitute “ court ”.
+
+(5) For paragraph (5) of that Article substitute—
+
+> (5) Where the question of fitness to be tried was determined after arraignment of the accused, the determination under paragraph (2) is to be made by the jury by whom he was being tried.
+
+#### 24 Powers of court on finding of insanity or unfitness to plead etc
+
+(1) For section 5 of the Criminal Procedure (Insanity) Act 1964 (c. 84) substitute—
+
+> **5 Powers to deal with persons not guilty by reason of insanity or unfit to plead etc.**
+>
+> (1) This section applies where—
+>
+> (a) a special verdict is returned that the accused is not guilty by reason of insanity; or
+>
+> (b) findings have been made that the accused is under a disability and that he did the act or made the omission charged against him.
+>
+> (2) The court shall make in respect of the accused—
+>
+> (a) a hospital order (with or without a restriction order);
+>
+> (b) a supervision order; or
+>
+> (c) an order for his absolute discharge.
+>
+> (3) Where—
+>
+> (a) the offence to which the special verdict or the findings relate is an offence the sentence for which is fixed by law, and
+>
+> (b) the court have power to make a hospital order,
+>
+> the court shall make a hospital order with a restriction order (whether or not they would have power to make a restriction order apart from this subsection).
+>
+> (4) In this section—
+>
+> - “hospital order” has the meaning given in section 37 of the Mental Health Act 1983;
+> - “restriction order” has the meaning given to it by section 41 of that Act;
+> - “supervision order” has the meaning given in Part 1 of Schedule 1A to this Act.
+>
+> **5A Orders made under or by virtue of section 5**
+>
+> (1) In relation to the making of an order by virtue of subsection (2)(a) of section 5 above, section 37 (hospital orders etc) of the Mental Health Act 1983 (“the 1983 Act”) shall have effect as if—
+>
+> (a) the reference in subsection (1) to a person being convicted before the Crown Court included a reference to the case where section 5 above applies;
+>
+> (b) the words after “punishable with imprisonment” and before “or is convicted” were omitted; and
+>
+> (c) for subsections (4) and (5) there were substituted—
+>
+> > (4) Where an order is made under this section requiring a person to be admitted to a hospital (“a hospital order”), it shall be the duty of the managers of the hospital specified in the order to admit him in accordance with it.
+>
+> (2) In relation to a case where section 5 above applies but the court have not yet made one of the disposals mentioned in subsection (2) of that section—
+>
+> (a) section 35 of the 1983 Act (remand to hospital for report on accused’s mental condition) shall have effect with the omission of the words after paragraph (b) in subsection (3);
+>
+> (b) section 36 of that Act (remand of accused person to hospital for treatment) shall have effect with the omission of the words “(other than an offence the sentence for which is fixed by law)” in subsection (2);
+>
+> (c) references in sections 35 and 36 of that Act to an accused person shall be construed as including a person in whose case this subsection applies; and
+>
+> (d) section 38 of that Act (interim hospital orders) shall have effect as if—
+>
+> (i) the reference in subsection (1) to a person being convicted before the Crown Court included a reference to the case where section 5 above applies; and
+>
+> (ii) the words “(other than an offence the sentence for which is fixed by law)” in that subsection were omitted.
+>
+> (3) In relation to the making of any order under the 1983 Act by virtue of this Act, references in the 1983 Act to an offender shall be construed as including references to a person in whose case section 5 above applies, and references to an offence shall be construed accordingly.
+>
+> (4) Where—
+>
+> (a) a person is detained in pursuance of a hospital order which the court had power to make by virtue of section 5(1)(b) above, and
+>
+> (b) the court also made a restriction order, and that order has not ceased to have effect,
+>
+> the Secretary of State, if satisfied after consultation with the responsible medical officer that the person can properly be tried, may remit the person for trial, either to the court of trial or to a prison.
+>
+> On the person’s arrival at the court or prison, the hospital order and the restriction order shall cease to have effect.
+>
+> (5) Schedule 1A to this Act (supervision orders) has effect with respect to the making of supervision orders under subsection (2)(b) of section 5 above, and with respect to the revocation and amendment of such orders.
+>
+> (6) In relation to the making of an order under subsection (2)(c) of section 5 above, section 12(1) of the Powers of Criminal Courts (Sentencing) Act 2000 (absolute and conditional discharge) shall have effect as if—
+>
+> (a) the reference to a person being convicted by or before a court of such an offence as is there mentioned included a reference to the case where section 5 above applies; and
+>
+> (b) the reference to the court being of opinion that it is inexpedient to inflict punishment included a reference to it thinking that an order for absolute discharge would be most suitable in all the circumstances of the case.
+
+(2) Before Schedule 2 to the Criminal Procedure (Insanity) Act 1964 (c. 84) insert the Schedule set out in Schedule 2 to this Act.
+
+(3) In section 6 of the Criminal Appeal Act 1968 (c. 19) (substitution of finding of insanity or findings of unfitness to plead etc) and in section 14 of that Act (substitution of findings of unfitness to plead etc), for subsections (2) and (3) substitute—
+
+> (2) The Court of Appeal shall make in respect of the accused—
+>
+> (a) a hospital order (with or without a restriction order);
+>
+> (b) a supervision order; or
+>
+> (c) an order for his absolute discharge.
+>
+> (3) Where—
+>
+> (a) the offence to which the appeal relates is an offence the sentence for which is fixed by law, and
+>
+> (b) the court have power to make a hospital order,
+>
+> the court shall make a hospital order with a restriction order (whether or not they would have power to make a restriction order apart from this subsection).
+>
+> (4) Section 5A of the Criminal Procedure (Insanity) Act 1964 (“the 1964 Act”) applies in relation to this section as it applies in relation to section 5 of that Act.
+>
+> (5) Where the Court of Appeal make an interim hospital order by virtue of this section—
+>
+> (a) the power of renewing or terminating it and of dealing with the appellant on its termination shall be exercisable by the court below and not by the Court of Appeal; and
+>
+> (b) the court below shall be treated for the purposes of section 38(7) of the Mental Health Act 1983 (absconding offenders) as the court that made the order.
+>
+> (6) Where the Court of Appeal make a supervision order by virtue of this section, any power of revoking or amending it shall be exercisable as if the order had been made by the court below.
+>
+> (7) In this section—
+>
+> “hospital order” has the meaning given in section 37 of the Mental Health Act 1983;
+>
+> “interim hospital order” has the meaning given in section 38 of that Act;
+>
+> “restriction order” has the meaning given to it by section 41 of that Act;
+>
+> “supervision order” has the meaning given in Part 1 of Schedule 1A to the 1964 Act.
+
+(4) Section 14A of the Criminal Appeal Act 1968 (c. 19) (power to order admission to hospital where, on appeal against verdict of not guilty by reason of insanity, Court of Appeal substitutes verdict of acquittal) is repealed.
+
+(5) Section 5 of the Criminal Procedure (Insanity and Unfitness to Plead) Act 1991 (c. 25) and Schedules 1 and 2 to that Act are repealed.
+
+#### 25 Appeal against order made on finding of insanity or unfitness to plead etc
+
+After section 16 of the Criminal Appeal Act 1968 insert—
+
+> **Appeal against order made in cases of insanity or unfitness to plead**
+>
+> **16A Right of appeal against hospital order etc.**
+>
+> (1) A person in whose case the Crown Court—
+>
+> (a) makes a hospital order or interim hospital order by virtue of section 5 or 5A of the Criminal Procedure (Insanity) Act 1964, or
+>
+> (b) makes a supervision order under section 5 of that Act,
+>
+> may appeal to the Court of Appeal against the order.
+>
+> (2) An appeal under this section lies only—
+>
+> (a) with the leave of the Court of Appeal; or
+>
+> (b) if the judge of the court of trial grants a certificate that the case is fit for appeal.
+>
+> **16B Disposal of appeal under s. 16A**
+>
+> (1) If on an appeal under section 16A of this Act the Court of Appeal consider that the appellant should be dealt with differently from the way in which the court below dealt with him—
+>
+> (a) they may quash any order which is the subject of the appeal; and
+>
+> (b) they may make such order, whether by substitution for the original order or by variation of or addition to it, as they think appropriate for the case and as the court below had power to make.
+>
+> (2) The fact that an appeal is pending against an interim hospital order under the Mental Health Act 1983 shall not affect the power of the court below to renew or terminate the order or deal with the appellant on its termination.
+>
+> (3) Where the Court of Appeal make an interim hospital order by virtue of this section—
+>
+> (a) the power of renewing or terminating it and of dealing with the appellant on its termination shall be exercisable by the court below and not by the Court of Appeal; and
+>
+> (b) the court below shall be treated for the purposes of section 38(7) of the said Act of 1983 (absconding offenders) as the court that made the order.
+>
+> (4) The fact that an appeal is pending against a supervision order under section 5 of the Criminal Procedure (Insanity) Act 1964 shall not affect the power of the court below to revoke the order, or of a magistrates' court to revoke or amend it.
+>
+> (5) Where the Court of Appeal make a supervision order by virtue of this section, the power of revoking or amending it shall be exercisable as if the order had been made by the court below.
+
+#### 26 Courts-martial etc
+
+Schedule 3 (unfitness to stand trial and insanity: courts-martial etc) has effect.
+
+### Miscellaneous
+
+#### 27 Powers of authorised officers executing warrants
+
+(1) After section 125B of the Magistrates' Courts Act 1980 (c. 43) insert—
+
+> **125BA Powers of persons authorised under section 125A or 125B**
+>
+> Schedule 4A to this Act, which confers powers on persons authorised under section 125A or 125B for the purpose of executing warrants for the enforcement of fines and other orders, shall have effect.
+
+(2) After Schedule 4 to that Act insert the Schedule set out in Schedule 4 to this Act.
+
+#### 28 Disclosure orders for purpose of executing warrants
+
+After section 125C of the Magistrates' Courts Act 1980 insert—
+
+> **125CA Power to make disclosure order**
+>
+> (1) A magistrates' court may make a disclosure order if satisfied that it is necessary to do so for the purpose of executing a warrant to which this section applies.
+>
+> (2) This section applies to a warrant of arrest, commitment, detention or distress issued by a justice of the peace in connection with the enforcement of a fine or other order imposed or made on conviction.
+>
+> (3) A disclosure order is an order requiring the person to whom it is directed to supply the designated officer for the court with any of the following information about the person to whom the warrant relates—
+>
+> (a) his name, date of birth or national insurance number;
+>
+> (b) his address (or any of his addresses).
+>
+> (4) A disclosure order may be made only on the application of a person entitled to execute the warrant.
+>
+> (5) This section applies to the Crown as it applies to other persons.
+>
+> **125CB Use of information supplied under disclosure order**
+>
+> (1) Information supplied to a person under a disclosure order, or under this subsection, may be supplied by him to—
+>
+> (a) the applicant for the order or any other person entitled to execute the warrant concerned;
+>
+> (b) any employee of a body or person who, for the purposes of section 125B above, is an approved enforcement agency in relation to the warrant;
+>
+> (c) any justices' clerk or other person appointed under section 2(1) of the Courts Act 2003.
+>
+> (2) A person who intentionally or recklessly—
+>
+> (a) discloses information supplied under a disclosure order otherwise than as permitted by subsection (1) above, or
+>
+> (b) uses information so supplied otherwise than for the purpose of facilitating the execution of the warrant concerned,
+>
+> commits an offence.
+>
+> (3) But it is not an offence under subsection (2) above—
+>
+> (a) to disclose any information in accordance with any enactment or order of a court or for the purposes of any proceedings before a court; or
+>
+> (b) to disclose any information which has previously been lawfully disclosed to the public.
+>
+> (4) A person guilty of an offence under subsection (2) above is liable—
+>
+> (a) on summary conviction, to a fine not exceeding the statutory maximum;
+>
+> (b) on conviction on indictment, to a fine.
+>
+> (5) In this section “disclosure order” has the meaning given by section 125CA(3) above.
+
+#### 29 Procedure on breach of community penalty etc
+
+Schedule 5 (procedure on breach of community penalty etc) has effect.
+
+#### 30 Prosecution appeals
+
+(1) In section 58(13) of the Criminal Justice Act 2003 (c. 44) (which defines “applicable time”), for “start of the judge's” substitute “ time when the judge starts his ”.
+
+(2) After section 58(13) of that Act insert—
+
+> (14) The reference in subsection (13) to the time when the judge starts his summing-up to the jury includes the time when the judge would start his summing-up to the jury but for the making of an order under Part 7.
+
+#### [^F44]31 Intermittent custody
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Part 3 — Victims etc
+
+### Chapter 1 — The victims' code
+
+#### 32 Code of practice for victims
+
+(1) The Secretary of State [[^F45]for Justice] must issue a code of practice as to the services to be provided to a victim of criminal conduct by persons appearing to him to have functions relating to—
+
+(a) victims of criminal conduct, or
+
+(b) any aspect of the criminal justice system.
+
+(2) The code may restrict the application of its provisions to—
+
+(a) specified descriptions of victims;
+
+(b) victims of specified offences or descriptions of conduct;
+
+(c) specified persons or descriptions of persons appearing to the Secretary of State [[^F45]for Justice] to have functions of the kind mentioned in subsection (1).
+
+(3) The code may include provision requiring or permitting the services which are to be provided to a victim to be provided to one or more others—
+
+(a) instead of the victim (for example where the victim has died);
+
+(b) as well as the victim.
+
+(4) The code may make different provision for different purposes, including different provision for—
+
+(a) different descriptions of victims;
+
+(b) persons who have different functions or descriptions of functions;
+
+(c) different areas.
+
+(5) The code may not require anything to be done by—
+
+(a) a person acting in a judicial capacity;
+
+(b) a person acting in the discharge of a function of a member of the Crown Prosecution Service which involves the exercise of a discretion.
+
+(6) In determining whether a person is a victim of criminal conduct for the purposes of this section, it is immaterial that no person has been charged with or convicted of an offence in respect of the conduct.
+
+(7) In this section—
+
+- “criminal conduct” means conduct constituting an offence;
+- “specified” means specified in the code.
+
+#### 33 Procedure
+
+(1) Subsections (2) to (7) apply in relation to a code of practice required to be issued under section 32.
+
+(2) The Secretary of State [[^F46]for Justice] must prepare a draft of the code.
+
+(3) In preparing the draft the Secretary of State [[^F46]for Justice] must consult the Attorney General and the [[^F47]Secretary of State for the Home Department].
+
+(4) After preparing the draft the Secretary of State [[^F46]for Justice] must—
+
+(a) publish the draft;
+
+(b) specify a period during which representations about the draft may be made to him.
+
+(5) The Secretary of State [[^F46]for Justice] must—
+
+(a) consider in consultation with the Attorney General and the [[^F47]Secretary of State for the Home Department] any representations made to him before the end of the specified period about the draft;
+
+(b) if he thinks it appropriate, modify the draft in the light of any such representations.
+
+(6) After the Secretary of State [[^F46]for Justice] has proceeded under subsection (5) he must lay the code before Parliament.
+
+(7) When he has laid the code before Parliament the Secretary of State [[^F46]for Justice] must bring it into operation on such day as he appoints by order.
+
+(8) The Secretary of State [[^F46]for Justice] may from time to time revise a code previously brought into operation under this section; and subsections (2) to (7) apply to a revised code as they apply to the code as first prepared.
+
+(9) But the Secretary of State [[^F46]for Justice] may revise a code under subsection (8) only if it appears to him that the proposed revisions would not result in—
+
+(a) a significant reduction in the quality or extent of the services to be provided under the code, or
+
+(b) a significant restriction in the description of persons to whom services are to be provided under the code.
+
+#### 34 Effect of non-compliance
+
+(1) If a person fails to perform a duty imposed on him by a code issued under section 32, the failure does not of itself make him liable to criminal or civil proceedings.
+
+(2) But the code is admissible in evidence in criminal or civil proceedings and a court may take into account a failure to comply with the code in determining a question in the proceedings.
+
+### [[^F48]Chapter 2] — Representations and information
+
+[^F48] . . . . . . . . . . . . . . .
+
+### [[^F49]Chapter 3] — Other matters relating to victims etc
+
+[^F49]. . . . . . . . . . . . . . .
+
+## [[^F50]Part 3A] — [[^F51]Victims’ rights to make representations and receive information etc]
+
+### [[^F48]Chapter 1] — Representations and information
+
+#### Imprisonment or detention
+
+##### 35 Victims' rights to make representations and receive information
+
+(1) This section applies if—
+
+(a) a court convicts a person (“the offender”) of a sexual [[^F52], violent or terrorism] offence, and
+
+(b) a relevant sentence is imposed on him in respect of the offence.
+
+(2) But section 39 applies (instead of this section) if a hospital direction and a limitation direction are given in relation to the offender.
+
+(3) The local probation board for the area in which the sentence is imposed [[^F53], or the provider of probation services operating in the local justice area in which the sentence is imposed, ] must take all reasonable steps to ascertain whether a person who appears to the board to be the victim of the offence or to act for the victim of the offence wishes—
+
+(a) to make representations about the matters specified in subsection (4);
+
+(b) to receive the information specified in subsection (5).
+
+[[^F54](3A) The provider of probation services mentioned in subsection (3) is the provider of probation services identified as such by arrangements under section 3 of the Offender Management Act 2007.]
+
+(4) The matters are—
+
+(a) whether the offender should be subject to any licence conditions or supervision requirements in the event of his release;
+
+(b) if so, what licence conditions or supervision requirements.
+
+(5) The information is information about any licence conditions or supervision requirements to which the offender is to be subject in the event of his release.
+
+(6) If a person whose wishes have been ascertained under subsection (3) makes representations to the local probation board [[^F55]or provider of probation services] mentioned in that subsection or the [[^F56]relevant probation body] about a matter specified in subsection (4), the [[^F56]relevant probation body] must forward those representations to the persons responsible for determining the matter.
+
+(7) If a local probation board [[^F57]or a provider of probation services] has ascertained under subsection (3) that a person wishes to receive the information specified in subsection (5), the [[^F58]relevant probation body] must take all reasonable steps—
+
+(a) to inform the person whether or not the offender is to be subject to any licence conditions or supervision requirements in the event of his release,
+
+(b) if he is, to provide the person with details of any licence conditions or supervision requirements which relate to contact with the victim or his family, and
+
+(c) to provide the person with such other information as the [[^F58]relevant probation body] considers appropriate in all the circumstances of the case.
+
+[[^F59](8) In this section “the relevant probation body” is—
+
+(a) in a case where the offender is to be supervised on release by an officer of a local probation board or an officer of a provider of probation services, that local probation board or that provider of probation services (as the case may be);
+
+(b) in any other case—
+
+(i) if the prison or other place in which the offender is detained is situated in the area of a local probation board, that local probation board; and
+
+(ii) if that prison or other place is not in such an area, the provider of probation services operating in the local justice area in which the prison or other place in which the offender is detained is situated, that is identified as the relevant probation body by arrangements under section 3 of the Offender Management Act 2007.]
+
+#### Hospital orders
+
+##### 36 Victims' rights: preliminary
+
+(1) This section applies if the conditions in subsections (2) and (3) are met.
+
+(2) The first condition is that one of these applies in respect of a person (“the patient”) charged with a sexual [[^F60], violent or terrorism] offence—
+
+(a) the patient is convicted of the offence;
+
+(b) a verdict is returned that the patient is not guilty of the offence by reason of insanity;
+
+(c) a finding is made—
+
+(i) under section 4 of the Criminal Procedure (Insanity) Act 1964 (c. 84) that the patient is under a disability, and
+
+(ii) under section 4A of that Act that he did the act or made the omission charged against him as the offence.
+
+(3) The second condition is that a hospital order [[^F61], whether with or without a restriction order,] is made in respect of the patient by a court dealing with him for the offence.
+
+(4) The local probation board for the area in which the determination mentioned in subsection (2)(a), (b) or (c) is made [[^F62]or the provider of probation services operating in the local justice area in which the determination mentioned in subsection (2)(a), (b) or (c) is made ] must take all reasonable steps to ascertain whether a person who appears to the board to be the victim of the offence or to act for the victim of the offence wishes—
+
+(a) to make representations about the matters specified in subsection (5);
+
+(b) to receive the information specified in subsection (6).
+
+[[^F63](4A) The provider of probation services mentioned in subsection (4) is the provider of probation services identified as such by arrangements under section 3 of the Offender Management Act 2007.]
+
+(5) The matters are—
+
+(a) whether the patient should be subject to any conditions in the event of his discharge from hospital [[^F64]while a restriction order is in force in respect of him];
+
+(b) if so, what conditions [[^F65];
+
+(c) what conditions he should be subject to in the event of his discharge from hospital under a community treatment order].
+
+(6) The information is information about any conditions to which the patient is to be subject in the event of his discharge from hospital.
+
+##### 36A [[^F66]Supplemental provision for case where no restriction order made
+
+(1) This section applies if, in a case where section 36 applies, the hospital order in respect of the patient was made without a restriction order.
+
+(2) Subsection (3) applies if a person who appears to the local probation board or provider of probation services mentioned in section 36(4) to be the victim of the offence or to act for the victim of the offence, when his wishes are ascertained under section 36(4), expresses a wish—
+
+(a) to make representations about a matter specified in section 36(5), or
+
+(b) to receive the information specified in section 36(6).
+
+(3) The local probation board or the provider of probation services must—
+
+(a) notify the managers of the hospital in which the patient is detained of that person's wish and of that person's name and address, and
+
+(b) notify that person of the name and address of the hospital.
+
+(4) Subsection (5) applies if a person who appears to the local probation board or provider of probation services mentioned in section 36(4) to be the victim of the offence or to act for the victim of the offence, subsequently to his wishes being ascertained under section 36(4), expresses a wish to do something specified in subsection (2)(a) or (b).
+
+(5) The local probation board or provider of probation services mentioned in section 36(4) must take all reasonable steps—
+
+(a) to ascertain whether the hospital order made in respect of the patient continues in force and whether a community treatment order is in force in respect of him, and
+
+(b) if the board or provider ascertains that the hospital order does continue in force—
+
+(i) to notify the managers of the relevant hospital of that person's wish, and
+
+(ii) to notify that person of the name and address of the hospital.
+
+(6) The relevant hospital is—
+
+(a) the hospital in which the patient is detained, or
+
+(b) if a community treatment order is in force in respect of the patient, the responsible hospital.]
+
+##### 37 [[^F67]Representations where restriction order made]
+
+(1) This section applies [[^F68]if, in a case where section 36 applies, the hospital order in respect of the patient was made with a restriction order].
+
+(2) If—
+
+(a) a person makes representations about a matter specified in section 36(5) to the local probation board [[^F69]or provider of probation services] mentioned in section 36(4) or the [[^F70]relevant probation body], and
+
+(b) it appears to the [[^F70]relevant probation body] that the person is the victim of the offence or acts for the victim of the offence,
+
+the [[^F70]relevant probation body] must forward the representations to the persons responsible for determining the matter.
+
+(3) The duty in subsection (2) applies only while the restriction order made in respect of the patient is in force.
+
+(4) The Secretary of State must inform the [[^F71]relevant probation body] if he is considering—
+
+(a) whether to give a direction in respect of the patient under section 42(1) of the Mental Health Act 1983 (c. 20) (directions lifting restrictions),
+
+(b) whether to discharge the patient under section 42(2) of that Act, either absolutely or subject to conditions, or
+
+(c) if the patient has been discharged subject to conditions, whether to vary the conditions.
+
+(5) [[^F72]The First-tier Tribunal or the Mental Health Review Tribunal for Wales] must inform the [[^F73]relevant probation body] if—
+
+(a) an application is made to the tribunal by the patient under section 69, 70 or 75 of the Mental Health Act 1983 (applications concerning restricted patients), or
+
+(b) the Secretary of State refers the patient’s case to the tribunal under section 71 of that Act (references concerning restricted patients).
+
+(6) Subsection (7) applies if—
+
+(a) the [[^F74]relevant probation body] receives information under subsection (4) or (5), and
+
+(b) a person who appears to the [[^F74]relevant probation body] to be the victim of the offence or to act for the victim of the offence—
+
+(i) when his wishes were ascertained under section 36(4), expressed a wish to make representations about a matter specified in section 36(5), or
+
+(ii) has made representations about such a matter to the [[^F74]relevant probation body] or the local probation board [[^F75]or provider of probation services] mentioned in section 36(4).
+
+(7) The [[^F76]relevant probation body] must provide the information to the person.
+
+[[^F77](8) In this section, “the relevant probation body” is—
+
+(a) in a case where the patient is to be discharged subject to a condition that he reside in a particular area, which is or is part of the area of a local probation board, that local probation board;
+
+(b) in a case where the patient is to be discharged subject to a condition that he reside in a particular area other than one mentioned in paragraph (a), the provider of probation services operating in that area that is identified as the relevant probation body by arrangements under section 3 of the Offender Management Act 2007;
+
+(c) in any other case—
+
+(i) if the hospital in which the patient is detained is situated in the area of a local probation board, [[^F78]that local probation board]; and
+
+(ii) if that hospital is not so situated, the provider of probation services operating in the local justice area in which the hospital in which the patient is detained is situated that is identified as the relevant probation body by arrangements under section 3 of the Offender Management Act 2007.]
+
+##### 37ZA [[^F79]Victim impact statements where restriction order made
+
+(1) This section applies if, in a case where section 37 applies, an application or reference mentioned in subsection (5) of that section is made to the First-tier Tribunal or the Mental Health Review Tribunal for Wales.
+
+(2) The relevant probation body—
+
+(a) must take all reasonable steps to ascertain whether a person who appears to the body to be the victim of the offence or to act for the victim of the offence wishes to provide a victim impact statement to the body, and
+
+(b) if the person provides such a statement, must forward it to the tribunal.
+
+(3) Where a victim impact statement has been forwarded to the tribunal under subsection (2), the tribunal must—
+
+(a) allow the person who made the statement to request permission to read the statement to the tribunal at a relevant hearing, and
+
+(b) grant such permission unless the tribunal considers that there are good reasons not to.
+
+(4) The tribunal may have regard to the statement when determining a matter specified in section 36(5)(a) or (b) (but must not have regard to it for any other purpose).
+
+(5) In this section—
+
+- “relevant hearing” means any hearing held by the tribunal before making a decision which disposes of proceedings on the application or reference mentioned in subsection (1);
+- “the relevant probation body” has the meaning given in section 37(8);
+- “victim impact statement” means a statement about the way in which, and degree to which, the offence has affected and (as the case may be) continues to affect the victim or any other person.]
+
+##### 37A [[^F80]Representations where restriction order not made
+
+(1) This section applies if, in a case where section 36 applies, the hospital order in respect of the patient was made without a restriction order.
+
+(2) Subsection (3) applies if—
+
+(a) a person makes representations about a matter specified in section 36(5) to the managers of the relevant hospital, and
+
+(b) it appears to the managers that the person is the victim of the offence or acts for the victim of the offence.
+
+(3) The managers must forward the representations to the persons responsible for determining the matter.
+
+(4) The responsible clinician must inform the managers of the relevant hospital if he is considering making—
+
+(a) an order for discharge in respect of the patient under section 23(2) of the Mental Health Act 1983,
+
+(b) a community treatment order in respect of the patient, or
+
+(c) an order under section 17B(4) of the Mental Health Act 1983 to vary the conditions specified in a community treatment order in force in respect of the patient.
+
+[^F81]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6) [[^F82]The First-tier Tribunal or the Mental Health Review Tribunal for Wales] must inform the managers of the relevant hospital if—
+
+(a) an application is made to the tribunal under section 66 or 69 of the Mental Health Act 1983, or
+
+(b) the patient's case is referred to the tribunal under section 67 of that Act.
+
+(7) Subsection (8) applies if—
+
+(a) the managers of the relevant hospital receive information under subsection (4)[^F83]... or (6), and
+
+(b) a person who appears to the managers to be the victim of the offence or to act for the victim of the offence—
+
+(i) when his wishes were ascertained under section 36(4), expressed a wish to make representations about a matter specified in section 36(5), or
+
+(ii) has made representations about such a matter to the managers of the hospital in which the patient was, at the time in question, detained.
+
+(8) The managers of the relevant hospital must provide the information to the person.
+
+(9) The relevant hospital has the meaning given in section 36A(6).]
+
+##### 38 [[^F84]Information where restriction order made]
+
+(1) This section applies [[^F85]if, in a case where section 36 applies, the hospital order in respect of the patient was made with a restriction order].
+
+(2) Subsection (3) applies if a person who appears to the [[^F86]relevant probation body] to be the victim of the offence or to act for the victim of the offence—
+
+(a) when his wishes were ascertained under section 36(4), expressed a wish to receive the information specified in section 36(6), or
+
+(b) has subsequently informed the [[^F86]relevant probation body] that he wishes to receive that information.
+
+(3) The [[^F87]relevant probation body] must take all reasonable steps—
+
+(a) to inform that person whether or not the patient is to be subject to any conditions in the event of his discharge;
+
+(b) if he is, to provide that person with details of any conditions which relate to contact with the victim or his family;
+
+(c) if the restriction order in respect of the patient is to cease to have effect, to notify that person of the date on which it is to cease to have effect;
+
+(d) to provide that person with such other information as [[^F88]the body] considers appropriate in all the circumstances of the case.
+
+(4) The Secretary of State must inform the [[^F89]relevant probation body]—
+
+(a) whether the patient is to be discharged;
+
+(b) if he is, whether he is to be discharged absolutely or subject to conditions;
+
+(c) if he is to be discharged subject to conditions, what the conditions are to be;
+
+(d) if he has been discharged subject to conditions—
+
+(i) of any variation of the conditions by the Secretary of State;
+
+(ii) of any recall to hospital under section 42(3) of the Mental Health Act 1983 (c. 20);
+
+(e) if the restriction order is to cease to have effect by virtue of action to be taken by the Secretary of State, of the date on which the restriction order is to cease to have effect.
+
+(5) Subsections (6) and (7) apply (instead of subsection (4)) if—
+
+(a) an application is made to [[^F90]the First-tier Tribunal or the Mental Health Review Tribunal for Wales] by the patient under section 69, 70 or 75 of the Mental Health Act 1983 (c. 20) (applications concerning restricted patients), or
+
+(b) the Secretary of State refers the patient’s case to [[^F90]the First-tier Tribunal or the Mental Health Review Tribunal for Wales] under section 71 of that Act (references concerning restricted patients).
+
+(6) The tribunal must inform the [[^F91]relevant probation body]—
+
+(a) of the matters specified in subsection (4)(a) to (c);
+
+(b) if the patient has been discharged subject to conditions, of any variation of the conditions by the tribunal;
+
+(c) if the restriction order is to cease to have effect by virtue of action to be taken by the tribunal, of the date on which the restriction order is to cease to have effect.
+
+(7) The Secretary of State must inform the [[^F92]relevant probation body] of the matters specified in subsection (4)(d) and (e).
+
+(8) The duties in subsections (3) to (7) apply only while the restriction order is in force.
+
+(9) The [[^F93]relevant probation body] has the meaning given in section 37(8).
+
+##### 38A [[^F94]Information where restriction order not made
+
+(1) This section applies if, in a case where section 36 applies, the hospital order in respect of the patient was made without a restriction order.
+
+(2) The responsible clinician must inform the managers of the relevant hospital—
+
+(a) whether he is to make an order for discharge in respect of the patient under section 23(2) of the Mental Health Act 1983;
+
+(b) whether he is to make a community treatment order in respect of the patient;
+
+(c) if a community treatment order is to be made in respect of the patient, what conditions are to be specified in the order;
+
+(d) if a community treatment order is in force in respect of the patient, of any variation to be made under section 17B(4) of the Mental Health Act 1983 of the conditions specified in the order;
+
+(e) if a community treatment order in respect of the patient is to cease to be in force, of the date on which it is to cease to be in force;
+
+(f) if, following the examination of the patient under section 20 of the Mental Health Act 1983, it does not appear to the responsible clinician that the conditions set out in subsection (4) of that section are satisfied, of the date on which the authority for the patient's detention is to expire.
+
+[^F95]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) Subsection (5) applies if—
+
+(a) an application is made to [[^F96]the First-tier Tribunal or the Mental Health Review Tribunal for Wales] under section 66 or 69 of the Mental Health Act 1983,
+
+(b) the patient's case is referred to [[^F96]the First-tier Tribunal or the Mental Health Review Tribunal for Wales] under section 67 of that Act, or
+
+(c) the managers of the relevant hospital refer the patient's case to [[^F96]the First-tier Tribunal or the Mental Health Review Tribunal for Wales] under section 68 of that Act.
+
+(5) The tribunal must inform the managers of the relevant hospital if it directs that the patient is to be discharged.
+
+(6) Subsection (7) applies if a person who appears to the managers of the relevant hospital to be the victim of the offence or to act for the victim of the offence—
+
+(a) when his wishes were ascertained under section 36(4), expressed a wish to receive the information specified in section 36(6), or
+
+(b) has subsequently informed the managers of the relevant hospital that he wishes to receive that information.
+
+(7) The managers of the relevant hospital order must take all reasonable steps—
+
+(a) to inform that person whether the patient is to be discharged under section 23 or 72 of the Mental Health Act 1983;
+
+(b) to inform that person whether a community treatment order is to be made in respect of the patient;
+
+(c) if a community treatment order is to be made in respect of the patient and is to specify conditions which relate to contact with the victim or his family, to provide that person with details of those conditions;
+
+(d) if a community treatment order is in force in respect of the patient and the conditions specified in the order are to be varied under section 17B(4) of the Mental Health Act 1983, to provide that person with details of any variation which relates to contact with the victim or his family;
+
+(e) if a community treatment order in respect of the patient is to cease to be in force, to inform that person of the date on which it is to cease to be in force;
+
+(f) if, following the examination of the patient under section 20 of the Mental Health Act 1983, the authority for the patient's detention is not to be renewed, to inform that person of the date on which the authority is to expire;
+
+(g) to provide that person with such other information as the managers of the relevant hospital consider appropriate in all the circumstances of the case.
+
+(8) The relevant hospital has the meaning given by section 36A(6).]
+
+##### 38B [[^F97]Removal of restriction
+
+(1) This section applies if, in a case where section 36 applies—
+
+(a) the hospital order in respect of the patient was made with a restriction order, and
+
+(b) the restriction order ceases to have effect while the hospital order continues in force.
+
+(2) Subsection (3) applies if a person who appears to the relevant probation body to be the victim of the offence or to act for the victim of the offence—
+
+(a) when his wishes were ascertained under section 36(4), expressed a wish to make representations about a matter specified in section 36(5) or to receive the information specified in section 36(6), or
+
+(b) has subsequently informed the relevant probation body that he wishes to make representations about such a matter or to receive that information.
+
+(3) The relevant probation body must take all reasonable steps—
+
+(a) to notify the managers of the relevant hospital of an address at which that person may be contacted;
+
+(b) to notify that person of the name and address of the hospital.
+
+(4) While the hospital order continues in force, the patient is to be regarded as a patient in respect of whom a hospital order was made without a restriction order; and sections 37A and 38A are to apply in relation to him accordingly.
+
+(5) The relevant hospital has the meaning given in section 36A(6).
+
+(6) The relevant probation body has the meaning given in section 37(8).]
+
+#### Hospital directions
+
+##### 39 Victims' rights: preliminary
+
+(1) This section applies if—
+
+(a) a person (“the offender”) is convicted of a sexual [[^F98], violent or terrorism] offence,
+
+(b) a relevant sentence is imposed on him in respect of the offence, and
+
+(c) a hospital direction and a limitation direction are given in relation to him by a court dealing with him for the offence.
+
+(2) The local probation board for the area in which the hospital direction is given [[^F99], or the provider of probation services operating in the local justice area in which the hospital direction is given,] must take all reasonable steps to ascertain whether a person who appears to the board to be the victim of the offence or to act for the victim of the offence wishes—
+
+(a) to make representations about the matters specified in subsection (3);
+
+(b) to receive the information specified in subsection (4).
+
+[[^F100](2A) The provider of probation services mentioned in subsection (2) is the provider of probation services identified as such by arrangements under section 3 of the Offender Management Act 2007.]
+
+(3) The matters are—
+
+(a) whether the offender should, in the event of his discharge from hospital [[^F101]while he is subject to a limitation direction], be subject to any conditions and, if so, what conditions;
+
+[[^F102](aa) what conditions he should be subject to in the event of his discharge from hospital under a community treatment order;]
+
+(b) whether the offender should, in the event of his release from hospital, be subject to any licence conditions or supervision requirements and, if so, what licence conditions or supervision requirements;
+
+(c) if the offender is transferred to a prison or other institution in which he might have been detained if he had not been removed to hospital, whether he should, in the event of his release from prison or another such institution, be subject to any licence conditions or supervision requirements and, if so, what licence conditions or supervision requirements.
+
+(4) The information is—
+
+(a) information about any conditions to which the offender is to be subject in the event of his discharge;
+
+(b) information about any licence conditions or supervision requirements to which the offender is to be subject in the event of his release.
+
+##### 40 Representations
+
+(1) This section applies if section 39 applies.
+
+(2) If—
+
+(a) a person makes representations about a matter specified in section 39(3) to the local probation board [[^F103]or provider of probation services] mentioned in section 39(2) or the [[^F104]relevant probation body], and
+
+(b) it appears to the [[^F104]relevant probation body] that the person is the victim of the offence or acts for the victim of the offence,
+
+the [[^F104]relevant probation body] must forward the representations to the persons responsible for determining the matter.
+
+(3) If the representations are about a matter specified in section 39(3)(a), the duty in subsection (2) applies only while the limitation direction given in relation to the offender is in force.
+
+(4) The Secretary of State must inform the [[^F105]relevant probation body] if he is considering—
+
+(a) whether to give a direction in respect of the offender under section 42(1) of the Mental Health Act 1983 (c. 20) (directions lifting restrictions),
+
+(b) whether to discharge the offender under section 42(2) of that Act, either absolutely or subject to conditions, or
+
+(c) if the offender has been discharged subject to conditions, whether to vary the conditions.
+
+(5) [[^F106]The First-tier Tribunal or the Mental Health Review Tribunal for Wales] must inform the [[^F107]relevant probation body] if—
+
+(a) an application is made to the tribunal by the offender under section 69, 70 or 75 of the Mental Health Act 1983 (applications concerning restricted patients), or
+
+(b) the Secretary of State refers the offender’s case to the tribunal under section 71 of that Act (references concerning restricted patients).
+
+(6) Subsection (7) applies if—
+
+(a) the [[^F108]relevant probation body] receives information under subsection (4) or (5), and
+
+(b) a person who appears to the [[^F108]relevant probation body] to be the victim of the offence or to act for the victim of the offence—
+
+(i) when his wishes were ascertained under section 39(2), expressed a wish to make representations about a matter specified in section 39(3)(a), or
+
+(ii) has made representations about such a matter to the [[^F108]relevant probation body] or the local probation board [[^F109]or provider of probation services] mentioned in section 39(2).
+
+(7) The [[^F110]relevant probation body] must provide the information to the person.
+
+[[^F111](8) For the purposes of this section, “the relevant probation body” is—
+
+(a) in a case where the offender is to be discharged from hospital subject to a condition that he reside in a particular area, which is or is part of the area of a local probation board, that local probation board;
+
+(b) in a case where the offender is to be discharged from hospital subject to a condition that he reside in a particular area other than one mentioned in paragraph (a), the provider of probation services operating in that area that is identified as the relevant probation body by arrangements under section 3 of the Offender Management Act 2007;
+
+(c) in a case where the offender is to be supervised on release by an officer of a local probation board or an officer of a provider of probation services, that local probation board or that provider of probation services (as the case may be);
+
+(d) in any other case—
+
+(i) if the hospital, prison or other place in which the offender is detained is situated in the area of a local probation board, that area; and
+
+(ii) if that hospital, prison or other place is not so situated, the provider of probation services operating in the local justice area in which the hospital, prison or other place in which the offender is detained is situated, that is identified as the relevant probation body by arrangements under section 3 of the Offender Management Act 2007.]
+
+##### 41 Information
+
+(1) This section applies if section 39 applies.
+
+(2) Subsection (3) applies if a person who appears to the [[^F112]relevant probation body] to be the victim of the offence or to act for the victim of the offence—
+
+(a) when his wishes were ascertained under section 39(2), expressed a wish to receive the information specified in section 39(4), or
+
+(b) has subsequently informed the [[^F112]relevant probation body] that he wishes to receive that information.
+
+(3) The [[^F113]relevant probation body] must take all reasonable steps—
+
+(a) to inform that person whether or not the offender is to be subject to any conditions in the event of his discharge;
+
+(b) if he is, to provide that person with details of any conditions which relate to contact with the victim or his family;
+
+(c) if the limitation direction in respect of the offender is to cease to have effect, to notify that person of the date on which it is to cease to have effect;
+
+(d) to inform that person whether or not the offender is to be subject to any licence conditions or supervision requirements in the event of his release;
+
+(e) if he is, to provide that person with details of any licence conditions or supervision requirements which relate to contact with the victim or his family;
+
+(f) to provide that person with such other information as the board considers appropriate in all the circumstances of the case.
+
+(4) The Secretary of State must inform the [[^F114]relevant probation body]—
+
+(a) whether the offender is to be discharged;
+
+(b) if he is, whether he is to be discharged absolutely or subject to conditions;
+
+(c) if he is to be discharged subject to conditions, what the conditions are to be;
+
+(d) if he has been discharged subject to conditions—
+
+(i) of any variation of the conditions by the Secretary of State;
+
+(ii) of any recall to hospital under section 42(3) of the Mental Health Act 1983 (c. 20);
+
+(e) if the limitation direction is to cease to have effect by virtue of action to be taken by the Secretary of State, of the date on which the limitation direction is to cease to have effect.
+
+(5) Subsections (6) and (7) apply (instead of subsection (4)) if—
+
+(a) an application is made to [[^F115]the First-tier Tribunal or the Mental Health Review Tribunal for Wales] by the offender under section 69, 70 or 75 of the Mental Health Act 1983 (c. 20) (applications concerning restricted patients), or
+
+(b) the Secretary of State refers the offender’s case to [[^F115]the First-tier Tribunal or the Mental Health Review Tribunal for Wales] under section 71 of that Act (references concerning restricted patients).
+
+(6) The tribunal must inform the [[^F116]relevant probation body]—
+
+(a) of the matters specified in subsection (4)(a) to (c);
+
+(b) if the offender has been discharged subject to conditions, of any variation of the conditions by the tribunal;
+
+(c) if the limitation direction is to cease to have effect by virtue of action to be taken by the tribunal, of the date on which the limitation direction is to cease to have effect.
+
+(7) The Secretary of State must inform the [[^F117]relevant probation body] of the matters specified in subsection (4)(d) and (e).
+
+(8) The duties in subsections (3)(a) to (c) and (4) to (7) apply only while the limitation direction is in force.
+
+(9) The [[^F118]relevant probation body] has the meaning given in section 40(8).
+
+##### 41A [[^F119]Removal of restriction
+
+(1) This section applies if, in a case where section 39 applies—
+
+(a) the limitation direction in respect of the offender ceases to be in force, and
+
+(b) he is treated for the purposes of the Mental Health Act 1983 as a patient in respect of whom a hospital order has effect.
+
+(2) Subsection (3) applies if a person who appears to the relevant probation body to be the victim of the offence or to act for the victim of the offence—
+
+(a) when his wishes were ascertained under section 39(2), expressed a wish to make representations about a matter specified in section 39(3) or to receive the information specified in section 39(4), or
+
+(b) has subsequently informed the relevant probation body that he wishes to make representations about such a matter or to receive that information.
+
+(3) The relevant probation body must take all reasonable steps—
+
+(a) to notify the managers of the relevant hospital of an address at which that person may be contacted;
+
+(b) to notify that person of the address of the hospital.
+
+(4) The offender is to be regarded as a patient in respect of whom a hospital order was made without a restriction order; and sections 37A and 38A are to apply in relation to him accordingly.
+
+(5) The relevant hospital has the meaning given in section 36A(6).
+
+(6) The relevant probation body has the meaning given in section 40(8).]
+
+#### Transfer directions
+
+##### 42 Victims' rights: preliminary
+
+(1) This section applies if—
+
+(a) a person (“the offender”) is convicted of a sexual [[^F120], violent or terrorism] offence,
+
+(b) a relevant sentence is imposed on him in respect of the offence, and
+
+(c) while the offender is serving the sentence, the Secretary of State gives a transfer direction [[^F121]in respect of the offender (whether or not he also gives a restriction direction in respect of the offender)].
+
+(2) The local probation board for the area in which the hospital specified in the transfer direction is situated [[^F122]or the provider of probation services operating in the local justice area in which the hospital specified in the transfer direction is situated] must take all reasonable steps to ascertain whether a person who appears to the board [[^F123]or the provider] to be the victim of the offence or to act for the victim of the offence wishes—
+
+(a) to make representations about the matters specified in subsection (3);
+
+(b) to receive the information specified in subsection (4).
+
+[[^F124](2A) The provider of probation services mentioned in subsection (2) is the provider of probation services identified as such by arrangements under section 3 of the Offender Management Act 2007.]
+
+(3) The matters are—
+
+(a) whether the offender should be subject to any conditions in the event of his discharge from hospital [[^F125]at a time when a restriction direction is in force in respect of him];
+
+(b) if so, what conditions [[^F126];
+
+(c) what conditions he should be subject to in the event of his discharge from hospital under a community treatment order].
+
+(4) The information is information about any conditions to which the offender is to be subject in the event of his discharge from hospital.
+
+##### 42A [[^F127]Supplemental provision for case where no restriction direction given
+
+(1) This section applies if, in a case where section 42 applies, the transfer direction in respect of the patient was given without a restriction direction.
+
+(2) Subsection (3) applies if a person who appears to the local probation board or provider of probation services mentioned in section 42(2) to be the victim of the offence or to act for the victim of the offence, when his wishes are ascertained under section 42(2), expresses a wish—
+
+(a) to make representations about a matter specified in section 42(3), or
+
+(b) to receive the information specified in section 42(4).
+
+(3) The local probation board or provider of probation services must—
+
+(a) notify the managers of the hospital in which the patient is detained of that person's wish and of that person's name and address, and
+
+(b) notify that person of the name and address of the hospital.
+
+(4) Subsection (5) applies if a person who appears to the local probation board or provider of probation services mentioned in section 42(2) to be the victim of the offence or to act for the victim of the offence, subsequently to his wishes being ascertained under section 42(2), expressed a wish to do something specified in subsection (2)(a) or (b).
+
+(5) The local probation board or provider of probation services mentioned in section 42(2) must take all reasonable steps—
+
+(a) to ascertain whether the transfer direction given in respect of the patient continues in force and whether a community treatment order is in force in respect of him, and
+
+(b) if the board or the provider ascertains that the transfer direction does continue in force—
+
+(i) to notify the managers of the relevant hospital of that person's wish, and
+
+(ii) to notify that person of the name and address of the hospital.
+
+(6) The relevant hospital has the meaning given in section 36A(6).]
+
+##### 43 [[^F128]Representations where restriction direction made]
+
+(1) This section applies [[^F129]if, in a case where section 42 applies, the transfer direction in respect of the patient was given with a restriction direction].
+
+(2) If—
+
+(a) a person makes representations about a matter specified in section 42(3) to the local probation board [[^F130]or provider of probation services] mentioned in section 42(2) or the [[^F131]relevant probation body], and
+
+(b) it appears to the [[^F131]relevant probation body] that the person is the victim of the offence or acts for the victim of the offence,
+
+the [[^F131]relevant probation body] must forward the representations to the persons responsible for determining the matter.
+
+(3) The duty in subsection (2) applies only while the restriction direction given in respect of the offender is in force.
+
+(4) The Secretary of State must inform the [[^F132]relevant probation body] if he is considering—
+
+(a) whether to give a direction in respect of the offender under section 42(1) of the Mental Health Act 1983 (c. 20) (directions lifting restrictions),
+
+(b) whether to discharge the offender under section 42(2) of that Act, either absolutely or subject to conditions, or
+
+(c) if the offender has been discharged subject to conditions, whether to vary the conditions.
+
+(5) [[^F133]The First-tier Tribunal or the Mental Health Review Tribunal for Wales] must inform the [[^F134]relevant probation body] if—
+
+(a) an application is made to the tribunal by the offender under section 69, 70 or 75 of the Mental Health Act 1983 (applications concerning restricted patients), or
+
+(b) the Secretary of State refers the offender’s case to the tribunal under section 71 of that Act (references concerning restricted patients).
+
+(6) Subsection (7) applies if—
+
+(a) the [[^F135]relevant probation body] receives information under subsection (4) or (5), and
+
+(b) a person who appears to the [[^F135]relevant probation body] to be the victim of the offence or to act for the victim of the offence—
+
+(i) when his wishes were ascertained under section 42(2), expressed a wish to make representations about a matter specified in section 42(3), or
+
+(ii) has made representations about such a matter to the [[^F135]relevant probation body] or the local probation board [[^F136]or provider of probation services] mentioned in section 42(2).
+
+(7) The [[^F137]relevant probation body] must provide the information to the person.
+
+[[^F138](8) In this section, “the relevant probation body” is—
+
+(a) in a case where the offender is to be discharged subject to a condition that he reside in a particular area, which is or is part of the area of a local probation board, that local probation board;
+
+(b) in a case where the offender is to be discharged subject to a condition that he reside in a particular area other than one mentioned in paragraph (a), the provider of probation services operating in that area that is identified as the relevant probation body by arrangements under section 3 of the Offender Management Act 2007;
+
+(c) in any other case—
+
+(i) if the hospital in which the offender is detained is situated in the area of a local probation board, that area; and
+
+(ii) if that hospital is not so situated, the provider of probation services operating in the local justice area in which the hospital in which the offender is detained is situated, that is identified as the relevant probation body by arrangements under section 3 of the Offender Management Act 2007.]
+
+##### 43A [[^F139]Representations where restriction direction not given
+
+(1) This section applies if, in a case where section 42 applies, the transfer direction in respect of the patient was given without a restriction direction.
+
+(2) Subsection (3) applies if—
+
+(a) a person makes representations about a matter specified in section 42(3) to the managers of the relevant hospital, and
+
+(b) it appears to the managers that the person is the victim of the offence or acts for the victim of the offence.
+
+(3) The managers must forward the representations to the persons responsible for determining the matter.
+
+(4) The responsible clinician must inform the managers of the relevant hospital if he is considering making—
+
+(a) an order for discharge in respect of the patient under section 23(2) of the Mental Health Act 1983,
+
+(b) a community treatment order in respect of him, or
+
+(c) an order under section 17B(4) of the Mental Health Act 1983 to vary the conditions specified in a community treatment order in force in respect of the patient.
+
+[^F140]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6) [[^F141]The First-tier Tribunal or the Mental Health Review Tribunal for Wales] must inform the managers of the relevant hospital if—
+
+(a) an application is made to the tribunal under section 66 or 69 of the Mental Health Act 1983, or
+
+(b) the patient's case is referred to the tribunal under section 67 of that Act.
+
+(7) Subsection (8) applies if—
+
+(a) the managers of the relevant hospital receive information under subsection (4)[^F142]... or (6), and
+
+(b) a person who appears to the managers to be the victim of the offence or to act for the victim of the offence—
+
+(i) when his wishes were ascertained under section 42(2), expressed a wish to make representations about a matter specified in section 42(3), or
+
+(ii) has made representations about such a matter to the managers of the hospital in which the patient was, at the time in question, detained.
+
+(8) The managers of the relevant hospital must provide the information to the person.
+
+(9) The relevant hospital has the meaning given in section 36A(6).]
+
+##### 44 [[^F143]Information where restriction direction made]
+
+(1) This section applies [[^F144]if, in a case where section 42 applies, the transfer direction in respect of the patient was given with a restriction direction].
+
+(2) Subsection (3) applies if a person who appears to the [[^F145]relevant probation body] to be the victim of the offence or to act for the victim of the offence—
+
+(a) when his wishes were ascertained under section 42(2), expressed a wish to receive the information specified in section 42(4), or
+
+(b) has subsequently informed the [[^F145]relevant probation body] that he wishes to receive that information.
+
+(3) The [[^F146]relevant probation body] must take all reasonable steps—
+
+(a) to inform that person whether or not the offender is to be subject to any conditions in the event of his discharge;
+
+(b) if he is, to provide that person with details of any conditions which relate to contact with the victim or his family;
+
+(c) if the restriction direction in respect of the offender is to cease to have effect, to notify that person of the date on which it is to cease to have effect;
+
+(d) to provide that person with such other information as the board [[^F147]or the body] considers appropriate in all the circumstances of the case.
+
+(4) The Secretary of State must inform the [[^F148]relevant probation body]—
+
+(a) whether the offender is to be discharged;
+
+(b) if he is, whether he is to be discharged absolutely or subject to conditions;
+
+(c) if he is to be discharged subject to conditions, what the conditions are to be;
+
+(d) if he has been discharged subject to conditions—
+
+(i) of any variation of the conditions by the Secretary of State;
+
+(ii) of any recall to hospital under section 42(3) of the Mental Health Act 1983 (c. 20);
+
+(e) if the restriction direction is to cease to have effect by virtue of action to be taken by the Secretary of State, of the date on which the restriction direction is to cease to have effect.
+
+(5) Subsections (6) and (7) apply (instead of subsection (4)) if—
+
+(a) an application is made to [[^F149]the First-tier Tribunal or the Mental Health Review Tribunal for Wales] by the offender under section 69, 70 or 75 of the Mental Health Act 1983 (applications concerning restricted patients), or
+
+(b) the Secretary of State refers the offender’s case to [[^F149]the First-tier Tribunal or the Mental Health Review Tribunal for Wales] under section 71 of that Act (references concerning restricted patients).
+
+(6) The tribunal must inform the [[^F150]relevant probation body]—
+
+(a) of the matters specified in subsection (4)(a) to (c);
+
+(b) if the offender has been discharged subject to conditions, of any variation of the conditions by the tribunal;
+
+(c) if the restriction direction is to cease to have effect by virtue of action to be taken by the tribunal, of the date on which the restriction direction is to cease to have effect.
+
+(7) The Secretary of State must inform the [[^F151]relevant probation body] of the matters specified in subsection (4)(d) and (e).
+
+(8) The duties in subsections (3) to (7) apply only while the restriction direction is in force.
+
+(9) The [[^F152]relevant probation body] has the meaning given in section 43(8).
+
+##### 44A [[^F153]Information where restriction direction not given
+
+(1) This section applies if, in a case where section 42 applies, the transfer direction in respect of the patient was given without a restriction direction.
+
+(2) The responsible clinician must inform the managers of the relevant hospital—
+
+(a) whether he is to make an order for discharge in respect of the patient under section 23(2) of the Mental Health Act 1983;
+
+(b) whether he is to make a community treatment order in respect of the patient;
+
+(c) if a community treatment order is to be made in respect of the patient, what conditions are to be specified in the order;
+
+(d) if a community treatment order is in force in respect of the patient, of any variation to be made under section 17B(4) of the Mental Health Act 1983 of the conditions specified in the order;
+
+(e) if a community treatment order in respect of the patient is to cease to be in force, of the date on which it is to cease to be in force;
+
+(f) if, following the examination of the patient under section 20 of the Mental Health Act 1983, it does not appear to the responsible clinician that the conditions set out in subsection (4) of that section are satisfied, of the date on which the authority for the patient's detention is to expire.
+
+[^F154]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) Subsection (5) applies if—
+
+(a) an application is made to [[^F155]the First-tier Tribunal or the Mental Health Review Tribunal for Wales] under section 66 or 69 of the Mental Health Act 1983,
+
+(b) the patient's case is referred to [[^F155]the First-tier Tribunal or the Mental Health Review Tribunal for Wales] under section 67 of that Act, or
+
+(c) the managers of the relevant hospital refer the patient's case to [[^F155]the First-tier Tribunal or the Mental Health Review Tribunal for Wales] under section 68 of that Act.
+
+(5) The tribunal must inform the managers of the relevant hospital if it directs that the patient be discharged.
+
+(6) Subsection (7) applies if a person who appears to the managers of the relevant hospital to be the victim of the offence or to act for the victim of the offence—
+
+(a) when his wishes were ascertained under section 42(2), expressed a wish to receive the information specified in section 42(4), or
+
+(b) has subsequently informed the managers of the relevant hospital that he wishes to receive that information.
+
+(7) The managers of the relevant hospital order must take all reasonable steps—
+
+(a) to inform that person whether the patient is to be discharged under section 23 or 72 of the Mental Health Act 1983;
+
+(b) to inform that person whether a community treatment order is to be made in respect of the patient;
+
+(c) if a community treatment order is to be made in respect of the patient and is to specify conditions which relate to contact with the victim or his family, to provide that person with details of those conditions;
+
+(d) if a community treatment order is in force in respect of the patient and the conditions specified in the order are to be varied under section 17B(4) of the Mental Health Act 1983, to provide that person with details of any variation which relates to contact with the victim or his family;
+
+(e) if a community treatment order in respect of the patient is to cease to be in force, to inform that person of the date on which it is to cease to be in force;
+
+(f) if, following the examination of the patient under section 20 of the Mental Health Act 1983, the authority for the patient's detention is not to be renewed, to inform that person of the date on which the authority is to expire;
+
+(g) to provide that person with such other information as the managers of the relevant hospital consider appropriate in all the circumstances of the case.
+
+(8) The relevant hospital has the meaning given by section 36A(6).]
+
+##### 44B [[^F156]Removal of restriction
+
+(1) This section applies if, in a case where section 42 applies—
+
+(a) the transfer direction in respect of the patient was given with a restriction direction, and
+
+(b) the restriction direction ceases to be in force while the transfer direction continues in force.
+
+(2) Subsection (3) applies if a person who appears to the relevant probation body to be the victim of the offence or to act for the victim of the offence—
+
+(a) when his wishes were ascertained under section 42(2), expressed a wish to make representations about a matter specified in section 42(3) or to receive the information specified in section 42(4), or
+
+(b) has subsequently informed the relevant probation body that he wishes to make representations about such a matter or to receive that information.
+
+(3) The relevant probation body must take all reasonable steps—
+
+(a) to notify the managers of the relevant hospital of an address at which that person may be contacted;
+
+(b) to notify that person of the name and address of the hospital.
+
+(4) While the transfer direction continues in force, the patient is to be regarded as a patient in respect of whom a transfer direction was given without a restriction direction; and sections 43A and 44A are to apply in relation to him accordingly.
+
+(5) The relevant hospital has the meaning given in section 36A(6).
+
+(6) The relevant probation body has the meaning given in section 43(8).]
+
+### [[^F157]Chapter 2 — Information: victims’ rights
+
+#### Imprisonment or detention
+
+##### 44C Victims’ rights to receive information
+
+(1) This section applies if—
+
+(a) one of these applies in respect of a person—
+
+(i) the person is convicted of an offence listed in Part 1 of Schedule 6A and a sentence of imprisonment or detention for a term of less than the specified sentence length is imposed on the offender in respect of the offence,
+
+(ii) the person is convicted of an offence listed in Part 3 of Schedule 6A and a sentence of imprisonment or detention is imposed on the offender in respect of the offence, or
+
+(iii) the person is convicted of an offence where the behaviour giving rise to the offence involved domestic abuse within the meaning of the Domestic Abuse Act 2021 (see section 1 of that Act) and a sentence of imprisonment or detention is imposed on the offender in respect of the offence,
+
+(b) the provider of probation services receives a request for information to be provided in accordance with this section, and
+
+(c) the person who made the request appears to the provider of probation services to be the victim of the offence or to act for the victim of the offence.
+
+(2) But section 44H applies (instead of this section) if a hospital direction and a limitation direction are given in relation to the offender.
+
+(3) The provider of probation services must take all reasonable steps—
+
+(a) so far as the provider considers it appropriate to do so, to provide the person who made the request with—
+
+(i) information about the release, or consideration for release, of the offender;
+
+(ii) information about the imposition of licence conditions or supervision requirements in connection with the offender’s release;
+
+(iii) details of any such conditions or requirements which the provider considers relate to the victim or the victim’s family;
+
+(b) to provide the person with such other information as the provider considers appropriate in all the circumstances of the case.
+
+#### Hospital orders
+
+##### 44D Information where restriction order made
+
+(1) This section applies if—
+
+(a) a person (“the patient”) is charged with—
+
+(i) an offence that is listed in Part 3 of Schedule 6A, or
+
+(ii) an offence where the behaviour giving rise to the charge involved domestic abuse within the meaning of the Domestic Abuse Act 2021 (see section 1 of that Act),
+
+(b) one of these applies in respect of the patient—
+
+(i) the patient is convicted of the offence;
+
+(ii) a verdict is returned that the patient is not guilty of the offence by reason of insanity;
+
+(iii) a finding is made under section 4 of the Criminal Procedure (Insanity) Act 1964 that the patient is under a disability, and under section 4A of that Act that the patient did the act or made the omission charged against the patient as the offence,
+
+(c) a hospital order is made with a restriction order in respect of the patient by a court dealing with the patient for the offence,
+
+(d) the provider of probation services receives a request for information to be provided in accordance with this section, and
+
+(e) the person who made the request appears to the provider of probation services to be the victim of the offence or to act for the victim of the offence.
+
+(2) The provider of probation services must take all reasonable steps to ascertain whether the hospital order and the restriction order made in respect of the patient continue in force.
+
+(3) If the hospital order and the restriction order continue in force, the provider of probation services must take all reasonable steps—
+
+(a) so far as the provider considers it appropriate to do so, to provide the person who made the request with—
+
+(i) information about the discharge, or consideration for discharge, of the patient;
+
+(ii) information about the imposition of conditions in connection with the patient’s discharge;
+
+(iii) details of any such conditions which the provider considers relate to the victim or the victim’s family;
+
+(b) if the restriction order in respect of the patient is to cease to have effect, so far as the provider considers it appropriate to do so, to notify that person of the date on which it is to cease to have effect;
+
+(c) so far as the provider considers it appropriate to do so, to provide the person with—
+
+(i) information about the grant to the patient of leave to be absent from hospital under section 17 of the Mental Health Act 1983, or the consideration of the patient for such leave;
+
+(ii) information about the imposition of conditions in connection with the grant to the patient of such leave;
+
+(iii) details of any such conditions which the provider considers relate to the victim or the victim’s family;
+
+(d) to provide that person with such other information as the provider considers appropriate in all the circumstances of the case.
+
+(4) The Secretary of State must give the provider of probation services such information as the Secretary of State considers appropriate for the purpose of enabling the provider to carry out its functions under subsection (3).
+
+(5) But the Secretary of State is not required by subsection (4) to give the provider of probation services information that the tribunal is required to give the provider under subsection (7).
+
+(6) Subsection (7) applies if—
+
+(a) an application is made to the First-tier Tribunal or the Mental Health Review Tribunal for Wales by the patient under section 69, 70 or 75 of the Mental Health Act 1983 (applications concerning restricted patients), or
+
+(b) the Secretary of State refers the patient’s case to the First-tier Tribunal or the Mental Health Review Tribunal for Wales under section 71 or 75 of that Act (applications and references concerning restricted patients).
+
+(7) The tribunal must inform the provider of probation services—
+
+(a) whether the patient is to be discharged;
+
+(b) if so, whether the patient is to be discharged absolutely or subject to conditions;
+
+(c) if the patient is to be discharged subject to conditions, what the conditions are to be;
+
+(d) if the patient has been discharged subject to conditions, of any variation of the conditions by the tribunal;
+
+(e) if the restriction order is to cease to have effect by virtue of action to be taken by the tribunal, of the date on which the restriction order is to cease to have effect.
+
+##### 44E Victim impact statements where restriction order made
+
+(1) This section applies where—
+
+(a) a person (“the patient”) is charged with—
+
+(i) an offence that is listed in Part 3 of Schedule 6A, or
+
+(ii) an offence where the behaviour giving rise to the charge involved domestic abuse within the meaning of the Domestic Abuse Act 2021 (see section 1 of that Act),
+
+(b) one of these applies in respect of the patient—
+
+(i) the patient is convicted of the offence;
+
+(ii) a verdict is returned that the patient is not guilty of the offence by reason of insanity;
+
+(iii) a finding is made under section 4 of the Criminal Procedure (Insanity) Act 1964 that the patient is under a disability, and under section 4A of that Act that the patient did the act or made the omission charged against the patient as the offence,
+
+(c) a hospital order is made with a restriction order in respect of the patient by a court dealing with the patient for the offence,
+
+(d) either—
+
+(i) an application is made to the First-tier Tribunal or the Mental Health Review Tribunal for Wales by the patient under section 69, 70 or 75 of the Mental Health Act 1983 (applications concerning restricted patients), or
+
+(ii) the Secretary of State refers the patient’s case to the tribunal under section 71 or 75 of that Act (references concerning restricted patients), and
+
+(e) the provider of probation services considers it appropriate to give a person who appears to the provider to be the victim of the offence the opportunity to provide a victim impact statement under this section.
+
+(2) The provider of probation services—
+
+(a) must take all reasonable steps to ascertain whether the person wishes to provide a victim impact statement to the provider, and
+
+(b) if the person provides such a statement, must forward it to the tribunal.
+
+(3) Where a victim impact statement has been forwarded to the tribunal under subsection (2), the tribunal must—
+
+(a) allow the person who made the statement to request permission to read the statement to the tribunal at a relevant hearing, and
+
+(b) grant such permission unless the tribunal considers that there are good reasons not to.
+
+(4) The tribunal may have regard to the statement when determining any of the following matters (but must not have regard to it for any other purpose)—
+
+(a) whether the patient should be subject to any conditions in the event of the patient’s discharge from hospital while a restriction order is in force in respect of the patient;
+
+(b) if so, what conditions;
+
+(c) what conditions the patient should be subject to in the event of the patient’s discharge from hospital under a community treatment order.
+
+(5) In this section—
+
+- “relevant hearing” means any hearing held by the tribunal before making a decision which disposes of proceedings on the application or reference mentioned in subsection (1)(d);
+- “victim impact statement” means a statement about the way in which, and the degree to which, the offence has affected and (as the case may be) continues to affect the victim or any other person.
+
+##### 44F Information where restriction order not made
+
+(1) This section applies if—
+
+(a) a person (“the patient”) is charged with—
+
+(i) an offence that is listed in Part 3 of Schedule 6A, or
+
+(ii) an offence where the behaviour giving rise to the charge involved domestic abuse within the meaning of the Domestic Abuse Act 2021 (see section 1 of that Act),
+
+(b) one of these applies in respect of the patient—
+
+(i) the patient is convicted of the offence;
+
+(ii) a verdict is returned that the patient is not guilty of the offence by reason of insanity;
+
+(iii) a finding is made under section 4 of the Criminal Procedure (Insanity) Act 1964 that the patient is under a disability, and under section 4A of that Act that the patient did the act or made the omission charged against the patient as the offence,
+
+(c) a hospital order is made without a restriction order in respect of the patient by a court dealing with the patient for the offence,
+
+(d) the provider of probation services receives a request for information to be provided in accordance with this section, and
+
+(e) the person who made the request appears to the provider of probation services to be the victim of the offence or to act for the victim of the offence.
+
+(2) The provider of probation services must take all reasonable steps to ascertain—
+
+(a) whether the hospital order made in respect of the patient continues in force, and
+
+(b) if so, whether a community treatment order is in force in respect of the patient.
+
+(3) If the hospital order made in respect of the patient continues in force—
+
+(a) the provider of probation services must take all reasonable steps to notify the managers of the relevant hospital of the request and of the name and address of the person who made it, and
+
+(b) the provider may notify that person of the name and address of the relevant hospital.
+
+(4) If notified under subsection (3)(a), the managers of the relevant hospital must take all reasonable steps—
+
+(a) so far as the managers consider it appropriate to do so, to provide the person who made the request or the provider of probation services with—
+
+(i) information about the discharge, or consideration for discharge, of the patient under section 23 or 72 of the Mental Health Act 1983;
+
+(ii) information about the making of a community treatment order in respect of the patient;
+
+(iii) details of any conditions specified in a community treatment order made in respect of the patient which the managers consider relate to the victim or the victim’s family;
+
+(b) if a community treatment order is in force in respect of the patient and the conditions specified in the order are to be varied under section 17B(4) of the Mental Health Act 1983, so far as the managers consider it appropriate to do so, to provide that person or the provider with details of any variation which the managers consider relates to the victim or the victim’s family;
+
+(c) if a community treatment order in respect of the patient is to cease to be in force, so far as the managers consider it appropriate to do so, to inform that person or the provider of the date on which it is to cease to be in force;
+
+(d) if, following the examination of the patient under section 20 of the Mental Health Act 1983, the authority for the patient’s detention is not to be renewed, so far as the managers consider it appropriate to do so, to inform that person or the provider of the date on which the authority is to expire;
+
+(e) so far as the managers consider it appropriate to do so, to provide that person or the provider with—
+
+(i) information about the grant to the patient of leave to be absent from hospital under section 17 of the Mental Health Act 1983, or the consideration of the patient for such leave;
+
+(ii) information about the imposition of conditions in connection with the grant to the patient of such leave;
+
+(iii) details of any such conditions which the managers consider relate to the victim or the victim’s family;
+
+(f) to provide that person or the provider with such other information as the managers consider appropriate in all the circumstances of the case.
+
+(5) If the provider of probation services is provided with information under subsection (4), it must, so far as it considers it appropriate to do so, provide the information to the person who made the request.
+
+(6) The responsible clinician must provide the managers of the relevant hospital with any information which the responsible clinician has and which is requested by the managers for the purpose of carrying out their functions under subsection (4).
+
+(7) Subsection (8) applies if—
+
+(a) an application is made to the First-tier Tribunal or the Mental Health Review Tribunal for Wales under section 66 or 69 of the Mental Health Act 1983,
+
+(b) the patient’s case is referred to the First-tier Tribunal or the Mental Health Review Tribunal for Wales under section 67 of that Act, or
+
+(c) the managers of the relevant hospital refer the patient’s case to the First-tier Tribunal or the Mental Health Review Tribunal for Wales under section 68 of that Act.
+
+(8) The tribunal must inform the managers of the relevant hospital if it directs that the patient is to be discharged.
+
+(9) In this section “the relevant hospital” is—
+
+(a) the hospital in which the patient is detained, or
+
+(b) if a community treatment order is in force in respect of the patient, the responsible hospital.
+
+##### 44G Removal of restriction
+
+(1) This section applies if—
+
+(a) the provider of probation services is required to provide information to a person in accordance with section 44D, and
+
+(b) the restriction order mentioned in section 44D(1)(c) has ceased to have effect (whether before or after the request for the information was made) while the hospital order continues in force.
+
+(2) The provider of probation services must take all reasonable steps to notify the managers of the relevant hospital of an address at which the person who made the request for the information may be contacted.
+
+(3) The provider of probation services may notify the person who made the request of the name and address of the relevant hospital.
+
+(4) While the hospital order continues in force—
+
+(a) the patient in respect of whom the hospital order was made with the restriction order is to be regarded as a patient in respect of whom a hospital order was made without a restriction order; and section 44F applies in relation to the patient accordingly, and
+
+(b) the request for information under section 44D is to be treated as a request for information to be provided in accordance with section 44F.
+
+(5) In this section “the relevant hospital” has the meaning given by section 44F(9).
+
+#### Hospital directions
+
+##### 44H Information
+
+(1) This section applies if—
+
+(a) one of these applies in respect of a person—
+
+(i) the person is convicted of an offence that is listed in Part 1 of Schedule 6A and a sentence of imprisonment or detention for a term of less than the specified sentence length is imposed on the person in respect of the offence,
+
+(ii) the person is convicted of an offence that is listed in Part 3 of Schedule 6A and a sentence of imprisonment or detention is imposed on the person in respect of the offence, or
+
+(iii) the person is convicted of an offence where the behaviour giving rise to the offence involved domestic abuse within the meaning of the Domestic Abuse Act 2021 (see section 1 of that Act) and a sentence of imprisonment or detention is imposed on the person in respect of the offence,
+
+(b) a hospital direction and a limitation direction are given in relation to the offender by a court dealing with the offender for the offence,
+
+(c) the provider of probation services receives a request for information to be provided in accordance with this section, and
+
+(d) the person who made the request appears to the provider of probation services to be the victim of the offence or to act for the victim of the offence.
+
+(2) The provider of probation services must take all reasonable steps to ascertain whether the hospital direction and the limitation direction given in respect of the offender continue in force.
+
+(3) If the hospital direction and the limitation direction continue in force, the provider of probation services must take all reasonable steps—
+
+(a) so far as the provider considers it appropriate to do so, to provide the person who made the request with—
+
+(i) information about the discharge, or consideration for discharge, of the offender;
+
+(ii) information about the imposition of conditions in connection with the offender’s discharge;
+
+(iii) details of any such conditions which the provider considers relate to the victim or the victim’s family;
+
+(b) if the limitation direction in respect of the offender is to cease to have effect, so far as the provider considers it appropriate to do so, to notify that person of the date on which it is to cease to have effect;
+
+(c) so far as the provider considers it appropriate to do so, to provide that person with—
+
+(i) information about the release, or consideration for release, of the offender;
+
+(ii) information about the imposition of licence conditions or supervision requirements in connection with the offender’s release;
+
+(iii) details of any such conditions or requirements which the provider considers relate to the victim or the victim’s family;
+
+(d) so far as the provider considers it appropriate to do so, to provide that person with—
+
+(i) information about the grant to the offender of leave to be absent from hospital under section 17 of the Mental Health Act 1983, or the consideration of the offender for such leave;
+
+(ii) information about the imposition of conditions in connection with the grant to the offender of such leave;
+
+(iii) details of any such conditions which the provider considers relate to the victim or the victim’s family;
+
+(e) to provide that person with such other information as the provider considers appropriate in all the circumstances of the case.
+
+(4) The Secretary of State must give the provider of probation services such information as the Secretary of State considers appropriate for the purpose of enabling the provider to carry out its functions under subsection (3).
+
+(5) But the Secretary of State is not required by subsection (4) to give the provider of probation services information that the tribunal is required to give the provider under subsection (7).
+
+(6) Subsection (7) applies if—
+
+(a) an application is made to the First-tier Tribunal or the Mental Health Review Tribunal for Wales by the offender under section 69, 70 or 75 of the Mental Health Act 1983 (applications concerning restricted patients), or
+
+(b) the Secretary of State refers the offender’s case to the First-tier tribunal or the Mental Health Review Tribunal for Wales under section 71 or 75 of that Act (applications and references concerning restricted patients).
+
+(7) The tribunal must inform the provider of probation services—
+
+(a) whether the offender is to be discharged;
+
+(b) if so, whether the offender is to be discharged absolutely or subject to conditions;
+
+(c) if the offender is to be discharged subject to conditions, what the conditions are to be;
+
+(d) if the offender has been discharged subject to conditions, of any variation of the conditions by the tribunal;
+
+(e) if the limitation direction is to cease to have effect by virtue of action to be taken by the tribunal, of the date on which the limitation direction is to cease to have effect.
+
+##### 44I Removal of restriction
+
+(1) This section applies if—
+
+(a) the provider of probation services is required to provide information to a person in accordance with section 44H,
+
+(b) the limitation direction mentioned in section 44H(1)(b) has ceased to have effect (whether before or after the request for the information was made), and
+
+(c) the offender in respect of whom the request for the information was made is treated for the purposes of the Mental Health Act 1983 as a patient in respect of whom a hospital order has effect.
+
+(2) The provider of probation services must take all reasonable steps to notify the managers of the relevant hospital of an address at which the person who made the request for the information may be contacted.
+
+(3) The provider of probation services may notify the person who made the request of the name and address of the relevant hospital.
+
+(4) The offender is to be regarded as a patient in respect of whom a hospital order was made without a restriction order; and section 44F applies in relation to the offender accordingly.
+
+(5) The request for information under section 44H is to be treated as a request for information to be provided in accordance with section 44F.
+
+(6) In this section “the relevant hospital” means the hospital in which the offender is detained.
+
+#### Transfer directions
+
+##### 44J Information where restriction direction given
+
+(1) This section applies if—
+
+(a) one of these applies in respect of a person—
+
+(i) the person is convicted of an offence listed in Part 1 of Schedule 6A and a sentence of imprisonment or detention for a term of less than the specified sentence length is imposed on the offender in respect of the offence,
+
+(ii) the person is convicted of an offence listed in Part 3 of Schedule 6A and a sentence of imprisonment or detention is imposed on the offender in respect of the offence, or
+
+(iii) the person is convicted of an offence where the behaviour giving rise to the offence involved domestic abuse within the meaning of the Domestic Abuse Act 2021 (see section 1 of that Act) and a sentence of imprisonment or detention is imposed on the person in respect of the offence,
+
+(b) while the person is serving the sentence, the Secretary of State gives a transfer direction with a restriction direction in respect of the person,
+
+(c) the provider of probation services receives a request for information to be provided in accordance with this section, and
+
+(d) the person who made the request appears to the provider of probation services to be the victim of the offence or to act for the victim of the offence.
+
+(2) The provider of probation services must take all reasonable steps to ascertain whether the transfer direction and the restriction direction continue in force.
+
+(3) If the transfer direction and the restriction direction continue in force, the provider of probation services must take all reasonable steps—
+
+(a) so far as the provider considers it appropriate to do so, to provide the person who made the request with—
+
+(i) information about the discharge, or consideration for discharge, of the patient;
+
+(ii) information about the imposition of conditions in connection with the patient’s discharge;
+
+(iii) details of any such conditions which the provider considers relate to the victim or the victim’s family;
+
+(b) if the restriction direction in respect of the patient is to cease to have effect, so far as the provider considers it appropriate to do so, to notify that person of the date on which it is to cease to have effect;
+
+(c) so far as the provider considers it appropriate to do so, to provide that person with—
+
+(i) information about the release, or consideration for release, of the patient;
+
+(ii) information about the imposition of licence conditions or supervision requirements in connection with the patient’s release;
+
+(iii) details of any such conditions or requirements which the provider considers relate to the victim or the victim’s family;
+
+(d) so far as the provider of probation services considers it appropriate to do so, to provide that person with—
+
+(i) information about the grant to the patient of leave to be absent from hospital under section 17 of the Mental Health Act 1983, or the consideration of the patient for such leave;
+
+(ii) information about the imposition of conditions in connection with the grant to the patient of such leave;
+
+(iii) details of any such conditions which the provider considers relate to the victim or the victim’s family;
+
+(e) to provide that person with such other information as the provider considers appropriate in all the circumstances of the case.
+
+(4) The Secretary of State must give the provider of probation services such information as the Secretary of State considers appropriate for the purpose of enabling the provider to carry out its functions under subsection (3).
+
+(5) But the Secretary of State is not required by subsection (4) to give the provider of probation services information that the tribunal is required to give the provider under subsection (7).
+
+(6) Subsection (7) applies if—
+
+(a) an application is made to the First-tier Tribunal or the Mental Health Review Tribunal for Wales by the patient under section 69, 70 or 75 of the Mental Health Act 1983 (applications concerning restricted patients), or
+
+(b) the Secretary of State refers the patient’s case to the First-tier Tribunal or the Mental Health Review Tribunal for Wales under section 71 or 75 of that Act (applications and references concerning restricted patients).
+
+(7) The tribunal must inform the provider of probation services—
+
+(a) whether the patient is to be discharged;
+
+(b) if so, whether the patient is to be discharged absolutely or subject to conditions;
+
+(c) if the patient is to be discharged subject to conditions, what the conditions are to be;
+
+(d) if the patient has been discharged subject to conditions, of any variation of the conditions by the tribunal;
+
+(e) if the restriction order is to cease to have effect by virtue of action to be taken by the tribunal, of the date on which the restriction order is to cease to have effect.
+
+##### 44K Information where restriction direction not given
+
+(1) This section applies if—
+
+(a) one of these applies in respect of a person—
+
+(i) the person is convicted of an offence listed in Part 1 of Schedule 6A and a sentence of imprisonment or detention for a term of less than 12 months is imposed on the offender in respect of the offence,
+
+(ii) the person is convicted of an offence listed in Part 3 of Schedule 6A and a sentence of imprisonment or detention is imposed on the offender in respect of the offence, or
+
+(iii) the person is convicted of an offence where the behaviour giving rise to the offence involved domestic abuse within the meaning of the Domestic Abuse Act 2021 (see section 1 of that Act) and a sentence of imprisonment or detention is imposed on the person in respect of the offence,
+
+(b) while the person is serving the sentence, the Secretary of State gives a transfer direction without a restriction direction in respect of the person,
+
+(c) the provider of probation services receives a request for information to be provided in accordance with this section, and
+
+(d) the person who made the request appears to the provider of probation services to be the victim of the offence or to act for the victim of the offence.
+
+(2) The provider of probation services must take all reasonable steps to ascertain—
+
+(a) whether the transfer direction given in respect of the patient continues in force, and
+
+(b) if so, whether a community treatment order is in force in respect of the patient.
+
+(3) If the transfer direction given in respect of the patient continues in force—
+
+(a) the provider of probation services must take all reasonable steps to notify the managers of the relevant hospital of the request and of the name and address of the person who made it, and
+
+(b) the provider of probation services may notify the person of the name and address of the relevant hospital.
+
+(4) If notified under subsection (3)(a), the managers of the relevant hospital must take all reasonable steps—
+
+(a) so far as the managers consider it appropriate to do so, to provide the person who made the request or the provider of probation services with—
+
+(i) information about the discharge, or consideration for discharge, of the patient under section 23 or 72 of the Mental Health Act 1983;
+
+(ii) information about the making of a community treatment order in respect of the patient;
+
+(iii) details of any conditions specified in a community treatment order made in respect of the patient which the managers consider relate to the victim or the victim’s family;
+
+(b) if a community treatment order is in force in respect of the patient and the conditions specified in the order are to be varied under section 17B(4) of the Mental Health Act 1983, so far as the managers consider it appropriate to do so, to provide that person or the provider with details of any variation which the managers consider relates to the victim or the victim’s family;
+
+(c) if a community treatment order in respect of the patient is to cease to be in force, so far as the managers consider it appropriate to do so, to inform that person or the provider of the date on which it is to cease to be in force;
+
+(d) if, following the examination of the offender under section 20 of the Mental Health Act 1983, the authority for the patient’s detention is not to be renewed, so far as the managers consider it appropriate to do so, to inform that person or the provider of the date on which the authority is to expire;
+
+(e) so far as the managers consider it appropriate to do so, to provide that person or the provider with—
+
+(i) information about the grant to the patient of leave to be absent from hospital under section 17 of the Mental Health Act 1983, or the consideration of the offender for such leave;
+
+(ii) information about the imposition of conditions in connection with the grant to the patient of such leave;
+
+(iii) details of any such conditions which the managers consider relate to the victim or the victim’s family;
+
+(f) to provide that person or the provider with such other information as the managers of the relevant hospital consider appropriate in all the circumstances of the case.
+
+(5) If the provider of probation services is provided with information under subsection (4), it must provide the information to the person who made the request.
+
+(6) The responsible clinician must provide the mangers of the relevant hospital with any information which the responsible clinician has and which is requested by the managers for the purpose of carrying out their functions under subsection (4).
+
+(7) Subsection (8) applies if—
+
+(a) an application is made to the First-tier Tribunal or the Mental Health Review Tribunal for Wales under section 66 or 69 of the Mental Health Act 1983,
+
+(b) the patient’s case is referred to the First-tier Tribunal or the Mental Health Review Tribunal for Wales under section 67 of that Act, or
+
+(c) the managers of the relevant hospital refer the patient’s case to the First-tier Tribunal or the Mental Health Review Tribunal for Wales under section 68 of that Act.
+
+(8) The tribunal must inform the managers of the relevant hospital if it directs that the patient be discharged.
+
+(9) In this section “the relevant hospital” means—
+
+(a) the hospital in which the patient is detained, or
+
+(b) if a community treatment order is in force in respect of the patient, the responsible hospital.
+
+##### 44L Removal of restriction
+
+(1) This section applies if—
+
+(a) the provider of probation services is required to provide information to a person in accordance with section 44J, and
+
+(b) the restriction direction mentioned in section 44J(1)(b) has ceased to have effect (whether before or after the request for the information was made) while the transfer direction continues in force.
+
+(2) The provider of probation services must take all reasonable steps to notify the managers of the relevant hospital of an address at which the person who made the request for the information may be contacted.
+
+(3) The provider of probation services may notify that person of the name and address of the hospital.
+
+(4) While the transfer direction continues in force—
+
+(a) the patient in respect of whom the transfer direction was made with the restriction direction is to be regarded as a patient in respect of whom a transfer direction was made without a restriction direction; and section 44K applies in relation to the offender accordingly, and
+
+(b) the request for information under section 44J is to be treated as a request for information to be provided in accordance with section 44K.
+
+(5) In this section “the relevant hospital” has the meaning given by section 44K(9).]
+
+### [[^F158]Chapter 3 — Information: powers etc
+
+#### 44M Power to disclose information to victims
+
+(1) This section applies if—
+
+(a) one of the conditions specified in the table is met in relation to a person (“the offender”),
+
+(b) the provider of probation services receives a request for information to be provided in accordance with this section from a person who appears to the provider to be the victim of the offence in respect of which the condition is met or of similar criminal conduct carried out by the offender, or to act for such a victim, and
+
+(c) the provider of probation services considers that the victim would be at risk of physical or psychological harm if the information is not provided in accordance with this section.
+
+| Condition | Specified provision |
+|---|---|
+| the person is serving a sentence of imprisonment or detention in England and Wales in respect of an offence | section 44C |
+| a hospital order is made with a restriction order in relation to the person by a court dealing with the person for an offence | section 44D |
+| a hospital order is made without a restriction order in relation to the person by a court dealing with the person for an offence | section 44F |
+| a hospital direction and a limitation direction are given in relation to the person by a court dealing with the person for an offence | section 44H |
+| the Secretary of State gives a transfer direction with a restriction direction in respect of the person while the person is serving a sentence of imprisonment or detention in England and Wales in respect of an offence | section 44J |
+| the Secretary of State gives a transfer direction without a restriction direction in respect of the person while the person is serving a sentence of imprisonment or detention in England and Wales in respect of an offence | section 44K |
+
+(2) The provider of probation services may provide the person who made the request with any information that would be required or permitted to be provided to that person (by the provider or otherwise) under Chapter 2 of this Part if the request were made under the provision specified in the relevant entry in column 2 of the table.
+
+(3) Where—
+
+(a) a person would be required or permitted to provide information to the provider of probation services or to the managers of a hospital under Chapter 2 of this Part if the request mentioned in subsection (1)(b) were made under the provision specified in the relevant entry in column 2 of the table, and
+
+(b) the provider of probation services or hospital managers request the information from that person,
+
+that person must take all reasonable steps to provide the information to the provider or hospital managers.
+
+(4) In this section—
+
+(a) “offence” includes an offence under the law of any place outside England and Wales;
+
+(b) “similar criminal conduct”, in relation to an offence, means conduct that—
+
+(i) the provider of probation services considers to be similar to the conduct constituting the offence, and
+
+(ii) itself constitutes an offence;
+
+(c) “victim” includes a person who is a victim within the meaning of section 1 of the Victims and Prisoners Act 2024 by virtue of subsection (2)(a) of that section.
+
+#### 44N Victim impact statements where hospital order made with restriction order (prospective)
+
+(1) This section applies where—
+
+(a) one of these applies in respect of a person (“the patient”) charged with an offence—
+
+(i) the patient is convicted of the offence;
+
+(ii) a verdict is returned that the patient is not guilty of the offence by reason of insanity;
+
+(iii) a finding is made under section 4 of the Criminal Procedure (Insanity) Act 1964 that the patient is under a disability, and under section 4A of that Act that the patient did the act or made the omission charged against the patient as the offence,
+
+(b) a hospital order is made with a restriction order in respect of the patient by a court dealing with the patient for the offence,
+
+(c) the provider of probation services provides information in accordance with section 44M about the patient to a person who appears to the provider to be the victim of the offence, or to act for the victim of the offence,
+
+(d) either—
+
+(i) an application is made to the First-tier Tribunal or the Mental Health Review Tribunal for Wales by the patient under section 69, 70 or 75 of the Mental Health Act 1983 (applications concerning restricted patients), or
+
+(ii) the Secretary of State refers the patient’s case to the tribunal under section 71 or 75 of that Act (references concerning restricted patients), and
+
+(e) the provider of probation services considers it appropriate to give the person who appears to the provider to be the victim of the offence the opportunity to provide a victim impact statement under this section.
+
+(2) The provider of probation services—
+
+(a) must take all reasonable steps to ascertain whether the person who appears to the provider to be the victim of the offence wishes to provide a victim impact statement to the provider, and
+
+(b) if the person provides such a statement, must forward it to the tribunal.
+
+(3) Where a victim impact statement has been forwarded to the tribunal under subsection (2), the tribunal must—
+
+(a) allow the person who made the statement to request permission to read the statement to the tribunal at a relevant hearing, and
+
+(b) grant such permission unless the tribunal considers that there are good reasons not to.
+
+(4) The tribunal may have regard to the statement when determining any of the following matters (but must not have regard to it for any other purpose)—
+
+(a) whether the patient should be subject to any conditions in the event of the patient’s discharge from hospital while a restriction order is in force in respect of the patient;
+
+(b) if so, what conditions;
+
+(c) what conditions the patient should be subject to in the event of the patient’s discharge from hospital under a community treatment order.
+
+(5) In this section—
+
+- “relevant hearing” means any hearing held by the tribunal before making a decision which disposes of proceedings on the application or reference mentioned in subsection (1)(d);
+- “victim” includes a person who is a victim within the meaning of section 1 of the Victims and Prisoners Act 2024 by virtue of subsection (2)(a) of that section;
+- “victim impact statement” means a statement about the way in which, and the degree to which, the offence has affected and (as the case may be) continues to affect the victim or any other person.
+
+#### 44O Saving for other powers of provider of probation services
+
+Nothing in this Part limits any power that the provider of probation services has otherwise than under this Part.]
+
+### [[^F159]Chapter 4] — [[^F160]Interpretation etc]
+
+#### [^F161]...
+
+##### 45 [[^F162]Interpretation: sections 35 to 44B]
+
+(1) In [^F163]sections 35 to [^F163][[^F164]44B] [[^F163]this Part]—
+
+- [[^F165]“community treatment order” has the meaning given in section 17A of the Mental Health Act 1983;]
+
+- “court” does not include [[^F166]the Court Martial or the Court Martial Appeal Court];
+
+- “hospital direction” has the meaning given in section 45A(3)(a) of the Mental Health Act 1983 (c. 20);
+
+- “hospital order” has the meaning given in section 37(4) of that Act;
+
+- “licence condition” means a condition in a licence;
+
+- [[^F167]“life sentence” means a sentence of imprisonment, detention or custody for life, or during His Majesty’s pleasure;]
+
+- “limitation direction” has the meaning given in section 45A(3)(b) of the Mental Health Act 1983;
+
+- [^F168]“[^F168]local probation board[^F168]” means a local probation board established under section 4 of the Criminal Justice and Court Services Act 2000 (c. 43);
+
+- [[^F169]“the managers” has the meaning given in section 145 of the Mental Health Act 1983;
+
+- [[^F167]“release” includes temporary release;]
+
+- [^F168]“[^F168]relevant sentence[^F168]” means any of these—
+
+  - (a) [^F168]a sentence of imprisonment for a term of 12 months or more;
+  - (b) [^F168]a sentence of detention during Her Majesty’s pleasure;
+  - (c) [^F168]a sentence of detention for a period of 12 months or more under [^F168][[^F170]section 250 [^F168][[^F171]or 252A][^F168] of the Sentencing Code][^F168] (offenders under 18 convicted of certain serious offences);
+  - (d) [^F168]a detention and training order for a term of 12 months or more;]
+
+- [[^F172]“responsible clinician” means the responsible clinician for the purposes of Part 3 of the Mental Health Act 1983;]
+
+- [[^F173]“responsible hospital” has the meaning given in section 17A of the Mental Health Act 1983;]
+
+- “restriction direction” has the meaning given in section 49(2) of the Mental Health Act 1983;
+
+- “restriction order” has the meaning given in section 41(1) of that Act;
+
+- [[^F167]“sentence of imprisonment or detention” includes a detention and training order;]
+
+- [[^F167]“the specified sentence length”, in relation to an offence, means 12 months;]
+
+- “supervision requirements” means requirements specified in a notice under [[^F174]section 242(4) of the Sentencing Code];
+
+- “transfer direction” has the meaning given in section 47(1) of the Mental Health Act 1983.
+
+- [[^F167]“victim” means a person who is a victim within the meaning given by section 1 of the Victims and Prisoners Act 2024 other than by virtue of subsection (2)(a) of that section (but see sections 44M(4)(c) and 44N(5) which extend the definition of victim in those sections).]
+
+[[^F175](1A) A reference in any provision of this Part to “the provider of probation services” is—
+
+(a) where there is only one provider of probation services within the meaning given by section 3(6) of the Offender Management Act 2007, to that provider;
+
+(b) otherwise, to the provider of probation services identified as having the functions of the provider of probation services for the purposes of that provision by arrangements under section 3 of that Act (and different providers may be identified for different purposes).]
+
+(2) For the purposes of sections 35 to [[^F176]44B], an offence is a sexual[[^F177], violent or terrorism] offence if it is any of these—
+
+(a) murder or an offence specified in [[^F178]Schedule 18 to the Sentencing Code];
+
+(b) an offence in respect of which the patient or offender is subject to the notification requirements of Part 2 of the Sexual Offences Act 2003 (c. 42));
+
+(c) an offence against a child within the meaning of Part 2 of the Criminal Justice and Court Services Act 2000.
+
+[[^F179](3) A reference in sections 35 to 44B to a place in which a person is detained includes a reference to a place in which he is liable to be detained under the Mental Health Act 1983.
+
+(4) For the purposes of section 32(3) of that Act (regulations as to delegation of managers' functions, etc.) as applied by Parts 1 and 2 of Schedule 1 to that Act, a function conferred on the managers of a hospital under sections 35 to 44B of this Act is to be treated as a function of theirs under Part 3 of that Act.]
+
+#### Northern Ireland
+
+##### 46 Victims of mentally disordered persons
+
+(1) The Justice (Northern Ireland) Act 2002 (c. 26) is amended as follows.
+
+(2) After section 69 (views on temporary release) insert—
+
+> **69A Information about discharge and leave of absence of mentally disordered persons**
+>
+> (1) The Secretary of State must make a scheme requiring the Secretary of State to make available to persons falling within subsection (2) information about—
+>
+> (a) the discharge from hospital of, or
+>
+> (b) the grant of leave of absence from hospital to,
+>
+> persons in respect of whom relevant determinations have been made.
+>
+> (2) The persons referred to in subsection (1) are victims of the offences in respect of which the determinations were made who wish to receive the information.
+>
+> (3) A relevant determination is made in respect of a person if—
+>
+> (a) a hospital order with a restriction order is made in respect of him by a court dealing with him for an offence, or
+>
+> (b) a transfer direction and a restriction direction are given in respect of him while he is serving a sentence of imprisonment in respect of an offence.
+>
+> (4) The Secretary of State may from time to time make a new scheme or alterations to a scheme.
+>
+> (5) The information to be made available under a scheme must include information as to any relevant conditions to which a person in respect of whom a relevant determination has been made is to be subject in the event of—
+>
+> (a) his discharge from hospital, or
+>
+> (b) the grant of leave of absence from hospital to him.
+>
+> (6) A condition is relevant for the purposes of subsection (5) if it appears to the Secretary of State that it might affect a victim of an offence in respect of which the determination was made.
+>
+> (7) A scheme may require the Secretary of State to take all reasonable steps to ascertain whether a person who appears to him to be the victim of an offence in respect of which a relevant determination has been made wishes to make representations about the matters specified in subsection (8).
+>
+> (8) The matters are—
+>
+> (a) whether the person in respect of whom the determination has been made should be subject to any conditions in the event of his discharge from hospital or the grant of leave of absence from hospital to him;
+>
+> (b) if so, what conditions.
+>
+> (9) A scheme that includes provision such as is mentioned in subsection (7) must specify how the representations are to be made.
+>
+> (10) A scheme may require other information in relation to the discharge of, or the grant of leave of absence to, persons in respect of whom relevant determinations are made to be made available under the scheme.
+>
+> (11) The other information may include, in cases of a description specified by the scheme or in which the Secretary of State considers it appropriate, the date on which it is anticipated that a person in respect of whom a relevant determination has been made will be discharged or granted leave of absence from hospital.
+>
+> (12) Subsections (5) to (8) of section 68 apply in relation to a scheme made under this section as they apply in relation to a scheme made under that section.
+>
+> (13) A scheme may make different provision in relation to different descriptions of persons in respect of whom a relevant determination is made.
+>
+> **69B Views on leave of absence**
+>
+> (1) If a person who is the victim of an offence in respect of which a relevant determination has been made makes to the Secretary of State representations falling within subsection (2) the Secretary of State has the obligations specified in subsection (3).
+>
+> (2) Representations fall within this subsection if they are to the effect that the grant of leave of absence to the person in respect of whom the determination has been made would threaten the safety, or otherwise adversely affect the well-being, of—
+>
+> (a) the actual victim of the offence in respect of which the determination was made, or
+>
+> (b) a person who is regarded for the purposes of a scheme under section 69A as a victim of that offence by virtue of section 68(5) (as applied by section 69A(12)).
+>
+> (3) The Secretary of State must—
+>
+> (a) have regard to the representations in deciding whether he should give his consent to leave of absence being granted, and
+>
+> (b) inform the victim of any such decision.
+>
+> (4) Section 69A(3) (relevant determination) applies for the purposes of this section.
+
+(3) In section 70 (supplementary), after subsection (3) insert—
+
+> (4) In sections 68 and 69 references to a person serving a sentence of imprisonment in Northern Ireland include a person detained in hospital pursuant to a transfer direction and a restriction direction.
+>
+> (5) In subsection (4) and section 69A(3)—
+>
+> “restriction direction” has the meaning given in Article 55(2) of the Mental Health (Northern Ireland) Order 1986;
+>
+> “transfer direction” has the meaning given in Article 53(2) of that Order.
+>
+> (6) In section 69A(3)—
+>
+> “hospital order” has the meaning given in Article 44(1) of the Mental Health (Northern Ireland) Order 1986;
+>
+> “restriction order” has the meaning given in Article 47(1) of that Order;
+>
+> “sentence of imprisonment” has the meaning given in Article 53(5) of that Order.
+>
+> (7) In sections 69A and 69B “leave of absence” means leave of absence under Article 15 of the Mental Health (Northern Ireland) Order 1986.
+
+(4) In section 90(5) (statutory rules), in paragraph (b) after “section 68” insert “ or 69A ”.
+
+## [[^F49]Part 3B] — [[^F180]Other matters relating to victims etc]
+
+### Parliamentary Commissioner
+
+#### 47 Investigations by Parliamentary Commissioner
+
+Schedule 7 (which amends the Parliamentary Commissioner Act 1967 (c. 13)) has effect.
+
+### Commissioner for Victims and Witnesses
+
+#### 48 Commissioner for Victims and Witnesses
+
+(1) The Secretary of State [[^F181]for Justice] must appoint a Commissioner for Victims and Witnesses (referred to in this Part as the Commissioner).
+
+(2) Before appointing the Commissioner the Secretary of State [[^F181]for Justice] must consult the Attorney General and the [[^F182]Secretary of State for the Home Department] as to the person to be appointed.
+
+(3) [^F183]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) [^F183]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) [^F183]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[[^F184](6) The Secretary of State may pay to, or in respect of, the Commissioner amounts—
+
+(a) by way of remuneration, pensions, allowances or gratuities, or
+
+(b) by way of provision for any such benefits.
+
+(7) The Secretary of State may pay sums in respect of the expenses of the Commissioner.]
+
+#### 49 General functions of Commissioner
+
+(1) The Commissioner must—
+
+(a) promote the interests of victims and witnesses;
+
+(b) take such steps as he considers appropriate with a view to encouraging good practice in the treatment of victims and witnesses;
+
+(c) keep under review the operation of the code of practice issued under section 32.
+
+(2) The Commissioner may, for any purpose connected with the performance of his duties under subsection (1)—
+
+(a) make proposals to the Secretary of State [[^F185]for Justice] for amending the code (at the request of the Secretary of State [[^F185]for Justice] or on his own initiative);
+
+(b) make a report to the Secretary of State [[^F185]for Justice];
+
+(c) make recommendations to an authority within his remit [[^F186](whether or not made by way of inclusion in a report prepared under paragraph (b) or subsection (4))];
+
+(d) [^F187]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(e) consult any person he thinks appropriate.
+
+(3) If the Commissioner makes a report to the Secretary of State [[^F185]for Justice] under subsection (2)(b)—
+
+(a) the Commissioner must send a copy of the report to the Attorney General and the [[^F188]Secretary of State for the Home Department];
+
+(b) [^F189]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[[^F190](4) The Commissioner must prepare in respect of each calendar year a report on the carrying out of the functions of the Commissioner during the year.
+
+[[^F191](4A) A report prepared under subsection (2)(b) or (4) may include provision making recommendations to any authority within the Commissioner’s remit.]
+
+(5) The Commissioner must send a copy of each report prepared under subsection (4) to—
+
+(a) the Secretary of State for Justice,
+
+(b) the Attorney General, and
+
+(c) the Secretary of State for the Home Department.
+
+[[^F192](5A) The Commissioner must arrange for each report prepared under subsection (4) to be laid before Parliament.]
+
+(6) Reports under subsection (2)(b) or (4) must be published by the Commissioner.
+
+(7) If section 48 comes into force after the beginning of a calendar year, the first report under subsection (4) may relate to a period beginning with the day on which that section comes into force and ending with the end of the next calendar year.]
+
+#### 49A [[^F193]Duty to respond to Commissioner’s recommendations
+
+(1) This section applies where the Commissioner publishes a report under section 49(2)(b) or (4) containing recommendations to an authority within the Commissioner’s remit.
+
+(2) The relevant person must prepare comments on the report.
+
+(3) The relevant person is—
+
+(a) where the authority is a government department in the charge of a Minister of the Crown, the Minister, or
+
+(b) in any other case, the authority.
+
+(4) The comments must include, in respect of each recommendation made in the report, an explanation of—
+
+(a) the action which the relevant person has taken, or proposes to take, in response to the recommendation, or
+
+(b) why the relevant person has not taken, or does not propose to take, any action in response.
+
+(5) The relevant person must arrange for the comments to be published in such manner as the person considers appropriate.
+
+(6) The comments must be published before the end of the period of 56 days beginning with the day on which the report is published.
+
+(7) The relevant person must send a copy of anything published under subsection (6) to—
+
+(a) the Commissioner, and
+
+(b) (unless the authority is a government department in the charge of a Minister of the Crown) the Secretary of State.]
+
+#### 50 Advice
+
+(1) If he is required to do so by a Minister of the Crown, the Commissioner must give advice to the Minister of the Crown in connection with any matter which—
+
+(a) is specified by the Minister, and
+
+(b) relates to victims or witnesses.
+
+(2) [^F194]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) In this section “Minister of the Crown” includes the Treasury.
+
+#### 51 Restrictions on exercise of functions
+
+The Commissioner must not exercise any of his functions in relation to—
+
+(a) a particular victim or witness;
+
+(b) the bringing or conduct of particular proceedings;
+
+(c) anything done or omitted to be done by a person acting in a judicial capacity or on the instructions of or on behalf of such a person.
+
+#### 51A [[^F195]Duty to co-operate with Commissioner
+
+(1) The Commissioner may request a relevant person to co-operate with the Commissioner in any way that the Commissioner considers necessary for the purposes of the Commissioner’s functions.
+
+(2) A relevant person must comply with a request made to the person under this section, so far as it is appropriate and reasonably practicable for the person to do so.
+
+(3) In this section “relevant person” means a person who is not an individual and is subject to the duty in section 5(1) of the Victims and Prisoners Act 2024 (duty to provide services in accordance with the code issued under section 2 of that Act).]
+
+#### 52 “Victims” and “witnesses”
+
+(1) This section applies for the purposes of sections 48 to 51.
+
+(2) “Victim” means—
+
+(a) a victim of an offence, or
+
+(b) a victim of anti-social behaviour.
+
+(3) It is immaterial for the purposes of subsection (2)(a) that—
+
+(a) no [[^F196]person has reported] the offence;
+
+(b) no person has been charged with or convicted of the offence.
+
+(4) “Witness” means a person (other than a defendant)—
+
+(a) who has witnessed conduct in relation to which he may be or has been called to give evidence in relevant proceedings;
+
+(b) who is able to provide or has provided anything which might be used or has been used as evidence in relevant proceedings; or
+
+(c) who is able to provide or has provided anything mentioned in subsection (5) (whether or not admissible in evidence in relevant proceedings).
+
+(5) The things referred to in subsection (4)(c) are—
+
+(a) anything which might tend to confirm, has tended to confirm or might have tended to confirm evidence which may be, has been or could have been admitted in relevant proceedings;
+
+(b) anything which might be, has been or might have been referred to in evidence given in relevant proceedings by another person;
+
+(c) anything which might be, has been or might have been used as the basis for any cross examination in the course of relevant proceedings.
+
+(6) For the purposes of subsection (4)—
+
+(a) a person is a defendant in relation to any criminal proceedings if he might be, has been or might have been charged with or convicted of an offence in the proceedings;
+
+(b) a person is a defendant in relation to any other relevant proceedings if he might be, has been or might have been the subject of an order made in those proceedings.
+
+(7) In subsections (4) to (6) “relevant proceedings” means—
+
+(a) criminal proceedings;
+
+(b) proceedings of any other kind in respect of anti-social behaviour.
+
+(8) For the purposes of this section—
+
+(a) “anti-social behaviour” means behaviour by a person which causes or is likely to cause harassment, alarm or distress to one or more persons not of the same household as the person;
+
+(b) a person is a victim of anti-social behaviour if the behaviour has caused him harassment, alarm or distress and he is not of the same household as the person who engages in the behaviour.
+
+#### 53 Authorities within Commissioner’s remit
+
+(1) For the purposes of this Part the authorities within the Commissioner’s remit are those specified in Schedule 9.
+
+(2) An authority specified in Schedule 9 that has functions in relation to an area outside England and Wales is within the Commissioner’s remit only to the extent that it discharges its functions in relation to England and Wales.
+
+(3) Subsection (2) does not apply in relation to the Foreign and Commonwealth Office.
+
+(4) The Secretary of State [[^F197]for Justice] may by order amend Schedule 9 by—
+
+(a) adding an authority appearing to him to exercise functions of a public nature;
+
+(b) omitting an authority;
+
+(c) changing the description of an authority.
+
+(5) In preparing a draft of an order under subsection (4) the Secretary of State [[^F197]for Justice] must consult the Attorney General and the [[^F198]Secretary of State for the Home Department].
+
+### Disclosure of information
+
+#### 54 Disclosure of information
+
+(1) A person may disclose information to a relevant authority for a purpose specified in subsection (2).
+
+(2) The purposes are purposes connected with any of these—
+
+(a) compliance with the code issued under section 32;
+
+(b) compliance with sections 35 to 44;
+
+(c) the carrying out of the functions of the Commissioner.
+
+(3) These are relevant authorities—
+
+(a) a person required to do anything under the code issued under section 32;
+
+(b) a local probation board established under section 4 of the Criminal Justice and Court Services Act 2000 (c. 43);
+
+[[^F199](ba) a provider of probation services,]
+
+(c) the Commissioner;
+
+(d) an authority within the Commissioner’s remit.
+
+(4) The Secretary of State [[^F200]for Justice] may by order—
+
+(a) amend subsection (2) by adding any purpose appearing to him to be connected with the assistance of victims of offences or anti-social behaviour, witnesses of offences or anti-social behaviour or other persons affected by offences or anti-social behaviour;
+
+(b) amend subsection (3) by adding any authority appearing to him to exercise functions of a public nature.
+
+(5) The reference in subsection (4)(a) to persons affected by offences does not include persons accused or convicted of offences.
+
+(6) The Secretary of State [[^F200]for Justice] may exercise the power in subsection (4) only after consulting the Attorney General and the [[^F201]Secretary of State for the Home Department].
+
+(7) Nothing in this section authorises the making of a disclosure which contravenes [[^F202]the data protection legislation].
+
+(8) This section does not affect a power to disclose which exists apart from this section.
+
+[[^F203](9) In this section, “the data protection legislation” has the same meaning as in the Data Protection Act 2018 (see section 3 of that Act).]
+
+### [^F204]...
+
+#### [^F204]55 Victims' Advisory Panel
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Grants
+
+#### 56 Grants for assisting victims, witnesses etc
+
+(1) The Secretary of State may pay such grants to such persons as he considers appropriate in connection with measures which appear to him to be intended to assist victims, witnesses or other persons affected by offences.
+
+(2) The Secretary of State may make a grant under this section subject to such conditions as he considers appropriate.
+
+[[^F205](3) In the application of this section to Northern Ireland, any reference in subsection (1) or (2) to the Secretary of State shall be construed as a reference to the Department of Justice in Northern Ireland.]
+
+### Criminal injuries compensation
+
+#### 57 Recovery of criminal injuries compensation from offenders
+
+(1) The Criminal Injuries Compensation Act 1995 (c. 53) is amended as follows.
+
+(2) After section 7 insert—
+
+> **7A Recovery of compensation from offenders: general**
+>
+> (1) The Secretary of State may, by regulations made by statutory instrument, make provision for the recovery from an appropriate person of an amount equal to all or part of the compensation paid in respect of a criminal injury.
+>
+> (2) An appropriate person is a person who has been convicted of an offence in respect of the criminal injury.
+>
+> (3) The amount recoverable from a person under the regulations must be determined by reference only to the extent to which the criminal injury is directly attributable to an offence of which he has been convicted.
+>
+> (4) The regulations may confer functions in respect of recovery on—
+>
+> (a) claims officers;
+>
+> (b) if a Scheme manager has been appointed, persons appointed by the Scheme manager under section 3(4)(a).
+>
+> (5) The regulations may not authorise the recovery of an amount in respect of compensation from a person to the extent that the compensation has been repaid in accordance with the Scheme.
+>
+> **7B Recovery notices**
+>
+> (1) If, under regulations made under section 7A(1), an amount has been determined as recoverable from a person, he must be given a notice (a “recovery notice”) in accordance with the regulations which—
+>
+> (a) requires him to pay that amount, and
+>
+> (b) contains the information mentioned in subsection (2).
+>
+> (2) The information is—
+>
+> (a) the reasons for the determination that an amount is recoverable from the person;
+>
+> (b) the basis on which the amount has been determined;
+>
+> (c) the way in which and the date before which the amount is required to be paid;
+>
+> (d) the means by which the amount may be recovered if it is not paid in accordance with the notice;
+>
+> (e) the grounds on which and the procedure by means of which he may seek a review if he objects to—
+>
+> (i) the determination that an amount is recoverable from him;
+>
+> (ii) the amount determined as recoverable from him.
+>
+> (3) The Secretary of State may by order made by statutory instrument amend subsection (2) by—
+>
+> (a) adding information;
+>
+> (b) omitting information;
+>
+> (c) changing the description of information.
+>
+> **7C Review of recovery determinations**
+>
+> (1) Regulations under section 7A(1) shall include provision for the review, in such circumstances as may be prescribed by the regulations, of—
+>
+> (a) a determination that an amount is recoverable from a person;
+>
+> (b) the amount determined as recoverable from a person.
+>
+> (2) A person from whom an amount has been determined as recoverable under the regulations may seek such a review only on the grounds—
+>
+> (a) that he has not been convicted of an offence to which the injury is directly attributable;
+>
+> (b) that the compensation paid was not determined in accordance with the Scheme;
+>
+> (c) that the amount determined as recoverable from him was not determined in accordance with the regulations.
+>
+> (3) Any such review must be conducted by a person other than the person who made the determination under review.
+>
+> (4) The person conducting any such review may—
+>
+> (a) set aside the determination that the amount is recoverable;
+>
+> (b) reduce the amount determined as recoverable;
+>
+> (c) increase the amount determined as recoverable;
+>
+> (d) determine to take no action under paragraphs (a) to (c).
+>
+> (5) But the person conducting any such review may increase the amount determined as recoverable if (but only if) it appears to that person that the interests of justice require the amount to be increased.
+>
+> **7D Recovery proceedings**
+>
+> (1) An amount determined as recoverable from a person under regulations under section 7A(1) is recoverable from him as a debt due to the Crown if (but only if)—
+>
+> (a) he has been given a recovery notice in accordance with the regulations which complies with the requirements of section 7B, and
+>
+> (b) he has failed to pay the amount in accordance with the notice.
+>
+> (2) In any proceedings for the recovery of the amount from a person, it is a defence for the person to show—
+>
+> (a) that he has not been convicted of an offence to which the injury is directly attributable;
+>
+> (b) that the compensation paid was not determined in accordance with the Scheme; or
+>
+> (c) that the amount determined as recoverable from him was not determined in accordance with regulations under section 7A.
+>
+> (3) In any such proceedings, except for the purposes of subsection (2)(b), no question may be raised or finding made as to the amount that was, or ought to have been, the subject of an award.
+>
+> (4) For the purposes of section 9 of the Limitation Act 1980 (time limit for actions for sums recoverable by statute to run from date on which cause of action accrued) the cause of action to recover that amount shall be taken to have accrued—
+>
+> (a) on the date on which the compensation was paid; or
+>
+> (b) if later, on the date on which a person from whom an amount is sought to be recovered was convicted of an offence to which the injury is directly attributable.
+>
+> (5) If that person is convicted of more than one such offence and the convictions are made on different dates, the reference in subsection (4)(b) to the date on which he was convicted of such an offence shall be taken to be a reference to the earlier or earliest (as the case may be) of the dates on which he was convicted of such an offence.
+
+.
+
+(3) In section 9(7) (financial provisions: sums payable into Consolidated Fund), after “section 3(1)(c)” insert “ , or by virtue of regulations made under section 7A(1), ”.
+
+(4) In section 11, after subsection (8) insert—
+
+> (8A) No regulations under section 7A(1) or order under section 7B(3) shall be made unless a draft of the regulations or order has been laid before Parliament and approved by a resolution of each House.
+
+## Part 4 — Supplementary
+
+### 58 Amendments and repeals
+
+(1) Schedule 10 (minor and consequential amendments) has effect.
+
+(2) The provisions mentioned in Schedule 11 are repealed or revoked to the extent specified.
+
+### 59 Transitional and transitory provisions
+
+Schedule 12 (transitional and transitory provisions) has effect.
+
+### 60 Commencement
+
+The preceding provisions of this Act come into force in accordance with provision made by the Secretary of State by order.
+
+### 61 Orders
+
+(1) An order under this Act—
+
+(a) may make different provision for different purposes;
+
+(b) may include supplementary, incidental, saving or transitional provisions.
+
+(2) Any power [[^F206]of the Secretary of State] to make an order under this Act is exercisable by statutory instrument.
+
+(3) A statutory instrument containing an order under section [[^F207]8A(8)] or 33(7) is subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(4) No order may be made under section 14(5), 53(4) or 54(4) unless a draft of the order has been laid before Parliament and approved by a resolution of each House.
+
+[[^F208](5) Any power of the Department of Justice in Northern Ireland to make an order under this Act is exercisable by statutory rule for the purposes of the Statutory Rules (Northern Ireland) Order 1979 [^M1].
+
+(6) An order made by the Department of Justice is subject to negative resolution (within the meaning of section 41(6) of the Interpretation Act (Northern Ireland) 1954 [^M2]).]
+
+### 62 Extent
+
+(1) Subject to the following provisions of this section, Parts 1 to 3 extend to England and Wales only.
+
+(2) The following provisions extend also to Northern Ireland—
+
+- section 5;
+- section 9;
+- sections 17 to 21;
+- Schedule 1;
+- section 56;
+
+(3) The following provisions extend to Northern Ireland only—
+
+- section 7;
+- section 10(2);
+- section 13;
+- section 23;
+- section 46.
+
+[[^F209](4) Nothing in subsection (1) affects the extent of section 8 or of any provision of section 6 [[^F210] or 6A] as applied by section 8.]
+
+(5) An amendment, repeal or revocation in Schedule 3, 7, 8, 10 or 11 has the same extent as the provision to which it relates.
+
+### 63 Short title
+
+This Act may be cited as the Domestic Violence, Crime and Victims Act 2004.
+
+## SCHEDULE 1 — Modification of sections 17 to 20 for Northern Ireland
+
+*Section 21*
+
+**1** For section 18 substitute—
+
+> **Procedure for applications under section 17**
+>
+> **18** (1) An application under section 17 must be determined—
+>
+> (a) at a preparatory hearing (within the meaning of the 1988 Order), or
+>
+> (b) at a hearing specified in, or for which provision is made by, Crown Court rules.
+>
+> (2) The parties to a hearing mentioned in subsection (1) at which an application under section 17 is to be determined must be given an opportunity to make representations with respect to the application.
+>
+> (3) Article 6(1) of the 1988 Order (which sets out the purposes of preparatory hearings) is to have effect as if the purposes there mentioned included the purpose of determining an application under section 17.
+>
+> (4) Article 8(11) of the 1988 Order (appeal to Court of Appeal) is to have effect as if it also provided for an appeal to the Court of Appeal to lie from the determination by a judge of an application under section 17.
+>
+> (5) In this section “the 1988 Order” means the Criminal Justice (Serious Fraud) (Northern Ireland) Order 1988.
+>
+> **Appeals in respect of hearings under section 18(1)(b)**
+>
+> **18A** (1) An appeal shall lie to the Court of Appeal from the refusal by a judge at a hearing mentioned in section 18(1)(b) of an application under section 17 or from an order of a judge at such a hearing under section 17(2) which is made on the determination of such an application.
+>
+> (2) Such an appeal may be brought only with the leave of the judge or the Court of Appeal.
+>
+> (3) An order or a refusal of an application from which an appeal under this section lies is not to take effect—
+>
+> (a) before the expiration of the period for bringing an appeal under this section, or
+>
+> (b) if such an appeal is brought, before the appeal is finally disposed of or abandoned.
+>
+> (4) On the termination of the hearing of an appeal under this section, the Court of Appeal may—
+>
+> (a) where the appeal is from an order, confirm or revoke the order, or
+>
+> (b) where the appeal is from a refusal of an application, confirm the refusal or make the order which is the subject of the application.
+>
+> (5) In section 31(1) of the Criminal Appeal (Northern Ireland) Act 1980 (right of appeal to House of Lords) for “Act or” substitute “ Act, section 18A of the Domestic Violence, Crime and Victims Act 2004, ”.
+>
+> (6) In section 35 of that Act (bail) after “appeal under” insert “ section 18A of the Domestic Violence, Crime and Victims Act 2004, ”.
+>
+> (7) The [[^F211]Department of Justice] may make an order containing provision, in relation to proceedings before the Court of Appeal under this section, which corresponds to any provision, in relation to appeals or other proceedings before that court, which is contained in the Criminal Appeal (Northern Ireland) Act 1980 (subject to any specified modifications).
+>
+> (8) [^F212]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **Reporting restrictions**
+>
+> **18B** (1) Sections 41 and 42 of the Criminal Procedure and Investigations Act 1996 are to apply in relation to—
+>
+> (a) a hearing of the kind mentioned in section 18(1)(b), and
+>
+> (b) any appeal or application for leave to appeal relating to such a hearing,
+>
+> as they apply in relation to a ruling under section 40 of that Act, but subject to the following modifications.
+>
+> (2) Section 41(2) of that Act is to have effect as if for paragraphs (a) to (d) there were substituted—
+>
+> > (a) a hearing of the kind mentioned in section 18(1)(b) of the Domestic Violence, Crime and Victims Act 2004;
+> >
+> > (b) any appeal or application for leave to appeal relating to such a hearing.
+>
+> (3) Section 41(3) of that Act is to have effect as if—
+>
+> (a) for “(2)” there were substituted “ (2)(a) or an application to that judge for leave to appeal to the Court of Appeal ”, and
+>
+> (b) after “matter”, in the second place where it occurs, there were inserted “ or application ”.
+>
+> (4) Section 41 of that Act is to have effect as if after subsection (3) there were inserted—
+>
+> > (3A) The Court of Appeal may order that subsection (1) shall not apply, or shall not apply to a specified extent, to a report of—
+> >
+> > (a) an appeal to that Court, or
+> >
+> > (b) an application to that Court for leave to appeal.
+> >
+> > (3B) The House of Lords may order that subsection (1) shall not apply, or shall not apply to a specified extent, to a report of—
+> >
+> > (a) an appeal to that House, or
+> >
+> > (b) an application to that House for leave to appeal.
+>
+> (5) Section 41(4) of that Act is to have effect as if for “(3) the judge” there were substituted “ (3), (3A) or (3B), the judge, the Court of Appeal or the House of Lords ”.
+>
+> (6) Section 41(5) of that Act is to have effect as if for “(3) the judge” there were substituted “ (3), (3A) or (3B), the judge, the Court of Appeal or the House of Lords ”.
+
+**2** In section 19(3) after “enactment” insert “ (including any provision of Northern Ireland legislation) ”.
+
+**3** In section 19(4)(b) for the words from “section” to “etc)” substitute “ section 16(1) of the Criminal Appeal (Northern Ireland) Act 1980 (notice of appeal or application for leave) ”.
+
+**4** In section 19(5) for “section 18(2) of the Criminal Appeal Act 1968” substitute “ section 16(1) of the Criminal Appeal (Northern Ireland) Act 1980 ”.
+
+**5** For section 19(7) substitute—
+
+> (7) Nothing in this section or section 17, 18, 18A, 18B or 20 affects the requirement under Article 49A of the Mental Health (Northern Ireland) Order 1986 that any question, finding or verdict mentioned in that Article be determined, made or returned by a jury.
+
+**6** For section 20(2) substitute—
+
+> (2) Without limiting subsection (1), rules of court may in particular make provision—
+>
+> (a) for time limits within which applications under section 17 must be made or within which other things in connection with that section or sections 18 to 19 must be done;
+>
+> (b) in relation to hearings of the kind mentioned in section 18(1)(b).
+
+**7** In section 20(3)—
+
+(a) after “section” insert “ or section 18(1)(b) ”;
+
+(b) after “enactment” insert “ (including any provision of Northern Ireland legislation) ”.
+
+## SCHEDULE 2 — Supervision orders on finding of insanity or unfitness to plead etc
+
+*Section 24*
+
+The following is the Schedule inserted before Schedule 2 to the Criminal Procedure (Insanity) Act 1964 (c. 84)—
+
+> **SCHEDULE 1A — Supervision orders**
+>
+> *Section 5A*
+>
+> **Part 1 — Preliminary**
+>
+> **1** (1) In this Schedule “supervision order” means an order which requires the person in respect of whom it is made (“the supervised person”) to be under the supervision of a social worker or an officer of a local probation board (“the supervising officer”) for a period specified in the order of not more than two years.
+>
+> (2) A supervision order may, in accordance with paragraph 4 or 5 below, require the supervised person to submit, during the whole of that period or such part of it as may be specified in the order, to treatment by or under the direction of a registered medical practitioner.
+>
+> (3) The Secretary of State may by order direct that sub-paragraph (1) above shall be amended by substituting, for the period for the time being specified there, such period as may be specified in the order.
+>
+> (4) An order under sub-paragraph (3) above may make in paragraph 11(2) below any amendment which the Secretary of State thinks necessary in consequence of any substitution made by the order.
+>
+> (5) The power of the Secretary of State to make orders under sub-paragraph (3) above shall be exercisable by statutory instrument which shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+>
+> **Part 2 — Making and effect of orders**
+>
+> **Circumstances in which orders may be made**
+>
+> **2** (1) The court shall not make a supervision order unless it is satisfied that, having regard to all the circumstances of the case, the making of such an order is the most suitable means of dealing with the accused or appellant.
+>
+> (2) The court shall not make a supervision order unless it is also satisfied—
+>
+> (a) that the supervising officer intended to be specified in the order is willing to undertake the supervision; and
+>
+> (b) that arrangements have been made for the treatment intended to be specified in the order.
+>
+> **Making of orders and general requirements**
+>
+> **3** (1) A supervision order shall either—
+>
+> (a) specify the local social services authority area in which the supervised person resides or will reside, and require him to be under the supervision of a social worker of the local social services authority for that area; or
+>
+> (b) specify the local justice area in which that person resides or will reside, and require him to be under the supervision of an officer of a local probation board appointed for or assigned to that area.
+>
+> (2) Before making such an order, the court shall explain to the supervised person in ordinary language—
+>
+> (a) the effect of the order (including any requirements proposed to be included in the order in accordance with paragraph 4, 5 or 8 below); and
+>
+> (b) that a magistrates' court has power under paragraphs 9 to 11 below to review the order on the application either of the supervised person or of the supervising officer.
+>
+> (3) After making such an order, the court shall forthwith give copies of the order to an officer of a local probation board assigned to the court, and he shall give a copy—
+>
+> (a) to the supervised person; and
+>
+> (b) to the supervising officer.
+>
+> (4) After making such an order, the court shall also send to the designated officer for the local justice area in which the supervised person resides or will reside (“the local justice area concerned”)—
+>
+> (a) a copy of the order; and
+>
+> (b) such documents and information relating to the case as it considers likely to be of assistance to a court acting for that area in the exercise of its functions in relation to the order.
+>
+> (5) Where such an order is made, the supervised person shall keep in touch with the supervising officer in accordance with such instructions as he may from time to time be given by that officer and shall notify him of any change of address.
+>
+> **Requirements as to medical treatment**
+>
+> **4** (1) A supervision order may, if the court is satisfied as mentioned in sub-paragraph (2) below, include a requirement that the supervised person shall submit, during the whole of the period specified in the order or during such part of that period as may be so specified, to treatment by or under the direction of a registered medical practitioner with a view to the improvement of his mental condition.
+>
+> (2) The court may impose such a requirement only if satisfied on the written or oral evidence of two or more registered medical practitioners, at least one of whom is duly registered, that the mental condition of the supervised person—
+>
+> (a) is such as requires and may be susceptible to treatment; but
+>
+> (b) is not such as to warrant the making of a hospital order within the meaning of the Mental Health Act 1983.
+>
+> (3) The treatment required under this paragraph by any such order shall be such one of the following kinds of treatment as may be specified in the order, that is to say—
+>
+> (a) treatment as a non-resident patient at such institution or place as may be specified in the order; and
+>
+> (b) treatment by or under the direction of such registered medical practitioner as may be so specified;
+>
+> but the nature of the treatment shall not be specified in the order except as mentioned in paragraph (a) or (b) above.
+>
+> **Requirements as to medical treatment**
+>
+> **5** (1) This paragraph applies where the court is satisfied on the written or oral evidence of two or more registered medical practitioners that—
+>
+> (a) because of his medical condition, other than his mental condition, the supervised person is likely to pose a risk to himself or others; and
+>
+> (b) the condition may be susceptible to treatment.
+>
+> (2) The supervision order may (whether or not it includes a requirement under paragraph 4 above) include a requirement that the supervised person shall submit, during the whole of the period specified in the order or during such part of that period as may be so specified, to treatment by or under the direction of a registered medical practitioner with a view to the improvement of the condition.
+>
+> (3) The treatment required under this paragraph by any such order shall be such one of the following kinds of treatment as may be specified in the order, that is to say—
+>
+> (a) treatment as a non-resident patient at such institution or place as may be specified in the order; and
+>
+> (b) treatment by or under the direction of such registered medical practitioner as may be so specified;
+>
+> but the nature of the treatment shall not be specified in the order except as mentioned in paragraph (a) or (b) above.
+>
+> **Requirements as to medical treatment**
+>
+> **6** (1) Where the medical practitioner by whom or under whose direction the supervised person is being treated in pursuance of a requirement under paragraph 4 or 5 above is of the opinion that part of the treatment can be better or more conveniently given in or at an institution or place which—
+>
+> (a) is not specified in the order, and
+>
+> (b) is one in or at which the treatment of the supervised person will be given by or under the direction of a registered medical practitioner,
+>
+> he may, with the consent of the supervised person, make arrangements for him to be treated accordingly.
+>
+> (2) Such arrangements may provide for the supervised person to receive part of his treatment as a resident patient in an institution or place of any description.
+>
+> (3) Where any such arrangements are made for the treatment of a supervised person—
+>
+> (a) the medical practitioner by whom the arrangements are made shall give notice in writing to the supervising officer, specifying the institution or place in or at which the treatment is to be carried out; and
+>
+> (b) the treatment provided for by the arrangements shall be deemed to be treatment to which he is required to submit in pursuance of the supervision order.
+>
+> **Requirements as to medical treatment**
+>
+> **7** While the supervised person is under treatment as a resident patient in pursuance of arrangements under paragraph 6 above, the supervising officer shall carry out the supervision to such extent only as may be necessary for the purpose of the revocation or amendment of the order.
+>
+> **Requirements as to residence**
+>
+> **8** (1) Subject to sub-paragraph (2) below, a supervision order may include requirements as to the residence of the supervised person.
+>
+> (2) Before making such an order containing any such requirement, the court shall consider the home surroundings of the supervised person.
+>
+> **Part 3 — Revocation and amendment of orders**
+>
+> **Revocation of order**
+>
+> **9** (1) Where a supervision order is in force in respect of any person and, on the application of the supervised person or the supervising officer, it appears to a magistrates' court acting for the local justice area concerned that, having regard to circumstances which have arisen since the order was made, it would be in the interests of the health or welfare of the supervised person that the order should be revoked, the court may revoke the order.
+>
+> (2) The court by which a supervision order was made may of its own motion revoke the order if, having regard to circumstances which have arisen since the order was made, it considers that it would be inappropriate for the order to continue.
+>
+> **Amendment of order by reason of change of residence**
+>
+> **10** (1) This paragraph applies where, at any time while a supervision order is in force in respect of any person, a magistrates' court acting for the local justice area concerned is satisfied that the supervised person proposes to change, or has changed, his residence from the area specified in the order to another local social services authority area or local justice area.
+>
+> (2) Subject to sub-paragraph (3) below, the court may, and on the application of the supervising officer shall, amend the supervision order by substituting the other area for the area specified in the order.
+>
+> (3) The court shall not amend under this paragraph a supervision order which contains requirements which, in the opinion of the court, cannot be complied with unless the supervised person continues to reside in the area specified in the order unless, in accordance with paragraph 11 below, it either—
+>
+> (a) cancels those requirements; or
+>
+> (b) substitutes for those requirements other requirements which can be complied with if the supervised person ceases to reside in that area.
+>
+> **Amendment of requirements of order**
+>
+> **11** (1) Without prejudice to the provisions of paragraph 10 above, but subject to sub-paragraph (2) below, a magistrates' court for the local justice area concerned may, on the application of the supervised person or the supervising officer, by order amend a supervision order—
+>
+> (a) by cancelling any of the requirements of the order; or
+>
+> (b) by inserting in the order (either in addition to or in substitution for any such requirement) any requirement which the court could include if it were the court by which the order was made and were then making it.
+>
+> (2) The power of a magistrates' court under sub-paragraph (1) above shall not include power to amend an order by extending the period specified in it beyond the end of two years from the day of the original order.
+>
+> **Amendment of requirements in pursuance of medical report**
+>
+> **12** (1) Where the medical practitioner by whom or under whose direction the supervised person is being treated for his mental condition in pursuance of any requirement of a supervision order—
+>
+> (a) is of the opinion mentioned in sub-paragraph (2) below, or
+>
+> (b) is for any reason unwilling to continue to treat or direct the treatment of the supervised person,
+>
+> he shall make a report in writing to that effect to the supervising officer and that officer shall apply under paragraph 11 above to a magistrates' court for the local justice area concerned for the variation or cancellation of the requirement.
+>
+> (2) The opinion referred to in sub-paragraph (1) above is—
+>
+> (a) that the treatment of the supervised person should be continued beyond the period specified in the supervision order;
+>
+> (b) that the supervised person needs different treatment, being treatment of a kind to which he could be required to submit in pursuance of such an order;
+>
+> (c) that the supervised person is not susceptible to treatment; or
+>
+> (d) that the supervised person does not require further treatment.
+>
+> **Supplemental**
+>
+> **13** (1) On the making under paragraph 9 above of an order revoking a supervision order, the designated officer for the local justice area concerned, or (as the case may be) the Crown Court, shall forthwith give copies of the revoking order to the supervising officer.
+>
+> (2) A supervising officer to whom in accordance with sub-paragraph (1) above copies of a revoking order are given shall give a copy to the supervised person and to the person in charge of any institution in which the supervised person is residing.
+>
+> **Supplemental**
+>
+> **14** (1) On the making under paragraph 10 or 11 above of any order amending a supervision order, the designated officer for the local justice area concerned shall forthwith—
+>
+> (a) if the order amends the supervision order otherwise than by substituting a new area or a new place for the one specified in the supervision order, give copies of the amending order to the supervising officer;
+>
+> (b) if the order amends the supervision order in the manner excepted by paragraph (a) above, send to the designated officer for the new local justice area concerned—
+>
+> (i) copies of the amending order; and
+>
+> (ii) such documents and information relating to the case as he considers likely to be of assistance to a court acting for that area in exercising its functions in relation to the order;
+>
+> and in a case falling within paragraph (b) above, the designated officer for that area shall give copies of the amending order to the supervising officer.
+>
+> (2) Where the designated officer for the court making the order is also the designated officer for the new local justice area—
+>
+> (a) sub-paragraph (1)(b) above does not apply; but
+>
+> (b) the designated officers shall give copies of the amending order to the supervising officer.
+>
+> (3) Where in accordance with sub-paragraph (1) or (2) above copies of an order are given to the supervising officer, he shall give a copy to the supervised person and to the person in charge of any institution in which the supervised person is or was residing.
+
+## SCHEDULE 3 — Unfitness to stand trial and insanity: courts-martial etc
+
+*Section 26*
+
+### Army Act 1955 (3 & 4 Eliz. 2 c. 18) and Air Force Act 1955 (3 & 4 Eliz. 2 c. 19)
+
+**1** [^F213]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**2** [^F214]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Naval Discipline Act 1957 (c. 53)
+
+**3** [^F215]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**4** [^F216]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**5** [^F217]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Courts-Martial (Appeals) Act 1968 (c. 20)
+
+**6** The Courts-Martial (Appeals) Act 1968 is amended as follows.
+
+**7** For section 16 substitute—
+
+> **Substitution of finding of insanity or findings of unfitness to stand trial etc.**
+>
+> **16** (1) This section applies where, on an appeal against conviction, the Appeal Court, on the written or oral evidence of two or more registered medical practitioners at least one of whom is duly approved, are of opinion—
+>
+> (a) that the proper finding would have been one of not guilty by reason of insanity; or
+>
+> (b) that the case is not one where there should have been a finding of not guilty, but that there should have been findings that the accused was unfit to stand trial and that he did the act or made the omission charged against him.
+>
+> (2) The Appeal Court shall make in respect of the appellant—
+>
+> (a) a hospital order (with or without a restriction order);
+>
+> (b) a supervision order; or
+>
+> (c) an order for his absolute discharge.
+>
+> (3) Where—
+>
+> (a) the offence to which the appeal relates is an offence the sentence for which is fixed by law, and
+>
+> (b) the Appeal Court have power to make a hospital order,
+>
+> the Appeal Court shall make a hospital order with a restriction order (whether or not they would have power to make a restriction order apart from this subsection).
+>
+> (4) The provisions of, or made under, the sections specified below shall apply (with any necessary modifications) in relation to the Appeal Court as they apply in relation to a court-martial.
+>
+> The sections are—
+>
+> (c) where the relevant Service Act is the Army Act, sections 116B to 116D of that Act;
+>
+> (d) where the relevant Service Act is the Air Force Act, sections 116B to 116D of that Act;
+>
+> (e) where the relevant Service Act is the Naval Discipline Act, sections 63B to 63D of that Act.
+>
+> (5) Where the Appeal Court make an interim hospital order by virtue of this section—
+>
+> (a) the power of renewing or terminating it and of dealing with the appellant on its termination shall be exercisable by a judicial officer and not by the Appeal Court; and
+>
+> (b) section 38(7) of the Mental Health Act 1983 (absconding offenders) shall have effect as if the reference to the court that made the order were a reference to a judicial officer.
+>
+> (6) Where the Appeal Court make a supervision order by virtue of this section, any power of revoking or amending it shall be exercisable by a judicial officer and not by the Appeal Court.
+
+**8** In section 21 (appeal against finding of not guilty by reason of insanity), in subsection (1), after “except” insert “ section 8(2) and ”.
+
+**9** [^F218]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**10** [^F219]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**11** (1) Section 24 (appeal against finding of unfitness to stand trial) is amended as follows.
+
+(2) In subsection (1)—
+
+(a) for “his trial” substitute “ trial and to have done the act or made the omission charged against him ”;
+
+(b) for “the finding” substitute “ either or both of those findings ”.
+
+(3) In subsection (2), after “except” insert “ section 8(2) and ”.
+
+**12** For section 25 substitute—
+
+> **Disposal of appeal under s. 24**
+>
+> **25** (1) This section applies to appeals under section 24 of this Act.
+>
+> (2) Where the Appeal Court allow an appeal against a finding that the appellant is unfit to stand trial—
+>
+> (a) the appellant may be tried accordingly for the offence with which he was charged; and
+>
+> (b) the Court may make such orders as appear to them necessary or expedient pending any such trial for the custody, release or continued detention of the appellant.
+>
+> (3) Where, otherwise than in a case falling within subsection (2) above, the Appeal Court allow an appeal against a finding that the appellant did the act or made the omission charged against him, the Court shall, in addition to quashing the finding, direct a finding of not guilty to be recorded (but not a finding of not guilty by reason of insanity).
+
+**13** After that section insert—
+
+> **Appeal against order made in cases of insanity or unfitness to stand trial**
+>
+> **Right of appeal against hospital order etc.**
+>
+> **Right of appeal against hospital order etc.**
+>
+> **25A** (1) A person in whose case a court-martial—
+>
+> (a) makes a hospital order or interim hospital order by virtue of the relevant Service Act, or
+>
+> (b) makes a supervision order under the relevant Service Act,
+>
+> may appeal to the Appeal Court against the order.
+>
+> (2) An appeal under this section lies only with the leave of the Appeal Court.
+>
+> **Disposal of appeal under s. 25A**
+>
+> **Disposal of appeal under s. 25A**
+>
+> **25B** (1) If on an appeal under section 25A of this Act the Appeal Court consider that the appellant should be dealt with differently from the way in which the court below dealt with him—
+>
+> (a) they may quash any order which is the subject of the appeal; and
+>
+> (b) they may make such order, whether by substitution for the original order or by variation of or addition to it, as they think appropriate for the case and as the court below had power to make.
+>
+> (2) The fact that an appeal is pending against an interim hospital order under the Mental Health Act 1983 shall not affect the power of the court below to renew or terminate the order or deal with the appellant on its termination.
+>
+> (3) Where the Appeal Court make an interim hospital order by virtue of this section—
+>
+> (a) the power of renewing or terminating it and of dealing with the appellant on its termination shall be exercisable by a judicial officer and not by the Appeal Court; and
+>
+> (b) section 38(7) of the said Act of 1983 (absconding offenders) shall have effect as if the reference to the court that made the order were a reference to a judicial officer.
+>
+> (4) The fact that an appeal is pending against a supervision order under the relevant Service Act shall not affect any power conferred on any other court to revoke or amend the order.
+>
+> (5) Where the Appeal Court make a supervision order by virtue of this section, any power of revoking or amending it shall be exercisable by a judicial officer and not by the Appeal Court.
+
+**14** (1) Section 57 (interpretation) is amended as follows.
+
+(2) In subsection (1) insert at the relevant places—
+
+> “duly approved” means approved for the purposes of section 12 of the Mental Health Act 1983 by the Secretary of State as having special experience in the diagnosis and treatment of mental disorder (within the meaning of that Act);
+
+;
+
+> “hospital order” has the meaning given in section 37 of the Mental Health Act 1983;
+
+;
+
+> “interim hospital order” has the meaning given in section 38 of that Act;
+
+;
+
+> “judicial officer” has the same meaning as in the relevant Service Act;
+
+;
+
+> “restriction order” has the meaning given to it by section 41 of the Mental Health Act 1983;
+
+;
+
+> “supervision order” means an order which requires the person in respect of whom it is made to be under the supervision of another person for a period specified in the order of not more than two years.
+
+(3) [^F220]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**15** [^F221]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 4 — Powers of authorised officers executing warrants
+
+*Section 27*
+
+The following is the Schedule inserted after Schedule 4 to the Magistrates' Courts Act 1980 (c. 43)—
+
+> **SCHEDULE 4A — Powers of authorised officers executing warrants**
+>
+> *Section 125BA*
+>
+> **Meaning of “authorised officer” etc**
+>
+> **1** In this Schedule—
+>
+> - “authorised officer”, in relation to a warrant, means a person who is entitled to execute the warrant by virtue of—
+>
+>   - (a) section 125A of this Act (civilian enforcement officers); or
+>   - (b) section 125B of this Act (approved enforcement agencies);
+>
+> - “premises” includes any place and, in particular, includes—
+>
+>   - (a) any vehicle, vessel, aircraft or hovercraft;
+>   - (b) any offshore installation within the meaning of the Mineral Workings (Offshore Installations) Act 1971; and
+>   - (c) any tent or movable structure.
+>
+> **Entry to execute warrant of arrest etc**
+>
+> **2** (1) An authorised officer may enter and search any premises for the purpose of executing a warrant of arrest, commitment or detention issued in proceedings for or in connection with any criminal offence.
+>
+> (2) The power may be exercised—
+>
+> (a) only to the extent that it is reasonably required for that purpose; and
+>
+> (b) only if the officer has reasonable grounds for believing that the person whom he is seeking is on the premises.
+>
+> (3) In relation to premises consisting of two or more separate dwellings, the power is limited to entering and searching—
+>
+> (a) any parts of the premises which the occupiers of any dwelling comprised in the premises use in common with the occupiers of any other such dwelling; and
+>
+> (b) any such dwelling in which the officer has reasonable grounds for believing that the person whom he is seeking may be.
+>
+> **Entry to levy distress**
+>
+> **3** (1) An authorised officer may enter and search any premises for the purpose of executing a warrant of distress issued under section 76 of this Act for default in paying a sum adjudged to be paid by a conviction.
+>
+> (2) The power may be exercised only to the extent that it is reasonably required for that purpose.
+>
+> **Searching arrested persons**
+>
+> **4** (1) This paragraph applies where a person is arrested in pursuance of a warrant of arrest, commitment or detention issued in proceedings for or in connection with any criminal offence.
+>
+> (2) An authorised officer may search the arrested person, if he has reasonable grounds for believing that the arrested person may present a danger to himself or others.
+>
+> (3) An authorised officer may also search the arrested person for anything which he might use to assist him to escape from lawful custody.
+>
+> (4) The power conferred by sub-paragraph (3) above may be exercised—
+>
+> (a) only if the officer has reasonable grounds for believing that the arrested person may have concealed on him anything of a kind mentioned in that sub-paragraph; and
+>
+> (b) only to the extent that it is reasonably required for the purpose of discovering any such thing.
+>
+> (5) The powers conferred by this paragraph to search a person are not to be read as authorising the officer to require a person to remove any of his clothing in public other than an outer coat, a jacket or gloves; but they do authorise the search of a person’s mouth.
+>
+> (6) An officer searching a person under sub-paragraph (2) above may seize and retain anything he finds, if the officer has reasonable grounds for believing that the person searched might use it to cause physical injury to himself or to any other person.
+>
+> (7) An officer searching a person under sub-paragraph (3) above may seize and retain anything he finds, if he has reasonable grounds for believing that the person might use it to assist him to escape from lawful custody.
+>
+> **Use of force**
+>
+> **5** An authorised officer may use reasonable force, if necessary, in the exercise of a power conferred on him by this Schedule.
+
+## SCHEDULE 5 — Procedure on breach of community penalty etc
+
+*Section 29*
+
+### Interpretation
+
+**1** In this Schedule—
+
+- “the Sentencing Act” means the Powers of Criminal Courts (Sentencing) Act 2000 (c. 6);
+- “the 2003 Act” means the Criminal Justice Act 2003 (c. 44).
+
+### Detention and training orders
+
+**[^F222]2** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Suspended sentence supervision orders
+
+**3** (1) Section 123 of the Sentencing Act (breach of requirement of suspended sentence supervision order) is amended as follows.
+
+(2) In subsection (1) (issue of summons or warrant by justice of the peace) omit the words “acting for the [[^F223]local justice area] for the time being specified in the order”.
+
+(3) For subsection (2) substitute—
+
+> (2) Any summons or warrant issued under this section shall direct the offender to appear or be brought—
+>
+> (a) before a magistrates' court for the [[^F224]local justice area] in which the offender resides; or
+>
+> (b) if it is not known where the offender resides, before a magistrates' court [[^F225]acting in the local justice area] for the time being specified in the suspended sentence supervision order.
+
+(4) After subsection (4) insert—
+
+> (5) Where a magistrates' court dealing with an offender under this section would not otherwise have the power to amend the suspended sentence supervision order under section 124(3) below (amendment by reason of change of residence), that provision has effect as if the reference to a magistrates' court [[^F226]acting in the local justice area] for the time being specified in the suspended sentence supervision order were a reference to the court dealing with the offender.
+
+### Community orders under the Sentencing Act
+
+**4** (1) Schedule 3 to the Sentencing Act (breach, revocation and amendment of certain community orders), as it has effect on the day on which this Act is passed, is amended as follows.
+
+(2) In paragraph 3(1) (issue of summons or warrant by justice of the peace) omit the words “ [[^F227]acting in the local justice area] concerned”.
+
+(3) In paragraph 3(2) (court before which offender to appear or be brought), for paragraph (c) substitute—
+
+> (c) in the case of a relevant order which is not an order to which paragraph (a) or (b) applies, before a magistrates' court [[^F227]acting in the local justice area] in which the offender resides or, if it is not known where he resides, before a magistrates' court [[^F227]acting in the local justice area] concerned.
+
+(4) In paragraph 4 (powers of magistrates' court to deal with breach), after sub-paragraph (3) insert—
+
+> (3A) Where a magistrates' court dealing with an offender under sub-paragraph (1)(a), (b) or (c) above would not otherwise have the power to amend the relevant order under paragraph 18 below (amendment by reason of change of residence), that paragraph has effect as if the reference to a magistrates' court [[^F227]acting in the local justice area] concerned were a reference to the court dealing with the offender.
+
+### Curfew orders and exclusion orders
+
+**5** (1) Schedule 3 to the Sentencing Act (breach, revocation and amendment of curfew orders and exclusion orders), as substituted by paragraph 125 of Schedule 32 to the 2003 Act, is amended as follows.
+
+(2) In paragraph 3(1) (issue of summons or warrant by justice of the peace) omit the words “ [[^F228]acting in the local justice area] concerned”.
+
+(3) In paragraph 3(2) (court before which offender to appear or be brought), for paragraph (b) substitute—
+
+> (b) in the case of a relevant order which is not an order to which paragraph (a) above applies, before a magistrates' court [[^F228]acting in the local justice area] in which the offender resides or, if it is not known where he resides, before a magistrates' court [[^F228]acting in the local justice area] concerned.
+
+(4) In paragraph 4 (powers of magistrates' court to deal with breach), after sub-paragraph (4) insert—
+
+> (4A) Where a magistrates' court dealing with an offender under sub-paragraph (2)(a) or (b) above would not otherwise have the power to amend the relevant order under paragraph 15 below (amendment by reason of change of residence), that paragraph has effect as if the reference to a magistrates' court [[^F228]acting in the local justice area] concerned were a reference to the court dealing with the offender.
+
+### Attendance centre orders
+
+**6** (1) Schedule 5 to the Sentencing Act (breach, revocation and amendment of attendance centre orders) is amended as follows.
+
+(2) In paragraph 1(1) (issue of summons or warrant by justice of the peace), omit the words—
+
+(a) “acting for a relevant [[^F229]local justice area]”;
+
+(b) “before a magistrates' court [[^F230]acting in the area]”;
+
+(c) “requiring him to be brought before such a court”.
+
+(3) For paragraph 1(2) substitute—
+
+> (2) Any summons or warrant issued under this paragraph shall direct the offender to appear or be brought—
+>
+> (a) before a magistrates' court [[^F231]acting in the local justice area] in which the offender resides; or
+>
+> (b) if it is not known where the offender resides, before a magistrates' court [[^F231]acting in the local justice area] in which is situated the attendance centre which the offender is required to attend by the order or by virtue of an order under paragraph 5(1)(b) below.
+
+(4) In paragraph 2 (powers of magistrates' court to deal with breach), after sub-paragraph (5) insert—
+
+> (5A) Where a magistrates' court dealing with an offender under sub-paragraph (1)(a) above would not otherwise have the power to amend the order under paragraph 5(1)(b) below (substitution of different attendance centre), that paragraph has effect as if references to an appropriate magistrates' court were references to the court dealing with the offender.
+
+### Community orders under the 2003 Act
+
+**[^F232]7** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Suspended sentence orders under the 2003 Act
+
+**[^F232]8** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F232]9** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Local justice areas
+
+**10** The power conferred by section 109(5)(b) of the Courts Act 2003 (c. 39) to amend or repeal any enactment, other than one contained in an Act passed in a later session, includes power to amend any such enactment as amended by this Schedule, but only for the purpose of making consequential provision in connection with the establishment of local justice areas under section 8 of that Act.
+
+## [^F233]SCHEDULE 6 — Intermittent custody
+
+*Section 31*
+
+**[^F233]1** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F233]2** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F233]3** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F233]4** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F233]5** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F233]6** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F233]7** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 7 — Investigations by Parliamentary Commissioner
+
+*Section 47*
+
+**1** The Parliamentary Commissioner Act 1967 (c. 13) is amended as follows.
+
+**2** (1) Section 5 (matters subject to investigation) is amended as follows.
+
+(2) After subsection (1) insert—
+
+> (1A) Subsection (1C) of this section applies if—
+>
+> (a) a written complaint is duly made to a member of the House of Commons by a member of the public who claims that a person has failed to perform a relevant duty owed by him to the member of the public, and
+>
+> (b) the complaint is referred to the Commissioner, with the consent of the person who made it, by a member of the House of Commons with a request to conduct an investigation into it.
+>
+> (1B) For the purposes of subsection (1A) of this section a relevant duty is a duty imposed by any of these—
+>
+> (a) a code of practice issued under section 32 of the Domestic Violence, Crime and Victims Act 2004 (code of practice for victims), or
+>
+> (b) sections 35 to 44 of that Act (duties of local probation boards in connection with victims of sexual or violent offences).
+>
+> (1C) If this subsection applies, the Commissioner may investigate the complaint.
+
+(3) In subsection (3) for “investigation under this Act” substitute “ investigation under subsection (1) of this section ”.
+
+(4) After subsection (4) insert—
+
+> (4A) Without prejudice to subsection (2) of this section, the Commissioner shall not conduct an investigation pursuant to a complaint under subsection (1A) of this section in respect of—
+>
+> (a) action taken by or with the authority of the Secretary of State for the purposes of protecting the security of the State, including action so taken with respect to passports, or
+>
+> (b) any action or matter described in any of paragraphs 1 to 4 and 6A to 11 of Schedule 3 to this Act.
+>
+> (4B) Her Majesty may by Order in Council amend subsection (4A) of this section so as to exclude from paragraph (a) or (b) of that subsection such actions or matters as may be described in the Order.
+>
+> (4C) Any statutory instrument made by virtue of subsection (4B) of this section shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+**3** (1) Section 7 (procedure in respect of investigations) is amended as follows.
+
+(2) In subsection (1) after “complaint under” insert “ section 5(1) of ”.
+
+(3) After subsection (1) insert—
+
+> (1A) Where the Commissioner proposes to conduct an investigation pursuant to a complaint under section 5(1A) of this Act, he shall give the person to whom the complaint relates an opportunity to comment on any allegations contained in the complaint.
+
+(4) In subsection (2) for “such investigation” substitute “ investigation under this Act ”.
+
+(5) In subsection (4)—
+
+(a) after “authority concerned” insert “ or the person to whom the complaint relates ”;
+
+(b) for “that department or authority” substitute “ that department, authority or person ”.
+
+**4** (1) Section 8 (evidence) is amended as follows.
+
+(2) In subsection (1) after “investigation under” insert “ section 5(1) of ”.
+
+(3) After subsection (1) insert—
+
+> (1A) For the purposes of an investigation pursuant to a complaint under section 5(1A) of this Act the Commissioner may require any person who in his opinion is able to furnish information or produce documents relevant to the investigation to furnish any such information or produce any such document.
+
+(4) In subsection (2) for “such investigation” substitute “ investigation under this Act ”.
+
+**5** (1) Section 10 (reports by Commissioner) is amended as follows.
+
+(2) In subsection (2), after “investigation under” insert “ section 5(1) of ”.
+
+(3) After subsection (2) insert—
+
+> (2A) In any case where the Commissioner conducts an investigation pursuant to a complaint under section 5(1A) of this Act, he shall also send a report of the results of the investigation to the person to whom the complaint relates.
+
+(4) In subsection (3) after “investigation under” insert “ section 5(1) of ”.
+
+(5) After subsection (3) insert—
+
+> (3A) If, after conducting an investigation pursuant to a complaint under section 5(1A) of this Act, it appears to the Commissioner that—
+>
+> (a) the person to whom the complaint relates has failed to perform a relevant duty owed by him to the person aggrieved, and
+>
+> (b) the failure has not been, or will not be, remedied,
+>
+> the Commissioner may, if he thinks fit, lay before each House of Parliament a special report upon the case.
+>
+> (3B) For the purposes of subsection (3A) of this section “relevant duty” has the meaning given by section 5(1B) of this Act.
+
+(6) In subsection (5)(d) after “subsection (2)” insert “ or (2A) ”.
+
+**6** In section 12(1) (interpretation) for the definition of “person aggrieved” substitute—
+
+> “person aggrieved”—
+>
+> (a) in relation to a complaint under section 5(1) of this Act, means the person who claims or is alleged to have sustained such injustice as is mentioned in section 5(1)(a) of this Act;
+>
+> (b) in relation to a complaint under section 5(1A) of this Act, means the person to whom the duty referred to in section 5(1A)(a) of this Act is or is alleged to be owed;
+
+.
+
+## [^F234][^F234]SCHEDULE 8
+
+[^F234]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 9 — Authorities within Commissioner’s remit
+
+*Section 53*
+
+### Government departments
+
+**[[^F235]1** A government department in the charge of a Minister of the Crown.]
+
+**9** [^F236]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Customs and Excise
+
+**10** The Commissioners of Customs and Excise.
+
+### Police forces etc
+
+**11** A police force for a police area in England or Wales.
+
+**[[^F237]11A** A local policing body.]
+
+**12** The Serious Fraud Office.
+
+**[[^F238]13** The [[^F239]National Crime Agency].]
+
+**[^F240]14** The National Crime Squad.
+
+**15** The force of constables appointed under section 53 of the British Transport Commission Act 1949 (c. xxix).
+
+**16** The Ministry of Defence Police.
+
+**[[^F241]16A** His Majesty’s Inspectors of Constabulary.]
+
+### Criminal injuries compensation
+
+**17** The [[^F242]Persons exercising functions relating to the carrying on of the business of the First-tier Tribunal in respect of appeals under the Criminal Injuries Compensation Scheme by virtue of section 5(1) of the Criminal Injuries Compensation Act 1995].
+
+**18** The Criminal Injuries Compensation Authority.
+
+### Health and safety
+
+**19** [^F243]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**20** The Health and Safety Executive.
+
+**[[^F244]20A** The Office for Nuclear Regulation.]
+
+### Legal services
+
+**[^F245]21** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Court administration
+
+**22** Persons exercising functions relating to the carrying on of the business of a court.
+
+### Criminal justice system
+
+**23** The Criminal Cases Review Commission.
+
+**24** The Crown Prosecution Service.
+
+**25** A local probation board established under section 4 of the Criminal Justice and Court Services Act 2000 (c. 43).
+
+**[[^F246]25A** A provider of probation services.]
+
+**26** The Parole Board.
+
+**27** The Prison Service.
+
+**28** The Youth Justice Board for England and Wales.
+
+**29** A youth offending team established under section 39 of the Crime and Disorder Act 1998 (c. 37).
+
+**[[^F247]29A** His Majesty's Chief Inspector of the Crown Prosecution Service.
+
+**29B** His Majesty’s Chief Inspector of Prisons.
+
+**29C** His Majesty’s Inspectorate of Probation for England and Wales.]
+
+### Maritime and coastguards
+
+**30** The Maritime and Coastguard Agency.
+
+## SCHEDULE 10 — Minor and consequential amendments
+
+*Section 58(1)*
+
+### Colonial Prisoners Removal Act 1884 (c. 31)
+
+**1** In section 10 of the Colonial Prisoners Removal Act 1884 (application of Act to removal of criminal lunatics), in subsection (3), in paragraph (a) for the words from “give” to the end substitute “ by warrant direct that he is to be detained in such hospital, within the meaning given by section 145(1) of the Mental Health Act 1983, as may be specified in the direction; and any such direction shall have the same effect as a hospital order under section 37 of that Act together with a restriction order under section 41 of that Act, made without limitation of time; ”.
+
+### Children and Young Persons Act 1933 (c. 12)
+
+**2** In Schedule 1 to the Children and Young Persons Act 1933 (offences against children and young persons with respect to which special provisions of the Act apply), after “Infanticide” insert— “ An offence under section 5 of the Domestic Violence, Crime and Victims Act 2004, in respect of a child or young person. ”
+
+### Criminal Procedure (Insanity) Act 1964 (c. 84)
+
+**3** In section 8(2) of the Criminal Procedure (Insanity) Act 1964 (interpretation), after the definition of “duly approved” insert—
+
+> “local probation board” means a local probation board established under section 4 of the Criminal Justice and Court Services Act 2000;
+
+.
+
+### Criminal Appeal Act 1968 (c. 19)
+
+**4** In section 15 of the Criminal Appeal Act 1968 (right of appeal against finding of disability), in subsection (1), for the words “the jury has returned” substitute “ there have been ”.
+
+**5** In section 37 of that Act (detention of defendant on appeal by the Crown to House of Lords), in subsection (4), for paragraph (b) substitute—
+
+> (b) a hospital order made by virtue of section 5(2)(a) of the Criminal Procedure (Insanity) Act 1964 (powers to deal with persons not guilty by reason of insanity or unfit to plead etc),
+
+.
+
+**6** In section 51 of that Act (interpretation), in subsection (2A), for “6, 14 or 14A” substitute “ 6 or 14 ”.
+
+### Children and Young Persons Act (Northern Ireland) 1968 (c. 34 (N.I.))
+
+**7** In Schedule 1 to the Children and Young Persons Act (Northern Ireland) 1968 (offences against children and young persons with respect to which special provisions of the Act apply), after “Infanticide” insert— “ An offence under section 5 of the Domestic Violence, Crime and Victims Act 2004, in respect of a child or young person. ”
+
+### Juries Act 1974 (c. 23)
+
+**8** (1) Section 11 of the Juries Act 1974 (ballot and swearing of jurors) is amended as follows.
+
+(2) In subsection (5) omit paragraph (b).
+
+(3) In subsection (6) omit “, (b)”.
+
+### Rehabilitation of Offenders Act 1974 (c. 53)
+
+**9** In section 1(3) of the Rehabilitation of Offenders Act 1974 (meaning of “sentence” for the purposes of that Act), after “other than” insert—
+
+> (za) a surcharge imposed under section 161A of the Criminal Justice Act 2003;
+
+.
+
+### Magistrates' Courts Act 1980 (c. 43)
+
+**10** In section 108 of the Magistrates' Courts Act 1980 (right of appeal to Crown Court), after subsection (3) insert—
+
+> (4) Subsection (3)(d) above does not prevent an appeal against a surcharge imposed under section 161A of the Criminal Justice Act 2003.
+
+**11** In section 139 of that Act (disposal of sums adjudged to be paid by conviction)—
+
+(a) after paragraph (a) insert—
+
+> (aa) in the second place in payment to the fund mentioned in paragraph (c) below of surcharges imposed under section 161A of the Criminal Justice Act 2003;
+
+;
+
+(b) in paragraph (b), for “second” substitute “ third ”.
+
+### Criminal Appeal (Northern Ireland) Act 1980 (c. 47)
+
+**12** In section 13A of the Criminal Appeal (Northern Ireland) Act 1980 (appeal against finding of unfitness to be tried), in subsection (1), for “the jury has returned” substitute “ there has been ”.
+
+**13** In section 19(1A)(a) of that Act (legal aid), after “appeal under” insert “ section 18A of the Domestic Violence, Crime and Victims Act 2004, ”.
+
+### Supreme Court Act 1981 (c. 54)
+
+**14** In section 55 of the Supreme Court Act 1981 (constitution of criminal division of Court of Appeal), in subsection (4)(a)(iii) omit the words “of a jury”.
+
+**15** In section 81 of that Act (power of Crown Court to grant bail), in subsection (1A), for “or 15” substitute “ , 15 or 16A ”.
+
+### Criminal Justice Act 1982 (c. 48)
+
+**16** In Schedule 1 to the Criminal Justice Act 1982 (offences excluded from early release provisions), in Part 2, after the entry relating to the Sexual Offences Act 2003 (c. 42) insert—
+
+> **Domestic Violence, Crime and Victims Act 2004**
+>
+> Section 5 (causing or allowing the death of a child or vulnerable adult).
+
+### Representation of the People Act 1983 (c. 2)
+
+**17** In section 3A of the Representation of the People Act 1983 (disenfranchisement of offenders detained in mental hospitals), for subsection (5) substitute—
+
+> (5) As respects any part of the United Kingdom, this section applies to any person in respect of whom a hospital order has been made by virtue of—
+>
+> (a) section 116A of the Army Act 1955 or the Air Force Act 1955 or section 63A of the Naval Discipline Act 1957, or
+>
+> (b) section 16 or 23 of the Courts-Martial (Appeals) Act 1968.
+
+### Mental Health Act 1983 (c. 20)
+
+**18** In section 47 of the Mental Health Act 1983 (removal to hospital of persons serving sentences of imprisonment, etc), in subsection (5)(a), for the words “under any enactment to which section 46 applies” substitute “ made in consequence of a finding of insanity or unfitness to stand trial ”.
+
+**19** In section 69 of that Act (application to tribunals concerning patients subject to hospital orders etc), in subsection (2)(a)—
+
+(a) for “below,” substitute “ below or ”;
+
+(b) omit “or section 5(1) of the Criminal Procedure (Insanity) Act 1964”.
+
+**20** In section 71 of that Act (references by Home Secretary concerning restricted patients) omit subsections (5) and (6).
+
+**21** In section 79 of that Act (interpretation of Part 5), in subsection (1)—
+
+(a) for paragraph (a) substitute—
+
+> (a) is treated by virtue of any enactment as subject to a hospital order and a restriction order; or
+
+;
+
+(b) omit paragraph (b).
+
+**22** In section 84 of that Act (removal to England and Wales of offenders found insane in Channel Islands and Isle of Man), in subsection (2), for the words from “had been” to the end substitute “ were subject to a hospital order together with a restriction order, made without limitation of time ”.
+
+**23** (1) Schedule 5 to that Act (transitional and saving provisions) is amended as follows.
+
+(2) For paragraph 21 substitute—
+
+> **21** Any direction to which section 71(4) of the Mental Health Act 1959 applied immediately before the commencement of this Act shall have the same effect as a hospital order together with a restriction order, made without limitation of time.
+
+(3) In paragraph 37(2), for “direction under section 46 of this Act” substitute “ hospital order together with a restriction order, made without limitation of time ”.
+
+### Police and Criminal Evidence Act 1984 (c. 60)
+
+**24** [^F248]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Prosecution of Offences Act 1985 (c. 23)
+
+**25** In section 16 of the Prosecution of Offences Act 1985 (defence costs), in subsection (4) (power of Court of Appeal to make defendant’s costs order), after paragraph (c) insert
+
+> or
+>
+> (d) allows, to any extent, an appeal under section 16A of that Act (appeal against order made in cases of insanity or unfitness to plead);
+
+.
+
+### Coroners Act 1988 (c. 13)
+
+**26** In section 16 of the Coroners Act 1988 (adjournment of inquest in event of criminal proceedings), in subsection (1)(a), after sub-paragraph (iii) insert—
+
+> (iv) an offence under section 5 of the Domestic Violence, Crime and Victims Act 2004 (causing or allowing the death of a child or vulnerable adult); or
+
+.
+
+**27** In section 17 of that Act (coroner to be informed of result of criminal proceedings), in subsections (1) and (2), at the end of paragraph (c) insert
+
+> ; or
+>
+> (d) an offence under section 5 of the Domestic Violence, Crime and Victims Act 2004 (causing or allowing the death of a child or vulnerable adult),
+
+.
+
+### Criminal Justice Act 1988 (c. 33) (prospective)
+
+**28** In section 41 of the Criminal Justice Act 1988 (power of Crown Court to deal with summary offence where person committed for either way offence), after subsection (4) insert—
+
+> (4A) The committal of a person under this section in respect of an offence to which section 40 above applies shall not prevent him being found guilty of that offence under section 6(3) of the Criminal Law Act 1967 (alternative verdicts on trial on indictment); but where he is convicted under that provision of such an offence, the functions of the Crown Court under this section in relation to the offence shall cease.
+
+### Police and Criminal Evidence (Northern Ireland) Order 1989 (S.I. 1989/1341 (N.I. 12))
+
+**29** [^F249]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Criminal Justice Act 1991 (c. 53)
+
+**30** In section 24 of the Criminal Justice Act 1991 (recovery of fines etc by deductions from income support), after subsection (3) insert—
+
+> (3A) This section applies in relation to a surcharge imposed under section 161A of the Criminal Justice Act 2003 as if any reference in subsection (1) or (3) above to a fine included a reference to a surcharge.
+
+### Criminal Appeal Act 1995 (c. 35)
+
+**31** In section 9 of the Criminal Appeal Act 1995 (references by Criminal Cases Review Commission to Court of Appeal), in subsection (6), for the words “a jury in England and Wales has returned” substitute “ in England and Wales there have been ”.
+
+**32** In section 10 of that Act (which makes equivalent provision for Northern Ireland), in subsection (7), for the words “a jury in Northern Ireland has returned” substitute “ in Northern Ireland there has been ”.
+
+### Law Reform (Year and a Day Rule) Act 1996 (c. 19)
+
+**33** In section 2 of the Law Reform (Year and a Day Rule) Act 1996 (restriction on institution of proceedings for fatal offence), in subsection (3), at the end of paragraph (b) insert
+
+> , or
+>
+> (c) an offence under section 5 of the Domestic Violence, Crime and Victims Act 2004 (causing or allowing the death of a child or vulnerable adult).
+
+### Family Law Act 1996 (c. 27)
+
+**34** (1) Section 36 of the Family Law Act 1996 (one cohabitant or former cohabitant with no existing right to occupy) is amended as follows.
+
+(2) In subsection (1)(c), for the words from “live together as” to the end substitute “ cohabit or a home in which they at any time cohabited or intended to cohabit ”.
+
+(3) In subsection (6)(f), for “lived together as husband and wife” substitute “ cohabited ”.
+
+**35** In section 38 of that Act (neither cohabitant or former cohabitant entitled to occupy), in subsection (1)(a), for “live or lived together as husband and wife” substitute “ cohabit or cohabited ”.
+
+**36** (1) Section 42 of that Act (non-molestation orders) is amended as follows.
+
+(2) After subsection (4) insert—
+
+> (4A) A court considering whether to make an occupation order shall also consider whether to exercise the power conferred by subsection (2)(b).
+>
+> (4B) In this Part “the applicant”, in relation to a non-molestation order, includes (where the context permits) the person for whose benefit such an order would be or is made in exercise of the power conferred by subsection (2)(b).
+
+(3) In subsection (5)(a) omit the words from “or” to “made”.
+
+**37** (1) Section 46 of that Act (undertakings) is amended as follows.
+
+(2) In subsection (3), after “under subsection (1)” insert “ instead of making an occupation order ”.
+
+(3) After that subsection insert—
+
+> (3A) The court shall not accept an undertaking under subsection (1) instead of making a non-molestation order in any case where it appears to the court that—
+>
+> (a) the respondent has used or threatened violence against the applicant or a relevant child; and
+>
+> (b) for the protection of the applicant or child it is necessary to make a non-molestation order so that any breach may be punishable under section 42A.
+
+(4) In subsection (4), for “it were an order of the court” substitute “ the court had made an occupation order or a non-molestation order in terms corresponding to those of the undertaking ”.
+
+**38** (1) Section 47 of that Act (arrest for breach of occupation order or non-molestation order) is amended as follows.
+
+(2) Omit subsection (1).
+
+(3) In subsections (2) and (4), for “a relevant order” substitute “ an occupation order ”.
+
+(4) In subsections (3) and (5), for “the relevant order” substitute “ the occupation order ”.
+
+(5) In subsection (8), for the words up to the end of paragraph (b) substitute—
+
+> If the court—
+>
+> (a) has made a non-molestation order, or
+>
+> (b) has made an occupation order but has not attached a power of arrest under subsection (2) or (3) to any provision of the order, or has attached that power only to certain provisions of the order,
+
+.
+
+**39** In section 49 of that Act (variation and discharge of orders), in subsection (4) omit “or non-molestation order”.
+
+**40** In section 62 of that Act (definitions), in subsection (1)(b), for “ “former cohabitants” is to be read accordingly, but” substitute “ “cohabit” and “former cohabitants” are to be read accordingly, but the latter expression ”.
+
+**41** (1) In section 63 of that Act (interpretation of Part 4), subsection (1) is amended as follows.
+
+(2) At the beginning of the definition of “cohabitant” and “former cohabitant” insert
+
+> > cohabit
+>
+> ,
+
+.
+
+(3) In the definition of “relative”—
+
+(a) for “or nephew” in paragraph (b) substitute “ , nephew or first cousin ”;
+
+(b) for “is living or has lived with another person as husband and wife” substitute “ is cohabiting or has cohabited with another person ”.
+
+**42** (1) Schedule 7 to that Act (transfer of certain tenancies on divorce etc or on separation of cohabitants) is amended as follows.
+
+(2) In paragraph 3(2), for “to live together as husband and wife” substitute “ to cohabit ”.
+
+(3) In paragraph 4(b), for “lived together as husband and wife” substitute “ cohabited ”.
+
+### Protection from Harassment Act 1997 (c. 40)
+
+**[^F250]43** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**44** In section 7 of that Act (interpretation), in subsection (1), for “sections 1 to 5” substitute “ sections 1 to 5A ”.
+
+### Crime (Sentences) Act 1997 (c. 43)
+
+**45** (1) Section 47 of the Crime (Sentences) Act 1997 (power to specify hospital units) is amended as follows.
+
+(2) Omit subsections (1)(d) and (2)(c).
+
+(3) For subsection (4) substitute—
+
+> (4) A reference in this section to section 37 or 41 of the 1983 Act includes a reference to that section as it applies by virtue of—
+>
+> (a) section 5 of the Criminal Procedure (Insanity) Act 1964,
+>
+> (b) section 6 or 14 of the Criminal Appeal Act 1968,
+>
+> (c) section 116A of the Army Act 1955 or the Air Force Act 1955 or section 63A of the Naval Discipline Act 1957, or
+>
+> (d) section 16 or 23 of the Courts-Martial (Appeals) Act 1968.
+
+**[^F251]46** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Protection from Harassment (Northern Ireland) Order 1997 (S.I. 1997/1180 (N.I. 9))
+
+**47** (1) Article 7 of the Protection from Harassment (Northern Ireland) Order 1997 (power to make restraining order where defendant convicted of offence under Article 4 or 6 of that Act) is amended as follows.
+
+(2) In the heading, at the end insert “ **on conviction** ”.
+
+(3) In paragraph (2) omit “further”.
+
+### Crime and Disorder Act 1998 (c. 37)
+
+**48** In section 32 of the Crime and Disorder Act 1998 (racially or religiously aggravated harassment etc) omit subsection (7) (which is superseded by provision made by section 12(1) above).
+
+### Powers of Criminal Courts (Sentencing) Act 2000 (c. 6)
+
+**[^F252]49** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F252]50** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F252]51** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F252]52** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**53** In section 142(1) of that Act (power of Crown Court to order search of persons before it)—
+
+(a) before paragraph (a) insert—
+
+> (za) the Crown Court orders a person to pay a surcharge under section 161A of the Criminal Justice Act 2003,
+
+;
+
+(b) in paragraph (d), for “or compensation” substitute “ , compensation or surcharge ”.
+
+### Criminal Justice and Court Services Act 2000 (c. 43)
+
+**54** The Criminal Justice and Court Services Act 2000 is amended as follows.
+
+**55** Section 69 (duties in connection with victims of certain offences) (which is superseded by section 35 of this Act) is repealed.
+
+**56** In Schedule 4 (offences against children for the purposes of disqualification orders), in paragraph 3, after paragraph (sa) insert—
+
+> (sb) he commits an offence under section 5 of the Domestic Violence, Crime and Victims Act 2004 (causing or allowing the death of a child or vulnerable adult) in respect of a child.
+
+### Sexual Offences Act 2003 (c. 42)
+
+**57** (1) Section 133 of the Sexual Offences Act 2003 (general interpretation of Part 2) is amended as follows.
+
+(2) In subsection (1)—
+
+(a) in the definition of “admitted to a hospital”, for paragraph (c) substitute—
+
+> (c) section 46 of the Mental Health Act 1983, section 69 of the Mental Health (Scotland) Act 1984 or Article 52 of the Mental Health (Northern Ireland) Order 1986;
+
+;
+
+(b) in the definition of “detained in a hospital”, for paragraph (c) substitute—
+
+> (c) section 46 of the Mental Health Act 1983, section 69 of the Mental Health (Scotland) Act 1984 or Article 52 of the Mental Health (Northern Ireland) Order 1986;
+
+;
+
+(c) in the definition of “restriction order”, for paragraph (c) substitute—
+
+> (c) a direction under section 46 of the Mental Health Act 1983, section 69 of the Mental Health (Scotland) Act 1984 or Article 52 of the Mental Health (Northern Ireland) Order 1986;
+
+.
+
+(3) After that subsection insert—
+
+> (1A) A reference to a provision specified in paragraph (a) of the definition of “admitted to a hospital”, “detained in a hospital” or “restriction order” includes a reference to the provision as it applies by virtue of—
+>
+> (a) section 5 of the Criminal Procedure (Insanity) Act 1964,
+>
+> (b) section 6 or 14 of the Criminal Appeal Act 1968,
+>
+> (c) section 116A of the Army Act 1955 or the Air Force Act 1955 or section 63A of the Naval Discipline Act 1957, or
+>
+> (d) section 16 or 23 of the Courts-Martial (Appeals) Act 1968.
+
+**58** In section 135 of that Act (interpretation: mentally disordered offenders), omit subsection (4)(c).
+
+**59** (1) Schedule 5 to that Act (other offences for the purposes of sexual offences prevention orders) is amended as follows.
+
+(2) After paragraph 63 insert—
+
+> **63A** An offence under section 5 of the Domestic Violence, Crime and Victims Act 2004 (causing or allowing the death of a child or vulnerable adult).
+
+(3) After paragraph 171 insert—
+
+> **171A** An offence under section 5 of the Domestic Violence, Crime and Victims Act 2004 (causing or allowing the death of a child or vulnerable adult).
+
+(4) In paragraph 172, for “63” substitute “ 63A ”.
+
+### Criminal Justice Act 2003 (c. 44)
+
+**60** In section 48 of the Criminal Justice Act 2003 (c. 44) (further provisions about trial without a jury), in subsection (6), for paragraphs (a) and (b) substitute “ the requirement under section 4A of the Criminal Procedure (Insanity) Act 1964 that any question, finding or verdict mentioned in that section be determined, made or returned by a jury ”.
+
+**61** In section 50 of that Act (application of Part 7 to Northern Ireland), in subsection (13), for paragraphs (a) to (c) substitute—
+
+> (a) for “section 4A of the Criminal Procedure (Insanity) Act 1964” substitute “ Article 49A of the Mental Health (Northern Ireland) Order 1986 ”, and
+>
+> (b) for “that section” substitute “ that Article ”.
+
+**62** In section 74 of that Act (interpretation of Part 9), after subsection (6) insert—
+
+> (7) In its application to a trial on indictment in respect of which an order under section 17(2) of the Domestic Violence, Crime and Victims Act 2004 has been made, this Part is to have effect with such modifications as the Secretary of State may by order specify.
+
+**[^F253]63** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F254]64** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**65** In Schedule 15 to that Act (specified offences for the purposes of Chapter 5 of Part 12 of that Act), in Part 1 (specified violent offences), after paragraph 63 insert—
+
+> **63A** An offence under section 5 of the Domestic Violence, Crime and Victims Act 2004 (causing or allowing the death of a child or vulnerable adult).
+
+**66** In Schedule 17 to that Act (Northern Ireland offences specified for the purposes of section 229(4)), in Part 1 (specified violent offences), after paragraph 60 insert—
+
+> **60A** An offence under section 5 of the Domestic Violence, Crime and Victims Act 2004 (causing or allowing the death of a child or vulnerable adult).
+
+## SCHEDULE 11 — Repeals
+
+*Section 58(2)*
+
+|  |  |
+|---|---|
+| *Short title and chapter* | *Extent of repeal* |
+| Criminal Procedure (Insanity) Act 1964 (c. 84) | Section 7. In section 8—<br>- (a) the proviso to subsection (3);<br>- (b) in subsection (4), the words from “, except” to “courts-martial,”. Schedule 2. |
+| Criminal Appeal Act 1968 (c. 19) | Section 14A. |
+| Courts-Martial (Appeals) Act 1968 (c. 20) | In Schedule 3, paragraph 3(b). |
+| Juries Act 1974 (c. 23) | In section 11, paragraph (b) of subsection (5) and “(b)” in subsection (6). In Schedule 1, paragraph 4(2). |
+| [[^F255]Senior Courts Act 1981] (c. 54) | In section 55(4)(a)(iii), the words “of a jury”. |
+| Mental Health Act 1983 (c. 20) | In section 69(2)(a), the words “or section 5(1) of the Criminal Procedure (Insanity) Act 1964”. Section 71(5) and (6). Section 79(1)(b). |
+| Prosecution of Offences Act 1985 (c. 23) | In section 16(4), the word “or” preceding paragraph (c). |
+| Coroners Act 1988 (c. 13) | In section 16(1)(a), the word “or” preceding sub-paragraph (iii). In section 17, in subsections (1) and (2) the word “or” preceding paragraph (c). |
+| Criminal Procedure (Insanity and Unfitness to Plead) Act 1991 (c. 25) | Sections 3 and 5. In section 6<br>- (a) the definition of “local probation board” in subsection (1);<br>- (b) subsection (2). Schedules 1 and 2. |
+| Law Reform (Year and a Day Rule) Act 1996 (c. 19) | In section 2(3), the word “or” preceding paragraph (b). |
+| Family Law Act 1996 (c. 27) | Section 41. In section 42(5)(a), the words from “or” to “made”. Section 47(1). In section 49(4), the words “or non-molestation order”. |
+| Armed Forces Act 1996 (c. 46) | Section 8. Schedule 2. |
+| Protection from Harassment Act 1997 (c. 40) | In section 5, the words “under section 2 or 4” in subsection (1) and the word “further” in subsection (2). |
+| Crime (Sentences) Act 1997 (c. 43) | In section 47<br>- (a) in subsection (1), paragraph (d) and the word “or” preceding it;<br>- (b) in subsection (2), paragraph (c) and the word “and” preceding it. |
+| Protection from Harassment (Northern Ireland) Order 1997 (S.I.1997/1180(N.I.9)) | In Article 7, the words “under Article 4 or 6” in paragraph (1) and the word “further” in paragraph (2). |
+| Crime and Disorder Act 1998 (c. 37) | Section 32(7). |
+| Access to Justice Act 1999 (c. 22) | In Schedule 13, paragraph 163. |
+| Powers of Criminal Courts (Sentencing) Act 2000 (c. 6) | In Schedule 9, paragraph 133. |
+| Care Standards Act 2000 (c. 14) | In Schedule 4, paragraph 16. |
+| Criminal Justice and Court Services Act 2000 (c. 43) | Section 69. In Schedule 7, paragraphs 99 to 102. |
+| Sexual Offences Act 2003 (c. 42) | Section 135(4)(c). |
+| [^F256] . . . | [^F256] . . . |
+
+## SCHEDULE 12 — Transitional and transitory provisions
+
+*Section 59*
+
+**1** (1) Section 1 and paragraphs 37 to 39 of Schedule 10 apply only in relation to conduct occurring on or after the commencement of that section.
+
+(2) In relation to an offence committed before [[^F257]2 May 2022], the reference to [[^F258]the general limit in a magistrates’ court] in subsection (5)(b) of section 42A of the Family Law Act 1996 (inserted by section 1 of this Act) is to be read as a reference to six months.
+
+**2** In section 5, the reference in subsection (1)(a) to an unlawful act does not include an act that (or so much of an act as) occurs before the commencement of that section.
+
+**3** (1) This paragraph has effect, in relation to any time before the commencement of the repeal (by paragraph 51 of Schedule 3 to the Criminal Justice Act 2003) of section 6 of the Magistrates' Courts Act 1980 (c. 43), where—
+
+(a) a magistrates' court is considering under subsection (1) of that section whether to commit a person (“the accused”) for trial for an offence of murder or manslaughter, and
+
+(b) the accused is charged in the same proceedings with an offence under section 5 above in respect of the same death.
+
+(2) If there is sufficient evidence to put the accused on trial by jury for the offence under section 5, there is deemed to be sufficient evidence to put him on trial by jury for the offence of murder or manslaughter.
+
+**4** Section 10 applies only in relation to offences committed on or after the commencement of that section.
+
+**5** (1) Section 12(1) and paragraphs 43(3) and 48 of Schedule 10 do not apply where the conviction occurs before the commencement of those provisions.
+
+(2) Section 12(2) applies only in relation to applications made on or after the commencement of that provision.
+
+(3) Section 12(4) and paragraphs 43(2) and 44 of Schedule 10 do not apply where the acquittal (or, where subsection (5) of the inserted section 5A applies, the allowing of the appeal) occurs before the commencement of those provisions.
+
+**6** (1) Section 13(1) and paragraph 47(3) of Schedule 10 do not apply where the conviction occurs before the commencement of those provisions.
+
+(2) Section 13(2) applies only in relation to applications made on or after the commencement of that provision.
+
+(3) Section 13(4) and paragraph 47(2) of Schedule 10 do not apply where the acquittal (or, where paragraph (5) of the inserted Article 7A applies, the allowing of the appeal) occurs before the commencement of those provisions.
+
+**[^F259]7** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**8** (1) The provisions mentioned in sub-paragraph (2) do not apply—
+
+(a) in relation to proceedings before the Crown Court or a court-martial, where the accused was arraigned before the commencement of those provisions;
+
+(b) in relation to proceedings before the Court of Appeal or the Courts-Martial Appeal Court, where the hearing of the appeal began before that commencement.
+
+(2) The provisions are—
+
+(a) sections 22 and 23;
+
+(b) section 24 and Schedule 2;
+
+(c) section 26 and Schedule 3;
+
+(d) paragraphs 5, 6, 8, 17 to 21, 45, 60 and 61 of Schedule 10
+
+**9** The Schedule inserted by Schedule 2 has effect in relation to any time before the commencement of sections 8 and 37 of the Courts Act 2003 (c. 39)—
+
+(a) as if a reference to a local justice area were to a petty sessions area;
+
+(b) as if a reference to a designated officer were to a justices' chief executive.
+
+**10** Each entry in Schedule 11 applies in the same way as the provision of this Act to which it corresponds.
+
+---
+
+[^F1]: S. 5 cross-heading substituted (E.W.) (2.7.2012) by Domestic Violence, Crime and Victims (Amendment) Act 2012 (c. 4), ss. 1(7), 4(2) (with s. 1(8)); S.I. 2012/1432, art. 2 and s. 5 cross-heading substituted (N.I.) (29.1.2016) by Justice Act (Northern Ireland) 2015 (c. 9), ss. 96(7), 106(2); S.R. 2015/418, art. 2(b)
+[^F2]: Words in s. 5(1)(a) inserted (E.W.) (2.7.2012) by Domestic Violence, Crime and Victims (Amendment) Act 2012 (c. 4), ss. 1(2)(a), 4(2) (with s. 1(8)); S.I. 2012/1432, art. 2 and words in s. 5(1)(a) inserted (N.I.) (29.1.2016) by Justice Act (Northern Ireland) 2015 (c. 9), ss. 96(2)(a), 106(2); S.R. 2015/418, art. 2(b)
+[^F3]: Words in s. 5(1)(d) substituted (E.W.) (2.7.2012) by Domestic Violence, Crime and Victims (Amendment) Act 2012 (c. 4), ss. 1(2)(b), 4(2) (with s. 1(8)); S.I. 2012/1432, art. 2 and words in s. 5(1)(d) substituted (N.I.) (29.1.2016) by Justice Act (Northern Ireland) 2015 (c. 9), ss. 96(2)(b), 106(2); S.R. 2015/418, art. 2(b)
+[^F4]: Words in s. 5(3)(a) substituted (E.W.) (2.7.2012) by Domestic Violence, Crime and Victims (Amendment) Act 2012 (c. 4), ss. 1(3), 4(2) (with s. 1(8)); S.I. 2012/1432, art. 2 and words in s. 5(3)(a) substituted (N.I.) (29.1.2016) by Justice Act (Northern Ireland) 2015 (c. 9), ss. 96(3), 106(2); S.R. 2015/418, art. 2(b)
+[^F5]: Words in s. 5(4)(b) substituted (E.W.) (2.7.2012) by Domestic Violence, Crime and Victims (Amendment) Act 2012 (c. 4), ss. 1(4), 4(2) (with s. 1(8)); S.I. 2012/1432, art. 2 and words in s. 5(4)(b) substituted (N.I.) (29.1.2016) by Justice Act (Northern Ireland) 2015 (c. 9), ss. 96(4), 106(2); S.R. 2015/418, art. 2(b)
+[^F6]: Words in s. 5(7) inserted (E.W.) (2.7.2012) by Domestic Violence, Crime and Victims (Amendment) Act 2012 (c. 4), ss. 1(5), 4(2) (with s. 1(8)); S.I. 2012/1432, art. 2 and words in s. 5(7) inserted (N.I.) (29.1.2016) by Justice Act (Northern Ireland) 2015 (c. 9), ss. 96(5), 106(2); S.R. 2015/418, art. 2(b)
+[^F7]: S. 5(7)(a)(b) and word substituted for words in s. 5(7) (28.6.2022) by Police, Crime, Sentencing and Courts Act 2022 (c. 32), ss. 123(2), 208(5)(j) (with s. 123(4))
+[^F8]: S. 5(8) inserted (E.W.) (2.7.2012) by Domestic Violence, Crime and Victims (Amendment) Act 2012 (c. 4), ss. 1(6), 4(2) (with s. 1(8)); S.I. 2012/1432, art. 2 and s. 5(8) inserted (N.I.) (29.1.2016) by Justice Act (Northern Ireland) 2015 (c. 9), ss. 96(6), 106(2); S.R. 2015/418, art. 2(b)
+[^F9]: S. 5(8)(a)(b) and word substituted for words in s. 5(7) (28.6.2022) by Police, Crime, Sentencing and Courts Act 2022 (c. 32), ss. 123(3), 208(5)(j) (with s. 123(4))
+[^F10]: S. 6 heading substituted (2.7.2012) by Domestic Violence, Crime and Victims (Amendment) Act 2012 (c. 4), s. 4(2), Sch. para. 8(2); S.I. 2012/1432, art. 2
+[^F11]: Words in s. 6(5) inserted (2.7.2012) by Domestic Violence, Crime and Victims (Amendment) Act 2012 (c. 4), s. 4(2), Sch. para. 8(1); S.I. 2012/1432, art. 2
+[^F12]: Words in s. 6(5) substituted (1.12.2020) by Sentencing Act 2020 (c. 17), s. 416(1), Sch. 24 para. 251 (with Sch. 24 para. 447, Sch. 27); S.I. 2020/1236, reg. 2
+[^F13]: S. 6A inserted (2.7.2012) by Domestic Violence, Crime and Victims (Amendment) Act 2012 (c. 4), ss. 2, 4(2); S.I. 2012/1432, art. 2
+[^F14]: S. 6A(2)(c) inserted (7.6.2022) by Domestic Abuse Act 2021 (c. 17), s. 90(6), Sch. 2 para. 8; S.I. 2022/553, regs. 1(2), 3(b)
+[^F15]: S. 7 heading substituted (14.3.2016) by Justice Act (Northern Ireland) 2015 (c. 9), s. 106(2), Sch. 6 para. 3(1) (with Sch. 8 para. 11); S.R. 2016/136, art. 2(b)
+[^F16]: Words in s. 7(5) inserted (14.3.2016) by Justice Act (Northern Ireland) 2015 (c. 9), s. 106(2), Sch. 6 para. 3(2) (with Sch. 8 para. 11); S.R. 2016/136, art. 2(b)
+[^F17]: S. 7A inserted (N.I.) (14.3.2016) by Justice Act (Northern Ireland) 2015 (c. 9), s. 106(2), Sch. 6 para. 3(3) (with Sch. 8 para. 11); S.R. 2016/136, art. 2(b)
+[^F18]: S. 7A(2)(c) inserted (26.6.2023) by Justice (Sexual Offences and Trafficking Victims) Act (Northern Ireland) 2022 (c. 19), s. 30(2), Sch. 4 para. 4; S.R. 2023/87, art. 2(b)
+[^F19]: Words in s. 8 sidenote substituted (28.3.2009 for certain purposes, otherwise 31.10.2009) by Armed Forces Act 2006 (c. 52), ss. 378(1), 383(2), Sch. 16 para. 238(2); S.I. 2009/812, art. 3; S.I. 2009/1167, art. 4 (and see transitional provisions in S.I. 2009/1059)
+[^F20]: Words in s. 8(1) substituted (28.3.2009 for certain purposes, otherwise 31.10.2009) by Armed Forces Act 2006 (c. 52), ss. 378(1), 383(2), Sch. 16 para. 238(3); S.I. 2009/812, art. 3; S.I. 2009/1167, art. 4 (and see transitional provisions in S.I. 2009/1059)
+[^F21]: S. 8(2) substituted (28.3.2009 for certain purposes, otherwise 31.10.2009) by Armed Forces Act 2006 (c. 52), ss. 378(1), 383(2), Sch. 16 para. 238(4); S.I. 2009/812, art. 3; S.I. 2009/1167, art. 4 (and see transitional provisions in S.I. 2009/1059)
+[^F22]: S. 8(4)-(6) inserted (2.7.2012) by Domestic Violence, Crime and Victims (Amendment) Act 2012 (c. 4), s. 4(2), Sch. para. 9; S.I. 2012/1432, art. 2
+[^F23]: S. 8A and cross-heading inserted (E.W.) (15.9.2026) by Victims and Prisoners Act 2024 (c. 21), ss. 19(2), 81(2) (with s. 32); S.I. 2026/1009, reg. 2
+[^F24]: Words in s. 9(2) substituted (15.9.2026) by Victims and Prisoners Act 2024 (c. 21), ss. 19(3)(a)(i), 81(2) (with s. 32); S.I. 2026/1009, reg. 2
+[^F25]: Word in s. 9(2) substituted (15.9.2026) by Victims and Prisoners Act 2024 (c. 21), ss. 19(3)(a)(ii), 81(2) (with s. 32); S.I. 2026/1009, reg. 2
+[^F26]: Word in s. 9(3) substituted (15.9.2026) by Victims and Prisoners Act 2024 (c. 21), ss. 19(3)(a)(ii), 81(2) (with s. 32); S.I. 2026/1009, reg. 2
+[^F27]: Words in s. 9(3) substituted (15.9.2026) by Victims and Prisoners Act 2024 (c. 21), ss. 19(3)(a)(i), 81(2) (with s. 32); S.I. 2026/1009, reg. 2
+[^F28]: S. 9(3A) omitted (15.9.2026) by virtue of Victims and Prisoners Act 2024 (c. 21), ss. 19(3)(b), 81(2) (with s. 32); S.I. 2026/1009, reg. 2
+[^F29]: S. 9(3B) omitted (15.9.2026) by virtue of Victims and Prisoners Act 2024 (c. 21), ss. 19(3)(b), 81(2) (with s. 32); S.I. 2026/1009, reg. 2
+[^F30]: S. 9(3C) omitted (15.9.2026) by virtue of Victims and Prisoners Act 2024 (c. 21), ss. 19(3)(b), 81(2) (with s. 32); S.I. 2026/1009, reg. 2
+[^F31]: S. 9(4)(a) omitted (15.9.2026) by virtue of Victims and Prisoners Act 2024 (c. 21), ss. 19(3)(b), 81(2) (with s. 32); S.I. 2026/1009, reg. 2
+[^F32]: Words in s. 9(4)(b) omitted (N.I.) (1.4.2022) by virtue of Health and Social Care Act (Northern Ireland) 2022 (c. 3), s. 8(1)(b), Sch. 1 para. 208(a); S.R. 2022/102, art. 2(b); and (E.W.) (30.11.2022) by The Health and Social Care Act (Northern Ireland) 2022 (Consequential Amendments) Order 2022 (S.I. 2022/1174), arts. 1(2), 21(a)
+[^F33]: Words in s. 9(4)(b) substituted (N.I.) (1.4.2022) by Health and Social Care Act (Northern Ireland) 2022 (c. 3), s. 8(1)(b), Sch. 1 para. 208(b); S.R. 2022/102, art. 2(b); and (E.W.) (30.11.2022) by The Health and Social Care Act (Northern Ireland) 2022 (Consequential Amendments) Order 2022 (S.I. 2022/1174), arts. 1(2), 21(b)
+[^F34]: S. 9(5) omitted (15.9.2026) by virtue of Victims and Prisoners Act 2024 (c. 21), ss. 19(3)(b), 81(2) (with s. 32); S.I. 2026/1009, reg. 2
+[^F35]: S. 9(6) omitted (15.9.2026) by virtue of Victims and Prisoners Act 2024 (c. 21), ss. 19(3)(b), 81(2) (with s. 32); S.I. 2026/1009, reg. 2
+[^F36]: S. 9(7) inserted (12.4.2010) by The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976), arts. 1(2), 12, Sch. 14 para. 85(4) (with arts. 28-31); S.I. 2010/977, art. 1(2)
+[^F37]: S. 10(1) repealed (1.1.2006) by Serious Organised Crime and Police Act 2005 (c. 15), ss. 174(2), 178(8), Sch. 17 Pt. 2; S.I. 2005/3495, art. 2(1)(u)(lviii)
+[^F38]: S. 10(2) repealed (1.3.2007) by The Police and Criminal Evidence (Amendment) (Northern Ireland) Order 2007 (S.I. 2007/288) (N.I. 2), arts. 1(2), 41(2), Sch. 2
+[^F39]: S. 12(2)-(4) repealed (1.12.2020) by Sentencing Act 2020 (c. 17), s. 416(1), Sch. 28 (with ss. 413(4)(5), 416(7), Sch. 27); S.I. 2020/1236, reg. 2 (see also Sentencing (Pre-consolidation Amendments) Act 2020 (c. 9), ss. 1, 5(2)(3))
+[^F40]: S. 14(1)(2) repealed (1.12.2020) by Sentencing Act 2020 (c. 17), s. 416(1), Sch. 28 (with ss. 413(4)(5), 416(7), Sch. 27); S.I. 2020/1236, reg. 2 (see also Sentencing (Pre-consolidation Amendments) Act 2020 (c. 9), ss. 1, 5(2)(3))
+[^F41]: S. 14(4) omitted (3.7.2006) by virtue of The Collection of Fines (Final Scheme) Order 2006 (S.I. 2006/1737), art. 54
+[^F42]: S. 16(2) repealed (5.1.2009) by Road Safety Act 2006 (c. 49), ss. 59, 61, Sch. 7(1); S.I. 2008/3164, art. 2(d)
+[^F43]: S. 21(2) substituted (1.8.2007) by Justice and Security (Northern Ireland) Act 2007 (c. 6), ss. 8(2), 53(4), Sch. 1 para. 5 (with s. 8(3) and with savings in S.I. 2007/2259, art. 2); S.I. 2007/2045, art. 2(2)(3)(q)
+[^F44]: S. 31 omitted (3.12.2012) by virtue of Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10), s. 151(1), Sch. 10 para. 40(2); S.I. 2012/2906, art. 2(h)
+[^F45]: Words in s. 32 inserted (22.8.2007) by The Secretary of State for Justice Order 2007 (S.I. 2007/2128), arts. 1(2), 8, Sch. para. 10(2)
+[^F46]: Words in s. 33 inserted (22.8.2007) by The Secretary of State for Justice Order 2007 (S.I. 2007/2128), arts. 1(2), 8, Sch. para. 10(2)
+[^F47]: Words in s. 33 substituted (22.8.2007) by The Secretary of State for Justice Order 2007 (S.I. 2007/2128), arts. 1(2), 8, Sch. para. 10(3)
+[^F48]: Pt. 3 Ch. 2 renumbered as Pt. 3A Ch. 1 (13.8.2026) by Victims and Courts Act 2026 (c. 19), s. 18(1), Sch. 2 para. 2(1); S.I. 2026/918, reg. 2(b)(ii)
+[^F49]: Pt. 3 Ch. 3 renumbered as Pt. 3B (13.8.2026) by Victims and Courts Act 2026 (c. 19), s. 18(1), Sch. 2 para. 2(3); S.I. 2026/918, reg. 2(b)(ii)
+[^F50]: Pt. 3A heading inserted (13.8.2026) by virtue of Victims and Courts Act 2026 (c. 19), s. 18(1), Sch. 2 para. 2(1); S.I. 2026/918, reg. 2(b)(ii)
+[^F51]: Pt. 3A heading inserted (13.8.2026) by Victims and Courts Act 2026 (c. 19), s. 18(1), Sch. 2 para. 2(2); S.I. 2026/918, reg. 2(b)(ii)
+[^F52]: Words in s. 35(1)(a) substituted (12.4.2019) by Counter-Terrorism and Border Security Act 2019 (c. 3), s. 27(3), Sch. 4 para. 10(a) (with s. 25(3)(4))
+[^F53]: Words in s. 35(3) inserted (1.4.2008) by The Offender Management Act 2007 (Consequential Amendments) Order 2008 (S.I. 2008/912), arts. 1, 3, Sch. 1 para. 20(3)(a)
+[^F54]: S. 35(3A) inserted (1.4.2008) by The Offender Management Act 2007 (Consequential Amendments) Order 2008 (S.I. 2008/912), arts. 1, 3, Sch. 1 para. 20(3)(b)
+[^F55]: Words in s. 35(6) inserted (1.4.2008) by The Offender Management Act 2007 (Consequential Amendments) Order 2008 (S.I. 2008/912), arts. 1, 3, Sch. 1 para. 20(3)(c)(i)
+[^F56]: Words in s. 35(6) substituted (1.4.2008) by The Offender Management Act 2007 (Consequential Amendments) Order 2008 (S.I. 2008/912), arts. 1, 3, Sch. 1 para. 20(3)(c)(ii)
+[^F57]: Words in s. 35(7) inserted (1.4.2008) by The Offender Management Act 2007 (Consequential Amendments) Order 2008 (S.I. 2008/912), arts. 1, 3, Sch. 1 para. 20(3)(d)(i)
+[^F58]: Words in s. 35(7) substituted (1.4.2008) by The Offender Management Act 2007 (Consequential Amendments) Order 2008 (S.I. 2008/912), arts. 1, 3, Sch. 1 para. 20(3)(d)(ii)
+[^F59]: S. 35(8) substituted (1.4.2008) by The Offender Management Act 2007 (Consequential Amendments) Order 2008 (S.I. 2008/912), arts. 1, 3, Sch. 1 para. 20(3)(e)
+[^F60]: Words in s. 36(2) substituted (12.4.2019) by Counter-Terrorism and Border Security Act 2019 (c. 3), s. 27(3), Sch. 4 para. 10(b) (with s. 25(3)(4))
+[^F61]: Words in s. 36(3) substituted (3.11.2008) by Mental Health Act 2007 (c. 12), ss. 48, 56(1), Sch. 6 para. 2(2) (with s. 50(8)-(13)); S.I. 2008/1900, arts. 1(1), 2(o) (with art. 3, Sch.)
+[^F62]: Words in s. 36(4) inserted (1.4.2008) by The Offender Management Act 2007 (Consequential Amendments) Order 2008 (S.I. 2008/912), arts. 1, 3, Sch. 1 para. 20(4)(a)
+[^F63]: S. 36(4A) inserted (1.4.2008) by The Offender Management Act 2007 (Consequential Amendments) Order 2008 (S.I. 2008/912), arts. 1, 3, Sch. 1 para. 20(4)(b)
+[^F64]: Words in s. 36(5)(a) inserted (3.11.2008) by Mental Health Act 2007 (c. 12), ss. 48, 56(1), Sch. 6 para. 2(3)(a) (with s. 50(8)-(13)); S.I. 2008/1900, arts. 1(1), 2(o) (with art. 3, Sch.)
+[^F65]: S. 36(5)(c) inserted (3.11.2008) by Mental Health Act 2007 (c. 12), ss. 48, 56(1), Sch. 6 para. 2(3)(b) (with s. 50(8)-(13)); S.I. 2008/1900, arts. 1(1), 2(o) (with art. 3, Sch.)
+[^F66]: S. 36A inserted (3.11.2008) by Mental Health Act 2007 (c. 12), ss. 48, 56(1), Sch. 6 para. 3 (as amended by S.I. 2008/912, Sch. 1 para. 24(2)(a)) (with s. 50(8)-(13)); S.I. 2008/1900, arts. 1(1), 2(o) (with art. 3, Sch.)
+[^F67]: S. 37 title substituted (3.11.2008) by virtue of Mental Health Act 2007 (c. 12), ss. 48, 56(1), Sch. 6 para. 4 (with s. 50(8)-(13)); S.I. 2008/1900, arts. 1(1), 2(o) (with art. 3, Sch.)
+[^F68]: Words in s. 37(1) substituted (3.11.2008) by Mental Health Act 2007 (c. 12), ss. 48, 56(1), Sch. 6 para. 4 (with s. 50(8)-(13)); S.I. 2008/1900, arts. 1(1), 2(o) (with art. 3, Sch.)
+[^F69]: Words in s. 37(2)(a) inserted (1.4.2008) by The Offender Management Act 2007 (Consequential Amendments) Order 2008 (S.I. 2008/912), arts. 1, 3, Sch. 1 para. 20(5)(a)(i)
+[^F70]: Words in s. 37(2) substituted (1.4.2008) by The Offender Management Act 2007 (Consequential Amendments) Order 2008 (S.I. 2008/912), arts. 1, 3, Sch. 1 para. 20(5)(a)(ii)
+[^F71]: Words in s. 37(4) substituted (1.4.2008) by The Offender Management Act 2007 (Consequential Amendments) Order 2008 (S.I. 2008/912), arts. 1, 3, Sch. 1 para. 20(5)(b)
+[^F72]: Words in s. 37(5) substituted (3.11.2008) by The Transfer of Tribunal Functions Order 2008 (S.I. 2008/2833), arts. 1(1), 9(1), Sch. 3 para. 205
+[^F73]: Words in s. 37(5) substituted (1.4.2008) by The Offender Management Act 2007 (Consequential Amendments) Order 2008 (S.I. 2008/912), arts. 1, 3, Sch. 1 para. 20(5)(c)
+[^F74]: Words in s. 37(6) substituted (1.4.2008) by The Offender Management Act 2007 (Consequential Amendments) Order 2008 (S.I. 2008/912), arts. 1, 3, Sch. 1 para. 20(5)(d)(i)
+[^F75]: Words in s. 37(6) inserted (1.4.2008) by The Offender Management Act 2007 (Consequential Amendments) Order 2008 (S.I. 2008/912), arts. 1, 3, Sch. 1 para. 20(5)(d)(ii)
+[^F76]: Words in s. 37(7) substituted (1.4.2008) by The Offender Management Act 2007 (Consequential Amendments) Order 2008 (S.I. 2008/912), arts. 1, 3, Sch. 1 para. 20(5)(e)
+[^F77]: S. 37(8) substituted (1.4.2008) by The Offender Management Act 2007 (Consequential Amendments) Order 2008 (S.I. 2008/912), arts. 1, 3, Sch. 1 para. 20(5)(f)
+[^F78]: Words in s. 37(8)(c)(i) substituted (25.6.2025) by Victims and Prisoners Act 2024 (c. 21), ss. 21(2), 81(2) (with s. 32); S.I. 2025/731, reg. 2(a)
+[^F79]: S. 37ZA inserted (25.6.2025) by Victims and Prisoners Act 2024 (c. 21), ss. 21(3), 81(2) (with s. 32); S.I. 2025/731, reg. 2(a)
+[^F80]: S. 37A inserted (3.11.2008) by Mental Health Act 2007 (c. 12), ss. 48, 56(1), Sch. 6 para. 5 (with s. 50(8)-(13)); S.I. 2008/1900, arts. 1(1), 2(o) (with art. 3, Sch.)
+[^F81]: S. 37A(5) omitted (1.7.2012) by virtue of Health and Social Care Act 2012 (c. 7), ss. 39(4)(e)(i), 306(4); S.I. 2012/1319, art. 2(3)
+[^F82]: Words in s. 37A(6) substituted (3.11.2008) by The Transfer of Tribunal Functions Order 2008 (S.I. 2008/2833), arts. 1(1), 9(1), Sch. 3 para. 206
+[^F83]: Words in s. 37A(7)(a) omitted (1.7.2012) by virtue of Health and Social Care Act 2012 (c. 7), ss. 39(4)(e)(ii), 306(4); S.I. 2012/1319, art. 2(3)
+[^F84]: S. 38 title substituted (3.11.2008) by virtue of Mental Health Act 2007 (c. 12), ss. 48, 56(1), Sch. 6 para. 6 (with s. 50(8)-(13)); S.I. 2008/1900, arts. 1(1), 2(o) (with art. 3, Sch.)
+[^F85]: Words in s. 38(1) substituted (3.11.2008) by Mental Health Act 2007 (c. 12), ss. 48, 56(1), Sch. 6 para. 6 (with s. 50(8)-(13)); S.I. 2008/1900, arts. 1(1), 2(o) (with art. 3, Sch.)
+[^F86]: Words in s. 38(2) substituted (1.4.2008) by The Offender Management Act 2007 (Consequential Amendments) Order 2008 (S.I. 2008/912), arts. 1, 3, Sch. 1 para. 20(6)(a)
+[^F87]: Words in s. 38(3) substituted (1.4.2008) by The Offender Management Act 2007 (Consequential Amendments) Order 2008 (S.I. 2008/912), arts. 1, 3, Sch. 1 para. 20(6)(b)(i)
+[^F88]: Words in s. 38(3)(d) substituted (1.4.2008) by The Offender Management Act 2007 (Consequential Amendments) Order 2008 (S.I. 2008/912), arts. 1, 3, Sch. 1 para. 20(6)(b)(ii)
+[^F89]: Words in s. 38(4) substituted (1.4.2008) by The Offender Management Act 2007 (Consequential Amendments) Order 2008 (S.I. 2008/912), arts. 1, 3, Sch. 1 para. 20(6)(c)
+[^F90]: Words in s. 38(5)(a)(b) substituted (3.11.2008) by The Transfer of Tribunal Functions Order 2008 (S.I. 2008/2833), arts. 1(1), 9(1), Sch. 3 para. 207
+[^F91]: Words in s. 38(6) substituted (1.4.2008) by The Offender Management Act 2007 (Consequential Amendments) Order 2008 (S.I. 2008/912), arts. 1, 3, Sch. 1 para. 20(6)(d)
+[^F92]: Words in s. 38(7) substituted (1.4.2008) by The Offender Management Act 2007 (Consequential Amendments) Order 2008 (S.I. 2008/912), arts. 1, 3, Sch. 1 para. 20(6)(e)
+[^F93]: Words in s. 38(9) substituted (1.4.2008) by The Offender Management Act 2007 (Consequential Amendments) Order 2008 (S.I. 2008/912), arts. 1, 3, Sch. 1 para. 20(6)(f)
+[^F94]: Ss. 38A, 38B inserted (3.11.2008) by Mental Health Act 2007 (c. 12), ss. 48, 56(1), Sch. 6 para. 7 (as amended by S.I. 2008/912, Sch. 1 para. 24(2)(b)) (with s. 50(8)-(13)); S.I. 2008/1900, arts. 1(1), 2(o) (with art. 3, Sch.)
+[^F95]: S. 38A(3) omitted (1.7.2012) by virtue of Health and Social Care Act 2012 (c. 7), ss. 39(4)(e)(i), 306(4); S.I. 2012/1319, art. 2(3)
+[^F96]: Words in s. 38A(4)(a)-(c) substituted (3.11.2008) by The Transfer of Tribunal Functions Order 2008 (S.I. 2008/2833), arts. 1(1), 9(1), Sch. 3 para. 208
+[^F97]: Ss. 38A, 38B inserted (3.11.2008) by Mental Health Act 2007 (c. 12), ss. 48, 56(1), Sch. 6 para. 7 (as amended by S.I. 2008/912, Sch. 1 para. 24(2)(b)) (with s. 50(8)-(13)); S.I. 2008/1900, arts. 1(1), 2(o) (with art. 3, Sch.)
+[^F98]: Words in s. 39(1)(a) substituted (12.4.2019) by Counter-Terrorism and Border Security Act 2019 (c. 3), s. 27(3), Sch. 4 para. 10(c) (with s. 25(3)(4))
+[^F99]: Words in s. 39(2) inserted (1.4.2008) by The Offender Management Act 2007 (Consequential Amendments) Order 2008 (S.I. 2008/912), arts. 1, 3, Sch. 1 para. 20(7)(a)
+[^F100]: S. 39(2A) inserted (1.4.2008) by The Offender Management Act 2007 (Consequential Amendments) Order 2008 (S.I. 2008/912), arts. 1, 3, Sch. 1 para. 20(7)(b)
+[^F101]: Words in s. 39(3)(a) inserted (3.11.2008) by Mental Health Act 2007 (c. 12), ss. 48, 56(1), Sch. 6 para. 8(a) (with s. 50(8)-(13)); S.I. 2008/1900, arts. 1(1), 2(o) (with art. 3, Sch.)
+[^F102]: S. 39(3)(aa) inserted (3.11.2008) by Mental Health Act 2007 (c. 12), ss. 48, 56(1), Sch. 6 para. 8(b) (with s. 50(8)-(13)); S.I. 2008/1900, arts. 1(1), 2(o) (with art. 3, Sch.)
+[^F103]: Words in s. 40(2)(a) inserted (1.4.2008) by The Offender Management Act 2007 (Consequential Amendments) Order 2008 (S.I. 2008/912), arts. 1, 3, Sch. 1 para. 20(8)(a)(i)
+[^F104]: Words in s. 40(2) substituted (1.4.2008) by The Offender Management Act 2007 (Consequential Amendments) Order 2008 (S.I. 2008/912), arts. 1, 3, Sch. 1 para. 20(8)(a)(ii)
+[^F105]: Words in s. 40(4) substituted (1.4.2008) by The Offender Management Act 2007 (Consequential Amendments) Order 2008 (S.I. 2008/912), arts. 1, 3, Sch. 1 para. 20(8)(b)
+[^F106]: Words in s. 40(5) substituted (3.11.2008) by The Transfer of Tribunal Functions Order 2008 (S.I. 2008/2833), arts. 1(1), 9(1), Sch. 3 para. 209
+[^F107]: Words in s. 40(5) substituted (1.4.2008) by The Offender Management Act 2007 (Consequential Amendments) Order 2008 (S.I. 2008/912), arts. 1, 3, Sch. 1 para. 20(8)(c)
+[^F108]: Words in s. 40(6) substituted (1.4.2008) by The Offender Management Act 2007 (Consequential Amendments) Order 2008 (S.I. 2008/912), arts. 1, 3, Sch. 1 para. 20(8)(d)(i)
+[^F109]: Words in s. 40(6)(b)(ii) inserted (1.4.2008) by The Offender Management Act 2007 (Consequential Amendments) Order 2008 (S.I. 2008/912), arts. 1, 3, Sch. 1 para. 20(8)(d)(ii)
+[^F110]: Words in s. 40(7) substituted (1.4.2008) by The Offender Management Act 2007 (Consequential Amendments) Order 2008 (S.I. 2008/912), arts. 1, 3, Sch. 1 para. 20(8)(e)
+[^F111]: S. 40(8) substituted (1.4.2008) by The Offender Management Act 2007 (Consequential Amendments) Order 2008 (S.I. 2008/912), arts. 1, 3, Sch. 1 para. 20(8)(f)
+[^F112]: Words in s. 41(2) substituted (1.4.2008) by The Offender Management Act 2007 (Consequential Amendments) Order 2008 (S.I. 2008/912), arts. 1, 3, Sch. 1 para. 20(9)(a)
+[^F113]: Words in s. 41(3) substituted (1.4.2008) by The Offender Management Act 2007 (Consequential Amendments) Order 2008 (S.I. 2008/912), arts. 1, 3, Sch. 1 para. 20(9)(b)
+[^F114]: Words in s. 41(4) substituted (1.4.2008) by The Offender Management Act 2007 (Consequential Amendments) Order 2008 (S.I. 2008/912), arts. 1, 3, Sch. 1 para. 20(9)(c)
+[^F115]: Words in s. 41(5)(a)(b) substituted (3.11.2008) by The Transfer of Tribunal Functions Order 2008 (S.I. 2008/2833), arts. 1(1), 9(1), Sch. 3 para. 210
+[^F116]: Words in s. 41(6) substituted (1.4.2008) by The Offender Management Act 2007 (Consequential Amendments) Order 2008 (S.I. 2008/912), arts. 1, 3, Sch. 1 para. 20(9)(d)
+[^F117]: Words in s. 41(7) substituted (1.4.2008) by The Offender Management Act 2007 (Consequential Amendments) Order 2008 (S.I. 2008/912), arts. 1, 3, Sch. 1 para. 20(9)(e)
+[^F118]: Words in s. 41(9) substituted (1.4.2008) by The Offender Management Act 2007 (Consequential Amendments) Order 2008 (S.I. 2008/912), arts. 1, 3, Sch. 1 para. 20(9)(f)
+[^F119]: S. 41A inserted (3.11.2008) by Mental Health Act 2007 (c. 12), ss. 48, 56(1), Sch. 6 para. 9 (as amended by S.I. 2008/912, Sch. 1 para. 24(2)(c)) (with s. 50(8)-(13)); S.I. 2008/1900, arts. 1(1), 2(o) (with art. 3, Sch.)
+[^F120]: Words in s. 42(1)(a) substituted (12.4.2019) by Counter-Terrorism and Border Security Act 2019 (c. 3), s. 27(3), Sch. 4 para. 10(d) (with s. 25(3)(4))
+[^F121]: Words in s. 42(1)(c) substituted (3.11.2008) by Mental Health Act 2007 (c. 12), ss. 48, 56(1), Sch. 6 para. 10(2) (with s. 50(8)-(13)); S.I. 2008/1900, arts. 1(1), 2(o) (with art. 3, Sch.)
+[^F122]: Words in s. 42(2) inserted (1.4.2008) by The Offender Management Act 2007 (Consequential Amendments) Order 2008 (S.I. 2008/912), arts. 1, 3, Sch. 1 para. 20(10)(a)(i)
+[^F123]: Words in s. 42(2) inserted (1.4.2008) by The Offender Management Act 2007 (Consequential Amendments) Order 2008 (S.I. 2008/912), arts. 1, 3, Sch. 1 para. 20(10)(a)(ii)
+[^F124]: S. 42(2A) inserted (1.4.2008) by The Offender Management Act 2007 (Consequential Amendments) Order 2008 (S.I. 2008/912), arts. 1, 3, Sch. 1 para. 20(10)(b)
+[^F125]: Words in s. 42(3)(a) inserted (3.11.2008) by Mental Health Act 2007 (c. 12), ss. 48, 56(1), Sch. 6 para. 10(3)(a) (with s. 50(8)-(13)); S.I. 2008/1900, arts. 1(1), 2(o) (with art. 3, Sch.)
+[^F126]: S. 42(3)(c) inserted (3.11.2008) by Mental Health Act 2007 (c. 12), ss. 48, 56(1), Sch. 6 para. 10(3)(b) (with s. 50(8)-(13)); S.I. 2008/1900, arts. 1(1), 2(o) (with art. 3, Sch.)
+[^F127]: S. 42A inserted (3.11.2008) by Mental Health Act 2007 (c. 12), ss. 48, 56(1), Sch. 6 para. 11 (as amended by S.I. 2008/912, Sch. 1 para. 24(2)(d)) (with s. 50(8)-(13)); S.I. 2008/1900, arts. 1(1), 2(o) (with art. 3, Sch.)
+[^F128]: S. 43 title substituted (3.11.2008) by virtue of Mental Health Act 2007 (c. 12), ss. 48, 56(1), Sch. 6 para. 12 (with s. 50(8)-(13)); S.I. 2008/1900, arts. 1(1), 2(o) (with art. 3, Sch.)
+[^F129]: Words in s. 43(1) substituted (3.11.2008) by Mental Health Act 2007 (c. 12), ss. 48, 56(1), Sch. 6 para. 12 (with s. 50(8)-(13)); S.I. 2008/1900, arts. 1(1), 2(o) (with art. 3, Sch.)
+[^F130]: Words in s. 43(2)(a) inserted (1.4.2008) by The Offender Management Act 2007 (Consequential Amendments) Order 2008 (S.I. 2008/912), arts. 1, 3, Sch. 1 para. 20(11)(a)(i)
+[^F131]: Words in s. 43(2) substituted (1.4.2008) by The Offender Management Act 2007 (Consequential Amendments) Order 2008 (S.I. 2008/912), arts. 1, 3, Sch. 1 para. 20(11)(a)(ii)
+[^F132]: Words in s. 43(4) substituted (1.4.2008) by The Offender Management Act 2007 (Consequential Amendments) Order 2008 (S.I. 2008/912), arts. 1, 3, Sch. 1 para. 20(11)(b)
+[^F133]: Words in s. 43(5) substituted (3.11.2008) by The Transfer of Tribunal Functions Order 2008 (S.I. 2008/2833), arts. 1(1), 9(1), Sch. 3 para. 211
+[^F134]: Words in s. 43(5) substituted (1.4.2008) by The Offender Management Act 2007 (Consequential Amendments) Order 2008 (S.I. 2008/912), arts. 1, 3, Sch. 1 para. 20(11)(c)
+[^F135]: Words in s. 43(6) substituted (1.4.2008) by The Offender Management Act 2007 (Consequential Amendments) Order 2008 (S.I. 2008/912), arts. 1, 3, Sch. 1 para. 20(11)(d)(i)
+[^F136]: Words in s. 43(6)(b)(ii) inserted (1.4.2008) by The Offender Management Act 2007 (Consequential Amendments) Order 2008 (S.I. 2008/912), arts. 1, 3, Sch. 1 para. 20(11)(d)(ii)
+[^F137]: Words in s. 43(7) substituted (1.4.2008) by The Offender Management Act 2007 (Consequential Amendments) Order 2008 (S.I. 2008/912), arts. 1, 3, Sch. 1 para. 20(11)(e)
+[^F138]: S. 43(8) substituted (1.4.2008) by The Offender Management Act 2007 (Consequential Amendments) Order 2008 (S.I. 2008/912), arts. 1, 3, Sch. 1 para. 20(11)(f)
+[^F139]: S. 43A inserted (3.11.2008) by Mental Health Act 2007 (c. 12), ss. 48, 56(1), Sch. 6 para. 13 (with s. 50(8)-(13)); S.I. 2008/1900, arts. 1(1), 2(o) (with art. 3, Sch.)
+[^F140]: S. 43A(5) omitted (1.7.2012) by virtue of Health and Social Care Act 2012 (c. 7), ss. 39(4)(e)(i), 306(4); S.I. 2012/1319, art. 2(3)
+[^F141]: Words in s. 43A(6) substituted (3.11.2008) by The Transfer of Tribunal Functions Order 2008 (S.I. 2008/2833), arts. 1(1), 9(1), Sch. 3 para. 212
+[^F142]: Words in s. 43A(7) omitted (1.7.2012) by virtue of Health and Social Care Act 2012 (c. 7), ss. 39(4)(e)(iii), 306(4); S.I. 2012/1319, art. 2(3)
+[^F143]: S. 44 title substituted (3.11.2008) by virtue of Mental Health Act 2007 (c. 12), ss. 48, 56(1), Sch. 6 para. 14 (with s. 50(8)-(13)); S.I. 2008/1900, arts. 1(1), 2(o) (with art. 3, Sch.)
+[^F144]: Words in s. 44(1) substituted (3.11.2008) by Mental Health Act 2007 (c. 12), ss. 48, 56(1), Sch. 6 para. 14 (with s. 50(8)-(13)); S.I. 2008/1900, arts. 1(1), 2(o) (with art. 3, Sch.)
+[^F145]: Words in s. 44(2) substituted (1.4.2008) by The Offender Management Act 2007 (Consequential Amendments) Order 2008 (S.I. 2008/912), arts. 1, 3, Sch. 1 para. 20(12)(a)
+[^F146]: Words in s. 44(3) substituted (1.4.2008) by The Offender Management Act 2007 (Consequential Amendments) Order 2008 (S.I. 2008/912), arts. 1, 3, Sch. 1 para. 20(12)(b)(i)
+[^F147]: Words in s. 44(3)(d) inserted (1.4.2008) by The Offender Management Act 2007 (Consequential Amendments) Order 2008 (S.I. 2008/912), arts. 1, 3, Sch. 1 para. 20(12)(b)(ii)
+[^F148]: Words in s. 44(4) substituted (1.4.2008) by The Offender Management Act 2007 (Consequential Amendments) Order 2008 (S.I. 2008/912), arts. 1, 3, Sch. 1 para. 20(12)(c)
+[^F149]: Words in s. 44(5)(a)(b) substituted (3.11.2008) by The Transfer of Tribunal Functions Order 2008 (S.I. 2008/2833), arts. 1(1), 9(1), Sch. 3 para. 213
+[^F150]: Words in s. 44(6) substituted (1.4.2008) by The Offender Management Act 2007 (Consequential Amendments) Order 2008 (S.I. 2008/912), arts. 1, 3, Sch. 1 para. 20(12)(d)
+[^F151]: Words in s. 44(7) substituted (1.4.2008) by The Offender Management Act 2007 (Consequential Amendments) Order 2008 (S.I. 2008/912), arts. 1, 3, Sch. 1 para. 20(12)(e)
+[^F152]: Words in s. 44(9) substituted (1.4.2008) by The Offender Management Act 2007 (Consequential Amendments) Order 2008 (S.I. 2008/912), arts. 1, 3, Sch. 1 para. 20(12)(f)
+[^F153]: Ss. 44A, 44B inserted (3.11.2008) by Mental Health Act 2007 (c. 12), ss. 48, 56(1), Sch. 6 para. 15 (as amended by S.I. 2008/912, Sch. 1 para. 24(2)(e)) (with s. 50(8)-(13)); S.I. 2008/1900, arts. 1(1), 2(o) (with art. 3, Sch.)
+[^F154]: S. 44A(3) omitted (1.7.2012) by virtue of Health and Social Care Act 2012 (c. 7), ss. 39(4)(e)(i), 306(4); S.I. 2012/1319, art. 2(3)
+[^F155]: Words in s. 44A(4)(a)-(c) substituted (3.11.2008) by The Transfer of Tribunal Functions Order 2008 (S.I. 2008/2833), arts. 1(1), 9(1), Sch. 3 para. 214
+[^F156]: Ss. 44A, 44B inserted (3.11.2008) by Mental Health Act 2007 (c. 12), ss. 48, 56(1), Sch. 6 para. 15 (as amended by S.I. 2008/912, Sch. 1 para. 24(2)(e)) (with s. 50(8)-(13)); S.I. 2008/1900, arts. 1(1), 2(o) (with art. 3, Sch.)
+[^F157]: Pt. 3A Ch. 2 inserted (13.8.2026 for specified purposes) by Victims and Courts Act 2026 (c. 19), s. 18(1), Sch. 2 para. 24; S.I. 2026/918, reg. 2(b)(iii)
+[^F158]: Pt. 3A Ch. 3 inserted (13.8.2026 for the insertion of ss. 44M and 44O and otherwise prosp.) by Victims and Courts Act 2026 (c. 19), s. 18(1), Sch. 2 para. 25; S.I. 2026/918, reg. 2(b)(iv)
+[^F159]: Ss. 45, 46 become Pt. 3A Ch. 4 (13.8.2026) by Victims and Courts Act 2026 (c. 19), s. 18(1), Sch. 2 para. 28; S.I. 2026/918, reg. 2(b)(ii)
+[^F160]: Pt. 3A Ch. 4 heading inserted (13.8.2026) by Victims and Courts Act 2026 (c. 19), s. 18(1), Sch. 2 para. 28; S.I. 2026/918, reg. 2(b)(ii)
+[^F161]: S. 45 cross-heading omitted (13.8.2026) by virtue of Victims and Courts Act 2026 (c. 19), s. 18(1), Sch. 2 para. 29; S.I. 2026/918, reg. 2(b)(ii)
+[^F162]: S. 45 title substituted (3.11.2008) by virtue of Mental Health Act 2007 (c. 12), ss. 48, 56(1), Sch. 6 para. 16(1) (with s. 50(8)-(13)); S.I. 2008/1900, arts. 1(1), 2(o) (with art. 3, Sch.)
+[^F163]: Words in s. 45(1) substituted (13.8.2026 for specified purposes) by Victims and Courts Act 2026 (c. 19), s. 18(1), Sch. 2 para. 30(2)(a); S.I. 2026/918, reg. 2(b)(v)
+[^F164]: Words in s. 45(1) substituted (3.11.2008) by Mental Health Act 2007 (c. 12), ss. 48, 56(1), Sch. 6 para. 16(2)(a) (with s. 50(8)-(13)); S.I. 2008/1900, arts. 1(1), 2(o) (with art. 3, Sch.)
+[^F165]: S. 45(1): definition of "community treatment order" inserted (3.11.2008) by Mental Health Act 2007 (c. 12), ss. 48, 56(1), Sch. 6 para. 16(2)(b) (with s. 50(8)-(13)); S.I. 2008/1900, arts. 1(1), 2(o) (with art. 3, Sch.)
+[^F166]: Words in s. 45(1) substituted (28.3.2009 for certain purposes, otherwise 31.10.2009) by Armed Forces Act 2006 (c. 52), ss. 378(1), 383(2), Sch. 16 para. 239; S.I. 2009/812, art. 3; S.I. 2009/ 1167, {art. 4} (and see transitional provisions in S.I. 2009/1059)
+[^F167]: Words in s. 45(1) inserted (13.8.2026 for specified purposes) by Victims and Courts Act 2026 (c. 19), s. 18(1), Sch. 2 para. 30(2)(c); S.I. 2026/918, reg. 2(b)(v)
+[^F168]: Words in s. 45(1) omitted (13.8.2026 for specified purposes) by virtue of Victims and Courts Act 2026 (c. 19), s. 18(1), Sch. 2 para. 30(2)(b); S.I. 2026/918, reg. 2(b)(v)
+[^F169]: S. 45(1): definition of "the managers" inserted (3.11.2008) by Mental Health Act 2007 (c. 12), ss. 48, 56(1), Sch. 6 para. 16(2)(b) (with s. 50(8)-(13)); S.I. 2008/1900, arts. 1(1), 2(o) (with art. 3, Sch.)
+[^F170]: Words in s. 45(1) substituted (1.12.2020) by Sentencing Act 2020 (c. 17), s. 416(1), Sch. 24 para. 252(2)(a) (with Sch. 24 para. 447, Sch. 27); S.I. 2020/1236, reg. 2
+[^F171]: Words in s. 45(1) inserted (30.4.2021) by Counter-Terrorism and Sentencing Act 2021 (c. 11), s. 50(1)(i), Sch. 13 para. 22
+[^F172]: S. 45(1): definition of "responsible clinician" inserted (3.11.2008) by Mental Health Act 2007 (c. 12), ss. 48, 56(1), Sch. 6 para. 16(2)(b) (with s. 50(8)-(13)); S.I. 2008/1900, arts. 1(1), 2(o) (with art. 3, Sch.)
+[^F173]: S. 45(1): definition of "responsible hospital" inserted (3.11.2008) by Mental Health Act 2007 (c. 12), ss. 48, 56(1), Sch. 6 para. 16(2)(b) (with s. 50(8)-(13)); S.I. 2008/1900, arts. 1(1), 2(o) (with art. 3, Sch.)
+[^F174]: Words in s. 45(1) substituted (1.12.2020) by Sentencing Act 2020 (c. 17), s. 416(1), Sch. 24 para. 252(2)(b) (with Sch. 24 para. 447, Sch. 27); S.I. 2020/1236, reg. 2
+[^F175]: S. 45(1A) inserted (13.8.2026 for specified purposes) by Victims and Courts Act 2026 (c. 19), s. 18(1), Sch. 2 para. 30(3); S.I. 2026/918, reg. 2(b)(v)
+[^F176]: Words in s. 45(2) substituted (3.11.2008) by Mental Health Act 2007 (c. 12), ss. 48, 56(1), Sch. 6 para. 16(3) (with s. 50(8)-(13)); S.I. 2008/1900, arts. 1(1), 2(o) (with art. 3, Sch.)
+[^F177]: Words in s. 45(2) substituted (12.4.2019) by Counter-Terrorism and Border Security Act 2019 (c. 3), s. 27(3), Sch. 4 para. 10(e) (with s. 25(3)(4))
+[^F178]: Words in s. 45(2)(a) substituted (1.12.2020) by Sentencing Act 2020 (c. 17), s. 416(1), Sch. 24 para. 252(3) (with Sch. 24 para. 447, Sch. 27); S.I. 2020/1236, reg. 2
+[^F179]: S. 45(3)(4) inserted (3.11.2008) by Mental Health Act 2007 (c. 12), ss. 48, 56(1), Sch. 6 para. 16(4) (with s. 50(8)-(13)); S.I. 2008/1900, arts. 1(1), 2(o) (with art. 3, Sch.)
+[^F180]: Pt. 3B heading inserted (13.8.2026) by Victims and Courts Act 2026 (c. 19), s. 18(1), Sch. 2 para. 2(3); S.I. 2026/918, reg. 2(b)(ii)
+[^F181]: Words in s. 48 inserted (22.8.2007) by The Secretary of State for Justice Order 2007 (S.I. 2007/2128), arts. 1(2), 8, Sch. para. 10(2)
+[^F182]: Words in s. 48 substituted (22.8.2007) by The Secretary of State for Justice Order 2007 (S.I. 2007/2128), arts. 1(2), 8, Sch. para. 10(3)
+[^F183]: S. 48(3)-(5) repealed (immediately before 1.2.2010) by Coroners and Justice Act 2009 (c. 25), ss. 142(2)(a), 178, 182(5), Sch. 23 Pt. 5 (with s. 180); S.I. 2010/145, art. 2(1)
+[^F184]: S. 48(6)(7) substituted (immediately before 1.2.2010) for s. 48(6) by Coroners and Justice Act 2009 (c. 25), ss. 142(2)(b), 182(5) (with s. 180); S.I. 2010/145, art. 2(1)(a)
+[^F185]: Words in s. 49 inserted (22.8.2007) by The Secretary of State for Justice Order 2007 (S.I. 2007/2128), arts. 1(2), 8, Sch. para. 10(2)
+[^F186]: Words in s. 49(2)(c) inserted (29.1.2025) by Victims and Prisoners Act 2024 (c. 21), ss. 22(2)(b), 81(2) (with s. 32); S.I. 2025/95, reg. 2(d)
+[^F187]: S. 49(2)(d) repealed (immediately before 1.2.2010) by Coroners and Justice Act 2009 (c. 25), ss. 142(3)(a), 178, 182(5), Sch. 23 Pt. 5 (with s. 180); S.I. 2010/145, art. 2(1)
+[^F188]: Words in s. 49 substituted (22.8.2007) by The Secretary of State for Justice Order 2007 (S.I. 2007/2128), arts. 1(2), 8, Sch. para. 10(3)
+[^F189]: S. 49(3)(b) repealed (immediately before 1.2.2010) by Coroners and Justice Act 2009 (c. 25), ss. 142(3)(b), 178, 182(5), Sch. 23 Pt. 5 (with s. 180); S.I. 2010/145, art. 2(1)
+[^F190]: S. 49(4)-(7) added (immediately before 1.2.2010) by Coroners and Justice Act 2009 (c. 25), ss. 142(3)(c), 182(5) (with s. 180); S.I. 2010/145, art. 2(1)(a)
+[^F191]: S. 49(4A) inserted (29.1.2025) by Victims and Prisoners Act 2024 (c. 21), ss. 22(2)(c), 81(2) (with s. 32); S.I. 2025/95, reg. 2(d)
+[^F192]: S. 49(5A) inserted (29.1.2025) by Victims and Prisoners Act 2024 (c. 21), ss. 22(2)(d), 81(2) (with s. 32); S.I. 2025/95, reg. 2(d)
+[^F193]: S. 49A inserted (29.1.2025) by Victims and Prisoners Act 2024 (c. 21), ss. 22(3), 81(2) (with s. 32); S.I. 2025/95, reg. 2(d)
+[^F194]: S. 50(2) repealed (immediately before 1.2.2010) by Coroners and Justice Act 2009 (c. 25), ss. 142(4), 178, 182(5), Sch. 23 Pt. 5 (with s. 180); S.I. 2010/145, art. 2(1)
+[^F195]: S. 51A inserted (29.1.2025) by Victims and Prisoners Act 2024 (c. 21), ss. 22(4), 81(2) (with s. 32); S.I. 2025/95, reg. 2(d)
+[^F196]: Words in s. 52(3)(a) substituted (29.1.2025) by Victims and Prisoners Act 2024 (c. 21), ss. 1(6), 81(2) (with s. 32); S.I. 2025/95, reg. 2(a)
+[^F197]: Words in s. 53 inserted (22.8.2007) by The Secretary of State for Justice Order 2007 (S.I. 2007/2128), arts. 1(2), 8, Sch. para. 10(2)
+[^F198]: Words in s. 53 substituted (22.8.2007) by The Secretary of State for Justice Order 2007 (S.I. 2007/2128), arts. 1(2), 8, Sch. para. 10(3)
+[^F199]: S. 54(3)(ba) inserted (1.4.2008) by The Offender Management Act 2007 (Consequential Amendments) Order 2008 (S.I. 2008/912), arts. 1, 3, Sch. 1 para. 20(13)
+[^F200]: Words in s. 54 inserted (22.8.2007) by The Secretary of State for Justice Order 2007 (S.I. 2007/2128), arts. 1(2), 8, Sch. para. 10(2)
+[^F201]: Words in s. 54 substituted (22.8.2007) by The Secretary of State for Justice Order 2007 (S.I. 2007/2128), arts. 1(2), 8, Sch. para. 10(3)
+[^F202]: Words in s. 54(7) substituted (25.5.2018) by Data Protection Act 2018 (c. 12), s. 212(1), Sch. 19 para. 103(2) (with ss. 117, 209, 210); S.I. 2018/625, reg. 2(1)(g)
+[^F203]: S. 54(9) inserted (25.5.2018) by Data Protection Act 2018 (c. 12), s. 212(1), Sch. 19 para. 103(3) (with ss. 117, 209, 210); S.I. 2018/625, reg. 2(1)(g)
+[^F204]: S. 55 and cross-heading repealed (5.11.2013) by The Public Bodies (Abolition of Victims' Advisory Panel) Order 2013 (S.I. 2013/2853), arts. 1(2), 2(2)(b)
+[^F205]: S. 56(3) inserted (12.4.2010) by The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976), arts. 1(2), 12, Sch. 14 para. 87 (with arts. 28-31); S.I. 2010/977, art. 1(2)
+[^F206]: Words in s. 61(2) inserted (12.4.2010) by The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976), arts. 1(2), 12, Sch. 14 para. 88(2) (with arts. 28-31); S.I. 2010/977, art. 1(2)
+[^F207]: Word in s. 61(3) substituted (15.9.2026) by Victims and Prisoners Act 2024 (c. 21), ss. 19(4), 81(2) (with s. 32); S.I. 2026/1009, reg. 2
+[^F208]: S. 61(5)(6) inserted (12.4.2010) by The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976), arts. 1(2), 12, Sch. 14 para. 88(3) (with arts. 28-31); S.I. 2010/977, art. 1(2)
+[^M1]: S.I. 1979/1573 (N.I. 12).
+[^M2]: 1954 c. 33 (N.I.).
+[^F209]: S. 62(4) substituted (28.3.2009 for certain purposes, otherwise 31.10.2009) by Armed Forces Act 2006 (c. 52), ss. 378(1), 383(2), Sch. 16 para. 240; S.I. 2009/812, art. 3; S.I. 2009/1167, art. 4 (and see transitional provisions in S.I. 2009/1059)
+[^F210]: Words in s. 62(4) inserted (2.7.2012) by Domestic Violence, Crime and Victims (Amendment) Act 2012 (c. 4), s. 4(2), Sch. para. 10; S.I. 2012/1432, art. 2
+[^F211]: Sch. 1 para. 1: in s. 18A (as it applies to Northern Ireland), words in subsection (7) substituted (12.4.2010) by The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976), arts. 1(2), 12, Sch. 14 para. 86(2) (with arts. 28-31); S.I. 2010/977, art. 1(2)
+[^F212]: Sch. 1 para. 1: in s. 18A (as it applies to Northern Ireland), subsection (8) omitted (12.4.2010) by virtue of The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976), arts. 1(2), 12, Sch. 14 para. 86(2) (with arts. 28-31); S.I. 2010/977, art. 1(2)
+[^F213]: Sch. 3 paras. 1-5 repealed (28.3.2009 for certain purposes, otherwise 31.10.2009) by Armed Forces Act 2006 (c. 52), ss. 378(2), 383(2), Sch. 17; S.I. 2009/812, art. 3; S.I. 2009/1167, art. 4 (and see transitional provisions in S.I. 2009/1059)
+[^F214]: Sch. 3 paras. 1-5 repealed (28.3.2009 for certain purposes, otherwise 31.10.2009) by Armed Forces Act 2006 (c. 52), ss. 378(2), 383(2), Sch. 17; S.I. 2009/812, art. 3; S.I. 2009/1167, art. 4 (and see transitional provisions in S.I. 2009/1059)
+[^F215]: Sch. 3 paras. 1-5 repealed (28.3.2009 for certain purposes, otherwise 31.10.2009) by Armed Forces Act 2006 (c. 52), ss. 378(2), 383(2), Sch. 17; S.I. 2009/812, art. 3; S.I. 2009/1167, art. 4 (and see transitional provisions in S.I. 2009/1059)
+[^F216]: Sch. 3 paras. 1-5 repealed (28.3.2009 for certain purposes, otherwise 31.10.2009) by Armed Forces Act 2006 (c. 52), ss. 378(2), 383(2), Sch. 17; S.I. 2009/812, art. 3; S.I. 2009/1167, art. 4 (and see transitional provisions in S.I. 2009/1059)
+[^F217]: Sch. 3 paras. 1-5 repealed (28.3.2009 for certain purposes, otherwise 31.10.2009) by Armed Forces Act 2006 (c. 52), ss. 378(2), 383(2), Sch. 17; S.I. 2009/812, art. 3; S.I. 2009/1167, art. 4 (and see transitional provisions in S.I. 2009/1059)
+[^F218]: Sch. 3 para. 9 repealed (28.3.2009 for certain purposes, otherwise 31.10.2009) by Armed Forces Act 2006 (c. 52), ss. 378(2), 383(2), Sch. 17; S.I. 2009/812, art. 3; S.I. 2009/1167, art. 4 (and see transitional provisions in S.I. 2009/1059)
+[^F219]: Sch. 3 para. 10 repealed (28.3.2009 for certain purposes, otherwise 31.10.2009) by Armed Forces Act 2006 (c. 52), ss. 378(2), 383(2), Sch. 17; S.I. 2009/812, art. 3; S.I. 2009/1167, art. 4 (and see transitional provisions in S.I. 2009/1059)
+[^F220]: Sch. 3 para. 14(3) repealed (28.3.2009 for certain purposes, otherwise 31.10.2009) by Armed Forces Act 2006 (c. 52), ss. 378(2), 383(2), Sch. 17; S.I. 2009/812, art. 3; S.I. 2009/1167, art. 4 (and see transitional provisions in S.I. 2009/1059)
+[^F221]: Sch. 3 para. 15 repealed (28.3.2009 for certain purposes, otherwise 31.10.2009) by Armed Forces Act 2006 (c. 52), ss. 378(2), 383(2), Sch. 17; S.I. 2009/812, art. 3; S.I. 2009/1167, art. 4 (and see transitional provisions in S.I. 2009/1059)
+[^F222]: Sch. 5 para. 2 repealed (1.12.2020) by Sentencing Act 2020 (c. 17), s. 416(1), Sch. 28 (with ss. 413(4)(5), 416(7), Sch. 27); S.I. 2020/1236, reg. 2 (see also Sentencing (Pre-consolidation Amendments) Act 2020 (c. 9), ss. 1, 5(2)(3))
+[^F223]: Words in Sch. 5 para. 3(2) substituted (1.4.2005) by The Courts Act 2003 (Consequential Provisions) Order 2005 (S.I. 2005/886), arts, 1, 2, {Sch. para. 113(b)(i)}
+[^F224]: Words in Sch. 5 para. 3(3) substituted (1.4.2005) by The Courts Act 2003 (Consequential Provisions) Order 2005 (S.I. 2005/886), arts, 1, 2, {Sch. para. 113(b)(ii)}
+[^F225]: Words in Sch. 5 para. 3(3) substituted (1.4.2005) by The Courts Act 2003 (Consequential Provisions) Order 2005 (S.I. 2005/886), arts, 1, 2, {Sch. para. 113(b)(ii)}
+[^F226]: Words in Sch. 5 para. 3(4) substituted (1.4.2005) by The Courts Act 2003 (Consequential Provisions) Order 2005 (S.I. 2005/886), arts, 1, 2, {Sch. para. 113(b)(iii)}
+[^F227]: Words in Sch. 5 para. 4 substituted (1.4.2005) by The Courts Act 2003 (Consequential Provisions) Order 2005 (S.I. 2005/886), arts, 1, 2, {Sch. para. 113(c)}
+[^F228]: Words in Sch. 5 para. 5 substituted (1.4.2005) by The Courts Act 2003 (Consequential Provisions) Order 2005 (S.I. 2005/886), arts, 1, 2, {Sch. para. 113(c)}
+[^F229]: Words in Sch. 5 para. 6(2) substituted (1.4.2005) by The Courts Act 2003 (Consequential Provisions) Order 2005 (S.I. 2005/886), arts, 1, 2, {Sch. para. 113(d)(i)}
+[^F230]: Words in Sch. 5 para. 6(2) substituted (1.4.2005) by The Courts Act 2003 (Consequential Provisions) Order 2005 (S.I. 2005/886), arts, 1, 2, {Sch. para. 113(d)(i)}
+[^F231]: Words in Sch. 5 para. 6(3) substituted (1.4.2005) by The Courts Act 2003 (Consequential Provisions) Order 2005 (S.I. 2005/886), arts, 1, 2, {Sch. para. 113(d)(ii)}
+[^F232]: Sch. 5 paras. 7-9 repealed (1.12.2020) by Sentencing Act 2020 (c. 17), s. 416(1), Sch. 28 (with ss. 413(4)(5), 416(7), Sch. 27); S.I. 2020/1236, reg. 2 (see also Sentencing (Pre-consolidation Amendments) Act 2020 (c. 9), ss. 1, 5(2)(3))
+[^F233]: Sch. 6 omitted (3.12.2012) by virtue of Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10), s. 151(1), Sch. 10 para. 40(2); S.I. 2012/2906, art. 2(h)
+[^F234]: Sch. 8 repealed (immediately before 1.2.2010) by Coroners and Justice Act 2009 (c. 25), ss. 142(6), 178, 182(5), Sch. 23 Pt. 5 (with s. 180); S.I. 2010/145, art. 2(1)
+[^F235]: Sch. 9 para. 1 substituted (29.1.2025) for Sch. 9 paras 1VA - 8B by Victims and Prisoners Act 2024 (c. 21), ss. 22(5)(a), 81(2) (with s. 32); S.I. 2025/95, reg. 2(d)
+[^F236]: Sch. 9 para. 9 repealed (immediately before 1.2.2010) by Coroners and Justice Act 2009 (c. 25), ss. 178, 182(5), Sch. 23 Pt. 5 (with s. 180); S.I. 2010/145, art. 2(1)(c)(iv)
+[^F237]: Sch. 9 para. 11A inserted (29.1.2025) by Victims and Prisoners Act 2024 (c. 21), ss. 22(5)(b), 81(2) (with s. 32); S.I. 2025/95, reg. 2(d)
+[^F238]: Sch. 9 para. 13 substituted (1.4.2006) for Sch. 9 paras. 13, 14 by Serious Organised Crime and Police Act 2005 (c. 15), ss. 59, 178(8), Sch. 4 para. 200; S.I. 2006/378, art. 4(1), Sch. para. 10 (subject to art. 4(2)-(7))
+[^F239]: Words in Sch. 9 para. 13 substituted (7.10.2013) by Crime and Courts Act 2013 (c. 22), s. 61(2), Sch. 8 para. 186; S.I. 2013/1682, art. 3(v)
+[^F240]: Sch. 4 para. 13 substituted (1.4.2006) for Sch. 4 paras. 13, 14 by Serious Organised Crime and Police Act 2005 (c. 15), ss. 59, 178, Sch. 4 para. 200; S.I. 2006/378, art. 4(1), Sch. para. 10 (subject to art. 4(2)-(7))
+[^F241]: Sch. 9 para. 16A inserted (29.1.2025) by Victims and Prisoners Act 2024 (c. 21), ss. 22(5)(c), 81(2) (with s. 32); S.I. 2025/95, reg. 2(d)
+[^F242]: Words in Sch. 9 para. 17 substituted (3.11.2008) by The Transfer of Tribunal Functions Order 2008 (S.I. 2008/2833), arts. 1(1), 9(1), Sch. 3 para. 215
+[^F243]: Sch. 9 para. 19 omitted (1.4.2008) by virtue of The Legislative Reform (Health and Safety Executive) Order 2008 (S.I. 2008/960), arts. 1, 22, Sch. 3
+[^F244]: Sch. 9 para. 20A inserted (1.4.2014) by The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469), art. 1(2), Sch. 2 para. 23 (with Sch. 4)
+[^F245]: Sch. 9 para. 21 omitted (1.4.2013) by virtue of Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10), s. 151(1), Sch. 5 para. 66; S.I. 2013/453, art. 3(h) (with savings and transitional provisions in S.I. 2013/534, art. 6)
+[^F246]: Sch. 9 para. 25A inserted (1.4.2008) by The Offender Management Act 2007 (Consequential Amendments) Order 2008 (S.I. 2008/912), arts. 1, 3, Sch. 1 para. 20(14)
+[^F247]: Sch. 9 paras. 29A-29C inserted (29.1.2025) by Victims and Prisoners Act 2024 (c. 21), ss. 22(5)(d), 81(2) (with s. 32); S.I. 2025/95, reg. 2(d)
+[^F248]: Sch. 10 para. 24 repealed (1.1.2006) by Serious Organised Crime and Police Act 2005 (c. 15), ss. 174, 178(8), Sch. 17 Pt. 2; S.I. 2005/3495, art. 2(u)(lviii)
+[^F249]: Sch. 10 para. 29 repealed (1.3.2007) by The Police and Criminal Evidence (Amendment) (Northern Ireland) Order 2007 (S.I. 2007/288) (N.I. 2), arts. 1(2), 41(2), Sch. 2
+[^F250]: Sch. 10 para. 43 repealed (1.12.2020) by Sentencing Act 2020 (c. 17), s. 416(1), Sch. 28 (with ss. 413(4)(5), 416(7), Sch. 27); S.I. 2020/1236, reg. 2 (see also Sentencing (Pre-consolidation Amendments) Act 2020 (c. 9), ss. 1, 5(2)(3))
+[^F251]: Sch. 10 para. 46 omitted (3.12.2012) by virtue of Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10), s. 151(1), Sch. 16 para. 18; S.I. 2012/2906, art. 2(n)
+[^F252]: Sch. 10 paras. 49-52 repealed (1.12.2020) by Sentencing Act 2020 (c. 17), s. 416(1), Sch. 28 (with ss. 413(4)(5), 416(7), Sch. 27); S.I. 2020/1236, reg. 2 (see also Sentencing (Pre-consolidation Amendments) Act 2020 (c. 9), ss. 1, 5(2)(3))
+[^F253]: Sch. 10 para. 63 repealed (1.12.2020) by Sentencing Act 2020 (c. 17), s. 416(1), Sch. 28 (with ss. 413(4)(5), 416(7), Sch. 27); S.I. 2020/1236, reg. 2 (see also Sentencing (Pre-consolidation Amendments) Act 2020 (c. 9), ss. 1, 5(2)(3))
+[^F254]: Sch. 10 para. 64 repealed (1.12.2020) by Sentencing Act 2020 (c. 17), s. 416(1), Sch. 28 (with ss. 413(5), 416(7), Sch. 27); S.I. 2020/1236, reg. 2 (see also Sentencing (Pre-consolidation Amendments) Act 2020 (c. 9), ss. 1, 5(2)(3))
+[^F255]: Sch. 11: words substituted (1.10.2009) wherever they occur in Act by Constitutional Reform Act 2005 (c. 4), ss. 59, 148, Sch. 11 para. 1(2); S.I. 2009/1604, art. 2(d)
+[^F256]: Words in Sch. 11 omitted (3.12.2012) by virtue of Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10), s. 151(1), Sch. 10 para. 40(3); S.I. 2012/2906, art. 2(h)
+[^F257]: Words in Sch. 12 para. 1(2) substituted (28.4.2022) by The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500), regs. 1(2), 5(1), Sch. Pt. 1
+[^F258]: Words in Sch. 12 para. 1(2) substituted (7.2.2023 at 12.00 p.m.) by The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149), regs. 1(2), 2(1), Sch. Pt. 1
+[^F259]: Sch. 12 para. 7 repealed (1.12.2020) by Sentencing Act 2020 (c. 17), s. 416(1), Sch. 28 (with ss. 413(4)(5), 416(7), Sch. 27); S.I. 2020/1236, reg. 2 (see also Sentencing (Pre-consolidation Amendments) Act 2020 (c. 9), ss. 1, 5(2)(3))

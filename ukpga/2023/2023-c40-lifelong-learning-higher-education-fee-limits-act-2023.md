@@ -1,0 +1,369 @@
+---
+title: "Lifelong Learning (Higher Education Fee Limits) Act 2023"
+identifier: "ukpga/2023/40"
+citation: "2023 Chapter 40"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W"
+date: 2023-09-18
+last_amended: 2026-09-01
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/2023/40"
+source_modified: 2026-09-01
+retrieved: 2026-10-11
+---
+
+# Lifelong Learning (Higher Education Fee Limits) Act 2023
+
+**2023 Chapter 40**
+
+An Act to make provision about the determination of the fee limit for higher education courses provided by registered English higher education providers subject to a fee limit condition; and for connected purposes.
+
+[18th September 2023]
+
+Be it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## 1 New method for determining fee limit
+
+(1) The Higher Education and Research Act 2017 is amended as follows.
+
+(2) In section 10 (fee limit condition)—
+
+(a) in subsection (3), for paragraph (b) substitute—
+
+> (b) in respect of so much of the course as is undertaken during a regulated course year of that course.
+
+;
+
+(b) before subsection (8) insert—
+
+> (7B) A “course year”, in relation to a qualifying course, means—
+>
+> (a) the period of 12 months beginning with the first day of the month in which the course begins, and
+>
+> (b) each subsequent period of 12 months (if any) in which part of the course is undertaken;
+>
+> and a course year is a “regulated course year” if it begins at the same time as, or while, the provider of the course is registered in the register.
+>
+> (7C) Regulated course fees “exceed the fee limit” if they exceed the fee limit applicable to the regulated course year in question (see subsection (3)(b)).
+
+(3) The remaining subsections amend Schedule 2 (fee limit for purposes of fee limit condition).
+
+(4) For paragraph 1 substitute—
+
+> **1** (1) This Schedule provides for the determination of the fee limit, for the purposes of a fee limit condition, applicable to a course year of a qualifying course.
+>
+> (2) There are two methods of determining the fee limit: the credit-based method (see paragraphs 1A to 1G) and the fixed method (see paragraph 1H).
+>
+> (3) Which method is to be used in a given case is to be determined by regulations made by the Secretary of State.
+>
+> **The credit-based method: basic concepts**
+>
+> **1A** (1) For the purposes of this Schedule, “credits” are units used to signify the total amount of learning time that a student would ordinarily be expected to spend in order to complete a particular course or part of a course.
+>
+> (2) “Learning time” means time spent in any form of study, learning or assessment.
+>
+> **The credit-based method: attachment of credits**
+>
+> **1B** (1) Regulations must, in relation to each course year for which the credit-based method is to be used, make provision about the circumstances in which the course year is to be regarded as having a number of credits attached to it for the purposes of paragraphs 1D and 1E.
+>
+> (2) Such regulations may, for instance, provide that the course year is to be regarded as having a number of credits attached to it if—
+>
+> (a) that number of credits is notified in relation to the year by the provider of the course to a particular person by a particular date;
+>
+> (b) in arriving at that number, a particular number of credits is used by the provider to denote each hour of learning time.
+>
+> (3) Regulations may, in relation to a course year for which the credit-based method is to be used—
+>
+> (a) provide for a particular description of activity to be undertaken during the course year to be “credit-differentiated activity”, and
+>
+> (b) make provision about the circumstances in which a number of credits, out of those that are regarded as attached to the course year, are to be further regarded as attached to the credit-differentiated activity.
+>
+> (4) Credits are not to be regarded for the purposes of paragraphs 1D and 1E as attached to a course year, or to activity undertaken during a course year, except by virtue of regulations under sub-paragraph (1) or (3).
+>
+> **The credit-based method: maxima and defaults**
+>
+> **1C** (1) Regulations must, in relation to each course year for which the credit-based method is to be used, specify or provide for the determination of—
+>
+> (a) a maximum number of credits for the course year, and
+>
+> (b) a default number of credits for the course year (which may not exceed the maximum number).
+>
+> (2) Sub-paragraphs (3) and (4) apply in relation to a course year that includes credit-differentiated activity.
+>
+> (3) Regulations must specify or provide for the determination of—
+>
+> (a) a maximum number of credits, and
+>
+> (b) a default number of credits (which may not exceed the maximum number),
+>
+> for each credit-differentiated activity to be undertaken during the course year.
+>
+> (4) In relation to a given course year—
+>
+> (a) the total of those maximum numbers must not exceed the maximum number of credits for the course year, and
+>
+> (b) the total of those default numbers must not exceed the default number of credits for the course year.
+>
+> (5) This paragraph does not apply in relation to qualifying courses that are modules.
+>
+> **The credit-based method: fee limit where credits attached**
+>
+> **1D** (1) If—
+>
+> (a) the credit-based method is to be used for a course year, and
+>
+> (b) credits are attached to the course year,
+>
+> the fee limit is to be determined in accordance with this paragraph.
+>
+> (2) Unless the course year includes credit-differentiated activity to which credits are attached, the fee limit is the amount produced by multiplying the chargeable number of credits for the course year by the per-credit limit.
+>
+> (3) For the purposes of sub-paragraph (2), the chargeable number of credits is—
+>
+> (a) the number of credits attached to the course year, or
+>
+> (b) if fewer, the maximum number of credits for the course year (see paragraph 1C(1)(a)).
+>
+> (4) If the course year includes credit-differentiated activity to which credits are attached, the fee limit is the amount produced by—
+>
+> (a) for each such activity, multiplying the chargeable number of credits by the per-credit limit, and
+>
+> (b) adding together the sums arrived at under paragraph (a).
+>
+> (5) For the purposes of sub-paragraph (4)(a), the chargeable number of credits is—
+>
+> (a) the number of credits attached to the activity, or
+>
+> (b) if fewer, the maximum number of credits for the activity (see paragraph 1C(3)(a)).
+>
+> (6) In relation to a qualifying course that is a module—
+>
+> (a) sub-paragraphs (2) and (4) do not apply, and
+>
+> (b) the fee limit is the amount produced by multiplying the number of credits attached to the course year by the per-credit limit.
+>
+> (7) The “per-credit limit” is the per-credit limit determined in accordance with paragraphs 1I to 3.
+>
+> **The credit-based method: fee limit where credits not attached**
+>
+> **1E** (1) If—
+>
+> (a) the credit-based method is to be used for a course year, but
+>
+> (b) credits are not attached to the course year,
+>
+> the fee limit is to be determined in accordance with this paragraph.
+>
+> (2) Unless the course year includes credit-differentiated activity, the fee limit is the amount produced by multiplying the default number of credits for the course year (see paragraph 1C(1)(b)) by the per-credit limit.
+>
+> (3) If the course year includes credit-differentiated activity, the fee limit is the amount produced by—
+>
+> (a) for each such activity, multiplying the default number of credits (see paragraph 1C(3)(b)) by the per-credit limit, and
+>
+> (b) adding together the sums arrived at under paragraph (a).
+>
+> (4) The “per-credit limit” is the per-credit limit determined in accordance with paragraphs 1I to 3.
+>
+> **The credit-based method: adjustments for transfer cases**
+>
+> **1F** (1) Regulations may provide, in relation to transfer cases, for a reduction in—
+>
+> (a) the chargeable number of credits for the purposes of paragraph 1D(2) or (4)(a), or
+>
+> (b) the default number of credits for the purposes of paragraph 1E(2) or (3)(a).
+>
+> (2) “Transfer cases” are cases in which a provider relieves a student of the need to undertake part of a course because of activity undertaken by the student other than as part of that course.
+>
+> **The credit-based method: supplementary**
+>
+> **1G** (1) Regulations under paragraph 1B, 1C or 1F are to be made by the Secretary of State.
+>
+> (2) Such regulations may refer to matters determined or published by the Secretary of State or other persons (whether before or after the regulations are made).
+>
+> (3) If the fee limit determined in accordance with paragraphs 1D and 1E would, apart from this sub-paragraph, be an amount including a fraction of a penny, the fraction is to be disregarded.
+>
+> **The fixed method**
+>
+> **1H** Under the fixed method, the fee limit is the fixed limit determined in accordance with paragraphs 1I to 3.
+>
+> **Determination of the per-credit and fixed limits**
+>
+> **1I** (1) Paragraphs 2 and 3 apply for the purposes of determining both—
+>
+> (a) the per-credit limit (for the purposes of the credit-based method), and
+>
+> (b) the fixed limit (for the purposes of the fixed method).
+>
+> (2) References in those paragraphs to “the relevant limit” are to be read accordingly.
+>
+> (3) References in those paragraphs to “the course year” are to the course year in respect of which the fee limit is being determined.
+>
+> (4) Where an amount is prescribed or determined under either paragraph, the regulations or determination must specify whether the amount is prescribed or determined for the purposes of the per-credit limit or the fixed limit.
+>
+> (5) The power for regulations to prescribe different amounts for different cases or purposes by virtue of section 119(5)(a) includes power for regulations under paragraph 2 or 3 to prescribe different per-credit limits in respect of different credit-differentiated activity.
+
+(5) In the italic heading before paragraph 2, for “The fee limit” substitute “Limits”.
+
+(6) In paragraph 2 (fee limit with access and participation plan)—
+
+(a) in sub-paragraph (1), for “relevant academic” substitute “course”;
+
+(b) in sub-paragraph (2), in paragraphs (a) and (b)—
+
+(i) for “fee” substitute “relevant”;
+
+(ii) omit “for the relevant course and for the relevant academic year”.
+
+(7) In the italic heading before paragraph 3, for “The fee limit” substitute “Limits”.
+
+(8) In paragraph 3 (fee limit without access and participation plan)—
+
+(a) in sub-paragraph (1), for “relevant academic” substitute “course”;
+
+(b) in sub-paragraph (2), in paragraphs (a) and (b), for “fee” substitute “relevant”;
+
+(c) in sub-paragraph (3), for “relevant academic” substitute “course”.
+
+## 2 Related amendments
+
+(1) The Higher Education and Research Act 2017 is amended as follows.
+
+(2) In section 10 (fee limit condition)—
+
+(a) after subsection (3) insert—
+
+> (3A) The reference in subsection (3) to fees payable to the provider includes fees payable to any other institution or person who, under arrangements with the provider, participates in the provision of the qualifying course.
+
+;
+
+(b) after subsection (6) insert—
+
+> (6A) A module that falls within a description prescribed under subsection (6) is not to be treated as a qualifying course in relation to a course year of the module if—
+>
+> (a) the fee limit applicable to the course year would be determined by the credit-based method (see paragraph 1 of Schedule 2), but
+>
+> (b) credits are not to be regarded as attached to the course year for the purposes of paragraphs 1D and 1E of Schedule 2.
+
+;
+
+(c) after subsection (7) insert—
+
+> (7A) Subsection (7) does not prevent regulations under subsection (6) from treating courses differently according to whether, or how, regulations under section 22 of the Teaching and Higher Education Act 1998 apply in relation to them.
+
+(3) In section 11 (published list of fee limits)—
+
+(a) in subsection (1), omit paragraph (b) (and the “and” immediately before it);
+
+(b) after subsection (1) insert—
+
+> (1A) The list must include the following information—
+>
+> (a) in respect of each provider on the list, the qualifying courses that the OfS expects the provider to provide in the calendar year after that in which the list is published (“the next calendar year”),
+>
+> (b) in respect of each such course, whether the fee limit applicable to a course year beginning in the next calendar year will be determined by the credit-based method or the fixed method,
+>
+> (c) in respect of each such course for which the credit-based method will be used, what the applicable per-credit limit or limits will be in respect of a course year beginning in the next calendar year, and
+>
+> (d) in respect of each such course for which the fixed method will be used, what the fixed limit will be in respect of a course year beginning in the next calendar year.
+>
+> (1B) In subsection (1A)(c), “the applicable per-credit limit or limits” means—
+>
+> (a) if the course year is to include credit-differentiated activity (see paragraph 1B(3) of Schedule 2), the per-credit limit for each such activity;
+>
+> (b) otherwise, the per-credit limit.
+
+;
+
+(c) for subsection (2) substitute—
+
+> (2) In subsections (1) to (1B)—
+>
+> (a) “course year”, in relation to a qualifying course, means a course year within the meaning given (in relation to that course) by section 10(7B);
+>
+> (b) “qualifying course” has the same meaning as in section 10;
+>
+> (c) the references to methods of determining the fee limit are to be read in accordance with paragraph 1 of Schedule 2;
+>
+> (d) the references to the per-credit limit and the fixed limit are to those limits as determined in accordance with paragraphs 1I to 3 of that Schedule.
+>
+> (2A) If any of the information mentioned in subsection (1) or (1A) will differ according to when a course year begins, the list must include the information applicable to course years beginning both before and after the relevant date.
+
+(4) In section 31 (provision about fees in access and participation plan)—
+
+(a) for subsection (1) substitute—
+
+> (1) An access and participation plan relating to an institution must, in respect of each relevant course year of a qualifying course, specify or provide for the determination of—
+>
+> (a) the required per-credit limit or limits, in the case of a course year in respect of which the fee limit is to be determined by the credit-based method, and
+>
+> (b) a fixed limit, in the case of a course year in respect of which the fee limit is to be determined by the fixed method.
+>
+> (1A) “The required per-credit limit or limits” means—
+>
+> (a) if the course year is to include credit-differentiated activity (see paragraph 1B(3) of Schedule 2), a per-credit limit for each such activity;
+>
+> (b) otherwise, a per-credit limit.
+
+;
+
+(b) in subsection (2), for “The” substitute “Each”;
+
+(c) after subsection (2) insert—
+
+> (2A) A course year of a qualifying course is a “relevant course year” if—
+>
+> (a) it begins when the plan comes into force or while it is in force, and
+>
+> (b) fees are payable to the institution in respect of so much of the course as is undertaken during the course year.
+>
+> (2B) The references in subsection (1) to methods of determining the fee limit are to be read in accordance with paragraph 1 of Schedule 2.
+
+;
+
+(d) in subsection (3), for the definition of “relevant academic year” substitute—
+
+> - “course year”, in relation to a qualifying course, has the meaning given (in relation to that course) by section 10(7B).
+
+;
+
+(e) after subsection (3) insert—
+
+> (4) The references in this section to fees payable to the institution include fees payable to any other institution or person who, under arrangements with the institution, participates in the provision of the qualifying course.
+
+(5) In section 85(1) (definitions), at the appropriate place insert—
+
+> - “module”, in relation to a course, includes anything that is a “module” in relation to that course for the purposes of section 22 of the Teaching and Higher Education Act 1998 (see, in particular, subsection (2ZA) of that section as treated as inserted by section 28A(1)(e) of that Act);
+
+.
+
+(6) In section 119(2) (regulations subject to affirmative procedure), after paragraph (h) insert—
+
+> (ha) regulations under paragraph 1(3) of Schedule 2 (choice of method for determining fee limit);
+>
+> (hb) regulations under paragraph 1B, 1C or 1F of Schedule 2 (credit-based method for determining fee limit);
+
+.
+
+(7) In paragraph 5 of Schedule 2 (procedure for setting amounts for purposes of fee limit), after sub-paragraph (3) insert—
+
+> (4) In sub-paragraph (2)(b), effect “from a date” includes effect in relation to a course year beginning on or after a date.
+
+## 3 Extent, commencement and short title
+
+(1) This Act extends to England and Wales.
+
+(2) Sections 1 and 2 come into force on such day as the Secretary of State may appoint by regulations.
+
+(3) Different days may be appointed for different purposes.
+
+(4) This section comes into force on the day on which this Act is passed.
+
+(5) The Secretary of State may by regulations make transitional or saving provision in connection with the coming into force of section 1 or 2.
+
+(6) Regulations under this section are to be made by statutory instrument.
+
+(7) This Act may be cited as the Lifelong Learning (Higher Education Fee Limits) Act 2023.

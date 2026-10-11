@@ -1,0 +1,1477 @@
+---
+title: "Nuclear Energy (Financing) Act 2022"
+identifier: "ukpga/2022/15"
+citation: "2022 Chapter 15"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S+N.I."
+date: 2022-03-31
+last_amended: 2022-06-01
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/2022/15"
+source_modified: 2022-07-04
+retrieved: 2026-10-11
+---
+
+# Nuclear Energy (Financing) Act 2022
+
+**2022 Chapter 15**
+
+An Act to make provision for the implementation of a regulated asset base model for nuclear energy generation projects; for revenue collection for the purposes of that model; for a special administration regime for licensees subject to that model; and about the circumstances in which bodies corporate are not associated with site operators for the purposes of programmes relating to funding the decommissioning of nuclear sites.
+
+[31st March 2022]
+
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## PART 1 — Nuclear energy generation projects: regulated asset base model
+
+### Introductory
+
+#### 1 Key definitions for Part 1
+
+(1) This section applies for the purposes of this Part.
+
+(2) “Nuclear company” means a company that holds an electricity generation licence in respect of a nuclear energy generation project.
+
+(3) References to a “designated” nuclear company are to a nuclear company in relation to which a designation under section 2(1) has effect.
+
+(4) A nuclear company is a “relevant licensee nuclear company” if—
+
+(a) the company’s electricity generation licence contains modifications made under section 6(1), and
+
+(b) the company is a party to a revenue collection contract.
+
+(5) “Electricity generation licence” means a licence under section 6(1)(a) of the Electricity Act 1989.
+
+### Designation of nuclear company
+
+#### 2 Designation of nuclear company
+
+(1) The Secretary of State may by notice given to a nuclear company designate the company in relation to a nuclear energy generation project in respect of which the company holds an electricity generation licence (“the nuclear project”).
+
+(2) The Secretary of State may designate a nuclear company under subsection (1) only if the designation criteria are met in relation to the company.
+
+(3) The designation criteria are that—
+
+(a) the Secretary of State is of the opinion that the development of the nuclear project is sufficiently advanced to justify the designation of the nuclear company in relation to the project, and
+
+(b) the Secretary of State is of the opinion that designating the nuclear company in relation to the project is likely to result in value for money.
+
+(4) In this Part, “designation notice” means a notice under subsection (1).
+
+#### 3 Designation: procedure
+
+(1) The Secretary of State must publish a statement setting out—
+
+(a) the procedure that the Secretary of State expects to follow in determining whether to exercise the power under section 2(1), and
+
+(b) how the Secretary of State expects to determine whether the designation criteria mentioned in section 2(3) are met.
+
+(2) Before designating a nuclear company under section 2(1), the Secretary of State must—
+
+(a) prepare draft reasons for the designation, and
+
+(b) consult the persons listed in subsection (3) (including on the draft reasons).
+
+(3) Those persons are—
+
+(a) the nuclear company that the Secretary of State proposes to designate;
+
+(b) the Authority;
+
+(c) the Office for Nuclear Regulation;
+
+(d) where any part of the site for the nuclear project is in England, the Environment Agency;
+
+(e) where any part of the site for the nuclear project is in Wales, the Welsh Ministers and Natural Resources Wales;
+
+(f) where any part of the site for the nuclear project is in Scotland, the Scottish Ministers and the Scottish Environment Protection Agency;
+
+(g) such other persons as the Secretary of State considers appropriate.
+
+(4) A duty imposed by subsection (1) or (2) may be satisfied by things done before the passing of this Act (as well as by things done after that time).
+
+(5) A designation notice must include—
+
+(a) a description of the nuclear project,
+
+(b) the Secretary of State’s reasons for the designation (amended as appropriate in light of consultation under subsection (2)(b)),
+
+(c) details of any conditions imposed by the Secretary of State in relation to the designation and of the consequences of a failure to comply with any such condition, and
+
+(d) the date of the notice.
+
+(6) The Secretary of State must—
+
+(a) publish a designation notice, and
+
+(b) in addition to giving the designation notice to the nuclear company being designated, give a copy of it to the other persons consulted under subsection (2)(b).
+
+#### 4 Expiry of designation
+
+(1) The designation of a nuclear company under section 2(1) ceases to have effect—
+
+(a) on the expiry date, or
+
+(b) if the company enters into a revenue collection contract with a revenue collection counterparty before the expiry date, at the end of the day on which the revenue collection contract is entered into,
+
+unless it ceases to have effect sooner in accordance with section 5(1) or (3).
+
+(2) “The expiry date”, in relation to the designation of a particular nuclear company, is—
+
+(a) the end of the period of 5 years beginning with the date of the designation notice in question, or
+
+(b) where one or more notices under subsection (3) have been given to the company, the end of the day specified in the last such notice.
+
+(3) The Secretary of State may, before the expiry date that for the time being applies in relation to a designated nuclear company, give the company a notice providing that the new expiry date for the company’s designation is a day falling—
+
+(a) after that date, but
+
+(b) not more than 5 years from the date on which the notice is given to the company.
+
+(4) Before giving a notice under subsection (3), the Secretary of State must consult—
+
+(a) the designated nuclear company,
+
+(b) the Authority,
+
+(c) the Office for Nuclear Regulation,
+
+(d) where any part of the site for the nuclear project is in England, the Environment Agency,
+
+(e) where any part of the site for the nuclear project is in Wales, the Welsh Ministers and Natural Resources Wales,
+
+(f) where any part of the site for the nuclear project is in Scotland, the Scottish Ministers and the Scottish Environment Protection Agency, and
+
+(g) such other persons as the Secretary of State considers appropriate.
+
+(5) Where the designation of a nuclear company ceases to have effect in accordance with subsection (1), the Secretary of State must publish details of that fact.
+
+#### 5 Revocation or lapse of designation
+
+(1) The Secretary of State may by notice given to a designated nuclear company revoke the company’s designation under section 2(1) if—
+
+(a) the company ceases to hold an electricity generation licence in respect of the nuclear energy generation project described in the designation notice, or
+
+(b) either of the designation criteria mentioned in section 2(3) ceases to be met in relation to the company.
+
+(2) Section 3(2), (5)(a), (b) and (d) and (6) applies (with necessary modifications) in relation to the revocation under subsection (1) of a nuclear company’s designation under section 2(1) as it applies in relation to the designation of a nuclear company under section 2(1).
+
+(3) The designation of a nuclear company under section 2(1) ceases to have effect if—
+
+(a) by virtue of section 3(5)(c), the designation notice specifies that failure to comply with a particular condition to which the designation is subject will result in the lapse of the designation, and
+
+(b) the Secretary of State gives the nuclear company a notice under this subsection stating that the company has failed to comply with that condition.
+
+(4) Where the Secretary of State gives a notice to a nuclear company under subsection (1) or (3), the designation of the company ceases to have effect at the end of the day on which the notice is given to the company.
+
+(5) The Secretary of State must publish a notice given to a nuclear company under subsection (3).
+
+### Licence modifications
+
+#### 6 Licence modifications: designated nuclear companies
+
+(1) The Secretary of State may modify—
+
+(a) a condition of a nuclear company’s electricity generation licence;
+
+(b) a term of a nuclear company’s electricity generation licence.
+
+(2) The Secretary of State may exercise the power under subsection (1) only for the purpose of facilitating investment in the design, construction, commissioning and operation of nuclear energy generation projects.
+
+(3) The power under subsection (1) may be exercised in relation to a nuclear company only at a time when a designation under section 2(1) has effect in relation to the company.
+
+(4) When exercising the power under subsection (1), the Secretary of State must have regard to—
+
+(a) the duties of the Secretary of State under sections 1 and 4(1)(b) of the Climate Change Act 2008 (carbon targets and budgets);
+
+(b) the interests of existing and future consumers of electricity, including their interests in relation to the cost and security of supply of electricity;
+
+(c) costs, expenditure or liabilities of any description that the nuclear company may reasonably be expected to incur in carrying out its activities;
+
+(d) the need to secure that the nuclear company is able to finance its activities;
+
+(e) the need to secure that the nuclear company has appropriate incentives in relation to the carrying out of its activities;
+
+(f) such other matters as the Secretary of State considers appropriate.
+
+(5) Modifications made under subsection (1)(a) may include, for example—
+
+(a) provision about the revenue that the nuclear company may receive in respect of its activities (the company’s “allowed revenue”);
+
+(b) provision about how the nuclear company’s allowed revenue is to be calculated;
+
+(c) provision about the amounts that the nuclear company is entitled to receive, or is required to pay, under any revenue collection contract to which it is a party;
+
+(d) provision about activities that the nuclear company must, may or may not carry on;
+
+(e) provision about the management of the nuclear company’s activities, including the manner in which they are carried out;
+
+(f) provision conferring functions on the Authority, including provision enabling or requiring the nuclear company to refer for determination, decision or approval by the Authority matters specified, or of a description specified, in the licence;
+
+(g) provision enabling the nuclear company to refer to the CMA a decision of the Authority falling within section 10(3) (decisions relating to allowed revenue);
+
+(h) provision for the amendment of the licence for the purpose of implementing a determination or decision of the Authority or the CMA;
+
+(i) provision requiring the nuclear company to comply with any direction or instruction, or to have regard to any guidance, given by the Authority in relation to matters specified, or of a description specified, in the licence;
+
+(j) provision requiring the nuclear company to co-operate with the Authority and to provide such information and assistance to the Authority as the Authority may require for the purposes of carrying out any of its functions;
+
+(k) provision about the payment by the nuclear company, to the Authority or to the CMA, of such amounts as may be determined by or in accordance with the licence;
+
+(l) provision about relevant licensee nuclear company administration orders (as defined in section 31(1)), including provision about the raising of funds for the purpose of meeting expenses arising by virtue of such an order;
+
+(m) provision about the disclosure or publication of information by the nuclear company.
+
+(6) Modifications made under subsection (1)(b) may include, for example, provision relating to the circumstances in which the nuclear company’s electricity generation licence may be revoked.
+
+(7) The Secretary of State may modify—
+
+(a) the standard conditions incorporated in licences under section 6(1)(a) to (d) of the Electricity Act 1989 by virtue of section 8A of that Act;
+
+(b) a document maintained in accordance with the conditions of licences under section 6(1)(a) to (d) of the Electricity Act 1989 or an agreement that gives effect to a document so maintained.
+
+(8) The Secretary of State may exercise the power under subsection (7) only if the Secretary of State considers it appropriate to do so in consequence of, or for purposes incidental or supplementary to, the making of a modification under subsection (1).
+
+(9) Modifications made under subsection (1) or (7) do not take effect unless the nuclear company whose licence is modified under subsection (1) enters into a revenue collection contract with a revenue collection counterparty.
+
+(10) References in this section to the activities of a nuclear company are references to the company’s activities in relation to the design, construction, commissioning and operation of the nuclear project, including its activities in complying with any obligations it has under an approved funded decommissioning programme under Chapter 1 of Part 3 of the Energy Act 2008.
+
+#### 7 Licence modifications: relevant licensee nuclear companies
+
+(1) The Secretary of State may modify a condition of a relevant licensee nuclear company’s electricity generation licence.
+
+(2) The Secretary of State may exercise the power under subsection (1) only if the Secretary of State considers that—
+
+(a) the total expenditure expected to be incurred by the relevant licensee nuclear company in order to complete the construction of the nuclear project is likely to exceed any cap on such expenditure included in the licence, and
+
+(b) in consequence of paragraph (a), an adjustment is needed in relation to how the company’s allowed revenue is to be calculated.
+
+(3) When exercising the power under subsection (1), the Secretary of State must have regard to the matters mentioned in section 6(4).
+
+(4) The power under subsection (1) may not be exercised in relation to a relevant licensee nuclear company at any time after construction of the nuclear project has been completed.
+
+(5) For the purposes of this section, construction of the nuclear project is to be taken to have been completed on successful completion of such procedures and tests relating to the project as constitute, at the time they are undertaken, the usual industry standards and practices for nuclear energy generation projects in order to demonstrate that they are capable of commercial operations.
+
+(6) The Secretary of State must publish a statement setting out the procedure that the Secretary of State expects to follow in determining whether to exercise the power under subsection (1).
+
+#### 8 Procedure etc relating to modifications under section 6 or 7
+
+(1) Before making a modification under a power conferred by section 6(1) or (7) or 7(1) (a “relevant power”), the Secretary of State must consult—
+
+(a) the nuclear company whose licence is being modified,
+
+(b) the Authority,
+
+(c) the Office for Nuclear Regulation,
+
+(d) where any part of the site for the nuclear project is in England, the Environment Agency,
+
+(e) where any part of the site for the nuclear project is in Wales, the Welsh Ministers and Natural Resources Wales,
+
+(f) where any part of the site for the nuclear project is in Scotland, the Scottish Ministers and the Scottish Environment Protection Agency,
+
+(g) in the case of a modification under section 6(7), other holders of a licence being modified, and
+
+(h) such other persons as the Secretary of State considers appropriate.
+
+(2) In the case of the exercise of a power conferred by section 6(1) or (7), subsection (1) may be satisfied by consultation before the passing of this Act (as well as by consultation after that time).
+
+(3) A relevant power—
+
+(a) may be exercised generally, only in relation to specified cases, or subject to exceptions (including provision for a case to be excepted only so long as specified conditions are satisfied);
+
+(b) may be exercised differently for different purposes;
+
+(c) includes power to make incidental, supplementary, consequential or transitional modifications.
+
+(4) Provision included in a licence, or in a document or agreement described in section 6(7)(b), by virtue of a relevant power—
+
+(a) may make different provision for different purposes;
+
+(b) need not relate to the activities authorised by the licence;
+
+(c) may do anything authorised for licences of that type by section 7(4), (5)(a) or (6A) of the Electricity Act 1989.
+
+(5) The Secretary of State must publish details of any modifications made under a relevant power as soon as reasonably practicable after they are made.
+
+(6) If under section 6(7) the Secretary of State makes a modification of the standard conditions of a licence, the Authority must—
+
+(a) make the same modification of those standard conditions for the purposes of their incorporation in licences of that type granted after that time, and
+
+(b) publish the modification.
+
+(7) A modification made under a relevant power of part of a standard condition of a licence does not prevent any other part of the condition from continuing to be regarded as a standard condition for the purposes of Part 1 of the Electricity Act 1989.
+
+(8) The power conferred by a relevant power to “modify” (in relation to licence conditions or terms or a document or agreement) includes power to amend, add to or remove; and references to modifications are to be construed accordingly.
+
+#### 9 Expiry of modifications made under section 6
+
+(1) This section applies if the designation of a nuclear company under section 2(1) ceases to have effect in accordance with—
+
+(a) section 4(1)(a) (expiry of designation), or
+
+(b) section 5(1) or (3) (revocation or lapse of designation).
+
+(2) Any modifications made under section 6(1) of the nuclear company’s electricity generation licence are to be treated, from the relevant time, as not having been made.
+
+(3) If any modifications of licences were made under section 6(7) in consequence of, or for purposes incidental or supplementary to, the modification under section 6(1) of the nuclear company’s electricity generation licence, those modifications are to be treated, from the relevant time, as not having been made.
+
+(4) In subsections (2) and (3), “the relevant time” means the time when the designation of the nuclear company ceases to have effect.
+
+(5) Where modifications are to be treated by subsection (2) or (3) as not having been made, the Secretary of State must publish details of that fact.
+
+#### 10 Decisions relating to allowed revenue of relevant licensee nuclear company: appeals to CMA
+
+(1) This section applies where a relevant licensee nuclear company’s electricity generation licence contains provision referred to in section 6(5)(g) (provision enabling company to refer decisions of the Authority to the CMA).
+
+(2) Sections 11C to 11H of, and Schedule 5A to, the Electricity Act 1989 (appeal to the CMA against a decision by the Authority) apply in relation to a decision falling within subsection (3) below as they apply in relation to a decision mentioned in section 11C(1) of that Act.
+
+(3) A decision falls within this subsection if—
+
+(a) the decision is made by the Authority in the exercise of its functions relating to the regulation of a relevant licensee nuclear company,
+
+(b) in the CMA’s opinion, the decision relates to the allowed revenue of the company, and
+
+(c) but for this section, the company could not under section 11C of the Electricity Act 1989 bring an appeal against the decision.
+
+(4) In the application of the provisions of the Electricity Act 1989 mentioned in subsection (2)—
+
+(a) section 11C has effect as if for subsection (2) there were substituted—
+
+> (2) An appeal may be brought under this section only by a relevant licensee nuclear company (within the meaning of Part 1 of the Nuclear Energy (Financing) Act 2022).
+
+;
+
+(b) section 11E (4) (d) is to be ignored;
+
+(c) sections 11F and 11G apply to a decision falling within subsection (3) as they apply to a price control decision as defined by section 11F(7);
+
+(d) paragraph 1 of Schedule 5A has effect as if for sub-paragraph (3) there were substituted—
+
+> (3) Any application for permission to appeal is not to be made after the end of 20 working days beginning with the first working day after the day on which the Authority notifies its decision to the relevant licensee nuclear company.
+
+;
+
+(e) paragraph 2 of Schedule 5A has effect as if, in sub-paragraph (2)(c), for the words from the beginning to “(as the case may be)” there were substituted “the relevant licensee nuclear company”.
+
+### Information
+
+#### 11 Provision of information to the Secretary of State
+
+(1) The Secretary of State may by notice require a nuclear company to provide to the Secretary of State such information as the Secretary of State may reasonably require in connection with the carrying out of the Secretary of State’s functions under or by virtue of this Part.
+
+(2) Information required under subsection (1) must be provided in such form and manner and at such time and place, and be accompanied or supplemented by such explanations, as may be specified in the notice.
+
+(3) A nuclear company may not be required under this section to provide any information that would be protected from disclosure or production in legal proceedings on grounds of legal professional privilege or, in Scotland, confidentiality of communications.
+
+(4) Except as provided by subsection (5), the disclosure of information under this section does not breach—
+
+(a) any obligation of confidence owed by the nuclear company making the disclosure, or
+
+(b) any other restriction on the disclosure of information (however imposed).
+
+(5) This section does not authorise or require a disclosure of information if the disclosure would contravene the data protection legislation (but in determining whether a disclosure would do so, a requirement imposed under subsection (1) is to be taken into account).
+
+#### 12 Provision of information to or by the Authority
+
+(1) The Authority may provide to a person within subsection (2) such information as the Authority considers necessary in connection with the exercise by the Authority of its functions relating to the regulation of a relevant licensee nuclear company.
+
+(2) The following persons are within this subsection—
+
+(a) the Office for Nuclear Regulation;
+
+(b) the national system operator;
+
+(c) a nuclear administrator appointed under Part 3 in relation to the relevant licensee nuclear company;
+
+(d) where any part of the site for the nuclear project is in England, the Environment Agency;
+
+(e) where any part of the site for the nuclear project is in Wales, Natural Resources Wales;
+
+(f) where any part of the site for the nuclear project is in Scotland, the Scottish Environment Protection Agency;
+
+(g) any other person with regulatory functions the exercise of which the Authority considers relevant to the exercise by the Authority of its functions relating to the regulation of a relevant licensee nuclear company.
+
+(3) The Authority may by notice request from a person within subsection (2) such information as the Authority considers necessary in connection with the exercise by the Authority of its functions relating to the regulation of a relevant licensee nuclear company.
+
+(4) A person to whom a request is made under subsection (3) must, so far as reasonably practicable, provide the requested information within such period, and in such form and manner, as may be specified in the notice.
+
+(5) The Authority must reimburse a person to whom a request is made under subsection (3) for any costs reasonably incurred by the person in providing the Authority with the requested information.
+
+(6) Except as provided by subsection (7), the disclosure of information under this section does not breach—
+
+(a) any obligation of confidence owed by the person making the disclosure, or
+
+(b) any other restriction on the disclosure of information (however imposed).
+
+(7) This section does not authorise or require a disclosure of information if the disclosure would contravene the data protection legislation (but in determining whether a disclosure would do so, the power conferred by subsection (1) or, as the case may be, a requirement imposed by virtue of subsection (3) is to be taken into account).
+
+(8) In this section—
+
+- “information” includes advice;
+- “national system operator” means the person operating the national transmission system for Great Britain (and for this purpose “transmission system” has the same meaning as in the Electricity Act 1989, as to which see section 4(4) of that Act).
+
+### Other
+
+#### 13 Sensitive material
+
+(1) The Secretary of State may exclude material to which subsection (2) applies from—
+
+(a) draft reasons consulted on under section 3(2)(b) (including as applied by section 5(2)), or
+
+(b) anything required to be published under this Part.
+
+(2) This subsection applies to material the disclosure or publication of which the Secretary of State considers—
+
+(a) would be likely to prejudice the commercial interests of any person, or
+
+(b) would be contrary to the interests of national security.
+
+#### 14 Interpretation of Part 1
+
+(1) In this Part—
+
+- “allowed revenue” has the meaning given by section 6(5)(a);
+- “the Authority” means the Gas and Electricity Markets Authority;
+- “the CMA” means the Competition and Markets Authority;
+- “company” means a company registered under the Companies Act 2006 in England and Wales or Scotland;
+- “the data protection legislation” has the same meaning as in the Data Protection Act 2018 (see section 3 of that Act);
+- “designated”, in relation to a nuclear company, has the meaning given by section 1(3);
+- “designation notice” has the meaning given by section 2(4);
+- “electricity generation licence” has the meaning given by section 1(5);
+- “functions” includes powers and duties;
+- “nuclear company” has the meaning given by section 1(2);
+- “the nuclear project”, in relation to a nuclear company, has the meaning given by section 2(1);
+- “relevant licensee nuclear company” has the meaning given by section 1(4);
+- “revenue collection contract” and “revenue collection counterparty” have the same meaning as in Part 2 (see sections 15 and 16).
+
+(2) References in this Part to the site for a nuclear energy generation project include references to the intended site for the project.
+
+## PART 2 — Revenue collection contracts
+
+### Revenue collection contracts
+
+#### 15 Regulations about revenue collection contracts
+
+(1) The Secretary of State may by regulations make provision about revenue collection contracts.
+
+(2) A revenue collection contract is a contract in relation to which all of the following paragraphs apply—
+
+(a) the contract is between a revenue collection counterparty and a nuclear company in relation to which, immediately before the contract was entered into, a designation under section 2(1) had effect;
+
+(b) certain payments under the contract are to be funded by electricity suppliers (see further section 19);
+
+(c) those payments may be made both before and after the start of electricity generation by the nuclear energy generation project in respect of which the nuclear company holds a licence under section 6(1)(a) of the Electricity Act 1989;
+
+(d) the contract is entered into by the revenue collection counterparty in pursuance of a direction given to it under section 18.
+
+(3) For the purposes of this Part—
+
+- “revenue collection counterparty” is to be construed in accordance with section 16;
+- “revenue regulations” means regulations under this section.
+
+(4) The provision made by this Part is without prejudice to the generality of subsection (1).
+
+(5) Revenue regulations may—
+
+(a) include incidental, supplementary or consequential provision;
+
+(b) make transitory or transitional provision or savings;
+
+(c) make different provision for different purposes;
+
+(d) make provision subject to exceptions.
+
+(6) Revenue regulations are to be made by statutory instrument.
+
+(7) An instrument containing—
+
+(a) the first revenue regulations that make provision falling within section 23 or 24, or
+
+(b) revenue regulations that make provision falling within any of sections 16 to 22,
+
+may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, each House of Parliament (in each case, whether or not the regulations also make other provision).
+
+(8) Any other instrument containing revenue regulations is subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(9) If, apart from this subsection, a draft of an instrument containing revenue regulations would be treated for the purposes of the standing orders of either House of Parliament as a hybrid instrument, it is to proceed in that House as if it were not such an instrument.
+
+#### 16 Designation of a revenue collection counterparty
+
+(1) The Secretary of State may by notice given to an eligible person designate the person to be a counterparty for revenue collection contracts.
+
+(2) A person designated under subsection (1) is referred to in this Part as a “revenue collection counterparty”.
+
+(3) A person is eligible if the person is—
+
+(a) a company registered under the Companies Act 2006 in England and Wales or Scotland, or
+
+(b) a public authority, including a person any of whose functions are of a public nature.
+
+(4) A designation may be made only with the consent of the person designated.
+
+(5) The Secretary of State may exercise the power to designate so that more than one designation has effect under subsection (1), but only if the Secretary of State considers it necessary for the purposes of ensuring that—
+
+(a) liabilities under a revenue collection contract are met,
+
+(b) arrangements entered into for purposes connected to a revenue collection contract continue to operate, or
+
+(c) directions given to a revenue collection counterparty by virtue of this Part continue to have effect.
+
+(6) A designation ceases to have effect if—
+
+(a) the Secretary of State revokes the designation by notice given to the person designated (in which case the designation ends on the date specified in the notice), or
+
+(b) the person withdraws consent to the designation by giving not less than 3 months’ notice in writing to the Secretary of State.
+
+(7) At any time after the first designation under subsection (1) has effect, the Secretary of State must, so far as reasonably practicable, exercise the power to designate so as to ensure that at least one designation has effect under subsection (1).
+
+(8) The Secretary of State must publish a notice given to a person under subsection (1) or (6)(a).
+
+(9) As soon as reasonably practicable after a designation ceases to have effect, the Secretary of State must make a transfer scheme under section 26 to ensure the transfer of all rights and liabilities under any revenue collection contract to which the person who has ceased to be a revenue collection counterparty was a party.
+
+(10) Revenue regulations may include provision about the period of time for which, and the circumstances in which, a person who has ceased to be a revenue collection counterparty is to continue to be treated as a revenue collection counterparty for the purposes of the regulations.
+
+#### 17 Duties of a revenue collection counterparty
+
+(1) A revenue collection counterparty must act in accordance with—
+
+(a) any direction given by the Secretary of State by virtue of this Part;
+
+(b) any provision included in revenue regulations.
+
+(2) Revenue regulations may make provision—
+
+(a) to require a revenue collection counterparty to enter into arrangements or to offer to contract for purposes connected to a revenue collection contract;
+
+(b) specifying things that a revenue collection counterparty may or must do, or things that a revenue collection counterparty may not do;
+
+(c) conferring on the Secretary of State further powers to direct a revenue collection counterparty to do, or not to do, things specified in the regulations or the direction.
+
+(3) The provision that may be made by virtue of subsection (2)(b) or (c) includes provision requiring consultation with, or the consent of, the Secretary of State in relation to—
+
+(a) the enforcement of obligations under a revenue collection contract;
+
+(b) a variation or termination of a revenue collection contract;
+
+(c) the settlement or compromise of a claim under a revenue collection contract;
+
+(d) the conduct of legal proceedings relating to a revenue collection contract;
+
+(e) the exercise of rights under a revenue collection contract.
+
+(4) A revenue collection counterparty must exercise the functions conferred by or by virtue of this Part so as to ensure that it can meet its liabilities under any revenue collection contract to which it is a party.
+
+(5) Revenue regulations must include such provision as the Secretary of State considers necessary so as to ensure that a revenue collection counterparty can meet its liabilities under any revenue collection contract to which it is a party.
+
+#### 18 Direction to offer to contract
+
+(1) The Secretary of State may, in accordance with any provision made by revenue regulations, direct a revenue collection counterparty to offer to contract with a designated nuclear company specified in the direction, on terms specified in the direction.
+
+(2) Revenue regulations may make further provision about a direction under this section and in particular about—
+
+(a) the circumstances in which a direction may or must be given;
+
+(b) the terms that may or must be specified in a direction.
+
+(3) The provision that may be made by virtue of subsection (2) includes provision for calculations or determinations to be made under the regulations, including provision for them to be made—
+
+(a) by such persons,
+
+(b) in accordance with such procedure, and
+
+(c) by reference to such matters and to the opinion of such persons,
+
+as may be specified in the regulations.
+
+(4) The reference in subsection (1) to a designated nuclear company is a reference to a nuclear company in relation to which a designation under section 2(1) has effect.
+
+### Payment and other obligations relating to revenue collection contracts
+
+#### 19 Supplier obligation
+
+(1) Revenue regulations must make provision for electricity suppliers to pay a revenue collection counterparty for the purpose of enabling the counterparty to make payments under revenue collection contracts.
+
+(2) Revenue regulations may make provision for electricity suppliers to pay a revenue collection counterparty for the purpose of enabling the counterparty—
+
+(a) to meet such other descriptions of its costs as the Secretary of State considers appropriate;
+
+(b) to hold sums in reserve;
+
+(c) to cover losses in the case of insolvency or default of an electricity supplier.
+
+(3) In subsection (2)(a), “costs” means costs in connection with the performance of any function conferred by or by virtue of this Part.
+
+(4) Revenue regulations may make provision to require electricity suppliers to provide financial collateral to a revenue collection counterparty (whether in cash, securities or any other form).
+
+(5) Revenue regulations that make provision by virtue of subsection (1) for the payment of sums by electricity suppliers must impose on a revenue collection counterparty a duty in relation to the collection of such sums.
+
+(6) The provision that may be made by virtue of this section includes provision for—
+
+(a) a revenue collection counterparty to determine the form and terms of any financial collateral;
+
+(b) a revenue collection counterparty to calculate or determine, in accordance with such criteria as may be provided for by or under the regulations, amounts that are owed by an electricity supplier or are to be provided as financial collateral by an electricity supplier;
+
+(c) the issuing of notices by a revenue collection counterparty to require the payment or provision of such amounts;
+
+(d) the enforcement of obligations arising under such notices.
+
+(7) Provision made by virtue of subsection (6)(b) may provide for anything that is to be calculated or determined under the regulations to be calculated or determined—
+
+(a) by such persons,
+
+(b) in accordance with such procedure, and
+
+(c) by reference to such matters and to the opinion of such persons,
+
+as may be specified in the regulations.
+
+(8) Provision made by virtue of subsection (6)(d) may include provision about—
+
+(a) costs;
+
+(b) interest on late payments under notices;
+
+(c) references to arbitration;
+
+(d) appeals.
+
+(9) Any sum that—
+
+(a) an electricity supplier is required by virtue of revenue regulations to pay to a revenue collection counterparty, and
+
+(b) has not been paid by the date on which it is required by virtue of revenue regulations to be paid,
+
+may be recovered from the electricity supplier by the revenue collection counterparty as a civil debt due to it.
+
+#### 20 Payments to electricity suppliers
+
+(1) Revenue regulations may make provision about the amounts that must be paid by a revenue collection counterparty to electricity suppliers.
+
+(2) The provision that may be made by virtue of this section includes provision—
+
+(a) for a revenue collection counterparty to calculate or determine, in accordance with such criteria as may be provided for by or under the regulations, amounts that are owed by the revenue collection counterparty;
+
+(b) for anything that is to be calculated or determined under the regulations to be calculated or determined—
+
+(i) by such persons,
+
+(ii) in accordance with such procedure, and
+
+(iii) by reference to such matters and to the opinion of such persons,
+
+as may be specified in the regulations.
+
+#### 21 Application of sums held by a revenue collection counterparty
+
+(1) Revenue regulations may make provision for apportioning sums—
+
+(a) received by a revenue collection counterparty from electricity suppliers under provision made by virtue of section 19;
+
+(b) received by a revenue collection counterparty under a revenue collection contract,
+
+in circumstances where the revenue collection counterparty is unable to fully meet its liabilities under a revenue collection contract.
+
+(2) The provision that may be made by virtue of subsection (1) includes provision about the meaning of “unable to fully meet its liabilities under a revenue collection contract”.
+
+(3) In making provision by virtue of subsection (1), the Secretary of State must have regard to the principle that sums should be apportioned in proportion to the amounts that are owed.
+
+(4) Revenue regulations may make provision about the application of sums held by a revenue collection counterparty.
+
+(5) The provision that may be made by virtue of subsection (4) includes provision that sums are to be paid, or not to be paid, into the Consolidated Fund.
+
+#### 22 Enforcement
+
+(1) Revenue regulations may make provision for requirements under the regulations to be enforceable by the Authority as if they were relevant requirements imposed on a regulated person for the purposes of section 25 of the Electricity Act 1989.
+
+(2) The provision that may be made by virtue of subsection (1) includes provision about the enforcement of requirements imposed on the national system operator.
+
+### Information and advice
+
+#### 23 Information and advice
+
+(1) Revenue regulations may make provision about the provision and publication of information and advice.
+
+(2) The provision that may be made by virtue of subsection (1) includes provision—
+
+(a) for the Secretary of State to require a revenue collection counterparty, the Authority or the national system operator to provide information or advice to the Secretary of State or any other person specified in the regulations;
+
+(b) for the Secretary of State to require a relevant licensee nuclear company, or a nuclear administrator (within the meaning of Part 3), to provide information to the Secretary of State or any other person specified in the regulations;
+
+(c) for a revenue collection counterparty to require information to be provided to it by electricity suppliers;
+
+(d) for the national system operator to require information to be provided to it by a relevant licensee nuclear company;
+
+(e) for the Authority to require information to be provided to it by a revenue collection counterparty or the national system operator;
+
+(f) for the sharing of information (otherwise than by virtue of paragraph (e)) between the Authority, a revenue collection counterparty and the national system operator;
+
+(g) for the classification and protection of confidential or sensitive information;
+
+(h) for the enforcement of any requirement imposed by virtue of paragraphs (a) to (g).
+
+#### 24 Functions of the Authority
+
+Revenue regulations may make provision conferring functions on the Authority for the purpose of offering advice to, or making determinations on behalf of, a party to a revenue collection contract.
+
+### Consultation
+
+#### 25 Consultation
+
+(1) Before making revenue regulations, the Secretary of State must consult—
+
+(a) the Scottish Ministers,
+
+(b) the Welsh Ministers,
+
+(c) every nuclear company in relation to which a designation under section 2(1) has effect,
+
+(d) every nuclear company that is a relevant licensee nuclear company,
+
+(e) every holder of a licence to supply electricity under section 6(1)(d) of the Electricity Act 1989,
+
+(f) the Authority,
+
+(g) the national system operator, and
+
+(h) such other persons as the Secretary of State considers appropriate.
+
+(2) Subsection (1) may be satisfied by consultation before the passing of this Act (as well as by consultation after that time).
+
+### Transfer schemes
+
+#### 26 Revenue collection counterparties: transfer schemes
+
+(1) The Secretary of State may make one or more schemes for the transfer of designated property, rights or liabilities of a person who has ceased to be a revenue collection counterparty (“the transferor”) to a person who is a revenue collection counterparty (“the transferee”).
+
+(2) On the transfer date, the designated property, rights and liabilities are transferred and vest in accordance with the scheme.
+
+(3) The rights and liabilities that may be transferred by a scheme include those arising under or in connection with a contract of employment.
+
+(4) A certificate by the Secretary of State that anything specified in the certificate has vested in any person by virtue of a scheme is conclusive evidence for all purposes of that fact.
+
+(5) A scheme may make provision—
+
+(a) for anything done by or in relation to the transferor in connection with any property, rights or liabilities transferred by the scheme to be treated as done, or to be continued, by or in relation to the transferee;
+
+(b) for references to the transferor in any agreement (whether written or not), instrument or other document relating to any property, rights or liabilities transferred by the scheme to be treated as references to the transferee;
+
+(c) about the continuation of legal proceedings;
+
+(d) for transferring property, rights or liabilities that could not otherwise be transferred or assigned;
+
+(e) for transferring property, rights and liabilities irrespective of any requirement for consent that would otherwise apply;
+
+(f) for preventing a right of pre-emption, right of reverter, right of forfeiture, right to compensation or other similar right from arising or becoming exercisable as a result of the transfer of property, rights or liabilities;
+
+(g) for dispensing with any formality in relation to the transfer of property, rights or liabilities by the scheme;
+
+(h) for transferring property acquired, or rights or liabilities arising, after the scheme is made but before it takes effect;
+
+(i) for apportioning property, rights or liabilities;
+
+(j) for creating rights, or imposing liabilities, in connection with property, rights or liabilities transferred by the scheme;
+
+(k) for requiring the transferee to enter into any agreement of any kind, or for a purpose, specified in or determined in accordance with the scheme.
+
+(6) Subsection (5)(b) does not apply to references in—
+
+(a) primary legislation, or
+
+(b) an instrument made under primary legislation.
+
+(7) A scheme may contain provision for the payment of compensation by the Secretary of State to any person whose interests are adversely affected by it.
+
+(8) A transfer scheme may—
+
+(a) include incidental, supplementary or consequential provision;
+
+(b) make transitory or transitional provision or savings;
+
+(c) make different provision for different purposes;
+
+(d) make provision subject to exceptions.
+
+(9) In this section—
+
+- “designated”, in relation to a scheme, means specified in or determined in accordance with the scheme;
+
+- “primary legislation” means—
+
+  - an Act of Parliament,
+  - an Act of the Scottish Parliament,
+  - an Act or Measure of Senedd Cymru, or
+  - Northern Ireland legislation;
+
+- “property” includes interests of any description;
+
+- “the transfer date” means a date specified by a scheme as the date on which the scheme is to have effect.
+
+#### 27 Modification of transfer schemes
+
+(1) The Secretary of State may modify a transfer scheme made under section 26, subject to subsection (2).
+
+(2) If a transfer under the scheme has taken effect, any modification under subsection (1) that relates to the transfer may be made only with the agreement of the transferor or transferee affected by the modification (or, where both the transferor and transferee are affected, with the agreement of both of them).
+
+(3) A modification takes effect from such date as the Secretary of State may specify (which may be the date when the original scheme came into effect).
+
+### Miscellaneous and interpretation
+
+#### 28 Shadow directors, etc
+
+The Secretary of State is not, by virtue of the exercise of a power conferred by or by virtue of this Part, to be regarded as—
+
+(a) a person occupying the position of director in relation to a revenue collection counterparty;
+
+(b) a person in accordance with whose directions or instructions the directors of a revenue collection counterparty are accustomed to act;
+
+(c) exercising any function of management in a revenue collection counterparty;
+
+(d) a principal of a revenue collection counterparty.
+
+#### 29 Licence modifications
+
+(1) The Secretary of State may modify—
+
+(a) a condition of a particular licence under section 6(1)(b) or (c) of the Electricity Act 1989 (transmission and distribution licences);
+
+(b) the standard conditions incorporated in licences under section 6(1)(b) or (c) of the Electricity Act 1989 by virtue of section 8A of that Act;
+
+(c) a document maintained in accordance with the conditions of licences under section 6(1)(b) or (c) of the Electricity Act 1989 or an agreement that gives effect to a document so maintained.
+
+(2) The Secretary of State may make a modification under subsection (1) only for the purpose of—
+
+(a) allowing or requiring services to be provided to a revenue collection counterparty;
+
+(b) enforcing obligations under a revenue collection contract.
+
+(3) Provision included in a licence, or in a document or agreement relating to licences, by virtue of subsection (1) may in particular include provision of a kind that may be included in revenue regulations.
+
+(4) Before making a modification under subsection (1), the Secretary of State must consult—
+
+(a) the Scottish Ministers,
+
+(b) the Welsh Ministers,
+
+(c) the holder of any licence being modified,
+
+(d) every holder of a licence to supply electricity under section 6(1)(d) of the Electricity Act 1989,
+
+(e) the Authority, and
+
+(f) such other persons as the Secretary of State considers appropriate.
+
+(5) Subsection (4) may be satisfied by consultation before the passing of this Act (as well as by consultation after that time).
+
+(6) The power under subsection (1)—
+
+(a) may be exercised generally, only in relation to specified cases or subject to exceptions (including provision for a case to be excepted only so long as specified conditions are satisfied);
+
+(b) may be exercised differently for different purposes;
+
+(c) includes power to make incidental, supplementary, consequential or transitional modifications.
+
+(7) Provision included in a licence, or in a document or agreement relating to licences, by virtue of subsection (1)—
+
+(a) may make different provision for different purposes;
+
+(b) need not relate to the activities authorised by the licence;
+
+(c) may do anything authorised for licences of that type by section 7(2A), (3), (4), (5) or (6A) of the Electricity Act 1989.
+
+(8) The Secretary of State must publish details of any modifications made under subsection (1) as soon as reasonably practicable after they are made.
+
+(9) If under subsection (1) the Secretary of State makes a modification of the standard conditions of a licence, the Authority must—
+
+(a) make the same modification of those standard conditions for the purposes of their incorporation in licences of that type granted after that time, and
+
+(b) publish the modification.
+
+(10) A modification made under subsection (1) of part of a standard condition of a licence does not prevent any other part of the condition from continuing to be regarded as a standard condition for the purposes of Part 1 of the Electricity Act 1989.
+
+(11) The power conferred by subsection (1) to “modify” (in relation to licence conditions or a document or agreement) includes power to amend, add to or remove, and references to modifications are to be construed accordingly.
+
+#### 30 Interpretation of Part 2
+
+In this Part—
+
+- “the Authority” means the Gas and Electricity Markets Authority;
+- “electricity supplier”, subject to any provision made by revenue regulations, means a person who is a holder of a licence to supply electricity under section 6(1)(d) of the Electricity Act 1989;
+- “functions” includes powers and duties;
+- “national system operator” means the person operating the national transmission system for Great Britain (and for this purpose “transmission system” has the same meaning as in the Electricity Act 1989, as to which see section 4(4) of that Act);
+- “nuclear company” and “relevant licensee nuclear company” have the same meaning as in Part 1.
+
+## PART 3 — Special administration regime
+
+### Relevant licensee nuclear company administration orders
+
+#### 31 Relevant licensee nuclear company administration orders
+
+(1) A relevant licensee nuclear company administration order (referred to in this Part as an “RLNC administration order”)  means an order which—
+
+(a) is made by the court in relation to a relevant licensee nuclear company;
+
+(b) directs that, while the order is in force, the affairs, business and property of the company are to be managed by a person appointed by the court.
+
+(2) The person appointed in relation to a company for the purposes of an RLNC administration order is referred to in this Part as the nuclear administrator of the company.
+
+(3) The nuclear administrator of a company must manage the company’s affairs, business and property, and exercise and perform all the powers and duties of a nuclear administrator, so as to achieve the objective set out in section 32.
+
+(4) In this Part—
+
+- “relevant licence”, in relation to a relevant licensee nuclear company, means the company’s electricity generation licence (within the meaning of Part 1);
+- “relevant licensee nuclear company” has the same meaning as in Part 1.
+
+#### 32 Objective of a relevant licensee nuclear company administration
+
+(1) The objective of a relevant licensee nuclear company administration is to secure—
+
+(a) that electricity generation commences, or continues, at the nuclear installation in respect of which the relevant licensee nuclear company to which the administration relates holds a relevant licence, and
+
+(b) that it becomes unnecessary, by one or both of the following means, for the RLNC administration order to remain in force for that purpose.
+
+(2) Those means are—
+
+(a) the rescue as a going concern of the company subject to the RLNC administration order, and
+
+(b) transfers falling within subsection (3).
+
+(3) A transfer falls within this subsection if it is a transfer as a going concern—
+
+(a) to another company, or
+
+(b) as respects different parts of the undertaking of the company subject to the RLNC administration order, to two or more different companies,
+
+of so much of that undertaking as it is appropriate to transfer for the purpose of achieving the objective of the relevant licensee nuclear company administration.
+
+(4) The means by which transfers falling within subsection (3) may be effected include, in particular—
+
+(a) a transfer of the undertaking of the company subject to the RLNC administration order, or of a part of its undertaking, to a wholly-owned subsidiary of that company, and
+
+(b) a transfer to a company of securities of a wholly-owned subsidiary to which there has been a transfer falling within paragraph (a).
+
+(5) The objective of a relevant licensee nuclear company administration may be achieved by a transfer falling within subsection (3) to the extent only that—
+
+(a) the rescue as a going concern of the company subject to the RLNC administration order is not reasonably practicable or is not reasonably practicable without such a transfer,
+
+(b) the rescue of that company as a going concern will not achieve that objective or will not do so without such a transfer,
+
+(c) such a transfer would produce a result for the company’s creditors as a whole that is better than the result that would be produced without it, or
+
+(d) such a transfer would, without prejudicing the interests of those creditors as a whole, produce a result for the company's members as a whole that is better than the result that would be produced without it.
+
+(6) In this section, “nuclear installation” has the same meaning as in the Nuclear Installations Act 1965.
+
+### Application and amendment of the Energy Act 2004
+
+#### 33 Application of certain provisions of the Energy Act 2004
+
+(1) Sections 156 to 167 of, and Schedules 20 and 21 to, the Energy Act 2004 (special administration regime for energy licensees) apply in relation to an RLNC administration order as they apply in relation to an energy administration order within the meaning given by section 154(1) of that Act, but with the modifications set out in subsections (2) to (5).
+
+(2) In the application of those provisions generally—
+
+(a) for “energy administration”, in each place where it occurs, substitute “relevant licensee nuclear company administration”;
+
+(b) for “energy administrator”, in each place where it occurs, substitute “nuclear administrator”;
+
+(c) for “a protected energy company”, in each place where it occurs, substitute “a relevant licensee nuclear company”.
+
+(3) In the application of sections 156 to 167—
+
+(a) in section 156(4), omit paragraph (b) (and the “or” before it);
+
+(b) in section 157 omit—
+
+(i) subsection (7), and
+
+(ii) paragraph (b) of subsection (8) (and the “or” before it);
+
+(c) in section 164, omit subsection (2).
+
+(4) In the application of Schedule 20—
+
+(a) omit paragraph 1(2);
+
+(b) in paragraph 32(1)(d), for the words from ““energy administration application”” to “Energy Act 2004” substitute ““relevant licensee nuclear company administration application” means an application to the court for a relevant licensee nuclear company administration order under Chapter 3 of Part 3 of the Energy Act 2004, as applied by section 33 of the Nuclear Energy (Financing) Act 2022”;
+
+(c) in paragraph 32(1)(e), for “section 155 of the Energy Act 2004” substitute “section 32 of the Nuclear Energy (Financing) Act 2022”;
+
+(d) omit Part 3;
+
+(e) omit paragraph 42(1);
+
+(f) in paragraph 43, after “the Energy Act 2004” insert “and section 33 of the Nuclear Energy (Financing) Act 2022”;
+
+(g) in paragraph 44(5), after “the Energy Act 2004” insert “and section 33 of the Nuclear Energy (Financing) Act 2022”;
+
+(h) in paragraph 45, after “section 157(1)(e) of this Act” insert “as applied by section 33 of the Nuclear Energy (Financing) Act 2022”;
+
+(i) omit paragraph 46 (but see section 38 of this Act);
+
+(j) in paragraph 47, after “Part 1 of this Schedule” insert “and section 33 of the Nuclear Energy (Financing) Act 2022”.
+
+(5) In the application of Schedule 21—
+
+(a) for “old energy company”, in each place where it occurs, substitute “old relevant licensee nuclear company”;
+
+(b) for “new energy company”, in each place where it occurs, substitute “new relevant licensee nuclear company”;
+
+(c) in paragraph 1(b), for “section 155(3)” substitute “section 32(3) of the Nuclear Energy (Financing) Act 2022”;
+
+(d) in paragraphs 3(8) and 9(6), for “GEMA” substitute
+
+> —
+>
+> (a) GEMA,
+>
+> (b) the Office for Nuclear Regulation,
+>
+> (c) where any part of the relevant site is in England, the Environment Agency,
+>
+> (d) where any part of the relevant site is in Wales, the Welsh Ministers and Natural Resources Wales,
+>
+> (e) where any part of the relevant site is in Scotland, the Scottish Ministers and the Scottish Environment Protection Agency, and
+>
+> (f) such other persons as the Secretary of State considers appropriate,
+>
+> and in this sub-paragraph, the “relevant site” is the site of the nuclear installation (within the meaning of the Nuclear Installations Act 1965) in respect of which the old relevant licensee nuclear company holds a relevant licence.
+
+(e) omit paragraph 10;
+
+(f) in paragraph 12, for “section 155” substitute “section 32 of the Nuclear Energy (Financing) Act 2022”.
+
+(6) Sections 171 and 196 of the Energy Act 2004 (interpretation) apply for the purposes of the application by subsection (1) of the provisions mentioned in that subsection, but with the modifications set out in subsection (7).
+
+(7) In the application of section 171(1)—
+
+(a) in the definition of “company”, omit paragraph (b) (and the “or” before it);
+
+(b) omit the definition of “non-GB company”;
+
+(c) insert, at the appropriate places, the following definitions—
+
+> - “objective of the relevant licensee nuclear company administration” is to be construed in accordance with section 32 of the Nuclear Energy (Financing) Act 2022;
+
+;
+
+> - “relevant licensee nuclear company” has the meaning given by section 31(4) of the Nuclear Energy (Financing) Act 2022;
+
+;
+
+> - “relevant licensee nuclear company administration order” has the meaning given by section 31(1) of the Nuclear Energy (Financing) Act 2022;
+
+;
+
+> - “relevant licensee nuclear company administration rules” means the rules made under section 411 of the 1986 Act by virtue of section 159(3) of this Act, for the purpose of giving effect to this Chapter as applied by section 33 of the Nuclear Energy (Financing) Act 2022;
+
+;
+
+(d) for the definition of “energy administrator” substitute—
+
+> - “nuclear administrator” has the meaning given by section 39 of the Nuclear Energy (Financing) Act 2022;
+
+;
+
+(e) for the definition of “relevant licence” substitute—
+
+> - “relevant licence” has the meaning given by section 31(4) of the Nuclear Energy (Financing) Act 2022.
+
+;
+
+(f) omit the definition of “unregistered company”.
+
+#### 34 Conduct of administration, transfer schemes, etc
+
+In section 159(3) of the Energy Act 2004 (conduct of administration, transfer schemes, etc under Chapter 3 of Part 3 of that Act), for “or section 4 of the Smart Meters Act 2018” substitute “, section 4 of the Smart Meters Act 2018 or section 33 of the Nuclear Energy (Financing) Act 2022”.
+
+### Licence modifications
+
+#### 35 Licence modifications: relevant licensee nuclear company administration
+
+(1) The Secretary of State may modify—
+
+(a) a condition of a relevant licensee nuclear company’s relevant licence;
+
+(b) a term of a relevant licensee nuclear company’s relevant licence.
+
+(2) The Secretary of State may exercise the power under subsection (1) only—
+
+(a) if an RLNC administration order is in force in relation to the relevant licensee nuclear company, and
+
+(b) for the purpose of furthering the objective of a relevant licensee nuclear company administration.
+
+(3) When exercising the power under subsection (1), the Secretary of State must have regard to—
+
+(a) the duties of the Secretary of State under sections 1 and 4(1)(b) of the Climate Change Act 2008 (carbon targets and budgets);
+
+(b) the interests of existing and future consumers of electricity, including their interests in relation to the cost and security of supply of electricity;
+
+(c) costs, expenditure or liabilities of any description that the relevant licensee nuclear company may reasonably be expected to incur in carrying out its activities;
+
+(d) the need to secure that the relevant licensee nuclear company is able to finance its activities;
+
+(e) the need to secure that the relevant licensee nuclear company has appropriate incentives in relation to the carrying out of its activities;
+
+(f) such other matters as the Secretary of State considers appropriate.
+
+(4) Modifications made under subsection (1)(a) may include, for example—
+
+(a) provision about the revenue that the relevant licensee nuclear company may receive in respect of its activities;
+
+(b) provision about how the relevant licensee nuclear company’s revenue referred to in paragraph (a) is to be calculated;
+
+(c) provision about the amounts that the relevant licensee nuclear company is entitled to receive, or is required to pay, under any revenue collection contract (within the meaning of Part 2) to which it is a party;
+
+(d) provision requiring the relevant licensee nuclear company to co-operate with the Authority and to provide such information and assistance to the Authority as the Authority may require for the purposes of carrying out any of its functions;
+
+(e) provision about RLNC administration orders, including provision about the raising of funds for the purpose of meeting expenses arising by virtue of such an order;
+
+(f) provision about the disclosure or publication of information by the relevant licensee nuclear company.
+
+(5) The Secretary of State may modify—
+
+(a) the standard conditions incorporated in licences under section 6(1)(a) to (d) of the Electricity Act 1989 by virtue of section 8A of that Act;
+
+(b) a document maintained in accordance with the conditions of licences under section 6(1)(a) to (d) of the Electricity Act 1989 or an agreement that gives effect to a document so maintained.
+
+(6) The Secretary of State may exercise the power under subsection (5) only if the Secretary of State considers it appropriate to do so in consequence of, or for purposes incidental or supplementary to, the making of a modification under subsection (1).
+
+(7) References in this section to the activities of a relevant licensee nuclear company are references to the company’s activities in relation to the design, construction, commissioning and operation of the nuclear energy generation project in respect of which it holds a relevant licence, including its activities in complying with any obligations it has under an approved funded decommissioning programme under Chapter 1 of Part 3 of the Energy Act 2008.
+
+#### 36 Procedure etc relating to modifications under section 35
+
+(1) Before making a modification under a power conferred by section 35(1) or (5), the Secretary of State must consult—
+
+(a) the nuclear administrator (including as agent of the relevant licensee nuclear company),
+
+(b) the Authority,
+
+(c) the Office for Nuclear Regulation,
+
+(d) where any part of the relevant site is in England, the Environment Agency,
+
+(e) where any part of the relevant site is in Wales, the Welsh Ministers and Natural Resources Wales,
+
+(f) where any part of the relevant site is in Scotland, the Scottish Ministers and the Scottish Environment Protection Agency,
+
+(g) in the case of a modification under section 35(5), other holders of a licence being modified, and
+
+(h) such other persons as the Secretary of State considers appropriate.
+
+(2) For the purposes of subsection (1), the “relevant site” is the site of the nuclear installation (within the meaning of the Nuclear Installations Act 1965) in respect of which the relevant licensee nuclear company holds a relevant licence.
+
+(3) The powers under section 35(1) and (5)—
+
+(a) may be exercised generally, only in relation to specified cases, or subject to exceptions (including provision for a case to be excepted only so long as specified conditions are satisfied);
+
+(b) may be exercised differently for different purposes;
+
+(c) include a power to make incidental, supplementary, consequential or transitional modifications.
+
+(4) Provision included in a licence, or in a document or agreement described in section 35(5)(b), by virtue of section 35(1) or (5)—
+
+(a) may make different provision for different purposes;
+
+(b) need not relate to the activities authorised by the licence;
+
+(c) may do anything authorised for licences of that type by section 7(4), (5)(a) or (6A) of the Electricity Act 1989.
+
+(5) The Secretary of State must publish details of any modifications made under section 35(1) or (5) as soon as reasonably practicable after they are made.
+
+(6) The Secretary of State may exclude from publication under subsection (5) anything the publication of which the Secretary of State considers—
+
+(a) would be likely to prejudice the commercial interests of any person, or
+
+(b) would be contrary to the interests of national security.
+
+(7) If under section 35(5) the Secretary of State makes a modification of the standard conditions of a licence, the Authority must—
+
+(a) make the same modification of those standard conditions for the purposes of their incorporation in licences of that type granted after that time, and
+
+(b) publish the modification.
+
+(8) A modification made under section 35(1) or (5) of part of a standard condition of a licence does not prevent any other part of the condition from continuing to be regarded as a standard condition for the purposes of Part 1 of the Electricity Act 1989.
+
+### Powers to modify enactments
+
+#### 37 Modification under the Enterprise Act 2002
+
+(1) The power to modify or apply enactments conferred on the Secretary of State by each of sections 248 and 277 of the Enterprise Act 2002 (amendments consequential on that Act) includes power to make such consequential modifications of this Part as the Secretary of State considers appropriate in connection with any other provision made under that section.
+
+(2) In section 170(1) of the Energy Act 2004 (modification of Chapter 3 of Part 3 of that Act under the Enterprise Act 2002), for “or section 4 of the Smart Meters Act 2018” substitute “, section 4 of the Smart Meters Act 2018 or section 33 of the Nuclear Energy (Financing) Act 2022”.
+
+#### 38 Power to make further modifications of insolvency legislation
+
+(1) The Secretary of State may by regulations—
+
+(a) provide for insolvency legislation to apply in relation to any provision made by or under this Part;
+
+(b) make such modifications of insolvency legislation as the Secretary of State considers appropriate in relation to any provision made by or under this Part (including any insolvency legislation that is applied under paragraph (a)).
+
+(2) In relation to regulations under subsection (1), “insolvency legislation” means—
+
+(a) the Insolvency Act 1986,
+
+(b) Chapter 3 of Part 3 of the Energy Act 2004, and
+
+(c) any other provision that relates to insolvency, or makes provision by reference to anything that is or may be done under the Insolvency Act 1986, and is—
+
+(i) contained in an Act passed before this Act or in the same Session, or
+
+(ii) made under an Act before the regulations come into force.
+
+(3) Provision made under subsection (1) may amend this Part.
+
+(4) Regulations under this section are to be made by statutory instrument.
+
+(5) Regulations under this section must not be made unless a draft of the statutory instrument containing them has been laid before and approved by a resolution of each House of Parliament.
+
+### Interpretation
+
+#### 39 Interpretation of Part 3
+
+(1) In this Part—
+
+- “the Authority” means the Gas and Electricity Markets Authority;
+
+- “business”, “member” and “property” have the same meanings as in the Insolvency Act 1986;
+
+- “company” means a company registered under the Companies Act 2006 in England and Wales or Scotland;
+
+- “court”, in relation to a company, means the court—
+
+  - having jurisdiction to wind up the company, or
+  - that would have such jurisdiction apart from section 221(2) or 441(2) of the Insolvency Act 1986 (exclusion of winding up jurisdiction in case of companies having principal place of business in, or incorporated in, Northern Ireland);
+
+- “functions” includes powers and duties;
+
+- “modification” includes omission, addition or alteration, and cognate expressions are to be construed accordingly;
+
+- “nuclear administrator” has the meaning given by section 31(2) and is to be construed in accordance with subsection (2) of this section;
+
+- “objective of a relevant licensee nuclear company administration” is to be construed in accordance with section 32;
+
+- “relevant licence” has the meaning given by section 31(4);
+
+- “relevant licensee nuclear company” has the same meaning as in Part 1;
+
+- “RLNC administration order” (or “relevant licensee nuclear company administration order”) has the meaning given by section 31(1);
+
+- “subsidiary” and “wholly-owned subsidiary” have the meaning given by section 1159 of the Companies Act 2006.
+
+(2) In this Part references to the nuclear administrator of a company—
+
+(a) include references to a person appointed under paragraph 91 or 103 of Schedule B1 to the Insolvency Act 1986, as applied by Part 1 of Schedule 20 to the Energy Act 2004 and section 33 of this Act to be the nuclear administrator of that company, and
+
+(b) where two or more persons are appointed to be the nuclear administrator of that company, are to be construed in accordance with the provision made under section 158(5) of the Energy Act 2004, as applied by section 33 of this Act.
+
+## PART 4 — Miscellaneous and final provisions
+
+### 40 Decommissioning of nuclear sites: bodies corporate not “associated”
+
+(1) In section 67 of the Energy Act 2008 (meaning of “associated” for the purposes of Chapter 1 of Part 3 of that Act), after subsection (7) insert—
+
+> (8) This section is subject to section 67A.
+
+(2) After section 67 of that Act insert—
+
+> **67A Meaning of “associated”: supplementary**
+>
+> (1) In determining whether, by virtue of section 67, A has a significant interest in B, the following are to be disregarded—
+>
+> (a) relevant share security rights that A holds in relation to B;
+>
+> (b) subject to subsection (4), shares in B that are acquired by A in consequence of the exercise of relevant share security rights that A holds in relation to B;
+>
+> (c) any power that A has, directly or indirectly, to secure that the affairs of B are conducted in accordance with A’s wishes by virtue of—
+>
+> (i) relevant share security rights that A holds in relation to B,
+>
+> (ii) arrangements that are designed to facilitate the exercise of relevant share security rights that A holds in relation to B, or
+>
+> (iii) relevant asset security rights that A holds in relation to B, if A also holds relevant share security rights in relation to B.
+>
+> (2) A holds “relevant share security rights” in relation to B if A holds—
+>
+> (a) rights to enforce a security interest over shares in B,
+>
+> (b) rights relating to enforcement of a security interest over shares in B, or
+>
+> (c) rights that enable A to preserve the value of a security interest over shares in B.
+>
+> (3) A holds “relevant asset security rights” in relation to B if A holds—
+>
+> (a) rights to enforce a security interest over any of B’s assets,
+>
+> (b) rights relating to enforcement of a security interest over any of B’s assets, or
+>
+> (c) rights that enable A to preserve the value of a security interest over any of B’s assets.
+>
+> (4) Subsection (1)(b) does not apply if the shares acquired by A are retained by A for a purpose other than that of preserving the value of the security interest in question or of realising it.
+>
+> (5) In this section—
+>
+> (a) a reference to “shares” includes a reference to rights attached to shares;
+>
+> (b) a reference to A holding rights in relation to B includes a reference to—
+>
+> (i) A holding those rights on trust for another person, and
+>
+> (ii) A being the beneficiary of a trust of those rights;
+>
+> (c) a reference to A acquiring shares in B includes a reference to—
+>
+> (i) A acquiring shares in B to hold on trust for another person, and
+>
+> (ii) another person acquiring shares in B to hold on trust for A;
+>
+> (d) a reference to rights includes a reference to powers.
+
+### 41 Financial provision
+
+(1) There is to be paid out of money provided by Parliament—
+
+(a) any expenditure incurred by the Secretary of State by virtue of this Act;
+
+(b) any expenditure incurred by the Competition and Markets Authority by virtue of this Act;
+
+(c) any expenditure incurred by the Authority by virtue of this Act;
+
+(d) any increase attributable to this Act in the sums payable out of money so provided under any other Act.
+
+(2) The expenditure referred to in subsection (1)(a) includes expenditure incurred by the Secretary of State for the purposes of or in connection with—
+
+(a) the establishment of a revenue collection counterparty;
+
+(b) making payments or providing financial assistance to a revenue collection counterparty;
+
+(c) making payments to a nuclear administrator or a relevant licensee nuclear company under or by virtue of Part 3.
+
+(3) Financial assistance or payments includes financial assistance or payments given subject to such conditions as may be determined by, or in accordance with arrangements made by, the Secretary of State; and such conditions may in particular in the case of a grant include conditions for repayment in specified circumstances.
+
+(4) In this section—
+
+- “financial assistance” means grants, loans, guarantees or indemnities, or any other kind of financial assistance;
+- “nuclear administrator” has the same meaning as in Part 3;
+- “relevant licensee nuclear company” has the same meaning as in Part 1;
+- “revenue collection counterparty” has the same meaning as in Part 2.
+
+### 42 Minor and consequential provision
+
+The Schedule contains minor and consequential provision.
+
+### 43 Extent
+
+(1) The following provisions extend to England and Wales and Scotland—
+
+(a) Parts 1 to 3;
+
+(b) section 42 (including the Schedule).
+
+(2) Section 40 extends to England and Wales and Northern Ireland.
+
+(3) The following provisions extend to England and Wales, Scotland and Northern Ireland—
+
+(a) section 41;
+
+(b) this section and sections 44 and 45.
+
+### 44 Commencement
+
+(1) The following provisions come into force on the day on which this Act is passed—
+
+(a) in Part 1, sections 1 to 5, 11, 13 and 14;
+
+(b) section 16;
+
+(c) Part 3 (for the purposes of making rules under section 411 of the Insolvency Act 1986 Act as applied by section 159(3) of the Energy Act 2004 and section 33(1) of this Act);
+
+(d) section 40;
+
+(e) sections 41 and 43, this section and section 45.
+
+(2) The following provisions come into force at the end of the period of 2 months beginning with the day on which this Act is passed—
+
+(a) in Part 1, sections 6 to 10 and 12;
+
+(b) Part 2 (other than section 16);
+
+(c) Part 3 (except as mentioned in subsection (1)(c));
+
+(d) section 42 (including the Schedule).
+
+### 45 Short title
+
+This Act may be cited as the Nuclear Energy (Financing) Act 2022.
+
+## SCHEDULE — Minor and consequential provision
+
+*Section 42*
+
+### Electricity Act 1989
+
+**1** (1) The Electricity Act 1989 is amended as follows.
+
+(2) In section 3A (principal objective and general duties of the Secretary of State and the Authority), in subsection (2)(b), for “or Part 2 of the Energy Act 2013” substitute “, Part 2 of the Energy Act 2013 or the Nuclear Energy (Financing) Act 2022”.
+
+(3) In section 6 (licences authorising supply, etc)—
+
+(a) after subsection (6C) insert—
+
+> (6D) The Authority may, with the consent of a relevant licensee nuclear company (within the meaning of Part 1 of the Nuclear Energy (Financing) Act 2022 (nuclear energy generation projects: regulated asset base model)), modify terms included in the company’s generation licence.
+
+;
+
+(b) in subsection (7), for “or (6B)” substitute “, (6B) or (6D)”.
+
+### Utilities Act 2000
+
+**2** (1) The Utilities Act 2000 is amended as follows.
+
+(2) In section 33 (standard conditions of electricity licences), in subsection (1)—
+
+(a) omit the “or” after paragraph (g), and
+
+(b) for the paragraphs after paragraph (g) substitute—
+
+> (h) under section 6 of the Smart Meters Act 2018,
+>
+> (i) under section 1 or 10 of the Domestic Gas and Electricity (Tariff Cap) Act 2018, or
+>
+> (j) under the Nuclear Energy (Financing) Act 2022.
+
+(3) In section 105 (general restrictions on disclosure of information)—
+
+(a) in subsection (1), after “2018” insert “or the Nuclear Energy (Financing) Act 2022”;
+
+(b) in subsection (3), after paragraph (azb) insert—
+
+> (azc) it is made for the purpose of facilitating the performance of any functions of the Authority under or by virtue of the Nuclear Energy (Financing) Act 2022;
+
+.
+
+### Energy Act 2004
+
+**3** In section 137 of the Energy Act 2004 (new standard conditions for transmission licences), in subsection (3)—
+
+(a) omit the “or” after paragraph (e), and
+
+(b) after paragraph (f) insert
+
+> or
+>
+> (g) under the Nuclear Energy (Financing) Act 2022,
+
+.
+
+### Consequential repeals
+
+**4** The following provisions are repealed—
+
+(a) section 6(10)(b) of the Smart Meters Act 2018;
+
+(b) section 11(2) of the Domestic Gas and Electricity (Tariff Cap) Act 2018.

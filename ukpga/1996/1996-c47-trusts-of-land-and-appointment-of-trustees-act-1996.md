@@ -1,0 +1,1369 @@
+---
+title: "Trusts of Land and Appointment of Trustees Act 1996"
+identifier: "ukpga/1996/47"
+citation: "1996 c. 47"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+N.I."
+date: 1996-07-24
+last_amended: 2024-03-07
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/1996/47"
+source_modified: 2026-06-12
+retrieved: 2026-10-11
+---
+
+# Trusts of Land and Appointment of Trustees Act 1996
+
+**1996 c. 47**
+
+An Act to make new provision about trusts of land including provision phasing out the Settled Land Act 1925, abolishing the doctrine of conversion and otherwise amending the law about trusts for sale of land; to amend the law about the appointment and retirement of trustees of any trust; and for connected purposes.
+
+[24th July 1996]
+
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## Part I — TRUSTS OF LAND
+
+### Introductory
+
+#### 1 Meaning of “trust of land”.
+
+(1) In this Act—
+
+(a) “trust of land” means (subject to subsection (3)) any trust of property which consists of or includes land, and
+
+(b) “trustees of land” means trustees of a trust of land.
+
+(2) The reference in subsection (1)(a) to a trust—
+
+(a) is to any description of trust (whether express, implied, resulting or constructive), including a trust for sale and a bare trust, and
+
+(b) includes a trust created, or arising, before the commencement of this Act.
+
+(3) The reference to land in subsection (1)(a) does not include land which (despite section 2) is settled land or which is land to which the [^M1]Universities and College Estates Act 1925 applies.
+
+### Settlements and trusts for sale as trusts of land
+
+#### 2 Trusts in place of settlements.
+
+(1) No settlement created after the commencement of this Act is a settlement for the purposes of the [^M2]Settled Land Act 1925; and no settlement shall be deemed to be made under that Act after that commencement.
+
+(2) Subsection (1) does not apply to a settlement created on the occasion of an alteration in any interest in, or of a person becoming entitled under, a settlement which—
+
+(a) is in existence at the commencement of this Act, or
+
+(b) derives from a settlement within paragraph (a) or this paragraph.
+
+(3) But a settlement created as mentioned in subsection (2) is not a settlement for the purposes of the Settled Land Act 1925 if provision to the effect that it is not is made in the instrument, or any of the instruments, by which it is created.
+
+(4) Where at any time after the commencement of this Act there is in the case of any settlement which is a settlement for the purposes of the Settled Land Act 1925 no relevant property which is, or is deemed to be, subject to the settlement, the settlement permanently ceases at that time to be a settlement for the purposes of that Act.
+
+In this subsection “relevant property” means land and personal chattels to which section 67(1) of the Settled Land Act 1925 (heirlooms) applies.
+
+(5) No land held on charitable, ecclesiastical or public trusts shall be or be deemed to be settled land after the commencement of this Act, even if it was or was deemed to be settled land before that commencement.
+
+(6) Schedule 1 has effect to make provision consequential on this section (including provision to impose a trust in circumstances in which, apart from this section, there would be a settlement for the purposes of the Settled Land Act 1925 (and there would not otherwise be a trust)).
+
+#### 3 Abolition of doctrine of conversion.
+
+(1) Where land is held by trustees subject to a trust for sale, the land is not to be regarded as personal property; and where personal property is subject to a trust for sale in order that the trustees may acquire land, the personal property is not to be regarded as land.
+
+(2) Subsection (1) does not apply to a trust created by a will if the testator died before the commencement of this Act.
+
+(3) Subject to that, subsection (1) applies to a trust whether it is created, or arises, before or after that commencement.
+
+#### 4 Express trusts for sale as trusts of land.
+
+(1) In the case of every trust for sale of land created by a disposition there is to be implied, despite any provision to the contrary made by the disposition, a power for the trustees to postpone sale of the land; and the trustees are not liable in any way for postponing sale of the land, in the exercise of their discretion, for an indefinite period.
+
+(2) Subsection (1) applies to a trust whether it is created, or arises, before or after the commencement of this Act.
+
+(3) Subsection (1) does not affect any liability incurred by trustees before that commencement.
+
+#### 5 Implied trusts for sale as trusts of land.
+
+(1) Schedule 2 has effect in relation to statutory provisions which impose a trust for sale of land in certain circumstances so that in those circumstances there is instead a trust of the land (without a duty to sell).
+
+(2) Section 1 of the [^M3]Settled Land Act 1925 does not apply to land held on any trust arising by virtue of that Schedule (so that any such land is subject to a trust of land).
+
+### Functions of trustees of land
+
+#### 6 General powers of trustees.
+
+(1) For the purpose of exercising their functions as trustees, the trustees of land have in relation to the land subject to the trust all the powers of an absolute owner.
+
+(2) Where in the case of any land subject to a trust of land each of the beneficiaries interested in the land is a person of full age and capacity who is absolutely entitled to the land, the powers conferred on the trustees by subsection (1) include the power to convey the land to the beneficiaries even though they have not required the trustees to do so; and where land is conveyed by virtue of this subsection—
+
+(a) the beneficiaries shall do whatever is necessary to secure that it vests in them, and
+
+(b) if they fail to do so, the court may make an order requiring them to do so.
+
+(3) The trustees of land have power to [[^F1]acquire land under the power conferred by section 8 of the Trustee Act 2000.]
+
+[^F2]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) In exercising the powers conferred by this section trustees shall have regard to the rights of the beneficiaries.
+
+(6) The powers conferred by this section shall not be exercised in contravention of, or of any order made in pursuance of, any other enactment or any rule of law or equity.
+
+(7) The reference in subsection (6) to an order includes an order of any court or of the [[^F3]Charity Commission].
+
+(8) Where any enactment other than this section confers on trustees authority to act subject to any restriction, limitation or condition, trustees of land may not exercise the powers conferred by this section to do any act which they are prevented from doing under the other enactment by reason of the restriction, limitation or condition.
+
+[^F4][9 The duty of care under section 1 of the Trustee Act 2000 applies to trustees of land when exercising the powers conferred by this section.]
+
+#### 7 Partition by trustees.
+
+(1) The trustees of land may, where beneficiaries of full age are absolutely entitled in undivided shares to land subject to the trust, partition the land, or any part of it, and provide (by way of mortgage or otherwise) for the payment of any equality money.
+
+(2) The trustees shall give effect to any such partition by conveying the partitioned land in severalty (whether or not subject to any legal mortgage created for raising equality money), either absolutely or in trust, in accordance with the rights of those beneficiaries.
+
+(3) Before exercising their powers under subsection (2) the trustees shall obtain the consent of each of those beneficiaries.
+
+(4) Where a share in the land is affected by an incumbrance, the trustees may either give effect to it or provide for its discharge from the property allotted to that share as they think fit.
+
+(5) If a share in the land is absolutely vested in a minor, subsections (1) to (4) apply as if he were of full age, except that the trustees may act on his behalf and retain land or other property representing his share in trust for him.
+
+[[^F5](6) Subsection (1) is subject to sections 21 (part-unit: interests) and 22 (part-unit: charging) of the Commonhold and Leasehold Reform Act 2002.]
+
+#### 8 Exclusion and restriction of powers.
+
+(1) Sections 6 and 7 do not apply in the case of a trust of land created by a disposition in so far as provision to the effect that they do not apply is made by the disposition.
+
+(2) If the disposition creating such a trust makes provision requiring any consent to be obtained to the exercise of any power conferred by section 6 or 7, the power may not be exercised without that consent.
+
+(3) Subsection (1) does not apply in the case of charitable, ecclesiastical or public trusts.
+
+(4) Subsections (1) and (2) have effect subject to any enactment which prohibits or restricts the effect of provision of the description mentioned in them.
+
+#### 9 Delegation by trustees.
+
+(1) The trustees of land may, by power of attorney, delegate to any beneficiary or beneficiaries of full age and beneficially entitled to an interest in possession in land subject to the trust any of their functions as trustees which relate to the land.
+
+(2) Where trustees purport to delegate to a person by a power of attorney under subsection (1) functions relating to any land and another person in good faith deals with him in relation to the land, he shall be presumed in favour of that other person to have been a person to whom the functions could be delegated unless that other person has knowledge at the time of the transaction that he was not such a person.
+
+And it shall be conclusively presumed in favour of any purchaser whose interest depends on the validity of that transaction that that other person dealt in good faith and did not have such knowledge if that other person makes a statutory declaration to that effect before or within three months after the completion of the purchase.
+
+(3) A power of attorney under subsection (1) shall be given by all the trustees jointly and (unless expressed to be irrevocable and to be given by way of security) may be revoked by any one or more of them; and such a power is revoked by the appointment as a trustee of a person other than those by whom it is given (though not by any of those persons dying or otherwise ceasing to be a trustee).
+
+(4) Where a beneficiary to whom functions are delegated by a power of attorney under subsection (1) ceases to be a person beneficially entitled to an interest in possession in land subject to the trust—
+
+(a) if the functions are delegated to him alone, the power is revoked,
+
+(b) if the functions are delegated to him and to other beneficiaries to be exercised by them jointly (but not separately), the power is revoked if each of the other beneficiaries ceases to be so entitled (but otherwise functions exercisable in accordance with the power are so exercisable by the remaining beneficiary or beneficiaries), and
+
+(c) if the functions are delegated to him and to other beneficiaries to be exercised by them separately (or either separately or jointly), the power is revoked in so far as it relates to him.
+
+(5) A delegation under subsection (1) may be for any period or indefinite.
+
+(6) A power of attorney under subsection (1) cannot be [[^F6]an enduring power of attorney or lasting power of attorney within the meaning of the Mental Capacity Act 2005].
+
+(7) Beneficiaries to whom functions have been delegated under subsection (1) are, in relation to the exercise of the functions, in the same position as trustees (with the same duties and liabilities); but such beneficiaries shall not be regarded as trustees for any other purposes (including, in particular, the purposes of any enactment permitting the delegation of functions by trustees or imposing requirements relating to the payment of capital money).
+
+[^F7]8 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(9) Neither this section nor the repeal by this Act of section 29 of the [^M4]Law of Property Act 1925 (which is superseded by this section) affects the operation after the commencement of this Act of any delegation effected before that commencement.
+
+#### 9A [[^F8]Duties of trustees in connection with delegation etc.
+
+(1) The duty of care under section 1 of the Trustee Act 2000 applies to trustees of land in deciding whether to delegate any of their functions under section 9.
+
+(2) Subsection (3) applies if the trustees of land—
+
+(a) delegate any of their functions under section 9, and
+
+(b) the delegation is not irrevocable.
+
+(3) While the delegation continues, the trustees—
+
+(a) must keep the delegation under review,
+
+(b) if circumstances make it appropriate to do so, must consider whether there is a need to exercise any power of intervention that they have, and
+
+(c) if they consider that there is a need to exercise such a power, must do so.
+
+(4) “Power of intervention” includes—
+
+(a) a power to give directions to the beneficiary;
+
+(b) a power to revoke the delegation.
+
+(5) The duty of care under section 1 of the 2000 Act applies to trustees in carrying out any duty under subsection (3).
+
+(6) A trustee of land is not liable for any act or default of the beneficiary, or beneficiaries, unless the trustee fails to comply with the duty of care in deciding to delegate any of the trustees’ functions under section 9 or in carrying out any duty under subsection (3).
+
+(7) Neither this section nor the repeal of section 9(8) by the Trustee Act 2000 affects the operation after the commencement of this section of any delegation effected before that commencement.]
+
+### Consents and consultation
+
+#### 10 Consents.
+
+(1) If a disposition creating a trust of land requires the consent of more than two persons to the exercise by the trustees of any function relating to the land, the consent of any two of them to the exercise of the function is sufficient in favour of a purchaser.
+
+(2) Subsection (1) does not apply to the exercise of a function by trustees of land held on charitable, ecclesiastical or public trusts.
+
+(3) Where at any time a person whose consent is expressed by a disposition creating a trust of land to be required to the exercise by the trustees of any function relating to the land is not of full age—
+
+(a) his consent is not, in favour of a purchaser, required to the exercise of the function, but
+
+(b) the trustees shall obtain the consent of a parent who has parental responsibility for him (within the meaning of the [^M5]Children Act 1989) or of a guardian of his.
+
+#### 11 Consultation with beneficiaries.
+
+(1) The trustees of land shall in the exercise of any function relating to land subject to the trust—
+
+(a) so far as practicable, consult the beneficiaries of full age and beneficially entitled to an interest in possession in the land, and
+
+(b) so far as consistent with the general interest of the trust, give effect to the wishes of those beneficiaries, or (in case of dispute) of the majority (according to the value of their combined interests).
+
+(2) Subsection (1) does not apply—
+
+(a) in relation to a trust created by a disposition in so far as provision that it does not apply is made by the disposition,
+
+(b) in relation to a trust created or arising under a will made before the commencement of this Act, or
+
+(c) in relation to the exercise of the power mentioned in section 6(2).
+
+(3) Subsection (1) does not apply to a trust created before the commencement of this Act by a disposition, or a trust created after that commencement by reference to such a trust, unless provision to the effect that it is to apply is made by a deed executed—
+
+(a) in a case in which the trust was created by one person and he is of full capacity, by that person, or
+
+(b) in a case in which the trust was created by more than one person, by such of the persons who created the trust as are alive and of full capacity.
+
+(4) A deed executed for the purposes of subsection (3) is irrevocable.
+
+### Right of beneficiaries to occupy trust land
+
+#### 12 The right to occupy.
+
+(1) A beneficiary who is beneficially entitled to an interest in possession in land subject to a trust of land is entitled by reason of his interest to occupy the land at any time if at that time—
+
+(a) the purposes of the trust include making the land available for his occupation (or for the occupation of beneficiaries of a class of which he is a member or of beneficiaries in general), or
+
+(b) the land is held by the trustees so as to be so available.
+
+(2) Subsection (1) does not confer on a beneficiary a right to occupy land if it is either unavailable or unsuitable for occupation by him.
+
+(3) This section is subject to section 13.
+
+#### 13 Exclusion and restriction of right to occupy.
+
+(1) Where two or more beneficiaries are (or apart from this subsection would be) entitled under section 12 to occupy land, the trustees of land may exclude or restrict the entitlement of any one or more (but not all) of them.
+
+(2) Trustees may not under subsection (1)—
+
+(a) unreasonably exclude any beneficiary’s entitlement to occupy land, or
+
+(b) restrict any such entitlement to an unreasonable extent.
+
+(3) The trustees of land may from time to time impose reasonable conditions on any beneficiary in relation to his occupation of land by reason of his entitlement under section 12.
+
+(4) The matters to which trustees are to have regard in exercising the powers conferred by this section include—
+
+(a) the intentions of the person or persons (if any) who created the trust,
+
+(b) the purposes for which the land is held, and
+
+(c) the circumstances and wishes of each of the beneficiaries who is (or apart from any previous exercise by the trustees of those powers would be) entitled to occupy the land under section 12.
+
+(5) The conditions which may be imposed on a beneficiary under subsection (3) include, in particular, conditions requiring him—
+
+(a) to pay any outgoings or expenses in respect of the land, or
+
+(b) to assume any other obligation in relation to the land or to any activity which is or is proposed to be conducted there.
+
+(6) Where the entitlement of any beneficiary to occupy land under section 12 has been excluded or restricted, the conditions which may be imposed on any other beneficiary under subsection (3) include, in particular, conditions requiring him to—
+
+(a) make payments by way of compensation to the beneficiary whose entitlement has been excluded or restricted, or
+
+(b) forgo any payment or other benefit to which he would otherwise be entitled under the trust so as to benefit that beneficiary.
+
+(7) The powers conferred on trustees by this section may not be exercised—
+
+(a) so as prevent any person who is in occupation of land (whether or not by reason of an entitlement under section 12) from continuing to occupy the land, or
+
+(b) in a manner likely to result in any such person ceasing to occupy the land,
+
+unless he consents or the court has given approval.
+
+(8) The matters to which the court is to have regard in determining whether to give approval under subsection (7) include the matters mentioned in subsection (4)(a) to (c).
+
+### Powers of court
+
+#### 14 Applications for order.
+
+(1) Any person who is a trustee of land or has an interest in property subject to a trust of land may make an application to the court for an order under this section.
+
+(2) On an application for an order under this section the court may make any such order—
+
+(a) relating to the exercise by the trustees of any of their functions (including an order relieving them of any obligation to obtain the consent of, or to consult, any person in connection with the exercise of any of their functions), or
+
+(b) declaring the nature or extent of a person’s interest in property subject to the trust,
+
+as the court thinks fit.
+
+(3) The court may not under this section make any order as to the appointment or removal of trustees.
+
+(4) The powers conferred on the court by this section are exercisable on an application whether it is made before or after the commencement of this Act.
+
+#### 15 Matters relevant in determining applications.
+
+(1) The matters to which the court is to have regard in determining an application for an order under section 14 include—
+
+(a) the intentions of the person or persons (if any) who created the trust,
+
+(b) the purposes for which the property subject to the trust is held,
+
+(c) the welfare of any minor who occupies or might reasonably be expected to occupy any land subject to the trust as his home, and
+
+(d) the interests of any secured creditor of any beneficiary.
+
+(2) In the case of an application relating to the exercise in relation to any land of the powers conferred on the trustees by section 13, the matters to which the court is to have regard also include the circumstances and wishes of each of the beneficiaries who is (or apart from any previous exercise by the trustees of those powers would be) entitled to occupy the land under section 12.
+
+(3) In the case of any other application, other than one relating to the exercise of the power mentioned in section 6(2), the matters to which the court is to have regard also include the circumstances and wishes of any beneficiaries of full age and entitled to an interest in possession in property subject to the trust or (in case of dispute) of the majority (according to the value of their combined interests).
+
+(4) This section does not apply to an application if section 335A of the [^M6]Insolvency Act 1986 (which is inserted by Schedule 3 and relates to applications by a trustee of a bankrupt) applies to it.
+
+### Purchaser protection
+
+#### 16 Protection of purchasers.
+
+(1) A purchaser of land which is or has been subject to a trust need not be concerned to see that any requirement imposed on the trustees by section 6(5), 7(3) or 11(1) has been complied with.
+
+(2) Where—
+
+(a) trustees of land who convey land which (immediately before it is conveyed) is subject to the trust contravene section 6(6) or (8), but
+
+(b) the purchaser of the land from the trustees has no actual notice of the contravention,
+
+the contravention does not invalidate the conveyance.
+
+(3) Where the powers of trustees of land are limited by virtue of section 8—
+
+(a) the trustees shall take all reasonable steps to bring the limitation to the notice of any purchaser of the land from them, but
+
+(b) the limitation does not invalidate any conveyance by the trustees to a purchaser who has no actual notice of the limitation.
+
+(4) Where trustees of land convey land which (immediately before it is conveyed) is subject to the trust to persons believed by them to be beneficiaries absolutely entitled to the land under the trust and of full age and capacity—
+
+(a) the trustees shall execute a deed declaring that they are discharged from the trust in relation to that land, and
+
+(b) if they fail to do so, the court may make an order requiring them to do so.
+
+(5) A purchaser of land to which a deed under subsection (4) relates is entitled to assume that, as from the date of the deed, the land is not subject to the trust unless he has actual notice that the trustees were mistaken in their belief that the land was conveyed to beneficiaries absolutely entitled to the land under the trust and of full age and capacity.
+
+(6) Subsections (2) and (3) do not apply to land held on charitable, ecclesiastical or public trusts.
+
+(7) This section does not apply to registered land.
+
+### Supplementary
+
+#### 17 Application of provisions to trusts of proceeds of sale.
+
+[^F9]1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) Section 14 applies in relation to a trust of proceeds of sale of land and trustees of such a trust as in relation to a trust of land and trustees of land.
+
+(3) In this section “trust of proceeds of sale of land” means (subject to subsection (5)) any trust of property (other than a trust of land) which consists of or includes—
+
+(a) any proceeds of a disposition of land held in trust (including settled land), or
+
+(b) any property representing any such proceeds.
+
+(4) The references in subsection (3) to a trust—
+
+(a) are to any description of trust (whether express, implied, resulting or constructive), including a trust for sale and a bare trust, and
+
+(b) include a trust created, or arising, before the commencement of this Act.
+
+(5) A trust which (despite section 2) is a settlement for the purposes of the [^M7]Settled Land Act 1925 cannot be a trust of proceeds of sale of land.
+
+(6) In subsection (3)—
+
+(a) “disposition” includes any disposition made, or coming into operation, before the commencement of this Act, and
+
+(b) the reference to settled land includes personal chattels to which section 67(1) of the Settled Land Act 1925 (heirlooms) applies.
+
+#### 18 Application of Part to personal representatives.
+
+(1) The provisions of this Part relating to trustees, other than sections 10, 11 and 14, apply to personal representatives, but with appropriate modifications and without prejudice to the functions of personal representatives for the purposes of administration.
+
+(2) The appropriate modifications include—
+
+(a) the substitution of references to persons interested in the due administration of the estate for references to beneficiaries, and
+
+(b) the substitution of references to the will for references to the disposition creating the trust.
+
+(3) Section 3(1) does not apply to personal representatives if the death occurs before the commencement of this Act.
+
+## Part II — APPOINTMENT AND RETIREMENT OF TRUSTEES
+
+### 19 Appointment and retirement of trustee at instance of beneficiaries.
+
+(1) This section applies in the case of a trust where—
+
+(a) there is no person nominated for the purpose of appointing new trustees by the instrument, if any, creating the trust, and
+
+(b) the beneficiaries under the trust are of full age and capacity and (taken together) are absolutely entitled to the property subject to the trust.
+
+(2) The beneficiaries may give a direction or directions of either or both of the following descriptions—
+
+(a) a written direction to a trustee or trustees to retire from the trust, and
+
+(b) a written direction to the trustees or trustee for the time being (or, if there are none, to the personal representative of the last person who was a trustee) to appoint by writing to be a trustee or trustees the person or persons specified in the direction.
+
+(3) Where—
+
+(a) a trustee has been given a direction under subsection (2)(a),
+
+(b) reasonable arrangements have been made for the protection of any rights of his in connection with the trust,
+
+(c) after he has retired there will be either a trust corporation or at least two persons to act as trustees to perform the trust, and
+
+(d) either another person is to be appointed to be a new trustee on his retirement (whether in compliance with a direction under subsection (2)(b) or otherwise) or the continuing trustees by deed consent to his retirement,
+
+he shall make a deed declaring his retirement and shall be deemed to have retired and be discharged from the trust.
+
+(4) Where a trustee retires under subsection (3) he and the continuing trustees (together with any new trustee) shall (subject to any arrangements for the protection of his rights) do anything necessary to vest the trust property in the continuing trustees (or the continuing and new trustees).
+
+(5) This section has effect subject to the restrictions imposed by the [^M8]Trustee Act 1925 on the number of trustees.
+
+### 20 [[^F10]Appointment of substitute for trustee who lacks capacity]
+
+(1) This section applies where—
+
+(a) a trustee [[^F11]lacks capacity (within the meaning of the Mental Capacity Act 2005) to exercise] his functions as trustee,
+
+(b) there is no person who is both entitled and willing and able to appoint a trustee in place of him under section 36(1) of the Trustee Act 1925, and
+
+(c) the beneficiaries under the trust are of full age and capacity and (taken together) are absolutely entitled to the property subject to the trust.
+
+(2) The beneficiaries may give to—
+
+[[^F12](a) a deputy appointed for the trustee by the Court of Protection,]
+
+(b) an attorney acting for him under the authority of [[^F13]an enduring power of attorney or lasting power of attorney registered under the Mental Capacity Act 2005]
+
+(c) a person authorised for the purpose by [[^F14]the Court of Protection],
+
+a written direction to appoint by writing the person or persons specified in the direction to be a trustee or trustees in place of the incapable trustee.
+
+### 21 Supplementary.
+
+(1) For the purposes of section 19 or 20 a direction is given by beneficiaries if—
+
+(a) a single direction is jointly given by all of them, or
+
+(b) (subject to subsection (2)) a direction is given by each of them (whether solely or jointly with one or more, but not all, of the others),
+
+and none of them by writing withdraws the direction given by him before it has been complied with.
+
+(2) Where more than one direction is given each must specify for appointment or retirement the same person or persons.
+
+(3) Subsection (7) of section 36 of the [^M9]Trustee Act 1925 (powers of trustees appointed under that section) applies to a trustee appointed under section 19 or 20 as if he were appointed under that section.
+
+(4) A direction under section 19 or 20 must not specify a person or persons for appointment if the appointment of that person or those persons would be in contravention of section 35(1) of the Trustee Act 1925 or section 24(1) of the [^M10]Law of Property Act 1925 (requirements as to identity of trustees).
+
+(5) Sections 19 and 20 do not apply in relation to a trust created by a disposition in so far as provision that they do not apply is made by the disposition.
+
+(6) Sections 19 and 20 do not apply in relation to a trust created before the commencement of this Act by a disposition in so far as provision to the effect that they do not apply is made by a deed executed—
+
+(a) in a case in which the trust was created by one person and he is of full capacity, by that person, or
+
+(b) in a case in which the trust was created by more than one person, by such of the persons who created the trust as are alive and of full capacity.
+
+(7) A deed executed for the purposes of subsection (6) is irrevocable.
+
+(8) Where a deed is executed for the purposes of subsection (6)—
+
+(a) it does not affect anything done before its execution to comply with a direction under section 19 or 20, but
+
+(b) a direction under section 19 or 20 which has been given but not complied with before its execution shall cease to have effect.
+
+## Part III — SUPPLEMENTARY
+
+### 22 Meaning of “beneficiary”.
+
+(1) In this Act “beneficiary”, in relation to a trust, means any person who under the trust has an interest in property subject to the trust (including a person who has such an interest as a trustee or a personal representative).
+
+(2) In this Act references to a beneficiary who is beneficially entitled do not include a beneficiary who has an interest in property subject to the trust only by reason of being a trustee or personal representative.
+
+(3) For the purposes of this Act a person who is a beneficiary only by reason of being an annuitant is not to be regarded as entitled to an interest in possession in land subject to the trust.
+
+### 23 Other interpretation provisions.
+
+(1) In this Act “purchaser” has the same meaning as in Part I of the [^M11]Law of Property Act 1925.
+
+(2) Subject to that, where an expression used in this Act is given a meaning by the Law of Property Act 1925 it has the same meaning as in that Act unless the context otherwise requires.
+
+(3) In this Act “the court” means—
+
+(a) the High Court, or
+
+(b) [[^F15]the county court].
+
+### 24 Application to Crown.
+
+(1) Subject to subsection (2), this Act binds the Crown.
+
+(2) This Act (except so far as it relates to undivided shares and joint ownership) does not affect or alter the descent, devolution or nature of the estates and interests of or in—
+
+(a) land for the time being vested in Her Majesty in right of the Crown or of the Duchy of Lancaster, or
+
+(b) land for the time being belonging to the Duchy of Cornwall and held in right or respect of the Duchy.
+
+### 25 Amendments, repeals etc.
+
+(1) The enactments mentioned in Schedule 3 have effect subject to the amendments specified in that Schedule (which are minor or consequential on other provisions of this Act).
+
+(2) The enactments mentioned in Schedule 4 are repealed to the extent specified in the third column of that Schedule.
+
+(3) Neither section 2(5) nor the repeal by this Act of section 29 of the [^M12]Settled Land Act 1925 applies in relation to the deed of settlement set out in the Schedule to the [^M13]Chequers Estate Act 1917 or the trust instrument set out in the Schedule to the [^M14]Chevening Estate Act 1959.
+
+(4) The amendments and repeals made by this Act do not affect any entailed interest created before the commencement of this Act.
+
+(5) The amendments and repeals made by this Act in consequence of section 3—
+
+(a) do not affect a trust created by a will if the testator died before the commencement of this Act, and
+
+(b) do not affect personal representatives of a person who died before that commencement;
+
+and the repeal of section 22 of the [^M15]Partnership Act 1890 does not apply in any circumstances involving the personal representatives of a partner who died before that commencement.
+
+### 26 Power to make consequential provision.
+
+(1) The Lord Chancellor may by order made by statutory instrument make any such supplementary, transitional or incidental provision as appears to him to be appropriate for any of the purposes of this Act or in consequence of any of the provisions of this Act.
+
+(2) An order under subsection (1) may, in particular, include provision modifying any enactment contained in a public general or local Act which is passed before, or in the same Session as, this Act.
+
+(3) A statutory instrument made in the exercise of the power conferred by this section is subject to annulment in pursuance of a resolution of either House of Parliament.
+
+### 27 Short title, commencement and extent.
+
+(1) This Act may be cited as the Trusts of Land and Appointment of Trustees Act 1996.
+
+(2) This Act comes into force on such day as the Lord Chancellor appoints by order made by statutory instrument.
+
+(3) Subject to subsection (4), the provisions of this Act extend only to England and Wales.
+
+(4) The repeal in section 30(2) of the [^M16]Agriculture Act 1970 extends only to Northern Ireland.
+
+## SCHEDULE 1 — PROVISIONS CONSEQUENTIAL ON SECTION 2
+
+*Section 2.*
+
+### Minors
+
+**1** (1) Where after the commencement of this Act a person purports to convey a legal estate in land to a minor, or two or more minors, alone, the conveyance—
+
+(a) is not effective to pass the legal estate, but
+
+(b) operates as a declaration that the land is held in trust for the minor or minors (or if he purports to convey it to the minor or minors in trust for any persons, for those persons).
+
+(2) Where after the commencement of this Act a person purports to convey a legal estate in land to—
+
+(a) a minor or two or more minors, and
+
+(b) another person who is, or other persons who are, of full age,
+
+the conveyance operates to vest the land in the other person or persons in trust for the minor or minors and the other person or persons (or if he purports to convey it to them in trust for any persons, for those persons).
+
+(3) Where immediately before the commencement of this Act a conveyance is operating (by virtue of section 27 of the [^M17]Settled Land Act 1925) as an agreement to execute a settlement in favour of a minor or minors—
+
+(a) the agreement ceases to have effect on the commencement of this Act, and
+
+(b) the conveyance subsequently operates instead as a declaration that the land is held in trust for the minor or minors.
+
+**2** Where after the commencement of this Act a legal estate in land would, by reason of intestacy or in any other circumstances not dealt with in paragraph 1, vest in a person who is a minor if he were a person of full age, the land is held in trust for the minor.
+
+### Family charges
+
+**3** Where, by virtue of an instrument coming into operation after the commencement of this Act, land becomes charged voluntarily (or in consideration of marriage[[^F16]or the formation of a civil partnership]) or by way of family arrangement, whether immediately or after an interval, with the payment of—
+
+(a) a rentcharge for the life of a person or a shorter period, or
+
+(b) capital, annual or periodical sums for the benefit of a person,
+
+the instrument operates as a declaration that the land is held in trust for giving effect to the charge.
+
+### Charitable, ecclesiastical and public trusts
+
+**4** (1) This paragraph applies in the case of land held on charitable, ecclesiastical or public trusts (other than land to which the [^M18]Universities and College Estates Act 1925 applies).
+
+(2) Where there is a conveyance of such land—
+
+(a) if neither [[^F17]section 122(2) nor section 125(1) of the Charities Act 2011] applies to the conveyance, it shall state that the land is held on such trusts, and
+
+(b) [[^F18]if section 122(2) or 125(1) of that Act applies to the conveyance but has not been complied with] and a purchaser has notice that the land is held on such trusts, he must see that any consents or orders necessary to authorise the transaction have been obtained.
+
+(3) Where any trustees or the majority of any set of trustees have power to transfer or create any legal estate in the land, the estate shall be transferred or created by them in the names and on behalf of the persons in whom it is vested.
+
+### Entailed interests
+
+**5** (1) Where a person purports by an instrument coming into operation after the commencement of this Act to grant to another person an entailed interest in real or personal property, the instrument—
+
+(a) is not effective to grant an entailed interest, but
+
+(b) operates instead as a declaration that the property is held in trust absolutely for the person to whom an entailed interest in the property was purportedly granted.
+
+(2) Where a person purports by an instrument coming into operation after the commencement of this Act to declare himself a tenant in tail of real or personal property, the instrument is not effective to create an entailed interest.
+
+### Property held on settlement ceasing to exist
+
+**6** Where a settlement ceases to be a settlement for the purposes of the [^M19]Settled Land Act 1925 because no relevant property (within the meaning of section 2(4)) is, or is deemed to be, subject to the settlement, any property which is or later becomes subject to the settlement is held in trust for the persons interested under the settlement.
+
+## SCHEDULE 2 — AMENDMENTS OF STATUTORY PROVISIONS IMPOSING TRUST FOR SALE
+
+*Section 5.*
+
+### Mortgaged property held by trustees after redemption barred
+
+**1** (1) Section 31 of the [^M20]Law of Property Act 1925 (implied trust for sale of mortgaged property where right of redemption is barred) is amended as follows.
+
+(2) In subsection (1), for the words “on trust for sale.” substitute
+
+> in trust—
+>
+> (a) to apply the income from the property in the same manner as interest paid on the mortgage debt would have been applicable; and
+>
+> (b) if the property is sold, to apply the net proceeds of sale, after payment of costs and expenses, in the same manner as repayment of the mortgage debt would have been applicable.
+
+(3) In subsection (2), for the words from the beginning to “this subsection” substitute—
+
+> (2) Subsection (1) of this section
+
+.
+
+(4) Omit subsection (3).
+
+(5) For subsection (4) substitute—
+
+> (4) Where—
+>
+> (a) the mortgage money is capital money for the purposes of the Settled Land Act 1925;
+>
+> (b) land other than any forming the whole or part of the property mentioned in subsection (1) of this section is, or is deemed to be, subject to the settlement; and
+>
+> (c) the tenant for life or statutory owner requires the trustees to execute with respect to land forming the whole or part of that property a vesting deed such as would have been required in relation to the land if it had been acquired on a purchase with capital money,
+>
+> the trustees shall execute such a vesting deed.
+
+(6) In accordance with the amendments made by sub-paragraphs (2) to (5), in the sidenote of section 31 for the words “Trust for sale” substitute “ Trust ”.
+
+(7) The amendments made by this paragraph—
+
+(a) apply whether the right of redemption is discharged before or after the commencement of this Act, but
+
+(b) are without prejudice to any dealings or arrangements made before the commencement of this Act.
+
+### Land purchased by trustees of personal property etc.
+
+**2** (1) Section 32 of the [^M21]Law of Property Act 1925 (implied trust for sale of land acquired by trustees of personal property or of land held on trust for sale) is omitted.
+
+(2) The repeal made by this paragraph applies in relation to land purchased after the commencement of this Act whether the trust or will in pursuance of which it is purchased comes into operation before or after the commencement of this Act.
+
+### Dispositions to tenants in common
+
+**3** (1) Section 34 of the Law of Property Act 1925 is amended as follows.
+
+(2) In subsection (2) (conveyance of land in undivided shares to operate as conveyance to grantees on trust for sale), for the words from “upon the statutory trusts” to “those shares” substitute “ in trust for the persons interested in the land ”.
+
+(3) In subsection (3) (devise etc. of land in undivided shares to operate as devise etc. to trustees of will etc. on trust for sale)—
+
+(a) omit the words from “the trustees (if any)” to “then to” and the words “in each case”, and
+
+(b) for the words “upon the statutory trusts hereinafter mentioned” substitute “ in trust for the persons interested in the land ”.
+
+(4) After that subsection insert—
+
+> (3A) In subsections (2) and (3) of this section references to the persons interested in the land include persons interested as trustees or personal representatives (as well as persons beneficially interested).
+
+(5) Omit subsection (4) (settlement of undivided shares in land to operate only as settlement of share of profits of sale and rents and profits).
+
+(6) The amendments made by this paragraph apply whether the disposition is made, or comes into operation, before or after the commencement of this Act.
+
+### Joint tenancies
+
+**4** (1) Section 36 of the Law of Property Act 1925 is amended as follows.
+
+(2) In subsection (1) (implied trust for sale applicable to land held for persons as joint tenants), for the words “on trust for sale” substitute “ in trust ”.
+
+(3) In subsection (2) (severance of beneficial joint tenancy)—
+
+(a) in the proviso, for the words “under the trust for sale affecting the land the net proceeds of sale, and the net rents and profits until sale, shall be held upon the trusts” substitute “ the land shall be held in trust on terms ”, and
+
+(b) in the final sentence, for the words “on trust for sale” substitute “ in trust ”.
+
+(4) The amendments made by this paragraph apply whether the legal estate is limited, or becomes held in trust, before or after the commencement of this Act.
+
+### Intestacy
+
+**5** (1) Section 33 of the [^M22]Administration of Estates Act 1925 (implied trust for sale on intestacy) is amended as follows.
+
+(2) For subsection (1) substitute—
+
+> (1) On the death of a person intestate as to any real or personal estate, that estate shall be held in trust by his personal representatives with the power to sell it.
+
+(3) In subsection (2), for the words from the beginning to “pay all” substitute—
+
+> (2) The personal representatives shall pay out of—
+>
+> (a) the ready money of the deceased (so far as not disposed of by his will, if any); and
+>
+> (b) any net money arising from disposing of any other part of his estate (after payment of costs),
+>
+> all
+
+.
+
+(4) In subsection (4), for the words from “including” to “retained” substitute “ and any part of the estate of the deceased which remains ”.
+
+(5) The amendments made by this paragraph apply whether the death occurs before or after the commencement of this Act.
+
+### Reverter of sites
+
+**6** (1) Section 1 of the [^M23]Reverter of Sites Act 1987 (right of reverter replaced by trust for sale) is amended as follows.
+
+(2) In subsection (2)—
+
+(a) after “a trust” insert “ for the persons who (but for this Act) would from time to time be entitled to the ownership of the land by virtue of its reverter with a power, without consulting them, ”, and
+
+(b) for the words “upon trust” onwards substitute “ in trust for those persons; but they shall not be entitled by reason of their interest to occupy the land. ”
+
+(3) In subsection (3), for the words “trustees for sale” substitute “ trustees ”.
+
+(4) In subsection (4), for the words “on trust for sale” substitute “ in trust ”.
+
+(5) In accordance with the amendments made by this paragraph, in the sidenote, for “trust for sale” substitute “ trust ”.
+
+(6) The amendments made by this paragraph apply whether the trust arises before or after the commencement of this Act.
+
+### Trusts deemed to arise in 1926
+
+**7** Where at the commencement of this Act any land is held on trust for sale, or on the statutory trusts, by virtue of Schedule 1 to the [^M24]Law of Property Act 1925 (transitional provisions), it shall after that commencement be held in trust for the persons interested in the land; and references in that Schedule to trusts for sale or trustees for sale or to the statutory trusts shall be construed accordingly.
+
+## SCHEDULE 3 — MINOR AND CONSEQUENTIAL AMENDMENTS
+
+*Section 25(1).*
+
+### The Law of Property Act 1922 (c.16)
+
+**1** In paragraph 17(3) and (4) of Schedule 15 to the Law of Property Act 1922, for the words “held on trust for sale” substitute “ subject to a trust of land ”.
+
+### The Settled Land Act 1925 (c.18)
+
+**2** (1) The Settled Land Act 1925 is amended as follows.
+
+(2) In section 1(1)(ii)(c), after the word “fee” insert “ (other than a fee which is a fee simple absolute by virtue of section 7 of the Law of Property Act 1925) ”.
+
+(3) In section 3, for the words “not held upon trust for sale which has been subject to a settlement” substitute “ which has been subject to a settlement which is a settlement for the purposes of this Act ”.
+
+(4) In section 7(5), for the words “trustee for sale” substitute “ trustee of land ”.
+
+(5) In section 12(1), for the words “trustee for sale” substitute “ trustee of land ”.
+
+(6) In section 17—
+
+(a) in subsection (1)—
+
+(i) for the words “trust for sale”, in the first three places, substitute “ trust of land ”, and
+
+(ii) for the words “held on trust for sale” substitute “ subject to a trust of land ”,
+
+(b) in subsection (2)(c), for the words “a conveyance on trust for sale” substitute “ land ”, and
+
+(c) in subsection (3), for the words “any trust for sale” substitute “ a trust of land ”.
+
+(7) In section 18(2)(b), for the words “trustee for sale” substitute “ trustee of land ”.
+
+(8) In section 20(1)(viii), for the words “an immediate binding trust for sale” substitute “ a trust of land ”.
+
+(9) In section 30(1)—
+
+(a) in paragraph (iii), for the words “power of or upon trust for sale of” substitute “ a power or duty to sell ”, and
+
+(b) in paragraph (iv)—
+
+(i) for the words “future power of sale, or under a future trust for sale of” substitute “ a future power or duty to sell ”, and
+
+(ii) for the words “or trust” substitute “ or duty ”.
+
+(10) In section 33(1), for the words “any power of sale, or trust for sale” substitute “ a power or duty to sell ”.
+
+(11) In section 36—
+
+(a) for the words—
+
+(i) “upon the statutory trusts” in subsection (2), and
+
+(ii) “on the statutory trusts” in subsection (3),
+
+substitute “ in trust for the persons interested in the land ”,
+
+(b) in subsection (4), for the words “trust for sale” substitute “ trust of land ”,
+
+(c) for subsection (6) substitute—
+
+> (6) In subsections (2) and (3) of this section references to the persons interested in the land include persons interested as trustees or personal representatives (as well as persons beneficially interested).
+
+, and
+
+(d) in accordance with the amendments made by paragraphs (a) to (c), in the sidenote, for the words “trust for sale of the land” substitute “ trust of land ”.
+
+(12) In section 110(5), for the words “trustee for sale” substitute “ trustee of land ”.
+
+(13) In section 117(1)—
+
+(a) in paragraph (ix), for the words “not being” substitute “ , but does not (except in the phrase “trust of land”) include ”, and
+
+(b) in paragraph (xxx), for the words “ “trustees for sale” and “power to postpone a sale” have the same meanings” substitute “ has the same meaning ”.
+
+### The Trustee Act 1925 (c.19)
+
+**3** (1) The Trustee Act 1925 is amended as follows.
+
+(2) In section 12—
+
+(a) in subsection (1), for the words “a trust for sale or a power of sale of property is vested in a trustee” substitute “ a trustee has a duty or power to sell property ”, and
+
+(b) in subsection (2), for the word “trust”, in both places, substitute “ duty ”.
+
+(3) In section 14(2), for paragraph (a) substitute—
+
+> (a) proceeds of sale or other capital money arising under a trust of land;
+
+.
+
+[^F19]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) In section 20(3)(c), for the words “property held upon trust for sale” substitute “ land subject to a trust of land or personal property held on trust for sale ”.
+
+(6) In section 24—
+
+(a) for the words “the proceeds of sale of land directed to be sold, or in any other” substitute “ any ”,
+
+(b) for the words “trust for sale” substitute “ trust ”,
+
+(c) for the words “trustees for sale” substitute “ trustees ”, and
+
+(d) for the words “trust or” substitute “ duty or ”.
+
+(7) In section 27(1), for the words “or of a disposition on trust for sale” substitute “ , trustees of land, trustees for sale of personal property ”.
+
+(8) In section 32, for subsection (2) substitute—
+
+> (2) This section does not apply to capital money arising under the [^M25]Settled Land Act 1925.
+
+(9) In section 34(2), for the words “on trust for sale of land” substitute “ creating trusts of land ”.
+
+(10) In section 35—
+
+(a) for subsection (1) substitute—
+
+> (1) Appointments of new trustees of land and of new trustees of any trust of the proceeds of sale of the land shall, subject to any order of the court, be effected by separate instruments, but in such manner as to secure that the same persons become trustees of land and trustees of the trust of the proceeds of sale.
+
+,
+
+(b) for subsection (3) substitute—
+
+> (3) Where new trustees of land are appointed, a memorandum of the persons who are for the time being the trustees of the land shall be endorsed on or annexed to the conveyance by which the land was vested in trustees of land; and that conveyance shall be produced to the persons who are for the time being the trustees of the land by the person in possession of it in order for that to be done when the trustees require its production.
+
+, and
+
+(c) in accordance with the amendments made by paragraphs (a) and (b), in the sidenote, for the words “dispositions on trust for sale of land” substitute “ and trustees of land ”.
+
+(11) In section 36(6), for the words before paragraph (a) substitute—
+
+> (6) Where, in the case of any trust, there are not more than three trustees—
+
+.
+
+(12) In section 37(1)(c), for the word “individuals” substitute “ persons ”.
+
+(13) In section 39(1), for the word “individuals” substitute “ persons ”.
+
+(14) In section 40(2), for the words “the statutory power” substitute “ section 39 of this Act or section 19 of the Trusts of Land and Appointment of Trustees Act 1996 ”.
+
+### The Law of Property Act 1925 (c.20)
+
+**4** (1) The Law of Property Act 1925 is amended as follows.
+
+(2) In section 2—
+
+(a) in subsection (1), in paragraph (ii)—
+
+(i) for the words “trustees for sale” substitute “ trustees of land ”, and
+
+(ii) for the words “the statutory requirements respecting the payment of capital money arising under a disposition upon trust for sale” substitute “ the requirements of section 27 of this Act respecting the payment of capital money arising on such a conveyance ”,
+
+(b) after that subsection insert—
+
+> (1A) An equitable interest in land subject to a trust of land which remains in, or is to revert to, the settlor shall (subject to any contrary intention) be overreached by the conveyance if it would be so overreached were it an interest under the trust.
+
+, and
+
+(c) in subsection (2)—
+
+(i) for the words “a trust for sale” substitute “ a trust of land ”,
+
+(ii) for the words “under the trust for sale or the powers conferred on the trustees for sale” substitute “ by the trustees ”, and
+
+(iii) for the words “to the trust for sale” substitute “ to the trust ”.
+
+(3) In section 3(1)(c), for the words “Where the legal estate affected is neither settled land nor vested in trustees for sale” substitute “ In any other case ”.
+
+(4) In section 16—
+
+(a) in subsection (2), for the words “pursuant to a trust for sale” substitute “ by trustees of land ”, and
+
+(b) in subsection (6), for the words “trustee for sale” substitute “ trustee of land ”.
+
+(5) In section 18—
+
+(a) in subsection (1)—
+
+(i) after the word “settled” insert “ or held subject to a trust of land ”, and
+
+(ii) for the words “trustee for sale” substitute “ trustee of land ”, and
+
+(b) in subsection (2)(b), for the words “of the land or of the proceeds of sale” substitute “ or trust ”.
+
+(6) In section 22(2)—
+
+(a) for the words “held on trust for sale” substitute “ subject to a trust of land ”, and
+
+(b) for the words “under the trust for sale or under the powers vested in the trustees for sale” substitute “ by the trustees ”,
+
+and, in accordance with the amendments made by paragraphs (a) and (b), in the sidenote of section 22, for the words “on trust for sale” substitute “ in trust ”.
+
+(7) For section 24 substitute—
+
+> **Trusts of land**
+>
+> **Appointment of trustees of land.**
+>
+> **24** (1) The persons having power to appoint new trustees of land shall be bound to appoint the same persons (if any) who are for the time being trustees of any trust of the proceeds of sale of the land.
+>
+> (2) A purchaser shall not be concerned to see that subsection (1) of this section has been complied with.
+>
+> (3) This section applies whether the trust of land and the trust of proceeds of sale are created, or arise, before or after the commencement of this Act.
+
+(8) In section 27—
+
+(a) for subsection (1) substitute—
+
+> (1) A purchaser of a legal estate from trustees of land shall not be concerned with the trusts affecting the land, the net income of the land or the proceeds of sale of the land whether or not those trusts are declared by the same instrument as that by which the trust of land is created.
+
+, and
+
+(b) in subsection (2)—
+
+(i) for the words “trust for sale” substitute “ trust ”,
+
+(ii) for the words “the settlement of the net proceeds” substitute “ any trust affecting the net proceeds of sale of the land if it is sold ”, and
+
+(iii) for the words “trustees for sale” substitute “ trustees ”.
+
+(9) In section 33—
+
+(a) for the words “trustees for sale” substitute “ trustees of land ”, and
+
+(b) for the words “on trust for sale” substitute “ land in trust ”.
+
+(10) In section 39(4), for the words “trusts for sale” substitute “ trusts ”.
+
+(11) In section 42—
+
+(a) in subsection (1)(a), for the words “trust for sale” substitute “ trust of land ”, and
+
+(b) in subsection (2)—
+
+(i) in paragraph (a), for the words “a conveyance on trust for sale” substitute “ land ”, and
+
+(ii) in paragraph (b), for the words “on trust for sale” substitute “ in trust ”.
+
+(12) In section 66(2), for the words “trustee for sale” substitute “ trustee of land ”.
+
+(13) In section 102(1)—
+
+(a) for the words “share in the proceeds of sale of the land and in the rents and profits thereof until sale” substitute “ interest under the trust to which the land is subject ”, and
+
+(b) for the words “trustees for sale” substitute “ trustees ”.
+
+(14) In section 131, after the words “but for this section” insert “ (and paragraph 5 of Schedule 1 to the Trusts of Land and Appointment of Trustees Act 1996) ”.
+
+(15) In section 137—
+
+(a) in subsection (2)(ii), for the words “the proceeds of sale of land” onwards substitute “ land subject to a trust of land, or the proceeds of the sale of such land, the persons to be served with notice shall be the trustees. ”, and
+
+(b) in subsection (5), for the words “held on trust for sale” substitute “ subject to a trust of land ”.
+
+(16) In section 153(6)(ii), for the words “in trust for sale” substitute “ as a trustee of land ”.
+
+### The Land Registration Act 1925 (c.21)
+
+**[^F20]5** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Administration of Estates Act 1925 (c.23)
+
+**6** (1) The Administration of Estates Act 1925 is amended as follows.
+
+(2) In section 39(1)—
+
+(a) in paragraph (i), at the beginning insert “as respects the personal estate,”,
+
+(b) for paragraph (ii) substitute—
+
+> (ii) as respects the real estate, all the functions conferred on them by Part I of the Trusts of Land and Appointment of Trustees Act 1996;
+
+, and
+
+(c) in paragraph (iii), for the words “conferred by statute on trustees for sale, and” substitute “ necessary ”.
+
+(3) In section 41(6), for the words “trusts for sale” substitute “ trusts ”.
+
+(4) In section 51(3)—
+
+(a) after the word “married” insert “ and without issue ”,
+
+(b) before the word “settlement”, in both places, insert “ trust or ”, and
+
+(c) for the words “an entailed interest” substitute “ a life interest ”.
+
+(5) In section 55(1), after paragraph (vi) insert—
+
+> (via) “Land” has the same meaning as in the [^M26]Law of Property Act 1925;
+
+.
+
+### The Green Belt (London and Home Counties) Act 1938 (c.xciii)
+
+**7** In section 19(1) of the Green Belt (London and Home Counties) Act 1938—
+
+(a) for the words “trustee for sale within the meaning of the Law of Property Act 1925” substitute “ trustee of land ”, and
+
+(b) for the words “of a trustee for sale” substitute “ of a trustee of land ”.
+
+### The Settled Land and Trustee Acts (Court’s General Powers) Act 1943 (c.25)
+
+**8** In section 1 of the Settled Land and Trustee Acts (Court’s General Powers) Act 1943—
+
+(a) in subsection (1)—
+
+(i) for the words “trustees for sale of land” substitute “ trustees of land ”, and
+
+(ii) for the words “land held on trust for sale” substitute “ land subject to a trust of land ”, and
+
+(b) in subsections (2) and (3), for the words “trust for sale” substitute “ trust of land ”.
+
+### The Historic Buildings and Ancient Monuments Act 1953 (c.49)
+
+**9** In sections 8(3), 8A(3) and 8B(3) of the Historic Buildings and Ancient Monuments Act 1953, for the words from “held on” to “thereof” substitute “ subject to a trust of land, are conferred by law on the trustees of land in relation to the land and to the proceeds of its sale ”.
+
+### The Leasehold Reform Act 1967 (c.88)
+
+**10** In the Leasehold Reform Act 1967—
+
+(a) in section 6(1), for the words “the statutory trusts arising by virtue of sections 34 to 36” substitute “ a trust arising under section 34 or section 36 ”,
+
+(b) in section 24(1)(a), for the words “held on trust for sale” substitute “ subject to a trust of land ”, and
+
+(c) in paragraph 7 of Schedule 2—
+
+(i) in sub-paragraph (1), for the words “a disposition on trust for sale” substitute “ trust of land ”, and
+
+(ii) in sub-paragraph (3), for the words “held on trust for sale” substitute “ subject to a trust of land ”.
+
+### The Agriculture Act 1970 (c.40)
+
+**11** In section 33(2) of the Agriculture Act 1970—
+
+(a) for the words “held under a trust for sale” substitute “ subject to a trust of land ”, and
+
+(b) for the words “the trustees for sale” substitute “ the trustees of land ”.
+
+### The Land Charges Act 1972 (c.61)
+
+**12** (1) The Land Charges Act 1972 is amended as follows.
+
+(2) In section 2(4)(iii)(b), for the words “trust for sale” substitute “ trust of land ”.
+
+(3) In section 6, after subsection (1) insert—
+
+> (1A) No writ or order affecting an interest under a trust of land may be registered under subsection (1) above.
+
+### The Land Compensation Act 1973 (c.26)
+
+**13** In subsection (2) of section 10 of the Land Compensation Act 1973, for the words “held on trust for sale” substitute “ subject to a trust of land ” and, in accordance with that amendment, in the sidenote of that section, for the words “trusts for sale” substitute “ trusts of land ”.
+
+### The Local Land Charges Act 1975 (c.76)
+
+**14** In section 11(2) of the Local Land Charges Act 1975, for the words “held on trust for sale” substitute “ subject to a trust of land ”.
+
+### The Rentcharges Act 1977 (c.30)
+
+**15** (1) The Rentcharges Act 1977 is amended as follows.
+
+(2) In section 2(3), for paragraphs (a) and (b) substitute—
+
+> (a) in the case of which paragraph 3 of Schedule 1 to the Trusts of Land and Appointment of Trustees Act 1996 (trust in case of family charge) applies to the land on which the rent is charged;
+>
+> (b) in the case of which paragraph (a) above would have effect but for the fact that the land on which the rent is charged is settled land or subject to a trust of land;
+
+.
+
+(3) In section 10(2)(b), for the words “trust for sale” substitute “ trust of land ”.
+
+### The Interpretation Act 1978 (c.30)
+
+**16** In Schedule 1 to the Interpretation Act 1978, after the definition of “The Treasury” insert—
+
+> - “Trust of land” and “trustees of land”, in relation to England and Wales, have the same meanings as in the Trusts of Land and Appointment of Trustees Act 1996.
+
+### The Ancient Monuments and Archaeological Areas Act 1979 (c.46)
+
+**17** In the Ancient Monuments and Archaeological Areas Act 1979—
+
+(a) in section 12(3), for the words “trust for sale” substitute “ trust of land ”, and
+
+(b) in section 18(4), for paragraph (b) substitute—
+
+> (b) as trustees of land;
+
+.
+
+### The Limitation Act 1980 (c.58)
+
+**18** In paragraph 9 of Schedule 1 to the Limitation Act 1980, for the words “held on trust for sale” substitute “ subject to a trust of land ”.
+
+### The Highways Act 1980 (c.66)
+
+**19** In section 87(4)(b) of the Highways Act 1980, for the words from “and section 28” to “apply” substitute “ applies ”.
+
+### [^F21]. . .
+
+**[^F22]20** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Health and Social Services and Social Security Adjudications Act 1983 (c.41)
+
+**21** In section 22 of the Health and Social Services and Social Security Adjudications Act 1983—
+
+(a) in subsection (5)—
+
+(i) for the words “a joint tenant in the proceeds of sale of land held upon trust for sale” substitute “ an equitable joint tenant in land ”, and
+
+(ii) for the words “those proceeds” substitute “ the land ”,
+
+(b) in subsection (6)—
+
+(i) for the words “a joint tenant in the proceeds of sale of land held upon trust for sale” substitute “ an equitable joint tenant in land ”,
+
+(ii) for the words “proceeds is” substitute “ land is ”, and
+
+(iii) for the words “interests in the proceeds” substitute “ interests in the land ”, and
+
+(c) in subsection (8), for the words “an interest in the proceeds of sale of land” substitute “ the interest of an equitable joint tenant in land ”.
+
+### The Telecommunications Act 1984 (c.12)
+
+**22** In paragraph 4(10) of Schedule 2 to the Telecommunications Act 1984, for the words “trusts for sale” substitute “ trusts of land ”.
+
+### The Insolvency Act 1986 (c.45)
+
+**23** At the beginning of Chapter V of Part IX of the Insolvency Act 1986 insert—
+
+> **Rights under trusts of land**
+>
+> **Rights under trusts of land.**
+>
+> **335A** (1) Any application by a trustee of a bankrupt’s estate under section 14 of the Trusts of Land and Appointment of Trustees Act 1996 (powers of court in relation to trusts of land) for an order under that section for the sale of land shall be made to the court having jurisdiction in relation to the bankruptcy.
+>
+> (2) On such an application the court shall make such order as it thinks just and reasonable having regard to—
+>
+> (a) the interests of the bankrupt’s creditors;
+>
+> (b) where the application is made in respect of land which includes a dwelling house which is or has been the home of the bankrupt or the bankrupt’s spouse or former spouse—
+>
+> (i) the conduct of the spouse or former spouse, so far as contributing to the bankruptcy,
+>
+> (ii) the needs and financial resources of the spouse or former spouse, and
+>
+> (iii) the needs of any children; and
+>
+> (c) all the circumstances of the case other than the needs of the bankrupt.
+>
+> (3) Where such an application is made after the end of the period of one year beginning with the first vesting under Chapter IV of this Part of the bankrupt’s estate in a trustee, the court shall assume, unless the circumstances of the case are exceptional, that the interests of the bankrupt’s creditors outweigh all other considerations.
+>
+> (4) The powers conferred on the court by this section are exercisable on an application whether it is made before or after the commencement of this section.
+
+### The Patronage (Benifices) Measure 1986 (No.3)
+
+**24** In section 33 of the Patronage (Benifices) Measure 1986—
+
+(a) in subsection (1), for the words from “held by any trustee” to “capable of sale” substitute “ subject to a trust of land ”, and
+
+(b) in subsection (2), for the words “section 26(1) and (2) of the [^M27]Law of Property Act 1925 (consents to the execution of a trust for sale)” substitute “ section 10 of the Trusts of Land and Appointment of Trustees Act 1996 (consents) ”.
+
+### The Family Law Reform Act 1987 (c.42)
+
+**25** In section 19(2) of the Family Law Reform Act 1987, for the words “which is used to create” substitute “ purporting to create ”.
+
+### The Charities Act 1993 (c.10)
+
+**[^F23]26** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Leasehold Reform, Housing and Urban Development Act 1993 (c.28)
+
+**27** (1) The Leasehold Reform, Housing and Urban Development Act 1993 is amended as follows.
+
+(2) In Schedule 2—
+
+(a) in paragraph 5(1) and (2), for the words “held on trust for sale” substitute “ subject to a trust of land ” (and, accordingly, in the heading immediately preceding paragraph 5 for the words “on trust for sale” substitute “ in trust ”),
+
+(b) in paragraph 6, for the words “as mentioned in paragraph 5(2)(b) above” substitute “ by the landlord on the termination of a new lease granted under Chapter II or section 93(4) (whether the payment is made in pursuance of an order under section 61 or in pursuance of an agreement made in conformity with paragraph 5 of Schedule 14 without an application having been made under that section) ”, and
+
+(c) in paragraphs 7(2)(b) and 8(3)(b) and (4)(c), for “5(2)(b)” substitute “ 6 ”.
+
+(3) In Schedule 14—
+
+(a) in paragraph 7(1), for the words “disposition on trust for sale” substitute “ trust of land ”, and
+
+(b) in paragraph 9(a), for the words “held on trust for sale” substitute “ subject to a trust of land ”.
+
+## SCHEDULE 4 — REPEALS
+
+*Section 25(2).*
+
+|  |  |  |
+|---|---|---|
+| Chapter | Short title | Extent of repeal |
+| 3 & 4 Will.4 c. 74. | The Fines and Recoveries Act 1833. | In section 1, the words “, and any undivided share thereof”, in both places. |
+| 7 Will.4 & 1 Vict. c. 26. | The Wills Act 1837. | In section 1, the words “and to any undivided share thereof,”. |
+|  |  | Section 32. |
+| 53 & 54 Vict. c. 39. | The Partnership Act 1890. | Section 22. |
+| 12 & 13 Geo.5 c. 16. | The Law of Property Act 1922. | In section 188—<br>in subsection (1), the words “but not an undivided share in land;” and the words “but not an undivided share thereof”, and<br>subsection (30). |
+| 15 & 16 Geo.5 c. 18. | The Settled Land Act 1925. | Section 27. |
+|  |  | Section 29. |
+| 15 & 16 Geo.5 c. 19. | The Trustee Act 1925. | In section 10(2)—<br>in the first paragraph, the words “by trustees or” and the words “the trustees, or”, and<br>in the second paragraph, the words from the beginning to “mortgage; and”. |
+|  |  | In section 19(1), the words “building or”, in the second place. |
+|  |  | In section 68—<br>in subsection (6), the words “, but not an undivided share in land” and the words “, but not an undivided share thereof”, and<br>in subsection (19), the word “binding”, the words “, and with or without power at discretion to postpone the sale” and the definition of “trustees for sale”. |
+| 15 & 16 Geo.5 c. 20. | The Law of Property Act 1925. | In section 3—<br>subsections (1)(b) and (2), and<br>in subsection (5), the words “trustees for sale or other”. |
+|  |  | In section 7(3), the second paragraph. |
+|  |  | In section 18—<br>in subsection (1), the words from “, and personal estate” to “payable”, in the second place, and the words “or is capable of being”, and<br>in subsection (2), the words “of the settlement or the trustees for sale”, in both places. |
+|  |  | Section 19. |
+|  |  | Section 23 (and the heading immediately preceding it). |
+|  |  | Sections 25 and 26. |
+|  |  | Sections 28 to 30. |
+|  |  | Section 31(3). |
+|  |  | Section 32. |
+|  |  | In section 34—<br>in subsection (3), the words from “the trustees (if any)” to “then to” and the words “in each case”, and<br>subsection (4). |
+|  |  | Section 35. |
+|  |  | Section 42(6). |
+|  |  | In section 60, paragraphs (b) and (c) of the proviso to subsection (4). |
+|  |  | In section 130, subsections (1) to (3) and (6) (and the words “Creation of” in the sidenote). |
+|  |  | Section 201(3). |
+|  |  | In section 205(1)—<br>in paragraph (ix), the words “but not an undivided share in land;” and the words “but not an undivided share thereof”,<br>in paragraph (x), the words “or in the proceeds of sale thereof”, and<br>in paragraph (xxix), the word “binding”, the words “, and with or without a power at discretion to postpone the sale” and the words “and “power”” onwards. |
+| 15 & 16 Geo.5 c. 21. | The Land Registration Act 1925. | In section 3—<br>in paragraph (viii), the words “but not an undivided share in land;”,<br>in paragraph (xi), the words “or in the proceeds of sale thereof”,<br>in paragraph (xiv), the words “, but not an undivided share thereof”, and<br>paragraphs (xxviii) and (xxix). |
+| 15 & 16 Geo.5 c. 23. | The Administration of Estates Act 1925. | In section 3(1)(ii), the words “money to arise under a trust for sale of land, nor”. |
+|  |  | In section 39(1)(i), the words from “, and such power” to “legal mortgage”. |
+|  |  | In section 51—<br>in subsection (3), the word “settled”, and<br>subsection (4). |
+|  |  | In section 55(1)—<br>in paragraph (vii), the words “or in the proceeds of sale thereof”,<br>in paragraph (xxiv), the word “ “land””, and<br>paragraph (xxvii). |
+| 15 & 16 Geo.5 c. 24. | The Universities and College Estates Act 1925. | In section 43(iv), the words “, but not an undivided share in land”. |
+| 16 & 17 Geo.5 c. 11. | The Law of Property (Amendment) Act 1926. | In the Schedule, the entries relating to section 3 of the Settled Land Act 1925 and sections 26, 28 and 35 of the Law of Property Act 1925. |
+| 17 & 18 Geo.5 c. 36. | The Landlord and Tenant Act 1927. | In section 13—<br>in subsection (1), the words from “(either” to “Property Act, 1925)”,<br>in subsection (2), the words “, trustee for sale, or personal representative”, and<br>in subsection (3), the words “, and “settled land”” onwards. |
+| 22 & 23 Geo.5 c. 27. | The Law of Property (Entailed Interests) Act 1932. | Section 1. |
+| 2 & 3 Geo.6 c. 72. | The Landlord and Tenant (War Damage) Act 1939. | Section 3(c). |
+| 9 & 10 Geo.6 c. 73. | The Hill Farming Act 1946. | Section 11(2). |
+| 12 & 13 Geo.6 c. 74. | The Coast Protection Act 1949. | In section 11(2)(a)—<br>the words “, by that section as applied by section twenty-eight of the Law of Property Act, 1925, in relation to trusts for sale,”, and<br>the words “, by that section as applied as aforesaid,”. |
+| 2 & 3 Eliz.2 c. 56. | The Landlord and Tenant Act 1954. | In the Second Schedule, in paragraph 6—<br>the words “, by that section as applied by section twenty-eight of the Law of Property Act, 1925, in relation to trusts for sale,”, and<br>the words “, by that section as applied as aforesaid,”. |
+| 7 & 8 Eliz.2 c. 72. | The Mental Health Act 1959. | In Schedule 7, in Part I, the entries relating to sections 26 and 28 of the Law of Property Act 1925. |
+| 1964 No. 2. | The Incumbents and Churchwardens (Trusts) Measure 1964. | In section 1, in the definition of “land”, the words “nor an undivided share in land”. |
+| 1967 c. 10. | The Forestry Act 1967. | In Schedule 2, paragraph 1(4). |
+| 1967 c. 88. | The Leasehold Reform Act 1967. | In section 6(5)—<br>the words “, or by that section as applied by section 28 of the Law of Property Act 1925 in relation to trusts for sale,”,<br>the words “or by that section as applied as aforesaid”, and<br>the words “or by trustees for sale”. |
+|  |  | In Schedule 2, in paragraph 9(1)—<br>the words “, or by that section as applied by section 28 of the Law of Property Act 1925 in relation to trusts for sale”, and<br>the words “or by that section as applied as aforesaid”. |
+| 1969 c. 10. | The Mines and Quarries (Tips) Act 1969. | In section 32(2)(a) and (b), the words “, by that section as applied by section 28 of the Law of Property Act 1925 in relation to trusts for sale”. |
+| 1970 c. 40. | The Agriculture Act 1970. | In section 30—<br>in subsection (1), the words “(including those provisions as extended to trusts for sale by section 28 of the Law of Property Act 1925)”, and<br>in subsection (2), the words “the words from “(including those provisions” to “Law of Property Act 1925)” and”. |
+| 1972 c. 61. | The Land Charges Act 1972. | In section 17(1), the definition of “trust for sale”. |
+| 1976 c. 31. | The Legitimacy Act 1976. | Section 10(4). |
+| 1976 c. 36. | The Adoption Act 1976. | Section 46(5). |
+| 1977 c. 42. | The Rent Act 1977. | In Schedule 2, in Part I, in paragraph 2(b), the words “or, if it is held on trust for sale, the proceeds of its sale are”. |
+| 1980 c. 58. | The Limitation Act 1980. | In section 18—<br>in subsection (1), the words “, including interests in the proceeds of the sale of land held upon trust for sale,”, and<br>in subsections (3) and (4), the words “(including a trust for sale)” and the words “or in the proceeds of sale”. |
+|  |  | In section 38(1)—<br>in the definition of “land”, the words “, including an interest in the proceeds of the sale of land held upon trust for sale,”, and<br>the definition of “trust for sale”. |
+|  |  | In Schedule 1, in Part I, in paragraph 9—<br>the words “or in the proceeds of sale”,<br>the words “or the proceeds”, and<br>the words “or the proceeds of sale”. |
+| 1981 c. 54. | The [[^F24]Senior Courts Act 1981] . | In section 128, in the definition of “real estate”, in paragraph (b), the words “money to arise under a trust for sale of land, nor”. |
+| 1983 c. 41. | The Health and Social Services and Social Security Adjudications Act 1983. | Section 22(3). |
+| 1984 c. 28. | The County Courts Act 1984. | In Schedule 2, in Part II, in paragraph 2—<br>in sub-paragraph (1), the entry relating to section 30 of the Law of Property Act 1925,<br>sub-paragraph (2), and<br>in sub-paragraph (3), “30(2),”. |
+| 1984 c. 51. | The Inheritance Tax Act 1984. | In section 237(3), the words “and undivided shares in land held on trust for sale, whether statutory or not,”. |
+| 1986 c. 5. | The Agricultural Holdings Act 1986. | In section 89(1), the words “or the Law of Property Act 1925”. |
+| 1986 c. 45. | The Insolvency Act 1986. | In section 336—<br>subsection (3), and<br>in subsection (4), the words “or (3)” and the words “or section 30 of the Act of 1925”. |
+| 1988 c. 50. | The Housing Act 1988. | In Schedule 1, in Part III, in paragraph 18(1)(b), the words “or, if it is held on trust for sale, the proceeds of its sale are”. |
+| 1989 c. 34. | The Law of Property (Miscellaneous Provisions) Act 1989. | In sections 1(6) and 2(6), the words “or in or over the proceeds of sale of land”. |
+| 1990 c. 8. | The Town and Country Planning Act 1990. | In section 328—<br>in subsection (1)(a), the words “and by that section as applied by section 28 of the Law of Property Act 1925 in relation to trusts for sale”, and<br>in subsection (2)(a), the words “and by that section as so applied”. |
+| 1991 c. 31. | The Finance Act 1991. | Section 110(5)(b). |
+| 1993 c. 10. | The Charities Act 1993. | Section 37(6). |
+|  |  | Section 39(5). |
+| 1993 c. 28. | The Leasehold Reform, Housing and Urban Development Act 1993. | In section 93A(4)—<br>the words “, or by that section as applied by section 28 of the Law of Property Act 1925 in relation to trusts for sale”,<br>the words “, or by that section as so applied,”, and<br>the words “or by trustees for sale”. |
+|  |  | In Schedule 2, paragraph 5(2)(b) and the word “and” immediately preceding it. |
+| 1994 c. 36. | The Law of Property (Miscellaneous Provisions) Act 1994. | In section 16—<br>subsection (2), and<br>in subsection (3), the words “; and subsection (2)” onwards. |
+| 1995 c. 8. | The Agricultural Tenancies Act 1995. | In section 33—<br>in subsections (1) and (2), the words from “(either” to “Property Act 1925)”, and<br>in subsection (4), the definition of “settled land” and the word “and” immediately preceding it. |
+| 1996 c. 53. | The Housing Grants, Construction and Regeneration Act 1996. | Section 55(4)(b). |
+|  |  | Section 73(3)(b). |
+|  |  | In section 98(2)(a), the words “or to the proceeds of sale of the dwelling”. |
+
+---
+
+[^M1]: 1925 c. 24.
+[^M2]: 1925 c. 18.
+[^M3]: 1925 c. 18.
+[^F1]: Words in s. 6(3) substituted (1.2.2001) by 2000 c. 29, s. 40(1), Sch. 2 para. 45(1) (with s. 35); S.I. 2001/49, art. 2
+[^F2]: S. 6(4) repealed (1.2.2001) by 2000 c. 29, s. 40(1)(3), Sch. 2 para. 45(2), Sch. 4 Pt. II (with s. 35); S.I. 2001/49, art. 2
+[^F3]: Words in s. 6(7) substituted (27.2.2007) by Charities Act 2006 (c. 50), s. 79(2), Sch. 8 para. 182; S.I. 2007/309, art. 2, Sch.
+[^F4]: S. 6(9) inserted (1.2.2001) by 2000 c. 29, s. 40(1), Sch. 2 para. 45(3) (with s. 35); S.I. 2001/49, art. 2
+[^F5]: S. 7(6) added (27.9.2004) by Commonhold and Leasehold Reform Act 2002 (c. 15), s. 181(1), Sch. 5 para. 8; S.I. 2004/1832, art. 2
+[^F6]: Words in s. 9(6) substituted (1.10.2007) by Mental Capacity Act 2005 (c. 9), s. 68(1), Sch. 6 para. 42(2) (with ss. 27-29, 62); S.I. 2007/1897, art. 2(1)(d)
+[^F7]: S. 9(8) repealed (1.2.2001) by 2000 c. 29, s. 40(1)(3), Sch. 2 para. 46, Sch. 4 Pt. II (with s. 35); S.I. 2001/49, art. 2
+[^M4]: 1925 c. 20.
+[^F8]: S. 9A inserted (1.2.2001) by 2000 c. 29, s. 40(2), Sch. 2 para. 47 (with s. 35); S.I. 2001/49, art. 2
+[^M5]: 1989 c. 41.
+[^M6]: 1986 c. 45.
+[^F9]: S. 17(1) repealed (1.2.2001) by 2000 c. 29, s. 40(1)(3), Sch. 2 para. 48, Sch. 4 Pt. II (with s. 35); S.I. 2001/49, art. 2
+[^M7]: 1925 c. 18.
+[^M8]: 1925 c. 19.
+[^F10]: S. 20 title substituted (1.10.2007) by virtue of Mental Capacity Act 2005 (c. 9), s. 68(1), Sch. 6 para. 42(3) (with ss. 27-29, 62); S.I. 2007/1897, art. 2(1)(d)
+[^F11]: Words in s. 20(1)(a) substituted (1.10.2007) by Mental Capacity Act 2005 (c. 9), s. 68(1), Sch. 6 para. 42(3)(a) (with ss. 27-29, 62); S.I. 2007/1897, art. 2(1)(d)
+[^F12]: S. 20(2)(a) substituted (1.10.2007) by Mental Capacity Act 2005 (c. 9), s. 68(1), Sch. 6 para. 42(3)(b)(i) (with ss. 27-29, 62); S.I. 2007/1897, art. 2(1)(d)
+[^F13]: Words in s. 20(2)(b) substituted (1.10.2007) by Mental Capacity Act 2005 (c. 9), s. 68(1), Sch. 6 para. 42(3)(b)(ii) (with ss. 27-29, 62); S.I. 2007/1897, art. 2(1)(d)
+[^F14]: Words in s. 20(2)(c) substituted (1.10.2007) by Mental Capacity Act 2005 (c. 9), s. 68(1), Sch. 6 para. 42(3)(b)(iii) (with ss. 27-29, 62); S.I. 2007/1897, art. 2(1)(d)
+[^M9]: 1925 c. 19.
+[^M10]: 1925 c. 20.
+[^M11]: 1925 c. 20.
+[^F15]: Words in s. 23(3) substituted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 9 para. 52; S.I. 2014/954, art. 2(c) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^M12]: 1925 c. 18.
+[^M13]: 1917 c. 55.
+[^M14]: 1959 c. 49.
+[^M15]: 1890 c. 39.
+[^M16]: 1970 c. 40.
+[^M17]: 1925 c. 18.
+[^F16]: Words in Sch. 1 para. 3 inserted (5.12.2005) by Civil Partnership Act 2004 (c. 33), s. 263(10)(b), Sch. 27 para. 153; S.I. 2005/3175, art. 2(2)
+[^M18]: 1925 c. 24.
+[^F17]: Words in Sch. 1 para. 4(2)(a) substituted (14.3.2012) by Charities Act 2011 (c. 25), s. 355, Sch. 7 para. 70(a) (with s. 20(2), Sch. 8)
+[^F18]: Words in Sch. 1 para. 4(2)(b) substituted (7.3.2024) by Charities Act 2022 (c. 6), s. 41(4), Sch. 2 para. 29; S.I. 2024/265, reg. 3, Sch. 1 para. 13(k)
+[^M19]: 1925 c. 18.
+[^M20]: 1925 c. 20.
+[^M21]: 1925 c. 20.
+[^M22]: 1925 c. 23.
+[^M23]: 1987 c. 15.
+[^M24]: 1925 c. 20.
+[^F19]: Sch. 3 para. 3(4) repealed (1.2.2001) by 2000 c. 29, s. 40, Sch. 2 para. 49, Sch. 4 Pt. II (with s. 35); S.I. 2001/49, art. 2
+[^M25]: 1925 c. 18.
+[^F20]: Sch. 3 para. 5 repealed (13.10.2003) by Land Registration Act 2002 (c. 9), s. 136(2), Sch. 13 (with s. 129, Sch. 12 para. 1); S.I. 2003/1725, art. 2(1)
+[^M26]: 1925 c. 20.
+[^F21]: Sch. 3 para. 20 and the cross-heading preceding it repealed (30.1.2001 for E. and 1.5.2001 for W.) by 2000 c. 37, ss. 102, Sch. 16 Pt. III; S.I. 2001/114, art. 2(1)(d)(ii); S.I. 2001/1410, art. 2(i)(p)
+[^F22]: Sch. 3 para. 20 and the cross-heading preceding it repealed (30.1.2001 for E. amd 1.5.2001 for W.) by 2000 c. 37, ss. 102, 103(2), Sch. 16 Pt. III; S.I. 2001/114, art. 2(1)(d)(ii); S.I. 2001/1410, art. 2(i)(p)
+[^M27]: 1925 c. 20.
+[^F23]: Sch. 3 para. 26 repealed (14.3.2012) by Charities Act 2011 (c. 25), s. 355, Sch. 10 (with s. 20(2), Sch. 8)
+[^F24]: Words in Blanket Amendment substituted (1.10.2009) by Constitutional Reform Act 2005 (c. 4), s. 148(1), Sch. 11 para. 1(2); S.I. 2009/1604, art. 2(d)

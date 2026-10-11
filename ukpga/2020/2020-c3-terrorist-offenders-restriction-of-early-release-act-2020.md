@@ -1,0 +1,888 @@
+---
+title: "Terrorist Offenders (Restriction of Early Release) Act 2020"
+identifier: "ukpga/2020/3"
+citation: "2020 c. 3"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S"
+date: 2020-02-26
+last_amended: 2026-05-11
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/2020/3"
+source_modified: 2026-06-09
+retrieved: 2026-10-11
+---
+
+# Terrorist Offenders (Restriction of Early Release) Act 2020
+
+**2020 c. 3**
+
+An Act to make provision about the release on licence of offenders convicted of terrorist offences or offences with a terrorist connection; and for connected purposes.
+
+[26th February 2020]
+
+Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## Restriction of early release in England and Wales
+
+### 1 Eligibility for release on licence of terrorist prisoners: England and Wales
+
+(1) The Criminal Justice Act 2003 is amended as follows.
+
+(2) After section 247 insert—
+
+> **247A Restricted eligibility for release on licence of terrorist prisoners**
+>
+> (1) This section applies to a prisoner (a “terrorist prisoner”) who—
+>
+> (a) is serving a fixed-term sentence imposed (whether before or after this section comes into force) in respect of an offence within subsection (2), and
+>
+> (b) has not been released on licence.
+>
+> (2) An offence is within this subsection (whether it was committed before or after this section comes into force) if—
+>
+> (a) it is specified in Part 1 of Schedule 19ZA (offences under counter-terrorism legislation),
+>
+> (b) it is specified in Part 2 of that Schedule and was determined by the court to have had a terrorist connection under section 30 or (in the case of a person sentenced in Scotland but now subject to the provisions of this Chapter) section 31 of the Counter-Terrorism Act 2008 (sentences for certain offences with a terrorist connection), or
+>
+> (c) it is a service offence as respects which the corresponding civil offence is an offence specified in Part 2 of that Schedule and was determined by the service court to have had a terrorist connection under section 32 of that Act (sentences for certain offences with a terrorist connection: armed forces).
+>
+> (3) It is the duty of the Secretary of State to refer the case of a terrorist prisoner to the Board—
+>
+> (a) as soon as the prisoner has served the requisite custodial period, and
+>
+> (b) where there has been a previous reference of the prisoner's case to the Board under this subsection and the Board did not direct the prisoner's release, no later than the second anniversary of the disposal of that reference.
+>
+> (4) It is the duty of the Secretary of State to release a terrorist prisoner on licence as soon as—
+>
+> (a) the prisoner has served the requisite custodial period, and
+>
+> (b) the Board has directed the release of the prisoner under this section.
+>
+> (5) The Board must not give a direction under subsection (4) unless—
+>
+> (a) the Secretary of State has referred the terrorist prisoner's case to the Board, and
+>
+> (b) the Board is satisfied that it is no longer necessary for the protection of the public that the prisoner should be confined.
+>
+> (6) Subsection (7) applies where the terrorist prisoner is serving a sentence imposed under section 226A, 226B, 227, 228 or 236A.
+>
+> (7) It is the duty of the Secretary of State to release the terrorist prisoner on licence under this section as soon as the prisoner has served the appropriate custodial term (see sections 255B and 255C for provision about the re-release of a person who has been recalled under section 254).
+>
+> (8) For the purposes of this section—
+>
+> - “the appropriate custodial term”, in relation to a sentence imposed under section 226A, 226B, 227, 228 or 236A, means the term determined as such by the court under that provision;
+>
+> - “the requisite custodial period” means—
+>
+>   - (a) in relation to a person serving one sentence imposed under section 226A, 226B, 227, 228, or 236A, two-thirds of the appropriate custodial term,
+>   - (b) in relation to a person serving one sentence of any other kind, two-thirds of the sentence, and
+>   - (c) in relation to a person serving two or more concurrent or consecutive sentences, the period determined under sections 263(2) and 264(2);
+>
+> - “service offence”, “corresponding civil offence” and “service court” have the same meanings as in the Counter-Terrorism Act 2008 (see section 95 of that Act).
+>
+> (9) For the purposes of this section, a reference of a terrorist prisoner's case to the Board disposed of before the day on which this section comes into force is to be treated as if it was made (and disposed of) under subsection (3) if—
+>
+> (a) it was made under section 244A(2)(b) and disposed of at a time when the prisoner had served the requisite custodial sentence (within the meaning of this section, not section 244A), or
+>
+> (b) it was made under section 246A(4).
+>
+> (10) Nothing in this section affects the duty of the Secretary of State to release a person whose release has been directed by the Board before this section comes into force.
+>
+> (11) This section is subject to paragraphs 5, 17 and 19 of Schedule 20B (transitional cases).
+
+(3) After Schedule 19 insert, as Schedule 19ZA, the Schedule set out in Schedule 1 to this Act.
+
+### 2 Disapplication of existing release provisions: England and Wales
+
+(1) The Criminal Justice Act 2003 is amended as follows.
+
+(2) In section 243A (duty to release certain prisoners serving less than 12 months) after subsection (1A) insert—
+
+> (1B) But this section does not apply to a prisoner to whom section 247A applies.
+
+(3) In section 244 (duty to release prisoners) in subsection (1), for “or 247” substitute “ , 247 or 247A ”.
+
+(4) In section 244A (release on licence of prisoners serving sentence under section 236A) in subsection (1), at the end insert “ , other than a prisoner to whom section 247A applies ”.
+
+(5) In section 246(4) (exceptions from power to release prisoners earlier than required) after paragraph (aa) insert—
+
+> (ab) the prisoner is one to whom section 247A applies,
+
+.
+
+(6) In section 246A (release on licence of prisoners serving extended sentence under section 226A or 226B) in subsection (1), at the end insert “ , other than a prisoner to whom section 247A applies ”.
+
+(7) In section 247 (release on licence of prisoner serving extended sentence under section 227 or 228) in subsection (1), at the end insert “ , other than a prisoner to whom section 247A applies ”.
+
+## Restriction of early release in Scotland
+
+### 3 Eligibility for release on licence of terrorist prisoners: Scotland
+
+(1) The Prisoners and Criminal Proceedings (Scotland) Act 1993 is amended as follows.
+
+(2) After section 1AA insert—
+
+> **1AB Restricted eligibility for release on licence of terrorist prisoners**
+>
+> (1) This section applies to a person other than a life prisoner (a “terrorist prisoner”) who—
+>
+> (a) is serving a sentence of imprisonment imposed (whether before or after this section comes into force) in respect of an offence within subsection (2), and
+>
+> (b) has not been released on licence.
+>
+> (2) An offence is within this subsection (whether it was committed before or after this section comes into force) if—
+>
+> (a) it is specified in Part 1 of Schedule 1A (offences under counter-terrorism legislation),
+>
+> (b) it is specified in Part 2 of that Schedule and was determined by the court to have had a terrorist connection under section 31 or (in the case of a person sentenced in England and Wales or Northern Ireland and now subject to the provisions of this Part relating to early release) section 30 of the Counter-Terrorism Act 2008 (sentences for certain offences with a terrorist connection), or
+>
+> (c) it is a service offence as respects which the corresponding civil offence is an offence specified in Part 2 of that Schedule and was determined by the service court to have had a terrorist connection under section 32 of that Act (sentences for certain offences with a terrorist connection: armed forces).
+>
+> (3) The Scottish Ministers must refer the case of a terrorist prisoner to the Parole Board—
+>
+> (a) as soon as the prisoner has served two-thirds of the prisoner's sentence, and
+>
+> (b) where there has been a previous reference of the prisoner's case to the Parole Board under this subsection and the Parole Board did not recommend the prisoner's release, no later than the second anniversary of the disposal of that reference.
+>
+> (4) As soon as the Parole Board has recommended the release of a terrorist prisoner under this section in pursuance of a referral under subsection (3), the Scottish Ministers must release the prisoner on licence.
+>
+> (5) The Parole Board must not make a recommendation under subsection (4) unless it is satisfied that it is no longer necessary for the protection of the public that the terrorist prisoner should be confined.
+>
+> (6) For the purposes of this section, “service offence”, “corresponding civil offence” and “service court” have the same meanings as in the Counter-Terrorism Act 2008 (see section 95 of that Act).
+>
+> (7) This section is subject to section 8 of the Terrorist Offenders (Restriction of Early Release) Act 2020 (transitional provision for terrorist prisoners subject to supervised release orders).
+
+(3) After Schedule 1 insert, as Schedule 1A, the Schedule set out in Schedule 2 to this Act.
+
+### 4 Disapplication of existing release provisions: Scotland
+
+(1) The Prisoners and Criminal Proceedings (Scotland) Act 1993 is amended as follows.
+
+(2) In section 1 (early release of short-term, long-term and life prisoners) after subsection (8) insert—
+
+> (9) This section does not apply in relation to a person to whom section 1AB applies.
+
+(3) In section 1AA (short-term prisoners: early release of certain sexual offenders) after subsection (8) insert—
+
+> (9) This section does not apply in relation to a person to whom section 1AB applies.
+
+(4) In section 3AA (further powers to release prisoners) after subsection (7) insert—
+
+> (8) This section does not apply in relation to a person to whom section 1AB applies.
+
+[^F1]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6) In section 7 (children detained in solemn proceedings)—
+
+(a) in subsection (5)(a) after “sections” insert “ 1AB, ”, and
+
+(b) after subsection (7) insert—
+
+> (8) This section (other than subsection (5)) does not apply in relation to a person to whom section 1AB applies.
+
+[^F2]7 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Licence conditions
+
+### 5 Setting of licence conditions for terrorist prisoners: England and Wales
+
+In section 250 of the Criminal Justice Act 2003 (licence conditions) after subsection (5B) (Secretary of State not to include, vary or cancel licence conditions unless directed by the Parole Board) insert—
+
+> (5BA) But in the case of a licence granted to a prisoner to whom section 247A applies, or would apply but for the prisoner's release under the licence, subsection (5B) applies only if the licence was granted following a direction of the Board for the prisoner's release.
+
+## Consequential and transitional provision
+
+### 6 Consequential amendments relating to transitional cases: England and Wales
+
+(1) Schedule 20B to the Criminal Justice Act 2003 (modifications of release provisions in certain transitional cases) is amended as follows.
+
+(2) In paragraph 5 (duty to release on licence at two-thirds of sentence)—
+
+(a) in sub-paragraph (1), after “paragraph 4 applies” insert “ (but to whom section 247A does not apply) ”;
+
+(b) after sub-paragraph (3) insert—
+
+> (4) Where section 247A applies to a person—
+>
+> (a) to whom paragraph 4 also applies, and
+>
+> (b) who is serving a section 85 extended sentence,
+>
+> it does so with the modifications set out in sub-paragraphs (5) and (6).
+>
+> (5) Section 247A(7) applies to the person (despite subsection (6) of that section).
+>
+> (6) References in section 247A to—
+>
+> (a) the “appropriate custodial term” are to be read as references to the custodial term;
+>
+> (b) the “requisite custodial period” are to be read as references to two-thirds of the custodial term.
+
+(3) In paragraph 6(1) (duty to release on direction of Parole Board) after “paragraph 4 applies” insert “ (but to whom section 247A does not apply) ”.
+
+(4) In paragraph 15(2) (modification of section 247 for certain extended sentence prisoners under section 227 or 228) for “Section 247 (release of prisoner on licence) applies to P” substitute “ If section 247 (release of prisoner on licence) applies to P, it applies ”.
+
+(5) In paragraph 17 (licence to remain in force for three-quarters of sentence)—
+
+(a) in sub-paragraph (1), after “244” insert “ , 247A ”;
+
+(b) after sub-paragraph (1) insert—
+
+> (1A) But if section 247A would (disregarding this sub-paragraph) require the release on licence of a person to whom paragraph 16 applies at any time after the end of the period referred to in sub-paragraph (1)—
+>
+> (a) that requirement does not apply, and
+>
+> (b) it is instead the duty of the Secretary of State to release the person unconditionally.
+
+;
+
+(c) in sub-paragraph (3), for “(1) and (2)” substitute “ (1) to (2) ”.
+
+(6) In paragraph 19 (period for which licence to remain in force for section 85 extended sentence prisoners)—
+
+(a) in sub-paragraph (2), for the words from “the period found” to the end substitute “ the relevant period ”;
+
+(b) after sub-paragraph (4) insert—
+
+> (5) In sub-paragraph (2), “the relevant period”—
+>
+> (a) in relation to a person released on licence under section 247A at any time after the end of the period of three-quarters of the custodial term, means the period found by adding—
+>
+> (i) the proportion of the custodial term served before release, and
+>
+> (ii) the extension period;
+>
+> (b) in relation to any other case, means the period found by adding—
+>
+> (i) three-quarters of the custodial term, and
+>
+> (ii) the extension period.
+
+### 7 Other consequential amendments: England and Wales
+
+[^F3]1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) The Criminal Justice Act 2003 is amended in accordance with subsections (3) to (8).
+
+[^F4]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) In section 256B (supervision after release of certain young offenders serving less than 12 months) after subsection (1A) insert—
+
+> (1B) But this section does not apply where a person (“the offender”) is released from a sentence in respect of which section 247A applied to the offender.
+
+(5) In section 260 (early removal of prisoners liable to removal from the United Kingdom)—
+
+(a) in subsection (1), for “subsection (2)” substitute “ subsections (2) and (2C) ”;
+
+(b) in subsection (2A), at the beginning insert “ Subject to subsection (2C), ”;
+
+(c) after subsection (2B) insert—
+
+> (2C) Subsections (1) and (2A) do not apply in relation to a prisoner to whom section 247A applies.
+
+;
+
+(d) at the end insert—
+
+> (9) Subsection (2C) does not affect the continued liability to detention under subsection (4)(b) of a prisoner removed from prison under this section before subsection (2C) came into force and in such a case—
+>
+> (a) the “requisite custodial period” in subsection (4)(b) has the meaning given by section 247A(8), and
+>
+> (b) subsection (5) is to be read as including reference to section 247A.
+
+(6) In section 261 (re-entry into the United Kingdom of offender removed from prison early)—
+
+(a) in subsection (5)(b), for “or 247” substitute “ , 247 or 247A ”;
+
+(b) in subsection (6), after the definition of “outstanding custodial period”, insert—
+
+> “requisite custodial period”, in relation to a person to whom section 247A applies, has the meaning given by section 247A(8) (see section 268(1A) for its meaning in other cases);
+
+.
+
+(7) In section 264 (release on licence of prisoners serving consecutive sentences)—
+
+(a) in subsection (6), after “ “custodial period”” insert “ , except if subsection (6A) applies, ”;
+
+(b) after that subsection insert—
+
+> (6A) In this section “custodial period”, in the case of a sentence imposed on a person to whom section 247A applies, means—
+>
+> (a) in relation to an extended sentence imposed under section 226A, 226B, 227 or 228, or a sentence imposed under section 236A, two-thirds of the appropriate custodial term determined by the court under that section;
+>
+> (b) in relation to any other sentence, two-thirds of the sentence.
+
+(8) In section 268 (interpretation of release provisions) in subsection (1A), after “ “the requisite custodial period” means” insert “ (except where it has the meaning given by section 247A(8)) ”.
+
+(9) In section 128 of the Legal Aid, Sentencing and Punishment of Offenders Act 2012 (power to change test for discretionary release)—
+
+(a) in subsection (2)—
+
+(i) after paragraph (ba) (but before the “or” at the end of it) insert—
+
+> (bb) a terrorist prisoner,
+
+;
+
+(ii) in paragraph (c), after “a person” insert “ , other than a terrorist prisoner, ”;
+
+(b) in subsection (3), after paragraph (b) insert—
+
+> (ba) amend section 247A of the Criminal Justice Act 2003 (restricted eligibility for release on licence of terrorist prisoners);
+
+;
+
+(c) in subsection (6)—
+
+(i) in the definitions of “extended sentence prisoner” and “section 236A prisoner”, after “a prisoner” insert “ , other than a terrorist prisoner, ”;
+
+(ii) at the end insert—
+
+> “terrorist prisoner” means a prisoner to whom section 247A of the Criminal Justice Act 2003 applies (or would apply but for the prisoner‘s release on licence).
+
+### 8 Transitional provision for terrorist prisoners subject to supervised release orders: Scotland
+
+(1) This section applies where—
+
+(a) a terrorist prisoner was sentenced before the coming into force of section 1AB of the Prisoners and Criminal Proceedings (Scotland) Act 1993 (the “1993 Act”) (inserted by section 3), and
+
+(b) the court, on passing sentence, made a supervised release order under section 209 of the Criminal Procedure (Scotland) Act 1995 (the “1995 Act”) in respect of the prisoner.
+
+(2) If the terrorist prisoner is not released under section 1AB of the 1993 Act until the end of the prisoner's sentence, the supervised release order is revoked on the prisoner's release.
+
+(3) If the Parole Board for Scotland recommends the release of the terrorist prisoner under section 1AB of the 1993 Act before the end of the prisoner's sentence—
+
+(a) the Scottish Ministers must release the prisoner unconditionally (despite section 1AB(4)), and
+
+(b) the supervised release order applies in relation to the prisoner subject to the modifications in subsection (4).
+
+(4) Where the terrorist prisoner is released under subsection (3), the supervised release order has effect during the period—
+
+(a) beginning with the day on which the terrorist prisoner is released, and
+
+(b) ending with whichever of the following is the earlier—
+
+(i) the day on which the supervised release order would, but for section 3 and this section, have ceased to have effect, and
+
+(ii) the end of the prisoner's sentence,
+
+and section 209 of the 1995 Act and the supervised release order are to be read accordingly.
+
+(5) Terms used in this section and defined for the purposes of section 1AB of the 1993 Act have the same meaning in this section as in that section.
+
+### 9 Consequential amendments: Scotland
+
+(1) Section 11 of the Prisoners and Criminal Proceedings (Scotland) Act 1993 (duration of licence) is amended as follows.
+
+(2) In subsection (3)(a)—
+
+(a) after “until” insert—
+
+> (i) in the case of a person to whom section 1AB applies, the date on which, but for such release, the entire period specified in the prisoner's sentence (reckoned from the commencement of the sentence) has elapsed, and
+>
+> (ii) in any other case,
+
+, and
+
+(b) for “such release” substitute “ the release under section 3(1) ”.
+
+(3) After subsection (3) insert—
+
+> (3ZA) Where a short-term prisoner is released on licence under section 1AB, the licence (unless revoked) remains in force until the entire period specified in the prisoner's sentence (reckoned from the commencement of the sentence) has elapsed.
+
+## Final provision
+
+### 10 Extent, commencement, transitory provision and short title
+
+(1) The following extend to England and Wales only—
+
+(a) section 1 (and Schedule 1), and
+
+(b) sections 2, 5, 6 and 7.
+
+(2) The following extend to Scotland only—
+
+(a) section 3 (and Schedule 2), and
+
+(b) sections 4, 8 and 9.
+
+(3) This section extends to England and Wales and Scotland.
+
+(4) This Act comes into force on the day on which it is passed.
+
+(5) A reference to any paragraph of Schedule 4 to the Space Industry Act 2018 in—
+
+(a) Schedule 19ZA to the Criminal Justice Act 2003 (as inserted by section 1 of this Act), or
+
+(b) Schedule 1A to the Prisoners and Criminal Proceedings (Scotland) Act 1993 (as inserted by section 3 of this Act),
+
+is to be ignored until the paragraph concerned comes into force.
+
+(6) This Act may be cited as the Terrorist Offenders (Restriction of Early Release) Act 2020.
+
+## SCHEDULE 1 — Terrorist offences carrying restricted eligibility for release on licence: England and Wales
+
+*Section 1*
+
+This is the Schedule to be inserted as Schedule 19ZA to the Criminal Justice Act 2003—
+
+> **SCHEDULE 19ZA — Terrorist offences carrying restricted eligibility for release on licence**
+>
+> *Section 247A*
+>
+> **PART 1 — Offences under counter-terrorism legislation**
+>
+> **1** An offence under any of the following provisions of the Terrorism Act 2000—
+>
+> (a) section 11 (membership of proscribed organisations);
+>
+> (b) section 12 (inviting or expressing support for terrorist organisations);
+>
+> (c) section 15 (fund-raising);
+>
+> (d) section 16 (use of money or property for terrorist purposes);
+>
+> (e) section 17 (involvement in terrorist funding arrangements);
+>
+> (f) section 17A (insuring payments made in response to terrorist threats);
+>
+> (g) section 18 (laundering of terrorist property);
+>
+> (h) section 19 (failure to disclose professional belief or suspicion about terrorist offences);
+>
+> (i) section 21A (failure in regulated sectors to disclose knowledge or suspicion about terrorist offences);
+>
+> (j) section 38B (failure to disclose information about acts of terrorism);
+>
+> (k) section 39 (disclosure of information prejudicial to a terrorist investigation etc);
+>
+> (l) section 54 (weapons training);
+>
+> (m) section 56 (directing terrorist organisations);
+>
+> (n) section 57 (possession of articles for terrorist purposes);
+>
+> (o) section 58 (collection, possession or viewing of information useful for terrorism);
+>
+> (p) section 58A (eliciting, publishing or communicating information about members of armed forces or police etc);
+>
+> (q) section 58B (presence in designated overseas areas);
+>
+> (r) section 59 (inciting terrorism overseas: England and Wales);
+>
+> (s) section 60 (inciting terrorism overseas: Northern Ireland);
+>
+> (t) section 61 (inciting terrorism overseas: Scotland).
+>
+> **2** An offence under any of the following provisions of the Anti-terrorism, Crime and Security Act 2001—
+>
+> (a) section 50 (assisting or inducing weapons-related acts overseas);
+>
+> (b) section 67 (offences under Part 7 of that Act: security of pathogens and toxins);
+>
+> (c) section 79 (disclosure of information etc relating to nuclear security);
+>
+> (d) section 113 (use of noxious substances to harm or intimidate).
+>
+> **3** An offence under any of the following provisions of the Terrorism Act 2006—
+>
+> (a) section 1 (encouraging acts of terrorism);
+>
+> (b) section 2 (dissemination of terrorist publications);
+>
+> (c) section 5 (preparation of terrorist acts);
+>
+> (d) section 6 (training for terrorism);
+>
+> (e) section 8 (attendance at places used for terrorist training);
+>
+> (f) section 9 (making or possessing radioactive devices or materials);
+>
+> (g) section 10 (misuse of radioactive devices or materials or nuclear facilities);
+>
+> (h) section 11 (threats relating to radioactive devices or materials or nuclear facilities).
+>
+> **4** An offence under section 54 of the Counter-Terrorism Act 2008 (breach of police notification requirements etc).
+>
+> **5** An offence under section 23 of the Terrorism Prevention and Investigation Measures Act 2011 (breach of notices imposing terrorism prevention and investigation measures).
+>
+> **6** An offence under section 10 of the Counter-Terrorism and Security Act 2015 (breach of temporary exclusion order).
+>
+> **7** (1) An attempt to commit an offence specified in the preceding paragraphs of this Part (“a listed offence”).
+>
+> (2) Conspiracy to commit a listed offence.
+>
+> (3) An offence under Part 2 of the Serious Crime Act 2007 in relation to which a listed offence is the offence (or one of the offences) which the person intended or believed would be committed.
+>
+> (4) Incitement to commit a listed offence.
+>
+> (5) Aiding, abetting, counselling or procuring the commission of a listed offence.
+>
+> **8** An offence that—
+>
+> (a) was abolished before the coming into force of this Schedule, and
+>
+> (b) if committed on the day on which this Schedule came into force, would have constituted an offence specified in the preceding paragraphs of this Part of this Schedule.
+>
+> **PART 2 — Offences which may be determined to have a terrorist connection under the Counter-Terrorism Act 2008**
+>
+> **9** Manslaughter.
+>
+> **10** Culpable homicide.
+>
+> **11** Kidnapping.
+>
+> **12** Abduction.
+>
+> **13** Assault by explosive device under the law of Scotland.
+>
+> **14** Assault to severe injury under the law of Scotland.
+>
+> **15** Assault and poisoning under the law of Scotland.
+>
+> **16** Poisoning under the law of Scotland.
+>
+> **17** False imprisonment under the law of Northern Ireland.
+>
+> **18** An offence under any of the following provisions of the Offences against the Person Act 1861—
+>
+> (a) section 4 (soliciting murder);
+>
+> (b) section 18 (wounding with intent);
+>
+> (c) section 23 (maliciously administering poison etc so as to endanger life or inflict grievous bodily harm);
+>
+> (d) section 28 (causing bodily injury by explosives);
+>
+> (e) section 29 (using explosives etc with intent to do grievous bodily harm);
+>
+> (f) section 30 (placing explosives with intent to do bodily injury).
+>
+> **19** An offence under any of the following provisions of the Explosive Substances Act 1883—
+>
+> (a) section 2 (causing explosion likely to endanger life or property);
+>
+> (b) section 3 (attempt to cause explosion or making or keeping explosive with intent to endanger life or property);
+>
+> (c) section 4 (making or possession of explosive under suspicious circumstances);
+>
+> (d) section 5 (punishment of accessories).
+>
+> **20** An offence under section 1 of the Biological Weapons Act 1974 (restriction on development etc of certain biological agents and toxins and of biological weapons).
+>
+> **21** An offence under section 1 of the Taking of Hostages Act 1982 (hostage-taking).
+>
+> **22** An offence under any of the following provisions of the Aviation Security Act 1982—
+>
+> (a) section 1 (hijacking);
+>
+> (b) section 2 (destroying, damaging or endangering safety of aircraft);
+>
+> (c) section 3 (other acts endangering or likely to endanger safety of aircraft);
+>
+> (d) section 4 (offences in relation to certain dangerous articles);
+>
+> (e) section 6(2) (inducing or assisting commission of offence under section 1, 2 or 3 outside the United Kingdom).
+>
+> **23** An offence under any of the following provisions of the Nuclear Material (Offences) Act 1983—
+>
+> (a) section 1B (offences relating to damage to the environment);
+>
+> (b) section 1C (offences of importing or exporting etc nuclear materials: extended jurisdiction);
+>
+> (c) section 2 (offences involving preparatory acts and threats), so far as relating to an offence specified in this Schedule.
+>
+> **24** An offence under any of the following provisions of the Aviation and Maritime Security Act 1990—
+>
+> (a) section 1 (endangering safety at aerodromes);
+>
+> (b) section 9 (hijacking of ships);
+>
+> (c) section 10 (seizing or exercising control of fixed platforms);
+>
+> (d) section 11 (destroying fixed platforms or endangering their safety);
+>
+> (e) section 14(4) (inducing or assisting commission of an offence outside the United Kingdom), so far as relating to an offence under section 9 or 11 of that Act.
+>
+> **25** An offence under Part 2 of the Channel Tunnel (Security) Order 1994 (S.I. 1994/570) (offences relating to Channel Tunnel trains and the tunnel system).
+>
+> **26** An offence under any of the following provisions of the Chemical Weapons Act 1996—
+>
+> (a) section 2 (use etc of chemical weapons);
+>
+> (b) section 11 (premises or equipment for producing chemical weapons).
+>
+> **27** An offence under any of the following provisions of the Anti-terrorism, Crime and Security Act 2001 —
+>
+> (a) section 47 (use etc of nuclear weapons);
+>
+> (b) section 114 (hoaxes involving noxious substances or things).
+>
+> **28** An offence under any of the following provisions of Schedule 4 to the Space Industry Act 2018—
+>
+> (a) paragraph 1 (hijacking of spacecraft);
+>
+> (b) paragraph 2 (destroying, damaging or endangering the safety of spacecraft);
+>
+> (c) paragraph 3 (other acts endangering or likely to endanger safety of spacecraft);
+>
+> (d) paragraph 4 (endangering safety at spaceports);
+>
+> (e) paragraph 5 (offences in relation to certain dangerous articles).
+>
+> **29** (1) An attempt to commit an offence specified in the preceding paragraphs of this Part (“a listed offence”).
+>
+> (2) Conspiracy to commit a listed offence.
+>
+> (3) An offence under Part 2 of the Serious Crime Act 2007 in relation to which a listed offence is the offence (or one of the offences) which the person intended or believed would be committed.
+>
+> (4) Incitement to commit a listed offence.
+>
+> (5) Aiding, abetting, counselling or procuring the commission of a listed offence.
+>
+> **30** (1) An attempt to commit murder.
+>
+> (2) Conspiracy to commit murder.
+>
+> (3) An offence under Part 2 of the Serious Crime Act 2007 in relation to which murder is the offence (or one of the offences) which the person intended or believed would be committed.
+>
+> (4) Incitement to commit murder.
+
+## SCHEDULE 2 — Terrorist offences carrying restricted eligibility for release on licence: Scotland
+
+*Section 3*
+
+This is the Schedule to be inserted as Schedule 1A to the Prisoners and Criminal Proceedings (Scotland) Act 1993—
+
+> **SCHEDULE 1A — Terrorist offences carrying restricted eligibility for release on licence**
+>
+> *Section 1AB*
+>
+> **PART 1 — Offences under counter-terrorism legislation**
+>
+> **1** An offence under any of the following provisions of the Terrorism Act 2000—
+>
+> (a) section 11 (membership of proscribed organisations);
+>
+> (b) section 12 (inviting or expressing support for terrorist organisations);
+>
+> (c) section 15 (fund-raising);
+>
+> (d) section 16 (use of money or property for terrorist purposes);
+>
+> (e) section 17 (involvement in terrorist funding arrangements);
+>
+> (f) section 17A (insuring payments made in response to terrorist threats);
+>
+> (g) section 18 (laundering of terrorist property);
+>
+> (h) section 19 (failure to disclose professional belief or suspicion about terrorist offences);
+>
+> (i) section 21A (failure in regulated sectors to disclose knowledge or suspicion about terrorist offences);
+>
+> (j) section 38B (failure to disclose information about acts of terrorism);
+>
+> (k) section 39 (disclosure of information prejudicial to a terrorist investigation etc);
+>
+> (l) section 54 (weapons training);
+>
+> (m) section 56 (directing terrorist organisations);
+>
+> (n) section 57 (possession of articles for terrorist purposes);
+>
+> (o) section 58 (collection, possession or viewing of information useful for terrorism);
+>
+> (p) section 58A (eliciting, publishing or communicating information about members of armed forces or police etc);
+>
+> (q) section 58B (presence in designated overseas areas);
+>
+> (r) section 59 (inciting terrorism overseas: England and Wales);
+>
+> (s) section 60 (inciting terrorism overseas: Northern Ireland);
+>
+> (t) section 61 (inciting terrorism overseas: Scotland).
+>
+> **2** An offence under any of the following provisions of the Anti-terrorism, Crime and Security Act 2001—
+>
+> (a) section 50 (assisting or inducing weapons-related acts overseas);
+>
+> (b) section 67 (offences under Part 7 of that Act: security of pathogens and toxins);
+>
+> (c) section 79 (disclosure of information etc relating to nuclear security);
+>
+> (d) section 113 (use of noxious substances to harm or intimidate).
+>
+> **3** An offence under any of the following provisions of the Terrorism Act 2006—
+>
+> (a) section 1 (encouraging acts of terrorism);
+>
+> (b) section 2 (dissemination of terrorist publications);
+>
+> (c) section 5 (preparation of terrorist acts);
+>
+> (d) section 6 (training for terrorism);
+>
+> (e) section 8 (attendance at places used for terrorist training);
+>
+> (f) section 9 (making or possessing radioactive devices or materials);
+>
+> (g) section 10 (misuse of radioactive devices or materials or nuclear facilities);
+>
+> (h) section 11 (threats relating to radioactive devices or materials or nuclear facilities).
+>
+> **4** An offence under section 54 of the Counter-Terrorism Act 2008 (breach of police notification requirements etc).
+>
+> **5** An offence under section 23 of the Terrorism Prevention and Investigation Measures Act 2011 (breach of notices imposing terrorism prevention and investigation measures).
+>
+> **6** An offence under section 10 of the Counter-Terrorism and Security Act 2015 (breach of temporary exclusion order).
+>
+> **7** (1) An attempt to commit an offence specified in the preceding paragraphs of this Part (“a listed offence”).
+>
+> (2) Conspiracy to commit a listed offence.
+>
+> (3) Incitement to commit a listed offence.
+>
+> (4) Aiding, abetting, counselling or procuring the commission of a listed offence.
+>
+> (5) An offence under Part 2 of the Serious Crime Act 2007 in relation to which a listed offence is the offence (or one of the offences) which the person intended or believed would be committed.
+>
+> **8** An offence that—
+>
+> (a) was abolished before the coming into force of this Schedule, and
+>
+> (b) if committed on the day on which this Schedule came into force, would have constituted an offence specified in the preceding paragraphs of this Part of this Schedule.
+>
+> **PART 2 — Offences which may be determined to have a terrorist connection under the Counter-Terrorism Act 2008**
+>
+> **9** Manslaughter.
+>
+> **10** Culpable homicide.
+>
+> **11** Kidnapping.
+>
+> **12** Abduction.
+>
+> **13** Assault by explosive device under the law of Scotland.
+>
+> **14** Assault to severe injury under the law of Scotland.
+>
+> **15** Assault and poisoning under the law of Scotland.
+>
+> **16** Poisoning under the law of Scotland.
+>
+> **17** False imprisonment under the law of Northern Ireland.
+>
+> **18** An offence under any of the following provisions of the Offences against the Person Act 1861—
+>
+> (a) section 4 (soliciting murder);
+>
+> (b) section 18 (wounding with intent);
+>
+> (c) section 23 (maliciously administering poison etc so as to endanger life or inflict grievous bodily harm);
+>
+> (d) section 28 (causing bodily injury by explosives);
+>
+> (e) section 29 (using explosives etc with intent to do grievous bodily harm);
+>
+> (f) section 30 (placing explosives with intent to do bodily injury).
+>
+> **19** An offence under any of the following provisions of the Explosive Substances Act 1883—
+>
+> (a) section 2 (causing explosion likely to endanger life or property);
+>
+> (b) section 3 (attempt to cause explosion or making or keeping explosive with intent to endanger life or property);
+>
+> (c) section 4 (making or possession of explosive under suspicious circumstances);
+>
+> (d) section 5 (punishment of accessories).
+>
+> **20** An offence under section 1 of the Biological Weapons Act 1974 (restriction on development etc of certain biological agents and toxins and of biological weapons).
+>
+> **21** An offence under section 1 of the Taking of Hostages Act 1982 (hostage-taking).
+>
+> **22** An offence under any of the following provisions of the Aviation Security Act 1982—
+>
+> (a) section 1 (hijacking);
+>
+> (b) section 2 (destroying, damaging or endangering safety of aircraft);
+>
+> (c) section 3 (other acts endangering or likely to endanger safety of aircraft);
+>
+> (d) section 4 (offences in relation to certain dangerous articles);
+>
+> (e) section 6(2) (inducing or assisting commission of offence under section 1, 2 or 3 outside the United Kingdom).
+>
+> **23** An offence under any of the following provisions of the Nuclear Material (Offences) Act 1983—
+>
+> (a) section 1B (offences relating to damage to the environment);
+>
+> (b) section 1C (offences of importing or exporting etc nuclear materials: extended jurisdiction);
+>
+> (c) section 2 (offences involving preparatory acts and threats), so far as relating to an offence specified in this Schedule.
+>
+> **24** An offence under any of the following provisions of the Aviation and Maritime Security Act 1990—
+>
+> (a) section 1 (endangering safety at aerodromes);
+>
+> (b) section 9 (hijacking of ships);
+>
+> (c) section 10 (seizing or exercising control of fixed platforms);
+>
+> (d) section 11 (destroying fixed platforms or endangering their safety);
+>
+> (e) section 14(4) (inducing or assisting commission of an offence outside the United Kingdom), so far as relating to an offence under section 9 or 11 of that Act.
+>
+> **25** An offence under Part 2 of the Channel Tunnel (Security) Order 1994 (S.I. 1994/570) (offences relating to Channel Tunnel trains and the tunnel system).
+>
+> **26** An offence under any of the following provisions of the Chemical Weapons Act 1996—
+>
+> (a) section 2 (use etc of chemical weapons);
+>
+> (b) section 11 (premises or equipment for producing chemical weapons).
+>
+> **27** An offence under any of the following provisions of the Anti-terrorism, Crime and Security Act 2001 —
+>
+> (a) section 47 (use etc of nuclear weapons);
+>
+> (b) section 114 (hoaxes involving noxious substances or things).
+>
+> **28** An offence under any of the following provisions of Schedule 4 to the Space Industry Act 2018—
+>
+> (a) paragraph 1 (hijacking of spacecraft);
+>
+> (b) paragraph 2 (destroying, damaging or endangering the safety of spacecraft);
+>
+> (c) paragraph 3 (other acts endangering or likely to endanger safety of spacecraft);
+>
+> (d) paragraph 4 (endangering safety at spaceports);
+>
+> (e) paragraph 5 (offences in relation to certain dangerous articles).
+>
+> **29** (1) An attempt to commit an offence specified in the preceding paragraphs of this Part (“a listed offence”).
+>
+> (2) Conspiracy to commit a listed offence.
+>
+> (3) Incitement to commit a listed offence.
+>
+> (4) Aiding, abetting, counselling or procuring the commission of a listed offence.
+>
+> (5) An offence under Part 2 of the Serious Crime Act 2007 in relation to which a listed offence is the offence (or one of the offences) which the person intended or believed would be committed.
+>
+> **30** (1) An attempt to commit murder.
+>
+> (2) Conspiracy to commit murder.
+>
+> (3) Incitement to commit murder.
+>
+> (4) An offence under Part 2 of the Serious Crime Act 2007 in relation to which murder is the offence (or one of the offences) which the person intended or believed would be committed.
+
+---
+
+[^F1]: S. 4(5) omitted (30.4.2021) by virtue of Counter-Terrorism and Sentencing Act 2021 (c. 11), s. 50(1)(i), Sch. 13 para. 60
+[^F2]: S. 4(7) omitted (30.4.2021) by virtue of Counter-Terrorism and Sentencing Act 2021 (c. 11), s. 50(1)(i), Sch. 13 para. 60
+[^F3]: S. 7(1) repealed (1.12.2020) by Sentencing Act 2020 (c. 17), s. 416(1), Sch. 28 (with ss. 413(4)(5), 416(7), Sch. 27); S.I. 2020/1236, reg. 2
+[^F4]: S. 7(3) omitted (11.5.2026) by virtue of Sentencing Act 2026 (c. 2), s. 49(1), Sch. 5 para. 15 (with s. 34(4)(5)); S.I. 2026/402, reg. 2(b)

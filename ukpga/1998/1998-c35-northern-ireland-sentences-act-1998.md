@@ -1,0 +1,787 @@
+---
+title: "Northern Ireland (Sentences) Act 1998"
+identifier: "ukpga/1998/35"
+citation: "1998 c. 35"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S+N.I."
+date: 1998-07-28
+last_amended: 2024-05-01
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/1998/35"
+source_modified: 2026-08-27
+retrieved: 2026-10-11
+---
+
+# Northern Ireland (Sentences) Act 1998
+
+**1998 c. 35**
+
+An Act to make provision about the release on licence of certain persons serving sentences of imprisonment in Northern Ireland.
+
+[28th July 1998]
+
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## Sentence Review Commissioners
+
+### 1 Sentence Review Commissioners.
+
+(1) The Secretary of State shall appoint Sentence Review Commissioners.
+
+(2) The Secretary of State shall so far as reasonably practicable ensure that at any time—
+
+(a) at least one of the Commissioners is a lawyer, and
+
+(b) at least one is a psychiatrist or a psychologist.
+
+(3) In making appointments the Secretary of State shall have regard to the desirability of the Commissioners, as a group, commanding widespread acceptance throughout the community in Northern Ireland.
+
+(4) Schedule 1 (which makes further provision about the Commissioners) shall have effect.
+
+(5) In subsection (2)(a) “lawyer” means a person who holds a legal qualification in the United Kingdom.
+
+### 2 Commissioners’ procedure.
+
+Schedule 2 (which makes provision about the procedure to be followed in relation to the Commissioners’ functions) shall have effect.
+
+## Eligibility for release
+
+### 3 Applications.
+
+(1) A prisoner may apply to Commissioners for a declaration that he is eligible for release in accordance with the provisions of this Act.
+
+(2) The Commissioners shall grant the application if (and only if)—
+
+(a) the prisoner is serving a sentence of imprisonment for a fixed term in Northern Ireland and the first three of the following four conditions are satisfied, or
+
+(b) the prisoner is serving a sentence of imprisonment for life in Northern Ireland and the following four conditions are satisfied.
+
+(3) The first condition is that the sentence—
+
+(a) was passed in Northern Ireland for a qualifying offence, and
+
+(b) is one of imprisonment for life or for a term of at least five years.
+
+(4) The second condition is that the prisoner is not a supporter of a specified organisation.
+
+(5) The third condition is that, if the prisoner were released immediately, he would not be likely—
+
+(a) to become a supporter of a specified organisation, or
+
+(b) to become concerned in the commission, preparation or instigation of acts of terrorism connected with the affairs of Northern Ireland.
+
+(6) The fourth condition is that, if the prisoner were released immediately, he would not be a danger to the public.
+
+[[^F1](6A) An offence is a qualifying offence if—
+
+(a) subsection (7) or (7A) applies to the offence, and
+
+(b) the prisoner was convicted of the offence—
+
+(i) before the day on which section 19(1) of the Northern Ireland Troubles (Legacy and Reconciliation) Act 2023 came into force, or
+
+(ii) on or after that day by virtue of a public prosecution begun before that day.
+
+(6B) For the purposes of subsection (6A)—
+
+(a) “public prosecution” means any prosecution other than a private prosecution;
+
+(b) a public prosecution of a person for an offence is “begun” when a prosecutor makes the decision to prosecute that person for that offence.]
+
+(7) [[^F2]This subsection applies to] an offence which—
+
+(a) was committed [[^F3]on or after 8 August 1973 and] before 10th April 1998,
+
+(b) was when committed a scheduled offence within the meaning of the [^M1]Northern Ireland (Emergency Provisions) Act 1973, [^M2]1978, [^M3]1991 or [^M4]1996, and
+
+(c) was not the subject of a certificate of the Attorney General for Northern Ireland that it was not to be treated as a scheduled offence in the case concerned.
+
+[[^F4](7A) This subsection applies to an offence which—
+
+(a) was committed on or after 1 January 1966 and before 8 August 1973,
+
+(b) arose out of any conduct forming part of the Troubles, and
+
+(c) is certified by the Director of Public Prosecutions for Northern Ireland as an offence which, if it had been committed in Northern Ireland on 8 August 1973, would have been a scheduled offence within the meaning of the Northern Ireland (Emergency Provisions) Act 1973.
+
+(7B) In deciding whether an offence would have been a scheduled offence, the Director of Public Prosecutions for Northern Ireland must ignore the possibility of a certificate by the Attorney General for Northern Ireland that the offence was not to be treated as a scheduled offence.]
+
+(8) A specified organisation is an organisation specified by order of the Secretary of State; and he shall specify any organisation which he believes—
+
+(a) is concerned in terrorism connected with the affairs of Northern Ireland, or in promoting or encouraging it, and
+
+(b) has not established or is not maintaining a complete and unequivocal ceasefire.
+
+(9) In applying subsection (8)(b) the Secretary of State shall in particular take into account whether an organisation—
+
+(a) is committed to the use now and in the future of only democratic and peaceful means to achieve its objectives;
+
+(b) has ceased to be involved in any acts of violence or of preparation for violence;
+
+(c) is directing or promoting acts of violence by other organisations;
+
+(d) is co-operating fully with any Commission of the kind referred to in section 7 of the [^M5]Northern Ireland Arms Decommissioning Act 1997 in implementing the Decommissioning section of the agreement reached at multi-party talks on Northern Ireland set out in Command Paper 3883.
+
+(10) The Secretary of State shall from time to time review the list of organisations specified under subsection (8); and if he believes—
+
+(a) that paragraph (a) or (b) of that subsection does not apply to a specified organisation, or
+
+(b) that paragraphs (a) and (b) apply to an organisation which is not specified,
+
+he shall make a new order under subsection (8).
+
+### 4 Fixed term prisoners.
+
+(1) If a fixed term prisoner is granted a declaration in relation to a sentence he has a right to be released on licence (so far as that sentence is concerned) on the day on which he has served—
+
+(a) one third of his sentence, plus
+
+(b) one day for every day of remission which he has lost, and not had restored, in accordance with prison rules.
+
+(2) If the day arrived at under subsection (1) falls on or before the day of the declaration, the prisoner’s right to be released under that subsection is a right to be released by the end of the day after the day of the declaration.
+
+(3) If a prisoner would have a right to be released on or by the end of a listed day he has a right to be released on or by the end of the next non-listed day; and the listed days are—
+
+(a) Saturday,
+
+(b) Sunday,
+
+(c) Christmas Day,
+
+(d) Good Friday, and
+
+(e) a public holiday in Northern Ireland.
+
+(4) If a prisoner is released on licence under this section his sentence shall expire (and the licence shall lapse) at the time when he could have been discharged on the ground of good conduct under prison rules.
+
+### 5 Fixed term prisoners: special cases.
+
+(1) If the length of a sentence is treated as reduced by a period of custody in accordance with section 26 of the [^M6]Treatment of Offenders Act Northern Ireland) 1968 (duration of sentence) for the purposes of section 4(1) above the period of custody must be treated as having been served as part of the sentence.
+
+(2) If a sentence of at least five years is supplemented by a period of imprisonment in accordance with [[^F5]section 80(2) of the Terrorism Act 2000] (conviction of scheduled offence during period of remission) for the purposes of section 4(1) above the supplementary period must be treated as part of the sentence.
+
+(3) If—
+
+(a) a sentence of less than five years is supplemented by a period of imprisonment in accordance with [[^F6]section 80(2) of the 2000 Act], and
+
+(b) the supplementary period relates to an earlier sentence of at least five years for a qualifying offence (within the meaning of section 3 above),
+
+the prisoner may make an application under section 3 in respect of the supplementary period and the application shall be granted if (and only if) the second and third conditions are satisfied.
+
+(4) References in this section to [[^F7]section 80(2) of the 2000 Act] include references to—
+
+(a) section 23(2) of the [^M7]Prevention of Terrorism (Temporary Provisions) Act 1989, and
+
+(b) section 15(2) of the [^M8]Northern Ireland (Emergency Provisions) Act 1991 [[^F8], and.
+
+(c) section 16(2) of the [^M9]Northern Ireland (Emergency Provisions) Act 1996.]
+
+### 6 Life prisoners.
+
+(1) When Commissioners grant a declaration to a life prisoner in relation to a sentence they must specify a day which they believe marks the completion of about two thirds of the period which the prisoner would have been likely to spend in prison under the sentence.
+
+(2) The prisoner has a right to be released on licence (so far as that sentence is concerned)—
+
+(a) on the day specified under subsection (1), or
+
+(b) if that day falls on or before the day of the declaration, by the end of the day after the day of the declaration.
+
+(3) But if he would have a right to be released on or by the end of a listed day (within the meaning of section 4(3)) he has a right to be released on or by the end of the next non-listed day.
+
+### 7 Life prisoners: specified dates.
+
+(1) The Secretary of State must inform the Commissioners of the length of time served by persons—
+
+(a) sentenced in Northern Ireland to imprisonment for life, and
+
+(b) released on licence after 1982 and before 1999.
+
+(2) In specifying a day under section 6(1) Commissioners must have regard to—
+
+(a) information given under subsection (1) above, and
+
+(b) previous decisions of Commissioners.
+
+(3) Before Commissioners specify a day under section 6(1) the Secretary of State may notify them of cases which he believes are particularly relevant in the prisoner’s case; and the Commissioners may take the notification into account.
+
+### 8 Revocation of declaration.
+
+(1) The Secretary of State shall apply to Commissioners to revoke a declaration under section 3(1) if, at any time before the prisoner is released under section 4 or 6, the Secretary of State believes—
+
+(a) that as a result of an order under section 3(8), or a change in the prisoner’s circumstances, an applicable condition in section 3 is not satisfied, or
+
+(b) that evidence or information which was not available to the Commissioners when they granted the declaration suggests that an applicable condition in section 3 is not satisfied.
+
+(2) The Commissioners shall grant an application under this section if (and only if) the prisoner has not been released under section 4 or 6 and they believe—
+
+(a) that as a result of an order under section 3(8), or a change in the prisoner’s circumstances, an applicable condition in section 3 is not satisfied, or
+
+(b) that evidence or information which was not available to them when they granted the declaration suggests that an applicable condition in section 3 is not satisfied.
+
+### 9 Licences: conditions.
+
+(1) A person’s licence under section 4 or 6 is subject only to the conditions—
+
+(a) that he does not support a specified organisation (within the meaning of section 3),
+
+(b) that he does not become concerned in the commission, preparation or instigation of acts of terrorism connected with the affairs of Northern Ireland, and
+
+(c) in the case of a life prisoner, that he does not become a danger to the public.
+
+(2) The Secretary of State may suspend a licence under section 4 or 6 if he believes the person concerned has broken or is likely to break a condition imposed by this section.
+
+(3) Where a person’s licence is suspended—
+
+(a) he shall be detained in pursuance of his sentence and, if at large, shall be taken to be unlawfully at large, and
+
+(b) Commissioners shall consider his case.
+
+(4) On consideration of a person’s case—
+
+(a) if the Commissioners think he has not broken and is not likely to break a condition imposed by this section, they shall confirm his licence, and
+
+(b) otherwise, they shall revoke his licence.
+
+(5) Where a person’s licence is confirmed—
+
+(a) he has a right to be released (so far as the relevant sentence is concerned) by the end of the day after the day of confirmation, or
+
+(b) if he is at large, he has a right (so far as the relevant sentence is concerned) to remain at large.
+
+(6) But if he would have a right to be released by the end of a listed day (within the meaning of section 4(3)) he has a right to be released by the end of the next non-listed day.
+
+(7) Detention during suspension of a licence shall not be made unlawful by the subsequent confirmation of the licence.
+
+## Release: further provisions
+
+### 10 Accelerated release.
+
+(1) This section applies if—
+
+(a) a prisoner is granted a declaration in relation to a sentence, and
+
+(b) the day on which he has a right to be released under section 4 or 6 (so far as that sentence is concerned) falls after the accelerated release day.
+
+(2) He has a right to be released under the section concerned (so far as that sentence is concerned) on the accelerated release day.
+
+(3) But if the accelerated release day is a listed day (within the meaning of section 4(3)) he has a right to be released on the next non-listed day.
+
+(4) In the case of a sentence passed before the day on which this Act comes into force, the accelerated release day is the second anniversary of that day.
+
+(5) In the case of a sentence—
+
+(a) passed after the day on which this Act comes into force, and
+
+(b) treated in accordance with section 26 of the [^M10]Treatment of Offenders Act Northern Ireland) 1968 as reduced by a period of custody beginning before the day on which this Act comes into force,
+
+the accelerated release day is the second anniversary of that day.
+
+(6) In the case of any other sentence passed after the day on which this Act comes into force, the accelerated release day is the second anniversary of the start of the sentence (or the start of any period of custody by which the sentence is treated as reduced in accordance with section 26 of the 1968 Act).
+
+[[^F9](7) Nothing in this section shall permit the release of a prisoner following a declaration under section 3(1)—
+
+(a) before he has served two years of the sentence to which the declaration relates; or
+
+(b) at any time when an application under section 8(1) for revocation of the declaration has yet to be finally determined;
+
+and for the purpose of paragraph (a) any period of custody by which the sentence is treated as reduced in accordance with section 26 of the 1968 Act shall be treated as served as part of the sentence.]
+
+(8) The Secretary of State may by order amend subsections (4) to (7).
+
+### 11 Notice of decisions.
+
+(1) If Commissioners refuse an application under section 3 they must give notice of their decision and the reasons for it to the prisoner and to the Secretary of State.
+
+(2) If Commissioners grant an application under section 3 they must—
+
+(a) give notice of their decision to the prisoner and to the Secretary of State, and
+
+(b) include in the notice a statement of the day specified under section 6(1), if the prisoner is a life prisoner.
+
+(3) If Commissioners revoke a declaration under section 8 they must give notice of the revocation and the reasons for it to the prisoner and to the Secretary of State.
+
+(4) If the Secretary of State suspends a licence under section 9(2) he must give notice of the suspension and the reasons for it to the person concerned and to the Commissioners.
+
+(5) If Commissioners make a decision under section 9(4) they must give notice of their decision and the reasons for it to the person concerned and to the Secretary of State.
+
+### 12 Interpretation: prisoners and sentences.
+
+(1) This section has effect for the purposes of this Act.
+
+(2) A fixed term prisoner is a prisoner serving a sentence of imprisonment for a fixed term.
+
+(3) A life prisoner is a prisoner serving a sentence of imprisonment for life.
+
+(4) References to a sentence of imprisonment for life include references to a sentence of detention at the Secretary of State’s pleasure.
+
+(5) Two or more consecutive sentences being served by a prisoner shall be treated as a single sentence if they were passed on the same occasion and each—
+
+(a) is for at least five years, and
+
+(b) was passed in Northern Ireland for a qualifying offence (within the meaning of section 3).
+
+### 13 Interpretation: terrorism.
+
+In this Act “terrorism” means the use of violence for political ends, and includes any use of violence for the purpose of putting the public or any section of the public in fear.
+
+### 13A [[^F10]Interpretation: conduct forming part of the Troubles
+
+In this Act “conduct forming part of the Troubles” has the same meaning as in the Northern Ireland Troubles (Legacy and Reconciliation) Act 2023 (see section 1 of that Act).]
+
+### 14 Inadmissibility.
+
+(1) This section relates to evidence and information provided to Commissioners by or on behalf of a person in connection with his application under section 3 or with subsequent proceedings under this Act regarding his sentence.
+
+(2) The evidence or information shall not be admissible in—
+
+(a) proceedings for an offence under section 2(1), 3, 9, 10, 11 or 18 of the [^M11]Prevention of Terrorism (Temporary Provisions) Act 1989;
+
+(b) proceedings for an offence under section 29, 30(1), 31 or 35 of the [^M12]Northern Ireland (Emergency Provisions) Act 1996;
+
+(c) proceedings for an offence under section 5 of the [^M13]Criminal Law Act 1967 or of the [^M14]Criminal Law Act Northern Ireland) 1967 which relates to an offence mentioned in paragraph (a) or (b);
+
+(d) proceedings for an offence of aiding, abetting, counselling, procuring or inciting the commission of an offence mentioned in any of paragraphs (a) to (c), or of attempting or conspiring to commit an offence so mentioned.
+
+(3) The evidence or information shall not—
+
+[[^F11](a) be admissible in proceedings on applications made under paragraph 1, 2, 5, 11, 13, 22, 28 or 30 of Schedule 5 to the Terrorism Act 2000.]
+
+(b) be admissible in proceedings under section 93H or 93I of the [^M15]Criminal Justice Act 1988, section 18 or 19 of the [^M16]Proceeds of Crime (Scotland) Act 1995 or article 50 or 51 of the [^M17]Proceeds of Crime (Northern Ireland) Order 1996;
+
+(c) be admissible in proceedings under, or the subject of an order under, section 93J of the [^M18]Criminal Justice Act 1988, section 20 of the [^M19]Proceeds of Crime (Scotland) Act 1995 or article 54 of the [^M20]Proceeds of Crime (Northern Ireland) Order 1996;
+
+(d) be the subject of a notice under Schedule 2 to that Order.
+
+(4) Subsection (2) shall not prevent the admission of evidence adduced on behalf of the accused.
+
+### 15 Information for victims.
+
+(1) The Secretary of State shall provide a statement under this section about a person if he receives a written request to do so and he believes—
+
+(a) that the person about whom the statement is sought is serving a sentence of imprisonment in Northern Ireland for a fixed term of at least five years or for life,
+
+(b) that the sentence was passed in Northern Ireland for a qualifying offence, and
+
+(c) that the person requesting the statement, or a member of his family, was a victim of the offence for which the sentence was passed.
+
+(2) But the Secretary of State shall not provide a statement if he believes that to do so would create a danger to the safety of any person.
+
+(3) A statement under this section about a person shall state—
+
+(a) whether he has made an application under section 3;
+
+(b) if he has made an application, whether it has been granted;
+
+(c) if his application has been granted, whether he has been released and the date on which he has a right to be released, or on which he was released, under section 4 or 6;
+
+(d) if he has been released on licence, whether his licence has been suspended under section 9(2) and, if so, whether it has been confirmed or revoked under section 9(4);
+
+(e) if he has been released on licence under section 4, the date on which the licence will expire.
+
+(4) If the Secretary of State has issued a statement under this section and becomes aware that any of the information in it has ceased to be accurate, he shall send a revised statement to the person who made the original request at his last known address.
+
+### 16 Power to suspend and revive.
+
+(1) The Secretary of State may make orders suspending, or later reviving, the operation of section 3.
+
+(2) A suspension order under subsection (1) shall, subject to any later revival order, prevent—
+
+(a) the granting of a declaration on an application already made under section 3, and
+
+(b) the release of a person under section 4 or 6 pursuant to a declaration already granted.
+
+(3) The Secretary of State may make orders suspending, or later reviving, the operation of section 10.
+
+(4) A suspension order under subsection (1) or (3) shall have no effect in relation to a sentence in respect of which a licence under this Act is current or suspended when the order comes into force; but the order shall have effect in relation to the sentence if the licence is revoked after the order comes into force.
+
+## Miscellaneous
+
+### 17 Sentences passed outside Northern Ireland.
+
+Schedule 3 (which makes provision about sentences passed outside Northern Ireland) shall have effect.
+
+### 18 Remission: amendment of 1995 Act.
+
+In section 3 of the [^M21]Northern Ireland (Remission of Sentences) Act 1995 (suspension and revival of main provisions) at the end of subsection (2) add “ ; but the order shall apply in relation to him if his licence is revoked after the order comes into force. ”
+
+## General
+
+### 19 Orders and rules.
+
+(1) Any order or rules under this Act—
+
+(a) shall be made by statutory instrument, and
+
+(b) may include transitional provisions and savings.
+
+(2) Subject to subsection (3), no order shall be made under section 3(8), 10(8) or 16 unless a draft has been laid before, and approved by resolution of, each House of Parliament.
+
+(3) An order under section 3(8) or 10(8) or a suspension order under section 16 may be made without a draft having been approved if the Secretary of State thinks it necessary by reason of urgency, in which case the order—
+
+(a) shall include a declaration to that effect,
+
+(b) shall be laid before each House of Parliament after being made, and
+
+(c) shall cease to have effect at the end of the period of 40 days (computed in accordance with section 7(1) of the [^M22]Statutory Instruments Act 1946) starting with the day on which it was made unless a resolution has been passed by each House approving it.
+
+(4) If an order under section 3(8) or 10(8) or 16 ceases to have effect by virtue of subsection (4)(c) above, the detention of a person while the order was in force shall not be treated as unlawful by reason only of the order’s ceasing to have effect.
+
+(5) Rules under Schedule 2 shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+### 20 Money.
+
+Expenditure incurred by the Secretary of State by virtue of this Act shall be paid out of money provided by Parliament.
+
+### 21 Extent.
+
+(1) Subject to subsections (2) and (3), this Act extends to Northern Ireland only.
+
+(2) An amendment by this Act of any other Act has the same extent as the Act amended.
+
+(3) Sections 14, 15 and 17 extend to the whole of the United Kingdom.
+
+### 22 Commencement.
+
+This Act shall come into force on a day appointed by order made by the Secretary of State.
+
+### 23 Short title.
+
+This Act may be cited as the Northern Ireland (Sentences) Act 1998.
+
+## SCHEDULE 1 — Commissioners
+
+*Section 1.*
+
+### Chairman
+
+**1** The Secretary of State shall appoint a chairman, or joint chairmen, from among the Commissioners.
+
+### Tenure
+
+**2** A Commissioner—
+
+(a) shall hold office in accordance with the terms of his appointment, and
+
+(b) may resign by notice in writing to the Secretary of State.
+
+**3** The Secretary of State may dismiss a Commissioner if satisfied—
+
+(a) that he has without reasonable excuse failed to carry out his functions for a continuous period of three months beginning not earlier than six months before the day of dismissal,
+
+(b) that he has been convicted of a criminal offence,
+
+(c) that a bankruptcy order has been made against him, or his estate has been sequestrated, or he has made a composition or arrangement with, or granted a trust deed for, his creditors, or
+
+(d) that he is unable or unfit to carry out his functions.
+
+### Remuneration and allowances
+
+**4** (1) The Secretary of State shall pay such remuneration, fees and allowances as he thinks fit to or in respect of a Commissioner.
+
+(2) If a person ceases to be a Commissioner otherwise than on the expiry of his term of office, the Secretary of State may pay him compensation if in the Secretary of State’s opinion special circumstances make it appropriate.
+
+### Staff, premises, etc.
+
+**5** The Secretary of State shall provide for the Commissioners the services of such staff, and the use of such premises and other facilities, as he thinks appropriate.
+
+### Annual report
+
+**6** (1) The chairman (or joint chairmen) shall, as soon as reasonably practicable after the end of each financial year, make a report to the Secretary of State on the performance of the Commissioners’ functions during the year.
+
+(2) The Secretary of State shall lay a copy of the report before each House of Parliament.
+
+(3) In sub-paragraph (1) “financial year” means—
+
+(a) the period starting with the date on which the first Commissioner is appointed and ending on 31st March following that date, and
+
+(b) each successive period of twelve months.
+
+### Disqualification of Commissioners
+
+**7** In Part III of Schedule 1 to the [^M23]House of Commons Disqualification Act 1975 (other disqualifying offices) at the appropriate place insert—
+
+> Sentence Review Commissioner
+
+.
+
+**8** In Part III of Schedule 1 to the [^M24]Northern Ireland Assembly Disqualification Act 1975 (other disqualifying offices) at the appropriate place insert—
+
+> Sentence Review Commissioner
+
+.
+
+**9** In section 4 of the [^M25]Northern Ireland (Elections) Act 1998 (disqualification) after subsection (4) insert—
+
+> (4A) A Sentence Review Commissioner is disqualified for membership of the Assembly.
+
+.
+
+### Disapplication of Acts
+
+**10** The following provisions shall not apply in relation to the appointment of Commissioners—
+
+(a) section 19 of the [^M26]Northern Ireland Constitution Act 1973 (discrimination by public authorities);
+
+(b) section 17 of the [^M27]Fair Employment (Northern Ireland) Act 1976 (discrimination by employers).
+
+## SCHEDULE 2 — Commissioners’ Procedure
+
+*Section 2.*
+
+### Rules
+
+**1** The Secretary of State may make rules prescribing the procedure to be followed in relation to proceedings of the Commissioners under this Act; and in particular rules may—
+
+(a) make provision for the matters set out in this Schedule;
+
+(b) confer functions on the chairman (or on joint chairmen, jointly or concurrently).
+
+### Allocation of cases
+
+**2** The rules may provide—
+
+(a) for the allocation of proceedings to panels of Commissioners;
+
+(b) for the taking of specified decisions by a single Commissioner.
+
+### Conduct of proceedings
+
+**3** (1) The rules may require the Commissioners conducting the proceedings to include a psychiatrist or psychologist in specified circumstances.
+
+(2) The rules may prevent a person who is serving a sentence of imprisonment or detention from representing or acting on behalf of a prisoner.
+
+(3) The rules may provide for applications to be dealt with in the order decided by the Commissioners.
+
+### Applications
+
+**4** The rules may require an application to be made in a specified form and to be accompanied by specified documents.
+
+### Evidence and information
+
+**5** The rules may make provision about evidence and information, including provision—
+
+(a) requiring Commissioners to send to the Secretary of State copies of applications and such related documents as the rules may specify;
+
+(b) requiring the Secretary of State to provide specified information to the Commissioners;
+
+(c) for the giving of evidence by or on behalf of the Secretary of State, the Royal Ulster Constabulary and others;
+
+(d) about the way in which information or evidence is to be given;
+
+(e) for evidence or information about a prisoner not to be disclosed to anyone other than a Commissioner if the Secretary of State certifies that the evidence or information satisfies conditions specified in the rules;
+
+(f) preventing a prisoner from calling any witness without leave of Commissioners.
+
+### Exclusion of persons from proceedings
+
+**6** The rules may provide for proceedings to be held in private except where Commissioners direct otherwise.
+
+**7** (1) The rules may permit Commissioners to hold proceedings in specified circumstances in the absence of any person, including the prisoner concerned and any representative appointed by him.
+
+(2) Where a prisoner and any representative appointed by him are excluded from proceedings by virtue of sub-paragraph (1), the [[^F12]Advocate General for Northern Ireland] may appoint a person to represent the prisoner’s interests in those proceedings.
+
+### Successive applications
+
+**8** The rules may prevent successive applications under any provision of this Act being made in specified circumstances.
+
+### Legal aid
+
+**9** (1) The rules may allow Commissioners to award a prisoner money for legal advice or representation.
+
+(2) The Secretary of State shall pay any sums which the Commissioners award.
+
+## SCHEDULE 3 — Sentences passed outside Northern Ireland
+
+*Section 17.*
+
+### Eligibility for release
+
+**1** (1) This paragraph applies where a prisoner who makes an application to Commissioners under section 3(1) is serving a sentence of imprisonment in Northern Ireland and the sentence was passed in England and Wales or Scotland.
+
+(2) Where the applicant is serving a sentence of imprisonment for a fixed term, the Commissioners shall grant the application if (and only if)—
+
+(a) the sentence is for a term of at least five years,
+
+(b) the sentence was passed for an offence equivalent to a qualifying offence, and
+
+(c) the second and third conditions in section 3 are satisfied.
+
+(3) Where the applicant is serving a sentence of imprisonment for life, the Commissioners shall grant the application if (and only if)—
+
+(a) the sentence was passed for an offence equivalent to a qualifying offence, and
+
+(b) the second, third and fourth conditions in section 3 are satisfied.
+
+### Equivalent offence
+
+**2** [[^F13](A1) An offence is equivalent to a qualifying offence if—
+
+(a) sub-paragraph (1) or (1A) applies to the offence, and
+
+(b) the prisoner was convicted of the offence—
+
+(i) before the day on which section 19(1) of the Northern Ireland Troubles (Legacy and Reconciliation) Act 2023 came into force, or
+
+(ii) on or after that day by virtue of a public prosecution begun before that day.
+
+(A2) For the purposes of sub-paragraph (A1)—
+
+(a) “public prosecution” means any prosecution other than a private prosecution;
+
+(b) a public prosecution of a person for an offence is “begun” when a prosecutor makes the decision to prosecute that person for that offence.]
+
+(1) [[^F14]This sub-paragraph applies to an offence which]—
+
+(a) was committed [[^F15]on or after 8 August 1973 and] before 10th April 1998,
+
+[[^F16](b) arose out of any conduct forming part of the Troubles, and]
+
+(c) is certified by the appropriate Law Officer as an offence which if it had been committed in Northern Ireland would have been a scheduled offence within the meaning of the [^M28]Northern Ireland (Emergency Provisions) Act 1973, [^M29]1978, [^M30]1991 or [^M31]1996.
+
+[[^F17](1A) This sub-paragraph applies to an offence which—
+
+(a) was committed on or after 1 January 1966 and before 8 August 1973,
+
+(b) arose out of any conduct forming part of the Troubles, and
+
+(c) is certified by the appropriate Law Officer as an offence which, if it had been committed in Northern Ireland on 8 August 1973, would have been a scheduled offence within the meaning of the Northern Ireland (Emergency Provisions) Act 1973.]
+
+(2) If a person who makes an application under section 3 in relation to a sentence for an offence requests the appropriate Law Officer to provide a certificate under sub-paragraph (1)(c) [[^F18]or (1A)(c)] in relation to that offence, the Law Officer shall as soon as reasonably practicable—
+
+(a) grant the certificate, or
+
+(b) refuse the request and notify the person who made the request of the refusal and the reasons for it.
+
+(3) In deciding whether an offence would have been a scheduled offence a Law Officer shall ignore the possibility of a certificate by the Attorney General for Northern Ireland that the offence was not to be treated as a scheduled offence.
+
+(4) For the purposes of this paragraph the appropriate Law Officer is—
+
+(a) in relation to an offence committed in England and Wales, the Attorney General, and
+
+(b) in relation to an offence committed in Scotland, the Lord Advocate.
+
+### Effect of declaration
+
+**3** Where a declaration is granted under section 3 in accordance with paragraph 1, sections 4 to 14 shall have effect with the following modifications.
+
+**4** (1) For section 4(1)(b) there shall be substituted—
+
+> (b) one day for every day of remission which he has lost and not had restored (or additional day which he has been awarded and which has not been remitted) in accordance with prison rules.
+
+.
+
+(2) The reference in section 4(4) to the time when a prisoner could have been discharged under prison rules shall be treated as a reference to the time when he could have been discharged had the relevant sentence been passed in Northern Ireland for a scheduled offence.
+
+**5** The references in sections 5 and 10 to section 26 of the [^M32]Treatment of Offenders Act Northern Ireland) 1968 shall be treated as references to any enactment which has the effect of, or an effect similar to, that section and which applies to the prisoner concerned.
+
+**6** The following shall be substituted for section 7—
+
+> **Life prisoners: specified dates.**
+>
+> **7** In specifying a day for a prisoner under section 6 the Commissioners must have regard to—
+>
+> (a) any order or direction made in relation to the prisoner under section 28 of the [^M33]Crime (Sentences) Act 1997 (duty to release certain life prisoners);
+>
+> (b) any order made in relation to the prisoner under section 34 of the [^M34]Criminal Justice Act 1991 (duty to release discretionary life prisoners) or certificate under paragraph 9 of Schedule 12 to that Act (transitional provisions);
+>
+> (c) any certificate issued by the Lord Justice General in relation to the prisoner under section 16(2) of the [^M35]Crime and Punishment (Scotland) Act 1997 or paragraph 6 of Schedule 6 to the [^M36]Prisoners and Criminal Proceedings (Scotland) Act 1993 (transitional provisions);
+>
+> (d) any order made in relation to the prisoner under section 2 of the Prisoners and Criminal Proceedings (Scotland) Act 1993 (duty to release designated life prisoners);
+>
+> (e) any other information, whether relating to the prisoner’s case or to other cases, which the Secretary of State submits; and
+>
+> (f) previous decisions of Commissioners.
+
+.
+
+**7** For section 15(1)(b) there shall be substituted—
+
+> (b) that the sentence was passed for an offence equivalent to a qualifying offence.
+
+.
+
+**8** (1) The reference in section 12(4) to detention at the Secretary of State’s pleasure shall be treated as a reference to detention at Her Majesty’s pleasure or detention for life or without limit of time under section 205 of the [^M37]Criminal Procedure (Scotland) Act 1995.
+
+(2) For section 12(5)(b) there shall be substituted—
+
+> (b) was passed for an offence equivalent to a qualifying offence.
+
+.
+
+### Restricted transfers
+
+**9** (1) Nothing in Part II of Schedule 1 to the Crime (Sentences) Act 1997 (transfer of prisoners: restricted transfers) shall prevent the making of an application under section 3 of this Act.
+
+(2) The following provisions of this paragraph have effect where—
+
+(a) a prisoner is granted a declaration under section 3 in relation to a sentence in accordance with paragraph 1, and
+
+(b) his transfer to Northern Ireland in respect of that sentence was a restricted transfer for the purposes of Part II of Schedule 1 to the 1997 Act.
+
+(3) A fixed term prisoner’s transfer shall cease to be a restricted transfer when the declaration under section 3 is made.
+
+(4) A life-sentence prisoner’s transfer shall cease to be a restricted transfer when he is released on licence under section 6.
+
+(5) Where a transfer under Part I of Schedule 1 to the 1997 Act ceases to be a restricted transfer in accordance with this paragraph, paragraph 15 of that Schedule shall apply as if the transfer were an unrestricted transfer and had been effected at that time.
+
+---
+
+[^F1]: S. 3(6A)(6B) inserted (1.5.2024) by Northern Ireland Troubles (Legacy and Reconciliation) Act 2023 (c. 41), s. 63(3), Sch. 12 para. 2(2) (with s. 61, Sch. 12 para. 1(2))
+[^F2]: Words in s. 3(7) substituted (1.5.2024) by Northern Ireland Troubles (Legacy and Reconciliation) Act 2023 (c. 41), s. 63(3), Sch. 12 para. 2(3)(a) (with s. 61, Sch. 12 para. 1(2))
+[^F3]: Words in s. 3(7)(a) inserted (1.5.2024) by Northern Ireland Troubles (Legacy and Reconciliation) Act 2023 (c. 41), s. 63(3), Sch. 12 para. 2(3)(b) (with s. 61, Sch. 12 para. 1(2))
+[^M1]: 1973 c. 53.
+[^M2]: 1978 c. 5.
+[^M3]: 1991 c. 24.
+[^M4]: 1996 c. 22.
+[^F4]: S. 3(7A)(7B) inserted (1.5.2024) by Northern Ireland Troubles (Legacy and Reconciliation) Act 2023 (c. 41), s. 63(3), Sch. 12 para. 2(4) (with s. 61, Sch. 12 para. 1(2))
+[^M5]: 1997 c. 7.
+[^M6]: 1968 c. 29 (N.I.).
+[^F5]: Words in s. 5(2) substituted (19.2.2001) by 2000 c. 11, s. 125, Sch. 15 para. 16(2)(a); S.I. 2001/421, art. 2
+[^F6]: Words in s. 5(3)(a) substituted (19.2.2001) by 2000 c. 11, s. 125, Sch. 15 para. 16(2)(b); S.I. 2001/421, art. 2
+[^F7]: Words in s. 5(4) substituted (19.2.2001) by 2000 c. 11, s. 125, Sch. 15 para. 16(2)(c); S.I. 2001/421, art. 2
+[^M7]: 1989 c. 4.
+[^M8]: 1991 c. 24.
+[^F8]: S. 5(4)(c) and word “and” preceding it inserted (19.2.2001) by 2000 c. 11, s. 125, Sch. 15 para. 16(2)(d); S.I. 2001/421, art. 2
+[^M9]: 1996 c. 22
+[^M10]: 1968 c. 29 (N.I.).
+[^F9]: S. 10(7) substituted (27.7.2000) by S.I. 2000/2024, art. 2
+[^F10]: S. 13A inserted (1.5.2024) by Northern Ireland Troubles (Legacy and Reconciliation) Act 2023 (c. 41), s. 63(3), Sch. 12 para. 4 (with s. 61, Sch. 12 para. 1(2))
+[^M11]: 1989 c. 4.
+[^M12]: 1996 c. 22.
+[^M13]: 1967 c. 58.
+[^M14]: 1967 c. 18 (N.I.).
+[^F11]: S. 14(3)(a) substituted (19.2.2001) by 2000 c. 11, s. 125, Sch. 15 para. 16(3)(a); S.I. 2001/421, art. 2
+[^M15]: 1988 c. 33.
+[^M16]: 1995 c. 43.
+[^M17]: 1996 S.I. 1299 (N.I. 9).
+[^M18]: 1988 c. 33.
+[^M19]: 1995 c. 43.
+[^M20]: 1996 S.I. 1299 (N.I. 9).
+[^M21]: 1995 c. 47.
+[^M22]: 1946 c. 36.
+[^M23]: 1975 c. 24.
+[^M24]: 1975 c. 25.
+[^M25]: 1998 c. 12.
+[^M26]: 1973 c. 36.
+[^M27]: 1976 c. 25.
+[^F12]: Words in Sch. 2 para. 7(2) substituted (12.4.2010) by Justice (Northern Ireland) Act 2002 (c. 26), s. 87(1), Sch. 7 para. 20; S.R. 2010/113, art. 2, Sch. para. 19(d)
+[^F13]: Sch. 3 para. 2(A1)(A2) inserted (1.5.2024) by Northern Ireland Troubles (Legacy and Reconciliation) Act 2023 (c. 41), s. 63(3), Sch. 12 para. 3(2) (with s. 61, Sch. 12 para. 1(2))
+[^F14]: Words in Sch. 3 para. 2(1) substituted (1.5.2024) by Northern Ireland Troubles (Legacy and Reconciliation) Act 2023 (c. 41), s. 63(3), Sch. 12 para. 3(3)(a) (with s. 61, Sch. 12 para. 1(2))
+[^F15]: Words in Sch. 3 para. 2(1)(a) inserted (1.5.2024) by Northern Ireland Troubles (Legacy and Reconciliation) Act 2023 (c. 41), s. 63(3), Sch. 12 para. 3(3)(b) (with s. 61, Sch. 12 para. 1(2))
+[^F16]: Sch. 3 para. 2(1)(b) substituted (1.5.2024) by Northern Ireland Troubles (Legacy and Reconciliation) Act 2023 (c. 41), s. 63(3), Sch. 12 para. 3(3)(c) (with s. 61, Sch. 12 para. 1(2))
+[^M28]: 1973 c. 53.
+[^M29]: 1978 c. 5.
+[^M30]: 1991 c. 24.
+[^M31]: 1996 c. 22.
+[^F17]: Sch. 3 para. 2(1A) inserted (1.5.2024) by Northern Ireland Troubles (Legacy and Reconciliation) Act 2023 (c. 41), s. 63(3), Sch. 12 para. 3(4) (with s. 61, Sch. 12 para. 1(2))
+[^F18]: Sch. 3 para. 2(2) inserted (1.5.2024) by Northern Ireland Troubles (Legacy and Reconciliation) Act 2023 (c. 41), s. 63(3), Sch. 12 para. 3(5) (with s. 61, Sch. 12 para. 1(2))
+[^M32]: 1968 c. 29 (N.I.).
+[^M33]: 1997 c. 43.
+[^M34]: 1991 c. 53.
+[^M35]: 1997 c. 48.
+[^M36]: 1993 c. 9.
+[^M37]: 1995 c. 43.

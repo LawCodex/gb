@@ -1,0 +1,4118 @@
+---
+title: "Reserve Forces Act 1996"
+identifier: "ukpga/1996/14"
+citation: "1996 c. 14"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S+N.I."
+date: 1996-05-22
+last_amended: 2023-04-01
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/1996/14"
+source_modified: 2024-05-17
+retrieved: 2026-10-11
+---
+
+# Reserve Forces Act 1996
+
+**1996 c. 14**
+
+An Act to make provision with respect to the reserve forces of the Crown and persons liable to be recalled for permanent service; to amend the provisions of the Reserve Forces Act 1980 relating to the lieutenancies; to amend the law relating to the postponement of the discharge or transfer to the reserve of regular servicemen; and for connected purposes.
+
+[22nd May 1996]
+
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## Part I — The Reserve Forces
+
+### Maintenance and composition
+
+#### 1 Power to maintain the reserve forces.
+
+(1) Her Majesty may maintain each of the reserve forces in accordance with the provisions of this Act.
+
+(2) In this Act “the reserve forces” means the following forces—
+
+(a) the Royal Fleet Reserve, the Royal Naval Reserve and the Royal Marines Reserve (the reserve naval and marine forces;
+
+(b) the [[^F1]Regular Reserve] and the [[^F2]Army Reserve] (the reserve land forces); and
+
+(c) the Air Force Reserve and the Royal Auxiliary Air Force (the reserve air forces).
+
+#### 2 Membership of the reserve forces.
+
+(1) The reserve forces shall each consist of officers and men.
+
+(2) The men of the Royal Fleet Reserve, the [[^F1]Regular Reserve] and the Air Force Reserve (referred to in this Act as “the ex-regular reserve forces”) may only be—
+
+(a) men transferred to that force under [[^F3]regulations made under section 331 of the Armed Forces Act 2006;]
+
+(b) men enlisted or re-engaged in that force.
+
+(3) The men of the Royal Naval Reserve, the Royal Marines Reserve, the [[^F2]Army Reserve] and the Royal Auxiliary Air Force (referred to in this Act as “the volunteer reserve forces”) may only be men enlisted or re-engaged in that force.
+
+(4) In this Act, any reference (however expressed) to a man of any of the reserve forces is a reference to a person of either sex who is a member of that force and is of or below the rate or rank of warrant officer.
+
+#### 3 Control of numbers in the reserve forces.
+
+(1) Parliament shall authorise a maximum number of officers and a maximum number of men for each of the reserve forces; and, accordingly, the numbers of officers and men of a reserve force shall not exceed the numbers for the time being authorised for the force.
+
+(2) The special members of a reserve force shall not be reckoned in the numbers of officers and men for the time being authorised for the force under this section.
+
+### Regulation and organisation
+
+#### 4 Orders and regulations concerning the reserve forces.
+
+(1) Her Majesty may, by order signified under the hand of the Secretary of State, make orders with respect to—
+
+(a) the government and discipline of any reserve force; and
+
+(b) all other matters and things relating to that force [[^F4](except pay, bounty and allowances)],
+
+and including any matter authorised to be prescribed by any provision of this Act or expressed to be subject to orders or regulations under this section.
+
+(2) Subject to the provisions of any order under subsection (1), the Defence Council may make regulations with respect to any matters relating to any reserve force, being matters with respect to which Her Majesty may make orders under that subsection.
+
+(3) Orders or regulations under this section may make different provision for different cases (including different forces), and may include such supplementary, consequential, incidental and transitional provisions as appear to Her Majesty or the Defence Council (as the case may be) to be necessary or expedient.
+
+(4) Regulations under this section may be amended or revoked by an order or further regulations under this section; and an order under this section may be amended or revoked by another order under this section.
+
+(5) Any order or regulations under this section shall be laid before each House of Parliament after being made.
+
+#### 5 Organisation of the reserve forces.
+
+(1) Any of the reserve forces may, by or in accordance with orders or regulations under section 4, be formed into such groupings as may be specified in the order or regulations concerned.
+
+(2) Such orders or regulations may, in particular, include provision with respect to—
+
+(a) the formation of the reserve naval or marine forces into divisions, classes or other naval or marine bodies;
+
+(b) the formation of the reserve land forces into corps, regiments, battalions or other military bodies;
+
+(c) the formation of the reserve air forces into wings, squadrons or other air-force bodies; and
+
+(d) the formation of any such bodies as are mentioned in paragraphs (a) to (c) into higher formations, either alone or jointly with any other part of Her Majesty’s armed forces.
+
+#### 6 Permanent staff of the reserve forces.
+
+(1) Each reserve force may be served by a permanent staff consisting of persons who are members of that force or members of the regular services.
+
+(2) Orders or regulations under section 4 may make provision with respect to the duties of, and any other matter relating to, the permanent staff of any reserve force.
+
+### Pay and pensions
+
+#### [^F5]7 Pay, bounty and allowances of the reserve forces.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 8 Pensions.
+
+(1) Orders or regulations under section 4 may make provision for—
+
+(a) the payment of pensions, allowances and gratuities by the Secretary of State to or in respect of any persons who are or have been members of the reserve forces;
+
+(b) the making of payments towards the provision of pensions, allowances and gratuities to or in respect of any such persons.
+
+(2) Orders or regulations under section 4 may also make provision for the payment of, or the making of payments towards the provision of, pensions, allowances and gratuities in respect of the death or disability of a person attributable to his service as a member of a reserve force.
+
+(3) The provision made under this section may include provision for or towards the payment of lump sums instead of, or as well as, pensions.
+
+## Part II — Enlistment and conditions of service
+
+### Enlistment and re-engagement
+
+#### 9 Enlistment of men in the reserve forces.
+
+(1) An enlisting officer may enlist as men in any reserve force such persons as he considers suitable.
+
+(2) In this Part “enlisting officer” means—
+
+(a) a lord-lieutenant or deputy lieutenant holding office under [[^F6]the Lieutenancies Act 1997];
+
+(b) an officer of the regular services or of any reserve force;
+
+(c) any consul-general, consul or vice consul or any other person duly exercising the functions of a British consul in any place outside the United Kingdom.
+
+(3) A recruit may not be enlisted in any country or territory outside the United Kingdom which is specified for the purposes of this subsection by Her Majesty by Order in Council.
+
+(4) Schedule 1 (enlistment of men in the reserve forces) shall have effect.
+
+[^F7]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 10 Enlistment of foreign nationals and residents.
+
+(1) Orders or regulations under section 4 may provide for the enlistment in any reserve force of persons who are not British citizens or who reside outside the United Kingdom.
+
+(2) A person who is not a British citizen or who resides outside the United Kingdom may not be enlisted in a reserve force unless his enlistment is permitted by provision made for the purposes of subsection (1).
+
+#### 11 Re-engagement for service.
+
+(1) A man of a reserve force may be re-engaged for such period, beginning immediately after the end of his current term of service, as may be prescribed.
+
+(2) A man wishing to re-engage—
+
+(a) shall do so before being discharged, but not more than 12 months before the end of his current term of service; and
+
+(b) on that re-engagement shall make such declaration as may be prescribed before an enlisting officer.
+
+(3) A man who has re-engaged under this section may re-engage on a second or subsequent occasion.
+
+#### 12 Service in the reserve land and air forces on enlistment.
+
+(1) Orders and regulations under section 4 may make provision as to the corps, units or bodies into which persons enlisting in a reserve land or air force may be enlisted.
+
+(2) Subject to any restriction of choice imposed by or in accordance with orders or regulations under section 4—
+
+(a) a man of the [[^F2]Army Reserve] shall be enlisted for service in such corps and posted to such unit as he may select;
+
+(b) a man of the Royal Auxiliary Air Force shall be enlisted for service in such unit as he may select; and
+
+(c) a man enlisted in the [[^F1]Regular Reserve] or the Air Force Reserve shall be enlisted for service in such military body or air-force body (as the case may be) as he may select.
+
+(3) A man of the [[^F2]Army Reserve] may not (after his enlistment) be transferred to another corps, or posted or attached to any unit, without his consent.
+
+(4) A man of the Royal Auxiliary Air Force may not (after his enlistment) be posted or attached to any unit without his consent.
+
+(5) A man of the [[^F1]Regular Reserve] or Air Force Reserve may not (after his enlistment in or transfer to that force) be appointed, posted, transferred or attached to any military body or air-force body without his consent.
+
+(6) Subsections (3), (4) and (5) do not apply to a man of a reserve force while he is in permanent service.
+
+#### 13 Transfer of men between reserve forces.
+
+(1) A man serving in an ex-regular reserve force on transfer from the regular services may, with the consent of an authorised officer, enlist in another reserve force.
+
+(2) A man enlisted in a reserve force (including a man enlisted by virtue of subsection (1)) may, with the consent of an authorised officer, enlist in another reserve force.
+
+(3) On enlisting in a reserve force by virtue of this section the man concerned shall cease to be a member of the reserve force in which he was previously serving.
+
+(4) A man originally serving in an ex-regular reserve force on transfer from the regular services who—
+
+(a) ceases to be a member of a reserve force in which he enlisted by virtue of this section without enlisting or re-enlisting in another reserve force; and
+
+(b) does so before the date on which his term of compulsory service in the ex-regular reserve force to which he was transferred would have expired if he had not ceased to be a member of it on enlisting in another reserve force,
+
+shall, unless an authorised officer otherwise directs, again be a man of the ex-regular reserve force to which he was transferred from the regular services.
+
+(5) A direction by an authorised officer under subsection (4) may be given in respect of—
+
+(a) one or more named individuals; or
+
+(b) persons of any description specified in the direction.
+
+(6) In this section “authorised officer” means an officer authorised by or in accordance with directions of the Defence Council to exercise the powers conferred by this section.
+
+(7) In this Act “term of compulsory service” means the term for which a person is required to serve in an ex-regular reserve force in pursuance of a requirement imposed [[^F8]under the Armed Forces Act 2006.]
+
+### Discharge
+
+#### 14 General powers to discharge men of the reserve forces.
+
+(1) The Defence Council may at any time discharge any man of any of the reserve forces.
+
+(2) The power conferred by this section may also be exercised by any officer authorised by or in accordance with directions of the Defence Council to exercise that power.
+
+(3) A man discharged by an authorised officer may appeal to the Defence Council, who may give such directions in his case (including a direction annulling the discharge) as they consider appropriate.
+
+#### 15 Discharge by commanding officer.
+
+(1) [[^F9]A man of a reserve force may be discharged by his commanding officer], in such manner and on such grounds as may be prescribed.
+
+(2) A man discharged by his commanding officer may appeal to the Defence Council, who may give such directions in his case (including a direction annulling the discharge) as they consider appropriate.
+
+#### 16 Entitlement to discharge.
+
+(1) Any man of a reserve force shall (subject to the provisions of this Act) be entitled to be discharged on the expiry of his current term of service.
+
+(2) Any enlisted man of a reserve force shall (subject to the provisions of this Act) be entitled to be discharged—
+
+(a) before the end of his current term of service, on complying with the conditions mentioned in subsection (4); and
+
+(b) in such other circumstances as may be prescribed.
+
+(3) Subsection (2) shall also apply to any man of a reserve force who re-engages in the force; but in the case of a man who—
+
+(a) is serving on transfer to the reserve from the regular services, and
+
+(b) re-engages before the end of his term of compulsory service,
+
+paragraph (a) of that subsection shall not apply until after the end of his term of compulsory service.
+
+(4) The conditions for entitlement to discharge under subsection (2)(a) are that the man concerned—
+
+(a) gives to his commanding officer 3 months’ notice in writing, or such less notice as may be prescribed, of his desire to be discharged; and
+
+(b) delivers up in good order, fair wear and tear excepted, all arms, clothing and other public property issued to him, or, in cases where for any good or sufficient cause the delivery of that property is impossible, paying its value,
+
+but his commanding officer may, if it appears that the reasons for which the discharge is claimed are of sufficient urgency or weight, dispense either wholly or in part with either or both of the above conditions.
+
+(5) A man of a reserve force who becomes entitled to be discharged shall be discharged in such manner as may be prescribed with all convenient speed (and shall continue as a man of that force until actually discharged).
+
+#### 17 Postponement of discharge.
+
+(1) Where, at the time he would (apart from this section) become entitled to be discharged under section 16, a man is in permanent service or [^F10]full-time service under a full-time service commitment [[^F10]service under a section 24 commitment], he shall not be entitled to be discharged until he is released from that service.
+
+(2) Where, at the time when a man not in permanent service or [^F11]full-time service under a full-time service commitment [[^F11]service under a section 24 commitment] would (apart from this section) become entitled to be discharged under section 16(1), an order under section 52 is in force authorising the call out of members of any reserve force, he may be required to prolong his service for such further term, not exceeding 12 months, as the Defence Council or an authorised officer may order.
+
+(3) In subsection (2) “authorised officer” means an officer authorised by or in accordance with directions of the Defence Council to exercise the power conferred by that subsection.
+
+(4) Where, at the time when a man not in permanent service or [^F12]full-time service under a full-time service commitment [[^F12]service under a section 24 commitment] would (apart from this section) become entitled to be discharged under section 16(2), an order under section 52 or 54 is in force authorising the call out of members of any reserve force, he shall not be entitled to be so discharged while that call-out order is in force.
+
+#### 18 Rights of men on being discharged.
+
+(1) Where a man who is to be discharged from a reserve force is in permanent service and serving outside the United Kingdom—
+
+(a) if he requires to be released from that service and discharged in the United Kingdom, he shall be sent there free of charge with all convenient speed and shall be released from service and discharged on his arrival there; but
+
+(b) if at his request he is released from that service and discharged at the place where he is serving he shall have no claim to be sent to the United Kingdom or elsewhere.
+
+(2) If such a man is released from permanent service and discharged in the United Kingdom, he shall be entitled to be conveyed free of charge from the place where he is discharged to the place stated on his attestation paper to be the place where he was attested or to any place in the United Kingdom at which he intends to reside.
+
+### Supplementary
+
+#### 19 Orders and regulations as to enlistment etc.
+
+(1) Orders or regulations under section 4 may make provision with respect to the enlistment and re-engagement of men in, and the discharge of men from, the reserve forces.
+
+(2) Such orders or regulations may, in particular, include provision—
+
+(a) specifying the duration of any term for which a person may enlist, whether by reference to a number of years or another criterion or a number of years and another criterion;
+
+(b) enabling a man enlisted for a term of service of a description specified in the order or regulations concerned to be treated as if he had enlisted for a term of service of a different description;
+
+(c) enabling a man to extend or reduce the term of his service; and
+
+(d) enabling service in the reserve forces, or service otherwise than for the purposes of training, to be restricted to service in the United Kingdom or in any area of the United Kingdom.
+
+(3) No order or regulations under section 4 may make provision such as is mentioned in subsection (1) which has the effect, in relation to any person who was a man of a reserve force immediately before the coming into force of the order or regulations concerned—
+
+(a) of imposing a new or greater obligation on him without his consent, or
+
+(b) of varying or revoking, without his consent, a right to which he is entitled, not being a right exercisable only with the consent of another person or an authority.
+
+(4) The term for which, or any limited area within which, a man of a reserve force is liable to serve may not, without his consent, be affected or extended by or in accordance with orders or regulations under section 4.
+
+#### 20 Command, posting etc. of men in permanent service.
+
+(1) Men of a reserve force who are in permanent service shall be placed under the command of such officers as the Defence Council or an authorised officer may direct and may be attached to any body or unit of Her Majesty’s armed forces.
+
+(2) Men of the reserve forces in permanent service may, without their consent—
+
+(a) in the case of the reserve naval and marine forces, be drafted or posted, appointed or transferred to any naval or marine body or unit;
+
+(b) in the case of the reserve land forces, be posted, appointed or transferred to any military body or unit (including, in the case of a man of the [[^F2]Army Reserve], transfer to any corps);
+
+(c) in the case of the reserve air forces, be posted, appointed or transferred to any air-force unit or body,
+
+by order of the Defence Council or an authorised officer.
+
+(3) A man of a reserve force who has been the subject of an order under subsection (2) is entitled, if he continues as a member of that force on being released from permanent service, to be returned with all convenient speed to the corps, unit or body in which he was serving immediately before he was accepted into permanent service.
+
+(4) In this section “authorised officer” means an officer authorised for the purposes of this section by or in accordance with directions of the Defence Council.
+
+#### 21 Service of marines in the Royal Fleet Reserve.
+
+Men of the Royal Fleet Reserve who were transferred to that force from the Royal Marines or are enlisted in that force as marines shall—
+
+(a) when in permanent service; or
+
+(b) when undergoing training or performing other duties,
+
+be liable to serve as marine warrant officers, non-commissioned officers and men and not as warrant officers, petty officers and ratings of the Royal Navy.
+
+## Part III — Training and other duties
+
+### Obligatory training
+
+#### 22 Training obligations of members of the reserve forces.
+
+(1) A member of a reserve force may, in accordance with orders or regulations under section 4, be required by virtue of this section, in any year, to train in the United Kingdom or elsewhere for—
+
+(a) one or more periods not exceeding 16 days in aggregate; and
+
+(b) such other periods as may be prescribed, none of which shall exceed 36 hours without the consent of the person concerned;
+
+and such a person may, while undergoing a period of training under this section, be attached to and trained with any body of Her Majesty’s forces.
+
+(2) Such orders or regulations may, in particular, prescribe different periods under subsection (1)(b) for different forces or parts of a force.
+
+(3) This section has effect subject to section 23.
+
+#### 23 Power to exempt persons from or relax training obligations.
+
+(1) Orders or regulations under section 4 may provide for securing that persons of such descriptions as may be prescribed shall be exempted from liability to be required to undergo training under section 22.
+
+(2) Such orders or regulations may also provide for relaxing, in such cases as may be prescribed, the liability to be required to undergo training under section 22.
+
+(3) Officers authorised for the purposes of this subsection by or in accordance with directions of the Defence Council may, in accordance with such orders or regulations—
+
+(a) exempt any unit or other group of members of a reserve force from liability to be required to undergo training under section 22; or
+
+(b) relax that liability in the case of the unit or group.
+
+(4) A commanding officer may, in accordance with orders or regulations under section 4—
+
+(a) exempt any member of a reserve force who is under his command from liability to be required to undergo training under section 22; or
+
+(b) relax that liability in the case of such a person.
+
+### Commitments to perform additional duties
+
+#### 24 Commitments to a period of [^F13]full-time service.
+
+(1) A member of a reserve force may enter into a commitment in writing under this section [^F14](a full-time service commitment) to undertake a period of [^F15]full-time service of such duration as may be specified in the commitment.
+
+[[^F16](1A) The period of service specified in a commitment under this section (whether originally, or by virtue of a variation under subsection (5)(a))—
+
+(a) may be a period of full-time service;
+
+(b) so far as orders or regulations under section 4 permit, may—
+
+(i) be a period of service on a part-time basis, or
+
+(ii) include one or more periods of service on a part-time basis as well as one or more periods of full-time service.
+
+(1B) Orders or regulations under section 4 may enable a commitment under this section to contemplate periods of special or extended leave.]
+
+(2) A person who has entered into such a commitment—
+
+(a) shall be in [^F17]full-time service from the time specified in the commitment as the beginning of the period of [^F17]full-time service to be undertaken by him until the time at which he is released from that service;
+
+[^F18]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(c) shall perform such duties while he is in [^F19]full-time service [[^F19]service under the commitment] as he may, in accordance with the terms of the commitment and any orders or regulations under section 4, be required to perform.
+
+(3) A [^F20]full-time service commitment [[^F20]commitment under this section]—
+
+(a) shall specify the duties to be performed by the person concerned (in general or specific terms) and the period for which he has undertaken to be in [^F21]full-time service [[^F21]service under the commitment];
+
+[[^F22](aa) must specify the place at which the person is to begin performing duties;]
+
+(b) may, to the extent permitted by orders or regulations under section 4, limit the area within which he may be required to perform duties; and
+
+(c) may contain such other terms relating to the duties to be performed by that person as are included in accordance with orders or regulations under section 4.
+
+(4) A person who is in [^F23]full-time service [[^F23]service under a commitment under this section] may be required—
+
+(a) to serve with any of the regular services for the purposes of performing duties in accordance with the commitment [^F24]concerned; and
+
+(b) subject to any limitation in the commitment, to perform such duties anywhere in the world.
+
+(5) A [^F25]full-time service commitment [[^F25]commitment under this section]—
+
+(a) may, with the consent of the member concerned, be varied in accordance with orders or regulations under section 4;
+
+(b) may be revoked before the beginning of the specified period of [^F26]full-time service by an authorised officer (whether at the request of the member concerned or otherwise) giving written notice to that effect to the member concerned; and
+
+(c) shall terminate on the release of the member concerned from [^F27]full-time service under the commitment.
+
+(6) A person in [^F28]full-time service [[^F28]service under a commitment under this section] shall, if not released from service sooner, be entitled to be released from service with all convenient speed in the prescribed manner at the end of the period of service specified in the commitment.
+
+(7) Where a person in [^F29]full-time service [[^F29]service under a commitment under this section] is accepted into permanent service under Part IV, V or VI—
+
+(a) his [^F30]full-time service [[^F30]service under the commitment] shall cease while he is in permanent service; but
+
+(b) if, on his release from permanent service, the period of [^F31]full-time service undertaken by him [[^F32]under the commitment] has not expired, he shall resume his [^F33]full-time service [[^F33]service under the commitment] for the remainder of that period.
+
+(8) A person in [^F34]full-time service [[^F34]service under a commitment under this section] shall not be liable to be required to undergo training under section 22.
+
+(9) The duties which a person in [^F35]full-time service [[^F35]service under a commitment under this section] may be required to perform may include undertaking training.
+
+(10) In this section—
+
+“authorised officer” means an officer authorised by or in accordance with directions of the Defence Council for the purposes of this section;
+
+[^F36]“[^F36]full-time service[^F36]” means service under a full-time service commitment.
+
+#### 25 Additional duties commitments.
+
+(1) A member of a reserve force may enter into a commitment in writing under this section (an additional duties commitment) to perform such duties, for such period or periods, as may be specified in the commitment.
+
+(2) A person who has entered into an additional duties commitment, in relation to each period of duty contemplated by the commitment—
+
+[^F37]a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) [[^F38]shall, from any time specified in the commitment as the time at which he is to begin that period of duty until released from duty,] perform such duties as he may, in accordance with the terms of the commitment and any orders or regulations under section 4, be required to perform;
+
+(c) shall, if not released from duty sooner, be entitled to be released from duty with all convenient speed in the prescribed manner at the end of that period.
+
+[[^F39](2A) Subject to any provision made by orders or regulations under section 4, an additional duties commitment may provide for duties for a period to be performed on any basis, including full-time or part-time.]
+
+(3) An additional duties commitment—
+
+(a) shall specify—
+
+(i) the duties to be performed by the person concerned (in general or specific terms);
+
+(ii) the period or periods for which he is to perform duties;
+
+(iii) the time and place at which he is to begin performing duties or, if there is to be more than one period of duty, the times and places at which he is to begin performing duties on each such occasion;
+
+(b) may include terms requiring that person—
+
+(i) to perform any duties outside the United Kingdom; or
+
+(ii) to serve with any of the regular services for the purposes of performing any duties; and
+
+(c) may contain such other terms relating to the duties to be performed by that person as are included in accordance with orders or regulations under section 4.
+
+(4) An additional duties commitment—
+
+(a) may, with the consent of the member concerned, be varied in accordance with orders or regulations under section 4;
+
+(b) may be revoked at any time by an authorised officer (whether at the request of the member concerned or otherwise) giving written notice to that effect to the member concerned; and
+
+(c) shall terminate (if not revoked sooner) on the release of the member concerned from the last period of duty contemplated by the commitment.
+
+(5) A person’s duties under an additional duties commitment are in addition to any other obligations of his as a member of a reserve force.
+
+(6) The duties specified in an additional duties commitment may include undertaking training.
+
+(7) In this section “authorised officer” means an officer authorised by or in accordance with directions of the Defence Council for the purposes of this section.
+
+#### 26 Parliamentary control of commitments.
+
+(1) Parliament may authorise for each of the reserve forces a maximum number of officers and a maximum number of men who may at any time be—
+
+[^F40]a [^F40]in full-time service under full-time service commitments; or
+
+[[^F40](a) in service under section 24 commitments; or]
+
+(b) subject to additional duties commitments which are in force.
+
+(2) Accordingly, the numbers of officers and men of a reserve force who are in [^F41]full-time service [[^F41]service under section 24 commitments], or subject to additional duties commitments which are in force, shall not exceed any numbers for the time being authorised by Parliament for that force.
+
+(3) Any members of a reserve force who are in [^F42]full-time service [[^F42]service under section 24 commitments] or who are subject to additional duties commitments shall not be reckoned in any numbers for the time being authorised by Parliament for any of the regular services.
+
+### Voluntary activities
+
+#### 27 Voluntary training and other duties.
+
+(1) Nothing in this Part prevents a member of a reserve force—
+
+(a) undertaking any voluntary training in the United Kingdom or elsewhere that is made available to him as a member of that force;
+
+(b) undertaking any voluntary training or performing other voluntary duties in the United Kingdom or elsewhere, being training or duties undertaken or performed at his own request or following a request made to him by or on behalf of his commanding officer.
+
+(2) Orders or regulations under section 4 may make provision as to the provision and use of training facilities for members of reserve forces and otherwise in connection with the undertaking of training or other duties as mentioned in subsection (1) of this section.
+
+[^F43]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Part IV — Special agreements for call out
+
+### Special agreements
+
+#### 28 Special agreements.
+
+(1) A member of a reserve force who has entered into a special agreement is liable, while the agreement is in force—
+
+(a) to be called out for permanent service anywhere in the world; and
+
+(b) to fulfil any training obligations specified in the agreement.
+
+(2) A person in qualifying employment shall, before entering into a special agreement, obtain the consent of his employer in such form as may be prescribed.
+
+(3) A special agreement—
+
+(a) shall specify a period not exceeding [[^F44]12 months] as the maximum period for which the person concerned may be required to serve on being accepted into service under this Part; and
+
+(b) may specify other terms relating to the obligations undertaken by the person entering into it.
+
+(4) A person who has entered into a special agreement—
+
+(a) shall fulfil any training obligations specified in the agreement;
+
+(b) if accepted into service under this Part, shall serve,
+
+in accordance with the terms of the agreement and (subject to those terms), on such other terms and conditions as may be prescribed and are applicable in his case.
+
+(5) The obligations undertaken by a person who has entered into a special agreement are in addition to any other obligations he may have as a member of a reserve force.
+
+#### 29 Employers’ consent before entering agreements.
+
+(1) Before entering into a special agreement, a person shall—
+
+(a) submit a declaration to an authorised person in the prescribed form stating whether he is in employment and, if so, giving the name of his employer and such other particulars as may be prescribed;
+
+(b) where the person concerned is in employment with an employer which is qualifying employment, produce to an authorised person a document recording the consent of that employer to his entering into the agreement.
+
+(2) Where an authorised person is satisfied at the time a person enters into a special agreement that—
+
+(a) he is not in qualifying employment; or
+
+(b) he is in qualifying employment and the employer has consented to his entering into the agreement,
+
+the validity of the agreement shall not be affected by any failure to comply with section 28(2); and a document purporting to be a certificate signed by the authorised person stating that he is satisfied of those matters shall be evidence of that fact.
+
+(3) Where a person has more than one qualifying employment, subsections (1) and (2) apply separately in relation to each employer of his.
+
+(4) In this section and section 30 “authorised person” means a person authorised by or in accordance with directions of the Defence Council for the purpose of exercising the functions concerned.
+
+#### 30 New employer’s consent to continuation of agreements.
+
+(1) Where a person who has entered into a special agreement begins a new qualifying employment he shall, within 7 days of beginning that employment, submit a declaration to an authorised person in the prescribed form stating that he has begun a new qualifying employment and giving the name of his employer and such other particulars as may be prescribed.
+
+(2) Subject to subsections (3) and (4), where a person has begun a new qualifying employment with an employer and submitted the declaration required by subsection (1), he is not liable to be called out under this Part or required to fulfil any training obligations specified in his special agreement unless and until—
+
+(a) the employer gives his written consent in the prescribed form to the continuation in force of the agreement; and
+
+(b) an authorised person certifies under subsection (5) that the employer has given that consent.
+
+(3) Subsection (2) does not apply if the declaration is submitted by a person who is in service under this Part.
+
+(4) If the declaration is submitted after the person concerned has been served with a call-out notice under section 32 but before the notice has ceased to have effect, the person concerned shall remain liable to be accepted into service until the notice ceases to have effect.
+
+(5) Where, after a declaration under subsection (1) has been submitted, an authorised person is satisfied that the person concerned has begun a new qualifying employment and that his employer has given the requisite consent, he shall certify that fact in the prescribed form.
+
+(6) For the purposes of subsection (2)(a), such a certificate shall be conclusive evidence that the employer has consented to the continuation in force of the special agreement in question.
+
+(7) For the purposes of this section a person begins a new qualifying employment when, at any time after entering into a special agreement—
+
+(a) he begins a qualifying employment with a person who was not already his employer; or
+
+(b) where the hours for which he is employed, by a person who has not previously been required to give consent under this section or section 29, change so as to cause his employment by that person to become qualifying employment.
+
+#### 31 Termination of agreements.
+
+(1) A special agreement shall terminate when, before the person concerned has been accepted into service under this Part, any of the following events occurs—
+
+(a) the expiry of the period of 12 months beginning with the day on which the agreement was entered into;
+
+(b) the expiry of such period as may be prescribed after the giving in the prescribed manner of notice to terminate the agreement by the person concerned;
+
+(c) the giving by the Secretary of State of a direction that the agreement be terminated;
+
+(d) the acceptance of the person into permanent service under Part VI;
+
+(e) the coming into force of another special agreement; and
+
+(f) any other event specified in the agreement as an event which terminates the agreement.
+
+(2) A direction under subsection (1)(c) may be given on the application of the person concerned or any employer of his or without any such application.
+
+(3) A special agreement shall terminate on the release of the person concerned from a period of service under this Part.
+
+(4) On the termination of a special agreement the obligations undertaken by the person concerned by entering the agreement shall cease and, accordingly, he may not be accepted into service under this Part.
+
+(5) Any reference in this Part to a person who has entered into a special agreement does not include a reference to any person whose agreement has terminated.
+
+### Call out for permanent service under Part IV
+
+#### 32 Call out of persons who have entered into special agreements.
+
+(1) The Secretary of State may, if he considers it appropriate to do so, call out for service any person who has entered into a special agreement by serving a notice on him requiring him—
+
+(a) to present himself for service at a specified time and place; and
+
+(b) to remain at that place until he is either accepted into service or informed that he is not to be accepted into service in pursuance of the notice.
+
+(2) A call-out notice shall also require the person concerned, if he fails to comply with the requirements mentioned in subsection (1)—
+
+(a) to present himself for service to any person specified in the notice or to any other authorised officer; and
+
+(b) having so presented himself, to remain until he is either accepted into service or informed that he is not to be accepted into service in pursuance of the notice.
+
+(3) A call-out notice shall specify—
+
+(a) the person to whom the notice applies and the special agreement concerned; and
+
+(b) the time and place at which he is to present himself for service;
+
+and it may also specify places and times at which and persons to whom the person may present himself for service if he fails to present himself at the time and place specified under paragraph (b) of this subsection.
+
+(4) A call-out notice shall (without affecting any liability arising from a failure to comply with the notice) cease to have effect, if not revoked sooner, when—
+
+(a) the special agreement specified in the notice terminates under section 31(1); or
+
+(b) the person concerned is either accepted into service or informed that he is not to be accepted into service in pursuance of the notice.
+
+(5) A call-out notice served on a person may—
+
+(a) be varied by the Secretary of State by serving a variation notice on him;
+
+(b) be revoked by the Secretary of State by serving a revocation notice or a subsequent call-out notice on him.
+
+(6) A notice under this section may be served on a person by delivering it to him or by leaving it at, or sending it by post to, his last known address; and any call-out or variation notice delivered to that address by registered post or recorded delivery shall be deemed to have been served on him.
+
+(7) No steps may be taken against a person in respect of failure to comply with a call-out notice under this section unless the notice or, as the case may be, any variation notice was received by him or is deemed to have been served on him by virtue of subsection (6).
+
+#### 33 Acceptance into service under Part IV.
+
+(1) A person served with a call-out notice who—
+
+(a) presents himself for service to an authorised officer at the time and place specified in the notice under section 32(3)(b);
+
+(b) presents himself for service to an authorised officer at any other time or place; or
+
+(c) is brought before an authorised officer after the time so specified,
+
+may be accepted into service by that officer.
+
+(2) Where such a person is accepted into service, he shall be informed by the authorised officer in the prescribed manner that he has been accepted into service by virtue of subsection (1).
+
+(3) If an authorised officer decides that such a person should not be accepted into service, he shall inform that person in the prescribed manner that he is not to be accepted into service in pursuance of the call-out notice concerned.
+
+(4) Any liability of such a person arising from a failure to comply with a call-out notice is not affected by his acceptance into service or by a decision not to accept him into service.
+
+(5) A person liable to be called out under this Part who—
+
+(a) is of a description for the time being specified in directions of the Secretary of State;
+
+(b) has not been served with a call-out notice; and
+
+(c) presents himself for service to an authorised officer,
+
+may be accepted into service by that officer.
+
+(6) Where a person is accepted into service by virtue of subsection (5)—
+
+(a) the authorised officer shall inform him in the prescribed manner that he has been accepted into service by virtue of that subsection; and
+
+(b) he shall be deemed to have been called out under this Part.
+
+#### 34 Release from service under Part IV.
+
+(1) A person who has been accepted into service under this Part shall remain in that service until released under subsection (2).
+
+(2) A person who is in service under this Part shall be released from that service with all convenient speed in such manner as may be prescribed when he is no longer required by Her Majesty to be in that service or (if not released sooner) when he is entitled to be released under subsection (3).
+
+(3) A person is entitled to be released from service under this Part—
+
+(a) at the end of the period specified under section 28(3)(a); or
+
+(b) when, on an application under section 78, it is determined that he is entitled to be released.
+
+(4) Orders or regulations under section 4 may make provision enabling or requiring a person who has been accepted into service under this Part to be treated—
+
+(a) if the circumstances of his call out or acceptance into service are of a prescribed description, and
+
+(b) for the purpose of calculating when he is entitled to be released by virtue of subsection (3)(a),
+
+as having been accepted into service on an earlier day than that on which he was actually accepted.
+
+(5) Provision made for the purposes of subsection (4) shall secure—
+
+(a) that any earlier day applicable for the purpose of calculating when a person is entitled to be released from service is to be notified to him as soon as is practicable after the day on which he was actually accepted into service; and
+
+(b) that the period beginning with the earlier day is reckoned as part of his relevant service for the purposes of sections 53(13), 55(13), 57(11) and 69(8).
+
+### Supplementary
+
+#### 35 Exercise of certain functions under section 32 or 33.
+
+(1) The Secretary of State may authorise—
+
+(a) the Defence Council;
+
+(b) any particular officers; or
+
+(c) any officers of a description specified in the authorisation,
+
+to exercise any function of his under section [[^F45]31,] 32 or 33, subject to such limitations and conditions as may be so specified.
+
+(2) An authorisation under subsection (1) relating to the exercise of any function of the Secretary of State by the Defence Council shall (unless the authorisation provides otherwise) be deemed to permit the Defence Council to authorise—
+
+(a) any particular officers; or
+
+(b) any officers of a description determined by the Defence Council,
+
+to exercise the function, subject to such limitations and conditions as may be so specified.
+
+(3) Arrangements made under subsection (1) or (2) for the discharge of any function shall not prevent the exercise of the function by the Secretary of State or (in the case of arrangements under subsection (2)) the Defence Council.
+
+#### 36 Parliamentary control of numbers and reports.
+
+(1) The number of persons in a reserve force who are liable to be called out under this Part shall not exceed the number for that force for the time being authorised by Parliament.
+
+(2) Any persons who are in service under this Part shall not be reckoned in any numbers for the time being authorised by Parliament for any of the regular services.
+
+(3) The Secretary of State shall from time to time lay before each House of Parliament a report with respect to the exercise of his powers to call out persons under this Part.
+
+(4) Any such report may be made either with respect to any use made, or with respect to any use proposed to be made, of those powers.
+
+#### 37 Interpretation of Part IV.
+
+(1) In this Part—
+
+“authorised officer” means an officer authorised by or in accordance with directions of the Defence Council for the purposes of this Part;
+
+“call-out notice” means a notice under section 32(1);
+
+“service under this Part” and “service” mean permanent service on being called out under this Part;
+
+“qualifying employment” means employment under a contract of service which normally involves employment for 14 hours or more weekly (and “new qualifying employment” shall be construed in accordance with section 30(7)); and
+
+“special agreement” means a written agreement by which a person accepts the obligations mentioned in section 28(1).
+
+(2) This Part shall have effect in relation to any member of a reserve force who is a Crown servant as if he were employed under a contract of service with such person as may be specified in directions of the Secretary of State as his employer for the purposes of this Part.
+
+(3) The Secretary of State may by regulations make provision as to when a contract of service is to be treated for the purposes of this Part as normally involving or not involving employment for 14 hours or more weekly.
+
+(4) Regulations under subsection (3) shall be made by statutory instrument which shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(5) The Secretary of State may by order amend the definition of “qualifying employment” and subsection (3) so as to substitute, for the number of hours for the time being specified, such number (not being more than 14) as is specified in the order.
+
+(6) An order under subsection (5) shall be made by statutory instrument; but no such instrument shall be made unless a draft of it has been laid before, and approved by a resolution of, each House of Parliament.
+
+## Part V — Employee Agreements
+
+### Preliminary
+
+#### 38 Purpose of Part V.
+
+(1) This Part enables employees, in pursuance of arrangements between their employers and the Secretary of State, to enter into employee agreements and become special members of a reserve force.
+
+(2) In this Part, references to an employee agreement are references to a written agreement by which a person agrees to accept the liability mentioned in section 40(1) by becoming a special member of a reserve force specified in the agreement.
+
+(3) Orders or regulations under section 4 may make provision—
+
+(a) enabling a person to enlist in, or become an officer of, a reserve force for the purpose only of becoming a special member;
+
+(b) as to any terms and conditions applicable to such a person, and for applying or disapplying any provisions of this Act, while such a person is a member of the force for that purpose;
+
+(c) enabling the making of requests by a special member (whether before or after ceasing to be subject to the liability mentioned in section 40(1)) for permission to continue as a member of his force on ceasing to be a special member;
+
+(d) as to any terms and conditions applicable to a special member who has ceased to be subject to the liability mentioned in section 40(1);
+
+(e) as to the terms and conditions on which persons resume or begin service as ordinary members of a reserve force by virtue of section 42.
+
+(4) Before orders or regulations under section 4 are made as to the terms and conditions of service of special members of a reserve force, the Secretary of State or, in the case of regulations, the Defence Council shall consult—
+
+(a) one or more bodies appearing to that authority to represent the interests of employers concerned with the supply of goods or services to the armed forces;
+
+(b) one or more bodies or persons appearing to that authority to represent the interests of employees of such employers; and
+
+(c) one or more bodies or persons appearing to that authority to represent the interests of self-employed persons concerned with the supply of goods or services to the armed forces.
+
+#### 39 Employee agreements.
+
+(1) An employee agreement may be entered into by any employee in pursuance of arrangements made between his employer and the Secretary of State.
+
+(2) An employee of an employer who has made any such arrangements shall, before entering into an employee agreement, obtain the written consent of that employer in such form as may be prescribed.
+
+(3) Where an authorised person is satisfied at the time a person enters into an employee agreement that his employer has consented to his entering into the agreement, the validity of the agreement shall not be affected by any failure to comply with subsection (2); and a document purporting to be a certificate signed by the authorised person stating that he is so satisfied shall be evidence of that fact.
+
+(4) In subsection (3) “authorised person” means a person authorised by or in accordance with directions of the Defence Council for the purpose of exercising the functions mentioned in that subsection.
+
+(5) An employee agreement shall, if the person concerned is not a member of the force when he enters into the agreement, specify the date by which he must enlist in, or become an officer of, the reserve force specified in the agreement.
+
+(6) An employee agreement may specify—
+
+(a) a maximum period for which the liability of the special member under section 40 is to subsist;
+
+(b) events which will terminate his liability to be called out, and to fulfil training obligations, under the agreement; and
+
+(c) other terms relating to the obligations undertaken by the person concerned or his service as a special member.
+
+(7) On entering into an employee agreement a person who is already a member of the reserve force concerned shall become a special member of that force.
+
+(8) Where a person entering into an employee agreement is not already a member of the reserve force concerned—
+
+(a) he shall become a special member of the force concerned on enlisting in or becoming an officer of that force; but
+
+(b) the agreement shall lapse if he has not enlisted in or become an officer of that force on or before the date specified in the agreement.
+
+(9) An employee agreement entered into by any person shall terminate—
+
+(a) on his entering into another employee agreement;
+
+(b) on his ceasing to be a member of the reserve force concerned; or
+
+(c) on his resuming service as, or becoming, an ordinary member of that force in accordance with section 42.
+
+### Liabilities of special members
+
+#### 40 Liability of special members to be called out or to train.
+
+(1) A special member of a reserve force is liable (until the liability ceases by virtue of section 41)—
+
+(a) to be called out for permanent service under this Part; and
+
+(b) to fulfil any training obligations which are specified in the agreement concerned or are prescribed for special members of the force and applicable in his case.
+
+(2) A special member of a reserve force shall, subject to the terms of the agreement and the provisions of this Act, serve as a member of that force when he is not in permanent service, and when he is in permanent service, on any prescribed terms and conditions which are applicable in his case.
+
+(3) Subject to any limitation in the agreement and any prescribed terms and conditions applicable in his case, a special member is liable to serve on being accepted into permanent service, and to be required to train, anywhere in the world.
+
+(4) A period of service as a special member shall count towards any period for which a person may be required to serve on transfer to a reserve force from any of the regular services.
+
+(5) Sections 16 and 22 and Parts IV and VI shall not apply to members of a reserve force while they are special members.
+
+#### 41 Cessation of liabilities.
+
+(1) The liability of a special member under section 40(1) to be called out, and to fulfil training obligations, shall cease when any of the following events occurs—
+
+(a) the expiry of any period specified in his employee agreement as the maximum duration of that liability;
+
+(b) the termination of his employment with the employer whose consent was required to his entry into the employee agreement;
+
+(c) the expiry of a notice given by him—
+
+(i) to the Secretary of State; or
+
+(ii) to any other person specified by his agreement or prescribed for the purpose of receiving such notices;
+
+(d) the expiry of a notice given by the Secretary of State to him; and
+
+(e) any other event specified in his agreement or prescribed as an event leading to the cessation of that liability;
+
+but that liability shall not cease by virtue of paragraph (c) while the operation of that paragraph in relation to him is suspended by an order made under subsection (6).
+
+(2) A notice under paragraph (c) or (d) of subsection (1) shall expire at the end of such period not exceeding three months—
+
+(a) as is specified in the employee agreement for the purpose of that paragraph, or
+
+(b) if no such period is specified, as is prescribed for that purpose.
+
+(3) Subsection (1) shall not apply to a special member who is in permanent service when an event mentioned in paragraph (a), (b), (d) or (e) of that subsection occurs until he is released from that service under section 45.
+
+(4) A notice under subsection (1)(c) may not be given by a person who is in permanent service; and any such notice which a person has [^F46]. . . given shall cease to have effect if he is accepted into permanent service before it has expired.
+
+(5) The Secretary of State shall give a notice under subsection (1)(d) if it appears to him that his arrangements with the special member’s employer have ceased to have effect.
+
+(6) Where a call-out order under section 52 or 54 is in force, the Secretary of State may by order suspend the operation of paragraph (c) of subsection (1) of this section in relation to persons of a description specified in the order; and while an order under this subsection is in force—
+
+(a) no notices under that paragraph may be given by the persons so specified; and
+
+(b) any notice which was given by a person so specified before the order was made shall cease to have effect.
+
+(7) An order under subsection (6) shall expire at the end of such period not exceeding six months as is specified in the order, without prejudice to the power of the Secretary of State to make more than one such order in relation to persons of the same description.
+
+#### 42 Discharge etc. of special members.
+
+(1) This section applies when a man of a reserve force who is a special member (the man) ceases by virtue of section 41 to be subject to the liability mentioned in section 40(1).
+
+(2) The man shall be discharged with all convenient speed in such manner as may be prescribed unless he enters into a new employee agreement or continues as an ordinary member in accordance with subsection (3) or (4).
+
+(3) If the man—
+
+(a) was an ordinary member of the reserve force concerned immediately before becoming a special member; and
+
+(b) was then serving for a term which has not expired,
+
+he shall resume his service as an ordinary member (and so cease to be a special member) in accordance with orders or regulations under section 4.
+
+(4) If the man has been given permission by an authorised officer to continue as a member on ceasing to be a special member he shall, unless he resumes service under subsection (3), become an ordinary member (and so cease to be a special member) in accordance with orders or regulations under section 4.
+
+(5) Nothing in this section affects the exercise of any power apart from this section to discharge a man of a reserve force or the operation of section 13(4) in relation to a man who is discharged.
+
+### Call out for permanent service under Part V
+
+#### 43 Call out of special members.
+
+(1) The Secretary of State may call out for service any special member of a reserve force if he considers that it is appropriate, in the light of operational requirements and the arrangements he has made with the employer of that person, for that person to continue to undertake work of direct or indirect benefit to the armed forces.
+
+(2) The Secretary of State may call out a special member by serving a notice on that person requiring him—
+
+(a) to present himself for service at a specified time and place; and
+
+(b) to remain at that place until he is either accepted into service or informed that he is not to be accepted into service in pursuance of the notice.
+
+(3) A call-out notice shall also require the person concerned, if he fails to comply with the requirements mentioned in subsection (2)—
+
+(a) to present himself for service to any person specified in the notice or to any authorised officer; and
+
+(b) having so presented himself, to remain until either accepted into service or informed that he is not to be accepted into service in pursuance of the notice.
+
+(4) A call-out notice shall specify—
+
+(a) the person to whom it applies and the agreement by virtue of which he is a special member; and
+
+(b) the time and place at which he is to present himself for service;
+
+and it may also specify places and times at which and persons to whom the person may present himself for service if he fails to present himself at the time and place specified under paragraph (b) of this subsection.
+
+(5) A call-out notice shall (without affecting any liability arising from a failure to comply with the notice) cease to have effect, if not revoked sooner, when the special member concerned—
+
+(a) ceases to be liable to be called out for service by virtue of section 41; or
+
+(b) is either accepted into service or informed that he is not to be accepted into service in pursuance of the notice.
+
+(6) A call-out notice served on a special member may—
+
+(a) be varied by the Secretary of State by serving a variation notice on him;
+
+(b) be revoked by the Secretary of State by serving a revocation notice or a subsequent call-out notice on him.
+
+(7) A notice under this section may be served on a person by delivering it to him or by leaving it at, or sending it by post to, his last known address; and any call-out or variation notice delivered to that address by registered post or recorded delivery shall be deemed to have been served on him.
+
+(8) No steps may be taken against a person in respect of failure to comply with a call-out notice under this section unless the notice or, as the case may be, any variation notice was received by him or is deemed to have been served on him by virtue of subsection (7).
+
+(9) In this section and section 44 “service” means permanent service.
+
+#### 44 Acceptance into service of special members.
+
+(1) A special member served with a call-out notice who—
+
+(a) presents himself for service to an authorised officer at the time and place specified in the notice under section 43(4)(b);
+
+(b) presents himself for service to an authorised officer at any other time or place; or
+
+(c) is brought before an authorised officer after the time so specified,
+
+may be accepted into service by that officer.
+
+(2) Where such a person is accepted into service, he shall be informed by the authorised officer in the prescribed manner that he has been accepted into service by virtue of subsection (1).
+
+(3) If an authorised officer decides that such a person should not be accepted into service, he shall inform that person in the prescribed manner that he is not to be accepted into service in pursuance of the call-out notice concerned.
+
+(4) Any liability of such a person arising from a failure to comply with a call-out notice is not affected by his acceptance into service or by a decision not to accept him into service.
+
+(5) A special member liable to be called out under this Part who—
+
+(a) is of a description for the time being specified in directions of the Secretary of State;
+
+(b) has not been served with a call-out notice; and
+
+(c) presents himself for service to an authorised officer,
+
+may be accepted into service by that officer.
+
+(6) Where a person is accepted into service by virtue of subsection (5)—
+
+(a) the authorised officer shall inform him in the prescribed manner that he has been accepted into service by virtue of that subsection; and
+
+(b) he shall be deemed to have been called out under this Part.
+
+#### 45 Release from service of special members.
+
+(1) A special member who has been accepted into permanent service shall remain in that service until released under subsection (2).
+
+(2) A special member who is in permanent service shall be released from that service with all convenient speed in such manner as may be prescribed when he is no longer required by Her Majesty to be in that service or (if not released sooner) when he is entitled to be released under subsection (3).
+
+(3) A special member is entitled to be released from permanent service—
+
+(a) subject to paragraph (b), at the expiry of the period of 9 months beginning with the day on which he was accepted into service or of such shorter period as may be specified in the agreement concerned;
+
+(b) if he extends (or further extends) his service under subsection (6), at the expiry of the period for which his service is extended;
+
+(c) when, on an application under section 78, it is determined that he is entitled to be released.
+
+(4) Orders or regulations under section 4 may make provision enabling or requiring a special member who has been accepted into permanent service to be treated—
+
+(a) if the circumstances of his call out or acceptance into service are of a prescribed description, and
+
+(b) for the purpose of calculating when he is entitled to be released by virtue of subsection (3)(a),
+
+as having been accepted into service on an earlier day than that on which he was actually accepted.
+
+(5) Provision made for the purposes of subsection (4) shall secure—
+
+(a) that any earlier day applicable for the purpose of calculating when a person is entitled to be released from service is to be notified to him as soon as is practicable after the day on which he was actually accepted into service; and
+
+(b) that the period beginning with the earlier day is reckoned as part of his relevant service for the purposes of sections 53(13), 55(13), 57(11) and 69(8).
+
+(6) A special member who is in permanent service may, with the written consent of the employer whose consent was required for his entering into the agreement in such form as may be prescribed, extend his period of service beyond the day on which he would (apart from that extension) be entitled to be released.
+
+### Supplementary
+
+#### 46 Exercise of certain functions under section 43 or 44.
+
+(1) The Secretary of State may authorise—
+
+(a) the Defence Council;
+
+(b) any particular officers; or
+
+(c) any officers of a description specified in the authorisation,
+
+to exercise any function of his under section 43 or 44, subject to such limitations and conditions as may be so specified.
+
+(2) An authorisation under subsection (1) relating to the exercise of any function of the Secretary of State by the Defence Council shall (unless the authorisation provides otherwise) be deemed to permit the Defence Council to authorise—
+
+(a) any particular officers; or
+
+(b) any officers of a description determined by the Defence Council,
+
+to exercise the function, subject to such limitations and conditions as may be so specified.
+
+(3) Arrangements made under subsection (1) or (2) for the discharge of any function shall not prevent the exercise of the function by the Secretary of State or (in the case of arrangements under subsection (2)) the Defence Council.
+
+#### 47 Parliamentary control of numbers and reports.
+
+(1) The number of special members of a reserve force shall not exceed the number for that force for the time being authorised by Parliament.
+
+(2) Any special members of a reserve force who are in permanent service shall not be reckoned in any numbers for the time being authorised by Parliament for any of the regular services.
+
+(3) The Secretary of State shall from time to time lay before each House of Parliament a report with respect to the exercise of his powers to call out persons under this Part.
+
+(4) Any such report may be made either with respect to any use made, or with respect to any use proposed to be made, of those powers.
+
+#### 48 Application of Part V to Crown servants, employees of sub-contractors and self-employed persons.
+
+(1) This Part shall have effect in relation to any Crown servant as if he were employed under a contract of service with such person as may be specified in directions made by the Secretary of State as his employer for the purposes of this Part.
+
+(2) In this Part—
+
+(a) references to arrangements between an employer and the Secretary of State include references to arrangements between another person and the Secretary of State in pursuance of which the employer supplies, or is to supply, goods or services to or for the benefit of the armed forces; and
+
+(b) references to an employer who has made arrangements with the Secretary of State include references to an employer who supplies, or is to supply, goods or services to or for the benefit of the armed forces in pursuance of arrangements made by another person and the Secretary of State.
+
+(3) This Part shall have effect in relation to any person who is self-employed as if—
+
+(a) references to an employee were references to a self-employed person;
+
+(b) references to arrangements between an employer and the Secretary of State were references to arrangements—
+
+(i) between the self-employed person and the Secretary of State; or
+
+(ii) between another person and the Secretary of State in pursuance of which the self-employed person concerned supplies, or is to supply, goods or services to or for the benefit of the armed forces;
+
+(c) any requirement for the written consent of an employer were omitted;
+
+(d) section 41(1)(b) were omitted.
+
+#### 49 Interpretation of Part V.
+
+In this Part—
+
+“authorised officer” means an officer authorised by or in accordance with directions of the Defence Council for the purposes of this Part;
+
+“call-out notice” means a notice under section 43;
+
+“employee agreement” has the meaning given in section 38;
+
+“ordinary member” means a member of a reserve force who—
+
+- (i) is not a special member of that force; and
+- (ii) is not a member of that force for the purpose only of becoming a special member.
+
+## Part VI — Call out for permanent service
+
+### General liability to be called out for permanent service
+
+#### 50 Liability of members of reserve forces under call-out orders.
+
+(1) Members of a reserve force are liable to be called out under this Part for permanent service when any call-out order authorising the calling out of those members is in force.
+
+(2) A call-out order authorises, subject to subsection (3), the calling out under this Part—
+
+(a) of any members of a reserve force; or
+
+(b) if the order is so limited, of any members of a reserve force of a description specified in the order;
+
+and for the purposes of paragraph (b) a group of members of a force may be described by reference to the unit or body of the force to which they belong or any other criterion.
+
+(3) A call-out order does not authorise the calling out under this Part of any person who is not liable to be called out under the order by virtue of regulations under section 62 or an exemption granted on an application under regulations under section 78.
+
+(4) A person who is in service under a call-out order shall serve until released from that service under section 60.
+
+(5) A person who is released from a period of service under a call-out order is, subject to the provisions of this Act, liable to be called out again on the authority of the same or any other call-out order.
+
+(6) The number of persons who are in service under a call-out order shall not be reckoned in any numbers for the time being authorised by Parliament for any of the regular services.
+
+#### 51 Geographical extent of liability to service on call out.
+
+(1) A person who is called out under this Part for service under a call-out order is liable to serve anywhere in the world unless the terms of service applicable in his case restrict his liability on being so called out to service within the United Kingdom or any area of the United Kingdom.
+
+(2) A person whose liability for service is restricted as mentioned in subsection (1) may elect irrevocably in such manner as may be prescribed to be liable for worldwide service—
+
+(a) whenever he is called out for service under this Part;
+
+(b) whenever he is called out for service on the authority of a call-out order under any provision of this Part specified in the election; or
+
+(c) during any period of service (including a current period of service) under a call-out order specified in the election.
+
+(3) The terms of service of a person who makes an election under subsection (2) are modified to the extent required by the election.
+
+(4) In this section “the United Kingdom” includes the Channel Islands and the Isle of Man.
+
+### Powers to authorise call out
+
+#### 52 Call out for national danger, great emergency or attack on the UK.
+
+(1) Her Majesty may make an order authorising the call out under this Part of members of a reserve force—
+
+(a) if it appears to Her that national danger is imminent or that a great emergency has arisen; or
+
+(b) in the event of an actual or apprehended attack on the United Kingdom.
+
+(2) A call-out order under this section shall have effect (subject to any order under subsection (3)) until it is revoked.
+
+(3) Her Majesty may make an order providing that a call-out order under this section shall cease to authorise the call out of any person who is not in service under the order.
+
+(4) An order under subsection (3) shall not affect the operation of any call-out notice which is served on any person before the day on which the order under that subsection is made.
+
+(5) Her Majesty may make an order revoking a call-out order under this section (whether or not its effect has been restricted by an order under subsection (3)).
+
+(6) Where an order under subsection (5) revoking a call-out order is made—
+
+(a) the call-out order shall cease to authorise the calling out of anyone who could otherwise be called out on the authority of that order (including anyone served with a call-out notice before the order under subsection (5) is made who has not been accepted into service); and
+
+(b) any person in service under the call-out order shall be entitled to be released.
+
+(7) A call-out order under this section, and any order under subsection (3) or (5), shall be signified under the hand of the Secretary of State; and the making of such an order shall be reported forthwith to each House of Parliament.
+
+(8) If, when a call-out order under this section is made, Parliament is separated by an adjournment or prorogation which will not expire within 5 days—
+
+(a) a proclamation shall be issued for the meeting of Parliament within 5 days; and
+
+(b) Parliament shall meet and sit upon the day appointed by the proclamation and shall continue to sit and act as if it had stood adjourned or prorogued to that day.
+
+(9) In this section “the United Kingdom” includes the Channel Islands and the Isle of Man.
+
+#### 53 Maximum duration of service on call out under section 52.
+
+(1) This section applies for the purpose of determining when members of a reserve force (“the force”) who are in service under a call-out order made under section 52 (“the order”) are, if not released sooner, entitled to be released from that service.
+
+(2) A man is entitled to be released on the expiry of his current term as a member of the force.
+
+(3) The Defence Council or any authorised officer may, before a man who is in service under the order becomes entitled to be released by virtue of this section, postpone his entitlement to be released by virtue of subsection (2).
+
+(4) A man’s entitlement to be released by virtue of subsection (2) may be postponed under subsection (3) more than once, but may not be postponed beyond the end of the period of 12 months beginning with the day on which (disregarding any postponement) that entitlement arises.
+
+(5) A postponement of a man’s entitlement to be released by virtue of subsection (2) shall not prevent him becoming entitled to be released by virtue of subsection (6) or, as the case may be, subsection (10).
+
+(6) Any member of the force is entitled to be released when his current service under the order, or his current service under the order and any relevant service in aggregate, exceeds 3 years.
+
+(7) A person may enter into a written agreement consenting to the extension of his period of service under the order beyond—
+
+(a) the day on which he is entitled to be released by virtue of subsection (6), or
+
+(b) the day on which, by virtue of a subsisting agreement under this subsection, he is entitled to be released by virtue of subsection (10),
+
+until the end of such period beginning with that day, not exceeding 12 months, as may be specified in the agreement.
+
+(8) An agreement under subsection (7) may not be entered into at any time—
+
+(a) when the person concerned is not in service under the order; [[^F47]or]
+
+[^F48]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(c) more than 12 months before the day on which (disregarding the agreement) he is entitled to be released by virtue of subsection (6) or, as the case may be, subsection (10).
+
+(9) An extension by an agreement under subsection (7) shall prevent the person concerned becoming entitled to be released on the day on which, apart from the agreement, he would be entitled to be released under subsection (6) or, as the case may be, subsection (10); but such an agreement shall not prevent a man becoming entitled to be released by virtue of subsection (2).
+
+(10) A person who has entered into an agreement under subsection (7) is entitled to be released at the end of the period specified in the agreement as the period for which his permanent service is being extended.
+
+(11) Her Majesty may by order signified under the hand of the Secretary of State provide that, in the case of such descriptions of person as may be specified in the order, subsection (6) shall apply as if for the words “3 years” there were substituted “ 5 years ”.
+
+(12) The making of an order under subsection (11) shall be reported forthwith to each House of Parliament.
+
+(13) In this section “relevant service”, in relation to a person in service under the order, means any permanent service under this Part, or Part IV, V or VII, in the 6 years immediately preceding the first day of his current service under the order.
+
+#### 53A [[^F49]Agreement to alter limits in section 53
+
+(1) This section applies to a person if—
+
+(a) he is not in service under a call-out order under section 52; and
+
+(b) if accepted into service under such a call-out order, he would be immediately entitled to release under section 53(6) or (10).
+
+(2) The person may agree in writing that, if he is accepted into service under a call-out order under section 52, in calculating when he is entitled to be released by virtue of section 53(6) or (10) any service of his under this Part or Part 4, 5 or 7 that occurred before he entered into the agreement is to be treated as not having occurred.
+
+(3) An agreement under subsection (2) may also provide that, if the person is accepted into service under a call-out order under section 52, section 53 shall apply in his case as if for the period of 3 years specified in subsection (6) there were substituted a shorter period specified in the agreement.
+
+(4) If an order under section 53(11) applies in relation to the person, subsection (3) above has effect as if the reference to the period of 3 years were to the period of 5 years.]
+
+#### 54 Call out for warlike operations.
+
+(1) The Secretary of State may make an order [[^F50]under this section] authorising the calling out of members of a reserve force if it appears to him that warlike operations are in preparation or progress.
+
+(2) A call-out order under this section—
+
+(a) shall specify a date, not more than 12 months from the day on which the order is made, on which the order is (unless an order under subsection (3) is made) to cease to authorise the call out of any person who is not in service under the order; and
+
+(b) shall have effect (subject to paragraph (a) or to any order under subsection (3)) until it is revoked.
+
+(3) The Secretary of State may, before the date specified in the call-out order under subsection (2)(a), make an order providing that a call-out order under this section shall cease to authorise the call out of any person who is not in service under the order.
+
+(4) The restriction of the effect of a call-out order under this section—
+
+(a) by an order under subsection (3), or
+
+(b) by subsection (2)(a),
+
+shall not affect the operation of any call-out notice served on any person before the day on which the order under subsection (3) is made or, as the case may be, the day specified in the call-out order.
+
+(5) The Secretary of State may make an order revoking a call-out order under this section (whether or not its effect has been restricted as mentioned in subsection (4)).
+
+(6) Where an order under subsection (5) revoking a call-out order is made—
+
+(a) the call-out order shall cease to authorise the calling out of anyone who could otherwise be called out on the authority of that order (including anyone served with a call-out notice before the order under subsection (5) is made who has not been accepted into service); and
+
+(b) any person in service under the call-out order shall be entitled to be released.
+
+(7) The making of any call-out order under this section, or any order under subsection (3) or (5), shall be reported forthwith to each House of Parliament.
+
+#### 55 Maximum duration of service on call out under section 54.
+
+(1) This section applies for the purpose of determining when members of a reserve force (“the force”) who are in service under a call-out order made under section 54 (“the order”) are, if not released sooner, entitled to be released from that service.
+
+(2) A man is entitled to be released on the expiry of his current term as a member of the force.
+
+(3) The Defence Council or any authorised officer may, before a man who is in service under the order becomes entitled to be released by virtue of this section, postpone his entitlement to be released by virtue of subsection (2).
+
+(4) A man’s entitlement to be released by virtue of subsection (2) may be postponed under subsection (3) more than once, but may not be postponed beyond the end of the period of 12 months beginning with the day on which (disregarding any postponement) that entitlement arises.
+
+(5) A postponement of a man’s entitlement to be released by virtue of subsection (2) shall not prevent him becoming entitled to be released by virtue of subsection (6) or, as the case may be, subsection (10).
+
+(6) Any member of the force is entitled to be released when his current service under the order, or his current service under the order and any relevant service in aggregate, exceeds 12 months.
+
+(7) A person may enter into a written agreement consenting to the extension of his period of service under the order beyond—
+
+(a) the day on which he is entitled to be released by virtue of subsection (6), or
+
+(b) the day on which, by virtue of a subsisting agreement under this subsection, he is entitled to be released by virtue of subsection (10),
+
+until the end of such period beginning with that day, not exceeding 6 months, as may be specified in the agreement.
+
+(8) An agreement under subsection (7) may not be entered into at any time—
+
+(a) when the person concerned is not in permanent service under the order; [[^F51]or]
+
+[^F52]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(c) more than 6 months before the day on which (disregarding the agreement) he is entitled to be released by virtue of subsection (6) or, as the case may be, subsection (10).
+
+(9) An extension by an agreement under subsection (7) shall prevent the person concerned becoming entitled to be released on the day on which, apart from the agreement, he would be entitled to be released under subsection (6) or, as the case may be, subsection (10); but such an agreement shall not prevent a man becoming entitled to be released by virtue of subsection (2).
+
+(10) A person who has entered into an agreement under subsection (7) is entitled to be released at the end of the period specified in the agreement as the period for which his permanent service is being extended.
+
+(11) Her Majesty may by order signified under the hand of the Secretary of State provide that, in the case of such descriptions of person as may be specified in the order, subsection (6) shall apply as if for the words “12 months” there were substituted “ 2 years ”.
+
+(12) The making of an order under subsection (11) shall be reported forthwith to each House of Parliament.
+
+(13) In this section “relevant service”, in relation to a person in service under the order, means any permanent service under this Part, or Part IV, V or VII, in the 3 years immediately preceding the first day of his current service under the order.
+
+#### 55A [[^F53]Agreement to alter limits in section 55
+
+(1) This section applies to a person if—
+
+(a) he is not in service under a call-out order under section 54; and
+
+(b) if accepted into service under such a call-out order, he would be immediately entitled to release under section 55(6) or (10).
+
+(2) The person may agree in writing that, if he is accepted into service under a call-out order under section 54, in calculating when he is entitled to be released by virtue of section 55(6) or (10) any service of his under this Part or Part 4, 5 or 7 that occurred before he entered into the agreement is to be treated as not having occurred.
+
+(3) An agreement under subsection (2) may also provide that, if the person is accepted into service under a call-out order under section 54, section 55 shall apply in his case as if for the period of 12 months specified in subsection (6) there were substituted a shorter period specified in the agreement.
+
+(4) If an order under section 55(11) applies in relation to the person, subsection (3) above has effect as if the reference to the period of 12 months were to the period of 2 years.]
+
+#### 56 Call out for certain [[^F54]purposes].
+
+[[^F55](1B) The Secretary of State may make an order under this section authorising the calling out of members of a reserve force if it appears to the Secretary of State that it is necessary or desirable to use members of a reserve force for any purpose for which members of the regular services may be used.]
+
+(2) A call-out order under this section—
+
+(a) shall specify a date, not more than 12 months from the day on which the order is made, on which the order is (unless an order under subsection (3) is made) to cease to authorise the call out of any person who is not in service under the order; and
+
+(b) shall have effect (subject to paragraph (a) or to any order under subsection (3)) until it is revoked.
+
+(3) The Secretary of State may, before the date specified in the call-out order under subsection (2)(a), make an order providing that a call-out order under this section shall cease to authorise the call out of any person who is not in service under the order.
+
+(4) The restriction of the effect of a call-out order under this section—
+
+(a) by an order under subsection (3), or
+
+(b) by subsection (2)(a),
+
+shall not affect the operation of any call-out notice served on any person before the day on which the order under subsection (3) is made or, as the case may be, the day specified in the call-out order.
+
+(5) The Secretary of State may make an order revoking a call-out order under this section (whether or not its effect has been restricted as mentioned in subsection (4)).
+
+(6) Where an order under subsection (5) revoking a call-out order is made—
+
+(a) the call-out order shall cease to authorise the calling out of anyone who could otherwise be called out on the authority of that order (including anyone served with a call-out notice before the order under subsection (5) is made who has not been accepted into service); and
+
+(b) any person in service under the call-out order shall be entitled to be released.
+
+(7) The making of any call-out order under this section, or any order under subsection (3) or (5), shall be reported forthwith to each House of Parliament.
+
+#### 57 Maximum duration of service on call out under section 56.
+
+(1) This section applies for the purpose of determining when members of a reserve force (“the force”) who are in service under a call-out order made under section 56 (“the order”) are, if not released sooner, entitled to be released from that service.
+
+(2) A man is entitled to be released on the expiry of his current term as a member of the force.
+
+(3) The Defence Council or any authorised officer may, before a man who is in service under the order becomes entitled to be released by virtue of this section, postpone his entitlement to be released by virtue of subsection (2).
+
+(4) A man’s entitlement to be released by virtue of subsection (2) may be postponed under subsection (3) more than once, but may not be postponed beyond the end of the period of [[^F56]12 months] beginning with the day on which (disregarding any postponement) that entitlement arises.
+
+(5) A postponement of a man’s entitlement to be released by virtue of subsection (2) shall not prevent him becoming entitled to be released by virtue of subsection (6) or, as the case may be, subsection (10).
+
+(6) Any member of the force is entitled to be released when his current service under the order, or his current service under the order and any relevant service in aggregate, exceeds [[^F57]12 months].
+
+(7) A person may enter into a written agreement consenting to the extension of his period of service under the order beyond—
+
+(a) the day on which he is entitled to be released by virtue of subsection (6), or
+
+(b) the day on which, by virtue of a subsisting agreement under this subsection, he is entitled to be released by virtue of subsection (10),
+
+until the end of such period, not exceeding 6 months, as may be specified in the agreement.
+
+(8) An agreement under subsection (7) may not be entered into at any time—
+
+(a) when the person concerned is not in service under the order; [[^F58]or]
+
+[^F59]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(c) more than [[^F60]6 months] before the day on which (disregarding the agreement) he is entitled to be released by virtue of subsection (6) or, as the case may be, subsection (10).
+
+(9) An extension by an agreement under subsection (7) shall prevent the person concerned becoming entitled to be released on the day on which, apart from the agreement, he would be entitled to be released under subsection (6) or, as the case may be, subsection (10); but such an agreement shall not prevent a man becoming entitled to be released by virtue of subsection (2).
+
+(10) A person who has entered into an agreement under subsection (7) is entitled to be released at the end of the period specified in the agreement as the period for which his permanent service is being extended.
+
+(11) In this section “relevant service”, in relation to a person in service under the order, means any permanent service under this Part, or Part IV, V or VII, in the [[^F61]3 years] immediately preceding the first day of his current service under the order.
+
+#### 57A [[^F62]Agreement to alter limits in section 57
+
+(1) This section applies to a person if—
+
+(a) he is not in service under a call-out order under section 56; and
+
+(b) if accepted into service under such a call-out order, he would be immediately entitled to release under section 57(6) or (10).
+
+(2) The person may agree in writing that, if he is accepted into service under a call-out order under section 56, in calculating when he is entitled to be released by virtue of section 57(6) or (10) any service of his under this Part or Part 4, 5 or 7 that occurred before he entered into the agreement is to be treated as not having occurred.
+
+(3) An agreement under subsection (2) may also provide that, if the person is accepted into service under a call-out order under section 56, section 57 shall apply in his case as if for the period of [[^F63]12 months] specified in subsection (6) there were substituted a shorter period specified in the agreement.]
+
+### Call out of members of a reserve force
+
+#### 58 Call out of members of a reserve force on authority of call-out order.
+
+(1) Where a call-out order is in force authorising the call out of members of a reserve force, the Secretary of State may call out any member who is liable to be called out under that order by serving a notice on him requiring him—
+
+(a) to present himself for service at a specified time and place; and
+
+(b) to remain at that place until he is either accepted into service or informed that he is not to be accepted into service in pursuance of the notice.
+
+(2) A call-out notice shall also require the person concerned, if he fails to comply with the requirements mentioned in subsection (1)—
+
+(a) to present himself for service to any person specified in the notice or to any other authorised officer; and
+
+(b) having so presented himself, to remain until he is either accepted into service or informed that he is not to be accepted into service in pursuance of the notice.
+
+(3) A call-out notice served on a person shall specify—
+
+(a) the person to whom it applies;
+
+(b) the call-out order authorising the calling out of that person and the provision of this Part under which the order is made; and
+
+(c) the time and place at which the person is to present himself for service under that order;
+
+and it may also specify places and times at which and persons to whom the person may present himself for service if he fails to present himself at the time and place specified under paragraph (c) of this subsection.
+
+(4) A call-out notice served on a person may—
+
+(a) be varied by the Secretary of State by serving a variation notice on him;
+
+(b) be revoked by the Secretary of State by serving a revocation notice or a subsequent call-out notice on him.
+
+(5) A call-out notice served on a person on the authority of a call-out order shall (without affecting any liability arising from a failure to comply with the notice) cease to have effect, if not revoked sooner—
+
+(a) when an order revoking the call-out order is made after the day on which the notice was served but before the time mentioned in paragraph (b); or
+
+(b) when the person concerned is either accepted into service or informed that he is not to be accepted into service in pursuance of the notice.
+
+(6) The restriction of the effect of a call-out order—
+
+(a) by an order under section 52(3), 54(3) or 56(3) (as the case may be); or
+
+(b) in the case of a call-out order under section 54 or 56, by subsection (2)(a) of that section,
+
+shall not affect the power of the Secretary of State under subsection (4) of this section to vary a call-out notice served before the effect of the call-out order is so restricted.
+
+(7) A notice under this section may be served on a person by delivering it to him or by leaving it at, or sending it by post to, his last known address; and any call-out or variation notice delivered to that address by registered post or recorded delivery shall be deemed to have been served on him.
+
+(8) No steps may be taken against a person in respect of failure to comply with a call-out notice under this section unless the notice or, as the case may be, any variation notice was received by him or is deemed to have been served on him by virtue of subsection (7).
+
+#### 59 Acceptance into service under call-out order.
+
+(1) A person served with a call-out notice who—
+
+(a) presents himself for service to an authorised officer at the time and place specified in the notice under section 58(3)(c);
+
+(b) presents himself for service to an authorised officer at any other time or place; or
+
+(c) is brought before an authorised officer after the time so specified,
+
+may be accepted into service by that officer.
+
+(2) Where such a person is accepted into service, he shall be informed by the authorised officer in the prescribed manner that he has been accepted into service by virtue of subsection (1).
+
+(3) If an authorised officer decides that such a person should not be accepted into service, he shall inform that person in the prescribed manner that he is not to be accepted into service in pursuance of the call-out notice concerned.
+
+(4) Any liability of such a person arising from a failure to comply with a call-out notice is not affected by his acceptance into service or by a decision not to accept him into service.
+
+(5) Where a call-out order is in force, any person who is liable to be called out under the order who—
+
+(a) has not been served with a call-out notice; and
+
+(b) presents himself for service to an authorised officer,
+
+may be accepted into service under that call-out order by that officer.
+
+(6) Where a person is accepted into service under a call-out order by virtue of subsection (5)—
+
+(a) the authorised officer shall inform him in the prescribed manner that he has been accepted into service under that order by virtue of that subsection; and
+
+(b) he shall be deemed to have been called out under this Part for service under that order.
+
+#### 60 Release from service under call-out order.
+
+(1) A person who has been accepted into service under a call-out order shall remain in that service until released under subsection (2).
+
+(2) A person who is in service under a call-out order shall be released from that service with all convenient speed in such manner as may be prescribed when he is no longer required by Her Majesty to be in that service or (if not released sooner)—
+
+(a) when he becomes entitled to be released by virtue of section 53, 55 or 57, as the case may be;
+
+(b) when an order revoking that call-out order is made; or
+
+(c) when, on an application under section 78, it is determined that he is entitled to be released.
+
+(3) Orders or regulations under section 4 may make provision enabling or requiring a person who has been accepted into service under a call-out order to be treated—
+
+(a) if the circumstances of his call out or acceptance into service are of a prescribed description, and
+
+(b) for the purpose of calculating when he is entitled to be released by virtue of section 53, 55 or 57,
+
+as having been accepted into service on an earlier day than that on which he was actually accepted.
+
+(4) Provision made for the purposes of subsection (3) shall secure—
+
+(a) that any earlier day applicable for the purpose of calculating when a person is entitled to be released from service is to be notified to him as soon as is practicable after the day on which he was actually accepted into service; and
+
+(b) that the period beginning with the earlier day is reckoned as part of his relevant service for the purposes of section 53(13), 55(13), 57(11) and 69(8).
+
+#### 61 Alteration of authority for call out.
+
+(1) The Secretary of State may direct that—
+
+(a) a person who is in service under a call-out order (“the original order”), or
+
+(b) a person who is in service under Part IV,
+
+shall cease serving under that order or that Part and, in either case, shall continue in permanent service on the authority of a call-out order specified in the direction (“the new order”).
+
+(2) A call-out order may be specified in a direction under this section if it is in force on the day on which the direction is given and would, but for his being in permanent service already, authorise the calling out of the person concerned.
+
+(3) A person in respect of whom a direction under this section is given—
+
+(a) shall continue in permanent service after the direction is given as if he had been called out under the new order; and
+
+(b) shall be deemed to have begun service under the new order at the time at which his service under the original order began (or is deemed under this subsection to have begun) or, as the case may be, his service under Part IV began.
+
+(4) A direction under this section may be given in respect of two or more named persons or persons of a description specified in the direction.
+
+(5) Any person in permanent service in respect of whom a direction under this section is given shall be informed of the effect of the direction as soon as is practicable after the direction is given.
+
+### Supplementary
+
+#### 62 Power to exempt persons from or relax call-out liability.
+
+(1) Orders or regulations under section 4 may provide for exempting any members of a reserve force, in such cases as may be prescribed, from liability to be called out under the authority of the provisions of this Part or, as the case may be, any of those provisions.
+
+(2) Such orders or regulations may also provide for relaxing, in such cases as may be prescribed, the liability to be called out under the authority of the provisions of this Part or, as the case may be, any of those provisions.
+
+#### 63 Exercise of certain functions under section 58 or 61.
+
+(1) The Secretary of State may authorise—
+
+(a) the Defence Council;
+
+(b) any particular officers; or
+
+(c) any officers of a description specified in the authorisation,
+
+to exercise any function of his under sections 58 and 61, subject to such limitations and conditions as may be so specified.
+
+(2) An authorisation under subsection (1) above relating to the exercise of any function of the Secretary of State by the Defence Council shall (unless the authorisation provides otherwise) be deemed to permit the Defence Council to authorise—
+
+(a) any particular officers; or
+
+(b) any officers of a description determined by the Defence Council,
+
+to exercise the function, subject to such limitations and conditions as may be so specified.
+
+(3) Arrangements made under subsection (1) or (2) for the discharge of any function shall not prevent the exercise of the function by the Secretary of State or (in the case of arrangements under subsection (2)) the Defence Council.
+
+#### 64 Interpretation of Part VI.
+
+[[^F64](1)] In this Part—
+
+“authorised officer” means an officer authorised by or in accordance with directions of the Defence Council for the purposes of this Part;
+
+“call-out notice” means a notice under section 58;
+
+“call-out order” means an order under section 52, 54 or 56; and
+
+“service under a call-out order”, and “service” mean permanent service on being called out under this Part on the authority of a call-out order.
+
+[[^F65](2) The powers under sections 52, 54 and 56 to make a call-out order are each to be interpreted as including power to do so in circumstances in which an order could also be made under another of those sections.]
+
+## Part VII — Recall for service of officers and former servicemen
+
+### Liability to be recalled for service
+
+#### 65 Liability of officers and former servicemen to be recalled.
+
+(1) Persons to whom section 66 applies are liable, in accordance with this Part, to be recalled for service when any recall order which authorises their recall is in force.
+
+(2) A person who is recalled for service as a man of any of the regular services shall, while in service under the recall order concerned, be deemed to be enlisted in the regular service concerned.
+
+(3) A person who has been released or discharged from a period of service under a recall order may, subject to the provisions of this Act, be recalled again on the authority of the same or any other recall order.
+
+(4) Any question whether a person may be recalled on the authority of a recall order shall be determined by reference to the circumstances at the time he is served with a recall notice or, if he is accepted into service under section 71(5), when he is accepted into service.
+
+(5) The numbers of persons who are recalled for service under a recall order shall not be reckoned in any numbers for the time being authorised by Parliament for any of the regular services.
+
+#### 66 Persons who may be recalled under Part VII.
+
+(1) This section applies to any person not serving in the regular services or the reserve forces who—
+
+(a) holds a commission as an officer; or
+
+(b) has served as a man in the regular services and has not become an officer since being discharged or transferred to the reserve from the regular services,
+
+unless he is excluded (whether permanently or temporarily) by any provision of this section.
+
+(2) This section does not apply to any person falling within subsection (1)(b)—
+
+(a) after he has attained the age of 55;
+
+(b) in the case of a person who was discharged or transferred to the reserve from the regular army or the [[^F66]Royal Air Force], after the end of the period of 18 years beginning with the day on which he was so discharged or transferred; or
+
+(c) in the case of a person who was discharged or transferred to the reserve from the Royal Navy or the Royal Marines, after the end of the period of 6 years beginning with the day on which he was so discharged or transferred.
+
+(3) The re-enlistment of a person falling within subsection (1)(b) in the regular services shall prevent or, as the case may be, shall terminate any application of this section to him by reference to an earlier discharge or transfer to the reserve.
+
+(4) References to discharge or transfer to the reserve in subsections (1) and (2)—
+
+(a) do not include discharge from a period of permanent service under a recall order; and
+
+(b) in relation to a man who has been discharged or transferred to the reserve more than once, refer to his most recent discharge or transfer.
+
+(5) This section does not apply to any person who is permanently exempted, or to any person while he is temporarily exempted, from all liability to be recalled under this Part—
+
+(a) by regulations made by virtue of section 73; or
+
+(b) by an exemption granted on an application made under regulations under section 79.
+
+(6) Subject to any election made under subsection (7), this section does not apply to any person who—
+
+(a) became an officer before the day on which this Part comes into force, or
+
+(b) enlisted in the regular services before that day and has not re-enlisted, re-engaged or extended his service in the regular services, or become an officer, on or after that day.
+
+(7) A person falling within paragraph (a) or (b) of subsection (6) may, with the consent of an authorised officer, irrevocably elect in such manner as may be prescribed not to be excluded from the operation of this section by virtue of that subsection.
+
+(8) An election under subsection (7) may be made by a person who is serving in the regular forces or the reserve forces as well as a person who is not so serving; and any election is without prejudice to the subsequent operation of subsections (1) to (5) in relation to the person concerned.
+
+#### 67 Geographical extent of liability to service on recall.
+
+(1) A person who is recalled shall, subject to the following provisions of this section, be liable to serve anywhere in the world.
+
+(2) A person who, when he was last discharged or transferred to the reserve from the regular services, was liable only for service within the United Kingdom or any area of the United Kingdom, shall not be liable to serve outside the United Kingdom or, as the case may be, that area on being recalled.
+
+(3) A person whose liability for service on recall is restricted as mentioned in subsection (2) may elect irrevocably in such manner as may be prescribed to be liable for worldwide service—
+
+(a) whenever he is recalled for service;
+
+(b) during any period of service (including a current period of service) under a recall order specified in the election.
+
+(4) Subsection (2) shall not apply—
+
+(a) to any person who makes an election under subsection (3)(a), or
+
+(b) in relation to a period of service covered by the election, to a person who makes an election under subsection (3)(b).
+
+(5) A person who is serving in the regular services or the reserve forces may make an election under subsection (3) before that service ceases.
+
+### Power to authorise recall
+
+#### 68 Recall for national danger, great emergency or attack on the UK.
+
+(1) Her Majesty may make an order authorising the recall under this Part of persons to whom section 66 applies—
+
+(a) if it appears to Her that national danger is imminent or that a great emergency has arisen; or
+
+(b) in the event of an actual or apprehended attack on the United Kingdom.
+
+(2) A recall order authorises, subject to subsection (3), the recall of any person to whom section 66 applies or, if the order is so limited, any such person who is of a description specified in the order.
+
+(3) A recall order does not authorise the recall of any person to whom section 66 applies who is not liable to be recalled under the order by virtue of regulations made by virtue of section 73 or an exemption granted on an application under regulations under section 79.
+
+(4) A recall order shall have effect (subject to any order under subsection (5)) until it is revoked.
+
+(5) Her Majesty may make an order providing that any recall order shall cease to authorise the recall of any person who is not in service under the order.
+
+(6) An order under subsection (5) shall not affect the operation of any recall notice which is served on any person on the authority of the recall order concerned before the day on which the order under that subsection is made.
+
+(7) Her Majesty may make an order revoking any recall order (whether or not its effect has already been limited by an order under subsection (5)).
+
+(8) Where an order under subsection (7) revoking a recall order is made—
+
+(a) the recall order shall cease to authorise the recall of anyone who could otherwise be recalled on the authority of the recall order (including anyone served with a recall notice before the order under subsection (7) is made who has not been accepted into service); and
+
+(b) anyone in service under the recall order shall be entitled to be released or discharged from that service.
+
+(9) A recall order, or an order under subsection (5) or (7), shall be signified under the hand of the Secretary of State and the making of any such order shall be reported forthwith to each House of Parliament.
+
+(10) If, when a recall order is made, Parliament is separated by an adjournment or prorogation which will not expire within 5 days—
+
+(a) a proclamation shall be issued for the meeting of Parliament within 5 days; and
+
+(b) Parliament shall meet and sit upon the day appointed by the proclamation and shall continue to sit and act as if it had stood adjourned or prorogued to that day.
+
+#### 69 Maximum duration of service on recall.
+
+(1) This section applies for the purpose of determining when persons in service under a recall order (“the recall order”) are entitled to be released from service (in the case of officers) or discharged (in the case of men).
+
+(2) A person is (if not released or discharged sooner) entitled to be released from service or discharged when his current service under the recall order, or his current service and any relevant service in aggregate, exceeds 3 years.
+
+(3) A person in service under the recall order may enter into a written agreement consenting to the extension of his period of service—
+
+(a) beyond the day on which he is entitled to be released or discharged by virtue of subsection (2); or
+
+(b) beyond the day on which, by virtue of a subsisting agreement under this subsection, he is entitled to be released or discharged by virtue of subsection (5),
+
+until the end of such period, not exceeding 12 months, as may be specified in the agreement.
+
+(4) An agreement under subsection (3) may not be entered into at any time—
+
+(a) when the person concerned could not be served with a recall notice on the authority of the order or any other recall order; or
+
+(b) more than 12 months before the day on which (apart from the agreement) he is entitled to be released or discharged by virtue of subsection (2) or subsection (5).
+
+(5) A person who has entered into an agreement under subsection (3)—
+
+(a) shall no longer be entitled to be released or discharged on the day on which, apart from the agreement, he is so entitled by virtue of subsection (2) or, as the case may be, paragraph (b) of this subsection; and
+
+(b) is entitled to be released from service or discharged at the end of the period specified in the agreement as the period for which his service is being extended.
+
+(6) Her Majesty may by order signified under the hand of the Secretary of State provide that, in the case of such descriptions of person as may be specified in the order, subsection (2) shall apply as if for the words “3 years” there were substituted “ 5 years ”.
+
+(7) The making of an order under subsection (6) shall be reported forthwith to each House of Parliament.
+
+(8) In this section “relevant service” means any service under this Part, or under Part IV, V or VI, within the 6 years immediately preceding the day on which a person’s current service under the recall order began.
+
+### Recall for permanent service
+
+#### 70 Recall of persons on authority of recall order.
+
+(1) Where a recall order is in force, the Secretary of State may recall any person who is liable to be recalled on the authority of that order by serving a notice on him requiring him—
+
+(a) to present himself for service at a specified time and place; and
+
+(b) to remain at that place until he is either accepted into service or informed that he is not to be accepted into service in pursuance of the notice.
+
+(2) A recall notice shall also require the person concerned, if he fails to comply with the requirements mentioned in subsection (1)—
+
+(a) to present himself for service to any person specified in the notice or to any other authorised officer; and
+
+(b) having so presented himself, to remain until he is either accepted into service or informed that he is not to be accepted into service in pursuance of the notice.
+
+(3) A recall notice served on a person shall specify—
+
+(a) the person to whom it applies;
+
+(b) the recall order which authorises his recall; and
+
+(c) the time and place at which the person is to present himself for service under that order;
+
+and it may also specify places and times at which and persons to whom that person may present himself for service if he fails to comply with the requirement to present himself at the time and place specified in paragraph (c) of this subsection.
+
+(4) A recall notice served on a person may—
+
+(a) be varied by the Secretary of State by serving a variation notice on him;
+
+(b) be revoked by the Secretary of State by serving a revocation notice or a subsequent recall notice on him.
+
+(5) A recall notice served on any person shall (without affecting any liability arising from a failure to comply with the notice) cease to have effect, if not revoked sooner, when—
+
+(a) an order under section 68(7) is made; or
+
+(b) the person concerned is either accepted into service or informed that he is not to be accepted into service in pursuance of the notice.
+
+(6) The making of an order under section 68(5) shall not affect the power of the Secretary of State to vary a recall notice served before the order is made.
+
+(7) A notice under this section may be served on a person by delivering it to him or by leaving it at, or sending it by post to, his last known address; and any recall or variation notice delivered to that address by registered post or recorded delivery shall be deemed to have been served on him.
+
+(8) No steps may be taken against a person in respect of failure to comply with a recall notice under this section unless the notice or, as the case may be, any variation notice, was received by him or is deemed to have been served on him by virtue of subsection (7).
+
+#### 71 Acceptance into service under recall order.
+
+(1) A person served with a recall notice who—
+
+(a) presents himself for service to an authorised officer at the time and place specified in the notice under section 70(3)(c);
+
+(b) presents himself for service to an authorised officer at any other time or place; or
+
+(c) is brought before an authorised officer after the time so specified,
+
+may be accepted into service by that officer.
+
+(2) Where such a person is accepted into service, he shall be informed by the authorised officer in the prescribed manner that he has been accepted into service by virtue of subsection (1).
+
+(3) If an authorised officer decides that such a person should not be accepted into service, he shall inform that person in the prescribed manner that he is not to be accepted into service in pursuance of the recall notice concerned.
+
+(4) Any liability of such a person arising from a failure to comply with a recall notice is not affected by his acceptance into service or by a decision not to accept him into service.
+
+(5) Where a recall order is in force, any person who is liable to be called out on the authority of the order who—
+
+(a) has not been served with a recall notice; and
+
+(b) presents himself for service to an authorised officer,
+
+may be accepted into service under that recall order by that officer.
+
+(6) Where a person is accepted into service under a recall order by virtue of subsection (5)—
+
+(a) the authorised officer shall inform him in the prescribed manner that he has been accepted into service under that order by virtue of that subsection; and
+
+(b) he shall be deemed to have been recalled for service under that order.
+
+#### 72 Release and discharge from service under recall order.
+
+(1) A person who has been accepted into service under a recall order shall remain in service until released from service or discharged.
+
+(2) A person in service under a recall order shall be released or discharged with all convenient speed in such manner as may be prescribed when he is no longer required by Her Majesty to be in that service or (if not released or discharged sooner) when he is entitled to be released or discharged—
+
+(a) by virtue of section 68(8) or 69; or
+
+(b) by virtue of a determination granted on an application made under regulations under section 79.
+
+(3) The Defence Council may by regulations make provision enabling or requiring a person in service under a recall order—
+
+(a) if the circumstances of his recall or acceptance into service are of a prescribed description, and
+
+(b) for the purpose of calculating when he is entitled to be released or discharged by virtue of section 69,
+
+to be treated as having been accepted into service on an earlier day than that on which he was actually accepted.
+
+(4) Provision made for the purposes of subsection (3) shall secure—
+
+(a) that any earlier day applicable for the purpose of calculating when a person is entitled to be released or discharged is to be notified to him as soon as is practicable after the day on which he was actually accepted into service; and
+
+(b) that the period beginning with the earlier day is reckoned as part of his relevant service for the purposes of sections 53(13), 55(13), 57(11) and 69(8).
+
+[^F67]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F68]6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Supplementary
+
+#### 73 Power to exempt persons from or relax recall liability.
+
+The Defence Council may by regulations make provision—
+
+(a) securing that, in such cases as may be prescribed, persons otherwise liable to be recalled are exempt from that liability; and
+
+(b) relaxing, in such cases as may be prescribed, the liability of any persons to be recalled.
+
+#### 74 Exercise of certain functions under section 70.
+
+(1) The Secretary of State may authorise—
+
+(a) the Defence Council;
+
+(b) any particular officers; or
+
+(c) any officers of a description specified in the authorisation,
+
+to exercise any function of his under section 70, subject to such limitations and conditions as may be so specified.
+
+(2) An authorisation under subsection (1) relating to the exercise of any function of the Secretary of State by the Defence Council shall (unless the authorisation provides otherwise) be deemed to permit the Defence Council to authorise—
+
+(a) any particular officers; or
+
+(b) any officers of a description determined by the Defence Council,
+
+to exercise the function, subject to such limitations and conditions as may be so specified.
+
+(3) Arrangements made under subsection (1) or (2) for the discharge of any function shall not prevent the exercise of the function by the Secretary of State or (in the case of arrangements under subsection (2)) the Defence Council.
+
+#### 75 Power to require information.
+
+(1) The Secretary of State may, for the purposes of carrying this Part into effect, make regulations requiring any person not serving in the regular services or the reserve forces who falls within paragraph (a) or (b) of section 66(1), to provide such information as may be specified in the regulations.
+
+(2) The regulations shall secure that a person who falls within subsection (1)(b) of section 66 is under no obligation to provide information after he ceases to be a person to whom that section applies by virtue of subsection (2) of that section.
+
+(3) Without prejudice to the generality of subsection (1), regulations under this section may include provision as to the manner in which, the times when and any person to whom specified information is to be provided.
+
+(4) Any person who fails without reasonable excuse to comply with regulations under this section is guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+(5) Any person who, in providing information required by regulations under this section, knowingly or recklessly makes a statement false in any material particular is guilty of an offence and liable on summary conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding level 4 on the standard scale (or both).
+
+(6) Proceedings against any person for an offence under this section may be taken at any place at which he is for the time being.
+
+(7) Regulations under this section shall be made by statutory instrument which shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+#### 76 Recall not to affect service pensions.
+
+Where a person to or in respect of whom a service pension is payable has been accepted into service under a recall order—
+
+(a) any pay or other emoluments to which he is entitled in respect of his service on recall shall not be reduced by reason of the service pension;
+
+(b) the service pension shall not be withheld or reduced by reason of any such pay or emoluments.
+
+#### 77 Interpretation of Part VII.
+
+(1) In this Part—
+
+“authorised officer” means an officer authorised by or in accordance with directions of the Defence Council for the purposes of this Part;
+
+“man” means a person of either sex who is of or below the rank or rate of warrant officer;
+
+“prescribed” means prescribed in regulations made by the Defence Council;
+
+“recall order” means an order under section 68 and “recall” means recall for permanent service under such an order;
+
+“service”, in relation to service under a recall order, means permanent service; and
+
+“the United Kingdom” includes the Channel Islands and the Isle of Man.
+
+(2) Regulations made by the Defence Council under this Part may include incidental or supplementary provision and shall be laid before each House of Parliament after being made.
+
+## Part VIII — Schemes for Exemption and Financial Assistance
+
+### Individual exemptions etc. from call out or recall
+
+#### 78 Individual exemptions etc. from call out.
+
+(1) The Secretary of State may by regulations make provision enabling a person liable to be called out, or any employer of such a person, to apply for any deferral, revocation, entitlement to release or exemption which, under the regulations, may be granted to the person by or in respect of whom such an application is made.
+
+(2) The regulations may provide for applications to be made by or in respect of a person—
+
+(a) after the service on him of a call-out notice (“the original notice”) but before he is accepted into service;
+
+(b) after he has been accepted into service.
+
+(3) The regulations may provide, in relation to an application made before a person is accepted into service, for the following to be available—
+
+(a) the deferral of his obligation to present himself for service in pursuance of the original notice;
+
+(b) the revocation of the original notice;
+
+(c) if the original notice was served under Part IV, an exemption from liability to be called out under that Part or Part VI;
+
+(d) if the original notice was served under Part V, an exemption from liability to be called out under that Part;
+
+(e) if the original notice was served under Part VI, an exemption from liability to be called out on the authority of—
+
+(i) the call-out order specified in that notice,
+
+(ii) any other call-out order made under the provision of Part VI so specified,
+
+(iii) any call-out order made under any provision of Part VI;
+
+(f) if the original notice was served under Part VI and the person concerned has entered into a special agreement, an exemption from liability to be called out under Part IV.
+
+(4) The regulations may provide, in relation to an application made after a person has been accepted into service, for the following to be available—
+
+(a) a determination that he is entitled to be released from his current period of service;
+
+(b) if he is serving under Part IV, an exemption from liability to be called out under that Part or Part VI;
+
+(c) if he is serving under Part V, an exemption from liability to be called out under that Part;
+
+(d) if he is serving under Part VI, an exemption from any liability to be called out on the authority of—
+
+(i) the call-out order under which he is currently serving,
+
+(ii) any other call-out order made under the same provision of Part VI as the order under which he is currently serving,
+
+(iii) any call-out order made under any provision of Part VI; or
+
+(e) if a determination is given that he is entitled to be released from service under Part VI and provision such as is mentioned in section 80(2)(f) applies in his case, an exemption from liability to be called out under Part IV.
+
+#### 79 Individual exemptions etc. from recall.
+
+(1) The Secretary of State may by regulations make provision enabling any person liable to be recalled, or any employer of such a person, to apply for any deferral, revocation, entitlement to release or discharge or exemption which, under the regulations, may be granted to the person by or in respect of whom such an application is made.
+
+(2) Regulations under this section may provide for applications to be made by or in respect of a person—
+
+(a) after the service on him of a recall notice (“the original notice”) but before he is accepted into service; or
+
+(b) after he has been accepted into service.
+
+(3) The regulations may provide, in relation to an application made before a person is accepted into service, for the following to be available—
+
+(a) the deferral of his obligation to present himself for service in pursuance of the original notice;
+
+(b) the revocation of the original notice;
+
+(c) an exemption from liability to be recalled on the authority of the recall order specified in the original notice or any other recall order.
+
+(4) The regulations may provide, in relation to an application made after a person has been accepted into service, for the following to be available—
+
+(a) a determination that he is entitled to be released from service or discharged;
+
+(b) an exemption from liability to be recalled on the authority of the recall order under which he is currently serving or any other recall order.
+
+(5) Regulations under this section may also make provision in relation to—
+
+(a) persons liable to be recalled under the [^M1]Reserve Forces Act 1980, or
+
+(b) officers liable to be recalled otherwise than under this Act,
+
+corresponding to the provision which may be made in relation to persons liable to be recalled under Part VII.
+
+#### 80 Effect of exemptions etc.
+
+(1) The regulations may provide for an application for deferral or revocation which is not determined before the person concerned is accepted into service to be treated as an application for a determination that he is entitled to be released or discharged.
+
+(2) The regulations may provide—
+
+(a) for the terms on which deferrals, revocations, determinations of entitlement to release or discharge and exemptions may be granted (including any limitations or conditions subject to which they may be granted);
+
+(b) for determinations of entitlement to release or discharge and exemptions to take effect immediately or at such other time as may be specified in the determination or exemption;
+
+(c) for deferrals or exemptions to lapse at such time, at the end of such period or on the occurrence of such event as may be specified in the deferral or exemption;
+
+(d) for determinations of entitlement to release or discharge which do not take effect immediately to lapse as mentioned in paragraph (c);
+
+(e) for persons released from service under Part IV in pursuance of a determination of entitlement to release to be treated for the purposes of section 31(3) as if they had not been in that service and released;
+
+(f) for persons released from service under Part VI in pursuance of a determination of entitlement to release to be treated for the purposes of section 31(1)(d) as if they had not been in that service;
+
+(g) for waiver of deferrals, determinations of entitlement to release or discharge and exemptions.
+
+(3) The regulations shall secure that deferrals or exemptions, or any determinations mentioned in subsection (2)(d), do not remain in force for more than 12 months from the day on which they take effect.
+
+#### 81 Regulations under section 78 or 79: supplementary.
+
+(1) The regulations may, without prejudice to the generality of sections 78 to 80, make provision with respect to—
+
+(a) the persons by whom applications of any description may be made and the grounds on which applications may be made;
+
+(b) the persons who are to be regarded as employers for any purpose of the regulations;
+
+(c) the procedure for making applications (including the times when they may be made and any information to be provided by the applicant);
+
+(d) the determination of applications by any person or body identified by, or of a description specified in, the regulations;
+
+(e) any matters to be taken into account in determining applications;
+
+(f) the provision of information, in connection with any matter relevant to the lapse of a deferral, determination of entitlement to release or discharge or an exemption, by the person on whose application it was granted; and
+
+(g) any incidental or supplementary matters.
+
+(2) The persons who may be regarded under the regulations as the employer of a person in permanent service may include a former employer of that person who is, by virtue of the [^M2]Reserve Forces (Safeguard of Employment) Act 1985, under an obligation to reinstate him at the end of his current period of permanent service.
+
+(3) The regulations may make different provision for different cases and may, in particular, make different provision for cases where the regulations enable an application to be made by or in respect of a person who is in permanent service on call-out or recall—
+
+(a) if he is serving under Part IV or a call-out order, after the making of an order under section 61 which extends the time at which he would (apart from the order) become entitled to be released from permanent service;
+
+(b) if he is serving under a call-out order—
+
+(i) after the making of an order under section 53(11) or 55(11) which extends the time at which he would (apart from the order) become entitled to be released from permanent service;
+
+(ii) after the postponement under section 53(3), 55(3) or 57(3) of his entitlement to be released;
+
+(c) if he is serving under a recall order, after the making of an order under section 69(6) which extends the time at which he would (apart from the order) become entitled to be released or discharged;
+
+(d) after he has agreed under any provision of this Act to extend (or further extend) his period of permanent service;
+
+but the regulations need not enable applications to be made in every case where a person is served with a call-out or recall notice or is in permanent service.
+
+(4) Any person making an application under the regulations who is aggrieved by the determination of his application may appeal to a reserve forces appeal tribunal.
+
+(5) Before making any regulations, the Secretary of State shall consult such bodies or persons as he considers appropriate, including—
+
+(a) a body appearing to him to represent the interests of employers, a body appearing to him to represent the interests of employees and a body appearing to him to represent the interests of the self-employed; and
+
+(b) the associations established under Part XI or a body appearing to him to represent those associations.
+
+(6) The regulations shall be made by statutory instrument which shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(7) In this section and section 80 “regulations” means any regulations made under section 78 or 79.
+
+#### 82 Offences in connection with regulations under section 78 or 79.
+
+(1) Any person who fails without reasonable excuse to provide information, in connection with the lapse of a deferral, entitlement to be released or discharged or an exemption, which he is required to provide under regulations under section 78 or 79 is guilty of an offence and liable, on summary conviction, to imprisonment for a term not exceeding 3 months or a fine not exceeding level 4 on the standard scale (or both).
+
+(2) Any person who—
+
+(a) in connection with an application under regulations under section 78 or 79, or
+
+(b) in connection with the lapse of a deferral, determination of entitlement to release or discharge or an exemption granted under those regulations,
+
+knowingly or recklessly provides information which is false or misleading in a material particular is guilty of an offence and liable, on summary conviction, to imprisonment for a term not exceeding 6 months or a fine not exceeding level 5 on the standard scale (or both).
+
+### Financial assistance in respect of [[^F69]reserve forces]
+
+#### 83 Payments to individuals in respect of [[^F70]financial loss attributable to] call out or recall.
+
+(1) The Secretary of State may by regulations provide for the making of payments by him to any persons in respect of any financial loss of a description prescribed by the regulations which is suffered by them and attributable to their being in permanent service under Part IV or Part V or under a call-out or recall order.
+
+(2) The regulations may provide for payments to be made, in relation to any description of financial loss, towards the provision of pensions, allowances or gratuities to or in respect of a person making a claim.
+
+(3) The regulations may, in relation to any payments to be made as mentioned in subsection (2)—
+
+(a) provide for any such payments to be made to any person of a prescribed description;
+
+(b) require such a person to accept such payments (notwithstanding anything which would otherwise prevent him from doing so) on such terms as may be determined by or under the regulations; and
+
+(c) require persons of any such description to provide information in connection with claims for such payments or, where payments have been made to them, in connection with the use made of the money.
+
+(4) A person making a claim under the regulations who is dissatisfied with the determination of his claim may appeal against the determination to a reserve forces appeal tribunal.
+
+#### 84 Payments to employers etc. in respect of [[^F71]financial loss attributable to] call out or recall.
+
+(1) The Secretary of State may by regulations provide for the making of payments by him to employers (including employers who are self-employed) in respect of any financial loss of a description prescribed by the regulations which is suffered by them and attributable to any of their employees being in permanent service under Part IV or Part V or under a call-out or recall order.
+
+(2) Regulations under this section may also provide for the making of payments by the Secretary of State to the partners of a person carrying on business in partnership in respect of any financial loss of a description prescribed by the regulations which is suffered by them and attributable to that person being in permanent service under Part IV or Part V or under a call-out or recall order.
+
+(3) A person making a claim under regulations under this section who is dissatisfied with the determination of his claim may appeal against the determination to a reserve forces appeal tribunal.
+
+#### 84A [[^F72]Other payments to employers etc of members of reserve forces
+
+(1) The Secretary of State may by regulations provide for the making of payments by the Secretary of State to—
+
+(a) an employer whose employee is undertaking relevant reserve force activities or has undertaken such activities while employed by the employer, and
+
+(b) a person carrying on business in partnership whose partner in the business is undertaking relevant reserve force activities or has undertaken such activities while a partner of the person,
+
+but see subsections (3) to (5).
+
+(2) For the purposes of this section, a person undertakes relevant reserve force activities when the person—
+
+(a) is in permanent service under Part 4 or under a call-out order,
+
+(b) undertakes training of a prescribed description while an ordinary member of a reserve force, or
+
+(c) performs other voluntary duties of a prescribed description while an ordinary member of a reserve force.
+
+(3) The Secretary of State may make regulations under this section only if satisfied that the payments provided for, or such payments taken together with other measures, are likely to encourage persons—
+
+(a) to employ, or continue to employ, members of the reserve forces, or
+
+(b) to carry on business, or continue to carry on business, in partnership with members of the reserve forces.
+
+(4) Regulations under subsection (1)(a) may provide for the making of payments to employers who are self-employed, but not in respect of their own relevant reserve force activities.
+
+(5) Regulations under this section may not provide for the making of payments to be conditional on a financial loss suffered by the employer or the person carrying on business in partnership.
+
+(6) A person making a claim under regulations under this section who is dissatisfied with the determination of the claim may appeal against the determination to a reserve forces appeal tribunal.
+
+(7) In this section—
+
+- “ordinary member”, in relation to a reserve force, means a member who—
+
+  - (a) is not a special member of that force, and
+  - (b) is not a member of that force for the purpose only of becoming a special member;
+
+- “prescribed” means prescribed by regulations made under this section.]
+
+#### 85 Regulations under section 83[[^F73], 84 or 84A]: supplementary.
+
+(1) Regulations under section 83[[^F74], 84 or 84A] (“the regulations”) may, in particular, make provision with respect to—
+
+(a) the descriptions of persons who are entitled to claim payments [^F75]...;
+
+[[^F76](aa) in the case of regulations under section 83 or 84, the descriptions of the kinds of financial loss for which claims can be made;
+
+(ab) in the case of regulations under section 84A, the descriptions of the kinds of training and other voluntary duties for which claims can be made;]
+
+(b) the matters in respect of which, and any circumstances in which, persons are or are not entitled to any payment;
+
+(c) the sums, or the method of determining the sums, to be paid;
+
+(d) the procedure for making claims (including the time within which claims must be made and the information to be provided by persons making claims);
+
+(e) in the case of regulations under section 83, the provision of information by persons in connection with claims made by their employees or former employees;
+
+(f) in the case of regulations under section 84 [[^F77]or 84A], the provision of information by persons in respect of whom claims are made;
+
+(g) the determination of claims by any person or body identified by, or of a description specified in, the regulations;
+
+(h) any incidental or supplementary matters.
+
+(2) The regulations may make different provision for different cases (but need not require payments to be made in all cases or for all losses [[^F78], permanent service, training or other voluntary duties]).
+
+(3) Before making any regulations under section 83[[^F79], 84 or 84A] the Secretary of State shall consult such persons or bodies as he considers to be appropriate, including—
+
+(a) a body appearing to him to represent the interests of employers, a body appearing to him to represent the interests of employees and a body appearing to him to represent the interests of the self-employed; and
+
+(b) the associations established under Part XI or a body appearing to him to represent those associations.
+
+[[^F80](3A) A payment that has been made, or may be made, under regulations under section 84A is not to be taken into account when calculating a financial loss for the purposes of regulations under section 84.]
+
+(4) The regulations shall be made by statutory instrument which shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(5) [[^F81]Regulations under section 83 or 84] may also make provision for claims by or in respect of—
+
+(a) persons recalled under the [^M3]Reserve Forces Act 1980, or
+
+(b) officers recalled otherwise than under this Act,
+
+corresponding to the provision which may be made for claims by or in respect of persons recalled under Part VII.
+
+#### 86 Power to suspend payments due to national danger or great emergency.
+
+[[^F82](A1) Where a call-out order under section 52 is in force, the Secretary of State may by order suspend the operation of any regulations under section 83, 84 or 84A.]
+
+(1) Where [^F83]...a recall order under section 68 is in force, the Secretary of State may by order suspend the operation of any regulations under section 83 or 84.
+
+(2) An order under [[^F84]this section] may suspend the application of the regulations concerned in all cases or in such cases as may be specified in the order; and the effect of such an order is—
+
+(a) to prevent any right to payments arising or (in relation to people who have already been called out or recalled [[^F85]or who are already undertaking training or performing other voluntary duties]) accruing further under the suspended regulations in respect of the period during which the order is in force; and
+
+(b) to suspend for that period any obligation of the Secretary of State to make payments under the suspended regulations in respect of earlier periods.
+
+(3) An order under [[^F86]this section]—
+
+(a) shall be made for such period not exceeding 12 months as may be specified in the order; and
+
+(b) may (if it has not otherwise expired) be revoked by the Secretary of State by order.
+
+(4) An order under [[^F87]this section] shall be made by statutory instrument which shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(5) An order revoking an order under [[^F88]this section] shall be made by statutory instrument and shall be laid before each House of Parliament after being made.
+
+#### 87 Offences in connection with claims for payments.
+
+(1) Any person who, in connection with a claim by another person under regulations under section 83[[^F89], 84 or 84A], fails without reasonable excuse to provide information which he is required to provide by the regulations is guilty of an offence and liable, on summary conviction, to imprisonment for a term not exceeding 3 months or a fine not exceeding level 4 on the standard scale (or both).
+
+(2) Any person who, in connection with a claim under regulations under section 83[[^F90], 84 or 84A], knowingly or recklessly provides information which is false or misleading in a material particular is guilty of an offence and liable, on summary conviction to imprisonment for a term not exceeding 6 months or a fine not exceeding level 5 on the standard scale (or both).
+
+## Part IX — Reserve forces appeal tribunals
+
+### 88 The reserve forces appeal tribunals.
+
+(1) Tribunals to be known as reserve forces appeal tribunals (referred to in this Part as “appeal tribunals”) may be constituted for the purpose of exercising the jurisdiction mentioned in section 89.
+
+(2) Such number of appeal tribunals shall be constituted, sitting at such times and such places, as the Secretary of State may from time to time determine.
+
+(3) The Secretary of State may make available such officers and staff as he may consider necessary for carrying out the administrative work of appeal tribunals.
+
+### 89 Jurisdiction and powers of appeal tribunals.
+
+(1) An appeal lies to an appeal tribunal by virtue of section 81(4) in respect of a determination of an application under regulations under section 78 or 79.
+
+(2) An appeal lies to an appeal tribunal by virtue of sections 83(4)[[^F91], 84(3) and 84A(6)] in respect of a determination of a claim under regulations under sections 83[[^F92], 84 and 84A] respectively.
+
+(3) An appeal to an appeal tribunal shall be by way of a rehearing of the application or claim.
+
+(4) An appeal tribunal hearing an appeal may dismiss the appeal or may make any determination which the person or body hearing the original application or claim had the power to make.
+
+(5) The person or body responsible for making determinations under the regulations under which the application or claim was made shall (so far as may be necessary) give effect under those regulations to the determination of the appeal tribunal.
+
+### 90 Appointment of panel of chairmen.
+
+(1) There shall be a panel of chairmen of reserve forces appeal tribunals appointed by the Lord Chancellor [^F93]. . ..
+
+[[^F94](1A) The Lord Chancellor may not appoint a member of the panel unless the appropriate senior judge concurs.]
+
+(2) No person may be appointed to the panel unless he is—
+
+(a) a person who has a 10 year general qualification (within the meaning of section 71 of the [^M4]Courts and Legal Services Act 1990);
+
+(b) an advocate or solicitor in Scotland of at least 10 years’ standing; or
+
+(c) a member of the Bar of Northern Ireland or [[^F95]solicitor of the Court of Judicature of Northern Ireland] of at least 10 years’ standing.
+
+(3) The appointment of a person to the panel shall be for such term as may be determined by the Lord Chancellor [^F93]. . ..
+
+(4) A member of the panel shall vacate his office on the day on which he attains the age of [[^F96]75].
+
+(5) There shall be paid to members of the panel such fees, allowances and expenses (if any) as the Secretary of State may determine.
+
+### 91 Appointment of panel of ordinary members.
+
+(1) There shall be a panel of ordinary members of reserve forces appeal tribunals appointed by the Lord Chancellor [^F97]. . ..
+
+(2) Before appointing a member of the panel, the Lord Chancellor shall consult such persons or bodies as he considers to be appropriate, including—
+
+(a) a body appearing to him to represent the interests of employers, a body appearing to him to represent the interests of employees and a body appearing to him to represent the interests of the self-employed; and
+
+(b) the associations established under Part XI or a body appearing to him to represent those associations.
+
+[[^F98](2A) The Lord Chancellor may not appoint a member of the panel unless the appropriate senior judge concurs.]
+
+(3) The appointment of a person to the panel shall be for such term as may be determined by the Lord Chancellor [^F97]. . ..
+
+(4) A member of the panel shall vacate his office on the day on which he attains the age of [[^F99]75].
+
+(5) There shall be paid to members of the panel such fees, allowances and expenses (if any) as the Secretary of State may determine.
+
+### 92 Membership of tribunals etc.
+
+(1) An appeal tribunal shall consist of a chairman and two other members selected [[^F100]in accordance with subsection (2)] from the appropriate panel appointed under section 90 or 91.
+
+[[^F101](2) The chairman and other members are to be selected as follows—
+
+(a) in the case of an appeal tribunal which is to sit in England and Wales, by the Lord Chief Justice of England and Wales after consulting the Lord Chancellor;
+
+(b) in the case of an appeal tribunal which is to sit in Scotland, by the Lord President of the Court of Session;
+
+(c) in the case of an appeal tribunal which is to sit in Northern Ireland, by the Lord Chief Justice of Northern Ireland after consulting the Lord Chancellor.
+
+(3) Where a tribunal which is hearing an appeal in respect of a determination of an application under regulations under section 78 or 79 requests it, a serving or retired officer of any regular service or reserve force may be appointed in accordance with subsection (4) to advise the tribunal on any relevant service matters.
+
+(4) The officer is to be appointed as follows—
+
+(a) in the case of an appeal tribunal which is sitting in England and Wales, by the Lord Chief Justice of England and Wales after consulting the Lord Chancellor;
+
+(b) in the case of an appeal tribunal which is sitting in Scotland, by the Lord President of the Court of Session;
+
+(c) in the case of an appeal tribunal which is sitting in Northern Ireland, the Lord Chancellor with the concurrence of the Lord Chief Justice of Northern Ireland.]
+
+### 92A [[^F102]Sections 90 to 92: supplementary
+
+(1) In sections 90 and 91 “appropriate senior judge”, in relation to the appointment of a person to be a member of a panel, means—
+
+(a) if the person is to be appointed to exercise functions wholly or mainly in relation to England and Wales, the Lord Chief Justice of England and Wales;
+
+(b) if the person is to be appointed to exercise functions wholly or mainly in relation to Scotland, the Lord President of the Court of Session;
+
+(c) if the person is to be appointed to exercise functions wholly or mainly in relation to Northern Ireland, the Lord Chief Justice of Northern Ireland.
+
+(2) The Lord Chief Justice of England and Wales may nominate a judicial office holder (as defined in section 109(4) of the Constitutional Reform Act 2005) to exercise any of his functions under sections 90 to 92.
+
+(3) The Lord President of the Court of Session may nominate a judge of the Court of Session may nominate a judge of the Court of Session who is a member of the First or Second Division of the Inner House of that Court to exercise any of his functions under sections 90 to 92.
+
+(4) The Lord Chief Justice of Northern Ireland may nominate any of the following to exercise any of his functions under sections 90 to 92—
+
+(a) the holder of one of the offices listed in Schedule 1 to the Justice (Northern Ireland) Act 2002;
+
+(b) a Lord Justice of Appeal (as defined in section 88 of that Act).]
+
+### 93 General power to make rules.
+
+(1) The Secretary of State may make rules with respect to the practice and procedure to be followed on appeals to appeal tribunals.
+
+(2) Rules under this section may, in particular, include provision—
+
+(a) limiting the time within which appeals may be brought;
+
+(b) specifying the parties to any proceedings;
+
+(c) allowing the chairman of an appeal tribunal to determine preliminary and incidental matters;
+
+(d) requiring persons to produce documents, to attend to give evidence, and to give evidence on oath;
+
+(e) as to the payment of expenses and allowances to persons producing documents or attending to give evidence;
+
+(f) enabling or requiring proceedings to be held in private;
+
+(g) as to the person who may represent the parties; and
+
+(h) as to the award and recovery of costs.
+
+(3) No person shall be required by any rules under this section to give any evidence or produce any document or other material at a hearing held by an appeal tribunal which he could not be compelled to give or produce in civil proceedings in any court in that part of the United Kingdom in which the hearing takes place.
+
+(4) Rules under this section shall be made by statutory instrument which shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+### 94 Offences in connection with appeals.
+
+(1) Any person who, in connection with an appeal to an appeal tribunal, knowingly or recklessly provides information which is false or misleading in a material particular is guilty of an offence.
+
+(2) Any person who without reasonable excuse—
+
+(a) fails to provide information in connection with an appeal to an appeal tribunal which he is required to provide by rules under section 93; or
+
+(b) fails to attend an appeal tribunal when required to do so by rules under that section,
+
+is guilty of an offence.
+
+(3) Any person guilty of an offence under this section is liable on summary conviction to imprisonment for a term not exceeding 6 months or a fine not exceeding level 5 on the standard scale (or both).
+
+## Part X — General Offences
+
+### Offences against good order and discipline
+
+#### 95 Offences against orders and regulations under section 4.
+
+(1) A member of a reserve force who—
+
+(a) when required by or in pursuance of orders or regulations under section 4 to attend at any place, fails without reasonable excuse to attend in accordance with the requirement;
+
+[^F103]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(c) by any fraudulent means obtains or is an accessory to the obtaining of any pay or other sum contrary to orders or regulations under section 4;
+
+(d) knowingly or recklessly makes a statement false in any material particular in giving any information required by orders or regulations under section 4; or
+
+(e) fails without reasonable excuse to comply with orders or regulations under section 4,
+
+is guilty of an offence [^F104]....
+
+[[^F105](1A) A member of a reserve force (“A”) commits an offence if—
+
+(a) a superior officer (“B”), in pursuance of orders or regulations under section 4, is acting in the execution of his office;
+
+(b) A's behaviour towards B is threatening or disrespectful; and
+
+(c) A knows or has reasonable cause to believe that B is a superior officer.
+
+(1B) For the purposes of subsection (1A)—
+
+(a) “superior officer” has the same meaning as in the Armed Forces Act 2006;
+
+(b) section 11(3) of that Act (meaning of “behaviour” and “threatening”) applies.
+
+(1C) An offence under this section is triable summarily by a civil court (as well as being triable by the Court Martial).]
+
+(2) A person guilty of an offence under this section is liable—
+
+(a) on conviction by [[^F106]the Court Martial—
+
+(i) in the case of an offence under subsection (1)(a) or (e) or (1A), to any punishment mentioned in rows 5 to [[^F107]14] of the Table in section 164 of the Armed Forces Act 2006;
+
+(ii) in the case of an offence under subsection (1)(c) or (d), to any punishment mentioned in that Table, but any sentence of imprisonment [^F108]... imposed in respect of the offence must not exceed 51 weeks;]
+
+(b) on summary conviction by a civil court—
+
+(i) in the case of an offence under subsection (1)(a)[^F109]... or (e) [[^F110]or (1A)], to a fine not exceeding level 3 on the standard scale; and
+
+(ii) in the case of an offence under subsection (1)(c) or (d), to imprisonment for a term not exceeding 6 months or a fine not exceeding level 5 on the standard scale (or both).
+
+[[^F111](2A) For the purposes of determining the Court Martial's powers when sentencing an offender to whom Part 2 of Schedule 3 to the Armed Forces Act 2006 applies (ex-servicemen etc) for an offence under subsection (1)(a) or (e) or (1A), subsection (2)(a)(i) has effect as if the reference to rows 5 to [[^F112]14] were to rows 5 to [[^F113]12].]
+
+[[^F114](3) In relation to an offence committed before the coming into force of section 281(5) of the Criminal Justice Act 2003, subsection (2)(a)(ii) has effect as if the reference to 51 weeks were to 6 months.]
+
+### Desertion and absence without leave from service, duty or training
+
+#### 96 Failure to attend for service on call out or recall.
+
+(1) A member of a reserve force served with a call-out notice under any provision of this Act who, without leave lawfully granted or reasonable excuse—
+
+(a) fails to present himself for service at the time and place specified in the call-out notice under section 32(3)(b), 43(4)(b) or 58(3)(c) (as the case may be);
+
+(b) having so presented himself, fails to remain there until accepted into service or informed that he is not to be accepted into service in pursuance of that notice; or
+
+(c) where he has for any reason failed to present himself at the time and place so specified or to remain there, fails —
+
+(i) to present himself to a person specified in the call-out notice or to any other authorised officer; or
+
+(ii) having so presented himself, to remain until accepted into service or informed that he is not to be accepted into service in pursuance of that notice,
+
+[[^F115]is guilty of desertion (if section 8(2)(a) or (b) of the Armed Forces Act 2006 applies to him) or absence without leave (if neither of those provisions applies to him).]
+
+(2) Subsection (1) applies to a person liable to recall as it applies to a member of a reserve force—
+
+(a) with the substitution for references to a call-out notice of references to a recall notice; and
+
+(b) as if paragraph (a) of that subsection referred to the time and place specified in the recall notice under section 70(3)(c).
+
+(3) An offence under this section is triable [[^F116]summarily by a civil court (as well as being triable by the Court Martial).]
+
+#### 97 Failure to attend for duty or training.
+
+(1) A member of a reserve force who has entered into a [^F117]full-time service [[^F117]section 24] commitment or an additional duties commitment and, without leave lawfully granted or reasonable excuse, fails to appear at the time and place at which he is required to attend—
+
+(a) in the case of a [^F118]full-time service [[^F118]section 24] commitment, to begin the period of [^F119]full-time service contemplated by the commitment;
+
+(b) in the case of an additional duties commitment, to begin a period of service under the commitment,
+
+[[^F120]is guilty of desertion (if section 8(2)(a) or (b) of the Armed Forces Act 2006 applies to him) or absence without leave (if neither of those provisions applies to him).]
+
+(2) A member of a reserve force who—
+
+(a) is required to undergo a period of training in accordance with section 22, a special agreement or an employee agreement (or any other requirement applicable to special members), and
+
+(b) fails, without leave lawfully granted or reasonable excuse, to appear at any time and place at which he is required to attend,
+
+is guilty of absence without leave.
+
+(3) An offence under this section is triable [[^F121]summarily by a civil court (as well as being triable by the Court Martial).]
+
+#### 98 Punishment etc. of offences of desertion or absence without leave.
+
+(1) An offence under [[^F122]section 8 or 9 of the Armed Forces Act 2006] (offences under service law of desertion or absence without leave) committed by a member of a reserve force is triable summarily by a civil court [[^F123](as well as being triable by the Court Martial)].
+
+(2) A member of a reserve force convicted by [[^F124]the Court Martial] of an offence under section 96(1) or 97(1) is punishable as for an offence under [[^F125]section 8 or 9 (as the case may be) of the Armed Forces Act 2006.]
+
+(3) A member of a reserve force convicted by a civil court of—
+
+(a) an offence under section 96(1) or 97(1), or
+
+(b) an offence under [[^F126]section 8 or 9 of the Armed Forces Act 2006],
+
+is liable to imprisonment for a term not exceeding 6 months or a fine not exceeding level 5 on the standard scale (or both).
+
+(4) A person convicted of an offence under section 97(2) is liable—
+
+(a) if convicted by [[^F127]the Court Martial], to the same punishment as for an offence under [[^F128]section 9 of the Armed Forces Act 2006];
+
+(b) if convicted by a civil court, to imprisonment for a term not exceeding 6 months or a fine not exceeding level 5 on the standard scale (or both).
+
+[^F129]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6) Where a member of a reserve force or a person liable to recall is convicted of an offence of desertion, the time which elapsed between the time of his desertion and the time of his apprehension or voluntary surrender shall not be taken into account in reckoning his service for the purpose of release from permanent service or discharge.
+
+[[^F130](7) Orders or regulations under section 4 may include provision for enabling a determination to be made in prescribed circumstances that subsection (6) is to cease to have effect in relation to a period of time or a part of a period of time.]
+
+#### [^F131]99 False pretence of illegal absence.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 100A [[^F132]Arrest by civilian police of deserters and absentees without leave
+
+(1) An officer of a UK police force may arrest without warrant a person who is reasonably suspected of being a member of a reserve force, or a person liable to recall, who has deserted or is absent without leave.
+
+(2) If an authorised person is satisfied by evidence given under oath or affirmation that a relevant suspect is or is reasonably suspected of being within his jurisdiction, he may issue a warrant for the arrest of the relevant suspect.
+
+(3) In subsection (2)—
+
+- “authorised person” means a person who has authority in England and Wales, Scotland or Northern Ireland to issue a warrant for the arrest of a person suspected of an offence;
+- “relevant suspect” means a person reasonably suspected of being a member of a reserve force, or a person liable to recall, who has deserted, is absent without leave or has committed an offence under section 95.
+
+(4) In this section “UK police force” has the meaning given by section 375 of the Armed Forces Act 2006.]
+
+#### 101 Inducing a person to desert or absent himself.
+
+(1) A person who, in the United Kingdom or elsewhere, by any means—
+
+(a) procures or persuades, or attempts to procure or persuade, a member of a reserve force to commit an offence of desertion or absence without leave;
+
+(b) knowing that a member of a reserve force is about to commit such an offence, aids or assists him in so doing; or
+
+(c) knowing a member of a reserve force to be a deserter or an absentee without leave, procures or persuades or assists him to remain a deserter or absentee, or assists in his rescue from custody,
+
+is guilty of an offence.
+
+(2) A person who—
+
+(a) procures or persuades, or attempts to procure or persuade, a person liable to recall to commit an offence of desertion or absence without leave;
+
+(b) knowing that such a person is about to commit such an offence, aids or assists him in so doing; or
+
+(c) knowing a person liable to recall to be a deserter or absentee without leave, procures or persuades or assists him to remain a deserter or absentee, or assists in his rescue from custody,
+
+is guilty of an offence.
+
+(3) A person guilty of an offence under subsection (1) or (2) is liable on summary conviction—
+
+(a) in the case of an offence involving an offence of desertion or a deserter, to imprisonment for a term not exceeding 6 months or a fine not exceeding level 5 on the standard scale (or both); and
+
+(b) in the case of an offence of absence without leave or an absentee without leave, to a fine not exceeding level 5 on the standard scale.
+
+#### [^F133]102 Record of illegal absence.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### General
+
+#### 103 Trial of offences as offences under service law.
+
+(1) Any offence which is by virtue of this Part triable by court-martial shall for all purposes of and incidental to the arrest, trial and punishment of the offender (including the summary disposal of the case by an officer having power to deal with the case) be deemed to be an offence under the [^M5]Army Act 1955, the [^M6]Air Force Act 1955 or the [^M7]Naval Discipline Act 1957, as the case may require.
+
+(2) References in those Acts to forfeitures and stoppages shall be construed in relation to any such offence as references to such forfeitures and stoppages as may be prescribed.
+
+#### 104 Jurisdiction of civil courts.
+
+(1) A civil court in the United Kingdom with jurisdiction in the place where a person is for the time being shall have jurisdiction to try him for any offence under this Part which is triable by such a court.
+
+(2) Subsection (1) applies notwithstanding that the alleged offence was committed outside the jurisdiction of the court, except that where it was committed in any part of the United Kingdom it shall be triable only by a court in that part of the United Kingdom.
+
+[^F134]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 105 Trial of offences by civil court.
+
+(1) Any offence to which this section applies [[^F135]is (as well as being triable by the Court Martial)] triable summarily by a civil court and punishable with imprisonment for a term not exceeding 3 months or a fine not exceeding level 4 on the standard scale (or both).
+
+[^F136]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) This section applies to [[^F137]any service offence (other than an offence under this Act or an offence mentioned in section 98(1))] committed by a member of a reserve force when not in permanent service under Part IV or Part V or under a call-out order.
+
+#### [^F138]106 Offences triable by court-martial or civil court.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 107 Time for institution of proceedings.
+
+(1) Proceedings against a person before [^F139]...
+
+[^F139]a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) a civil court,
+
+in respect of an offence under this Act or [[^F140]a service offence] and alleged to have been committed by him during his period of service in a reserve force may be instituted whether or not he has ceased to be a member of that reserve force.
+
+(2) Such proceedings may, notwithstanding anything in any other enactment, be instituted at any time within 2 months after—
+
+(a) the time at which the offence becomes known to his commanding officer; or
+
+(b) the time at which he is apprehended,
+
+whichever is later.
+
+[[^F141](3) Subsection (2) applies to proceedings for an offence under section 96(1) committed by a person liable to recall as it applies to proceedings mentioned in subsection (1) of this section.]
+
+#### 108 Evidence.
+
+[[^F142](1A) The Secretary of State may by regulations make provision with respect to evidence, including the admissibility of evidence, in proceedings before a civil court for an offence under this Act.
+
+(1B) Regulations under subsection (1A) shall be made by statutory instrument, which shall be subject to annulment in pursuance of a resolution of either House of Parliament.]
+
+(3) Where by virtue of any provision of this Act a document is admissible in evidence or is evidence of any matter stated in it in proceedings before a civil court in England and Wales, it shall be sufficient evidence of the matter so stated in such proceedings in Scotland.
+
+#### 109 Meaning of “civil court”.
+
+In this Part a reference to a civil court shall be construed as a reference—
+
+(a) in England and Wales, to a magistrates’ court;
+
+(b) in Scotland, to the sheriff sitting as a court of summary jurisdiction; and
+
+(c) in Northern Ireland, to a court of summary jurisdiction.
+
+## Part XI — Reserve Associations
+
+### 110 Establishment of associations for areas in the UK.
+
+(1) A territorial, auxiliary and volunteer reserve association (in this Part referred to as an “association”) may be established for any area in the United Kingdom determined by the Defence Council.
+
+(2) If the Defence Council alters the areas into which the United Kingdom has for the time being been divided for the purposes of subsection (1), the Defence Council may by order alter the area for which an existing association is established.
+
+(3) An order under subsection (2)—
+
+(a) may make supplemental, incidental and transitional provision (including provision as respects the transfer of property, rights and liabilities and financial adjustments); and
+
+(b) shall be made by statutory instrument which shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(4) In this section “the United Kingdom” includes the Channel Islands and the Isle of Man.
+
+### 111 Constitution of associations.
+
+(1) An association shall be constituted, and its members shall be appointed and hold office, in accordance with a scheme made by the Defence Council.
+
+(2) Schedule 4 (schemes made under subsection (1)) shall have effect.
+
+(3) The Secretary of State may by order make such modifications (whether by way of addition, substitution or otherwise) to Schedule 4 as he considers appropriate.
+
+(4) An order under subsection (3)—
+
+(a) may contain such supplemental, incidental and transitional provision as the Secretary of State considers appropriate; and
+
+(b) shall be made by statutory instrument which shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+### 112 General duties of associations.
+
+(1) It shall be the duty of an association to make itself acquainted with, and conform to, the plan of the Defence Council for the organisation within the area for which the association is established of—
+
+(a) Her Majesty’s land and air forces; and
+
+(b) the reserve naval and marine forces in so far as the plan relates to matters with respect to which functions are conferred on the association under section 113(1).
+
+(2) It shall also be the duty of an association to give advice and assistance in relation to the military and air-force resources and capabilities of the area for which the association is established to the Defence Council and to such officers as the Defence Council may direct.
+
+(3) The advice and assistance which an association may be required to give under subsection (2) includes advice or assistance relating to any matter in connection with—
+
+(a) local support for, or for the activities of, Her Majesty’s land and air forces, the reserve naval and marine forces and the cadet forces mentioned in section 113(1)(c); and
+
+(b) the availability of financial and material assistance (including land and buildings) for any activity or requirement of those forces or for any other defence purpose,
+
+which the association is requested to provide by the Defence Council or any officer mentioned in subsection (2).
+
+### 113 Powers and duties assignable to associations.
+
+(1) An association shall have such powers and duties connected with the organisation and administration of—
+
+(a) Her Majesty’s land and air forces;
+
+(b) the reserve naval and marine forces; or
+
+(c) the Army Cadet Force, the Air Training Corps, the Combined Cadet Force and the Sea Cadet Corps,
+
+as may for the time being be transferred or assigned to it by order of Her Majesty signified under the hand of the Secretary of State or, subject to such an order, by regulations under this Part.
+
+(2) The powers and duties which may be so transferred or assigned include any powers conferred on or vested in Her Majesty, and any powers or duties conferred or imposed on the Defence Council or the Secretary of State, by statute or otherwise, and in particular respecting the following matters—
+
+(a) the organisation of the units of the [[^F2]Army Reserve] and the Royal Auxiliary Air Force and their administration (including maintenance) at all times other than when training or on duty or when in permanent service;
+
+(b) the recruiting of members for the volunteer reserve forces;
+
+(c) the provision and maintenance of buildings, rifle ranges, magazines, sites of camps, aerodromes, landing grounds and hangars;
+
+(d) facilitating the provision of areas to be used for manoeuvres;
+
+(e) arranging with employers as to leave of absence for training, and ascertaining, after consultation with the representatives of the main employers in the area for which the association is established, the times of training which having regard to their businesses are best suited to the circumstances of civil life;
+
+(f) establishing or assisting cadet units and also rifle and aviation clubs;
+
+(g) the provision of transport for the peace-time requirements of the reserve forces;
+
+(h) providing accommodation for the safe custody of arms or equipment;
+
+(i) the supply of the requirements, when called out, of the units of the reserve forces within the area for which the association is established in so far as those requirements are directed by the Defence Council to be met locally;
+
+(j) the welfare of members and former members of Her Majesty’s land and air forces and of members and former members of the reserve naval and marine forces.
+
+(3) For the purposes of subsection (2)(i) the Defence Council shall make and issue to associations regulations specifying, so far as practicable, the requirements mentioned in that paragraph which are to be met locally.
+
+(4) An association shall not have any powers of command or training over any part of Her Majesty’s forces.
+
+(5) The members of an association shall not be under any pecuniary liability for any act done by them in their capacity as members in carrying out the provisions of this Part.
+
+### 113A [[^F143]Duty to prepare report on volunteer reserve forces
+
+(1) An association must prepare an annual report on the state of the volunteer reserve forces so far as concerns the area for which the association is established.
+
+(2) A report on the state of the volunteer reserve forces is a report that sets out the association's assessment of the capabilities of the volunteer reserve forces, having regard to the duties that may be imposed on members of those forces by or under this Act or any other enactment.
+
+(3) The assessment referred to in subsection (2) must, in particular, include the association's views on the effect of each of the following matters on the capabilities of the volunteer reserve forces—
+
+(a) the recruiting of members for the volunteer reserve forces;
+
+(b) the retention of members of those forces;
+
+(c) the provision of training for those forces;
+
+(d) the upkeep of land and buildings for whose management and maintenance the association is responsible.
+
+(4) A report under subsection (1) must also set out the association's assessment of the provision that is made as regards the mental welfare of members and former members of the volunteer reserve forces.
+
+(5) An association must send a report under subsection (1) to the Secretary of State—
+
+(a) in the case of the first report, before the first anniversary of the day on which the last Future Reserves 2020 report prepared before the coming into force of this section was presented to the Secretary of State, and
+
+(b) in the case of subsequent reports, before the anniversary of the day on which the first report was laid before Parliament under subsection (6).
+
+(6) On receiving a report under subsection (1), the Secretary of State must lay a copy of it before Parliament.
+
+(7) The duties under this section may, instead of being performed by an association, be performed by a joint committee appointed under section 116 by two or more associations in relation to their combined areas.
+
+(8) Where by virtue of subsection (7) a joint committee has the duty to prepare a report—
+
+(a) references in subsections (1) to (5) to an association are to be read as if they were to the joint committee, and
+
+(b) section 117(1)(a) (power to regulate manner in which functions are exercised) has effect as if the reference to associations were to the joint committee.
+
+(9) In subsection (5)(a), “Future Reserves 2020 report” means a report prepared by the External Scrutiny Group on the Future Reserves 2020 programme.]
+
+### 114 Expenses of associations.
+
+(1) The Defence Council shall pay to an association, out of money provided by Parliament, such sums as in the opinion of the Defence Council are required to meet the necessary expenditure incurred by the association.
+
+(2) An association—
+
+(a) shall annually at such time as may be specified in regulations under this Part; and
+
+(b) may at any other time for any special purpose,
+
+submit in such form and manner as may be so specified a statement of its necessary requirements to the Defence Council; and all payments under this section to an association shall be made upon the basis of such a statement, so far as approved by the Defence Council.
+
+(3) Subject to regulations under this Part, any money paid to an association by the Defence Council shall be applicable to any of the purposes specified in the approved statements in accordance with which money has been granted and, except with the written consent of the Defence Council or an officer authorised by or in accordance with directions of the Defence Council for the purpose of giving consents, shall not be applicable otherwise.
+
+(4) Nothing in this section shall be construed as enabling the Defence Council or an authorised officer to give consent to the application of money to any purpose to which, apart from this section, it could not lawfully be applied, or to give consent without the authority of the Treasury in any case in which, apart from this section, the authority of the Treasury would be required.
+
+(5) All money received by an association otherwise than from the Defence Council (except such money, if any, as may be received by the association for specified purposes) shall be available for the purposes of any of the powers and duties of the association.
+
+(6) The income from investments representing money originally received for the purposes of any of the reserve forces, or the cadet forces mentioned in section 113(1)(c), shall be applied only to that purpose, unless the Defence Council otherwise direct.
+
+### 115 Accounts of associations.
+
+(1) An association shall cause its accounts to be made up and audited annually in such manner as may be specified in regulations under this Part.
+
+(2) An association shall send copies of its accounts, together with any report of the auditors on them, to—
+
+(a) the Defence Council; or
+
+(b) such authority or person as may be directed by regulations under this Part.
+
+### 116 Joint committees of associations.
+
+(1) Two or more associations may from time to time join in appointing from among their respective members a joint committee for any purpose in respect of which they are jointly interested.
+
+(2) An association joining in appointing a joint committee under this section may delegate to it any power which such an association may exercise for the purpose for which the committee is appointed.
+
+(3) Subject to the terms of delegation, a joint committee appointed under this section shall in respect of any matter delegated to it have the same power in all respects as the associations appointing it.
+
+(4) The costs of such a joint committee shall be defrayed by the associations by whom it has been appointed in such proportion as may be agreed between them.
+
+(5) The accounts of such joint committees and their officers shall for the purposes of this Part be deemed to be accounts of the associations appointing them and of their officers.
+
+### 117 Regulations as to associations.
+
+(1) Regulations for carrying into effect the provisions of this Part as respects associations may be made by the Defence Council and such regulations may, in particular, provide for the following matters—
+
+(a) for regulating the manner in which powers are to be exercised and duties performed by associations, and for specifying the services to which money paid by the Defence Council is to be applicable;
+
+(b) for authorising and regulating the acquisition by or on behalf of associations of land for the purposes of this Part and the disposal of any land so acquired;
+
+(c) for authorising and regulating the borrowing of money by associations;
+
+(d) for authorising the acceptance of any money or other property, and the taking over of any liability, by associations, and for regulating the administration of any money or property so acquired and the discharge of any liability so taken over;
+
+(e) for facilitating the co-operation of an association with any other association or with any local authority or other body (whether by the constitution of joint committees or otherwise) and for the provision of assistance by one association to another;
+
+(f) for affiliating cadet units, rifle and aviation clubs and other bodies to any of the reserve forces or any part of any such force;
+
+(g) for or in respect of anything directed or authorised by any provision of this Part to be done or provided for by or in regulations or to be done in such manner as may be specified.
+
+(2) Regulations under this section made for the purposes of section 114 or 115 shall be subject to the Treasury’s consent.
+
+(3) Regulations under this section shall be laid before each House of Parliament after being made.
+
+### 118 Compensation of displaced employees.
+
+(1) The Secretary of State may make regulations providing for the payment by the Secretary of State of compensation to, or in respect of, any person who in the Secretary of State’s opinion falls within subsection (2) or (3).
+
+(2) A person falls within this subsection if he has ceased to be employed by an association established for the purposes of this Part, or has suffered a diminution in the emoluments of his employment by such an association, in consequence of—
+
+(a) the winding-up of the association;
+
+(b) any change in its activities or in the area for which it is established; or
+
+(c) any proposal for such a winding-up or change.
+
+(3) A person falls within this subsection if he—
+
+(a) has ceased to be employed by the body known as the Council of Territorial, Auxiliary and Volunteer Reserve Associations; or
+
+(b) has suffered a diminution in the emoluments of his employment by that body,
+
+in consequence of the winding-up of associations established for the purposes of this Part or of changes in their activities or the areas for which they are established.
+
+(4) Regulations under this section shall be made by statutory instrument which shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+### 119 Winding-up of associations.
+
+(1) The Defence Council may make an order providing for the winding-up of an association.
+
+(2) An order under subsection (1)—
+
+(a) may make supplemental, incidental and transitional provision (including provision as respects the transfer of property, rights and liabilities and financial adjustments); and
+
+(b) shall be made by statutory instrument which shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+## Part XII — Miscellaneous and General
+
+### Miscellaneous
+
+#### 120 Disbanding of units: charitable property.
+
+Schedule 5 (treatment of charitable property held for purposes of any body of a reserve force which has been, or is to be, disbanded or amalgamated with another body) shall have effect.
+
+#### [^F144]121 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 122 Safeguard of employment for members of reserve forces.
+
+(1) The [^M8]Reserve Forces (Safeguard of Employment) Act 1985 shall be amended as follows.
+
+(2) For subsection (1) of section 1 (obligation to reinstate) there shall be substituted the following subsections—
+
+> (1) This section applies to any person who is in permanent service under—
+>
+> (a) Part IV (special agreements for call out) or Part V (special members) of the Reserve Forces Act 1996;
+>
+> (b) a call-out order under Part VI of that Act (orders authorising general call out of members of reserve forces); or
+>
+> (c) a recall order under section 68 (recall of officers and former servicemen) of that Act.
+>
+> (1A) In this Act “whole-time service” means permanent service to which this section applies.
+
+(3) For subsection (1) of section 17 (prohibition of dismissal for liability to whole-time service) there shall be substituted the following subsection—
+
+> (1) If the employer of a person who may be required to enter upon a period of whole-time service—
+>
+> (a) terminates that person’s employment without his consent at any time when he is not in that service, and
+>
+> (b) does so solely or mainly by reason of any duties or liabilities which that person may be liable to perform or discharge—
+>
+> (i) if required to report at any time or place with a view to entering into whole-time service; or
+>
+> (ii) if he enters upon a period of whole-time service,
+>
+> the employer is guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+(4) In section 20(1) (interpretation), for the definition of “whole-time service” there shall be substituted the following definition—
+
+> “whole-time service” has the meaning given by section 1(1A).
+
+(5) For subsections (3) and (4) of section 20 (interpretation) there shall be substituted the following subsection—
+
+> (3) A period of whole time service shall not be regarded as having ceased by reason of any absence on leave (including sick leave or maternity leave) before release from service or discharge.
+
+(6) The amendments made by this section do not affect the operation of the [^M9]Reserve Forces (Safeguard of Employment) Act 1985 in its application to persons liable to be called out or recalled for permanent service under the [^M10]Reserve Forces Act 1980 or officers liable to be called out or recalled otherwise than under this Act.
+
+#### [^F145]123 Billeting.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F146]124 Exemption from tolls etc.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 125 Absence for voting.
+
+No member of a reserve force shall be liable, when not in permanent service, to any penalty or punishment on account of his absence from duty in the United Kingdom for voting at—
+
+(a) any election of a Member of Parliament [[^F147]a Member of the Scottish Parliament] [[^F148], a Member of the National Assembly for Wales,] [[^F149]or a Member of the Northern Ireland Assembly], or
+
+(b) any local election,
+
+or going to or returning from such voting.
+
+#### 125A [[^F150]Supply of contact details by HMRC
+
+(1) This subsection applies to contact details for—
+
+(a) a member of an ex-regular reserve force, or
+
+(b) a person to whom section 66 (officers and former servicemen liable to recall) applies,
+
+which are held by HMRC in connection with a function of HMRC.
+
+(2) HMRC may supply contact details to which subsection (1) applies to the Secretary of State for the purpose of enabling the Secretary of State—
+
+(a) to contact a member of an ex-regular reserve force in connection with the person's liability, or potential liability, to be called out for service under Part 6;
+
+(b) to contact a person to whom section 66 applies in connection with the person's liability, or potential liability, to be recalled for service under Part 7.
+
+(3) Where a person's contact details are supplied under subsection (2) for a purpose described in that subsection, they may also be used for defence purposes connected with the person's service (whether past, present or future) in the reserve forces or regular services.
+
+(4) In this section, “HMRC” means Her Majesty's Revenue and Customs.]
+
+#### 125B [[^F150]Prohibition on disclosure of contact details supplied under section 125A
+
+(1) A person who receives information supplied under section 125A may not disclose it except with the consent of the Commissioners for Her Majesty's Revenue and Customs (which may be general or specific).
+
+(2) A person who contravenes subsection (1) is guilty of an offence.
+
+(3) It is a defence for a person charged with an offence under this section to prove that the person reasonably believed—
+
+(a) that the disclosure was lawful, or
+
+(b) that the information had already lawfully been made available to the public.
+
+(4) Subsections (4) to (7) of section 19 of the Commissioners for Revenue and Customs Act 2005 apply to an offence under this section as they apply to an offence under that section.
+
+(5) Nothing in section 107 or 108 (institution of proceedings and evidence) applies in relation to an offence under this section.]
+
+#### 125C [[^F150]Data protection
+
+(1) Nothing in section 125A or 125B authorises the making of a disclosure which contravenes the data protection legislation.
+
+(2) In this section, “the data protection legislation” has the same meaning as in the Data Protection Act 2018 (see section 3 of that Act).]
+
+#### [^F151]126 Postponement of transfer to the reserve or discharge of servicemen.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### General
+
+#### 127 Interpretation.
+
+(1) In this Act—
+
+“additional duties commitment” means a commitment under section 25;
+
+“call-out order” has the meaning given by section 64;
+
+“the ex-regular reserve forces” has the meaning given by section 2(2);
+
+[^F152]“[^F152]full-time service commitment[^F152]” means a commitment under section 24;
+
+“man” (except in Part VII) has the meaning given by section 2(4);
+
+[^F153]. . .
+
+“prescribed” means (except in Part VII) prescribed by orders or regulations under section 4;
+
+“recall” and “recall order” have the meanings given by section 77;
+
+[^F154]...
+
+[[^F155]“the regular army” has the meaning given by section 374 of the Armed Forces Act 2006;]
+
+“regular services” means the Royal Navy, the Royal Marines, the regular army or the [[^F156]Royal Air Force];
+
+“the reserve forces”, “the reserve naval and marine forces”, “the reserve land forces” and “the reserve air forces” have the meaning given by section 1(2);
+
+“reserve marine force” means the Royal Marines Reserve;
+
+[[^F157]“ section 24 commitment ” means a commitment under section 24;]
+
+[[^F158]“service offence” has the meaning given by section 50 of the Armed Forces Act 2006;]
+
+“special member” means a member of a reserve force who is, by virtue of Part V, a special member of that force;
+
+“term of compulsory service” has the meaning given by section 13(7);
+
+“the volunteer reserve forces” has the meaning given by section 2(3).
+
+(2) Any reference in this Act to a member of a reserve force or a member of the reserve forces is to an officer in, or a man of, that force or any of those forces, as the case may be.
+
+[[^F159](3) The officer who is the “commanding officer” of a person for the purposes of any provision of this Act shall be determined by or under regulations made by the Defence Council under this subsection.
+
+(4) Section 164(2) and (3) of the Armed Forces Act 2006 apply in relation to section 95(2)(a) of, and paragraph 5(3) of Schedule 1 to, this Act.]
+
+#### 128 Transitory provisions.
+
+Schedule 8 (transitory and transitional provisions relating to the organisation of the reserve forces as maintained under the [^M11]Reserve Forces Act 1980) shall have effect.
+
+#### 129 Application of Act to [[^F160]members of transitional classes].
+
+(1) Schedule 9 shall have effect with respect to the application of this Act in relation to members of the reserve forces who are members of [[^F161]—
+
+(a) the original transitional class (see Parts 1 and 2 of that Schedule), or
+
+(b) the second transitional class (see Parts 3 and 4 of that Schedule).]
+
+(2) Nothing in the Reserve Forces Act 1980 shall apply to a member of a reserve force who is not a member of [[^F162]the original transitional class] or, in the case of a person who is to be transferred to the reserve from the regular services, is not capable of becoming a member of [[^F162]the original transitional class].
+
+(3) [[^F163]In this Act— “the original transitional class”], in relation to members of the reserve forces, shall be construed in accordance with Part I of Schedule 9;
+
+[[^F164]“the second transitional class”, in relation to members of the reserve forces, shall be construed in accordance with Part 3 of Schedule 9.]
+
+#### 130 Power to make transitional, consequential etc. provisions.
+
+(1) The Secretary of State may by regulations make such transitional and consequential provisions and such savings as he considers necessary or expedient in preparation for, in connection with, or in consequence of—
+
+(a) the coming into force of any provision of this Act; or
+
+(b) the operation of any enactment repealed or amended by a provision of this Act during any period when the repeal or amendment is not wholly in force.
+
+(2) Regulations under this section—
+
+(a) may make modifications of any enactment contained in this or in any other Act;
+
+(b) shall be made by statutory instrument which shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+#### 131 Consequential amendments and repeals.
+
+(1) Schedule 10 (consequential amendments) shall have effect.
+
+(2) The enactments specified in Schedule 11 (which include some that are spent) are repealed to the extent specified.
+
+#### 132 Short title, extent and commencement.
+
+(1) This Act may be cited as the Reserve Forces Act 1996.
+
+(2) This Act extends to Northern Ireland.
+
+(3) Her Majesty may by Order in Council direct that any of the provisions of this Act shall extend, with such exceptions and modifications as appear to Her Majesty to be appropriate, to the Channel Islands and the Isle of Man.
+
+(4) This Act shall come into force on such day as the Secretary of State may by order made by statutory instrument appoint; and different days may be appointed for different purposes.
+
+## SCHEDULE 1 — Enlistment
+
+*Section 9.*
+
+### Conditions for enlistment
+
+**1** (1) An enlisting officer shall not enlist any person as a man in a reserve force unless he is satisfied that the person concerned has been given a notice under sub-paragraph (2), understands it and wishes to be enlisted.
+
+(2) A person offering to enlist shall be given a notice in such form as may be prescribed setting out the questions to be answered on attestation and stating the general conditions of the engagement to be entered into by him and such other matters as may be prescribed.
+
+(3) The attestation paper to be used for the purpose of attesting recruits to a reserve force shall be in such form as may be prescribed.
+
+**2** [[^F165](1) An enlisting officer shall not enlist a person under the age of 18 unless consent to the enlistment has been given in writing by—
+
+(a) an appropriate person; or
+
+(b) if the person offering to enlist is living with more than one appropriate person, each of those appropriate persons.
+
+[[^F165](1A) In this paragraph “appropriate person” means, in relation to a person offering to enlist, a person with—
+
+(a) parental responsibility (within the meaning of the Children Act 1989 or the Children (Northern Ireland) Order 1995) for him; or
+
+(b) parental responsibilities (within the meaning of section 1(3) of the Children (Scotland) Act 1995) in relation to him.]
+
+(2) Where the enlisting officer is satisfied, by the production of a certified copy of an entry in the register of births or by any other evidence appearing to him to be sufficient, that a person offering to enlist has or has not attained the [[^F166]age of 18], that person shall be deemed for the purposes of this Act to have attained, or as the case may be, not to have attained, that age.
+
+(3) A document purporting to be a certificate signed by the enlisting officer, stating that he is satisfied as mentioned in sub-paragraph (2), shall be sufficient evidence, until the contrary is proved, that he was so satisfied.]
+
+### Procedure on attestation
+
+**3** (1) The procedure for enlisting a person (in this paragraph referred to as “the recruit”) in a reserve force is as follows.
+
+(2) The enlisting officer shall warn the recruit that if he makes any false answers to the questions to be read out to him he will be liable to be punished as provided by this Act.
+
+(3) He shall then read, or cause to be read, to the recruit the questions set out in the attestation paper and satisfy himself that he understands each of those questions and that his answers have been duly recorded in the attestation paper.
+
+(4) He shall then ask the recruit to make and sign the declaration set out in the attestation paper as to the truth of the answers and shall administer to him the oath of allegiance as set out in the attestation paper.
+
+(5) Upon signing the declaration and taking the oath the recruit shall become a man of the reserve force in question.
+
+(6) The enlisting officer shall by signature attest, in the manner required by the attestation paper, that the requirements of this Act as to the attestation of the recruit have been carried out and deliver the attestation paper duly dated to such person as may be prescribed.
+
+(7) When, in accordance with orders or regulations under section 4, the recruit is finally approved for service, the officer by whom he is approved shall at his request furnish him with a certified copy of the attestation paper.
+
+### Validity of attestation and enlistment
+
+**4** (1) This paragraph applies where a person has signed the declaration required by paragraph 3.
+
+(2) The validity of the person’s enlistment shall not be called in question on the ground of any error or omission in his attestation paper.
+
+(3) If within 3 months from the date on which the person signed the declaration he claims that his enlistment is invalid—
+
+(a) by reason of any non-compliance with the requirements of this Act as to enlistment or attestation; or
+
+(b) on any other ground whatsoever (not being an error or omission in his attestation paper) on which apart from this sub-paragraph the validity of his enlistment could have been called in question,
+
+the claim shall be submitted as soon as may be to the Defence Council, and, if the claim is well founded, the Defence Council shall cause him to be discharged with all convenient speed.
+
+(4) If when the person signed the declaration he had not attained the [[^F167]age of 18], and within 3 months from the date on which he signed the declaration he, or any person whose consent to the enlistment was required under paragraph 2(1) but who did not duly consent, claims that his enlistment is invalid—
+
+(a) by reason of any non-compliance with the requirements of this Act as to enlistment or attestation; or
+
+(b) on any other ground whatsoever (not being an error or omission in his attestation paper) on which apart from this sub-paragraph the validity of his enlistment could have been called in question,
+
+the claim shall be submitted as soon as may be to the Defence Council, and, if the claim is well founded, the Defence Council shall cause him to be discharged with all convenient speed.
+
+(5) If no claim under sub-paragraph (3) or (4) is made within 3 months from the date on which he signed the declaration, the person shall be deemed to have been validly enlisted notwithstanding any such non-compliance or other grounds as aforesaid.
+
+(6) Notwithstanding any such non-compliance or other grounds as aforesaid, or the making of a claim under sub-paragraph (3) or (4), the person shall be deemed to be a man of the reserve force in question until his discharge.
+
+(7) Nothing in this paragraph shall be construed as prejudicing the determination of any question as to the term for which a person was enlisted or as preventing the discharge of a person who has not claimed his discharge.
+
+### False answers in attestation papers
+
+**5** (1) Any person appearing before an enlisting officer for the purpose of being attested who knowingly [^F168]... makes a false answer to any question contained in the attestation paper and put to him by or by the direction of the enlisting officer is guilty of an offence.
+
+(2) A person guilty of an offence under sub-paragraph (1) is liable on summary conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding level 4 on the standard scale (or both); and he may be proceeded against summarily notwithstanding that he has since become [[^F169]a member of the reserve forces].
+
+(3) A person guilty of an offence under sub-paragraph (1) who [[^F170]becomes a member of the reserve forces is liable on conviction by the Court Martial to any punishment mentioned in rows 2 to [[^F171]14] of the Table in section 164 of the Armed Forces Act 2006.]
+
+[[^F172](4) For the purposes of determining the Court Martial's powers when sentencing an offender to whom Part 2 of Schedule 3 to the Armed Forces Act 2006 (ex-servicemen etc) applies for an offence under sub-paragraph (1), sub-paragraph (3) has effect as if the reference to rows 2 to [[^F173]14] were to rows 2 to [[^F174]12].
+
+(5) Where an offence under sub-paragraph (1) is committed by a person within sub-paragraph (3), the time for which he is for the purposes of section 62 of the Armed Forces Act 2006 (time limits for charging) to be regarded as being a relevant reservist (within the meaning of that section) includes the period from (and including) the time he committed the offence to the time he became a member of the reserve forces.]
+
+### Evidence as to attestation papers
+
+**6** (1) With respect to evidence in proceedings under Part X, whether before [[^F175]the Court Martial], a civil court or otherwise—
+
+(a) a document purporting—
+
+(i) to be a copy of the attestation paper signed by any person; and
+
+(ii) to be certified to be a true copy by a person stated in the certificate to have the custody of the attestation paper,
+
+shall be evidence of the enlistment of the person attested; and
+
+(b) the attestation paper purporting to be signed by a person on his enlistment shall be evidence of his having given the answers to questions which he is recorded in that paper as having given.
+
+(2) In this paragraph “civil court” has the same meaning as in Part X.
+
+### [^F176]...
+
+**[^F177][^F176]7** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## [^F178]SCHEDULE 2 — Deserters and absentees without leave
+
+*Section 100.*
+
+### [^F178] Preliminary
+
+**[^F178]1** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F178] Arrest
+
+**[^F178]2** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F178] Proceedings before a civil court where persons suspected of illegal absence
+
+**[^F178]3** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F178]4** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F178]5** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F178] Surrender to police
+
+**[^F178]6** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F178] Certificates of arrest or surrender
+
+**[^F178]7** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F178]8** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F178]9** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F178] Duties of governors of prisons and others to receive deserters and absentees
+
+**[^F178]10** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## [^F179]SCHEDULE 3 — Evidence
+
+*Section 108.*
+
+### [^F179] General provisions as to evidence
+
+**[^F179]1** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F179]2** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F179]3** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F179]4** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F179]5** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F179]6** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F179]7** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F179] Proceedings for offences under section 95
+
+**[^F179]8** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F179] Proof of outcome of civil trial
+
+**[^F179]9** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 4 — Provisions of schemes for the constitution of associations
+
+*Section 111.*
+
+**1** (1) A scheme for the constitution of an association (“a scheme”) shall provide—
+
+(a) for the date of the establishment of the association;
+
+(b) for the incorporation of the association by an appropriate name;
+
+(c) for appointment as members of the association of naval members, marine members, military members and air force members;
+
+(d) for the appointment as members of the association by the Defence Council, after consultation with, and on the recommendation of, the bodies to be represented, of representatives of such of the local authorities wholly or partly within the area for which the association is established as the Defence Council may from time to time determine;
+
+(e) for the mode of appointment, dismissal, term of office and rotation of members of the association and the filling of casual vacancies;
+
+(f) for the election of a chairman and a vice-chairman or vice-chairmen by the association and for defining their powers and duties;
+
+(g) for the appointment by the association, subject to the approval of the Defence Council, of a secretary and other officers and members of the staff of the association;
+
+(h) for the procedure to be adopted, including the appointment of committees and the delegation to committees of any of the powers or duties of the association;
+
+(i) for enabling flag, general or air officers of any part of Her Majesty’s forces, or officers deputed by them, to attend the meetings of the association, and to speak but not to vote.
+
+(2) A scheme shall secure that the aggregate number of naval members, marine members, military members and air force members are not less than half of the whole number of members of the association.
+
+(3) A secretary or other officer or member of the staff who is in the employment of the association by virtue of the provisions of an order made by the Defence Council in exercise of the powers conferred upon the Defence Council by section 119 shall be deemed for the purposes of sub-paragraph (1)(g) above (and the corresponding purposes of the scheme concerned) to have been appointed by the association.
+
+**2** A scheme for an association in England and Wales or Northern Ireland (but not for an association established for an area that includes Greater London) shall provide—
+
+(a) for constituting as president of the association the lord-lieutenant of one of the counties or parts of counties for which the association is established, as the Defence Council may from time to time think fit, or, failing any of those lord-lieutenants, such other person as the Defence Council may think fit; and
+
+(b) for constituting as vice-presidents of the association the lord-lieutenants of any of those counties or parts of counties (if they are willing to act) and such other persons (if any) as the Defence Council may think fit.
+
+**3** A scheme for an association in Scotland shall provide—
+
+(a) in the case where an association area coincides with a local government area or where a local government area contains two or more association areas, for the selection by the Defence Council of the president and vice-presidents of the association from the lord-lieutenants residing in the local government area or from such other persons as the Defence Council may think fit; or
+
+(b) in the case where an association area falls within two or more local government areas, for the selection by the Defence Council of the president and vice-presidents of the association from the lord-lieutenants residing in those local government areas or from such other persons as the Defence Council may think fit.
+
+**4** A scheme for an association established for an area including Greater London shall provide for constituting the lord-lieutenant of Greater London or, failing him, such other person as the Defence Council may think fit, president of the association.
+
+**5** A scheme may provide—
+
+(a) for the appointment as members of the association by the Defence Council, of representatives of universities whose activities are carried on wholly or partly within the area for which the association is established;
+
+(b) for the appointment as members of the association by the Defence Council, of persons representing the Army Cadet Force, the Air Training Corps, the Combined Cadet Force and the Sea Cadet Corps;
+
+(c) for the appointment as members of the association by the Defence Council, of persons representing employers, and persons employed, in the area for which the association is established;
+
+(d) for the appointment of co-opted members;
+
+(e) for dividing the area for which the association is established into two or more parts and for establishing sub-associations for any of the parts; and
+
+(f) for delegating to a sub-association such of the powers and duties of the association as may be approved by the Defence Council and regulating the relations of a sub-association to the association and, where any association has established more than one sub-association, regulating the relations of one sub-association to another.
+
+**6** A scheme shall provide that of the chairman and the vice-chairman or vice-chairmen at least one shall be a naval or marine member of the association and at least one shall be a military member of the association and at least one an air force member of the association.
+
+**7** A scheme may contain any consequential, supplemental or transitory provisions which may appear to be necessary or expedient for the purposes of the scheme, and also as respects any matter for which provision may be made by regulations under Part XI and for which it appears desirable to make special provision affecting the association established by the scheme.
+
+**8** (1) A scheme for an association established for an area including or including any part of the counties of Kent, East Sussex and West Sussex may provide that the Lord Warden of the Cinque Ports shall ex-officio be a member of the association.
+
+(2) A scheme for an association established for an area including or including any part of the counties of Devon and Cornwall may provide that the Warden of the Stannaries shall ex-officio be a member of the association.
+
+**9** (1) The Governor of the Isle of Wight shall ex-officio be a member of an association established for an area including the Isle of Wight.
+
+(2) The Lieutenant-Governor of the Isle of Man shall ex-officio be a member of an association established for an area including the Isle of Man.
+
+(3) The Lord Mayor of the City of London shall ex-officio be president of a sub-association established for the City of London.
+
+**10** In this Schedule—
+
+“air force member” means one who is a member or former member of Her Majesty’s air forces or who is specially qualified by his interest in and knowledge of matters relating to aviation;
+
+“county” means, in relation to Wales, a preserved county (as defined by section 64 of the [^M12]Local Government (Wales) Act 1994);
+
+“marine member” means one who is a member or former member of the Royal Marines or the Royal Marines Reserve or who is specially qualified by his interest in and knowledge of matters affecting marine forces;
+
+“military member” means one who is a member or former member of Her Majesty’s military forces or who is specially qualified by his interest in and knowledge of military matters;
+
+“naval member” means one who is a member or former member of the Royal Navy or the Royal Naval Reserve or who is specially qualified by his interest in and knowledge of naval matters.
+
+## SCHEDULE 5 — Charitable property on disbanding of units
+
+*Section 120.*
+
+### Part I — Preliminary
+
+#### Designation of successor to disbanded unit
+
+**1** (1) A warrant of Her Majesty may designate, for the purposes of this Schedule, any unit of a reserve force as the successor to any unit or other body of the same or any other reserve force which has been or is to be disbanded.
+
+(2) The Secretary of State shall send a copy of any such warrant to—
+
+(a) [[^F180]the Charity Commission] ;
+
+[^F181]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(c) the Department of Health and Social Services for Northern Ireland; and
+
+(d) a trustee of each charity in England and Wales or Northern Ireland, or a person concerned in the management or control of each recognised body, affected by the warrant by virtue of the following provisions of this Schedule.
+
+(3) A copy of a warrant required to be sent under this paragraph may be sent by post; and any such copy shall be sent so as to arrive on or before the day on which the warrant comes into force and, in any event, not more than 14 days from the day on which the warrant is made.
+
+#### General interpretation
+
+**2** In this Schedule—
+
+- “disbanded unit” means a unit for which a successor is designated under paragraph 1;
+
+  “charity” has the [^M13]same meaning (in relation to England and Wales) [[^F182]as it has under section 1(1) of the Charities Act 2011] and (in relation to Northern Ireland) as in the [^M14]Charities Act (Northern Ireland) 1964;
+
+  “recognised body” has the same meaning as in Part I of the [^M15]Law Reform (Miscellaneous Provisions) (Scotland) Act 1990;
+
+  “warrant” means a warrant making such a designation,
+
+and references to disbandment of a body of a reserve force (however expressed) include references to its amalgamation with another unit or body.
+
+### Part II — Succession to charitable property: England and Wales
+
+#### Effect of designation of successor to disbanded unit
+
+**3** (1) On and after the day on which a warrant comes into force, any charitable property which is held for the purposes of the disbanded unit in question shall (subject to the provisions of this Part of this Schedule) be held for the corresponding purposes, or most nearly corresponding purposes, of the successor unit designated by the warrant.
+
+(2) In this Part of this Schedule “charitable property” means any property belonging to a charity.
+
+(3) The same jurisdiction and powers shall be exercisable in relation to any charity owning property to which sub-paragraph (1) applies as would be exercisable if that sub-paragraph were not a provision of an Act of Parliament regulating that charity.
+
+#### Exclusion of charitable property from paragraph 3
+
+**4** (1) If [[^F183]Charity Commission considers] that paragraph 3(1) should not apply to all or any of the charitable property held for the purposes of a disbanded unit, [[^F184]it] may make an order providing that paragraph 3(1) shall not apply or shall cease to apply to that property or part.
+
+(2) An order under this paragraph may be made at any time within the period of 6 months beginning with the day on which the warrant is made.
+
+**5** (1) If a charity affected by a warrant or any trustee of, or person interested in, such a charity considers that paragraph 3(1) should not apply to all or any of the property held by the charity for the purposes of the disbanded unit in question, then the charity, trustee or person interested, as the case may be, may apply to the court for an order providing that paragraph 3(1) shall cease to apply to that property or part.
+
+[[^F185](2) An application under this paragraph—
+
+(a) may be made at any time within the period of 6 months beginning with the day on which the warrant comes into force; and
+
+(b) is subject to subsections (2) to (5) of section 115 of the Charities Act 2011 (proceedings not to be begun without the consent of the Charity Commission or leave of a judge of the High Court),
+
+and for the purposes of subsection (5) of that section an application for an order of the Commission authorising proceedings under this paragraph is deemed to be refused if it is not granted during the period of one month beginning with the day on which the application is received by the Commission.
+
+(3) In this paragraph “the court” has the same meaning as in the Charities Act 2011.]
+
+#### Application of property otherwise than under paragraph 3
+
+**[[^F186]6** In any case where—
+
+(a) the Secretary of State requests the Charity Commission to make provision with respect to any charitable property which is held for the purposes of a unit of a reserve force that has been or is to be disbanded, or
+
+(b) an order is made under paragraph 4 or 5 excluding any charitable property so held from the operation of paragraph 3(1),
+
+the Commission may, regardless of anything in section 70(2) of the Charities Act 2011 (limit on jurisdiction to make schemes etc. for the protection of charities), exercise its jurisdiction under section 69 with respect to the property to which the request or order relates.]
+
+#### Validity of certain acts by trustees
+
+**7** Neither a warrant nor any order under paragraph 4 or 5 shall affect the validity of anything done or omitted with respect to any property affected by the warrant or order before a copy of the warrant or order is received by a trustee of the charity in question.
+
+#### Saving for interests in property contingent on disbandment of unit
+
+**8** Nothing in this Part of this Schedule applies to any property held by a charity for the purposes of a unit that has been or is to be disbanded if, under the terms on which the property is so held—
+
+(a) any interest of the charity in the property is determined on the disbanding of that unit; and
+
+(b) any other person or charity has an interest in the property contingent upon the determination of the interest of the charity.
+
+### Part III — Succession to charitable property: Scotland
+
+#### Effect of designation of successor to disbanded unit
+
+**9** (1) On and after the day on which a warrant comes into force, any charitable property which is held for the purposes of the disbanded unit in question shall (subject to the provisions of this Part of this Schedule) be held for the corresponding purposes, or most nearly corresponding purposes, of the successor unit designated by the warrant.
+
+(2) In this Part of this Schedule “charitable property” means any property belonging to a recognised body.
+
+#### Exclusion of charitable property from paragraph 9
+
+**10** (1) If the Lord Advocate considers that paragraph 9 should not apply to all or any of the charitable property held for the purposes of a disbanded unit, he may give a direction providing that paragraph 9 shall not apply or shall cease to apply to that property or part.
+
+(2) A direction under this paragraph may be given at any time during the period of 6 months beginning with the day on which the warrant is made.
+
+**11** (1) If a recognised body affected by a warrant or any person concerned in the management or control of, or interested in, such a body considers that paragraph 9 should not apply to all or any of the charitable property held by the recognised body for the purposes of the disbanded unit in question, then the recognised body, person concerned in its management or control or person interested, as the case may be, may apply by petition to the Court of Session for the court to make an order—
+
+(a) providing that paragraph 9 shall cease to apply to that property or part; and
+
+(b) exercising, with respect to that property or part, any of the court’s powers relating to a charitable or other permanent endowment.
+
+(2) On an application under sub-paragraph (1), the court may exercise any such power as is mentioned in sub-paragraph (1)(b) to make such order as it considers to be appropriate, whether or not that power would normally be exercisable at the instance of such a petitioner.
+
+(3) An application under this paragraph may be made at any time within the period of 6 months beginning with the day on which the warrant comes into force.
+
+#### Power of Lord Advocate to apply to Court of Session
+
+**12** (1) Where a body of a reserve force has been or is to be disbanded, the Lord Advocate —
+
+(a) if he has not given a direction under paragraph 9, may; and
+
+(b) if he has given such a direction, shall,
+
+apply by petition to the Court of Session for the court to make an order exercising, with respect to any charitable property which is held for the purposes of the disbanded unit, any of the court’s powers relating to a charitable or other permanent endowment.
+
+(2) On an application under sub-paragraph (1), the court may, subject to any such direction, exercise any such power to make such order as it considers to be appropriate, whether or not that power would normally be exercisable at the instance of the Lord Advocate.
+
+#### Validity of certain acts
+
+**13** None of the following, that is to say, a warrant, a direction under paragraph 10 or an order under paragraph 11 or 12 shall affect the validity of anything done or omitted with respect to any property affected by the warrant, direction or order before a copy of the warrant, direction or order is received by a person concerned in the management or control of the recognised body in question.
+
+#### Saving for interests in property contingent on disbandment of unit
+
+**14** Nothing in this Part of this Schedule applies to any property held by a recognised body for the purposes of a unit that has been or is to be disbanded if, under the terms on which the property is so held—
+
+(a) any interest of the recognised body in the property is determined on the disbanding of that unit; and
+
+(b) any other person or recognised body has an interest in the property contingent upon the determination of the interest of the recognised body.
+
+### Part IV — Succession to charitable property: Northern Ireland
+
+#### Effect of designation of successor to disbanded unit
+
+**15** (1) On and after the day on which a warrant comes into force, any charitable property which is held for the purposes of the disbanded unit in question and administered for those purposes according to the law of Northern Ireland shall (subject to the provisions of this Part of this Schedule) be held for the corresponding purposes, or most nearly corresponding purposes, of the successor unit designated by the warrant.
+
+(2) In this Part of this Schedule “charitable property” means any property belonging to a charity.
+
+(3) The same jurisdiction and powers shall be exercisable in relation to any charity owning property to which sub-paragraph (1) applies as would be exercisable if that sub-paragraph were not a provision of an Act of Parliament regulating the charity.
+
+#### Exclusion of charitable property from paragraph 15
+
+**16** (1) If the Department of Health and Social Services for Northern Ireland considers that paragraph 15(1) should not apply to all or any of the charitable property held for the purposes of a disbanded unit, that Department may make an order providing that paragraph 15(1) shall not apply or shall cease to apply to that property.
+
+(2) An order under this paragraph may be made at any time during the period of 6 months beginning with the day on which the warrant is made.
+
+**17** (1) If a charity affected by a warrant or any trustee of, or person interested in, such a charity considers that paragraph 15(1) should not apply to all or any of the property held by the charity for the purposes of the disbanded unit in question, then the charity, trustee or person interested, as the case may be, may apply to the court for an order providing that paragraph 15(1) shall cease to apply to that property or part.
+
+(2) An application under this paragraph—
+
+(a) may be made at any time within the period of 6 months beginning with the day on which the warrant comes into force; and
+
+(b) is subject to section 29(3) of the [^M16]Charities Act (Northern Ireland) 1964 (under which an application for an order of the court in connection with the administration of a charity may not be made without the consent of the Attorney General for Northern Ireland).
+
+(3) In this paragraph “the court” has the same meaning as in the [^M17]Charities Act (Northern Ireland) 1964.
+
+#### Application of property otherwise than under paragraph 15
+
+**18** In any case where—
+
+(a) the Secretary of State requests the Department of Health and Social Services for Northern Ireland to make provision with respect to any charitable property held for the purposes of a unit of a reserve force which has been or is to be disbanded; or
+
+(b) an order is made under paragraph 16 or 17 excluding any charitable property so held from the operation of paragraph 15(1),
+
+the Department may, notwithstanding anything in subsection (1) of section 13 of the [^M18]Charities Act (Northern Ireland) 1964 and irrespective of the value of the property in question, exercise its jurisdiction under that section with respect to the property to which the request or order relates.
+
+#### Validity of certain acts by trustees
+
+**19** Neither a warrant nor any order under paragraph 16 or 17 shall affect the validity of anything done or omitted with respect to any property affected by the warrant or order before a copy of the warrant or order is received by a trustee of the charity in question.
+
+#### Saving for interests in property contingent on disbandment of unit
+
+**20** Nothing in this Part of this Schedule applies to any property held by a charity for the purposes of a unit which has been or is to be disbanded if, under the terms on which the property is so held—
+
+(a) any interest of the charity in the property is determined on the disbanding of that unit; and
+
+(b) any other person or charity has an interest in the property contingent upon the determination of the interest of the charity.
+
+## [^F187]SCHEDULE 6
+
+**1** Part VI of the [^M19]Reserve Forces Act 1980 (the lieutenancies) shall be amended as follows.
+
+**2** In section 133 (deputy lieutenants)—
+
+(a) in subsection (2), the words “to the satisfaction of the Secretary of State” and “in the Secretary of State’s opinion” shall cease to have effect;
+
+(b) at the end of subsection (4) there shall be added the words “; but the commission may be revoked by the lord-lieutenant of the county or area.”;
+
+(c) in subsection (5)—
+
+(i) the words from “(at” to “rate)” shall cease to have effect;
+
+(ii) after the words “London Gazette” there shall be inserted the words “ or the Edinburgh Gazette ”; and
+
+(iii) the words from “in like manner” to the end shall cease to have effect.
+
+**3** In section 135 (vice lord-lieutenants), after subsection (1) there shall be inserted the following subsections—
+
+> (1A) The commission of a vice lord-lieutenant may, with Her Majesty’s approbation, be revoked by the lord-lieutenant of the county or area.
+>
+> (1B) Where the person who appointed a vice lord-lieutenant dies or otherwise ceases to be lord-lieutenant, the commission of the vice lord-lieutenant shall not be vacated until a new lord-lieutenant is appointed.
+
+**4** In section 136 (removal of vice lord-lieutenant and deputy lieutenants), paragraph (b) (and the word “and” immediately preceding it) shall cease to have effect.
+
+**5** In section 137 (statutory functions)—
+
+(a) in subsection (1)—
+
+(i) after the word “lord-lieutenant” (in both places) there shall be inserted the word “ , lieutenants ”;
+
+(ii) for the words from “jurisdiction” to “are” there shall be substituted the words “ functions and privileges (whether provided for under any enactment or otherwise) as are for the time being exercisable by or ”; and
+
+(iii) the words from “area” (in the second place it appears) shall cease to have effect;
+
+(b) in subsection (2), the words from “and appoint” to the end shall cease to have effect.
+
+## [^F188]SCHEDULE 7 — Postponement of transfer to the reserve or discharge from the regular services
+
+*Section 126.*
+
+### [^F188] The Army
+
+**[^F188]1** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F188]2** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F188] The Royal Marines
+
+**[^F188]3** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F188]4** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F188] The Royal Air Force
+
+**[^F188]5** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F188]6** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F188] The Royal Navy
+
+**[^F188]7** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F188]8** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 8 — Transitory and transitional provisions
+
+*Section 128.*
+
+### Existing members of the reserve forces
+
+**1** (1) Nothing in section 2 shall prevent a person who, immediately before the day on which that section comes into force, is a man of a reserve force from continuing as a man of that force.
+
+(2) If men of the Air Force Reserve are transferred to the Royal Auxiliary Air Force under paragraph 7(2) after the day on which section 2 comes into force, nothing in that section shall prevent them continuing as men of the Royal Auxiliary Air Force.
+
+### Royal Fleet Reserve
+
+**2** (1) The Royal Fleet Reserve shall cease to be maintained as a division of the Royal Naval Reserve and shall, accordingly, be a separate reserve force.
+
+(2) Sub-paragraph (1) does not affect the continuity of membership of the Royal Fleet Reserve.
+
+**3** Any reference in any enactment or other instrument to the Royal Naval Reserve which, immediately before the commencement of paragraph 2(1), included a reference to the Royal Fleet Reserve shall continue to have effect as if it included a reference to the Royal Fleet Reserve.
+
+### The special class of the Royal Fleet Reserve
+
+**4** (1) The special class of the Royal Fleet Reserve existing by virtue of sections 2 and 57 of the [^M20]Reserve Forces Act 1980 may continue in existence subject to sub-paragraphs (2) and (3) of this paragraph.
+
+(2) No man, after the commencement of this paragraph—
+
+(a) may on entering or re-engaging in the Royal Fleet Reserve or during a term of service in that force, be entered in or transferred to the special class or undertake the liability for service in that class; or
+
+(b) may be transferred to that class otherwise than as mentioned in section 57(2) and section 58 of the Reserve Forces Act 1980.
+
+(3) Persons in the special class immediately before the commencement of this paragraph shall continue in that class (subject to the provisions of the [^M21]Reserve Forces Act 1980) until the end of their terms of service as mentioned in section 57(3) of that Act.
+
+(4) A member of the special class who elects to be subject to Part VI of this Act shall cease to be a member of that class and shall become subject to the provisions of that Part.
+
+(5) A person liable under the Reserve Forces Act 1980 to serve in the special class on transfer to the reserve who elects to be subject to Part VI of this Act shall cease to be liable to serve in that class.
+
+**5** If it appears to the Secretary of State that—
+
+(a) the special class of the Royal Fleet Reserve has no members; and
+
+(b) no person remains liable to serve in that class on transfer to the reserve,
+
+the Secretary of State may by order made by statutory instrument repeal section 2(3) and (4), section 57 and section 58 of the Reserve Forces Act 1980.
+
+### Home Service Force
+
+**6** Section 6 of the Reserve Forces Act 1980 shall cease to have effect.
+
+### Royal Air Force Volunteer Reserve
+
+**7** (1) Her Majesty may continue to maintain a force known as the Royal Air Force Volunteer Reserve as a division of the Air Force Reserve.
+
+(2) On a day appointed by the Secretary of State by order, any officers or men of the Royal Air Force Volunteer Reserve who, immediately before that day, fall within any description of member specified in the order shall cease to be members of the Air Force Reserve and become members of the Royal Auxiliary Air Force.
+
+(3) An order under sub-paragraph (2) may describe the members who are to be transferred by reference to the unit or part of the Royal Air Force Volunteer Reserve to which they belong or by reference to any other criterion.
+
+### Reserves of Officers
+
+**8** (1) On a day appointed by the Secretary of State by order officers of the retired list of the Royal Navy and officers of the emergency list of the Royal Navy shall become members of the Royal Fleet Reserve.
+
+(2) On a day appointed by the Secretary of State by order officers of the retired list of the Royal Marines and officers of the emergency list of the Royal Marines shall become members of the Royal Fleet Reserve.
+
+**9** On a day appointed by the Secretary of State by order, the members of the Regular Army Reserve of Officers shall become members of the Army Reserve.
+
+### Training of existing members of the Royal Auxiliary Air Force
+
+**10** Section 41(1) of the [^M22]Reserve Forces Act 1980 shall apply, in relation to any person who may be required to undergo training under that section, with the omission of the words “within the United Kingdom”.
+
+### Effect of transfers under this Schedule
+
+**11** (1) Any officers transferred to a reserve force under paragraph 7(2), 8 or 9 shall continue to serve in that force on the same conditions as they served immediately before their transfer.
+
+(2) Any men transferred to the Royal Auxiliary Air Force under paragraph 7(2) shall serve for the same term and on the same conditions as they served in the Air Force Reserve.
+
+(3) Anything done by or to any such officer or man before his transfer shall be treated so far as is necessary on and after that day as if it had been done by or to a member of the reserve force to which he was transferred.
+
+(4) If any such officer or man is transferred to a reserve force on or after the day appointed for the purposes of Part I of Schedule 9—
+
+(a) he shall be regarded for the purposes of paragraph 2 of that Schedule as if he had been a member of that force since immediately before the appointed day;
+
+(b) the references in that paragraph to “that time” shall be taken to refer to the time at which he was transferred to the reserve force.
+
+### Parliamentary control
+
+**12** A determination by Parliament of the permitted numbers of officers or men for any reserve force under any provision of Part I of the [^M23]Reserve Forces Act 1980 shall have effect as a determination under section 3 of this Act.
+
+## SCHEDULE 9 — Application of Act to [[^F189]members of transitional classes]
+
+*Section 129.*
+
+### Part I — The [[^F190]original transitional class] of members of the reserve forces
+
+**1** (1) The [[^F191]original transitional class] consists of persons who—
+
+(a) are members of a reserve force;
+
+(b) for the time being fall within paragraph 2 or 3; and
+
+(c) have not made an election under paragraph 4.
+
+(2) In this Schedule “transitional member” means a member of a reserve force who for the time being is a member of the [[^F192]original transitional class]; and “transitional officer” and “transitional man” shall be construed accordingly.
+
+(3) In this Part of this Schedule “the appointed day” means such day as the Secretary of State may by order made by statutory instrument appoint for the purposes of this Part of this Schedule.
+
+**2** A person who, immediately before the appointed day, was an officer or man of a reserve force falls within this paragraph if—
+
+(a) he has remained a member of that force without interruption since that time; and
+
+(b) he has not extended his service in, or become an officer of, that force since that time.
+
+**3** An officer or man who becomes a member of a reserve force on or after the appointed day, on transfer to the reserve from the regular services, falls within this paragraph if—
+
+(a) he joined the regular services before the appointed day and did not re-enlist, re-engage or extend his service, or become an officer, in the regular services on or after that day;
+
+(b) he has remained a member of the reserve force concerned without interruption since being transferred from the regular services; and
+
+(c) he has not extended his service in, or become an officer of, that force since being so transferred.
+
+**4** (1) A person who is a transitional member of a reserve force by virtue of paragraph 2 or 3 may elect to cease being a transitional member.
+
+(2) An officer or man serving in the regular services who—
+
+(a) joined those services before the appointed day; and
+
+(b) has not re-enlisted, re-engaged or extended his service, or become an officer, on or after that day,
+
+may [[^F193]at any time] elect not to be a transitional member on his transfer to the reserve.
+
+(3) An election under this paragraph is irrevocable and must be made in the prescribed manner.
+
+(4) A person who has made an election under this paragraph shall cease to be or, as the case may be, shall not become a transitional member of the reserve force concerned.
+
+**5** (1) In this Part of this Schedule “man”, in relation to the regular services, means a person of or below the rank or rate of warrant officer.
+
+(2) A person in permanent service on recall (whether under the [^M24]Reserve Forces Act 1980 or, in the case of an officer, otherwise than under this Act) shall not be regarded for the purposes of this Part of this Schedule as serving in the regular services.
+
+### Part II — Application of Act to members of the [[^F194]original transitional class]
+
+**6** The provisions of this Act (other than section 129 and this Schedule) apply in relation to members of the [[^F195]original transitional class] in accordance with this Part of this Schedule.
+
+**7** (1) Any reference in this Act to a reserve force, to two or more of the reserve forces or to all the reserve forces shall, unless the context otherwise requires, be construed as a reference to the whole of the force, or of each force, concerned, including any transitional members.
+
+(2) Any reference in this Act to members, officers or men of a reserve force includes, unless the context otherwise requires, a reference to members, officers or men who are transitional members.
+
+(3) This paragraph has effect subject to the exceptions and modifications in the following provisions of this Part of this Schedule.
+
+**8** (1) In the application of section 17(1) to a transitional man, the reference to permanent service includes a reference to permanent service under the Reserve Forces Act 1980.
+
+(2) Section 17(2), (3) and (4) do not apply to transitional men.
+
+**9** (1) In the application of sections 18, 20 and 21 to a transitional man, the reference to permanent service includes a reference to permanent service under the Reserve Forces Act 1980.
+
+(2) In the application of section 21 to a transitional man of the Royal Fleet Reserve, the reference to training and other duties includes a reference to training or other duties in pursuance of any provision of the Reserve Forces Act 1980.
+
+**10** Section 22 does not apply to transitional members of a reserve land, air or marine force.
+
+**11** In the application of section 24 to a transitional member who has entered into a [^F196]full-time service commitment [[^F196]commitment under that section]—
+
+(a) for the reference in subsection (7) to permanent service under Part VI there shall be substituted a reference to permanent service on call out under the [^M25]Reserve Forces Act 1980 or, as the case may be, under any other call-out obligations of an officer; and
+
+(b) for the reference in subsection (8) to training under section 22 there shall (except in the case of a member of a reserve naval force) be substituted a reference to training required under the Reserve Forces Act 1980 or, as the case may be, under any other training obligations of an officer.
+
+**12** (1) Transitional members may (subject to the provisions of this Act) enter into a special agreement or an employee agreement; and Parts IV and V apply accordingly.
+
+(2) Transitional members of a reserve force do not lose their status as transitional members by virtue of either becoming special members of the force or (where they continue as ordinary members under section 42) ceasing to be special members of the force.
+
+**[[^F197]12A** In the application of section 28(3)(a) to a special agreement entered into by a transitional member, for the reference to a period not exceeding 12 months there shall be substituted a reference to a period not exceeding 9 months.]
+
+**13** In the application of section 31(1) to a special agreement entered into by a transitional member, for the reference in paragraph (d) to permanent service under Part VI there shall be substituted a reference to permanent service under the Reserve Forces Act 1980 or, as the case may be, under any other call-out obligations of an officer.
+
+**14** In the application of section 34(5) to transitional members, the reference in paragraph (b) to section 57(11) shall be omitted.
+
+**15** In the application of section 40(5) to a transitional special member—
+
+(a) for the reference to section 22 there shall (except in the case of a member of a reserve naval force) be substituted a reference to the corresponding provision of the Reserve Forces Act 1980 or, as the case may be, of any other training obligations of an officer;
+
+(b) for the reference to Part VI there shall be substituted a reference to the corresponding provisions of the Reserve Forces Act 1980 or, as the case may be, of any other call-out obligations of an officer.
+
+**16** An order may be made under section 41(6) suspending the operation of section 41(1)(c) in relation to transitional special members, notwithstanding that Part VI does not apply to transitional members.
+
+**17** In the application of section 45(5) to transitional members, the reference in paragraph (b) to section 57(11) shall be omitted.
+
+**18** Part VI does not apply to transitional members.
+
+**19** Regulations under section 78, 83[[^F198], 84 or 84A] may make provision, in relation to transitional members liable to be called out under—
+
+(a) the Reserve Forces Act 1980, or
+
+(b) any other call-out obligations of officers,
+
+corresponding to the provision which may be made in regulations under that section in relation to members of the reserve forces liable to be called out under Part VI of this Act.
+
+**20** In the application of section 96(1) to a transitional member—
+
+(a) the reference to any provision of this Act includes a reference to any provision of the [^M26] Reserve Forces Act 1980 or, as the case may be, of any other call-out obligations of an officer; and
+
+(b) for the reference in paragraph (a) to section 58(3)(c) there shall be substituted a reference to the corresponding provision of that Act or those obligations.
+
+**21** In the application of section 97(2) to a transitional member, for the reference to section 22 there shall (except in the case of a member of a reserve naval force) be substituted a reference to the corresponding provision of the Reserve Forces Act 1980 or, as the case may be, of any other training obligations of an officer.
+
+**[^F199]22** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F200]23** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**24** In the application of section 125 to a transitional member, the reference to permanent service includes a reference to permanent service under the Reserve Forces Act 1980 or, as the case may be, under any other call-out obligations of an officer.
+
+### [[^F201]Part 3 — The second transitional class of members of the reserve forces
+
+**25** (1) The second transitional class consists of persons who—
+
+(a) are members of a reserve force,
+
+(b) are not, and have not been, members of the original transitional class,
+
+(c) for the time being fall within paragraph 26 or 27, and
+
+(d) have not made an election under paragraph 28.
+
+(2) In this Part of this Schedule “the appointed day” means the day on which paragraph 4(7) of Schedule 6 to the Defence Reform Act 2014 (which inserts this Part of this Schedule) comes into force.
+
+**26** A person who, immediately before the appointed day, was a member of a reserve force falls within this paragraph if—
+
+(a) the person has remained a member of that force without interruption since that time, and
+
+(b) the person has not extended his or her service in, or become an officer of, that force since that time.
+
+**27** A person who becomes a member of a reserve force on or after the appointed day, on transfer to the reserve from the regular services, falls within this paragraph if—
+
+(a) the person joined the regular services before the appointed day and did not re-enlist, re-engage or extend his or her service, or become an officer, in the regular services on or after that day,
+
+(b) the person has remained a member of the reserve force concerned without interruption since being transferred from the regular services, and
+
+(c) the person has not extended his or her service in, or become an officer of, that force since being so transferred.
+
+**28** (1) A person who is a member of the second transitional class may elect to cease to be a member of that class.
+
+(2) A person serving in the regular services who—
+
+(a) joined those services before the appointed day, and
+
+(b) has not re-enlisted, re-engaged or extended his or her service, or become an officer, on or after that day,
+
+may at any time elect not to become a member of the second transitional class on transfer to the reserve.
+
+(3) An election under this paragraph must be made in the prescribed manner.
+
+(4) A person who has made an election under sub-paragraph (1) ceases to be a member of the second transitional class.
+
+(5) A person who has made an election under sub-paragraph (2) does not become a member of the second transitional class.
+
+(6) An election under this paragraph is irrevocable.]
+
+### [[^F201]Part 4 — Application of Act to members of the second transitional class
+
+**29** Parts 4 and 6 of this Act apply in relation to members of the second transitional class in accordance with this Part of this Schedule.
+
+**30** Section 28(3)(a) (special agreements: maximum period of service) applies in relation to a special agreement entered into by a member of the second transitional class as if for “12 months” there were substituted “ 9 months ”.
+
+**31** (1) Section 56 (call out for certain purposes) applies in relation to the call out of members of the second transitional class as if the power conferred on the Secretary of State by subsection (1B) were limited to the powers described in sub-paragraphs (2) and (3).
+
+(2) The first power is to make an order authorising the calling out of members of a reserve force where it appears to the Secretary of State that it is necessary or desirable to use armed forces—
+
+(a) on operations outside the United Kingdom for the protection of life or property, or
+
+(b) on operations anywhere in the world for the alleviation of distress or the preservation of life or property in time of disaster or apprehended disaster.
+
+(3) The second power is to make an order authorising the calling out of members of a reserve force for the purposes of carrying out work where—
+
+(a) the work is approved in accordance with instructions issued by the Defence Council under the Defence (Armed Forces) Regulations 1939 as being urgent work of national importance, and
+
+(b) the Defence Council have by order under those Regulations authorised members of any forces to be temporarily employed in such work.
+
+**32** Section 57 (maximum duration of service for call out under section 56) applies in relation to members of the second transitional class as if—
+
+(a) in subsection (4), for “12 months” there were substituted “ 9 months ”,
+
+(b) in subsection (6), for “12 months” there were substituted “ 9 months ”,
+
+(c) in subsection (8)(c), for “6 months” there were substituted “ 3 months ”, and
+
+(d) in subsection (11), for “3 years” there were substituted “ 27 months ”.
+
+**33** Section 57A(3) (agreement to alter limits in section 57) applies in relation to members of the second transitional class as if for “12 months” there were substituted “ 9 months ”.]
+
+## SCHEDULE 10 — Minor and consequential amendments
+
+*Section 131(1).*
+
+### Army Act 1955 (c.18)
+
+**[^F202]1** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F203]2** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F203]3** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F203]4** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F203]5** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F203]6** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F203]7** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F203]8** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Air Force Act 1955 (c.19)
+
+**[^F203]9** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F203]10** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F203]11** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Naval Discipline Act 1957 (c.53)
+
+**[^F203]12** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F203]13** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Reserve Forces Act 1966 (c.30): old references to RMFVR
+
+**14** Any reference to the Royal Marine Forces Volunteer Reserve in any Act or instrument shall continue to be construed as may be necessary in consequence of the change of name made by section 1 of the Reserve Forces Act 1966 as a reference to the Royal Marines Reserve.
+
+### House of Commons Disqualification Act 1975 (c.24)
+
+**15** In section 3 (certain reserve officers and persons liable to recall not to be regarded as members of regular services) of the House of Commons Disqualification Act 1975, in subsection (1)(b), after the word “pensioner” there shall be inserted the words “ , or former soldier, ”.
+
+### Northern Ireland Assembly Disqualification Act 1975 (c.25)
+
+**16** In section 2 (certain reserve officers and persons liable to recall not to be regarded as members of regular services) of the Northern Ireland Assembly Disqualification Act 1975, in subsection (1)(b), after the word “pensioner” there shall be inserted the words “ , or former soldier, ”.
+
+### Employment Protection (Consolidation) Act 1978 (c.44)
+
+**[^F204]17** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Magistrates’ Courts Act 1980 (c.43)
+
+**[^F205]18** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Reserve Forces Act 1982 (c.14): old references to TAVR
+
+**19** Any reference to the Territorial and Army Volunteer Reserve in any Act or instrument shall continue to be construed as may be necessary in consequence of the change of name made by section 1 of the Reserve Forces Act 1982 as a reference to the [[^F2]Army Reserve].
+
+### Wages Act 1986 (c.48)
+
+**20** In section 9(4) (exclusion of service as a member of the armed forces) of the Wages Act 1986, for the words “Part VI of the Reserve Forces Act 1980” there shall be substituted the words “ Part XI of the Reserve Forces Act 1996 ”.
+
+### Wages (Northern Ireland) Order 1988 (S.I. 1988/796 (N.I.7))
+
+**21** In Article 11(3) (exclusion of service as a member of the armed forces) of the Wages (Northern Ireland) Order 1988 for the words “Part VI of the Reserve Forces Act 1980” there shall be substituted the words “ Part XI of the Reserve Forces Act 1996 ”.
+
+### Official Secrets Act 1989 (c.6)
+
+**22** In section 12(1) (meaning of “Crown servant”) of the Official Secrets Act 1989, in paragraph (d), for the words “the Reserve Forces Act 1980” there shall be substituted the words “ Part XI of the Reserve Forces Act 1996 ”.
+
+### Army Act 1992 (c.39)
+
+**[^F206]23** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Trade Union and Labour Relations (Consolidation) Act 1992 (c.52)
+
+**24** In section 274 (armed forces) of the Trade Union and Labour Relations (Consolidation) Act 1992, in subsection (2), for the words “Part VI of the Reserve Forces Act 1980” there shall be substituted the words “ Part XI of the Reserve Forces Act 1996 ”.
+
+### Tribunals and Inquiries Act 1992 (c.53)
+
+**25** In Schedule 1 to the Tribunals and Inquiries Act 1992 (tribunals under the supervision of the Council on Tribunals), in paragraph 38 (the Reserve Forces) at the end there shall be inserted—
+
+> (c) the appeal tribunals constituted under Part IX of the Reserve Forces Act 1996.
+
+### Judicial Pensions and Retirement Act 1993 (c.8)
+
+**26** In Schedule 5 to the Judicial Pensions and Retirement Act 1993 (offices to which retirement provisions apply), at the end there shall be added the following entry—
+
+> Chairman or other member of a reserve forces appeal tribunal constituted under Part IX of the Reserve Forces Act 1996
+
+.
+
+### Industrial Relations (Northern Ireland) Order 1993 (S.I. 1993/2668 (N.I.11))
+
+**27** In Article 9 (application of industrial relations legislation to the Crown) of the Industrial Relations (Northern Ireland) Order 1993, for the words “Part VI of the Reserve Forces Act 1980” there shall be substituted the words “ Part XI of the Reserve Forces Act 1996 ”.
+
+## SCHEDULE 11 — Repeals
+
+*Section 131(2).*
+
+|  |  |  |
+|---|---|---|
+| Chapter | Short title | Extent of repeal |
+| 1951 c. 8. | Home Guard Act 1951. | The whole Act. |
+| 1955 c. 18. | Army Act 1955. | Section 205(1)(k). Section 212. In section 225(1), in the definition of “regular forces” the words “or the Home Guard”. |
+| 1955 c. 19. | Air Force Act 1955. | Section 205(1)(c). |
+| 1966 c. 45. | Armed Forces Act 1966. | In section 3, the words from “the provisions so” to the end. Section 4(9) and (10). |
+| 1980 c. 9. | Reserve Forces Act 1980. | The whole Act, except sections 48, 55, 130 to 138, 140, 151, 156, 157 and 158. |
+| 1982 c. 14. | Reserve Forces Act 1982. | The whole Act. |
+| 1984 c. 60. | Police and Criminal Evidence Act 1984. | In Schedule 2, the entry relating to the Reserve Forces Act 1980. |
+| 1985 c. 17. | Reserve Forces (Safeguard of Employment) Act 1985. | In section 20(1), the definitions of “regular forces”, “reserve or auxiliary force” and “service in the armed forces of the Crown” and, in the definition of “permanent service”, the words from “and” to the end. In Schedule 4, paragraph 7. |
+| 1991 c. 62. | Armed Forces Act 1991. | In Schedule 2, paragraph 11(4). |
+| 1992 c. 39. | Army Act 1992. | Section 3(1). |
+| 1993 c. 10. | Charities Act 1993. | In Schedule 6, paragraph 16. |
+| 1994 c. 19. | Local Government (Wales) Act 1994. | Section 61(4) and (6). |
+| 1994 c. 39. | Local Government etc. (Scotland) Act 1994. | In Schedule 13, paragraph 116(3) and (5). |
+
+---
+
+[^F1]: Words in Act substituted (1.10.2014) by Defence Reform Act 2014 (c. 20), s. 44(3)(a)(4), 50(1) (with s. 49(4), Sch. 7 para. 12(3)); S.I. 2014/2370, art. 4(a)
+[^F2]: Words in Act substituted (1.10.2014) by Defence Reform Act 2014 (c. 20), s. 44(3)(b)(4), 50(1) (with s. 49(4), Sch. 7 para. 12(3)); S.I. 2014/2370, art. 4(a)
+[^F3]: Words in s. 2(2)(a) substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 25; S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F4]: Words in s. 4(1)(b) inserted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 26; S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F5]: S. 7 repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 27, Sch. 17; S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F6]: Words in s. 9 substituted (1.7.1997) by 1997 c. 23, ss. 8(2), 9(2) (with s. 7(3), Sch. 2 para. 6)
+[^F7]: S. 9(5) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 17; S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F8]: Words in s. 13(7) substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 28; S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F9]: Words in s. 15(1) substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 29; S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F10]: Words in s. 17(1) substituted (1.5.2022 for specified purposes) by Armed Forces Act 2021 (c. 35), s. 24(1), Sch. 2 para. 2(2) (with Sch. 2 para. 10); S.I. 2022/471, reg. 2(c)
+[^F11]: Words in s. 17(2) substituted (1.5.2022 for specified purposes) by Armed Forces Act 2021 (c. 35), s. 24(1), Sch. 2 para. 2(3) (with Sch. 2 para. 10); S.I. 2022/471, reg. 2(c)
+[^F12]: Words in s. 17(4) substituted (1.5.2022 for specified purposes) by Armed Forces Act 2021 (c. 35), s. 24(1), Sch. 2 para. 2(4) (with Sch. 2 para. 10); S.I. 2022/471, reg. 2(c)
+[^F13]: Word in s. 24 heading omitted (1.5.2022 for specified purposes) by virtue of Armed Forces Act 2021 (c. 35), ss. 9(2), 24(1); S.I. 2022/471, reg. 2(c)
+[^F14]: Words in s. 24(1) omitted (1.5.2022 for specified purposes) by virtue of Armed Forces Act 2021 (c. 35), ss. 9(3)(a), 24(1); S.I. 2022/471, reg. 2(c)
+[^F15]: Word in s. 24(1) omitted (1.5.2022 for specified purposes) by virtue of Armed Forces Act 2021 (c. 35), ss. 9(3)(b), 24(1); S.I. 2022/471, reg. 2(c)
+[^F16]: S. 24(1A)(1B) inserted (1.5.2022 for specified purposes) by Armed Forces Act 2021 (c. 35), ss. 9(4), 24(1); S.I. 2022/471, reg. 2(c)
+[^F17]: Words in s. 24(2)(a) omitted (1.5.2022 for specified purposes) by virtue of Armed Forces Act 2021 (c. 35), ss. 9(5)(a), 24(1); S.I. 2022/471, reg. 2(c)
+[^F18]: S. 24(2)(b) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 30, Sch. 17; S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F19]: Words in s. 24(2)(c) substituted (1.5.2022 for specified purposes) by Armed Forces Act 2021 (c. 35), ss. 9(5)(b), 24(1); S.I. 2022/471, reg. 2(c)
+[^F20]: Words in s. 24(3) substituted (1.5.2022 for specified purposes) by Armed Forces Act 2021 (c. 35), ss. 9(6)(a), 24(1); S.I. 2022/471, reg. 2(c)
+[^F21]: Words in s. 24(3)(a) substituted (1.5.2022 for specified purposes) by Armed Forces Act 2021 (c. 35), ss. 9(6)(b), 24(1); S.I. 2022/471, reg. 2(c)
+[^F22]: S. 24(3)(aa) inserted (1.5.2022 for specified purposes) by Armed Forces Act 2021 (c. 35), ss. 9(6)(c), 24(1); S.I. 2022/471, reg. 2(c)
+[^F23]: Words in s. 24(4) substituted (1.5.2022 for specified purposes) by Armed Forces Act 2021 (c. 35), ss. 9(7)(a), 24(1); S.I. 2022/471, reg. 2(c)
+[^F24]: Word in s. 24(4)(a) omitted (1.5.2022 for specified purposes) by virtue of Armed Forces Act 2021 (c. 35), ss. 9(7)(b), 24(1); S.I. 2022/471, reg. 2(c)
+[^F25]: Words in s. 24(5) substituted (1.5.2022 for specified purposes) by Armed Forces Act 2021 (c. 35), ss. 9(8)(a), 24(1); S.I. 2022/471, reg. 2(c)
+[^F26]: Word in s. 24(5)(b) omitted (1.5.2022 for specified purposes) by virtue of Armed Forces Act 2021 (c. 35), ss. 9(8)(b), 24(1); S.I. 2022/471, reg. 2(c)
+[^F27]: Word in s. 24(5)(c) omitted (1.5.2022 for specified purposes) by virtue of Armed Forces Act 2021 (c. 35), ss. 9(8)(c), 24(1); S.I. 2022/471, reg. 2(c)
+[^F28]: Words in s. 24(6) substituted (1.5.2022 for specified purposes) by Armed Forces Act 2021 (c. 35), ss. 9(9), 24(1); S.I. 2022/471, reg. 2(c)
+[^F29]: Words in s. 24(7) substituted (1.5.2022 for specified purposes) by Armed Forces Act 2021 (c. 35), ss. 9(10)(a), 24(1); S.I. 2022/471, reg. 2(c)
+[^F30]: Words in s. 24(7)(a) substituted (1.5.2022 for specified purposes) by Armed Forces Act 2021 (c. 35), ss. 9(10)(b), 24(1); S.I. 2022/471, reg. 2(c)
+[^F31]: Word in s. 24(7)(b) omitted (1.5.2022 for specified purposes) by virtue of Armed Forces Act 2021 (c. 35), ss. 9(10)(c)(i), 24(1); S.I. 2022/471, reg. 2(c)
+[^F32]: Words in s. 24(7)(b) inserted (1.5.2022 for specified purposes) by Armed Forces Act 2021 (c. 35), ss. 9(10)(c)(ii), 24(1); S.I. 2022/471, reg. 2(c)
+[^F33]: Words in s. 24(7)(b) substituted (1.5.2022 for specified purposes) by Armed Forces Act 2021 (c. 35), ss. 9(10)(c)(iii), 24(1); S.I. 2022/471, reg. 2(c)
+[^F34]: Words in s. 24(8) substituted (1.5.2022 for specified purposes) by Armed Forces Act 2021 (c. 35), ss. 9(11), 24(1); S.I. 2022/471, reg. 2(c)
+[^F35]: Words in s. 24(9) substituted (1.5.2022 for specified purposes) by Armed Forces Act 2021 (c. 35), ss. 9(12), 24(1); S.I. 2022/471, reg. 2(c)
+[^F36]: Words in s. 24(10) omitted (1.5.2022 for specified purposes) by virtue of Armed Forces Act 2021 (c. 35), ss. 9(13), 24(1); S.I. 2022/471, reg. 2(c)
+[^F37]: S. 25(2)(a) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 31(a), Sch. 17; S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F38]: Words in s. 25(2)(b) substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 31(b); S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F39]: S. 25(2A) inserted (1.5.2022 for specified purposes) by Armed Forces Act 2021 (c. 35), ss. 9(14), 24(1); S.I. 2022/471, reg. 2(c)
+[^F40]: S. 26(1)(a) substituted (1.5.2022 for specified purposes) by Armed Forces Act 2021 (c. 35), s. 24(1), Sch. 2 para. 3(2) (with Sch. 2 para. 10); S.I. 2022/471, reg. 2(c)
+[^F41]: Words in s. 26(2) substituted (1.5.2022 for specified purposes) by Armed Forces Act 2021 (c. 35), s. 24(1), Sch. 2 para. 3(3) (with Sch. 2 para. 10); S.I. 2022/471, reg. 2(c)
+[^F42]: Words in s. 26(3) substituted (1.5.2022 for specified purposes) by Armed Forces Act 2021 (c. 35), s. 24(1), Sch. 2 para. 3(4) (with Sch. 2 para. 10); S.I. 2022/471, reg. 2(c)
+[^F43]: S. 27(3) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 32, Sch. 17; S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F44]: Words in s. 28(3)(a) substituted (1.10.2014) by Defence Reform Act 2014 (c. 20), ss. 45(1), 50(1) (with s. 49(4), Sch. 7 para. 12(3)); S.I. 2014/2370, art. 4(b)
+[^F45]: Words in s. 35(1) inserted (1.10.2001 subject to art. 3 of the commencing S.I.) by 2001 c. 19, s. 34, Sch. 6 Pt. 3 para. 11; S.I. 2001/3234, arts. 2, 3
+[^F46]: Word in s. 41(4) repealed (1.10.2001 subject to art. 3 of the commencing S.I.) by 2001 c. 19, ss. 34, 38, Sch. 6 Pt. 3 para. 12, Sch. 7 Pt. 7; S.I. 2001/3234, arts. 2, 3
+[^F47]: Word in s. 53(8)(a) inserted (15.10.2007) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 33(a); S.I. 2007/2913, art. 2
+[^F48]: S. 53(8)(b) repealed (15.10.2007) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 33(b), Sch. 17; S.I. 2007/2913, art. 2
+[^F49]: S. 53A inserted (15.10.2007) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 34; S.I. 2007/2913, art. 2
+[^F50]: Words in s. 54(1) inserted (1.10.2014) by Defence Reform Act 2014 (c. 20), ss. 45(3), 50(1) (with s. 49(4), Sch. 7 para. 12(3)); S.I. 2014/2370, art. 4(b)
+[^F51]: Word in s. 55(8)(a) inserted (15.10.2007) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 33(a); S.I. 2007/2913, art. 2
+[^F52]: S. 55(8)(b) repealed (15.10.2007) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 33(b), Sch. 17; S.I. 2007/2913, art. 2
+[^F53]: S. 55A inserted (15.10.2007) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 35; S.I. 2007/2913, art. 2
+[^F54]: Word in s. 56 heading substituted (1.10.2014) by Defence Reform Act 2014 (c. 20), ss. 45(5), 50(1) (with s. 49(4), Sch. 7 para. 12(3)); S.I. 2014/2370, art. 4(b)
+[^F55]: S. 56(1B) substituted for s. 56(1)(1A) (1.10.2014) by Defence Reform Act 2014 (c. 20), ss. 45(4), 50(1) (with s. 49(4), Sch. 7 para. 12(3)); S.I. 2014/2370, art. 4(b)
+[^F56]: Words in s. 57(4) substituted (1.10.2014) by Defence Reform Act 2014 (c. 20), ss. 45(6)(a), 50(1) (with s. 49(4), Sch. 7 para. 12(3)); S.I. 2014/2370, art. 4(b)
+[^F57]: Words in s. 57(6) substituted (1.10.2014) by Defence Reform Act 2014 (c. 20), ss. 45(6)(b), 50(1) (with s. 49(4), Sch. 7 para. 12(3)); S.I. 2014/2370, art. 4(b)
+[^F58]: Word in s. 57(8)(a) inserted (15.10.2007) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 33(a); S.I. 2007/2913, art. 2
+[^F59]: S. 57(8)(b) repealed (15.10.2007) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 33(b), Sch. 17; S.I. 2007/2913, art. 2
+[^F60]: Words in s. 57(8)(c) substituted (1.10.2014) by Defence Reform Act 2014 (c. 20), ss. 45(6)(c), 50(1) (with s. 49(4), Sch. 7 para. 12(3)); S.I. 2014/2370, art. 4(b)
+[^F61]: Words in s. 57(11) substituted (1.10.2014) by Defence Reform Act 2014 (c. 20), ss. 45(6)(d), 50(1) (with s. 49(4), Sch. 7 para. 12(3)); S.I. 2014/2370, art. 4(b)
+[^F62]: S. 57A inserted (15.10.2007) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 36; S.I. 2007/2913, art. 2
+[^F63]: Words in s. 57A(3) substituted (1.10.2014) by Defence Reform Act 2014 (c. 20), ss. 45(7), 50(1) (with s. 49(4), Sch. 7 para. 12(3)); S.I. 2014/2370, art. 4(b)
+[^F64]: S. 64 renumbered as s. 64(1) (1.10.2014) by Defence Reform Act 2014 (c. 20), ss. 45(8)(a), 50(1) (with s. 49(4), Sch. 7 para. 12(3)); S.I. 2014/2370, art. 4(b)
+[^F65]: S. 64(2) inserted (1.10.2014) by Defence Reform Act 2014 (c. 20), ss. 45(8)(b), 50(1) (with s. 49(4), Sch. 7 para. 12(3)); S.I. 2014/2370, art. 4(b)
+[^F66]: Words in s. 66(2)(b) substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 37; S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F67]: S. 72(5) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 38, Sch. 17; S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F68]: S. 72(6) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 38, Sch. 17; S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^M1]: 1980 c. 9.
+[^M2]: 1985 c. 17.
+[^F69]: Words in s. 83 cross-heading substituted (5.9.2014) by Defence Reform Act 2014 (c. 20), s. 50(1), Sch. 7 para. 2 (with s. 49(4), Sch. 7 para. 12(3)); S.I. 2014/2370, art. 3
+[^F70]: Words in s. 83 heading inserted (5.9.2014) by Defence Reform Act 2014 (c. 20), s. 50(1), Sch. 7 para. 3 (with s. 49(4), Sch. 7 para. 12(3)); S.I. 2014/2370, art. 3
+[^F71]: Words in s. 84 heading inserted (5.9.2014) by Defence Reform Act 2014 (c. 20), s. 50(1), Sch. 7 para. 3 (with s. 49(4), Sch. 7 para. 12(3)); S.I. 2014/2370, art. 3
+[^F72]: S. 84A inserted (5.9.2014) by Defence Reform Act 2014 (c. 20), ss. 46(1), 50(1) (with s. 49(4), Sch. 7 para. 12(3)); S.I. 2014/2370, art. 3
+[^F73]: Words in s. 85 heading substituted (5.9.2014) by Defence Reform Act 2014 (c. 20), s. 50(1), Sch. 7 para. 5 (with s. 49(4), Sch. 7 para. 12(3)); S.I. 2014/2370, art. 3
+[^F74]: Words in s. 85(1) substituted (5.9.2014) by Defence Reform Act 2014 (c. 20), s. 50(1), Sch. 7 para. 4(2)(a) (with s. 49(4), Sch. 7 para. 12(3)); S.I. 2014/2370, art. 3
+[^F75]: Words in s. 85(1)(a) omitted (5.9.2014) by virtue of Defence Reform Act 2014 (c. 20), s. 50(1), Sch. 7 para. 4(2)(b) (with s. 49(4), Sch. 7 para. 12(3)); S.I. 2014/2370, art. 3
+[^F76]: S. 85(1)(aa)(ab) inserted (5.9.2014) by Defence Reform Act 2014 (c. 20), s. 50(1), Sch. 7 para. 4(2)(c) (with s. 49(4), Sch. 7 para. 12(3)); S.I. 2014/2370, art. 3
+[^F77]: Words in s. 85(1)(f) inserted (5.9.2014) by Defence Reform Act 2014 (c. 20), s. 50(1), Sch. 7 para. 4(2)(d) (with s. 49(4), Sch. 7 para. 12(3)); S.I. 2014/2370, art. 3
+[^F78]: Words in s. 85(2) inserted (5.9.2014) by Defence Reform Act 2014 (c. 20), s. 50(1), Sch. 7 para. 4(3) (with s. 49(4), Sch. 7 para. 12(3)); S.I. 2014/2370, art. 3
+[^F79]: Words in s. 85(3) substituted (5.9.2014) by Defence Reform Act 2014 (c. 20), s. 50(1), Sch. 7 para. 4(4) (with s. 49(4), Sch. 7 para. 12(3)); S.I. 2014/2370, art. 3
+[^F80]: S. 85(3A) inserted (5.9.2014) by Defence Reform Act 2014 (c. 20), s. 50(1), Sch. 7 para. 4(5) (with s. 49(4), Sch. 7 para. 12(3)); S.I. 2014/2370, art. 3
+[^F81]: Words in s. 85(5) substituted (5.9.2014) by Defence Reform Act 2014 (c. 20), s. 50(1), Sch. 7 para. 4(6) (with s. 49(4), Sch. 7 para. 12(3)); S.I. 2014/2370, art. 3
+[^M3]: 1980 c. 9.
+[^F82]: S. 86(A1) inserted (5.9.2014) by Defence Reform Act 2014 (c. 20), s. 50(1), Sch. 7 para. 6(2) (with s. 49(4), Sch. 7 para. 12(3)); S.I. 2014/2370, art. 3
+[^F83]: Words in s. 86(1) omitted (5.9.2014) by virtue of Defence Reform Act 2014 (c. 20), s. 50(1), Sch. 7 para. 6(3) (with s. 49(4), Sch. 7 para. 12(3)); S.I. 2014/2370, art. 3
+[^F84]: Words in s. 86(2) substituted (5.9.2014) by Defence Reform Act 2014 (c. 20), s. 50(1), Sch. 7 para. 6(4)(a) (with s. 49(4), Sch. 7 para. 12(3)); S.I. 2014/2370, art. 3
+[^F85]: Words in s. 86(2)(a) inserted (5.9.2014) by Defence Reform Act 2014 (c. 20), s. 50(1), Sch. 7 para. 6(4)(b) (with s. 49(4), Sch. 7 para. 12(3)); S.I. 2014/2370, art. 3
+[^F86]: Words in s. 86(3) substituted (5.9.2014) by Defence Reform Act 2014 (c. 20), s. 50(1), Sch. 7 para. 6(5) (with s. 49(4), Sch. 7 para. 12(3)); S.I. 2014/2370, art. 3
+[^F87]: Words in s. 86(4) substituted (5.9.2014) by Defence Reform Act 2014 (c. 20), s. 50(1), Sch. 7 para. 6(5) (with s. 49(4), Sch. 7 para. 12(3)); S.I. 2014/2370, art. 3
+[^F88]: Words in s. 86(5) substituted (5.9.2014) by Defence Reform Act 2014 (c. 20), s. 50(1), Sch. 7 para. 6(5) (with s. 49(4), Sch. 7 para. 12(3)); S.I. 2014/2370, art. 3
+[^F89]: Words in s. 87(1) substituted (5.9.2014) by Defence Reform Act 2014 (c. 20), s. 50(1), Sch. 7 para. 7 (with s. 49(4), Sch. 7 para. 12(3)); S.I. 2014/2370, art. 3
+[^F90]: Words in s. 87(2) substituted (5.9.2014) by Defence Reform Act 2014 (c. 20), s. 50(1), Sch. 7 para. 7 (with s. 49(4), Sch. 7 para. 12(3)); S.I. 2014/2370, art. 3
+[^F91]: Words in s. 89(2) substituted (5.9.2014) by Defence Reform Act 2014 (c. 20), s. 50(1), Sch. 7 para. 8(a) (with s. 49(4), Sch. 7 para. 12(3)); S.I. 2014/2370, art. 3
+[^F92]: Words in s. 89(2) substituted (5.9.2014) by Defence Reform Act 2014 (c. 20), s. 50(1), Sch. 7 para. 8(b) (with s. 49(4), Sch. 7 para. 12(3)); S.I. 2014/2370, art. 3
+[^F93]: Words in s. 90(1)(3) omitted (1.7.1999) by virtue of S.I. 1999/1750, arts. 1(1), 6(1), Sch. 5 para. 16 (with art. 7)
+[^F94]: S. 90(1A) inserted (3.4.2006) by Constitutional Reform Act 2005 (c. 4), s. 148(1), Sch. 4 para. 241; S.I. 2006/1014, art. 2(a), Sch. 1 para. 11(v)
+[^M4]: 1990 c. 41.
+[^F95]: Words in Act substituted (1.10.2009) by Constitutional Reform Act 2005 (c. 4), s. 148(1), Sch. 11 para. 5; S.I. 2009/1604, art. 2(d)
+[^F96]: Word in s. 90(4) substituted (10.3.2022) by Public Service Pensions and Judicial Offices Act 2022 (c. 7), s. 131(1)(4)(a), Sch. 1 para. 27(2) (with Sch. 1 para. 43)
+[^F97]: Words in s. 91(1)(3) omitted (1.7.1999) by virtue of S.I. 1999/1750, arts. 1(1), 6(1), Sch. 5 para. 16
+[^F98]: S. 91(2A) inserted (3.4.2006) by Constitutional Reform Act 2005 (c. 4), s. 148(1), Sch. 4 para. 242; S.I. 2006/1014, art. 2(a), Sch. 1 para. 11(v)
+[^F99]: Word in s. 91(4) substituted (10.3.2022) by Public Service Pensions and Judicial Offices Act 2022 (c. 7), s. 131(1)(4)(a), Sch. 1 para. 27(3) (with Sch. 1 para. 43)
+[^F100]: Words in s. 92(1) substituted (3.4.2006) by Constitutional Reform Act 2005 (c. 4), s. 148(1), Sch. 4 para. 243(2); S.I. 2006/1014, art. 2(a), Sch. 1 para. 11(v)
+[^F101]: S. 92(2)-(4) substituted for s. 92(2)(3) (3.4.2006) by Constitutional Reform Act 2005 (c. 4), s. 148(1), Sch. 4 para. 243(3); S.I. 2006/1014, art. 2(a), Sch. 1 para. 11(v)
+[^F102]: S. 92A inserted (3.4.2006) by Constitutional Reform Act 2005 (c. 4), s. 148(1), Sch. 4 para. 244; S.I. 2006/1014, art. 2(a), Sch. 1 para. 11(v)
+[^F103]: S. 95(1)(b) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 39(2)(a), Sch. 17; S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F104]: Words in s. 95(1) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 39(2)(b), Sch. 17; S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F105]: S. 95(1A)-(1C) inserted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 39(3); S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F106]: Words in s. 95(2)(a) substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 39(4)(a); S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F107]: Word in s. 95(2)(a)(i) substituted (1.5.2022 for specified purposes, 1.4.2023 in so far as not already in force) by Armed Forces Act 2021 (c. 35), s. 24(1), Sch. 6 para. 5(a); S.I. 2022/471, reg. 2(f); S.I. 2023/158, reg. 3
+[^F108]: Words in s. 95(2)(a)(ii) repealed (2.4.2012) by Armed Forces Act 2011 (c. 18), ss. 15(2)(a), 32(3), Sch. 5; S.I. 2012/669, art. 4(a)(f)(i) (with art. 8)
+[^F109]: Words in s. 95(2)(b)(i) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 39(4)(b)(i), Sch. 17; S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F110]: Words in s. 95(2)(b)(i) inserted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 39(4)(b)(ii); S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F111]: S. 95(2A) substituted for s. 95(3) (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 39(5); S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F112]: Word in s. 95(2A) substituted (1.5.2022 for specified purposes, 1.4.2023 in so far as not already in force) by Armed Forces Act 2021 (c. 35), s. 24(1), Sch. 6 para. 5(b)(i); S.I. 2022/471, reg. 2(f); S.I. 2023/158, reg. 3
+[^F113]: Word in s. 95(2A) substituted (1.5.2022 for specified purposes, 1.4.2023 in so far as not already in force) by Armed Forces Act 2021 (c. 35), s. 24(1), Sch. 6 para. 5(b)(ii); S.I. 2022/471, reg. 2(f); S.I. 2023/158, reg. 3
+[^F114]: S. 95(3) inserted (2.4.2012) by Armed Forces Act 2011 (c. 18), ss. 15(2)(b), 32(3); S.I. 2012/669, art. 4(a)
+[^F115]: Words in s. 96(1) substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 40(2); S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F116]: Words in s. 96(3) substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 40(3); S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F117]: Words in s. 97(1) substituted (1.5.2022 for specified purposes) by Armed Forces Act 2021 (c. 35), s. 24(1), Sch. 2 para. 4(2)(a) (with Sch. 2 para. 10); S.I. 2022/471, reg. 2(c)
+[^F118]: Words in s. 97(1)(a) substituted (1.5.2022 for specified purposes) by Armed Forces Act 2021 (c. 35), s. 24(1), Sch. 2 para. 4(2)(b) (with Sch. 2 para. 10); S.I. 2022/471, reg. 2(c)
+[^F119]: Word in s. 97(1)(a) omitted (1.5.2022 for specified purposes) by virtue of Armed Forces Act 2021 (c. 35), s. 24(1), Sch. 2 para. 4(2)(b) (with Sch. 2 para. 10); S.I. 2022/471, reg. 2(c)
+[^F120]: Words in s. 97(1) substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 41(2); S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F121]: Words in s. 97(3) substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 41(3); S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F122]: Words in s. 98(1) substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 42(2)(a); S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F123]: Words in s. 98(1) substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 42(2)(b); S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F124]: Words in s. 98(2) substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 42(3)(a); S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F125]: Words in s. 98(2) substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 42(3)(b); S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F126]: Words in s. 98(3)(b) substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 42(4); S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F127]: Words in s. 98(4)(a) substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 42(5)(a); S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F128]: Words in s. 98(4)(a) substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 42(5)(b); S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F129]: S. 98(5) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 42(6), Sch. 17; S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F130]: S. 98(7) inserted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 42(7); S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F131]: S. 99 repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 43, Sch. 17; S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F132]: S. 100A substituted for s. 100 (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 44; S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F133]: S. 102 repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 45, Sch. 17; S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^M5]: 1955 c. 18.
+[^M6]: 1955 c. 19.
+[^M7]: 1957 c. 53.
+[^F134]: S. 104(3) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 46, Sch. 17; S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F135]: Words in s. 105(1) substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 47(2); S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F136]: S. 105(2) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 47(3), Sch. 17; S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F137]: Words in s. 105(3) substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 47(4); S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F138]: S. 106 repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 48, Sch. 17; S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F139]: Words in s. 107(1) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 49(a)(i), Sch. 17; S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F140]: Words in s. 107(1) substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 49(a)(ii); S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F141]: S. 107(3) added (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 49(b); S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F142]: S. 108(1A)(1B) substituted for s. 108(1)(2) (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 50; S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F143]: S. 113A inserted (1.10.2014) by Defence Reform Act 2014 (c. 20), ss. 47, 50(1) (with s. 49(4), Sch. 7 para. 12(3)); S.I. 2014/2370, art. 4(c)
+[^F144]: S. 121 repealed (1.7.1997) by 1997 c. 23, ss. 8(4), 9(2), Sch. 3 (with s. 7(3), Sch. 2 para. 6)
+[^M8]: 1985 c. 17.
+[^M9]: 1985 c. 17.
+[^M10]: 1980 c. 9.
+[^F145]: S. 123 repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 17; S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F146]: S. 124 repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 51, Sch. 17; S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F147]: Words in s. 125(a) inserted (11.3.1999) by S.I. 1999/787, art. 97, Sch. 8 para. 1
+[^F148]: Words in s. 125(a) inserted (1.10.2001 subject to art. 3 of the commencing S.I.) by 2001 c. 19, s. 34, Sch. 6 Pt. 3 para. 13; S.I. 2001/3234, arts. 2, 3
+[^F149]: Words in s. 125(a) substituted (31.12.2020) by The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310), reg. 1, Sch. 2 para. 2 (as amended by S.I. 2019/1389, regs. 1, 2(2))
+[^F150]: Ss. 125A-125C inserted (23.7.2018) by Data Protection Act 2018 (c. 12), ss. 195(2), 212(1) (with ss. 117, 209, 210); S.I. 2018/625, reg. 3(l)
+[^F151]: S. 126 repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 52, Sch. 17; S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F152]: Words in s. 127(1) omitted (1.5.2022 for specified purposes) by virtue of Armed Forces Act 2021 (c. 35), s. 24(1), Sch. 2 para. 5(a) (with Sch. 2 para. 10); S.I. 2022/471, reg. 2(c)
+[^F153]: S. 127(1): definition of "permanent service" omitted (1.1.1999) by virtue of S.I. 1998/3086, reg. 10(5)
+[^F154]: Words in s. 127(1) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 53(2)(a), Sch. 17; S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F155]: Words in s. 127(1) substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 53(2)(b); S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F156]: Words in s. 127(1) substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 53(2)(c); S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F157]: Words in s. 127(1) inserted (1.5.2022 for specified purposes) by Armed Forces Act 2021 (c. 35), s. 24(1), Sch. 2 para. 5(b) (with Sch. 2 para. 10); S.I. 2022/471, reg. 2(c)
+[^F158]: Words in s. 127(1) substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 53(2)(d); S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F159]: S. 127(3)(4) added (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 53(3); S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^M11]: 1980 c. 9.
+[^F160]: Words in s. 129 heading substituted (1.10.2014) by Defence Reform Act 2014 (c. 20), s. 50(1), Sch. 6 para. 3 (with s. 49(4), Sch. 7 para. 12(3)); S.I. 2014/2370, art. 4(b)
+[^F161]: Words in s. 129(1) substituted (1.10.2014) by Defence Reform Act 2014 (c. 20), s. 50(1), Sch. 6 para. 2(2) (with s. 49(4), Sch. 7 para. 12(3)); S.I. 2014/2370, art. 4(b)
+[^F162]: Words in s. 129(2) substituted (1.10.2014) by Defence Reform Act 2014 (c. 20), s. 50(1), Sch. 6 para. 2(3) (with s. 49(4), Sch. 7 para. 12(3)); S.I. 2014/2370, art. 4(b)
+[^F163]: Words in s. 129(3) substituted (1.10.2014) by Defence Reform Act 2014 (c. 20), s. 50(1), Sch. 6 para. 2(4)(a) (with s. 49(4), Sch. 7 para. 12(3)); S.I. 2014/2370, art. 4(b)
+[^F164]: Words in s. 129(3) inserted (1.10.2014) by Defence Reform Act 2014 (c. 20), s. 50(1), Sch. 6 para. 2(4)(b) (with s. 49(4), Sch. 7 para. 12(3)); S.I. 2014/2370, art. 4(b)
+[^F165]: Sch. 1 para. 2(1)(1A) substituted for Sch. 1 para. 2(1) (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 54(2); S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F166]: Words in Sch. 1 para. 2(2) substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 54(3); S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F167]: Words in Sch. 1 para. 4(4) substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 54(4); S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F168]: Words in Sch. 1 para. 5(1) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 54(5)(a), Sch. 17; S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F169]: Words in Sch. 1 para. 5(2) substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 54(5)(b); S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F170]: Words in Sch. 1 para. 5(3) substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 54(5)(c); S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F171]: Word in Sch. 1 para. 5(3) substituted (1.5.2022 for specified purposes, 1.4.2023 in so far as not already in force) by Armed Forces Act 2021 (c. 35), s. 24(1), Sch. 6 para. 6(a); S.I. 2022/471, reg. 2(f); S.I. 2023/158, reg. 3
+[^F172]: Sch. 1 para. 5(4)(5) added (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 54(5)(d); S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F173]: Word in Sch. 1 para. 5(4) substituted (1.5.2022 for specified purposes, 1.4.2023 in so far as not already in force) by Armed Forces Act 2021 (c. 35), s. 24(1), Sch. 6 para. 6(b)(i); S.I. 2022/471, reg. 2(f); S.I. 2023/158, reg. 3
+[^F174]: Word in Sch. 1 para. 5(4) substituted (1.5.2022 for specified purposes, 1.4.2023 in so far as not already in force) by Armed Forces Act 2021 (c. 35), s. 24(1), Sch. 6 para. 6(b)(ii); S.I. 2022/471, reg. 2(f); S.I. 2023/158, reg. 3
+[^F175]: Words in Sch. 1 para. 6(1) substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 54(6); S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F176]: Sch. 1 para. 7 heading repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 54(7), Sch. 17; S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F177]: Sch. 1 para. 7 repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 54(7), Sch. 17; S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F178]: Sch. 2 repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 55, Sch. 17; S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F179]: Sch. 3 repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 56, Sch. 17; S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^M12]: 1994 c. 19.
+[^F180]: Words in Sch. 5 para. 1(2) substituted (27.2.2007) by Charities Act 2006 (c. 50), s. 79(2), Sch. 8 para. 181(2); S.I. 2007/309, art. 2, Sch.
+[^F181]: Sch. 5 para. 1(2)(b) repealed (19.5.1999) by S.I. 1999/678, art. 5 (with art. 7)
+[^M13]: 1993 c. 10.
+[^F182]: Words in Sch. 5 para. 2 substituted (14.3.2012 immediately before the commencement of Charities Act 2011 (c. 25), Sch. 7 para. 69(1)) by S.I. 2011/1396, art. 1, Sch. para. 36(b) (which substitution is subsequently superseded (14.3.2012) by Charities Act 2011 (c. 25), s. 355, Sch. 7 para. 69(1) (with s. 20(2), Sch. 8))
+[^M14]: 1964 c. 33 (N.I.).
+[^M15]: 1990 c. 40.
+[^F183]: Words in Sch. 5 para. 4(1) substituted (27.2.2007) by Charities Act 2006 (c. 50), s. 79(2), Sch. 8 para. 181(3)(a); S.I. 2007/309, art. 2, Sch.
+[^F184]: Word in Sch. 5 para. 4(1) substituted (27.2.2007) by Charities Act 2006 (c. 50), s. 79(2), Sch. 8 para. 181(3)(b); S.I. 2007/309, art. 2, Sch.
+[^F185]: Sch. 5 para. 5(2)(3) substituted (14.3.2012) by Charities Act 2011 (c. 25), s. 355, Sch. 7 para. 69(2) (with s. 20(2), Sch. 8)
+[^F186]: Sch. 5 para. 6 substituted (14.3.2012) by Charities Act 2011 (c. 25), s. 355, Sch. 7 para. 69(3) (with s. 20(2), Sch. 8)
+[^M16]: 1964 c. 33 (N.I.).
+[^M17]: 1964 c. 33 (N.I.).
+[^M18]: 1964 c. 33 (N.I.).
+[^F187]: Sch. 6 repealed (1.7.1997) by 1997 c. 23, ss. 8(4), 9(2), Sch. 3 (with s. 7(3), Sch. 2 para. 6)
+[^M19]: 1980 c. 9.
+[^F188]: Sch. 7 repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 57, Sch. 17; S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^M20]: 1980 c. 9.
+[^M21]: 1980 c. 9.
+[^M22]: 1980 c 9.
+[^M23]: 1980 c. 9.
+[^F189]: Words in Sch. 9 heading substituted (1.10.2014) by Defence Reform Act 2014 (c. 20), s. 50(1), Sch. 6 para. 5 (with s. 49(4), Sch. 7 para. 12(3)); S.I. 2014/2370, art. 4(b)
+[^F190]: Words in Sch. 9 Pt. 1 heading substituted (1.10.2014) by Defence Reform Act 2014 (c. 20), s. 50(1), Sch. 6 para. 4(2) (with s. 49(4), Sch. 7 para. 12(3)); S.I. 2014/2370, art. 4(b)
+[^F191]: Words in Sch. 9 para. 1(1) substituted (1.10.2014) by Defence Reform Act 2014 (c. 20), s. 50(1), Sch. 6 para. 4(3) (with s. 49(4), Sch. 7 para. 12(3)); S.I. 2014/2370, art. 4(b)
+[^F192]: Words in Sch. 9 para. 1(2) substituted (1.10.2014) by Defence Reform Act 2014 (c. 20), s. 50(1), Sch. 6 para. 4(3) (with s. 49(4), Sch. 7 para. 12(3)); S.I. 2014/2370, art. 4(b)
+[^F193]: Words in Sch. 9 para. 4(2) inserted (1.10.2014) by Defence Reform Act 2014 (c. 20), s. 50(1), Sch. 6 para. 4(4) (with s. 49(4), Sch. 7 para. 12(3)); S.I. 2014/2370, art. 4(b)
+[^M24]: 1980 c.9.
+[^F194]: Words in Sch. 9 Pt. 2 heading substituted (1.10.2014) by Defence Reform Act 2014 (c. 20), s. 50(1), Sch. 6 para. 4(5) (with s. 49(4), Sch. 7 para. 12(3)); S.I. 2014/2370, art. 4(b)
+[^F195]: Words in Sch. 9 para. 6 substituted (1.10.2014) by Defence Reform Act 2014 (c. 20), s. 50(1), Sch. 6 para. 4(3) (with s. 49(4), Sch. 7 para. 12(3)); S.I. 2014/2370, art. 4(b)
+[^F196]: Words in Sch. 9 para. 11 substituted (1.5.2022 for specified purposes) by Armed Forces Act 2021 (c. 35), s. 24(1), Sch. 2 para. 6 (with Sch. 2 para. 10); S.I. 2022/471, reg. 2(c)
+[^M25]: 1980 c. 9.
+[^F197]: Sch. 9 para. 12A inserted (1.10.2014) by Defence Reform Act 2014 (c. 20), s. 50(1), Sch. 6 para. 4(6) (with s. 49(4), Sch. 7 para. 12(3)); S.I. 2014/2370, art. 4(b)
+[^F198]: Words in Sch. 9 para. 19 substituted (5.9.2014) by Defence Reform Act 2014 (c. 20), s. 50(1), Sch. 7 para. 9 (with s. 49(4), Sch. 7 para. 12(3)); S.I. 2014/2370, art. 3
+[^M26]: 1980 c. 9
+[^F199]: Sch. 9 para. 22 repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 58, Sch. 17; S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F200]: Sch. 9 para. 23 repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 58, Sch. 17; S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F201]: Sch. 9 Pts. 3, 4 inserted (1.10.2014) by Defence Reform Act 2014 (c. 20), s. 50(1), Sch. 6 para. 4(7) (with s. 49(4), Sch. 7 para. 12(3)); S.I. 2014/2370, art. 4(b)
+[^F202]: Sch. 10 paras. 1-13 repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 59, Sch. 17; S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F203]: Sch. 10 paras. 1-13 repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 59, Sch. 17; S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F204]: Sch. 10 para. 17 repealed (22.8.1996) by 1996 c. 18, ss. 242, 243, Sch. 3 Pt. I (with ss. 191-200, 202)
+[^F205]: Sch. 10 para. 18 repealed (19.2.2001) by 1999 c. 22, s. 106, Sch. 15 Pt. V(8) (with Sch. 14 paras. 7(2), 36(9)); S.I. 2001/168, art. 2
+[^F206]: Sch. 10 para. 23 repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 59, Sch. 17; S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4

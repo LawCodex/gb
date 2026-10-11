@@ -1,0 +1,476 @@
+---
+title: "Legal Deposit Libraries Act 2003"
+identifier: "ukpga/2003/28"
+citation: "2003 c. 28"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S+N.I."
+date: 2003-10-30
+last_amended: 2013-04-06
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/2003/28"
+source_modified: 2024-05-17
+retrieved: 2026-10-11
+---
+
+# Legal Deposit Libraries Act 2003
+
+**2003 c. 28**
+
+An Act to make provision in place of section 15 of the Copyright Act 1911 relating to the deposit of printed and similar publications, including on and off line publications; to make provision about the use and preservation of material deposited; and for connected purposes.
+
+[30th October 2003]
+
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## Duty to deposit
+
+### 1 Deposit of publications
+
+(1) A person who publishes in the United Kingdom a work to which this Act applies must at his own expense deliver a copy of it to an address specified (generally or in a particular case) by any deposit library entitled to delivery under this section.
+
+(2) If a deposit library other than the authority controlling the Library of Trinity College, Dublin has not specified an address, the copy is to be delivered to the library.
+
+(3) In the case of a work published in print, this Act applies to—
+
+(a) a book (including a pamphlet, magazine or newspaper),
+
+(b) a sheet of letterpress or music,
+
+(c) a map, plan, chart or table, and
+
+(d) a part of any such work;
+
+but that is subject to any prescribed exception.
+
+(4) In the case of a work published in a medium other than print, this Act applies to a work of a prescribed description.
+
+(5) A prescribed description may not include works consisting only of—
+
+(a) a sound recording or film or both, or
+
+(b) such material and other material which is merely incidental to it.
+
+(6) Subject to section 6(2)(h), the obligation under subsection (1) is to deliver a copy of the work in the medium in which it is published.
+
+(7) In this section, “address” means an address in the United Kingdom or an electronic address.
+
+### 2 New and alternative editions
+
+(1) This Act does not apply to a work which is substantially the same as one already published in the same medium in the United Kingdom.
+
+(2) Where substantially the same work is published in the United Kingdom in more than one medium—
+
+(a) section 1(1) applies only in relation to its publication in one of those media, and
+
+(b) that medium is to be determined in accordance with regulations made by the Secretary of State.
+
+(3) The Secretary of State may by regulations make provision as to circumstances in which works are or are not to be regarded for the purposes of this section as substantially the same.
+
+### 3 Enforcement
+
+(1) This section applies where a person (in this section, “the publisher”) who is required by or under this Act to deliver anything to an address specified by a deposit library, or to a deposit library, has failed to comply with that obligation.
+
+(2) The library may, in accordance with rules of court, apply to the county court (or, in Scotland, to the sheriff) for an order requiring the publisher to comply with the obligation.
+
+(3) If on an application under subsection (2) it appears that—
+
+(a) the publisher is unable to comply with the obligation, or
+
+(b) for any other reason, it is not appropriate to make an order under that subsection,
+
+the court or sheriff may instead make an order requiring the publisher to pay to the library an amount which is not more than the cost of making good the failure to comply.
+
+## Printed publications
+
+### 4 Printed publications: the British Library
+
+(1) The British Library Board is entitled to delivery under section 1 of a copy of every work published in print.
+
+(2) The copy must be delivered within one month beginning with the day of publication.
+
+(3) The copy is to be of the same quality as the best copies which, at the time of delivery, have been produced for publication in the United Kingdom.
+
+(4) The Board must give a receipt in writing (whether sent by electronic or other means).
+
+### 5 Printed publications: other libraries
+
+(1) Each deposit library other than the British Library Board is entitled to delivery under section 1 of a copy of any work published in print which it requests.
+
+(2) A request under this section must be in writing (whether sent by electronic or other means).
+
+(3) A request—
+
+(a) may be made before publication, and
+
+(b) in particular, may relate to all future numbers or parts of an encyclopaedia, newspaper, magazine or other work.
+
+(4) No request may be made after the end of 12 months beginning with the day of publication.
+
+(5) The copy must be delivered within one month beginning with—
+
+(a) the day of publication, or
+
+(b) if later, the day on which the request is received.
+
+(6) The copy is to be of the same quality as the largest number of copies which, at the time of delivery, have been produced for publication in the United Kingdom.
+
+## Non-print publications
+
+### 6 Regulations: deposit of non-print publications
+
+(1) The Secretary of State may make regulations supplementing sections 1 and 2 as they apply to works published in media other than print.
+
+(2) Regulations under this section may in particular—
+
+(a) make provision about the time at which or the circumstances in which any deposit library becomes or ceases to be entitled to delivery under section 1;
+
+(b) require the person mentioned in section 1(1) to deliver, with the copy of the work, a copy of any computer program and any information necessary in order to access the work, and a copy of any manual and other material that accompanies the work and is made available to the public;
+
+(c) require delivery within a time prescribed by reference to publication or another event;
+
+(d) permit or require delivery by electronic means;
+
+(e) where a work is produced for publication in copies of differing quality, specify the quality of copies to be delivered;
+
+(f) where a work is published or made available to the public in different formats, provide for the format in which any copy is to be delivered to be determined in accordance with requirements specified (generally or in a particular case) by the deposit libraries or any of them;
+
+(g) make provision as to the circumstances in which works published on line are or are not to be treated as published in the United Kingdom;
+
+(h) specify the medium in which a copy of a work published on line is to be delivered.
+
+### 7 Restrictions on activities in relation to non-print publications
+
+(1) Subject to subsection (3), a relevant person may not do any of the activities listed in subsection (2) in relation to relevant material.
+
+(2) The activities are—
+
+(a) using the material (whether or not such use necessarily involves the making of a temporary copy of it);
+
+(b) copying the material (other than by making a temporary copy where this is necessary for the purpose of using the material);
+
+(c) in the case of relevant material comprising or containing a computer program or database, adapting it;
+
+(d) lending the material to a third party (other than lending by a deposit library to a reader for use by the reader on library premises controlled by the library);
+
+(e) transferring the material to a third party;
+
+(f) disposing of the material.
+
+(3) The Secretary of State may by regulations make provision permitting relevant persons to do any of the activities listed in subsection (2) in relation to relevant material, subject to such conditions as may be prescribed.
+
+(4) Regulations under this section may in particular make provision about—
+
+(a) the purposes for which relevant material may be used or copied;
+
+(b) the time at which or the circumstances in which readers may first use relevant material;
+
+(c) the description of readers who may use relevant material;
+
+(d) the limitations on the number of readers who may use relevant material at any one time (whether by limiting the number of terminals in a deposit library from which readers may at any one time access an electronic publication or otherwise).
+
+(5) In this section—
+
+(a) “reader” means a person who, for the purposes of research or study and with the permission of a deposit library, is on library premises controlled by it;
+
+(b) “relevant material” means—
+
+(i) a copy delivered under section 1 of a work published in a medium other than print;
+
+(ii) a copy delivered pursuant to regulations under section 6 of a computer program or material within section 6(2)(b);
+
+(iii) a copy of a work to which section 10(6) applies;
+
+(iv) a copy (at any remove) of anything within any of sub-paragraphs (i) to (iii);
+
+(c) “relevant person” means—
+
+(i) a deposit library or person acting on its behalf;
+
+(ii) a reader;
+
+(d) references to a deposit library include references to the Faculty of Advocates.
+
+(6) A contravention of this section is actionable at the suit of a person who suffers loss as a result of the contravention, subject to the defences and other incidents applying to actions for breach of statutory duty.
+
+### 8 Activities in relation to non-print publications: copyright etc.
+
+(1) In Chapter 3 of Part 1 of the 1988 Act (acts permitted in relation to copyright works), after section 44 insert—
+
+> **44A Legal deposit libraries**
+>
+> (1) Copyright is not infringed by the copying of a work from the internet by a deposit library or person acting on its behalf if—
+>
+> (a) the work is of a description prescribed by regulations under section 10(5) of the 2003 Act,
+>
+> (b) its publication on the internet, or a person publishing it there, is connected with the United Kingdom in a manner so prescribed, and
+>
+> (c) the copying is done in accordance with any conditions so prescribed.
+>
+> (2) Copyright is not infringed by the doing of anything in relation to relevant material permitted to be done under regulations under section 7 of the 2003 Act.
+>
+> (3) The Secretary of State may by regulations make provision excluding, in relation to prescribed activities done in relation to relevant material, the application of such of the provisions of this Chapter as are prescribed.
+>
+> (4) Regulations under subsection (3) may in particular make provision prescribing activities—
+>
+> (a) done for a prescribed purpose,
+>
+> (b) done by prescribed descriptions of reader,
+>
+> (c) done in relation to prescribed descriptions of relevant material,
+>
+> (d) done other than in accordance with prescribed conditions.
+>
+> (5) Regulations under this section may make different provision for different purposes.
+>
+> (6) Regulations under this section shall be made by statutory instrument which shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+>
+> (7) In this section—
+>
+> (a) “the 2003 Act” means the Legal Deposit Libraries Act 2003;
+>
+> (b) “deposit library”, “reader” and “relevant material” have the same meaning as in section 7 of the 2003 Act;
+>
+> (c) “prescribed” means prescribed by regulations made by the Secretary of State.
+
+(2) In Part III of the Copyright and Rights in Databases Regulations 1997 (S.I. 1997/3032) (database right), after Regulation 20 insert—
+
+> **20A Exceptions to database right: deposit libraries**
+>
+> (1) Database right in a database is not infringed by the copying of a work from the internet by a deposit library or person acting on its behalf if—
+>
+> (a) the work is of a description prescribed by regulations under section 10(5) of the 2003 Act,
+>
+> (b) its publication on the internet, or a person publishing it there, is connected with the United Kingdom in a manner so prescribed, and
+>
+> (c) the copying is done in accordance with any conditions so prescribed.
+>
+> (2) Database right in a database is not infringed by the doing of anything in relation to relevant material permitted to be done under regulations under section 7 of the 2003 Act.
+>
+> (3) Regulations under section 44A(3) of the 1988 Act exclude the application of paragraph (2) in relation to prescribed activities in relation to relevant material as (and to the extent that) they exclude the application of section 44A(2) of that Act in relation to those activities.
+>
+> (4) In this Regulation—
+>
+> (a) “the 2003 Act” means the Legal Deposit Libraries Act 2003;
+>
+> (b) “deposit library” and “relevant material” have the same meaning as in section 7 of the 2003 Act.
+
+## Exemption from liability
+
+### 9 Exemption from liability: deposit of publications etc.
+
+(1) The delivery by a person, pursuant to section 1, of a copy of a work is to be taken—
+
+(a) not to breach any contract relating to any part of the work to which that person is a party, and
+
+(b) not to infringe copyright, publication right or database right in relation to any part of the work or any patent.
+
+(2) Subsection (1) applies to the delivery, pursuant to regulations under section 6, of a copy of a computer program or material within section 6(2)(b) as it applies to the delivery of a copy of a work pursuant to section 1.
+
+### 10 Exemption from liability: activities in relation to publications
+
+(1) A deposit library, or a person acting on its behalf, is not liable in damages[^F1]... for defamation arising out of the doing by a relevant person of an activity listed in section 7(2) in relation to a copy of a work delivered under section 1.
+
+(2) Subsection (1) does not apply to the liability of a deposit library where—
+
+(a) it knows, or [^F2]... it knows of facts or circumstances from which it ought to know, that the copy contains a defamatory statement, and
+
+(b) it has had a reasonable opportunity since obtaining that knowledge to prevent the doing of the activity in relation to the copy.
+
+(3) Where, pursuant to section 1, a person (in this section, “the publisher”) has delivered a copy of a work to an address specified by a deposit library, the publisher is not liable in damages[^F3]... for defamation arising out of the doing by a relevant person of an activity listed in section 7(2) in relation to the copy.
+
+(4) Subsection (3) does not apply where—
+
+(a) the publisher knows, or [^F4]... the publisher knows of facts or circumstances from which it ought to know, that the copy contains a defamatory statement, and
+
+(b) it has had a reasonable opportunity since obtaining that knowledge to inform the library of the matter, facts or circumstances known to it and has not done so.
+
+(5) Where a work is published on the internet, subsection (6) applies to a copy of the work if—
+
+(a) the work is of a description prescribed by regulations under this subsection,
+
+(b) the publication of the work on the internet, or a person publishing it there, is connected with the United Kingdom in a manner so prescribed, and
+
+(c) the copy was made by a deposit library or person acting on its behalf copying the work from the internet in accordance with any conditions so prescribed.
+
+(6) Where this subsection applies to a copy of a work—
+
+(a) no person other than the library is liable in damages[^F5]... for defamation arising out of the doing by a relevant person of an activity listed in section 7(2) in relation to the copy, and
+
+(b) subsections (1) and (2) apply in relation to the doing of an activity in relation to the copy as they apply in relation to the doing of the activity in relation to a copy of a work delivered under section 1.
+
+(7) In this section—
+
+(a) “ relevant person ” has the same meaning as in section 7;
+
+(b) references to activities listed in section 7(2) are references to those activities whether or not done in relation to relevant material (as defined in section 7);
+
+(c) references to a deposit library include references to the Faculty of Advocates.
+
+(8) The Secretary of State may by regulations provide for this section, as it applies in relation to liability in damages [^F6]... for defamation, to apply in relation to liability (including criminal liability) of any description prescribed in the regulations, subject to such modifications as may be prescribed.
+
+(9) Where this section applies to the doing of an activity in relation to a copy of a work it also applies to the doing of the activity in relation to a copy (at any remove) of that copy.
+
+(10) Nothing in this section imposes liability on any person.
+
+## Regulations
+
+### 11 Regulations: general
+
+(1) Any power under this Act to make regulations—
+
+(a) includes power to make different provision for different purposes, including in particular different media, descriptions of work, deposit libraries or areas, and
+
+(b) as well as being exercisable in relation to all cases to which it extends, may be exercised in relation to those cases subject to specified exceptions, or in relation to a particular case or class of cases.
+
+(2) Regulations under this Act may not be made unless the Secretary of State has consulted—
+
+(a) the deposit libraries, and
+
+(b) the publishers appearing to the Secretary of State to be likely to be affected.
+
+(3) Regulations under section 1(4) or 6 may not be made so as to apply to works published before the regulations are made.
+
+(4) Regulations under section 1(4), 2 or 6 may not be made unless the Secretary of State considers that the costs likely to be incurred as a result of the regulations by persons who publish works to which the regulations relate are not disproportionate to the benefit to the public arising from the delivery of copies of such works.
+
+(5) Regulations under section 1(4), 2, 6, 7 or 10(5) may not be made unless the Secretary of State considers that the regulations do not unreasonably prejudice the interests of persons who publish works to which the regulations relate.
+
+(6) Any power to make regulations under this Act is exercisable by statutory instrument, and no such regulations may be made unless a draft of the instrument containing them has been laid before and approved by a resolution of each House of Parliament.
+
+### 12 Regulations: Scotland and Wales
+
+(1) Regulations under this Act may not be made without the consent of the Scottish Ministers if they would—
+
+(a) remove an entitlement conferred by or under this Act on [^F7]the authority controlling the National Library of Scotland, or
+
+(b) confer an entitlement that is not conferred on [^F8]that authority[[^F8]the National Library of Scotland] on any other deposit library.
+
+(2) Subsection (1) does not apply where the entitlement is to delivery of copies of electronic publications and—
+
+(a) in the case of legal publications, the Faculty of Advocates, or
+
+(b) in any other case, [^F9]the authority controlling the National Library of Scotland,
+
+is provided with a means of accessing those publications electronically.
+
+(3) Where subsection (1) does not apply, regulations under this Act that would affect [^F10]the authority controlling the National Library of Scotland may not be made unless the Secretary of State has consulted the Scottish Ministers.
+
+(4) Regulations under this Act may not be made without the consent of the National Assembly for Wales if they would—
+
+(a) remove an entitlement conferred by or under this Act on the authority controlling the National Library of Wales, or
+
+(b) confer an entitlement that is not conferred on that authority on any other deposit library;
+
+but this does not apply where the entitlement is to delivery of copies of electronic publications and that authority is provided with a means of accessing those publications electronically.
+
+(5) Where subsection (4) does not apply, regulations under this Act that would affect the authority controlling the National Library of Wales may not be made unless the Secretary of State has consulted the National Assembly for Wales.
+
+### 13 Regulations: Trinity College, Dublin
+
+(1) Regulations under this Act which confer an entitlement on the authority controlling the Library of Trinity College, Dublin may not be made unless the Secretary of State is satisfied, in relation to relevant material delivered pursuant to such an entitlement—
+
+(a) that as regards the restriction by section 7 (having regard to any regulations made under that section) of activities in relation to relevant material, the restriction of those activities under the laws of Ireland is not substantially less,
+
+(b) that as regards the protection under the laws of any part of the United Kingdom of copyright, publication right, database right and patents in relation to relevant material, the protection under the laws of Ireland of corresponding rights is not substantially less, and
+
+(c) that as regards the protection from liability under subsections (3) and (4) of section 10 (or those subsections as applied by regulations under that section), the protection under the laws of Ireland in relation to corresponding liability is not substantially less.
+
+(2) In this section “relevant material” has the same meaning as in section 7.
+
+## General
+
+### 14 Interpretation
+
+In this Act—
+
+- “the 1988 Act” means the Copyright, Designs and Patents Act 1988 (c. 48);
+
+- “database right” has the meaning given by regulation 13(1) of the Copyright and Rights in Databases Regulations 1997 (S.I. 1997/3032);
+
+- “deposit library” means any of the British Library Board[[^F11], the National Library of Scotland] and the authorities controlling—
+
+  - (a) [^F12]the National Library of Scotland,
+  - (b) the National Library of Wales,
+  - (c) the Bodleian Library, Oxford,
+  - (d) the University Library, Cambridge,
+  - (e) the Library of Trinity College, Dublin;
+
+- “electronic publication” means an on line or off line publication including any publication in electronic form (within the meaning given by section 178 of the 1988 Act);
+
+- “film” has the meaning given by section 5B of the 1988 Act;
+
+- “medium” means any medium of publication, including in particular any form of on line or off line publication;
+
+- “prescribed” means prescribed by regulations made by the Secretary of State;
+
+- “publication”, in relation to a work—
+
+  - (a) means the issue of copies of the work to the public, and
+  - (b) includes making the work available to the public by means of an electronic retrieval system;
+
+  and related expressions are to be interpreted accordingly;
+
+- “publication right” has the meaning given by regulation 16(1) of the Copyright and Related Rights Regulations 1996 (S.I. 1996/2967);
+
+- “sound recording” has the meaning given by section 5A of the 1988 Act.
+
+### 15 Consequential amendments, repeals and revocation
+
+(1) The provisions listed in the Schedule are repealed or revoked to the extent specified.
+
+(2) [^F13]Section 5 of the National Library of Scotland Act 1925 (c. 73) (transfer of privilege under section 15 of the Copyright Act 1911) is amended as follows.
+
+(3) [^F13]For subsections (1) to (3) substitute— "(1)Copies of legal publications delivered for the Board as the authority for the Library under section 1 of the Legal Deposit Libraries Act 2003 shall be transmitted by the Board to the Faculty. (2)The Board shall cause to be inserted in the requests made for them under section 5 of that Act such legal publications as may be named in writing to them by the Faculty.”
+
+(4) [^F13] In subsections (4) and (5), for “law books” substitute [^F13]“ legal publications ”[^F13] .
+
+(5) [^F13]After subsection (5) add—
+
+> [^F13]6 [^F13] In this section, “ [^F13]publication[^F13] ” includes a publication made available to the public by means of an electronic retrieval system.
+
+### 16 Commencement and extent
+
+(1) The preceding provisions of this Act, except so far as they confer power to make regulations, come into force in accordance with provision made by the Secretary of State by order made by statutory instrument.
+
+(2) Different provision may be made for different purposes.
+
+(3) An order under subsection (1) may not be made unless the Secretary of State has consulted the Scottish Ministers and the National Assembly for Wales.
+
+(4) This Act does not apply to works published before the commencement of section 1.
+
+(5) This Act extends to Northern Ireland.
+
+### 17 Short title
+
+This Act may be cited as the Legal Deposit Libraries Act 2003.
+
+## SCHEDULE — Repeals and revocation
+
+*Section 15(1)*
+
+|  |  |
+|---|---|
+| *Reference* | *Extent of repeal or revocation* |
+| Copyright Act 1911 (c. 46) | Section 15. |
+| British Museum Act 1932 (c. 34) | The whole Act. |
+| British Library Act 1972 (c. 54) | Section 4(1). |
+| National Assembly for Wales (Transfer of Functions) Order 1999 (S. I. 1999/672) | In Schedule 2, the entry relating to the Copyright Act 1911. |
+
+---
+
+[^F1]: Words in s. 10(1) repealed (E.W.N.I) (12.1.2010) by Coroners and Justice Act 2009 (c. 25) , s. 182(2)(e)(xi) , Sch. 23 Pt. 2 (with s. 180 ); and said words in s. 10(1) repealed (S.) (28.3.2011) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13) , s. 206(1) , Sch. 7 para. 72(a) ; S.S.I. 2011/178 , art. 2 , Sch.
+[^F2]: Words in s. 10(2)(a) repealed (E.W.N.I) (12.1.2010) by Coroners and Justice Act 2009 (c. 25) , s. 182(2)(e)(xi) , Sch. 23 Pt. 2 (with s. 180 ); and said words in s. 10(2)(a) repealed (S.) (28.3.2011) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13) , s. 206(1) , Sch. 7 para. 72(b) ; S.S.I. 2011/178 , art. 2 , Sch.
+[^F3]: Words in s. 10(3) repealed (E.W.N.I) (12.1.2010) by Coroners and Justice Act 2009 (c. 25) , s. 182(2)(e)(xi) , Sch. 23 Pt. 2 (with s. 180 ); and said words in s. 10(3) repealed (S.) (28.3.2011) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13) , s. 206(1) , Sch. 7 para. 72(c) ; S.S.I. 2011/178 , art. 2 , Sch.
+[^F4]: Words in s. 10(4)(a) repealed (E.W.N.I) (12.1.2010) by Coroners and Justice Act 2009 (c. 25) , s. 182(2)(e)(xi) , Sch. 23 Pt. 2 (with s. 180 ); and said words in s. 10(4)(a) repealed (S.) (28.3.2011) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13) , s. 206(1) , Sch. 7 para. 72(d) ; S.S.I. 2011/178 , art. 2 , Sch.
+[^F5]: Words in s. 10(6)(a) repealed (E.W.N.I) (12.1.2010) by Coroners and Justice Act 2009 (c. 25) , s. 182(2)(e)(xi) , Sch. 23 Pt. 2 (with s. 180 ); and said words in s. 10(6)(a) repealed (S.) (28.3.2011) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), s. 206(1), Sch. 7 para. 72(e); S.S.I. 2011/178, art. 2, Sch.
+[^F6]: Words in s. 10(8) repealed (E.W.N.I) (12.1.2010) by Coroners and Justice Act 2009 (c. 25) , s. 182(2)(e)(xi) , Sch. 23 Pt. 2 (with s. 180 ); and said words in s. 10(8) repealed (S.) (28.3.2011) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), s. 206(1), Sch. 7 para. 72(f); S.S.I. 2011/178, art. 2, Sch.
+[^F7]: Words in s. 12(1)(a) repealed (S.) (1.2.2013) by National Library of Scotland Act 2012 (asp 3) , s. 12(3) , Sch. 2 para. 7(a)(i) ; S.S.I. 2013/1 , art. 2
+[^F8]: Words in s. 12(1)(b) substituted (S.) (1.2.2013) by National Library of Scotland Act 2012 (asp 3) , s. 12(3) , Sch. 2 para. 7(a)(ii) ; S.S.I. 2013/1 , art. 2
+[^F9]: Words in s. 12(2)(b) repealed (S.) (1.2.2013) by National Library of Scotland Act 2012 (asp 3) , s. 12(3) , Sch. 2 para. 7(a)(iii) ; S.S.I. 2013/1 , art. 2
+[^F10]: Words in s. 12(3) repealed (S.) (1.2.2013) by National Library of Scotland Act 2012 (asp 3) , s. 12(3) , Sch. 2 para. 7(a)(iv) ; S.S.I. 2013/1 , art. 2
+[^F11]: Words in s. 14 inserted (S.) (1.2.2013) by National Library of Scotland Act 2012 (asp 3), s. 12(3), Sch. 2 para. 7(b)(i); S.S.I. 2013/1, art. 2
+[^F12]: Words in s. 14 repealed (S.) (1.2.2013) by National Library of Scotland Act 2012 (asp 3), s. 12(3), Sch. 2 para. 7(b)(ii); S.S.I. 2013/1, art. 2
+[^F13]: S. 15(2)-(5) repealed (S.) (1.2.2013) by National Library of Scotland Act 2012 (asp 3) , s. 12(3) , Sch. 3 ; S.S.I. 2013/1 , art. 2

@@ -1,0 +1,769 @@
+---
+title: "Noise and Statutory Nuisance Act 1993"
+identifier: "ukpga/1993/40"
+citation: "1993 c. 40"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S"
+date: 1993-11-05
+last_amended: 2016-06-14
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/1993/40"
+source_modified: 2016-09-21
+retrieved: 2026-10-11
+---
+
+# Noise and Statutory Nuisance Act 1993
+
+**1993 c. 40**
+
+An Act to make provision for noise in a street to be a statutory nuisance; to make provision with respect to the operation of loudspeakers in a street; to make provision with respect to audible intruder alarms; to make provision for expenses incurred by local authorities in abating, or preventing the recurrence of, a statutory nuisance to be a charge on the premises to which they relate; and for connected purposes.
+
+[5th November 1993]
+
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## Preliminary
+
+### 1 Interpretation.
+
+In this Act “the 1974 Act” means the [^M1]Control of Pollution Act 1974 and “the 1990 Act” means the [^M2]Environmental Protection Act 1990.
+
+## Noise in street to be a statutory nuisance
+
+### 2 Noise in street to be a statutory nuisance.
+
+(1) Section 79 of the 1990 Act (statutory nuisances) shall be amended as follows.
+
+(2) In subsection (1) (list of statutory nuisances)—
+
+(a) for “Subject to subsections (2) to (6) below” there shall be substituted “ Subject to subsections (2) to (6A) below ”,
+
+(b) after paragraph (g) there shall be inserted—
+
+> (ga) noise that is prejudicial to health or a nuisance and is emitted from or caused by a vehicle, machinery or equipment in a street;
+
+, and
+
+(c) after “section 80 below” there shall be inserted “ or sections 80 and 80A below ”.
+
+(3) After subsection (6) there shall be inserted—
+
+> (6A) Subsection (1)(ga) above does not apply to noise made—
+>
+> (a) by traffic,
+>
+> (b) by any naval, military or air force of the Crown or by a visiting force (as defined in subsection (2) above), or
+>
+> (c) by a political demonstration or a demonstration supporting or opposing a cause or campaign.
+
+(4) In subsection (7) (interpretation)—
+
+(a) after the definition of “dust” there shall be inserted—
+
+> “equipment” includes a musical instrument;
+
+,
+
+(b) for the definition of “person responsible” there shall be substituted—
+
+> “person responsible”—
+>
+> (a) in relation to a statutory nuisance, means the person to whose act, default or sufferance the nuisance is attributable;
+>
+> (b) in relation to a vehicle, includes the person in whose name the vehicle is for the time being registered under the [^M3]Vehicles (Excise) Act 1971 and any other person who is for the time being the driver of the vehicle;
+>
+> (c) in relation to machinery or equipment, includes any person who is for the time being the operator of the machinery or equipment;
+
+, and
+
+(c) after the definition of “smoke” there shall be inserted—
+
+> “street” means a highway and any other road, footway, square or court that is for the time being open to the public;
+
+.
+
+(5) In subsection (8) (port health authority to have functions of a local authority under Part III of the 1990 Act, except those relating to a statutory nuisance within section 79(1)(g)) after “paragraph (g)” there shall be inserted “ or (ga) ”.
+
+### 3 Summary proceedings in respect of noise in street.
+
+(1) Section 80 of the 1990 Act (summary proceedings for statutory nuisances) shall be amended as follows.
+
+(2) In subsection (2) (person on whom abatement notice is to be served) for “The abatement notice” there shall be substituted “ Subject to section 80A(1) below, the abatement notice ”.
+
+(3) In subsection (3) (right of appeal to magistrates’ court) for “The person served with the notice” there shall be substituted “ A person served with an abatement notice ”.
+
+(4) In subsection (8) (defence that the best practicable means were used to prevent, or counteract the effects of, the nuisance not available in certain cases) after paragraph (a) there shall be inserted—
+
+> (aa) in the case of a nuisance falling within paragraph (ga) of section 79(1) above except where the noise is emitted from or caused by a vehicle, machinery or equipment being used for industrial, trade or business purposes;
+
+.
+
+(5) In subsection (9) (defence to proceedings in respect of a nuisance within section 79(1)(g) that noise was authorised by a notice served under section 60 or a consent given under section 61 etc. of the 1974 Act: construction sites) after “paragraph (g)” there shall be inserted “ or (ga) ”.
+
+(6) After section 80 of the 1990 Act there shall be inserted—
+
+> **80A Abatement notice in respect of noise in street.**
+>
+> (1) In the case of a statutory nuisance within section 79(1)(ga) above that—
+>
+> (a) has not yet occurred, or
+>
+> (b) arises from noise emitted from or caused by an unattended vehicle or unattended machinery or equipment,
+>
+> the abatement notice shall be served in accordance with subsection (2) below.
+>
+> (2) The notice shall be served—
+>
+> (a) where the person responsible for the vehicle, machinery or equipment can be found, on that person;
+>
+> (b) where that person cannot be found or where the local authority determines that this paragraph should apply, by fixing the notice to the vehicle, machinery or equipment.
+>
+> (3) Where—
+>
+> (a) an abatement notice is served in accordance with subsection (2)(b) above by virtue of a determination of the local authority, and
+>
+> (b) the person responsible for the vehicle, machinery or equipment can be found and served with a copy of the notice within an hour of the notice being fixed to the vehicle, machinery or equipment,
+>
+> a copy of the notice shall be served on that person accordingly.
+>
+> (4) Where an abatement notice is served in accordance with subsection (2)(b) above by virtue of a determination of the local authority, the notice shall state that, if a copy of the notice is subsequently served under subsection (3) above, the time specified in the notice as the time within which its requirements are to be complied with is extended by such further period as is specified in the notice.
+>
+> (5) Where an abatement notice is served in accordance with subsection (2)(b) above, the person responsible for the vehicle, machinery or equipment may appeal against the notice under section 80(3) above as if he had been served with the notice on the date on which it was fixed to the vehicle, machinery or equipment.
+>
+> (6) Section 80(4) above shall apply in relation to a person on whom a copy of an abatement notice is served under subsection (3) above as if the copy were the notice itself.
+>
+> (7) A person who removes or interferes with a notice fixed to a vehicle, machinery or equipment in accordance with subsection (2)(b) above shall be guilty of an offence, unless he is the person responsible for the vehicle, machinery or equipment or he does so with the authority of that person.
+>
+> (8) A person who commits an offence under subsection (7) above shall be liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+### 4 Supplementary provisions.
+
+(1) Section 81 of the 1990 Act (provisions supplementary to sections 79 and 80) shall be amended as follows.
+
+(2) In subsection (1) (application of section 80 where more than one person is responsible for statutory nuisance) for “Where” there shall be substituted “ Subject to subsection (1A) below, where ”.
+
+(3) After subsection (1) there shall be inserted—
+
+> (1A) In relation to a statutory nuisance within section 79(1)(ga) above for which more than one person is responsible (whether or not what any one of those persons is responsible for would by itself amount to such a nuisance), section 80(2)(a) above shall apply with the substitution of “any one of the persons” for “the person”.
+>
+> (1B) In relation to a statutory nuisance within section 79(1)(ga) above caused by noise emitted from or caused by an unattended vehicle or unattended machinery or equipment for which more than one person is responsible, section 80A above shall apply with the substitution—
+>
+> (a) in subsection (2)(a), of “any of the persons” for “the person” and of “one such person” for “that person”,
+>
+> (b) in subsection (2)(b), of “such a person” for “that person”,
+>
+> (c) in subsection (3), of “any of the persons” for “the person” and of “one such person” for “that person”,
+>
+> (d) in subsection (5), of “any person” for “the person”, and
+>
+> (e) in subsection (7), of “a person” for “the person” and of “such a person” for “that person”.
+
+(4) In subsection (6) (defence to proceedings in respect of a nuisance within section 79(1)(g) that noise was authorised by a notice served under section 60 or a consent given under section 61 etc. of the 1974 Act: construction sites) after “paragraph (g)” there shall be inserted “ or (ga) ”.
+
+(5) In Schedule 3 to the 1990 Act (further supplementary provisions) after paragraph 2 there shall be inserted—
+
+> **2A**
+>
+> (1) Any person authorised by a local authority may on production (if so required) of his authority—
+>
+> (a) enter or open a vehicle, machinery or equipment, if necessary by force, or
+>
+> (b) remove a vehicle, machinery or equipment from a street to a secure place,
+>
+> for the purpose of taking any action, or executing any work, authorised by or required under Part III in relation to a statutory nuisance within section 79(1)(ga) above caused by noise emitted from or caused by the vehicle, machinery or equipment.
+>
+> (2) On leaving any unattended vehicle, machinery or equipment that he has entered or opened under sub-paragraph (1) above, the authorised person shall (subject to sub-paragraph (3) below) leave it secured against interference or theft in such manner and as effectually as he found it.
+>
+> (3) If the authorised person is unable to comply with sub-paragraph (2) above, he shall for the purpose of securing the unattended vehicle, machinery or equipment either—
+>
+> (a) immobilise it by such means as he considers expedient, or
+>
+> (b) remove it from the street to a secure place.
+>
+> (4) In carrying out any function under sub-paragraph (1), (2) or (3) above, the authorised person shall not cause more damage than is necessary.
+>
+> (5) Before a vehicle, machinery or equipment is entered, opened or removed under sub-paragraph (1) above, the local authority shall notify the police of the intention to take action under that sub-paragraph.
+>
+> (6) After a vehicle, machinery or equipment has been removed under sub-paragraph (1) or (3) above, the local authority shall notify the police of its removal and current location.
+>
+> (7) Notification under sub-paragraph (5) or (6) above may be given to the police at any police station in the local authority’s area or, in the case of the Temples, at any police station of the City of London Police.
+>
+> (8) For the purposes of section 81(4) above, any expenses reasonably incurred by a local authority under sub-paragraph (2) or (3) above shall be treated as incurred by the authority under section 81(3) above in abating or preventing the recurrence of the statutory nuisance in question.
+
+(6) In paragraph 3(1) of that Schedule (wilful obstruction of a person exercising any powers under paragraph 2 is an offence) after “paragraph 2” there shall be inserted “ or 2A ”.
+
+(7) In paragraph 4(1) of that Schedule (function of local authority in relation to which Secretary of State’s default powers apply)—
+
+(a) after “section 80” there shall be inserted “ or sections 80 and 80A ”, and
+
+(b) after “paragraph 2” there shall be inserted “ or 2A ”.
+
+### 5 Summary proceedings by persons aggrieved by noise in street.
+
+(1) Section 82 of the 1990 Act (summary proceedings by persons aggrieved by statutory nuisances) shall be amended as follows.
+
+(2) In subsection (2) (duty of magistrates’ court to make an order if satisfied that nuisance exists or is likely to recur on same premises) after “premises” there shall be inserted “ or, in the case of a nuisance within section 79(1)(ga) above, in the same street ”.
+
+(3) In subsection (4) (person against whom proceedings are to be brought)—
+
+(a) in paragraph (a), for “paragraph (b) or (c) below” there shall be substituted “ paragraph (b), (c) or (d) below ”, and
+
+(b) after paragraph (c) there shall be added—
+
+> (d) in the case of a statutory nuisance within section 79(1)(ga) above caused by noise emitted from or caused by an unattended vehicle or unattended machinery or equipment, against the person responsible for the vehicle, machinery or equipment.
+
+(4) In subsection (5) (application of subsections (1) to (4) where more than one person is responsible for statutory nuisance) for “Where” there shall be substituted “ Subject to subsection (5A) below, where ”.
+
+(5) After subsection (5) there shall be inserted—
+
+> (5A) In relation to a statutory nuisance within section 79(1)(ga) above for which more than one person is responsible (whether or not what any one of those persons is responsible for would by itself amount to such a nuisance), subsection (4)(a) above shall apply with the substitution of “each person responsible for the nuisance who can be found” for “the person responsible for the nuisance”.
+>
+> (5B) In relation to a statutory nuisance within section 79(1)(ga) above caused by noise emitted from or caused by an unattended vehicle or unattended machinery or equipment for which more than one person is responsible, subsection (4)(d) above shall apply with the substitution of “any person” for “the person”.
+
+(6) In subsection (7)(a) (at least three days’ notice of proceedings to be given in the case of a nuisance within section 79(1)(g)) after “paragraph (g)” there shall be inserted “ or (ga) ”.
+
+(7) In subsection (10) (cases where defence that the best practicable means were used to prevent, or counteract the effects of, the nuisance is not available) after paragraph (a) there shall be inserted—
+
+> (aa) in the case of a nuisance falling within paragraph (ga) of section 79(1) above except where the noise is emitted from or caused by a vehicle, machinery or equipment being used for industrial, trade or business purposes;
+
+.
+
+(8) In subsection (13) (power of court where person responsible for the nuisance etc. cannot be found to direct local authority to do anything that person would have been ordered to do) after “the owner or occupier of the premises” there shall be inserted “ or (as the case may be) the person responsible for the vehicle, machinery or equipment ”.
+
+### [^F1]6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Loudspeakers
+
+### 7 Operation of loudspeakers in streets or roads.
+
+(1) Section 62 of the 1974 Act (noise in streets) shall be amended as follows.
+
+(2) In subsection (1) (prohibition on the operation of loudspeakers between 9 p.m. and 8 a.m. and of loudspeakers used for advertising at any other time) for “In this subsection” there shall be substituted “ In this section ”.
+
+(3) After subsection (1) there shall be inserted—
+
+> (1A) Subject to subsection (1B) of this section, the Secretary of State may by order amend the times specified in subsection (1)(a) of this section.
+>
+> (1B) An order under subsection (1A) of this section shall not amend the times so as to permit the operation of a loudspeaker in a street at any time between the hours of nine in the evening and eight in the following morning.
+
+(4) In subsection (2) for “The preceding subsection” there shall be inserted “ Subsection (1) of this section ”.
+
+(5) After subsection (3) there shall be inserted—
+
+> (3A) Subsection (1) of this section shall not apply to the operation of a loudspeaker in accordance with a consent granted by a local authority under Schedule 2 to the Noise and Statutory Nuisance Act 1993.
+
+(6) In the application of this section to Scotland—
+
+(a) subsection (2) shall be omitted, and
+
+(b) in subsection (3) for “street” there shall be substituted “ road ”.
+
+### 8 Consent of local authorities to the operation of loudspeakers in streets or roads.
+
+(1) A local authority may resolve that Schedule 2 is to apply to its area.
+
+(2) If a local authority does so resolve, Schedule 2 shall come into force in its area on such date as may be specified for that purpose in the resolution, being a date at least one month after the date on which the resolution is passed.
+
+(3) Where a local authority has passed a resolution under this section, the authority shall cause a notice to be published, in two consecutive weeks before the Schedule comes into force in its area, in a local newspaper circulating in the area.
+
+(4) The notice shall—
+
+(a) state that the resolution has been passed, and
+
+(b) set out the general effect of Schedule 2 and, in particular, the procedure for applying for a consent under that Schedule.
+
+(5) In this section “local authority” means—
+
+(a) in relation to England and Wales—
+
+(i) the council of a district,
+
+(ii) the council of a London borough,
+
+(iii) the Common Council of the City of London,
+
+(iv) the Sub-Treasurer of the Inner Temple, or
+
+(v) the Under Treasurer of the Middle Temple, and
+
+(b) in relation to Scotland, a [[^F2]council constituted under section 2 of the Local Government etc. (Scotland) Act 1994].
+
+## Audible intruder alarms
+
+### [^F3]9 Audible intruder alarms.
+
+[^F3]1 [^F3]A local authority may, after consulting the chief officer of police, resolve that Schedule 3 is to apply to its area.
+
+[^F3]2 [^F3]If a local authority does so resolve—
+
+[^F3]a [^F3]Schedule 3 (other than paragraph 4) shall come into force in its area on such date as may be specified for that purpose in the resolution (“the first appointed day”), and
+
+[^F3]b [^F3]paragraph 4 of Schedule 3 shall come into force in its area, and accordingly paragraphs 2 and 3 of that Schedule shall cease to have effect in its area, on such later date as may be so specified (“the second appointed day”).
+
+[^F3]3 [^F3]The first appointed day shall be at least four months after the date on which the resolution is passed.
+
+[^F3]4 [^F3]The second appointed day shall be at least nine months after the first appointed day.
+
+[^F3]5 [^F3]Where a local authority has passed a resolution under this section, the authority shall cause a notice to be published, in two consecutive weeks ending at least three months before the first appointed day, in a local newspaper circulating in its area.
+
+[^F3]6 [^F3]The notice shall—
+
+[^F3]a [^F3]state that the resolution has been passed,
+
+[^F3]b [^F3]state the first and second appointed days, and
+
+[^F3]c [^F3]set out the general effect of Schedule 3 as it will apply from each of those days.
+
+[^F3]7 [^F3]In this section—
+
+- [^F3]“[^F3]chief officer of police[^F3]”, in relation to a local authority, means—
+
+  - (a) [^F3]the chief officer of police for the police area in which the area of the local authority is situated, or
+  - (b) [^F3]where part of the local authority’s area is situated in one police area and part in another, the chief officer of police for each police area in which a part of the local authority’s area is situated;
+
+- [^F3]“[^F3]local authority[^F3]” means—
+
+  - (a) [^F3]in relation to England and Wales, the council of a district, and
+  - (b) [^F3]in relation to Scotland, a [^F3][[^F4]council constituted under section 2 of the Local Government [^F3]etc.[^F3] (Scotland) Act 1994][^F3].
+
+## Expenses to be a charge on premises etc.
+
+### 10 Expenses recoverable from owner to be a charge on premises and payable by instalments.
+
+(1) In section 79(7) and (11) of the 1990 Act after “subject to subsection (12)” there shall be inserted “ and section 81A(9) ”.
+
+(2) After section 81 of the 1990 Act there shall be inserted—
+
+> **81A Expenses recoverable from owner to be a charge on premises.**
+>
+> (1) Where any expenses are recoverable under section 81(4) above from a person who is the owner of the premises there mentioned and the local authority serves a notice on him under this section—
+>
+> (a) the expenses shall carry interest, at such reasonable rate as the local authority may determine, from the date of service of the notice until the whole amount is paid, and
+>
+> (b) subject to the following provisions of this section, the expenses and accrued interest shall be a charge on the premises.
+>
+> (2) A notice served under this section shall—
+>
+> (a) specify the amount of the expenses that the local authority claims is recoverable,
+>
+> (b) state the effect of subsection (1) above and the rate of interest determined by the local authority under that subsection, and
+>
+> (c) state the effect of subsections (4) to (6) below.
+>
+> (3) On the date on which a local authority serves a notice on a person under this section the authority shall also serve a copy of the notice on every other person who, to the knowledge of the authority, has an interest in the premises capable of being affected by the charge.
+>
+> (4) Subject to any order under subsection (7)(b) or (c) below, the amount of any expenses specified in a notice under this section and the accrued interest shall be a charge on the premises—
+>
+> (a) as from the end of the period of twenty-one days beginning with the date of service of the notice, or
+>
+> (b) where an appeal is brought under subsection (6) below, as from the final determination of the appeal,
+>
+> until the expenses and interest are recovered.
+>
+> (5) For the purposes of subsection (4) above, the withdrawal of an appeal has the same effect as a final determination of the appeal.
+>
+> (6) A person served with a notice or copy of a notice under this section may appeal against the notice to the county court within the period of twenty-one days beginning with the date of service.
+>
+> (7) On such an appeal the court may—
+>
+> (a) confirm the notice without modification,
+>
+> (b) order that the notice is to have effect with the substitution of a different amount for the amount originally specified in it, or
+>
+> (c) order that the notice is to be of no effect.
+>
+> (8) A local authority shall, for the purpose of enforcing a charge under this section, have all the same powers and remedies under the [^M4]Law of Property Act 1925, and otherwise, as if it were a mortgagee by deed having powers of sale and lease, of accepting surrenders of leases and of appointing a receiver.
+>
+> (9) In this section—
+>
+> - “owner”, in relation to any premises, means a person (other than a mortgagee not in possession) who, whether in his own right or as trustee for any other person, is entitled to receive the rack rent of the premises or, where the premises are not let at a rack rent, would be so entitled if they were so let, and
+> - “premises” does not include a vessel.
+>
+> **81B Payment of expenses by instalments.**
+>
+> (1) Where any expenses are a charge on premises under section 81A above, the local authority may by order declare the expenses to be payable with interest by instalments within the specified period, until the whole amount is paid.
+>
+> (2) In subsection (1) above—
+>
+> - “interest” means interest at the rate determined by the authority under section 81A (1) above, and
+> - “the specified period” means such period of thirty years or less from the date of service of the notice under section 81A above as is specified in the order.
+>
+> (3) Subject to subsection (5) below, the instalments and interest, or any part of them, may be recovered from the owner or occupier for the time being of the premises.
+>
+> (4) Any sums recovered from an occupier may be deducted by him from the rent of the premises.
+>
+> (5) An occupier shall not be required to pay at any one time any sum greater than the aggregate of—
+>
+> (a) the amount that was due from him on account of rent at the date on which he was served with a demand from the local authority together with a notice requiring him not to pay rent to his landlord without deducting the sum demanded, and
+>
+> (b) the amount that has become due from him on account of rent since that date.
+
+## General
+
+### 11 Expenses.
+
+There shall be paid out of money provided by Parliament any increase attributable to this Act in the sums payable out of money so provided under any other enactment.
+
+### 12 Commencement.
+
+(1) Subject to subsection (2), this Act shall come into force at the end of the period of two months beginning with the day on which it is passed.
+
+(2) Section 9 and Schedule 3 shall come into force on such day as the Secretary of State may by order made by statutory instrument appoint; and different days may be so appointed in respect of different areas.
+
+### 13 Extent.
+
+(1) Sections 2 to 5 and 10 do not extend to Scotland.
+
+[^F5]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) No provision of this Act extends to Northern Ireland.
+
+### 14 Short title.
+
+This Act may be cited as the Noise and Statutory Nuisance Act 1993.
+
+## [^F6]SCHEDULE 1
+
+**1** The 1974 Act shall be amended as follows.
+
+**2** In section 58 (summary proceedings to deal with noise)—
+
+(a) in subsection (1), after the word “nuisance” where it first occurs there shall be inserted “ (including without prejudice to the generality of this subsection but subject to subsection (1A) below “road noise”, that is to say noise emitted from or caused by a vehicle, machinery or equipment in a road) ”;
+
+(b) after subsection (1) there shall be inserted—
+
+> (1A) Subsection (1) above does not apply to road noise made—
+>
+> (a) by traffic;
+>
+> (b) by any naval, military or air force of the Crown or by any such body, contingent or detachment of the forces of any country as is a visiting force for the purposes of the [^M5]Visiting Forces Act 1952; or
+>
+> (c) by a political demonstration or a demonstration supporting or opposing a cause or campaign.
+
+;
+
+(c) in subsection (2), after the word “occurred” there shall be inserted “ (and the noise in question is not road noise) ”;
+
+(d) in subsection (6), in each of paragraphs (b) and (c), for the words “the premises” where they first occur, there shall be substituted “ premises to which the offence relates ”; and
+
+(e) at the end there shall be added—
+
+> (10) This section is subject to section 58A of this Act.
+
+.
+
+**3** After section 58 there shall be inserted—
+
+> **Service of notice in respect of anticipated road noise or road noise from unattended vehicles, machinery or equipment.**
+>
+> **58A** (1) In the case of road noise to which subsection (1) of section 58 of this Act applies and which—
+>
+> (a) has not yet occurred; or
+>
+> (b) is emitted from or caused by an unattended vehicle or unattended machinery or equipment;
+>
+> any such notice as is mentioned in the said subsection (1) shall be served in accordance with subsection (2) below.
+>
+> (2) The notice shall be served—
+>
+> (a) where the person responsible for the vehicle, machinery or equipment can be found, on that person;
+>
+> (b) where—
+>
+> (i) that person cannot be found; or
+>
+> (ii) the local authority determines that this paragraph shall apply,
+>
+> by fixing the notice to the vehicle, machinery or equipment.
+>
+> (3) Where a notice is fixed in accordance with subsection (2)(b)(ii) above but within an hour thereafter the person responsible for the vehicle, machinery or equipment can be found and served with a copy of the notice, then the copy shall be so served on him.
+>
+> (4) A notice served in accordance with subsection (2)(b)(ii) above shall state that, if a copy of the notice is subsequently served under subsection (3) above, the time specified in the notice as the time within which its requirements are to be complied with is extended by such further period as is so specified.
+>
+> (5) Where a notice is served in accordance with subsection (2)(b) above, the person responsible for the vehicle, machinery or equipment may appeal, under section 58(3) of this Act, against the notice as if he had been served with it on the date on which it was fixed to the vehicle, machinery or equipment.
+>
+> (6) Section 58(4) of this Act shall apply in relation to a person on whom a copy of a notice is served under subsection (3) above as if the copy were the notice itself.
+>
+> (7) A person who removes or interferes with a notice fixed, in accordance with subsection (2)(b) above, to a vehicle, machinery or equipment shall be guilty of an offence, unless he is, or does so with the authority of, the person responsible for the vehicle, machinery or equipment.
+>
+> (8) A person who commits an offence under subsection (7) above shall be liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+>
+> **Actings where notice in respect of road noise not complied with.**
+>
+> **58B** (1) Where a notice under section 58 of this Act in respect of road noise has not been complied with, the local authority may execute works to abate, restrict or prevent the recurrence of the nuisance and do whatever may be necessary in furtherance of the requirements specified in the notice.
+>
+> (2) Any expenses reasonably incurred under subsection (1) above by a local authority may be recovered by them from any person on whom the notice under section 58 was duly served or by whose act or default the nuisance was caused; and the court may apportion those expenses between such persons in such manner as it considers fair and reasonable.
+
+.
+
+**4** In section 59 (summary application by occupier of premises aggrieved by noise amounting to nuisance)—
+
+(a) in subsection (2), after the word “premises” there shall be inserted “ (or, where the noise in question is road noise, in the same road) ”; and
+
+(b) in subsection (3), the existing words from “against” to the end shall be paragraph (a) and after that paragraph there shall be added—
+
+> ; or
+>
+> (b) in the case of road noise emitted from or caused by an unattended vehicle or unattended machinery or equipment, against the person responsible for the vehicle, machinery or equipment.
+
+.
+
+**5** After section 59 there shall be inserted—
+
+> **Supplementary provisions in relation to road noise.**
+>
+> **59A** (1) Any person authorised by a local authority may on production (if so required) of his authority—
+>
+> (a) enter or open a vehicle, machinery or equipment, if necessary by force; or
+>
+> (b) remove a vehicle, machinery or equipment from a road to a secure place,
+>
+> for the purpose of taking any action, or executing any work, authorised by this Part of this Act in relation to a nuisance caused by road noise.
+>
+> (2) On leaving any unattended vehicle, machinery or equipment that he has entered or opened under subsection (1) above, a person shall, subject to subsection (3) below, leave it secured against interference or theft in such manner and as effectually as he found it.
+>
+> (3) If the person is unable to comply with subsection (2) above, he shall for the purposes of securing the unattended vehicle, machinery or equipment either—
+>
+> (a) immobilise it by such means as he considers expedient; or
+>
+> (b) remove it from the road to a secure place.
+>
+> (4) In carrying out any function under subsection (1), (2) or (3) above, a person shall not cause more damage than is necessary.
+>
+> (5) Before a vehicle, machinery or equipment is entered, opened or removed under subsection (1) above, the local authority shall notify the police of the intention to take action under that subsection.
+>
+> (6) After a vehicle, machinery or equipment has been removed under subsection (1) or (3) above, the local authority shall notify the police of its removal and current location.
+>
+> (7) Notification under subsection (5) or (6) above may be given to the police at any police station in the local authority’s area.
+>
+> (8) For the purposes of subsection (2) of section 58B of this Act, any expenses reasonably incurred by a local authority under subsection (2) or (3) above shall be treated as incurred by the authority under subsection (1) of that section.
+>
+> (9) A person who wilfully obstructs any person who is acting in exercise of powers conferred by the foregoing provisions of this section shall be liable, on summary conviction, to a fine not exceeding level 3 on the standard scale.
+>
+> (10) Nothing done in good faith under subsections (1) to (6) above by, or by a member of, a local authority or by any officer of, or other person authorised by, a local authority shall subject the authority, or any of them personally, to any action, liability, claim or demand whatsoever.
+
+.
+
+**6** In section 69 (execution of works by local authority), at the end of paragraph (a) of subsection (1) there shall be added “ , other than a notice in respect of road noise ”.
+
+**7** In section 73 (interpretation etc.)—
+
+(a) in subsection (1)—
+
+(i) after the definition of “contravention” there shall be inserted—
+
+> “equipment” includes a musical instrument;
+
+;
+
+(ii) in the definition of “person responsible”, the existing words from “the emission” to the end shall be paragraph (a) and after that paragraph there shall be added—
+
+> (b) a vehicle, includes the person in whose name the vehicle is for the time being registered under the [^M6]Vehicles (Excise) Act 1971 and any other person who is for the time being the driver of the vehicle;
+>
+> (c) machinery or equipment, includes any person who is for the time being the operator (or where the equipment is a musical instrument, player) of the machinery or equipment;
+
+; and
+
+(iii) after the definition of “person responsible”, there shall be inserted—
+
+> “road noise” has the meaning given by subsection (1) of section 58 of this Act but except in that subsection and in subsection (1A) of that section does not include noise made as is mentioned in paragraphs (a) to (c) of the said subsection (1A);
+
+; and
+
+(b) in subsection (3), at the end there shall be added “ ; but a requirement for service under section 58(2) of this Act in respect of road noise, or under section 58A(2)(a) thereof, shall be satisfied by service on any one of them ”.
+
+**8** In section 74 (penalties), at the beginning of subsection (1) there shall be inserted “ Subject to sections 58A(8) and 59A(9) of this Act, ”.
+
+## SCHEDULE 2 — Consent to the Operation of Loudspeakers in Streets or Roads
+
+*Section 8.*
+
+### Local authority consent
+
+**1** (1) Subject to sub-paragraph (2), on an application made by any person, the local authority may consent to the operation in its area of a loudspeaker in contravention of section 62(1) of the 1974 Act [[^F7]or of section 137(1) of the Serious Organised Crime and Police Act 2005].
+
+(2) A consent shall not be given to the operation of a loudspeaker in connection with any election or for the purpose of advertising any entertainment, trade or business.
+
+**2** A consent may be granted subject to such conditions as the local authority considers appropriate.
+
+### Procedure
+
+**3** An application for a consent shall be made in writing and shall contain such information as the local authority may reasonably require.
+
+**4** (1) Where an application is duly made to the local authority for a consent, the authority shall determine the application and notify the applicant in writing of its decision within the period of twenty-one days beginning with the day on which the application is received by the authority.
+
+(2) In a case where a consent is granted, the notification under sub-paragraph (1) shall specify the conditions, if any, subject to which the consent is granted.
+
+**5** An applicant for a consent shall pay such reasonable fee in respect of his application as the local authority may determine.
+
+### Publication of consent
+
+**6** Where the local authority grants a consent, the authority may cause a notice giving details of that consent to be published in a local newspaper circulating in its area.
+
+### Interpretation
+
+**7** In this Schedule “a consent” means a consent under paragraph 1.
+
+## [^F8]SCHEDULE 3 — Audible Intruder Alarms
+
+*Section 9.*
+
+### [^F8] Installation of new alarms (prospective)
+
+**[^F8]1** [^F8]1 [^F8]A person who installs an audible intruder alarm on or in any premises shall ensure—
+
+[^F8]a [^F8]that the alarm complies with any prescribed requirements, and
+
+[^F8]b [^F8]that the local authority is notified within 48 hours of the installation.
+
+[^F8]2 [^F8]A person who without reasonable excuse contravenes sub-paragraph (1) shall be guilty of an offence and liable on summary conviction—
+
+[^F8]a [^F8]where the alarm does not comply with any prescribed requirements, to a fine not exceeding level 5 on the standard scale, and
+
+[^F8]b [^F8]in any other case, to a fine not exceeding level 2 on the standard scale.
+
+### [^F8] Operation of alarms before second appointed day (prospective)
+
+**[^F8]2** [^F8]1 [^F8]A person who is the occupier of any premises when (on or after the first appointed day) an audible intruder alarm is installed on or in the premises shall not permit the alarm to be operated unless paragraph 5 is satisfied.
+
+[^F8]2 [^F8]A person who without reasonable excuse contravenes sub-paragraph (1) shall be guilty of an offence and liable on summary conviction—
+
+[^F8]a [^F8]where the alarm does not comply with any prescribed requirements, to a fine not exceeding level 5 on the standard scale, and
+
+[^F8]b [^F8]in any other case, to a fine not exceeding level 2 on the standard scale.
+
+**[^F8]3** [^F8]1 [^F8]A person who (on or after the first appointed day) becomes the occupier of any premises on or in which an audible intruder alarm has been installed, shall not permit the alarm to be operated unless paragraph 5 is satisfied.
+
+[^F8]2 [^F8]A person who without reasonable excuse contravenes sub-paragraph (1) shall be guilty of an offence and liable on summary conviction—
+
+[^F8]a [^F8]where the alarm does not comply with any prescribed requirements, to a fine not exceeding level 4 on the standard scale, and
+
+[^F8]b [^F8]in any other case, to a fine not exceeding level 2 on the standard scale.
+
+### [^F8] Operation of alarms on or after second appointed day (prospective)
+
+**[^F8]4** [^F8]1 [^F8]The occupier of any premises shall not permit any audible intruder alarm installed on or in those premises to be operated unless paragraph 5 is satisfied.
+
+[^F8]2 [^F8]A person who without reasonable excuse contravenes sub-paragraph (1) shall be guilty of an offence and liable on summary conviction—
+
+[^F8]a [^F8]where the alarm does not comply with any prescribed requirements, to a fine not exceeding level 5 on the standard scale, and
+
+[^F8]b [^F8]in any other case, to a fine not exceeding level 2 on the standard scale.
+
+### [^F8] Requirements for operation of alarms (prospective)
+
+**[^F8]5** [^F8]1 [^F8]This paragraph is satisfied if—
+
+[^F8]a [^F8]the alarm complies with any prescribed requirements,
+
+[^F8]b [^F8]the police have been notified in writing of the names, addresses and telephone numbers of the current key-holders, and
+
+[^F8]c [^F8]the local authority has been informed of the address of the police station to which notification has been given under paragraph (b).
+
+[^F8]2 [^F8]Notification under sub-paragraph (1)(b) may be given to the police at any police station in the local authority’s area.
+
+### [^F8] Entry to premises (prospective)
+
+**[^F8]6** [^F8]1 [^F8]Where—
+
+[^F8]a [^F8]an intruder alarm installed on or in any premises is operating audibly more than one hour after it was activated, and
+
+[^F8]b [^F8]the audible operation of the alarm is such as to give persons living or working in the vicinity of the premises reasonable cause for annoyance,
+
+[^F8]an officer of the local authority who has been authorised (whether generally or specially) for that purpose may, on production (if so required) of his authority, enter the premises to turn off the alarm.
+
+[^F8]2 [^F8]An officer may not enter premises by force under this paragraph.
+
+**[^F8]7** [^F8]1 [^F8]If, on an application made by an officer of the local authority who has been authorised (whether generally or specially) for that purpose, a justice of the peace is satisfied—
+
+[^F8]a [^F8]that an intruder alarm installed on or in any premises is operating audibly more than one hour after it was activated,
+
+[^F8]b [^F8]that the audible operation of the alarm is such as to give persons living or working in the vicinity of the premises reasonable cause for annoyance,
+
+[^F8]c [^F8]where notification of any current key-holders has been given in accordance with paragraph 5(1)(b), that the officer has taken steps to obtain access to the premises with their assistance, and
+
+[^F8]d [^F8]that the officer has been unable to obtain access to the premises without the use of force,
+
+[^F8]the justice may issue a warrant authorising the officer to enter the premises, if need be by force.
+
+[^F8]2 [^F8]Before applying for such a warrant, an officer shall leave a notice at the premises stating—
+
+[^F8]a [^F8]that the audible operation of the alarm is such as to give persons living or working in the vicinity reasonable cause for annoyance, and
+
+[^F8]b [^F8]that an application is to be made to a justice of the peace for a warrant authorising the officer to enter the premises and turn off the alarm.
+
+[^F8]3 [^F8]An officer shall not enter premises by virtue of this paragraph unless he is accompanied by a constable.
+
+[^F8]4 [^F8]A warrant under this paragraph shall continue in force until the alarm has been turned off and the officer has complied with paragraph 10.
+
+**[^F8]8** [^F8]An officer who enters premises by virtue of paragraph 6 or 7 may take with him such other persons and such equipment as may be necessary to turn off the alarm.
+
+**[^F8]9** [^F8]A person who enters premises by virtue of paragraph 6, 7 or 8 shall not cause more damage or disturbance than is necessary.
+
+**[^F8]10** [^F8]An officer who has entered premises by virtue of paragraph 6 or 7 which are unoccupied or from which the occupier is temporarily absent shall—
+
+[^F8]a [^F8]after the alarm has been turned off, re-set it if reasonably practicable,
+
+[^F8]b [^F8]leave a notice at the premises stating what action has been taken on the premises under this Schedule, and
+
+[^F8]c [^F8]leave the premises, so far as reasonably practicable, as effectually secured against trespassers as he found them.
+
+### [^F8] Recovery of expenses (prospective)
+
+**[^F8]11** [^F8]Where any premises are entered by virtue of paragraph 6 or 7 in a case where the occupier of those premises has committed an offence under paragraph 2, 3 or 4, any expenses reasonably incurred by the local authority in connection with the entry, turning off the alarm or complying with paragraph 10 may be recovered by the authority from that occupier.
+
+### [^F8] Protection from personal liability (prospective)
+
+**[^F8]12** [^F8]Nothing done by, or by a member of, a local authority or by an officer of or another person authorised by a local authority shall, if done in good faith for the purposes of this Schedule, subject them or any of them personally to any action, liability, claim or demand whatsoever, other than any liability under [^F8][[^F9]section 17 or 18 of the Audit Commission Act 1998][^F8] (powers of district auditor and court).
+
+### [^F8] Interpretation (prospective)
+
+**[^F8]13** [^F8]1 [^F8]In this Schedule references to the first appointed day or the second appointed day are to be read in accordance with section 9(2).
+
+[^F8]2 [^F8]In this Schedule—
+
+- [^F8]“[^F8]justice of the peace[^F8]”, in relation to Scotland, includes a sheriff;
+
+- [^F8]“[^F8]key-holders[^F8]”, in relation to an alarm, means—
+
+  - (a) [^F8]two persons, other than the occupier of the premises on or in which the alarm is installed, each of whom holds keys sufficient to obtain access to those premises, or
+  - (b) [^F8]a company which holds keys sufficient to obtain access to those premises, from which those keys can be obtained at any time and the business of which consists of or includes the service of holding keys for occupiers of premises;
+
+- [^F8]“[^F8]occupier[^F8]”—
+
+  - (a) [^F8]in relation to premises that are unoccupied, means any person entitled to occupy the premises, and
+  - (b) [^F8]in relation to premises comprising a building that is being erected, constructed, altered, improved, maintained, cleaned or repaired, does not include a person whose occupancy—
+
+[^F8]i [^F8]is connected with the erection, construction, alteration, improvement, maintenance, cleaning or repair, and
+
+[^F8]ii [^F8]is by virtue of a licence granted for less than four weeks;
+
+- [^F8]“[^F8]prescribed[^F8]” means prescribed in regulations made by the Secretary of State for the purposes of this Schedule.
+
+[^F8]3 [^F8]The Secretary of State’s power to make such regulations shall be exercisable by statutory instrument, and an instrument containing such regulations shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+[^F8]4 [^F8]Such regulations may make different provision for different cases, circumstances or areas.
+
+[^F8]5 [^F8]Nothing in this Schedule applies to an audible intruder alarm installed on or in a vehicle.
+
+---
+
+[^M1]: 1974 c. 40.
+[^M2]: 1990 c. 43.
+[^M3]: 1971 c. 10.
+[^F1]: S. 6 repealed (1.4.1996) by 1995 c. 25, s. 120(3), Sch. 24 (with ss. 7(6), 115, 117, Sch. 8 para. 7); S.I. 1996/186, art. 3
+[^F2]: Words in s. 8(5)(b) substituted (S.) (1.4.1996) by 1994 c. 39, s. 180(1), Sch. 13 para. 183(2); S.I. 1996/323, art. 4(1)(b)(c)
+[^F3]: S. 9 repealed (E.W.) (6.4.2006 for E., 18.1.2008 for W.) by Clean Neighbourhoods and Environment Act 2005 (c. 16), s. 108(1)(2), Sch. 5 Pt. 7; S.I. 2006/795, art. 2(3), Sch. 2; S.I. 2007/3371, art. 2(c)
+[^F4]: Words in s. 9(7) substituted (1.4.1996) by 1994 c. 39, s. 180(1), Sch. 13 para. 183(3); S.I. 1996/323, art. 4(1)(b)(c)
+[^M4]: 1925 c. 20.
+[^F5]: S. 13(2) repealed (1.4.1996) by 1995 c. 25, s. 120(3), Sch. 24 (with ss. 7(6), 115, 117, Sch. 8 para. 7); S.I. 1996/186, art. 3
+[^F6]: Sch. 1 repealed (1.4.1996) by 1995 c. 25, s. 120(3), Sch. 24 (with ss. 7(6), 115, 117, Sch. 8 para. 7); S.I. 1996/186, art. 3
+[^M5]: 1952 c. 67.
+[^M6]: 1971 c. 10.
+[^F7]: Words in Sch. 2 para. 1(1) added (E.W.) (1.8.2005) by Serious Organised Crime and Police Act 2005 (c. 15), ss. 137(6), 178(8); S.I. 2005/1521, art. 4(1)
+[^F8]: Sch. 3 repealed (E.W.) (6.4.2006 for E., 18.1.2008 for W.) by Clean Neighbourhoods and Environment Act 2005 (c. 16), s. 108(1)(2), Sch. 5 Pt. 7; S.I. 2006/795, art. 2(3), Sch. 2; S.I. 2007/3371, art. 2(c)
+[^F9]: Words in Sch. 3 para. 12 substituted (11.9.1998) by 1998 c. 18 ss. 54(1), 55(2), Sch. 3 para. 26

@@ -1,0 +1,110 @@
+---
+title: "Approved Premises (Substance Testing) Act 2022"
+identifier: "ukpga/2022/27"
+citation: "2022 Chapter 27"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W"
+date: 2022-04-28
+last_amended: 2022-10-03
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/2022/27"
+source_modified: 2022-12-09
+retrieved: 2026-10-11
+---
+
+# Approved Premises (Substance Testing) Act 2022
+
+**2022 Chapter 27**
+
+An Act to make provision about substance testing in approved premises.
+
+[28th April 2022]
+
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## 1 Substance testing of residents in approved premises
+
+(1) The Offender Management Act 2007 is amended as follows.
+
+(2) In section 13 (approved premises), in subsection (1), after “section” insert “and section 13A”.
+
+(3) After section 13 insert—
+
+> **13A Approved premises: substance testing**
+>
+> (1) Subsection (2) applies if—
+>
+> (a) the manager of any approved premises has given an authorisation that specifies when the power in that subsection may be exercised at those premises, and
+>
+> (b) that authorisation is in force.
+>
+> (2) A member of staff may, at the approved premises and in accordance with the authorisation given under subsection (1), require any resident of those premises to provide a sample of urine for the purpose of ascertaining whether the resident has in their body any—
+>
+> (a) controlled drug,
+>
+> (b) prescription only medicine, or
+>
+> (c) psychoactive substance.
+>
+> (3) The power in subsection (2) includes power to require a resident to provide a sample of any other description, except an intimate sample, whether instead of or in addition to a sample of urine.
+>
+> (4) The Secretary of State may use any residents’ samples to test, on an anonymised basis, for the prevalence of the following substances in approved premises—
+>
+> (a) controlled drugs,
+>
+> (b) medicinal products, or
+>
+> (c) psychoactive substances.
+>
+> (5) In giving, or deciding whether to give, an authorisation under subsection (1), the manager must have regard to any guidance regarding the giving of authorisations issued by the Secretary of State.
+>
+> (6) In exercising the power in subsection (2), a member of staff must have regard to any guidance regarding the exercise of that power issued by the Secretary of State.
+>
+> (7) In this section—
+>
+> - “approved premises” has the meaning given by section 13(1);
+>
+> - “controlled drug” means any drug which is a controlled drug for the purposes of the Misuse of Drugs Act 1971 (see section 2 of that Act);
+>
+> - “intimate sample” has the same meaning as in Part 5 of the Police and Criminal Evidence Act 1984 (see section 65 of that Act);
+>
+> - “medicinal product” has the meaning given in regulation 2 of the Human Medicines Regulations 2012 (S.I. 2012/1916);
+>
+> - “prescription only medicine” has the meaning given in regulation 8 of the Human Medicines Regulations 2012 (S.I. 2012/1916);
+>
+> - “psychoactive substance” has the same meaning as in the Psychoactive Substances Act 2016 (see section 2 of that Act);
+>
+> - “resident” means a person who lives in approved premises other than a member of staff;
+>
+> - “residents’ sample” means any sample—
+>
+>   - provided under subsection (2) or (3), or
+>   - provided voluntarily;
+>
+> - “the manager” means, in relation to approved premises, the individual in general control over the management of the approved premises.
+>
+> (8) The Secretary of State may by regulations make such amendments of this section as the Secretary of State considers appropriate in consequence of—
+>
+> (a) the amendment or revocation of the Human Medicines Regulations 2012 (S.I. 2012/1916), or
+>
+> (b) the making, amendment or revocation of any other subordinate legislation (whenever made) which relates to human medicines.
+>
+> (9) In subsection (8) “subordinate legislation” has the same meaning as in the Interpretation Act 1978.
+
+(4) In section 36 (orders and regulations), in subsection (3), after paragraph (a) insert—
+
+> (aa) section 13A(8),
+
+.
+
+## 2 Extent, commencement and short title
+
+(1) This Act extends to England and Wales only.
+
+(2) This Act comes into force on such day as the Secretary of State may appoint by regulations made by statutory instrument.
+
+(3) This Act may be cited as the Approved Premises (Substance Testing) Act 2022.

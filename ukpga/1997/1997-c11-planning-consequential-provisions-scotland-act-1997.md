@@ -1,0 +1,1196 @@
+---
+title: "Planning (Consequential Provisions) (Scotland) Act 1997"
+identifier: "ukpga/1997/11"
+citation: "1997 c. 11"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S+N.I."
+date: 1997-02-27
+last_amended: 2024-11-04
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/1997/11"
+source_modified: 2024-12-19
+retrieved: 2026-10-11
+---
+
+# Planning (Consequential Provisions) (Scotland) Act 1997
+
+**1997 c. 11**
+
+An Act to make provision for repeals, consequential amendments, transitional matters and savings in connection with the consolidation of enactments in the Town and Country Planning (Scotland) Act 1997, the Planning (Listed Buildings and Conservation Areas) (Scotland) Act 1997 and the Planning (Hazardous Substances) (Scotland) Act 1997 (including provisions to give effect to recommendations of the Scottish Law Commission).
+
+[27th February 1997]
+
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## 1 Meaning of “the consolidating Acts”, “the repealed enactments”, etc.
+
+(1) In this Act—
+
+- “the consolidating Acts” means the principal Act, the [^M1]Planning (Listed Buildings and Conservation Areas) (Scotland) Act 1997, the [^M2]Planning (Hazardous Substances) (Scotland) Act 1997 and, so far as it reproduces the effect of the repealed enactments, this Act,
+- “the principal Act” means the [^M3]Town and Country Planning (Scotland) Act 1997, and
+- “the repealed enactments” means the enactments repealed by this Act.
+
+(2) Expressions used in this Act and in any of the other consolidating Acts have the same meaning as in those Acts.
+
+## 2 Continuity, and construction of references to old and new law.
+
+(1) The substitution of the consolidating Acts for the repealed enactments does not affect the continuity of the law.
+
+(2) Anything done or having effect as if done under or for the purposes of a provision of the repealed enactments has effect, if it could have been done under or for the purposes of the corresponding provision of the consolidating Acts, as if done under or for the purposes of that corresponding provision.
+
+(3) Any reference, whether express or implied, in the consolidating Acts or any other enactment, instrument or document to a provision of the consolidating Acts shall, so far as the context permits, be construed as including, in relation to the times, circumstances and purposes in relation to which the corresponding provision of the repealed enactments has effect, a reference to that corresponding provision.
+
+(4) Any reference, whether express or implied, in any enactment, instrument or document to a provision of the repealed enactments shall be construed, so far as is required for continuing its effect, as including a reference to the corresponding provision of the consolidating Acts.
+
+(5) In particular, where a power conferred by an Act is expressed (in whatever words) to be exercisable in relation to enactments contained in Acts passed—
+
+(a) before or in the same Session as the Act conferring the power, or
+
+(b) before a date determined by reference to the coming into force of particular provisions of that Act,
+
+the power is also exercisable in relation to provisions of the consolidating Acts which reproduce such enactments.
+
+## 3 Repeals.
+
+(1) The enactments specified in Schedule 1 are repealed to the extent specified in the third column of that Schedule.
+
+(2) Those repeals include the repeal, in accordance with Recommendations of the Scottish Law Commission, of section 18(7) and (8) of the 1972 Act as no longer of practical utility.
+
+(3) The repeals have effect subject to any relevant savings in Schedule 3.
+
+## 4 Consequential amendments.
+
+Schedule 2 (which makes consequential amendments) shall have effect, subject to any relevant transitional provisions in Schedule 3.
+
+## 5 Transitional provisions and savings.
+
+(1) Schedule 3 (which makes transitional provision and contains savings in connection with the repeals made by this Act) shall have effect.
+
+(2) Nothing in that Schedule affects the general operation of section 16 of the [^M4]Interpretation Act 1978 (general savings implied on repeal) or of the previous provisions of this Act.
+
+## 6 Short title, commencement and extent.
+
+(1) This Act may be cited as the Planning (Consequential Provisions) (Scotland) Act 1997.
+
+(2) Subject to subsections (3) and (4), this Act shall come into force at the end of the period of 3 months beginning with the day on which it is passed.
+
+(3) The repeal in Part I of Schedule 1 relating to section 186 of the principal Act shall come into force on such day as the Secretary of State may by order made by statutory instrument appoint, and different days may be appointed for different purposes.
+
+(4) An order under subsection (3) may contain such supplementary, incidental, consequential and transitional provisions as the Secretary of State thinks fit.
+
+(5) This Act does not extend to England or Wales or Northern Ireland except (subject to subsection (6)) so far as it affects other enactments so extending.
+
+(6) The repeals in Part II of Schedule 1 extend to Scotland only and those in Part III of that Schedule to England and Wales only.
+
+## SCHEDULE 1 — Repeals
+
+*Section 3.*
+
+### Part I — General
+
+|  |  |  |
+|---|---|---|
+| Chapter | Short title | Extent of repeal |
+| 10 & 11 Geo. 6 c. 53. | The Town and Country Planning (Scotland) Act 1947. | Section 46(8). |
+|  |  | In Schedule 8, the entry relating to the Building Restrictions (War-time Contraventions) Act 1946. |
+| 14 & 15 Geo. 6 c. 60. | The Mineral Workings Act 1951. | Section 32. |
+|  |  | Section 40(6). |
+| 1967 c. 69. | The Civic Amenities Act 1967. | Section 5. |
+|  |  | In section 30(1), the definition of “the Scottish Planning Act”. |
+| 1969 c. 48. | The Post Office Act 1969. | In Schedule 4, paragraph 92; and in paragraph 93, in sub-paragraph (1), paragraph (xxxiv) and the words from “Subject to” to the end, and sub-paragraph (4)(k). |
+|  |  | In Schedule 9, paragraph 27(8) and (11). |
+| 1972 c. 42. | The Town and Country Planning (Amendment) Act 1972. | The whole Act. |
+| 1972 c. 52. | The Town and Country Planning (Scotland) Act 1972. | The whole Act. |
+| 1973 c. 56. | The Land Compensation (Scotland) Act 1973. | In section 49(5) the words from “sections 169” to “or”. |
+|  |  | Sections 64 to 69. |
+|  |  | Sections 71 to 77. |
+| 1973 c. 65. | The Local Government (Scotland) Act 1973. | Section 171C(b). |
+|  |  | Section 172. |
+|  |  | Section 175. |
+|  |  | In Schedule 23, paragraphs 6 and 16 to 34. |
+| 1974 c. 32. | The Town and Country Amenities Act 1974. | Section 2(1). |
+|  |  | Section 3(2). |
+|  |  | Section 4(2) and (3). |
+|  |  | Section 6. |
+|  |  | Section 7(2). |
+|  |  | Section 9. |
+|  |  | Section 11. |
+|  |  | In section 13, subsection (1)(b); and in subsection (2), the words from “and in section” to the end. |
+| 1977 c. 10. | The Town and Country Planning (Scotland) Act 1977. | The whole Act. |
+| 1979 c. 46. | The Ancient Monuments and Archaeological Areas Act 1979. | Section 48(1). |
+|  |  | In Schedule 4, paragraph 12. |
+| 1980 c. 65. | The Local Government, Planning and Land Act 1980. | Section 87. |
+|  |  | In section 92, subsections (1) to (8); and in subsection (9), the words from “section 87” to “that,”. |
+|  |  | In section 122, in subsection (1) the words “or section 103 of the Town and Country Planning (Scotland) Act 1972” and “or as the case may be 103”; in subsections (2), (3), and (8) the words “and 103”; and in subsection (6) the words “or 103”. |
+|  |  | Section 147. |
+|  |  | In section 149, in subsection (6), the words from “in place of” to “authority” in the third place where it occurs; in subsection (8)(a), the words from “and in place” to “them”; and subsection (10). |
+|  |  | In Schedule 32, paragraphs 5(8), 15(2)(b), 17, 19, 20(2), 21, 22, 24, 25 and 26(1A). |
+| 1981 c. 23. | The Local Government (Miscellaneous Provisions) (Scotland) Act 1981. | Section 36. |
+|  |  | In Schedule 2, paragraphs 16 to 25, 27 and 28. |
+|  |  | In Schedule 3, paragraphs 13, 15 to 20, 22 and 23. |
+| 1981 c. 36. | The Town and Country Planning (Minerals) Act 1981. | The whole Act. |
+| 1981 c. 38. | The British Telecommunications Act 1981. | In Schedule 3, paragraph 10(2)(d). |
+| 1982 c. 16. | The Civil Aviation Act 1982. | In Schedule 2, in paragraphs 4 and 5, the entries relating to the Town and Country Planning (Scotland) Act 1972; and paragraph 7. |
+|  |  | In Schedule 10, paragraphs 4(c) and 8(c) and, in each case, the preceding “and”. |
+| 1982 c. 43. | The Local Government and Planning (Scotland) Act 1982. | Sections 36 to 48. |
+|  |  | Schedule 2. |
+| 1983 c. 47. | The National Heritage Act 1983. | In Schedule 4, paragraph 22(6). |
+| 1984 c. 10. | The Town and Country Planning Act 1984. | The whole Act. |
+| 1984 c. 12. | The Telecommunications Act 1984. | In Schedule 4, paragraph 54. |
+| 1984 c. 54. | The Roads (Scotland) Act 1984. | In Schedule 9, paragraphs 41, 70, 72(7) and (8). |
+| 1985 c. 19. | The Town and Country Planning (Compensation) Act 1985. | The whole Act. |
+| 1985 c. 52. | The Town and Country Planning (Amendment) Act 1985. | The whole Act. |
+| 1986 c. 31. | The Airports Act 1986. | In Schedule 2, in paragraph 1, in sub-paragraph (1), the entry for the Town and Country Planning (Scotland) Act 1972 and the words from “and for the purposes” to the end, and in sub-paragraph (2), the entry for the Town and Country Planning (Scotland) Act 1972. |
+|  |  | In Schedule 4, paragraph 2. |
+| 1986 c. 44. | The Gas Act 1986. | In Schedule 7, paragraph 13. |
+| 1986 c. 63. | The Housing and Planning Act 1986. | Section 26. |
+|  |  | Sections 35 to 38. |
+|  |  | Sections 50 and 51. |
+|  |  | Section 52(1)(a). |
+|  |  | Section 54(2). |
+|  |  | In section 58(2), the words from “in Part II” to “Schedule 6”, the words from “in Part IV” to “Schedule 7” and the words “Part II of Schedule 9”. |
+|  |  | In Schedule 6, Parts III and IV. |
+|  |  | In Schedule 7, Part II. |
+|  |  | In Schedule 9, paragraphs 13 to 24. |
+|  |  | In Schedule 11, paragraphs 28 to 60 and 62. |
+| 1987 c. 3. | The Coal Industry Act 1987. | In Schedule 1, paragraph 20. |
+| 1987 c. 18. | The Debtors (Scotland) Act 1987. | In Schedule 6, paragraph 15. |
+| 1987 c. 26. | The Housing (Scotland) Act 1987. | In Schedule 23, paragraphs 18 and 19(9) and (10). |
+| 1988 c. 41. | The Local Government Finance Act 1988. | In Schedule 12, paragraph 9. |
+| 1989 c. 29. | The Electricity Act 1989. | In Schedule 8, paragraph 7. |
+|  |  | In Schedule 16, in paragraph 1, in sub-paragraph (1), paragraph (xxiii) and in paragraph (xxvi) the words “and 67”; in paragraph 2, sub-paragraphs (2)(d) and (7)(a) and, in sub-paragraph (8), the words from “and section 204” to “1972”; and paragraph 3(2)(e). |
+| 1990 c. 11. | The Planning (Consequential Provisions) Act 1990. | In Schedule 2, paragraphs 3(3), 16, 24(2), 26, 27, 44(14)(c), 62, 68 and 70. |
+| 1990 c. 19. | The National Health Service and Community Care Act 1990. | In Schedule 8, paragraph 7. |
+| 1990 c. 43. | The Environmental Protection Act 1990. | In Schedule 13, paragraphs 11 to 13. |
+| 1991 c. 22. | The New Roads and Street Works Act 1991. | In Schedule 8, paragraph 104. |
+| 1991 c. 28. | The Natural Heritage (Scotland) Act 1991. | Section 6(8) and (9). |
+| 1991 c. 34. | The Planning and Compensation Act 1991. | Sections 33 to 59. |
+|  |  | Section 60(1) to (5), (7) and (8). |
+|  |  | Schedules 8 to 11. |
+|  |  | In Schedule 12, paragraphs 6 to 33. |
+|  |  | In Schedule 13, paragraphs 2 to 43 and 45 to 47. |
+|  |  | In Schedule 17, paragraphs 11, 12, 17 and 18. |
+|  |  | In Schedule 19, in Part IV, the entry relating to the Town and Country Planning (Scotland) Act 1972. |
+| 1992 c. 53. | The Tribunals and Inquiries Act 1992. | In Schedule 3, paragraphs 3 to 8. |
+| 1994 c. 21. | The Coal Industry Act 1994. | Section 68(2)(d)(v). |
+|  |  | In Schedule 9, paragraph 13. |
+|  |  | In Schedule 10, in paragraph 12, in sub-paragraph (1) the words from “and section” to “1972”, and in sub-paragraph (2) the words from “or sections” to the end. |
+| 1994 c. 39. | The Local Government etc. (Scotland) Act 1994. | Section 33. |
+|  |  | Schedule 4. |
+|  |  | In Schedule 13, paragraphs 88 and 92(57). |
+| 1995 c. 25. | The Environment Act 1995. | In Schedule 22, paragraph 16. |
+| 1995 c. 45. | The Gas Act 1995. | In Schedule 4, paragraph 2(1)(xix), (2)(e) and (10)(d). |
+| 1995 c. 49. | The Town and Country Planning (Costs of Inquiries etc.) Act 1995. | Sections 3 and 4. |
+|  |  | In section 5, in subsection (2), the definition of “the 1972 Act”; and subsection (5). |
+| 1997 c. 8. | The Town and Country Planning (Scotland) Act 1997. | In section 186, subsections (1) and (2); and in subsection (3), the words from the beginning to “(2)”. |
+
+### Part II — Scotland only
+
+|  |  |  |
+|---|---|---|
+| Chapter | Short title | Extent of repeal |
+| 9 & 10 Geo. 6 c. 35. | The Building Restrictions (War-Time Contraventions) Act 1946. | The whole Act. |
+| 1995 c. 25. | The Environment Act 1995. | Section 96. |
+|  |  | Schedules 13 and 14. |
+
+### Part III — England and Wales only
+
+|  |  |  |
+|---|---|---|
+| Chapter | Short title | Extent of repeal |
+| 1995 c. 25. | The Environment Act 1995. | In section 96, in subsection (2), the words “as they apply to England and Wales” and “(as so applying)”; subsection (3); in subsection (4) the words “and section 251A of the 1972 Act”; in subsection (5) the words “or, as the case may be, section 21 of the 1972 Act”; and in subsection (6) the definition of “the 1972 Act”. |
+|  |  | In Schedule 13, the words “as respects England and Wales” in each place where they occur; in paragraph 1, in sub-paragraph (1), in each of the definitions of “mineral planning authority”, “old mining permission” and “owner”, paragraph (b) and the preceding “and”, and in sub-paragraph (7)(a) the words “or, as the case may be, section 233 of the 1972 Act”; in paragraph 2, sub-paragraph (4)(d) and (e) and, in sub-paragraph (6), paragraph (b) and the preceding “and”; in paragraph 7, in sub-paragraph (4)(d) the words “or (6)”, and sub-paragraph (6); in paragraph 9, in sub-paragraph (2)(f) the words “or (4)”, sub-paragraph (4) and, in sub-paragraph (5), the words “or, as respects Scotland, section 24 of the 1972 Act”; in paragraph 12(4)(a) the words “or, as the case may be, section 233 of the 1972 Act”; in paragraph 15, in sub-paragraph (4), paragraph (b) and the preceding “or” and the words “or, as the case may be, section 42 of the 1972 Act” in both places where they occur, in sub-paragraph (5) the words “or section 42 of the 1972 Act”, and in sub-paragraph (6) the words “and section 167A of the 1972 Act”; and paragraph 16(5) to (7). |
+|  |  | In Schedule 14, the words “as respects England and Wales” in each place where they occur; in paragraph 2, in sub-paragraph (1), in each of the definitions of “mineral planning authority”, “old mining permission” and “owner”, paragraph (b) and the preceding “and”, and in sub-paragraph (4) the words “or section 233 of the 1972 Act”; in paragraph 3, in sub-paragraph (1) the words “or, as the case may be, paragraph 2 of Schedule 10A to the 1972 Act”, “or, as the case may be, paragraph 10(2) of Schedule 10A to the 1972 Act” and “or, as the case may be, section 49H of and Schedule 10A to the 1972 Act”, and in sub-paragraph (6) the words “or section 42 of the 1972 Act” and “or section 49 of the 1972 Act”; in paragraph 6, in sub-paragraph (2)(f), the words “or (4)”, and sub-paragraph (4); paragraph 9(5) to (7); and in paragraph 13, in sub-paragraph (4) the words “and, as respects Scotland, Parts VIII and XI of the 1972 Act” and the words “or, as the case may be, section 42 of the 1972 Act” in both places where they occur, and in sub-paragraph (6) the words “and section 167A of the 1972 Act”. |
+
+## SCHEDULE 2 — Consequential amendments
+
+*Section 4.*
+
+### The Finance Act 1931 (c. 28)
+
+**[^F1]1** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Mineral Workings Act 1951 (c. 60)
+
+**2** In section 41(2A) of the Mineral Workings Act 1951, for “the Town and Country Planning (Scotland) Act 1972” substitute “ the Town and Country Planning (Scotland) Act 1997 ”.
+
+### The Agricultural Land (Removal of Surface Soil) Act 1953 (c. 10)
+
+**3** For section 4 of the Agricultural Land (Removal of Surface Soil) Act 1953 substitute—
+
+> **Application to Scotland.**
+>
+> **4** In the application of this Act to Scotland, for the references to the Town and Country Planning Act 1990, to Part III of that Act and to section 192 of that Act there shall be substituted references to the Town and Country Planning (Scotland) Act 1997, to Part III of that Act and to section 151 of that Act.
+
+### The Historic Buildings and Ancient Monuments Act 1953 (c. 49)
+
+**4** (1) In section 5(2A)(a)(i) of the Historic Buildings and Ancient Monuments Act 1953, for “section 262 of the Town and Country Planning (Scotland) Act 1972” substitute “ section 61 of the Planning (Listed Buildings and Conservation Areas) (Scotland) Act 1997 ”.
+
+[^F2]2 [^F2]In section 6(1) of that Act, for “section thirty-eight of the Town and Country Planning (Scotland) Act 1947” substitute “ section 42 of the Planning (Listed Buildings and Conservation Areas) (Scotland) Act 1997 ”.
+
+### The Opencast Coal Act 1958 (c. 69)
+
+**5** (1) In section 7(8) of the Opencast Coal Act 1958, for “the Town and Country Planning (Scotland) Act 1972” substitute “ the Town and Country Planning (Scotland) Act 1997 ”.
+
+(2) In section 14A(2) of that Act, for “section 27A(2) of the Town and Country Planning (Scotland) Act 1972” substitute “ paragraph 2(2) of Schedule 3 to the Act of 1997 ”.
+
+(3) In section 15(7) of that Act, for “the Town and Country Planning (Scotland) Act 1972” substitute “ the Act of 1997 ”.
+
+(4) In section 32(2B)(b) of that Act, for “Part III of the Town and Country Planning (Scotland) Act 1972” substitute “ Part III of the Town and Country Planning (Scotland) Act 1997 ”.
+
+(5) In section 52(2) of that Act—
+
+(a) insert at the appropriate place—
+
+> “the Act of 1997” means the Town and Country Planning (Scotland) Act 1997
+
+; and
+
+(b) in the definition of “planning permission”, for “Act of 1972” substitute “ Act of 1997 ”.
+
+### The Building (Scotland) Act 1959 (c. 24)
+
+**[^F3]6** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Town and Country Planning (Scotland) Act 1959 (c. 70)
+
+**7** (1) In section 27(5)(b) of the Town and Country Planning (Scotland) Act 1959, for “section 113 of the Town and Country Planning (Scotland) Act 1972” substitute “ section 191 of the Town and Country Planning (Scotland) Act 1997 ”.
+
+(2) In paragraph 2 of Schedule 4 to that Act, for “The Town and Country Planning (Scotland) Act 1972” substitute—
+
+> The Town and Country Planning (Scotland) Act 1997;
+>
+> The Planning (Listed Buildings and Conservation Areas) (Scotland) Act 1997;
+
+### The Flood Prevention (Scotland) Act 1961 (c. 41)
+
+**[^F4]8** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Land Compensation (Scotland) Act 1963 (c. 51)
+
+**9** (1) In section 15(6) of the Land Compensation (Scotland) Act 1963, for “Schedule 3 to the Town and Country Planning (Scotland) Act 1947” substitute “ Schedule 11 to the Town and Country Planning (Scotland) Act 1997 ”.
+
+(2) In section 18 of that Act, for “1947” and “section 42(5)” substitute respectively “ 1997 ” and “ section 233 ”.
+
+(3) In section 23 of that Act—
+
+(a) in subsection (3), for “Schedule 16 to the Town and Country Planning (Scotland) Act 1972”, “paragraph 1 of Schedule 6 to that Act” and “paragraph 2 of Schedule 6 to that Act” substitute respectively “ Schedule 12 to the Town and Country Planning (Scotland) Act 1997 ”, “ paragraph 1 of Schedule 11 to that Act ” and “ paragraph 2 of Schedule 11 to that Act ”; and
+
+(b) in subsection (4)(c), for “section 24 of the said Act of 1947” and “section 25 of that Act” substitute respectively “ section 71 of the said Act of 1997 ” and “ section 83 of that Act ”.
+
+(4) In section 28 of that Act, for “section 273(1)(c) of the Town and Country Planning (Scotland) Act 1972” substitute “ section 275(1)(c) of the Town and Country Planning (Scotland) Act 1997 ”.
+
+(5) In section 31(3)(c) of that Act, for “section 107 of the Town and Country Planning (Scotland) Act 1972” substitute “ section 45 of the Planning (Listed Buildings and Conservation Areas) (Scotland) Act 1997 ”.
+
+(6) In section 32(5) of that Act, for “section 34 of the Town and Country Planning (Scotland) Act 1972” substitute “ section 47(2) of the Town and Country Planning (Scotland) Act 1997 ”.
+
+(7) In section 38(2) of that Act, for “section 113(1) of the Town and Country Planning (Scotland) Act 1947” substitute “ section 277(1) of the Town and Country Planning (Scotland) Act 1997 ”.
+
+(8) In section 44 of that Act, for “Section 100 of the Town and Country Planning (Scotland) Act 1947” and “section 101” substitute respectively “ Section 265 of the Town and Country Planning (Scotland) Act 1997 ” and “ section 271 ”.
+
+(9) In section 45 of that Act—
+
+(a) in subsection (1)—
+
+(i) in the definition of “development”, for “section 10 of the Town and Country Planning (Scotland) Act 1947” substitute “ section 26 of the Town and Country Planning (Scotland) Act 1997 ”;
+
+(ii) in the definition of “development order”, for “section 11(1) of the Town and Country Planning (Scotland) Act 1947” substitute “ section 30 of the Town and Country Planning (Scotland) Act 1997 ”;
+
+(iii) for the definition of “development plan” substitute—
+
+> - “development plan” shall be construed in accordance with section 24 of the Town and Country Planning (Scotland) Act 1997;
+
+;
+
+(iv) in the definition of “planning authority”, for “1947” substitute “ 1997 ”;
+
+(v) in the definition of “planning decision”, for “Part II of the Town and Country Planning (Scotland) Act 1947” substitute “ Part III of the Town and Country Planning (Scotland) Act 1997 ”; and
+
+(vi) in the definition of “planning permission”, for “Part II of the Town and Country Planning (Scotland) Act 1947” substitute “ Part III of the Town and Country Planning (Scotland) Act 1997 ”; and
+
+(b) in subsection (3)—
+
+(i) in paragraph (c), for “section 14(3) of the Town and Country Planning (Scotland) Act 1947” substitute “ section 47(2) of the Town and Country Planning (Scotland) Act 1997 ”; and
+
+(ii) in paragraph (d), for “section 14(3) of the Town and Country Planning (Scotland) Act 1947” substitute “ section 47(4) and (5) of the Town and Country Planning (Scotland) Act 1997 ”.
+
+(10) In Schedule 2 to that Act—
+
+(a) in paragraph 1—
+
+(i) in sub-paragraph (2)(a), for “Part VI of the Town and Country Planning (Scotland) Act 1972” substitute “ Part VIII of the Town and Country Planning (Scotland) Act 1997 or sections 42 to 47 of the Planning (Listed Buildings and Conservation Areas) (Scotland) Act 1997 ”; and
+
+(ii) in sub-paragraph (2)(c), for “Part IX of the Town and Country Planning (Scotland) Act 1972” substitute “ Part V of the Town and Country Planning (Scotland) Act 1997 or sections 28 to 33 of the Planning (Listed Buildings and Conservation Areas) (Scotland) Act 1997 ”; and
+
+(b) in paragraph 2(1)(b)—
+
+(i) for “section 170 of the Town and Country Planning (Scotland) Act 1972” substitute “ section 90 of the Town and Country Planning (Scotland) Act 1997 ”; and
+
+(ii) for “section 182 of the Town and Country Planning (Scotland) Act 1972” substitute “ section 101 of the Town and Country Planning (Scotland) Act 1997 ”.
+
+### The Gas Act 1965 (c. 36)
+
+**10** (1) In section 4(7) of the Gas Act 1965—
+
+(a) for “the Town and Country Planning (Scotland) Act 1972” substitute “ the Town and Country Planning (Scotland) Act 1997 ”; and
+
+(b) for “section 37” substitute “ section 57 ”.
+
+(2) In section 28(1) of that Act—
+
+(a) in the definition of “planning authority”, for “section 1 of the Town and Country Planning (Scotland) Act 1972” substitute “ section 277(1) of the Town and Country Planning (Scotland) Act 1997 ”; and
+
+(b) in the definition of “planning permission”, for “Part III of the Town and Country Planning (Scotland) Act 1972” substitute “ Part III of the Town and Country Planning (Scotland) Act 1997 (other than sections 55 and 56) ”.
+
+(3) In Schedule 3 to that Act, in paragraph 7(2), for “the Town and Country Planning (Scotland) Act 1972” substitute “ the Town and Country Planning (Scotland) Act 1997 ”.
+
+### The Local Government (Scotland) Act 1966 (c. 51)
+
+**11** (1) In section 35(1) of the Local Government (Scotland) Act 1966, for “section 113(1) of the Town and Country Planning (Scotland) Act 1947” substitute “ section 277(1) of the Town and Country Planning (Scotland) Act 1997 ”.
+
+(2) In section 41 of that Act, for “the Town and Country Planning (Scotland) Act 1972” substitute “ the Town and Country Planning (Scotland) Act 1997 ”.
+
+### The Land Commission Act 1967 (c. 1)
+
+**12** [^F5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Forestry Act 1967 (c. 10)
+
+**13** (1) In section 9(4)(d) of the Forestry Act 1967, for “the Town and Country Planning (Scotland) Act 1972” substitute “ the Town and Country Planning (Scotland) Act 1997 ”.
+
+(2) In section 35 of that Act, in the definition of “tree preservation order”, for “section 58 of the Town and Country Planning (Scotland) Act 1972” substitute “ section 160 of the Town and Country Planning (Scotland) Act 1997 ”.
+
+(3) In Schedule 3 to that Act—
+
+(a) in paragraph 2, for “section 32 of the Town and Country Planning (Scotland) Act 1972” and “the said section 32” substitute respectively “ section 46 of the Town and Country Planning (Scotland) Act 1997 ” and “ the said section 46 ”; and
+
+(b) in paragraph 3, for “the Town and Country Planning (Scotland) Act 1972” substitute “ the Town and Country Planning (Scotland) Act 1997 ”.
+
+### The Agriculture Act 1967 (c. 22)
+
+**14** (1) In section 50(3)(b) of the Agriculture Act 1967, for “section 275(1) of the Town and Country Planning (Scotland) Act 1972” substitute “ section 214 of the Town and Country Planning (Scotland) Act 1997 ”.
+
+(2) In section 52(2)(g) of that Act, for “the Town and Country Planning (Scotland) Act 1972” substitute “ the Town and Country Planning (Scotland) Act 1997 ”.
+
+### The Countryside (Scotland) Act 1967 (c. 86)
+
+**15** (1) In the proviso to section 11(5) of the Countryside (Scotland) Act 1967, for “1947” substitute “ 1997 ”.
+
+(2) In section 38(6) of that Act, for “section 113(1) of the Act of 1947” substitute “ section 217 of the Act of 1997 ”.
+
+(3) In section 73(5), for “section 83 of the Act of 1947” and “subsection (6)” substitute respectively “ section 242 of the Act of 1997 ” and “ subsection (3) ”.
+
+(4) In section 76—
+
+(a) in subsection (1), for “Section 50 of the Town and Country Planning (Scotland) Act 1945” substitute “ section 265 of the Town and Country Planning (Scotland) Act 1997 ”; and
+
+(b) in subsection (2), for “Section 101 of the Act of 1947” substitute “ Section 271 of the Act of 1997 ”.
+
+(5) In section 78(1)—
+
+(a) for the definition of “the Act of 1947” substitute—
+
+> - “the Act of 1997” means the Town and Country Planning (Scotland) Act 1997;
+
+;
+
+(b) in the definition of “enactment”, for “the Act of 1947” substitute “ the Act of 1997 ”; and
+
+(c) in the definition of “statutory undertakers” and “statutory undertaking”, for “section 113 of the Act of 1947” substitute “ section 217 of the Act of 1997 ”.
+
+### The Caravan Sites Act 1968 (c. 52)
+
+**16** In section 16 of the Caravan Sites Act 1968, as it applies in Scotland, in the definition of “planning permission”, for “1972” substitute “ 1997 ”.
+
+### The Transport Act 1968 (c. 73)
+
+**17** (1) In section 108 of the Transport Act 1968—
+
+(a) in subsection (2)—
+
+(i) for paragraph (b) substitute—
+
+> (b) land to which section 179 of the Town and Country Planning (Scotland) Act 1997 applies;
+
+; and
+
+(ii) for “the said Act of 1972” and “the said section 63” substitute respectively “ the said Act of 1997 ” and “ the said section 179 ”; and
+
+(b) in subsection (3), for the words from “Part II” to “1947; and” substitute “ Part II of the Town and Country Planning (Scotland) Act 1947; and ”.
+
+(2) In section 112(3)(d) of that Act, for “section 63 of the Town and Country Planning (Scotland) Act 1972” substitute “ section 179 of the Town and Country Planning (Scotland) Act 1997 ”.
+
+(3) In section 141(2) of that Act, for “section 275(1) of the Town and Country Planning (Scotland) Act 1972” substitute “ section 214 of the Town and Country Planning (Scotland) Act 1997 ”.
+
+### The Finance Act 1969 (c. 32)
+
+**18** In the Table in section 58(4)(c) of the Finance Act 1969, in the entry relating to the Town and Country Planning (Scotland) Act 1972—
+
+(a) in the first column, for “section 172(3) of the Local Government (Scotland) Act 1973” substitute “ section 1 of the Town and Country Planning (Scotland) Act 1997 ”; and
+
+(b) in the second column, for “1972” substitute “ 1997 ”.
+
+### The Post Office Act 1969 (c. 48)
+
+**19** [^F6]1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) In Schedule 9 to that Act—
+
+(a) in paragraph 27—
+
+(i) in sub-paragraph (7) (as it applies in Scotland), for “Part XII of the Town and Country Planning (Scotland) Act 1972” substitute “ Part XII of the Town and Country Planning (Scotland) Act 1997 ”;
+
+(ii) in sub-paragraph (9) (as it applies in Scotland), for “section 31 of the Town and Country Planning (Scotland) Act 1972” substitute “ section 36 of the Town and Country Planning (Scotland) Act 1997 ”;
+
+(iii) in sub-paragraph (12)(a), for “the Town and Country Planning (Scotland) Act 1972” substitute “ the Town and Country Planning (Scotland) Act 1997 ”;
+
+(iv) in sub-paragraph (14), for “sections 38 and 39 of the Town and Country Planning (Scotland) Act 1972” substitute “ sections 58 and 59 of the Town and Country Planning (Scotland) Act 1997 ”; and
+
+(v) in sub-paragraph (15) (as it applies in Scotland), for “Subsections (5) and (7) of section 40 of the Town and Country Planning (Scotland) Act 1972” and “sections 38 and 39 of that Act” substitute respectively “ Subsections (2) and (4) of section 60 of the Town and Country Planning (Scotland) Act 1997 ” and “ sections 58 and 59 of that Act ”;
+
+(b) in paragraph 28—
+
+(i) in sub-paragraph (1), for “section 253 of the Town and Country Planning (Scotland) Act 1972” and “section 24 of the said Act of 1972” substitute respectively “ section 245 of the Town and Country Planning (Scotland) Act 1997 ” and “ section 35 of the Act of 1997 ”; and
+
+(ii) in sub-paragraph (2), for “the said Act of 1972” substitute “ the said Act of 1997 ”; and
+
+(c) in paragraph 29, for “paragraph 28 of Schedule 22 to the Town and Country Planning (Scotland) Act 1972” and “section 84 of the said Act of 1972” substitute respectively “ paragraph 28 of Schedule 22 to the Town and Country Planning (Scotland) Act 1972 (as it continues in effect by virtue of Schedule 3 to the Planning (Consequential Provisions) (Scotland) Act 1997) ” and “ section 127 of the Town and Country Planning (Scotland) Act 1997 ”.
+
+### The Employment and Training Act 1973 (c. 50)
+
+**20** In section 4 of the Employment and Training Act 1973—
+
+(a) in subsection (3)(e), for “the Town and Country Planning (Scotland) Act 1972” substitute “ a planning authority within the meaning of the Town and Country Planning (Scotland) Act 1997 ”; and
+
+(b) in subsection (5)(d), for “1972” substitute “ 1997 ”.
+
+### The Land Compensation (Scotland) Act 1973 (c. 56)
+
+**21** (1) In section 2(6) of the Land Compensation (Scotland) Act 1973—
+
+(a) for “section 181(4)(a) of the Town and Country Planning (Scotland) Act 1972” substitute “ section 100(3)(a) of the Town and Country Planning (Scotland) Act 1997 ”;
+
+(b) for “section 196” substitute “ section 122 ”; and
+
+(c) for “section 182” substitute “ section 101 ”.
+
+(2) In section 5 of that Act—
+
+(a) in subsection (2)—
+
+(i) in paragraph (a), for “Schedule 16 to the Town and Country Planning (Scotland) Act 1972” and “paragraph 1 of Schedule 6” substitute respectively “ Schedule 12 to the Town and Country Planning (Scotland) Act 1997 ” and “ paragraph 1 of Schedule 11 ”; and
+
+(ii) in paragraph (b), for “paragraph 2 of Schedule 6” substitute “ paragraph 2 of Schedule 11 ”;
+
+(b) in subsection (3)(c), for “section 49 of the said Act of 1972” and “section 159” substitute respectively “ section 71 of or paragraph 1 of Schedule 8 to the said Act of 1997 ” and “ section 83 ”; and
+
+(c) in subsection (5), for “the said Act of 1972” substitute “ the said Act of 1997 ”.
+
+(3) In section 24 of that Act—
+
+(a) in subsection (2A), for the words from “subsections (3)” to “1972” substitute “ section 100(2) (interests qualifying for protection under blight provisions) of the Town and Country Planning (Scotland) Act 1997 ”;
+
+(b) in subsection (2B), for “subsection (1) of the said section 181” substitute “ Schedule 14 to the said Act of 1997 ”; and
+
+(c) in subsection (6), for “section 275(1) of the Town and Country Planning (Scotland) Act 1972” substitute “ section 214 of the Town and Country Planning (Scotland) Act 1997 ”.
+
+(4) In section 36(2) of that Act, for “section 181 of the Town and Country Planning (Scotland) Act 1972” substitute “ section 100 of the Town and Country Planning (Scotland) Act 1997 ”.
+
+(5) In section 43(2) of that Act, for “section 181(4)(a) of the Town and Country Planning (Scotland) Act 1972”, “section 196” and “section 182” substitute respectively “ section 100(3)(a) of the Town and Country Planning (Scotland) Act 1997 ”, “ section 122 ” and “ section 101 ”.
+
+(6) In section 46(4) of that Act, for “Schedule 24 to the Town and Country Planning (Scotland) Act 1972” substitute “ Schedule 15 to the Town and Country Planning (Scotland) Act 1997 ”.
+
+(7) In section 47(6)(b) of that Act, for “the Town and Country Planning (Scotland) Act 1972” substitute “ the Town and Country Planning (Scotland) Act 1997 ”.
+
+(8) In section 49 of that Act—
+
+(a) in subsection (4), after “(3) above” insert “ or such a notice is deemed to have been served by virtue of sections 88 to 95 of the Town and Country Planning (Scotland) Act 1997 ”; and
+
+(b) in subsection (5)—
+
+(i) omit the words from “sections 169” to “or”; and
+
+(ii) for “Schedule 24 to the said Act of 1972” substitute “ Schedule 15 to the Town and Country Planning (Scotland) Act 1997 ”.
+
+(9) In section 51(1) of that Act, for “paragraph 8 of Schedule 24 to the Town and Country Planning (Scotland) Act 1972” substitute “ paragraph 15 of Schedule 15 to the Town and Country Planning (Scotland) Act 1997 ”.
+
+(10) In section 54(1) of that Act, for “section 191(2) of, or paragraph 26 of Schedule 24 to, the Town and Country Planning (Scotland) Act 1972” substitute “ section 117(2) of, or paragraph 26 of Schedule 15 to, the Town and Country Planning (Scotland) Act 1997 ”.
+
+(11) In section 55(7) of that Act, for “section 253(7) of the Town and Country Planning (Scotland) Act 1972” substitute “ section 242(1) of the Town and Country Planning (Scotland) Act 1997 ”.
+
+(12) In section 80(1) of that Act, in the definition of “agricultural unit”, for “section 196(1) of the Town and Country Planning (Scotland) Act 1972” substitute “ section 122 of the Town and Country Planning (Scotland) Act 1997 ”.
+
+### The Local Government (Scotland) Act 1973 (c. 65)
+
+**22** In the definition of “protected informant” in paragraph 1(1) of Part III of Schedule 7A to the Local Government (Scotland) Act 1973, for “as defined in section 84(2) of the Town and Country Planning (Scotland) Act 1972” substitute “ within the meaning of section 123(1) of the Town and Country Planning (Scotland) Act 1997 ”.
+
+### The Control of Pollution Act 1974 (c. 40)
+
+**23** [^F7]1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) In section 105(3) of that Act, for “subsection (7) of section 253 of the Town and Country Planning (Scotland) Act 1972” substitute “ subsections (1) to (3) of section 242 of the Town and Country Planning (Scotland) Act 1997 ”.
+
+### The Offshore Petroleum Development (Scotland) Act 1975 (c. 8)
+
+**24** (1) In section 1(9) of the Offshore Petroleum Development (Scotland) Act 1975—
+
+(a) in paragraph (a), for “Part III of the Town and Country Planning (Scotland) Act 1972” substitute “ Part III of the Town and Country Planning (Scotland) Act 1997 ”; and
+
+(b) in paragraph (b), for “section 21” substitute “ section 30 ”.
+
+(2) In section 2 of that Act—
+
+(a) in subsection (1)—
+
+(i) for “section 108 of the Town and Country Planning (Scotland) Act 1972” substitute “ section 194 of the Town and Country Planning (Scotland) Act 1997 ”; and
+
+(ii) for “Part VI” in both places where those words occur substitute “ Part VIII ”;
+
+(b) in subsection (2)—
+
+(i) for “the Town and Country Planning (Scotland) Act 1972” substitute “ the Town and Country Planning (Scotland) Act 1997 ”; and
+
+(ii) for “section 117 of the said Act of 1972” substitute “ section 196 of the said Act of 1997 ”;
+
+(c) in subsection (3)—
+
+(i) in paragraph (a), for “section 117 of the said Act of 1972” substitute “ section 196 of the said Act of 1997 ”;
+
+(ii) in paragraph (b), for “section 118” substitute “ section 197 ”; and
+
+(iii) in paragraph (c), for “section 119” substitute “ section 198 ”; and
+
+(d) in subsection (4)—
+
+(i) for “sections 219 and 220 of the said Act of 1972” substitute “ sections 224 and 227 of the said Act of 1997 ”;
+
+(ii) for “sections 226(2) and 227” substitute “ sections 232(2) and 233 ”;
+
+(iii) for “of sections 219 and 220” substitute “ of sections 224 and 227 ”; and
+
+(iv) for “the said section 219” substitute “ the said section 224 ”.
+
+(3) In section 9(3)(b) of that Act, for “section 32 of the Town and Country Planning (Scotland) Act 1972” substitute “ section 46 of the Town and Country Planning (Scotland) Act 1997 ”.
+
+(4) In section 15(2) of that Act, for “sections 265(8) and 266 of the Town and Country Planning (Scotland) Act 1972” and “section 265 of that Act” substitute respectively “ sections 269(6) and 270 of the Town and Country Planning (Scotland) Act 1997 ” and “ section 269 ”.
+
+(5) In section 16(3)(a) of that Act, for “Schedule 24 to the Town and Country Planning (Scotland) Act 1972” substitute “ Schedule 15 to the Town and Country Planning (Scotland) Act 1997 ”.
+
+(6) In Schedule 2 to that Act—
+
+(a) in paragraph 1(2), for “section 278 of the Town and Country Planning (Scotland) Act 1972 and Schedule 24” substitute “ section 195 of the Town and Country Planning (Scotland) Act 1997 and Schedule 15 ”;
+
+(b) in paragraph 3(1)(b), for “Schedule 24 to the Town and Country Planning (Scotland) Act 1972” substitute “ Schedule 15 to the Town and Country Planning (Scotland) Act 1997 ”; and
+
+(c) in paragraph 4(1), for “Schedule 24 to the Town and Country Planning (Scotland) Act 1972” substitute “ Schedule 15 to the Town and Country Planning (Scotland) Act 1997 ”.
+
+### The House of Commons Disqualification Act 1975 (c. 24)
+
+**25** In Part II of Schedule 1 to the House of Commons Disqualification Act 1975, in the second entry relating to “A Planning Inquiry Commission”, for “Part III of the Town and Country Planning (Scotland) Act 1972” substitute “ Part III of the Town and Country Planning (Scotland) Act 1997 ”.
+
+### The Race Relations Act 1976 (c. 74)
+
+**26** In section 19A(3)(b) of the Race Relations Act 1976, for “the Town and Country Planning (Scotland) Act 1972” substitute “ the Town and Country Planning (Scotland) Act 1997, the Planning (Listed Buildings and Conservation Areas) (Scotland) Act 1997 and the Planning (Hazardous Substances) (Scotland) Act 1997 ”.
+
+### The Refuse Disposal (Amenity) Act 1978 (c. 3)
+
+**27** In section 8 of the Refuse Disposal (Amenity) Act 1978—
+
+(a) in subsection (2) as substituted by subsection (4)—
+
+(i) for “Section 266(1) to (5) of the Town and Country Planning (Scotland) Act 1972” substitute “ Section 270(1) to (7) of the Town and Country Planning (Scotland) Act 1997 ”; and
+
+(ii) for “section 265”, in both places where those words occur, substitute “ section 269 ”; and
+
+(b) in subsection (3), as substituted by subsection (4), for “Sections 267 to 270 of the said Act of 1972” substitute “ Sections 265 to 268, 271 and 272 of the said Act of 1997 ”.
+
+### The Estate Agents Act 1979 (c. 38)
+
+**28** In section 1(2)(e) of the Estate Agents Act 1979, for “the Town and Country Planning (Scotland) Act 1972” substitute “ the Town and Country Planning (Scotland) Act 1997, the Planning (Listed Buildings and Conservation Areas) (Scotland) Act 1997, the Planning (Hazardous Substances) (Scotland) Act 1997 ”.
+
+### The Ancient Monuments and Archaeological Areas Act 1979 (c. 46)
+
+**29** (1) In section 32(1) of the Ancient Monuments and Archaeological Areas Act 1979—
+
+(a) for “the Town and Country Planning (Scotland) Act 1972” substitute “ the Town and Country Planning (Scotland) Act 1997 or the Planning (Listed Buildings and Conservation Areas) (Scotland) Act 1997 ”; and
+
+(b) for “the said Act of 1972” substitute “ the said Acts of 1997 ”.
+
+(2) In section 61 of that Act, in the definition of “works” in subsection (1) and in subsection (2)(b), for “the Town and Country Planning (Scotland) Act 1972” substitute “ the Town and Country Planning (Scotland) Act 1997 ”.
+
+### The Water (Scotland) Act 1980 (c. 45)
+
+**30** (1) In section 10(5)(a) of the Water (Scotland) Act 1980, for “section 275(1) of the Town and Country Planning (Scotland) Act 1972” substitute “ section 214 of the Town and Country Planning (Scotland) Act 1997 ”.
+
+(2) In section 110A of that Act—
+
+(a) in subsection (7), in the definition of “the appropriate authority”, for “section 253(7) of the Town and Country Planning (Scotland) Act 1972” substitute “ section 242(2) of the Town and Country Planning (Scotland) Act 1997 ”; and
+
+(b) in subsection (8), for “subsection (7) of section 253 of the Town and Country Planning (Scotland) Act 1972” substitute “ subsection (3) of section 242 of the Town and Country Planning (Scotland) Act 1997 ”.
+
+### The Local Government, Planning and Land Act 1980 (c. 65)
+
+**31** (1) In section 3(5)(c) of the Local Government, Planning and Land Act 1980, for “the Town and Country Planning (Scotland) Act 1972” substitute “ the Town and Country Planning (Scotland) Act 1997 ”.
+
+(2) In section 120(3) of that Act, in paragraph (b) of the definition of “statutory undertakers”, for “the Town and Country Planning (Scotland) Act 1972” substitute “ the Town and Country Planning (Scotland) Act 1997 ”.
+
+(3) In section 122 of that Act, in each of subsections (1), (2), (3), (6) and (8), for “sections” substitute “ section ”.
+
+(4) In section 141(4) of that Act, for “section 278 of the Town and Country Planning (Scotland) Act 1972” substitute “ section 195 of the Town and Country Planning (Scotland) Act 1997 ”.
+
+(5) In section 148 of that Act—
+
+(a) in subsection (2), for “section 21 of the 1972 Act” substitute “ sections 30 and 31 of the 1997 Act ”; and
+
+(b) in subsection (3), for “section 52(1) of the 1972 Act” substitute “ section 1 of the Planning (Listed Buildings and Conservation Areas) (Scotland) Act 1997 ”.
+
+(6) In section 149 of that Act—
+
+(a) in subsection (6), for the words from “Part III” to “1973)” substitute “ Part III of the 1997 Act ”;
+
+(b) in subsection (8)(a), for “the 1972 Act” substitute “ the 1997 Act and the Planning (Listed Buildings and Conservation Areas) (Scotland) Act 1997 ”; and
+
+(c) in subsection (8)(b), for “the 1972 Act” substitute “ those Acts ”.
+
+(7) In section 170 of that Act—
+
+(a) in subsection (1)(b), for “the 1972 Act” substitute “ the 1997 Act ”; and
+
+(b) in subsection (3)(a), for “Part XI of the 1972 Act” and “the said Part XI” substitute respectively “ Part X of the 1997 Act ” and “ the said Part X ”.
+
+(8) In section 171 of that Act, for “1972” in both places where it occurs substitute “ 1997 ”.
+
+(9) In paragraph 15 of Schedule 27 to that Act, for “Schedule 24 to the Town and Country Planning (Scotland) Act 1972” substitute “ Schedule 15 to the Town and Country Planning (Scotland) Act 1997 ”.
+
+(10) In Schedule 28 to that Act—
+
+(a) in paragraph 8, for “Section 118 of the 1972 Act” substitute “ Section 197 of the 1997 Act ”;
+
+(b) in paragraph 11(2)(b)(i), for the words from “exercising” to “1973” substitute “ within the meaning of section 1 of the 1997 Act ”;
+
+(c) in paragraph 14(6), for “sections 227 and 229 of the 1972 Act” and “section 226(2) of the 1972 Act” substitute respectively “ sections 233 and 235 of the 1997 Act ” and “ section 232(2) of the 1997 Act ”; and
+
+(d) in paragraph 16(8), for “sections 227 and 229 of the 1972 Act” and “section 226(3) of the 1972 Act” substitute respectively “ sections 233 and 235 of the 1997 Act ” and “ section 232(4) of the 1997 Act ”.
+
+(11) In Schedule 30 to that Act, for the enactments referred to in Part I substitute—
+
+> Sections 125, 127 to 129, 135, 140, 141, 147, 159 to 161, 163, 167, 168, 170, 172, 174, 175, 179, 182 and 186 of the 1997 Act.
+>
+> Sections 3, 4, 7, 9, 12 to 14, 20 to 24, 34, 38, 42, 43, 45, 48(1), 49, 61 to 64, 66, 73(2) to (4) and 77 of the Planning (Listed Buildings and Conservation Areas) (Scotland) Act 1997.
+
+(12) For paragraphs 1 to 9 of Part II of that Schedule substitute—
+
+> **1** Section 90 of the 1997 Act shall have effect as if after “undertakers” there were inserted—
+>
+> (a) in subsection (1)(b), “or an urban development corporation”;
+>
+> (b) in subsection (1)(c), “or any urban development corporation”; and
+>
+> (c) in subsection (3), “or urban development corporation”.
+>
+> **2** Section 91(2)(c) of that Act shall have effect as if, after “undertakers”, there were inserted “or an urban development corporation”.
+>
+> **3** Section 92(4) of that Act shall have effect as if, after “undertakers” in the first and second places where it occurs, there were inserted respectively “or an urban development corporation” and “or that corporation”.
+>
+> **4** Section 94(1)(b) of that Act shall have effect as if, after “undertakers” in the first and second places where it occurs, there were inserted respectively “or an urban development corporation” and “or that corporation”.
+>
+> **5** The definition of “relevant provisions” in section 99 of that Act shall have effect as if, after “undertaking”, there were added “or, in the case of an urban development corporation, section 142 of the Local Government, Planning and Land Act 1980”.
+>
+> **6** Section 203 of that Act shall have effect as if—
+>
+> (a) in subsection (1), after “applies” there were inserted “subject to subsection (1A)”; and
+>
+> (b) the following subsection were inserted after that subsection—
+>
+> ” Any reference in this section and in section 203 to a competent authority is to be construed as including a reference to an urban development corporation.”
+>
+> **7** Section 205 of that Act shall have effect as if, after “authorities”, there were inserted “and, in an urban development area, the urban development corporation”.
+>
+> **8** Section 206 of that Act shall have effect as if—
+>
+> (a) in subsection (1), for “Where” there were substituted “Subject to subsection (1A), where”; and
+>
+> (b) the following subsection were inserted after that subsection—
+>
+> ” Where any land has been acquired by an urban development corporation or has vested in such a corporation and is for the time being held by them for the purpose of regenerating their area—
+>
+> (a) the Secretary of State may by order extinguish any public right of way over the land if he is satisfied that an alternative right of way has been or will be provided or that the provision of an alternative right of way is not required;
+>
+> (b) subject to paragraphs 4 and 5 of Schedule 16 to this Act, the urban development corporation may by order extinguish any such right over the land, being a footpath or bridleway, if they are so satisfied.”
+>
+> **9** Section 272 of that Act shall have effect as if, in subsection (1), after “local authority” there were inserted “or an urban development corporation”.
+>
+> **10** Section 29 of the Planning (Listed Buildings and Conservation Areas) (Scotland) Act 1997 shall have effect as if—
+>
+> (a) in subsection (1)(b) and (c), after “undertakers” there were inserted “or an urban development corporation”; and
+>
+> (b) in subsection (3), after “undertakers” there were inserted “or corporation”.
+>
+> **11** Section 30 of that Act shall have effect as if—
+>
+> (a) in subsection (2)(c), after “undertakers” there were inserted “or an urban development corporation”; and
+>
+> (b) in each of subsections (3), (4) and (5), after “undertakers” there were inserted “or corporation”.
+>
+> **12** Section 31(6) of that Act shall have effect as if after “undertakers” there were inserted “or an urban development corporation”.
+>
+> **13** Section 32(4) of that Act shall have effect as if after “undertakers” in the first and second places where it occurs there were inserted respectively “or an urban development corporation” and “or that corporation”.
+>
+> **14** Section 81(2) of that Act shall have effect as if “urban development corporation” were inserted in the appropriate place.
+
+(13) In Schedule 32 to that Act—
+
+(a) in paragraph 7(3), for “subsection (8) of section 265 and subsections (1) to (6) of section 266 of the 1972 Act” and “to section 265” substitute respectively “ subsection (6) of section 269 and section 270 of the 1997 Act ” and “ to section 269 ”;
+
+(b) in paragraph 8, for “1972”, in both places where it occurs, substitute “ 1997 ”; and
+
+(c) in paragraph 26—
+
+(i) in sub-paragraph (1), for “the 1972 Act”, in the first place where those words occur, substitute “ the 1997 Act, the Planning (Listed Buildings and Conservation Areas) (Scotland) Act 1997 or the Planning (Hazardous Substances) (Scotland) Act 1997 ”;
+
+(ii) in that sub-paragraph, for the definition of “the 1972 Act” substitute—
+
+> - “the 1997 Act” means the Town and Country Planning (Scotland) Act 1997
+
+; and
+
+(iii) in sub-paragraph (2)(b), for “1972” substitute “ 1997 ”.
+
+### The Zoo Licensing Act 1981 (c. 37)
+
+**32** In section 4(6) of the Zoo Licensing Act 1981, for “the Town and Country Planning (Scotland) Act 1972” and “1972” substitute respectively “ the Town and Country Planning (Scotland) Act 1997 ” and “ 1997 ”.
+
+### The Transport Act 1981 (c. 56)
+
+**33** In paragraph 9 of Schedule 4 to the Transport Act 1981, for “section 275(1) of the Town and Country Planning (Scotland) Act 1972” substitute “ section 214 of the Town and Country Planning (Scotland) Act 1997 ”.
+
+### The Wildlife and Countryside Act 1981 (c. 69)
+
+**34** (1) In sections 28(8)(a), 29(9)(a) and 34(5) of the Wildlife and Countryside Act 1981, for “Part III of the Town and Country Planning (Scotland) Act 1972” substitute “ Part III of the Town and Country Planning (Scotland) Act 1997 ”.
+
+(2) In section 70A(1) of that Act, for “section 269 of the Town and Country Planning (Scotland) Act 1972” substitute “ section 271 of the Town and Country Planning (Scotland) Act 1997 ”.
+
+### The Civil Aviation Act 1982 (c. 16)
+
+**35** (1) In section 48(9) of the Civil Aviation Act 1982, for “subsections (1) and (2) of section 209 of the Town and Country Planning (Scotland) Act 1972” and “section 198 of the said Act of 1972” substitute respectively “ subsections (1) to (4) of section 212 of the Town and Country Planning (Scotland) Act 1997 ” and “ section 202 of the said Act of 1997 ”.
+
+(2) In section 51 of that Act—
+
+(a) in subsection (2)(b), for “section 227(2), (3), (5) and (6) of the Town and Country Planning (Scotland) Act 1972” substitute “ section 233(2) to (5), (7) and (8) of the Town and Country Planning (Scotland) Act 1997 ”;
+
+(b) in subsection (5)—
+
+(i) for “subsections (2), (3), (5) and (6) of the said section 227” substitute “ subsections (2) to (5), (7) and (8) of the said section 233 ”;
+
+(ii) in paragraph (a), for “section 227” and “section 226(2)” substitute respectively “ section 233 ” and “ section 232(2) or (3) ”; and
+
+(iii) in paragraph (c), for “subsection (6) of the said section 227” substitute “ subsection (8) of the said section 233 ”; and
+
+(c) in subsection (7), for “sections 222 to 224 of the Town and Country Planning (Scotland) Act 1972” substitute “ sections 228 to 230 of the Town and Country Planning (Scotland) Act 1997 ”.
+
+(3) In section 53 of that Act—
+
+(a) in subsection (1)—
+
+(i) in paragraph (a), for “section 153, 154, 176(2) or 226(1) of the Town and Country Planning (Scotland) Act 1972” substitute “ section 76, 77, 95(2) or 232(1) of the Town and Country Planning (Scotland) Act 1997 ”; and
+
+(ii) in paragraph (b), for “the said section 153” and “section 42 of the said Act of 1972” substitute respectively “ the said section 76 ” and “ section 65 of the said Act of 1997 ”;
+
+(b) in subsection (2), for “section 157 of the said Act of 1972” substitute “ section 82 of the said Act of 1997 ”;
+
+(c) in subsection (3), for “section 169 of the said Act of 1972” and “section 170(2) or 175(1) of the said Act of 1972” substitute respectively “ section 88 of the said Act of 1997 ” and “ section 90(3) or 94(1) of the said Act of 1997 ”;
+
+(d) in subsection (5), for “the said section 42” substitute “ the said section 65 ”; and
+
+(e) in subsection (6), for “the said Act of 1972” substitute “ the said Act of 1997 ”.
+
+(4) In section 54 of that Act—
+
+(a) in subsection (1), for “section 118 of the Town and Country Planning (Scotland) Act 1972” and “Part VI of the said Act of 1972” substitute respectively “ section 197 of the Town and Country Planning (Scotland) Act 1997 ” and “ Part VIII of the said Act of 1997 ”; and
+
+(b) in subsection (2), for “and 118” and “Part VI of the said Act of 1972” substitute respectively “ and 197 ” and “ Part VIII of the said Act of 1997 ”.
+
+(5) In Schedule 10 to that Act—
+
+(a) in paragraph 4—
+
+(i) for “section 225 of the Town and Country Planning (Scotland) Act 1972” substitute “ section 231 of the Town and Country Planning (Scotland) Act 1997 ”;
+
+(ii) after sub-paragraph (a) insert “ and ”; and
+
+(iii) in sub-paragraph (b), for “section 225 to section 222 of the said Act of 1972” substitute “ section 231 to section 228 of the said Act of 1997 ”; and
+
+(b) in paragraph 8—
+
+(i) for “section 225 of the Town and Country Planning (Scotland) Act 1972” substitute “ section 231 of the Town and Country Planning (Scotland) Act 1997 ”;
+
+(ii) after sub-paragraph (a) insert “ and ”; and
+
+(iii) in sub-paragraph (b), for “section 225 to section 224 of the said Act of 1972” substitute “ section 231 to section 230 of the said Act of 1997 ”.
+
+### The Mobile Homes Act 1983 (c. 34)
+
+**36** In the definition of “planning permission” in section 5(1) of the Mobile Homes Act 1983, for “Part III of the Town and Country Planning (Scotland) Act 1972” substitute “ Part III of the Town and Country Planning (Scotland) Act 1997 ”.
+
+### The Telecommunications Act 1984 (c. 12)
+
+**[^F8]37** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Roads (Scotland) Act 1984 (c. 54)
+
+**38** (1) In section 12B(7) of the Roads (Scotland) Act 1984, for “Part III of the Town and Country Planning (Scotland) Act 1972” substitute “ Part III of the Town and Country Planning (Scotland) Act 1997 ”.
+
+(2) In section 20A(5)(b) of that Act, for “the said Act of 1972” substitute “ the Planning (Listed Buildings and Conservation Areas) (Scotland) Act 1997 ”.
+
+(3) In section 29(2)(c) of that Act, for “Part III of the Town and Country Planning (Scotland) Act 1972” substitute “ Part III of the Town and Country Planning (Scotland) Act 1997 ”.
+
+(4) In section 53(5) of that Act, for “section 50 of the Town and Country Planning (Scotland) Act 1972” substitute “ section 75 of the Town and Country Planning (Scotland) Act 1997 ”.
+
+(5) In section 83(10) of that Act, for “section 58(1) of the Town and Country Planning (Scotland) Act 1972” substitute “ section 160(1) of the Town and Country Planning (Scotland) Act 1997 ”.
+
+(6) In section 91(8)(b)(ii) of that Act, for “section 58(1) of the Town and Country Planning (Scotland) Act 1972” substitute “ section 160(1) of the Town and Country Planning (Scotland) Act 1997 ”.
+
+(7) In section 104(1)(b) of that Act, for “section 198, 198A or 201 of the Town and Country Planning (Scotland) Act 1972” and “section 203(1)(a) or (b)” substitute respectively “ section 202, 203 or 207 of the Town and Country Planning (Scotland) Act 1997 ” and “ section 206(1)(a) or (b) ”.
+
+(8) In section 106 of that Act—
+
+(a) in subsection (2), for “section 181(3) to (5) of the Town and Country Planning (Scotland) Act 1972” and “section 182” substitute respectively “ section 100(2) of the Town and Country Planning (Scotland) Act 1997 ” and “ section 101 ”;
+
+(b) in subsection (2A), for the words from “subsections (3)” to “1972” substitute “ section 100(2) (interests qualifying for protection under blight provisions) of the Town and Country Planning (Scotland) Act 1997 ”;
+
+(c) in subsection (2B), for “subsection (1) of the said section 181” substitute “ Schedule 14 to the said Act of 1997 ”;
+
+(d) in subsection (7), for “section 181(1)(e) of the Town and Country Planning (Scotland) Act 1972” substitute “ paragraph 11 of Schedule 14 to the Town and Country Planning (Scotland) Act 1997 ”; and
+
+(e) in subsection (8), for “The said section 181” substitute “ The said Schedule 14 ”.
+
+(9) In section 117(2) of that Act, for “Section 167(1) and (2) of the Town and Country Planning (Scotland) Act 1972”, “Part VIII of that Act” and “the said Part VIII” substitute respectively “ Section 87(1) and (2) of the Town and Country Planning (Scotland) Act 1997 ”, “ Part IV of that Act ” and “ the said Part IV ”.
+
+(10) In section 118 of that Act, for “section 167 of the Town and Country Planning (Scotland) Act 1972” and “the said section 167” substitute respectively “ section 87 of the Town and Country Planning (Scotland) Act 1997 ” and “ the said section 87 ”.
+
+(11) In section 119(1) of that Act—
+
+(a) in paragraph (b), for “section 169, 177 or 178 of the Town and Country Planning (Scotland) Act 1972” substitute “ section 88 of the Town and Country Planning (Scotland) Act 1997 ”; and
+
+(b) in paragraph (c), for “section 182 of the said Act of 1972” and “section 185 of the said Act of 1972” substitute respectively “ section 101 of the said Act of 1997 ” and “ section 105 of the said Act of 1997 ”.
+
+(12) In section 123 of that Act, for “section 20 of the Town and Country Planning (Scotland) Act 1972” substitute “ section 28 of the Town and Country Planning (Scotland) Act 1997 ”.
+
+(13) In section 134 of that Act—
+
+(a) in subsection (1)—
+
+(i) for “section 219 of the Town and Country Planning (Scotland) Act 1972” substitute “ section 224 of the Town and Country Planning (Scotland) Act 1997 ”;
+
+(ii) for “Part VI” in both places where it occurs substitute “ Part VIII ”;
+
+(iii) for “sections 220 and 222 to 225 of the said Act of 1972” substitute “ sections 227 to 231 of the said Act of 1997 ”; and
+
+(iv) for “the said section 219” substitute “ the said section 224 ”;
+
+(b) in subsection (2), for “the said Act of 1972” substitute “ the said Act of 1997 ”; and
+
+(c) in subsection (3), for “the said section 219” substitute “ the said section 224 ”.
+
+(14) In section 135 of that Act—
+
+(a) in subsection (1), for “the Town and Country Planning (Scotland) Act 1972” substitute “ the Town and Country Planning (Scotland) Act 1997 ”;
+
+(b) in subsection (2), for “the said Act of 1972” substitute “ the said Act of 1997 ”; and
+
+(c) in subsection (3), for “section 219 of the said Act of 1972” substitute “ section 224 of the said Act of 1997 ”.
+
+(15) In section 151(1)—
+
+(a) in the definition of “statutory undertakers”, for “section 275 of the Town and Country Planning (Scotland) Act 1972” substitute “ section 214 of the Town and Country Planning (Scotland) Act 1997 ”; and
+
+(b) in the definition of “trunk road”, for “section 198(2) of the Town and Country Planning (Scotland) Act 1972” substitute “ section 202(3) of the Town and Country Planning (Scotland) Act 1997 ”.
+
+(16) In section 152(4), for “the Town and Country Planning (Scotland) Act 1972” substitute “ the Town and Country Planning (Scotland) Act 1997 ”.
+
+### The Airports Act 1986 (c. 31)
+
+**39** (1) In section 59(6) of the Airports Act 1986, for “section 118 of the Town and Country Planning (Scotland) Act 1972” and “Part VI of that Act of 1972” substitute respectively “ section 197 of the Town and Country Planning (Scotland) Act 1997 ” and “ Part VIII of that Act of 1997 ”.
+
+(2) In section 61 of that Act—
+
+(a) in subsection (1)—
+
+(i) in paragraph (a), for “section 153, 154, 176(2) or 226(1) of the Town and Country Planning (Scotland) Act 1972 (“the 1972 Act”)” substitute “ section 76, 77, 95(2) or 232(1) of the Town and Country Planning (Scotland) Act 1997 (“the 1997 Act”) ”; and
+
+(ii) in paragraph (b), for “section 153 of the 1972 Act” and “section 42 of the 1972 Act” substitute respectively “ section 76 of the 1997 Act ” and “ section 65 of the 1997 Act ”;
+
+(b) in subsection (2), for “section 157 of the 1972 Act” substitute “ section 82 of the 1997 Act ”;
+
+(c) in subsection (3), for “section 169 of the 1972 Act” and “section 170(2) or 175(1) of the 1972 Act” substitute respectively “ section 88 of the 1997 Act ” and “ section 90(3) or 94(1) of the 1997 Act ”;
+
+(d) in subsection (5), for “section 42 of the 1972 Act” substitute “ section 65 of the 1997 Act ”; and
+
+(e) in subsection (6), for “the 1972 Act” substitute “ the 1997 Act ”.
+
+### The Housing (Scotland) Act 1987 (c. 26)
+
+**40** (1) In section 77(3) of the Housing (Scotland) Act 1987, for “section 278 of the Town and Country Planning (Scotland) Act 1972” substitute “ section 195 of the Town and Country Planning (Scotland) Act 1997 ”.
+
+(2) In section 119 of that Act—
+
+(a) in subsection (1), for “section 56 of the Town and Country Planning (Scotland) Act 1972” and “section 52(7)” substitute respectively “ sections 3 to 5 of the Planning (Listed Buildings and Conservation Areas) (Scotland) Act 1997 ” and “ section 1(4) ”; and
+
+(b) in subsection (2), for “the said section 56” and “the said section 52(7)” substitute respectively “ the said sections 3 to 5 ” and “ the said section 1(4) ”.
+
+[^F9]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) In Schedule 6 to that Act—
+
+(a) for “*The Town and Country Planning (Scotland) Act 1972 (c. 52)*” substitute “ *The Town and Country Planning (Scotland) Act 1997 (c. 8)* ”; and
+
+(b) in paragraph 1, for “Schedule 24” substitute “ Schedule 15 ”.
+
+(5) In paragraph 1 of Schedule 7 to that Act—
+
+(a) in sub-paragraph (2), for “section 52 of the Town and Country Planning (Scotland) Act 1972” and “section 53 of the said Act of 1972” substitute respectively “ section 1 of the Planning (Listed Buildings and Conservation Areas) (Scotland) Act 1997 ” and “ sections 6 to 8 of the said Act of 1997 ”;
+
+(b) in sub-paragraph (4)(a), for “the said section 53” substitute “ the said sections 6 to 8 ”;
+
+(c) in sub-paragraph (7)(b), for “Part VI of the Town and Country Planning (Scotland) Act 1972” substitute “ Part VIII of the Town and Country Planning (Scotland) Act 1997 ”; and
+
+(d) in sub-paragraph (8)(b), for “Part VI of the said Act of 1972” substitute “ Part VIII of the said Act of 1997 ”.
+
+(6) In paragraph 2 of that Schedule—
+
+(a) in sub-paragraph (1), for “section 52 of the Town and Country Planning (Scotland) Act 1972” and “the said section 53” substitute respectively “ section 1 of the Planning (Listed Buildings and Conservation Areas) (Scotland) Act 1997 ” and “ the said sections 6 to 8 ”; and
+
+(b) in sub-paragraph (3), for “the said section 53” and “Part VI of the Town and Country Planning (Scotland) Act 1972” substitute respectively “ the said sections 6 to 8 ” and “ Part VIII of the Town and Country Planning (Scotland) Act 1997 ”.
+
+(7) In paragraph 6 of that Schedule—
+
+(a) in sub-paragraph (2)(b), for “Part VI of the Town and Country Planning (Scotland) Act 1972” substitute “ Part VIII of the Town and Country Planning (Scotland) Act 1997 ”; and
+
+(b) in sub-paragraph (3)(b), for “Part VI of the said Act of 1972” substitute “ Part VIII of the said Act of 1997 ”.
+
+(8) In paragraph 13(1) of that Schedule, for “Part VI of the Town and Country Planning (Scotland) Act 1972” and “Part VI of the Act of 1972” substitute respectively “ Part VIII of the Town and Country Planning (Scotland) Act 1997 ” and “ Part VIII of the Act of 1997 ”.
+
+### The Income and Corporation Taxes Act 1988 (c. 1)
+
+**41** In section 91A(7) of the Income and Corporation Taxes Act 1988, for “section 50 of the Town and Country Planning (Scotland) Act 1972” substitute “ section 75 of the Town and Country Planning (Scotland) Act 1997 ”.
+
+### The Housing (Scotland) Act 1988 (c. 43)
+
+**42** In section 2(7) of the Housing (Scotland) Act 1988, for “section 278 of the Town and Country Planning (Scotland) Act 1972” substitute “ section 195 of the Town and Country Planning (Scotland) Act 1997 ”.
+
+### The Road Traffic (Driver Licensing and Information Systems) Act 1989 (c. 22)
+
+**43** In Schedule 4 to the Road Traffic (Driver Licensing and Information Systems) Act 1989, in paragraph 2, for “Section 219 of the Town and Country Planning (Scotland) Act 1972” and “the 1972 Act” substitute respectively “ Section 224 of the Town and Country Planning (Scotland) Act 1997 ” and “ the 1997 Act ”.
+
+### The Electricity Act 1989 (c. 29)
+
+**44** (1) In paragraph 2(5) of Schedule 3 to the Electricity Act 1989, for “the Town and Country Planning (Scotland) Act 1972” substitute “ the Town and Country Planning (Scotland) Act 1997 ”.
+
+(2) In paragraph 12 of Schedule 4 to that Act, for “the Town and Country Planning (Scotland) Act 1972” substitute “ the Town and Country Planning (Scotland) Act 1997 ”.
+
+### The Capital Allowances Act 1990 (c. 1)
+
+**[^F10]45** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The National Health Service and Community Care Act 1990 (c. 19)
+
+**46** (1) In paragraph 24 of Schedule 6 to the National Health Service and Community Care Act 1990, for “section 118 of the Town and Country Planning (Scotland) Act 1972” substitute “ section 197 of the Town and Country Planning (Scotland) Act 1997 ”.
+
+(2) In paragraph 17(2) and (3) of Schedule 8 to that Act, for “the Town and Country Planning (Scotland) Act 1972” in each place where those words occur substitute “ the Town and Country Planning (Scotland) Act 1997 ”.
+
+### The Enterprise and New Towns (Scotland) Act 1990 (c. 35)
+
+**47** (1) In section 8(13) of the Enterprise and New Towns (Scotland) Act 1990, for “section 278 of the Town and Country Planning (Scotland) Act 1972” substitute “ section 195 of the Town and Country Planning (Scotland) Act 1997 ”.
+
+(2) In section 9(5) of that Act, for the words from “sections 213” to the end substitute “ sections 217 and 214 of the Town and Country Planning (Scotland) Act 1997 ”.
+
+(3) In section 12(5)(e) of that Act, for “the Town and Country Planning (Scotland) Act 1972” substitute “ the Town and Country Planning (Scotland) Act 1997 ”.
+
+(4) In section 36(3) of that Act, for “section 278 of, and Schedule 24 to, the Town and Country Planning (Scotland) Act 1972” substitute “ section 195 of, and Schedule 15 to, the Town and Country Planning (Scotland) Act 1997 ”.
+
+### The Natural Heritage (Scotland) Act 1991 (c. 28)
+
+**48** (1) In section 2(2) of the Natural Heritage (Scotland) Act 1991, for “the Town and Country Planning (Scotland) Act 1972” substitute “ the Town and Country Planning (Scotland) Act 1997, the Planning (Listed Buildings and Conservation Areas) (Scotland) Act 1997 and the Planning (Hazardous Substances) (Scotland) Act 1997 ”.
+
+(2) In section 7(5A), for the words from “section 213(1)” to the end substitute “ section 217 of the Town and Country Planning (Scotland) Act 1997 ”.
+
+### The Planning and Compensation Act 1991 (c. 34)
+
+**49** (1) In section 78(1)(b) of the Planning and Compensation Act 1991, for “Schedule 24 to the Town and Country Planning (Scotland) Act 1972” substitute “ Schedule 15 to the Town and Country Planning (Scotland) Act 1997 ”.
+
+(2) In Part I of Schedule 18 to that Act, for the entries relating to the 1972 Act substitute the following—
+
+> |  |  |
+> |---|---|
+> | Section 76 of the Town and Country Planning (Scotland) Act 1997 | Date of order under section 65 |
+> | Section 77 of that Act | Date permission is refused or granted subject to conditions |
+> | Section 83 of that Act | Date damage suffered or expenses incurred |
+> | Section 95 of that Act | Date of direction under section 92(3) |
+> | Section 143 of that Act | Date of service of stop notice |
+> | Section 165 of that Act | Date consent required by tree preservation order is refused or granted subject to conditions |
+> | Section 166 of that Act | Date requirement is imposed by planning authority or Secretary of State |
+> | Section 185 of that Act | Date expenses incurred |
+> | Section 204(1) of that Act | Date on which order takes effect |
+> | Section 232 of that Act | Date planning permission refused or granted subject to conditions |
+> | Paragraph 1 of Schedule 13 to that Act | Date order made |
+> | Section 25 of the Planning (Listed Buildings and Conservation Areas) (Scotland) Act 1997 | Date of order under section 21 |
+> | Section 26 of that Act | Date building preservation notice served |
+> | Section 14 of the Planning (Hazardous Substances) (Scotland) Act 1997 | Date of order revoking or modifying consent |
+> | Section 17 of that Act | Date of modification or revocation of consent |
+
+.
+
+### The Coal Mining Subsidence Act 1991 (c. 45)
+
+**50** In section 19(1)(c) of the Coal Mining Subsidence Act 1991, for “section 52 of the Town and Country Planning (Scotland) Act 1972” substitute “ section 1 of the Planning (Listed Buildings and Conservation Areas) (Scotland) Act 1997 ”.
+
+### The Agricultural Holdings (Scotland) Act 1991 (c. 55)
+
+**51** In section 57(3) of the Agricultural Holdings (Scotland) Act 1991, for “section 102 or 110 of the Town and Country Planning (Scotland) Act 1972” substitute “ section 189 of the Town and Country Planning (Scotland) Act 1997 ”.
+
+### The Further and Higher Education (Scotland) Act 1992 (c. 37)
+
+**52** In section 31(7) of the Further and Higher Education (Scotland) Act 1992, for “section 278 of the Town and Country Planning (Scotland) Act 1972” substitute “ section 195 of the Town and Country Planning (Scotland) Act 1997 ”.
+
+### The Protection of Badgers Act 1992 (c. 51)
+
+**53** In section 10(1)(d) of the Protection of Badgers Act 1993, for “section 19(1) of the Town and Country Planning (Scotland) Act 1972” substitute “ section 26(1) of the Town and Country Planning (Scotland) Act 1997 ”.
+
+### The Radioactive Substances Act 1993 (c. 12)
+
+**[^F11]54** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Crofters (Scotland) Act 1993 (c. 44)
+
+**55** (1) In section 14(4) of the Crofters (Scotland) Act 1993, for “the 1972 Act” substitute “ the 1997 Act ”.
+
+(2) In section 15(2)(b)(iv) of that Act, for “the 1972 Act” substitute “ the 1997 Act ”.
+
+(3) In section 61(1) of that Act—
+
+(a) for the definition of “the 1972 Act” substitute—
+
+> - “the 1997 Act” means the Town and Country Planning (Scotland) Act 1997;
+
+; and
+
+(b) in the definition of “development”, for “section 19 of the 1972 Act” substitute “ section 26 of the 1997 Act ”.
+
+### The Coal Industry Act 1994 (c. 21)
+
+**56** (1) In section 54(6) of the Coal Industry Act 1994, for “the Town and Country Planning (Scotland) Act 1972” and “that Act of 1972” substitute respectively “ the Town and Country Planning (Scotland) Act 1997 ” and “ that Act of 1997 ”.
+
+(2) In paragraph 13(1) of Schedule 10 to that Act, for “those Acts” substitute “ that Act ”.
+
+### The Value Added Tax Act 1994 (c. 23)
+
+**57** In Group 6 of Schedule 8 to the Value Added Tax Act 1994—
+
+(a) in Note (1)(a)(ii), for “the Town and Country Planning (Scotland) Act 1972” substitute “ the Planning (Listed Buildings and Conservation Areas) (Scotland) Act 1997 ”; and
+
+(b) in Note (4)(c)(ii), for “Part IV of the Town and Country Planning (Scotland) Act 1972” substitute “ Part I of the Planning (Listed Buildings and Conservation Areas) (Scotland) Act 1997 ”.
+
+### The Local Government etc. (Scotland) Act 1994 (c. 39)
+
+**[^F12]58** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Goods Vehicles (Licensing of Operators) Act 1995 (c. 23)
+
+**59** (1) For section 12(12) of the Goods Vehicles (Licensing Operators) Act 1995, in paragraph (b) of the definition of “planning authority”, for “1972” substitute “ 1997 ”.
+
+(2) For section 14(3)(b)(ii) of that Act substitute—
+
+> (ii) section 150 or 151 of the Town and Country Planning (Scotland) Act 1997;
+
+.
+
+(3) For section 19(7)(b)(ii) of that Act substitute—
+
+> (ii) section 150 or 151 of the Town and Country Planning (Scotland) Act 1997;
+
+.
+
+### The Environment Act 1995 (c. 25)
+
+**60** (1) In Schedule 13 to the Environment Act 1995—
+
+(a) after paragraph 2(4)(b) insert “ or ”; and
+
+(b) in paragraph 15(6), for “those sections” substitute “ that section ”.
+
+(2) In Schedule 14 to that Act, in paragraph 13(6), for “those sections” substitute “ that section ”.
+
+### The Gas Act 1995 (c. 45)
+
+**61** In paragraph 2(1)(xxi) of Schedule 4 to the Gas Act 1995, for “sections 47 and 67” substitute “ section 47 ”.
+
+## SCHEDULE 3 — Transitional provisions and savings
+
+*Section 5.*
+
+**1** (1) The repeal by this Act of a provision relating to the coming into force of a provision reproduced in the consolidating Acts does not affect the operation of that provision, in so far as it is not specifically reproduced in the consolidating Acts but remains capable of having effect, in relation to the corresponding provision of the consolidating Acts.
+
+(2) The repeal by this Act of a power to make provision or savings in preparation for or in connection with the coming into force of a provision reproduced in the consolidating Acts does not affect the power, in so far as it remains capable of having effect, in relation to the enactment reproducing the second provision.
+
+**2** (1) The repeal by this Act of an enactment previously repealed subject to savings does not affect the continued operation of those savings.
+
+(2) The repeal by this Act of a saving to which a previous repeal of an enactment is subject does not affect the operation of the saving in so far as it is not specifically reproduced in the consolidating Acts but remains capable of having effect.
+
+**3** Without prejudice to the generality of paragraphs 1 and 2, notwithstanding the repeal by this Act of Schedule 22 to the 1972 Act, the provisions of that Schedule shall continue to have effect, in so far as they are not specifically reproduced in this Schedule and remain capable of having effect, with any reference in those provisions to any provision of the repealed enactments which is reproduced in the consolidating Acts being taken, so far as the context permits, as including a reference to the corresponding provision of those Acts.
+
+**4** The repeal by this Act of an enactment which has effect as respects any provision of the repealed enactments (being a provision which is not reproduced in the consolidating Acts but continues in effect by virtue of this Schedule or the [^M5]Interpretation Act 1978) does not affect its operation as respects that provision.
+
+**5** Any document made, served or issued after this Act comes into force which contains a reference to any of the repealed enactments shall be construed, except so far as a contrary intention appears, as referring or, as the context may require, including a reference to the corresponding provision of the consolidating Acts.
+
+**6** Where any provision of the repealed enactments amends an enactment (not being an enactment reproduced in the consolidating Acts) which is repealed or partly repealed by another enactment which is not in force when this Act comes into force, that provision shall continue to have effect, notwithstanding its repeal by this Act, but subject to section 2(4) of this Act.
+
+**7** In any regulations in force under section 88 of the 1972 Act (execution and cost of works required by enforcement notice) references to an enforcement notice, and an enforcement notice a copy of which has been served in respect of any breach of planning control, include a reference to a notice served under section 99 of that Act or section 168 of the principal Act (enforcement of duties as to replacement of trees).
+
+**8** The expressions “local authority” and “statutory undertakers” in any provision of the consolidating Acts shall, as respects any time when the corresponding provision in the repealed enactments (or any enactment replaced by them) was in force, have the same meanings as those expressions had at that time in that provision.
+
+**9** Notwithstanding the repeal by this Act of section 172 of the [^M6]Local Government (Scotland) Act 1973, the amendments made by subsection (2) of that section (under which, in the term “local planning authority”, wherever it occurs in any enactment or instrument made under or by virtue of an enactment, the word “local” is omitted) shall continue to have effect.
+
+**10** (1) The repeal by this Act of section 1(8) of the [^M7]Town and Country Planning Act 1984 (which validates certain permissions granted in respect of Crown land before 12th August 1984) shall not affect any permission to which that section applies immediately before the date on which the principal Act comes into force (and accordingly any such permission has effect and is deemed always to have had effect as provided in section 248(3) of the principal Act).
+
+(2) The repeal by this Act of section 2(7) of that Act of 1984 (which makes similar provision as to tree preservation orders) shall not affect any order to which that section applies immediately before the date on which the principal Act comes into force (and accordingly any such order has effect and is deemed always to have had effect as provided in section 249(3) of the principal Act).
+
+(3) The repeal by this Act of section 1(8) of that Act of 1984 (which makes similar provision as to listed building consents and conservation area consents) shall not affect any order to which that section applies immediately before the date on which the Planning (Listed Buildings and Conservation Areas) (Scotland) Act 1997 comes into force (and accordingly any such consent has effect and is deemed always to have had effect as provided in section 75(3) of the Planning (Listed Buildings and Conservation Areas) (Scotland) Act 1997).
+
+**11** In relation to any area which, on 1st April 1992, was designated as a National Scenic Area under section 262C of the 1972 Act, that section shall continue to apply as it had effect immediately prior to that date, and the area shall continue to be so designated until the designation is cancelled under subsection (1) of that section.
+
+**12** The repeal by this Act of section 4 of the [^M8]Town and Country Planning (Costs of Inquiries etc.) Act 1995 (which validates certain payments etc. in connection with inquiries and hearings under section 8 of the [^M9]Town and Country Planning (Scotland) Act 1969 and section 11 of the 1972 Act held before 8th November 1995) shall not affect the operation of that section in relation to any such inquiry or hearing.
+
+**13** (1) Where the functions of a Minister under any enactment re-enacted or referred to in this Act have at any time been exercisable by another Minister or other Ministers, references in the relevant provision of this Act shall, as respects any such time, be construed as references to the other Minister or Ministers.
+
+(2) In this paragraph “Minister” includes the Board of Trade and the Treasury.
+
+**14** Section 16 of, and paragraph 7(5) to (7) of Schedule 5 to, the principal Act shall have effect in relation to the performance of functions in relation to inquiries and hearings before as well as after 8th November 1995 (the date when the [^M10]Town and Country Planning (Costs of Inquiries etc.) Act 1995 was passed).
+
+---
+
+[^M1]: 1997 c. 9.
+[^M2]: 1997 c. 10.
+[^M3]: 1997 c. 8.
+[^M4]: 1978 c. 30.
+[^F1]: Sch. 2 para. 1 repealed (19.11.1998) by 1998 c. 43, s. 1(1), Sch. 1 Pt. IV Group 2
+[^F2]: Sch. 2 para. 4(2) omitted (W.) (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 176 (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F3]: Sch. 2 para. 6 repealed (1.5.2005) by Building (Scotland) Act 2003 (asp 8), s. 59(1), Sch. 6 para. 23 (with s. 53); S.S.I. 2004/404, art. 2(1)
+[^F4]: Sch. 2 para. 8 repealed (24.12.2010) by Flood Risk Management (Scotland) Act 2009 (asp 6), s. 97(1), Sch. 3 para. 9 (with s. 91); S.S.I. 2010/401, art. 3(h)
+[^F5]: Sch. 2 para. 12 repealed (19.11.1998) by 1998 c. 43, s. 1(1), Sch. 1 Pt. IV Group 2
+[^F6]: Sch. 2 para. 19(1) repealed (26.3.2001) by S.I. 2001/1149, art. 3(2), Sch. 2 (with art. 4(11))
+[^F7]: Sch. 2 para. 23(1) repealed (30.6.2014) by Regulatory Reform (Scotland) Act 2014 (asp 3), s. 61(2), Sch. 3 para. 33; S.S.I. 2014/160, art. 2(1)(2), Sch.
+[^F8]: Sch. 2 para. 37 repealed (29.12.2003) by Communications Act 2003 (c. 21), s. 411(2), Sch. 19(1) Note 1 (with Sch. 18); S.I. 2003/3142, art. 3(1), Sch. 1 (with art. 11)
+[^F9]: Sch. 2 para. 40(3) repealed (30.9.2002) by 2001 asp 10, s. 112, Sch. 10 para. 25; S.S.I. 2002/321, art. 2(2), Sch.
+[^F10]: Sch. 2 para. 45 repealed (22.3.2001 with effect as mentioned in s. 579(1) of the amending Act) by 2001 c. 2, s. 580, Sch. 4
+[^F11]: Sch. 2 para. 54 repealed (1.9.2018) by The Environmental Authorisations (Scotland) Regulations 2018 (S.S.I. 2018/219), reg. 1, sch. 7 para. 1 (with reg. 78, sch. 5 para. 2)
+[^F12]: Sch. 2 para. 58 repealed (1.4.2002) by 2002 asp 3, s. 71(2), Sch. 7 para. 25 (with s. 67); S.S.I. 2002/118, art. 2(3)
+[^M5]: 1978 c. 30.
+[^M6]: 1973 c. 65.
+[^M7]: 1984 c. 10.
+[^M8]: 1995 c. 49.
+[^M9]: 1969 c. 30.
+[^M10]: 1995 c. 49.

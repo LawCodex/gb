@@ -1,0 +1,2158 @@
+---
+title: "Northern Ireland (Miscellaneous Provisions) Act 2006"
+identifier: "ukpga/2006/33"
+citation: "2006 c. 33"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S+N.I."
+date: 2006-07-25
+last_amended: 2020-12-31
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/2006/33"
+source_modified: 2026-07-08
+retrieved: 2026-10-11
+---
+
+# Northern Ireland (Miscellaneous Provisions) Act 2006
+
+**2006 c. 33**
+
+An Act to make provision about registration of electors and the Chief Electoral Officer for Northern Ireland; to amend the Northern Ireland Act 1998; to make provision about donations for political purposes; to extend the amnesty period for arms decommissioning in Northern Ireland; and to make miscellaneous amendments in the law relating to Northern Ireland.
+
+[25th July 2006]
+
+Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## Part 1 — Registration of electors
+
+### Anonymous registration
+
+#### 1 Power to make provision about anonymous registration
+
+(1) An Order in Council under section 84(1) of the 1998 Act (provision with respect to certain electoral matters relating to Northern Ireland) which contains a statement that it is made only for purposes corresponding, or similar, to those of section 10 of the Electoral Administration Act 2006 (c. 22) (anonymous registration) may make provision for Northern Ireland for such purposes in relation to—
+
+(a) parliamentary elections, and
+
+(b) elections in respect of the Northern Ireland Assembly [^F1]... and district councils.
+
+(2) An Order made by virtue of subsection (1) may, if it appears to Her Majesty necessary or expedient for the purposes of the Order—
+
+(a) amend the 1983 Act, the 2006 Act, this Act or any other Act (whenever passed) or any Northern Ireland legislation (whenever passed or made);
+
+(b) confer power to make provision with respect to any matter—
+
+(i) which relates to anonymous registration, and
+
+(ii) with respect to which, under the 1983 Act, provision may be made by regulations;
+
+(c) make transitional provision.
+
+(3) In this Part—
+
+- “the 1998 Act” means the Northern Ireland Act 1998 (c. 47), and
+- “the 1983 Act” means the Representation of the People Act 1983 (c. 2).
+
+### Periodical canvass etc.
+
+#### 2 Abolition of annual canvass
+
+(1) Amend section 10 of the 1983 Act (maintenance of registers: annual canvass) as follows.
+
+(2) In subsection (1), after “registration officer” insert “ in Great Britain ”.
+
+(3) After subsection (1) insert—
+
+> (1A) The Chief Electoral Officer for Northern Ireland must conduct a canvass in Northern Ireland in such years as are determined in accordance with section 10ZA.
+
+(4) In subsection (2)—
+
+(a) for “for any year” substitute “ under subsection (1) or (1A) ”, and
+
+(b) for “that year” substitute “ the year in which it is conducted ”.
+
+(5) In the heading, for “annual canvass” substitute “ duty to conduct canvass ”.
+
+#### 3 Timing of canvass
+
+After section 10 of the 1983 Act insert—
+
+> **10ZA Northern Ireland: timing of canvass**
+>
+> (1) A canvass under section 10(1A) must be conducted in—
+>
+> (a) the year 2010, unless the Secretary of State makes an order providing that the requirement in this paragraph does not apply;
+>
+> (b) every tenth year following 2010.
+>
+> (2) A canvass under section 10(1A) must be conducted in an intervening year if—
+>
+> (a) on or before 15th April in that year, the Chief Electoral Officer for Northern Ireland has made a recommendation in favour of a canvass being conducted in that year for the purpose of meeting the relevant registration objectives, and
+>
+> (b) the Secretary of State, having considered the recommendation, has notified the Chief Electoral Officer that he is satisfied that the public interest requires a canvass to be conducted for that purpose.
+>
+> (3) If no canvass under section 10(1A) is conducted before the end of 2015, a canvass must be conducted in 2016.
+>
+> (4) “Intervening year” means a year other than—
+>
+> (a) 2010,
+>
+> (b) every tenth year following 2010, and
+>
+> (c) if no canvass under section 10(1A) is conducted before the end of 2015, 2016.
+>
+> (5) The Secretary of State may not make an order under subsection (1)(a) unless—
+>
+> (a) on or before 15th April 2010, the Chief Electoral Officer for Northern Ireland has made a recommendation against a canvass being conducted in the year 2010 for the purpose of meeting the relevant registration objectives, and
+>
+> (b) the Secretary of State, having considered the recommendation, is satisfied that the public interest does not require a canvass to be conducted for that purpose.
+>
+> (6) The power to make an order under subsection (1)(a) is exercisable by statutory instrument.
+>
+> (7) No order is to be made under subsection (1)(a) unless a draft of the order has been laid before and approved by a resolution of each House of Parliament.
+>
+> (8) “Recommendation” means a written recommendation to the Secretary of State.
+
+#### 4 The relevant registration objectives
+
+After section 10ZA of the 1983 Act insert—
+
+> **10ZB The relevant registration objectives (Northern Ireland)**
+>
+> (1) The relevant registration objectives are to secure, so far as reasonably practicable—
+>
+> (a) that every person who is entitled to be registered in a register is registered in it,
+>
+> (b) that no person who is not entitled to be registered in a register is registered in it, and
+>
+> (c) that none of the required information relating to any person registered in a register is false.
+>
+> (2) But, in applying subsection (1), the registrations of the persons mentioned in section 10(3) (registrations with which a canvass is not concerned) must be disregarded.
+>
+> (3) “Register” means a register maintained by the Chief Electoral Officer for Northern Ireland under section 9.
+>
+> (4) “The required information” means the following (as appearing in the register or other records of the Chief Electoral Officer)—
+>
+> (a) the person's name;
+>
+> (b) the person's qualifying address;
+>
+> (c) the person's date of birth;
+>
+> (d) subject to subsections (5) and (6), the person's signature;
+>
+> (e) the person's national insurance number or a statement that he does not have one.
+>
+> (5) The required information does not include the person's signature if—
+>
+> (a) the Chief Electoral Officer has dispensed with the requirement to provide a signature, or
+>
+> (b) other evidence of identity is required (instead of a signature) under a CORE scheme.
+>
+> (6) If under a CORE scheme other evidence is required instead of a signature, the required information includes that evidence.
+>
+> (7) “False”, in relation to a signature, means that the signature is not the usual signature of, or was written by a person other than, the person whose signature it purports to be.
+>
+> (8) “CORE scheme” has the same meaning as in Part 1 of the Electoral Administration Act 2006.
+
+#### 5 Publication and alteration of registers
+
+(1) In section 13 of the 1983 Act (publication of registers), for subsection (1) substitute—
+
+> (1) Each registration officer must for each year publish a revised version of his registers—
+>
+> (a) if there is a canvass in his area in that year, during the period starting with the end of the canvass in that year and ending with 1st December in that year or such later date as may be prescribed, or
+>
+> (b) if (in Northern Ireland) there is no canvass in that year, on 1st December in that year or by such later date as may be prescribed.
+
+(2) In section 13A of the 1983 Act (alteration of registers), in subsection (3)(b), for “section 13(1)” substitute “ section 13(1)(a) ”.
+
+### Alteration of registers: pending elections
+
+#### 6 Alteration of registers: pending elections
+
+(1) In section 13B of the 1983 Act (alteration of registers: pending elections), in subsection (4)—
+
+(a) at the end of paragraph (a), insert “ in England, Wales or Scotland ”,
+
+(b) in paragraph (b), after “elections” insert “ in England, Wales or Scotland ”,
+
+(c) at the end of paragraph (d), insert “ and ”, and
+
+(d) omit paragraph (e).
+
+(2) After section 13B of the 1983 Act insert—
+
+> **13BA Alteration of registers in Northern Ireland: pending elections**
+>
+> (1) An alteration in a published version of a register of electors which takes effect under section 13A(2) after the final nomination day in the case of an election to which this section applies is of no effect for the purposes of that election unless the alteration—
+>
+> (a) is made in consequence of a decision or determination falling within section 13A(1)(c) or (d), and
+>
+> (b) takes effect on or before the fifth day before the date of the poll.
+>
+> (2) Subsection (3) applies if—
+>
+> (a) at any time before the appropriate publication date in the case of an election to which this section applies, section 13A applies to the Chief Electoral Officer for Northern Ireland (by virtue of section 13A(1)) in connection with a determination or requirement falling within section 13A(1)(a) or (b), and
+>
+> (b) no alteration made in consequence of that determination or requirement—
+>
+> (i) has already taken effect, or
+>
+> (ii) is due to take effect,
+>
+> under section 13A(2) on or before the final nomination day.
+>
+> (3) If, no later than the prescribed date, the Chief Electoral Officer is supplied with such additional material supporting the alteration as is prescribed, he must, on the appropriate publication date, issue a notice specifying the appropriate alteration in the register.
+>
+> (4) But a person whose entitlement to vote at an election results from an alteration under subsection (3)—
+>
+> (a) is not entitled as an elector to an absent vote at that election, and
+>
+> (b) must not be shown in the absent voters list kept for that election under—
+>
+> (i) section 7 of the Representation of the People Act 1985, or
+>
+> (ii) regulation 9 of the European Parliamentary Elections (Northern Ireland) Regulations 2004.
+>
+> (5) Subsection (6) applies if—
+>
+> (a) at any time before the appropriate publication date in the case of an election to which this section applies, section 13A applies to the Chief Electoral Officer for Northern Ireland (by virtue of section 13A(1)) in connection with a decision or determination falling within section 13A(1)(c) or (d), and
+>
+> (b) no alteration made in consequence of that decision or determination—
+>
+> (i) has already taken effect, or
+>
+> (ii) is due to take effect,
+>
+> under section 13A(2) on or before the fifth day before the date of the poll.
+>
+> (6) The Chief Electoral Officer must, on the appropriate publication date, issue a notice specifying the appropriate alteration in the register.
+>
+> (7) Subsection (9) applies if—
+>
+> (a) at any time on or after the appropriate publication date in the case of an election to which this section applies but before the prescribed time on the day of the poll, section 13A applies to the Chief Electoral Officer for Northern Ireland (by virtue of section 13A(1)), in connection with a notification mentioned in section 13A(1)(c), and
+>
+> (b) in consequence of the notification—
+>
+> (i) an entry relating to that person falls to be made in the register in respect of an address in the relevant election area, or
+>
+> (ii) his entry in the register needs to be altered.
+>
+> (8) Subsection (9) also applies if—
+>
+> (a) at any time on or after the appropriate publication date in the case of an election to which this section applies but before the prescribed time on the day of the poll, section 13A applies to the Chief Electoral Officer for Northern Ireland (by virtue of section 13A(1)), in connection with a determination falling within section 13A(1)(d),
+>
+> (b) the determination was made following a representation made by or on behalf of a person to the Chief Electoral Officer, and
+>
+> (c) in consequence of the determination—
+>
+> (i) an entry relating to that person falls to be made in the register in respect of an address in the relevant election area, or
+>
+> (ii) his entry in the register needs to be altered.
+>
+> (9) The Chief Electoral Officer must, when—
+>
+> (a) he receives the notification referred to in subsection (7), or
+>
+> (b) he makes the determination referred to in subsection (8),
+>
+> issue a notice specifying the appropriate alteration in the register.
+>
+> (10) In subsection (8)(b), “representation” means a representation made in accordance with prescribed requirements to the effect that the register contains a clerical error.
+>
+> (11) A notice under subsection (3), (6) or (9)—
+>
+> (a) is to be issued in the prescribed manner, and
+>
+> (b) takes effect from the beginning of the day on which it is issued.
+>
+> (12) This section applies to—
+>
+> (a) parliamentary elections in Northern Ireland,
+>
+> (b) elections in Northern Ireland to the European Parliament, and
+>
+> (c) elections to the Northern Ireland Assembly.
+>
+> (13) Subsections (5) and (6) of section 13B apply for the purposes of this section as they apply for the purposes of that section.
+
+### Data collection
+
+#### [^F2]7 Data collection
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Part 2 — The Chief Electoral Officer
+
+### 8 Tenure
+
+(1) The Chief Electoral Officer—
+
+(a) is appointed by the Secretary of State, and
+
+(b) subject to what follows, holds office in accordance with the terms of his appointment (or re-appointment).
+
+(2) A person must not be appointed as Chief Electoral Officer for more than 5 years at a time.
+
+(3) The period for which a person holds office as Chief Electoral Officer must not exceed 10 years.
+
+(4) The Chief Electoral Officer may resign by notice in writing to the Secretary of State.
+
+(5) The Secretary of State may dismiss the Chief Electoral Officer if satisfied that—
+
+(a) he has without reasonable excuse failed to discharge his functions for a continuous period of 3 months beginning not earlier than 6 months before the day of dismissal,
+
+(b) he has been convicted of an offence,
+
+(c) a bankruptcy order has been made against him, or his estate has been sequestrated, or he has made a composition or arrangement with, or granted a trust deed for, his creditors, or
+
+(d) he is unable or unfit to carry out his functions.
+
+(6) This section applies in relation to the person who at commencement holds the office of Chief Electoral Officer as if—
+
+(a) subsection (2) required his appointment to end no later than 5 years after commencement, and
+
+(b) the total period which under subsection (3) must not be exceeded were 10 years plus the period of his appointment before commencement.
+
+(7) “Commencement” means the commencement of this section.
+
+(8) In this Part “Chief Electoral Officer” has the meaning given by section 14(1) of the Electoral Law Act (Northern Ireland) 1962 (c. 14 (N. I.)).
+
+### 9 Annual reports
+
+(1) The Chief Electoral Officer must each year—
+
+(a) prepare a report on how he has discharged his functions in the year to which the report relates, and
+
+(b) send a copy of the report to the Secretary of State by such date as the Secretary of State directs.
+
+(2) The report must include an assessment of the extent to which the relevant registration objectives in Northern Ireland have been met in the year to which the report relates.
+
+(3) “The relevant registration objectives” has the meaning given by section 10ZB of the Representation of the People Act 1983 (c. 2).
+
+(4) The Secretary of State must lay a copy of the report before each House of Parliament.
+
+## Part 3 — Donations for political purposes
+
+### 10 Introduction
+
+(1) In this Part—
+
+- “the 2000 Act” means the Political Parties, Elections and Referendums Act 2000 (c. 41), and
+- “the 1983 Act” means the Representation of the People Act 1983.
+
+(2) In this Part—
+
+(a) section 11 comes into force at the end of the period of two months beginning with the day on which this Act is passed,
+
+(b) sections 12 to 14 and Schedule 1 come into forceon 1st November 2007, and
+
+(c) section 15 comes into force at the end of the period of two months beginning with the day on which this Act is passed.
+
+### 11 Part 4 of the 2000 Act: the final disapplication period
+
+(1) Sections 50 to 69 of, and Schedule 6 to, the 2000 Act (donations to political parties) do not apply in relation to any Northern Ireland party during the final disapplication period.
+
+(2) “The final disapplication period” means the period—
+
+(a) starting with the day on which this section comes into force, and
+
+(b) ending with 31st October 2007.
+
+(3) Paragraphs 2 to 15 of Schedule 7 to the 2000 Act (donations to individuals and members associations) do not apply during the final disapplication period in relation to any regulated donee who is—
+
+(a) an individual ordinarily resident in Northern Ireland, or
+
+(b) a members association wholly or mainly consisting of members of a Northern Ireland party.
+
+(4) Section 54(2)(c) of the 2000 Act has effect in relation to any donation received during the final disapplication period by—
+
+(a) a Great Britain party, or
+
+(b) a regulated donee who is resident or carries on activities in Great Britain,
+
+as if it referred to a Great Britain party only.
+
+(5) References in Schedule 2A to the 1983 Act to a permissible donor falling within section 54(2) are to be read, in relation to any donation received during the final disapplication period by a candidate at an election in Great Britain, as not including a Northern Ireland party.
+
+(6) In this section—
+
+- “Great Britain party” means a party registered in the Great Britain register (as defined by section 23(2) of the 2000 Act),
+- “Northern Ireland party” means a party registered in the Northern Ireland register (as defined by that section), and
+- “regulated donee” and “members association” have the same meaning as in Schedule 7 to the 2000 Act.
+
+(7) The reference in subsection (4)(b) to Great Britain includes the combined region (as defined by section 160(1) of the 2000 Act).
+
+(8) The following provisions cease to have effect—
+
+(a) in the 2000 Act—
+
+(i) section 42(5),
+
+(ii) Chapter 4 of Part 4,
+
+(iii) section 156(4)(d),
+
+(iv) in Schedule 7, paragraphs 1(10) and (11) and 16, and
+
+(b) in Schedule 2A to the 1983 Act, paragraph 1(7).
+
+(9) In section 159A(a) of the 2000 Act (functions that are not exercisable by Lord Chancellor as well as by Secretary of State), for “, 18(2) and (4) and 70” substitute “ and 18(2) and (4) ”.
+
+### 12 Extension of categories of permissible donors
+
+In Part 4 of the 2000 Act, after Chapter 5 insert—
+
+> **Chapter 6 — Special Provision in connection with Northern Ireland**
+>
+> **71A Introduction**
+>
+> (1) The following provisions have effect for the interpretation of this Chapter.
+>
+> (2) “Northern Ireland recipient” means—
+>
+> (a) a party registered in the Northern Ireland register, or
+>
+> (b) a regulated donee who is—
+>
+> (i) an individual ordinarily resident in Northern Ireland, or
+>
+> (ii) a members association wholly or mainly consisting of members of a Northern Ireland party.
+>
+> (3) “Regulated donee” and “members association” have the same meaning as in Schedule 7.
+>
+> (4) “Prescribed” means prescribed by an order made by the Secretary of State after consulting the Commission.
+>
+> **71B Extension of categories of permissible donors in relation to Northern Ireland recipients**
+>
+> (1) In relation to a donation to a Northern Ireland recipient, section 54(2) has effect as if the following were also permissible donors—
+>
+> (a) an Irish citizen in relation to whom any prescribed conditions are met;
+>
+> (b) a body which is of a prescribed description or category and in relation to which any prescribed conditions are met.
+>
+> (2) A description or category of body must not be prescribed for the purposes of subsection (1)(b) unless the Secretary of State is satisfied that a body of that description or category would be entitled under Irish law to donate to an Irish political party.
+>
+> (3) In relation to a donation in the form of a bequest subsection (1)(a) is to be read as referring to an individual—
+>
+> (a) who at any time within the period of five years ending with the date of his death was an Irish citizen, and
+>
+> (b) in relation to whom, at the time of his death, any prescribed conditions were met.
+>
+> **71C Northern Ireland recipients not permissible donors in relation to Great Britain**
+>
+> (1) In relation to a donation received by—
+>
+> (a) a registered party which is registered in the Great Britain register, or
+>
+> (b) a regulated donee resident or carrying on activities in Great Britain,
+>
+> section 54(2) has effect as if it did not include a party registered in the Northern Ireland register.
+>
+> (2) The reference in subsection (1)(b) to Great Britain includes the combined region.
+
+### 13 Section 12: supplementary
+
+(1) In section 156(4) of the 2000 Act (orders and regulations—powers subject to affirmative procedure), after paragraph (c) insert—
+
+> (ca) any provision of Chapter 6 of Part 4;
+
+.
+
+(2) [^F3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) In Schedule 2A to the 1983 Act (control of donations to candidates), after paragraph 1(6) insert—
+
+> (6A) In relation to a donation received by a candidate at an election in Great Britain, references to a permissible donor falling within section 54(2) of the 2000 Act are to be read as if section 54(2) did not include a party registered in the Northern Ireland register maintained by the Commission under Part 2 of that Act.
+
+### 14 [[^F4]Special provision in relation to Northern Ireland recipients
+
+Schedule 1 contains amendments of the 2000 Act relating to donations received by Northern Ireland recipients.]
+
+### 15 Power to make provision in connection with permissible donors
+
+(1) The Secretary of State may, after consulting the Electoral Commission, by order make provision, in relation to any time occurring on or after 1st November 2007, in connection with the provision made by—
+
+(a) sections 12 and 13, or
+
+(b) section 14 and Schedule 1.
+
+(2) The provision that may be made under subsection (1) includes provision amending or modifying—
+
+(a) any provision of the 2000 Act;
+
+(b) Schedule 2A to the 1983 Act;
+
+(c) any other enactment connected with permissible donors or donations for political purposes.
+
+(3) The provision that may be made under subsection (1) also includes provision amending—
+
+(a) section 71C of the 2000 Act (as inserted by section 12), and
+
+(b) paragraph 1(6A) of Schedule 2A to the 1983 Act (as inserted by section 13),
+
+so that they refer to a Northern Ireland recipient instead of referring to a party registered in the Northern Ireland register.
+
+(4) The power to make an order under subsection (1) is exercisable by statutory instrument.
+
+(5) No order is to be made under subsection (1) unless a draft of the instrument containing the order has been laid before and approved by a resolution of each House of Parliament.
+
+### 15A [[^F5]Power to increase transparency
+
+(1) The Secretary of State may, after consulting the Electoral Commission, by order—
+
+(a) make provision permitting or requiring the Electoral Commission to publish information about donations received by Northern Ireland recipients, or
+
+(b) make other provision for the purpose of increasing transparency in relation to such donations.
+
+(2) Provision made under this section may—
+
+(a) amend, repeal or modify any enactment connected with donations for political purposes (including in particular any of the provisions inserted into the 2000 Act by Schedule 1);
+
+(b) include consequential, supplementary, incidental, transitional, transitory or saving provision.
+
+(3) Provision made under this section may apply in relation to donations received at any time on or after 1 November 2007.
+
+(4) The power to make an order under this section is exercisable by statutory instrument.
+
+(5) No order is to be made under this section unless a draft of the instrument containing the order has been laid before and approved by a resolution of each House of Parliament.
+
+(6) For the purposes of this section and section 15B—
+
+(a) “donation” has the same meaning as in Part 4 of the 2000 Act (see section 50 of that Act);
+
+(b) the time at which a donation is received is to be determined in the same way as for the purposes of that Part;
+
+(c) “Northern Ireland recipient” has the same meaning as in Chapter 6 of that Part (see section 71A of that Act).
+
+(7) Section 15B imposes limits on the provision that may be made under this section.
+
+### 15B Confidentiality of donations received before 1 January 2014
+
+(1) The provision that may be made by order under section 15A does not include provision which—
+
+(a) alters the effect of section 71E of the 2000 Act (duty not to disclose contents of donation reports) in relation to the disclosure of protected information,
+
+(b) reduces the maximum penalty for an offence under that section committed in relation to the disclosure of protected information, or
+
+(c) gives a person a right to obtain protected information contained in a register kept by the Commission under that Act.
+
+(2) “Protected information” means information—
+
+(a) which relates to a donation received before 1 January 2014, and
+
+(b) which identifies the donor or from which it is possible to identify the donor.
+
+(3) The references in subsection (1) to section 71E of the 2000 Act and to the maximum penalty for an offence under that section are to that section and maximum penalty as they have effect at the time at which the order under section 15A is made.]
+
+## Part 4 — Devolution of policing and justice etc.
+
+### 16 Conditions for devolving policing and justice matters
+
+(1) Amend section 4 of the 1998 Act (transferred, excepted and reserved matters) as follows.
+
+(2) In subsection (2), for “subsection (3)” substitute “ subsections (2A) and (3) ”.
+
+(3) After subsection (2) insert—
+
+> (2A) The Secretary of State shall not lay before Parliament under subsection (2) the draft of an Order amending Schedule 3 so that a [[^F6]policing and justice matter] ceases to be a reserved matter unless—
+>
+> (a) a motion for a resolution praying that the matter should cease to be a reserved matter is tabled by the First Minister and the deputy First Minister acting jointly; and
+>
+> (b) the resolution is passed by the Assembly with the support of a majority of the members voting on the motion, a majority of the designated Nationalists voting and a majority of the designated Unionists voting.
+
+(4) In subsection (3), for “the draft of an Order before Parliament under subsection (2)” substitute “ before Parliament under subsection (2) the draft of any other Order ”.
+
+(5) After subsection (5) insert—
+
+> (6) In this section [[^F7]“policing and justice matter”] means a matter falling within a description specified in—
+>
+> (a) any of paragraphs 9 to 12, 14A to 15A and 17 of Schedule 3; or
+>
+> (b) any other provision of that Schedule designated for this purpose by an order made by the Secretary of State.
+
+(6) In this Part “the 1998 Act” means the Northern Ireland Act 1998 (c. 47).
+
+### 17 Department with policing and justice functions
+
+(1) After section 21 of the 1998 Act insert—
+
+> **21A Northern Ireland department with policing and justice functions**
+>
+> [[^F8](1) An Act of the Assembly that—
+>
+> (a) establishes a new Northern Ireland department; and
+>
+> (b) provides that the purpose of the department is to exercise functions consisting wholly or mainly of devolved policing and justice functions,
+>
+> may (but need not) make provision of the kind mentioned in subsection (3), (4), (5) or (5A).]
+>
+> (3) The Act may provide for the department to be in the charge of a Northern Ireland Minister appointed by virtue of a nomination—
+>
+> (a) made by the First Minister and the deputy First Minister acting jointly; and
+>
+> (b) approved by a resolution of the Assembly passed with the support of a majority of the members voting on the motion for the resolution, a majority of the designated Nationalists voting and a majority of the designated Unionists voting.
+>
+> (4) The Act may provide for the department to be in the charge of two Northern Ireland Ministers acting jointly.
+>
+> (5) The Act may provide—
+>
+> (a) for the department to be in the charge of a Northern Ireland Minister who is supported by a junior Minister; and
+>
+> (b) for the persons holding those offices to rotate at intervals determined by or under the Act, so that the person who was the Minister in charge of the department becomes the junior Minister and the person who was the junior Minister becomes the Minister.
+>
+> [[^F9](5A) The Act may provide—
+>
+> (a) for the department to be in the charge of a Northern Ireland Minister elected by the Assembly; and
+>
+> (b) for that Minister to be supported by a deputy Minister elected by the Assembly.]
+>
+> (6) There must not, at any time, be more than one department in relation to which provision of the kind mentioned in any of subsections (3), (4) [[^F10], (5) and (5A)] is made by Act of the Assembly [[^F11], or by Order in Council under subsection (7C)].
+>
+> (7) Schedule 4A (provisions relating to a department with devolved policing and justice functions) shall have effect.
+>
+> [[^F12](7A) If it appears to the Secretary of State that there is no reasonable prospect that the Assembly will pass an Act of the kind described in subsection (1)(a) and (b), he may lay before Parliament the draft of an Order in Council which—
+>
+> (a) establishes a new Northern Ireland department;
+>
+> (b) provides that the purpose of the department is to exercise functions consisting wholly or mainly of devolved policing and justice functions;
+>
+> (c) provides for the department to be in the charge of a Northern Ireland Minister elected by the Assembly and for that Minister to be supported by a deputy Minister elected by the Assembly; and
+>
+> (d) provides for Part 3A of Schedule 4A to apply in relation to the department (with any necessary modifications).
+>
+> (7B) The draft of an Order laid before Parliament under subsection (7A) may contain supplementary, incidental, consequential, transitional or saving provision.
+>
+> (7C) If the draft of an Order laid before Parliament under subsection (7A) is approved by resolution of each House of Parliament, the Secretary of State shall submit it to Her Majesty in Council and Her Majesty in Council may make the Order.
+>
+> (7D) No more than one department may be established by virtue of an Order under subsection (7C).]
+>
+> (8) In this section “devolved policing and justice function” means a function relating to a matter which—
+>
+> (a) is a transferred matter by virtue of an Order under section 4; and
+>
+> (b) immediately before the matter became a transferred matter, was a [[^F13]policing and justice matter] (within the meaning given by section 4(6)).
+
+(2) After Schedule 4 to the 1998 Act insert the Schedule 4A set out in Schedule 2 to this Act.
+
+### 18 Power of Assembly to call for witnesses and documents
+
+In section 44 of the 1998 Act (power to call for witnesses and documents), after subsection (4) insert—
+
+> (4A) That power is not exercisable in relation to a person mentioned in subsection (4) in connection with the discharge, during a relevant period, of a function which relates to a matter which is a transferred matter by virtue of an Order under section 4.
+>
+> For this purpose “relevant period” means a period when the matter was not a transferred matter.
+>
+> (4B) That power is not exercisable in relation to a person mentioned in subsection (4) in connection with the discharge, during a relevant period, of a statutory function which—
+>
+> (a) is exercisable by a Minister or a Northern Ireland department; but
+>
+> (b) was at any time exercisable by a Minister of the Crown.
+>
+> For this purpose “relevant period” means a period when the statutory function was exercisable by a Minister of the Crown.
+
+### 19 Provision for transfer of functions relating to extradition etc.
+
+After section 86 of the 1998 Act insert—
+
+> **86A Provision for transfer of functions relating to extradition etc.**
+>
+> (1) Her Majesty may by Order in Council make provision amending—
+>
+> (a) the Crime (International Co-operation) Act 2003; or
+>
+> (b) the Extradition Act 2003,
+>
+> for the purpose of transferring to a Minister or a Northern Ireland department, with effect from any date specified in the Order, any relevant function under the Act.
+>
+> (2) In subsection (1) “relevant function” means a function which, immediately before the date specified in the Order,—
+>
+> (a) is exercisable by a Minister of the Crown; and
+>
+> (b) is exercisable in relation to Northern Ireland.
+>
+> (3) An Order under subsection (1) may make provision, to such extent as may appear to Her Majesty to be necessary or expedient in consequence of, or for giving full effect to, the Order—
+>
+> (a) for transferring or apportioning any property, rights or liabilities;
+>
+> (b) for substituting any body or person for any other body or person in any charter, contract or other document or in any legal proceedings;
+>
+> (c) for any other transitional or consequential matter.
+>
+> (4) No recommendation shall be made to Her Majesty to make an Order under this section unless a draft of it has been laid before and approved by resolution of each House of Parliament.
+
+### 20 Provision for entrenching enactments
+
+After section 86A of the 1998 Act insert—
+
+> **86B Provision for entrenching enactments**
+>
+> (1) Her Majesty may by Order in Council make provision amending section 7 so as to provide for—
+>
+> (a) enactments to become entrenched; or
+>
+> (b) enactments that are entrenched by virtue of an Order under paragraph (a) to cease to be entrenched.
+>
+> (2) For the purposes of this section an enactment is entrenched if section 7 prevents it from being modified by an Act of the Assembly or subordinate legislation made, confirmed or approved by a Minister or Northern Ireland department.
+>
+> (3) No recommendation shall be made to Her Majesty to make an Order under this section unless a draft of it has been laid before and approved by resolution of each House of Parliament.
+
+## Part 5 — Miscellaneous
+
+### 21 Arms decommissioning: extension of amnesty period
+
+In section 2(3)(b) of the Northern Ireland Arms Decommissioning Act 1997 (c. 7) (date by which amnesty period must end), for “2007” substitute “ 2010 ”.
+
+### 22 Loans to Consolidated Fund of Northern Ireland: increase of limits
+
+(1) Amend section 1 of the Northern Ireland (Loans) Act 1975 (c. 83) as follows.
+
+(2) In subsection (2) (limit on loans to the Consolidated Fund of Northern Ireland), for “£2,000 million” substitute “ £3,000 million ”.
+
+(3) In subsection (5) (power to increase the limit by order)—
+
+(a) omit “, on not more than one occasion,”,
+
+(b) for “the limit in subsection (2)” substitute “ the limit for the time being specified in subsection (2) ”, and
+
+(c) for “£300 million” substitute “ £500 million ”.
+
+### 23 Single wholesale electricity market
+
+(1) Her Majesty may by Order in Council make provision for giving effect to any agreement or arrangement—
+
+(a) which has been entered into between Her Majesty's Government and the Government of Ireland,
+
+(b) which relates to the establishment or operation of a single wholesale electricity market in Northern Ireland and Ireland, and
+
+(c) a copy of which has been presented to Parliament by the Secretary of State by command of Her Majesty.
+
+(2) An Order in Council under this section may—
+
+(a) amend, repeal or revoke any provision made by or under an Act of Parliament or Northern Ireland legislation (whenever passed or made);
+
+(b) confer powers on bodies or persons specified in, or appointed under or by virtue of, the Order, including powers to make statutory rules (within the meaning of the Statutory Rules (Northern Ireland) Order 1979 (S.I. 1979/1573 (N.I. 12)));
+
+(c) create offences under the law of Northern Ireland;
+
+(d) make provision which applies generally or only in specified cases or circumstances;
+
+(e) make different provision for different cases or circumstances;
+
+(f) make such consequential, incidental, supplementary or transitional provision as appears to Her Majesty to be necessary or expedient.
+
+(3) Where an Order in Council under this section creates an offence, it must make provision as to the mode of trial and punishment of offenders; but there is no power for the Order—
+
+(a) to impose a maximum term of imprisonment, on summary conviction, of more than three months;
+
+(b) to impose a maximum fine, on summary conviction, of more than the statutory maximum; or
+
+(c) to impose a maximum term of imprisonment, on conviction on indictment, of more than two years.
+
+(4) No recommendation is to be made to Her Majesty to make an Order under this section unless a draft of the Order has been laid before and approved by resolution of each House of Parliament.
+
+### 24 Financial assistance for energy purposes
+
+For Article 61 of the Energy (Northern Ireland) Order 2003 (S.I. 2003/419 (N.I. 6)) substitute—
+
+> **61 Financial assistance for energy purposes**
+>
+> (1) The Department may give financial assistance to any person if, in the opinion of the Department—
+>
+> (a) the form and amount of the assistance is reasonable having regard to all the circumstances; and
+>
+> (b) the giving of the assistance is likely to achieve one or more of the purposes set out in paragraph (2).
+>
+> (2) Those purposes are—
+>
+> (a) to secure a diverse and viable long-term energy supply;
+>
+> (b) to promote the development and maintenance of an efficient, economic and co-ordinated gas industry in Northern Ireland;
+>
+> (c) to promote efficiency and economy on the part of persons engaged in the generation, production, transmission, distribution or supply of energy;
+>
+> (d) to promote the efficient use of energy;
+>
+> (e) to promote the development or the bringing into use of—
+>
+> (i) energy from renewable sources, or
+>
+> (ii) technologies for the production of energy from such sources;
+>
+> (f) to promote research and development in relation to other matters connected with energy supply;
+>
+> (g) to promote the generation, production, transmission, distribution or supply of energy from renewable sources;
+>
+> (h) to promote the production, distribution or use of renewable transport fuels;
+>
+> (i) to limit or reduce emissions of greenhouse gases, or other effects on the environment, resulting from the generation, production, transmission, distribution, supply or use of energy;
+>
+> (j) to conduct research, or to raise awareness, about matters referred to in sub-paragraph (i);
+>
+> (k) any other purpose prescribed by regulations made by the Department with the approval of the Department of Finance and Personnel.
+>
+> (3) Financial assistance under this Article may be given—
+>
+> (a) in respect of particular activities carried on or supported by the recipient; or
+>
+> (b) generally in respect of all or some part of the activities carried on or supported by the recipient.
+>
+> (4) Financial assistance under this Article shall be given—
+>
+> (a) in such form, and
+>
+> (b) subject to such conditions,
+>
+> as the Department considers appropriate.
+>
+> (5) Without prejudice to the generality of paragraph (4), financial assistance under this Article may be given in one or more of the following forms—
+>
+> (a) by making grants (whether or not repayable) or loans;
+>
+> (b) by giving indemnities;
+>
+> (c) by making investments in bodies corporate;
+>
+> (d) by incurring expenditure for the benefit of a person;
+>
+> (e) by providing services, staff or equipment for the benefit of a person.
+>
+> (6) Without prejudice to the generality of paragraph (4), financial assistance under this Article may be given subject to conditions—
+>
+> (a) as to repayment;
+>
+> (b) requiring payments to be made to the Department (which need not be limited by reference to the value of the assistance given).
+>
+> (7) In this Article—
+>
+> - “greenhouse gases” has the meaning given by section 82(9) of the Energy Act 2004;
+>
+> - “renewable sources” means sources of energy other than fossil fuel, peat or nuclear fuel, and includes waste (and for this purpose, “fossil fuel” and “peat” have the meaning given by Article 52(7));
+>
+> - “renewable transport fuel” means—
+>
+>   - (a) liquid or gaseous fuel that is produced wholly or mainly from biomass; or
+>   - (b) any other description of fuel specified in an order made by the Department;
+>
+>   and for this purpose “biomass” means the biodegradable portion of a specified product, waste or residue.
+
+### 25 Sustainable development
+
+(1) A public authority must, in exercising its functions, act in the way it considers best calculated to contribute to the achievement of sustainable development in Northern Ireland, except to the extent that it considers that any such action is not reasonably practicable in all the circumstances of the case.
+
+(2) For this purpose—
+
+(a) a public authority must have regard to any strategy or guidance relating to sustainable development issued by the [[^F14]Department of Agriculture, Environment and Rural Affairs] , and
+
+(b) a public authority other than a Northern Ireland department must have regard to any guidance relating to sustainable development issued by a Northern Ireland department other than the [[^F14]Department of Agriculture, Environment and Rural Affairs] .
+
+(3) In this section “public authority” means—
+
+(a) a Northern Ireland department,
+
+(b) a district council in Northern Ireland, and
+
+(c) any other person designated for the purposes of this section by order made by the [[^F15]Department of Agriculture, Environment and Rural Affairs] .
+
+(4) The power to make an order under subsection (3)(c) is exercisable by statutory rule for the purposes of the Statutory Rules (Northern Ireland) Order 1979 (S.I. 1979/1573 (N.I. 12)).
+
+(5) Such an order may not be made unless a draft of the order has been laid before, and approved by a resolution of, the Northern Ireland Assembly.
+
+### 26 Extension to Northern Ireland of provisions of SOCAP 2005
+
+(1) Sections 60 to 67, 69 and 70 of the Serious Organised Crime and Police Act 2005 (c. 15) (investigatory powers of DPP etc.) extend to Northern Ireland.
+
+(2) Schedule 3 contains amendments of that Act in connection with subsection (1).
+
+### 27 Responsibilities in relation to the health and safety etc. of police
+
+(1) In Article 47A of the Health and Safety at Work (Northern Ireland) Order 1978 (S.I. 1978/1039 (N.I. 9)) (application of Part II of that Order to police) after paragraph (2) insert—
+
+> (2A) For the purposes of this Part, the relevant officer, as defined by paragraph (2)(a) or (c), shall be treated as a corporation sole.
+>
+> (2B) Where, in a case in which the relevant officer, as so defined, is guilty of an offence by virtue of this Article, it is proved—
+>
+> (a) that the officer-holder personally consented to the commission of the offence,
+>
+> (b) that he personally connived in its commission, or
+>
+> (c) that the commission of the offence was attributable to personal neglect on his part,
+>
+> the office-holder (as well as the corporation sole) shall be guilty of the offence and shall be liable to be proceeded against and punished accordingly.
+>
+> (2C) In paragraph (2B) “the office-holder”, in relation to the relevant officer, means an individual who, at the time of the consent, connivance or neglect—
+>
+> (a) held the office or other position mentioned in paragraph (2) as the office or position of that officer; or
+>
+> (b) was for the time being responsible for exercising and performing the powers and duties of that office or position.
+>
+> (2D) The provisions mentioned in paragraph (2E) (which impose the same liability for unlawful conduct of constables on persons having their direction or control as would arise if the constables were employees of those persons) do not apply to any liability by virtue of this Part.
+>
+> (2E) Those provisions are—
+>
+> (a) paragraph 7(1) of Schedule 8 to the Police Act 1997;
+>
+> (b) section 27(8) of the Police (Northern Ireland) Act 1998;
+>
+> (c) section 29(1) of that Act;
+>
+> (d) section 28 of the Serious Organised Crime and Police Act 2005.
+
+(2) For paragraph (2) of each of the following Articles of the Employment Rights (Northern Ireland) Order 1996 (S.I. 1996/1919 (N.I. 16))—
+
+(a) Article 72A (right of police officers not to suffer detriment in relation to health and safety issues), and
+
+(b) Article 169A (right of police officers not to be unfairly dismissed in relation to health and safety issues),
+
+substitute the paragraph set out in subsection (3).
+
+(3) The paragraph to be substituted is—
+
+> (2) In this Article “the relevant officer”, in relation to a person holding the office of constable, means the person who under Article 47A of the Health and Safety at Work (Northern Ireland) Order 1978 is to be treated as his employer for the purposes of Part II of that Order.
+
+(4) The amendments made by subsections (1) to (3) have effect for the purposes of any proceedings in or before a court or tribunal that are commenced on or after the day on which this Act is passed as if the amendments had come into force on 1st July 1998.
+
+(5) For the purposes of proceedings commenced against a person in his capacity by virtue of this section as a corporation sole, anything done by or in relation to that person before the passing of this Act shall be deemed to have been done by or in relation to that person in that capacity.
+
+(6) No person shall be liable by virtue of Article 47A(2B) of the Health and Safety at Work (Northern Ireland) Order 1978 (S.I. 1978/1039 (N.I. 9)) in respect of anything occurring before the passing of this Act.
+
+### [^F16]28 Duty to fill judicial vacancies
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Part 6 — Supplementary
+
+### 29 Financial provisions
+
+(1) There shall be paid out of money provided by Parliament any increase attributable to this Act in the sums payable by virtue of any other Act out of money provided by Parliament.
+
+(2) There shall be paid out of the Consolidated Fund any increase attributable to this Act in the sums payable by virtue of any other Act out of that Fund.
+
+### 30 Minor and consequential amendments etc.
+
+(1) Schedule 4 contains minor and consequential amendments.
+
+(2) Schedule 5 contains repeals and revocations.
+
+(3) The Secretary of State may by order made by statutory instrument make supplementary, incidental, consequential, transitional or saving provision for the purposes of, in consequence of, or for giving full effect to, any provision of Part 1.
+
+(4) An order under subsection (3) may, in particular—
+
+(a) provide for a provision of Part 1 which comes into force before another provision of Part 1 or of the Electoral Administration Act 2006 (c. 22) has come into force to have effect, until the other provision has come into force, with specified modifications;
+
+(b) amend, repeal or revoke any enactment passed or made on or before the last day of the session in which this Act is passed.
+
+(5) “Enactment” includes any provision of Northern Ireland legislation or subordinate legislation (within the meaning of the Interpretation Act 1978 (c. 30)) and any provision of Part 1 of Schedule 4.
+
+(6) No order is to be made under subsection (3) unless a draft of the instrument containing the order has been laid before and approved by a resolution of each House of Parliament.
+
+### 31 Commencement
+
+(1) The following come into force on the day on which this Act is passed—
+
+(a) section 1;
+
+(b) section 10;
+
+(c) section 22;
+
+(d) section 23;
+
+(e) section 24;
+
+(f) section 27;
+
+(g) section 28;
+
+(h) section 29;
+
+(i) section 30(3) to (6);
+
+(j) this section;
+
+(k) section 32;
+
+(l) section 33.
+
+(2) Part 3 (apart from section 10, but including Schedule 1) comes into force as mentioned in section 10(2).
+
+(3) Subject to subsection (4), the other provisions of this Act come into force on such day as the Secretary of State may appoint by order made by statutory instrument.
+
+(4) Any repeals or revocations in Schedule 5 come into force in the same way as any provision of this Act to which they relate.
+
+(5) Different days may be appointed under subsection (3) for different purposes.
+
+(6) The Secretary of State may by order made by statutory instrument make transitory or transitional provision or savings in connection with the coming into force of any provision of this Act.
+
+### 32 Extent
+
+(1) The extent of any amendment or repeal made by this Act is the same as that of the enactment amended or repealed.
+
+(2) But the amendments and repeals made by Schedule 3 (and Schedule 5 so far as relating to that Schedule) extend to England and Wales and Northern Ireland only.
+
+(3) Section 25 extends to Northern Ireland only.
+
+### 33 Short title
+
+This Act may be cited as the Northern Ireland (Miscellaneous Provisions) Act 2006.
+
+## SCHEDULE 1 — [[^F17]Amendments] of 2000 Act
+
+*Section 14*
+
+### Duty of Commission to verify donation reports and not to disclose their contents
+
+**1** After section 71C of the 2000 Act (as inserted by section 12) insert—
+
+> **Duty to verify donation reports**
+>
+> **71D** (1) The Commission must take such steps as are prescribed for the purpose of verifying the information given in Northern Ireland reports.
+>
+> (2) “Northern Ireland report” means a report to the Commission which—
+>
+> (a) is prepared by a Northern Ireland recipient, and
+>
+> (b) contains, or purports to contain, information required to be given by Schedule 6 or 7.
+>
+> **Duty not to disclose contents of donation reports**
+>
+> **71E** (1) A person who is or has been a member or employee of the Commission must not disclose any information which—
+>
+> (a) relates to a donation received by a Northern Ireland recipient, and
+>
+> (b) has been obtained by the Commission in the exercise of their functions under this Part,
+>
+> except in the following cases.
+>
+> (2) Such information may be disclosed, for the purpose of verifying information given in a Northern Ireland report,—
+>
+> (a) to a member or employee of the Commission, or
+>
+> (b) to such bodies as may be prescribed.
+>
+> (3) Such information may be disclosed for the purposes of any criminal or civil proceedings.
+>
+> (4) Such information may be disclosed in accordance with any prescribed requirements if it relates to a donation which the Commission believe, on reasonable grounds, was a donation required to be dealt with in accordance with section 56(2) (donations from impermissible and unidentifiable donors).
+>
+> (5) A person who contravenes subsection (1) is guilty of an offence.
+
+**2** In Schedule 20 to the 2000 Act (penalties), after the entry relating to section 68(5) insert—
+
+> |  |  |
+> |---|---|
+> | Section 71E(5) (disclosing Northern Ireland donation reports) | On summary conviction in England and Wales: statutory maximum or 51 weeks On summary conviction elsewhere: statutory maximum or 6 months |
+
+### No rights to inspect etc. register so far as it relates to donations to Northern Ireland recipients
+
+**3** In section 149 of the 2000 Act (inspection of Commission's registers etc.), after subsection (7) insert—
+
+> (8) Subsections (2) to (4) do not apply to so much of the register maintained under section 69 as concerns donations to a Northern Ireland recipient.
+>
+> (9) “Northern Ireland recipient” has the same meaning as in Chapter 6 of Part 4.
+
+## SCHEDULE 2 — Department with policing and justice functions
+
+*Section 17*
+
+The Schedule inserted after Schedule 4 to the 1998 Act is as follows—
+
+> **SCHEDULE 4A — Department with policing and justice functions**
+>
+> *Section 21A*
+>
+> **Part 1 — Department in the charge of Minister approved by resolution of Assembly**
+>
+> **Introduction**
+>
+> **1** (1) This Part of this Schedule has effect in relation to a Northern Ireland department—
+>
+> (a) the functions of which consist wholly or mainly of devolved policing and justice functions; and
+>
+> (b) in relation to which an Act of the Assembly provides, by virtue of section 21A(3), for it to be in the charge of a Northern Ireland Minister (the “relevant Minister”) appointed by virtue of a nomination—
+>
+> (i) made by the First Minister and the deputy First Minister acting jointly; and
+>
+> (ii) approved by a resolution of the Assembly passed with the support of a majority of the members voting on the motion for the resolution, a majority of the designated Nationalists voting and a majority of the designated Unionists voting.
+>
+> (2) In this paragraph “devolved policing and justice function” has the same meaning as in section 21A (see subsection (8) of that section).
+>
+> **[[^F18]Modification of section 16A**
+>
+> **1A** Section 16A(3) shall have effect as if, for paragraph (b) (and the word “and” before it) there were substituted—
+>
+> (aa) once those offices have been filled, the relevant Ministerial office (within the meaning of Part 1 of Schedule 4A) shall be filled by applying paragraph 3(3) to (6) of that Schedule; and
+>
+> (b) once that office has been filled, the other Ministerial offices to be held by Northern Ireland Ministers shall be filled by applying section 18(2) to (6).]
+>
+> **Section 18 not to apply to relevant Minister**
+>
+> **2** (1) Section 18 (Northern Ireland Ministers) shall not apply in relation to—
+>
+> (a) the relevant Minister; or
+>
+> (b) the Ministerial office held by the relevant Minister (the “relevant Ministerial office”),
+>
+> and paragraph 3 shall apply instead.
+>
+> (2) But the references to Ministerial offices in—
+>
+> (a) subsection (1)(c) and (d) of section 18; and
+>
+> (b) subsection (5) of that section (in the definition of M),
+>
+> shall be taken to include the relevant Ministerial office.
+>
+> **Provisions relating to relevant Minister**
+>
+> **3** (1) Where any of the conditions in paragraphs [[^F19](b) to (e)] of section 18(1) is satisfied—
+>
+> (a) the relevant Minister shall (if holding office at the time) cease to hold office; and
+>
+> (b) the relevant Ministerial office shall be filled by applying sub-paragraphs (3) to (6) within a period specified in standing orders.
+>
+> (2) The relevant Ministerial office shall be filled by applying sub-paragraphs (3) to (6) before section 18(2) to (6) is applied in relation to the other Ministerial offices.
+>
+> (3) The First Minister and the deputy First Minister acting jointly shall nominate a member of the Assembly to hold the relevant Ministerial office.
+>
+> [[^F20](3A) But a member of the Assembly who is a member of a political party may not be nominated unless the nominating officer of the party consents to his nomination within a period specified in standing orders.]
+>
+> (4) The nomination shall not take effect unless it is approved by a resolution of the Assembly passed with the support of—
+>
+> (a) a majority of the members voting on the motion for the resolution;
+>
+> (b) a majority of the designated Nationalists voting; and
+>
+> (c) a majority of the designated Unionists voting.
+>
+> (5) If—
+>
+> (a) the nomination does not take effect within a period specified in standing orders; or
+>
+> (b) the nominated person does not take up the office for which he has been nominated within that period,
+>
+> a further nomination of a member of the Assembly shall be made under sub-paragraph (3).
+>
+> (6) Sub-paragraphs (3) to (5) shall be applied as many times as may be necessary to secure that the relevant Ministerial office is filled.
+>
+> (7) The holding of office as First Minister or deputy First Minister shall not prevent a person being nominated to hold the relevant Ministerial office.
+>
+> (8) The relevant Minister shall not take up office until he has affirmed the terms of the pledge of office.
+>
+> (9) The relevant Minister shall cease to hold office if—
+>
+> (a) he resigns by notice in writing to the First Minister and the deputy First Minister;
+>
+> (b) he ceases to be a member of the Assembly otherwise than by virtue of a dissolution; or
+>
+> (c) he is dismissed by the First Minister and the deputy First Minister acting jointly and the Presiding Officer is notified of his dismissal [[^F21]; or
+>
+> (d) where consent to his nomination was required under sub-paragraph (3A), he is dismissed by the nominating officer who consented (or that officer's successor) and the Presiding Officer is notified of his dismissal.]
+>
+> (10) If the relevant Minister ceases to hold office at any time, otherwise than by virtue of sub-paragraph (1), the relevant Ministerial office shall be filled by applying sub-paragraphs (3) to (6) within a period specified in standing orders.
+>
+> [[^F22](10A) If, as a result of the relevant Minister (“the former Minister”) ceasing to hold office and the relevant Ministerial office being filled by virtue of sub-paragraph (10),—
+>
+> (a) the total number of Ministerial offices held by members of a political party increases; or
+>
+> (b) the total number of Ministerial offices held by members of a political party decreases,
+>
+> all other Northern Ireland Ministers shall cease to hold office and those Ministerial offices shall be filled by applying section 18(2) to (6) within a period specified in standing orders.
+>
+> (10B) But sub-paragraph (10A) shall not apply if—
+>
+> (a) the former Minister ceased to hold office by virtue of being dismissed by a nominating officer under sub-paragraph (9)(d); and
+>
+> (b) before the relevant Ministerial office was filled, either of the conditions in sub-paragraph (10C) was satisfied in relation to each member of the Assembly who was a member of the political party of the nominating officer.
+>
+> (10C) The conditions are that—
+>
+> (a) the First Minister and the deputy First Minister sought to nominate the member under sub-paragraph (3) for the relevant Ministerial office but consent to his nomination was not given in accordance with sub-paragraph (3A); or
+>
+> (b) the member was nominated under sub-paragraph (3) for the relevant Ministerial office and the nomination took effect within the period specified in standing orders by virtue of sub-paragraph (5)(a), but the member did not take up the office within that period.]
+>
+> (11) Where—
+>
+> (a) the Assembly has resolved under section 30(2) that a political party does not enjoy its confidence; and
+>
+> (b) the party's period of exclusion under that provision has not come to an end,
+>
+> no member of that party may be nominated under sub-paragraph (3).
+>
+> (12) Where—
+>
+> (a) the Secretary of State has given a direction under section 30A(5) in respect of a political party; and
+>
+> (b) the party's period of exclusion under that provision has not come to an end,
+>
+> no member of that party may be nominated under sub-paragraph (3).
+>
+> (13) In this paragraph, a reference to a period of exclusion under any provision is, in the case of a period of exclusion under that provision which has been extended, a reference to that period as extended.
+>
+> [[^F23](14) In this paragraph “nominating officer” has the same meaning as in section 18.]
+>
+> **Part 2 — Department in the charge of two Ministers**
+>
+> **Introduction**
+>
+> **4** (1) This Part of this Schedule has effect in relation to a Northern Ireland department—
+>
+> (a) the functions of which consist wholly or mainly of devolved policing and justice functions; and
+>
+> (b) in relation to which an Act of the Assembly provides, by virtue of section 21A(4), for it to be in the charge of two Northern Ireland Ministers acting jointly (the “relevant Ministers”).
+>
+> (2) In this paragraph “devolved policing and justice function” has the same meaning as in section 21A (see subsection (8) of that section).
+>
+> **[[^F24]Modification of section 16A**
+>
+> **4A** Section 16A(3) shall have effect as if, for paragraph (b) (and the word “and” before it) there were substituted—
+>
+> (aa) once those offices have been filled, the relevant Ministerial offices (within the meaning of Part 2 of Schedule 4A) shall be filled by applying paragraph 7(3) to (6) of that Schedule; and
+>
+> (b) once those offices have been filled, the other Ministerial offices to be held by Northern Ireland Ministers shall be filled by applying section 18(2) to (6).]
+>
+> **Modifications of section 17**
+>
+> **5** (1) Section 17 (Ministerial offices) has effect subject to the following modifications.
+>
+> (2) Subsection (3) has effect subject to the provision of the Act of the Assembly referred to in paragraph 4(1)(b).
+>
+> (3) The Ministerial offices held by the relevant Ministers (the “relevant Ministerial offices”) are to count as a single Ministerial office for the purposes of subsection (4).
+>
+> **Section 18 not to apply to relevant Ministers**
+>
+> **6** (1) Section 18 (Northern Ireland Ministers) shall not apply in relation to—
+>
+> (a) the relevant Ministers; or
+>
+> (b) the relevant Ministerial offices,
+>
+> and paragraph 7 shall apply instead.
+>
+> (2) But the references to Ministerial offices in—
+>
+> (a) subsection (1)(c) and (d) of section 18; and
+>
+> (b) subsection (5) of that section (in the definition of M),
+>
+> shall be taken to include the relevant Ministerial offices.
+>
+> **Provisions relating to relevant Ministers**
+>
+> **7** (1) Where any of the conditions in paragraphs [[^F25](b) to (e)] of section 18(1) is satisfied—
+>
+> (a) the relevant Ministers shall (if holding office at the time) cease to hold office; and
+>
+> (b) the relevant Ministerial offices shall be filled by applying sub-paragraphs (3) to (6) within a period specified in standing orders.
+>
+> (2) The relevant Ministerial offices shall be filled by applying sub-paragraphs (3) to (6) before section 18(2) to (6) is applied in relation to the other Ministerial offices.
+>
+> (3) The First Minister and the deputy First Minister acting jointly shall nominate two members of the Assembly to hold the relevant Ministerial offices.
+>
+> [[^F26](3A) But a member of the Assembly who is a member of a political party may not be nominated unless the nominating officer of the party consents to his nomination within a period specified in standing orders.]
+>
+> (4) The nomination shall not take effect unless it is approved by a resolution of the Assembly passed with the support of—
+>
+> (a) a majority of the members voting on the motion for the resolution;
+>
+> (b) a majority of the designated Nationalists voting; and
+>
+> (c) a majority of the designated Unionists voting.
+>
+> (5) If—
+>
+> (a) the nomination does not take effect within a period specified in standing orders; or
+>
+> (b) the nominated persons do not take up the offices for which they have been nominated within that period,
+>
+> a further nomination of two members of the Assembly shall be made under sub-paragraph (3).
+>
+> (6) Sub-paragraphs (3) to (5) shall be applied as many times as may be necessary to secure that the relevant Ministerial offices are filled.
+>
+> (7) The holding of office as First Minister or deputy First Minister shall not prevent a person being nominated to hold a relevant Ministerial office.
+>
+> (8) The relevant Ministers—
+>
+> (a) shall not take up office until each of them has affirmed the terms of the pledge of office; and
+>
+> (b) must take up office at the same time as each other.
+>
+> (9) A relevant Minister shall cease to hold office if—
+>
+> (a) he resigns by notice in writing to the First Minister and the deputy First Minister;
+>
+> (b) he ceases to be a member of the Assembly otherwise than by virtue of a dissolution; or
+>
+> (c) he is dismissed by the First Minister and the deputy First Minister acting jointly and the Presiding Officer is notified of his dismissal[[^F27]; or
+>
+> (d) where consent to his nomination was required under sub-paragraph (3A), he is dismissed by the nominating officer who consented (or that officer's successor) and the Presiding Officer is notified of his dismissal.]
+>
+> (10) If either of the relevant Ministers ceases to hold office at any time, otherwise than by virtue of sub-paragraph (1)—
+>
+> (a) the other shall also cease to hold office at that time; and
+>
+> (b) the relevant Ministerial offices shall be filled by applying sub-paragraphs (3) to (6) within a period specified in standing orders.
+>
+> [[^F28](10A) If, as a result of the relevant Ministers (“the former Ministers”) ceasing to hold office and the relevant Ministerial offices being filled by virtue of sub-paragraph (10)(b),—
+>
+> (a) the total number of Ministerial offices held by members of a political party increases; or
+>
+> (b) the total number of Ministerial offices held by members of a political party decreases,
+>
+> all other Northern Ireland Ministers shall cease to hold office and those Ministerial offices shall be filled by applying section 18(2) to (6) within a period specified in standing orders.
+>
+> (10B) But sub-paragraph (10A) shall not apply if—
+>
+> (a) either of the former Ministers ceased to hold office by virtue of being dismissed by a nominating officer under sub-paragraph (9)(d); and
+>
+> (b) before the relevant Ministerial offices were filled, either of the conditions in sub-paragraph (10C) was satisfied in relation to each member of the Assembly who was a member of the political party of the nominating officer concerned.
+>
+> (10C) The conditions are that—
+>
+> (a) the First Minister and the deputy First Minister sought to nominate the member under sub-paragraph (3) for one of the relevant Ministerial offices but consent to his nomination was not given in accordance with sub-paragraph (3A); or
+>
+> (b) the member was nominated under sub-paragraph (3) for one of the relevant Ministerial offices and the nomination took effect within the period specified in standing orders by virtue of sub-paragraph (5)(a), but the member did not take up the office within that period.]
+>
+> (11) Where—
+>
+> (a) the Assembly has resolved under section 30(2) that a political party does not enjoy its confidence; and
+>
+> (b) the party's period of exclusion under that provision has not come to an end,
+>
+> no member of that party may be nominated under sub-paragraph (3).
+>
+> (12) Where—
+>
+> (a) the Secretary of State has given a direction under section 30A(5) in respect of a political party; and
+>
+> (b) the party's period of exclusion under that provision has not come to an end,
+>
+> no member of that party may be nominated under sub-paragraph (3).
+>
+> (13) In this paragraph, a reference to a period of exclusion under any provision is, in the case of a period of exclusion under that provision which has been extended, a reference to that period as extended.
+>
+> [[^F29](14) In this paragraph “nominating officer” has the same meaning as in section 18.]
+>
+> **Part 3 — Department with rotation between Minister and junior Minister**
+>
+> **Introduction**
+>
+> **8** (1) This Part of this Schedule has effect in relation to a Northern Ireland department—
+>
+> (a) the functions of which consist wholly or mainly of devolved policing and justice functions; and
+>
+> (b) in relation to which an Act of the Assembly provides, by virtue of section 21A(5)—
+>
+> (i) for it to be in the charge of a Northern Ireland Minister (the “relevant Minister”) who is supported by a junior Minister (the “relevant junior Minister”); and
+>
+> (ii) for the persons holding those offices to rotate at intervals determined by or under the Act.29
+>
+> (2) In this paragraph “devolved policing and justice function” has the same meaning as in section 21A (see subsection (8) of that section).
+>
+> **[[^F30]Modification of section 16A**
+>
+> **8A** Section 16A(3) shall have effect as if, for paragraph (b) (and the word “and” before it) there were substituted—
+>
+> (aa) once those offices have been filled, the relevant Ministerial office (within the meaning of Part 3 of Schedule 4A) and the relevant junior Ministerial office (within that meaning) shall be filled by applying paragraph 11(3) to (6) of that Schedule; and
+>
+> (b) once those offices have been filled, the other Ministerial offices to be held by Northern Ireland Ministers shall be filled by applying section 18(2) to (6).]
+>
+> **Section 18 not to apply to relevant Minister**
+>
+> **9** (1) Section 18 (Northern Ireland Ministers) shall not apply in relation to—
+>
+> (a) the relevant Minister; or
+>
+> (b) the Ministerial office held by the relevant Minister (the “relevant Ministerial office”),
+>
+> and paragraph 11 shall apply instead.
+>
+> (2) But the references to Ministerial offices in—
+>
+> (a) subsection (1)(c) and (d) of section 18; and
+>
+> (b) subsection (5) of that section (in the definition of M),
+>
+> shall be taken to include the relevant Ministerial office.
+>
+> (3) And the junior Ministerial office held by the relevant junior Minister (the “relevant junior Ministerial office”) shall be taken to be a Ministerial office for the purposes of subsection (5) of that section.
+>
+> **Certain provisions of section 19 not to apply to relevant junior Minister**
+>
+> **10** (1) The provisions of section 19 (junior Ministers) specified in sub-paragraph (2) shall not apply in relation to—
+>
+> (a) the relevant junior Minister; or
+>
+> (b) the relevant junior Ministerial office,
+>
+> and paragraph 11 shall apply instead.
+>
+> (2) Those provisions are—
+>
+> (a) so much of subsection (1)(a) as relates to the procedures for the appointment of persons as junior Ministers;
+>
+> (b) subsection (2) (so that, in particular, the relevant junior Ministerial office shall not count for the purposes of any formulae or other rules mentioned in that subsection);
+>
+> (c) subsection (3); and
+>
+> (d) subsection (5).
+>
+> **Provisions relating to relevant Minister and relevant junior Minister**
+>
+> **11** (1) Where any of the conditions in paragraphs [[^F31](b) to (e)] of section 18(1) is satisfied—
+>
+> (a) the relevant Minister and the relevant junior Minister shall (if holding office at the time) cease to hold office; and
+>
+> (b) the relevant Ministerial office and the relevant junior Ministerial office shall be filled by applying sub-paragraphs (3) to (6) within a period specified in standing orders.
+>
+> (2) The relevant Ministerial office and the relevant junior Ministerial office shall be filled by applying sub-paragraphs (3) to (6)—
+>
+> (a) before section 18(2) to (6) is applied in relation to the other Ministerial offices; and
+>
+> (b) before the procedures specified in any determination under section 19 are applied in relation to the other junior Ministerial offices.
+>
+> (3) The First Minister and the deputy First Minister acting jointly shall nominate—
+>
+> (a) a member of the Assembly to hold the relevant Ministerial office; and
+>
+> (b) a member of the Assembly to hold the relevant junior Ministerial office.
+>
+> [[^F32](3A) But a member of the Assembly who is a member of a political party may not be nominated unless the nominating officer of the party consents to his nomination within a period specified in standing orders.]
+>
+> (4) The nomination shall not take effect unless it is approved by a resolution of the Assembly passed with the support of—
+>
+> (a) a majority of the members voting on the motion for the resolution;
+>
+> (b) a majority of the designated Nationalists voting; and
+>
+> (c) a majority of the designated Unionists voting.
+>
+> (5) If—
+>
+> (a) the nomination does not take effect within a period specified in standing orders; or
+>
+> (b) the nominated persons do not take up the offices for which they have been nominated within that period,
+>
+> a further nomination of two members of the Assembly shall be made under sub-paragraph (3).
+>
+> (6) Sub-paragraphs (3) to (5) shall be applied as many times as may be necessary to secure that the relevant Ministerial office and the relevant junior Ministerial office are filled.
+>
+> (7) The holding of office as First Minister or deputy First Minister shall not prevent a person being nominated to hold—
+>
+> (a) the relevant Ministerial office; or
+>
+> (b) the relevant junior Ministerial office.
+>
+> (8) The relevant Minister and the relevant junior Minister—
+>
+> (a) shall not take up office until each of them has affirmed the terms of the pledge of office; and
+>
+> (b) must take up office at the same time as each other.
+>
+> (9) The relevant Minister or the relevant junior Minister shall cease to hold office if—
+>
+> (a) he resigns by notice in writing to the First Minister and the deputy First Minister;
+>
+> (b) he ceases to be a member of the Assembly otherwise than by virtue of a dissolution; or
+>
+> (c) he is dismissed by the First Minister and the deputy First Minister acting jointly and the Presiding Officer is notified of his dismissal [[^F33]; or
+>
+> (d) where consent to his nomination was required under sub-paragraph (3A), he is dismissed by the nominating officer who consented (or that officer's successor) and the Presiding Officer is notified of his dismissal.]
+>
+> (10) Sub-paragraph (11) applies if the relevant Minister or the relevant junior Minister ceases to hold office at any time, otherwise than—
+>
+> (a) by virtue of sub-paragraph (1); or
+>
+> (b) by virtue of the rotation of the persons holding those offices in accordance with provision referred to in paragraph 8(1)(b)(ii).
+>
+> (11) Where this sub-paragraph applies—
+>
+> (a) the other shall also cease to hold office at that time; and
+>
+> (b) the relevant Ministerial office and the relevant junior Ministerial office shall be filled by applying sub-paragraphs (3) to (6) within a period specified in standing orders.
+>
+> [[^F34](11A) If, as a result of the relevant Minister (“the former Minister”) and the relevant junior Minister (“the former junior Minister”) ceasing to hold office and the relevant Ministerial office and the relevant junior Ministerial office being filled by virtue of sub-paragraph (11)(b),—
+>
+> (a) the total number of Ministerial offices or junior Ministerial offices held by members of a political party increases; or
+>
+> (b) the total number of Ministerial offices or junior Ministerial offices held by members of a political party decreases,
+>
+> all other Northern Ireland Ministers shall cease to hold office and those Ministerial offices shall be filled by applying section 18(2) to (6) within a period specified in standing orders.
+>
+> (11B) But sub-paragraph (11A) shall not apply if—
+>
+> (a) the former Minister or the former junior Minister ceased to hold office by virtue of being dismissed by a nominating officer under sub-paragraph (9)(d); and
+>
+> (b) before the relevant Ministerial office and the relevant junior Ministerial office were filled, either of the conditions in sub-paragraph (11C) was satisfied in relation to each member of the Assembly who was a member of the political party of the nominating officer concerned.
+>
+> (11C) The conditions are that—
+>
+> (a) the First Minister and the deputy First Minister sought to nominate the member under sub-paragraph (3) for the appropriate office, but consent to his nomination was not given in accordance with sub-paragraph (3A); or
+>
+> (b) the member was nominated under sub-paragraph (3) for the appropriate office and the nomination took effect within the period specified in standing orders by virtue of sub-paragraph (5)(a), but the member did not take up the office within that period.
+>
+> (11D) In sub-paragraph (11C) “the appropriate office” means—
+>
+> (a) in relation to a person who was a member of the political party of the nominating officer who dismissed the former Minister, the relevant Ministerial office;
+>
+> (b) in relation to a person who was a member of the political party of the nominating officer who dismissed the former junior Minister, the relevant junior Ministerial office.]
+>
+> (12) Where—
+>
+> (a) the Assembly has resolved under section 30(2) that a political party does not enjoy its confidence; and
+>
+> (b) the party's period of exclusion under that provision has not come to an end,
+>
+> no member of that party may be nominated under sub-paragraph (3).
+>
+> (13) Where—
+>
+> (a) the Secretary of State has given a direction under section 30A(5) in respect of a political party; and
+>
+> (b) the party's period of exclusion under that provision has not come to an end,
+>
+> no member of that party may be nominated under sub-paragraph (3).
+>
+> (14) In this paragraph, a reference to a period of exclusion under any provision is, in the case of a period of exclusion under that provision which has been extended, a reference to that period as extended.
+>
+> [[^F35](15) In this paragraph “nominating officer” has the same meaning as in section 18.]
+>
+> **[[^F36]Part 3A — Department in the charge of Minister and deputy Minister**
+>
+> **Introduction**
+>
+> **11A** (1) This Part of this Schedule has effect in relation to a Northern Ireland department—
+>
+> (a) the functions of which consist wholly or mainly of devolved policing and justice functions; and
+>
+> (b) in relation to which an Act of the Assembly provides, by virtue of section 21A(5A)—
+>
+> (i) for it to be in the charge of a Northern Ireland Minister (the “relevant Minister”) elected by the Assembly; and
+>
+> (ii) for that Minister to be supported by a deputy Minister (the “deputy Minister”) elected by the Assembly.
+>
+> (2) In this paragraph “devolved policing and justice function” has the same meaning as in section 21A (see subsection (8) of that section).
+>
+> **Modification of section 16A**
+>
+> **11B** (1) Section 16A shall have effect subject to the following modifications.
+>
+> (2) Subsection (2) shall have effect as if, at the end there were inserted “; and the deputy Minister (within the meaning of Part 3A of Schedule 4A) shall cease to hold office.”
+>
+> (3) Subsection (3) shall have effect as if, for paragraph (b) (and the word “and” before it) there were substituted—
+>
+> (aa) once those offices have been filled, the relevant Ministerial office (within the meaning of Part 3A of Schedule 4A) and the deputy Ministerial office (within that meaning) shall be filled by applying paragraph 11E(2)(b) and (3) to (8) of that Schedule; and
+>
+> (b) once those offices have been filled, the other Ministerial offices to be held by Northern Ireland Ministers shall be filled by applying section 18(2) to (6).
+>
+> **Section 18 not to apply to relevant Minister**
+>
+> **11C** (1) Subject to sub-paragraphs (2) to (5), section 18 (Northern Ireland Ministers) shall not apply in relation to—
+>
+> (a) the relevant Minister; or
+>
+> (b) the Ministerial office held by the relevant Minister (the “relevant Ministerial office”),
+>
+> and paragraphs 11E to 11G shall apply instead.
+>
+> (2) The references to Ministerial offices in subsection (1)(c) and (d) of section 18 shall be taken to include the relevant Ministerial office.
+>
+> (3) In the application of section 18(5) to a political party which is entitled to two or more Ministerial offices, the reference to Ministerial offices (in the definition of M)—
+>
+> (a) at any time when the number of Ministerial offices held by members of the party (apart from the relevant Ministerial office) is nil, shall be taken not to include the relevant Ministerial office; but
+>
+> (b) at any time when the number of Ministerial offices held by members of the party (apart from the relevant Ministerial office) is one or more, shall be taken to include the relevant Ministerial office.
+>
+> (4) In the application of section 18(5) to any other political party, that reference to Ministerial offices shall be taken to include the relevant Ministerial office.
+>
+> (5) For the purposes of this paragraph, a political party is entitled to two or more Ministerial offices if the nominating officer of the party would be entitled to nominate persons to hold two or more Ministerial offices under section 18, assuming that—
+>
+> (a) on each occasion on which a nominating officer of a political party is entitled to exercise the power conferred by section 18(2), he does so within the period mentioned in section 18(3)(a);
+>
+> (b) the nominated person, in each case, takes up the selected Ministerial office within that period; and
+>
+> (c) the reference in section 18(5) to Ministerial offices (in the definition of M) is taken to include the relevant Ministerial office.
+>
+> **Section 19 not to apply to deputy Minister**
+>
+> **11D** (1) The deputy Minister is to be treated for the purposes of this Act as if he were a junior Minister, but the provisions of section 19 (junior Ministers) shall not apply in relation to—
+>
+> (a) him; or
+>
+> (b) the office held by him (the “deputy Ministerial office”),
+>
+> (so that, in particular, the deputy Ministerial office shall not count for the purposes of any formulae or other rules mentioned in section 19(2)); and the following provisions of this Part of this Schedule shall apply instead.
+>
+> (2) The functions exercisable by virtue of the deputy Ministerial office shall be those determined in relation to that office by the relevant Minister and the deputy Minister acting jointly.
+>
+> (3) The relevant Minister and the deputy Minister shall consult the First Minister and the deputy First Minister before making any determination under sub-paragraph (2).
+>
+> **Provisions relating to relevant Minister and deputy Minister**
+>
+> **11E** (1) When devolved policing and justice functions are first transferred to, or conferred on, the department mentioned in paragraph 11A, the relevant Ministerial office and the deputy Ministerial office shall be filled by applying sub-paragraphs (3) to (8) within a period specified in standing orders.
+>
+> (2) The relevant Ministerial office and the deputy Ministerial office shall be filled by applying sub-paragraphs (3) to (8)—
+>
+> (a) before section 18(2) to (6) is applied in relation to the other Ministerial offices; and
+>
+> (b) before the procedures specified in any determination under section 19 are applied in relation to the junior Ministerial offices.
+>
+> (3) Any member of the Assembly may stand as a candidate for election as—
+>
+> (a) the relevant Minister; or
+>
+> (b) the deputy Minister.
+>
+> (4) But a member of the Assembly may not stand for election to either of those offices unless—
+>
+> (a) he belongs to the largest or the second largest political designation (see paragraph 11H);
+>
+> (b) he is nominated by another member of the Assembly; and
+>
+> (c) if he is a member of a political party, the nominating officer of the party consents to his nomination within a period specified in standing orders.
+>
+> (5) A candidate shall not be elected to either of those offices by the Assembly without the support of—
+>
+> (a) a majority of the members voting in the election;
+>
+> (b) a majority of the designated Nationalists voting; and
+>
+> (c) a majority of the designated Unionists voting.
+>
+> (6) A candidate shall not be elected to hold office as deputy Minister unless—
+>
+> (a) the relevant Ministerial office is filled; and
+>
+> (b) the candidate and the relevant Minister belong to different political designations.
+>
+> (7) A person elected to the office of relevant Minister or deputy Minister shall not take up office until he has affirmed the terms of the pledge of office.
+>
+> (8) If a person elected to either office does not take up the office within a period specified in standing orders, his election shall be deemed to be ineffective.
+>
+> (9) The relevant Minister or the deputy Minister shall cease to hold office if—
+>
+> (a) he resigns by notice in writing to the First Minister and the deputy First Minister;
+>
+> (b) he ceases to be a member of the Assembly otherwise than by virtue of a dissolution;
+>
+> (c) where consent to his nomination was required under sub-paragraph (4)(c), he is dismissed by the nominating officer who consented (or that officer's successor) and the Presiding Officer is notified of his dismissal.
+>
+> (10) If the relevant Minister or the deputy Minister ceases to hold office at any time, otherwise than by virtue of section 16A(2), the office shall be filled by applying sub-paragraphs (3) to (8) within a period specified in standing orders.
+>
+> (11) But if—
+>
+> (a) the relevant Ministerial office is filled by virtue of sub-paragraph (10); and
+>
+> (b) the person appointed as the relevant Minister belongs to the same political designation as the deputy Minister,
+>
+> the deputy Minister shall cease to hold office and the deputy Ministerial office shall be filled by applying sub-paragraphs (3) to (8) within a period specified in standing orders.
+>
+> (12) Standing orders may make provision with respect to the holding of elections under this paragraph.
+>
+> **Eligibility to become relevant Minister or deputy Minister**
+>
+> **11F** (1) The holding of office as First Minister or deputy First Minister shall not prevent a person being elected to hold—
+>
+> (a) the relevant Ministerial office; or
+>
+> (b) the deputy Ministerial office.
+>
+> (2) Where—
+>
+> (a) the Assembly has resolved under section 30(2) that a political party does not enjoy its confidence; and
+>
+> (b) the party's period of exclusion under that provision has not come to an end,
+>
+> no member of that party may be nominated under paragraph 11E(4)(b).
+>
+> (3) Where—
+>
+> (a) the Secretary of State has given a direction under section 30A(5) in respect of a political party; and
+>
+> (b) the party's period of exclusion under that provision has not come to an end,
+>
+> no member of that party may be nominated under paragraph 11E(4)(b).
+>
+> (4) In this paragraph, a reference to a period of exclusion under any provision is, in the case of a period of exclusion under that provision which has been extended, a reference to that period as extended.
+>
+> **Change in number of Ministerial offices held by members of a political party**
+>
+> **11G** (1) If, as a result of the relevant Minister (“the former Minister”) ceasing to hold office and the relevant Ministerial office being filled by virtue of paragraph 11E(10)—
+>
+> (a) the total number of Ministerial offices held by members of a political party increases; or
+>
+> (b) the total number of Ministerial offices held by members of a political party decreases,
+>
+> all other Northern Ireland Ministers shall cease to hold office and those Ministerial offices shall be filled by applying section 18(2) to (6) within a period specified in standing orders.
+>
+> (2) But sub-paragraph (1) shall not apply if—
+>
+> (a) the former Minister ceased to hold office by virtue of being dismissed by a nominating officer under paragraph 11E(9)(c); and
+>
+> (b) before the relevant Ministerial office was filled, either of the conditions in sub-paragraph (3) was satisfied in relation to each member of the Assembly who was a member of the political party of the nominating officer.
+>
+> (3) The conditions are that—
+>
+> (a) another member of the Assembly sought to nominate the member under paragraph 11E(4)(b) for the relevant Ministerial office but consent to his nomination was not given in accordance with paragraph 11E(4)(c); or
+>
+> (b) the member was elected to the relevant Ministerial office, but the member did not take up the office within the period specified in standing orders by virtue of paragraph 11E(8).
+>
+> **Interpretation**
+>
+> **11H** (1) In this Part of this Schedule “nominating officer” has the same meaning as in section 18.
+>
+> (2) For the purposes of this Part of this Schedule, a member of the Assembly is to be taken—
+>
+> (a) to belong to the political designation “Nationalist” if he is a designated Nationalist;
+>
+> (b) to belong to the political designation “Unionist” if he is a designated Unionist;
+>
+> (c) otherwise, to belong to the political designation “Other”;
+>
+> and the size of each of the political designations “Nationalist”, “Unionist” and “Other” is to be determined in accordance with section 16C(4) and (5).]
+>
+> **Part 4 — Power to make further modifications**
+>
+> **12** (1) Her Majesty may by Order in Council make such further modifications of any enactment (whenever passed or made) as appear to Her Majesty to be necessary or expedient—
+>
+> (a) in consequence of, or
+>
+> (b) for giving full effect to,
+>
+> an Act of the Assembly which makes provision of the kind mentioned in section 21A(3), (4) [[^F37], (5) or (5A) or an Order in Council under section 21A(7C)].
+>
+> (2) No recommendation shall be made to Her Majesty to make an Order under this paragraph unless a draft of it has been laid before and approved by resolution of each House of Parliament.
+
+## SCHEDULE 3 — Extension to Northern Ireland of provisions of SOCAP 2005
+
+*Section 26*
+
+### Introduction
+
+**1** Amend the Serious Organised Crime and Police Act 2005 (c. 15) as follows.
+
+### Director of Public Prosecutions for Northern Ireland to be an Investigating Authority
+
+**2** (1) Amend section 60 (investigatory powers of DPP etc.) as follows.
+
+(2) In subsection (1), at the end of paragraph (c) insert
+
+> and
+>
+> (d) the Director of Public Prosecutions for Northern Ireland,
+
+.
+
+(3) After subsection (4) insert—
+
+> (4A) The Director of Public Prosecutions for Northern Ireland may, to such extent as he may determine, delegate the exercise of his powers under this Chapter to a Public Prosecutor.
+
+(4) In subsection (5), at the end of paragraph (c) insert
+
+> , or
+>
+> (d) the Director of Public Prosecutions for Northern Ireland.
+
+(5) In subsection (6), for “or (4)” substitute “ , (4) or (4A) ”.
+
+### Offences to which Chapter 1 of Part 2 applies to include certain Northern Ireland offences
+
+**3** (1) Amend section 61 (offences to which Chapter 1 of Part 2 applies) as follows.
+
+(2) In subsection (1), after paragraph (b) insert—
+
+> (ba) any offence listed in Schedule 5 to that Act (lifestyle offences: Northern Ireland);
+
+.
+
+(3) In subsection (1)(e), after “1968 (c. 60)” insert “ or section 17 of the Theft Act (Northern Ireland) 1969 ”.
+
+(4) In subsection (1)(f), after “1981 (c. 47)” insert “ or Article 3 of the Criminal Attempts and Conspiracy (Northern Ireland) Order 1983 ”.
+
+(5) In subsection (1)(g), after “1977 (c. 45)” insert “ or Article 9 of the Criminal Attempts and Conspiracy (Northern Ireland) Order 1983 ”.
+
+(6) In subsection (2)(b), after “1968 (c. 60)” insert “ or section 17 of the Theft Act (Northern Ireland) 1969 ”.
+
+(7) In subsection (4), after “Wales” (in both places) insert “ or Northern Ireland ”.
+
+### Member of staff of SOCA not to be “appropriate person” in application of Chapter to Northern Ireland
+
+**4** In section 62 (disclosure notices), in subsection (2), at the end insert— “ But in the application of this Chapter to Northern Ireland, this subsection has effect as if paragraph (b) were omitted. ”
+
+### Restrictions on requiring information etc.: modification for Northern Ireland
+
+**5** In section 64 (restrictions on requiring information etc.), in subsection (5), after “1984 (c. 60)” insert “ or, in relation to Northern Ireland, Article 13 of the Police and Criminal Evidence (Northern Ireland) Order 1989 ”.
+
+### Restrictions on use of statements: modification for Northern Ireland
+
+**6** In section 65 (restrictions on use of statements), in subsection (2), at the end of paragraph (c) insert
+
+> , or
+>
+> (d) for an offence under Article 10 of the Perjury (Northern Ireland) Order 1979 (false statements made otherwise than on oath).
+
+### Power to enter and seize documents: applications for warrants in Northern Ireland
+
+**7** In section 66 (power to enter and seize documents), after subsection (10) insert—
+
+> (11) In the application of this section to Northern Ireland—
+>
+> (a) subsection (1) has effect as if, for the words from the beginning to “laid”, there were substituted “A lay magistrate may issue a warrant under this section if, on complaint on oath made”; and
+>
+> (b) subsections (1)(a) and (3)(b) have effect as if, for “in the information”, there were substituted “in the complaint”.
+
+### Offences in connection with disclosure notices etc.: modification of penalties
+
+**8** In section 67 (offences in connection with disclosure notices or search warrants), after subsection (6) insert—
+
+> (7) In the application of this section to Northern Ireland—
+>
+> (a) the reference to 51 weeks in subsection (4)(a) is to be read as a reference to 6 months; and
+>
+> (b) the reference to 12 months in subsection (5)(b) is to be read as a reference to 6 months.
+
+### Extension to Northern Ireland of sections 60 to 67, 69 and 70 of SOCAP 2005
+
+**9** In section 179 (short title and extent), in subsection (5)(b), for “68, 71” substitute “ 60 ”.
+
+## SCHEDULE 4 — Minor and consequential amendments
+
+*Section 30(1)*
+
+### Part 1 — Registration of electors
+
+#### Electoral Law Act (Northern Ireland) 1962 (c. 14 (N. I.))
+
+**1** (1) Amend Schedule 5 (local elections rules) as follows.
+
+(2) In rule 26 (equipment of polling stations), after paragraph (3) insert—
+
+> (3ZA) The reference in paragraph (3)(c) to the copies of the register of electors includes a reference to copies of any notices issued in respect of alterations to the register under section 13BA(9) of the 1983 Act.
+>
+> (3ZB) In this Schedule “section 13BA(9) of the 1983 Act” means section 13BA(9) of the Representation of the People Act 1983 (as applied by Schedule 1 to the Elected Authorities (Northern Ireland) Act 1989).
+
+(3) In rule 34 (voting procedure), after paragraph (1) insert—
+
+> (1A) In the case of an elector who is added to the register in pursuance of a notice issued under section 13BA(9) of the 1983 Act, paragraph (1) is modified as follows—
+>
+> (a) in sub-paragraph (b), for “copy of the register of electors” substitute “ copy of the notice issued under section 13BA(9) of the 1983 Act ”;
+>
+> (b) in sub-paragraph (d), for “in the register of electors” substitute “ on the copy of the notice issued under section 13BA(9) of the 1983 Act ”.
+
+(4) In rule 35 (votes marked by presiding officer), after paragraph (6) insert—
+
+> (7) In the case of a person in respect of whom a notice has been issued under section 13BA(9) of the 1983 Act, paragraph (3) applies as if for “on the register of electors of every voter” there were substituted “relating to every voter in respect of whom a notice has been issued under section 13BA(9) of the 1983 Act”.
+
+(5) In rule 36 (voting by persons with disabilities), after paragraph (4) insert—
+
+> (4A) In the case of a person in respect of whom a notice has been issued under section 13BA(9) of the 1983 Act, paragraph (4) applies as if for “in the register of electors of every voter” there were substituted “relating to every voter in respect of whom a notice has been issued under section 13BA(9) of the 1983 Act”.
+
+(6) In rule 37 (tendered ballot papers), after paragraph (4) insert—
+
+> (4A) This rule applies in the case of a person in respect of whom a notice has been issued under section 13BA(9) of the 1983 Act as if—
+>
+> (a) in paragraphs (1)(a), (1A)(a) and (1D)(a), for “named on the register” there were substituted “in respect of whom a notice under section 13BA(9) of the 1983 Act has been issued”;
+>
+> (b) in paragraph (5)(b), for “his number in the register of electors” there were substituted “the number relating to him on a notice issued under section 13BA(9) of the 1983 Act”;
+>
+> (c) in paragraph (6), for “his number on the register of electors” there were substituted “the number relating to him on a notice issued under section 13BA(9) of the 1983 Act”.
+
+(7) After rule 39 (spoilt ballot papers) insert—
+
+> **Correction of errors on day of poll**
+>
+> **39A** The presiding officer shall keep a list of persons to whom ballot papers are delivered in consequence of an alteration to the register made by virtue of section 13BA(9) of the 1983 Act which takes effect on the day of the poll.
+
+(8) In rule 41 (procedure on close of poll)—
+
+(a) in paragraph (1)(d), after “electors” insert “ (including any marked copy notices issued under section 13BA(9) of the 1983 Act) ”, and
+
+(b) in paragraph (1)(f), after “ “unable to read”,” insert “ the list maintained under rule 39A, ”.
+
+(9) In rule 57 (sealing up of ballot papers), in paragraph (2), after “marked copies of the register of electors” insert “ (including any marked copy notices issued under section 13BA(9) of the 1983 Act) ”.
+
+(10) In rule 58 (forwarding of documents)—
+
+(a) in paragraph (1)(c), after “and the related statements,” insert “ the lists maintained under rule 39A, ”, and
+
+(b) in paragraph (1)(e), after “registers” insert “ (including any marked copy notices issued under section 13BA(9) of the 1983 Act) ”.
+
+#### Representation of the People Act 1983 (c. 2)
+
+**2** In section 10, in subsection (4) (form may be either a prescribed form or a form to the same effect), at the end insert “ except that, in Northern Ireland, a form prescribed for those purposes shall be used ”.
+
+**3** In section 13 (publication of registers), in subsection (5)(b), for “or 13B” substitute “ , 13B or 13BA ”.
+
+**4** (1) Amend section 13A (alteration of registers) as follows.
+
+(2) In subsection (1)(c), after “56” insert “ or 58 ”.
+
+(3) In subsection (2)(b), for “section 13B(1)” substitute “ sections 13B(1) and 13BA(1) ”.
+
+(4) In subsection (4), before “below” insert “ or 13BA(3), (6) or (9) ”.
+
+(5) In subsection (5), after “13B” insert “ or 13BA ”.
+
+**5** For section 58 substitute—
+
+> **Registration appeals: Northern Ireland**
+>
+> **58** (1) An appeal lies to the county court—
+>
+> (a) from any decision under this Act of the Chief Electoral Officer for Northern Ireland on any application for registration or objection to a person's registration made to and considered by him;
+>
+> (b) from any decision under this Act of the Chief Electoral Officer (other than on an application for registration or objection to a person's registration) that a person registered in respect of any address was not entitled to be registered in respect of that address or that he has ceased to be resident at that address or has otherwise ceased to satisfy the conditions for registration set out in section 4;
+>
+> (c) from any decision under this Act of the Chief Electoral Officer disallowing a person's application to vote by proxy or by post as elector or to vote by post as proxy, in any case where the application is not made for a particular election only.
+>
+> (2) But an appeal does not lie where the person desiring to appeal—
+>
+> (a) has not availed himself of a prescribed right to be heard by or make representations to the Chief Electoral Officer on the matter which is the subject of the appeal, or
+>
+> (b) has not given the prescribed notice of appeal within the prescribed time.
+>
+> (3) An appeal to the county court or Court of Appeal by virtue of this section which is pending when notice of an election is given does not prejudice the operation as respects the election of the decision appealed against, and anything done in pursuance of the decision—
+>
+> (a) is as good as if no such appeal had been brought, and
+>
+> (b) is not affected by the decision of the appeal.
+>
+> (4) The Chief Electoral Officer must, in accordance with sections 13A and 13BA, make such alterations in the register as may be required to give effect to the decision.
+>
+> (5) Where, as a result of the decision on an appeal, an alteration in the register made in pursuance of subsection (4) takes effect under section 13(5), 13A(2) or 13BA(6) or (9) on or before the date of the poll, subsection (3) does not apply to that appeal as respects that election.
+>
+> (6) The Chief Electoral Officer—
+>
+> (a) must undertake such duties in connection with appeals brought by virtue of this section as may be prescribed, and
+>
+> (b) on any appeal is deemed to be a party to the proceedings;
+>
+> and the registration expenses payable to him include any expenses properly incurred by virtue of this subsection.
+>
+> (7) Section 21(1) of the Interpretation Act (Northern Ireland) 1954 (rules regulating procedure of courts etc.) applies as if the jurisdiction conferred by subsection (1) were conferred by any enactment within the meaning of that Act.
+
+**6** (1) Amend Schedule 1 (parliamentary elections rules) as follows.
+
+(2) In rule 29 (equipment of polling stations), after paragraph (6), insert—
+
+> (7) The reference in paragraph (3)(c) to the copies of the register of electors includes a reference to copies of any notices issued under section 13BA(9) in respect of alterations to the register.
+
+(3) In rule 35 (questions to be put to voters), after paragraph (2) insert—
+
+> (2A) In the case of an elector in respect of whom a notice has been issued under section 13BA(9), the reference in the question at entry 1(a) to reading from the register must be taken as a reference to reading from the notice issued under section 13BA(9).
+
+(4) In rule 37 (voting procedure), after paragraph (1) insert—
+
+> (1ZA) In the case of an elector who is added to the register in pursuance of a notice issued under section 13BA(9), paragraph (1) is modified as follows—
+>
+> (a) in sub-paragraph (b), for “copy of the register of electors” substitute “ copy of the notice issued under section 13BA(9) ”;
+>
+> (b) in sub-paragraph (d), for “in the register of electors” substitute “ on the copy of the notice issued under section 13BA(9) ”.
+
+(5) In rule 38 (votes marked by presiding officer), after paragraph (3) insert—
+
+> (4) In the case of a person in respect of whom a notice has been issued under section 13BA(9), paragraph (2) applies as if for “on the register of electors of every voter” there were substituted “relating to every voter in respect of whom a notice has been issued under section 13BA(9)”.
+
+(6) In rule 39 (voting by person with disabilities), after paragraph (4A) insert—
+
+> (4B) In the case of a person in respect of whom a notice has been issued under section 13BA(9), paragraph (4) applies as if for “in the register of electors of every voter” there were substituted “relating to every voter in respect of whom a notice has been issued under section 13BA(9)”.
+
+(7) In rule 40 (tendered ballot papers), after paragraph (4B) insert—
+
+> (4C) This rule applies in the case of a person in respect of whom a notice has been issued under section 13BA(9) as if—
+>
+> (a) in paragraphs (1)(a), (1ZA)(a) and (1ZD)(a) for “named on the register” there were substituted “in respect of whom a notice under section 13BA(9) has been issued”;
+>
+> (b) in paragraph (2)(b) for “his number in the register of electors” there were substituted “the number relating to him on a notice issued under section 13BA(9)”;
+>
+> (c) in paragraph (3) for “his number on the register of electors” there were substituted “the number relating to him on a notice issued under section 13BA(9)”.
+
+(8) After rule 41A insert—
+
+> **Correction of errors on day of poll: Northern Ireland**
+>
+> **41B** The presiding officer shall keep a list of persons to whom ballot papers are delivered in consequence of an alteration to the register made by virtue of section 13BA(9) which takes effect on the day of the poll.
+
+(9) In rule 43 (procedure on close of poll), after paragraph (3) insert—
+
+> (4) This rule applies in relation to Northern Ireland as if—
+>
+> (a) the reference in paragraph (1)(d) to the marked copies of the register of electors included any marked copy notices issued under section 13BA(9), and
+>
+> (b) paragraph (1)(f) referred to the list maintained under rule 41B.
+
+(10) In rule 54 (sealing up of ballot papers), after paragraph (2) insert—
+
+> (3) This rule applies in relation to Northern Ireland as if the reference in paragraph (2)(d) to section 13B(3B) or (3D) were a reference to section 13BA(9).
+
+(11) In rule 55 (delivery of documents to Clerk of the Crown for Northern Ireland), after paragraph (4) insert—
+
+> (5) This rule applies in relation to Northern Ireland as if—
+>
+> (a) paragraph (1)(c) included a reference to the lists maintained under rule 41B, and
+>
+> (b) the reference in paragraph (1B)(a) to marked copies of the registers included any marked copy notices issued under section 13BA(9).
+
+#### Elected Authorities (Northern Ireland) Act 1989 (c. 3)
+
+**7** (1) Amend Schedule 1 (application, with modifications, of provisions of the Representation of the People Act 1983 to local elections) as follows.
+
+(2) In Part 1 (provisions applied), in the entry relating to sections 9, 10, 10A, 13 to 13B and 13D—
+
+(a) after “10,” insert “ 10ZA, 10ZB, ”, and
+
+(b) for “to 13B” substitute “ , 13A, 13BA ”.
+
+(3) In that Part, for the entries relating to sections 56(1) and (3) to (5) and 58(2) substitute— “ Section 58 (registration appeals: Northern Ireland). ”
+
+[^F38]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) In that Part, for paragraph 16 substitute—
+
+> **16** In section 58, omit subsection (1)(c) and after subsection (2) insert—
+>
+> > (2A) No appeal lies from the decision of the Court of Appeal on appeal from a decision of the county court under this section.
+>
+> .
+
+#### Electoral Administration Act 2006 (c. 22)
+
+**[^F39]8** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Part 2 — The Chief Electoral Officer
+
+#### Electoral Law Act (Northern Ireland) 1962 (c. 14 (N. I.))
+
+**9** In section 14 (appointment of Chief Electoral Officer for Northern Ireland)—
+
+(a) in subsection (2), for the words from “by the Governor” to the end of the subsection substitute “ in accordance with section 8 of the Northern Ireland (Miscellaneous Provisions) Act 2006 ”, and
+
+(b) in subsection (4), omit the words following paragraph (d).
+
+### Part 3 — Devolution of policing and justice functions etc.
+
+#### Northern Ireland Act 1998 (c. 47)
+
+**10** In section 7(1)(c) (entrenched enactments), for “86” substitute “ 86B ”.
+
+**11** In section 96(2) (orders and regulations), after “section” insert “ 4(6), ”.
+
+**12** In Schedule 2 (excepted matters), in paragraph 3 (international relations etc.)—
+
+(a) after “international organisations” insert “ and extradition ”;
+
+(b) omit sub-paragraph (a);
+
+(c) after sub-paragraph (a) insert—
+
+> (aa) co-operation between the Police Service of Northern Ireland and the Garda Síochána with respect to any of the following matters—
+>
+> (i) transfers, secondments, exchanges or training of officers;
+>
+> (ii) communications (including liaison and information technology);
+>
+> (iii) joint investigations;
+>
+> (iv) disaster planning;
+
+.
+
+**13** (1) Amend Schedule 3 (reserved matters) as follows.
+
+(2) In paragraph 9 (criminal justice), omit sub-paragraph (f).
+
+[^F40]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Inquiries Act 2005 (c. 12)
+
+**14** In section 30 (Northern Ireland inquiries), in subsection (6), for “subsection (3), (4) or (5)” substitute “ any of subsections (3) to (5) ”.
+
+### Part 4 — Financial assistance for energy purposes (prospective)
+
+#### Energy (Northern Ireland) Order 2003 (S.I. 2003/419 (N.I. 6)) (prospective)
+
+**15** In Article 66 (regulations, orders and directions), in paragraph (1), after “59(1)” insert “ , 61(7) ”.
+
+## SCHEDULE 5 — Repeals and revocations
+
+*Section 30(2)*
+
+|  |  |
+|---|---|
+| *Short title and chapter* | *Extent of repeal* |
+| Representation of the People Act 1983 (c. 2) | Section 13B(4)(e). |
+| Electoral Administration Act 2006 (c. 22) | In Schedule 1, paragraph 110. |
+
+|  |  |
+|---|---|
+| *Short title and chapter* | *Extent of repeal* |
+| Electoral Law Act (Northern Ireland) 1962 (c. 14 (N. I.)) | In section 14(4), the words following paragraph (d). |
+
+|  |  |
+|---|---|
+| *Short title and chapter* | *Extent of repeal* |
+| Representation of the People Act 1983 (c. 2) | In Schedule 2A, paragraph 1(7). |
+| Political Parties, Elections and Referendums Act 2000 (c. 41) | Section 42(5). Chapter 4 of Part 4. Section 156(4)(d). In Schedule 7, paragraphs 1(10) and (11) and 16. |
+| Electoral Administration Act 2006 (c. 22) | Section 60. |
+
+|  |  |
+|---|---|
+| *Short title and chapter* | *Extent of repeal* |
+| Northern Ireland Act 1998 (c. 47) | In Schedule 2, paragraph 3(a). In Schedule 3, paragraph 9(f). |
+
+|  |  |
+|---|---|
+| *Short title and number* | *Extent of repeal or revocation* |
+| Northern Ireland (Loans) Act 1975 (c. 83) | In section 1(5), “, on not more than one occasion,”. |
+| Northern Ireland (Loans) Act 1985 (c. 76) | The whole Act. |
+| Northern Ireland (Loans) (Increase of Limit) Order 1995 (S.I. 1995/675) | The whole Order. |
+
+|  |  |
+|---|---|
+| *Short title and chapter* | *Extent of repeal* |
+| Serious Organised Crime and Police Act 2005 (c. 15) | In section 60—<br>- (a) in subsection (1), “and” at the end of paragraph (b);<br>- (b) in subsection (5), “or” at the end of paragraph (b). |
+
+---
+
+[^F1]: Words in s. 1(1)(b) repealed (31.12.2020) by The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310), reg. 1, Sch. 1 Pt. 1 (as amended by S.I. 2019/1389, regs. 1, 2(2))
+[^F2]: S. 7 omitted (13.3.2014) by virtue of Northern Ireland (Miscellaneous Provisions) Act 2014 (c. 13), ss. 20(7)(b), 28(1)(e)
+[^F3]: S. 13(2) repealed (1.7.2008) by The Electoral Administration Act 2006 (Regulation of Loans etc: Northern Ireland) Order 2008 (S.I. 2008/1319), art. 4(3)
+[^F4]: S. 14 substituted (13.3.2014) by Northern Ireland (Miscellaneous Provisions) Act 2014 (c. 13), ss. 1(1)(a), 28(1)(a)(i)
+[^F5]: Ss. 15A, 15B inserted (13.3.2014) by Northern Ireland (Miscellaneous Provisions) Act 2014 (c. 13), ss. 1(2), 28(1)(a)(i)
+[^F6]: Words in s. 16(3) substituted (8.5.2007) by Northern Ireland (St Andrews Agreement) Act 2006 (c. 53), ss. 18(5), 27(4)(5) (as amended by Northern Ireland (St Andrews Agreement) Act 2007 (c. 4), s. 1); S.I. 2007/1397, art. 2
+[^F7]: Words in s. 16(5) substituted (8.5.2007) by Northern Ireland (St Andrews Agreement) Act 2006 (c. 53), ss. 18(6), 27(4)(5) (as amended by Northern Ireland (St Andrews Agreement) Act 2007 (c. 4), s. 1); S.I. 2007/1397, art. 2
+[^F8]: Words in s. 17(1) substituted (11.3.2009) by Justice and Security (Northern Ireland) Act 2007 (c. 6), ss. 44(2), 53; S.I. 2009/446, art. 3
+[^F9]: Words in s. 17(1) inserted (11.3.2009) by Justice and Security (Northern Ireland) Act 2007 (c. 6), ss. 44(3), 53; S.I. 2009/446, art. 3
+[^F10]: Words in s. 17(1) substituted (11.3.2009) by Justice and Security (Northern Ireland) Act 2007 (c. 6), ss. 44(4)(a), 53; S.I. 2009/446, art. 3
+[^F11]: Words in s. 17(1) inserted (11.3.2009) by Justice and Security (Northern Ireland) Act 2007 (c. 6), ss. 44(4)(b), 53; S.I. 2009/446, art. 3
+[^F12]: Words in s. 17(1) inserted (11.3.2009) by Justice and Security (Northern Ireland) Act 2007 (c. 6), ss. 44(5), 53; S.I. 2009/446, art. 3
+[^F13]: Words in s. 17(1) substituted (8.5.2007) by Northern Ireland (St Andrews Agreement) Act 2006 (c. 53), ss. 18(7), 27(4)(5) (as amended by Northern Ireland (St Andrews Agreement) Act 2007 (c. 4), s. 1); S.I. 2007/1397, art. 2
+[^F14]: Words in s. 25(2) substituted (9.5.2016) by The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76), art. 1(3), Sch. 6 para. 11 (with art. 9(2))
+[^F15]: Words in s. 25(3) substituted (9.5.2016) by The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76), art. 1(3), Sch. 6 para. 11 (with art. 9(2))
+[^F16]: S. 28 omitted (12.4.2010) by virtue of Northern Ireland Act 2009 (c. 3), s. 5(7), Sch. 5 para. 9; S.I. 2010/812, art. 2
+[^F17]: Word in Sch. 1 heading substituted (13.3.2014) by Northern Ireland (Miscellaneous Provisions) Act 2014 (c. 13), ss. 1(1)(b), 28(1)(a)(i)
+[^F18]: Words in Sch. 2 inserted (8.5.2007) by Northern Ireland (St Andrews Agreement) Act 2006 (c. 53), ss. 8, 27(4)(5), Sch. 5 para. 9 (as amended by Northern Ireland (St Andrews Agreement) Act 2007 (c. 4), s. 1); S.I. 2007/1397, art. 2
+[^F19]: Words in Sch. 2 substituted (8.5.2007) by Northern Ireland (St Andrews Agreement) Act 2006 (c. 53), ss. 8, 27(4)(5), Sch. 5 para. 10 (as amended by Northern Ireland (St Andrews Agreement) Act 2007 (c. 4), s. 1); S.I. 2007/1397, art. 2
+[^F20]: Words in Sch. 2 inserted (8.5.2007) by Northern Ireland (St Andrews Agreement) Act 2006 (c. 53), ss. 9, 27(4)(5), Sch. 6 para. 2(2) (as amended by Northern Ireland (St Andrews Agreement) Act 2007 (c. 4), s. 1); S.I. 2007/1397, art. 2
+[^F21]: Words in Sch. 2 inserted (8.5.2007) by Northern Ireland (St Andrews Agreement) Act 2006 (c. 53), ss. 9, 27(4)(5), Sch. 6 para. 2(3) (as amended by Northern Ireland (St Andrews Agreement) Act 2007 (c. 4), s. 1); S.I. 2007/1397, art. 2
+[^F22]: Words in Sch. 2 inserted (8.5.2007) by Northern Ireland (St Andrews Agreement) Act 2006 (c. 53), ss. 9, 27(4)(5), Sch. 6 para. 2(4) (as amended by Northern Ireland (St Andrews Agreement) Act 2007 (c. 4), s. 1); S.I. 2007/1397, art. 2
+[^F23]: Words in Sch. 2 inserted (8.5.2007) by Northern Ireland (St Andrews Agreement) Act 2006 (c. 53), ss. 9, 27(4)(5), Sch. 6 para. 2(5) (as amended by Northern Ireland (St Andrews Agreement) Act 2007 (c. 4), s. 1); S.I. 2007/1397, art. 2
+[^F24]: Words in Sch. 2 inserted (8.5.2007) by Northern Ireland (St Andrews Agreement) Act 2006 (c. 53), ss. 8, 27(4)(5), Sch. 5 para. 11 (as amended by Northern Ireland (St Andrews Agreement) Act 2007 (c. 4), s. 1); S.I. 2007/1397, art. 2
+[^F25]: Words in Sch. 2 substituted (8.5.2007) by Northern Ireland (St Andrews Agreement) Act 2006 (c. 53), ss. 8, 27(4)(5), Sch. 5 para. 12 (as amended by Northern Ireland (St Andrews Agreement) Act 2007 (c. 4), s. 1); S.I. 2007/1397, art. 2
+[^F26]: Words in Sch. 2 inserted (8.5.2007) by Northern Ireland (St Andrews Agreement) Act 2006 (c. 53), ss. 9, 27(4)(5), Sch. 6 para. 3(2) (as amended by Northern Ireland (St Andrews Agreement) Act 2007 (c. 4), s. 1); S.I. 2007/1397, art. 2
+[^F27]: Words in Sch. 2 inserted (8.5.2007) by Northern Ireland (St Andrews Agreement) Act 2006 (c. 53), ss. 9, 27(4)(5), Sch. 6 para. 3(3) (as amended by Northern Ireland (St Andrews Agreement) Act 2007 (c. 4), s. 1); S.I. 2007/1397, art. 2
+[^F28]: Words in Sch. 2 inserted (8.5.2007) by Northern Ireland (St Andrews Agreement) Act 2006 (c. 53), ss. 9, 27(4)(5), Sch. 6 para. 3(4) (as amended by Northern Ireland (St Andrews Agreement) Act 2007 (c. 4), s. 1); S.I. 2007/1397, art. 2
+[^F29]: Words in Sch. 2 inserted (8.5.2007) by Northern Ireland (St Andrews Agreement) Act 2006 (c. 53), ss. 9, 27(4)(5), Sch. 6 para. 3(5) (as amended by Northern Ireland (St Andrews Agreement) Act 2007 (c. 4), s. 1); S.I. 2007/1397, art. 2
+[^F30]: Words in Sch. 2 inserted (8.5.2007) by Northern Ireland (St Andrews Agreement) Act 2006 (c. 53), ss. 8, 27(4)(5), Sch. 5 para. 13 (as amended by Northern Ireland (St Andrews Agreement) Act 2007 (c. 4), s. 1); S.I. 2007/1397, art. 2
+[^F31]: Words in Sch. 2 substituted (8.5.2007) by Northern Ireland (St Andrews Agreement) Act 2006 (c. 53), ss. 8, 27(4)(5), Sch. 5 para. 14 (as amended by Northern Ireland (St Andrews Agreement) Act 2007 (c. 4), s. 1); S.I. 2007/1397, art. 2
+[^F32]: Words in Sch. 2 inserted (8.5.2007) by Northern Ireland (St Andrews Agreement) Act 2006 (c. 53), ss. 9, 27(4)(5), Sch. 6 para. 4(2) (as amended by Northern Ireland (St Andrews Agreement) Act 2007 (c. 4), s. 1); S.I. 2007/1397, art. 2
+[^F33]: Words in Sch. 2 inserted (8.5.2007) by Northern Ireland (St Andrews Agreement) Act 2006 (c. 53), ss. 9, 27(4)(5) (as amended by Northern Ireland (St Andrews Agreement) Act 2007 (c. 4), s. 1, Sch. 6 para. 4(3)); S.I. 2007/1397, art. 2
+[^F34]: Words in Sch. 2 inserted (8.5.2007) by Northern Ireland (St Andrews Agreement) Act 2006 (c. 53), ss. 9, 27(4)(5), Sch. 6 para. 4(4) (as amended by Northern Ireland (St Andrews Agreement) Act 2007 (c. 4), s. 1); S.I. 2007/1397, art. 2
+[^F35]: Words in Sch. 2 inserted (8.5.2007) by Northern Ireland (St Andrews Agreement) Act 2006 (c. 53), ss. 9, 27(4)(5), Sch. 6 para. 4(5) (as amended by Northern Ireland (St. Andrews Agreement) Act 2007 (c. 4), s. 1); S.I. 2007/1397, art. 2
+[^F36]: Words in Sch. 2 inserted (11.3.2009) by Justice and Security (Northern Ireland) Act 2007 (c. 6), s. 44, 53, Sch. 5 para. 2; S.I. 2009/446, art. 3
+[^F37]: Words in Sch. 2 substituted (11.3.2009) by Justice and Security (Northern Ireland) Act 2007 (c. 6), ss. 44, 53, Sch. 5 para. 3; S.I. 2009/446, art. 3
+[^F38]: Sch. 4 para. 7(4) omitted (1.10.2014) by virtue of Northern Ireland (Miscellaneous Provisions) Act 2014 (c. 13), ss. 16(2)(b), 28; S.I. 2014/2613, art. 2(2)(c)
+[^F39]: Sch. 4 para. 8 repealed (2.4.2013) by Electoral Registration and Administration Act 2013 (c. 6), ss. 23(2), 27(1); S.I. 2013/702, art. 3(e)
+[^F40]: Sch. 4 para. 13(3) omitted (12.4.2010) by virtue of The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976), arts. 1(2), 27(4) (with arts. 28-31)

@@ -1,0 +1,623 @@
+---
+title: "Sexual Offences (Amendment) Act 1992"
+identifier: "ukpga/1992/34"
+citation: "1992 c. 34"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S+N.I."
+date: 1992-03-16
+last_amended: 2024-01-31
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/1992/34"
+source_modified: 2026-09-17
+retrieved: 2026-10-11
+---
+
+# Sexual Offences (Amendment) Act 1992
+
+**1992 c. 34**
+
+An Act to make provision with respect to anonymity in connection with allegations of, and criminal proceedings relating to, certain sexual offences.
+
+[16th March 1992]
+
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## 1 Anonymity of victims of certain offences.
+
+(1) Where an allegation has been made that an offence to which this Act applies has been committed against a person, [[^F1]no matter relating to that person shall during that person’s lifetime be included in any publication] if it is likely to lead members of the public to identify that person as the person against whom the offence is alleged to have been committed.
+
+(2) Where a person is accused of an offence to which this Act applies, no matter likely to lead members of the public to identify a person as the person against whom the offence is alleged to have been committed (“the complainant”) shall during the complainant’s lifetime [[^F2]be included in any publication.]
+
+[[^F3](3) This section—
+
+(a) does not apply in relation to a person by virtue of subsection (1) at any time after a person has been accused of the offence, and
+
+(b) in its application in relation to a person by virtue of subsection (2), has effect subject to any direction given under section 3.
+
+(3A) The matters relating to a person in relation to which the restrictions imposed by subsection (1) or (2) apply (if their inclusion in any publication is likely to have the result mentioned in that subsection) include in particular—
+
+(a) the person’s name,
+
+(b) the person’s address,
+
+(c) the identity of any school or other educational establishment attended by the person,
+
+(d) the identity of any place of work, and
+
+(e) any still or moving picture of the person.]
+
+(4) Nothing in this section prohibits the [[^F4]inclusion in a publication] of matter consisting only of a report of criminal proceedings other than proceedings at, or intended to lead to, or on an appeal arising out of, a trial at which the accused is charged with the offence.
+
+## 2 Offences to which this Act applies.
+
+(1) This Act applies to the following offences [[^F5]against the law of England and Wales—
+
+(aa) rape;
+
+(ab) burglary with intent to rape;]
+
+(a) any offence under any of the provisions of the [^M1]Sexual Offences Act 1956 mentioned in subsection (2);
+
+(b) any offence under section 128 of the [^M2]Mental Health Act 1959 (intercourse with mentally handicapped person by hospital staff etc.);
+
+(c) any offence under section 1 of the [^M3]Indecency with Children Act 1960 (indecent conduct towards young child);
+
+(d) any offence under section 54 of the [^M4]Criminal Law Act 1977 (incitement by man of his grand-daughter, daughter or sister under the age of 16 to commit incest with him);
+
+[[^F6](da) any offence under any of the provisions of Part 1 of the Sexual Offences Act 2003 except section 64, 65, 69 or 71;]
+
+[[^F7](db) any offence under section 2 of the Modern Slavery Act 2015 (human trafficking);]
+
+(e) any attempt to commit any of the offences mentioned in paragraphs [[^F8](aa)] to [[^F9](db) ].
+
+[[^F10](f) any conspiracy to commit any of those offences;
+
+(g) any incitement of another to commit any of those offences.]
+
+[[^F11](h) aiding, abetting, counselling or procuring the commission of any of the offences mentioned in paragraphs (aa) to (e) and (g);]
+
+(2) The provisions of the Act of 1956 are—
+
+(a) section 2 (procurement of a woman by threats);
+
+(b) section 3 (procurement of a woman by false pretences);
+
+(c) section 4 (administering drugs to obtain intercourse with a woman);
+
+(d) section 5 (intercourse with a girl under the age of 13);
+
+(e) section 6 (intercourse with a girl between the ages of 13 and 16);
+
+(f) section 7 (intercourse with a mentally handicapped person);
+
+(g) section 9 (procurement of a mentally handicapped person);
+
+(h) section 10 (incest by a man);
+
+(i) section 11 (incest by a woman);
+
+(j) section 12 (buggery);
+
+(k) section 14 (indecent assault on a woman);
+
+(l) section 15 (indecent assault on a man);
+
+(m) section 16 (assault with intent to commit buggery).
+
+[[^F12](n) section 17 (abduction of woman by force).]
+
+[[^F13](3) This Act applies to the following offences against the law of Northern Ireland—
+
+(a) rape;
+
+(b) burglary with intent to rape;
+
+(c) any offence under any of the following provisions of the [^M5]Offences against the Person Act 1861—
+
+(i) section 52 (indecent assault on a female);
+
+(ii) section 53 so far as it relates to abduction of a woman against her will;
+
+(iii) section 61 (buggery);
+
+(iv) section 62 (attempt to commit buggery, assault with intent to commit buggery or indecent assault on a male);
+
+(d) any offence under any of the following provisions of the [^M6]Criminal Law Amendment Act 1885—
+
+(i) section 3 (procuring unlawful carnal knowledge of woman by threats, false pretences or administering drugs);
+
+(ii) section 4 (unlawful carnal knowledge, or attempted unlawful carnal knowledge, of a girl under 14);
+
+(iii) section 5 (unlawful carnal knowledge of a girl under 17);
+
+(e) any offence under any of the following provisions of the [^M7]Punishment of Incest Act 1908—
+
+(i) section 1 (incest, attempted incest by males);
+
+(ii) section 2 (incest by females over 16);
+
+(f) any offence under section 22 of the [^M8]Children and Young Persons Act (Northern Ireland) 1968 (indecent conduct towards child);
+
+(g) any offence under Article 9 of the [^M9]Criminal Justice (Northern Ireland) Order 1980 (inciting girl under 16 to have incestuous sexual intercourse);
+
+(h) any offence under any of the following provisions of the [^M10]Mental Health (Northern Ireland) Order 1986—
+
+(i) Article 122(1)(a) (unlawful sexual intercourse with a woman suffering from severe mental handicap);
+
+(ii) Article 122(1)(b) (procuring a woman suffering from severe mental handicap to have unlawful sexual intercourse);
+
+(iii) Article 123 (unlawful sexual intercourse by hospital staff, etc. with a person receiving treatment for mental disorder);
+
+[[^F14](hh) any offence under any of the following provisions of the Criminal Justice (Northern Ireland) Order 2003—
+
+(i) Article 19 (buggery);
+
+(ii) Article 20 (assault with intent to commit buggery);
+
+(iii) Article 21 (indecent assault on a male);]
+
+[[^F15](ha) any offence under any of sections 15 to 21, 47 to 53, [^F16]... 66, 67, 70 and 72 of the Sexual Offences Act 2003.]
+
+[[^F17](hb) any offence under—
+
+(i) any provision of Part 2, 3 or 4, or
+
+(ii) Article 65, 66, 67, 70, 71, [[^F18]71A, 71B, 72A] or 74,
+
+of the Sexual Offences (Northern Ireland) Order 2008;]
+
+[[^F19](hc) any offence under section 2 of the Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015;]
+
+(i) any attempt to commit any of the offences mentioned in paragraphs (a) to [[^F20](hc)];
+
+(j) any conspiracy to commit any of those offences;
+
+(k) any incitement of another to commit any of those offences;
+
+(l) aiding, abetting, counselling or procuring the commission of any of the offences mentioned in paragraphs (a) to (i) and (k).]
+
+[[^F21](4) This Act applies to an offence under section 42 of the Armed Forces Act 2006 if the corresponding offence under the law of England and Wales (within the meaning given by that section) is an offence within a paragraph of subsection (1) above.]
+
+## 3 Power to displace section 1.
+
+(1) If, before the commencement of a trial at which a person is charged with an offence to which this Act applies, he or another person against whom the complainant may be expected to give evidence at the trial, applies to the judge for a direction under this subsection and satisfies the judge—
+
+(a) that the direction is required for the purpose of inducing persons who are likely to be needed as witnesses at the trial to come forward; and
+
+(b) that the conduct of the applicant’s defence at the trial is likely to be substantially prejudiced if the direction is not given,
+
+the judge shall direct that section 1 shall not, by virtue of the accusation alleging the offence in question, apply in relation to the complainant.
+
+(2) If at a trial the judge is satisfied—
+
+(a) that the effect of section 1 is to impose a substantial and unreasonable restriction upon the reporting of proceedings at the trial, and
+
+(b) that it is in the public interest to remove or relax the restriction,
+
+he shall direct that that section shall not apply to such matter as is specified in the direction.
+
+(3) A direction shall not be given under subsection (2) by reason only of the outcome of the trial.
+
+(4) If a person who has been convicted of an offence and has given notice of appeal against the conviction, or notice of an application for leave so to appeal, applies to the appellate court for a direction under this subsection and satisfies the court—
+
+(a) that the direction is required for the purpose of obtaining evidence in support of the appeal; and
+
+(b) that the applicant is likely to suffer substantial injustice if the direction is not given,
+
+the court shall direct that section 1 shall not, by virtue of an accusation which alleges an offence to which this Act applies and is specified in the direction, apply in relation to a complainant so specified.
+
+(5) A direction given under any provision of this section does not affect the operation of section 1 at any time before the direction is given.
+
+(6) In subsections (1) and (2), “judge” means—
+
+(a) in the case of an offence which is to be tried summarily or for which the mode of trial has not been determined, any justice of the peace [^F22]... ; and
+
+(b) in any other case, any judge of the Crown Court [[^F23]in England and Wales].
+
+[[^F24](6A) In its application to Northern Ireland, this section has effect as if—
+
+(a) in subsections (1) and (2) for any reference to the judge there were substituted a reference to the court; and
+
+(b) subsection (6) were omitted.]
+
+[[^F25](6B) Where a person is charged with an offence to which this Act applies by virtue of section 2(4), this section applies as if—
+
+(a) in subsections (1) and (2) for any reference to the judge there were substituted a reference to the court; and
+
+(b) subsections (6) and (6A) were omitted.]
+
+(7) If, after the commencement of a trial at which a person is charged with an offence to which this Act applies, a new trial of the person for that offence is ordered, the commencement of any previous trial shall be disregarded for the purposes of subsection (1).
+
+## 3A [[^F26]Disapplication of section 1 after victim’s death
+
+(1) Subsection (2) applies where matters relating to a person (“A”) are prohibited from publication by virtue of section 1(1) or (2).
+
+(2) An interested party may after A’s death apply to a magistrates’ court for an order—
+
+(a) disapplying, or
+
+(b) modifying the application of,
+
+section 1(1) or (2) in relation to A.
+
+(3) For the avoidance of doubt, the modifications that may be made under subsection (2)(b) include increasing or decreasing the period mentioned in section 1(1)(b) or (2)(b) (the period during which publication is prohibited).
+
+(4) In this section, “interested party” means—
+
+(a) a person who was a family member of A at the time of A’s death;
+
+(b) a personal representative of A;
+
+(c) a person interested in publishing matters relating to A which are prohibited from publication by virtue of section 1(1) or (2).
+
+(5) On an application under subsection (2), the court must make an order under that subsection if the court is satisfied that it would be—
+
+(a) in the interests of justice, or
+
+(b) otherwise in the public interest,
+
+to make such an order.
+
+(6) An order made under subsection (2) may be varied or revoked by order of a magistrates’ court on the application of an interested party where the court is satisfied that it would be—
+
+(a) in the interests of justice, or
+
+(b) otherwise in the public interest,
+
+to make such a variation or revocation.
+
+(7) An order made under this section does not affect the operation of section 1 at any time before the order was made.
+
+(8) In this section, “a family member of A” means—
+
+(a) a person who at the time of A’s death was—
+
+(i) married to A;
+
+(ii) in a civil partnership with A;
+
+(iii) living with A as if a spouse;
+
+(b) a relative of A.
+
+(9) For the purposes of this section—
+
+(a) “relative” means parent, child, grandparent, great-grandparent, grandchild, great-grandchild, brother, sister, uncle, great-uncle, aunt, great-aunt, nephew, great-nephew, niece or great-niece;
+
+(b) a relationship of the half-blood or by affinity is to be treated as a relationship of the whole blood;
+
+(c) the stepchild of a person is to be treated as that person’s child.
+
+(10) In this section, “a person interested in publishing matters” means a person who—
+
+(a) wishes the matters to be included in a publication, and
+
+(b) in relation to the publication, is a person mentioned in section 5(1) (persons by whom an offence relating to publishing may be committed).
+
+(11) In subsections (1) and (4)(c), a reference to matters being prohibited from publication includes matters being partially prohibited from publication following the making of an order under this section modifying the application of section 1(1) or (2) in relation to A.
+
+## 3B Rules of Court
+
+(1) Rules of Court may make such provision relating to orders under section 3A as appears to the authority making them to be necessary or expedient for the purposes of that section.
+
+(2) Rules of Court may, in particular, make provision—
+
+(a) for notice of applications to be given to such persons as may be prescribed by the rules;
+
+(b) for applications to be heard in private;
+
+(c) as to the matters to be taken into consideration by a court in determining whether it is in the interests of justice, or the public interest, to make, vary or revoke an order under section 3A.
+
+(3) Nothing in subsections (1) and (2) is to be taken to affect the generality of any enactment conferring power to make Rules of Court; and no particular provision of those subsections prejudices any general provision of them.]
+
+## 4 Special rules for cases of incest or buggery.
+
+(1) In this section—
+
+- “section 10 offence” means an offence under section 10 of the [^M11]Sexual Offences Act 1956 (incest by a man) or an attempt to commit that offence;
+- “section 11 offence” means an offence under section 11 of that Act (incest by a woman) or an attempt to commit that offence;
+- “section 12 offence” means an offence under section 12 of that Act (buggery) or an attempt to commit that offence.
+
+(2) Section 1 does not apply to a woman against whom a section 10 offence is alleged to have been committed if she is accused of having committed a section 11 offence against the man who is alleged to have committed the section 10 offence against her.
+
+(3) Section 1 does not apply to a man against whom a section 11 offence is alleged to have been committed if he is accused of having committed a section 10 offence against the woman who is alleged to have committed the section 11 offence against him.
+
+(4) Section 1 does not apply to a person against whom a section 12 offence is alleged to have been committed if that person is accused of having committed a section 12 offence against the person who is alleged to have committed the section 12 offence against him.
+
+(5) Subsection (2) does not affect the operation of this Act in relation to anything done at any time before the woman is accused.
+
+(6) Subsection (3) does not affect the operation of this Act in relation to anything done at any time before the man is accused.
+
+(7) Subsection (4) does not affect the operation of this Act in relation to anything done at any time before the person mentioned first in that subsection is accused.
+
+[[^F27](8) In its application to Northern Ireland, this section has effect as if—
+
+(a) subsection (1) were omitted;
+
+(b) for references to a section 10 offence there were substituted references to an offence under section 1 of the [^M12]Punishment of Incest Act 1908 (incest by a man) or an attempt to commit that offence;
+
+(c) for references to a section 11 offence there were substituted references to an offence under section 2 of that Act (incest by a woman) or an attempt to commit that offence; and
+
+(d) for references to a section 12 offence there were substituted references to an offence under [[^F28]Article 19 of the Criminal Justice (Northern Ireland) Order 2003] (buggery) or an attempt to commit that offence.]
+
+[^F29]9 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 5 Offences.
+
+[[^F30](1) If any matter is included in a publication in contravention of section 1, the following persons shall be guilty of an offence [^F31]and liable on summary conviction to a fine not exceeding level 5 on the standard scale—
+
+(a) where the publication is a newspaper or periodical, any proprietor, any editor and any publisher of the newspaper or periodical;
+
+(b) where the publication is a relevant programme—
+
+(i) any body corporate or Scottish partnership engaged in providing the programme service in which the programme is included; and
+
+(ii) any person having functions in relation to the programme corresponding to those of an editor of a newspaper;
+
+(c) in the case of any other publication, any person publishing it.]
+
+[[^F32](1A) A person guilty of an offence under this section is liable on summary conviction to imprisonment for a term not exceeding 6 months or to a fine not exceeding level 5 on the standard scale, or to both.]
+
+(2) Where a person is charged with an offence under this section in respect of the [[^F33]inclusion of any matter in a publication], it shall be a defence, subject to subsection (3), to prove that the publication [^F34]... in which the matter appeared was one in respect of which the person against whom the offence mentioned in section 1 is alleged to have been committed had given written consent to the appearance of matter of that description.
+
+(3) Written consent is not a defence if it is proved that any person interfered unreasonably with the peace or comfort of the person giving the consent, with intent to obtain it[[^F35], or that person was under the age of 16 at the time when it was given].
+
+(4) Proceedings for an offence under this section shall not be instituted except by or with the consent of the Attorney General [[^F36]if the offence is alleged to have been committed in England and Wales or of the Attorney General for Northern Ireland if the offence is alleged to have been committed in Northern Ireland].
+
+(5) Where a person is charged with an offence under this section it shall be a defence to prove that at the time of the alleged offence he was not aware, and neither suspected nor had reason to suspect, that the publication [[^F37]included the matter in question.]
+
+[[^F38](5A) Where—
+
+(a) a person is charged with an offence under this section, and
+
+(b) the offence relates to the inclusion of any matter in a publication in contravention of section 1(1),
+
+it shall be a defence to prove that at the time of the alleged offence he was not aware, and neither suspected nor had reason to suspect, that the allegation in question had been made.]
+
+(6) Where an offence under this section committed by a body corporate is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of—
+
+(a) a director, manager, secretary or other similar officer of the body corporate, or
+
+(b) a person purporting to act in any such capacity,
+
+he as well as the body corporate shall be guilty of the offence and liable to be proceeded against and punished accordingly.
+
+(7) In relation to a body corporate whose affairs are managed by its members “director”, in subsection (6), means a member of the body corporate.
+
+[[^F39](8) Where an offence under this section is committed by a Scottish partnership and is proved to have been committed with the consent or connivance of a partner, he as well as the partnership shall be guilty of the offence and shall be liable to be proceeded against and punished accordingly.]
+
+[[^F40](9) The Schedule contains special rules relating to providers of information society services.]
+
+## 6 Interpretation etc.
+
+(1) In this Act—
+
+- “complainant” has the meaning given in section 1(2);
+- [^F41]...
+- “picture” includes a likeness however produced;
+- [[^F42]“publication” includes any speech, writing, relevant programme or other communication in whatever form, which is addressed to the public at large or any section of the public (and for this purpose every relevant programme shall be taken to be so addressed), but does not include an indictment or other document prepared for use in particular legal proceedings;]
+- “relevant programme” means a programme included in a programme service, within the meaning of the [^M13]Broadcasting Act 1990; and
+- [^F41]...
+- [^F43]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[[^F44](1A) Section 48 of the Armed Forces Act 2006 (attempts, conspiracy, [[^F45] encouragement and assistance] and aiding and abetting outside England and Wales) applies for the purposes of this Act as if the reference in subsection (3)(b) of that section to any of the following provisions of that Act were a reference to any provision of this Act.]
+
+(2) For the purposes of this Act—
+
+(a) where it is alleged that an offence to which this Act applies has been committed, the fact that any person has consented to an act which, on any prosecution for that offence, would fall to be proved by the prosecution, does not prevent that person from being regarded as a person against whom the alleged offence was committed; and
+
+(b) where a person is accused of an offence of incest or buggery, the other party to the act in question shall be taken to be a person against whom the offence was committed even though he consented to that act.
+
+[[^F46](2A) For the purposes of this Act, where it is alleged or there is an [[^F47]accusation—
+
+(a) that an offence of conspiracy or incitement of another to commit an offence mentioned in section 2(1)(aa) to (d) or (3)(a) to [^F48](h)[[^F48](hh)] has been committed, or
+
+(b) that an offence of aiding, abetting, counselling or procuring the commission of an offence of incitement of another to commit an offence mentioned in section 2(1)(aa) to (d) or (3)(a) to [^F49](h)[[^F49](hh)] has been committed,
+
+the] person against whom the substantive offence is alleged to have been intended to be committed shall be regarded as the person against whom the conspiracy or incitement is alleged to have been committed.
+
+In this subsection, “the substantive offence” means the offence to which the alleged conspiracy or incitement related.]
+
+[[^F50](2B) For the purposes of this Act, where it is alleged or there is an accusation that an offence under section 66B(4) of the Sexual Offences Act 2003 (threatening to share intimate photograph or film) has been committed, the person against whom the offence is alleged to have been committed is to be regarded as—
+
+(a) the person to whom the threat mentioned in that subsection is alleged to have been made, and
+
+(b) (if different) the person shown, or who appears to be shown, in an intimate state in the photograph or film that is the subject of the threat.]
+
+(3) For the purposes of this Act, a person is accused of an offence [[^F51], other than [[^F52]an offence under section 42 of the Armed Forces Act 2006],] if—
+
+(a) an information is laid[[^F53], or (in Northern Ireland) a complaint is made,] alleging that he has committed the offence,
+
+(b) he appears before a court charged with the offence,
+
+(c) a court before which he is appearing [^F54]commits him[[^F54]sends him to the Crown Court] for trial on a new charge alleging the offence, or
+
+(d) a bill of indictment charging him with the offence is preferred before a court in which he may lawfully be indicted for the offence,
+
+and references in [[^F55]subsection (2A) and in] section 3 to an accusation alleging an offence shall be construed accordingly.
+
+[[^F56](3A) For the purposes of this Act, a person is accused of [[^F57]an offence under section 42 of the Armed Forces Act 2006 if he is charged (under Part 5 of that Act) with the offence], and references in section 3 to an accusation alleging an offence shall be construed accordingly.]
+
+(4) Nothing in this Act affects any prohibition or restriction imposed by virtue of any other enactment upon a publication or upon matter included in a relevant programme.
+
+## [^F58]7 Courts-martial.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 8 Short title, commencement and extent, etc.
+
+(1) This Act may be cited as the Sexual Offences (Amendment) Act 1992.
+
+(2) This Act and the Sexual Offences Acts 1956 to 1976 may be cited together as the Sexual Offences Acts 1956 to 1992.
+
+(3) This section comes into force on the passing of this Act but otherwise this Act comes into force on such date as may be appointed by order made by the Secretary of State.
+
+(4) The power to make an order under subsection (3) shall be exercisable by statutory instrument.
+
+(5) Different dates may be appointed for different provisions of this Act and for different purposes.
+
+[[^F59](6) This Act extends to England and Wales, Scotland and Northern Ireland.
+
+[^F60]7 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .]
+
+## [[^F61]SCHEDULE — OFFENCE OF BREACH OF ANONYMITY: PROVIDERS OF INFORMATION SOCIETY SERVICES
+
+*Section 5(9).*
+
+### Exceptions for mere conduits
+
+**1** (1) A service provider does not commit an offence under section 5 by providing access to a communication network or by transmitting, in a communication network, information provided by a recipient of the service, if the service provider does not—
+
+(a) initiate the transmission,
+
+(b) select the recipient of the transmission, or
+
+(c) select or modify the information contained in the transmission.
+
+(2) For the purposes of sub-paragraph (1)—
+
+(a) providing access to a communication network, and
+
+(b) transmitting information in a communication network,
+
+include the automatic, intermediate and transient storage of the information transmitted so far as the storage is solely for the purpose of carrying out the transmission in the network.
+
+(3) Sub-paragraph (2) does not apply if the information is stored for longer than is reasonably necessary for the transmission.
+
+### Exception for caching
+
+**2** (1) A service provider does not commit an offence under section 5 by storing information provided by a recipient of the service for transmission in a communication network if the first and second conditions are met.
+
+(2) The first condition is that the storage of the information—
+
+(a) is automatic, intermediate and temporary, and
+
+(b) is solely for the purpose of making more efficient the onward transmission of the information to other recipients of the service at their request.
+
+(3) The second condition is that the service provider—
+
+(a) does not modify the information,
+
+(b) complies with any conditions attached to having access to the information, and
+
+(c) if sub-paragraph (4) applies, promptly removes the information or disables access to it.
+
+(4) This sub-paragraph applies if the service provider obtains actual knowledge that—
+
+(a) the information at the initial source of the transmission has been removed from the network,
+
+(b) access to it has been disabled, or
+
+(c) a court or administrative authority has ordered the removal from the network of, or the disablement of access to, the information.
+
+### Exception for hosting
+
+**3** (1) A service provider does not commit an offence under section 5 by storing information provided by a recipient of the service if—
+
+(a) the service provider had no actual knowledge when the information was provided that its provision constituted an offence under section 5, or
+
+(b) on obtaining actual knowledge that the information constituted such an offence, the service provider promptly removed the information or disabled access to it.
+
+(2) Sub-paragraph (1) does not apply if the recipient of the service is acting under the authority or control of the service provider.
+
+### Interpretation
+
+**4** In this Schedule—
+
+- “information society service” means any service normally provided—
+
+  - for remuneration,
+  
+  - at a distance (namely, the service is provided without the parties being simultaneously present),
+  
+  - by electronic means (namely, the service is—
+  
+    - sent initially and received at its destination by means of electronic equipment for the processing (including digital compression) and storage of data, and
+    - entirely transmitted, conveyed and received by wire, radio, optical means or other electromagnetic means), and
+  
+  - at the individual request of a recipient of services (namely, the service is provided through the transmission of data on individual request);
+
+- “recipient”, in relation to a service, means a person who, for professional ends or otherwise, uses an information society service, in particular for the purposes of seeking information or making it accessible;
+
+- “service provider” means a person providing an information society service.]
+
+---
+
+[^F1]: Words in s. 1(1) substituted (7.10.2004 for E.W., 7.10.2004 for S. for specified purposes, 8.11.2004 for N.I.) by Youth Justice and Criminal Evidence Act 1999 (c. 23), s. 68(3)(4), Sch. 2 para. 7(2) (with Sch. 7); S.S.I. 2004/408, art. 3(c); S.R. 2004/467, art. 2(c); S.I. 2004/2428, art. 2(e)
+[^F2]: Words in s. 1(2) substituted (7.10.2004 for E.W., 7.10.2004 for S. for specified purposes, 8.11.2004 for N.I.) by Youth Justice and Criminal Evidence Act 1999 (c. 23), s. 68(3)(4), Sch. 2 para. 7(3) (with Sch. 7); S.S.I. 2004/408, art. 3(c); S.R. 2004/467, art. 2(c); S.I. 2004/2428, art. 2(e)
+[^F3]: S. 1(3)(3A) substituted for s. 1(3) (7.10.2004 for E.W., 7.10.2004 for S. for specified purposes, 8.11.2004 for N.I.) by Youth Justice and Criminal Evidence Act 1999 (c. 23), s. 68(3)(4), Sch. 2 para. 7(4) (with Sch. 7); S.S.I. 2004/408, art. 3(c); S.R. 2004/467, art. 2(c); S.I. 2004/2428, art. 2(e)
+[^F4]: Words in s. 1(4) substituted (7.10.2004 for E.W., 7.10.2004 for S. for specified purposes, 8.11.2004 for N.I.) by Youth Justice and Criminal Evidence Act 1999 (c. 23), s. 68(3)(4), Sch. 2 para. 7(5) (with Sch. 7); S.S.I. 2004/408, art. 3(c); S.R. 2004/467, art. 2(c); S.I. 2004/2428, art. 2(e)
+[^F5]: Words in s. 2(1) inserted (7.10.2004 for E.W., 7.10.2004 for S. for specified purposes, 8.11.2004 for N.I.) by Youth Justice and Criminal Evidence Act 1999 (c. 23), s. 68(3)(4), Sch. 2 para. 8(2) (with Sch. 7); S.S.I. 2004/408, art. 3(c); S.R. 2004/467, art. 2(c); S.I. 2004/2428, art. 2(e)
+[^M1]: 1956 c.69.
+[^M2]: 1959 c.72.
+[^M3]: 1960 c.33.
+[^M4]: 1977 c.45.
+[^F6]: S. 2(1)(da) inserted (1.5.2004) by Sexual Offences Act 2003 (c. 42), s. 141, Sch. 6 para. 31(2)(a); S.I. 2004/874, art. 2
+[^F7]: S. 2(1)(db) inserted (31.7.2015) by Modern Slavery Act 2015 (c. 30), s. 61(1), Sch. 5 para. 4(a); S.I. 2015/1476, reg. 2(j)
+[^F8]: Word in s. 2(1)(e) substituted (7.10.2004 for E.W., 7.10.2004 for S. for specified purposes, 8.11.2004 for N.I.) by Youth Justice and Criminal Evidence Act 1999 (c. 23), s. 68(3)(4), Sch. 2 para. 8(3) (with Sch. 7); S.S.I. 2004/408, art. 3(c); S.R. 2004/467, art. 2(c); S.I. 2004/2428, art. 2(e)
+[^F9]: Word in s. 2(1)(e) substituted (31.7.2015) by Modern Slavery Act 2015 (c. 30), s. 61(1), Sch. 5 para. 4(b); S.I. 2015/1476, reg. 2(j)
+[^F10]: S. 2(1)(f)(g) inserted (3.2.1995) by 1994 c. 33, s. 168(1), Sch. 9 para. 52(2); S.I. 1995/127, art. 2(1), Sch. 1 Appendix A
+[^F11]: S. 2(1)(h) inserted (7.10.2004 for E.W., 7.10.2004 for S. for specified purposes, 8.11.2004 for N.I.) by Youth Justice and Criminal Evidence Act 1999 (c. 23), s. 68(3)(4), Sch. 2 para. 8(4) (with Sch. 7); S.S.I. 2004/408, art. 3(c); S.R. 2004/467, art. 2(c); S.I. 2004/2428, art. 2(e)
+[^F12]: S. 2(2)(n) inserted (7.10.2004 for E.W., 7.10.2004 for S. for specified purposes, 8.11.2004 for N.I.) by Youth Justice and Criminal Evidence Act 1999 (c. 23), s. 68(3)(4), Sch. 2 para. 8(5) (with Sch. 7); S.S.I. 2004/408, art. 3(c); S.R. 2004/467, art. 2(c); S.I. 2004/2428, art. 2(e)
+[^F13]: S. 2(3) inserted (7.10.2004 for E.W., 7.10.2004 for S. for specified purposes, 8.11.2004 for N.I.) by Youth Justice and Criminal Evidence Act 1999 (c. 23), s. 68(3)(4), Sch. 2 para. 8(6) (with Sch. 7); S.S.I. 2004/408, art. 3(c); S.R. 2004/467, art. 2(c); S.I. 2004/2428, art. 2(e)
+[^M5]: 1861 c. 100.
+[^M6]: 1885 c. 69.
+[^M7]: 1908 c. 45.
+[^M8]: 1968 c. 34(N.I.)
+[^M9]: S.I. 1980/704 (N.I. 6).
+[^M10]: S.I. 1986/595 (N.I. 4).
+[^F14]: S. 2(3)(hh) inserted (N.I.) (28.7.2003) by The Criminal Justice (Northern Ireland) Order 2003 (S.I. 2003/1247), art. 1(3), Sch. 1 para. 12(a); S.R. 2003/352, art. 2(d)
+[^F15]: S. 2(3)(ha) inserted (1.5.2004) by Sexual Offences Act 2003 (c. 42), s. 141, Sch. 6 para. 31(3)(a); S.I. 2004/874, art. 2
+[^F16]: Words in s. 2(3)(ha) repealed (N.I.) (14.1.2015) by Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015 (c. 2), s. 28(2), Sch. 5
+[^F17]: S. 2(3)(hb) inserted (N.I.) (2.2.2009) by The Sexual Offences (Northern Ireland) Order 2008 (S.I. 2008/1769), art. 1(3), Sch. 1 para. 22(2)(a); S.R. 2008/510, art. 2
+[^F18]: Words in s. 2(3)(hb)(ii) inserted (N.I.) (27.11.2023) by Justice (Sexual Offences and Trafficking Victims) Act (Northern Ireland) 2022 (c. 19), s. 30(2), Sch. 1 para. 2; S.R. 2023/188, art. 3(b)
+[^F19]: S. 2(3)(hc) inserted (N.I.) (14.1.2015) by Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015 (c. 2), s. 28(2), Sch. 4 para. 4(a)
+[^F20]: Word in s. 2(3)(i) substituted (N.I.) (14.1.2015) by Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015 (c. 2), s. 28(2), Sch. 4 para. 4(b)
+[^F21]: S. 2(4) substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 16 para. 124; S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F22]: Words in s. 3(6)(a) omitted (1.4.2005) by virtue of The Courts Act 2003 (Consequential Provisions) Order 2005 (S.I. 2005/886), art. 1, Sch. para. 49
+[^F23]: Words in s. 3(6)(b) inserted (7.10.2004 for E.W., 7.10.2004 for S. for specified purposes, 8.11.2004 for N.I.) by Youth Justice and Criminal Evidence Act 1999 (c. 23), s. 68(3)(4), Sch. 2 para. 9(2) (with Sch. 7); S.S.I. 2004/408, art. 3(c); S.R. 2004/467, art. 2(c); S.I. 2004/2428, art. 2(e)
+[^F24]: S. 3(6A) inserted (7.10.2004 for E.W., 7.10.2004 for S. for specified purposes, 8.11.2004 for N.I.) by Youth Justice and Criminal Evidence Act 1999 (c. 23), s. 68(3)(4), Sch. 2 para. 9(3) (with Sch. 7); S.S.I. 2004/408, art. 3(c); S.R. 2004/467, art. 2(c); S.I. 2004/2428, art. 2(e)
+[^F25]: S. 3(6B) inserted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 16 para. 125; S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F26]: Ss. 3A, 3B inserted (N.I.) (28.9.2023) by Justice (Sexual Offences and Trafficking Victims) Act (Northern Ireland) 2022 (c. 19), ss. 9(3), 30(2); S.R. 2023/142, art. 3
+[^M11]: 1956 c.69.
+[^F27]: S. 4(8) inserted (7.10.2004 for E.W., 7.10.2004 for S. for specified purposes, 8.11.2004 for N.I.) by Youth Justice and Criminal Evidence Act 1999 (c. 23), s. 68(3)(4), Sch. 2 para. 10 (with Sch. 7); S.S.I. 2004/408, art. 3(c); S.R. 2004/467, art. 2(c); S.I. 2004/2428, art. 2(e)
+[^M12]: 1908 c. 45.
+[^F28]: Words in s. 4(8) substituted (N.I.) (28.7.2003) by The Criminal Justice (Northern Ireland) Order 2003 (S.I. 2003/1247), art. 1(3), Sch. 1 para. 13; S.R. 2003/352, art. 2(d)
+[^F29]: S. 4(9) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 16 para. 126, Sch. 17; S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F30]: S. 5(1) substituted (7.10.2004 for E.W., 7.10.2004 for S. for specified purposes, 8.11.2004 for N.I.) by Youth Justice and Criminal Evidence Act 1999 (c. 23), s. 68(3)(4), Sch. 2 para. 11(2) (with Sch. 7); S.S.I. 2004/408, art. 3(c); S.R. 2004/467, art. 2(c); S.I. 2004/2428, art. 2(e)
+[^F31]: Words in s. 5(1) omitted (N.I.) (28.9.2023) by virtue of Justice (Sexual Offences and Trafficking Victims) Act (Northern Ireland) 2022 (c. 19), ss. 10(2), 30(2); S.R. 2023/142, art. 3
+[^F32]: S. 5(1A) inserted (N.I.) (28.9.2023) by Justice (Sexual Offences and Trafficking Victims) Act (Northern Ireland) 2022 (c. 19), ss. 10(3), 30(2); S.R. 2023/142, art. 3
+[^F33]: Words in s. 5(2) substituted (7.10.2004 for E.W., 7.10.2004 for S. for specified purposes, 8.11.2004 for N.I.) by Youth Justice and Criminal Evidence Act 1999 (c. 23), s. 68(3)(4), Sch. 2 para. 11(3)(a) (with Sch. 7); S.S.I. 2004/408, art. 3(c); S.R. 2004/467, art. 2(c); S.I. 2004/2428, art. 2(e)
+[^F34]: Words in s. 5(2) repealed (7.10.2004 for E.W., 7.10.2004 for S. for specified purposes, 8.11.2004 for N.I.) by Youth Justice and Criminal Evidence Act 1999 (c. 23), s. 68(3)(4), Sch. 2 para. 11(3)(b), Sch. 6 (with Sch. 7); S.S.I. 2004/408, art. 3(c)(e); S.R. 2004/467, art. 2(c)(e); S.I. 2004/2428, art. 2(e)(f)
+[^F35]: Words in s. 5(3) inserted (7.10.2004 for E.W., 7.10.2004 for S. for specified purposes, 8.11.2004 for N.I.) by Youth Justice and Criminal Evidence Act 1999 (c. 23), s. 68(3)(4), Sch. 2 para. 11(4) (with Sch. 7); S.S.I. 2004/408, art. 3(c); S.R. 2004/467, art. 2(c); S.I. 2004/2428, art. 2(e)
+[^F36]: Words in s. 5(4) inserted (7.10.2004 for E.W., 7.10.2004 for S. for specified purposes, 8.11.2004 for N.I.) by Youth Justice and Criminal Evidence Act 1999 (c. 23), s. 68(3)(4), Sch. 2 para. 11(5) (with Sch. 7); S.S.I. 2004/408, art. 3(c); S.R. 2004/467, art. 2(c); S.I. 2004/2428, art. 2(e)
+[^F37]: Words in s. 5(5) substituted (7.10.2004 for E.W., 7.10.2004 for S. for specified purposes, 8.11.2004 for N.I.) by Youth Justice and Criminal Evidence Act 1999 (c. 23), s. 68(3)(4), Sch. 2 para. 11(6) (with Sch. 7); S.S.I. 2004/408, art. 3(c); S.R. 2004/467, art. 2(c); S.I. 2004/2428, art. 2(e)
+[^F38]: S. 5(5A) inserted (7.10.2004 for E.W., 7.10.2004 for S. for specified purposes, 8.11.2004 for N.I.) by Youth Justice and Criminal Evidence Act 1999 (c. 23), s. 68(3)(4), Sch. 2 para. 11(7) (with Sch. 7); S.S.I. 2004/408, art. 3(c); S.R. 2004/467, art. 2(c); S.I. 2004/2428, art. 2(e)
+[^F39]: S. 5(8) inserted (7.10.2004 for E.W., 7.10.2004 for S. for specified purposes, 8.11.2004 for N.I.) by Youth Justice and Criminal Evidence Act 1999 (c. 23), s. 68(3)(4), Sch. 2 para. 11(8) (with Sch. 7); S.S.I. 2004/408, art. 3(c); S.R. 2004/467, art. 2(c); S.I. 2004/2428, art. 2(e)
+[^F40]: S. 5(9) inserted (N.I.) (28.9.2023) by Justice (Sexual Offences and Trafficking Victims) Act (Northern Ireland) 2022 (c. 19), ss. 11(1), 30(2); S.R. 2023/142, art. 3
+[^F41]: Words in s. 6(1) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 16 para. 127(2), Sch. 17; S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F42]: Words in s. 6(1) inserted (7.10.2004 for E.W., 7.10.2004 for S. for specified purposes, 8.11.2004 for N.I.) by Youth Justice and Criminal Evidence Act 1999 (c. 23), s. 68(3)(4), Sch. 2 para. 12(2) (with Sch. 7); S.S.I. 2004/408, art. 3(c); S.R. 2004/467, art. 2(c); S.I. 2004/2428, art. 2(e)
+[^M13]: 1990 c.42.
+[^F43]: Words in s. 6(1) repealed (7.10.2004 for E.W., 7.10.2004 for S. for specified purposes, 8.11.2004 for N.I.) by Youth Justice and Criminal Evidence Act 1999 (c. 23), s. 68(3)(4), Sch. 2 para. 12(2), Sch. 6 (with Sch. 7); S.S.I. 2004/408, art. 3(c)(e); S.R. 2004/467, art. 2(c)(e); S.I. 2004/2428, art. 2(e)(f)
+[^F44]: S. 6(1A) inserted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 16 para. 127(3); S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F45]: Words in s. 6(1A) substituted (1.10.2008) by Serious Crime Act 2007 (c. 27), s. 383(2), Sch. 5 para. 2 (with Sch. 13 para. 5); S.I. 2008/2504, art. 2(a)
+[^F46]: S. 6(2A) inserted (3.2.1995) by 1994 c. 33, s. 168(1), Sch. 9 para. 52(3)(a); S.I. 1995/127, art. 2(1), Sch. 1 Appendix A
+[^F47]: Words in s. 6(2A) substituted (7.10.2004 for E.W., 7.10.2004 for S. for specified purposes, 8.11.2004 for N.I.) by Youth Justice and Criminal Evidence Act 1999 (c. 23), s. 68(3)(4), Sch. 2 para. 12(3) (with Sch. 7); S.S.I. 2004/408, art. 3(c); S.R. 2004/467, art. 2(c); S.I. 2004/2428, art. 2(e)
+[^F48]: Word in s. 6(2A)(a) substituted (N.I.) (28.7.2003) by The Criminal Justice (Northern Ireland) Order 2003 (S.I. 2003/1247), art. 1(3), Sch. 1 para. 14(a); S.R. 2003/352, art. 2(d)
+[^F49]: Word in s. 6(2A)(b) substituted (N.I.) (28.7.2003) by The Criminal Justice (Northern Ireland) Order 2003 (S.I. 2003/1247), art. 1(3), Sch. 1 para. 14(b); S.R. 2003/352, art. 2(d)
+[^F50]: S. 6(2B) inserted (31.1.2024) by Online Safety Act 2023 (c. 50), s. 240(1), Sch. 14 para. 15; S.I. 2024/31, reg. 2
+[^F51]: Words in s. 6(3) inserted (1.10.2001) by 2001 c. 19, s. 34, Sch. 6 Pt. I para. 3(3); S.I. 2001/3234, art. 2 (subject to saving in art. 3)
+[^F52]: Words in s. 6(3) substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 16 para. 127(4); S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F53]: Words in s. 6(3) inserted (7.10.2004 for E.W., 7.10.2004 for S. for specified purposes, 8.11.2004 for N.I.) by Youth Justice and Criminal Evidence Act 1999 (c. 23), s. 68(3)(4), Sch. 2 para. 12(4) (with Sch. 7); S.S.I. 2004/408, art. 3(c); S.R. 2004/467, art. 2(c); S.I. 2004/2428, art. 2(e)
+[^F54]: Words in s. 6(3)(c) substituted (E.W.) (9.5.2005 for specified purposes, 18.6.2012 for specified purposes, 5.11.2012 for specified purposes, 28.5.2013 for specified purposes) by Criminal Justice Act 2003 (c. 44), s. 336(3)(4), Sch. 3 para. 63; S.I. 2005/1267, art. 2(1)(2)(a), Sch. Pt. 1; S.I. 2012/1320, art. 4(1)(c)(2)(3) (with art. 5) (see S.I. 2012/2574, art. 4(2) and S.I. 2013/1103, art. 4); S.I. 2012/2574, art. 2(2)(3)(c), Sch. (with arts. 3, 4) (as amended (4.11.2012) by S.I. 2012/2761, art. 2) (with S.I. 2013/1103, art. 4); S.I. 2013/1103, art. 2(1)(c)(2)(3) (with arts. 3, 4)
+[^F55]: Words in s. 6(3) inserted (3.2.1995) by 1994 c. 33, s. 168(1), Sch. 9 para. 52(3)(b); S.I. 1995/127, art. 2(1), Sch. 1 Appendix A
+[^F56]: S. 6(3A) inserted (1.10.2001) by 2001 c. 19, s. 34, Sch. 6 Pt. I para. 3(4); S.I. 2001/3234, art. 2 (subject to saving in art. 3)
+[^F57]: Words in s. 6(3A) substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 16 para. 127(5); S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F58]: S. 7 repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 16 para. 128, Sch. 17; S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F59]: S. 8(6)(7) substituted (7.10.2004 for E.W., 7.10.2004 for S., 8.11.2004 for N.I.) by Youth Justice and Criminal Evidence Act 1999 (c. 23), s. 68(3)(4), Sch. 2 para. 14 (with Sch. 7); S.S.I. 2004/408, art. 3(d); S.R. 2004/467, art. 2(c); S.I. 2004/2428, art. 2(e)
+[^F60]: S. 8(7) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 16 para. 129, Sch. 17; S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F61]: Sch. inserted (N.I.) (28.9.2023) by Justice (Sexual Offences and Trafficking Victims) Act (Northern Ireland) 2022 (c. 19), ss. 11(2), 30(2); S.R. 2023/142, art. 3

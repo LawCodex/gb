@@ -1,0 +1,159 @@
+---
+title: "Child Support Collection (Domestic Abuse) Act 2023"
+identifier: "ukpga/2023/24"
+citation: "2023 Chapter 24"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S+N.I."
+date: 2023-06-29
+last_amended: 2023-06-29
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/2023/24"
+source_modified: 2023-09-01
+retrieved: 2026-10-11
+---
+
+# Child Support Collection (Domestic Abuse) Act 2023
+
+**2023 Chapter 24**
+
+An Act to make provision enabling the making of arrangements for the collection of child support maintenance in cases involving domestic abuse.
+
+[29th June 2023]
+
+Be it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## 1 Collection of maintenance in England and Wales and Scotland: cases involving domestic abuse (prospective)
+
+(1) Section 4 of the Child Support Act 1991 (child support maintenance) is amended as follows.
+
+(2) After subsection (3) insert—
+
+> (3A) Where a maintenance calculation has been made in response to an application under this section, the Secretary of State may, if the person with care or the non-resident parent applies to the Secretary of State under this subsection, arrange for the collection of the child support maintenance payable in accordance with the calculation if satisfied on the basis of evidence of a prescribed kind relating to relevant domestic abuse that it is appropriate for such arrangements to be made.
+>
+> (3B) For the purposes of subsection (3A), “relevant domestic abuse” means—
+>
+> (a) where the application under subsection (3A) is made by the person with care, behaviour of the non-resident parent towards the person with care, or any child living in the same household with the person with care, that amounts to domestic abuse;
+>
+> (b) where the application under subsection (3A) is made by the non-resident parent, behaviour of the person with care towards the non-resident parent, or any child living in the same household with the non-resident parent, that amounts to domestic abuse.
+
+(3) In subsection (4) (purposes for which regulations may require information to be provided)—
+
+(a) omit the “and” after paragraph (b);
+
+(b) at the end of paragraph (c) insert
+
+> ; and
+>
+> (d) the making by the Secretary of State of a determination for the purposes of subsection (3A).
+
+## 2 Further provision about collection of maintenance in Scottish cases involving domestic abuse (prospective)
+
+(1) Section 7 of the Child Support Act 1991 (right of child in Scotland to apply for calculation) is amended as follows.
+
+(2) After subsection (4) insert—
+
+> (4A) Where a maintenance calculation has been made in response to an application under this section, the Secretary of State may, if the person with care, the non-resident parent or the child concerned applies to the Secretary of State under this subsection, arrange for the collection of the child support maintenance payable in accordance with the calculation if satisfied on the basis of evidence of a prescribed kind relating to relevant domestic abuse that it is appropriate for such arrangements to be made.
+>
+> (4B) For the purposes of subsection (4A), “relevant domestic abuse” means—
+>
+> (a) where the application under subsection (4A) is made by the person with care, behaviour of the non-resident parent towards the person with care, or any child living in the same household with the person with care, that amounts to domestic abuse;
+>
+> (b) where the application under subsection (4A) is made by the non-resident parent, behaviour of the person with care towards the non-resident parent, or any child living in the same household with the non-resident parent, that amounts to domestic abuse;
+>
+> (c) where the application under subsection (4A) is made by the child concerned, behaviour of the kind referred to in paragraph (a) or (b).
+
+(3) In subsection (5) (purposes for which regulations may require information to be provided)—
+
+(a) omit the “and” after paragraph (b);
+
+(b) at the end of paragraph (c) insert
+
+> ; and
+>
+> (d) the making by the Secretary of State of a determination for the purposes of subsection (4A).
+
+## 3 Minor and consequential amendments relating to sections 1 and 2
+
+(1) The Child Support Act 1991 is amended as follows.
+
+(2) In section 29(1) (collection of child support maintenance)—
+
+(a) for “7(3A)” substitute “(3A) and section 7(3A) and (4A)”;
+
+(b) for “7(3)” substitute “(3A) or section 7(3) or (4A)”.
+
+(3) In section 41D (power to accept part payment of arrears), in subsection (7)(b), after “7(3)” insert “or (4A)”.
+
+(4) In section 49A (as inserted by section 34 of the Child Maintenance and Other Payments Act 2008), in subsection (8)(b), after “7(3)” insert “or (4A)”.
+
+(5) In section 52(2)(a) (regulations requiring approval by resolution of each House of Parliament), after “section” insert “4(3A), 7(4A),”.
+
+(6) In section 54(1) (interpretation), at the appropriate place insert—
+
+> - “domestic abuse” has the same meaning as in the Domestic Abuse Act 2021 (but reading the reference in section 2(2)(b) of that Act to parental responsibility in accordance with the definition of “parental responsibility” in this subsection);
+
+.
+
+## 4 Collection of maintenance in Northern Ireland: cases involving domestic abuse
+
+(1) The Child Support (Northern Ireland) Order 1991 (S.I. 1991/2628 (N.I. 23)) is amended as follows.
+
+(2) In Article 7 (child support maintenance)—
+
+(a) after paragraph (3) insert—
+
+> (3A) Where a maintenance calculation has been made in response to an application under this Article, the Department may, if the person with care or the non-resident parent applies to the Department under this paragraph, arrange for the collection of the child support maintenance payable in accordance with the calculation if satisfied on the basis of evidence of a prescribed kind relating to relevant abusive behaviour that it is appropriate for such arrangements to be made.
+>
+> (3B) For the purposes of paragraph (3A), “relevant abusive behaviour” means—
+>
+> (a) where the application under paragraph (3A) is made by the person with care, behaviour of the non-resident parent that is abusive of the person with care or of any child living in the same household with the person with care;
+>
+> (b) where the application under paragraph (3A) is made by the non-resident parent, behaviour of the person with care that is abusive of the non-resident parent or of any child living in the same household with the non-resident parent.
+>
+> (3C) What amounts to abusive behaviour for the purposes of paragraph (3B) is to be construed in the same way as is provided for in Chapter 1 of Part 1 of the Domestic Abuse and Civil Proceedings Act (Northern Ireland) 2021 (c.2 (N.I.)) (see sections 2, 3(2) and 4 of that Act).
+
+;
+
+(b) in paragraph (4) (purposes for which regulations may require information to be provided)—
+
+(i) omit the “and” after sub-paragraph (b);
+
+(ii) after sub-paragraph (c) insert
+
+> ; and
+>
+> (d) the making by the Department of a determination for the purposes of paragraph (3A).
+
+(3) In Article 29(1) (collection of child support maintenance)—
+
+(a) after “7(2A)” (as inserted by Article 127(3) of the Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006 (N.I. 1))) insert “and (3A)”;
+
+(b) after “7(2)” insert “or (3A)”.
+
+(4) In Article 48(2)(a) (regulations to be laid before Assembly after being made), before “9(1)” insert “7(3A),”.
+
+## 5 Extent, commencement and short title
+
+(1) An amendment made by this Act has the same extent as the provision to which it relates.
+
+(2) This section extends to England and Wales, Scotland and Northern Ireland.
+
+(3) Subject to subsections (4), (5) and (6), this Act comes into force on such day or days as the Secretary of State may by regulations made by statutory instrument appoint.
+
+(4) Section 3(4) comes into force at the same time as section 34 of the Child Maintenance and Other Payments Act 2008.
+
+(5) Section 4 comes into force at the same time as Article 127(2)(b) of the Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006 (N.I. 1)).
+
+(6) This section comes into force on the day on which this Act is passed.
+
+(7) The Secretary of State may by regulations made by statutory instrument make transitional or saving provision in connection with the coming into force of sections 1 to 3.
+
+(8) The Department for Communities in Northern Ireland may by regulations make transitional or saving provision in connection with the coming into force of section 4.
+
+(9) The power to make regulations under subsection (8) is exercisable by statutory rule for the purposes of the Statutory Rules (Northern Ireland) Order 1979 (S.I. 1979/1573 (N.I. 12)).
+
+(10) This Act may be cited as the Child Support Collection (Domestic Abuse) Act 2023.

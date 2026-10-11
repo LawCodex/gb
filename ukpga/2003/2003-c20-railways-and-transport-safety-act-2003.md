@@ -1,0 +1,4042 @@
+---
+title: "Railways and Transport Safety Act 2003"
+identifier: "ukpga/2003/20"
+citation: "2003 c. 20"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S+N.I."
+date: 2003-07-10
+last_amended: 2026-06-29
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/2003/20"
+source_modified: 2026-08-02
+retrieved: 2026-10-11
+---
+
+# Railways and Transport Safety Act 2003
+
+**2003 c. 20**
+
+An Act to make provision about railways, including tramways; to make provision about transport safety; and for connected purposes.
+
+[10th July 2003]
+
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## Part 1 — Investigation of Railway Accidents
+
+### Introduction
+
+#### 1 Meaning of “railway” and “railway property”
+
+(1) In this Part—
+
+- “railway” means a railway or tramway within the meaning given by section 67 of the Transport and Works Act 1992 (c. 42), and
+- “railway property” means anything which falls within the definition of “light maintenance depot”, “network”, “rolling stock”, “station” or “track” in section 83 of the Railways Act 1993 (c. 43), or which falls within the equivalent of any those definitions in relation to a tramway.
+
+(2) The Secretary of State may by regulations amend this section.
+
+[^F1]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 2 Meaning of railway accident” and railway incident”
+
+(1) In this Part a reference to a railway accident or railway incident is a reference to an accident or incident which occurs on railway property in so far as it is or may be relevant to the operation of the railway.
+
+(2) The Secretary of State may by regulations—
+
+(a) make provision about what is to be or not to be treated as an accident or incident for the purposes of this Part;
+
+(b) make provision about circumstances in which an accident or incident is to be or not to be treated as being relevant to the operation of a railway for the purposes of this Part;
+
+(c) make provision about when an accident is to be treated as serious for the purposes of this Part.
+
+(3) Regulations under subsection (2) may, in particular, make provision by reference to—
+
+(a) location;
+
+(b) the exercise of a discretion by the Chief Inspector of Rail Accidents or another specified person.
+
+(4) Regulations under subsection (2) making provision about what is to be treated as an incident may, in particular, include an event or omission which does not cause damage or loss but which might cause damage or loss in different circumstances.
+
+### The Rail Accident Investigation Branch
+
+#### 3 Establishment
+
+(1) The Secretary of State shall appoint persons as inspectors of rail accidents.
+
+(2) The Secretary of State shall appoint one of the inspectors as the Chief Inspector of Rail Accidents.
+
+(3) The inspectors appointed under this section may be referred to as the Rail Accident Investigation Branch (being a branch of the department of the Secretary of State who appoints them).
+
+(4) An inspector of rail accidents shall carry out such of the functions of the Rail Accident Investigation Branch as may be assigned to him by the Chief Inspector of Rail Accidents.
+
+#### 4 General aims
+
+In exercising their functions the Rail Accident Investigation Branch shall, wherever relevant, aim—
+
+(a) to improve the safety of railways, and
+
+(b) to prevent railway accidents and railway incidents.
+
+#### 5 Assistance to others
+
+The Chief Inspector of Rail Accidents may arrange for the Rail Accident Investigation Branch to assist any person; in particular, assistance—
+
+(a) may be provided with or without charge;
+
+(b) may be provided inside or outside the United Kingdom.
+
+#### 6 Annual report
+
+(1) The Secretary of State shall make regulations requiring the Chief Inspector of Rail Accidents to produce once in each calendar year a report in connection with the activities of the Rail Accident Investigation Branch.
+
+(2) Regulations under subsection (1) may, in particular, make provision about—
+
+(a) timing of reports;
+
+(b) content of reports;
+
+(c) publication and other treatment of reports.
+
+### Investigation by Branch
+
+#### 7 Investigations
+
+(1) The Rail Accident Investigation Branch—
+
+(a) shall investigate any serious railway accident,
+
+(b) may investigate a non-serious railway accident or a railway incident, and
+
+(c) shall investigate a non-serious railway accident or a railway incident if required to do so by or in accordance with regulations made by the Secretary of State.
+
+(2) For the purposes of subsection (1)(a) a tramway shall not be treated as a railway (despite section 1(1)).
+
+(3) In investigating an accident or incident the Branch shall try to determine what caused it.
+
+(4) On completion of an investigation the Branch shall report to the Secretary of State.
+
+(5) In performing a function in relation to an accident or incident the Branch—
+
+(a) shall not consider or determine blame or liability, but
+
+(b) may determine and report on a cause of an accident or incident whether or not blame or liability is likely to be inferred from the determination or report.
+
+(6) The Branch may conduct an investigation and report whether or not civil or criminal proceedings are in progress or may be instituted (but this subsection is without prejudice to the operation of the law of contempt of court).
+
+(7) The Chief Inspector of Rail Accidents may apply to the High Court or the Crown Court for a declaration that the making of a report in connection with a specified accident or incident will not amount to a contempt of court in relation to civil or criminal proceedings which have been or may be instituted in connection with the accident or incident.
+
+(8) The Chief Inspector of Rail Accidents may reopen an investigation if he believes that significant new evidence may be available.
+
+#### 8 Investigator’s powers
+
+(1) For the purpose of conducting an investigation by virtue of section 7 an inspector of rail accidents may, provided that he produces evidence of his identity if asked to do so—
+
+(a) enter railway property;
+
+(b) enter land (which may include a dwelling-house) which adjoins or abuts railway property;
+
+(c) enter a vehicle or structure which is on railway property or which is on land which could be entered under paragraph (b);
+
+(d) enter land which does not fall within paragraph (a), (b) or (c) if—
+
+(i) it is used wholly or partly for the purposes of or in connection with anything done on or with railway property, or
+
+(ii) the inspector reasonably believes that it may contain evidence relating to an accident or incident;
+
+(e) in entering anything under paragraph (a), (b), (c) or (d), be accompanied by one or more persons authorised by the Chief Inspector of Rail Accidents for that purpose (whether generally or specifically);
+
+(f) in entering anything under paragraph (a), (b), (c) or (d), make arrangements to have with him equipment or materials.
+
+(2) For the purpose of conducting an investigation by virtue of section 7 an inspector of rail accidents may—
+
+(a) make a written, electronic, photographic or other record;
+
+(b) remove and retain samples;
+
+(c) arrange for anything to be removed and retained for the purpose of analysis or other examination or for the purpose of preserving evidence;
+
+(d) require access to a record or to recording equipment;
+
+(e) require a person to answer a question;
+
+(f) require a person to provide information;
+
+(g) require a person to disclose a record;
+
+(h) require a person to provide a copy of a record;
+
+(i) require disclosure of the result of an examination of a person, body or thing;
+
+(j) require a person to certify the truth, accuracy or authenticity of a statement made, of information or a document provided or of a record disclosed.
+
+(3) A person commits an offence if without reasonable excuse he—
+
+(a) fails to comply with a requirement imposed by an inspector of rail accidents for the purpose of an investigation by virtue of section 7,
+
+(b) makes a statement for the purpose of an investigation by virtue of section 7 knowing or suspecting that the statement is inaccurate or misleading,
+
+(c) provides information or a record for the purpose of an investigation by virtue of section 7 knowing or suspecting that the information or record is inaccurate or misleading,
+
+(d) obstructs an inspector of rail accidents in the course of his conduct of an investigation by virtue of section 7,
+
+(e) obstructs a person accompanying an inspector of rail accidents under subsection (1)(e), or
+
+(f) obstructs a person exercising a power of an inspector by virtue of regulations under section 9(1)(d).
+
+(4) A person who is guilty of an offence under subsection (3) shall be liable on summary conviction to—
+
+(a) imprisonment for a term not exceeding 51 weeks,
+
+(b) a fine not exceeding level 5 on the standard scale, or
+
+(c) both.
+
+(5) Subsection (6) applies where—
+
+(a) the Rail Accident Investigation Branch is conducting an investigation by virtue of section 7 in respect of an accident or incident, and
+
+(b) a question arises as to the desirability of action which any other person proposes to take for the purpose of investigating the accident or incident.
+
+(6) The question may be determined by—
+
+(a) the Chief Inspector of Rail Accidents, or
+
+(b) an inspector of rail accidents acting on behalf of the Chief Inspector.
+
+#### 9 Regulations
+
+(1) The Secretary of State may make regulations about the conduct of investigations by the Rail Accident Investigation Branch; in particular, the regulations may—
+
+(a) confer a function on the Chief Inspector of Rail Accidents or on the Branch;
+
+(b) make provision about the way in which a function of the Chief Inspector or the Branch is to be performed;
+
+(c) permit or require the Chief Inspector to appoint a person to conduct or participate in an investigation;
+
+(d) provide for a power of an inspector to be exercisable by a person conducting or participating in an investigation by virtue of paragraph (c);
+
+(e) permit or require the Chief Inspector to request assistance from another person;
+
+(f) permit or require another person to assist the Chief Inspector.
+
+(2) The regulations may make provision about the preparation, form, content and publication of a report made by the Branch under section 7; in particular, the regulations may—
+
+(a) require a report to address the question of what caused an accident or incident;
+
+(b) require or permit a report to make, or not to make, a recommendation;
+
+(c) require or permit the preparation and publication by the Branch of an interim report;
+
+(d) require the Branch to give an opportunity to a person interested in an investigation to comment on a draft report or draft interim report;
+
+(e) require the Branch to notify a person of the content of a report or interim report before publication;
+
+(f) require the Branch to give a copy of a report or interim report to a person;
+
+(g) make provision about the timing of publication.
+
+(3) A reference to a report by the Branch in section 7 includes a reference to an interim report permitted or required by virtue of subsection (2) above.
+
+(4) The Secretary of State may make regulations about the use, disclosure and destruction of information acquired by the Branch; in particular, the regulations may—
+
+(a) prohibit the disclosure of information in specified circumstances;
+
+(b) permit the disclosure of information in specified circumstances;
+
+(c) require the disclosure of information in specified circumstances;
+
+(d) make provision by reference to whether or not a person consents to a disclosure which relates to him.
+
+(5) Regulations under this section may—
+
+(a) create an offence (but not an offence punishable by imprisonment);
+
+(b) confer a discretionary function;
+
+(c) confer jurisdiction on a court or tribunal.
+
+### Investigation by industry
+
+#### 10 Requirement to investigate
+
+(1) The Chief Inspector of Rail Accidents may direct that any railway accident or railway incident of a specified kind or which occurs in specified circumstances shall be investigated by each person who manages or controls, or participates in managing or controlling, all or any part of railway property—
+
+(a) on which the accident or incident takes place, or
+
+(b) which is involved in the accident or incident.
+
+(2) A direction—
+
+(a) shall specify the manner in which the investigation is to be conducted, and
+
+(b) may make provision for a case where more than one person would be required to conduct an investigation, whether by requiring a joint investigation or by requiring or enabling one or more persons to conduct an investigation on behalf of others.
+
+(3) A person to whom a direction under subsection (1) applies commits an offence if he fails to comply with it.
+
+(4) A person guilty of an offence under subsection (3) shall be liable—
+
+(a) on summary conviction, to a fine not exceeding the statutory maximum, or
+
+(b) on conviction on indictment, to a fine.
+
+(5) The Chief Inspector shall publish a direction issued by him under subsection (1) in a manner which he considers will bring it to the attention of each person who is likely to be required to comply with it.
+
+(6) But in proceedings against a person for an offence under subsection (3) of failing to comply with a direction it shall not be necessary to prove that he was aware of the direction.
+
+(7) A direction under subsection (1)—
+
+(a) may make provision which applies generally or only in specified circumstances,
+
+(b) may make different provision for different cases or circumstances, and
+
+(c) may be varied or revoked by a further direction.
+
+### Accident regulations
+
+#### 11 Accident regulations
+
+(1) The Secretary of State may make regulations in connection with the investigation of railway accidents and railway incidents.
+
+(2) The regulations may, in particular—
+
+(a) require a person to notify the Rail Accident Investigation Branch of a railway accident or railway incident, and
+
+(b) make provision about the timing, form and content of notice given by virtue of paragraph (a).
+
+(3) The regulations may, in particular, require a person to take or not to take specified action following an accident or incident—
+
+(a) pending the commencement of an investigation, or
+
+(b) during the process of an investigation.
+
+(4) The regulations may—
+
+(a) create an offence (but not an offence punishable by a term of imprisonment exceeding the maximum term which may be imposed by a magistrates' court in accordance with [[^F2]section 224 of the Sentencing Code]);
+
+(b) confer a discretionary function;
+
+(c) confer jurisdiction on a court or tribunal.
+
+### General
+
+#### 12 Crown application
+
+This Part applies in relation to property irrespective of whether it belongs to or is used for the purposes of the Crown or a Duchy.
+
+#### 13 Regulations
+
+(1) Regulations under this Part—
+
+(a) may make provision which applies generally or only in specified cases or circumstances,
+
+(b) may make different provision for different cases or circumstances, and
+
+(c) may include transitional, consequential or incidental provision.
+
+(2) Regulations under this Part shall be made by statutory instrument.
+
+(3) Regulations under section 1(2) shall not be made unless a draft has been laid before and approved by resolution of each House of Parliament.
+
+(4) Other regulations under this Part shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+#### 14 Extent
+
+(1) This Part extends to the whole of the United Kingdom.
+
+[^F3]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) In the application of this Part in relation to Northern Ireland the maximum term for the purposes of sections 8(4)(a) and 11(4)(a) shall be 12 months.
+
+## Part 2 — [[^F4]Office of Rail and Road]
+
+### 15 Establishment
+
+(1) There shall be a body corporate to be known as the [[^F5]Office of Rail and Road].
+
+(2) Schedule 1 (which makes provision about the Office) shall have effect.
+
+### 15A [[^F6]Change of name
+
+(1) The Secretary of State may by regulations make provision for the body established by section 15 to be known by a different name.
+
+(2) Regulations under this section may amend this Act or any other enactment, whenever passed or made.
+
+(3) Regulations under this section are to be made by statutory instrument.
+
+(4) A statutory instrument which contains regulations under this section is subject to annulment in pursuance of a resolution of either House of Parliament.]
+
+### 16 Transfer of functions
+
+(1) The functions of the Rail Regulator are hereby transferred to the Office of Rail Regulation.
+
+(2) Subsection (1) applies to a function whether conferred by an enactment, by an agreement or otherwise.
+
+(3) All property, rights and liabilities to which the Rail Regulator is entitled or subject at the coming into force of this section (including rights and liabilities relating to staff) are hereby transferred to the Office of Rail Regulation.
+
+(4) The office of the Rail Regulator is hereby abolished.
+
+(5) Schedules 2 (consequential amendments) and 3 (savings, &c.) shall have effect.
+
+### 17 Extent
+
+This Part shall extend [^F7]... to—
+
+(a) England and Wales, and
+
+(b) Scotland[[^F8], and
+
+(c) Northern Ireland.]
+
+## Part 3 — British Transport Police
+
+### Police Authority
+
+#### 18 The British Transport Police Authority
+
+(1) There shall be a body corporate to be known as the British Transport Police Authority.
+
+(2) Schedule 4 (which makes provision about the Authority) shall have effect.
+
+(3) In this Part “the Authority” means the British Transport Police Authority.
+
+#### 19 Exercise of functions
+
+In performing its functions the Authority shall aim to ensure the efficient and effective policing of the railways and shall, in particular, have regard—
+
+(a) to any objective set by the Authority under section 50,
+
+(b) to any objective set by the Secretary of State under section 51,
+
+(c) to any railways policing plan issued by the Authority under section 52,
+
+(d) to any performance target set by the Authority under section 53,[[^F9]and ]
+
+(e) to any code of practice issued by the Secretary of State, or having effect in relation to the Authority, under section 47, and
+
+[^F10]f . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Police Force
+
+#### 20 Establishment of Police Force
+
+(1) The Authority shall secure the maintenance of an efficient and effective police force—
+
+(a) to be known as the British Transport Police Force, and
+
+(b) to police the railways.
+
+(2) In particular, the Authority shall defray the expenses of the Police Force.
+
+(3) In this Part “the Police Force” means the British Transport Police Force.
+
+#### 21 Chief Constable
+
+(1) The Authority shall appoint a Chief Constable of the Police Force.
+
+(2) An appointment under subsection (1) may be made only—
+
+(a) with the approval of the Secretary of State, and
+
+(b) in accordance with regulations under section 36.
+
+(3) In performing his functions the Chief Constable shall have regard to—
+
+(a) any relevant code of practice issued or having effect under section 48,
+
+(b) any relevant plan issued under section 52, and
+
+(c) any relevant plan issued under section 55.
+
+(4) The Secretary of State may make regulations about the suspension and removal of the Chief Constable.
+
+(5) Regulations under subsection (4)—
+
+(a) may apply (with or without modification) or make provision similar to a provision made by or under the Police Act 1996 (c. 16),
+
+(b) may confer a function on the Secretary of State (which may include a discretionary function or a function of requiring the Authority to act),
+
+(c) may permit the Secretary of State to delegate a function or to confer a function (which may include a discretionary function) on a person or group, and
+
+(d) may make provision about costs.
+
+(6) Regulations under subsection (4) which deal with a matter addressed by a provision made by or under the Police Act 1996 may differ from that provision only so far as necessary to reflect the structure and circumstances of the Police Force.
+
+(7) Before making regulations under subsection (4) the Secretary of State shall consult—
+
+(a) the Authority,
+
+(b) the Chief Constable, and
+
+(c) such other persons as he thinks fit.
+
+(8) In this Part “the Chief Constable” means the Chief Constable of the Police Force.
+
+#### 22 Deputy Chief Constable
+
+(1) The Authority shall appoint a deputy Chief Constable of the Police Force.
+
+(2) An appointment under subsection (1) may be made only—
+
+(a) with the approval of the Secretary of State, and
+
+(b) in accordance with regulations under section 36.
+
+(3) The deputy Chief Constable may perform a function of the Chief Constable—
+
+(a) while the Chief Constable is unable to act or unavailable,
+
+(b) during a vacancy in the office of Chief Constable, or
+
+(c) with the consent (which may be general or specific) of the Chief Constable.
+
+(4) The power to act by virtue of subsection (3)(a) or (b) shall not be exercisable for a continuous period exceeding three months without the consent of the Secretary of State.
+
+(5) The Secretary of State may make regulations about the suspension and removal of the deputy Chief Constable.
+
+(6) Regulations under subsection (5)—
+
+(a) may apply (with or without modification) or make provision similar to a provision made by or under the Police Act 1996 (c. 16),
+
+(b) may confer a function on the Secretary of State (which may include a discretionary function or a function of requiring the Authority to act),
+
+(c) may permit the Secretary of State to delegate a function or to confer a function (which may include a discretionary function) on a person or group, and
+
+(d) may make provision about costs.
+
+(7) Regulations under subsection (5) which deal with a matter addressed by a provision made by or under the Police Act 1996 may differ from that provision only so far as necessary to reflect the structure and circumstances of the Police Force.
+
+(8) Before making regulations under subsection (5) the Secretary of State shall consult—
+
+(a) the Authority,
+
+(b) the Chief Constable, and
+
+(c) such other persons as he thinks fit.
+
+#### 23 Assistant Chief Constables
+
+(1) The Authority shall appoint at least one assistant Chief Constable.
+
+(2) An appointment under subsection (1) may be made only—
+
+(a) with the approval of the Secretary of State, and
+
+(b) in accordance with regulations under section 36.
+
+(3) The Authority may permit an assistant Chief Constable to perform a function of the Chief Constable—
+
+(a) while the Chief Constable and the deputy Chief Constable are unable to act or unavailable, or
+
+(b) during a vacancy in the offices of Chief Constable and deputy Chief Constable.
+
+(4) Permission under subsection (3) may not have effect for a continuous period exceeding three months without the consent of the Secretary of State.
+
+(5) The Secretary of State may make regulations about the suspension and removal of an assistant Chief Constable.
+
+(6) Regulations under subsection (5)—
+
+(a) may apply (with or without modification) or make provision similar to a provision made by or under the Police Act 1996 (c. 16),
+
+(b) may confer a function on the Secretary of State (which may include a discretionary function or a function of requiring the Authority to act),
+
+(c) may permit the Secretary of State to delegate a function or to confer a function (which may include a discretionary function) on a person or group, and
+
+(d) may make provision about costs.
+
+(7) Regulations under subsection (5) which deal with a matter addressed by a provision made by or under the Police Act 1996 may differ from that provision only so far as necessary to reflect the structure and circumstances of the Police Force.
+
+(8) Before making regulations under subsection (5) the Secretary of State shall consult—
+
+(a) the Authority,
+
+(b) the Chief Constable, and
+
+(c) such other persons as he thinks fit.
+
+#### 24 Constables
+
+(1) The Authority shall appoint and employ constables of the Police Force.
+
+(2) A constable of the Police Force shall be under the direction and control of the Chief Constable.
+
+(3) Section 29 of the Police Act 1996 (attestation) shall apply to a constable of the Police Force appointed in England or Wales (with the omission of the words in paragraph (b) “having jurisdiction within the police area”).
+
+[[^F11](4) Section 10 of the Police and Fire Reform (Scotland) Act 2012 (declaration) shall apply to a constable of the Police Force appointed in Scotland.]
+
+[[^F12](5) Subsection (2) is subject to any provision included in a police force collaboration agreement by virtue of section 23(4) of the Police Act 1996.]
+
+#### 25 Special constables
+
+(1) The Chief Constable may appoint special constables of the Police Force.
+
+(2) A special constable of the Police Force—
+
+(a) shall be under the direction and control of the Chief Constable, and
+
+(b) may be dismissed by the Chief Constable.
+
+(3) Section 29 of the Police Act 1996 (c. 16) (attestation) shall apply to a special constable of the Police Force appointed in England or Wales (with the omission of the words in paragraph (b) “having jurisdiction within the police area”).
+
+[[^F13](4) Section 10 of the Police and Fire Reform (Scotland) Act 2012 (declaration) shall apply to a special constable of the Police Force appointed in Scotland.]
+
+(5) Section 88(1) to (5) of the Police Act 1996 (liability for wrongful act of constable) shall have effect in relation to special constables of the Police Force as if—
+
+(a) a reference to the chief officer of police for a police area were a reference to the Chief Constable,
+
+(b) a reference to a constable were a reference to a special constable,
+
+(c) a reference to the police fund were a reference to the British Transport Police Fund,
+
+(d) a reference to a [[^F14]local policing body ]were a reference to the Authority, and
+
+(e) subsection (5) included a reference to a special constable of the Police Force.
+
+(6) A reference in this Part to a constable of the Police Force includes a reference to a special constable of the Police Force.
+
+#### 26 Cadets
+
+(1) The Chief Constable may appoint cadets to undergo training with a view to becoming constables of the Police Force.
+
+(2) A cadet of the Police Force—
+
+(a) shall be under the direction and control of the Chief Constable,
+
+(b) may be dismissed by the Chief Constable, and
+
+(c) shall be an employee of the Authority (subject to regulations under section 38).
+
+#### 27 Civilian employees
+
+(1) The Authority may employ persons to assist the Police Force.
+
+(2) A person appointed under this section shall be under the direction and control of either the Chief Constable or the Authority, in accordance with his terms of employment.
+
+[[^F15](3) Subsection (2) is subject to any provision included in a police force collaboration agreement by virtue of section 23(4) of the Police Act 1996.]
+
+#### 28 Exercise of powers by civilians
+
+(1) The following provisions of the Police Reform Act 2002 (c. 30) shall apply in relation to the Police Force as they apply in relation to other police forces—
+
+(a) section 38 (police powers for [[^F16]civilian staff ] [[^F17]and volunteers]),
+
+[^F18]aa . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[[^F19](ab) sections 38B and 38C (police powers for civilian employees under collaboration agreements),]
+
+(b) section 39 (police powers for contracted-out staff),
+
+(c) section 42 (supplementary),
+
+[^F20]d . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(e) section 46 (offences),
+
+(f) section 47 (interpretation), [^F21]...
+
+[[^F22](fa) Schedule 3B (designations under section 38),
+
+(fb) Schedule 3C (designations under section 38: additional powers and duties), and]
+
+(g) Schedule 4 (powers exercisable by [[^F23]contracted-out staff]).
+
+(2) For the purpose of subsection (1) the provisions specified in that subsection shall have effect with any necessary modifications and, in particular—
+
+(a) the provisions shall have effect as if a reference to a police force were a reference to the Police Force,
+
+(b) the provisions shall have effect as if a reference to the chief officer of police of a police force were a reference to the Chief Constable,
+
+(c) the provisions shall have effect as if a reference to a police authority were a reference to the Authority,
+
+(d) the provisions shall have effect as if a reference to a constable were a reference to a constable of the Police Force,
+
+[^F24]e . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(f) [[^F25]Schedules 3C and 4] shall have effect as if a reference to the relevant police area or a police area were a reference to—
+
+(i) any place in England or Wales where a constable of the Police Force has powers by virtue of section 31(1)(a) to (f) of this Act, and
+
+(ii) for a purpose connected to a railway or to anything occurring on or in relation to a railway, any place in England and Wales.
+
+#### 29 Terms of employment
+
+(1) In relation to the terms and conditions of employment of constables and other persons employed in the service of the Police Force, the Authority shall comply with rules or principles contained in any document issued to them for the purpose by the Secretary of State.
+
+(2) Rules or principles under subsection (1) may, in particular—
+
+(a) require the adoption of specified scales or ranges of pay or allowances;
+
+(b) require a specified class of employee to be treated for specified purposes in the same way as another specified class of employee (whether of the Authority or not) or office-holder;
+
+(c) require the approval of the Secretary of State for changes in the policy or practice of the Authority;
+
+(d) require compliance with rules or principles specified or to be specified in another document.
+
+#### 30 Trade union membership
+
+(1) A constable or cadet of the Police Force may not be a member of a trade union (within the meaning given by section 1 of the Trade Union and Labour Relations (Consolidation) Act 1992 (c. 52)).
+
+(2) Subsection (1) shall not prevent—
+
+(a) membership of the British Transport Police Federation, or
+
+(b) retention, with the consent of the Chief Constable, of a membership status acquired by a person before he joined the Police Force.
+
+### Jurisdiction
+
+#### 31 Jurisdiction
+
+(1) A constable of the Police Force shall have all the powers and privileges of a constable—
+
+(a) on track,
+
+(b) on network,
+
+(c) in a station,
+
+(d) in a light maintenance depot,
+
+(e) on other land used for purposes of or in relation to a railway,
+
+(f) on other land in which a person who provides railway services has a freehold or leasehold interest, and
+
+(g) throughout Great Britain for a purpose connected to a railway or to anything occurring on or in relation to a railway.
+
+(2) A constable of the Police Force may enter property which is or forms part of anything specified in subsection (3)—
+
+(a) without a warrant,
+
+(b) using reasonable force if necessary, and
+
+(c) whether or not an offence has been committed.
+
+(3) Those things are—
+
+(a) track,
+
+(b) a network,
+
+(c) a station,
+
+(d) a light maintenance depot, and
+
+(e) a railway vehicle.
+
+(4) In this section “powers” includes powers under an enactment whenever passed or made.
+
+#### 31A [[^F26]Exercise of powers and privileges in Scotland
+
+(1) Where a constable of the Police Force exercises in Scotland any power or privilege of a constable, Parts 1 and 2 of the Criminal Justice (Scotland) Act 2016 (in this section “the 2016 Act”) apply in relation to the exercise as though the power or privilege were exercised by a constable of the Police Service of Scotland.
+
+(2) For the purposes of subsection (1)—
+
+(a) in section 64 of the 2016 Act (police custody), references to a person arrested by a constable are to be read as including a person arrested by a constable of the Police Force,
+
+(b) section 69 of the 2016 Act (publication of information by police) does not apply.]
+
+#### 31B [[^F27]Exercise of functions in relation to children under the Scottish age of criminal responsibility
+
+(1) The following apply, in Scotland, in relation to a constable of the Police Force as they apply in relation to a constable of the Police Service of Scotland—
+
+(a) Part 4 of the Age of Criminal Responsibility (Scotland) Act 2019 (in this section, “the 2019 Act”),
+
+(b) any regulations made or guidance issued under that Part.
+
+(2) Subsections (3) to (6) make further provision in relation to the application of Part 4 of the 2019 Act to constables of the Police Force.
+
+(3) References in Part 4 of the 2019 Act (however expressed) to constables of a particular rank are to be read, in relation to action taken or proposed to be taken by constable of the Police Force, as references to a constable of the Police Force of the rank referred to.
+
+(4) References in the following sections of the 2019 Act to the chief constable are to be read as including reference to the chief constable of the Police Force—
+
+(a) section 29(2)(a),
+
+(b) section 31(3)(a) and (5)(a),
+
+(c) section 57(4)(a).
+
+(5) The reference in section 33(1) of the 2019 Act to an enactment includes reference to an enactment which confers a power of the type described in that section on constables of the Police Force (whether or not the enactment also confers that power on constables of the Police Service of Scotland).
+
+(6) The reference in section 75(2) of the 2019 Act to a constable is to be read as including reference to a constable of the Police Force.]
+
+#### 32 Prosecution
+
+Where the Police Force investigates an offence in the course of the exercise of its functions, the Chief Constable may institute criminal proceedings in England and Wales in respect of the offence.
+
+### Police Services Agreements
+
+#### 33 Police services agreement
+
+(1) The Authority may enter into an agreement under this section (to be known as a police services agreement) with any person (“the customer”) which provides—
+
+(a) for the Police Force to police a railway or railway property in connection with which the customer provides railways services, in accordance with the objectives, plans, targets and directions set under sections 50 to 55,
+
+(b) for the Police Force to provide such additional policing services as may be specified in the agreement, and
+
+(c) for such incidental or ancillary matters as the parties think appropriate.
+
+(2) The Authority may not enter into a police services agreement unless a draft is approved in writing by the Secretary of State.
+
+(3) A police services agreement shall include provision requiring the customer to make payments to the Authority, which may be payments of—
+
+(a) specified sums, or
+
+(b) sums assessed in a specified manner (which may include reference to amounts paid, or expected to be paid, by the Authority).
+
+(4) In determining the terms in a police services agreement of provision about payment the Authority shall aim to ensure that—
+
+(a) in each financial year the expenses of the Authority, including those incurred in defraying the expenses of the Police Force, are as nearly as possible equivalent to the income of the Authority, and
+
+(b) the amount of the contribution to the expenses of the Authority made by each customer in a financial year approximately reflects the nature and extent of the functions likely to be undertaken in that year in accordance with the customer’s police service agreement.
+
+(5) But subsection (4) does not prevent the Authority from setting a customer’s contribution at a level which—
+
+(a) reflects a surplus of income over expenses in a previous financial year (whether or not relating wholly or partly to functions carried out in respect of the customer);
+
+(b) reflects a deficit in a previous financial year (whether or not relating wholly or partly to functions carried out in respect of the customer);
+
+(c) reflects the need to reserve funds for contingencies.
+
+#### 34 Compulsory police services agreement
+
+(1) The Secretary of State may by order—
+
+(a) require a person who provides railway services to enter into a police services agreement;
+
+(b) require each member of a class of persons providing railway services to enter into a police services agreement.
+
+(2) A person commits an offence if—
+
+(a) he is subject to a requirement under subsection (1), and
+
+(b) he provides railway services without having entered into a police services agreement in respect of the railway or railway property in connection with which he provides the services.
+
+(3) A person who is guilty of an offence under subsection (2) shall be liable—
+
+(a) on summary conviction, to a fine not exceeding the statutory maximum, or
+
+(b) on conviction on indictment, to a fine.
+
+(4) The Authority shall take reasonable steps to facilitate compliance by a person with a requirement imposed under subsection (1).
+
+(5) Before imposing a requirement on a person or class under subsection (1) the Secretary of State shall consult the person or each member of the class.
+
+#### 35 Arbitration by Secretary of State
+
+(1) This section applies to a dispute between the Authority and a person who has entered into a police services agreement, where the dispute is about the terms, construction or operation of the agreement.
+
+(2) Either party to the dispute may refer it to the Secretary of State.
+
+(3) The Secretary of State may—
+
+(a) determine the dispute, or
+
+(b) nominate a person to determine the dispute.
+
+(4) The Secretary of State shall determine the procedure to be followed in determining a dispute under this section.
+
+(5) In particular, the Secretary of State or nominated person shall give each party to the dispute an opportunity to make representations.
+
+(6) In determining a dispute the Secretary of State or a nominated person may—
+
+(a) give a declaration about how a provision of a police services agreement is to be construed or operated;
+
+(b) vary the terms of a police services agreement;
+
+(c) determine that one party is obliged in accordance with a police services agreement to pay a specified sum, or a sum to be assessed in a specified manner, to the other party;
+
+(d) make an order about costs.
+
+(7) Where a dispute is determined under this section—
+
+(a) a party may appeal to the High Court on a point of law;
+
+(b) the determination may, with the permission of the High Court, be enforced as if it were a judgment of the High Court (and may, in particular, be enforced by the use of powers in relation to contempt of court).
+
+(8) Where it is agreed by the parties that Scots law applies to the police services agreement, a reference in subsection (7) to the High Court shall be treated as a reference to the Court of Session.
+
+### Regulation of Police Force
+
+#### 36 Police regulations: general
+
+(1) The Authority may make regulations about the government, administration and conditions [[^F28]of service ] of constables or other persons employed in the service of the Police Force which—
+
+(a) apply with or without modification regulations under section 50 of the Police Act 1996 (c. 16) (police force regulations);
+
+(b) deal with matters that could be dealt with by those regulations.
+
+[[^F29](1A) To the extent that subsection (1) concerns regulations made in pursuance of section 50(3A) of the Police Act 1996, or matters that could be dealt with by such regulations, the reference in subsection (1) to constables or other persons employed in the service of the Police Force includes former constables and other persons formerly employed in the service of the Police Force.]
+
+[[^F30](2) The Authority shall also make regulations similar to the provision made by and under—
+
+(a) sections 84 and 85 of the Police Act 1996 (representation etc. at disciplinary and other proceedings, and appeal), and
+
+(b) Schedule 6 to that Act (appeals to police appeals tribunals).]
+
+(3) Regulations under this section which deal with a matter addressed by regulations under section 50 of that Act may differ from the regulations under that section only so far as necessary to reflect the structure and circumstances of the Police Force.
+
+(4) The Authority may make provision about the terms and conditions of employment of constables or other persons employed in the service of the Police Force otherwise than by regulations under this section—
+
+(a) whether or not equivalent provision is made by regulations under section 50 of the Police Act 1996 (c. 16), but
+
+(b) subject to any regulations made under this section.
+
+(5) This section does not apply in relation to special constables or cadets.
+
+#### 37 Police regulations: special constables
+
+(1) The Authority may make regulations about the government, administration and conditions of service of special constables of the Police Force which—
+
+(a) apply with or without modification regulations under section 51 of the Police Act 1996 (police force regulations);
+
+(b) deal with matters that could be dealt with by those regulations.
+
+[[^F31](1ZA) To the extent that subsection (1) concerns regulations made in pursuance of section 51(2B) of the Police Act 1996, or matters that could be dealt with by such regulations, the reference in subsection (1) to special constables of the Police Force includes former special constables of the Police Force.]
+
+[[^F32](1A) The Authority shall also make regulations similar to the provision made by and under—
+
+(a) sections 84 and 85 of the Police Act 1996 (representation etc. at disciplinary and other proceedings, and appeal), and
+
+(b) Schedule 6 to that Act (appeals to police appeals tribunals).]
+
+(2) Regulations under this section which deal with a matter addressed by regulations under section 51 of that Act may differ from the regulations under that section only so far as necessary to reflect the structure and circumstances of the Police Force.
+
+#### 38 Police regulations: cadets
+
+(1) The Authority may make regulations about the government, administration and conditions of service of cadets of the Police Force which—
+
+(a) apply with or without modification regulations under section 52 of the Police Act 1996 (police force regulations);
+
+(b) deal with matters that could be dealt with by those regulations.
+
+(2) Regulations under this section which deal with a matter addressed by regulations under section 52 of that Act may differ from the regulations under that section only so far as necessary to reflect the structure and circumstances of the Police Force.
+
+#### 39 British Transport Police Federation
+
+(1) The Authority may make regulations about a body to be known as the British Transport Police Federation and having the function of representing persons employed in the service of the Police Force in matters affecting their welfare and efficiency except for questions about—
+
+(a) the promotion of specified persons, or
+
+(b) the discipline of specified persons (but this paragraph is subject to subsection (3)).
+
+(2) Regulations under this section must make provision similar to that made by regulations under section 60 of the Police Act 1996 (police federations) subject to such modifications as may be necessary to reflect the structure and circumstances of the Police Force.
+
+(3) Regulations under this Part may permit an official of the British Transport Police Federation to act for a person employed in the service of the Police Force in proceedings arising under the regulations.
+
+(4) The British Transport Police Federation—
+
+(a) may not become or remain connected with any other body without the approval of the Secretary of State (which may be given conditionally or unconditionally, and may be varied or withdrawn), but
+
+(b) may employ in an administrative or advisory capacity a person who is not employed in the service of the Police Force.
+
+#### 40 Regulations: approval in draft
+
+(1) This section applies to regulations under section 36, 37, 38 or 39.
+
+(2) The Authority may not make regulations unless a draft has been approved by—
+
+(a) the Chief Constable,
+
+(b) the staff associations, and
+
+(c) the Secretary of State.
+
+(3) The Secretary of State may on the application of the Authority dispense with a requirement for approval under subsection (2)(a) or (b) in respect of specified draft regulations.
+
+(4) Before dispensing under subsection (3) with a requirement for a person’s approval the Secretary of State shall consult the person.
+
+(5) In subsection (2)(b) “the staff associations” means such associations representing persons employed in the service of the Police Force as may be prescribed by order of the Secretary of State.
+
+#### 41 Police regulations: direction to Authority
+
+The Secretary of State may direct the Authority to—
+
+(a) prepare draft regulations under section 36, 37, 38 or 39 for a specified purpose,
+
+(b) submit them for approval under section 40(2) (whether or not as modified in accordance with section 40(3)), and
+
+(c) make them if approved.
+
+#### 42 Police regulations by Secretary of State
+
+(1) The Secretary of State may by regulations make provision in relation to the Police Force in respect of any matter about which he could make regulations under section 50, 51, 52 or 60 of the Police Act 1996 (c. 16) (general regulations, special constables, cadets and police federations).
+
+(2) Regulations under section 36, 37, 38 or 39 above shall have no effect in so far as they are inconsistent with regulations under this section.
+
+[[^F33](3) If regulations under this section make provision for a matter specified in section 50(3) [[^F34]or (3A)] or section 51(2A) [[^F35]or (2B)] of the Police Act 1996 (disciplinary proceedings), they must also make provision similar to that made by and under—
+
+(a) sections 84 and 85 of that Act (representation etc. at disciplinary and other proceedings, and appeal), and
+
+(b) Schedule 6 to that Act (appeals to police appeals tribunals).]
+
+(4) Before making regulations under this section the Secretary of State shall consult—
+
+(a) the Authority,
+
+(b) the Chief Constable, and
+
+(c) the staff associations (within the meaning of section 40).
+
+#### [^F36]43 Regulations: further appeal
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 44 Equipment regulations
+
+(1) The Secretary of State may make regulations under section 53 of the Police Act 1996 (c. 16) (standard of equipment) which have effect (whether wholly or partly and whether with modifications or not) in relation to the Police Force (including in relation to Scotland).
+
+(2) Before making regulations by virtue of this section the Secretary of State shall consult (in addition to any consultation required by section 53)—
+
+(a) the Authority, and
+
+(b) the Chief Constable.
+
+#### 45 Regulation of procedure and practice
+
+(1) The Secretary of State may make regulations under section 53A of the Police Act 1996 (regulation of procedure and practice for purpose of facilitating inter-force co-operation) which have effect (whether wholly or partly and whether with modifications or not) in relation to the Police Force (including in relation to Scotland).
+
+(2) For the purpose of regulations made by virtue of this section, section 53A shall have effect as if—
+
+[^F37]a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) a reference to chief officers of police included a reference to the Chief Constable, and
+
+(c) a reference to a police force included a reference to the Police Force.
+
+#### 46 Conditions of service: Transport Police Conference
+
+(1) This section applies to action of any of the following kinds—
+
+(a) the making by the Authority of regulations under section 36, 37 or 38 about the conditions of service of constables, special constables or cadets,
+
+(b) the making by the Secretary of State of regulations under section 42 about the conditions of service of constables, special constables or cadets,
+
+(c) the issuing by the Secretary of State of a document under section 29,
+
+(d) the taking by the Authority of a decision about the conditions of service of constables, special constables or cadets, and
+
+(e) the taking by the Secretary of State of a decision about the conditions of service of constables, special constables or cadets.
+
+(2) Before taking action to which this section applies the Authority or the Secretary of State shall invite the British Transport Police Federation to nominate a number of individuals, not fewer than two nor more than five, to meet with an equal number of individuals nominated by the Authority to discuss the action proposed.
+
+(3) Where a group is nominated under subsection (2) the person proposing to act shall, before acting—
+
+(a) give the group an opportunity to make recommendations about the proposed action, and
+
+(b) have regard to any recommendation made.
+
+(4) Where the person proposing to act thinks that a group nominated under subsection (2) is unable to agree recommendations about the proposed action he shall, before acting—
+
+(a) give the group an opportunity to nominate an individual who is not part of the group to make recommendations about the proposed action,
+
+(b) give any person nominated by the group an opportunity to make recommendations about the proposed action, and
+
+(c) have regard to any recommendation made.
+
+(5) Where the person proposing to act thinks that a group nominated under subsection (2) is unable to agree a nomination under subsection (4)(a)—
+
+(a) the Secretary of State may nominate a person to make recommendations about the proposed action, and
+
+(b) the person proposing to act shall, before acting—
+
+(i) give any person nominated under paragraph (a) an opportunity to make recommendations about the proposed action, and
+
+(ii) have regard to any recommendation made.
+
+(6) In subsections (4) and (5) a reference to agreement of a group nominated under subsection (2) is a reference to the agreement of—
+
+(a) a majority of the individuals nominated by the British Transport Police Federation, and
+
+(b) a majority of the individuals nominated by the Authority.
+
+(7) In this section a reference to conditions of service includes a reference to any terms and conditions of employment (including pay and hours of duty).
+
+#### 47 Code of practice: Authority
+
+(1) The Secretary of State may issue a code of practice relating to the performance by the Authority of any of its functions.
+
+(2) The Secretary of State may revise a code issued under subsection (1).
+
+(3) A code of practice issued under section 39 of the Police Act 1996 (c. 16) shall have effect in relation to the Authority—
+
+(a) with any necessary modifications, and
+
+(b) subject to the provisions of a code issued under this section.
+
+(4) Where the Secretary of State issues or revises a code under this section he shall lay before Parliament the code or revision.
+
+#### 48 Code of practice: Chief Constable
+
+(1) The Secretary of State may issue a code of practice relating to the performance by the Chief Constable of any of his functions.
+
+(2) The Secretary of State may revise a code issued under subsection (1).
+
+(3) A code of practice issued under section 39A of the Police Act 1996 (c. 16) shall have effect in relation to the Chief Constable—
+
+(a) with any necessary modifications, and
+
+(b) subject to the provisions of a code issued under this section.
+
+(4) Where the Secretary of State issues or revises a code under this section he shall lay before Parliament the code or revision.
+
+(5) But subsection (4) shall not oblige the Secretary of State to lay before Parliament anything if he thinks that its publication—
+
+(a) would be against the interests of national security,
+
+(b) could prejudice the prevention or detection of crime or the apprehension or prosecution of offenders, or
+
+(c) could jeopardise a person’s safety.
+
+#### 49 Service outside Police Force
+
+(1) The Secretary of State may make regulations about the treatment by the Authority of a person who—
+
+(a) is or was a constable of the Police Force, and
+
+(b) is or was engaged in service outside the Police Force of a specified kind.
+
+(2) The regulations shall, in particular, make provision similar to that of section 97 of the Police Act 1996 (service by police officer outside his force) subject to any modification necessary to reflect the structure and circumstances of the Police Force.
+
+### Planning
+
+#### 50 Policing objectives: Authority
+
+(1) Before the beginning of each financial year the Authority shall set objectives for policing the railways during that year.
+
+(2) The objectives—
+
+(a) may relate to a matter addressed by objectives set by the Secretary of State under section 51, and
+
+(b) must be consistent with those objectives.
+
+(3) In setting the objectives for a year the Authority shall—
+
+(a) consult the Chief Constable,[[^F38]and]
+
+(b) have regard to opinions expressed in accordance with section 62,[^F39]...
+
+[^F39]c . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 51 Policing objectives: Secretary of State
+
+(1) The Secretary of State may by direction to the Authority set objectives for policing the railways during a financial year.
+
+(2) The Secretary of State shall publish a direction under this section.
+
+(3) Before giving a direction under this section the Secretary of State shall consult—
+
+(a) the Authority, and
+
+(b) the Chief Constable.
+
+(4) Before giving a direction under this section the Secretary of State shall consider any representations made to him by the Scottish Ministers on the matter of objectives for policing the railways in Scotland.
+
+#### 52 Railways policing plan
+
+(1) Before the beginning of each financial year the Authority shall issue a plan setting out the proposed arrangements for policing the railways during that year.
+
+(2) The plan for a year must include a statement of—
+
+(a) the Authority’s priorities for the year,
+
+(b) the financial resources which the Authority expects to be available, and
+
+(c) the proposed allocation of resources.
+
+(3) The plan for a year must specify—
+
+(a) any objective set by the Authority for that year under section 50,
+
+(b) any objective by the Secretary of State for the year under section 51, and
+
+(c) any performance target set by the Authority in relation to the achievement of an objective for that year (whether set under section 53 or otherwise).
+
+(4) A plan for a year must be consistent with the relevant three-year strategy plan issued by the Authority under section 55.
+
+(5) The Chief Constable shall submit to the Authority a draft plan for each financial year.
+
+(6) Before issuing a plan which differs from the Chief Constable’s draft the Authority shall consult him.
+
+[[^F40](7) In preparing a plan the Chief Constable and the Authority shall have regard to any guidance given by the Secretary of State about railways policing plans.
+
+(7A) Before issuing or revising any guidance under subsection (7) the Secretary of State shall consult—
+
+(a) the Authority,
+
+(b) the Chief Constable, and
+
+(c) such other persons as the Secretary of State thinks fit.]
+
+(8) The Authority shall—
+
+(a) publish each plan under this section, and
+
+(b) send a copy of each plan under this section to the Secretary of State.
+
+#### 53 Performance targets
+
+(1) The Secretary of State may by direction to the Authority require it to set a target in relation to the achievement of an objective set under section 51.
+
+(2) A direction may specify a condition which a target must satisfy.
+
+(3) The Secretary of State shall publish a direction under this section.
+
+(4) Before giving a direction under this section the Secretary of State shall consider any representations made to him by the Scottish Ministers on the matter of targets for policing the railways in Scotland.
+
+#### 54 Performance directions
+
+[[^F41](1) The Secretary of State may give a direction to the Authority—
+
+(a) specifying factors (“performance indicators”) by reference to which the Authority's performance in exercising functions can be measured;
+
+(b) specifying standards (“performance standards”) to be met by the Authority in relation to performance indicators specified under paragraph (a).
+
+(1A) In specifying performance indicators and performance standards, and in deciding whether to do so, the Secretary of State shall aim to promote improvement of the way in which the functions of the Authority are exercised, having regard to a combination of economy, efficiency and effectiveness.
+
+(1B) A direction under subsection (1) may specify different performance indicators or performance standards—
+
+(a) for different functions;
+
+(b) to apply at different times.
+
+(1C) The Secretary of State may give a direction to the Authority requiring the Authority to—
+
+(a) specify performance indicators in relation to functions;
+
+(b) set targets for the performance of functions (“performance targets”) by reference to performance indicators specified under paragraph (a) or subsection (1)(a);
+
+(c) set a plan of action to be taken for the purposes of meeting a performance target.]
+
+(2) The Secretary of State shall publish a direction under this section.
+
+(3) Before giving a direction the Secretary of State shall consult—
+
+(a) the Authority, and
+
+(b) any other person that he thinks appropriate.
+
+#### 55 Three-year strategy plan
+
+(1) The Authority shall before the beginning of each consecutive period of three financial years issue a plan[[^F42](“a three-year strategy plan”) ] which sets out the authority’s medium-term and long-term strategies for policing the railways during that period.
+
+[[^F43](2) Before a three-year strategy plan for any period is issued by the Authority, a draft of a plan setting out medium-term and long-term strategies for policing the railways during that period must have been prepared by the Chief Constable and submitted by him to the Authority for its consideration.
+
+(3) In preparing the draft plan, the Chief Constable shall have regard to opinions expressed in accordance with section 62.
+
+(4) The Authority may modify a three-year strategy plan which it has issued for a particular period at any time during that period.
+
+(5) The Secretary of State may—
+
+(a) issue guidance to the Authority and to the Chief Constable as to—
+
+(i) the matters to be contained in any three-year strategy plan, and
+
+(ii) the form to be taken by any such plan,
+
+and
+
+(b) revise and modify that guidance from time to time.
+
+(6) Before issuing or revising any guidance under subsection (5) the Secretary of State shall consult—
+
+(a) the Authority,
+
+(b) the Chief Constable, and
+
+(c) such other persons as the Secretary of State thinks fit.
+
+(7) When issuing, preparing or modifying a three-year strategy plan or a draft of such a plan, the Authority or (as the case may be) the Chief Constable shall have regard to—
+
+(a) any guidance issued by the Secretary of State under subsection (5),
+
+(b) any objectives set by the Secretary of State under section 51 for a financial year falling within the period to which the plan relates,[[^F44] and ]
+
+(c) any performance targets set by the Authority under section 53 relating to such objectives, [^F45]...
+
+[^F45]d . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(8) Where the Authority is proposing to issue or modify any plan under this section, it shall submit that plan, or the modifications, to the Secretary of State.
+
+(9) Where the Authority issues a three-year strategy plan or modifies such a plan, it shall—
+
+(a) send a copy of the plan or the modified plan to the Secretary of State, and
+
+(b) cause the plan or modified plan to be published.
+
+The copy of any modified plan sent to the Secretary of State and the publication of any modified plan must show the modifications, or be accompanied by or published with a document which sets them out or describes them.
+
+(10) If the Secretary of State considers that there are grounds for thinking that—
+
+(a) a three-year strategy plan, or
+
+(b) any proposals by the Authority for such a plan, or for the modification of such a plan,
+
+may not be consistent with any of the objectives, targets or priorities mentioned in subsection (7), he shall, before informing the Authority of his conclusions on whether or not the plan or the proposals are in fact so inconsistent, consult the Authority and the Chief Constable.
+
+(11) The Authority shall consult the Chief Constable before—
+
+(a) it issues a three-year strategy plan that differs in any material respect from the draft submitted to it by the Chief Constable, or
+
+(b) it modifies its three-year strategy plan.
+
+(12) The Secretary of State may by regulations make provision for the procedure to be followed on the submission to him of any plan or modifications for the purposes of this section.]
+
+### Information, &c.
+
+#### 56 Reports by Chief Constable
+
+(1) As soon as is reasonably practicable after the end of each financial year the Chief Constable shall submit to the Authority a report about the policing of the railways in that year.
+
+(2) The Chief Constable shall publish a report submitted by him under subsection (1).
+
+(3) The Authority may require the Chief Constable to submit a report on specified matters connected with the performance of his functions.
+
+(4) The Authority may publish, or require the Chief Constable to publish, a report submitted under subsection (3).
+
+(5) But if the Chief Constable thinks that publication of all or part of a report under subsection (3) would be unnecessary, or undesirable for reasons of public interest—
+
+(a) he may require the Authority to refer to the Secretary of State the question whether that report or part should be published, and
+
+(b) the report or part shall be published only if the Secretary of State directs that it should be published.
+
+#### 57 Annual report by Authority
+
+(1) As soon as is reasonably practicable after the end of each financial year the Authority shall issue a report about the policing of the railways in that year.
+
+(2) The Authority’s report for a year must include an assessment of the extent to which—
+
+(a) the objectives set for the year under section 50 have been achieved,
+
+(b) the arrangements set out in the railways policing plan for the year under section 52 have been implemented, and
+
+(c) the strategies set out in the relevant three-year strategy plan under section 55 have been implemented.
+
+(3) The Authority shall—
+
+(a) publish each report under this section, and
+
+(b) send a copy of each report under this section to the Secretary of State.
+
+#### 58 Other reports to Secretary of State
+
+(1) The Secretary of State may by direction require the Authority to submit a report on specified matters connected with the performance of its functions.
+
+(2) The Secretary of State may by direction require the Chief Constable to submit a report on specified matters connected with the performance of his functions.
+
+(3) The Authority or Chief Constable shall submit a report required by direction under this section—
+
+(a) in such form as may be specified in the direction, and
+
+(b) within such period as may be specified in the direction.
+
+(4) The Secretary of State may—
+
+(a) publish a report received under this section;
+
+(b) require the author of the report to arrange for its publication.
+
+#### 59 Statistics
+
+(1) The Secretary of State may require the Chief Constable to supply information about matters relating to crime committed on or in connection with the railways.
+
+(2) In particular, the Secretary of State may require information about—
+
+(a) offences committed;
+
+(b) offenders;
+
+(c) criminal proceedings.
+
+(3) The Chief Constable shall supply information required under this section at such times and in such form as the Secretary of State requires.
+
+(4) Where the Secretary of State receives information under this section he shall lay it or a summary of it before Parliament.
+
+#### 60 Inquiry
+
+(1) The Secretary of State may appoint a person to inquire into a matter connected with the Police Force.
+
+(2) The Secretary of State may require a person appointed under this section to conduct the inquiry in public or in private.
+
+(3) A person appointed under this section may summon a person to attend at a specified time and place—
+
+(a) to give evidence;
+
+(b) to produce a document.
+
+(4) Where the Secretary of State receives a report of an inquiry under this section he shall, in so far as he thinks it in the public interest, publish a summary of the report.
+
+(5) In the application of this section to an inquiry held in Scotland subsection (3) shall have effect as if for “summon” there were substituted “ cite ”.
+
+#### 61 Inquiry: supplemental
+
+(1) A person appointed under section 60 may—
+
+(a) require evidence to be given on oath, and
+
+(b) for that purpose, administer an oath.
+
+(2) A person appointed under section 60 may not require the production of a document relating to the title of land which is not the property of the Authority.
+
+(3) A person commits an offence if without reasonable excuse he—
+
+(a) fails to comply with a summons under section 60, or
+
+(b) obstructs or fails to co-operate with an inquiry under that section.
+
+(4) A person has a reasonable excuse for failure to comply with a summons if he is not offered payment of the reasonable costs of compliance.
+
+(5) A person who is guilty of an offence under subsection (3) shall be liable on summary conviction to—
+
+(a) a fine not exceeding level 3 on the standard scale,
+
+(b) imprisonment for a term not exceeding 51 weeks, or
+
+(c) both.
+
+(6) The Secretary of State may direct the Authority to pay all or part of the costs incurred by a person in connection with an inquiry under section 60.
+
+(7) A direction under subsection (6) may include provision for taxation of costs.
+
+(8) In the application of this section in relation to an inquiry held in Scotland subsections (3) and (4) shall have effect as if for “summons” there were substituted “ citation ”.
+
+#### 62 Public consultation
+
+(1) The Authority shall make, and review from time to time, arrangements to obtain the opinions about the policing of the railways of—
+
+(a) passengers on the railways,
+
+(b) groups of persons representing passengers on the railways,
+
+(c) persons providing railway services,
+
+(d) organisations representing persons providing railway services,
+
+(e) employees of persons providing railway services,
+
+(f) organisations representing employees of persons providing railway services,
+
+(g) the Scottish Ministers,
+
+(h) the National Assembly for Wales,
+
+(i) organisations representing local authorities in England,
+
+[^F46]j . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(k) the [[^F47]Office of Rail and Road],
+
+(l) the Rail Accident Investigation Branch,
+
+[^F48]m . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F48]n . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(o) other persons with an interest in the railways whom the Authority thinks it appropriate to consult.
+
+(2) The Authority shall make, and review from time to time, arrangements to invite the co-operation of the persons listed in subsection (1) in preventing crime on the railways.
+
+(3) Before making or reviewing arrangements under this section the Authority shall—
+
+(a) consult the Chief Constable, and
+
+(b) have regard to any guidance issued by the Secretary of State.
+
+(4) The Secretary of State may—
+
+(a) issue guidance about arrangements under this section;
+
+(b) require the Authority to report to him on arrangements under this section;
+
+(c) require the Authority to review arrangements under this section.
+
+### Inspection
+
+#### 63 Inspection
+
+(1) Her Majesty’s Inspectors of Constabulary shall inspect the Police Force from time to time.
+
+(2) Her Majesty’s Inspectors of Constabulary shall also inspect the Police Force if requested by the Secretary of State to inspect the force—
+
+(a) generally, or
+
+(b) in respect of a particular matter.
+
+(3) Following an inspection the inspectors shall report to the Secretary of State on the efficiency and effectiveness of the force—
+
+(a) generally, or
+
+(b) in the case of an inspection under subsection (2)(b), in respect of the matters to which the inspection related.
+
+(4) A report under subsection (3) must be in such form as the Secretary of State may direct.
+
+(5) Where the Secretary of State receives a report under subsection (3) he shall publish it.
+
+(6) Section 55 of the Police Act 1996 (c. 16) (inspection reports: publication and comment) shall have effect, with any necessary modifications, in relation to a report of an inspection under this section.
+
+(7) The Authority shall pay to the Secretary of State such amounts as the Secretary of State may specify in respect of an inspection carried out under this section.
+
+(8) In the application of this section in relation to Scotland—
+
+(a) a reference to Her Majesty’s Inspectors of Constabulary shall be treated as a reference to inspectors of constabulary appointed under [[^F49]section 71(2) of the Police and Fire Reform (Scotland) Act 2012], and
+
+(b) where an inspection under this section is carried out by inspectors so appointed the references to the Secretary of State in subsection (7) shall be treated as references to the Scottish Ministers.
+
+#### 64 Action after adverse inspection report
+
+(1) Sections 65 and 66 apply where a report of Her Majesty’s Inspectors of Constabulary states that the Police Force is inefficient or ineffective—
+
+(a) generally, or
+
+(b) in a specified respect.
+
+(2) Sections 65 and 66 also apply where a report of Her Majesty’s Inspectors of Constabulary states that the Police Force is likely, unless remedial measures are taken, to become inefficient or ineffective—
+
+(a) generally, or
+
+(b) in a specified respect.
+
+(3) In the application of this section in relation to Scotland a reference to Her Majesty’s Inspectors of Constabulary shall be treated as a reference to inspectors of constabulary appointed under [[^F50]section 71(2) of the Police and Fire Reform (Scotland) Act 2012].
+
+#### 65 Remedial direction
+
+(1) Where this section applies as a result of a report the Secretary of State may by direction require the Authority to take specified measures for the purpose of remedying a deficiency identified in the report.
+
+(2) Before giving a direction under this section the Secretary of State shall—
+
+(a) notify the Authority and the Chief Constable of his intention to give a direction and the reasons for it,
+
+(b) give the Chief Constable an opportunity to make representations,
+
+(c) give the Authority an opportunity to make representations, and
+
+(d) give the Authority an opportunity to propose action that would make it unnecessary for the Secretary of State to give a direction.
+
+(3) Where the Secretary of State gives a direction under this section he shall lay before Parliament—
+
+(a) a copy of the direction, and
+
+(b) a report about it.
+
+#### 66 Action plan
+
+(1) Where this section applies as a result of a report, the Secretary of State may by direction require the Authority to submit to him a plan of action to be taken to remedy a deficiency identified in the report.
+
+(2) A direction under this section may require a plan to include, in particular—
+
+(a) performance targets;
+
+(b) a timetable;
+
+(c) proposals for assessment of achievement;
+
+(d) proposals for reporting to the Secretary of State about progress.
+
+(3) A direction under this section must specify a period of between four and twelve weeks within which the plan must be submitted.
+
+(4) Before giving a direction under this section the Secretary of State shall—
+
+(a) notify the Authority and the Chief Constable of his intention to give a direction and the reasons for it,
+
+(b) give the Chief Constable an opportunity to make representations,
+
+(c) give the Authority an opportunity to make representations, and
+
+(d) give the Authority an opportunity to propose action that would make it unnecessary for the Secretary of State to give a direction.
+
+(5) Where the Secretary of State gives a direction under this section he shall notify the Chief Constable.
+
+(6) As soon as is reasonably practicable after receiving a direction under this section the Authority shall require the Chief Constable to submit a draft plan of action.
+
+(7) Before submitting to the Secretary of State a plan which differs from the Chief Constable’s draft the Authority shall consult him.
+
+(8) Where the Secretary of State gives a direction under this section he shall lay before Parliament—
+
+(a) a copy of the direction, and
+
+(b) a report about it.
+
+(9) If the Secretary of State thinks that a plan of action submitted by the Authority under this section is inadequate, he may—
+
+(a) inform the Authority of his opinion and the reasons for it, and
+
+(b) give a new direction under this section.
+
+#### 67 Senior appointment: delegation of function
+
+The Secretary of State may delegate to the chief inspector of constabulary appointed under section 54 of the Police Act 1996 (c. 16) or [[^F51]designated under section 71(3) of the Police and Fire Reform (Scotland) Act 2012]the function of—
+
+(a) approving an appointment under or by virtue of a provision of this Part, or
+
+(b) giving consent under section 22(4) or 23(4).
+
+### Miscellaneous
+
+#### 68 Offences
+
+(1) Subsections (1) and (2) of section 89 of the Police Act 1996 (c. 16) (assault on constable, &c.) shall apply in relation to a constable of the Police Force as they apply in relation to other constables in England and Wales.
+
+(2) Section 90 of that Act (impersonation of constable) shall apply as if—
+
+(a) a reference to a member of a police force included a reference to a constable of the Police Force, and
+
+(b) a reference to a special constable appointed for a police area included a reference to a special constable of the Police Force.
+
+(3) In their application in relation to the Police Force by virtue of this section, sections 89 and 90 of that Act shall have effect throughout England and Wales and Scotland.
+
+#### 69 Part III of the Road Traffic Offenders Act 1988 (c. 53)
+
+(1) Part III of Road Traffic Offenders Act 1988 (fixed penalties) shall be amended as follows.
+
+(2) In section 75 (conditional offers in Scotland) after subsection (3) insert—
+
+> (3A) Where a constable is a constable of the British Transport Police Force subsection (3) shall have effect as if the reference to the chief constable were a reference to the chief constable of that force.
+
+[^F52]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 70 International assistance
+
+(1) The Authority may provide advice or assistance, or arrange for the Police Force to provide advice or assistance, to a body which has responsibilities in relation to the policing of a railway outside Great Britain.
+
+(2) Advice or assistance under subsection (1)—
+
+(a) may, in particular, involve the secondment of an employee,
+
+(b) may be provided on terms or conditions (whether as to payment or otherwise), and
+
+(c) may not involve the provision of financial assistance (whether or not by way of investment).
+
+(3) The power under subsection (1) may be exercised only with the consent of the Secretary of State (which may be general or specific and conditional or unconditional).
+
+#### 71 Exercise of functions by Secretary of State
+
+The Secretary of State shall exercise his functions in relation to the Authority under this Part for the purpose of promoting the efficiency and effectiveness of the Police Force.
+
+### General
+
+#### 72 Crown application
+
+This Part applies in relation to property irrespective of whether it belongs to or is used for the purposes of the Crown or a Duchy.
+
+#### 73 Consequential, transitional and incidental provision
+
+(1) Schedule 5 (amendments consequential on this Part) shall have effect.
+
+(2) The Secretary of State may by order make consequential, transitional or incidental provision, or savings, for the purpose of or in connection with a provision of this Part.
+
+(3) Transitional provision under subsection (2) may, in particular, make provision in connection with the abolition of the police force comprising constables appointed under section 53 of the British Transport Commission Act 1949 (c. xxix) (“the old transport police”); and that provision may include, in particular, provision—
+
+[^F53]a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) for the transfer to the Authority of property held [^F54]... for the purpose of or in connection with the old transport police;
+
+(c) for the transfer to the Authority of rights and liabilities arising in connection with the old transport police;
+
+(d) for employment to be treated as continuous in the case of staff transferred;
+
+(e) for or in relation to the continuity (with or without modifications) of a scheme in respect of pensions, which may include a scheme having effect under an instrument;
+
+(f) for provision under paragraph (c) or (e) to be treated as having a specified effect for the purposes of an enactment about pension schemes;
+
+(g) for a pension scheme to have effect with specified modifications (which may include the conferring of a discretionary function on the Secretary of State) for the purpose of ensuring or enhancing consistency of treatment in relation to—
+
+(i) different classes of employee of the Authority, or
+
+(ii) schemes appertaining to different classes of employee of the Authority;
+
+(h) treating persons appointed to the old transport police as having been appointed under this Part;
+
+(i) for dealing with—
+
+(i) the termination of agreements made in respect of the old transport police;
+
+(ii) the treatment of rights and liabilities under agreements made in respect of the old transport police by persons who enter into police services agreements with the Authority (whether or not they are required to do so);
+
+(j) for the assignment or transfer (under paragraphs (a) to (c)) of property, rights or liabilities that would not otherwise be capable of being assigned or transferred;
+
+(k) about the continuity of legal proceedings;
+
+(l) to have effect in place of the provision relating to bankruptcy restrictions orders while the enactment conferring power to make those orders has not come into force;
+
+(m) in respect of the period (if any) between the coming into force of section 18 and the beginning of the first financial year of the Authority.
+
+(4) An order under subsection (2) may amend an enactment or instrument.
+
+#### 74 Regulations and orders
+
+(1) An order or regulations under this Part—
+
+(a) may make provision which applies generally or only in specified cases or circumstances,
+
+(b) may make different provision for different cases or circumstances, and
+
+(c) may make transitional, consequential or incidental provision.
+
+(2) An order or regulations made by the Secretary of State under this Part shall be made by statutory instrument.
+
+(3) The following shall not be made unless a draft has been laid before and approved by resolution of each House of Parliament—
+
+(a) an order under section 73(2) which amends an enactment or instrument,
+
+(b) an order under section 73(2) which is made by virtue of section 73(3), and
+
+(c) an order under paragraph 24(2) of Schedule 4.
+
+(4) Any other order or regulations made by the Secretary of State under this Part shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+#### 75 Interpretation
+
+(1) For the purposes of this Part (including, except where the context requires otherwise, subsections (2) to (5) below) “railway” means—
+
+(a) a railway within the meaning given by section 67(1) of the Transport and Works Act 1992 (c. 42) (interpretation), and
+
+(b) a tramway within the meaning given by that section.
+
+(2) For the purposes of this Part “railway services” means the management or control, or participation in the management or control, of all or any part or aspect of a railway or railway property.
+
+(3) For the purposes of this Part “railway property” means—
+
+(a) a track,
+
+(b) a network,
+
+(c) a station,
+
+(d) a light maintenance depot,
+
+(e) a railway vehicle on a network or tramway,
+
+(f) rolling stock on a network or tramway,
+
+(g) a train used on a network, and
+
+(h) a vehicle used on a tramway.
+
+(4) For the purposes of this Part (including subsections (1)(b) and (3) above) “tramway” has the meaning given by section 67(1) of the Transport and Works Act 1992 (c. 42).
+
+(5) For the purposes of this Part the following expressions have the meaning given by section 82 or 83 of the Railways Act 1993 (c. 43) (interpretation) (or, where appropriate, an equivalent meaning in relation to a tramway)—
+
+(a) light maintenance depot,
+
+(b) network,
+
+(c) railway vehicle,
+
+(d) rolling stock,
+
+(e) station,
+
+(f) track, and
+
+(g) train.
+
+(6) In this Part unless the context requires otherwise a reference to a constable of the Police Force includes a reference to a constable of any rank.
+
+(7) In this Part a reference to the National Policing Plan is a reference to the plan provided for in section 36A of the Police Act 1996 (c. 16).
+
+(8) This section is subject to section 77(2).
+
+#### 76 Index of defined expressions
+
+The following expressions are defined for the purposes of this Part by the provisions specified.
+
+|  |  |
+|---|---|
+| *Expression* | *Provision* |
+| The Authority | Section 18 |
+| British Transport Police Federation | Section 39 |
+| The Chief Constable | Section 21 |
+| Constable | Sections 25(6) and 75 |
+| Light maintenance depot | Section 75 |
+| National Policing Plan | Section 75 |
+| Network | Section 75 |
+| Police services agreement | Section 33 |
+| The Police Force | Section 20 |
+| Railway | Section 75 |
+| Railway property | Section 75 |
+| Railway services | Section 75 |
+| Railway vehicle | Section 75 |
+| Rolling stock | Section 75 |
+| Station | Section 75 |
+| Track | Section 75 |
+| Train | Section 75 |
+| Tramway | Section 75 |
+
+#### 77 Extent
+
+(1) This Part shall extend only to—
+
+(a) England and Wales, and
+
+(b) Scotland.
+
+(2) In the application of this Part in relation to Scotland any reference to a tramway shall be disregarded.
+
+(3) The powers exercisable by virtue of section 28 shall not be exercisable in relation to Scotland.
+
+## Part 4 — Shipping: Alcohol and Drugs
+
+### Offences
+
+#### 78 Professional staff on duty
+
+(1) This section applies to—
+
+(a) a professional master of a ship,
+
+(b) a professional pilot of a ship, and
+
+(c) a professional seaman in a ship while on duty.
+
+(2) A person to whom this section applies commits an offence if his ability to carry out his duties is impaired because of drink or drugs.
+
+(3) A person to whom this section applies commits an offence if the proportion of alcohol in his breath, blood or urine exceeds the prescribed limit.
+
+(4) For the purposes of this section a master, pilot or seaman is professional if (and only if) he acts as master, pilot or seaman in the course of a business or employment.
+
+(5) Where a person is charged with an offence under this section in respect of the effect of a drug on his ability to carry out duties on a fishing vessel, it is a defence for him to show that—
+
+(a) he took the drug for a medicinal purpose on, and in accordance with, medical advice, or
+
+(b) he took the drug for a medicinal purpose and had no reason to believe that it would impair his ability to carry out his duties.
+
+#### 79 Professional staff off duty
+
+(1) This section applies to a professional seaman in a ship at a time when—
+
+(a) he is not on duty, but
+
+(b) in the event of an emergency he would or might be required by the nature or terms of his engagement or employment to take action to protect the safety of passengers.
+
+(2) A person to whom this section applies commits an offence if his ability to take the action mentioned in subsection (1)(b) is impaired because of drink or drugs.
+
+(3) A person to whom this section applies commits an offence if the proportion of alcohol in his breath, blood or urine exceeds the prescribed limit.
+
+(4) For the purposes of this section a seaman is professional if (and only if) he acts as seaman in the course of a business or employment.
+
+(5) Where a person is charged with an offence under this section in respect of the effect of a drug on his ability to take action it is a defence for him to show that—
+
+(a) he took the drug for a medicinal purpose on, and in accordance with, medical advice, or
+
+(b) he took the drug for a medicinal purpose and had no reason to believe that it would impair his ability to take the action.
+
+#### 80 Non-professionals
+
+(1) This section applies to a person who—
+
+(a) is on board a ship which is under way,
+
+(b) is exercising, or purporting or attempting to exercise, a function in connection with the navigation of the ship, and
+
+(c) is not a person to whom section 78 or 79 applies.
+
+(2) A person to whom this section applies commits an offence if his ability to exercise the function mentioned in subsection (1)(b) is impaired because of drink or drugs.
+
+(3) A person to whom this section applies commits an offence if the proportion of alcohol in his breath, blood or urine exceeds the prescribed limit.
+
+(4) The Secretary of State may make regulations providing for subsection (3) not to apply in specified circumstances.
+
+(5) Regulations under subsection (4) may make provision by reference, in particular—
+
+(a) to the power of a motor;
+
+(b) to the size of a ship;
+
+(c) to location.
+
+#### 81 Prescribed limit
+
+(1) The prescribed limit of alcohol for the purposes of this Part is—
+
+(a) in the case of breath, [[^F55]25] microgrammes of alcohol in 100 millilitres,
+
+(b) in the case of blood, [[^F56]50] milligrammes of alcohol in 100 millilitres, and
+
+(c) in the case of urine, [[^F57]67] milligrammes of alcohol in 100 millilitres.
+
+(2) The Secretary of State may make regulations amending subsection (1).
+
+### Enforcement
+
+#### 82 Penalty
+
+A person guilty of an offence under this Part shall be liable—
+
+(a) on conviction on indictment, to imprisonment for a term not exceeding two years, to a fine or to both, or
+
+(b) on summary conviction, to a fine not exceeding the statutory maximum.
+
+#### 83 Specimens, &c.
+
+(1) The provisions specified in the first column of the table below, with the modifications specified in the third column and any other necessary modifications, shall have effect in relation to an offence under this Part.
+
+[[^F58](1A) The references in the table to provisions of the Road Traffic Act 1988 or the Road Traffic Offenders Act 1988 are, subject to any contrary intention expressed in this Part or in any other enactment, references to those provisions as amended from time to time.]
+
+<table>
+<tbody>
+<tr><th><i>Provision</i></th><th><i>Description</i></th><th><i>Modification</i></th></tr>
+<tr><th colspan="3"><i>Road Traffic Act</i> 1988 (c. 52)</th></tr>
+<tr><td>Section 6</td><td>Power to administer preliminary tests</td><td>In place of subsections (2) to (5) the power to require a person to co-operate with a preliminary test shall apply where—<br>- (a) a constable in uniform reasonably suspects that the person is committing an offence under section 78, 79 or 80,<br>- (b) a constable in uniform reasonably suspects that the person has committed an offence under section 78, 79 or 80 and still has alcohol or a drug in his body or is still under the influence of a drug, or<br>- (c) an accident occurs owing to the presence of a ship in a public place and a constable reasonably suspects that the person was at the time of the accident a person to whom section 78, 79 or 80 applied.</td></tr>
+<tr><td>Sections 6A to 6E</td><td>Preliminary breath test, impairment test, and drug test</td><td>In place of sections 6A(2) and (3), 6B(4) and 6C(2), a preliminary breath test, preliminary impairment test or preliminary drug test may be administered by a constable—<br>- (a) at or near the place where the requirement to co-operate with the test is imposed, or<br>- (b) at a police station specified by the constable. In section 6B(3) a reference to unfitness to drive shall be treated as a reference to having an impaired ability, because of drink or drugs, to do anything specified in section 78(2), 79(2) or 80(2). [[^F59]In section 6C, the following shall be disregarded—<br>- (a) in subsection (1)(b), the words following “in his body”;<br>- (b) subsection (3). In section 6D, subsection (1)(b) shall be disregarded.]</td></tr>
+<tr><td>Section 7</td><td>Provision of specimen</td><td>In subsection (1) the reference to an offence under section 3A, 4 or 5 of the 1988 Act shall be treated as a reference to an offence under section 78, 79 or 80 of this Act. [[^F60]Subsection (1A) shall be disregarded. In subsection (2)(b), the reference to the circumstances in which section 6(5) of the 1988 Act applies shall be treated as a reference to the circumstances in which the following provision of this table applies: paragraph (c) of the modifications specified for section 6 of the 1988 Act.] In subsection (3)(c) the reference to an offence under section 3A [[^F61], 4 or 5A] of the 1988 Act shall be treated as a reference to an offence under section 78(2), 79(2) or 80(2) of this Act.</td></tr>
+<tr><td>Section 7A</td><td>Specimen of blood taken from person incapable of consenting</td><td></td></tr>
+<tr><td>Section 8</td><td>[[^F62]Breath specimen showing higher alcohol level to be disregarded]</td><td></td></tr>
+<tr><td>Section 9</td><td>Protection for hospital patient</td><td></td></tr>
+<tr><td>Section 10</td><td>Detention of person affected by alcohol or drug</td><td>In subsection (1)—<br>- (a) the reference to driving or attempting to drive a mechanically propelled vehicle on a road shall be treated as a reference to exercising a function in connection with the navigation of a ship, and<br>- (b) the reference to an offence under section 4 [[^F63], 5 or 5A] of the 1988 Act shall be treated as a reference to an offence under section 78, 79 or 80 of this Act. In subsection (2) the reference to driving a mechanically propelled vehicle shall be treated as a reference to exercising a function in connection with the navigation of a ship. [[^F64]In subsection (2), paragraph (c) shall be disregarded.] In subsection (3) the reference to driving properly shall be treated as a reference to exercising a function in connection with the navigation of a ship.</td></tr>
+<tr><td>Section 11</td><td>Interpretation</td><td>For the definition of “the prescribed limit” there shall be substituted the definition given in this Part.</td></tr>
+<tr><th colspan="3"><i>Road Traffic Offenders Act</i> 1988 (c. 53)</th></tr>
+<tr><td>Section 15</td><td>Use of specimens</td><td>In subsection (1), the reference to an offence under [[^F65]any of sections 3A to 5A] of the Road Traffic Act 1988 shall be treated as a reference to an offence under section 78, 79 or 80 of this Act. [[^F66]Subsection (2)(b) shall be disregarded.] The relevant time for the consumption of alcohol for the purpose of subsection (3)(a) shall be before providing the specimen and after the time of the alleged offence. In subsection (3)(b) the reference to driving shall be treated as a reference to exercising a function in connection with the navigation of a ship. [[^F67]Subsection (3A) shall be disregarded.]</td></tr>
+<tr><td>Section 16</td><td>Documentary evidence</td><td></td></tr>
+</tbody>
+</table>
+
+(2) The Secretary of State may by regulations amend the table in subsection (1) so as—
+
+(a) to add a provision relating to an offence which concerns alcohol or drugs in relation to road traffic;
+
+(b) to add, remove or amend a modification (whether or not in connection with an amendment of a provision specified in the table).
+
+(3) For the purpose of the application by subsection (1) of a provision listed in the table in that subsection—
+
+(a) the provision shall extend to the whole of the United Kingdom, and
+
+(b) a reference to the provision shall be treated, unless the context otherwise requires, as including a reference to the provision as applied.
+
+#### 84 Detention pending arrival of police
+
+(1) A marine official may detain a ship if he reasonably suspects that a person who is or may be on board the ship—
+
+(a) is committing an offence under section 78, 79 or 80, or
+
+(b) has committed an offence under section 78, 79 or 80.
+
+(2) The power of detention under subsection (1)—
+
+(a) is conditional upon the marine official making a request, either before the detention or as soon as possible after its commencement, for a constable in uniform to attend, and
+
+(b) lapses when a constable in uniform has decided whether or not to exercise a power by virtue of section 83 and has informed the marine official of his decision.
+
+(3) In this section “marine official” means—
+
+(a) a harbour master, or an assistant of a harbour master, appointed by a harbour authority,
+
+(b) a person listed in section 284(1)(a) to (d) of the Merchant Shipping Act 1995 (c. 21)(detention of ship), and
+
+(c) a person falling within a class designated by order of the Secretary of State.
+
+(4) In construing section 284(1)(b) of the Merchant Shipping Act 1995 (detention by person authorised by Secretary of State) for the purpose of subsection (3)(b) above, the reference to authorisation to exercise powers under that section shall be taken as a reference—
+
+(a) to general authorisation to exercise powers under that section, and
+
+(b) to general or particular authorisation to exercise powers under this section.
+
+#### 85 Arrest without warrant
+
+(1) A constable may arrest a person without a warrant if the constable reasonably suspects that the person—
+
+(a) is committing an offence under section 78(2), 79(2) or 80(2), or
+
+(b) has committed one of those offences and is still under the influence of drink or drugs.
+
+(2) But a person may not be arrested under this section while he is at a hospital as a patient.
+
+(3) In subsection (2) “hospital” means an institution which—
+
+(a) provides medical or surgical treatment for in-patients or out-patients, and
+
+(b) is not on a ship.
+
+(4) Arrest under this section shall be treated as arrest for an offence for the purposes of—
+
+(a) Part IV of the Police and Criminal Evidence Act 1984 (c. 60) (detention), and
+
+(b) Part V of the Police and Criminal Evidence (Northern Ireland) Order 1989 (S.I. 1989/1341 (N.I. 12)) (detention).
+
+#### 86 Right of entry
+
+(1) A constable in uniform may board a ship if he reasonably suspects that he may wish to exercise a power by virtue of section 83 or under section 85 in respect of a person who is or may be on the ship.
+
+(2) A constable in uniform may enter any place if he reasonably suspects that he may wish to exercise a power by virtue of section 83 or under section 85 in respect of a person who is or may be in that place.
+
+(3) For the purposes of boarding a ship or entering a place under this section a constable—
+
+(a) may use reasonable force;
+
+(b) may be accompanied by one or more persons.
+
+### General
+
+#### 87 Consequential repeal
+
+Section 117 of the Merchant Shipping Act 1995 (c. 21) (drunkenness on duty) shall cease to have effect.
+
+#### 88 Orders and regulations
+
+(1) An order or regulations under this Part may—
+
+(a) make transitional, supplemental and incidental provision;
+
+(b) make provision generally or for specified purposes only;
+
+(c) make different provision for different purposes.
+
+(2) The power under section 84(3)(c) for the Secretary of State to designate a class of person includes a power for him to designate—
+
+(a) himself, or
+
+(b) one or more persons employed in his Department.
+
+(3) An order or regulations under this Part shall be made by statutory instrument.
+
+(4) Regulations under this Part shall not be made unless a draft has been laid before and approved by resolution of each House of Parliament.
+
+(5) An order under section 84(3)(c) shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(6) Before making regulations under section 81(2) the Secretary of State shall consult such organisations as he thinks fit.
+
+#### 89 Interpretation
+
+(1) In this Part—
+
+(a) “ship” includes every description of vessel used in navigation, and
+
+(b) a reference to the navigation of a vessel includes a reference to the control or direction, or participation in the control or direction, of the course of a vessel.
+
+(2) Section 313 of the Merchant Shipping Act 1995 (c. 21) (interpretation) shall apply to the following expressions used in this Part—
+
+(a) fishing vessel,
+
+(b) foreign ship,
+
+(c) harbour authority,
+
+(d) master,
+
+(e) registered,
+
+(f) seaman,
+
+(g) United Kingdom ship, and
+
+(h) United Kingdom waters.
+
+(3) In this Part “pilot” has the meaning given by section 31(1) of the Pilotage Act 1987 (c. 21) (interpretation).
+
+(4) Regulations under section 267(4)(a) of the Merchant Shipping Act 1995 (power to define “accident” for the purposes of provisions about marine accident investigations) shall, so far as is practicable, apply to the word “accident” as used in relation to this Part.
+
+(5) In this Part “drug” includes any intoxicant other than alcohol.
+
+#### 90 Crown application, &c.
+
+(1) This Part shall not apply to a member of [[^F68]any of Her Majesty's forces (within the meaning of the Armed Forces Act 2006)] while acting in the course of his duties.
+
+(2) Subject to subsection (1), this Part shall apply to a person in the service of the Crown.
+
+(3) But section 84 shall not have effect in relation to a ship which—
+
+(a) is being used for a purpose of Her Majesty’s forces, or
+
+(b) forms part of the Royal Fleet Auxiliary Service.
+
+(4) This Part shall not apply to—
+
+(a) a member of a visiting force, within the meaning which that expression has in section 3 of the Visiting Forces Act 1952 (c. 67) by virtue of section 12(1) of that Act, while acting in the course of his duties, or
+
+(b) a member of a civilian component of a visiting force, within that meaning, while acting in the course of his duties.
+
+#### 91 Territorial application
+
+(1) This Part shall have effect in relation to—
+
+(a) United Kingdom ships,
+
+(b) foreign ships in United Kingdom waters, and
+
+(c) un-registered ships in United Kingdom waters.
+
+(2) Section 86 shall not extend to Scotland.
+
+(3) Subsection (2) does not affect any rule of law or enactment concerning the right of a constable in Scotland to board a ship or enter any place for any purpose.
+
+## Part 5 — Aviation: Alcohol and Drugs
+
+### Offences
+
+#### 92 Being unfit for duty
+
+(1) A person commits an offence if—
+
+(a) he performs an aviation function at a time when his ability to perform the function is impaired because of drink or drugs, or
+
+(b) he carries out an activity which is ancillary to an aviation function at a time when his ability to perform the function is impaired because of drink or drugs.
+
+(2) In this section “drug” includes any intoxicant other than alcohol.
+
+(3) Section 94 defines “aviation function” and “ancillary activity” for the purposes of this Part.
+
+#### 93 Prescribed limit
+
+(1) A person commits an offence if—
+
+(a) he performs an aviation function at a time when the proportion of alcohol in his breath, blood or urine exceeds the prescribed limit, or
+
+(b) he carries out an activity which is ancillary to an aviation function at a time when the proportion of alcohol in his breath, blood or urine exceeds the prescribed limit.
+
+(2) The prescribed limit of alcohol is (subject to subsection (3))—
+
+(a) in the case of breath, 9 microgrammes of alcohol in 100 millilitres,
+
+(b) in the case of blood, 20 milligrammes of alcohol in 100 millilitres, and
+
+(c) in the case of urine, 27 milligrammes of alcohol in 100 millilitres.
+
+(3) In relation to the aviation function specified in section 94(1)(h) the prescribed limit is—
+
+(a) in the case of breath, 35 microgrammes of alcohol in 100 millilitres,
+
+(b) in the case of blood, 80 milligrammes of alcohol in 100 millilitres, and
+
+(c) in the case of urine, 107 milligrammes of alcohol in 100 millilitres.
+
+(4) The Secretary of State may make regulations amending subsection (2) or (3).
+
+(5) Section 94 defines “aviation function” and “ancillary activity” for the purposes of this Part.
+
+#### 94 Aviation functions
+
+(1) For the purposes of this Part the following (and only the following) are aviation functions—
+
+(a) acting as a pilot of an aircraft during flight,
+
+(b) acting as flight navigator of an aircraft during flight,
+
+(c) acting as flight engineer of an aircraft during flight,
+
+(d) acting as flight radio-telephony operator of an aircraft during flight,
+
+(e) acting as a member of the cabin crew of an aircraft during flight,
+
+(f) attending the flight deck of an aircraft during flight to give or supervise training, to administer a test, to observe a period of practice or to monitor or record the gaining of experience,
+
+(g) acting as an air traffic controller in pursuance of a licence granted under or by virtue of an enactment (other than a licence granted to a student), and
+
+(h) acting as a licensed aircraft maintenance engineer.
+
+(2) For the purposes of subsection (1)(h) a person acts as a licensed aircraft maintenance engineer if—
+
+(a) he issues a document relating to the maintenance, condition or use of an aircraft or equipment in reliance on a licence granted under or by virtue of an enactment relating to aviation, or
+
+(b) he carries out or supervises work on an aircraft or equipment with a view to, or in connection with, the issue by him of a document of the kind specified in paragraph (a).
+
+(3) For the purposes of this Part a reference to an activity which is ancillary to an aviation function is a reference to anything which falls to be treated as such by virtue of subsections (4) to (6).
+
+(4) An activity shall be treated as ancillary to an aviation function if it is undertaken—
+
+(a) by a person who has reported for a period of duty in respect of the function, and
+
+(b) as a requirement of, for the purpose of or in connection with the performance of the function during that period of duty.
+
+(5) A person who in accordance with the terms of an employment or undertaking holds himself ready to perform an aviation function if called upon shall be treated as carrying out an activity ancillary to the function.
+
+(6) Where a person sets out to perform an aviation function, anything which he does by way of preparing to perform the function shall be treated as an activity ancillary to it.
+
+(7) For the purposes of this Part it is immaterial whether a person performs a function or carries out an activity in the course of an employment or trade or otherwise.
+
+(8) The Secretary of State may by regulations—
+
+(a) amend this section;
+
+(b) make an amendment of this Part which is consequential on an amendment under paragraph (a).
+
+### Enforcement
+
+#### 95 Penalty
+
+A person guilty of an offence under this Part shall be liable—
+
+(a) on conviction on indictment, to imprisonment for a term not exceeding two years, to a fine or to both, or
+
+(b) on summary conviction, to a fine not exceeding the statutory maximum.
+
+#### 96 Specimens, &c.
+
+(1) The provisions specified in the first column of the table below, with the modifications specified in the third column and any other necessary modifications, shall have effect in relation to an offence under this Part.
+
+[[^F69](1A) The references in the table to provisions of the Road Traffic Act 1988 or the Road Traffic Offenders Act 1988 are, subject to any contrary intention expressed in this Part or in any other enactment, references to those provisions as amended from time to time.]
+
+<table>
+<tbody>
+<tr><th><i>Provision</i></th><th><i>Description</i></th><th><i>Modification</i></th></tr>
+<tr><th colspan="3"><i>Road Traffic Act</i> 1988 (c. 52)</th></tr>
+<tr><td>Section 6</td><td>Power to administer preliminary tests</td><td>In place of subsections (2) to (5) the power to require a person to co-operate with a preliminary test shall apply where—<br>- (a) a constable in uniform reasonably suspects that the person is committing an offence under section 92 or 93,<br>- (b) a constable in uniform reasonably suspects that the person has committed an offence under section 92 or 93 and still has alcohol or a drug in his body or is still under the influence of a drug,<br>- (c) an aircraft is involved in an accident and a constable reasonably suspects that the person was undertaking an aviation function, or an activity ancillary to an aviation function, in relation to the aircraft at the time of the accident, or<br>- (d) an aircraft is involved in an accident and a constable reasonably suspects that the person has undertaken an aviation function, or an activity ancillary to an aviation function, in relation to the aircraft.</td></tr>
+<tr><td>Sections 6A to 6E</td><td>Preliminary breath test, impairment test, and drug test</td><td>In place of sections 6A(2) and (3), 6B(4) and 6C(2), a preliminary breath test, preliminary impairment test or preliminary drug test may be administered by a constable—<br>- (a) at or near the place where the requirement to co-operate with the test is imposed, or<br>- (b) at a police station specified by the constable. In section 6B(3) a reference to unfitness to drive shall be treated as a reference to having an impaired ability, because of drink or drugs, to perform an aviation function or to carry out an activity which is ancillary to an aviation function. [[^F70]In section 6C, the following shall be disregarded—<br>- (a) in subsection (1)(b), the words following “in his body”;<br>- (b) subsection (3).<br>In section 6D, subsection (1)(b) shall be disregarded.]</td></tr>
+<tr><td>Section 7</td><td>Provision of specimen</td><td>In subsection (1) the reference to an offence under section 3A, 4 or 5 of the 1988 Act shall be treated as a reference to an offence under section 92 or 93 of this Act. [[^F71]Subsection (1A) shall be disregarded. In subsection (2)(b), the reference to the circumstances in which section 6(5) of the 1988 Act applies shall be treated as a reference to the circumstances in which the following provisions of this table apply: paragraphs (c) and (d) of the modifications specified for section 6 of the 1988 Act.] In subsection (3)(c) the reference to an offence under section 3A[[^F72], 4 or 5A] of the 1988 Act shall be treated as a reference to an offence under section 92 of this Act.</td></tr>
+<tr><td>Section 7A</td><td>Specimen of blood taken from person incapable of consenting</td><td></td></tr>
+<tr><td>Section 8</td><td>[[^F73]Breath specimen showing higher alcohol level to be disregarded]</td><td>[^F74] . . .</td></tr>
+<tr><td>Section 9</td><td>Protection for hospital patient</td><td></td></tr>
+<tr><td>Section 10</td><td>Detention of person affected by alcohol or drug</td><td>In subsection (1)—<br>- (a) the reference to driving or attempting to drive a mechanically propelled vehicle on a road shall be treated as a reference to performing an aviation function of the kind in respect of which the requirement to provide a specimen was imposed, and<br>- (b) the reference to an offence under section 4[[^F75], 5 or 5A] of the 1988 Act shall be treated as a reference to an offence under section 92 or 93 of this Act. In subsection (2) the reference to driving a mechanically propelled vehicle shall be treated as a reference to performing an aviation function. [[^F76]In subsection (2), paragraph (c) shall be disregarded.] In subsection (3) the reference to driving properly shall be treated as a reference to performing an aviation function.</td></tr>
+<tr><td>Section 11</td><td>Interpretation</td><td>For the definition of “the prescribed limit” there shall be substituted the definition given in this Part.</td></tr>
+<tr><th colspan="3"><i>Road Traffic Offenders Act</i> 1988 (c. 53)</th></tr>
+<tr><td>Section 15</td><td>Use of specimens</td><td>In subsection (1), the reference to an offence under [[^F77]any of sections 3A to 5A] of the Road Traffic Act 1988 shall be treated as a reference to an offence under section 92 or 93 of this Act. [[^F78]Subsection (2)(b) shall be disregarded.] The relevant time for the consumption of alcohol for the purpose of subsection (3)(a) shall be before providing the specimen and after the time of the alleged offence. In subsection (3)(b) the reference to driving shall be treated as a reference to undertaking an aviation function or an activity ancillary to an aviation function. [[^F79]Subsection (3A) shall be disregarded.]</td></tr>
+<tr><td>Section 16</td><td>Documentary evidence</td><td></td></tr>
+</tbody>
+</table>
+
+(2) The Secretary of State may by regulations amend the table in subsection (1) so as—
+
+(a) to add a provision relating to an offence which concerns alcohol or drugs in relation to road traffic;
+
+(b) to add, remove or amend a modification (whether or not in connection with an amendment of a provision specified in the table).
+
+(3) For the purpose of the application by subsection (1) of a provision listed in the table in that subsection—
+
+(a) the provision shall extend to the whole of the United Kingdom, and
+
+(b) a reference to the provision shall be treated, unless the context otherwise requires, as including a reference to the provision as applied.
+
+#### 97 Arrest without warrant
+
+(1) A constable may arrest a person without a warrant if the constable reasonably suspects that the person—
+
+(a) is committing an offence under section 92, or
+
+(b) has committed an offence under that section and is still under the influence of drink or drugs.
+
+(2) But a person may not be arrested under this section while he is at a hospital as a patient.
+
+(3) In subsection (2) “hospital” means an institution which provides medical or surgical treatment for in-patients or out-patients.
+
+(4) Arrest under this section shall be treated as arrest for an offence for the purposes of—
+
+(a) Part IV of the Police and Criminal Evidence Act 1984 (c. 60) (detention), and
+
+(b) Part V of the Police and Criminal Evidence (Northern Ireland) Order 1989 (S.I. 1989/1341 (N.I. 12)) (detention).
+
+#### 98 Right of entry
+
+(1) A constable in uniform may board an aircraft if he reasonably suspects that he may wish to exercise a power by virtue of section 96 or under section 97 in respect of a person who is or may be on the aircraft.
+
+(2) A constable in uniform may enter any place if he reasonably suspects that he may wish to exercise a power by virtue of section 96 or under section 97 in respect of a person who is or may be in that place.
+
+(3) For the purposes of boarding an aircraft or entering a place under this section a constable—
+
+(a) may use reasonable force;
+
+(b) may be accompanied by one or more persons.
+
+### General
+
+#### 99 Regulations
+
+(1) Regulations under this Part may—
+
+(a) make transitional, supplemental and incidental provision;
+
+(b) make provision generally or for a specified purpose only;
+
+(c) make different provision for different purposes.
+
+(2) Regulations under this Part—
+
+(a) shall be made by statutory instrument, and
+
+(b) may not be made unless a draft has been laid before and approved by resolution of each House of Parliament.
+
+(3) Before making regulations under section 93 or 94 the Secretary of State shall consult such organisations as he thinks appropriate.
+
+#### 100 Crown application
+
+(1) This Part shall apply to a function or activity performed or carried out in relation to an aircraft which belongs to or is employed in the service of the Crown.
+
+(2) This section is subject to section 101.
+
+#### 101 Military application
+
+(1) This Part shall not apply to a function or activity which is performed or carried out by a member of [[^F80]any of Her Majesty's forces (within the meaning of the Armed Forces Act 2006) ], acting in the course of his duties.
+
+(2) This Part shall not apply to a function or activity which is performed or carried out by—
+
+(a) a member of a visiting force, within the meaning which that expression has in section 3 of the Visiting Forces Act 1952 (c. 67) by virtue of section 12(1) of that Act, acting in the course of his duties, or
+
+(b) a member of a civilian component of a visiting force, within that meaning, acting in the course of his duties.
+
+(3) This Part shall not apply to a function or activity which is performed or carried out by a military or civilian member of a headquarters, within the meaning given by paragraphs 1 and 2 of the Schedule to the International Headquarters and Defence Organisations Act 1964 (c. 5), acting in the course of his duties.
+
+#### 102 Territorial application
+
+(1) This Part applies in relation to—
+
+(a) a function or activity performed or carried out in the United Kingdom, and
+
+(b) a flight function performed or flight activity carried out on a United Kingdom aircraft.
+
+(2) In subsection (1)—
+
+- “flight function” means a function falling within section 94(1)(a) to (f),
+- “flight activity” means an activity which for the purposes of this Part is ancillary to a flight function, and
+- “United Kingdom aircraft” means an aircraft which is registered, in accordance with an enactment about aircraft, in the United Kingdom.
+
+(3) Her Majesty may by Order in Council direct that a provision of this Part shall apply (with or without modification)—
+
+(a) to a function or activity performed or carried out in any of the Channel Islands or a British overseas territory;
+
+(b) to a function performed or activity carried out on an aircraft which is registered, in accordance with an enactment about aircraft, in any of the Channel Islands or a British overseas territory.
+
+(4) Section 98 shall not extend to Scotland.
+
+(5) Subsection (4) does not affect any rule of law or enactment concerning the right of a constable in Scotland to board an aircraft or enter any place for any purpose.
+
+## Part 6 — Miscellaneous
+
+### 103 Convention on International Carriage by Rail
+
+(1) The Secretary of State may make regulations for the purpose of giving effect to the Convention concerning International Carriage by Rail signed at Berne on 9th May 1980 as set out in the Annex to the modifying Protocol signed at Vilnius on 3rd June 1999.
+
+(2) Schedule 6 shall have effect (provision which may be made by regulations in connection with that Convention made under subsection (1) above [^F81]...).
+
+(3) Regulations made under or by virtue of this section shall bind the Crown except in so far as they provide to the contrary.
+
+(4) Regulations made under this section shall be made by statutory instrument.
+
+(5) Regulations made under or by virtue of this section may not be made unless a draft has been laid before and approved by resolution of each House of Parliament.
+
+(6) This section extends to the whole of the United Kingdom.
+
+### [^F82]104 Office of Rail Regulation: general duties
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 105 Railways safety levy
+
+(1) The following shall be inserted after section 43 of the Health and Safety at Work etc. Act 1974 (c. 37) (financial provision)—
+
+> **43A Railway safety levy**
+>
+> (1) The Secretary of State may make regulations requiring persons who provide railway services to pay railway safety levy.
+>
+> (2) Railway safety levy shall be applied only for the purpose of meeting expenses incurred—
+>
+> (a) in respect of activity undertaken by the Executive in reliance on section 117 of the Railways Act 1993 (safety of railways, &c.), or
+>
+> (b) in respect of activity undertaken by the Executive, under or by virtue of any other enactment, in relation to a transport system to which that section applies.
+>
+> (3) The railway safety levy shall not be used to meet—
+>
+> (a) an expense in respect of which a fee is payable under regulations made under section 43, or
+>
+> (b) an expense in respect of a matter specified by the regulations for the purpose of this paragraph.
+>
+> (4) Where an expense is incurred partly in respect of activity within subsection (2)(a) or (b) and partly in respect of other activity, the railway safety levy may be used to meet a part of that expense which is reasonably referable to activity within subsection (2)(a) or (b).
+>
+> (5) Regulations under subsection (1) may, in particular, determine or enable the Commission or the Executive to determine—
+>
+> (a) the total amount of the railway safety levy to be imposed in respect of a specified period;
+>
+> (b) the persons by whom the levy is to be paid;
+>
+> (c) the criteria for assessing the proportion of the levy to be paid by a particular person (which may, in particular, refer to the size of a person’s income or provide for an amount to be reduced or waived in specified circumstances);
+>
+> (d) the periods in respect of which the levy is to be paid;
+>
+> (e) the manner in which the levy is to be paid;
+>
+> (f) the person to whom the levy is to be paid;
+>
+> (g) when the levy is to be paid.
+>
+> (6) Regulations under subsection (1) may, in particular, enable the Commission or the Executive—
+>
+> (a) to require a person who provides railway services to supply information for the purposes of the consideration of a matter specified in subsection (5);
+>
+> (b) where information requested is not supplied, to make assumptions;
+>
+> (c) to revise a determination of a matter specified in subsection (5) (whether before, during or after the period to which it relates);
+>
+> (d) to make refunds.
+>
+> (7) Regulations by virtue of subsection (6)(a) may, in particular, make provision—
+>
+> (a) about the manner and timing of the supply of information;
+>
+> (b) about certification of the accuracy of information supplied;
+>
+> (c) creating a criminal offence in connection with the supply of inaccurate or misleading information (but not an offence punishable with imprisonment).
+>
+> (8) Regulations under subsection (1) may enable payment to be enforced by civil proceeding.
+>
+> (9) For the purposes of this section a person provides railway services if he manages or controls, or participates in managing or controlling, a transport system to which section 117 of the Railways Act 1993 applies.
+
+(2) In section 28(1)(a) of that Act (restriction on disclosure of information) after “27A above” insert “ , by virtue of section 43A(6) below ”.
+
+(3) In section 82 of that Act (general provisions)—
+
+(a) in subsection (3)(b) after “which” insert “ (unless subsection (4) applies) ”, and
+
+(b) after subsection (3) insert—
+
+> (4) The first regulations under section 43A(1) shall not be made unless a draft has been laid before and approved by resolution of each House of Parliament.
+
+### 106 Railway security services
+
+The following shall be inserted after section 121 of the Railways Act 1993 (c. 43) (security: inspection)—
+
+> **121A Railway security services: approved providers**
+>
+> (1) In this section “railway security service” means a process or activity carried out for the purpose of—
+>
+> (a) complying with a requirement of an instruction under section 119, or
+>
+> (b) facilitating a person’s compliance with a requirement of an instruction under section 119.
+>
+> (2) Regulations may provide for the Secretary of State to maintain a list of persons who are approved by him for the provision of a particular railway security service.
+>
+> (3) The regulations may—
+>
+> (a) prohibit the provision of a railway security service by a person who is not listed in respect of that service;
+>
+> (b) prohibit the use or engagement for the provision of a railway security service of a person who is not listed in respect of that service;
+>
+> (c) create a criminal offence;
+>
+> (d) make provision about application for inclusion in the list (including provision about fees);
+>
+> (e) make provision about the duration and renewal of entries on the list (including provision about fees);
+>
+> (f) make provision about training or qualifications which persons who apply to be listed or who are listed are required to undergo or possess;
+>
+> (g) make provision about removal from the list which shall include provision for appeal;
+>
+> (h) make provision about the inspection of activities carried out by listed persons;
+>
+> (i) confer functions on the Secretary of State or on a specified person;
+>
+> (j) confer jurisdiction on a court.
+>
+> (4) Regulations under subsection (3)(c)—
+>
+> (a) may not provide for a penalty on summary conviction greater than a fine not exceeding the statutory maximum,
+>
+> (b) may not provide for a penalty of imprisonment on conviction on indictment greater than imprisonment for a term not exceeding two years (whether or not accompanied by a fine), and
+>
+> (c) may create a criminal offence of purporting, with intent to deceive, to do something as a listed person or of doing something, with intent to deceive, which purports to be done by a listed person.
+>
+> (5) An instruction under section 119 may—
+>
+> (a) include a requirement to use a listed person for the provision of a railway security service;
+>
+> (b) provide for all or part of the instruction not to apply or to apply with modified effect where a listed person provides a railway security service.
+>
+> (6) Regulations under this section—
+>
+> (a) may make different provision for different cases,
+>
+> (b) may include incidental, supplemental or transitional provision,
+>
+> (c) shall be made by the Secretary of State by statutory instrument,
+>
+> (d) shall not be made unless the Secretary of State has consulted organisations appearing to him to represent persons affected by the regulations, and
+>
+> (e) shall be subject to annulment in pursuance of resolution of either House of Parliament.
+
+### 107 Road traffic: testing for drink and drugs
+
+Schedule 7 shall have effect.
+
+### 108 Traffic regulation on long distance routes (prospective)
+
+The following shall be inserted after section 22A of the Road Traffic Regulation Act 1984 (c. 27) (traffic regulation for purpose of conserving natural beauty)—
+
+> **22B Traffic regulation on long distance routes**
+>
+> (1) This section applies where the Secretary of State thinks that, because of the use of a long distance route by vehicular traffic, members of the public cannot safely and conveniently—
+>
+> (a) enjoy the amenities of any part of the route or of the area through which the route runs;
+>
+> (b) take advantage of opportunities for recreation in any part of that area;
+>
+> (c) study nature in any part of that area.
+>
+> (2) The Secretary of State may make an order preventing the use of the route or a specified part of the route—
+>
+> (a) by vehicular traffic, or
+>
+> (b) by vehicular traffic of a specified kind.
+>
+> (3) An order under this section may have effect only in relation to a long distance route which is, or in so far as it is, in England.
+>
+> (4) An order under this section shall be treated for all purposes as if it were a traffic regulation order made by the Secretary of State in relation to a road for which he is the traffic authority (and, in particular, any provision of this Act about the making or effect of such an order shall apply).
+
+.
+
+### [^F83]109 Road traffic: fixed penalty
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 110 Seat belts: delivery drivers
+
+The following shall be substituted for section 14(2)(b)(i) of the Road Traffic Act 1988 (c. 52) (seat belts: exceptions: delivery drivers)—
+
+> (i) the driver of or a passenger in a motor vehicle constructed or adapted for carrying goods, while on a journey which does not exceed the prescribed distance and which is undertaken for the purpose of delivering or collecting any thing,
+
+.
+
+### 111 Highways: snow and ice
+
+After section 41(1) of the Highways Act 1980 (c. 66) (duty of highway authority to maintain highway) insert—
+
+> (1A) In particular, a highway authority are under a duty to ensure, so far as is reasonably practicable, that safe passage along a highway is not endangered by snow or ice.
+
+### 112 Shipping legislation: application to structures, craft, &c.
+
+(1) The Secretary of State may by order—
+
+(a) provide for a shipping provision to apply (with or without modification) in relation to specified things which are used, navigated or situated wholly or partly in or on water;
+
+(b) provide for a shipping provision not to apply in relation to specified things which are used, navigated or situated wholly or partly in or on water;
+
+(c) modify a shipping provision in its application in relation to specified things which are used, navigated or situated wholly or partly in or on water.
+
+(2) In this section “shipping provision” means a provision which—
+
+(a) is made by or by virtue of an Act (including this Act), and
+
+(b) is expressed to apply in relation to ships, vessels or boats (or a specified class or description of ship, vessel or boat).
+
+(3) An order under subsection (1) may, in particular, be made in respect of a provision which—
+
+(a) confers power to legislate, or
+
+(b) creates an offence.
+
+(4) An order under subsection (1) shall have effect despite (and may amend) any provision which—
+
+(a) forms part of or relates to the shipping provision concerned, and
+
+(b) defines “ship”, “vessel” or “boat” or in any other way limits or determines the application of the shipping provision concerned.
+
+(5) An order under subsection (1) may—
+
+(a) make different provision for different purposes;
+
+(b) make provision for an individual case;
+
+(c) make provision which applies only in specified circumstances;
+
+(d) make transitional provision.
+
+(6) An order under subsection (1)(a) or (c) may provide for the shipping provision not to apply, or to apply with specified modifications, where it would conflict with a specified provision or class of provision made by or by virtue of an enactment.
+
+(7) An order under subsection (1)—
+
+(a) shall be made by statutory instrument,
+
+(b) shall be subject to annulment in pursuance of a resolution of either House of Parliament, and
+
+(c) shall not be made unless the Secretary of State has consulted with organisations in the United Kingdom which appear to him to be representative of persons who will be affected by the order.
+
+(8) Section 311 of the Merchant Shipping Act 1995 (c. 21) (application of Act to structures, &c.) shall cease to have effect.
+
+(9) This section extends to the whole of the United Kingdom.
+
+### 113 Maritime security services
+
+The following shall be inserted after section 36 of the Aviation and Maritime Security Act 1990 (c. 31) (security directions: inspection)—
+
+> **36A Maritime security services: approved providers**
+>
+> (1) In this section “maritime security service” means a process or activity carried out for the purpose of—
+>
+> (a) complying with a requirement of a direction under any of sections 21 to 24, or
+>
+> (b) facilitating a person’s compliance with a requirement of a direction under any of those sections.
+>
+> (2) Regulations may provide for the Secretary of State to maintain a list of persons who are approved by him for the provision of a particular maritime security service.
+>
+> (3) The regulations may—
+>
+> (a) prohibit the provision of a maritime security service by a person who is not listed in respect of that service;
+>
+> (b) prohibit the use or engagement for the provision of a maritime security service of a person who is not listed in respect of that service;
+>
+> (c) create a criminal offence;
+>
+> (d) make provision about application for inclusion in the list (including provision about fees);
+>
+> (e) make provision about the duration and renewal of entries on the list (including provision about fees);
+>
+> (f) make provision about training or qualifications which persons who apply to be listed or who are listed are required to undergo or possess;
+>
+> (g) make provision about removal from the list which shall include provision for appeal;
+>
+> (h) make provision about the inspection of activities carried out by listed persons;
+>
+> (i) confer functions on the Secretary of State or on a specified person;
+>
+> (j) confer jurisdiction on a court.
+>
+> (4) Regulations under subsection (3)(c)—
+>
+> (a) may not provide for a penalty on summary conviction greater than a fine not exceeding the statutory maximum,
+>
+> (b) may not provide for a penalty of imprisonment on conviction on indictment greater than imprisonment for a term not exceeding two years (whether or not accompanied by a fine), and
+>
+> (c) may create a criminal offence of purporting, with intent to deceive, to do something as a listed person or of doing something, with intent to deceive, which purports to be done by a listed person.
+>
+> (5) A direction under any of sections 21 to 24 may—
+>
+> (a) include a requirement to use a listed person for the provision of a maritime security service;
+>
+> (b) provide for all or part of the direction not to apply or to apply with modified effect where a listed person provides a maritime security service.
+>
+> (6) Regulations under this section—
+>
+> (a) may make different provision for different cases,
+>
+> (b) may include incidental, supplemental or transitional provision,
+>
+> (c) shall be made by the Secretary of State by statutory instrument,
+>
+> (d) shall not be made unless the Secretary of State has consulted organisations appearing to him to represent persons affected by the regulations, and
+>
+> (e) shall be subject to annulment in pursuance of resolution of either House of Parliament.
+
+### 114 Railways in London: transfers
+
+(1) A scheme under section 409(1) or (2) of the Greater London Authority Act 1999 (c. 29) (transfer schemes) which transfers property, rights or liabilities—
+
+(a) from London Regional Transport or a subsidiary of London Regional Transport, and
+
+(b) to Transport for London or a subsidiary of Transport for London,
+
+may provide that section 412(3) of that Act (transfer not to trigger or breach contractual provision) shall not apply in relation to the transfer.
+
+(2) A transfer scheme within the meaning of paragraph 1 of Schedule 12 to that Act (schemes made by Transport for London) which transfers property, rights or liabilities may provide that paragraph 2(3) of that Schedule (transfer not to trigger or breach contractual provision) shall not apply in relation to the transfer.
+
+(3) Provision included in a scheme by virtue of subsection (1) or (2) may disapply section 412(3) of, or paragraph 2(3) of Schedule 12 to, that Act—
+
+(a) generally,
+
+(b) only in relation to a specified contract or instrument, or class of contract or instrument,
+
+(c) only in relation to a specified right, class of right, provision or class of provision,
+
+(d) only in relation to a specified transfer, or
+
+(e) by reference to a combination of matters mentioned in paragraphs (b) to (d).
+
+(4) Paragraph 2(3) of Schedule 12 to that Act shall not apply in respect of the transfer of property, rights or liabilities which—
+
+(a) have been transferred under a scheme which provided for section 412(3) not to apply in relation to the transfer in reliance on subsection (1) above, or
+
+(b) arise out of property, rights or liabilities transferred as described in paragraph (a).
+
+(5) Before the date on which London Underground Limited becomes a subsidiary of Transport for London—
+
+(a) section 217 of that Act (transfer of key system assets) shall have effect as if—
+
+(i) the reference to Transport for London in subsection (1) included a reference to London Regional Transport, and
+
+(ii) the list of bodies in subsection (2) included London Underground Limited and any subsidiary,
+
+(b) section 221 of that Act (Public-Private Partnership administration order) shall have effect as if a reference to the Mayor were a reference to London Regional Transport,
+
+(c) section 222 of that Act (restriction on winding-up Public-Private Partnership company) shall have effect as if a reference to the Mayor were a reference to London Regional Transport, and
+
+(d) Schedules 14 and 15 to that Act (Public-Private Partnership administration order) shall have effect (including in so far as they modify another enactment) as if a reference to the Mayor were a reference to London Regional Transport.
+
+(6) Section 425(3) of that Act (restriction on commencement of sections 220 to 224) shall cease to have effect.
+
+### 115 Railways in London: information
+
+(1) The enactments listed in subsection (2) shall not prevent or restrict the provision of information to the Public-Private Partnership Agreement Arbiter appointed under section 225(1) of the Greater London Authority Act 1999 (c. 29).
+
+(2) Those enactments are—
+
+(a) section 133 of the Fair Trading Act 1973 (c. 41),
+
+(b) section 174 of the Consumer Credit Act 1974 (c. 39),
+
+(c) section 10 of the Estate Agents Act 1979 (c. 38),
+
+(d) section 19 of the Competition Act 1980 (c. 21),
+
+(e) section 101 of the Telecommunications Act 1984 (c. 12),
+
+(f) section 74 of the Airports Act 1986 (c. 31),
+
+(g) section 38 of the Consumer Protection Act 1987 (c. 43),
+
+(h) section 206 of the Water Industry Act 1991 (c. 56),
+
+(i) section 204 of the Water Resources Act 1991 (c. 57),
+
+(j) section 145 of the Railways Act 1993 (c. 43),
+
+(k) section 55 of the Competition Act 1998 (c. 41),
+
+(l) section 105 of the Utilities Act 2000 (c. 27), and
+
+(m) section 237 of the Enterprise Act 2002 (c. 40).
+
+## Part 7 — General
+
+### 116 Schedules 1 and 4: sequestration, &c. in Scotland
+
+Where a person becomes, under paragraph 2(d) of Schedule 1, liable to dismissal or, under paragraph 7(4) of Schedule 4, ineligible for appointment—
+
+(a) by reason that his estate has been sequestrated, he shall cease to be so liable or ineligible—
+
+(i) in the case of the sequestration of his estate being recalled or reduced, on the date of that event; and
+
+(ii) in any other case, on his obtaining a discharge;
+
+(b) by reason of his having made a composition or arrangement with, or granted a trust deed for, his creditors, he shall cease to be so liable or ineligible—
+
+(i) in the case of his paying his debts in full, on the date on which the payment is completed; and
+
+(ii) in any other case, at the end of the period of five years beginning with the date on which the terms of the deed of composition or arrangement or trust deed are fulfilled.
+
+### 117 Interpretation: enactment
+
+In this Act “enactment” includes—
+
+(a) an Act of the Scottish Parliament,
+
+(b) an instrument made under an Act of the Scottish Parliament, and
+
+(c) Northern Ireland legislation.
+
+### 118 Repeals
+
+The enactments listed in Schedule 8 are hereby repealed to the extent specified.
+
+### 119 Money
+
+Expenditure of the Secretary of State in consequence of this Act shall be paid out of money provided by Parliament.
+
+### 120 Commencement
+
+(1) Subject to subsections (5) to (8), the preceding provisions of this Act shall come into force in accordance with provision made by the Secretary of State by order.
+
+(2) An order under this section—
+
+(a) may make provision which applies only for a specified purpose;
+
+(b) may make different provision for different purposes;
+
+(c) may make transitional, consequential or incidental provision.
+
+(3) An order under this section in respect of Schedule 1 may, in particular, make provision to have effect in place of the provision relating to bankruptcy restrictions orders while the enactment conferring power to make those orders has not come into force.
+
+(4) An order under this section shall be made by statutory instrument.
+
+(5) Section 104 (and the relevant entry in Schedule 8) shall come into force on the passing of this Act.
+
+(6) Section 105 shall come into force at the end of the period of two months beginning with the date on which this Act is passed.
+
+(7) Section 112 (and the relevant entry in Schedule 8) shall come into force at the end of the period of two months beginning with the date on which this Act is passed.
+
+(8) Section 114 (and the relevant entry in Schedule 8) shall come into force on the passing of this Act.
+
+### 121 Extent
+
+(1) The following provisions of this Act make provision about extent or territorial application—
+
+(a) section 14 (in relation to Part 1),
+
+(b) section 17 (in relation to Part 2),
+
+(c) section 77 (in relation to Part 3),
+
+(d) section 91 (in relation to Part 4),
+
+(e) section 102 (in relation to Part 5), and
+
+(f) sections 103(6), 109(2) and 112(9) (in Part 6).
+
+(2) An amendment or repeal of an enactment effected by this Act shall have the same extent as the enactment (or the relevant part of the enactment) amended or repealed.
+
+(3) Subsection (2)—
+
+(a) has effect despite any of the provisions listed in subsection (1), but
+
+(b) does not apply to section 109.
+
+### 122 Short title
+
+This Act may be cited as the Railways and Transport Safety Act 2003.
+
+## SCHEDULE 1 — [[^F84]Office of Rail and Road]
+
+*Section 15*
+
+### Constitution
+
+**1** (1) The [[^F84]Office of Rail and Road] shall consist of a chairman and at least four other members appointed by the Secretary of State.
+
+(2) The chairman or another member—
+
+(a) may not be appointed for a term of more than five years (but may be reappointed),
+
+(b) may resign by notice in writing to the Secretary of State, and
+
+(c) shall hold and vacate office in accordance with the terms of his appointment.
+
+(3) Before appointing a member other than the chairman the Secretary of State shall consult the chairman.
+
+**2** The Secretary of State may dismiss a member of the Office by notice in writing on the grounds that the member—
+
+(a) has been absent from meetings of the Office without permission of the Office during a period of more than three months,
+
+(b) has a financial or other personal interest which is likely to influence the performance of his functions as a member,
+
+(c) is the subject of a bankruptcy restrictions order[[^F85]or an interim bankruptcy restrictions order, or a debt relief restrictions order or interim debt relief restrictions order under Schedule 4ZB of the Insolvency Act 1986],
+
+(d) has had his estate sequestrated in Scotland or, under Scots law, has made a composition or arrangement with, or granted a trust deed for, his creditors,
+
+(e) has misbehaved, or
+
+(f) is unable, unfit or unwilling to perform his functions as a member.
+
+### Staff
+
+**3** (1) The Office shall appoint a Chief Executive.
+
+(2) Before appointing a Chief Executive the Office shall—
+
+(a) consult the Secretary of State, and
+
+(b) obtain the Treasury’s approval of the terms and conditions of appointment.
+
+**4** (1) The Office may appoint other employees.
+
+(2) The power under sub-paragraph (1) may be exercised only if the Office has the approval of the Treasury as to—
+
+(a) numbers, and
+
+(b) terms and conditions of employment.
+
+**5** Service as an employee of the Office is employment in the civil service of the State.
+
+### Proceedings
+
+**6** The Office may establish one or more committees (which may include persons who are neither members of nor employed by the Office).
+
+**7[[^F86](1)]** The Office may delegate a function to—
+
+(a) the Chief Executive or another employee, or
+
+(b) a committee.
+
+[[^F87](2) Sub-paragraph (1) is subject to provision in rules made under section 51 of the Competition Act 1998 by virtue of paragraph 1A of Schedule 9 to that Act in respect of the exercise of a function under Part 1 of that Act.]
+
+**8** The Office shall—
+
+(a) determine arrangements for the conduct of its proceedings (which may, in particular, include arrangements for a quorum), and
+
+(b) publish those arrangements.
+
+**9** (1) The Office may do anything which it thinks necessary or expedient for the purpose of or in connection with the performance of its functions.
+
+(2) Sub-paragraph (1) is subject to paragraph 16.
+
+**10** The validity of any proceedings of the Office shall not be affected by—
+
+(a) a vacancy, or
+
+(b) a defective appointment.
+
+### Money
+
+**11** The Office may with the approval of the Secretary of State make to or in respect of members of the Office, employees or committee-members payments by way of or in respect of—
+
+(a) remuneration;
+
+(b) pension;
+
+(c) allowances;
+
+(d) expenses.
+
+**12** (1) This paragraph applies where an employee of the Office becomes a member of the Office.
+
+(2) The Secretary of State may determine that the person’s term as a member shall be treated for the purposes of a scheme under section 1 of the Superannuation Act 1972 (c. 11) (civil service pension scheme) as employment in the civil service of the State.
+
+**13** If the Secretary of State thinks that special circumstances of a person’s ceasing to be a member of the Office make it appropriate to pay him compensation, the Office may pay him compensation of an amount approved by the Secretary of State (whether or not he receives other benefits by way of pension).
+
+**14** The Office may incur expenditure in connection with advisory or other services provided to the Office.
+
+**15** Expenditure incurred by the Office in connection with the performance of its functions shall (to the extent not met by other income of the Office) be paid out of money provided by Parliament.
+
+**16** The Office may not borrow money.
+
+### Conflict of interest
+
+**17** (1) Before appointing a person as a member of the Office the Secretary of State shall satisfy himself that the person neither has nor is expected to acquire a financial or other personal interest which is likely to influence the performance of his functions as a member.
+
+(2) From time to time the Secretary of State shall satisfy himself that no member of the Office has a financial or other personal interest which is likely to influence the performance of his functions as a member.
+
+**18** (1) Procedural arrangements made by the Office under paragraph 8 shall include arrangements under which a member, employee or committee-member who has a financial or other personal interest which is likely to influence his performance of a particular function is obliged—
+
+(a) to declare the interest, and
+
+(b) to withdraw from the performance of the function to the relevant extent.
+
+(2) Procedural arrangements made by the Office under paragraph 8 shall include arrangements under which a member, employee or committee-member who has a financial or other personal interest which is relevant to a particular function but does not fall under sub-paragraph (1) is obliged—
+
+(a) to declare the interest, and
+
+(b) unless the members of the Office direct otherwise, to withdraw from the performance of the function to the relevant extent.
+
+## SCHEDULE 2 — Abolition of Rail Regulator: Consequential Amendments
+
+*Section 16*
+
+### Part 1 — Railways Act 1993 (c. 43)
+
+**1** The Railways Act 1993 shall be amended as follows.
+
+**2** Section 1 and Schedule 1 (the Rail Regulator) shall cease to have effect.
+
+**3** Subject to the following paragraphs of this Schedule, in the provisions specified in the following table—
+
+(a) for “the Regulator” substitute “ the Office of Rail Regulation ”,
+
+(b) for “he” and “him”, where they refer only to the Regulator, substitute “ it ”, and
+
+(c) for “his”, where it refers to the Regulator, substitute “ its ”.
+
+|  |  |  |  |
+|---|---|---|---|
+| *Section* | *Description* | *Section* | *Description* |
+| Section 4 | General duties | Section 22B | Applications for directions |
+| Section 6 | Unauthorised operators | Section 22C | Amendment: supplementary |
+| Section 7 | Exemptions | Section 24 | Exemption of passenger services |
+| [^F88] . . . | [^F88] . . . | Section 26 | Invitations to tender |
+| Section 8 | Licences | [^F88] . . . | [^F88] . . . |
+| Section 9 | Conditions of licences | [^F88] . . . | [^F88] . . . |
+| Section 11 | Assignment of licences | [^F88] . . . | [^F88] . . . |
+| Section 12 | Modification by agreement | [^F88] . . . | [^F88] . . . |
+| Section 13 | Modification references | Section 55 | Orders for ensuring compliance |
+| Section 14 | Reports on references | Section 56 | Procedural requirements |
+| Section 15 | Modification following report | Section 57A | Penalties |
+| Section 15A | Power to veto modification | Section 57B | Statement of policy |
+| Section 15B | Modification by Commission | Section 57C | Procedural requirements for penalties |
+| Section 15C | Supplementary | Section 67 | Respective functions |
+| Section 16 | Modification by order | Section 68 | Investigatory functions |
+| Section 16A | Provision &c. of facilities | Section 69 | General functions |
+| Section 16B | Exemption | Section 71 | Publication of information |
+| Section 16C | Applications for directions | Section 72 | Keeping of register: Regulator |
+| Section 16D | Procedure | Section 73 | Keeping of register: Authority |
+| Section 16E | Decisions: adequate reward | Section 74 | Reports: Regulator |
+| Section 16F | Decisions: other provisions | [^F88] . . . | [^F88] . . . |
+| Section 16G | Directions | Section 76 | Rail Passengers' Council |
+| Section 16H | Code of Practice | [^F88] . . . | [^F88] . . . |
+| Section 16I | Supplementary | [^F88] . . . | [^F88] . . . |
+| Section 17 | Access agreements: directions | Section 95 | Transfer schemes: power to require information |
+| Section 18 | Access agreements: approval | Section 118 | National emergency |
+| Section 19 | Access agreements: use of installations | Section 145 | Disclosure of information |
+| Section 19A | Review of access charges | [^F88] . . . | [^F88] . . . |
+| Section 20 | Exemption | [^F88] . . . | [^F88] . . . |
+| Section 21 | Model clauses | Schedule 4 | Access agreements |
+| Section 22 | Amendment | Schedule 4A | Review of access charges |
+| Section 22A | Directions to amend |  |  |
+
+**4** In section 7 (exemptions from section 6)—
+
+(a) in subsection (3)(b) for “it” substitute “ the exemption ”, and
+
+(b) in subsection (8) after “he” insert “ or it ”.
+
+**5** In section 8(4)(a) and (b) (licences) after “he” insert “ or it ”.
+
+**6** In section 9(3)(f) (conditions of licences) after “he” and “him” insert “ or it ”.
+
+**7** In section 15(4A) (modification following report)—
+
+(a) omit “he or”, and
+
+(b) in paragraphs (a) and (b) omit “it proposes to”.
+
+**8** In section 15C(3) (sections 15A and 15B: supplementary)—
+
+(a) after “shall” insert “ each ”, and
+
+(b) in each place, omit “his or”.
+
+**9** In section 20(3)(b) (exemption of railway facilities from sections 17, 18 and 22A) for “it” substitute “ the exemption ”.
+
+**10** In section 21(5) (model clauses for access contracts)—
+
+(a) after “any” insert “ of its ”, and
+
+(b) omit “of his”.
+
+**[^F89]11** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**12** In section 57A(5)(a) (penalties) for the second “it” substitute “ the Authority ”.
+
+**13** In section 57B (statement of policy)—
+
+(a) in subsection (3) omit “or his”, and
+
+(b) in subsection (4)(a) omit “his or”.
+
+**14** In section 74 (reports)—
+
+(a) in subsection (1) for “after the end of the first relevant financial year and of each subsequent financial year,” substitute “ after the end of each financial year, ”, and
+
+(b) in subsection (8) omit the definition of “first relevant financial year”.
+
+**15** In section 76(5A) (matters referred to the Authority by the Rail Passengers' Council) for “him” substitute “ the Office of Rail Regulation ”.
+
+**[^F90]16** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**17** In section 151(1) (general interpretation) omit the definition of “the Regulator”.
+
+**18** In Part I of Schedule 6 (railway administration orders) for “the Rail Regulator” substitute “ the Office of Rail Regulation ”.
+
+### Part 2 — Other Acts
+
+#### General
+
+**19** In the following enactments for a reference to the Rail Regulator there shall be substituted a reference to the
+
+> Office of Rail Regulation
+
+(a) section 13 of the Transport Act 1962 (c. 46) (Boards' powers of manufacture),
+
+(b) Schedule 2 to the Parliamentary Commissioner Act 1967 (c. 13) (departments subject to jurisdiction),
+
+(c) section 133 of the Fair Trading Act 1973 (c. 41) (disclosure of information),
+
+(d) section 174 of the Consumer Credit Act 1974 (c. 39) (disclosure of information),
+
+(e) section 10 of the Estate Agents Act 1979 (c. 38) (disclosure of information),
+
+(f) section 19 of the Competition Act 1980 (c. 21) (disclosure of information),
+
+(g) section 101 of the Telecommunications Act 1984 (c. 12) (disclosure of information),
+
+(h) section 41A of the London Regional Transport Act 1984 (c. 32) (access contracts),
+
+(i) section 74 of the Airports Act 1986 (c. 31) (disclosure of information),
+
+(j) section 9E of the Company Directors Disqualification Act 1986 (c. 46) (disqualification for competition infringement),
+
+(k) section 38 of the Consumer Protection Act 1987 (c. 43) (disclosure of information),
+
+(l) Schedule 15 to the Water Industry Act 1991 (c. 56) (disclosure of information),
+
+(m) Schedule 24 to the Water Resources Act 1991 (c. 57) (disclosure of information),
+
+(n) Schedules 2 and 4 to the Deregulation and Contracting Out Act 1994 (c. 40) (sectoral regulators),
+
+(o) sections 17, 21 and 22 of the Channel Tunnel Rail Link Act 1996 (c. 61) (rail legislation and regulator),
+
+(p) section 54 of, Part I of Schedule 10 to and Schedule 11 to the Competition Act 1998 (c. 41) (regulators),
+
+(q) sections 199, 200, 228(2) and (3) and 235 of, and paragraph 15 of Schedule 18 to, the Greater London Authority Act 1999 (c. 29),
+
+[^F91]r . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(s) section 105 of the Utilities Act 2000 (c. 27) (disclosure of information),
+
+(t) the following provisions of the Transport Act 2000 (c. 38)—
+
+(i) section 206 (strategies),
+
+(ii) section 216 (assumption of certain functions of Regulator),
+
+(iii) paragraph 3 of Schedule 9 (disclosure of information),
+
+(iv) paragraph 13 of Schedule 10 (disclosure of information),
+
+(v) Part III of Schedule 17 (transfers to SRA from Regulator), and
+
+(vi) Part II of Schedule 26 (transfers to SRA: tax), and
+
+(u) sections 136 and 168 of the Enterprise Act 2002 (c. 40) (investigations and regulated markets).
+
+**20** In addition to the amendments effected by paragraph 19, the following enactments shall be amended as specified.
+
+#### House of Commons Disqualification Act 1975 (c. 24)
+
+**21** In Schedule 1 to the House of Commons Disqualification Act 1975 (offices disqualifying for membership)—
+
+(a) in Part II (bodies of which all members are disqualified) at the appropriate place insert— “ The Office of Rail Regulation. ”, and
+
+(b) in Part III (other disqualifying offices) omit the entry relating to the Rail Regulator.
+
+#### Channel Tunnel Rail Link Act 1996 (c. 61)
+
+**22** In sections 21 and 22 of the Channel Tunnel Rail Link Act 1996—
+
+(a) for “he” and “him”, where they refer to the Rail Regulator, substitute “ it ”, and
+
+(b) for “his”, where it refers to the Rail Regulator, substitute “ its ”.
+
+#### Greater London Authority Act 1999 (c. 29)
+
+**23** For section 228(1) of the Greater London Authority Act 1999 (the heading to which becomes “PPP arbiter also Member of Office of Rail Regulation: duties of staff”) substitute—
+
+> (1) Subsections (2) and (3) shall apply while a member of the Office of Rail Regulation holds the office of PPP arbiter.
+
+#### Financial Services and Markets Act 2000 (c. 8)
+
+**24** In the table in Part I of Schedule 19 to the Financial Services and Markets Act 2000 (competition information) for the entry numbered 11 substitute—
+
+> |  |  |
+> |---|---|
+> | 11 The Office of Rail Regulation. | Any function of that office under a specified enactment. |
+
+## SCHEDULE 3 — Abolition of Rail Regulator: Savings, &c.
+
+*Section 16*
+
+**1** Section 16 shall not affect the validity of anything done by or in relation to the Rail Regulator before commencement.
+
+**2** Anything done by or in relation to the Rail Regulator which has effect at commencement shall, so far as necessary for continuing its effect after commencement, have effect as if done by or in relation to the [[^F92]Office of Rail and Road].
+
+**3** Anything (including any legal proceedings) which at commencement is in the process of being done by or in relation to the Rail Regulator may be continued by or in relation to the [[^F92]Office of Rail and Road].
+
+**4** A reference in any enactment, instrument or other document to the Rail Regulator shall, so far as necessary or appropriate in consequence of section 16, be treated after commencement as a reference to the [[^F92]Office of Rail and Road].
+
+**5** (1) Section 16 is without prejudice to any personal right or liability of any person who held the office of the Rail Regulator.
+
+(2) In particular, the Secretary of State may continue to make payments in accordance with arrangements made before commencement for or in respect of a pension for a person who held the office of the Rail Regulator.
+
+(3) The Secretary of State may pay compensation to the last person who held the office of the Rail Regulator.
+
+**[^F93]6** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**7** In this Schedule “commencement” means the coming into force of section 16.
+
+## SCHEDULE 4 — British Transport Police Authority
+
+*Section 18*
+
+### Part 1 — Membership
+
+#### Appointment
+
+**1** (1) The Secretary of State—
+
+(a) shall appoint the members of the Authority, and
+
+(b) shall ensure that the number of members is an odd number neither lower than 11 nor higher than 17.
+
+(2) The Secretary of State may by order amend sub-paragraph (1)(b) so as to substitute a different number for a number specified.
+
+(3) An order under sub-paragraph (2) may not be made unless the Secretary of State has consulted the Authority.
+
+**2** (1) The Secretary of State shall so far as is reasonably practicable ensure that the membership of the Authority includes—
+
+(a) at least four persons who have knowledge of and experience in relation to the interests of persons travelling by railway,
+
+(b) at least four persons who have knowledge of and experience in relation to the interests of persons providing railway services,
+
+(c) a person who has knowledge of and experience in relation to the interests of employees of persons providing railways services,
+
+[^F94]d . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(e) a person who has knowledge of the interests of persons in Scotland and who is appointed following consultation with the Scottish Ministers,
+
+(f) a person who has knowledge of the interests of persons in Wales and who is appointed following consultation with the National Assembly for Wales, and
+
+(g) a person who has knowledge of the interests of persons in England.
+
+(2) A person may be appointed so as to satisfy, or to contribute to satisfying, more than one paragraph of sub-paragraph (1).
+
+(3) But a person may not be appointed so as to—
+
+(a) contribute to satisfying sub-paragraph (1)(b), and
+
+(b) satisfy sub-paragraph (1)(c).
+
+(4) In appointing members of the Authority the Secretary of State shall have regard to the desirability of appointing persons who have experience of and have shown capacity in relation to matters relevant to the policing of the railways.
+
+#### Tenure
+
+**3** (1) A member of the Authority shall hold and vacate office in accordance with the terms of his appointment (subject to the provisions of this Schedule).
+
+(2) A member of the Authority may resign by notice to the Secretary of State, which must be—
+
+(a) in writing, and
+
+(b) copied to the Authority.
+
+(3) The Secretary of State may dismiss a member of the Authority if—
+
+(a) he is absent from meetings of the Authority during a period of more than three months without permission of the Authority,
+
+(b) he is convicted of an offence, or
+
+(c) the Secretary of State thinks that the member is unable, unfit or unwilling to perform his functions as a member (whether because of illness or otherwise).
+
+#### Chairman and deputy chairman
+
+**4** (1) The Secretary of State shall appoint a member of the Authority as its chairman.
+
+(2) The chairman shall perform such functions as may be assigned to him by the Secretary of State.
+
+**5** (1) The Secretary of State may appoint a member of the Authority as its deputy chairman.
+
+(2) The deputy chairman—
+
+(a) may act for the chairman when he is unable to act or unavailable, and
+
+(b) shall perform such other functions as may be assigned or delegated to him by the chairman.
+
+**6** The Secretary of State may not appoint as chairman or deputy chairman of the Authority a member who—
+
+(a) is an officer or employee of a body which is required to enter into a police services agreement, [^F95]...
+
+[^F95]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Disqualification
+
+**7** (1) A person under the age of 21 shall not be eligible for appointment as a member of the Authority.
+
+(2) A person shall not be eligible for appointment as a member of the Authority while he—
+
+(a) is an officer or employee of the Authority,
+
+(b) is a constable,
+
+[[^F96](c) a member of a police and crime commissioner's staff (within the meaning of Part 1 of the Police Reform and Social Responsibility Act 2011),
+
+(ca) a member of the staff of the Mayor's Office for Policing and Crime (within the meaning of that Part of that Act),
+
+(cb) a member of the civilian staff of a police force, including the metropolitan police force, (within the meaning of that Part of that Act), or]
+
+[[^F97](d) is an employee of the Scottish Police Authority.]
+
+(3) A person shall not be eligible for appointment as a member of the Authority if he is the subject of—
+
+(a) a bankruptcy restrictions order [[^F98]or an interim bankruptcy restrictions order, or a debt relief restrictions order or interim debt relief restrictions order under Schedule 4ZB of the Insolvency Act 1986],
+
+(b) a disqualification order under the Company Directors Disqualification Act 1986 (c. 46) or under [[^F99]the Company Directors Disqualification (Northern Ireland) Order 2002], or
+
+(c) an order under section 429(2)(b) of the Insolvency Act 1986 (c. 45) (disability imposed on revoking administration order under County Courts Act 1984).
+
+(4) A person shall not be eligible for appointment as a member of the Authority if his estate has been sequestrated in Scotland or if, under Scots law, he has made a composition or arrangement with, or granted a trust deed for, his creditors.
+
+(5) If a person is convicted of an offence for which he is sentenced to imprisonment for a term of at least three months, he shall not be eligible for appointment as a member of the Authority during the period of five years beginning with the date of the conviction.
+
+**8** If a member of the Authority becomes ineligible for appointment his membership shall lapse.
+
+### Part 2 — Proceedings
+
+#### Standards of conduct
+
+**9** (1) The Authority shall make a code of practice establishing standards for the conduct of members.
+
+(2) The code of practice must make provision similar to that of the model code issued by the Secretary of State under section 50 of the Local Government Act 2000 (c. 22) (local government: conduct).
+
+(3) Before making the code of practice the Authority shall—
+
+(a) submit a draft to the Secretary of State, and
+
+(b) obtain his approval of it.
+
+#### Staff
+
+**10** The Authority may—
+
+(a) appoint staff;
+
+(b) delegate a function to staff.
+
+**11** In particular, the Authority shall appoint—
+
+(a) a Treasurer with responsibility for ensuring the proper management of the Authority’s finances, and
+
+(b) [[^F100]a chief executive ]with responsibilities, assigned by the Authority, similar to those of the head of a local authority’s paid service under section 4 of the Local Government and Housing Act 1989 (c. 42).
+
+#### Committees
+
+**12** The Authority may—
+
+(a) establish a committee (which may include persons who are not members of the Authority);
+
+(b) delegate a function to a committee established under paragraph (a).
+
+#### Procedure
+
+**13** The Authority shall determine its practice and procedure (subject to the provisions of this Schedule).
+
+**14** (1) The Authority shall conduct its proceedings in public.
+
+(2) The Authority—
+
+(a) may disapply sub-paragraph (1) in respect of proceedings which the Authority thinks should be conducted in private, and
+
+(b) may exclude a specified person from proceedings.
+
+#### Validity of proceedings
+
+**15** The validity of proceedings of the Authority shall not be affected by—
+
+(a) a vacancy in the membership,
+
+(b) a vacancy in the office of chairman,
+
+(c) a defect in the appointment of a member, of the chairman or of the deputy chairman, or
+
+(d) the participation of a person whose membership has lapsed.
+
+### Part 3 — Money and property
+
+#### The British Transport Police Fund
+
+**16** The Authority shall establish a fund to be known as the British Transport Police Fund.
+
+**17** The Authority shall—
+
+(a) maintain accounts of the British Transport Police Fund, and
+
+[[^F101](b) send a copy of the accounts in respect of each financial year ending on or after 31st March 2005 to the Comptroller and Auditor General as soon as reasonably practicable after the end of that year.]
+
+**[[^F102]17A** The Comptroller and Auditor General shall examine, certify and report on the accounts sent to him under paragraph 17(b) in respect of each financial year and shall lay a copy of the accounts and his report on them before each House of Parliament.]
+
+**18** All expenditure of the Authority shall be made by way of payment out of the British Transport Police Fund.
+
+#### Budget
+
+**19** (1) The Authority shall before each financial year set a budget of expected expenditure and income for the year.
+
+(2) Before setting a budget the Authority shall consult—
+
+(a) the Treasurer, and
+
+(b) the Chief Constable.
+
+(3) A budget must be set by a decision taken—
+
+(a) by majority vote at a meeting of the Authority,
+
+(b) with at least half of the members of the Authority voting in favour, and
+
+(c) with at least half of the members who vote being neither officers of nor employed by a person who has entered into, or is required to enter into, a police services agreement.
+
+(4) If the Authority has not immediately before a financial year complied with sub-paragraph (1) the Secretary of State may set a budget for the Authority for the year.
+
+(5) Before setting a budget under sub-paragraph (4) the Secretary of State shall consult—
+
+(a) each member of the Authority,
+
+(b) the Treasurer, and
+
+(c) the Chief Constable.
+
+**20** The Authority shall make an estimate of the likely ratio of customers' contributions in accordance with section 33(4)(b)—
+
+(a) before and in relation to each consecutive period of five financial years, and
+
+(b) at such other times and in relation to such other periods as the Authority think appropriate.
+
+#### Members: remuneration, allowances, &c.
+
+**21** (1) The Authority shall publish arrangements for the making of payments to or in respect of members or former members whether by way of or in respect of—
+
+(a) remuneration,
+
+(b) allowances,
+
+(c) expenses,
+
+(d) compensation, or
+
+(e) gratuity.
+
+(2) The first arrangements published under this paragraph shall come into force—
+
+(a) on being made, or
+
+(b) at such later time as they may specify.
+
+(3) Subsequent arrangements published under this paragraph shall come into force at the end of the period of 12 months beginning with the date of publication.
+
+(4) Arrangements under this paragraph may not be made without the consent of the Secretary of State.
+
+(5) Arrangements under this paragraph shall, in particular, provide that compensation may be paid by the Authority to a person who ceases to be a member only if the Secretary of State thinks it appropriate because of special circumstances.
+
+(6) The Authority may make payments in accordance with arrangements published under this paragraph.
+
+#### General staff: remuneration, allowances, &c.
+
+**22** (1) The Authority may make payments to or in respect of staff or former staff whether by way of or in respect of—
+
+(a) remuneration,
+
+(b) allowances,
+
+(c) expenses,
+
+(d) compensation, or
+
+(e) gratuity.
+
+(2) In this paragraph “staff” does not include a constable, cadet or civilian employee of the Police Force.
+
+#### Constables, &c.: remuneration, allowances, &c.
+
+**23** (1) The Authority may make payments to or in respect of a person who is or has been a constable, cadet or civilian employee of the Police Force—
+
+(a) in accordance with the terms of the person’s appointment, and
+
+(b) subject to any provision made by or under this Act.
+
+(2) The Authority may make payments to or for a person who is or has been a constable of the Police Force in respect of proceedings brought against the person in relation to anything done or not done in the course of or in connection with his duties.
+
+(3) The Authority may on the recommendation of the Chief Constable make a payment to a constable or cadet by way of reward for—
+
+(a) exceptional diligence, or
+
+(b) other specially meritorious conduct.
+
+#### Pensions
+
+**24** (1) This paragraph applies in relation to any pension scheme which—
+
+(a) had effect before the commencement of this Schedule principally or exclusively for the benefit of constables of the old transport police (within the meaning of section 73(3)), and
+
+(b) has effect after the commencement of this Schedule (whether or not wholly or partly by virtue of an order under that section) principally or exclusively for the benefit of constables of the Police Force.
+
+(2) The Secretary of State may by order vary—
+
+(a) the terms of the scheme;
+
+(b) arrangements relating to the operation of the scheme.
+
+(3) An order under sub-paragraph (2) may, in particular—
+
+(a) amend an instrument under which a scheme has effect;
+
+(b) amend an instrument regulating a scheme;
+
+(c) make provision about the manner in which a scheme can be amended;
+
+(d) make provision about the exercise of functions under a scheme;
+
+(e) confer a function (which may include a discretionary function) on the Secretary of State.
+
+(4) An order under sub-paragraph (2) may not—
+
+(a) make provision about—
+
+(i) the persons who may participate in a scheme,
+
+(ii) contributions by participants,
+
+(iii) contributions by employers of participants,
+
+(iv) the investment of assets, or
+
+(v) the winding up of all or part of the scheme,
+
+(b) prevent approval of a scheme under Chapter I of Part XIV of the Income and Corporation Taxes Act 1988 (c. 1) (retirement benefit schemes), or
+
+(c) prevent a scheme from being a contracted-out scheme for the purposes of Part III of the Pension Schemes Act 1993 (c. 48) or of the Pension Schemes (Northern Ireland) Act 1993 (c. 49).
+
+(5) Section 67(2) to (4) of the Pensions Act 1995 (c. 26) (restriction on power to alter pension scheme) shall apply to the power conferred by sub-paragraph (2) (except in so far as may be prescribed under section 67(5)(b) of that Act).
+
+(6) Provision made under sub-paragraph (2) shall have effect only in so far as it is consistent with provision made under Schedule 11 to the Railways Act 1993 (c. 43).
+
+(7) An order under sub-paragraph (2) may not be made unless the Secretary of State has consulted the trustees of any scheme to which the order relates.
+
+**25** (1) The Authority may with the consent of the Secretary of State arrange for the establishment of a pension scheme for the benefit of members or staff.
+
+(2) A scheme established under sub-paragraph (1) may confer a function (which may include a discretionary function) on the Secretary of State.
+
+(3) In this paragraph “staff” includes a constable, cadet or civilian employee of the Police Force.
+
+**26** The Authority may make payments—
+
+(a) under a scheme in relation to which paragraph 24 applies;
+
+(b) under a scheme which continues to have effect by virtue of or in accordance with an order under section 73(3);
+
+(c) under a scheme which is established under paragraph 25;
+
+(d) otherwise in respect of pensions for members, former members, staff or former staff.
+
+#### Income
+
+**27** The Secretary of State may make a payment to the Authority—
+
+(a) by way of grant (subject to such conditions, if any, as the Secretary of State may specify), or
+
+(b) by way of loan (on such terms, as to interest or otherwise, as the Secretary of State may specify).
+
+**28** The Authority may accept money or other property, by way of grant, loan or otherwise, from any person (whether or not subject to conditions or terms).
+
+**29** The Authority may borrow money only from or with the consent (which may be general or specific) of the Secretary of State.
+
+**30** All money received by the Authority shall be paid into the British Transport Police Fund.
+
+#### Property
+
+**31** The Authority may acquire, develop or dispose of property.
+
+#### Financial year
+
+**32** The financial year of the Authority shall be the period of twelve months ending with 31st March.
+
+### Part 4 — Miscellaneous
+
+#### Status
+
+**33** (1) The Authority shall not be regarded as the servant or agent of the Crown or as enjoying any status, immunity or privilege of the Crown.
+
+(2) Property of the Authority shall not be regarded as property of or held on behalf of the Crown.
+
+(3) Membership of or employment by the Authority is not employment in the civil service of the State.
+
+## SCHEDULE 5 — British Transport Police: Consequential Amendments>
+
+*Section 73*
+
+### British Transport Commission Act 1949 (c. xxix)
+
+**1** Section 53 of the British Transport Commission Act 1949 (constables) shall cease to have effect.
+
+### Railways Act 1993 (c. 43)
+
+**2** Sections 132 and 133 of (and Schedule 10 to) the Railways Act 1993 (transport police) shall cease to have effect.
+
+### Anti-terrorism, Crime and Security Act 2001 (c. 24)
+
+**3** Paragraphs 6 and 25 of Schedule 7 to the Anti-terrorism, Crime and Security Act 2001 (amendment of s. 43 of Police (Scotland) Act 1967 and s. 90 of Police Act 1996) shall cease to have effect.
+
+### General
+
+**4** (1) In the enactments specified in sub-paragraph (2) and, in so far as necessary in consequence of Part 3 of this Act, in any other enactment, legislative or other instrument or document—
+
+(a) a reference (whether or not as the “British Transport Police Force”) to constables appointed under section 53 of the British Transport Commission Act 1949 shall be treated as a reference to the British Transport Police Force established by Part 3 of this Act, and
+
+(b) a definition of the “British Transport Police Force” or the “British Transport Police” shall cease to have effect.
+
+(2) The enactments referred to in sub-paragraph (1) are—
+
+(a) sections 11, 12, 17, 42 and 51 of the Police (Scotland) Act 1967 (c. 77) (general provisions, &c.),
+
+(b) sections 54 and 57 of the Firearms Act 1968 (c. 27) (Crown application),
+
+(c) sections 35, 36, 63A and 118 of the Police and Criminal Evidence Act 1984 (c. 60) (custody, &c.),
+
+(d) sections 2, 2A and 2B of the Ministry of Defence Police Act 1987 (c. 4) (jurisdiction),
+
+(e) sections 54, 75, 87 and 89 of the Road Traffic Offenders Act 1988 (c. 53) (fixed penalty),
+
+(f) sections 60 and 60AA of the Criminal Justice and Public Order Act 1994 (c. 33) (stop and search, &c.),
+
+(g) section 64 of the Disability Discrimination Act 1995 (c. 50) (Crown application),
+
+(h) sections 23, 24, 25, 30, 91 and 101 of the Police Act 1996 (c. 16) (jurisdiction, &c.),
+
+(i) sections 6, 9, 46, 55, 90, 93 and 94 of the Police Act 1997 (c. 50) (appointments, &c.),
+
+(j) sections 1 and 16 of the Crime and Disorder Act 1998 (c. 37) (anti-social behaviour and truancy),
+
+(k) sections 34, [^F103]...121 and 122 of the Terrorism Act 2000 (c. 11) (powers),
+
+(l) section 100 of the Anti-terrorism, Crime and Security Act 2001 (c. 24) (jurisdiction of transport police), and
+
+(m) sections 26, 43, 82 and 106 of the Police Reform Act 2002 (c. 30) (co-operation, safety and nationality).
+
+## SCHEDULE 6 — Convention on International Carriage by Rail
+
+*Section 103*
+
+### PROVISION WHICH MAY BE INCLUDED IN REGULATIONS MADE UNDER OR BY VIRTUE OF SECTION 103
+
+#### Introduction
+
+**1** (1) In this Schedule “regulations” means regulations which are made—
+
+(a) in connection with the Convention specified in section 103(1), and
+
+(b) under section 103(1) [^F104]....
+
+(2) An expression used in this Schedule and in the Convention has the same meaning in this Schedule as in the Convention.
+
+(3) In this Schedule—
+
+- “court” includes “tribunal”, and
+- “legal proceedings” includes arbitration.
+
+#### General
+
+**2** Regulations may—
+
+(a) make provision enabling a right or duty arising under the Convention to be enforced;
+
+(b) deal with any matter arising out of or related to the Convention;
+
+(c) supplement or amplify a provision of the Convention;
+
+(d) amend an enactment;
+
+(e) apply, disapply or modify the effect of an enactment;
+
+(f) confer jurisdiction on a court;
+
+(g) confer a function (which may include a discretionary function) on the Secretary of State or a person appointed in accordance with the regulations;
+
+(h) impose a duty to co-operate with a person exercising a function under the Convention or the regulations;
+
+(i) enable a fee to be charged in connection with an inspection or the exercise of another function under the Convention or the regulations;
+
+(j) require a person to provide information to the Secretary of State or another person;
+
+(k) make provision about the disclosure of information;
+
+(l) make provision about the admission of railway vehicles or other railway material to international traffic, which may include provision—
+
+(i) which concerns the movement or treatment of vehicles or other material following admission;
+
+(ii) which concerns the movement or treatment of passengers following admission;
+
+(m) make provision which applies generally or only in specific circumstances;
+
+(n) make different provision for different circumstances;
+
+(o) include consequential provision (which may include provision amending or repealing an enactment);
+
+(p) include transitional, supplemental or incidental provision.
+
+#### Changes to Convention
+
+**3** (1) Regulations may make provision about modification of the Convention in accordance with its provisions.
+
+(2) In particular, the regulations may—
+
+(a) provide for a reference to the Convention to be treated following modification (whether occurring before or after the reference first takes effect) as a reference to the Convention as modified;
+
+(b) make different provision in respect of modification by decision of a committee and modification by decision of the General Assembly;
+
+(c) provide for a suspension under Article 35(4) of the Convention to be disregarded except in so far as it relates to the United Kingdom;
+
+(d) give effect to a transitional provision made by or under the Convention;
+
+(e) make transitional provision in relation to a modification of the Convention.
+
+(3) In this paragraph a reference to modification of the Convention includes a reference to—
+
+(a) the validation of a technical standard, and
+
+(b) the adoption of a uniform technical prescription.
+
+**4** Regulations may make provision about the publication of—
+
+(a) a change to the list of parties to the Convention;
+
+(b) a declaration, objection or reservation by a party to the Convention;
+
+(c) the suspension of part of the Convention in relation to a party;
+
+(d) a modification of the Convention (including the validation of a technical standard or the adoption of a uniform technical prescription).
+
+#### Imposition of conditions
+
+**5** (1) Regulations may specify conditions which must be satisfied before a person may—
+
+(a) exercise a right under the Convention, or
+
+(b) do something to which the Convention applies.
+
+(2) The conditions may, in particular, relate to—
+
+(a) the making of an application;
+
+(b) the determination of an application by the Secretary of State or another person;
+
+(c) the payment of a fee;
+
+(d) the provision of information;
+
+(e) the display of a sign on a rail vehicle;
+
+(f) the attendance of a constable.
+
+#### Sanctions
+
+**6** (1) Regulations may provide a criminal or other sanction in connection with a duty arising under the Convention or the regulations.
+
+(2) But regulations may not create a criminal offence which—
+
+(a) is punishable with imprisonment, or
+
+(b) is punishable on summary conviction with a fine exceeding the statutory maximum or level 5 on the standard scale.
+
+(3) Sub-paragraph (2) shall not apply to an offence created in reliance on section 2(2) of the European Communities Act 1972 (c. 68).
+
+(4) Sub-paragraph (2) shall also not apply to an offence created by way of or in connection with a provision which—
+
+(a) applies (with or without modification) a provision made in reliance on an Act other than this Act,
+
+(b) is similar to provision made in reliance on an Act other than this Act, or
+
+(c) is made partly in reliance on this Act and partly in reliance on another Act.
+
+#### Related legal proceedings
+
+**7** (1) Regulations may make provision designed to prevent double recovery.
+
+(2) In particular, regulations may require or enable a court to—
+
+(a) have regard to the result or possible result of other proceedings, whether in the United Kingdom or elsewhere and whether actual or potential;
+
+(b) make an award wholly or partly conditional on the result of other proceedings.
+
+#### Enforcement of judgments
+
+**8** (1) Regulations may make provision about the enforcement of judgments.
+
+(2) The regulations may, in particular, make provision about the application of Part I of the Foreign Judgments (Reciprocal Enforcement) Act 1933 (c. 13).
+
+#### Special drawing rights
+
+**9** (1) Regulations may make provision for the conversion of special drawing rights into sterling in connection with the application of the Convention or the regulations to legal proceedings.
+
+(2) Regulations may, in particular—
+
+(a) make provision by reference to determinations of the International Monetary Fund;
+
+(b) require or enable a matter to be certified by or on behalf of the Treasury;
+
+(c) provide for the proof and treatment of a certificate under paragraph (b);
+
+(d) enable a fee to be charged for the issue of a certificate under paragraph (b).
+
+#### Saving
+
+**10** This Schedule is without prejudice to the generality of—
+
+(a) section 103(1), [^F105]...
+
+[^F105]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 7 — Road Traffic: Testing for Drink and Drugs
+
+*Section 107*
+
+**1** For section 6 of the Road Traffic Act 1988 (c. 52) (testing for drink or drugs) substitute—
+
+> **Power to administer preliminary tests**
+>
+> **6** (1) If any of subsections (2) to (5) applies a constable may require a person to co-operate with any one or more preliminary tests administered to the person by that constable or another constable.
+>
+> (2) This subsection applies if a constable reasonably suspects that the person—
+>
+> (a) is driving, is attempting to drive or is in charge of a motor vehicle on a road or other public place, and
+>
+> (b) has alcohol or a drug in his body or is under the influence of a drug.
+>
+> (3) This subsection applies if a constable reasonably suspects that the person—
+>
+> (a) has been driving, attempting to drive or in charge of a motor vehicle on a road or other public place while having alcohol or a drug in his body or while unfit to drive because of a drug, and
+>
+> (b) still has alcohol or a drug in his body or is still under the influence of a drug.
+>
+> (4) This subsection applies if a constable reasonably suspects that the person—
+>
+> (a) is or has been driving, attempting to drive or in charge of a motor vehicle on a road or other public place, and
+>
+> (b) has committed a traffic offence while the vehicle was in motion.
+>
+> (5) This subsection applies if—
+>
+> (a) an accident occurs owing to the presence of a motor vehicle on a road or other public place, and
+>
+> (b) a constable reasonably believes that the person was driving, attempting to drive or in charge of the vehicle at the time of the accident.
+>
+> (6) A person commits an offence if without reasonable excuse he fails to co-operate with a preliminary test in pursuance of a requirement imposed under this section.
+>
+> (7) A constable may administer a preliminary test by virtue of any of subsections (2) to (4) only if he is in uniform.
+>
+> (8) In this section—
+>
+> (a) a reference to a preliminary test is to any of the tests described in sections 6A to 6C, and
+>
+> (b) “traffic offence” means an offence under—
+>
+> (i) a provision of Part II of the Public Passenger Vehicles Act 1981 (c. 14),
+>
+> (ii) a provision of the Road Traffic Regulation Act 1984 (c. 27),
+>
+> (iii) a provision of the Road Traffic Offenders Act 1988 (c. 53) other than a provision of Part III, or
+>
+> (iv) a provision of this Act other than a provision of Part V.
+>
+> **Preliminary breath test**
+>
+> **6A** (1) A preliminary breath test is a procedure whereby the person to whom the test is administered provides a specimen of breath to be used for the purpose of obtaining, by means of a device of a type approved by the Secretary of State, an indication whether the proportion of alcohol in the person’s breath or blood is likely to exceed the prescribed limit.
+>
+> (2) A preliminary breath test administered in reliance on section 6(2) to (4) may be administered only at or near the place where the requirement to co-operate with the test is imposed.
+>
+> (3) A preliminary breath test administered in reliance on section 6(5) may be administered—
+>
+> (a) at or near the place where the requirement to co-operate with the test is imposed, or
+>
+> (b) if the constable who imposes the requirement thinks it expedient, at a police station specified by him.
+>
+> **Preliminary impairment test**
+>
+> **6B** (1) A preliminary impairment test is a procedure whereby the constable administering the test—
+>
+> (a) observes the person to whom the test is administered in his performance of tasks specified by the constable, and
+>
+> (b) makes such other observations of the person’s physical state as the constable thinks expedient.
+>
+> (2) The Secretary of State shall issue (and may from time to time revise) a code of practice about—
+>
+> (a) the kind of task that may be specified for the purpose of a preliminary impairment test,
+>
+> (b) the kind of observation of physical state that may be made in the course of a preliminary impairment test,
+>
+> (c) the manner in which a preliminary impairment test should be administered, and
+>
+> (d) the inferences that may be drawn from observations made in the course of a preliminary impairment test.
+>
+> (3) In issuing or revising the code of practice the Secretary of State shall aim to ensure that a preliminary impairment test is designed to indicate—
+>
+> (a) whether a person is unfit to drive, and
+>
+> (b) if he is, whether or not his unfitness is likely to be due to drink or drugs.
+>
+> (4) A preliminary impairment test may be administered—
+>
+> (a) at or near the place where the requirement to co-operate with the test is imposed, or
+>
+> (b) if the constable who imposes the requirement thinks it expedient, at a police station specified by him.
+>
+> (5) A constable administering a preliminary impairment test shall have regard to the code of practice under this section.
+>
+> (6) A constable may administer a preliminary impairment test only if he is approved for that purpose by the chief officer of the police force to which he belongs.
+>
+> (7) A code of practice under this section may include provision about—
+>
+> (a) the giving of approval under subsection (6), and
+>
+> (b) in particular, the kind of training that a constable should have undergone, or the kind of qualification that a constable should possess, before being approved under that subsection.
+>
+> **Preliminary drug test**
+>
+> **6C** (1) A preliminary drug test is a procedure by which a specimen of sweat or saliva is—
+>
+> (a) obtained, and
+>
+> (b) used for the purpose of obtaining, by means of a device of a type approved by the Secretary of State, an indication whether the person to whom the test is administered has a drug in his body.
+>
+> (2) A preliminary drug test may be administered—
+>
+> (a) at or near the place where the requirement to co-operate with the test is imposed, or
+>
+> (b) if the constable who imposes the requirement thinks it expedient, at a police station specified by him.
+>
+> **Arrest**
+>
+> **6D** (1) A constable may arrest a person without warrant if as a result of a preliminary breath test the constable reasonably suspects that the proportion of alcohol in the person’s breath or blood exceeds the prescribed limit.
+>
+> (2) A constable may arrest a person without warrant if—
+>
+> (a) the person fails to co-operate with a preliminary test in pursuance of a requirement imposed under section 6, and
+>
+> (b) the constable reasonably suspects that the person has alcohol or a drug in his body or is under the influence of a drug.
+>
+> (3) A person may not be arrested under this section while at a hospital as a patient.
+>
+> **Power of entry**
+>
+> **6E** (1) A constable may enter any place (using reasonable force if necessary) for the purpose of—
+>
+> (a) imposing a requirement by virtue of section 6(5) following an accident in a case where the constable reasonably suspects that the accident involved injury of any person, or
+>
+> (b) arresting a person under section 6D following an accident in a case where the constable reasonably suspects that the accident involved injury of any person.
+>
+> (2) This section—
+>
+> (a) does not extend to Scotland, and
+>
+> (b) is without prejudice to any rule of law or enactment about the right of a constable in Scotland to enter any place.
+
+**2** In section 7(3) of that Act (provision of specimen for analysis) after the word “or” after subsection (bb) insert—
+
+> (bc) as a result of the administration of a preliminary drug test, the constable making the requirement has reasonable cause to believe that the person required to provide a specimen of blood or urine has a drug in his body, or
+
+.
+
+**3** In section 9(1) of that Act (protection for hospital patients)—
+
+(a) for “to provide a specimen of breath for a breath test” substitute “ to co-operate with a preliminary test ”, and
+
+(b) in paragraph (a), for “it shall be for the provision of a specimen at the hospital” substitute “ it shall be for co-operation with a test administered, or for the provision of a specimen, at the hospital ”.
+
+**4** In section 10(1) of that Act (detention of persons affected by alcohol or drugs) in subsection (1) after “a person required” insert “ under section 7 or 7A ”.
+
+**5** In section 11 of that Act (interpretation)—
+
+(a) in subsection (2), omit the definition of “breath test”, and
+
+(b) in subsection (3) for “A person does not provide a specimen of breath for a breath test or for analysis unless the specimen” substitute “ A person does not co-operate with a preliminary test or provide a specimen of breath for analysis unless his co-operation or the specimen ”.
+
+**6** In section 184(1)(f) of that Act (application of sections 5 to 10 to military personnel) for “in section 6(1) the reference to a traffic offence” substitute “ in section 6 a reference to a traffic offence ”.
+
+**7** In Schedule 1 to the Road Traffic Offenders Act 1988 (c. 53) (offences to which certain provisions apply), in the entry for section 6 of the Road Traffic Act 1988 (c. 52) for the description of the general nature of the offence substitute “ Failing to co-operate with a preliminary test ”.
+
+**8** In Schedule 2 to that Act (prosecution and punishment of offenders), in the entry for section 6 of the Road Traffic Act 1988 (c. 52) for the description of the general nature of the offence substitute “ Failing to co-operate with a preliminary test ”.
+
+**9** In section 34A(1D)(a) of the Army Act 1955 (c. 18) (testing for drugs) for sub-paragraph (i) substitute—
+
+> (i) any provision of the Road Traffic Act 1988 (c. 52),
+
+.
+
+**10** In section 34A(1D)(a) of the Air Force Act 1955 (c. 19) (testing for drugs) for sub-paragraph (i) substitute—
+
+> (i) any provision of the Road Traffic Act 1988 (c. 52),
+
+.
+
+**11** In section 12A(1D)(a) of the Naval Discipline Act 1957 (c. 53) (testing for drugs) for sub-paragraph (i) substitute—
+
+> (i) any provision of the Road Traffic Act 1988 (c. 52),
+
+.
+
+**12** In section 34(6) of the Police and Criminal Evidence Act 1984 (c. 60) (arrest) for “section 6(5) of the Road Traffic Act 1988” substitute “ section 6D of the Road Traffic Act 1988 ”.
+
+**13** In section 32(8)(a) of the Armed Forces Act 2001 (c. 19) (testing for drink or drugs) for sub-paragraph (i) substitute—
+
+> (i) any provision of the Road Traffic Act 1988 (c. 52),
+
+.
+
+## SCHEDULE 8 — Repeals
+
+*Section 118*
+
+|  |  |
+|---|---|
+| *Short title and chapter* | *Extent of repeal* |
+| British Transport Commission Act 1949 (c. xxix) | Section 53. |
+| House of Commons Disqualification Act 1975 (c. 24) | In Part III of Schedule 1, the entry relating to the Rail Regulator. |
+| Road Traffic Act 1988 (c. 52) | In section 11(2), the definition of “breath test”. |
+| Road Traffic Offenders Act 1988 (c. 53) | In section 76(2)(a), the words “of police”. |
+| Railways Act 1993 (c. 43) | Section 1. In section 4(5)(c), the words “under this Part”. In section 15(4A)—<br>- the words “he or”, and<br>- in paragraphs (a) and (b), the words “it proposes to”. In section 15C(3), in each place, the words “his or”. In section 21(5), the words “of his”. In section 57B—<br>- in subsection (3), the words “or his”, and<br>- in subsection (4)(a), the words “his or”. In section 74(8)—<br>- the definition of “first relevant financial year”, and<br>- the word “or” immediately preceding it. Sections 132 and 133. In section 151(1), the definition of “the Regulator”. Schedule 1. Schedule 10. |
+| Merchant Shipping Act 1995 (c. 21) | Section 117. Section 311. |
+| Greater London Authority Act 1999 (c. 29) | Section 425(3). |
+| Transport Act 2000 (c. 38) | Section 251(2). In Schedule 18, paragraphs 7 to 10. In Schedule 27, paragraph 45. |
+| Anti-terrorism, Crime and Security Act 2001 (c. 24) | In Schedule 7, paragraphs 6 and 25. |
+
+---
+
+[^F1]: S. 1(3) omitted (26.5.2015) by virtue of Deregulation Act 2015 (c. 20), ss. 54(3), 115(3)(e)
+[^F2]: Words in s. 11(4)(a) substituted (1.12.2020) by Sentencing Act 2020 (c. 17), s. 416(1), Sch. 24 para. 201 (with Sch. 27); S.I. 2020/1236, reg. 2
+[^F3]: S. 14(2) omitted (26.5.2015) by virtue of Deregulation Act 2015 (c. 20), ss. 54(2), 115(3)(e)
+[^F4]: Words in Pt. 2 substituted (16.10.2015) by The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682), reg. 1(2), Sch. para. 2(a)
+[^F5]: Words in s. 15(1) substituted (16.10.2015) by The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682), reg. 1(2), Sch. para. 2(b)
+[^F6]: S. 15A inserted (12.2.2015 for specified purposes, 5.3.2015 in so far as not already in force) by Infrastructure Act 2015 (c. 7), ss. 10(9), 57(1); S.I. 2015/481, reg. 2(a)
+[^F7]: Word in s. 17 omitted (29.7.2016) by virtue of The Railways (Access, Management and Licensing of Railway Undertakings) Regulations 2016 (S.I. 2016/645), reg. 1(1), Sch. 1 para. 5(a) (with reg. 4)
+[^F8]: S. 17(c) and word inserted (29.7.2016) by The Railways (Access, Management and Licensing of Railway Undertakings) Regulations 2016 (S.I. 2016/645), reg. 1(1), Sch. 1 para. 5(b) (with reg. 4)
+[^F9]: Word in s. 19(d) inserted (8.11.2006) by Police and Justice Act 2006 (c. 48), s. 53(2), Sch. 14 para. 47(a)
+[^F10]: S. 19(f) repealed (8.11.2006) by Police and Justice Act 2006 (c. 48), s. 53(2), Sch. 14 para. 47(b), 15 Pt. 1(B)
+[^F11]: S. 24(4) substituted (1.4.2013) by The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602), art. 1(2), Sch. 2 para. 41(2)
+[^F12]: S. 24(5) inserted (12.3.2010) by Policing and Crime Act 2009 (c. 26), s. 116(1), Sch. 7 para. 9; S.I. 2010/507, art. 4(c)
+[^F13]: S. 25(4) substituted (1.4.2013) by The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602), art. 1(2), Sch. 2 para. 41(3)
+[^F14]: Words in s. 25(5)(d) substituted (16.1.2012) by Police Reform and Social Responsibility Act 2011 (c. 13), s. 157(1), Sch. 16 para. 323; S.I. 2011/3019, art. 3, Sch. 1
+[^F15]: S. 27(3) inserted (12.3.2010) by Policing and Crime Act 2009 (c. 26), s. 116(1), Sch. 7 para. 10; S.I. 2010/507, art. 4(c)
+[^F16]: Words in s. 28(1)(a) substituted (16.1.2012) by Police Reform and Social Responsibility Act 2011 (c. 13), s. 157(1), Sch. 16 para. 324; S.I. 2011/3019, art. 3, Sch. 1
+[^F17]: Words in s. 28(1)(a) inserted (31.1.2017 for specified purposes, 15.12.2017 in so far as not already in force) by Policing and Crime Act 2017 (c. 3), s. 183(1)(5)(e), Sch. 12 para. 17(2)(a); S.I. 2017/1139, reg. 2(k) (as amended by S.I. 2017/1162, reg. 2)
+[^F18]: S. 28(1)(aa) omitted (31.1.2017 for specified purposes, 15.12.2017 in so far as not already in force) by virtue of Policing and Crime Act 2017 (c. 3), s. 183(1)(5)(e), Sch. 12 para. 17(2)(b); S.I. 2017/1139, reg. 2(k) (as amended by S.I. 2017/1162, reg. 2)
+[^F19]: S. 28(1)(ab) inserted (16.1.2012) by Police Reform and Social Responsibility Act 2011 (c. 13), s. 157(1), Sch. 13 para. 6; S.I. 2011/3019, art. 3, Sch. 1
+[^F20]: S. 28(1)(d) omitted (31.1.2017 for specified purposes, 15.12.2017 in so far as not already in force) by virtue of Policing and Crime Act 2017 (c. 3), s. 183(1)(5)(e), Sch. 12 para. 17(2)(c); S.I. 2017/1139, reg. 2(k) (as amended by S.I. 2017/1162, reg. 2)
+[^F21]: Word in s. 28(1) omitted (31.1.2017 for specified purposes, 15.12.2017 in so far as not already in force) by virtue of Policing and Crime Act 2017 (c. 3), s. 183(1)(5)(e), Sch. 12 para. 17(2)(d); S.I. 2017/1139, reg. 2(k) (as amended by S.I. 2017/1162, reg. 2)
+[^F22]: S. 28(1)(fa)(fb) inserted (31.1.2017 for specified purposes, 15.12.2017 in so far as not already in force) by Policing and Crime Act 2017 (c. 3), s. 183(1)(5)(e), Sch. 12 para. 17(2)(e); S.I. 2017/1139, reg. 2(k) (as amended by S.I. 2017/1162, reg. 2)
+[^F23]: Words in s. 28(1)(g) substituted (31.1.2017 for specified purposes, 15.12.2017 in so far as not already in force) by Policing and Crime Act 2017 (c. 3), s. 183(1)(5)(e), Sch. 12 para. 17(2)(f); S.I. 2017/1139, reg. 2(k) (as amended by S.I. 2017/1162, reg. 2)
+[^F24]: S. 28(2)(e) omitted (31.1.2017 for specified purposes, 15.12.2017 in so far as not already in force) by virtue of Policing and Crime Act 2017 (c. 3), s. 183(1)(5)(e), Sch. 12 para. 17(3)(a); S.I. 2017/1139, reg. 2(k) (as amended by S.I. 2017/1162, reg. 2)
+[^F25]: Words in s. 28(2)(f) substituted (31.1.2017 for specified purposes, 15.12.2017 in so far as not already in force) by Policing and Crime Act 2017 (c. 3), s. 183(1)(5)(e), Sch. 12 para. 17(3)(b); S.I. 2017/1139, reg. 2(k) (as amended by S.I. 2017/1162, reg. 2)
+[^F26]: S. 31A inserted (25.1.2018) by The Criminal Justice (Scotland) Act 2016 (Consequential Provisions) Order 2018 (S.I. 2018/46), art. 2(2)(a)(f), Sch. 2 para. 2 (with art. 6)
+[^F27]: S. 31B inserted (17.12.2021) by The Age of Criminal Responsibility (Scotland) Act 2019 (Consequential Provisions and Modifications) Order 2021 (S.I. 2021/1458), arts. 1(1), 18
+[^F28]: Words in s. 36(1) inserted (1.12.2008) by Criminal Justice and Immigration Act 2008 (c. 4), s. 153(7), Sch. 22 para. 18(2); S.I. 2008/2993, art. 2(1)(h)(ii)
+[^F29]: S. 36(1A) inserted (31.1.2017 for specified purposes, 1.2.2020 in so far as not already in force) by Policing and Crime Act 2017 (c. 3), s. 183(1)(5)(e), Sch. 7 para. 7; S.I. 2020/5, reg. 2(o)
+[^F30]: S. 36(2) substituted (1.12.2008) by Criminal Justice and Immigration Act 2008 (c. 4), s. 153(7), Sch. 22 para. 18(3); S.I. 2008/2993, art. 2(1)(h)(ii)
+[^F31]: S. 37(1ZA) inserted (31.1.2017 for specified purposes, 1.2.2020 in so far as not already in force) by Policing and Crime Act 2017 (c. 3), s. 183(1)(5)(e), Sch. 7 para. 8; S.I. 2020/5, reg. 2(o)
+[^F32]: S. 37(1A) inserted (1.12.2008) by Criminal Justice and Immigration Act 2008 (c. 4), s. 153(7), Sch. 22 para. 19; S.I. 2008/2993, art. 2(1)(h)(ii)
+[^F33]: S. 42(3) substituted (1.12.2008) by Criminal Justice and Immigration Act 2008 (c. 4), s. 153(7), Sch. 22 para. 20; S.I. 2008/2993, art. 2(1)(h)(ii)
+[^F34]: Words in s. 42(3) inserted (31.1.2017 for specified purposes, 1.2.2020 in so far as not already in force) by Policing and Crime Act 2017 (c. 3), s. 183(1)(5)(e), Sch. 7 para. 9(a); S.I. 2020/5, reg. 2(o)
+[^F35]: Words in s. 42(3) inserted (31.1.2017 for specified purposes, 1.2.2020 in so far as not already in force) by Policing and Crime Act 2017 (c. 3), s. 183(1)(5)(e), Sch. 7 para. 9(b); S.I. 2020/5, reg. 2(o)
+[^F36]: S. 43 repealed (1.12.2008) by Criminal Justice and Immigration Act 2008 (c. 4), s. 153(7), Sch. 22 para. 21, 28 Pt. 8; S.I. 2008/2993, art. 2(1)(h)(ii)
+[^F37]: S. 45(2)(a) omitted (16.1.2012) by virtue of Police Reform and Social Responsibility Act 2011 (c. 13), s. 157(1), Sch. 16 para. 325; S.I. 2011/3019, art. 3, Sch. 1
+[^F38]: Word in s. 50(3)(a) inserted (22.11.2012) by Police Reform and Social Responsibility Act 2011 (c. 13), s. 157(1), Sch. 16 para. 326(a); S.I. 2012/2892, art. 2(i)
+[^F39]: S. 50(3)(c)and word omitted (22.11.2012) by virtue of Police Reform and Social Responsibility Act 2011 (c. 13), s. 157(1), Sch. 16 para. 326(b); S.I. 2012/2892, art. 2(i)
+[^F40]: S. 52(7)(7A) substituted for s. 52(7) (14.11.2008) by Police and Justice Act 2006 (c. 48), s. 53(1), Sch. 14 para. 50; S.I. 2008/2785, art. 3(b)
+[^F41]: S. 54(1)-(1C) substituted for s. 54(1) (1.4.2008) by Local Government and Public Involvement in Health Act 2007 (c. 28), s. 245(5), Sch. 8 para. 24; S.I. 2008/917, art. 2(1)(e)
+[^F42]: Words in s. 55(1) inserted (14.11.2008) by Police and Justice Act 2006 (c. 48), s. 53(1), Sch. 14 para. 51(2); S.I. 2008/2785, art. 3(b)
+[^F43]: S. 55(2)-(12) substituted for s. 55(2)(3) (14.11.2008) by Police and Justice Act 2006 (c. 48), s. 53(1), Sch. 14 para. 51(3); S.I. 2008/2785, art. 3(b)
+[^F44]: Word in s. 55 (7)(b) inserted (22.11.2012) by Police Reform and Social Responsibility Act 2011 (c. 13), s. 157(1), Sch. 16 para. 327(a); S.I. 2012/2892, art. 2(i)
+[^F45]: S. 55 (7)(d) and word omitted (22.11.2012) by virtue of Police Reform and Social Responsibility Act 2011 (c. 13), s. 157(1), Sch. 16 para. 327(b); S.I. 2012/2892, art. 2(i)
+[^F46]: S. 62(1)(j) repealed (1.12.2006) by Railways Act 2005 (c. 14), s. 60(2), Sch. 13 Pt. 1 (with s. 14(4)(5), Sch. 11 para. 11(2)); S.I. 2006/2911, art. 2, Sch.
+[^F47]: Words in s. 62(1)(k) substituted (16.10.2015) by The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682), reg. 1(2), Sch. para. 2(c)
+[^F48]: S. 62(1)(m)(n) repealed (1.4.2006) by Railways Act 2005 (c. 14), s. 60(2), Sch. 13 Pt. 1 (with s. 14(4)(5), Sch. 11 para. 11(2)); S.I. 2006/266, art. 2(2), Sch.; S.I. 2006/266, art. 2(2), Sch.
+[^F49]: Words in s. 63(8)(a) substituted (1.4.2013) by The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602), art. 1(2), Sch. 2 para. 41(4)
+[^F50]: Words in s. 64(3) substituted (1.4.2013) by The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602), art. 1(2), Sch. 2 para. 41(5)
+[^F51]: Words in s. 67 substituted (1.4.2013) by The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602), art. 1(2), Sch. 2 para. 41(6)
+[^F52]: S. 69(3) repealed (31.3.2009) by Road Safety Act 2006 (c. 49), s. 61(1)(10), Sch. 7(2); S.I. 2008/3164, art. 3(d)
+[^F53]: S. 73(3)(a) repealed (1.12.2006) by Railways Act 2005 (c. 14), s. 60(2), Sch. 13 Pt. 1 (with s. 14(4)(5), Sch. 11 para. 11(2)); S.I. 2006/2911, art. 2, Sch.
+[^F54]: Words in s. 73(3)(b) repealed (1.12.2006) by Railways Act 2005 (c. 14), s. 60(2), Sch. 13 Pt. 1 (with s. 14(4)(5), Sch. 11 para. 11(2)); S.I. 2006/2911, art. 2, Sch.
+[^F55]: Word in s. 81(a) substituted (20.10.2015) by The Merchant Shipping (Alcohol) (Prescribed Limits Amendment) Regulations 2015 (S.I. 2015/1730), regs. 1(2), 2(2)
+[^F56]: Word in s. 81(b) substituted (20.10.2015) by The Merchant Shipping (Alcohol) (Prescribed Limits Amendment) Regulations 2015 (S.I. 2015/1730), regs. 1(2), 2(3)
+[^F57]: Word in s. 81(c) substituted (20.10.2015) by The Merchant Shipping (Alcohol) (Prescribed Limits Amendment) Regulations 2015 (S.I. 2015/1730), regs. 1(2), 2(4)
+[^F58]: S. 83(1A) inserted (10.4.2015) by Deregulation Act 2015 (c. 20), s. 115(7), Sch. 11 para. 14(2); S.I. 2015/994, art. 4
+[^F59]: Words in s. 83 inserted (10.4.2015) by Deregulation Act 2015 (c. 20), s. 115(7), Sch. 11 para. 14(4); S.I. 2015/994, art. 4
+[^F60]: Words in s. 83 inserted (10.4.2015) by Deregulation Act 2015 (c. 20), s. 115(7), Sch. 11 para. 14(5)(a); S.I. 2015/994, art. 4
+[^F61]: Words in s. 83 substituted (10.4.2015) by Deregulation Act 2015 (c. 20), s. 115(7), Sch. 11 para. 14(5)(b); S.I. 2015/994, art. 4
+[^F62]: Words in s. 83 substituted (10.4.2015) by Deregulation Act 2015 (c. 20), s. 115(7), Sch. 11 para. 14(6); S.I. 2015/994, art. 4
+[^F63]: Words in s. 83 substituted (10.4.2015) by Deregulation Act 2015 (c. 20), s. 115(7), Sch. 11 para. 14(7)(a); S.I. 2015/994, art. 4
+[^F64]: Words in s. 83 inserted (10.4.2015) by Deregulation Act 2015 (c. 20), s. 115(7), Sch. 11 para. 14(7)(b); S.I. 2015/994, art. 4
+[^F65]: Words in s. 83 substituted (10.4.2015) by Deregulation Act 2015 (c. 20), s. 115(7), Sch. 11 para. 14(8)(a); S.I. 2015/994, art. 4
+[^F66]: Words in s. 83 inserted (10.4.2015) by Deregulation Act 2015 (c. 20), s. 115(7), Sch. 11 para. 14(8)(b); S.I. 2015/994, art. 4
+[^F67]: Words in s. 83 inserted (10.4.2015) by Deregulation Act 2015 (c. 20), s. 115(7), Sch. 11 para. 14(8)(c); S.I. 2015/994, art. 4
+[^F68]: Words in s. 90(1) substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 16 para. 198; S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F69]: S. 96(1A) inserted (10.4.2015) by Deregulation Act 2015 (c. 20), s. 115(7), Sch. 11 para. 16(2); S.I. 2015/994, art. 4
+[^F70]: Words in s. 96 inserted (10.4.2015) by Deregulation Act 2015 (c. 20), s. 115(7), Sch. 11 para. 16(4); S.I. 2015/994, art. 4
+[^F71]: Words in s. 96 inserted (10.4.2015) by Deregulation Act 2015 (c. 20), s. 115(7), Sch. 11 para. 16(5)(a); S.I. 2015/994, art. 4
+[^F72]: Words in s. 96 substituted (10.4.2015) by Deregulation Act 2015 (c. 20), s. 115(7), Sch. 11 para. 16(5)(b); S.I. 2015/994, art. 4
+[^F73]: Words in s. 96 substituted (10.4.2015) by Deregulation Act 2015 (c. 20), s. 115(7), Sch. 11 para. 16(6)(a); S.I. 2015/994, art. 4
+[^F74]: Words in s. 96 omitted (10.4.2015) by virtue of Deregulation Act 2015 (c. 20), s. 115(7), Sch. 11 para. 16(6)(b); S.I. 2015/994, art. 4
+[^F75]: Words in s. 96 substituted (10.4.2015) by Deregulation Act 2015 (c. 20), s. 115(7), Sch. 11 para. 16(7)(a); S.I. 2015/994, art. 4
+[^F76]: Words in s. 96 inserted (10.4.2015) by Deregulation Act 2015 (c. 20), s. 115(7), Sch. 11 para. 16(7)(b); S.I. 2015/994, art. 4
+[^F77]: Words in s. 96 substituted (10.4.2015) by Deregulation Act 2015 (c. 20), s. 115(7), Sch. 11 para. 16(8)(a); S.I. 2015/994, art. 4
+[^F78]: Words in s. 96 inserted (10.4.2015) by Deregulation Act 2015 (c. 20), s. 115(7), Sch. 11 para. 16(8)(b); S.I. 2015/994, art. 4
+[^F79]: Words in s. 96 inserted (10.4.2015) by Deregulation Act 2015 (c. 20), s. 115(7), Sch. 11 para. 16(8)(c); S.I. 2015/994, art. 4
+[^F80]: Words in s. 101(1) substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 16 para. 199; S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F81]: Words in s. 103(2) repealed (31.12.2020) by The European Union Withdrawal (Consequential Modifications) (EU Exit) Regulations 2020 (S.I. 2020/1447), reg. 1(3), Sch. (with reg. 9(2))
+[^F82]: S. 104 repealed (24.7.2005) by Railways Act 2005 (c. 14), s. 60(2), Sch. 13 Pt. 1 (with s. 14(4)(5), Sch. 11 para. 11(2)); S.I. 2005/1909, art. 2, Sch.
+[^F83]: S. 109 repealed (31.3.2009) by Road Safety Act 2006 (c. 49), s. 61(1)(10), Sch. 7(2); S.I. 2008/3164, art. 3(d)
+[^F84]: Words in Sch. 1 substituted (16.10.2015) by The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682), reg. 1(2), Sch. para. 2(d)
+[^F85]: Words in Sch. 1 para. 2(c) substituted (1.10.2012) by The Tribunals, Courts and Enforcement Act 2007 (Consequential Amendments) Order 2012 (S.I. 2012/2404), art. 1, Sch. 2 para. 48(2) (with arts. 5, 6)
+[^F86]: Sch. 1 para. 7(1): Sch. 1 para. 7 renumbered as Sch. 1 para. 7(1) (1.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 15 para. 41(a); S.I. 2014/416, art. 2(1)(f) (with Sch.)
+[^F87]: Sch. 1 para. 7(2) inserted (1.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 15 para. 41(b); S.I. 2014/416, art. 2(1)(f) (with Sch.)
+[^F88]: Sch. 2 para. 3 entries repealed (24.7.2005 for specified purposes, 1.12.2006 in so far as not already in force) by Railways Act 2005 (c. 14), s. 60(2), Sch. 13 Pt. 1 (with s. 14(4)(5), Sch. 11 para. 11(2)); S.I. 2005/1909, art. 2, Sch.; S.I. 2006/2911, art. 2, Sch.
+[^F89]: Sch. 2 para. 11 repealed (1.12.2006) by Railways Act 2005 (c. 14), s. 60(2), Sch. 13 Pt. 1 (with s. 14(4)(5), Sch. 11 para. 11(2)); S.I. 2006/2911, art. 2, Sch.
+[^F90]: Sch. 2 para. 16 repealed (24.7.2005) by Railways Act 2005 (c. 14), s. 60(2), Sch. 13 Pt. 1 (with s. 14(4)(5), Sch. 11 para. 11(2)); S.I. 2005/1909, art. 2, Sch.
+[^F91]: Sch. 2 para. 19(r) omitted (1.10.2011) by virtue of Postal Services Act 2011 (c. 5), s. 93(2)(3), Sch. 12 para. 169; S.I. 2011/2329, art. 3
+[^F92]: Words in Sch. 3 substituted (16.10.2015) by The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682), reg. 1(2), Sch. para. 2(e)
+[^F93]: Sch. 3 para. 6 omitted (28.11.2005) by virtue of Railways Infrastructure (Access and Management) Regulations 2005 (S.I. 2005/3049), reg. 1(1), Sch. 1 para. 7 (with reg. 4)
+[^F94]: Sch. 4 para. 2(1)(d) repealed (1.12.2006) by Railways Act 2005 (c. 14), s. 60(2), Sch. 13 Pt. 1 (with s. 14(4)(5), Sch. 11 para. 11(2)); S.I. 2006/2911, art. 2, Sch.
+[^F95]: Sch. 4 para. 6(b) and word repealed (1.12.2006) by Railways Act 2005 (c. 14), s. 60(2), Sch. 13 Pt. 1 (with s. 14(4)(5), Sch. 11 para. 11(2)); S.I. 2006/2911, art. 2, Sch.
+[^F96]: Sch. 4 para. 7(2)(c)-(cb) substituted for Sch. 4 para. 7(2)(c) (16.1.2012) by Police Reform and Social Responsibility Act 2011 (c. 13), s. 157(1), Sch. 16 para. 328; S.I. 2011/3019, art. 3, Sch. 1 (with Sch. 2 para. 75)
+[^F97]: Sch. 4 para. 7(2)(d) substituted (1.4.2013) by The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602), art. 1(2), Sch. 2 para. 41(7)
+[^F98]: Words in Sch. 4 para. 7(3)(a) substituted (1.10.2012) by The Tribunals, Courts and Enforcement Act 2007 (Consequential Amendments) Order 2012 (S.I. 2012/2404), art. 1, Sch. 2 para. 48(3) (with arts. 5, 6)
+[^F99]: Words in Sch. 4 para. 7(3)(b) substituted (1.10.2009) by The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941), art. 1(2), Sch. 1 para. 217 (with art. 10)
+[^F100]: Words in Sch. 4 para. 11(b) substituted (1.4.2007) by Police and Justice Act 2006 (c. 48), s. 53(1), Sch. 14 para. 52(1); S.I. 2007/709, art. 3(p) (with art. 6)
+[^F101]: Sch. 4 para. 17(b) substituted (23.3.2005) by Government Resources and Accounts Act 2000 (Audit of Public Bodies) Order 2005 (S.I. 2005/913), arts. 1, 3(3)
+[^F102]: Sch. 4 para. 17A inserted (23.3.2005) by Government Resources and Accounts Act 2000 (Audit of Public Bodies) Order 2005 (S.I. 2005/913), arts. 1, 3(4)
+[^F103]: Word in Sch. 5 para. 4(2)(k) repealed (10.7.2012) by Protection of Freedoms Act 2012 (c. 9), s. 120, Sch. 10 Pt. 4 (with s. 97); S.I. 2012/1205, art. 4(l)
+[^F104]: Words in Sch. 6 para. 1(1)(b) repealed (31.12.2020) by The European Union Withdrawal (Consequential Modifications) (EU Exit) Regulations 2020 (S.I. 2020/1447), reg. 1(3), Sch. (with reg. 9(2))
+[^F105]: Sch. 6 para. 10(b) and word repealed (31.12.2020) by The European Union Withdrawal (Consequential Modifications) (EU Exit) Regulations 2020 (S.I. 2020/1447), reg. 1(3), Sch. (with reg. 9(2))

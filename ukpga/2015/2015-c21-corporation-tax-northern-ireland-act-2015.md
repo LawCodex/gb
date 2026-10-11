@@ -1,0 +1,3672 @@
+---
+title: "Corporation Tax (Northern Ireland) Act 2015"
+identifier: "ukpga/2015/21"
+citation: "2015 c. 21"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S+N.I."
+date: 2015-03-26
+last_amended: 2021-06-10
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/2015/21"
+source_modified: 2021-09-24
+retrieved: 2026-10-11
+---
+
+# Corporation Tax (Northern Ireland) Act 2015
+
+**2015 c. 21**
+
+An Act to make provision for and in connection with the creation of a Northern Ireland rate of corporation tax.
+
+[26th March 2015]
+
+Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## 1 Trading profits taxable at the Northern Ireland rate
+
+After Part 8A of CTA 2010 insert—
+
+> **PART 8B — Trading profits taxable at the Northern Ireland rate**
+>
+> **CHAPTER 1 — Introductory**
+>
+> **357H Introduction**
+>
+> (1) This Part is about the Northern Ireland rate of corporation tax and the application of that rate to Northern Ireland profits.
+>
+> (2) Chapter 2 is about how the Northern Ireland rate is determined.
+>
+> (3) Chapter 3—
+>
+> (a) applies the Northern Ireland rate to Northern Ireland profits;
+>
+> (b) makes provision about the operation of certain reliefs for trading losses that are given against profits.
+>
+> (4) Chapters 4 and 5 define expressions used in this Part in connection with the determination of a company's Northern Ireland profits; see—
+>
+> - Chapter 4 for definitions of “Northern Ireland company”, “qualifying trade”, “SME” and “Northern Ireland employer”;
+> - Chapter 5 for provision about whether a company has a Northern Ireland regional establishment (a “NIRE”).
+>
+> (5) Chapters 6 and 7 contain rules for determining whether profits or losses of a trade are “Northern Ireland profits” or “Northern Ireland losses”; see—
+>
+> - Chapter 6 for rules applying in the case of a Northern Ireland company that is an SME;
+> - Chapter 7 for rules applying in the case of a Northern Ireland company that is not an SME.
+>
+> (6) Chapter 8 is about the treatment of intangible fixed assets in relation to Northern Ireland companies.
+>
+> (7) Chapters 9 to 15 are about the way in which various credits and reliefs work in relation to Northern Ireland companies; see—
+>
+> - Chapter 9 for provision about R&D expenditure credits and relief for expenditure relating to research and development;
+> - Chapter 10 for provision about relief for expenditure relating to the remediation of contaminated or derelict land;
+> - Chapter 11 for provision about film tax relief;
+> - Chapter 12 for provision about television production;
+> - Chapter 13 for provision about video games development;
+> - Chapter 14 for provision about theatrical productions;
+> - Chapter 15 for provision about profits arising from exploitation of patents etc.
+>
+> (8) Chapter 16 contains rules for determining whether profits or losses of a trade are “Northern Ireland profits” or “Northern Ireland losses” in the case of a company that is a partner in a Northern Ireland firm.
+>
+> (9) Chapter 17—
+>
+> (a) defines “excluded trade” and “excluded activity” (profits of which are not Northern Ireland profits), and
+>
+> (b) contains power to make provision about the meaning of “back-office activities” (profits imputed to which may be Northern Ireland profits).
+>
+> **CHAPTER 2 — The Northern Ireland rate**
+>
+> **357I The Northern Ireland rate**
+>
+> (1) The Northern Ireland rate for a financial year is—
+>
+> (a) if a resolution of the Northern Ireland Assembly—
+>
+> (i) sets a rate under section 357IA for the year, and
+>
+> (ii) is passed before the beginning of the year,
+>
+> the rate set by the resolution;
+>
+> (b) if the Northern Ireland rate for the year is not determined under paragraph (a), but the Northern Ireland rate for one or more earlier financial years was determined under that paragraph, the rate for the most recent of those earlier years;
+>
+> (c) otherwise, the main rate.
+>
+> (2) For the purposes of subsection (1)(a)(ii), a resolution passed before the beginning of a financial year is treated as not having been so passed if it is cancelled by a resolution under section 357IA that is itself passed before the beginning of the year.
+>
+> **357IA Power of Northern Ireland Assembly to set Northern Ireland rate**
+>
+> (1) The Northern Ireland Assembly (“the Assembly”) may by resolution set the Northern Ireland rate for one or more financial years specified in the resolution.
+>
+> (2) The Assembly may by resolution cancel a resolution under subsection (1).
+>
+> (3) A resolution under this section may not be passed by the Assembly except in pursuance of a recommendation which—
+>
+> (a) is made by the Minister of Finance and Personnel, and
+>
+> (b) is signified to the Assembly by the Minister or on the Minister's behalf.
+>
+> (4) A resolution under this section may not be passed by the Assembly without cross-community support.
+>
+> (5) Section 63 of the Northern Ireland Act 1998 (financial acts of the Assembly) does not apply to a resolution under this section.
+>
+> (6) This section authorises the setting of a nil rate.
+>
+> (7) In this section “cross-community support” has the meaning given by section 4(5) of the Northern Ireland Act 1998.
+>
+> **CHAPTER 3 — Northern Ireland rate applied to Northern Ireland profits and losses**
+>
+> **Introductory**
+>
+> **357J Introductory**
+>
+> (1) Section 357JA contains provision about—
+>
+> (a) the charge to corporation tax on Northern Ireland profits and mainstream profits, and
+>
+> (b) the rate at which Northern Ireland profits are charged.
+>
+> (2) The subsequent provisions of this Chapter contain provision—
+>
+> (a) about the availability of relief for Northern Ireland losses and mainstream losses, and
+>
+> (b) restricting the amount of relief given for Northern Ireland losses in certain circumstances.
+>
+> **Profits chargeable to corporation tax and rates**
+>
+> **357JA Profits chargeable to corporation tax and rates**
+>
+> (1) The reference in section 35 of CTA 2009 (charge to tax on trade profits) to the profits of a trade is, where a company carrying on a trade in an accounting period has Northern Ireland profits of the trade or mainstream profits of the trade, a reference to those Northern Ireland profits or mainstream profits.
+>
+> (2) Northern Ireland profits are charged to corporation tax at the Northern Ireland rate.
+>
+> Section 3(1) of this Act (corporation tax charged at main rate) has effect subject to this subsection.
+>
+> **Loss relief in relation to Northern Ireland profits and losses: section 37**
+>
+> **357JB Availability of relief**
+>
+> (1) The reference in section 37(1) (relief for trade losses against total profits) to a loss in the trade is, where a company carrying on a trade in an accounting period has Northern Ireland losses of the trade or mainstream losses of the trade, a reference to those Northern Ireland losses or mainstream losses.
+>
+> (2) If a company has a Northern Ireland loss and a mainstream loss in the same accounting period—
+>
+> (a) relief under section 37 is available in relation to each of those losses separately (so that the company may make a claim in relation to only one, or claims in relation to both), and
+>
+> (b) where the company makes claims in relation to both, the claims may be made in either order.
+>
+> (3) Where—
+>
+> (a) a company makes a claim under section 37 for relief for a Northern Ireland loss, and
+>
+> (b) the profits against which the relief is claimed include some profits of the trade that are Northern Ireland profits and some that are not,
+>
+> the relief is given first, so far as possible, against the Northern Ireland profits.
+>
+> (4) Where—
+>
+> (a) a company makes a claim under section 37 for relief for a loss that is not a Northern Ireland loss, and
+>
+> (b) the profits against which the relief is claimed include some profits of the trade that are Northern Ireland profits and some that are not,
+>
+> the relief is given first, so far as possible, against the profits that are not Northern Ireland profits.
+>
+> **357JC Restriction on deductions**
+>
+> (1) Subsection (2) applies where—
+>
+> (a) a company makes a claim under section 37 for relief for a Northern Ireland loss (“the loss”),
+>
+> (b) the profits against which the relief is claimed include profits that are not Northern Ireland profits, and
+>
+> (c) at any time during the accounting period for which the relief is claimed (“the profit period”), the Northern Ireland rate is lower than the main rate.
+>
+> (2) The reference in section 37(4) (amount of deduction) to “the amount of the loss” is to the restricted deduction for the loss, as determined under section 357JJ (restricted deduction where Northern Ireland rate lower than main rate).
+>
+> **Loss relief in relation to Northern Ireland profits and losses: section 45**
+>
+> **357JD Availability of relief**
+>
+> (1) The reference in section 45(1) (carry forward of trade loss against subsequent profits) to a loss in the trade is, where a company carrying on a trade in an accounting period has Northern Ireland losses of the trade or mainstream losses of the trade, a reference to those Northern Ireland losses or mainstream losses.
+>
+> (2) Where—
+>
+> (a) relief is given under section 45 for a Northern Ireland loss, and
+>
+> (b) the profits against which the relief is given include some profits of the trade that are Northern Ireland profits and some that are not,
+>
+> the relief is given first, so far as possible, against the Northern Ireland profits.
+>
+> (3) Where—
+>
+> (a) relief is given under section 45 for a loss that is not a Northern Ireland loss, and
+>
+> (b) the profits against which the relief is given include some profits of the trade that are Northern Ireland profits and some that are not,
+>
+> the relief is given first, so far as possible, against the profits that are not Northern Ireland profits.
+>
+> **357JE Restriction on deductions**
+>
+> (1) Subsection (2) applies where—
+>
+> (a) relief is given under section 45 for a Northern Ireland loss (“the loss”),
+>
+> (b) the profits against which the relief is given include profits that are not Northern Ireland profits, and
+>
+> (c) at any time during the accounting period for which the relief is given (“the profit period”), the Northern Ireland rate is lower than the main rate.
+>
+> (2) The reference in section 45(4)(b) (amount by which profits are reduced) to “the unrelieved loss” is to the restricted deduction for the loss, as determined under section 357JJ (restricted deduction where Northern Ireland rate lower than main rate).
+>
+> **Loss relief in relation to Northern Ireland profits and losses: Part 5**
+>
+> **357JF Availability of relief**
+>
+> (1) The reference in section 99(1)(a) (group relief: surrendering of losses and other amounts) to a trading loss is, where a company carrying on a trade in an accounting period has Northern Ireland losses of the trade or mainstream losses of the trade, a reference to those Northern Ireland losses or mainstream losses.
+>
+> (2) Section 100 (meaning of “trading loss”) has effect subject to subsection (1).
+>
+> (3) Where—
+>
+> (a) a company makes a claim for group relief under Part 5 in relation to a surrenderable amount that is a Northern Ireland loss, and
+>
+> (b) the profits against which the relief is claimed include some profits that are Northern Ireland profits and some that are not,
+>
+> the relief in relation to that surrenderable amount is given first, so far as possible, against the Northern Ireland profits.
+>
+> (4) Where—
+>
+> (a) a company makes a claim for group relief under Part 5 in relation to a surrenderable amount that is not a Northern Ireland loss, and
+>
+> (b) the profits against which the relief is claimed include some profits that are Northern Ireland profits and some that are not,
+>
+> the relief in relation to that surrenderable amount is given first, so far as possible, against the profits that are not Northern Ireland profits.
+>
+> **357JG Restriction on deductions**
+>
+> (1) Subsection (2) applies where—
+>
+> (a) a company makes a claim for group relief under Part 5 in relation to a surrenderable amount that is a Northern Ireland loss (“the loss”),
+>
+> (b) the profits against which the relief is claimed include profits that are not Northern Ireland profits, and
+>
+> (c) at any time during the accounting period for which the relief is claimed (“the profit period”), the Northern Ireland rate is lower than the main rate.
+>
+> (2) In section 137(2) (amount of deduction)—
+>
+> (a) the reference in paragraph (a) to “an amount equal to” the surrendering company's surrenderable amounts is, so far as those surrenderable amounts comprise the loss, to the restricted deduction for the loss, as determined under section 357JJ (restricted deduction where Northern Ireland rate lower than main rate);
+>
+> (b) the reference in paragraph (b) to “an amount equal to” part of the surrendering company's surrenderable amounts is, so far as that part comprises the loss, to the restricted deduction for the loss, as determined under section 357JJ.
+>
+> **357JH Modifications of Chapter 4 of Part 5**
+>
+> (1) Chapter 4 of Part 5 (claims for group relief) has effect, in relation to a claim under that Chapter in relation to surrenderable amounts that include a Northern Ireland loss, subject to the following provisions of this section.
+>
+> (2) In section 138 (limitation on amount of group relief applying to all claims)—
+>
+> (a) paragraphs (a) and (b) are treated as imposing separate limits;
+>
+> (b) the limit in paragraph (a) on the amount of group relief to be given on a claim has effect as a limit on the amount of losses and other surrenderable amounts in relation to which relief is to be given on the claim;
+>
+> (c) the limit in paragraph (b) on the amount of group relief to be given on a claim has effect as a limit on the amount of the deduction to be made as a result of the claim.
+>
+> (3) In section 139(6)(b) (unused part of the surrenderable amounts), and in section 141(2) so far as it applies in relation to section 139, references to the amount of group relief given on a claim are to the amount of losses and other surrenderable amounts in relation to which relief is given on the claim.
+>
+> (4) In section 140(6)(b) (unrelieved part of claimant company's available total profits), and in section 141(2) so far as it applies in relation to section 140, references to the amount of group relief given on a claim are to the amount of the deduction made as a result of the claim.
+>
+> (5) In section 143 (limitation on group relief where surrendering company owned by consortium), the limit in subsection (2) on the amount of group relief to be given on a claim has effect as a limit on the amount of losses and other surrenderable amounts in relation to which relief is to be given on the claim.
+>
+> (6) In section 144 (limitation on group relief where claimant company owned by consortium), the limit in subsection (2) on the amount of group relief to be given on a claim has effect as a limit on the amount of the deduction to be made as a result of the claim.
+>
+> (7) In section 146 (conditions 2 and 3: companies in link company's group), the limit in subsections (2) and (3) on the amount of group relief to be given on a claim has effect as a limit on the amount of the deduction to be made as a result of the claim.
+>
+> (8) In section 148 (conditions 1 and 2: surrendering company in group of companies), the reference in subsection (5) to the maximum amount of group relief that could be given has effect as a reference to the maximum amount of losses and other surrenderable amounts in relation to which relief could be given.
+>
+> (9) In section 149 (conditions 1 and 3: claimant company in group of companies), the reference in subsection (5) to the maximum amount of group relief that could be claimed by the claimant company has effect as a reference to the maximum amount of the deduction that could be made as a result of claims by the claimant company.
+>
+> **Transfers of trade without a change of ownership: Chapter 1 of Part 22**
+>
+> **357JI Transfers of trade without a change of ownership**
+>
+> (1) This section applies where—
+>
+> (a) Chapter 1 of Part 22 (transfers of trade without a change of ownership) applies to the transfer of a trade, and
+>
+> (b) a loss made by the predecessor in the transferred trade is a Northern Ireland loss or a mainstream loss.
+>
+> (2) Section 944 (modified application of Chapter 2 of Part 4) has effect as if the references in subsections (2) and (3) of that section to a loss made by the predecessor in the transferred trade were to the Northern Ireland loss or mainstream loss.
+>
+> **Restricted deductions**
+>
+> **357JJ Restricted deduction: Northern Ireland rate lower than main rate**
+>
+> (1) The amount of the restricted deduction for a Northern Ireland loss for the purposes of section 357JC(2), 357JE(2) or 357JG(2) is the amount determined under subsection (2) or (3).
+>
+> (2) If the profit period falls within only one financial year, the amount of the restricted deduction for the loss is—
+>
+> ((NIR)/(MR) × L1) + L2 where— NIR is the Northern Ireland rate in the financial year; MR is the main rate in the financial year; L1 is the amount of the loss that is unmatched; L2 is the amount of the loss (if any) that is matched.
+>
+> (3) If the profit period falls within more than one financial year, the amount of the restricted deduction for the loss is—
+>
+> X + L2 where— X is the amount of the loss that is unmatched (“the unmatched loss”), adjusted in accordance with subsection (4); L2 is the amount of the loss (if any) that is matched.
+>
+> (4) To adjust the unmatched loss for the purposes of subsection (3), take the following steps—
+>
+> - *Step 1* Apportion the unmatched loss between the financial years on a time basis according to the respective lengths of the parts of the profit period falling within those years.
+>
+> - *Step 2* Where an amount is apportioned under step 1 to a financial year in which the Northern Ireland rate is lower than the main rate, reduce that amount by multiplying it by the following fraction—
+>
+>   (NIR)/(MR)
+>
+>   where—
+>
+>   - NIR is the Northern Ireland rate for the financial year;
+>   - MR is the main rate for the financial year.
+>
+> - *Step 3* Add together each amount reduced under step 2 and each amount apportioned under step 1 but not reduced under step 2.
+>
+> (5) For the purposes of this section—
+>
+> (a) an amount of a loss is “matched” if relief in relation to the loss is given against Northern Ireland profits, and
+>
+> (b) an amount of a loss is “unmatched” if relief in relation to the loss is given against profits that are not Northern Ireland profits.
+>
+> (6) In this section “the loss” and “the profit period” have the meanings given by section 357JC(1), 357JE(1) or 357JG(1) (as the case may be).
+>
+> **CHAPTER 4 — Basic definitions**
+>
+> **Application of Chapter**
+>
+> **357K Application of Chapter**
+>
+> The definitions in this Chapter apply for the purposes of this Part.
+>
+> **Meaning of “Northern Ireland company”**
+>
+> **357KA “Northern Ireland company”**
+>
+> (1) A company is a “Northern Ireland company” in an accounting period if—
+>
+> (a) the company carries on a qualifying trade in the period, and
+>
+> (b) the SME condition or the large company condition is met.
+>
+> (2) The “SME condition” is that the company—
+>
+> (a) is an SME in relation to the period, and
+>
+> (b) is a Northern Ireland employer in relation to the period.
+>
+> (3) The “large company condition” is that the company—
+>
+> (a) is not an SME in relation to the period, and
+>
+> (b) has a NIRE in the period.
+>
+> (4) For the meaning of—
+>
+> - “qualifying trade”, see section 357KB;
+> - “SME”, see section 357KC;
+> - “Northern Ireland employer”, see section 357KD;
+> - “NIRE”, see Chapter 5.
+>
+> **Meaning of “qualifying trade”**
+>
+> **357KB “Qualifying trade”**
+>
+> (1) “Qualifying trade” means a trade carried on by a company (otherwise than in partnership) where—
+>
+> (a) the company is within the charge to corporation tax in relation to the trade, and
+>
+> (b) the trade is not an excluded trade.
+>
+> (2) If an election by a company for the purposes of this subsection has effect, “qualifying trade” also includes a trade carried on by the company (otherwise than in partnership) where—
+>
+> (a) the trade is an excluded trade within—
+>
+> (i) section 357XB (lending and investment),
+>
+> (ii) section 357XC (investment management), or
+>
+> (iii) section 357XE (re-insurance trade), and
+>
+> (b) the trade includes any back-office activities.
+>
+> (3) An election for the purposes of subsection (2)—
+>
+> (a) must be made by notice to an officer of Revenue and Customs,
+>
+> (b) must specify the first accounting period (“the specified accounting period”) in relation to which it is to have effect,
+>
+> (c) must be made before the end of the period of 12 months beginning with the end of the specified accounting period, and
+>
+> (d) if made in accordance with paragraphs (a) to (c)—
+>
+> (i) has effect in relation to the specified accounting period and subsequent accounting periods, and
+>
+> (ii) is irrevocable.
+>
+> (4) For the meaning of “excluded trade”, and for power to make provision about the meaning of “back-office activities”, see Chapter 17.
+>
+> **Meaning of “SME”**
+>
+> **357KC “SME”**
+>
+> (1) A company is an “SME” in relation to an accounting period if the company is a micro, small or medium-sized enterprise as defined in the Annex—
+>
+> (a) in that accounting period, or
+>
+> (b) in each accounting period any part of which falls within the period of 12 months preceding that accounting period.
+>
+> (2) In this section “the Annex” means the Annex to Commission Recommendation No 2003/361/EC of 6 May 2003.
+>
+> (3) For the purposes of this Part the Annex has effect with the following modifications.
+>
+> (4) Where any enterprise is in liquidation or administration, the rights of the liquidator or administrator (in that capacity) are to be left out of account when applying Article 3(3)(b) in determining for the purposes of this Part whether—
+>
+> (a) that enterprise, or
+>
+> (b) any other enterprise (including that of the liquidator or administrator),
+>
+> is an SME.
+>
+> (5) Article 3 has effect as if paragraph 5 (declaration in good faith where control cannot be determined etc) were omitted.
+>
+> (6) In Article 4, the first sentence of paragraph 1 has effect as if the data to apply to—
+>
+> (a) the headcount of staff, and
+>
+> (b) the financial amounts,
+>
+> were the data relating to the accounting period or periods mentioned in subsection (1) above (instead of the period referred to in that sentence) and calculated on an annual basis.
+>
+> (7) Article 4 has effect as if the following provisions were omitted—
+>
+> (a) in paragraph 1, the second sentence (data to be taken into account from date of closure of accounts);
+>
+> (b) paragraph 2 (no change of status unless enterprise's change of size sustained over two consecutive periods);
+>
+> (c) paragraph 3 (genuine estimate in case of newly established enterprise).
+>
+> **Meaning of “Northern Ireland employer”**
+>
+> **357KD “Northern Ireland employer”**
+>
+> A company is a “Northern Ireland employer” in relation to an accounting period if the Northern Ireland workforce conditions are met—
+>
+> (a) in relation to that accounting period, or
+>
+> (b) in relation to the period of 12 months preceding that accounting period.
+>
+> **357KE Northern Ireland workforce conditions**
+>
+> (1) The Northern Ireland workforce conditions, in relation to a period, are—
+>
+> (a) that 75% or more of the working time that is spent in the United Kingdom during the period by members of the company's workforce is spent in Northern Ireland, and
+>
+> (b) that 75% or more of the company's workforce expenses that are attributable to working time spent in the United Kingdom during the period by members of the company's workforce are attributable to time spent in Northern Ireland.
+>
+> (2) References in this section to members of the company's workforce are to—
+>
+> (a) directors of the company,
+>
+> (b) employees of the company, and
+>
+> (c) externally provided workers in relation to the company.
+>
+> (3) In subsection (2) “externally provided worker”, in relation to a company, has the same meaning as in Part 13 of CTA 2009 (see section 1128 of that Act).
+>
+> (4) References in this section to the working time spent by members of the company's workforce in a place are to the total time spent by those persons in that place while providing services to the company.
+>
+> (5) The reference in subsection (1)(b) to “the company's workforce expenses” is, where the period is an accounting period of the company, to the total of the deductions made by the company in the period in respect of members of the workforce in calculating the profits of any trade carried on by the company.
+>
+> (6) The reference in subsection (1)(b) to “the company's workforce expenses” is, where the period is not an accounting period of the company, to the total of—
+>
+> (a) the deductions made by the company in any accounting period falling wholly within the period, and
+>
+> (b) the appropriate proportion of the deductions made by the company in any accounting period falling partly within the period,
+>
+> in respect of members of the workforce in calculating the profits of any trade carried on by the company.
+>
+> (7) For the purposes of subsection (6)(b), “the appropriate proportion” is to be determined by reference to the number of days in the periods concerned.
+>
+> (8) The Commissioners for Her Majesty's Revenue and Customs may by regulations specify descriptions of deduction that are, or are not, to be regarded for the purposes of this section as made in respect of members of a company's workforce.
+>
+> (9) Regulations under this section—
+>
+> (a) may make different provision for different purposes;
+>
+> (b) may make incidental, supplemental, consequential and transitional provision and savings.
+>
+> **CHAPTER 5 — Northern Ireland regional establishments**
+>
+> **General**
+>
+> **357L Northern Ireland regional establishments of companies**
+>
+> (1) A company has a Northern Ireland regional establishment (referred to in this Part as a “NIRE”) if (and only if)—
+>
+> (a) the company has a fixed place of business in Northern Ireland through which the business of the company is wholly or partly carried on, or
+>
+> (b) an agent acting on behalf of the company has and habitually exercises in Northern Ireland authority to do business on behalf of the company.
+>
+> (2) For this purpose a “fixed place of business” includes (without prejudice to the generality of that expression)—
+>
+> (a) a place of management,
+>
+> (b) a branch,
+>
+> (c) an office,
+>
+> (d) a factory,
+>
+> (e) a workshop,
+>
+> (f) an installation or structure for the exploration of natural resources,
+>
+> (g) a mine, an oil or gas well, a quarry or any other place of extraction of natural resources, and
+>
+> (h) a building site or construction or installation project.
+>
+> (3) Subsection (1) is subject to sections 357LA and 357LB.
+>
+> **Circumstances where there is no NIRE**
+>
+> **357LA Agent of independent status**
+>
+> (1) A company is not regarded as having a NIRE by reason of the fact that it carries on business in Northern Ireland through an agent of independent status acting in the ordinary course of the agent's business.
+>
+> (2) Sections 357LC to 357LI apply for the purpose of supplementing subsection (1) in relation to transactions carried out on behalf of a company by a person in Northern Ireland acting as—
+>
+> (a) a broker (section 357LC),
+>
+> (b) an investment manager (sections 357LD to 357LH), or
+>
+> (c) a members' or managing agent at Lloyd's (section 357LI).
+>
+> **357LB Alternative finance arrangements**
+>
+> (1) Subsection (2) applies if alternative finance return is paid to a company.
+>
+> (2) The company is not regarded as having a NIRE merely by virtue of anything done for the purposes of the alternative finance arrangements—
+>
+> (a) by the other party to the arrangements, or
+>
+> (b) by any other person acting for the company in relation to the arrangements.
+>
+> (3) In subsection (1) “alternative finance return” means alternative finance return within the application of—
+>
+> (a) section 564I, 564K or 564L(2) or (3) of ITA 2007, or
+>
+> (b) section 511, 512 or 513(2) or (3) of CTA 2009.
+>
+> (4) In subsection (2) the reference to “the alternative finance arrangements” is a reference to the alternative finance arrangements under which the alternative finance return mentioned in subsection (1) is paid.
+>
+> **Brokers**
+>
+> **357LC The independent broker condition**
+>
+> (1) This section applies if a transaction is carried out on behalf of a company in the course of the company's trade by a person in Northern Ireland acting as a broker.
+>
+> (2) In relation to the transaction, the broker is regarded for the purposes of section 357LA(1) as an agent of independent status acting in the ordinary course of the broker's business if (and only if) each of conditions A to D is met.
+>
+> (3) Condition A is that at the time of the transaction the broker is carrying on the business of a broker.
+>
+> (4) Condition B is that the transaction is carried out in the ordinary course of that business.
+>
+> (5) Condition C is that the remuneration which the broker receives in respect of the transaction for the provision of the services of a broker to the company is not less than is customary for that class of business.
+>
+> (6) Condition D is that the broker does not fall (apart from this subsection) to be treated as a NIRE of the company in relation to any other transaction of any kind carried out in the same accounting period of the company as the transaction in question.
+>
+> **Investment managers**
+>
+> **357LD The independent investment manager conditions**
+>
+> (1) This section applies if an investment transaction is carried out on behalf of a company in the course of the company's trade by a person in Northern Ireland acting as an investment manager.
+>
+> (2) In relation to the investment transaction, the investment manager is regarded for the purposes of section 357LA(1) as an agent of independent status acting in the ordinary course of the investment manager's business if (and only if) each of conditions A to E is met (“the independent investment manager conditions”).
+>
+> (3) Condition A is that at the time of the transaction the investment manager is carrying on a business of providing investment management services.
+>
+> (4) Condition B is that the transaction is carried out in the ordinary course of that business.
+>
+> (5) Condition C is that, when the investment manager acts on behalf of the company in relation to the transaction, the relationship between them, having regard to its legal, financial and commercial characteristics, is a relationship between persons carrying on independent businesses dealing with each other at arm's length.
+>
+> (6) Condition D is that the requirements of the 20% rule are met (see section 357LE).
+>
+> (7) Condition E is that the remuneration which the investment manager receives in respect of the transaction for the provision of investment management services to the company is not less than is customary for that class of business.
+>
+> **357LE Investment managers: the 20% rule**
+>
+> (1) The requirements of the 20% rule are met if conditions A and B are met.
+>
+> (2) Condition A is that, in relation to a qualifying period, it has been or is the intention of the investment manager and the persons connected with the investment manager that at least 80% of the company's relevant disregarded income should consist of amounts to which none of them has a beneficial entitlement.
+>
+> (3) Condition B is that, so far as there is a failure to fulfil that intention, that failure—
+>
+> (a) is attributable (directly or indirectly) to matters outside the control of the investment manager and persons connected with the investment manager, and
+>
+> (b) does not result from a failure of any of them to take such steps as may be reasonable for mitigating the effect of those matters in relation to the fulfilment of that intention.
+>
+> **357LF Section 357LE: interpretation**
+>
+> (1) This section applies for the purposes of section 357LE.
+>
+> (2) A “qualifying period” means—
+>
+> (a) the accounting period of the company in which the transaction in question is carried out, or
+>
+> (b) a period of not more than 5 years comprising two or more complete accounting periods including that one.
+>
+> (3) The “relevant disregarded income” of the company for a qualifying period is the total of the company's income for the accounting periods comprised in the qualifying period which derives from transactions—
+>
+> (a) carried out by the investment manager on the company's behalf, and
+>
+> (b) in relation to which the investment manager does not (apart from the requirements of the 20% rule) fall to be treated as a NIRE of the company.
+>
+> (4) A person has a “beneficial entitlement” to relevant disregarded income if the person has or may acquire a beneficial entitlement that is, or would be, attributable to the relevant disregarded income as a result of having an interest or other rights mentioned in subsection (5).
+>
+> (5) The interests and rights referred to in subsection (4) are—
+>
+> (a) an interest (whether or not an interest giving a right to an immediate payment of a share in the profits or gains) in property in which the whole or any part of the relevant disregarded income is represented, or
+>
+> (b) an interest in, or other rights in relation to, the company.
+>
+> **357LG Application of 20% rule to collective investment schemes**
+>
+> (1) This section applies if amounts arise or accrue to the company as a participant in a collective investment scheme.
+>
+> (2) It applies for the purpose of determining whether the requirements of the 20% rule are met in relation to a transaction carried out for the purposes of the scheme (so far as the transaction is one in respect of which amounts so arise or accrue).
+>
+> (3) In applying this section the following assumptions are to be made—
+>
+> (a) that all the transactions carried out for the purposes of the scheme are carried out on behalf of a company (“the assumed company”) which is—
+>
+> (i) constituted for the purposes of the scheme, and
+>
+> (ii) not resident in the United Kingdom, and
+>
+> (b) that the participants do not have any rights in respect of the amounts arising or accruing in respect of those transactions, other than the rights which, if they held shares in the assumed company, would be their rights as shareholders.
+>
+> (4) If the scheme is such that the assumed company would not be regarded for tax purposes as carrying on a trade in the United Kingdom in relation to the accounting period in which the transaction was carried out, the requirements of the 20% rule are to be treated as met in relation to a transaction carried out for the purposes of the scheme.
+>
+> (5) If the scheme is such that the assumed company would be so regarded for tax purposes, sections 357LE and 357LF have effect in relation to a transaction carried out for the purposes of the scheme as if—
+>
+> (a) references to the company were references to the assumed company, and
+>
+> (b) references to the company's relevant disregarded income for a qualifying period were references to the sum of the amounts that would, for accounting periods comprised in the qualifying period, be chargeable to tax on the assumed company as profits deriving from the transactions—
+>
+> (i) carried out by the investment manager, and
+>
+> (ii) assumed to be carried out on behalf of the company.
+>
+> (6) In this section—
+>
+> - “collective investment scheme” has the meaning given by section 235 of FISMA 2000;
+> - “participant”, in relation to a collective investment scheme, is to be read in accordance with that section.
+>
+> **357LH Meaning of “investment manager” and “investment transaction”**
+>
+> In this Chapter “investment manager” and “investment transaction” have the same meanings as in Chapter 2 of Part 24 (see section 1150(1)).
+>
+> **Lloyd's agents**
+>
+> **357LI Lloyd's agents**
+>
+> (1) This section applies if a transaction is carried out on behalf of a company in the course of the company's trade by a person in Northern Ireland acting as a members' agent or managing agent at Lloyd's.
+>
+> (2) In relation to the transaction, the person is regarded for the purposes of section 357LA(1) as an agent of independent status acting in the ordinary course of the person's business if conditions A, B and C are met.
+>
+> (3) Condition A is that the company is a member of Lloyd's.
+>
+> (4) Condition B is that the transaction is carried out in the course of the company's underwriting business.
+>
+> (5) Condition C is that the person acting on behalf of the company in relation to the transaction acts as members' agent or as managing agent of the syndicate in question.
+>
+> (6) For the purposes of this section—
+>
+> (a) a company is a member of Lloyd's if it is a corporate member within the meaning of Chapter 5 of Part 4 of FA 1994;
+>
+> (b) “members' agent” and “managing agent” are to be read in accordance with section 230 of that Act.
+>
+> **Supplementary**
+>
+> **357LJ Investment managers: disregard of certain chargeable profits**
+>
+> (1) This section applies if—
+>
+> (a) an investment manager carries out one or more investment transactions on behalf of a company (whether or not the investment manager also carries out other transactions of any kind on behalf of the company), and
+>
+> (b) the investment manager falls to be treated as a NIRE of the company (whether because the independent investment manager conditions are not met in relation to such investment transactions or otherwise).
+>
+> (2) In determining under Chapter 7 of this Part the amount of profits attributable to the NIRE represented by the investment manager acting as an agent on behalf of the company, chargeable profits deriving from an investment transaction carried out by the investment manager on behalf of the company are to be disregarded in either of the following two cases—
+>
+> - *Case 1* The independent investment manager conditions are met in relation to the investment transaction.
+> - *Case 2* The independent investment manager conditions, other than Condition D in section 357LD(6) (the 20% rule), are met in relation to the investment transaction.
+>
+> (3) But if case 2 applies in relation to the investment transaction, chargeable profits deriving from the transaction are to be disregarded only to the extent that they do not represent relevant disregarded income of the company to which the investment manager or a person connected with the investment manager has or has had any beneficial entitlement.
+>
+> (4) In subsection (3) “relevant disregarded income” and “beneficial entitlement” have the meanings given in section 357LF.
+>
+> **357LK Miscellaneous**
+>
+> (1) For the purposes of this Chapter a person is regarded as carrying out a transaction on behalf of another if the person—
+>
+> (a) undertakes the transaction, whether on behalf of or to the account of the other, or
+>
+> (b) gives instructions for it to be so carried out by another.
+>
+> (2) In the case of a person who acts as a broker or investment manager as part only of a business, this Chapter has effect as if that part were a separate business.
+>
+> **CHAPTER 6 — Northern Ireland profits and losses etc: SMEs**
+>
+> **357M Introductory**
+>
+> (1) This Chapter applies to a company that is a Northern Ireland company in an accounting period by virtue of the SME condition in section 357KA.
+>
+> (2) In this Chapter—
+>
+> (a) a reference to “the company” or “the accounting period” is to the company or accounting period mentioned in subsection (1);
+>
+> (b) a reference to “the trade” is to any qualifying trade carried on by the company in the period.
+>
+> (3) Section 357MA contains provision under which profits or losses of the trade for the accounting period are—
+>
+> (a) Northern Ireland profits or losses of the trade,
+>
+> (b) mainstream profits or losses of the trade, or
+>
+> (c) a combination of—
+>
+> (i) profits or losses within paragraph (a), and
+>
+> (ii) profits or losses within paragraph (b).
+>
+> (4) Further provision under which profits or losses of the trade may be Northern Ireland profits or losses of the trade, or mainstream profits or losses of the trade, is contained in—
+>
+> (a) Chapters 8 to 15 of this Part, and
+>
+> (b) CAA 2001 (see section 6E of that Act).
+>
+> (5) This Chapter has effect for the purposes of this Part.
+>
+> **357MA Northern Ireland profits or losses and mainstream profits or losses**
+>
+> (1) Where the trade is a qualifying trade by virtue of section 357KB(1) (trade other than excluded trade), the profits or losses of the trade for the accounting period are Northern Ireland profits or Northern Ireland losses of the trade for the period to the extent that they do not arise from an excluded activity.
+>
+> (2) Subsection (1)—
+>
+> (a) does not apply in relation to any profits or losses of the trade that form part of the Northern Ireland profits or losses of the trade by virtue of any provision apart from this section, and
+>
+> (b) is subject to any provision apart from this section under which profits or losses of the trade are mainstream profits or losses of the trade.
+>
+> (3) Where the trade is a qualifying trade by virtue of section 357KB(2) (excluded trade with back-office activities), the profits, if any, determined under section 357MB as back-office profits of the trade for the accounting period are Northern Ireland profits of the trade for the period.
+>
+> (4) The profits or losses of the trade for the accounting period are mainstream profits or mainstream losses of the trade for the period to the extent that they are not Northern Ireland profits or Northern Ireland losses by virtue of subsection (1) or (3) or any provision apart from this section.
+>
+> (5) Subsection (4) does not apply in relation to any profits or losses of the trade that form part of the mainstream profits or losses of the trade by virtue of any provision apart from this section.
+>
+> **357MB Profit imputed to back-office activities**
+>
+> (1) To determine for the purposes of section 357MA(3) the back-office profits of the qualifying trade for the accounting period, take the following steps—
+>
+> - *Step 1* Multiply each back-office deduction by the relevant percentage.
+> - *Step 2* Add together each amount calculated under step 1.
+>
+> (2) In subsection (1)—
+>
+> - “back-office deduction” means a deduction—
+>
+>   - (a) to which the company is entitled in calculating the profits of the trade for the period, and
+>   - (b) which is in respect of back-office activities;
+>
+> - “the relevant percentage” means 5%.
+>
+> (3) The Treasury may by regulations amend subsection (2) so as to substitute a different percentage for the percentage for the time being specified there.
+>
+> (4) Regulations under this section—
+>
+> (a) may make different provision for different purposes (including, in particular, different trades or different back-office activities);
+>
+> (b) may make incidental, supplemental, consequential and transitional provision and savings.
+>
+> **CHAPTER 7 — Northern Ireland profits and losses etc: large companies**
+>
+> **Introductory**
+>
+> **357N Introductory**
+>
+> (1) This Chapter applies to a company that is a Northern Ireland company in an accounting period by virtue of the large company condition in section 357KA.
+>
+> (2) In this Chapter—
+>
+> (a) a reference to “the company” or “the accounting period” is to the company or accounting period mentioned in subsection (1);
+>
+> (b) a reference to “the trade” is to any qualifying trade carried on by the company in the period.
+>
+> (3) Section 357NA contains provision under which profits or losses of the trade for the accounting period are—
+>
+> (a) Northern Ireland profits or losses of the trade,
+>
+> (b) mainstream profits or losses of the trade, or
+>
+> (c) a combination of—
+>
+> (i) profits or losses within paragraph (a), and
+>
+> (ii) profits or losses within paragraph (b).
+>
+> (4) Further provision under which profits or losses of the trade may be Northern Ireland profits or losses of the trade, or mainstream profits or losses of the trade, is contained in—
+>
+> (a) Chapters 8 to 15 of this Part, and
+>
+> (b) CAA 2001 (see section 6E of that Act).
+>
+> (5) This Chapter has effect for the purposes of this Part.
+>
+> **Northern Ireland profits or losses and mainstream profits or losses**
+>
+> **357NA Northern Ireland profits or losses and mainstream profits or losses**
+>
+> (1) Where the trade is a qualifying trade by virtue of section 357KB(1) (trade other than excluded trade), the profits or losses of the trade for the accounting period are Northern Ireland profits or Northern Ireland losses of the trade for the period to the extent that they—
+>
+> (a) do not arise from an excluded activity,
+>
+> (b) arise directly or indirectly through or from the company's NIRE, or from property or rights used by, or held by, or for, the company's NIRE, and
+>
+> (c) are attributable to the company's NIRE.
+>
+> (2) Subsection (1)—
+>
+> (a) does not apply in relation to any profits or losses of the trade that form part of the Northern Ireland profits or losses of the trade by virtue of any provision apart from this section, and
+>
+> (b) is subject to any provision apart from this section under which profits or losses of the trade are mainstream profits or losses of the trade.
+>
+> (3) Where the trade is a qualifying trade by virtue of section 357KB(2) (excluded trade with back-office activities), the profits, if any, determined under section 357NB as Northern Ireland back-office profits of the trade for the accounting period are Northern Ireland profits of the trade for the period.
+>
+> (4) The profits or losses of the trade for the accounting period are mainstream profits or mainstream losses of the trade for the period to the extent that they are not Northern Ireland profits or Northern Ireland losses by virtue of subsection (1) or (3) or any provision apart from this section.
+>
+> (5) Subsection (4) does not apply in relation to any profits or losses of the trade that form part of the mainstream profits or losses of the trade by virtue of any provision apart from this section.
+>
+> (6) Sections 357NC to 357NI contain provision for determining the amount of profits or losses of a trade that are attributable to the company's NIRE.
+>
+> (7) See also section 357LJ (investment managers: disregard of certain chargeable profits), which provides for profits of certain investment transactions to be disregarded in determining the amount of profits attributable to a NIRE.
+>
+> **357NB Profit imputed to Northern Ireland back-office activities**
+>
+> (1) To determine for the purposes of section 357NA(3) the Northern Ireland back-office profits of the trade for the accounting period, take the following steps—
+>
+> - *Step 1* Multiply each Northern Ireland back-office deduction by the relevant percentage.
+> - *Step 2* Add together each amount calculated under step 1.
+>
+> (2) In subsection (1)—
+>
+> - “Northern Ireland back-office deduction” means a deduction—
+>
+>   - (a) to which the company is entitled in calculating the profits of the trade for the period, and
+>   - (b) which is in respect of back-office activities carried on in Northern Ireland;
+>
+> - “the relevant percentage” means 5%.
+>
+> (3) The Treasury may by regulations amend subsection (2) so as to substitute a different percentage for the percentage for the time being specified there.
+>
+> (4) Regulations under this section—
+>
+> (a) may make different provision for different purposes (including, in particular, different trades or different back-office activities);
+>
+> (b) may make incidental, supplemental, consequential and transitional provision and savings.
+>
+> **The separate enterprise principle**
+>
+> **357NC The separate enterprise principle**
+>
+> (1) The profits of the company that are attributable to its NIRE are those that the NIRE would have made if it were a distinct and separate enterprise which—
+>
+> (a) engaged in the same or similar activities under the same or similar conditions, and
+>
+> (b) dealt wholly independently with the company.
+>
+> (2) In applying subsection (1) it is to be assumed that—
+>
+> (a) the NIRE has the same credit rating as the company, and
+>
+> (b) the NIRE has such equity and loan capital as it could reasonably be expected to have in the circumstances specified in that subsection.
+>
+> (3) In this Chapter the principle in subsection (1) (read with subsection (2)) is called “the separate enterprise principle”.
+>
+> **357ND Transactions treated as being on arm's length terms**
+>
+> In accordance with the separate enterprise principle, transactions between the company's NIRE and any other part of the company are treated as taking place on such terms as would have been agreed between parties dealing at arm's length.
+>
+> **357NE Provision of goods or services for NIRE**
+>
+> (1) This section applies if the company provides its NIRE with goods or services.
+>
+> (2) If the goods or services are of a kind that the company supplies, in the ordinary course of business, to third parties dealing with it at arm's length, the matter is dealt with as a transaction to which the separate enterprise principle applies.
+>
+> (3) If not, the matter is dealt with as an expense incurred by the company for the purposes of its NIRE (see section 357NF).
+>
+> **Rules about deductions and receipts**
+>
+> **357NF Allowable deductions**
+>
+> (1) A deduction is allowed in calculating the profits attributable to the company's NIRE for any allowable expenses incurred for the purposes of the NIRE.
+>
+> (2) Expenses incurred for the purposes of the NIRE include executive and general administrative expenses so incurred, whether in Northern Ireland or elsewhere.
+>
+> (3) It does not matter whether the expenses are incurred by, or reimbursed by, the NIRE.
+>
+> (4) The amount of expenses to be taken into account under subsection (1) is the actual cost to the company.
+>
+> (5) “Allowable expenses”, means expenses of a kind in respect of which a deduction is allowed for corporation tax purposes or (in the case of a company that is not UK-resident) would be so allowed if incurred by a UK resident company.
+>
+> **357NG Deductions attributable to the NIRE for costs**
+>
+> A deduction is allowed in calculating the profits attributable to the company's NIRE for any costs that would have been incurred on the assumptions in section 357NC(2).
+>
+> **357NH Payments and receipts in respect of intangible assets**
+>
+> (1) No deduction is allowed in calculating the profits attributable to the company's NIRE for royalties paid, or other similar payments made, by the NIRE to any other part of the company in respect of the use of intangible assets held by the company.
+>
+> (2) But a deduction is allowed in calculating the profits attributable to the NIRE for any contribution by the NIRE to the costs of creation of an intangible asset.
+>
+> (3) No receipt is to be brought into account in calculating the profits attributable to the NIRE for royalties or other similar amounts received from any other part of the company in respect of the use of intangible assets held by the company for the purposes of the NIRE.
+>
+> (4) But a receipt is to be brought into account in calculating profits attributable to the NIRE for any contribution received by the NIRE in respect of the costs of creation of an intangible asset.
+>
+> (5) In this section “intangible asset”—
+>
+> (a) includes any intellectual property (as defined in section 712(3) of CTA 2009), and
+>
+> (b) subject to that, has the meaning it has for accounting purposes.
+>
+> **357NI Interest or other financing costs and receipts**
+>
+> (1) No deduction is allowed in calculating the profits attributable to the company's NIRE for payments of interest or other financing costs by the NIRE to any other part of the company.
+>
+> (2) No receipt is to be brought into account in calculating profits attributable to the NIRE for interest or other financing income received from any other part of the company.
+>
+> **Supplementary**
+>
+> **357NJ Losses**
+>
+> This Part applies in relation to the attribution of losses to a company's NIRE as it applies to the attribution of profits.
+>
+> **357NK Trade includes office**
+>
+> In this Part, except so far as the context otherwise requires—
+>
+> (a) references to a trade include an office, and
+>
+> (b) references to carrying on a trade including holding an office.
+>
+> **CHAPTER 8 — Intangible fixed assets**
+>
+> **Introductory**
+>
+> **357O Introductory**
+>
+> (1) This Chapter makes provision about amounts which are treated by section 747 of CTA 2009 (intangible fixed assets held for purposes of trade) as receipts or expenses of a trade carried on by a Northern Ireland company.
+>
+> (2) In this Chapter “intangible fixed asset” has the same meaning as in Part 8 of CTA 2009 (see section 713 of that Act).
+>
+> **Calculating Northern Ireland profits or Northern Ireland losses**
+>
+> **357OA Rules affecting calculation of Northern Ireland profits or losses**
+>
+> (1) If a company is a Northern Ireland company in an accounting period, this section applies to the debits and credits that are given effect under section 747 of CTA 2009 (intangible fixed assets held for purposes of trade) as receipts or expenses of the company's trade in calculating the profits of the trade.
+>
+> (2) The Northern Ireland intangibles credits and Northern Ireland intangibles debits form part of the Northern Ireland profits or Northern Ireland losses of the trade.
+>
+> (3) Any other credits or debits to which this section applies form part of the mainstream profits or mainstream losses of the trade.
+>
+> (4) For the meaning of “Northern Ireland intangibles credits”, see section 357OB(2)(a) and (3) and 357OC(2).
+>
+> (5) For the meaning of “Northern Ireland intangibles debits”, see section 357OB(2)(b) and (4) and 357OC(3).
+>
+> **Northern Ireland intangibles credits and Northern Ireland intangibles debits**
+>
+> **357OB Northern Ireland intangibles credits and debits: SMEs**
+>
+> (1) This section applies to a company that—
+>
+> (a) is a Northern Ireland company in an accounting period by virtue of the SME condition in section 357KA, and
+>
+> (b) carries on a trade which is a qualifying trade by virtue of section 357KB(1) (trade other than excluded trade).
+>
+> (2) If the company does not carry on an excluded activity—
+>
+> (a) the Northern Ireland intangibles credits for the accounting period are—
+>
+> (i) the credits treated by section 747(2) of CTA 2009 as receipts of the qualifying trade for the period, except credits in respect of pre-commencement assets and realisation credits, and
+>
+> (ii) the Northern Ireland element of each realisation credit for the period, and
+>
+> (b) the Northern Ireland intangibles debits for the accounting period are—
+>
+> (i) the debits treated by section 747(3) of CTA 2009 as expenses of the qualifying trade for the period, except debits in respect of pre-commencement assets and realisation debits, and
+>
+> (ii) the Northern Ireland element of each realisation debit for the period.
+>
+> (3) If the company carries on an excluded activity, the Northern Ireland intangibles credits for the accounting period are—
+>
+> (a) the credits treated by section 747(2) of CTA 2009 as receipts of the qualifying trade for the period, to the extent that—
+>
+> (i) they are neither credits in respect of pre-commencement assets nor realisation credits, and
+>
+> (ii) they are not attributable to assets held for the purposes of the excluded activity, and
+>
+> (b) the Northern Ireland element of each realisation credit for the period.
+>
+> (4) If the company carries on an excluded activity, the Northern Ireland intangibles debits for the accounting period are—
+>
+> (a) the debits treated by section 747(3) of CTA 2009 as expenses of the qualifying trade for the period, to the extent that—
+>
+> (i) they are neither debits in respect of pre-commencement assets nor realisation debits, and
+>
+> (ii) they are not attributable to assets held for the purposes of the excluded activity, and
+>
+> (b) the Northern Ireland element of each realisation debit for the period.
+>
+> (5) For the meaning of “pre-commencement asset”, see section 357OH.
+>
+> (6) For the meaning of a “realisation credit” and “realisation debit” and of the “Northern Ireland element” of either, see sections 357OD and 357OE.
+>
+> **357OC Northern Ireland intangibles credits and debits: large companies**
+>
+> (1) This section applies to a company that is a Northern Ireland company in an accounting period by virtue of the large company condition in section 357KA.
+>
+> (2) The Northern Ireland intangibles credits for the accounting period are—
+>
+> (a) the credits treated by section 747(2) of CTA 2009 as receipts of the qualifying trade for the period, to the extent that—
+>
+> (i) they are neither credits in respect of pre-commencement assets nor realisation credits,
+>
+> (ii) they are not attributable to assets held for the purposes of an excluded activity, and
+>
+> (iii) they would in accordance with the separate enterprise principle in section 357NC be attributed to the company's NIRE, and
+>
+> (b) the Northern Ireland element of each realisation credit for the period.
+>
+> (3) The Northern Ireland intangibles debits for the accounting period are—
+>
+> (a) the debits treated by section 747(3) of CTA 2009 as expenses of the qualifying trade for the period, to the extent that—
+>
+> (i) they are neither debits in respect of pre-commencement assets nor realisation debits,
+>
+> (ii) they are not attributable to assets held for the purposes of an excluded activity, and
+>
+> (iii) they would in accordance with the separate enterprise principle in section 357NC be attributed to the company's NIRE, and
+>
+> (b) the Northern Ireland element of each realisation debit for the period.
+>
+> (4) For the meaning of “pre-commencement asset”, see section 357OH.
+>
+> (5) For the meaning of a “realisation credit” and “realisation debit” and of the “Northern Ireland element” of either, see sections 357OD and 357OE.
+>
+> **Realisation credits and realisation debits**
+>
+> **357OD “Realisation credit” and “realisation debit”**
+>
+> In this Chapter, a “realisation credit” or “realisation debit”, in relation to a trade carried on by a company in an accounting period, means a credit or debit which—
+>
+> (a) is brought into account by the company under Part 8 of CTA 2009 for the period as a result of Chapter 4 of that Part (realisation of intangible fixed assets),
+>
+> (b) is treated under section 747 of that Act as a receipt or expense of the trade, and
+>
+> (c) does not relate to a pre-commencement asset.
+>
+> **357OE The Northern Ireland element of a realisation credit or debit**
+>
+> (1) This section has effect for the purposes of this Chapter.
+>
+> (2) A realisation credit or realisation debit can have a “Northern Ireland element” only if—
+>
+> (a) the intangible fixed asset to which it relates has been held by the company, in an accounting period in which it was a Northern Ireland company, wholly or partly for the purposes of a qualifying trade carried on by the company, except so far as the trade consists of an excluded activity, or
+>
+> (b) in the case of a realisation credit, roll-over relief was previously given in respect of an asset which was so held.
+>
+> (3) The “Northern Ireland element” of a realisation credit or realisation debit is determined in accordance with section 357OF or 357OG.
+>
+> (4) “Roll-over relief” means relief under Chapter 7 of Part 8 of CTA 2009 (roll-over relief in case of realisation and reinvestment).
+>
+> **357OF Northern Ireland element: general rule**
+>
+> (1) If a realisation credit or realisation debit arises under section 735 of CTA 2009 (asset written down for tax purposes), its Northern Ireland element is determined by the formula—
+>
+> A × (NI)/(C − TWDV) where— A is the amount of the realisation credit or realisation debit; NI is the total net Northern Ireland debits (see subsection (2)); C is the cost of the asset recognised for tax purposes, as defined by section 742(2) or 743(2) of CTA 2009; TWDV is the tax written-down value of the asset within the meaning of Part 8 of CTA 2009 (see Chapter 5 of that Part).
+>
+> (2) In subsection (1) “the total net Northern Ireland debits” means—
+>
+> (a) in a case within section 742 of CTA 2009, the total debits previously brought into account for tax purposes under Part 8 of CTA 2009 in respect of the asset so far as they were Northern Ireland intangibles debits for the purposes of this Chapter, less the total credits previously so brought into account for tax purposes so far as they were Northern Ireland intangibles credits for the purposes of this Chapter, or
+>
+> (b) in a case within section 743 of CTA 2009, the total debits previously brought into account for tax purposes under Part 8 of CTA 2009 in respect of the asset so far as they were Northern Ireland intangibles debits for the purposes of this Chapter.
+>
+> (3) Subsection (4) applies if—
+>
+> (a) a realisation credit or realisation debit arises under section 736 of CTA 2009 (asset shown in balance sheet and not written down for tax purposes), or
+>
+> (b) a realisation credit arises under section 738 of CTA 2009 (asset not shown in balance sheet).
+>
+> (4) The Northern Ireland element of the realisation credit or realisation debit is such proportion of the realisation credit or realisation debit as can on a just and reasonable basis be attributed to the holding of the asset for the purposes of the relevant Northern Ireland trade.
+>
+> (5) This section does not apply to a realisation credit if section 357OG (cases involving roll-over relief) applies.
+>
+> (6) In this section “the relevant Northern Ireland trade” means the qualifying trade carried on by the company in an accounting period in which it was a Northern Ireland company, except so far as the trade consists of an excluded activity.
+>
+> **357OG Northern Ireland element: credits where roll-over relief involved**
+>
+> (1) This section applies if a realisation credit relates to an asset (“the new asset”) whose cost recognised for tax purposes is reduced as a result of roll-over relief previously given on the realisation of another asset (“the old asset”).
+>
+> (2) To calculate the Northern Ireland element of the realisation credit on the realisation of the new asset, take the following steps—
+>
+> - *Step 1* Calculate the part (if any) of the realisation credit that is attributable to the total net debits in respect of the new asset.
+> - *Step 2* Calculate the Northern Ireland element of the result of Step 1 by applying to it the proportion that the total net Northern Ireland debits bears to the total net debits.
+> - *Step 3* If the realisation credit exceeds the total net debits, calculate any part of the excess that is attributable to the reduction in the cost of the new asset recognised for tax purposes that resulted from the roll-over relief.
+> - *Step 4* If, in the absence of roll-over relief, a proportion of the realisation credit on the realisation of the old asset would in accordance with section 357OF have been a Northern Ireland element, calculate the Northern Ireland element of the result of Step 3 by applying that proportion to it.
+> - *Step 5* If any remaining amount of the realisation credit has not been attributed under Step 1 or 3, calculate the Northern Ireland element of that remaining amount by determining how much of that remaining amount can on a just and reasonable basis be attributed to the holding of the new asset for the purposes of the relevant Northern Ireland trade.
+>
+> (3) The Northern Ireland element of the realisation credit is the total of the Northern Ireland elements calculated at Steps 2, 4 and 5.
+>
+> (4) In this section—
+>
+> - “the relevant Northern Ireland trade” means the qualifying trade carried on by the company in an accounting period in which it was a Northern Ireland company, except so far as the trade consists of an excluded activity;
+>
+> - “the total net debits” means—
+>
+>   - (a) in a case within section 742 of CTA 2009, the total debits previously brought into account for tax purposes under Part 8 of CTA 2009 in respect of the asset, less the total credits previously so brought into account (if any), or
+>   - (b) in a case within section 743 of CTA 2009, the total debits previously brought into account for tax purposes under Part 8 of CTA 2009 in respect of the asset;
+>
+> - “the total net Northern Ireland debits” has the meaning given by section 357OF(2).
+>
+> **Pre-commencement assets**
+>
+> **357OH Pre-commencement asset**
+>
+> (1) An intangible fixed asset is a “pre-commencement asset” if it was created before the commencement day.
+>
+> (2) “The commencement day” has the meaning given by section 5(4) of the Corporation Tax (Northern Ireland) Act 2015.
+>
+> (3) Subsections (1) and (2) have effect for the purposes of this Chapter.
+>
+> (4) The general rule is that intangible fixed assets are treated for the purposes of subsection (1) as having been created before the commencement day if they were held (by the company or another person) at any time before that day.
+>
+> (5) The general rule is subject to the following provisions—
+>
+> (a) section 357OI (goodwill);
+>
+> (b) section 357OJ (assets representing production expenditure on films).
+>
+> **357OI Goodwill**
+>
+> For the purposes of section 357OH(1) (pre-commencement asset), goodwill is treated as created—
+>
+> (a) before the commencement day in a case in which the business in question was carried on by the company or any other person at any time before that day, and
+>
+> (b) on or after the commencement day in any other case.
+>
+> **357OJ Assets representing production expenditure on films**
+>
+> (1) In determining for the purposes of section 357OH(1) (pre-commencement asset) whether an asset representing production expenditure on a film was created before the commencement day or on or after that day, the asset is treated as created when the film is completed.
+>
+> (2) In this section—
+>
+> (a) “completed” has the same meaning as in Part 15 of CTA 2009 (see section 1181(5) of that Act),
+>
+> (b) “film” has the same meaning as in that Part (see section 1181 of that Act), and
+>
+> (c) “production expenditure” has the same meaning as in that Part (see section 1184 of that Act).
+>
+> **357OK Fungible assets**
+>
+> (1) This section and section 357OL have effect for the purposes of this Chapter in relation to assets to which section 858 of CTA 2009 (treatment of fungible assets) applies.
+>
+> (2) Section 858 of CTA 2009 applies as if—
+>
+> (a) pre-commencement assets, and
+>
+> (b) intangible fixed assets that are not pre-commencement assets,
+>
+> were assets of different kinds.
+>
+> (3) If section 858 of CTA 2009 applies (whether or not it is a case where subsection (2) has effect)—
+>
+> (a) a single asset comprising pre-commencement assets is treated as itself being a pre-commencement asset, and
+>
+> (b) a single asset comprising intangible fixed assets that are not pre-commencement assets is treated as itself being an asset which is not a pre-commencement asset.
+>
+> **357OL Realisation and acquisition of fungible assets**
+>
+> (1) Subsection (2) applies if—
+>
+> (a) a company realises a fungible asset, and
+>
+> (b) apart from section 357OK(2), the asset would be treated as part of a single asset comprising both pre-commencement assets and assets that are not pre-commencement assets.
+>
+> (2) The realisation is treated as diminishing the single asset of the company comprising pre-commencement assets in priority to diminishing the single asset of the company comprising assets that are not pre-commencement assets.
+>
+> (3) Fungible assets acquired by a company that would not otherwise be treated as pre-commencement assets are so treated so far as they are identified, in accordance with the following rules, with pre-commencement assets realised by the company.
+>
+> (4) Rule 1 is that assets acquired are identified with pre-commencement assets of the same kind realised by the company within the period beginning 30 days before and ending 30 days after the date of the acquisition.
+>
+> (5) The reference in subsection (4) to assets “of the same kind” is to assets that are, or but for section 357OK(2) would be, treated as part of a single asset because of section 858 of CTA 2009.
+>
+> (6) Rule 2 is that assets realised earlier are identified before assets realised later.
+>
+> (7) Rule 3 is that assets acquired earlier are identified before assets acquired later.
+>
+> (8) In this section—
+>
+> - “fungible asset” means an intangible fixed asset to which section 858 of CTA 2009 applies;
+> - “realisation”, in relation to a fungible asset, has the same meaning as in Part 8 of CTA 2009 (see sections 734 and 856 of that Act).
+>
+> **Assets treated as pre-commencement assets**
+>
+> **357OM Assets whose value derives from pre-commencement assets**
+>
+> (1) This section applies if—
+>
+> (a) on or after the commencement day a company (“the acquiring company”) acquires an intangible fixed asset (“the acquired asset”) from a person (“the transferor”),
+>
+> (b) the acquired asset is created on or after the commencement day,
+>
+> (c) the value of the acquired asset derives in whole or in part from any other asset (“the other asset”), and
+>
+> (d) the other asset meets the pre-commencement status conditions.
+>
+> (2) In the hands of the acquiring company the acquired asset is treated for the purposes of this Chapter as a pre-commencement asset so far as its value derives from the other asset.
+>
+> (3) If only part of the value of the acquired asset derives from the other asset, this Chapter has effect as if there were separate assets representing the part that does so derive and the part that does not so derive.
+>
+> (4) For the purposes of this section the cases in which the value of an asset may be derived from any other asset include any case where—
+>
+> (a) assets have been merged or divided,
+>
+> (b) assets have changed their nature, or
+>
+> (c) rights or interests in or over assets have been created or extinguished.
+>
+> (5) Section 357ON supplements this section.
+>
+> **357ON The pre-commencement status conditions**
+>
+> (1) For the purposes of section 357OM(1) the other asset meets the pre-commencement status conditions if—
+>
+> (a) it was created before the commencement day, or
+>
+> (b) on or after the commencement day the other asset has been a pre-commencement asset in the hands of the transferor or any other person.
+>
+> (2) Any apportionment necessary for the purposes of section 357OM(3) must be made on a just and reasonable basis.
+>
+> (3) Sections 357OH(4), 357OI and 357OJ (provisions explaining when assets are treated as created) apply for the purposes of section 357OM as they apply for the purposes of section 357OH(1).
+>
+> (4) Expressions used in this section have the same meaning as in section 357OM.
+>
+> **357OO Assets acquired in connection with disposals of pre-commencement assets**
+>
+> (1) This section applies if—
+>
+> (a) a person disposes of an asset which—
+>
+> (i) in the case of an intangible fixed asset, is a pre-commencement asset, or
+>
+> (ii) in the case of any other asset, was created before the commencement day, and
+>
+> (b) a company acquires an intangible fixed asset directly or indirectly in consequence of the disposal or otherwise in connection with it.
+>
+> (2) The acquired asset is treated for the purposes of this Chapter as a pre-commencement asset in the company's hands.
+>
+> (3) For the purposes of this section a person “disposes of” an asset if—
+>
+> (a) for the purposes of TCGA 1992, the person makes a part disposal of the asset or any other disposal of it,
+>
+> (b) in the case of an intangible fixed asset, there is for the purposes of Part 8 of CTA 2009 a realisation of the asset, or
+>
+> (c) the person grants a licence in respect of the asset.
+>
+> (4) For the purposes of this section it does not matter whether—
+>
+> (a) the asset that the person disposes of is the same asset as the acquired asset,
+>
+> (b) the acquired asset is acquired at the time of the disposal, or
+>
+> (c) the acquired asset is acquired by merging assets or otherwise.
+>
+> **Interpretation**
+>
+> **357OP Interpretation of Chapter**
+>
+> In this Chapter—
+>
+> - “the commencement day” has the meaning given by section 357OH(2);
+> - “the Northern Ireland element”, in relation to a realisation credit or realisation debit, is to be read in accordance with section 357OE;
+> - “Northern Ireland intangibles credits” means credits brought into account under Part 8 of CTA 2009 that are in accordance with section 357OB(2)(a) or (3) or section 357OC(2) Northern Ireland intangibles credits;
+> - “Northern Ireland intangibles debits” means debits brought into account under Part 8 of CTA 2009 that are in accordance with section 357OB(2)(b) or (4) or section 357OC(3) Northern Ireland intangibles debits;
+> - “pre-commencement asset” has the meaning given by section 357OH;
+> - “realisation credit” and “realisation debit” are to be read in accordance with section 357OD;
+> - “roll-over relief” has the meaning given by section 357OE.
+>
+> **CHAPTER 9 — Research and development expenditure**
+>
+> **Introductory**
+>
+> **357P Introduction and interpretation**
+>
+> (1) This Chapter makes provision about the operation of—
+>
+> (a) Chapter 6A of Part 3 of CTA 2009 (trade profits: R&D expenditure credits),
+>
+> (b) Chapter 2 of Part 13 of that Act (relief for SMEs: cost of R&D incurred by SME), and
+>
+> (c) Chapter 7 of that Part (relief for large companies: vaccine research etc),
+>
+> in relation to expenditure incurred by a company in an accounting period in which it is a Northern Ireland company.
+>
+> (2) In this Chapter—
+>
+> (a) “Northern Ireland expenditure” means expenditure incurred in a trade to the extent that the expenditure forms part of the Northern Ireland profits or Northern Ireland losses of the trade;
+>
+> (b) “qualifying Chapter 2 expenditure” has the same meaning as in Part 13 of CTA 2009 (see section 1051 of that Act);
+>
+> (c) “Northern Ireland qualifying Chapter 2 expenditure” means so much of any qualifying Chapter 2 expenditure as forms part of the Northern Ireland profits or Northern Ireland losses of a trade;
+>
+> (d) “qualifying Chapter 7 expenditure” has the same meaning as in Part 13 of CTA 2009 (see section 1098 of that Act);
+>
+> (e) “Northern Ireland qualifying Chapter 7 expenditure” means so much of any qualifying Chapter 7 expenditure as forms part of the Northern Ireland profits or Northern Ireland losses of a trade.
+>
+> **Chapter 6A of Part 3 of CTA 2009**
+>
+> **357PA R&D expenditure credit under Chapter 6A of Part 3 of CTA 2009**
+>
+> (1) This section applies where—
+>
+> (a) a company is entitled to an R&D expenditure credit under Chapter 6A of Part 3 of CTA 2009 (R&D expenditure credits) for an accounting period in relation to a qualifying trade, and
+>
+> (b) the company is a Northern Ireland company in the period.
+>
+> (2) The R&D expenditure credit forms part of the mainstream profits or mainstream losses of the trade.
+>
+> **Chapter 2 of Part 13 of CTA 2009**
+>
+> **357PB Additional deduction under section 1044 of CTA 2009**
+>
+> (1) This section applies where—
+>
+> (a) a company is entitled to corporation tax relief under section 1044 of CTA 2009 (additional deduction in calculating profits of a trade) for an accounting period in relation to any qualifying Chapter 2 expenditure,
+>
+> (b) the company is a Northern Ireland company in the period, and
+>
+> (c) some or all of the qualifying Chapter 2 expenditure is Northern Ireland qualifying Chapter 2 expenditure.
+>
+> (2) Section 1044(8) of CTA 2009 (amount of additional deduction) has effect, in relation to the Northern Ireland qualifying Chapter 2 expenditure, as if the percentage specified in that provision were the adjusted percentage.
+>
+> (3) For the purposes of this section “the adjusted percentage” means—
+>
+> A × (MR)/(NIR) where— A is the percentage specified in section 1044(8) of CTA 2009; MR is the main rate for the financial year in which the expenditure is incurred; NIR is the Northern Ireland rate for the financial year in which the expenditure is incurred.
+>
+> (4) So much of the additional deduction under section 1044 of CTA 2009 as is (by virtue of this section) calculated by reference to the adjusted percentage forms part of Northern Ireland profits or Northern Ireland losses of the trade.
+>
+> **357PC Tax credit under section 1054 of CTA 2009: entitlement**
+>
+> (1) Section 1055 of CTA 2009 (meaning of “Chapter 2 surrenderable loss”) does not apply to a company in relation to a qualifying trade it carries on in an accounting period in which it is a Northern Ireland company (and the following provisions of this section apply instead).
+>
+> (2) The company has a Chapter 2 surrenderable loss in the period for the purposes of Chapter 2 of Part 13 of CTA 2009 if—
+>
+> (a) it obtains an additional deduction under section 1044 of CTA 2009 in the accounting period in calculating the profits of the trade, and
+>
+> (b) it has—
+>
+> (i) a Northern Ireland loss of the trade in the period, or
+>
+> (ii) a mainstream loss of the trade in the period.
+>
+> (3) In this Chapter—
+>
+> (a) “Northern Ireland Chapter 2 surrenderable loss” means a Chapter 2 surrenderable loss that a company has by virtue of subsection (2)(b)(i);
+>
+> (b) “mainstream Chapter 2 surrenderable loss” means a Chapter 2 surrenderable loss that a company has by virtue of subsection (2)(b)(ii).
+>
+> (4) The amount of a Northern Ireland Chapter 2 surrenderable loss is—
+>
+> (a) so much of the Northern Ireland loss in question as is unrelieved, or
+>
+> (b) if less, the Northern Ireland qualifying Chapter 2 expenditure in respect of which the relief was obtained, multiplied by the adjusted section 1044 percentage.
+>
+> (5) The amount of a mainstream Chapter 2 surrenderable loss is—
+>
+> (a) so much of the mainstream loss in question as is unrelieved, or
+>
+> (b) if less, the qualifying Chapter 2 expenditure in respect of which the relief was obtained that is not Northern Ireland qualifying Chapter 2 expenditure, multiplied by the percentage specified in section 1055(2)(b) of CTA 2009.
+>
+> (6) For the purposes of this section “the adjusted section 1044 percentage” means—
+>
+> 100 + (A × (MR)/(NIR)) where— A is percentage specified in section 1044(8) of CTA 2009; MR is the main rate for the financial year in which the expenditure is incurred; NIR is the Northern Ireland rate for the financial year in which the expenditure is incurred.
+>
+> (7) Section 1056 of CTA 2009 (amount of trading loss which is unrelieved) applies for the purposes of this section.
+>
+> (8) In the application of section 1056 of CTA 2009 by virtue of subsection (7), subsection (2)(c) of that section has effect as if the reference to any loss surrendered under Part 5 of CTA 2010 were—
+>
+> (a) where the trading loss in question is a Northern Ireland loss, to any of that Northern Ireland loss surrendered under that Part;
+>
+> (b) where the trading loss in question is a mainstream loss, to any of that mainstream loss surrendered under that Part.
+>
+> **357PD Tax credit under section 1054 of CTA 2009: amount of tax credit**
+>
+> (1) Section 1058(1) of CTA 2009 (amount of tax credit) does not apply to a company in relation to a qualifying trade it carries on in an accounting period in which it is a Northern Ireland company (and the following provisions of this section apply instead).
+>
+> (2) The amount of the R&D tax credit to which the company is entitled for the accounting period is, where the company—
+>
+> (a) has a Northern Ireland Chapter 2 surrenderable loss, but
+>
+> (b) does not have a mainstream Chapter 2 surrenderable loss,
+>
+> the amount of the loss mentioned in paragraph (a) multiplied by the relevant percentage.
+>
+> (3) The amount of the R&D tax credit to which the company is entitled for the accounting period is, where the company—
+>
+> (a) has a mainstream Chapter 2 surrenderable loss, but
+>
+> (b) does not have a Northern Ireland Chapter 2 surrenderable loss,
+>
+> the amount of the loss mentioned in paragraph (a) multiplied by the percentage specified in section 1058(1)(a) of CTA 2009.
+>
+> (4) The amount of the R&D tax credit to which the company is entitled for the accounting period is, where the company has both a Northern Ireland Chapter 2 surrenderable loss and a mainstream Chapter 2 surrenderable loss, the sum of—
+>
+> (a) the amount of the Northern Ireland Chapter 2 surrenderable loss multiplied by the relevant percentage, and
+>
+> (b) the amount of the mainstream Chapter 2 surrenderable loss multiplied by the percentage specified in section 1058(1)(a) of CTA 2009.
+>
+> (5) For the purposes of this section “the relevant percentage” means—
+>
+> A × ((100 + B)/(C)) where— A is the percentage specified in section 1058(1)(a) of CTA 2009; B is the percentage specified in section 1044(8) of CTA 2009; C is the adjusted section 1044 percentage as defined by section 357PC(6).
+>
+> **357PE Restriction on losses carried forward where tax credit claimed**
+>
+> (1) Section 1062(2) and (3) of CTA 2009 (restriction on losses carried forward where tax credit claimed) do not apply to a company in relation to a qualifying trade it carries on in an accounting period in which it is a Northern Ireland company (and the following provisions of this section apply instead).
+>
+> (2) For the purposes of section 45 of CTA 2010 (relief for trading losses against future trading profits)—
+>
+> (a) if the company has a Northern Ireland loss in the accounting period, that loss is treated as reduced by the amount of the surrendered Northern Ireland loss for the period, and
+>
+> (b) if the company has a mainstream loss in the accounting period, that loss is treated as reduced by the amount of the surrendered mainstream loss for the period.
+>
+> (3) For the purposes of this section—
+>
+> (a) the “amount of the surrendered Northern Ireland loss” for the period means the amount of the Northern Ireland Chapter 2 surrenderable loss in respect of which the company claims an R&D tax credit for the period, and
+>
+> (b) the “amount of the surrendered mainstream loss” for the period means the amount of the mainstream Chapter 2 surrenderable loss in respect of which the company claims an R&D tax credit for the period.
+>
+> **Chapter 7 of Part 13 of CTA 2009**
+>
+> **357PF Additional deduction under section 1087 of CTA 2009**
+>
+> (1) This section applies where—
+>
+> (a) a company is entitled to corporation tax relief under section 1087 of CTA 2009 (deduction in calculating profits of a trade) for an accounting period in relation to any qualifying Chapter 7 expenditure,
+>
+> (b) the company is a Northern Ireland company in the period, and
+>
+> (c) some or all of the qualifying Chapter 7 expenditure is Northern Ireland qualifying Chapter 7 expenditure.
+>
+> (2) Section 1091 of CTA 2009 (amount of deduction) has effect, in relation to the Northern Ireland qualifying Chapter 7 expenditure, as if—
+>
+> (a) the percentage specified in subsection (3) of that section were the adjusted amount A percentage, and
+>
+> (b) the percentage specified in subsection (4) of that section were the adjusted amount B percentage.
+>
+> (3) For the purposes of this section “the adjusted amount A percentage” means—
+>
+> A × (MR)/(NIR) where— A is the percentage specified in section 1091(3) of CTA 2009; MR is the main rate for the financial year in which the expenditure is incurred; NIR is the Northern Ireland rate for the financial year in which the expenditure is incurred.
+>
+> (4) For the purposes of this section “the adjusted amount B percentage” means—
+>
+> A × (MR)/(NIR) where— A is the percentage specified in section 1091(4) of CTA 2009; MR is the main rate for the financial year in which the expenditure is incurred; NIR is the Northern Ireland rate for the financial year in which the expenditure is incurred.
+>
+> (5) So much of the additional deduction under section 1087 of CTA 2009 as is (by virtue of this section) calculated by reference to the adjusted amount A percentage or the adjusted amount B percentage forms part of the Northern Ireland profits or Northern Ireland losses of the trade.
+>
+> **CHAPTER 10 — Remediation of contaminated or derelict land**
+>
+> **Introductory**
+>
+> **357Q Introduction and interpretation**
+>
+> (1) This Chapter makes provision about the operation of Part 14 of CTA 2009 (remediation of contaminated or derelict land) in relation to expenditure incurred by a company in an accounting period in which it is a Northern Ireland company.
+>
+> (2) In this Chapter—
+>
+> (a) “Northern Ireland expenditure” means expenditure incurred in a trade to the extent that the expenditure forms part of the Northern Ireland profits or Northern Ireland losses of the trade;
+>
+> (b) “qualifying land remediation expenditure” has the same meaning as in Part 14 of CTA 2009 (see section 1144 of that Act);
+>
+> (c) “Northern Ireland qualifying land remediation expenditure” means so much of any qualifying land remediation expenditure as forms part of the Northern Ireland profits or Northern Ireland losses of a trade.
+>
+> **Additional deduction under section 1149 of CTA 2009**
+>
+> **357QA Additional deduction**
+>
+> (1) This section applies where—
+>
+> (a) a company is entitled to corporation tax relief under section 1149 of CTA 2009 (additional deduction for qualifying land remediation expenditure) for an accounting period in relation to any qualifying land remediation expenditure,
+>
+> (b) the company is a Northern Ireland company in the period, and
+>
+> (c) some or all of the qualifying land remediation expenditure is Northern Ireland qualifying land remediation expenditure.
+>
+> (2) Section 1149(8) of CTA 2009 (amount of additional deduction) has effect, in relation to the Northern Ireland qualifying land remediation expenditure, as if the percentage specified in that provision were the adjusted percentage.
+>
+> (3) For the purposes of this section “the adjusted percentage” means—
+>
+> A × (MR)/(NIR) where— A is the percentage specified in section 1149(8) of CTA 2009; MR is the main rate for the financial year in which the expenditure is incurred; NIR is the Northern Ireland rate for the financial year in which the expenditure is incurred.
+>
+> (4) So much of the additional deduction under section 1149 of CTA 2009 as is (by virtue of this section) calculated by reference to the adjusted percentage forms part of the Northern Ireland profits or Northern Ireland losses of the trade.
+>
+> **Tax credit under section 1151 of CTA 2009**
+>
+> **357QB Tax credit: entitlement**
+>
+> (1) Section 1152 of CTA 2009 (meaning of “qualifying land remediation loss”) does not apply to a company in relation to a qualifying trade it carries on in an accounting period in which it is a Northern Ireland company (and the following provisions of this section apply instead).
+>
+> (2) The company has a qualifying land remediation loss in the period for the purposes of Chapter 3 of Part 14 of CTA 2009 if—
+>
+> (a) it obtains an additional deduction under section 1149 of CTA 2009 in the accounting period in calculating the profits of the trade, and
+>
+> (b) it has—
+>
+> (i) a Northern Ireland loss of the trade in the period, or
+>
+> (ii) a mainstream loss of the trade in the period.
+>
+> (3) In this Chapter—
+>
+> (a) “Northern Ireland qualifying land remediation loss” means a qualifying land remediation loss that a company has by virtue of subsection (2)(b)(i);
+>
+> (b) “mainstream qualifying land remediation loss” means a qualifying land remediation loss that a company has by virtue of subsection (2)(b)(ii).
+>
+> (4) The amount of a Northern Ireland qualifying land remediation loss is—
+>
+> (a) so much of the Northern Ireland loss in question as is unrelieved, or
+>
+> (b) if less, the Northern Ireland qualifying land remediation expenditure in respect of which the relief was obtained, multiplied by the adjusted section 1152 percentage.
+>
+> (5) The amount of a mainstream qualifying land remediation loss is—
+>
+> (a) so much of the mainstream loss in question as is unrelieved, or
+>
+> (b) if less, the qualifying land remediation expenditure in respect of which the relief was obtained that is not Northern Ireland qualifying Chapter 2 expenditure, multiplied by the percentage specified in section 1152(2)(b) of CTA 2009.
+>
+> (6) For the purposes of this section “the adjusted section 1152 percentage” means—
+>
+> 100 + (A × (MR)/(NIR)) where— A is percentage specified in section 1149(8) of CTA 2009; MR is the main rate for the financial year in which the expenditure is incurred; NIR is the Northern Ireland rate for the financial year in which the expenditure is incurred.
+>
+> (7) Section 1153 of CTA 2009 (amount of trading loss which is unrelieved) applies for the purposes of this section.
+>
+> (8) In the application of section 1153 of CTA 2009 by virtue of subsection (7), subsection (1)(c) of that section has effect as if the reference to any loss surrendered under Part 5 of CTA 2010 were—
+>
+> (a) where the trading loss in question is a Northern Ireland loss, to any of that Northern Ireland loss surrendered under that Part;
+>
+> (b) where the trading loss in question is a mainstream loss, to any of that mainstream loss surrendered under that Part.
+>
+> **357QC Tax credit: amount of tax credit**
+>
+> (1) Section 1154(1) of CTA 2009 (amount of tax credit) does not apply to a company in relation to a qualifying trade it carries on in an accounting period in which it is a Northern Ireland company (and the following provisions of this section apply instead).
+>
+> (2) The amount of the land remediation tax credit to which the company is entitled for the accounting period is, where the company—
+>
+> (a) has a Northern Ireland qualifying land remediation loss, but
+>
+> (b) does not have a mainstream qualifying land remediation loss,
+>
+> the amount of the loss mentioned in paragraph (a) multiplied by the relevant percentage.
+>
+> (3) The amount of the land remediation tax credit to which the company is entitled for the accounting period is, where the company—
+>
+> (a) has a mainstream qualifying land remediation loss, but
+>
+> (b) does not have a Northern Ireland qualifying land remediation loss,
+>
+> the amount of the loss mentioned in paragraph (a) multiplied by the percentage specified in section 1154(1) of CTA 2009.
+>
+> (4) The amount of the land remediation tax credit to which the company is entitled for the accounting period is, where the company has both a Northern Ireland qualifying land remediation loss and a mainstream qualifying land remediation loss, the sum of—
+>
+> (a) the amount of the Northern Ireland qualifying land remediation loss multiplied by the relevant percentage, and
+>
+> (b) the amount of the mainstream qualifying land remediation loss multiplied by the percentage specified in section 1154(1) of CTA 2009.
+>
+> (5) For the purposes of this section “the relevant percentage” means—
+>
+> A × ((100 + B)/(C)) where— A is the percentage specified in section 1154(1) of CTA 2009; B is the percentage specified in section 1149(8) of CTA 2009; C is the adjusted section 1152 percentage as defined by section 357QB(6).
+>
+> **357QD Restriction on losses carried forward where tax credit claimed**
+>
+> (1) In section 1158 of CTA 2009 (restriction on losses carried forward where tax credit claimed), subsection (2) and subsection (5) so far as applying for the purposes of subsection (2) do not apply to a company in relation to a qualifying trade it carries on in an accounting period in which it is a Northern Ireland company (and the following provisions of this section apply instead).
+>
+> (2) If the company in the accounting period—
+>
+> (a) claims a land remediation tax credit to which it is entitled, and
+>
+> (b) has a Northern Ireland loss,
+>
+> that loss is treated for the purposes of section 45 of CTA 2010 (relief for trading losses against future trading profits) as reduced by the amount of the surrendered Northern Ireland loss for the period.
+>
+> (3) If the company in the accounting period—
+>
+> (a) claims a land remediation tax credit to which it is entitled, and
+>
+> (b) has a mainstream loss,
+>
+> that loss is treated for the purposes of section 45 of CTA 2010 as reduced by the amount of the surrendered mainstream loss for the period.
+>
+> (4) For the purposes of this section—
+>
+> (a) the “amount of the surrendered Northern Ireland loss” for the period means the amount of the Northern Ireland qualifying land remediation loss in respect of which the company claims a tax credit for the period, and
+>
+> (b) the “amount of the surrendered mainstream loss” for the period means the amount of the mainstream qualifying land remediation loss in respect of which the company claims a tax credit for the period.
+>
+> **CHAPTER 11 — Film tax relief**
+>
+> **Introductory**
+>
+> **357R Introduction and interpretation**
+>
+> (1) This Chapter makes provision about the operation of Part 15 of CTA 2009 (film tax relief) in relation to expenditure incurred by a company in an accounting period in which it is a Northern Ireland company.
+>
+> (2) In this Chapter—
+>
+> (a) “Northern Ireland expenditure” means expenditure incurred in a trade to the extent that the expenditure forms part of the Northern Ireland profits or Northern Ireland losses of the trade;
+>
+> (b) “the separate film trade” has the same meaning as in Chapter 3 of Part 15 of CTA 2009 (see section 1195(5) of that Act);
+>
+> (c) “qualifying expenditure” has the same meaning as in that Chapter (see section 1199(3) of that Act).
+>
+> (3) References in Part 15 of CTA 2009 to “film tax relief” include relief under this Chapter.
+>
+> **Film tax relief**
+>
+> **357RA Northern Ireland additional deduction**
+>
+> (1) In this Chapter “a Northern Ireland additional deduction” means so much of a deduction under section 1199 of CTA 2009 (additional deduction for qualifying expenditure) as is calculated by reference to qualifying expenditure that is Northern Ireland expenditure.
+>
+> (2) A Northern Ireland additional deduction forms part of the Northern Ireland profits or Northern Ireland losses of the separate film trade.
+>
+> **357RB Northern Ireland supplementary deduction**
+>
+> (1) This section applies where—
+>
+> (a) a company is entitled under section 1199 of CTA 2009 to an additional deduction in calculating the profit or loss of the separate film trade in an accounting period,
+>
+> (b) the company is a Northern Ireland company in the period,
+>
+> (c) the additional deduction is wholly or partly a Northern Ireland additional deduction, and
+>
+> (d) any of the following conditions is met—
+>
+> (i) the company does not have a surrenderable loss in the accounting period;
+>
+> (ii) the company has a surrenderable loss in the accounting period, but does not make a claim under section 1201 of CTA 2009 (film tax credit claimable if company has surrenderable loss) for the period;
+>
+> (iii) the company has a surrenderable loss in the accounting period and makes a claim under that section for the period, but the amount of Northern Ireland losses surrendered on the claim is less than the Northern Ireland additional deduction.
+>
+> (2) The company is entitled to make another deduction (“a Northern Ireland supplementary deduction”) in respect of qualifying expenditure.
+>
+> (3) See section 357RC for provision about the amount of the Northern Ireland supplementary deduction.
+>
+> (4) The Northern Ireland supplementary deduction—
+>
+> (a) is made in calculating the profit or loss of the separate film trade, and
+>
+> (b) forms part of the Northern Ireland profits or Northern Ireland losses of the separate film trade.
+>
+> (5) In this section “surrenderable loss” has the meaning given by section 1201 of CTA 2009.
+>
+> **357RC Northern Ireland supplementary deduction: amount**
+>
+> (1) This section contains provision for the purposes of section 357RB(2) about the amount of the Northern Ireland supplementary deduction.
+>
+> (2) If the accounting period falls within only one financial year, the amount of the Northern Ireland supplementary deduction is—
+>
+> (A − B) × (MR − NIR)/(NIR) where— A is the amount of the Northern Ireland additional deduction brought into account in the accounting period; B is the amount of Northern Ireland losses surrendered in any claim under section 1201 of CTA 2009 for the accounting period; MR is the main rate for the financial year; NIR is the Northern Ireland rate for the financial year.
+>
+> (3) If the accounting period falls within more than one financial year, the amount of the Northern Ireland supplementary deduction is determined by taking the following steps.
+>
+> - *Step 1* Calculate, for each financial year, the amount that would be the Northern Ireland supplementary deduction for the accounting period if it fell within only that financial year (see subsection (2)).
+> - *Step 2* Multiply each amount calculated under step 1 by the proportion of the accounting period that falls within the financial year for which it is calculated.
+> - *Step 3* Add together each amount found under step 2.
+>
+> **357RD Film tax credit: Northern Ireland supplementary deduction ignored**
+>
+> For the purpose of determining the available loss of a company under section 1201 of CTA 2009 (film tax credit claimable if company has surrenderable loss) for any accounting period, any Northern Ireland supplementary deduction made by the company in the period (and any Northern Ireland supplementary deduction made in any previous accounting period) is to be ignored.
+>
+> **357RE Artificially inflated claims for additional deduction**
+>
+> Section 1205(1)(a) and (2)(a) of CTA 2009 (artificially inflated claims for additional deduction or film tax credit) has effect as if references to an additional deduction under Chapter 3 of Part 15 of that Act included a Northern Ireland supplementary deduction under this Chapter.
+>
+> **Film losses**
+>
+> **357RF Restriction on use of losses while film is in production**
+>
+> (1) Section 1209 of CTA 2009 (restriction on use of losses while film is in production) has effect subject as follows.
+>
+> (2) The reference in subsection (1) of that section to a loss made in the separate film trade in a pre-completion period is, if the company is a Northern Ireland company in that period, a reference to—
+>
+> (a) any Northern Ireland losses of the trade of the period, or
+>
+> (b) any mainstream losses of the trade of the period;
+>
+> and references to losses in subsection (2) of that section are to be read accordingly.
+>
+> (3) Subsection (4) applies if a Northern Ireland company has, in a pre-completion period—
+>
+> (a) both Northern Ireland losses of the trade and mainstream profits of the trade, or
+>
+> (b) both mainstream losses of the trade and Northern Ireland profits of the trade.
+>
+> (4) The company may make a claim under section 37 (relief for trade losses against total profits) for relief for the losses mentioned in subsection (3)(a) or (b).
+>
+> (5) But relief on such a claim is available only—
+>
+> (a) in the case of a claim for relief for Northern Ireland losses, against mainstream profits of the trade of the same period;
+>
+> (b) in the case of a claim for relief for mainstream losses, against Northern Ireland profits of the trade of the same period.
+>
+> (6) In this section “a pre-completion period” has the same meaning as in section 1209 of CTA 2009 (see section 1208(2) of that Act).
+>
+> **357RG Use of losses in later periods**
+>
+> (1) Section 1210 of CTA 2009 (restriction on use of losses in later periods) has effect subject as follows.
+>
+> (2) The reference in subsection (2) of that section to a loss made in the separate film trade is, in relation to a loss made in a period in which the company is a Northern Ireland company, a reference to—
+>
+> (a) any Northern Ireland losses of the trade of the period, or
+>
+> (b) any mainstream losses of the trade of the period;
+>
+> and references to losses in subsections (3) and (6) of that section are to be read accordingly.
+>
+> (3) The reference in subsection (4) of that section to a loss made in the separate film trade in a relevant later period is, where the company is a Northern Ireland company in the period, a reference to—
+>
+> (a) any Northern Ireland losses of the trade of the period, or
+>
+> (b) any mainstream losses of the trade of the period;
+>
+> and references to losses in subsections (5) and (6) of that section are to be read accordingly.
+>
+> (4) Subsection (6) of that section has effect, in relation to Northern Ireland losses, as if the reference to an additional deduction under Chapter 3 of Part 15 of that Act included a reference to a Northern Ireland supplementary deduction under this Chapter.
+>
+> **357RH Terminal losses**
+>
+> (1) Section 1211 of CTA 2009 (terminal losses) has effect subject as follows.
+>
+> (2) Where—
+>
+> (a) a company makes an election under subsection (3) of that section (election to treat terminal loss as loss brought forward of different trade) in relation to all or part of a terminal loss, and
+>
+> (b) the terminal loss is a Northern Ireland loss,
+>
+> that subsection has effect as if the reference in it to a loss brought forward were to a Northern Ireland loss brought forward.
+>
+> (3) Where—
+>
+> (a) a company makes a claim under subsection (6) of that section (claim to treat terminal loss as loss brought forward by different company) in relation to part or all of a terminal loss, and
+>
+> (b) the terminal loss is a Northern Ireland loss,
+>
+> that subsection has effect as if the reference in it to a loss brought forward were to a Northern Ireland loss brought forward.
+>
+> **CHAPTER 12 — Television production**
+>
+> **Introductory**
+>
+> **357S Introduction and interpretation**
+>
+> (1) This Chapter makes provision about the operation of Part 15A of CTA 2009 (television production) in relation to expenditure incurred by a company in an accounting period in which it is a Northern Ireland company.
+>
+> (2) In this Chapter—
+>
+> (a) “Northern Ireland expenditure” means expenditure incurred in a trade to the extent that the expenditure forms part of the Northern Ireland profits or Northern Ireland losses of the trade;
+>
+> (b) “the separate programme trade” has the same meaning as in Chapter 3 of Part 15A of CTA 2009 (see section 1216C(6) of that Act);
+>
+> (c) “qualifying expenditure” has the same meaning as in that Chapter (see section 1216CF(3) of that Act).
+>
+> (3) References in Part 15A of CTA 2009 to “television tax relief” include relief under this Chapter.
+>
+> **Television tax relief**
+>
+> **357SA Northern Ireland additional deduction**
+>
+> (1) In this Chapter “a Northern Ireland additional deduction” means so much of a deduction under section 1216CF of CTA 2009 (additional deduction for qualifying expenditure) as is calculated by reference to qualifying expenditure that is Northern Ireland expenditure.
+>
+> (2) A Northern Ireland additional deduction forms part of the Northern Ireland profits or Northern Ireland losses of the separate programme trade.
+>
+> **357SB Northern Ireland supplementary deduction**
+>
+> (1) This section applies where—
+>
+> (a) a company is entitled under section 1216CF of CTA 2009 to an additional deduction in calculating the profit or loss of the separate programme trade in an accounting period,
+>
+> (b) the company is a Northern Ireland company in the period,
+>
+> (c) the additional deduction is wholly or partly a Northern Ireland additional deduction, and
+>
+> (d) any of the following conditions is met—
+>
+> (i) the company does not have a surrenderable loss in the accounting period;
+>
+> (ii) the company has a surrenderable loss in the accounting period, but does not make a claim under section 1216CH of CTA 2009 (television tax credit claimable if company has surrenderable loss) for the period;
+>
+> (iii) the company has a surrenderable loss in the accounting period and makes a claim under that section for the period, but the amount of Northern Ireland losses surrendered on the claim is less than the Northern Ireland additional deduction.
+>
+> (2) The company is entitled to make another deduction (“a Northern Ireland supplementary deduction”) in respect of qualifying expenditure.
+>
+> (3) See section 357SC for provision about the amount of the Northern Ireland supplementary deduction.
+>
+> (4) The Northern Ireland supplementary deduction—
+>
+> (a) is made in calculating the profit or loss of the separate programme trade, and
+>
+> (b) forms part of the Northern Ireland profits or Northern Ireland losses of the separate programme trade.
+>
+> (5) In this section “surrenderable loss” has the meaning given by section 1216CH of CTA 2009.
+>
+> **357SC Northern Ireland supplementary deduction: amount**
+>
+> (1) This section contains provision for the purposes of section 357SB(2) about the amount of the Northern Ireland supplementary deduction.
+>
+> (2) If the accounting period falls within only one financial year, the amount of the Northern Ireland supplementary deduction is—
+>
+> (A − B) × (MR − NIR)/(NIR) where— A is the amount of the Northern Ireland additional deduction brought into account in the accounting period; B is the amount of Northern Ireland losses surrendered in any claim under section 1216CH of CTA 2009 for the accounting period; MR is the main rate for the financial year; NIR is the Northern Ireland rate for the financial year.
+>
+> (3) If the accounting period falls within more than one financial year, the amount of the Northern Ireland supplementary deduction is determined by taking the following steps.
+>
+> - *Step 1* Calculate, for each financial year, the amount that would be the Northern Ireland supplementary deduction for the accounting period if it fell within only that financial year (see subsection (2)).
+> - *Step 2* Multiply each amount calculated under step 1 by the proportion of the accounting period that falls within the financial year for which it is calculated.
+> - *Step 3* Add together each amount found under step 2.
+>
+> **357SD Tax credit: Northern Ireland supplementary deduction ignored**
+>
+> For the purpose of determining the available loss of a company under section 1216CH of CTA 2009 (television tax credit claimable if company has surrenderable loss) for any accounting period, any Northern Ireland supplementary deduction made by the company in the period (and any Northern Ireland supplementary deduction made in any previous accounting period) is to be ignored.
+>
+> **357SE Artificially inflated claims for additional deduction**
+>
+> Section 1216CL(1)(a) and (2)(a) of CTA 2009 (artificially inflated claims for additional deduction or tax credit) has effect as if references to an additional deduction under Chapter 3 of Part 15A of that Act included a Northern Ireland supplementary deduction under this Chapter.
+>
+> **Programme losses**
+>
+> **357SF Restriction on use of losses while programme in production**
+>
+> (1) Section 1216DA of CTA 2009 (restriction on use of losses while programme in production) has effect subject as follows.
+>
+> (2) The reference in subsection (1) of that section to a loss made in the separate programme trade in a pre-completion period is, if the company is a Northern Ireland company in that period, a reference to—
+>
+> (a) any Northern Ireland losses of the trade of the period, or
+>
+> (b) any mainstream losses of the trade of the period;
+>
+> and references to losses in subsection (2) of that section are to be read accordingly.
+>
+> (3) Subsection (4) applies if a Northern Ireland company has, in a pre-completion period—
+>
+> (a) both Northern Ireland losses of the trade and mainstream profits of the trade, or
+>
+> (b) both mainstream losses of the trade and Northern Ireland profits of the trade.
+>
+> (4) The company may make a claim under section 37 (relief for trade losses against total profits) for relief for the losses mentioned in subsection (3)(a) or (b).
+>
+> (5) But relief on such a claim is available only—
+>
+> (a) in the case of a claim for relief for Northern Ireland losses, against mainstream profits of the trade of the same period;
+>
+> (b) in the case of a claim for relief for mainstream losses, against Northern Ireland profits of the trade of the same period.
+>
+> (6) In this section “a pre-completion period” has the same meaning as in section 1216DA of CTA 2009 (see section 1216D(2) of that Act).
+>
+> **357SG Use of losses in later periods**
+>
+> (1) Section 1216DB of CTA 2009 (use of losses in later periods) has effect subject as follows.
+>
+> (2) The reference in subsection (2) of that section to a loss made in the separate programme trade is, in relation to a loss made in a period in which the company is a Northern Ireland company, a reference to—
+>
+> (a) any Northern Ireland losses of the trade of the period, or
+>
+> (b) any mainstream losses of the trade of the period;
+>
+> and references to losses in subsections (3) and (6) of that section are to be read accordingly.
+>
+> (3) The reference in subsection (4) of that section to a loss made in the separate programme trade in a relevant later period is, where the company is a Northern Ireland company in the period, a reference to—
+>
+> (a) any Northern Ireland losses of the trade of the period, or
+>
+> (b) any mainstream losses of the trade of the period;
+>
+> and references to losses in subsections (5) and (6) of that section are to be read accordingly.
+>
+> (4) Subsection (6) of that section has effect, in relation to Northern Ireland losses, as if the reference to an additional deduction under Chapter 3 of Part 15A of that Act included a reference to a Northern Ireland supplementary deduction under this Chapter.
+>
+> **357SH Terminal losses**
+>
+> (1) Section 1216DC of CTA 2009 (terminal losses) has effect subject as follows.
+>
+> (2) Where—
+>
+> (a) a company makes an election under subsection (3) of that section (election to treat terminal loss as loss brought forward of different trade) in relation to all or part of a terminal loss, and
+>
+> (b) the terminal loss is a Northern Ireland loss,
+>
+> that subsection has effect as if the reference in it to a loss brought forward were to a Northern Ireland loss brought forward.
+>
+> (3) Where—
+>
+> (a) a company makes a claim under subsection (6) of that section (claim to treat terminal loss as loss brought forward by different company) in relation to part or all of a terminal loss, and
+>
+> (b) the terminal loss is a Northern Ireland loss,
+>
+> that subsection has effect as if the reference in it to a loss brought forward were to a Northern Ireland loss brought forward.
+>
+> **CHAPTER 13 — Video games development**
+>
+> **Introductory**
+>
+> **357T Introduction and interpretation**
+>
+> (1) This Chapter makes provision about the operation of Part 15B of CTA 2009 (video games development) in relation to expenditure incurred by a company in an accounting period in which it is a Northern Ireland company.
+>
+> (2) In this Chapter—
+>
+> (a) “Northern Ireland expenditure” means expenditure incurred in a trade to the extent that the expenditure forms part of the Northern Ireland profits or Northern Ireland losses of the trade;
+>
+> (b) “the separate video game trade” has the same meaning as in Chapter 3 of Part 15B of CTA 2009 (see section 1217C(6) of that Act);
+>
+> (c) “qualifying expenditure” has the same meaning as in that Chapter (see section 1217CF(3) of that Act).
+>
+> (3) References in Part 15B of CTA 2009 to “video games tax relief” include relief under this Chapter.
+>
+> **Video games tax relief**
+>
+> **357TA Northern Ireland additional deduction**
+>
+> (1) In this Chapter “a Northern Ireland additional deduction” means so much of a deduction under section 1217CF of CTA 2009 (additional deduction for qualifying expenditure) as is calculated by reference to qualifying expenditure that is Northern Ireland expenditure.
+>
+> (2) A Northern Ireland additional deduction forms part of the Northern Ireland profits or Northern Ireland losses of the separate video game trade.
+>
+> **357TB Northern Ireland supplementary deduction**
+>
+> (1) This section applies where—
+>
+> (a) a company is entitled under section 1217CF of CTA 2009 to an additional deduction in calculating the profit or loss of the separate video game trade in an accounting period,
+>
+> (b) the company is a Northern Ireland company in the period,
+>
+> (c) the additional deduction is wholly or partly a Northern Ireland additional deduction, and
+>
+> (d) any of the following conditions is met—
+>
+> (i) the company does not have a surrenderable loss in the accounting period;
+>
+> (ii) the company has a surrenderable loss in the accounting period, but does not make a claim under section 1217CH of CTA 2009 (video game tax credit claimable if company has surrenderable loss) for the period;
+>
+> (iii) the company has a surrenderable loss in the accounting period and makes a claim under that section for the period, but the amount of Northern Ireland losses surrendered on the claim is less than the Northern Ireland additional deduction.
+>
+> (2) The company is entitled to make another deduction (“a Northern Ireland supplementary deduction”) in respect of qualifying expenditure.
+>
+> (3) See section 357TC for provision about the amount of the Northern Ireland supplementary deduction.
+>
+> (4) The Northern Ireland supplementary deduction—
+>
+> (a) is made in calculating the profit or loss of the separate video game trade, and
+>
+> (b) forms part of the Northern Ireland profits or Northern Ireland losses of the separate video game trade.
+>
+> (5) In this section “surrenderable loss” has the meaning given by section 1217CH of CTA 2009.
+>
+> **357TC Northern Ireland supplementary deduction: amount**
+>
+> (1) This section contains provision for the purposes of section 357TB(2) about the amount of the Northern Ireland supplementary deduction.
+>
+> (2) If the accounting period falls within only one financial year, the amount of the Northern Ireland supplementary deduction is—
+>
+> (A − B) × (MR − NIR)/(NIR) where— A is the amount of the Northern Ireland additional deduction brought into account in the accounting period; B is the amount of Northern Ireland losses surrendered in any claim under section 1217CH of CTA 2009 for the accounting period; MR is the main rate for the financial year; NIR is the Northern Ireland rate for the financial year.
+>
+> (3) If the accounting period falls within more than one financial year, the amount of the Northern Ireland supplementary deduction is determined by taking the following steps.
+>
+> - *Step 1* Calculate, for each financial year, the amount that would be the Northern Ireland supplementary deduction for the accounting period if it fell within only that financial year (see subsection (2)).
+> - *Step 2* Multiply each amount calculated under step 1 by the proportion of the accounting period that falls within the financial year for which it is calculated.
+> - *Step 3* Add together each amount found under step 2.
+>
+> **357TD Tax credit: Northern Ireland supplementary deduction ignored**
+>
+> For the purpose of determining the available loss of a company under section 1217CH of CTA 2009 (video game tax credit claimable if company has surrenderable loss) for any accounting period, any Northern Ireland supplementary deduction made by the company in the period (and any Northern Ireland supplementary deduction made in any previous accounting period) is to be ignored.
+>
+> **357TE Artificially inflated claims for additional deduction**
+>
+> Section 1217CL(1)(a) and (2)(a) of CTA 2009 (artificially inflated claims for additional deduction or film tax credit) has effect as if references to an additional deduction under Chapter 3 of Part 15B of that Act included a Northern Ireland supplementary deduction under this Chapter.
+>
+> **Video game losses**
+>
+> **357TF Restriction on use of losses while video game in development**
+>
+> (1) Section 1217DA of CTA 2009 (restriction on use of losses while video game in development) has effect subject as follows.
+>
+> (2) The reference in subsection (1) of that section to a loss made in the separate video game trade in a pre-completion period is, if the company is a Northern Ireland company in that period, a reference to—
+>
+> (a) any Northern Ireland losses of the trade of the period, or
+>
+> (b) any mainstream losses of the trade of the period;
+>
+> and references to losses in subsection (2) of that section are to be read accordingly.
+>
+> (3) Subsection (4) applies if a Northern Ireland company has, in a pre-completion period—
+>
+> (a) both Northern Ireland losses of the trade and mainstream profits of the trade, or
+>
+> (b) both mainstream losses of the trade and Northern Ireland profits of the trade.
+>
+> (4) The company may make a claim under section 37 (relief for trade losses against total profits) for relief for the losses mentioned in subsection (3)(a) or (b).
+>
+> (5) But relief on such a claim is available only—
+>
+> (a) in the case of a claim for relief for Northern Ireland losses, against mainstream profits of the trade of the same period;
+>
+> (b) in the case of a claim for relief for mainstream losses, against Northern Ireland profits of the trade of the same period.
+>
+> (6) In this section “a pre-completion period” has the same meaning as in section 1217DA of CTA 2009 (see section 1217D(2) of that Act).
+>
+> **357TG Use of losses in later periods**
+>
+> (1) Section 1217DB of CTA 2009 (use of losses in later periods) has effect subject as follows.
+>
+> (2) The reference in subsection (2) of that section to a loss made in the separate video game trade is, in relation to a loss made in a period in which the company is a Northern Ireland company, a reference to—
+>
+> (a) any Northern Ireland losses of the trade of the period, or
+>
+> (b) any mainstream losses of the trade of the period;
+>
+> and references to losses in subsections (3) and (6) of that section are to be read accordingly.
+>
+> (3) The reference in subsection (4) of that section to a loss made in the separate video game trade in a relevant later period is, where the company is a Northern Ireland company in the period, a reference to—
+>
+> (a) any Northern Ireland losses of the trade of the period, or
+>
+> (b) any mainstream losses of the trade of the period;
+>
+> and references to losses in subsections (5) and (6) of that section are to be read accordingly.
+>
+> (4) Subsection (6) of that section has effect, in relation to Northern Ireland losses, as if the reference to an additional deduction under Chapter 3 of Part 15B of that Act included a reference to a Northern Ireland supplementary deduction under this Chapter.
+>
+> **357TH Terminal losses**
+>
+> (1) Section 1217DC of CTA 2009 (terminal losses) has effect subject as follows.
+>
+> (2) Where—
+>
+> (a) a company makes an election under subsection (3) of that section (election to treat terminal loss as loss brought forward of different trade) in relation to all or part of a terminal loss, and
+>
+> (b) the terminal loss is a Northern Ireland loss,
+>
+> that subsection has effect as if the reference in it to a loss brought forward were to a Northern Ireland loss brought forward.
+>
+> (3) Where—
+>
+> (a) a company makes a claim under subsection (6) of that section (claim to treat terminal loss as loss brought forward by different company) in relation to part or all of a terminal loss, and
+>
+> (b) the terminal loss is a Northern Ireland loss,
+>
+> that subsection has effect as if the reference in it to a loss brought forward were to a Northern Ireland loss brought forward.
+>
+> **CHAPTER 14 — Theatrical productions**
+>
+> **Introductory**
+>
+> **357U Introduction and interpretation**
+>
+> (1) This Chapter makes provision about the operation of Part 15C of CTA 2009 (theatrical productions) in relation to expenditure incurred by a company in an accounting period in which it is a Northern Ireland company.
+>
+> (2) In this Chapter—
+>
+> (a) “Northern Ireland expenditure” means expenditure incurred in a trade to the extent that the expenditure forms part of the Northern Ireland profits or Northern Ireland losses of the trade;
+>
+> (b) “the separate theatrical trade” has the same meaning as in Part 15C of CTA 2009 (see section 1217I of that Act);
+>
+> (c) “qualifying expenditure” has the same meaning as in that Part (see section 1217JA of that Act).
+>
+> **Tax relief for theatrical productions**
+>
+> **357UA Northern Ireland additional deduction**
+>
+> (1) In this Chapter “a Northern Ireland additional deduction” means so much of a deduction under section 1217H of CTA 2009 (claim for additional deduction) as is calculated by reference to qualifying expenditure that is Northern Ireland expenditure.
+>
+> (2) A Northern Ireland additional deduction forms part of the Northern Ireland profits or Northern Ireland losses of the separate theatrical trade.
+>
+> **357UB Northern Ireland supplementary deduction**
+>
+> (1) This section applies where—
+>
+> (a) a company is entitled under section 1217H of CTA 2009 to an additional deduction in calculating the profit or loss of the separate theatrical trade in an accounting period,
+>
+> (b) the company is a Northern Ireland company in the period,
+>
+> (c) the additional deduction is wholly or partly a Northern Ireland additional deduction, and
+>
+> (d) any of the following conditions is met—
+>
+> (i) the company does not have a surrenderable loss in the accounting period;
+>
+> (ii) the company has a surrenderable loss in the accounting period, but does not make a claim under section 1217K of CTA 2009 (theatre tax credit claimable if company has surrenderable loss) for the period;
+>
+> (iii) the company has a surrenderable loss in the accounting period and makes a claim under that section for the period, but the amount of Northern Ireland losses surrendered on the claim is less than the Northern Ireland additional deduction.
+>
+> (2) The company is entitled to make another deduction (“a Northern Ireland supplementary deduction”) in respect of qualifying expenditure.
+>
+> (3) See section 357UC for provision about the amount of the Northern Ireland supplementary deduction.
+>
+> (4) The Northern Ireland supplementary deduction—
+>
+> (a) is made in calculating the profit or loss of the separate theatrical trade, and
+>
+> (b) forms part of the Northern Ireland profits or Northern Ireland losses of the separate theatrical trade.
+>
+> (5) In this section “surrenderable loss” has the meaning given by section 1217KA of CTA 2009.
+>
+> **357UC Northern Ireland supplementary deduction: amount**
+>
+> (1) This section contains provision for the purposes of section 357UB(2) about the amount of the Northern Ireland supplementary deduction.
+>
+> (2) If the accounting period falls within only one financial year, the amount of the Northern Ireland supplementary deduction is—
+>
+> (A − B) × (MR − NIR)/(NIR) where— A is the amount of the Northern Ireland additional deduction brought into account in the accounting period; B is the amount of Northern Ireland losses surrendered in any claim under section 1217K of CTA 2009 for the accounting period; MR is the main rate for the financial year; NIR is the Northern Ireland rate for the financial year.
+>
+> (3) If the accounting period falls within more than one financial year, the amount of the Northern Ireland supplementary deduction is determined by taking the following steps.
+>
+> - *Step 1* Calculate, for each financial year, the amount that would be the Northern Ireland supplementary deduction for the accounting period if it fell within only that financial year (see subsection (2)).
+> - *Step 2* Multiply each amount calculated under step 1 by the proportion of the accounting period that falls within the financial year for which it is calculated.
+> - *Step 3* Add together each amount found under step 2.
+>
+> **357UD Tax credit: Northern Ireland supplementary deduction ignored**
+>
+> For the purpose of determining the available loss of a company under section 1217KA of CTA 2009 (amount of surrenderable loss) for any accounting period, any Northern Ireland supplementary deduction made by the company in the period (and any Northern Ireland supplementary deduction made in any previous accounting period) is to be ignored.
+>
+> **357UE Transactions not entered into for genuine commercial reasons**
+>
+> Section 1217LB of CTA 2009 (transactions not entered into for genuine commercial reasons) has effect as if the reference in subsection (2)(a) to an additional deduction under Part 15C of that Act included a reference to a Northern Ireland supplementary deduction under this Chapter.
+>
+> **Use of losses**
+>
+> **357UF Restriction on use of losses before completion period**
+>
+> (1) Section 1217MA of CTA 2009 (restriction on use of losses before completion period) has effect subject as follows.
+>
+> (2) The reference in subsection (1) of that section to a loss made in the separate theatrical trade in an accounting period preceding the completion period is, if the company is a Northern Ireland company in that period, a reference to—
+>
+> (a) any Northern Ireland losses of the trade of the period, or
+>
+> (b) any mainstream losses of the trade of the period;
+>
+> and references to losses in subsection (2) of that section are to be read accordingly.
+>
+> (3) Subsection (4) applies if a Northern Ireland company has, in an accounting period preceding the completion period—
+>
+> (a) both Northern Ireland losses of the trade and mainstream profits of the trade, or
+>
+> (b) both mainstream losses of the trade and Northern Ireland profits of the trade.
+>
+> (4) The company may make a claim under section 37 (relief for trade losses against total profits) for relief for the losses mentioned in subsection (3)(a) or (b).
+>
+> (5) But relief on such a claim is available only—
+>
+> (a) in the case of a claim for relief for Northern Ireland losses, against mainstream profits of the trade of the same period;
+>
+> (b) in the case of a claim for relief for mainstream losses, against Northern Ireland profits of the trade of the same period.
+>
+> (6) In this section “the completion period” has the same meaning as in section 1217MA of CTA 2009 (see section 1217M(2) of that Act).
+>
+> **357UG Use of losses in the completion period**
+>
+> (1) Section 1217MB of CTA 2009 (use of losses in the completion period) has effect subject as follows.
+>
+> (2) The reference in subsection (1) of that section to a loss made in the separate theatrical trade is, in relation to a loss made in a period in which the company is a Northern Ireland company, a reference to—
+>
+> (a) any Northern Ireland losses of the trade of the period, or
+>
+> (b) any mainstream losses of the trade of the period;
+>
+> and references to losses in subsections (2) and (4) of that section are to be read accordingly.
+>
+> (3) The references in subsection (3) of that section to a loss made in the separate theatrical trade in the completion period are, where the company is a Northern Ireland company in the period, references to—
+>
+> (a) any Northern Ireland losses of the trade of the period, or
+>
+> (b) any mainstream losses of the trade of the period;
+>
+> and references to losses in subsection (4) of that section are to be read accordingly.
+>
+> (4) Subsection (4) of that section has effect, in relation to Northern Ireland losses, as if the reference to an additional deduction under section 1217H of CTA 2009 included a reference to a Northern Ireland supplementary deduction under this Chapter.
+>
+> **357UH Terminal losses**
+>
+> (1) Section 1217MC of CTA 2009 (terminal losses) has effect subject as follows.
+>
+> (2) Where—
+>
+> (a) a company makes an election under subsection (2) of that section (election to treat terminal loss as loss brought forward of different trade) in relation to all or part of a terminal loss, and
+>
+> (b) the terminal loss is a Northern Ireland loss,
+>
+> subsection (3) of that section has effect as if the reference in it to a loss brought forward were to a Northern Ireland loss brought forward.
+>
+> (3) Where—
+>
+> (a) a company makes a claim under subsection (6) of that section (claim to treat terminal loss as loss brought forward by different company) in relation to part or all of a terminal loss, and
+>
+> (b) the terminal loss is a Northern Ireland loss,
+>
+> that subsection has effect as if the reference in it to a loss brought forward were to a Northern Ireland loss brought forward.
+>
+> **Provisional entitlement to relief**
+>
+> **357UI Provisional entitlement to relief**
+>
+> Section 1217N(3) of CTA 2009 (provisional entitlement to relief: definition of “the relieving provisions”) has effect as if the reference to section 1217H of CTA 2009 included section 357UB of this Act.
+>
+> **CHAPTER 15 — Profits arising from the exploitation of patents etc**
+>
+> **Introductory**
+>
+> **357V Introductory**
+>
+> (1) This Chapter makes provision about the operation of Part 8A (profits arising from the exploitation of patents etc) in relation to an accounting period in which a company is a Northern Ireland company.
+>
+> (2) If a company—
+>
+> (a) has made an election under section 357A (election for special treatment of profits from patents etc) with respect to a trade of the company in relation to an accounting period, and
+>
+> (b) is a Northern Ireland company in that period,
+>
+> Part 8A has effect subject to the provisions of this Chapter.
+>
+> (3) In this Chapter “the relevant period” means the accounting period mentioned in subsection (2).
+>
+> **Modification of deduction**
+>
+> **357VA Modification of section 357A**
+>
+> (1) Section 357A(2) has effect as if the reference to allowing a deduction to be made in calculating for corporation tax purposes the profits of the trade for the period were a reference to allowing a mainstream deduction and a Northern Ireland deduction to be made in accordance with this section.
+>
+> (2) The mainstream deduction is to be calculated in accordance with section 357A(3), but as if in the formula in that provision “RP” referred to the relevant mainstream IP profits of the trade.
+>
+> (3) The relevant mainstream IP profits of the trade are so much of the relevant IP profits of the trade of the company as are not by virtue of section 357VB or 357VC relevant Northern Ireland IP profits of the trade.
+>
+> (4) The amount of the Northern Ireland deduction is—
+>
+> RNIP × ((NIR − IPR)/(NIR)) where— RNIP is the relevant Northern Ireland IP profits of the company, as determined under section 357VB or 357VC, NIR is the Northern Ireland rate of corporation tax, and IPR is the special IP rate of corporation tax specified in section 357A(4).
+>
+> (5) The Northern Ireland deduction is allowed only if in the relevant period, or part of the relevant period, the Northern Ireland rate is higher than the special IP rate of corporation tax.
+>
+> (6) The mainstream deduction—
+>
+> (a) is made in calculating for corporation tax purposes the profits of the trade for the period, and
+>
+> (b) is treated as forming part of the mainstream profits or mainstream losses of the trade.
+>
+> (7) The Northern Ireland deduction—
+>
+> (a) is made in calculating for corporation tax purposes the profits of the trade for the period, and
+>
+> (b) is treated as forming part of the Northern Ireland profits or Northern Ireland losses of the trade.
+>
+> **“Relevant Northern Ireland IP profits”**
+>
+> **357VB Relevant Northern Ireland IP profits: SMEs**
+>
+> (1) This section applies if—
+>
+> (a) the company is a Northern Ireland company in the relevant period by virtue of the SME condition in section 357KA, and
+>
+> (b) the trade is not an excluded trade.
+>
+> (2) The company's “relevant Northern Ireland IP profits” are its relevant IP profits of the trade for the period but—
+>
+> (a) calculated without taking into account any amounts which are—
+>
+> (i) treated by section 747 of CTA 2009 as receipts or expenses of the trade for the period, but
+>
+> (ii) do not under section 357OA form part of the Northern Ireland profits or Northern Ireland losses of the trade for the period, and
+>
+> (b) excluding so much of its relevant IP profits as are attributable to a qualifying IP right or an exclusive licence in respect of a qualifying IP right which (in either case) is held by the company for the purposes of an excluded activity.
+>
+> **357VC Relevant Northern Ireland IP profits: large companies**
+>
+> (1) This section applies if—
+>
+> (a) the company is a Northern Ireland company in the relevant period by virtue of the large company condition in section 357KA, and
+>
+> (b) the trade is a qualifying trade by virtue of section 357KB(1) (trade other than excluded trade).
+>
+> (2) The company has “relevant Northern Ireland IP profits” for the period only if IP-related profits that (in accordance with Chapters 6 to 8) form part of its Northern Ireland profits or Northern Ireland losses for the period amount to Northern Ireland profits (rather than losses).
+>
+> (3) The company's “relevant Northern Ireland profits” for the period are the appropriate proportion of the relevant IP profits.
+>
+> (4) The “appropriate proportion” is—
+>
+> (NI)/(P) where— NI is so much of the IP-related profits as (in accordance with Chapters 6 to 8) forms part of its Northern Ireland profits; P is the IP-related profits.
+>
+> (5) In this section the “IP-related profits” means the profits of the company's trade for the accounting period attributable to—
+>
+> (a) qualifying IP rights held by the company, or
+>
+> (b) exclusive licences held by the company in respect of qualifying IP rights.
+>
+> **Relevant IP losses**
+>
+> **357VD Relevant IP losses**
+>
+> (1) If any of the set-off provisions prevents section 357A from applying to an amount of relevant IP profits of the trade of the company for the relevant period, sections 357VA to 357VC have effect as if references to the relevant IP profits of the trade were references to the relevant IP profits reduced by that amount.
+>
+> (2) The “set-off provisions” are—
+>
+> (a) subsection (3) of section 357EA (effect of set-off amount on company with more than one trade),
+>
+> (b) subsection (4) of section 357EB (allocation of set-off amount within a group), and
+>
+> (c) subsection (3) of section 357EC (carry-forward of set-off amount).
+>
+> **Interpretation**
+>
+> **357VE Interpretation of Chapter**
+>
+> In this Chapter—
+>
+> - “exclusive licence”, in relation to a right, has the same meaning as in Part 8A (see section 357BA);
+> - “qualifying IP right” has the same meaning as in Part 8A (see section 357B(4));
+> - “relevant IP profits”, in relation to the trade of a company, is to be read in accordance with Chapter 3 of Part 8A (but subject to section 357VD);
+> - “relevant period” has the meaning given by section 357V.
+>
+> **CHAPTER 16 — Northern Ireland profits and losses etc: partnerships**
+>
+> **357W Introductory**
+>
+> (1) This Chapter makes provision under which profits or losses of a trade carried on by a company as a partner in a Northern Ireland firm are—
+>
+> (a) Northern Ireland profits or losses of the trade,
+>
+> (b) mainstream profits or losses of the trade, or
+>
+> (c) a combination of—
+>
+> (i) profits or losses within paragraph (a), and
+>
+> (ii) profits or losses within paragraph (b).
+>
+> (2) This Chapter has effect for the purposes of this Part.
+>
+> (3) In this Chapter “firm” has the same meaning as in CTA 2009 (see section 1257(1) of that Act).
+>
+> **357WA Meaning of “Northern Ireland firm”**
+>
+> (1) A firm is a “Northern Ireland firm” in an accounting period of the firm (“the firm's accounting period”) if—
+>
+> (a) the firm carries on a qualifying partnership trade in the period, and
+>
+> (b) the SME partnership condition or the large partnership condition is met.
+>
+> (2) The “SME partnership condition” is that the firm—
+>
+> (a) is an SME in relation to the firm's accounting period, and
+>
+> (b) is a Northern Ireland employer in relation to that period.
+>
+> (3) The “large partnership condition” is that the firm—
+>
+> (a) is not an SME in relation to the firm's accounting period, and
+>
+> (b) has a NIRE in that period.
+>
+> (4) In their application to subsections (2) and (3), the provisions mentioned in subsection (5) have effect as if—
+>
+> (a) references to a company were to a firm, and
+>
+> (b) references to a director of a company were omitted.
+>
+> (5) The provisions are—
+>
+> (a) section 357KC (meaning of “SME”);
+>
+> (b) section 357KD (meaning of “Northern Ireland employer”);
+>
+> (c) section 357KE (Northern Ireland workforce conditions);
+>
+> (d) Chapter 5 (Northern Ireland regional establishments);
+>
+> (e) section 1128 of CTA 2009 (meaning of “externally provided worker”).
+>
+> (6) A reference in this Chapter, in relation to a Northern Ireland firm, to “the firm's trade” is to the trade mentioned in subsection (1).
+>
+> **357WB Meaning of “qualifying partnership trade”**
+>
+> (1) “Qualifying partnership trade” means a trade carried on by a firm where the trade is not an excluded trade.
+>
+> (2) If an election by a firm for the purposes of this subsection has effect, “qualifying partnership trade” also includes a trade carried on by the firm where—
+>
+> (a) the trade is an excluded trade within—
+>
+> (i) section 357XB (lending and investment),
+>
+> (ii) section 357XC (investment management), or
+>
+> (iii) section 357XE (re-insurance trade), and
+>
+> (b) the trade includes any back-office activities.
+>
+> (3) An election for the purposes of subsection (2)—
+>
+> (a) must be made by notice to an officer of Revenue and Customs,
+>
+> (b) must specify the first accounting period of the firm (“the specified accounting period”) in relation to which it is to have effect,
+>
+> (c) must be made before the end of the period of 12 months beginning with the end of the specified accounting period, and
+>
+> (d) if made in accordance with paragraphs (a) to (c)—
+>
+> (i) has effect in relation to the specified accounting period and subsequent accounting periods, and
+>
+> (ii) is irrevocable.
+>
+> (4) For the meaning of “excluded trade”, and for power to make provision about the meaning of “back-office activities”, see Chapter 17.
+>
+> **357WC Northern Ireland profits etc of firm determined under Chapter 6**
+>
+> (1) This section applies where conditions A and B are met.
+>
+> (2) Condition A is that a firm is a Northern Ireland firm in an accounting period (“the firm's accounting period”) by virtue of the SME partnership condition in section 357WA.
+>
+> (3) Condition B is that a partner in the firm is a company (“the corporate partner”) that is—
+>
+> (a) within the charge to corporation tax in relation to the firm's trade, and
+>
+> (b) an SME in relation to an accounting period of the corporate partner which—
+>
+> (i) is the same as the firm's accounting period, or
+>
+> (ii) overlaps (to any extent) the firm's accounting period.
+>
+> (4) Section 357MA (profits or losses of trade that are Northern Ireland profits or losses etc: SMEs)—
+>
+> (a) applies in relation to the profits or losses of the firm's trade for the firm's accounting period that are determined under section 1259(3) or (4) of CTA 2009 in relation to the corporate partner, but
+>
+> (b) so applies only for the purpose of allocating (under Part 17 of that Act) a share of those profits or losses to an accounting period within subsection (3)(b).
+>
+> (5) Further provision under which profits or losses of the firm's trade may in relation to the corporate partner be Northern Ireland profits or losses of the trade or mainstream profits or losses of the trade is contained in—
+>
+> (a) Chapters 8 and 15, and
+>
+> (b) CAA 2001 (see section 6E of that Act).
+>
+> (6) Section 357WH makes further provision about the operation of Part 17 of CTA 2009 in cases in which the profits or losses of the firm's trade determined in relation to the corporate partner are Northern Ireland profits, Northern Ireland losses, mainstream profits or mainstream losses.
+>
+> **357WD Northern Ireland profits etc of firm determined under Chapter 7**
+>
+> (1) This section applies where—
+>
+> (a) a firm is a Northern Ireland firm in an accounting period (“the firm's accounting period”),
+>
+> (b) a partner in the firm is a company (“the corporate partner”) that is within the charge to corporation tax in relation to the firm's trade, and
+>
+> (c) condition A or B is met.
+>
+> (2) Condition A is that the firm is not an SME in relation to the firm's accounting period.
+>
+> (3) Condition B is that—
+>
+> (a) the firm is an SME in relation to the firm's accounting period, and
+>
+> (b) the corporate partner is not an SME in relation to an accounting period of the corporate partner which—
+>
+> (i) is the same as the firm's accounting period, or
+>
+> (ii) overlaps (to any extent) the firm's accounting period.
+>
+> (4) Section 357NA (profits or losses of trade that are Northern Ireland profits or losses etc: large companies)—
+>
+> (a) applies in relation to the profits or losses of the firm's trade for the firm's accounting period that are determined under section 1259(3) or (4) of CTA 2009 in relation to the corporate partner, but
+>
+> (b) in a case in which condition B is met, so applies only for the purpose of allocating under Part 17 of that Act a share of those profits or losses to an accounting period within subsection (3)(b).
+>
+> (5) Further provision under which profits or losses of the firm's trade may in relation to the corporate partner be Northern Ireland profits or losses of the trade or mainstream profits or losses of the trade is contained in—
+>
+> (a) Chapters 8 and 15, and
+>
+> (b) CAA 2001 (see section 6E of that Act).
+>
+> (6) Section 357WH makes further provision about the operation of Part 17 of CTA 2009 in cases in which the profits or losses of the firm's trade determined in relation to the corporate partner are Northern Ireland profits, Northern Ireland losses, mainstream profits or mainstream losses.
+>
+> **357WE Sections 357WC and 357WD: interpretation**
+>
+> (1) Section 357MA (profits or losses of trade that are Northern Ireland profits or losses etc: SMEs) as applied by section 357WC(4), and the other provisions of Chapter 6 so far as they apply for the purposes of section 357MA as so applied, have effect as if—
+>
+> (a) references to the qualifying trade were to the firm's trade;
+>
+> (b) references to the company were to the firm;
+>
+> (c) references to the accounting period were to the firm's accounting period;
+>
+> (d) the reference in section 357MA(1) to a qualifying trade by virtue of section 357KB(1) were to a qualifying partnership trade by virtue of section 357WB(1);
+>
+> (e) the reference in section 357MA(3) to a qualifying trade by virtue of section 357KB(2) were to a qualifying partnership trade by virtue of section 357WB(2).
+>
+> (2) Section 357KC (meaning of “SME”), in its application to section 357WD(2) and (3)(a), has effect as if any reference to a company were to a firm.
+>
+> (3) Section 357NA (profits or losses of trade that are Northern Ireland profits or losses etc: large companies) as applied by section 357WD(4), and the other provisions of Chapter 7 so far as they apply for the purposes of section 357NA as so applied, have effect as if—
+>
+> (a) references to the qualifying trade were to the firm's trade;
+>
+> (b) references to the company were to the firm;
+>
+> (c) references to the accounting period were to the firm's accounting period;
+>
+> (d) in section 357NA(1) the reference to a qualifying trade by virtue of section 357KB(1) were to a qualifying partnership trade by virtue of section 357WB(1),
+>
+> (e) in section 357NA(3) the reference to a qualifying trade by virtue of section 357KB(2) were to a qualifying partnership trade by virtue of section 357WB(2);
+>
+> (f) in section 357NF(5), the reference to a UK resident company were to a UK resident firm.
+>
+> **357WF Application of section 747 of CTA 2009 to Northern Ireland firm**
+>
+> Chapter 8 (intangible fixed assets) has effect in relation to a Northern Ireland firm as if—
+>
+> (a) references to a qualifying trade were to a qualifying partnership trade;
+>
+> (b) references to a company were to a firm;
+>
+> (c) references to an accounting period of a company were to an accounting period of a firm;
+>
+> (d) references to a Northern Ireland company were to a Northern Ireland firm;
+>
+> (e) references to the SME condition in section 357KA were to the SME partnership condition in section 357WA;
+>
+> (f) references to the large company condition in section 357KA were to the large partnership condition in section 357WA;
+>
+> (g) the reference in section 357OB(1)(b) to a qualifying trade by virtue of section 357KB(1) were to a qualifying partnership trade by virtue of section 357WB(1).
+>
+> **357WG Application of Part 8A to Northern Ireland firm**
+>
+> Chapter 15 (profits arising from the exploitation of patents etc) has effect in relation to a Northern Ireland firm as if—
+>
+> (a) except in relation to the making of elections under section 357A, references to a company were to the firm,
+>
+> (b) references to a Northern Ireland company were to a Northern Ireland firm,
+>
+> (c) references to the trade were to the firm's trade,
+>
+> (d) the reference in section 357V(2) to an election made by the company were to an election made by a corporate partner as defined by section 357GB(1),
+>
+> (e) the reference in 357V(2) to Part 8A were to Part 8A so far as relating to the corporate partner which made the election,
+>
+> (f) references to an accounting period of a company were to an accounting period of the firm,
+>
+> (g) the reference in section 357VB to the SME condition in section 357KA were to the SME condition in section 357WA, and
+>
+> (h) references in section 357VC to the large company condition in section 357KA and to a qualifying trade by virtue of section 357KB(1) were to the large partnership condition in section 357WA and to a qualifying partnership trade by virtue of section 357WB(1).
+>
+> **357WH Allocation of Northern Ireland profits etc of firm to company**
+>
+> (1) This section applies where the profits or losses of a firm's trade that are determined under section 1259(3) or (4) of CTA 2009 in relation to a company (“company A”) are—
+>
+> (a) Northern Ireland profits or losses of the trade,
+>
+> (b) mainstream profits or losses of the trade, or
+>
+> (c) a combination of—
+>
+> (i) profits or losses within paragraph (a), and
+>
+> (ii) profits or losses within paragraph (b).
+>
+> (2) Section 1262(1) of CTA 2009 (allocation of firm's profits or losses between partners) applies so as to allocate to company A a share of the profits or losses mentioned in subsection (1)(a) to (c).
+>
+> For this purpose, in a case within subsection (1)(c), the firm's profit-sharing arrangements are treated as applying separately in relation to each of those profits or losses.
+>
+> (3) In section 1263 of CTA 2009 (profit-making period in which some partners have losses)—
+>
+> (a) where subsection (1) of that section applies so that company A's share of the profit of the trade is neither a profit nor a loss, that subsection applies so that company A is treated as having no Northern Ireland profit, no Northern Ireland loss, no mainstream profit and no mainstream loss;
+>
+> (b) where subsection (2) of that section applies so that company A's share of the profit of the trade is reduced, that subsection applies so that any Northern Ireland profit, Northern Ireland loss, mainstream profit or mainstream loss of company A is reduced by the same proportion.
+>
+> (4) In section 1264 of CTA 2009 (loss-making period in which some partners have profits)—
+>
+> (a) where subsection (1) of that section applies so that company A's share of the loss of the trade is neither a profit nor a loss, that subsection applies so that company A is treated as having no Northern Ireland profit, no Northern Ireland loss, no mainstream profit and no mainstream loss;
+>
+> (b) where subsection (2) of that section applies so that company A's share of the loss of the trade is reduced, that subsection applies so that any Northern Ireland profit, Northern Ireland loss, mainstream profit or mainstream loss of company A is reduced by the same proportion.
+>
+> **CHAPTER 17 — Excluded trades, excluded activities and back-office activities**
+>
+> **Introductory**
+>
+> **357X Introduction**
+>
+> (1) This Chapter makes provision—
+>
+> (a) specifying trades that are “excluded trades” for the purposes of this Part (see sections 357XA to 357XE), and
+>
+> (b) specifying activities that are “excluded activities” for the purposes of this Part (see sections 357XF and 357XG).
+>
+> (2) This Chapter also contains—
+>
+> (a) a power to alter the meaning of “excluded trade” or “excluded activity” for the purposes of this Part (see section 357XH), and
+>
+> (b) a power to make provision about the meaning of “back-office activities” for the purposes of this Part (see section 357XI).
+>
+> **Excluded trades**
+>
+> **357XA Oil activities**
+>
+> (1) A trade is an “excluded trade” if it is a ring fence trade.
+>
+> (2) In this section “ring fence trade” has the same meaning as in Part 8 (oil activities) (see section 277).
+>
+> **357XB Lending and investment**
+>
+> (1) A trade is an “excluded trade” if it consists of or includes—
+>
+> (a) a lending activity, or
+>
+> (b) a relevant regulated activity.
+>
+> (2) But a trade is not an “excluded trade” by virtue of subsection (1) where it is carried on by an insurance company (within the meaning given by section 65 of FA 2012).
+>
+> (3) In this section “lending activity” means—
+>
+> (a) lending of money, including consumer credit, mortgage credit, factoring (with or without recourse), and financing of commercial transactions (including forfeiting),
+>
+> (b) finance leasing (as lessor),
+>
+> (c) issuing and administering means of payment,
+>
+> (d) provision of guarantees or commitments to provide money,
+>
+> (e) money transmission services,
+>
+> (f) provision of alternative finance arrangements, or
+>
+> (g) other activities carried on in connection with activities falling within any of paragraphs (a) to (f).
+>
+> (4) In this section “relevant regulated activity” means an activity which is a regulated activity for the purposes of FISMA 2000 by virtue of any of the following provisions of the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001 (S.I. 2001/544)—
+>
+> (a) article 5 (accepting deposits),
+>
+> (b) article 14 (dealing in investments as principal),
+>
+> (c) article 21 (dealing in investments as agent),
+>
+> (d) article 25 (arranging deals in investments),
+>
+> (e) article 40 (safeguarding and administering investments), and
+>
+> (f) article 61 (entering into regulated mortgage contracts).
+>
+> **357XC Investment management**
+>
+> (1) A trade is an “excluded trade” if it consists of or includes portfolio management, or risk management, in relation to—
+>
+> (a) a UCITS, or
+>
+> (b) an AIF.
+>
+> (2) In subsection (1)—
+>
+> (a) “UCITS” has the meaning given in Article 1.2 of Directive 2009/65/EC of the European Parliament and of the Council;
+>
+> (b) “AIF” has the meaning given in regulation 3 of the Alternative Investment Fund Managers Regulations 2013 (S.I. 2013/1773).
+>
+> **357XD Insurance: long-term business**
+>
+> A trade is an “excluded trade” if it consists of or includes long-term business (within the meaning given by section 63(1) of FA 2012).
+>
+> **357XE Re-insurance trade**
+>
+> (1) A trade is an “excluded trade” if it consists of re-insurance.
+>
+> (2) In this Part “re-insurance” includes retrocession.
+>
+> **Excluded activities**
+>
+> **357XF Re-insurance activity**
+>
+> The activity of effecting or carrying out re-insurance contracts is an “excluded activity”.
+>
+> **357XG Exploration and exploitation of UK sector of continental shelf**
+>
+> (1) An activity is an “excluded activity” if it is—
+>
+> (a) an exploration or exploitation activity, or
+>
+> (b) an activity carried on in connection with exploration or exploitation rights.
+>
+> (2) In this section—
+>
+> - “exploration or exploitation activity” means an activity carried on in connection with the exploration or exploitation of so much of the sea-bed and subsoil and their natural resources as is situated in the UK sector of the continental shelf;
+> - “exploration or exploitation rights” means rights to assets to be produced by exploration or exploitation activities or to interests in or to the benefit of such assets;
+> - “the UK sector of the continental shelf” means the areas designated by Order in Council under section 1(7) of the Continental Shelf Act 1964.
+>
+> **Powers**
+>
+> **357XH Power to amend definition of “excluded trade” or “excluded activity”**
+>
+> (1) The Treasury may by regulations amend this Chapter so as to alter the meaning of “excluded trade” or “excluded activity” for the purposes of this Part.
+>
+> (2) Regulations under this section may only be made if a draft of the statutory instrument containing them has been laid before, and approved by a resolution of, the House of Commons.
+>
+> (3) Regulations under this section—
+>
+> (a) may make different provision for different purposes;
+>
+> (b) may make incidental, supplemental, consequential and transitional provision and savings.
+>
+> **357XI Power to make provision about meaning of “back-office activities”**
+>
+> (1) The Treasury may by regulations make provision about the meaning of “back-office activities” for the purposes of this Part.
+>
+> (2) Regulations under this section may, in particular—
+>
+> (a) specify activities that are, or are not, back-office activities, or
+>
+> (b) specify circumstances in which activities are, or are not, to be regarded as back-office activities.
+>
+> (3) Regulations under this section—
+>
+> (a) may make different provision for different purposes;
+>
+> (b) may make incidental, supplemental, consequential and transitional provision and savings.
+
+## 2 Capital allowances
+
+Schedule 1 contains amendments of CAA 2001 in connection with Part 8B of CTA 2010 (as inserted by section 1).
+
+## 3 Other amendments
+
+In Schedule 2—
+
+(a) Part 1 contains further amendments in connection with Part 8B of CTA 2010 (as inserted by section 1), and
+
+(b) Part 2 contains consequential amendments.
+
+## 4 Power to make further consequential amendments
+
+(1) The Commissioners may by regulations made by statutory instrument make further provision consequential on any provision of this Act.
+
+(2) Regulations under this section—
+
+(a) may make provision amending or modifying any provision of the Taxes Acts (including any provision inserted by this Act),
+
+(b) may make incidental, supplemental, transitional, transitory or saving provision, and
+
+(c) may make different provision for different purposes.
+
+(3) A statutory instrument containing regulations under this section is subject to annulment in pursuance of a resolution of the House of Commons.
+
+(4) In this section “the Taxes Acts” has the same meaning as in the Taxes Management Act 1970 (see section 118(1) of that Act).
+
+## 5 Commencement
+
+(1) Part 8B of CTA 2010 (as inserted by section 1) and the amendments made by Schedules 1 and 2 have effect in accordance with this section.
+
+(2) Any power of the Treasury or the Commissioners under Part 8B of CTA 2010, or under the amendments made by Schedules 1 and 2, to make regulations or an order may be exercised on or after the day on which this Act is passed.
+
+(3) The power of the Northern Ireland Assembly under section 357IA of CTA 2010 (power to set Northern Ireland rate) is exercisable in relation to—
+
+(a) such financial year as the Treasury may by regulations made by statutory instrument appoint (“the appointed financial year”), and
+
+(b) subsequent financial years.
+
+(4) The other provisions of Part 8B of CTA 2010 and the amendments made by Schedules 1 and 2 have effect in relation to accounting periods beginning on or after the first day of the appointed financial year (“the commencement day”).
+
+(5) Subsection (6) applies where a company or partnership has an accounting period beginning before the commencement day and ending on or after that day (“the straddling period”).
+
+(6) For the purposes of Part 8B of CTA 2010 and the amendments made by Schedules 1 and 2—
+
+(a) so much of the straddling period as falls before the commencement day, and so much of that period as falls on or after that day, are treated as separate accounting periods, and
+
+(b) any amounts brought into account for the purposes of calculating for corporation tax purposes the profits of any trade of the company or partnership for the straddling period are apportioned to the two separate accounting periods on such basis as is just and reasonable.
+
+(7) Section 1171 of CTA 2010 (orders and regulations) does not apply to the power of the Treasury under subsection (3)(a).
+
+## 6 Interpretation and short title
+
+(1) In this Act—
+
+- “CAA 2001” means the Capital Allowances Act 2001;
+- “CTA 2009” means the Corporation Tax Act 2009;
+- “CTA 2010” means the Corporation Tax Act 2010;
+- “TIOPA 2010” means the Taxation (International and Other Provisions) Act 2010;
+- “the Commissioners” means the Commissioners for Her Majesty's Revenue and Customs.
+
+(2) This Act may be cited as the Corporation Tax (Northern Ireland) Act 2015.
+
+## SCHEDULE 1 — Capital allowances
+
+*Section 2*
+
+### PART 1 — Introductory
+
+**1** CAA 2001 is amended as follows.
+
+### PART 2 — Amendments of Part 1 of CAA 2001
+
+**2** After section 6 insert—
+
+> **CHAPTER 1A — Trades attracting Northern Ireland rate of corporation tax**
+>
+> **“NIRE company” and “Northern Ireland SME company”**
+>
+> **6A** In this Act—
+>
+> - “NIRE company” means a company that is a Northern Ireland company for the purposes of Part 8B of CTA 2010 by virtue of the large company condition in section 357KA of that Act;
+> - “Northern Ireland SME company” means a company that is a Northern Ireland company for the purposes of Part 8B of CTA 2010 by virtue of the SME condition in section 357KA of that Act.
+>
+> **“Northern Ireland firm” etc**
+>
+> **6B** (1) This section has effect for the purposes of this Act.
+>
+> (2) “Northern Ireland firm” has the meaning given by section 357WA of CTA 2010.
+>
+> (3) If section 357WC of CTA 2010 (Northern Ireland profits etc of firm determined under Chapter 6 of Part 8B of that Act) applies to a Northern Ireland firm for a chargeable period, the partnership is a “Northern Ireland Chapter 6 firm” for any purpose for which that section applies.
+>
+> (4) If section 357WD of CTA 2010 (Northern Ireland profits etc of firm determined under Chapter 7 of Part 8B of that Act) applies to a Northern Ireland firm for a chargeable period, the partnership is a “Northern Ireland Chapter 7 firm” for any purpose for which that section applies.
+>
+> **“NI rate activity”**
+>
+> **6C** (1) In this Act “NI rate activity” means—
+>
+> (a) a qualifying trade carried on by a Northern Ireland SME company, except to the extent that it is an excluded activity,
+>
+> (b) a qualifying trade, other than an excluded financial trade, carried on by a NIRE company, to the extent that the trade—
+>
+> (i) is carried on through a Northern Ireland regional establishment of the company, and
+>
+> (ii) does not consist of an excluded activity,
+>
+> (c) the back-office activities of an excluded financial trade carried on by a Northern Ireland SME company which has made an election for the purposes of section 357KB(2) of CTA 2010,
+>
+> (d) the back-office activities of an excluded financial trade carried on by a NIRE company which has made an election for the purposes of section 357KB(2) of CTA 2010, to the extent that those activities are carried on through the Northern Ireland regional establishment of the company,
+>
+> (e) a qualifying partnership trade carried on by a Northern Ireland Chapter 6 firm, except to the extent that it is an excluded activity,
+>
+> (f) a qualifying partnership trade, other than an excluded financial trade, carried on by a Northern Ireland Chapter 7 firm, to the extent that the trade—
+>
+> (i) is carried on through a Northern Ireland regional establishment of the partnership, and
+>
+> (ii) does not consist of an excluded activity,
+>
+> (g) the back-office activities of an excluded financial trade carried on by a Northern Ireland Chapter 6 firm which has made an election for the purposes of section 357WB(2) of CTA 2010, or
+>
+> (h) the back-office activities of an excluded financial trade carried on by a Northern Ireland Chapter 7 firm which has made an election for the purposes of section 357WB(2) of CTA 2010, to the extent that those activities are carried on through the Northern Ireland regional establishment of the partnership.
+>
+> (2) In subsection (1)—
+>
+> - “back-office activities” has the same meaning as in Part 8B of CTA 2010 (see section 357XI of that Act);
+>
+> - “excluded financial trade” means a trade that is an excluded trade for the purposes of Part 8B of CTA 2010 merely because it falls within one or more of the following provisions of that Act—
+>
+>   - (a) section 357XB (lending and investment),
+>   - (b) section 357XC (investment management), or
+>   - (c) section 357XE (re-insurance trade);
+>
+> - “Northern Ireland regional establishment” has the same meaning as in Part 8B of CTA 2010 (see Chapter 5 of that Part as read, in relation to a partnership, with section 357WA(4) of that Act);
+>
+> - “qualifying partnership trade” has the same meaning as in Part 8B of CTA 2010 (see section 357WB of that Act);
+>
+> - “qualifying trade” has the same meaning as in Part 8B of CTA 2010 (see section 357KB of that Act).
+>
+> **NI rate activity treated as separate trade**
+>
+> **6D** (1) For the purposes of this Act, the NI rate activity carried on by a Northern Ireland SME company or a NIRE company is to be treated as a separate trade, distinct from any other activities carried on by the company as part of the trade.
+>
+> (2) For the purposes of the corporate partner calculation, the NI rate activity carried on by a Northern Ireland firm is to be treated as a separate trade, distinct from any other activities carried on by the firm as part of the trade.
+>
+> (3) In this Act “the corporate partner calculation”, in relation to a trade carried on by a Northern Ireland firm, means the determination of the allowances and charges to which effect is to be given under this Act in determining under subsection (3) or (4) of section 1259 of CTA 2009 (calculation of firm's profits and losses) the amount of the profits of the trade chargeable to corporation tax.
+>
+> **Giving effect to allowances and charges: NI rate activity cases**
+>
+> **6E** (1) This section applies if a Northern Ireland SME company or a NIRE company is entitled or liable to—
+>
+> (a) an allowance or charge under Part 2 (plant and machinery allowances) where the qualifying activity is a trade,
+>
+> (b) an allowance or charge under Part 3A (business premises renovation allowances),
+>
+> (c) an allowance or charge under Part 5 (mineral extraction allowances),
+>
+> (d) an allowance or charge under Part 6 (research and development), or
+>
+> (e) an allowance under Part 9 (dredging allowances).
+>
+> (2) For the purposes of the corporate partner calculation, this section also applies if a Northern Ireland firm is entitled or liable to an allowance or charge falling within any of subsection (1)(a) to (e).
+>
+> (3) The allowance or charge is to be given effect in calculating the profits of the trade, by treating—
+>
+> (a) the allowance as an expense of the trade, and
+>
+> (b) the charge as a receipt of the trade.
+>
+> (4) If the allowance or charge relates to an NI rate activity, it is treated for the purposes of Part 8B of CTA 2010 (trading profits taxable at the Northern Ireland rate) as forming part of the Northern Ireland profits or Northern Ireland losses of the trade.
+>
+> (5) If the allowance or charge relates to a main rate activity, it is treated for the purposes of Part 8B of CTA 2010 as forming part of the mainstream profits or mainstream losses of the trade.
+>
+> (6) In this section—
+>
+> (a) “the trade” means the trade carried on by the company or partnership (disregarding for this purpose section 6D), and
+>
+> (b) “main rate activity” means so much of the trade as is not an NI rate activity.
+
+### PART 3 — Amendments of Part 2 of CAA 2001: plant and machinery allowances
+
+**3** (1) Section 12 (expenditure incurred before qualifying activity carried on) is amended as follows.
+
+(2) The existing provision becomes subsection (1) of the section.
+
+(3) After that subsection insert—
+
+> (2) Subsection (3) applies if—
+>
+> (a) a company that does not have a Northern Ireland regional establishment incurs expenditure for the purposes of a trade,
+>
+> (b) the activities for the purposes of which the expenditure is incurred would, if the company were a NIRE company, be an NI rate activity treated as a separate trade, and
+>
+> (c) the company subsequently becomes a NIRE company.
+>
+> (3) The expenditure is to be treated as incurred on the first day of the first chargeable period in which the company is a NIRE company.
+>
+> (4) Subsection (5) applies if—
+>
+> (a) a partnership that does not have a Northern Ireland regional establishment incurs expenditure for the purposes of a trade,
+>
+> (b) the activities for the purposes of which the expenditure is incurred would, if the partnership were a Northern Ireland Chapter 7 firm, be an NI rate activity treated as a separate trade, and
+>
+> (c) the partnership subsequently becomes a Northern Ireland Chapter 7 firm.
+>
+> (5) The expenditure is to be treated for the purposes of this Part so far as relating to the corporate partner calculation as incurred on the first day of the first chargeable period in which the partnership is a Northern Ireland Chapter 7 firm.
+>
+> (6) In this section “Northern Ireland regional establishment” has the same meaning as in Part 8B of CTA 2010 (see Chapter 5 of that Part as read, in relation to a partnership, with section 357WA(4) of that Act).
+
+**4** In section 15 (qualifying activities), after subsection (2) insert—
+
+> (2ZA) Where an activity of a company is treated by subsection (1) of section 6D (NI rate activity treated as separate trade) as a separate trade, that activity is an activity separate from any other activity of the company.
+>
+> (2ZB) Where an activity of a Northern Ireland firm is treated by subsection (2) of section 6D as a separate trade for the purposes of the corporate partner calculation, that activity is for the purposes of this Part, so far as relating to the corporate partner calculation, an activity separate from every other activity of the Northern Ireland firm.
+
+**5** After section 51J insert—
+
+> **Sixth restriction: allocation where profits chargeable at NI rate**
+>
+> **51JA** (1) This section applies if—
+>
+> (a) section 51B, 51C, 51D or 51E applies, and
+>
+> (b) the relevant AIA qualifying expenditure for the purposes of the section in question includes expenditure incurred in a low-rate year in respect of an NI rate activity.
+>
+> (2) For the purposes of this section expenditure is “incurred in a low-rate year” if it is incurred in a financial year for which the Northern Ireland rate is lower than the main rate.
+>
+> (3) The maximum annual investment allowance that may be allocated under section 51B, 51C, 51D or 51E to AIA qualifying expenditure incurred in a low-rate year in respect of qualifying activities other than NI rate activities is determined by the formula—
+>
+> A × (T − NI)/(T) where— A is the amount of the single annual investment allowance that would otherwise be available for allocation; T is so much of the relevant AIA qualifying expenditure for the purposes of the section in question as is incurred in a low-rate year; NI is so much of the relevant AIA qualifying expenditure for the purposes of the section in question as is expenditure incurred in a low-rate year in respect of an NI rate activity.
+
+**6** (1) Section 61 (disposal events and disposal values) is amended as follows.
+
+(2) In the Table in subsection (2)—
+
+(a) in item 1, in the first column, after “item 2” insert “ or 2A ”, and
+
+(b) after item 2 insert—
+
+> |  |  |
+> |---|---|
+> | 2A. Sale of the plant or machinery where—<br>- (a) the sale is at less than market value,<br>- (b) the condition in subsection (4A) is met by the seller, and<br>- (c) the condition in subsection (4B) is met by the buyer. | The market value of the plant or machinery at the time of the sale. |
+
+(3) After subsection (4) insert—
+
+> (4A) The condition referred to in paragraph (b) of item 2A in the Table is met by the seller if—
+>
+> (a) the seller is—
+>
+> (i) a company, or
+>
+> (ii) a partnership whose partners include one or more companies, and
+>
+> (b) before the sale the plant or machinery is used wholly or partly for the purposes of a qualifying activity that is not an NI rate activity.
+>
+> (4B) The condition referred to in paragraph (c) of item 2A in the Table is met by the buyer if—
+>
+> (a) the buyer is a Northern Ireland SME company, a NIRE company or a Northern Ireland firm in the chargeable period of the buyer in which the plant or machinery is bought,
+>
+> (b) the buyer's expenditure on the acquisition of the plant or machinery is qualifying expenditure under this Part or Part 6 (research and development allowances), and
+>
+> (c) the plant or machinery is used by the buyer wholly or partly for the purposes of an NI rate activity.
+
+**7** After section 66A insert—
+
+> **Effect of changes in Northern Ireland status of SME company or SME partnership**
+>
+> **SME company entering NI corporation tax regime**
+>
+> **66B** (1) This section applies if—
+>
+> (a) in a chargeable period beginning after the commencement day (“the relevant period”) a company is a Northern Ireland SME company,
+>
+> (b) the company was neither a Northern Ireland SME company nor a NIRE company in the previous chargeable period, and
+>
+> (c) the company has not become a Northern Ireland SME company in the relevant period as a result of an election under section 357KB(2) of CTA 2010 (back-office activities of financial trades).
+>
+> (2) The fact that assets which continue to be used in the relevant period for the purposes of the trade actually carried on by the company are as a result of section 15(2ZA) treated as ceasing to be used for the purposes of a main rate activity and beginning to be used for the purposes of an NI rate activity does not give rise to a disposal event within 61(1)(e) or (f).
+>
+> (3) If during the relevant period the only qualifying activity carried on by the company is an NI rate activity, the amount of any unrelieved qualifying expenditure in any main pool or special rate pool falling to be carried forward to the relevant period is to be treated as relating to plant and machinery used for the purposes of the NI rate activity.
+>
+> (4) If during the relevant period the company carries on both an NI rate activity and a main rate activity—
+>
+> (a) the amount of any unrelieved qualifying expenditure in any main pool falling to be carried forward under section 59 to the relevant period is to be apportioned on a just and reasonable basis to become—
+>
+> (i) a main pool that is to be treated as relating to plant and machinery used for the purposes of the NI rate activity, and
+>
+> (ii) a main pool that is to be treated as relating to plant and machinery used for the purposes of the main rate activity, and
+>
+> (b) the amount of any unrelieved qualifying expenditure in any special rate pool falling to be carried forward under section 59 to the relevant period is to be apportioned on a just and reasonable basis to become—
+>
+> (i) a special rate pool that is to be treated as relating to plant and machinery used for the purposes of the NI rate activity, and
+>
+> (ii) a special rate pool that is to be treated as relating to plant and machinery used for the purposes of the main rate activity.
+>
+> (5) “Main rate activity” means the company's trade except so far as it is an NI rate activity.
+>
+> (6) “The commencement day” has the meaning given by section 5(4) of the Corporation Tax (Northern Ireland) Act 2015.
+>
+> **SME partnership entering NI corporation tax regime**
+>
+> **66C** For the purposes of the corporate partner calculation, section 66B applies in relation to a partnership as if—
+>
+> (a) references to a company were references to a partnership,
+>
+> (b) references to a Northern Ireland SME company were references to a Northern Ireland Chapter 6 firm,
+>
+> (c) the reference to a NIRE company were a reference to a Northern Ireland Chapter 7 firm,
+>
+> (d) the reference to section 357KB(2) of CTA 2010 were a reference to section 357WB(2) of that Act, and
+>
+> (e) the reference to section 15(2ZA) were a reference to section 15(2ZB).
+>
+> **SME company leaving NI corporation tax regime**
+>
+> **66D** (1) This section applies if—
+>
+> (a) in a chargeable period beginning after the commencement day (“the relevant period”) a company is neither a Northern Ireland SME company nor a NIRE company,
+>
+> (b) the company was a Northern Ireland SME company in the previous chargeable period, and
+>
+> (c) during the relevant period the company carries on a qualifying activity.
+>
+> (2) The fact that assets which continue to be used in the relevant period for the purposes of the trade actually carried on are as a result of section 15(2ZA) treated as ceasing to be used for the purposes of an NI rate activity and beginning to be used for the purposes of the qualifying activity mentioned in subsection (1)(c) does not give rise to a disposal event within 61(1)(e) or (f).
+>
+> (3) Any unrelieved qualifying expenditure which—
+>
+> (a) relates to plant or machinery used for the purposes of an NI activity, and
+>
+> (b) falls to be carried forward to the relevant period,
+>
+> is to be treated as relating to the qualifying activity that the company carries on in the relevant period.
+>
+> (4) “The commencement day” has the meaning given by section 5(4) of the Corporation Tax (Northern Ireland) Act 2015.
+>
+> **SME partnership leaving NI corporation tax regime**
+>
+> **66E** For the purposes of the corporate partner calculation, section 66D applies in relation to a partnership as if—
+>
+> (a) references to a company were references to a partnership,
+>
+> (b) references to a Northern Ireland SME company were references to a Northern Ireland Chapter 6 firm,
+>
+> (c) the reference to a NIRE company were a reference to a Northern Ireland Chapter 7 firm, and
+>
+> (d) the reference to section 15(2ZA) were a reference to section 15(2ZB).
+
+**8** After section 212 insert—
+
+> **CHAPTER 16ZA — Asset provided or used only partly for NI rate activity**
+>
+> **Apportionment of expenditure incurred partly for NI rate activity**
+>
+> **212ZA** (1) If in a chargeable period a company has incurred qualifying expenditure on the provision of plant or machinery—
+>
+> (a) partly for the purposes of an NI rate activity, and
+>
+> (b) partly for the purposes of a main rate activity,
+>
+> then for the purposes of any annual investment allowance or first year allowance to which the company is entitled the expenditure is to be apportioned between the NI rate activity and the main rate activity on a basis which is just and reasonable having regard to the relevant circumstances.
+>
+> (2) The relevant circumstances include, in particular, the extent to which it appears that the plant or machinery is likely to be used for purposes of the NI rate activity and the extent to which it appears that it is likely to be used for the main rate activity.
+>
+> (3) If the allowance falls to be reduced under section 205 or 210, it is the reduced amount that is apportioned under subsection (1).
+>
+> **Single asset pool etc**
+>
+> **212ZB** (1) Qualifying expenditure to which this subsection applies, if allocated to a pool, must be allocated to a single asset pool.
+>
+> (2) Subsection (1) applies to qualifying expenditure incurred by a company carrying on both an NI rate activity and a main rate activity where the expenditure is incurred—
+>
+> (a) partly for the purposes of the NI rate activity, and
+>
+> (b) partly for the purposes of the main rate activity.
+>
+> (3) If a company is required to bring a disposal value into account in a pool for a chargeable period because the plant or machinery begins to be used for the purposes of an NI rate activity as well as for the purposes of a main rate activity, or begins to be used for the purposes of a main rate activity as well as for the purposes of an NI rate activity, an amount equal to that disposal value is allocated (as expenditure on the plant or machinery) to a single asset pool for that chargeable period.
+>
+> (4) In the case of a single asset pool under subsection (1) or (3), there is no disposal event merely because the plant or machinery begins to be used to a greater extent for the purposes of the NI rate activity or for the purposes of the main rate activity.
+>
+> **Allowances and charges on expenditure in single asset pool**
+>
+> **212ZC** (1) This section applies if a company's expenditure is in a single asset pool under section 212ZB(1) or (3).
+>
+> (2) The amount of—
+>
+> (a) any writing-down allowance or balancing allowance to which the company is entitled, or
+>
+> (b) any balancing charge to which the company is liable,
+>
+> is to be apportioned between the NI rate activity and the main rate activity on a basis which is just and reasonable having regard to the relevant circumstances.
+>
+> (3) The relevant circumstances include, in particular, the extent to which it appears that the plant or machinery was used in the chargeable period in question for the purposes of the NI rate activity and the extent to which it was used in the chargeable period in question for the purposes of the main rate activity.
+>
+> **Effect of significant change in balance of use**
+>
+> **212ZD** (1) This section applies if—
+>
+> (a) expenditure is allocated to a single asset pool under this Chapter,
+>
+> (b) there is such a change of circumstances as would make it appropriate for any apportionment falling to be made under section 212ZC—
+>
+> (i) for the chargeable period in which the change takes place (“the relevant chargeable period”), or
+>
+> (ii) for any subsequent chargeable period,
+>
+> to be substantially different from the apportionment that would have been appropriate apart from the change,
+>
+> (c) no disposal value in respect of the plant and machinery would, apart from this section, fall to be brought into account for the relevant chargeable period, and
+>
+> (d) the market value of the plant and machinery at the end of the relevant chargeable period exceeds the available qualifying expenditure by more than £1 million.
+>
+> (2) If this section applies—
+>
+> (a) a disposal value is required to be brought into account in the single asset pool for the relevant chargeable period, and
+>
+> (b) section 212ZA applies as if, at the beginning of the following chargeable period, expenditure has been incurred on the provision of the plant or machinery of an amount equal to the disposal value brought into account as a result of paragraph (a).
+>
+> **Application of Chapter to partnerships**
+>
+> **212ZE** For the purposes of the corporate partner calculation, this Chapter applies in relation to partnerships as if—
+>
+> (a) references to a company were references to a partnership,
+>
+> (b) references to a Northern Ireland SME company were references to a Northern Ireland Chapter 6 firm,
+>
+> (c) references to a NIRE company were references to a Northern Ireland Chapter 7 firm, and
+>
+> (d) the reference in section 212ZA(1) to an annual investment allowance were omitted.
+>
+> **“Main rate activity”**
+>
+> **212ZF** In this Chapter “main rate activity” means an activity other than an an NI rate activity.
+
+**9** In section 247 (giving effect to allowances and charges: trades), after subsection (1) insert—
+
+> (1A) Subsection (1) is subject to section 6E (giving effect to allowances and charges: NI rate activity cases).
+
+**[^F1]10** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### PART 4 — Amendments of CAA 2001 relating to other allowances
+
+#### Business premises renovation allowances
+
+**11** (1) Section 360Z (giving effect to allowances and charges: trades) is amended as follows.
+
+(2) In subsection (3), for the words from “subject to” onwards substitute
+
+> subject to—
+>
+> (a) section 6E (giving effect to allowances and charges: NI rate activity cases), and
+>
+> (b) the following provisions of this Chapter.
+
+(3) After that subsection insert—
+
+> (4) If a company or partnership is as a result of section 6D (NI rate activity treated as separate trade) treated for the purposes of this Act as carrying on two separate trades, the question of whether an allowance or charge relates to the NI rate activity or the main rate activity is to be determined by reference to the purposes for which the qualifying building is used.
+>
+> (5) If the qualifying building is used both for the purposes of the NI rate activity and for the purposes of the main rate activity, allowances and charges are to be apportioned on a just and reasonable basis between the trade consisting of the NI rate activity and the trade consisting of the main rate activity, according to the proportion of use for the purposes of the NI rate activity.
+>
+> (6) In this section “main rate activity” means an activity other than an NI rate activity.
+
+#### Mineral extraction allowances
+
+**12** In section 394 (mineral extraction allowances), after subsection (2) insert—
+
+> (2A) If a company or partnership is as a result of section 6D (NI rate activity treated as separate trade) treated for the purposes of this Act as carrying on two separate trades, each of them is for the purposes of this Part to be treated as a mineral extraction trade if the separate trades would together be so treated.
+
+**13** (1) Section 432 (giving effect to allowances and charges) is amended as follows.
+
+(2) The existing provision becomes subsection (1) of the section.
+
+(3) After that subsection insert—
+
+> (2) This section is subject to section 6E (giving effect to allowances and charges: NI rate activity cases).
+
+#### Research and development
+
+**14** After section 439 insert—
+
+> **Qualifying expenditure incurred for purposes of NI rate activity**
+>
+> **439A** (1) Subsection (2) applies if—
+>
+> (a) a company that does not have a Northern Ireland regional establishment incurs expenditure for the purposes of a trade,
+>
+> (b) the activities for the purposes of which the expenditure is incurred would, if the company were a NIRE company, be an NI rate activity treated as a separate trade, and
+>
+> (c) the company subsequently becomes a NIRE company.
+>
+> (2) The expenditure is to be treated as incurred on the first day of the first chargeable period in which the company is a NIRE company.
+>
+> (3) Subsection (4) applies if—
+>
+> (a) a partnership that does not have a Northern Ireland regional establishment incurs expenditure for the purposes of a trade,
+>
+> (b) the activities for the purposes of which the expenditure is incurred would, if the partnership were a Northern Ireland Chapter 7 firm, be an NI rate activity treated as a separate trade, and
+>
+> (c) the partnership subsequently becomes a Northern Ireland Chapter 7 firm.
+>
+> (4) The expenditure is to be treated as incurred on the first day of the first chargeable period in which the partnership is a Northern Ireland Chapter 7 firm.
+>
+> (5) In this section “Northern Ireland regional establishment” has the same meaning as in Part 8B of CTA 2010 (see Chapter 5 of that Part as read, in relation to a partnership, with section 357WA(4) of that Act).
+
+**15** (1) Section 450 (giving effect to allowances and charges) is amended as follows.
+
+(2) The existing provision becomes subsection (1) of the section.
+
+(3) After that subsection insert—
+
+> (2) This section is subject to section 6E (giving effect to allowances and charges: NI rate activity cases).
+
+#### Dredging allowances
+
+**16** In section 484 (dredging allowances), after subsection (2) insert—
+
+> (2A) If a company or partnership is as a result of section 6D (NI rate activity treated as separate trade) treated for the purpose of this Act as carrying on two separate trades, each of them is for the purposes of this Part to be treated as a qualifying trade if the separate trades would together be so treated.
+
+**17** (1) Section 489 (giving effect to allowances) is amended as follows.
+
+(2) The existing provision becomes subsection (1) of the section.
+
+(3) After that subsection insert—
+
+> (2) This section is subject to section 6E (giving effect to allowances and charges: NI rate activity cases).
+
+### PART 5 — Consequential amendments
+
+**18** In Schedule 1 (index of defined expressions) insert at the appropriate places—
+
+> |  |  |
+> |---|---|
+> | the corporate partner calculation (in relation to a trade carried on by a Northern Ireland firm) | section 6D(3) |
+
+> |  |  |
+> |---|---|
+> | NI rate activity | section 6C |
+
+> |  |  |
+> |---|---|
+> | NIRE company | section 6A |
+
+> |  |  |
+> |---|---|
+> | Northern Ireland Chapter 6 firm | section 6B(3) |
+
+> |  |  |
+> |---|---|
+> | Northern Ireland Chapter 7 firm | section 6B(4) |
+
+> |  |  |
+> |---|---|
+> | Northern Ireland firm | section 6B(2) |
+
+> |  |  |
+> |---|---|
+> | Northern Ireland SME company | section 6A |
+
+.
+
+### PART 6 — Transitional provisions
+
+#### Interpretation
+
+**19** (1) In this Part of this Schedule “the transition period”, in relation to a company or partnership, means the accounting period of the company or partnership that begins, or is treated by section 5(6) as beginning, on the commencement day.
+
+(2) In sub-paragraph (1) “the commencement day” has the meaning given by section 5(4).
+
+#### Plant and machinery allowances: allocation of unrelieved expenditure to pools
+
+**20** (1) This paragraph applies to a company or partnership if—
+
+(a) in the case of a company, the company is a NIRE company or [[^F2]an SME (Northern Ireland employer) company] in the transition period, or
+
+(b) in the case of a partnership, the partnership is a Northern Ireland Chapter 6 firm or a Northern Ireland Chapter 7 firm in the transition period.
+
+(2) If at the beginning of the transition period—
+
+(a) an NI rate activity carried on by the company begins to be treated by section 15(2ZA) of CAA 2001 as a separate qualifying activity for the purposes of Part 2 of that Act (plant and machinery allowances), or
+
+(b) an NI rate activity carried on by the partnership begins to be treated by section 15(2ZB) of CAA 2001 as a separate qualifying activity for the purposes of Part 2 of that Act so far as relating to the corporate partner calculation,
+
+the fact that the NI rate activity begins to be so treated does not give rise to a disposal event within section 61(1)(e) or (f) of that Act.
+
+(3) The amount of any unrelieved qualifying expenditure in any main pool falling to be carried forward under section 59 of CAA 2001 to the transition period is to be apportioned on a just and reasonable basis to become—
+
+(a) a main pool that is to be treated as relating to plant and machinery used for the purposes of the NI rate activity, and
+
+(b) a main pool that is to be treated as relating to plant and machinery used for the purposes of the main rate activity.
+
+(4) The amount of any unrelieved qualifying expenditure in any special rate pool falling to be carried forward under section 59 of CAA 2001 to the transition period is to be apportioned on a just and reasonable basis to become—
+
+(a) a special rate pool that is to be treated as relating to plant and machinery used for the purposes of the NI rate activity, and
+
+(b) a special rate pool that is to be treated as relating to plant and machinery used for the purposes of the main rate activity.
+
+(5) Sub-paragraph (6) applies where—
+
+(a) unrelieved qualifying expenditure in a single asset pool falls to be carried forward under section 59 of CAA 2001 to the transition period, and
+
+(b) immediately before the transition period the plant or machinery is used—
+
+(i) partly for the purposes of activities that become the NI rate activity, and
+
+(ii) partly for the purposes of activities that become the main rate activity.
+
+(6) The unrelieved qualifying expenditure is to be treated for the purposes of Chapter 16ZA of Part 2 of CAA 2001 as if the allocation to the single asset pool were under section 212ZB of that Act.
+
+(7) “Main rate activity” means the qualifying activity to which the qualifying expenditure relates, except so far as it is an NI rate activity.
+
+(8) Other expressions used in this paragraph and in Part 2 of CAA 2001 as amended by this Schedule have the same meaning as in that Part.
+
+#### Know-how allowances: allocation of unrelieved expenditure to pools
+
+**21** (1) This paragraph applies if—
+
+(a) in the case of a company, the company is a NIRE company or [[^F3]an SME (Northern Ireland employer) company] in the transition period, or
+
+(b) in the case of a partnership, the company is a Northern Ireland firm in the transition period.
+
+(2) Subsection (3) applies if at the beginning of the transition period—
+
+(a) an NI rate activity carried on by the company begins to be treated by section 6D of CAA 2001 as a separate qualifying trade for the purposes of Part 7 of that Act (know-how allowances), or
+
+(b) an NI rate activity carried on by the partnership begins to be treated by section 6D of CAA 2001 as a separate qualifying trade for the purposes of Part 7 of that Act so far as relating to the corporate partner calculation.
+
+(3) The amount of any unrelieved qualifying expenditure in any pool falling to be carried forward under section 461 of CAA 2001 from the previous chargeable period is to be apportioned on a just and reasonable basis to become—
+
+(a) a pool that is to be treated as relating to the NI rate activity, and
+
+(b) a pool that is to be treated as relating to the main rate activity.
+
+(4) “Main rate activity” means the trade to which the qualifying expenditure relates, except so far as it is an NI rate activity.
+
+(5) Other expressions used in this paragraph and in Part 7 of CAA 2001 as amended by this Schedule have the same meaning as in that Part.
+
+## SCHEDULE 2 — Other amendments
+
+*Section 3*
+
+### PART 1 — Further amendments connected with Northern Ireland rate
+
+#### Realisation of intangible fixed assets
+
+**1** After section 738 of CTA 2009 insert—
+
+> **Realisation of assets previously subject to Northern Ireland rate**
+>
+> **738A** (1) This section applies if—
+>
+> (a) a company is required by section 735, 736 or 738 to bring into account for tax purposes a credit or debit on the realisation of an intangible fixed asset in an accounting period (“the relevant period”),
+>
+> (b) the company is not a Northern Ireland company as defined by section 357KA of CTA 2010 in the relevant period,
+>
+> (c) the asset is not a pre-commencement asset for the purposes of Chapter 8 of Part 8B of CTA 2010 (trading profits taxable at the Northern Ireland rate: intangible fixed assets),
+>
+> (d) the credit or debit is treated for the purposes of that Chapter as including a Northern Ireland element, and
+>
+> (e) at any time during the relevant period, the Northern Ireland rate is lower than the main rate.
+>
+> (2) The amount of the credit or debit to be brought into account for tax purposes under section 735, 736 or 738 is reduced by an amount determined under this section (“the appropriate reduction”).
+>
+> (3) If the relevant period falls within only one financial year, the appropriate reduction is—
+>
+> E × (MR − NIR)/(MR) where— E is the Northern Ireland element of the credit or debit (see subsection (5)); MR is the main rate for the financial year; NIR is the Northern Ireland rate for the financial year.
+>
+> (4) If the relevant period falls within more than one financial year, take the following steps to find the appropriate reduction—
+>
+> - *Step 1* Apportion the Northern Ireland element of the credit or debit (see subsection (5)) between the financial years on a time basis according to the respective lengths of the parts of the relevant period falling within those years.
+>
+> - *Step 2* Where an amount is apportioned under step 1 to a financial year in which the Northern Ireland rate is lower than the main rate, multiply that amount by the following fraction—
+>
+>   (MR − NIR)/(MR) where— MR is the main rate for the financial year; NIR is the Northern Ireland rate for the financial year.
+>
+> - *Step 3* To find the appropriate reduction, add together each amount determined under step 2.
+>
+> (5) In subsections (3) and (4), the “Northern Ireland element” of the credit or debit is an amount determined in accordance with sections 357OE to 357OG of CTA 2010.
+
+#### Controlled foreign companies
+
+**2** (1) Section 371BC of TIOPA 2010 (charging the CFC charge) is amended as follows.
+
+(2) In subsection (3), in the definition of “the appropriate rate”, after “subject to” insert “ subsection (4) and ”.
+
+(3) After subsection (3) insert—
+
+> (4) In determining “the appropriate rate”, it must be assumed that all of CC's profits of the relevant corporation tax accounting period on which corporation tax is chargeable are chargeable at the main rate rather than the Northern Ireland rate.
+
+**[^F4]3** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### PART 2 — Consequential amendments
+
+**4** CTA 2010 is amended as follows.
+
+**5** In section 1(3) (overview), before paragraph (b) insert—
+
+> (ac) trading profits taxable at Northern Ireland rate (see Part 8B),
+
+.
+
+**6** In Schedule 4 (index of defined expressions), insert at the appropriate places—
+
+> |  |  |
+> |---|---|
+> | the accounting period (in Chapter 6 of Part 8B) | section 357M(2) |
+
+> |  |  |
+> |---|---|
+> | the accounting period (in Chapter 7 of Part 8B) | section 357N(2) |
+
+> |  |  |
+> |---|---|
+> | back-office activities (in Part 8B) | section 357XI |
+
+> |  |  |
+> |---|---|
+> | the commencement day (in Chapter 8 of Part 8B) | section 357OP |
+
+> |  |  |
+> |---|---|
+> | the company (in Chapter 6 of Part 8B) | section 357M(2) |
+
+> |  |  |
+> |---|---|
+> | the company (in Chapter 7 of Part 8B) | section 357N(2) |
+
+> |  |  |
+> |---|---|
+> | excluded activity (in Part 8B) | Chapter 17 of Part 8B |
+
+> |  |  |
+> |---|---|
+> | excluded trade (in Part 8B) | Chapter 17 of Part 8B |
+
+> |  |  |
+> |---|---|
+> | exclusive licence (in Chapter 15 of Part 8B) | section 357VE |
+
+> |  |  |
+> |---|---|
+> | firm (in Chapter 16 of Part 8B) | section 357W(3) |
+
+> |  |  |
+> |---|---|
+> | intangible fixed asset (in Chapter 8 of Part 8B) | section 357O(2) |
+
+> |  |  |
+> |---|---|
+> | investment manager (in Chapter 5 of Part 8B) | section 1150(1) (applied by section 357LH) |
+
+> |  |  |
+> |---|---|
+> | investment transaction (in Chapter 5 of Part 8B) | section 1150(1) (applied by section 357LH) |
+
+> |  |  |
+> |---|---|
+> | large company condition (in Part 8B) | section 357KA |
+
+> |  |  |
+> |---|---|
+> | mainstream losses (in Part 8B) | sections 357MA and 357NA |
+
+> |  |  |
+> |---|---|
+> | mainstream profits (in Part 8B) | sections 357MA and 357NA |
+
+> |  |  |
+> |---|---|
+> | mainstream qualifying land remediation loss (in Chapter 10 of Part 8B) | section 357QB(3) |
+
+> |  |  |
+> |---|---|
+> | NIRE (in Part 8B) | Chapter 5 of Part 8B |
+
+> |  |  |
+> |---|---|
+> | Northern Ireland company (in Part 8B) | section 357KA |
+
+> |  |  |
+> |---|---|
+> | Northern Ireland element (in Chapter 8 of Part 8B) | section 357OP |
+
+> |  |  |
+> |---|---|
+> | Northern Ireland employer (in Part 8B) | section 357KD |
+
+> |  |  |
+> |---|---|
+> | Northern Ireland expenditure (in Chapters 9 to 14 of Part 8B) | sections 357P(2), 357Q(2), 357R(2), 357S(2), 357T(2) and 357U(2) |
+
+> |  |  |
+> |---|---|
+> | Northern Ireland firm (in Part 8B) | section 357WA |
+
+> |  |  |
+> |---|---|
+> | Northern Ireland intangibles credits (in Chapter 8 of Part 8B) | section 357OP |
+
+> |  |  |
+> |---|---|
+> | Northern Ireland intangibles debits (in Chapter 8 of Part 8B) | section 357OP |
+
+> |  |  |
+> |---|---|
+> | Northern Ireland losses (in Part 8B) | sections 357MA and 357NA |
+
+> |  |  |
+> |---|---|
+> | Northern Ireland profits (in Part 8B) | sections 357MA and 357NA |
+
+> |  |  |
+> |---|---|
+> | Northern Ireland qualifying Chapter 2 expenditure (in Chapter 9 of Part 8B) | section 357P(2) |
+
+> |  |  |
+> |---|---|
+> | Northern Ireland qualifying Chapter 7 expenditure (in Chapter 9 of Part 8B) | section 357P(2) |
+
+> |  |  |
+> |---|---|
+> | Northern Ireland qualifying land remediation expenditure (in Chapter 10 of Part 8B) | section 357Q(2) |
+
+> |  |  |
+> |---|---|
+> | Northern Ireland qualifying land remediation loss (in Chapter 10 of Part 8B) | section 357QB(3) |
+
+> |  |  |
+> |---|---|
+> | Northern Ireland rate | section 357I |
+
+> |  |  |
+> |---|---|
+> | pre-commencement asset (in Chapter 8 of Part 8B) | section 357OP |
+
+> |  |  |
+> |---|---|
+> | qualifying Chapter 2 expenditure (in Chapter 9 of Part 8B) | section 357P(2) |
+
+> |  |  |
+> |---|---|
+> | qualifying Chapter 7 expenditure (in Chapter 9 of Part 8B) | section 357P(2) |
+
+> |  |  |
+> |---|---|
+> | qualifying expenditure (in Chapter 11 of Part 8B) | section 357R(2) |
+
+> |  |  |
+> |---|---|
+> | qualifying expenditure (in Chapter 12 of Part 8B) | section 357S(2) |
+
+> |  |  |
+> |---|---|
+> | qualifying expenditure (in Chapter 13 of Part 8B) | section 357T(2) |
+
+> |  |  |
+> |---|---|
+> | qualifying expenditure (in Chapter 14 of Part 8B) | section 357U(2) |
+
+> |  |  |
+> |---|---|
+> | qualifying IP right (in Chapter 15 of Part 8B) | section 357VE |
+
+> |  |  |
+> |---|---|
+> | qualifying land remediation expenditure (in Chapter 10 of Part 8B) | section 357Q(2) |
+
+> |  |  |
+> |---|---|
+> | qualifying partnership trade (in Part 8B) | section 357WB |
+
+> |  |  |
+> |---|---|
+> | qualifying trade (in Part 8B) | section 357KB |
+
+> |  |  |
+> |---|---|
+> | realisation credit (in Chapter 8 of Part 8B) | section 357OP |
+
+> |  |  |
+> |---|---|
+> | realisation debit (in Chapter 8 of Part 8B) | section 357OP |
+
+> |  |  |
+> |---|---|
+> | relevant IP profits (in Chapter 15 of Part 8B) | section 357VE |
+
+> |  |  |
+> |---|---|
+> | relevant period (in Chapter 15 of Part 8B) | section 357VE |
+
+> |  |  |
+> |---|---|
+> | roll-over relief (in Chapter 8 of Part 8B) | section 357OP |
+
+> |  |  |
+> |---|---|
+> | the separate film trade (in Chapter 11 of Part 8B) | section 357R(2) |
+
+> |  |  |
+> |---|---|
+> | the separate programme trade (in Chapter 12 of Part 8B) | section 357S(2) |
+
+> |  |  |
+> |---|---|
+> | the separate theatrical trade (in Chapter 14 of Part 8B) | section 357U(2) |
+
+> |  |  |
+> |---|---|
+> | the separate video game trade (in Chapter 13 of Part 8B) | section 357T(2) |
+
+> |  |  |
+> |---|---|
+> | SME (in Part 8B) | section 357KC |
+
+> |  |  |
+> |---|---|
+> | SME condition (in Part 8B) | section 357KA |
+
+> |  |  |
+> |---|---|
+> | trade (in Part 8B) | section 357NK |
+
+> |  |  |
+> |---|---|
+> | the trade (in Chapter 6 of Part 8B) | section 357M(2) |
+
+> |  |  |
+> |---|---|
+> | the trade (in Chapter 7 of Part 8B) | section 357N(2) |
+
+---
+
+[^F1]: Sch. 1 para. 10 omitted (16.11.2017) by virtue of Finance (No. 2) Act 2017 (c. 32), Sch. 7 para. 29
+[^F2]: Words in Sch. 1 para. 20(1)(a) substituted (16.11.2017) by Finance (No. 2) Act 2017 (c. 32), Sch. 7 para. 25
+[^F3]: Words in Sch. 1 para. 21(1)(a) substituted (16.11.2017) by Finance (No. 2) Act 2017 (c. 32), Sch. 7 para. 25
+[^F4]: Sch. 2 para. 3 omitted (with effect in accordance with s. 36(3)-(5) of the amending Act) by virtue of Finance (No. 2) Act 2015 (c. 33), s. 36(2)(d)

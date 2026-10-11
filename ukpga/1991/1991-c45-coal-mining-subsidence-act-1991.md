@@ -1,0 +1,2110 @@
+---
+title: "Coal Mining Subsidence Act 1991"
+identifier: "ukpga/1991/45"
+citation: "1991 c. 45"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S"
+date: 1991-07-25
+last_amended: 2024-11-04
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/1991/45"
+source_modified: 2024-12-19
+retrieved: 2026-10-11
+---
+
+# Coal Mining Subsidence Act 1991
+
+**1991 c. 45**
+
+An Act to repeal and re-enact with amendments the Coal-Mining (Subsidence) Act 1957 and, in the Coal Industry Act 1975, section 2(4) and paragraphs 1 to 4 of Schedule 1; to make provision for imposing further obligations on the British Coal Corporation, including obligations corresponding to those voluntarily accepted by them under their code of practice concerning compensation for subsidence damage; and for connected purposes.
+
+[25th July 1991]
+
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## Part I — Preliminary
+
+### 1 Subsidence damage to which Act applies.
+
+(1) In this Act “subsidence damage” means any damage—
+
+(a) to land; or
+
+(b) to any buildings, structures or works on, in or over land,
+
+caused by the withdrawal of support from land in connection with lawful coal-mining operations.
+
+(2) An alteration of the level or gradient of any land not otherwise damaged which does not affect its fitness for use for the purposes for which, immediately before the alteration occurred, it was used, or might reasonably have been expected to be used, shall not be regarded as damage for the purposes of subsection (1) above.
+
+[[^F1](3) In subsection (1) above “lawful coal-mining operations” means any coal-mining operations to which section 25 of the Coal Industry Act 1994 applies (including operations carried on in contravention of subsection (1) of that section and those that are actionable apart from this Act) which—
+
+(a) are carried on by a person who is for the time being a licensed operator within the meaning of that Act; or
+
+(b) are carried on by a person who has been such a licensed operator and in continuation of operations begun by that person before he ceased to be such an operator;
+
+but for the purposes of this subsection any operations carried on or begun by any person as a person who is for the time being authorised to carry on coal-mining operations on behalf of a person who is or has been a licensed operator shall be treated as carried on or begun by the latter person, whether or not the authorisation extends to the operations in question.]
+
+(4) References in this Act to subsidence damage shall not apply—
+
+(a) to damage caused in connection with the working and getting of coal and other minerals—
+
+(i) where the working and getting of the coal was ancillary to the working of the other minerals; or
+
+(ii) where the coal was worked or gotten by virtue of the grant of a gale in the Forest of Dean or any other part of the Hundred of St. Briavels in the county of Gloucester; or
+
+(b) to damage occurring underground in a mine of coal (being a mine within the meaning of the [^M1]Mines and Quarries Act 1954).
+
+## Part II — Remedial Action
+
+### General
+
+#### 2 Duty to take remedial action.
+
+(1) Subject to and in accordance with the provisions of this Part, it shall be the duty of the British Coal Corporation (“the Corporation”) to take in respect of subsidence damage to any property remedi al action of one or more of the kinds mentioned in subsection (2) below.
+
+(2) The kinds of remedial action referred to in subsection (1) above are—
+
+(a) the execution of remedial works in accordance with section 7 below;
+
+(b) the making of payments in accordance with section 8 or 9 below in respect of the cost of remedial works executed by some other person; and
+
+(c) the making of a payment in accordance with section 10 or 11 below in respect of the depreciation in the value of the damaged property.
+
+(3) References in this Act, in relation to any subsidence damage, to the Corporation’s remedial obligation are references to their obligation under subsection (1) above.
+
+(4) Where emergency works are executed by any other person, the Corporation shall also be under a duty, subject to the provisions of this Part, to make a payment in accordance with section 12 below in respect of the cost of the works.
+
+(5) In this Act—
+
+(a) references to payments in lieu are references to payments in accordance with section 8 or 9 below; and
+
+(b) references to depreciation payments are references to payments in accordance with section 10 or 11 below.
+
+#### 3 Notice of subsidence damage.
+
+(1) The Corporation shall not be required under section 2(1) or (4) above to take any remedial action or make any payment in respect of the cost of emergency works, unless the owner of the property or some other person who is liable to make good the damage in whole or in part—
+
+(a) has given to the Corporation the required notice with respect to the damage within the period allowed by this section; and
+
+(b) has afforded the Corporation reasonable facilities to inspect the property, so far as he was in a position to do so.
+
+(2) The required notice with respect to any subsidence damage is a notice stating that the damage has occurred and containing such particulars as may be prescribed; and references in this Act, in relation to any subsidence damage, to a damage notice are references to such a notice with respect to the damage given within the period allowed by this section.
+
+(3) The period allowed by this section for giving a damage notice with respect to any subsidence damage is the period of six years beginning with the first date on which any person entitled to give the notice had the knowledge required for founding a claim in respect of the damage.
+
+(4) For the purposes of subsection (3) above, the knowledge required for founding a claim in respect of any subsidence damage is knowledge—
+
+(a) that the damage has occurred; and
+
+(b) that the nature of the damage and the circumstances are such as to indicate that the damage may be subsidence damage;
+
+and a person’s knowledge includes knowledge which he might reasonably have been expected to acquire from the facts mentioned in subsection (5) below.
+
+(5) Those facts are—
+
+(a) any facts which were observable or ascertainable by him; and
+
+(b) any facts which would have been ascertainable by him with the help of any expert advice which it was reasonable for him to seek.
+
+(6) In this Act—
+
+- “the claimant”, in relation to any subsidence damage, means the person who gave or, as the case may be, was the first person to give a damage notice to the Corporation in respect of the damage, and includes any successor in title of his;
+- “any other person interested”, in relation to any such damage and any time, means any person other than the claimant who, not less than 7 days before that time, gave such a notice to the Corporation in respect of the damage, and includes any successor in title of any such person.
+
+#### 4 Initial response to damage notice.
+
+(1) As soon as reasonably practicable—
+
+(a) after receiving a damage notice; or
+
+(b) where they receive two or more such notices in respect of the same damage, after receiving the first of them,
+
+the Corporation shall give to the claimant, and to any other person interested, a notice indicating whether or not they agree that they have a remedial obligation in respect of the whole or any part of the damage specified in the damage notice.
+
+(2) Where the Corporation give a notice under subsection (1) above indicating their agreement that they have such an obligation, they shall also give to the claimant, and to any other person interested, a notice—
+
+(a) stating the kind or kinds of remedial action available for meeting that obligation and, if more than one, which of them the Corporation propose to take; and
+
+(b) in the case of a notice stating that the Corporation propose to execute remedial works with respect to any damage, informing the claimant or that person that, if he makes such a request as is mentioned in section 8(3) below, the Corporation may elect to make a payment in lieu instead of executing the works.
+
+(3) Where the Corporation accede to any such request, they shall give to the claimant and any other person interested a revised notice under subsection (2) above stating that they propose to elect to make a payment in lieu instead of executing the works.
+
+(4) In this Act references, in relation to any damage, to a notice of proposed remedial action are references to a notice under subsection (2) above (whether as originally given or as revised under subsection (3) above).
+
+#### 5 Determination of appropriate remedial action.
+
+(1) Subject to sections 9 and 11 below (obligatory payments in lieu and obligatory depreciation payments), where the Corporation have given a notice of proposed remedial action with respect to any damage, they shall meet their remedial obligation in respect of that damage by taking the appropriate remedial action (and not in any other way).
+
+(2) Subject to subsections (4) and (6) below, the appropriate remedial action in relation to any damage is that stated in the notice of proposed remedial action with respect to that damage.
+
+(3) Where—
+
+(a) the Corporation have power under section 8 or 10 below to elect to make a payment in accordance with that section in respect of any damage; and
+
+(b) they have not exercised that power by stating in the notice of proposed remedial action with respect to that damage that they propose to make such a payment,
+
+the Corporation may exercise that power at any time subsequent to the date of that notice, but only with the agreement of the claimant and any other person interested.
+
+(4) Where after the date of that notice the Corporation elect under either of those sections to take in respect of any damage any remedial action other than that stated in the notice (“the substituted action”), so long as the election is effective the appropriate remedial action in relation to that damage is the substituted action.
+
+(5) An election by the Corporation under either of those sections may at any time be revoked by the Corporation, but only with the agreement of the claimant and any other person interested.
+
+(6) Where the Corporation revoke such an election made in respect of any damage by a notice of proposed remedial action, this section shall apply as if the execution of remedial works had been specified in that notice as the Corporation’s proposed remedial action with respect to that damage.
+
+#### 6 Schedule of remedial works.
+
+(1) At the same time as the Corporation give a notice of proposed remedial action with respect to any damage, other than a notice stating that the only kind of action available for meeting their remedial obligation is the making of a payment under section 9 or 11 below, they shall send to the claimant and any other person interested (“the other parties”) a schedule of remedial works which meets the requirements of this section.
+
+(2) A schedule of remedial works shall specify—
+
+(a) the works which the Corporation consider to be remedial works in relation to the damage, that is to say, such works (including works of redecoration) as are necessary in order to make good the damage, so far as it is reasonably practicable to do so, to the reasonable satisfaction of the claimant and any other person interested; and
+
+(b) in the case of each item of those works, the amount of the cost which the Corporation consider it would be reasonable for any person to incur in order to secure that the work is executed.
+
+(3) The Corporation shall send with a schedule of remedial works a notice stating that, if any other party does not agree that the remedial action to be taken by the Corporation in respect of any damage should be determined by reference (where relevant) to the works and costs specified in the schedule, he should notify the Corporation within the period of 28 days beginning with the date of his receipt of the schedule.
+
+(4) If any other party gives such a notification within that period and he and the Corporation do not agree the schedule, with or without modifications, before the end of the next succeeding period of 28 days, the matter may be referred to the [[^F2]appropriate tribunal], which may determine the works and costs to be specified in the schedule.
+
+(5) A schedule of remedial works relating to any damage—
+
+(a) comes into effect—
+
+(i) if no other party gives such a notification to the Corporation within the period mentioned in subsection (3) above, at the end of that period; and
+
+(ii) in any other case, on the date on which the schedule is agreed or determined under subsection (4) above; and
+
+(b) may at any time be varied by agreement between the parties or in any manner determined under subsection (6) below.
+
+(6) Where—
+
+(a) any party by a notice given to the other party or parties requests a variation of a schedule of remedial works; and
+
+(b) the variation requested is not agreed between both or all parties, with or without modifications, before the end of the period of 28 days beginning with the date of the notice,
+
+the matter may be referred to the [[^F3]appropriate tribunal], which may determine whether the schedule shall have effect subject to the variation.
+
+(7) On and after the date on which a schedule of remedial works relating to any damage first comes into effect the works specified in the schedule (and only those works) shall be regarded as remedial works in relation to the damage.
+
+(8) References in this Act, in relation to any subsidence damage, to the schedule of remedial works are references to the schedule of remedial works under this section relating to the damage, as that schedule has effect for the time being.
+
+### The kinds of remedial action available
+
+#### 7 Execution of remedial works.
+
+(1) This section applies where the Corporation are under an obligation to execute remedial works in respect of any damage.
+
+(2) The Corporation shall execute the remedial works as soon as reasonably practicable after the date on which a schedule of remedial works first comes into effect in relation to the damage.
+
+(3) If so requested by the claimant or any other person interested at any time before the remedial works are completed, the Corporation shall give to him in writing adequate information with respect to any of those works still remaining to be executed.
+
+#### 8 Discretionary payments in lieu.
+
+(1) The Corporation may elect to make payments in respect of the cost of remedial works instead of executing such works themselves in any of the cases mentioned below in this section.
+
+(2) In any case where the Corporation receive the necessary request for that purpose from the claimant or any other person interested, they may elect to make, in respect of the cost incurred by a person other than themselves in executing any of the remedial works, a payment equal to the aggregate amount of the costs specified in relation to those works in the schedule of remedial works.
+
+(3) For the purposes of subsection (2) above, the necessary request is a request informing the Corporation that the person making the request wishes to execute the remedial works in question himself or to have them executed on his behalf by a person specified in the request.
+
+(4) In any case where it is proposed—
+
+(a) to merge the execution of other works in connection with the damaged property with the execution of remedial works; or
+
+(b) to redevelop the damaged property instead of executing remedial works,
+
+the Corporation may elect to make a payment equal to any sums from time to time shown to have been expended by any other person in executing the merged works or the redevelopment works, up to an aggregate amount not exceeding the aggregate amount of the costs specified in the schedule of works (“the total scheduled cost”).
+
+(5) Where in the case of any property affected by subsidence damage—
+
+(a) immediately before the subsidence damage became evident the property was in a state of disrepair;
+
+(b) it is not practicable to execute remedial works without including in those works additional works which would not be necessary but for the disrepair (“the works attributable to the disrepair”); and
+
+(c) the total scheduled cost is higher by at least 20 per cent. than it would have been if the costs of the works attributable to the disrepair had not been included,
+
+the Corporation may elect to make in respect of the cost incurred by any other person in executing remedial works a payment equal to the amount by which the total scheduled cost exceeds the aggregate amount of the costs specified in the schedule of works in respect of the works attributable to the disrepair.
+
+(6) In any case within subsection (5) above, the schedule of remedial works shall distinguish the works attributable to the disrepair from the works which would be necessary apart from the disrepair.
+
+(7) The Corporation shall not unreasonably refuse—
+
+(a) any request complying with subsection (3) above to make an election under subsection (2) above; or
+
+(b) any request received from the claimant or any other person interested to make an election under subsection (4) above.
+
+(8) Subject to subsection (9) below, the Corporation are to be regarded as acting unreasonably in refusing any request falling within subsection (7)(a) above which is received before they have begun to execute remedial works.
+
+(9) Subsection (8) above does not apply where—
+
+(a) the Corporation have acceded to another such request made by another person;
+
+(b) the execution of remedial works by a person other than the Corporation would significantly impede the discharge of their remedial obligation in respect of one or more neighbouring properties; or
+
+(c) where the damage has rendered the property structurally unsound, the execution of such works by the person by whom the request was made or, as the case may be, by the person specified in the request would be unlikely to restore the structural integrity of the property,
+
+and (in any case) as soon as reasonably practicable after receiving the request the Corporation give notice to that effect to the person by whom the request was made.
+
+(10) The Corporation are not to be regarded as acting unreasonably in refusing any request falling within subsection (7) above which is received after they have begun to execute remedial works.
+
+(11) An election under this section, and any revocation of such an election, shall be made by a notice given to the claimant and any other person interested.
+
+(12) The Secretary of State may by order substitute for the percentage specified in subsection (5)(c) above (whether as originally enacted or as previously amended under this subsection) such other percentage as he thinks fit.
+
+#### 9 Obligatory payments in lieu.
+
+(1) In any case to which this section applies the Corporation shall meet their remedial obligation in respect of any damage by making a payment under this section.
+
+(2) This section applies to the following cases—
+
+(a) where the damaged property is—
+
+(i) in England and Wales, a highway maintainable at the public expense; or
+
+(ii) in Scotland, a public road (within the meaning of the [^M2]Roads (Scotland) Act 1984);
+
+(b) where the execution of remedial works falls within a duty with respect to the damaged property which, in connection with the maintenance of public services, is imposed by virtue of any enactment on—
+
+(i) a government department;
+
+(ii) a local authority; or
+
+(iii) statutory undertakers;
+
+(c) where it is certified by the Secretary of State, on an application made to him by any other person or of his own motion, that in his opinion it is not in the public interest that the Corporation should themselves execute the remedial works.
+
+(3) Subject to subsection (4) below, the payment required under this section in respect of any damage is a payment equal to the cost reasonably incurred by any person in executing remedial works.
+
+(4) Where remedial works are executed after the end of the period of three years beginning with the date of the claimant’s damage notice, the amount of any payment under subsection (3) above shall not exceed the cost which might reasonably have been expected to have been incurred in executing those works if they had been executed immediately before the end of that period.
+
+#### 10 Discretionary depreciation payments.
+
+(1) In any case to which this section applies the Corporation may elect to make a payment equal to the amount of the depreciation in the value of the damaged property caused by the damage (“the depreciation amount”) instead of executing any remedial works or making any payment in lieu.
+
+(2) This section applies to the following cases—
+
+(a) where the aggregate amount of the costs specified in the schedule of remedial works exceeds the depreciation amount by at least 20 per cent.;
+
+(b) where the property is not a dwelling-house and the Corporation and the person or persons to whom any payment would fall to be made in accordance with this section agree that such a payment should be made;
+
+(c) where the property is a dwelling-house and it appears [^F4]. . . that a notice to treat is likely to be served for the compulsory purchase of the dwelling-house under housing clearance powers in such circumstances that the compulsory purchase will be attributable to the subsidence damage.
+
+(3) The Secretary of State may by order substitute for the percentage specified in subsection (2)(a) above (whether as originally enacted or as previously amended under this subsection) such other percentage as he thinks fit; and an order under this subsection may provide for different percentages to apply in relation to different descriptions of property.
+
+(4) An election under this section, and any revocation of such an election, shall be made by a notice given to the claimant and any other person interested.
+
+(5) References in this section and section 11 below to the service of a notice to treat are references to—
+
+(a) the service of such a notice under section 5 of the [^M3]Compulsory Purchase Act 1965; or
+
+(b) the service or deemed service of such a notice under section 17 of the [^M4]Lands Clauses Consolidation (Scotland) Act 1845.
+
+#### 11 Obligatory depreciation payments.
+
+(1) Where in the case of any dwelling-house affected by subsidence damage, at any time before the completion of remedial works or, in a case falling within section 8(4) above, at any time before all sums in respect of which the Corporation are liable to make payments have been expended—
+
+(a) a notice to treat for the compulsory purchase of the dwelling-house under housing clearance powers is served in such circumstances that the compulsory purchase will be attributable to the damage; or
+
+(b) a demolition or closing order is made in respect of the dwelling-house under housing clearance powers in such circumstances that the making of the order is so attributable,
+
+the Corporation shall make in respect of the dwelling-house a payment equal to the amount of the depreciation in the value of the dwelling-house caused by the damage.
+
+(2) Subsection (1) above applies without prejudice to any expenditure or liability of the Corporation under section 7 or 8 above in respect of works already executed; and where the Corporation make a payment under that subsection no further action is required of them under this Part in pursuance of their remedial obligation in respect of the dwelling-house.
+
+(3) Where in the case of any property affected by subsidence damage—
+
+(a) remedial works have been executed; but
+
+(b) there is a depreciation in the value of the property caused by any damage the making good of which to the reasonable satisfaction of the claimant and any other person interested was not reasonably practicable,
+
+the Corporation shall make in respect of the property a payment equal to the amount of that depreciation.
+
+(4) References in subsection (1)(b) above to the making of a demolition or closing order in respect of the dwelling-house include, in relation to England and Wales, references to an area in which the dwelling-house is situated being declared to be a clearance area.
+
+#### 12 Payments in respect of emergency works.
+
+(1) The payment required by section 2(4) above in respect of emergency works, that is to say, works urgently and reasonably required—
+
+(a) in order that the damaged property may continue to be used for the purposes for which it was used immediately before the damage became evident; or
+
+(b) in order to prevent the property being affected by further subsidence damage,
+
+is a payment equal to the cost reasonably incurred by any person other than the Corporation in executing those works.
+
+(2) The Corporation shall not be required to make any payment in respect of any emergency works executed by any other person in connection with any property—
+
+(a) unless that person—
+
+(i) has given to the Corporation as soon as was reasonably practicable in all the circumstances a notice containing adequate particulars of those works; and
+
+(ii) has afforded the Corporation reasonable facilities to inspect the property, so far as he was in a position to do so; or
+
+(b) if the emergency works are executed after the Corporation have elected under section 10 above to make a depreciation payment in respect of the damaged property.
+
+(3) Any payment in respect of emergency works shall be made to the person or persons by whom the cost of executing the works in question is (or is to be) incurred; and, if there are two or more such persons, the payment shall be apportioned between them—
+
+(a) in such manner as may be determined by agreement; or
+
+(b) in default of agreement, in shares corresponding to their respective shares in the cost.
+
+### Payments in lieu and depreciation payments
+
+#### 13 Payments in lieu.
+
+(1) The Corporation shall not be required to make any payment in lieu in respect of any works executed by any other person in connection with any property unless that person—
+
+(a) has given to the Corporation the required notice with respect to the works; and
+
+(b) has afforded the Corporation reasonable facilities to inspect the property, so far as he was in a position to do so.
+
+(2) The required notice with respect to any works is a notice which—
+
+(a) contains adequate particulars of the works; and
+
+(b) except in such circumstances as may be prescribed, is given at the prescribed interval before the works are begun.
+
+(3) Subject to subsection (5) below, the Corporation may make payments in respect of any proposed expenditure qualifying for a payment in lieu (“advance payments”).
+
+(4) For the purposes of subsection (3) above, proposed expenditure is expenditure qualifying for a payment in lieu if it is expenditure of a description in respect of which a payment in lieu would be required if it had been incurred.
+
+(5) An advance payment—
+
+(a) may only be made if the Corporation are satisfied that it will be applied in meeting the expenditure in question; and
+
+(b) shall be regarded for the purposes of this Act as made in accordance with the provision of section 8 or 9 above which requires the payment in lieu on account of which it is made.
+
+(6) The Corporation shall not unreasonably refuse any request to make an advance payment received from the person or persons by whom the cost of executing the works in question is to be incurred.
+
+(7) Any payment in lieu (including an advance payment) shall be made to the person or persons by whom the cost of executing the works in question is (or is to be) incurred; and, if there are two or more such persons, the payment shall be apportioned between them—
+
+(a) in such manner as may be determined by agreement; or
+
+(b) in default of agreement, in shares corresponding to their respective shares in the cost.
+
+(8) So far as not made by virtue of subsection (3) above before the expenditure in question is incurred, any payment in lieu shall be made as soon as reasonably practicable after the expenditure in respect of which it is required to be made has been incurred.
+
+#### 14 Depreciation payments: general.
+
+(1) The Corporation shall not make a depreciation payment in respect of subsidence damage to a dwelling-house, other than a payment under section 11(3) above, except after consultation with—
+
+(a) the local authority within the meaning of the [^M5]Housing Act 1985; or
+
+(b) the local authority within the meaning of the [^M6]Housing (Scotland) Act 1987,
+
+in whose area the dwelling-house is situated.
+
+(2) The Corporation shall not make a depreciation payment in respect of subsidence damage to any property other than a dwelling-house, where that property is of any description prescribed for the purposes of this subsection, except after consultation with such Minister of the Crown or other person as may be so prescribed in relation to that description of property.
+
+(3) Any depreciation payment shall be made as soon as reasonably practicable after the obligation to make it arises.
+
+(4) Schedule 1 to this Act applies for determining—
+
+(a) the unit of property to be taken into account for any purposes of section 10 or 11 above; and
+
+(b) the amount of any depreciation in the value of any such unit in respect of which a depreciation payment falls to be made;
+
+and interest shall be payable in respect of any depreciation payment in accordance with that Schedule.
+
+#### 15 Recipients of depreciation payments.
+
+(1) Subject to the provisions of this section, a depreciation payment shall be made to the person who is for the time being the owner of the property in question.
+
+(2) If any other person is liable to make good the whole of the damage to which the payment relates, the payment shall be made to him.
+
+(3) If any other person is liable to make good any part of that damage, such part of the amount of the payment shall be paid to him as bears to the whole of that amount the same proportion as the scheduled cost of works for which he is responsible bears to the total scheduled cost.
+
+(4) In subsection (3) above—
+
+(a) the reference to the scheduled cost of works for which the other person is responsible is a reference to the aggregate amount of the costs specified in the schedule of remedial works in respect of works required for making good the part of the damage which he is liable to make good; and
+
+(b) the reference to the total scheduled cost is a reference to the aggregate amount of all costs specified in the schedule of remedial works.
+
+(5) Schedule 2 to this Act applies for determining the persons who are to receive depreciation payments in special cases; and references in this section and that Schedule to a depreciation payment or part of such a payment include any interest payable in respect of that payment or that part in accordance with Schedule 1 to this Act.
+
+### Further damage
+
+#### 16 Stop notices where further damage is likely.
+
+(1) This section applies where at any time—
+
+(a) a damage notice has been given to the Corporation in respect of subsidence damage to any property; and
+
+(b) it appears [^F5]. . . to be probable that further subsidence damage will occur to that property within the period of eighteen months beginning with that time;
+
+and it shall be the duty of the Corporation, as soon as reasonably practicable after receiving such a notice, to consider whether [[^F6]the condition mentioned in paragraph (b) above is satisfied].
+
+(2) The Corporation may give to the claimant and any other person interested a notice to the effect that, except for—
+
+(a) emergency works; and
+
+(b) such other works (if any) as may be specified in the notice (“excepted works”),
+
+the Corporation will neither execute any works for making good the damage while the notice remains in force nor make any payments in respect of such works executed while the notice remains in force.
+
+(3) It shall be the duty of the Corporation to specify in such a notice such works (if any) as are required in order to render the damaged property reasonably fit to be used for the purposes for which it was used immediately before the damage became evident, not being—
+
+(a) emergency works; or
+
+(b) works the execution of which is not reasonably practicable in all the circumstances of the case.
+
+(4) References in this Act, in relation to any damage, to a stop notice are references to a notice under this section relating to the damage.
+
+(5) Except in such circumstances as may be prescribed, where the Corporation give a stop notice to any person with respect to any damage—
+
+(a) the Corporation’s remedial obligation to that person in respect of the damage shall be subject to the terms of that notice;
+
+(b) any notice affecting the required remedial action in respect of the damage given by the Corporation before the stop notice is given shall cease to have effect, except in so far as it relates to excepted works;
+
+(c) any schedule of remedial works relating to the damage sent to that person before the stop notice is given shall not take effect or (as the case may be) shall cease to have effect, except in so far as it relates to excepted works and related costs;
+
+(d) any period during which the stop notice is in force shall be disregarded in reckoning the period mentioned in subsection (4) of section 9 above (claim for obligatory payments in lieu), except for the purposes of the application of that section in relation to any excepted works;
+
+(e) so long as the stop notice is in force the Corporation shall not be required to give any notice of proposed remedial action in respect of the damage or to send to that person any schedule of remedial works, except so far as any such notice or schedule is required for the purposes of excepted works; and
+
+(f) in the case excepted from paragraph (e) above, the provisions of this Part shall apply as if—
+
+(i) the Corporation’s remedial obligation in respect of the damage were limited to such part of the damage as can be remedied or alleviated by the excepted works; and
+
+(ii) references to such works as are necessary in order to make good the damage to that person’s reasonable satisfaction were references to the excepted works.
+
+(6) A stop notice given to any person with respect to any damage shall not have effect unless it is given within the period of three months beginning with the relevant time, or such longer period beginning with that time as may be agreed between the Corporation and that person.
+
+(7) In subsection (6) above “the relevant time” means—
+
+(a) the time when it first appears [^F5]. . . to be probable that further subsidence damage will occur to the property within the next succeeding period of eighteen months; or
+
+(b) any later time when it first appears [^F7]. . . that any such damage will be substantially more serious than appeared to them at that earlier time.
+
+(8) The Secretary of State may by order substitute for the period specified in subsection (6) above (whether as originally enacted or as previously amended under this subsection) such other period as he thinks fit.
+
+#### 17 Revocation and review of stop notices.
+
+(1) It shall be the duty of the Corporation to revoke any stop notice relating to any damage to any property if—
+
+(a) at any time, it no longer appears [^F8]. . . to be probable that further damage will occur to that property within the period of eighteen months beginning with that time; or
+
+(b) at any time after the end of the period of three years beginning with the relevant date, the claimant and any other person interested request the Corporation to revoke it.
+
+(2) Where a stop notice has been given with respect to any damage, it shall be the duty of the Corporation to consider, initially not later than twelve months after the date on which the notice was given and subsequently at intervals not exceeding twelve months, whether to revoke it.
+
+(3) Where a stop notice given to any person with respect to any damage is revoked—
+
+(a) a fresh notice of proposed remedial action relating to the damage (or so much of it as has not been made good by any emergency works or any excepted works within the meaning of section 16 above) shall be given by the Corporation to that person as soon as reasonably practicable after the date of the revocation;
+
+(b) any such notice of proposed remedial action which is effective immediately before that date shall cease to have effect on the giving of a fresh notice in accordance with paragraph (a) above; and
+
+(c) any schedule of remedial works relating to the damage which is effective immediately before that date shall cease to have effect when the schedule of remedial works sent under section 6(1) above in connection with the fresh notice of proposed remedial action comes into effect.
+
+(4) In subsection (1)(b) above “the relevant date”, in relation to a stop notice, means—
+
+(a) the date on which the stop notice was given; or
+
+(b) where one or more previous stop notices had been given in respect of the whole or any part of the damage, the date on which that notice or, as the case may be, the first of those notices was given.
+
+(5) The Secretary of State may by order substitute for the period mentioned in subsection (1)(b) above (whether as originally enacted or as previously amended under this subsection) such other period as he thinks fit.
+
+(6) On any occasion when in pursuance of subsection (2) above the Corporation consider whether to revoke a stop notice they shall give notice of their decision to the person to whom the stop notice was given as soon as they have made it.
+
+#### 18 Effect of further damage.
+
+(1) This section applies where—
+
+(a) a damage notice has been given to the Corporation in respect of subsidence damage to any property (“the original damage”); and
+
+(b) further subsidence damage to that property becomes evident in the circumstances mentioned in subsection (2) below.
+
+(2) The circumstances referred to in subsection (1)(b) above are that—
+
+(a) the further damage becomes evident before the completion of remedial works or, in a case falling within section 8(4) above, before all sums in respect of which the Corporation are liable to make payments have been expended; and
+
+(b) at the time when it becomes evident, the Corporation have neither elected under section 10 above, nor become liable under section 11(1) above, to make a depreciation payment in respect of the damaged property.
+
+(3) In any case to which this section applies the original damage and the further damage shall be treated as one (“the combined damage”) and, subject to subsection (5) below—
+
+(a) a fresh damage notice shall be required if, and only if, before the further damage becomes evident, the Corporation have elected under section 8 above to make a payment in lieu under that section instead of executing any remedial works;
+
+(b) any notice affecting the required remedial action in respect of the original damage given before the further damage becomes evident shall cease to have effect and this Part shall apply as if that notice had not been given;
+
+(c) where a fresh damage notice is not required, a fresh notice of proposed remedial action relating to the combined damage shall be given by the Corporation to the claimant and any other person interested as soon as reasonably practicable after the further damage becomes evident;
+
+(d) any schedule of remedial works relating to the original damage sent to the claimant or any other person interested before the further damage becomes evident shall not take effect or (as the case may be) shall cease to have effect;
+
+(e) where a fresh schedule of remedial works relating to the combined damage satisfies the requirements of subsection (4) below—
+
+(i) subsections (3) and (4) of section 6 above shall not apply; and
+
+(ii) subsection (5)(a) of that section shall have effect as if for sub-paragraphs (i) and (ii) there were substituted a reference to the date on which the schedule is sent to the claimant or any other person interested;
+
+(f) any stop notice given to any person with respect to the original damage shall have effect in relation to the combined damage as if there were specified in it as excepted works such works (if any) as may be specified in a notice given to that person by the Corporation; and
+
+(g) the references to remedial works in section 8(8) and (10) above shall not include any remedial works begun before the further damage becomes evident.
+
+(4) A fresh schedule of remedial works relating to the combined damage satisfies the requirements of this subsection if the aggregate amount of the costs specified in that schedule does not exceed, by more than 20 per cent., the aggregate amount of the costs specified in any schedule of remedial works to which subsection (3)(d) above applies.
+
+(5) It shall be the duty of the Corporation to specify in a notice under subsection (3)(f) above such works (if any) as are required in order to render the damaged property reasonably fit to be used for the purposes for which it was used immediately before the original damage became evident, not being—
+
+(a) emergency works; or
+
+(b) works the execution of which is not reasonably practicable in all the circumstances of the case.
+
+(6) In any case to which this section applies it may be agreed between the Corporation, the claimant and any other person interested—
+
+(a) that paragraphs (a) to (e) of subsection (3) above shall not apply; and
+
+(b) that any such notice or schedule as is mentioned in paragraph (b) or (d) of that subsection shall have effect in relation to the combined damage with such modifications as may be so agreed.
+
+(7) This section is without prejudice to any liability of the Corporation in respect of the cost of any works executed before the further damage becomes evident.
+
+(8) The Secretary of State may by order substitute for the percentage specified in subsection (4) above (whether as originally enacted or as previously amended under this subsection) such other percentage as he thinks fit.
+
+### Special cases
+
+#### 19 Ancient monuments and listed buildings.
+
+(1) This section applies where any property which—
+
+(a) is for the time being included in the Schedule of monuments compiled and maintained under section 1 of the [^M7]Ancient Monuments and Archaeological Areas Act 1979;
+
+(b) has been notified to the Corporation by the Secretary of State as an ancient monument within the meaning of that Act for the time being under the care of the Secretary of State; or
+
+(c) is a listed building within the meaning of section 1 of the [^M8]Planning (Listed Buildings and Conservation Areas) Act 1990, or [[^F9]section 1 of the Planning (Listed Buildings and Conservation Areas) (Scotland) Act 1997], and is not of a description specified in an order made by the Secretary of State,
+
+is affected by subsidence damage and the character of the property as one of historic, architectural, archaeological or other special interest is or may be affected by that damage.
+
+[[^F10](1A) This section also applies where any property in Wales which—
+
+(a) is a scheduled monument within the meaning given by section 3 of the Historic Environment (Wales) Act 2023,
+
+(b) has been notified to the Corporation by the Secretary of State as a monument of special historic interest, within the meaning given by section 75(6) of that Act, for the time being under the guardianship of the Welsh Ministers, or
+
+(c) is a listed building within the meaning given by section 76 of that Act, and is not of a description specified in an order made by the Secretary of State,
+
+is affected by subsidence damage and the character of the property as one of historic, architectural, archaeological or other special interest is or may be affected by that damage.]
+
+(2) If and to the extent that it is reasonably practicable and in the public interest so to restore the property to its former condition as to maintain its character as one of special interest, this Part shall have effect in relation to the damage as if—
+
+(a) section 6(2)(a) above defined “remedial works” as such works as are necessary for the purpose of so restoring the property; and
+
+(b) section 10 above were omitted.
+
+(3) Any question arising by virtue of subsection (2) above as to whether or how far it is reasonably practicable or in the public interest to restore any property as mentioned in that subsection shall be determined by the Secretary of State.
+
+(4) In this section “former condition”, in relation to any property, means a condition comparable to its condition immediately before the subsidence damage occurred.
+
+#### 20 Ecclesiastical property etc.
+
+(1) In the case of subsidence damage to any ecclesiastical property—
+
+(a) the [^F11]Church Commissioners[[^F11]Diocesan Board of Finance for the diocese in which the land is situated] shall be entitled, in addition to any other person who is so entitled, to give a damage notice; and
+
+(b) where any other such person is the claimant, the [^F11]Commissioners[[^F11]Diocesan Board of Finance for the diocese in which the land is situated] shall be treated as another person interested whether or not [^F12]they give[[^F12]it gives] such a notice.
+
+(2) Any payment under section 10 or 11 above in respect of ecclesiastical property which would, apart from this subsection, fall to be made to the owner of the property—
+
+(a) shall be made to the [^F11]Church Commissioners[[^F11]Diocesan Board of Finance for the diocese in which the land is situated]; and
+
+(b) shall be applied by [^F13]them[[^F13]it] for the purposes for which the proceeds of a sale of the property by agreement would be applicable under any enactment or Measure authorising, or disposing of the proceeds of, such a sale.
+
+(3) Where, in relation to any property other than ecclesiastical property—
+
+(a) any payment under section 10 or 11 above would, apart from this subsection, fall to be made to a person whose interest in the property is held for religious purposes; and
+
+(b) a request for payment is made to the Corporation by or on behalf of the representative body,
+
+the payment shall be made to that body.
+
+(4) In this section—
+
+- “ecclesiastical property” means property in England belonging to any ecclesiastical benefice[[^F14]of the Church of England], or being or forming part of a church subject to the jurisdiction of a bishop of any diocese[[^F14]of the Church of England] or the site of such a church, or being or forming part of a burial ground subject to such jurisdiction;
+- “the representative body”, in relation to property of any description held for religious purposes, means the body of persons (if any) which, in relation to that property or property of that description, has been notified to the Corporation by the Secretary of State, after consultation with such persons and organisations as he may think appropriate.
+
+#### 21 Property belonging to protected tenants.
+
+(1) Where property belonging to a protected tenant is affected by subsidence damage, Schedule 3 to this Act (which provides for the protected tenant to be treated, in certain circumstances, as a person liable to make good the damage in whole or in part) shall apply if, apart from the provisions of that Schedule, neither the protected tenant nor any other person would be liable to make good the damage in whole or in part.
+
+(2) For the purposes of this section and Schedule 3 to this Act, property affected by subsidence damage belongs to a protected tenant if he would have been entitled under any enactment contained in the relevant Act or Acts to remove the property, or to be paid compensation in respect of it by his landlord, if his tenancy had terminated immediately before the damage occurred.
+
+(3) In this section and Schedule 3 to this Act “protected tenant” means a person who is—
+
+(a) a tenant for the purposes of Part I of the [^M9]Landlord and Tenant Act 1927, the [^M10]Agricultural Holdings Act 1986 or the [^M11]Agricultural Holdings (Scotland) Act 1949;
+
+[[^F15](aa) a tenant under a farm business tenancy within the meaning of the Agricultural Tenancies Act 1995;]
+
+(b) a landholder for the purposes of the Small Landholders (Scotland) Acts 1886 to 1931; or
+
+(c) a crofter for the purposes of the [^M12]Crofters (Scotland) Act 1955;
+
+and references, in relation to a protected tenant, to the relevant Act or Acts shall be construed accordingly.
+
+## Part III — Additional Remedies
+
+### Dwelling-houses rendered uninhabitable etc.
+
+#### 22 Home loss payments.
+
+(1) Where a dwelling-house is affected by subsidence damage, Schedule 4 to this Act (which confers on any person displaced from the dwelling-house a right, in certain circumstances, to receive a home loss payment) shall apply if the requirements of subsection (2) below are satisfied.
+
+(2) The requirements of this subsection are satisfied if—
+
+(a) by reason of deterioration due to the subsidence damage in the condition of the dwelling-house, the dwelling-house cannot reasonably be rendered fit to be used as such; and
+
+(b) the dwelling-house is not used as such by or with the authority of the person who immediately before the deterioration in its condition was entitled to possession of it.
+
+#### 23 Relief for temporary dispossession.
+
+(1) Where a dwelling-house is affected by subsidence damage, Schedule 5 to this Act (which confers on any person temporarily dispossessed of the dwelling-house a right to certain relief) shall apply as respects any period during which the requirements of subsection (2) below are satisfied.
+
+(2) The requirements of this subsection are satisfied if—
+
+(a) by reason of deterioration due to the subsidence damage in the condition of the dwelling-house, and having regard to the time which will be required to remedy that deterioration, the dwelling-house is not in a reasonably fit state for it to be used as such; and
+
+(b) the dwelling-house is not used as such by or with the authority of the person who immediately before the deterioration in its condition was entitled to possession of it.
+
+#### 24 Care of vacant dwelling-houses.
+
+(1) Subject to subsection (2) below, where in the case of a dwelling-house which is affected by subsidence damage—
+
+(a) the requirements of section 23(2) above are satisfied; and
+
+(b) notice of that fact is given to the Corporation by the person who immediately before the deterioration in the condition of the dwelling-house was entitled to possession of it (“the occupier”),
+
+this section shall apply in relation to the dwelling-house so long as those requirements continue to be satisfied.
+
+(2) This section shall cease to apply in relation to a dwelling-house, notwithstanding that the requirements of section 23(2) above continue to be satisfied, on the occurrence of any such event as is specified in paragraph 3(1) of Schedule 5 of this Act.
+
+(3) So long as this section applies in relation to a dwelling-house, the Corporation shall take reasonable steps for—
+
+(a) preventing or minimising the risk of the house or its contents suffering loss or damage while it is unoccupied; and
+
+(b) inspecting the house for the purpose of discovering whether any such loss or damage has occurred;
+
+and the steps which it may be reasonable to take include, in particular, steps for keeping the dwelling-house weatherproof and secure against persons seeking to enter it as trespassers or, in Scotland, without lawful authority.
+
+(4) Where the Corporation request permission from the occupier to remove and place in storage at their own expense any of the contents of the dwelling-house, they shall not be liable by virtue of subsection (3) above for any loss or damage to any of those contents as respects which such permission is unreasonably refused.
+
+(5) Any claim arising out of a breach of the duty imposed by subsection (3) above shall be determined by the county court in England and Wales and by the sheriff in Scotland.
+
+(6) Nothing in this section shall affect any liability of the Corporation arising apart from this section.
+
+#### 25 Compensation for inconvenience etc. during works.
+
+(1) The Secretary of State may, after consultation with the Corporation, make regulations requiring the payment by the Corporation of compensation for any inconvenience or disturbance which may be caused, as a result of the execution by the Corporation of remedial works, to persons residing in dwelling-houses affected by subsidence damage.
+
+(2) Regulations under this section may make provision with respect to—
+
+(a) the making of claims for compensation under the regulations;
+
+(b) the descriptions of persons who may make a claim for such compensation;
+
+(c) the matters in respect of which, and any circumstances in which, such compensation is or is not to be payable; and
+
+(d) the sums, or the method of determining the sums, payable by way of such compensation.
+
+### Agricultural losses
+
+#### 26 Farm loss payments.
+
+Where land constituting or included in an agricultural unit is affected by subsidence damage, Schedule 6 to this Act (which confers on any occupier displaced from the land a right, in certain circumstances, to receive a farm loss payment) shall apply if, by reason of deterioration due to the damage in the condition of the land, the land cannot profitably be used for agricultural purposes.
+
+#### 27 Crop loss payments.
+
+(1) Where at any time land constituting or included in an agricultural unit is affected by subsidence damage, this section shall apply as respects the period beginning with that time and ending with the discharge by the Corporation of their remedial obligation with respect to the damage.
+
+(2) For each year or part of a year falling within that period, the Corporation shall be under an obligation to make to the occupier of the unit a payment of the amount (if any) given by the formula—
+
+P = R - S + E where—
+
+P is the amount payable under this subsection;
+
+R is any amount by which the occupier’s return from crops sown or planted in that year or part of a year is less than it might reasonably have been expected to have been if the subsidence damage had not occurred;
+
+S is any amount by which his expenses in respect of crops so sown or planted are less than they might reasonably have been expected to have been if the damage had not occurred;
+
+E is the amount of any expenses incurred by him in that year or part of a year in taking reasonable steps to protect crops grown in a greenhouse affected by the damage.
+
+(3) For each year or part of a year falling within the period mentioned in subsection (1) above, the Corporation shall be under an obligation to make to the occupier of the unit a payment of the amount (if any) given by the formula—
+
+P = R - S where—
+
+P is the amount payable under this subsection;
+
+R is any amount by which the occupier’s yield from land used for pasture in that year or part of a year is less than it might reasonably have been expected to have been if the subsidence damage had not occurred;
+
+S is any amount by which his expenses in respect of land used for pasture are less than they might reasonably have been expected to have been if the damage had not occurred.
+
+(4) There shall be disregarded for the purposes of subsection (2) above—
+
+(a) any crops which would normally have been harvested before the subsidence damage became evident;
+
+(b) any crops which were or would have been sown or planted after an election by the Corporation under section 10 above to make a depreciation payment in respect of the damage; and
+
+(c) if all reasonable steps have not been taken to protect them, any crops grown in a greenhouse affected by the damage;
+
+and there shall be disregarded for the purposes of subsection (3) above any use of land for pasture which was or would have been so used after such an election as is mentioned in paragraph (b) above.
+
+(5) The Corporation shall not be liable to make a payment under this section except on a claim made by the person entitled to it within the period of twelve months beginning with the end of the year or part of a year to which the payment relates.
+
+(6) Where a claim is made under subsection (5) above, the Corporation may, by notice given to any person who is entitled to give a damage notice in respect of the subsidence damage, elect to treat that claim as if it were also such a notice given by that person in respect of that damage.
+
+(7) A payment under this section shall carry interest at the applicable rate (if any) [[^F16]from the date of the claim on which the payment is made] until payment [[^F17]but any period of delay in determining the amount of any such payment which is attributable to unreasonable conduct on the part of that person shall be disregarded for the purposes of this subsection.]
+
+(8) In this section—
+
+- “greenhouse” includes any building or structure designed to afford protection from the weather or to secure the retention of heat;
+- “year” means a calendar year;
+
+and in relation to any agricultural activity carried on on land constituting or included in an agricultural unit, the person having the right to carry it on shall be treated as the occupier of that unit.
+
+#### 28 Payments for tenant farmers.
+
+(1) Where the Corporation make a depreciation payment to the owner of any agricultural land which is subject to a tenancy, they shall also make to the tenant a payment of the amount given by the formula—
+
+P = (C + S) × (D)/(V) where—
+
+P is the amount payable under this subsection;
+
+C is the compensation which, on the assumptions mentioned in subsection (3) below, would have been payable to the tenant for the value of his unexpired term or interest in the land;
+
+S is the sum which, on those assumptions, would have been payable to the tenant under section 12 of the [^M13]Agriculture (Miscellaneous Provisions) Act 1968 (additional payments on compulsory acquisition of agricultural holdings);
+
+D is the amount of the depreciation payment made to the owner of the land;
+
+V is what would have been the value of the land at the relevant time if it had not been affected by the subsidence damage.
+
+(2) Where the Corporation make a payment under subsection (1) above to a tenant who has been displaced from the whole or a sufficient part of the land affected by the subsidence damage, they shall also make to him a payment equal to the compensation which—
+
+(a) on the assumptions mentioned in subsection (3) below; and
+
+(b) on the further assumption that the displacement had been caused by the compulsory acquisition mentioned in paragraph (a) of that subsection,
+
+would have been payable to him for any loss or injury sustained by him.
+
+(3) The assumptions referred to in subsections (1) and (2) above are—
+
+(a) that the land had been compulsorily acquired at the relevant time;
+
+(b) that the tenant had no greater interest in the land than as tenant for a year or from year to year; and
+
+(c) that the land had not been affected by the subsidence damage.
+
+(4) Paragraph 2 of Schedule 1 to this Act shall apply for the purpose of determining the value mentioned in subsection (1) above as it applies for the purpose of determining the value of a unit of property at any time for the purposes of section 10 or 11 above; and paragraph 4 of that Schedule (interest on depreciation payments) shall apply in relation to any payment under this section as if—
+
+(a) the payment were a depreciation payment; and
+
+(b) the relevant time in relation to the payment were the time immediately after the making of the claim.
+
+(5) In this section—
+
+- “the relevant time” means the relevant time for the purposes of paragraph 3 of Schedule 1 to this Act;
+- “sufficient part” means not less than 0.5 hectares or such area as the Secretary of State may by order specify;
+
+and any reference to compensation is a reference to compensation under section 20 of the [^M14]Compulsory Purchase Act 1965 or section 114 of the [^M15]Lands Clauses Consolidation (Scotland) Act 1845 (compensation to be made to tenants for a year etc.).
+
+### Miscellaneous
+
+#### 29 Purchase etc. of property affected by blight.
+
+(1) The Secretary of State may, after consultation with the Corporation, make regulations with respect to the action to be taken by the Corporation for alleviating cases of hardship suffered as a result of property being blighted by subsidence damage or the possibility of such damage.
+
+(2) The action which may be required by the regulations is—
+
+(a) the purchase of any blighted property at a price equivalent to its unblighted value; or
+
+(b) the payment of an amount equivalent to the difference between the value of any such property and its unblighted value.
+
+(3) Regulations under this section may make provision as to—
+
+(a) the making of claims under the regulations and the descriptions of persons who may make them;
+
+(b) the descriptions of property in respect of which such claims may be made and the circumstances in which such property is to be regarded as blighted for the purposes of the regulations;
+
+(c) the circumstances in which action is or is not required to be taken (including the circumstances in which a person is to be regarded as suffering hardship);
+
+(d) the determination of the value or unblighted value of any blighted property.
+
+(4) In this section “unblighted value”, in relation to any blighted property, means the value which it would have if it were not blighted.
+
+#### 30 Compensation for consequential losses of small firms.
+
+(1) Where at any time any property—
+
+(a) which is used wholly or partly for the purposes of a small firm; and
+
+(b) as respects which one or more notices have been or should have been given [^F18]. . . under section 46(1) below,
+
+is affected by subsidence damage, this section shall apply as respects the period beginning with that time and ending with the discharge by the Corporation of their remedial obligation with respect to the damage.
+
+(2) For each year or part of a year—
+
+(a) which falls within that period; and
+
+(b) in which any consequential loss resulting from the damage is suffered by the firm,
+
+the Corporation shall be under an obligation to make to the firm a payment of such amount as would have been payable to the firm by way of damages in respect of that loss if the damage had been attributable to the negligence of the Corporation; and in determining the amount (if any) of such a payment regard shall be had to the rules of law relating to remoteness and the mitigation of losses.
+
+(3) The Corporation shall not be liable to make a payment under this section unless, as soon as reasonably practicable after the first time—
+
+(a) when the firm suffers any consequential loss resulting from the damage; or
+
+(b) if later, when the firm has such knowledge as is mentioned in subsection (4) (read with subsection (5)) of section 3 above,
+
+the firm gives notice of the loss to the Corporation.
+
+(4) Where a notice is given under subsection (3) above, the Corporation may, by notice given to any person who is entitled to give a damage notice in respect of the subsidence damage, elect to treat the notice under that subsection as if it were also a damage notice given by that person in respect of that damage.
+
+(5) The Corporation shall not be liable to make a payment under this section except on a claim made by the firm within the period of twelve months beginning with the end of the year or part of a year to which the payment relates.
+
+(6) A payment under this section shall carry interest at the applicable rate (if any) [[^F19]from the date of the claim on which the payment is made] until payment [[^F20]but any period of delay in determining the amount of any such payment which is attributable to unreasonable conduct on the part of that firm shall be disregarded for the purposes of this subsection.].
+
+(7) In this section—
+
+- “associated employer” shall be construed in accordance with [[^F21]section 231 of the Employment Rights Act 1996];
+- “consequential loss” does not include—
+
+(a) any loss for which provision is made by section 27(2) or (3) above; or
+
+(b) any loss resulting from subsidence damage as respects which the Corporation’s remedial obligation is excluded by section 33(3) [^F22]. . . below;
+
+- “employee” has the [[^F23]same meaning as in the Employment Act 1996];
+- “small firm” means any person who, at the time when the property is affected by subsidence damage, is carrying on a business and satisfies the requirements of subsection (8) below;
+- “year” means a calendar year.
+
+(8) A person satisfies the requirements of this subsection at any time if, at that time, the number of employees employed by him, added to the number of employees employed by any associated employer of his, does not exceed 20.
+
+(9) The Secretary of State may by order substitute for the number of employees specified in subsection (8) above (whether as originally enacted or as previously amended under this subsection) such other number of employees as he thinks fit.
+
+#### 31 Compensation for damage to moveable property.
+
+(1) Where damage is caused to any moveable property by the happening of subsidence damage, the Corporation shall be liable to pay to any person having an interest in the property such amount by way of compensation as would have been payable to that person by way of damages if—
+
+(a) the damage to the moveable property had been attributable to the negligence of the Corporation; and
+
+(b) subject to subsection (2) below, liability for any consequential loss resulting from the damage were excluded.
+
+(2) Subsection (1)(b) above shall not apply to a claim made by a small firm where—
+
+(a) the moveable property was used wholly or partly for the purposes of the firm; and
+
+(b) the property affected by subsidence damage was property as respects which one or more notices had been or should have been given [^F24]. . . under section 46(1) below;
+
+and in determining the amount (if any) of so much of a payment as is payable by virtue of this subsection regard shall be had to the rules of law relating to remoteness and the mitigation of losses.
+
+(3) The Corporation shall not be liable under this section to pay compensation to any person in respect of damage to any moveable property where—
+
+(a) at the time when it was damaged, the property was on any land in circumstances such that its presence constituted a trespass to that land or, in Scotland, was on any land without lawful authority; or
+
+(b) the damage was wholly attributable to the fault of that person or any person in lawful possession of the property;
+
+and if the damage was partly attributable to the fault of that person or any person in lawful possession of the property, the liability of the Corporation shall be reduced proportionately.
+
+(4) In this section—
+
+- “fault” includes any act or omission which would, if the damage to the moveable property had been caused by the negligence of the Corporation, have constituted fault for the purposes of the [^M16]Law Reform (Contributory Negligence) Act 1945;
+- “moveable property” means—
+
+(a) in relation to England and Wales, any chattel personal other than a thing in action or money;
+
+(b) in relation to Scotland, any corporeal moveable other than money;
+
+“small firm” has the meaning which would be given by section (30)(7) above if the reference to the time when the property is affected by subsidence damage were a reference to the time when damage is caused to the moveable property.
+
+#### 32 Compensation for death or disablement.
+
+(1) This section applies where—
+
+(a) as the result of an injury caused by the happening of subsidence damage, any person dies or is disabled (whether permanently or temporarily); and
+
+(b) apart from this section, no action to recover damages is maintainable in respect of the death or disablement.
+
+(2) Subject to subsection (4) below, the Corporation shall be liable, in the case of a death, to pay the like damages, recoverable in the like manner and within the like time, as would have been payable if—
+
+(a) the death had been attributable to the negligence of the Corporation; and
+
+(b) the persons by or on behalf of whom an action could have been brought against the Corporation for damages in respect of the death if it had been so attributable included any person who at the time of the death was, or but for the injury would have been, wholly or partly maintained by the deceased; and
+
+(c) the damages were claimed under the [^M17]Fatal Accidents Act 1976 where the death resulted from an injury caused in England or Wales, or the [^M18][^F25]Damages (Scotland) Act 1976[[^F25]Damages (Scotland) Act 2011] where the death resulted from an injury caused in Scotland.
+
+(3) Subject to subsection (4) below, the Corporation shall be liable, in a case of disablement, to pay the like damages, recoverable in the like manner and within the like time, as would have been payable if the disablement had been attributable to the negligence of the Corporation.
+
+(4) No liability shall attach to the Corporation under subsection (2) or (3) above in respect of the death or disablement of any person as a result of an injury if—
+
+(a) at the time when that person incurred the injury he was on any land as a trespasser or, in Scotland, without lawful authority; or
+
+(b) the injury was wholly attributable to the fault of that person;
+
+and if the injury was partly attributable to the fault of that person the liability of the Corporation under that subsection shall be reduced proportionately.
+
+(5) In this section “fault” includes any act or omission which would, if the death or disablement had been caused by the negligence of the Corporation, have constituted fault for the purposes of the [^M19]Law Reform (Contributory Negligence) Act 1945.
+
+## Part IV — Preventive and Other Measures
+
+### 33 Existing buildings, structures or works.
+
+(1) This section applies where it appears [^F26]. . .—
+
+(a) that subsidence damage is likely to occur to any building, structure or works for the time being on, in or over any land; and
+
+(b) that the execution of certain works (“preventive works”) on that property, or on that property and some other property which would benefit from those preventive works, would prevent the occurrence or reduce the extent of such damage.
+
+(2) The Corporation may—
+
+(a) with the consent of all persons who are owners of any property on which the preventive works would fall to be executed, or who would be liable to make good in whole or in part subsidence damage to any of that property, execute the preventive works; or
+
+(b) upon undertaking to pay any cost reasonably incurred in the execution of the preventive works, request their execution by the owner of the property on which they would fall to be executed or any other person who would be liable as mentioned in paragraph (a) above in respect of that property.
+
+(3) If in the case of any property any person unreasonably withholds his consent to the execution of preventive works by the Corporation under this section, or unreasonably fails to comply with any request to execute such works made by the Corporation under this section, and subsidence damage subsequently occurs to the property, then—
+
+(a) if the damage could have been prevented by the execution of the preventive works, the Corporation shall not be required to take any remedial action in respect of that damage;
+
+(b) if the extent of the damage could have been reduced by the execution of the preventive works, the Corporation shall not be required to take any remedial action which would not have been required if the preventive works had been executed; and
+
+(c) if the property is a dwelling-house, the person concerned shall not be entitled, in respect of the damage, to give a notice under paragraph 4 of Schedule 5 to this Act or to receive any relief under that Schedule.
+
+(4) Where different consents are required in respect of different parts of any property, those different parts shall be treated as different properties for the purposes of subsection (3) above.
+
+(5) Paragraphs (a) and (b) of subsection (3) above shall not apply in the case of a failure to comply with a request under this section if the failure is the result of an express refusal to comply or permit compliance by one or more, but not both or all, of two or more persons whose compliance or permission is necessary.
+
+(6) The following, namely—
+
+(a) the withholding by any person of consent to the execution of preventive works on any property by the Corporation under this section; and
+
+(b) the failure to comply with any request to execute such works made by the Corporation under this section,
+
+are not to be regarded as unreasonable in a case to which section 9 above applies.
+
+(7) Where any such property as is mentioned in paragraph (a) of subsection (2) above is ecclesiastical property within the meaning of section 20 above, the [^F27]Church Commissioners[[^F27]Diocesan Board of Finance for the diocese in which the land is situated] shall be included among the persons whose consent is required by that paragraph.
+
+### [^F28]34 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F29]35 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 36 Land drainage systems.
+
+(1) Subject to subsections (2) to (4) below, the Corporation shall, in any area in England and Wales outside the Doncaster Drainage Area, from time to time carry out—
+
+(a) to the reasonable satisfaction of the appropriate drainage authority; and
+
+(b) in accordance with such arrangements as to timing as may be agreed or determined,
+
+such measures (if any) for remedying, mitigating or preventing any deterioration in a land drainage system, by reason of subsidence damage which has occurred or appears likely to occur, as may be reasonably required by the appropriate drainage authority.
+
+(2) The Corporation may elect, in respect of any such measures, not to carry out the measures themselves but to make to the appropriate drainage authority—
+
+(a) a payment equal to the cost reasonably incurred by the authority in carrying out the measures;or
+
+(b) if the authority propose to merge the carrying out of the measures with the execution of other works, payments equal to any sums from time to time shown to have been expended by the authority in carrying out the merged operations up to the appropriate amount;
+
+and in this subsection “the appropriate amount” means such aggregate amount as may be agreed or determined to be reasonable in all the circumstances, having regard to the expenditure which would have been incurred by the Corporation or by the authority in carrying out the measures.
+
+(3) The Corporation—
+
+(a) in a case where the measures fall to be carried out in connection with property comprised in a main river, shall make the appropriate election under subsection (2) above; and
+
+(b) in any other case, shall not unreasonably refuse any request to make that election received from the appropriate drainage authority;
+
+but the Corporation shall not be deemed to act unreasonably in refusing any such request received after the Corporation have begun to carry out the measures.
+
+(4) Notwithstanding anything in subsections (1) to (3) above, in any case where it is agreed or determined to be appropriate, the liability of the Corporation for the cost of any recurring measures may be discharged by a lump sum payment agreed or determined to represent the capital amount of that cost.
+
+(5) Section 16 above (except subsections (6) to (8)) shall apply in any case where—
+
+(a) a damage notice has been given to the Corporation in respect of any property; and
+
+(b) the Corporation are of the opinion with respect to all or any of the permanent works which would otherwise fall to be executed in connection with the property that—
+
+(i) the necessity for those works; or
+
+(ii) the nature or manner of their execution,
+
+is likely to be so affected by operations under this section, or under Part II of the [^M20]Doncaster Area Drainage Act 1929, as to make it unreasonable that those works should be executed for the time being;
+
+and in its application to any stop notice given by virtue of this subsection, section 17(1) above shall have effect as if it referred to the Corporation no longer being of such opinion as is mentioned in paragraph (b) above.
+
+(6) The Corporation shall, for the purpose of carrying out any measures under this section, have the like powers—
+
+(a) of surveying and entering on any land; and
+
+(b) of doing anything on land entered by them,
+
+as are conferred on the appropriate drainage authority by the enactments relating to land drainage; but nothing in this subsection shall apply in relation to any land occupied by or on behalf of the Crown.
+
+(7) Regulations made by the Secretary of State and the Minister of Agriculture, Fisheries and Food acting jointly may make provision—
+
+(a) with respect to the procedure to be followed by the Corporation and by the appropriate drainage authority in giving effect to the provisions of this section; and
+
+(b) for the determination of questions arising under this section between the Corporation and the authority.
+
+(8) In this section—
+
+- “agreed or determined” means agreed between the Corporation and the appropriate drainage authority or, in default of such agreement, determined in the manner provided by regulations under this section;
+- “the appropriate drainage authority” means—
+
+(a) in a case where the measures would fall to be carried out either in connection with a main river, or outside any internal drainage district[[^F30]—
+
+(i) in relation to measures to be carried out wholly in England, the Environment Agency;
+
+(ii) in relation to measures to be carried out wholly in Wales, the Natural Resources Body for Wales;
+
+(iii) in relation to measures to be carried out partly in England and partly in Wales, either of those bodies;]
+
+(b) in any other case, the internal drainage board in whose district the measures would fall to be carried out;
+
+- “the Doncaster Drainage Area” has the same meaning as in the Doncaster Area Drainage Act 1929;
+- “land drainage system” means a drainage system maintainable by a drainage authority;
+- “main river” means a main river for the purposes of [[^F31]Part IV of the Water Resources Act 1991].
+
+## Part V — Supplemental
+
+### Claims
+
+#### 37 Avoidance of double claims.
+
+(1) A person entitled to give a damage notice under Part II of this Act in respect of subsidence damage to any property shall not be entitled to proceed at the same time in respect of the same damage to that property with both—
+
+(a) such a notice; and
+
+(b) a claim against the Corporation or a licensee of the Corporation for damages or compensation arising apart from this Act;
+
+but a person so entitled may, subject to subsection (2) below, elect which notice or claim he will proceed with for the time being.
+
+(2) Where any person proceeds with such a notice or claim as is mentioned in paragraph (a) or (b) of subsection (1) above (“the original notice or claim”), he shall not be entitled to proceed with such a notice or claim as is mentioned in the other of those paragraphs unless—
+
+(a) it is determined, whether by agreement or otherwise, that he is entitled to none of the relief claimed by the original notice or claim; or
+
+(b) that notice or claim is withdrawn before it is determined.
+
+(3) Where two or more persons are entitled to give a damage notice under Part II of this Act in respect of the same subsidence damage to any property, subsections (1) and (2) above shall apply as if any election made by any one of them to proceed with such a notice had also been made by the other or others of them.
+
+(4) The provisions of this Act and of any other enactment making provision with respect to rights and liabilities between the Corporation and any government department, local authority or statutory undertakers in respect of—
+
+(a) the working of minerals under or adjacent to any property; or
+
+(b) the leaving of minerals unworked for the support of any property,
+
+shall have effect subject to the terms of any agreement with respect to such rights and liabilities which has been entered into between the Corporation and the department, authority or undertakers otherwise than in connection with a disposition of an interest in land and is for the time being subsisting.
+
+#### 38 Reimbursement of successful claimants’ expenses.
+
+(1) Where the Corporation—
+
+(a) take any remedial action; or
+
+(b) make any payment to, or make any living accommodation available to, any person under Part III of this Act,
+
+they shall also pay any costs or expenses to which subsection (2) below applies.
+
+(2) Subject to subsections (3) to (5) below, this subsection applies to any costs or expenses reasonably incurred by the claimant or any other person interested or, as the case may be, by the person in question—
+
+(a) for the purposes of, or for purposes connected with, the preparation and prosecution of his damage notice or claim; or
+
+(b) in the case of costs or expenses incurred by the claimant before the subsidence damage became evident, with a view to the possible preparation and prosecution of his damage notice.
+
+(3) Subsection (2) above does not apply to any costs or expenses incurred by the claimant or any other person interested—
+
+(a) in securing or attempting to secure the agreement or consent of any other person to the exercise by the Corporation of any such power as is mentioned in subsection (1)(a) of section 41 below; or
+
+(b) in pursuing an application under subsection (2) of that section.
+
+(4) Subsection (2) above does not apply to any costs or expenses incurred by the claimant or any other person interested more than four years before the giving of his damage notice.
+
+(5) Subsection (2) above does not apply to any costs or expenses incurred in or in connection with any proceedings before any tribunal, court or other person if an order for their payment has been or could have been made by that tribunal, court or other person.
+
+(6) The Secretary of State may by order—
+
+(a) substitute for the period specified in subsection (4) above (whether as originally enacted or as previously amended under this subsection) such other period as he thinks fit; or
+
+(b) direct that that subsection shall not apply in such circumstances as may be specified in the order.
+
+#### [^F32]39 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Disputes and complaints
+
+#### 40 Disputes: general.
+
+(1) Except as otherwise provided by or under this Act, any question arising under this Act shall, in default of agreement, be referred to and determined by the [[^F33]appropriate tribunal].
+
+(2) Where in any proceedings under this Act the question arises whether any damage to property is subsidence damage, and it is shown that the nature of the damage and the circumstances are such as to indicate that the damage may be subsidence damage, the onus shall be on the Corporation to show that the damage is not subsidence damage.
+
+(3) The tribunal, court or other person by whom any question is heard and determined under this Act may make such orders as may be necessary to give effect to its or his determinations and in particular may by order—
+
+(a) require the Corporation to carry out any obligations imposed upon them by this Act within such period as the tribunal, court or person may direct;
+
+(b) award damages in respect of any failure of the Corporation to carry out any such obligations.
+
+#### 41 Disputes about withholding of agreement or consent.
+
+(1) This section applies where in the case of any property—
+
+(a) the agreement or consent of two or more persons is required for the Corporation to exercise any power conferred by section 5(3) or (5), 10(2)(b) or 33(2)(a) above; and
+
+(b) the Corporation have reached agreement with or obtained the consent of one or more, but not both or all, of those persons.
+
+(2) If, on an application made by any of those persons or the Corporation, it appears—
+
+(a) in the case of property in England and Wales, to a county court; or
+
+(b) in the case of property in Scotland, to the sheriff,
+
+that any person whose agreement or consent is so required has withheld his agreement or consent unreasonably, the court or the sheriff may order that the provision conferring the power in question shall apply in the case of the property as if the Corporation had reached agreement with or obtained the consent of that person.
+
+#### 42 Disputes about access etc. to premises.
+
+(1) If the occupier of any premises refuses to afford the Corporation such facilities as they may require for the purposes of any provision of this Act (other than section 36 above) to enter upon, inspect and execute works on those premises, then—
+
+(a) in the case of premises in England and Wales, a magistrates’ court on a complaint made by the Corporation;
+
+(b) in the case of premises in Scotland, the sheriff on an application so made,
+
+may confer such powers to enter, inspect and execute works on the premises as may appear to the court or the sheriff to be necessary, and may order the occupier to permit the exercise of those powers.
+
+(2) Nothing in subsection (1) above shall apply to any premises occupied by or on behalf of the Crown.
+
+#### [^F34]43 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 44 Time limits for certain disputes.
+
+(1) This section applies to any question arising under this Act as to whether the Corporation are in breach of their remedial obligation in respect of any subsidence damage.
+
+(2) No question to which this section applies shall be heard and determined by any tribunal, court or other person unless the necessary reference is made, or the necessary proceedings are instituted, before the end of whichever of the following periods last expires, namely—
+
+(a) the period of three years beginning with the earliest date on which the Corporation are in breach of their remedial obligation; and
+
+(b) the period allowed by section 3 above for giving a damage notice with respect to the damage (the period of six years beginning with the date given by subsection (3) of that section).
+
+(3) For the purposes of subsection (2) above, any period during which the Corporation’s remedial obligation is subject to the terms of a stop notice shall be disregarded.
+
+#### [^F35]45 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Notices, information and reports
+
+#### 46 Notices to property owners etc.
+
+(1) Subject to subsection (2) below, where it is proposed to carry on any underground coal-mining operations, the Corporation—
+
+(a) shall give to the owners or occupiers of any land which might be affected by subsidence as a result of the operations notice that there is a risk of their land being so affected; and
+
+(b) shall give notice that they have done so to any organisation appearing to them to be representative of those owners or occupiers.
+
+[^F36]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) Where notice has been given under subsection (1)(a) above in respect of any land, the Corporation shall give to the owners or occupiers notice of any of the following facts, that is to say—
+
+(a) any decision not to proceed with the proposed operations;
+
+(b) anything which gives the Corporation reason to believe that there is no longer any risk of the land being affected by subsidence; and
+
+(c) the discontinuance of any operations which have been carried on.
+
+(4) Where notice has been given under subsection (1)(a) above in respect of any land, the Corporation shall from time to time, until notice is given under subsection (3) above in respect of that land, give notice to the owners or occupiers reminding them of any risk there may be of the land being, or having been, affected by subsidence.
+
+(5) The Secretary of State may by regulations make provision as respects—
+
+(a) the contents and form of notices under this section;
+
+(b) the times at which and the manner in which such notices are to be given;
+
+(c) any information [[^F37], forms and documents which are] to accompany such notices.
+
+(6) If no other time for giving a notice under subsection (4) above is prescribed under subsection (5)(b) above, the Corporation shall give the notice within the period of one year beginning with the date on which the most recent notice under this section was given.
+
+(7) If no other manner for giving a notice under this section is so prescribed, the Corporation shall take all reasonably practicable steps for bringing the notice to the attention of the person to whom the notice is to be given.
+
+(8) In this section—
+
+(a) references to land include references to any buildings, structures or works on, in or over land; and
+
+(b) references, in relation to any land, to the owners or occupiers include references to any person who is the owner or occupier of any part of the land or is liable to make good in whole or in part any subsidence damage affecting the land.
+
+#### 47 Notices to local authorities.
+
+(1) Subject to subsection (3) below, where it is proposed to carry on any underground coal-mining operations, the Corporation shall give notice of the operations to any local authority whose area includes land which may be affected by subsidence as a result of the operations.
+
+(2) Subject to subsection (3) below, where any underground coal-mining operations are being carried on, the Corporation shall give notice of such facts as may be prescribed to any local authority whose area includes land which has been or may be affected by subsidence as a result of the operations.
+
+[^F38]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) The Secretary of State may by regulations make provision as respects—
+
+(a) the contents and form of notices under this section;
+
+(b) the times at which such notices are to be given;
+
+(c) any information [[^F39], forms and documents which are] to accompany such notices.
+
+(5) Each local authority shall—
+
+(a) secure that copies of all notices and other information received by them under this section are made available, at all reasonable times, for inspection by the public free of charge; and
+
+(b) provide facilities for obtaining copies of such documents on payment of a reasonable fee.
+
+(6) In this section “local authority” means—
+
+(a) in relation to England [^F40]. . ., the council of a district or non-metropolitan county;
+
+[[^F41](aa) in relation to Wales, the council of a county or county borough;]
+
+(b) in relation to Scotland, a [[^F42]council constituted under section 2 of the Local Government etc. (Scotland) Act 1994].
+
+#### [^F43]48 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 49 Reports on operation of Act.
+
+(1) The Secretary of State may give directions to the Corporation requiring them, on or before a specified date or at specified intervals, to make a report to him on, or on any specified matters relating to, the operation of this Act during any specified period or periods.
+
+(2) Directions given under this section may—
+
+(a) specify the matters to be dealt with, and any particular information to be given, in any such report and the form in which any such report is to be made; and
+
+(b) require the Corporation to publish any such report in any specified manner.
+
+(3) The Secretary of State shall lay before Parliament a copy of every report received by him under this section.
+
+[^F44]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### General
+
+#### 50 Regulations and orders.
+
+(1) Any power of the Secretary of State or the Ministers to make regulations or orders under this Act shall be exercisable by statutory instrument and shall include power—
+
+(a) to make different provision for different cases or classes of case; and
+
+(b) to make such supplementary, incidental, consequential or transitional provisions as the Secretary of State or the Ministers consider necessary or expedient.
+
+(2) A statutory instrument containing any regulations or order under this Act (other than an order under section 54(2) below) shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(3) In this section “the Ministers” means the Secretary of State and the Minister of Agriculture, Fisheries and Food acting jointly.
+
+#### 51 [[^F45] Service of documents
+
+Section 63 of the Coal Industry Act 1994 (service of documents) shall apply in relation to any notice, request, claim or other document which is required or authorised by virtue of this Act to be served on any person (whether by being given, made or sent to that person or otherwise) as it applies in relation to any document which is required or authorised to be served on any person by virtue of that Act.]
+
+#### 52 Interpretation etc.
+
+[^F46]1 In this Act, unless the context otherwise requires—
+
+- “agriculture”, “agricultural” and “agricultural land”—
+
+(a) in relation to England and Wales, have the meanings given by section 109 of the [^M21]Agriculture Act 1947;
+
+(b) in relation to Scotland, have the meanings given by section 86 of the [^M22]Agriculture (Scotland) Act 1948;
+
+- “agricultural unit”—
+
+(a) in relation to England and Wales, has the meaning given by section 171(1) of the [^M23]Town and Country Planning Act 1990;
+
+(b) in relation to Scotland, has the meaning given by section 196(1) of the [^M24]Town and Country Planning (Scotland) Act 1972;
+
+- [[^F47]“the appropriate tribunal” means—
+
+  - in relation to England and Wales, the Upper Tribunal;
+  - in relation to Scotland, the Lands Tribunal for Scotland;]
+
+- “claim” means a claim in writing;
+
+- “the claimant” and “any other person interested” have the meanings given by section 3(6) above;
+
+- “coal” has the same meaning as in Part I of the [^M25]Coal Act 1938;
+
+- “the Corporation” means the British Coal Corporation;
+
+- “damage notice” has the meaning given by section 3(2) above;
+
+- “depreciation payments” has the meaning given by section 2(5)(b) above;
+
+- “dwelling-house”—
+
+(a) in relation to England and Wales, means any building or part of a building used wholly or partly as a private dwelling, together with any yard, garden, outhouses and appurtenances belonging to or usually enjoyed with that building or part;
+
+(b) in relation to Scotland, means a house including any part of a building, being a part which is occupied or intended to be occupied as a separate dwelling, and including, in particular, any flat, together with any yard, garden, outhouses and pertinents belonging to and usually enjoyed with the house;
+
+- “emergency works” has the meaning given by section 12(1) above;
+- “ground lease” means a lease for building purposes at a rent (or, where the rent varies, at a maximum rent) which does not substantially exceed the rent which a tenant might reasonably have been expected, at the date when the lease was granted, to pay for the land comprised in the lease, excluding any buildings, for a term equal to the term created by the lease;
+- “housing clearance powers” means Part IX of the [^M26]Housing Act 1985 (slum clearance) or Part VI of the [^M27]Housing (Scotland) Act 1987 (closing and demolition orders);
+- [^F48]...
+- “notice” means notice in writing and “notify” shall be construed accordingly;
+- “notice of proposed remedial action” has the meaning given by section 4(4) above;
+- “owner”—
+
+(a) in relation to any real property in England and Wales, means the lessee under the ground lease if it is held on such a lease, and the owner of the fee simple if it is not;
+
+(b) [^F49]in the case of any heritable property in Scotland, means the proprietor of the*[^F49]dominium utile*[^F49] if the property is feudal property, and the owner of the property if it is not;
+
+- “payments in lieu” has the meaning given by section 2(5)(a) above;
+- “prescribed” means prescribed by regulations made by the Secretary of State;
+- “remedial obligation” has the meaning given by section 2(3) above;
+- “remedial works” has the meaning given by subsection (2) of section 6 above (subject to subsection (7) of that section);
+- “request” means a request in writing;
+- “schedule of remedial works” has the meaning given by section 6(8) above;
+- “statutory undertakers” means—
+
+(a) any persons authorised by any enactment to carry on any railway, light railway, tramway, road transport, water transport, canal, inland navigation, dock, harbour, pier or lighthouse undertaking or any undertaking for the supply of hydraulic power; and
+
+(b) any of the following, namely, any licence holder within the meaning of the [^M28]Electricity Act 1989, any public gas supplier, any water or sewerage[[^F50]undertaker, the Environment Agency, the Natural Resources Body for Wales, any electronic] communications code operator, any former PTO, [[^F51]any universal service provider in connection with the provision of a universal postal service], the Civil Aviation Authority [[^F52], any person who holds a licence under Chapter I of Part I of the Transport Act 2000 (to the extent that the person is carrying out activities authorised by the licence)] and any relevant airport operator within the meaning of Part V of the [^M29]Airports Act 1986;
+
+- “stop notice” has the meaning given by section 16(4) above;
+- “structure” includes any works providing passage or hard standing for persons, animals or vehicles (including railway or tramway vehicles and aircraft);
+- “subsidence damage” has the meaning given by section 1 above;
+
+[[^F53]“universal service provider” has the same meaning as in the [[^F54]Part 3 of the Postal Services Act 2011]; and any reference to the provision of a universal postal service shall be construed in accordance with [[^F55]that Part];]
+
+- “works” includes sewers, drains, pipes, cables, wires and any other apparatus.
+
+(2) References in this Act, in relation to any damage, to a notice affecting the required remedial action in respect of the damage are references to—
+
+(a) any notice of proposed remedial action with respect to that damage; and
+
+(b) any notice with respect to a decision by the Corporation to make or revoke an election to take in respect of that damage any remedial action other than that indicated in any such notice as is mentioned in paragraph (a) above.
+
+(3) References in this Act, in relation to any interest payable by the Corporation, to the applicable rate are references to such rate as may from time to time be prescribed by order made by the Secretary of State; and an order under this subsection—
+
+(a) may apply different rates in relation to different periods;
+
+(b) may include provision for a nil rate to apply in relation to any period; and
+
+(c) may fix any rate by specifying it or by applying any rate for the time being applicable for any other purpose (whether statutory or otherwise).
+
+#### 53 Transitional provisions, savings and repeals.
+
+(1) The transitional provisions and savings contained in Schedule 7 to this Act shall have effect; but nothing in this subsection shall be taken as prejudicing the operation of sections 16 and 17 of the [^M30]Interpretation Act 1978 (which relate to the effect of repeals).
+
+(2) The enactments mentioned in Schedule 8 to this Act are hereby repealed to the extent specified in the third column of that Schedule.
+
+#### 54 Short title, commencement and extent.
+
+(1) This Act may be cited as the Coal Mining Subsidence Act 1991.
+
+(2) This Act shall come into force on such day as the Secretary of State may by order appoint, and different days may be appointed for different provisions or for different purposes.
+
+(3) Without prejudice to the provisions of Schedule 7 to this Act, an order under subsection (2) above may make such transitional provisions and savings as appear to the Secretary of State necessary or expedient in connection with any provision brought into force by the order.
+
+(4) This Act does not extend to Northern Ireland.
+
+## SCHEDULE 1 — Determination of Amount of Depreciation Payments
+
+*Section 14(4).*
+
+### Units of property
+
+**1** (1) Subject to sub-paragraph (2) below, the unit of property to be taken into account for any purposes of section 10 or 11 of this Act (depreciation payments) shall be—
+
+(a) where any property affected constitutes or is comprised in a dwelling-house, that dwelling-house;
+
+(b) where any property affected, other than property to which paragraph (a) above applies, is situated in England and Wales and is a relevant non-domestic hereditament for the purposes of Part III of the [^M31]Local Government Finance Act 1988, that hereditament;
+
+(c) where any property affected, other than property to which paragraph (a) above applies, is situated in Scotland and is lands and heritages entered in the valuation roll, those lands and heritages; and
+
+(d) in any other case, such unit consisting of or comprising any property affected as may be equitable in all the circumstances of the case.
+
+(2) If it is equitable in all the circumstances of the case to do so, two or more units of property, or a unit of property part only of which is property affected, may in either case be treated for those purposes either—
+
+(a) as a single unit of property; or
+
+(b) as consisting of such separate units of property as may be equitable in those circumstances.
+
+(3) In this paragraph any reference to property affected is a reference to property which has been affected by subsidence damage.
+
+### Basis of valuation
+
+**2** (1) For any purposes of section 10 or 11 of this Act, the value of a unit of property at any time shall be taken to be the amount which it might be expected to realise in the state in which it is at that time on a sale effected at that time.
+
+(2) In the case of property comprising land or buildings the sale referred to in sub-paragraph (1) above is a sale of the fee simple in the open market and with vacant possession, subject to—
+
+(a) any restrictive covenant, easement, quasi-easement or other right inuring for the benefit of other land;
+
+(b) any public right of way, right of common or other right inuring for the benefit of the public or any section of the public; and
+
+(c) any restriction imposed by or under any enactment,
+
+to which the property is subject at the time of the sale, but free from any other incumbrance.
+
+(3) In the case of property within sub-paragraph (2) above, the value shall be determined without regard to any liability of the property to become subject after the time of the sale to any restriction by virtue of any enactment other than—
+
+(a) a demolition or closing order made under housing clearance powers; or
+
+(b) where the property is situated in England and Wales, the declaration of an area to be a clearance area under such powers.
+
+(4) In the case of a unit of property consisting of or comprising property of a kind not normally the subject of sales in the open market, provision may be made by regulations made by the Secretary of State for ascertaining the value of the property in any state by reference to such matters as may be specified in the regulations.
+
+(5) In determining for the purposes of the preceding provisions of this paragraph the value of any property which has been affected by subsidence damage, any right to a depreciation payment in respect of that damage shall be disregarded.
+
+(6) In the application of this paragraph to Scotland—
+
+- “fee simple” means[^F56], in the case of feudal property, the estate or interest of the proprietor of thedominium utile or, in the case of property other than feudal property, the estate or[[^F56]the] interest of the owner;
+- [^F57]"incumbrance” means any ground annual or other incumbrance or any liability to pay feuduty; and
+- “easement” means servitude.
+
+### Amount of depreciation
+
+**3** (1) For the purposes of section 10 or 11 of this Act the amount of the depreciation in the value of a unit of property caused by any subsidence damage shall be taken to be the amount by which the value of the property at the relevant time is less than what would have been its value at that time (determined in accordance with paragraph 2 above) if it had not been affected by the damage.
+
+(2) For the purposes of this paragraph the relevant time—
+
+(a) in relation to the determination of the amount of a depreciation payment under section 10 of this Act (discretionary depreciation payments), is the time immediately after the date on which the Corporation gives to the claimant a notice of proposed remedial action with respect to the damage;
+
+(b) in relation to the determination of the amount of a depreciation payment under subsection (1) of section 11 of this Act (obligatory depreciation payments), is whichever is the later of the time mentioned in paragraph (a) above and the time immediately after—
+
+(i) the service of the notice to treat;
+
+(ii) the making of the demolition or closing order; or
+
+(iii) where the property is situated in England and Wales, the declaration of the area to be a clearance area,
+
+by virtue of which the obligation to make the payment arises; and
+
+(c) in relation to the determination of the amount of a depreciation payment under subsection (3) of section 11 of this Act (obligation to make a depreciation payment in respect of depreciation continuing after completion of remedial works), is the time immediately after the completion of the remedial works.
+
+### Interest on depreciation payments
+
+**4** (1) Subject to sub-paragraph (2) below, so much of the amount of any depreciation payment as for the time being remains unpaid by the Corporation shall carry interest at the applicable rate (if any) in respect of any period falling—
+
+(a) after the relevant time for the purposes of paragraph 3 above in relation to that payment; and
+
+(b) before the whole amount and any accrued interest is paid.
+
+(2) Any period of delay in determining the amount of any such payment which is attributable to unreasonable conduct on the part of the claimant or any other person interested shall be disregarded for the purposes of sub-paragraph (1) above.
+
+## SCHEDULE 2 — Recipients of Depreciation Payments: Special Cases
+
+*Section 15(5).*
+
+### Mortgages
+
+**1** (1) Subject to paragraph 2 below, where [^F58]. . . the interest in the property in question of any person to whom, apart from this paragraph or paragraph 4 below, the whole or part of a depreciation payment would fall to be made was subject to a mortgage at the time when the subsidence damage became evident (“the relevant time”), the payment or that part of the payment shall be paid to the mortgagee.
+
+(2) The mortgagee shall be liable to account for such a payment as if it had been proceeds of sale of the mortgaged interest arising under a power of sale exercised by the mortgagee at the relevant time, except that the mortgagee shall not be entitled to credit for any costs incurred by him in connection with the claiming, ascertainment, apportionment or making of the payment.
+
+(3) In this paragraph and paragraph 2 below “mortgage”, in relation to property situated in Scotland, means a heritable security within the meaning of section 9 of the [^M32]Conveyancing and Feudal Reform (Scotland) Act 1970, and “mortgagee”, in relation to such property, means the creditor under the heritable security.
+
+**2** (1) The following provisions of this paragraph apply in the circumstances mentioned in paragraph 1(1) above.
+
+(2) If at the time when the depreciation payment is made the debt secured by the mortgage (other than any part of it representing costs for which the mortgagee would not be entitled to credit) has been paid in full, the depreciation payment shall be disposed of as if the interest had not been subject to the mortgage.
+
+(3) If the interest was subject to two or more successive mortgages, paragraph 1 above shall have effect with the substitution for references to the mortgagee of references to the first mortgagee or, if sub-paragraph (2) above has effect in relation to the first mortgage, to the second mortgagee, and so on.
+
+(4) Paragraph 1 above shall have effect in any case, as regards any mortgage, subject to any agreement between the mortgagee and the person who apart from that mortgage would have been entitled to receive the depreciation payment or part of that payment.
+
+### Rentcharges
+
+**3** (1) The Secretary of State may by regulations make provision as to the person to whom a depreciation payment or any part of it is to be paid in cases where the interest in the property in question of a person to whom, apart from this paragraph or paragraph 4 below, the whole or part of the payment would fall to be paid was at the relevant time subject to a rentcharge.
+
+(2) In this paragraph “rentcharge” means—
+
+(a) in relation to property situated in England and Wales, any annual or other periodic sum charged on or issuing out of land, except rent reserved by a lease or tenancy and any sum payable by way of interest;
+
+(b) [^F59]in relation to property situated in Scotland, a feuduty or a ground annual.
+
+### Settlements etc.
+
+**4** (1) Where in the case of property situated in England and Wales the interest in the property of the person to whom, apart from this sub-paragraph, the whole or part of a depreciation payment would fall to be paid is—
+
+(a) subject to a settlement; or
+
+(b) otherwise held in such manner that the person entitled to the interest would not be competent to give an effective discharge for the proceeds of a sale of the interest,
+
+that payment or that part of that payment shall be paid to the person competent to give such a discharge.
+
+(2) Where in the case of property situated in Scotland the interest in the property of the person to whom the whole or part of a depreciation payment falls to be paid is subject to—
+
+(a) a trust within the meaning of the [^M33]Trusts (Scotland) Act 1921; or
+
+(b) [^F60]an entail or a life-rent,
+
+that person shall hold and apply that payment or that part of that payment in like manner as if the interest had been acquired under compulsory powers and the payment or that part of it were the purchase money or compensation for that interest.
+
+### Effect of devises or bequests
+
+**5** Where the interest in the property in question of the person to whom the whole or part of a depreciation payment falls to be paid, or the proceeds of sale of that interest, are the subject of a devise or bequest, that devise or bequest shall be treated as including that payment or that part of that payment.
+
+### Sale and compulsory acquisition
+
+**6** (1) Where the interest in the property in question of the person to whom the whole or part of a depreciation payment falls to be paid is the subject of—
+
+(a) a contract of sale made before the relevant time; or
+
+(b) a notice to treat served before that time under an enactment authorising the compulsory acquisition of the interest,
+
+that payment or that part of that payment shall (subject to sub-paragraph (2) below) be held by that person in trust for the purchaser unless the contract is rescinded or the notice ceases to have effect.
+
+(2) Any lien upon that interest to which that person is entitled by virtue of the contract shall extend to that payment or that part of that payment.
+
+(3) In the application of sub-paragraph (1) above to Scotland, the reference to the service of a notice to treat includes a reference to the deemed service of such a notice.
+
+## SCHEDULE 3 — Property Belonging to Protected Tenants
+
+*Section 21(1).*
+
+### Protected tenant treated as liable to make good the damage
+
+**1** (1) Subject to paragraph 2 below, the protected tenant shall be treated for the purposes of this Part of this Act—
+
+(a) as a person liable to make good the whole of the damage to the property; or
+
+(b) in the circumstances mentioned in sub-paragraph (2) below, as a person liable to meet such part of the cost of making good the whole of that damage as is given by the formula mentioned in sub-paragraph (3) below.
+
+(2) The circumstances referred to in sub-paragraph (1)(b) above are that, by reason of any other enactment contained in the relevant Act or Acts, compensation in respect of the damaged property would have been payable to the protected tenant of less than the amount provided for by whichever of the following enactments would otherwise have been applicable, namely—
+
+(a) section 1(1) of the [^M34]Landlord and Tenant Act 1927;
+
+(b) section 66(1) of and paragraph 2(1) of Part I of Schedule 9 to the [^M35]Agricultural Holdings Act 1986;
+
+[[^F61](bb) section 20 of the Agricultural Tenancies Act 1995;]
+
+(c) sections 38 and 49(1) of the [^M36]Agricultural Holdings (Scotland) Act 1949;
+
+(d) so much of section 10 of the [^M37]Crofters Holdings (Scotland) Act 1886 as precedes the proviso; and
+
+(e) section 6(2) of the [^M38]Crofters (Scotland) Act 1961.
+
+(3) The formula referred to in sub-paragraph (1)(b) above is—
+
+P = (C)/(A) where— - P is such part of the cost of making good the whole of the damage to the property as the protected tenant is to be treated as a person liable to meet; - C is the compensation which would have been payable to the protected tenant by reason of the other enactment contained in the relevant Act or Acts; - A is the amount provided for by whichever of the enactments mentioned in sub-paragraph (2) above would otherwise have been applicable.
+
+(4) Any question arising under this paragraph in relation to any property—
+
+(a) as to whether or not any person is a protected tenant; or
+
+(b) as to the amount of any compensation which would have been payable to him under the relevant Act or Acts,
+
+shall be determined in like manner as if it had arisen under the relevant Act or Acts.
+
+### Circumstances in which Schedule applies
+
+**2** (1) Where in the case of any damaged property—
+
+(a) it is claimed that a person who, apart from the provisions of this Schedule, is neither the owner of, nor liable to make good in whole or in part the damage to, the property falls to be treated as so liable by virtue of paragraph 1 above; and
+
+(b) a damage notice is given in respect of the property, whether by that or any other person,
+
+that person shall not be treated as so liable except in the circumstances mentioned in sub-paragraph (2) below.
+
+(2) The circumstances referred to in sub-paragraph (1) above are—
+
+(a) that it is agreed between the person in question and his landlord before the end of the period of one month beginning with the first giving of a damage notice in respect of the property, or it is determined in proceedings by virtue of paragraph 1(4) above begun before the end of that period, that he is a protected tenant and the property belongs to him; and
+
+(b) that notice of that agreement or of the beginning of those proceedings has been given to the Corporation before the end of that period.
+
+(3) Where the liability of the Corporation to comply with any requirement of this Part of this Act in consequence of the giving of a damage notice depends on the determination of the question whether or not a person falls to be treated as liable as mentioned in sub-paragraph (1) above, the Corporation shall not be required to comply with that requirement until it is established in accordance with the provisions of that sub-paragraph whether or not that person falls to be so treated.
+
+(4) For the purposes of sub-paragraph (2) above, proceedings to determine by arbitration whether or not a person is a protected tenant by virtue of the [^M39]Agricultural Holdings Act 1986 or the [^M40]Agricultural Holdings (Scotland) Act 1949 shall be deemed to be begun when either—
+
+(a) an arbitrator or, as the case may be, an arbiter has been appointed by agreement between that person and his landlord; or
+
+(b) an application for the appointment of an arbitrator or, as the case may be, an arbiter has been made by that person or his landlord to the President of the Royal Institution of Chartered Surveyors or, as the case may be, the Secretary of State.
+
+### Supplemental
+
+**3** The following enactments, namely—
+
+(a) section 8(1) of the [^M41]Small Landholders (Scotland) Act 1911 other than the provisos (which provides that an agreement for a loan by the Secretary of State to a landholder shall effect a transfer to the Secretary of State of all rights of the landholder to compensation for permanent improvements); and
+
+(b) section 23(3) of the [^M42]Crofters (Scotland) Act 1955 (which makes corresponding provision in relation to an agreement for a loan by the Secretary of State to a crofter),
+
+shall have effect as if the references to such compensation included references to any amount payable to a landholder or crofter by virtue of this Schedule.
+
+## SCHEDULE 4 — Home Loss Payments
+
+*Section 22(1).*
+
+### Right to home loss payment
+
+**1** (1) Subject to the provisions of this Schedule, any person who is displaced from the dwelling-house shall be entitled to receive a payment (a “home loss payment”) from the Corporation.
+
+(2) A person shall not be entitled to a home loss payment unless the following conditions have been satisfied throughout the period of one year ending with the date of displacement—
+
+(a) he has been in occupation of the dwelling-house, or a substantial part of it, as his only or main residence; and
+
+(b) he has been in such occupation by virtue of an interest or right to which this section applies,
+
+but, if those conditions are satisfied on the date of displacement, a payment (a “discretionary payment”) may be made to him of an amount not exceeding the amount to which he would have been entitled if he had satisfied those conditions throughout that period.
+
+(3) A person shall not be entitled to a home loss payment so long as any application made by him under paragraph 3(3) of Schedule 5 to this Act (challenge to the validity of a notice given by the Corporation under paragraph 3(1)(b) of that Schedule) has been neither determined nor withdrawn.
+
+(4) This paragraph applies to the following interests and rights, namely—
+
+(a) any interest in the dwelling-house;
+
+(b) a right to occupy the dwelling-house as a statutory tenant within the meaning of the [^M43]Rent Act 1977 or under a restricted contract within the meaning of that Act or a contract which would be such a contract if the contract or dwelling-house were not excluded by section 19(4) or (5)(b) of that Act;
+
+(c) a right to occupy the dwelling-house as a statutory tenant within the meaning of the [^M44]Rent (Scotland) Act 1984 or under a contract to which Part VII of that Act (contracts) applies or would apply if the contract or dwelling-house were not excluded by section 63(3)(a) or by an order under section 64 of that Act;
+
+(d) a right to occupy the dwelling-house under a licence to which Part IV of the [^M45]Housing Act 1985 (secure tenancies) [[^F62]or Chapter 1 of Part V of the Housing Act 1996 (introductory tenancies)] applies;
+
+(e) a right to occupy the dwelling-house under a contract of employment [[^F63];]
+
+[[^F64](f) in the case of a dwelling-house in Wales, a right to occupy the dwelling-house under a licence which is a secure contract or under an introductory standard contract.]
+
+(5) Where an interest in a dwelling-house is vested in trustees (other than a sole tenant for life within the meaning of the [^M46]Settled Land Act 1925) and a person beneficially entitled (whether directly or derivatively) under the trust is entitled or permitted by reason of his interest to occupy the dwelling-house, he shall be treated for the purposes of this paragraph as occupying it by virtue of an interest in the dwelling-house.
+
+(6) In the application of sub-paragraph (5) above to Scotland, the words “(other than a sole tenant for life within the meaning of the Settled Land Act 1925)” shall be omitted.
+
+[[^F65](7) In this paragraph the following terms have the same meaning as in the Renting Homes (Wales) Act 2016 (anaw 1)—
+
+- “introductory standard contract” (see section 16 of that Act);
+- “secure contract” (see section 8 of that Act).]
+
+### Amount of home loss payment
+
+**2** (1) In the case of a person who on the date of displacement is occupying, or is treated for the purposes of paragraph 1 above as occupying, the dwelling-house by virtue of an interest in it which is an owner’s interest, the amount of the home loss payment shall be the aggregate of—
+
+(a) 10 per cent. of the value of his interest in the dwelling-house or, as the case may be, the interest in the dwelling-house vested in trustees, subject to a maximum of £15,000 and a minimum of £1,500; and
+
+(b) his reasonable expenses in removing from the dwelling-house.
+
+(2) In the case of any other person, the amount of the home loss payment shall be the aggregate of £1,500 and his reasonable expenses in removing from the dwelling-house.
+
+(3) The Secretary of State may from time to time by regulations prescribe a different maximum or minimum for the purposes of sub-paragraph (1)(a) above and a different amount for the purposes of sub-paragraph (2) above.
+
+(4) In this paragraph any reference to the value of an interest in the dwelling-house shall be taken to be a reference to the value of that interest immediately before the deterioration in the condition of the dwelling-house; and paragraph 2 of Schedule 1 to this Act shall apply for the purpose of determining that value as it applies for the purpose of determining the value of a unit of property at any time for the purposes of section 10 or 11 of this Act.
+
+(5) In this paragraph “owner’s interest” means—
+
+(a) in relation to a dwelling-house situated in England and Wales, the interest of a person who is an owner as defined in section 7 of the [^M47]Acquisition of Land Act 1981; or
+
+(b) in relation to a dwelling-house situated in Scotland, the interest of a person who is an owner as defined in section 45(1) of the [^M48]Land Compensation (Scotland) Act 1963.
+
+### Supplementary provisions
+
+**3** (1) The Corporation shall not be liable to make a home loss payment except on a claim made by the person entitled to it (“the claimant”) giving such particulars as the Corporation may reasonably require for the purpose of determining whether the payment should be made and, if so, its amount.
+
+(2) Where a person is entitled to a home loss payment, the payment shall be made within the period of three months beginning with the date on which the claim is made.
+
+(3) Where the claimant has satisfied, throughout any period, the conditions mentioned in sub-paragraph (2) of paragraph 1 above, that period shall be treated for the purposes of that sub-paragraph as including any immediately preceding period throughout which—
+
+(a) he has resided in the dwelling-house as his only or main residence but without satisfying those conditions; and
+
+(b) another person or other persons have satisfied those conditions,
+
+and references in this sub-paragraph and sub-paragraph (4) below to a dwelling-house include a reference to a substantial part of it.
+
+(4) Where the claimant has satisfied, throughout any period, the conditions mentioned in paragraph 1(2) above, that period (or that period as extended under sub-paragraph (3) above) shall be treated for the purposes of paragraph 1(2) above as including any immediately preceding period, or successive periods, throughout which he satisfied the conditions mentioned in paragraph 1(2) above in relation to another dwelling-house or, as the case may be, other dwelling-houses (applying sub-paragraph (3) above to determine the length of any period or periods).
+
+(5) Where a person (“the deceased”) entitled to a home loss payment dies without having claimed it, a claim to the payment may be made, by any person (not being under the age of eighteen years) who, throughout a period of not less than one year ending with the date of displacement of the deceased, has resided in the dwelling-house, or a substantial part of it, as his only or main residence, and is entitled to benefit—
+
+(a) in England and Wales, by virtue of testamentary dispositions taking effect on, or the law of intestate succession or the right of survivorship between joint tenants as applied to, the death of the deceased; or
+
+(b) in Scotland, by virtue of a testamentary disposition or any other deed with testamentary effect taking effect on, or the law of intestate succession as applied to, the death of the deceased or a right to*jus relicti*,*jus relictae* or*legitim* out of the deceased’s estate.
+
+(6) Where the claimant has successively been in occupation of or resided in different dwelling-houses in the same building, being dwelling-houses consisting of a room or rooms not constructed or structurally adapted for use as a separate dwelling, paragraph 1(2) above and sub-paragraphs (3) to (5) above shall have effect as if those dwelling-houses were the same dwelling-house.
+
+(7) Where there are two or more persons entitled to make a claim to a home loss payment in respect of the same dwelling-house (whether by virtue of joint occupation or of sub-paragraph (5) above) the payment to be made on each claim shall be equal to the whole amount of the home loss payment divided by the number of such persons.
+
+## SCHEDULE 5 — Relief for Temporary Dispossession
+
+*Section 23(1).*
+
+### Preliminary
+
+**1** In this Schedule—
+
+- “the local authority” means the local authority within the meaning of the [^M49]Housing Act 1985, or the local authority within the meaning of the [^M50]Housing (Scotland) Act 1987, in whose area the dwelling-house is situated;
+- “the occupier” means the person who immediately before the deterioration in the condition of the dwelling-house was entitled to possession of it;
+- “the period of dispossession” means the period during which the requirements of section 23(2) of this Act are satisfied;
+- “rent” includes any mortgage interest, interest on a heritable security, service charges or water charges payable in respect of a dwelling-house and any community charges payable in respect of periods of residence in, or periods of having an interest in, a dwelling-house;
+- “resident” means any person ordinarily resident in the dwelling-house during the period immediately preceding the deterioration in its condition.
+
+### Obligations of Corporation
+
+**2** (1) Subject to the following provisions of this Schedule, in the case of any resident, the Corporation shall so long as the period of dispossession lasts be under an obligation at all times—
+
+(a) to make available alternative living accommodation which is of a standard comparable to the general standard of the housing accommodation under the management of the local authority and is otherwise reasonable having regard to all the circumstances, including the probable duration of the period of dispossession; or
+
+(b) to pay to the resident the amount, if any, by which the aggregate expenditure reasonably incurred by him by way of rent, food, living accommodation, heating, light and other household expenses exceeds what it would have been if the subsidence damage had not occurred and he had continued to reside in the dwelling-house.
+
+(2) The Corporation shall not be under any obligation under sub-paragraph (1) above in respect of any part of the period of dispossession during which, irrespective of the subsidence damage, the resident in question would not have been residing at the dwelling-house.
+
+(3) Subject to paragraph 4(2) and (3) below, and without prejudice to their liability under sub-paragraph (1) above in respect of any part of the period of dispossession falling before the making of their election, the Corporation may elect which of the two courses open to them under sub-paragraph (1) above they will for the time being adopt in any particular case.
+
+(4) In the case of any resident towards whom the Corporation are under an obligation by virtue of sub-paragraph (1) above, they shall also be under an obligation to pay—
+
+(a) his reasonable expenses in removing from the dwelling-house of which he is temporarily dispossessed; and
+
+(b) any expenses reasonably incurred by him in consequence of the temporary dispossession.
+
+### Cessation of obligations
+
+**3** (1) Subject to sub-paragraphs (2) and (3) below, the obligations of the Corporation towards any resident under paragraph 2(1) above shall cease, notwithstanding that the period of dispossession has not expired—
+
+(a) if the occupier has ceased (otherwise than by reason of his death) to be entitled to possession of the dwelling-house or, as the case may be, of the site of the dwelling-house; or
+
+(b) on the expiration of a period of six months from the service by the Corporation on the resident in question of notice of the opinion of the Corporation—
+
+(i) that the period of dispossession will continue indefinitely or will be unreasonably long; or
+
+(ii) that the resident in question will not resume residence at or on the site of the dwelling-house at the expiration of that period.
+
+(2) Where a damage notice has been given in respect of the dwelling-house, the Corporation shall not be entitled to give a notice under sub-paragraph (1)(b)(i) above—
+
+(a) unless the Corporation have elected to make a payment under section 8 or 10 of this Act or are obliged to make a payment under section 11(1) of this Act; or
+
+(b) while a notice under section 16(2) of this Act is in force with respect to the dwelling-house.
+
+(3) Any person upon whom a notice under sub-paragraph (1)(b) above is served may apply to the county court or, where the dwelling-house is situated in Scotland, to the sheriff, and the court or sheriff, if satisfied that there are not reasonable grounds for the opinion of the Corporation, may declare the notice to be of no effect.
+
+### Procedural requirements
+
+**4** (1) The Corporation shall not be under any obligation by virtue of paragraph 2(1) above unless either the owner or the occupier of the dwelling-house is a resident and—
+
+(a) has given to the Corporation notice, within such time and containing such particulars as may be prescribed, that in his opinion the requirement specified in section 23(2)(a) of this Act is satisfied; and
+
+(b) has afforded the Corporation reasonable facilities to inspect the dwelling-house so far as he was in a position to afford such facilities.
+
+(2) As soon as reasonably practicable after receiving from any person a notice under sub-paragraph (1) above, the Corporation shall give to that person notice—
+
+(a) as to whether or not they agree with that person’s opinion; and
+
+(b) if they so agree, as to the manner in which they propose to discharge their obligations under paragraph 2(1) above;
+
+and where in the circumstances of any particular case it appears to the Corporation appropriate to do so, they may serve a separate such notice on any other resident.
+
+(3) In giving such a notice, the Corporation shall not unreasonably refuse any request from a resident to adopt in his case such of the alternatives set out in paragraph 2(1) above as is specified in the request.
+
+(4) Where the Corporation have given notice to any resident of an intention to adopt in his case either of those alternatives, they shall not adopt in his case the other of those alternatives without his consent, which shall not be unreasonably withheld.
+
+### Alternative living accommodation
+
+**5** (1) This paragraph applies where, in pursuance of paragraph 2(1)(a) above, the Corporation have made alternative living accommodation available to a resident.
+
+(2) The Corporation shall be entitled to possession of the accommodation so made available—
+
+(a) in a case falling within paragraph 3(1)(b) above, at the expiration of the period of six months there mentioned; and
+
+(b) without prejudice to any obligations of the Corporation under paragraph 2(1) above or to the provisions of paragraph 4(4) above, at any time not less than one month after the Corporation have given notice to the resident in question of their intention to take possession.
+
+(3) Where notice is given under sub-paragraph (2)(b) above, the obligations of the Corporation under paragraph 2(1) above shall continue until the expiration of the month mentioned in that sub-paragraph, or such longer period as may be specified in the notice, notwithstanding that the period of dispossession may have expired.
+
+(4) Subject to sub-paragraphs (6) and (7) below, the Corporation shall be entitled to recover as a civil debt from the resident in question any amount by which the aggregate expenditure incurred by him by way of rent is less than it would have been if the subsidence damage had not occurred and he had continued to reside in the dwelling-house.
+
+(5) Subject to sub-paragraph (6) below, the Corporation shall be under an obligation to pay to the resident in question—
+
+(a) any amount by which the aggregate expenditure incurred by him by way of rent is greater than it would have been if the subsidence damage had not occurred and he had continued to reside in the dwelling-house; and
+
+(b) any amount by which he shows that the aggregate expenditure reasonably incurred by him by way of food, living accommodation (other than rent), heating, light and other household expenses is greater than it would have been in those circumstances.
+
+(6) In any case where the Corporation—
+
+(a) are entitled to recover an amount by virtue of sub-paragraph (4) above; and
+
+(b) are under an obligation to pay an amount by virtue of sub-paragraph (5)(b) above,
+
+the two amounts shall be set off one against the other and extinguished or reduced accordingly.
+
+(7) The Corporation shall not be entitled to recover any amount under sub-paragraph (4) above in excess of the amount which would have been payable by way of rent for the alternative living accommodation if it had been provided by the local authority.
+
+### Supplemental
+
+**6** (1) This paragraph applies where—
+
+(a) no damage notice has been given in respect of the dwelling-house; or
+
+(b) the Corporation have elected to make a payment under section 8 or 10 of this Act or are obliged to make a payment under section 11(1) of this Act.
+
+(2) During any period while the Corporation are under an obligation by virtue of paragraph 2(1) above, they may exercise in the name of the occupier any right with respect to the repair of the dwelling-house exercisable by the occupier against any person other than the Corporation.
+
+**7** Where the Corporation have elected to make a payment in respect of the dwelling-house under section 8(4) of this Act, the Corporation shall be entitled to recover as a civil debt from the owner of the dwelling-house any amount by which the expenditure of the Corporation under this Schedule in connection with the dwelling-house exceeds what it would have been if remedial works only had been executed.
+
+## SCHEDULE 6 — Farm Loss Payments
+
+*Section 26.*
+
+### Right to a farm loss payment
+
+**1** (1) Subject to the provisions of this Schedule, if any person in occupation of the agricultural unit who has an owner’s interest—
+
+(a) is displaced from the whole, or a sufficient part, of the land affected by the subsidence damage (“the land affected”); and
+
+(b) not more than three years after the date of displacement, begins to farm another agricultural unit (“the new unit”) elsewhere in Great Britain,
+
+he shall be entitled to receive a payment (a “farm loss payment”) from the Corporation.
+
+(2) In sub-paragraph (1) above “owner’s interest” means a freehold interest or a tenancy where his interest is as tenant for a year or from year to year or a greater interest and “sufficient part” means not less than 0.5 hectares or such area as the Secretary of State may by order specify.
+
+(3) No farm loss payment shall be made to any person unless on the date on which he begins to farm the new unit he is in occupation of the whole of that unit in right of a freehold interest in it or a tenancy of it, not having been entitled to any such interest or tenancy before the date of displacement.
+
+(4) No farm loss payment shall be made to any person who is entitled to a payment under section 28 of this Act in respect of land which consists of or includes the land from which he was displaced.
+
+(5) In the application of this paragraph to Scotland, references to a freehold interest in land are references to—
+
+(a) [^F66]an interest as infelt proprietor of[[^F66]a right as proprietor with completed title to] the land;
+
+(b) a right to the land without a completed title; or
+
+(c) in the case of land subject to a heritable security constituted by*ex facie* absolute disposition, an interest as the debtor in the security, except where the creditor is in possession of the land[^F67],
+
+[^F67]but do not include references to an interest as a superior only.
+
+### Amount of farm loss payment
+
+**2** (1) Subject to the provisions of this paragraph, the amount of any farm loss payment shall be equal to the average annual profit derived from the use for agricultural purposes of the agricultural land comprised in the land affected; and that profit shall be computed by reference to the profits for the three years ending with the date of displacement or, if the person concerned has then been in occupation for a shorter period, that period.
+
+(2) Where accounts have been made up in respect of the profits of the person concerned for a period or consecutive periods of twelve months and that period or the last of them ends not more than one year before the date of displacement, sub-paragraph (1) above shall have effect as if the date on which that period or the last of those periods ends were the date of the displacement.
+
+(3) In calculating the profits mentioned in sub-paragraph (1) above there shall be deducted a sum equal to the rent that might reasonably be expected to be payable in respect of the agricultural land comprised in the land affected if it were let for agricultural purposes to a tenant responsible for rates, repairs and other outgoings; and that deduction shall be made whether or not the land is in fact let and, if it is, shall be made to the exclusion of any deduction for the rent actually payable.
+
+(4) Where the value of the agricultural land comprised in the land affected exceeds the value of the agricultural land comprised in the new unit, the amount of the farm loss payment shall be proportionately reduced.
+
+(5) For the purposes of sub-paragraph (4) above the value of any land shall be determined—
+
+(a) on the basis of its value as land used solely for agriculture;
+
+(b) by reference to the condition of the land and its surroundings and to prices current—
+
+(i) in the case of the land comprised in the land affected, on the date of displacement;
+
+(ii) in the case of land comprised in the new unit, on the date on which the person concerned begins to farm the new unit; and
+
+(c) without regard to the principal dwelling, if any, comprised in the same agricultural unit as that land.
+
+(6) Paragraph 2 of Schedule 1 to this Act shall apply for the purpose of determining the value of any land for the purposes of sub-paragraph (4) above as it applies for the purpose of determining the value of a unit of property at any time for the purposes of section 10 or 11 of this Act.
+
+### Supplementary provisions
+
+**3** (1) The Corporation shall not be liable to make a farm loss payment except on a claim made by the person entitled to it before the end of the period of one year beginning with the date on which the requirement in paragraph 1(1)(b) above is complied with.
+
+(2) Any such claim shall be made in such form, and shall contain such particulars, as may be prescribed by regulations made by the Secretary of State.
+
+(3) Where the agricultural unit containing the land affected is occupied for the purposes of a partnership firm, paragraphs 1 and 2 above shall have effect in relation to the firm and not the partners individually (any interest of a partner in the land acquired being treated as an interest of the firm) except that the requirements in paragraph 1 above as to the new unit shall be treated as complied with in relation to the firm as soon as they are complied with by any one of the persons who were members of the firm.
+
+(4) Where a person dies before the expiration of the period for making a claim to a farm loss payment and would have been entitled to such a payment if he had made a claim within that period, a claim to that payment may be made, before the expiration of that period, by his personal representative.
+
+(5) A farm loss payment shall carry interest at the applicable rate (if any) from the date mentioned in sub-paragraph (1) above until payment [[^F68]but any period of delay in determining the amount of any such payment which is attributable to unreasonable conduct on the part of that person shall be disregarded for the purposes of this sub-paragraph.].
+
+## SCHEDULE 7 — Transitional Provisions and Savings
+
+*Section 53(1).*
+
+### Remedial action
+
+**1** (1) Subject to sub-paragraphs (3) and (4) below, Part II of this Act (remedial action) shall not apply in any case where before the commencement date—
+
+(a) a notice has been given in respect of the subsidence damage under section 2 of the 1957 Act; or
+
+(b) a claim has been made in respect of that damage under section 2(4) of the 1975 Act.
+
+(2) Subject to sub-paragraphs (3) and (4) below, nothing in this Act shall affect—
+
+(a) the operation of the 1957 Act in relation to any such case as is mentioned in paragraph (a) of sub-paragraph (1) above; or
+
+(b) the operation of section 2(4) of or paragraphs 1 to 4 of Schedule 1 to the 1975 Act in relation to any such case as is mentioned in paragraph (b) of that sub-paragraph.
+
+(3) Any notice given under section 2 of the 1957 Act, and any claim made under section 2(4) of the 1975 Act, may be withdrawn at any time before terms of settlement are finally agreed or determined; and where such a notice or claim is so withdrawn, this Act shall apply as if it had not been given or made.
+
+(4) Where after the commencement date a stop notice under section 3(2) of the 1957 Act is revoked, this Act shall apply as if the notice given under section 2 of that Act were a damage notice given under section 3 of this Act.
+
+(5) In this paragraph references to section 2(4) of and paragraphs 1 to 4 of Schedule 1 to the 1975 Act include respectively references to sub-paragraphs (1) and (3) of paragraph 6 of Schedule 2 to the 1938 Act.
+
+**2** (1) In any case where—
+
+(a) immediately before the commencement of the 1975 Act the National Coal Board had a right to withdraw support from any land by virtue of paragraph 5 of Schedule 2 to the 1938 Act; and
+
+(b) after that commencement that land has been damaged by the working of coal in the exercise of the right to withdraw support conferred by section 2 of the 1975 Act [[^F69]or section 38 of the Coal Industry Act 1994],
+
+any person interested in that land may, subject to sub-paragraph (2) below, claim compensation for the damage in accordance with the terms and conditions relating to compensation which were applicable before that commencement to the right to withdraw support referred to in paragraph (a) above.
+
+(2) No person shall be entitled both to receive compensation for any damage under sub-paragraph (1) above and to receive compensation for that damage, or have that damage made good, under Part II of this Act.
+
+### Additional remedies
+
+**3** (1) In Part III of this Act—
+
+(a) Schedule 4 (home loss payments) and Schedule 6 (farm loss payments) shall not apply in any case where the displacement occurred before the commencement date;
+
+(b) Schedule 5 (relief for temporary dispossession) shall not apply in any case where the period of dispossession began before that date;
+
+(c) section 27 (crop loss payments) shall not apply as respects any calendar year or part of such a year falling before that date; and
+
+(d) section 31 (compensation for damage to moveable property) and section 32 (compensation for death or disablement) shall not apply in any case where the damage or injury was caused before that date.
+
+(2) Nothing in this Act shall affect—
+
+(a) the operation of Schedule 1 to the 1957 Act (relief for temporary dispossession) in relation to any case where the period of dispossession began before the commencement date; or
+
+(b) the operation of section 12 of that Act (compensation for death or disablement) in relation to any case where the injury was caused before that date.
+
+### Preventive and other measures
+
+**4** For the purposes of section 33 of this Act (preventive works for existing buildings, structures or works)—
+
+(a) any unreasonable withholding of consent to the execution of preventive works under section 4(1)(a) of the 1957 Act shall have effect as an unreasonable withholding of consent to the execution of such works under paragraph (a) of subsection (2);
+
+(b) any undertaking given by the Corporation under section 4(1)(b) of that Act shall have effect as an undertaking given under paragraph (b) of that subsection; and
+
+(c) any requirement imposed by the Corporation under section 4(1)(b) of that Act, or any unreasonable failure to comply with any such requirement, shall have effect as a request made by the Corporation under that paragraph, or an unreasonable failure to comply with such a request.
+
+**5** (1) For the purposes of section 34 of this Act (preventive works for new buildings, structures or works)—
+
+(a) any request made by the Corporation under paragraph 1(2) of Schedule 1 to the 1975 Act, or any failure to comply with any such request, shall have effect as a corresponding request made by the Corporation under paragraph (b) or (c) of subsection (2), or a failure to comply with such a request; and
+
+(b) any proposals made by the Corporation under paragraph 1(3) of that Schedule, or any construction of the foundations of a building, structure or works otherwise than in accordance with any such proposals, shall have effect as proposals made by the Corporation under subsection (3), or the construction of the building, structure or works otherwise than in accordance with such proposals.
+
+(2) In sub-paragraph (1) above references to sub-paragraphs (2) and (3) of paragraph 1 of Schedule 1 to the 1975 Act include respectively references to paragraphs (a) and (b) of paragraph 6(3) of Schedule 2 to the 1938 Act.
+
+**6** For the purposes of section 36 of this Act (remedial or preventive measures for land drainage systems)—
+
+(a) any agreement or determination made under section 5(1) of the 1957 Act with respect to any measures shall have effect as a reasonable requirement imposed under subsection (1) with respect to those measures; and
+
+(b) any election made under section 5(2) of that Act with respect to any measures shall have effect as an election made under subsection (2) with respect to those measures.
+
+### Notices
+
+**7** Where any underground coal-mining operations proposed to be carried on after the commencement date can be regarded as a continuation of operations carried on before that date, nothing in section 46(1) (notices to property owners etc.) or section 47(1) of this Act (notices to local authorities) shall require the Corporation to give any notice with respect to those operations before the end of the period of one month beginning with that date.
+
+### Supplemental
+
+**8** In this Schedule—
+
+- “the 1938 Act” means the [^M51]Coal Act 1938;
+- “the 1957 Act” means the [^M52]Coal-Mining (Subsidence) Act 1957;
+- “the 1975 Act” means the [^M53]Coal Industry Act 1975;
+- “the commencement date” means—
+
+(a) in relation to any provision of this Act, the date of the coming into force of that provision; and
+
+(b) in relation to any provision repealed by this Act, the date of the coming into force of the repeal.
+
+## SCHEDULE 8 — Repeals
+
+*Section 53(2).*
+
+|  |  |  |
+|---|---|---|
+| Chapter | Short title | Extent of repeal |
+| 5 & 6 Eliz. 2 c. 59. | The Coal-Mining (Sub-sidence) Act 1957. | The whole Act. |
+| 1964 c. 51. | The Universities and Colleges Estates Act 1964. | In Schedule 3, in Part II, the entry relating to the Coal-Mining (Subsidence) Act 1957. |
+| 1973 c. 65. | The Local Government (Scotland) Act 1973. | In Schedule 27, in Part II, paragraph 132. |
+| 1975 c. 56. | The Coal Industry Act 1975. | In section 2, subsections (4) and (7).In Schedule 1, paragraphs 1 to 4. |
+| 1976 c. 30. | The Fatal Accidents Act 1976. | In Schedule 1, in paragraph 2(2), the entry relating to section 12(1)(a)(iii) of the Coal-Mining (Sub-sidence) Act 1957. |
+| 1979 c. 46. | The Ancient Monuments and Archaeological Areas Act 1979. | In Schedule 4, paragraph 4. |
+| 1984 c. 54. | The Roads (Scotland) Act 1984. | In Schedule 9, paragraph 46. |
+| 1985 c. 71. | The Housing (Con-sequential Provisions) Act 1985. | In Schedule 2, paragraph 2. |
+| 1986 c. 5. | The Agricultural Holdings Act 1986. | In Schedule 14, paragraph 24. |
+| 1987 c. 3. | The Coal Industry Act 1987. | In Schedule 1, paragraph 5. |
+| 1987 c. 26. | The Housing (Scotland) Act 1987. | In Schedule 23, paragraph 7. |
+| 1989 c. 15. | The Water Act 1989. | In Schedule 25, paragraphs 1(2)(vii) and 23. |
+
+---
+
+[^F1]: S. 1(3) substituted (31.10.1994) by 1994 c. 21, s. 42(1) (with ss. 40(7), 66); S.I. 1994/2553, art. 2
+[^M1]: 1954 c. 70.
+[^F2]: Words in s. 6(4) substituted (1.6.2009) by The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307), art. 1, Sch. 1 para. 217 (with Sch. 5)
+[^F3]: Words in s. 6(6) substituted (1.6.2009) by The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307), art. 1, Sch. 1 para. 217 (with Sch. 5)
+[^M2]: 1984 c. 54.
+[^F4]: Words in s. 10(2)(c) repealed (31.10.1994) by 1994 c. 21, ss. 43, 67(8), Sch. 6 para. 3(1), Sch. 11 Pt. II (with ss. 40(7), 66); S.I. 1994/2553, art. 2
+[^M3]: 1965 c. 56.
+[^M4]: 1845 c. 19.
+[^M5]: 1985 c. 68.
+[^M6]: 1987 c. 26.
+[^F5]: Words in s. 16(1)(b)(7)(a) repealed (31.10.1994) by 1994 c. 21, ss. 43, 67(8), Sch. 6 para. 3(1), Sch. 11 Pt. II (with ss. 40(7), 66); S.I. 1994/2553, art. 2
+[^F6]: Words in s. 16(1) substituted (31.10.1994) by 1994 c. 21, s. 43, Sch. 6 para. 3(2)(a) (with ss. 40(7), 66); S.I. 1994/2553, art. 2
+[^F7]: Words in s. 16(7)(b) repealed (31.10.1994) by 1994 c. 21, ss. 43, 67(8), Sch. 6 para. 3(2)(b), Sch. 11 Pt. II (with ss. 40(7), 66); S.I. 1994/2553, art. 2
+[^F8]: Words in s. 17(1)(a) repealed (31.10.1994) by 1994 c. 21, ss. 43, 67(8), Sch. 6 para. 3(1), Sch. 11 Pt. II (with ss. 40(7), 66); S.I. 1994/2553, art. 2
+[^M7]: 1979 c. 46.
+[^M8]: 1990 c. 9.
+[^F9]: Words in s. 19(1)(c) substituted (27.5.1997) by 1997 c. 11, ss. 4, 6(2), Sch. 2 para. 50
+[^F10]: S. 19(1A) inserted (W.) (4.11.2024) by Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 162 (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F11]: Words in s. 20 substituted (E.) (1.10.2006) by Church of England (Miscellaneous Provisions) Measure 2006 (No. 1), s. 16(2), Sch. 5 para. 29(1)(a); 2006 No. 2, Instrument made by Archbishops
+[^F12]: Words in s. 20(1)(b) substituted (E.) (1.10.2006) by Church of England (Miscellaneous Provisions) Measure 2006 (No. 1), s. 16(2), Sch. 5 para. 29(1)(b); 2006 No. 2, Instrument made by Archbishops
+[^F13]: Word in s. 20(2)(b) substituted (E.) (1.10.2006) by Church of England (Miscellaneous Provisions) Measure 2006 (No. 1), s. 16(2), Sch. 5 para. 29(1)(c); 2006 No. 2, Instrument made by Archbishops
+[^F14]: Words in s. 20(4) inserted (E.) (1.10.2006) by Church of England (Miscellaneous Provisions) Measure 2006 (No. 1), s. 16(2), Sch. 5 para. 29(1)(d); 2006 No. 2, Instrument made by Archbishops
+[^M9]: 1927 c. 36.
+[^M10]: 1986 c. 5.
+[^M11]: 1949 c. 75.
+[^F15]: S. 21(3)(aa) inserted (1.9.1995) by 1994 c. 21, ss. 40, 41(2), Sch. para. 36 (with s. 37)
+[^M12]: 1955 c. 21.
+[^F16]: Words in s. 27(7) substituted (31.10.1994) by 1994 c. 21, s. 67(1), Sch. 9 para. 5(1)(a) (with ss. 40(7), 66); S.I. 1994/2553, art. 2
+[^F17]: Words in s. 27(7) inserted (31.10.1994) by 1994 c. 21, s. 67(1), Sch. 9 para. 41(1)(b) (with ss. 40(7), 66); S.I. 1994/2553, art. 2
+[^M13]: 1968 c. 34.
+[^M14]: 1965 c. 56.
+[^M15]: 1845 c. 19.
+[^F18]: S. 30(1)(b) repealed (31.10.1994) by 1994 c. 21, s. 67(8), Sch. 11 Pt. II (with ss. 40(7), 66); S.I. 1994/2553, art. 2
+[^F19]: Words in s. 30(6) substituted (31.10.1994) by 1994 c. 21, s. 67(1), Sch. 9 para. 41(2)(a) (with ss. 40(7), 66); S.I. 1994/2553, art. 2
+[^F20]: Words in s. 30(6) inserted (31.10.1994) by 1994 c. 21, s. 67(1), Sch. 9 para. 41(2)(b) (with ss. 40(7), 66); S.I. 1994/2553, art. 2
+[^F21]: Words in s. 30(7) substituted (22.8.1996) by 1996 c. 18, ss. 240, 243, Sch. 1 para. 49(a) (with ss. 191-195, 202)
+[^F22]: Words in the definition of “consequential loss” in s. 30(7) repealed (31.10.1994) by 1994 c. 21, s. 67(8), Sch. 11 Pt. II (with ss. 40(7), 66); S.I. 1994/2553, art. 2
+[^F23]: Words in s. 30(7) substituted (22.8.1996) by 1996 c. 18, ss. 240, 243, Sch. 1 para. 49(b) (with ss. 191-195, 202)
+[^F24]: Words in s. 31(2)(b) repealed (31.10.1994) by 1994 c. 21, s. 67(8), Sch. 11 Pt. II (with ss. 40(7), 66); S.I. 1994/2553, art. 2
+[^M16]: 1945 c. 28.
+[^M17]: 1976 c. 30.
+[^M18]: 1976 c. 13.
+[^F25]: Words in s. 32(2)(c) substituted (S.) (7.7.2011) by Damages (Scotland) Act 2011 (asp 7), s. 19(3), Sch. 1 para. 5 (with ss. 17, 19(2)); S.S.I. 2011/268, art. 3 (with art. 4)
+[^M19]: 1945 c. 28.
+[^F26]: Words in s. 33(1) repealed (31.10.1994) by 1994 c. 21, ss. 43, 67(8), Sch. 6 para. 3(1), Sch. 11 Pt. II (with ss. 40(7), 66); S.I. 1994/2553, art. 2
+[^F27]: Words in s. 33(7) substituted (E.) (1.10.2006) by Church of England (Miscellaneous Provisions) Measure 2006 (No. 1), s. 16(2), Sch. 5 para. 29(2); 2006 No. 2, Instrument made by Archbishops
+[^F28]: S. 34 repealed (31.10.1994) by 1994 c. 21, ss. 42(2), 67(8), Sch. 11 Pt. II (with ss. 40(7), 66, Sch. 10 para. 13(1)); S.I. 1994/2553, art. 2
+[^F29]: S. 35 repealed (31.10.1994) by 1994 c. 21, ss. 42(2), 67(8), Sch. 11 Pt. II (with ss. 40(7), 66); S.I. 1994/2553, art. 2
+[^M20]: 1929 c. xvii.
+[^F30]: Words in s. 36(8) substituted (1.4.2013) by The Natural Resources Body for Wales (Functions) Order 2013 (No. 755), art. 1(2), Sch. 2 para. 220 (with Sch. 7)
+[^F31]: Words in s. 36(8) substituted (E.W.) (01.12.1991) by Water Consolidation (Consequential Provisions) Act 1991 (c. 60, SIF 130), ss. 2(1), 4(2), Sch. 1 para. 59.
+[^F32]: S. 39 repealed (31.10.1994) by 1994 c. 21, s. 67, Sch. 11 Pt. II (with ss. 40(7), 66); S.I. 1994/2553, art. 2
+[^F33]: Words in s. 40(1) substituted (1.6.2009) by The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307), art. 1, Sch. 1 para. 218 (with Sch. 5)
+[^F34]: S. 43 repealed (31.10.1994) by 1994 c. 21, s. 67(8), Sch. 11 Pt. II (with ss. 40(7), 66); S.I. 1994/2553, art. 2
+[^F35]: S. 45 repealed (31.10.1994) by 1994 c. 21, s. 67(8), Sch. 11 Pt. II (with ss. 40(7), 66); S.I. 1994/2553, art. 2
+[^F36]: S. 46(2) repealed (31.10.1994) by 1994 c. 21, s. 67(8), Sch. 11 Pt. II (with ss. 40(7), 66); S.I. 1994/2553, art. 2
+[^F37]: Words in s. 46(5)(c) substituted (31.10.1994) by 1994 c. 21, s. 45(4) (with ss. 40(7), 66); S.I. 1994/2552, art. 2, Sch. 1
+[^F38]: S. 47(3) repealed (31.10.1994) by 1994 c. 21, s. 67(8), Sch. 11 Pt. II (with ss. 40(7), 66); S.I. 1994/2553, art. 2
+[^F39]: Words in s. 47(4)(c) substituted (31.10.1994) by 1994 c. 21, s. 45(4) (with ss. 40(7), 66); S.I. 1994/2552, art. 2, Sch. 1
+[^F40]: Words in s. 47(6)(a) repealed (1.4.1996) by 1994 c. 19, s. 66(6)(8), Sch. 16 para. 91, Sch. 18 (with ss. 54(5)(7), 55(5), Sch. 17 paras. 22(1), 23(2)); S.I. 1996/396, art. 4, Sch. 2
+[^F41]: S. 47(6)(aa) inserted (1.4.1996) by 1994 c. 19, s. 66(6), Sch. 16 para. 91 (with ss. 54(5)(7), 55(5), Sch. 17 para. 22(1), 23(2)); S.I. 1996/396, art. 4, Sch. 2
+[^F42]: Words in s. 47(6)(b) substituted (S.) (1.4.1996) by 1994 c. 39, s. 180(1), Sch. 13 para. 172; S.I. 1996/323, art. 4(1)(b)(c)
+[^F43]: S. 48 repealed (31.10.1994) by 1994 c. 21, s. 67(8), Sch. 11 Pt. II (with ss. 40(7), 66); S.I. 1994/2553, art. 2
+[^F44]: S. 49(4) repealed (27.3.2004) by Coal industry Act 1994 (c. 21), s. 68(4), Sch. 11 Pt. III (with ss. 40(7), 66); S.I. 2004/144, art. 2, Sch.
+[^F45]: S. 51 substituted (31.10.1994) by 1994 c. 21, s. 67(1), Sch. 9 para. 41(3) (with ss. 40(7), 66); S.I. 1994/2553, art. 2
+[^F46]: Words in s. 52(1) substituted (25.7.2003 for specified purposes, 29.12.2003 in so far as not already in force) by Communications Act 2003 (c. 21), s. 411(2), Sch. 17 para. 109 (with Sch. 18); S.I. 2003/1900, arts. 1(2), 2(1), Schs. 1 (with art. 3) (as amended by S.I. 2003/3142, art. 1(3)); S.I. 2003/3142, art. 3(2) (with art. 11)
+[^M21]: 1947 c. 48.
+[^M22]: 1948 c. 45.
+[^M23]: 1990 c. 8.
+[^M24]: 1972 c. 52.
+[^F47]: Words in s. 52 inserted (1.6.2009) by The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307), art. 1, Sch. 1 para. 219 (with Sch. 5)
+[^M25]: 1938 c. 52.
+[^M26]: 1985 c. 68.
+[^M27]: 1987 c. 26.
+[^F48]: Words in s. 52 omitted (1.6.2009) by virtue of The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307), art. 1, Sch. 1 para. 219 (with Sch. 5)
+[^F49]: Words in s. 52(1) repealed (S.) (28.11.2004) by Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5), ss. 71, 77(2), Sch. 12 para. 54(2), 13 Pt. 1 (with ss. 58, 62, 75); S.S.I. 2003/456, art. 2
+[^M28]: 1989 c. 29.
+[^F50]: Words in s. 52(1) substituted (1.4.2013) by The Natural Resources Body for Wales (Functions) Order 2013 (No. 755), art. 1(2), Sch. 2 para. 221 (with Sch. 7)
+[^F51]: S. 52(1): Words in para. (b) of the definition of “statutory undertakers” substituted (26.3.2001) by S.I. 2001/1149, art. 3(1), Sch. 1 para. 87(2)
+[^F52]: S. 52(1): Words in paragraph (b) of the definition of “statutory undertakers” inserted (1.4.2001) by 2000 c. 38, s. 37, Sch. 5 para. 19 (with s. 106); S.I. 2001/869, art. 2
+[^M29]: 1986 c. 31.
+[^F53]: Definition in s. 52(1) inserted (26.3.2001) by S.I. 2001/1149, art. 3(1), Sch. 1 para. 87(3)
+[^F54]: Words in s. 52(1) substituted (1.10.2011) by Postal Services Act 2011 (c. 5), s. 93(2)(3), Sch. 12 para. 135(a); S.I. 2011/2329, art. 3
+[^F55]: Words in s. 52(1) substituted (1.10.2011) by Postal Services Act 2011 (c. 5), s. 93(2)(3), Sch. 12 para. 135(b); S.I. 2011/2329, art. 3
+[^M30]: 1978 c. 30.
+[^M31]: 1988 c. 41.
+[^F56]: Word in Sch. 1 para. 2(6) substituted (S.) (28.11.2004) by Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5), ss. 71, 77(2), Sch. 12 para. 54(3)(a) (with ss. 58, 62, 75); S.S.I. 2003/456, art. 2
+[^F57]: Words in Sch. 1 para. 2(6) repealed (S.) (28.11.2004) by Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5), ss. 71, 77(2), Sch. 12 para. 54(3)(b), 13 Pt. 1 (with ss. 58, 62, 75); S.S.I. 2003/456, art. 2
+[^F58]: Words in Sch. 2 para. 1(1) repealed (31.10.1994) by 1994 c. 21, ss. 43, 67(8), Sch. 6 para. 11, Sch. 11 Pt. II (with ss. 40(7), 66); S.I. 1994/2553, art. 2
+[^M32]: 1970 c. 35.
+[^F59]: Sch. 2 para. 3(2)(b) repealed (S.) (28.11.2004) by Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5), ss. 71, 77(2), Sch. 12 para. 54(4)(a), 13 Pt. 1 (with ss. 58, 62, 75); S.S.I. 2003/456, art. 2
+[^M33]: 1921 c. 58.
+[^F60]: Words in Sch. 2 para. 4(2)(b) repealed (S.) (28.11.2004) by Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5), ss. 71, 77(2), Sch. 12 para. 54(4)(b), 13 Pt. 1 (with ss. 58, 62, 75); S.S.I. 2003/456, art. 2
+[^M34]: 1927 c. 36.
+[^M35]: 1986 c. 5.
+[^F61]: Sch. 3 para. 1(2)(bb) inserted (1.9.1995) by 1995 c. 8, ss. 40, 41(2), Sch. para. 37 (with s. 37)
+[^M36]: 1949 c. 75.
+[^M37]: 1886 c. 29.
+[^M38]: 1961 c. 58.
+[^M39]: 1986 c. 5.
+[^M40]: 1949 c. 75.
+[^M41]: 1911 c. 49.
+[^M42]: 1955 c. 21.
+[^M43]: 1977 c. 42.
+[^M44]: 1984 c. 58.
+[^M45]: 1985 c. 68.
+[^F62]: Words in Sch. 4 para. 1(4)(d) inserted (12.2.1997) by S.I. 1997/74, art. 2, Sch.
+[^F63]: Semicolon in Sch. 4 para. 1(4) substituted (E.W.) (1.12.2022) by The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166), regs. 1(1), 19(2)(a)(i)
+[^F64]: Sch. 4 para. 1(4)(f) inserted (E.W.) (1.12.2022) by The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166), regs. 1(1), 19(2)(a)(ii)
+[^M46]: 1925 c. 18.
+[^F65]: Sch. 4 para. 1(7) inserted (E.W.) (1.12.2022) by The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166), regs. 1(1), 19(2)(b)
+[^M47]: 1981 c. 67.
+[^M48]: 1963 c. 51.
+[^M49]: 1985 c. 68.
+[^M50]: 1987 c. 26.
+[^F66]: Words in Sch. 6 para. 1(5)(a) substituted (S.) (28.11.2004) by Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5), ss. 71, 77(2), Sch. 12 para. 54(5)(a) (with ss. 58, 62, 75); S.S.I. 2003/456, art. 2
+[^F67]: Words in Sch. 6 para. 1(5) repealed (28.11.2004) by Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5), ss. 71, 77(2), Sch. 12 para. 54(5)(b), 13 Pt. 1 (with ss. 58, 62, 75); S.S.I. 2003/456, art. 2
+[^F68]: Words in Sch. 6 para. 3(5) inserted (31.10.1994) by 1994 c. 21, s. 67(1), Sch. 9 para. 41(4) (with ss. 40(7), 66); S.I. 1994/2553, art. 2
+[^F69]: Words in Sch. 7 para. 2(1)(b) inserted (31.10.1994) by 1994 c. 21, s. 67(1), Sch. 9 para. 41(5) (with ss. 40(7), 66); S.I. 1994/2553, art. 2
+[^M51]: 1938 c. 52.
+[^M52]: 1957 c. 59.
+[^M53]: 1975 c. 56.

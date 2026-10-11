@@ -1,0 +1,1762 @@
+---
+title: "Enterprise and New Towns (Scotland) Act 1990"
+identifier: "ukpga/1990/35"
+citation: "1990 c. 35"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S"
+date: 1990-07-26
+last_amended: 2017-04-01
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/1990/35"
+source_modified: 2017-06-29
+retrieved: 2026-10-11
+---
+
+# Enterprise and New Towns (Scotland) Act 1990
+
+**1990 c. 35**
+
+An Act to establish public bodies to be known as Scottish Enterprise and Highlands and Islands Enterprise and to make provision as to their functions; to dissolve the Scottish Development Agency and the Highlands and Islands Development Board; to make further provision as regards new towns in Scotland; and for connected purposes.
+
+[26th July 1990]
+
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## Part I — Scottish Enterprise and Highlands and Islands Enterprise
+
+### Establishment and Functions
+
+#### 1 Scottish Enterprise and Highlands and Islands Enterprise.
+
+There shall be established—
+
+(a) a body to be known as Scottish Enterprise, which shall have the general functions of—
+
+(i) furthering the development of Scotland’s economy and in that connection providing, maintaining and safeguarding employment;
+
+(ii) subject to section 2(1) of this Act [[^F1]maintaining and] enhancing skills and capacities relevant to employment in Scotland and assisting persons to establish themselves as self-employed persons there;
+
+(iii) promoting Scotland’s industrial efficiency and international competitiveness; and
+
+(iv) furthering improvement of the environment of Scotland; and
+
+(b) a body to be known as Highlands and Islands Enterprise, which shall have the general functions of—
+
+(i) preparing, concerting, promoting, assisting and undertaking measures for the economic and social development of the Highlands and Islands;
+
+(ii) subject to section 2(1) of this Act [[^F1]maintaining and] enhancing skills and capacities relevant to employment in the Highlands and Islands and assisting persons to establish themselves as self- employed persons there; and
+
+(iii) furthering improvement of the environment of the Highlands and Islands;
+
+and Schedule 1 to this Act shall have effect with respect to the constitution and proceedings of, and other matters relating to, those bodies.
+
+#### 2 Functions in relation to training for employment etc.
+
+(1) Without prejudice to section 17 of this Act, exercise of the general functions mentioned in section 1(a)(ii) and (b)(ii) of this Act shall only be in accordance with arrangements made under subsection (3) below.
+
+(2) Scottish Enterprise and Highlands and Islands Enterprise shall each—
+
+(a) from time to time submit to the Secretary of State particulars of what it proposes to do for the purpose of carrying out such of its general functions as are mentioned in subsection (1) above;
+
+(b) ensure that all its activities in relation to those functions are in accordance with such proposals submitted by it to the Secretary of State as have been approved by him and with such modifications (if any) of those proposals as are notified to the body in question by him.
+
+(3) Scottish Enterprise and Highlands and Islands Enterprise shall each, to such extent as it considers appropriate, make arrangements for the purpose of—
+
+(a) assisting persons to train so that they may obtain and retain employment suitable for their ages and capacities;
+
+(b) improving and developing any such training; [^F2]. . .
+
+(c) assisting persons to establish themselves as self-employed persons [[^F3]; and
+
+(d) providing temporary employment for persons who are without employment.]
+
+(4) Arrangements under subsection (3) above may—
+
+(a) include arrangements for encouraging increases in the opportunities for (and types of) [[^F4]employment and training] that are available to women and girls, to disabled persons or to persons of any racial group (as defined in [[^F5]section 9 of the Equality Act 2010]) which constitutes a minority within the population of Scotland;
+
+(b) be made in respect of training anywhere in the United Kingdom or elsewhere;
+
+(c) include provision for the making of payments by Scottish Enterprise or Highlands and Islands Enterprise, by way of grant or loan or otherwise, to persons who provide facilities in pursuance of the arrangements, to persons who use those facilities and to other persons specified in or determined under the arrangements; and
+
+(d) include provision for the making of payments to Scottish Enterprise or Highlands and Islands Enterprise by other parties to the arrangements and by persons who use those facilities.
+
+(5) The payments for which, by virtue of subsection (4)(c) or (d) above, arrangements under subsection (3) above may provide—
+
+(a) shall include the payment to a person by Scottish Enterprise or Highlands and Islands Enterprise of an allowance pending a time when payments will be or may be made to that person in respect of his use of facilities which will be or may be made available to him under any such arrangements; and
+
+(b) shall not include the payment of any such allowance to a person—
+
+(i) for any period after that person has attained the age of eighteen years; or
+
+(ii) for any period for which child benefit is payable in respect of that person.
+
+(6) Other than under section 15 of this Act, no payments shall be made by or on behalf of Scottish Enterprise or Highlands and Islands Enterprise by virtue of any power conferred by subsection (4) above unless the Secretary of State [^F6]. . .has approved—
+
+(a) the amounts of the payments or the manner of determining those amounts; and
+
+(b) the terms on which they are made or the manner of determining those terms.
+
+(7) An education authority shall provide Scottish Enterprise or Highlands and Islands Enterprise with such information in the possession of the authority as the body in question may, by written notice to the authority, reasonably require in connection with the determination of questions relating to the exercise by the body of any power which it has by virtue of subsection (4)(c) above to make payments to any person.
+
+#### 3 Monitoring of training for employment
+
+Where the functions of Scottish Enterprise, or of Highlands and Islands Enterprise, mentioned in section 2(3)(a) or (b) of this Act are carried out through an agent or are delegated to any person, the body in question shall have the duty (which shall not itself be delegated) of keeping under continuous review the suitability and adequacy of any training provided by that agent, or as the case may be by that person (or his agent), in discharging those functions.
+
+#### 4 Further provision as regards functions of Scottish Enterprise.
+
+(1) For the purposes of its general functions mentioned in section 1(a)(i), (iii) and (iv) of this Act, Scottish Enterprise shall (without prejudice to the generality of that section) to such extent as it considers appropriate—
+
+(a) provide or assist in the provision of finance to persons carrying on or intending to carry on industrial undertakings;
+
+(b) carry on, or establish and carry on, whether by itself or jointly with any other person, industrial undertakings;
+
+(c) assist the establishment or growth of community enterprises or co-operative enterprises;
+
+(d) otherwise promote or assist the establishment, growth, modernisation or development of industry or any undertaking in an industry;
+
+(e) in accordance with arrangements to be approved by the Secretary of State, provide or adapt sites and provide, adapt, modernise or reconstruct premises for industrial undertakings, or assist any other person to do any of those things, and provide or assist in the provision of related facilities;
+
+(f) in such accordance, manage or assist in the management of sites and premises for industrial undertakings;
+
+(g) undertake or assist the undertaking of the development, re-development and improvement of the environment;
+
+(h) bring derelict land into use or improve its appearance, or assist its being so brought or improved; and
+
+(i) promote the private ownership of interests in industrial undertakings by the disposal of securities and other property held by Scottish Enterprise or by any of its subsidiaries,
+
+and shall discharge such other functions as are conferred by, under or by virtue of this Act.
+
+(2) The functions mentioned in subsection (1)(b) above shall only be exercised through a company ([[^F7]as defined in section 1(1) of the Companies Act 2006]) or through a partnership.
+
+(3) In subsection (1)(c) above—
+
+- “community enterprise” means a body corporate which—
+
+(a) in the opinion of Scottish Enterprise contributes or will contribute to the economic and social development of a particular area of Scotland;
+
+(b) by its written constitution admits to membership only—
+
+(i) persons resident in, or employed in, that area (or both so resident and so employed); or
+
+(ii) persons nominated by such persons as are mentioned in sub-paragraph (i) above; and
+
+(c) by that constitution prohibits distribution of profits amongst its members; and
+
+- “co-operative enterprise” means a body which fulfills the criteria specified in paragraphs (a) and (b) of section 2(2) of the [^M1]Industrial Common Ownership Act 1976 (whether or not it has been certified by the Secretary of State under that section).
+
+(4) In exercising its functions, Scottish Enterprise shall have regard to the requirements of agriculture and efficient land management and (without prejudice to its general function of furthering improvement of the environment) to the desirability of safeguarding the environment.
+
+(5) Arrangements approved by virtue of paragraph (e) of subsection (1) above may, if it appears to the Secretary of State that there are circumstances which justify the giving of special assistance, include provision that he may authorise Scottish Enterprise to provide premises for the occupation of an undertaking free of rent for such period as he considers appropriate.
+
+(6) Without prejudice to the generality of paragraphs (e) and (f) of subsection (1) above, the Secretary of State may authorise Scottish Enterprise to undertake, or assist in, the provision of means of access or other facilities in or for an area where this appears to him to be expedient for the purpose of contributing to or supporting the development of industry in that area.
+
+#### 5 Further provision as regards functions of Highlands and Islands Enterprise.
+
+(1) For the purposes of its general functions mentioned in section 1(b)(i) and (iii) of this Act, Highlands and Islands Enterprise shall (without prejudice to the generality of that section)—
+
+(a) keep under review all matters relating to the economic and social well-being and development of the Highlands and Islands;
+
+(b) after consultation with such local authorities [[^F8], National Park authorities,] and other bodies as appear to it to have an interest, from time to time prepare and submit to the Secretary of State for his approval proposals (whether general or specific in character) for the economic and social development of the Highlands and Islands or any part thereof;
+
+(c) concert, promote, assist or undertake measures to implement any proposals so approved;
+
+(d) to such extent as it considers appropriate, undertake or assist the undertaking of the development, re-development and improvement of the environment;
+
+(e) to such extent as it considers appropriate, bring derelict land into use or improve its appearance or assist its being so brought or improved; and
+
+(f) advise the Secretary of State on such matters relating to its functions as he may refer to it or as it may think fit,
+
+and shall discharge such other functions as are conferred by, under or by virtue of this Act.
+
+(2) The Secretary of State may approve, in whole or in part, any proposals submitted to him under subsection (1)(b) above, or may refuse to approve them.
+
+(3) In exercising its functions, Highlands and Islands Enterprise shall (without prejudice to its general function of furthering improvement of the environment) have regard to the desirability of safeguarding—
+
+(a) the natural beauty of the countryside in;
+
+(b) the flora and fauna of; and
+
+(c) the geological and geomorphological features of special interest of,
+
+the Highlands and Islands.
+
+#### 6 Development and improvement of the environment.
+
+(1) For the functions mentioned in—
+
+(a) section 4(1)(g) of this Act, Scottish Enterprise;
+
+(b) section 5(1)(d) of this Act, Highlands and Islands Enterprise,
+
+shall, after consultation with such local authorities [[^F9], National Park authorities,] statutory and other bodies as appear to it to have an interest, from time to time prepare and submit to the Secretary of State for his approval proposals for the development, redevelopment or improvement of any area within or in relation to which the functions in question are exercisable.
+
+(2) The Secretary of State may approve, in whole or in part or with modifications, any proposals submitted to him under subsection (1) above or may refuse to approve them; and any such approval—
+
+(a) may relate to a specific acting of the submitting body, or to all actings of that body which are of a class or description specified in the approval; and
+
+(b) may be given subject to such conditions as may be so specified.
+
+(3) The submitting body may—
+
+(a) either by itself or in conjunction with any other person, implement or assist in implementing proposals approved under this section;
+
+(b) make payments of such amount and in such manner as it may, with the approval of the Secretary of State [^F10]. . ., determine to any person towards the cost of carrying out works specified in proposals so approved.
+
+#### 7 Derelict land.
+
+Where it appears to Scottish Enterprise or to Highlands and Islands Enterprise that land is derelict, neglected or unsightly and that steps should be taken for the purpose of enabling the land (in this Act referred to as “derelict land”) to be brought into use or of improving the appearance of the land the body in question—
+
+(a) in accordance with arrangements approved by the Secretary of State may acquire, by agreement or compulsorily, the derelict land and any other land (whether or not adjacent to the derelict land) whose acquisition is reasonably required for the purpose mentioned above and may carry out, or assist in carrying out, on the derelict land and the other land such works as appear to the body to be expedient for that purpose; and
+
+(b) after carrying out those works may dispose of the land free of charge to a local authority or to a development corporation (within the meaning of the [^M2]New Towns (Scotland) Act 1968) for the purpose of the land being used as a public open space.
+
+### Powers
+
+#### 8 General and specific powers.
+
+(1) Subject to section 2(1) of this Act, Scottish Enterprise and Highlands and Islands Enterprise may do anything, whether in Scotland or elsewhere, which is calculated to facilitate or is incidental or conducive to the discharge of their respective general functions; and subject to section 13 of this Act things done by either body under the foregoing provisions of this subsection may (without prejudice to the generality of those provisions) include—
+
+(a) in addition to any power exercisable by virtue of section 2(4)(c) of this Act, making—
+
+(i) grants; or
+
+(ii) loans,
+
+on such conditions as the granter or lender thinks fit;
+
+(b) acquiring, holding and disposing of securities;
+
+(c) guaranteeing obligations (arising out of loans or otherwise) incurred by any other person;
+
+(d) in addition to any power exercisable under or by virtue of section 2(3) or 4(1)(e) of this Act providing, or assisting in the provision of, advisory or other services or facilities for any other person;
+
+(e) acquiring land by agreement;
+
+(f) acquiring land (including servitudes or other rights in or over land by the creation of new rights) compulsorily, except that in so far as acquisition is for or in connection with the carrying on of industrial undertakings in any area it shall only be of land whose acquisition appears to the body in question to be necessary to secure an adequate supply of land for such undertakings in the area;
+
+(g) in addition to any power exercisable under subsection (1)(f) of section 4 of this Act, holding land acquired by it and disposing of or otherwise dealing with such land, so however that, except with the consent of the Secretary of State (whether or not given by virtue of subsection (5) of that section) and subject to section 7(b) of this Act, neither body shall dispose of land, or grant a lease of land, for a consideration less than the best that reasonably can be obtained;
+
+(h) acquiring and disposing of plant, machinery, equipment and other property;
+
+(i) in addition to any power exercisable under the said subsection (1)(f), managing, developing, or carrying out works on, land, or assisting in such management or development or in the carrying out of such works, and maintaining or assisting in the maintenance of such works;
+
+(j) making land, plant, machinery, equipment and other property available for use by other persons;
+
+(k) acting directly or through an agent (who, without prejudice to the generality of this paragraph, may be the Secretary of State), or itself acting as agent for another person;
+
+(l) forming, promoting, or joining with any other person in forming or promoting, companies [[^F11]under the Companies Act 2006];
+
+(m) forming and registering societies, or joining with any other person in forming and registering societies, under [[^F12]the Co-operative and Community Benefit Societies Act 2014];
+
+(n) forming partnerships with other persons;
+
+(o) carrying out, or commissioning the carrying out of, such enquiries, investigations or researches as it may deem necessary or expedient and disseminating, or assisting in the dissemination of, information derived from those enquiries, investigations or researches;
+
+(p) promoting, or assisting in the promotion of, publicity;
+
+(q) charging for any of its services;
+
+(r) accepting any gift or grant made to it for the purposes of any of the body’s functions and, subject to the terms of the gift or grant, and to the provisions of this Act, applying the gift or grant for those purposes;
+
+(s) turning its resources to account so far as they are not required for the exercise of any of its general functions and powers; and
+
+(t) reclaiming land from the sea.
+
+(2) Without prejudice to the generality of the preceding provisions of this Act, Highlands and Islands Enterprise may engage in any activity which it deems expedient for the introduction, operation or development, by it or by other persons, or by it and by other persons, of industrial and other enterprises in the Highlands and Islands.
+
+(3) In addition to its power under subsection (1)(p) above, Highlands and Islands Enterprise may promote, or assist in the promotion of, any publicity relating to the Highlands and Islands.
+
+(4) Subject to section 13(3) of this Act, in addition to its power under subsection (1)(b) above, Highlands and Islands Enterprise may acquire and hold securities for the purpose of assisting in the provision of finance to persons carrying on or intending to carry on industrial undertakings.
+
+(5) Without prejudice to subsection (2) above, Highlands and Islands Enterprise may for the purposes of its general functions carry on, or establish and carry on, (whether by itself or jointly with another person) a business or industrial undertaking which in the opinion of the body contributes or will contribute to the economic and social development, or the improvement of the environment, of the Highlands and Islands.
+
+(6) Without prejudice to subsection (1)(f) above and to section 9 of this Act, the powers and duties conferred on Scottish Enterprise and Highlands and Islands Enterprise by this Act shall, subject to [[^F13]section 32] of this Act, be exercisable, in relation to land not belonging to them, on such terms and conditions as may be arranged by agreement with all persons having an interest in the land.
+
+(7) Any power conferred by subsection (1) above to transfer securities or other property includes, without prejudice to the generality of that subsection, the power to transfer the securities or property (or where the securities or property are held by a subsidiary of the body in question to procure transfer) to the [[^F14]Scottish Ministers or a nominee of theirs].
+
+(8) Where Highlands and Islands Enterprise makes a loan under subsection (1)(a) above to a crofter for the purpose of assisting him—
+
+(a) in the erection of any building or other structure, or the execution of any works, on his croft; or
+
+(b) in carrying on any business or undertaking on or in connection with his croft,
+
+the body may give notice of the loan to the landlord of the croft and to the Secretary of State.
+
+(9) If notice is given under subsection (8) above then—
+
+(a) in relation to the loan sections 11(7)(a) and 23(3) of the [^M3]Crofters (Scotland) Act 1955 (which provide respectively for payment to the Secretary of State of the value of improvements on the croft of a deceased crofter up to the amount of his liability to the Secretary of State and for the transfer to the Secretary of State of rights to compensation for improvements) shall apply as if for the references to the Secretary of State there were substituted references to Highlands and Islands Enterprise, so however that—
+
+(i) any rights which Highlands and Islands Enterprise thereby acquires shall be postponed to any rights, whenever constituted, of the Secretary of State under those provisions; and
+
+(ii) the landlord shall be entitled to set off all rent due, or to become due, by the crofter against any sum found to be due to Highlands and Islands Enterprise by virtue of this paragraph;
+
+(b) any amount due to the executor of the crofter under section 11(7A) of the said Act of 1955 (which provides in certain circumstances for payment by the Secretary of State to the executor of the difference between the value of improvements computed on one basis and that value computed on another) or to the crofter under section 6(3) of the [^M4]Crofters (Scotland) Act 1961 (which provides for payments to certain crofters by the Secretary of State of sums additional to compensation in respect of improvements) shall, up to the amount of any liability outstanding on the loan after giving effect to paragraph (a) above, be payable not to the executor but to Highlands and Islands Enterprise.
+
+(10) In subsections (8) and (9) above—
+
+(a) “croft” , “crofter” and “landlord” have the meanings respectively assigned to them by the said Act of 1955; and
+
+(b) any reference to a crofter includes a reference to a statutory successor within the meaning of that Act.
+
+(11) For the purposes of subsection (1)(e) above—
+
+(a) the Lands Clauses Acts (except so much of them as relates to the acquisition of land otherwise than by agreement, the provisions relating to access to the special Act and sections 120 to 125 of the [^M5]Lands Clauses Consolidation (Scotland) Act 1845); and
+
+(b) sections 6 and 70 to 78 of the [^M6]Railway Clauses Consolidation (Scotland) Act 1845 (as originally enacted and not as amended by section 15 of the [^M7]Mines (Working Facilities and Support) Act 1923),
+
+shall be incorporated with this section; and, in construing those Acts for the purposes of this section, this section shall be deemed to be the special Act and Scottish Enterprise, or as the case may be Highlands and Islands Enterprise, to be the promoter of the undertaking or company.
+
+(12) For the purposes of subsection (1)(f) above, the [^M8]Acquisition of Land (Authorisation Procedure) (Scotland) Act 1947 shall apply as if Scottish Enterprise, or as the case may be Highlands and Islands Enterprise, were a local authority and as if this section were contained in an Act in force immediately before the commencement of that Act.
+
+(13) For the purposes of section 278 of the [^M9]Town and Country Planning (Scotland) Act 1972 (general vesting declarations) Scottish Enterprise and Highlands and Islands Enterprise shall be deemed to be public authorities to which that section applies.
+
+#### 9 Powers of entry.
+
+(1) Subject to subsection (2) below, any person duly authorised in writing—
+
+(a) by Scottish Enterprise or by Highlands and Islands Enterprise (the body in question being in this paragraph referred to as the “authorising body”) may, at any reasonable time, enter upon land in order to survey it—
+
+(i) where the authorising body has under consideration the lease or purchase of the land;
+
+(ii) for the purpose of the erection of buildings or other structures, or the carrying out of works or other operations, on the land or the provision of equipment and services on or in connection with the land; or
+
+(iii) for the purpose of determining whether, and if so in what manner, any of the functions of the authorising body (other than functions referred to in section 2(3), 4(1)(a) or (b) or as the case may be 5(1)(b) of this Act) should be exercised in relation to the land;
+
+(b) by Highlands and Islands Enterprise may, at any reasonable time, enter upon land in order to survey it—
+
+(i) in connection with any proposals for submission by Highlands and Islands Enterprise to the Secretary of State under the said section 5(1)(b) or with such proposals so submitted; or
+
+(ii) for any purpose not mentioned in paragraph (a) or (b)(i) above but connected with the exercise of Highlands and Islands Enterprise’s functions under this Act (other than functions referred to in section 2(3) thereof).
+
+(2) A person authorised under this section to enter upon any land shall, if so required by the occupier or anyone acting on the occupier’s behalf, produce evidence of his authority, and shall not demand admission as of right to any land which is occupied unless at least fourteen days’ notice of the intended entry has been given to the occupier.
+
+(3) Where any land is damaged in the exercise of a power of entry conferred under this section or in the making of any survey for the purpose of which any such power of entry has been so conferred, compensation in respect of that damage may be recovered by any person interested in the land from Scottish Enterprise or as the case may be from Highlands and Islands Enterprise; and the amount of such compensation shall, in the case of any dispute, be determined by the Lands Tribunal for Scotland.
+
+(4) Any power conferred by this section to survey land shall be construed as including power to search and bore for the purpose of ascertaining the nature of the subsoil or the presence of minerals therein if notice of the intention to do so has been included in the notice required by subsection (2) of this section; but if the land is held by statutory undertakers who object to the proposed works on the ground that carrying them out would be seriously detrimental to the carrying on of the statutory undertaking, the works shall not be carried out except with the authority of the appropriate Minister.
+
+(5) In subsection (4) above, “appropriate Minister” and “statutory undertakers” have the same meanings as they have respectively in [[^F15]217 and 214 of the Town and Country Planning (Scotland) Act 1997].
+
+(6) A person entering upon any land by virtue of this section may take with him such other persons as may be necessary, and on leaving any premises which he has so entered and which are either unoccupied premises or premises the occupier of which is temporarily absent, shall leave them as effectively secured against unauthorised entry as he found them.
+
+(7) A person who wilfully obstructs any person acting in the exercise of his powers under this section shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+(8) A person who, having in accordance with this section been admitted to a factory, workshop or workplace, discloses to any other person information thereby obtained as to any manufacturing process or trade secret shall, unless the disclosure was made in the course of performing his duty in connection with the purpose for which he was authorised to enter the premises, be guilty of an offence and liable on summary conviction to a fine not exceeding the statutory maximum or on conviction on indictment to a fine.
+
+(9) Nothing in this section shall affect any rights conferred by or in accordance with [[^F16]“the electronic communications code] on the operator of [[^F17]an electronic communications code network] or any duty of any such operator under that code or apply to any [[^F18]electronic communications apparatus] kept installed for the purposes of any [[^F19]such network].
+
+#### 10 Power of Scottish Enterprise to obtain information.
+
+(1) Scottish Enterprise may, for the purpose of enabling it to make an order or serve any notice or other document which, by, under or by virtue of any of the provisions of this Act it is authorised or required to make or serve, require the occupier of any premises, and any person who, either directly or indirectly, receives rent in respect of any premises, to state in writing the nature of his interest in the premises and the name and address of any other person known to him to have an interest in the premises, whether as [^F20]... owner, heritable creditor, lessee or otherwise.
+
+(2) Any person who, having been required in pursuance of this section to give any information—
+
+(a) refuses, or fails within ten days of being so required, to give that information shall, unless he can show reasonable cause for the refusal or failure, be guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale; or
+
+(b) knowingly or recklessly makes any misstatement in response to the requirement shall be guilty of an offence and liable on summary conviction to a fine not exceeding the statutory maximum or on conviction on indictment to a fine.
+
+(3) Where an offence under this section committed by a body corporate or a Scottish firm is proved to have been committed with the consent or connivance of, or to have been attributable to any neglect on the part of, any director, partner, manager, secretary or other similar officer of the body corporate or firm or a person who was purporting to act in any such capacity, he as well as the body corporate or, as the case may be, the firm shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
+
+(4) Where the affairs of a body corporate are managed by its members, subsection (3) above shall apply in relation to the acts and defaults of a member in connection with his functions of management as if he were a director of the body corporate.
+
+#### 11 Power of Highlands and Islands Enterprise to obtain information.
+
+(1) Highlands and Islands Enterprise may by notice served on the owner or occupier of any land in the Highlands and Islands, or on any person carrying on a business or undertaking in the Highlands and Islands, require him to furnish it with such information specified in the notice as it reasonably may require for the execution in relation to the land, business or undertaking, of any of its functions under this Act other than the general function mentioned in section 1(b)(ii) thereof.
+
+(2) A person on whom a notice has been served under subsection (1) above may, within one month after such service, appeal to the sheriff on the ground that the information specified in the notice, or some part of that information, is not reasonably required by Highlands and Islands Enterprise in terms of that subsection; and the sheriff may make such order confirming, quashing or varying the notice as he thinks fit.
+
+(3) Without prejudice to the generality of subsection (2) above, the sheriff may, in determining, for the purposes of that subsection, whether information is reasonably required, take into account the probable cost or inconvenience to the appellant of furnishing the information.
+
+(4) Any person who, having been required in pursuance of this section to give any information—
+
+(a) refuses, or fails timeously, to furnish the information specified in the notice (as varied by the sheriff as the case may be) shall, unless he can show reasonable cause for the refusal or failure, be guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale; or
+
+(b) knowingly or recklessly makes any misstatement in response to the requirement shall be guilty of an offence and liable on summary conviction to a fine not exceeding the statutory maximum or on conviction on indictment to a fine.
+
+(5) Subsections (3) and (4) of section 10 of this Act shall apply in relation to an offence under this section as they apply in relation to an offence under that section.
+
+(6) The reference in subsection (4)(a) above to a person failing timeously to furnish information specified in a notice is a reference to his failing to furnish it within three months after service of the notice or, in a case where there has been an appeal under subsection (2) above as respects the notice, within three months after a decision on that appeal confirming or varying the notice, or of the abandonment of the appeal.
+
+(7) Subject to subsection (9) below, information which has been obtained by virtue of this section with respect to any land, business or undertaking shall not without the consent of the owner and occupier of that land or, as the case may be, of the person carrying on that business or undertaking, be disclosed other than for the purposes of the execution of functions which is mentioned in subsection (1) above or in compliance with a direction under section 14(2) of this Act.
+
+(8) A person who discloses information to any other person in contravention of subsection (7) above shall be guilty of an offence and liable on summary conviction to a fine not exceeding the statutory maximum or on conviction on indictment to a fine.
+
+(9) Nothing in subsection (7) above applies to a disclosure of information made for the purposes of any legal proceedings pursuant to this Part of this Act (or, if they are criminal proceedings, whether pursuant to this Part of this Act or not) or for the purposes of a report of any legal proceedings.
+
+#### 12 Further provision as regards obtaining information etc.
+
+(1) Scottish Enterprise and Highlands and Islands Enterprise shall each be a competent authority for the purposes of the [^M10]Statistics of Trade Act 1947, and the reference in section 1(1) of that Act (power of competent authorities to obtain information) to the discharge by government departments of their functions shall include a reference to the discharge by each of the bodies of its functions.
+
+(2) Nothing in section 9 of the said Act of 1947 (restrictions on disclosure of information) shall prevent or penalise—
+
+(a) the disclosure by the Secretary of State of relevant information to Scottish Enterprise or Highlands and Islands Enterprise;
+
+(b) the disclosure by Scottish Enterprise or Highlands and Islands Enterprise of relevant information to a government department;
+
+(c) the disclosure by Scottish Enterprise and Highlands and Islands Enterprise to each other, or by either to a board, of relevant information which is of a kind specified in a notice in writing given to the body making the disclosure and to the recipient of the information by the Secretary of State in pursuance of this paragraph;
+
+(d) the disclosure by Scottish Enterprise or Highlands and Islands Enterprise of relevant information, consisting of the name and address of any establishment, the numbers of persons of different descriptions employed there and the nature of the activities carried on there, to—
+
+(i) a person who is, or is to be, engaged in carrying out on behalf of either body (or both bodies) any research or survey related to matters connected with training for or relevant to employment; or
+
+(ii) an officer of a planning authority (within the meaning of the [^M11]Town and Country Planning (Scotland) Act 1972) or of a development corporation (within the meaning of the [^M12]New Towns (Scotland) Act 1968), being an officer who is authorised by the authority or as the case may be by the corporation to receive the information; or
+
+(e) the disclosure by Scottish Enterprise or Highlands and Islands Enterprise to a person to whom notice in writing is given by the Secretary of State in pursuance of this paragraph of statistics compiled wholly or partly from relevant information about the number of persons employed in any activity or area provided that the giving of the notice is intimated by the Secretary of State to the body in question before the disclosure.
+
+(3) In subsection (2) above—
+
+- “a board” means an industrial training board established under section 1 of the [^M13]Industrial Training Act 1964 or under section 1 of the [^M14]Industrial Training Act 1982; and
+- “relevant information” means information obtained under the [^M15]Statistics of Trade Act 1947,
+
+and any reference in that subsection to—
+
+(i) the Secretary of State, a government department, Scottish Enterprise, Highlands and Islands Enterprise or such a board includes an officer of his, or as the case may be of that body;
+
+(ii) such a board includes a committee appointed by the board, any officer of such a committee and any person entitled to take part in proceedings of the board.
+
+(4) Notice in pursuance of paragraph (c) or (e) of subsection (2) above shall include specification of the purpose for which the information disclosed may be used.
+
+(5) A person to whom information is disclosed by virtue of subsection (2) above shall not use the information for a purpose other than—
+
+(a) in a case falling within paragraph (a) of the subsection, a purpose of the body to which the disclosure is made;
+
+(b) in a case falling within paragraph (b) of the subsection, a purpose of the government department in question;
+
+(c) in a case falling within paragraph (c) or (e) of the subsection, the purpose specified under subsection (4) above in the notice given to the person in pursuance of the paragraph in question;
+
+(d) in a case falling within paragraph (d)(i) of the subsection, a purpose related to the carrying out of the research or survey in question;
+
+(e) in the case of information given by virtue of paragraph (d)(ii) of the subsection to an officer of a planning authority, the purposes of the functions conferred on the authority by Part II of [[^F21]the Town and Country Planning (Scotland) Act 1997]; and
+
+(f) in the case of information given by virtue of the said paragraph (d)(ii) to an officer of a development corporation, the purposes of the functions conferred on the corporation by section 3 of the [^M16]New Towns (Scotland) Act 1968 (objects and general powers of corporation).
+
+(6) A person who contravenes subsection (5) above shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+(7) Without prejudice to section 30(5) of this Act, Scottish Enterprise and Highlands and Islands Enterprise shall each furnish the Secretary of State with such information in its possession as he may require in connection with the determination of questions relating to contributions or benefit under—
+
+(a) the benefit Acts (as defined in section 84(1) of the [^M17]Social Security Act 1986); or
+
+(b) the [^M18]Social Security Act 1988,
+
+and any information falling to be furnished in pursuance of this subsection shall be furnished in such form and at such times as the Secretary of State may direct.
+
+#### 13 Restrictions on exercise of certain powers.
+
+(1) Except with the approval of the Secretary of State, the powers mentioned in subsection (1)(a)(ii), (b), (c), (l) (in relation to forming or promoting companies but not in relation to joining with any other person in forming or promoting companies) and (n) of section 8 of this Act shall be exercised by Scottish Enterprise in connection only with such of its functions as are mentioned in section 4 (1)(a) or (b) of this Act.
+
+(2) The powers mentioned in subsections (1)(a)(i) and (e) to (g) and (4) of the said section 8 shall be exercised only in accordance with arrangements made with the Secretary of State.
+
+(3) The powers mentioned in subsections (1)(a), (b), (d), (l) and (m) and (4) of the said section 8 shall be exercised by Highlands and Islands Enterprise as regards only persons carrying on, or proposing to carry on, whether or not wholly within the Highlands and Islands, a business or undertaking which in the opinion of the body contributes or will contribute to the economic and social development, or the improvement of the environment, of the Highlands and Islands.
+
+(4) Neither Scottish Enterprise nor any of its subsidiaries shall acquire any of the share capital of a body corporate except with the consent of the Secretary of State or in accordance with any general authority given by the Secretary of State—
+
+(a) if the acquisition would entitle Scottish Enterprise to exercise, or control the exercise of, 30% or more of the votes at any general meeting of the body corporate; or
+
+(b) if the value of the consideration for the acquisition, together with the value of any consideration paid for share capital of the body corporate already held by Scottish Enterprise or any of its subsidiaries would exceed £1,000,000.
+
+(5) Subsection (4)(a) above shall not restrict the acquisition of share capital which gives a right to vote exercisable only in restricted circumstances; and where Scottish Enterprise holds such share capital the fact that it does so shall be disregarded for the purpose of determining whether subsection (4)(a) above prevents acquisition of further share capital of the same body corporate.
+
+#### 14 Power of Secretary of State to give directions.
+
+(1) The Secretary of State may after consulting with—
+
+(a) Scottish Enterprise, give Scottish Enterprise;
+
+(b) Highlands and Islands Enterprise, give Highlands and Islands Enterprise,
+
+directions of a general or specific character as to the exercise of its functions; and it shall be the duty of the body in question to give effect to any such directions.
+
+(2) Without prejudice to sections 12(7) and 30(5) of this Act, the Secretary of State may give directions to Scottish Enterprise or to Highlands and Islands Enterprise requiring the body in question to furnish to a government department, in a form specified in the directions, any information so specified which has been obtained by that body by virtue of section 12(1) of this Act or otherwise.
+
+#### 14A [[^F22] Power of Ministers to confer or impose functions.
+
+(1) Without prejudice to the foregoing provisions of this Act, the functions of each of Scottish Enterprise and Highlands and Islands Enterprise shall include—
+
+(a) a power to do anything in connection with unemployment, training for employment or employment which it is authorised to do by a Minister of the Crown; and
+
+(b) a duty to do anything in connection with unemployment, training for employment or employment which it is required to do by or under a direction given to it by a Minister of the Crown.
+
+(2) Scottish Enterprise and Highlands and Islands Enterprise shall each—
+
+(a) from time to time submit to the Secretary of State particulars of what it proposes to do for the purpose of carrying out the functions conferred or imposed upon it by or under subsection (1) above; and
+
+(b) ensure that all its activities in relation to those functions are in accordance with such proposals submitted by it to the Secretary of State as have been approved by him and with such modifications (if any) of those proposals as are notified to the body in question by him.
+
+(3) The power of a Minister of the Crown by virtue of subsection (1) above to authorise or direct Scottish Enterprise or Highlands and Islands Enterprise to do anything shall include the power to delegate powers conferred on him by any enactment; but nothing in this section shall authorise any Minister of the Crown to delegate a power to make subordinate legislation (within the meaning of the [^M19]Interpretation Act 1978).]
+
+#### 15 Industrial injuries benefit.
+
+(1) Where it appears to—
+
+(a) Scottish Enterprise; or
+
+(b) Highlands and Islands Enterprise,
+
+that a person would have been entitled, by reference to an injury or disease developed by him or by another person in consequence of attendance at a course provided or approved by it or in consequence of the use of facilities so provided or approved, to receive any benefit or increase in benefit in pursuance of Part II of the [^M20]Social Security Act 1975 but for the fact that he or the other person was not at a relevant time an employed earner, it may make to him payments equal to the whole or part of the benefit or increase in question.
+
+(2) With the approval of the Secretary of State—
+
+(a) Scottish Enterprise; or
+
+(b) Highlands and Islands Enterprise,
+
+may make to a person payments by way of travelling and subsistence allowances and compensation for loss of remunerative time which it considers are appropriate in connection with the person’s attendance at any examination connected with a claim for payments from it under subsection (1) above.
+
+#### 16 Courses of training etc.: duty to give preference to certain categories of disabled person.
+
+(1) It shall be the duty of—
+
+(a) Scottish Enterprise; and
+
+(b) Highlands and Islands Enterprise,
+
+in exercising any power which the body in question has to select disabled persons for courses of training, to give preference, so far as the body in question considers it consistent with the efficient exercise of the power, to persons of the classes specified in section 16 of the [^M21]Disabled Persons (Employment) Act 1944 (classes of ex-service men and women to whom preference is to be given in terms of that section).
+
+(2) In subsection (1) above, “disabled person” has the same meaning as in the [[^F23]Equality Act 2010].
+
+#### 17 [[^F24] Encouragement of women, members of ethnic minorities and disabled persons to take up certain employment opportunities and training
+
+(1) Scottish Enterprise and Highlands and Islands Enterprise shall each, in exercising its functions, promote such actings by any employer as are lawful by virtue of section 158 of the Equality Act 2010 (the “ 2010 Act ”) (positive action: general) in relation to—
+
+(a) affording access to facilities for training, and
+
+(b) encouraging persons to take advantage of opportunities for taking up that employer’s work.
+
+(2) This section applies to the protected characteristics of sex, race and disability within the meaning of the 2010 Act .
+
+(3) This section is without prejudice to paragraph (a) of section 2(4) of this Act or to any provision of the 2010 Act prohibiting discrimination within the meaning of that Act. ]
+
+#### [^F25]18 Prohibition on discrimination in provision of certain facilities or services.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Delegation and Assistance
+
+#### 19 Delegation of certain functions and powers.
+
+(1) Subject to subsection (2) below and to section 3 of this Act, and without prejudice to section 8(1)(k) thereof, Scottish Enterprise and Highlands and Islands Enterprise may each arrange for the discharge of any of its functions by another person on such terms as may be agreed between it and that person; and with the function so delegated it may delegate to the person such of its powers as are requisite for discharging the function and may (under section 8(1) of this Act) transfer to the person such of its property as it considers appropriate on such terms as may be so agreed.
+
+(2) The following shall not be delegated under subsection (1) above—
+
+(a) the functions of Scottish Enterprise, and of Highlands and Islands Enterprise, mentioned in section 2(2) of this Act;
+
+(b) the functions of Highlands and Islands Enterprise mentioned in paragraphs (a), (b) and (f) of section 5(1) of this Act;
+
+(c) any power to acquire land compulsorily or by virtue of section 8(11) of this Act;
+
+(d) any power to authorise entry to land; or
+
+(e) any power to require or obtain information.
+
+(3) Any arrangement made by Scottish Enterprise or Highlands and Islands Enterprise under subsection (1) above shall not prevent the body in question from itself exercising the delegated function or any power delegated with the function.
+
+#### 20 Assistance from local authorities and development corporations in carrying out certain functions.
+
+(1) Any local authority may, within their area, act as agent for Scottish Enterprise or Highlands and Islands Enterprise or for any relevant person, and any development corporation of a new town may so act whether within or, with the consent of the Secretary of State, outwith the designated area of the new town, to carry out any of the functions—
+
+(a) of Scottish Enterprise mentioned in paragraphs (d) to (h) of section 4(1) of this Act; or
+
+(b) of Highlands and Islands Enterprise mentioned in paragraphs (c) to (e) of section 5(1) of this Act.
+
+(2) For the purposes of assisting Scottish Enterprise, Highlands and Islands Enterprise or any relevant person to carry out any of the functions referred to in paragraph (a) or (b) of subsection (1) above, a local authority or development corporation, on being requested by the body or person in question, may place at its or his disposal the services of officers or servants of the authority or corporation on such terms as may be agreed with that body or person.
+
+(3) The references in subsections (1) and (2) above to any relevant person are to a person to whom any of the functions to be carried out has been delegated under section 19(1) of this Act.
+
+### Areas of operation
+
+#### 21 Areas of operation.
+
+(1) Subject to the provisions of this Part of this Act, the area within or in relation to which the functions of Highlands and Islands Enterprise shall be exercisable (in this Act referred to as “the Highlands and Islands”) shall comprise—
+
+[[^F26](a) the local government areas of Highland, Western Isles, Orkney Islands, Shetland Islands and that part of Argyll and Bute which is the area of the former Argyll and Bute District Council and the islands of Arran, Great Cumbrae and Little Cumbrae;]
+
+(b) in the [[^F27]local government area of Moray,], the parishes of Aberlour, Cabrach, Dallas, Dyke, Edinkillie, Forres, Inveravon, Kinloss, Kirkmichael, Knockando, Mortlach, Rafford and Rothes; and
+
+(c) such other parts of Scotland as, having regard to their character and their proximity to the area mentioned in paragraphs (a) and (b) above, the Secretary of State may by order made by statutory instrument from time to time designate.
+
+(2) An order shall not be made under subsection (1) above unless a draft of it has been laid before, and approved by a resolution of, each House of Parliament.
+
+(3) The functions of Scottish Enterprise shall be exercisable throughout Scotland; but within or in relation to the area mentioned in subsection (1) above only if and in so far as their exercise—
+
+(a) is requested by Highlands and Islands Enterprise; or
+
+(b) is, after his consulting not only with Scottish Enterprise but also with Highlands and Islands Enterprise, directed by the Secretary of State under section 14(1)(a) of this Act.
+
+(4) Highlands and Islands Enterprise shall have an office in the Highlands and Islands at which communications and notices will be received.
+
+[[^F28](5) In this section references to local government areas are references to the new local government areas within the meaning of Part I of the Local Government etc. (Scotland) Act 1994.]
+
+### Vesting of property of the Scottish Development Agency in Scottish Enterprise and of the Highlands and Islands Development Board in Highlands and Islands Enterprise etc.
+
+#### 22 Transfer of property, rights and liabilities.
+
+(1) By virtue of this subsection, on a date which the Secretary of State may by order appoint—
+
+(a) for the purposes of this paragraph (such date being in this Act referred to as “the first transfer date”) all property, rights and liabilities to which the Scottish Development Agency are entitled or subject immediately before the first transfer date shall instead become property, rights and liabilities of, and vest in, Scottish Enterprise (that body being referred to in Schedule 3 to this Act as the Scottish Development Agency’s “successor”);
+
+(b) for the purposes of this paragraph (such date being so referred to as “the second transfer date”) all property, rights and liabilities to which the Highlands and Islands Development Board are entitled or subject immediately before the second transfer date shall instead become property, rights and liabilities of, and vest in, Highlands and Islands Enterprise (that body being referred to in the said Schedule as the Highlands and Islands Development Board’s “successor”).
+
+(2) References in this Act to—
+
+(a) property, rights and liabilities of the Scottish Development Agency or of the Highlands and Islands Development Board are references to all such property, rights and liabilities whether or not capable of being transferred or assigned by the said Agency or as the case may be by the said Board;
+
+(b) liabilities of the Scottish Development Agency include, notwithstanding the repeal by this Act of Schedule 2 to the [^M22]Scottish Development Agency Act 1975 (financial and administrative provisions relating to the Agency), any liability arising under or by virtue of that Schedule.
+
+(3) It is hereby declared for the avoidance of doubt that—
+
+(a) any reference in this Act to property of the Scottish Development Agency or of the Highlands and Islands Development Board is a reference to such property whether situated in the United Kingdom or elsewhere;
+
+(b) any reference therein to rights and liabilities of the said Agency or of the said Board is a reference to rights to which the body in question are entitled or as the case may be to liabilities to which the body are subject, whether under the law of the United Kingdom or of any part of the United Kingdom or under the law of any country or territory outwith the United Kingdom; and
+
+(c) the same date may be appointed as the first transfer date and as the second transfer date.
+
+(4) The Secretary of State may by order made by statutory instrument transfer to Scottish Enterprise or Highlands and Islands Enterprise any relevant property, rights or liabilities to which he is entitled or subject.
+
+(5) For the purposes of subsection (4) above, property, rights or liabilities—
+
+(a) are relevant if, in the opinion of the Secretary of State, connected with the carrying out by him in Scotland of functions conferred by or under the [^M23]Employment and Training Act 1973; and
+
+(b) may be transferred whether or not capable of being transferred or assigned by the Secretary of State apart from under that subsection.
+
+(6) An order under subsection (4) above may make such incidental and transitional provision as the Secretary of State considers necessary or expedient for the purposes of the order.
+
+### Dissolution of the Scottish Development Agency and of the Highlands and Islands Development Board: the Transitional Period
+
+#### 23 Dissolution of the Scottish Development Agency and of the Highlands and Islands Development Board.
+
+(1) The Scottish Development Agency shall continue in existence after the first transfer date, and the Highlands and Islands Development Board after the second transfer date, until the body in question are dissolved under subsection (3) below.
+
+(2) The bodies mentioned in subsection (1) above are, in subsection (3) below and in Schedule 3 to this Act, referred to as the “existing bodies” and the period of either such body’s continued existence as their “transitional period”.
+
+(3) The Secretary of State may by order made by statutory instrument, after consulting an existing body and their successor, dissolve the existing body on a day specified in the order, as soon as he is satisfied that nothing further remains to be done by that body (whether under the said Schedule 3 or otherwise).
+
+(4) The transitional provisions and savings contained in Schedule 3 to this Act shall have effect; but those provisions are without prejudice to sections 16 and 17 of the [^M24]Interpretation Act 1978 (effect of repeals).
+
+### Financial provisions
+
+#### 24 Financial duties of Scottish Enterprise.
+
+(1) After consultation with Scottish Enterprise, the Secretary of State may [^F29]. . .determine the financial duties of Scottish Enterprise; and different determinations may be made in relation to different functions and activities of the body.
+
+(2) The Secretary of State shall give Scottish Enterprise notice of every determination under subsection (1) above; and such a determination may—
+
+(a) relate to a period beginning before the date on which it is made;
+
+(b) contain incidental or supplemental provisions; and
+
+(c) be varied by a subsequent determination under that subsection.
+
+#### 25 Finances of Scottish Enterprise.
+
+(1) Schedule 2 to this Act shall have effect as regards the finances of Scottish Enterprise.
+
+[[^F30](1A) In any financial year the net aggregate amount of sums borrowed by Scottish Enterprise and its subsidiaries as general external borrowing shall not exceed the amount specified for that year for the purposes of this section in a Budget Act.
+
+(1B) In subsection (1A) above—
+
+- “general external borrowing” means—
+
+  - (a) in relation to Scottish Enterprise, sums borrowed by it other than sums borrowed from a body corporate which is or was one of its subsidiaries at the time of the loan,
+  - (b) in relation to a subsidiary of Scottish Enterprise, sums borrowed by the subsidiary (whether or not a subsidiary of Scottish Enterprise at the time of the loan) other than sums borrowed from Scottish Enterprise, or another subsidiary of Scottish Enterprise,
+
+- “net aggregate amount” means the aggregate amount of sums borrowed in the financial year less any repayments made during that year (otherwise than by way of interest) in respect of sums borrowed in that or any other year.]
+
+(2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F31]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F32]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 26 Finances of Highlands and Islands Enterprise.
+
+(1) The Secretary of State may [^F33]. . .make such grants to Highlands and Islands Enterprise as appear to him to be required to enable the body to meet the expenses it incurs in the exercise of its functions and powers.
+
+(2) Any grant under subsection (1) above may be subject to such conditions as the Secretary of State thinks fit to impose.
+
+(3) For the purposes of the exercise of any of its functions or powers, Highlands and Islands Enterprise may, with the consent of the Secretary of State [^F33]. . ., borrow money.
+
+[[^F34](3A) In any financial year the net amount of sums borrowed shall not exceed the amount specified for that year for the purposes of this section in a Budget Act.
+
+(3B) In subsection (3A) above, “net amount” means the amount of sums borrowed in the financial year less any repayments made during that year (otherwise than by way of interest) in respect of sums borrowed in that or any other year.]
+
+(4) No security shall be constituted over land owned by Highlands and Islands Enterprise.
+
+#### 27 Additional financing for Scottish Development Agency.
+
+In paragraph 2 of Schedule 2 to the [^M25]Scottish Development Agency Act 1975 (payments to the Agency out of money provided by Parliament), at the end of sub-paragraph (a) but before the word “and” there shall be inserted the following sub-paragraph—
+
+> (aa) in respect of payments by them under sub-paragraph (3A) of paragraph 1 above in reduction of the public dividend capital or repayments by them under sub-paragraph (2) of paragraph 4 below,
+
+.
+
+### General
+
+#### 28 Application to Crown land.
+
+(1) No power (whether a power of compulsory acquisition or other compulsory power, a power to carry out works or a power of entry) which is conferred by or under this Part shall, except with the consent of the appropriate authority, be exercisable in relation to any land in which there is a Crown interest; that is to say, an interest—
+
+(a) belonging to Her Majesty in right of the Crown; or
+
+(b) belonging to a government department or held in trust for Her Majesty for the purposes of a government department.
+
+(2) A consent given for the purposes of subsection (1) above may be given on such conditions as the appropriate authority giving the consent may consider requisite.
+
+(3) Subject to subsection (1) above, the provisions of this Part shall have effect in relation to land in which there is a Crown interest as they have effect in relation to land in which there is no such interest.
+
+(4) In this section “the appropriate authority”—
+
+(a) in relation to land belonging to Her Majesty in right of the Crown and forming part of the Crown Estate, means the Crown Estate Commissioners;
+
+(b) in relation to any other land belonging to Her Majesty in right of the Crown, means the government department having the management of that land [[^F35]or the relevant person] ; and
+
+(c) in relation to land belonging to a government department or held in trust for Her Majesty for the purposes of a government department, means that department;
+
+and, if any question arises as to what authority is the appropriate authority in relation to any land, that question shall be referred to the Treasury, whose decision shall be final.
+
+[[^F36](5) In subsection (4), “relevant person”, in relation to any land to which section 90B(5) of the Scotland Act 1998 applies, means the person who manages that land.]
+
+#### 29 Service of documents.
+
+(1) Any document required or authorised by virtue of this Act to be served on any person may be served—
+
+(a) by delivering it to him or by leaving it at his proper address or by sending it by post to him at that address; or
+
+(b) if the person is a body corporate, by serving it in accordance with paragraph (a) above on the secretary of that body; or
+
+(c) if the person is a firm, by serving it in accordance with paragraph (a) above on a partner or a person having the control or management of the firm.
+
+(2) For the purposes of this section and of section 7 of the [^M26]Interpretation Act 1978 (which relates to the service of documents by post) in its application to this section, the proper address of any person on whom a document is to be served shall be his last known address, except that—
+
+(a) in the case of service on a body corporate or its secretary, it shall be the address of the registered or principal office of the body;
+
+(b) in the case of service on a firm or a partner or a person having the control or management of a firm it shall be the address of the principal office of the firm;
+
+and for the purposes of this subsection the principal office of a company registered outside the United Kingdom or of a firm carrying on business outside the United Kingdom is its principal office within the United Kingdom.
+
+(3) If a person to be served by virtue of this Act with any document by another has specified to that other an address within the United Kingdom other than his proper address (as determined in pursuance of subsection (2) above) as the one at which he or someone on his behalf will accept documents of the same description as that document, that address shall also be treated as his proper address for the purposes of this section and for the purposes of the said section 7 in its application to this section.
+
+(4) If the name or address of any owner or occupier of land on whom by virtue of this Act any document is to be served cannot after reasonable inquiry be ascertained, the document may be served by—
+
+(a) addressing it to him by the description of “owner” or “occupier” of the land (describing it); and
+
+(b) either leaving it in the hands of a person who is or appears to be resident or employed on the land or leaving it conspicuously affixed to some building or object on or near the land.
+
+(5) This section shall not apply to any document in relation to the service of which provision is made by rules of court.
+
+(6) In this section “secretary”, in relation to a local authority within the meaning of the [^M27]Local Government (Scotland) Act 1973, means the proper officer within the meaning of that Act.
+
+#### 30 Accounts and annual reports.
+
+(1) Scottish Enterprise and Highlands and Islands Enterprise shall each keep proper accounts, and other records in relation to the accounts, and shall prepare as respects each financial year a statement of account in such form as the Secretary of State may [^F37]. . .determine.
+
+(2) The statements of account prepared under subsection (1) above shall be submitted to the Secretary of State at such time as he may direct.
+
+(3) The Secretary of State shall [^F38]. . .,transmit to the [[^F39]Auditor General for Scotland for auditing] the statements of account submitted under subsection (2) above for the financial year last ended.
+
+[^F40]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) Scottish Enterprise and Highlands and Islands Enterprise shall each provide the Secretary of State with such information relating to the exercise (and proposed exercise) of its functions as he may from time to time require, and for that purpose—
+
+(a) shall permit any person authorised to do so by the Secretary of State [^F41]. . .to inspect and make copies of its accounts, books, documents or papers; and
+
+(b) shall provide that person with such explanations in relation to the things inspected as he may reasonably require.
+
+(6) As respects, and as soon as possible after the end of, each financial year, Scottish Enterprise and Highlands and Islands Enterprise shall each make to the Secretary of State a report on the exercise of its powers and performance of its functions under this Act.
+
+(7) Without prejudice to the generality of subsection (6) above, a report under that subsection by—
+
+(a) Scottish Enterprise or Highlands and Islands Enterprise shall set out the terms of any direction given to the body in question under section 14(1) of this Act during the financial year to which the report relates, unless the direction is given by virtue of section 21(3)(b) of this Act;
+
+(b) Highlands and Islands Enterprise—
+
+(i) shall include a summary of any proposals submitted by it to the Secretary of State under section 5(1)(b) of this Act during the said financial year and, where he has refused to approve those proposals, a summary of the reasons given by him for so refusing;
+
+(ii) shall not disclose any information obtained by virtue of section 11 of this Act without the consent mentioned in subsection (7) of that section.
+
+(8) The Secretary of State shall lay before each House of Parliament a copy of each report received by him under subsection (6) above.
+
+#### 31 Application and disapplication of certain provisions.
+
+(1) Section 9 of the [^M28]Industry Act 1975 (the National Enterprise Board and the media) shall apply in relation to Scottish Enterprise as [[^F42]if any reference in that section to the Board were a reference to Scottish Enterprise].
+
+[[^F43](2) Section 21 of the Financial Services and Markets Act 2000 (restrictions on financial promotion) shall not apply to any invitation or inducement (within the meaning of that section) which Scottish Enterprise communicates in the discharge of its functions.]
+
+#### 32 Registration of agreements etc.
+
+[[^F44](1) Scottish Enterprise or Highlands and Islands Enterprise, in exercising the powers and duties conferred on it by this Act, may as respects land which does not belong to it enter into an agreement with any person who has an interest in the land (provided that it is an interest which enables the person to bind the land) for the purpose of restricting or regulating, either permanently or during such period as may be prescribed by the agreement, the development or use of the land; and the agreement may be registered either—
+
+(a) in a case where the land affected by the agreement is registered in the Land Register of Scotland, in that register; or
+
+(b) in any other case, in the appropriate Division of the General Register of Sasines.
+
+(1A) An agreement under subsection (1) above may contain such incidental and consequential provisions (including financial ones) as appear to the body in question to be necessary or expedient for the purposes of the agreement.]
+
+(2) Any agreement registered in terms of subsection (1) above shall be enforceable at the instance of Scottish Enterprise or Highlands and Islands Enterprise, as the case may be, against persons deriving title to the land from the person who entered into the agreement; but no such agreement shall be enforceable against a third party who in good faith and for value has acquired right (whether [[^F45]title has been completed] or not) to the land prior to the agreement being so registered, or against any person deriving title from that third party.
+
+(3) Notwithstanding the terms of any such agreement [^F46]..., it shall be open at any time to the parties to the agreement, or to persons deriving title from the parties, as the case may be, to agree to terminate it; and where an agreement has been registered in terms of subsection (1) above, any subsequent agreement to terminate it shall be registered in the like manner.
+
+(4) Without prejudice to section 22(1)(b) of this Act, any agreement which, but for this Act, would be enforceable at the instance of the Highlands and Islands Development Board under subsection (4) of section 5 of the [^M29]Highlands and Islands Development (Scotland) Act 1965 (recording of agreements arranged under subsection (3) of that section) shall be enforceable under subsection (2) above at the instance of Highlands and Islands Enterprise as if it were an agreement arranged by Highlands and Islands Enterprise and registered in terms of subsection (1) above.
+
+## Part II — New Towns
+
+### Winding up and dissolution of new town development corporations
+
+#### 33 Winding up and dissolution of new town development corporations.
+
+For sections 36 and 36A of the [^M30]New Towns (Scotland) Act 1968 there shall be substituted the following sections—
+
+> **36 Winding up of development corporation.**
+>
+> (1) Where the Secretary of State is satisfied that the purposes for which a development corporation were established under this Act have been substantially achieved he may by order (a “winding up order”) provide for the winding up of the corporation.
+>
+> (2) Before making a winding up order the Secretary of State shall consult–
+>
+> (a) the development corporation to which the order will relate,
+>
+> (b) the council—
+>
+> (i) of the region or islands area, and
+>
+> (ii) of each district,
+>
+> in which any part of the new town is situated, and
+>
+> (c) such other person or body as he thinks appropriate.
+>
+> (3) A winding up order shall name the day on which the winding up of the corporation is to commence and the day by which it is to be completed and may—
+>
+> (a) stipulate a timetable for the winding up,
+>
+> (b) require the corporation to make interim reports to the Secretary of State,
+>
+> (c) require the corporation to comply with any directions made by the Secretary of State under section 36C of this Act,
+>
+> (d) impose such duties, or confer such additional powers, in relation to the winding up as the Secretary of State thinks appropriate,
+>
+> (e) revoke any order relating to the development corporation,
+>
+> (f) contain such incidental, consequential, supplementary, transitional or ancillary provisions (including provision modifying the effect of any enactment as it relates to the corporation) as the Secretary of State thinks necessary or expedient.
+>
+> (4) The Secretary of State may, after such consultation as is mentioned in subsection (2) above, by order vary any of the terms of a winding up order.
+>
+> (5) An order under this section shall be made by statutory instrument which shall, if it contains provision modifying the effect of any enactment as it relates to the corporation, be subject to annulment in pursuance of a resolution of either House of Parliament.
+>
+> **36A Application of sections 35 etc. to operators of telecom-munication systems.**
+>
+> Sections 35, 36B and 36D of this Act shall have effect as if references to statutory undertakers included references to operators of any telecommunications code system and as if for this purpose—
+>
+> (a) references to a statutory undertaking were references to the running of such a system, and
+>
+> (b) references to the appropriate Minister were references to the Secretary of State for Trade and Industry.
+>
+> **36B Additional power to dispose of property etc.**
+>
+> (1) Subject to the conditions set out in subsection (2) below and without prejudice to the powers contained in section 3, 18, 18AA or 18B of this Act, a development corporation may dispose of any of their property, rights or liabilities on such terms (including by way of gift) as they think fit to any person, including (without prejudice to this generality) Scottish Enterprise, the Scottish Development Agency, Scottish Homes, a local authority or a statutory undertaker.
+>
+> (2) The conditions relating to the power conferred by subsection (1) above are that the power may be exercised only—
+>
+> (a) with the consent (which may be general or specific) of the Secretary of State, and
+>
+> (b) during the period from the date of coming into force of the winding up order until the date of dissolution of the corporation.
+>
+> **36C Direction and order making powers of Secretary of State.**
+>
+> (1) Without prejudice to the power contained in section 4(2) of this Act the Secretary of State may, in relation to a development corporation who are subject to a winding up order—
+>
+> (a) during the period from the date of coming into force of the order until the date named in the order as the date by which the corporation are to be wound up (the “winding up date”), give directions (which may be general or specific) to the corporation in relation to the winding up; and
+>
+> (b) during the period from the winding up date until the date of dissolution of the corporation, give directions (which may be general or specific) to the corporation.
+>
+> (2) In the case of a development corporation who are subject to a winding up order the Secretary of State may exercise the power conferred by section 5(2) of this Act without its having to appear to him that there are exceptional circumstances rendering such exercise expedient.
+>
+> **36D Transfer orders.**
+>
+> (1) At any time after a winding up order has been made the Secretary of State may by order (a “transfer order”), made by statutory instrument and subject to annulment in pursuance of a resolution by either House of Parliament, provide for the transfer of any property, rights and liabilities of a development corporation to any person, including (without prejudice to this generality) Scottish Enterprise, the Scottish Development Agency, Scottish Homes, a local authority or a statutory undertaker.
+>
+> (2) A transfer order may—
+>
+> (a) transfer the property, rights and liabilities on such terms (which may include transfer either with or without consideration) as the Secretary of State may provide in the order,
+>
+> (b) include provisions amending any enactment relating to Scottish Enterprise, the Scottish Development Agency, Scottish Homes, a local authority or a statutory undertaker for the purpose, or in consequence, of any transfer made to any such body by virtue of subsection (1) above, and
+>
+> (c) contain any such incidental, consequential, supplementary or ancillary provisions as the Secretary of State thinks necessary or expedient for the purposes of the order.
+>
+> (3) Any property, right or liability transferred to any person by a transfer order shall vest in that person on such date as may be specified in the order.
+>
+> (4) If a person to whom any land is transferred by a transfer order wishes to complete his title to the land by expeding a notarial instrument or notice of title or otherwise, the order shall be deemed to be and may be used as a general disposition or assignation of the land in his favour.
+>
+> **36E Reduction of liability of development corporation.**
+>
+> (1) If the Secretary of State is satisfied that it is expedient, having regard to the provisions of any transfer order or proposed transfer order, that the liability of a development corporation in respect of advances made to them under this Act should be reduced he may, by order made with the consent of the Treasury, reduce that liability to such extent as may be specified in the order.
+>
+> (2) Section 46(6) of this Act applies to orders under this section.
+>
+> **36F Grants by Secretary of State.**
+>
+> (1) Where the Secretary of State is satisfied that a disposal of land by a development corporation or any transfer of land under a transfer order imposes or will impose a financial burden on the disponee or transferee he may make grants to the disponee or transferee of amounts to be determined by him with the consent of the Treasury.
+>
+> (2) Where a development corporation are satisfied as mentioned in subsection (1) above they may make grants of amounts to be determined by them with the approval of the Secretary of State and the consent of the Treasury.
+>
+> (3) Any grant made under this section may be given subject to such conditions as the granter thinks appropriate including (without prejudice to this generality) conditions requiring repayment of all or any part of a grant in the event of non-compliance with any other condition; and any consent given under this section may be general or specific.
+>
+> **36G Dissolution of development corporation.**
+>
+> (1) A development corporation shall, after the making of a winding up order relating to them, remain in existence until such date as the Secretary of State, after consultation with the corporation, appoints for their dissolution by order made by statutory instrument.
+>
+> (2) The date appointed under subsection (1) above shall not be earlier than the date provided for in the winding up order for the completion of the winding up of the corporation.
+>
+> **36H Financial consequences of winding up.**
+>
+> Any surplus arising from the winding up of a development corporation shall be paid into the Exchequer and any deficit shall be defrayed out of money provided by Parliament.
+
+.
+
+### Financial provisions
+
+#### 34 Grants by Secretary of State to development corporations.
+
+After section 37 of the [^M31]New Towns (Scotland) Act 1968 there shall be inserted the following section—
+
+> **37AA Grants by Secretary of State to development corporation.**
+>
+> (1) For the purpose of enabling a development corporation—
+>
+> (a) to meet expenditure properly chargeable to capital account and incurred or to be incurred in providing, or in making contributions towards the cost to others of providing, any of the facilities specified in subsection (2) below, or
+>
+> (b) to make good to revenue account sums applied in meeting liabilities so chargeable and arising out of the provision of any of those facilities,
+>
+> the Secretary of State may, out of money provided by Parliament, make grants to the corporation of such amount as may be approved by the Treasury.
+>
+> (2) The facilities referred to in subsection (1) above are—
+>
+> (a) roads, paths, bridges and car parks;
+>
+> (b) public open spaces, recreation grounds, playgrounds and landscaping;
+>
+> (c) meeting halls and assembly rooms; and
+>
+> (d) any other facilities similar to those specified in paragraph (a), (b) or (c) above.
+
+.
+
+#### 35 Powers to effect financial reconstruction.
+
+After section 38A of the New Towns (Scotland) Act 1968 there shall be inserted the following section—
+
+> **Financial reconstruction**
+>
+> **38AB Power to extinguish loan obligations of development corporation.**
+>
+> (1) The Secretary of State may, with the consent of the Treasury, by order extinguish to such extent as may be specified in the order any liabilities of a development corporation in respect of advances made by him to the corporation under section 37(1) of this Act or section 12(1) of the New Towns Act 1946.
+>
+> (2) Where liabilities are extinguished under this section the assets of the National Loans Fund shall be reduced by amounts corresponding to the liabilities so extinguished.
+>
+> (3) No order shall be made under this section unless a draft of it has been laid before, and approved by, the Commons House of Parliament.
+
+.
+
+## Part III — Miscellaneous and General
+
+### 36 Interpretation.
+
+(1) In this Act, unless the context otherwise requires—
+
+- “derelict land” has the meaning given by section 7 of this Act;
+- “employment” means employment whether under a contract of service, or a contract of apprenticeship, or a contract for services or otherwise than under a contract, and cognate expressions shall be construed accordingly;
+- “existing body” has the meaning given by section 23(2) of this Act;
+- “facilities” includes services;
+- “financial year” means—
+
+(a) as regards Scottish Enterprise, the period beginning with the first transfer date and ending with 31st March 1992;
+
+(b) as regards Highlands and Islands Enterprise, the period beginning with the second transfer date and ending with 31st March 1992,
+
+and each subsequent period of twelve months ending with 31st March;
+
+- “the first transfer date” means the date appointed for the purposes of paragraph (a) of section 22(1) of this Act;
+- “general external borrowing” shall be construed in accordance with section (4) of this Act;
+- “the Highlands and Islands” shall be construed in accordance with section 21(1) of this Act;
+- “industry” includes any description of commercial activity and any section of an industry, and “industrial” shall be construed accordingly;
+- “local authority” means a [[^F47]council constituted under section 2 of the Local Government etc. (Scotland) Act 1994];
+- “sea bed” includes its subsoil;
+- “the second transfer date” means the date appointed for the purposes of paragraph (b) of the said section 22(1);
+- “subsidiary” and “wholly owned subsidiary” have the meanings given by [[^F48]section 1159 of the Companies Act 2006];
+- “successor” , in relation to an existing body, shall be construed in accordance with the said section 22(1);
+- “training” includes education with a view to employment, and cognate expressions shall be construed accordingly; and
+- “transitional period” , in relation to an existing body, has the meaning given by section 23(2) of this Act.
+
+(2) Except where the context otherwise requires, this Act shall apply in relation to any [^F49]... interest in, or right over, the sea bed as it applies in relation to land; and the [^M32]Acquisition of Land (Authorisation Procedure) (Scotland) Act 1947 and the relevant compulsory purchase enactments shall apply accordingly.
+
+(3) The reference in subsection (2) above to the relevant compulsory purchase enactments is to the Lands Clauses Acts, to sections 6 and 70 to 78 of the [^M33]Railways Clauses Consolidation (Scotland) Act 1845, to the [^M34]Land Compensation (Scotland) Act 1963, to [[^F50]section 195 of, and Schedule 15 to, the Town and Country Planning (Scotland) Act 1997] and to the [^M35]Land Compensation (Scotland) Act 1973.
+
+### 37 Finance.
+
+There shall be defrayed out of money provided by Parliament—
+
+(a) any expenses of the Secretary of State incurred under this Act; and
+
+(b) any increase attributable to this Act in the sums so payable under any other enactment.
+
+### 38 Amendments and repeals.
+
+(1) The enactments mentioned in Schedule 4 to this Act shall have effect subject to the amendments specified in that Schedule (being minor amendments and amendments consequential on the provisions of this Act).
+
+(2) The enactments mentioned in Schedule 5 to this Act are hereby repealed to the extent specified in the third column of that Schedule, with those specified in Part I of the Schedule coming into force on the first transfer date, those in Part II on the dissolution of the Scottish Development Agency, those in Part III on the second transfer date and those in Part IV on the dissolution of the Highlands and Islands Development Board.
+
+(3) The Secretary of State may by order make such consequential modifications of any provision contained in any subordinate legislation made before—
+
+(a) the first transfer date as appear to him to be necessary or expedient in connection with functions becoming, by section 1(a)(ii) of this Act, functions of Scottish Enterprise;
+
+(b) the second transfer date as appear to him to be necessary or expedient in connection with functions becoming, by section 1(b)(ii) of this Act, functions of Highlands and Islands Enterprise,
+
+and any provision of any order made under this subsection after the transfer date in question may be made so as to have effect as from that or any later date.
+
+(4) The power to make an order under subsection (3) above shall be exercisable by statutory instrument subject to annulment in pursuance of a resolution of either House of Parliament.
+
+### 39 Commencement.
+
+(1) This Act, except the provisions mentioned in subsection (3) below, shall come into force on such day as the Secretary of State may by order made by statutory instrument appoint; and different days may be so appointed for different provisions or for different purposes.
+
+(2) An order under subsection (1) above may make such transitional provision as appears to the Secretary of State necessary or expedient in connection with the provisions brought into force by the order.
+
+(3) The provisions of this Act excepted in subsection (1) above are—
+
+(a) section 23(4) in so far as relating to paragraphs 4 and 5 of Schedule 3;
+
+(b) sections 36, 37 and 38(2), this section and section 40;
+
+(c) the said paragraphs 4 and 5;
+
+(d) sections 19 and 20, but only for the purposes of the said paragraphs 4 and 5; and
+
+(e) Schedule 5.
+
+### 40 Short title and extent.
+
+(1) This Act—
+
+(a) may be cited as the Enterprise and New Towns (Scotland) Act 1990; and
+
+(b) subject to subsection (2) below, extends only to Scotland.
+
+(2) This section, section 39 and so much of section 38 and Schedules 4 and 5 as relates to enactments (or as the case may be subordinate legislation) extending to England and Wales extend also to England and Wales.
+
+## SCHEDULE 1 — Constitution and Proceedings etc. of Scottish Enterprise and Highlands and Islands Enterprise
+
+*Section 1*
+
+### Incorporation
+
+**1** Each of the two bodies—
+
+(a) shall be a body corporate; and
+
+(b) shall have a common seal.
+
+### Status
+
+**[^F51]2** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**3** Neither of the two bodies shall—
+
+(a) be regarded as a servant or agent of the Crown;
+
+(b) have any status, immunity or privilege of the Crown;
+
+(c) be exempt from any tax, duty, rate, levy or other charge whatsoever, whether general or local,
+
+and their property shall not be regarded as property of, or held on behalf of, the Crown.
+
+**4** Scottish Enterprise shall be treated for all purposes of corporation tax as if it were the same person as the Scottish Development Agency.
+
+### Membership
+
+**5** The members of Scottish Enterprise shall be—
+
+(a) not less than eight, nor more than eleven, persons appointed under this sub-paragraph by the Secretary of State (regard being had to the principle that equality of opportunity should be promoted as between men and women) from persons who appear to him to have knowledge or experience relevant to the discharge of the functions of the body; and
+
+(b) the person who is for the time being the chief executive of the body.
+
+**6** The members of Highlands and Islands Enterprise shall be—
+
+(a) not less than six, nor more than eleven, persons appointed under this paragraph by the Secretary of State (regard being had to the principle mentioned in paragraph 5(a) above) from persons who appear to him to have knowledge or experience relevant to the discharge of the functions of the body; and
+
+(b) the person who is for the time being the chief executive of the body.
+
+**7** The Secretary of State shall satisfy himself—
+
+(a) before he appoints a person under paragraph 5(a) or 6(a) above, that the person has no financial or other interest likely to affect prejudicially performance as a member of the body in question;
+
+(b) from time to time that each person so appointed continues, and has continued, to have no such interest.
+
+**8** A person in respect of whom the Secretary of State requires to be satisfied as is mentioned in paragraph 7(b) above shall, whenever requested by the Secretary of State to do so, furnish the Secretary of State with such information as the Secretary of State may consider necessary for the purposes of that requirement.
+
+**9** Subject to the provisions of this paragraph and of paragraphs 10 and 11 below, each member of either body other than its chief executive—
+
+(a) shall hold and vacate office in accordance with the terms of the instrument under which he is appointed a member;
+
+(b) may, by written notice to the Secretary of State, resign membership; and
+
+(c) after ceasing to hold office shall be eligible for reappointment to the body.
+
+**10** The Secretary of State may remove a member, other than the chief executive, of either body from office if satisfied that the member—
+
+(a) has been adjudged bankrupt, has made an arrangement with his creditors, has had his estate sequestrated, or has granted a trust deed for his creditors or a composition contract;
+
+(b) is incapacitated by physical or mental illness;
+
+(c) has been absent from meetings of the body in question for a period longer than three consecutive months without the permission of that body; or
+
+(d) is otherwise unable or unfit to discharge his functions as a member or is unsuitable to continue as a member.
+
+### Chairmen and Deputy Chairmen
+
+**11** (1) In respect of each of the bodies—
+
+(a) the Secretary of State shall appoint one of its members to be chairman; and
+
+(b) after consulting the chairman, may appoint one (or more) of its members to be deputy chairman (or deputy chairmen),
+
+and a chairman, or as the case may be deputy chairman, shall hold and vacate the office in question in accordance with the terms of the instrument under which he is appointed to that office.
+
+(2) A member of either body may resign as chairman or deputy chairman of that body by written notice to the Secretary of State; but a chairman or deputy chairman of either body who ceases to be a member of that body (whether or not on giving notice under paragraph 9(b) above) ceases to be its chairman or deputy chairman.
+
+(3) Where a member of either body becomes, or ceases to be, the chairman or a deputy chairman of the body in question, the Secretary of State may vary the terms of the instrument under which he is appointed a member so as to alter the date on which office as a member is to be vacated.
+
+### Remuneration, Allowances and Pensions
+
+**12** (1) Each of the bodies shall pay to its chairman, deputy chairman (or deputy chairmen) and members, other than the chief executive—
+
+(a) such remuneration as the Secretary of State may [^F52]. . . determine; and
+
+(b) such reasonable allowances as may be so determined in respect of expenses properly incurred by them in the performance of their duties.
+
+(2) Where a person (other than a chief executive) ceases to be a member of one or other of the bodies otherwise than on the expiry of his term of office and it appears to the Secretary of State that there are special circumstances which might make it right for the person to receive compensation, the Secretary of State may [^F52]. . .direct the body in question to pay to the person such amount as the Secretary of State may [^F52]. . . determine.
+
+**13** The Secretary of State may [^F53]. . . determine that in respect of any office held by a person as chairman, deputy chairman or member (other than the chief executive) of either of the two bodies, the body in question shall pay—
+
+(a) such pension, allowance or gratuity to, or in respect of, that person on his retirement or death;
+
+(b) such contribution or other payments towards provision for such pension, allowance or gratuity,
+
+as may be so determined.
+
+### Staff
+
+**14** In respect of each of the bodies, the Secretary of State shall, after consultation with its chairman (or chairman designate) make the first appointment of its chief executive on such terms and conditions as the Secretary of State may [^F54]. . . determine; and thereafter the body in question may, with the approval of the Secretary of State, make subsequent appointments to the office of chief executive on such terms and conditions as it may, with the approval of the Secretary of State [^F54]. . .determine.
+
+**15** (1) Subject to paragraph 16 below, each of the bodies may appoint on such terms and conditions as it may, with the approval of the Secretary of State [^F55]. . .determine, such other employees as it thinks fit.
+
+(2) Each of the bodies shall, as regards such of its employees as it may with the approval of the Secretary of State [^F55]. . .determine, make such arrangements for providing pensions, allowances or gratuities (to or in respect of those employees) as it may determine; and such arrangements may include the establishment and administration, by the body in question or otherwise, of one or more pension schemes.
+
+(3) The reference in sub-paragraph (2) above to the provision of pensions, allowances or gratuities includes a reference to their provision by way of compensation for loss of office or employment or loss or diminution of emoluments.
+
+(4) If a person employed by either body becomes a member of the body and was by virtue of that employment a participant in a pension scheme administered by the body for the benefit of its employees the body may determine that his service as a member shall be treated for the purposes of the scheme as service as an employee whether or not any benefits are to be payable to or in respect of him by virtue of paragraph 13 above; but if the body does so determine, then any discretion as to the benefits payable to or in respect of the person which the scheme confers on it shall be exercisable only with the consent of the Secretary of State [^F55]. . ..
+
+**16** (1) Not later than such date as the Secretary of State may determine—
+
+(a) Scottish Enterprise shall make an offer of employment by it to each person employed immediately before that date—
+
+(i) by the Scottish Development Agency;
+
+(ii) by the Training Agency to work wholly or mainly in such part of Scotland as is outwith the area mentioned in section 21(1) of this Act;
+
+(b) Highlands and Islands Enterprise shall make an offer of employment by it to each person employed immediately before that date—
+
+(i) by the Highlands and Islands Development Board;
+
+(ii) by the Training Agency to work wholly or mainly within the area so mentioned,
+
+except that if such a person by written notice to Scottish Enterprise, or as the case may be to Highlands and Islands Enterprise, has intimated that he does not require such an offer of employment to be made by the date so determined and, in the case of a person mentioned in paragraph (a)(ii) or (b)(ii) above, has not elected secondment under sub-paragraph (6) below, such an offer may instead be made under this sub-paragraph at a later date but, subject to sub-paragraph (8) below, shall in any event be so made within seven days of receipt, before the first transfer date by Scottish Enterprise or before the second transfer date by Highlands and Islands Enterprise, of any subsequent written notice from the person requiring that it be made.
+
+(2) In this and the following paragraph “the Training Agency” means the part of the department of the Secretary of State for Employment which is so known, other than so much of that part as is known either as the Skills Training Agency or as the Employment Rehabilitation Service.
+
+(3) The terms of any offer under sub-paragraph (1) above shall be such that they are, taken as a whole, not less favourable to the person to whom the offer is made than the terms on which he is employed on the date on which the offer is made.
+
+(4) Any question as to what persons are employed as mentioned in sub-paragraph (1) above and, in respect of any such person, the body by which an offer is (subject to the exception mentioned in the sub-paragraph) to be made under the sub-paragraph shall be determined by the Secretary of State, whose decision in the matter in question shall be final.
+
+(5) For the purposes of sub-paragraph (3) above, no account shall be taken of the fact that employment with Scottish Enterprise or Highlands and Islands Enterprise is not employment in the service of the Crown.
+
+(6) Instead of forthwith accepting or declining an offer made to him under sub-paragraph (1)(a)(ii) or (b)(ii) above, or if he has given notice that he does not require such an offer and none has been made, a person may (without prejudice to sub-paragraph (7) below) elect to be seconded to Scottish Enterprise, or as the case may be Highlands and Islands Enterprise, on such terms as the body in question may agree with him and with the Training Agency; but any such secondment shall end not later than three years after—
+
+(a) in the case of secondment to Scottish Enterprise, the first transfer date; and
+
+(b) in the case of secondment to Highlands and Islands Enterprise, the second transfer date,
+
+and if during the period of secondment the person by written notice to Scottish Enterprise, or as the case may be Highlands and Islands Enterprise, requires that such an offer be made (whether or not the secondment followed such an offer), the body in question shall within thirty days of receiving the notice comply with the requirement.
+
+(7) An offer under sub-paragraph (1) above—
+
+(a) where made before the date determined under sub-paragraph (1) above, shall not be revocable during the period of three months commencing with the date on which made;
+
+(b) where made after the date so determined, shall not be revocable before—
+
+(i) in the case of an offer by Scottish Enterprise, the first transfer date;
+
+(ii) in the case of an offer by Highlands and Islands Enterprise, the second transfer date,
+
+or, if later, the date thirty clear days after that on which the offer is made,
+
+(c) where it is an offer whose recipient has elected secondment under sub-paragraph (6) above, shall not be revocable during the period of secondment (though it shall be superseded by any subsequent such offer to him).
+
+(8) Any such subsequent written notice as is referred to in sub-paragraph (1) above shall for the purposes of that sub-paragraph be disregarded if the person is, at the time of giving it, no longer an employee of the Scottish Development Agency or as the case may be of the Highlands and Islands Development Board or the Training Agency.
+
+**17** (1) Where a person becomes an employee of Scottish Enterprise or Highlands and Islands Enterprise in consequence of his acceptance of an offer made under sub-paragraph (1) of paragraph 16 above, then, for the purposes of [[^F56]the Employment Rights Act 1996], his period of employment in the Scottish Development Agency (including any period of employment in the Scottish Industrial Estates Corporation or the Small Industries Council for Rural Areas of Scotland which, under paragraph 6 of Schedule 3 to the [^M36]Scottish Development Agency Act 1975, falls to be regarded as continuous with that period of employment) or as the case may be in the Highlands and Islands Development Board or the civil service of the State shall count as a period of employment in Scottish Enterprise or as the case may be Highlands and Islands Enterprise; and the change of employment shall not break the continuity of the period of employment.
+
+(2) Where a person receives an offer under head (a)(i) or (b)(i) of sub-paragraph (1) of paragraph 16 above (whether or not by virtue of the exception to that sub-paragraph), none of the agreed redundancy procedures applicable to an employee of the Scottish Development Agency, or as the case may be of the Highlands and Islands Development Board, shall apply to him; and where the person ceases to be such an employee—
+
+(a) on becoming an employee of Scottish Enterprise or Highlands and Islands Enterprise in consequence of that paragraph; or
+
+(b) having unreasonably refused the offer,
+
+[^F57]. . . he shall not be treated for the purposes of any scheme provided or maintained by virtue of paragraph 10(2) of Schedule 1 to the Scottish Development Agency Act 1975 or paragraph 14(1)(b) of Schedule 1 to the [^M37]Highlands and Islands Development (Scotland) Act 1965, as having been retired on redundancy.
+
+(3) A person who ceases to be an employee of the Training Agency on becoming an employee of Scottish Enterprise or Highlands and Islands Enterprise by virtue of paragraph 16 above, shall not be treated, for the purposes of any scheme under section 1 of the [^M38]Superannuation Act 1972, as having been retired on redundancy.
+
+**18** (1) Any dispute as to whether an offer under sub-paragraph (1) of paragraph 16 above complies with sub-paragraph (3) of that paragraph shall be referred to and be determined by an [[^F58]employment tribunal].
+
+(2) An [[^F58]employment tribunal] shall not consider a complaint referred to it under sub-paragraph (1) above unless the complaint is presented to the tribunal before the end of the period of three months beginning with the date on which the offer is made or within such further period as the tribunal considers reasonable in a case where satisfied that it was not reasonably practicable for the complaint to be presented before the end of the period of three months.
+
+(3) Subject to sub-paragraph (4) below, there shall be no appeal from the decision of an [[^F58]employment tribunal] under this paragraph.
+
+(4) An appeal to the Employment Appeal Tribunal may be made only on a question of law arising from the decision of, or in proceedings before, an [[^F58]employment tribunal] under this paragraph.
+
+### Proceedings
+
+**19** The quorum of each body, and the arrangements for its meetings, shall be such as the body in question may determine.
+
+**20** (1) A member of either body who is directly or indirectly interested in—
+
+(a) a contract made or proposed to be made by it; or
+
+(b) any other matter whatsoever which falls to be considered by it,
+
+shall as soon as is practicable disclose the nature of his interest at a meeting of the body; and the disclosure shall be recorded in the minutes of the meeting.
+
+(2) In the case mentioned in—
+
+(a) head (a) of sub-paragraph (1) above, the member shall not take part in any deliberation or decision of the body with respect to the contract;
+
+(b) head (b) of that sub-paragraph, the member shall not take part in any deliberation or decision of the body with respect to the matter if the body decides that the interest in question might affect prejudicially his consideration of the matter.
+
+(3) For the purposes of this paragraph, a notice to the effect that a person is a member of a specified body corporate or firm and is to be regarded as interested in any contract which is made with the body corporate or firm after the date of the notice, and in any other matter whatsoever concerning the body corporate or firm which falls to be considered after that date, shall if given at a meeting of Scottish Enterprise or Highlands and Islands Enterprise be a sufficient disclosure of the person’s interest to Scottish Enterprise or as the case may be Highlands and Islands Enterprise.
+
+(4) For the purposes of this paragraph disclosure at a meeting may be made without the attendance in person of the member in question provided that he takes reasonable steps to secure that the matter disclosed is in a notice taken into consideration at the meeting.
+
+**21** The validity of any proceedings of either body shall not be affected by any vacancy among its members or by any defect in the appointment of a member or by any failure to comply with any requirement of paragraph 20 above.
+
+### Committees
+
+**22** (1) For or in connection with the discharge of its general functions or the exercise of its powers either body may establish such committees (whose members need not be members of the body in question) as appear to it to be appropriate; and the composition and remit of committees so established and the terms on which members of such committees hold office shall be determined by the establishing body.
+
+(2) A body establishing a committee under sub-paragraph (1) above shall pay to members of the committee who are not members of the body travelling and other allowances, including compensation for loss of remunerative time, in accordance with such arrangements as may be determined by the Secretary of State [^F59]. . ..
+
+### Execution of Documents
+
+**[^F60]23** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 2 — Financial Provisions Relating To Scottish Enterprise
+
+*Section 25*
+
+### Financing of Scottish Enterprise
+
+**1** The Secretary of State may, out of money provided by Parliament and subject to such conditions as he thinks fit to impose, pay such sums to Scottish Enterprise—
+
+(a) in respect of the exercise of its functions, and
+
+(b) in respect of its administrative expenses,
+
+as he may [^F61]. . ..determine.
+
+### Borrowing powers and government loans
+
+**2** (1) For the purpose of the exercise of any of its functions Scottish Enterprise—
+
+(a) may, subject to such conditions as [^F62]. . .the Secretary of State thinks fit to impose, borrow from him, and he may lend to it out of money provided by Parliament, sums of such amounts as he may, with such consent, determine; and
+
+(b) may, with the consent of the Secretary of State [^F62]. . .borrow money, whether in sterling or otherwise, from any other person or body, whether in the United Kingdom or elsewhere.
+
+(2) Scottish Enterprise may borrow money from any of its wholly-owned subsidiaries without obtaining the consent of the Secretary of State.
+
+**3** Any loans made in pursuance of paragraph 2(1)(a) above shall be repaid to the Secretary of State at such times and by such methods, and interest on the loans shall be paid to him at such times and at such rates, as he may from time to time [^F63]. . .direct; and all sums received by the Secretary of State in pursuance of this paragraph shall be paid into the Consolidated Fund.
+
+### Borrowing by wholly owned subsidiaries
+
+**4** It shall be the duty of Scottish Enterprise to secure that no wholly owned subsidiary of that body borrows money otherwise than from the body, or from another wholly owned subsidiary of the body, except with the consent of the Secretary of State [^F64]. . ..
+
+### Guarantees
+
+**5** (1) The Secretary of State may [^F65]. . . guarantee, in such manner and on such conditions as he thinks fit, the repayment of the principal of, the payment of interest on, and the discharge of any other financial obligation in connection with, any sums which Scottish Enterprise borrows from a person other than the Secretary of State.
+
+(2) Immediately after a guarantee is given under this paragraph, the Secretary of State shall lay a statement of the guarantee before each House of Parliament; and where any sum is issued for fulfilling a guarantee so given, he shall lay before each House of Parliament a statement relating to that sum, as soon as possible after the end of each financial year, beginning with that in which the sum is issued and ending with that in which all liability in respect of the principal of the sum and in respect of interest on it is finally discharged.
+
+(3) Any sums required by the Secretary of State for fulfilling a guarantee under this paragraph shall be paid out of money provided by Parliament.
+
+(4) If any sums are issued by the Secretary of State in fulfilment of a guarantee given by him under this paragraph, or by the Treasury under paragraph 6 of Schedule 2 to the [^M39]Scottish Development Agency Act 1975, Scottish Enterprise shall make to him at such time and in such manner as [^F65]. . .he from time to time directs, payments of such amounts as, with such consent, he so directs in or towards repayment of the sums so issued and payments of interest, at such rate as, with such consent, he so directs, on what is outstanding for the time being in respect of sums so issued.
+
+(5) Any sums received by the Secretary of State in pursuance of sub-paragraph (4) above shall be paid into the Consolidated Fund.
+
+### Payments by Scottish Enterprise
+
+**6** (1) The Secretary of State may from time to time, after consultation with Scottish Enterprise, direct it to pay to him, on a date specified in the direction, such sum as may be so specified, being a sum not required for the exercise of its functions nor apart from this sub-paragraph payable under or by virtue of any provision of this Act.
+
+(2) Any sum received by the Secretary of State by virtue of sub-paragraph (1) above shall be paid into the Consolidated Fund.
+
+## SCHEDULE 3 — Transitional Provisions and Savings
+
+*Section 23(4)*
+
+### Constitution of the Scottish Development Agency
+
+**1** During the Scottish Development Agency’s transitional period, section 1(2) of the Scottish Development Agency Act 1975 (constitution of the Agency) shall have effect as if for the word “eight” there were substituted the word “ three ”.
+
+### Vesting of existing bodies’ foreign property in Scottish Enterprise or Highlands and Islands Enterprise
+
+**2** (1) It shall be the duty of each existing body and their successor to take, as and when during the existing body’s transitional period the successor considers appropriate, all such steps as may be requisite to secure that the vesting in the successor, by virtue of section 22(1) of this Act or this paragraph, of any foreign property, right or liability is effective under the relevant foreign law.
+
+(2) During their transitional period, until such vesting as is mentioned in sub-paragraph (1) above in their successor is effective in foreign law, it shall be the duty of each existing body to hold the property or right in question for the benefit of, or to discharge the liability on behalf of, the successor.
+
+(3) Nothing in sub-paragraph (1) and (2) above shall be taken as prejudicing the effect under the law of the United Kingdom or of any part of the United Kingdom of such vesting as is so mentioned.
+
+(4) Each existing body shall have all such powers as may be requisite for the performance of their duty under this paragraph, but—
+
+(a) it shall be the duty of their successor during the existing body’s transitional period to act on their behalf (so far as possible) in performing the duty imposed on the existing body by this paragraph; and
+
+(b) any foreign property, right or liability acquired or incurred by the existing body during that period shall immediately become the property, right or liability of their successor.
+
+(5) References in this paragraph to any foreign property, right or liability are references to any property, right or liability as respects which any issue arising in any proceedings would have been determined (in accordance with the rules of private international law) by reference to the law of a country or territory outwith the United Kingdom.
+
+(6) Any expenses incurred by an existing body under this paragraph shall be met by their successor.
+
+### Other property
+
+**3** The repeal by this Act of section 15(1) and (3) to (5) of the [^M40]Scottish Development Agency Act 1975 (transfer of property, rights and liabilities of certain bodies to the Agency) does not affect—
+
+(a) the title of Scottish Enterprise to land vested in it by virtue of section 22 of this Act; or
+
+(b) any rights, liabilities or obligations relating to any such land and in existence immediately before that repeal took effect.
+
+### Delegation
+
+**4** Section 19 of this Act (in this paragraph referred to as the “relevant section”) shall—
+
+(a) until the first transfer date, have effect in relation to the Scottish Development Agency as the relevant section has effect (or as the case may be is to have effect) in relation to Scottish Enterprise, except that the reference in paragraph (c) of subsection (2) of the relevant section to section 8(11) of this Act shall be construed as a reference to section 9(3) of the Scottish Development Agency Act 1975 (attraction of provisions relating to acquisition of land) and that paragraph (a) of the said subsection (2) shall be disregarded; and
+
+(b) until the second transfer date, have effect in relation to the Highlands and Islands Development Board as the relevant section has effect (or as the case may be is to have effect) in relation to Highlands and Islands Enterprise, except that any reference in subsection (1) of the relevant section to functions shall be construed as a reference to duties under paragraph (c) of section 3(1) of the [^M41]Highlands and Islands Development (Scotland) Act 1965 (measures to implement certain proposals) and that paragraphs (a) and (b) of subsection (2) of the relevant section shall be disregarded.
+
+### Assistance
+
+**5** Section 19 of the [^M42]Scottish Development Agency Act 1975 shall cease to have effect but section 20 of this Act (in this paragraph referred to as the “relevant section”) shall—
+
+(a) until the first transfer date, have effect in relation to the Scottish Development Agency as the relevant section has effect (or as the case may be is to have effect) in relation to Scottish Enterprise, except that the reference in subsection (1)(a) of the relevant section to paragraphs (d) to (h) of section 4(1) of this Act shall be construed as a reference to paragraphs (c) to (e) and (g) to (i) of section 2(2) of the said Act of 1975;
+
+(b) until the second transfer date, have effect in relation to the Highlands and Islands Development Board as the relevant section has effect (or as the case may be is to have effect) in relation to Highlands and Islands Enterprise, except that the reference in subsection (1)(b) of the relevant section to paragraphs (c) to (e) of section 5(1) of this Act shall be construed as a reference to paragraph (c) of section 3(1) of the Highlands and Islands Development (Scotland) Act 1965,
+
+with subsection (2) of the relevant section being construed accordingly and subsection (3) thereof being construed as if at the end there were added the words “ (whether or not by virtue of paragraph 4 of Schedule 3 to this Act) ”.
+
+### Effect of, and interpretation of, agreements etc.
+
+**6** Any agreement made, transaction effected or other thing done by, to or in relation to—
+
+(a) the Scottish Development Agency which is in force or effective immediately before the first transfer date; or
+
+(b) the Highlands and Islands Development Board which is in force or effective immediately before the second transfer date,
+
+shall have effect as if made, effected or done by, to or in relation to the body in question’s successor, in all respects as if the successor were the same person in law as that body; and accordingly references to the Agency or as the case may be to the Board—
+
+(i) in any agreement (whether or not in writing) and in any deed, bond or instrument;
+
+(ii) in any process or other document issued, prepared or employed for the purposes of any proceedings before any court or other tribunal or authority; and
+
+(iii) in any other document whatsoever (other than an enactment) relating to or affecting any property, right or liability of the body in question which is transferred by this Act,
+
+shall be taken as referring to that body’s successor.
+
+### Pensions
+
+**7** Any arrangements made—
+
+(a) by the Scottish Development Agency under paragraph 10(2) of Schedule 1 to the [^M43]Scottish Development Agency Act 1975 for the payment of pensions shall be treated on and after the first transfer date (so far as may be necessary to preserve their effect) as having been made by Scottish Enterprise under paragraph 15(2) of Schedule 1 to this Act;
+
+(b) by the Highlands and Islands Development Board under paragraph 14(1)(b) of Schedule 1 to the [^M44]Highlands and Islands Development (Scotland) Act 1965 shall be treated on and after the second transfer date (so far as may be necessary to preserve their effect) as having been made by Highlands and Islands Enterprise under the said paragraph 15(2),
+
+and any pension scheme established and administered by either of the existing bodies shall be deemed to be a pension scheme established and administered by their successor under the said paragraph 15(2) and shall continue to be administered accordingly.
+
+### Compensation Payments
+
+**8** (1) Where any regulations made under paragraph 3 of Schedule 3 to the Scottish Development Agency Act 1975 (compensation for certain persons) are in force immediately before the first transfer date, those regulations shall continue in force (subject to the following provisions of this paragraph) notwithstanding the repeal by this Act of that Schedule.
+
+(2) Any reference to the Scottish Development Agency in any regulations continued in force by virtue of sub-paragraph (1) above shall have effect, as respects anything falling to be done or occurring on or after that day, as if it were a reference to Scottish Enterprise.
+
+(3) Any regulations continued in force by virtue of sub-paragraph (1) above may be amended or revoked in like manner as if section 26 of the said Act of 1975 and paragraphs 3 to 5 of Schedule 3 to that Act had not been repealed (but any reference in those provisions to the Agency shall, unless the context otherwise requires, be construed as a reference to Scottish Enterprise).
+
+### Final reports and accounts of the existing bodies etc.
+
+**9** (1) Notwithstanding the repeal by this Act of section 3(1)(e) and (3) of the Highlands and Islands Development (Scotland) Act 1965 (reports to Secretary of State)—
+
+(a) it shall continue, in accordance with the provisions of the said section 3(1)(e) and (3), to be the duty of the Highlands and Islands Development Board to make a report to the Secretary of State in respect of each calendar year ending before the second transfer date and of the Secretary of State to lay a copy of any such report before each House of Parliament; and
+
+(b) the said provisions shall also apply as respects the period between the end of the calendar year in question and that transfer date as if the transfer date were the last day of the subsequent calendar year.
+
+(2) Notwithstanding the repeal by this Act of section 13 of the said Act of 1965 (accounts etc.)—
+
+(a) it shall continue, in accordance with the provisions of that section, to be the duty of the Highlands and Islands Development Board to keep such accounts and other records as are, and to prepare in respect of each financial year ending before the second transfer date such statement of account as is, mentioned in subsection (1) of that section and to submit the statement of account to the Secretary of State, of the Secretary of State to transmit the statement of account to the Comptroller and Auditor General and of the Comptroller and Auditor General to examine and certify the statement of account and lay before Parliament copies of it with his report on it; and
+
+(b) the said provisions shall also apply as respects the period between the end of the financial year in question and that transfer date as if the transfer date were the last day of the subsequent financial year.
+
+(3) Notwithstanding the repeal by this Act of paragraph 9 of Schedule 2 to the [^M45]Scottish Development Agency Act 1975 (annual report to Secretary of State)—
+
+(a) it shall continue, in accordance with the provisions of that paragraph, to be the duty of the Scottish Development Agency to make a report to the Secretary of State in respect of each financial year ending before the first transfer date and of the Secretary of State to lay a copy of any such report before each House of Parliament; and
+
+(b) the said provisions shall also apply as respects the period between the end of the financial year in question and that transfer date as if the transfer date were the last day of the subsequent financial year.
+
+(4) Notwithstanding the repeal by this Act of paragraph 8 of the said Schedule 2 (accounts of the Agency etc.)—
+
+(a) it shall continue, in accordance with the provisions of that paragraph, to be the duty of the Scottish Development Agency to keep such accounts and other records as are, and to prepare in respect of each financial year ending before the first transfer date such statement of account as is, mentioned in sub-paragraph (1) of that paragraph and to submit the statement of account to the Secretary of State, of the Secretary of State to transmit the statement of account to the Comptroller and Auditor General and of the Comptroller and Auditor General to examine and certify the statement of account and lay before Parliament copies of it with his report on it; and
+
+(b) the said provisions shall also apply as respects the period between the end of the financial year in question and that transfer date as if the transfer date were the last day of the subsequent financial year.
+
+(5) Notwithstanding the repeal by this Act of sub-paragraph (4) of paragraph 1 and of sub-paragraph (3) of paragraph 4 of the said Schedule 2 (account of certain sums issued out of National Loans Fund etc.)—
+
+(a) it shall continue, in accordance with the provisions of those sub-paragraphs, to be the duty of the Secretary of State to prepare an account of the sums issued by him under sub-paragraph (1) of, and received by him under sub-paragraph (2) of, the said paragraph 4 in respect of each financial year ending before the first transfer date and to include in that account particulars of the sums which in the year in question were paid to the Scottish Development Agency or into the Consolidated Fund in pursuance of the said paragraph 1; and
+
+(b) the said provisions shall also apply as respects the period between the end of the financial year in question and that transfer date as if the transfer date were the last day of the subsequent financial year.
+
+(6) Any expenses incurred by an existing body by virtue of this paragraph shall be met by their successor.
+
+## SCHEDULE 4 — Minor and Consequential Amendments
+
+*Section 38(1)*
+
+### New Towns (Scotland) Act 1968 (c. 16.)
+
+**1** In the New Towns (Scotland) Act 1968—
+
+(a) in section 46(6) (regulations and orders) for the words “36(4)” there shall be substituted the words “ 36E ” ;
+
+(b) in section 47(1) (interpretation) there shall be inserted at the appropriate places the following definitions—
+
+> - “transfer order” means an order under section 36D(1) of this Act;
+
+; and
+
+> “winding up order” means an order under section 36(1) of this Act;
+
+.
+
+### Finance Act 1969 (c. 32.)
+
+**2** In section 58(4)(c) of the Finance Act 1969 (cases in which information obtained for statistical purposes may be disclosed), in the Table—
+
+(a) for the words “The Scottish Development Agency.” and “The [^M46]Scottish Development Agency Act 1975.” there shall be substituted, respectively, the words “ Scottish Enterprise. ” and “ Part I of the Enterprise and New Towns (Scotland) Act 1990. ” ; and
+
+(b) for the words “The Highlands and Islands Development Board.” and “The Highlands and Islands Development (Scotland) Acts 1965 and 1968.” there shall be substituted, respectively, the words “ Highlands and Islands Enterprise. ” and “ Part I of the Enterprise and New Towns (Scotland) Act 1990. ”.
+
+### Post Office Act 1969 (c. 48.)
+
+**3** In Schedule 4 to the Post Office Act 1969, in paragraph 93(1) (interpretation), after head xxxiv there shall be added the following head—
+
+> (xxxv) Section 9 of the Enterprise and New Towns (Scotland) Act 1990.
+
+.
+
+### Pensions Increase Act 1971 (c. 56.)
+
+**4** In paragraph 38A of Part I of Schedule 2 to the Pensions (Increase) Act 1971 (State pensions), for the words “10 of Schedule 1” there shall be substituted the words “ 15(2) of Schedule 1 to the Enterprise and New Towns (Scotland) Act 1990 (as read with paragraph 7 of Schedule 3 to that Act) ”.
+
+### Offshore Petroleum Development (Scotland) Act 1975 (c. 8.)
+
+**5** In section 10 of the Offshore Petroleum Development (Scotland) Act 1975 (execution of works and disposal of land held under that Act)—
+
+(a) in subsection (3), for the words “The Scottish Development Agency” there shall be substituted the words “ Scottish Enterprise, Highlands and Islands Enterprise ”; and
+
+(b) in subsection (4)—
+
+(i) for the words “the Scottish Development Agency” there shall be substituted the words “ Scottish Enterprise, by Highlands and Islands Enterprise ”; and
+
+(ii) after the words “performed by” there shall be inserted the words “ it or ”.
+
+### House of Commons Disqualification Act 1975 (c. 24.)
+
+**6** In Part II of Schedule 1 to the House of Commons Disqualification Act 1975 (bodies of which all members are disqualified for membership of House of Commons)—
+
+(a) after the words “The Highlands and Islands Development Board.” there shall be inserted the words “ Highlands and Islands Enterprise. ” ; and
+
+(b) after the words “The Scottish Development Agency.” there shall be inserted the words “ Scottish Enterprise. ”.
+
+### Farriers Registration Act 1975 (c. 35.)
+
+**7** In Part I of Schedule 1 to the Farriers Registration Act 1975 (constitution of Farriers Registration Council), in paragraph 1(f), for the words “The Scottish Development Agency” there shall be substituted the words “ Scottish Enterprise ”.
+
+### Scottish Development Agency Act 1975 (c. 69.)
+
+**[^F66]8** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Highlands and Islands Air Services (Scotland) Act 1980 (c. 19.)
+
+**9** In section 3 of the Highlands and Islands Air Services (Scotland) Act 1980 (interpretation), for the definition of “the Highlands and Islands” there shall be substituted the following definition—
+
+“the Highlands and Islands” shall be construed in accordance with section 21(1) of the Enterprise and New Towns (Scotland) Act 1990. ”.
+
+### Agricultural Training Board Act 1982 (c. 9.)
+
+**[^F67]10** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Industrial Training Act 1982 (c. 10.)
+
+**11** In section 5(3)(e) of the Industrial Training Act 1982 (power of industrial training board to take part in arrangements in pursuance of Employment and Training Act 1973), after the words “1973” there shall be inserted the words “ or of section 2(3) of the Enterprise and New Towns (Scotland) Act 1990 ”.
+
+### Civil Aviation Act 1982 (c. 16.)
+
+**12** In Schedule 2 to the Civil Aviation Act 1982, in paragraph 4 (interpretation), at the end there shall be added the following head—
+
+> section 9 of the Enterprise and New Towns (Scotland) Act 1990
+
+.
+
+### Local Government and Planning (Scotland) Act 1982 (c. 43.)
+
+**13** In section 8 of the Local Government and Planning (Scotland) Act 1982 (power of local authority to enter into arrangements under Employment and Training Act 1973), the words from “shall”, where it first occurs, to “1973” shall be paragraph (a); and after that paragraph there shall be inserted the word “ and ” and the following paragraph—
+
+> (b) shall have power to take part in any arrangements made in pursuance of section 2(3) of the Enterprise and New Towns (Scotland) Act 1990 (which relates to arrangements made by Scottish Enterprise and by Highlands and Islands Enterprise for persons to train for employment etc.).
+
+.
+
+### Gas Act 1986 (c. 44.)
+
+**14** In Schedule 7 to the Gas Act 1986—
+
+(a) in paragraph 2(1) (interpretation), at the end there shall be added the following head—
+
+> (xlix) section 9 of the Enterprise and New Towns (Scotland) Act 1990.
+
+; and
+
+(b) in paragraph 2(9) (interpretation) after head (j) there shall be inserted the following head—
+
+> (k) section 9 of the Enterprise and New Towns (Scotland) Act 1990;
+
+.
+
+### Income and Corporation Taxes Act 1988 (c. 1.)
+
+**[^F68]15** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Employment Act 1988 (c. 19.)
+
+**16** In section 26(1) of the Employment Act 1988 (status of trainees)—
+
+(a) after the word “Act” there shall be inserted the words “ , or under section 2(3) of the Enterprise and New Towns (Scotland) Act 1990, ”; and
+
+(b) for the words “that section” there shall be substituted the words “ the said section 2, or as the case may be the said section 2(3), ”.
+
+### Electricity Act 1989 (c. 29.)
+
+**17** In Schedule 16 to the Electricity Act 1989—
+
+(a) in paragraph 1(1) (interpretation), at the end there shall be added the following head—
+
+> (xlii) section 9 of the Enterprise and New Towns (Scotland) Act 1990.
+
+; and
+
+(b) in paragraph 3(2) (interpretation), after head (h) there shall be inserted the following head—
+
+> (i) section 9 of the Enterprise and New Towns (Scotland) Act 1990;
+
+.
+
+### Employment Act 1989 (c. 38.)
+
+**18** In section 8(1) of the Employment Act 1989 (power to exempt discrimination in favour of lone parents in connection with training)—
+
+(a) in paragraph (a), after the word “training)” there shall be inserted the words “ or under section 2(3) of the Enterprise and New Towns (Scotland) Act 1990 (arrangements by Scottish Enterprise and Highlands and Islands Enterprise in connection with training etc.) ”; and
+
+(b) in paragraph (b), for the words “that section” there shall be substituted the words “ either of those sections ”.
+
+## SCHEDULE 5 — Repeals
+
+*Section 38(2)*
+
+### Part I — Repeals Coming Into Force On First Transfer Date
+
+|  |  |  |
+|---|---|---|
+| Chapter | Short title | Extent of repeal |
+| 1968 c. 16. | The New Towns (Scotland) Act 1968. | In each of sections 36B(1) and 36D(1) and (2)(b) the words “the Scottish Development Agency,”. |
+| 1973 c. 50. | The Employment and Training Act 1973. | In section 4, in subsection (3)(e) the words “the Scottish Development Agency”; and in subsection (5), paragraph (dd) (as inserted by section 11(6)(b) of the Scottish Development Agency Act 1975 and not as inserted by section 24(6)(b) of the Welsh Development Agency Act 1975). |
+| 1975 c. 69. | The Scottish Development Agency Act 1975. | The whole Act except sections 1, 20 and 28 and paragraphs 1 to 6, 11 to 14, 16 and 17 of Schedule 1. |
+| 1978 c. 44. | The Employment Protection (Consolidation) Act 1978. | In Schedule 16, paragraph 21. |
+| 1979 c. 32. | The Industry Act 1979. | In so far as relating to the Scottish Development Agency Act 1975. |
+| 1980 c. 19. | The Highlands and Islands Air Services (Scotland) Act 1980. | Section 4. |
+| 1980 c. 33. | The Industry Act 1980. | Sections 1(2), 4(2), 6(2) and 22(2). |
+|  |  | In so far as relating to the Scottish Development Agency Act 1975 or to the Scottish Development Agency, sections 2(1) to (3), 5(1), 6(4), 8(2), 9 and 21(2). |
+|  |  | In Schedule 2, the entry relating to the Scottish Development Agency Act 1975. |
+| 1981 c. 6. | The Industry Act 1981. | Sections 2(1), 3(2)(b), 4(2)(a) and 7(4). |
+|  |  | In section 3(1), the words “, that of the Scottish Development Agency by £7 million”. |
+|  |  | Section 4(1) in so far as relating to the Scottish Development Agency. |
+| 1982 c. 43. | The Local Government and Planning (Scotland) Act 1982. | In Part II of Schedule 4, the entry relating to the Scottish Development Agency Act 1975. |
+| 1983 c. 29. | The Miscellaneous Financial Provisions Act 1983. | In Schedule 2, the entry relating to the Scottish Development Agency Act 1975. |
+| 1984 c. 12. | The Telecommunications Act 1984. | In Schedule 4, paragraphs 3(1)(b) and 63. |
+| 1984 c. 46. | The Cable and Broadcasting Act 1984. | In Schedule 5, paragraph 32. |
+| 1985 c. 9. | The Companies Consolidation (Consequential Provisions) Act 1985. | In Schedule 2, the entry relating to the Scottish Development Agency Act 1975. |
+| 1986 c. 44. | The Gas Act 1986. | In Schedule 7, paragraph 2(1)(xxxi) and (9)(g). |
+| 1986 c. 60. | The Financial Services Act 1986. | In Schedule 16, paragraph 11. |
+|  |  | In Part I of Schedule 17, the entry relating to the Scottish Development Agency Act 1975. |
+| 1987 c. 56. | The Scottish Development Agency Act 1987. | The whole Act. |
+| 1989 c. 29. | The Electricity Act 1989. | In Schedule 16, paragraphs 1(1)(xxviii) and 3(2)(f). |
+| 1989 c. 38. | The Employment Act 1989. | In Schedule 6, paragraph 13. |
+|  |  | In Part I of Schedule 7, the entry relating to the Scottish Development Agency Act 1975. |
+| 1989 c. 40. | The Companies Act 1989. | In Schedule 18, paragraph 12. |
+
+### Part II — Repeals Coming Into Force On Dissolution Of Scottish Development Agency
+
+|  |  |  |
+|---|---|---|
+| Chapter | Short title | Extent of repeal |
+| 1975 c. 24. | The House of Commons Disqualification Act 1975. | In Part II of Schedule 1, the words “The Scottish Development Agency.”. |
+| 1975 c. 69. | The Scottish Development Agency Act 1975. | The whole Act except sections 20 and 28. |
+
+### Part III — Repeals Coming Into Force On Second Transfer Date
+
+|  |  |  |
+|---|---|---|
+| Chapter | Short title | Extent of repeal |
+| 1965 c. 46. | The Highlands and Islands Development (Scotland) Act 1965. | The whole Act except, in section 1, in subsection (1) the words from the beginning to “ “the Board”)” and subsections (4) and (5), section 19 and paragraphs 1, 2, 4, 5, 8 to 13, 15 and 16 of Schedule 1. |
+| 1967 c. 13. | The Parliamentary Commissioner Act 1967. | In Schedule 2, the words “Highlands and Islands Development Board.”. |
+| 1968 c. 51. | The Highlands and Islands Development (Scotland) Act 1968. | The whole Act. |
+| 1969 c. 48. | The Post Office Act 1969. | In Schedule 4, paragraph 93(1)(xxiv). |
+| 1973 c. 65. | The Local Government (Scotland) Act 1973. | In Schedule 27, paragraphs 160 and 161. |
+| 1982 c. 16. | The Civil Aviation Act 1982. | In Schedule 2, in paragraph 4, the words “section 10(4) of the Highlands and Islands Development (Scotland) Act 1965;”. |
+| 1982 c. 43. | The Local Government and Planning (Scotland) Act 1982. | In Part II of Schedule 4, the entry relating to the Highlands and Islands Development (Scotland) Act 1965. |
+| 1986 c. 44. | The Gas Act 1986. | In Schedule 7, paragraph 2(1)(xvi). |
+| 1989 c. 29. | The Electricity Act 1989. | In Schedule 16, paragraph 1(1)(xvi). |
+
+### Part IV — Repeals Coming Into Force On Dissolution Of Highlands And Islands Development Board
+
+|  |  |  |
+|---|---|---|
+| Chapter | Short title | Extent of repeal |
+| 1965 c. 46. | The Highlands and Islands Development (Scotland) Act 1965. | The whole Act. |
+| 1975 c. 24. | The House of Commons Disqualification Act 1975. | In Part II of Schedule 1, the words “The Highlands and Islands Development Board.”. |
+
+---
+
+[^F1]: Words in s. 1(a)(ii)(b)(ii) inserted (30.8.1993) by 1993 c. 19, s. 47(3); S.I. 1993/1908, art. 2(1), Sch.1.
+[^F2]: Word in s. 2(3) repealed (30.8.1993) by 1993 c. 19, s. 51, Sch. 10; S.I. 1993/1908, art. 2(1), Sch. 1.
+[^F3]: S. 2(3): word and s. 2(3)(d) inserted (30.8.1993) by 1993 c. 19, s. 47(4)(a); S.I. 1993/1908, art. 2(1), Sch. 1.
+[^F4]: Words in s. 2(4) substituted (30.8.1993) by 1993 c. 19, s. 47(4)(b); S.I. 1993/1908, art. 2(1), Sch. 1.
+[^F5]: Words in s. 2(4)(a) substituted by 2010 c. 15 Sch. 26 Pt. 1 para. 20 (as inserted) (1.10.2010) by The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279), art. 1(2), Sch. 1 para. 5 (see S.I. 2010/2317, art. 2)
+[^F6]: Words in s. 2(6) repealed (1.7.1999) by S.I. 1999/1820, arts. 1(2), 4, Sch. 2 Pt. I para. 100(2), Pt.IV
+[^F7]: Words in s. 4(2) substituted (1.10.2009) by The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941), art. 1(2), Sch. 1 para. 117(2) (with art. 10)
+[^M1]: 1976 c. 78.
+[^F8]: Words in s. 5(1)(b) inserted (8.9.2000) by 2000 asp 10, s. 36, Sch. 5 para. 16 (with s. 32); S.S.I. 2000/312, art. 2
+[^F9]: Words in s. 6(1) inserted (8.9.2000) by 2000 asp 10, s. 36, Sch. 5 para. 16 (with s. 32); S.S.I. 2000/312, art. 2
+[^F10]: Words in s. 6(3)(b) repealed (1.7.1999) by S.I. 1999/1820, arts. 1(2), 4, Sch. 2 Pt. I para. 100(3), Pt.IV
+[^M2]: 1968 c. 16.
+[^F11]: Words in s. 8(1)(l) substituted (1.10.2009) by The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941), art. 1(2), Sch. 1 para. 117(3) (with art. 10)
+[^F12]: Words in s. 8(1)(m) substituted (1.8.2014) by Co-operative and Community Benefit Societies Act 2014 (c. 14), s. 154, Sch. 4 para. 45 (with Sch. 5)
+[^F13]: Words in s. 8(6) substituted (4.4.2003) by Title Conditions (Scotland) Act 2003 (asp 9), ss. 113(2), 129(3) (with ss. 119, 121)
+[^F14]: Words in s. 8(7) substituted (1.7.1999) by S.I. 1999/1820, arts. 1(2), 100(4)
+[^M3]: 1955 c. 21.
+[^M4]: 1961 c. 58.
+[^M5]: 1845 c. 19.
+[^M6]: 1845 c. 33.
+[^M7]: 1923 c. 20.
+[^M8]: 1947 c. 42.
+[^M9]: 1972 c. 52.
+[^F15]: Words in s. 9(5) substituted (27.5.1997) by 1997 c. 11, ss. 4, 6(2), Sch. 2 para. 47(2).
+[^F16]: Words in s. 9(9) substituted (17.9.2003) by Communications Act 2003 (Consequential Amendments) Order 2003 (S.I. 2003/2155), art. 1(1), Sch. 1 para. 12(a)
+[^F17]: Words in s. 9(9) substituted (17.9.2003) by Communications Act 2003 (Consequential Amendments) Order 2003 (S.I. 2003/2155), art. 1(1), Sch. 1 para. 12(b)
+[^F18]: Words in s. 9(9) substituted (17.9.2003) by Communications Act 2003 (Consequential Amendments) Order 2003 (S.I. 2003/2155), art. 1(1), Sch. 1 para. 12(c)
+[^F19]: Words in s. 9(9) substituted (17.9.2003) by Communications Act 2003 (Consequential Amendments) Order 2003 (S.I. 2003/2155), art. 1(1), Sch. 1 para. 12(d)
+[^F20]: Word in s. 10(1) repealed (28.11.2004) by Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5), ss. 71, 77(2), Sch. 13 Pts. 1 (with ss. 58, 62, 75); S.S.I. 2003/456, art. 2; S.S.I. 2003/456, art. 2
+[^M10]: 1947 c. 39.
+[^M11]: 1972 c. 52.
+[^M12]: 1968 c. 16.
+[^M13]: 1964 c. 16.
+[^M14]: 1982 c. 10.
+[^M15]: 1947 c. 39.
+[^F21]: Words in s. 12(5)(e) substituted (27.5.1997) by 1997 c. 11, ss. 4, 6(2), Sch. 2 para. 47(3).
+[^M16]: 1968 c. 16.
+[^M17]: 1986 c. 50.
+[^M18]: 1988 c. 7.
+[^F22]: S. 14A inserted (30.8.1993) by 1993 c. 19, s. 47(5); S.I. 1993/1908, art. 2(1), Sch.1.
+[^M19]: 1978 c. 30.
+[^M20]: 1975 c. 14.
+[^M21]: 1944 c. 10.
+[^F23]: Words in s. 16(2) substituted by 2010 c. 15 Sch. 26 Pt. 1 para. 21 (as inserted (1.10.2010) by The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279), art. 1(2), Sch. 1 para. 5) (see S.I. 2010/2317, art. 2)
+[^F24]: S. 17 substituted by 2010 c. 15 Sch. 26 Pt. 1 para. 22 (as inserted (1.10.2010) by The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279), art. 1(2), Sch. 1 para. 5) (see S.I. 2010/2317, art. 2)
+[^F25]: S. 18 repealed (1.10.2010) by The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279), art. 1(2), Sch. 2 (see S.I. 2010/2317, art. 2)
+[^F26]: S. 21(1)(a) substituted (1.4.1996) by 1994 c. 39, s. 180(1), Sch. 13 para. 164(2)(a)(i); S.I. 1996/323, art. 4(c).
+[^F27]: Words in s. 21(1)(b) substituted (1.4.1996) by 1994 c. 39, s. 180(1), Sch. 13 para. 164(2)(a)(ii); S.I. 1996/323, art. 4(c).
+[^F28]: S. 21(5) inserted (1.4.1996) by 1994 c. 39, s. 180(1), Sch. 13 para. 164(2)(b); S.I. 1996/323, art. 4(c).
+[^M22]: 1975 c. 69.
+[^M23]: 1973 c. 50.
+[^M24]: 1978 c. 30.
+[^F29]: Words in s. 24(1) repealed (1.7.1999) by S.I. 1999/1820, arts. 1(2), 4, Sch. 2 Pt. I para. 100(5), Pt. IV
+[^F30]: S. 25(1A)(1B) inserted (1.4.2000) by 2000 asp 1, s. 8, Sch. 1 para. 4(1)(2)(a); S.S.I. 2000/10, art. 2(3)
+[^F31]: S. 25(3) repealed (26.7.1999) by 1999 c. 5, ss. 1(b), 2(3) and expressed to be repealed (1.4.2000) by 2000 asp 1, s. 8, Sch. 1 para. 4(1)(2)(b); S.S.I. 2000/10, art. 2(3)
+[^F32]: S. 25(2)(4) repealed (1.4.2000) by 2000 asp 1, s. 8, Sch. 1 para. 4(1)(2)(b); S.S.I. 2000/10, art. 2(3)
+[^F33]: Words in s. 26(1)(3) repealed (1.7.1999) by S.I. 1999/1820, arts. 1(2), 4, Sch. 2 Pt. I para. 100(6), Part IV
+[^F34]: S. 26(3A)(3B) inserted (1.4.2000) by 2000 asp 1, s. 8, Sch. 1 para. 4(3); S.S.I. 2000/10, art. 2(3)
+[^M25]: 1975 c. 69.
+[^F35]: Words in s. 28(4)(b) inserted (1.4.2017) by The Crown Estate Transfer Scheme 2017 (S.I. 2017/524), art. 1(2), Sch. 5 para. 23(a)
+[^F36]: S. 28(5) inserted (1.4.2017) by The Crown Estate Transfer Scheme 2017 (S.I. 2017/524), art. 1(2), Sch. 5 para. 23(b)
+[^M26]: 1978 c. 30.
+[^M27]: 1973 c. 65.
+[^F37]: Words in s. 30(1) repealed (1.7.1999) by S.I. 1999/1820, arts. 1(2), 4, Sch. 2 Pt. I para. 100(7), Pt. IV
+[^F38]: Words in s. 30(3) repealed (1.4.2000) by 2000 asp 1, s. 26, Sch. 4 para. 9(a); S.S.I. 2000/10, art. 2(3)
+[^F39]: Words in s. 30(3) substituted (1.4.2000) by 2000 asp 1, s. 26, Sch. 4 para. 9(a); S.S.I. 2000/10, art. 2(3)
+[^F40]: S. 30(4) repealed (1.4.2000) by 2000 asp 1, s. 26, Sch. 4 para. 9(b); S.S.I. 2000/10, art. 2(3)
+[^F41]: Words in s. 30(5)(a) repealed (1.4.2000) by 2000 asp 1, s. 26, Sch. 4 para. 9(c); S.S.I. 2000/10, art. 2(3)
+[^M28]: 1975 c. 68.
+[^F42]: Words in s. 31(1) substituted (retrospective to 6.1.1992) by S.I. 1992/8, arts. 2, 4
+[^F43]: S. 31(2) substituted (1.12.2001) by S.I. 2001/3649, arts. 1, 230
+[^F44]: S. 32(1)(1A) substituted for s. 32(1) (4.4.2003) by Title Conditions (Scotland) Act 2003 (asp 9), ss. 113(3), 129(3) (with ss. 119, 121)
+[^F45]: Words in s. 32(2) substituted (28.11.2004) by Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5), ss. 71, 77(2), Sch. 12 paras. 52 (with ss. 58, 62, 75); S.S.I. 2003/456, art. 2; S.S.I. 2003/456, art. 2
+[^F46]: Words in s. 32(3) repealed (28.11.2004) by Title Conditions (Scotland) Act 2003 (asp 9), ss. 122(1), 129(2), Schs. 15 (with ss. 119, 121) (see S.S.I. 2003/456, art. 2)
+[^M29]: 1965 c. 46.
+[^M30]: 1968 c. 16.
+[^M31]: 1968 c. 16.
+[^F47]: S. 36(1): Words in definition of “local authority” substituted (1.4.1996) by 1994 c. 39, 180(1), Sch. 13 para. 164(3); S.I. 1996/323, art. 4(c).
+[^F48]: Words in s. 36(1)in the definition of “subsidiary” and “wholly-owned subsidiary” substituted (1.10.2009) by The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941), art. 1(2), Sch. 1 para. 117(4) (with art. 10)
+[^F49]: Words in s. 36(2) repealed (28.11.2004) by Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5), ss. 71, 77(2), Sch. 13 Pts. 1 (with ss. 58, 62, 75); S.S.I. 2003/456, art. 2; S.S.I. 2003/456, art. 2
+[^M32]: 1947 c. 42.
+[^M33]: 1845 c. 33.
+[^M34]: 1963 c. 51.
+[^F50]: Words in s. 36(3) substituted (27.5.1997) by 1997 c. 11, ss. 4, 6(2), Sch. 2 para. 47(4).
+[^M35]: 1973 c. 56.
+[^F51]: Sch. 1 para. 2 repealed (1.7.2011) by Bribery Act 2010 (c. 23), s. 19(1), Sch. 2 (with ss. 16, 19(5)); S.I. 2011/1418, art. 2; S.I. 2011/1418, art. 2
+[^F52]: Words in Sch. 1 para. 12(1)(2) repealed (1.7.1999) by S.I. 1999/1820, arts. 1(2), 4, Sch. 2 Pt. I para. 100(8), Pt. IV
+[^F53]: Words in Sch. 1 para. 13 repealed (1.7.1999) by S.I. 1999/1820, arts. 1(2), 4, Sch. 2 Pt. I para. 100(8), Pt. IV
+[^F54]: Words in Sch. 1 para. 14 repealed (1.7.1999) by S.I. 1999/1820, arts. 1(2), 4, Sch. 2 Pt. I para. 100(8), Pt. IV
+[^F55]: Words in Sch. 1, para. 15(1)(2) and (4) repealed (1.7.1999) by S.I. 1999/1820, arts. 1(2), 4, Sch. 2 Pt. I, para. 100(8), Pt. IV
+[^F56]: Words in Sch. 1 para. 17(1) substituted (22.8.1996) by 1996 c. 18, ss. 240, 243, Sch. I para. 46 (with ss. 191-195, 202).
+[^M36]: 1975 c. 69.
+[^F57]: Words in Sch. 1 para. 17(2) repealed (22.8.1996) by 1996 c. 18, ss. 242, 243, Sch. 3 Pt. I (with ss. 191-195, 202).
+[^M37]: 1965 c. 46.
+[^M38]: 1972 c. 11.
+[^F58]: Words in Sch. 1 para. 18 substituted (1.8.1998) by 1998 c. 8, s. 1(2)(a) (with s. 16(2)); S.I. 1998/1658, art. 2(1), Sch. 1
+[^F59]: Words in Sch. 1 para. 22(2) repealed (1.7.1999) by S.I. 1999/1820, arts. 1(2), 4, Sch. 2 Pt. I para. 100(8), Pt. IV
+[^F60]: Sch. 1 para. 23 repealed (1.8.1995) by 1995 c. 7, ss. 14(2), 15(2), Sch. 5 (with ss. 9(3)(5)(7), 13, 14(3)).
+[^F61]: Words in Sch. 2 para. 1 repealed (1.7.1999) by S.I. 1999/1820, arts. 1(2), 4, Sch. 2 Pt. I para. 100(9), Pt. IV
+[^F62]: Words in Sch. 2, para. 2(a)(b) repealed (1.7.1999) by S.I. 1999/1820, arts. 1(2), 4, Sch. 2 Pt. 1 para. 100(9), Pt. IV
+[^F63]: Words in Sch. 2 para. 3 repealed (1.7.1999) by S.I. 1999/1820, arts. 1(2), 4, Sch. 2 Pt. I para. 100(9), Pt. IV
+[^F64]: Words in Sch. 2 para. 4 repealed (1.7.1999) by S.I. 1999/1820, arts. 1(2), 4, Sch. 2 Pt. I para. 100(9), Pt. IV
+[^F65]: Words in Sch. 2, para. 5(1) and (4) repealed (1.7.1999) by S.I. 1999/1820, arts. 1(2), 4, Sch. 2, Pt. I, para. 100(9), Pt. IV
+[^M39]: 1975 c. 69.
+[^M40]: 1975 c. 69.
+[^M41]: 1965 c. 46.
+[^M42]: 1975 c. 69.
+[^M43]: 1975 c. 69.
+[^M44]: 1965 c. 46.
+[^M45]: 1975 c. 69.
+[^M46]: 1975 c. 69.
+[^F66]: Sch. 4 para. 8 repealed (1.8.2010) by Public Services Reform (Scotland) Act 2010 (asp 8), ss. 5(3), 134(7); S.S.I. 2010/221, art. 3(2), Sch.
+[^F67]: Sch. 4 para. 10 repealed (22.7.2004) by Statute Law (Repeals) Act 2004 (c. 14), Sch. 1 Pt. 2 Group 2
+[^F68]: Sch. 4 para. 15 repealed (6.4.2005) by Income Tax (Trading and Other Income) Act 2005 (c. 5), s. 883(1), Sch. 3 (with Sch. 2)

@@ -1,0 +1,972 @@
+---
+title: "Northern Ireland (Miscellaneous Provisions) Act 2014"
+identifier: "ukpga/2014/13"
+citation: "2014 c. 13"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S+N.I."
+date: 2014-03-13
+last_amended: 2024-01-16
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/2014/13"
+source_modified: 2024-02-21
+retrieved: 2026-10-11
+---
+
+# Northern Ireland (Miscellaneous Provisions) Act 2014
+
+**2014 c. 13**
+
+An Act to make provision about donations, loans and related transactions for political purposes in connection with Northern Ireland; to amend the Northern Ireland Assembly Disqualification Act 1975 and the Northern Ireland Act 1998; to make provision about the registration of electors and the administration of elections in Northern Ireland; and to make miscellaneous amendments in the law relating to Northern Ireland.
+
+[13th March 2014]
+
+Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## Donations and loans etc for political purposes
+
+### 1 Donations
+
+(1) In the Northern Ireland (Miscellaneous Provisions) Act 2006—
+
+(a) for section 14 (modifications of the Political Parties, Elections and Referendums Act 2000 to have effect during a prescribed period) substitute—
+
+> **14 Special provision in relation to Northern Ireland recipients**
+>
+> Schedule 1 contains amendments of the 2000 Act relating to donations received by Northern Ireland recipients.
+
+;
+
+(b) in Schedule 1, in the heading, for “Modifications” substitute “ Amendments ”.
+
+(2) After section 15 of that Act insert—
+
+> **15A Power to increase transparency**
+>
+> (1) The Secretary of State may, after consulting the Electoral Commission, by order—
+>
+> (a) make provision permitting or requiring the Electoral Commission to publish information about donations received by Northern Ireland recipients, or
+>
+> (b) make other provision for the purpose of increasing transparency in relation to such donations.
+>
+> (2) Provision made under this section may—
+>
+> (a) amend, repeal or modify any enactment connected with donations for political purposes (including in particular any of the provisions inserted into the 2000 Act by Schedule 1);
+>
+> (b) include consequential, supplementary, incidental, transitional, transitory or saving provision.
+>
+> (3) Provision made under this section may apply in relation to donations received at any time on or after 1 November 2007.
+>
+> (4) The power to make an order under this section is exercisable by statutory instrument.
+>
+> (5) No order is to be made under this section unless a draft of the instrument containing the order has been laid before and approved by a resolution of each House of Parliament.
+>
+> (6) For the purposes of this section and section 15B—
+>
+> (a) “donation” has the same meaning as in Part 4 of the 2000 Act (see section 50 of that Act);
+>
+> (b) the time at which a donation is received is to be determined in the same way as for the purposes of that Part;
+>
+> (c) “Northern Ireland recipient” has the same meaning as in Chapter 6 of that Part (see section 71A of that Act).
+>
+> (7) Section 15B imposes limits on the provision that may be made under this section.
+>
+> **15B Confidentiality of donations received before 1 January 2014**
+>
+> (1) The provision that may be made by order under section 15A does not include provision which—
+>
+> (a) alters the effect of section 71E of the 2000 Act (duty not to disclose contents of donation reports) in relation to the disclosure of protected information,
+>
+> (b) reduces the maximum penalty for an offence under that section committed in relation to the disclosure of protected information, or
+>
+> (c) gives a person a right to obtain protected information contained in a register kept by the Commission under that Act.
+>
+> (2) “Protected information” means information—
+>
+> (a) which relates to a donation received before 1 January 2014, and
+>
+> (b) which identifies the donor or from which it is possible to identify the donor.
+>
+> (3) The references in subsection (1) to section 71E of the 2000 Act and to the maximum penalty for an offence under that section are to that section and maximum penalty as they have effect at the time at which the order under section 15A is made.
+
+(3) In section 71E of the Political Parties, Elections and Referendums Act 2000 (duty not to disclose contents of donation reports), after subsection (4) insert—
+
+> (4A) Such information may be disclosed if the Commission believe, on reasonable grounds, that—
+>
+> (a) the relevant person has consented to the disclosure, and
+>
+> (b) the consent was given in accordance with any prescribed requirements.
+>
+> (4B) “The relevant person” means the person who made the donation to which the information relates.
+
+### 2 Loans etc
+
+(1) In the Electoral Administration Act 2006 (Regulation of Loans etc: Northern Ireland) Order 2008 (S.I. 2008/1319)—
+
+(a) for article 5 (modifications of the Political Parties, Elections and Referendums Act 2000 to have effect during a prescribed period) substitute—
+
+> **5 Special provision in relation to Northern Ireland participants**
+>
+> Schedule 1 contains amendments of the 2000 Act relating to loans etc involving Northern Ireland participants.
+
+;
+
+(b) in Schedule 1, in the heading, for “Modifications” substitute “ Amendments ”.
+
+(2) In section 71Z4 of the Political Parties, Elections and Referendums Act 2000 (duty not to disclose contents of transaction reports), after subsection (4) insert—
+
+> (4A) Such information may be disclosed if the Commission believe, on reasonable grounds, that—
+>
+> (a) each relevant person has consented to the disclosure, and
+>
+> (b) the consent was given in accordance with any prescribed requirements.
+>
+> (4B) “Relevant person” means a party to the transaction to which the information relates other than—
+>
+> (a) a registered party whose treasurer is required under this Part to prepare a report to the Commission giving details of the transaction, or
+>
+> (b) any other party to the transaction who is required under this Part to prepare such a report.
+
+(3) In section 63 of the Electoral Administration Act 2006 (power to make provision for regulation of loans etc: Northern Ireland), after subsection (7) insert—
+
+> (8) For the purposes of this section, section 1(3) of the Northern Ireland (Miscellaneous Provisions) Act 2014 (which amends section 71E of the 2000 Act) is treated as provision made by the 2006 Act.
+
+## Northern Ireland Assembly
+
+### 3 MPs to be disqualified for membership of Assembly
+
+(1) In section 1(1) of the Northern Ireland Assembly Disqualification Act 1975 (disqualification of holders of certain offices etc), before paragraph (a) insert—
+
+> (za) is a member of the House of Commons;
+
+.
+
+(2) After section 1 of that Act insert—
+
+> **1A Members of the House of Commons**
+>
+> (1) A person returned at an election as a member of the Northern Ireland Assembly is not disqualified under section 1(1)(za) at any time in the period of 8 days beginning with the day the person is so returned.
+>
+> (2) Subsection (3) applies where a person—
+>
+> (a) is returned at an election as a member of the Northern Ireland Assembly,
+>
+> (b) on being so returned is a candidate for election to the House of Commons, and
+>
+> (c) is subsequently returned at that election as a member of that House.
+>
+> (3) The person is not disqualified under section 1(1)(za) at any time in the period of 8 days beginning with the day the person is returned as a member of the House of Commons.
+>
+> (4) A person is a “candidate for election to the House of Commons” if the person's nomination paper for election as a member of the House of Commons has been delivered to the returning officer under rule 6 of Schedule 1 to the Representation of the People Act 1983 (parliamentary election rules).
+
+(3) In section 37(1) of the Northern Ireland Act 1998 (effect of disqualification)—
+
+(a) in paragraph (a), after “by virtue of” insert “ the Northern Ireland Assembly Disqualification Act 1975 or ”;
+
+(b) in paragraph (b), after “by virtue of” insert “ that Act or ”.
+
+(4) In section 47(4) of that Act (remuneration of members), for “either House of Parliament” substitute “ the House of Lords ”.
+
+### 4 Members of the Dàil Èireann to be disqualified for membership of Assembly
+
+(1) In section 1(1) of the Northern Ireland Assembly Disqualification Act 1975 (disqualification of holders of certain offices etc), before paragraph (e) insert—
+
+> (db) is a member of the Dàil Èireann (House of Representatives of Ireland);
+
+.
+
+(2) After section 1A of that Act (as inserted by section 3) insert—
+
+> **1B Members of the Dàil Èireann**
+>
+> A person returned at an election as a member of the Northern Ireland Assembly is not disqualified under section 1(1)(db) at any time in the period of 8 days beginning with the day the person is so returned.
+
+### 5 Statements by prospective members of Assembly
+
+(1) The Northern Ireland Assembly (Elections) Order 2001 (S.I. 2001/2599) is amended as follows.
+
+(2) In article 6 (vacancies filled by substitutes)—
+
+(a) in paragraph (2), for the words from “state in writing” to the end substitute “ make a statement of readiness ”;
+
+(b) in paragraph (3)—
+
+(i) in sub-paragraph (a)(ii), for the words from “in writing” to “Assembly” substitute “ of readiness ”;
+
+(ii) in sub-paragraph (b), for “is not willing or able to be so returned” substitute “ will not make a statement of readiness, ”;
+
+(c) in paragraph (4)—
+
+(i) for “states in writing” substitute “ makes a statement of readiness ”;
+
+(ii) omit “that he is willing and able to be returned as a member of the Assembly”;
+
+(d) in paragraph (5)—
+
+(i) in the opening words: after “a statement” insert “ of readiness ”; and omit “that he is willing and able to be returned as a member of the Assembly”;
+
+(ii) in sub-paragraph (a), for “is not willing and able to be so returned” substitute “ will not make a statement of readiness ”;
+
+(iii) in sub-paragraph (b), for “in writing that he is willing and able to be so returned” substitute “ of readiness ”;
+
+(e) after paragraph (6) insert—
+
+> (7) In this article and article 6B “statement of readiness” means a statement in writing by a person (“P”)—
+>
+> (a) that P is willing and able to be returned as a member of the Assembly,
+>
+> (b) that P is aware of the provisions of the Northern Ireland Assembly Disqualification Act 1975 and section 36 of the Northern Ireland Act 1998, and
+>
+> (c) that P is, to the best of P's knowledge and belief, not disqualified for membership of the Assembly.
+
+(3) In article 6B (vacancies arising during an Assembly term: members of registered parties)—
+
+(a) in paragraph (3), for the words “in writing” to the end substitute
+
+> with—
+>
+> (a) a statement of readiness, or
+>
+> (b) a statement in writing that he will not make a statement of readiness.
+
+;
+
+(b) for paragraph (4)(a) and (b) substitute—
+
+> (a) does not respond within such period as the Officer considers reasonable with a statement of the kind mentioned in paragraph (3)(a) or (b), or
+>
+> (b) responds within such a period with a statement of the kind mentioned in paragraph (3)(b).
+
+;
+
+(c) in paragraph (6), for the words from “does” to “Assembly” substitute “ responds within such period as the Officer considers reasonable with a statement of the kind mentioned in paragraph (3)(a) ”.
+
+(4) Schedule 1 (application with modifications of provisions of the Representation of the People Act 1983 etc) is amended as follows.
+
+(5) In the entry for section 65A (false statements in nomination papers etc), in the second column, insert
+
+> For subsection (1B)(c) substitute—
+>
+> (c) that he is, to the best of his knowledge and belief, not disqualified for membership of the Assembly, or
+>
+> (d) that he is, to the best of his knowledge and belief, disqualified for membership of the Assembly only under section 1(1)(za) or (db) of the Northern Ireland Assembly Disqualification Act 1975 (disqualification of MPs or members of the Dàil Èireann).”.
+
+(6) In the entry for rule 8 of the parliamentary elections rules (consent to nomination), in the second column, for the first sentence substitute
+
+> For paragraph (3)(b) substitute—
+>
+> (b) shall state that he is aware of the provisions of the Northern Ireland Assembly Disqualification Act 1975 and section 36 of the Northern Ireland Act 1998; and
+>
+> (ba) shall state either—
+>
+> (i) that he is, to the best of his knowledge and belief, not disqualified for membership of the Assembly, or
+>
+> (ii) that he is, to the best of his knowledge and belief, disqualified for membership of the Assembly only under section 1(1)(za) or (db) of the Northern Ireland Assembly Disqualification Act 1975 (disqualification of MPs or members of the Dàil Èireann); and”.
+
+### 6 Reduction in size of Assembly to be reserved matter
+
+(1) The Northern Ireland Act 1998 is amended as follows.
+
+(2) In Schedule 3 (reserved matters), after paragraph 7 insert—
+
+> **7A**
+>
+> The alteration of the number of members of the Assembly returned for each constituency.
+>
+> This paragraph does not include—
+>
+> (a) the alteration of that number to a number lower than five or higher than six, or
+>
+> (b) the provision of different numbers for different constituencies.
+
+(3) After section 7 insert—
+
+> **7A Cross-community support required for Bill altering size of Assembly**
+>
+> (1) The Assembly shall not pass a relevant Bill without cross-community support.
+>
+> (2) In this section—
+>
+> - “pass”, in relation to a Bill, means pass at the stage in the Assembly's proceedings at which the Bill falls finally to be passed or rejected;
+> - “relevant Bill” means a Bill containing a provision which deals with a matter falling within a description specified in paragraph 7A of Schedule 3 (size of Assembly).
+
+(4) In section 14 (submission by Secretary of State), after subsection (3) insert—
+
+> (3A) The Secretary of State shall not submit a Bill for Royal Assent if the Assembly has passed the Bill in contravention of section 7A (cross-community support required for Bill altering size of Assembly).
+
+(5) In section 53(3)(b) (agreements etc by person participating in Councils), after “section” insert “ 7A, ”.
+
+### 7 Extension of term of Assembly
+
+(1) In section 31(1) of the Northern Ireland Act 1998 (dates of elections and dissolutions), for “fourth” substitute “ fifth ”.
+
+(2) The amendment made by subsection (1) has effect in relation to the determination of the date of the poll for the election of the Assembly next following the Assembly elected at the poll on 5 May 2011 (as well as its successors).
+
+## Justice Minister
+
+### 8 Appointment of Justice Minister
+
+(1) Part 1A of Schedule 4A to the Northern Ireland Act 1998 (department with policing and justice functions) is amended as follows.
+
+(2) For paragraph 3B (modification of section 16A) substitute—
+
+> **3B**
+>
+> Section 16A(3) has effect as if, for paragraph (b) (and the word “and” before it) there were substituted—
+>
+> > (aa) once those offices have been filled, the relevant Ministerial office (within the meaning of Part 1A of Schedule 4A) shall be filled by applying paragraph 3D(4) to (8) of that Schedule; and
+> >
+> > (b) once that office has been filled, the other Ministerial offices to be held by Northern Ireland Ministers shall be filled by applying section 18(2) to (6).
+
+(3) In paragraph 3C (section 18 not to apply to relevant Minister)—
+
+(a) the existing provision becomes sub-paragraph (1);
+
+(b) after that sub-paragraph insert—
+
+> (2) But the reference to Ministerial offices in subsection (5) of that section (in the definition of M) shall be taken to include the relevant Ministerial office.
+
+(4) Paragraph 3D (provisions relating to relevant Minister) is amended in accordance with subsections (5) to (8).
+
+(5) In sub-paragraph (3), after “after” insert “ section 16B(3) to (7) is applied in relation to the offices of First Minister and deputy First Minister but before ”.
+
+(6) After sub-paragraph (4) insert—
+
+> (4A) But a member of the Assembly who is a member of a political party may not be nominated unless the nominating officer of the party consents to the nomination within a period specified in standing orders.
+
+(7) In sub-paragraph (11)—
+
+(a) omit the “or” at the end of paragraph (b) and after that paragraph insert—
+
+> (ba) where consent to the Minister's nomination was required under sub-paragraph (4A), the Minister is dismissed by the nominating officer of the party and the Presiding Officer is notified of the dismissal, or
+
+;
+
+(b) at the beginning of paragraph (c) insert “ where consent to the Minister's nomination was not required under sub-paragraph (4A), ”.
+
+(8) After sub-paragraph (17) insert—
+
+> (18) In this paragraph and paragraph 3E “nominating officer” has the same meaning as in section 18.
+
+### 9 Reappointment of other Northern Ireland Ministers in certain cases
+
+In Part 1A of Schedule 4A to the Northern Ireland Act 1998 (department with policing and justice functions), after paragraph 3D insert—
+
+> **3E Reappointment of other Northern Ireland Ministers in certain cases**
+>
+> (1) Where the first condition or the second condition is met—
+>
+> (a) all the Northern Ireland Ministers other than the relevant Minister cease to hold office, and
+>
+> (b) those Ministerial offices must be filled by applying section 18(2) to (6) within a period specified in standing orders.
+>
+> (2) The first condition is that—
+>
+> (a) the relevant Minister ceased to hold office by virtue of paragraph 3D(1)(a), and the office was filled by virtue of paragraph 3D(1)(b),
+>
+> (b) paragraph 3D(1) applied because a resolution was passed under section 30(2) which caused no Ministerial office other than the relevant Ministerial office to become vacant, and
+>
+> (c) as a result of the events mentioned in paragraph (a) the total number of Ministerial offices held by members of a political party increased or decreased.
+>
+> (3) The second condition is that—
+>
+> (a) the relevant Minister (“the former Minister”) ceased to hold office otherwise than by virtue of paragraph 3D(1)(a), and the office was filled by virtue of paragraph 3D(14), and
+>
+> (b) as a result of the events mentioned in paragraph (a) the total number of Ministerial offices held by members of a political party increased or decreased.
+>
+> (4) But the second condition is not met where—
+>
+> (a) the former Minister ceased to hold office by virtue of being dismissed by a nominating officer under paragraph 3D(11)(ba),
+>
+> (b) immediately before the office was filled there was at least one eligible member of the nominating officer's political party, and
+>
+> (c) each such eligible member failed to fill the office for one or other of the following reasons.
+>
+> (5) Those reasons are—
+>
+> (a) that one or more members of the Assembly sought to nominate the eligible member for the office, but consent to the nomination was not given by the nominating officer in accordance with paragraph 3D(4A);
+>
+> (b) that the eligible member was nominated for the office but did not take it up within the period specified in standing orders under paragraph 3D(7)(a).
+>
+> (6) References in this paragraph to an eligible member of a political party are to a member of that party who is also a member of the Assembly, but do not include the former Minister.
+
+## Excepted and reserved matters
+
+### 10 Civil Service Commissioners for Northern Ireland
+
+(1) In paragraph 21 of Schedule 2 to the Northern Ireland Act 1998 (excepted matters), after “Northern Ireland Constitution Act 1973” insert “ , other than section 36(1)(c), ”.
+
+(2) In paragraph 16 of Schedule 3 to that Act (reserved matters), omit “functions and procedures of the”.
+
+(3) Section 4 of that Act (transferred, excepted and reserved matters) is amended as follows.
+
+(4) In subsection (2), for “and (3)” substitute “ to (3D) ”.
+
+(5) After subsection (3) insert—
+
+> (3A) The Secretary of State shall not lay before Parliament under subsection (2) the draft of an Order amending paragraph 16 of Schedule 3 (Civil Service Commissioners for Northern Ireland) unless the Secretary of State has, at least three months before laying the draft, laid a report before Parliament.
+>
+> (3B) The report under subsection (3A) must set out the Secretary of State's view of the effect (if any) that the Order would have on—
+>
+> (a) the independence of the Civil Service Commissioners for Northern Ireland;
+>
+> (b) the application of the principle that persons should be selected for appointment to the Northern Ireland Civil Service on merit on the basis of fair and open competition; and
+>
+> (c) the impartiality of the Northern Ireland Civil Service.
+
+### 11 Northern Ireland Human Rights Commission
+
+(1) In paragraph 22 of Schedule 2 to the Northern Ireland Act 1998 (excepted matters), for sub-paragraph (f) substitute—
+
+> (f) in Part VII, sections 69B, 71(1) and (2) and (3) to (5), 74(5) and (6), 76 and 78;
+
+.
+
+(2) In paragraph 42 of Schedule 3 to that Act (reserved matters), after sub-paragraph (a) insert—
+
+> (aa) in Part VII, sections 68 to 69A, 69C to 70, 71(2A) to (2C) and Schedule 7;
+
+.
+
+(3) In section 4 of that Act (transferred, excepted and reserved matters), after subsection (3B) (as inserted by section 10) insert—
+
+> (3C) The Secretary of State shall not lay before Parliament under subsection (2) the draft of an Order amending paragraph 42(aa) of Schedule 3 (Northern Ireland Human Rights Commission) unless the Secretary of State has, at least three months before laying the draft, laid a report before Parliament.
+>
+> (3D) The report under subsection (3C) must set out the Secretary of State's view of the effect (if any) that the Order would have on—
+>
+> (a) the independence of the Northern Ireland Human Rights Commission;
+>
+> (b) the application of internationally accepted principles relating to national human rights institutions; and
+>
+> (c) the relationship between the Northern Ireland Human Rights Commission and the Assembly.
+
+### 12 District electoral areas for council elections
+
+(1) In paragraph 12 of Schedule 2 to the Northern Ireland Act 1998 (excepted matters), the existing provision becomes sub-paragraph (1) and after that sub-paragraph insert—
+
+> (2) This paragraph does not apply to—
+>
+> (a) the division of local government districts into areas (“district electoral areas”) for the purposes of elections to the councils of those districts,
+>
+> (b) the determination of the names of district electoral areas, or
+>
+> (c) the determination of the number of councillors to be elected for a district electoral area or a local government district.
+
+(2) After paragraph 41 of Schedule 3 to that Act (reserved matters) insert—
+
+> **41A**
+>
+> (1) The division of local government districts into areas (“district electoral areas”) for the purposes of elections to the councils of those districts.
+>
+> (2) The determination of the names of district electoral areas.
+>
+> (3) The determination of the number of councillors to be elected for a district electoral area or a local government district.
+
+## Electoral registration and administration
+
+### 13 Removal of requirement that canvass form must be prescribed form
+
+(1) In section 10 of the Representation of the People Act 1983 (“RPA 1983”) (duty to conduct canvass)—
+
+(a) in subsection (4) (as substituted by paragraph 9(5) of Schedule 4 to the Electoral Registration and Administration Act 2013), for “ be a form prescribed for those purposes ” substitute “comply with such requirements as to its form or content as shall be prescribed by the Secretary of State after having consulted the Electoral Commission”;
+
+(b) in subsection (4A), for “prescribe a form” substitute “ prescribe requirements ”;
+
+(c) after subsection (4B), insert—
+
+> (4BA) If requested to do so by the Secretary State for the purposes of making regulations under subsection (4), the Electoral Commission must design a form for the purposes of a canvass under this section.
+
+(2) In section 201 of RPA 1983 (regulations), in subsections (2) and (2A), before “110(7)” insert “ 10(4) or ”.
+
+(3) If sub-paragraph (5) of paragraph 9 of Schedule 4 to the Electoral Registration and Administration Act 2013 has not come into force on or before the day on which this section comes into force, then until that sub-paragraph comes into force—
+
+(a) the amendment made by subsection (1)(a) of this section is of no effect;
+
+(b) section 10(4) of RPA 1983 has effect as if, for “a form prescribed for those purposes shall be used”, there were substituted “ that does not apply and the form to be used for the purposes of the canvass must comply with such requirements as to its form or content as shall be prescribed by the Secretary of State after having consulted the Electoral Commission ”;
+
+(c) the following provisions of RPA 1983 have effect as if the references in them to regulations under section 10(4) of that Act were references to such regulations in respect of a canvass in Northern Ireland only—
+
+(i) section 10(4BA) (as inserted by subsection (1)(c));
+
+(ii) section 201(2) and (2A) (as amended by subsection (2)).
+
+### 14 Registration as an elector: abolition of 3 month residence requirement
+
+(1) The following provisions (which impose or relate to the requirement that persons registering as electors in Northern Ireland must have been resident there for three months) are repealed or revoked—
+
+(a) in the Representation of the People Act 1983—
+
+(i) section 4(2);
+
+(ii) section 7B(5);
+
+(iii) section 7C(1)(b) (and the “and” before it);
+
+(iv) section 10(4A)(c)(ii) (but not the “and” after it);
+
+(v) section 10A(1A)(c)(ii) (but not the “and” after it);
+
+(vi) section 13A(2A)(c)(ii) (but not the “and” after it);
+
+(vii) section 14(2);
+
+(viii) section 17(1)(b) (but not the “and” after it);
+
+(b) in the European Parliamentary Elections (Franchise of Relevant Citizens of the Union) Regulations 2001 (S.I. 2001/1184)—
+
+(i) regulation 4(2);
+
+(ii) regulation 6(1)(c);
+
+(c) in the Representation of the People (Northern Ireland) Regulations 2008 (S.I. 2008/1741), regulation 25(6).
+
+(2) In consequence of the amendments made by subsection (1)—
+
+(a) in the Elected Authorities (Northern Ireland) Act 1989, in Schedule 1—
+
+(i) in Part 1, for “Section 4(2)” substitute “ Section 4(3) ”;
+
+(ii) in Part 2, omit paragraph 7(1);
+
+(b) in the Representation of the People Act 2000, omit paragraph 7 of Schedule 1.
+
+### 15 Registration as an overseas elector: declaration of nationality
+
+[^F1]1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) In the Representation of the People (Northern Ireland) Regulations 2008 (S.I. 2008/1741), in regulation 20 (contents of overseas elector's declaration)—
+
+(a) in paragraph (1)—
+
+(i) after “required” insert “ or permitted ”;
+
+(ii) after “2(3)(a) to (d)” insert “ , (3A) ”;
+
+(iii) for “(7)” substitute “ (6B) ”;
+
+(b) after paragraph (5) insert—
+
+> (5A) Where the conditions in paragraph (4)(a) and (b) are not met in relation to a declarant, his overseas elector's declaration shall comply with paragraphs (6) to (6B).
+
+;
+
+(c) in paragraph (6), for the words before sub-paragraph (a) substitute “ If the declaration includes a statement under section 2(3)(b) of the 1985 Act (statement that declarant is a British citizen), the declaration shall state— ”;
+
+(d) after that paragraph insert—
+
+> (6A) If the declaration includes a statement under section 2(3A) of the 1985 Act (statement that declarant is an eligible Irish citizen), the declaration shall state—
+>
+> (a) in the case of a declarant who is the bearer of an Irish passport, the number of that passport together with its date and place of issue, or
+>
+> (b) otherwise, when and how the declarant acquired the status of Irish citizen, together with the date, place and country of the declarant's birth.
+>
+> (6B) Where, apart from this paragraph, a declaration would be required to include both a statement under paragraph (6) and a statement under paragraph (6A), the declaration need include only one of those statements.
+
+;
+
+(e) omit paragraph (7).
+
+(3) In regulation 22 of those regulations (attestation of certain overseas electors' declarations)—
+
+(a) in paragraph (3) for “the bearer of a British passport which describes his national status as a “British citizen”” substitute “ a person ”;
+
+(b) after paragraph (3)(c) insert
+
+> ; and
+>
+> (d) is—
+>
+> (i) the bearer of a British passport which describes his national status as a “British citizen”, or
+>
+> (ii) an eligible Irish citizen who is the bearer of an Irish passport.
+
+;
+
+(c) in paragraph (4), after “British citizen” insert “ , or an eligible Irish citizen, ”;
+
+(d) for paragraph (5)(b) substitute—
+
+> (b) any of the following—
+>
+> (i) that he is the bearer of a British passport which describes his national status as a “British citizen”, together with the number of that passport and its date and place of issue;
+>
+> (ii) that he is an eligible Irish citizen who is the bearer of an Irish passport, together with the number of that passport and its date and place of issue;
+>
+> (iii) that he is the bearer of a British passport which describes his national status as a “British citizen” and is an eligible Irish citizen who is the bearer of an Irish passport, together with the number of either of those passports and its date and place of issue;
+
+;
+
+(e) in paragraph (5)(f), after “British citizen” insert “ , or an eligible Irish citizen, ”;
+
+(f) after paragraph (5) insert—
+
+> (6) In this regulation “eligible Irish citizen” has the meaning given by section 2(9) and (10) of the 1985 Act.
+
+### 16 Absent voting
+
+(1) In section 13BA of the Representation of the People Act 1983 (alteration of registers in Northern Ireland: pending elections), omit subsection (4) (which prevents late registration as an absent voter).
+
+(2) In consequence of the amendment made by subsection (1)—
+
+(a) in Part 2 of Schedule 1 to the Elected Authorities (Northern Ireland) Act 1989, omit paragraph 8A;
+
+(b) in Schedule 4 to the Northern Ireland (Miscellaneous Provisions) Act 2006, omit paragraph 7(4).
+
+### 17 Electoral identity cards
+
+After section 13C of the Representation of the People Act 1983 (electoral identity card: Northern Ireland) insert—
+
+> **13CZA Provision of false information: application for electoral identity card**
+>
+> (1) A person who provides false information in connection with an application for an electoral identity card is guilty of an offence.
+>
+> (2) In relation to a signature, “false information” for the purposes of subsection (1) means a signature which—
+>
+> (a) is not the usual signature of, or
+>
+> (b) was written by a person other than,
+>
+> the person whose signature it purports to be.
+>
+> (3) A person does not commit an offence under subsection (1) if the person did not know, and had no reason to suspect, that the information was false.
+>
+> (4) Where sufficient evidence is adduced to raise an issue with respect to the defence under subsection (3), the court must assume that the defence is satisfied unless the prosecution proves beyond reasonable doubt that it is not.
+>
+> (5) A person guilty of an offence under this section is liable on summary conviction to—
+>
+> (a) imprisonment for a term not exceeding six months, or
+>
+> (b) a fine not exceeding level 5 on the standard scale,
+>
+> or to both.
+
+### 18 Chief Electoral Officer: duty to take necessary steps
+
+(1) In the Representation of the People Act 1983 (“RPA 1983”)—
+
+(a) section 9A (duty of registration officers to take necessary steps) extends to Northern Ireland (as well as Great Britain), and
+
+(b) in section 9 (registers of electors), omit subsection (6) (duty of registration officers in Northern Ireland to take reasonable steps).
+
+(2) In consequence of subsection (1)(a), in section 78(2)(a) of the Electoral Administration Act 2006 (which confined the extent of section 9A of RPA 1983 to Great Britain), for “9” substitute “ 9(2) ”.
+
+(3) Section 9A of RPA 1983 is amended as follows—
+
+(a) in subsection (1), for the words from “for the purpose of securing” to the end substitute
+
+> —
+>
+> (a) in the case of a registration officer in Great Britain, for the purpose of securing that, so far as is reasonably practicable, persons who are entitled to be registered in a register (and no others) are registered in it, and
+>
+> (b) in the case of the Chief Electoral Officer for Northern Ireland, for the purpose of meeting the relevant registration objectives.
+
+;
+
+(b) in subsection (2)(a), after “section 9D” insert “ or 10 ”;
+
+(c) in subsection (2)(b), for “subsection (5) of that section” substitute “ section 9D(5) or 10(5) ”.
+
+(4) In Schedule 1 to the Elected Authorities (Northern Ireland) Act 1989 (application, with modifications, of provisions of RPA 1983 to local elections), in Part 1 (provisions applied), after “Sections 9,” insert “ 9A, ”.
+
+### 19 Chief Electoral Officer: performance standards etc
+
+(1) The Secretary of State may by order made by statutory instrument make provision about objectives or standards of performance to be met by the Chief Electoral Officer for Northern Ireland, including in particular provision about—
+
+(a) setting such objectives or standards;
+
+(b) assessing or reporting the extent to which such objectives or standards have been met.
+
+(2) An order under this section may confer a function on, or modify or remove a function of, the Chief Electoral Officer for Northern Ireland, the Electoral Commission or the Secretary of State.
+
+(3) References in subsection (2) to a function include a discretionary function.
+
+(4) An order under this section may—
+
+(a) amend, repeal, revoke or otherwise modify any enactment (whenever passed or made);
+
+(b) include consequential, supplementary, incidental, transitional, transitory or saving provision.
+
+(5) In this section “enactment” includes—
+
+(a) a provision of an Act, including a provision of or inserted by this Act;
+
+(b) a provision of, or of an instrument made under, Northern Ireland legislation;
+
+(c) a provision of subordinate legislation (within the meaning of the Interpretation Act 1978).
+
+(6) An order under this section may not be made unless a draft of the statutory instrument containing it has been laid before, and approved by a resolution of, each House of Parliament.
+
+### 20 Data sharing
+
+(1) In the Representation of the People Act 1983 (“RPA 1983”), in section 53(8) (power to make regulations as to registration etc), omit “in Great Britain”.
+
+(2) In Schedule 2 to RPA 1983 (provisions which may be contained in regulations as to registration etc)—
+
+(a) in paragraph 1—
+
+(i) omit sub-paragraphs (4A) and (4B);
+
+(ii) in sub-paragraph (5) omit “or (4A)”;
+
+(iii) omit sub-paragraphs (6) to (8);
+
+(b) in paragraph 1A(1), omit “in Great Britain”;
+
+(c) in paragraph 8C—
+
+(i) in sub-paragraph (1)(a), for “or 10ZD” substitute “ , 10ZD or 10A ”;
+
+(ii) in sub-paragraph (1)(b) omit “in Great Britain”;
+
+(d) in paragraph 11A, omit sub-paragraph (1A);
+
+(e) in paragraph 13, omit sub-paragraph (1ZA).
+
+(3) In Schedule 1 to the Elected Authorities (Northern Ireland) Act 1989 (application, with modifications, of provisions of RPA 1983 to local elections), in Part 1 (provisions applied), after “Section 53 and, in Schedule 2, paragraphs 1(2) to (5),” insert “ 1A, ”.
+
+(4) In the Representation of the People (Northern Ireland) Regulations 2008 (S.I. 2008/1741) (“the 2008 regulations”)—
+
+(a) in regulation 41(1) (requests for information), for “the purposes mentioned in paragraph 1(4B)” substitute “ any of the purposes mentioned in paragraph 1A(1) ”;
+
+(b) in regulation 43(1)(a) (disclosure of information), for “the purpose mentioned in paragraph 1(4B)” substitute “ any of the purposes mentioned in paragraph 1A(1) ”.
+
+(5) Regulation 41 (as amended by subsection (4)(a)) and regulation 42 of the 2008 regulations are treated for the purposes of paragraph 1A of Schedule 2 to RPA 1983 as having been made under that paragraph.
+
+(6) Regulation 43 (as amended by subsection (4)(b)) of the 2008 regulations is treated for the purposes of paragraphs 1A and 13(1ZB) of Schedule 2 to RPA 1983 as having been made under those paragraphs.
+
+(7) In consequence of the amendments made by subsection (2)(a), (d) and (e)—
+
+(a) omit section 6 of the Electoral Fraud (Northern Ireland) Act 2002;
+
+(b) omit section 7 of the Northern Ireland (Miscellaneous Provisions) Act 2006.
+
+## Miscellaneous
+
+### 21 Rules of court
+
+The Schedule to this Act makes provision about rules of court.
+
+### 22 Equality duties
+
+(1) In section 75 of the Northern Ireland Act 1998 (statutory duty on public authorities), after subsection (3) insert—
+
+> (3A) An order under subsection (3)(a) or (d) may provide that the designated department, corporation, body or other person—
+>
+> (a) is not subject to, or is only subject to, specified obligations under subsection (1) or (2), or
+>
+> (b) is not subject to, or is only subject to, specified obligations under subsection (1) or (2)—
+>
+> (i) when exercising a specified function, or
+>
+> (ii) when exercising a specified function in specified circumstances or for specified purposes.
+>
+> (3B) In subsection (3A) “specified” means specified in the order.
+
+(2) In Schedule 9 to that Act (equality: enforcement of duties), in paragraph 4, after sub-paragraph (4) insert—
+
+> (5) But where the public authority is designated by order under section 75(3)(a) or (d)—
+>
+> - “equality of opportunity” does not include equality of opportunity in relation to which (by virtue of the order) the public authority has no obligations under section 75(1);
+> - “the relevant functions” does not include functions of the public authority so far as the obligations imposed by section 75 do not (by virtue of the order) apply to their exercise.
+
+### 23 Extension of powers to make secondary legislation about elections etc
+
+(1) In section 34 of the Northern Ireland Act 1998 (elections and franchise for the Assembly), after subsection (6) insert—
+
+> (7) An order under subsection (4) may make different provision for different areas about the conduct of elections, including different provision about the registration of persons entitled to vote at an election.
+
+(2) In section 84 of that Act (provision with respect to certain matters), after subsection (1A) insert—
+
+> (1B) An Order in Council under subsection (1) may make different provision for different areas about the conduct of elections, including different provision about the registration of persons entitled to vote at an election.
+
+### 24 Regulation of biometric data
+
+In Schedule 1 to the Protection of Freedoms Act 2012 (amendments of regimes other than PACE), in Part 7 (corresponding Northern Ireland provision for excepted or reserved matters etc), in paragraph 8(1) for “2011 or 2012 (whether before or after the passing of this Act)” substitute “ 2013 or 2014 ”.
+
+### 25 Amendment of Northern Ireland Assembly Disqualification Act 1975
+
+In Part 3 of Schedule 1 to the Northern Ireland Assembly Disqualification Act 1975 (other disqualifying offices), at the appropriate place, insert “ Civil Service Commissioner for Northern Ireland. ”
+
+## Final provisions
+
+### 26 Amendments that could have been made under existing powers
+
+(1) The amendments made by section 2(1) and (2) are treated, for the purposes of section 63 of the Electoral Administration Act 2006, as made under that section.
+
+(2) Where—
+
+(a) any other provision of this Act amends or revokes subordinate legislation (within the meaning of the Interpretation Act 1978), and
+
+(b) the amendment or revocation could have been made under a power conferred by an enactment,
+
+the amendment or revocation is treated, for the purposes of that enactment, as having been made under it.
+
+### 27 Extent
+
+(1) The amendment made by section 17 extends to Northern Ireland only.
+
+(2) Any other amendment, repeal, revocation or other modification of an enactment made by this Act has the same extent as the enactment, or relevant part of the enactment, to which it relates.
+
+(3) Subject to subsections (1) and (2), this Act extends to the whole of the United Kingdom.
+
+[[^F2](4) See also paragraph 38 of Schedule 1 to the Elections Act 2022 (which relates to section 17 of this Act: electoral identity cards).]
+
+### 28 Commencement
+
+(1) The following provisions come into force on the day on which this Act is passed—
+
+(a) in section 1 (donations for political purposes)—
+
+(i) subsections (1) and (2), and
+
+(ii) subsection (3) for the purpose of prescribing requirements;
+
+(b) in section 2 (loans etc for political purposes)—
+
+(i) subsection (1),
+
+(ii) subsection (2) for the purpose of prescribing requirements, and
+
+(iii) subsection (3);
+
+(c) section 7 (extension of term of Assembly);
+
+(d) section 19 (Chief Electoral Officer: performance standards etc);
+
+(e) section 20 (data sharing) (but see subsection (2) below);
+
+(f) section 22 (equality duties);
+
+(g) section 23 (extension of powers to make secondary legislation about elections etc);
+
+(h) section 24 (regulation of biometric data) (but see subsection (3) below);
+
+(i) sections 26 to 29 (final provisions).
+
+(2) If paragraph 10 of Schedule 4 to the Electoral Registration and Administration Act 2013 (which restricts to Northern Ireland the application of section 10A of the Representation of the People Act 1983) comes into force on a day after that on which this Act is passed, subsection (2)(c)(i) of section 20 comes into force immediately after that paragraph comes into force.
+
+(3) If paragraph 8(1) of Schedule 1 to the Protection of Freedoms Act 2012 comes into force on a day after that on which this Act is passed, section 24 comes into force immediately after that paragraph comes into force.
+
+(4) The following provisions come into force at the end of the period of two months beginning with the day on which this Act is passed—
+
+- section 6 (reduction in size of the Assembly to be reserved matter);
+- section 10 (Civil Service Commissioners for Northern Ireland);
+- section 11 (Northern Ireland Human Rights Commission);
+- section 12 (district electoral areas for council elections);
+- section 13 (removal of requirement that canvass form must be prescribed form);
+- section 17 (electoral identity cards);
+- section 18 (Chief Electoral Officer: duty to take necessary steps) (but see subsection (5) below);
+- section 21 and the Schedule (rules of court);
+- section 25 (amendment of Northern Ireland Assembly Disqualification Act 1975).
+
+(5) If paragraph 6 of Schedule 4 to the Electoral Registration and Administration Act 2013 (which amends section 9A of the Representation of the People Act 1983) comes into force on a day after the end of the period mentioned in subsection (4), section 18(3) comes into force immediately after that paragraph comes into force.
+
+(6) The following provisions come into force on the first day after this Act is passed on which the Northern Ireland Assembly is dissolved—
+
+- section 3 (MPs to be disqualified for membership of Assembly);
+- section 4 (members of the Dàil Èireann to be disqualified for membership of the Assembly);
+- section 5 (statements by prospective members of Assembly).
+
+(7) Subject to the preceding subsections of this section, this Act comes into force on such day as the Secretary of State may appoint by order made by statutory instrument.
+
+(8) An order under subsection (7)—
+
+(a) may appoint different days for different purposes, and
+
+(b) may make transitional, transitory or saving provision.
+
+### 29 Short title
+
+This Act may be cited as the Northern Ireland (Miscellaneous Provisions) Act 2014.
+
+## SCHEDULE — Rules of court
+
+*Section 21*
+
+### High Court and Court of Appeal
+
+**1** In section 56 of the Judicature (Northern Ireland) Act 1978 (control and publication of rules), for subsection (1) substitute—
+
+> (1) Rules made by the Rules Committee—
+>
+> (a) in the case of rules that are required under section 55A to be submitted to the Lord Chancellor, are subject to annulment in pursuance of a resolution of either House of Parliament in the same manner as a statutory instrument and section 5 of the Statutory Instruments Act 1946 applies accordingly; and
+>
+> (b) in the case of rules that are required under section 55A to be submitted to the Department of Justice, are subject to negative resolution within the meaning of section 41(6) of the Interpretation Act (Northern Ireland) 1954.
+
+### Crown Court
+
+**2** In section 53 of the Judicature (Northern Ireland) Act 1978 (Crown Court Rules Committee), after subsection (3) insert—
+
+> (4) In the application of section 56(1) by virtue of subsection (3), references to section 55A include references to section 53A.
+
+### County courts
+
+**3** In the County Courts (Northern Ireland) Order 1980 (S.I. 1980/397 (N.I. 3)), after Article 47 (making of county court rules) insert—
+
+> **Control of county court rules**
+>
+> **47A** (1) County court rules that are required under Article 47 to be submitted to the Lord Chancellor are subject to annulment in pursuance of a resolution of either House of Parliament in the same manner as a statutory instrument and section 5 of the Statutory Instruments Act 1946 applies accordingly.
+>
+> (2) County court rules that are required under Article 47 to be submitted to the Department of Justice are subject to negative resolution.
+
+### Magistrates' courts
+
+**4** (1) In Article 13 of the Magistrates' Courts (Northern Ireland) Order 1981 (S.I. 1981/1675 (N.I. 26)) (magistrates' court rules), for paragraph (3A) substitute—
+
+> (3A) After making magistrates' courts rules the Rules Committee must submit them to the relevant authority.
+>
+> (3AA) The relevant authority must, after consultation with the Lord Chief Justice, allow or disallow rules submitted to it.
+>
+> (3AB) Magistrates' courts rules have effect only if the relevant authority allows them.
+>
+> (3AC) If the relevant authority disallows rules submitted to it, it must give the Rules Committee written reasons why it has disallowed them.
+
+(2) After Article 13 of that Order insert—
+
+> **Control of magistrates' courts rules**
+>
+> **13A** (1) Magistrates' courts rules that are required under Article 13 to be submitted to the Lord Chancellor are subject to annulment in pursuance of a resolution of either House of Parliament in the same manner as a statutory instrument and section 5 of the Statutory Instruments Act 1946 applies accordingly.
+>
+> (2) Magistrates' courts rules that are required under Article 13 to be submitted to the Department of Justice are subject to negative resolution.
+
+### Inquests
+
+**5** (1) In section 36 of the Coroners Act (Northern Ireland) 1959 (c. 15) (rules and fees), for subsections (1C) and (1D) substitute—
+
+> (1C) After making rules under subsection (1)(b) the Lord Chief Justice must submit them to the relevant authority.
+>
+> (1CA) The relevant authority must allow or disallow rules submitted to it.
+>
+> (1CB) Rules made under subsection (1)(b) have effect only if the relevant authority allows them.
+>
+> (1D) If the relevant authority disallows rules submitted to it, it must give the Lord Chief Justice written reasons why it has disallowed them.
+
+(2) After section 36 of that Act insert—
+
+> **Control of rules**
+>
+> **36A** (1) The following rules are subject to annulment in pursuance of a resolution of either House of Parliament in the same manner as a statutory instrument—
+>
+> (a) rules made by the Lord Chancellor under section 36(1)(a);
+>
+> (b) rules made under subsection (1)(b) of section 36 that are required under that section to be submitted to the Lord Chancellor;
+>
+> and section 5 of the Statutory Instruments Act 1946 applies accordingly.
+>
+> (2) The following rules are subject to negative resolution—
+>
+> (a) rules made by the Department of Justice under section 36(1)(a);
+>
+> (b) rules made under subsection (1)(b) of section 36 that are required under that section to be submitted to that Department.
+
+### Application of amendments made by Schedule
+
+**6** The amendments made by this Schedule have effect in relation to rules made on or after the day on which this Schedule comes into force.
+
+---
+
+[^F1]: S. 15(1) repealed (16.1.2024) by Elections Act 2022 (c. 37), s. 67(1), Sch. 7 para. 11(e) (with Sch. 7 para. 13); S.I. 2023/1405, reg. 2
+[^F2]: S. 27(4) inserted (16.1.2023) by Elections Act 2022 (c. 37), s. 67(1), Sch. 1 para. 39; S.I. 2022/1401, reg. 2(d)(xvi)

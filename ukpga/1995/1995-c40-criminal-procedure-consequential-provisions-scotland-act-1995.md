@@ -1,0 +1,1818 @@
+---
+title: "Criminal Procedure (Consequential Provisions) (Scotland) Act 1995"
+identifier: "ukpga/1995/40"
+citation: "1995 c. 40"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S+N.I."
+date: 1995-11-08
+last_amended: 2020-12-31
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/1995/40"
+source_modified: 2024-05-17
+retrieved: 2026-10-11
+---
+
+# Criminal Procedure (Consequential Provisions) (Scotland) Act 1995
+
+**1995 c. 40**
+
+An Act to make provision for repeals, consequential amendments, transitional and transitory matters and savings in connection with the consolidation of enactments in the Criminal Procedure (Scotland) Act 1995, the Proceeds of Crime (Scotland) Act 1995 and the Criminal Law (Consolidation) (Scotland) Act 1995.
+
+[8th November 1995]
+
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## 1 Interpretation.
+
+In this Act—
+
+- “the consolidating Acts” means the Principal Act, the [^M1]Proceeds of Crime (Scotland) Act 1995, the [^M2]Criminal Law (Consolidation) (Scotland) Act 1995 and, so far as it reproduces the effect of the repealed enactments, this Act;
+- “the Principal Act” means the [^M3]Criminal Procedure (Scotland) Act 1995; and
+- “the repealed enactments” means the enactments repealed by this Act.
+
+## 2 Continuity of the law.
+
+(1) The substitution of the consolidating Acts for the repealed enactments does not affect the continuity of the law.
+
+(2) Anything done or having effect as if done under or for the purposes of a provision of the repealed enactments has effect, if it could have been done under or for the purposes of the corresponding provision of the consolidating Acts, as if done under or for the purposes of that provision.
+
+(3) Any reference, whether express or implied, in any enactment, instrument or document to a provision of the consolidating Acts shall, so far as the context permits, be construed as including, in relation to the times, circumstances and purposes in relation to which the corresponding provision of the repealed enactments has effect, a reference to that corresponding provision.
+
+(4) Any reference, whether express or implied, in any enactment, instrument or document to a provision of the repealed enactments shall be construed, so far as is required for continuing its effect, as including a reference to the corresponding provision of the consolidating Acts.
+
+## 3 Rationalisation of penalties.
+
+(1) Schedule 1 to this Act shall have effect for the purpose of setting or altering or enabling the Secretary of State to set or alter the penalties or maximum penalties in respect of certain offences or classes or descriptions of offences.
+
+(2) Schedule 2 to this Act shall have effect for the purpose of amending the enactments there specified for the purposes of and in accordance with the provisions of the said Schedule 1.
+
+## 4 Transitional, transitory and savings.
+
+The transitional provisions, transitory modifications and savings contained in Schedule 3 to this Act shall have effect.
+
+## 5 Minor and consequential amendments.
+
+The enactments mentioned in Schedule 4 to this Act shall have effect subject to the amendments there specified being amendments consequential on this Act.
+
+## 6 Repeals.
+
+(1) The enactments mentioned in Schedule 5 to this Act are hereby repealed to the extent specified in the third column of that Schedule.
+
+(2) Without prejudice to section 16(1)(a) of the [^M4]Interpretation Act 1978, the repeal by this Act of the provisions of the [^M5]Criminal Procedure (Scotland) Act 1975 specified in Schedule 6 to this Act shall not revive any rule of law or practice having effect before the coming into force of the [^M6]Criminal Procedure (Scotland) Act 1887.
+
+## 7 Short title, interpretation, commencement and extent.
+
+(1) This Act may be cited as the Criminal Procedure (Consequential Provisions) (Scotland) Act 1995.
+
+(2) This Act shall come into force on 1 April 1996.
+
+(3) Subject to subsections (4) and (5) below, this Act extends to Scotland only.
+
+(4) Paragraph 5 of Schedule 3 to this Act and this section also extend to England and Wales and Northern Ireland.
+
+(5) Any amendment contained in Schedule 4 to this Act of any enactment which extends to England and Wales or Northern Ireland shall also so extend.
+
+## SCHEDULE 1 — Setting and alteration of certain penalties
+
+*Section 3(1).*
+
+### Amendments relating to penalties and mode of trial for offences made triable only summarily
+
+**1** (1) The enactments specified in column 2 of Part I of Schedule 2 to this Act (which relate to the modes of trial of, and the maximum penalties for, the offences which are by section 292 of the Principal Act made triable only summarily) shall continue to have effect subject to the amendments specified in column 3 of that Part.
+
+(2) The said amendments have the effect of altering the maximum penalties available on summary conviction of those offences as well as making alterations consequential on their becoming triable only summarily; and in that Part, column 4 shows the maximum penalties resulting from the amendments.
+
+### Penalties on summary conviction for offences triable either summarily or on indictment
+
+**2** (1) Where an offence created by a relevant enactment may be tried either on indictment or summarily, the penalty or maximum penalty on summary conviction shall, to the extent that it included, immediately before the commencement of section 55 of the [^M7]Criminal Justice Act 1982, a penalty or maximum penalty mentioned in column 1 of the Table below, be amended so as to substitute as a maximum penalty the corresponding penalty set forth in column 2 thereof (unless provision is expressly made by any enactment for a larger penalty or maximum penalty on summary conviction)—
+
+|  |  |
+|---|---|
+| Column 1 | Column 2 |
+| Penalty or maximum penalty at commencement of section 55 of Criminal Justice Act 1982 | New maximum penalty |
+| 1. Fine (other than a fine specified in paragraph 3 below, or a fine in respect of each period of a specified length during which a continuing offence is committed). | 1. Fine not exceeding the prescribed sum. |
+| 2. Imprisonment for a period exceeding 3 months. | 2. Imprisonment for a period not exceeding 3 months. |
+| 3. Fine in respect of a specified quantity or number of things. | 3. Fine not exceeding the prescribed sum in respect of each such quantity or number. |
+| 4. Fine exceeding £100 in respect of each period of a specified length during which a continuing offence is committed. | 4. Fine not exceeding £100 in respect of each such period. |
+
+(2) Where by virtue of a relevant enactment, a person summarily convicted of any offence to which sub-paragraph (1) above relates would, apart from this paragraph, be liable to a fine or a maximum fine of one amount in the case of a first conviction and of a different amount in the case of a second or subsequent conviction, sub-paragraph (1) above shall apply irrespective of whether the conviction is a first, second or subsequent one.
+
+(3) Sub-paragraph (1) above is without prejudice to section 5 of the Principal Act (6 months’ imprisonment competent for certain offences).
+
+(4) In this paragraph “relevant enactment” means an enactment contained in the [^M8]Criminal Law Act 1977 or in any other Act (including this Act).
+
+(5) Sub-paragraph (1) of paragraph 7 below shall not affect so much of any enactment as (in whatever words) provides for a person to be made liable, on summary conviction, to a fine or a maximum fine for each period of a specified length during which a continuing offence is committed.
+
+(6) Where an enactment to which sub-paragraph (1) of the said paragraph 7 below applies provides for a person to be made liable to a penalty or a maximum penalty on summary conviction of an offence triable either on indictment or summarily which includes a fine or a maximum fine in respect of a specified quantity or a specified number of things, that sub-paragraph shall apply to that fine or maximum fine.
+
+(7) Sub-paragraph (1) above shall not apply on summary conviction of any of the offences mentioned in sub-paragraph (2) of paragraph 11 below.
+
+### Increase of fines for certain summary offences
+
+**3** (1) The enactments specified in column 2 of Part II of Schedule 2 to this Act, which relate to the maximum fines for the offences mentioned (and broadly described) in column 1 of that Schedule, shall have effect as if the maximum fine that may be imposed on summary conviction of any offence so mentioned were a fine not exceeding the amount specified in column 4 of that Schedule instead of a fine not exceeding the amount specified in column 3 of that Schedule (being the amount of the maximum fine in respect of the offence immediately before the passing of the [^M9]Criminal Law Act 1977), but this sub-paragraph shall not alter the maximum daily fine, if any, provided for by any of those enactments.
+
+(2) In section 203 of the [^M10]Local Government (Scotland) Act 1973 (offences against byelaws), except as applied to byelaws made under any provision contained in a local or private Act other than by a local authority, for any reference to £20 there shall be substituted a reference to £50.
+
+(3) Subject to sub-paragraph (4) below, this sub-paragraph applies to any pre-1949 enactment however framed or worded which—
+
+(a) as regards any summary offence makes a person liable on conviction thereof to a fine of, or not exceeding, a specified amount less than £50 which has not been altered since the end of 1948 (and is not altered by this Act); or
+
+(b) confers power by subordinate instrument to make a person, as regards any summary offence (whether or not created by the instrument), liable on conviction thereof to a fine of, or a maximum fine of, less than £50 which has not been altered since the end of 1948 (and is not altered by this Act).
+
+(4) Sub-paragraph (3) above does not apply to any offence to which section 292(2)(b) of the Principal Act applies (offences triable only summarily other than by virtue of express provision).
+
+(5) Every enactment to which sub-paragraph (3) above applies shall have effect as if for the specified amount less than £50 there mentioned there were substituted—
+
+(a) £25 if the specified amount is less than £20; or
+
+(b) £50 if the specified amount is not less than £20.
+
+(6) Where, by virtue of any enactment to which sub-paragraph (3) above applies by virtue of sub-sub-paragraph (a) of that sub-paragraph, a person convicted of a summary offence would, apart from this paragraph, be liable to a fine, or maximum fine, of one amount in the case of a first conviction and of a different amount in the case of a second or subsequent conviction, sub-paragraph (5) above shall apply separately in relation to each specified amount less than £50, even if this produces the same instead of different amounts for different convictions.
+
+(7) Sub-paragraph (3) above does not apply to so much of any enactment as, in whatever words, makes a person liable or provides for a person to be made liable, on summary conviction, to a fine or a maximum fine for each period of a specified length during which a continuing offence is committed.
+
+(8) Where an enactment to which sub-paragraph (3) above applies provides or confers a power to provide for, on conviction of an offence triable only summarily, a fine or a maximum fine in respect of a specified quantity or a specified number of things, “the specified amount” for the purposes of subsection (5) above is the fine or maximum fine so provided or for which provision may be made.
+
+(9) In sub-paragraph (3) above “pre-1949 enactment” means an enactment passed before 1st January 1949 or an enactment passed on or after that date which whether directly or, through successive re-enactments, indirectly re-enacts with or without modification an enactment passed before that date.
+
+(10) In this paragraph, “enactment” does not include an enactment contained in an order, regulation or other instrument made under an Act.
+
+### Penalties for first and subsequent convictions of summary offences to be the same
+
+**4** (1) Subject to sub-paragraphs (2) to (4) and (6) below, this paragraph applies where any enactment—
+
+(a) makes a person liable on conviction of an offence triable only summarily to a penalty or a maximum penalty; or
+
+(b) confers a power by subordinate instrument to make a person liable on conviction of an offence triable only summarily (whether or not created by the instrument) to a penalty or a maximum penalty,
+
+which is different in the case of a second or subsequent conviction from the penalty or maximum penalty provided or for which provision may be made in the case of a first conviction.
+
+(2) Where the penalty or maximum penalty for an offence to which section 292(2)(b) of the Principal Act applies has not been altered by any enactment passed or made after 29th July 1977 (the date of the passing of the [^M11]Criminal Law Act 1977), this paragraph applies as if the amount referred to in sub-paragraph (5)(a) below were the greatest amount to which a person would have been liable on any conviction immediately before that date.
+
+(3) Where any enactment—
+
+(a) provides or confers a power to provide for a penalty or a maximum penalty which would, but for the operation of paragraph 3(5) above, be different in the case of a second or subsequent conviction from the penalty or maximum penalty provided for or for which provision may be made in the case of a first conviction; and
+
+(b) otherwise fulfils the conditions of sub-paragraph (1) above;
+
+this paragraph applies to that penalty or maximum penalty as if the amount referred to in sub-paragraph (5)(a) below were the greatest amount to which a person would have been liable or could have been made liable on any conviction immediately before 17th July 1978 (the date of coming into force of section 289C of the [^M12]Criminal Procedure (Scotland) Act 1975).
+
+(4) This paragraph does not apply to—
+
+(a) section 5(3) of the Principal Act (imprisonment for certain offences);
+
+(b) section 78 of the [^M13]Criminal Justice (Scotland) Act 1980 (vandalism); or
+
+(c) an enactment mentioned in Part III of Schedule 2 to this Act.
+
+(5) Where this paragraph applies the maximum penalty to which a person is or may be made liable by or under the enactment in the case of any conviction shall be either or both of—
+
+(a) a fine not exceeding the greatest amount;
+
+(b) imprisonment for a term not exceeding the longest term (if any),
+
+to which an offender would have been liable or could have been made liable on any conviction (whether the first or a second or subsequent conviction) by or under the enactment immediately before the relevant date.
+
+(6) This paragraph does not affect the penalty which may be imposed in respect of an offence committed before the relevant date.
+
+(7) In sub-paragraphs (5) and (6) above “the relevant date” means—
+
+(a) in relation to an offence created by or under an Act or, as the case may be, to conviction of such an offence, 11th April 1983; and
+
+(b) in relation to an offence created under a subordinate instrument or, as the case may be, to conviction of such an offence, 12th October 1988.
+
+### Increases of fines for certain summary offences
+
+**5** (1) Subject to sub-paragraphs (3) to (8) and (10) below, this paragraph applies where any Act passed on or before 29th July 1977 (the date of the passing of the [^M14]Criminal Law Act 1977)—
+
+(a) makes a person liable on conviction of an offence triable only summarily to a fine or a maximum fine which is less than £1,000; or
+
+(b) confers a power by subordinate instrument to make a person liable on conviction of an offence triable only summarily (whether or not created by the instrument) to a fine or a maximum fine which is less than £1,000, or a fine or a maximum fine which shall not exceed an amount of less than £1,000,
+
+and the fine or maximum fine which may be imposed or, as the case may be, for which the subordinate instrument may provide has not been altered by any provision mentioned in sub-paragraph (2) below.
+
+(2) The provisions referred to in sub-paragraph (1) above are—
+
+(a) paragraph 1 above;
+
+(b) paragraph 3 above (except where paragraph 4(3) above applies);
+
+(c) section 30(3) of the Criminal Law Act 1977;
+
+(d) an enactment passed or made after 29th July 1977 and before 11th April 1983.
+
+(3) In the case of an offence to which section 292(2)(b) of the Principal Act applies, sub-paragraphs (2)(a) to (c) above do not apply and the fine or the maximum fine referred to in sub-paragraph (9) below is the fine or the maximum fine for the offence immediately before 29th July 1977 as amended, where applicable, by paragraph 4 above.
+
+(4) This paragraph also applies where any enactment—
+
+(a) is contained in a consolidation Act passed after 29th July 1977 and before 11th April 1983; and
+
+(b) otherwise fulfils the conditions of sub-paragraph (1) above as amended by sub-paragraph (3) above where it applies; and
+
+(c) is a re-enactment (with or without modification) of an enactment passed on or before 29th July 1977.
+
+(5) Subject to sub-paragraph (10) below, where an Act provides or confers a power to provide for, on conviction of an offence triable only summarily, a fine or a maximum fine in respect of a specified quantity or a specified number of things, that fine or maximum fine is the fine or, as the case may be, the maximum fine for the purposes of this paragraph.
+
+(6) Where an Act to which this paragraph applies provides or confers a power to provide different fines or maximum fines in relation to different circumstances or persons of different descriptions, such fines or maximum fines are to be treated separately for the purposes of this paragraph.
+
+(7) This paragraph also applies where the penalties or maximum penalties provided or for which provision may be made by or under an Act on first and on second or subsequent conviction of an offence have been made the same by operation of paragraph 4 above; and in that case the fine or the maximum fine referred to in sub-paragraph (9) below is the maximum fine to which a person is or may be made liable by virtue of that paragraph.
+
+(8) This paragraph does not apply in the case of—
+
+(a) so much of any Act as (in whatever words) makes a person liable or provides for a person to be made liable to a fine or a maximum fine for each period of a specified length during which a continuing offence is committed;
+
+(b) section 67(3) of the [^M15]Transport Act 1962;
+
+(c) sections 42(1) and 47(1) of the [^M16]Road Traffic Act 1988;
+
+(d) an enactment mentioned in Schedule 1 to the [^M17]British Railways Act 1977 to the extent that the enactment was amended by section 13(1) of that Act;
+
+(e) an enactment mentioned in Part III of Schedule 2 to this Act or in Schedule 2 to the [^M18]Criminal Justice Act 1982.
+
+(9) Where this paragraph applies, the fine or, as the case may be, the maximum fine to which a person is or may be made liable by or under the Act shall be increased to the amount shown in column 2 of the Table below opposite the band in column 1 within which the fine or the maximum fine referred to in sub-paragraph (1) above falls.
+
+|  |  |
+|---|---|
+| Column 1 | Column 2 |
+| Fine or maximum fine | Increased amount |
+| Under £25 | £25 |
+| Under £50 but not less than £25 | £50 |
+| Under £200 but not less than £50 | £200 |
+| Under £400 but not less than £200 | £500 |
+| Under £1,000 but not less than £400 | £1,000 |
+
+(10) Where an Act to which this paragraph applies provides or confers a power to provide for, on conviction of an offence triable only summarily, a fine or a maximum fine in respect of a specified quantity or a specified number of things but also provides or confers a power to provide for an alternative fine or maximum fine as regards the offence, sub-paragraph (9) above shall have effect to increase—
+
+(a) the alternative fine; and
+
+(b) any amount that the Act provides or confers a power to provide for as the maximum which a fine as regards the offence may not exceed,
+
+as well as the fine or maximum fine which it has effect to increase by virtue of sub-paragraph (5) above.
+
+### Standard scale: amendment of enactments
+
+**6** (1) Subject to sub-paragraph (5) below, where—
+
+(a) an enactment to which sub-paragraph (2) below applies either—
+
+(i) makes a person liable on conviction of an offence triable only summarily (whether created by that enactment or otherwise) to a fine or a maximum fine; or
+
+(ii) confers a power by subordinate instrument to make a person liable on conviction of an offence triable only summarily (whether or not created by the instrument) to a fine or a maximum fine; and
+
+(b) the amount of the fine or the maximum fine is, whether by virtue of that enactment or otherwise, an amount shown in the second column of the standard scale,
+
+for the reference in the enactment to the amount of the fine or maximum fine there shall be substituted a reference to the level on the standard scale shown in the first column thereof as corresponding to the amount in the second column thereof referred to in sub-sub-paragraph (b) above.
+
+(2) This sub-paragraph applies to an enactment in any Act passed before 11th April 1983.
+
+(3) Subject to sub-paragraph (4) below, where an Act provides or confers a power to provide for, on conviction of an offence triable only summarily, a fine or a maximum fine in respect of a specified quantity or a specified number of things, that fine or maximum fine is the fine or, as the case may be, the maximum fine for the purposes of this paragraph.
+
+(4) Where an Act provides or confers a power to provide for, on conviction of an offence triable only summarily, a fine or a maximum fine in respect of a specified quantity or a specified number of things but also provides or confers a power to provide for an alternative fine or maximum fine as regards the offence, the fine or the maximum fine for the purposes of this paragraph is—
+
+(a) the alternative fine; and
+
+(b) any amount that the Act provides or confers a power to provide for as the maximum which a fine as regards the offence may not exceed,
+
+as well as the fine or maximum fine referred to in sub-paragraph (3) above.
+
+(5) Sub-paragraph (1) above does not apply to so much of any Act as (in whatever words) makes a person liable or provides for a person to be made liable to a fine or a maximum fine for each period of a specified length during which a continuing offence is committed.
+
+(6) Where an enactment to which sub-paragraph (2) above applies confers a power such as is mentioned in sub-paragraph (1)(a)(ii) above, the power shall be construed as a power to make a person liable to a fine or, as the case may be, a maximum fine of the amount corresponding to the level on the standard scale to which the enactment refers by virtue of sub-paragraph (1) above or of a lesser amount.
+
+(7) Subject to sub-paragraph (9) below, where under a relevant subordinate instrument the fine or maximum fine on conviction of a summary offence specified in the instrument is an amount shown in the second column of the standard scale, the reference in the instrument to the amount of the fine or maximum fine shall be construed as a reference to the level in the first column of the standard scale corresponding to that amount.
+
+(8) In sub-paragraph (7) above, “relevant subordinate instrument” means any instrument made by virtue of an enactment after 30th April 1984 and before 12th October 1988 (the date of commencement of section 66 of the [^M19]Criminal Justice (Scotland) Act 1987).
+
+(9) Sub-paragraph (7) above shall not affect so much of any instrument as (in whatever words) makes a person liable on summary conviction to a fine not exceeding a specified amount for each period of a specified length during which a continuing offence is continued after conviction or the occurrence of any other specified event.
+
+(10) Where there is—
+
+(a) under any enactment (however framed or worded) contained in an Act passed before 12th October 1988,
+
+(b) under any instrument (however framed or worded) made by virtue of such an enactment,
+
+a power to provide by subordinate instrument that a person, as regards any summary offence (whether or not created by the instrument) shall be liable on conviction to a fine, a person may be so made liable to a fine not exceeding a specified level on the standard scale.
+
+(11) Sub-paragraph (10) above has effect in relation to exercises of powers before as well as after 12th October 1988.
+
+### Statutory maximum as penalty in respect of summary conviction for offences in subordinate instruments
+
+**7** (1) Where there is, under any enactment (however framed or worded) contained in an Act passed before the relevant date, a power by subordinate instrument to create a criminal offence triable either on indictment or summarily, the maximum fine which may, in the exercise of the power, be authorised on summary conviction shall, by virtue of this paragraph, be the statutory maximum (unless some larger maximum fine can be authorised on summary conviction of such an offence by virtue of an enactment other than this sub-paragraph).
+
+(2) Where there is, under any enactment (however framed or worded) contained in an Act passed before the relevant date, a power to create offences triable either on indictment or summarily by subordinate instrument, the maximum fine on summary conviction for such an offence may be expressed as a fine not exceeding the statutory maximum.
+
+(3) Sub-paragraphs (1) and (2) above shall have effect in relation to any exercise of such power before as well as after the relevant date.
+
+(4) Where an offence created by a subordinate instrument made before the relevant date may be tried either on indictment or summarily, the maximum fine which may be imposed on summary conviction shall by virtue of this sub-paragraph be the statutory maximum (unless the offence is one for which by virtue of the instrument a larger maximum fine may be imposed on summary conviction).
+
+(5) Where a person summarily convicted of any offence to which sub-paragraph (4) above relates would, apart from this paragraph, be liable to a fine or to a maximum fine of an amount in the case of a first conviction and of a different amount in the case of a second or subsequent conviction, sub-paragraph (4) above shall apply irrespective of whether the conviction is a first, second or subsequent one.
+
+(6) Sub-paragraph (4) above shall not affect so much of any instrument as (in whatever words) makes a person liable on summary conviction to a fine not exceeding a specified amount for each period of a specified length during which a continuing offence is continued after conviction or the occurrence of any other specified event.
+
+(7) Nothing in this paragraph shall affect the punishment for an offence committed before the relevant date.
+
+(8) In this paragraph “the relevant date” means 12th October 1988 (the date of commencement of section 66 of the [^M20]Criminal Justice (Scotland) Act 1987).
+
+### Fines under secondary subordinate instruments
+
+**8** (1) This paragraph applies to any instrument (however framed or worded) which—
+
+(a) was made before 11th April 1983 (the date of commencement of Part IV of the [^M21]Criminal Justice Act 1982); and
+
+(b) confers on any authority other than a harbour authority a power by subordinate instrument to make a person, as regards any summary offence (whether or not created by the latter instrument), liable on conviction to a maximum fine of a specified amount not exceeding £1,000,
+
+but does not affect so much of any such instrument as (in whatever words) confers a power by subordinate instrument to make a person liable on conviction to a fine for each period of a specified length during which a continuing offence is continued.
+
+(2) The maximum fine to which a subordinate instrument made by virtue of an instrument to which this paragraph applies may provide that a person shall be liable on conviction of a summary offence is—
+
+(a) if the specified amount is less than £25, level 1 on the standard scale;
+
+(b) if it is £25 or more but less than £50, level 2;
+
+(c) if it is £50 or more but less than £200, level 3;
+
+(d) if it is £200 or more but less than £400, level 4; and
+
+(e) if it is £400 or more, level 5.
+
+(3) Subject to sub-paragraph (5) below, where an instrument to which this paragraph applies confers a power by subordinate instrument to make a person, as regards a summary offence, liable on conviction to a fine in respect of a specified quantity or a specified number of things, that shall be treated for the purposes of this paragraph as being the maximum fine to which a person may be made liable by virtue of the instrument.
+
+(4) Where an instrument to which this paragraph applies confers a power to provide for different maximum fines in relation to different circumstances or persons of different descriptions, the amount specified as those maximum fines are to be treated separately for the purposes of this paragraph.
+
+(5) Where an instrument to which this paragraph applies confers a power by subordinate instrument to make a person, as regards a summary offence, liable on conviction to a fine in respect of a specified quantity or a specified number of things but also confers a power by subordinate instrument to make a person, as regards such an offence, liable on conviction to an alternative fine, this paragraph shall have effect in relation—
+
+(a) to the alternative fine; and
+
+(b) to any amount that the instrument specifies as the maximum fine for which a subordinate instrument made in the exercise of the power conferred by it may provide,
+
+as well as in relation to the fine mentioned in sub-paragraph (3) above.
+
+### Fines on summary conviction for offences under subordinate instruments: conversion to references to levels on scale
+
+**9** (1) Where an instrument which was made under an enactment on or after 11th April 1983 but before 12th October 1988 (the date of commencement of section 54 of the Criminal Justice Act 1988) confers on any authority other than a harbour authority a power by subordinate instrument to make a person liable on summary conviction to a fine of an amount shown in the second column of the standard scale, as that scale had effect when the instrument was made, a reference to the level in the first column of the standard scale which then corresponded to that amount shall be substituted for the reference in the instrument conferring the power to the amount of the fine.
+
+(2) This paragraph shall not affect so much of any instrument as (in whatever words) makes a person liable on summary conviction to a maximum fine not exceeding a specified amount for each period of a specified length during which a continuing offence is continued.
+
+### Part III of Schedule 2
+
+**10** (1) The enactments specified in column 1 of Part III of Schedule 2 to this Act, which relate to the penalties or the maximum penalties for the offences mentioned in those enactments, shall be amended in accordance with the amendments specified in column 2 of that Part, which have the effect of altering the penalties on summary conviction of the said offences and placing the fines on a level on the standard scale; and in that Part column 3 shows the penalties or, as the case may be, maximum penalties resulting from the amendments.
+
+(2) Sub-paragraph (1) above does not affect the penalty which may be imposed in respect of an offence committed before 11th April 1983.
+
+### Alteration of penalties on summary conviction of certain offences under the Misuse of Drugs Act 1971
+
+**11** (1) The [^M22]Misuse of Drugs Act 1971 shall be amended as follows—
+
+(a) in the entries in Schedule 4 showing the punishment that may be imposed on persons summarily convicted of offences mentioned in sub-paragraph (2)(b) below, for “6 months” there shall be substituted “ 3 months ”; and
+
+(b) in the entry in Schedule 4 relating to section 5(2)—
+
+(i) for “6 months” (being the maximum punishment on summary conviction of an offence under that section where a Class B drug was involved) there shall be substituted “ 3 months ”, and
+
+(ii) for “6 months” being the maximum punishment on summary conviction of such an offence where a Class C drug was involved there shall be substituted “ 3 months ”.
+
+(2) The offences to which (as provided in paragraph 2(7) above) paragraph 2(1) above does not apply are—
+
+(a) offences under section 5(2) of the Misuse of Drugs Act 1971 (having possession of a controlled drug) where the controlled drug in relation to which the offence was committed was a Class B or Class C drug;
+
+(b) offences under the following provisions of that Act, where the controlled drug in relation to which the offence was committed was a Class C drug, namely—
+
+(i) section 4(2) (production, or being concerned in the production, of a controlled drug);
+
+(ii) section 4(3) (supplying or offering a controlled drug or being concerned in the doing of either activity by another);
+
+(iii) section 5(3) (having possession of a controlled drug with intent to supply it to another);
+
+(iv) section 8 (being the occupier, or concerned in the management, of premises and permitting or suffering certain activities to take place there);
+
+(v) section 12(6) (contravention of direction prohibiting practitioner etc from possessing, supplying etc controlled drugs); or
+
+(vi) section 13(3) (contravention of direction prohibiting practitioner etc from prescribing, supplying etc controlled drugs).
+
+(3) In this paragraph “controlled drug”, “Class B drug” and “Class C drug” have the same meaning as in the Misuse of Drugs Act 1971.
+
+### Transitional provisions and savings
+
+**12** (1) The following transitional provisions and savings relating to the provisions contained in this Schedule shall have effect.
+
+(2) For the purposes of paragraph 3(2) above, any provision in force at 17th July 1978 (the date of coming into force of subsection (3) of section 289C of the [^M23]Criminal Procedure (Scotland) Act 1975) which—
+
+(a) is contained in any byelaw made by virtue of section 203 of the Local Government (Scotland) Act 1973 but not that section as applied to byelaws made under any provision contained in a local or private Act other than by a local authority; and
+
+(b) specified £20 as the maximum fined which may be imposed on summary conviction in respect of a contravention of, or offence under, any byelaw mentioned in that provision,
+
+shall have effect as if it specified £50 instead, but with no change by virtue of this sub-paragraph in the maximum daily fine, if any, for which it provides.
+
+(3) Paragraph 5 above does not affect the penalty which may be imposed in respect of an offence committed before 11th April 1983.
+
+## SCHEDULE 2 — Increase in Certain Penalties
+
+### Part I — Offences made triable only summarily, and related amendments
+
+|  |  |  |  |
+|---|---|---|---|
+| (1) | (2) | (3) | (4) |
+| Offences | Enactment | Amendment | Penalties |
+| **NIGHT POACHING ACT 1828 (C. 69)** Offences under section 1 (taking or destroying game or rabbits by night or entering land for that purpose). | Section 1. | For the words from “such offender” onwards substitute “ he shall be liable on summary conviction to a fine not exceeding level 3 on the standard scale ”. | Level 3 on the standard scale. |
+| **PUBLIC MEETING ACT 1908 (c. 66)** Offences under section 1(1) (endeavour to break up a public meeting). | Section 1(1) | After “offence” add “ shall on summary conviction be liable to imprisonment for a term not exceeding 6 months or to a fine not exceeding level 5 on the standard scale or to both ”. | 6 months or level 5 on the standard scale or both. |
+| [^F1] . . .. | [^F1] . . . | [^F1] . . .. | [^F1] . . . |
+| **BETTING, GAMING AND LOTTERIES ACT 1963 (C. 2)** Offences under the following provisions - section 7 (restriction of betting on dog racecourses); section 10(5) (advertising licensed betting offices); section 11(6) (person holding bookmaker’s or betting agency permit employing a person disqualified from holding such a permit); section 18(2) (making unauthorised charges to bookmakers on licensed track); section 19 (occupiers of licensed tracks not to have any interest in bookmaker thereon); section 21 (betting with young persons); section 22 (betting circulars not to be sent to young persons). | Section 52 | For paragraphs (a) and (b) of subsection (2) (penalties for certain offences) substitute “ on summary conviction to a fine not exceeding level 5 on the standard scale or to imprisonment for a term not exceeding six months or to both ”. | Level 5 on the standard scale or 6 months or both. |
+| **THEATRES ACT 1968 (C. 54)** Offences under section 6 (provocation of breach of the peace by means of public performance of play). | Section 6(2) | For paragraphs (a) and (b) substitute “ on summary conviction to a fine not exceeding level 5 on the standard scale or to imprisonment for a term not exceeding six months or to both ”. | 6 months or level 5 on the standard scale or both. |
+
+### Part II — Increase of fines for certain summary offences
+
+<table>
+<tbody>
+<tr><th>(1)</th><th>(2)</th><th>(3)</th><th>(4)</th></tr>
+<tr><th>Enactment creating offence</th><th>Penalty enactment</th><th>Old maximum fine</th><th>New maximum fine</th></tr>
+<tr><td><b>[^F2]. . .</b></td><td>[^F2] . . .</td><td>[^F2] . . .</td><td>[^F2] . . .</td></tr>
+<tr><td>[^F3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</td><td>[^F3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</td><td>[^F3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</td><td>[^F3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</td></tr>
+<tr><td><b>PUBLIC ORDER ACT 1936 (1Edw. 8 &1 Geo. 6) (C. 6)</b> Offences under section 1(1) (wearing uniform signifying association with political organisation).</td><td>Section 7(2).</td><td>£50</td><td>Level 4 on the standard scale.</td></tr>
+<tr><td><b>CHILDREN AND YOUNG PERSONS (SCOTLAND) ACT 1937 (C. 37)</b> Offences under section 46(2) (publication of matters identifying juveniles in court proceedings).</td><td>Section 46(2).</td><td>£50</td><td>Level 4 on the standard scale.</td></tr>
+<tr><td><b>CINEMATOGRAPH FILMS (ANIMALS) ACT 1937 (C. 59)</b> Offences under section 1(1) (prohibition of films in production of which suffering has been caused to animals).</td><td>Section 1(3).</td><td>£100</td><td>Level 4 on the standard scale.</td></tr>
+<tr><td><b>[^F4]. . .</b></td><td>[^F4] . . .</td><td>[^F4] . . .</td><td>[^F4] . . .</td></tr>
+<tr><td><b>[[^F5]. . .</b></td><td>[^F5]. . .</td><td>[^F5]. . .</td><td>[^F5]. . .]</td></tr>
+<tr><td>[^F6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</td><td>[^F6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</td><td>[^F6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</td><td>[^F6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</td></tr>
+<tr><td><b>NATIONAL ASSISTANCE ACT 1948 (C. 29)</b> Offences under section 55(2) (obstruction).</td><td>Section 55(2) (as amended by Schedule 3 to the Criminal Justice Act 1967).</td><td>£10 for a first offence and £20 for a second or subsequent offence.</td><td>Level 4 on the standard scale.</td></tr>
+<tr><td><b>AGRICULTURE (SCOTLAND) ACT 1948 (C. 45)</b> Offences under section 50(1) (prohibition of night shooting and use of spring traps).</td><td>Section 50(2)</td><td>£20 for a first offence and £50 for a second or subsequent offence.</td><td>Level 3 on the standard scale.</td></tr>
+<tr><td>Offences under section 50A(1) (open trapping of hares and rabbits).</td><td>Section 50A(2).</td><td>£20 for a first offence and £50 for a second or subsequent offence.</td><td>Level 3 on the standard scale.</td></tr>
+<tr><td><b>DOCKING AND NICKING OF HORSES ACT 1949 (C. 70)</b> Offences under section 1(1) (prohibition of docking or nicking horses).</td><td>Section 1(3).</td><td>£25</td><td>Level 3 on the standard scale.</td></tr>
+<tr><td>Offences under section 2(3) (offences in connection with importation of docked horses).</td><td>Section 2(3).</td><td>£25</td><td>Level 3 on the standard scale.</td></tr>
+<tr><td>Offences under section 2(4) (making of false statement).</td><td>Section 2(4).</td><td>£25</td><td>Level 3 on the standard scale.</td></tr>
+<tr><td>[^F7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</td><td>[^F7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</td><td>[^F7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</td><td>[^F7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</td></tr>
+<tr><td><b>DOGS (PROTECTION OF LIVESTOCK) ACT 1953 (C. 28)</b> Offences under section 1(1) (owning or keeping a dog which worries livestock).</td><td>Section 1(6) (as amended by Schedule 3 to the Criminal Justice Act 1967).</td><td>£20 for a first offence and £50 for a second or subsequent offence in respect of the same dog.</td><td>Level 3 on the standard scale.</td></tr>
+<tr><td><b>PESTS ACT 1954 (C. 68)</b> Offences under section 12 (spreading of myxomatosis).</td><td>Section 12.</td><td>£20 for a first offence and £50 for a second or subsequent offence in respect of the same dog.</td><td>Level 3 on the standard scale.</td></tr>
+<tr><td><b>ANIMAL (CRUEL POISONS) ACT 1962 (C. 26)</b> Offences under section 1 (offences in connection with use of prohibited poison for destroying animals).</td><td>Section 1.</td><td>£50</td><td>Level 3 on the standard scale.</td></tr>
+<tr><td>[^F8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</td><td>[^F8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</td><td>[^F8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</td><td>[^F8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</td></tr>
+<tr><td><b>SEA FISHERIES (SHELLFISH ACT) 1967 (C. 83)</b> Offences under section 7(4) (using prohibited fishing implements etc. in an area of fishery or oyster bed to which section applies).</td><td>Section 7(4).</td><td>£2 for a first offence, £5 for a second offence and £10 for a third or subsequent offence.</td><td>Level 3 on the standard scale.</td></tr>
+<tr><td><b>ABORTION ACT 1967 (C. 87)</b> Offences under section 2(3) (contravening or failing to comply with regulations as to notification).</td><td>Section 2(3).</td><td>£100</td><td>Level 5 on the standard scale.</td></tr>
+<tr><td><b>AGRICULTURE (MISCELLANEOUS PROVISIONS) ACT 1968 (C. 34)</b> Offences under the following provisions— section 1(1) (prevention of unnecessary pain and distress to livestock); section 2(2) (breach of regulations with respect to welfare of livestock).</td><td>Section 7(1).</td><td>£100 for a first offence and £200 for a second or subsequent offence.</td><td>Level 4 on the standard scale.</td></tr>
+<tr><td>[^F9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</td><td>[^F9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</td><td>[^F9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</td><td>[^F9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</td></tr>
+<tr><td>[^F9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</td><td>[^F9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</td><td>[^F9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</td><td>[^F9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</td></tr>
+<tr><td>[^F9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</td><td>[^F9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</td><td>[^F9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</td><td>[^F9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</td></tr>
+<tr><td>[^F9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</td><td>[^F9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</td><td>[^F9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</td><td>[^F9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</td></tr>
+<tr><td>[^F9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</td><td>[^F9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</td><td>[^F9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</td><td>[^F9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</td></tr>
+<tr><td><b>GAMING ACT 1968 (C. 65)</b> Offences under section 8(5) (gaming in a street or public place).</td><td>Section 8(5).</td><td>£50</td><td>Level 4 on the standard scale.</td></tr>
+<tr><td><b>EMPLOYERS’ LIABILITY (COMPULSORY INSURANCE) ACT 1969 (C. 57)</b> Offences under section 4(3) (offences in relation to certificates of insurance).</td><td>Section 4(3).</td><td>£50</td><td>Level 3 on the standard scale.</td></tr>
+<tr><td>Offences under section 5 (employer failing to insure employee).</td><td>Section 5.</td><td>£200</td><td>Level 4 on the standard scale.</td></tr>
+<tr><td><b>CONSERVATION OF SEALS ACT 1970 (C. 30)</b> Any offence under the Act, except an offence under section 11(7).</td><td>Section 5(2).</td><td>£50 for a first offence and £100 for a second or subsequent offence.</td><td>Level 4 on the standard scale.</td></tr>
+<tr><td><b>MISUSE OF DRUGS ACT 1971 (C. 38)</b> Offences under section 17(3) (failure to comply with notice requiring information relating to prescribing supply etc. of drugs).</td><td>Schedule 4.</td><td>£100</td><td>Level 3 on the standard scale.</td></tr>
+<tr><td><b>POISONS ACT 1972 (C. 66)</b> Any offence under section 8(1) (contravention of provisions of sections 1 to 7, other than section 6(4), or of the Poisons rules).</td><td>Section 8(1).</td><td>£50</td><td>Level 4 on the standard scale.</td></tr>
+<tr><td>Offences under section 6(4) (using title etc. falsely to suggest entitlement to sell poison).</td><td>Section 6(4).</td><td>£20</td><td>Level 2 on the standard scale.</td></tr>
+<tr><td>Offences under section 9(8) (obstructing an inspector etc.).</td><td>Section 9(8).</td><td>£5</td><td>Level 2 on the standard scale.</td></tr>
+<tr><td colspan="4"><b>HEALTH AND SAFETY AT WORK ETC. ACT 1974 (C. 37)</b></td></tr>
+<tr><td colspan="4">Offences under the following provisions—</td></tr>
+<tr><td>section 33(1)(d) (contravening requirement imposed by or under section 14 or obstructing any person in exercise of his powers under section 14); section 33(1)(e) (contravening requirement imposed by inspector) where the requirement contravened was imposed under section 20; section 33(1)(f) (preventing etc, any other person from appearing before inspector); section 3(1)(h) (intentionally obstructing an inspector); section 33(1)(n) (falsely pretending to be an inspector).</td><td>Section 33(2).</td><td>£400</td><td>Level 5 on the standard scale.</td></tr>
+<tr><td><b>SALMON AND FRESHWATER FISHERIES ACT 1975 (C. 51)</b> Offences against any provision of the Act not specified in the table in Part I of Schedule 4.</td><td>Paragraph 1(2) of Schedule 4.</td><td>£50 for a first offence and £100 for a second or subsequent offence.</td><td>Level 4 on the standard scale.</td></tr>
+<tr><td>Offences under section 1 (fishing with certain instruments for salmon, trout or freshwater fish and possessing certain instruments for fishing for such fish) if not acting with another.</td><td>The Table in Part I of Schedule 4.</td><td>£50 for a first offence and £100 for a second or subsequent offence.</td><td>Level 4 on the standard scale.</td></tr>
+<tr><td>Offences under section 19(2) (fishing for salmon during the annual close season or weekly close time).</td><td>The said Table.</td><td>£100 for a first offence and £200 for a second or subsequent offence.</td><td>Level 4 on the standard scale.</td></tr>
+<tr><td>Offences under section 19(4) (fishing for trout during the annual close season or weekly close time).</td><td>The said Table.</td><td>£100 for a first offence and £200 for a second or subsequent offence.</td><td>Level 4 on the standard scale.</td></tr>
+<tr><td>Offences under section 19(6) (fishing for freshwater fish during the annual close season for freshwater fish and fishing for eels by means of a rod and line during that season).</td><td>The said Table.</td><td>£100 for a first offence and £200 for a second or subsequent offence.</td><td>Level 4 on the standard scale.</td></tr>
+<tr><td>Offences under section 19(7) (fishing for rainbow trout during the annual close season for rainbow trout and fishing for eels by means of a rod and line during that season).</td><td>The said Table.</td><td>£100 for a first offence and £200 for a second or subsequent offence.</td><td>Level 4 on the standard scale.</td></tr>
+<tr><td>Offences under section 21 (prohibition on use of certain devices at certain times).</td><td>The said Table.</td><td>£100 for a first offence and £200 for a second or subsequent offence.</td><td>Level 4 on the standard scale.</td></tr>
+<tr><td>Offences under section 27 (fishing for fish otherwise than under the authority of a licence and possessing an unlicensed instrument with intent to use it for fishing) if not acting with another).</td><td>The said Table.</td><td>£50 for a first offence and £100 for a second or subsequent offence.</td><td>Level 4 on the standard scale.</td></tr>
+</tbody>
+</table>
+
+### Part III — Fines to be altered other than in accordance with paragraphs 4 and 5 of Schedule 1
+
+|  |  |  |
+|---|---|---|
+| (1) | (2) | (3) |
+| Enactment | Amendment | New penalty |
+| **MILITARY LANDS ACT 1892 (C. 43)** Section 17(2) (offences against byelaws). | For “five pounds” substitute “ level 2 on the standard scale ”. | Level 2 on the standard scale. |
+| **PROTECTION OF ANIMALS (SCOTLAND) ACT 1912 (C. 14)** Section 7 (selling poisoned grain or placing on any land matter rendered poisonous). | For “ten pounds” substitute “ level 4 on the standard scale ”. | Level 4 on the standard scale. |
+| **LAND DRAINAGE (SCOTLAND) ACT 1930 (C. 20)** Section 4 (obstruction of person exercising power of entry). | For “twenty pounds” substitute “ level 3 on the standard scale ”. | Level 3 on the standard scale. |
+| **LAND DRAINAGE (SCOTLAND) ACT 1941 (C. 13)** Section 2(2) (obstruction of person exercising power of entry). | For “twenty pounds” substitute “ level 3 on the standard scale ”. | Level 3 on the standard scale. |
+| **PUBLIC HEALTH (SCOTLAND) ACT 1945 (C. 15)** Section 1(5) (contravention of regulations as to treatment and spread of certain diseases). | For “one hundred pounds” substitute “ level 5 on the standard scale ”. | Level 5 on the standard scale and £50 per day during which the offence continues. |
+| [^F10] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | [^F10] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | [^F10] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |
+| [^F10] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | [^F10] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | [^F10] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |
+| **RADIOACTIVE SUBSTANCES ACT 1948 (C. 37)** Section 8(1) (obstruction of person exercising power of entry). | For the words from “twenty pounds” to the end substitute “ level 4 on the standard scale ”. | Level 4 on the standard scale. |
+| Section 8(3) (other summary offences under Act). | For the words from “one hundred pounds” where first occurring to “one hundred pounds” where secondly occurring substitute “ level 4 on the standard scale ”. | Level 4 on the standard scale or 3 months or both. |
+| **RIVERS (PREVENTION OF POLLUTION) (SCOTLAND) ACT 1951 (C. 66)** Section 21 (obstruction of person exercising power of entry). | For the words from “five pounds” to the end substitute “ level 3 on the standard scale ”. | Level 3 on the standard scale. |
+| **LAND DRAINAGE (SCOTLAND) ACT 1958 (C. 24)** Section 11(4) (obstruction of person exercising power of entry). | For the words from “five pounds” to the end substitute “ level 3 on the standard scale ”. | Level 3 on the standard scale. |
+| **BETTING, GAMING AND LOTTERIES ACT 1963 (C. 2)** Section 28(10) (disclosing information about bookmaker’s business). | For “one hundred pounds” substitute “ level 4 on the standard scale ”. | Level 4 on the standard scale. |
+| **PLANT VARIETIES AND SEEDS ACT 1964 (C. 14)** Section 25(9) (obstructing an authorised person). | For “twenty pounds” substitute “ level 3 on the standard scale ”. | Level 3 on the standard scale. |
+| Section 27(1) (tampering with samples). | For “one hundred pounds” substitute “ level 5 on the standard scale ”. | Level 5 on the standard scale or 3 months or both. |
+| **AGRICULTURE AND HORTICULTURE ACT 1964 (C. 28)** Section 20(1) (obstruction, etc. of authorised officer). | For “twenty pounds” substitute “ level 3 on the standard scale ”. | Level 3 on the standard scale. |
+| Section 20(2) (offences under Part III). | For the words from “one hundred pounds” to “two hundred and fifty pounds” substitute “ level 5 on the standard scale ”. | Level 5 on the standard scale or 3 months or both. |
+| **INDUSTRIAL AND PROVIDENT SOCIETIES ACT 1965 (C. 12)** Section 61 (general offences). | For “five pounds” substitute “ level 3 on the standard scale ”. | Level 3 on the standard scale. |
+| **RIVERS (PREVENTION OF POLLUTION) (SCOTLAND) ACT 1965 (C. 13)** Section 11(2) (unauthorised disclosure of information). | For the words from “one hundred pounds” to the end substitute “ level 5 on the standard scale ”. | Level 5 on the standard scale. |
+| [^F11] . . . | [^F11] . . . | [^F11] . . . |
+| [^F11] . . . | [^F11] . . . | [^F11] . . . |
+| [^F11] . . . | [^F11] . . . | [^F11] . . . |
+| [^F12] . . . | [^F12] . . . | [^F12] . . . |
+| [^F12] . . . | [^F12] . . . | [^F12] . . . |
+| **AGRICULTURE (MISCELLANEOUS PROVISIONS) ACT 1968 (C. 34)** Section 7(2) (obstructing officer authorised to carry out welfare inspections). | For “twenty pounds” substitute “ level 3 on the standard scale ”. | Level 3 on the standard scale. |
+| **SALE OF VENISON (SCOTLAND) ACT 1968 (C. 38)** Section 1(4) (contravention of provisions regarding registration of venison dealers). | For “£20” substitute “ level 3 on the standard scale ”. | Level 3 on the standard scale. |
+| Section 2(4) (failure to keep records, etc.) | For “£20” substitute “ level 2 on the standard scale ”. | Level 2 on the standard scale. |
+| **SEWERAGE (SCOTLAND) ACT 1968 (C. 47)** Section 44 (failure to provide information, etc.). | For “£20” substitute “ level 3 on the standard scale ”. | Level 3 on the standard scale. |
+| Section 48(9) (obstruction of person having right of entry). | For “£20” substitute “ level 3 on the standard scale ”. | Level 3 on the standard scale and £5 per day which the offence continues. |
+| Section 50(3) (unauthorised disclosure of information)>. | For the words from “£100” to the end substitute “ level 5 on the standard scale ”. | Level 5 on the standard scale. |
+| **TRANSPORT ACT 1968 (C. 73)** Section 97A(1) (tachograph offences). | For “£200” substitute “ level 4 on the standard scale ”. | Level 4 on the standard scale. |
+| Section 97A(2) (failure by employer to secure compliance with section 97A(1)(a)). | For “£200” substitute “ level 4 on the standard scale ”. | Level 4 on the standard scale. |
+| **ROAD TRAFFIC (FOREIGN VEHICLES) ACT 1972 (C. 27)** Section 3(1) (disobeying prohibition on a goods vehicle). | For “£200” substitute “ level 5 on the standard scale ”. | Level 5 on the standard scale. |
+| **EDUCATION (SCOTLAND) ACT 1980 (C. 44)** Section 43(1) (contravention of section 35, 41 or 42). | For the words from “in the case” where first occurring to “£50” where thirdly occurring substitute “ to a fine not exceeding level 3 on the standard scale ”. | Level 3 on the standard scale or 1 month or both. |
+| Section 66(3) (obstruction of inspectors). | For the words from “£20” to “£50” substitute “ level 4 on the standard scale ”. | Level 4 on the standard scale or 3 months or both. |
+| Section 98(2) (failure to register independent school, etc.). | For the words “£20” to “£50” substitute “ level 4 on the standard scale ”. | Level 4 on the standard scale or 3 months or both. |
+| Section 101(2) (using disqualified premises). | For the words from “£20” to “£50” substitute “ level 4 on the standard scale’ ”. | Level 4 on the standard scale or 3 months or both. |
+| Section 101(3) (disqualified person acting as proprietor of independent school, etc.). | For the words from “£20” to “£50” substitute “ level 4 on the standard scale ”. | Level 4 on the standard scale or 3 months or both. |
+| **WATER (SCOTLAND) ACT 1980 (C. 45)** Section 38(7) (obstruction of person exercising power of entry). | For “£25” substitute “ level 3 on the standard scale ”. | Level 3 on the standard scale. |
+| Section 64(2) (failure to provide information, etc.). | For “£25” substitute “ level 3 on the standard scale ”. | Level 3 on the standard scale. |
+| Section 72(3) (penalty which may be provided for contravention of byelaws). | For “the sum of £400” substitute “ level 4 on the standard scale ”. | Level 4 on the standard scale and £50 per day during which the offence continues. |
+| Section 93(7) (failure to provide information, etc.). | For “£200” substitute “ level 4 on the standard scale ”. | Level 4 on the standard scale and £20 per day during which the offence continues. |
+| Paragraph 10(3) of Schedule 4 (offences relating to construction of reservoirs). | For the words from “£50” where first occurring to “continued” substitute “ level 3 on the standard scale ”. | Level 3 on the standard scale. |
+| Paragraph 28 of Schedule 4 (obstruction of person exercising power of entry). | For the words “£25” substitute “ level 3 on the standard scale ”. | Level 3 on the standard scale. |
+
+## SCHEDULE 3 — Transitional Provisions, Transitory Modifications and Savings
+
+*Section 3*
+
+### Part I — General and Miscellaneous
+
+#### General saving for old savings
+
+**1** The repeal by this Act of an enactment previously repealed subject to savings (whether or not in the repealing enactment) does not affect the continued operation of those savings.
+
+#### Documents referring to repealed enactments
+
+**2** Any document made served or issued after this Act comes into force which contains a reference to any of the repealed enactments shall be construed, except so far as the contrary intention appears, as referring or, as the context may require, including a reference to the corresponding provision of the consolidating Acts.
+
+#### Provisions relating to the coming into force of other provisions
+
+**3** (1) The repeal by this Act of a provision providing for or relating to the coming into force of a provision reproduced in the consolidating Acts does not affect the operation of the first provision, in so far as it remains capable of having effect, in relation to the enactment reproducing the second provision.
+
+(2) The repeal by this Act of a power to make provision or savings in preparation for or in connection with the coming into force of a provision reproduced in the consolidating Acts does not affect the power, in so far as it remains capable of having effect, in relation to the enactment reproducing the second provision.
+
+### Part II — Specific Provisions
+
+#### Local government reform
+
+**4** (1) At any time before 1 April 1996 or the coming into force of section 1 of the [^M24]Local Government etc (Scotland) Act 1994, whichever is the later, in section 206 of the Principal Act, for subsection (6) there shall be substituted the following subsection—
+
+> (6) In this section the expression “police authority” means a regional or islands council, except that where there is an amalgamation scheme under the [^M25]Police (Scotland) Act 1967 in force it means a joint police committee.
+
+(2) [^F13]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### The Principal Reporter
+
+**5** Until the coming into force of section 127 of the Local Government etc. (Scotland) Act 1994, for any reference in any provision of the Principal Act to the Principal Reporter there shall be substituted a reference to the reporter of the local authority in whose area any child referred to in that provision resides.
+
+#### Penalties
+
+**6** (1) The repeal by this Act of any enactment—
+
+(a) by virtue of which the penalty which may be imposed in respect of any offence is altered; but
+
+(b) which provides that the penalty in respect of such an offence committed before a particular date shall not be so altered,
+
+shall not affect the penalty which may be imposed in respect of an offence mentioned in paragraph (b) above.
+
+(2) The periods of imprisonment set forth in subsection (2) of section 219 of the Principal Act shall apply to the non-payment of any sum imposed under that section by a court under a statute or order passed or made before 1 June 1909, notwithstanding that that statute or order fixes any other period of imprisonment.
+
+#### District court procedure
+
+**7** The repeal by this Act of section 4 of the [^M26]District Courts (Scotland) Act 1975 shall not affect the rules of procedure and practice in the district court.
+
+#### Detention of children in summary proceedings
+
+**8** Notwithstanding the repeal by Schedule 2 of the [^M27]Criminal Justice (Scotland) Act 1987 of section 58A of the [^M28]Children and Young Persons (Scotland) Act 1937, any child who, before 1 April 1988 (the date of commencement of section 59 of the said Act of 1987), had been ordered to be detained pursuant to the directions of the Secretary of State under section 413 of the [^M29]Criminal Procedure (Scotland) Act 1975—
+
+(a) shall, while so detained after such date, continue to be deemed to be in legal custody; and
+
+(b) may at any time be released conditionally or unconditionally by the Secretary of State, and any such child conditionally released shall be liable to recall on the directions of the Secretary of State and if he fails to comply with any condition of his release he may be apprehended without warrant and taken to the place from which he was released.
+
+#### Effect of probation and absolute discharge
+
+**9** Subsections (1) and (2) of section 246 of the Principal Act shall not affect the operation, in relation to an offender as mentioned in those subsections, of any enactment which was in force as at the commencement of section 9(3)(b) of the [^M30]Criminal Justice (Scotland) Act 1949 and is expressed to extend to persons dealt with under section 1(1) of the [^M31] Probation of Offenders Act 1907 as well as to convicted persons.
+
+#### Restriction on discharge of hospital order
+
+**10** Until the coming into force of section 54 of the [^M32]Criminal Justice (Scotland) Act 1995, in section 59 of the Principal Act for the words “without limit of time” there shall be substituted the words “ either without limit of time or during such period as may be specified in the order ”.
+
+#### Aiding and abetting
+
+**11** Subsection (2) of section 293 of the Principal Act shall not apply in respect of any offence committed before 1 October 1987 (the date of commencement of section 64 of the Criminal Justice (Scotland) Act 1987).
+
+#### Penal servitude and hard labour
+
+**12** (1) Any enactment which confers power on a court to pass a sentence of penal servitude in any case shall be construed, subject to sub-paragraph (3) below, as conferring power to pass a sentence of imprisonment for a term not exceeding the maximum term of penal servitude for which a sentence could have been passed in that case immediately before 12 June 1950.
+
+(2) Any enactment which confers power on a court to pass a sentence of imprisonment with hard labour in any case shall be construed as conferring power to pass a sentence of imprisonment for a term not exceeding the term for which a sentence of imprisonment with hard labour could have been passed in that case immediately before 12 June 1950.
+
+(3) Nothing in sub-paragraph (1) above shall be construed as empowering a court, other than the High Court, to pass a sentence of imprisonment for a term exceeding [[^F14]five years] .
+
+#### Supervised attendance orders
+
+**13** [^F15]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Hearsay evidence
+
+**14** Nothing in the sections 259 to 261 of the Principal Act shall apply to—
+
+(a) proceedings commenced; or
+
+(b) where the proceedings consist of an application to the sheriff by virtue of section 42(2)(c) of the [^M33]Social Work (Scotland) Act 1968 or by virtue of Chapter 3 of Part II of the [^M34]Children (Scotland) Act 1995, an application made,
+
+before sections 17 to 20 of the [^M35]Criminal Justice (Scotland) Act 1995 came into force; and, for the purposes of paragraph (a) above, solemn proceedings are commenced when the indictment is served.
+
+#### Confiscation of proceeds of crime, etc.
+
+**15** (1) Where a person is charged with an offence in relation to which provision is made by Part I of the [^M36]Proceeds of Crime (Scotland) Act 1995, being an offence committed before the coming into force of Chapter I of Part II of the Criminal Justice (Scotland) Act 1995, Part I of the said Proceeds of Crime (Scotland) Act shall not affect the powers of the court in the event of his being convicted of the offence.
+
+(2) Where a person is charged with an offence committed before the coming into force of Part II of the Proceeds of Crime (Scotland) Act 1995, in the event of his being convicted of the offence, the court shall be entitled to exercise the powers conferred by section 223 or section 436 of the [^M37]Criminal Procedure (Scotland) Act 1975, but not the powers conferred by that Part.
+
+(3) Paragraph (b) of section 2(4) of the Proceeds of Crime (Scotland) Act 1995 shall not apply in the case of an offence committed before the coming into force of Chapter I of Part II of the Criminal Justice (Scotland) Act 1995.
+
+[^F16]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) In any case in which a petition in bankruptcy was presented, or a receiving order or adjudication in bankruptcy was made, before 29 December 1986 (the date on which the [^M38]Insolvency Act 1986 came into force), paragraph 2(2) to (5) of Schedule 2 to the Proceeds of Crime (Scotland) Act 1995 shall have effect with the following modifications—
+
+(a) for references to the bankrupt’s estate for the purposes of Part IX of the said Act of 1986 there are substituted references to the property of the bankrupt for the purposes of the [^M39]Bankruptcy Act 1914;
+
+(b) for references to the said Act of 1986 and to sections 280(2)(c), 286, 339, and 423 of that Act there are respectively substituted references to the said Act of 1914 and to sections 26(2), 8, 27 and 42 of that Act;
+
+(c) the references in subsection (4) to an interim receiver appointed as there mentioned include, where a receiving order has been made, a reference to the receiver constituted by virtue of section 7 of the said Act of 1914, and
+
+(d) subsection (2)(b) is omitted.
+
+(6) In any case in which a winding up of a company commenced, or is treated as having commenced, before 29 December 1986, paragraph 3(2) to (6) of the said Schedule 2 shall have effect with the substitution for references to the said Act of 1986 of references to the [^M40]Companies Act 1985.
+
+(7) In any case in which a receiver was appointed as is mentioned in sub-paragraph (1) of paragraph 4 of the said Schedule 2 before 29 December 1986, sub-paragraphs (2) to (4) of that paragraph have effect with the substitution for references to the said Act of 1986 of references to the Companies Act 1985.
+
+#### Criminal Justice (Scotland) Act 1995 (c. 20)
+
+**16** (1) Any enactment repealed by this Act which has been amended by any provision of the Criminal Justice (Scotland) Act 1995 which has not been brought into force at the commencement of this Act shall, notwithstanding such repeal, continue to have effect until such provision is brought into force as if it had not been so repealed or amended.
+
+(2) Any provision of the consolidating Acts which re-enacts any enactment contained in the said Criminal Justice (Scotland) Act which has not been brought into force at the commencement of this Act shall be of no effect until such enactment is brought into force.
+
+(3) The repeal by this Act of any enactment contained in the Criminal Justice (Scotland) Act 1995 which has not been brought into force shall not have effect until such enactment is brought into force.
+
+#### Children (Scotland) Act 1995 (c. 36)
+
+**17** Any enactment repealed by this Act which has been amended by any provision of the Children (Scotland) Act 1995 which has not been brought into force at the commencement of this Act shall, notwithstanding such repeal, continue to have effect until such provision is brought into force as if it had not been so repealed or amended.
+
+#### False oaths
+
+**18** Where an offence mentioned in section 45(5) of the [^M41]Criminal Law (Consolidation) (Scotland) Act 1995 is, by any Act passed before 28 June 1933, as originally enacted, made punishable only on summary conviction, it shall remain only so punishable.
+
+## SCHEDULE 4 — Minor and Consequential Amendments
+
+*Section 5.*
+
+### Jurors (Scotland) Act 1825 (c. 22)
+
+**1** In section 3 of the Jurors (Scotland) Act 1825 (sheriff principal to maintain lists of potential jurors)—
+
+(a) the existing provision shall become subsection (1);
+
+(b) in that subsection, for the word “designations” there shall be substituted “ addresses ”; and
+
+(c) after that subsection there shall be inserted the following subsections—
+
+> (2) For the purpose of maintaining lists of potential jurors under subsection (1) above, a sheriff principal may require any person in the sheriff court district in question who appears to him to be qualified and liable to serve as a juror to provide such information, and in such form, as the Secretary of State may by order prescribe.
+>
+> (3) A statutory instrument containing an order prescribed by virtue of subsection (2) above shall be subject to annulment pursuant to a resolution of either House of Parliament.
+>
+> (4) Any person who fails to comply with a requirement under subsection (2) above shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 1 on the standard scale.
+>
+> (5) In proceedings against a person for an offence under subsection (4) above it is a defence to prove that he had reasonable excuse for the failure.
+
+### Bankers’ Books Evidence Act 1879 (c. 11)
+
+**2** In section 6 of the Bankers’ Books Evidence Act 1879 (case in which banker not compellable to produce book), after the word “1988” there shall be inserted the words “ or Schedule 8 to the Criminal Procedure (Scotland) Act 1995 ”.
+
+### The Children and Young Persons (Scotland) Act 1937 (c. 37)
+
+**3** (1) The Children and Young Persons (Scotland) Act 1937, shall be amended as follows.
+
+(2) After section 62 there shall be inserted the following section—
+
+> **Register of children found guilty of offences.**
+>
+> **63** In addition to any other register required by law, a separate register of children found guilty of offences and of children discharged on bond or put on probation shall be kept for every summary court by the chief constable or other person charged with the duty of keeping registers of convictions. The register shall apply to children of such age, and shall include such particulars, as may be directed by the Secretary of State, and it shall be the duty of the keeper of the register, within seven days after any such child has been dealt with by the court, to transmit a copy of the entry relating to the child to the education authority for the area in which the child resides.
+
+(3) Before section 104 there shall be added the following section—
+
+> **Proof of age a defence.**
+>
+> **103** Where a person is charged with an offence under this Act in respect of a person apparently under a specified age, it shall be a defence to prove that the person was actually of or over that age.
+
+### The Trade Marks Act 1938 (c. 22)
+
+**4** In section 58B of the Trade Marks Act 1938 (delivery up of offending goods and material), in subsection (6) for the words “Chapter II of Part II of the Criminal Justice (Scotland) Act 1995” there shall be substituted the words “ Part II of the Proceeds of Crime (Scotland) Act 1995. ”
+
+### The Backing of Warrants (Republic of Ireland) Act 1965 (c. 45)
+
+**5** In section 8(1)(b) of the Backing of Warrants (Republic of Ireland) Act 1965 (rules of court), for the words “section 457ZA of the Criminal Procedure (Scotland) Act 1975” there shall be substituted the words “ section 306 of the Criminal Procedure (Scotland) Act 1995 ”.
+
+### Social Work (Scotland) Act 1968 (c. 49)
+
+**6** (1) The Social Work (Scotland) Act 1968 shall be amended as follows.
+
+(2) In subsection (1B) of section 5 (powers of Secretary of State), for paragraph (f) there shall be substituted the following paragraph—
+
+> (f) section 51 of the Criminal Procedure (Scotland) Act 1995;
+
+.
+
+(3) In subsection (1) of section 6A (power to hold inquiries) for sub-paragraph (ii) of paragraph (d) there shall be substituted—
+
+> (ii) section 44 or 208 of the Criminal Procedure (Scotland) Act 1995;
+
+.
+
+(4) In subsection (1) of section 27 (supervision and care of certain persons)—
+
+[^F17]a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) in paragraph (b)(iii) for the words “the Community Service by Offenders (Scotland) Act 1978” there shall be substituted the words “ section 238 of the Criminal Procedure (Scotland) Act 1995 ”;
+
+(c) in paragraph (b)(iv) for the words “section 62 of the Law Reform (Miscellaneous Provisions) (Scotland) Act 1990” there shall be substituted the words “ section 235 of the said Act of 1995 ”; and
+
+[^F17]d . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Sea Fisheries Act 1968 (c. 77)
+
+**7** In section 13(2) of the Sea Fisheries Act 1968 (power to award compensation), for “£400” there shall be substituted the words “ level 5 on the standard scale ”.
+
+### [^F18]...
+
+**[^F18]8** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Fair Trading Act 1973 (c. 41)
+
+**9** In subsection (3) of section 129 of the Fair Trading Act 1973 (time-limit for prosecutions)—
+
+(a) for the words “section 331 of the Criminal Procedure (Scotland) Act 1975” there shall be substituted the words “ section 136 of the Criminal Procedure (Scotland) Act 1995 ”; and
+
+(b) for the words “subsection (3) of the said section 331” there shall be substituted the words “ subsection (3) of the said section 136 ”.
+
+### Fatal Accidents and Sudden Deaths Inquiry (Scotland) Act 1976 (c. 14)
+
+**[^F19]10** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Freshwater and Salmon Fisheries (Scotland) Act 1976 (c. 22)
+
+**11** [^F20]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Restrictive Trade Practices Act 1976 (c. 34)
+
+**12** (1) The Restrictive Trade Practices Act 1976 shall be amended as follows.
+
+(2) In subsection (3) of section 39 (time limit for prosecution) the words “section 331 of the Criminal Procedure (Scotland) Act 1975” there shall be substituted the words “ section 136 of the Criminal Procedure (Scotland) Act 1995 ”.
+
+(3) In subsection (6) of section 41 (time limit for prosecution of offences relating to disclosure of documents)—
+
+(a) for the words “section 331 of the Criminal Procedure (Scotland) Act 1975” there shall be substituted the words “ section 136 of the Criminal Procedure (Scotland) Act 1995 ”; and
+
+(b) for the words “subsection (3) of the said section 331” there shall be substituted the words “ subsection (3) of the said section 136 ”.
+
+### International Carriage of Perishable Foodstuffs Act 1976 (c. 58)
+
+**13** In subsection (2) of section 12 of the International Carriage of Perishable Foodstuffs Act 1976 for the words “section 331 of the Criminal Procedure (Scotland) Act 1975” there shall be substituted the words “ section 136 of the Criminal Procedure (Scotland) Act 1995 ”.
+
+### Marriage (Scotland) Act 1977 (c. 15)
+
+**14** In subsection (3) of section 24 of the Marriage (Scotland) Act 1977 for the words “section 331 of the Criminal Procedure (Scotland) Act 1975 (date of commencement of summary proceedings)” there shall be substituted the words “ section 136 of the Criminal Procedure (Scotland) Act 1995 (time limit for certain offences) ”.
+
+### Refuse Disposal (Amenity) Act 1978 (c. 3)
+
+**15** In subsection (3) of section 2 of the Refuse Disposal (Amenity) Act 1978 for the words “section 462(1) of the Criminal Procedure (Scotland) Act 1975” there shall be substituted the words “ section 307(1) of the Criminal Procedure (Scotland) Act 1995 ”.
+
+### Adoption (Scotland) Act 1978 (c. 28)
+
+**[^F21]16** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Interpretation Act 1978 (c. 30)
+
+**17** In Schedule 1 to the Interpretation Act 1978—
+
+(a) in paragraph (b) of the definition of “the standard scale” for the words “section 289G of the Criminal Procedure (Scotland) Act 1975” there shall be substituted the words “ section 225(1) of the Criminal Procedure (Scotland) Act 1995 ”; and
+
+(b) in paragraph (b) of the definition of “statutory maximum” for the words “section 289B(6) of the Criminal Procedure (Scotland) Act 1975” there shall be substituted the words “ section 225(8) of the Criminal Procedure (Scotland) Act 1995 ”.
+
+### Customs and Excise Management Act 1979 (c. 2)
+
+**18** (1) The Customs and Excise Management Act 1979 shall be amended as follows.
+
+[^F22]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) In subsection (3) of section 118C (search warrant) for the words “section 462 of the Criminal Procedure (Scotland) Act 1975” there shall be substituted the words “ section 307 of the Criminal Procedure (Scotland) Act 1995 ”.
+
+(4) In subsection (1) of section 118D (order for access to certain information) for the words “section 462 of the Criminal Procedure (Scotland) Act 1975” there shall be substituted the words “ section 307 of the Criminal Procedure (Scotland) Act 1995 ”.
+
+(5) In subsection (2) of section 171, in paragraph (b) for the words from “section 289B” to the end of the paragraph there shall be substituted the words “ subsection (8) of section 225 of the Criminal Procedure (Scotland) Act 1995 (£5,000 or other sum substituted by order under subsection (4) of that section) ”.
+
+### Customs and Excise Duties (General Reliefs) Act 1979 (c. 3)
+
+**19** In subsection (3) of section 15 of the Customs and Excise Duties (General Reliefs) Act 1979, in paragraph (b) for the words from “section 289B” to the end of the paragraph there shall be substituted the words “ subsection (8) of section 225 of the Criminal Procedure (Scotland) Act 1995 (£5,000 or other sum substituted by order under subsection (4) of that section) ”.
+
+### Alcoholic Liquor Duties Act 1979 (c. 4)
+
+**20** In subsection (1) of section 4 of the Alcoholic Liquor Duties Act 1979, in the definition of “the prescribed sum”, in paragraph (b) for the words from “section 289B” to the end of the paragraph there shall be substituted the words “ subsection (8) of section 225 of the Criminal Procedure (Scotland) Act 1995 (£5,000 or other sum substituted by order under subsection (4) of that section) ”.
+
+### Hydrocarbon Oil Duties Act 1979 (c. 5)
+
+**21** In subsection (1) of section 27 of the Hydrocarbon Oil Duties Act 1979, in the definition of “the prescribed sum”, in paragraph (b) for the words from “section 289B” to the end of the paragraph there shall be substituted the words “ subsection (8) of section 225 of the Criminal Procedure (Scotland) Act 1995 (£5,000 or other sum substituted by order under subsection (4) of that section) ”.
+
+### Credit Unions Act 1979 (c. 34)
+
+**22** In subsection (1) of section 31 of the Credit Unions Act 1979, in the definition of “statutory maximum”, in paragraph (b) for the words from “section 289B” to the end of the paragraph there shall be substituted the words “ subsection (8) of section 225 of the Criminal Procedure (Scotland) Act 1995 ”.
+
+### Estate Agents Act 1979 (c. 38)
+
+**23** In subsection (1) of section 33 of the Estate Agents Act 1979, in the definition of “the statutory maximum”, in paragraph (b) for the words “section 289B of the Criminal Procedure (Scotland) Act 1975” there shall be substituted the words “ subsection (8) of section 225 of the Criminal Procedure (Scotland) Act 1995 ”.
+
+### Ancient Monuments and Archaeological Areas Act 1979 (c. 46)
+
+**24** (1) The Ancient Monuments and Archaeological Areas Act 1979 shall be amended as follows.
+
+(2) In section 59, for the words “section 331 of the Criminal Procedure (Scotland) Act 1975” there shall be substituted the words “ section 136 of the Criminal Procedure (Scotland) Act 1995 ”.
+
+(3) In subsection (1) of section 61, in the definition of “the statutory maximum” in sub-paragraph (i) of paragraph (b) for the words from “section 289B” to the end of the sub-paragraph there shall be substituted the words “ subsection (8) of section 225 of the Criminal Procedure (Scotland) Act 1995 (that is to say £5,000 or another sum fixed by order under subsection (4) of that section for that purpose) ”.
+
+### Isle of Man Act 1979 (c. 58)
+
+**25** In subsection (4) of section 5 of the Isle of Man Act 1979, for the words “section 462(1) of the Criminal Procedure (Scotland) Act 1975” there shall be substituted the words “ section 307(1) of the Criminal Procedure (Scotland) Act 1995 ”.
+
+### Reserve Forces Act 1980 (c. 9)
+
+**26** In subsection (2) of section 144 of the Reserve Forces Act 1980, in paragraph (b) for the words “section 289B of the Criminal Procedure (Scotland) Act 1975” there shall be substituted the words “ section 225(8) of the Criminal Procedure (Scotland) Act 1995 ”.
+
+### Protection of Trading Interests Act 1980 (c. 11)
+
+**27** In subsection (5) of section 3 of the Protection of Trading Interests Act 1980, in paragraph (b) for the words “section 289B of the Criminal Procedure (Scotland) Act 1975” there shall be substituted the words “ section 225(8) of the Criminal Procedure (Scotland) Act 1995 ”.
+
+### Competition Act 1980 (c. 21)
+
+**28** In subsection (7) of section 19 of the Competition Act 1980, in paragraph (b) for the words “section 289B of the Criminal Procedure (Scotland) Act 1975” there shall be substituted the words “ section 225(8) of the Criminal Procedure (Scotland) Act 1995 ”.
+
+### Licensed Premises (Exclusion of Certain Persons) Act 1980 (c. 32)
+
+**29** [^F23]In subsection (2) of section 1 of the Licensed Premises (Exclusion of Certain Persons) Act 1980, in paragraph (c) for the words from “sections” to “1975” there shall be substituted the words [^F23]“ sections 228, 246(2) and (3) and 247 of the Criminal Procedure (Scotland) Act 1995 ”[^F23].
+
+### Water (Scotland) Act 1980 (c. 45)
+
+**30** [^F24]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Solicitors (Scotland) Act 1980 (c. 46)
+
+**31** In subsection (1) of section 25A of the Solicitors (Scotland) Act 1980 (rights of audience) for the words from “section 250” to “1975” there shall be substituted the words “ section 103(8) of the Criminal Procedure (Scotland) Act 1995 (right of solicitor to appear before single judge) ”.
+
+### Law Reform (Miscellaneous Provisions) (Scotland) Act 1980 (c. 55)
+
+**32** (1) The Law Reform (Miscellaneous Provisions) (Scotland) Act 1980 shall be amended as follows.
+
+(2) After subsection (5) of section 1 (persons excused from jury service for good reason) there shall be inserted the following subsection—
+
+> (5A) Where the clerk of court has, under subsection (5) above, excused a person from jury service in any criminal proceedings he shall, unless he considers there to be exceptional circumstances which make it inappropriate to do so, within one year of the date of that excusal cite that person to attend for jury service in criminal proceedings.
+
+(3) In subsection (6) of that section, for paragraph (c) there shall be substituted the following—
+
+> (c) section 85(8) or 88(7) of the Criminal Procedure (Scotland) Act 1995,
+
+.
+
+(4) In Schedule 1 (ineligibility for and disqualification and excusal from jury service)—
+
+(a) in Part I (persons ineligible), in paragraph (p) of Group B for the words “section 462(1) of the Criminal Procedure (Scotland) Act 1975” there shall be substituted the words “ section 307(1) of the Criminal Procedure (Scotland) Act 1995 ”;
+
+(b) in Part II (persons disqualified from jury service), at the end of paragraph (b) there shall be inserted—
+
+> (c) in respect of jury service in any criminal proceedings, persons who are on bail in or in connection with criminal proceedings in any part of the United Kingdom.
+
+; and
+
+(c) in Part III (persons excusable as of right), at the end of Group D there shall be inserted—
+
+> **Group DD**
+>
+> **Members of certain religious bodies**
+>
+> In respect of jury service in any criminal proceedings, practising members of religious societies or orders the tenets or beliefs of which are incompatible with jury service.
+
+### Criminal Justice (Scotland) Act 1980 (c. 62)
+
+**33** In subsection (10) of section 80 of the Criminal Justice (Scotland) Act 1980, for the words “section 289B of the 1975 Act” there shall be substituted the words “ section 225(8) of the Criminal Procedure (Scotland) Act 1995 ”.
+
+### Local Government, Planning and Land Act 1980 (c. 65)
+
+**34** In subsection (14) of section 167 of the Local Government, Planning and Land Act 1980, in paragraph (b) of the definition of “the statutory maximum” for the words “section 289B of the Criminal Procedure (Scotland) Act 1975” there shall be substituted the words “ section 225(8) of the Criminal Procedure (Scotland) Act 1995 ”.
+
+### Animal Health Act 1981 (c. 22)
+
+**35** In subsection (2) of section 92 of the Animal Health Act 1981, for the words “section 284 of the Criminal Procedure (Scotland) Act 1975” there shall be substituted the words “ section 7(6) of the Criminal Procedure (Scotland) Act 1995 ”.
+
+### Contempt of Court Act 1981 (c. 49)
+
+**36** (1) Section 15 of the Contempt of Court Act 1981 (penalties for contempt in Scottish proceedings) shall be amended as follows.
+
+(2) In subsection (2)—
+
+(a) in paragraph (a) for “£500” there shall be substituted the words “ level 4 on the standard scale ”; and
+
+(b) in paragraph (b) for “£200” there shall be substituted the words “ level 4 on the standard scale ”.
+
+(3) For subsections (3) and (4) there shall be substituted the following—
+
+> (3) The following provisions of the Criminal Procedure (Scotland) Act 1995 shall apply in relation to persons found guilty of contempt of court in Scottish proceedings as they apply in relation to persons convicted of offences—
+>
+> (a) in every case, section 207 (restrictions on detention of young offenders);
+>
+> (b) in any case to which paragraph (b) of subsection (2) above does not apply, sections 58, 59 and 61 (persons suffering from mental disorder);
+>
+> and in any case to which the said paragraph (b) does apply, subsection (5) below shall have effect.
+
+(4) In subsection (5)—
+
+(a) for the words “section 286 of the Criminal Procedure (Scotland) Act 1975” there shall be substituted the words “ section 7(9) and (10) of the Criminal Procedure (Scotland) Act 1995 ”; and
+
+(b) for the words “section 376(1)” there shall be substituted the words “ section 58(1) ”.
+
+### The Matrimonial Homes (Family Protection) (Scotland) Act 1981 (c. 59)
+
+**37** In section 17 of the Matrimonial Homes (Family Protection) (Scotland) Act 1981 (procedure after arrest)—
+
+(a) in subsection (2) for the words “section 10 of the Bail (Scotland) Act 1980” there shall be substituted the words “ section 8 of the Criminal Procedure (Scotland) Act 1995 ”; and
+
+(b) in subsection (3) for the words from the beginning to “1980” there shall be substituted the words “ Subsections (1) to (3) of section 15 of the said Act of 1995 ”.
+
+### Betting and Gaming Duties Act 1981 (c. 63)
+
+**38** In subsection (1) of section 33 of the Betting and Gaming Duties Act 1981 in the definition of “the prescribed sum”, in paragraph (b) for the words from “section 289B” to the end of the paragraph there shall be substituted the words “ subsection (8) of section 225 of the Criminal Procedure (Scotland) Act 1995 (£5,000 or other sum substituted by order under subsection (4) of that section) ”.
+
+### Civil Aviation Act 1982 (c. 16)
+
+**39** In subsection (1) of section 105 of the Civil Aviation Act 1982, in the definition of “the statutory maximum” for paragraph (b) there shall be substituted the following—
+
+> (b) in Scotland, the prescribed sum within the meaning of subsection (8) of section 225 of the Criminal Procedure (Scotland) Act 1995 (that is to say £5,000 or another sum fixed by order under subsection (4) of that section);
+
+.
+
+### Oil and Gas Enterprise Act 1982 (c. 23)
+
+**[^F25]40** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Iron and Steel Act 1982 (c. 25)
+
+**41** In subsection (1) of section 37 of the Iron and Steel Act 1982, in the definition of “the statutory maximum” for paragraph (b) there shall be substituted the following—
+
+> (b) in Scotland, the prescribed sum within the meaning of subsection (8) of section 225 of the Criminal Procedure (Scotland) Act 1995 (that is to say £5,000 or another sum fixed by order under subsection (4) of that section);
+
+.
+
+### Civil Jurisdiction and Judgments Act 1982 (c. 27)
+
+**42** In subsection (4A) of section 18 of the Civil Jurisdiction and Judgments Act 1982 (enforcement of U.K. judgments in other parts of U.K.) for the words from “Part I of the Criminal Justice (Scotland) Act 1987” to the end there shall be substituted the words “ the Proceeds of Crime (Scotland) Act 1995 ”.
+
+### Aviation Security Act 1982 (c. 36)
+
+**43** In subsection (1) of section 38 of the Aviation Security Act 1982, in the definition of “the statutory maximum” for paragraph (b) there shall be substituted the following—
+
+> (b) in Scotland, the prescribed sum within the meaning of subsection (8) of section 225 of the Criminal Procedure (Scotland) Act 1995 (that is to say £5,000 or another sum fixed by order under subsection (4) of that section);
+
+.
+
+### Civic Government (Scotland) Act 1982 (c. 45)
+
+**44** (1) The Civic Government (Scotland) Act 1982 shall be amended as follows.
+
+[^F26]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) In subsection (3) of section 52, for the words “section 289B of the Criminal Procedure (Scotland) Act 1975” there shall be substituted the words “ section 225(8) of the Criminal Procedure (Scotland) Act 1995 ”.
+
+### Insurance Companies Act 1982 (c. 50)
+
+**45** (1) The Insurance Companies Act 1982 shall be amended as follows.
+
+(2) In subsection (3) of section 14, in paragraph (b)(ii) for the words “section 289B of the Criminal Procedure (Scotland) Act 1975” there shall be substituted the words “ section 225(8) of the Criminal Procedure (Scotland) Act 1995 ”.
+
+(3) In subsection (2) of section 71, in paragraph (b)(ii) for the words “section 289B of the Criminal Procedure (Scotland) Act 1975” there shall be substituted the words “ section 225(8) of the Criminal Procedure (Scotland) Act 1995 ”.
+
+(4) In subsection (1) of section 81, in paragraph (b)(ii) for the words “section 289B of the Criminal Procedure (Scotland) Act 1975” there shall be substituted the words “ section 225(8) of the Criminal Procedure (Scotland) Act 1995 ”.
+
+(5) In subsection (4) of section 92, for the words “section 74 of the Criminal Procedure (Scotland) Act 1975” there shall be substituted the words “ section 70 of the Criminal Procedure (Scotland) Act 1995 ”.
+
+(6) In subsection (4) of section 94 for the words “section 331 of the Criminal Procedure (Scotland) Act 1975” there shall be substituted the words “ section 136 of the Criminal Procedure (Scotland) Act 1995 ”.
+
+(7) In subsection (5) of that section for the words “section 331 of the said Act of 1975” there shall be substituted the words “ section 136 of the said Act of 1995 ”.
+
+### Industrial Development Act 1982 (c. 52)
+
+**46** [^F27]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Car Tax Act 1983 (c. 53)
+
+**47** [^F28]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Telecommunications Act 1984 (c. 12)
+
+**48** [^F29]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Road Traffic Regulation Act 1984 (c. 27)
+
+**49** In subsection (2) of section 110 of the Road Traffic Regulation Act 1984—
+
+(a) for the words “section 331 of the Criminal Procedure (Scotland) Act 1975” there shall be substituted the words “ section 136 of the Criminal Procedure (Scotland) Act 1995 ”; and
+
+(b) for the words “section 331” where they second occur there shall be substituted the words “ section 136 ”.
+
+### Mental Health (Scotland) Act 1984 (c. 36)
+
+**50** [^F30]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Video Recordings Act 1984 (c. 39)
+
+**51** In subsection (1) of section 16C of the Video Recordings Act 1984 (sheriff’s jurisdiction), for the words “section 287 of the Criminal Procedure (Scotland) Act 1975” there shall be substituted the words “ section 9 of the Criminal Procedure (Scotland) Act 1995 ”.
+
+### Repatriation of Prisoners Act 1984 (c. 47)
+
+**52** The Schedule to the Repatriation of Prisoners Act 1984 shall be amended as follows—
+
+(a) in paragraph 4(2) for the words “section 207 or 415 of the Criminal Procedure (Scotland) Act 1975” there shall be substituted the words “ section 207 of the Criminal Procedure (Scotland) Act 1995 ”;
+
+(b) in paragraph 5(3) for “1975” there shall be substituted “ 1995 ”.
+
+### Foster Children (Scotland) Act 1984 (c. 56)
+
+**53** (1) The Foster Children (Scotland) Act 1984 shall be amended as follows.
+
+(2) In section 7, in paragraph (c) of subsection (1) for the words “Criminal Procedure (Scotland) Act 1975” there shall be substituted the words “ Criminal Procedure (Scotland) Act 1995 ”.
+
+[^F31]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Rent (Scotland) Act 1984 (c. 58)
+
+**54** In subsection (1) of section 115 of the Rent (Scotland) Act 1984, in the definition of—
+
+(a) “the standard scale” for the words “section 289G of the Criminal Procedure (Scotland) Act 1975” there shall be substituted the words “ section 225(1) of the Criminal Procedure (Scotland) Act 1995 ”; and
+
+(b) “the statutory maximum” for the words “section 289B(6) of the Criminal Procedure (Scotland) Act 1975” there shall be substituted the words “ section 225(8) of the Criminal Procedure (Scotland) Act 1995 ”.
+
+### Police and Criminal Evidence Act 1984 (c. 60)
+
+**55** In subsection (3) of section 75 of the Police and Criminal Evidence Act 1984—
+
+(a) for the words “section 392 of the Criminal Procedure (Scotland) Act 1975” there shall be substituted the words “ section 247 of the Criminal Procedure (Scotland) Act 1995 ”; and
+
+(b) for the words “section 182 or section 183 of the said Act of 1975” there shall be substituted the words “ section 228 or section 246(3) of the said Act of 1995 ”.
+
+### Companies Act 1985 (c. 6)
+
+**56** (1) The Companies Act 1985 shall be amended as follows.
+
+(2) In section 440, for the words “section 52 of the Criminal Justice (Scotland) Act 1987” there shall be substituted the words “ section 28 of the Criminal Law (Consolidation) (Scotland) Act 1995 ”.
+
+(3) [^F32]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) [^F33]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Surrogacy Arrangements Act 1985 (c. 49)
+
+**57** In subsection (6) of section 4 of the Surrogacy Arrangements Act 1985, for the words “section 331(1) of the Criminal Procedure (Scotland) Act 1975” there shall be substituted the words “ section 136(1) of the Criminal Procedure (Scotland) Act 1995 ”.
+
+### The Bankruptcy (Scotland) Act 1985 (c. 66)
+
+**[^F34]58** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Animals (Scientific Procedures) Act 1986 (c. 14)
+
+**59** In subsection (4) of section 26 of the Animals (Scientific Procedures) Act 1986, for the words “section 331 of the Criminal Procedure (Scotland) Act 1975” there shall be substituted the words “ section 136 of the Criminal Procedure (Scotland) Act 1995 ”.
+
+### Consumer Safety (Amendment) Act 1986 (c. 29)
+
+**60** (1) The Consumer Safety (Amendment) Act 1986 shall be amended as follows.
+
+(2) In subsection (3) of section 7, for “1975” there shall be substituted “ 1995 ”.
+
+(3) In section 10 for the words “section 452(4)(a) to (e) of the Criminal Procedure (Scotland) Act 1975” there shall be substituted the words “ section 182(5)(a) to (e) of the Criminal Procedure (Scotland) Act 1995 ”.
+
+### Insolvency Act 1986 (c. 45)
+
+**61** In subsection (3) of section 431 of the Insolvency Act 1986, for the words “section 331 of the Criminal Procedure (Scotland) Act 1975” there shall be substituted the words “ section 136 of the Criminal Procedure (Scotland) Act 1995 ”.
+
+### Company Directors Disqualification Act 1986 (c. 46)
+
+**62** In subsection (1) of section 8 of the Company Directors Disqualification Act 1986, for the words “section 52 of the Criminal Justice (Scotland) Act 1987” there shall be substituted the words “ section 28 of the Criminal Law (Consolidation) (Scotland) Act 1995 ”.
+
+### Legal Aid (Scotland) Act 1986 (c. 47)
+
+**63** (1) The Legal Aid (Scotland) Act 1986 shall be amended as follows.
+
+(2) In subsection (4) of section 21, for the words “section 462 of the Criminal Procedure (Scotland) Act 1975” there shall be substituted the words “ section 307 of the Criminal Procedure (Scotland) Act 1995 ”.
+
+(3) In subsection (1) of section 22 (circumstances in which criminal legal aid automatically available), after paragraph (d) there shall be inserted the following paragraphs—
+
+> (da) in relation to any proceedings under solemn or summary procedure whereby the court determines (whether or not on a plea by the accused person) whether he is insane so that his trial cannot proceed or continue;
+>
+> (db) in relation to an examination of facts held under section 55 of the Criminal Procedure (Scotland) Act 1995 and the disposal of the case following such examination of facts;
+>
+> (dc) in relation to any appeal under section 62 or 63 (appeal by, respectively, accused or prosecutor in case involving insanity) of that Act of 1995;
+
+(4) In subsection (2) of section 23, for the words from “section 41(2)(b)” to the end there shall be substituted the words “ section 204(4)(b) of the Criminal Procedure (Scotland) Act 1995 ”.
+
+(5) In subsection (1) of section 25 (legal aid in criminal appeals)—
+
+(a) after the word “sentence” there shall be inserted the words “ , other disposal ”; and
+
+(b) at the end there shall be inserted the words “ other than an appeal in relation to which section 22(1)(dc) of this Act applies ”.
+
+(6) In subsection (2) of that section—
+
+(a) in paragraph (a) after the word “below,” there shall be inserted the words “ the Board is satisfied ”; and
+
+(b) for paragraph (b) and the preceding “and” there shall be substituted the following paragraphs—
+
+> (b) in the case of an appeal under section 106(1) or 175(2) of the Criminal Procedure (Scotland) Act 1995, leave to appeal is granted; and
+>
+> (c) in the case of an appeal under any other provision of that Act, where the applicant is the appellant, the Board is satisfied that in all the circumstances of the case it is in the interests of justice that the applicant should receive criminal legal aid.
+
+(7) After the said subsection (2) there shall be inserted the following subsection—
+
+> (2A) Where the Board has refused an application for criminal legal aid on the ground that it is not satisfied as mentioned in subsection (2)(c) above the High Court may, at any time prior to the disposal of an appeal, whether or not on application made to it, notwithstanding such refusal determine that it is in the interests of justice that the applicant should receive criminal legal aid in connection with the appeal, and the Board shall forthwith make such legal aid available to him.
+
+(8) For subsection (5) there shall be substituted the following subsections—
+
+> (5) Subsections (2)(a), (3) and (4) above shall apply to an application for criminal legal aid in connection with consideration under section 107, 180 or 187 of the Criminal Procedure (Scotland) Act 1995 whether to grant leave to appeal as if—
+>
+> (a) in subsection (2)(a), for the words “of the appeal” there were substituted the words “in connection with consideration whether to grant leave to appeal”; and
+>
+> (b) in subsection (4), after the word “is” there were inserted the words “subject to leave being granted,”.
+>
+> (6) Subsections (2)(a) and (c) and (2A) to (4) above shall apply to an application for criminal legal aid in connection with a petition to the*nobile officium* of the High Court of Justiciary (whether arising in the course of any proceedings or otherwise) as they apply for the purposes of subsection (1) above.
+>
+> (7) Subsections (2)(a), (3) and (4) above shall apply to an application for criminal legal aid in connection with a reference by the Secretary of State under section 124 of the Criminal Procedure (Scotland) Act 1995 as they apply for the purposes of subsection (1) above.
+
+(9) In subsection (3) of section 30 (application of section 25 to legal aid in contempt proceedings),—
+
+(a) before the words “Section 25” there shall be inserted the words “ Subsections (2)(a) and (c), (2A) to (4) and (6) of ”;
+
+(b) for the words “it applies” there shall be substituted the words “ they apply ”;
+
+(c) after the word “sentence” there shall be substituted the words “ , other disposal ”;
+
+(d) after the word “application” there shall be inserted the following paragraph—
+
+> (za) in subsection (2a) of that section, the reference to the High Court shall include a reference to the Court of Session;
+
+; and
+
+(e) in paragraph (b) for the word “(5)” there shall be substituted the word “ (6) ”.
+
+(10) In subsection (2) of section 35, for the words “section 331 of the Criminal Procedure (Scotland) Act 1975” there shall be substituted the words “ section 136 of the Criminal Procedure (Scotland) Act 1995 ”.
+
+### Social Security Act 1986 (c. 50)
+
+**64** In subsection (5) of section 56 of the Social Security Act 1986—
+
+(a) for the words “section 331 of the Criminal Procedure (Scotland) Act 1975” there shall be substituted the words “ section 136 of the Criminal Procedure (Scotland) Act 1995 ”; and
+
+(b) for the words “section 331 of the said Act of 1975” there shall be substituted the words “ section 136 of the said Act of 1995 ”.
+
+### Building Societies Act 1986 (c. 53)
+
+**65** In subsection (5) of section 111 of the Building Societies Act 1986, for the words “section 331(3) of the Criminal Procedure (Scotland) Act 1975” there shall be substituted the words “ section 136(3) of the Criminal Procedure (Scotland) Act 1995 ”.
+
+### Financial Services Act 1986 (c. 60)
+
+**66** In subsection (4) of section 203 of the Financial Services Act 1986, for the words “section 74 of the Criminal Procedure (Scotland) Act 1975” there shall be substituted the words “ section 70 of the Criminal Procedure (Scotland) Act 1995 ”.
+
+### Banking Act 1987 (c. 22)
+
+**67** (1) The Banking Act 1987 shall be amended as follows.
+
+(2) In subsection (3) of section 97, for the words “section 331 of the Criminal Procedure (Scotland) Act 1975” there shall be substituted the words “ section 136 of the Criminal Procedure (Scotland) Act 1995 ”
+
+(3) In subsection (4) of section 98, for the words “section 74 of the Criminal Procedure (Scotland) Act 1975” there shall be substituted the words “ section 70 of the Criminal Procedure (Scotland) Act 1995 ”.
+
+### Consumer Protection Act 1987 (c. 43)
+
+**68** In subsection (8) of section 17 of the Consumer Protection Act 1987, for the words from “and section 452(4)(a) to (e)” to the end there shall be substituted the words “ and section 182(5)(a) to (e) of the Criminal Procedure (Scotland) Act 1995 shall apply to an appeal under this subsection as it applies to a stated case under Part X of that Act ”.
+
+### The Criminal Justice Act 1988 (c. 33)
+
+**69** [^F35]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Copyright, Designs and Patents Act 1988 (c. 48)
+
+**70** (1) The Copyright, Designs and Patents Act 1988 shall be amended as follows.
+
+(2) In section 108(6) (order for delivery up in criminal proceedings) for the words “Chapter II of Part II of the Criminal Justice (Scotland) Act 1995” there shall be substituted the words “ Part II of the Proceeds of Crime (Scotland) Act 1995 ”.
+
+(3) In section 199(6) (order for delivery up in criminal proceedings) for the words “Chapter II of Part II of the Criminal Justice (Scotland) Act 1995” there shall be substituted the words “ Part II of the Proceeds of Crime (Scotland) Act 1995 ”.
+
+### Road Traffic Offenders Act 1988 (c. 53)
+
+**71** (1) The Road Traffic Offenders Act 1988 shall be amended as follows.
+
+(2) In subsection (5) of section 6 (time limit for commencement of summary proceedings), for the words “section 331 of the Criminal Procedure (Scotland) Act 1975” there shall be substituted the words “ section 136 of the Criminal Procedure (Scotland) Act 1995 ”.
+
+(3) In subsection (6) of section 24 (alternative verdicts) for the words “sections 61, 63, 64, 312 and 457A of the Criminal Procedure (Scotland) Act 1975” there shall be substituted the words “ sections 295, 138(4), 256 and 293 of and Schedule 3 to the Criminal Procedure (Scotland) Act 1995 ”.
+
+(4) In subsection (2) of section 31 (taking account of endorsation) for the words “section 357(1) of the Criminal Procedure (Scotland) Act 1975” there shall be substituted the words “ section 166(1) to (6) of the Criminal Procedure (Scotland) Act 1995 ”.
+
+[^F36]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6) After section 33 of the Road Traffic Offenders Act 1988 (fine and imprisonment), there shall be inserted the following section—
+
+> **Forfeiture of vehicles: Scotland.**
+>
+> **33A** (1) Where a person commits an offence to which this subsection applies by—
+>
+> (a) driving, attempting to drive, or being in charge of a vehicle; or
+>
+> (b) failing to comply with a requirement made under section 7 of the Road Traffic Act 1988 (failure to provide specimen for analysis or laboratory test) in the course of an investigation into whether the offender had committed an offence while driving, attempting to drive or being in charge of a vehicle, or
+>
+> (c) failing, as the driver of a vehicle, to comply with subsections (2) and (3) of section 170 of the Road Traffic Act 1988 (duty to stop and give information or report accident),
+>
+> the court may, on an application under this subsection, make an order forfeiting the vehicle concerned; and any vehicle forfeited under this subsection shall be disposed of as the court may direct.
+>
+> (2) Subsection (1) above applies—
+>
+> (a) to an offence under the Road Traffic Act 1988 which is punishable with imprisonment; and
+>
+> (b) to an offence of culpable homicide.
+>
+> (3) An application under subsection (1) above shall be at the instance of the prosecutor made when he moves for sentence (or, if the person has been remitted for sentence under section 195 of the Criminal Procedure (Scotland) Act 1995) made before sentence is pronounced.
+>
+> (4) Where—
+>
+> (a) the court is satisfied, on an application under this subsection by the prosecutor—
+>
+> (i) that proceedings have been, or are likely to be, instituted against a person in Scotland for an offence to which subsection (1) above applies allegedly committed in the manner specified in paragraph (a), (b) or (c) of that subsection; and
+>
+> (ii) that there is reasonable cause to believe that a vehicle specified in the application is to be found in a place or in premises so specified; and
+>
+> (b) it appears to the court that there are reasonable grounds for thinking that in the event of the person being convicted of the offence an order under subsection (1) above might be made in relation to the vehicle,
+>
+> the court may grant a warrant authorising a person named therein to enter and search the place or premises and seize the vehicle.
+>
+> (5) Where the court has made an order under subsection (1) above for the forfeiture of a vehicle, the court or any justice may, if satisfied on evidence on oath—
+>
+> (a) that there is reasonable cause to believe that the vehicle is to be found in any place or premises; and
+>
+> (b) that admission to the place or premises has been refused or that a refusal of such admission is apprehended,
+>
+> issue a warrant of search which may be executed according to law.
+>
+> (6) In relation to summary proceedings, the reference in subsection (5) above to a justice includes a reference to the sheriff and to a magistrate.
+>
+> (7) Part II of the Proceeds of Crime (Scotland) Act 1995 shall not apply in respect of a vehicle in relation to which this section applies.
+>
+> (8) This section extends to Scotland only.
+
+(7) In subsection (3) of section 46 (combination of disqualification and endorsement with probation etc)—
+
+(a) in paragraph (b) for the words from “section 182” to the end there shall be substituted the words “ section 228 (probation) or 246(2) or (3) (absolute discharge) of the Criminal Procedure (Scotland) Act 1995 ”; and
+
+(b) for the words from “section 191” to the end of the subsection there shall be substituted the words “ section 247 of that Act shall not apply ”.
+
+(8) In section 60—
+
+(a) in subsection (4) for the words “section 315 of the Criminal Procedure (Scotland) Act 1975” there shall be substituted the words “ section 140 of the Criminal Procedure (Scotland) Act 1995 ”;
+
+(b) in subsection (5) for the words “Part II” there shall be substituted the words “ Part IX ”; and
+
+(c) in subsection (6)—
+
+(i) in paragraph (b) for the words “section 312” where they first occur there shall be substituted the words “ section 140(4) ”;
+
+(ii) in that paragraph for the words “paragraphs (a) to (z) of section 312 of” there shall be substituted the words “ section 255 of and Schedule 3 to ”; and
+
+(iii) paragraph (c) shall cease to have effect.
+
+(9) In subsection (7) of section 64 (commencement of proceedings against owner of vehicle) for the words “section 331(1) of the Criminal Procedure (Scotland) Act 1975” there shall be substituted the words “ section 136(1) of the Criminal Procedure (Scotland) Act 1995 ”.
+
+(10) In subsection (1) of section 89 (interpretation), in the definition of “court of summary jurisdiction” for the words “section 462(1) of the Criminal Procedure (Scotland) Act 1975” there shall be substituted the words “ section 307(1) of the Criminal Procedure (Scotland) Act 1995 ”.
+
+### Prevention of Terrorism (Temporary Provisions) Act 1989 (c. 4)
+
+**[^F37]72** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Extradition Act 1989 (c. 33)
+
+**73** In subsection (13) of section 10 of the Extradition Act 1989 (bail in connection with appeal)—
+
+(a) for the words “section 446(2) of the Criminal Procedure (Scotland) Act 1975” there shall be substituted the words “ section 177(2) and (3) of the Criminal Procedure (Scotland) Act 1995 ”; and
+
+(b) for the words “section 444” there shall be substituted the words “ section 176 ”.
+
+### Companies Act 1989 (c. 40)
+
+**74** (1) The Companies Act 1989 shall be amended as follows.
+
+(2) [^F38]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) In subsection (4) of section 91 (jurisdiction and procedure for offences) for the words “section 74 of the Criminal Procedure (Scotland) Act 1975” there shall be substituted the words “ section 70 of the Criminal Procedure (Scotland) Act 1995 ”.
+
+### Prisons (Scotland) Act 1989 (c. 45)
+
+**75** (1) The Prisons (Scotland) Act 1989 shall be amended as follows.
+
+(2) In subsection (1) of section 11 (removal of prisoners for judicial and other purposes), for the words “section 279 of the 1975 Act” there shall be substituted the words “ section 132 of the 1995 Act ”.
+
+(3) In subsection (3) of section 21 (transfer to prison of young offenders) for the words “the 1975 Act” where they first occur there shall be substituted the words “ the 1995 Act ”.
+
+(4) In section 39 (prison rules)—
+
+(a) in subsection (5), for the words “section 279 of the 1975 Act” there shall be substituted the words “ section 132 of the 1995 Act ”; and
+
+(b) in subsection (7), for the words “section 206 of the 1975 Act” there shall be substituted the words “ section 208 of the 1995 Act ”.
+
+(5) For subsection (3) of section 40 (persons unlawfully at large) there shall be substituted the following subsection—
+
+> (3) In this section—
+>
+> (a) any reference to a person sentenced to imprisonment shall be construed as including a reference to any person sentenced or ordered to be detained under section 44, 205 or 208 of the 1995 Act;
+>
+> (b) any reference to a prison shall be construed as including a reference to a place where the person is liable to be detained under the sentence or order; and
+>
+> (c) any reference to a sentence shall be construed as including a reference to an order under the said section 44.
+
+(6) After section 40 there shall be added the following section—
+
+> **Warrants for arrest of escaped prisoners.**
+>
+> **40A** (1) On an application being made to a justice alleging that any person is an offender unlawfully at large from a prison or other institution to which this Act or, as the case may be, the Prison Act 1952 or the Prison Act (Northern Ireland) 1953 applies in which he is required to be detained after being convicted of an offence, the justice may issue a warrant to arrest him and bring him before any sheriff.
+>
+> (2) Where a person is brought before a sheriff in pursuance of a warrant for his arrest under this section, the sheriff shall, if satisfied that he is the person named in the warrant and if satisfied that he is an offender unlawfully at large as mentioned in subsection (1) above, order him to be returned to the prison or other institution where he is required or liable to be detained.
+
+(7) In subsection (1) of section 43 (interpretation) for the definition of “the 1975 Act” there shall be substituted the following—
+
+> “the 1995 Act” means the Criminal Procedure (Scotland) Act 1995;
+
+.
+
+### The Criminal Justice (International Co-operation) Act 1990 (c. 5)
+
+**76** (1) The Criminal Justice (International Co-operation) Act 1990 shall be amended as follows.
+
+(2) [^F39]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) In paragraph 2 of Schedule 1, for the words “section 320 of the Criminal Procedure (Scotland) Act 1975” there shall be substituted the words “ section 156 of the Criminal Procedure (Scotland) Act 1995 ”.
+
+### Computer Misuse Act 1990 (c. 18)
+
+**77** [^F40]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Law Reform (Miscellaneous Provisions) (Scotland) Act 1990 (c. 40)
+
+**78** In subsection (4) of section 20 of the Law Reform (Miscellaneous Provisions) (Scotland) Act 1990 (destination of fine imposed for professional misconduct) for the words “section 203 of the Criminal Procedure (Scotland) Act 1975” there shall be substituted the words “ section 211(5) of the Criminal Procedure (Scotland) Act 1995 ”.
+
+### The Northern Ireland (Emergency Provisions) Act 1991 (c. 24)
+
+**[^F41]79** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Criminal Justice Act 1991 (c. 53)
+
+**80** (1) The Criminal Justice Act 1991 shall be amended as follows.
+
+(2) In subsection (3) of section 24 (deduction of fines from income support)—
+
+(a) in paragraph (a) for the words “section 196(2) of the Criminal Procedure (Scotland) Act 1975” there shall be substituted the words “ section 211(4) of the Criminal Procedure (Scotland) Act 1995 ”;
+
+(b) in paragraph (b) for the words “section 66 of the Criminal Justice (Scotland) Act 1980” there shall be substituted the words “ section 252 of the Criminal Procedure (Scotland) Act 1995 ”; and
+
+(c) in paragraph (c) for the words “section 403(1)(a) or (b) of the Criminal Procedure (Scotland) Act 1975” there shall be substituted the words “ section 222(1)(a) or (b) of the Criminal Procedure (Scotland) Act 1995 ”.
+
+[^F42]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Dangerous Dogs Act 1991 (c. 65)
+
+**81** In subsection (9) of section 4 of the Dangerous Dogs Act 1991 (destruction and disqualification orders)—
+
+(a) for the words “section 411 of the Criminal Procedure (Scotland) Act 1975” there shall be substituted the words “ section 221 of the Criminal Procedure (Scotland) Act 1995 ”; and
+
+(b) for the words “Part II” there shall be substituted the words “ Part XI ”.
+
+### Social Security Administration Act 1992 (c. 5)
+
+**82** In subsection (7) of section 116 of the Social Security Administration Act 1992—
+
+(a) for the words “section 331 of the Criminal Procedure (Scotland) Act 1975” there shall be substituted the words “ section 136 of the Criminal Procedure (Scotland) Act 1995 ”; and
+
+(b) for the words “section 331 of the said Act of 1975” there shall be substituted the words “ section 136 of the said Act of 1995 ”.
+
+### Timeshare Act 1992 (c. 35)
+
+**83** In subsection (3) of section 11 of the Timeshare Act 1992 (prosecution time limit), for the words “section 331 of the Criminal Procedure (Scotland) Act 1975” there shall be substituted the words “ section 136 of the Criminal Procedure (Scotland) Act 1995 ”.
+
+### Friendly Societies Act 1992 (c. 40)
+
+**84** In subsection (5) of section 107 of the Friendly Societies Act 1992 (prosecution time limit), for the words “section 331(1) of the Criminal Procedure (Scotland) Act 1975” there shall be substituted the words “ section 136(1) of the Criminal Procedure (Scotland) Act 1995 ”.
+
+### Trade Union and Labour Relations (Consolidation) Act 1992 (c. 52)
+
+**85** In subsection (6) of section 45A of the Trade Union and Labour Relations (Consolidation) Act 1992 (prosecution time limit), for the words “section 331 of the Criminal Procedure (Scotland) Act 1975” there shall be substituted the words “ section 136 of the Criminal Procedure (Scotland) Act 1995 ”.
+
+### Prisoners and Criminal Proceedings (Scotland) Act 1993 (c. 9)
+
+**86** (1) The Prisoners and Criminal Proceedings (Scotland) Act 1993 shall be amended as follows.
+
+(2) Subject to any specific amendment under this paragraph, for the words “1975 Act” where they occur there shall be substituted the words “ 1995 Act ”.
+
+(3) In subsection (1) of section 5 (fine defaulters) for paragraph (a) there shall be substituted the following paragraph—
+
+> (a) under section 219 of the 1995 Act (imprisonment for non-payment of fine) or, by virtue of that section, under section 207 of that Act (detention of young offenders);
+
+.
+
+(4) Section 6 (application of Part to young offenders etc) shall be amended as follows—
+
+(a) in paragraph (a) for the words “section 207(2) or 415(2)” there shall be substituted the words “ section 207(2) ”;
+
+(b) for the words “section 205” there shall be substituted the words “ section 205(1) to (3) ”;
+
+(c) for the words “section 206” where they occur there shall be substituted the words “ section 208 ”; and
+
+(d) for the words “section 207(2)” there shall be substituted the words “ section 207(2) ”.
+
+(5) In section 7 (children detained in solemn proceedings) for the words “section 206” where they occur there shall be substituted the words “ section 208 ”.
+
+(6) In section 11 (duration of licence)—
+
+(a) in subsection (3), for the words “section 212A” there shall be substituted the words “ section 209 ”; and
+
+(b) in paragraph (b) of that subsection, for the words from “the” in the second place where it occurs to the end there shall be substituted—
+
+> there has elapsed—
+>
+> (i) a period (reckoned from the date on which he was ordered to be returned to prison under or by virtue of subsection (2)(a) of that section) equal in length to the period between the date on which the new offence was committed and the date on which he would (but for his release) have served the original sentence in full; or
+>
+> (ii) subject to subsection (4) below, a total period equal in length to the period for which he was so ordered to be returned to prison together with, so far as not concurrent with that period, any term of imprisonment to which he was sentenced in respect of the new offence,
+>
+> whichever results in the later date.
+>
+> (4) In subsection (3)(b) above, “the original sentence” and “the new offence” have the same meanings as in section 16 of this Act.
+
+(7) Section 14 (supervised release of short term prisoners) shall be amended as follows—
+
+(a) in subsection (2)—
+
+(i) for the words “section 212A(1)” there shall be substituted the words “ section 209(1) ”; and
+
+(ii) for the words “section 212A(2) to (6)” there shall be substituted the words “ section 209(3) to (7) ”;
+
+(b) in subsection (3) for the words “section 212A(2)” there shall be substituted the words “ section 209(3) ”; and
+
+(c) in subsection (5) for the words “section 212A(5)(b)” there shall be substituted the words “ section 209(6)(b) ”.
+
+(8) In subsection (4) of section 15 (variation of supervised release order) for the words “section 212A(2)(b)” there shall be substituted the words “ section 209(3)(b) ”.
+
+(9) In section 16 (commission of offence by released prisoner)—
+
+(a) in subsection (6), for the words “section 254(3) or 453C(1)” there shall be substituted the words “ section 118(4) or 189(1) and (2) ”; and
+
+(b) for subsection (7) there shall be substituted the following subsection—
+
+> (7) Where an order under subsection (2) or (4) above is made in respect of a person released on licence—
+>
+> (a) the making of the order shall have the effect of revoking the licence; and
+>
+> (b) if the sentence comprising—
+>
+> (i) the period for which the person is ordered to be returned to prison; and
+>
+> (ii) so far as not concurrent with that period, any term of imprisonment to which he is sentenced in respect of the new offence,
+>
+> is six months or more but less than four years, section 1(1) of this Act shall apply in respect of that sentence as if for the word “unconditionally” there were substituted the words “on licence”.
+
+(10) In subsection (1) of section 27 (interpretation of Part I), for the words “section 212A” where they occur there shall be substituted the words “ section 209 ”.
+
+(11) In section 46 (interpretation) the definition of “the 1975 Act” shall cease to have effect and at the end there shall be inserted the following definition—
+
+> “the 1995 Act” means the Criminal Procedure (Scotland) Act 1995
+
+.
+
+### Agriculture Act 1993 (c. 37)
+
+**87** In subsection (5) of section 52 of the Agriculture Act 1993 (prosecution time limit) for the words “section 331 of the Criminal Procedure (Scotland) Act 1975” there shall be substituted the words “ section 136 of the Criminal Procedure (Scotland) Act 1995 ”.
+
+### Railways Act 1993 (c. 43)
+
+**88** In subsection (5) of section 148 of the Railways Act 1993 (prosecution time limit) for the words “section 331 of the Criminal Procedure (Scotland) Act 1975” there shall be substituted the words “ section 136 of the Criminal Procedure (Scotland) Act 1995 ”.
+
+### Finance Act 1994 (c. 9)
+
+**89** (1) The Finance Act 1994 shall be amended as follows.
+
+(2) In subsection (2) of section 22 (records and rules of evidence), in paragraph (d) for the words “Schedule 3 to the Prisoners and Criminal Proceedings (Scotland) Act 1993” there shall be substituted the words “ Schedule 8 to the Criminal Procedure (Scotland) Act 1995 ”.
+
+(3) In subsection (3) of section 25 (order for production of documents), for the words “section 462 of the Criminal Procedure (Scotland) Act 1975” there shall be substituted the words “ section 308 of the Criminal Procedure (Scotland) Act 1995 ”.
+
+(4) In Schedule 7 (insurance premium tax)—
+
+(a) [^F43]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) in paragraph 4(2), for the words “section 462 of the Criminal Procedure (Scotland) Act 1975” there shall be substituted the words “ section 308 of the Criminal Procedure (Scotland) Act 1995 ”.
+
+### Vehicle Excise and Registration Act 1994 (c. 22)
+
+**90** (1) The Vehicle Excise and Registration Act 1994 shall be amended as follows.
+
+(2) In subsection (1) of section 32 (effect of certain orders) for paragraph (b) there shall be substituted the following paragraph—
+
+> (b) or an order under section 228 of the Criminal Procedure (Scotland) Act 1995 placing him on probation or under 246(3) of that Act discharging him absolutely, or
+
+.
+
+(3) In subsection (1) of section 41 (effect of certain orders) for paragraph (b) there shall be substituted the following paragraph—
+
+> (b) or an order under section 228 of the Criminal Procedure (Scotland) Act 1995 placing him on probation or under 246(2) or (3) of that Act discharging him absolutely, or
+
+.
+
+(4) In subsection (4) of section 48 (time limit for proceedings) for the words “section 331 of the Criminal Procedure (Scotland) Act 1975” there shall be substituted the words “ section 136 of the Criminal Procedure (Scotland) Act 1995 ”.
+
+### Value Added Tax Act 1994 (c. 23)
+
+**91** In Schedule 11 of the Value Added Tax Act 1994—
+
+(a) [^F44]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) in paragraph 11(1) (access to certain information) for the words “section 462 of the Criminal Procedure (Scotland) Act 1975” there shall be substituted the words “ section 308 of the Criminal Procedure (Scotland) Act 1995 ”.
+
+### Trade Marks Act 1994 (c. 26)
+
+**92** (1) The Trade Marks Act 1994 shall be amended as follows.
+
+(2) In subsection (1) of section 96 (prosecution time limit) for the words “section 331 of the Criminal Procedure (Scotland) Act 1975” there shall be substituted the words “ section 136 of the Criminal Procedure (Scotland) Act 1995 ”.
+
+(3) In section 98 (forfeiture)—
+
+(a) in subsection (2) for the words “section 310 of the Criminal Procedure (Scotland) Act 1975” there shall be substituted the words “ section 134 of the Criminal Procedure (Scotland) Act 1995 ”;
+
+(b) in subsection (6) for the words “Criminal Procedure (Scotland) Act 1975” there shall be substituted the words “ Criminal Procedure (Scotland) Act 1995 ”;
+
+(c) in subsection (9) for the words “section 452(4)(a) to (e) of the Criminal Procedure (Scotland) Act 1975” there shall be substituted the words “ section 182(5)(a) to (e) of the Criminal Procedure (Scotland) Act 1995 ”; and
+
+(d) in subsection (11) for the words “Criminal Procedure (Scotland) Act 1975” there shall be substituted the words “ Criminal Procedure (Scotland) Act 1995 ”.
+
+### Criminal Justice and Public Order Act 1994 (c. 33)
+
+**93** (1) The Criminal Justice and Public Order Act 1994 shall be amended as follows.
+
+(2) In subsection (5) of section 25 (restriction on bail) in the definition of “the relevant enactments”, for paragraph (b) there shall be substituted the following paragraph—
+
+> (b) as respects Scotland, sections 205(1) to (3) and 208 of the Criminal Procedure (Scotland) Act 1995;
+
+.
+
+(3) In section 102 (provision of prisoner escorts)—
+
+(a) in paragraph (b) of subsection (3), for the words “Criminal Procedure (Scotland) Act 1975” there shall be substituted the words “ Criminal Procedure (Scotland) Act 1995 ”; and
+
+(b) in subsection (6)—
+
+(i) in the definition of “hospital order”, for the words “section 174, 174A, 175, 375A or 376 of the Act of 1975” there shall be substituted the words “ section 53, 54 or 58 of the Act of 1995 ”; and
+
+(ii) in the definition of “warrant”, for the words “Act of 1975” there shall be substituted the words “ Act of 1995 ”.
+
+(4) In subsection (4) of section 104 (powers and duties of prison custody officers), for the words “section 395(2) of the Criminal Procedure (Scotland) Act 1975” there shall be substituted the words “ section 212 of the Criminal Procedure (Scotland) Act 1995 ”.
+
+(5) In subsection (1) of section 117 (interpretation of Chapter), in the definition of “prisoner” for the words “section 215 or 426 of the Criminal Procedure (Scotland) Act 1975” there shall be substituted the words “ section 295 of the Criminal Procedure (Scotland) Act 1995 ”.
+
+(6) In section 138 (which supplements section 137 relating to cross-border powers of arrest)—
+
+(a) in subsection (2), for the words from “subsections (2) to (7)” to “1993” there shall be substituted the words “ subsections (2) to (8) of section 14 (detention and questioning at police station), subsections (1), (2) and (4) to (6) of section 15 (rights of person arrested or detained) and section 18 (prints, samples etc. in criminal investigations) of the Criminal Procedure (Scotland) Act 1995 ”;
+
+(b) in subsection (6)—
+
+(i) for the words “sections 2 and 3 of the Criminal Justice (Scotland) Act 1980” there shall be substituted the words “ sections 14 and 15 of the said Act of 1995 ”;
+
+(ii) in paragraph (a), for the words “in section 2” there shall be substituted the words “ in section 14 ” and for the words “in subsections (4) and (7)” there shall be substituted the words “ in subsections (6) and (9) ”; and
+
+(iii) in paragraph (b), for the words “in section 3(1)” there shall be substituted the words “ in subsections (1) and (2) of section 15 ”.
+
+### The Drug Trafficking Act 1994 (c. 37)
+
+**94** [^F45]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Local Government etc. (Scotland) Act 1994 (c. 39)
+
+**95** (1) The Local Government etc. (Scotland) Act 1994 shall be amended as follows.
+
+(2) In subsection (1) of section 127 (the Principal Reporter), for the words “Criminal Procedure (Scotland) Act 1975” there shall be substituted the words “ Criminal Procedure (Scotland) Act 1995 ”.
+
+(3) In each of subsections (3) and (8) of section 128 (Scottish Children’s Reporter Administration), for the words “Criminal Procedure (Scotland) Act 1975” there shall be substituted the words “ Criminal Procedure (Scotland) Act 1995 ”.
+
+(4) In subsection (1) of section 130 (annual report of Principal Reporter), for the words “Criminal Procedure (Scotland) Act 1975” there shall be substituted the words “ Criminal Procedure (Scotland) Act 1995 ”.
+
+### Deregulation and Contracting Out Act 1994 (c. 40)
+
+**96** [^F46]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Children (Scotland) Act 1995 (c. 36)
+
+**97** (1) The Children (Scotland) Act 1995 shall be amended as follows.
+
+[^F47]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F47]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F47]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F47]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F47]6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7) In section 78 (powers of arrest)—
+
+(a) in subsection (8), for the words “Criminal Procedure (Scotland) Act 1975” there shall be substituted the words “ Criminal Procedure (Scotland) Act 1995 ”;
+
+(b) in subsection (11), for the words “section 10 of the Bail etc, (Scotland) Act 1980” there shall be substituted the words “ section 8 of the said Act of 1995 ”; and
+
+(c) in subsection (12), for the words “Subsections (1) and (3) of section 3 of the Criminal Justice (Scotland) Act 1980” there shall be substituted the words “ Subsections (1), (2) and (4) of section 15 of the said Act of 1995 ”.
+
+### Pensions Act 1995 (c. 26)
+
+**98** [^F48]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Note
+
+**99** The amendments made by this Schedule to—
+
+(a) the [^M42]Sea Fisheries Act 1968;
+
+(b) the [^M43]Fatal Accidents and Sudden Deaths Inquiry (Scotland) Act 1976; and
+
+(c) section 15(2) of the [^M44]Contempt of Court Act 1981,
+
+are in substitution for amendments made to those enactments by section 56 of and Schedule 7 to the [^M45]Criminal Justice Act 1988 which are repealed by this Act.
+
+## SCHEDULE 5 — Repeals
+
+*Section 6.*
+
+|  |  |  |
+|---|---|---|
+| Chapter | Short title | Extent of repeal |
+| 11 Geo. 4 & 1 Wm. 4 c. 69 | The Court of Session Act 1830 | Section 18 |
+| 50 & 51 Vict. c. 35 | The Criminal Procedure (Scotland) Act 1887 | The whole Act |
+| 4 & 5 Geo. 5 c. 58 | The Criminal Justice Administration Act 1914 | Section 28(3) |
+| 12, 13 & 14 Geo. 6, c. 94 | The Criminal Justice (Scotland) Act 1949 | The whole Act |
+| 1 & 2 Eliz. 2, c. 14 | The Prevention of Crime Act 1953 | Section 1 |
+| 2 & 3 Eliz. 2, c. 48 | The Summary Jurisdiction (Scotland) Act 1954 | The whole Act |
+| 1968 c. 49 | The Social Work (Scotland) Act 1968 | Section 31(1) |
+| 1975 c. 20 | The District Courts (Scotland) Act 1975 | Sections 2 to 4 Section 6 In Schedule 1, paragraph 27 |
+| 1975 c. 21 | The Criminal Procedure (Scotland) Act 1975 | The whole Act |
+| 1977 c. 45 | The Criminal Law Act 1977 | In Schedule 6, the entries relating to the Criminal Procedure (Scotland) Act 1975 In Schedule 7, paragraph 2 Schedule 11 |
+| 1978 c. 29 | The National Health Service (Scotland) Act 1978 | In Schedule 16, paragraph 41 |
+| 1978 c. 49 | The Community Service by Offenders (Scotland) Act 1978 | Sections 1 to 8 Sections 10 to 13 Section 15 In Schedule 2, paragraphs 2 and 3 |
+| 1979 c. 16 | The Criminal Evidence Act 1979 | In section 1(1) the words “sections 141 and 346 of the Criminal Procedure (Scotland) Act 1975” |
+| 1980 c. 4 | The Bail (Scotland) Act 1980 | The whole Act |
+| 1980 c. 62 | The Criminal Justice (Scotland) Act 1980 | Sections 1 to 3 Sections 4 to 7 Sections 9 to 43 Section 45(1) Sections 46 to 50 Sections 52 to 54 Sections 58 to 67 Part V Sections 78 and 80 Schedules 1 to 4 In Schedule 7, paragraphs 25 to 78 |
+| 1981 c. 45 | The Forgery and Counterfeiting Act 1981 | Section 26 |
+| 1982 c. 48 | The Criminal Justice Act 1982 | Part IV Schedules 6 and 7 |
+| 1982 c. 49 | The Transport Act 1982 | In section 40, paragraph (c) of subsection (5) |
+| 1984 c. 39 | The Video Recordings Act 1984 | Section 20 |
+| 1985 c. 66 | The Bankruptcy (Scotland) Act 1985 | In section 5(4) the words “by section 1(1) of the Criminal Justice (Scotland) Act 1987” In section 7(1) the words “by section 1(1) of the Criminal Justice (Scotland) Act 1987” |
+| 1985 c. 73 | The Law Reform (Miscellaneous Provisions) (Scotland) Act 1985 | Section 21 Sections 36 and 37 Section 40 Section 43 Section 45 In Schedule 2, paragraphs 16 to 20 and paragraph 23 In Schedule 3, paragraphs 1, 3 and 4 |
+| 1987 c. 41 | The Criminal Justice (Scotland) Act 1987 | Part I Sections 56 to 68 In Schedule 1, paragraphs 4 to 18 |
+| 1988 c. 53 | The Road Traffic Offenders Act 1988 | In section 60, paragraph (c) of subsection (6) |
+| 1988 c. 54 | The Road Traffic (Consequential Provisions) Act 1988 | In Schedule 3, paragraph 34 |
+| 1990 c. 5 | The Criminal Justice (International Co-operation) Act 1990 | Section 15 In Schedule 4, paragraph 5 |
+| 1990 c. 40 | The Law Reform (Miscellaneous Provisions) (Scotland) Act 1990 | Sections 56 and 57 Section 62 Schedule 6 |
+| 1991 c. 53 | The Criminal Justice Act 1991 | In Schedule 3, paragraph 8 |
+| 1991 c. 62 | The Armed Forces Act 1991 | In Schedule 2, paragraph 9(2) |
+| 1993 c. 9 | The Prisoners and Criminal Proceedings (Scotland) Act 1993 | Section 8 Section 14(1) Sections 28 to 35 Sections 37 to 43 In section 46, the definition of “the 1975 Act” Schedules 3 and 4 In Schedule 5, paragraph 1 |
+| 1993 c. 13 | The Carrying of Knives Etc. (Scotland) Act 1993 | The Whole Act |
+| 1993 c. 36 | The Criminal Justice Act 1993 | Sections 68 and 69 In Schedule 5, paragraph 2 |
+| 1994 c. 33 | The Criminal Justice and Public Order Act 1994 | Section 47(4) In section 129, subsections (1) to (3) Section 132 In section 157, subsection (7) |
+| 1994 c. 37 | The Drug Trafficking Act 1994 | In section 37, the words “that Part of” where they occur and in paragraph (a)(ii) of subsection (2) the words “Part I of”. |
+| 1995 c. 20 | The Criminal Justice (Scotland) Act 1995 | The whole Act |
+| 1995 c. 36 | The Children (Scotland) Act 1995. | Section 49. In Schedule 4, paragraphs 24, 27 and 29. |
+
+## SCHEDULE 6 — Provisions repealed with savings
+
+*Section 6(2).*
+
+In section 43, the words from “and it shall not be necessary” to the end.
+
+Section 45.
+
+Section 46.
+
+Section 47.
+
+Section 52.
+
+Section 53.
+
+In section 54 the words from “and it shall not be necessary to specify” to the end.
+
+In section 55, the words “it shall not be necessary to set forth the document or any part of it in such indictment”.
+
+Section 56.
+
+Section 57.
+
+In section 109, the words from the beginning to “except that”.
+
+In section 111, the words “it shall not be necessary that a new warrant should be granted for the incarceration of the accused, but”.
+
+Section 124 (except the proviso).
+
+Section 222.
+
+---
+
+[^M1]: 1995 c. 43.
+[^M2]: 1995 c. 39.
+[^M3]: 1995 c. 46.
+[^M4]: 1978 c. 30.
+[^M5]: 1975 c. 21.
+[^M6]: 50 & 51 Vict. c. 35.
+[^M7]: 1982 c. 48.
+[^M8]: 1977 c. 45.
+[^M9]: 1977 c. 45.
+[^M10]: 1973 c. 65.
+[^M11]: 1977 c. 45.
+[^M12]: 1975 c. 21.
+[^M13]: 1980 c. 62.
+[^M14]: 1977 c. 45.
+[^M15]: 1962 c. 46.
+[^M16]: 1988 c. 52.
+[^M17]: 1977 cap. xvii.
+[^M18]: 1982 c. 48.
+[^M19]: 1987 c. 41.
+[^M20]: 1987 c. 41.
+[^M21]: 1982 c. 48.
+[^M22]: 1971 c. 38.
+[^M23]: 1975 c. 21.
+[^F1]: Words in Sch. 2 Pt. I repealed (26.3.2001) by S.I. 2001/1149, art. 3(2), Sch. 2 (with art. 4(11))
+[^F2]: Entry in Sch. 2 Pt. II repealed (1.8.1997) by 1997 c. 48, s. 62(1)(2), Sch. 1 para. 19(2), Sch. 3; S.I. 1997/1712, art. 3, Sch.
+[^F3]: Sch. 2 Pt. 2: entry relating to Protection of Animals Act 1934 repealed (3.11.2006) by The Animal Health and Welfare (Scotland) Act 2006 (Consequential Provisions) Order 2006 (S.S.I. 2006/536), art. 2(3), Sch. 3
+[^F4]: Entry in Sch. 2 Pt. II repealed (1.4.1997) by 1996 c. 53, s. 147, Sch. 3 Pt. II; S.I. 1996/2842, art. 4
+[^F5]: Words in Sch. 2 Pt. II repealed (1.4.2002) by 2001 asp 8, s. 80(1)(2), Sch. 4; S.S.I. 2002/162, art. 2(g)(i)
+[^F6]: Sch. 2 Pt. 2: entry relating to Fire Services Act 1947 repealed (2.8.2005) by Fire (Scotland) Act 2005 (asp 5), ss. 89(2), 90, sch. 4; S.S.I. 2005/392, art. 2(k)
+[^F7]: Sch. 2 Pt. 2: entry relating to Cockfighting Act 1952 repealed (3.11.2006) by The Animal Health and Welfare (Scotland) Act 2006 (Consequential Provisions) Order 2006 (S.S.I. 2006/536), art. 2(3), Sch. 3
+[^F8]: Sch. 2 Pt. 2: entry relating to s. 41(1) of the Police (Scotland) Act 1967 repealed (1.9.2006) by Police, Public Order and Criminal Justice (Scotland) Act 2006 (asp 10), ss. 101, 104, sch. 6 para. 3; S.S.I. 2006/432, art. 2(h)
+[^F9]: Sch. 2 Pt. 2: entry relating to Social Work (Scotland) Act 1968 repealed (23.2.2006) by Joint Inspection of Childrens Services and Inspection of Social Work Services (Scotland) Act 2006 (asp 3), ss. 8(4)(g), 10(2)
+[^F10]: Words in Sch. 2 Pt. 3 repealed (2.8.2005) by Fire (Scotland) Act 2005 (asp 5), ss. 89(2), 90, sch. 4; S.S.I. 2005/392, art. 2(k)
+[^F11]: Words in Sch. 2 Pt. 3 omitted (1.4.2019) by virtue of The Forestry and Land Management (Scotland) Act 2018 (Consequential Amendments) Regulations 2019 (S.S.I. 2019/125), regs. 1(2), 8
+[^F12]: Words in Sch. 2 Pt. 3 repealed (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 8 Pt. 1; S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^M24]: 1994 c. 39.
+[^M25]: 1967 c. 77.
+[^F13]: Sch. 3 para. 4(2) repealed (24.3.2003) by Proceeds of Crime Act 2002 (c. 29), ss. 457, 458(1)(3), Sch 12; S.S.I. 2003.210, art. 2 (subject to transitional provisions and savings in arts. 3-7)
+[^M26]: 1975 c. 20
+[^M27]: 1987 c. 41
+[^M28]: 1 Edw 8 and 1 Geo 6. c. 37
+[^M29]: 1975 c. 21
+[^M30]: 1949 c. 94.
+[^M31]: 1907 c. 17.
+[^M32]: 1995 c. 20.
+[^F14]: Words in Sch. 3 para. 12(3) substituted (1.5.2004) by 1997 c. 48, ss. 13(4), 65 (with art. 3); S.I. 2004/176, art. 2 (with art. 3)
+[^F15]: Sch. 3 para. 13 repealed (1.2.2011) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), ss. 14(2), 206, Sch. 2 para. 39; S.S.I. 2010/413, art. 2, Sch. (with art. 3)
+[^M33]: 1968 c. 49.
+[^M34]: 1995 c. 36.
+[^M35]: 1995 c. 20.
+[^M36]: 1995 c. 43.
+[^M37]: 1975 c.21.
+[^F16]: Sch. 3 para. 15(4) repealed (30.11.2016) by Bankruptcy (Scotland) Act 2016 (asp 21), s. 237(2), sch. 9 Pt. 1 (with ss. 232, 234(3), 235, 236); S.S.I. 2016/294, reg. 2
+[^M38]: 1986 c. 45.
+[^M39]: 1914 c.59.
+[^M40]: 1985 c. 6.
+[^M41]: 1995 c. 39.
+[^F17]: Sch. 4 para. 6(4)(a)(d) repealed (1.8.1997) by 1997 c. 48, s. 62(1)(2), Sch. 1 para. 19(3)(a), Sch. 3; S.I. 1997/1712, art. 3, Sch.
+[^F18]: Sch. 4 para. 8 and cross-heading repealed (31.12.2020) by The European Union Withdrawal (Consequential Modifications) (EU Exit) Regulations 2020 (S.I. 2020/1447), reg. 1(3), Sch. (with reg. 9(2))
+[^F19]: Sch. 4 para. 10 repealed (15.6.2017) by Inquiries into Fatal Accidents and Sudden Deaths etc. (Scotland) Act 2016 (asp 2), s. 42(2), sch. 2 para. 6; S.S.I. 2017/155, reg. 2 (with regs. 4(2), 5)
+[^F20]: Sch. 4 para. 11 repealed (S.) (1.4.2005) by Salmon and Freshwater Fisheries (Consolidation) (Scotland) Act 2003 (asp 15), ss. 70, 71(2) (with s. 71(3)(4)(6)); S.S.I. 2005/174, art. 2
+[^F21]: Sch. 4 para. 16 repealed (1.8.1997) by 1997 c. 48, s. 62(1)(2), Sch. 1 para. 19(3)(b), Sch. 3; S.I. 1997/1712, art. 3, Sch.
+[^F22]: Sch. 4 para. 18(2) omitted (1.4.2011) by virtue of Finance (No. 3) Act 2010 (c. 33), s. 29(2), Sch. 13 para. 2(b); S.I. 2011/777, art. 2
+[^F23]: Sch. 4 para. 29 repealed (S.) (1.9.2009 at 5.00 a.m.) by Licensing (Scotland) Act 2005 (asp 16), ss. 89(2), 90, Sch. 4 (with s. 77); S.S.I. 2007/472, art. 3; and Sch. 4 para. 29 repealed (E.W.) (prosp.) by Violent Crime Reduction Act 2006 (c. 38), ss. 65, 66(4), Sch. 5
+[^F24]: Sch. 4 para. 30 repealed (28.10.2004) by Antisocial Behaviour etc. (Scotland) Act 2004 (asp 8), ss. 144(2), 145(2), Sch. 5; S.S.I. 2004/420, art. 3, Sch. 1
+[^F25]: Sch. 4 para. 40 repealed (15.2.1999) by 1998 c. 17, s. 51, Sch. 5 Pt. I (with Sch. 3 para. 5(1)); S.I 1999/161, art. 2(1)
+[^F26]: Sch. 4 para. 44(2) repealed (28.3.2011) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), s. 206(1), Sch. 7 para. 24; S.S.I. 2011/178, art. 2, Sch.
+[^F27]: Sch. 4 para. 46 repealed (22.7.2004) by Statute Law (Repeals) Act 2004 (c. 14), s. 1(1), {Sch. 1 Pt. 16 Group 2}
+[^F28]: Sch. 4 para. 47 repealed (22.7.2004) by Statute Law (Repeals) Act 2004 (c. 14), s. 1(1), {Sch. 1 Pt. 9 Group 5}
+[^F29]: Sch. 4 para. 48 repealed (8.2.2007) by Wireless Telegraphy Act 2006 (c. 36), ss. 125, 126, Sch. 9 Pt. 1 (with Sch. 8 Pt. 1)
+[^F30]: Sch. 4 para. 50 repealed (5.10.2005) by Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13), ss. 331(2), 333(3), Sch. 5 Pt. 1; S.S.I. 2005/161, art. 3
+[^F31]: Sch. 4 para. 53(3) repealed (1.8.1997) by 1997 c. 48, s. 62(1)(2), Sch. 1 para. 19(3)(d), Sch. 3; S.I. 1997/1712, art. 3, Sch.
+[^F32]: Sch. 4 para. 56(3) repealed (1.10.2009) by Companies Act 2006 (c. 46), ss. 1295, 1300, Sch. 16; S.I. 2008/2860, art. 4, Sch. 1 Pt. 1 (with arts 7, 8)
+[^F33]: Sch. 4 para. 56(4) repealed (6.4.2008) by Companies Act 2006 (c. 46), ss. 1295, 1300, Sch. 16; S.I. 2007/3495, art. 8(a), Sch. 2 (with arts 7, 12)
+[^F34]: Sch. 4 para. 58 repealed (30.11.2016) by Bankruptcy (Scotland) Act 2016 (asp 21), s. 237(2), sch. 9 Pt. 1 (with ss. 232, 234(3), 235, 236); S.S.I. 2016/294, reg. 2
+[^F35]: Sch. 4 para. 69 repealed (24.3.2003) by 2002 c. 29, ss. 457, 458(1)(3), Sch. 12; S.I. 2003/333, art. 2(1) (subject to transitional provisions and savings in arts. 3-14 and as amended by S.I. 2003/531)
+[^F36]: Sch. 4 para. 71(5) repealed (8.6.2015) by The Road Safety Act 2006 (Consequential Amendments) Order 2015 (S.I. 2015/583), art. 1(1), Sch. 1 Table 1
+[^F37]: Sch. 4 para. 72 repealed (19.2.2001) by 2000 c. 11, s. 125, Sch. 16 Pt. I; S.I. 2001/421, art. 2
+[^F38]: Sch. 4 para. 74(2) repealed (6.4.2008) by Companies Act 2006 (c. 46), ss. 1295, 1300, Sch. 16; S.I. 2007/3495, art. 8(a), Sch. 2 (with arts. 7, 12)
+[^F39]: Sch. 4 para. 76(2) repealed (1.7.2005) by Serious Organised Crime and Police Act 2005 (c. 15), ss. 174, 178, Sch. 17 Pt. 2; S.I. 2005/1521, art. 3(ee)
+[^F40]: Sch. 4 para. 77 repealed (1.10.2007 for S.) by Police and Justice Act 2006 (c. 48), ss. 52, 53, Sch. 15 Pt. 4; S.S.I. 2007/434, art. 2(d)
+[^F41]: Sch. 4 para. 79 repealed (25.8.1996) by 1996 c. 22, ss. 62(1), 63(7), Sch. 7 Pt. I
+[^F42]: Sch. 4 para. 80(3) repealed (25.8.2000) by 2000 c. 6, ss. 165(4), 168(1), Sch. 12 Pt. I (with Sch. 11 paras. 1, 2)
+[^F43]: Sch. 4 para. 89(4)(a) omitted (1.4.2010) by virtue of Finance Act 2009 (c. 10), s. 98, Sch. 50 para. 2; S.I. 2010/815, art. 2
+[^F44]: Sch. 4 para. 91(a) repealed (8.11.2007) by Finance Act 2007 (c. 11), ss. 84(5), 114, Sch. 27 Pt. 5(1) (Note); S.I. 2007/3166, art. 2
+[^F45]: Sch. 4 para. 94 repealed (24.3.2003) by 2002 c. 29, ss. 457, 458(1)(3), Sch. 12; S.I. 2003/333, art. 2 (subject to transitional provisions and savings in arts. 3-14 and as amended by S.I. 2003/531)
+[^F46]: Sch. 4 para. 96 repealed (1.8.2010) by Public Services Reform (Scotland) Act 2010 (asp 8), ss. 29, 134, Sch. 7 para. 2: S.S.I. 2010/221, art. 3, Sch.
+[^F47]: Sch. 4 para. 97(2)-(6) repealed (24.6.2013) by The Childrenâ€™s Hearings (Scotland) Act 2011 (Modification of Primary Legislation) Order 2013 (S.S.I. 2013/211), art. 1, Sch. 2
+[^F48]: Sch. 4 para. 98 repealed (6.4.2006) by Pensions Act 2004 (c. 35), ss. 320, 322, Sch. 13; S.I. 2006/560, art. 2, Sch. Pt. 3
+[^M42]: 1968 c.77.
+[^M43]: 1976 c. 14.
+[^M44]: 1981 c. 49.
+[^M45]: 1988 c.33.

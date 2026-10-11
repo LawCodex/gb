@@ -1,0 +1,253 @@
+---
+title: "Healthcare (International Arrangements) Act 2019"
+identifier: "ukpga/2019/14"
+citation: "2019 c. 14"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S+N.I."
+date: 2019-03-26
+last_amended: 2024-01-01
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/2019/14"
+source_modified: 2024-02-21
+retrieved: 2026-10-11
+---
+
+# Healthcare (International Arrangements) Act 2019
+
+**2019 c. 14**
+
+An Act to make provision about paying and arranging for healthcare provided in an EEA state or Switzerland and giving effect to healthcare agreements with such countries; and for connected purposes.
+
+[26th March 2019]
+
+Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## [^F1]1 Power to make healthcare payments
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 2 [[^F2]Healthcare agreements and payments
+
+(1) The Secretary of State may by regulations make provision for the purpose of giving effect to a healthcare agreement (including provision about payments).
+
+(2) The Secretary of State may by regulations make provision authorising the Secretary of State to make a payment (otherwise than under a healthcare agreement) in respect of healthcare provided in a relevant country or territory, but only where the Secretary of State considers that exceptional circumstances justify the payment.
+
+(3) In subsection (2) “relevant country or territory” means a country or territory, outside the United Kingdom, in respect of which there is a healthcare agreement.
+
+(4) Regulations under this section may include provision about administrative arrangements (including provision about evidential requirements).
+
+(5) Regulations under this section may—
+
+(a) confer functions on a relevant public authority or a Scottish or Welsh health board (including discretions);
+
+(b) provide for the delegation of functions to a relevant public authority or a Scottish or Welsh health board.
+
+(6) The Secretary of State may give directions to a person about the exercise of any functions exercisable by the person under regulations made by virtue of subsection (5) (and may vary or revoke any such directions).
+
+(7) In this section “relevant public authority” means a person who exercises functions of a public nature other than—
+
+(a) the Scottish Ministers,
+
+(b) a Scottish public authority with mixed functions or no reserved functions (within the meaning of the Scotland Act 1998),
+
+(c) the Welsh Ministers,
+
+(d) a devolved Welsh authority as defined by section 157A of the Government of Wales Act 2006,
+
+(e) a Northern Ireland department, or
+
+(f) any other person whose functions—
+
+(i) are exercisable only or mainly in or as regards Northern Ireland, and
+
+(ii) relate only or mainly to transferred matters within the meaning of the Northern Ireland Act 1998.
+
+(8) In this section—
+
+- “Scottish health board” means a Health Board established under section 2(1)(a) of the National Health Service (Scotland) Act 1978;
+- “Welsh health board” means a Local Health Board established under section 11 of the National Health Service (Wales) Act 2006.]
+
+## 2A [[^F2]Healthcare agreements and payments: powers of devolved authorities
+
+(1) A devolved authority may by regulations make provision for the purpose of giving effect to a healthcare agreement (including provision about payments).
+
+(2) No provision may be made by a devolved authority under subsection (1) unless the provision is within the devolved competence of that devolved authority (and any applicable consent requirement under section 2B has been complied with).
+
+(3) In this section “devolved authority” means the Scottish Ministers, the Welsh Ministers or a Northern Ireland department.
+
+(4) For the purposes of this section—
+
+(a) provision is within the devolved competence of the Scottish Ministers if it would be within the legislative competence of the Scottish Parliament if it were contained in an Act of that Parliament;
+
+(b) provision is within the devolved competence of the Welsh Ministers if it would be within the legislative competence of Senedd Cymru if it were contained in an Act of Senedd Cymru (including any provision that could only be made with the consent of a Minister of the Crown);
+
+(c) provision is within the devolved competence of a Northern Ireland department if it would be within the legislative competence of the Northern Ireland Assembly if it were contained in an Act of that Assembly.
+
+(5) Regulations under this section may include provision about administrative arrangements (including provision about evidential requirements).
+
+(6) Regulations under this section may—
+
+(a) confer functions on a public authority (including discretions);
+
+(b) provide for the delegation of functions to a public authority.
+
+(7) A devolved authority may give directions to a person about the exercise of any functions exercisable by the person under regulations made by that devolved authority by virtue of subsection (6) (and may vary or revoke any such directions).
+
+(8) In this section “public authority” means a person who exercises functions of a public nature.
+
+## 2B Regulations under section 2A: consent requirements
+
+(1) The consent of a Minister of the Crown is required before any provision is made by the Welsh Ministers in regulations under section 2A(1) so far as that provision, if contained in an Act of Senedd Cymru, would require the consent of a Minister of the Crown.
+
+(2) The consent of the Secretary of State is required before any provision is made by a Northern Ireland department in regulations under section 2A(1) so far as that provision, if contained in a Bill in the Northern Ireland Assembly, would require the consent of the Secretary of State.]
+
+## 3 Meaning of “healthcare” and “healthcare agreement”
+
+In this Act—
+
+- “healthcare” means all forms of healthcare provided for individuals, whether relating to mental or physical health, and includes related ancillary care;
+
+- [[^F3]“healthcare agreement” means an agreement or other commitment between the United Kingdom and either a country or territory outside the United Kingdom or an international organisation, concerning healthcare provided anywhere in the world;]
+
+- “international organisation” means an organisation of which—
+
+  - (a) two or more sovereign powers are members, or
+  - (b) the governments of two or more sovereign powers are members.
+
+## 4 Data processing
+
+(1) An authorised person may process personal data held by the person in connection with any of the person's functions where that person considers it necessary for the purposes of implementing, operating or facilitating the doing of anything under or by virtue of this Act.
+
+(2) The processing of personal data in accordance with subsection (1) does not breach—
+
+(a) any obligation of confidence owed by the person processing the personal data, or
+
+(b) any other restriction on the processing of personal data (however imposed).
+
+(3) But nothing in subsection (1) authorises the processing of personal data which—
+
+(a) contravenes the data protection legislation, or
+
+(b) is prohibited by any of Parts 1 to 7 or Chapter 1 of Part 9 of the Investigatory Powers Act 2016.
+
+(4) Until the repeal of Part 1 of the Regulation of Investigatory Powers Act 2000 by paragraphs 45 and 54 of Schedule 10 to the Investigatory Powers Act 2016 is fully in force, subsection (3)(b) has effect as if it included a reference to that Part.
+
+(5) Subsection (1) does not limit the circumstances in which personal data may be processed apart from this section.
+
+(6) In this section—
+
+- “authorised person” means—
+
+  - (a) the Secretary of State, the Treasury, the Commissioners for Her Majesty's Revenue and Customs, the Scottish Ministers, the Welsh Ministers and a Northern Ireland department;
+  - (b) an NHS body (as defined in section 275 of the National Health Service Act 2006 or in section 206 of the National Health Service (Wales) Act 2006);
+  - (c) a health service body listed in section 17A(2)(a) to (e) of the National Health Service (Scotland) Act 1978 or in article 8(2)(a) to (e) of the Health and Personal Social Services (Northern Ireland) Order 1991 (S.R. & O. (N.I.) 1991 No. 194);
+  - (d) a provider of healthcare (not falling within paragraph (b) or (c));
+  - (e) any other person authorised, or falling within a description of persons authorised, by regulations made by the Secretary of State for the purposes of this section;
+
+- “the data protection legislation” has the same meaning as in the Data Protection Act 2018 (see section 3 of that Act);
+
+- “personal data” has the same meaning as in the Data Protection Act 2018 (see section 3 of that Act).
+
+## 5 Requirement for consultation with devolved authorities
+
+(1) Before making regulations under section 2 that contain provision which is within the legislative competence of a devolved legislature, the Secretary of State must consult the relevant devolved authority on that provision.
+
+(2) In this section—
+
+- “devolved authority” means the Scottish Ministers, the Welsh Ministers or a Northern Ireland department;
+- “devolved legislature” means the Scottish Parliament, the National Assembly for Wales or the Northern Ireland Assembly.
+
+(3) A provision is within the legislative competence of a devolved legislature if—
+
+(a) it would be within the legislative competence of the Scottish Parliament if it were contained in an Act of the Scottish Parliament;
+
+(b) it would be within the legislative competence of the National Assembly for Wales if it were contained in an Act of the Assembly (including any provision that could only be made with the consent of a Minister of the Crown); or
+
+(c) the provision, if it were contained in an Act of the Northern Ireland Assembly—
+
+(i) would be within the legislative competence of the Assembly, and
+
+(ii) would not require the consent of the Secretary of State.
+
+## 6 Report on payments made under this Act
+
+(1) The Secretary of State must, in relation to each relevant period—
+
+(a) prepare a report in accordance with this section, and
+
+(b) lay the report before Parliament as soon as practicable after the end of the period.
+
+(2) Each report must give details of payments made under the powers conferred by or under this Act.
+
+(3) “Relevant period” means—
+
+(a) the period beginning with the day on which this Act is passed and ending with the end of the first financial year to begin after exit day;
+
+(b) each subsequent period of 12 months.
+
+(4) “Financial year” means the period of 12 months beginning with 1 April.
+
+## 7 Regulations and directions
+
+(1) A power [[^F4]of the Secretary of State or Welsh Ministers] to make regulations under this Act is exercisable by statutory instrument.
+
+[[^F5](1A) A power of a Northern Ireland department to make regulations under section 2A is exercisable by statutory rule for the purposes of the Statutory Rules (Northern Ireland) Order 1979 (S.I. 1979/1573 (N.I. 12)).]
+
+(2) Regulations and directions under this Act may—
+
+(a) make different provision for different purposes;
+
+(b) be made for all cases to which the power in question applies, for those cases subject to specified exceptions or for any specified cases or descriptions of case;
+
+(c) make any provision either unconditionally or subject to specified conditions;
+
+(d) provide for a person to exercise a discretion in dealing with any matter;
+
+(e) include consequential, supplementary, incidental, transitional, transitory or saving provision.
+
+(3) Regulations under this Act may amend, repeal or revoke [[^F6]assimilated] law that is not primary legislation.
+
+[[^F7](4) A statutory instrument containing regulations under this Act may not be made by the Secretary of State unless a draft of the instrument has been laid before and approved by a resolution of each House of Parliament.]
+
+[^F8]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[[^F9](5A) Regulations made by the Scottish Ministers under section 2A are subject to the affirmative procedure (see Part 2 of the Interpretation and Legislative Reform (Scotland) Act 2010 (asp 10)).
+
+(5B) A statutory instrument containing regulations under section 2A may not be made by the Welsh Ministers unless a draft of the instrument has been laid before and approved by a resolution of Senedd Cymru.
+
+(5C) Regulations may not be made by a Northern Ireland department under section 2A unless a draft of the regulations has been laid before and approved by a resolution of the Northern Ireland Assembly.]
+
+(6) In this section “primary legislation” means—
+
+(a) an Act;
+
+(b) an Act of the Scottish Parliament;
+
+(c) a Measure or Act of the National Assembly for Wales;
+
+(d) Northern Ireland legislation.
+
+## 8 Extent, commencement and short title
+
+(1) This Act extends to England and Wales, Scotland and Northern Ireland.
+
+(2) This Act comes into force on the day it is passed.
+
+(3) This Act may be cited as the [[^F10]Healthcare (International Arrangements) Act 2019].
+
+---
+
+[^F1]: S. 1 omitted (18.8.2023) by virtue of Health and Care Act 2022 (c. 31), ss. 162(3), 186(6); S.I. 2023/821, reg. 2 (with reg. 3)
+[^F2]: Ss. 2-2B substituted for s. 2 (18.8.2023) by Health and Care Act 2022 (c. 31), ss. 162(4), 186(6); S.I. 2023/821, reg. 2 (with reg. 3)
+[^F3]: Words in s. 3 substituted (18.8.2023) by Health and Care Act 2022 (c. 31), ss. 162(5), 186(6); S.I. 2023/821, reg. 2 (with reg. 3)
+[^F4]: Words in s. 7(1) inserted (18.8.2023) by Health and Care Act 2022 (c. 31), ss. 162(6)(a), 186(6); S.I. 2023/821, reg. 2 (with reg. 3)
+[^F5]: S. 7(1A) inserted (18.8.2023) by Health and Care Act 2022 (c. 31), ss. 162(6)(b), 186(6); S.I. 2023/821, reg. 2 (with reg. 3)
+[^F6]: Word in s. 7(3) substituted (1.1.2024) by The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424), reg. 1(2), Sch. para. 90
+[^F7]: S. 7(4) substituted (18.8.2023) by Health and Care Act 2022 (c. 31), ss. 162(6)(c), 186(6); S.I. 2023/821, reg. 2 (with reg. 3)
+[^F8]: S. 7(5) omitted (18.8.2023) by virtue of Health and Care Act 2022 (c. 31), ss. 162(6)(d), 186(6); S.I. 2023/821, reg. 2 (with reg. 3)
+[^F9]: S. 7(5A)-(5C) inserted (18.8.2023) by Health and Care Act 2022 (c. 31), ss. 162(6)(e), 186(6); S.I. 2023/821, reg. 2 (with reg. 3)
+[^F10]: Words in s. 8(3) substituted (18.8.2023) by Health and Care Act 2022 (c. 31), ss. 162(7), 186(6); S.I. 2023/821, reg. 2 (with reg. 3)

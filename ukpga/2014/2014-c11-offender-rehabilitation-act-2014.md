@@ -1,0 +1,1072 @@
+---
+title: "Offender Rehabilitation Act 2014"
+identifier: "ukpga/2014/11"
+citation: "2014 c. 11"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S+N.I."
+date: 2014-03-13
+last_amended: 2026-05-11
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/2014/11"
+source_modified: 2026-06-08
+retrieved: 2026-10-11
+---
+
+# Offender Rehabilitation Act 2014
+
+**2014 c. 11**
+
+An Act to make provision about the release, and supervision after release, of offenders; to make provision about the extension period for extended sentence prisoners; to make provision about community orders and suspended sentence orders; and for connected purposes.
+
+[13th March 2014]
+
+Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## Release and supervision of offenders sentenced to less than 2 years
+
+### 1 Reduction of cases in which prisoners released unconditionally
+
+In section 243A of the Criminal Justice Act 2003 (duty to release prisoners serving less than 12 months unconditionally once one-half of sentence served), for subsection (1) substitute—
+
+> (1) This section applies to a fixed-term prisoner if—
+>
+> (a) the prisoner is serving a sentence which is for a term of 1 day, or
+>
+> (b) the prisoner—
+>
+> (i) is serving a sentence which is for a term of less than 12 months, and
+>
+> (ii) is aged under 18 on the last day of the requisite custodial period.
+>
+> (1A) This section also applies to a fixed-term prisoner if—
+>
+> (a) the prisoner is serving a sentence which is for a term of less than 12 months, and
+>
+> (b) the sentence was imposed in respect of an offence committed before the day on which section 1 of the Offender Rehabilitation Act 2014 came into force.
+
+### 2 Supervision after end of sentence
+
+(1) Chapter 6 of Part 12 of the Criminal Justice Act 2003 (sentencing: release, licences and recall) is amended as follows.
+
+[^F1]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) In section 237(1) (meaning of “fixed-term prisoner”), at the end insert—
+
+> and “fixed-term sentence” means a sentence falling within paragraph (a) or (b).
+
+(4) In Schedule 1 to this Act—
+
+[^F2]a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) Part 2 inserts sections 256D and 256E of that Act which make provision about drug testing requirements and drug appointment requirements.
+
+### [^F3]3 Breach of supervision requirements
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 4 Supervision of certain young offenders after release from detention
+
+(1) Section 256B of the Criminal Justice Act 2003 (supervision of young offenders after release) is amended as follows.
+
+(2) For subsection (1) substitute—
+
+> (1) This section applies where a person (“the offender”) is released under this Chapter if—
+>
+> (a) the person is, at the time of the release, serving a sentence of detention under section 91 of the Sentencing Act which is for a term of less than 12 months, and
+>
+> (b) the person is aged under 18 on the last day of the requisite custodial period (as defined in section 243A(3)).
+>
+> (1A) This section also applies where a person (“the offender”) is released under this Chapter if—
+>
+> (a) the person is, at the time of the release, serving a sentence of detention under section 91 or 96 of the Sentencing Act which is for a term of less than 12 months, and
+>
+> (b) the sentence was imposed in respect of an offence committed before the day on which section 1 of the Offender Rehabilitation Act 2014 came into force.
+
+(3) In subsection (2)(c), omit “if the offender is under the age of 18 years at the date of release,”.
+
+(4) In subsection (7)—
+
+(a) for paragraph (c) substitute—
+
+> (c) where the offender is aged 18 or over—
+>
+> (i) drug testing requirements (see section 256D);
+>
+> (ii) drug appointment requirements (see section 256E).
+
+(5) After that subsection insert—
+
+> (7A) Paragraph (c)(i) and (ii) of subsection (7) have effect subject to the restrictions in sections 256D(2) and 256E(2).
+
+(6) Omit subsection (8).
+
+(7) For subsection (9) substitute—
+
+> (9) The Secretary of State may make rules about the requirements that may be imposed by virtue of subsection (7)(a) or (b).
+
+(8) Omit subsection (10).
+
+### 5 Consecutive terms
+
+(1) Chapter 6 of Part 12 of the Criminal Justice Act 2003 (sentencing: release, licences and recall) is amended as follows.
+
+(2) In section 264 (consecutive terms), for subsections (3) and (3A) substitute—
+
+> (3B) The offender's release under this Chapter is to be unconditional if—
+>
+> (a) the aggregate length of the terms of imprisonment is less than 12 months, and
+>
+> (b) section 243A so requires in respect of each of the sentences,
+>
+> but in any other case is to be on licence.
+>
+> (3C) If the offender is released on licence under this Chapter—
+>
+> (a) the offender is to be on licence, on and after the release, until the offender would, but for the release, have served a term equal in length to the aggregate length of the terms of imprisonment (but see section 264B);
+>
+> (b) the offender is to be subject to supervision requirements under section 256AA if (and only if)—
+>
+> (i) section 256AA so requires in respect of one or more of the sentences, and
+>
+> (ii) the aggregate length of the terms of imprisonment is less than 2 years.
+>
+> (3D) If the offender is subject to supervision requirements under section 256AA, the supervision period for the purposes of that section begins on the expiry of the period during which the offender is on licence by virtue of subsection (3C)(a).
+>
+> (3E) When the offender is released under this Chapter (whether unconditionally or on licence), the offender is to be subject to supervision requirements under section 256B if that section so requires in respect of one or more of the sentences.
+
+(3) Before section 265 (and the italic heading before it) insert—
+
+> **264B Consecutive terms: supplementary**
+>
+> (1) This section applies in a case in which section 264 applies where—
+>
+> (a) the offender is released on licence under this Chapter,
+>
+> (b) the aggregate length of the terms of imprisonment mentioned in section 264(1)(a) is less than 12 months, and
+>
+> (c) those terms include one or more terms of imprisonment (“short transitional terms”) which were imposed in respect of an offence committed before the day on which section 1 of the Offender Rehabilitation Act 2014 came into force, as well as one or more terms imposed in respect of an offence committed on or after that day.
+>
+> (2) The offender is to be on licence until the offender would, but for the release, have served a term equal in length to the aggregate of—
+>
+> (a) the custodial period in relation to each of the short transitional terms, and
+>
+> (b) the full length of each of the other terms.
+>
+> (3) In this section “custodial period” has the same meaning as in section 264.
+
+(4) In section 249(3) (duration of licence)—
+
+(a) for “sections” substitute “ section ”, and
+
+(b) for “and 264(3)” substitute “ and sections 264(3C)(a) and 264B ”.
+
+(5) In section 250 (licence conditions), omit subsection (7).
+
+[^F4]6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F4]7 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F4]8 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F5]6 Supervision of certain young offenders after detention and training order
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 7 Minor and consequential provision
+
+(1) Schedule 3 contains minor and consequential provision.
+
+(2) The Secretary of State may by order made by statutory instrument amend the Powers of Criminal Courts (Sentencing) Act 2000 and the Criminal Justice Act 2003 so as to—
+
+(a) replace a reference to a date on which a provision of this Act came into force with a reference to the actual date on which it did so, and
+
+(b) insert provision explaining the date.
+
+## Other provision about release and supervision of offenders
+
+### [^F6]8 Extended sentences: length of extension period
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 9 Recall and further release of offenders
+
+(1) Chapter 6 of Part 12 of the Criminal Justice Act 2003 (sentencing: release, licences and recall) is amended as follows.
+
+(2) In section 244(1A) (disapplication of that section following recall), after “246” insert “ or 248 ”.
+
+(3) In section 255(1)(a) (recall of prisoners released early under section 246), for “any condition included in his licence” substitute “ the curfew condition included in the licence ”.
+
+[^F7]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F7]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6) In section 240ZA(6) (time remanded in custody not to count as time served for purposes of automatic release), for “period of 28 days served by the offender before automatic release” substitute “ automatic release period served by the offender ”.
+
+(7) In section 240A(3B) (time remanded on bail not to count as time served for purposes of automatic release), for “period of 28 days served by the offender before automatic release” substitute “ automatic release period served by the offender ”.
+
+### 10 Arrangements for supervision and rehabilitation: female offenders
+
+In section 3 of the Offender Management Act 2007 (power to make arrangements for the provision of probation services), after subsection (6) insert—
+
+> (6A) The Secretary of State must ensure that arrangements under subsection (2) or (5) for the supervision or rehabilitation of persons convicted of offences—
+>
+> (a) state that the Secretary of State has, in making the arrangements, complied with the duty under section 149 of the Equality Act 2010 (public sector equality duty) as it relates to female offenders, and
+>
+> (b) identify anything in the arrangements that is intended to meet the particular needs of female offenders.
+
+## Drugs and offenders released during custodial sentence
+
+### 11 Drug testing
+
+(1) The Criminal Justice and Court Services Act 2000 is amended as follows.
+
+(2) In section 64 (release on licence: drug testing requirements)—
+
+(a) in subsection (1)(a), omit “for a trigger offence, and”,
+
+(b) in that subsection, at the end insert
+
+> , and
+>
+> (c) the Secretary of State is satisfied of the matters in subsection (1A).
+
+,
+
+(c) after that subsection insert—
+
+> (1A) Those matters are—
+>
+> (a) that the misuse by the person of a specified class A drug or a specified class B drug caused or contributed to an offence of which the person has been convicted or is likely to cause or contribute to the commission of further offences by the person, and
+>
+> (b) that the person is dependent on, or has a propensity to misuse, a specified class A drug or a specified class B drug.
+
+,
+
+(d) in subsection (2), after “conditions” insert “ mentioned in subsection (1)(b) ”, and
+
+(e) in subsection (3), after “specified Class A drug” insert “ or specified Class B drug ”.
+
+(3) In section 70(1) (interpretation)—
+
+(a) for “ “Class A drug” has” substitute “ “Class A drug” and “Class B drug” have”, and
+
+(b) in the definition of “ “specified””, after “Class A drug” insert “ or Class B drug ”.
+
+### 12 Drug appointments
+
+(1) In Chapter 2 of Part 3 of the Criminal Justice and Court Services Act 2000 (dealing with offenders), after section 64 insert—
+
+> **64A Release on licence etc: drug appointments**
+>
+> (1) This section applies where—
+>
+> (a) the Secretary of State releases a person serving a sentence of imprisonment (“the offender”) who is aged 18 or over,
+>
+> (b) the release is subject to conditions (whether conditions of a licence or any other conditions, however expressed),
+>
+> (c) an officer of a provider of probation services has recommended to the Secretary of State that a condition authorised by this section be imposed on the offender, and
+>
+> (d) the Secretary of State is satisfied of the matters in subsection (2).
+>
+> (2) Those matters are—
+>
+> (a) that the misuse by the offender of a controlled drug caused or contributed to an offence of which the offender has been convicted or is likely to cause or contribute to the commission of further offences by the offender,
+>
+> (b) that the offender is dependent on, or has a propensity to misuse, a controlled drug,
+>
+> (c) that the dependency or propensity requires, and may be susceptible to, treatment, and
+>
+> (d) that arrangements have been made, or can be made, for the offender to have treatment.
+>
+> (3) The conditions mentioned in subsection (1)(b) may include a condition which requires the offender, in accordance with instructions given by an officer of a provider of probation services, to attend appointments with a view to addressing the offender's dependency on, or propensity to misuse, a controlled drug.
+>
+> (4) The condition must specify—
+>
+> (a) the person with whom the offender is to meet or under whose direction the appointments are to take place, and
+>
+> (b) where the appointments are to take place.
+>
+> (5) The person specified under subsection (4)(a) must be a person who has the necessary qualifications or experience.
+>
+> (6) The only instructions that an officer of a provider of probation services may give for the purposes of the requirement are instructions as to—
+>
+> (a) the duration of each appointment, and
+>
+> (b) when each appointment is to take place.
+>
+> (7) For the purposes of this section, references to a requirement to attend an appointment do not include a requirement to submit to treatment.
+>
+> (8) In this section—
+>
+> - “controlled drug” has the same meaning as in the Misuse of Drugs Act 1971;
+>
+> - “sentence of imprisonment” does not include a detention and training order or an order under section 211 of the Armed Forces Act 2006 but does include—
+>
+>   - (a) a sentence of detention in a young offender institution,
+>   - (b) a sentence of detention under section 90 of the Powers of Criminal Courts (Sentencing) Act 2000 (detention at Her Majesty's pleasure),
+>   - (c) a sentence of detention under section 91 of that Act (detention of offenders under 18 convicted of certain serious offences),
+>   - (d) a sentence of custody for life under section 93 or 94 of that Act,
+>   - (e) a sentence of detention under section 226, 226B or 228 of the Criminal Justice Act 2003 (including one passed as a result of section 221, 221A or 222 of the Armed Forces Act 2006),
+>   - (f) a sentence of detention under section 209 of the Armed Forces Act 2006 (detention of offenders under 18 convicted of certain serious offences), and
+>   - (g) a sentence of detention under section 218 of that Act (detention at Her Majesty's pleasure).
+
+(2) In section 250 of the Criminal Justice Act 2003 (licence conditions), in subsection (4)(b)(i), for “or 64” substitute “ , 64 or 64A ”.
+
+### 13 Drug testing and appointments: transfer within the British Islands
+
+(1) Schedule 1 to the Crime (Sentences) Act 1997 (transfer of prisoners within the British Islands) is amended as follows.
+
+(2) In paragraph 8 (restricted transfers from England and Wales to Scotland)—
+
+(a) in sub-paragraphs (2)(aa) and (4)(aa), for “and 64” substitute “ , 64 and 64A ”, and
+
+(b) at the end insert—
+
+> (7) Sections 64 and 64A of the Criminal Justice and Court Services Act 2000 (release on licence etc: drug appointments), as applied by sub-paragraph (2) or (4) above, have effect as if any reference to an officer of a provider of probation services were a reference to a relevant officer as defined by section 27(1) of the Prisoners and Criminal Proceedings (Scotland) Act 1993.
+
+(3) In paragraph 9 (restricted transfers from England and Wales to Northern Ireland)—
+
+(a) in sub-paragraphs (2)(aa) and (4)(aa), for “and 64” substitute “ , 64 and 64A ”, and
+
+(b) after sub-paragraph (5) insert—
+
+> (5A) Sections 64 and 64A of the Criminal Justice and Court Services Act 2000 (release on licence etc: drug appointments), as applied by sub-paragraph (2) or (4) above, have effect as if any reference to an officer of a provider of probation services were a reference to a probation officer.
+
+## Community orders and suspended sentence orders
+
+### 14 Officers responsible for implementing orders
+
+[^F8]1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) In Schedule 4 to this Act—
+
+(a) Part 1 contains amendments which confine certain functions of responsible officers to the public sector, and
+
+(b) Part 2 contains consequential provision.
+
+### [^F9]15 Rehabilitation activity requirement
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F9]16 Programme requirement
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F9]17 Attendance centre requirement
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 18 Duty to obtain permission before changing residence
+
+[^F10]1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F10]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F10]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F10]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F10]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F10]6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F10]7 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F10]8 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F10]9 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(10) In Schedule 31 (fine default orders), after paragraph 3A insert—
+
+> **Change of residence**
+>
+> **3B** (1) In its application to a default order, section 220(1) (duty of offender to keep in touch with responsible officer) is modified as follows.
+>
+> (2) At the end of paragraph (a) there is inserted
+>
+> > and
+> >
+> > (b) must notify the responsible officer of any change of address.
+>
+> **3C** Section 220A (duty to obtain permission before changing residence) does not apply in relation to a default order.
+
+(11) In Schedule 31, in paragraph 4, after sub-paragraph (4) insert—
+
+> (4A) For paragraphs 16 and 16A there is substituted—
+>
+> > **16**
+> >
+> > (1) This paragraph applies where, at any time while a default order is in force in respect of a person, the appropriate court is satisfied that the person proposes to change, or has changed, residence from the local justice area concerned to another local justice area (“the new local justice area”).
+> >
+> > (2) The appropriate court may amend the default order to specify the new local justice area.
+> >
+> > (3) In this paragraph “the appropriate court” means a magistrates' court acting in the local justice area specified in the order.
+
+[^F11]12 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Offenders sentenced by service courts
+
+### 19 Amendments of Armed Forces Act 2006
+
+Schedule 6 contains amendments of the Armed Forces Act 2006 relating to the release and supervision of offenders, service community orders, overseas community orders and suspended sentence orders.
+
+## General
+
+### 20 Consequential and supplementary provision etc
+
+(1) The Secretary of State may by order make consequential, supplementary or incidental provision in relation to any provision of this Act.
+
+(2) An order under this section may—
+
+(a) make different provision for different purposes, and
+
+(b) amend, repeal or revoke legislation.
+
+(3) An order under this section making provision in relation to any of sections 1 to 7, Schedules 1, 2 and 3 and paragraph 2 of Schedule 6 may make different provision for different areas.
+
+(4) An order under this section is to be made by statutory instrument.
+
+(5) A statutory instrument containing an order under this section is subject to annulment in pursuance of a resolution of either House of Parliament, subject to subsection (6).
+
+(6) A statutory instrument containing an order under this section that amends or repeals an Act (whether alone or with other provision) may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, each House of Parliament.
+
+(7) In this section—
+
+- “Act” includes an Act or Measure of the National Assembly for Wales;
+
+- “legislation”, in relation to an order made in relation to a provision of this Act, means—
+
+  - (a) an Act passed before or in the same Session as this Act, or
+  - (b) an instrument made under an Act before the provision comes into force.
+
+### 21 Transitional provision etc
+
+(1) Schedule 7 makes provision about the cases to which the amendments made by this Act apply.
+
+(2) The Secretary of State may by order make other transitional, transitory or saving provision in connection with the coming into force of any provision of this Act.
+
+(3) An order under this section—
+
+(a) may make different provision for different purposes, and
+
+(b) in connection with sections 1 to 7, Schedules 1, 2 and 3 and paragraph 2 of Schedule 6 may make different provision for different areas.
+
+(4) An order under this section is to be made by statutory instrument.
+
+### 22 Commencement
+
+(1) This Act comes into force on such day or days as the Secretary of State may appoint by order, subject to subsection (2).
+
+(2) This section and sections 20, 21(2) to (4), 23 and 24 come into force on the day on which this Act is passed.
+
+(3) An order under this section—
+
+(a) may appoint different days for different purposes, and
+
+(b) in relation to sections 1 to 7, Schedules 1, 2 and 3 and paragraph 2 of Schedule 6, may appoint different days for different areas.
+
+(4) An order under this section is to be made by statutory instrument.
+
+### 23 Extent
+
+(1) An amendment or repeal made by this Act, other than an armed forces amendment or repeal, has the same extent as the provision amended or repealed (ignoring extent by virtue of an Order in Council).
+
+(2) Subject to subsection (1), this Act extends to England and Wales, Scotland and Northern Ireland.
+
+(3) So far as sections 20, 21 and 22 confer power to make provision amending or otherwise relating to Schedule 1 to the Crime (Sentences) Act 1997, they also extend to the Channel Islands.
+
+(4) Section 385 of the Armed Forces Act 2006 (extent of enactments applied by that Act) does not apply in relation to an armed forces amendment or repeal.
+
+(5) Her Majesty may by Order in Council provide for an armed forces amendment or repeal to extend, with or without modifications, to—
+
+(a) any of the Channel Islands,
+
+(b) the Isle of Man, or
+
+(c) any of the British overseas territories
+
+(6) The power conferred by paragraph 19 of Schedule 1 to the Crime (Sentences) Act 1997 (power to extend to Isle of Man) is exercisable in relation to any amendment of that Act that is made by this Act.
+
+(7) The power conferred by section 338 of the Criminal Justice Act 2003 (power to extend to Channel Islands etc) is exercisable in relation to any amendment of that Act that is made by this Act.
+
+(8) “Armed forces amendment or repeal” means—
+
+(a) an amendment or repeal made by Schedule 6 (amendments of the Armed Forces Act 2006), and
+
+(b) where a provision amended or repealed by this Act is applied by or under the Armed Forces Act 2006, the amendment or repeal of the provision as so applied.
+
+### 24 Short title
+
+This Act may be cited as the Offender Rehabilitation Act 2014.
+
+## SCHEDULE 1 — Supervision requirements
+
+*Section 2*
+
+### [^F12]PART 1 — General
+
+**[^F12]1** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### PART 2 — Drugs
+
+**2** In Chapter 6 of Part 12 of the Criminal Justice Act 2003 (sentencing: release, licences and recall), after section 256C insert—
+
+> **Drug testing requirements**
+>
+> **256D** (1) “Drug testing requirement”, in relation to an offender subject to supervision under this Chapter, means a requirement that, when instructed to do so by the supervisor, the offender provide a sample mentioned in the instruction for the purpose of ascertaining whether the offender has a specified Class A drug or a specified Class B drug in his or her body.
+>
+> (2) A drug testing requirement may be imposed on an offender subject to supervision under this Chapter only if—
+>
+> (a) the Secretary of State is satisfied of the matters in subsection (3), and
+>
+> (b) the requirement is being imposed for the purpose of determining whether the offender is complying with any other supervision requirement.
+>
+> (3) Those matters are—
+>
+> (a) that the misuse by the offender of a specified class A drug or a specified class B drug caused or contributed to an offence of which the offender has been convicted or is likely to cause or contribute to the commission of further offences by the offender, and
+>
+> (b) that the offender is dependent on, or has a propensity to misuse, a specified class A drug or a specified class B drug.
+>
+> (4) An instruction given for the purpose of a drug testing requirement must be given in accordance with guidance given from time to time by the Secretary of State.
+>
+> (5) The Secretary of State may make rules regulating the provision of samples in accordance with such an instruction.
+>
+> (6) In this section, “specified Class A drug” and “specified Class B drug” have the same meaning as in Part 3 of the Criminal Justice and Court Services Act 2000.
+>
+> **Drug appointment requirements**
+>
+> **256E** (1) “Drug appointment requirement”, in relation to an offender subject to supervision under this Chapter, means a requirement that the offender, in accordance with instructions given by the supervisor, attend appointments with a view to addressing the offender's dependency on, or propensity to misuse, a controlled drug.
+>
+> (2) A drug appointment requirement may be imposed on an offender subject to supervision under this Chapter only if—
+>
+> (a) the supervisor has recommended to the Secretary of State that such a requirement be imposed on the offender, and
+>
+> (b) the Secretary of State is satisfied of the matters in subsection (3).
+>
+> (3) Those matters are—
+>
+> (a) that the misuse by the offender of a controlled drug caused or contributed to an offence of which the offender has been convicted or is likely to cause or contribute to the commission of further offences by the offender,
+>
+> (b) that the offender is dependent on, or has a propensity to misuse, a controlled drug,
+>
+> (c) that the dependency or propensity requires, and may be susceptible to, treatment, and
+>
+> (d) that arrangements have been made, or can be made, for the offender to have treatment.
+>
+> (4) The requirement must specify—
+>
+> (a) the person with whom the offender is to meet or under whose direction the appointments are to take place, and
+>
+> (b) where the appointments are to take place.
+>
+> (5) The person specified under subsection (4)(a) must be a person who has the necessary qualifications or experience.
+>
+> (6) The only instructions that the supervisor may give for the purposes of the requirement are instructions as to—
+>
+> (a) the duration of each appointment, and
+>
+> (b) when each appointment is to take place.
+>
+> (7) For the purposes of this section, references to a requirement to attend an appointment do not include a requirement to submit to treatment.
+>
+> (8) In this section, “controlled drug” has the same meaning as in the Misuse of Drugs Act 1971.
+
+## [^F13]SCHEDULE 2 — Supervision default orders: new Schedule 19A to Criminal Justice Act 2003
+
+*Section 3*
+
+### [^F13]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 3 — Release and supervision: minor and consequential provision
+
+*Section 7*
+
+### Crime (Sentences) Act 1997 (c. 43)
+
+**1** Schedule 1 to the Crime (Sentences) Act 1997 (transfer of prisoners within the British Islands) is amended as follows.
+
+**2** (1) Paragraph 6 (effect of transfers: preliminary) is amended as follows.
+
+[^F14]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F15]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) In sub-paragraph (3), at the end insert—
+
+> (c) in relation to a person who is supervised under section 256AA of the 2003 Act, being ordered to be committed to prison or detention for failure to comply with a requirement imposed under that section or by a supervision default order;
+>
+> (d) in relation to a person who is supervised under section 256B of the 2003 Act, being ordered to be detained for failure to comply with a supervision requirement imposed under that section.
+
+[^F16]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**3** (1) Paragraph 8 (restricted transfers from England and Wales to Scotland) is amended as follows.
+
+(2) In sub-paragraph (2)(a)—
+
+(a) for “264A” substitute “ 264B ”,
+
+(b) after “267B of” insert “ , and Schedules 19A, 20A and 20B to, ” and
+
+(c) after “104” insert “ and 106B ”.
+
+(3) In sub-paragraph (4)(a)—
+
+(a) for “264A” substitute “ 264B ”,
+
+(b) after “267B of” insert “ , and Schedules 19A, 20A and 20B to, ” and
+
+(c) after “104” insert “ and 106B ”.
+
+(4) In sub-paragraph (6)(f), for “paragraphs (b) and (c)” substitute “ paragraph (c) ”.
+
+(5) At the end (after the sub-paragraph (7) inserted by section 13 of this Act) insert—
+
+> (8) The supervision provisions, as applied by sub-paragraph (2) or (4), have effect—
+>
+> (a) as if any reference to something listed in the first column of the Table in sub-paragraph (10) were a reference to whatever is opposite it in the second column of that Table,
+>
+> (b) with the modifications in sub-paragraph (11), and
+>
+> (c) in a case falling within section 106B of the Powers of Criminal Courts (Sentencing) Act 2000, with the further modifications in sub-paragraph (12),
+>
+> (and see also paragraphs 8A, 19A and 19B).
+>
+> (9) In this paragraph “the supervision provisions” means—
+>
+> (a) sections 256AA to 256E of, and Schedule 19A to, the 2003 Act,
+>
+> (b) the provisions of the 2003 Act mentioned in section 256AC of, and Schedule 19A to, that Act, as applied by that section and that Schedule, and
+>
+> (c) section 106B of the Powers of Criminal Courts (Sentencing) Act 2000.
+>
+> (10) The references mentioned in sub-paragraph (8)(a) are—
+>
+> |  |  |
+> |---|---|
+> | *Reference* | *Substituted reference* |
+> | Crown Court | High Court of Justiciary |
+> | Justice of the peace | Sheriff court |
+> | Local justice area | Local government area within the meaning of the Local Government etc (Scotland) Act 1994 |
+> | Magistrates' court | Sheriff court |
+> | Officer of a provider of probation services | Relevant officer as defined by section 27(1) of the Prisoners and Criminal Proceedings (Scotland) Act 1993 |
+> | Summons | Citation |
+> | Young offender institution | Young offenders institution provided under section 19(1)(b) of the Prisons (Scotland) Act 1989 |
+>
+> (11) The modifications mentioned in sub-paragraph (8)(b) are—
+>
+> (a) section 256AA(2)(b) of the 2003 Act has effect as if it also referred to a licence under the Prisons (Scotland) Act 1989 or the Prisoners and Criminal Proceedings (Scotland) Act 1993,
+>
+> (b) section 256AC(7)(b) of the 2003 Act has effect as if for “the Secretary of State” there were substituted “ the Scottish Ministers ”,
+>
+> (c) paragraph 2 of Schedule 19A to the 2003 Act has effect as if—
+>
+> (i) sub-paragraph (d) referred only to section 215(1) and (2) of the 2003 Act, and
+>
+> (ii) sub-paragraph (e) were omitted,
+>
+> (d) paragraph 3 of Schedule 19A to the 2003 Act has effect as if, after sub-paragraph (7), there were inserted—
+>
+> > (7A) Section 218(4)(a) applies as if for the words “has been notified by the Secretary of State” there were substituted “is satisfied
+>
+> ,
+>
+> (e) paragraph 7 of Schedule 19A to the 2003 Act has effect as if—
+>
+> (i) in sub-paragraph (1), for “the supervisor must refer the matter to the enforcement officer” there were substituted “ the supervisor may cause an information to be laid before a sheriff court in respect of the person's failure to comply with the requirement ”, and
+>
+> (ii) sub-paragraphs (2) to (5) were omitted, and
+>
+> (f) paragraph 12(3) of Schedule 19A to the 2003 Act has effect as if for “makes a community order or suspended sentence order” there were substituted “ imposes any other sentence ”.
+>
+> (12) The further modifications mentioned in sub-paragraph (8)(c) are that section 106B of the Powers of Criminal Courts (Sentencing) Act 2000 has effect as if—
+>
+> (a) in subsection (4), for paragraph (b) there were substituted a reference to an officer of a local authority constituted under the Local Government etc (Scotland) Act 1994 for the local government area in which the offender resides for the time being, and
+>
+> (b) after subsection (3) there were inserted—
+>
+> > (3A) Sections 256AA(3) and (6), 256AB(1) and 256E(2) have effect as if the references to the Secretary of State were references to the Scottish Ministers.
+
+**[^F17]4** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**5** (1) Paragraph 9 (restricted transfers from England and Wales to Northern Ireland) is amended as follows.
+
+(2) In sub-paragraph (2)(a)—
+
+(a) for “264A” substitute “ 264B ”,
+
+(b) after “267B of” insert “ , and Schedules 20A and 20B to, ” and
+
+(c) after “104” insert “ and 106B ”.
+
+(3) In sub-paragraph (4)(a)—
+
+(a) for “264A” substitute “ 264B ”,
+
+(b) after “267B of” insert “ , and Schedules 20A and 20B to, ” and
+
+(c) after “104” insert “ and 106B ”.
+
+(4) Omit sub-paragraph (8).
+
+[^F18]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**6** (1) Paragraph 15 (unrestricted transfers: general) is amended as follows.
+
+(2) In sub-paragraph (4A), for “This paragraph has” substitute “ Sub-paragraphs (3) and (4) have ”.
+
+(3) After sub-paragraph (4A) insert—
+
+> (4B) A person who is subject to a period of supervision of a type or length which could not have been imposed on an offender in the place to which the person has been transferred is to be treated for the relevant purposes as the receiving authority may direct.
+>
+> (4C) In sub-paragraph (4B), “the receiving authority” means—
+>
+> (a) in relation to a person transferred to Scotland, the Scottish Ministers,
+>
+> (b) in relation to a person transferred to Northern Ireland, the Department of Justice in Northern Ireland, and
+>
+> (c) in relation to any other person, the Secretary of State.
+
+**7** After paragraph 19 insert—
+
+> **Service of process issued in Scotland**
+>
+> **19A** (1) Section 4 of the Summary Jurisdiction (Process) Act 1881 (service in England and Wales of Scottish process etc) applies to any process issued by a court in Scotland under the supervision provisions.
+>
+> (2) “The supervision provisions” means the provisions listed in paragraph 8(9), as they are applied by paragraph 8(2) or (4).
+>
+> **Electronic monitoring in Scotland**
+>
+> **19B** (1) Section 245C of the Criminal Procedure (Scotland) Act 1995 (remote monitoring), and regulations under that section, apply in relation to the electronic monitoring of compliance with a curfew requirement in a supervision default order imposed under the supervision provisions as they apply in relation to the remote monitoring of compliance with a restriction of liberty order.
+>
+> (2) “The supervision provisions” means the provisions listed in paragraph 8(9), as they are applied by paragraph 8(2) or (4).
+
+**8** In paragraph 20(1) (interpretation), for the definition of “supervision” substitute—
+
+> “supervision” means—
+>
+> (a) supervision under an order made for the purpose,
+>
+> (b) supervision under a detention and training order,
+>
+> (c) in the case of a person released from prison on licence, supervision under a condition contained in the licence,
+>
+> (d) supervision under section 256AA of the Criminal Justice Act 2003 (supervision after end of sentence), including supervision under that section as applied by section 106B of the Powers of Criminal Courts (Sentencing) Act 2000, or
+>
+> (e) supervision under section 256B of the Criminal Justice Act 2003 (supervision after release of certain young offenders serving less than 12 months).
+
+### Crime and Disorder Act 1998 (c. 37)
+
+**9** (1) Section 38(4) of the Crime and Disorder Act 1998 (meaning of “youth justice services”) is amended as follows.
+
+[^F19]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) For paragraph (i) substitute—
+
+> (i) post-release supervision in accordance with a licence under section 31 of the Crime (Sentences) Act 1997 or section 250 of the Criminal Justice Act 2003 of a person sentenced to detention under section 90 or 91 of the Powers of Criminal Courts (Sentencing) Act 2000, section 226, 226B or 228 of the Criminal Justice Act 2003 or section 209, 218, 221, 221A or 222 of the Armed Forces Act 2006;
+>
+> (ia) post-release supervision under section 256B of the Criminal Justice Act 2003;
+>
+> (ib) supervision under section 256AA of the Criminal Justice Act 2003 of a person sentenced to detention under section 91 of the Powers of Criminal Courts (Sentencing) Act 2000 or section 209 of the Armed Forces Act 2006;
+
+.
+
+### Powers of Criminal Courts (Sentencing) Act 2000 (c. 6)
+
+**[^F20]10** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F20]11** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F20]12** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Criminal Justice and Court Services Act 2000 (c. 43)
+
+**13** In section 64(4) of the Criminal Justice and Court Services Act 2000 (release on licence: regulation of provision of samples given pursuant to drug testing condition), for “regulations” substitute “ rules ”.
+
+### Criminal Justice Act 2003 (c. 44)
+
+**14** The Criminal Justice Act 2003 is amended as follows.
+
+**15** In the heading of Chapter 6 of Part 12, after “licences” insert “ , supervision ”.
+
+**16** In the heading of section 243A, after “release” insert “ certain ”.
+
+**17** In section 243A(3)(a) (duty to release prisoners serving less than 12 months unconditionally: definition of requisite custodial period), for the words from “in relation to” to “such a term” substitute “ in relation to a person serving one sentence ”.
+
+**18** In section 244(3)(a) (duty to release prisoners on licence: definition of requisite custodial period), for the words from “in relation to” to “such a term” substitute “ in relation to a prisoner serving one sentence ”.
+
+**19** Omit the italic heading before section 256B.
+
+**20** For the heading of that section substitute “ Supervision after release of certain young offenders serving less than 12 months ”.
+
+**21** In section 256C(4)(b) (breach of supervision requirements), for “impose on the offender” substitute “ order the offender to pay ”.
+
+**22** In the heading of that section, at the end insert “ imposed under section 256B ”.
+
+**23** (1) Section 268 (interpretation of Chapter 6) is amended as follows.
+
+(2) The existing text is re-numbered as subsection (1).
+
+(3) In subsection (1), in the definition of “fixed-term prisoner”, for “ “fixed-term prisoner” has” substitute “ “fixed-term prisoner” and “fixed-term sentence” have”.
+
+(4) In subsection (1), at the appropriate places insert—
+
+> [^F21]...
+
+> [^F22]...
+
+> [^F23]...
+
+> “ “the supervisor”—
+>
+> (a) in relation to an offender subject to supervision requirements under section 256AA, has the meaning given in that section, and
+>
+> (b) in relation to an offender subject to supervision requirements under section 256B, means the person who provides supervision under that section;
+
+.
+
+(5) At the end insert—
+
+> (2) For the purposes of sections 243A(1A), 256AA(1), 256B(1A) and 264B(1), where an offence is found to have been committed over a period of 2 or more days, or at some time during a period of 2 or more days, it must be taken to have been committed on the last of those days.
+
+**24** (1) Section 302 (execution of process between England and Wales and Scotland) is amended as follows.
+
+(2) After “under—” insert—
+
+> section 256AC(1) or (3),
+>
+> section 256C(1) or (3),
+
+.
+
+(3) Omit the “or” before “paragraph 6(2) or (4)”.
+
+[^F24]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F25]25** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 4 — Officers responsible for implementing orders
+
+*Section 14*
+
+### PART 1 — Functions confined to the public sector
+
+#### Criminal Justice Act 2003 (c. 44)
+
+**1** The Criminal Justice Act 2003 is amended as follows.
+
+**[^F26]2** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F26]3** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F26]4** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F26]5** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F26]6** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F26]7** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Offender Management Act 2007 (c. 21)
+
+**8** In section 4 of the Offender Management Act 2007 (probation provision that may only be made with a probation trust or other public body), after subsection (2) insert—
+
+> (3) The provision described in subsection (2)(b) includes provision which relates to the making of an application by an officer to a court under—
+>
+> (a) paragraph 13, 14, 17, 19A or 20 of Schedule 8 to the Criminal Justice Act 2003 (revocation or amendment of community orders),
+>
+> (b) paragraph 13, 15, 17 or 18 of Schedule 12 to that Act (amendment of suspended sentence orders), or
+>
+> (c) paragraph 10 of Schedule 19A to that Act (revocation or amendment of supervision default orders).
+
+### PART 2 — Consequential provision
+
+#### Children Act 1989 (c. 41)
+
+**9** In Schedule A1 to the Children Act 1989 (enforcement orders), in paragraph 3, omit sub-paragraphs (1) and (2)(a).
+
+#### Criminal Justice Act 2003 (c. 44)
+
+**10** The Criminal Justice Act 2003 is amended as follows.
+
+**[^F27]11** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F27]12** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F27]13** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F27]14** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F27]15** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## [^F28]SCHEDULE 5 — Rehabilitation activity requirement: consequential provision
+
+*Section 15*
+
+**[^F28]1** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F28]2** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F28]3** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F28]4** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F28]5** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F28]6** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F28]7** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F28]8** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F28]9** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 6 — Offenders sentenced by service courts
+
+*Section 19*
+
+**1** The Armed Forces Act 2006 is amended as follows.
+
+### Supervision and release of offenders sentenced to less than 2 years
+
+**2** In section 213(1) (application of provisions relating to civilian detention and training orders to service detention and training orders), for “106A and 107” substitute “ 106A to 107 ”.
+
+### Recall and further release of offenders
+
+**3** In section 246(2C) (time in service custody not to count as time served for purposes of automatic release), for “period of 28 days served by the offender before automatic release” substitute “ automatic release period served by the offender ”.
+
+### Service community orders, overseas community orders and suspended sentence orders: officers responsible for implementing
+
+**4** (1) Section 183 (overseas community orders: modifications of Criminal Justice Act 2003) is amended as follows.
+
+(2) In subsection (1), omit “section 197(1) and (2) (meaning of “the responsible officer”);”.
+
+(3) After subsection (1) insert—
+
+> (1A) Section 198(1) (duties of responsible officer) has effect as if at the end there were inserted—
+>
+> > (c) where appropriate, to take steps to enforce those requirements.
+
+(4) Omit subsections (2), (4) and (5).
+
+**5** (1) Part 1 of Schedule 5 (breach, revocation and amendment of service community orders) is amended as follows.
+
+(2) In paragraph 1(2) (provisions of Schedule 8 to Criminal Justice Act 2003 disapplied), after “6(2),” insert “ 6A(2), ”.
+
+(3) Omit paragraph 2.
+
+(4) After that paragraph insert—
+
+> **2A** Paragraph 6A(1) of that Schedule (role of enforcement officer) has effect in relation to a service community order under this Act as if the reference to a justice of the peace were to the Crown Court.
+
+**6** (1) Part 2 of Schedule 5 (breach, revocation and amendment of overseas community orders) is amended as follows.
+
+(2) In paragraph 10(2)(b) (provisions of Schedule 8 to Criminal Justice Act 2003 disapplied)—
+
+(a) after “paragraphs” insert “ 1A, ”, and
+
+(b) after “6(2),” insert “ 6A, ”.
+
+(3) For paragraph 12 (breach of requirement of order: warning and laying of information) substitute—
+
+> **12A** Paragraph 5(1) of that Schedule (duty to give warning) has effect as if for paragraph (b) there were substituted—
+>
+> > (b) the officer applies to the court that made the order for the exercise of its powers in relation to the failure.
+>
+> **12B** Paragraph 6(1) of that Schedule (breach of order after warning) has effect as if for the words from “must refer” to the end there were substituted “ must apply to the court that made the order for the exercise of its powers in relation to the failure in question ”.
+
+**7** (1) Schedule 7 (suspended prison sentence: further conviction or breach of requirement) is amended as follows.
+
+(2) In paragraph 1(a) (provisions of Schedule 12 to Criminal Justice Act 2003 disapplied), after “5(2),” insert “ 5A(2), ”.
+
+(3) Omit paragraph 4.
+
+(4) After that paragraph insert—
+
+> **4A** Paragraph 5A(1) of Schedule 12 to the 2003 Act (role of enforcement officer) has effect in relation to a suspended sentence order with community requirements made by a relevant service court as if the reference to a justice of the peace were to the Crown Court.
+
+### Service community orders, overseas community orders and suspended sentence orders: duty to obtain permission before changing residence
+
+**[^F29]8** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F29]9** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F29]10** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F29]11** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 7 — Cases to which this Act applies
+
+*Section 21*
+
+### Commencement day
+
+**1** In this Schedule, “the commencement day”, in relation to an amendment made by a provision of this Act, means the day on which that provision comes into force.
+
+### Release and supervision of offenders sentenced to less than 2 years
+
+**2** The amendments made by sections 1 to 3, 4(2), 5 and 6, Part 1 of Schedule 1, Schedules 2 and 3 and paragraph 2 of Schedule 6 apply in relation to—
+
+(a) any person who falls to be released under Chapter 6 of Part 12 of the Criminal Justice Act 2003 on or after the commencement day, and
+
+(b) any person who falls to be released under a detention and training order (including an order under section 211 of the Armed Forces Act 2006) on or after the commencement day.
+
+**3** The amendments made by section 4(3) to (8) and Part 2 of Schedule 1 apply where a person was released before the commencement day (as well as where a person is released on or after that day).
+
+### Extended sentences
+
+**4** The amendments made by section 8 do not apply in relation to an offence committed before the commencement day.
+
+### Recall and further release of prisoners
+
+**5** The amendments made by section 9 and paragraph 3 of Schedule 6 apply only where an offender is recalled on or after the commencement day.
+
+### Drugs and offenders released during custodial sentence
+
+**6** The amendments made by sections 11, 12 and 13 apply where a person was released before the commencement day (as well as where a person is released on or after that day).
+
+### Community orders and suspended sentences
+
+**[^F30]7** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Interpretation: offences committed over a period
+
+**8** Where an offence is found to have been committed over a period of 2 or more days, or at some time during a period of 2 or more days, it must be taken for the purposes of this Schedule to have been committed on the last of those days.
+
+---
+
+[^F1]: S. 2(2) omitted (11.5.2026) by virtue of Sentencing Act 2026 (c. 2), s. 49(1), Sch. 5 para. 12(2) (with s. 34(4)(5)); S.I. 2026/402, reg. 2(b)
+[^F2]: S. 2(4)(a) omitted (11.5.2026) by virtue of Sentencing Act 2026 (c. 2), s. 49(1), Sch. 5 para. 12(2) (with s. 34(4)(5)); S.I. 2026/402, reg. 2(b)
+[^F3]: S. 3 omitted (11.5.2026) by virtue of Sentencing Act 2026 (c. 2), s. 49(1), Sch. 5 para. 12(3) (with s. 34(4)(5)); S.I. 2026/402, reg. 2(b)
+[^F4]: S. 5(6)-(8) omitted (11.5.2026) by virtue of Sentencing Act 2026 (c. 2), s. 49(1), Sch. 5 para. 12(4) (with s. 34(4)(5)); S.I. 2026/402, reg. 2(b)
+[^F5]: S. 6 repealed (1.12.2020) by Sentencing Act 2020 (c. 17), s. 416(1), Sch. 28 (with ss. 413(4)(5), 416(7), Sch. 27); S.I. 2020/1236, reg. 2
+[^F6]: S. 8 repealed (1.12.2020) by Sentencing Act 2020 (c. 17), s. 416(1), Sch. 28 (with ss. 413(4)(5), 416(7), Sch. 27); S.I. 2020/1236, reg. 2
+[^F7]: S. 9(4)(5) omitted (for specified purposes and otherwise coming into force in accordance with reg. 4 of the commencing S.I.) by virtue of Sentencing Act 2026 (c. 2), ss. 33(13)(b), 49(1) (with s. 33(14)); S.I. 2026/86, regs. 3(b)(iv), 4
+[^F8]: S. 14(1) repealed (1.12.2020) by Sentencing Act 2020 (c. 17), s. 416(1), Sch. 28 (with ss. 413(4)(5), 416(7), Sch. 27); S.I. 2020/1236, reg. 2
+[^F9]: Ss. 15-17 repealed (1.12.2020) by Sentencing Act 2020 (c. 17), s. 416(1), Sch. 28 (with ss. 413(4)(5), 416(7), Sch. 27); S.I. 2020/1236, reg. 2
+[^F10]: S. 18(1)-(9) repealed (1.12.2020) by Sentencing Act 2020 (c. 17), s. 416(1), Sch. 28 (with ss. 413(4)(5), 416(7), Sch. 27); S.I. 2020/1236, reg. 2
+[^F11]: S. 18(12) repealed (1.12.2020) by Sentencing Act 2020 (c. 17), s. 416(1), Sch. 28 (with ss. 413(4)(5), 416(7), Sch. 27); S.I. 2020/1236, reg. 2
+[^F12]: Sch. 1 Pt. 1 omitted (11.5.2026) by virtue of Sentencing Act 2026 (c. 2), s. 49(1), Sch. 5 para. 12(5) (with s. 34(4)(5)); S.I. 2026/402, reg. 2(b)
+[^F13]: Sch. 2 omitted (11.5.2026) by virtue of Sentencing Act 2026 (c. 2), s. 49(1), Sch. 5 para. 12(6) (with s. 34(4)(5)); S.I. 2026/402, reg. 2(b)
+[^F14]: Sch. 3 para. 2(2) omitted (11.5.2026) by virtue of Sentencing Act 2026 (c. 2), s. 49(1), Sch. 5 para. 12(7)(a) (with s. 34(4)(5)); S.I. 2026/402, reg. 2(b)
+[^F15]: Sch. 3 para. 2(3) omitted (11.5.2026) by virtue of Sentencing Act 2026 (c. 2), s. 49(1), Sch. 5 para. 12(7)(a) (with s. 34(4)(5)); S.I. 2026/402, reg. 2(b)
+[^F16]: Sch. 3 para. 2(5) omitted (11.5.2026) by virtue of Sentencing Act 2026 (c. 2), s. 49(1), Sch. 5 para. 12(7)(a) (with s. 34(4)(5)); S.I. 2026/402, reg. 2(b)
+[^F17]: Sch. 3 para. 4 omitted (11.5.2026) by virtue of Sentencing Act 2026 (c. 2), s. 49(1), Sch. 5 para. 12(7)(b) (with s. 34(4)(5)); S.I. 2026/402, reg. 2(b)
+[^F18]: Sch. 3 para. 5(5) omitted (11.5.2026) by virtue of Sentencing Act 2026 (c. 2), s. 49(1), Sch. 5 para. 12(7)(c) (with s. 34(4)(5)); S.I. 2026/402, reg. 2(b)
+[^F19]: Sch. 3 para. 9(2) omitted (11.5.2026) by virtue of Sentencing Act 2026 (c. 2), s. 49(1), Sch. 5 para. 12(7)(d) (with s. 34(4)(5)); S.I. 2026/402, reg. 2(b)
+[^F20]: Sch. 3 paras. 10-12 repealed (1.12.2020) by Sentencing Act 2020 (c. 17), s. 416(1), Sch. 28 (with ss. 413(4)(5), 416(7), Sch. 27); S.I. 2020/1236, reg. 2
+[^F21]: Words in Sch. 3 para. 23(4) omitted (11.5.2026) by virtue of Sentencing Act 2026 (c. 2), s. 49(1), Sch. 5 para. 12(7)(e)(i) (with s. 34(4)(5)); S.I. 2026/402, reg. 2(b)
+[^F22]: Words in Sch. 3 para. 23(4) omitted (11.5.2026) by virtue of Sentencing Act 2026 (c. 2), s. 49(1), Sch. 5 para. 12(7)(e)(ii) (with s. 34(4)(5)); S.I. 2026/402, reg. 2(b)
+[^F23]: Words in Sch. 3 para. 23(4) omitted (11.5.2026) by virtue of Sentencing Act 2026 (c. 2), s. 49(1), Sch. 5 para. 12(7)(e)(iii) (with s. 34(4)(5)); S.I. 2026/402, reg. 2(b)
+[^F24]: Sch. 3 para. 24(4) omitted (11.5.2026) by virtue of Sentencing Act 2026 (c. 2), s. 49(1), Sch. 5 para. 12(7)(f) (with s. 34(4)(5)); S.I. 2026/402, reg. 2(b)
+[^F25]: Sch. 3 para. 25 omitted (11.5.2026) by virtue of Sentencing Act 2026 (c. 2), s. 49(1), Sch. 5 para. 12(7)(g) (with s. 34(4)(5)); S.I. 2026/402, reg. 2(b)
+[^F26]: Sch. 4 paras. 2-7 repealed (1.12.2020) by Sentencing Act 2020 (c. 17), s. 416(1), Sch. 28 (with ss. 413(4)(5), 416(7), Sch. 27); S.I. 2020/1236, reg. 2
+[^F27]: Sch. 4 paras. 11-15 repealed (1.12.2020) by Sentencing Act 2020 (c. 17), s. 416(1), Sch. 28 (with ss. 413(4)(5), 416(7), Sch. 27); S.I. 2020/1236, reg. 2
+[^F28]: Sch. 5 repealed (1.12.2020) by Sentencing Act 2020 (c. 17), s. 416(1), Sch. 28 (with ss. 413(4)(5), 416(7), Sch. 27); S.I. 2020/1236, reg. 2
+[^F29]: Sch. 6 paras. 8-11 repealed (1.12.2020) by Sentencing Act 2020 (c. 17), s. 416(1), Sch. 28 (with ss. 413(4)(5), 416(7), Sch. 27); S.I. 2020/1236, reg. 2
+[^F30]: Sch. 7 para. 7 repealed (1.12.2020) by Sentencing Act 2020 (c. 17), s. 416(1), Sch. 28 (with ss. 413(4)(5), 416(7), Sch. 27); S.I. 2020/1236, reg. 2

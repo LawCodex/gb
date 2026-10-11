@@ -1,0 +1,2092 @@
+---
+title: "Proceeds of Crime (Scotland) Act 1995"
+identifier: "ukpga/1995/43"
+citation: "1995 c. 43"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S"
+date: 1995-11-08
+last_amended: 2024-01-04
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/1995/43"
+source_modified: 2024-04-02
+retrieved: 2026-10-11
+---
+
+# Proceeds of Crime (Scotland) Act 1995
+
+**1995 c. 43**
+
+An Act to consolidate as regards Scotland certain enactments relating to the confiscation of the proceeds of, and forfeiture of property used in, crime.
+
+[8th November 1995]
+
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## [^F1]PART I — Confiscation of the Proceeds of Crime
+
+### Confiscation orders
+
+#### 1 General provision.
+
+(1) Subject to the provisions of this Part, where in respect of any offence to which this Part applies—
+
+(a) the accused is convicted, whether in solemn or summary proceedings; or
+
+(b) in the case of summary proceedings (without proceeding to conviction) an order is made discharging him absolutely,
+
+the court, on the application of the prosecutor, may make an order (a “confiscation order”) requiring the accused to pay such sum as the court thinks fit.
+
+(2) This Part applies to any offence which has been prosecuted—
+
+(a) on indictment; or
+
+(b) on summary complaint if the offence is punishable by a fine of an amount greater than the amount corresponding to level 5 on the standard scale or by imprisonment for a period longer than 3 months or by both such fine and imprisonment,
+
+but it does not apply to an offence under [[^F2]any of sections 15 to 18 of the Terrorism Act 2000](financial assistance for terrorism).
+
+(3) A confiscation order shall not be made unless the court orders some other disposal (including an absolute discharge) in respect of the accused.
+
+(4) Except where the offence is a drug trafficking offence, the court may make a confiscation order against an accused only if it is satisfied that he has benefited from the commission of the offence concerned.
+
+(5) The sum which a confiscation order requires an accused to pay in the case of a drug trafficking offence shall be an amount not exceeding—
+
+(a) subject to paragraph (b) below, what the court assesses to be the value of the proceeds of the person’s drug trafficking; or
+
+(b) if the court is satisfied that the amount that might be realised in terms of this Act at the time the confiscation order is made has a value less than that of the proceeds of the person’s drug trafficking, what it assesses to be that amount.
+
+(6) The sum which a confiscation order requires an accused to pay in the case of an offence not mentioned in subsection (5) above, must not exceed the lesser of—
+
+(a) the amount of the benefit—
+
+(i) from the commission of the offence; or
+
+(ii) where section 2(4) of this Act applies, from the commission of the offence and any other offence, not being a drug trafficking offence, to which this Part of this Act applies; and
+
+(b) the amount that might be realised at the time the order is made.
+
+(7) Any application under this section shall be made—
+
+(a) in proceedings on indictment, when the prosecutor moves for sentence or, if the accused is remitted for sentence under section 195 of the 1995 Act, before sentence is pronounced; and
+
+(b) in summary proceedings, following the conviction of the accused.
+
+(8) For the purposes of any appeal or review, a confiscation order is a sentence.
+
+#### 2 Benefit from commission of offence
+
+(1) [^F3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) [^F3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) [^F3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) [^F3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) [^F3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6) [^F3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7) In this Act, “property” means any property wherever situated, whether heritable or moveable or whether corporeal or incorporeal.
+
+#### 3 Assessing the proceeds of drug trafficking.
+
+(1) For the purposes of this Act—
+
+(a) any payments or other rewards received by a person at any time (whether before or after the commencement of this Act) in connection with drug trafficking carried on by him or another are his proceeds of drug trafficking, and
+
+(b) the value of his proceeds of drug trafficking is the aggregate of the values of the payments or other rewards.
+
+(2) Without prejudice to section 9 of this Act the court may, in making an assessment as regards a person under section 1(5) of this Act, make the following assumptions, except in so far as any of them may be shown to be incorrect in that person’s case—
+
+(a) that any property appearing to the court—
+
+(i) to have been held by him at any time since his conviction; or, as the case may be,
+
+(ii) to have been transferred to him at any time since a date six years before his being indicted, or being served with the complaint,
+
+was received by him, at the earliest time at which he appears to the court to have held it, as a payment or reward in connection with drug trafficking carried on by him;
+
+(b) that any expenditure of his since the date mentioned in paragraph (a)(ii) above was met out of payments received by him in connection with drug trafficking carried on by him, and
+
+(c) that, for the purpose of valuing any property received or assumed to have been received by him at any time as such a reward, he received the property free of any other interests in it.
+
+(3) Subsection (2) above does not apply if the only offence by virtue of which the assessment is being made is an offence under section 14 of the [^M1]Criminal Justice (International Co-operation) Act 1990 or section 37 or 38 of the [^M2]Criminal Law (Consolidation) (Scotland) Act 1995.
+
+(4) The court shall, in making an assessment as regards a person under section 1(5) of this Act, leave out of account any of his proceeds of drug trafficking that are shown to the court to have been taken into account in a case where a confiscation order (whether under this Act or under and within the meaning of—
+
+(a) section 2 of the 1994 Act; or
+
+(b) any corresponding provision in Northern Ireland),
+
+has previously been made against him.
+
+#### 4 Realisable property.
+
+(1) In this Act “realisable property” means, subject to subsection (2) below—
+
+(a) the whole estate wherever situated of a person—
+
+(i) against whom proceedings have been instituted for an offence to which this Part of this Act applies; or
+
+(ii) in respect of whom a restraint order has been made by virtue of section 29(3) of this Act;
+
+(b) the whole estate wherever situated of a person to whom any person whose whole estate is realisable by virtue of paragraph (a) above has (directly or indirectly and whether in one transaction or in a series of transactions) made a gift caught by this Part of this Act or, as the case may be, an implicative gift;
+
+(c) any other property in the possession or under the control of a person mentioned in paragraph (a) or (b) above; and
+
+(d) any income or estate vesting in a person mentioned in paragraph (a) or (b) above.
+
+(2) Property is not realisable if—
+
+(a) held on trust by a person mentioned in subsection (1)(a) or (b) above for a person not so mentioned;
+
+(b) a suspended forfeiture order is in force in respect of the property; or
+
+(c) it is, for the time being, subject to a restraint order made in respect of other proceedings.
+
+(3) For the purposes of this Part of this Act, the amount that might be realised at the time a confiscation order is made in respect of a person is—
+
+(a) in relation to an offence which is not a drug trafficking offence, subject to section 7(5) of this Act, the total value at that time of all his realisable property, and of all gifts caught by this Part which have been made by him, less any amount due by him at that time in respect of any compensation order under section 249 of the 1995 Act made before the confiscation order; and
+
+(b) in relation to a drug trafficking offence, the total value at that time of all his realisable property and all implicative gifts which have been made by him.
+
+(4) In assessing the value of realisable property (other than money) of a person in respect of whom it proposes to make a confiscation order, the court shall have regard to the likely market value of the property at the date on which the order would be made; but it may also have regard to any security or real burden which would require to be discharged in realising the property or to any other factors which might reduce the amount recoverable by such realisation.
+
+(5) In assessing the value of realisable property of a person whose estate has been sequestrated, or who has been adjudged bankrupt in England and Wales or Northern Ireland, the court shall take into account the extent to which the property is subject to, as the case may be, sequestration or bankruptcy procedure by virtue of paragraph 1 or 2 of Schedule 2 to this Act.
+
+(6) Without prejudice to section 2(7) of this Act, the court may, for the purposes of section 1(5)(b) of this Act, disregard the amount (or part of the amount) of an implicative gift if it considers it improbable that such amount (or part) could be realised.
+
+#### 5 Gifts caught by Part I.
+
+(1) A gift is caught by this Part of this Act if—
+
+(a) it was made by the accused—
+
+(i) in contemplation of, or after, the commission of the offence; or, if more than one,
+
+(ii) in contemplation of any of the offences or after the commission of the earlier or the earliest of the offences,
+
+to which the proceedings mentioned in section 4(1)(a)(i) of this Act for the time being relate, not being drug trafficking offences; or
+
+(b) where subsection (4) of section 2 of this Act applies, it was made by the accused within the relevant period within the meaning of subsection (6) of that section.
+
+(2) The value of a gift caught by this Part of this Act shall be assessed in accordance with section 7 of this Act.
+
+(3) At any time before the realisation of property which is or represents a gift caught by this Part of this Act, the recipient of the gift may apply to the court for an order under this subsection, and, if the court is satisfied, on the balance of probabilities—
+
+(a) that the person received the gift not knowing, not suspecting and not having reasonable grounds to suspect that the gift was made in contemplation of, or after, the commission of the offence or, if more than one, in contemplation of any of the offences or after the commission of the earlier or the earliest of the offences to which the proceedings for the time being relate; and
+
+(b) that he was not associated with the giver in the commission of the offence; and
+
+(c) that he would suffer hardship if the application were not granted,
+
+it may make an order declaring that the gift or a part of the gift shall not be caught by this Part of this Act and that the property or part of the property of the recipient of the gift shall not be, or shall cease to be, realisable for the purposes of this Part of this Act and, if a confiscation order has already been made, varying that order accordingly, where necessary.
+
+(4) An appeal shall lie to the High Court at the instance of—
+
+(a) the applicant against the refusal;
+
+(b) the prosecutor against the granting,
+
+of an application under subsection (3) above, and the High Court in determining such an appeal may make such order as could have been made by the court on an application under that subsection.
+
+(5) The procedure in an appeal under this section shall be the same as the procedure in an appeal against sentence.
+
+#### 6 Implicative gifts.
+
+(1) In this Act references to an “implicative gift” are references to a gift (whether made before or after the commencement of this Act)—
+
+(a) made not more than six years before the date on which, in respect of a person suspected of, or charged with, a drug trafficking offence, the proceedings were commenced or a restraint order was made (whichever first occurs); or
+
+(b) made at any time if the gift was of property—
+
+(i) received by the giver in connection with drug trafficking carried on by him or another, or
+
+(ii) which, in whole or in part, directly or indirectly represented in the giver’s hands property received by him in that connection.
+
+(2) The value of an implicative gift shall be assessed in accordance with section 7 of this Act.
+
+(3) Where the court is satisfied, on the application of a person in receipt of an implicative gift made before or after a confiscation order has been made—
+
+(a) that the person received the gift not knowing, not suspecting and not having reasonable grounds to suspect that the giver was in any way concerned in drug trafficking; and
+
+(b) that he is not, and has never been, associated with the giver in drug trafficking; and
+
+(c) that he would suffer hardship if the application were not granted,
+
+it may make an order declaring that the gift or a part of the gift shall not be an implicative gift and that the property or part of the property of the recipient of the gift shall not be, or shall cease to be, realisable for the purposes of this Part of this Act and, if a confiscation order has already been made, varying that order accordingly, where necessary.
+
+(4) An appeal shall lie to the High Court at the instance of—
+
+(a) the applicant against the refusal;
+
+(b) the prosecutor against the granting,
+
+of an application under subsection (3) above on the ground that there has been a miscarriage of justice.
+
+(5) The procedure in an appeal under this section shall be the same as the procedure in an appeal against sentence.
+
+#### 7 Gifts: valuation.
+
+(1) In assessing the value of—
+
+(a) a gift caught by this Part of this Act; or
+
+(b) an implicative gift,
+
+the court shall, subject to subsections (4) to (6) below, take it to be the greater of the values specified in subsections (2) and (3) below.
+
+(2) The value specified in this subsection is the value of the gift when received adjusted to take account of subsequent changes in the value of money.
+
+(3) The value specified in this subsection is both of the following—
+
+(a) the likely market value, on the date on which the confiscation order is to be made, of—
+
+(i) the gift, if retained; or
+
+(ii) where the recipient of the gift retains only part of it, the retained part, and any property or part of any property which, directly or indirectly, represents the gift; or
+
+(iii) where the recipient of the gift retains no part of it, any property or part of any property which, directly or indirectly, represents the gift; and
+
+(b) the value of any other property and any other economic advantage which by reason of the making of the gift the recipient of the gift has obtained, directly or indirectly, prior to the date on which the confiscation order is to be made, adjusted to take account of subsequent changes in the value of money.
+
+(4) The circumstances in which the accused is to be treated as making a gift include those where he transfers an interest in property to another person directly or indirectly for a consideration the value of which is significantly less than the value of that interest at the time of transfer; and in those circumstances the value of the gift shall be the difference between the value of that consideration and the value of that interest at the time of transfer, adjusted to take account of subsequent changes in the value of money.
+
+(5) Where a gift was in the form of money and the recipient of the gift shows that, on the balance of probabilities, the money or any of it has not been used to purchase goods or services or to earn interest or any other return, the value of the gift or such part of it as has not been so used shall be taken to be the face value of the money or, as the case may be, unused amount of the money.
+
+(6) The court may, notwithstanding the foregoing provisions of this section, disregard the amount (or part of the amount) of a gift caught by this Part of this Act if it considers it improbable that such amount (or part) could be realised.
+
+#### 8 Making of confiscation orders.
+
+(1) If the court decides to make a confiscation order, it shall determine the amount to be payable thereunder before making any decision as to—
+
+(a) imposing a fine on the accused;
+
+(b) making any order involving any payment by him.
+
+(2) Where a court makes a confiscation order against an accused in any proceedings, it shall, in respect of any offence of which he is convicted in those proceedings, take account of the order before—
+
+(a) imposing any fine on him;
+
+(b) making any order involving any other payment by him,
+
+but subject to that, the court shall leave the order out of account in determining the appropriate sentence or other manner of dealing with the accused.
+
+(3) No enactment restricting the power of a court which deals with an accused in a particular way from dealing with him also in any other way shall, by reason only of the making of a confiscation order (or the postponement of a decision as regards making such an order), have the effect of restricting the court in dealing with the accused in any way it considers appropriate in respect of an offence.
+
+(4) Where a court makes both a confiscation order and a compensation order under section 249 of the 1995 Act against the same person in the same proceedings in relation to the same offence and the offence involves the misappropriation of property, it shall direct that the compensation shall be paid first out of any sums applied towards the satisfaction of the confiscation order.
+
+#### 9 Statements relevant to making confiscation orders.
+
+(1) Where the prosecutor applies for the making of a confiscation order, the prosecutor may lodge with the clerk of court a statement as to any matters relevant—
+
+(a) in connection with a drug trafficking offence, to the assessment of the value of the accused’s proceeds of drug trafficking; and
+
+(b) in connection with any other offence—
+
+(i) to determining whether the accused has benefited for the purposes of section 1(6)(a) of this Act; or
+
+(ii) to an assessment of the value of the accused’s benefit from the commission of the offence.
+
+(2) Without prejudice to section 256 of the 1995 Act, if the accused accepts to any extent any allegation in the statement lodged under subsection (1) above, the court may, for the purpose of such determination or assessment as is mentioned in paragraph (a) or (b) of that subsection, treat his acceptance as conclusive of the matters to which it relates.
+
+(3) Where—
+
+(a) a statement is lodged under subsection (1) above; and
+
+(b) the court is satisfied that a copy of that statement has been served on the accused,
+
+the court may require the accused to indicate, within such period as the court may specify, to what extent he accepts each allegation in the statement and, in so far as he does not accept any such allegation, to indicate the basis of such non-acceptance.
+
+(4) If the accused fails in any respect to comply with a requirement under subsection (3) above, he may be treated for the purposes of this section as accepting every allegation in the statement apart from any allegation in respect of which he has complied with the requirement.
+
+(5) Without prejudice to section 256 of the 1995 Act, where—
+
+(a) there is lodged with the clerk of court by the accused a statement as to any matters relevant to determining the amount that might be realised at the time the confiscation order is made; and
+
+(b) the prosecutor accepts to any extent any allegation in the statement,
+
+the court may, for the purposes of that determination, treat that acceptance as conclusive of the matters to which it relates.
+
+(6) Without prejudice to section 10(1) of this Act, where—
+
+(a) any allegation in the statement lodged under subsection (1) above is challenged by the accused, or
+
+(b) the basis of the non-acceptance by the accused of any such allegation is challenged by the prosecutor,
+
+the court shall consider the matters being challenged at a hearing.
+
+(7) Where the judge presiding at a hearing held under subsection (6) above is not the trial judge he may, on the application of either party, if he considers that it would be in the interests of justice to do so, adjourn the hearing to a date when the trial judge is available.
+
+(8) No acceptance by a person under this section that any payment or other reward was received by him in connection with drug trafficking carried on by him or another shall be admissible in evidence in any proceedings, whether in Scotland or elsewhere, in respect of an offence.
+
+#### 10 Postponed confiscation orders.
+
+(1) If the court considers—
+
+(a) that it has some, but not sufficient, relevant information for the purpose of enabling it to come to a decision as to whether to make a confiscation order; or
+
+(b) that it does not have sufficient relevant information to enable it to come to a decision as to the amount to be payable under the confiscation order,
+
+it may, subject as the case may be to subsection (6) or (10) below, postpone that decision for a period not exceeding 6 months after the date of conviction for the purpose of enabling further information to be obtained.
+
+(2) Without prejudice to sections 201 and 202 of the 1995 Act, the court may notwithstanding postponement under subsection (1) above and subject to subsection (3) below, proceed, on the prosecutor’s motion therefor, to sentence or to otherwise deal with the accused in respect of the conviction.
+
+(3) Where the court proceeds as mentioned in subsection (2) above—
+
+(a) no fine shall be imposed on the accused; and
+
+(b) no order shall be made involving any other payment by him,
+
+in relation to the conviction before the decision whether to make a confiscation order is taken.
+
+(4) Where in the case of conviction on indictment a decision has been postponed under subsection (1) above for a period, any intention to appeal under section 106 of the 1995 Act against conviction or against both conviction and any sentence passed during that period in respect of the conviction, shall be intimated under section 109(1) of the 1995 Act not within 2 weeks of the final determination of the proceedings but within 2 weeks of—
+
+(a) in the case of an appeal against conviction where there has been no such sentence, the day on which the period of postponement commences;
+
+(b) in any other case, the day on which such sentence is passed in open court.
+
+(5) Notwithstanding any appeal of which intimation has been given by virtue of subsection (4) above, a person may appeal under section 106 of the 1995 Act against the confiscation order (if the decision is to make one) or against any other sentence passed, after the period of postponement, in respect of the conviction.
+
+(6) If during the period of postponement intimation is given by virtue of subsection (4) above by the person, the High Court may, on the application of the prosecutor, extend that period to a date up to 3 months after the date of disposal of the appeal.
+
+(7) This subsection applies where in the case of summary conviction a decision has been postponed under subsection (1) above for a period.
+
+(8) Where subsection (7) above applies and the offender appeals under section 175 of the 1995 Act against conviction or against both conviction and any sentence passed during the period of postponement—
+
+(a) his application for a stated case shall be made not within one week of the final determination of the proceedings but within one week of the day mentioned in paragraph (a) or (b) of subsection (4) above;
+
+(b) his draft stated case shall be prepared and issued not within 3 weeks of the final determination of the proceedings but within 3 weeks of the said day.
+
+(9) Where subsection (7) above applies, then, notwithstanding any appeal against conviction or sentence or both, the offender may appeal under section 175(2)(b), and the prosecutor may appeal under section 175(3)(b), of the 1995 Act against any confiscation order or against any other sentence passed, after the period of postponement, in respect of the conviction.
+
+(10) Where subsection (7) above applies, then, if during the period of postponement the offender applies for a stated case or lodges a note of appeal, the High Court may, on the application of the prosecutor, extend the period of postponement to a date up to 3 months after the date of disposal of the appeal.
+
+#### 11 Increase in benefit or realisable property.
+
+(1) This section applies where the court which made a confiscation order is satisfied, on an application made by the prosecutor, that at the time the application is made—
+
+(a) in the case of a drug trafficking offence, the value of the proceeds of the person’s drug trafficking, or the amount that might be realised, is greater than—
+
+(i) the value of the proceeds of his drug trafficking; or, as the case may be,
+
+(ii) the amount that might be realised; or
+
+(b) in any other case, the benefit for the purposes of section 1(6)(a) of this Act, or the amount that might be realised, is greater than—
+
+(i) the benefit; or, as the case may be,
+
+(ii) the amount that might be realised,
+
+which was taken into account when the order was made.
+
+(2) The considerations by reference to which the court may be satisfied as mentioned in subsection (1) above shall include—
+
+(a) the value of the proceeds of the person’s drug trafficking or, as the case may be, the benefit was greater than was taken into account when the confiscation order was made or has increased in value since the confiscation order was made; or
+
+(b) further proceeds of drug trafficking have or benefit has been obtained since the confiscation order was made; or
+
+(c) the value of realisable property was greater than was taken into account when the confiscation order was made; or
+
+(d) any realisable property taken into account at the time when the confiscation order was made has subsequently increased in value; or
+
+(e) that the amount, or part of the amount, of a gift which was disregarded under section 7(6) of this Act could now be realised.
+
+(3) An application under subsection (1) above shall be made as soon as is reasonably practicable after the relevant information becomes available to the prosecutor but in any event within 6 years commencing with the date when the person was convicted of the offence.
+
+(4) Where this section applies—
+
+(a) the court may make a new confiscation order for the payment of such sum as appears to the court to be appropriate having regard to what is now shown to be the benefit or the amount that might be realised; and
+
+(b) if the earlier confiscation order has not been satisfied then the court, in making the new confiscation order, shall recall the earlier order and may take into account the amount unpaid (including any interest payable by virtue of section 15(1) of this Act) under the earlier order.
+
+(5) Subsection (4) above applies to an offence which is not a drug trafficking offence notwithstanding that any matters in relation to the making of the confiscation order are, by virtue of section 9(2) or (5) of this Act, to be treated as conclusive.
+
+(6) Section 9 of this Act shall, subject to any necessary modifications, apply in relation to the making of a new confiscation order in pursuance of this section as it applies where the prosecutor has applied for the making of a confiscation order under section 1 of this Act.
+
+(7) The assumptions mentioned in, as the case may be, section 3(2) or 2(2) and (5) of this Act shall not apply for the purposes of this section.
+
+#### 12 Realisable property inadequate to meet payments under confiscation order.
+
+(1) This section applies where the court which made a confiscation order is satisfied on the balance of probabilities, on an application made to it by the accused or the prosecutor, that the value of the realisable property is inadequate to meet any amount unpaid (including any interest payable by virtue of section 15(1) of this Act) under the confiscation order.
+
+(2) When considering whether the value of the realisable property is inadequate the court—
+
+(a) shall, unless already taken into account under section 4(5) of this Act, take into account the extent to which property of a person whose estate has been sequestrated or who has been adjudged bankrupt is or has been included in the bankrupt’s estate for the purposes of the [^M3]Bankruptcy (Scotland) Act 1985 or Part IX of the [^M4]Insolvency Act 1986; and
+
+(b) may disregard any inadequacy which appears to it to be attributable, wholly or partly, to anything done by the accused for the purpose of protecting the realisable property from realisation.
+
+(3) Where this section applies, the court shall recall the confiscation order and make a new confiscation order for the payment of such sum of a lesser amount than that for which the original order was made which appears to the court to be appropriate having regard to—
+
+(a) the value of the realisable property as determined under subsection (1) above; and
+
+(b) any amount paid in pursuance of the original order.
+
+(4) Section 9 of this Act shall, subject to any necessary modifications, apply in relation to an application under this section as it applies where the prosecutor has applied for the making of a confiscation order under section 1 of this Act.
+
+#### 13 Confiscation orders where proceeds of crime discovered at later date.
+
+(1) This section applies where no confiscation order has been made in relation to an offence under section 1 or 10 of this Act.
+
+(2) Where the court, on an application made to it by the prosecutor under this section, is satisfied—
+
+(a) that a person convicted of—
+
+(i) an offence other than a drug trafficking offence has benefited in connection with the commission of the offence concerned; or
+
+(ii) a drug trafficking offence was in receipt of the proceeds of drug trafficking in respect of that offence;
+
+(b) that the information necessary to enable a confiscation order to be made on the date on which an application under section 1 of this Act was or could have been made was not available to the prosecutor,
+
+it may make a confiscation order in relation to that person.
+
+(3) An application under this section shall be made as soon as is reasonably practicable after the relevant information becomes available to the prosecutor but in any event not later than 6 years after the date when the person was convicted of the offence.
+
+(4) In determining the sum to be payable under a confiscation order made in pursuance of this section, the court shall take into account—
+
+(a) any order involving any payment by the offender;
+
+(b) any suspended forfeiture order or an order for forfeiture under any other enactment made in respect of the offender,
+
+which forms part of the sentence already imposed for the offence concerned.
+
+(5) Sections 1(3) and 8(1), (2) and (4) of this Act shall not apply in relation to a confiscation order made in pursuance of this section.
+
+(6) Section 9 of this Act shall, subject to any necessary modifications, apply in relation to the making of a confiscation order in pursuance of this section as it applies where the prosecutor has applied for the making of a confiscation order under section 1 of this Act.
+
+(7) Where the court makes a confiscation order in pursuance of this section and a compensation order has been made under section 249 of the 1995 Act in respect of misappropriation of property by the offender, the court shall direct that compensation shall first be paid out of any sums applied towards the satisfaction of the confiscation order to the extent of any sums outstanding in respect of the compensation order.
+
+(8) The assumptions mentioned in, as the case may be, section 2(2) and (5) or 3(2) of this Act shall not apply for the purposes of this section.
+
+(9) In determining the sum to be payable as mentioned in subsection (4) above in connection with a drug trafficking offence, the court may take into account any payment or other reward received by the offender on or after the date of conviction, but only if the prosecutor satisfies the court that it was received by the offender in connection with drug trafficking carried on by the offender or another on or before that date.
+
+(10) In this section “the court” means the court which had jurisdiction in respect of the offence concerned to make a confiscation order under section 1 of this Act.
+
+#### 14 Application of provisions relating to fines to enforcement of confiscation orders.
+
+(1) Section 211(3) to (6) of the 1995 Act and the other provisions of that Act specified in subsection (2) below shall, subject to the qualifications mentioned in that subsection, apply in relation to confiscation orders as they apply in relation to fines; and section 91 of the [^M5]Magistrates’ Courts Act 1980 and Article 96 of the [^M6]Magistrates’ Courts (Northern Ireland) Order 1981 (provisions relating to transfer of fines from Scotland etc.) shall be construed accordingly.
+
+(2) The provisions of the 1995 Act mentioned in subsection (1) above are—
+
+(a) section 214, provided that—
+
+(i) any allowance under that section of time (or further time) for payment; or
+
+(ii) any order of payment by instalments,
+
+shall be without prejudice to the exercise by any administrator appointed in relation to the confiscation order of his powers and duties under this Act; and the court may, pending such exercise, postpone any decision as to refusing or allowing time (or further time) for payment or, as the case may be, making an order of payment by instalments;
+
+(b) section 215, subject to the like proviso as in paragraph (a) above;
+
+(c) section 216, but as if subsection (1)—
+
+(i) gave the prosecutor an opportunity to be heard at any enquiry thereunder; and
+
+(ii) applied whether the offender was in prison or not;
+
+(d) section 217;
+
+(e) section 218(2) and (3);
+
+(f) section 219, provided that—
+
+(i) where a court imposes a period of imprisonment both in respect of a fine and of a confiscation order the amounts in respect of which the period is imposed shall, for the purposes of subsection (2) of that section, be aggregated; and
+
+(ii) before imposing a period of imprisonment to which there is a liability by virtue of that section the court shall, if an administrator has been appointed in relation to the confiscation order, require a report from him as to whether and in what way he is likely to exercise his powers and duties under this Act and shall take that report into account; and the court may, pending such exercise, postpone any decision as to such imposition;
+
+(g) section 220, except that the reference in subsection (1) of that section to the person paying a sum to the governor of the prison under conditions prescribed by rules made under the [^M7]Prisons (Scotland) Act 1989 shall be construed as including a reference to an administrator appointed in relation to the confiscation order making such payment under this Act in respect of the person;
+
+(h) section 221, provided that an order of recovery by civil diligence shall not be made under the section where an administrator is appointed in relation to the confiscation order
+
+(i) section 222; except that for the purposes of that section “confiscation order” in subsection (1) above shall be construed as including such an order within the meaning of the 1994 Act or of any corresponding provision in Northern Ireland;
+
+(j) section 223;
+
+(k) section 224.
+
+[[^F4](l) section 248B.]
+
+(3) Where a court, by virtue of subsection (1) above, orders the sum due under a confiscation order to be recovered by civil diligence under section 221 of the 1995 Act, any arrestment executed by a prosecutor under subsection (2) of section 33 of this Act shall be deemed to have been executed by the court as if that subsection authorised such execution.
+
+(4) Where in any proceedings a confiscation order has been made as regards a person and a period of imprisonment or detention is imposed on him in default of payment of its amount (or as the case may be of an instalment thereof), that period shall run from the expiry of any other period of imprisonment or detention (not being one of life imprisonment or detention for life) imposed on him in the proceedings.
+
+(5) The reference in subsection (4) above to “any other period of imprisonment or detention imposed” includes (without prejudice to the generality of the expression) a reference to such a period on default of payment of a fine (or instalment thereof); but only where that default had occurred before the warrant for imprisonment is issued for the default in relation to the order.
+
+#### 15 Interest on sums unpaid under confiscation orders.
+
+(1) If any sum required to be paid by a person under a confiscation order is not paid when it is required to be paid (whether forthwith on the making of the order or at a time specified under section 214(1) of the 1995 Act) that person shall be liable to pay interest on that sum for the period for which it remains unpaid and the amount of the interest shall for the purposes of enforcement be treated as part of the amount to be recovered from him under the confiscation order.
+
+(2) The sheriff may, on the application of the prosecutor, increase the term of imprisonment or detention fixed in respect of the confiscation order under section 214(2) of the 1995 Act if the effect of subsection (1) above is to increase the maximum period applicable in relation to the order under section 219(2) of the 1995 Act.
+
+(3) The rate of interest under subsection (1) above shall be the rate payable under a decree of the Court of Session.
+
+### Exercise of powers
+
+#### 16 Exercise of powers by court or administrator.
+
+(1) This section applies to the powers as regards realisable property conferred on the court by sections 28, 29, 31, 32 and 33 of and paragraphs 1, 4, and 12 of Schedule 1 to this Act in relation to confiscation orders and on an administrator by that Schedule.
+
+(2) Subject to the following provisions of this section, the powers shall be exercised with a view to making available for satisfying the confiscation order or, as the case may be, any confiscation order that may be made in the case of a person mentioned in section 4(1)(a) of this Act the value for the time being of realisable property held by any person by the realisation of such property.
+
+(3) In the case of realisable property held by a person by virtue only of having received a gift made directly or indirectly by the accused which is caught by this Part of this Act, the powers shall be exercised with a view to realising no more than the value of the gift as assessed under section 7 of this Act.
+
+(4) The powers shall be exercised with a view to allowing any person other than a person mentioned in paragraph (a) and, in relation to a drug trafficking offence, paragraph (b) of section 4(1) of this Act or the recipient of any such gift to retain or recover the value of any property held by him.
+
+(5) An order may be made or other action taken in respect of a debt owed by the Crown.
+
+(6) In exercising those powers, no account shall be taken of any obligations of such a person or of the recipient of any such gift which conflict with the obligation to satisfy the confiscation order.
+
+(7) Subsections (2) to (6) of section 31 of the 1994 Act (exercise of powers by High Court etc.) shall apply as regards the powers conferred on the court by sections 35, 36, 37 and 38 of this Act as those subsections apply as regards the powers conferred on the High Court (within the meaning that expression has in relation to England and Wales) by the sections mentioned in subsection (1) of the said section 31.
+
+### Compensation
+
+#### 17 Compensation.
+
+(1) Subject to subsection (3) below, if proceedings are instituted against a person for an offence to which this Part of this Act applies, and either—
+
+(a) the proceedings do not result in his conviction for any such offence, or
+
+(b) where he is convicted of one or more such offences—
+
+(i) the conviction or convictions concerned are quashed (and no conviction for any such offence is substituted); or
+
+(ii) he is pardoned by Her Majesty in respect of the conviction or convictions concerned,
+
+the court may, on an application by a person who held property which was realisable property, order compensation to be paid to the applicant if, having regard to all the circumstances, it considers it appropriate to do so.
+
+(2) Subsection (1) above is without prejudice to any right which may otherwise exist to institute proceedings in respect of delictual liability disclosed by such circumstances as are mentioned in paragraphs (a) and (b) of subsection (3) below.
+
+(3) The court shall not order compensation to be paid under subsection (1) above in any case unless satisfied—
+
+(a) that there has been some serious default on the part of a person concerned in the investigation of the offence or offences concerned, being a person mentioned in subsection (5) below, and that, but for that default, the proceedings would not have been instituted or continued; and
+
+(b) that the applicant has suffered loss or damage in consequence of anything done in relation to the property under section 28, 29, 31, 32, 33 or 42 of or Schedule 1 to this Act or by virtue of section 37 of the 1994 Act (recognition and enforcement in England and Wales of orders and functions under this Act).
+
+(4) The amount of compensation to be paid under this section shall be such as the court thinks just in all the circumstances of the case.
+
+(5) Compensation payable under this section shall be paid, where the person in default was—
+
+(a) a constable of a police force within the meaning of the [^M8]Police (Scotland) Act 1967, by the police authority or joint police board for the police area for which that force is maintained;
+
+(b) a constable other than is mentioned in paragraph (a) above, but with the powers of such a constable, by the body under whose authority he acts;
+
+(c) a procurator fiscal or was acting on behalf of the Lord Advocate, by the Lord Advocate;
+
+(d) a person commissioned by the Commissioners of Customs and Excise, by those Commissioners; and
+
+(e) an officer of the Commissioners of Inland Revenue, by those Commissioners.
+
+(6) An application for compensation under this section shall be made not later than three years after the conclusion of the proceedings in respect of which the confiscation order was made; and subsection (6) of section 29 of this Act shall apply for the purpose of determining when proceedings are concluded for the purposes of this subsection as it applies for the purposes of that section.
+
+(7) In this section, “the court” means the Court of Session or the sheriff exercising his civil jurisdiction.
+
+### Investigation and disclosure of information
+
+#### 18 Order to make material available.
+
+(1) The procurator fiscal may, for the purpose of an investigation into whether a person has benefited from the commission of an offence to which this Part of this Act applies and as to the amount of that benefit, apply to the sheriff for an order under subsection (2) below in relation to particular material or material of a particular description.
+
+(2) If on such an application the sheriff is satisfied that the conditions in subsection (4) below are fulfilled, he may, subject to section 20(11) of this Act, make an order that the person who appears to him to be in possession of the material to which the application relates shall—
+
+(a) produce it to a constable for him to take away; or
+
+(b) give a constable access to it,
+
+within such period as the order may specify.
+
+(3) The period to be specified in an order under subsection (2) above shall be seven days unless it appears to the sheriff that a longer or shorter period would be appropriate in the particular circumstances of the application.
+
+(4) The conditions referred to in subsection (2) above are—
+
+(a) that there are reasonable grounds for suspecting that a specified person has benefited from the commission of an offence to which this Part of this Act applies;
+
+(b) that there are reasonable grounds for suspecting that the material to which the application relates—
+
+(i) is likely to be of substantial value (whether by itself or together with other material) to the investigation for the purpose of which the application is made; and
+
+(ii) does not consist of or include items subject to legal privilege; and
+
+(c) that there are reasonable grounds for believing that it is in the public interest, having regard—
+
+(i) to the benefit likely to accrue to the investigation if the material is obtained; and
+
+(ii) to the circumstances under which the person in possession of the material holds it,
+
+that the material should be produced or that access to it should be given.
+
+(5) Where the sheriff makes an order under subsection (2)(b) above in relation to material on any premises he may, on the application of the procurator fiscal, order any person who appears to him to be entitled to grant entry to the premises to allow a constable to enter the premises to obtain access to the material.
+
+(6) An application under subsection (1) or (5) above may be made*ex parte* in chambers.
+
+(7) Provision may be made by rules of court as to—
+
+(a) the discharge and variation of orders under this section, and
+
+(b) proceedings relating to such orders.
+
+(8) Where the material to which an application under this section relates consists of information contained in a computer—
+
+(a) an order under subsection (2)(a) above shall have effect as an order to produce the material in a form in which it can be taken away and in which it is visible and legible; and
+
+(b) an order under subsection (2)(b) above shall have effect as an order to give access to the material in a form in which it is visible and legible.
+
+(9) An order under subsection (2) above—
+
+(a) shall not confer any right to production of, or access to, items subject to legal privilege;
+
+(b) shall have effect notwithstanding any obligation as to secrecy or other restriction upon the disclosure of information imposed by statute or otherwise; and
+
+(c) may be made in relation to material in the possession of an authorised government department;
+
+and in this subsection “authorised government department” means a government department which is an authorised department for the purposes of the [^M9]Crown Proceedings Act 1947.
+
+(10) In this section—
+
+(a) “items subject to legal privilege” and “premises” have the same meanings as in section 33 of the [^M10]Criminal Law (Consolidation) (Scotland) Act 1995; and
+
+(b) references to a person benefiting from the commission of an offence to which this Part of this Act applies, in relation to conduct which is not such an offence but which would have been if it had occurred in Scotland, shall be construed in accordance with section 2 of this Act as if that conduct had so occurred.
+
+(11) This section and sections 19 and 20 of this Act do not apply to investigations into drug trafficking.
+
+[[^F5](12) In this section “constable” includes a person commissioned by the Commissioners of Customs and Excise.]
+
+#### 19 Authority for search.
+
+(1) The procurator fiscal may, for the purpose of an investigation into whether a person has benefited from the commission of an offence to which this Part of this Act applies and as to the amount of that benefit, apply to the sheriff for a warrant under this section in relation to specified premises.
+
+(2) On such application the sheriff may issue a warrant authorising a constable to enter and search the premises if the sheriff is satisfied—
+
+(a) that an order made under section 18 of this Act in relation to material on the premises has not been complied with; or
+
+(b) that the conditions in subsection (3) below are fulfilled; or
+
+(c) that the conditions in subsection (4) below are fulfilled.
+
+(3) The conditions referred to in subsection (2)(b) above are—
+
+(a) that there are reasonable grounds for suspecting that a specified person has benefited from the commission of an offence to which this Part of this Act applies; and
+
+(b) that the conditions in section 18(4)(b) and (c) of this Act are fulfilled in relation to any material on the premises; and
+
+(c) that it would not be appropriate to make an order under that section in relation to the material because—
+
+(i) it is not practicable to communicate with any person entitled to produce the material; or
+
+(ii) it is not practicable to communicate with any person entitled to grant access to the material or entitled to grant entry to the premises on which the material is situated; or
+
+(iii) the investigation for the purposes of which the application is made might be seriously prejudiced unless a constable could secure immediate access to the material.
+
+(4) The conditions referred to in subsection (2)(c) above are—
+
+(a) that there are reasonable grounds for suspecting that a specified person has benefited from the commission of an offence to which this Part of this Act applies; and
+
+(b) that there are reasonable grounds for suspecting that there is on the premises material relating to the specified person, or to the question whether that person has so benefited or the amount of that benefit, which is likely to be of substantial value (whether by itself or together with other material) to the investigation for the purpose of which the application is made, but that the material cannot at the time of the application be particularised; and
+
+(c) that—
+
+(i) it is not practicable to communicate with any person entitled to grant entry to the premises; or
+
+(ii) entry to the premises will not be granted unless a warrant is produced; or
+
+(iii) the investigation for the purpose of which the application is made might be seriously prejudiced unless a constable arriving at the premises could secure immediate entry to them.
+
+(5) Where a constable has entered premises in the execution of a warrant issued under this section, he may seize and retain any material, other than items subject to legal privilege, which is likely to be of substantial value (whether by itself or together with other material) to the investigation for the purpose of which the warrant was issued.
+
+(6) [[^F6]Subsections (10) and (12)] of section 18 of this Act shall apply for the purposes of this section as [[^F6]they apply] for the purposes of that section.
+
+#### 20 Disclosure of information held by government departments.
+
+(1) Subject to subsection (4) below, the Court of Session may on an application by the Lord Advocate order any material mentioned in subsection (3) below which is in the possession of an authorised government department to be produced to the Court within such period as the Court may specify.
+
+(2) The power to make an order under subsection (1) above is exercisable if—
+
+(a) the powers conferred on the Court by section 28(1)(a) of this Act are exercisable by virtue of section 29(2) of this Act; or
+
+(b) those powers are exercisable by virtue of section 29(3) of this Act and the Court has made a restraint order which has not been recalled.
+
+(3) The material referred to in subsection (1) above is any material which—
+
+(a) has been submitted to an officer of an authorised government department by a person who holds, or has at any time held, realisable property;
+
+(b) has been made by an officer of an authorised government department in relation to such a person; or
+
+(c) is correspondence which passed between an officer of an authorised government department and such a person;
+
+and an order under that subsection may require the production of all such material or of a particular description of such material, being material in the possession of the department concerned.
+
+(4) An order under subsection (1) above shall not require the production of any material unless it appears to the Court of Session that the material is likely to contain information that would facilitate the exercise of the powers conferred on the Court by section 28(1)(a) of or paragraph 1 or 12 of Schedule 1 to this Act or on an administrator appointed under paragraph 1(1) of that Schedule.
+
+(5) The Court may by order authorise the disclosure to such an administrator of any material produced under subsection (1) above or any part of such material; but the Court shall not make an order under this subsection unless a reasonable opportunity has been given for an officer of the department to make representations to the Court.
+
+(6) Material disclosed in pursuance of an order under subsection (5) above may, subject to any conditions contained in the order, be further disclosed for the purposes of the functions under this Act of the administrator or the High Court.
+
+(7) The Court of Session may by order authorise the disclosure to a person mentioned in subsection (8) below of any material produced under subsection (1) above or any part of such material; but the Court shall not make an order under this subsection unless—
+
+(a) a reasonable opportunity has been given for an officer of the department to make representations to the Court; and
+
+(b) it appears to the Court that the material is likely to be of substantial value in exercising functions relating to the investigation of crime.
+
+(8) The persons referred to in subsection (7) above are—
+
+(a) a constable;
+
+(b) the Lord Advocate or any procurator fiscal; and
+
+(c) an officer within the meaning of the [^M11]Customs and Excise Management Act 1979.
+
+(9) Material disclosed in pursuance of an order under subsection (7) above may, subject to any conditions contained in the order, be further disclosed for the purposes of functions relating to the investigation of crime or whether any person has benefited from the commission of an offence to which this Part of this Act applies or the amount of that benefit.
+
+(10) Material may be produced or disclosed in pursuance of this section notwithstanding any obligation as to secrecy or other restriction upon the disclosure of information imposed by statute or otherwise.
+
+(11) An order under subsection (1) above and, in the case of material in the possession of an authorised government department, an order under section 18(2) of this Act may require any officer of the department (whether named in the order or not) who may for the time being be in possession of the material concerned to comply with such order; and any such order shall be served as if the proceedings were civil proceedings against the department.
+
+(12) Where any requirement is included in any order by virtue of subsection (11) above, the person on whom the order is served—
+
+(a) shall take all reasonable steps to bring it to the attention of the officer concerned; and
+
+(b) if the order is not brought to that officer’s attention within the period referred to in subsection (1) above, shall report the reasons for the failure to the Court of Session,
+
+and it shall also be the duty of any other officer of the department in receipt of the order to take such steps as are mentioned in paragraph (a) above.
+
+(13) In this section “authorised government department” means a government department which is an authorised department for the purposes of the [^M12]Crown Proceedings Act 1947; and subsection (10) of section 18 of this Act shall apply for the purposes of this section as it applies for the purposes of that section
+
+## PART II — Forfeiture of Property used in Crime
+
+### 21 Suspended forfeiture order.
+
+(1) This section applies where in respect of any offence—
+
+(a) the accused is convicted, whether in solemn or summary proceedings; or
+
+(b) in the case of summary proceedings, (without proceeding to conviction) an order is made discharging him absolutely.
+
+(2) Where this section applies, the court may, if it is satisfied on the application of the prosecutor that any property which was at the time of the offence or of the accused’s apprehension in his ownership or possession or under his control—
+
+(a) has been used for the purpose of committing, or facilitating the commission of, any offence; or
+
+(b) was intended to be used for that purpose,
+
+make an order (a “suspended forfeiture order”) in respect of that property.
+
+(3) Any application under this section shall be made—
+
+(a) in proceedings on indictment, when the prosecutor moves for sentence or if the accused is remitted for sentence under section 195 of the 1995 Act, before sentence is pronounced; and
+
+(b) in summary proceedings, following upon the conviction of the accused or, as the case may be, the finding that he committed the offence with which he was charged.
+
+(4) If the prosecutor knows or reasonably suspects the identity of a person (other than the accused) as being the owner of, or otherwise having an interest in, the property to which the suspended forfeiture order relates, he shall intimate that fact to the court on making the application and the order shall name that person as a person having an interest or suspected of having an interest in the property.
+
+(5) Any reference in this Part of this Act to facilitating the commission of an offence shall include a reference to the taking of any steps after it has been committed for the purpose of disposing of any property to which it relates or of avoiding apprehension or detection.
+
+(6) Where, by itself, the use of property constitutes an offence in whole or in part, that property shall be regarded for the purpose of subsection (2)(a) above as used for the purpose of committing the offence, unless the enactment which created the offence expressly excludes the application of this section.
+
+(7) Subject to subsection (8) below, where the accused is convicted of an offence under any enactment, the court shall not be precluded from making a suspended forfeiture order in respect of any property by reason only that the property would not be liable to forfeiture under that enactment.
+
+(8) Subsection (7) above shall not apply—
+
+(a) if the enactment concerned expressly excludes the application of this section; or
+
+(b) to any property which has been used or has been intended to be used as mentioned in subsection (2)(a) or (b) above in relation to the offence of which the accused has been convicted, if the enactment concerned specifies the category of property which is to be liable to forfeiture thereunder, and the category so specified does not include the category of property which has been used or has been intended to be used as aforesaid.
+
+(9) Where the court makes both a suspended forfeiture order and a compensation order under section 249 of the 1995 Act against the same accused in the same proceedings, it may order that, in the event of the property subject to the suspended forfeiture order being forfeited under section 24 of this Act, the proceeds of sale of that property shall be first directed towards satisfaction of the compensation order.
+
+(10) As soon as may be after a suspended forfeiture order has been made, the prosecutor—
+
+(a) shall notify in writing any person named in the order in pursuance of subsection (4) above that the order has been made, and that the person so notified may be entitled to apply to the court for—
+
+(i) the order to be recalled under section 25 of this Act; or
+
+(ii) a direction under section 26 of this Act; and
+
+(b) if the property in respect of which the order has been made includes heritable property in Scotland, shall cause a certified copy of the order to be recorded in the General Register of Sasines or as the case may be registered in the Land Register of Scotland; and
+
+(c) if the court directs him to do so, shall insert a notice in the Edinburgh Gazette or in such other newspaper or journal as appears to the court to be appropriate specifying the terms of the suspended forfeiture order.
+
+(11) Any property in respect of which a suspended forfeiture order is made shall be taken into the possession of or placed under the control of the clerk of court until—
+
+(a) the order is recalled; or
+
+(b) the property is forfeited to the Crown and disposed of under section 24 of this Act or forfeited to another person under that section.
+
+(12) For the purposes of any appeal or review a suspended forfeiture order is a sentence.
+
+(13) In this section “the court” does not include a district court, whether or not constituted by a stipendiary magistrate.
+
+### 22 Forfeiture: district court.
+
+(1) Where, in respect of any offence tried in the district court, the accused is convicted or (without proceeding to conviction) an order is made discharging him absolutely the court may, if it is satisfied on the application of the prosecutor that any moveable property which was at the time of the offence or of the accused’s apprehension in his ownership or possession or under his control—
+
+(a) has been used for the purpose of committing, or facilitating the commission of, any offence; or
+
+(b) was intended to be used for that purpose,
+
+order that the property shall be forfeited to and vest in the Crown or such other person as the court may direct.
+
+(2) Any application under subsection (1) above shall be made following upon the conviction of the accused or, as the case may be, the finding that he committed the offence with which he was charged.
+
+(3) Where, by itself, the use of property constitutes an offence in whole or in part, that property shall be regarded for the purpose of subsection (1)(a) above as used for the purpose of committing the offence, unless the enactment which created the offence expressly excludes the application of this section.
+
+(4) Subject to subsection (5) below, where the accused is convicted of an offence under any enactment, the court shall not be precluded from making an order under subsection (1) above in respect of any property by reason only that the property would not be liable to forfeiture under that enactment.
+
+(5) Subsection (4) above shall not apply—
+
+(a) if the enactment concerned expressly excludes the application of this section; or
+
+(b) to any property which has been used or has been intended to be used as mentioned in subsection (1)(a) or (b) above in relation to the offence of which the accused has been convicted, if the enactment concerned specifies the category of property which is to be liable to forfeiture thereunder, and the category so specified does not include the category of property which has been used or has been intended to be used as aforesaid.
+
+(6) Where the court makes—
+
+(a) an order under subsection (1) above that property shall be forfeited to the Crown; and
+
+(b) a compensation order under section 249 of the 1995 Act,
+
+against the same accused in the same proceedings, it may order that the proceeds of sale of the property forfeited by virtue of subsection (1) above shall be first directed towards satisfaction of the compensation order.
+
+(7) For the purposes of any appeal or review an order under subsection (1) above is a sentence.
+
+(8) In this section “the court” means the district court.
+
+### 23 Warrant to search for and seize property.
+
+(1) Where—
+
+(a) the sheriff is satisfied, on an application being made to him by the prosecutor—
+
+(i) that proceedings have been, or are likely to be, instituted against a person in Scotland for an offence; and
+
+(ii) that there is reasonable cause to believe that property specified in the application is to be found in a place or in premises specified in the application; and
+
+(b) it appears to him that there are reasonable grounds for thinking that in the event of the person being convicted of the offence a suspended forfeiture order might be made in relation to the property,
+
+he may grant a warrant authorising a person named therein to enter and search the place or premises and seize the property.
+
+(2) Where a court has made a suspended forfeiture order in respect of any property, if it is satisfied on the application of the prosecutor—
+
+(a) that there is reasonable cause to believe that the property is to be found in any place or premises; and
+
+(b) that admission to the place or premises has been refused or that it is reasonably believed that such admission will be refused,
+
+it may grant a warrant authorising a person named therein to enter and search the place or premises and seize the property.
+
+(3) An application for a warrant under subsection (2) above may be made at the same time as an application for a suspended forfeiture order.
+
+### 24 Forfeiture of property subject to suspended forfeiture order.
+
+(1) Subject to the following provisions of this section, property in respect of which a suspended forfeiture order has been made shall be forfeited to and vest in the Crown, or such other person as the court may direct, as follows—
+
+(a) heritable property situated in Scotland shall be forfeited at the end of the period of 6 months commencing with the date on which a certified copy of the suspended forfeiture order is recorded in the General Register of Sasines or, as the case may be, registered in the Land Register of Scotland;
+
+(b) heritable property situated outside Scotland shall be forfeited at the end of the period of six months commencing with the date of the making of the suspended forfeiture order;
+
+(c) moveable property shall be forfeited at the end of the period of 60 days commencing with the date of the making of the suspended forfeiture order.
+
+(2) Notwithstanding subsection (1)(c) above, moveable property which is certified by the prosecutor as being—
+
+(a) of a perishable or dangerous nature;
+
+(b) of no commercial value; or
+
+(c) property which cannot lawfully be sold, supplied or possessed,
+
+shall be forfeited immediately after the making of the suspended forfeiture order.
+
+(3) If an application for recall or variation of the suspended forfeiture order concerned has been made under section 25 of this Act, there shall be no forfeiture of property mentioned in paragraph (a), (b) or (c) of subsection (1) above unless and until whichever is the later of the following occurs—
+
+(a) the application is finally disposed of in favour of the prosecutor; or
+
+(b) the period mentioned in that paragraph has expired.
+
+(4) Without prejudice to subsection (2) above, in the event of an appeal against conviction or sentence, there shall be no forfeiture of property until whichever is the later of the following occurs—
+
+(a) the appeal, if it is proceeded with, is determined in favour of the prosecutor; or
+
+(b) the period mentioned in paragraph (a) or, as the case may be, (b) or (c) of subsection (1) above has expired.
+
+(5) Property which has been forfeited to the Crown under this section shall be dealt with by the Crown in such manner as seems to it to be appropriate.
+
+(6) A certificate by the clerk of court that property was forfeited to and vested in the Crown, or another person, under this section on the date specified in the certificate shall be conclusive evidence of that fact; and, in the case of a certificate in respect of heritable property situated in Scotland, the prosecutor shall, forthwith, cause a certified copy of the certificate to be recorded in the General Register of Sasines or, as the case may be, registered in the Land Register of Scotland.
+
+### 25 Recall or variation of suspended forfeiture order.
+
+(1) The court shall, on an application being made to it under this section by a person other than the accused, recall a suspended forfeiture order in relation to any property or an interest in property if—
+
+(a) it is satisfied by the applicant on the balance of probabilities that he is the owner of the property or otherwise has an interest in it; and
+
+(b) subsection (2) or subsection (3) below is applicable.
+
+(2) This subsection applies if the court is not satisfied by the prosecutor that—
+
+(a) where the applicant was the owner of or otherwise had an interest in the property before the commission of the offence in connection with which the suspended forfeiture order was made, he—
+
+(i) knew or ought to have known that the property was intended to be used for the purpose of committing, or facilitating the commission of, the offence, and
+
+(ii) did not take all the steps which were reasonable for him to take to prevent such intended use; or
+
+(b) where he has become the owner of, or has otherwise acquired an interest in, the property after the commission of the offence, the applicant knew or ought to have known that the property had been intended to be, or had been, so used.
+
+(3) This subsection applies if the court is satisfied as mentioned in subsection (2) above, but it appears to the court that, in all the circumstances of the case, forfeiture of the property would be excessive or inappropriate.
+
+(4) Where an order (“a recalling order”) recalling a suspended forfeiture order relates to heritable property situated in Scotland, the prosecutor shall, as soon as may be after the recalling order has been made, cause a certified copy of the recalling order to be recorded in the General Register of Sasines or, as the case may be, registered in the Land Register of Scotland.
+
+(5) Where the prosecutor believes that the person named in the suspended forfeiture order in pursuance of section 21(4) of this Act is not the owner of, or does not otherwise have an interest in, the property concerned then—
+
+(a) if he does not know who the true owner is, or who otherwise truly has the interest, he may apply to the court under this section for an order varying the suspended forfeiture order by deleting that name from it;
+
+(b) if he does know or reasonably suspects the identity of the true owner or the person who otherwise truly has the interest (“the correct person”), he may apply to the court under this section for an order varying the suspended forfeiture order by substituting the name of the correct person for that of the person so named.
+
+(6) Where no person is named in the suspended forfeiture order in pursuance of section 21(4) of this Act but the prosecutor later comes to believe that a person is, or may be, the owner of, or otherwise has or may have an interest in, the property concerned, he may apply to the court for an order varying the suspended forfeiture order by naming that person as a person having or being suspected of having such an interest.
+
+(7) The court shall grant any application made in pursuance of subsection (5) or (6) above; and sections 21(10) and 24 of this Act shall apply in relation to an order varying a suspended forfeiture order in accordance with an application under subsection (5) or (6) above as they apply in relation to a suspended forfeiture order.
+
+(8) An application under this section may be made at any time before the property concerned is forfeited to the Crown or another person under section 24 of this Act.
+
+(9) The court shall not be entitled in considering any application under this section to review the sentence passed, or any [^F7]. . . order of discharge made, in respect of the offence concerned otherwise than as provided by this section.
+
+(10) In this section “the court” means the court which made the suspended forfeiture order.
+
+### 26 Property wrongly forfeited: return or compensation.
+
+(1) Where the court, on an application being made to it by a person other than the accused—
+
+(a) is satisfied by the applicant on the balance of probabilities that in relation to any property forfeited to the Crown or another person under section 24 of this Act or by virtue of an order for forfeiture made under any other enactment he was the owner of, or a person otherwise having an interest in, the property immediately before such forfeiture; and
+
+(b) subsection (3) or (4) below is applicable,
+
+it shall make an order under subsection (2) below.
+
+(2) An order under this subsection shall direct the Crown or, as the case may be, the other person, if the applicant—
+
+(a) was the owner of the property, to return it to him if reasonably practicable to do so or, if not, to pay compensation to him of an amount determined under subsection (5) below; or
+
+(b) otherwise had an interest in the property, to pay compensation to him of an amount corresponding to the value of such interest.
+
+(3) This subsection applies if the court is not satisfied that—
+
+(a) where the applicant was the owner of or otherwise had an interest in the property before the commission of the offence in connection with which the suspended forfeiture order or order for forfeiture was made, he knew or ought to have known that the property was intended to be used for the purpose of committing, or facilitating the commission of, the offence, and did not take all the steps which were reasonable for him to take to prevent such intended use; or
+
+(b) where the applicant has become the owner of, or has otherwise acquired an interest in, the property after the commission of the offence, he knew or ought to have known that the property had been intended to be, or had been, so used.
+
+(4) This subsection applies if the court is satisfied as mentioned in subsection (3) above, but it appears to the court that, in all the circumstances of the case, forfeiture of the property would be excessive or inappropriate.
+
+(5) For the purposes of subsection (2) above, the amount determined under this subsection shall be an amount equal to the amount of any consideration received for the property or the value of any such consideration at the time of the disposal, or, if no consideration was received, an amount equal to the value of the property at the time of the disposal.
+
+(6) An application under subsection (1) shall be made not later than three years after the date on which the property was forfeited as mentioned in subsection (1)(a) above.
+
+(7) Where, after property has been forfeited by virtue of section 24 of this Act, the prosecutor comes to believe that the person named in the suspended forfeiture order in pursuance of section 21(4) of this Act is not the owner of, or a person otherwise having an interest in, the property concerned, then—
+
+(a) whether he knows who the true owner was, or who the person truly with the interest was, or not, he shall forthwith notify the court in writing of that belief; and
+
+(b) if he does know or reasonably suspects the identity of the person who was the true owner or who truly had the interest, he shall forthwith notify that person in writing that he may be entitled to apply to the court for a direction under this section.
+
+(8) Where no person has been named in the suspended forfeiture order in pursuance of section 21(4) of this Act or in a variation order under section 25(5) of this Act but, after the property concerned has been forfeited under section 24 of this Act, the prosecutor comes to believe that a person was or might have been the owner of, or otherwise had or might have had an interest in, the property concerned, he shall forthwith notify—
+
+(a) the court of his belief; and
+
+(b) that person in writing that he may be entitled to apply to the court for a direction under this section.
+
+(9) The court shall not be entitled in considering any application under this section to review the sentence passed, or any [^F8]. . . order of discharge made, in respect of the offence concerned otherwise than as provided by this section.
+
+(10) In this section “the court” means the court which made the suspended forfeiture order or order for forfeiture.
+
+### 27 Appeal against court decision under section 25(1) or 26(1).
+
+(1) An appeal shall lie to the [[^F9]appropriate Appeal Court] at the instance of—
+
+(a) the applicant against the refusal;
+
+(b) the prosecutor against the granting,
+
+of an application under section 25(1) or 26(1) of this Act, and the [[^F10]appropriate Appeal Court] in determining such an appeal may make such order as could have been made by the court on an application under that section.
+
+(2) The procedure in an appeal under this section shall be the same as the procedure in an appeal against sentence.
+
+(3) Where a suspended forfeiture order relating to heritable property situated in Scotland is recalled on appeal to the [[^F11]appropriate Appeal Court], the prosecutor shall, as soon as may be after the appeal has been disposed of, cause a certified copy of the interlocutor of the Court to be recorded in the General Register of Sasines or, as the case may be, registered in the Land Register of Scotland.
+
+[[^F12](4) In this section, “appropriate Appeal Court” means—
+
+(a) in the case of an appeal under this section against the refusal or grant of an application in summary proceedings, the Sheriff Appeal Court; and
+
+(b) in the case of an appeal under this section against the refusal or grant of an application in proceedings on indictment, the High Court of Justiciary.]
+
+## PART III — Restraint Orders
+
+### 28 Restraint orders.
+
+(1) The court may, on the application of the prosecutor, make an order (in this Part of this Act referred to as a “restraint order”) in the circumstances mentioned in—
+
+(a) [^F13]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) section 30(1) of this Act interdicting any person named in the order from dealing with any property which is, or is liable to be, the subject of a suspended forfeiture order.
+
+(2) [^F14]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) A restraint order shall—
+
+(a) be made on an *ex parte* application which shall be heard in chambers; and
+
+(b) without prejudice to the time when it becomes effective, be intimated to each person affected by it.
+
+(4) For the purposes of this Part of this Act, dealing with property includes (without prejudice to the generality of the expression)—
+
+(a) making a payment to any person in reduction of the amount of a debt;
+
+(b) removing the property from the jurisdiction of the court; and
+
+(c) transferring or disposing of the property.
+
+(5) Where the court has made a restraint order [^F15]. . . , a constable or a person commissioned by the Commissioners of Customs and Excise may, for the purpose of preventing any property subject to the order being removed—
+
+(a) in the case of a restraint order made in connection with a drug trafficking offence (including a drug trafficking offence within the meaning of the 1994 Act) from Great Britain;
+
+(b) in any other case, the jurisdiction of the court,
+
+seize that property.
+
+(6) Property seized under subsection (5) above shall be dealt with in accordance with the directions of the court which made the order.
+
+(7) In this Part of this Act, “the court” means where, as regards the criminal proceedings in question, a trial diet or a diet fixed for the purposes of section 76 of the 1995 Act is intended to be held, is being or has been held—
+
+(a) in the High Court of Justiciary, the Court of Session;
+
+(b) in the sheriff court, a sheriff of that court exercising his civil jurisdiction.
+
+(8) The court may, where it has granted a restraint order, interdict a person not subject to that order from dealing with property affected by it while it is in force.
+
+(9) [[^F16]Subsection](3)(a) above shall apply in relation to an interdict under subsection (8) above as they apply in relation to subsection (1) above; and subsections (1), (2), (4) and (5) of section 31 of this Act shall apply in relation to an interdict under subsection (8) above as they apply in relation to a restraint order.
+
+(10) Without prejudice to the time when it becomes effective, an interdict under subsection (8) above shall be intimated to each person affected by it.
+
+### 29 Restraint orders in relation to realisable property.
+
+[^F17]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 30 Restraint orders in relation to forfeitable property.
+
+(1) A restraint order may be made in respect of a person under section 28(1)(b) where—
+
+(a) proceedings have been instituted against him in Scotland for an offence;
+
+(b) the proceedings have not been concluded; and
+
+(c) a suspended forfeiture order has been made in respect of the property concerned or it appears to the court that, in the event of his conviction of the offence, there are reasonable grounds for thinking that a suspended forfeiture order may be made in those proceedings.
+
+(2) A restraint order may also be made where the court is satisfied that it is proposed to institute proceedings in respect of an offence within 28 days and it appears to the court that, in the event of his conviction of the offence, there are reasonable grounds for thinking that a suspended forfeiture order may be made in those proceedings.
+
+(3) Where the court has made a restraint order by virtue of subsection (2) above, and no proceedings have been instituted within 28 days as mentioned in that subsection, the prosecutor shall forthwith apply to the court for the recall of the order and the court shall grant the application.
+
+(4) When proceedings for the offence are concluded, the prosecutor shall forthwith apply to the court for recall of the order and the court shall grant the application.
+
+(5) For the purposes of this section, proceedings are concluded as regards an offence where—
+
+(a) the trial is deserted*simpliciter*;
+
+(b) the accused is acquitted or, under section 65 or 147 of the 1995 Act, discharged or liberated;
+
+(c) the High Court of Justiciary or, as the case may be, [[^F18]the Sheriff Appeal Court or] the sheriff sentences or otherwise deals with him without making a suspended forfeiture order;
+
+(d) his conviction is quashed;
+
+(e) a suspended forfeiture order made in the proceedings is recalled or varied so as to exclude from forfeiture any property to which the restraint order relates; or
+
+(f) the property, or part of the property, to which the restraint order relates is forfeited.
+
+### 31 Variation and recall of restraint orders.
+
+(1) Subject to subsections (2) and (3) below, the court may, at the instance of—
+
+(a) the prosecutor, at any time vary or recall a restraint order in relation to any person or to any property;
+
+(b) any person having an interest, at any time vary or recall a restraint order in relation to the person or to any property.
+
+(2) [^F19]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) Where an application has been made under subsection (1) above for the variation or recall of a restraint order, any property in relation to which the restraint order was made shall not be realised during the period beginning with the making of the application and ending with the determination of the application by the court.
+
+(4) The court may, where it has recalled a restraint order as mentioned in subsection (1)(b)[^F20]. . . above, order that property of the person at whose instance it was recalled shall cease to be realisable or, as the case may be, liable to forfeiture.
+
+(5) The prosecutor or any person having an interest may reclaim or appeal to the Court of Session against an interlocutor refusing, varying or recalling or refusing to vary or recall a restraint order, within such period as may be prescribed by Act of Sederunt.
+
+(6) Where, in relation to a restraint order which is recalled, interdict has been granted under section 28(8) of this Act, the clerk of court shall, on the restraint order being recalled, forthwith so inform each person so interdicted.
+
+### 32 Inhibition of property affected by restraint order or by interdict.
+
+(1) On the application of the [[^F21]prosecutor, the court] may in respect of heritable realisable property in Scotland affected by a restraint order (whether such property generally or particular such property) grant warrant for inhibition against any person interdicted by the order or, in relation to that property, under section 28(8) of this Act; and subject to the provisions of this Part of this Act, the warrant—
+
+(a) shall have effect as if granted on the dependence of an action for debt at the instance of the [[^F22]prosecutor] against the person and may be executed, recalled, loosed or restricted accordingly; and
+
+(b) shall [[^F23]forthwith be registered by the prosecutor in the Register of Inhibitions.].
+
+(2) Section 155 of the [^M13]Titles to Land Consolidation (Scotland) Act 1868 (effective date of inhibition) shall apply in relation to an inhibition for which warrant has been granted under subsection (1) above [^F24]. . . .
+
+(3) [^F25]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) The fact that an inhibition has been executed under subsection (1) above in respect of property shall not prejudice the exercise of an administrator’s powers under or for the purposes of this Part of this Act in respect of that property.
+
+(5) No inhibition executed under subsection (1) above shall have effect once, or in so far as, the restraint order affecting the property in respect of which the warrant for the inhibition has been granted has ceased to have effect in respect of that property; and the [[^F26]prosecutor] shall—
+
+(a) apply for the recall, or as the case may be restriction, of the inhibition; and
+
+(b) ensure that the recall, or restriction, of an inhibition on such application is reflected in the Register of Inhibitions [^F27]. . . .
+
+### 33 Arrestment of property affected by restraint order.
+
+(1) On the application of the prosecutor, the court may, in respect of moveable property affected by a restraint order (whether such property generally or particular such property), grant warrant for arrestment if the property would be arrestable if the person entitled to it were a debtor.
+
+(2) A warrant under subsection (1) above shall have effect as if granted on the dependence of an action for debt at the instance of the prosecutor against the person and may be executed, recalled, loosed or restricted accordingly.
+
+(3) The fact that an arrestment has been executed under subsection (2) above in respect of property shall not prejudice the exercise of an administrator’s powers under or for the purposes of this Act in respect of that property.
+
+(4) No arrestment executed under subsection (2) above shall have effect once, or in so far as, the restraint order affecting the property in respect of which the warrant for such arrestment has been granted has ceased to have effect in respect of that property; and the prosecutor shall apply to the court for an order recalling, or as the case may be, restricting the arrestment accordingly.
+
+### 34 Administrators.
+
+Schedule 1 to this Act shall have effect as regards the appointment of administrators under this Act.
+
+## PART IV — Reciprocal Arrangements for Enforcement of Orders
+
+### 35 Recognition and enforcement of orders made in England and Wales.
+
+[^F28]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 36 Provisions supplementary to section 35.
+
+[^F29]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 37 Inhibition of Scottish property affected by order registered under section 35.
+
+[^F30]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 38 Arrestment of Scottish property affected by order registered under section 35.
+
+[^F31]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 39 Enforcement of Northern Ireland orders.
+
+[^F32]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 40 Enforcement of orders made outside United Kingdom.
+
+(1) Her Majesty may by Order in Council—
+
+(a) [^F33]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) make—
+
+(i) such provision as to evidence or proof of any matter for the purposes of this section and section 41 of this Act; and
+
+(ii) such incidental, consequential and transitional provision,
+
+as appears to Her Majesty to be expedient.
+
+(2) [^F34]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) An Order in Council under this section may make different provision for different cases or classes of case.
+
+(4) [^F35]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) An Order in Council under this section shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+### 41 Registration of external confiscation orders.
+
+(1) On an application made by or on behalf of the Government of a designated country, the Court of Session may register an external confiscation order made there if—
+
+(a) it is satisfied that at the time of registration the order is in force and not subject to appeal;
+
+(b) it is satisfied, where the person against whom the order is made did not appear in the proceedings, that he received notice of the proceedings in sufficient time to enable him to defend them; and
+
+(c) it is of the opinion that enforcing the order in Scotland would not be contrary to the interests of justice.
+
+(2) In subsection (1) above “appeal” includes—
+
+(a) any proceedings by way of discharging or setting aside a judgment; and
+
+(b) an application for a new trial or a stay of execution.
+
+(3) The Court of Session shall cancel the registration of an external confiscation order if it appears to the court that the order has been satisfied by payment of the amount due under it or by the person against whom it was made serving imprisonment in default of payment or by any other means.
+
+### 42 Enforcement of Scottish orders in England and Wales.
+
+(1) Her Majesty may by Order in Council make such provision as Her Majesty considers expedient for the purpose—
+
+(a) [^F36]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) [^F37]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(c) of enabling the enforcement in England and Wales of restraint orders, suspended forfeiture orders and forfeiture orders under any enactment other than the [[^F38]Terrorism Act 2000] .
+
+(2) Without prejudice to the generality of the power conferred by subsection (1) above, an Order in Council under this section may—
+
+(a) provide that, subject to any specific conditions, such description of orders made under or for the purposes of [[^F39]Part] II or III of this Act so far as it relates to realisable property shall have effect in the law of England and Wales;
+
+(b) provide that, subject to any specified conditions, the functions of a person appointed under Schedule 1 to this Act shall have effect in the law of England and Wales;
+
+(c) make provision—
+
+(i) for the registration in the High Court of such descriptions of orders made under or for the purposes of [[^F40]Part] II or III of this Act so far as it relates to realisable property as may be specified; and
+
+(ii) for the High Court to have, in relation to the enforcement of orders made under or for the purposes of [[^F41]Part] Part II or III of this Act so far as it so relates which are so registered, such powers as may be specified; and
+
+(d) make provision as to the proof in England and Wales of orders made under or for the purposes of [[^F42]Part] II or III of this Act so far as it so relates.
+
+(3) In subsection (2) above “specified” means specified in an Order in Council under this section.
+
+(4) An Order in Council under this section may amend or apply, with or without modifications, any enactment.
+
+(5) An Order in Council under this section may contain such incidental, consequential and transitional provisions as Her Majesty considers expedient.
+
+(6) An Order in Council under this section shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+### 43 Order in Council as regards taking of action in designated country.
+
+(1) Her Majesty may by Order in Council make such provision in connection with the taking of action in a designated country in consequence of the making of a restraint order [^F43]. . . or suspended forfeiture order under this Act or a forfeiture order under any other enactment as appears to Her Majesty to be expedient.
+
+(2) [^F44]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) An Order in Council under this section may amend or apply, with or without modifications, any enactment.
+
+(4) Subsections (1)(b), (3) and (5) of section 40 of this Act shall apply in respect of Orders in Council under this section as they apply in respect of Orders in Council under that section.
+
+## PART V — Miscellaneous and General
+
+### 44 Sequestration etc of person holding realisable or forfeitable property.
+
+(1) Schedule 2 to this Act shall have effect in relation to the sequestration, bankruptcy, winding up or receivership of persons or, as the case may be, companies holding realisable or forfeitable property.
+
+(2) In this section and in that Schedule “forfeitable property” means property which is or is liable to be the subject of a suspended forfeiture order.
+
+### 45 Disposal of family home under Part I or II.
+
+(1) This section applies where —
+
+(a) [^F45]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) a person’s family home has been forfeited to the Crown under section 24 of this Act.
+
+(2) Where this section applies, then, before the Crown disposes of any right or interest in the person’s family home it shall—
+
+(a) obtain the relevant consent; or
+
+(b) where it is unable to do so, apply to the court for authority to carry out the disposal.
+
+(3) On an application being made to it under subsection (2)(b) above, the court, after having regard to all the circumstances of the case including—
+
+(a) the needs and financial resources of the spouse or former spouse of the person concerned;
+
+(b) the needs and financial resources of any child of the family;
+
+(c) the length of the period during which the family home has been used as a residence by any of the persons referred to in paragraph (a) or (b) above,
+
+may refuse to grant the application or may postpone the granting of the application for such period (not exceeding 12 months) as it may consider reasonable in the circumstances or may grant the application subject to such conditions as it may prescribe.
+
+(4) Subsection (3) above shall apply—
+
+(a) to an action for division and sale of the family home of the person concerned; or
+
+(b) to an action for the purpose of obtaining vacant possession of that home,
+
+brought by the Crown as it applies to an application under subsection (2)(b) above and, for the purposes of this subsection, any reference in the said subsection (3) to the granting of the application shall be construed as a reference to the granting of decree in the action.
+
+(5) In this section—
+
+- “family home”, in relation to any person (in this subsection referred to as “the relevant person”) means any property in which the relevant person has or had (whether alone or in common with any other person) a right or interest, being property which is occupied as a residence by the relevant person and his or her spouse or by the relevant person’s spouse or former spouse (in any case with or without a child of the family) or by the relevant person with a child of the family;
+
+- “child of the family” includes any child or grandchild of either the relevant person or his or her spouse or former spouse, and any person who has been treated by either the relevant person or his or her spouse or former spouse as if he or she were a child of the relevant person, spouse or former spouse, whatever the age of such a child, grandchild or person may be; and
+
+- “relevant consent” means in relation to the disposal of any right or interest in a family home—
+
+  - (a) in a case where the family home is occupied by the spouse or former spouse of the relevant person, the consent of the spouse or, as the case may be, of the former spouse, whether or not the family home is also occupied by the relevant person;
+  - (b) where paragraph (a) above does not apply, in a case where the family home is occupied by the relevant person with a child of the family, the consent of the relevant person.
+
+### 46 Forfeiture of property where accused has died.
+
+(1) This section applies where at any time after criminal proceedings have been instituted against an accused for an offence to which Part I of this Act applies and before the accused has been sentenced or otherwise dealt with in the proceedings he dies.
+
+(2) The Court of Session, if it is satisfied beyond reasonable doubt on an application being made to it by the Lord Advocate—
+
+(a) that the accused committed the offence; and
+
+(b) that there is property—
+
+(i) which the accused had obtained, directly or indirectly, in connection with the commission of the offence or, as the case may be, in connection with drug trafficking; or
+
+(ii) which is a gift caught by Part I of this Act or, as the case may be, an implicative gift,
+
+may, subject to subsection (5) below, make an order which shall have the effect of forfeiting that property.
+
+(3) The Court of Session may, without prejudice to any other power available to it, at any time before the determination of the case, allow an amendment of the application under subsection (2) above if the amendment is of a type which could competently have been made in an indictment or complaint under section 96 or 159 of the 1995 Act in the criminal proceedings.
+
+(4) An application under subsection (2) above shall be made as soon as is reasonably practicable after the relevant information becomes available to the Lord Advocate, but, in any event, within 6 years commencing with the date of death of the accused.
+
+(5) An application under subsection (2) above in relation to property such as is mentioned in paragraph (b)(ii) of that subsection shall be served on the recipient of the gift and, if he satisfies the Court on the balance of probabilities—
+
+(a) that he received the gift not knowing, not suspecting and not having reasonable grounds to suspect that the gift was made in contemplation of, or after, the commission of the offence or, if more than one, in contemplation of any of the offences or after the commission of the earlier or the earliest of the offences to which the proceedings for the time being relate; and
+
+(b) that he was not associated with the giver in the commission of the offence; and
+
+(c) that he would suffer hardship if the application were granted,
+
+the Court may refuse to make an order as mentioned in that subsection; and in the application of this subsection to an implicative gift, any reference to the commission of the offence shall be construed as a reference to the drug trafficking and the reference in paragraph (b) above to the earlier or earliest of more than one offence shall be construed as a reference to the beginning of the drug trafficking.
+
+(6) Where property has been forfeited under this section, then, if the Court of Session, on an application being made to it is satisfied by the applicant on the balance of probabilities that he was the owner of, or otherwise had an interest in, the property immediately before such forfeiture, it shall make an order under subsection (7) below.
+
+(7) An order under this subsection shall direct the Crown, if the applicant—
+
+(a) was the owner of the property, to return it to him if it is reasonably practicable to do so or, if not, to pay compensation to him of an amount determined under subsection (8) below; or
+
+(b) otherwise had an interest in the property, to pay compensation to him of an amount corresponding to the value of such interest.
+
+(8) For the purposes of subsection (7) above, the amount determined under this subsection shall be an amount equal to the amount of any consideration received for the property or the value of any such consideration at the time of the disposal, or, if no consideration was received, an amount equal to the value of the property at the time of the disposal.
+
+(9) Property which has been forfeited under this section shall be dealt with by the Crown in such manner as seems to it to be appropriate.
+
+(10) Where a restraint order is not in force in respect of a person when he dies in the circumstances mentioned in subsection (1) above, the Court of Session may, on the application of the Lord Advocate, in so far as the property concerned is—
+
+(a) heritable property in Scotland, make an order inhibiting any person; and
+
+(b) moveable property, grant warrant for arrestment if the property would be arrestable if the person entitled to it were a debtor.
+
+(11) Paragraphs (a) and (b) of subsection (1) and subsections (2) to (5) of section 32 of this Act shall, subject to any necessary modifications, apply for the purposes of subsection (10)(a) above as they apply for the purposes of that section.
+
+(12) Subsections (2) to (4) of section 33 of this Act shall, subject to any necessary modifications, apply for the purposes of subsection (10)(b) above as they apply for the purposes of that section.
+
+(13) Proceedings under this section are civil proceedings for the purposes of section 10 of the [^M14]Law Reform (Miscellaneous Provisions) (Scotland) Act 1968.
+
+### 47 Construction of certain enactments.
+
+[^F46]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 48 Service and notice.
+
+Subject to the provisions of this Act, provision may be made by rules of court as to the giving of notice required for the purposes of this Act in so far as it is connected with drug trafficking or the effecting of service so required; and different provision may be so made for different cases or classes of case and for different circumstances or classes of circumstance.
+
+### 49 Interpretation.
+
+(1) In this Act, unless the context otherwise requires—
+
+- [^F47]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- [^F48]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- [^F49]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- “the 1995 Act” means the [^M15]Criminal Procedure (Scotland) Act 1995;
+- “accused” includes a person against whom criminal proceedings have been instituted in relation to the commission of an offence and a person convicted of an offence;
+- “clerk of court” includes the sheriff clerk;
+- [^F50]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- “interest”, in relation to property, includes right;
+- “property” has the meaning assigned by section 2 of this Act;
+- “realisable property” has the meaning assigned by section 4 of this Act;
+- “restraint order” means an order made under section 28 of this Act;
+- “suspended forfeiture order” means an order made under section 21(2) of this Act.
+
+(2) In this Act, “drug trafficking” means, subject to subsections (3) and (4) below, doing or being concerned in any of the following, whether in Scotland or elsewhere—
+
+(a) producing or supplying a controlled drug where the production or supply contravenes section 4(1) of the [^M16]Misuse of Drugs Act 1971;
+
+(b) transporting or storing such a drug where possession of it contravenes section 5(1) of that Act;
+
+(c) importing or exporting such a drug where the importation or exportation is prohibited by section 3(1) of that Act;
+
+(d) producing, supplying, transporting, storing, importing or exporting such a drug in contravention of a corresponding law (“corresponding law” having the meaning assigned by section 36(1) of that Act);
+
+(e) manufacturing or supplying a scheduled substance within the meaning of section 12 of the Criminal Justice (International Co-operation) Act 1990 where the manufacture or supply is an offence under that section;
+
+(f) acquiring, having possession of or using property in contravention of section 37 of the [^M17]Criminal Law (Consolidation) (Scotland) Act 1995;
+
+(g) concealing or transferring the proceeds of drug trafficking in contravention of section 14 of the said Act of 1990;
+
+(h) using any ship for illicit traffic in controlled drugs in contravention of section 19 of the said Act of 1990.
+
+(3) Drug trafficking also includes, whether in Scotland or elsewhere, entering into or being otherwise concerned in any arrangement whereby—
+
+(a) the retention or control by or on behalf of another person of the other person’s proceeds of drug trafficking is facilitated, or
+
+(b) the proceeds of drug trafficking by another person are used to secure that funds are placed at the other person’s disposal or are used for the other person’s benefit to acquire property by way of investment.
+
+(4) [^F51]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) In this Act a “drug trafficking offence” means any of the following—
+
+(a) an offence under—
+
+(i) section 4(2) (production, or being concerned in production, of controlled drug);
+
+(ii) section 4(3) (supply of, or offer to supply, or being concerned in supply of, controlled drug);
+
+(iii) section 5(3) (possession of controlled drug with intent to supply); or
+
+(iv) section 20 (assisting in, or inducing commission of, certain drug related offences punishable under foreign law),
+
+of the [^M18]Misuse of Drugs Act 1971;
+
+(b) in connection with a prohibition or restriction on importation and exportation having effect by virtue of section 3 of the said Act of 1971, an offence under section 50(2) or (3) (improper importation), 68(2) (improper exportation) or 170 (fraudulent evasion of duty etc.) of the [^M19]Customs and Excise Management Act 1979;
+
+(c) an offence under section 37 of the Criminal Law (Consolidation) (Scotland) Act 1995;
+
+(d) an offence under section 38 of the said Act of 1995;
+
+(e) an offence under section 12, 14 or 19 of the [^M20]Criminal Justice (International Co-operation) Act 1990;
+
+(f) an offence of conspiring, inciting or attempting to commit an offence mentioned in paragraph (a), (b), (c) or (e) above.
+
+(6) For the purposes of this Act proceedings for an offence are instituted against a person—
+
+(a) on his arrest without warrant;
+
+(b) when he is charged with the offence without being arrested;
+
+(c) when a warrant to arrest him is granted;
+
+(d) when a warrant to cite him is granted;
+
+(e) in summary proceedings, on the first calling of the case; or
+
+(f) when a petition is intimated to him or an indictment or a complaint is served on him,
+
+and, where the application of this subsection would result in there being more than one time for the institution of proceedings, they shall be taken to be instituted at the earliest of those times.
+
+(7) Any reference in this Act to a conviction of an offence includes a reference to a finding that the offence has been committed.
+
+### 50 Short title, commencement and extent.
+
+(1) This Act may be cited as the Proceeds of Crime (Scotland) Act 1995.
+
+(2) This Act shall come into force on 1 April 1996.
+
+(3) Subject to subsections (4) and (5) below, this Act extends only to Scotland.
+
+(4) Section 44 of and Schedule 2 to this Act and this section extend to England and Wales as well as to Scotland.
+
+(5) Section 42 of this Act extends only to England and Wales.
+
+## SCHEDULE 1 — Administrators
+
+*Section 34.*
+
+### Appointment of administrators
+
+**1** (1) On the application of the prosecutor the [^M21]court may as regards property—
+
+(a) affected by a restraint order or a suspended forfeiture order, appoint a person to manage, or otherwise deal with, the property; or
+
+(b) where a suspended forfeiture order [^F52]. . . has been made, appoint a person (or empower an appointee under paragraph (a) above) to realise the property,
+
+in accordance with the court’s directions and may (whether on making the appointment or from time to time) require any person having possession of the property to give possession of it to the appointee (any such appointee being in this Act referred to as an “administrator”).
+
+(2) A requirement under sub-paragraph (1) above—
+
+(a) [^F53]. . . may relate to the property generally or to particular such property and may be subject to such exceptions and conditions as may be specified by the court;
+
+(b) [^F54]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) On a requirement being imposed under sub-paragraph (1) above—
+
+(a) the clerk of court shall forthwith notify—
+
+(i) the person in respect of whom the restraint order, or as the case may be the suspended forfeiture order [^F55]. . . , has been made; and
+
+(ii) any other person named in the requirement as being subject to it; and
+
+(b) any dealing of or with such person in relation to the property shall be of no effect in a question with the administrator unless whoever dealt with the person had, at the time when the dealing occurred, no knowledge of the appointment.
+
+(4) The court, at the instance of any person having an interest, may at any time—
+
+(a) vary or withdraw a requirement imposed under sub-paragraph (1) above; or
+
+(b) without prejudice to paragraph 4 below or to the powers and duties of an administrator pending a decision under this sub-sub-paragraph, on cause shown, remove the administrator from office.
+
+(5) On the death or resignation of the administrator, or on his removal from office under sub-paragraph (4)(b) above or paragraph 5 below, the court shall appoint a new administrator.
+
+(6) Such of the property (if any) as was, by virtue of paragraph 2(3) below, vested in the administrator who has died, resigned or been removed shall forthwith vest in the new administrator; and any requirement imposed under sub-paragraph (1) above shall, on the person subject to the requirement being notified in writing of the appointment by the appointee, apply in relation to the appointee instead of in relation to his predecessor.
+
+(7) The administration of property by an administrator shall be deemed continuous notwithstanding any temporary vacancy in that office.
+
+(8) Any appointment under this paragraph shall be on such conditions as to caution as the accountant of court may think fit to impose; but the premium of any bond of caution or other security thereby required of the administrator shall be treated as part of his outlays in his actings as such.
+
+(9) Without prejudice to paragraph 5 below, section 6 of the [^M22]Judicial Factors (Scotland) Act 1889 (supervision of judicial factors) shall not apply in relation to an appointment under this section.
+
+### Functions of administrators
+
+**2** (1) Subject to paragraph 5 below, an administrator—
+
+(a) shall be entitled to take possession of [^F56]. . . shall as soon as practicable take possession of, the property as regards which he has been appointed and of any document which both—
+
+(i) is in the possession or control of the person (in this paragraph referred to as “A”) in whom the property is vested (or would be vested but for an order made under sub-paragraph (3) below); and
+
+(ii) relates to the property or to A’s assets, business or financial affairs;
+
+(b) shall be entitled to have access to, and to copy, any document relating to the property or to A’s assets, business or financial affairs and not in such possession or control as is mentioned in sub-sub-paragraph (a) above;
+
+(c) may bring, defend or continue any legal proceedings relating to the property;
+
+(d) may borrow money in so far as it is necessary to do so to safeguard the property and may for the purposes of such borrowing create a security over any part of the property;
+
+(e) may, if the administrator considers that to do so would be beneficial for the management or realisation of the property—
+
+(i) carry on any business of A;
+
+(ii) exercise any right of A as holder of securities in a company;
+
+(iii) grant a lease of the property or take on lease any other property; or
+
+(iv) enter into any contract, or execute any deed, as regards the property or as regards A’s business;
+
+(f) may, where any right, option or other power forms part of A’s estate, make payments or incur liabilities with a view to—
+
+(i) obtaining property which is the subject of; or
+
+(ii) maintaining,
+
+the right, option or power;
+
+(g) may effect or maintain insurance policies as regards the property on A’s business;
+
+(h) where he has been appointed under paragraph 1(1)(b) above may, where A has an uncompleted title to any heritable estate, complete title thereto;
+
+Provided that completion of title in A’s name shall not validate by accretion any unperfected right in favour of any person other than the administrator;
+
+(j) may sell, purchase or exchange property or discharge any security for an obligation due to A:
+
+Provided that it shall be incompetent for the administrator or an associate of his (within the meaning of section [[^F57]229 of the Bankruptcy (Scotland) Act 2016 ] ) to purchase any of A’s property in pursuance of this paragraph;
+
+(k) may claim, vote and draw dividends in the sequestration of the estate (or bankruptcy or liquidation) of a debtor of A and may accede to a voluntary trust deed for creditors of such a debtor;
+
+(l) may discharge any of his functions through agents or employees;
+
+Provided that the administrator shall be personally liable to meet the fees and expenses of any such agent or employee out of such remuneration as is payable to the administrator by virtue of paragraph 6(1) and (3) below;
+
+(m) may take such professional advice as he may consider requisite for the proper discharge of his functions;
+
+(n) may at any time apply to the court for directions as regards the discharge of his functions;
+
+(o) may exercise any power specifically conferred on him by the court, whether such conferral was at the time of his appointment or on his subsequent application to the court in that regard; and
+
+(p) may do anything incidental to the above powers and duties.
+
+(2) Subject to the proviso to sub-paragraph (1)(j) above—
+
+(a) a person dealing with an administrator in good faith and for value shall not require to determine whether the administrator is acting within the powers mentioned in that subsection; and
+
+(b) the validity of any title shall not be challengeable by reason only of the administrator having acted outwith those powers.
+
+(3) The exercise of a power mentioned in any of sub-paragraphs (1)(c) to (k) above shall be in A’s name except where and in so far as an order made by the court under this sub-paragraph (either on its own motion or on the application of the administrator) has vested the property in the administrator (or in his predecessor in that office).
+
+### Money received by administrator
+
+**3** (1) Subject to sub-paragraph (2) below, all money received by an administrator in the exercise of his functions shall be deposited by him, in the name (unless vested in the administrator by virtue of paragraph 2(3) above) of the holder of the property realised, in an appropriate bank or institution.
+
+(2) The administrator may at any time retain in his hands a sum not exceeding £200 or such other sum as may be prescribed by the Secretary of State by regulations made by statutory instrument.
+
+(3) In sub-paragraph (1) above, “appropriate bank or institution” means a bank or institution mentioned in section 2(1) of the [^M23]Banking Act 1979 or for the time being specified in Schedule 1 to that Act.
+
+### Application of proceeds of realisation and other sums
+
+**4** [^F58]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Supervision of administrators
+
+**5** (1) The accountant of court shall supervise the performance by administrators of the functions conferred on them by [^F59]. . . this Act; and in particular an administrator proposing to exercise functions conferred by any of paragraphs 2(1)(c) to (p) above shall first obtain the consent of the accountant of court to such exercise.
+
+(2) If it appears to the accountant of court that an administrator has, without reasonable cause, failed to perform a duty imposed on him by any provision of section 16 of this Act or of this Schedule, he shall report the matter to the court which, after giving the administrator an opportunity to be heard as regards the matter, may remove the administrator from office, censure him or make such other order as the circumstances of the case may appear to the court to require.
+
+### Accounts and remuneration of administrator
+
+**6** (1) The administrator shall keep such accounts in relation to his intromissions with the property as regards which he is appointed as the court may require and shall lodge these accounts with the accountant of court at such times as may be fixed by the court in that regard; and the accountant of court shall audit the accounts and issue a determination as to the amount of outlays and, on the basis mentioned in sub-paragraph (3) below, remuneration payable to the administrator in respect of those intromissions.
+
+(2) Not later than two weeks after the issuing of a determination under sub-paragraph (1) above, the administrator or the Lord Advocate may appeal against it to the court.
+
+(3) The basis for determining the amount of remuneration payable to the administrator shall be the value of the work reasonably undertaken by him, regard being had to the extent of the responsibilities involved.
+
+(4) The accountant of court may authorise the administrator to pay without taxation an account in respect of legal services incurred by the administrator.
+
+### Effect of appointment of administrator on diligence
+
+**7** Without prejudice to sections 32 and 33 of this Act—
+
+(a) no arrestment or [[^F60]attachment] of property executed on or after an appointment as regards the property under paragraph 1 above shall be effectual to create a preference for the arrester or poinder and any such property so arrested or poinded, or the proceeds of sale thereof, shall be handed over to the administrator;
+
+(b) no poinding of the ground in respect of property on or after such appointment shall be effectual in a question with the administrator except for the interest on the debt of a secured creditor, being interest for the current half-yearly term and arrears of interest for one year immediately before the commencement of that term;
+
+(c) it shall be incompetent on or after such appointment for any other person to [^F61]. . . or to be confirmed as executor-creditor on that property; and
+
+(d) no inhibition on property which takes effect on or after such appointment shall be effectual to create a preference for the inhibitor in a question with the administrator.
+
+### Further provision as to administrators
+
+**8** (1) Where an administrator takes any action—
+
+(a) in relation to property as regards which he has not been appointed, being action which he would be entitled to take if he had been so appointed,
+
+(b) believing, and having reasonable grounds for believing, that he is entitled to take that action in relation to that property,
+
+he shall not be liable to any person in respect of any loss or damage resulting from his action except in so far as the loss or damage is caused by his negligence.
+
+(2) Any amount due in respect of the remuneration and expenses of an administrator appointed under this Schedule shall [^F62]. . . be paid by the Lord Advocate.
+
+(3) Any disposal of property under paragraph 1 above to a person taking in good faith shall vest the ownership of the property in that person.
+
+### Discharge of administrator
+
+**9** After an administrator has lodged his final accounts under paragraph 6(1) above, he may apply to the accountant of court to be discharged from office; and such discharge, if granted, shall have the effect of freeing him from all liability (other than liability arising from fraud) in respect of any act or omission of his in exercising the functions conferred on him by this Act.
+
+### Compensation
+
+**10** (1) Where the court, on an application made to it by a person other than the accused [^F63]. . . , is satisfied on the balance of probabilities that in relation to any property realised under paragraph 1 above he was the owner of, or a person otherwise having an interest in, the property immediately before such realisation, it shall make an order directing the Crown to pay to that person compensation of an amount equal to the consideration received for the property or, as the case may be, interest or the value of any such consideration at the time of such realisation, or, if no consideration was received, an amount equal to the value of the property or interest at the time of the realisation.
+
+(2) [^F64]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) [^F65]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Rules of court as regards accountant of court’s supervision etc of administrators
+
+**11** Without prejudice to section 5 of the [^M24]Court of Session Act 1988 (power to regulate procedure etc. by Act of Sederunt), provision may be made by rules of court as regards (or as regards any matter incidental to) the accountant of court’s powers and duties under this Act in relation to the functions of administrators.
+
+### Power to facilitate realisation
+
+**12** (1) Without prejudice to any enactment or rule of law in respect of the recording of deeds relating to heritable property or the registration of interests therein, the court, to facilitate realisation under paragraph 1 above, may—
+
+(a) order any person (in this paragraph referred to as “A”) holding an interest in property, not being such person (in this paragraph referred to as “B”) as is mentioned in [^F66]. . . section 21 of this Act, to make such payment to an administrator appointed to realise estate comprising an interest of B in that property as the court may direct and may, subject to such payment being made—
+
+(i) authorise the administrator to transfer B’s interest to A or to discharge it in favour of A; or
+
+(ii) itself by order transfer or discharge B’s interest; or
+
+(b) by order—
+
+(i) transfer A’s interest to B; or
+
+(ii) discharge it in favour of B,
+
+on the administrator making such payment to A out of that estate in respect of A’s interest as the court may direct.
+
+(2) The court may make such incidental provision in relation to any exercise of powers conferred on it by sub-paragraph (1) above as it considers appropriate; but it shall not exercise those powers without giving such persons as hold an interest in the property reasonable opportunity to make representations to it in that regard.
+
+## SCHEDULE 2 — Sequestration etc. of Persons Holding Realisable or Forfeitable Property
+
+*Section 44.*
+
+### Sequestration of person holding realisable or forfeitable property
+
+**1** (1) Where the estate of a person who holds realisable or forfeitable property is sequestrated—
+
+(a) property, other than heritable property situated in Scotland, for the time being subject to a restraint order made before the date of sequestration (within the meaning of section [[^F67]22(7) of the 2016] Act) and heritable property situated in Scotland for the time being subject to a restraint order recorded in the General Register of Sasines or, as the case may be, registered in the Land Register of Scotland before such date of sequestration; and
+
+(b) any proceeds of property realised by virtue of paragraph 1 of Schedule 1 to this Act for the time being in the hands of an administrator appointed under that paragraph,
+
+is excluded from the debtor’s estate for the purposes of that Act.
+
+(2) Where an award of sequestration has been made, the powers conferred on the court by sections 28 to 33 [^F68]. . . of and the said Schedule 1 to this Act or on an administrator appointed under paragraph 1 of that Schedule shall not be exercised in relation to—
+
+(a) property comprised in the whole estate of the debtor (within the meaning of section [[^F69]79 of the 2016] Act); or
+
+[[^F70](b) any income of the debtor which has been ordered, under section 90 or 95 of that Act, to be paid to the trustee or any estate which, under subsection (4) of section 79, or subsection (5) of section 86, of that Act vests in the trustee,]
+
+and it shall not be competent to submit a claim in relation to the confiscation order to the [[^F71]trustee in the sequestration in accordance with section 122] of that Act.
+
+(3) Nothing in the [[^F72]2016] Act shall be taken as restricting, or enabling the restriction of, the exercise of the powers so conferred.
+
+(4) Where, during the period before sequestration is awarded, an interim trustee stands appointed under section [[^F73]54(1) of the 2016] Act and any property in the debtor’s estate is subject to a restraint order, the powers conferred on the interim trustee by virtue of that Act do not apply to property for the time being subject to the restraint order.
+
+(5) Where the estate of a person is sequestrated and he has directly or indirectly made a gift caught by Part I of this Act or an implicative gift—
+
+(a) no decree shall, at any time when proceedings as regards an offence to which Part I of this Act applies or, as the case may be, a drug trafficking offence have been instituted against him and have not been concluded or when property of the person to whom the gift was made is subject to a restraint order, be granted under section [[^F74]98 or 99 of the 2016] Act (gratuitous alienations and unfair preferences) in respect of the making of the gift; and
+
+(b) any decree granted under either of the said sections [[^F75]98 and 99] after the conclusion of the proceedings shall take into account any realisation under this Act of property held by the person to whom the gift was made.
+
+### Bankruptcy in England and Wales of person holding realisable or forfeitable property
+
+**2** (1) Where a person who holds [^F76]. . . forfeitable property is adjudged bankrupt—
+
+(a) property, other than heritable property situated in Scotland, for the time being subject to a restraint order made before the order adjudging him bankrupt and heritable property situated in Scotland for the time being subject to a restraint order recorded in the General Register of Sasines or, as the case may be, registered in the Land Register of Scotland before the order adjudging him bankrupt was made; and
+
+(b) any proceeds of property realised by virtue of paragraph 1 of Schedule 1 to this Act for the time being in the hands of an administrator appointed under that paragraph,
+
+is excluded from the bankrupt’s estate for the purposes of Part IX of the [^M25]Insolvency Act 1986.
+
+(2) Where a person has been adjudged bankrupt, the powers conferred on the court by sections 28 to 33 [^F77]. . . of and the said Schedule 1 to this Act or on an administrator appointed under paragraph 1 of that Schedule shall not be exercised in relation to—
+
+(a) property for the time being comprised in the bankrupt’s estate for the purposes of the said Part IX;
+
+(b) property in respect of which his trustee in bankruptcy may (without leave of the court) serve a notice under section 307, 308 or 308A of the Insolvency Act 1986 (after-acquired property and tools, clothes, etc. exceeding value of reasonable replacement and certain tenancies); and
+
+(c) property which is to be applied for the benefit of creditors of the bankrupt by virtue of a condition imposed under section 280(2)(c) of the Insolvency Act 1986.
+
+(3) Nothing in the Insolvency Act 1986 shall be taken as restricting, or enabling the restriction of, the exercise of the powers so conferred.
+
+(4) Where, in the case of a debtor, an interim receiver stands appointed under section 286 of the Insolvency Act 1986 and any property of the debtor is subject to a restraint order the powers conferred on the receiver by virtue of that Act do not apply to property for the time being subject to the restraint order.
+
+(5) [^F78]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Winding up of company holding realisable or forfeitable property
+
+**3** (1) Where realisable or forfeitable property is held by a company and an order for the winding up of the company has been made or a resolution has been passed by the company for the voluntary winding up, the functions of the liquidator (or any provisional liquidator) shall not be exercisable in relation to—
+
+(a) property, other than heritable property situated in Scotland, for the time being subject to a restraint order made before the relevant time and heritable property situated in Scotland for the time being subject to a restraint order recorded in the General Register of Sasines or, as the case may be, registered in the Land Register of Scotland before the relevant time; and
+
+(b) any proceeds of property realised by virtue of paragraph 1 of Schedule 1 to this Act for the time being in the hands of an administrator appointed under that paragraph.
+
+(2) Where, in the case of a company, such an order has been made or such a resolution has been passed, the powers conferred on the court by sections 28 to 33 [^F79]. . . of and the said Schedule 1 to this Act or on an administrator appointed under paragraph 1 of that Schedule shall not be exercised in relation to any realisable or forfeitable property held by the company in relation to which the functions of the liquidator are exercisable—
+
+(a) so as to inhibit the liquidator from exercising those functions for the purpose of distributing any property held by the company to the company’s creditors; or
+
+(b) so as to prevent the payment out of any property of expenses (including the remuneration of the liquidator or any provisional liquidator) properly incurred in the winding up in respect of the property.
+
+(3) Nothing in the Insolvency Act 1986 shall be taken as restricting, or enabling the restriction of, the exercise of the powers so conferred.
+
+(4) [^F80]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) [^F81]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6) In this paragraph—
+
+- “company” means any company which may be wound up under the Insolvency Act 1986; and
+
+- “the relevant time” means—
+
+  - (a) where no order for the winding up of the company has been made, the time of the passing of the resolution for voluntary winding up;
+  - (b) where such an order has been made and, before the presentation of the petition for the winding up of the company by the court, such a resolution had been passed by the company, the time of the passing of the resolution; and
+  - (c) in any other case where such an order has been made, the time of the making of the order.
+
+### Property subject to floating charge
+
+**4** (1) Where any property held subject to a floating charge by a company is realisable or forfeitable property and a receiver has been appointed by, or on the application of, the holder of the charge, the powers of the receiver in relation to the property so held shall not be exercisable in relation to—
+
+(a) so much of it, not being heritable property situated in Scotland, as is for the time being subject to a restraint order made before the appointment of the receiver and so much of it, being heritable property situated in Scotland, as is for the time being subject to a restraint order recorded in the General Register of Sasines or, as the case may be, registered in the Land Register of Scotland before such appointment; and
+
+(b) any proceeds of property realised by virtue of paragraph 1 of Schedule 1 to this Act for the time being in the hands of an administrator appointed under that paragraph.
+
+(2) Where, in the case of a company, such an appointment has been made, the powers conferred on the court by sections 28 to 33 [^F82]. . . of and the said Schedule 1 to this Act or on an administrator appointed under paragraph 1 of that Schedule shall not be exercised in relation to any realisable property held by the company in relation to which the powers of the receiver are exercisable—
+
+(a) so as to inhibit the receiver from exercising his powers for the purpose of distributing any property held by the company to the company’s creditors; or
+
+(b) so as to prevent the payment out of any property of expenses (including the remuneration of the receiver) properly incurred in the exercise of the receiver’s powers in respect of the property.
+
+(3) Nothing in the [^M26]Insolvency Act 1986, shall be taken as restricting, or enabling the restriction of, the exercise of the powers so conferred.
+
+(4) In this paragraph—
+
+- “company” has the same meaning as in paragraph 3 above; and
+- “floating charge” includes a floating charge within the meaning given by section 462 of the [^M27]Companies Act 1985 (power of incorporated company to create floating charge).
+
+### Insolvency practitioners dealing with property subject to restraint order
+
+**5** (1) Without prejudice to the generality of any enactment contained in the Insolvency Act 1986 or in the [[^F83]2016] Act, where
+
+(a) any person acting as an insolvency practitioner seizes or disposes of any property in relation to which his functions are, because that property is for the time being subject to a restraint order, not exercisable; and
+
+(b) at the time of the seizure or disposal he believes, and has reasonable grounds for believing, that he is entitled (whether in pursuance of a court order or otherwise) to seize or dispose of that property,
+
+he shall not be liable to any person in respect of any loss or damage resulting from the seizure or disposal except in so far as the loss or damage is caused by the insolvency practitioner’s negligence; and the insolvency practitioner shall have a lien on the property, or the proceeds of its sale, for such of his expenses as were incurred in connection with the liquidation, sequestration or other proceedings in relation to which the seizure or disposal purported to take place and for so much of his remuneration as may reasonably be assigned for his actings in connection with those proceedings.
+
+(2) Any person who, acting as an insolvency practitioner, incurs expenses—
+
+(a) in respect of such realisable property as is mentioned in sub-paragraph (1)(a) above and in so doing does not know and has no reasonable grounds to believe that the property is for the time being subject to a restraint order; or
+
+(b) other than in respect of such realisable property as is so mentioned, being expenses which, but for the effect of a restraint order, might have been met by taking possession of and realising the property,
+
+shall be entitled (whether or not he has seized or disposed of that property so as to have a lien under sub-paragraph (1) above) to payment of those expenses under paragraph 4(2) or (4)(a) of Schedule 1 to this Act.
+
+(3) In the foregoing provisions of this paragraph, the expression “acting as an insolvency practitioner” shall be construed in accordance with section 388 (interpretation) of the said Act of 1986 except that for the purposes of such construction [^F84]... subsection (5) of that section shall be disregarded; and the expression shall also comprehend the official receiver acting as receiver or manager of the property.
+
+### Interpretation
+
+**6** (1) In this Schedule “the [[^F85]2016] Act” means the [^M28]Bankruptcy (Scotland) Act [[^F85]2016] .
+
+(2) References in this Schedule to the conclusion of proceedings, except for the purposes of paragraph 2(5) above, shall be construed—
+
+(a) [^F86]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) as regards property subject to a restraint order under section 28(1)(b) of this Act, in accordance with section 30(5) of this Act.
+
+(3) References in this Schedule to property held by a person include a reference to property vested in the [[^F87]trustee (or interim trustee)] in his sequestration or in his trustee in bankruptcy or liquidation.
+
+### TABLE OF DERIVATIONS
+
+#### Notes:
+
+**1** This Table shows the derivation of the provisions of the Act.
+
+**2** The following abbreviations are used in the Table:—
+
+|  |  |
+|---|---|
+| 1987 | = Criminal Justice (Scotland) Act 1987 (c. 41) |
+| 1988 | = Criminal Justice Act 1988 (c. 33) |
+| 1993 | = Criminal Justice Act 1993 (c. 36) |
+| 1994 | = Drug Trafficking Act 1994 (c. 37) |
+| 1995 | = Criminal Justice (Scotland) Act 1995 (1995 c. 20) |
+| 1995CP | = Criminal Procedure (Consequential Provisions) (Scotland) Act (1995 c. 40) |
+| 1995CLC | = Criminal Law (Consolidation) (Scotland) Act 1995 (1995 c. 39) |
+
+<table>
+<tbody>
+<tr><th>Provision</th><th>Derivation</th></tr>
+<tr><td>1(1)</td><td>1987 s.1(1); 1995 s.70(1), Sch.5 §.2</td></tr>
+<tr><td>(2)</td><td>1987 s.1(2); 1995 s.70(2), Sch.5 §.2</td></tr>
+<tr><td>(3)</td><td>1987 s.1(2B); 1995 s.70(3), Sch.5 §.2</td></tr>
+<tr><td>(4)</td><td>1995 s.70(4)</td></tr>
+<tr><td>(5)</td><td>1987 s.1(1); 1995 s.70(5), Sch.5 §.2</td></tr>
+<tr><td>(6)</td><td>1987 s.1(2A); 1995 s.70(6), Sch.5 §.2</td></tr>
+<tr><td>(7)</td><td>1987 s.1(4); 1995 s.70(7)</td></tr>
+<tr><td>2</td><td>1995 s.71</td></tr>
+<tr><td>3</td><td>1987 s.3; 1994 Sch.1 §.12; 1995 Sch.5 §.4</td></tr>
+<tr><td>4(1)</td><td>1987 s.5(1); 1995 s.72(1), Sch.5 §.6</td></tr>
+<tr><td>(2)</td><td>1987 s.5(2); 1995 s.72(2), Sch.5 §.6</td></tr>
+<tr><td>(3)</td><td>1987 s.5(4); 1995 s.72(3), Sch.5 §.6</td></tr>
+<tr><td>(4)</td><td>1987 s.5(5); 1995 s.72(4), Sch.5 §.6</td></tr>
+<tr><td>(5)</td><td>1987 s.5(5); 1995 s.72(5), Sch.5 §.6</td></tr>
+<tr><td>(6)</td><td>1987 s.5(7); 1995 Sch.5 §.6</td></tr>
+<tr><td>5(1)</td><td>1995 s.73(1)</td></tr>
+<tr><td>(2)</td><td>1995 s.73(2)(part)</td></tr>
+<tr><td>(3)</td><td>1995 s.73(6)</td></tr>
+<tr><td>(4)</td><td>1995 s.73(7)</td></tr>
+<tr><td>(5)</td><td>1995 s.73(8)</td></tr>
+<tr><td>6(1)</td><td>1987 s.6(1); Law Reform (Miscellaneous Provisions) (Scotland) Act 1990 (c. 40) Sch.8 §.37; 1995 Sch.5 §.7</td></tr>
+<tr><td>(2)</td><td>1987 s.6(2)(part); 1995 Sch.5 §.7</td></tr>
+<tr><td>(3)</td><td>1987 s.5(7A); 1995 Sch.5 §.6</td></tr>
+<tr><td>(4)</td><td>1987 s.5(7B); 1995 Sch.5 §.6</td></tr>
+<tr><td>(5)</td><td>1987 s.5(7C); 1995 Sch.5 §.6</td></tr>
+<tr><td>7(1)</td><td>1987 s.6(2)(part); 1995 s.73(2)(part), Sch.5 §.7</td></tr>
+<tr><td>(2)</td><td>1987 s.6(2)(part); 1995 s.73(2)(part), Sch.5 §.7</td></tr>
+<tr><td>(3)</td><td>1987 s.6(2)(part); 1995 s.73(2)(part), Sch.5 §.7</td></tr>
+<tr><td>(4)</td><td>1987 s.6(3); 1995 s.73(3), Sch.5 §.7</td></tr>
+<tr><td>(5)</td><td>1987 s.6(3A); 1995 s.73(4), Sch.5 §.7</td></tr>
+<tr><td>(6)</td><td>1995 s.73(5)</td></tr>
+<tr><td>8(1)</td><td>1987 s.1(2C); 1995 s.74(1), Sch.5 §.2</td></tr>
+<tr><td>(2)</td><td>1987 s.1(2D); 1995 s.74(2), Sch.5 §.2</td></tr>
+<tr><td>(3)</td><td>1987 s.1(5); 1995 s.74(3), Sch.5 §.2</td></tr>
+<tr><td>(4)</td><td>1987 s.1(2E); 1995 s.74(4), Sch.5 §.2</td></tr>
+<tr><td>9(1)</td><td>1987 s.4(1)(part); 1995 s.75(1), Sch.5 §.5</td></tr>
+<tr><td>(2)</td><td>1987 s.4(1)(part); 1995 s.75(2), Sch.5 §.5</td></tr>
+<tr><td>(3)</td><td>1987 s.4(2); 1995 s.75(3), Sch.5 §.5</td></tr>
+<tr><td>(4)</td><td>1987 s.4(3); 1995 s.75(4)</td></tr>
+<tr><td>(5)</td><td>1987 s.4(4); 1995 s.75(5), Sch.5 §.5</td></tr>
+<tr><td>(6)</td><td>1987 s.4(6); 1995 s.75(6), Sch.5 §.5</td></tr>
+<tr><td>(7)</td><td>1995 s.75(7)</td></tr>
+<tr><td>(8)</td><td>1987 s.4(5)</td></tr>
+<tr><td>10</td><td>1987 s.2; 1995 s.76, Sch.5 §.3</td></tr>
+<tr><td>11</td><td>1987 s.6A; 1995 s.77, Sch.5 §.8</td></tr>
+<tr><td>12</td><td>1987 s.25; 1995 s.78, Sch.23</td></tr>
+<tr><td>13(1)</td><td>1987 s.6B(1); 1995 s.79(1), Sch.5 §.8</td></tr>
+<tr><td>(2)</td><td>1987 s.6B(2); 1995 s.79(2), Sch.5 §.8</td></tr>
+<tr><td>(3)</td><td>1987 s.6B(3); 1995 s.79(3), Sch.5 §.8</td></tr>
+<tr><td>(4)</td><td>1987 s.6B(4); 1995 s.79(4), Sch.5 §.8</td></tr>
+<tr><td>(5)</td><td>1987 s.6B(7); 1995 s.79(5), Sch.5 §.8</td></tr>
+<tr><td>(6)</td><td>1987 s.6B(6); 1995 s.79(6), Sch.5 §.8</td></tr>
+<tr><td>(7)</td><td>1987 s.6B(9); 1995 s.79(7), Sch.5 §.8</td></tr>
+<tr><td>(8)</td><td>1987 s.6B(8); 1995 s.79(8), Sch.5 §.8</td></tr>
+<tr><td>(9)</td><td>1987 s.6B(5); 1995 Sch.5 §.8</td></tr>
+<tr><td>(10)</td><td>1987 s.6B(10); 1995 s.79(9), Sch.5 §.8</td></tr>
+<tr><td>14</td><td>1987 s.7; 1994 Sch.1 §.13; 1995 s.80, Sch.5 §.9</td></tr>
+<tr><td>15</td><td>Criminal Justice (International Co-operation) Act 1990 (c. 5) s.15; 1995 s.81</td></tr>
+<tr><td>16</td><td>1987 s.23; 1995 s.82, Sch.5 §.21</td></tr>
+<tr><td>17(1)</td><td>1987 s.26(1); 1995 s.83(1), Sch.5 §.24</td></tr>
+<tr><td>(2)</td><td>1987 s.26(1A); 1995 s.83(2), Sch.5 §.24</td></tr>
+<tr><td>(3)</td><td>1987 s.26(2); 1995 s.83(3), Sch.5 §.24</td></tr>
+<tr><td>(4)</td><td>1987 s.26(3); 1995 s.83(4), Sch.5 §.24</td></tr>
+<tr><td>(5)</td><td>1987 s.26(4); 1995 s.83(5), Sch.5 §.24</td></tr>
+<tr><td>(6)</td><td>1987 s.26(6), 47(5); 1995 s.83(6), Sch.5 §.24</td></tr>
+<tr><td>(7)</td><td>1987 s.47(1); 1995 s.83(7), Sch.5 §.33</td></tr>
+<tr><td>18</td><td>1995 s.18</td></tr>
+<tr><td>19</td><td>1995 s.19</td></tr>
+<tr><td>20</td><td>1995 s.20</td></tr>
+<tr><td>21</td><td>1995 s.84</td></tr>
+<tr><td>22</td><td>1995 s.85</td></tr>
+<tr><td>23</td><td>1995 s.86</td></tr>
+<tr><td>24</td><td>1995 s.87</td></tr>
+<tr><td>25</td><td>1995 s.88</td></tr>
+<tr><td>26</td><td>1995 s.89</td></tr>
+<tr><td>27</td><td>1995 s.90</td></tr>
+<tr><td>28(1)</td><td>1987 s.8(1); 1995 s.91(1), Sch.5 §.11</td></tr>
+<tr><td>(2)</td><td>1987 s.8(2); 1995 s.91(2), Sch.5 §.11</td></tr>
+<tr><td>(3)</td><td>1987 s.8(7); 1995 s.91(3), Sch.5 §.11</td></tr>
+<tr><td>(4)</td><td>1987 s.8(8); 1995 s.91(4), Sch.5 §.11</td></tr>
+<tr><td>(5)</td><td>1987 s.10(1); 1994 Sch.1 §.14; 1995 s.91(5)</td></tr>
+<tr><td>(6)</td><td>1987 s.10(2); 1995 s.91(6)</td></tr>
+<tr><td>(7)</td><td>1987 s.8(9); 1995 s.91(7), Sch.5 §.11</td></tr>
+<tr><td>(8)</td><td>1987 s.12(1); 1995 s.91(8), Sch.5 §.14</td></tr>
+<tr><td>(9)</td><td>1987 s.12(2); 1995 s.91(9)</td></tr>
+<tr><td>(10)</td><td>1987 s.12(3); 1995 s.91(10), Sch.5 §.14</td></tr>
+<tr><td>29(1)</td><td>1995 s.92(1); Drafting</td></tr>
+<tr><td>(2)</td><td>1987 s.8(3); 1995 s.92(2), Sch.5 §.11</td></tr>
+<tr><td>(3)</td><td>1987 s.8(4); 1995 s.92(3), Sch.5 §.11</td></tr>
+<tr><td>(4)</td><td>1987 s.8(5); 1995 s.92(4), Sch.5 §.11</td></tr>
+<tr><td>(5)</td><td>1987 s.8(6); 1995 s.92(5), Sch.5 §.11</td></tr>
+<tr><td>(6)</td><td>1987 s.47(5); 1995 s.92(6), Sch.5 §.33</td></tr>
+<tr><td>(7)</td><td>1987 s.8(10); 1995 s.92(7), Sch.5 §.11</td></tr>
+<tr><td>30</td><td>1995 s.93</td></tr>
+<tr><td>31</td><td>1987 s.9; 1995 s.94, Sch.5 §.11</td></tr>
+<tr><td>32</td><td>1987 s.11; 1995 s.95, Sch.5 §.12</td></tr>
+<tr><td>33</td><td>1987 s.11A; 1995 s.96, Sch.5 §.13</td></tr>
+<tr><td>34</td><td>1995 s.97; Drafting</td></tr>
+<tr><td>35</td><td>1987 s.27; 1994 Sch.1 §.18; 1995 s.98</td></tr>
+<tr><td>36</td><td>1987 s.28; 1994 Sch.1 §.19; 1995 s.99</td></tr>
+<tr><td>37</td><td>1987 s.28A; 1995 s.100, Sch.5 §.25</td></tr>
+<tr><td>38</td><td>1987 s.28B; 1995 s.101, Sch.5 §.25</td></tr>
+<tr><td>39(1)</td><td>1987 s.29(1); 1995 s.102(1)</td></tr>
+<tr><td>(2)</td><td>1987 s.29(2); 1995 s.102(2)</td></tr>
+<tr><td>(3)</td><td>1987 s.29(3); 1995 s.102(3)</td></tr>
+<tr><td>(4)</td><td>1987 s.29(3A); 1993 s.22(2)</td></tr>
+<tr><td>(5)</td><td>1987 s.29(4); 1993 s.21(3); 1995 s.102(4)</td></tr>
+<tr><td>40</td><td>1987 s.30; Law Reform Miscellaneous Provisions (Scotland) Act 1990 (c. 40) s.63; 1993 s.21(3); 1995 s.103</td></tr>
+<tr><td>41</td><td>1987 s.30A; Law Reform Miscellaneous Provisions (Scotland) Act 1990 (c. 40) s.63; 1995 s.104</td></tr>
+<tr><td>42</td><td>1995 s.105</td></tr>
+<tr><td>43</td><td>1987 s.32; 1995 s.106, Sch.5 §.27</td></tr>
+<tr><td>44</td><td>1995 s.107; Drafting</td></tr>
+<tr><td>45</td><td>1987 s.7A; 1995 s.108, Sch.5 §.10</td></tr>
+<tr><td>46</td><td>1987 s.37A; 1995 s.109, Sch.5 §.32</td></tr>
+<tr><td>47(1)</td><td>1987 s.45(1); 1995 s.110(4)</td></tr>
+<tr><td>(2)</td><td>1987 s.45(2); 1995 s.110(5)</td></tr>
+<tr><td>(3)</td><td>1987 s.45(5); 1995 s.110(7)</td></tr>
+<tr><td>(4)</td><td>1987 s.45(4); 1995 s.110(6)</td></tr>
+<tr><td>48</td><td>1987 s.46</td></tr>
+<tr><td>49(1)</td><td>1995 s.111(1)</td></tr>
+<tr><td>(2)</td><td>1987 s.1(6); 1988 Sch.5 §.19; 1990 Sch.4 §.5; 1993 s.24(13)</td></tr>
+<tr><td>(3)</td><td>1987 s.1(6)</td></tr>
+<tr><td>(4)</td><td>1987 s.1(7); 1993 s.24(15)</td></tr>
+<tr><td>(5)</td><td>1987 s.1(6); 1990 Sch.4 §.5; 1993 s.24(14)</td></tr>
+<tr><td>(6)</td><td>1987 ss.5(3), 8(12); 1995 s.111(3), Sch.5 §s.6, 11</td></tr>
+<tr><td>(7)</td><td>1987 s.47(6); 1995 s.111(4), Sch.5 §.33</td></tr>
+<tr><td>50(1), (2)</td><td>Drafting</td></tr>
+<tr><td>(3) — (5)</td><td>1995 s.115(4) — (6)</td></tr>
+<tr><td colspan="2">Sch. 1</td></tr>
+<tr><td>§.1</td><td>1987 s.13; 1995 Sch.3 §.1, Sch.5 §.15</td></tr>
+<tr><td>§.2</td><td>1987 s.14; 1995 Sch.3 §.2, Sch.5 §.16</td></tr>
+<tr><td>§.3</td><td>1987 s.15; 1995 Sch.3 §.3</td></tr>
+<tr><td>§.4</td><td>1987 s.16; 1988 Sch.5 §.21; 1995 Sch.3 §.4, Sch.5 §.17</td></tr>
+<tr><td>§.5</td><td>1987 s.17; 1995 Sch.3 §.5, Sch.5 §.18</td></tr>
+<tr><td>§.6</td><td>1987 s.18; 1995 Sch.3 §.6, Sch.5 §.19</td></tr>
+<tr><td>§.7</td><td>1987 s.19; 1995 Sch.3 §.7</td></tr>
+<tr><td>§.8</td><td>1987 s.20; 1995 Sch.3 §.8, Sch.5 §.20</td></tr>
+<tr><td>§.9</td><td>1987 s.21; 1995 Sch.3 §.9</td></tr>
+<tr><td>§.10</td><td>1987 s.26(5), (6), 47(5); 1995 Sch.3 §.10</td></tr>
+<tr><td>§.11</td><td>1987 s.22; 1995 Sch.5 §.11</td></tr>
+<tr><td>§.12</td><td>1987 s.24; 1995 Sch.5 §.12</td></tr>
+<tr><td>Sch. 2</td><td>1</td></tr>
+<tr><td>§.1</td><td>1987 s.33; Housing Act 1988 (c. 50) Sch.17 §.81; 1995 Sch.4 §.1, Sch.5 §.28</td></tr>
+<tr><td>§.2</td><td>1987 s.34; 1988 Sch.5 §.22; Housing Act 1988 (c. 50) Sch.17 §.81; 1995 Sch.4 §.2, Sch.5 §.29</td></tr>
+<tr><td>§.3</td><td>1987 s.35; 1995 Sch.4 §.3, Sch.5 §.30</td></tr>
+<tr><td>§.4</td><td>1987 s.36; 1995 Sch.4 §.4, Sch.5 §.31</td></tr>
+<tr><td>§.5</td><td>1987 s.37; 1995 Sch.4 §.5, Sch.5 §.32</td></tr>
+<tr><td>§.6</td><td>1987 s.47(1), (4); 1995 Sch.4 §.6</td></tr>
+</tbody>
+</table>
+
+---
+
+[^F1]: Pt. I (ss. 1-20) (except s. 2(7)) repealed (24.2.2003 in so far as repeals ss. 18-20 and otherwise 24.3.2003) by Proceeds of Crime Act 2002 (c. 29), ss. 456-458(1), Sch. 11 para. 28(2)(a), Sch. 12; S.I. 2003/120, art. 2(1), Sch. (subject to arts. 3-7 (as amended by S.I. 2003/333, art. 14)); S.S.I. 2003/210, art. 2, Sch. (subject to arts. 3-7)
+[^F2]: Words in s. 1(2) substituted (19.2.2001) by 2000 c. 11, s. 125, Sch. 15 para. 11(2); S.I. 2001/421, art. 2 (with art. 3)
+[^F3]: Pt. I (ss. 1-20) (except s. 2(7)) repealed (24.2.2003 in so far as repeals ss. 18-20 and otherwise 24.3.2003) by Proceeds of Crime Act 2002 (c. 29), ss. 456-458(1), Sch. 11 para. 28(2)(a), Sch. 12; S.I. 2003/120, art. 2(1), Sch. (subject to arts. 3-7 (as amended by S.I. 2003/333, art. 14)); S.S.I. 2003/210, art. 2, Sch. (subject to arts. 3-7)
+[^M1]: 1990 c. 5.
+[^M2]: 1995 c.39.
+[^M3]: 1985 c.66.
+[^M4]: 1986 c.45.
+[^M5]: 1980 c.43.
+[^M6]: S.I. 1981/1675 (N.I. 26)>
+[^M7]: 1989 c.45.
+[^F4]: S. 14(2)(i) added (20.10.1997 for specified purposes and otherwise 1.1.1998) by 1997 c. 48, s. 15(3); S.I. 1997/2323, arts. 3, 4, Sch. 1, Sch. 2
+[^M8]: 1967 c.77.
+[^M9]: 1947 c.44.
+[^M10]: 1995 c.39.
+[^F5]: S. 18(12) added (30.9.1998) by 1998 c. 37, s. 119, Sch. 8 para. 115; S.I. 1998/2327, arts. 1(y), 2(2)(jj)
+[^F6]: Words in s. 19(6) substituted (30.9.1998) by 1998 c. 37, s. 119, Sch. 8 para. 116; S.I. 1998/2327, arts. 1(y), 2(2)(jj)
+[^M11]: 1979 c.2.
+[^M12]: 1947 c.44.
+[^F7]: Words in s. 25(9) repealed (1.2.2011) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), ss. 14(2), 206, Sch. 2 para. 40(2); S.S.I. 2010/413, art. 2, Sch. (with art. 3)
+[^F8]: Words in s. 26(9) repealed (1.2.2011) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), ss. 14(2), 206, Sch. 2 para. 40(3); S.S.I. 2010/413, art. 2, Sch. (with art. 3)
+[^F9]: Words in s. 27(1) substituted (22.9.2015) by The Courts Reform (Scotland) Act 2014 (Consequential Provisions No. 2) Order 2015 (S.S.I. 2015/338), art. 1, sch. 2 para. 4(2) (with art. 4)
+[^F10]: Words in s. 27(1) substituted (22.9.2015) by The Courts Reform (Scotland) Act 2014 (Consequential Provisions No. 2) Order 2015 (S.S.I. 2015/338), art. 1, sch. 2 para. 4(3) (with art. 4)
+[^F11]: Words in s. 27(3) substituted (22.9.2015) by The Courts Reform (Scotland) Act 2014 (Consequential Provisions No. 2) Order 2015 (S.S.I. 2015/338), art. 1, sch. 2 para. 4(2) (with art. 4)
+[^F12]: S. 27(4) inserted (22.9.2015) by The Courts Reform (Scotland) Act 2014 (Consequential Provisions No. 2) Order 2015 (S.S.I. 2015/338), art. 1, sch. 2 para. 4(4) (with art. 4)
+[^F13]: S. 28(1)(a) repealed (24.3.2003) by Proceeds of Crime Act 2002 (c. 29), ss. 456-458(1), Sch. 11 para. 28(2)(b), Sch. 12; S.S.I. 2003/210, art. 2, Sch. (subject to arts. 3-7)
+[^F14]: S. 28(2) repealed (24.3.2003) by Proceeds of Crime Act 2002 (c. 29), ss. 456-458(1), Sch. 11 para. 28(2)(b), Sch. 12; S.S.I. 2003/210, art. 2, Sch. (subject to arts. 3-7)
+[^F15]: Words in s. 28(5) repealed (24.3.2003) by Proceeds of Crime Act 2002 (c. 29), ss. 456-458(1), Sch. 11 para. 28(2)(b), Sch. 12; S.S.I. 2003/210, art. 2, Sch. (subject to arts. 3-7)
+[^F16]: Words in s. 28(9) substituted (24.3.2003) by Proceeds of Crime Act 2002 (c. 29), ss. 456, 458(1), Sch. 11 para. 28(5); S.S.I. 2003/210, art. 2, Sch. (subject to arts. 3-7)
+[^F17]: S. 29 repealed (24.3.2003) by Proceeds of Crime Act 2002 (c. 29), ss. 456-458(1), Sch. 11 para. 28(2)(c), Sch. 12; S.S.I. 2003/210, art. 2, Sch. (subject to arts. 3-7)
+[^F18]: Words in s. 30(5)(c) inserted (S.) (28.11.2016) by The Courts Reform (Scotland) Act 2014 (Relevant Officer and Consequential Provisions) Order 2016 (S.S.I. 2016/387), art. 1, sch. 3 para. 2 (with art. 4(2))
+[^F19]: S. 31(2) repealed (24.3.2003) by Proceeds of Crime Act 2002 (c. 29), ss. 456-458(1), Sch. 11 para. 28(2)(d), Sch. 12; S.S.I. 2003/210, art. 2, Sch. (subject to arts. 3-7)
+[^F20]: Words in s. 31(4) repealed (24.3.2003) by Proceeds of Crime Act 2002 (c. 29), ss. 456-458(1), Sch. 11 para. 28(2)(d), Sch. 12; S.S.I. 2003/210, art. 2, Sch. (subject to arts. 3-7)
+[^F21]: Words in s. 32(1) substituted (22.4.2009) by Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3), ss. 226, 227, Sch. 5 para. 22(a)(i) (with s. 223); S.S.I. 2009/67, art. 3, Sch. 1 (with arts. 4-6)
+[^F22]: Words in s. 32(1)(a) substituted (22.4.2009) by Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3), ss. 226, 227, Sch. 5 para. 22(a)(ii) (with s. 223); S.S.I. 2009/67, art. 3, Sch. 1 (with arts. 4-6)
+[^F23]: Words in s. 32(1)(b) substituted (22.4.2009) by Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3), ss. 226, 227, Sch. 5 para. 22(a)(iii) (with s. 223); S.S.I. 2009/67, art. 3, Sch. 1 (with arts. 4-6)
+[^M13]: 1868 c.101.
+[^F24]: Words in s. 32(2) repealed (22.4.2009) by Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3), ss. 226, 227, Sch. 6 (with s. 223); S.S.I. 2009/67, art. 3, Sch. 2 (with arts. 4-6)
+[^F25]: S. 32(3) repealed (22.4.2009) by Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3), ss. 226, 227, Sch. 6 (with s. 223); S.S.I. 2009/67, art. 3, Sch. 2 (with arts. 4-6)
+[^F26]: Words in s. 32(5) substituted (22.4.2009) by Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3), ss. 226, 227, Sch. 5 para. 22(b) (with s. 223); S.S.I. 2009/67, art. 3, Sch. 1 (with arts. 4-6)
+[^F27]: Words in s. 32(5)(b) repealed (22.4.2009) by Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3), ss. 226, 227, Sch. 6 (with s. 223); S.S.I. 2009/67, art. 3, Sch. 2 (with arts. 4-6)
+[^F28]: S. 35 repealed (24.3.2003) by Proceeds of Crime Act 2002 (c. 29), ss. 456-458(1), Sch. 11 para. 28(2)(e), Sch. 12; S.I. 2003/333, art. 2, Sch. (with transitional provisions in arts. 3-13) (as amended by S.I. 2003/531)
+[^F29]: S. 36 repealed (24.3.2003) by Proceeds of Crime Act 2002 (c. 29), ss. 456-458(1), Sch. 11 para. 28(2)(e), Sch. 12; S.I. 2003/333, art. 2, Sch. (with transitional provisions in arts. 3-13) (as amended by S.I. 2003/531)
+[^F30]: S. 37 repealed (24.3.2003) by Proceeds of Crime Act 2002 (c. 29), ss. 456-458(1), Sch. 11 para. 28(2)(e), Sch. 12; S.I. 2003/333, art. 2, Sch. (with transitional provisions in arts. 3-13) (as amended by S.I. 2003/531)
+[^F31]: S. 38 repealed (24.3.2003) by Proceeds of Crime Act 2002 (c. 29), ss. 456-458(1)(3), Sch. 11 para. 28(2)(e), Sch. 12; S.I. 2003/333, art. 2, Sch. (with transitional provisions in arts. 3-13) (as amended by S.I. 2003/531)
+[^F32]: S. 39 repealed (24.3.2003) by Proceeds of Crime Act 2002 (c. 29), ss. 456-458(1), Sch. 11 para. 28(2)(e), Sch. 12; S.I. 2003/333, art. 2, Sch. (with transitional provisions in arts. 3-13) (as amended by S.I. 2003/531)
+[^F33]: S. 40(1)(a) repealed (24.3.2003) by Proceeds of Crime Act 2002 (c. 29), ss. 456-458(1), Sch. 11 para. 28(2)(f), Sch. 12; S.S.I. 2003/210, art. 2, Sch. (subject to arts. 3-7)
+[^F34]: S. 40(2) repealed (24.3.2003) by Proceeds of Crime Act 2002 (c. 29), ss. 456-458(1), Sch. 11 para. 28(2)(f), Sch. 12; S.S.I. 2003/210, art. 2, Sch. (subject to arts. 3-7)
+[^F35]: S. 40(4) repealed (24.3.2003) by Proceeds of Crime Act 2002 (c. 29), ss. 456-458(1), Sch. 11 para. 28(2)(f), Sch. 12; S.S.I. 2003/210, art. 2, Sch. (subject to arts. 3-7)
+[^F36]: S. 42(1)(a) repealed (24.3.2003) by Proceeds of Crime Act 2002 (c. 29), ss. 456-458(1), Sch. 11 para. 28(2)(g), Sch. 12; S.I. 2003/333, art. 2, Sch. (with transitional provisions in arts. 3-13) (as amended by S.I. 2003/531)
+[^F37]: S. 42(1)(b) repealed (24.3.2003) by Proceeds of Crime Act 2002 (c. 29), ss. 456-458(1), Sch. 11 para. 28(2)(g), Sch. 12; S.I. 2003/333, art. 2, Sch. (with transitional provisions in arts. 3-13) (as amended by S.I. 2003/531)
+[^F38]: Words in s. 42(1)(c) substituted (19.2.2001) by 2000 c. 11, s. 125, Sch. 15 para. 11; S.I. 2001/421, art. 2
+[^F39]: Words in s. 42(2)(a) substituted (24.3.2003) by Proceeds of Crime Act 2002 (c. 29), ss. 456, 458(1), Sch. 11 para. 28(6); S.S.I. 2003/210, art. 2, Sch. (subject to arts. 3-7)
+[^F40]: Words in s. 42(2)(c)(i) substituted (24.3.2003) by Proceeds of Crime Act 2002 (c. 29), ss. 456, 458(1), Sch. 11 para. 28(6); S.S.I. 2003/210, art. 2, Sch. (subject to arts. 3-7)
+[^F41]: Words in s. 42(2)(c)(ii) substituted (24.3.2003) by Proceeds of Crime Act 2002 (c. 29), ss. 456, 458(1), Sch. 11 para. 28(6); S.S.I. 2003/210, art. 2, Sch. (subject to arts. 3-7)
+[^F42]: Words in s. 42(2)(d) substituted (24.3.2003) by Proceeds of Crime Act 2002 (c. 29), ss. 456, 458(1), Sch. 11 para. 28(6); S.S.I. 2003/210, art. 2, Sch. (subject to arts. 3-7)
+[^F43]: Words in s. 43(1) repealed (24.3.2003) by Proceeds of Crime Act 2002 (c. 29), ss. 456-458(1), Sch. 11 para. 28(2)(h), Sch. 12; S.S.I. 2003/210, art. 2, Sch. (subject to arts. 3-7)
+[^F44]: S. 43(2) repealed (24.3.2003) by Proceeds of Crime Act 2002 (c. 29), ss. 456-458(1), Sch. 11 para. 28(2)(h), Sch. 12; S.S.I. 2003/210, art. 2, Sch. (subject to arts. 3-7)
+[^F45]: S. 45(1)(a) repealed (24.3.2003) by Proceeds of Crime Act 2002 (c. 29), ss. 456-458(1), Sch. 11 para. 28(2)(i), Sch. 12; S.S.I. 2003/210, art. 2, Sch. (subject to arts. 3-7)
+[^M14]: 1968 c.70.
+[^F46]: S. 47 repealed (24.3.2003) by Proceeds of Crime Act 2002 (c. 29), ss. 456-458(1), Sch. 11 para. 28(2)(j), Sch. 12; S.S.I. 2003/210, art. 2, Sch. (subject to arts. 3-7)
+[^F47]: In s. 49(1) the definition of "the 1988 Act" repealed (24.3.2003) by Proceeds of Crime Act 2002 (c. 29), ss. 456-458(1)(3), Sch. 11 para. 28(2)(k), Sch. 12; S.S.I. 2003/210, {art. 2}, Sch. (subject to arts. 3-7)
+[^F48]: S. 49(1): definition of “the 1989 Act” repealed (19.2.2001) by 2000 c. 11, s. 125, Sch. 15 paras. 11(4), Sch. 16 Pt. I; S.I. 2001/421, art. 2 (with art. 3)
+[^F49]: In s. 49(1) the definition of "the 1994 Act" repealed (24.3.2003) by Proceeds of Crime Act 2002 (c. 29), ss. 456-458(1)(3), Sch. 11 para. 28(2)(k), Sch. 12; S.S.I. 2003/210, {art. 2}, Sch. (subject to arts. 3-7)
+[^M15]: 1995 c.46.
+[^F50]: In s. 49(1) the definition of "confiscation order" repealed (24.3.2003) by Proceeds of Crime Act 2002 (c. 29), ss. 456-458(1)(3), Sch. 11 para. 28(2)(k), Sch. 12; S.S.I. 2003/210, {art. 2}, Sch. (subject to arts. 3-7)
+[^M16]: 1971 c.38.
+[^M17]: 1995 c.39.
+[^F51]: S. 49(4) repealed (24.3.2003) by Proceeds of Crime Act 2002 (c. 29), ss. 456-458(1)(3), Sch. 11 para. 28(2)(k), Sch. 12; S.S.I. 2003/210, art. 2, Sch. (subject to arts. 3-7)
+[^M18]: 1971 c.38.
+[^M19]: 1979 c.2.
+[^M20]: 1990 c.5.
+[^M21]: 1995 c. 39.
+[^F52]: Words in Sch. 1 para. 1(1)(b) repealed (24.3.2003) by Proceeds of Crime Act 2002 (c. 29), ss.456- 458(1), Sch. 11 para. 28(3)(a), {Sch. 12}; S.S.I. 2003/210, art. 2, Sch. (subject to arts. 3-7)
+[^F53]: Words in Sch. 1 para. 1(2)(a) repealed (24.3.2003) by Proceeds of Crime Act 2002 (c. 29), ss. 456-458(1), Sch. 11 para. 28(3)(a), Sch. 12; S.S.I. 2003/210, art. 2, Sch. (subject to arts. 3-7)
+[^F54]: Sch. 1 para. 1(2)(b) repealed (24.3.2003) by Proceeds of Crime Act 2002 (c. 29), ss. 456-458(1), Sch. 11 para. 28(3)(a), Sch. 12; S.S.I. 2003/210, art. 2, Sch. (subject to arts. 3-7)
+[^F55]: Words in Sch. 1 para. 1(3)(a)(i) repealed (24.3.2003) by Proceeds of Crime Act 2002 (c. 29), ss. 456-458(1), Sch. 11 para. 28(3)(a), Sch. 12; S.S.I. 2003/210, art. 2, Sch. (subject to arts. 3-7)
+[^M22]: 1889 c. 39.
+[^F56]: Words in Sch. 1 para. 2(1)(a) repealed (24.3.2003) by Proceeds of Crime Act 2002 (c. 29), ss. 456-458(1), Sch. 11 para. 28(3)(b), Sch. 12; S.S.I. 2003/210, art. 2, Sch. (subject to arts. 3-7)
+[^F57]: Words in Sch. 1 para. 2(1)(j) substituted (30.11.2016) by Bankruptcy (Scotland) Act 2016 (asp 21), s. 237(2), sch. 8 para. 14 (with ss. 232, 234(3), 235, 236); S.S.I. 2016/294, reg. 2
+[^M23]: 1979 c. 37.
+[^F58]: Sch. 1 para. 4 repealed (24.3.2003) by Proceeds of Crime Act 2002 (c. 29), ss. 456-458(1), Sch. 11 para. 28(3)(c), Sch. 12; S.S.I. 2003/210, art. 2, Sch. (subject to arts. 3-7)
+[^F59]: Words in Sch. 1 para. 5(1) repealed (24.3.2003) by Proceeds of Crime Act 2002 (c. 29), ss. 456-458(1), Sch. 11 para. 28(3)(d), Sch. 12; S.S.I. 2003/210, art. 2, Sch. (subject to arts. 3-7)
+[^F60]: Word in Sch. 1 para. 7(a) substituted (30.12.2002) by Debt Arrangement and Attachment (Scotland) Act 2002 (asp 17), ss. 61, 64(2), Sch. 3 para. 24
+[^F61]: Words in Sch. 1 para. 7(c) repealed (22.4.2009) by Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3), ss. 226, 227, Sch. 6 (with s. 223); S.S.I. 2009/67, art. 3, Sch. 2 (with arts. 4-6)
+[^F62]: Words in Sch. 1 para. 8(2) repealed (24.3.2003) by Proceeds of Crime Act 2002 (c. 29), ss. 456-458(1), Sch. 11 para. 28(3)(e), Sch. 12; S.S.I. 2003/210, art. 2, Sch. (subject to arts. 3-7)
+[^F63]: Words in Sch. 1 para. 10(1) repealed (24.3.2003) by Proceeds of Crime Act 2002 (c. 29), ss. 456-458(1), Sch. 11 para. 28(3)(f), Sch. 12; S.S.I. 2003/210, art. 2, Sch. (subject to arts. 3-7)
+[^F64]: Sch. 1 para. 10(2) repealed (24.3.2003) by Proceeds of Crime Act 2002 (c. 29), ss. 456-458(1), Sch. 11 para. 28(3)(f), Sch. 12; S.S.I. 2003/210, art. 2, Sch. (subject to arts. 3-7)
+[^F65]: Sch. 1 para. 10(3) repealed (24.3.2003) by Proceeds of Crime Act 2002 (c. 29), ss. 456-458(1), Sch. 11 para. 28(3)(f), Sch. 12; S.S.I. 2003/210, art. 2, Sch. (subject to arts. 3-7)
+[^M24]: 1988 c.36.
+[^F66]: Words in Sch. 1 para. 12(1)(a) repealed (24.3.2003) by Proceeds of Crime Act 2002 (c. 29), ss. 456-458(1), Sch. 11 para. 28(3)(g), Sch. 12; S.S.I. 2003/210, art. 2, Sch. (subject to arts. 3-7)
+[^F67]: Words in Sch. 2 para. 1(1)(a) substituted (30.11.2016) by The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034), art. 1, Sch. 1 para. 14(2)(a)
+[^F68]: Words in Sch. 2 para. 1(2) repealed (24.3.2003) by Proceeds of Crime Act 2002 (c. 29), ss. 456-458(1), Sch. 11 para. 28(4)(a), Sch. 12; S.S.I. 2003/210, art. 2, Sch. (subject to arts. 3-7)
+[^F69]: Words in Sch. 2 para. 1(2)(a) substituted (30.11.2016) by The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034), art. 1, Sch. 1 para. 14(2)(b)(i)
+[^F70]: Words in Sch. 2 para. 1(2)(b) substituted (30.11.2016) by The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034), art. 1, Sch. 1 para. 14(2)(b)(ii)
+[^F71]: Words in Sch. 2 para. 1(2) substituted (30.11.2016) by The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034), art. 1, Sch. 1 para. 14(2)(b)(iii)
+[^F72]: Word in Sch. 2 para. 1(3) substituted (30.11.2016) by The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034), art. 1, Sch. 1 para. 14(2)(c)
+[^F73]: Words in Sch. 2 para. 1(4) substituted (30.11.2016) by The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034), art. 1, Sch. 1 para. 14(2)(d)
+[^F74]: Words in Sch. 2 para. 1(5) substituted (30.11.2016) by The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034), art. 1, Sch. 1 para. 14(2)(e)(i)
+[^F75]: Words in Sch. 2 para. 1(5) substituted (30.11.2016) by The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034), art. 1, Sch. 1 para. 14(2)(e)(ii)
+[^F76]: Words in Sch. 2 para. 2(1) repealed (24.3.2003) by Proceeds of Crime Act 2002 (c. 29), ss. 456-458(1), Sch. 11 para. 28(4)(b), Sch. 12; S.S.I. 2003/210, art. 2, Sch. (subject to arts. 3-7)
+[^M25]: 1986 c. 45.
+[^F77]: Words in Sch. 2 para. 2(2) repealed (24.3.2003) by Proceeds of Crime Act 2002 (c. 29), ss. 456-458(1), Sch. 11 para. 28(4)(b), Sch. 12; S.S.I. 2003/210, art. 2, Sch. (subject to arts. 3-7)
+[^F78]: Sch. 2 para. 2(5) repealed (24.3.2003) by Proceeds of Crime Act 2002 (c. 29), ss. 456-458(1), Sch. 11 para. 28(4)(b), Sch. 12; S.S.I. 2003/210, art. 2, Sch. (subject to arts. 3-7)
+[^F79]: Words in Sch. 2 para 3(2) repealed (24.3.2003) by Proceeds of Crime Act 2002 (c. 29), ss. 456-458(1), Sch. 11 para. 28(4)(c), Sch. 12; S.S.I. 2003/210, art. 2, Sch. (subject to arts. 3-7)
+[^F80]: Sch. 2 para. 3(4) repealed (24.3.2003) by Proceeds of Crime Act 2002 (c. 29), ss. 456-458(1), Sch. 11 para. 28(4)(c), Sch. 12; S.S.I. 2003/210, art. 2, Sch. (subject to arts. 3-7)
+[^F81]: Sch. 2 para. 3(5) repealed (24.3.2003) by Proceeds of Crime Act 2002 (c. 29), ss. 456-458(1), Sch. 11 para. 28(4)(c), Sch. 12; S.S.I. 2003/210, art. 2, Sch. (subject to arts. 3-7)
+[^F82]: Words in Sch. 2 para. 4(2) repealed (24.3.2003) by Proceeds of Crime Act 2002 (c. 29), ss. 456-458(1), Sch. 11 para. 28(4)(d), Sch. 12; S.S.I. 2003/210, art. 2, Sch. (subject to arts. 3-7)
+[^M26]: 1986 c. 45.
+[^M27]: 1985 c. 6.
+[^F83]: Word in Sch. 2 para. 5(1) substituted (30.11.2016) by The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034), art. 1, Sch. 1 para. 14(2)(f)(i)
+[^F84]: Words in Sch. 2 para. 5(3) omitted (30.11.2016) by virtue of The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034), art. 1, Sch. 1 para. 14(2)(f)(ii)
+[^F85]: Word in Sch. 2 para. 6(1) substituted (30.11.2016) by The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034), art. 1, Sch. 1 para. 14(2)(g)(i)
+[^M28]: 1985 c. 66.
+[^F86]: Sch. 2 para. 6(2)(a) repealed (24.3.2003) by Proceeds of Crime Act 2002 (c. 29), ss. 456-458(1), Sch. 11 para. 28(4)(e), Sch. 12; S.S.I. 2003/210, art. 2, Sch. (subject to arts. 3-7)
+[^F87]: Words in Sch. 2 para. 6(3) substituted (30.11.2016) by The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034), art. 1, Sch. 1 para. 14(2)(g)(ii)

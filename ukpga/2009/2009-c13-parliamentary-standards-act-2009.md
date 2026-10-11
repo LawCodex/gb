@@ -1,0 +1,1426 @@
+---
+title: "Parliamentary Standards Act 2009"
+identifier: "ukpga/2009/13"
+citation: "2009 c. 13"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S+N.I."
+date: 2009-07-21
+last_amended: 2023-02-07
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/2009/13"
+source_modified: 2024-08-16
+retrieved: 2026-10-11
+---
+
+# Parliamentary Standards Act 2009
+
+**2009 c. 13**
+
+An Act to make provision establishing a body corporate known as the Independent Parliamentary Standards Authority and an officer known as the Commissioner for Parliamentary Investigations; to make provision relating to salaries and allowances for members of the House of Commons and to their financial interests and conduct; and for connected purposes.
+
+[21st July 2009]
+
+Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## Introductory
+
+### 1 Bill of Rights
+
+Nothing in this Act shall be construed by any court in the United Kingdom as affecting Article IX of the Bill of Rights 1689.
+
+### 2 House of Lords
+
+(1) Nothing in this Act shall affect the House of Lords.
+
+(2) But that is subject to—
+
+[^F1]a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) paragraphs 5(3) and (4), 16(2), 22(1), 24(2)(b) and 25(1) of Schedule 1, and
+
+(c) [[^F2]paragraph 8(2)] of Schedule 2.
+
+## Independent Parliamentary Standards Authority etc
+
+### 3 Independent Parliamentary Standards Authority etc
+
+(1) There is to be a body corporate known as the Independent Parliamentary Standards Authority (“IPSA”).
+
+(2) Schedule 1 (which makes provision about the IPSA, and in particular provides for its administration functions to be carried out by its chief executive in accordance with paragraph 17 of that Schedule) has effect.
+
+[[^F3](3) There is to be an officer known as the Compliance Officer for the Independent Parliamentary Standards Authority (“the Compliance Officer”).
+
+(4) Schedule 2 (which makes provision about the Compliance Officer) has effect.]
+
+(5) There is to be a committee known as the Speaker's Committee for the Independent Parliamentary Standards Authority (“the Committee”).
+
+(6) Schedule 3 (which makes provision about the Committee) has effect.
+
+### 3A [[^F4]General duties of the IPSA
+
+(1) In carrying out its functions the IPSA must have regard to the principle that it should act in a way which is efficient, cost-effective and transparent.
+
+(2) In carrying out its functions the IPSA must have regard to the principle that members of the House of Commons should be supported in efficiently, cost-effectively and transparently carrying out their Parliamentary functions.]
+
+## Salaries and allowances for MPs
+
+### 4 [[^F5]MPs' salaries
+
+(1) Members of the House of Commons are to receive a salary for the relevant period.
+
+(2) The salaries are to be paid by the IPSA.
+
+(3) Salaries are to be paid on a monthly basis in arrears.
+
+(4) The amounts of the salaries are to be determined by the IPSA (see section 4A).
+
+(5) “Relevant period”, in relation to a person who is a member of the House of Commons, means the period beginning with the day after the day of the poll for the parliamentary election at which the member was elected and ending with—
+
+(a) if the person is a member immediately before Parliament is dissolved, the day of the poll for the parliamentary general election which follows the dissolution;
+
+(b) otherwise, the day on which the person ceases to be a member.
+
+(6) No payment of salary is to be made to a member before the member has made and subscribed the oath required by the Parliamentary Oaths Act 1866 (or the corresponding affirmation).
+
+(7) The duty of the IPSA to pay a salary to a member is subject to anything done in relation to the member in the exercise of the disciplinary powers of the House of Commons.
+
+### 4A Determination of MPs' salaries
+
+(1) This section is about determinations under section 4(4).
+
+(2) A determination may provide for higher salaries to be payable to members while holding an office or position specified for the purposes of this subsection in a resolution of the House of Commons.
+
+(3) A determination by virtue of subsection (2) may make different provision for different offices or positions or different classes of member (and may include exceptions).
+
+(4) A determination may include a formula or other mechanism for adjusting salaries from time to time.
+
+(5) A determination (other than the first determination) may have retrospective effect.
+
+(6) The IPSA must review the current determination (and make a new determination as appropriate)—
+
+(a) in the first year of each Parliament;
+
+(b) at any other time it considers appropriate.
+
+(7) In reviewing a determination (and before making the first determination) the IPSA must consult—
+
+(a) the Review Body on Senior Salaries,
+
+(b) persons appearing to the IPSA to represent persons likely to be affected by the determination or the review,
+
+(c) the Minister for the Civil Service,
+
+(d) the Treasury, and
+
+(e) any other person the IPSA considers appropriate.
+
+(8) After making a determination, the IPSA must publish in a way it considers appropriate—
+
+(a) the determination, and
+
+(b) a statement of how it arrived at the determination.
+
+(9) If the IPSA reviews the current determination but decides not to make a new determination, it must publish in a way it considers appropriate a statement of how it arrived at that decision.
+
+(10) The IPSA may delegate to the Review Body on Senior Salaries its function of reviewing a determination (but not its function of deciding whether or not to make a new determination).]
+
+### 5 MPs' allowances scheme
+
+(1) The IPSA is to pay allowances to members of the House of Commons in accordance with the MPs' allowances scheme.
+
+(2) In this Act “the MPs' allowances scheme” means the scheme prepared under this section as it is in effect for the time being.
+
+(3) The IPSA must—
+
+(a) prepare the scheme;
+
+(b) review the scheme regularly and revise it as appropriate.
+
+(4) In preparing or revising the scheme, the IPSA must consult—
+
+(a) the Speaker of the House of Commons,
+
+(b) the Committee on Standards in Public Life,
+
+(c) the Leader of the House of Commons,
+
+(d) any committee of the House of Commons nominated by the Speaker,
+
+(e) members of the House of Commons,
+
+(f) the Review Body on Senior Salaries,
+
+(g) Her Majesty's Revenue and Customs,
+
+(h) the Treasury, and
+
+(i) any other person the IPSA considers appropriate.
+
+(5) The Speaker must lay the scheme (or revision) before the House of Commons.
+
+[[^F6](5A) When the scheme (or revision) is laid, the IPSA must publish in a way it considers appropriate—
+
+(a) the scheme (or revision), and
+
+(b) a statement of its reasons for adopting that scheme (or making that revision).]
+
+(6) The scheme (or revision) comes into effect on the date specified in the scheme (or revision).
+
+(7) The scheme may, for example—
+
+(a) provide for allowances to be payable in respect of specified kinds of expenditure or in specified circumstances;
+
+(b) provide for allowances to be payable only on specified conditions (such as a condition that claims for allowances must be supported by documentary evidence);
+
+(c) impose limits on the amounts that may be paid.
+
+(8) The scheme may provide for allowances to be payable in connection with a person's ceasing to be a member of the House of Commons; [[^F7]and in relation to any such allowances, references in this Act to a member of the House of Commons include a former member of that House. ]
+
+[[^F8](8A) Any duty of the IPSA to pay an allowance to a member is subject to anything done in relation to the member in the exercise of the disciplinary powers of the House of Commons.]
+
+(9) This section does not affect the provision of pensions for or in respect of persons with service as a member of the House of Commons (see [[^F9]Schedule 6 to the Constitutional Reform and Governance Act 2010] ).
+
+(10) In section 3A(1) of the European Parliament (Pay and Pensions) Act 1979 (c. 50) (power to make order aligning MEPs' resettlement grants with MPs' resettlement grants), after “resolutions of the House of Commons” insert “ , or a scheme under section 5 of the Parliamentary Standards Act 2009, ”.
+
+### 6 Dealing with claims under the scheme
+
+(1) No allowance is to be paid to a member of the House of Commons under the MPs' allowances scheme unless a claim for the allowance has been made to the IPSA.
+
+(2) The claim must be made by the member (except where the scheme provides otherwise).
+
+(3) On receipt of a claim, the IPSA must—
+
+(a) determine whether to allow or refuse the claim, and
+
+(b) if it is allowed, determine how much of the amount claimed is to be allowed and pay it accordingly.
+
+[^F10]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F10]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6) The MPs' allowances scheme may include—
+
+(a) further provision about how claims are to be dealt with;
+
+[[^F11](b) provision for deducting amounts within subsection (6A) from allowances payable under the scheme or salaries payable under section 4;
+
+(c) provision about how such deductions, and deductions under paragraph 5 or 12 of Schedule 4, are to be made.]
+
+[[^F12](6A) This subsection applies to amounts which a member (under section 9(8) or otherwise) has agreed to repay, in respect of amounts paid to the member under the MPs' allowances scheme that should not have been allowed.]
+
+(7) The scheme may provide for an allowance to which a member is entitled under the scheme to be paid to another person at the member's direction; and references in this Act to the payment of an allowance to a member are to be read accordingly.
+
+[[^F13](8) The IPSA must publish such information as it considers appropriate in respect of—
+
+(a) each claim made under or by virtue of this section, and
+
+(b) each payment of an allowance by the IPSA under or by virtue of this section.
+
+(9) The IPSA must publish the information at times it considers appropriate and in a way it considers appropriate.
+
+(10) The IPSA must determine procedures to be followed by the IPSA in relation to publication of the information, and in doing so must consult—
+
+(a) the Speaker of the House of Commons,
+
+(b) the Leader of the House of Commons,
+
+(c) the House of Commons Committee on Standards and Privileges,
+
+(d) the Compliance Officer, and
+
+(e) any other person the IPSA considers appropriate.]
+
+### 6A [[^F14]Review of IPSA's determination
+
+(1) This section applies if—
+
+(a) the IPSA determines under section 6(3) that a claim is to be refused or that only part of the amount claimed is to be allowed, and
+
+(b) the member (after asking the IPSA to reconsider the determination and giving it a reasonable opportunity to do so) asks the Compliance Officer to review the determination (or any altered determination resulting from the IPSA's reconsideration).
+
+(2) The Compliance Officer must—
+
+(a) consider whether the determination (or the altered determination) is the determination that should have been made, and
+
+(b) in light of that consideration, decide whether or not to confirm or alter it.
+
+(3) The Compliance Officer must give the IPSA a statement of any decision under subsection (2)(b), and may include a statement of the Compliance Officer's findings about the way in which the IPSA has dealt with the claim.
+
+(4) The IPSA must make any payments or adjustments necessary to give effect to the Compliance Officer's decision; but it must not do so until—
+
+(a) it is no longer possible for there to be a relevant appeal, and
+
+(b) all relevant appeals have been withdrawn or determined.
+
+(5) A relevant appeal is—
+
+(a) an appeal under subsection (6) brought before the end of the period mentioned in subsection (7), or
+
+(b) a further appeal in relation to the Compliance Officer's decision which—
+
+(i) is brought before the end of the usual period for bringing such an appeal, and
+
+(ii) is an appeal against the determination of an appeal which was itself a relevant appeal.
+
+(6) The member may appeal to the First-tier Tribunal against a decision of the Compliance Officer under subsection (2)(b).
+
+(7) The appeal must be brought before the end of the period of 28 days beginning with the day on which notice of the decision is sent to the member (unless the Tribunal directs that it may be brought after the end of that period).
+
+(8) The appeal is by way of a rehearing.
+
+(9) On an appeal under subsection (6) the Tribunal may—
+
+(a) allow the appeal in whole or in part, or
+
+(b) dismiss the appeal.
+
+(10) If the Tribunal allows the appeal (in whole or in part) it may—
+
+(a) order the IPSA to make any payments or adjustments necessary to give effect to that decision;
+
+(b) make any other order it thinks fit.
+
+(11) If the Tribunal dismisses the appeal it may make any other order it thinks fit.
+
+(12) The Compliance Officer must notify the IPSA of the Tribunal's decision (and the result of any further appeal).]
+
+### 7 Information and guidance [^F15]...
+
+[[^F16](A1) The IPSA must—
+
+(a) prepare guidance for members of the House of Commons about making claims under the MPs' allowances scheme;
+
+(b) review the guidance regularly and revise it as appropriate;
+
+(c) publish the guidance in a way the IPSA considers appropriate;
+
+(d) provide to any member on request such further advice about making claims as the IPSA considers appropriate.]
+
+(1) The IPSA must provide to members of the House of Commons—
+
+(a) details of any general information or guidance about taxation issues published by HMRC that it considers they should be aware of, and
+
+(b) any other general information or guidance about taxation issues that it considers appropriate (consulting HMRC for this purpose as it considers appropriate).
+
+(2) “Taxation issues” means—
+
+(a) issues about the taxation of salaries payable under section 4 and allowances payable under the MPs' allowances scheme, and
+
+(b) any other issues about taxation arising in connection with those salaries and allowances.
+
+(3) “HMRC” means Her Majesty's Revenue and Customs.
+
+## [^F17]... (prospective)
+
+### [^F18]8 MPs' code of conduct relating to financial interests (prospective)
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Investigation and enforcement
+
+### 9 [[^F19]Investigations
+
+(1) The Compliance Officer may conduct an investigation if the Compliance Officer has reason to believe that a member of the House of Commons may have been paid an amount under the MPs' allowances scheme that should not have been allowed.
+
+(2) An investigation may be conducted—
+
+(a) on the Compliance Officer's own initiative,
+
+(b) at the request of the IPSA,
+
+(c) at the request of the member, or
+
+(d) in response to a complaint by an individual.
+
+(3) For the purposes of the investigation the member and the IPSA—
+
+(a) must provide the Compliance Officer with any information (including documents) the Compliance Officer reasonably requires, and
+
+(b) must do so within such period as the Compliance Officer reasonably requires.
+
+(4) The Compliance Officer must, after giving the member and the IPSA an opportunity to make representations to the Compliance Officer, prepare a statement of the Compliance Officer's provisional findings.
+
+(5) The Compliance Officer must, after giving the member and the IPSA an opportunity to make representations to the Compliance Officer about the provisional findings, prepare a statement of the Compliance Officer's findings (subject to subsection (7)).
+
+(6) Provisional findings under subsection (4) and findings under subsection (5) may include—
+
+(a) a finding that the member failed to comply with subsection (3),
+
+(b) findings about the role of the IPSA in the matters under investigation, including findings that the member's being paid an amount under the MPs' allowances scheme that should not have been allowed was wholly or partly the IPSA's fault.
+
+(7) If subsection (8) applies, the Compliance Officer need not make a finding under subsection (5) as to whether the member was paid an amount under the MPs' allowances scheme that should not have been allowed.
+
+(8) This subsection applies if—
+
+(a) the member accepts a provisional finding that the member was paid an amount under the MPs' allowances scheme that should not have been allowed,
+
+(b) such other conditions as may be specified by the IPSA are, in the Compliance Officer's view, met in relation to the case, and
+
+(c) the member agrees to repay to the IPSA, in such manner and within such period as the Compliance Officer considers reasonable, such amount as the Compliance Officer considers reasonable (and makes the repayment accordingly).
+
+(9) Before specifying conditions under subsection (8)(b) the IPSA must consult the persons listed in section 9A(6).
+
+(10) References in this section (and section 9A) to a member of the House of Commons include a former member of that House.]
+
+### 9A [[^F19]Procedures etc
+
+(1) The IPSA must determine procedures to be followed by the Compliance Officer in relation to investigations under section 9.
+
+(2) The procedures must in particular include provision about—
+
+(a) complaints under section 9(2)(d),
+
+(b) representations under section 9(4),
+
+(c) representations under section 9(5), and
+
+(d) the circumstances in which the Compliance Officer must publish the documents listed in subsection (4).
+
+(3) Provision under subsection (2)(b) must include provision giving the member who is the subject of the investigation—
+
+(a) an opportunity to be heard in person, and
+
+(b) an opportunity, where the Compliance Officer considers it appropriate, to call and examine witnesses.
+
+(4) The documents referred to in subsection (2)(d) are—
+
+(a) statements of provisional findings under section 9(4),
+
+(b) statements of findings under section 9(5), and
+
+(c) agreements under section 9(8).
+
+(5) The IPSA must also determine procedures to be followed by the Compliance Officer as to the circumstances in which the Compliance Officer must publish—
+
+(a) statements under section 6A(3), and
+
+(b) penalty notices under paragraph 6 of Schedule 4.
+
+(6) Procedures under this section must be fair, and before determining procedures the IPSA must consult—
+
+(a) the Speaker of the House of Commons,
+
+(b) the Leader of the House of Commons,
+
+(c) the House of Commons Committee on Standards and Privileges,
+
+(d) the Compliance Officer, and
+
+(e) any other person the IPSA considers appropriate.]
+
+### 9B [[^F20]Enforcement
+
+(1) Schedule 4 (which makes provision about the enforcement powers of the Compliance Officer) has effect.
+
+(2) The Compliance Officer may provide to the Parliamentary Commissioner for Standards any information connected with an investigation under section 9 or action taken under Schedule 4 which the Compliance Officer considers may be relevant to the work of the Parliamentary Commissioner for Standards.]
+
+### 10 Offence of providing false or misleading information for allowances claims
+
+(1) A member of the House of Commons commits an offence if the member—
+
+(a) makes a claim under the MPs' allowances scheme, and
+
+(b) provides information for the purposes of the claim that the member knows to be false or misleading in a material respect.
+
+(2) A person guilty of an offence under subsection (1) is liable—
+
+(a) on summary conviction, to imprisonment for a term not exceeding 12 months or to a fine not exceeding the statutory maximum or to both;
+
+(b) on conviction on indictment, to imprisonment for a term not exceeding 12 months or to a fine or to both.
+
+[[^F21](2A) In the application of this section in England and Wales, the reference in subsection (2)(a) to 12 months is to be read as a reference to the general limit in a magistrates’ court (or to 6 months in relation to an offence committed before 2 May 2022).]
+
+(3) In the application of this section—
+
+[^F22]a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) in Northern Ireland,
+
+the reference in subsection (2)(a) to 12 months is to be read as a reference to 6 months.
+
+### 10A [[^F23]Relationships with other bodies etc
+
+(1) The IPSA and the Compliance Officer must prepare a joint statement setting out how the IPSA and the Compliance Officer will work with the following—
+
+(a) the Parliamentary Commissioner for Standards,
+
+(b) the Director of Public Prosecutions,
+
+(c) the Commissioner of Police of the Metropolis, and
+
+(d) any other person the IPSA and the Compliance Officer consider appropriate.
+
+(2) Before preparing the statement the IPSA and the Compliance Officer must consult the persons listed in subsection (1).
+
+(3) Nothing in sections 9 to 9B (or Schedule 4) affects the disciplinary powers of the House of Commons.
+
+(4) The powers conferred by sections 9 to 9B (and Schedule 4) may be exercised in relation to the conduct of a member of the House of Commons even if—
+
+(a) the member is or has been the subject of criminal proceedings in relation to that conduct (whether or not convicted of an offence);
+
+(b) the House of Commons is exercising or has exercised any of its disciplinary powers in relation to that conduct.
+
+(5) References in subsection (4) to a member of the House of Commons include a former member of that House.]
+
+## Final provisions
+
+### [^F24]11 Further functions of the IPSA and Commissioner (prospective)
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 12 Interpretation
+
+(1) In this Act—
+
+- “ [[^F25]the Compliance Officer] ” has the meaning given by section 3(3);
+- “IPSA” has the meaning given by section 3(1);
+- “the Leader of the House of Commons” means the Minister of the Crown who is for the time being designated as Leader of the House of Commons by the Prime Minister;
+- “Minister of the Crown” has the same meaning as in the Ministers of the Crown Act 1975 (c. 26);
+- “the MPs' allowances scheme” has the meaning given by section 5(2);
+- [^F26]...
+- “specified” includes of a specified description.
+
+(2) In this Act any reference to a particular committee [[^F27]or officer] of the House of Commons—
+
+(a) if the name of the committee [[^F27]or officer] is changed, is to be treated as a reference to the committee [[^F27]or officer] by [[^F28]the] new name, and
+
+(b) if the functions of the committee [[^F27]or officer] (or substantially corresponding functions) become functions of a different committee [[^F27]or officer] of that House, is to be treated as a reference to the committee [[^F27]or officer] by which those functions are exercisable.
+
+(3) In this Act any reference to the Committee on Standards in Public Life or to the Review Body on Senior Salaries—
+
+(a) if the name of the body is changed, is to be treated as a reference to the body by its new name, and
+
+(b) if the functions of the body (or substantially corresponding functions) become functions of a different body, is to be treated as a reference to the body by which those functions are exercisable.
+
+(4) Any question arising under subsection (2) or (3) is to be determined by the Speaker of the House of Commons.
+
+### 13 Power to make transitional etc provision
+
+(1) A Minister of the Crown may by order make supplementary, incidental, transitional, transitory or saving provision in connection with this Act.
+
+(2) An order under this section may provide—
+
+(a) that the House of Commons' rules about members' allowances have effect for specified purposes as if contained in a scheme under section 5,
+
+[^F29]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F29]c . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) The purposes which may be specified do not include the purposes of section 10 (offence of providing false or misleading information for allowances claims).
+
+(4) The order may provide for references in the rules to an officer or committee of the House of Commons to have effect as references to the [[^F30]Compliance Officer] or the IPSA.
+
+(5) An order under this section may provide that payments of allowances made to a member of the House of Commons, to which the member was not entitled under the rules mentioned in subsection (2)(a), may be set off against other claims for allowances to be paid to that member.
+
+(6) An order under this section may provide—
+
+(a) for the employment of persons of a specified description who are employed in connection with matters dealt with by the rules to be transferred to the IPSA by a scheme,
+
+(b) for specified property, rights and liabilities which subsist wholly or mainly for the purposes of the House of Commons to be transferred to the IPSA by a scheme, and
+
+(c) for specified documents and information held by or on behalf of the House of Commons (or an officer or committee of that House) to be transferred to the [[^F31]Compliance Officer] or the IPSA.
+
+(7) A scheme made by virtue of subsection (6) is to be made by a Minister of the Crown with the consent of the person who chairs the House of Commons Commission.
+
+(8) An order under this section is to be made by statutory instrument.
+
+(9) A statutory instrument containing an order under this section may not be made unless a draft of the instrument has been laid before and approved by a resolution of the House of Commons.
+
+(10) In this section—
+
+- “the rules” means the rules of the House of Commons mentioned in subsection (2),
+- “rules” includes resolutions, standing orders, codes, schemes and guidance.
+
+### 14 Short title and commencement
+
+(1) This Act may be cited as the Parliamentary Standards Act 2009.
+
+(2) The following provisions of this Act come into force on the day it is passed—
+
+(a) section 12;
+
+(b) section 13;
+
+(c) this section;
+
+[^F32]d . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) The other provisions come into force on the day appointed by a Minister of the Crown by order made by statutory instrument; and different days may be appointed for different purposes.
+
+### [^F33]15 Expiry of provisions of the Act
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 1 — Independent Parliamentary Standards Authority
+
+*Section 3*
+
+### Part 1 — Members of the IPSA
+
+#### Membership
+
+**1** (1) The IPSA is to consist of the following members—
+
+(a) one member who is to chair it (“the chair”) appointed in accordance with paragraph 2, and
+
+(b) four other members (referred to in this Schedule as “ordinary members”) appointed in accordance with that paragraph.
+
+(2) At least one of the members of the IPSA must be a person who has held (but no longer holds) high judicial office (within the meaning of Part 3 of the Constitutional Reform Act 2005 (c. 4)).
+
+[[^F34](3) At least one of the members of the IPSA must be a person who is eligible for appointment as a statutory auditor by virtue of Chapter 2 of Part 42 of the Companies Act 2006.]
+
+(4) One of the members of the IPSA (“the Parliamentary member”) must be a person who has been (but is no longer) a member of the House of Commons.
+
+(5) Apart from the Parliamentary member, a person who has been a member of the House of Commons at any time within the last five years may not be a member of the IPSA.
+
+#### Appointment of chair and ordinary members
+
+**2** (1) The chair of the IPSA is to be appointed by Her Majesty on an address of the House of Commons.
+
+(2) An ordinary member of the IPSA is to be appointed by Her Majesty on an address of the House of Commons.
+
+(3) A motion for an address under sub-paragraph (1) or (2) may be made only with the agreement of the Speaker.
+
+(4) The person the subject of the motion must have been selected by the Speaker on merit on the basis of fair and open competition.
+
+(5) The Speaker must not select a candidate without the agreement of the Speaker's Committee for the Independent Parliamentary Standards Authority.
+
+#### Terms and conditions: general
+
+**3** (1) Subject to the provisions of this Schedule, the chair of the IPSA and the ordinary members of the IPSA hold office in accordance with the terms and conditions of their appointment.
+
+(2) Those terms and conditions are to be determined by the Speaker.
+
+#### Term of office
+
+**4** (1) The chair of the IPSA is to be appointed for a fixed term not exceeding five years.
+
+(2) The ordinary members of the IPSA are to be appointed for a fixed term not exceeding five years.
+
+(3) A person who has held office as a member of the IPSA (whether as the chair or an ordinary member) may be re-appointed as a member once only, for a further period (whether consecutive or not) not exceeding three years.
+
+#### Resignation and removal from office
+
+**5** (1) The chair of the IPSA may resign from office by giving written notice to the Speaker.
+
+(2) An ordinary member of the IPSA may resign from office by giving written notice to the Speaker.
+
+(3) Her Majesty may remove the chair of the IPSA from office on an address of both Houses of Parliament.
+
+(4) Her Majesty may remove an ordinary member of the IPSA from office on an address of both Houses of Parliament.
+
+(5) A person who ceases to hold office as the chair of the IPSA also ceases to be a member of the IPSA.
+
+#### Remuneration
+
+**6** (1) The terms and conditions on which a person is appointed as the chair of the IPSA or as an ordinary member of the IPSA may provide for the IPSA—
+
+(a) to pay remuneration and allowances to the person;
+
+(b) to make provision for a pension in relation to that person.
+
+(2) The IPSA must make the payment or provision accordingly.
+
+#### Code of conduct
+
+**7** (1) The IPSA must issue, and may from time to time revise, a code of conduct for its members.
+
+(2) The code must in particular—
+
+(a) incorporate the Nolan principles or such other similar principles as may be adopted by the IPSA from time to time, and
+
+(b) include provision about the disclosure of interests by the members of the IPSA.
+
+(3) “The Nolan principles” means the seven general principles of public life set out in the First Report of the Committee on Standards in Public Life (Cm 2850).
+
+#### Disqualification
+
+**8** (1) In Part 2 of Schedule 1 to the House of Commons Disqualification Act 1975 (c. 24) (bodies of which all members are disqualified), at the appropriate place insert— “ The Independent Parliamentary Standards Authority. ”
+
+(2) In Part 2 of Schedule 1 to the Northern Ireland Assembly Disqualification Act 1975 (c. 25) (bodies of which all members are disqualified), at the appropriate place insert— “ The Independent Parliamentary Standards Authority. ”
+
+### Part 2 — The IPSA
+
+#### Status
+
+**9** (1) The IPSA, its members and its staff are not to be regarded—
+
+(a) as the servants or agents of the Crown, or
+
+(b) as enjoying any status, immunity or privilege of the Crown.
+
+(2) The IPSA's property is not to be regarded as property of, or property held on behalf of, the Crown.
+
+#### [^F35]...
+
+**[^F35]10** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Powers
+
+**11** The IPSA may do anything (except borrow money) which is calculated to facilitate the carrying out of its functions or is incidental or conducive to the carrying out of those functions.
+
+#### Committees
+
+**12** (1) The IPSA may establish any committees which it considers appropriate.
+
+(2) Any committee of the IPSA established under sub-paragraph (1) may establish one or more sub-committees.
+
+(3) All members of a committee or sub-committee must be members of the IPSA.
+
+#### Procedure and proceedings
+
+**13** (1) The IPSA is to regulate its own procedure, and the procedure of its committees and sub-committees (including quorums).
+
+(2) The validity of the proceedings of the IPSA, or of any of its committees or sub-committees, is not affected by—
+
+(a) a vacancy among the members, or
+
+(b) a defect in the appointment of a member.
+
+#### Staff
+
+**14** (1) The IPSA must appoint a chief executive (see paragraph 17).
+
+(2) The IPSA may appoint other staff.
+
+(3) The chief executive and other staff are to be appointed on terms and conditions determined by the IPSA, having regard to the desirability of keeping them broadly in line with those applying to persons employed in the civil service of the State.
+
+**15** (1) The Speaker may appoint a person (“the interim chief executive”) to be the IPSA's chief executive until a chief executive is appointed by the IPSA.
+
+(2) The interim chief executive may incur expenditure and do other things in the name of and on behalf of the IPSA.
+
+(3) The interim chief executive must act in accordance with any directions given by the Speaker or, when the IPSA has been constituted, by the IPSA.
+
+(4) The powers given by sub-paragraph (2)—
+
+(a) may be used before and after the IPSA has been constituted, but
+
+(b) come to an end at a time determined by the IPSA.
+
+#### Staff pensions
+
+**16** (1) Employment by the IPSA is included among the kinds of employment to which a scheme under section 1 of the Superannuation Act 1972 (c. 11) may apply.
+
+(2) The IPSA must pay to the Minister for the Civil Service the sums determined by the Minister in relation to any increase attributable to this paragraph in the sums payable out of money provided by Parliament under that Act.
+
+(3) In Schedule 1 to the Superannuation Act 1972 (kinds of employment to which a scheme under section 1 of the Act may apply), in the list of “Other bodies” insert at the appropriate place— “ Independent Parliamentary Standards Authority. ”
+
+#### Separation of administration functions and regulation functions
+
+**17** (1) The IPSA's administration functions are to be carried out by the chief executive on behalf of the IPSA and in accordance with its general directions.
+
+(2) So far as possible the IPSA's administration functions and its regulation functions must be carried out separately, so that one set of functions does not adversely affect the carrying out of the other.
+
+(3) The IPSA must make such arrangements as it considers necessary to comply with sub-paragraph (2).
+
+#### Meaning of “administration functions” and “regulation functions”
+
+**18** (1) The IPSA's administration functions are its functions under—
+
+[[^F36](a) section 4 (MPs' salaries), so far as relating to the payment (but not the determination) of salaries,]
+
+(b) section 5(1) (payment of MPs' allowances),
+
+(c) section 6 (dealing with allowances claims) [[^F37](except as mentioned in sub-paragraph (2) below)] ,
+
+[^F38]...
+
+(2) The IPSA's regulation functions are its functions under—
+
+[[^F39](za) sections 4 and 4A (MPs' salaries) (except as mentioned in sub-paragraph (1) above),]
+
+(a) section 5(3) and (4) (preparing and revising MPs' allowances scheme),
+
+[[^F40](aa) section 6(10) (determining procedures for publication of allowances claims),]
+
+[^F41]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[[^F42](c) section 9(8)(b) and (9) (determining conditions),
+
+(d) section 9A (determining procedures for investigations etc),
+
+(e) paragraphs 1, 2(2), 4(2) and 9(2) of Schedule 2 (appointment and removal of Compliance Officer etc), and
+
+(f) paragraphs 2, 8 and 9 of Schedule 4 (scheme, guidance etc for Compliance Officer).]
+
+[[^F43](3) The IPSA's functions under the following provisions are also regulation functions—
+
+(a) sections 3, 4 and 6 of the European Parliament (Pay and Pensions) Act 1979 (but not any function relating to the administration of a scheme under section 3 or 4);
+
+(b) paragraphs 2 to 5, 8, 9, 11, 12 and 15 of Schedule 6 to the Constitutional Reform and Governance Act 2010 (but not any function relating to the administration of a scheme under paragraph 8 or 12).]
+
+#### Delegation
+
+**19** (1) The IPSA may delegate functions to—
+
+(a) any of its members,
+
+(b) any committee established by it, and
+
+(c) any of its staff.
+
+(2) But the IPSA may not delegate—
+
+(a) its regulation functions, and
+
+(b) its function under paragraph 14(1) (appointment of chief executive).
+
+(3) A committee may delegate functions (including functions delegated to it) to—
+
+(a) a sub-committee, or
+
+(b) any of the IPSA's staff.
+
+(4) The chief executive of the IPSA may delegate to any of the IPSA's staff—
+
+(a) functions exercisable by the chief executive under paragraph 17, and
+
+(b) functions delegated to the chief executive under this paragraph.
+
+#### Contracting-out of payment functions
+
+**20** (1) The IPSA's payment functions may be carried out by—
+
+(a) any person authorised by the chief executive, or
+
+(b) an employee of a person so authorised.
+
+(2) The chief executive may authorise a person to carry out payment functions—
+
+(a) to their full extent or to a specified extent;
+
+(b) in all cases or in specified cases;
+
+(c) unconditionally or subject to specified conditions.
+
+(3) An authorisation under sub-paragraph (1) may be revoked at any time by the IPSA or the chief executive.
+
+(4) The IPSA's payment functions are the functions of—
+
+(a) paying salaries under section 4, and
+
+(b) paying allowances in accordance with the MPs' allowances scheme,
+
+(but not the function of determining claims for allowances or of agreeing repayments).
+
+#### Delegation and contracting out of pension functions
+
+**21** (1) Section 1(2) of the Superannuation Act 1972 (c. 11) (delegation of functions relating to civil service superannuation schemes by Minister for the Civil Service to another officer of the Crown etc) has effect as if the reference to an officer of the Crown other than a Minister included a reference to the IPSA's chief executive.
+
+(2) Any pension function conferred on the chief executive under section 1(2) of the Superannuation Act 1972 (in accordance with sub-paragraph (1)) may be carried out by—
+
+(a) any person authorised by the chief executive, or
+
+(b) an employee of a person so authorised.
+
+(3) “Pension function” means a function of administering schemes made under section 1 of that Act, and from time to time in force.
+
+(4) Under sub-paragraph (2), the chief executive may authorise a person to exercise pension functions—
+
+(a) to their full extent or to a specified extent;
+
+(b) in all cases or in specified cases;
+
+(c) unconditionally or subject to specified conditions.
+
+(5) An authorisation under sub-paragraph (2)—
+
+(a) is to be treated for all purposes as given by virtue of an order under section 69 of the Deregulation and Contracting Out Act 1994 (c. 40) (contracting out of functions of Ministers and office-holders), and
+
+(b) may be revoked at any time by the IPSA or the chief executive.
+
+#### Funding
+
+**22** (1) The IPSA's expenditure is to be paid out of money provided by Parliament.
+
+(2) For each financial year (other than its first financial year) the IPSA must prepare an estimate of the IPSA's use of resources and submit it to the Speaker's Committee for the Independent Parliamentary Standards Authority (“the Committee”).
+
+(3) The Committee must review the estimate and decide whether it is satisfied that the estimate is consistent with the efficient and cost-effective discharge by the IPSA of its functions.
+
+(4) If it is not satisfied, the Committee must make such modifications as it considers necessary to achieve the consistency specified under sub-paragraph (3).
+
+(5) Before deciding whether it is satisfied or making modifications, the Committee must consult the Treasury and have regard to any advice given.
+
+(6) After the Committee has reviewed the estimate and made any modifications, the Speaker must lay the estimate before the House of Commons.
+
+(7) If the Committee does not follow any advice given by the Treasury, or makes any modifications to the estimate, it must prepare a statement of its reasons and the Speaker must lay the statement before the House of Commons.
+
+(8) [[^F44]Any payments received by the IPSA as a result of a repayment direction under Schedule 4, and any repayments otherwise] received by the IPSA may be retained by the IPSA and applied by it for the purposes of its functions.
+
+#### Accounts
+
+**23** (1) The IPSA must keep proper accounting records.
+
+(2) The IPSA must, for each financial year, prepare accounts in accordance with directions given to it by the Treasury.
+
+(3) The directions which the Treasury may give under sub-paragraph (2) include, in particular, directions as to—
+
+(a) the information to be contained in the accounts and the manner in which it is to be presented,
+
+(b) the methods and principles in accordance with which the accounts are to be prepared, and
+
+(c) the additional information (if any) that is to accompany the accounts.
+
+(4) The chief executive of the IPSA is to be its accounting officer.
+
+#### Audit
+
+**24** (1) The IPSA must, as soon as practicable after the end of any financial year, submit the accounts prepared by it for that year to the Comptroller and Auditor General.
+
+(2) The Comptroller and Auditor General must—
+
+(a) examine and certify any accounts submitted under sub-paragraph (1), and
+
+(b) lay before each House of Parliament a copy of the certified accounts.
+
+#### Annual report
+
+**25** (1) As soon as practicable after the end of each financial year, the IPSA must prepare and the Speaker must lay before each House of Parliament a report about the performance of the IPSA's functions during that financial year.
+
+(2) When the Speaker lays such a report, the IPSA must publish it in such manner as it considers appropriate.
+
+#### Documentary evidence
+
+**26** (1) The application of the seal of the IPSA is to be authenticated by the signature of any member of the IPSA, or of its staff, who has been authorised (whether generally or specifically) by the IPSA for the purpose.
+
+(2) A document purporting to be duly executed under the seal of the IPSA or signed on its behalf—
+
+(a) is to be received in evidence, and
+
+(b) is to be taken to be executed or signed in that way, unless the contrary is proved.
+
+(3) This paragraph does not extend to Scotland.
+
+#### Freedom of information
+
+**27** (1) In Part 6 of Schedule 1 to the Freedom of Information Act 2000 (c. 36) (other public bodies and offices which are public authorities) at the appropriate place insert— “ The Independent Parliamentary Standards Authority. ”
+
+(2) In adopting or reviewing a publication scheme under section 19 of that Act, the IPSA must consult—
+
+(a) the Leader of the House of Commons,
+
+(b) the Speaker, and
+
+(c) the House of Commons Committee on Standards and Privileges.
+
+#### Public records
+
+**28** In Schedule 1 to the Public Records Act 1958 (c. 51) (definition of public records) at the appropriate place in Part 2 of the Table at the end of paragraph 3 insert— “ The Independent Parliamentary Standards Authority. ”
+
+#### Interpretation
+
+**29** (1) In this Schedule “financial year” means—
+
+(a) the period beginning with the day on which the IPSA is established and ending with the next following 31 March, and
+
+(b) each successive period of 12 months.
+
+(2) In this Schedule—
+
+- “administration functions” has the meaning given by paragraph 18(1),
+- “regulation functions” has the meaning given by paragraph 18(2) [[^F45]and (3)] , and
+- “the Speaker” means the Speaker of the House of Commons.
+
+## [[^F46]Schedule 2 — Compliance Officer
+
+*Section 3*
+
+### Appointment of Compliance Officer
+
+**1** (1) The Compliance Officer is to be appointed by the IPSA.
+
+(2) The person to be appointed must be selected by the IPSA on merit on the basis of fair and open competition.
+
+### Terms and conditions: general
+
+**2** (1) Subject to the provisions of this Schedule, the Compliance Officer holds office in accordance with the terms and conditions of the Compliance Officer's appointment.
+
+(2) Those terms and conditions are to be determined by the IPSA.
+
+### Term of office
+
+**3** (1) The Compliance Officer is to be appointed for a fixed term not exceeding five years.
+
+(2) A person who has been appointed as the Compliance Officer may not be appointed again.
+
+### Resignation and removal from office
+
+**4** (1) A person may resign from the office of Compliance Officer by giving written notice to the IPSA.
+
+(2) The IPSA may remove a person from the office of Compliance Officer if the person—
+
+(a) is convicted of an offence (see sub-paragraph (3)),
+
+(b) becomes bankrupt (see sub-paragraph (4)), or
+
+(c) is unfit or unable to carry out the functions of the office.
+
+(3) For the purposes of determining if the person is convicted of an offence—
+
+(a) it does not matter where the person is convicted, and
+
+(b) an act punishable under the law of a territory outside the United Kingdom constitutes an offence for the purposes of this paragraph (however it is described in that law).
+
+(4) A person becomes bankrupt if—
+
+(a) in England and Wales or Northern Ireland, a bankruptcy order is made in relation to the person, or
+
+(b) in Scotland, the person's estate is sequestrated.
+
+### Remuneration
+
+**5** (1) The terms and conditions on which a person is appointed as the Compliance Officer may provide for the IPSA—
+
+(a) to pay remuneration and allowances to the person;
+
+(b) to make provision for a pension in relation to that person.
+
+(2) The IPSA must make the payment or provision accordingly.
+
+### Status
+
+**6** (1) The Compliance Officer is not to be regarded—
+
+(a) as the servant or agent of the Crown, or
+
+(b) as enjoying any status, immunity or privilege of the Crown.
+
+(2) The Compliance Officer's property is not to be regarded as property of, or property held on behalf of, the Crown.
+
+### Funding
+
+**7** (1) The IPSA must provide the Compliance Officer with adequate resources for the Compliance Officer's functions.
+
+(2) In particular, the IPSA is responsible for providing staff to assist in the carrying out of those functions.
+
+### Annual report
+
+**8** (1) As soon as practicable after the end of each financial year, the Compliance Officer must—
+
+(a) prepare a report about the performance of the Compliance Officer's functions during that financial year, and
+
+(b) send the report to the IPSA.
+
+(2) The IPSA must send the report to the Speaker of the House of Commons, who must lay it before each House of Parliament.
+
+(3) When the Speaker lays the report, the Compliance Officer must publish it in such manner as the Compliance Officer considers appropriate.
+
+(4) “Financial year” means—
+
+(a) the period beginning with the day on which a Compliance Officer is first appointed and ending with the next following 31 March, and
+
+(b) each successive period of 12 months.
+
+### Vacancy in office of Compliance Officer
+
+**9** (1) This paragraph applies if the office of Compliance Officer is vacant.
+
+(2) The IPSA may authorise a member of the IPSA's staff provided under paragraph 7(2) to carry out the functions of the Compliance Officer during the vacancy.
+
+(3) In relation to a vacancy of more than six months, the functions of the Compliance Officer may not be carried out by virtue of sub-paragraph (2) after the first six months.
+
+### Disqualification
+
+**10** (1) In Part 3 of Schedule 1 to the House of Commons Disqualification Act 1975 (other disqualifying offices) at the appropriate place insert— “ Compliance Officer for the Independent Parliamentary Standards Authority. ”
+
+(2) In Part 3 of Schedule 1 to the Northern Ireland Assembly Disqualification Act 1975 (other disqualifying offices) at the appropriate place insert— “ Compliance Officer for the Independent Parliamentary Standards Authority. ”
+
+### Freedom of information
+
+**11** In Part 6 of Schedule 1 to the Freedom of Information Act 2000 (other public bodies and offices which are public authorities) at the appropriate place insert— “ Compliance Officer for the Independent Parliamentary Standards Authority. ”
+
+### Public records
+
+**12** In Schedule 1 to the Public Records Act 1958 (definition of public records) at the appropriate place in Part 2 of the Table at the end of paragraph 3 insert— “ Compliance Officer for the Independent Parliamentary Standards Authority.” ]
+
+## SCHEDULE 3 — Speaker's Committee for the Independent Parliamentary Standards Authority
+
+*Section 3*
+
+### Membership
+
+**1** The members of the Speaker's Committee for the Independent Parliamentary Standards Authority (“the Committee”) are—
+
+(a) the Speaker of the House of Commons,
+
+(b) the Leader of the House of Commons,
+
+(c) the person who chairs the House of Commons Committee on Standards and Privileges, [^F47]...
+
+(d) five members of the House of Commons who are not Ministers of the Crown, appointed by the House of Commons[[^F48], and
+
+(e) three lay persons appointed by resolution of the House of Commons.]
+
+### [[^F49]Appointed members]
+
+**2** (1) A person appointed under paragraph 1(d) (“an appointed member”) ceases to be a member of the Committee if—
+
+(a) another person is appointed in the person's place, or
+
+(b) the person ceases to be a member of the House of Commons.
+
+(2) An appointed member may resign from the Committee by giving notice to the Committee.
+
+(3) Except as provided by this paragraph, an appointed member is a member of the Committee for the remainder of the Parliament in which the person is appointed.
+
+(4) An appointed member may be re-appointed (more than once) to membership of the Committee.
+
+### [[^F50]Lay members
+
+**2A** (1) In paragraph 1(e) “lay person” means a person who is not, and has never been, a member of either House of Parliament.
+
+(2) A motion for a resolution under paragraph 1(e) may be made only with the agreement of the Speaker of the House of Commons.
+
+(3) The person the subject of the motion must have been selected by the Speaker on merit on the basis of fair and open competition.
+
+(4) An appointment under paragraph 1(e) is to be for a fixed term not exceeding five years.
+
+(5) A person who has been appointed under paragraph 1(e) may not be appointed under paragraph 1(e) again.
+
+(6) A person appointed under paragraph 1(e) ceases to be a member of the Committee if the person becomes a member of either House of Parliament.
+
+(7) A person appointed under paragraph 1(e) may resign from the Committee by giving notice to the Committee.
+
+(8) The Speaker of the House of Commons may require the IPSA to pay to members of the Committee appointed under paragraph 1(e) such remuneration and allowances as the Speaker may determine.
+
+(9) The IPSA must make the payment accordingly.]
+
+### Committee proceedings
+
+**3** (1) The Committee may determine its own procedure (including quorum).
+
+(2) The validity of any proceedings of the Committee is not affected by—
+
+(a) a vacancy among the members, or
+
+(b) a defect in the appointment of a member.
+
+## [[^F51]Schedule 4 — Enforcement
+
+*Section 9B*
+
+### Part 1 — Recovery of overpayments
+
+#### Power to give repayment direction
+
+**1** (1) This paragraph applies where the Compliance Officer—
+
+(a) has conducted an investigation in respect of a member of the House of Commons under section 9, and
+
+(b) has made findings under section 9(5) that the member was paid an amount under the MPs' allowances scheme (the “overpayment”) that—
+
+(i) should not have been allowed, and
+
+(ii) has not been repaid.
+
+(2) The Compliance Officer—
+
+(a) if sub-paragraph (3) applies, may give the member a direction under this paragraph (a “repayment direction”), and
+
+(b) otherwise, must give the member a repayment direction.
+
+(3) This sub-paragraph applies if the Compliance Officer has made findings under section 9(5) that the member's being paid an amount under the MPs' allowances scheme that should not have been allowed was wholly or partly the IPSA's fault.
+
+(4) A repayment direction must require the member to pay to the IPSA—
+
+(a) if sub-paragraph (3) applies, such amount (not exceeding the amount of the overpayment) as the Compliance Officer considers reasonable, and
+
+(b) otherwise, the amount of the overpayment.
+
+(5) The repayment direction must specify the period (the “repayment period”) before the end of which that amount is to be paid.
+
+(6) A repayment direction may also require the member to do one or both of the following before the end of the repayment period—
+
+(a) pay to the IPSA interest on the amount mentioned in sub-paragraph (4), at the rate and in relation to the period specified in the direction;
+
+(b) pay to the IPSA an amount reasonably representing the costs incurred by the IPSA in relation to the overpayment, including the costs of the Compliance Officer in conducting the investigation.
+
+(7) The Compliance Officer must send a copy of the repayment direction to the IPSA.
+
+(8) References in this Part of this Schedule to a member of the House of Commons include a former member of that House.
+
+(9) In this Schedule “overpayment”, “repayment direction” and “repayment period” have the meaning given by this paragraph (but in relation to the repayment period, see further paragraph 4(3)).
+
+#### Guidance etc
+
+**2** (1) The IPSA must prepare guidance about the circumstances in which the Compliance Officer should include in a repayment direction a requirement under paragraph 1(6)(a) or (b).
+
+(2) The guidance must include guidance about whether the Compliance Officer should include such a requirement if paragraph 1(3) applies.
+
+(3) The amount mentioned in paragraph 1(6)(b) is to be calculated by the Compliance Officer in accordance with a scheme prepared by the IPSA for that purpose.
+
+(4) Before preparing guidance under sub-paragraph (1) or a scheme under sub-paragraph (3) the IPSA must consult the persons listed in section 9A(6).
+
+#### Appeal against repayment direction
+
+**3** (1) A member who has been given a repayment direction under paragraph 1 may appeal to the First-tier Tribunal against—
+
+(a) the Compliance Officer's findings under section 9(5);
+
+(b) if paragraph 1(3) applies, the Compliance Officer's decision to give the member a repayment direction;
+
+(c) if paragraph 1(3) applies, the amount the member is required to repay because of paragraph 1(4)(a);
+
+(d) a requirement contained in the repayment direction because of paragraph 1(6).
+
+(2) An appeal under this paragraph must be brought before the end of the period of 28 days beginning with the day on which the repayment direction is sent to the member (unless the Tribunal directs that it may be brought after the end of that period).
+
+(3) An appeal under this paragraph is by way of a rehearing.
+
+(4) On an appeal under this paragraph the Tribunal may—
+
+(a) allow the appeal in whole or in part, or
+
+(b) dismiss the appeal.
+
+(5) If the Tribunal allows the appeal (in whole or in part) it may—
+
+(a) revoke the repayment direction;
+
+(b) revoke or vary any requirement contained in the repayment direction;
+
+(c) make any other order it thinks fit.
+
+(6) If the Tribunal dismisses the appeal it may make any other order it thinks fit.
+
+(7) The Compliance Officer must notify the IPSA of the Tribunal's decision (and the result of any further appeal).
+
+#### Extension of repayment period
+
+**4** (1) The member may at any time before the end of the repayment period make an application to the Compliance Officer for the Compliance Officer to extend (or further extend) the repayment period.
+
+(2) The Compliance Officer must notify the IPSA of any decision by the Compliance Officer to extend (or further extend) the repayment period.
+
+(3) If the Compliance Officer extends (or further extends) the repayment period, references in this Schedule to the repayment period are to that period as extended (or further extended) by the Compliance Officer.
+
+(4) The member may appeal to the First-tier Tribunal against the Compliance Officer's decision on an application under this paragraph.
+
+(5) An appeal under this paragraph must be brought before the end of the period of 28 days beginning with the day on which notice of the decision is sent to the member (unless the Tribunal directs that it may be brought after the end of that period).
+
+(6) The appeal is by way of a rehearing.
+
+(7) The Tribunal may—
+
+(a) allow the appeal in whole or in part, or
+
+(b) dismiss the appeal.
+
+(8) If the Tribunal allows the appeal (in whole or in part) it may—
+
+(a) revoke or vary the Compliance Officer's decision;
+
+(b) make any other order it thinks fit.
+
+(9) If the Tribunal dismisses the appeal it may make any other order it thinks fit.
+
+(10) The Compliance Officer must notify the IPSA of the Tribunal's decision (and the result of any further appeal).
+
+#### Enforcement of repayment direction
+
+**5** (1) This paragraph applies to any amount which a member is required by a repayment direction to pay to the IPSA, but only when—
+
+(a) it is no longer possible for there to be a relevant appeal, and
+
+(b) all relevant appeals have been withdrawn or determined.
+
+(2) A relevant appeal is—
+
+(a) an appeal under paragraph 3 brought before the end of the period mentioned in paragraph 3(2), or
+
+(b) a further appeal in relation to the repayment direction which—
+
+(i) is brought before the end of the usual period for bringing such an appeal, and
+
+(ii) is an appeal against the determination of an appeal which was itself a relevant appeal.
+
+(3) The IPSA may recover the amount by making deductions from—
+
+(a) any salary payable to the member under section 4;
+
+(b) any allowances payable to the member under the MPs' allowances scheme.
+
+(4) In England and Wales and Northern Ireland the amount is recoverable, if [[^F52]the county court in England and Wales or a county court in Northern Ireland] so orders on the application of the Compliance Officer, as if it were payable under an order of that court.
+
+(5) In Scotland the amount is recoverable as if the repayment direction were an extract registered decree arbitral bearing a warrant for execution issued by the sheriff court of any sheriffdom in Scotland.
+
+### Part 2 — Penalties
+
+#### Power to impose penalties
+
+**6** (1) If sub-paragraph (3) or (4) applies to a member of the House of Commons, the Compliance Officer may by notice (a “penalty notice”) impose a penalty on the member.
+
+(2) A “penalty” means a sum of money payable by the member to the IPSA.
+
+(3) This sub-paragraph applies if the Compliance Officer has made a finding under section 9(5) that the member has without reasonable excuse failed to comply with a requirement under section 9(3) (provision of information to Compliance Officer).
+
+(4) This sub-paragraph applies if the Compliance Officer is satisfied that the member has without reasonable excuse failed to comply with any requirement contained in a repayment direction.
+
+(5) The Compliance Officer must send a copy of the penalty notice to the IPSA.
+
+(6) References in this Part of this Schedule to a member of the House of Commons include a former member of that House.
+
+(7) In this Schedule “penalty notice” and “penalty” have the meanings given by this paragraph.
+
+#### Amount of penalty
+
+**7** (1) The penalty notice must state the amount of the penalty.
+
+(2) The amount of the penalty must not exceed £1,000.
+
+(3) The amount in sub-paragraph (2) may be increased (or further increased) by an order made by a Minister of the Crown.
+
+(4) An order under sub-paragraph (3) is to be made by statutory instrument.
+
+(5) A statutory instrument containing an order under sub-paragraph (3) may not be made unless a draft of the instrument has been laid before and approved by a resolution of the House of Commons.
+
+#### Information to be contained in notice
+
+**8** (1) The penalty notice must (as well as stating the amount of the penalty) include information as to—
+
+(a) the reasons for imposing the penalty,
+
+(b) the period before the end of which the penalty is to be paid,
+
+(c) how the penalty may be paid,
+
+(d) the procedure and time limit for appealing,
+
+(e) the effect of paragraph 12, and
+
+(f) any other matter specified by the IPSA.
+
+(2) Before specifying a matter the IPSA must consult the persons listed in section 9A(6).
+
+#### Guidance etc
+
+**9** (1) The IPSA must prepare guidance about—
+
+(a) the circumstances in which the Compliance Officer should impose a penalty under paragraph 6, and
+
+(b) how the Compliance Officer should determine the amount of the penalty.
+
+(2) Before preparing the guidance the IPSA must consult the persons listed in section 9A(6).
+
+#### Review of penalty
+
+**10** (1) The Compliance Officer may at any time review a decision to impose a penalty on a member under paragraph 6.
+
+(2) Following the review the Compliance Officer may cancel the penalty or reduce the amount of the penalty.
+
+(3) If the Compliance Office does either of those things, the Compliance Officer must notify the IPSA.
+
+(4) If the penalty (or part of the penalty) has already been paid the IPSA must repay the member accordingly.
+
+#### Appeal against penalty
+
+**11** (1) A member on whom a penalty has been imposed under paragraph 6 may appeal to the First-tier Tribunal.
+
+(2) An appeal under this paragraph must be brought before the end of the period of 28 days beginning with the day on which the penalty notice is sent to the member (unless the Tribunal directs that it may be brought after the end of that period).
+
+(3) The appeal is by way of a rehearing.
+
+(4) On an appeal under this paragraph the Tribunal may—
+
+(a) allow the appeal and cancel the penalty,
+
+(b) allow the appeal and reduce the penalty, or
+
+(c) dismiss the appeal.
+
+(5) The Compliance Officer must notify the IPSA of the Tribunal's decision (and the result of any further appeal).
+
+#### Enforcement of penalty
+
+**12** (1) This paragraph applies to the amount of a penalty imposed on a member under paragraph 6, but only when—
+
+(a) it is no longer possible for there to be a relevant appeal, and
+
+(b) all relevant appeals have been withdrawn or determined.
+
+(2) A relevant appeal is—
+
+(a) an appeal under paragraph 11 brought before the end of the period mentioned in paragraph 11(2), or
+
+(b) a further appeal in relation to the penalty notice which—
+
+(i) is brought before the end of the usual period for bringing such an appeal, and
+
+(ii) is an appeal against the determination of an appeal which was itself a relevant appeal.
+
+(3) The IPSA may recover the amount by making deductions from—
+
+(a) any salary payable to the member under section 4;
+
+(b) any allowances payable to the member under the MPs' allowances scheme.
+
+(4) In England and Wales and Northern Ireland the amount is recoverable, if [[^F53]the county court in England and Wales or a county court in Northern Ireland] so orders on the application of the Compliance Officer, as if it were payable under an order of that court.
+
+(5) In Scotland the amount is recoverable as if the penalty notice were an extract registered decree arbitral bearing a warrant for execution issued by the sheriff court of any sheriffdom in Scotland.
+
+#### Payment of penalty into Consolidated Fund
+
+**13** The IPSA must pay into the Consolidated Fund—
+
+(a) the amount of any penalty paid to the IPSA, and
+
+(b) where the IPSA makes a deduction under paragraph 12(3), an amount corresponding to the amount of the deduction.]
+
+---
+
+[^F1]: S. 2(2)(a) omitted (7.5.2010) by virtue of Constitutional Reform and Governance Act 2010 (c. 25), s. 52, Sch. 5 para. 2(a); S.I. 2010/1277, art. 3(i)(i)
+[^F2]: Words in s. 2(2)(c) substituted (19.4.2010) by Constitutional Reform and Governance Act 2010 (c. 25), s. 52, Sch. 5 para. 2(b); S.I. 2010/1277, art. 2(d)(ii)
+[^F3]: S. 3(3)(4) substituted (19.4.2010) by Constitutional Reform and Governance Act 2010 (c. 25), ss. 26(1), 52; S.I. 2010/1277, art. 2(a)
+[^F4]: S. 3A inserted (7.5.2010) by Constitutional Reform and Governance Act 2010 (c. 25), ss. 28(2), 52; S.I. 2010/1277, art. 3(b)
+[^F5]: S. 4, 4A substituted for s. 4 (24.5.2011) by Constitutional Reform and Governance Act 2010 (c. 25), ss. 29, 52; S.I. 2011/1274, art. 2(a)
+[^F6]: S. 5(5A) inserted (7.5.2010) by Constitutional Reform and Governance Act 2010 (c. 25), ss. 28(3), 52; S.I. 2010/1277, art. 3(b)
+[^F7]: Words in s. 5(8) substituted (7.5.2010) by Constitutional Reform and Governance Act 2010 (c. 25), s. 52, Sch. 5 para. 3; S.I. 2010/1277, art. 3(i)(ii)
+[^F8]: S. 5(8A) inserted (7.5.2010) by Constitutional Reform and Governance Act 2010 (c. 25), ss. 30, 52; S.I. 2010/1277, art. 3(c)
+[^F9]: Words in s. 5(9) substituted (24.10.2011) by Constitutional Reform and Governance Act 2010 (c. 25), s. 52, Sch. 6 para. 47(1); S.I. 2011/2485, art. 2(1)(2)(c)(iii)
+[^F10]: S. 6(4)(5) omitted (27.7.2010) by virtue of Constitutional Reform and Governance Act 2010 (c. 25), ss. 31(2), 52; S.I. 2010/1931, art. 3(b)
+[^F11]: S. 6(6)(b)(c) substituted for s. 6(6)(b) (27.7.2010) by Constitutional Reform and Governance Act 2010 (c. 25), ss. 31(3), 52; S.I. 2010/1931, art. 3(b)
+[^F12]: S. 6(6A) inserted (27.7.2010) by Constitutional Reform and Governance Act 2010 (c. 25), ss. 31(4), 52; S.I. 2010/1931, art. 3(b)
+[^F13]: S. 6(8)-(10) inserted (27.7.2010) by Constitutional Reform and Governance Act 2010 (c. 25), ss. 28(4), 52; S.I. 2010/1931, art. 3(a) (with arts. 4, 5)
+[^F14]: S. 6A inserted (27.7.2010) by Constitutional Reform and Governance Act 2010 (c. 25), ss. 31(5), 52; S.I. 2010/1931, art. 3(b)
+[^F15]: Words in heading omitted (7.5.2010) by virtue of Constitutional Reform and Governance Act 2010 (c. 25), ss. 31(6)(b), 52; S.I. 2010/1277, art. 3(d)
+[^F16]: S. 7(A1) inserted (7.5.2010) by Constitutional Reform and Governance Act 2010 (c. 25), ss. 31(6)(a), 52; S.I. 2010/1277, art. 3(d)
+[^F17]: S. 8 cross-heading omitted (7.5.2010) by virtue of Constitutional Reform and Governance Act 2010 (c. 25), ss. 32, 52; S.I. 2010/1277, art. 3(e)
+[^F18]: S. 8 omitted (7.5.2010) by virtue of Constitutional Reform and Governance Act 2010 (c. 25), ss. 32, 52; S.I. 2010/1277, art. 3(e)
+[^F19]: Ss. 9, 9A substituted for s. 9 (27.7.2010) by Constitutional Reform and Governance Act 2010 (c. 25), ss. 33, 52; S.I. 2010/1931, art. 3(c) (with arts. 4, 5)
+[^F20]: S. 9B inserted (27.7.2010) by Constitutional Reform and Governance Act 2010 (c. 25), ss. 34(1), 52; S.I. 2010/1931, art. 3(d) (with arts. 4, 5)
+[^F21]: S. 10(2A) inserted (7.2.2023 at 12.00 p.m.) by The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149), regs. 1(2), 21(2)
+[^F22]: S. 10(3)(a) omitted (7.2.2023 at 12.00 p.m.) by virtue of The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149), regs. 1(2), 21(3)
+[^F23]: S. 10A inserted (27.7.2010) by Constitutional Reform and Governance Act 2010 (c. 25), ss. 35, 52; S.I. 2010/1931, art. 3(e)
+[^F24]: S. 11 omitted (7.5.2010) by virtue of Constitutional Reform and Governance Act 2010 (c. 25), ss. 36, 52; S.I. 2010/1277, art. 3(f)
+[^F25]: Words in s. 12(1) substituted (19.4.2010) by Constitutional Reform and Governance Act 2010 (c. 25), s. 52, Sch. 5 para. 4(2)(a); S.I. 2010/1277, art. 2(d)(iii)
+[^F26]: Words in s. 12(1) omitted (7.5.2010) by virtue of Constitutional Reform and Governance Act 2010 (c. 25), s. 52, Sch. 5 para. 4(2)(b); S.I. 2010/1277, art. 3(i)(iii)
+[^F27]: Words in s. 12(2) inserted (27.7.2010) by Constitutional Reform and Governance Act 2010 (c. 25), s. 52, Sch. 5 para. 4(3)(a); S.I. 2010/1931, art. 3(h)(i)
+[^F28]: Word in s. 12(2)(a) substituted (27.7.2010) by Constitutional Reform and Governance Act 2010 (c. 25), s. 52, Sch. 5 para. 4(3)(b); S.I. 2010/1931, art. 3(h)(i)
+[^F29]: S. 13(2)(b)(c) omitted (7.5.2010) by virtue of Constitutional Reform and Governance Act 2010 (c. 25), s. 52, Sch. 5 para. 5(2); S.I. 2010/1277, art. 3(i)(iv)
+[^F30]: Words in s. 13(4) substituted (19.4.2010) by Constitutional Reform and Governance Act 2010 (c. 25), s. 52, Sch. 5 para. 5(3); S.I. 2010/1277, art. 2(d)(iv)
+[^F31]: Words in s. 13(6)(c) substituted (19.4.2010) by Constitutional Reform and Governance Act 2010 (c. 25), s. 52, Sch. 5 para. 5(3); S.I. 2010/1277, art. 2(d)(iv)
+[^F32]: S. 14(2)(d) omitted (7.5.2010) by virtue of Constitutional Reform and Governance Act 2010 (c. 25), s. 52, Sch. 5 para. 6; S.I. 2010/1277, art. 3(i)(v)
+[^F33]: S. 15 omitted (7.5.2010) by virtue of Constitutional Reform and Governance Act 2010 (c. 25), ss. 37, 52; S.I. 2010/1277, art. 3(g)
+[^F34]: Sch. 1 para. 1(3) substituted (1.4.2012) by Budget Responsibility and National Audit Act 2011 (c. 4), s. 29, Sch. 5 para. 33; S.I. 2011/2576, art. 5
+[^F35]: Sch. 1 para. 10 and heading omitted (7.5.2010) by virtue of Constitutional Reform and Governance Act 2010 (c. 25), s. 52, Sch. 5 para. 7(2); S.I. 2010/1277, art. 3(i)(vi)
+[^F36]: Sch. 1 para. 18(1)(a) substituted (24.5.2011) by Constitutional Reform and Governance Act 2010 (c. 25), s. 52, Sch. 5 para. 7(3)(a); S.I. 2011/1274, art. 2(b)
+[^F37]: Words in Sch. 1 para. 18(1)(c) inserted (27.7.2010) by Constitutional Reform and Governance Act 2010 (c. 25), s. 52, Sch. 5 para. 7(3)(b); S.I. 2010/1931, art. 3(h)(ii)
+[^F38]: Words in Sch. 1 para. 18(1) omitted (7.5.2010) by virtue of Constitutional Reform and Governance Act 2010 (c. 25), s. 52, Sch. 5 para. 7(3)(c); S.I. 2010/1277, art. 3(i)(vi)
+[^F39]: Sch. 1 para. 18(2)(za) inserted (24.5.2011) by Constitutional Reform and Governance Act 2010 (c. 25), s. 52, Sch. 5 para. 7(4)(a); S.I. 2011/1274, art. 2(b)
+[^F40]: Sch. 1 para. 18(2)(aa) inserted (27.7.2010) by Constitutional Reform and Governance Act 2010 (c. 25), s. 52, Sch. 5 para. 7(4)(b); S.I. 2010/1931, art. 3(h)(ii)
+[^F41]: Sch. 1 para. 18(2)(b) omitted (7.5.2010) by virtue of Constitutional Reform and Governance Act 2010 (c. 25), s. 52, Sch. 5 para. 7(4)(c); S.I. 2010/1277, art. 3(i)(vi)
+[^F42]: Sch. 1 para. 18(2)(c)-(f) substituted for Sch. 1 para. 18(2)(c) (19.4.2010 for specified purposes, 27.7.2010 in so far as not already in force) by Constitutional Reform and Governance Act 2010 (c. 25), s. 52, Sch. 5 para. 7(4)(d); S.I. 2010/1277, art. 2(d)(v); S.I. 2010/1931, art. 3(h)(ii)
+[^F43]: Sch. 1 para. 18(3) inserted (24.10.2011 for specified purposes, 1.11.2013 in so far as not already in force) by Constitutional Reform and Governance Act 2010 (c. 25), s. 52, Sch. 6 para. 47(2); S.I. 2011/2485, art. 2(1)(2)(c)(iv); S.I. 2013/2826, art. 2(b)(iii) (with art. 3)
+[^F44]: Words in Sch. 1 para. 22(8) substituted (27.7.2010) by Constitutional Reform and Governance Act 2010 (c. 25), s. 52, Sch. 5 para. 7(5); S.I. 2010/1931, art. 3(h)(ii)
+[^F45]: Words in Sch. 1 para. 29(2) inserted (24.10.2011) by Constitutional Reform and Governance Act 2010 (c. 25), s. 52, Sch. 6 para. 47(3); S.I. 2011/2485, art. 2(1)(2)(c)(v)
+[^F46]: Sch. 2 substituted (19.4.2010) by Constitutional Reform and Governance Act 2010 (c. 25), s. 52, Sch. 3; S.I. 2010/1277, art. 2(a)(c)
+[^F47]: Word in Sch. 3 para. 1(c) omitted (7.5.2010) by virtue of Constitutional Reform and Governance Act 2010 (c. 25), ss. 27(2)(a), 52; S.I. 2010/1277, art. 3(a)
+[^F48]: Sch. 3 para. 1(e) and word inserted (7.5.2010) by Constitutional Reform and Governance Act 2010 (c. 25), ss. 27(2)(b), 52; S.I. 2010/1277, art. 3(a)
+[^F49]: Sch. 3 para. 2 cross-heading substituted (7.5.2010) by Constitutional Reform and Governance Act 2010 (c. 25), ss. 27(3), 52; S.I. 2010/1277, art. 3(a)
+[^F50]: Sch. 3 para. 2A and cross-heading inserted (7.5.2010) by Constitutional Reform and Governance Act 2010 (c. 25), ss. 27(4), 52; S.I. 2010/1277, art. 3(a)
+[^F51]: Sch. 4 inserted (27.7.2010) by Constitutional Reform and Governance Act 2010 (c. 25), ss. 34(2), 52, Sch. 4; S.I. 2010/1931, art. 3(d)(g) (with arts. 4, 5)
+[^F52]: Words in Sch. 4 para. 5(4) substituted (22.4.2014) by virtue of Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 9 para. 117; S.I. 2014/954, art. 2(c) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F53]: Words in Sch. 4 para. 12(4) substituted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 9 para. 117; S.I. 2014/954, art. 2(c) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)

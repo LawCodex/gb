@@ -1,0 +1,2442 @@
+---
+title: "Agriculture Act 1993"
+identifier: "ukpga/1993/37"
+citation: "1993 c. 37"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S+N.I."
+date: 1993-07-27
+last_amended: 2025-06-16
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/1993/37"
+source_modified: 2025-07-13
+retrieved: 2026-10-11
+---
+
+# Agriculture Act 1993
+
+**1993 c. 37**
+
+An Act to make provision about milk marketing; to make provision about potato marketing; to provide for the payment of grants in connection with the marketing of certain commodities; to terminate national price support arrangements for wool and potatoes; to provide for the publication of an annual report on matters relevant to price support; to amend the Industrial Organisation and Development Act 1947 in relation to agriculture; and for connected purposes.
+
+[27th July 1993]
+
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## Part I — Milk Marketing
+
+### Ending of milk marketing schemes
+
+#### [^F1]1 Revocation of schemes.
+
+[^F1]1 [^F1]Each of the milk marketing schemes having effect under the [^M1][^F1]Agricultural Marketing Act 1958, namely—
+
+[^F1]a [^F1]the Milk Marketing Scheme 1933,
+
+[^F1]b [^F1]the North of Scotland Milk Marketing Scheme 1934,
+
+[^F1]c [^F1]the Aberdeen and District Milk Marketing Scheme 1984, and
+
+[^F1]d [^F1]the Scottish Milk Marketing Scheme 1989,
+
+[^F1]is hereby revoked.
+
+[^F1]2 [^F1]Subject to subsections (3) and (4) below, subsection (1) above shall come into force—
+
+[^F1]a [^F1]in relation to any of the schemes mentioned in subsection (1) above, other than the scheme mentioned in paragraph (a) of that subsection, on 1st April 1994, and
+
+[^F1]b [^F1]in relation to the scheme mentioned in that paragraph, on 1st October 1994.
+
+[^F1]3 [^F1]The appropriate authority may by order provide that paragraph (a) or (b) of subsection (2) above shall have effect with the substitution for the date mentioned in that paragraph of such later date before 1st January 1996 as may be specified in the order.
+
+[^F1]4 [^F1]Where property, rights or liabilities of a milk marketing board are transferred under section 11 below (statutory transfer on vesting day under approved scheme of reorganisation)—
+
+[^F1]a [^F1]subsection (2) above shall not apply in relation to the scheme administered by the board, and
+
+[^F1]b [^F1]subsection (1) above shall come into force, in relation to that scheme, on the day of the transfer.
+
+[^F1]5 [^F1]Where subsection (4) above applies, the appropriate authority shall by order certify the fact and date of its application.
+
+### Schemes of reorganisation
+
+#### [^F1]2 Applications for approval.
+
+[^F1]1 [^F1]A milk marketing board may, at any time before 1st January 1994, apply to the appropriate authority for approval of a scheme for the reorganisation of the arrangements relating to the marketing of milk in its area (“[^F1]scheme of reorganisation[^F1]”).
+
+[^F1]2 [^F1]An application under this section shall include—
+
+[^F1]a [^F1]a copy of the scheme to which the application relates,
+
+[^F1]b [^F1]a statement of the applicant’s reasons for believing that the scheme is one which ought to be approved,
+
+[^F1]c [^F1]a statement, in relation to each successor body proposed to be engaged in milk trading, of the practices proposed to be adopted by it with respect to such trading, and
+
+[^F1]d [^F1]a statement of the applicant’s reasons for believing that those practices satisfy section 3(2)(a)(iii) below.
+
+[^F1]3 [^F1]Subject to subsection (4) below, an application under this section may be amended or withdrawn at any time before the appropriate authority has finally determined it.
+
+[^F1]4 [^F1]An application under this section may not be amended at any time after the authority has given the board notice under section 4(2) or (3) below.
+
+[^F1]5 [^F1]Where a board has made an application under this section, it may not make a further such application until the previous application has been finally determined or withdrawn.
+
+[^F1]6 [^F1]No application under this section may be made by a board which has obtained approval of a scheme of reorganisation under this Part of this Act.
+
+[^F1]7 [^F1]The appropriate authority may by order extend the period for making applications under this section.
+
+[^F1]8 [^F1]In subsection (2)(c) above, “[^F1]successor body[^F1]” means a body to which property, rights or liabilities of a milk marketing board are, under the scheme to which the application relates, proposed to be transferred under section 11 below.
+
+#### [^F1]3 Determination of applications.
+
+[^F1]1 [^F1]This section applies where a milk marketing board makes an application under section 2 above for approval of a scheme of reorganisation.
+
+[^F1]2 [^F1]The authority to which the application is made shall not grant the application unless—
+
+[^F1]a [^F1]it is satisfied—
+
+[^F1]i [^F1]that the board has taken reasonable steps to bring the principles of the scheme to the attention of persons who are registered producers,
+
+[^F1]ii [^F1]that the scheme is a qualifying scheme under Schedule 1 to this Act, and
+
+[^F1]iii [^F1]that the practices contained in the statement mentioned in section 2(2)(c) above take account of the interests of purchasers of milk; and
+
+[^F1]b [^F1]it has consulted about the principles of the scheme such persons appearing to it to be representative of the interests of producers, purchasers, retailers and consumers of milk as it considers appropriate.
+
+[^F1]3 [^F1]Subject to that—
+
+[^F1]a [^F1]if the authority is satisfied that the scheme is one which ought to be approved, it shall grant the application, and
+
+[^F1]b [^F1]if it is not so satisfied, section 4 below shall apply.
+
+[^F1]4 [^F1]In determining for the purposes of subsection (3) above whether the scheme ought to be approved, the authority shall have regard to all the circumstances and, in particular, to—
+
+[^F1]a [^F1]whether the scheme takes account of the interests of consumers of milk and producers of milk;
+
+[^F1]b [^F1]whether the scheme makes reasonable provision for the distribution of assets to persons by reference to their being, or having been, registered producers;
+
+[^F1]c [^F1]whether it is unlikely that any person to whom a liability is transferred under the scheme will be unable to meet it;
+
+[^F1]d [^F1]whether it is unlikely that the board will be unable to meet retained liabilities out of retained assets; and
+
+[^F1]e [^F1]whether the structure of the new arrangements contemplated by the scheme is such as to allow for the development of competition in milk marketing.
+
+[^F1]5 [^F1]The scheme shall not be taken to be unreasonable in its treatment of the distribution of assets to persons by reference to their being, or having been, registered producers by virtue only of the fact that it—
+
+[^F1]a [^F1]specifies a date by reference to which any such distribution is to be made, or
+
+[^F1]b [^F1]provides for any such distribution to be made by reference to the occurrence in a specified period (being a period of at least a year) of any relevant matter,
+
+[^F1]provided the specified date or, as the case may be, the end of the specified period, is not earlier than 31st March 1993 and not later than the vesting day under the scheme.
+
+[^F1]6 [^F1]For the purposes of subsection (5) above, the following are relevant matters—
+
+[^F1]a [^F1]the production of milk, and
+
+[^F1]b [^F1]the sale of milk by the person responsible for producing it.
+
+[^F1]7 [^F1]For the purposes of subsection (6)(b) above, milk shall be treated as sold if it is sold in the form of milk or in the form of a product which is wholly or partly derived from milk or which includes milk as an ingredient.
+
+#### [^F1]4 Procedure where scheme not one which ought to be approved.
+
+[^F1]1 [^F1]This section applies where, on an application by a milk marketing board under section 2 above for approval of a scheme of reorganisation, the authority to which the application is made is satisfied as mentioned in subsection (2)(a) of section 3 above, but is not satisfied as mentioned in subsection (3)(a) of that section.
+
+[^F1]2 [^F1]Where the authority is satisfied that the scheme is not capable of being modified so as to bring it within section 3(3)(a) above, it shall refuse the application, but, before finally concluding that the application should be refused under this subsection, it shall—
+
+[^F1]a [^F1]give the board notice of the conclusions it proposes to reach about the scheme and of the reasons for them,
+
+[^F1]b [^F1]specify in the notice under paragraph (a) above a day, at least 28 days after the date of the notice, on or before which the board may make written representations to the authority about those conclusions, and
+
+[^F1]c [^F1]take into consideration any representations made to it under paragraph (b) above or in response to an invitation by it to the board to make oral representations about those conclusions.
+
+[^F1]3 [^F1]Where the authority is satisfied that the scheme is capable of being modified so as to bring it within section 3(3)(a) above, it shall give the board notice of—
+
+[^F1]a [^F1]the modifications which it considers would bring it within that provision,
+
+[^F1]b [^F1]the reasons for them, and
+
+[^F1]c [^F1]a day, at least 28 days after the date of the notice, on or before which the board may respond to the proposed modifications.
+
+[^F1]4 [^F1]If, before the end of the period for responding to the proposed modifications, the board gives the authority notice of its agreement to them, the application shall be treated as relating to the scheme with those modifications.
+
+[^F1]5 [^F1]If, at the end of the period for responding to the proposed modifications, the board has not—
+
+[^F1]a [^F1]persuaded the authority that no modifications are required,
+
+[^F1]b [^F1]given the authority notice of its agreement to the proposed modifications, or
+
+[^F1]c [^F1]given the authority notice of proposed alternative modifications,
+
+[^F1]the authority shall refuse the application.
+
+[^F1]6 [^F1]Subsections (7) and (8) below apply where, before the end of the period for responding to the proposed modifications, the board gives the authority notice of proposed alternative modifications.
+
+[^F1]7 [^F1]If the authority is satisfied that the proposed alternative modifications would bring the scheme within section 3(3)(a) above, it shall treat the application as relating to the scheme with those modifications.
+
+[^F1]8 [^F1]If the authority is not so satisfied, it shall refuse the application, but, before finally concluding that the application should be refused under this subsection, it shall—
+
+[^F1]a [^F1]give the board notice of the conclusion it proposes to reach about the proposed alternative modifications and of the reasons for it,
+
+[^F1]b [^F1]specify in the notice under paragraph (a) above a day, at least 28 days after the date of the notice, on or before which the board may make written representations to the authority about that conclusion, and
+
+[^F1]c [^F1]take into consideration any representations made to it under paragraph (b) above or in response to an invitation by it to the board to make oral representations about that conclusion.
+
+[^F1]9 [^F1]The authority may by notice to the board extend (or further extend) as it thinks fit—
+
+[^F1]a [^F1]the period under subsection (2)(b) above for making representations,
+
+[^F1]b [^F1]the period under subsection (3)(c) above for responding to proposed modifications, or
+
+[^F1]c [^F1]the period under subsection (8)(b) above for making representations.
+
+#### [^F1]5 Variation of approved scheme.
+
+[^F1]1 [^F1]Subject to subsection (2) below, the appropriate authority may approve a variation of an approved scheme on the application of the relevant board made before the vesting day under the scheme.
+
+[^F1]2 [^F1]The appropriate authority shall not approve a variation of an approved scheme unless—
+
+[^F1]a [^F1]it is satisfied—
+
+[^F1]i [^F1]that the relevant board has taken reasonable steps to bring the principle of the proposed variation to the attention of persons who are registered producers, or
+
+[^F1]ii [^F1]that the proposed variation is not sufficiently important to require the principle of it to be brought to their attention; and
+
+[^F1]b [^F1]it is satisfied that its decisions under section 3(2)(a)(ii) and (3)(a) above would not have been different had the scheme included the proposed variation.
+
+[^F1]3 [^F1]In this section, “[^F1]the relevant board[^F1]”, in relation to an approved scheme, means the milk marketing board to which the scheme relates.
+
+#### [^F1]6 Withdrawal of approval.
+
+[^F1]1 [^F1]The appropriate authority may, on the application of the relevant board before the vesting day under an approved scheme, withdraw the scheme’s approval if it is satisfied that there has been a material change of circumstances since the scheme was approved.
+
+[^F1]2 [^F1]The appropriate authority shall give an applicant under subsection (1) above notice of its decision in relation to the application.
+
+[^F1]3 [^F1]Where approval in relation to a scheme is withdrawn under subsection (1) above, it shall cease to be an approved scheme with effect from the date of the notice under subsection (2) above.
+
+[^F1]4 [^F1]Where a scheme ceases under this section to be an approved scheme, it shall be disregarded for the purposes of section 2(6) above.
+
+[^F1]5 [^F1]Where the period within which an application under section 2 above may be made has expired before the date on which a scheme ceases under this section to be an approved scheme, the milk marketing board concerned may, subject to subsection (6) below, make an application under that section at any time before the end of the period of three months beginning with that date.
+
+[^F1]6 [^F1]A milk marketing board may not make an application by virtue of subsection (5) above within the period of 3 months immediately preceding the day on which the marketing scheme administered by the board will, under subsection (2) of section 1 above, be revoked by subsection (1) of that section.
+
+[^F1]7 [^F1]In this section, “[^F1]the relevant board[^F1]”, in relation to an approved scheme, means the milk marketing board to which the scheme relates.
+
+#### [^F1]7 Information.
+
+[^F1]1 [^F1]The authority to which an application under section 2, 5 or 6 above is made may by notice require any person to supply to it such information as may be specified in the notice, being information the supply of which the authority considers necessary or desirable for the purpose of enabling it to carry out its functions in relation to the application.
+
+[^F1]2 [^F1]A notice under subsection (1) above shall require the information to be supplied within such period as may be specified in the notice, being not less than 21 days from the date of the notice.
+
+[^F1]3 [^F1]Where the authority to which an application under section 2, 5 or 6 above is made gives a notice under subsection (1) above to the applicant, the applicant shall be treated as having withdrawn the application unless—
+
+[^F1]a [^F1]it complies with the notice, or
+
+[^F1]b [^F1]before the end of the period allowed for compliance, it shows to the satisfaction of the authority that it has reasonable grounds for not complying with it.
+
+[^F1]4 [^F1]Where—
+
+[^F1]a [^F1]the authority to which an application under section 2, 5 or 6 above is made gives a notice under subsection (1) above to the applicant,
+
+[^F1]b [^F1]the applicant purports to comply with the notice, and
+
+[^F1]c [^F1]it becomes apparent to the authority after the time allowed for compliance with the notice and before the application has been finally determined that the applicant has not in fact complied with it,
+
+[^F1]the authority shall give the applicant notice of that fact.
+
+[^F1]5 [^F1]Where, within 14 days of the date of a notice under subsection (4) above, the person to whom the notice is given shows to the satisfaction of the authority by which it is given that the failure to comply with the notice under subsection (1) above was accidental and not attributable to a failure to take reasonable care, subsection (3) above shall be treated as never having had any application in relation to it.
+
+[^F1]6 [^F1]If any person other than the applicant under section 2, 5 or 6 above fails without reasonable excuse to comply with a notice under subsection (1) above, he shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+[^F1]7 [^F1]If any person, in purported compliance with a notice under subsection (1) above, knowingly or recklessly supplies information which is false or misleading in a material respect, he shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+[^F1]8 [^F1]Where an application under section 2, 5 or 6 above is made to the Minister of Agriculture, Fisheries and Food and the Secretary of State, the powers conferred by this section shall be exercisable by those ministers acting jointly.
+
+#### [^F1]8 Publicity for determinations.
+
+[^F1]1 [^F1]As soon as reasonably practicable after granting an application under section 2 or 5 above, the authority granting the application shall make public in such manner as it thinks fit—
+
+[^F1]a [^F1]the fact that it has granted the application, and
+
+[^F1]b [^F1]the principles of the approved scheme or, as the case may be, of the approved variation.
+
+[^F1]2 [^F1]As soon as reasonably practicable after deciding under section 6 above to withdraw an approved scheme’s approval, the authority making the decision shall make its decision public in such manner as it thinks fit.
+
+### Carrying out of approved schemes
+
+#### [^F1]9 Functions of the relevant board.
+
+[^F1]1 [^F1]The relevant board may do whatever is necessary for, or conducive to, the carrying out of an approved scheme in the period up to and including the vesting day under the scheme.
+
+[^F1]2 [^F1]In this section, “[^F1]the relevant board[^F1]”, in relation to an approved scheme, means the board to which the scheme relates.
+
+#### [^F1]10 Functions of the appropriate authority.
+
+[^F1]1 [^F1]The appropriate authority shall satisfy itself, in relation to an approved scheme—
+
+[^F1]a [^F1]that so much of the scheme as relates to the period prior to the vesting day under the scheme is duly carried out, and
+
+[^F1]b [^F1]that it does not, during that period, become expedient, by virtue of a change of circumstances, that there should be an increase in the provision made by the scheme for meeting liabilities retained by the relevant board after the transfer under section 11 below.
+
+[^F1]2 [^F1]The appropriate authority may by notice require the relevant board to supply to it such information as may be specified in the notice, being information which the authority considers necessary or desirable for the purpose of enabling it to discharge its functions under subsection (1) above.
+
+[^F1]3 [^F1]A notice under subsection (2) above shall require the information to be supplied within such period as may be specified in the notice, being not less than 7 days from the date of the notice.
+
+[^F1]4 [^F1]If, at any time before the vesting day under an approved scheme, it appears to the appropriate authority—
+
+[^F1]a [^F1]that the relevant board has—
+
+[^F1]i [^F1]failed to supply information required by a notice under subsection (2) above, or
+
+[^F1]ii [^F1]failed in a material respect to carry out the scheme, or
+
+[^F1]b [^F1]that, by virtue of a change of circumstances, it is expedient that there should be such an increase as is mentioned in subsection (1)(b) above,
+
+[^F1]it may give the board notice of that fact and of the reasons for it.
+
+[^F1]5 [^F1]No notice under subsection (4) above may be given by virtue of paragraph (a)(i) of that subsection more than 28 days after the relevant board has purported to comply with the notice under subsection (2) above.
+
+[^F1]6 [^F1]The appropriate authority shall by notice to the relevant board withdraw a notice under subsection (4) above if it is satisfied—
+
+[^F1]a [^F1]that there is no longer any ground for it, and
+
+[^F1]b [^F1]that it continues to be practicable for the scheme to be carried out.
+
+[^F1]7 [^F1]If the relevant board, in purported compliance with a notice under subsection (2) above, knowingly or recklessly supplies information which is false or misleading in a material respect, it shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+[^F1]8 [^F1]In this section, “[^F1]the relevant board[^F1]”, in relation to an approved scheme, means the board to which the scheme relates.
+
+#### [^F1]11 Statutory transfer on vesting day.
+
+[^F1]1 [^F1]On the vesting day under an approved scheme, any transfer under the scheme which—
+
+[^F1]a [^F1]is a qualifying transfer, and
+
+[^F1]b [^F1]is a transfer which the scheme provides is to have effect under this section,
+
+[^F1]shall have effect by virtue of this Act.
+
+[^F1]2 [^F1]Subsection (1) above shall not apply if—
+
+[^F1]a [^F1]a notice under subsection (4) of section 10 above has been given in respect of the scheme, and
+
+[^F1]b [^F1]the notice has not been withdrawn under subsection (6) of that section.
+
+[^F1]3 [^F1]For the purposes of subsection (1)(a) above, a transfer is a qualifying transfer if it is—
+
+[^F1]a [^F1]a transfer of property, rights or liabilities of—
+
+[^F1]i [^F1]the relevant board, or
+
+[^F1]ii [^F1]a subsidiary of that board,
+
+[^F1]to a body which is a qualifying body, or
+
+[^F1]b [^F1]a transfer of property, rights or liabilities of a subsidiary of the relevant board to that board.
+
+[^F1]4 [^F1]For the purposes of subsection (3) above, a body is a qualifying body if it is—
+
+[^F1]a [^F1]a development council established under the [^M2][^F1]Industrial Organisation and Development Act 1947,
+
+[^F1]b [^F1]a society registered under the [^M3][^F1]Industrial and Provident Societies Act 1965 which has not previously traded,
+
+[^F1]c [^F1]a company registered under the [^M4][^F1]Companies Act 1985 which has not previously traded, or
+
+[^F1]d [^F1]a company registered under that Act which was a subsidiary of the relevant board immediately before the day on which this Act is passed.
+
+[^F1]5 [^F1]In this section, “[^F1]the relevant board[^F1]”, in relation to an approved scheme, means the board to which the scheme relates.
+
+#### [^F1]12 Other provisions.
+
+[^F1]Schedule 2 to this Act (which makes provision in relation to or in connection with the carrying out of an approved scheme) shall have effect.
+
+### Position of milk marketing boards post-revocation
+
+#### [^F1]13 General.
+
+[^F1]The board administering a milk marketing scheme shall not be deemed to be dissolved by reason of the revocation of the scheme by section 1(1) above and so much of the scheme as relates to the winding up of the board shall (subject to any provision of regulations under section 14(2) below) continue in force notwithstanding the revocation.
+
+#### [^F1]14 Position following reorganisation.
+
+[^F1]1 [^F1]Subsections (2) to (5) below apply where property, rights or liabilities of a milk marketing board are transferred under section 11 above under an approved scheme.
+
+[^F1]2 [^F1]The appropriate authority—
+
+[^F1]a [^F1]shall by regulations make such provision as it thinks fit for the purpose of giving effect to so much of the approved scheme as relates to the board in the period after the transfer under that section; and
+
+[^F1]b [^F1]may by regulations make such provision as it thinks fit—
+
+[^F1]i [^F1]in relation to the constitution of the board, or
+
+[^F1]ii [^F1]for the purpose of enabling the board to wind up its affairs.
+
+[^F1]3 [^F1]Regulations under subsection (2) above may—
+
+[^F1]a [^F1]provide that, notwithstanding section 1(1) above, such provisions of the relevant marketing scheme as are specified in the regulations shall continue to have effect, subject to such modifications as may be so specified, or
+
+[^F1]b [^F1]make such new provision as appears to the authority to be necessary or expedient.
+
+[^F1]4 [^F1]Regulations under subsection (2) above may not confer a power to raise compulsory levies.
+
+[^F1]5 [^F1]As soon as the appropriate authority is satisfied that the board has carried out any remaining functions, and on being given notice by the board that it has wound up its affairs, the appropriate authority shall, after consultation with the board, make an order dissolving the board on such date as is specified in the order.
+
+[^F1]6 [^F1]Regulations under subsection (2) above may be made in anticipation of the application of that subsection.
+
+[^F1]7 [^F1]In subsection (3)(a) above, “[^F1]relevant marketing scheme[^F1]” means the marketing scheme which constituted the board.
+
+#### [^F1]15 Position in the absence of reorganisation.
+
+[^F1]1 [^F1]This section applies where the revocation of a milk marketing scheme by section 1(1) above takes place without property, rights or liabilities of the board constituted by it having been transferred under section 11 above.
+
+[^F1]2 [^F1]The appropriate authority shall present a petition for the winding up of the board in accordance with the milk marketing scheme and Schedule 2 to the [^M5][^F1]Agricultural Marketing Act 1958.
+
+[^F1]3 [^F1]If, in the event of the board being so wound up, any assets of the board remain after the discharge of its debts and liabilities and the payment of the costs and expenses incurred in the winding up, those assets shall be distributed to the producers who would have been by virtue of paragraph 5 of Schedule 2 to the [^M6][^F1]Agricultural Marketing Act 1958 liable to contribute in the winding up, and shall be so distributed in proportion to their respective liabilities in that behalf.
+
+### Miscellaneous
+
+#### [^F1]16 Membership of milk marketing board.
+
+[^F1]1 [^F1]No election of members of a milk marketing board, or of a committee under the marketing scheme administered by such a board, (other than an election for the purpose of filling a casual vacancy) shall be held after 31st December 1993 or such later day as the appropriate authority may by order specify.
+
+[^F1]2 [^F1]The term of office of any member of a milk marketing board, or of a committee under the marketing scheme administered by such a board, shall, instead of expiring at any other time, expire—
+
+[^F1]a [^F1]where property, rights or liabilities of the board are transferred under section 11 above, on the day of the transfer, and
+
+[^F1]b [^F1]where the marketing scheme administered by the board is revoked by section 1(1) above without property, rights or liabilities of the board having been transferred under section 11 above, at such time as the board is dissolved in consequence of being wound up under section 15(2) above.
+
+#### [^F1]17 Levies.
+
+[^F1]1 [^F1]This section applies where—
+
+[^F1]a [^F1]property, rights or liabilities of a milk marketing board are transferred under section 11 above in accordance with an approved scheme, and
+
+[^F1]b [^F1]under the scheme, any liabilities of the board are excepted from transfer under that section.
+
+[^F1]2 [^F1]The appropriate authority may, on the application of the board, by order give effect to a scheme enabling the board to require eligible producers to make contributions for the purpose of enabling it to meet its liabilities.
+
+[^F1]3 [^F1]The appropriate authority shall not make an order under subsection (2) above unless it is satisfied—
+
+[^F1]a [^F1]that the board’s assets are insufficient to meet its liabilities;
+
+[^F1]b [^F1]that the board has taken all reasonable steps to minimise the amount required to meet its liabilities;
+
+[^F1]c [^F1]that there is no other reasonably practicable way of discharging its liabilities;
+
+[^F1]d [^F1]that the amount proposed to be raised under the scheme is reasonable; and
+
+[^F1]e [^F1]that the basis on which contributions are to be assessed under the scheme is reasonable.
+
+[^F1]4 [^F1]In subsection (2) above, the reference to eligible producers is to the persons who, under the approved scheme, are entitled to participate in the distribution of assets of the board by virtue of their being, or having been, registered producers.
+
+#### [^F1]18 Power to carry out preparatory work.
+
+[^F1]1 [^F1]The functions of a milk marketing board shall be deemed always to have included the function of preparing for the enactment of this Part of this Act.
+
+[^F1]2 [^F1]In this section, “[^F1]milk marketing board[^F1]” includes the board established under the Milk Marketing Scheme (Northern Ireland) 1989; and, in the application of this section to that board, the reference to the enactment of this Part of this Act shall be construed as a reference to the making of Northern Ireland legislation corresponding to this Part.
+
+#### [^F1]19 Overriding nature of functions under Part I.
+
+[^F1]Nothing done in pursuance of this Part of this Act by a milk marketing board, or by any member or officer of such a board, shall be taken to constitute a breach of any duty owed, apart from the provisions of this Part of this Act, to persons who are registered producers.
+
+#### [^F2]20 Functions under section 19 of the Agricultural Marketing Act 1958.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 21 Restriction of Agricultural Marketing Act 1958.
+
+(1) Part I of the Agricultural Marketing Act 1958 (agricultural marketing schemes) shall cease to have effect in relation to milk.
+
+[^F3]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F4]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Supplementary
+
+#### [^F5]22 Service of documents.
+
+[^F5]1 [^F5]Any document required or authorised under this Part of this Act to be served on any person may be served—
+
+[^F5]a [^F5]by delivering it to him or by leaving it at his proper address or by sending it by post to him at that address, or
+
+[^F5]b [^F5]if the person is a body corporate, by serving it in accordance with paragraph (a) above on the secretary of that body, or
+
+[^F5]c [^F5]if the person is a partnership, by serving it in accordance with paragraph (a) above on a partner or a person having control or management of the partnership business.
+
+[^F5]2 [^F5]For the purposes of this section and section 7 of the [^M7][^F5]Interpretation Act 1978 (which relates to the service of documents by post) in its application to this section, the proper address of any person on whom a document is to be served shall be his last known address, except that—
+
+[^F5]a [^F5]in the case of service on a body corporate or its secretary, it shall be the address of the registered or principal office of the body;
+
+[^F5]b [^F5]in the case of service on a partnership or a partner or a person having the control or management of a partnership business, it shall be the address of the principal office of the partnership;
+
+[^F5]and for the purposes of this subsection the principal office of a company registered outside the United Kingdom or of a partnership carrying on business outside the United Kingdom is its principal office within the United Kingdom.
+
+[^F5]3 [^F5]If a person to be served under this Part of this Act with any document by another has specified to that other an address within the United Kingdom other than his proper address (as determined under subsection (2) above) as the one at which he or someone on his behalf will accept documents of the same description as that document, that address shall also be treated as his proper address for the purposes of this section and for the purposes of section 7 of the Interpretation Act 1978 in its application to this section.
+
+[^F5]4 [^F5]In this section “[^F5]secretary[^F5]”, in relation to a local authority within the meaning of the [^M8][^F5]Local Government Act 1972 or the [^M9][^F5]Local Government (Scotland) Act 1973, means the proper officer within the meaning of that Act.
+
+#### [^F5]23 Consequential amendments.
+
+[^F5]1 [^F5]The relevant authority may by order make such modifications of any provision contained in any Act passed, or subordinate legislation made, before the relevant day as appear to it to be necessary or expedient in consequence of the coming into force of section 1(1) above.
+
+[^F5]2 [^F5]In this section, the reference to the relevant authority is—
+
+[^F5]a [^F5]in the case of any modification consequential on the coming into force of section 1(1) above in relation to the England and Wales Milk Marketing Scheme, to the Minister of Agriculture, Fisheries and Food and the Secretary of State for Wales acting jointly,
+
+[^F5]b [^F5]in the case of any modification consequential on the coming into force of section 1(1) above in relation to any one or more of the other milk marketing schemes mentioned in that provision, to the Secretary of State, and
+
+[^F5]c [^F5]in the case of any modification consequential on the coming into force of section 1(1) above in relation to all the milk marketing schemes mentioned in that provision, to the Minister of Agriculture, Fisheries and Food, the Secretary of State for Scotland and the Secretary of State for Wales acting jointly.
+
+[^F5]3 [^F5]For the purposes of this section, the relevant day, in relation to a consequential modification, is—
+
+[^F5]a [^F5]in the case of a modification which is consequential on the revocation of one milk marketing scheme, the day on which section 1(1) above comes into force in relation to that scheme, and
+
+[^F5]b [^F5]in the case of a modification which is consequential on the revocation of more than one milk marketing scheme, the day on which section 1(1) above comes into force completely in relation to those schemes.
+
+#### [^F5]24 Interpretation of Part I.
+
+[^F5]1 [^F5]In this Part of this Act—
+
+- [^F5]“[^F5]approved scheme[^F5]” means a scheme of reorganisation in relation to which an application under section 2 above, but no application under section 6 above, has been granted (with any variations approved under section 5 above);
+- [^F5]“[^F5]milk marketing board[^F5]” means the board administering a scheme having effect under the [^M10][^F5]Agricultural Marketing Act 1958 for the marketing of milk;
+- [^F5]“[^F5]notice[^F5]” means notice in writing;
+- [^F5]“[^F5]registered producers[^F5]”, in relation to a milk marketing board, means persons registered as producers under the marketing scheme administered by the board;
+- [^F5]“[^F5]scheme of reorganisation[^F5]” has the meaning given by section 2(1) above; and
+- [^F5]“[^F5]subsidiary[^F5]” has the same meaning as in the [^M11][^F5]Companies Act 1985.
+
+[^F5]2 [^F5]In this Part of this Act, references to the appropriate authority are—
+
+[^F5]a [^F5]in the case of a milk marketing board whose area is in England and Wales, to the Minister of Agriculture, Fisheries and Food and the Secretary of State, and, in relation to things done by the appropriate authority, to those ministers acting jointly, and
+
+[^F5]b [^F5]in the case of a milk marketing board whose area is in Scotland, to the Secretary of State.
+
+## Part II — Potato Marketing
+
+### Introductory
+
+#### [^F6]25 Activation of Part II.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Ending of Potato Marketing Scheme
+
+#### [^F6]26 Revocation of Scheme.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Transfer scheme
+
+#### [^F6]27 Application for approval.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F6]28 Determination of application.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F6]29 Procedure where scheme fails to meet criteria for approval.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F6]30 Variation of approved scheme.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F6]31 Information.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F6]32 Publicity for determinations.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Carrying out of approved scheme
+
+#### [^F6]33 Functions of the Board.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F6]34 Functions of the Ministers.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F6]35 Statutory transfer on vesting day.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 36 Other provisions.
+
+Schedule 4 to this Act (which makes provision in relation to or in connection with the carrying out of an approved scheme) shall have effect.
+
+### Position of Board post-revocation
+
+#### [^F7]37 General.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F7]38 Position following transfer under section 35.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F7]39 Position in the absence of transfer under section 35.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Miscellaneous
+
+#### [^F7]40 Power to poll registered producers.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F7]41 Voting in poll under section 40.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F7]42 Membership of the Board.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F7]43 Overriding nature of functions under Part II.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F7]44 Functions under section 19 of the Agricultural Marketing Act 1958.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F7]45 Quota years.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 46 Restriction of Agricultural Marketing Act 1958.
+
+Part I of the Agricultural Marketing Act 1958 (agricultural marketing schemes) shall cease to have effect in relation to potatoes on the day on which section 26(1) above comes into force.
+
+### Supplementary
+
+#### [^F8]47 Service of documents.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 48 Consequential amendments.
+
+The Ministers may by order make such modifications of any provision contained in any Act passed, or subordinate legislation made, before the day on which section 26(1) above comes into force as appear to them to be necessary or expedient in consequence of the coming into force of that provision.
+
+#### 49 Interpretation of Part II.
+
+(1) In this Part of this Act—
+
+- “approved scheme” means a transfer scheme approved under section 28 above (with any variations approved under section 30 above);
+- “the Board” means the Potato Marketing Board;
+- “notice” means notice in writing;
+- “registered producers” means persons registered as producers under the Potato Marketing Scheme; and
+- “transfer scheme” has the meaning given by section 27(1) above.
+
+(2) In this Part of this Act, references to the Ministers are to the Minister of Agriculture, Fisheries and Food, the Secretary of State for Scotland and the Secretary of State for Wales, and, in relation to things done by the Ministers, are to those ministers acting jointly.
+
+## Part III — Grants for Marketing
+
+### 50 Grants.
+
+(1) The Ministers may, by a scheme made with the approval of the Treasury, make provision for the payment by the appropriate Minister of grants towards expenditure which has been, or is to be, incurred in carrying out proposals to which this section applies.
+
+(2) This section applies to proposals for the organisation, promotion, encouragement, development, co-ordination or facilitation of the marketing in Great Britain or elsewhere of—
+
+(a) the produce of agriculture (including horticulture),
+
+(b) the produce of fish farming,
+
+(c) the produce of an activity specified for the purposes of this subsection by order made by the Ministers, or
+
+(d) anything derived from produce falling within any of paragraphs (a) to (c) above.
+
+(3) Without prejudice to the generality of subsection (1) above, a scheme under this section may—
+
+(a) provide for the payment of grant by reference to proposals which have been approved by the appropriate Minister after submission to and recommendation by such person as may be specified in the scheme;
+
+(b) authorise the approval of proposals to be varied or withdrawn with the written consent of the person making the proposals;
+
+(c) authorise the reduction or withholding of grant where assistance in respect of expenditure for which the grant is made is given under any enactment other than this section;
+
+(d) confer a discretion on the appropriate Minister as to the payment of grant, as to the manner and timing of payment of grant and as to the amount of grant;
+
+(e) make the payment of grant subject to such conditions as may be specified in or determined under the scheme;
+
+(f) provide for functions in connection with the administration of the scheme to be carried out, subject to such conditions as may be specified in the scheme, by such person as may be so specified;
+
+(g) provide for any discretion conferred by or under the scheme to be exercisable in such circumstances and by reference to such matters as may be specified in or determined under the scheme;
+
+(h) contain such supplementary and consequential provision as the Ministers think fit; and
+
+(i) make different provision for different cases (including different provision for different areas).
+
+(4) A scheme under this section may, in relation to any discretion under the scheme, include provision for such person as may be specified in the scheme to be, to such extent and subject to such conditions as may be so specified, the delegate of the appropriate Minister.
+
+(5) If at any time after the approval of proposals under a scheme under this section (and whether before or after the proposals have been fully carried out) it appears to the appropriate Minister—
+
+(a) that any condition imposed under the scheme in relation to the proposals has not been complied with, or
+
+(b) that in connection with the submission of the proposals the person submitting them gave information on any matter which was false or misleading in a material respect,
+
+he may, subject to subsection (6) below, on demand recover any grant or any part of a grant paid with reference to the proposals, and may revoke the approval in whole or in part.
+
+(6) The appropriate Minister may not make a demand or revoke an approval under subsection (5) above unless he has given at least 30 days’ written notice of the reasons for the proposed action to any person to whom any payment by way of a grant in relation to the proposals would be payable, or from whom any such payment would be recoverable.
+
+(7) Where a scheme under this section provides for functions under the scheme to be carried out by any body created by a statutory provision, the Ministers may, after consultation with the body, by regulations modify or add to its constitution or powers for the purpose of enabling it to carry them out.
+
+(8) The power to make a scheme under this section shall be exercisable by statutory instrument subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(9) In this section—
+
+- “agriculture”—
+
+  - (a) in relation to England and Wales, has the same meaning as in the [^M12]Agriculture Act 1947, and
+  - (b) in relation to Scotland, has the same meaning as in the [^M13]Agriculture (Scotland) Act 1948;
+
+- “the appropriate Minister” means—
+
+  - (a) in relation to England, the Minister of Agriculture, Fisheries and Food, and
+  - (b) in relation to Scotland or Wales, the Secretary of State;
+
+- “fish farming” means the breeding, rearing or cultivating of fish (including shellfish) whether or not for the purpose of producing food for human consumption;
+
+- “the Ministers” means the Minister of Agriculture, Fisheries and Food, the Secretary of State for Scotland and the Secretary of State for Wales acting jointly;
+
+- “shellfish” includes crustaceans and molluscs of any kind.
+
+### 51 False statements to obtain payments.
+
+Any person who, for the purpose of obtaining a payment under a scheme under section 50 above for himself or another, knowingly or recklessly makes a statement which is false or misleading in a material respect shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 5 on the standard scale or to imprisonment for a term not exceeding six months or to both.
+
+### 52 Time limit for prosecutions.
+
+(1) Notwithstanding anything in any other enactment, proceedings for an offence under this Part of this Act may, subject to subsection (2) below, be commenced within the period of six months from the date on which evidence sufficient in the opinion of the prosecutor to warrant the proceedings came to his knowledge.
+
+(2) No such proceedings shall be commenced by virtue of this section more than three years after the commission of the offence.
+
+(3) For the purposes of this section, a certificate signed by or on behalf of the prosecutor and stating the date on which evidence sufficient in his opinion to warrant the proceedings came to his knowledge shall be conclusive evidence of that fact.
+
+(4) A certificate stating that matter and purporting to be so signed shall be deemed to be so signed unless the contrary is proved.
+
+(5) In relation to proceedings in Scotland, subsection (3) of [[^F9]section 136 of the Criminal Procedure (Scotland) Act 1995] (date of commencement of proceedings) shall apply for the purposes of this section as it applies for the purposes of that.
+
+### 53 Expenses and receipts under Part III.
+
+(1) Any expenditure incurred by a Minister under this Part of this Act shall be paid out of money provided by Parliament.
+
+(2) Any receipts of a Minister under this Part of this Act shall be paid into the Consolidated Fund.
+
+## Part IV — Miscellaneous and Supplementary
+
+### Termination of national price support arrangements
+
+#### 54 Wool guarantee.
+
+(1) The [^M14]Agriculture Act 1957 shall have effect as if the word “wool” were omitted from Schedule 1 to that Act (produce qualifying for guarantee under section 1).
+
+(2) Subsection (1) above shall not affect the operation of that Act on or after the day on which this Act is passed in relation to any period before that day.
+
+[^F10]3 [^F10]In making the calculations required to be made under article 5(1) of the [^M15][^F10]British Wool (Guaranteed Prices) Order 1955 (calculation of the Board’s outgoings and receipts for each wool year), no account shall be taken of any wool which has not been sold by the Board before 1st May 1995.
+
+#### 55 Potato guarantee in Great Britain.
+
+(1) The [^M16]Agriculture Act 1957 shall have effect as from the appointed date as if the word “potatoes” were omitted from Schedule 1 to that Act.
+
+(2) Subsection (1) above shall not affect the operation of that Act on or after that date in relation to any period before that date.
+
+(3) In subsection (1) above, “appointed date” means the date appointed under section 65(3) below for the coming into force of this section.
+
+### Other miscellaneous provisions
+
+#### [^F11]56 Commercial activities of milk marketing boards: distribution of profits.
+
+[^F11]1 [^F11]It shall be deemed to be an overriding requirement of a milk marketing scheme that any distribution in respect of profits attributable to any relevant commercial activities shall be made so as not to discriminate, as between persons who are registered as producers under the scheme—
+
+[^F11]a [^F11]by reference to the identity of the person to whom milk is sold, or
+
+[^F11]b [^F11]by reference to whether milk is sold in the form of milk or in the form of a product which is wholly or partly derived from milk or which includes milk as an ingredient.
+
+[^F11]2 [^F11]The powers conferred by a milk marketing scheme on the board administering the scheme shall be deemed to include whatever powers are necessary for the purpose of giving effect to the requirement under subsection (1) above.
+
+[^F11]3 [^F11]For the purposes of subsection (1) above, the following are relevant commercial activities, namely—
+
+[^F11]a [^F11]the separation of milk,
+
+[^F11]b [^F11]the heat treatment of milk,
+
+[^F11]c [^F11]the retail packaging of milk,
+
+[^F11]d [^F11]the manufacture of milk products, and
+
+[^F11]e [^F11]the provision of services for reward, otherwise than under the arrangements for the sale of milk to the board.
+
+[^F11]4 [^F11]In that subsection, the reference to a milk marketing scheme is to a scheme having effect under—
+
+[^F11]a [^F11]the [^M17][^F11]Agricultural Marketing Act 1958, or
+
+[^F11]b [^F11]the [^M18][^F11]Agricultural Marketing (Northern Ireland) Order 1982,
+
+[^F11]for the marketing of milk.
+
+[^F11]5 [^F11]This section shall apply in relation to any distribution the amount of which is declared on or after the passing of this Act, irrespective of when the profits concerned were made.
+
+#### 57 British Wool Marketing Board: power to grant relief.
+
+For the purposes of [[^F12]section 1157 of the Companies Act 2006] (power of court to grant relief in certain cases), the British Wool Marketing Board shall be treated as a company and its members shall be treated as officers of it.
+
+#### [^F13]58 Annual report on matters relevant to price support.
+
+[^F13]1 [^F13]The Ministers shall publish an annual report on such matters relevant to price support for agricultural produce as they consider appropriate and include in the report such account as they consider appropriate of developments in agricultural policy, so far as relevant to such matters.
+
+[^F13]2 [^F13]In subsection (1) above, the reference to agricultural policy includes policy relating to agriculture and the environment.
+
+[^F13]3 [^F13]In this section—
+
+- [^F13]“[^F13]agriculture[^F13]” and “[^F13]agricultural[^F13]” shall be construed in accordance with section 109(3) of the [^M19][^F13]Agriculture Act 1947; and
+- [^F13]“[^F13]the Ministers[^F13]” means the Minister of Agriculture, Fisheries and Food and the Secretaries of State concerned with agriculture in Scotland, Wales and Northern Ireland acting jointly.
+
+#### [^F14]59 Quota areas under the Potato Marketing Scheme.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F15]60 Agricultural development councils: levies.
+
+[^F15]1 [^F15]Section 4 of the [^M20][^F15]Industrial Organisation and Development Act 1947 (levies by development councils) shall, in the case of a development council order relating to agriculture, have effect subject to the following modifications.
+
+[^F15]2 [^F15]In subsection (1)—
+
+[^F15]a [^F15]after the words “made on” there shall be inserted [^F15]“ such persons as may be specified in the order, being ”[^F15], and
+
+[^F15]b [^F15]the words “on persons”, in the second place where they occur, shall be omitted.
+
+[^F15]3 [^F15]After subsection (2) there shall be inserted—
+
+> [^F15]2A [^F15]An order providing for such charges may contain provision—
+>
+> [^F15]a [^F15]authorising such of the persons on whom the charges are imposed as may be specified in the order to recover all or part of the charges imposed on them from such other persons carrying on business in the industry as may be so specified; and
+>
+> [^F15]b [^F15]authorising the deduction from the charges payable by the persons with such a right of recovery, or the repayment to them, of—
+>
+> [^F15]i [^F15]such amounts as may be determined by or under the order in respect of expenses incurred by them in exercising that right, and
+>
+> [^F15]ii [^F15]any sums which are, in accordance with provision made by or under the order, to be treated as irrecoverable.
+
+[^F15]4 [^F15]In subsection (3), after “incidence of the charges” there shall be inserted [^F15]“ , taking into account any provision made under subsection (2A) of this section, ”[^F15].
+
+[^F15]5 [^F15]For the purposes of subsection (1) above, a development council order shall be taken to relate to agriculture if any of the activities that are to be treated as constituting the industry to which the order relates is an agricultural activity.
+
+[^F15]6 [^F15]In this section—
+
+- [^F15]“[^F15]agriculture[^F15]” has the same meaning as in the [^M21][^F15]Agriculture Act 1947, and “[^F15]agricultural[^F15]” shall be construed accordingly; and
+- [^F15]“[^F15]development council order[^F15]” means an order under the [^M22][^F15]Industrial Organisation and Development Act 1947 establishing a development council.
+
+### Supplementary
+
+#### 61 Offences by bodies corporate.
+
+(1) Where a body corporate is guilty of an offence under this Act, and that offence is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of—
+
+(a) any director, manager, secretary or other similar officer of the body corporate, or
+
+(b) any person who was purporting to act in any such capacity,
+
+he, as well as the body corporate, shall be guilty of the offence and be liable to be proceeded against and punished accordingly.
+
+(2) For the purposes of subsection (1) above, “director”, in relation to a body corporate whose affairs are managed by its members, means a member of the body corporate.
+
+(3) Where an offence under this Act is committed in Scotland by a Scottish partnership and is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, a partner, he as well as the partnership shall be guilty of the offence and be liable to be proceeded against and punished accordingly.
+
+#### 62 Orders and regulations.
+
+(1) The power to make an order or regulations under this Act may be exercised differently in relation to different cases or descriptions of case.
+
+(2) An order or regulations under this Act may include such supplementary, incidental, consequential or transitional provisions as appear to the person making it to be necessary or expedient.
+
+(3) The power to make an order or regulations under this Act shall be exercisable by statutory instrument.
+
+(4) A statutory instrument containing an order under section [^F16]17, 23, 48 or 50(2)(c) above shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+[^F17]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6) A statutory instrument containing regulations under this Act shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+#### 63 Northern Ireland.
+
+An Order in Council under paragraph 1(1)(b) of Schedule 1 to the [^M23]Northern Ireland Act 1974 (legislation for Northern Ireland in the interim period) which contains a statement that it is made only for purposes corresponding to the purposes of Part I (except section 12 (so far as relating to Part I of Schedule 2) and section 18) or III of this Act or section 55 above—
+
+(a) shall not be subject to paragraph 1(4) and (5) of that Schedule (affirmative resolution of both Houses of Parliament); but
+
+(b) shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+#### 64 Repeals etc.
+
+(1) The enactments and Scheme specified in Schedule 5 to this Act (which include certain provisions which are already spent) are hereby repealed or revoked to the extent specified in the final column of that Schedule, but subject to any provision at the end of that Schedule.
+
+[^F18]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 65 Short title, commencement and extent.
+
+(1) This Act may be cited as the Agriculture Act 1993.
+
+(2) Part III of this Act shall come into force at the end of the period of two months beginning with the day on which this Act is passed.
+
+(3) Sections 55 and 59 above shall come into force on such day as the Minister of Agriculture, Fisheries and Food, the Secretary of State for Scotland and the Secretary of State for Wales acting jointly may by order appoint.
+
+(4) Except for the provisions mentioned in subsection (5) below, this Act does not extend to Northern Ireland.
+
+(5) Those provisions are—
+
+section 12 (so far as relating to Part I of Schedule 2 to this Act),
+
+section 18,
+
+section 54,
+
+section 56,
+
+section 57,
+
+section 58,
+
+section 63, and
+
+section 64 (except so far as relating to potatoes).
+
+## SCHEDULE 1 — Qualifying scheme of reorganisation
+
+*Section 3.*
+
+### Introductory
+
+**1** A scheme of reorganisation is a qualifying scheme if it meets the following requirements.
+
+### Form
+
+**2** The scheme must be in writing.
+
+### Vesting day
+
+**3** (1) The scheme must specify a day (“the vesting day”) on which any transfers under the scheme to be effected under section 11 above are to take place and on or before which any other steps necessary to give effect to the reorganisation are to be taken.
+
+(2) The vesting day must not be later than the day which, under subsection (2) of section 1 above, is the day on which subsection (1) of that section is to come into force in relation to the marketing scheme administered by the board.
+
+### Disposition of property, rights and liabilities
+
+**4** (1) The scheme must specify, in relation to the property, rights and liabilities of the board on the vesting day—
+
+(a) which are to be transferred, and
+
+(b) which are to be retained by the board.
+
+(2) The scheme must not provide for the transfer of any right of the board against a milk producer, being a right arising out of dairy production.
+
+(3) The scheme must not provide for the transfer of any right or liability of the board arising in connection with payment for milk supplied before the vesting day.
+
+(4) The scheme must not provide for the transfer of any right or liability of the board with respect to the supply of milk on or after the vesting day.
+
+**5** The scheme must specify what property, rights or liabilities of the board are to be transferred, for the purposes of the reorganisation, before the vesting day.
+
+**6** The scheme must specify what property, rights or liabilities of a subsidiary of the board are to be transferred for the purposes of the reorganisation, and whether on or before the vesting day.
+
+**7** (1) The scheme must, in relation to each transfer for the purposes of the reorganisation of property, rights or liabilities of the board, or of a subsidiary of the board, specify (either individually or by reference to membership of a class) to whom the transfer is to be made.
+
+(2) The scheme must not provide for the transfer of property, rights or liabilities of the board, or of a subsidiary of the board, to anyone who is not an eligible transferee.
+
+(3) For the purposes of sub-paragraph (2) above, the following are eligible transferees—
+
+(a) in relation to property, rights and liabilities of the board, any body falling within section 11(4)(a), (b), (c) or (d) above,
+
+(b) in relation to property, rights and liabilities of a subsidiary of the board—
+
+(i) any body falling within section 11(4)(a), (b), (c) or (d) above, and
+
+(ii) the board,
+
+(c) in relation to property and rights of the board, or of a subsidiary of the board, persons who are, or have been, registered producers.
+
+**8** The scheme must specify which transfers of property, rights or liabilities of the board, or of a subsidiary of the board, are to have effect under section 11 above.
+
+**9** The scheme must specify when any transfer for the purposes of the reorganisation of property, rights or liabilities of the board, or of a subsidiary of the board, is to take place if otherwise than on the vesting day.
+
+**10** Where the scheme provides for the board to retain any property or rights after the vesting day, it must make provision for any surplus assets of the board remaining on the winding up of its affairs to be distributed to the persons who, under the scheme, are entitled to participate in the distribution of assets of the board by virtue of their being, or having been, registered producers.
+
+### Transfer of board’s undertaking
+
+**11** The scheme must make provision for the transfer under section 11 above of all the property, rights and liabilities to which the board is entitled or subject on the vesting day, other than—
+
+(a) any property or rights to be transferred to persons by reference to their being, or having been, registered producers,
+
+(b) any liabilities to be retained by the board,
+
+(c) any property or rights to be retained by the board for the purpose of meeting retained liabilities or otherwise in connection with the carrying out by it of functions after the transfer under that section, and
+
+(d) any property or rights whose transfer would involve a breach by the board of the restriction imposed by section 47(2) of the [^M24]Agricultural Marketing Act 1958 (restriction on disclosure of information obtained under the Act).
+
+### Nature of new successor bodies
+
+**12** The scheme must specify in relation to any body which falls within section 11(4)(b) or (c) above and to which property, rights or liabilities fall to be transferred under the scheme—
+
+(a) its name, or proposed name,
+
+(b) the legislation under which it is, or is proposed to be, registered, and
+
+(c) its constitution, or proposed constitution.
+
+### Other disposals
+
+**13** The scheme must include particulars of—
+
+(a) any other disposals (including part disposals) proposed to be made for the purposes of the reorganisation by the board or a subsidiary of the board, and
+
+(b) any issue of shares or securities proposed to be made for the purposes of the reorganisation.
+
+### Rights of existing participants
+
+**14** The scheme must specify what rights, if any, will be conferred under the new arrangements contemplated by the scheme on those who, under the existing arrangements, would be entitled to share in any surplus assets on a winding up of the board.
+
+### Disclosure of information
+
+**15** (1) The scheme must specify what information to which this sub-paragraph applies is to be disclosed by the board for the purposes of the scheme and to whom.
+
+(2) Sub-paragraph (1) above applies to information the disclosure of which is (apart from paragraph 33 of Schedule 2 to this Act) restricted by section 47(2) of the [^M25]Agricultural Marketing Act 1958.
+
+(3) Where information specified under sub-paragraph (1) above identifies a person as a purchaser of milk from the board, the scheme must provide for the information to be disclosed only with his written consent.
+
+### Residual functions
+
+**16** (1) The scheme must specify what functions are intended to be carried out by the board after the vesting day and, in relation to any such functions, include provision with respect to the arrangements for meeting any expenses which may be incurred by the board in carrying them out.
+
+(2) The scheme must not include provision for the carrying out by the board after the vesting day of any functions other than—
+
+(a) functions in relation to retained assets and liabilities or the winding up of its affairs, or
+
+(b) functions ancillary or incidental to the functions mentioned in paragraph (a) above.
+
+(3) The functions mentioned in sub-paragraph (2)(a) and (b) above shall not include the purchase or sale of milk.
+
+## SCHEDULE 2 — Provisions relating to carrying out of approved scheme of reorganisation
+
+*Section 12.*
+
+### Part I — Taxation provisions
+
+#### Transfer to successor bodies: general
+
+**1** (1) The following provisions shall apply for the purposes of the Corporation Tax Acts, namely—
+
+(a) any trade, or part of a trade, carried on by a milk marketing board which is transferred under section 11 above to a qualifying body shall be treated as having been, at the time when it began to be carried on by the board and at all times since that time, carried on by that body;
+
+(b) where any trade, or part of a trade, carried on by a milk marketing board is transferred under section 11 above to a qualifying body, the trade carried on by that body after the transfer under that section shall be treated as the same trade as that which, by virtue of paragraph (a) above, it is treated as having carried on before the transfer under that section;
+
+(c) any property, rights or liabilities of a milk marketing board which are transferred under section 11 above to a qualifying body shall be treated as having been, at the time when they became vested in the board and at all times since that time, property, rights or liabilities of that body;
+
+(d) anything done by a milk marketing board in relation to property, rights or liabilities of its which are transferred under section 11 above to a qualifying body shall be deemed to have been done by that body.
+
+(2) In its application to this paragraph, paragraph 31(1) below (definition of “qualifying body”) shall have effect with the omission of paragraph (b).
+
+(3) This paragraph shall have effect in relation to accounting periods beginning after the last complete accounting period of the milk marketing board ending before the date of the transfer under section 11 above.
+
+**2** (1) The following provisions shall apply for the purposes of the Corporation Tax Acts, namely—
+
+(a) any trade, or part of a trade, carried on by a subsidiary of a milk marketing board which is transferred under section 11 above to a qualifying body shall be treated as having been, at the time when it began to be carried on by the subsidiary and at all times since that time, carried on by that body;
+
+(b) where any trade, or part of a trade, carried on by a subsidiary of a milk marketing board is transferred under section 11 above to a qualifying body, the trade carried on by that body after the transfer under that section shall be treated as the same trade as that which, by virtue of paragraph (a) above, it is treated as having carried on before the transfer under that section;
+
+(c) any property, rights or liabilities of a subsidiary of a milk marketing board which are transferred under section 11 above to a qualifying body shall be treated as having been, at the time when they became vested in the subsidiary and at all times since that time, property, rights or liabilities of that body;
+
+(d) anything done by a subsidiary of a milk marketing board in relation to property, rights or liabilities of its which are transferred under section 11 above to a qualifying body shall be deemed to have been done by that body.
+
+(2) In its application to this paragraph, paragraph 31(1) below (definition of “qualifying body”) shall have effect with the omission of paragraph (b).
+
+(3) This paragraph shall have effect in relation to accounting periods beginning after the last complete accounting period of the subsidiary ending before the date of the transfer under section 11 above.
+
+**3** (1) This paragraph applies where—
+
+(a) in accordance with an approved scheme, shares in a subsidiary of the board to which the scheme relates are transferred otherwise than under section 11 above to a qualifying body (“the successor”), and
+
+(b) the scheme provides—
+
+(i) for free shares in the successor to be issued or transferred to persons by virtue of their being, or having been, registered producers, and
+
+(ii) for the taking of steps with a view to securing the quotation of the successor on the Stock Exchange.
+
+(2) For the purposes of the Corporation Tax Acts—
+
+(a) the shares transferred to the successor shall be treated as having been, at the time when they became vested in the transferor and at all times since that time, vested in the successor; and
+
+(b) anything done by the transferor in relation to the shares transferred to the successor shall be deemed to have been done by the successor.
+
+(3) For the purposes of sub-paragraph (1)(b)(i) above, shares are free if they are issued or transferred without any consideration being provided by the persons acquiring them, there being disregarded for this purpose any depreciatory effect of transfers under the scheme on the value of a right to participate in the winding up of the board to which the scheme relates.
+
+(4) This paragraph shall have effect in relation to accounting periods beginning after the last complete accounting period of the transferor ending before the date of the transfer to the successor.
+
+**4** (1) Where—
+
+(a) in accordance with an approved scheme, shares in a subsidiary of the relevant board (“the transferred company”) are transferred otherwise than under section 11 above to a qualifying body (“the successor”),
+
+(b) immediately after the transfer, the successor is a member of a group of which the relevant board is a member, and
+
+(c) the scheme provides as mentioned in paragraph 3(1)(b) above,
+
+sections 178 and 179 of the [^M26]Taxation of Chargeable Gains Act 1992 shall not apply on the transferred company ceasing to be a member of a group of which the relevant board is a member if, immediately after doing so, it is a member of a group of which the successor is a member.
+
+(2) Where by virtue of sub-paragraph (1) above sections 178 and 179 of the Taxation of Chargeable Gains Act 1992 do not apply, then, on the transferred company ceasing to be a member of a group of which the successor is a member, those sections shall apply—
+
+(a) as if any assets acquired by the transferred company, at any time when it was a member of a group of which the relevant board was a member, from any member of that group had been acquired by it at that time from the successor, and
+
+(b) as if the transferred company and the successor had at all material times been associated companies for the purposes of those sections.
+
+(3) In this paragraph—
+
+- “group” has the meaning given by section 170 of the Taxation of Chargeable Gains Act 1992; and
+- “relevant board” means the board to which the scheme relates.
+
+#### Chargeable gains
+
+**5** (1) This paragraph applies where—
+
+(a) by virtue of a qualifying transfer a company would, but for paragraph 1, 2 or 3 above, cease to be a member of a group of which a milk marketing board is a member; and
+
+(b) assets have been acquired by that company from that board or from any other member of that group, other than one which, but for paragraph 1, 2 or 3 above, would have ceased to be a member of that group at the same time and which, both immediately before and immediately after the transfer, is a member of the same group as that company.
+
+(2) On the company ceasing to be a member of a group of which the body to which the qualifying transfer is made is a member, sections 178 and 179 of the [^M27]Taxation of Chargeable Gains Act 1992 shall apply as if any assets acquired at any time as mentioned in sub-paragraph (1) above had been acquired by the company from that body at that time.
+
+(3) In this paragraph—
+
+- “group” has the meaning given by section 170 of the Taxation of Chargeable Gains Act 1992; and
+- “qualifying transfer” means a transfer under an approved scheme to a qualifying body of shares in a subsidiary of the board to which the scheme relates, being a transfer which takes place under section 11 above or in circumstances in which paragraph 3 above applies.
+
+#### Roll-over relief
+
+**6** (1) This paragraph applies where a milk marketing board has, before the vesting day under an approved scheme, disposed of (or of its interest in) any assets used, throughout the period of ownership, wholly or partly for the purposes of a trade or part of a trade transferred under section 11 above to a qualifying body.
+
+(2) Sections 152 to 156 of the Taxation of Chargeable Gains Act 1992 (roll-over relief on replacement of business assets) shall have effect in relation to that disposal as if the board and the qualifying body were the same person.
+
+#### Unallowed capital losses
+
+**7** (1) This paragraph applies where under an approved scheme there are one or more relevant successors in relation to the relevant board.
+
+(2) Where there is one relevant successor in relation to the relevant board, any unallowed capital losses of the relevant board shall—
+
+(a) be apportioned between the relevant board and the relevant successor in accordance with the scheme, and
+
+(b) so far as apportioned to the relevant successor, be treated as allowable capital losses accruing to it on the disposal of an asset on the vesting day under the scheme.
+
+(3) Where there is more than one relevant successor in relation to the relevant board, any unallowed capital losses of the relevant board shall—
+
+(a) be apportioned amongst the relevant board and the relevant successors in accordance with the scheme, and
+
+(b) in the case of each relevant successor to which such losses are so apportioned, be treated as allowable capital losses accruing to it on the disposal of an asset on the vesting day under the scheme.
+
+(4) In this paragraph, references to relevant successor, in relation to the relevant board, include a body to which shares held by that board in a subsidiary of its are transferred in circumstances in which paragraph 3 above applies.
+
+(5) In this paragraph—
+
+- “allowable capital losses” means losses which are allowable losses for the purposes of corporation tax on chargeable gains;
+- “relevant board” means the board to which the scheme relates; and
+- “unallowed capital losses” means any allowable capital losses which have accrued to the relevant board before the vesting day under the scheme, in so far as they have not been allowed as deductions from chargeable gains.
+
+**8** (1) This paragraph applies where an approved scheme provides for the transfer of all the property, rights and liabilities to which a subsidiary of the relevant board is entitled or subject on the vesting day under the scheme.
+
+(2) Where there is one relevant successor in relation to the subsidiary, any unallowed capital losses of the subsidiary shall be treated as allowable capital losses accruing to the relevant successor on the disposal of an asset on the vesting day under the scheme.
+
+(3) Where there is more than one relevant successor in relation to the subsidiary, any unallowed capital losses of the subsidiary shall—
+
+(a) be apportioned between the relevant successors in accordance with the scheme, and
+
+(b) in the case of each relevant successor to which such losses are so apportioned, be treated as allowable capital losses accruing to it on the disposal of an asset on the vesting day under the scheme.
+
+(4) In this paragraph—
+
+- “allowable capital losses” means losses which are allowable losses for the purposes of corporation tax on chargeable gains;
+- “relevant board” means the milk marketing board to which the scheme relates; and
+- “unallowed capital losses” means any allowable capital losses which have accrued to the subsidiary before the vesting day under the scheme, in so far as they have not been allowed as deductions from chargeable gains.
+
+**9** (1) This paragraph applies where an approved scheme provides for the transfer of some, but not all, of the property, rights and liabilities to which a subsidiary of the relevant board is entitled or subject on the vesting day under the scheme.
+
+(2) Where there is one relevant successor in relation to the subsidiary, any unallowed capital losses of the subsidiary shall—
+
+(a) be apportioned between the subsidiary and the relevant successor in accordance with the scheme, and
+
+(b) so far as apportioned to the relevant successor, be treated as allowable capital losses accruing to it on the disposal of an asset on the vesting day under the scheme.
+
+(3) Where there is more than one relevant successor in relation to the subsidiary, any unallowed capital losses of the subsidiary shall—
+
+(a) be apportioned amongst the subsidiary and the relevant successors in accordance with the scheme, and
+
+(b) in the case of each relevant successor to which such losses are so apportioned, be treated as allowable capital losses accruing to it on the disposal of an asset on the vesting day under the scheme.
+
+(4) Sub-paragraph (4) of paragraph 8 above shall apply for the purposes of this paragraph as it applies for the purposes of that.
+
+**10** Where by virtue of paragraph 8 or 9 above losses of one body are treated as accruing to another body, they shall not be allowed as deductions from chargeable gains accruing to that other body on a disposal of shares in, or securities of, the first-mentioned body.
+
+#### Apportionment of losses and capital allowances
+
+**11** (1) This paragraph applies where a trade carried on by a milk marketing board is transferred under section 11 above to more than one qualifying body (“the successor bodies”).
+
+(2) There shall be apportioned between the successor bodies—
+
+(a) the unallowed tax losses of the board, and
+
+(b) any expenditure incurred by the board before the date of the transfer and by reference to which capital allowances may be made.
+
+(3) The apportionment under sub-paragraph (2) above shall be made in such manner as is just and reasonable having regard—
+
+(a) to the extent to which the losses and expenditure mentioned in that sub-paragraph are attributable to the different parts of the trade transferred, and
+
+(b) as respects the apportionment of such expenditure, to the division of the board’s assets between the successor bodies.
+
+(4) In this paragraph, “unallowed tax losses” means—
+
+(a) any losses which, as at the end of the last complete accounting period of the board ending before the date of the transfer under section 11 above, are losses which under section 393(1) of the [^M28]Income and Corporation Taxes Act 1988 are or, if a claim had been made under that subsection, would be available for relief against the board’s trading income for the next accounting period, and
+
+(b) any allowances which, as at the end of the last complete accounting period of the board ending before that date, are allowances which, under section 145(2) of the [^M29]Capital Allowances Act 1990, are available for carry forward to the next accounting period.
+
+**12** (1) This paragraph applies where a trade carried on by a subsidiary of a milk marketing board is transferred under section 11 above to more than one qualifying body (“the successor bodies”).
+
+(2) There shall be apportioned between the successor bodies—
+
+(a) the unallowed tax losses of the subsidiary, and
+
+(b) any expenditure incurred by the subsidiary before the date of the transfer and by reference to which capital allowances may be made.
+
+(3) The apportionment under sub-paragraph (2) above shall be made in such manner as is just and reasonable having regard—
+
+(a) to the extent to which the losses and expenditure mentioned in that sub-paragraph are attributable to the different parts of the trade transferred, and
+
+(b) as respects the apportionment of such expenditure, to the division of the subsidiary’s assets between the successor bodies.
+
+(4) In this paragraph, “unallowed tax losses” means—
+
+(a) any losses which, as at the end of the last complete accounting period of the subsidiary ending before the date of the transfer under section 11 above, are losses which under section 393(1) of the Income and Corporation Taxes Act 1988 are or, if a claim had been made under that subsection, would be available for relief against the subsidiary’s trading income for the next accounting period, and
+
+(b) any allowances which, as at the end of the last accounting period of the subsidiary ending before that date, are allowances which, under section 145(2) of the Capital Allowances Act 1990, are available for carry forward to the next accounting period.
+
+**13** (1) This paragraph applies where part of a trade carried on by a subsidiary of a milk marketing board is transferred under section 11 above to one qualifying body (“the successor body”) and the remainder is retained by the subsidiary.
+
+(2) There shall be apportioned between the subsidiary and the successor body—
+
+(a) the unallowed tax losses of the subsidiary, and
+
+(b) any expenditure incurred by the subsidiary before the date of the transfer and by reference to which capital allowances may be made.
+
+(3) The apportionment under sub-paragraph (2) above shall be made in such manner as is just and reasonable having regard—
+
+(a) to the extent to which the losses and expenditure mentioned in that sub-paragraph are attributable to the different parts of the trade, and
+
+(b) as respects the apportionment of such expenditure, to the division of the subsidiary’s assets between itself and the successor body.
+
+(4) In this paragraph, “unallowed tax losses” has the same meaning as in paragraph 12 above.
+
+**14** (1) This paragraph applies where part of a trade carried on by a subsidiary of a milk marketing board is transferred under section 11 above to more than one qualifying body (“the successor bodies”) and the remainder is retained by the subsidiary.
+
+(2) There shall be apportioned amongst the subsidiary and the successor bodies—
+
+(a) the unallowed tax losses of the subsidiary, and
+
+(b) any expenditure incurred by the subsidiary before the date of the transfer and by reference to which capital allowances may be made.
+
+(3) The apportionment under sub-paragraph (2) above shall be made in such manner as is just and reasonable having regard—
+
+(a) to the extent to which the losses and expenditure mentioned in that sub-paragraph are attributable to the different parts of the trade, and
+
+(b) as respects the apportionment of such expenditure, to the division of the subsidiary’s assets amongst itself and the successor bodies.
+
+(4) In this paragraph, “unallowed tax losses” has the same meaning as in paragraph 12 above.
+
+**15** (1) Any question which arises as to the manner in which the apportionment under any of paragraphs 11 to 14 above is to be made shall be determined, for the purposes of the tax of the parties concerned—
+
+(a) in a case where one body of General Commissioners have jurisdiction with respect to all the parties concerned, by those Commissioners, unless the parties concerned agree that it shall be determined by the Special Commissioners;
+
+(b) in a case where more than one body of General Commissioners have jurisdiction with respect to the parties concerned, by such of those bodies of General Commissioners as the Commissioners of Inland Revenue may direct, unless the parties concerned agree that it shall be determined by the Special Commissioners; and
+
+(c) in any other case, by the Special Commissioners.
+
+(2) The Commissioners by whom the question falls to be determined shall make the determination in like manner as if it were an appeal except that the parties concerned shall be entitled to appear and be heard by the Commissioners or to make representations to them in writing.
+
+(3) In this paragraph, references to the parties concerned are to the persons between or amongst whom the apportionment in question falls to be made.
+
+#### Distributions
+
+**16** (1) This paragraph applies to the following events—
+
+(a) the issue or transfer under an approved scheme on or before the vesting day under the scheme of any shares in, or securities of, a relevant body;
+
+(b) the issue or transfer under an approved scheme to trustees of any shares in, or securities of, a company on terms which provide for the transfer of those shares or securities to persons by virtue of their being, or having been, registered producers;
+
+(c) the conferring of any right under an approved scheme on or before the vesting day under the scheme, being a right to a distribution out of the assets of a relevant body;
+
+(d) the conferring under an approved scheme on or before the vesting day under the scheme of any such right as is mentioned in paragraph (a), (b) or (c) of paragraph 26(1) below;
+
+(e) the transfer under an approved scheme on or before the vesting day under the scheme of any property or rights of a milk marketing board, or of a subsidiary of such a board, to a qualifying body; and
+
+(f) the transfer under an approved scheme on or before the vesting day under the scheme of any relevant asset of a milk marketing board, or of a subsidiary of such a board, to any person by virtue of his being, or having been, a registered producer.
+
+(2) None of the events to which this paragraph applies, and no combination of the events mentioned in paragraphs (a) (so far as relating to the issue or transfer of shares) and (e) of sub-paragraph (1) above, shall be regarded as—
+
+(a) a distribution for the purposes of the Corporation Tax Acts, or
+
+(b) a capital distribution for the purposes of section 122 of the [^M30]Taxation of Chargeable Gains Act 1992.
+
+(3) In this paragraph—
+
+(a) “relevant asset” means an item of plant or machinery used for the production or storage of milk, dairy produce or any produce of which milk is an ingredient;
+
+(b) “relevant body” means—
+
+(i) a relevant successor of a milk marketing board,
+
+(ii) a subsidiary of such a board, or
+
+(iii) a relevant successor of such a subsidiary; and
+
+(c) references to relevant successor—
+
+(i) in relation to a milk marketing board, include a body to which shares held by the board in a subsidiary of its are transferred in circumstances in which paragraph 3 above applies, and
+
+(ii) in relation to a subsidiary of such a board, include a body to which shares held by the subsidiary in a subsidiary of its are transferred in circumstances in which that paragraph applies.
+
+#### Disapplication of section 22 of the Taxation of Chargeable Gains Act 1992
+
+**17** Section 22 of the Taxation of Chargeable Gains Act 1992 (disposal where capital sums derived from assets) shall not apply in relation to any of the events to which paragraph 16 above applies.
+
+#### Depreciatory transactions
+
+**18** (1) This paragraph applies where—
+
+(a) by virtue of the occurrence of any of the events to which paragraph 16 above applies (“the relevant event”), one company (“the first company”) would, apart from the provisions of this Part of this Schedule, be treated for the purposes of the taxation of chargeable gains as disposing of, or of an interest in, any shares in, or securities of, another company (“the second company”), and
+
+(b) as a result of the occurrence of that event the value of those shares or securities (“the shares or securities concerned”) is materially reduced.
+
+(2) Section 176 of the [^M31]Taxation of Chargeable Gains Act 1992 shall apply to any disposal to which sub-paragraph (3), (4) or (5) below applies—
+
+(a) as if the relevant event were a depreciatory transaction, and
+
+(b) if the first company and the second company and, if different, the company which makes the disposal are not, throughout the period beginning with the occurrence of the relevant event and ending with the disposal, members of a group of companies (within the meaning of that section), as if they were.
+
+(3) This sub-paragraph applies to any disposal by the first company which—
+
+(a) is a disposal of the asset of which the shares or securities concerned are deemed for the purposes of the Taxation of Chargeable Gains Act 1992 to consist at the time of the event, and
+
+(b) is not a disposal which by virtue of any enactment is treated as one on which neither a gain nor a loss accrues to the person making the disposal.
+
+(4) This sub-paragraph applies to any disposal, by a company to which shares or securities comprised in the asset mentioned in sub-paragraph (3) above are transferred under section 11 above, or in circumstances in which paragraph 3 above applies, which—
+
+(a) is a disposal of the asset which those shares or securities are deemed for the purposes of the Taxation of Chargeable Gains Act 1992 to consist of, or to be included in, immediately after the transfer, and
+
+(b) is not a disposal which by virtue of any enactment is treated as one on which neither a gain nor a loss accrues to the person making the disposal.
+
+(5) This sub-paragraph applies to any disposal, by a company which acquires shares or securities on an excepted disposal, which—
+
+(a) is a disposal of the asset which those shares or securities are deemed for the purposes of the Taxation of Chargeable Gains Act 1992 to consist of, or to be included in, immediately after the acquisition, and
+
+(b) is not a disposal which by virtue of any enactment is treated as one on which neither a gain nor a loss accrues to the person making the disposal.
+
+(6) In sub-paragraph (5) above, the reference to an excepted disposal is to a disposal to which sub-paragraph (3), (4) or (5) above would have applied but for paragraph (b) of that sub-paragraph.
+
+(7) In this paragraph, “company” has the same meaning as in the Taxation of Chargeable Gains Act 1992.
+
+#### Acquisition of assets by registered producers
+
+**19** (1) This paragraph applies where an asset in the form of an item of production equipment is acquired under an approved scheme by any person by virtue of his being, or having been, a registered producer.
+
+(2) The acquisition of the asset shall not be taken into account as a receipt in computing, under Case I or VI of the Schedule set out in section 18 of the [^M32]Income and Corporation Taxes Act 1988 (Schedule D), the profits of the person acquiring it.
+
+(3) The person acquiring the asset shall, for the purposes of tax on chargeable gains, be treated as acquiring the asset for no consideration, and without making a disposal.
+
+(4) No allowance in respect of the asset shall be made under [[^F19]the Capital Allowances Act 2001] to the person acquiring it.
+
+(5) The person disposing of the asset shall—
+
+(a) for the purposes of tax on chargeable gains, be treated as if the consideration for the disposal were of such amount as would secure that on the disposal neither a gain nor a loss accrues to him, and
+
+(b) for the purposes of [[^F20]the Capital Allowances Act 2001], be treated as neither entitled to any balancing allowance nor subject to any balancing charge by virtue of the disposal.
+
+(6) In sub-paragraph (1) above, the reference to production equipment is to plant or machinery used for the production or storage of milk, dairy produce or any produce of which milk is an ingredient.
+
+**20** (1) This paragraph applies where an asset of any of the following descriptions—
+
+(a) a share in, or security of, a body which is a relevant successor of the relevant board,
+
+(b) a right to participate in the winding up of such a body,
+
+(c) a share in, or security of, a subsidiary of the relevant board, and
+
+(d) a share in, or security of, a body which is a relevant successor of such a subsidiary,
+
+is acquired under an approved scheme by any person by virtue of his being, or having been, a registered producer, and is so acquired without any consideration being provided by the person acquiring it.
+
+(2) The acquisition of the asset shall not be taken into account as a receipt in computing, under Case I or VI of the Schedule set out in section 18 of the Income and Corporation Taxes Act 1988 (Schedule D), the profits of the person acquiring it.
+
+(3) The person acquiring the asset shall, for the purposes of tax on chargeable gains, be treated as acquiring the asset for no consideration, and without making a disposal.
+
+(4) Where the asset is acquired on a disposal, the person disposing of it shall, for the purposes of tax on chargeable gains, be treated as if the consideration for the disposal were of such amount as would secure that on the disposal neither a gain nor a loss accrues to him.
+
+(5) For the purposes of this paragraph, a person shall not be regarded as providing consideration by virtue only of the fact that transfers under the scheme reduce the value of his right to participate in a winding up of the relevant board.
+
+(6) In this paragraph—
+
+(a) references to the relevant board are to the board to which the scheme relates, and
+
+(b) references to relevant successor—
+
+(i) in relation to the relevant board, include a body to which shares held by that board in a subsidiary of its are transferred in circumstances in which paragraph 3 above applies, and
+
+(ii) in relation to a subsidiary of that board, include a body to which shares held by the subsidiary in a subsidiary of its are transferred in circumstances in which that paragraph applies.
+
+#### Trusts for registered producers
+
+**21** (1) This paragraph applies where—
+
+(a) under an approved scheme, shares in, or securities of, a company are issued or transferred to trustees on terms which provide for the transfer of those shares or securities to persons by virtue of their being, or having been, registered producers, and
+
+(b) the circumstances are such that in the hands of the trustees the shares or securities constitute settled property within the meaning of the [^M33]Taxation of Chargeable Gains Act 1992.
+
+(2) For the purposes of tax on chargeable gains—
+
+(a) where the trustees acquire the shares or securities on a disposal, the person making the disposal shall be treated as if the consideration for the disposal were of such amount as would secure that on the disposal neither a gain nor a loss accrues to him,
+
+(b) the shares or securities shall be treated as acquired by the trustees for no consideration,
+
+(c) the interest of any beneficiary in the settled property constituted by the shares or securities shall be treated as acquired by him for no consideration and as having no value at the time of its acquisition,
+
+(d) where a beneficiary becomes absolutely entitled as against the trustees to any of the settled property, both the trustees and the beneficiary shall be treated as if, on his becoming so entitled, the shares or securities in question had been disposed of and immediately reacquired by the trustees, in their capacity as trustees within section 60(1) of the Taxation of Chargeable Gains Act 1992, for a consideration of such amount as would secure that on the disposal neither a gain nor a loss would accrue to the trustees (and accordingly section 71 of that Act shall not apply in relation to that occasion), and
+
+(e) on the disposal by a beneficiary of an interest in the settled property, other than the disposal treated as occurring for the purposes of paragraph (d) above, any gain accruing shall be a chargeable gain (and accordingly section 76(1) of the Taxation of Chargeable Gains Act 1992 shall not apply in relation to the disposal).
+
+**22** (1) This paragraph applies where, under an approved scheme, shares in, or securities of, a company are issued or transferred to trustees on terms which provide for the transfer of those shares or securities to persons by virtue of their being, or having been, registered producers.
+
+(2) The trust shall not be treated as a unit trust scheme for the purposes of [[^F21]the Tax Acts ] or section 99 of the Taxation of Chargeable Gains Act 1992 if it would not fall to be so treated were there disregarded—
+
+(a) any depreciatory effect of transfers under the approved scheme on a right to participate in a winding up of the board to which that scheme relates, and
+
+(b) any management of the trust property as a whole by or on behalf of the trustees.
+
+#### Reserve funds
+
+**23** (1) This paragraph applies where under an approved scheme the board to which the scheme relates is required to make such a payment as is referred to in section 509(1) of the [^M34]Income and Corporation Taxes Act 1988 (payment of trading receipts into reserve fund).
+
+(2) The board shall, notwithstanding the revocation of the marketing scheme formerly administered by it, be treated as a body to which section 509(1) of that Act applies.
+
+(3) The reference in section 509(1) of that Act to producers shall be construed as a reference to the persons who, under the approved scheme, are entitled to share in any surplus assets of the board remaining on the winding up of its affairs.
+
+#### Securities of successor bodies
+
+**24** (1) This paragraph applies where under an approved scheme any shares are allotted, or issued without prior allotment—
+
+(a) to any person by virtue of his being, or having been, a registered producer and without any consideration being provided by him,
+
+(b) to trustees on terms which provide for the transfer of the shares to persons by virtue of their being, or having been, registered producers, or
+
+(c) to the relevant board,
+
+by a body to which sub-paragraph (2) below applies.
+
+(2) This sub-paragraph applies to a body which—
+
+(a) is a relevant successor of the relevant board, or of a subsidiary of that board, and
+
+(b) is not a body in relation to which the scheme makes provision for the transfer to it of anything other than shares in a subsidiary of the relevant board.
+
+(3) The shares shall be treated for the purposes of the enactments relating to the taxation of company distributions as if they had been issued wholly in consideration of a subscription paid to the relevant successor of an amount equal to the market value of the shares at the time of allotment or, if issued without prior allotment, at the time of issue.
+
+(4) In sub-paragraph (3) above, the reference to the market value of the shares is to the price which they might reasonably be expected to fetch on a sale in the open market.
+
+(5) Section 272(2) to (4) of the [^M35]Taxation of Chargeable Gains Act 1992 (general principles for determining market value of shares) shall apply for the purposes of this paragraph.
+
+(6) Where, as at the time at which the market value of any shares falls to be determined for the purposes of this paragraph, the shares are not quoted on a recognised stock exchange, subsection (3) of section 273 of that Act (assumption with respect to information available to prospective purchaser) shall apply for the purposes of the determination as it applies for the purposes of a determination falling within subsection (1) of that section.
+
+(7) In sub-paragraph (6) above, “recognised stock exchange” has the meaning given by section 841 of the Income and Corporation Taxes Act 1988.
+
+(8) Sub-paragraphs (5) and (6) of paragraph 20 above shall apply for the purposes of this paragraph as they apply for the purposes of that.
+
+**25** (1) This paragraph applies where under an approved scheme any debenture—
+
+(a) is issued by a body which is a relevant successor of the relevant board, or of a subsidiary of that board, and
+
+(b) is either—
+
+(i) issued to any person by virtue of his being, or having been, a registered producer and without any consideration being provided by him, or
+
+(ii) included in an issue of debentures to trustees on terms which provide for the debentures to be transferred to persons by virtue of their being, or having been, registered producers.
+
+(2) The debenture shall be treated for the purposes of the enactments relating to the taxation of company distributions, or to the taxation of the income of companies, as if it had been issued—
+
+(a) wholly in consideration of a loan made to the relevant successor of an amount equal to the principal sum payable under the debenture, and
+
+(b) wholly and exclusively for the purposes of the trade carried on by the relevant successor.
+
+(3) For the purposes of section 117(1) of the [^M36]Taxation of Chargeable Gains Act 1992 (meaning of “qualifying corporate bond”), the indebtedness acknowledged by the debenture shall be treated as representing a normal commercial loan at any time after the debenture has been acquired by a person as a result of a disposal which is not excluded for the purposes of section 117(7) of that Act.
+
+(4) Except as provided by sub-paragraph (3) above, the indebtedness acknowledged by the debenture shall not be treated for those purposes as representing a normal commercial loan.
+
+(5) Sub-paragraphs (5) and (6) of paragraph 20 above shall apply for the purposes of this paragraph as they apply for the purposes of that.
+
+**26** (1) This paragraph applies where under an approved scheme there is conferred on any person by virtue of his being, or having been, a registered producer—
+
+(a) any right to acquire shares in a body which is a relevant successor of the relevant board, or of a subsidiary of that board, in priority to other persons,
+
+(b) any right to acquire shares in that body for consideration of an amount or value lower than the market value of the shares, or
+
+(c) any right to free shares in that body.
+
+(2) The right shall be regarded for the purposes of tax on chargeable gains as an option (within the meaning of section 144 of the Taxation of Chargeable Gains Act 1992) granted to, and acquired by, him for no consideration and having no value at the time of that grant and acquisition.
+
+(3) For the purposes of sub-paragraph (1)(c) above, shares are free if they are issued or transferred without any consideration being provided by the person acquiring them, there being disregarded for this purpose any depreciatory effect of transfers under the scheme on the value of a right to participate in a winding up of the relevant board.
+
+(4) Sub-paragraph (6) of paragraph 20 above shall apply for the purposes of this paragraph as it applies for the purposes of that.
+
+#### Levies under section 17
+
+**27** Any sum required to be paid under section 17 above by a person carrying on a trade as a milk producer shall be allowed as a deduction in computing the profits of the trade for the purposes of tax.
+
+#### Stamp duty
+
+**28** (1) No transfer effected under section 11 above shall give rise to any liability to stamp duty.
+
+(2) Stamp duty shall not be chargeable—
+
+(a) on an approved scheme, or
+
+(b) on an instrument which is certified to the Commissioners of Inland Revenue by the relevant authority—
+
+(i) to be an instrument made in pursuance of such a scheme, and
+
+(ii) to be an instrument in respect of which no disqualifying consideration has been given.
+
+(3) For the purposes of sub-paragraph (2)(b)(ii) above, consideration given in respect of an instrument made in pursuance of an approved scheme shall be treated as disqualifying consideration unless—
+
+(a) it is given by the milk marketing board to which the scheme relates (“the relevant board”),
+
+(b) it is given by a person to whom property, rights or liabilities of the relevant board, or of a subsidiary of that board, are transferred under the scheme, other than a person who is, or has been, a registered producer, or
+
+(c) it is given by a person who is, or has been, a registered producer and takes the form of a surrender in whole or part of a right to participate in the winding up of the relevant board.
+
+(4) For the purposes of sub-paragraph (3)(b) above, a person to whom property is leased shall be treated as a person to whom property is transferred if the scheme could, without breaching the requirement in paragraph 7(2) of Schedule 1 to this Act, have provided for the property concerned to be transferred to him.
+
+(5) No instrument which is certified as mentioned in paragraph (b) of sub-paragraph (2) above shall be taken to be duly stamped unless—
+
+(a) it is stamped with the duty to which it would, but for that sub-paragraph, be liable, or
+
+(b) it has, in accordance with section 12 of the [^M37]Stamp Act 1891, been stamped with a particular stamp denoting that it is not chargeable with any duty or that it is duly stamped.
+
+(6) In sub-paragraph (2)(b) above, “relevant authority” means—
+
+(a) in the case of a certificate with respect to a scheme relating to the England and Wales Milk Marketing Board, the Minister of Agriculture, Fisheries and Food and the Secretary of State acting jointly,
+
+(b) in the case of a certificate with respect to a scheme relating to the board established under the Milk Marketing Scheme (Northern Ireland) 1989, the Department of Agriculture for Northern Ireland, and
+
+(c) in the case of a certificate with respect to any other scheme, the Secretary of State.
+
+#### Stamp duty reserve tax
+
+**29** No agreement made in pursuance of an approved scheme shall give rise to a charge to stamp duty reserve tax.
+
+#### Interpretation
+
+**30** (1) In this Part of this Schedule, references to relevant successor, in relation to a milk marketing board, are to a body—
+
+(a) to which property, rights or liabilities of the board are transferred under section 11 above, and
+
+(b) which is a qualifying body in relation to the transfer.
+
+(2) In this Part of this Schedule, references to relevant successor, in relation to a subsidiary of a milk marketing board, are to a body—
+
+(a) to which property, rights or liabilities of the subsidiary are transferred under section 11 above, and
+
+(b) which, by virtue of paragraph 31(1)(a), (c), (d) or (e) below, is a qualifying body in relation to the transfer.
+
+**31** (1) For the purposes of this Part of this Schedule, a body is a qualifying body, in relation to a transfer under an approved scheme, if it is—
+
+(a) a development council established under the [^M38]Industrial Organisation and Development Act 1947,
+
+(b) a company registered under the [^M39]Companies Act 1985 which was, immediately before the day on which this Act is passed, a 100 per cent. subsidiary of the board to which the scheme relates,
+
+(c) a company registered under the Companies Act 1985 in relation to which either or both of the first and second conditions are met and in relation to which the third condition is met,
+
+(d) a society registered under the [^M40]Industrial and Provident Societies Act 1965 in relation to which either or both of the fourth and fifth conditions are met, or
+
+(e) a company registered under the Companies Act 1985 in relation to which the sixth condition is met.
+
+(2) The first condition is that—
+
+(a) the scheme makes provision for the issue or transfer of shares in the company to members of the relevant class without any consideration, or with only a nominal consideration, being provided by the members acquiring them, and
+
+(b) the members of that class who fall within the provision represent at least 90 per cent. of the total number of members of that class.
+
+(3) The second condition is that—
+
+(a) the company is one of a number of companies registered under the Companies Act 1985 in relation to each of which the scheme provides as mentioned in sub-paragraph (2)(a) above, and
+
+(b) the members of the relevant class who fall within the provision relating to the company, when taken together with the members of that class who fall within the provision, or provisions, relating to the other company, or companies, represent at least 90 per cent. of the total number of members of that class.
+
+(4) The third condition is that, immediately after the transfer, at least 90 per cent. of the ordinary share capital of the company consists of shares which—
+
+(a) are owned directly or indirectly by the board to which the scheme relates,
+
+(b) have been issued or transferred under the scheme to members of the relevant class without any consideration, or with only a nominal consideration, being provided by the members acquiring them,
+
+(c) have been issued or transferred under the scheme to persons who are, or have been, registered producers in settlement of claims against the board to which the scheme relates, being claims arising out of the supply or production of milk,
+
+(d) have been issued or transferred under the scheme to trustees on terms which provide for their transfer to members of the relevant class, or
+
+(e) are held by persons to whom they have been issued or transferred under the scheme in connection with securing the quotation of the company on the Stock Exchange.
+
+(5) The fourth condition is that—
+
+(a) the scheme provides for membership of the society to be open to members of the relevant class, and
+
+(b) the members of that class who fall within the provision represent at least 90 per cent. of the total number of members of that class who are engaged in milk production on the day of the transfer.
+
+(6) The fifth condition is that—
+
+(a) the society is one of a number of societies registered under the [^M41]Industrial and Provident Societies Act 1965 in relation to each of which the scheme provides as mentioned in sub-paragraph (5)(a) above, and
+
+(b) the members of the relevant class who fall within the provision relating to the society, when taken together with the members of that class who fall within the provision, or provisions, relating to the other society, or societies, represent at least 90 per cent. of the total number of members of that class who are engaged in milk production on the day of the transfer.
+
+(7) The sixth condition is that the company is a 100 per cent. subsidiary of a company falling within paragraph (c) of sub-paragraph (1) above or of a society falling within paragraph (d) of that sub-paragraph.
+
+(8) For the purposes of this paragraph, a body corporate shall be deemed to be a 100 per cent. subsidiary of another body corporate if and so long as the whole of its ordinary share capital is owned directly or indirectly by that other body corporate.
+
+(9) In determining for the purposes of this paragraph whether under an approved scheme shares are issued or transferred without any consideration, or with only a nominal consideration, being provided by the persons acquiring them, there shall be disregarded any depreciatory effect of transfers under the scheme on the value of a right to participate in the winding up of the board to which the scheme relates.
+
+(10) For the purposes of this paragraph, the relevant class, in relation to an approved scheme, consists of those to whom property or rights are to be distributed under the scheme by virtue of their being, or having been, registered producers.
+
+(11) Subsections (4) to (10) of section 838 of the [^M42]Income and Corporation Taxes Act 1988 (rules for determining amount of share capital owned) shall apply for the purposes of this paragraph as they apply for the purposes of that section.
+
+(12) In this paragraph—
+
+(a) “ordinary share capital” has the same meaning as in the Income and Corporation Taxes Act 1988,
+
+(b) “owned directly or indirectly”, in relation to a body corporate, means owned directly or through another body corporate or other bodies corporate or partly directly and partly through another body corporate or other bodies corporate, and
+
+(c) references to ownership shall be construed as references to beneficial ownership.
+
+#### Northern Ireland
+
+**32** (1) In this Part of this Schedule—
+
+(a) “approved scheme” includes a scheme of reorganisation approved under any provision in Northern Ireland legislation corresponding to section 3 above (with any variation approved under any provision in such legislation corresponding to section 5 above) and in relation to which approval has not been withdrawn under any provision in such legislation corresponding to section 6 above, and
+
+(b) “milk marketing board” includes the board established under the Milk Marketing Scheme (Northern Ireland) 1989.
+
+(2) In the application of this Part of this Schedule by virtue of sub-paragraph (1) above—
+
+(a) any reference to section 11 above shall be construed as a reference to any corresponding provision in Northern Ireland legislation;
+
+(b) any reference to the [^M43]Industrial and Provident Societies Act 1965 shall be construed as a reference to the [^M44]Industrial and Provident Societies Act (Northern Ireland) 1969;
+
+(c) any reference to the [^M45]Companies Act 1985 shall be construed as a reference to the [^M46]Companies (Northern Ireland) Order 1986;
+
+(d) “registered producers”, in relation to the board established under the Milk Marketing Scheme (Northern Ireland) 1989, means persons registered as producers under the marketing scheme administered by the board; and
+
+(e) “subsidiary” has the same meaning as in the Companies (Northern Ireland) Order 1986.
+
+(3) In paragraph 27 above, the reference to section 17 above shall be construed as including a reference to any corresponding provision in Northern Ireland legislation.
+
+### Part II — Other provisions
+
+#### Disclosure of information
+
+**33** Nothing in section 47(2) of the [^M47]Agricultural Marketing Act 1958 (restriction on disclosure of information obtained under the Act) shall restrict the disclosure of information by a milk marketing board in accordance with the provisions of an approved scheme or in connection with the establishment of a development council under the [^M48]Industrial Organisation and Development Act 1947.
+
+#### Application of Trustee Investments Act 1961 to allocated shares
+
+**34** Where, under an approved scheme, shares are issued or transferred to a trustee, the shares issued or transferred to him shall, so far as concerns his powers, not be treated as excluded by virtue of paragraph 3(b) of Part IV of Schedule 1 to the [^M49]Trustee Investments Act 1961 (exclusion of shares of a company which has not paid a dividend for each of the last five years) from paragraph 1 of Part III of that Schedule (wider-range investments).
+
+#### Application of Transfer of Undertakings (Protection of Employment) Regulations 1981
+
+**35** The [^M50]Transfer of Undertakings (Protection of Employment) Regulations 1981 shall apply to any transfer under an approved scheme of the whole or any part of the undertaking of a milk marketing board, or of a subsidiary of such a board, whether or not that undertaking would, apart from this provision, be treated as an undertaking in the nature of a commercial venture for the purposes of those Regulations.
+
+#### Pension schemes
+
+**36** (1) Sub-paragraph (2) below applies to any occupational pension scheme operated by a milk marketing board or a subsidiary of such a board.
+
+(2) Any power under the scheme to change the identity of the principal employer shall not be treated as improperly exercised by virtue only of the fact that it is used to substitute for the existing principal employer a body—
+
+(a) which already participates in the scheme, or
+
+(b) to which property, rights or liabilities of the existing principal employer are transferred under section 11 above.
+
+(3) Sub-paragraph (2) above shall not apply if the substitution is made otherwise than in connection with the carrying out of an approved scheme.
+
+#### Statutory accounts
+
+**37** (1) The following provisions of this paragraph have effect for the purpose of any statutory accounts of a successor body, that is to say, a body to which property, rights or liabilities of a milk marketing board are transferred under section 11 above.
+
+(2) The transfer to the successor body under section 11 above shall be taken to have been effected immediately after the end of the last complete accounting period of the transferor to end before the date of the transfer under that section and—
+
+(a) in a case where all the property, rights and liabilities of the transferor are transferred to the successor body under that section, to have been a transfer of all the property, rights and liabilities to which the transferor was entitled or subject immediately before the end of that period;
+
+(b) in any other case, to have been a transfer of such of the property, rights and liabilities to which the transferor was so entitled or subject as are determined by or under the relevant scheme of reorganisation.
+
+(3) The value of any asset and the amount of any liability which is taken by virtue of sub-paragraph (2) above to have been transferred to the successor body shall be taken to have been—
+
+(a) in a case where all the property, rights and liabilities of the transferor are transferred to the successor body under section 11 above, the value or amount assigned to the asset or liability for the purposes of the statement of accounts prepared by the transferor in respect of the last complete accounting period of the transferor to end before the date of the transfer under that section;
+
+(b) in any other case, the value or amount so assigned or, if the asset or liability is part only of an asset or liability to which a value or amount is so assigned, so much of that value or amount as may be determined by or under the relevant scheme of reorganisation.
+
+(4) The amount to be included in respect of any item shall be determined—
+
+(a) where all the property, rights and liabilities of the transferor are transferred to the successor body under section 11 above, as if anything done by the transferor (whether by way of acquiring, revaluing or disposing of any asset or incurring, revaluing or discharging any liability, or by carrying any amount to any provision or reserve, or otherwise) had been done by the successor body;
+
+(b) in any other case, as if so much of anything done by the transferor (as mentioned in paragraph (a) above) as may be determined by or under the relevant scheme of reorganisation had been done by the successor body.
+
+(5) Without prejudice to the generality of the preceding provisions, the amount to be included from time to time in any reserves of the successor body as representing its accumulated realised profits shall be determined—
+
+(a) where all the property, rights and liabilities of the transferor are transferred to the successor body under section 11 above, as if any profits realised and retained by the transferor had been realised and retained by the successor body;
+
+(b) in any other case, as if such proportion of any such profits as is determined by or under the relevant scheme of reorganisation had been realised and retained by the successor body.
+
+(6) In this paragraph—
+
+- “accounting period”, in relation to the transferor, means the period by reference to which it prepares accounts under the marketing scheme which it administers;
+- “relevant scheme of reorganisation” means the scheme of reorganisation under which the transfer to the successor body takes place; and
+- “statutory accounts”, in relation to a successor body, means any accounts prepared for the purpose of any provision of the legislation under which the body is registered.
+
+#### Restraints on alienation etc.
+
+**38** (1) No right of pre-emption or other like right affecting any property or rights of a milk marketing board, or of a subsidiary of such a board, shall be exercisable by virtue of the making of any application under section 2 or 5 above.
+
+(2) Sub-paragraph (1) above shall not apply where the making of such an application is specifically identified by the right of pre-emption or other like right as a circumstance in which the right is exercisable.
+
+**39** (1) Any provision which imposes a prohibition (whether absolute or qualified) on the transfer of any property or rights of a milk marketing board, or of a subsidiary of such a board, shall be treated as not applying in the case of a transfer under section 11 above.
+
+(2) Sub-paragraph (1) above shall not apply in the case of a provision which is formulated specifically with reference to the possibility of the undertaking of a milk marketing board being transferred otherwise than to a board constituted by a scheme under Part I of [^M51]the Agricultural Marketing Act 1958.
+
+(3) For the purposes of this paragraph, any provision which has the effect of penalising a transfer shall be treated as prohibiting it.
+
+**40** (1) Any provision which imposes a prohibition (whether absolute or qualified) on the transfer of any property or rights of a milk marketing board, or of a subsidiary of such a board, shall, unless the prohibition is imposed for public purposes, be treated as not applying in the case of a transfer under an approved scheme otherwise than under section 11 above.
+
+(2) Sub-paragraph (1) above shall not apply in the case of a provision which is formulated specifically with reference to the possibility of the undertaking of a milk marketing board being transferred otherwise than to a board constituted by a scheme under Part I of the Agricultural [^M52]Marketing Act 1958.
+
+(3) For the purposes of this paragraph, any provision which has the effect of penalising a transfer shall be treated as prohibiting it.
+
+**41** (1) This paragraph applies to any provision which imposes a qualified prohibition on the effecting of any description of transaction, other than a transfer, with respect to any property or rights of a milk marketing board, or of a subsidiary of such a board.
+
+(2) Where the prohibition imposed by a provision to which this paragraph applies is imposed for purposes other than public purposes, it shall, subject to sub-paragraph (3) below, be treated as not applying in the case of a transaction effected under an approved scheme.
+
+(3) Sub-paragraph (2) above shall not apply in the case of a provision which is formulated specifically with reference to the possibility of the undertaking of a milk marketing board being transferred otherwise than to a board constituted by a scheme under Part I of the Agricultural Marketing Act 1958.
+
+(4) For the purposes of this paragraph, any provision which has the effect of penalising the effecting of any description of transaction shall be treated as prohibiting it.
+
+**42** (1) If any person suffers a diminution in the value of any property or interest in consequence of the operation of paragraph 40 or 41 above or, where sub-paragraph (2) below applies, paragraph 39 above, such compensation as may be just shall be paid to that person by one or more of the parties to the transfer or other transaction.
+
+(2) This sub-paragraph applies where the effect of the transfer is to sever the ownership of the property or rights to which the provision concerned relates.
+
+(3) Any dispute as to whether, and, if so, how much, compensation is payable under this paragraph, or as to the person by whom it shall be paid, shall be referred to and determined by an arbitrator appointed—
+
+(a) in the case of a dispute concerning anything which takes place under a scheme relating to the England and Wales Milk Marketing Board, in accordance with regulations made by the Minister of Agriculture, Fisheries and Food and the Secretary of State acting jointly, and
+
+(b) in any other case, in accordance with regulations made by the Secretary of State.
+
+**43** (1) For the purposes of this paragraph, a provision is a qualifying provision if—
+
+(a) it imposes an absolute prohibition on the effecting of any description of transaction, other than a transfer, with respect to any property or rights of a milk marketing board, or of a subsidiary of such a board, and
+
+(b) the prohibition which it imposes is imposed for purposes other than public purposes.
+
+(2) Where an approved scheme—
+
+(a) identifies a qualifying provision as one to which this paragraph applies, and
+
+(b) specifies one of the relevant bodies as the body against which any claim under paragraph 44 below, in relation to the identified provision, is to be made,
+
+that provision shall, subject to any provision of regulations under sub-paragraph (3)(c) below, be treated as not applying in the case of a transaction effected under the scheme.
+
+(3) The appropriate authority may make regulations—
+
+(a) with respect to the giving of notice of a provision of an approved scheme which identifies a qualifying provision as one to which this paragraph applies,
+
+(b) with respect to the giving by the authority of a certificate of compliance in relation to the giving of notice under paragraph (a) above, and
+
+(c) excluding sub-paragraph (2) above where no certificate of compliance under paragraph (b) above has been given at the time that a transaction is effected.
+
+(4) Sub-paragraph (2) above shall not apply in the case of a provision which is formulated specifically with reference to the possibility of the undertaking of a milk marketing board being transferred otherwise than to a board constituted by a scheme under Part I of [^M53]the Agricultural Marketing Act 1958.
+
+(5) In sub-paragraph (2)(b) above, the reference to the relevant bodies is to—
+
+(a) the milk marketing board to which the scheme relates, and
+
+(b) the body or bodies to which property, rights or liabilities of that board are, under the scheme, to be transferred under section 11 above.
+
+(6) In sub-paragraph (3) above, “appropriate authority” means—
+
+(a) in the case of an approved scheme relating to the England and Wales Milk Marketing Board, the Minister of Agriculture, Fisheries and Food and the Secretary of State acting jointly, and
+
+(b) in any other case, the Secretary of State.
+
+(7) For the purposes of this paragraph, any provision which has the effect of penalising the effecting of a description of transaction shall be treated as prohibiting it.
+
+**44** (1) If any person suffers a diminution in the value of any property or interest in consequence of the operation of paragraph 43 above in relation to any provision, such compensation as may be just shall be paid to him by the nominated body.
+
+(2) Any dispute as to whether, and, if so, how much, compensation is payable under this paragraph shall be referred to and determined by an arbitrator appointed—
+
+(a) in the case of a dispute concerning anything which takes place under a scheme relating to the England and Wales Milk Marketing Board, in accordance with regulations made by the Minister of Agriculture, Fisheries and Food and the Secretary of State acting jointly, and
+
+(b) in any other case, in accordance with regulations made by the Secretary of State.
+
+(3) In sub-paragraph (1) above, the reference to the nominated body is to the body specified by the approved scheme concerned as the body against which any claim for compensation under this paragraph, in relation to the provision concerned, is to be made.
+
+#### Restrictions on change of location
+
+**45** (1) For the purposes of this paragraph, a provision is a qualifying provision if—
+
+(a) it is contained in a qualifying agreement,
+
+(b) it imposes an absolute or qualified prohibition on the movement outside a specified area of property to which the agreement relates, and
+
+(c) the prohibition which it imposes is imposed for purposes other than public purposes.
+
+(2) For the purposes of sub-paragraph (1) above, an agreement is a qualifying agreement if—
+
+(a) it is an agreement under which moveable property is leased to a milk marketing board or to a subsidiary of such a board, and
+
+(b) an approved scheme makes provision for the transfer of rights and liabilities of the lessee under the agreement.
+
+(3) Where an approved scheme—
+
+(a) identifies a qualifying provision as one to which this paragraph applies,
+
+(b) specifies a relevant modification in relation to that provision,
+
+(c) specifies a commencement date in relation to the modification, and
+
+(d) specifies one of the relevant bodies as the body against which any claim under paragraph 46 below, in relation to that provision, is to be made,
+
+then, subject to any provision of regulations under sub-paragraph (4)(c) below, that provision shall have effect subject to the specified modification on and after the commencement date specified in relation to it.
+
+(4) The appropriate authority may make regulations—
+
+(a) with respect to the giving of notice of a provision of an approved scheme which does any of the things mentioned in paragraphs (a) to (c) of sub-paragraph (3) above,
+
+(b) with respect to the giving by the authority of a certificate of compliance in relation to the giving of notice under paragraph (a) above, and
+
+(c) excluding sub-paragraph (3) above where no certificate of compliance under paragraph (b) above has been given before such date as may be specified in the regulations.
+
+(5) Where by virtue of sub-paragraph (3) above a qualifying provision is modified in its application to any property, the fact that, at any time in the week beginning with the date on which the modification first has effect, that property is outside the permitted area shall not be treated as constituting a breach of the provision if the property—
+
+(a) is in the area which was the permitted area before the modification had effect, or
+
+(b) is in transit from that area to the permitted area.
+
+(6) In sub-paragraph (3)(b) above, “relevant modification”, in relation to a qualifying provision, means a change, in relation to any of the property to which the provision applies, in the area by reference to which the qualifying provision has effect.
+
+(7) In sub-paragraph (3)(d) above, the reference to the relevant bodies is to—
+
+(a) the milk marketing board to which the scheme relates, and
+
+(b) the body or bodies to which property, rights or liabilities of that board are, under the scheme, to be transferred under section 11 above.
+
+(8) In sub-paragraph (4) above, “appropriate authority” means—
+
+(a) in the case of an approved scheme relating to the England and Wales Milk Marketing Board, the Minister of Agriculture, Fisheries and Food and the Secretary of State acting jointly, and
+
+(b) in any other case, the Secretary of State.
+
+(9) For the purposes of this paragraph, any provision which has the effect of penalising the movement of property outside a specified area shall be treated as prohibiting it.
+
+**46** Paragraph 44 above shall apply in relation to a person who suffers a diminution in the value of any property or interest in consequence of the operation of paragraph 45 above as it applies in relation to a person who suffers a diminution in the value of any property or interest in consequence of the operation of paragraph 43 above.
+
+#### Transfers relevant to flotation
+
+**47** (1) Where an approved scheme provides for rights and liabilities of a lessee under a qualifying agreement to be transferred to a company on a day earlier than the vesting day under the scheme, the provision shall have effect by virtue of this paragraph if, immediately before the day of the transfer, the company is a qualifying transferee.
+
+(2) In sub-paragraph (1) above, “qualifying agreement” means an agreement under which moveable property is leased to the board to which the scheme relates or to a subsidiary of that board.
+
+(3) For the purposes of sub-paragraph (1) above, a company is a qualifying transferee if it is—
+
+(a) a company in relation to which the scheme provides for the taking of steps with a view to securing its quotation on the Stock Exchange,
+
+(b) a subsidiary of a company falling within paragraph (a) above, or
+
+(c) a company which, if the scheme is carried out, will become a subsidiary of a company falling within paragraph (a) above before that company is quoted on the Stock Exchange.
+
+**48** (1) Where—
+
+(a) an approved scheme provides for the taking of steps with a view to securing the quotation of a company on the Stock Exchange, and
+
+(b) the board to which the scheme relates makes under the scheme a qualifying transfer of shares in a subsidiary of its,
+
+then, if the shares transferred were subject in the hands of that board to a resulting or constructive trust, they shall by virtue of the transfer cease to be subject to that trust.
+
+(2) For the purposes of sub-paragraph (1) above, a transfer is a qualifying transfer if—
+
+(a) it takes place in connection with the carrying out of the provision mentioned in paragraph (a) of that sub-paragraph, or
+
+(b) the transferee is a qualifying person and the shares transferred are of the same class as other shares in the subsidiary which fall to be transferred as mentioned in that paragraph.
+
+(3) For the purposes of sub-paragraph (2) above, the transferee is a qualifying person if the shares are transferred to him—
+
+(a) by virtue of his being, or having been, a registered producer, or
+
+(b) as trustee for persons who are entitled to participate in the trust by virtue of their being, or having been, registered producers.
+
+(4) For the purposes of this paragraph, shares of a company shall not be treated as being of the same class unless they are so treated by the practice of the Stock Exchange or would be so treated if dealt with on the Stock Exchange.
+
+#### Certificates of vesting
+
+**49** (1) Where section 11(1) above applies on the vesting day under an approved scheme, the authority which approved the scheme shall give to each person identified by the scheme as a person to whom any property, right or liability of the relevant board is to be transferred under section 11 above (“a relevant transferee”) a certificate (“qualification certificate”) stating—
+
+(a) that he is identified by the scheme as a relevant transferee,
+
+(b) whether the concurrence of any person is required to the issue by him of a certificate of vesting in relation to the relevant board, and
+
+(c) if it is, whose concurrence is so required.
+
+(2) For the purposes of sub-paragraph (1) above, the following are the persons whose concurrence is required to the issue of a certificate of vesting in relation to the relevant board by the person to whom a qualification certificate is given—
+
+(a) where the scheme identifies anyone other than that person as a relevant transferee, that other person, or, if more than one, each of those other persons, and
+
+(b) where the scheme does not provide for all the property, rights and liabilities to which the relevant board is entitled or subject on the vesting day to be transferred under section 11 above, that board.
+
+(3) Where a person to whom a qualification certificate is given issues a certificate of vesting in relation to the relevant board, then, subject to sub-paragraphs (4) to (6) below, it shall be conclusive evidence for all purposes of any fact stated in it with respect to the effect of section 11 above in relation to any property, right or liability of the relevant board.
+
+(4) Where a qualification certificate states that the concurrence of one or more persons is required to the issue of a certificate of vesting in relation to the board, sub-paragraph (3) above shall not apply in relation to such a certificate issued by the person to whom the qualification certificate is given unless it is issued with the concurrence of the person, or each of the persons, identified by the qualification certificate as a person whose concurrence is required.
+
+(5) Sub-paragraph (3) above shall not apply to a certificate of vesting in relation to the relevant board to the extent that the certificate relates to land which is registered land at the time the certificate is issued if a person has, at that time, been registered as the proprietor of the land in reliance on the operation of section 11 above in relation to it.
+
+(6) Sub-paragraph (3) above shall cease to apply to a certificate of vesting in relation to the relevant board—
+
+(a) to the extent that the certificate relates to land which is not registered land at the time the certificate is issued, on the land becoming registered land, and
+
+(b) to the extent that the certificate relates to land which is registered land at the time the certificate is issued, on a person being registered as the proprietor of the land in reliance on the operation of section 11 above in relation to it.
+
+(7) In this paragraph—
+
+(a) “the relevant board” means the milk marketing board to which the approved scheme relates,
+
+(b) references to a certificate of vesting in relation to the relevant board are to a certificate with respect to the effect of section 11 above in relation to any property, right or liability of the relevant board, and
+
+(c) references to registered land are to registered land within the meaning of the [^M54]Land Registration Act 1925.
+
+**50** (1) This paragraph applies where an approved scheme includes provision for any property, right or liability of a subsidiary of the milk marketing board to which the scheme relates to be transferred under section 11 above.
+
+(2) Where subsection (1) of that section applies on the vesting day under the scheme, the authority which approved the scheme shall give to each person identified by the scheme as a person to whom any property, right or liability of the subsidiary is to be transferred under that section (“a relevant transferee”) a certificate (“qualification certificate”) stating—
+
+(a) that he is identified by the scheme as a relevant transferee,
+
+(b) whether the concurrence of any person is required to the issue by him of a certificate of vesting in relation to the subsidiary, and
+
+(c) if it is, whose concurrence is so required.
+
+(3) For the purposes of sub-paragraph (2) above, the following are the persons whose concurrence is required to the issue of a certificate of vesting in relation to the subsidiary by the person to whom a qualification certificate is given—
+
+(a) where the scheme identifies anyone other than that person as a relevant transferee, that other person, or, if more than one, each of those other persons, and
+
+(b) where the scheme does not provide for all the property, rights and liabilities to which the subsidiary is entitled or subject on the vesting day to be transferred under section 11 above, the subsidiary.
+
+(4) Where a person to whom a qualification certificate is given issues a certificate of vesting in relation to the subsidiary, then, subject to sub-paragraphs (5) to (7) below, it shall be conclusive evidence for all purposes of any fact stated in it with respect to the effect of section 11 above in relation to any property, right or liability of the subsidiary.
+
+(5) Where a qualification certificate states that the concurrence of one or more persons is required to the issue of a certificate of vesting in relation to the subsidiary, sub-paragraph (4) above shall not apply in relation to such a certificate issued by the person to whom the qualification certificate is given unless it is issued with the concurrence of the person, or each of the persons, identified by the qualification certificate as a person whose concurrence is required.
+
+(6) Sub-paragraph (4) above shall not apply to a certificate of vesting in relation to the subsidiary to the extent that the certificate relates to land which is registered land at the time the certificate is issued if a person has, at that time, been registered as the proprietor of the land in reliance on the operation of section 11 above in relation to it.
+
+(7) Sub-paragraph (4) above shall cease to apply to a certificate of vesting in relation to the subsidiary—
+
+(a) to the extent that the certificate relates to land which is not registered land at the time the certificate is issued, on the land becoming registered land, and
+
+(b) to the extent that the certificate relates to land which is registered land at the time the certificate is issued, on a person being registered as the proprietor of the land in reliance on the operation of section 11 above in relation to it.
+
+(8) In this paragraph—
+
+(a) references to a certificate of vesting in relation to the subsidiary are to a certificate with respect to the effect of section 11 above in relation to any property, right or liability of the subsidiary, and
+
+(b) references to registered land are to registered land within the meaning of the [^M55]Land Registration Act 1925.
+
+#### Land registration
+
+**51** (1) Where section 11(1) above applies on the vesting day under an approved scheme, the appropriate authority shall—
+
+(a) give a copy of the order under section 1(5) above to each person from or to whom property, rights or liabilities are transferred under section 11 above in accordance with the scheme, and
+
+(b) annex to the copy order a copy of the scheme certified by it to be a true copy.
+
+(2) A copy of the scheme given under sub-paragraph (1) above shall be treated for land registration purposes in England and Wales as conclusive evidence of the terms of the scheme.
+
+**52** (1) This paragraph applies where any registered land in England and Wales is transferred under section 11 above.
+
+(2) The transferee shall be entitled to be registered as proprietor in place of the transferor on an application in that behalf made to the Chief Land Registrar.
+
+(3) On an application under sub-paragraph (2) above, the transferee shall supply to the Chief Land Registrar such information and produce to him such documents as he may require for the purpose of enabling him to deal with the application.
+
+(4) Section 43 of the Land Registration Act 1925 (effect of transmissions) shall apply in relation to any person registered in place of the transferor as it applies in relation to any person registered in place of a deceased or bankrupt proprietor, but with the omission of the words from “upon the trusts” to “applicable by law, and”.
+
+(5) In this paragraph, “registered land” has the same meaning as in the Land Registration Act 1925.
+
+**53** (1) This paragraph applies where any land in England and Wales which is not registered land is transferred by virtue of section 11 above.
+
+(2) Unless the transferee, or his successor in title or assign, has before the end of six months from the date of the transfer applied to be registered as proprietor of the land, section 11 above shall be deemed never to have had effect to transfer the legal estate in the land.
+
+[[^F22](3) The Chief Land Registrar may, if satisfied on the application of any interested person that there is good reason for doing so, make an order extending or further extending the period mentioned in sub-paragraph (2); and if he does so at a time when that sub-paragraph has operated to negative the transfer effected by section 11 above, it shall be taken not to have so operated.]
+
+(4) Any rules made by virtue of [[^F23]section 123A(10)(a)] of the Land Registration Act 1925 shall—
+
+(a) apply to dealings with the land which may take place between the date of the transfer and the date of the application to register as if the land had been the subject of a conveyance or assignment on the date of the transfer, and
+
+(b) apply in relation to an application for registration under this paragraph as they apply in relation to an application for registration under [[^F24]section 123A] of that Act.
+
+(5) On an application for first registration under this paragraph, the applicant shall supply to the Chief Land Registrar such information and produce to him such documents as he may require for the purpose of enabling him to deal with the application.
+
+(6) In this paragraph, “registered land” has the same meaning as in the [^M56]Land Registration Act 1925.
+
+**54** In relation to Scotland, any transfer under an approved scheme shall have effect subject to the provisions of any enactment which provides for transactions of that description to be given effect to by registration in any statutory register.
+
+#### Statutory transfers: transition
+
+**55** (1) Any agreement, transaction or other thing which—
+
+(a) is made, effected or done with respect to anything transferred under section 11 above or paragraph 47 above in accordance with an approved scheme,
+
+(b) is made, effected or done by, to or in relation to the transferor, and
+
+(c) is in force or effective immediately before the day of the transfer under the scheme,
+
+shall, on and after that day, have effect as if made, effected or done by, to or in relation to the transferee in all respects as if the transferee were the same person in law as the transferor.
+
+(2) Sub-paragraph (1) above shall not affect the construction of any provision which is formulated specifically with reference to the possibility of the undertaking of a milk marketing board being transferred otherwise than to a board constituted by a scheme under Part I of the [^M57]Agricultural Marketing Act 1958.
+
+#### Provisions of scheme effective on statutory vesting
+
+**56** (1) Where section 11(1) above applies on the vesting day under an approved scheme, the provisions of the scheme shall, to the extent that they fall within sub-paragraph (2) below, have effect by virtue of this paragraph.
+
+(2) The provisions of an approved scheme fall within this sub-paragraph to the extent that they purport—
+
+(a) to impose on one of the relevant bodies an obligation on or after the vesting day under the scheme to enter into a written agreement with, or execute an instrument in favour of, another of the relevant bodies;
+
+(b) to create for one of the relevant bodies, on the vesting day under the scheme, an interest in or right over property transferred under section 11 above to another of the relevant bodies; or
+
+(c) to adapt, with effect from the vesting day under the scheme, references to members or officers of the relevant board in a document or oral agreement relating to anything transferred under section 11 above to a relevant successor body.
+
+(3) The provisions of an approved scheme only fall within sub-paragraph (2) above by virtue of paragraph (c) of that sub-paragraph to the extent that their purpose is to prevent, so far as reasonably possible, the effect of the provisions in which the references concerned occur being materially altered as a result of the transfer.
+
+(4) For the purposes of sub-paragraph (2) above, the relevant bodies, in relation to an approved scheme, are—
+
+(a) the relevant board, and
+
+(b) the relevant successor bodies.
+
+(5) In this paragraph—
+
+(a) “relevant board”, in relation to an approved scheme, means the milk marketing board to which the scheme relates; and
+
+(b) “relevant successor body”, in relation to such a scheme, means a body to which property, rights or liabilities are transferred under section 11 above in accordance with the scheme.
+
+**57** (1) Where section 11(1) above applies on the vesting day under an approved scheme, the provisions of the scheme shall, to the extent that they fall within sub-paragraph (2) below, have effect by virtue of this paragraph.
+
+(2) The provisions of an approved scheme fall within this sub-paragraph to the extent that they purport—
+
+(a) to impose on—
+
+(i) the relevant board, or
+
+(ii) all or any of the bodies to which property, rights or liabilities of the relevant board are transferred under section 11 above (“the relevant successor bodies”),
+
+duties to take, on or after the vesting day under the scheme, such steps as may be requisite to secure that the vesting under section 11 above of any foreign property, right or liability of the relevant board in any of those bodies is effective under the relevant foreign law;
+
+(b) to impose on the relevant board a duty, in relation to any foreign property, right or liability of its which is transferred under section 11 above, to hold that property or right for the benefit of, or discharge that liability on behalf of, the body to which it is so transferred, until the vesting of that property, right or liability in that body is effective under the relevant foreign law;
+
+(c) to require a body to which any foreign property, right or liability of the relevant board is transferred under section 11 above to act on behalf of that board (so far as possible) for the purposes of, or in connection with, the performance of any duty of the board under the scheme in relation to any foreign property, right or liability of its so transferred to that body; or
+
+(d) to require any of the relevant successor bodies to meet expenses incurred by the relevant board in consequence of provisions of the scheme which fall within this sub-paragraph by virtue of paragraph (a) or (b) above.
+
+(3) Nothing in any provision which has effect by virtue of this paragraph shall be taken as prejudicing the effect, under the law of any part of the United Kingdom, of the vesting under section 11 above of any foreign property, right or liability in any of the relevant successor bodies.
+
+(4) Where provisions of an approved scheme have effect by virtue of this paragraph, the relevant board shall have all such powers as may be requisite for the performance of any duty to which it is subject as a result.
+
+(5) In this paragraph—
+
+(a) “relevant board”, in relation to an approved scheme, means the milk marketing board to which the scheme relates; and
+
+(b) references to any foreign property, right or liability are to any property, right or liability as respects which any issue arising in any proceedings would have to be determined (in accordance with the rules of private international law) by reference to the law of a country or territory outside the United Kingdom.
+
+## [^F25]SCHEDULE 3 — Qualifying transfer scheme
+
+*Section 28.*
+
+### [^F25] Introductory
+
+**[^F25]1** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F25] Form
+
+**[^F25]2** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F25] Vesting day
+
+**[^F25]3** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F25] Disposition of property, rights and liabilities
+
+**[^F25]4** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F25]5** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F25]6** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F25] Transfer of Board’s undertaking
+
+**[^F25]7** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F25] Nature of successor bodies
+
+**[^F25]8** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F25] Disclosure of information
+
+**[^F25]9** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F25] Residual functions
+
+**[^F25]10** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 4 — Provisions relating to carrying out of approved transfer scheme
+
+*Section 36.*
+
+### Taxation provisions
+
+**1** (1) The following provisions shall apply for the purposes of the Corporation Tax Acts, namely—
+
+(a) any property, rights or liabilities of the Board which are transferred under section 35 above shall be treated as having been, at the time when they became vested in the Board and at all times since that time, property, rights or liabilities of the transferee;
+
+(b) anything done by the Board in relation to property, rights or liabilities of its which are transferred under section 35 above shall be deemed to have been done by the transferee.
+
+(2) This paragraph shall have effect in relation to accounting periods beginning after the last complete accounting period of the Board ending before the date of the transfer under section 35 above.
+
+**2** (1) Stamp duty shall not be chargeable on an approved scheme or on any instrument which is certified to the Commissioners of Inland Revenue by the Ministers as having been made in pursuance of such a scheme.
+
+(2) No instrument which is certified as mentioned in sub-paragraph (1) above shall be taken to be duly stamped unless—
+
+(a) it is stamped with the duty to which it would, but for that sub-paragraph, be liable, or
+
+(b) it has, in accordance with section 12 of the [^M58]Stamp Act 1891, been stamped with a particular stamp denoting that it is not chargeable with any duty or that it is duly stamped.
+
+### Disclosure of information
+
+**3** Nothing in section 47(2) of the [^M59]Agricultural Marketing Act 1958 (restriction on disclosure of information obtained under the Act) shall restrict the disclosure of information by the Board in accordance with the provisions of an approved scheme or in connection with the establishment of a development council under the [^M60]Industrial Organisation and Development Act 1947.
+
+### Application of Transfer of Undertakings (Protection of Employment) Regulations 1981
+
+**4** The [^M61]Transfer of Undertakings (Protection of Employment) Regulations 1981 shall apply to any transfer under an approved scheme of the whole or any part of the undertaking of the Board, whether or not that undertaking would, apart from this provision, be treated as an undertaking in the nature of a commercial venture for the purposes of those Regulations.
+
+### Statutory accounts
+
+**5** (1) The following provisions of this paragraph have effect for the purposes of any statutory accounts of a successor body, that is to say, a body to which property, rights or liabilities of the Board are transferred under section 35 above.
+
+(2) The transfer to the successor body under section 35 above shall be taken to have been effected immediately after the end of the last complete accounting period of the Board to end before the date of the transfer under that section and—
+
+(a) in a case where all the property, rights and liabilities of the Board are transferred to the successor body under that section, to have been a transfer of all the property, rights and liabilities to which the Board was entitled or subject immediately before the end of that period;
+
+(b) in any other case, to have been a transfer of such of the property, rights and liabilities to which the Board was so entitled or subject as are determined by or under the transfer scheme.
+
+(3) The value of any asset and the amount of any liability which is taken by virtue of sub-paragraph (2) above to have been transferred to the successor body shall be taken to have been—
+
+(a) in a case where all the property, rights and liabilities of the Board are transferred to the successor body under section 35 above, the value or amount assigned to the asset or liability for the purposes of the statement of accounts prepared by the Board in respect of its last complete accounting period to end before the date of the transfer under that section;
+
+(b) in any other case, the value or amount so assigned or, if the asset or liability is part only of an asset or liability to which a value or amount is so assigned, so much of that value or amount as may be determined by or under the transfer scheme.
+
+(4) The amount to be included in respect of any item shall be determined—
+
+(a) where all the property, rights and liabilities of the Board are transferred to the successor body under section 35 above, as if anything done by the Board (whether by way of acquiring, revaluing or disposing of any asset or incurring, revaluing or discharging any liability, or by carrying any amount to any provision or reserve, or otherwise) had been done by the successor body;
+
+(b) in any other case, as if so much of anything done by the Board (as mentioned in paragraph (a) above) as may be determined by or under the transfer scheme had been done by the successor body.
+
+(5) In this paragraph—
+
+- “accounting period”, in relation to the Board, means the period by reference to which it prepares accounts under the Potato Marketing Scheme; and
+- “statutory accounts”, in relation to a successor body, means any accounts prepared for the purpose of any provision of the legislation under which the body is registered or, as the case may be, established.
+
+### Restraints on alienation etc.
+
+**6** (1) Any provision which imposes a prohibition (whether absolute or qualified) on the transfer of any property or rights of the Board shall be treated as not applying in the case of a transfer under section 35 above.
+
+(2) Sub-paragraph (1) above shall not apply in the case of a provision which is formulated specifically with reference to the possibility of the undertaking of the Board being transferred otherwise than to a board constituted by a scheme under Part I of the [^M62]Agricultural Marketing Act 1958.
+
+(3) For the purposes of this paragraph, any provision which has the effect of penalising a transfer shall be treated as prohibiting it.
+
+**7** (1) This paragraph applies to any provision which imposes a qualified prohibition on the effecting of any description of transaction, other than a transfer, with respect to any property or rights of the Board.
+
+(2) Where the prohibition imposed by a provision to which this paragraph applies is imposed for purposes other than public purposes, it shall, subject to sub-paragraph (3) below, be treated as not applying in the case of a transaction effected under an approved scheme.
+
+(3) Sub-paragraph (2) above shall not apply in the case of a provision which is formulated specifically with reference to the possibility of the undertaking of the Board being transferred otherwise than to a board constituted by a scheme under Part I of the Agricultural Marketing Act 1958.
+
+(4) For the purposes of this paragraph, any provision which has the effect of penalising the effecting of any description of transaction shall be treated as prohibiting it.
+
+**8** (1) If any person suffers a diminution in the value of any property or interest in consequence of the operation of paragraph 7 above or, where sub-paragraph (2) below applies, paragraph 6 above, such compensation as may be just shall be paid to that person by one or more of the parties to the transfer or other transaction.
+
+(2) This sub-paragraph applies where the effect of the transfer is to sever the ownership of the property or rights to which the provision concerned relates.
+
+(3) Any dispute as to whether, and, if so, how much, compensation is payable under this paragraph, or as to the person by whom it shall be paid, shall be referred to and determined by an arbitrator appointed by the Ministers.
+
+**9** (1) For the purposes of this paragraph, a provision is a qualifying provision if—
+
+(a) it imposes an absolute prohibition on the effecting of any description of transaction, other than a transfer, with respect to any property or rights of the Board, and
+
+(b) the prohibition which it imposes is imposed for purposes other than public purposes.
+
+(2) Where an approved scheme—
+
+(a) identifies a qualifying provision as one to which this paragraph applies, and
+
+(b) if the scheme provides for there to be more than one transferee under section 35 above, specifies one of them as the body against which any claim under paragraph 10 below in relation to the identified provision is to be made,
+
+that provision shall, subject to any provision of regulations under sub-paragraph (3)(c) below, be treated as not applying in the case of a transaction effected under the scheme.
+
+(3) The Ministers may make regulations—
+
+(a) with respect to the giving of notice of a provision of an approved scheme which identifies a qualifying provision as one to which this paragraph applies,
+
+(b) with respect to the giving by the Ministers of a certificate of compliance in relation to the giving of notice under paragraph (a) above, and
+
+(c) excluding sub-paragraph (2) above where no certificate of compliance under paragraph (b) above has been given at the time that a transaction is effected.
+
+(4) Sub-paragraph (2) above shall not apply in the case of a provision which is formulated specifically with reference to the possibility of the undertaking of the Board being transferred otherwise than to a board constituted by a scheme under Part I of the [^M63]Agricultural Marketing Act 1958.
+
+(5) For the purposes of this paragraph, any provision which has the effect of penalising the effecting of a description of transaction shall be treated as prohibiting it.
+
+**10** (1) If any person suffers a diminution in the value of any property or interest in consequence of the operation of paragraph 9 above in relation to any provision, such compensation as may be just shall be paid to him—
+
+(a) where the approved scheme provides for there to be one transferee under section 35 above, by that body, and
+
+(b) where the scheme provides for there to be more than one transferee under that section, by the body which the approved scheme specifies as the body against which any claim for compensation under this paragraph, in relation to the provision concerned, is to be made.
+
+(2) Any dispute as to whether, and, if so, how much compensation is payable under this paragraph, or as to the person to whom it shall be paid, shall be referred to and determined by an arbitrator appointed by the Ministers.
+
+### Certificates of vesting
+
+**11** (1) Where section 35(1) above applies on the vesting day under an approved scheme, the Ministers shall give to each person identified by the scheme as a person to whom any property, right or liability of the Board is to be transferred under section 35 above (“a relevant transferee”) a certificate (“qualification certificate”) stating—
+
+(a) that he is identified by the scheme as a relevant transferee,
+
+(b) whether the concurrence of any person is required to the issue by him of a certificate of vesting in relation to the Board, and
+
+(c) if it is, whose concurrence is required.
+
+(2) For the purposes of sub-paragraph (1) above, a person’s concurrence is required to the issue of a certificate of vesting in relation to the Board if he is identified by the scheme as a relevant transferee.
+
+(3) Where a person to whom a qualification certificate is given issues a certificate of vesting in relation to the Board, then, subject to sub-paragraphs (4) to (6) below, it shall be conclusive evidence for all purposes of any fact stated in it with respect to the effect of section 35 above in relation to any property, right or liability of the Board.
+
+(4) Where a qualification certificate states that the concurrence of one or more persons is required to the issue of a certificate of vesting in relation to the Board, sub-paragraph (3) above shall not apply in relation to such a certificate issued by the person to whom the qualification certificate is given unless it is issued with the concurrence of the person, or each of the persons, identified by the qualification certificate as a person whose concurrence is required.
+
+(5) Sub-paragraph (3) above shall not apply to a certificate of vesting in relation to the Board to the extent that the certificate relates to land which is registered land at the time the certificate is issued if a person has, at that time, been registered as the proprietor of the land in reliance on the operation of section 35 above in relation to it.
+
+(6) Sub-paragraph (3) above shall cease to apply to a certificate of vesting in relation to the Board—
+
+(a) to the extent that the certificate relates to land which is not registered land at the time the certificate is issued, on the land becoming registered land, and
+
+(b) to the extent that the certificate relates to land which is registered land at the time the certificate is issued, on a person being registered as the proprietor of the land in reliance on the operation of section 35 above.
+
+(7) In this paragraph—
+
+(a) references to a certificate of vesting in relation to the Board are to a certificate with respect to the effect of section 35 above in relation to any property, right or liability of the Board, and
+
+(b) references to registered land are to registered land within the meaning of the [^M64]Land Registration Act 1925.
+
+### Land registration
+
+**12** (1) Where section 35(1) above applies on the vesting day under an approved scheme, the Ministers shall—
+
+(a) give a copy of the order under section 26(5) above to each person from or to whom property, rights or liabilities are transferred under section 35 above in accordance with the scheme, and
+
+(b) annex to the copy order a copy of the scheme certified by them to be a true copy.
+
+(2) A copy of the scheme given under sub-paragraph (1) above shall be treated for land registration purposes in England and Wales as conclusive evidence of the terms of the scheme.
+
+**13** (1) This paragraph applies where any registered land in England and Wales is transferred under section 35 above.
+
+(2) The transferee shall be entitled to be registered as proprietor in place of the transferor on an application in that behalf made to the Chief Land Registrar.
+
+(3) On an application under sub-paragraph (2) above, the transferee shall supply to the Chief Land Registrar such information and produce to him such documents as he may require for the purpose of enabling him to deal with the application.
+
+(4) Section 43 of the [^M65]Land Registration Act 1925 (effect of transmissions) shall apply in relation to any person registered in place of the transferor as it applies in relation to any person registered in place of a deceased or bankrupt proprietor, but with the omission of the words from “upon the trusts” to “applicable by law, and”.
+
+(5) In this paragraph, “registered land” has the same meaning as in the Land Registration Act 1925.
+
+**14** (1) This paragraph applies where any land in England and Wales which is not registered land is transferred by virtue of section 35 above.
+
+(2) Unless the transferee, or his successor in title or assign, has before the end of six months from the date of the transfer applied to be registered as proprietor of the land, section 35 above shall be deemed never to have had effect to transfer the legal estate in the land.
+
+[[^F26](3) The Chief Land Registrar may, if satisfied on the application of any interested person that there is good reason for doing so, make an order extending or further extending the period mentioned in sub-paragraph (2); and if he does so at a time when that sub-paragraph has operated to negative the transfer effected by section 35 above, it shall be taken not to have so operated.]
+
+(4) Any rules made by virtue of [[^F27]section 123A(10)(a)] of the Land Registration Act 1925 shall—
+
+(a) apply to dealings with the land which may take place between the date of the transfer and the date of the application to register as if the land had been the subject of a conveyance or assignment on the date of the transfer, and
+
+(b) apply in relation to an application for registration under this paragraph as they apply in relation to an application for registration under [[^F28]section 123A] of that Act.
+
+(5) On an application for first registration under this paragraph, the applicant shall supply to the Chief Land Registrar such information and produce to him such documents as he may require for the purpose of enabling him to deal with the application.
+
+(6) In this paragraph, “registered land” has the same meaning as in the Land Registration Act 1925.
+
+**15** In relation to Scotland, any transfer under an approved scheme shall have effect subject to the provisions of any enactment which provides for transactions of that description to be given effect to by registration in any statutory register.
+
+### Transfers under section 35: transition
+
+**16** (1) Any agreement, transaction or other thing which—
+
+(a) is made, effected or done with respect to anything transferred under section 35 above in accordance with an approved scheme,
+
+(b) is made, effected or done by, to or in relation to the transferor, and
+
+(c) is in force or effective immediately before the vesting day under the scheme,
+
+shall, on and after that day, have effect as if made, effected or done by, to or in relation to the transferee in all respects as if the transferee were the same person in law as the transferor.
+
+(2) Sub-paragraph (1) above shall not affect the construction of any provision which is formulated specifically with reference to the possibility of the undertaking of the Board being transferred otherwise than to a board constituted by a scheme under Part I of the [^M66]Agricultural Marketing Act 1958.
+
+### Provisions of scheme effective on statutory vesting
+
+**17** (1) Where section 35(1) above applies on the vesting day under an approved scheme, the provisions of the scheme shall, to the extent that they fall within sub-paragraph (2) below, have effect by virtue of this paragraph.
+
+(2) The provisions of an approved scheme fall within this sub-paragraph to the extent that they purport—
+
+(a) to impose on one relevant body an obligation on or after the vesting day under the scheme to enter into a written agreement with, or execute an instrument in favour of, another relevant body;
+
+(b) to create for one relevant body, on the vesting day under the scheme, an interest in or right over property transferred under section 35 above to another relevant body; or
+
+(c) to adapt, with effect from the vesting day under the scheme, references to members or officers of the Board in a document or oral agreement relating to anything transferred under section 35 above.
+
+(3) The provisions of an approved scheme only fall within sub-paragraph (2) above by virtue of paragraph (c) of that sub-paragraph to the extent that their purpose is to prevent, so far as reasonably possible, the effect of the provisions in which the references concerned occur being materially altered as a result of the transfer.
+
+(4) For the purposes of sub-paragraph (2) above, the following are relevant bodies in relation to an approved scheme—
+
+(a) the Board, and
+
+(b) any body to which property, rights or liabilities of the Board are transferred under section 35 above.
+
+**18** (1) Where section 35(1) above applies on the vesting day under an approved scheme, the provisions of the scheme shall, to the extent that they fall within sub-paragraph (2) below, have effect by virtue of this paragraph.
+
+(2) The provisions of an approved scheme fall within this sub-paragraph to the extent that they purport—
+
+(a) to impose on the Board, or on any body to which property, rights or liabilities are transferred under section 35 above, duties to take, on or after the vesting day under the scheme, such steps as may be requisite to secure that the vesting under that section of any foreign property, right or liability of the Board is effective under the relevant foreign law;
+
+(b) to impose on the Board a duty, in relation to any foreign property, right or liability of its which is transferred under section 35 above, to hold that property or right for the benefit of, or discharge that liability on behalf of, the body to which it is so transferred, until the vesting of that property, right or liability in that body is effective under the relevant foreign law;
+
+(c) to require a body to which any foreign property, right or liability of the Board is transferred under section 35 above to act on behalf of the Board (so far as possible) for the purposes of, or in connection with, the performance of any duty of the Board under the scheme in relation to any foreign property, right or liability of its so transferred to that body; or
+
+(d) to require any body to which property, rights or liabilities of the Board are transferred under section 35 above to meet expenses incurred by the Board in consequence of provisions of the scheme which fall within this sub-paragraph by virtue of paragraph (a) or (b) above.
+
+(3) Nothing in any provision which has effect by virtue of this paragraph shall be taken as prejudicing the effect, under the law of any part of the United Kingdom, of the vesting under section 35 above of any foreign property, right or liability.
+
+(4) Where provisions of an approved scheme have effect by virtue of this paragraph, the Board shall have all such powers as may be requisite for the performance of any duty to which it is subject as a result.
+
+(5) In this paragraph, references to any foreign property, right or liability are to any property, right or liability as respects which any issue arising in any proceedings would have to be determined (in accordance with the rules of private international law) by reference to the law of a country or territory outside the United Kingdom.
+
+## SCHEDULE 5 — Repeals and revocation
+
+*Section 64.*
+
+|  |  |  |
+|---|---|---|
+| Chapter | Short title | Extent of repeal |
+| 1947 c. 48. | The Agriculture Act 1947. | Part I. |
+| 1957 c. 57. | The Agriculture Act 1957. | Sections 1 and 2.Section 8(2).In section 9, subsections (1) and (2) and, in subsection (3), the words “section eight or”.In section 11, the definition of the expressions “annual review”, “consultation with producers” and “marketing scheme”.Section 36(2) and (3).Schedule 1. |
+| 1958 c. 47. | The Agricultural Marketing Act 1958. | In section 20(4), in the proviso, the word “either”, the word “or” immediately preceding paragraph (b) and that paragraph. |
+| 1967 c. 22. | The Agriculture Act 1967. | In section 3(1)(a), the words “section 1 or”. |
+| 1972 c. 68. | The European Communities Act 1972. | Section 6(7). |
+
+|  |  |
+|---|---|
+| Title | Extent of revocation |
+| The Potato Marketing Scheme. | Paragraph 67. |
+
+**1** The repeals in the Agriculture Act 1957 are without prejudice to sections 54(2) and 55(2) above.
+
+**2** The repeals, so far as relating to potatoes, and the revocation have effect as from the date mentioned in section 55(1) above.
+
+---
+
+[^F1]: Ss. 1-19 repealed (S.) (16.6.2025) by Agriculture and Rural Communities (Scotland) Act 2024 (asp 11), s. 38(2), sch. 2 Pt. 1; S.S.I. 2025/167, reg. 2, sch.
+[^M1]: 1958 c. 47.
+[^M2]: 1947 c. 40.
+[^M3]: 1965 c. 12.
+[^M4]: 1985 c. 6.
+[^M5]: 1958 c. 47.
+[^M6]: 1958 c. 47.
+[^F2]: S. 20 repealed (1.10.2006) by Natural Environment and Rural Communities Act 2006 (c. 16), s. 107, Sch. 11 para. 138, Sch. 12; S.I. 2006/2541, art. 2 (with Sch.)
+[^F3]: S. 21(2) repealed (22.7.2004) by Statute Law (Repeals) Act 2004 (c. 14), Sch. 1 Pt. 2 Group 1
+[^F4]: S. 21(3) repealed (22.7.2004) by Statute Law (Repeals) Act 2004 (c. 14), Sch. 1 Pt. 2 Group 1
+[^F5]: Ss. 22-24 repealed (S.) (16.6.2025) by Agriculture and Rural Communities (Scotland) Act 2024 (asp 11), s. 38(2), sch. 2 Pt. 1; S.S.I. 2025/167, reg. 2, sch.
+[^M7]: 1978 c. 30.
+[^M8]: 1972 c. 70.
+[^M9]: 1973 c. 65.
+[^M10]: 1958 c. 47.
+[^M11]: 1985 c. 6.
+[^F6]: Ss. 25-35 repealed (22.7.2004) by Statute Law (Repeals) Act 2004 (c. 14), Sch. 1 Pt. 2 Group 1
+[^F7]: Ss. 37-45 repealed (22.7.2004) by Statute Law (Repeals) Act 2004 (c. 14), Sch. 1 Pt. 2 Group 1
+[^F8]: S. 47 repealed (22.7.2004) by Statute Law (Repeals) Act 2004 (c. 14), Sch. 1 Pt. 2 Group 1
+[^M12]: 1947 c. 48.
+[^M13]: 1948 c. 45.
+[^F9]: Words in s. 52(5) substituted (1.4.1996) by 1995 c. 40, ss. 5, 7(2), Sch. 4 para. 87
+[^M14]: 1957 c. 57.
+[^F10]: S. 54(3) repealed (S.) (16.6.2025) by Agriculture and Rural Communities (Scotland) Act 2024 (asp 11), s. 38(2), sch. 2 Pt. 1; S.S.I. 2025/167, reg. 2, sch.
+[^M15]: S.I. 1955/487.
+[^M16]: 1957 c. 57.
+[^F11]: S. 56 repealed (S.) (16.6.2025) by Agriculture and Rural Communities (Scotland) Act 2024 (asp 11), s. 38(2), sch. 2 Pt. 1; S.S.I. 2025/167, reg. 2, sch.
+[^M17]: 1958 c. 47.
+[^M18]: S.I. 1982/1080 (N.I. 12).
+[^F12]: Words in s. 57 substituted (1.10.2008) by The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948), Sch. 3 para. 13 (with arts. 6, 11, 12)
+[^F13]: S. 58 repealed (S.) (16.6.2025) by Agriculture and Rural Communities (Scotland) Act 2024 (asp 11), s. 38(2), sch. 2 Pt. 1; S.S.I. 2025/167, reg. 2, sch.
+[^M19]: 1947 c. 48.
+[^F14]: S. 59 repealed (22.7.2004) by Statute Law (Repeals) Act 2004 (c. 14), Sch. 1 Pt. 2 Group 1
+[^F15]: S. 60 repealed (S.) (16.6.2025) by Agriculture and Rural Communities (Scotland) Act 2024 (asp 11), s. 38(2), sch. 2 Pt. 1; S.S.I. 2025/167, reg. 2, sch.
+[^M20]: 1947 c. 40.
+[^M21]: 1947 c. 48.
+[^M22]: 1947 c. 40.
+[^F16]: Words in s. 62(4) repealed (S.) (16.6.2025) by Agriculture and Rural Communities (Scotland) Act 2024 (asp 11), s. 38(2), sch. 2 Pt. 1; S.S.I. 2025/167, reg. 2, sch.
+[^F17]: S. 62(5) repealed (22.7.2004) by Statute Law (Repeals) Act 2004 (c. 14), Sch. 1 Pt. 2 Group 1
+[^M23]: 1974 c. 28.
+[^F18]: S. 64(2) repealed (22.7.2004) by Statute Law (Repeals) Act 2004 (c. 14), Sch. 1 Pt. 2 Group 1
+[^M24]: 1958 c. 47.
+[^M25]: 1958 c. 47.
+[^M26]: 1992 c. 12.
+[^M27]: 1992 c. 12.
+[^M28]: 1988 c. 1.
+[^M29]: 1990 c. 1.
+[^M30]: 1992 c. 12.
+[^M31]: 1992 c. 12.
+[^M32]: 1988 c. 1.
+[^F19]: Words in Sch. 2 para. 19(4) substituted (22.3.2001 with effect as mentioned in s. 579(1)) by 2001 c. 2, ss. 578, 579(1), Sch. 2 para. 90
+[^F20]: Words in Sch. 2 para. 19(5)(b) substituted (22.3.2001 with effect as mentioned in s. 579(1)) by 2001 c. 2, ss. 578, 579(1), Sch. 2 para. 90
+[^M33]: 1992 c. 12.
+[^F21]: Words in Sch. 2 para. 22(2) substituted (6.4.2007) by Income Tax Act 2007 (c. 3), s. 1034(1), Sch. 1 para. 362 (with Sch. 2)
+[^M34]: 1988 c. 1.
+[^M35]: 1992 c. 12.
+[^M36]: 1992 c. 12.
+[^M37]: 1891 c. 39.
+[^M38]: 1947 c. 40.
+[^M39]: 1985 c. 6.
+[^M40]: 1965 c. 12.
+[^M41]: 1965 c. 12.
+[^M42]: 1988 c. 1.
+[^M43]: 1965 c. 12.
+[^M44]: 1969 c. 24 (N.I.).
+[^M45]: 1985 c. 6.
+[^M46]: S.I. 1986/1032 (N.I. 6).
+[^M47]: 1958 c. 47.
+[^M48]: 1947 c. 40.
+[^M49]: 1961 c. 62.
+[^M50]: S.I. 1981/1794.
+[^M51]: 1958 c. 47.
+[^M52]: 1958 c. 47.
+[^M53]: 1958 c. 47.
+[^M54]: 1925 c. 21.
+[^M55]: 1925 c. 21.
+[^F22]: Sch. 2 Pt. II para. 53(3) substituted (E.W.) (1.4.1998) by 1997 c. 2, s. 4(1), Sch. 1 Pt. I para. 7(1); S.I. 1997/3036, arts. 2, 3
+[^F23]: Words in Sch. 2 Pt. II para. 53(4) substituted (E.W.) (1.4.1998) by 1997 c. 2, s. 4(1), Sch. 1 Pt. I para. 7(2)(a); S.I. 1997/3036, arts. 2, 3
+[^F24]: Words in Sch. 2 Pt. II para. 53(4)(b) substituted (E.W.) (1.4.1998) by 1997 c. 2, s. 4(1), Sch. 1 Pt. I para. 7(2)(b); S.I. 1997/3036, arts. 2, 3
+[^M56]: 1925 c. 21.
+[^M57]: 1958 c. 47.
+[^F25]: Sch. 3 repealed (22.7.2004) by Statute Law (Repeals) Act 2004 (c. 14), Sch. 1 Pt. 2 Group 1
+[^M58]: 1891 c. 39.
+[^M59]: 1958 c. 47.
+[^M60]: 1947 c. 40.
+[^M61]: S.I. 1981/1794.
+[^M62]: 1958 c. 47.
+[^M63]: 1958 c. 47.
+[^M64]: 1925 c. 21.
+[^M65]: 1925 c. 21.
+[^F26]: Sch. 4 para. 14(3) substituted (E.W.) (1.4.1998) by 1997 c. 2, s. 4(1), Sch. 1 Pt. I para. 7(3); S.I. 1997/3036, arts. 2, 3
+[^F27]: Words in Sch. 4 para. 14(4) substituted (E.W.) (1.4.1998) by 1997 c. 2, s. 4(1), Sch. 1 Pt. I para. 7(4)(a); S.I. 1997/3036, arts. 2, 3
+[^F28]: Words in Sch. 4 para. 14(4)(b) substituted (E.W.) (1.4.1998) by 1997 c. 2, s. 4(1), Sch. 1 Pt. I para. 7(4)(b); S.I. 1997/3036, arts. 2, 3
+[^M66]: 1958 c. 47.

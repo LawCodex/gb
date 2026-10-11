@@ -1,0 +1,221 @@
+---
+title: "Atomic Weapons Establishment Act 1991"
+identifier: "ukpga/1991/46"
+citation: "1991 c.46"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S+N.I."
+date: 1991-07-25
+last_amended: 2017-01-01
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/1991/46"
+source_modified: 2017-04-03
+retrieved: 2026-10-11
+---
+
+# Atomic Weapons Establishment Act 1991
+
+**1991 c.46**
+
+An Act to make provision in connection with any arrangements that may be made by the Secretary of State with respect to the undertaking carried on by him and known as the Atomic Weapons Establishment.
+
+[25th July 1991]
+
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## 1 Arrangements for the carrying on of certain activities.
+
+(1) This Act applies in relation to such activities, carried on at such premises, as may be designated by the Secretary of State by order; and in this Act, in relation to any designated premises—
+
+- “the qualified employees” means the persons who are employed in the civil service of the Crown in or in connection with the undertaking on such day as the Secretary of State appoints by order;
+- “the undertaking” means the carrying on by the Secretary of State of designated activities at those premises.
+
+(2) The activities that may be designated under subsection (1) above are any activities connected with the development, production or maintenance of nuclear devices or with research into such devices or their effects; and the premises that may be so designated are those which, when this Act comes into force, form part of the undertaking carried on by the Secretary of State and known as the Atomic Weapons Establishment.
+
+(3) This Act shall apply if, as regards any designated premises, the Secretary of State makes arrangements—
+
+(a) for a company to carry on designated activities at the premises under contract with him; and
+
+(b) for that or another company—
+
+(i) to become the employer of such of the qualified employees as are employees to whom the arrangements apply; and
+
+(ii) to acquire from him rights in or over the premises or any part of them and any property used for the purposes of the undertaking,
+
+with a view to their services and that property being made available for carrying on the designated activities at those premises;
+
+and any reference in this subsection to a company includes a reference to a company formed by the Secretary of State.
+
+(4) In this Act—
+
+- [[^F1]“company” means a company as defined in section 1(1) of the Companies Act 2006 and “formed”, in relation to a company, includes the alteration of the company’s articles so as to add, remove or alter a statement of the company’s objects;]
+- “contractor” means a company which carries on designated activities at designated premises under contract with the Secretary of State or, by making the services of employees or property available, enables such activities to be carried on at such premises, whether by a company or by the Secretary of State;
+- “designated”, with reference to any activities or premises, means designated by an order under subsection (1) above.
+
+(5) The power to make an order under subsection (1) above shall be exercisable by statutory instrument subject to annulment in pursuance of a resolution of either House of Parliament.
+
+## 2 Provisions applying to the transfer of certain employees.
+
+(1) [[^F2]The Transfer of Undertakings (Protection of Employment) Regulations 2006] shall apply to the transfer of the undertaking or any part of it whether or not, apart from this provision, the undertaking would be treated as [[^F3]an undertaking to whose transfer those Regulations apply].
+
+(2) For the purposes of those Regulations, the services of the qualified employees together with the rights in or over the premises and property used for the purposes of the undertaking shall be treated as [[^F4]a part of that undertaking to whose transfer those Regulations apply] whether or not the company which is to become their employer also carries on designated activities.
+
+(3) Where in pursuance of the arrangements referred to in section 1(3) above a company is to become the employer of any person, none of the agreed redundancy procedures applicable to persons employed in the civil service of the Crown shall apply to him.
+
+(4) Where in pursuance of the arrangements referred to in section 1(3) above—
+
+(a) a person ceases to be employed in the civil service of the Crown on becoming employed by a company; and
+
+(b) he would not have so ceased if it were not for those arrangements,
+
+he shall not, on so ceasing, be treated for the purposes of any scheme under section 1 of the [^M1]Superannuation Act 1972, or any pension scheme maintained by the United Kingdom Atomic Energy Authority, as having retired on redundancy.
+
+## 3 Privileges and immunities: application of certain enactments.
+
+(1) The Schedule to this Act (which, for the purpose of conferring privileges and immunities, makes provision as to the application of certain enactments) shall have effect.
+
+(2) The Secretary of State may by order repeal or amend any provision of the Schedule to this Act; but this power shall not be exercised so as to extend the application of any privilege or immunity which is for the time being provided for by that Schedule.
+
+(3) The power to make an order under subsection (2) above shall be exercisable by statutory instrument subject to annulment in pursuance of a resolution of either House of Parliament.
+
+## 4 Jurisdiction of Ministry of Defence Police.
+
+(1) The places to which subsection (2) of section 2 of the [^M2]Ministry of Defence Police Act 1987 (jurisdiction) applies shall include land, vehicles, vessels, aircraft and hovercraft which are—
+
+(a) in the possession, under the control or used for the purposes of a contractor; and
+
+(b) used for the purposes of, or for purposes which include, carrying on designated activities.
+
+(2) Subsection (3) of that section shall have effect as if the reference to Crown property included a reference to property which—
+
+(a) belongs to a contractor, is in its possession or under its control or has been unlawfully removed from its possession or control; and
+
+(b) is (or was immediately before its removal) used to any extent for the purpose of carrying on designated activities.
+
+## 5 Expenses of Secretary of State.
+
+There shall be paid out of money provided by Parliament any expenses of the Secretary of State incurred—
+
+(a) in connection with the formation of any company formed with a view to, or for any purpose of, the carrying on of designated activities or with the operation of any such company wholly owned by the Secretary of State; or
+
+(b) in assuming responsibility for any liabilities (whether of such a company or any other company which is or has been a contractor) which are liabilities arising out of the carrying on of designated activities or liabilities to or in respect of persons employed or formerly employed in or in connection with the carrying on of such activities.
+
+## 6 Short title, commencement and extent.
+
+(1) This Act may be cited as the Atomic Weapons Establishment Act 1991.
+
+(2) This Act shall come into force at the end of the period of two months beginning with the day on which it is passed.
+
+(3) This Act, except section 4 above, does not extend to Scotland or Northern Ireland.
+
+## SCHEDULE — Application of Certain Enactments
+
+*Section 3.*
+
+### Preliminary
+
+**1** In this Schedule “designated premises” means any designated premises as respects which such arrangements as are referred to in section 1(3) of this Act have been made, whatever may be the respective rights of the Secretary of State and any contractor in or over any part of the premises.
+
+### Military Lands Act 1892 (c.43)
+
+**2** For the purposes of Part II of the Military Lands Act 1892 (byelaws for lands under the management of Secretary of State used for service purposes), land in designated premises shall be treated as land under the management of the Secretary of State for military purposes.
+
+### Landlord and Tenant Act 1954 (c.56)
+
+**3** Part II of the Landlord and Tenant Act 1954 (security of tenure for business tenants) shall not apply to any tenancy granted to a contractor in respect of any land in designated premises.
+
+### Clean Air Act 1956 (c.52)
+
+**[^F5]4** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Radioactive Substances Act 1960 (c.34)
+
+**[^F6]5** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Nuclear Installations Act 1965 (c.57)
+
+**[[^F7]6** (1) Any conditions which, by virtue of section 4 of the Nuclear Installations Act 1965, are attached to a nuclear site licence granted in respect of a site in designated premises used by a contractor, shall not apply to the extent that such conditions affect the design of a nuclear device or any other device (other than a nuclear reactor) intended to simulate the properties of a nuclear device.
+
+(2) If a nuclear site licence has been granted in respect of any site in designated premises used by a contractor, the provisions of that Act shall have effect as if any reference to the period of the licensee’s responsibility were a reference to any period during which the contractor occupies that site.
+
+(3) Section 6 of that Act (maintenance of list of licensed sites) shall not apply in relation to any site in designated premises used by a contractor in respect of which a nuclear site licence has been granted.]
+
+### Health and Safety at Work etc. Act 1974 (c.37)
+
+**7** (1) The power of the Secretary of State under section 48(4) of the Health and Safety at Work etc. Act 1974 (Crown exemptions) shall include power to provide for exemptions, in relation to designated premises or activities carried on by a contractor at such premises, from all or any of the relevant statutory provisions within the meaning of Part I of that Act.
+
+(2) For the purposes of the [^M3]Health and Safety (Enforcing Authority) Regulations 1989, designated premises and the activities carried on by a contractor at such premises shall be treated as premises occupied, and as activities carried on by, the Crown.
+
+### Control of Pollution Act 1974 (c.40)
+
+**8** [^F8]1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) For the purposes of section 105(3) of that Act (treatment of Crown land under the Act), any interest of a contractor in designated premises shall be treated as a Crown interest in those premises.
+
+### Local Government Finance Act 1988 (c.41)
+
+**9** For the purposes of Part III of the Local Government Finance Act 1988 (under which non-domestic rates are levied except on land occupied by or on behalf of the Crown for public purposes), land in designated premises shall be treated as occupied on behalf of the Crown for public purposes.
+
+### Planning (Hazardous Substances) Act 1990 (c.10)
+
+**10** For the purposes of section 31 of the Planning (Hazardous Substances) Act 1990 (exercise of powers in relation to Crown land), any interest of a contractor in designated premises shall be treated as a Crown interest in those premises.
+
+### [^F9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F9] 10A** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [[^F10] Clean Air Act 1993]
+
+**[[^F11]10B** (1) Subsection (1) of section 46 of the Clean Air Act 1992 (Crown premises) shall have effect, in relation to emissions from designated premises, as if—
+
+(a) references to premises under the control of a government department which are occupied for the public service of the Crown included a reference to designated premises; and
+
+(b) references to the responsible Minister were references to the Secretary of State.
+
+(2) For the purposes of section 36 of that Act (notices requiring information about air pollution), designated premises, and persons at such premises, shall be treated as premises used for, or persons in, the public service of the Crown.
+
+(3) For all other purposes of that Act any such premises shall be treated as Crown premises occupied by a government department.]
+
+### [[^F12]Environmental Permitting (England and Wales) Regulations 2016]
+
+**[[^F13]10C** (1) For the purposes of [[^F14]the Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)] , so far as relating to an environmental permit for the disposal of radioactive waste, a relevant site in designated premises shall be treated as a site in respect of which a nuclear site licence is for the time being in force.
+
+(2) For the purposes of sub-paragraph (1), “relevant site” means a site used by a contractor for the purposes of any activity which would, if section 1 of the Nuclear Installations Act 1965 applied to the site, require a nuclear site licence.]
+
+### [[^F15] Energy Act 2013 (c.32)
+
+**10D** (1) The power of the Secretary of State under section 111(6) of the Energy Act 2013 (Crown exemptions) shall include power to provide for exemptions, in relation to designated premises or activities carried on by a contractor at such premises, from all or any of the relevant provisions.
+
+(2) In this paragraph “relevant provisions” means the relevant statutory provisions within the meaning of Part 3 of the Energy Act 2013 other than—
+
+(a) a provision of the Nuclear Safeguards Act 2000; and
+
+(b) any provision of nuclear regulations identified in accordance with section 74(9) of the Energy Act 2013 as being made for the nuclear safeguards purposes.]
+
+### Supplemental
+
+**11** All instruments, authorities, powers and privileges subsisting at the commencement of this Act under the enactments mentioned in the foregoing provisions of this Schedule shall (until revoked) continue in force in accordance with those provisions.
+
+---
+
+[^F1]: Words in s. 1(4) substituted (1.10.2009) by The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941), art. 1(2), Sch. 1 para. 122 (with art. 10)
+[^F2]: Words in s. 2(1) substituted (6.4.2006 with application in accordance with reg. 21(1)) by The Transfer of Undertakings (Protection of Employment) Regulations 2006 (S.I. 2006/246), reg. 1(2), Sch. 2 para. 6(2)(a)
+[^F3]: Words in s. 2(1) substituted (6.4.2006 with application in accordance with reg. 21(1)) by The Transfer of Undertakings (Protection of Employment) Regulations 2006 (S.I. 2006/246), reg. 1(2), Sch. 2 para. 6(2)(b)
+[^F4]: Words in s. 2(2) substituted (6.4.2006 with application in accordance with reg. 21(1)) by The Transfer of Undertakings (Protection of Employment) Regulations 2006 (S.I. 2006/246), reg. 1(2), Sch. 2 para. 6(3)
+[^M1]: 1972 c. 11.
+[^M2]: 1987 c. 4.
+[^F5]: Sch. para. 4 repealed (27.8.1993) by 1993 c. 11, s. 67(3), Sch. 6
+[^F6]: Sch. para. 5 repealed (27.8.1993) by 1993 c. 12, s. 50, Sch. 6 Pt.I(with ss. 42, 46)
+[^F7]: Sch. para. 6 substituted (1.7.1997) by S.I. 1997/1396, art. 2
+[^M3]: S.I. 1989/1903.
+[^F8]: Sch. para. 8(1) repealed (27.8.1993) by 1993, c. 11, s. 67(3), Sch.6
+[^F9]: Sch. para. 10A and cross-heading repealed (6.4.2010) by The Environmental Permitting (England and Wales) Regulations 2010 (S.I. 2010/675), reg. 1(1)(b), Sch. 26 para. 6(a), Sch. 28 (with reg. 1(2), Sch. 4)
+[^F10]: Sch. para. 10B and crossheading inserted (27.8.1993) by 1993 c. 11, s. 67(1), Sch. 4 para.5
+[^F11]: Sch. para. 10B and crossheading inserted (27.8.1993) by 1993 c. 11, s. 67(1), Sch. 4 para.5
+[^F12]: Words in Sch. para. 10C heading substituted (1.1.2017) by The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154), reg. 1(1), Sch. 29 para. 7(a) (with regs. 1(3), 77-79, Sch. 4)
+[^F13]: Sch. para. 10C inserted (6.4.2010) by The Environmental Permitting (England and Wales) Regulations 2010 (S.I. 2010/675), reg. 1(1)(b), Sch. 26 para. 6(b) (with reg. 1(2), Sch. 4)
+[^F14]: Words in Sch. para. 10C(1) substituted (1.1.2017) by The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154), reg. 1(1), Sch. 29 para. 7(b) (with regs. 1(3), 77-79, Sch. 4)
+[^F15]: Sch. para. 10D inserted (1.4.2014) by The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469), art. 1(2), Sch. 2 para. 14 (with Sch. 4)

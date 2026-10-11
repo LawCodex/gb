@@ -1,0 +1,416 @@
+---
+title: "Northern Ireland Act 2000"
+identifier: "ukpga/2000/1"
+citation: "2000 c. 1"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S+N.I."
+date: 2000-02-10
+last_amended: 2007-05-10
+version: revised
+status: repealed
+source: "https://www.legislation.gov.uk/ukpga/2000/1"
+source_modified: 2026-07-08
+retrieved: 2026-10-11
+---
+
+# Northern Ireland Act 2000
+
+**2000 c. 1**
+
+[^F1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## [^F2][^F3]1 [ Suspension of devolved government in Northern Ireland.
+
+(1) While this section is in force, the Northern Ireland Assembly is suspended and the following provisions of this section have effect.
+
+(2) No Act is to be passed by the Assembly.
+
+(3) Neither the Assembly nor any committee of the Assembly is to hold a meeting or conduct any business.
+
+(4) No person is to continue to hold office or be [^F4]... nominated or appointed as a Minister or junior Minister, or as a chairman or deputy chairman of a statutory committee.
+
+(5) The functions conferred by [[^F5]section 52A, 52B][^F5] or 53 of the [^M1]Northern Ireland Act 1998 (North-South Ministerial Council and British-Irish Council) are not to be exercised.
+
+(6) The functions conferred by section 54 of that Act (British-Irish Intergovernmental Conference) are not to be exercised.
+
+(7) No functions are to be conferred under section 55(2)(b) of that Act (implementation bodies).
+
+(8) The Schedule to this Act makes further provision in connection with that made by this section.]
+
+## 2 Ending suspension.
+
+(1) As soon as is reasonably practicable after section 1 comes into force, the Secretary of State must take steps to initiate a review under the Validation, Implementation and Review section of the Belfast Agreement.
+
+(2) The Secretary of State may by order (“a restoration order”) provide that section 1 is to cease to have effect on the date specified in the order.
+
+(3) Before making a restoration order, the Secretary of State must take into account the result of the review conducted as a result of subsection (1).
+
+## 3 Effect of restoration.
+
+(1) This section applies when a restoration order is made.
+
+(2) If, on the date on which the restoration order comes into force (“the effective date”)—
+
+(a) the person who held office as First Minister immediately before the date on which section 1 came into force, and
+
+(b) the person who held office as deputy First Minister at that time,
+
+remain eligible to hold office, they resume office on the effective date and section 16 of the 1998 Act does not apply.
+
+(3) If either of those persons is no longer eligible on the effective date, that section applies—
+
+(a) with the omission of subsection (1); and
+
+(b) as if the person who is no longer eligible ceased to hold office on the effective date.
+
+(4) Subsection (5) applies if the office of First Minister or deputy First Minister was vacant on the date on which section 1 came into force.
+
+(5) On the effective date, section 16 of the 1998 Act applies—
+
+(a) with the omission of subsection (1); and
+
+(b) as if the office had been vacated on the effective date.
+
+(6) If any person who held office as—
+
+(a) a Northern Ireland Minister,
+
+(b) a junior Minister, or
+
+(c) chairman or deputy chairman of a statutory committee,
+
+immediately before the date on which section 1 came into force remains eligible to hold that office, he resumes office on the effective date.
+
+(7) If, after the application of subsection (6), there are vacancies in the offices mentioned there, they are to be filled—
+
+(a) in the case of Northern Ireland Ministers, in accordance with section 18(10) of the 1998 Act,
+
+(b) in the case of junior Ministers, in accordance with the provision for the filling of vacancies made by virtue of section 19(3)(a) of that Act, and
+
+(c) in the case of chairmen or deputy chairmen of statutory committees, in accordance with standing orders made as a result of section 29(8) of that Act,
+
+as if the vacancies occurred on the effective date.
+
+[[^F6](8) The Assembly may not make a determination under section 47 of the 1998 Act in respect of any period when section 1 was in force.
+
+(9) No instrument made during any period when section 1 was in force shall be liable to annulment or capable of being revoked in pursuance of a resolution, motion or address of the Assembly.
+
+(10) A restoration order shall not affect the operation of any Order in Council made under paragraph 1(1) of the Schedule during any period when section 1 was in force.]
+
+[[^F7](11) On the effective date, any direction made by the Secretary of State under section 47B or section 51B of the 1998 Act while section 1 was in force shall cease to have effect.][^F7]
+
+## 4 Further suspension by order.
+
+The effect of an order made by the Secretary of State revoking a restoration order is that section 1 comes into force again.
+
+## 5 Implementation bodies.
+
+(1) If, while section 1 is in force, arrangements made under an agreement between Her Majesty’s Government in the United Kingdom and the Government of Ireland require any functions of an implementation body, so far as they relate to Northern Ireland, to be transferred to a Northern Ireland department, the Secretary of State must by order transfer those functions to the department.
+
+(2) If, when a restoration order is made, arrangements made under such an agreement require any functions of a Northern Ireland department to be transferred to an implementation body, the Secretary of State must by order transfer those functions to the body.
+
+## 6 Power to make consequential provision etc.
+
+The Secretary of State may by order make such modifications of enactments as appear to him to be necessary or expedient in consequence of any provision made by, or under, this Act.
+
+## 7 Orders made under this Act: supplemental provision.
+
+(1) Any power of the Secretary of State to make an order under this Act (“an order”) is exercisable by statutory instrument.
+
+(2) An order may make such consequential, supplemental or transitional provision as appears to the Secretary of State to be necessary or expedient.
+
+(3) An order under paragraph 12(4)(b) of the Schedule shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(4) Any other order (except one under section 9(2)) may not be made unless a draft of the order has been approved by a resolution of each House of Parliament.
+
+(5) Except in the case of an order made under paragraph 1(4) of the Schedule, subsection (4) does not apply if the order declares that the Secretary of State considers it expedient for the order to be made without that approval.
+
+(6) An order containing a declaration under subsection (5)—
+
+(a) must be laid before Parliament after being made; and
+
+(b) ceases to have effect if it is not approved by a resolution of each House of Parliament before the end of the period of 40 days beginning with the date on which it is made.
+
+(7) Subsection (6)(b) does not prejudice—
+
+(a) anything done as a result of the order before it ceased to have effect; or
+
+(b) the making of a new order.
+
+## 8 Interpretation etc.
+
+(1) In this Act—
+
+- “the 1998 Act” means the [^M2]Northern Ireland Act 1998;
+
+- “enactment” includes—
+
+  - (a) a provision of an Act (including this Act);
+  - (b) a provision of, or of any instrument made under, Northern Ireland legislation; and
+  - (c) a provision of subordinate legislation;
+
+- “implementation body” has the same meaning as in section 55 of the 1998 Act;
+
+- “restoration order” has the meaning given in section 2(2); and
+
+- “statutory committee” means a committee established by standing orders made as a result of section 29 of the 1998 Act.
+
+(2) Expressions which are used in this Act and in the 1998 Act have the same meaning as in that Act.
+
+(3) In calculating the period of 40 days mentioned in section 7(6)(b) and in paragraph 2(2)(b) of Schedule 1, no account is to be taken of any time during which Parliament is dissolved or prorogued or during which both Houses are adjourned for more than four days.
+
+## 9 Short title, commencement and consequential amendment.
+
+(1) This Act may be cited as the Northern Ireland Act 2000.
+
+(2) This Act (apart from subsection (1) and this subsection) comes into force on such day as the Secretary of State may by order appoint.
+
+(3) In section 44 of the 1998 Act (power of Assembly to call for witnesses and documents), in subsection (4), at the end insert “ or during a period when section 1 of the Northern Ireland Act 2000 was in force ”.
+
+## SCHEDULE — Provisions Applicable During Suspension
+
+*Section 1(8).[^F8]*
+
+### Legislation by Order in Council
+
+**1** (1) While section 1 is in force, Her Majesty may by Order in Council make provision for any matter for which the 1998 Act authorises or requires provision to be made by Act of the Assembly.
+
+(2) A provision which would be outside the legislative competence of the Assembly may not be included in such an Order.
+
+(3) If section 1 is in force for a period of more than six months, sub-paragraph (1) applies only during the first six months of that period.
+
+(4) But the Secretary of State may by order direct, in relation to any period while section 1 is in force, that sub-paragraph (3) (whether as originally enacted or as subsequently modified under this sub-paragraph) is to have effect as if the number of months mentioned there were increased by such number of months not exceeding six as may be specified in the order.
+
+### Parliamentary control of Orders in Council
+
+**2** (1) An Order in Council may not be made under paragraph 1(1) unless—
+
+(a) a draft of the Order has been approved by resolution of each House of Parliament; or
+
+(b) the Order declares that the Secretary of State has advised Her Majesty that because of the urgency of the matter it is necessary to make the Order without that approval.
+
+(2) An Order which contains a declaration under sub-paragraph (1)(b)—
+
+(a) must be laid before Parliament after being made; and
+
+(b) ceases to have effect if it is not approved by a resolution of each House of Parliament before the end of the period of 40 days beginning with the date on which it is made.
+
+(3) But sub-paragraph (2)(b) does not prejudice—
+
+(a) anything done under the Order before it ceased to have effect; or
+
+(b) the making of a new Order.
+
+### Supplemental
+
+**3** (1) References to Acts of the Assembly in any enactment or instrument (whether passed or made before or after the coming into force of section 1) are to be read, so far as the context permits, as including references to Orders in Council made under paragraph 1(1).
+
+(2) Such Orders may be omitted from any annual edition of statutory instruments required to be prepared under regulations made as a result of section 8 of the [^M3]Statutory Instruments Act 1946.
+
+(3) “Instrument” includes a charter, contract or other document.
+
+### Executive functions
+
+**4** (1) While section 1 is in force—
+
+(a) any functions of the First Minister and the deputy First Minister may be discharged by the Secretary of State;
+
+(b) any functions of a Northern Ireland Minister who was in charge of a Northern Ireland department immediately before the coming into force of section 1 may be discharged by that department;
+
+(c) any functions of a Northern Ireland Minister who was not then in charge of a Northern Ireland department may be discharged by the Secretary of State;
+
+(d) section 56 of the 1998 Act (which imposes duties on the First Minister and the deputy First Minister in relation to the Civic Forum) ceases to have effect;
+
+(e) the functions to which section 66 of the 1998 Act applies (expenses of Northern Ireland Audit Office) are exercisable by the Department of Finance and Personnel;
+
+(f) any functions of a Northern Ireland department (including functions discharged as a result of this sub-paragraph) are to be discharged subject to the direction and control of the Secretary of State.
+
+(2) Anything required or authorised by or under any enactment or instrument to be done to or in relation to a Minister in connection with any functions which are exercisable as a result of this paragraph by a substituted authority (whether the Secretary of State or a Northern Ireland department) are to be done instead to or in relation to that authority.
+
+(3) Any enactment or instrument is to have effect, so far as may be necessary for or in consequence of the exercise of any functions by a substituted authority as a result of this paragraph, as if references to a Minister were references to that authority.
+
+(4) This paragraph does not invalidate anything done before section 1 came into force.
+
+(5) Anything which, immediately before section 1 came into force, is in the process of being done by or in relation to a Minister may be continued by or in relation to the substituted authority.
+
+(6) Any act which was effective, immediately before section 1 came into force, as an act of a Minister continues to have effect as the act of the substituted authority.
+
+(7) In sub-paragraph (6) “act” includes an order, regulation, rule, direction, authority, appointment, authentication, approval or other instrument.
+
+(8) “Instrument” includes a charter, contract or other document.
+
+(9) This paragraph applies to functions conferred by any enactment or instrument—
+
+(a) before section 1 comes into force, or
+
+(b) while that section is in force,
+
+but that is subject to any contrary provision made by that enactment or instrument.
+
+### Vacant offices
+
+**5** (1) This paragraph applies in relation to—
+
+(a) any office which is vacant at the time when section 1 comes into force; and
+
+(b) the offices vacated as a result of this Act.
+
+(2) No provision of, or made under, the 1998 Act relating to the filling of the vacancy, and no such provision of the Standing Orders of the Assembly, applies while section 1 is in force.
+
+(3) No steps are to be taken to fill the vacancy while section 1 is in force.
+
+(4) If a restoration order is subsequently made, the vacancy is to be filled in accordance with section 3.
+
+(5) “Office” means any of the following offices—
+
+(a) First Minister;
+
+(b) deputy First Minister;
+
+(c) Northern Ireland Minister;
+
+(d) Northern Ireland junior Minister;
+
+(e) chairman or deputy chairman of a statutory committee.
+
+**[[^F9]5A** If the office of Attorney General is vacant at the time when section 1 comes into force, or becomes vacant at any time while that section is in force, no steps are to be taken to fill the vacancy while that section is in force; but if a restoration order is subsequently made, the vacancy is to be filled in accordance with section 22 of the Justice (Northern Ireland) Act 2002.]
+
+### Designations under section 16(5) of the 1998 Act
+
+**6** A designation under section 16(5) of the 1998 Act ceases to have effect on the coming into force of section 1.
+
+### Subordinate instruments etc
+
+**7** (1) If, under any enactment or instrument, it is a condition for the taking of any step (other than the annulment of any instrument) or for the coming into operation of anything that—
+
+(a) a resolution or motion has been passed by the Assembly, or
+
+(b) an address has been presented by the Assembly,
+
+that condition does not apply while section 1 is in force.
+
+(2) A statutory instrument made or coming into operation as a result of sub-paragraph (1) shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(3) Any statutory rules made or coming into operation as a result of sub-paragraph (1) shall be subject to annulment in pursuance of a resolution of either House of Parliament in like manner as a statutory instrument and section 5 of the [^M4]Statutory Instruments Act 1946 applies accordingly.
+
+(4) So much of any enactment or instrument as makes the taking of any step or the coming of anything into operation conditional on the laying of an instrument or document before the Assembly, or on any lapse of time after an instrument or document is so laid, does not apply while section 1 is in force.
+
+(5) So much of any enactment or instrument as makes it a condition for the continuing of anything in operation that—
+
+(a) a resolution or motion has been passed by the Assembly, or
+
+(b) an address has been presented by the Assembly,
+
+does not apply in relation to anything done while section 1 is in force or in relation to anything done previously that would, apart from this sub-paragraph, cease to have effect while that section is in force.
+
+(6) Regulations made under Article 7 of the [^M5]Statutory Rules (Northern Ireland) Order 1979 while section 1 is in force do not require the concurrence of the Presiding Officer of the Assembly.
+
+[[^F10](6A) Without prejudice to any requirement under this Schedule, so much of any enactment or instrument as requires any instrument or document to be laid before the Assembly does not apply during any period while section 1 is in force when the Assembly is dissolved.]
+
+[^F10]7 In this paragraph “statutory rules” has the same meaning as it has for the purposes of the 1979 Order.
+
+### Assembly Commission
+
+**8** (1) While section 1 is in force, no meetings are to be held by the Northern Ireland Assembly Commission.
+
+(2) While section 1 is in force, the functions of the Commission—
+
+(a) are exercisable by the Secretary of State; and
+
+(b) in the case of functions under section 40(6) of the 1998 Act (proceedings by or against the Assembly), are exercisable by him in the name of the Commission.
+
+(3) Expenditure incurred by the Secretary of State as a result of this paragraph is to be paid out of [[^F11]the Consolidated Fund of Northern Ireland].
+
+### Members’ remuneration and pensions
+
+**9** (1) While section 1 is in force, the functions of the Assembly under sections 47 and 48 of the 1998 Act (remuneration and pensions) are exercisable by the Secretary of State.
+
+(2) But the Secretary of State may determine that no salaries are to be paid to members of the Assembly.
+
+[^F12]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) Expenditure incurred by the Secretary of State as a result of this paragraph is to be paid out of [[^F13]the Consolidated Fund of Northern Ireland].
+
+### Implementation bodies
+
+**10** (1) In the [^M6]North-South Co-operation (Implementation Bodies) (Northern Ireland) Order 1999 references to the Agreement, or to any provision of the Agreement, are to be read at any time while section 1 is in force as references to the Agreement, or to that provision, as it has effect at that time when read with any relevant agreements.
+
+(2) “The Agreement” means the Agreement between Her Majesty’s Government in the United Kingdom and the Government of Ireland which established implementation bodies and was done at Dublin on 8th March 1999.
+
+(3) “Relevant agreement” means an agreement between the same parties which is designated by the Secretary of State as a relevant agreement for the purposes of this paragraph.
+
+### Audit
+
+**11** (1) While section 1 is in force, the power of Her Majesty under section 65(1) of the 1998 Act (appointment of Comptroller and Auditor General for Northern Ireland) is exercisable on an address presented by the House of Commons.
+
+(2) No motion is to be made for such an address except by the Secretary of State acting with the agreement of the Committee of Public Accounts.
+
+(3) While section 1 is in force, Article 4(1) of the [^M7]Audit (Northern Ireland) Order 1987 has effect as if for the words from “a resolution of the Assembly” to the end there were substituted
+
+> an order made by the Secretary of State: and an order under this paragraph—
+>
+> (a) takes effect from such date (whether before or after the making of the order) as may be specified in the order; and
+>
+> (b) shall be subject to annulment in pursuance of a resolution of either House of Parliament in like manner as a statutory instrument, (section 5 of the Statutory Instruments Act 1946 applying accordingly).
+
+[[^F14](4) While section 1 is in force, Article 6(2) of the Audit (Northern Ireland) Order 1987 (expenses and accounts of Northern Ireland Audit Office) shall have effect as if for the words “the committee established under section 66 of the Northern Ireland Act 1998”, and “that committee”, there were substituted “the Department”.][^F14]
+
+### Account, reports and other documents
+
+**12** (1) The accounts and reports to which sub-paragraph (3) applies must be laid before the House of Commons.
+
+(2) The accounts, reports and other documents to which sub-paragraph (4) applies must be laid before each House of Parliament.
+
+(3) This sub-paragraph applies to such accounts and reports as would be required by section 11, 19, 21 or 22 of the [^M8]Exchequer and Audit Act (Northern Ireland) 1921, or by Article 8 of the [^M9]Financial Provisions (Northern Ireland) Order 1993, to be laid before (or presented or made to) the Assembly if it were not suspended.
+
+(4) This sub-paragraph applies to such accounts, reports and other documents as—
+
+(a) would be required to be laid before (or presented or made to) the Assembly if it were not suspended; and
+
+(b) are prescribed by order of the Secretary of State made by statutory instrument.
+
+(5) A statutory instrument containing an order under sub-paragraph (4) shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+### Ombudsman and Commissioner for Complaints
+
+**13** (1) While section 1 is in force—
+
+(a) a report required to be laid before the Assembly under Article 17(1) or (2) of the [^M10]Ombudsman (Northern Ireland) Order 1996 must be laid before each House of Parliament; and
+
+(b) the reference in Article 18(2)(a) of that Order to a report to the Assembly includes a reference to a report to either House of Parliament.
+
+(2) While section 1 is in force, a report required to be laid before the Assembly under Article 19 of the [^M11]Commissioner for Complaints (Northern Ireland) Order 1996 must be laid before each House of Parliament.
+
+[[^F15](3) During any period while section 1 is in force when the Assembly is dissolved, any complaint under the Ombudsman (Northern Ireland) Order 1996 may be made to, and referred to the Ombudsman by, a member of the House of Commons; and references to a member of the Assembly in Articles 9, 11, 16 and 18 of that Order shall be construed accordingly.][^F15]
+
+---
+
+[^F1]: Act repealed (10.5.2007) by Northern Ireland (St Andrews Agreement) Act 2006 (c. 53), ss. 2(2)(5), 27(4)(5), Sch. 4 para. 1 (with Sch. 4 para. 2) (as amended by Northern Ireland (St Andrews Agreement) Act 2007 (c. 4), s. 1); S.I. 2007/1397, art. 2
+[^F2]: S. 1 ceased to have effect (30.5.2000) by virtue of S.I. 2000/1445, art. 2 (which S.I. was revoked (23.9.2001) by S.I. 2001/2884, art. 2.)
+[^F3]: S. 1 ceased to have effect (23.9.2001) by virtue of S.I. 2001/3231, art. 2 (which S.I. was revoked (15.10.2002) by S.I. 2002/2574, art. 2)
+[^F4]: Word in s. 1(4) omitted (8.5.2007) by virtue of Northern Ireland (St Andrews Agreement) Act 2006 (c. 53), ss. 2(2), 27(4)(5) (as amended by 2007 c. 4, s. 1(1)), {Sch. 5 para. 7}; S.I. 2007/1397, art. 2
+[^F5]: Words in s. 1(5) substituted (8.5.2007) by Northern Ireland (St Andrews Agreement) Act 2006 (c. 53), ss. 2(2), 27(4)(5) (as amended by 2007 c. 4, s. 1(1)), {Sch. 7 para. 6}; S.I. 2007/1397, art. 2
+[^M1]: 1998 c. 47.
+[^F6]: S. 3(8)(9)(10) inserted (30.5.2000) S.I. 2000/1446, art. 2(2)
+[^F7]: S. 3(11) inserted (21.4.2004) by The Northern Ireland Act 1998 and Northern Ireland Act 2000 (Modification) Order 2004 (S.I. 2004/1164), art. 4
+[^M2]: 1998 c. 47.
+[^F8]: Sch. para. 14 and preceding heading added (15.5.2003) by Northern Ireland Assembly (Elections and Periods of Suspension) Act 2003 (c. 12), s. 5(6)
+[^M3]: 1946 c. 36.
+[^F9]: Sch. para. 5A inserted (*prosp.*) by 2002 c. 26, ss. 85, 87, Sch. 12 para. 79
+[^M4]: 1946 c. 36.
+[^M5]: S.I. 1979/1573 (N.I.12).
+[^F10]: Sch. para. 7(6A) inserted (15.5.2003) by Northern Ireland Assembly (Elections and Periods of Suspension) Act 2003 (c. 12), s. 5(2)
+[^F11]: Words in Sch. para. 8(3) substituted (15.10.2002) by S.I. 2002/2587, art. 2
+[^F12]: Sch. para. 9(3) omitted (30.5.2000) by virtue of S.I. 2000/1446, art. 2(3)
+[^F13]: Words in Sch. para. 9(4) substituted (15.10.2002) by S.I. 2002/2587, art. 2
+[^M6]: S.I. 1999/859.
+[^M7]: S.I. 1987/460 (N.I. 5).
+[^F14]: Sch. para. 11(4) added by Northern Ireland Assembly (Elections and Periods of Suspension) Act 2003 (c. 12), s. 5(3)
+[^M8]: 1921 c.2 (N.I.).
+[^M9]: S.I. 1993/1252 (N.I. 5).
+[^M10]: S.I. 1996/1298 (N.I. 8).
+[^M11]: S.I. 1996/1297 (N.I. 7).
+[^F15]: Sch. para. 13(3) added (15.5.2003) by Northern Ireland Assembly (Elections and Periods of Suspension) Act 2003 (c. 12), s. 5(5)

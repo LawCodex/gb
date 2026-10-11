@@ -1,0 +1,911 @@
+---
+title: "Justice (Northern Ireland) Act 2004"
+identifier: "ukpga/2004/4"
+citation: "2004 c. 4"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "N.I."
+date: 2004-05-13
+last_amended: 2015-09-30
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/2004/4"
+source_modified: 2016-04-29
+retrieved: 2026-10-11
+---
+
+# Justice (Northern Ireland) Act 2004
+
+**2004 c. 4**
+
+An Act to amend Part 1 of the Justice (Northern Ireland) Act 2002; to make further provision concerning the public prosecution service established by that Act; to impose a new duty on certain criminal justice organisations in Northern Ireland in relation to human rights standards; to make provision consequential on the dissolution of the Juvenile Justice Board; to amend the law relating to bail in Northern Ireland; to provide for the transfer of certain prisoners from Northern Ireland to another part of the United Kingdom; to amend section 103 of the Terrorism Act 2000; to provide for driving while disqualified to be an arrestable offence in Northern Ireland; to re-enact with amendments sections 79 to 81 of the Justice (Northern Ireland) Act 2002 and make further provision about court security officers in Northern Ireland; to enable barristers in Northern Ireland to enter into contracts for the provision of their services; and for connected purposes.
+
+[13th May 2004]
+
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## The judiciary
+
+### 1 Transfer to Lord Chancellor of functions relating to Judicial Appointments Commission
+
+The Justice (Northern Ireland) Act 2002 (c. 26) (“the 2002 Act”) is amended as set out in Schedule 1 for the purpose of transferring to the Lord Chancellor functions exercisable by the First Minister and deputy First Minister, acting jointly, in relation to the Northern Ireland Judicial Appointments Commission.
+
+### 2 Membership of the Commission
+
+(1) In section 3 of the 2002 Act for subsection (8) (lay members of the Commission to be representative of the community in Northern Ireland) substitute—
+
+> (8) It is the duty of—
+>
+> (a) the Lord Chancellor, and
+>
+> (b) those responsible for making nominations under subsection (5)(a) and (b),
+>
+> to make such arrangements in connection with the exercise of their functions under this section as will, so far as is practicable, secure that the membership of the Commission is reflective of the community in Northern Ireland.
+
+(2) In Schedule 2 to the 2002 Act in paragraph 1 (tenure of judicial members) for sub-paragraph (1) substitute—
+
+> (1) Subject as follows, a judicial member of the Commission holds office for the period specified in his appointment (or re-appointment).
+>
+> (1A) A person may not be appointed as a judicial member for more than five years at a time; and the aggregate period for which a person may be a judicial member by virtue of his holding any one of the judicial offices mentioned in section 3(6) must not exceed ten years.
+
+### 3 Duty of Commission to secure judiciary reflective of the community
+
+[^F1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 4 Appointment of Lord Chief Justice and Lords Justices of Appeal
+
+[^F2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 5 Removal or suspension from listed judicial offices
+
+[^F3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Prosecutors
+
+### 6 Duty of Director of Public Prosecutions to refer certain matters to Police Ombudsman
+
+(1) Section 55 of the Police (Northern Ireland) Act 1998 (c. 32) (referral of matters to Ombudsman) is amended as set out in subsections (2) to (5).
+
+(2) In subsection (1) (power of Policing Board, Director or Secretary of State to refer certain matters) omit the words “, the Director” (wherever they occur).
+
+(3) After subsection (4) insert—
+
+> (4A) The Director shall refer to the Ombudsman any matter which—
+>
+> (a) appears to the Director to indicate that a police officer—
+>
+> (i) may have committed a criminal offence; or
+>
+> (ii) may, in the course of a criminal investigation, have behaved in a manner which would justify disciplinary proceedings; and
+>
+> (b) is not the subject of a complaint,
+>
+> unless it appears to the Director that the Ombudsman is already aware of the matter.
+>
+> (4B) In subsection (4A) “criminal investigation” has the same meaning as in Part 2 of the Criminal Procedure and Investigations Act 1996 (c. 25).
+
+(4) In subsection (5) (power of Ombudsman to investigate matters referred under subsection (4)) after “(4)” insert “ , or (4A) ”.
+
+(5) In subsection (7) (duty on Ombudsman to notify outcome of criminal or disciplinary proceedings) omit “, the Director”.
+
+(6) In section 64(2A)(b) of the Police (Northern Ireland) Act 1998 (Ombudsman not to investigate matter referred under section 55(1), (2) or (4) if it took place more than the prescribed period before the date of referral) for “or (4)” substitute “ , (4) or (4A) ”.
+
+### 7 Influencing a prosecutor
+
+After section 32 of the 2002 Act insert—
+
+> **32A Influencing a prosecutor**
+>
+> (1) A person commits an offence if, with the intention of perverting the course of justice, he seeks to influence the Director, the Deputy Director or a Public Prosecutor in any decision as to whether to institute or continue criminal proceedings.
+>
+> (2) A person commits an offence if, with the intention of perverting the course of justice, he seeks to influence a barrister or solicitor to whom the Director has under section 36(2) assigned the institution or conduct of any criminal proceedings in any decision as to whether to institute or continue those proceedings.
+>
+> (3) A person guilty of an offence under this section is liable—
+>
+> (a) on summary conviction, to a fine not exceeding the statutory maximum or to imprisonment for a term not exceeding six months, or to both, and
+>
+> (b) on conviction on indictment, to imprisonment for a term not exceeding five years or to a fine, or to both.
+>
+> (4) Proceedings for an offence under this section shall not be instituted without the consent of the Director.
+
+## Criminal justice organisations
+
+### 8 Guidance for criminal justice organisations on human rights standards
+
+(1) The Attorney General for Northern Ireland shall issue, and as he thinks appropriate from time to time revise, guidance to organisations to which this section applies on the exercise of their functions in a manner consistent with international human rights standards relevant to the criminal justice system.
+
+[[^F4](1A) Before issuing or revising any guidance under this section, the Attorney General for Northern Ireland shall consult the Advocate General for Northern Ireland.]
+
+(2) In the exercise of its functions, such an organisation shall have regard to any guidance for the time being in operation under this section; but this does not affect the operation, in relation to any such organisation, of section 6 of the Human Rights Act 1998 (c. 42) (public authority not to act in a way incompatible with a Convention right).
+
+(3) Any guidance issued or revised under this section—
+
+(a) shall be published in such manner as the Attorney General for Northern Ireland thinks appropriate;
+
+(b) shall be laid before [[^F5]the Northern Ireland Assembly]; and
+
+(c) shall not come into operation until the Attorney General for Northern Ireland by order so provides.
+
+[[^F6](3A) Section 41(3) of the Interpretation Act (Northern Ireland) 1954 applies for the purposes of subsection (3)(b) in relation to the laying of any guidance as it applies in relation to the laying of a statutory document under an enactment.]
+
+(4) This section applies to the following organisations—
+
+(a) the Public Prosecution Service for Northern Ireland,
+
+(b) [^F7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(c) the Probation Board for Northern Ireland,
+
+(d) the Police Ombudsman for Northern Ireland,
+
+(e) the [[^F8]Department of Justice], but only in respect of [^F9]. . . —
+
+[[^F10](ai) the Department's functions mentioned in section 69(1) of the Judicature (Northern Ireland) Act 1978 [^M1] , ]
+
+(i) [[^F11]functions exercised by] the Northern Ireland Prison Service,
+
+(ii) [[^F11]functions exercised by] the Youth Justice Agency,
+
+(iii) [[^F11]functions exercised by] Forensic Science Northern Ireland,
+
+(iv) [[^F11]functions exercised by] the State Pathologist’s Department, or
+
+(v) [[^F11]functions exercised by] the Compensation Agency;
+
+[[^F12](f) the Police Service of Northern Ireland.]
+
+and accordingly references in this section to the functions of an organisation are, in the case of the [[^F8]Department of Justice], references to the functions mentioned in paragraph (e).
+
+(5) The Attorney General for Northern Ireland may by order amend subsection (4) by—
+
+(a) adding any organisation having a role in the criminal justice system in Northern Ireland (apart from a court or tribunal);
+
+(b) omitting an organisation; or
+
+(c) altering the description of an organisation;
+
+and an order under this subsection may make appropriate consequential amendments in this section or in any other enactment (whenever passed or made).
+
+[[^F13](5A) Before making an order under subsection (3)(c) or (5), the Attorney General for Northern Ireland shall consult the Advocate General for Northern Ireland.]
+
+(6) In section 52 of the Police (Northern Ireland) Act 2000 (c. 32) (code of ethics for police officers) after subsection (2) insert—
+
+> (2A) In revising the code the Chief Constable and the Board shall also have regard to any guidance for the time being in operation under section 8 of the Justice (Northern Ireland) Act 2004.
+
+(7) In section 37 of the 2002 Act (code of practice for prosecutors) after subsection (5) insert—
+
+> (5A) In preparing or making alterations to a code the Director must also have regard to any guidance for the time being in operation under section 8 of the Justice (Northern Ireland) Act 2004.
+
+(8) Nothing in this section requires the Public Prosecution Service for Northern Ireland to have regard to so much of any guidance for the time being in operation under this section as is inconsistent with a provision of a code of practice issued under section 37 of the 2002 Act.
+
+(9) In Schedule 7 to the 2002 Act (functions of Advocate General for Northern Ireland) after paragraph 7 insert—
+
+> **7A**
+>
+> In section 8 of the Justice (Northern Ireland) Act 2004 (guidance for criminal justice organisations on human rights standards)—
+>
+> (a) after subsection (1) insert—
+>
+> > (1A) Before issuing or revising any guidance under this section, the Attorney General for Northern Ireland shall consult the Advocate General for Northern Ireland.
+>
+> ;
+>
+> (b) after subsection (5) insert—
+>
+> > (5A) Before making an order under subsection (3)(c) or (5), the Attorney General for Northern Ireland shall consult the Advocate General for Northern Ireland.
+
+### 9 The Juvenile Justice Board
+
+(1) Section 46 of the 2002 Act (organisations subject to inspection by the Chief Inspector) is amended as set out in subsections (2) to (4) in consequence of the dissolution of the Juvenile Justice Board and the establishment of the Youth Justice Agency.
+
+(2) In subsection (1) for paragraph (g) substitute—
+
+> (g) the Youth Justice Agency;
+
+.
+
+(3) In subsection (1)(h) omit “(other than the Juvenile Justice Board)”.
+
+(4) In subsection (4) for “Juvenile Justice Board” substitute “ Youth Justice Agency ”.
+
+(5) The following provisions (which are spent or of no practical utility in consequence of the dissolution of the Juvenile Justice Board) shall cease to have effect—
+
+(a) the Malone and Whiteabbey Training Schools Act (Northern Ireland) 1956 (c. 4 (N. I.));
+
+(b) in the Criminal Justice (Children) (Northern Ireland) Order 1998 (S.I. 1998/1504 (N.I. 9))—
+
+(i) Article 56; and
+
+(ii) Article 57(2);
+
+(c) in Schedule 1 to the Commissioner for Children and Young People (Northern Ireland) Order 2003 (S.I. 2003/439 (N.I. 11)) in paragraph 13 the words “The Juvenile Justice Board and” and the word “other”.
+
+## Bail
+
+### 10 Prosecution right of appeal against grant of bail by magistrates' court
+
+(1) Where a magistrates' court grants bail to a person who is charged with, or convicted of, an offence punishable by imprisonment, the prosecution may appeal to the High Court against the granting of bail.
+
+[[^F14](1A) Where a magistrates' court grants bail to a person in connection with extradition proceedings, the prosecution may appeal to the High Court against the granting of bail.]
+
+(2) Subsection (1) applies only where the prosecution is conducted—
+
+(a) by or on behalf of the Director of Public Prosecutions, or
+
+(b) on behalf of the Police Service of Northern Ireland (whether by a member of that Service or any other person).
+
+(3) An appeal under subsection (1) [[^F15]or (1A)] may be made only if—
+
+(a) the prosecution made representations that bail should not be granted, and
+
+(b) the representations were made before it was granted.
+
+(4) Where the prosecution wishes to exercise the right of appeal under subsection (1) [[^F16]or (1A)], oral notice of appeal shall be given to [[^F17]the court which has granted bail] at the conclusion of the proceedings in which bail has been granted and before the release from custody of the person concerned.
+
+(5) Written notice of appeal shall thereafter be served on [[^F18]the court which has granted bail] and the person concerned within two hours of the conclusion of such proceedings.
+
+(6) On receipt from the prosecution of oral notice of appeal from its decision to grant bail, [[^F18]the court which has granted bail] shall remand in custody the person concerned, until the appeal is determined or otherwise disposed of.
+
+(7) Where the prosecution fails, within the period of two hours mentioned in subsection (5), to serve one or both of the notices required by that subsection, the appeal shall be deemed to have been disposed of.
+
+(8) The hearing of an appeal under subsection (1) [[^F19]or (1A)] against a decision of the [^F20]. . . court to grant bail shall be commenced within 48 hours, excluding weekends, Christmas Day, Good Friday and a bank holiday, from the time when oral notice of appeal is given.
+
+(9) An appeal by the prosecution under this section shall be by way of re-hearing, and on such an appeal the High Court may—
+
+(a) remand the person concerned in custody, or
+
+(b) grant bail subject to such conditions (if any) as it thinks fit.
+
+(10) No appeal lies against the decision of the High Court on an appeal under this section.
+
+(11) In relation to a person under the age of 21, the reference in subsection (1) to an offence punishable by imprisonment is to be read as a reference to an offence which would be so punishable in the case of a person over that age.
+
+[[^F21](12) In this section—
+
+- “extradition proceedings” means proceedings under the Extradition Act 2003;
+- “magistrates' court” and “court”, in relation to extradition proceedings, mean a resident magistrate designated in accordance with section 67 or section 139 of the Extradition Act 2003;
+- “prosecution”, in relation to extradition proceedings, means the person acting on behalf of the territory to which extradition is sought.]
+
+### 10A [[^F22]Prosecution right of appeal against grant of bail by county court judge in extradition proceedings
+
+(1) Section 10 applies to the granting of bail by a county court judge in extradition proceedings as it applies to the granting of bail by a magistrates' court in such proceedings; and references in that section to a magistrates' court shall be construed accordingly.
+
+(2) In this section “extradition proceedings” has the same meaning as in section 10.]
+
+### 11 Bail under section 67 of the Terrorism Act 2000
+
+[^F23]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 12 Bail to which Part II of the Criminal Justice (Northern Ireland) Order 2003 applies
+
+(1) Part II of the Criminal Justice (Northern Ireland) Order 2003 (S.I. 2003/1247 (N.I. 13)) (bail grantable otherwise than under section 67 of the Terrorism Act 2000 (c. 11)) is amended as set out in subsections (2) to (4).
+
+(2) In Article 4(2) (definition of “surrender to custody”) at the end add
+
+> or
+>
+> (c) into the custody of the governor of a prison at the time and place for the time being appointed for him to do so.
+
+(3) In Article 5 (offence of absconding by person released on bail) for paragraph (3) substitute—
+
+> (3) A person guilty of an offence paragraph (1) or (2) shall be liable—
+>
+> (a) on summary conviction, to imprisonment for a term not exceeding 12 months or to a fine not exceeding the statutory maximum or to both;
+>
+> (b) on conviction on indictment, to imprisonment for a term not exceeding 3 years or to a fine or to both.
+
+(4) In Article 6 of that Order (arrest for absconding or breaking conditions of bail)—
+
+(a) in paragraph (3) for “a duty to surrender to custody” substitute “ a duty to surrender into the custody of a court ”;
+
+(b) after paragraph (3) insert—
+
+> (3A) If, on an application made by a constable, a justice of the peace is satisfied that—
+>
+> (a) there are reasonable grounds for believing that a person who is liable to arrest under paragraph (3) is to be found on the premises specified in the application; and
+>
+> (b) any of the conditions specified in paragraph (3B) is satisfied,
+>
+> he may issue a warrant authorising a constable to enter those premises (if need be by force) and search them for the purpose of arresting that person.
+>
+> (3B) The conditions mentioned in paragraph (3A) are—
+>
+> (a) that it is not practicable to communicate with any person entitled to grant entry to the premises;
+>
+> (b) that entry to the premises will not be granted unless a warrant is produced;
+>
+> (c) that the purpose of a search of the premises may be frustrated or seriously prejudiced unless a constable arriving at the premises can secure immediate entry to them.
+
+; and
+
+(c) after paragraph (5) insert—
+
+> (5A) Paragraphs (4) and (5) do not require a person to be brought before a magistrates' court at any time when he is in hospital and is not well enough.
+
+(5) In Article 29(1) of the Magistrates' Courts (Northern Ireland) Order 1981 (S.I. 1981/1675 (N.I. 26)) (right to claim trial by jury for summary offence if maximum term of imprisonment exceeds six months, subject to specified exceptions) after sub-paragraph (g) add—
+
+> (h) Article 5(1) or (2) of the Criminal Justice (Northern Ireland) Order 2003 (absconding by person admitted to bail)
+
+.
+
+(6) Subsection (3) has no effect in relation to offences committed before it comes into force.
+
+## Transfer of prisoners
+
+### 13 Transfer of prisoners
+
+(1) Schedule 1 to the Crime (Sentences) Act 1997 (c. 43) (transfer of prisoners within the British Islands) is amended as follows.
+
+(2) In paragraph 1 (transfer of prisoners: general) after sub-paragraph (2) insert—
+
+> (2A) If it appears to the Secretary of State that—
+>
+> (a) a person remanded in custody in Northern Ireland in connection with an offence, or
+>
+> (b) a person serving a sentence of imprisonment in Northern Ireland;
+>
+> should be transferred to another part of the United Kingdom in the interests of maintaining security or good order in any prison in Northern Ireland, the Secretary of State may make an order for his transfer to that other part, there to be remanded in custody pending his trial or, as the case may be, to serve the whole or any part of the remainder of his sentence, and for his removal to an appropriate institution there.
+
+(3) In paragraph 5(1) (conditions of transfer) after “this Part” insert “ (other than a transfer under paragraph 1(2A)) ”.
+
+(4) After paragraph 5 insert—
+
+> **5A Conditions of transfer under paragraph 1(2A)**
+>
+> (1) A transfer under paragraph 1(2A) shall have effect subject to—
+>
+> (a) such a condition as is mentioned in paragraph 6(1)(a); and
+>
+> (b) such other conditions (if any) as the Secretary of State may think fit to impose.
+>
+> (2) Such a condition as is mentioned in paragraph 6(1)(a) shall not be varied or removed.
+>
+> (3) A condition imposed under sub-paragraph (1)(b) may be varied or removed at any time.
+
+(5) In paragraph 6—
+
+(a) in sub-paragraph (2)(a) after “1(1)(a) or (2)(a)” insert “ or (2A)(a) ”;
+
+(b) in sub-paragraph (2)(b) after “1(1)(b) or (2)(b)” insert “ or (2A)(b) ”.
+
+(6) In paragraph 12—
+
+(a) in sub-paragraph (1) after “1(1)(a)” insert “ or (2A)(a) ”;
+
+(b) in sub-paragraph (2) after “1(1)(b)” insert “ or (2A)(b) ”.
+
+(7) In paragraph 13—
+
+(a) in sub-paragraph (1) after “1(1)(a)” insert “ or (2A)(a) ”;
+
+(b) in sub-paragraph (2) after “1(1)(b)” insert “ or (2A)(b) ”.
+
+## Amendment of section 103 of Terrorism Act 2000
+
+### 14 Amendment of section 103 of Terrorism Act 2000
+
+In section 103 of the Terrorism Act 2000 (c. 11) (collection of information about certain persons) in subsection (2)(e) (full-time employee of the prison service in Northern Ireland) for “a full-time employee of” substitute “ employed in ”.
+
+## Arrest without warrant
+
+### 15 Arrest without warrant for offence of driving while disqualified
+
+[^F24]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Court security
+
+### 16 Court security
+
+Schedule 3 (which re-enacts with amendments sections 79 to 81 of the 2002 Act and makes further provision with respect to court security officers) shall have effect.
+
+## Right of barrister to enter into contract for the provision of his services
+
+### 17 Right of barrister to enter into contract for the provision of his services
+
+(1) Any rule of law which prevents a barrister from entering into a contract for the provision of his services as a barrister is abolished.
+
+(2) Nothing in subsection (1) prevents the General Council of the Bar of Northern Ireland from making rules (however described) which prohibit barristers from entering into contracts or restrict their right to do so.
+
+## Supplementary
+
+### 18 Repeals
+
+Schedule 4 contains repeals.
+
+### 19 Commencement
+
+(1) The preceding provisions of this Act (with the Schedules) shall not come into force until such day as the Secretary of State may by order appoint.
+
+(2) An order may appoint different days for different purposes.
+
+### 20 Interpretation
+
+In this Act—
+
+(a) “the 2002 Act” means the Justice (Northern Ireland) Act 2002 (c. 26), and
+
+(b) any word or expression defined in section 88 of that Act has the same meaning in this Act as in that Act.
+
+### 21 Statutory rules
+
+(1) Any power to make an order or regulations under this Act is exercisable by statutory rule for the purposes of the Statutory Rules (Northern Ireland) Order 1979 (S.I. 1979/1573 (N.I. 12)).
+
+(2) No order shall be made under section 8(5) unless a draft of the order has been laid before, and approved by a resolution of, [[^F25]the Northern Ireland Assembly].
+
+[[^F26](2A) Section 41(3) of the Interpretation Act (Northern Ireland) 1954 applies for the purposes of subsection (2) in relation to the laying of a draft as it applies in relation to the laying of a statutory document under an enactment.]
+
+(3) An order under section 8(3)(c) or 11(4) and regulations under paragraph 1(4) [[^F27], 5A(5)] or 6(1) of Schedule 3 shall be subject to [[^F28]negative resolution (within the meaning of section 41(6) of the Interpretation Act (Northern Ireland) 1954)].
+
+(4) An order or regulations made under this Act may include supplementary, incidental, transitional or consequential provisions.
+
+### 22 Extent
+
+(1) Subject as follows, this Act extends only to Northern Ireland.
+
+(2) Any amendment made by this Act has the same extent as the provision to which it relates.
+
+### 23 Short title
+
+This Act may be cited as the Justice (Northern Ireland) Act 2004.
+
+## SCHEDULE 1 — Transfer to Lord Chancellor of functions relating to Northern Ireland Judicial Appointments Commission
+
+*Section 1*
+
+**1** In section 2(2) of the 2002 Act for “First Minister and deputy First Minister, acting jointly,” substitute “ Lord Chancellor ”.
+
+**2** In section 3(2)(b) of the 2002 Act for “First Minister and deputy First Minister, acting jointly” substitute “ Lord Chancellor ”.
+
+**3** [^F29]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**4** (1) Section 90 of the 2002 Act is amended as follows.
+
+(2) Omit subsections (2) and (3).
+
+(3) In subsection (4) after “section” insert “ 2(2)(b), ”.
+
+(4) In subsection (5)(a) after “section” insert “ 2(2)(a) or (c), ”.
+
+**5** (1) Schedule 2 to the 2002 Act is amended as follows.
+
+(2) In paragraph 1(2) for “First Minister and deputy First Minister, acting jointly,” substitute “ Lord Chancellor ”.
+
+(3) In paragraph 1(3) for “Office of the First Minister and deputy First Minister” substitute “ Lord Chancellor ”.
+
+(4) In paragraph 2(3) for “Office of the First Minister and deputy First Minister” substitute “ Lord Chancellor ”.
+
+(5) In paragraph 2(4) for “First Minister and deputy First Minister, acting jointly,” substitute “ Lord Chancellor ”.
+
+(6) In paragraph 3 for “First Minister and deputy First Minister, acting jointly,” substitute “ Lord Chancellor ”.
+
+(7) In paragraph 4(1) for “First Minister and deputy First Minister” substitute “ Lord Chancellor ”.
+
+(8) For paragraph 4(3) substitute—
+
+> (3) Employment as a member of staff of the Commission is among the kinds of employment to which a superannuation scheme under section 1 of the Superannuation Act 1972 can apply: and, accordingly, in Schedule 1 to that Act (employments, etc, to which section 1 can apply), at the appropriate place in the list of “Royal Commissions and other Commissions” insert— “ Northern Ireland Judicial Appointments Commission ”.
+
+(9) In paragraph 5(5) for “Office of the First Minister and deputy First Minister” substitute “ Lord Chancellor ”.
+
+(10) In paragraph 5(6) for “First Minister and deputy First Minister, acting jointly, must lay before the Assembly” substitute “ Lord Chancellor must lay before each House of Parliament ” and for “their Office” substitute “ him ”.
+
+(11) In paragraph 5(7) for “the Assembly” substitute “ each House of Parliament ”.
+
+(12) In paragraph 6 for “First Minister and deputy First Minister, acting jointly,” substitute “ Lord Chancellor ”.
+
+(13) In paragraph 7(2) for “First Minister and deputy First Minister, acting jointly, direct” substitute “ Lord Chancellor directs ”.
+
+(14) For paragraph 7(3) and (4) substitute—
+
+> (3) The Commission must send copies of the statement of accounts relating to a financial year to—
+>
+> (a) the Lord Chancellor, and
+>
+> (b) the Comptroller and Auditor General,
+>
+> within such period after the end of the financial year as the Lord Chancellor directs.
+>
+> (4) The Comptroller and Auditor General must—
+>
+> (a) examine, certify and report on the statement of accounts, and
+>
+> (b) lay a copy of the statement of accounts and of his report on it before each House of Parliament.
+
+## [^F30][^F30]SCHEDULE 2
+
+### Offence of absconding by person admitted to bail
+
+**1** (1) If a person who has been admitted to bail fails without reasonable cause to surrender to custody, he shall be guilty of an offence.
+
+(2) If a person who—
+
+(a) has been admitted to bail, and
+
+(b) has, with reasonable cause, failed to surrender to custody,
+
+fails to surrender to custody at the appointed place as soon after the appointed time as is reasonably practicable, he shall be guilty of an offence.
+
+(3) A person guilty of an offence under sub-paragraph (1) or (2) shall be liable—
+
+(a) on summary conviction, to imprisonment for a term not exceeding 12 months or to a fine not exceeding the statutory maximum or to both;
+
+(b) on conviction on indictment, to imprisonment for a term not exceeding 3 years or to a fine or to both.
+
+(4) In Article 29(1) of the Magistrates' Courts (Northern Ireland) Order 1981 (S.I. 1981/1675 (N.I. 26)) (right to claim trial by jury for summary offence if maximum term of imprisonment exceeds six months, subject to specified exceptions) after sub-paragraph (h) (added by section 12(5)) add—
+
+> (i) paragraph 1(1) or (2) of Schedule 2 to the Justice (Northern Ireland) Act 2004 (absconding by person admitted to bail in respect of a scheduled offence).
+
+(5) In Part 1 of Schedule 9 to the Terrorism Act 2000 (c. 11) (scheduled offences) after paragraph 22 insert—
+
+> **Justice (Northern Ireland) Act 2004**
+>
+> **22A** Offences under paragraph 1(1) or (2) of Schedule 2 to the Justice (Northern Ireland) Act 2004 (absconding by persons admitted to bail in respect of a scheduled offence), subject to note 1 below.
+
+### Arrest for absconding or breaking conditions of bail
+
+**2** (1) This paragraph applies to a person who—
+
+(a) has been admitted to bail; and
+
+(b) is under a duty to surrender into the custody of a court.
+
+(2) If a person to whom this paragraph applies fails to surrender to custody at the time appointed for him to do so, the court may issue a warrant for his arrest.
+
+(3) If a person to whom this paragraph applies—
+
+(a) surrenders into the custody of a court; but
+
+(b) absents himself (otherwise than in accordance with permission given by or on behalf of the court) from the court at any time before the court is ready to begin or to resume the hearing of the proceedings,
+
+that court may issue a warrant for his arrest.
+
+(4) A constable may arrest without warrant any person to whom this paragraph applies—
+
+(a) if the constable has reasonable grounds for believing that that person is not likely to surrender to custody;
+
+(b) if the constable has reasonable grounds for believing that that person is likely to break any of the conditions of his bail or has reasonable grounds for suspecting that that person has broken any of those conditions; or
+
+(c) in a case where that person was admitted to bail with one or more surety or sureties, if a surety notifies a constable in writing that that person is unlikely to surrender to custody and that for that reason the surety wishes to be relieved of his obligations as a surety.
+
+(5) If, on an application made by a constable, a justice of the peace is satisfied that—
+
+(a) there are reasonable grounds for believing that a person who is liable to arrest under sub-paragraph (4) is to be found on premises specified in the application; and
+
+(b) any of the conditions specified in sub-paragraph (6) is satisfied, he may issue a warrant authorising a constable to enter those premises (if need be by force) and search them for the purpose of arresting that person.
+
+(6) The conditions mentioned in sub-paragraph (5) are—
+
+(a) that it is not practicable to communicate with any person entitled to grant entry to the premises;
+
+(b) that entry to the premises will not be granted unless a warrant is produced;
+
+(c) that the purpose of a search of the premises may be frustrated or seriously prejudiced unless a constable arriving at the premises can secure immediate entry to them.
+
+### Procedure where person arrested without warrant
+
+**3** (1) A person who is arrested under paragraph 2(4) shall be brought before a judge of the High Court or the Court of Appeal as soon as practicable after the arrest and in any event not later than—
+
+(a) the next day following the day on which he is arrested, or
+
+(b) if that day is a Sunday, Good Friday or Christmas Day, the next following day which is not one of those days.
+
+(2) Sub-paragraph (1) does not require a person to be brought before a judge at any time when that person is in hospital and is not well enough.
+
+(3) Where a person is brought before a judge under sub-paragraph (1), the judge—
+
+(a) if of the opinion that he—
+
+(i) is not likely to surrender to custody, or
+
+(ii) has broken or is likely to break any condition of his bail,
+
+may remand him in custody or commit him to custody (as the case may require) or, alternatively, may admit him to bail under and in accordance with section 67 of the Terrorism Act 2000 (c. 11) (subject to the same or to different conditions); and
+
+(b) if not of that opinion, shall admit him to bail subject to the same conditions (if any) as were originally imposed.
+
+(4) A person admitted to bail under sub-paragraph (3)(b) shall be treated for all purposes as having been admitted to bail under section 67 of the Terrorism Act 2000.
+
+### Procedure where offences certified as suitable for summary trial
+
+**4** (1) This paragraph applies where—
+
+(a) a person is admitted to bail; and
+
+(b) a certificate is issued under subsection (1)(b) of section 67 of the Terrorism Act 2000 (offences suitable for summary trial) in relation to the scheduled offence or (if he is charged with more than one such offence) all of the scheduled offences with which he is charged.
+
+(2) As regards any time after the issue of the certificate, that person shall be treated for all purposes as if—
+
+(a) he had been admitted to bail (within the meaning of Part II of the Criminal Justice (Northern Ireland) Order 2003 (S.I. 2003/1247 (N.I. 13)) by a magistrates' court, subject to the same conditions (if any) as those imposed under section 67 of the Terrorism Act 2000 (c. 11);
+
+(b) any warrant for his arrest issued under paragraph 2(2) or (3) had been a warrant issued under Article 6(1) or (2) of the Criminal Justice (Northern Ireland) Order 2003; and
+
+(c) (in a case where he has been arrested under paragraph 2(4)) he had been arrested under Article 6(3) of the Criminal Justice (Northern Ireland) Order 2003.
+
+### Application of this Schedule
+
+**5** This Schedule applies in relation to a person admitted to bail before, as well as after, it comes into force; but—
+
+(a) paragraphs 1 to 3 apply only in relation to an act or failure of that person which occurs after this Schedule comes into force; and
+
+(b) paragraph 4 applies only where the certificate mentioned in sub-paragraph (1)(b) of that paragraph is issued after this Schedule comes into force.
+
+## SCHEDULE 3 — Court security
+
+*Section 16*
+
+### Duty of [[^F31]Department of Justice] to ensure court security
+
+**1** (1) The [[^F32]Department of Justice] must take all reasonable steps to ensure the security of every relevant building and the safety of everyone who is there.
+
+(2) To comply with that duty the [[^F33]Department of Justice] must secure that there are provided at every relevant building an appropriate number of court security officers.
+
+(3) For the purposes of this Schedule the following are court security officers—
+
+(a) [[^F34]civil servants in the Department of Justice] designated by [[^F35]that Department] as court security officers, and
+
+(b) persons employed as court security officers in pursuance of arrangements made with their employers by the [[^F36]Department of Justice] under section 69 of the Judicature (Northern Ireland) Act 1978 (c. 23).
+
+(4) The [[^F37]Department of Justice] may by regulations make provision as to—
+
+(a) training courses to be completed by court security officers,
+
+(b) conditions to be met before a person may be designated or employed as a court security officer.
+
+(5) For the purposes of this Schedule a court security officer who is not readily identifiable as such (whether by means of his uniform or badge or otherwise) is not to be regarded as acting in the execution of his duty.
+
+(6) Subject to sub-paragraphs (7) and (8), in this Schedule “relevant building” means any building where—
+
+(a) the Court of Appeal, the High Court, the Crown Court, a county court, a coroner’s court or a magistrates' court sits,
+
+(b) a Commissioner within the meaning of the Social Security Administration (Northern Ireland) Act 1992 (c. 8) sits,
+
+(c) a Child Support Commissioner within the meaning of the Child Support (Northern Ireland) Order 1991 (S.I. 1991/2628 (N.I. 23)) sits,
+
+(d) the Master (Taxing Office) exercises any functions conferred by or under an enactment, or
+
+(e) the Master (Enforcement of Judgements) exercises any functions so conferred.
+
+(7) Where only part of a building is used for the sittings of an office-holder mentioned in sub-paragraph (6)(b) or (c), references to a relevant building are to so much of that building as is used for the purposes of, or in connection with, such sittings.
+
+(8) Where only part of a building is used for the exercise by an office-holder mentioned in sub-paragraph (6)(d) or (e) of the functions there mentioned, references to a relevant building are to so much of that building as is used for the purposes of, or in connection with, the exercise of those functions.
+
+### Powers of search
+
+**2** (1) A court security officer acting in the execution of his duty may search—
+
+(a) any person who is in, or seeking to enter, a relevant building, and
+
+(b) any article in the possession of such a person.
+
+(2) Sub-paragraph (1) does not authorise the officer to require a person to remove any of his clothing other than an outer coat, jacket, headgear, gloves or footwear.
+
+### Power to exclude, remove or restrain persons
+
+**3** (1) A court security officer acting in the execution of his duty may exclude or remove from a relevant building any person who refuses—
+
+(a) to permit a search under paragraph 2(1), or
+
+(b) to surrender any article in his possession when asked to do so under paragraph 4(1).
+
+(2) A court security officer acting in the execution of his duty may—
+
+(a) restrain any person who is in a relevant building, or
+
+(b) exclude or remove any person from a relevant building,
+
+if it is reasonably necessary to do so for one of the purposes given in sub-paragraph (3).
+
+(3) The purposes are—
+
+(a) enabling the business of any court or office-holder mentioned in paragraph 1(6) to be carried on without interference or delay,
+
+(b) maintaining order,
+
+(c) securing the safety of any person in the building.
+
+(4) The powers conferred by sub-paragraphs (1) and (2) include power to use reasonable force, where necessary.
+
+(5) In the execution of his duty in any relevant building, a court security officer must act in accordance with any general or specific instructions which have been given to him (whether orally or in writing) by a person in authority.
+
+(6) “Person in authority” means—
+
+(a) a judge, coroner or magistrate who is exercising any functions in the building,
+
+(b) a statutory officer (within the meaning of section 70 of the Judicature (Northern Ireland) Act 1978) who is exercising functions in the building,
+
+(c) an office-holder mentioned in paragraph 1(6)(b) or (c) who is exercising any functions in the building, or
+
+(d) any [[^F38]civil servant in the Department of Justice] authorised by [[^F39]that Department] to give the court security officer instructions.
+
+(7) Every court security officer is to be regarded as an officer of the court for the purposes of—
+
+(a) Article 55 of the County Courts (Northern Ireland) Order 1980 (S.I. 1980/397 (N.I. 3)),
+
+(b) section 34 of the Coroners Act (Northern Ireland) 1959 (c. 15 (N.I.)), and
+
+(c) Article 160 of the Magistrates' Courts (Northern Ireland) Order 1981 (S.I. 1981/1675 (N.I. 26)),
+
+(which provide for the detention by court officers, and punishment, of persons misbehaving in court).
+
+### Surrender and seizure of articles
+
+**4** (1) If a court security officer acting in the execution of his duty reasonably believes that an article in the possession of a person who is in, or seeking to enter, a relevant building ought to be surrendered on any of the grounds given in sub-paragraph (3), he may ask the person to surrender the article.
+
+(2) If the person refuses to surrender the article, the officer may seize it.
+
+(3) The grounds are that the article—
+
+(a) may jeopardise the maintenance of order in the building,
+
+(b) may put the safety of any person in the building at risk, or
+
+(c) may be evidence of, or in relation to, an offence.
+
+### Power to retain articles surrendered or seized
+
+**5** (1) Subject to sub-paragraph (2), a court security officer may retain an article which was—
+
+(a) surrendered in response to a request under paragraph 4(1), or
+
+(b) seized under paragraph 4(2),
+
+until the time when the person who surrendered it, or from whom it was seized, is leaving the relevant building.
+
+(2) If a court security officer reasonably believes that the article may be evidence of, or in relation to, an offence, he may retain it until—
+
+(a) the time when the person who surrendered it, or from whom it was seized, is leaving the relevant building, or
+
+(b) the end of the permitted period,
+
+whichever is later.
+
+(3) “The permitted period” means such period, not exceeding 24 hours from the time the article was surrendered or seized, as will enable the court security officer to draw the article to the attention of a constable.
+
+[[^F40](4) This paragraph is subject to paragraph 5A.]
+
+### [[^F41]Retention of knives surrendered or seized
+
+**5A** (1) This paragraph applies where a knife is surrendered to a court security officer in response to a request under paragraph 4(1) or seized by a court security officer under paragraph 4(2).
+
+(2) Paragraph 5 does not apply.
+
+(3) The knife must be retained in accordance with regulations under sub-paragraph (5), unless returned or disposed of in accordance with those regulations or regulations made under paragraph 6.
+
+(4) If a court security officer reasonably believes that a retained knife may be evidence of, or in relation to, an offence, nothing in sub-paragraph (3) prevents the officer retaining the knife for so long as necessary to enable the court security officer to draw it to the attention of a constable.
+
+(5) Without prejudice to the generality of paragraph 6, the [[^F42]Department of Justice] must by regulations make provision as to—
+
+(a) the procedure to be followed when a knife is retained under this paragraph;
+
+(b) the making of requests by eligible persons for the return of knives so retained;
+
+(c) the procedure to be followed when returning a knife pursuant to a request made in accordance with the regulations.
+
+(6) For the purposes of this paragraph—
+
+- “ eligible person ”, in relation to a knife retained under this paragraph, means—
+
+  - (a) the person who has surrendered the knife under paragraph 4(1) or from whom the knife has been seized under paragraph 4(2), or
+  - (b) any other person specified in regulations made under sub-paragraph (5);
+
+- “ knife ” includes—
+
+  - (a) a knife-blade, and
+  
+  - (b) any other article which—
+  
+    - (i) has a blade or which is sharply pointed, and
+    - (ii) is made or adapted for use for causing injury to the person.]
+
+### Regulations about retention of articles
+
+**6** (1) The [[^F43]Department of Justice] may by regulations make provision as to—
+
+(a) the provision to persons—
+
+(i) by whom articles have been surrendered in response to a request under paragraph 4(1), or
+
+(ii) from whom articles have been seized under paragraph 4(2),
+
+of written information about the powers of retention of court security officers,
+
+(b) the keeping of records about articles which have been so surrendered or seized,
+
+(c) the period for which unclaimed articles have to be kept, and
+
+(d) the disposal of unclaimed articles at the end of that period.
+
+(2) “Unclaimed article” means an article—
+
+(a) which has been retained under paragraph 5 [[^F44]or paragraph 5A],
+
+(b) which a person is entitled to have returned to him,
+
+(c) which has not been returned, and
+
+(d) whose return has not been requested by a person entitled to it.
+
+### Assaulting and obstructing court security officers
+
+**7** (1) A person who assaults a court security officer acting in the execution of his duty commits an offence.
+
+(2) A person guilty of an offence under sub-paragraph (1) is liable on summary conviction to—
+
+(a) a fine not exceeding level 5 on the standard scale, or
+
+(b) imprisonment for a term not exceeding six months,
+
+or to both.
+
+(3) A person who resists or intentionally obstructs a court security officer acting in the execution of his duty commits an offence.
+
+(4) A person guilty of an offence under sub-paragraph (3) is liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+### [[^F45]Powers of court security officers to extend to land on which relevant building stands
+
+**8** Any power of a court security officer exercisable in, or in relation to, the relevant building, is also exercisable in, or in relation to, any place within the boundary of the land on which the building stands; and references in this Schedule to a relevant building are to be construed accordingly]
+
+## SCHEDULE 4 — Repeals
+
+*Section 18*
+
+|  |  |
+|---|---|
+| *Short Title* | *Extent of repeal* |
+| Prisons Act (Northern Ireland) 1953 (c. 18 (N.I.)) | In section 26, paragraph (d) and the word “or” immediately before it. |
+| Malone and Whiteabbey Training Schools Act (Northern Ireland) 1956 (c. 4 (N.I.)) | The whole Act. |
+| Police (Northern Ireland) Act 1998 (c. 32) | In section 55 (1), the words “, the Director” (wherever they occur). In section 55(7) the words “, the Director”. |
+| Criminal Justice (Children) (Northern Ireland) Order 1998 (S.I. 1998/1504 (N.I. 9)) | Article 56. Article 57(2). |
+| Justice (Northern Ireland) Act 2002 (c. 26) | Section 34(4). In section 46(1)(h) the words “(other than the Juvenile Justice Board)”. Sections 79 to 81. Section 90(2) and (3). In Schedule 12, paragraph 75. |
+| Commissioner for Children and Young People (Northern Ireland) Order 2003 (S.I. 2003/439 (N.I. 11)) | In Schedule 1, in paragraph 13 the words “the Juvenile Justice Board and” and the word “other”. |
+| Criminal Justice (Northern Ireland) Order 2003 (S.I. 2003/1247 (N.I. 13)) | In Schedule 1, paragraph 3. |
+
+---
+
+[^F1]: S. 3 omitted (12.4.2010) by virtue of Northern Ireland Act 2009 (c. 3), ss. 2(4), 5(7), Sch. 5 para. 5; S.I. 2010/812, art. 2
+[^F2]: S. 4 omitted (12.4.2010) by virtue of Northern Ireland Act 2009 (c. 3), ss. 2(4), 5(7), Sch. 5 para. 5; S.I. 2010/812, art. 2
+[^F3]: S. 5 omitted (12.4.2010) by virtue of Northern Ireland Act 2009 (c. 3), ss. 2(4), 5(7), Sch. 5 para. 5; S.I. 2010/812, art. 2
+[^F4]: S. 8(1A) inserted (12.4.2010) by Justice (Northern Ireland) Act 2002 (c. 26), Sch. 7 para. 7A(a) (as inserted by Justice (Northern Ireland) Act 2004 (c. 4), ss. 8(9), 19; S.R. 2010/114, art. 2(a))
+[^F5]: Words in s. 8(3)(b) substituted (12.4.2010) by The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976), art. 1(2), 12, Sch. 14 para. 81(2) (with arts. 28-31)
+[^F6]: S. 8(3A) inserted (12.4.2010) by The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976), art. 1(2), 12, Sch. 14 para. 81(3) (with arts. 28-31)
+[^F7]: S. 8(4)(b) omitted (12.4.2010) by virtue of The Northern Ireland (Abolition and Transfer of Functions) Order (Northern Ireland) 2010 (S.I. 2010/133), art. 4, Sch. Pt. 1 para. 10(2) (with arts. 5-7)
+[^F8]: Words in s. 8(4) substituted (12.4.2010) by The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976), art. 1(2), 12, Sch. 14 para. 81(4)(a) (with arts. 28-31)
+[^F9]: Words in s. 8(4)(e) omitted (12.4.2010) by virtue of The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976), art. 1(2), 12, Sch. 14 para. 81(4)(b)(i) (with arts. 28-31)
+[^F10]: S. 8(4)(e)(ai) inserted (12.4.2010) by The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976), art. 1(2), 12, Sch. 14 para. 81(4)(b)(ii) (with arts. 28-31)
+[^M1]: 1978 c. 23.
+[^F11]: Words in s. 8(4)(e)(i)-(v) inserted (12.4.2010) by The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976), art. 1(2), 12, Sch. 14 para. 81(4)(b)(iii) (with arts. 28-31)
+[^F12]: S. 8(4)(f) inserted (17.3.2015) by The Justice (Northern Ireland) Act 2004 (Amendment of section 8(4)) Order (Northern Ireland) 2015 (S.R. 2015/168), arts. 1(2), 2(2)
+[^F13]: S. 8(5A) inserted (12.4.2010) by Justice (Northern Ireland) Act 2002 (c. 26), Sch. 7 para. 7A(b) (as inserted by Justice (Northern Ireland) Act 2004 (c. 4), ss. 8(9), 19; S.R. 2010/114, art. 2(a))
+[^F14]: S. 10(1A) inserted (15.1.2007) by Police and Justice Act 2006 (c. 48), ss. 42, 53, Sch. 13 para. 29(2); S.I. 2006/3364, art. 2(d)(e)
+[^F15]: Words in s. 10(3) inserted (15.1.2007) by Police and Justice Act 2006 (c. 48), ss. 42, 53, Sch. 13 para. 29(3); S.I. 2006/3364, art. 2(d)(e)
+[^F16]: Words in s. 10(4) inserted (15.1.2007) by Police and Justice Act 2006 (c. 48), ss. 42, 53, Sch. 13 para. 29(4)(a); S.I. 2006/3364, art. 2(d)(e)
+[^F17]: Words in s. 10(4) substituted (15.1.2007) by Police and Justice Act 2006 (c. 48), ss. 42, 53, Sch. 13 para. 29(4)(b); S.I. 2006/3364, art. 2(d)(e)
+[^F18]: Words in s. 10(5)(6) substituted (15.1.2007) by Police and Justice Act 2006 (c. 48), ss. 42, 53, Sch. 13 para. 29(5); S.I. 2006/3364, art. 2(d)(e)
+[^F19]: Words in s. 10(8) inserted (15.1.2007) by Police and Justice Act 2006 (c. 48), ss. 42, 53, Sch. 13 para. 29(6)(a); S.I. 2006/3364, art. 2(d)(e)
+[^F20]: Words in s. 10(8) omitted (15.1.2007) by virtue of Police and Justice Act 2006 (c. 48), ss. 42, 53, Sch. 13 para. 29(6)(b) ; S.I. 2006/3364, art. 2(d)(e) (and those words repealed (prosp.) by Sch. 15 Pt. 4 of that amending Act)
+[^F21]: S. 10(12) inserted (15.1.2007) by Police and Justice Act 2006 (c. 48), ss. 42, 53, Sch. 13 para. 29(7); S.I. 2006/3364, art. 2(d)(e)
+[^F22]: S. 10A inserted (15.1.2007) by Police and Justice Act 2006 (c. 48), ss. 42, 53, Sch. 13 para. 30; S.I. 2006/3364, art. 2(d)(e)
+[^F23]: S. 11 ceased to have effect (from the end of 31.7.2007) by virtue of Justice (Northern Ireland) Act 2004 (c. 4), s. 11(4)(a) (as amended by Terrorism (Northern Ireland) Act 2006 (c. 4), ss. 1(5), 5(3)) (with savings in S.I. 2007/2259, art. 4, Sch. para. 2)
+[^F24]: S. 15 repealed (1.3.2007) by The Police and Criminal Evidence (Amendment) (Northern Ireland) Order 2007 (S.I. 2007/288 (N.I. 2)), arts. 1(2), 41, Sch. 2 (and s. 15 expressed to be repealed (prosp.) by S.I. 2007/916 (N.I. 10), Sch. 8 Pt. 1)
+[^F25]: Words in s. 21(2) substituted (12.4.2010) by The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976), art. 1(2), 12, Sch. 14 para. 82(2) (with arts. 28-31)
+[^F26]: S. 21(2A) inserted (12.4.2010) by The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976), art. 1(2), 12, Sch. 14 para. 82(3) (with arts. 28-31)
+[^F27]: Words in s. 21(3) inserted (6.4.2010) by Coroners and Justice Act 2009, (c. 25), {ss. 147(5)}, 182(4)(c) (with s. 180, Sch. 22 para. 44(2)); S.I. 2010/816, art. 2, Sch. para. 10
+[^F28]: Words in s. 21(3) substituted (12.4.2010) by The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976), art. 1(2), 12, Sch. 14 para. 82(4) (with arts. 28-31)
+[^F29]: Sch. 1 para. 3 omitted (12.4.2010) by virtue of Northern Ireland Act 2009 (c. 3), ss. 2(4), 5(7), Sch. 5 para. 5; S.I. 2010/812, art. 2
+[^F30]: Sch. 2 ceased to have effect (from the end of 31.7.2007) by virtue of Justice (Northern Ireland) Act 2004 (c. 4), s. 11(4)(a) (as amended (18.2.2006) by Terrorism (Northern Ireland) Act 2006 (c. 4), ss. 1(5), 5(3)) (with savings in S.I. 2007/2259, art. 4, Sch. para. 2)
+[^F31]: Words in Sch. 3 para. 1 heading substituted (12.4.2010) by The Northern Ireland (Abolition and Transfer of Functions) Order (Northern Ireland) 2010 (S.I. 2010/133), art. 4, Sch. Pt. 1 para. 10(3)(a) (with arts. 5-7)
+[^F32]: Words in Sch. 3 para. I(1) substituted (12.4.2010) by The Northern Ireland (Abolition and Transfer of Functions) Order (Northern Ireland) 2010 (S.I. 2010/133), art. 4, Sch. Pt. 1 para. 10(3)(b)(i) (with arts. 5-7)
+[^F33]: Words in Sch. 3 para. I(2) substituted (12.4.2010) by The Northern Ireland (Abolition and Transfer of Functions) Order (Northern Ireland) 2010 (S.I. 2010/133), art. 4, Sch. Pt. 1 para. 10(3)(b)(ii) (with arts. 5-7)
+[^F34]: Words in Sch. 3 para. I(3)(a) substituted (12.4.2010) by The Northern Ireland (Abolition and Transfer of Functions) Order (Northern Ireland) 2010 (S.I. 2010/133), art. 4, Sch. Pt. 1 para. 10(3)(b)(iii) (with arts. 5-7)
+[^F35]: Words in Sch. 3 para. 1(3)(a) substituted (12.4.2010) by The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976), arts. 1(2), 15(5), Sch. 18 para. 71(2) (with arts. 28-31)
+[^F36]: Words in Sch. 3 para. I(3)(b) substituted (12.4.2010) by The Northern Ireland (Abolition and Transfer of Functions) Order (Northern Ireland) 2010 (S.I. 2010/133), art. 4, Sch. Pt. 1 para. 10(3)(b)(iv) (with arts. 5-7)
+[^F37]: Words in Sch. 3 para. 1(4) substituted (12.4.2010) by The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976), arts. 1(2), 15(5), Sch. 18 para. 71(3) (with arts. 28-31)
+[^F38]: Words in Sch. 3 para. 3(6)(d) substituted (12.4.2010) by The Northern Ireland (Abolition and Transfer of Functions) Order (Northern Ireland) 2010 (S.I. 2010/133), art. 4, Sch. Pt. 1 para. 10(3)(c) (with arts. 5-7)
+[^F39]: Words in Sch. 3 para. 3(6)(d) substituted (12.4.2010) by The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976), arts. 1(2), 15(5), Sch. 18 para. 71(4) (with arts. 28-31)
+[^F40]: Sch. 3 para. 5(4) added (6.4.2010) by Coroners and Justice Act 2009, (c. 25), {ss. 147(2)}, 182(4)(c) (with s. 180, Sch. 22 para. 44(2)); S.I. 2010/816, art. 2, Sch. para. 10
+[^F41]: Sch. 3 para. 5A inserted (6.4.2010) by Coroners and Justice Act 2009, (c. 25), {ss. 147(3)}, 182(4)(c) (with s. 180, Sch. 22 para. 44(2)); S.I. 2010/816, art. 2, Sch. para. 10
+[^F42]: Words in Sch. 3 para. 5A(5) substituted (12.4.2010) by The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976), arts. 1(2), 15(5), Sch. 18 para. 71(5) (with arts. 28-31)
+[^F43]: Words in Sch. 3 para. 6(1) substituted (12.4.2010) by The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976), arts. 1(2), 15(5), Sch. 18 para. 71(6) (with arts. 28-31)
+[^F44]: Words in Sch. 3 para. 6(2)(a) inserted (6.4.2010) by Coroners and Justice Act 2009, (c. 25), {ss. 147(4)}, 182(4)(c) (with s. 180, Sch. 22 para. 44(2)); S.I. 2010/816, art. 2, Sch. para. 10
+[^F45]: Sch. 3 para. 8 and preceding cross-heading inserted (30.9.2015) by Justice Act (Northern Ireland) 2015 (c. 9), ss. 95, 106(2) (with Sch. 8 para. 11); S.R. 2015/324, art. 3(b)

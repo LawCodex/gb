@@ -198,6 +198,8 @@ class Doc:
         return self.inline(c)
 
     def clean(self, s):
+        # markup leaked into the source text as literal characters (seen in a few documents)
+        s = re.sub(r'(?:&lt;)?CommentaryRef Ref="[^"]*"/>', "", s)
         s = re.sub(r" {2,}", " ", s).strip()
         return s
 

@@ -1,0 +1,1019 @@
+---
+title: "Public Processions (Northern Ireland) Act 1998"
+identifier: "ukpga/1998/2"
+citation: "1998 c. 2"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S+N.I."
+date: 1998-02-16
+last_amended: 2016-03-07
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/1998/2"
+source_modified: 2017-11-03
+retrieved: 2026-10-11
+---
+
+# Public Processions (Northern Ireland) Act 1998
+
+**1998 c. 2**
+
+An Act to amend the law relating to public processions in Northern Ireland; to provide for the establishment and functions of the Parades Commission for Northern Ireland; and for connected purposes.
+
+[16th February 1998]
+
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## The Commission
+
+### 1 The Commission.
+
+(1) There shall be established a body to be known as the Parades Commission for Northern Ireland (in this Act referred to as “the Commission”).
+
+(2) Schedule 1 has effect in relation to the Commission.
+
+### 2 Functions of the Commission.
+
+(1) It shall be the duty of the Commission—
+
+(a) to promote greater understanding by the general public of issues concerning public processions;
+
+(b) to promote and facilitate mediation as a means of resolving disputes concerning public processions;
+
+(c) to keep itself generally informed as to the conduct of public processions and protest meetings;
+
+(d) to keep under review, and make such recommendations as it thinks fit to the Secretary of State concerning, the operation of this Act.
+
+(2) The Commission may in accordance with the following provisions of this Act—
+
+(a) facilitate mediation between parties to particular disputes concerning proposed public processions and take such other steps as appear to the Commission to be appropriate for resolving such disputes;
+
+(b) issue determinations in respect of particular proposed public processions [[^F1]and protest meetings][^F1].
+
+(3) For the purposes of its functions under this section, the Commission may, with the approval of the Secretary of State—
+
+(a) provide financial or other assistance to any person or body on such terms and conditions as the Commission may determine;
+
+(b) commission research.
+
+### 3 Code of Conduct.
+
+(1) The Commission shall issue a code (in this Act referred to as “the Code of Conduct”)—
+
+(a) providing guidance to persons organising a public procession or protest meeting; and
+
+[[^F2](b) regulating the conduct of persons—
+
+(i) organising, taking part in or supporting a public procession; or
+
+(ii) organising or taking part in a protest meeting.]
+
+[^F2]2 The Commission—
+
+(a) shall keep the Code of Conduct under review; and
+
+(b) may from time to time revise the whole or any part of the Code of Conduct and issue the revised Code of Conduct.
+
+(3) Schedule 2 has effect in relation to the Code of Conduct.
+
+### 4 Procedural rules.
+
+(1) The Commission shall issue a set of rules (in this Act referred to as “the procedural rules”) for the purpose of regulating and prescribing the practice and procedure to be followed—
+
+(a) by the Commission in exercising the functions mentioned in section 2(2); and
+
+(b) by other persons or bodies in their dealings with the Commission in connection with the exercise of those functions.
+
+(2) In particular (but without prejudice to the generality of subsection (1)) the procedural rules may—
+
+(a) provide for the determination by the Commission of the particular cases in relation to which the functions mentioned in section 2(2) are to be exercised;
+
+(b) prescribe the manner in which, and the time within which, specified actions may or must be taken (whether by the Commission or by other persons or bodies) for the purposes of the exercise by the Commission of those functions;
+
+(c) require notice of specified determinations of the Commission made in the exercise of those functions to be published in such form and manner as may be specified.
+
+(3) In subsection (2) “specified” means specified in the procedural rules.
+
+(4) The Commission—
+
+(a) shall keep the procedural rules under review; and
+
+(b) may from time to time revise the whole or any part of the procedural rules and issue the revised procedural rules.
+
+(5) Schedule 2 has effect in relation to the procedural rules.
+
+### 5 Guidelines.
+
+(1) The Commission shall issue a set of guidelines (in this Act referred to as “the guidelines”) as to the exercise by the Commission of its functions under [[^F3]sections 8 and 9A][^F3].
+
+(2) The Commission—
+
+(a) shall keep the guidelines under review; and
+
+(b) may from time to time revise the whole or any part of the guidelines and issue the revised guidelines.
+
+(3) Schedule 2 has effect in relation to the guidelines.
+
+## Advance notice of public processions and related protest meetings
+
+### 6 Advance notice of public processions.
+
+(1) A person proposing to organise a public procession shall give notice of that proposal in accordance with subsections [[^F4](1A) to (4A)] [^F5]....
+
+[[^F6](1A) Notice under this section shall be—
+
+(a) left with a member of the Police Service of Northern Ireland not below the rank of sergeant at the police station nearest to the proposed starting place of the procession; or
+
+(b) sent to the Police Service of Northern Ireland by permitted electronic means (see section 7A).]
+
+(2) Notice under this section shall be given—
+
+(a) not less than 28 days before the date on which the procession is to be held; or
+
+(b) if that is not reasonably practicable, as soon as it is reasonably practicable to give such notice.
+
+(3) Notice under this section shall—
+
+(a) be given in writing in such form as may be prescribed by regulations made by the Secretary of State; and
+
+(b) be signed by the person giving the notice.
+
+(4) The form prescribed under subsection (3)(a) shall require a person giving notice under this section to specify—
+
+(a) the date and time when the procession is to be held;
+
+(b) its route;
+
+(c) the number of persons likely to take part in [[^F7]or support] it;
+
+(d) the names of any bands which are to take part in it;
+
+(e) the arrangements for its control being made by the person proposing to organise it;
+
+(f) the name and address of that person;
+
+(g) where the notice is given as mentioned in paragraph (b) of subsection (2), the reason why it was not reasonably practicable to give notice in accordance with paragraph (a) of that subsection; and
+
+(h) such other matters as appear to the Secretary of State to be necessary for, or appropriate for facilitating, the exercise by the Commission, the Secretary of State or members of the Royal Ulster Constabulary of any function in relation to the procession.
+
+[[^F8](4A) Where notice is sent by permitted electronic means, the signature required by subsection (3)(b) is a permitted electronic signature (see section 7A).]
+
+(5) This section does not apply where the procession is—
+
+(a) a funeral procession; or
+
+(b) a procession of a class or description specified in an order made by the Secretary of State.
+
+(6) The Chief Constable shall ensure that a copy of a notice given under this section is immediately sent to the Commission.
+
+(7) A person who organises or takes part in a public procession—
+
+(a) in respect of which the requirements of this section as to notice have not been satisfied; or
+
+(b) which is held on a date, at a time or along a route which differs from the date, time or route specified in relation to it in the notice given under this section,
+
+shall be guilty of an offence.
+
+(8) In proceedings for an offence under subsection (7) it is a defence for the accused to prove that he did not know of, and neither suspected nor had reason to suspect, the failure to satisfy the requirements of this section or (as the case may be) the difference of date, time or route.
+
+(9) To the extent that an alleged offence under subsection (7) turns on a difference of date, time or route it is a defence for the accused to prove that the difference arose from—
+
+(a) circumstances beyond his control;
+
+(b) something done in compliance with conditions imposed under section 8; or
+
+(c) something done with the agreement of a member of the Royal Ulster Constabulary not below the rank of inspector or by his direction.
+
+(10) A person guilty of an offence under subsection (7) shall be liable on summary conviction to imprisonment for a term not exceeding 6 months or to a fine not exceeding level 5 on the standard scale, or to both.
+
+### 7 Advance notice of protest meetings related to public processions.
+
+(1) Where notice has been given under section 6 in relation to a public procession, a person proposing to organise a related protest meeting shall give notice of that proposal in accordance with subsections [[^F9](1A) to (4A)] [^F10]....
+
+[[^F11](1A) Notice under this section shall be—
+
+(a) left with a member of the Police Service of Northern Ireland not below the rank of sergeant at the police station nearest to the place at which the meeting is to be held; or
+
+(b) sent to the Police Service of Northern Ireland by permitted electronic means (see section 7A).]
+
+(2) Notice under this section shall be given—
+
+(a) not later than 14 days before the date on which the meeting is to be held; or
+
+(b) if that is not reasonably practicable, as soon as it is reasonably practicable to give such notice.
+
+(3) Notice under this section shall—
+
+(a) be given in writing in such form as may be prescribed by regulations made by the Secretary of State; and
+
+(b) be signed by the person giving the notice.
+
+(4) The form prescribed under subsection (3)(a) shall require a person giving notice under this section to specify—
+
+(a) the date and time when the meeting is to be held;
+
+(b) the place at which it is to be held;
+
+(c) the number of persons likely to take part in it;
+
+(d) the arrangements for its control being made by the person proposing to organise it;
+
+(e) the name and address of that person;
+
+(f) where the notice is given as mentioned in paragraph (b) of subsection (2), the reason why it was not reasonably practicable to give notice in accordance with paragraph (a) of that subsection; and
+
+(g) such other matters as appear to the Secretary of State to be necessary for, or appropriate for facilitating, the exercise by the Secretary of State or members of the Royal Ulster Constabulary of any function in relation to the meeting.
+
+[[^F12](4A) Where notice is sent by permitted electronic means, the signature required by subsection (3)(b) is a permitted electronic signature (see section 7A).]
+
+(5) The Chief Constable shall ensure that a copy of a notice given under this section is immediately sent to the Commission.
+
+(6) A person who organises or takes part in a protest meeting—
+
+(a) in respect of which the requirements of this section as to notice have not been satisfied; or
+
+(b) which is held on a date or at a time or place which differs from the date, time or place specified in relation to it in the notice given under this section,
+
+shall be guilty of an offence.
+
+(7) In proceedings for an offence under subsection (6) it is a defence for the accused to prove that he did not know of, and neither suspected nor had reason to suspect, the failure to satisfy the requirements of this section or (as the case may be) the difference of date, time or place.
+
+(8) To the extent that an alleged offence under subsection (6) turns on a difference of date, time or place it is a defence for the accused to prove that the difference arose from—
+
+(a) circumstances beyond his control;
+
+(b) something done in compliance with conditions imposed under [[^F13]section 9A]; or
+
+(c) something done with the agreement of a member of the Royal Ulster Constabulary not below the rank of inspector or by his direction.
+
+(9) A person guilty of an offence under subsection (6) shall be liable on summary conviction to imprisonment for a term not exceeding 6 months or to a fine not exceeding level 5 on the standard scale, or to both.
+
+### 7A [[^F14]Meaning of “permitted electronic means” and “permitted electronic signature”
+
+(1) A notice is sent by “permitted electronic means” for the purposes of sections 6 and 7 if—
+
+(a) it is sent by a specified form of electronic communication (within the meaning of the Electronic Communications Act 2000) and in accordance with specified requirements; and
+
+(b) receipt of the notice is acknowledged in a specified manner.
+
+(2) For the purposes of sections 6 and 7, a “permitted electronic signature” is an electronic signature (within the meaning of section 7(2) of the Electronic Communications Act 2000) which complies with such conditions or requirements as may be specified.
+
+(3) In subsections (1) and (2), “specified” means specified in a direction given by the Secretary of State.
+
+(4) A direction under this section may be varied or revoked by a subsequent direction.
+
+(5) Before giving or varying a direction under this section, the Secretary of State must consult—
+
+(a) the Chief Constable;
+
+(b) the Commission; and
+
+(c) such other persons as the Secretary of State is satisfied should be consulted.
+
+(6) The Secretary of State must publish a direction under this section.]
+
+## The Commission’s powers to impose conditions on public processions
+
+### 8 The Commission’s powers to impose conditions on public processions.
+
+(1) The Commission may issue a determination in respect of a proposed public procession imposing on the persons organising or taking part in it [[^F15]or on any persons supporting it][^F15] such conditions as the Commission considers necessary.
+
+(2) Without prejudice to the generality of subsection (1), the conditions imposed under that subsection may include conditions as to the route of the procession or prohibiting it from entering any place.
+
+(3) Conditions imposed under subsection (1) may incorporate or be framed by reference to—
+
+(a) the Code of Conduct; or
+
+(b) any other document—
+
+(i) prepared by the person or body organising the procession in question; and
+
+(ii) approved by the Commission for the purposes of this section.
+
+(4) The Commission may, in accordance with the procedural rules, amend or revoke any determination issued under this section.
+
+(5) In considering in any particular case—
+
+(a) whether to issue a determination under this section;
+
+(b) whether to amend or revoke a determination issued under this section; or
+
+(c) what conditions should be imposed by a determination (or amended determination) issued under this section,
+
+the Commission shall have regard to the guidelines.
+
+(6) The guidelines shall in particular (but without prejudice to the generality of section 5(1)) provide for the Commission to have regard to—
+
+(a) any public disorder or damage to property which may result from the procession;
+
+(b) any disruption to the life of the community which the procession may cause;
+
+(c) any impact which the procession may have on relationships within the community;
+
+(d) any failure of a person of a description specified in the guidelines to comply with the Code of Conduct (whether in relation to the procession in question or any related protest meeting or in relation to any previous procession or protest meeting); and
+
+(e) the desirability of allowing a procession customarily held along a particular route to be held along that route.
+
+(7) A person who knowingly fails to comply with a condition imposed under this section shall be guilty of an offence, but it is a defence for him to prove that the failure arose—
+
+(a) from circumstances beyond his control; or
+
+(b) from something done by direction of a member of the Royal Ulster Constabulary not below the rank of inspector.
+
+(8) A person who incites another to commit an offence under subsection (7) shall be guilty of an offence.
+
+(9) A person guilty of an offence under subsection (7) or (8) shall be liable on summary conviction to imprisonment for a term not exceeding 6 months or to a fine not exceeding level 5 on the standard scale, or to both.
+
+### 9 Review by Secretary of State of determination of Commission under section 8.
+
+(1) The Secretary of State shall, on an application made by the Chief Constable, review a determination issued by the Commission under section 8.
+
+(2) On a review of a determination under this section the Secretary of State may—
+
+(a) revoke the determination;
+
+(b) amend the determination by amending or revoking any condition imposed by the determination or by adding any new condition; or
+
+(c) confirm the determination.
+
+(3) In considering in any particular case—
+
+(a) whether to revoke, amend or confirm a determination; or
+
+(b) what amendments should be made to a determination,
+
+the Secretary of State shall have regard to the guidelines.
+
+(4) Wherever practicable the Secretary of State shall before revoking, amending or confirming a determination under this section consult the Commission; but nothing in this subsection shall affect the validity of any revocation, amendment or confirmation under this section.
+
+(5) A determination of the Commission which is amended by the Secretary of State under this section shall be treated for the purposes of this Act (except section 8(4)) as if it had been issued by the Commission as so amended.
+
+(6) Where a determination of the Commission in relation to a public procession has been revoked by the Secretary of State under this section, the Commission shall not issue any further determination under section 8 in relation to that procession.
+
+(7) The Secretary of State shall immediately notify the Commission where any determination of the Commission is revoked, amended or confirmed under this section.
+
+## [[^F16]The Commission's powers to impose conditions on protest meetings
+
+### 9A The Commission's powers to impose conditions on public protests
+
+(1) The Commission may issue a determination in respect of a proposed protest meeting imposing on the persons organising or taking part in it such conditions as the Commission considers necessary.
+
+(2) Without prejudice to the generality of subsection (1), the conditions imposed under that subsection may include conditions as to the place at which the meeting may be held, its maximum duration, or the maximum number of persons who may constitute it.
+
+(3) Conditions imposed under subsection (1) may incorporate or be framed by reference to—
+
+(a) the Code of Conduct; or
+
+(b) any other document—
+
+(i) prepared by the person or body organising the protest meeting in question; and
+
+(ii) approved by the Commission for the purposes of this section.
+
+(4) The Commission may, in accordance with the procedural rules, amend or revoke any determination issued under this section.
+
+(5) In considering in any particular case—
+
+(a) whether to issue a determination under this section;
+
+(b) whether to amend or revoke a determination issued under this section; or
+
+(c) what conditions should be imposed by a determination (or amended determination) issued under this section,
+
+the Commission shall have regard to the guidelines.
+
+(6) The guidelines shall in particular (but without prejudice to the generality of section 5(1)) provide for the Commission to have regard to—
+
+(a) any public disorder or damage to property which may result from the protest meeting;
+
+(b) any disruption to the life of the community which the meeting may cause;
+
+(c) any impact which the meeting may have on relationships within the community; and
+
+(d) any failure of a person of a description specified in the guidelines to comply with the Code of Conduct (whether in relation to the meeting in question or the procession to which it relates or in relation to any previous protest meeting or procession).
+
+(7) A person who knowingly fails to comply with a condition imposed under this section shall be guilty of an offence, but it is a defence for him to prove that the failure arose—
+
+(a) from circumstances beyond his control; or
+
+(b) from something done by direction of a member of the Police Service of Northern Ireland not below the rank of inspector.
+
+(8) A person who incites another to commit an offence under subsection (7) shall be guilty of an offence.
+
+(9) A person guilty of an offence under subsection (7) or (8) shall be liable on summary conviction to imprisonment for a term not exceeding 6 months or to a fine not exceeding level 5 on the standard scale, or to both.
+
+### 9B Review by Secretary of State of determination of Commission under section 9A
+
+(1) The Secretary of State shall, on an application made by the Chief Constable, review a determination issued by the Commission under section 9A.
+
+(2) Subsections (2) to (4) and (7) of section 9 apply in relation to a review under this section as they apply in relation to a review under section 9.
+
+(3) A determination of the Commission which is amended by the Secretary of State under this section shall be treated for the purposes of this Act (except section 9A(4)) as if it had been issued by the Commission as so amended.
+
+(4) Where a determination of the Commission in relation to a protest meeting has been revoked by the Secretary of State under this section, the Commission shall not issue any further determination under section 9A in relation to that meeting.
+
+### [^X1]10 Saving for powers of a constable.
+
+Nothing in [[^F17]sections 8 to 9B][^F17] or in any determination of the Commission affects the common law powers of a constable to take action to deal with or prevent a breach of the peace.]
+
+## Secretary of State’s powers to prohibit public processions
+
+### 11 Secretary of State’s powers to prohibit public processions.
+
+(1) If, in the case of any proposed public procession, the Secretary of State is of the opinion that, having regard to—
+
+(a) any serious public disorder or serious damage to property which may result from the procession;
+
+(b) any serious disruption to the life of the community which the procession may cause;
+
+(c) any serious impact which the procession may have on relationships within the community; and
+
+(d) any undue demands which the procession may cause to be made on the police or military forces,
+
+it is necessary in the public interest to do so, he may by order prohibit the holding of that procession.
+
+(2) If, in relation to any area and any period of time not exceeding 28 days, the Secretary of State is of the opinion that, having regard to—
+
+(a) any serious public disorder or serious damage to property which may result from public processions of a particular class or description in that area in that period;
+
+(b) any serious disruption to the life of the community which such processions may cause;
+
+(c) any serious impact which such processions may have on relationships within the community;
+
+(d) any undue demands which such processions may cause to be made on the police or military forces; and
+
+(e) the extent of the powers exercisable under subsection (1),
+
+it is necessary in the public interest to do so, he may by order prohibit the holding of all public processions of that class or description in that area in that period.
+
+(3) If, in relation to any area and any period of time not exceeding 28 days, the Secretary of State is of the opinion that, having regard to—
+
+(a) any serious public disorder or serious damage to property which may result from public processions in that area in that period;
+
+(b) any serious disruption to the life of the community which such processions may cause;
+
+(c) any serious impact which such processions may have on relationships within the community;
+
+(d) any undue demands which such processions may cause to be made on the police or military forces; and
+
+(e) the extent of the powers exercisable under subsections (1) and (2),
+
+it is necessary in the public interest to do so, he may by order prohibit the holding of all public processions in that area in that period.
+
+(4) An order under subsection (2) or (3) may exempt any procession, or any procession of any class or description, specified in the order.
+
+(5) Wherever practicable the Secretary of State shall before making an order under this section consult—
+
+(a) the Commission; and
+
+(b) the Chief Constable,
+
+but nothing in this subsection shall affect the validity of any such order.
+
+(6) The power to make an order under this section includes power to revoke or amend any such order.
+
+(7) An order made under subsection (1) in relation to a public procession has effect to revoke any previous determination made by the Commission under section 8 in relation to that procession, and an order made under subsection (2) or (3) has effect to revoke any previous determination made by the Commission under that section in relation to any public procession the holding of which is prohibited by the order.
+
+(8) A person who organises or takes part in a public procession the holding of which he knows is prohibited by an order under this section shall be guilty of an offence.
+
+(9) A person guilty of an offence under subsection (8) shall be liable on summary conviction to imprisonment for a term not exceeding 6 months or to a fine not exceeding level 5 on the standard scale, or to both.
+
+## [[^F18]Secretary of State's powers to prohibit protest meetings
+
+### 11A Secretary of State's powers to prohibit protest meetings
+
+(1) If, in the case of any proposed protest meeting, the Secretary of State is of the opinion that, having regard to—
+
+(a) any serious public disorder or serious damage to property which may result from the meeting;
+
+(b) any serious disruption to the life of the community which the meeting may cause;
+
+(c) any serious impact which the meeting may have on relationships within the community; and
+
+(d) any undue demands which the meeting may cause to be made on the police or military forces,
+
+it is necessary in the public interest to do so, he may by order prohibit the holding of that meeting.
+
+(2) If, in relation to any area and any period of time not exceeding 28 days, the Secretary of State is of the opinion that, having regard to—
+
+(a) any serious public disorder or serious damage to property which may result from protest meetings in that area in that period;
+
+(b) any serious disruption to the life of the community which such meetings may cause;
+
+(c) any serious impact which such meetings may have on relationships within the community;
+
+(d) any undue demands which such meetings may cause to be made on the police or military forces; and
+
+(e) the extent of the power exercisable under subsection (1),
+
+it is necessary in the public interest to do so, he may by order prohibit the holding of all protest meetings in that area in that period.
+
+(3) An order under subsection (2) may exempt any meeting, or any meeting of any class or description, specified in the order.
+
+(4) Wherever practicable the Secretary of State shall before making an order under this section consult—
+
+(a) the Commission; and
+
+(b) the Chief Constable,
+
+but nothing in this subsection shall affect the validity of any such order.
+
+(5) The power to make an order under this section includes power to revoke or amend any such order.
+
+(6) An order made under subsection (1) in relation to a protest meeting has effect to revoke any previous determination made by the Commission under section 9A in relation to that meeting, and an order made under subsection (2) has effect to revoke any previous determination made by the Commission under that section in relation to any protest meeting the holding of which is prohibited by the order.
+
+(7) A person who organises or takes part in a protest meeting the holding of which he knows is prohibited by an order under this section shall be guilty of an offence.
+
+(8) A person guilty of an offence under subsection (7) shall be liable on summary conviction to imprisonment for a term not exceeding 6 months or to a fine not exceeding level 5 on the standard scale, or to both.]
+
+## General regulation of public processions
+
+### 12 Registration of bands taking part in public processions.
+
+(1) The Secretary of State may by order provide for the registration of bands.
+
+(2) Without prejudice to the generality of subsection (1), an order under that subsection may provide for—
+
+(a) applications for registration or the renewal of registration to be made to such court or other body or person as may be specified in the order;
+
+(b) the procedure for the making and hearing of such applications (including the making and hearing of objections);
+
+(c) the grounds on which such applications may be refused;
+
+(d) the issue and duration of certificates of registration;
+
+(e) appeals against decisions made in relation to such applications;
+
+(f) the cancellation of registration and the procedure in relation thereto;
+
+(g) registration to be subject to such conditions as may be specified in or determined under the order;
+
+(h) the order not to apply to such bands or bands of such descriptions as may be specified in or determined under the order;
+
+(i) such other matters as appear to the Secretary of State to be necessary or expedient for the proper functioning of the system of registration provided for by the order.
+
+(3) Any power to make rules of court regulating the practice or procedure of a court specified as mentioned in subsection (2)(a) includes power to make such provision as may be necessary or expedient for carrying into effect the provisions of an order under subsection (1).
+
+(4) A person who knowingly takes part in a public procession as a member of a band which—
+
+(a) is one to which an order under subsection (1) applies, but is not registered under that order; or
+
+(b) does not comply with any condition subject to which it is registered under such an order,
+
+shall be guilty of an offence.
+
+(5) A person guilty of an offence under subsection (4) shall be liable on summary conviction to imprisonment for a term not exceeding 6 months or to a fine not exceeding level 5 on the standard scale, or to both.
+
+### 13 Control of alcohol at public processions.
+
+(1) Where a constable in uniform reasonably suspects that a person to whom this subsection applies is consuming intoxicating liquor, the constable may require that person—
+
+(a) to surrender anything in his possession which is, or which the constable reasonably believes to be, intoxicating liquor; and
+
+(b) to state his name and address.
+
+(2) Subsection (1) applies to a person—
+
+(a) who is taking part in a public procession; or
+
+(b) who is among those who have assembled with a view to taking part in a public procession; or
+
+(c) who—
+
+(i) is otherwise present at, or is in the vicinity of, a place on the route or proposed route of a public procession; and
+
+(ii) is in a public place, other than licensed premises.
+
+(3) Where a constable in uniform reasonably suspects that a person to whom this subsection applies is in possession of intoxicating liquor, the constable may require that person—
+
+(a) to surrender anything in his possession which is, or which the constable reasonably believes to be, intoxicating liquor; and
+
+(b) to state his name and address.
+
+(4) Subsection (3) applies to a person who is in a passenger vehicle which is being used for the principal purpose of carrying passengers for the whole or any part of a journey to a place in the vicinity of the route or proposed route of a public procession.
+
+(5) A constable may dispose of anything surrendered to him under this section in such manner as he considers appropriate.
+
+(6) A person who fails without reasonable cause to comply with a requirement imposed on him under subsection (1) or (3) shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 2 on the standard scale.
+
+(7) A constable who imposes a requirement on a person under subsection (1) or (3) shall inform that person of his suspicion and that failing without reasonable cause to comply with a requirement imposed under that subsection is an offence.
+
+(8) A constable in uniform may—
+
+(a) stop a passenger vehicle; and
+
+(b) search the vehicle and any person in the vehicle,
+
+if he has reasonable grounds to suspect that intoxicating liquor is being carried on the vehicle and that the vehicle is being used for the principal purpose mentioned in subsection (4).
+
+(9) The powers of a constable under this section may only be exercised in relation to a particular public procession in the period—
+
+(a) beginning 6 hours before the proposed starting time of that procession; and
+
+(b) ending at midnight on the day on which the persons taking part in the procession disperse.
+
+(10) Where a proposed public procession does not take place but persons have assembled with a view to taking part in the procession, subsection (9) shall have effect as if for the reference in paragraph (b) to the persons taking part in the procession there were substituted reference to the persons assembled with a view to taking part in the procession.
+
+### 14 Breaking up public procession.
+
+(1) A person who for the purpose of preventing or hindering any lawful public procession [[^F19]or protest meeting][^F19] or of annoying persons taking part in or endeavouring to take part in any such procession [[^F19]or protest meeting][^F19]—
+
+(a) hinders, molests or obstructs those persons or any of them;
+
+(b) acts in a disorderly way towards those persons or any of them; or
+
+(c) behaves offensively and abusively towards those persons or any of them,
+
+shall be guilty of an offence.
+
+(2) A person guilty of an offence under subsection (1) shall be liable on summary conviction to imprisonment for a term not exceeding 6 months or to a fine not exceeding level 5 on the standard scale, or to both.
+
+## Supplementary
+
+### 15 Powers of arrest.
+
+[^F20]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 16 Regulations and orders.
+
+(1) Any power of the Secretary of State to make orders or regulations under this Act, except an order under section 11 [[^F21]or 11A][^F21], shall be exercised by statutory instrument.
+
+(2) A statutory instrument containing any regulations under this Act shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(3) A statutory instrument containing an order under paragraph 4 of Schedule 2 shall not be made unless a draft has been laid before, and approved by resolution of, each House of Parliament.
+
+(4) A statutory instrument containing—
+
+(a) an order under paragraph 8 of Schedule 2 made without a draft having been laid before, and approved by resolution of, each House of Parliament; or
+
+(b) an order under section 6(5)(b) or 12(1) or paragraph 2(2) or 12(6) of Schedule 1,
+
+shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(5) An order or regulations under this Act—
+
+(a) may make different provision for different cases, circumstances or areas; and
+
+(b) may contain such incidental, supplemental or transitional provisions and savings as the Secretary of State considers appropriate.
+
+### 17 Interpretation.
+
+(1) In this Act—
+
+- “area” means the whole or any part of Northern Ireland;
+- “band” means a group of two or more persons who carry for the purpose of playing or sounding, or engage in the playing or sounding of, musical instruments;
+- “the Code of Conduct” has the meaning assigned by section 3(1);
+- “the Commission” means the Parades Commission for Northern Ireland;
+- “constable” means a member of the Royal Ulster Constabulary or the Royal Ulster Constabulary Reserve;
+- “the guidelines” has the meaning assigned by section 5(1);
+- “intoxicating liquor” and “licensed premises” have the same meanings as in the [^M1]Licensing (Northern Ireland) Order 1996;
+- “passenger vehicle” means a motor vehicle (within the meaning of the [^M2]Road Traffic (Northern Ireland) Order 1995) which is adapted to carry more than 8 passengers;
+- “the procedural rules” has the meaning assigned by section 4(1);
+- “protest meeting” means an open-air public meeting (within the meaning of the [^M3]Public Order (Northern Ireland) Order 1987)—
+
+(a) which is, or is to be, held—
+
+(i) at a place which is on or in the vicinity of the route or proposed route of a public procession; and
+
+(ii) at or about the same time as the procession is being or is to be held; and
+
+(b) the purpose (or one of the purposes) of which is to demonstrate opposition to the holding of that procession on that route or proposed route;
+
+- “public place” means—
+
+(a) any road within the meaning of the [^M4]Roads (Northern Ireland) Order 1993; and
+
+(b) any place to which at the material time the public or any section of the public has access, on payment or otherwise, as of right or by virtue of express or implied permission;
+
+- “public procession” means a procession in a public place, whether or not involving the use of vehicles or other conveyances.
+
+(2) For the purposes of this Act a protest meeting is “related” to a public procession if the purpose (or one of the purposes) of the meeting is to demonstrate opposition to the holding of that procession on its route or proposed route.
+
+[[^F22](2A) For the purposes of this Act a person supports a public procession if (and only if) at any time when the procession is being held—
+
+(a) he is in a public place and (subject to subsection (2B)) in close proximity to persons taking part in the procession; and
+
+(b) in all the circumstances (including his conduct) his presence in that place may reasonably be taken as expressing support for the holding of the procession.
+
+(2B) For the purposes of subsection (2A) a person shall not be regarded as ceasing to be in close proximity to persons taking part in a public procession where he temporarily moves out of such proximity in compliance with —
+
+(a) conditions imposed by a determination under section 8; or
+
+(b) a direction given by a member of the Police Service of Northern Ireland not below the rank of inspector.]
+
+[^F22]3 References in this Act to the Chief Constable are to the Chief Constable of the Royal Ulster Constabulary; but the Chief Constable may delegate, to such extent and subject to such conditions as he may specify, any of his functions under this Act to a member of the Royal Ulster Constabulary not below the rank of Assistant Chief Constable.
+
+### 18 Amendments and repeals.
+
+(1) The enactments set out in Schedule 3 shall have effect subject to the amendments specified in that Schedule.
+
+(2) The enactments set out in Schedule 4 are hereby repealed to the extent specified in column 3 of that Schedule.
+
+### 19 Short title, commencement, transitional provision and extent.
+
+(1) This Act may be cited as the Public Processions (Northern Ireland) Act 1998.
+
+(2) Subject to subsection (3), this Act comes into force on such day as the Secretary of State may by order appoint.
+
+(3) The following provisions come into force on the passing of this Act, namely—
+
+(a) section 1 and Schedule 1;
+
+(b) sections 3 to 5 and Schedule 2;
+
+(c) section 8(6);
+
+(d) sections 16 and 17;
+
+(e) paragraphs 1 and 2 of Schedule 3 and section 18(1) so far as relating thereto; and
+
+(f) this section.
+
+(4) Nothing in this Act shall apply in relation to any public procession or protest meeting held, or proposed to be held, in the period of one month beginning with the day appointed under subsection (2).
+
+(5) Except for—
+
+(a) paragraphs 1 and 2 of Schedule 3 and section 18(1) so far as relating thereto; and
+
+(b) this section,
+
+this Act extends to Northern Ireland only.
+
+## SCHEDULE 1 — The Commission
+
+*Section 1.*
+
+### Status
+
+**1** (1) The Commission shall be a body corporate.
+
+(2) The Commission shall not be regarded as the servant or agent of the Crown or as enjoying any status, immunity or privilege of the Crown; and the Commission’s property shall not be regarded as property of, or property held on behalf of, the Crown.
+
+### Membership
+
+**2** (1) The Commission shall consist of—
+
+(a) a chairman; and
+
+(b) not more than 6 other members,
+
+appointed by the Secretary of State.
+
+(2) The Secretary of State may by order vary the number for the time being specified in sub-paragraph (1)(b).
+
+(3) The Secretary of State shall so exercise his powers of appointment under this paragraph as to secure that as far as is practicable the membership of the Commission is representative of the community in Northern Ireland.
+
+### Term of office
+
+**3** (1) Subject to the following provisions of this paragraph, a person shall hold and vacate office as a member or as chairman of the Commission in accordance with the terms of his appointment.
+
+(2) The chairman and other members of the Commission shall be appointed for a term not exceeding 3 years, and a person appointed to fill a casual vacancy shall hold office for the remainder of the term of the person in whose place he is appointed.
+
+(3) A person may at any time resign as a member or as chairman of the Commission by notice in writing to the Secretary of State.
+
+(4) The Secretary of State may remove a person from office as a member or as chairman of the Commission if satisfied that—
+
+(a) he has been convicted of a criminal offence;
+
+(b) he has become bankrupt [[^F23]or has become the subject of a bankruptcy restrictions order] or [[^F24]a debt relief order (under Part 7A of the Insolvency Act 1986 [[^F25]or Part 7A of the Insolvency (Northern Ireland) Order 1989] ) has been made in respect of him [[^F25]or he has become the subject of a debt relief restriction order] or he has] made a composition or arrangement with his creditors;
+
+(c) he has failed to comply with the terms of his appointment; or
+
+(d) he is otherwise unable or unfit to discharge his functions.
+
+(5) A member of the Commission whose term of office expires or who has resigned shall be eligible for re-appointment.
+
+### Remuneration
+
+**4** The Secretary of State may pay to the chairman and other members of the Commission such remuneration and allowances as the Secretary of State may determine.
+
+### Procedure
+
+**5** (1) The quorum for a meeting of the Commission shall be three.
+
+(2) Every question at a meeting of the Commission shall be determined by a majority of the votes of the members present and voting on the question, and in the case of an equal division of the votes, the chairman of the meeting shall have a second or casting vote.
+
+(3) If the chairman of the Commission is absent from a meeting of the Commission, the members present shall elect one of their number to act as chairman of the meeting.
+
+(4) Subject to sub-paragraphs (1) to (3) and to the procedural rules, the Commission may regulate its own procedure.
+
+### Staff
+
+**6** (1) The Commission may, with the approval of the Secretary of State as to numbers and terms and conditions of service, employ persons to assist the Commission or otherwise to enable the Commission to discharge its functions.
+
+(2) The Commission may make arrangements for administrative, secretarial or other assistance to be provided for the Commission by persons employed in the civil service of Northern Ireland or of the United Kingdom.
+
+(3) The Commission shall, with the approval of the Secretary of State, designate a person to whom sub-paragraph (1) or (2) applies as the secretary to the Commission.
+
+### Validity of proceedings
+
+**7** The validity of any proceedings of the Commission shall not be affected by—
+
+(a) any defect in the appointment of the chairman or any other member; or
+
+(b) any vacancy in the office of chairman or among the other members.
+
+### Seal
+
+**8** The application of the seal of the Commission shall be authenticated by the signatures of—
+
+(a) two members of the Commission; and
+
+(b) the secretary to the Commission or some other person generally or specially authorised by the Commission to act for that purpose.
+
+### Contracts, etc.
+
+**9** (1) Any contract or instrument which, if entered into or executed by an individual, would not require to be under seal may be entered into or executed on behalf of the Commission by any person generally or specially authorised by the Commission to act for that purpose.
+
+(2) Before entering into contracts for the supply of goods or the execution of works, the Commission shall comply with such requirements as the Secretary of State may direct.
+
+### Evidence
+
+**10** A document purporting to be—
+
+(a) duly executed under the seal of the Commission; or
+
+(b) signed on behalf of the Commission,
+
+shall be received in evidence and, unless the contrary is proved, shall be deemed to be so executed or signed.
+
+### Finance
+
+**11** The Secretary of State may make payments to the Commission of such amounts and on such terms and conditions as he may determine.
+
+### Accounts and audit
+
+**12** (1) The Commission shall—
+
+(a) keep proper accounts and proper records in relation to the accounts; and
+
+(b) prepare a statement of accounts in respect of each financial year of the Commission.
+
+(2) The statement of accounts shall contain such information and shall be in such form as the Secretary of State may direct.
+
+(3) The Commission shall send a copy of the statement of accounts to the Secretary of State and the Comptroller and Auditor General within such period after the end of the financial year to which the statement relates as the Secretary of State may direct.
+
+(4) The Comptroller and Auditor General shall—
+
+(a) examine, certify and report on the statement of accounts; and
+
+(b) lay a copy of the statement of accounts and of his report before each House of Parliament.
+
+[[^F26](5) The financial year of the Commission shall be the period of 12 months ending on 31st March; but the financial year that began on 1st January 2000 shall end on 31st March 2001.]
+
+(6) The Secretary of State may by order amend sub-paragraph (5).
+
+### Annual report
+
+**13** (1) The Commission shall, within such period after the end of each financial year of the Commission as the Secretary of State may direct, issue a report on the discharge of its functions in that year.
+
+(2) The Commission shall—
+
+(a) arrange for every report issued under sub-paragraph (1) to be published in such manner as appears to it to be appropriate; and
+
+(b) send a copy of the report to the Secretary of State.
+
+(3) The Secretary of State shall lay before each House of Parliament a copy of each report received by him under this paragraph.
+
+## SCHEDULE 2 — Provisions relating to code of conduct, procedural rules and guidelines
+
+*Sections 3, 4 and 5.*
+
+### Interpretation
+
+**1** In this Schedule “relevant instrument” means—
+
+(a) the Code of Conduct;
+
+(b) the procedural rules;
+
+(c) the guidelines.
+
+### The first issue of relevant instruments
+
+**2** As soon as practicable after it is established, the Commission shall—
+
+(a) prepare a draft of each relevant instrument;
+
+(b) submit the draft to the Secretary of State; and
+
+(c) make such modifications to the draft as the Secretary of State, after consultation with the Commission, may require.
+
+**3** The Commission shall then send the draft of each relevant instrument to the Secretary of State who shall lay the draft before each House of Parliament.
+
+**4** A relevant instrument laid before Parliament in draft under paragraph 3 shall not come into operation except in accordance with an order made by the Secretary of State.
+
+### Revision of a relevant instrument
+
+**5** Where the Commission proposes to revise a relevant instrument, it shall prepare and publish a draft of the revised instrument, shall consider any representations made to it about the draft and may modify the draft accordingly.
+
+**6** After complying with paragraph 5, the Commission shall submit the draft of the revised relevant instrument to the Secretary of State and make such modifications to it as the Secretary of State, after consultation with the Commission, may require.
+
+**7** The Commission shall then send the draft of the revised relevant instrument to the Secretary of State who shall lay the draft before each House of Parliament.
+
+**8** A revised relevant instrument laid before Parliament in draft under paragraph 7 shall not come into operation except in accordance with an order made by the Secretary of State.
+
+### Admissibility of relevant instruments
+
+**9** A relevant instrument shall be admissible in evidence in civil and criminal proceedings; and if any provision of the instrument appears to the court or tribunal conducting the proceedings to be relevant to any question arising in the proceedings it shall be taken into account in determining that question.
+
+## SCHEDULE 3 — Amendments
+
+*Section 18(1).*
+
+### The House of Commons Disqualification Act 1975 (c. 24)
+
+**1** In Part II of Schedule 1 to the House of Commons Disqualification Act 1975 there shall be inserted at the appropriate place— “ The Parades Commission for Northern Ireland. ”.
+
+### The Northern Ireland Assembly (Disqualification) Act 1975 (c. 25)
+
+**2** In Part II of Schedule 1 to the Northern Ireland Assembly Disqualification Act 1975 there shall be inserted at the appropriate place— “ The Parades Commission for Northern Ireland. ”.
+
+### The Public Order (Northern Ireland) Order 1987 (NI 7)
+
+**3** (1) The Public Order (Northern Ireland) Order 1987 shall be amended as follows.
+
+(2) In Article 4(3) for “paragraphs (1) and (2)” there shall be substituted “ paragraph (2) ” and for “a procession or” (wherever occurring) there shall be substituted “ an ”.
+
+(3) In Article 4(6) for the words from “liable” to the end there shall be substituted the words “ liable on summary conviction to imprisonment for a term not exceeding 6 months or to a fine not exceeding level 5 on the standard scale, or to both. ”.
+
+(4) In Article 5(1)(a) for “paragraphs (1) and (2)” there shall be substituted “ paragraph (2) ”.
+
+(5) In Article 5(1) for sub-paragraphs (A) and (B) there shall be substituted—
+
+> (A) prohibiting the holding in that area or place of an open-air public meeting specified in the order;
+>
+> (B) prohibiting, for such period not exceeding 28 days as may be specified in the order, the holding in that area or place of any open-air public meeting of such class or description as may be so specified; or
+>
+> (C) prohibiting, for such period not exceeding 28 days as may be specified in the order, the holding in that area or place of all open-air public meetings.
+
+.
+
+(6) In Article 5 after paragraph (1) there shall be inserted—
+
+> (1A) An order under paragraph (1)(B) or (C) may exempt any open-air public meeting, or any class or description of open-air public meeting, specified in the order.
+
+.
+
+(7) In Article 5(5) for “a public procession or” (wherever occurring) there shall be substituted “ an ”.
+
+(8) In Article 5(6) for the words from “liable” to the end there shall be substituted the words “ liable on summary conviction to imprisonment for a term not exceeding 6 months or to a fine not exceeding level 5 on the standard scale, or to both. ”.
+
+(9) In Article 24(3) for “Article 7(1) or (2)” there shall be substituted “ Article 7(2) ”.
+
+## SCHEDULE 4 — Repeals
+
+*Section 18(2).*
+
+|  |  |  |
+|---|---|---|
+| Chapter or Number | Short title | Extent of repeal |
+| 1970 c. 9 (N.I.). | The Police Act (Northern Ireland) 1970. | In Schedule 1, paragraph 15(2) to (4). |
+| 1987 NI 7. | The Public Order (Northern Ireland) Order 1987. | In Article 2(2) the definition of “band”. |
+|  |  | Article 3. |
+|  |  | Article 4(1). |
+|  |  | In Article 5(1)(b) the words “any public procession or”. |
+|  |  | Article 5(2). |
+|  |  | Articles 6 and 6A. |
+|  |  | Article 7(1). |
+|  |  | In Article 7(3) the words “(1) or”. |
+|  |  | Article 28(4). |
+|  |  | In Schedule 1, paragraph 4. |
+| 1989 NI 12. | The Police and Criminal Evidence (Northern Ireland) Order 1989. | In Schedule 2, in the entry relating to the Public Order (Northern Ireland) Order 1987, the words “(1) and”. |
+| 1997 NI 10. | The Public Order (Amendment) (Northern Ireland) Order 1997. | The whole Order. |
+
+---
+
+[^F1]: Words in s. 2(2)(b) added (23.3.2005 with application as mentioned in art. 1(2) of the amending S.I.) by The Public Processions (Amendment) (Northern Ireland) Order 2005 (S.I. 2005/857 (N.I. 2)), art. 4(2)
+[^F2]: S. 3(1)(b) substituted (23.3.2005 with application as mentioned in art. 1(2) of the amending S.I.) by The Public Processions (Amendment) (Northern Ireland) Order 2005 (S.I. 2005/857 (N.I. 2)), art. 3(2)
+[^F3]: Words in s. 5(1) substituted (23.3.2005 with application as mentioned in art. 1(2) of the amending S.I.) by The Public Processions (Amendment) (Northern Ireland) Order 2005 (S.I. 2005/857 (N.I. 2)), art. 4(3)
+[^F4]: Words in s. 6(1) substituted (11.3.2015) by The Public Processions (Electronic Communication of Notices) (Northern Ireland) Order 2015 (S.I. 2015/235), arts. 1(2), 2(2)(a)
+[^F5]: Words in s. 6(1) omitted (11.3.2015) by virtue of The Public Processions (Electronic Communication of Notices) (Northern Ireland) Order 2015 (S.I. 2015/235), arts. 1(2), 2(2)(b)
+[^F6]: S. 6(1A) inserted (11.3.2015) by The Public Processions (Electronic Communication of Notices) (Northern Ireland) Order 2015 (S.I. 2015/235), arts. 1(2), 2(3)
+[^F7]: Words in s. 6(4)(c) inserted (23.3.2005 with application as mentioned in art. 1(2) of the amending S.I.) by The Public Processions (Amendment) (Northern Ireland) Order 2005 (S.I. 2005/857 (N.I. 2)), art. 3(3)
+[^F8]: S. 6(4A) inserted (11.3.2015) by The Public Processions (Electronic Communication of Notices) (Northern Ireland) Order 2015 (S.I. 2015/235), arts. 1(2), 2(4)
+[^F9]: Words in s. 7(1) substituted (11.3.2015) by The Public Processions (Electronic Communication of Notices) (Northern Ireland) Order 2015 (S.I. 2015/235), arts. 1(2), 3(2)(a)
+[^F10]: Words in s. 7(1) omitted (11.3.2015) by virtue of The Public Processions (Electronic Communication of Notices) (Northern Ireland) Order 2015 (S.I. 2015/235), arts. 1(2), 3(2)(b)
+[^F11]: S. 7(1A) inserted (11.3.2015) by The Public Processions (Electronic Communication of Notices) (Northern Ireland) Order 2015 (S.I. 2015/235), arts. 1(2), 3(3)
+[^F12]: S. 7(4A) inserted (11.3.2015) by The Public Processions (Electronic Communication of Notices) (Northern Ireland) Order 2015 (S.I. 2015/235), arts. 1(2), 3(4)
+[^F13]: Words in s. 7(8)(b) substituted (23.3.2005 with application as mentioned in art. 1(2) of the amending S.I.) by The Public Processions (Amendment) (Northern Ireland) Order 2005 (S.I. 2005/857 (N.I. 2)), art. 4(4)
+[^F14]: S. 7A inserted (11.3.2015) by The Public Processions (Electronic Communication of Notices) (Northern Ireland) Order 2015 (S.I. 2015/235), arts. 1(2), 4
+[^F15]: Words in s. 8(1) inserted (23.3.2005 with application as mentioned in art. 1(2) of the amending S.I.) by The Public Processions (Amendment) (Northern Ireland) Order 2005 (S.I. 2005/857 (N.I. 2)), art. 3(1)
+[^F16]: Ss. 9A, 9B and cross-heading inserted (23.3.2005 with application as mentioned in art. 1(2) of the amending S.I.) by The Public Processions (Amendment) (Northern Ireland) Order 2005 (S.I. 2005/857 (N.I. 2)), art. 4(1)
+[^X1]: The insertion of the new heading "The Commission's powers to impose conditions on protest meetings" in the main body of the Act on 23.3.2005 gives rise to a change in the structure of this legislation on SLD which breaks the continuity of historical versions of the existing provisions which are now brought under that new heading.
+[^F17]: Words in s. 10 substituted (23.3.2005 with application as mentioned in art. 1(2) of the amending S.I.) by The Public Processions (Amendment) (Northern Ireland) Order 2005 (S.I. 2005/857 (N.I. 2)), art. 4(5)
+[^F18]: S. 11A and cross-heading inserted (23.3.2005 with application as mentioned in art. 1(2) of the amending S.I.) by The Public Processions (Amendment) (Northern Ireland) Order 2005 (S.I. 2005/857 (N.I. 2)), art. 5(1)
+[^F19]: Words in s. 14(1) inserted (23.3.2005 with application as mentioned in art. 1(2) of the amending S.I.) by The Public Processions (Amendment) (Northern Ireland) Order 2005 (S.I. 2005/857 (N.I. 2)), art. 6(1)
+[^F20]: S. 15 repealed (1.3.2007) by The Police and Criminal Evidence (Amendment) (Northern Ireland) Order 2007 (S.I. 2007/288 (N.I. 6)), arts. 1(2)-(4), 15, 41, Sch. 1 para. 32, Sch. 2
+[^F21]: Words in s. 16(1) inserted (23.3.2005 with application as mentioned in art. 1(2) of the amending S.I.) by The Public Processions (Amendment) (Northern Ireland) Order 2005 (S.I. 2005/857 (N.I. 2)), art. 5(2)
+[^M1]: 1996 NI 22.
+[^M2]: 1995 NI 18.
+[^M3]: 1987 NI 7.
+[^M4]: 1993 NI 15.
+[^F22]: S. 17(2A)(2B) inserted (23.3.2005 with application as mentioned in art. 1(2) of the amending S.I.) by The Public Processions (Amendment) (Northern Ireland) Order 2005 (S.I. 2005/857 (N.I. 2)), art. 3(4)
+[^F23]: Words in Sch. 1 para. 3(4)(b) inserted (21.4.2015) by The Insolvency (Northern Ireland) Order 2005 (Consequential Amendments) Order (Northern Ireland) 2015 (S.R. 2015/159), art. 1, Sch. para. 11
+[^F24]: Words in Sch. 1 para. 3(4)(b) inserted (1.10.2012) by The Tribunals, Courts and Enforcement Act 2007 (Consequential Amendments) Order 2012 (S.I. 2012/2404), art. 1, Sch. 2 para. 37 (with art. 5)
+[^F25]: Words in Sch. 1 para. 3(4)(b) inserted (7.3.2016) by The Debt Relief Act (Northern Ireland) 2010 (Consequential Amendments) Order (Northern Ireland) 2016 (S.R. 2016/108), art. 1, Sch. para. 17
+[^F26]: Sch. 1 para. 12(5) substituted (30.3.2001) by S.I. 2001/852, art. 2

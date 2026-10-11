@@ -1,0 +1,4620 @@
+---
+title: "Planning (Listed Buildings and Conservation Areas) Act 1990"
+identifier: "ukpga/1990/9"
+citation: "1990 c. 9"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W"
+date: 1990-05-24
+last_amended: 2026-08-10
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/1990/9"
+source_modified: 2026-08-10
+retrieved: 2026-10-11
+---
+
+# Planning (Listed Buildings and Conservation Areas) Act 1990
+
+**1990 c. 9**
+
+An Act to consolidate certain enactments relating to special controls in respect of buildings and areas of special architectural or historic interest with amendments to give effect to recommendations of the Law Commission.
+
+[24th May 1990]
+
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## Part I — Listed Buildings
+
+### Chapter 1 — Listing of special buildings
+
+#### 1 Listing of buildings of special architectural or historic interest [[^F1]in England].
+
+(1) For the purposes of this Act and with a view to the guidance of local planning authorities in the performance of their functions under this Act and the principal Act in relation to buildings of special architectural or historic interest, the Secretary of State shall compile lists of such buildings, or approve, with or without modifications, such lists compiled by the Historic Buildings and Monuments Commission for England (in this Act referred to as “the Commission”) or by other persons or bodies of persons, and may amend any list so compiled or approved.
+
+[^F2]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) In considering whether to include a building in a list compiled or approved under this section, the Secretary of State may take into account not only the building itself but also—
+
+(a) any respect in which its exterior contributes to the architectural or historic interest of any group of buildings of which it forms part; and
+
+(b) the desirability of preserving, on the ground of its architectural or historic interest, any feature of the building consisting of a man-made object or structure fixed to the building or forming part of the land and comprised within the curtilage of the building.
+
+(4) Before compiling, approving (with or without modifications) or amending any list under this section [^F3]... the Secretary of State shall consult—
+
+(a) [^F4]... with the Commission; and
+
+(b) with such other persons or bodies of persons as appear to him appropriate as having special knowledge of, or interest in, buildings of architectural or historic interest.
+
+[^F5]4A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) In this Act “listed building” means a building which is for the time being included in a list compiled or approved by the Secretary of State under this section; and for the purposes of this Act—
+
+(a) any object or structure fixed to the building;
+
+(b) any object or structure within the curtilage of the building which, although not fixed to the building, forms part of the land and has done so since before lst July 1948,
+
+shall [[^F6], subject to subsection (5A)(a),] be treated as part of the building.
+
+[[^F7](5A) In a list compiled or approved under this section, an entry for a building [^F8]... may provide—
+
+(a) that an object or structure mentioned in subsection (5)(a) or (b) is not to be treated as part of the building for the purposes of this Act;
+
+(b) that any part or feature of the building is not of special architectural or historic interest.]
+
+(6) Schedule 1 shall have effect for the purpose of making provision as to the treatment as listed buildings of certain buildings formerly subject to building preservation orders.
+
+#### 2 Publication of lists.
+
+(1) As soon as possible after any list has been compiled or approved under section 1 or any amendments of such a list have been made, a copy of so much of the list as relates to any district [^F9]... or London borough or, as the case may be, of so much of the amendments as so relates, certified by or on behalf of the Secretary of State to be a true copy, shall be deposited—
+
+(a) in the case of a London borough, with the council of the borough and with the chief officer of the Commission; [^F10]. . . [[^F11]and]
+
+(b) in the case of a district—
+
+(i) with the district council;
+
+(ii) with the county planning authority whose area or any part of whose area includes the district, or any part of it; and
+
+(iii) where the district council are not the district planning authority, with that authority; [^F12]...
+
+[^F12]c . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) Any copy deposited under subsection (1) shall be a local land charge, and the council with whom a copy is deposited shall be treated for the purposes of the [^M1]Local Land Charges Act 1975 as the originating authority as respects the charge constituted by the deposit.
+
+(3) As soon as possible after the inclusion of any building [^F13]... in a list under section 1 (whether it is included when the list is compiled, approved or amended) or as soon as possible after any such list has been amended by the exclusion of [[^F14]any building] from it—
+
+(a) the Secretary of State shall inform the council of the district [^F15]... or London borough in whose area the building is situated of the inclusion or exclusion; and
+
+(b) the council shall serve a notice in the prescribed form on every owner and occupier of the building, stating that the building has been included in or excluded from the list.
+
+[^F16]3A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F17]3B . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) The Secretary of State shall keep available for public inspection free of charge at reasonable hours and at a convenient place, copies of all lists and amendments of lists, compiled, approved or made by him under section 1.
+
+(5) Every authority with whom copies of any list or amendments are deposited under this section shall similarly keep available copies of so much of any such list or amendment as relates to buildings within their area.
+
+(6) For the purposes of subsection (5) the Commission shall be taken to be an authority whose area is Greater London.
+
+#### [^F18]2A Duty to consult on certain changes to lists
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F18]2B Interim protection pending certain listing decisions
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F18]2C Provisions applicable on lapse of interim protection
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F18]2D Review of certain listing decisions
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 3 Temporary listing [^F19]...: building preservation notices.
+
+(1) [[^F20]If it appears to a local planning authority, other than a county planning authority,] that a building in their area which is not a listed building—
+
+(a) is of special architectural or historic interest; and
+
+(b) is in danger of demolition or of alteration in such a way as to affect its character as a building of such interest,
+
+they may serve on the owner and occupier of the building a notice (in this Act referred to as a “building preservation notice”).
+
+[[^F21](1A) Before serving a building preservation notice under this section, the local planning authority must consult with the Commission.
+
+(1B) Subsection (1A) does not apply where the Commission proposes to serve a building preservation notice under this section (see subsection (8)).]
+
+(2) A building preservation notice served by a local planning authority [^F22]... shall—
+
+(a) state that the building appears to them to be of special architectural or historic interest and that they have requested the Secretary of State to consider including it in a list compiled or approved under section 1; and
+
+(b) explain the effect of subsections (3) to (5) and Schedule 2.
+
+(3) A building preservation notice [^F23]... —
+
+(a) shall come into force as soon as it has been served on both the owner and occupier of the building to which it relates; and
+
+(b) subject to subsection (4), shall remain in force for six months from the date when it is served or, as the case may be, last served.
+
+(4) A building preservation notice [^F24]... shall cease to be in force if the Secretary of State—
+
+(a) includes the building in a list compiled or approved under section 1, or
+
+(b) notifies the local planning authority in writing that he does not intend to do so.
+
+(5) While a building preservation notice [^F25]... is in force with respect to a building, the provisions of this Act (other than section 59) and the principal Act shall have effect in relation to the building as if it were a listed building.
+
+(6) If, following the service of a building preservation notice [^F26]..., the Secretary of State notifies the local planning authority that he does not propose to include the building in a list compiled or approved under section 1, the authority shall immediately give notice of that decision to the owner and occupier of the building.
+
+(7) Following such a notification by the Secretary of State no further building preservation notice in respect of the building shall be served by the local planning authority within the period of 12 months beginning with the date of the notification.
+
+(8) The Commission shall, as respects any London borough, have concurrently with the council of that borough the functions of a local planning authority under this section; and references to the local planning authority shall be construed accordingly.
+
+#### [^F27]3A Temporary listing in Wales: building preservation notices
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 4 Temporary listing in urgent cases.
+
+(1) If it appears to the local planning authority to be urgent that a building preservation notice should come into force, they may, instead of serving the notice on the owner and occupier of the building, affix the notice conspicuously to some object on the building.
+
+(2) The affixing of a notice under subsection (1) shall be treated for all the purposes of [[^F28]section 3,] this section, sections 5 and 10 to 26 and Schedule 2 as service of the notice.
+
+(3) A notice which is so affixed must explain that by virtue of being so affixed it is treated as being served for those purposes.
+
+(4) The Commission shall, as respects any London borough, have concurrently with the council of that borough the functions of a local planning authority under this section; and references to the local planning authority shall be construed accordingly.
+
+#### 5 Provisions applicable on lapse of building preservation notice.
+
+[^F29]... Schedule 2 to this Act shall have effect as respects the lapse of building preservation notices.
+
+[^F30]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 6 Issue of certificate that building not intended to be listed [^F31]....
+
+[[^F32](A1) The Secretary of State may, on the application of any person, issue a certificate stating that the Secretary of State does not intend to list a building [^F33]....]
+
+[^F34]1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) The issue of [[^F35]a certificate under subsection (A1) [^F36]...] in respect of a building shall—
+
+(a) preclude the Secretary of State for a period of 5 years from the date of issue from exercising in relation to that building any of the powers conferred on him by section 1; and
+
+(b) preclude the local planning authority for that period from serving a building preservation notice in relation to it.
+
+(3) Notice of an application under subsection [[^F37](A1) [^F38]...] shall be given to the local planning authority within whose area the building is situated at the same time as the application is submitted to the Secretary of State.
+
+(4) In this section “local planning authority”, in relation to a building in Greater London, includes the Commission.
+
+#### [^F39]6A Issue of certificate that building not intended to be listed: Wales
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Chapter II — Authorisation of works affecting listed buildings
+
+#### Control of works in respect of listed buildings
+
+##### 7 Restriction on works affecting listed buildings.
+
+[[^F40](1)] Subject to the following provisions of this Act, no person shall execute or cause to be executed any works for the demolition of a listed building or for its alteration or extension in any manner which would affect its character as a building of special architectural or historic interest, unless the works are authorised [[^F41]under section 8].
+
+[[^F42](2) Subsection (1) is subject to section 33(1) of the Planning Act 2008 (exclusion of requirement for other consents for development for which development consent required).]
+
+##### 8 Authorisation of works: listed building consent.
+
+(1) Works for the alteration or extension of a listed building are authorised if—
+
+(a) written consent for their execution has been granted by the local planning authority or the Secretary of State; and
+
+(b) they are executed in accordance with the terms of the consent and of any conditions attached to it.
+
+(2) Works for the demolition of a listed building are authorised if—
+
+(a) such consent has been granted for their execution;
+
+(b) notice of the proposal to execute the works has been given to the Royal Commission;
+
+(c) after such notice has been given either—
+
+(i) for a period of at least one month following the grant of such consent, and before the commencement of the works, reasonable access to the building has been made available to members or officers of the Royal Commission for the purpose of recording it; or
+
+(ii) the Secretary of the Royal Commission, or another officer of theirs with authority to act on their behalf for the purposes of this section, has stated in writing that they have completed their recording of the building or that they do not wish to record it; and
+
+(d) the works are executed in accordance with the terms of the consent and of any conditions attached to it.
+
+(3) Where—
+
+(a) works for the demolition of a listed building or for its alteration or extension are executed without such consent; and
+
+(b) written consent is granted by the local planning authority or the Secretary of State for the retention of the works,
+
+the works are authorised from the grant of that consent.
+
+(4) In this section “the Royal Commission” means—
+
+(a) [^F43]... the Royal Commission on the Historical Monuments of England; and
+
+[^F44]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) The Secretary of State may by order provide that subsection (2) shall have effect with the substitution for the references to the Royal Commission of references to such other body as may be so specified.
+
+(6) Such an order—
+
+(a) shall apply in the case of works executed or to be executed on or after such date as may be specified in the order; [^F45]...
+
+[^F45]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7) Consent under subsection (1), (2) or (3) is referred to in this Act as “listed building consent”.
+
+##### 9 Offences.
+
+(1) If a person contravenes section 7 he shall be guilty of an offence.
+
+(2) Without prejudice to subsection (1), if a person executing or causing to be executed any works in relation to a listed building under a listed building consent fails to comply with any condition attached to the consent, he shall be guilty of an offence.
+
+(3) In proceedings for an offence under this section it shall be a defence to prove the following matters—
+
+(a) that works to the building were urgently necessary in the interests of safety or health or for the preservation of the building;
+
+(b) that it was not practicable to secure safety or health or, as the case may be, the preservation of the building by works of repair or works for affording temporary support or shelter;
+
+(c) that the works carried out were limited to the minimum measures immediately necessary; and
+
+(d) that notice in writing justifying in detail the carrying out of the works was given to the local planning authority as soon as reasonably practicable.
+
+[^F46]3A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F47][4 A person who is guilty of an offence under this section shall be liable—
+
+(a) on summary conviction, to imprisonment for a term not exceeding six months or [[^F48]a fine], or both; or
+
+(b) on conviction on indictment, to imprisonment for a term not exceeding two years or a fine, or both.]
+
+(5) In determining the amount of any fine to be imposed on a person convicted [^F49] . . . of an offence under this section, the court shall in particular have regard to any financial benefit which has accrued or appears likely to accrue to him in consequence of the offence.
+
+#### Applications for listed building consent
+
+##### 10 Making of applications for listed building consent.
+
+(1) Except as provided in sections 12 to 15, an application for listed building consent shall be made to and dealt with by the local planning authority.
+
+(2) Such an application [^F50]. . . shall contain—
+
+(a) sufficient particulars to identify the building to which it relates, including a plan;
+
+(b) such other plans and drawings as are necessary to describe the works which are the subject of the application; and
+
+(c) such other particulars as may be required by the authority.
+
+(3) Provision may be made by regulations under this Act with respect to—
+
+[[^F51](a) the form and manner in which such applications are to be made;
+
+(aa) particulars of such matters as are to be included in such applications;
+
+(ab) the documents or other materials as are to accompany such applications;]
+
+[[^F52](b) requirements as to publicity in relation to such applications;]
+
+(c) the time within which they are to be dealt with by local planning authorities or, as the case may be, by the Secretary of State.
+
+[[^F53](d) requirements as to consultation in relation to such applications;
+
+(e) prohibiting the determination of such applications during such period as is prescribed;
+
+(f) requirements on the local planning authority to take account of responses from persons consulted.]
+
+[[^F54](4) The regulations must require that an application for listed building consent of such description as is prescribed must be accompanied by such of the following as is prescribed—
+
+(a) a statement about the design principles and concepts that have been applied to the works;
+
+(b) a statement about how issues relating to access to the building have been dealt with.
+
+(5) The form and content of a statement mentioned in subsection (4) is such as is prescribed.]
+
+##### 11 Certificates as to applicant’s status etc.
+
+(1) Regulations under this Act may provide that an application for listed building consent shall not be entertained unless it is accompanied by one of the following certificates in the prescribed form and signed by or on behalf of the applicant—
+
+(a) a certificate stating that, at the beginning of the period of 21 days ending with the date of the application, no person (other than the applicant) was the owner of any of the building to which the application relates;
+
+(b) a certificate stating that the applicant has given the requisite notice of the application to all the persons (other than himself) who at the beginning of that period were owners of any of the building to which the application relates;
+
+(c) a certificate stating—
+
+(i) that the applicant is unable to issue a certificate in accordance with paragraph (a) or (b);
+
+(ii) that he has given the requisite notice of the application to such one or more of the persons mentioned in paragraph (b) as are specified in the certificate; and
+
+(iii) that he has taken such steps as are reasonably open to him (specifying them) to ascertain the names and addresses of the remainder of those persons but has been unable to do so;
+
+(d) a certificate stating—
+
+(i) that the applicant is unable to issue a certificate in accordance with paragraph (a); and
+
+(ii) that he has taken such steps as are reasonably open to him (specifying them) to ascertain the names and addresses of the persons mentioned in paragraph (b) but has been unable to do so.
+
+(2) Where such provision is made any such certificate as is mentioned in subsection (1)(b) or (c) must set out—
+
+(a) the names of the persons to whom the applicant has given the requisite notice of the application;
+
+(b) the addresses at which notice was given to them; and
+
+(c) the date of service of each such notice.
+
+(3) Such regulations may require that any such certificate as is mentioned in subsection (1)(c) or (d) shall also contain a statement that the requisite notice of the application, as set out in the certificate, has on a date specified in the certificate (which must not be earlier than the beginning of the period mentioned in subsection (1)(a)) been published in a local newspaper circulating in the locality in which the building is situated.
+
+(4) Such regulations may also require that where an application is accompanied by such a certificate as is mentioned in subsection (1)(b),(c) or (d), the local planning authority—
+
+(a) shall not determine the application before the end of the period of 21 days beginning with the date appearing from the certificate to be the latest of the dates of service of notices as mentioned in the certificate, or, if later, the date of publication of a notice as so mentioned;
+
+(b) shall in determining the application take into account any representations relating to it which are made to them before the end of that period by any person who satisfies them that he is an owner of any of the building to which the application relates; and
+
+(c) shall give notice of their decision to every person who has made representations which they were required to take into account in accordance with paragraph (b).
+
+(5) Such regulations may also make provision as to who, in the case of any building, is to be treated as the owner for the purposes of any provision made by virtue of this section.
+
+(6) If any person—
+
+(a) issues a certificate which purports to comply with the requirements of regulations made by virtue of this section and contains a statement which he knows to be false or misleading in a material particular; or
+
+(b) recklessly issues a certificate which purports to comply with those requirements and contains a statement which is false or misleading in a material particular,
+
+he shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+(7) Subject to subsection (5), in this section “owner” means a person who is for the time being the estate owner in respect of the fee simple or is entitled to a tenancy granted or extended for a term of years certain of which not less than seven years remain unexpired.
+
+##### 12 Reference of certain applications to Secretary of State.
+
+(1) The Secretary of State may give directions requiring applications for listed building consent to be referred to him instead of being dealt with by the local planning authority.
+
+(2) A direction under this section may relate either to a particular application, or to applications in respect of such buildings as may be specified in the direction.
+
+(3) An application in respect of which a direction under this section has effect shall be referred to the Secretary of State accordingly.
+
+[[^F55](3A) An application for listed building consent shall, without any direction by the Secretary of State, be referred to the Secretary of State instead of being dealt with by the local planning authority in any case where the consent is required in consequence of proposals included in an application for an order under section 1 or 3 of the Transport and Works Act 1992.]
+
+(4) Before determining an application referred to him under this section, the Secretary of State shall, if either the applicant or the authority so wish, give each of them an opportunity of appearing before, and being heard by, a person appointed by the Secretary of State.
+
+[^F56]4B . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) The decision of the Secretary of State on any application referred to him under this section shall be final.
+
+##### 13 Duty to notify Secretary of State of applications.
+
+(1) If a local planning authority (other than a London borough council) to whom application is made for listed building consent, or a London borough council to whom such an application is made by the Commission, intend to grant listed building consent they shall first notify the Secretary of State of the application, giving particulars of the works for which the consent is required.
+
+(2) The Secretary of State may within the period of 28 days beginning with the date of such a notification—
+
+(a) direct the reference of the application to him under section 12; or
+
+(b) give notice to the authority that he requires further time in which to consider whether to require such a reference.
+
+(3) The local planning authority shall not grant listed building consent until—
+
+(a) the period mentioned in subsection (2) has expired without the Secretary of State directing the reference of the application to him or giving them notice under paragraph (b) of that subsection; or
+
+(b) the Secretary of State has notified them that he does not intend to require the reference of the application.
+
+##### 14 Duty of London borough councils to notify Commission.
+
+(1) Where an application for listed building consent is made to a local planning authority which is a London borough council—
+
+(a) unless the authority have determined to refuse it, they shall notify the Commission of the application, giving particulars of the works for which the consent is required; and
+
+(b) the authority shall not grant the consent unless they are authorised or directed to do so under subsection (2)(a).
+
+(2) On receipt of such a notification the Commission may—
+
+(a) subject to subsection (6), give the local planning authority directions as to the granting of the application or authorise them to determine the application as they think fit; or
+
+(b) direct them to refuse the application.
+
+(3) If the Commission intend to exercise either of their powers under subsection (2)(a), they shall notify the Secretary of State of the application giving particulars of the works for which the consent is required.
+
+(4) Where the Commission direct the local planning authority under subsection (2)(b) to refuse listed building consent, the authority may, within 28 days from the date of the direction, notify the Secretary of State of the application giving particulars of the works for which the consent is required.
+
+(5) The Secretary of State may within the period of 28 days beginning with the date of a notification under subsection (3) or (4)—
+
+(a) direct the reference of the application to him; or
+
+(b) give notice to the authority who notified him or, as the case may be, the Commission that he requires further time in which to consider whether to require such a reference.
+
+(6) The Commission shall not direct the local planning authority under subsection (2)(a) to grant the application or authorise them to determine it as they think fit unless—
+
+(a) the period mentioned in subsection (5) has expired without the Secretary of State directing the reference of the application to him or giving them notice under paragraph (b) of that subsection; or
+
+(b) he has notified them that he does not intend to require the reference of the application.
+
+(7) Where the local planning authority notify the Secretary of State as mentioned in subsection (4), they shall not refuse the application unless—
+
+(a) a period of 28 days beginning with the date of the notification has expired without the Secretary of State directing the reference of the application to him or giving them notice under subsection (5)(b); or
+
+(b) he has notified the authority that he does not intend to require the reference of the application.
+
+(8) Where, after receiving notification under subsection (4), the Secretary of State directs the reference of the application to him, before determining the application he shall, if either the applicant or the authority or, as the case may be, the Commission so desire, give each of them an opportunity of appearing before, and being heard by, a person appointed by the Secretary of State.
+
+(9) Subsection (1) shall not apply where the application for listed building consent is made by the Commission.
+
+##### 15 Directions concerning notification of applications etc.
+
+(1) The Secretary of State may direct that, in the case of such descriptions of applications for listed building consent as he may specify, sections 13 and 14 shall not apply.
+
+(2) Where a direction is in force under subsection (1) in respect of any description of application, local planning authorities may determine applications of that description in any manner they think fit, without notifying the Secretary of State or, as the case may be, the Commission.
+
+(3) Before giving a direction under subsection (1) in respect of any description of application for consent to the demolition of a building [^F57]..., the Secretary of State shall consult the Commission.
+
+(4) Where a direction is in force under subsection (1), the Secretary of State may direct a local planning authority that section 13 or, as the case may be, section 14 shall nevertheless apply—
+
+(a) to a particular application for listed building consent; or
+
+(b) to such descriptions of application for listed building consent as are specified in the direction;
+
+and such a direction has effect in relation to any such application which has not been disposed of by the authority by their granting or refusing consent.
+
+(5) Without prejudice to sections 10 to 14, the Secretary of State may give directions to local planning authorities requiring them, in such cases or classes of case as may be specified in the directions, to notify him and such other persons as may be so specified—
+
+(a) of any applications made to the authorities for listed building consent; and
+
+(b) of the decisions taken by the authorities on those applications.
+
+(6) Directions under subsection (1) or (5) may be given to authorities generally or to particular authorities or descriptions of authority.
+
+##### 16 Decision on application.
+
+(1) Subject to the previous provisions of this Part, the local planning authority or, as the case may be, the Secretary of State may grant or refuse an application for listed building consent and, if they grant consent, may grant it subject to conditions.
+
+(2) In considering whether to grant listed building consent for any works the local planning authority or the Secretary of State shall have special regard to the desirability of preserving the building or its setting or any features of special architectural or historic interest which it possesses.
+
+(3) Any listed building consent shall (except in so far as it otherwise provides) enure for the benefit of the building and of all persons for the time being interested in it.
+
+#### Grant of consent subject to conditions
+
+##### 17 Power to impose conditions on grant of listed building consent.
+
+(1) Without prejudice to the generality of section 16(1), the conditions subject to which listed building consent may be granted may include conditions with respect to—
+
+(a) the preservation of particular features of the building, either as part of it or after severance from it;
+
+(b) the making good, after the works are completed, of any damage caused to the building by the works;
+
+(c) the reconstruction of the building or any part of it following the execution of any works, with the use of original materials so far as practicable and with such alterations of the interior of the building as may be specified in the conditions.
+
+(2) A condition may also be imposed requiring specified details of the works (whether or not set out in the application) to be approved subsequently by the local planning authority or, in the case of consent granted by the Secretary of State, specifying whether such details are to be approved by the local planning authority or by him.
+
+(3) Listed building consent for the demolition of a listed building may be granted subject to a condition that the building shall not be demolished before—
+
+(a) a contract for the carrying out of works of redevelopment of the site has been made; and
+
+(b) planning permission has been granted for the redevelopment for which the contract provides.
+
+[[^F58](4) Regulations under this Act [^F59]... may, in relation to applications made pursuant to a condition attached to listed building consent, make any provision corresponding to provision that may be made in relation to applications for such consent under section 10(3).]
+
+##### 18 Limit of duration of listed building consent.
+
+(1) Subject to the provisions of this section, every listed building consent shall be granted subject to the condition that the works to which it relates must be begun not later than the expiration of—
+
+(a) [[^F60]three years] beginning with the date on which the consent is granted; or
+
+(b) such other period (whether longer or shorter) beginning with that date as the authority granting the consent may direct, being a period which the authority considers appropriate having regard to any material considerations.
+
+(2) If listed building consent is granted without the condition required by subsection (1), it shall be deemed to have been granted subject to the condition that the works to which it relates must be begun not later than the expiration of [[^F60]three years] beginning with the date of the grant.
+
+[[^F61](2A) In subsections (2A) to (2BB)—
+
+- “implementation period” means the period before the end of which works to which a listed building consent relates are required to be begun in pursuance of subsection (1) or (2);
+- “relevant proceedings” means proceedings to challenge the validity of a grant of listed building consent or of a deemed grant of listed building consent.
+
+(2B) If a person is given permission by a court to bring relevant proceedings, the implementation period is extended by one year.
+
+(2BA) If a party to relevant proceedings is given permission to appeal to the Court of Appeal against a decision determining the challenge, the implementation period is extended by one year.
+
+(2BB) If a party to relevant proceedings is given permission to appeal to the Supreme Court against a decision determining the challenge, the implementation period is extended by two years.
+
+(2BC) Any extension of a period under subsection (2B), (2BA) or (2BB) is to run concurrently with any other extension of the period under the same subsection (so far as they overlap).
+
+(2BD) Any extension of a period under subsection (2BA) is to run consecutively to the previous extension of the period under subsection (2B) (if they would otherwise overlap).
+
+(2BE) Any extension of a period under subsection (2BB) is to run consecutively to the previous extension of the period under subsection (2B) and any previous extension of the period under subsection (2BA) (if they would otherwise overlap).
+
+(2BF) The references in subsections (2BA) and (2BB) to determining a challenge are to determining it after a full hearing (and accordingly do not include a refusal of permission or leave).]
+
+[[^F62](2C) Nothing in this section prevents the works being begun from the time the consent is granted.]
+
+(3) Nothing in this section applies to any consent to the retention of works granted under section 8(3).
+
+##### [^F63]18A Extension of duration of certain listed building consent
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### 19 Application for variation or discharge of conditions.
+
+(1) Any person interested in a listed building with respect to which listed building consent has been granted subject to conditions may apply to the local planning authority for the variation or discharge of the conditions.
+
+(2) The application shall indicate what variation or discharge of conditions is applied for.
+
+(3) Sections 10 to 15 apply to such an application as they apply to an application for listed building consent.
+
+(4) On such an application the local planning authority or, as the case may be, the Secretary of State may vary or discharge the conditions attached to the consent, and may add new conditions consequential upon the variation or discharge, as they or he thinks fit.
+
+[[^F64](5) But a variation or discharge of conditions under this section must not—
+
+(a) vary a condition subject to which a consent was granted by extending the time within which the works must be started;
+
+(b) discharge such a condition.]
+
+#### Appeals
+
+##### 20 Right to appeal against decision or failure to take decision.
+
+(1) Where a local planning authority—
+
+(a) refuse an application for listed building consent or grant it subject to conditions;
+
+(b) refuse an application for the variation or discharge of conditions subject to which such consent has been granted or grant it and add new conditions; or
+
+(c) refuse an application for approval required by a condition imposed on the granting of listed building consent with respect to details of works or grant it subject to conditions,
+
+the applicant, if aggrieved by the decision, may appeal to the Secretary of State.
+
+(2) A person who has made such an application may also appeal to the Secretary of State if the local planning authority have [[^F65]done none of the following]—
+
+(a) given notice to the applicant of their decision on the application;
+
+[[^F66](aa) given notice to the applicant that they have exercised their power under section 81A or 81B to decline to determine the application;]
+
+(b) in the case of such an application as is mentioned in paragraph (a) or (b) of subsection (1), given notice to the applicant that the application has been referred to the Secretary of State in accordance with directions given under section 12,
+
+within the relevant period from the date of the receipt of the application, or within such extended period as may at any time be agreed upon in writing between the applicant and the authority.
+
+(3) In this section “the relevant period” means—
+
+(a) in the case of such an application as is mentioned in paragraph (a) or (b) of subsection (1), such period as may be prescribed; and
+
+(b) in the case of such an application for approval as is mentioned in paragraph (c) of subsection (1), the period of eight weeks from the date of the receipt of the application.
+
+(4) For the purposes of the application [^F67]... of sections 22(1) and 63(7)(b) in relation to an appeal under subsection (2) it shall be assumed that the authority decided to refuse the application in question.
+
+[^F68]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### 20A [[^F69]Appeal made: functions of local planning authorities
+
+(1) This section applies if a person who has made an application mentioned in section 20(1)(a) appeals to the Secretary of State under section 20(2).
+
+(2) At any time before the end of the additional period the local planning authority may give the notice referred to in section 20(2).
+
+(3) If the local planning authority give notice as mentioned in subsection (2) that their decision is to refuse the application—
+
+(a) the appeal must be treated as an appeal under section 20(1) against the refusal;
+
+(b) the Secretary of State must give the person making the appeal an opportunity to revise the grounds of the appeal;
+
+(c) the Secretary of State must give such a person an opportunity to change any option the person has chosen relating to the procedure for the appeal.
+
+(4) If the local planning authority give notice as mentioned in subsection (2) that their decision is to grant the application subject to conditions the Secretary of State must give the person making the appeal the opportunity—
+
+(a) to proceed with the appeal as an appeal under section 20(1) against the grant of the application subject to conditions;
+
+(b) to revise the grounds of the appeal;
+
+(c) to change any option the person has chosen relating to the procedure for the appeal.
+
+(5) The Secretary of State must not issue his decision on the appeal before the end of the additional period.
+
+(6) The additional period is the period prescribed for the purposes of this section and which starts on the day on which the person appeals under section 20(2).]
+
+##### 21 Appeals: supplementary provisions.
+
+(1) An appeal under section 20 must be made by notice served in the prescribed manner within such period as may be prescribed.
+
+(2) The period which may be prescribed under subsection (1) must not be less than—
+
+(a) in the case of an appeal under subsection (1) of section 20, 28 days from the receipt by the applicant of notification of the decision; or
+
+(b) in the case of an appeal under subsection (2) of that section, 28 days from the end of the relevant period (within the meaning of that section) or, as the case may be, the extended period there mentioned.
+
+(3) The notice of appeal may include as the ground or one of the grounds of the appeal a claim that the building is not of special architectural or historic interest and ought to be removed from any list compiled or approved by the Secretary of State under section 1.
+
+(4) In the case of a building with respect to which [^F70]... a listed building preservation notice is in force, the notice may include a claim that the building should not be included in such a list.
+
+[^F71]4A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F72]4B . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) Regulations under this Act may provide that an appeal in respect of an application for listed building consent or for the variation or discharge of conditions subject to which such consent has been granted shall not be entertained unless it is accompanied by a certificate in the prescribed form and corresponding to one of those described in subsection (1) of section 11.
+
+(6) Any such regulations may also include provisions corresponding to those which may be included in the regulations which may be made by virtue of section 11.
+
+(7) If any person—
+
+(a) issues a certificate which purports to comply with the requirements of regulations made by virtue of subsection (5) or (6) and contains a statement which he knows to be false or misleading in a material particular; or
+
+(b) recklessly issues a certificate which purports to comply with those requirements and contains a statement which is false or misleading in a material particular,
+
+he shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+[[^F73](8) Regulations under this Act may provide for an appeal under section 20 to be accompanied by such other information as may be prescribed.
+
+(9) [^F74]The power to make regulations under subsection (8) is exercisable by—
+
+[^F74]a [^F74]the Secretary of State, in relation to England;
+
+[^F74]b [^F74]the Welsh Ministers, in relation to Wales.
+
+[^F75]10 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F75]11 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .]
+
+##### 22 Determination of appeals.
+
+(1) The Secretary of State may allow or dismiss an appeal under section 20 or may reverse or vary any part of the authority’s decision (whether or not the appeal relates to that part), and—
+
+(a) may deal with the application as if it had been made to him in the first instance; and
+
+(b) may exercise his power under section 1 to amend any list compiled or approved under that section by removing from it the building to which the appeal relates.
+
+(2) Before determining the appeal, the Secretary of State shall, if either the applicant or the local planning authority so wish, give each of them an opportunity of appearing before, and being heard by, a person appointed by the Secretary of State for the purpose.
+
+[^F76]2B . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) The decision of the Secretary of State on [[^F77]the appeal] shall be final.
+
+(4) Schedule 3 applies to appeals under section 20.
+
+#### Revocation and modification of consent
+
+##### 23 Revocation and modification of listed building consent by local planning authority.
+
+(1) If it appears to the local planning authority that it is expedient to revoke or modify any listed building consent granted on an application under this Act, the authority may by order revoke or modify the consent to such extent as they consider expedient.
+
+(2) In performing their functions under subsection (1) the local planning authority shall have regard to [[^F78]any] material considerations.
+
+(3) The power conferred by this section to revoke or modify listed building consent in respect of any works may be exercised at any time before those works have been completed, but the revocation or modification shall not affect so much of those works as has been previously carried out.
+
+##### 24 Procedure for s. 23 orders: opposed cases.
+
+(1) Except as provided in section 25, an order made by a local planning authority under section 23 shall not take effect unless it is confirmed by the Secretary of State.
+
+(2) Where a local planning authority submit such an order to the Secretary of State for confirmation they shall serve notice on—
+
+(a) the owner of the building affected;
+
+(b) the occupier of that building; and
+
+(c) any other person who in their opinion will be affected by the order.
+
+(3) The notice shall specify the period (which must not be less than 28 days after its service) within which any person on whom it is served may require an opportunity of appearing before and being heard by a person appointed by the Secretary of State for the purpose.
+
+(4) If within that period a person on whom the notice is served so requires, the Secretary of State shall give such an opportunity both to that person and to the local planning authority before he confirms the order.
+
+(5) The Secretary of State may confirm an order submitted to him under this section either without modification or subject to such modifications as he considers expedient.
+
+##### 25 Procedure for s. 23 orders: unopposed cases.
+
+(1) This section shall have effect where—
+
+(a) the local planning authority have made an order under section 23 revoking or modifying a listed building consent granted by them; and
+
+(b) the owner and occupier of the land and all persons who in the authority’s opinion will be affected by the order have notified the authority in writing that they do not object to the order.
+
+(2) Where this section applies, instead of submitting the order to the Secretary of State for confirmation the authority shall—
+
+(a) advertise in the prescribed manner the fact that the order has been made, specifying in the advertisement—
+
+(i) the period within which persons affected by the order may give notice to the Secretary of State that they wish for an opportunity of appearing before and being heard by a person appointed by him for the purpose; and
+
+(ii) the period at the end of which, if no such notice is given to the Secretary of State, the order may take effect by virtue of this section without being confirmed by him;
+
+(b) serve notice to the same effect on the persons mentioned in subsection (l)(b);
+
+(c) send a copy of any such advertisement to the Secretary of State not more than three days after its publication.
+
+(3) If—
+
+(a) no person claiming to be affected by the order has given notice to the Secretary of State as mentioned in subsection (2)(a)(i) within the period referred to in that subsection; and
+
+(b) the Secretary of State has not directed within that period that the order be submitted to him for confirmation,
+
+the order shall take effect at the end of the period referred to in subsection (2)(a)(ii) without being confirmed by the Secretary of State as required by section 24(1).
+
+(4) The period referred to in subsection (2)(a)(i) must not be less than 28 days from the date on which the advertisement first appears.
+
+(5) The period referred to in subsection (2)(a)(ii) must not be less than 14 days from the end of the period referred to in subsection (2)(a)(i).
+
+##### 26 Revocation and modification of listed building consent by the Secretary of State.
+
+(1) If it appears to the Secretary of State that it is expedient that an order should be made under section 23 revoking or modifying any listed building consent granted on an application under this Act, he may himself make such an order revoking or modifying the consent to such extent as he considers expedient.
+
+(2) In performing his functions under subsection (1) the Secretary of State shall have regard to [[^F79]any] material considerations.
+
+(3) The Secretary of State shall not make an order under that subsection without consulting the local planning authority.
+
+(4) Where the Secretary of State proposes to make such an order he shall serve notice on—
+
+(a) the owner of the building affected;
+
+(b) the occupier of that building; and
+
+(c) any other person who in his opinion will be affected by the order.
+
+(5) The notice shall specify the period (which must not be less than 28 days after its service) within which any person on whom it is served may require an opportunity of appearing before and being heard by a person appointed by the Secretary of State for the purpose.
+
+(6) If within that period a person on whom it is served so requires, before the Secretary of State makes the order he shall give such an opportunity both to him and to the local planning authority.
+
+(7) The power conferred by this section to revoke or modify listed building consent in respect of any works may be exercised at any time before those works have been completed, but the revocation or modification shall not affect so much of those works as has been previously carried out.
+
+(8) An order under this section shall have the same effect as if it had been made by the local planning authority under section 23 and confirmed by the Secretary of State under section 24.
+
+#### [[^F80]Buildings in England: heritage partnership agreements
+
+##### 26A Heritage partnership agreements
+
+(1) A relevant local planning authority may make an agreement under this section (a “heritage partnership agreement”) with any owner of a listed building, or a part of such a building [^F81]....
+
+(2) Any of the following may also be a party to a heritage partnership agreement in addition to an owner and the relevant local planning authority—
+
+(a) any other relevant local planning authority;
+
+(b) the Secretary of State;
+
+(c) the Commission;
+
+(d) any person who has an interest in the listed building;
+
+(e) any occupier of the listed building;
+
+(f) any person involved in the management of the listed building;
+
+(g) any other person who appears to the relevant local planning authority appropriate as having special knowledge of, or interest in, the listed building, or in buildings of architectural or historic interest more generally.
+
+(3) A heritage partnership agreement may contain provision—
+
+(a) granting listed building consent under section 8(1) in respect of specified works for the alteration or extension of the listed building to which the agreement relates, and
+
+(b) specifying any conditions to which the consent is subject.
+
+(4) The conditions to which listed building consent may be subject under subsection (3)(b) in respect of specified works are those that could be attached to listed building consent in respect of the works if consent were to be granted under section 16.
+
+(5) If a heritage partnership agreement contains provision under subsection (3), nothing in sections 10 to 26 and 28 applies in relation to listed building consent for the specified works, subject to any regulations under section 26B(2)(f).
+
+(6) A heritage partnership agreement may also—
+
+(a) specify or describe works that would or would not, in the view of the parties to the agreement, affect the character of the listed building as a building of special architectural or historic interest;
+
+(b) make provision about the maintenance and preservation of the listed building;
+
+(c) make provision about the carrying out of specified work, or the doing of any specified thing, in relation to the listed building;
+
+(d) provide for public access to the listed building and the provision to the public of associated facilities, information or services;
+
+(e) restrict access to, or use of, the listed building;
+
+(f) prohibit the doing of any specified thing in relation to the listed building;
+
+(g) provide for a relevant public authority to make payments of specified amounts and on specified terms—
+
+(i) for, or towards, the costs of any works provided for under the agreement; or
+
+(ii) in consideration of any restriction, prohibition or obligation accepted by any other party to the agreement.
+
+(7) For the purposes of subsection (6)(g), each of the following, if a party to the agreement, is a relevant public authority—
+
+(a) the Secretary of State;
+
+(b) the Commission;
+
+(c) a relevant local planning authority.
+
+(8) In this section “specified” means specified or described in the heritage partnership agreement.
+
+(9) In this section and section 26B—
+
+- “owner”, in relation to a listed building or a part of such a building, means a person who is for the time being —
+
+  - (a) the estate owner in respect of the fee simple in the building or part; or
+  - (b) entitled to a tenancy of the building or part granted or extended for a term of years certain of which not less than seven years remain unexpired;
+
+- “relevant local planning authority”, in relation to a listed building, means a local planning authority in whose area the building or any part of the building is situated.
+
+##### 26B Heritage partnership agreements: supplemental
+
+(1) A heritage partnership agreement—
+
+(a) must be in writing;
+
+(b) must make provision for the parties to review its terms at intervals specified in the agreement;
+
+(c) must make provision for its termination and variation;
+
+(d) may relate to more than one listed building or part, provided that in each case a relevant local planning authority and an owner are parties to the agreement; and
+
+(e) may contain incidental and consequential provisions.
+
+(2) The Secretary of State may by regulations make provision—
+
+(a) about any consultation that must take place before heritage partnership agreements are made or varied;
+
+(b) about the publicity that must be given to heritage partnership agreements before or after they are made or varied;
+
+(c) specifying terms that must be included in heritage partnership agreements;
+
+(d) enabling the Secretary of State or any other person specified in the regulations to terminate by order a heritage partnership agreement or any provision of such an agreement;
+
+(e) about the provision that may be included in an order made under regulations under paragraph (d), including provision enabling such orders to contain supplementary, incidental, transitory, transitional or saving provision;
+
+(f) applying or reproducing, with or without modifications, any provision of sections 10 to 26 and 28 for the purposes of heritage partnership agreements;
+
+(g) providing for any of the following, as they apply for the purposes of provisions mentioned in paragraph (f), to apply with any modifications consequential on provision made under that paragraph—
+
+(i) sections 30 to 37;
+
+(ii) sections 62 and 63;
+
+(iii) Parts 3 and 4;
+
+(iv) Schedule 3.
+
+(3) Regulations made under subsection (2)(a) may, in particular, include provision as to—
+
+(a) the circumstances in which consultation must take place;
+
+(b) the types of listed building in respect of which consultation must take place;
+
+(c) who must carry out the consultation;
+
+(d) who must be consulted (including provision enabling the Commission to direct who is to be consulted in particular cases); and
+
+(e) how the consultation must be carried out.
+
+(4) Listed building consent granted by a heritage partnership agreement (except so far as the agreement or regulations under subsection (2) otherwise provide) enures for the benefit of the building and of all persons for the time being interested in it.
+
+(5) Subject to subsection (4), a heritage partnership agreement cannot impose any obligation or liability, or confer any right, on a person who is not party to the agreement.
+
+(6) Section 84 of the Law of Property Act 1925 (power to discharge or modify restrictive covenant) does not apply to a heritage partnership agreement.]
+
+#### [[^F82]Buildings in England: orders granting listed building consent
+
+##### 26C Listed building consent orders
+
+(1) The Secretary of State may by order (a “listed building consent order”) grant listed building consent under section 8(1) in respect of works of any description for the alteration or extension of listed buildings of any description [^F83]....
+
+(2) The consent may be granted subject to conditions specified in the order.
+
+(3) Without prejudice to the generality of subsection (2), the conditions that may be specified include any conditions subject to which listed building consent may be granted under section 16.
+
+(4) A listed building consent order may (without prejudice to section 17(2)) give the local planning authority power to require details of works to be approved by them, and may grant consent subject to conditions with respect to—
+
+(a) the making of an application to the authority for a determination as to whether such approval is required, and
+
+(b) the outcome of such an application or the way it is dealt with.
+
+(5) A listed building consent order may enable the Secretary of State or the local planning authority to direct that consent granted by the order does not apply—
+
+(a) to a listed building specified in the direction;
+
+(b) to listed buildings of a description specified in the direction;
+
+(c) to listed buildings in an area specified in the direction.
+
+(6) An order may in particular make provision about the making, coming into force, variation and revocation of such a direction, including provision conferring powers on the Secretary of State in relation to directions by a local planning authority.
+
+(7) Nothing in sections 10 to 26 applies in relation to listed building consent granted by a listed building consent order; but that does not affect the application of sections 20, 21 and 22 in relation to an application for approval required by a condition to which consent is subject.
+
+##### 26D Local listed building consent orders
+
+(1) A local planning authority [^F84]... may by order (a “local listed building consent order”) grant listed building consent under section 8(1) in respect of works of any description for the alteration or extension of listed buildings.
+
+(2) Regulations under this Act may provide that subsection (1) does not apply to listed buildings of any description or in any area.
+
+(3) The consent granted by a local listed building consent order may relate—
+
+(a) to all listed buildings in the area of the authority or any part of that area;
+
+(b) to listed buildings of any description in that area or any part of that area.
+
+(4) The consent may be granted subject to conditions specified in the order.
+
+(5) Without prejudice to the generality of subsection (4), the conditions that may be specified include any subject to which listed building consent may be granted under section 16.
+
+(6) A local listed building consent order may enable the local planning authority to direct that the consent granted by the order in respect of works of any description does not apply—
+
+(a) to a listed building specified in the direction;
+
+(b) to listed buildings of a description specified in the direction;
+
+(c) to listed buildings in an area specified in the direction.
+
+(7) An order may in particular make provision about the making, coming into force, variation and revocation of such a direction, including provision conferring powers on the Secretary of State.
+
+(8) Nothing in sections 10 to 26 applies in relation to listed building consent granted by a local listed building consent order; but that does not affect the application of sections 20, 21 and 22 in relation to an application for approval required by a condition to which consent is subject.
+
+(9) Schedule 2A makes provision in connection with local listed building consent orders.
+
+##### 26E Powers of Secretary of State in relation to local orders
+
+(1) At any time before a local listed building consent order is adopted by a local planning authority the Secretary of State may direct that the order (or any part of it) is not to be adopted without the Secretary of State's approval.
+
+(2) If the Secretary of State gives a direction under subsection (1)—
+
+(a) the authority must not take any step in connection with the adoption of the order until they have submitted the order or the part to the Secretary of State and the Secretary of State has decided whether to approve it;
+
+(b) the order has no effect unless it (or the part) has been approved by the Secretary of State.
+
+(3) In considering an order or part submitted under subsection (2)(a) the Secretary of State may take account of any matter the Secretary of State thinks relevant.
+
+(4) It is immaterial whether any such matter was taken account of by the local planning authority.
+
+(5) The Secretary of State—
+
+(a) may approve or reject an order or part of an order submitted under subsection (2)(a);
+
+(b) must give reasons for that decision.
+
+(6) The Secretary of State—
+
+(a) may at any time before a local listed building consent order is adopted by the local planning authority, direct them to modify it in accordance with the direction;
+
+(b) must give reasons for any such direction.
+
+(7) The local planning authority—
+
+(a) must comply with a direction under subsection (6);
+
+(b) must not adopt the order unless the Secretary of State gives notice of being satisfied that they have complied with the direction.
+
+(8) The Secretary of State—
+
+(a) may at any time by order revoke a local listed building consent order if of the opinion that it is expedient to do so;
+
+(b) must give reasons for doing so.
+
+(9) The Secretary of State—
+
+(a) must not make an order under subsection (8) without consulting the local planning authority;
+
+(b) if proposing to make such an order, must serve notice on the local planning authority.
+
+(10) A notice under subsection (9)(b) must specify the period (which must not be less than 28 days from the date of its service) within which the authority may require an opportunity of appearing before and being heard by a person appointed by the Secretary of State for the purpose.
+
+(11) The Secretary of State must give the authority such an opportunity if they require it within the period specified in the notice.
+
+##### 26F Considerations in making orders
+
+(1) In considering whether to make a listed building consent order or local listed building consent order the Secretary of State or local planning authority must have special regard to the desirability of preserving—
+
+(a) listed buildings of a description to which the order applies,
+
+(b) their setting, or
+
+(c) any features of special architectural or historic interest which they possess.
+
+(2) Before making a listed building consent order the Secretary of State must consult the Commission.
+
+##### 26G Effect of revision or revocation of order on incomplete works
+
+(1) A listed building consent order or local listed building consent order may include provision permitting the completion of works if—
+
+(a) listed building consent is granted by the order in respect of the works, and
+
+(b) the listed building consent is withdrawn after the works are started but before they are completed.
+
+(2) Listed building consent granted by an order is withdrawn—
+
+(a) if the order is revoked;
+
+(b) if the order is varied or (in the case of a local listed building consent order) revised so that it ceases to grant listed building consent in respect of the works or materially changes any condition or limitation to which the grant of listed building consent is subject;
+
+(c) if a direction applying to the listed building is issued under powers conferred under section 26C(5) or 26D(6).]
+
+#### [[^F85]Buildings in England: certificates of lawfulness
+
+##### 26H Certificate of lawfulness of proposed works
+
+(1) A person who wishes to ascertain whether proposed works for the alteration or extension of a listed building [^F86]... would be lawful may make an application to the local planning authority specifying the building and describing the works.
+
+(2) For the purposes of this section works would be lawful if they would not affect the character of the listed building as a building of special architectural or historic interest.
+
+(3) If on an application under this section the local planning authority are provided with information satisfying them that the works described in the application would be lawful at the time of the application, they must issue a certificate to that effect; and in any other case they must refuse the application.
+
+(4) A certificate under this section must—
+
+(a) specify the building to which it relates;
+
+(b) describe the works concerned;
+
+(c) give the reasons for determining that the works would be lawful; and
+
+(d) specify the date of issue of the certificate.
+
+(5) Works for which a certificate is issued under this section are to be conclusively presumed to be lawful, provided that—
+
+(a) they are carried out within 10 years beginning with the date of issue of the certificate, and
+
+(b) the certificate is not revoked under section 26I.
+
+##### 26I Certificates under section 26H: supplementary
+
+(1) An application for a certificate under section 26H must be made in such manner as may be prescribed by regulations under this Act.
+
+(2) An application must include such particulars, and be verified by such evidence, as may be required—
+
+(a) by the regulations,
+
+(b) by any directions given under the regulations, or
+
+(c) by the local planning authority.
+
+(3) Regulations under this Act may make provision about how applications for a certificate under section 26H are to be dealt with by local planning authorities.
+
+(4) In particular, regulations may provide for requiring the authority—
+
+(a) to give to any applicant within a prescribed period such notice as may be prescribed as to the manner in which the application has been dealt with; and
+
+(b) to give to the Secretary of State, and to such other persons as may be prescribed, prescribed information with respect to such applications made to the authority, including information as to the manner in which any application has been dealt with.
+
+(5) A certificate under section 26H may be issued--
+
+(a) for the whole or part of the listed building specified in the application; and
+
+(b) for all or part of the works described in the application;
+
+and must be in such form as may be prescribed.
+
+(6) A local planning authority may revoke a certificate under section 26H if, on the application for the certificate—
+
+(a) a statement was made or document used which was false in a material particular; or
+
+(b) any material information was withheld.
+
+(7) Regulations under this section may make provision for regulating the manner in which certificates may be revoked and the notice to be given of such revocation.
+
+##### 26J Offences
+
+(1) A person is guilty of an offence if, for the purpose of procuring a particular decision on an application (whether or not by that person) for the issue of a certificate under section 26H, the person—
+
+(a) knowingly or recklessly makes a statement which is false or misleading in a material particular;
+
+(b) with intent to deceive, uses any document which is false or misleading in a material particular; or
+
+(c) with intent to deceive, withholds any material information.
+
+(2) A person guilty of an offence under subsection (1) is liable—
+
+(a) on summary conviction, to a fine not exceeding the statutory maximum; or
+
+(b) on conviction on indictment, to imprisonment for a term not exceeding two years, or a fine, or both.
+
+(3) Notwithstanding section 127 of the Magistrates' Courts Act 1980, a magistrates' court may try an information in respect of an offence under subsection (1) whenever laid.
+
+##### 26K Appeals against refusal or failure to give decision on application
+
+(1) Where an application is made to a local planning authority for a certificate under section 26H and—
+
+(a) the application is refused or is refused in part, or
+
+(b) the authority do not give notice to the applicant of their decision on the application within such period as may be prescribed under section 26I or within such extended period as may at any time be agreed in writing between the applicant and the authority,
+
+the applicant may by notice appeal to the Secretary of State.
+
+(2) A notice of appeal under this section—
+
+(a) must be served within such time and in such manner as may be prescribed;
+
+(b) must be accompanied by such information as may be prescribed.
+
+(3) The time prescribed for the service of a notice of appeal under this section must not be less than—
+
+(a) 28 days from the date of notification of the decision on the application; or
+
+(b) in the case of an appeal under subsection (1)(b), 28 days from—
+
+(i) the end of the period prescribed as mentioned in subsection (1)(b), or
+
+(ii) as the case may be, the extended period mentioned in subsection (1)(b).
+
+(4) On an appeal under this section, the Secretary of State must grant the appellant a certificate under section 26H or, in the case of a refusal in part, modify the certificate granted by the authority on the application, if and so far as the Secretary of State is satisfied—
+
+(a) in the case of an appeal under subsection (1)(a), that the authority's refusal is not well-founded, or
+
+(b) in the case of an appeal under subsection (1)(b), that if the authority had refused the application their refusal would not have been well-founded.
+
+(5) If and so far as the Secretary of State is satisfied that the authority's refusal is or, as the case may be, would have been well-founded, the Secretary of State must dismiss the appeal.
+
+(6) Where the Secretary of State grants a certificate under section 26H on an appeal under this section, the Secretary of State must give notice to the local planning authority of that fact.
+
+(7) References in this section to a refusal of an application in part include a modification or substitution of the description in the application of the works concerned.
+
+(8) Schedule 3 applies to an appeal under this section.]
+
+#### [^F87]...
+
+##### [^F87]26L Heritage partnership agreements
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### [^F88]26M Heritage partnership agreements: supplemental
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Chapter III — Rights of Owners etc.
+
+#### Compensation
+
+##### [^F89]27 Compensation for refusal of consent to alteration, etc. of listed building.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### 28 Compensation where listed building consent revoked or modified.
+
+(1) This section shall have effect where listed building consent is revoked or modified by an order under section 23 (other than an order which takes effect by virtue of section 25).
+
+(2) If on a claim made to the local planning authority within the prescribed time and in the prescribed manner, it is shown that a person interested in the building—
+
+(a) has incurred expenditure in carrying out works which are rendered abortive by the revocation or modification; or
+
+(b) has otherwise sustained loss or damage which is directly attributable to the revocation or modification,
+
+the authority shall pay that person compensation in respect of that expenditure, loss or damage.
+
+(3) Subject to subsection (4), no compensation shall be paid under this section in respect of—
+
+(a) any works carried out before the grant of the listed building consent which is revoked or modified; or
+
+(b) any other loss or damage (not being loss or damage consisting of depreciation of the value of an interest in land) arising out of anything done or omitted to be done before the grant of that consent.
+
+(4) For the purposes of this section, expenditure incurred in the preparation of plans for the purposes of any works, or upon other similar matters preparatory to any works, shall be taken to be included in the expenditure incurred in carrying out those works.
+
+##### 28A [[^F90]Compensation where consent formerly granted by order is granted conditionally or refused
+
+(1) Section 28 also has effect (subject to subsections (2) and (3)) where—
+
+(a) listed building consent granted by a listed building consent order or a local listed building consent order is withdrawn (whether by the revocation or amendment of the order or by the issue of a direction), and
+
+(b) on an application for listed building consent made within the prescribed period after the withdrawal, consent for works formerly authorised by the order is refused or is granted subject to conditions other than those imposed by the order.
+
+(2) Section 28 does not have effect by virtue of subsection (1) if—
+
+(a) the works authorised by the order were started before the withdrawal, and
+
+(b) the order included provision in pursuance of section 26G permitting the works to be completed after the withdrawal.
+
+(3) Section 28 does not have effect by virtue of subsection (1) if—
+
+(a) notice of the withdrawal was published in the prescribed manner and within the prescribed period before the withdrawal, and
+
+(b) the works authorised by the order were not started before the notice was published.
+
+(4) Where section 28 has effect by virtue of subsection (1), references in section 28(2) and (3) to the revocation or modification of listed building consent are references to the withdrawal of the listed building consent by revocation or amendment of the order or by issue of the direction.]
+
+##### [^F91]28B Compensation for loss or damage caused by interim protection
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### [^F92]29 Compensation for loss or damage in Wales caused by service of building preservation notice.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### 30 Local planning authorities for compensation purposes.
+
+(1) Subject to subsection (2)—
+
+[^F93]a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) claims under section 28 shall be made to and paid by the local planning authority who made the order in question or, where it was made by the Secretary of State under section 26, the local planning authority who are treated as having made it under that section;
+
+[^F94]c . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+and references in [[^F95]section 28] to a local planning authority shall be construed accordingly.
+
+(2) The Secretary of State may after consultation with all the authorities concerned direct that where a local planning authority is liable to pay compensation under section [^F96] . . . 28 [^F97]... in any particular case or class of case they shall be entitled to be reimbursed the whole of the compensation or such proportion of it as he may direct from one or more authorities specified in the direction.
+
+(3) This section does not apply in Greater London.
+
+##### 31 General provisions as to compensation for depreciation under this Part.
+
+(1) For the purpose of assessing any compensation to which this section applies, the rules set out in section 5 of the [^M2]Land Compensation Act 1961 shall, so far as applicable and subject to any necessary modifications, have effect as they have effect for the purpose of assessing compensation for the compulsory acquisition of an interest in land.
+
+(2) This section applies to any compensation which is payable under sections [[^F98]28 and 44AC] in respect of depreciation of the value of an interest in land.
+
+(3) Where an interest in land is subject to a mortgage—
+
+(a) any compensation to which this section applies, which is payable in respect of depreciation of the value of that interest, shall be assessed as if the interest were not subject to the mortgage;
+
+(b) a claim for any such compensation may be made by any mortgagee of the interest, but without prejudice to the making of a claim by the person entitled to the interest;
+
+(c) no compensation to which this section applies shall be payable in respect of the interest of the mortgagee (as distinct from the interest which is subject to the mortgage); and
+
+(d) any compensation to which this section applies which is payable in respect of the interest which is subject to the mortgage shall be paid to the mortgagee, or, if there is more than one mortgagee, to the first mortgagee, and shall in either case be applied by him as if it were proceeds of sale.
+
+(4) Except in so far as may be otherwise provided by any regulations made under this Act, any question of disputed compensation under [[^F99]section 28] shall be referred to and determined by the [[^F100]Upper Tribunal].
+
+(5) In relation to the determination of any such question, the provisions of [[^F101]section] 4 of the [^M3]Land Compensation Act 1961 shall apply subject to any necessary modifications and to the provisions of any regulations made under this Act.
+
+#### Listed building purchase notices
+
+##### 32 Purchase notice on refusal or conditional grant of listed building consent.
+
+(1) Where—
+
+(a) [[^F102]on an application for listed building consent in respect of a building, consent] is refused, or granted subject to conditions, or [[^F103]such consent granted on an application] is revoked or modified by an order under section 23 or 26; and
+
+(b) any owner of the building claims—
+
+(i) that the conditions mentioned in subsection (2) are satisfied with respect to it and any land comprising the building, or contiguous or adjacent to it, and owned with it; and
+
+(ii) that the conditions mentioned in subsection (3) are satisfied with respect to that land,
+
+he may, within the prescribed time and in the prescribed manner, serve on the council of the district [^F104]... or London borough in which the building and land are situated a notice (in this Act referred to as a “listed building purchase notice”) requiring that council to purchase his interest in the building and land in accordance with sections 33 to 37.
+
+(2) The conditions mentioned in subsection (1)(b)(i) are—
+
+(a) that the building and land in respect of which the notice is served have become incapable of reasonably beneficial use in their existing state;
+
+(b) in a case where listed building consent has been granted subject to conditions with respect to the execution of the works or has been modified by the imposition of such conditions, that the land cannot be rendered capable of such use by the carrying out of the works in accordance with those conditions; and
+
+(c) in any case, that the land cannot be rendered capable of such use by the carrying out of any other works for which listed building consent has been granted or for which the local planning authority or the Secretary of State has undertaken to grant such consent.
+
+(3) The conditions mentioned in subsection (1)(b)(ii) are that the use of the land is substantially inseparable from that of the building and that it ought to be treated, together with the building, as a single holding.
+
+(4) In determining for the purpose of subsection (2) what is or would in any particular circumstances be a reasonably beneficial use of land, no account shall be taken of any prospective use which would involve the carrying out of [[^F105]development (other than any development specified in paragraph 1 or 2 of Schedule 3 to the principal Act)] or any works requiring listed building consent which might be executed to the building, other than works for which the local planning authority or the Secretary of State have undertaken to grant such consent.
+
+[[^F106](4A) This section and sections 33 to 37 shall have effect as if—
+
+(a) the bodies on whom a listed building purchase notice may be served under this section included any National Park authority which is the local planning authority for the area in which the building and land in question are situated; and
+
+(b) a National Park authority were a local authority for the purposes of this Act and the Park for which it is the local planning authority were its area;
+
+and the references in those sections and in section 63(7)(a) to a council and to a local authority shall be construed accordingly.]
+
+(5) References in sections 33 to 37 to the land are to the building and the land in respect of which the notice under subsection (1) is served.
+
+##### 32A [[^F107]Purchase notices: Crown land
+
+(1) A listed building purchase notice may be served in respect of Crown land only as mentioned in this section.
+
+(2) The owner of a private interest in Crown land must not serve a listed building purchase notice unless—
+
+(a) he first offers to dispose of his interest to the appropriate authority on equivalent terms, and
+
+(b) the offer is refused by the appropriate authority.
+
+(3) The appropriate authority may serve a listed building purchase notice in relation to the following land—
+
+(a) land belonging to Her Majesty in right of Her private estates;
+
+(b) land belonging to Her Majesty in right of the Duchy of Lancaster;
+
+(c) land belonging to the Duchy of Cornwall;
+
+(d) land which forms part of the Crown Estate.
+
+(4) An offer is made on equivalent terms if the price payable for the interest is equal to (and, in default of agreement, determined in the same manner as) the compensation which would be payable in respect of it if it were acquired in pursuance of a listed building purchase notice.]
+
+##### 33 Action by council on whom listed building purchase notice served.
+
+(1) The council on whom a listed building purchase notice is served by an owner shall serve on him a notice stating either—
+
+(a) that the council are willing to comply with the purchase notice; or
+
+(b) that another local authority or statutory undertakers specified in the notice under this subsection have agreed to comply with it in their place; or
+
+(c) that for reasons so specified the council are not willing to comply with the purchase notice and have not found any other local authority or statutory undertakers who will agree to comply with it in their place and that they have transmitted to the Secretary of State a copy of the purchase notice and of the notice under this subsection.
+
+(2) A notice under subsection (1) must be served before the end of the period of three months beginning with the date of service of the listed building purchase notice.
+
+(3) Where such a notice as is mentioned in paragraph (a) or (b) of subsection (1) has been duly served, the council or, as the case may be, the other local authority or statutory undertakers specified in the notice shall be deemed—
+
+(a) to be authorised to acquire the interest of the owner compulsorily in accordance with the provisions of section 47; and
+
+(b) to have served a notice to treat in respect of it on the date of service of the notice under that subsection.
+
+(4) Where the council propose to serve such a notice as is mentioned in subsection (l)(c), they shall first send to the Secretary of State a copy of—
+
+(a) the proposed notice; and
+
+(b) the listed building purchase notice which was served on them.
+
+##### 34 Procedure on reference of listed building purchase notice to Secretary of State.
+
+(1) Where a copy of a listed building purchase notice is sent to the Secretary of State under section 33(4), he shall consider whether to confirm the notice or to take other action under section 35 in respect of it.
+
+(2) Before confirming such a notice or taking such other action, the Secretary of State shall give notice of his proposed action—
+
+(a) to the person who served the notice;
+
+(b) to the council on whom it was served;
+
+(c) [^F108]... outside Greater London—
+
+(i) to the county planning authority and also, where that authority is a joint planning board, to the county council; and
+
+(ii) if the district council on whom the purchase notice in question was served is a constituent member of a joint planning board, to that board;
+
+[^F109]cc . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(d) if the Secretary of State proposes to substitute any other local authority or statutory undertakers for the council on whom the notice was served, to them.
+
+(3) A notice under subsection (2) shall specify the period (which must not be less than 28 days from its service) within which any of the persons on whom it is served may require the Secretary of State to give him an opportunity of appearing before and being heard by a person appointed by him for the purpose.
+
+(4) If any of those persons so require, before the Secretary of State confirms the listed building purchase notice or takes any other action under section 35 in respect of it, he shall give such an opportunity to each of them.
+
+(5) If after any of those persons have appeared before and been heard by the appointed person, it appears to the Secretary of State to be expedient to take action under section 35 otherwise than in accordance with the notice given by him, the Secretary of State may take that action accordingly.
+
+##### 35 Action by Secretary of State in relation to listed building purchase notice.
+
+(1) Subject to the following provisions of this section, if the Secretary of State is satisfied that the conditions specified in section 32(2)(a) to (c) are satisfied in the case of any listed building purchase notice, he shall confirm the notice.
+
+(2) If the Secretary of State is satisfied that those conditions are fulfilled only in respect of part of the land, he shall confirm the notice only in respect of that part and the notice shall have effect accordingly.
+
+(3) The Secretary of State shall not confirm the notice unless he is satisfied that the land comprises such land contiguous or adjacent to the building as is in his opinion required—
+
+(a) for preserving the building or its amenities, or
+
+(b) for affording access to it, or
+
+(c) for its proper control or management.
+
+(4) If it appears to the Secretary of State to be expedient to do so he may, instead of confirming the notice—
+
+(a) in the case of a notice served on account of the refusal of listed building consent for any works, grant such consent for those works;
+
+(b) in the case of a notice served on account of such consent being granted subject to conditions, revoke or amend those conditions so far as it appears to him to be required in order to enable the land to be rendered capable of reasonably beneficial use by the carrying out of those works;
+
+(c) in the case of a notice served on account of such consent being revoked by an order under section 23 or 26, cancel the order revoking the consent; or
+
+(d) in the case of a notice served on account of such consent being modified by such an order by the imposition of conditions, revoke or amend those conditions so far as appears to him to be required in order to enable the land to be rendered capable of reasonably beneficial use by the carrying out of the works in respect of which the consent was granted.
+
+(5) If it appears to the Secretary of State that the land (or any part of it) could be rendered capable of reasonably beneficial use within a reasonable time by the carrying out—
+
+(a) of any other works for which listed building consent ought to be granted, or
+
+(b) of any development for which planning permission ought to be granted,
+
+he may, instead of confirming the listed building purchase notice (or confirming it so far as it relates to that part), direct that if an application is made for such consent for those works or, as the case may be, for planning permission for that development, it shall be granted.
+
+(6) If it appears to the Secretary of State, having regard to the probable ultimate use of the building or its site, that it is expedient to do so, he may, if he confirms the notice, modify it either in relation to the whole or any part of the land, by substituting another local authority or statutory undertakers for the council on whom the notice was served.
+
+(7) Any reference in section 34 to the taking of action by the Secretary of State under this section includes a reference to the taking by him of a decision not to confirm the notice on the grounds that any of the conditions referred to in subsection (1) are not satisfied.
+
+##### 36 Effect of Secretary of State’s action in relation to listed building purchase notice.
+
+(1) Where the Secretary of State confirms a listed building purchase notice, the council on whom the notice was served shall be deemed—
+
+(a) to be authorised to acquire the owner’s interest in the land compulsorily in accordance with the provisions of section 47; and
+
+(b) to have served a notice to treat in respect of it on such date as the Secretary of State may direct.
+
+(2) If before the end of the relevant period the Secretary of State has neither—
+
+(a) confirmed the listed building purchase notice; nor
+
+(b) notified the owner by whom it was served that he does not propose to confirm it; nor
+
+(c) taken any such action in respect of it as is mentioned in subsection (4) or (5) of section 35,
+
+the notice shall be deemed to be confirmed at the end of that period and the council on whom it was served shall be deemed to have been authorised as mentioned in subsection (1)(a) and to have served a notice to treat in respect of the owner’s interest at the end of that period.
+
+(3) Where a listed building purchase notice is confirmed in respect of only part of the land, references in this section to the owner’s interest in the land are references to the owner’s interest in that part.
+
+(4) Where a listed building purchase notice is modified under section 35(6) by the substitution of another local authority or statutory undertakers for the council on whom the notice was served, the reference in subsection (1) to that council is to that other local authority or those statutory undertakers.
+
+(5) In this section “the relevant period” means, subject to subsection (6) below—
+
+(a) the period of nine months beginning with the date of the service of the listed building purchase notice; or
+
+(b) if it ends earlier, the period of six months beginning with the date on which a copy of the notice was sent to the Secretary of State.
+
+(6) The relevant period does not run if the Secretary of State has before him at the same time both—
+
+(a) a copy of the listed building purchase notice sent to him under section 33(4); and
+
+(b) a notice of appeal under section 20 or section 39 relating to any of the land to which the listed building purchase notice relates.
+
+(7) Where any decision by the Secretary of State to confirm or not to confirm a listed building purchase notice (including any decision to confirm the notice only in respect of part of the land, or to give any direction as to the granting of listed building consent or planning permission) is quashed under section 63, the notice shall be treated as cancelled but the owner may serve a further notice in its place.
+
+(8) For the purposes of determining whether such a further notice has been served within the period prescribed for the service of listed building purchase notices, the decision concerning listed building consent on account of which the notice has been served shall be treated as having been made on the date on which the Secretary of State’s decision was quashed.
+
+##### 37 Reduction of compensation on acquisition where s. 28 compensation payable.
+
+Where compensation is payable under section 28 in respect of expenditure incurred in carrying out any works to a building, any compensation which then becomes payable in respect of the acquisition of an interest in the land in pursuance of a listed building purchase notice shall be reduced by an amount equal to the value of those works.
+
+### Chapter IV — Enforcement
+
+#### 38 Power to issue listed building enforcement notice.
+
+(1) Where it appears to the local planning authority—
+
+(a) that any works have been or are being executed to a listed building in their area; and
+
+(b) that the works are such as to involve a contravention of section 9(1) or (2),
+
+they may, if they consider it expedient to do so having regard to the effect of the works on the character of the building as one of special architectural or historic interest, issue a notice under this section (in this Act referred to as a “listed building enforcement notice”).
+
+(2) A listed building enforcement notice shall specify the alleged contravention and require such steps as may be specified in the notice to be taken [^F110] . . .—
+
+(a) for restoring the building to its former state; or
+
+(b) if the authority consider that such restoration would not be reasonably practicable or would be undesirable, for executing such further works specified in the notice as they consider necessary to alleviate the effect of the works which were carried out without listed building consent; or
+
+(c) for bringing the building to the state in which it would have been if the terms and conditions of any listed building consent which has been granted for the works had been complied with.
+
+[^F111] [ 3 A listed building enforcement notice—
+
+(a) shall specify the date on which it is to take effect and, subject to sections 39(3) and 65(3A), shall take effect on that date, and
+
+(b) shall specify the period within which any steps are required to be taken and may specify different periods for different steps,
+
+and, where different periods apply to different steps, references in this Part to the period for compliance with a listed building enforcement notice, in relation to any step, are to the period within which the step is required to be taken.]
+
+(4) A copy of a listed building enforcement notice shall be served, not later than 28 days after the date of its issue and not later than 28 days before the [[^F112]date specified in it as the date on which it is to take effect]—
+
+(a) on the owner and on the occupier of the building to which it relates; and
+
+(b) on any other person having an interest in that building which in the opinion of the authority is materially affected by the notice.
+
+[^F113] [[^F113] 5 The local planning authority may—
+
+(a) withdraw a listed building enforcement notice (without prejudice to their power to issue another); or
+
+(b) waive or relax any requirement of such a notice and, in particular, may extend the period specified in accordance with section 38(3),
+
+and the powers conferred by this subsection may be exercised whether or not the notice has taken effect.
+
+[^F113] 6 The local planning authority shall, immediately after exercising the powers conferred by subsection (5), give notice of the exercise to every person who has been served with a copy of the listed building enforcement notice or would, if the notice were re-issued, be served with a copy of it]
+
+(7) Where a listed building enforcement notice imposes any such requirement as is mentioned in subsection (2)(b), listed building consent shall be deemed to be granted for any works of demolition, alteration or extension of the building executed as a result of compliance with the notice.
+
+#### 39 Appeal against listed building enforcement notice.
+
+(1) A person having an interest in the building to which a listed building enforcement notice relates or a relevant occupier may appeal to the Secretary of State against the notice on any of the following grounds—
+
+(a) that the building is not of special architectural or historic interest;
+
+[^F114] [ b that the matters alleged to constitute a contravention of section 9(1) or (2) have not occurred;
+
+(c) that those matters (if they occurred) do not constitute such a contravention]
+
+(d) that works to the building were urgently necessary in the interests of safety or health or for the preservation of the building, that it was not practicable to secure safety or health or, as the case may be, the preservation of the building by works of repair or works for affording temporary support or shelter, and that the works carried out were limited to the minimum measures immediately necessary;
+
+(e) that listed building consent ought to be granted for the works, or that any relevant condition of such consent which has been granted ought to be discharged, or different conditions substituted;
+
+(f) that copies of the notice were not served as required by section 38(4);
+
+(g) except in relation to such a requirement as is mentioned in section 38(2)(b) or (c), that the requirements of the notice exceed what is necessary for restoring the building to its condition before the works were carried out;
+
+(h) that the period specified in the notice as the period within which any step required by the notice is to be taken falls short of what should reasonably be allowed;
+
+(i) that the steps required by the notice for the purpose of restoring the character of the building to its former state would not serve that purpose;
+
+(j) that steps required to be taken by virtue of section 38(2)(b) exceed what is necessary to alleviate the effect of the works executed to the building;
+
+(k) that steps required to be taken by virtue of section 38(2)(c) exceed what is necessary to bring the building to the state in which it would have been if the terms and conditions of the listed building consent had been complied with.
+
+[^F115] [ 2 An appeal under this section shall be made [^F116] . . . —
+
+(a) by giving written notice of the appeal to the Secretary of State before the date specified in the listed building enforcement notice as the date on which it is to take effect; or
+
+(b) by sending such notice to him in a properly addressed and pre-paid letter posted to him at such time that, in the ordinary course of post, it would be delivered to him before that date[[^F117]; or
+
+(c) by sending such notice to him using electronic communications at such time that, in the ordinary course of transmission, it would be delivered to him before that date.]]
+
+(3) Where such an appeal is brought the listed building enforcement notice shall [[^F118]subject to any order under section 65(3A)] be of no effect pending the final determination or the withdrawal of the appeal.
+
+(4) A person who gives notice of appeal under this section shall submit to the Secretary of State, either when giving the notice or within such time as may be prescribed, a statement in writing—
+
+(a) specifying the grounds on which he is appealing against the listed building enforcement notice; and
+
+(b) giving such further information as may be prescribed.
+
+(5) If, where more than one ground is specified in the statement, the appellant does not give information required under subsection (4)(b) in relation to each of those grounds within the prescribed time, the Secretary of State may determine the appeal without considering any ground as to which the appellant has failed to give such information within that time.
+
+(6) Where any person has appealed to the Secretary of State under this section against a notice, no person shall be entitled, in any other proceedings instituted after the making of the appeal, to claim that the notice was not duly served on the person who appealed.
+
+(7) In this section “relevant occupier” means a person who—
+
+(a) on the date on which the listed building enforcement notice is issued occupies the building to which the notice relates by virtue of a licence [^F119] . . .; and
+
+(b) continues so to occupy the building when the appeal is brought.
+
+#### 40 Appeals: supplementary provisions.
+
+(1) The Secretary of State may by regulations prescribe the procedure which is to be followed on appeals under section 39, and in particular, but without prejudice to the generality of this subsection may—
+
+(a) require the local planning authority to submit, within such time as may be prescribed, a statement indicating the submissions which they propose to put forward on the appeal;
+
+(b) specify the matters to be included in such a statement;
+
+(c) require the authority or the appellant to give such notice of such an appeal as may be prescribed, being notice which in the opinion of the Secretary of State is likely to bring the appeal to the attention of persons in the locality in which the building in question is situated;
+
+(d) require the authority to send to the Secretary of State, within such period from the date of the bringing of the appeal as may be prescribed, a copy of the enforcement notice and a list of the persons served with copies of it.
+
+(2) Subject to section 41(4), the Secretary of State shall, if either the appellant or the local planning authority so wish, give each of them an opportunity of appearing before and being heard by a person appointed by the Secretary of State for the purpose.
+
+[^F120]2B . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) Schedule 3 applies to appeals under section 39.
+
+#### 41 Determination of appeals under s. 39.
+
+[^F121][1 On an appeal under section 39 the Secretary of State may—
+
+(a) correct any defect, error or misdescription in the listed building enforcement notice; or
+
+(b) vary the terms of the listed building enforcement notice,
+
+if he is satisfied that the correction or variation will not cause injustice to the appellant or the local planning authority.
+
+(2) Where the Secretary of State determines to allow the appeal, he may quash the notice.
+
+(2A) The Secretary of State shall give any directions necessary to give effect to his determination on the appeal.]
+
+(3) The Secretary of State—
+
+(a) may dismiss such an appeal if the appellant fails to comply with section 39(4) within the prescribed time; and
+
+(b) may allow such an appeal and quash the listed building enforcement notice if the local planning authority fail to comply within the prescribed period with any requirement imposed by regulations made by virtue of section 40(1)(a),(b) or (d).
+
+(4) If [^F122]... the Secretary of State proposes to dismiss an appeal under paragraph (a) of subsection (3) [^F123]... or to allow an appeal and quash the listed building enforcement notice under paragraph (b) of that subsection he need not comply with section 40(2).
+
+(5) Where it would otherwise be a ground for determining an appeal in favour of the appellant that a person required to be served with a copy of the listed building enforcement notice was not served, the Secretary of State may disregard that fact if neither the appellant nor that person has been substantially prejudiced by the failure to serve him.
+
+(6) On the determination of an appeal the Secretary of State may—
+
+(a) grant listed building consent for the works to which the listed building enforcement notice relates or for part only of those works;
+
+(b) discharge any condition or limitation subject to which listed building consent was granted and substitute any other condition, whether more or less onerous;
+
+(c) if he thinks fit, exercise his power under section 1 to amend any list compiled or approved under that section by removing from it the building to which the appeal relates.
+
+(7) Any listed building consent granted by the Secretary of State under subsection (6) shall be treated as granted on an application for the same consent under section 10 and the Secretary of State’s decision in relation to the grant shall be final.
+
+[[^F124](8) Subsection (5) of section 250 of the Local Government Act 1972 (which authorises a Minister holding an inquiry under that section to make orders with respect to the costs of the parties) shall apply in relation to any proceedings [^F125]... before the Secretary of State on an appeal under section 39 as if those proceedings were an inquiry held by the Secretary of State under section 250.]
+
+#### 42 Execution of works required by listed building enforcement notice.
+
+(1) If any of the steps specified in the listed building enforcement notice have not been taken within the [[^F126]period for compliance with the notice], the authority may—
+
+(a) enter the land and take those steps, and
+
+(b) recover from the person who is then the owner of the land any expenses reasonably incurred by them in doing so.
+
+(2) Where a listed building enforcement notice has been served in respect of a building—
+
+(a) any expenses incurred by the owner or occupier of the building for the purpose of complying with it, and
+
+(b) any sums paid by the owner of the building under subsection (1) in respect of expenses incurred by the local planning authority in taking steps required by it,
+
+shall be deemed to be incurred or paid for the use and at the request of the person who carried out the works to which the notice relates.
+
+(3) Regulations under this Act may provide that all or any of the following sections of the [^M4]Public Health Act 1936, namely—
+
+(a) section 276 (power of local authorities to sell materials removed in executing works under that Act subject to accounting for the proceeds of sale);
+
+(b) section 289 (power to require the occupier of any premises to permit works to be executed by the owner of the premises);
+
+(c) section 294 (limit on liability of persons holding premises as agents or trustees in respect of the expenses recoverable under that Act),
+
+shall apply, subject to such adaptations and modifications as may be specified in the regulations, in relation to any steps required to be taken by a listed building enforcement notice.
+
+(4) Regulations under subsection (3) applying all or any of section 289 of that Act may include adaptations and modifications for the purpose of giving the owner of land to which such a notice relates the right, as against all other persons interested in the land, to comply with the requirements of the notice.
+
+(5) Regulations under subsection (3) may also provide for the charging on the land on which the building stands of any expenses recoverable by a local planning authority under subsection (1).
+
+[^F127] [ 6 Any person who wilfully obstructs a person acting in the exercise of powers under subsection (1) shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.]
+
+[^F128]7 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 43 [^F129] [Offence where listed building enforcement notice not complied with.
+
+(1) Where, at any time after the end of the period for compliance with the notice, any step required by a listed building enforcement notice to be taken has not been taken, the person who is then owner of the land is in breach of the notice.
+
+(2) If at any time the owner of the land is in breach of a listed building enforcement notice he shall be guilty of an offence.
+
+(3) An offence under this section may be charged by reference to any day or longer period of time and a person may be convicted of a second or subsequent offence under this section by reference to any period of time following the preceding conviction for such an offence.
+
+(4) In proceedings against any person for an offence under this section, it shall be a defence for him to show—
+
+(a) that he did everything he could be expected to do to secure that all the steps required by the notice were taken; or
+
+(b) that he was not served with a copy of the listed building enforcement notice and was not aware of its existence.
+
+(5) A person guilty of an offence under this section shall be liable [[^F130]on summary conviction, or on conviction on indictment, to a fine].
+
+(6) In determining the amount of any fine to be imposed on a person convicted of an offence under this section, the court shall in particular have regard to any financial benefit which has accrued or appears likely to accrue to him in consequence of the offence.]
+
+#### 44 Effect of listed building consent on listed building enforcement notice.
+
+(1) If, after the issue of a listed building enforcement notice, consent is granted under section 8(3)—
+
+(a) for the retention of any work to which the notice relates; or
+
+(b) permitting the retention of works without compliance with some condition subject to which a previous listed building consent was granted,
+
+the notice shall cease to have effect in so far as it requires steps to be taken involving the works not being retained or, as the case may be, for complying with that condition.
+
+(2) The fact that such a notice has wholly or partly ceased to have effect under subsection (1) shall not affect the liability of any person for an offence in respect of a previous failure to comply with that notice.
+
+#### 44A [^F131] [Injunctions.
+
+(1) Where a local planning authority consider it necessary or expedient for any actual or apprehended contravention of section 9(1) or (2) to be restrained by injunction, they may apply to the court for an injunction, whether or not they have exercised or are proposing to exercise any of their other powers under this Part.
+
+(2) On an application under subsection (1) the court may grant such an injunction as the court thinks appropriate for the purpose of restraining the contravention.
+
+(3) Rules of court may, in particular, provide for such an injunction to be issued against a person whose identity is unknown.
+
+(4) The references in subsection (1) to a local planning authority include [^F132]... the Commission.
+
+(5) In this section “ the court ” means the High Court or the county court.]
+
+#### 44AA [[^F133]Temporary stop notices [^F134]...
+
+(1) This section applies where it appears to a local planning authority [^F135]... that—
+
+(a) works have been or are being executed to a listed building in their area, and
+
+(b) the works are such as to involve a contravention of section 9(1) or (2).
+
+(2) The authority may issue a temporary stop notice if, having regard to the effect of the works on the character of the building as one of special architectural or historic interest, they consider it is expedient that the works (or part of them) be stopped immediately.
+
+(3) A temporary stop notice must be in writing and must—
+
+(a) specify the works in question,
+
+(b) prohibit execution of the works (or so much of them as is specified in the notice),
+
+(c) set out the authority’s reasons for issuing the notice, and
+
+(d) include a statement of the effect of section 44AB.
+
+(4) A temporary stop notice may be served on a person who appears to the authority—
+
+(a) to be executing the works or causing them to be executed,
+
+(b) to have an interest in the building, or
+
+(c) to be an occupier of the building.
+
+(5) The authority must display a copy of the notice on the building; and the copy must specify the date on which it is first displayed.
+
+(6) A temporary stop notice takes effect when the copy of it is first displayed in accordance with subsection (5).
+
+(7) A temporary stop notice ceases to have effect—
+
+(a) at the end of the period of 56 days beginning with the day on which the copy of it is first displayed in accordance with subsection (5), or
+
+(b) if the notice specifies a shorter period beginning with that day, at the end of that period.
+
+(8) But if the authority withdraws the notice before the time when it would otherwise cease to have effect under subsection (7), the notice ceases to have effect on its withdrawal.
+
+(9) A local planning authority may not issue a subsequent temporary stop notice in relation to the same works unless the authority have, since issuing the previous notice, taken other enforcement action in relation to the contravention referred to in subsection (1)(b).
+
+(10) The reference in subsection (9) to taking other enforcement action includes a reference to obtaining an injunction under section 44A.
+
+(11) A temporary stop notice does not prohibit the execution of works of such description, or the execution of works in such circumstances, as the Secretary of State may by regulations prescribe.]
+
+#### 44AB [[^F133]Temporary stop notices [^F136]...: offence
+
+(1) A person is guilty of an offence if the person contravenes, or causes or permits a contravention of, a temporary stop notice—
+
+(a) which has been served on the person under section 44AA(4), or
+
+(b) a copy of which has been displayed in accordance with section 44AA(5).
+
+(2) An offence under this section may be charged by reference to a day or to some longer period; and accordingly, a person may, in relation to the same temporary stop notice, be convicted of more than one offence under this section by reference to different periods.
+
+(3) In proceedings against a person for an offence under this section, it is a defence for the person to show that the person did not know, and could not reasonably have been expected to know, of the existence of the temporary stop notice.
+
+(4) In proceedings against a person for an offence under this section, it is also a defence for the person to show—
+
+(a) that works to the building were urgently necessary in the interests of safety or health or for the preservation of the building,
+
+(b) that it was not practicable to secure safety or health or, as the case may be, the preservation of the building by works of repair or works for affording temporary support or shelter,
+
+(c) that the works carried out were limited to the minimum measures immediately necessary, and
+
+(d) that notice in writing justifying in detail the carrying out of the works was given to the local planning authority as soon as reasonably practicable.
+
+(5) A person guilty of an offence under this section is liable on summary conviction, or on conviction on indictment, to a fine.
+
+(6) In determining the amount of a fine to be imposed on a person convicted under this section, the court must in particular have regard to any financial benefit which has accrued or appears likely to accrue to the person in consequence of the offence.]
+
+#### 44AC [[^F133]Temporary stop notices [^F137]...: compensation
+
+(1) A person who, on the day when a temporary stop notice is first displayed in accordance with section 44AA(5), has an interest in the building is, on making a claim to the local planning authority within the prescribed time and in the prescribed manner, entitled to be paid compensation by the authority in respect of any loss or damage directly attributable to the effect of the notice.
+
+(2) But subsection (1) applies only if—
+
+(a) the works specified in the notice are not such as to involve a contravention of section 9(1) or (2), or
+
+(b) the authority withdraws the notice other than following the grant of listed building consent, after the day mentioned in subsection (1), which authorises the works.
+
+(3) The loss or damage in respect of which compensation is payable under this section includes a sum payable in respect of a breach of contract caused by the taking of action necessary to comply with the notice.
+
+(4) No compensation is payable under this section in the case of loss or damage suffered by a claimant if—
+
+(a) the claimant was required to provide information under a relevant provision, and
+
+(b) the loss or damage could have been avoided if the claimant had provided the information or had otherwise co-operated with the planning authority when responding to the notice.
+
+(5) In subsection (4)(a), each of the following is a relevant provision—
+
+(a) section 16 of the Local Government (Miscellaneous Provisions) Act 1976, and
+
+(b) section 330 of the principal Act.]
+
+#### [^F138]44B Temporary stop notices in Wales
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F138]44C Temporary stop notices in Wales: offence
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F138]44D Temporary stop notices in Wales: compensation
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 45 Commission to have concurrent enforcement functions in London.
+
+The Commission shall, as respects any London borough, have concurrently with the council of that borough the functions of a local planning authority under sections 38 to 43 [[^F139]and 44AA to 44AC]; and references to the local planning authority in those provisions [[^F140], and in any provision of this Act referring to anything done under those provisions,] shall be construed accordingly.
+
+#### 46 Enforcement by the Secretary of State.
+
+(1) If it appears to the Secretary of State to be expedient that a listed building enforcement notice should be issued in respect of any land, he may issue such a notice.
+
+[[^F141](1A) If it appears to the Secretary of State to be expedient that a temporary stop notice should be issued in respect of any land [^F142]..., the Secretary of State may issue such a notice.]
+
+(2) Before the Secretary of State serves a notice under subsection (1) [[^F143]or (1A)] he shall consult—
+
+(a) the local planning authority; and
+
+(b) [^F144]... the Commission.
+
+(3) A listed building enforcement notice issued by the Secretary of State shall have the same effect as a notice issued by the local planning authority.
+
+[[^F145](3A) A temporary stop notice issued by the Secretary of State shall have the same effect as a notice issued by the local planning authority under section 44AA.]
+
+(4) In relation to a listed building enforcement notice issued by the Secretary of State, [[^F146]section 42] shall apply as if for any reference in [[^F146]that section] to the local planning authority there were substituted a reference to the Secretary of State.
+
+(5) References in this section to the local planning authority shall in the case of an authority for an area [^F147]... outside Greater London be construed as references to the district planning authority.
+
+### Chapter V — Prevention of Deterioration and Damage
+
+#### Compulsory acquisition of listed building in need of repair
+
+##### 47 Compulsory acquisition of listed building in need of repair.
+
+(1) If it appears to the Secretary of State that reasonable steps are not being taken for properly preserving a listed building he—
+
+(a) may authorise the appropriate authority to acquire compulsorily under this section the building and any relevant land; or
+
+(b) may himself compulsorily acquire them under this section.
+
+(2) The [^M5]Acquisition of Land Act 1981 shall apply to compulsory acquisition under this section.
+
+(3) The Secretary of State shall not make or confirm a compulsory purchase order for the acquisition of any building by virtue of this section unless—
+
+(a) in the case of the acquisition of a building [^F148]... otherwise than by the Commission, he has consulted with the Commission; and
+
+(b) in any case, he is satisfied that it is expedient to make provision for the preservation of the building and to authorise its compulsory acquisition for that purpose.
+
+(4) Any person having an interest in a building which it is proposed to acquire compulsorily under this section may, within 28 days after the service of the notice required by section 12 of that Act of 1981 or, as the case may be, paragraph 3(1) of Schedule 1 to that Act, apply to a magistrates’ court [^F149]. . . for an order staying further proceedings on the compulsory purchase order.
+
+(5) If on an application under subsection (4) the court is satisfied that reasonable steps have been taken for properly preserving the building, the court shall make an order accordingly.
+
+(6) Any person aggrieved by the decision of a magistrates’ court on an application under subsection (4) may appeal against the decision to the Crown Court.
+
+[[^F150](6A) This section does not permit the acquisition of any interest in Crown land unless—
+
+(a) it is an interest which is for the time being held otherwise than by or on behalf of the Crown, and
+
+(b) the appropriate authority (within the meaning of section 82C) consents to the acquisition.]
+
+(7) In this section—
+
+- “the appropriate authority” means—
+
+(a) the council of the county [^F151]... or district in which the building is situated, or
+
+(b) in the case of a building situated in Greater London, the Commission or the council of the London borough in which the building is situated, or
+
+(c) in the case of a building situated outside Greater London, the joint planning board for the area in which the building is situated; or
+
+(d) in the case of a building situated within the Broads, the Broads Authority;
+
+“relevant land”, in relation to any building, means the land comprising or contiguous or adjacent to it which appears to the Secretary of State to be required for preserving the building or its amenities, or for affording access to it, or for its proper control or management.
+
+##### 48 Repairs notice as preliminary to acquisition under s. 47.
+
+(1) The compulsory purchase of a building under section 47 shall not be started by the appropriate authority or by the Secretary of State unless at least two months previously the authority or, as the case may be, the Secretary of State has served on the owner of the building a notice under this section (in this section referred to as a “repairs notice”)—
+
+(a) specifying the works which the appropriate authority or, as the case may be, the Secretary of State considers reasonably necessary for the proper preservation of the building; and
+
+(b) explaining the effect of sections 47 to 50,
+
+and the repairs notice has not been withdrawn.
+
+(2) Where—
+
+(a) a building is demolished after a repairs notice has been served in respect of it by an appropriate authority or the Secretary of State, but
+
+(b) the Secretary of State is satisfied that he would have confirmed or, as the case may be, would have made a compulsory purchase order in respect of the building had it not been demolished,
+
+the demolition of the building shall not prevent the authority or the Secretary of State from being authorised under section 47 to acquire compulsorily the site of the building.
+
+(3) An appropriate authority or the Secretary of State may at any time withdraw a repairs notice served by them on any person; and if they do so, they shall immediately give him notice of the withdrawal.
+
+(4) The Secretary of State shall consult with the Commission before he serves or withdraws a repairs notice in relation to a building [^F152]....
+
+(5) Where a repairs notice has been served on a person in respect of a building, he shall not be entitled to serve a listed building purchase notice in respect of it—
+
+(a) until the expiration of three months beginning with the date of the service of the repairs notice; or
+
+(b) if during that period the compulsory acquisition of the building is begun under section 47, unless and until the compulsory acquisition is discontinued.
+
+(6) For the purposes of this section a compulsory acquisition—
+
+(a) is started when the notice required by section 12 of the [^M6]Acquisition of Land Act 1981 or, as the case may be, paragraph 3(1) of Schedule 1 to that Act is served; and
+
+(b) is discontinued—
+
+(i) in the case of acquisition by the Secretary of State, when he decides not to make the compulsory purchase order [[^F153]or the order (having been made conditionally) expires by virtue of paragraph 4AA(2) of Schedule 1 to the Acquisition of Land Act 1981]; and
+
+(ii) in any other case, when the order is withdrawn or the Secretary of State decides not to confirm it [[^F154]or (having been confirmed conditionally) it expires by virtue of section 13BA(2)(b) of the Acquisition of Land Act 1981].
+
+(7) In this section “appropriate authority” has the same meaning as in section 47.
+
+##### 49 Compensation on compulsory acquisition of listed building [[^F155]in England or Wales].
+
+[[^F156](1)] Subject to section 50, for the purpose of assessing compensation in respect of any compulsory acquisition of land including a building which immediately before the date of the compulsory purchase order was listed, it shall be assumed that listed building consent would be granted for any works—
+
+(a) for the alteration or extension of the building; or
+
+(b) for the demolition of the building for the purpose of development of any class specified in Schedule 3 to the principal Act (development not constituting new development),
+
+[^F157] . . . .
+
+[[^F158](2) In subsection (1)—
+
+(a) the reference to a building which was listed includes a building in Wales which was included in the list maintained under section 76 of the Historic Environment (Wales) Act 2023;
+
+(b) in relation to such a building—
+
+(i) the reference to section 50 of this Act is to be read as a reference to section 140 of that Act;
+
+(ii) the reference to listed building consent is a reference to consent under section 89 of that Act.]
+
+##### 50 Minimum compensation in case of listed building deliberately left derelict.
+
+(1) Where the appropriate authority within the meaning of section 47—
+
+(a) propose to acquire a building compulsorily under that section; and
+
+(b) are satisfied that the building has been deliberately allowed to fall into disrepair for the purpose of justifying its demolition and the development or redevelopment of the site or any adjoining site,
+
+they may include in the compulsory purchase order as submitted to the Secretary of State for confirmation a direction for minimum compensation.
+
+(2) Subject to the provisions of this section, where the Secretary of State acquires a building compulsorily under section 47, he may, if he is satisfied as mentioned in subsection (1)(b), include a direction for minimum compensation in the compulsory purchase order.
+
+(3) Without prejudice to so much of section 12 of the [^M7]Acquisition of Land Act 1981 or, as the case may be, paragraph 3(1) of Schedule 1 to that Act (notices stating effect of compulsory purchase order or, as the case may be, draft order) as requires the notice to state the effect of the order, the notice required to be served in accordance with that provision shall—
+
+(a) include a statement that a direction for minimum compensation has been included in the order or, as the case may be, in the draft order prepared by the Secretary of State in accordance with Schedule 1 to that Act; and
+
+(b) explain the meaning of the expression “direction for minimum compensation”.
+
+(4) A direction for minimum compensation, in relation to a building compulsorily acquired, is a direction that for the purpose of assessing compensation it is to be assumed, notwithstanding anything to the contrary in the [^M8]Land Compensation Act 1961, the principal Act, or this Act —
+
+(a) that planning permission would not be granted for any development or re-development of the site of the building; and
+
+(b) that listed building consent would not be granted for any works for the demolition, alteration or extension of the building other than development or works necessary for restoring it to and maintaining it in a proper state of repair.
+
+(5) If a compulsory purchase order is confirmed or made with the inclusion of a direction for minimum compensation, the compensation in respect of the compulsory acquisition shall be assessed in accordance with the direction.
+
+(6) Where such a direction is included in a compulsory purchase order or, as the case may be, in a draft order prepared by the Secretary of State, any person having an interest in the building may, within 28 days after the service of the notice mentioned in subsection (3), apply to a magistrates’ court [^F159]. . . for an order that no such direction be included in the compulsory purchase order as confirmed or made by the Secretary of State.
+
+(7) If the court to which an application is made under subsection (6) is satisfied that the building in respect of which the application is made has not been deliberately allowed to fall into disrepair for the purpose mentioned in subsection (1)(b) the court shall make the order applied for.
+
+(8) A person aggrieved by the decision of a magistrates’ court on an application under subsection (6) may appeal against the decision to the Crown Court.
+
+(9) The rights conferred by subsections (6) and (8) shall not prejudice those conferred by section 47(4) and (6).
+
+##### 51 Ending of rights over land compulsorily acquired.
+
+(1) Subject to the provisions of this section, upon the completion of a compulsory acquisition of land under section 47—
+
+(a) all private rights of way and rights of laying down, erecting, continuing or maintaining any apparatus on, under or over the land shall be extinguished, and
+
+(b) any such apparatus shall vest in the acquiring authority.
+
+(2) Subsection (1) shall not apply—
+
+(a) to any right vested in, or apparatus belonging to, statutory undertakers for the purpose of the carrying on of their undertaking, or
+
+[[^F160](b) to any right conferred by or in accordance with the electronic communications code on the operator of an electronic communications code network, or
+
+(c) to any electronic communications apparatus kept installed for the purposes of any such network.]
+
+(3) In respect of any right or apparatus not falling within subsection (2), subsection (1) shall have effect subject—
+
+(a) to any direction given by the acquiring authority before the completion of the acquisition that subsection (1) shall not apply to any right or apparatus specified in the direction; and
+
+(b) to any agreement which may be made (whether before or after the completion of the acquisition) between the acquiring authority and the person in or to whom the right or apparatus in question is vested or belongs.
+
+(4) Any person who suffers loss by the extinguishment of a right or the vesting of any apparatus under this section shall be entitled to compensation from the acquiring authority.
+
+(5) Any compensation payable under this section shall be determined in accordance with the [^M9]Land Compensation Act 1961.
+
+#### Acquisition by agreement
+
+##### 52 Acquisition of land by agreement.
+
+(1) The council of any county [[^F161]in England,] district or London borough or a joint planning board for an area [[^F162]in England] outside Greater London may acquire by agreement—
+
+(a) any building [[^F163]situated wholly or mainly in England] appearing to them to be of special architectural or historic interest; and
+
+(b) any land comprising or contiguous or adjacent to such a building which appears to the Secretary of State to be required—
+
+(i) for preserving the building or its amenities, or
+
+(ii) for affording access to it, or
+
+(iii) for its proper control or management.
+
+(2) The provisions of Part I of the [^M10]Compulsory Purchase Act 1965 (so far as applicable), other than sections 4 to 8, 10 and 31, shall apply in relation to the acquisition of land under subsection (1), but references in that Part to the execution of the works shall be construed as including references to—
+
+(a) any erection, construction or carrying out of buildings or works authorised by section 237 of the principal Act; and
+
+(b) any erection, construction or carrying out of buildings or works on behalf of a Minister or statutory undertakers on land acquired by that Minister or those undertakers, where the buildings or works are erected, constructed or carried out for the purposes for which the land was acquired.
+
+#### Management of acquired buildings
+
+##### 53 Management of listed buildings acquired under this Act.
+
+(1) Where—
+
+(a) a local authority or joint planning board acquire any building or other land under section 47(1) or 52(1)(a) or (b); or
+
+(b) the Commission acquire any building or other land under section 47(1),
+
+they may make such arrangements as to its management, use or disposal as they consider appropriate for the purpose of its preservation.
+
+(2) Where the Secretary of State acquires any building or other land under section 47(1), he may—
+
+(a) make such arrangements as he thinks fit as to the management, custody or use of the building or land; and
+
+(b) dispose of or otherwise deal with any such building or land as he may from time to time determine.
+
+(3) The Commission may be a party to such arrangements as are mentioned in subsection (2) [^F164]....
+
+#### Urgent preservation
+
+##### 54 Urgent works to preserve [^F165]... listed buildings.
+
+(1) A local authority may execute any works which appear to them to be urgently necessary for the preservation of a listed building in their area.
+
+(2) If it appears to the Secretary of State that any works are urgently necessary for the preservation of a listed building—
+
+(a) [^F166]... he shall authorise the Commission to execute any works specified in the authorisation which appear to him to be urgently necessary for its preservation; [^F167]...
+
+[^F167]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) The works which may be executed under this section may consist of or include works for affording temporary support or shelter for the building.
+
+(4) If [^F168]... the building is occupied works may be carried out only to those parts which are not in use.
+
+[^F169]4A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) The owner of the building must be given not less than seven days notice in writing of the intention to carry out the works and [^F170]... the Commission shall give that notice.
+
+[^F171]5A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6) A notice under subsection (5) [^F172]... shall describe the works proposed to be carried out.
+
+(7) As respects buildings in Greater London, the functions of a local authority under this section are exercisable concurrently by the Commission and the relevant London borough council.
+
+##### 55 Recovery of expenses of works under s. 54.
+
+(1) This section has effect for enabling the expenses of works executed under section 54 to be recovered by the authority who carried out the works, that is to say the local authority, the Commission or the Secretary of State or, in the case of works carried out by the Commission on behalf of the Secretary of State, the Secretary of State.
+
+(2) That authority may give notice to the owner of the building requiring him to pay the expenses of the works.
+
+(3) Where the works consist of or include works for affording temporary support or shelter for the building—
+
+(a) the expenses which may be recovered include any continuing expenses involved in making available the apparatus or materials used; and
+
+(b) notices under subsection (2) in respect of any such continuing expenses may be given from time to time.
+
+(4) The owner may within 28 days of the service of the notice represent to the Secretary of State—
+
+(a) that some or all of the works were unnecessary for the preservation of the building; or
+
+(b) in the case of works for affording temporary support or shelter, that the temporary arrangements have continued for an unreasonable length of time; or
+
+(c) that the amount specified in the notice is unreasonable; or
+
+(d) that the recovery of that amount would cause him hardship,
+
+and the Secretary of State shall determine to what extent the representations are justified.
+
+(5) The Secretary of State shall give notice of his determination, the reasons for it and the amount recoverable—
+
+(a) to the owner of the building; and
+
+(b) if the authority who gave notice under subsection (2) is a local authority or the Commission, to them.
+
+[^F173]5A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F173]5B . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F173]5C . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F173]5D . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F173]5E . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F173]5F . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F173]5G . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F174]6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### 56 Dangerous structure orders in respect of listed buildings.
+
+Before taking any steps with a view to—
+
+(a) the making of an order in respect of a listed building under section 77(1)(a) of the [^M11]Building Act 1984 or section 65 or 69(1) of the London Building Acts (Amendment) Act 1939; or
+
+(b) the [^M12]service of a notice under section 79(1) of that Act of 1984 or section 62(2) of that Act of 1939,
+
+a local planning authority shall consider whether they should instead exercise their powers under sections 47 and 48 or section 54.
+
+#### Grants for repair and maintenance
+
+##### 57 Power of local authority to contribute to preservation of listed buildings etc.
+
+(1) A local authority may contribute towards the expenses incurred or to be incurred in the repair or maintenance—
+
+(a) of a listed building which is situate in or in the vicinity of their area; or
+
+(b) of a building in their area which is not listed but appears to them to be of architectural or historic interest.
+
+(2) At the time of making such a contribution the local authority may also contribute towards the expenses incurred, or to be incurred, in the upkeep of any garden occupied with the building and contiguous or adjacent to it.
+
+(3) A contribution under this section may be made by grant or loan.
+
+(4) A contribution by way of loan may be made upon such terms and conditions as the local authority may determine including (but without prejudice to the foregoing) a term that the loan shall be free of interest.
+
+(5) A local authority—
+
+(a) may renounce their right to repayment of such a loan or any interest for the time being outstanding, and
+
+(b) by agreement with the borrower may otherwise vary any of the terms and conditions on which such a loan is made.
+
+(6) A local authority may require as a condition of the making by them of a contribution under this section by way of grant towards the expenses of the repair or maintenance or upkeep of any property that the person to whom the grant is made shall enter into an agreement with them for the purpose of enabling the public to have access to the property or part of it during such period and at such times as the agreement may provide.
+
+(7) In this section and in section 58 “local authority” means—
+
+(a) the council of a county [[^F175]in England,] borough or district,
+
+(b) a joint planning board constituted under section 2 of the principal Act [[^F176]for an area in England], and
+
+(c) in relation to a building or land in the Broads, the Broads Authority.
+
+##### 58 Recovery of grants under s. 57.
+
+(1) If, during the period of three years beginning with the day on which a grant is made under section 57 towards the repair or maintenance or upkeep of any property (“the grant property”), the grantee disposes of the interest held by him in the property on that day or any part of that interest, by way of sale or exchange or lease for a term of not less than 21 years, the local authority may recover the amount of the grant, or such part of it as they think fit, from the grantee in any court of competent jurisdiction.
+
+(2) If the grantee gives the whole of that interest to any person (whether directly or indirectly, but otherwise than by will) subsection (1) shall have effect as if the donee were the grantee.
+
+(3) If the grantee gives part of that interest to any person (whether directly or indirectly, but otherwise than by will) subsection (1) shall have effect as if any disposal or part disposal of that interest by the donee were a disposal by the grantee.
+
+(4) If any condition imposed on the making of a grant to which this section applies is contravened or not complied with, the grantor may recover the amount of the grant, or such part of it as he thinks fit, from the grantee.
+
+(5) Nothing in this section entitles a grantor to recover amounts in the aggregate exceeding the amount of the grant (for example by virtue of a breach of more than one condition or disposals of several parts of an interest in the grant property).
+
+#### Damage to listed buildings
+
+##### 59 Acts causing or likely to result in damage to listed buildings.
+
+(1) If, with the intention of causing damage to a listed building, any relevant person does or permits the doing of any act which causes or is likely to result in damage to the building, he shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+(2) A person is a relevant person for the purpose of subsection (1) if apart from that subsection he would be entitled to do or permit the act in question.
+
+(3) Subsection (1) does not apply to an act for the execution—
+
+(a) of works authorised by planning permission granted or deemed to be granted in pursuance of an application under the principal Act; or
+
+(b) of works for which listed building consent has been given under this Act[[^F177]; or
+
+(c) of works for which development consent has been granted under the Planning Act 2008.]
+
+(4) If a person convicted of an offence under this section fails to take such reasonable steps as may be necessary to prevent any damage or further damage resulting from the offence, he shall be guilty of a further offence and liable on summary conviction to a fine not exceeding [[^F178]one-tenth of level 3 on the standard scale] for each day on which the failure continues.
+
+### Chapter VI — Miscellaneous and Supplemental
+
+#### Exceptions for church buildings and ancient monuments
+
+##### 60 Exceptions for ecclesiastical buildings and redundant churches.
+
+(1) The provisions mentioned in subsection (2) shall not apply to any ecclesiastical building which is for the time being used for ecclesiastical purposes.
+
+(2) Those provisions are sections 3, [^F179]... 4, 7 to 9, 47, 54 and 59.
+
+(3) For the purposes of subsection (1), a building used or available for use by a minister of religion wholly or mainly as a residence from which to perform the duties of his office shall be treated as not being an ecclesiastical building [[^F180]unless it is a building which is a chapel forming part of an episcopal house of residence and is included in the list maintained by the Church Buildings Council under [[^F181]section 38 of the Ecclesiastical Jurisdiction and Care of Churches Measure 2018] or is otherwise subject to the faculty jurisdiction].
+
+(4) For the purposes of sections 7 to 9 a building shall be taken to be used for the time being for ecclesiastical purposes if it would be so used but for the works in question.
+
+(5) The Secretary of State may by order provide for restricting or excluding the operation of subsections (1) to (3) in such cases as may be specified in the order.
+
+(6) An order under this section may—
+
+(a) make provision for buildings generally, for descriptions of building or for particular buildings;
+
+(b) make different provision for buildings in different areas, for buildings of different religious faiths or denominations or according to the use made of the building;
+
+(c) make such provision in relation to a part of a building (including, in particular, an object or structure falling to be treated as part of the building by virtue of section 1(5)) as may be made in relation to a building and make different provision for different parts of the same building;
+
+(d) make different provision with respect to works of different descriptions or according to the extent of the works;
+
+(e) make such consequential adaptations or modifications of the operation of any other provision of this Act or the principal Act, or of any instrument made under either of those Acts, as appear to the Secretary of State to be appropriate.
+
+(7) Sections 7 to 9 shall not apply to the execution of works for the demolition, in pursuance of a pastoral or redundancy scheme (within the meaning of the [^M13]Pastoral Measure 1983), of a redundant building (within the meaning of that Measure) or a part of such a building.
+
+##### 61 Exceptions for ancient monuments etc.
+
+(1) The provisions mentioned in subsection (2) shall not apply to any building for the time being included in the schedule of monuments compiled and maintained under section 1 of the [^M14]Ancient Monuments and Archaeological Areas Act 1979.
+
+(2) Those provisions are [[^F182]sections 3,] 4, 7 to 9, 47, 54 and 59.
+
+#### Validity of instruments, decisions and proceedings
+
+##### 62 Validity of certain orders and decisions.
+
+(1) Except as provided by section 63, the validity of—
+
+(a) any order under section 23 or 26 (whether before or after it has been confirmed); or
+
+(b) any such decision by the Secretary of State as is mentioned in subsection (2), [[^F183]or
+
+(c) a relevant costs order made in connection with any such order or decision,]
+
+shall not be questioned in any legal proceedings whatsoever.
+
+(2) Those decisions are—
+
+[^F184]za . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(a) any decision on an application referred to the Secretary of State under section 12 or on an appeal under section 20;
+
+[[^F185](aa) any decision to approve or reject a local listed building consent order or part of such an order;
+
+(ab) any decision on an appeal under section 26K;]
+
+(b) any decision to confirm or not to confirm a listed building purchase notice including—
+
+(i) any decision not to confirm such a notice in respect of part of the land to which it relates, and
+
+(ii) any decision to grant any consent, or give any direction, in lieu of confirming such a notice, either wholly or in part;
+
+(c) any decision to grant listed building consent under paragraph (a) of section 41(6) or to discharge a condition or limitation under paragraph (b) of that section;
+
+[[^F186](d) any decision on an application for listed building consent under section 82B.]
+
+[[^F187](2A) In this section, “ relevant costs order ” means an order made under section 250(5) of the Local Government Act 1972 (orders as to costs of parties), as applied by virtue of any provision of this Act. ]
+
+(3) Nothing in this section shall affect the exercise of any jurisdiction of any court in respect of any refusal or failure on the part of the Secretary of State to take any such decision as is mentioned in subsection (2).
+
+##### 63 Proceedings for questioning validity of other orders, decisions and directions.
+
+(1) If any person is aggrieved by any such order or decision as is mentioned in [[^F188]section 62(1)(a) or (b)] and wishes to question its validity on the grounds—
+
+(a) that it is not within the powers of this Act, or
+
+(b) that any of the relevant requirements have not been complied with in relation to it,
+
+he may make an application to the High Court under this section.
+
+[[^F189](1A) If a person is aggrieved by a relevant costs order made in connection with an order or decision mentioned in section 62(1)(a) or (b) and wishes to question its validity, the person may make an application to the High Court under this section (whether or not as part of an application made by virtue of subsection (1)) on the grounds—
+
+(a) that the relevant costs order is not within the powers of this Act, or
+
+(b) that any of the relevant requirements have not been complied with in relation to the order.]
+
+(2) Without prejudice to subsection (1) [[^F190]or (1A)], if the authority directly concerned with any [[^F191]order or decision mentioned in section 62(1)] wish to question its validity on any of [[^F192]the grounds mentioned in subsection (1) or (1A) (as the case may be)], the authority may make an application to the High Court under this section.
+
+[[^F193](3) An application under this section may not be made without the leave of the High Court.
+
+(3A) An application for leave for the purposes of subsection (3) must be made before the end of the period of six weeks beginning with the day after—
+
+(a) in the case of an application relating to an order under section 23 that takes effect under section 25 without confirmation, the date on which the order takes effect;
+
+(b) in the case of an application relating to any other order mentioned in section 62(1)(a), the date on which the order is confirmed;
+
+(c) in the case of an application relating to a decision mentioned in section 62(1)(b) or a relevant costs order, the date on which the decision or order is made.
+
+(3B) When considering whether to grant leave for the purposes of subsection (3), the High Court may make an interim order suspending the operation of any order or decision the validity of which the person or authority concerned wishes to question, until the final determination of—
+
+(a) the question of whether leave should be granted, or
+
+(b) where leave is granted, the proceedings on any application under this section made with such leave.]
+
+(4) On any application under this section [[^F194](other than an application for leave)] the High Court—
+
+(a) may by interim order suspend the operation of [[^F195]any order or decision], the validity of which is questioned by the application, until the final determination of the proceedings; and
+
+(b) if satisfied—
+
+(i) that [[^F196]any such order or decision] is not within the powers of this Act, or
+
+(ii) that the interests of the applicant have been substantially prejudiced by a failure to comply with any of the relevant requirements in relation to it,
+
+may quash that order or decision.
+
+(5) References in this section to the confirmation of an order include the confirmation of an order subject to modifications.
+
+[[^F197](6) In this section—
+
+- “relevant costs order” has the same meaning as in section 62;
+
+- “the relevant requirements”—
+
+  - (a) in relation to an order or decision mentioned in section 62(1)(a) or (b), means any requirements of this Act or of the Tribunals and Inquiries Act 1992, or of any order, regulations or rules made under either of those Acts, which are applicable to the order or decision;
+  - (b) in relation to a relevant costs order, means any requirements of this Act, of the Local Government Act 1972 or of the Tribunals and Inquiries Act 1992, or of any order, regulations or rules made under any of those Acts, which are applicable to the order.]
+
+(7) For the purposes of subsection (2) the authority directly concerned with an order or decision is—
+
+(a) in relation to any such decision as is mentioned in section 62(2)(b)—
+
+(i) the council on whom the listed building purchase notice was served, and
+
+(ii) in a case where the Secretary of State has modified the notice wholly or in part by substituting another local authority or statutory undertakers for that council, also that authority or those statutory undertakers; and
+
+(b) otherwise, the authority who—
+
+(i) made the order or decision to which the proceedings in question relate, or
+
+(ii) referred the matter to the Secretary of State, or
+
+(iii) if the order was made by him, are the authority named in it.
+
+##### 64 Validity of listed building enforcement notices.
+
+The validity of a listed building enforcement notice shall not, except by way of an appeal under section 39, be questioned in any proceedings whatsoever on any of the grounds on which such an appeal may be brought.
+
+##### 65 Appeals to High Court relating to listed building enforcement notices.
+
+(1) Where the Secretary of State gives a decision in proceedings on an appeal under section 39 against a listed building enforcement notice, the appellant or the local planning authority or any other person having an interest in the land to which the notice relates may, according as rules of court may provide, either appeal to the High Court against the decision on a point of law or require the Secretary of State to state and sign a case for the opinion of the High Court.
+
+(2) At any stage of the proceedings on any such appeal, the Secretary of State may state any question of law arising in the course of the proceedings in the form of a special case for the decision of the High Court.
+
+(3) A decision of the High Court on a case stated by virtue of subsection (2) shall be deemed to be a judgment of the court within the meaning of section 16 of the [^M15][[^F198]Senior Courts Act 1981] (jurisdiction of the Court of Appeal to hear and determine appeals from any judgment of the High Court).
+
+[^F199] [ 3A In proceedings brought by virtue of this section, the High Court or, as the case may be, the Court of Appeal may, on such terms, if any, as the Court thinks fit (which may include terms requiring the local planning authority to give an undertaking as to damages or any other matter), order that the listed building enforcement notice shall have effect, or have effect to such extent as may be specified in the order, pending the final determination of those proceedings and any re-hearing and determination by the Secretary of State.]
+
+(4) In relation to any proceedings in the High Court or the Court of Appeal brought by virtue of this section the power to make rules of court shall include power to make rules—
+
+(a) prescribing the powers of the High Court or the Court of Appeal with respect to the remitting of the matter with the opinion or direction of the court for re-hearing and determination by the Secretary of State; and
+
+(b) providing for the Secretary of State, either generally or in such circumstances as may be prescribed by the rules, to be treated as a party to any such proceedings and to be entitled to appear and to be heard accordingly.
+
+[^F200] [ 5 No proceedings in the High Court shall be brought by virtue of this section except with the leave of that Court and no appeal to the Court of Appeal shall be so brought except with the leave of the Court of Appeal or of the High Court.]
+
+(6) In this section “decision” includes a direction or order, and references to the giving of a decision shall be construed accordingly.
+
+(7) In the case of a listed building enforcement notice issued by the Commission subsection (1) shall apply as if the reference to the local planning authority were a reference to the Commission.
+
+#### Special considerations affecting planning functions
+
+##### 66 General duty as respects listed buildings in exercise of planning functions.
+
+(1) In considering whether to grant planning permission [[^F201]or permission in principle] for development which affects a listed building or its setting, the local planning authority or, as the case may be, the Secretary of State shall have special regard to the desirability of preserving the building or its setting or any features of special architectural or historic interest which it possesses.
+
+(2) Without prejudice to section 72, in the exercise of the powers of appropriation, disposal and development (including redevelopment) conferred by the provisions of sections 232, 233 and 235(1) of the principal Act, a local authority shall have regard to the desirability of preserving features of special architectural or historic interest, and in particular, listed buildings.
+
+(3) The reference in subsection (2) to a local authority includes a reference to a joint planning board [^F202]. . .
+
+[[^F203](4) Nothing in this section applies in relation to neighbourhood development orders.]
+
+[[^F204](5) In this section, “listed building includes a listed building (within the meaning given by section 76 of the Historic Environment (Wales) Act 2023) situated in Wales.]
+
+##### 67 Publicity for applications affecting setting of listed buildings.
+
+[[^F205](1) The Secretary of State may prescribe requirements as to publicity for applications for planning permission in cases where the local planning authority think that the development of land would affect the setting of a listed building.]
+
+[^F206]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F206]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F206]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F206]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F206]6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F206]7 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F207] [ 8 In this section references to planning permission do not include references to planning permissions falling within section 73A of the principal Act.]
+
+##### 68 Reference to Commission of planning applications involving listed buildings in Greater London.
+
+(1) Without prejudice to his powers by virtue of section 74(1) of the principal Act, the Secretary of State may by regulations provide for any application for planning permission to which this section applies to be referred to the Commission before it is dealt with by the local planning authority.
+
+(2) This section applies to an application for planning permission for any development in Greater London which would, in the opinion of the local planning authority to which the application is made, involve the demolition, in whole or in part, or a material alteration, of a listed building.
+
+(3) Regulations under this section may—
+
+(a) provide for the Commission to give the referring authority directions as to the manner in which an application is to be dealt with; and
+
+(b) provide that an application which satisfies such conditions as may be specified in the regulations need not be referred to the Commission.
+
+## Part II — Conservation Areas
+
+### Designation
+
+#### 69 Designation of conservation areas.
+
+(1) Every local planning authority—
+
+(a) shall from time to time determine which parts of their area are areas of special architectural or historic interest the character or appearance of which it is desirable to preserve or enhance, and
+
+(b) shall designate those areas as conservation areas.
+
+(2) It shall be the duty of a local planning authority from time to time to review the past exercise of functions under this section and to determine whether any parts or any further parts of their area should be designated as conservation areas; and, if they so determine, they shall designate those parts accordingly.
+
+(3) The Secretary of State may from time to time determine that any part of a local planning authority’s area which is not for the time being designated as a conservation area is an area of special architectural or historic interest the character or appearance of which it is desirable to preserve or enhance; and, if he so determines, he may designate that part as a conservation area.
+
+(4) The designation of any area as a conservation area shall be a local land charge.
+
+#### 70 Designation of conservation areas: supplementary provisions.
+
+(1) The functions of a local planning authority under section 69 and this section shall also be exercisable in Greater London by the Commission.
+
+(2) Before making a determination under section 69 the Commission shall consult the council of each London borough of which any part is included in the area to which the proposed determination relates.
+
+(3) Before making a determination under section 69(3) the Secretary of State shall consult the local planning authority.
+
+(4) Before designating any area in Greater London as a conservation area the Commission shall obtain the consent of the Secretary of State.
+
+(5) A local planning authority shall give notice of the designation of any part of their area as a conservation area under section 69(1) or (2) and of any variation or cancellation of any such designation—
+
+(a) to the Secretary of State; and
+
+(b) if [^F208]... the designation or, as the case may be, the variation or cancellation was not made by the Commission, to the Commission.
+
+(6) The Secretary of State shall give notice of the designation of any part of the area of a local planning authority as a conservation area under section 69(3) and of any variation or cancellation of any such designation—
+
+(a) to the authority; and
+
+(b) [^F209]... to the Commission.
+
+(7) A notice under subsection (5) or (6) shall contain sufficient particulars to identify the area affected.
+
+(8) Notice of any such designation, variation or cancellation as is mentioned in subsection (5) or (6), with particulars of its effect, shall be published in the London Gazette and in at least one newspaper circulating in the area of the local planning authority, by that authority or, as the case may be, the Secretary of State.
+
+### General duties of planning authorities
+
+#### 71 Formulation and publication of proposals for preservation and enhancement of conservation areas.
+
+(1) It shall be the duty of a local planning authority from time to time to formulate and publish proposals for the preservation and enhancement of any parts of their area which are conservation areas.
+
+(2) Proposals under this section shall be submitted for consideration to a public meeting in the area to which they relate.
+
+(3) The local planning authority shall have regard to any views concerning the proposals expressed by persons attending the meeting.
+
+#### 72 General duty as respects conservation areas in exercise of planning functions.
+
+(1) In the exercise, with respect to any buildings or other land in a conservation area, of any [[^F210]functions under or by virtue of] any of the provisions mentioned in subsection (2), special attention shall be paid to the desirability of preserving or enhancing the character or appearance of that area.
+
+(2) The provisions referred to in subsection (1) are the planning Acts and Part I of the [^M16]Historic Buildings and Ancient Monuments Act 1953 [[^F211]and sections 70 and 73 of the Leasehold Reform, Housing and Urban Development Act 1993].
+
+[[^F212](3) In subsection (2), references to provisions of the Leasehold Reform, Housing and Urban Development Act 1993 include references to those provisions as they have effect by virtue of section 118(1) of the Housing Act 1996.]
+
+[[^F213](4) Nothing in this section applies in relation to neighbourhood development orders.]
+
+#### 73 Publicity for applications affecting conservation areas.
+
+[[^F214] 1 The Secretary of State may prescribe requirements as to publicity for applications for planning permission in cases where the local planning authority think that the development of land would affect the character or appearance of a conservation area.]
+
+[^F215] [ 2 In this section references to planning permission do not include references to planning permissions falling within section 73A of the principal Act.]
+
+### Control of demolition
+
+#### 74 Control of demolition in conservation areas.
+
+[^F216]1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F217]1A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F218]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[[^F219](2A) Sections 56, 66(1) and 90(2) to (4) have effect in relation to buildings in conservation areas [^F220]... as they have effect in relation to listed buildings, subject to such exceptions and modifications as may be prescribed by regulations.]
+
+[^F221]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F222]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 75 Cases in which s. 74 does not apply.
+
+(1) Section 74 does not apply to—
+
+(a) listed buildings;
+
+(b) ecclesiastical buildings which are for the time being used for ecclesiastical purposes;
+
+(c) buildings for the time being included in the schedule of monuments compiled and maintained under section 1 of the [^M17]Ancient Monuments and Archaeological Areas Act 1979; or
+
+(d) buildings in relation to which a direction under subsection (2) is for the time being in force.
+
+(2) The Secretary of State may direct that section 74 shall not apply to any description of buildings specified in the direction.
+
+(3) A direction under subsection (2) may be given either to an individual local planning authority exercising functions under that section or to local planning authorities generally.
+
+(4) The Secretary of State may vary or revoke a direction under subsection (2) by a further direction under that subsection.
+
+(5) For the purposes of subsection (1)(b), a building used or available for use by a minister of religion wholly or mainly as a residence from which to perform the duties of his office shall be treated as not being an ecclesiastical building.
+
+(6) [^F223]For the purposes of sections 7 to 9 as they apply by virtue of section 74(3) a building shall be taken to be used for the time being for ecclesiastical purposes if it would be so used but for the works in question.
+
+(7) The Secretary of State may by order provide for restricting or excluding the operation of subsection (1)(b) in such cases as may be specified in the order.
+
+(8) An order under subsection (7) may—
+
+(a) make provision for buildings generally, for descriptions of building or for particular buildings;
+
+(b) make different provision for buildings in different areas, for buildings of different religious faiths or denominations or according to the use made of the building;
+
+(c) make such provision in relation to a part of a building (including, in particular, an object or structure falling to be treated as part of the building by virtue of section 1(5)) as may be made in relation to a building and make different provision for different parts of the same building;
+
+(d) make different provision with respect to works of different descriptions or according to the extent of the works;
+
+(e) make such consequential adaptations or modifications of the operation of any other provision of this Act or the principal Act, or of any instrument made under either of those Acts, as appear to the Secretary of State to be appropriate.
+
+(9) Regulations under this Act may provide that subsections (5) to (8) shall have effect subject to such exceptions and modifications as may be prescribed, and any such regulations may make different provision—
+
+(a) in relation to applications made by local planning authorities, and
+
+(b) in relation to other applications.
+
+(10) [^F224]Any proceedings on or arising out of an application for conservation area consent made while section 74 applies to a building shall lapse if it ceases to apply to it, and any such consent granted with respect to the building shall also lapse.
+
+(11) The fact that [[^F225]section 74] has ceased to apply to a building shall not affect the liability of any person to be prosecuted and punished for an offence [^F226]under section 9 or 43 [^F226][[^F227]or section 196D of the principal Act (offence of failing to obtain, or comply with, planning permission for demolition of unlisted etc building in conservation area in England)] committed with respect to the building while [[^F225]section 74] did apply to it.
+
+#### 76 Urgent works to preserve [^F228]... buildings in conservation areas.
+
+(1) If it appears to the Secretary of State that the preservation of a building in a conservation area is important for maintaining the character or appearance of that area, he may direct that section 54 shall apply to it as it applies to listed buildings.
+
+(2) The Secretary of State shall consult the Commission before giving a direction under subsection (1) [^F229]....
+
+### Grants
+
+#### 77 Grants and loans for preservation or enhancement of conservation areas.
+
+(1) If in the opinion of the Commission any relevant expenditure has made or will make a significant contribution towards the preservation or enhancement of the character or appearance of any conservation area [^F230]... or any part of such an area, they may make grants or loans for the purposes of defraying the whole or part of that expenditure.
+
+[^F231]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) Expenditure is relevant for the purposes of subsection (1) [^F232]... if it has been or is to be incurred in or in connection with, or with a view to the promotion of, such preservation or enhancement as is mentioned in that subsection.
+
+(4) A grant or loan under this section may be made subject to such conditions as the Commission [^F233]... may think fit to impose.
+
+(5) Any loan under subsection (1) shall be made on such terms as to repayment, payment of interest and otherwise as the Commission may determine.
+
+[^F234]6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F235]7 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F235]8 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F235]9 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 78 Recovery of grants under s. 77.
+
+(1) This section applies to any grant under section 77 made on terms that it shall be recoverable under this section.
+
+(2) A grant shall only be regarded as made on those terms if before or on making the grant the grantor gives the grantee notice in writing—
+
+(a) summarising the effect of this section; and
+
+(b) if the grant is made for the purpose of defraying the whole or part of expenditure in relation to any particular property (“the grant property”), specifying the recovery period.
+
+(3) In this section “the recovery period” means the period, beginning with the day on which the grant is made and ending not more than ten years after that day, during which the grant is to be recoverable in accordance with subsection (4).
+
+(4) If during the recovery period the grantee disposes of the interest which was held by him in the grant property on the day on which the grant was made or any part of that interest by way of sale or exchange or lease for a term of not less than 21 years, the grantor may recover the amount of the grant, or such part of it as the grantor thinks fit, from the grantee.
+
+(5) If the grantee gives the whole of that interest to any person (whether directly or indirectly, but otherwise than by will) subsection (4) shall have effect as if the donee were the grantee.
+
+(6) If the grantee gives part of that interest to any person (whether directly or indirectly, but otherwise than by will) subsection (4) shall have effect as if any disposal or part disposal of that interest by the donee were a disposal by the grantee.
+
+(7) If any condition imposed on the making of a grant to which this section applies is contravened or not complied with, the grantor may recover the amount of the grant, or such part of it as he thinks fit, from the grantee.
+
+(8) Nothing in this section entitles a grantor to recover amounts in the aggregate exceeding the amount of the grant (for example by virtue of a breach of more than one condition or disposals of several parts of an interest in the grant property).
+
+### Town schemes
+
+#### 79 Town scheme agreements.
+
+(1) The Commission and one or more local authorities in England [^F236]... may enter an agreement (in this Act referred to as a “town scheme agreement”) that a specified sum of money shall be set aside for a specified period of years for the purpose of making grants for the repair of buildings which are—
+
+(a) included in a list compiled for the purposes of such an agreement by the parties to the agreement, or by them and other such authorities, or
+
+(b) shown on a map prepared for those purposes by the parties, or by them and such other authorities.
+
+[^F237]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) In this section “local authority” means—
+
+(a) a county council;
+
+[^F238]aa . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) a district council;
+
+(c) in relation to any building situated within the Broads, the Broads Authority;
+
+[[^F239](ca) in relation to any building in a National Park for which a National Park authority is the local planning authority, that authority;]
+
+(d) a London borough council or the Common Council of the City of London;
+
+(e) the Council of the Isles of Scilly.
+
+#### 80 Grants for repairing of buildings in town schemes.
+
+(1) The Commission may make grants for the purpose of defraying the whole or part of any expenditure incurred or to be incurred in the repair of any building which—
+
+(a) is the subject of a town scheme agreement;
+
+(b) is situated in a conservation area [^F240]...; and
+
+(c) appears to the Commission to be of architectural or historic interest.
+
+[^F241]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) A grant under this section may be made subject to conditions imposed by the Commission [^F242]... for such purposes as the Commission [^F242]... thinks fit.
+
+[^F243]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) The Commission [^F244]... may—
+
+(a) pay any grant under this section to any authority which is a party to a town scheme agreement; and
+
+(b) make arrangements with any such authority for the way in which the agreement is to be carried out.
+
+(6) Those arrangements may include such arrangements for the offer and payment of grants under this section as the parties may agree.
+
+(7) Section 78(4) to (8) shall apply to a grant under this section as it applies to a grant under that section, but taking the recovery period to be three years beginning with the day on which the grant is made.
+
+## Part III — General
+
+### Authorities exercising functions under Act
+
+#### 81 Authorities exercising functions under Act.
+
+In this Act “local planning authority” [[^F245]means a local planning authority for an area in England and] shall be construed in accordance with Part I of the principal Act and Schedule 4 to this Act (which makes further provision as to the exercise of functions under this Act).
+
+### [[^F246]Power to decline to determine application
+
+#### 81A Power to decline to determine subsequent application
+
+(1) A local planning authority may decline to determine an application for a relevant consent if—
+
+(a) one or more of the conditions in subsections (2) to (4) is satisfied, and
+
+(b) the authority think there has been no significant change in any material considerations since the relevant event.
+
+(2) The condition is that in the period of two years ending with the date on which the application mentioned in subsection (1) is received the Secretary of State has refused a similar application referred to him under section 12.
+
+(3) The condition is that in that period the Secretary of State has dismissed an appeal—
+
+(a) against the refusal of a similar application, or
+
+(b) under section 20(2) in respect of a similar application.
+
+(4) The condition is that—
+
+(a) in that period the local planning authority have refused more than one similar application, and
+
+(b) there has been no appeal to the Secretary of State against any such refusal [[^F247]or, if there has been such an appeal, it has been withdrawn].
+
+(5) Relevant consent is—
+
+(a) listed building consent, or
+
+(b) conservation area consent.
+
+(6) The relevant event is—
+
+(a) for the purposes of subsections (2) and (4) the refusal of the similar application;
+
+(b) for the purposes of subsection (3) the dismissal of the appeal.
+
+(7) An application for relevant consent is similar to another application if (and only if) the local planning authority think that the building and works to which the applications relate are the same or substantially the same.
+
+(8) For the purposes of an application for conservation area consent a reference to a provision of this Act is a reference to that provision as excepted or modified by regulations under section 74.
+
+#### 81B Power to decline to determine overlapping application
+
+(1) A local planning authority may decline to determine an application for a relevant consent which is
+
+[[^F248](a) made on the same day as a similar application, or
+
+(b)] made at a time when any of the conditions in subsections (2) to (4) applies in relation to a similar application.
+
+(2) The condition is that a similar application is under consideration by the local planning authority and the determination period for that application has not expired.
+
+(3) The condition is that a similar application is under consideration by the Secretary of State in pursuance of section 12 or on an appeal under section 20 and the Secretary of State has not issued his decision.
+
+(4) The condition is that a similar application—
+
+(a) has been granted by the local planning authority,
+
+(b) has been refused by them, or
+
+(c) has not been determined by them within the determination period,
+
+and the time within which an appeal could be made to the Secretary of State under section 20 has not expired.
+
+[[^F249](4A) If a local planning authority exercise their power under subsection (1)(a) to decline to determine an application made on the same day as a similar application, they may not also exercise that power to decline to determine the similar application.]
+
+(5) Relevant consent is—
+
+(a) listed building consent, or
+
+(b) conservation area consent.
+
+(6) An application for relevant consent is similar to another application if (and only if) the local planning authority think that the building and works to which the applications relate are the same or substantially the same.
+
+(7) The determination period is—
+
+(a) the period prescribed for the determination of the application, or
+
+(b) such longer period as the applicant and the authority have agreed for the determination of the application.
+
+(8) For the purposes of an application for conservation area consent a reference to a provision of this Act is a reference to that provision as excepted or modified by regulations under section 74.]
+
+### Special cases
+
+#### 82 Application of Act to land and works of local planning authorities.
+
+(1) In relation to land of a local planning authority, section 1(1) [^F250]... and (4) and sections 2 [^F251]..., [[^F252]and 39(6)] [[^F253]41(8)], shall have effect subject to such exceptions and modifications as may be prescribed.
+
+(2) The provisions mentioned in subsection (3) shall have effect for the purpose of applications by local planning authorities relating to the execution of works for the demolition, alteration or extension of listed buildings, subject to such exceptions and modifications as may be prescribed.
+
+(3) Those provisions are sections 1(3), (5) and (6), [^F254]... 3 to 5, 7 [[^F255]to 26, 28, [^F256]...] 32 to 50 (except [[^F257]section 39(6)]), 60(1) to (4) (as it applies as respects the provisions mentioned in this subsection), 62 to 65, 67(2)(b), (6) and (7), 73(1), Schedules 1 [^F258]... and 2, paragraph 2 of Schedule 4 (as it applies to Schedule 1) and paragraph 4(1) of Schedule 4 (as it applies as respects the provisions mentioned in this subsection).
+
+(4) Regulations under this section may in particular provide—
+
+(a) for the making of applications for listed building consent to the Secretary of State; and
+
+(b) for the issue or service by him of notices under section 2(3) and the provisions mentioned in subsection (3).
+
+#### 82A [[^F259]Application to the Crown
+
+(1) This Act (except the provisions specified in subsection (2)) binds the Crown.
+
+(2) These are the provisions—
+
+(a) section 9;
+
+(b) section 11(6);
+
+(c) section 21(7);
+
+[[^F260](ca) section 26J;]
+
+(d) section 42(1), (5) and (6);
+
+(e) section 43;
+
+(f) section 44A;
+
+[[^F261](fza) section 44AB;]
+
+[^F262]fa . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(g) section 54;
+
+(h) section 55;
+
+(i) section 59;
+
+(j) section 88A.
+
+(3) But subsection (2)(a) does not have effect to prohibit the doing of anything by or on behalf of the Crown which falls within the circumstances described in section 9(3)(a) to (d) and the doing of that thing does not contravene section 7.]
+
+#### 82B [[^F263]Urgent works relating to Crown land: application
+
+(1) This section applies to any works proposed to be executed in connection with any building which is on Crown land if the appropriate authority certifies—
+
+(a) that the works are of national importance, and
+
+(b) that it is necessary that the works are carried out as a matter of urgency.
+
+(2) The appropriate authority may, instead of making an application for consent to the local planning authority in accordance with this Act, make an application for consent to the Secretary of State under this section.
+
+(3) If the appropriate authority proposes to make the application to the Secretary of State it must publish in one or more newspapers circulating in the locality of the building a notice—
+
+(a) describing the proposed works, and
+
+(b) stating that the authority proposes to make the application to the Secretary of State.
+
+(4) For the purposes of an application under this section the appropriate authority must provide to the Secretary of State a statement of the authority’s grounds for making the application.
+
+(5) If the appropriate authority makes an application under this section subsections (6) to (9) below apply.
+
+(6) The Secretary of State may require the authority to provide him with such further information as he thinks necessary to enable him to determine the application.
+
+(7) As soon as practicable after he is provided with any document or other matter in pursuance of subsection (4) or (6) the Secretary of State must make a copy of the document or other matter available for inspection by the public in the locality of the proposed development.
+
+(8) The Secretary of State must in accordance with such requirements as may be prescribed publish notice of the application and of the fact that such documents and other material are available for inspection.
+
+(9) The Secretary of State must consult—
+
+(a) the local planning authority for the area to which the proposed development relates, and
+
+(b) such other persons as may be prescribed,
+
+about the application.
+
+(10) Subsection (7) does not apply to the extent that the document or other matter is subject to a direction under paragraph 6(6) of Schedule 3 (matters related to national security).
+
+(11) Subsections (4) and (5) of section 12 apply to an application under this section as they apply to an application in respect of which a direction under section 12 has effect.]
+
+#### 82C [[^F264]Expressions relating to the Crown
+
+(1) In this Act, expressions relating to the Crown must be construed in accordance with this section.
+
+(2) Crown land is land in which there is a Crown interest or a Duchy interest.
+
+(3) A Crown interest is any of the following—
+
+(a) an interest belonging to Her Majesty in right of the Crown or in right of Her private estates;
+
+(b) an interest belonging to a government department or held in trust for Her Majesty for the purposes of a government department;
+
+(c) such other interest as the Secretary of State specifies by order.
+
+(4) A Duchy interest is—
+
+(a) an interest belonging to Her Majesty in right of the Duchy of Lancaster, or
+
+(b) an interest belonging to the Duchy of Cornwall.
+
+(5) A private interest is an interest which is neither a Crown interest nor a Duchy interest.
+
+(6) The appropriate authority in relation to any land is—
+
+(a) in the case of land belonging to Her Majesty in right of the Crown and forming part of the Crown Estate, the Crown Estate Commissioners;
+
+(b) in relation to any other land belonging to Her Majesty in right of the Crown, the government department having the management of the land;
+
+(c) in relation to land belonging to Her Majesty in right of Her private estates, a person appointed by Her Majesty in writing under the Royal Sign Manual or, if no such appointment is made, the Secretary of State;
+
+(d) in relation to land belonging to Her Majesty in right of the Duchy of Lancaster, the Chancellor of the Duchy;
+
+(e) in relation to land belonging to the Duchy of Cornwall, such person as the Duke of Cornwall, or the possessor for the time being of the Duchy, appoints;
+
+(f) in the case of land belonging to a government department or held in trust for Her Majesty for the purposes of a government department, the department;
+
+(g) in relation to Westminster Hall and the Chapel of St Mary Undercroft, the Lord Great Chamberlain and the Speakers of the House of Lords and the House of Commons acting jointly;
+
+(h) in relation to Her Majesty’s Robing Room in the Palace of Westminster, the adjoining staircase and ante-room and the Royal Gallery, the Lord Great Chamberlain.
+
+(7) If any question arises as to what authority is the appropriate authority in relation to any land it must be referred to the Treasury, whose decision is final.
+
+(8) For the purposes of an application for listed building consent made by or on behalf of the Crown in respect of land which does not belong to the Crown or in respect of which it has no interest a reference to the appropriate authority must be construed as a reference to the person who makes the application.
+
+(9) For the purposes of subsection (8) the Crown includes—
+
+(a) the Duchy of Lancaster;
+
+(b) the Duchy of Cornwall;
+
+(c) a person who is an appropriate authority by virtue of subsection (6)(g) and (h).
+
+(10) The reference to Her Majesty’s private estates must be construed in accordance with section 1 of the Crown Private Estates Act 1862.
+
+(11) An order made for the purposes of paragraph (c) of subsection (3) must be made by statutory instrument.
+
+(12) But no such order may be made unless a draft of it has been laid before and approved by resolution of each House of Parliament.]
+
+#### 82D [[^F265]Enforcement in relation to the Crown
+
+(1) No act or omission done or suffered by or on behalf of the Crown constitutes an offence under this Act.
+
+(2) A local planning authority must not take any step for the purposes of enforcement in relation to Crown land unless it has the consent of the appropriate authority.
+
+(3) The appropriate authority may give consent under subsection (2) subject to such conditions as it thinks appropriate.
+
+(4) A step taken for the purposes of enforcement is anything done in connection with the enforcement of anything required to be done or prohibited by or under this Act.
+
+(5) A step taken for the purposes of enforcement includes—
+
+(a) entering land;
+
+(b) bringing proceedings;
+
+(c) the making of an application.
+
+(6) A step taken for the purposes of enforcement does not include—
+
+(a) service of a notice;
+
+(b) the making of an order (other than by a court).
+
+#### 82E References to an interest in land
+
+(1) Subsection (2) applies to the extent that an interest in land is a Crown interest or a Duchy interest.
+
+(2) Anything which requires or is permitted to be done by or in relation to the owner of the interest in land must be done by or in relation to the appropriate authority.
+
+(3) An interest in land includes an interest only as occupier of the land.]
+
+#### 82F [[^F266]Applications for listed building or conservation area consent by Crown
+
+(1) This section applies to an application for listed building consent or conservation area consent made by or on behalf of the Crown.
+
+(2) The Secretary of State may by regulations modify or exclude any statutory provision relating to the making and determination of such applications.
+
+(3) A statutory provision is a provision contained in or having effect under any enactment.]
+
+#### 83 Exercise of powers in relation to Crown land.
+
+[^F267]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 84 Application for listed building or conservation area consent in anticipation of disposal of Crown land.
+
+[^F268]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F269]85 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 86 Ecclesiastical property.
+
+(1) Without prejudice to the provisions of the [^M18]Acquisition of Land Act 1981 with respect to notices served under that Act, where under any of the provisions of this Act a notice or copy of a notice is required to be served on an owner of land, and the land is ecclesiastical property, a similar notice or copy of a notice shall be served on the [[^F270]Diocesan Board of Finance for the diocese in which the land is situated].
+
+(2) [[^F271]Where any ecclesiastical property is vested in the incumbent of a benefice which is vacant]—
+
+(a) [^F272]... for the purposes of section 11, this subsection (other than paragraph (b)) and sections 62, 63 and 83(1) and any other provisions of this Act so far as they apply or have effect for the purposes of any of those provisions, [[^F273]it] shall be treated as being vested in the [[^F270]Diocesan Board of Finance for the diocese in which the land is situated];
+
+(b) [^F274]... [[^F273]it] shall, for the purposes of a compulsory acquisition of the property under section 47, be treated as being vested in the Church Commissioners, and any notice to treat shall be served, or be deemed to have been served, accordingly.
+
+[^F275]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) In this section “ecclesiastical property” means land belonging to an ecclesiastical benefice [[^F276]of the Church of England], or being or forming part of a church subject to the jurisdiction of a bishop of any diocese [[^F277]of the Church of England] or the site of such a church, or being or forming part of a burial ground subject to such jurisdiction . . . [^F278].
+
+#### 87 Settled land.
+
+The classes of works specified in Part II of Schedule 3 to the [^M19]Settled Land Act 1925 (which specifies improvements which may be paid for out of capital money, subject to provisions under which repayment out of income may be required to be made) shall include works specified by the Secretary of State as being required for properly maintaining a listed building which is settled land within the meaning of that Act.
+
+### Miscellaneous provisions
+
+#### 88 Rights of entry.
+
+(1) Any person duly authorised in writing by the Secretary of State may at any reasonable time enter any land for the purpose of surveying any building on it [[^F279]or any other land] in connection with a proposal to include the building in, or exclude it from, a list compiled or approved under section 1.
+
+(2) Any person duly authorised in writing by the Secretary of State, a local planning authority or, where the authorisation relates to a building situated in Greater London, the Commission may at any reasonable time enter any land for any of the following purposes—
+
+(a) surveying it [[^F280]or any other land] in connection with any proposal by the authority or the Secretary of State to make, issue or serve any order or notice under any of the provisions of sections 1 to 26, 38, 40, 46, 54, 55, 60, 68, 75 or 76 or under any order or regulations made under any of them, or any notice under section 48;
+
+(b) ascertaining whether any such order or notice has been complied with [[^F281]in relation to the land or any other land];
+
+(c) ascertaining whether an offence has been, or is being, committed with respect to any building on the land [[^F282]or any other land], under section 9, 11 [[^F283], 26J] or 43;
+
+(d) ascertaining whether any [[^F284]building on the land or any other land] is being maintained in a proper state of repair.
+
+(3) Any person duly authorised in writing by the Secretary of State, a local authority or, where the authorisation relates to a building situated in Greater London, the Commission may at any reasonable time enter any land for any of the following purposes—
+
+(a) ascertaining whether an offence has been or is being committed under section 59 [[^F285]in relation to the land or any other land];
+
+(b) ascertaining whether any of the functions conferred by section 54 should or may be exercised in connection with the land [[^F286]or any other land]; or
+
+(c) exercising any of those functions in conn ection with the land [[^F286]or any other land].
+
+[[^F287](3ZA) Any person duly authorised in writing by the Secretary of State, a local planning authority [^F288]... or, where the authorisation relates to a building situated in Greater London, the Commission may at any reasonable time enter any land for any of the following purposes—
+
+(a) securing the display of a temporary stop notice issued under section 44AA;
+
+(b) ascertaining whether a temporary stop notice issued under that section is being complied with;
+
+(c) considering any claim for compensation under section 44AC.]
+
+[^F289]3A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) Any person who is an officer of the Valuation Office or is duly authorised in writing by a local planning authority may at any reasonable time enter any land for the purpose of surveying it, or estimating its value, in connection with a claim for compensation payable by the authority under section [^F290] . . . 28 [[^F291]or 44AC] in respect of any land.
+
+[^F292]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6) Subject to [[^F293]section 88B(8)], any power conferred by this section to survey land shall be construed as including power to search and bore for the purpose of ascertaining the nature of the subsoil [^F294] . . ..
+
+[^F295]7 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 88A [[^F296] Warrants to enter land.
+
+(1) If it is shown to the satisfaction of a justice of the peace on sworn information in writing—
+
+(a) that there are reasonable grounds for entering any land for any of the purposes mentioned in section 88; and
+
+(b) that—
+
+(i) admission to the land has been refused, or a refusal is reasonably apprehended; or
+
+(ii) the case is one of urgency,
+
+the justice may issue a warrant authorising any person duly authorised in writing by the appropriate authority to enter the land.
+
+(2) In subsection (1) “ the appropriate authority ” means the person who may authorise entry on the land under section 88 for the purpose in question.
+
+(3) For the purposes of subsection (1)(b)(i) admission to land shall be regarded as having been refused if no reply is received to a request for admission within a reasonable period.
+
+(4) A warrant authorises entry on one occasion only and that entry must be—
+
+(a) within one month from the date of the issue of the warrant; and
+
+(b) at a reasonable hour, unless the case is one of urgency.]
+
+#### [^F297]88B Rights of entry: supplementary provisions.
+
+(1) A person authorised under section 88 to enter any land shall not demand admission as of right to any land which is occupied unless twenty-four hours notice of the intended entry has been given to the occupier.
+
+[[^F298](1ZA) Subsection (1) does not apply to a person authorised under section 88(3ZA) who intends to enter the land for either of the purposes mentioned in paragraphs (a) and (b) of that subsection.]
+
+[^F299]1A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) A person authorised to enter land in pursuance of a right of entry conferred under or by virtue of section 88 or 88A (referred to in this section as “a right of entry”)—
+
+(a) shall, if so required, produce evidence of his authority and state the purpose of his entry before so entering;
+
+(b) may take with him such other persons as may be necessary; and
+
+(c) on leaving the land shall, if the owner or occupier is not then present, leave it as effectively secured against trespassers as he found it.
+
+(3) Any person who wilfully obstructs a person acting in the exercise of a right of entry shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+(4) If any person who enters any land, in exercise of a right of entry, discloses to any person any information obtained by him while on the land as to any manufacturing process or trade secret, he shall be guilty of an offence.
+
+(5) Subsection (4) does not apply if the disclosure is made by a person in the course of performing his duty in connection with the purpose for which he was authorised to enter the land.
+
+(6) A person who is guilty of an offence under subsection (4) shall be liable—
+
+(a) on summary conviction to a fine not exceeding the statutory maximum, or
+
+(b) on conviction on indictment to imprisonment for a term not exceeding two years or a fine or both.
+
+(7) If any damage is caused to land or chattels in the exercise of—
+
+(a) a right of entry; or
+
+(b) a power conferred by virtue of section 88(6) in connection with such a right,
+
+compensation may be recovered by any person suffering the damage from the authority who gave the written authority for the entry or, as the case may be, the Secretary of State; and section 118 of the principal Act shall apply in relation to compensation under this subsection as it applies in relation to compensation under Part IV of that Act.
+
+(8) No person shall carry out any works in exercise of a power conferred under section 88 unless notice of his intention to do so was included in the notice required by subsection (1).
+
+(9) The authority of the appropriate Minister shall be required for the carrying out of works in exercise of a power conferred under section 88 if—
+
+(a) the land in question is held by statutory undertakers; and
+
+(b) they object to the proposed works on the ground that the execution of the works would be seriously detrimental to the carrying on of their undertaking.
+
+(10) Section 265(1) and (3) of the principal Act (meaning of “appropriate Minister”) applies for the purposes of subsection (9) as it applies for the purposes of section 325(9) of the principal Act.
+
+#### 88C [[^F300]Rights of entry: Crown land
+
+(1) Section 88 applies to Crown land subject to the following modifications.
+
+(2) A person must not enter Crown land unless he has the relevant permission.
+
+(3) Relevant permission is the permission of—
+
+(a) a person appearing to the person seeking entry to the land to be entitled to give it, or
+
+(b) the appropriate authority.
+
+(4) In subsection (6) the words “Subject to section 88B(8)” must be ignored.
+
+(5) Section 88B does not apply to anything done by virtue of this section.
+
+(6) “ Appropriate authority ” must be construed in accordance with section 82C(6). ]
+
+#### [^F304]88D [[^F301][[^F302]Determination of procedure for certain proceedings: [^F303]...]
+
+(1) The Secretary of State must make a determination as to the procedure by which proceedings to which this section applies are to be considered.
+
+(2) A determination under subsection (1) must provide for the proceedings to be considered in [[^F305]such one or more of the following ways as appear] to the Secretary of State to be [^F306]... appropriate—
+
+(a) at a local inquiry;
+
+(b) at a hearing;
+
+(c) on the basis of representations in writing.
+
+(3) The Secretary of State must make a determination under subsection (1) in respect of proceedings to which this section applies before the end of the prescribed period.
+
+(4) A determination under subsection (1) may be varied by a subsequent determination under that subsection at any time before the proceedings are determined.
+
+(5) The Secretary of State must notify the appellant or applicant (as the case may be) and the local planning authority of any determination made under subsection (1).
+
+(6) The Secretary of State must publish the criteria that are to be applied in making determinations under subsection (1).
+
+(7) This section applies to—
+
+(a) an application referred to the Secretary of State under section 12 instead of being dealt with by a local planning authority [^F307]...;
+
+(b) an appeal under section 20 against a decision of a local planning authority [^F308]...; and
+
+(c) an appeal under section 39 against a listed building enforcement notice issued by a local planning authority [^F309]....
+
+(8) The Secretary of State may by order amend subsection (7) to—
+
+(a) add proceedings under this Act to, or remove proceedings under this Act from, the list of proceedings to which this section applies, or
+
+(b) otherwise modify the descriptions of proceedings under this Act to which this section applies.
+
+(9) An order under subsection (8) may—
+
+[^F310]a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) amend, repeal or revoke any provision made by or under this Act or by or under any other Act.]
+
+#### [^F311]88E Determination of procedure for certain proceedings: Wales
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 89 Application of certain general provisions of principal Act.
+
+(1) [[^F312]Subject to subsections (1A) and (2),] the following provisions of the principal Act shall apply for the purposes of this Act as they apply for the purposes of that Act, namely—
+
+- [^F313]...
+- section 320 (local inquiries),
+- [[^F314]section 322 (orders as to costs of parties where no inquiry held [^F315]...)],
+- section [[^F316]322A (orders as to costs: supplementary)],
+- [^F317]...
+- 323 (procedure on certain appeals and applications [^F318]...),
+- [^F319]...
+- [[^F320]section 327ZA (powers as to form and content of applications [^F321]...);]
+- [[^F322]section 327A (compliance with requirements relating to applications),]
+- section 329 (service of notices),
+- [[^F323]section 329A(1) and (2) (service of notices on the Crown)]
+- section 330 (power to require information as to interests in land),
+- [[^F324]section 330A(1) to (4) (information as to interests in Crown land)]
+- section 331 (offences by corporations).
+
+[^F325]1ZB . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[[^F326](1ZC) In section 327ZA of the principal Act as applied by this section, references to a planning application are to be read as references to an application under, or for the purposes of, any provision of Chapter 2 of Part 1 of this Act or any subordinate provision made under that Chapter (but are not to be read as including an application made in legal proceedings).]
+
+[[^F327](1A) [^F328]... subsection (1)(cc) of section 329 of that Act shall not apply to—
+
+(a) service of a building preservation notice;
+
+(b) service of a copy of a listed building enforcement notice by a planning authority;
+
+(c) giving of notice under section 38 of this Act of the exercise of powers conferred by subsection (5) of that section; or
+
+(d) service of a listed building enforcement notice issued by the Secretary of State.]
+
+(2) Section 331 of that Act shall not apply to offences under section 59 of this Act.
+
+[[^F329](3) In the application of section 330 by virtue of this section, references to a local authority include the Commission.]
+
+#### 90 Financial provisions.
+
+(1) Where—
+
+(a) compensation is payable by a local authority under this Act in consequence of any decision or order given or made under Chapters I, II or IV of Part I or sections 32 to 37, 60 or Schedule 3; and
+
+(b) the decision or order in consequence of which it is payable was given or made wholly or partly in the interest of a service which is provided by a government department and the cost of which is defrayed out of money provided by Parliament,
+
+the Minister responsible for the administration of that service may pay that authority a contribution of such amount as he may with the consent of the Treasury determine.
+
+(2) Any local authority and any statutory undertakers may contribute towards any expenses incurred by a local planning authority in or in connection with the performance of any of their functions under the provisions of Chapters I to V of Part I (other than sections [[^F330]28] to 31, 53, 54, 55, 57, 58) and sections 66 and 68 and Schedule 1.
+
+(3) Where any expenses are incurred by a local authority in the payment of compensation payable in consequence of anything done under Chapters I, II or IV of Part I or sections 32 to 37, 56, 59, 60, 66(1), 67, 68 or 73, the Secretary of State may, if it appears to him to be expedient to do so, require any other local authority to contribute towards those expenses such sum as appears to him to be reasonable, having regard to any benefit accruing to that authority by reason of the proceeding giving rise to the compensation.
+
+(4) For the purposes of subsections (2) and (3), contributions made by a local planning authority towards the expenditure of a joint advisory committee shall be deemed to be expenses incurred by that authority for the purposes for which that expenditure is incurred by the committee.
+
+(5) The council of a county [[^F331]in England] may direct that any expenses incurred by them under the provisions specified in subsection (6) shall be treated as special expenses of a county council chargeable upon such part of the county as may be specified in the directions.
+
+(6) Those provisions are—
+
+(a) sections 1(1) to (5), 2(1) to (3) [[^F332]41(8)], 51, 52, 64, 65, 66(2), 82(1) and (4)(b), 83, 86 (except subsection (2)(a)), 87, 88 (except subsection (3)) and subsections (1) to (4) of this section and any other provisions of the planning Acts in so far as they apply, or have effect for the purposes of, any of those provisions; and
+
+(b) sections 1(6), 3, 4, 5, 7 to [[^F333]28A], 32 to 50 (except 39(6) [^F334] . . .), 60(1) to (4), 61, 66(1), 67(2)(b),(6) and (7), 73(1) (so far as it applies to section 67(2)(b), (6) and (7)), 82(2), (3) and (4)(a) and Schedules 1, 2 and 3.
+
+(7) There shall be paid out of money provided by Parliament—
+
+(a) any sums necessary to enable the Secretary of State to make any payments becoming payable by him under [[^F335]section 28];
+
+(b) any expenses incurred by any government department (including the Secretary of State) in the acquisition of land under sections 47 to 52 or in the payment of compensation under section 51(4) or 88(7) or under subsection (1);
+
+(c) any administrative expenses incurred by the Secretary of State for the purposes of this Act.
+
+(8) Any sums received by the Secretary of State under this Act shall be paid into the Consolidated Fund.
+
+## Part IV — Supplemental
+
+### 91 Interpretation.
+
+(1) In this Act, except in so far as the context otherwise requires—
+
+- [[^F336] “address”, in relation to electronic communications, means any number or address used for the purpose of such communications;]
+- “building preservation notice” has the meaning given in [[^F337]section 3(1)];
+- “the Commission” means the Historic Buildings and Monuments Commission for England;
+- “conservation area” means an area for the time being designated under section 69;
+- “conservation area consent” has the meaning given in section 74(1);
+- [[^F338] “electronic communication” has the same meaning as in the Electronic Communications Act 2000;]
+- [^F339]...
+- “listed building” has the meaning given in section 1(5);
+- “listed building consent” has the meaning given in section 8(7);
+- “listed building enforcement notice” has the meaning given in section 38(1);
+- “listed building purchase notice” has the meaning given in section 32(1);
+- “local planning authority” shall be construed in accordance with section 81;
+- “prescribed”, except in relation to matters expressly required or authorised by this Act to be prescribed in some other way, means prescribed by regulations under this Act;
+- “the principal Act” means the [^M20]Town and Country Planning Act 1990;
+- “town scheme agreement” has the meaning given in section 79.
+
+(2) Subject to subsections (6) and (7) and except in so far as the context otherwise requires, the following expressions have the same meaning as in the principal Act—
+
+- “the 1962 Act”
+- “acquiring authority”
+- “the Broads”
+- “building”
+- “compulsory acquisition”
+- “development”
+- “development order”
+- [^F340]. . .
+- “disposal”
+- “enactment”
+- “functions”
+- “government department”
+- “joint planning board”
+- “land”
+- “lease”
+- “local authority”
+- “London borough”
+- “minerals”
+- “Minister”
+- [^F341] . . .
+- “owner”
+- [[^F342]“permission in principle”]
+- “the planning Acts”
+- “planning permission”
+- “public gas supplier”
+- “use”
+- “Valuation Office”,
+
+but this subsection does not affect the meaning of “owner” in section 11 [^F343]....
+
+(3) In this Act “statutory undertakers” has the same meaning as in the principal Act except that—
+
+(a) in sections 33 to 36 it shall be deemed to include references to a [[^F344]an electronic communications code operator and to a former PTO];
+
+(b) in sections 33 to 36, 51(2)(a) and 90(2) it shall be deemed to include the [[^F345]a universal service provider in connection with the provision of a universal postal service], the Civil Aviation Authority, [[^F346]a person who holds a licence under Chapter I of Part I of the Transport Act 2000 (to the extent that the person is carrying out activities authorised by the licence),] a public gas supplier, a holder of a licence under section 6 of the [^M21]Electricity Act 1989, [[^F347]the Environment Agency, the Natural Resources Body for Wales and every water or sewerage undertaker.]
+
+[[^F348](3A) The undertaking of a universal service provider so far as relating to the provision of a universal postal service shall be taken to be his statutory undertaking for the purposes of this Act; and references in this Act to his undertaking shall be construed accordingly.
+
+(3B) In subsections (3) and (3A) “universal service provider” has the same meaning as in [[^F349]Part 3 of the Postal Services Act 2011]; and the references to the provision of a universal postal service shall be construed in accordance with [[^F350]that Part].]
+
+(4) References in the planning Acts to any of the provisions mentioned in section 82 include, except where the context otherwise requires, references to those provisions as modified under that section.
+
+(5) Words in this Act importing a reference to service of a notice to treat shall be construed as including a reference to the constructive service of such a notice which, by virtue of any enactment, is to be deemed to be served.
+
+[[^F351](5A) Where—
+
+(a) an electronic communication is used for the purpose of serving or giving a notice or other document on or to any person for the purposes of this Act, and
+
+(b) the communication is received by that person outside that person’s business hours,
+
+it shall be taken to have been received on the next working day; and in this subsection “working day” means a day which is not a Saturday, Sunday, Bank Holiday or other public holiday.]
+
+(6) In sections 33 to 36, 53(1) 54, 55 and 88(3) “local authority”, in relation to a building or land in the Broads, includes the Broads Authority.
+
+(7) For the purposes of subsection (1)(b) of section 57 and subsection (2) of that section as it applies for the purposes of that subsection the definition of “building” in the principal Act shall apply with the omission of the words “but does not include any plant or machinery comprised in a building”.
+
+### 92 Application of Act to Isles of Scilly.
+
+(1) The Secretary of State shall, after consultation with the Council of the Isles of Scilly, by order provide for the application to those Isles of the provisions of this Act specified in subsection (2) as if those Isles were a separate county.
+
+(2) The provisions referred to in subsection (1) are—
+
+(a) sections 1(1) to (5), 2(1) to (3) [[^F352]41(8)], 51, 52, 64, 65, 66(2), 82(1) and (4)(b), [^F353]. . . 86 (except subsection (2)(a)), 87, 88 (except subsection (3)), 90(1) to (4) and any other provisions of the planning Acts in so far as they apply, or have effect for the purposes of, any of those provisions; and
+
+(b) sections 1(6), 3, 4, 5, 7 to [[^F354]28A], 32 to 50 (except 39(6) [[^F355]and 42(6)]), 60(1) to (4), 61, 66(1), 67(2)(b),(6) and (7), 73(1) (so far as it applies to section 67(2)(b), (6) and (7)), 75(1), (5) and (6), 82(2), (3) and (4)(a) and Schedules 1, 2 [[^F356], 2A] and 3.
+
+(3) The Secretary of State, may, after consultation with the Council of the Isles of Scilly, by order provide for the application to those Isles of sections 2(4) and (5), 53 to 55, 59, 67(1) to (6), 69 to 72, 73(1), 74 to 76 and 88(3) and paragraph 4 of Schedule 4 as if those Isles were a separate county or district.
+
+(4) Any order under this section may provide for the application of provisions to the Isles subject to such modifications as may be specified in the order.
+
+### 93 Regulations and orders.
+
+(1) The Secretary of State may make regulations under this Act [^F357]...—
+
+(a) for prescribing the form of any notice, order or other document authorised or required by any of the provisions of this Act to be served, made or issued by any local authority [[^F358]or National Park authority];
+
+(b) for any purpose for which regulations are authorised or required to be made under this Act.
+
+(2) Any power conferred by this Act to make regulations shall be exercisable by statutory instrument.
+
+(3) Any statutory instrument containing regulations made under this Act [^F359]... shall be subject to annulment in pursuance of a resolution of either House of Parliament [^F360]....
+
+[^F361]3A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) The power to make orders under sections 8(5), [[^F362]26C,] [^F363]... 60, 75(7) [^F364]... and 92 shall be exercisable by statutory instrument.
+
+(5) Any statutory instrument which contains an order under section [^F365]... 60 or 75(7) shall be subject to annulment in pursuance of a resolution of either House of Parliament [^F366]....
+
+[[^F367](6) Regulations made under this Act and orders made under this Act by statutory instrument may make consequential, supplementary, incidental, transitional, transitory or saving provision.]
+
+[[^F368](6A) Regulations and orders may make different provision for different purposes.
+
+(6B) The powers to make regulations under sections 10(3)(b), 67(1) and 73(1) must be taken to be powers mentioned in section 100(2) of the Local Government Act 2003 (powers exercisable in relation to descriptions of certain local authorities which fall into particular categories for the purposes of section 99 of that Act).]
+
+(7) Without prejudice to section 14 of the [^M22]Interpretation Act 1978, any power conferred by this Act to make an order shall include power to vary or revoke any such order by a subsequent order.
+
+### 94 Short title, commencement and extent.
+
+(1) This Act may be cited as the Planning (Listed Buildings and Conservation Areas) Act 1990.
+
+(2) Except as provided in Schedule 4 to the [^M23]Planning (Consequential Provisions) Act 1990, this Act shall come into force at the end of the period of three months beginning with the day on which it is passed.
+
+(3) This Act extends to England and Wales only.
+
+## SCHEDULE 1 — Buildings Formerly Subject to Building Preservation Orders
+
+*Section 1(6).*
+
+**1** Subject to paragraph 2, every building which immediately before lst January 1969 was subject to a building preservation order under Part III of the 1962 Act, but was not then included in a list compiled or approved under section 32 of that Act, shall be deemed to be a listed building.
+
+**2** (1) The Secretary of State may at any time direct, in the case of any building, that paragraph 1 shall no longer apply to it.
+
+(2) The local planning authority in whose area a building in respect of which such a direction is given is situated shall, on being notified of the direction, give notice of it to the owner and occupier of the building.
+
+(3) Before giving such a direction in relation to a building [^F369]..., the Secretary of State shall consult with the Commission who shall in turn consult with the local planning authority and the owner and occupier of the building.
+
+[^F370]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**3** In the case of a building to which paragraph 1 applies—
+
+(a) a notice of appeal under section 20 may include a claim that the Secretary of State should give a direction under paragraph 2 with respect to the building and on such an appeal the Secretary of State may give such a direction; and
+
+(b) such a direction may also be given on an appeal under section 39.
+
+## [^F371]SCHEDULE 1A — Lapse of Interim Protection
+
+*(introduced by section 2C)*
+
+**[^F371]1** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F371]2** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F371]3** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F371]4** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F371]5** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## [^F372]SCHEDULE 1B — Decisions on Reviews by Person Appointed by Welsh Ministers
+
+*(introduced by section 2D)*
+
+### [^F372]Decisions on reviews by appointed persons
+
+**[^F372]1** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F372]Powers and duties of appointed person
+
+**[^F372]2** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F372]Appointment of another person to make a decision on a review
+
+**[^F372]3** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F372]Local inquiries, hearings and written representations
+
+**[^F372]4** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F372]Directions
+
+**[^F372]5** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F372]Delegation
+
+**[^F372]6** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F372]Supplementary provision
+
+**[^F372]7** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 2 — Lapse of Building Preservation Notices
+
+*Section 5.*
+
+**1** This Schedule applies where a building preservation notice ceases to be in force by virtue of—
+
+(a) the expiry of the six month period mentioned in subsection (3)(b) of section 3; [[^F373]or]
+
+(b) the service of a notification by the Secretary of State under subsection (4)(b) of that section.
+
+[^F374]c . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F375]d . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**2** The fact that the notice has ceased to be in force shall not affect the liability of any person to be prosecuted and punished for an offence under section 9 [[^F376], 43 [[^F377]or 44AB]] committed with respect to the building while it was in force.
+
+**3** Any proceedings on or arising out of an application for listed building consent with respect to the building made while the notice was in force and any such consent granted while it was in force shall lapse.
+
+**4** (1) Any listed building enforcement notice served by the local planning authority while the building preservation notice was in force shall cease to have effect.
+
+(2) Any proceedings on it under sections 38 to 40 shall lapse.
+
+(3) Notwithstanding sub-paragraph (1), section 42(1) and (2) shall continue to have effect as respects any expenses incurred by the local authority, owner or occupier as mentioned in that section and with respect to any sums paid on account of such expenses.
+
+[[^F378](4) The reference to a local authority in sub-paragraph (3) above includes a reference to any National Park authority which is the local planning authority for any area.]
+
+**[[^F379]4A** Any temporary stop notice served under section 44AA(4) by the local planning authority with respect to the building while the building preservation notice was in force ceases to have effect.]
+
+**[^F380]5** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## [[^F381]SCHEDULE 2A — Local listed building consent orders: procedure
+
+*Section 26D*
+
+### Preparation
+
+**1** (1) A local listed building consent order must be prepared in accordance with such procedure as is prescribed by regulations under this Act.
+
+(2) The regulations may include provision as to—
+
+(a) the preparation, submission, approval, adoption, revision, revocation and withdrawal of a local listed building consent order;
+
+(b) notice, publicity, and inspection by the public;
+
+(c) consultation with and consideration of views of such persons and for such purposes as are prescribed;
+
+(d) the making and consideration of representations.
+
+### Revision
+
+**2** (1) The local planning authority may at any time prepare a revision of a local listed building consent order.
+
+(2) An authority must prepare a revision of a local listed building consent order—
+
+(a) if the Secretary of State directs them to do so, and
+
+(b) in accordance with such timetable as the Secretary of State directs.
+
+(3) This Schedule applies to the revision of a local listed building consent order as it applies to the preparation of the order.
+
+(4) A local listed building consent order may not be varied except by revision under this paragraph.
+
+### Order to be adopted
+
+**3** A local listed building consent order is of no effect unless it is adopted by resolution of the local planning authority.
+
+### Annual report
+
+**4** (1) While a local listed building consent order is in force the local planning authority must prepare reports containing such information as is prescribed as to the extent to which the order is achieving its purposes.
+
+(2) A report under this paragraph must—
+
+(a) be in respect of a period—
+
+(i) which the authority considers appropriate in the interests of transparency,
+
+(ii) which begins with the end of the period covered by the authority's most recent report under this paragraph (or, in the case of the first report, with the day the order comes into force), and
+
+(iii) which is not longer than 12 months or such shorter period as is prescribed;
+
+(b) be in such form as is prescribed;
+
+(c) contain such other matter as is prescribed.
+
+(3) The authority must make its reports under this section available to the public.]
+
+## SCHEDULE 3 — Determination of Certain Appeals by Person Appointed by Secretary of State
+
+*Sections 22 and 40.*
+
+### Determination of appeals by appointed person
+
+**1** (1) The Secretary of State may by regulations prescribe the classes of appeals under sections 20 [[^F382], 26K] and 39 which are to be determined by a person appointed by the Secretary of State for the purpose instead of by the Secretary of State.
+
+(2) Appeals of a prescribed class shall be so determined except in such classes of case as may for the time being be prescribed or as may be specified in directions given by the Secretary of State.
+
+(3) Regulations made for the purpose of this paragraph may provide for the giving of publicity to any directions given by the Secretary of State under this paragraph.
+
+(4) This paragraph shall not affect any provision in this Act or any instrument made under it that an appeal shall lie to, or a notice of appeal shall be served on, the Secretary of State.
+
+(5) A person appointed under this paragraph is referred to in this Schedule as “an appointed person”.
+
+### Powers and duties of appointed person
+
+**2** (1) An appointed person shall have the same powers and duties—
+
+(a) in relation to an appeal under section 20, as the Secretary of State has under subsection (1) of section 22 and paragraph 2 of Schedule 1;
+
+[[^F383](aa) in relation to an appeal under section 26K, as the Secretary of State has under section 26K(4) to (6);] and
+
+(b) in relation to an appeal under section 39, as he has under section 41(1), (2) [[^F384](2A)], (5) or (6) and paragraph 2 of Schedule 1.
+
+(2) Sections 22(2) and 40(2) shall not apply to an appeal which falls to be determined by an appointed person, but before it is determined the Secretary of State shall ask the appellant and the local planning authority whether they wish to appear before and be heard by the appointed person.
+
+(3) If both the parties express a wish not to appear and be heard the appeal may be determined without their being heard.
+
+(4) If either of the parties expresses a wish to appear and be heard, the appointed person shall give them both an opportunity of doing so.
+
+[^F385]4B . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) Where an appeal has been determined by an appointed person, his decision shall be treated as that of the Secretary of State.
+
+(6) Except as provided by sections 62 to 65, the validity of that decision shall not be questioned in any proceedings whatsoever.
+
+(7) It shall not be a ground of application to the High Court under section 63, or of appeal to the High Court under section 65, that an appeal ought to have been determined by the Secretary of State and not by an appointed person, unless the appellant or the local planning authority challenge the appointed person’s power to determine the appeal before his decision on the appeal is given.
+
+(8) Where in any enactment (including this Act) there is a reference to the Secretary of State in a context relating or capable of relating—
+
+(a) to an appeal under section 20 [[^F386], 26K] or 39, or
+
+(b) to anything done or authorised or required to be done by, to or before the Secretary of State on or in connection with any such appeal,
+
+then so far as the context permits it shall be construed, in relation to an appeal determined or falling to be determined by an appointed person, as a reference to him.
+
+[^F387]10 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Determination of appeals by Secretary of State
+
+**3** (1) The Secretary of State may, if he thinks fit, direct that an appeal which would otherwise fall to be determined by an appointed person shall instead be determined by the Secretary of State.
+
+(2) Such a direction shall state the reasons for which it is given and shall be served on the appellant, the local planning authority, any person who made representations relating to the subject matter of the appeal which the authority were required to take into account by regulations made under section 11(4) and, if any person has been appointed under paragraph 1, on him.
+
+(3) Where in consequence of such a direction an appeal under section 20 [[^F388], 26K] or 39 falls to be determined by the Secretary of State himself, the provisions of this Act which are relevant to the appeal shall, subject to the following provisions of this paragraph, apply to the appeal as if this Schedule had never applied to it.
+
+(4) The Secretary of State shall give the appellant, the local planning authority and any person who has made such representations as are referred to in sub-paragraph (2) an opportunity of appearing before and being heard by a person appointed by the Secretary of State for that purpose if—
+
+(a) the reasons for the direction raise matters with respect to which any of those persons have not made representations; or
+
+(b) in the case of the appellant and the local planning authority, either of them was not asked in pursuance of paragraph 2(2) whether they wished to appear before and be heard by the appointed person, or expressed no wish in answer to that question, or expressed a wish to appear and be heard but was not given an opportunity of doing so.
+
+[^F389]4C . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F390]4D . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) Except as provided by sub-paragraph (4) [^F391]..., the Secretary of State need not give any person an opportunity of appearing before and being heard by a person appointed for the purpose, or of making fresh representations or making or withdrawing any representations already made.
+
+(6) In determining the appeal the Secretary of State may take into account any report made to him by any person previously appointed to determine it.
+
+**4** (1) The Secretary of State may by a further direction revoke a direction under paragraph 3 at any time before the determination of the appeal.
+
+(2) Such a further direction shall state the reasons for which it is given and shall be served on the person, if any, previously appointed to determine the appeal, the appellant, the local planning authority and any person who made representations relating to the subject matter of the appeal which the authority were required to take into account by regulations made under section 11(4).
+
+(3) Where such a further direction has been given the provisions of this Schedule relevant to the appeal shall apply, subject to sub-paragraph (4), as if no direction under paragraph 3 had been given.
+
+(4) Anything done by or on behalf of the Secretary of State in connection with the appeal which might have been done by the appointed person (including any arrangements made for the holding of a hearing or local inquiry) shall unless that person directs otherwise, be treated as having been done by him.
+
+### Appointment of another person to determine appeal
+
+**5** (1) At any time before the appointed person has determined the appeal the Secretary of State may—
+
+(a) revoke his appointment; and
+
+(b) appoint another person under paragraph 1 to determine the appeal instead.
+
+(2) Where such a new appointment is made the consideration of the appeal or any inquiry or other hearing in connection with it shall be begun afresh.
+
+(3) Nothing in sub-paragraph (2) shall require—
+
+(a) the question referred to in paragraph 2(2) to be asked again with reference to the new appointed person if before his appointment it was asked with reference to the previous appointed person (any answers being treated as given with reference to the new appointed person); or
+
+(b) any person to be given an opportunity of making fresh representations or modifying or withdrawing any representations already made.
+
+### Local inquiries and hearings
+
+**6** (1) Whether or not the parties to an appeal have asked for an opportunity to appear and be heard, an appointed person—
+
+(a) may hold a local inquiry in connection with the appeal; and
+
+(b) shall do so if the Secretary of State so directs.
+
+[^F392]1B . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) Where an appointed person—
+
+(a) holds a hearing by virtue of paragraph 2(4) [^F393]...; or
+
+(b) holds an inquiry by virtue of this paragraph,
+
+an assessor may be appointed by the Secretary of State to sit with the appointed person at the hearing or inquiry to advise him on any matters arising, notwithstanding that the appointed person is to determine the appeal.
+
+(3) Subject to sub-paragraph (4), the costs of any such hearing or inquiry shall be paid by the Secretary of State.
+
+(4) Section 250(2) to (5) of the [^M24]Local Government Act 1972 (local inquiries: evidence and costs) applies to an inquiry held by virtue of this paragraph [^F394]... with the following adaptations—
+
+(a) for the references in subsection (4) (recovery of costs of holding the inquiry) to the Minister causing the inquiry to be held, there shall be substituted references to the Secretary of State; and
+
+(b) for the reference in subsection (5) (orders as to the costs of the parties) to the Minister causing the inquiry to be held, there shall be substituted a reference to the appointed person or the Secretary of State.
+
+[^F395]4A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) Subject to sub-paragraph (6), at any [[^F396]such inquiry] oral evidence shall be heard in public and documentary evidence shall be open to public inspection.
+
+(6) If the Secretary of State is satisfied in the case of any such inquiry—
+
+(a) that giving evidence of a particular description or, as the case may be, making it available for inspection would be likely to result in the disclosure of information as to any of the matters mentioned in sub-paragraph (7); and
+
+(b) that the public disclosure of that information would be contrary to the national interest,
+
+he may direct that evidence of the description indicated in the direction shall only be heard or, as the case may be, open to inspection at that inquiry by such persons or persons of such descriptions as he may specify in that direction.
+
+(7) The matters referred to in sub-paragraph (6)(a) are—
+
+(a) national security; and
+
+(b) the measures taken or to be taken to ensure the security of any premises or property.
+
+[[^F397](8) The appointed person or the Secretary of State has the same power to make orders under section 250(5) of the [^M25] Local Government Act 1972 (orders with respect to costs of the parties) in relation to proceedings [^F398]... under this Schedule which do not give rise to an inquiry as he has in relation to such an inquiry.]
+
+**[[^F399]6A** (1) If the Secretary of State is considering giving a direction under paragraph 6(6) the Attorney General may appoint a person to represent the interests of any person who will be prevented from hearing or inspecting any evidence at a local inquiry if the direction is given.
+
+(2) If before the Secretary of State gives a direction under paragraph 6(6) no person is appointed under sub-paragraph (1), the Attorney General may at any time appoint a person as mentioned in sub-paragraph (1) for the purposes of the inquiry.
+
+(3) The Lord Chancellor may by rules make provision—
+
+(a) as to the procedure to be followed by the Secretary of State before he gives a direction under paragraph 6(6) in a case where a person has been appointed under sub-paragraph (1);
+
+(b) as to the functions of a person appointed under sub-paragraph (1) or (2).
+
+(4) If a person is appointed under sub-paragraph (1) or (2) (the appointed representative) the Secretary of State may direct any person who he thinks is interested in the inquiry in relation to a matter mentioned in paragraph 6(7) (the responsible person) to pay the fees and expenses of the appointed representative.
+
+(5) If the appointed representative and the responsible person are unable to agree the amount of the fees and expenses, the amount must be determined by the Secretary of State.
+
+(6) The Secretary of State must cause the amount agreed between the appointed representative and the responsible person or determined by him to be certified.
+
+(7) An amount so certified is recoverable from the responsible person as a civil debt.
+
+(8) Rules made under sub-paragraph (3) must be contained in a statutory instrument subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(9) Sub-paragraph (10) applies if—
+
+(a) a person is appointed under sub-paragraph (1) or (2), but
+
+(b) no inquiry is held as mentioned in paragraph 6(1).
+
+(10) Sub-paragraphs (4) to (7) above apply in respect of the fees and expenses of the person appointed as if the inquiry had been held.
+
+(11) For the purposes of sub-paragraph (10) the responsible person is the person to whom the Secretary of State thinks he would have given a direction under sub-paragraph (4) if an inquiry had been held.
+
+(12) Sub-paragraphs (9) to (11) do not affect paragraph 6(8).]
+
+### Supplementary provisions
+
+**7** (1) The [^M26]Tribunals and Inquiries Act [[^F400]1992] shall apply to a local inquiry or other hearing held in pursuance of this Schedule as it applies to a statutory inquiry held by the Secretary of State, but as if in [[^F400] section 10(1)] of that Act (statement of reasons for decisions) the reference to any decision taken by the Secretary of State were a reference to a decision taken by an appointed person.
+
+(2) Where an appointed person is an officer of [[^F401]the Ministry of Housing, Communities and Local Government] [^F402]... the functions of determining an appeal and doing anything in connection with it conferred on him by this Schedule shall be treated for the purposes of the [^M27]Parliamentary Commissioner Act 1967—
+
+(a) if he was appointed by the Secretary of State for the time being having general responsibility in planning matters in relation to England, as functions of that Department; [^F403]...
+
+[^F403]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F404]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F405]...
+
+**[^F405]8** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 4 — Further Provisions as to exercise of functions by different authorities
+
+*Section 81.*
+
+**1** [^F406]... Subsection (3) of section 1 of the principal Act (which provides that outside London, the metropolitan counties and the Isles of Scilly planning functions are exercisable by both county and district planning authorities) shall have effect subject to paragraphs 2, 4 and 5, and that section and section 2 of the principal Act (joint planning boards) shall have effect subject to paragraph 3.
+
+[^F407]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**2** Subject to sections [^F408]. . . [[^F409]4A], 6, 7 [[^F410], 7ZA, 7A,] [[^F411]8 and 8A] of the principal Act (which make provision as to the exercise of planning functions in National Parks, enterprise zones, urban development areas [[^F412], [[^F413]new towns,] housing action areas and areas for which the Homes and Communities Agency is the local planning authority]) and to the following provisions, outside Greater London the functions of a local planning authority under sections 7 to 26, 38, 42, paragraph 2(2) of Schedule 1 and Schedule 2 shall be exercised by the district planning authority.
+
+**[^F414] [ 3** Where an application for listed building consent under section 10 relating to land in a National Park falls to be determined by a [[^F415]National Park authority]]. . ., that authority—
+
+(a) shall send a copy of the application, as soon as practicable and in any event not later than seven days after they have received it, to [[^F416]any authority which (but for section 4A) would be [^F417]. . .] the district planning authority for the area in which the land to which the application relates is situated; and
+
+(b) shall before determining the application consult [[^F418]any such] authority.
+
+**4** (1) Subject to sections [^F419]. . ., 6, 7, [[^F420], 7ZA, 7A,] [[^F421]8 and 8A] of the principal Act, the functions of a local planning authority under sections 67(2) and (3), 69, 70 and 74 and paragraph 2(3) and (4) of Schedule 1 shall be exercisable—
+
+(a) in Greater London or a metropolitan county [[^F422]or in any National Park for which a National Park authority is the local planning authority], by the local planning authority;
+
+(b) in any part of a National Park [[^F423]to which paragraph (a) above does not apply], by the county planning authority; and
+
+(c) elsewhere, by the district planning authority;
+
+but outside a National Park a county planning authority shall also have power to make determinations and designations under section 69.
+
+(2) Before making a determination under section 69 a county planning authority [[^F424]or National Park authority] shall consult the council of each district of which any part is included in the area to which the proposed determination relates.
+
+(3) Where it is the duty of the district planning authority to take the steps required by section 67(2) in relation to an application which falls to be determined by the county planning authority, the district planning authority shall as soon as possible after taking those steps notify the county planning authority of the steps which they have taken and the date on which they took them.
+
+**5** For the purposes of sections 3 and 4, 7 to 26, 38, 42, 56, 66(1), 67, 69 to 75, 82, 84 and 88(2)(c) and (d) and the provisions of this Schedule so far as they relate to those provisions, the Broads Authority shall be the sole district planning authority in respect of the Broads, and in relation to a building or land within the Broads—
+
+(a) the references to the district planning authority in section 2(1)(b)(iii) and in paragraph 4(1)(c) of this Schedule, so far as that paragraph relates to paragraph 2(3) and (4) of Schedule 1, include that Authority; and
+
+(b) for the purposes of sections 6 [[^F425]44A, 88(2)(a) and (b) and 88A]“local planning authority” includes that Authority.
+
+**6** The validity of any consent or determination granted or made or purported to be granted or made by a local planning authority in respect of an application for listed building consent or conservation area consent shall not be called in question in any legal proceedings, or in any proceedings under this Act which are not legal proceedings, on the ground that the consent or determination should have been granted or made by some other local planning authority.
+
+**7** (1) The Secretary of State may from time to time direct a district planning authority to submit to him for his approval within a period specified in the direction the arrangements which the authority propose to make to obtain specialist advice in connection with their functions under sections 3, [^F426]... 4, 8, 10 to 26, 38, 42, [^F427]... 66(1), 69 to 72, 74 and 75.
+
+(2) If the Secretary of State is not satisfied about any such arrangements he may direct the district planning authority and another local planning authority specified in the direction—
+
+(a) to enter into an agreement under section 113 of the [^M28]Local Government Act 1972 for the placing at the disposal of the district planning authority, for the purpose of giving them any such specialist advice, of the services of officers employed by that other authority who are qualified to give such advice; or
+
+(b) to enter into arrangements, containing terms specified in the direction or terms on lines laid down by him, for the discharge by that other authority of any of those functions.
+
+(3) Before giving a direction under sub-paragraph (2) the Secretary of State shall consult with the district planning authority and the other authority concerned.
+
+Table of Derivations
+
+*Notes:*
+
+1. The following abbreviations are used in this Table:—
+
+|  |  |
+|---|---|
+| 1953 c. 49 = | The Historic Buildings and Ancient Monuments Act 1953 |
+| 1962 c. 36 = | The Local Authorities (Historic Buildings) Act 1962 |
+| 1969 c. 22 = | The Redundant Churches and Other Religious Buildings Act 1969 |
+| 1969 c. 48 = | The Post Office Act 1969 |
+| 1971 c. 78 = | The Town and Country Planning Act 1971 |
+| 1972 c. 42 = | The Town and Country Planning (Amendment) Act 1972 |
+| 1972 c. 70 = | The Local Government Act 1972 |
+| 1974 c. 7 = | The Local Government Act 1974 |
+| 1974 c. 32 = | The Town and Country Amenities Act 1974 |
+| 1975 c. 10 = | The Statute Law (Repeals) Act 1975 |
+| 1975 c. 76 = | The Local Land Charges Act 1975 |
+| 1977 c. 38 = | The Administration of Justice Act 1977 |
+| 1978 c. 30 = | The Interpretation Act 1978 |
+| 1979 c. 46 = | The Ancient Monuments and Archaeological Areas Act 1979 |
+| 1980 c. 43 = | The Magistrates’ Courts Act 1980 |
+| 1980 c. 65 = | The Local Government, Planning and Land Act 1980 |
+| 1981 c. 41 = | The Local Government and Planning (Amendment) Act 1981 |
+| 1981 c. 54 = | The Supreme Court Act 1981 |
+| 1981 c. 67 = | The Acquisition of Land Act 1981 |
+| 1982 c. 16 = | The Civil Aviation Act 1982. |
+| 1982 c. 21 = | The Planning Inquiries (Attendance of Public) Act 1982 |
+| 1982 c. 30 = | The Local Government (Miscellaneous Provisions) Act 1982 |
+| 1982 c. 48 = | The Criminal Justice Act 1982 |
+| 1983 c. 47 = | The National Heritage Act 1983 |
+| 1984 c. 10 = | The Town and Country Planning Act 1984 |
+| 1984 c. 12 = | The Telecommunications Act 1984 |
+| 1985 c. 51 = | The Local Government Act 1985 |
+| 1986 c. 44 = | The Gas Act 1986 |
+| 1986 c. 63 = | The Housing and Planning Act 1986 |
+| 1987 c. 3 = | The Coal Industry Act 1987 |
+| 1988 c. 4 = | The Norfolk and Suffolk Broads Act 1988 |
+| 1989 c. 15 = | The Water Act 1989 |
+| 1989 c. 29 = | The Electricity Act 1989 |
+
+2. The Table does not show the effect of Transfer of Function orders.
+
+3. The letter R followed by a number indicates that the provision gives effect to the Recommendation bearing that number in the Law Commission’s Report on the Consolidation of Certain Enactments relating to Town and Country Planning (Cmnd. 958).
+
+4. The entry “drafting” indicates a provision of a mechanical or editorial nature only affecting the arrangement of the consolidation.
+
+|  |  |
+|---|---|
+| Provision | Derivation |
+| 1 (1) | 1971 c. 78 s. 54(1); 1983 c. 47 Sch. 4 para. 16(2). |
+| (2) | 1971 c. 78 s. 54(1)(part); 1983 c. 47 Sch. 4 para. 16(2). |
+| (3) | 1971 c. 78 s. 54(2). |
+| (4) | 1971 c. 78 s. 54(3); 1983 c. 47 Sch. 4 para. 16(3). |
+| (5) | 1971 c. 78 s. 54(9); 1986 c. 63 Sch. 9 para. 1(1). |
+| (6) | Drafting. |
+| 2 (1) | 1971 c. 78 s. 54(4),(5); 1972 c. 70 s. 179(3), Sch. 16 para. 28, Sch. 30; 1985 c. 51 Sch. 2 para. 1(3); R 34. |
+| (2) | 1971 c. 78 s. 54(6); 1972 c. 70 Sch. 30; 1975 c. 76 Sch. 1. |
+| (3) | 1971 c. 78 s. 54(7); 1972 c. 70 s. 179(3), Sch. 30. |
+| (4) | 1971 c. 78 s. 54(8). |
+| (5) | 1971 c. 78 s. 54(8); 1985 c. 51 Sch. 2 para. 1(3); R 34. |
+| (6) | 1971 c. 78 s. 54(8);1985 c. 51 Sch. 2 para. 1(3). |
+| 3 (1) | 1971 c. 78 s. 58(1); 1980 c. 65 Sch. 15 para. 12; 1985 c. 51 Sch. 2 para. 1(5). |
+| (2) | 1971 c. 78 s. 58(1); 1980 c. 65 Sch. 15 para. 12; 1985 c. 51 Sch. 2 para. 1(5). |
+| (3) | 1971 c. 78 s. 58(3); 1980 c. 65 Sch. 15 para. 12; 1985 c. 51 Sch. 2 para. 1(5). |
+| (4) | 1971 c. 78 s. 58(3); 1980 c. 65 Sch. 15 para. 12; 1985 c. 51 Sch. 2 para. 1(5). |
+| (5) | 1971 c. 78 s. 58(4)(part). |
+| (6) | 1971 c. 78 s. 58(5)(a); 1980 c. 65 Sch. 15 para. 12; 1985 Sch. 2 para. 1(5). |
+| (7) | 1971 c. 78 s. 58(5)(b); 1980 c. 65 Sch. 15 para. 12; 1985 c. 51 Sch. 2 para. 1(5). |
+| (8) | 1971 c. 78 s. 58(7); 1985 c. 51 Sch. 2 para. 1(5)(c). |
+| 4 (1) to (3) | 1971 c. 78 s. 58(6); 1972 c. 42 s. 7(1); 1985 c. 51 Sch. 2 para. 1(5). |
+| (4) | 1971 c. 78 s. 58(7); 1985 c. 51 Sch. 2 para. 1(5)(c). |
+| 5 | Drafting |
+| 6 (1) | 1971 c. 78 s. 54A(1); 1980 c. 65 Sch. 15 para. 5. |
+| (2) | 1971 c. 78 s. 54A(2); 1980 c. 65 Sch. 15 para. 5; R 35. |
+| (3) | 1971 c. 78 s. 54A(3); 1980 c. 65 Sch. 15 para. 5. |
+| (4) | 1971 c. 78 s. 54A(4); 1980 c. 65 Sch. 15 para. 5; 1985 c. 51 Sch. 2 para. 1(4). |
+| 7 | 1971 c. 78 s. 55(1)(part); 1980 c. 65 Sch. 15 para. 6(1). |
+| 8(1), (2) | 1971 c. 78 s. 55(2);1980 c. 65 Sch. 34,Pt X; R 36. |
+| (3) | 1971 c. 78 s. 55(2A); 1980 c. 65 Sch. 15 para. 6(2). |
+| (4) to (6) | 1971 c. 78 s. 55(3). |
+| (7) | 1971 c. 78 s. 55(3A); 1980 c. 65 Sch. 15 para. 6(3). |
+| 9 (1) | 1971 c. 78 s. 55(1)(part). |
+| (2) | 1971 c. 78 s. 55(4); 1986 c. 63 Sch. 11 para. 19. |
+| (3) | 1971 c. 78 s. 55(6); 1986 c. 63 Sch. 9 para. 2(1). |
+| (4), (5) | 1971 c. 78 s. 55(5); 1980 c. 43 s. 32(2); 1982 c. 48 s. 74(1). |
+| 10 (1) | 1971 c. 78 s. 56(6) (part), Sch. 11 para. 1(1A) (part); 1986 c. 63 Sch. 9 para. 9. |
+| (2) | 1971 c. 78 Sch. 11 para. 1(1); 1986 c. 63 Sch. 9 para. 9. |
+| (3) | 1971 c. 78 Sch. 11 para. 1(1A); 1986 c. 63 Sch. 9 para. 9. |
+| 11 (1) to (5) | 1971 c. 78 ss. 27(1) (except (cc)), (2),(4), 29(3), Sch. 11 para. 2(1). |
+| (6) | 1971 c. 78 Sch. 11 para. 2(2); 1982 c. 48 ss. 38, 46. |
+| (7) | 1971 c. 78 s. 27(7), Sch. 11 para. 2(1). |
+| 12 (1) | 1971 c. 78 Sch. 11 para. 4(1). |
+| (2) | 1971 c. 78 Sch. 11 para. 4(2). |
+| (3) | 1971 c. 78 Sch. 11 para. 4(3). |
+| (4) | 1971 c. 78 Sch. 11 para. 4(4). |
+| (5) | 1971 c. 78 Sch. 11 para. 4(5). |
+| 13 (1) | 1971 c. 78 Sch. 11 para. 5(1), (3); 1985 c. 51 Sch. 2 para. 1(17). |
+| (2) | 1971 c. 78 Sch. 11 para. 5(1). |
+| (3) | 1971 c. 78 Sch. 11 para. 5(2); 1986 c. 63 Sch. 9 para. 10(1). |
+| 14 (1) | 1971 c. 78 Sch. 11 para. 6(1); 1985 c. 51 Sch. 2 para. 1(17)(b). |
+| (2) | 1971 c. 78 Sch. 11 para. 6(2); 1985 c. 51 Sch. 2 para. 1(17)(b). |
+| (3) | 1971 c. 78 Sch. 11 para. 6(3); 1985 c. 51 Sch. 2 para. 1(17)(b). |
+| (4) | 1971 c. 78 Sch. 11 para. 6(5); 1985 c. 51 Sch. 2 para. 1(17)(b). |
+| (5) | 1971 c. 78 Sch. 11 para. 6(4),(6); 1985 c. 51 Sch. 2 para. 1 (17)(b); 1986 c. 63 Sch. 9 para. 10. |
+| (6) | 1971 c. 78 Sch. 11 para. 6(3),(4); 1985 c. 51 Sch. 2 para. 1(17)(b); 1986 c. 63 Sch. 9 para. 10. |
+| (7) | 1971 c. 78 Sch. 11 para. 6(5); 1985 c. 51 Sch. 2 para. 1(17)(b). |
+| (8) | 1971 c. 78 Sch. 11 para. 6(7); 1985 c. 51 Sch. 2 para. 1(17)(b). |
+| (9) | 1971 c. 78 Sch. 11 para. 6(8); 1985 c. 51 Sch. 2 para. 1(17)(b). |
+| 15 (1) | 1971 c. 78 Sch. 11 para. 7(1); 1986 c. 63 Sch. 9 para. 11(2). |
+| (2) | 1971 c. 78 Sch. 11 para. 7(1); 1985 c. 51 Sch. 2 para. 1(17)(c). |
+| (3) | 1971 c. 78 Sch. 11 para. 7(1A); 1986 c. 63 Sch. 9 para. 11(2). |
+| (4) | 1971 c. 78 Sch. 11 para. 7(1B); 1986 c. 63 Sch. 9 para. 11(3). |
+| (5) | 1971 c. 78 Sch. 11 para. 7(2). |
+| (6) | 1971 c. 78 Sch. 11 para. 7(3); 1986 c. 63 Sch. 9 para. 11(4). |
+| 16 (1) | 1971 c. 78 s. 56(3)(part),(4); 1980 c. 65 Sch. 15 para. 9. |
+| (2) | 1971 c. 78 s. 56(3) (part); 1980 c. 65 Sch. 15 para. 8. |
+| (3) | 1971 c. 78 Sch. 11 para. 1(2). |
+| 17 (1) | 1971 c. 78 s. 56(4A); 1980 c. 65 Sch. 15 para. 9. |
+| (2) | 1971 c. 78 s. 56(4B); 1986 c. 63 Sch. 9 para. 3(1). |
+| (3) | 1971 c. 78 s. 56(5); 1980 c. 65 Sch. 15 para. 10. |
+| 18 (1) | 1971 c. 78 s. 56A(1); 1980 c. 65 Sch. 15 para. 11. |
+| (2) | 1971 c. 78 s. 56A(2); 1980 c. 65 Sch. 15 para. 11. |
+| (3) | 1971 c. 78 s. 56A(5); 1980 c. 65 Sch. 15 para. 11. |
+| 19 (1) | 1971 c. 78 s. 56B(1); 1986 c. 63 Sch. 9 para. 4. |
+| (2) | 1971 c. 78 s. 56B(2); 1986 c. 63 Sch. 9 para. 4. |
+| (3) | 1971 c. 78 s. 56B(2); 1986 c. 63 Sch. 9 para. 4. |
+| (4) | 1971 c. 78 s. 56B(3); 1986 c. 63 Sch. 9 para. 4. |
+| 20 (1) | 1971 c. 78 s. 56B(2)(part), Sch. 11 para. 8(1); 1986 c. 63 Sch. 9 para. 3(2), para. 4. |
+| (2), (3) | 1971 c. 78 Sch. 11 para. 9; 1986 c. 63 Sch. 9 para. 3(3). |
+| (4) | 1971 c. 78 Sch. 11 para. 9(1) (part); 1986 c. 63 Sch. 9 para. 3(3); R 8(a). |
+| 21 (1) | 1971 c. 78 Sch. 11 para. 8(1), 9; 1986 c. 63 Sch. 9 para. 3(2),(3). |
+| (2) | 1971 c. 78 Sch. 11 para. 8(1),9; 1986 c. 63 Sch. 9 para. 3(2),(3). |
+| (3), (4) | 1971 c. 78 Sch. 11 para. 8(2) (part). |
+| (5), (6) | 1971 c. 78 s. 56B(2)(part), Sch. 11 para. 2(part); 1986 c. 63 Sch. 9 para. 4. |
+| (7) | 1971 c. 78 Sch. 11 para. 2(2); 1982 c. 48 ss. 38, 46. |
+| 22 (1) | 1971 c. 78 Sch. 11 para. 8(3). |
+| (2) | 1971 c. 78 Sch. 11 para. 8(4). |
+| (3) | 1971 c. 78 Sch. 11 para. 8(5). |
+| (4) | 1971 c. 78 Sch. 11 para. 8(6). |
+| 23 (1), (2) | 1971 c. 78 Sch. 11 para. 10(1). |
+| (3) | 1971 c. 78 Sch. 11 para. 10(4). |
+| 24 (1) | 1971 c. 78 Sch. 11 para. 10(2) (part). |
+| (2) to (4) | 1971 c. 78 Sch. 11 para. 10(3). |
+| (5) | 1971 c. 78 Sch. 11 para. 10(2) (part). |
+| 25 (1) | 1971 c. 78 Sch. 11 para. 12(1), (6); 1980 c. 65 Sch. 15 para. 25. |
+| (2) | 1971 c. 78 Sch. 11 para. 12(2),(3),(4); 1980 c. 65 Sch. 34 Pt. X. |
+| (3) | 1971 c. 78 Sch. 11 para. 12(5). |
+| (4) | 1971 c. 78 Sch. 11 para. 12(2)(a). |
+| (5) | 1971 c. 78 Sch. 11 para. 12(2)(b). |
+| 26 | 1971 c. 78 Sch. 11 para. 11; 1974 c. 7 Sch. 6 para. 25(14). |
+| 27 (1) | 1971 c. 78 s. 171(1). |
+| (2) | 1971 c. 78 s. 171(2). |
+| (3) | 1971 c. 78 s. 171(3). |
+| (4) | 1971 c. 78 s. 171(4). |
+| (5) | 1971 c. 78 s. 173(1) (part),(2). |
+| 28 (1),(2) | 1971 c. 78 s. 172(1). |
+| (3) | 1971 c. 78 s. 172(3). |
+| (4) | 1971 c. 78 s. 172(2). |
+| 29 (1) | 1971 c. 78 s. 173(1),(3). |
+| (2) | 1971 c. 78 s. 173(3). |
+| (3) | 1971 c. 78 s. 173(4). |
+| 30 (1) | 1972 c. 70 Sch. 16 para. 34(1),(2); R 37. |
+| (2) | 1972 c. 70 Sch. 16 para. 34(3). |
+| (3) | 1972 c. 70 Sch. 16 para. 52. |
+| 31 (1) | 1971 c. 78 s. 178(1). |
+| (2) | 1971 c. 78 s. 178(2). |
+| (3) | 1971 c. 78 s. 178(3). |
+| (4) | 1971 c. 78 s. 179(1). |
+| (5) | 1971 c. 78 s. 179(2). |
+| 32 (1) | 1971 c. 78 s. 190(1),(3),(5); 1972 c. 70 s. 179(3); 1975 c. 10 Sch. Pt. XII. |
+| (2) | 1971 c. 78 s. 190(1); 1975 c. 10 Sch. Pt. XII. |
+| (3) | 1971 c. 78 s. 190(3). |
+| (4) | 1971 c. 78 s. 190(2). |
+| (5) | 1971 c. 78 s. 190(3),drafting. |
+| 33 (1),(2) | 1971 c. 78 Sch. 19 para. 1(1); 1986 c. 63 Sch. 11 para. 5(2)(a). |
+| (3) | 1971 c. 78 Sch. 19 para. 1(2). |
+| (4) | 1971 c. 78 Sch. 19 para. 1(3); 1986 c. 63 Sch. 11 para. 5(2)(b). |
+| 34 (1) | 1971 c. 78, s. 182(1), Sch. 19 para. 1(3). |
+| (2) | 1971 c. 78 s. 182(2), Sch. 19 para. 1(3); 1972 c. 70 Sch. 16 paras. 37, 52. |
+| (3),(4) | 1971 c. 78 s. 182(3), Sch. 19 para. 1(3). |
+| (5) | 1971 c. 78 s. 182(4), Sch. 19 para. 1(3). |
+| 35 (1),(2) | 1971 c. 78 Sch. 19 para. 2(1). |
+| (3) | 1971 c. 78 Sch. 19 para. 2(2). |
+| (4) | 1971 c. 78 Sch. 19 para. 2(3),(4). |
+| (5) | 1971 c. 78 Sch. 19 para. 2(5),(6). |
+| (6) | 1971 c. 78 Sch. 19 para. 2(7). |
+| (7) | 1971 c. 78 Sch. 19 para. 2(8). |
+| 36 (1) | 1971 c. 78 Sch. 19 para. 3(1). |
+| (2) | 1971 c. 78 Sch. 19 para. 3(2). |
+| (3) | 1971 c. 78 Sch. 19 para. 3(3)(a). |
+| (4) | 1971 c. 78 Sch. 19 para. 3(1). |
+| (5) | 1971 c. 78 Sch. 19 para. 3(3)(b); 1986 c. 63 Sch. 11 para. 7(2). |
+| (6) | 1971 c. 78 Sch. 19 para. 3(3A); 1986 c. 63 Sch. 11 para. 7(2). |
+| (7) | 1971 c. 78 Sch. 19 para. 3(4); R 38. |
+| (8) | 1971 c. 78 Sch. 19 para. 3(5); R 39. |
+| 37 | 1971 c. 78 Sch. 19 para. 4. |
+| 38 (1) | 1971 c. 78 s. 96(1),(2); 1981 c. 41 Sch. para. 9. |
+| (2) | 1971 c. 78 s. 96(1); 1981 c. 41 Sch. para. 9. |
+| (3) | 1971 c. 78 s. 96(3),(4); 1981 c. 41 Sch. para. 9. |
+| (4) | 1971 c. 78 s. 96(3); 1981 c. 41 Sch. para. 9. |
+| (5) to (7) | 1971 c. 78 s. 96(5) to (7); 1981 c. 41 Sch. para. 9. |
+| 39 (1) | 1971 c. 78 s. 97(1); 1981 c. 41 Sch. para. 9; 1984 c. 10 s. 4(2); 1986 c. 63 Sch. 9 para. 2(2). |
+| (2) | 1971 c. 78 s. 97(1),(2); 1981 c. 41 Sch. para. 9. |
+| (3) | 1971 c. 78 s. 97(9); 1981 c. 41 Sch. para. 9. |
+| (4) | 1971 c. 78 s. 97(3); 1981 c. 41 Sch. para. 9. |
+| (5) | 1971 c. 78 s. 97(8); 1981 c. 41 Sch. para. 9. |
+| (6) | 1971 c. 78 s. 110(2)(part). |
+| (7) | 1984 c. 10 s. 4(2). |
+| 40 (1) | 1971 c. 78 ss. 88(5), 97(4); 1981 c. 41 Sch. paras. 1, 9. |
+| (2) | 1971 c. 78 s. 97(6); 1981 c. 41 Sch. para. 9. |
+| (3) | 1971 c. 78 s. 97(10); 1981 c. 41 Sch. para. 9. |
+| 41 (1) | 1971 c. 78 s. 97A(1); 1981 c. 41 Sch. para. 9. |
+| (2) | 1971 c. 78 s. 97A(2); 1981 c. 41 Sch. para. 9. |
+| (3) | 1971 c. 78 s. 97(5); 1981 c. 41 Sch. para. 9. |
+| (4) | 1971 c. 78 s. 97(7); 1981 c. 41 Sch. para. 9. |
+| (5) | 1971 c. 78 s. 97A(3); 1981 c. 41 Sch. para. 9. |
+| (6) | 1971 c. 78 s. 97A(4); 1981 c. 41 Sch. para. 9. |
+| (7) | 1971 c. 78 s. 97A(5); 1981 c. 41 Sch. para. 9. |
+| 42 (1) | 1971 c. 78 s. 99(1). |
+| (2) | 1971 c. 78 s. 99(2). |
+| (3) | 1971 c. 78 ss. 91(3),(4), 99(3); 1974 c. 7 Sch. 8. |
+| (4) | 1971 c. 78 ss. 91(3), 99(3). |
+| (5) | 1971 c. 78 s. 99(3). |
+| (6) | 1971 c. 78 s. 111. |
+| (7) | 1971 c. 78 s. 99(1). |
+| 43 (1) | 1971 c. 78 s. 98(1); 1980 c. 43 s. 32(2),(9); 1982 c. 48 s. 74(1). |
+| (2) | 1971 c. 78 s. 98(2). |
+| (3) | 1971 c. 78 s. 98(3). |
+| (4) | 1971 c. 78 s. 98(4); 1980 c. 43 s. 32(2),(9); 1981 c. 41 Sch. para. 10; 1986 c. 63 Sch. 11 para. 13. |
+| 44(1) | 1971 c. 78 s. 99A(1), (2); 1980 c. 65 Sch. 15 para. 17. |
+| (2) | 1971 c. 78 s. 99A(3); 1980 c. 65 Sch. 15 para. 17. |
+| 45 | 1971 c. 78 s. 99B; 1985 c. 51 Sch. 2 para. 1(7). |
+| 46(1) | 1971 c. 78 ss. 100(1), 276(5A); 1981 c. 41 Sch. paras. 11, 24; 1985 c. 51 Sch. 17. |
+| (2) | 1971 c. 78 ss. 100(1), 276(5A); 1981 c. 41 Sch. paras. 11, 24; 1983 c. 47 Sch. 4 para. 17; 1985 c. 51 Sch. 17. |
+| (3) | 1971 c. 78 ss. 100(1), 276(5A); 1981 c. 41 Sch. para. 11; 1983 c. 47 Sch.4 para. 17; 1985 c. 51 Sch. 17. |
+| (4) | 1971 c. 78 ss. 100(2), 276(5B); 1981 c. 41 Sch. paras. 11, 24; R 40. |
+| (5) | 1972 c. 70 Sch. 16 paras. 47(2), 52. |
+| 47(1) | 1971 c. 78 s. 114(1) to (3); 1972 c. 70 Sch. 30; 1985 c. 51 Sch. 2 para. 1(9); 1988 c. 4 Sch. 3 para. 15. |
+| (2) | 1971 c. 78 s. 114(5); 1981 c. 67 Sch. 4 para. 1, Sch. 6 Pt. I. |
+| (3) | 1971 c. 78 s. 114(3A), (4); 1983 c. 47 Sch. 4 para. 19; 1985 c. 51 Sch. 2 para. 1(9). |
+| (4) | 1971 c. 78 s. 114(6); 1981 c. 67 Sch. 4 para. 21(1),(2); R 41. |
+| (5) | 1971 c. 78 s. 114(6); 1981 c. 67 Sch. 4 para. 21(1),(2). |
+| (6) | 1971 c. 78 s. 114(7). |
+| (7) | 1971 c. 78 s. 114(1), (1A); 1972 c. 70 s. 179(3),Sch. 16 paras. 31, 52; 1988 c. 4 Sch. 3 para. 16. |
+| 48(1) | 1971 c. 78 s. 115(1); 1985 c. 51 Sch. 2 para. 1(10)(a). |
+| (2) | 1971 c. 78 s. 115(2); 1985 c. 51 Sch. 2 para. 1(10)(b). |
+| (3) | 1971 c. 78 s. 115(3); 1985 c. 51 Sch. 2 para. 1(10)(b). |
+| (4) | 1971 c. 78 s. 115(3A); 1983 c. 47 Sch. 4 para. 20; 1985 c. 51 Sch. 2 para. 1(10)(c). |
+| (5) | 1971 c. 78 ss. 180(5), 190(4); R 12. |
+| (6) | 1971 c. 78 ss. 115(4), 180(6), 190(4); 1981 c. 67 Sch. 4 para. 21(3); 1985 c. 51 Sch. 2 para. 1(10)(d); R 12, R 41. |
+| (7) | 1971 c. 78 ss. 114(1), 115(5); 1972 c. 70 s. 179(3), Sch. 16 paras. 31, 52; 1988 c. 4 Sch. 3 para. 16. |
+| 49 | 1971 c. 78 s. 116; 1974 c. 32 s. 6. |
+| 50(1) | 1971 c. 78 s. 117(1), (8); 1974 c. 7 Sch. 6 para. 25(8); 1985 c. 51 Sch. 2 para. 1(11)(a); 1988 c. 4 Sch. 3 para. 17; R 42. |
+| (2) | 1971 c. 78 s. 117(2). |
+| (3) | 1971 c. 78 s. 117(3); 1974 c. 7 Sch. 6 para. 25(8); 1981 c. 67 Sch. 4 para. 21(4)(b); R 41. |
+| (4) | 1971 c. 78 s. 117(4). |
+| (5) | 1971 c. 78 s. 117(4). |
+| (6) | 1971 c. 78 s. 117(5); 1974 c. 7 Sch. 6 para. 25(8), Sch. 8; 1981 c. 67 Sch. 4 para. 21(5)(b); 1985 c. 51 Sch. 2 para. 1(11)(b). |
+| (7) | 1971 c. 78 s. 117(5). |
+| (8) | 1971 c. 78 s. 117(6). |
+| (9) | 1971 c. 78 s. 117(7). |
+| 51(1) | 1971 c. 78 s. 118(1). |
+| (2) | 1971 c. 78 s. 118(2); 1984 c. 12 Sch. 4 para. 53(3). |
+| (3) to (5) | 1971 c. 78 s. 118(3) to (5). |
+| 52(1) | 1971 c. 78 s. 119(1); 1972 c. 70 s. 179(3), Sch. 16 paras. 31, 52, Sch. 30. |
+| (2) | 1971 c. 78 ss. 119(3), 132(4)(a),(c). |
+| 53(1) | 1971 c. 78 s. 126(1); 1972 c. 70 Sch. 16 paras. 31, 52; 1985 c. 51 Sch. 2 para. 1(12); R 43. |
+| (2) | 1953 c. 49 s. 5(3); 1971 c. 78 s. 126(2). |
+| (3) | 1953 c. 49 s. 5(3A); 1983 c. 47 Sch. 4 para. 6(2). |
+| 54(1) | 1971 c. 78 s. 101(1); 1986 c. 63 Sch. 9 para. 7. |
+| (2) | 1971 c. 78 s. 101(1),(5)(c); 1986 c. 63 Sch. 9 para. 7. |
+| (3) | 1971 c. 78 s. 101(1); 1986 c. 63 Sch. 9 para. 7. |
+| (4) | 1971 c. 78 s. 101(3); 1986 c. 63 Sch. 9 para. 7. |
+| (5),(6) | 1971 c. 78 s. 101(4); 1986 c. 63 Sch. 9 para. 7. |
+| (7) | 1971 c. 78 s. 101(5)(a); 1986 c. 63 Sch. 9 para. 7. |
+| 55(1) to (5) | 1971 c. 78 s. 101A(1) to (5); 1986 c. 63 Sch. 9 para. 7. |
+| (6) | 1971 c. 78 s. 111; R 40. |
+| 56 | 1971 c. 78 s. 56C(1); 1986 c. 63 Sch. 9 para. 6(1). |
+| 57(1) to (3) | 1962 c. 36 s. 1(1). |
+| (4),(5) | 1962 c. 36 s. 1(2). |
+| (6) | 1962 c. 36 s. 1(3). |
+| (7) | 1962 c. 36 s. 1(4),(5); 1988 c. 4. Sch. 3 para. 4. |
+| 58(1) | 1962 c. 36 s. 2(1). |
+| (2),(3) | 1962 c. 36 s. 2(2). |
+| (4) | 1962 c. 36 s. 2(2); R 44. |
+| (5) | 1962 c. 36 s. 2(3); R 45. |
+| 59(1) | 1971 c. 78 s. 57(1)(part); 1982 c. 48 ss. 38, 46. |
+| (2) | 1971 c. 78 s. 57(1)(part). |
+| (3) | 1971 c. 78 s. 57(2). |
+| (4) | 1971 c. 78 s. 57(3); 1982 c. 48 ss. 38, 46; 1986 c. 63 Sch. 11 para. 13. |
+| 60(1) to (3) | 1971 c. 78 ss. 56(1), 57(1), 58(2), 101(3), 114(3); 1979 c. 46 Sch. 4 para. 11; 1986 c. 63 Sch. 9 para. 7. |
+| (4) | 1971 c. 78 s. 56(1)(a). |
+| (5) | 1971 c. 78 s. 58AA(1); 1986 c. 63 Sch. 9 para. 5(1). |
+| (6) | 1971 c. 78 s. 58AA(2); 1986 c. 63 Sch. 9 para. 5(1). |
+| (7) | 1969 c. 22 s. 2; 1971 c. 78 Sch. 23 Pt II; 1978 c. 30 ss. 17(2)(a), 22(3). |
+| 61 | 1971 c. 78 ss. 56(1)(part), 57(1), 58(2), 101(3), 114(3); 1979 c. 46 Sch. 4 para. 11; 1986 c. 63 Sch. 9 para. 7. |
+| 62(1) | 1971 c. 78 ss. 242(1)(d)(e),(2)(e). |
+| (2) | 1971 c. 78 s. 242(3)(h) to (k); 1982 c. 30 Sch. 6 para. 7(b). |
+| (3) | 1971 c. 78 s. 242(4). |
+| 63(1) | 1971 c. 78 s. 245(1). |
+| (2) | 1971 c. 78 s. 245(2). |
+| (3) | 1971 c. 78 s. 245(1), (2); R 25(b). |
+| (4) | 1971 c. 78 s. 245(4). |
+| (5) | 1971 c. 78 s. 245(6). |
+| (6) | 1971 c. 78 s. 245(7); 1972 c. 70 Sch. 16 para. 46. |
+| (7) | 1971 c. 78 s. 245(3),(7); 1972 c. 70 Sch. 16 para. 46; R 26. |
+| 64 | 1971 c. 78 s. 243(1)(b); 1981 c. 41 Sch. para. 18(1). |
+| 65(1) | 1971 c. 78 s. 246(1); 1981 c. 41 Sch. para. 19. |
+| (2), (3) | 1971 c. 78 s. 246(2); 1981 c. 54 Sch. 5. |
+| (4) | 1971 c. 78 s. 246(3). |
+| (5) | 1971 c. 78 s. 246(4); 1977 c. 38 Sch. 5 Pt. IV. |
+| (6) | 1971 c. 78 s. 246(5). |
+| (7) | 1971 c. 78 s. 246(6); 1985 c. 51 Sch. 2 para. 1(13). |
+| 66(1) | 1971 c. 78 s. 56(3); 1980 c. 65 Sch. 15 para. 8. |
+| (2) | 1971 c. 78 ss. 125(1),(3),(4); 1974 c. 7 Sch. 6 para. 25(10). |
+| (3) | 1980 c. 65 s. 119(3). |
+| 67(1) | 1971 c. 78 s. 28(1); 1974 c. 7 Sch. 6 para. 25(1); 1974 c. 32 s. 4(1). |
+| (2) | 1971 c. 78 s. 28(2); 1972 c. 70 Sch. 16 para. 21(1); 1985 c. 51 Sch. 2 para. 1(2). |
+| (3) | 1971 c. 78 s. 28(2A); 1983 c. 47 Sch. 4 para. 15(2). |
+| (4) | 1971 c. 78 s. 28(2B); 1983 c. 47 Sch. 4 para. 15(2). |
+| (5) | 1971 c. 78 s. 28(2C); 1983 c. 47 Sch. 4 para. 15(2). |
+| (6) | 1971 c. 78 s. 28(3); 1983 c. 47 Sch. 4 para. 15(3). |
+| (7) | 1971 c. 78 s. 29(4). |
+| (8) | 1971 c. 78 s. 32(2) proviso. |
+| 68(1) | 1971 c. 78 s. 58A(1); 1985 c. 51 Sch. 2 para. 1(6). |
+| (2) | 1971 c. 78 s. 58A(2); 1985 c. 51 Sch. 2 para. 1(6). |
+| (3) | 1971 c. 78 s. 58A(3); 1985 c. 51 Sch. 2 para. 1(6). |
+| 69(1) | 1971 c. 78 s. 277(1); 1974 c. 32 s. 1(1). |
+| (2) | 1971 c. 78 s. 277(2); 1974 c. 32 s. 1(1); 1980 c. 65 Sch. 15 para. 26(1). |
+| (3) | 1971 c. 78 s. 277(4); 1974 c. 32 s. 1(1). |
+| (4) | 1971 c. 78 s. 277(9); 1974 c. 32 s. 1(1); 1975 c. 76 Sch. 1. |
+| 70(1) | 1971 c. 78 s. 277(10)(a); 1974 c. 32 s. 1(1); 1985 c. 51 Sch. 2 para. 1(14)(b). |
+| (2) | 1971 c. 78 s. 277(5); 1974 c. 32 s. 1(1); 1985 c. 51 Sch. 2 para. 1(14)(a). |
+| (3) | 1971 c. 78 s. 277(4)(part); 1974 c. 32 s. 1(1). |
+| (4) | 1971 c. 78 s. 277(5); 1974 c. 32 s. 1(1); 1985 c. 51 Sch. 2 para. 1(14)(a). |
+| (5) | 1971 c. 78 s. 277(6), (6A); 1974 c. 32 s. 1(1); 1983 c. 47 Sch. 4 para. 21. |
+| (6) | 1971 c. 78 s. 277(6), (6A); 1974 c. 32 s. 1(1); 1983 c. 47 Sch. 4 para. 21. |
+| (7) | 1971 c. 78 s. 277(6); 1974 c. 32 s. 1(1). |
+| (8) | 1971 c. 78 s. 277(7); 1974 c. 32 s. 1(1). |
+| 71(1) | 1971 c. 78 s. 277B(1); 1974 c. 32 s. 1(1); 1980 c. 65 Sch. 15 para. 26(3). |
+| (2), (3) | 1971 c. 78 s. 277B(2); 1974 c. 32 s. 1(1). |
+| 72 | 1971 c. 78 s. 277(8); 1974 c. 32 s. 1(1). |
+| 73(1) | 1971 c. 78 ss. 28(1) to (3), 29(4); 1972 c. 70 Sch. 16 para. 21; 1974 c. 7 Sch. 6 para. 25(1); 1974 c. 32 s. 4(1); 1983 c. 47 Sch. 4 para. 15(2), (3); 1985 c. 51 Sch. 2 para. 1(2). |
+| (2) | 1971 c. 78 s. 32(2) proviso. |
+| 74(1) | 1971 c. 78 s. 277A(1),(2); 1974 c. 32 s. 1(1). |
+| (2) | 1971 c. 78 s. 277A(7); 1974 c. 32 s. 1(1). |
+| (3) | 1971 c. 78 s. 277A(8); 1974 c. 32 s. 1(1); 1984 c. 10 s. 4(3); 1986 c. 63 Sch. 9 para. 8(2). |
+| (4) | 1971 c. 78 s. 277A(9); 1974 c. 32 s. 1(1). |
+| 75(1) | 1971 c. 78 ss. 58(2),277A(1); 1974 c. 32 s. 1(1); 1979 c. 46 Sch. 4 para. 11. |
+| (2) | 1971 c. 78 s. 277A(4); 1974 c. 32 s. 1(1); 1980 c. 65 Sch. 15 para. 26(2)(b). |
+| (3) | 1971 c. 78 s. 277A(5); 1974 c. 32 s. 1(1). |
+| (4) | 1971 c. 78 s. 277A(6); 1974 c. 32 s. 1(1). |
+| (5) | 1971 c. 78 ss. 58(2),277A(1); 1974 c. 32 s. 1(1). |
+| (6) | 1971 c. 78 s. 56(1). |
+| (7) | 1971 c. 78 s. 58AA(1); 1986 c. 63 Sch. 9 para. 5(1). |
+| (8) | 1971 c. 78 s. 58AA(2); 1986 c. 63 Sch. 9 para. 5(1). |
+| (9) | 1971 c. 78 s. 277A(8),(9); 1974 c. 32 s. 1(1); 1986 c. 63 Sch. 9 para. 8(2). |
+| (10), (11) | 1971 c. 78 s. 277A(10); 1974 c. 32 s. 1(1). |
+| 76(1) | 1971 c. 78 s. 101(1)(b), (2); 1986 c. 63 Sch. 9 para. 7. |
+| (2) | 1971 c. 78 s. 101(5)(b); 1986 c. 63 Sch. 9 para. 7. |
+| 77(1) | 1972 c. 42 s. 10(1AA); 1983 c. 47 Sch. 4 para. 22. |
+| (2) | 1972 c. 42 s. 10(1); 1980 c. 65 Sch. 15 para. 27; 1983 c. 47 Sch. 4 para. 22. |
+| (3) | 1972 c. 42 s. 10(1), (1AA); 1980 c. 65 Sch. 15 para. 27; 1983 c. 47 Sch. 4 para. 22. |
+| (4) | 1972 c. 42 s. 10(2); 1983 c. 47 Sch. 4 para. 22. |
+| (5) | 1972 c. 42 s. 10(3A); 1983 c. 47 Sch. 4 para. 22. |
+| (6) | 1972 c. 42 s. 10(3); 1983 c. 47 Sch. 4 para. 22. |
+| (7) | 1972 c. 42 s. 10(4); 1983 c. 47 Sch. 6. |
+| (8) | 1972 c. 42 s. 10(5). |
+| (9) | 1972 c. 42 s. 10(5). |
+| 78(1) | 1972 c. 42 s. 10A(1); 1979 c. 46 s. 48(1); 1983 c. 47 Sch. 4 para. 23(2). |
+| (2) | 1972 c. 42 s. 10A(1),(4); 1979 c. 46 s. 48(1); 1983 c. 47 Sch. 4 para. 23(2). |
+| (3) | 1972 c. 42 s. 10A(2); 1979 c. 46 s. 48(1). |
+| (4) | 1972 c. 42 s. 10A(5); 1979 c. 46 s. 48(1); 1983 c. 47 Sch. 4 para. 23(2), (3). |
+| (5) | 1972 c. 42 s. 10A(7); 1979 c. 46 s. 48(1). |
+| (6) | 1972 c. 42 s. 10A(6); 1979 c. 46 s. 48(1). |
+| (7) | 1972 c. 42 s. 10A(3); 1979 c. 46 s. 48(1); 1983 c. 47 Sch. 4 para. 23(2),(3). |
+| (8) | 1972 c. 42 s. 10A(8); 1979 c. 46 s. 48(1); 1983 c. 47 Sch. 4 para. 23(2); R 45. |
+| 79(1) | 1972 c. 42 s. 10B(3),(4); 1980 c. 65 Sch. 15 para. 28; 1983 c. 47 Sch. 4 para. 24(4),(5). |
+| (2) | 1972 c. 42 s. 10B(3); 1980 c. 65 Sch. 15 para. 28; 1983 c. 47 Sch. 4 para. 24(4). |
+| (3) | 1972 c. 42 s. 10B(11); 1980 c. 65 Sch. 15 para. 28; 1983 c. 47 Sch. 4 para. 24(11); 1988 c. 4 Sch. 3 para. 27. |
+| 80(1) | 1972 c. 42 s. 10B(1A),(2); 1980 c. 65 Sch. 15 para. 28; 1983 c. 47 Sch. 4 para. 24(3). |
+| (2) | 1972 c. 42 s. 10B(1),(2); 1980 c. 65 Sch. 15 para. 28; 1983 c. 47 Sch. 4 para. 24(2). |
+| (3) | 1972 c. 42 s. 10B(5); 1980 c. 65 Sch. 15 para. 28; 1983 c. 47 Sch. 4 para. 24(6). |
+| (4) | 1972 c. 42 s. 10B(6),(7); 1980 c. 65 Sch. 15 para. 28; 1983 c. 47 Sch. 4 para. 24(7). |
+| (5) | 1972 c. 42 s. 10B(8); 1980 c. 65 Sch. 15 para. 28; 1983 c. 47 Sch. 4 para. 24(8). |
+| (6) | 1972 c. 42 s. 10B(9); 1980 c. 65 Sch. 15 para. 28; 1983 c. 47 Sch. 4 para. 24(9). |
+| (7) | 1972 c. 42 s. 10B(10)(part); 1980 c. 65 Sch. 15 para. 28; 1983 c. 47 Sch. 4 para. 24(10); R 44. |
+| 81 | Drafting |
+| 82(1) | 1971 c. 78 s. 270(1), Sch. 21 Pt. V. |
+| (2) | 1971 c. 78 s. 271; 1974 c. 32 s. 7(1). |
+| (3) | 1971 c. 78 s. 271, Sch. 21 Pt. VI ; 1974 c. 32 s. 7(1); 1986 c. 63 Sch. 9 para. 12; R 47, R 48. |
+| (4) | 1971 c. 78 ss. 270(2)(b), 271; 1974 c. 32 s. 7(1); 1981 c. 41 Sch. paras. 21, 22. |
+| 83(1) | 1971 c. 78 s. 266(1)(part). |
+| (2) | 1971 c. 78 s. 266(2)(part); 1981 c. 41 Sch. para. 20. |
+| (3) | 1971 c. 78 s. 266(4); 1981 c. 41 Sch. para. 20. |
+| (4) | 1971 c. 78 s. 266(5). |
+| (5) | 1971 c. 78 s. 266(7). |
+| (6) | 1984 c. 10 s. 4(1). |
+| (7), (8) | 1971 c. 78 s. 266(7) |
+| 84(1) | 1984 c. 10 s. 1(1)(a). |
+| (2) | 1984 c. 10 s. 1(2) |
+| (3) | 1984 c. 10 s. 1(3). |
+| (4) | 1984 c. 10 s. 1(5). |
+| (5) | 1984 c. 10 s. 1(7). |
+| (6) | 1984 c. 10 ss. 1(6), 6(1). |
+| (7) | 1984 c. 10 s. 6(1). |
+| (8) | 1984 c. 10 s. 4(1). |
+| 85 | 1971 c. 78 s. 273; 1987 c. 3 Sch. 1 para. 19; R 48. |
+| 86(1) | 1971 c. 78 s. 274(1); 1981 c. 41 Sch. para. 23; 1981 c. 67 Sch. 4 para. 1. |
+| (2) | 1971 c. 78 s. 274(2). |
+| (3) | 1971 c. 78 s. 274(3). |
+| (4) | 1971 c. 78 s. 274(5). |
+| 87 | 1971 c. 78 s. 275(2). |
+| 88(1) | 1971 c. 78 s. 280(2). |
+| (2) | 1971 c. 78 s. 280(1)(c),(3),(8),(10); 1981 c. 41 Sch. para. 25; 1985 c. 51 Sch. 2 para. 1(16). |
+| (3) | 1971 c. 78 s. 280(4),(10); 1985 c. 51 Sch. 2 para. 1(16); R 49. |
+| (4) | 1971 c. 78 s. 280(6). |
+| (5) | 1971 c. 78 s. 280(7). |
+| (6) | 1971 c. 78 s. 280(9). |
+| (7) | 1971 c. 78 s. 281. |
+| 89(1) | 1971 c. 78 ss. 282, 282A, 282B, 283, 284, 285; 1986 c. 63 Sch. 11 paras. 9, 10. |
+| (2) | 1971 c. 78 s. 285(1). |
+| 90(1) | 1971 c. 78 s. 254; R 50. |
+| (2) | 1971 c. 78 s. 255(2). |
+| (3) | 1971 c. 78 s. 255(3). |
+| (4) | 1971 c. 78 s. 255(5). |
+| (5) | 1971 c. 78 s. 263(1); 1972 c. 70 Sch. 29 Pt. I para. 3(b). |
+| (6) | 1971 c. 78 s. 263(1); R 47, R 48. |
+| (7) | 1971 c. 78 s. 260(1)(b)(f), (2). |
+| (8) | 1971 c. 78 s. 262. |
+| 91(1) | 1971 c. 78 s. 290(1). |
+| (2) | 1971 c. 78 s. 290(1); 1972 c. 70 Sch. 30; 1985 c. 51 Sch. 17; 1986 c. 63 Sch. 12 Pt III ; 1988 c. 4 Sch. 3 para. 25. |
+| (3) | 1969 c. 48 Sch. 4 para. 93(1)(xxxiii); 1971 c. 78 s. 191A; 1982 c. 16 Sch. 2 para. 4; 1984 c. 12 Sch. 4 para. 53(5); 1986 c. 44 Sch. 7 para. 2; 1989 c. 15 Sch. 25 para. 1(1),(2); 1989 c. 29 Sch. 16 para. 1(1)(xxii). |
+| (4) | 1971 c. 78 s. 290(8). |
+| (5) | 1971 c. 78 s. 290(3). |
+| (6) | 1971 c. 78 ss. 101(6), 126(3), 280(10), Sch. 19 para. 1(4); 1988 c. 4 Sch. 3 paras. 14, 18, 23, 26. |
+| (7) | 1962 c. 36 s. 1. |
+| 92(1) | 1971 c. 78 s. 269(1). |
+| (2) | 1971 c. 78 s. 269(1); 1984 c. 10 s. 6(3); R 47, R 48. |
+| (3) | 1971 c. 78 s. 269(3); 1972 c. 70 s. 179(3). |
+| (4) | 1971 c. 78 s. 269(4). |
+| 93(1) | 1971 c. 78 s. 287(1). |
+| (2),(3) | 1971 c. 78 s. 287(2). |
+| (4) | 1971 c. 78 s. 287(4); 1986 c. 63 Sch. 9 para. 5(2). |
+| (5) | 1971 c. 78 s. 287(5)(b); 1986 c. 63 Sch. 9 para. 5(2). |
+| (6) | 1971 c. 78 s. 287(9); 1986 c. 63 Sch. 9 para. 5(2); R 51. |
+| (7) | 1971 c. 78 s. 287(3). |
+| 94 | Drafting. |
+| Sch. 1 para. 1 | 1971 c. 78 s. 54(10). |
+| para. 2(1) | 1971 c. 78 ss. 54(10). |
+| (2) | 1971 c. 78 s. 54(10); 1972 c. 70 s. 179(3), Sch. 30. |
+| (3) | 1971 c. 78 s. 54(12); 1983 c. 47 Sch. 4 para. 16(5). |
+| (4) | 1971 c. 78 s. 54(11); 1972 c. 70 Sch. 16 para. 28(2); 1983 c. 47 Sch. 4 para. 16(4); 1985 c. 51 Sch. 2 para. 1(3). |
+| para. 3 | 1971 c. 78 s. 97A(4)(c)(ii), Sch. 11 paras. 8(2)(a), (3)(b); 1981 c. 41 Sch. para. 9. |
+| Sch. 2 para. 1 | 1971 c. 78 Sch. 11 para. 13. |
+| para. 2 | 1971 c. 78 Sch. 11 para. 14. |
+| para. 3 | 1971 c. 78 Sch. 11 para. 15. |
+| para. 4 | 1971 c. 78 Sch. 11 para. 16. |
+| Sch. 3 para. 1(1), (2) | 1971 c. 78 Sch. 9 para. 1(1). |
+| (3) | 1971 c. 78 Sch. 9 para. 1(2). |
+| (4) | 1971 c. 78 Sch. 9 para. 1(3). |
+| (5) | Drafting. |
+| para. 2(1) | 1971 c. 78 Sch. 9 para. 2(1)(d), (f); 1981 c. 41 Sch. para. 27. |
+| (2) | 1971 c. 78 Sch. 9 para. 2(2); 1981 c. 41 Sch. para. 27. |
+| (3) | 1971 c. 78 Sch. 9 para. 2(2)(a); 1981 c. 41 Sch. para. 27. |
+| (4) | 1971 c. 78 Sch. 9 para. 2(2)(b); 1981 c. 41 Sch. para. 27. |
+| (5) | 1971 c. 78 Sch. 9 para. 2(3). |
+| (6) | 1971 c. 78 Sch. 9 para. 2(3)(a). |
+| (7) | 1971 c. 78 Sch. 9 para. 2(3)(b). |
+| (8) | 1971 c. 78 Sch. 9 para. 2(4). |
+| para. 3(1) | 1971 c. 78 Sch. 9 para. 3(1). |
+| (2) | 1971 c. 78 Sch. 9 para. 3(2); R 52. |
+| (3) | 1971 c. 78 Sch. 9 para. 3(3). |
+| (4) | 1971 c. 78 Sch. 9 para. 3(4); R 52. |
+| (5), (6) | 1971 c. 78 Sch. 9 para. 3(5). |
+| para. 4(1) | 1971 c. 78 Sch. 9 para. 3A(1); 1986 c. 63 Sch. 11 para. 11. |
+| (2) | 1971 c. 78 Sch. 9 para. 3A(2); 1986 c. 63 Sch. 11 para. 11; R 52. |
+| (3) | 1971 c. 78 Sch. 9 para. 3A(3); 1986 c. 63 Sch. 11 para. 11. |
+| (4) | 1971 c. 78 Sch. 9 para. 3A(4); 1986 c. 63 Sch. 11 para. 11. |
+| para. 5(1) | 1971 c. 78 Sch. 9 para. 4(1). |
+| (2) | 1971 c. 78 Sch. 9 para. 4(2)(a). |
+| (3) | 1971 c. 78 Sch. 9 para. 4(2). |
+| para. 6(1) | 1971 c. 78 Sch. 9 para. 5(1). |
+| (2) | 1971 c. 78 Sch. 9 para. 5(1A); 1986 c. 63 Sch. 11 para. 12. |
+| (3) | 1971 c. 78 Sch. 9 para. 5(2). |
+| (4) | 1971 c. 78 Sch. 9 para. 5(3); 1986 c. 63 Sch. 11 para. 8(2). |
+| (5) | 1982 c. 21 s. 1(1). |
+| (6) | 1982 c. 21 s. 1(2), (3). |
+| (7) | 1982 c. 21 s. 1(4). |
+| (8) | 1971 c. 78 Sch. 9 para. 5(4); 1986 c. 63 Sch. 11 para. 9(2). |
+| para. 7(1) | 1971 c. 78 Sch. 9 para. 7(1). |
+| (2) | 1971 c. 78 Sch. 9 para. 7(2). |
+| Sch. 4 para. 1 | Drafting. |
+| para. 2 | 1971 c. 78 s. 54(10); 1972 c. 70 s. 179(3), Sch. 16 paras. 25(1), 52; R 46. |
+| para. 3(1) | 1972 c. 70 Sch. 16 paras. 16(1), 52. |
+| (2) | 1972 c. 70 Sch. 16 paras. 16(2), 52. |
+| para. 4(1) | 1971 c. 78 ss. 28(2), (2A), 54(11), (12), 277(10), 277A(11); 1972 c. 70 Sch. 16 paras. 21(1), 28; 1974 c. 32 s. 1(1); 1983 c. 47 Sch. 4 para. 15; 1985 c. 51 Sch. 2 para. 1(2), (3), (14), (15); 1986 c. 63 Sch. 9 para. 8(3). |
+| (2) | 1971 c. 78 s. 277(5); 1974 c. 32 s. 1(1); 1985 c. 51 Sch. 2 para. 1(14). |
+| (3) | 1972 c. 70 Sch. 16 para. 21(2). |
+| para. 5 | 1971 c. 78 ss. 54(13), 54A(4), 273A, 280(10); 1984 c. 10 s. 6(5),(6); 1985 c.51 Sch. 2 para. 1(16); 1988 c. 4 Sch. 3 paras. 7, 8, 12, 13, 23, 32. |
+| para. 6 | 1972 c. 70 Sch. 16 para. 51(1); R 53. |
+| para. 7(1) | 1972 c. 70 Sch. 16 para. 58. |
+| (2) | 1972 c. 70 Sch. 16 para. 59; 1978 c. 30 s. 17(2)(a). |
+| (3) | 1972 c. 70 Sch. 16 para. 59(part). |
+
+---
+
+[^F1]: Words in s. 1(1) inserted (4.11.2024) by Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 94(a) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F2]: S. 1(2) omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 94(b) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F3]: Words in s. 1(4) omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 94(c) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F4]: Words in s. 1(4)(a) omitted (31.5.2017) by virtue of Historic Environment (Wales) Act 2016 (anaw 4), ss. 26(1)(a)(ii), 41(3); S.I. 2017/633, art. 4(c) (with art. 6(2))
+[^F5]: S. 1(4A) omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 94(d) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F6]: Words in s. 1(5) inserted (with application in accordance with Sch. 17 para. 20 of the amending Act) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(2), Sch. 17 para. 8(2)
+[^F7]: S. 1(5A) inserted (with application in accordance with Sch. 17 para. 20 of the amending Act) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(2), Sch. 17 para. 8(3)
+[^F8]: Words in s. 1(5A) omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 94(e) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F9]: Words in s. 2(1) omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 95(a)(i) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F10]: Word in s. 2(1)(a) repealed (1.4.1996) by 1994 c. 19, ss. 20(4), 66(8), Sch. 6 Pt. II para. 25(1)(a), Sch. 18 (with ss. 54(5)(7), 55(5), 66(7), Sch. 17 paras. 22(1), 23(2)); S.I. 1996/396, art. 3, Sch. 1
+[^F11]: Word in s. 2(1) inserted (4.11.2024) by Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 95(a)(ii) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F12]: S. 2(1)(c) and word omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 95(a)(iii) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^M1]: 1975 c.76.
+[^F13]: Words in s. 2(3) omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 95(b)(i) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F14]: Words in s. 2(3) substituted (4.11.2024) by Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 95(b)(ii) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F15]: Words in s. 2(3)(a) omitted (31.5.2017) by virtue of Historic Environment (Wales) Act 2016 (anaw 4), ss. 26(2)(b), 41(3); S.I. 2017/633, art. 4(c) (with art. 6(2))
+[^F16]: S. 2(3A) omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 95(c) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F17]: S. 2(3B) omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 95(c) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F18]: Ss. 2A-2D omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 96 (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F19]: Words in s. 3 heading omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 97(a) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F20]: Words in s. 3(1) substituted (4.11.2024) by Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 97(b) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F21]: S. 3(1A)(1B) inserted (25.7.2024) by Levelling-up and Regeneration Act 2023 (c. 55), ss. 105(2), 255(3)(b) (with s. 247); S.I. 2024/452, reg. 4
+[^F22]: Words in s. 3(2) omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 97(c) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F23]: Words in s. 3(3) omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 97(c) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F24]: Words in s. 3(4) omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 97(c) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F25]: Words in s. 3(5) omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 97(c) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F26]: Words in s. 3(6) omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 97(c) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F27]: S. 3A omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 98 (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F28]: Words in s. 4(2) substituted (4.11.2024) by Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 99 (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F29]: Word in s. 5(1) omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 100(a) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F30]: S. 5(2) omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 100(b) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F31]: Word in s. 6 heading omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 101(a) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F32]: S. 6(A1) inserted (25.6.2013) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 17 para. 9(2); S.I. 2013/1455, art. 2(d) (with art. 4(2))
+[^F33]: Words in s. 6(A1) omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 101(b) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F34]: S. 6(1) omitted (21.5.2016) by virtue of Historic Environment (Wales) Act 2016 (anaw 4), ss. 27(1)(a), 41(2)
+[^F35]: Words in s. 6(2) substituted (25.6.2013) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 17 para. 9(4); S.I. 2013/1455, art. 2(d) (with art. 4(2))
+[^F36]: Words in s. 6(2) omitted (21.5.2016) by virtue of Historic Environment (Wales) Act 2016 (anaw 4), ss. 27(1)(b), 41(2)
+[^F37]: Words in s. 6(3) inserted (25.6.2013) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 17 para. 9(5); S.I. 2013/1455, art. 2(d) (with art. 4(2))
+[^F38]: Words in s. 6(3) omitted (21.5.2016) by virtue of Historic Environment (Wales) Act 2016 (anaw 4), ss. 27(1)(c), 41(2)
+[^F39]: S. 6A omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 102 (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F40]: S. 7 renumbered as s. 7(1) (1.3.2010) by virtue of Planning Act 2008 (c. 29), ss. 36, 241(8), Sch. 2 para. 39(2) (with s. 226); S.I. 2010/101, art. 2 (with art. 6)
+[^F41]: Words in S. 7(1) inserted (1.3.2010) by Planning Act 2008 (c. 29), ss. 36, 241(8), Sch. 2 para. 39(3) (with s. 226); S.I. 2010/101, art. 2 (with art. 6)
+[^F42]: S. 7(2) inserted (1.3.2010) by Planning Act 2008 (c. 29), ss. 36, 241(8), Sch. 2 para. 39(4) (with s. 226); S.I. 2010/101, art. 2 (with art. 6)
+[^F43]: Words in s. 8(4)(a) omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 103(a)(i) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F44]: S. 8(4)(b) omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 103(a)(ii) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F45]: S. 8(6)(b) and word omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 103(b) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F46]: S. 9(3A) omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 104 (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F47]: S. 9(4) substituted (25.9.1991) by Planning and Compensation Act 1991 (c. 34, SIF 123:1), s. 25, Sch. 3 Pt. I para. 1(a); S.I. 1991/2067, art.3
+[^F48]: Words in s. 9(4)(a) substituted (12.3.2015) by The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664), reg. 1(1), Sch. 4 para. 19(2) (with reg. 5(1))
+[^F49]: Words in s. 9(5) repealed (25.9.1991) by Planning and Compensation Act 1991 (c. 34, SIF 123:1), s. 84(6), Schs. 3 Pt. I para. 1(b), 19 Pt.I; S.I. 1991/2067, art. 3 and Sch.1
+[^F50]: Words in s. 10(2) repealed (6.8.2004 for specified purposes, otherwise prosp.) and omitted (6.8.2004 for specified purposes, otherwise 10.8.2006 for E. and 30.6.2007 for W.) by virtue of Planning and Compulsory Purchase Act 2004 (c. 5), ss. 42(6), 120, 121(1), Sch. 9; S.I. 2004/2097, art. 2; S.I. 2006/1061, art. 3(a) (with art. 4 (which art. 4 is revoked (11.2.2010) by S.I. 2010/321, art. 3)); S.I. 2007/1369, art. 2(a) (with art. 3 (as amended (11.2.2010) by S.I. 2010/321, art. 4))
+[^F51]: S. 10(3)(a)-(ab) substituted for s. 10(3)(a) (6.8.2004 for specified purposes, otherwise 10.8.2006 for E. and 30.6.2007 for W.) by Planning and Compulsory Purchase Act 2004 (c. 5), ss. 42(7), 121(1) (with s. 111); S.I. 2004/2097, art. 2; S.I. 2006/1061, art. 3(a) (with art. 4 (which art. 4 is revoked (11.2.2010) by S.I. 2010/321, art. 3)); S.I. 2007/1369, art. 2(a) (with art. 3 (as amended (11.2.2010) by S.I. 2010/321, art. 4))
+[^F52]: S. 10(3)(b) substituted (6.8.2004 for specified purposes, otherwise 28.9.2004) by Planning and Compulsory Purchase Act 2004 (c. 5), ss. 118(1), 121(1), Sch. 6 para. 20(a) (with s. 111); S.I. 2004/2097, art. 2; S.I. 2004/2202, art. 3(e) (with art. 4, Sch. 2)
+[^F53]: S. 10(3)(d)-(f) inserted (6.8.2004 for specified purposes, otherwise 28.9.2004) by Planning and Compulsory Purchase Act 2004 (c. 5), ss. 118(1), 121(1), Sch. 6 para. 20(b) (with s. 111); S.I. 2004/2097, art. 2; S.I. 2004/2202, art. 3(e)
+[^F54]: S. 10(4)(5) inserted (6.8.2004 for specified purposes, otherwise 10.8.2006 for E. and 30.6.2007 for W.) by Planning and Compulsory Purchase Act 2004 (c. 5), ss. 42(8), 121(1) (with s. 111); S.I. 2004/2097, art. 2; S.I. 2006/1061, art. 3(a) (with art. 4 (which art. 4 is revoked (11.2.2010) by S.I. 2010/321, art. 3)); S.I. 2007/1369, art. 2(a) (with art. 3 (as amended (11.2.2010) by S.I. 2010/321, art. 4))
+[^F55]: S. 12(3A) inserted (1.1.1993) by Transport and Works Act 1992 (c. 42, SIF 102), s.17; S.I. 1992/2784, art. 2, Sch.1
+[^F56]: S. 12(4B) omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 105 (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F57]: Words in s. 15(3) omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 106 (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F58]: S. 17(4) inserted (25.4.2024) by Levelling-up and Regeneration Act 2023 (c. 55), ss. 124(4), 255(3)(b) (with s. 247); S.I. 2024/452, reg. 3(i)
+[^F59]: Words in s. 17(4) omitted (4.11.2024) by 2023 asc 3, Sch. 13 para. 106A (with Sch. 14 paras. 1-3) (as inserted by The Historic Environment (Wales) Act 2023 (Consequential Provision) (Primary Legislation) Regulations 2024 (S.I. 2024/1061), regs. 1(2), 5; S.I. 2024/860, art. 3(d))
+[^F60]: Words in s. 18(1)(a)(2) substituted (24.8.2005 for E., otherwise prosp.) by Planning and Compulsory Purchase Act 2004 (c. 5), ss. 51(4)(a), 121(1) (with ss. 51(6), 111); S.I. 2005/2081, art 2(c) (with art. 4)
+[^F61]: S. 18(2A)-(2BF) substituted for s. 18(2A) (18.2.2026) by Planning and Infrastructure Act 2025 (c. 34), ss. 56(4), 118(2)(e) (with ss. 56(5)(8), 116)
+[^F62]: S. 18(2A)-(2C) inserted (24.8.2005 for E., otherwise prosp.) by Planning and Compulsory Purchase Act 2004 (c. 5), ss. 51(4)(b), 121(1) (with ss. 51(6), 111); S.I. 2005/2081, art 2(c) (with art. 4)
+[^F63]: S. 18A inserted (temp. until 2.5.2021) (19.8.2020) by virtue of Business and Planning Act 2020 (c. 16), ss. 19(1), 25(3)(b) (with s. 19(2))
+[^F64]: S. 19(5) inserted (24.8.2005 for E., otherwise prosp.) by Planning and Compulsory Purchase Act 2004 (c. 5), ss. 51(5), 121(1) (with ss. 51(6), 111); S.I. 2005/2081, art 2(c) (with art. 4)
+[^F65]: Words in s. 20(2) substituted (24.8.2005 for E., otherwise prosp.) by Planning and Compulsory Purchase Act 2004 (c. 5), ss. 43(4)(a), 121(1) (with ss. 43(5), 111); S.I. 2005/2081, art. 2(a)
+[^F66]: S. 20(2)(aa) substituted for word in s. 20(2) (24.8.2005 for E. for specified purposes, 6.4.2009 for E. for remaining purposes., otherwise prosp.) by Planning and Compulsory Purchase Act 2004 (c. 5), ss. 43(4)(b), 121(1) (with ss. 43(5), 111); S.I. 2005/2081, art 2(a)(iv); S.I. 2009/384, art. 2(c)
+[^F67]: Words in s. 20(4) omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 107(a) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F68]: S. 20(5) omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 107(b) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F69]: S. 20A inserted (6.8.2004 for specified purposes, 22.6.2015 for W. so far as not already in force) by Planning and Compulsory Purchase Act 2004 (c. 5), ss. 50(2), 121(1) (with ss. 50(3)(4), 111); S.I. 2004/2097, art. 2; S.I. 2015/340, art. 2(b)
+[^F70]: Words in s. 21(4) omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 108(a) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F71]: S. 21(4A) omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 108(b) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F72]: S. 21(4B) omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 108(b) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F73]: S. 21(8)-(11) inserted (26.11.2008 for specified purposes, 6.4.2009 for E. in so far as not already in force, 30.4.2012 for W.) by Planning Act 2008 (c. 29), ss. 197, 241(1)(a)(3)(4), Sch. 11 para. 5 (with s. 226); S.I. 2009/400, art. 5(d); S.I. 2012/802, art. 2(b)
+[^F74]: S. 21(9) omitted (W.) (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 108(c) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F75]: S. 21(10)(11) omitted (21.3.2016) by virtue of Historic Environment (Wales) Act 2016 (anaw 4), ss. 40(9), 41(1)(f)
+[^F76]: S. 22(2B) omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 109(a) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F77]: Words in s. 22(3) substituted (4.11.2024) by Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 109(b) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F78]: Word in s. 23(2) substituted (28.9.2004 for E. and 15.10.2005 for W.) by Planning and Compulsory Purchase Act 2004 (c. 5), ss. 118(1), 121(1), Sch. 6 para. 21 (with s. 111); S.I. 2004/2202, art. 2(h); S.I. 2005/2847, art 2(e)
+[^F79]: Word in s. 26(2) substituted (28.9.2004 for E. and 15.10.2005 for W.) by Planning and Compulsory Purchase Act 2004 (c. 5), ss. 118(1), 121(1), Sch. 6 para. 22 (with s. 111); S.I. 2004/2202, art. 2(h); S.I. 2005/2847, art 2(e)
+[^F80]: Ss. 26A, 26B and cross-heading inserted (25.4.2013 for specified purposes, 6.4.2014 in so far as not already in force) by Enterprise and Regulatory Reform Act 2013 (c. 24), ss. 60(2), 103(1)(i)(3); S.I. 2014/416, art. 3(a)
+[^F81]: Words in s. 26A(1) omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 110 (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F82]: Ss. 26C-26G and cross-heading inserted (25.4.2013 for specified purposes, 6.4.2014 in so far as not already in force) by Enterprise and Regulatory Reform Act 2013 (c. 24), ss. 60(3), 103(1)(i)(3); S.I. 2014/416, art. 3(a)
+[^F83]: Words in s. 26C(1) omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 111 (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F84]: Words in s. 26D(1) omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 112 (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F85]: Ss. 26H-26K and cross-heading inserted (25.4.2013 for specified purposes, 6.4.2014 in so far as not already in force) by Enterprise and Regulatory Reform Act 2013 (c. 24), ss. 61, 103(1)(i)(3); S.I. 2014/416, art. 3(b)
+[^F86]: Words in s. 26H(1) omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 113 (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F87]: S. 26L and cross-heading omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 114 (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F88]: S. 26M omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 114 (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F89]: S. 27 repealed*(for application for listed building consent made on or after 16.11.1990)* by Planning and Compensation Act 1991 (c. 34, SIF 123:1), ss. 31(3)(8), 84(6), Sch. 19 Pt.II
+[^F90]: S. 28A inserted (25.4.2013 for specified purposes, 6.4.2014 in so far as not already in force) by Enterprise and Regulatory Reform Act 2013 (c. 24), ss. 60(4), 103(1)(i)(3); S.I. 2014/416, art. 3(a)
+[^F91]: S. 28B omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 115 (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F92]: S. 29 omitted (4.11.2024) by virtue of 2023 asc 3, Sch. 13 para. 116 (with Sch. 14 paras. 1-3) (as amended by The Historic Environment (Wales) Act 2023 (Consequential Provision) (Primary Legislation) Regulations 2024 (S.I. 2024/1061), regs. 1(2), 6, 22; S.I. 2024/860, art. 3(d))
+[^F93]: S. 30(1)(a) repealed (25.9.1991) by Planning and Compensation Act 1991 (c. 34, SIF 123:1), ss. 31(4), 84(6), Schs. 6 para. 42(1), 19 Pt.II; S.I. 1991/2067, art.3
+[^F94]: S. 30(1)(c) omitted (4.11.2024) by virtue of 2023 asc 3, Sch. 13 para. 116A(a)(i) (with Sch. 14 paras. 1-3) (as inserted by The Historic Environment (Wales) Act 2023 (Consequential Provision) (Primary Legislation) Regulations 2024 (S.I. 2024/1061), regs. 1(2), 7; S.I. 2024/860, art. 3(d))
+[^F95]: Words in s. 30(1) substituted (4.11.2024) by 2023 asc 3, Sch. 13 para. 116A(a)(ii) (with Sch. 14 paras. 1-3) (as inserted by The Historic Environment (Wales) Act 2023 (Consequential Provision) (Primary Legislation) Regulations 2024 (S.I. 2024/1061), regs. 1(2), 7; S.I. 2024/860, art. 3(d))
+[^F96]: Words in s. 30(2) repealed (25.9.1991) by Planning and Compensation Act 1991 (c. 34, SIF 123:1), ss. 31(4), 84(6), Schs. 6 para. 42(2), 19 Pt.II; S.I. 1991/2067, art.3
+[^F97]: Words in s. 30(2) omitted (4.11.2024) by virtue of 2023 asc 3, Sch. 13 para. 116A(b) (with Sch. 14 paras. 1-3) (as inserted by The Historic Environment (Wales) Act 2023 (Consequential Provision) (Primary Legislation) Regulations 2024 (S.I. 2024/1061), regs. 1(2), 7; S.I. 2024/860, art. 3(d))
+[^M2]: 1961 c.33.
+[^F98]: Words in s. 31(2) substituted (4.11.2024) by 2023 asc 3, Sch. 13 para. 117(a) (with Sch. 14 paras. 1-3) (as substituted by The Historic Environment (Wales) Act 2023 (Consequential Provision) (Primary Legislation) Regulations 2024 (S.I. 2024/1061), regs. 1(2), 8; S.I. 2024/860, art. 3(d))
+[^F99]: Words in s. 31(4) substituted (4.11.2024) by 2023 asc 3, Sch. 13 para. 117(b) (with Sch. 14 paras. 1-3) (as substituted by The Historic Environment (Wales) Act 2023 (Consequential Provision) (Primary Legislation) Regulations 2024 (S.I. 2024/1061), regs. 1(2), 8; S.I. 2024/860, art. 3(d))
+[^F100]: Words in s. 31(4) substituted (1.6.2009) by The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307), Sch. 1 para. 212(a) (with Sch. 5)
+[^F101]: Words in s. 31(5) substituted (1.6.2009) by The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307), Sch. 1 para. 212(b) (with Sch. 5)
+[^M3]: 1961 c.33.
+[^F102]: Words in s. 32(1)(a) substituted (1.10.2013) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 17 para. 10(a); S.I. 2013/2227, art. 2(m)
+[^F103]: Words in s. 32(1)(a) inserted (1.10.2013) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 17 para. 10(b); S.I. 2013/2227, art. 2(m)
+[^F104]: Words in s. 32(1) omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 118 (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F105]: Words in s. 32(4) substituted (25.9.1991) by Planning and Compensation Act 1991 (c. 34, SIF 123:1), s. 31(4), Sch. 6 para. 44; S.I. 1991/2067, art. 3
+[^F106]: S. 32(4A) inserted (23.11.1995) by 1995 c. 25, s. 78, Sch. 10 para. 33(2)(with ss. 7(6), 115, 117, Sch. 8 para. 7); S.I. 1995/2950, art. 2
+[^F107]: S. 32A inserted (7.6.2006) by Planning and Compulsory Purchase Act 2004 (c. 5), ss. 79(4), 121(1), Sch. 3 para. 2 (with s. 111); S.I. 2006/1281, art. 2(c)
+[^F108]: Words in s. 34(2)(c) omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 119(a) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F109]: S. 34(2)(cc) omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 119(b) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F110]: Words in s. 38(2) repealed (2.1.1992) by Planning and Compensation Act 1991 (c. 34, SIF 123:1), ss. 25, 84(6), Schs. 3 Pt. II para. 19(a), 19 Pt.I; S. I. 1991/2905, art.3 and Sch. 2
+[^F111]: S. 38(3) substituted (2.1.1992) by Planning and Compensation Act 1991 (c. 34, SIF 123:1), s. 25, Sch. 3 Pt. II para. 19(b); S.I. 1991/2905, art.3
+[^F112]: Words in s. 38(4) substituted (2.1.1992) by Planning and Compensation Act 1991 (c. 34, SIF 123:1), s. 25, Sch. 3 Pt. II para. 19(c); S.I. 1991/2905, art.3
+[^F113]: S. 38(5)(6) substituted (2.1.1992) by Planning and Compensation Act 1991 (c. 34, SIF 123:1), s. 25, Sch. 3 Pt. I para.2; S.I. 1991/2905, art.3
+[^F114]: S. 39(1)(b)(c) substituted (2.1.1992) by Planning and Compensation Act 1991 (c. 34, SIF 123:1), s. 25, Sch. 3 Pt. I para. 3(2); S.I. 1991/2905, art.3
+[^F115]: S. 39(2) substituted (2.1.1992) by Planning and Compensation Act 1991 (c. 34, SIF 123:1), s. 25, Sch. 3 Pt. I para. 3(3); S.I. 1991/2905, art.3
+[^F116]: Word in s. 39(2) repealed (E.) (31.3.2003) by The Town and Country Planning (Electronic Communications) (England) Order 2003 (S.I. 2003/956), art. 7; and that same word repealed (W.) (1.1.2005) by The Town and Country Planning (Electronic Communications) (Wales) (No. 1) Order 2004 (S.I. 2004/3156), art. 7
+[^F117]: S. 39(2)(c) and preceding word inserted (E.) (31.3.2003) by The Town and Country Planning (Electronic Communications) (England) Order 2003 (S.I. 2003/956), art. 7; and that same insertion made (W.) (1.1.2005) by The Town and Country Planning (Electronic Communications) (Wales) (No. 1) Order 2004 (S.I. 2004/3156), art. 7
+[^F118]: Words in s. 39(3) inserted (2.1.1992) by Planning and Compensation Act 1991 (c. 34, SIF 123:1), s. 25, Sch. 3 Pt. I para. 3(4); S.I. 1991/2905, art.3
+[^F119]: Words in s. 39(7) repealed (2.1.1992) by Planning and Compensation Act 1991 (c. 34, SIF 123:1), ss. 25, 84(6), Schs. 3 Pt. II para. 20, 19 Pt.I; S.I. 1991/2905, art.3, sch. 2
+[^F120]: S. 40(2B) omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 120 (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F121]: S. 41(1)(2)(2A) substituted (2.1.1992) by Planning and Compensation Act 1991 (c. 34, SIF 123:1), s. 25, Sch. 3 Pt. I para.4; S.I. 1991/2905, art.3
+[^F122]: Words in s. 41(4) omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 121(a)(i) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F123]: Words in s. 41(4) omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 121(a)(ii) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F124]: S. 41(8) inserted (*temp.*) by Planning (Consequential Provisions) Act 1990 (c. 11, SIF 123:1, 2), s. 6, Sch. 4 paras. 1, 9 (which temp. insertion ceases to have effect (2.1.1992 for specified purposes and 6.4.2009 for further specified purposes) by virtue of S.I. 1991/2698, art. 3 (with art. 4); S.I. 2009/849, art. 2 (with art. 3))
+[^F125]: Words in s. 41(8) omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 121(b) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F126]: Words in s. 42(1) substituted (2.1.1992) by Planning and Compensation Act 1991 (c. 34, SIF 123:1), s. 25, Sch. 3 Pt. II para. 21(a); S.I. 1991/2905, art. 3
+[^M4]: 1936 c. 49.
+[^F127]: S. 42(6) substituted (2.1.1992) by Planning and Compensation Act 1991 (c. 34, SIF 123:1), s. 25, Sch. 3 Pt. I para. 5; S.I. 1991/2905, art. 3
+[^F128]: S. 42(7) repealed (2.1.1992) by Planning and Compensation Act 1991 (c. 34, SIF 123:1), ss. 25, 84(6), Schs. 3 Pt. II para. 21(b), 19 Pt. I; S.I. 1991/2905, art. 3 sch 2
+[^F129]: S. 43 substituted (2.1.1992) by Planning and Compensation Act 1991 (c. 34, SIF 123:1), s. 25, Sch. 3 Pt. I para.6; S.I. 1991/2905, art.3
+[^F130]: Words in s. 43(5) substituted (12.3.2015) by The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664), reg. 1(1), Sch. 4 para. 19(3) (with reg. 5(1))
+[^F131]: S. 44A inserted (25.11.1991 for the purposes specified in S.I. 1991/2728, art. 2) by Planning and Compensation Act 1991 (c. 34, SIF 123:1), s. 25, Sch. 3 Pt. I para.7; S.I. 1991/2728, art.2
+[^F132]: Words in s. 44A(4) omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 122 (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F133]: Ss. 44AA-44AC inserted (25.4.2024) by Levelling-up and Regeneration Act 2023 (c. 55), ss. 103(2), 255(3)(b) (with s. 247); S.I. 2024/452, reg. 3(a)
+[^F134]: Words in s. 44AA heading omitted (4.11.2024) by virtue of 2023 asc 3, Sch. 13 para. 122A (with Sch. 14 paras. 1-3) (as inserted by The Historic Environment (Wales) Act 2023 (Consequential Provision) (Primary Legislation) Regulations 2024 (S.I. 2024/1061), regs. 1(2), 9; S.I. 2024/860, art. 3(d))
+[^F135]: Words in s. 44AA(1) omitted (4.11.2024) by virtue of 2023 asc 3, Sch. 13 para. 122A (with Sch. 14 paras. 1-3) (as inserted by The Historic Environment (Wales) Act 2023 (Consequential Provision) (Primary Legislation) Regulations 2024 (S.I. 2024/1061), regs. 1(2), 9; S.I. 2024/860, art. 3(d))
+[^F136]: Words in s. 44AB heading omitted (4.11.2024) by virtue of 2023 asc 3, Sch. 13 para. 122B (with Sch. 14 paras. 1-3) (as inserted by The Historic Environment (Wales) Act 2023 (Consequential Provision) (Primary Legislation) Regulations 2024 (S.I. 2024/1061), regs. 1(2), 9; S.I. 2024/860, art. 3(d))
+[^F137]: Words in s. 44AC heading omitted (4.11.2024) by virtue of 2023 asc 3, Sch. 13 para. 122C (with Sch. 14 paras. 1-3) (as inserted by The Historic Environment (Wales) Act 2023 (Consequential Provision) (Primary Legislation) Regulations 2024 (S.I. 2024/1061), regs. 1(2), 9; S.I. 2024/860, art. 3(d))
+[^F138]: Ss. 44B-44D omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 123 (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F139]: Words in s. 45 inserted (25.4.2024) by Levelling-up and Regeneration Act 2023 (c. 55), ss. 103(7)(a), 255(3)(b) (with s. 247); S.I. 2024/452, reg. 3(a)
+[^F140]: Words in s. 45 inserted (25.4.2024) by Levelling-up and Regeneration Act 2023 (c. 55), ss. 103(7)(b), 255(3)(b) (with s. 247); S.I. 2024/452, reg. 3(a)
+[^F141]: S. 46(1A) inserted (25.4.2024) by Levelling-up and Regeneration Act 2023 (c. 55), ss. 103(8)(a), 255(3)(b) (with s. 247); S.I. 2024/452, reg. 3(a)
+[^F142]: Words in s. 46(1A) omitted (4.11.2024) by virtue of 2023 asc 3, Sch. 13 para. 124(za) (with Sch. 14 paras. 1-3) (as inserted by The Historic Environment (Wales) Act 2023 (Consequential Provision) (Primary Legislation) Regulations 2024 (S.I. 2024/1061), regs. 1(2), 10; S.I. 2024/860, art. 3(d))
+[^F143]: Words in s. 46(2) inserted (25.4.2024) by Levelling-up and Regeneration Act 2023 (c. 55), ss. 103(8)(b), 255(3)(b) (with s. 247); S.I. 2024/452, reg. 3(a)
+[^F144]: Words in s. 46(2)(b) omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 124(a) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F145]: S. 46(3A) inserted (25.4.2024) by Levelling-up and Regeneration Act 2023 (c. 55), ss. 103(8)(c), 255(3)(b) (with s. 247); S.I. 2024/452, reg. 3(a)
+[^F146]: Words in s. 46(4) substituted (2.1.1992) by Planning and Compensation Act 1991 (c. 34, SIF 123:1), s. 25, Sch. 3 Pt. II para. 22; S.I. 1991/2905, art. 3
+[^F147]: Words in s. 46(5) omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 124(b) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^M5]: 1981 c.67.
+[^F148]: Words in s. 47(3)(a) omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 125(a) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F149]: Words in s. 47(4) repealed (1.4.2005) by Courts Act 2003 (c. 39), ss. 109(1), 110(1), Sch. 8 para. 344, Sch. 10; S.I. 2005/910, art. 3(y)(aa)
+[^F150]: S. 47(6A) inserted (7.6.2006) by Planning and Compulsory Purchase Act 2004 (c. 5), ss. 79(4), 121(1), Sch. 3 para. 5(2) (with s. 111); S.I. 2006/1281, art. 2(c)
+[^F151]: Words in s. 47(7) omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 125(b) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F152]: Words in s. 48(4) omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 126 (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^M6]: 1981 c.67.
+[^F153]: Words in s. 48(6)(b)(i) inserted (18.2.2026) by Levelling Up and Regeneration Act 2023 (c. 55), s. 255(7), Sch. 18 para. 6(a) (with s. 247); S.I. 2025/1370, reg. 2(1)(c)(2)
+[^F154]: Words in s. 48(6)(b)(ii) inserted (18.2.2026) by Levelling Up and Regeneration Act 2023 (c. 55), s. 255(7), Sch. 18 para. 6(b) (with s. 247); S.I. 2025/1370, reg. 2(1)(c)(2)
+[^F155]: Words in s. 49 heading inserted (4.11.2024) by Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 127(a) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F156]: S. 49 renumbered as s. 49(1) (4.11.2024) by Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 127(b) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F157]: Words in s. 49 repealed (25.9.1991) by Planning and Compensation Act 1991 (c. 34, SIF 123:1), ss. 31(4). 84(6), Schs. 6 para. 45, 19 Pt.II; S.I. 1991/2067, art.3 sch. 1
+[^F158]: S. 49(2) inserted (4.11.2024) by Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 127(c) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^M7]: 1981 c.67.
+[^M8]: 1961 c.33.
+[^F159]: Words in s. 47(4) repealed (1.4.2005) by Courts Act 2003 (c. 39), ss. 109(1), 110(1), Sch. 8 para. 345, Sch. 10; S.I. 2005/910, art. 3(y)(aa)
+[^F160]: S. 51(2)(b)(c) substituted (25.7.2003 for specified purposes and 29.12.2003 for further specified purposes) by Communications Act 2003 (c. 21), ss. 406(1), 411(2), Sch. 17 para. 106(2) (with Sch. 18); S.I. 2003/1900, art. 2(1), Sch. 1 (with arts. 3-6); S.I. 2003/3142, art. 3(2) (with art. 11)
+[^M9]: 1961 c.33.
+[^F161]: Words in s. 52(1) substituted (4.11.2024) by Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 128(a)(i) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F162]: Words in s. 52(1) inserted (4.11.2024) by Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 128(a)(ii) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F163]: Words in s. 52(1)(a) inserted (4.11.2024) by Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 128(b) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^M10]: 1965 c.56.
+[^F164]: Words in s. 53(3) omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 129 (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F165]: Word in s. 54 heading omitted (21.5.2016) by virtue of Historic Environment (Wales) Act 2016 (anaw 4), ss. 30(5), 41(2)
+[^F166]: Words in s. 54(2)(a) omitted (4.11.2024) by virtue of 2023 asc 3, Sch. 13 para. 130(a)(i) (with Sch. 14 paras. 1-3) (as substituted by The Historic Environment (Wales) Act 2023 (Consequential Provision) (Primary Legislation) Regulations 2024 (S.I. 2024/1061), regs. 1(2), 11; S.I. 2024/860, art. 3(d))
+[^F167]: S. 54(2)(b) and word omitted (4.11.2024) by virtue of 2023 asc 3, Sch. 13 para. 130(a)(ii) (with Sch. 14 paras. 1-3) (as substituted by The Historic Environment (Wales) Act 2023 (Consequential Provision) (Primary Legislation) Regulations 2024 (S.I. 2024/1061), regs. 1(2), 11; S.I. 2024/860, art. 3(d))
+[^F168]: Words in s. 54(4) omitted (4.11.2024) by virtue of 2023 asc 3, Sch. 13 para. 130(b) (with Sch. 14 paras. 1-3) (as substituted by The Historic Environment (Wales) Act 2023 (Consequential Provision) (Primary Legislation) Regulations 2024 (S.I. 2024/1061), regs. 1(2), 11; S.I. 2024/860, art. 3(d))
+[^F169]: S. 54(4A) omitted (4.11.2024) by virtue of 2023 asc 3, Sch. 13 para. 130(c) (with Sch. 14 paras. 1-3) (as substituted by The Historic Environment (Wales) Act 2023 (Consequential Provision) (Primary Legislation) Regulations 2024 (S.I. 2024/1061), regs. 1(2), 11; S.I. 2024/860, art. 3(d))
+[^F170]: Words in s. 54(5) omitted (4.11.2024) by virtue of 2023 asc 3, Sch. 13 para. 130(d) (with Sch. 14 paras. 1-3) (as substituted by The Historic Environment (Wales) Act 2023 (Consequential Provision) (Primary Legislation) Regulations 2024 (S.I. 2024/1061), regs. 1(2), 11; S.I. 2024/860, art. 3(d))
+[^F171]: S. 54(5A) omitted (4.11.2024) by virtue of 2023 asc 3, Sch. 13 para. 130(e) (with Sch. 14 paras. 1-3) (as substituted by The Historic Environment (Wales) Act 2023 (Consequential Provision) (Primary Legislation) Regulations 2024 (S.I. 2024/1061), regs. 1(2), 11; S.I. 2024/860, art. 3(d))
+[^F172]: Words in s. 54(6) omitted (4.11.2024) by virtue of 2023 asc 3, Sch. 13 para. 130(f) (with Sch. 14 paras. 1-3) (as substituted by The Historic Environment (Wales) Act 2023 (Consequential Provision) (Primary Legislation) Regulations 2024 (S.I. 2024/1061), regs. 1(2), 11; S.I. 2024/860, art. 3(d))
+[^F173]: S. 55(5A)-(5G) omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 131 (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F174]: S. 55(6) repealed (2.1.1992) by Planning and Compensation Act 1991 (c. 34, SIF 123:1), ss. 25, 84(6), Schs. 3 Pt. II para. 23, 19 Pt.I; S.I. 1991/2905, art.3 sch. 2
+[^M11]: 1984 c. 55.
+[^M12]: 1939 c. xcvii.
+[^F175]: Words in s. 57(7)(a) substituted (4.11.2024) by Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 132(a) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F176]: Words in s. 57(7)(b) inserted (4.11.2024) by Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 132(b) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F177]: S. 59(3)(c) and preceding word inserted (1.3.2010) by Planning Act 2008 (c. 29), ss. 36, 248(1), Sch. 2 para. 40 (with s. 226); S.I. 2010/101, art. 2 (with art. 6)
+[^F178]: Words in s. 59(4) substituted (2.1.1992) by Planning and Compensation Act 1991 (c. 34, SIF 123: 1), s. 32, Sch. 7 para.58; S.I. 1991/2905, art.3 Sch. 1
+[^F179]: Word in s. 60(2) omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 133 (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F180]: Words in s. 60(3) added (E.) (19.5.2014) by Church of England (Miscellaneous Provisions) Measure 2014 (No. 1), s. 21(2), Sch. 2 para. 11; S.I. 2014/1369, art. 2
+[^F181]: Words in s. 60(3) substituted (1.9.2018) by Ecclesiastical Jurisdiction and Care of Churches Measure 2018 (No. 3), s. 99(2), Sch. 3 para. 10 (with Sch. 4 Pt. 1); S.I. 2018/720, art. 2
+[^M13]: 1983 No. 1.
+[^M14]: 1979 c.46.
+[^F182]: Words in s. 61(2) substituted (4.11.2024) by Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 134 (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F183]: S. 62(1)(c) and word inserted (26.10.2015) by Criminal Justice and Courts Act 2015 (c. 2), s. 95(1), Sch. 16 para. 5(a); S.I. 2015/1778, art. 3(b)(ii) (with art. 4(a))
+[^F184]: S. 62(2)(za) omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 135 (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F185]: S. 62(2)(aa)(ab) inserted (6.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 17 para. 11; S.I. 2014/416, art. 3(e)
+[^F186]: S. 62(2)(d) inserted (6.8.2004 for specified purposes, otherwise 7.6.2006) by Planning and Compulsory Purchase Act 2004 (c. 5), ss. 83(2), 121(1) (with s. 111); S.I. 2004/2097, art. 2; S.I. 2006/1281, art. 2(a)
+[^F187]: S. 62(2A) inserted (26.10.2015) by Criminal Justice and Courts Act 2015 (c. 2), s. 95(1), Sch. 16 para. 5(b); S.I. 2015/1778, art. 3(b)(ii) (with art. 4(a))
+[^F188]: Words in s. 63(1) substituted (26.10.2015) by Criminal Justice and Courts Act 2015 (c. 2), s. 95(1), Sch. 16 para. 6(2); S.I. 2015/1778, art. 3(b)(ii) (with art. 4(a))
+[^F189]: S. 63(1A) inserted (26.10.2015) by Criminal Justice and Courts Act 2015 (c. 2), s. 95(1), Sch. 16 para. 6(3); S.I. 2015/1778, art. 3(b)(ii) (with art. 4(a))
+[^F190]: Words in s. 63(2) inserted (26.10.2015) by Criminal Justice and Courts Act 2015 (c. 2), s. 95(1), Sch. 16 para. 6(4)(a); S.I. 2015/1778, art. 3(b)(ii) (with art. 4(a))
+[^F191]: Words in s. 63(2) substituted (26.10.2015) by Criminal Justice and Courts Act 2015 (c. 2), s. 95(1), Sch. 16 para. 6(4)(b); S.I. 2015/1778, art. 3(b)(ii) (with art. 4(a))
+[^F192]: Words in s. 63(2) substituted (26.10.2015) by Criminal Justice and Courts Act 2015 (c. 2), s. 95(1), Sch. 16 para. 6(4)(c); S.I. 2015/1778, art. 3(b)(ii) (with art. 4(a))
+[^F193]: S. 63(3)-(3B) substituted for s. 63(3) (26.10.2015) by Criminal Justice and Courts Act 2015 (c. 2), s. 95(1), Sch. 16 para. 6(5); S.I. 2015/1778, art. 3(b)(ii) (with art. 4(a))
+[^F194]: Words in s. 63(4) inserted (26.10.2015) by Criminal Justice and Courts Act 2015 (c. 2), s. 95(1), Sch. 16 para. 6(6)(a); S.I. 2015/1778, art. 3(b)(ii) (with art. 4(a))
+[^F195]: Words in s. 63(4)(a) substituted (26.10.2015) by Criminal Justice and Courts Act 2015 (c. 2), s. 95(1), Sch. 16 para. 6(6)(b); S.I. 2015/1778, art. 3(b)(ii) (with art. 4(a))
+[^F196]: Words in s. 63(4)(b)(i) substituted (26.10.2015) by Criminal Justice and Courts Act 2015 (c. 2), s. 95(1), Sch. 16 para. 6(6)(c); S.I. 2015/1778, art. 3(b)(ii) (with art. 4(a))
+[^F197]: S. 63(6) substituted (26.10.2015) by Criminal Justice and Courts Act 2015 (c. 2), s. 95(1), Sch. 16 para. 6(7); S.I. 2015/1778, art. 3(b)(ii) (with art. 4(a))
+[^M15]: 1981 c.54.
+[^F198]: Words in s. 65(3) substituted (1.10.2009) by Constitutional Reform Act 2005 (c. 4), ss. 59(5), 148(1), Sch. 11 para. 1(2); S.I. 2009/1604, art. 2(d)
+[^F199]: S. 65(3A) added (2.1.1992) by Planning and Compensation Act 1991 (c. 34, SIF 123:1), s. 25, Sch. 3 Pt. I para. 8(2); S.I. 1991/2905, art.3
+[^F200]: S. 65(5) substituted (2.1.1992) by Planning and Compensation Act 1991 (c. 34, SIF 123:1), s. 25, Sch. 3 Pt. I para. 8(3); S.I. 1991/2905, art.3
+[^F201]: Words in s. 66(1) inserted (13.7.2016) by Housing and Planning Act 2016 (c. 22), s. 216(3), Sch. 12 para. 42(1); S.I. 2016/733, reg. 3(d)
+[^F202]: Words in s. 66(3) repealed (1.4.1997) by 1995 c. 25, ss. 120(3), Sch. 24 (with ss. 7(6), 115, 117, Sch. 8 para. 7); S.I. 1996/2560, art. 2, Sch.
+[^F203]: S. 66(4) inserted (15.11.2011 for specified purposes, 6.4.2012 for specified purposes, 3.8.2012 for specified purposes, 6.4.2013 in so far as not already in force) by Localism Act 2011 (c. 20), s. 240(2)(5)(j), Sch. 12 para. 25 (with s. 144); S.I. 2012/628, art. 8(a) (with arts. 9, 12, 13, 16, 18-20) (as amended (3.8.2012) by S.I. 2012/2029, arts. 2, 4); S.I. 2012/2029, arts. 2, 3(a) (with art. 5) (as amended (6.4.2013) by S.I. 2013/797, art. 4); S.I. 2013/797, arts 1(2), 2
+[^F204]: S. 66(5) inserted (4.11.2024) by Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 136 (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F205]: S. 67(1) substituted for s. 67(1)-(7) (6.8.2004 for specified purposes, otherwise 28.9.2004) by Planning and Compulsory Purchase Act 2004 (c. 5), ss. 118(1), 121(1), Sch. 6 para. 23 (with s. 111); S.I. 2004/2097, art. 2; S.I. 2004/2202, art. 3(e)
+[^F206]: S. 67(2)-(7) repealed (28.9.2004) by Planning and Compulsory Purchase Act 2004 (c. 5), ss. 120, 121(1)-(3), Sch. 9 (with s. 111); S.I. 2004/2202. art. 3(f), Sch. 1 Pt. 2
+[^F207]: S. 67(8) substituted (2.1.1992) by Planning and Compensation Act 1991 (c. 34, SIF 123:1), s. 32, Sch. 7 para.59; S.I. 1991/2905, art.3, Sch. 1
+[^F208]: Words in s. 70(5)(b) omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 137(a) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F209]: Words in s. 70(6)(b) omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 137(b) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F210]: Words in s. 72(1) substituted (1.11.1993) by 1993 c. 28, s. 187(1), Sch. 21 para. 30(1); S.I. 1993/2134, art. 5(a).
+[^M16]: 1953 c.49.
+[^F211]: Words in s. 72(2) added (1.11.1993) by 1993 c. 28, s. 187(1), Sch. 21 para. 30(2); S.I. 1993/2134, art. 5(a).
+[^F212]: S. 72(3) inserted (1.4.1997) by 1996 c. 52, s. 118(7); S.I. 1997/618, art. 2(1) (subject to transitional provision in Sch. para. 3)
+[^F213]: S. 72(4) inserted (15.11.2011 for specified purposes, 6.4.2012 for specified purposes, 3.8.2012 for specified purposes, 6.4.2013 in so far as not already in force) by Localism Act 2011 (c. 20), ss., 240(5)(j), Sch. 12 para. 26 (with s. 144); S.I. 2012/628, art. 8(a) (with arts. 9, 12, 13, 16, 18-20) (as amended (3.8.2012) by S.I. 2012/2029, arts. 2, 4); S.I. 2012/2029, arts. 2, 3(a) (with art. 5) (as amended (6.4.2013) by S.I. 2013/797, art. 4); S.I. 2013/797, arts. 1(2), 2
+[^F214]: S. 73(1) substituted (6.8.2004 for specified purposes, otherwise 28.9.2004) by Planning and Compulsory Purchase Act 2004 (c. 5), ss. 118(1), 121(1), Sch. 6 para. 24 (with s. 111); S.I. 2004/2097, art. 2; S.I. 2004/2202, art. 3(e)
+[^F215]: S. 73(2) substituted (2.1.1992) by Planning and Compensation Act 1991 (c. 34, SIF 123:1), s. 32, Sch. 7 para.60; S.I. 1991/2905, art.3 Sch. 1
+[^F216]: S. 74(1) omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 138(a) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F217]: S. 74(1A) omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 138(a) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F218]: S. 74(2) omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 138(a) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F219]: S. 74(2A) inserted (1.10.2013) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 17 para. 12(3); S.I. 2013/2227, art. 2(m); for transitional provisions (2.10.2013) see The Town and Country Planning (Isles of Scilly) Order 2013 (S.I. 2013/2148), arts. 1(1), 5(4)(b)
+[^F220]: Words in s. 74(2A) omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 138(b) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F221]: S. 74(3) omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 138(c) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F222]: S. 74(4) omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 138(c) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^M17]: 1979 c.46.
+[^F223]: S. 75(6) omitted (W.) (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 139(a) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F224]: S. 75(10) omitted (W.) (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 139(b) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F225]: Words in s. 75(11) substituted (1.10.2013) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 17 para. 13(a); S.I. 2013/2227, art. 2(m); for transitional provisions (2.10.2013) see The Town and Country Planning (Isles of Scilly) Order 2013 (S.I. 2013/2148), arts. 1(1), 5(4)(b)
+[^F226]: Words in s. 75(11) omitted (W.) (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 139(c) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F227]: Words in s. 75(11) inserted (1.10.2013) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 17 para. 13(b); S.I. 2013/2227, art. 2(m); for transitional provisions (2.10.2013) see The Town and Country Planning (Isles of Scilly) Order 2013 (S.I. 2013/2148), arts. 1(1), 5(4)(b)
+[^F228]: Word in s. 76 heading omitted (21.5.2016) by virtue of Historic Environment (Wales) Act 2016 (anaw 4), ss. 30(5), 41(2)
+[^F229]: Words in s. 76(2) omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 140 (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F230]: Words in s. 77(1) omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 141(a) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F231]: S. 77(2) omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 141(b) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F232]: Words in s. 77(3) omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 141(c) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F233]: Words in s. 77(4) omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 141(d) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F234]: S. 77(6) omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 141(e) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F235]: S. 77(7)-(9) repealed (1.4.2006) by The Historic Buildings Council for Wales (Abolition) Order 2006 (S.I. 2006/63), art. 3(1)(b)
+[^F236]: Words in s. 79(1) omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 142(a) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F237]: S. 79(2) repealed (1.4.2006) by The Historic Buildings Council for Wales (Abolition) Order 2006 (S.I. 2006/63), art. 3(1)(b)
+[^F238]: S. 79(3)(aa) omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 142(b) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F239]: S. 79(3)(ca) inserted (23.11.1995) by 1995 c. 25, s. 78, Sch. 10 para. 33(3) (with ss. 7(6), 115, 117, Sch. 8 para. 7); S.I. 1995/2950, art. 2
+[^F240]: Words in s. 80(1)(b) omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 143(a) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F241]: S. 80(2) omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 143(b) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F242]: Words in s. 80(3) omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 143(c) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F243]: S. 80(4) repealed (1.4.2006) by The Historic Buildings Council for Wales (Abolition) Order 2006 (S.I. 2006/63), art. 3(1)(b)
+[^F244]: Words in s. 80(5) omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 143(d) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F245]: Words in s. 81 inserted (W.) (4.11.2024) by Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 144 (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F246]: Ss. 81A, 81B and cross-heading inserted (24.8.2005 for E. except so far as relates to the insertion of s. 81B, 6.4.2009 for E. for that excepted purpose, otherwise prosp.) by Planning and Compulsory Purchase Act 2004 (c. 5), ss. 43(3), 121(1) (with ss. 43(5), 111); S.I. 2005/2081, art 2(a)(iii); S.I. 2009/384, art. 2(c)
+[^F247]: Words in s. 81A(4)(b) inserted (6.4.2009 for E., otherwise prosp.) by Planning Act 2008 (c. 29), ss. 187, 241(8), Sch 7 para. 5 (with s. 226); S.I. 2009/400, art. 5(b)
+[^F248]: Words in s. 81B(1) inserted (6.4.2009 for E., otherwise prosp.) by Planning Act 2008 (c. 29), ss. 187, 241(8), Sch 7 para. 6(2) (with s. 226); S.I. 2009/400, art. 5(b)
+[^F249]: S. 81B(4A) inserted (6.4.2009 for E., otherwise prosp.) by Planning Act 2008 (c. 29), ss. 187, 241(8), Sch 7 para. 6(3) (with s. 226); S.I. 2009/400, art. 5(b)
+[^F250]: Word in s. 82(1) omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 145(a)(i) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F251]: Words in s. 82(1) omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 145(a)(ii) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F252]: Words in s. 82(1) substituted (2.1.1992) by Planning and Compensation Act 1991 (c. 34, SIF 123:1), s. 25, Sch. 3 Pt. II para. 24(a); S.I. 1991/2905, art.3
+[^F253]: “41(8)” inserted (*temp.*) by Planning (Consequential Provisions) Act 1990 (c. 11, SIF 123:1, 2), s. 6, Sch. 4 paras. 1, 10 (which temp. insertion ceases to have effect (2.1.1992 for specified purposes and 6.4.2009 for further specified purposes) by virtue of S.I. 1991/2698, art. 3 (with art. 4); S.I. 2009/849, art. 2 (with art. 3))
+[^F254]: Words in s. 82(3) omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 145(b)(i) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F255]: Words in s. 82(3) substituted (6.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 17 para. 14; S.I. 2014/416, art. 3(e)
+[^F256]: Words in s. 82(3) omitted (4.11.2024) by virtue of 2023 asc 3, Sch. 13 para. 145(b)(ii) (with Sch. 14 paras. 1-3) (as substituted by The Historic Environment (Wales) Act 2023 (Consequential Provision) (Primary Legislation) Regulations 2024 (S.I. 2024/1061), regs. 1(2), 12; S.I. 2024/860, art. 3(d))
+[^F257]: Words in s. 82(3) substituted (2.1.1992) by Planning and Compensation Act 1991 (c. 34, SIF 123:1), s. 25, Sch. 3 Pt. II para. 24(b); S. I. 1991/2905, art.3
+[^F258]: Word in s. 82(3) omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 145(b)(iii) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F259]: S. 82A inserted (6.8.2004 for specified purposes, otherwise 7.6.2006) by Planning and Compulsory Purchase Act 2004 (c. 5), ss. 79(2), 121(1) (with s. 111); S.I. 2004/2097, art. 2; S.I. 2006/1281, art. 2(a)
+[^F260]: S. 82A(2)(ca) inserted (6.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 17 para. 15; S.I. 2014/416, art. 3(e)
+[^F261]: S. 82A(2)(fza) inserted (25.4.2024) by Levelling-up and Regeneration Act 2023 (c. 55), ss. 103(9), 255(3)(b) (with s. 247); S.I. 2024/452, reg. 3(a)
+[^F262]: S. 82A(2)(fa) omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 146 (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F263]: S. 82B inserted (6.8.2004 for specified purposes, otherwise 7.6.2006) by Planning and Compulsory Purchase Act 2004 (c. 5), ss. 83(1), 121(1) (with s. 111); S.I. 2004/2097, art. 2; S.I. 2006/1281, art. 2(a)
+[^F264]: S. 82C inserted (6.8.2004 for specified purposes, otherwise 7.6.2006) by Planning and Compulsory Purchase Act 2004 (c. 5), ss. 79(4), 121(1), Sch. 3 para. 7 (with s. 111); S.I. 2004/2097, art. 2; S.I. 2006/1281, art. 2(c)
+[^F265]: Ss. 82D, 82E inserted (7.6.2006) by Planning and Compulsory Purchase Act 2004 (c. 5), ss. 84(3), 121(1) (with s. 111); S.I. 2006/1281, art. 2(a)
+[^F266]: S. 82F inserted (6.8.2004 for specified purposes, otherwise 7.6.2006) by Planning and Compulsory Purchase Act 2004 (c. 5), ss. 79(4), 121(1), Sch. 3 para. 11 (with s. 111); S.I. 2004/2097, art. 2; S.I. 2006/1281, art. 2(c)
+[^F267]: S. 83 repealed (7.6.2006) by Planning and Compulsory Purchase Act 2004 (c. 5), ss. 79(4), 120, 121(1), Sch. 3 para. 18(1), Sch. 9 (with s. 111); S.I. 2006/1281, art. 2(c)(f)(iii)
+[^F268]: S. 84 repealed (7.6.2006) by Planning and Compulsory Purchase Act 2004 (c. 5), ss. 79(4), 120, 121(1), Sch. 3 para. 18(1), Sch. 9 (with s. 111, Sch. 3 para. 18(2)); S.I. 2006/1281, art. 2(c)(f)(iii)
+[^F269]: S. 85 repealed (31.10.1994) by 1994 c. 21, ss. 67, 68(2)(e), Sch. 9 para. 40, Sch. 11 Pt. II (with ss. 40(7)); S.I. 1994/2553, art. 2
+[^M18]: 1981 c.67.
+[^F270]: Words in s. 86(1)(2) substituted (1.10.2006) by Church of England (Miscellaneous Provisions) Measure 2006 (No. 1), ss. 14, 16(2), Sch. 5 para. 27(a); Instrument 2006 No. 2 made by the Archbishops of Canterbury and York
+[^F271]: Words in s. 86(2) substituted (1.10.2006) by Church of England (Miscellaneous Provisions) Measure 2006 (No. 1), ss. 14, 16(2), Sch. 5 para. 27(b); Instrument 2006 No. 2 made by the Archbishops of Canterbury and York
+[^F272]: Words in s. 86(2)(a) omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 147(a) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F273]: Words in s. 86(2) substituted (1.10.2006) by Church of England (Miscellaneous Provisions) Measure 2006 (No. 1), ss. 14, 16(2), Sch. 5 para. 27(b); Instrument 2006 No. 2 made by the Archbishops of Canterbury and York
+[^F274]: Words in s. 86(2)(b) omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 147(b) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F275]: S. 86(3) omitted (W.) (4.11.2024) by virtue of 2023 asc 3, Sch. 13 para. 147A (as inserted by The Historic Environment (Wales) Act 2023 (Consequential Provision) (Primary Legislation) Regulations 2024 (S.I. 2024/1061), regs. 1(2), 13; S.I. 2024/860, art. 3(d))
+[^F276]: Words in s. 86(4) inserted (1.10.2006) by Church of England (Miscellaneous Provisions) Measure 2006 (No. 1), ss. 14, 16(2), Sch. 5 para. 27(d); Instrument 2006 No. 2 made by the Archbishops of Canterbury and York
+[^F277]: Words in s. 86(4) inserted (1.10.2006) by Church of England (Miscellaneous Provisions) Measure 2006 (No. 1), ss. 14, 16(2), Sch. 5 para. 27(d); Instrument 2006 No. 2 made by the Archbishops of Canterbury and York
+[^F278]: Words in s. 86(4) omitted (1.10.2006) by virtue of Church of England (Miscellaneous Provisions) Measure 2006 (No. 1), ss. 14, 16(2), Sch. 5 para. 27(d); Instrument 2006 No. 2 made by the Archbishops of Canterbury and York
+[^M19]: 1925 c.18.
+[^F279]: Words in s. 88(1) inserted (2.1.1992) by Planning and Compensation Act 1991 (c. 34, SIF 123:1), s. 25, Sch. 3 Pt. I para. 9(1)(a); S.I. 1991/2905, art.3
+[^F280]: Words in s. 88(2)(a) inserted (2.1.1992) by Planning and Compensation Act 1991 (c. 34, SIF 123:1), s. 25, Sch. 3 Pt. I para. 9(1)(b): S.I. 1991/2905, art.3
+[^F281]: Words in s. 88(2)(b) inserted (2.1.1992) by Planning and Compenstion Act 1991 (c. 34, SIF 123:1), s. 25, Sch. 3 Pt. I para. 9(1)(c); S.I. 1991/2905, art.3
+[^F282]: Words in s. 88(2)(c) inserted (2.1.1992) by Planning and Compensation Act 1991 (c. 34, SIF 123:1), s. 25, Sch. 3 Pt. I para. 9(1)(d); S.I. 1991/2905, art.3
+[^F283]: Word in s. 88(2)(c) inserted (6.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 17 para. 16; S.I. 2014/416, art. 3(e)
+[^F284]: Words in s. 88(2(d) substituted (2.1.1992) by Planning and Compensation Act 1991 (c. 34, SIF 123:1), s. 25, Sch. 3 Pt. I para. 9(1)(e); S.I. 1991/2905, art.3
+[^F285]: Words in s. 88(3)(a) inserted (2.1.1992) by Planning and Compensation Act 1991 (c. 34, SIF 123:1), s. 25, Sch. 3 Pt. I para. 9(1)(f); S.I. 1991/2905, art.3
+[^F286]: Words in s. 88(3)(b) and (c) inserted (2.1.1992) by Planning and Compensation Act 1991 (c. 34, SIF 123:1), s. 25, Sch. 3 Pt. I para. 9(1)(g); S.I. 1991/2905, art.3
+[^F287]: S. 88(3ZA) inserted (25.4.2024) by Levelling-up and Regeneration Act 2023 (c. 55), ss. 103(10)(a), 255(3)(b) (with s. 247); S.I. 2024/452, reg. 3(a)
+[^F288]: Words in s. 88(3ZA) omitted (W.) (4.11.2024) by virtue of 2023 asc 3, Sch. 13 para. 148(za) (as inserted by The Historic Environment (Wales) Act 2023 (Consequential Provision) (Primary Legislation) Regulations 2024 (S.I. 2024/1061), regs. 1(2), 14(a); S.I. 2024/860, art. 3(d))
+[^F289]: S. 88(3A) omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 148(a) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F290]: S. 88(4): "27" repealed (25.9.1991) by Planning and Compensation Act 1991 (c. 34, SIF 123:1), ss. 31(4), 84(6) and 84(4), Schs. 6 para. 46, 19 Pt. II; S.I. 1991/2067, art. 3
+[^F291]: Words in s. 88(4) substituted (4.11.2024) by 2023 asc 3, Sch. 13 para. 148(b) (with Sch. 14 paras. 1-3) (as substituted by The Historic Environment (Wales) Act 2023 (Consequential Provision) (Primary Legislation) Regulations 2024 (S.I. 2024/1061), regs. 1(2), 14(b); S.I. 2024/860, art. 3(d))
+[^F292]: S. 88(5) omitted (13.7.2016) by virtue of Housing and Planning Act 2016 (c. 22), s. 216(3), Sch. 14 para. 20; S.I. 2016/733, reg. 3(h) (with reg. 6)
+[^F293]: Words in s. 88(6) substituted (2.1.1992) by Planning and Compensation Act 1991 (c. 34, SIF 123:1), s. 25, Sch. 3 Pt. II para.25; S.I. 1991/2905, art.3
+[^F294]: Words in s. 88(6) repealed (2.1.1992) by Planning and Compensation Act 1991 (c. 34, SIF 123:1), ss. 25, 84(6) Schs. 3 Pt. II para. 25, 19 Pt.I; S.I. 1991/2905, art.3 Sch. 2
+[^F295]: For s. 88(7) there is substituted (2.1.1992) ss. 88A and 88B by Planning and Compensation Act 1991 (c. 34, SIF 123:1), s. 25, Sch. 3 Pt. I para. 9(2); S.I. 1991/2905, art.3
+[^F296]: Ss. 88A and 88B substituted (2.1.1992) for s. 88(7) by Planning and Compensation Act 1991 (c. 34, SIF 123:1), s. 25, Sch. 3 Pt. I para. 9(2); S.I. 1991/2905, art.3
+[^F297]: Ss. 88A and 88B substituted (2.1.1992) for s. 88(7) by Planning and Compensation Act 1991 (c. 34, SIF 123:1), s. 25, Sch. 3 Pt. I para. 9(2); S.I. 1991/2905, art.3
+[^F298]: S. 88B(1ZA) inserted (25.4.2024) by Levelling-up and Regeneration Act 2023 (c. 55), ss. 103(11), 255(3)(b) (with s. 247); S.I. 2024/452, reg. 3(a)
+[^F299]: S. 88B(1A) omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 149 (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F300]: S. 88C inserted (7.6.2006) by Planning and Compulsory Purchase Act 2004 (c. 5), ss. 79(4), 121(1), Sch. 3 para. 14 (with s. 111); S.I. 2006/1281, art. 2(c)
+[^F301]: S. 88D inserted (6.4.2009 for specified purposes, otherwise prosp.) by Planning Act 2008 (c. 29), ss. 196(2), 241(8) (with s. 226); S.I. 2009/400, art. 3(j)
+[^F302]: S. 88D heading substituted (11.11.2014) by The Town and Country Planning (Determination of Procedure) (Wales) Order 2014 (S.I. 2014/2773), arts. 1(2), 2(2)
+[^F303]: Word in s. 88D heading omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 150(a) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F304]: S. 88D inserted (6.4.2009 for E.W. for specified purposes, 25.4.2024 for specified purposes) by Planning Act 2008 (c. 29), ss. 196(2), 241(8) (with s. 226); S.I. 2009/400, art. 3(j) (with art. 6(2)); S.I. 2024/452, reg. 2(a)
+[^F305]: Words in s. 88D(2) substituted (22.7.2020) by Business and Planning Act 2020 (c. 16), ss. 20(2)(a), 25(3)(c)
+[^F306]: Word in s. 88D(2) omitted (22.7.2020) by virtue of Business and Planning Act 2020 (c. 16), ss. 20(2)(b), 25(3)(c)
+[^F307]: Words in s. 88D(7)(a) omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 150(b) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F308]: Words in s. 88D(7)(b) omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 150(b) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F309]: Words in s. 88D(7)(c) omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 150(b) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F310]: S. 88D(9)(a) omitted (26.12.2023) by virtue of Levelling-up and Regeneration Act 2023 (c. 55), ss. 130(5)(a), 255(3)(a) (with s. 247)
+[^F311]: S. 88E omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 151 (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F312]: Words in s. 89(1) substituted for E. (31.3.2003) by The Town and Country Planning (Electronic Communications) (England) Order 2003 (S.I. 2003/956), arts. 1(1), 8(2); and those same words substituted for W. (1.1.2005) by The Town and Country Planning (Electronic Communications) (Wales) (No. 1) Order 2004 (S.I. 2004/3156), art. 8(2) (with art. 14)
+[^F313]: Words in s. 89(1) omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 152(a)(i) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F314]: Words from “section 322” to “held)” omitted (*temp.*) by Planning (Consequential Provisions) Act 1990 (c. 11, SIF 123:1, 2), s. 6, Sch. 4 paras. 1, 11 (which temp. omission ceases to have effect (2.1.1992 for specified purposes and 6.4.2009 for further specified purposes) by virtue of S.I. 1991/2698, art. 3 (with art. 4); S.I. 2009/849, art. 2 (with art. 3))
+[^F315]: Word in s. 89(1) omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 152(a)(ii) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F316]: Words in s. 89(1) inserted (2.1.1992 subject to saving in S.I. 1991/2728, art. 4) by Planning and Compensation Act 1991 (c. 34, SIF 123:1), s. 30(2); S.I. 1991/2728, arts. 3, 4
+[^F317]: Words in s. 89(1) omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 152(a)(iii) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F318]: Word in s. 89(1) omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 152(a)(iv) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F319]: Words in s. 89(1) omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 152(a)(v) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F320]: Words in s. 89(1) inserted (25.4.2024) by Levelling-up and Regeneration Act 2023 (c. 55), ss. 124(5)(a), 255(3)(b) (with s. 247); S.I. 2024/452, reg. 3(i)
+[^F321]: Words in s. 89(1) omitted (4.11.2024) by virtue of 2023 asc 3, Sch. 13 para. 152(a)(vi) (with Sch. 14 paras. 1-3) (as inserted by The Historic Environment (Wales) Act 2023 (Consequential Provision) (Primary Legislation) Regulations 2024 (S.I. 2024/1061), regs. 1(2), 15; S.I. 2024/860, art. 3(d))
+[^F322]: S. 89(1): entry inserted (6.8.2004 for specified purposes, 10.8.2006 for remaining purposes for E., and 30.6.2007 for remaining purposes for W.) by Planning and Compulsory Purchase Act 2004 (c. 5), ss. 42(9), 121(1) (with s. 111); S.I. 2004/2097, art. 2; S.I. 2006/1061, art. 3(a); S.I. 2007/1369, art. 2(a)
+[^F323]: S. 89(1): entry inserted (7.6.2006) by Planning and Compulsory Purchase Act 2004 (c. 5), ss. 79(4), 121(1), Sch. 3 para. 19(2) (with s. 111); S.I. 2006/1281, art. 2(c)
+[^F324]: S. 89(1): entry inserted (7.6.2006) by Planning and Compulsory Purchase Act 2004 (c. 5), ss. 79(4), 121(1), Sch. 3 para. 19(3) (with s. 111); S.I. 2006/1281, art. 2(c)
+[^F325]: S. 89(1ZB) omitted (6.9.2015 for specified purposes, 5.5.2017 in so far as not already in force) by virtue of Planning (Wales) Act 2015 (anaw 4), s. 58(2)(b)(4)(b), Sch. 5 para. 21(3); S.I. 2017/546, art. 3(e)
+[^F326]: S. 89(1ZC) inserted (25.4.2024) by Levelling-up and Regeneration Act 2023 (c. 55), ss. 124(5)(b), 255(3)(b) (with s. 247); S.I. 2024/452, reg. 3(i)
+[^F327]: S. 89(1A) inserted for E. (31.3.2003) by The Town and Country Planning (Electronic Communications) (England) Order 2003 (S.I. 2003/956), art. 8(3); and that same sub-section inserted for W. (1.1.2005) by The Town and Country Planning (Electronic Communications) (Wales) (No. 1) Order 2004 (S.I. 2004/3156), art. 8(3) (with art. 14)
+[^F328]: Words in s. 89(1A) omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 152(b) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F329]: S. 89(3) inserted (25.9.1991) by Planning and Compensation Act 1991 (c. 34, SIF 123:1), s. 29(2); S.I. 1991/2067, art. 3
+[^F330]: Word in s. 90(2) substituted (25.9.1991) by Planning and Compensation Act 1991 (c. 34, SIF 123:1), s. 31(4) Sch. 6 para. 47(1); S.I. 1991/2067, art. 3
+[^F331]: Words in s. 90(5) inserted (4.11.2024) by 2023 asc 3, Sch. 13 para. 153(a) (with Sch. 14 paras. 1-3) (as substituted by The Historic Environment (Wales) Act 2023 (Consequential Provision) (Primary Legislation) Regulations 2024 (S.I. 2024/1061), regs. 1(2), 16; S.I. 2024/860, art. 3(d))
+[^F332]: “41(8)” inserted (*temp.*) by Planning (Consequential Provisions) Act 1990 (c. 11, SIF 123:1, 2), s. 6, Sch. 4 paras. 1, 10 (which temp. insertion ceases to have effect (2.1.1992 for specified purposes and 6.4.2009 for further specified purposes) by virtue of S.I. 1991/2698, art. 3 (with art. 4); S.I. 2009/849, art. 2 (with art. 3))
+[^F333]: Word in s. 90(6)(b) substituted (4.11.2024) by 2023 asc 3, Sch. 13 para. 153(b) (with Sch. 14 paras. 1-3) (as substituted by The Historic Environment (Wales) Act 2023 (Consequential Provision) (Primary Legislation) Regulations 2024 (S.I. 2024/1061), regs. 1(2), 16; S.I. 2024/860, art. 3(d))
+[^F334]: Words in s. 90(6)(b) repealed (2.1.1992) by Planning and Compensation Act 1991 (c. 34, SIF 123:1), ss. 25, 84(6) Schs. 3 Pt. II para. 26, 19 Pt.I; S.I. 1991/2905, art.3, sch. 2
+[^F335]: Words in s. 90(7)(a) substituted (4.11.2024) by 2023 asc 3, Sch. 13 para. 153(c) (with Sch. 14 paras. 1-3) (as substituted by The Historic Environment (Wales) Act 2023 (Consequential Provision) (Primary Legislation) Regulations 2024 (S.I. 2024/1061), regs. 1(2), 16; S.I. 2024/860, art. 3(d))
+[^F336]: S. 91(1): definition of "address" inserted for E. (31.3.2003) by The Town and Country Planning (Electronic Communications) (England) Order 2003 (S.I. 2003/956), arts. 1(1), 9(2); and that same definition inserted for W. (1.1.2005) by The Town and Country Planning (Electronic Communications) (Wales) (No. 1) Order 2004 (S.I. 2004/3156), art. 9(2) (with art. 14)
+[^F337]: Words in s. 91(1) substituted (4.11.2024) by Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 154(a)(i) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F338]: S. 91(1): definition of "electronic communication" inserted for E. (31.3.2003) by The Town and Country Planning (Electronic Communications) (England) Order 2003 (S.I. 2003/956), arts. 1(1), 9(2); and that same definition inserted for W. (1.1.2005) by The Town and Country Planning (Electronic Communications) (Wales) (No. 1) Order 2004 (S.I. 2004/3156), art. 9(2) (with art. 14)
+[^F339]: Words in s. 91(1) omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 154(a)(ii) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^M20]: 1990 c. 8.
+[^F340]: Words in s. 91(2) repealed (28.9.2004) by Planning and Compulsory Purchase Act 2004 (c. 5), ss. 120, 121(1), Sch. 9 (with s. 111); S.I. 2004/2202, art. 3(d)(f), Sch. 1 Pt. 2; (and see also Sch. 6 para. 25 of the repealing Act; S.I. 2005/2847, art. 2(e))
+[^F341]: Words in s. 91(2) repealed (25.9.1991) by Planning and Compensation Act 1991 (c. 34, SIF 123:1), ss. 31(4), 84(6),Schs. 6 Pt. II para. 48, 19 Pt. I; S.I. 1991/2067, art. 3
+[^F342]: Words in s. 91(2) inserted (13.7.2016) by Housing and Planning Act 2016 (c. 22), s. 216(3), Sch. 12 para. 43; S.I. 2016/733, reg. 3(d)
+[^F343]: Words in s. 91(2) omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 154(b) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F344]: Words in s. 91(3)(a) substituted (25.7.2003 for specified purposes and 29.12.2003 for further specified purposes) by Communications Act 2003 (c. 21), ss. 406(1), 411(2), Sch. 17 para. 106(3) (with Sch. 18); S.I. 2003/1900, art. 2(1), Sch. 1 (with arts. 3-6); S.I. 2003/3142, art. 3(2) (with art. 11)
+[^F345]: Words in s. 91(3)(b) substituted (26.3.2001) by S.I. 2001/1149, art. 3(1), Sch. 1 para. 84(3)
+[^F346]: Words in s. 91(3) inserted (1.4.2001) by 2000 c. 38, s. 37, Sch. 5 para. 8 (with s. 106); S.I. 2001/869, art. 2
+[^M21]: 1989 c. 29.
+[^F347]: Words in s. 91(3)(b) substituted (1.4.2013) by The Natural Resources Body for Wales (Functions) Order 2013 (No. 755), art. 1(2), Sch. 2 para. 205 (with Sch. 7)
+[^F348]: S. 91(3A)(3B) inserted (26.3.2001) by S.I. 2001/1149, art. 3(1), Sch. 1 para. 84(3)
+[^F349]: Words in s. 91(3B) substituted (1.10.2011) by Postal Services Act 2011 (c. 5), ss. 91(1), 93(3), Sch. 12 para. 133(a); S.I. 2011/2329, art. 3(1)
+[^F350]: Words in s. 91(3B) substituted (1.10.2011) by Postal Services Act 2011 (c. 5), ss. 91(1), 93(3), Sch. 12 para. 133(b); S.I. 2011/2329, art. 3(1)
+[^F351]: S. 91(5A) inserted for E. (31.3.2003) by The Town and Country Planning (Electronic Communications) (England) Order 2003 (S.I. 2003/956), arts. 1(1), 9(3); and that same subsection inserted for W. (1.1.2005) by The Town and Country Planning (Electronic Communications) (Wales) (No. 1) Order 2004 (S.I. 2004/3156), art. 9(3) (with art. 14)
+[^F352]: “41(8)” inserted (*temp.*) by Planning (Consequential Provisions) Act 1990 (c. 11, SIF 123:1, 2), s. 6, Sch. 4 paras. 1, 10 (which temp. insertion ceases to have effect (2.1.1992 for specified purposes and 6.4.2009 for further specified purposes) by virtue of S.I. 1991/2698, art. 3 (with art. 4); S.I. 2009/849, art. 2 (with art. 3))
+[^F353]: Words in s. 92(2)(a) repealed (7.6.2006) by Planning and Compulsory Purchase Act 2004 (c. 5), ss. 120, 121(1), Sch. 9 (with s. 111); S.I. 2006/1281, art. 2(f)(iv)
+[^F354]: Word in s. 92(2)(b) substituted (4.11.2024) by 2023 asc 3, Sch. 13 para. 154A (with Sch. 14 paras. 1-3) (as inserted by The Historic Environment (Wales) Act 2023 (Consequential Provision) (Primary Legislation) Regulations 2024 (S.I. 2024/1061), regs. 1(2), 17; S.I. 2024/860, art. 3(d))
+[^F355]: Words in s. 92(2)(b) repealed (2.1.1992) by Planning and Compensation Act 1991 (c. 34, SIF 123:1), ss. 25, 84(6), 84(2), Schs. 3 Pt. II para. 27, 19 Pt. I; S.I. 1991/2905, art. 3, Sch. 2
+[^F356]: Word in s. 92(2)(b) inserted (W.) (6.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 17 para. 17; S.I. 2014/416, art. 3(e)
+[^F357]: Words in s. 93(1) omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 155(a) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F358]: S. 93(1)(a) amended (23.11.1995) by 1995 c. 25, s. 78, Sch. 10 para. 33(4) (with ss. 7(6), 115, 117, Sch. 8 para. 7); S.I. 1995/2950, art. 2
+[^F359]: Words in s. 93(3) omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 155(b)(i) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F360]: Words in s. 93(3) omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 155(b)(ii) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F361]: S. 93(3A) omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 155(c) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F362]: Word in s. 93(4) inserted (6.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 17 para. 18(2); S.I. 2014/416, art. 3(e)
+[^F363]: Word in s. 93(4) omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 155(d)(i) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F364]: Word in s. 93(4) omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 155(d)(ii) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F365]: Word in s. 93(5) omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 155(e)(i) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F366]: Words in s. 93(5) omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 155(e)(ii) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F367]: S. 93(6) substituted (26.12.2023) by Levelling-up and Regeneration Act 2023 (c. 55), ss. 130(4), 255(3)(a) (with s. 247)
+[^F368]: S. 93(6A)(6B) inserted (6.8.2004 for specified purposes, otherwise 28.9.2004) by Planning and Compulsory Purchase Act 2004 (c. 5), ss. 118(1), 121(1), Sch. 6 para. 26 (with s. 111); S.I. 2004/2097, art. 2; S.I. 2004/2202, art. 3(e)
+[^M22]: 1978 c. 30.
+[^M23]: 1990 c. 11.
+[^F369]: Words in Sch. 1 para. 2(3) omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 156(a) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F370]: Sch. 1 para. 2(4) omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 156(b) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F371]: Sch. 1A omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 157 (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F372]: Sch. 1B omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 157 (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F373]: Word in Sch. 2 para. 1 inserted (4.11.2024) by Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 158(a)(i) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F374]: Sch. 2 para. 1(c) omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 158(a)(ii) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F375]: Sch. 2 para. 1(d) omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 158(a)(ii) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F376]: Words in Sch. 2 para. 2 substituted (21.5.2016) by Historic Environment (Wales) Act 2016 (anaw 4), ss. 29(7)(a), 41(2)
+[^F377]: Words in Sch. 2 para. 2 substituted (4.11.2024) by 2023 asc 3, Sch. 13 para. 158(b) (with Sch. 14 paras. 1-3) (as substituted by The Historic Environment (Wales) Act 2023 (Consequential Provision) (Primary Legislation) Regulations 2024 (S.I. 2024/1061), regs. 1(2), 19; S.I. 2024/860, art. 3(d))
+[^F378]: Sch. 2 para. 4(4) inserted (23.11.1995) by 1995 c. 25, s. 78, Sch. 10 para. 33(5) (with ss. 7(6), 115, 117, Sch. 8 para. 7); S.I. 1995/2950, art. 2
+[^F379]: Sch. 2 para. 4A inserted (25.4.2024) by Levelling-up and Regeneration Act 2023 (c. 55), ss. 103(12)(b), 255(3)(b) (with s. 247); S.I. 2024/452, reg. 3(a)
+[^F380]: Sch. 2 para. 5 omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 158(c) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F381]: Sch. 2A inserted (25.4.2013 for specified purposes, 6.4.2014 in so far as not already in force) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(1)(i)(3), Sch. 16; S.I. 2014/416, art. 3(d)
+[^F382]: Word in Sch. 3 para. 1(1) inserted (6.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 17 para. 19(2); S.I. 2014/416, art. 3(e)
+[^F383]: Sch. 3 para. 2(1)(aa) inserted (6.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 17 para. 19(3); S.I. 2014/416, art. 3(e)
+[^F384]: Word in Sch. 3 para. 2(1)(b) inserted (2.1.1992) by Planning and Compensation Act 1991 (c. 34, SIF 123:1), s. 25, Sch. 3 Pt. II para.28; S.I. 1991/2905, art.3
+[^F385]: Sch. 3 para. 2(4B) omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 159(a)(i) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F386]: Word in Sch. 3 para. 2(8)(a) inserted (6.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 17 para. 19(2); S.I. 2014/416, art. 3(e)
+[^F387]: Sch. 3 para. 2(10) omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 159(a)(ii) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F388]: Word in Sch. 3 para. 3(3) inserted (6.4.2014) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 17 para. 19(2); S.I. 2014/416, art. 3(e)
+[^F389]: Sch. 3 para. 3(4C) omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 159(b)(i) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F390]: Sch. 3 para. 3(4D) omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 159(b)(i) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F391]: Words in Sch. 3 para. 3(5) omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 159(b)(ii) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F392]: Sch. 3 para. 6(1B) omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 159(c)(i) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F393]: Words in Sch. 3 para. 6(2)(a) omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 159(c)(ii) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^M24]: 1972 c.70.
+[^F394]: Words in Sch. 3 para. 6(4) omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 159(c)(iii) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F395]: Sch. 3 para. 6(4A) omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 159(c)(iv) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F396]: Words in Sch. 3 para. 6(5) substituted (4.11.2024) by Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 159(c)(v) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F397]: Sch. 3 para. 6(8) omitted (*temp.*) by Planning (Consequential Provisions) Act 1990 (c. 11, SIF 123:1, 2), s. 6, Sch. 4 paras. 1, 12 (which temp. omission ceases to have effect (2.1.1992 for specified purposes and 6.4.2009 for further specified purposes) by virtue of S.I. 1991/2698, art. 3 (with art. 4); S.I. 2009/849, art. 2 (with art. 3))
+[^M25]: 1972 c. 70.
+[^F398]: Words in Sch. 3 para. 6(8) omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 159(c)(vi) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F399]: Sch 3 para. 6A inserted (6.8.2004 for specified purposes, otherwise 7.6.2006) by Planning and Compulsory Purchase Act 2004, ss. 80(3), 121(1) (with s. 111); S.I. 2004/2097, art. 2; S.I. 2006/1281, art. 2(a)
+[^M26]: 1971 c.62.
+[^F400]: Words in Sch. 3 para. 7(1) substituted (1.10.1992) by Tribunals and Inquiries Act 1992 (c. 53, SIF 123:1), ss. 18(1), 19(2), Sch. 3 para. 32(a)(b)
+[^F401]: Words in Sch. 3 para. 7(2) substituted (30.10.2024) by The Transfer of Functions (Secretary of State for Housing, Communities and Local Government) Order 2024 (S.I. 2024/991), art. 1(2), Sch. para. 4 (with art. 7)
+[^F402]: Words in Sch. 3 para. 7(2) omitted (21.5.2016) by virtue of Historic Environment (Wales) Act 2016 (anaw 4), ss. 33(1)(a), 41(2)
+[^M27]: 1967 c.13.
+[^F403]: Sch. 3 para. 7(2)(b) and word omitted (21.5.2016) by virtue of Historic Environment (Wales) Act 2016 (anaw 4), ss. 33(1)(b), 41(2)
+[^F404]: Sch. 3 para. 7(3) omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 159(d) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F405]: Sch. 3 para. 8 and cross-heading omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 159(e) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F406]: Word in Sch. 4 para. 1(1) omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 160(a)(i) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F407]: Sch. 4 para. 1(2) omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 160(a)(ii) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F408]: Word in Sch. 4 para. 2 repealed (1.4.1997) by 1995 c. 25, s. 120(3), Sch. 24 (with ss. 7(6), 115, 117); S.I. 1996/2560, art. 2, Sch.
+[^F409]: Word in Sch. 4 para. 2 inserted (1.4.1997) by 1995 c. 25, s. 78, Sch. 10 para. 33(6) (with ss. 7(6), 115, 117, Sch. 8 para. 7); S.I. 1996/2560, art. 2, Sch.
+[^F410]: Words in Sch. 4 para. 2 inserted (14.4.2026) by Levelling-up and Regeneration Act 2023 (c. 55), s. 255(7), Sch. 17 para. 3(a)(i) (with s. 247); S.I. 2026/168, reg. 2(g)
+[^F411]: Words in Sch. 4 paras. 2 and 4 substituted (1.10.1993) by 1993 c. 28, s. 187(1), Sch. 21 para. 31; S.I. 1993/2762, art. 3.
+[^F412]: Words in Sch. 4 para. 2 substituted (1.12.2008) by Housing and Regeneration Act 2008 (c. 17), ss. 56, 325(1), Sch. 8 para. 53; S.I. 2008/3068, art. 2(1)(w) (with arts. 6-18)
+[^F413]: Words in Sch. 4 para. 2 inserted (14.4.2026) by Levelling-up and Regeneration Act 2023 (c. 55), s. 255(7), Sch. 17 para. 3(a)(ii) (with s. 247); S.I. 2026/168, reg. 2(g)
+[^F414]: Sch. 4 para. 3 substituted (2.1.1991) by Planning and Compensation Act 1991 (c. 34, SIF 123:1), s. 32, Sch. 7 para. 61; S.I. 1991/2905, art. 3 Sch. 1
+[^F415]: Words in Sch. 4 para. 3 inserted (1.4.1997) by 1995 c. 25, s. 78, Sch. 10 para. 33(7)(a) (with ss. 7(6), 115, 117, Sch. 8 para. 7); S.I. 1996/2560, art. 2 Sch.
+[^F416]: Words in Sch. 4 para. 3(a) inserted (1.4.1997) by 1995 c. 25, s. 78, Sch. 10 para. 33(7)(b) (with ss. 7(6), 115, 117, Sch. 8 para. 7); S.I. 1996/2560, art. 2 Sch
+[^F417]: Words in Sch. 4 para. 3 repealed (1.4.1997) by 1995 c. 25, s. 120(3), Sch. 24 (with ss. 7(6), 115, 117); S.I. 1996/2560, art. 2 Sch.
+[^F418]: Words in Sch. 4 para. 3(b) substituted (1.4.1997) by 1995 c. 25, s. 78, Sch. 10 para. 33(7)(c) (with ss. 7(6), 115, 117, Sch. 8 para. 7); S.I. 1996/2560, art. 2 Sch.
+[^F419]: Words in Sch. 4 para. 4(1) repealed (1.4.1997) by 1995 c. 25, s. 120(3), Sch. 24 (with ss. 7(6), 115, 117); S.I. 1996/2560, art. 2 Sch.
+[^F420]: Words in Sch. 4 para. 4(1) inserted (14.4.2026) by Levelling-up and Regeneration Act 2023 (c. 55), s. 255(7), Sch. 17 para. 3(b) (with s. 247); S.I. 2026/168, reg. 2(g)
+[^F421]: Words in Sch. 4 para. 4 substituted (10.11.1993) by 1993 c. 28, s. 187(1), Sch. 21 para. 31; S.I. 1993/2762, art. 3.
+[^F422]: Words in Sch. 4 para. 4(1)(a) inserted (1.4.1997) by 1995 c. 25, s. 78, Sch. 10 para. 33(8)(a)(i) (with ss. 7(6), 115, 117, Sch. 8 para. 7); S.I. 1996/2560, art. 2 Sch.
+[^F423]: Words in Sch. 4 para. 4(1)(b) substituted (1.4.1997) by 1995 c. 25, s. 78, Sch. 10 para. 33(8)(a)(ii) (with ss. 7(6), 115, 117, Sch. 8 para. 7); S.I. 1996/2560, art. 2 Sch.
+[^F424]: Words in Sch. 4 para. 4(2) inserted (1.4.1997) by 1995 c. 25, s. 78, Sch. 10 para. 33(8)(b) (with ss. 7(6), 115, 117, Sch. 8 para. 7); S.I. 1996/2560, art. 2 Sch.
+[^F425]: Words in Sch. 4 para. 5(b) substituted (2.1.1992) by Planning and Compensation Act 1991 (c. 34, SIF 123:1), s. 25, Sch. 3 Pt. II para.29; S.I. 1991/2905, art.3
+[^F426]: Word in Sch. 4 para. 7(1) omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 160(b)(i) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F427]: Word in Sch. 4 para. 7(1) omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 160(b)(ii) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^M28]: 1972 c. 70.

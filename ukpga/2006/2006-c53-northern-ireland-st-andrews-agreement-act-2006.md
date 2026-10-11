@@ -1,0 +1,1439 @@
+---
+title: "Northern Ireland (St Andrews Agreement) Act 2006"
+identifier: "ukpga/2006/53"
+citation: "2006 c. 53"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S+N.I."
+date: 2006-11-22
+last_amended: 2012-04-01
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/2006/53"
+source_modified: 2026-07-08
+retrieved: 2026-10-11
+---
+
+# Northern Ireland (St Andrews Agreement) Act 2006
+
+**2006 c. 53**
+
+An Act to make provision for preparations for the restoration of devolved government in Northern Ireland in accordance with the St Andrews Agreement; to make provision as to the consequences of compliance, or non-compliance, with the St Andrews Agreement timetable; to amend the Northern Ireland Act 1998; to make provision about district policing partnerships; to amend the Education (Northern Ireland) Orders 1997 and 2006; and for connected purposes.
+
+[22nd November 2006]
+
+Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## Part 1 — Preparations for restoration of devolved government
+
+### 1 Preparations for restoration of devolved government
+
+[^F1]1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F1]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) Nothing in this Act affects the operation of section 1 of the 2000 Act (suspension of devolved government).
+
+(4) But subsection (3) is subject to—
+
+(a) paragraph 3 of Schedule 1,
+
+(b) paragraphs 2 and 4 of Schedule 2, and
+
+(c) paragraphs 1 and 2 of Schedule 4.
+
+### 2 Compliance or non-compliance with St Andrews Agreement timetable
+
+(1) If at any time before 25 March 2007 the Secretary of State considers that (were Schedule 2 to come into force) there would be no reasonable prospect that each of the Ministerial offices would be filled in accordance with paragraph 2 of that Schedule, he may make an order bringing Schedule 3 into force on the day following the day on which the order is made.
+
+(2) If the Secretary of State does not make an order under subsection (1) before 25 March 2007—
+
+(a) he must on that date make a restoration order providing for section 1 of the 2000 Act to cease to have effect on 26 March 2007, and
+
+(b) Schedule 2 shall come into force on 26 March 2007.
+
+(3) Subsection (4) applies if—
+
+(a) the Secretary of State makes a restoration order by virtue of subsection (2), but
+
+(b) it appears to him that one or more of the Ministerial offices has not been filled in accordance with paragraph 2 of Schedule 2 by the end of 26 March 2007.
+
+(4) Where this subsection applies—
+
+(a) the Secretary of State must on 27 March 2007 make an order under the 2000 Act revoking the restoration order,
+
+(b) that order must state that it is made by virtue of subsection (3) and must come into force on 28 March 2007, and
+
+(c) Schedule 3 shall come into force on 28 March 2007.
+
+(5) If the Secretary of State—
+
+(a) makes a restoration order by virtue of subsection (2), and
+
+(b) does not make an order by virtue of subsection (3) revoking the restoration order,
+
+Schedule 4 shall come into force on 28 March 2007.
+
+(6) An order under subsection (1) must be made by statutory instrument.
+
+(7) Section 7(4) to (7) of the 2000 Act (affirmative resolution etc procedure) does not apply in relation to an order made by virtue of subsection (2) or (3).
+
+(8) In this section “the Ministerial offices” means—
+
+(a) the offices of First Minister and deputy First Minister, and
+
+(b) the Ministerial offices to be held by Northern Ireland Ministers.
+
+### 3 Next Northern Ireland Assembly election to be in March 2007 etc
+
+(1) In section 31 of the 1998 Act (Northern Ireland Assembly: dates of elections and dissolutions), for subsection (2) substitute—
+
+> (2) The date of the poll for the election of the Assembly next following the Assembly elected at the poll on 26 November 2003 shall be 7 March 2007; and the Assembly elected on 26 November 2003 shall be dissolved on 30 January 2007.
+
+(2) Subsection (3) applies in respect of any vacancy in the membership of the Northern Ireland Assembly which exists at any time between the passing of this Act and the date of the next election of the Assembly (whether the vacancy occurred before or after the passing of this Act).
+
+(3) Article 7 of the Northern Ireland Assembly (Elections) Order 2001 (S.I. 2001/2599) does not apply in the case of such a vacancy.
+
+### 4 Remuneration of members of the Northern Ireland Assembly
+
+(1) Subsection (2) has effect in relation to—
+
+(a) the dissolution of the Northern Ireland Assembly on 30 January 2007, and
+
+(b) the Assembly election the poll for which is to be held on 7 March 2007 (“the next Assembly election”).
+
+(2) Section 47 of the 1998 Act (remuneration of members) is to have effect as if, for subsection (10) of that section, there were substituted—
+
+> (10) For the purposes of this section, a person who is a member of the Assembly immediately before the Assembly is dissolved shall be treated—
+>
+> (a) as if he were a member of the Assembly until the end of the day which is the latest day for the delivery of nomination papers for the next Assembly election; and
+>
+> (b) if he is nominated as a candidate at the next Assembly election, as if he were a member of the Assembly until the end of the day of the poll for that election.
+
+(3) Subsection (4) has effect in relation to persons returned as members of the Northern Ireland Assembly at the next Assembly election.
+
+(4) Section 47 of the 1998 Act is to have effect as if, for subsection (9)(a) of that section, there were substituted—
+
+> (a) a person's membership of the Assembly begins on the day on which he takes his seat (following the next Assembly election) in the Assembly established under section 1(1) of the Northern Ireland (St Andrews Agreement) Act 2006 in accordance with standing orders of that Assembly; and
+
+.
+
+## Part 2 — Amendments of the Northern Ireland Act 1998 etc
+
+### Ministerial conduct
+
+#### 5 The Executive Committee and the Ministerial Code
+
+(1) In section 20 of the 1998 Act (Executive Committee), after subsection (3) insert—
+
+> (4) The Committee shall also have the function of discussing and agreeing upon—
+>
+> (a) significant or controversial matters that are clearly outside the scope of the agreed programme referred to in paragraph 20 of Strand One of that Agreement;
+>
+> (b) significant or controversial matters that the First Minister and deputy First Minister acting jointly have determined to be matters that should be considered by the Executive Committee.
+
+(2) After section 28 of the 1998 Act insert—
+
+> **Ministerial Code**
+>
+> **28A Ministerial Code**
+>
+> (1) Without prejudice to the operation of section 24, a Minister or junior Minister shall act in accordance with the provisions of the Ministerial Code.
+>
+> (2) In this section “the Ministerial Code” means—
+>
+> (a) the Ministerial Code that becomes the Ministerial Code for the purposes of this section by virtue of paragraph 4 of Schedule 1 to the Northern Ireland (St Andrews Agreement) Act 2006 (as from time to time amended in accordance with this section); or
+>
+> (b) any replacement Ministerial Code prepared and approved in accordance with this section (as from time to time amended in accordance with this section).
+>
+> (3) If at any time the Executive Committee—
+>
+> (a) prepares draft amendments to the Ministerial Code; or
+>
+> (b) prepares a draft Ministerial Code to replace the Ministerial Code,
+>
+> the First Minister and deputy First Minister acting jointly shall lay the draft amendments or the draft Code before the Assembly for approval.
+>
+> (4) A draft Ministerial Code or a draft amendment to the Code—
+>
+> (a) shall not be approved by the Assembly without cross-community support; and
+>
+> (b) shall not take effect until so approved.
+>
+> (5) The Ministerial Code must include provision for requiring Ministers or junior Ministers to bring to the attention of the Executive Committee any matter that ought, by virtue of section 20(3) or (4), to be considered by the Committee.
+>
+> (6) The Ministerial Code must include provision for a procedure to enable any Minister or junior Minister to ask the Executive Committee to determine whether any decision that he is proposing to take, or has taken, relates to a matter that ought, by virtue of section 20(3) or (4), to be considered by the Committee.
+>
+> (7) The Ministerial Code must also include provision as to the procedures of the Executive Committee with respect to—
+>
+> (a) the taking of decisions; and
+>
+> (b) consideration by the Committee of decision papers that are to be considered by the North-South Ministerial Council or the British-Irish Council.
+>
+> (8) The Ministerial Code must in particular provide—
+>
+> (a) that it is the duty of the chairmen of the Executive Committee to seek to secure that decisions of the Executive Committee are reached by consensus wherever possible;
+>
+> (b) that, if consensus cannot be reached, a vote may be taken; and
+>
+> (c) that, if any three members of the Executive Committee require the vote on a particular matter which is to be voted on by the Executive Committee to require cross-community support, any vote on that matter in the Executive Committee shall require cross-community support in the Executive Committee.
+>
+> (9) The Ministerial Code may include such other provisions as the Executive Committee thinks fit.
+>
+> (10) Without prejudice to the operation of section 24, a Minister or junior Minister has no Ministerial authority to take any decision in contravention of a provision of the Ministerial Code made under subsection (5).
+
+#### 6 Power to refer Ministerial decision to Executive Committee
+
+After section 28A of the 1998 Act insert—
+
+> **Power to refer Ministerial decision to Executive Committee**
+>
+> **28B Power to refer Ministerial decision to Executive Committee**
+>
+> (1) This section applies if 30 members petition the Assembly expressing concern that a decision taken by a Minister or junior Minister (“the Ministerial decision”)—
+>
+> (a) may have been taken in contravention of section 28A(1); or
+>
+> (b) relates to a matter of public importance.
+>
+> (2) But this section does not apply if the Ministerial decision has previously been the subject of a reference under this section.
+>
+> (3) If the Presiding Officer, after consulting the political parties whose members hold seats in the Assembly, certifies that the Ministerial decision relates to a matter of public importance, he shall refer the decision to the Executive Committee for its consideration.
+>
+> (4) Having considered the reference, the Executive Committee shall notify the Presiding Officer—
+>
+> (a) whether or not the decision was, in its view, taken in contravention of section 28A(1);
+>
+> (b) whether or not the decision relates, in its view, to a significant or controversial matter; and
+>
+> (c) as to any action that the Executive Committee proposes to take, or has taken, in relation to the decision.
+>
+> (5) No reference may be made under this section after the end of the period of seven days beginning with—
+>
+> (a) the day on which the Ministerial decision was taken; or
+>
+> (b) if appropriate, the day on which the decision was notified to the Assembly.
+>
+> (6) Any consideration by the Executive Committee of a Ministerial decision under this section must be completed before the end of the period of seven days beginning with the day on which the reference is made.
+>
+> (7) Standing orders shall make provision with respect to the procedure to be followed—
+>
+> (a) in petitioning the Assembly under subsection (1); and
+>
+> (b) in making a reference under this section.
+>
+> (8) The periods mentioned in subsections (5) and (6) shall be computed by reference only to days on which the Assembly sits.
+
+#### 7 Pledge of office
+
+(1) In the pledge of office set out in Schedule 4 to the 1998 Act, after paragraph (c) insert—
+
+> (ca) to promote the interests of the whole community represented in the Northern Ireland Assembly towards the goal of a shared future;
+>
+> (cb) to participate fully in the Executive Committee, the North-South Ministerial Council and the British-Irish Council;
+>
+> (cc) to observe the joint nature of the offices of First Minister and deputy First Minister;
+>
+> (cd) to uphold the rule of law based as it is on the fundamental principles of fairness, impartiality and democratic accountability, including support for policing and the courts as set out in paragraph 6 of the St Andrews Agreement;
+
+.
+
+(2) At the end of the pledge of office set out in that Schedule insert—
+
+> Paragraph 6 of the St Andrews Agreement says:
+>
+> > We believe that the essential elements of support for law and order include endorsing fully the Police Service of Northern Ireland and the criminal justice system, actively encouraging everyone in the community to co-operate fully with the PSNI in tackling crime in all areas and actively supporting all the policing and criminal justice institutions, including the Policing Board.
+
+### Ministerial appointments
+
+#### 8 First Minister, deputy First Minister and Northern Ireland Ministers
+
+(1) For section 16 of the 1998 Act (First Minister and deputy First Minister) substitute—
+
+> **16A Appointment of First Minister, deputy First Minister and Northern Ireland Ministers following Assembly election**
+>
+> (1) This section applies where an Assembly is elected under section 31 or 32.
+>
+> (2) All Northern Ireland Ministers shall cease to hold office.
+>
+> (3) Within a period of seven days beginning with the first meeting of the Assembly—
+>
+> (a) the offices of First Minister and deputy First Minister shall be filled by applying subsections (4) to (7); and
+>
+> (b) the Ministerial offices to be held by Northern Ireland Ministers shall be filled by applying section 18(2) to (6).
+>
+> (4) The nominating officer of the largest political party of the largest political designation shall nominate a member of the Assembly to be the First Minister.
+>
+> (5) The nominating officer of the largest political party of the second largest political designation shall nominate a member of the Assembly to be the deputy First Minister.
+>
+> (6) If the persons nominated do not take up office within a period specified in standing orders, further nominations shall be made under subsections (4) and (5).
+>
+> (7) Subsections (4) to (6) shall be applied as many times as may be necessary to secure that the offices of First Minister and deputy First Minister are filled.
+>
+> (8) But no person may take up office as First Minister, deputy First Minister or Northern Ireland Minister by virtue of this section after the end of the period mentioned in subsection (3) (see further section 32(3)).
+>
+> (9) The persons nominated under subsections (4) and (5) shall not take up office until each of them has affirmed the terms of the pledge of office.
+>
+> (10) Subject to the provisions of this Part, the First Minister and the deputy First Minister shall hold office until immediately before those offices are next filled by virtue of this section.
+>
+> (11) The holder of the office of First Minister or deputy First Minister may by notice in writing to the Presiding Officer designate a Northern Ireland Minister to exercise the functions of that office—
+>
+> (a) during any absence or incapacity of the holder; or
+>
+> (b) during any vacancy in that office arising otherwise than under section 16B(2),
+>
+> but a person shall not have power to act by virtue of paragraph (a) for a continuous period exceeding six weeks.
+>
+> (12) This section shall be construed in accordance with, and is subject to, section 16C.
+>
+> **16B Vacancies in the office of First Minister or deputy First Minister**
+>
+> (1) The First Minister or the deputy First Minister—
+>
+> (a) may at any time resign by notice in writing to the Presiding Officer; and
+>
+> (b) shall cease to hold office if he ceases to be a member of the Assembly otherwise than by virtue of a dissolution.
+>
+> (2) If either the First Minister or the deputy First Minister ceases to hold office at any time, whether by resignation or otherwise, the other—
+>
+> (a) shall also cease to hold office at that time; but
+>
+> (b) may continue to exercise the functions of his office until immediately before those offices are filled in accordance with this section.
+>
+> (3) Where the offices of the First Minister and the deputy First Minister become vacant at any time, they shall be filled by applying subsections (4) to (7) within a period of seven days beginning with that time.
+>
+> (4) The nominating officer of the largest political party of the largest political designation shall nominate a member of the Assembly to be the First Minister.
+>
+> (5) The nominating officer of the largest political party of the second largest political designation shall nominate a member of the Assembly to be the deputy First Minister.
+>
+> (6) If the persons nominated do not take up office within a period specified in standing orders, further nominations shall be made under subsections (4) and (5).
+>
+> (7) Subsections (4) to (6) shall be applied as many times as may be necessary to secure that the offices of First Minister and deputy First Minister are filled.
+>
+> (8) But no person may take up office as First Minister or deputy First Minister under this section after the end of the period mentioned in subsection (3) (see further section 32(3)).
+>
+> (9) The persons nominated under subsections (4) and (5) shall not take up office until each of them has affirmed the terms of the pledge of office.
+>
+> (10) This section shall be construed in accordance with, and is subject to, section 16C.
+>
+> **16C Sections 16A and 16B: supplementary**
+>
+> (1) In sections 16A and 16B and this section “nominating officer”, in relation to a party, means—
+>
+> (a) the person registered under Part 2 of the Political Parties, Elections and Referendums Act 2000 as the party's nominating officer; or
+>
+> (b) a member of the Assembly nominated by him for the purposes of this section.
+>
+> (2) For the purposes of sections 16A and 16B and this section—
+>
+> (a) the size of a political party is to be determined by reference to the number of seats in the Assembly which were held by members of the party on the day on which the Assembly first met following its election; but
+>
+> (b) if two or more parties are taken by virtue of paragraph (a) to be of the same size, the respective sizes of those parties is to be determined by reference to the number of first preference votes cast for the parties at the last general election of members of the Assembly;
+>
+> (this is subject to subsections (7) and (8)).
+>
+> (3) For the purposes of sections 16A and 16B and this section, a political party to which one or more members of the Assembly belong is to be taken—
+>
+> (a) to be of the political designation “Nationalist” if, at the relevant time (see subsection (11)), more than half of the members of the Assembly who belonged to the party were designated Nationalists;
+>
+> (b) to be of the political designation “Unionist” if, at the relevant time, more than half of the members of the Assembly who belonged to the party were designated Unionists;
+>
+> (c) otherwise, to be of the political designation “Other”.
+>
+> (4) For the purposes of sections 16A and 16B and this section—
+>
+> (a) the size of the political designation “Nationalist” is to be taken to be equal to the number of members of the Assembly who, at the relevant time, were designated Nationalists;
+>
+> (b) the size of the political designation “Unionist” is to be taken to be equal to the number of members of the Assembly who, at the relevant time, were designated Unionists;
+>
+> (c) the size of the political designation “Other” is to be taken to be equal to the number of members of the Assembly who, at the relevant time, were neither designated Nationalists nor designated Unionists.
+>
+> (5) But if two or more political designations are taken by virtue of subsection (4) to be of the same size, the respective sizes of those designations is to be determined by reference to the aggregate number of first preference votes cast, at the last general election of members of the Assembly, for members of the Assembly who, at the relevant time, were—
+>
+> (a) designated Nationalists (in the case of the political designation “Nationalist”);
+>
+> (b) designated Unionists (in the case of the political designation “Unionist”); or
+>
+> (c) neither designated Nationalists nor designated Unionists (in the case of the political designation “Other”).
+>
+> (6) If at any time the party which is the largest political party of the largest political designation is not the largest political party—
+>
+> (a) any nomination to be made at that time under section 16A(4) or 16B(4) shall instead be made by the nominating officer of the largest political party; and
+>
+> (b) any nomination to be made at that time under section 16A(5) or 16B(5) shall instead be made by the nominating officer of the largest political party of the largest political designation.
+>
+> (7) Where—
+>
+> (a) the Assembly has resolved under section 30(2) that a political party does not enjoy its confidence; and
+>
+> (b) the party's period of exclusion (see subsection (12)) under that provision has not come to an end,
+>
+> subsection (2)(a) above shall have effect as if the number of seats in the Assembly which were held by members of the party on the day on which the Assembly first met following its election was nil.
+>
+> (8) Where—
+>
+> (a) the Secretary of State has given a direction under section 30A(5) in respect of a political party; and
+>
+> (b) the party's period of exclusion under that provision has not come to an end,
+>
+> subsection (2)(a) above shall have effect as if the number of seats in the Assembly which were held by members of the party on the day on which the Assembly first met following its election was nil.
+>
+> (9) Where—
+>
+> (a) a person nominated by the nominating officer of a political party ceased to hold office as First Minister or deputy First Minister as a result of a resolution of the Assembly under section 30(2) or a direction of the Secretary of State under section 30A(5); and
+>
+> (b) the party's period of exclusion under section 30(2) or 30A(5) subsequently comes to an end otherwise than by virtue of the dissolution of the Assembly,
+>
+> the First Minister and the deputy First Minister shall cease to hold office when the party's period of exclusion under that provision comes to an end (unless any period of exclusion of the party under the other provision has not come to an end).
+>
+> (10) But where a direction under section 30A(5) ceases to have effect under section 95A(6) or (7), its so ceasing to have effect shall for the purposes of subsection (9) be taken not to involve the coming to an end of a period of exclusion under section 30A(5).
+>
+> (11) In this section “the relevant time” means the end of the day on which the Assembly first met following its election.
+>
+> (12) In this section, a reference to a period of exclusion under any provision is, in the case of a period of exclusion under that provision which has been extended, a reference to that period as extended.
+>
+> (13) Standing orders may make further provision in connection with the making of nominations under sections 16A and 16B.
+>
+> (14) In this Act “the pledge of office” means the pledge of office which, together with the code of conduct to which it refers, is set out in Schedule 4.
+
+(2) Schedule 5 (executive selection: consequential amendments) has effect.
+
+#### 9 Department with policing and justice functions: nomination etc of Ministers
+
+Schedule 6 (department with policing and justice functions: nomination etc of Ministers) has effect.
+
+### Committees
+
+#### 10 Statutory committee for Office of First Minister and deputy First Minister
+
+(1) Section 29 of the 1998 Act (statutory committees) is amended as follows.
+
+(2) In subsection (1)(a), after “committees”)” insert—
+
+> (i) to advise and assist the First Minister and the deputy First Minister in the formulation of policy with respect to matters within their responsibilities as Ministers jointly in charge of the Office of the First Minister and deputy First Minister, and
+>
+> (ii)
+
+.
+
+(3) In subsection (6), for the words from “it is established” to the end of the subsection substitute—
+
+> (a) it is established to advise and assist the First Minister and the deputy First Minister and either of those Ministers is a member of his party; or
+>
+> (b) it is established to advise and assist a Northern Ireland Minister and that Minister is a member of his party.
+
+#### 11 Committee to review functioning of Assembly and Executive Committee
+
+(1) After section 29 of the 1998 Act insert—
+
+> **29A Committee to review functioning of Assembly and Executive Committee**
+>
+> (1) Standing orders shall make provision—
+>
+> (a) for establishing a committee to examine such matters relating to the functioning of the Assembly and the Executive Committee as may be specified in the standing orders;
+>
+> (b) in relation to the membership of the committee; and
+>
+> (c) for regulating proceedings of the committee.
+>
+> (2) Standing orders shall provide for the committee to make reports—
+>
+> (a) to the Assembly; and
+>
+> (b) to the Executive Committee.
+>
+> (3) The committee shall, by no later than 1 May 2015, make a report on the operation of the provisions of Parts 3 and 4 of this Act—
+>
+> (a) to the Secretary of State;
+>
+> (b) to the Assembly; and
+>
+> (c) to the Executive Committee.
+>
+> **29B Review of operation of sections 16A to 16C**
+>
+> (1) Standing orders shall require the committee established by virtue of section 29A to consider—
+>
+> (a) the operation of sections 16A to 16C; and
+>
+> (b) in particular, whether to recommend that the Secretary of State should make an order amending this Act and any other enactment so far as may be necessary to secure that they have effect, as from the date of the election of the 2011 Assembly, as if the executive selection amendments had not been made.
+>
+> (2) In subsection (1)—
+>
+> - “the 2011 Assembly” means the Assembly due to be elected under section 31 in 2011;
+> - “the executive selection amendments” means the amendments made by section 8 of, and paragraphs 1, 2(1) and (2) and 3 to 14 of Schedule 5 to, the Northern Ireland (St Andrews Agreement) Act 2006.
+
+(2) If, by no later than 1 February 2011—
+
+(a) the committee established by virtue of section 29A of the 1998 Act makes the recommendation set out in section 29B(1)(b) of that Act, and
+
+(b) the committee's recommendation is approved by the Northern Ireland Assembly with cross-community support (within the meaning of that Act),
+
+the Secretary of State must by order made by statutory instrument amend that Act and any other enactment so far as may be necessary to secure that they have effect, as from the date of the election of the 2011 Assembly, as if the executive selection amendments had not been made.
+
+(3) In subsection (2)—
+
+- “the 2011 Assembly” means the Northern Ireland Assembly due to be elected under section 31 of the 1998 Act in 2011;
+- “the executive selection amendments” means the amendments made by section 8 of, and paragraphs 1, 2(1) and (2) and 3 to 14 of Schedule 5 to, this Act.
+
+(4) An order under this section may contain supplementary, incidental, consequential, transitional or saving provision.
+
+(5) A statutory instrument containing an order under this section shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+### NSMC and BIC
+
+#### 12 North-South Ministerial Council and British-Irish Council
+
+For section 52 of the 1998 Act substitute—
+
+> **52A North-South Ministerial Council and British-Irish Council**
+>
+> (1) The First Minister and the deputy First Minister acting jointly shall, as far in advance of each meeting of the North-South Ministerial Council or the British-Irish Council as is reasonably practicable, give to the Executive Committee and to the Assembly the following information in relation to the meeting—
+>
+> (a) the date;
+>
+> (b) the agenda; and
+>
+> (c) (once determined under this section) the names of the Ministers or junior Ministers who are to attend the meeting.
+>
+> (2) Each Minister or junior Minister who has responsibility (whether or not with another Minister or junior Minister) in relation to any matter included in the agenda for a meeting of either Council (“appropriate Minister”) shall be entitled—
+>
+> (a) to attend the meeting; and
+>
+> (b) to participate (see section 52C) in the meeting so far as it relates to that matter.
+>
+> (3) An appropriate Minister may nominate another Minister or junior Minister—
+>
+> (a) to attend the meeting in place of the appropriate Minister; and
+>
+> (b) to participate in the meeting so far as it relates to matters for which the appropriate Minister has responsibility,
+>
+> but a person may not be nominated under this subsection without his consent.
+>
+> (4) Each appropriate Minister shall notify the First Minister and the deputy First Minister, as soon as reasonably practicable and in any event no later than 10 days before the date of the meeting, that—
+>
+> (a) he intends to attend the meeting;
+>
+> (b) he does not intend to attend the meeting but has nominated another person under subsection (3) to attend in his place; or
+>
+> (c) he does not intend to attend the meeting and he does not intend, or has not been able, to make such a nomination,
+>
+> and a notification under paragraph (b) shall include the name of the person nominated.
+>
+> (5) If the appropriate Minister gives a notification under subsection (4)(c) (or if the First Minister and the deputy First Minister receive no notification from him under subsection (4)), the First Minister and the deputy First Minister acting jointly shall nominate a Minister or junior Minister—
+>
+> (a) to attend the meeting in place of the appropriate Minister; and
+>
+> (b) to participate in the meeting so far as it relates to matters for which the appropriate Minister has responsibility.
+>
+> (6) In relation to a matter for which the First Minister and the deputy First Minister are the appropriate Ministers—
+>
+> (a) the notification to be made by each of them under subsection (4) shall be made to the other; and
+>
+> (b) if either of them (“A”) gives a notification under subsection (4)(c) (or if the other (“B”) receives no notification from A under subsection (4)), B (acting alone) shall make the nomination under subsection (5) in relation to A.
+>
+> (7) The First Minister and the deputy First Minister acting jointly shall make such nominations (or further nominations) of Ministers and junior Ministers (including where appropriate alternative nominations) as they consider necessary to ensure such cross-community participation in either Council as is required by the Belfast Agreement.
+>
+> (8) Subsection (9) applies in relation to any matter included in the agenda for a meeting of either Council if—
+>
+> (a) the First Minister and the deputy First Minister are not the appropriate Ministers in relation to the matter; but
+>
+> (b) the matter is one that ought, by virtue of section 20(3) or (4), to be considered by the Executive Committee.
+>
+> (9) The First Minister and the deputy First Minister acting jointly shall also be entitled—
+>
+> (a) to attend the meeting; and
+>
+> (b) to participate in the meeting so far as it relates to that matter.
+>
+> (10) In this section “day” does not include a Saturday, a Sunday, Christmas Day, Good Friday and any day which is a bank holiday in Northern Ireland.
+>
+> **52B Section 52A: duty to attend Council meetings etc**
+>
+> (1) It shall be a Ministerial responsibility of—
+>
+> (a) each appropriate Minister; or
+>
+> (b) if a Minister or junior Minister is nominated under section 52A(3) or (5) to attend a meeting of the North-South Ministerial Council or the British-Irish Council in place of an appropriate Minister, that Minister or junior Minister,
+>
+> to participate in the meeting so far as it relates to matters for which the appropriate Minister has responsibility.
+>
+> (2) It shall be a Ministerial responsibility of a Minister or junior Minister nominated to attend a meeting of either Council under section 52A(7) to participate in the meeting so far as specified in the nomination.
+>
+> (3) Each appropriate Minister shall give to—
+>
+> (a) a person nominated under section 52A(3) or (5) to attend a meeting of either Council in his place; or
+>
+> (b) a person nominated under section 52A(7) to participate in a meeting of either Council so far as specified in the nomination,
+>
+> such information as may be necessary to enable the person's full participation in the meeting.
+>
+> (4) But if the appropriate Minister does not give sufficient information under subsection (3) to enable the person's full participation in the meeting—
+>
+> (a) the First Minister and the deputy First Minister acting jointly may request the necessary information; and
+>
+> (b) if they do so, the appropriate Minister must give that information to the person nominated.
+>
+> (5) A person nominated under section 52A(3) or (5) may enter into agreements or arrangements in respect of matters for which the appropriate Minister is (or the appropriate Ministers are) responsible.
+>
+> (6) Without prejudice to the operation of section 24, a Minister or junior Minister attending a meeting of either Council by virtue of any provision of section 52A or this section shall act in accordance with any decisions of the Assembly or the Executive Committee (by virtue of section 20) which are relevant to his participation in the Council concerned.
+>
+> (7) In this section “appropriate Minister”, in relation to a meeting of the North-South Ministerial Council or the British-Irish Council, has the same meaning as in section 52A.
+>
+> **52C Sections 52A and 52B: supplementary**
+>
+> (1) If any question arises under section 52A or 52B as to which Minister or junior Minister has responsibility for any matter, the First Minister and the deputy First Minister acting jointly shall determine that question.
+>
+> (2) A Minister or junior Minister who participates in a meeting of either the North-South Ministerial Council or the British-Irish Council by virtue of any provision of section 52A or 52B shall, as soon as reasonably practicable after the meeting, make a report—
+>
+> (a) to the Executive Committee; and
+>
+> (b) to the Assembly.
+>
+> (3) A report under subsection (2)(b) shall be made orally unless standing orders authorise it to be made in writing.
+>
+> (4) The Northern Ireland contributions towards the expenses of the Councils shall be defrayed as expenses of the Office of the First Minister and deputy First Minister.
+>
+> (5) In sections 52A and 52B and this section “participate” shall be construed—
+>
+> (a) in relation to the North-South Ministerial Council, in accordance with paragraphs 5 and 6 of Strand Two of the Belfast Agreement;
+>
+> (b) in relation to the British-Irish Council, in accordance with the first paragraph 5 of Strand Three of that Agreement.
+
+### Miscellaneous
+
+#### 13 Community designation
+
+In section 4 of the 1998 Act (transferred, excepted and reserved matters), after subsection (5) insert—
+
+> (5A) Standing orders of the Assembly shall provide that a member of the Assembly designated in accordance with the standing orders as a Nationalist, as a Unionist or as Other may change his designation only if—
+>
+> (a) (being a member of a political party) he becomes a member of a different political party or he ceases to be a member of any political party;
+>
+> (b) (not being a member of any political party) he becomes a member of a political party.
+
+#### 14 Power of Executive Committee to call for witnesses and documents
+
+After section 28B of the 1998 Act insert—
+
+> **Executive Committee: further provisions**
+>
+> **28C Power of Executive Committee to call for witnesses and documents**
+>
+> Section 44 applies to the Executive Committee as it applies to the Assembly, but as if—
+>
+> (a) in subsection (1), for “any person” there were substituted “ a senior officer of a Northern Ireland department (within the meaning given by Article 2(3) of the Departments (Northern Ireland) Order 1999) ”;
+>
+> (b) at the end of that subsection there were inserted “ but only in so far as they are matters in relation to which the Executive Committee's functions under section 20(3) or (4) are exercisable ”;
+>
+> (c) subsection (6) were omitted; and
+>
+> (d) in subsection (7), for “The Presiding Officer” there were substituted “ The First Minister and the deputy First Minister acting jointly ”.
+
+#### 15 Strategies relating to Irish language and Ulster Scots language etc
+
+After section 28C of the 1998 Act insert—
+
+> **28D Strategies relating to Irish language and Ulster Scots language etc**
+>
+> (1) The Executive Committee shall adopt a strategy setting out how it proposes to enhance and protect the development of the Irish language.
+>
+> (2) The Executive Committee shall adopt a strategy setting out how it proposes to enhance and develop the Ulster Scots language, heritage and culture.
+>
+> (3) The Executive Committee—
+>
+> (a) must keep under review each of the strategies; and
+>
+> (b) may from time to time adopt a new strategy or revise a strategy.
+
+#### 16 Strategy relating to poverty, social exclusion etc
+
+After section 28D of the 1998 Act insert—
+
+> **28E Strategy relating to poverty, social exclusion etc**
+>
+> (1) The Executive Committee shall adopt a strategy setting out how it proposes to tackle poverty, social exclusion and patterns of deprivation based on objective need.
+>
+> (2) The Executive Committee—
+>
+> (a) must keep under review the strategy; and
+>
+> (b) may from time to time adopt a new strategy or revise the strategy.
+
+#### 17 Vacancy in the Assembly
+
+In Schedule 6 to the 1998 Act (which makes certain provision about standing orders), after paragraph 4 insert—
+
+> **5 Votes in vacancy**
+>
+> The standing orders may include provision enabling a right to vote in the Assembly which could have been exercised but for a vacancy in the membership of the Assembly to be exercisable in such manner as is so provided.
+
+#### 18 Report on progress towards devolution of policing and justice matters
+
+(1) The Northern Ireland Assembly must make a report to the Secretary of State before 27 March 2008—
+
+(a) as to the preparations that the Assembly has made, and intends to make, having regard to paragraph 7 of the St Andrews Agreement, for or in connection with policing and justice matters ceasing to be reserved matters;
+
+(b) as to which matters are likely to be the subject of any request under section 4(2A) of the 1998 Act that policing and justice matters should cease to be reserved matters;
+
+(c) containing an assessment of whether the Assembly is likely to make such a request before 1 May 2008.
+
+(2) The Secretary of State must lay a copy of the report before each House of Parliament.
+
+(3) Paragraph 7 of the St Andrews Agreement says: “ Discussions on the devolution of policing and justice have progressed well in the Preparation for Government Committee. The Governments have requested the parties to continue these discussions so as to agree the necessary administrative arrangements to create a new policing and justice department. It is our view that implementation of the agreement published today should be sufficient to build the community confidence necessary for the Assembly to request the devolution of criminal justice and policing from the British Government by May 2008. ”
+
+(4) In this section “policing and justice matter” has the meaning given by section 4(6) of the 1998 Act (as inserted by section 16(5) of the Northern Ireland (Miscellaneous Provisions) Act 2006 (c. 33)) and “reserved matter” has the meaning given by section 4(1) of the 1998 Act.
+
+(5) In section 16(3) of the Northern Ireland (Miscellaneous Provisions) Act 2006, in the inserted section 4(2A) of the 1998 Act, for “devolved policing and justice matter” substitute “ policing and justice matter ”.
+
+(6) In section 16(5) of the Northern Ireland (Miscellaneous Provisions) Act 2006, in the inserted section 4(6) of the 1998 Act, for “ “devolved policing and justice matter”” substitute “policing and justice matter” .
+
+(7) In section 17(1) of the Northern Ireland (Miscellaneous Provisions) Act 2006, in the inserted section 21A(8)(b) of the 1998 Act, for “devolved policing and justice matter” substitute “ policing and justice matter ”.
+
+(8) The subject-matter of subsections (1) and (2) is to be treated as a reserved matter for the purposes of the 1998 Act.
+
+#### 19 Minor and consequential amendments
+
+Schedule 7 (minor and consequential amendments relating to Part 2) has effect.
+
+## Part 3 — Other amendments
+
+### Policing
+
+#### [^F2]20 District policing partnerships
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Education
+
+#### 21 Amendment of Education (Northern Ireland) Order 2006 etc
+
+(1) In Article 1 of the Education (Northern Ireland) Order 2006 (S.I. 2006/1915 (N.I. 11)), in paragraph (6), for sub-paragraphs (a) and (b) substitute—
+
+> (a) if Schedule 4 to the Northern Ireland (St Andrews Agreement) Act 2006 comes into force, on such date as the Department may by order appoint;
+>
+> (b) if Schedule 3 to that Act comes into force, on the date on which that Schedule comes into force;
+
+.
+
+(2) In Article 16 of the Education (Northern Ireland) Order 1997 (S.I. 1997/866 (N.I. 5)) (as substituted by Article 28(1) of the 2006 Order), in paragraph (5), in the opening words, after “a secondary school” insert “ or of a secondary school of a specified description ”.
+
+(3) The amendment made by subsection (2) shall come into force if (and only if) Schedule 4 comes into force.
+
+(4) If the amendment comes into force in accordance with subsection (3), it shall come into force on 28 March 2007.
+
+(5) If Schedule 3 comes into force, subsections (2) to (4) shall be repealed on the date on which that Schedule comes into force.
+
+## Part 4 — Supplemental
+
+### 22 Repeal of the 2006 Act
+
+The 2006 Act is repealed.
+
+### 23 Power to make consequential provision etc
+
+(1) The Secretary of State may by order made by statutory instrument make—
+
+(a) any supplementary, incidental or consequential provision, and
+
+(b) any transitional or saving provision,
+
+that he considers necessary or expedient for the purposes of, in consequence of, or for giving full effect to, any provision of this Act.
+
+(2) An order under this section may in particular—
+
+(a) make different provision for different cases or purposes;
+
+(b) amend, repeal or revoke any enactment passed or made on or before 28 March 2007.
+
+(3) In this section “enactment” includes—
+
+(a) any of sub-paragraphs (1) to (8) of paragraph 2 of Schedule 4,
+
+(b) any provision of, or of any instrument made under, Northern Ireland legislation, and
+
+(c) any provision of subordinate legislation (within the meaning of the Interpretation Act 1978 (c. 30)).
+
+### 24 Parliamentary procedure for orders under section 23
+
+(1) Subsections (3) to (7) have effect in the case of a statutory instrument which contains (alone or with other provisions) an order under section 23 which amends or repeals any provision of—
+
+(a) an Act, or
+
+(b) Northern Ireland legislation.
+
+(2) Any other statutory instrument containing an order under that section shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(3) A statutory instrument of a description mentioned in subsection (1) may not be made unless a draft of the instrument has been laid before and approved by a resolution of each House of Parliament.
+
+(4) But subsection (3) does not apply if the order declares that the Secretary of State considers it expedient for the order to be made without that approval.
+
+(5) An order containing a declaration under subsection (4)—
+
+(a) must be laid before Parliament after being made, and
+
+(b) ceases to have effect if it is not approved by a resolution of each House of Parliament before the end of the period of 40 days beginning with the date on which it is made.
+
+(6) Subsection (5)(b) does not prejudice—
+
+(a) anything done as a result of the order before it ceased to have effect, or
+
+(b) the making of a new order.
+
+(7) In calculating the period of 40 days mentioned in subsection (5)(b), no account is to be taken of any time during which Parliament is dissolved or prorogued or during which both Houses are adjourned for more than four days.
+
+### 25 Interpretation
+
+In this Act—
+
+- “the 1998 Act” means the Northern Ireland Act 1998 (c. 47);
+- “the 2000 Act” means the Northern Ireland Act 2000 (c. 1);
+- “the 2006 Act” means the Northern Ireland Act 2006 (c. 17);
+- “First Minister”, “deputy First Minister” and “Northern Ireland Minister” have the same meaning as in the 1998 Act;
+- “restoration order” means a restoration order under section 2(2) of the 2000 Act (order restoring devolved government);
+- “the St Andrews Agreement” means the agreement reached on 13 October 2006 at multi-party talks on Northern Ireland held at St Andrews;
+- “the Transitional Assembly” has the meaning given by section 1(1) of this Act.
+
+### 26 Extent
+
+(1) The following provisions of this Act extend to Northern Ireland only—
+
+(a) section 20 and Schedules 8 and 9;
+
+(b) section 21.
+
+(2) Subject to that, this Act extends to England and Wales, Scotland and Northern Ireland.
+
+### 27 Commencement
+
+(1) Schedules 2 to 4 shall only come into force in the circumstances specified in, and in accordance with, section 2.
+
+(2) Subject to paragraph 3(1)(b) of Schedule 3, section 3(1) shall come into force on 26 January 2007.
+
+(3) The following provisions shall come into force on such day as the Secretary of State may by order made by statutory instrument appoint, and different days may be appointed for different purposes—
+
+(a) section 4;
+
+(b) section 20(1) and Schedule 8.
+
+(4) Part 2 (including Schedules 5 to 7) shall come into force if (and only if) the Secretary of State makes a restoration order by virtue of section 2(2).
+
+(5) If that Part comes into force in accordance with subsection (4), it shall come into force on 26 March 2007.
+
+[^F3]6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7) Section 21(2) shall only come into force in the circumstances specified in, and in accordance with, subsections (3) and (4) of that section.
+
+(8) Subject to that, this Act shall come into force on the day on which it is passed.
+
+### 28 Short title
+
+This Act may be cited as the Northern Ireland (St Andrews Agreement) Act 2006.
+
+## [^F4]SCHEDULE 1
+
+### Meetings
+
+**1** (1) Meetings are to be held at such times and places as the presiding officer or any deputy presiding officer of the Transitional Assembly may notify to the members; and a meeting of the Transitional Assembly must be held on 24 November 2006.
+
+(2) But the Secretary of State may at any time direct that meetings are instead to be held at such times and places as may be specified in the direction.
+
+### Proceedings
+
+**2** (1) Proceedings are to be conducted in accordance with standing orders (see paragraph 9).
+
+(2) But the Secretary of State may at any time direct that proceedings are instead to be conducted in accordance with the direction.
+
+### Nominations for First Minister and deputy First Minister
+
+**3** (1) The proceedings to be conducted by the Transitional Assembly shall include the making of nominations from among its members of persons to hold office as First Minister and deputy First Minister on the restoration of devolved government in Northern Ireland.
+
+(2) Such nominations may be made notwithstanding section 1(4) of, and paragraph 5 of the Schedule to, the 2000 Act.
+
+### Draft Ministerial Code
+
+**4** (1) The proceedings to be conducted by the Transitional Assembly shall include the preparation and consideration of a draft Ministerial Code.
+
+(2) If the Transitional Assembly approves the draft Ministerial Code (with or without amendments) before 24 March 2007, the approved draft Ministerial Code shall become the Ministerial Code for the purposes of section 28A of the 1998 Act on 26 March 2007.
+
+(3) Any approval under sub-paragraph (2) requires cross-community support (see paragraph 11).
+
+(4) The draft Ministerial Code approved under sub-paragraph (2)—
+
+(a) must comply with the requirements of subsections (5) to (8) of section 28A of the 1998 Act (to be inserted in that Act by section 5 of this Act), and
+
+(b) may include other provisions.
+
+(5) But if the Transitional Assembly has not approved the draft Ministerial Code (with or without amendments) before 24 March 2007—
+
+(a) the Secretary of State must prepare a draft Ministerial Code in accordance with sub-paragraph (6), and
+
+(b) that draft Ministerial Code shall become the Ministerial Code for the purposes of section 28A of the 1998 Act on 26 March 2007.
+
+(6) The draft Ministerial Code referred to in sub-paragraph (5) must, so far as practicable, be—
+
+(a) in the form of any parts of the draft Ministerial Code that have been approved by the Transitional Assembly under sub-paragraph (2) (with or without amendments) before 24 March 2007;
+
+(b) otherwise, in the form of the former Ministerial Code,
+
+and must comply with the requirements of subsections (5) to (8) of section 28A of the 1998 Act.
+
+(7) In this paragraph “the former Ministerial Code” means the Ministerial Code which—
+
+(a) was approved by the Executive Committee of the Northern Ireland Assembly, and
+
+(b) applied to members of the Executive Committee immediately before the most recent suspension of that Assembly by virtue of section 1 of the 2000 Act.
+
+### Draft standing orders for Northern Ireland Assembly
+
+**5** (1) The proceedings to be conducted by the Transitional Assembly shall include the preparation and consideration of draft standing orders for the Northern Ireland Assembly.
+
+(2) If the Transitional Assembly approves the draft standing orders (with or without amendments) before 24 March 2007, the approved draft standing orders shall become the standing orders of the Northern Ireland Assembly on 26 March 2007.
+
+(3) Any approval under sub-paragraph (2) requires cross-community support.
+
+(4) But if the Transitional Assembly has not approved the draft standing orders (with or without amendments) before 24 March 2007—
+
+(a) the Secretary of State must prepare draft standing orders in accordance with sub-paragraph (5), and
+
+(b) those draft standing orders shall become the standing orders of the Northern Ireland Assembly on 26 March 2007.
+
+(5) Subject to sub-paragraph (7), the draft standing orders referred to in sub-paragraph (4) must, so far as practicable, be—
+
+(a) in the form of any parts of the draft standing orders that have been approved by the Transitional Assembly under sub-paragraph (2) (with or without amendments) before 24 March 2007;
+
+(b) otherwise, in the form of the former standing orders.
+
+(6) In this paragraph “the former standing orders” means the standing orders of the Northern Ireland Assembly as they had effect immediately before the most recent suspension of that Assembly by virtue of section 1 of the 2000 Act.
+
+(7) The draft standing orders approved under sub-paragraph (2) or the draft standing orders prepared in accordance with sub-paragraph (5)—
+
+(a) must comply with the requirements of the 1998 Act (as it is to have effect on and after 26 March 2007), and
+
+(b) may include other provisions.
+
+### Presiding officer
+
+**6** (1) The Transitional Assembly shall have—
+
+(a) a presiding officer, and
+
+(b) no more than three deputy presiding officers.
+
+(2) The person who is the presiding officer of the Assembly (see sub-paragraph (8)) immediately before the time at which this Schedule comes into force shall become the presiding officer of the Transitional Assembly at that time.
+
+(3) Each person who is a deputy presiding officer of the Assembly immediately before that time shall become a deputy presiding officer of the Transitional Assembly at that time.
+
+(4) Subject to sub-paragraphs (5) to (7), the Transitional Assembly may elect a person—
+
+(a) to fill any vacancy in the office of presiding officer or deputy presiding officer, or
+
+(b) to replace a presiding officer or deputy presiding officer who appears to members of the Transitional Assembly to be unable, unfit or unwilling to perform his functions (whether because of illness or otherwise).
+
+(5) A person shall not be elected under sub-paragraph (4) without cross-community support.
+
+(6) If it appears to the Secretary of State that—
+
+(a) a vacancy has arisen in the office of presiding officer or deputy presiding officer of the Transitional Assembly, and
+
+(b) the vacancy has not been filled within a period of two weeks beginning with the day on which the vacancy arose,
+
+the Secretary of State may appoint a person to fill the vacancy.
+
+(7) If it appears to the Secretary of State that—
+
+(a) a presiding officer or deputy presiding officer of the Transitional Assembly has become unable, unfit or unwilling to perform his functions (whether because of illness or otherwise), and
+
+(b) the officer has not been replaced within a period of two weeks beginning with the day on which the officer became unable, unfit or unwilling to perform his functions,
+
+the Secretary of State may appoint a person to replace the officer.
+
+(8) In this paragraph “the Assembly” means the Assembly established under paragraph 1 of Schedule 1 to the 2006 Act.
+
+### Staff etc
+
+**7** (1) The Secretary of State must secure the provision of the services of such staff, the use of such premises and such other facilities as he thinks appropriate.
+
+(2) Expenditure incurred by the Secretary of State by virtue of this paragraph is to be paid out of the Consolidated Fund of Northern Ireland.
+
+### Privilege
+
+**8** A written or oral statement made by a member in or for the purposes of the Transitional Assembly is to be privileged from action for defamation unless it is proved to have been made with malice.
+
+### Standing orders
+
+**9** (1) In this Schedule (other than in paragraph 5) “standing orders” means standing orders of the Transitional Assembly.
+
+(2) The initial standing orders shall be determined by the Secretary of State and notified to the presiding officer or any deputy presiding officer of the Transitional Assembly.
+
+(3) The initial standing orders may be added to or amended by the Secretary of State by notification to the presiding officer or any deputy presiding officer of the Transitional Assembly; but no addition or amendment may be made under this sub-paragraph to the extent that it is inconsistent with anything done by the Transitional Assembly under sub-paragraph (4).
+
+(4) The initial standing orders may be amended or replaced by the Transitional Assembly, but standing orders shall not be made, amended or repealed by the Transitional Assembly without cross-community support.
+
+(5) The provision that may be made by standing orders includes provision which corresponds, or is similar, to—
+
+(a) any provision of standing orders made (or treated as made) under section 41 of the 1998 Act, or
+
+(b) any provision of directions made by the Secretary of State under paragraph 4 of Schedule 1 to the 2006 Act.
+
+(6) The provision that may be made by standing orders also includes provision that may be made under paragraph 5 of Schedule 6 to the 1998 Act (to be inserted in that Act by section 17 of this Act).
+
+(7) The provision that may be made by standing orders for the purposes of the nominations referred to in paragraph 3 above includes provision which corresponds, or is similar, to any provision of sections 16A to 16C of the 1998 Act (to be inserted in that Act by section 8 of this Act).
+
+(8) The standing orders may provide for further nominations to be made if any nomination made by virtue of paragraph 3 above ceases to have effect, by virtue of the standing orders, at any time before 26 March 2007.
+
+### Members to be deemed to have signed roll of membership etc
+
+**10** (1) Each person who was a member of the Assembly (see sub-paragraph (3)) immediately before the time at which this Schedule comes into force shall be deemed to have signed the roll of membership of the Transitional Assembly at that time in accordance with standing orders.
+
+(2) Each such person shall be deemed to have designated himself at that time in accordance with standing orders—
+
+(a) as a Nationalist (if, immediately before that time, he was designated as a Nationalist for the purposes of the Assembly);
+
+(b) as a Unionist (if, immediately before that time, he was designated as a Unionist for the purposes of the Assembly);
+
+(c) otherwise, as Other.
+
+(3) In this paragraph “the Assembly” means the Assembly established under paragraph 1 of Schedule 1 to the 2006 Act.
+
+### Meaning of “cross-community support”
+
+**11** (1) In this Schedule “cross-community support”, in relation to a vote on any matter, means—
+
+(a) the support of a majority of the members voting, a majority of the designated Nationalists voting and a majority of the designated Unionists voting, or
+
+(b) the support of 60% of the members voting, 40% of the designated Nationalists voting and 40% of the designated Unionists voting.
+
+(2) In sub-paragraph (1)—
+
+- “designated Nationalist” means a member designated as a Nationalist in accordance with standing orders, and
+- “designated Unionist” is to be construed accordingly.
+
+## SCHEDULE 2 — Restoration of devolved government on 26 March 2007
+
+*Section 2(2)*
+
+### Introduction
+
+**1** In this Schedule “the restoration order” means the restoration order made by virtue of section 2(2).
+
+### The Ministerial offices
+
+**2** (1) Subsections (2) to (7) of section 3 of the 2000 Act do not apply in relation to the restoration order (and, accordingly, no person who immediately before the most recent suspension held an office mentioned in any of those subsections shall resume that office on 26 March 2007).
+
+(2) On 26 March 2007—
+
+(a) the First Minister designate shall, subject to sub-paragraph (4), become the First Minister, and
+
+(b) the deputy First Minister designate shall, subject to sub-paragraph (4), become the deputy First Minister,
+
+(and section 16A of the 1998 Act does not apply).
+
+(3) In sub-paragraph (2)—
+
+- “the First Minister designate” means the person whose nomination by virtue of paragraph 3 of Schedule 1 to this Act to hold office as First Minister has effect immediately before 26 March 2007;
+- “the deputy First Minister designate” means the person whose nomination by virtue of that paragraph to hold office as deputy First Minister has effect immediately before that date.
+
+(4) But the persons whose nominations so have effect shall not take up office until each of them has affirmed the terms of the pledge of office (within the meaning given by section 16C(14) of the 1998 Act).
+
+(5) On 26 March 2007, the Ministerial offices to be held by Northern Ireland Ministers shall be filled by applying section 18(2) to (6) of the 1998 Act (and section 16A of the 1998 Act does not apply).
+
+(6) But for that purpose, section 18 of that Act shall have effect as if the reference, in the definition of “S” in subsection (5) of that section, to the day on which the Assembly first met following its election were a reference to the first day on which the Transitional Assembly met after 7 March 2007.
+
+(7) In this paragraph “the most recent suspension” means the most recent suspension of the Northern Ireland Assembly by virtue of section 1 of the 2000 Act.
+
+### Presiding Officer and deputy Presiding Officer
+
+**3** (1) The person who is presiding officer of the Transitional Assembly immediately before 26 March 2007 shall be deemed to have been elected as Presiding Officer of the Northern Ireland Assembly under section 39(1) of the 1998 Act on that date (and, accordingly, any person who is a deputy Presiding Officer of the Northern Ireland Assembly immediately before that date shall cease to hold office under section 39(2) of that Act on that date).
+
+(2) Each person who is a deputy presiding officer of the Transitional Assembly immediately before 26 March 2007 shall be deemed to have been elected as a deputy Presiding Officer of the Northern Ireland Assembly under section 39(1) of the 1998 Act on that date.
+
+### Restoration order: supplementary provisions
+
+**4** (1) The provision that may be made by the restoration order by virtue of section 7(2) of the 2000 Act includes provision—
+
+(a) for treating things done (or treated as done) under or by virtue of this Act as having been done under or by virtue of the 1998 Act;
+
+(b) for treating things done (or treated as done) by or in relation to the Transitional Assembly (or members of that Assembly) as having been done by or in relation to the Northern Ireland Assembly (or members of that Assembly).
+
+(2) Section 2(3) of the 2000 Act (taking account of review under Validation, Implementation and Review section of Belfast Agreement) does not apply in relation to the restoration order.
+
+### Modification of section 29(3) of the 1998 Act and paragraph 7(7) of Schedule 1 to the Police (Northern Ireland) Act 2000
+
+**5** (1) This paragraph applies in relation to the first occasion on or after 26 March 2007 on which the offices of chairmen and deputy chairmen of the statutory committees are to be filled in accordance with standing orders made under section 29 of the 1998 Act.
+
+(2) That section (and those standing orders) shall have effect as if the reference, in the definition of “S” in subsection (3) of that section (and in those standing orders), to the day on which the Assembly first met following its election were a reference to the first day on which the Transitional Assembly met after 7 March 2007.
+
+**6** (1) This paragraph applies in relation to the first occasion on or after 26 March 2007 on which the political members of the Northern Ireland Policing Board are to be nominated in accordance with paragraph 7 of Schedule 1 to the Police (Northern Ireland) Act 2000 (c. 32).
+
+(2) That paragraph shall have effect as if the reference, in the definition of “S” in sub-paragraph (7) of that paragraph, to the day on which the Assembly first met following its election were a reference to the first day on which the Transitional Assembly met after 7 March 2007.
+
+### Repeal of certain provisions of this Act on 26 March 2007
+
+**7** The following provisions of this Act are repealed—
+
+(a) section 1(1) and (2), and
+
+(b) Schedule 1.
+
+## [^F5]SCHEDULE 3 (prospective)
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 4 — Repeal of the Northern Ireland Act 2000 on 28 March 2007
+
+*Section 2(5)*
+
+### Repeal of the 2000 Act on 28 March 2007
+
+**1** The 2000 Act is repealed.
+
+### Repeal of the 2000 Act: supplementary provisions
+
+**2** (1) [[^F6]No determination may be made under or by virtue of] section 47 of the 1998 Act in respect of any period of suspension.
+
+(2) No instrument made during any period of suspension shall be liable to annulment or capable of being revoked in pursuance of a resolution, motion or address of the Northern Ireland Assembly.
+
+(3) Neither a restoration order nor the repeal of paragraph 1(1) of the Schedule to the 2000 Act shall affect the operation of any Order in Council made before 28 March 2007 under paragraph 1(1) of that Schedule.
+
+(4) References to Acts of the Northern Ireland Assembly in any enactment or instrument (whether passed or made before or after the coming into force of section 1 of the 2000 Act) are to be read, so far as the context permits, as including references to Orders in Council made under paragraph 1(1) of the Schedule to that Act.
+
+(5) The repeal of section 6 of the 2000 Act by virtue of paragraph 1 above shall not affect the operation of any order previously made under that section.
+
+(6) The repeal of section 7 of the 2000 Act by virtue of paragraph 1 above shall not affect the operation of any provision of a restoration order previously made by virtue of subsection (2) of that section.
+
+(7) The repeal of paragraph 9 of the Schedule to the 2000 Act by virtue of paragraph 1 above shall not affect the operation of any determination or provision previously made by virtue of that paragraph.
+
+(8) Subsection (4) of section 44 of the 1998 Act shall continue to include, at the end of that subsection, the words “or during a period when section 1 of the Northern Ireland Act 2000 was in force” (notwithstanding the repeal of section 9(3) of the 2000 Act by virtue of paragraph 1 above).
+
+(9) In this paragraph—
+
+- “instrument” includes a charter, contract or other document;
+- “period of suspension” means a period when section 1 of the 2000 Act was in force.
+
+(10) Sub-paragraphs (1) to (8) are not to be taken as limiting the provision that may be made by an order under section 23 of this Act.
+
+### Repeal of Schedule 3 to this Act on 28 March 2007
+
+**3** Schedule 3 to this Act is repealed.
+
+## SCHEDULE 5 — Executive selection: consequential amendments
+
+*Section 8*
+
+### Northern Ireland Act 1998 (c. 47)
+
+**1** The 1998 Act is amended as follows.
+
+**2** (1) Section 18 (Northern Ireland Ministers) is amended as follows.
+
+(2) Omit subsection (1)(a).
+
+(3) For subsection (13) substitute—
+
+> (13) In this section “nominating officer”, in relation to a party, means—
+>
+> (a) the person registered under Part 2 of the Political Parties, Elections and Referendums Act 2000 as the party's nominating officer; or
+>
+> (b) a member of the Assembly nominated by him for the purposes of this section.
+
+**3** In section 19A (disqualification for certain offices which may be held by members of the Assembly), in subsection (1), for paragraphs (a) and (b) substitute—
+
+> (a) be nominated to hold the office of First Minister or deputy First Minister or a Ministerial office to be held by a Northern Ireland Minister,
+
+.
+
+**4** In section 32 (extraordinary elections), for subsection (3) substitute—
+
+> (3) If—
+>
+> (a) the period mentioned in section 16A(3) ends without the offices of First Minister and deputy First Minister and the Ministerial offices to be held by Northern Ireland Ministers having been filled; or
+>
+> (b) the period mentioned in section 16B(3) ends without the offices of First Minister and deputy First Minister having been filled,
+>
+> the Secretary of State shall propose a date for the poll for the election of the next Assembly.
+
+**5** In section 98(1) (interpretation), in the definition of “the pledge of office”, for “16(10)” substitute “ 16C(14) ”.
+
+**6** (1) Schedule 12A (effect of application of section 95A(6) or (7)) is amended as follows.
+
+(2) In paragraph 6(4), for “16(8)” substitute “ 16B(3) to (9) ”.
+
+(3) In paragraph 7(4), for “16(7)” substitute “ 16B(2) ”.
+
+(4) In paragraph 8(1)(a), for “the six weeks” substitute “ the period of seven days ”.
+
+(5) In paragraph 8(3), for “16” substitute “ 16B(3) to (9) ”.
+
+(6) In paragraph 8(4)—
+
+(a) for “for an election under section 16” substitute “ under section 16B(3) to (9) ”;
+
+(b) for “of six weeks mentioned in section 16(8)” substitute “ mentioned in section 16B(3) ”.
+
+### Northern Ireland Act 2000 (c. 1)
+
+**7** In section 1 of the 2000 Act (suspension of devolved government in Northern Ireland), in subsection (4), omit “elected,”.
+
+### Northern Ireland (Miscellaneous Provisions) Act 2006 (c. 33)
+
+**8** In Schedule 2 to the Northern Ireland (Miscellaneous Provisions) Act 2006 (c. 33) (department with policing and justice functions), the inserted Schedule 4A to the 1998 Act is amended as follows.
+
+**9** After paragraph 1 insert—
+
+> **Modification of section 16A**
+>
+> **1A** Section 16A(3) shall have effect as if, for paragraph (b) (and the word “and” before it) there were substituted—
+>
+> > (aa) once those offices have been filled, the relevant Ministerial office (within the meaning of Part 1 of Schedule 4A) shall be filled by applying paragraph 3(3) to (6) of that Schedule; and
+> >
+> > (b) once that office has been filled, the other Ministerial offices to be held by Northern Ireland Ministers shall be filled by applying section 18(2) to (6).
+
+**10** In paragraph 3 (department in the charge of Minister approved by resolution of Assembly: provisions relating to relevant Minister), in sub-paragraph (1), for “(a) to (e)” substitute “ (b) to (e) ”.
+
+**11** After paragraph 4 insert—
+
+> **Modification of section 16A**
+>
+> **4A** Section 16A(3) shall have effect as if, for paragraph (b) (and the word “and” before it) there were substituted—
+>
+> > (aa) once those offices have been filled, the relevant Ministerial offices (within the meaning of Part 2 of Schedule 4A) shall be filled by applying paragraph 7(3) to (6) of that Schedule; and
+> >
+> > (b) once those offices have been filled, the other Ministerial offices to be held by Northern Ireland Ministers shall be filled by applying section 18(2) to (6).
+
+**12** In paragraph 7 (department in the charge of two Ministers: provisions relating to relevant Ministers), in sub-paragraph (1), for “(a) to (e)” substitute “ (b) to (e) ”.
+
+**13** After paragraph 8 insert—
+
+> **Modification of section 16A**
+>
+> **8A** Section 16A(3) shall have effect as if, for paragraph (b) (and the word “and” before it) there were substituted—
+>
+> > (aa) once those offices have been filled, the relevant Ministerial office (within the meaning of Part 3 of Schedule 4A) and the relevant junior Ministerial office (within that meaning) shall be filled by applying paragraph 11(3) to (6) of that Schedule; and
+> >
+> > (b) once those offices have been filled, the other Ministerial offices to be held by Northern Ireland Ministers shall be filled by applying section 18(2) to (6).
+
+**14** In paragraph 11 (department with rotation between Minister and junior Minister: provisions relating to relevant Minister and relevant junior Minister), in sub-paragraph (1), for “(a) to (e)” substitute “ (b) to (e) ”.
+
+## SCHEDULE 6 — Department with policing and justice functions: nomination etc of Ministers
+
+*Section 9*
+
+### Introduction
+
+**1** In Schedule 2 to the Northern Ireland (Miscellaneous Provisions) Act 2006 (c. 33) (department with policing and justice functions), the inserted Schedule 4A to the 1998 Act is amended as follows.
+
+### Department in the charge of Minister approved by resolution of Assembly
+
+**2** (1) Paragraph 3 (provisions relating to relevant Minister) is amended as follows.
+
+(2) After sub-paragraph (3) insert—
+
+> (3A) But a member of the Assembly who is a member of a political party may not be nominated unless the nominating officer of the party consents to his nomination within a period specified in standing orders.
+
+(3) In sub-paragraph (9), at the end insert
+
+> ; or
+>
+> (d) where consent to his nomination was required under sub-paragraph (3A), he is dismissed by the nominating officer who consented (or that officer's successor) and the Presiding Officer is notified of his dismissal.
+
+(4) After sub-paragraph (10) insert—
+
+> (10A) If, as a result of the relevant Minister (“the former Minister”) ceasing to hold office and the relevant Ministerial office being filled by virtue of sub-paragraph (10),—
+>
+> (a) the total number of Ministerial offices held by members of a political party increases; or
+>
+> (b) the total number of Ministerial offices held by members of a political party decreases,
+>
+> all other Northern Ireland Ministers shall cease to hold office and those Ministerial offices shall be filled by applying section 18(2) to (6) within a period specified in standing orders.
+>
+> (10B) But sub-paragraph (10A) shall not apply if—
+>
+> (a) the former Minister ceased to hold office by virtue of being dismissed by a nominating officer under sub-paragraph (9)(d); and
+>
+> (b) before the relevant Ministerial office was filled, either of the conditions in sub-paragraph (10C) was satisfied in relation to each member of the Assembly who was a member of the political party of the nominating officer.
+>
+> (10C) The conditions are that—
+>
+> (a) the First Minister and the deputy First Minister sought to nominate the member under sub-paragraph (3) for the relevant Ministerial office but consent to his nomination was not given in accordance with sub-paragraph (3A); or
+>
+> (b) the member was nominated under sub-paragraph (3) for the relevant Ministerial office and the nomination took effect within the period specified in standing orders by virtue of sub-paragraph (5)(a), but the member did not take up the office within that period.
+
+(5) After sub-paragraph (13) insert—
+
+> (14) In this paragraph “nominating officer” has the same meaning as in section 18.
+
+### Department in the charge of two Ministers
+
+**3** (1) Paragraph 7 (provisions relating to relevant Ministers) is amended as follows.
+
+(2) After sub-paragraph (3) insert—
+
+> (3A) But a member of the Assembly who is a member of a political party may not be nominated unless the nominating officer of the party consents to his nomination within a period specified in standing orders.
+
+(3) In sub-paragraph (9), at the end insert
+
+> ; or
+>
+> (d) where consent to his nomination was required under sub-paragraph (3A), he is dismissed by the nominating officer who consented (or that officer's successor) and the Presiding Officer is notified of his dismissal.
+
+(4) After sub-paragraph (10) insert—
+
+> (10A) If, as a result of the relevant Ministers (“the former Ministers”) ceasing to hold office and the relevant Ministerial offices being filled by virtue of sub-paragraph (10)(b),—
+>
+> (a) the total number of Ministerial offices held by members of a political party increases; or
+>
+> (b) the total number of Ministerial offices held by members of a political party decreases,
+>
+> all other Northern Ireland Ministers shall cease to hold office and those Ministerial offices shall be filled by applying section 18(2) to (6) within a period specified in standing orders.
+>
+> (10B) But sub-paragraph (10A) shall not apply if—
+>
+> (a) either of the former Ministers ceased to hold office by virtue of being dismissed by a nominating officer under sub-paragraph (9)(d); and
+>
+> (b) before the relevant Ministerial offices were filled, either of the conditions in sub-paragraph (10C) was satisfied in relation to each member of the Assembly who was a member of the political party of the nominating officer concerned.
+>
+> (10C) The conditions are that—
+>
+> (a) the First Minister and the deputy First Minister sought to nominate the member under sub-paragraph (3) for one of the relevant Ministerial offices but consent to his nomination was not given in accordance with sub-paragraph (3A); or
+>
+> (b) the member was nominated under sub-paragraph (3) for one of the relevant Ministerial offices and the nomination took effect within the period specified in standing orders by virtue of sub-paragraph (5)(a), but the member did not take up the office within that period.
+
+(5) After sub-paragraph (13) insert—
+
+> (14) In this paragraph “nominating officer” has the same meaning as in section 18.
+
+### Department with rotation between Minister and junior Minister
+
+**4** (1) Paragraph 11 (provisions relating to relevant Minister and relevant junior Minister) is amended as follows.
+
+(2) After sub-paragraph (3) insert—
+
+> (3A) But a member of the Assembly who is a member of a political party may not be nominated unless the nominating officer of the party consents to his nomination within a period specified in standing orders.
+
+(3) In sub-paragraph (9), at the end insert
+
+> ; or
+>
+> (d) where consent to his nomination was required under sub-paragraph (3A), he is dismissed by the nominating officer who consented (or that officer's successor) and the Presiding Officer is notified of his dismissal.
+
+(4) After sub-paragraph (11) insert—
+
+> (11A) If, as a result of the relevant Minister (“the former Minister”) and the relevant junior Minister (“the former junior Minister”) ceasing to hold office and the relevant Ministerial office and the relevant junior Ministerial office being filled by virtue of sub-paragraph (11)(b),—
+>
+> (a) the total number of Ministerial offices or junior Ministerial offices held by members of a political party increases; or
+>
+> (b) the total number of Ministerial offices or junior Ministerial offices held by members of a political party decreases,
+>
+> all other Northern Ireland Ministers shall cease to hold office and those Ministerial offices shall be filled by applying section 18(2) to (6) within a period specified in standing orders.
+>
+> (11B) But sub-paragraph (11A) shall not apply if—
+>
+> (a) the former Minister or the former junior Minister ceased to hold office by virtue of being dismissed by a nominating officer under sub-paragraph (9)(d); and
+>
+> (b) before the relevant Ministerial office and the relevant junior Ministerial office were filled, either of the conditions in sub-paragraph (11C) was satisfied in relation to each member of the Assembly who was a member of the political party of the nominating officer concerned.
+>
+> (11C) The conditions are that—
+>
+> (a) the First Minister and the deputy First Minister sought to nominate the member under sub-paragraph (3) for the appropriate office, but consent to his nomination was not given in accordance with sub-paragraph (3A); or
+>
+> (b) the member was nominated under sub-paragraph (3) for the appropriate office and the nomination took effect within the period specified in standing orders by virtue of sub-paragraph (5)(a), but the member did not take up the office within that period.
+>
+> (11D) In sub-paragraph (11C) “the appropriate office” means—
+>
+> (a) in relation to a person who was a member of the political party of the nominating officer who dismissed the former Minister, the relevant Ministerial office;
+>
+> (b) in relation to a person who was a member of the political party of the nominating officer who dismissed the former junior Minister, the relevant junior Ministerial office.
+
+(5) After sub-paragraph (14) insert—
+
+> (15) In this paragraph “nominating officer” has the same meaning as in section 18.
+
+## SCHEDULE 7 — Minor and consequential amendments relating to Part 2
+
+*Section 19*
+
+### Northern Ireland Act 1998 (c. 47)
+
+**1** The 1998 Act is amended as follows.
+
+**2** In section 53 (agreements etc., by persons participating in North-South Ministerial Council and British-Irish Council), in subsection (1), for “a nomination under section 52” substitute “ any provision of section 52A or 52B ”.
+
+**3** In section 98 (interpretation), in subsection (1), insert the following definition at the appropriate place—
+
+> - “the St Andrews Agreement” means the agreement reached on 13 October 2006 at multi-party talks on Northern Ireland held at St Andrews;
+
+.
+
+**4** (1) Schedule 2 (excepted matters) is amended as follows.
+
+(2) In paragraph 3(b)(i), for “a nomination under section 52” substitute “ any provision of section 52A or 52B ”.
+
+(3) In paragraph 22—
+
+(a) in sub-paragraph (b), for “and 28” substitute “ , 28, 28A, 28B, 28D and 28E ”;
+
+(b) in sub-paragraph (d), for “52” substitute “ 52A to 52C ”.
+
+**5** In Schedule 3 (reserved matters), in paragraph 42(a), for “and 28” substitute “ , 28, 28A and 28B ”.
+
+### Northern Ireland Act 2000 (c. 1)
+
+**6** In section 1 of the 2000 Act (suspension of devolved government in Northern Ireland), in subsection (5), for “section 52” substitute “ section 52A, 52B ”.
+
+## [^F7]SCHEDULE 8 — Reconstitution of district policing partnerships
+
+*Section 20(1)*
+
+### [^F7]Introduction
+
+**[^F7]1** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F7]Report on whether DPPs meet the political condition
+
+**[^F7]2** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F7]Appointment of political members of DPPs which do not meet the political condition
+
+**[^F7]3** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F7]Appointment of independent members of DPPs which do not meet the political condition
+
+**[^F7]4** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F7]Supplementary provisions
+
+**[^F7]5** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## [^F8]SCHEDULE 9 — District policing partnerships: Belfast sub-groups
+
+*Section 20(2)*
+
+### [^F8]Introduction
+
+**[^F8]1** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F8]Effect of local government election on membership of sub-group
+
+**[^F8]2** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F8]Removal of members of sub-group from office
+
+**[^F8]3** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F8]Chairman and vice-chairman of sub-group
+
+**[^F8]4** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+---
+
+[^F1]: S. 1(1)(2) repealed (8.5.2007) by Northern Ireland (St Andrews Agreement) Act 2006 (c. 53), s. 2(2), Sch. 2 para. 7(a) (as amended by 2007 c. 4, s. 1); S.I. 2007/1397, art. 2
+[^F2]: S. 20 repealed (1.4.2012) by Justice Act (Northern Ireland) 2011 (c. 24), s. 111(3), Sch. 8 Pt. 2; S.R. 2012/142, art. 2(e)
+[^F3]: S. 27(6) repealed (1.4.2012) by Justice Act (Northern Ireland) 2011 (c. 24), s. 111(3), Sch. 8 Pt. 2; S.R. 2012/142, art. 2(e)
+[^F4]: Sch. 1 repealed (8.5.2007) by Northern Ireland (St Andrews Agreement) Act 2006 (c. 53), s. 2(2), Sch. 2 para. 7(b) (as amended by 2007 c. 4, s. 1); S.I. 2007/1397, art. 2
+[^F5]: Sch. 3 repealed (10.5.2007) by Northern Ireland (St Andrews Agreement) Act 2006 (c. 53), s. 2(5), Sch. 4 para. 3 (as amended by 2007 c. 4, s. 1); S.I. 2007/1397, art. 2
+[^F6]: Words in Sch. 4 para. 2(1) substituted (5.7.2010) by Northern Ireland Assembly Members Act 2010 (c. 16), ss. 1(13), 3(3); S.I. 2010/1726, art. 2
+[^F7]: Sch. 8 repealed (1.4.2012) by Justice Act (Northern Ireland) 2011 (c. 24), s. 111(3), Sch. 8 Pt. 2; S.R. 2012/142, art. 2(e)
+[^F8]: Sch. 9 repealed (1.4.2012) by Justice Act (Northern Ireland) 2011 (c. 24), s. 111(3), Sch. 8 Pt. 2; S.R. 2012/142, art. 2(e)

@@ -1,0 +1,5672 @@
+---
+title: "Local Government (Wales) Act 1994"
+identifier: "ukpga/1994/19"
+citation: "1994 c.19"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S+N.I."
+date: 1994-07-05
+last_amended: 2025-09-10
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/1994/19"
+source_modified: 2025-09-16
+retrieved: 2026-10-11
+---
+
+# Local Government (Wales) Act 1994
+
+**1994 c.19**
+
+An Act to make provision with respect to local government in Wales.
+
+[5th July 1994]
+
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## PART I — Local Government Areas in Wales
+
+### The new areas and their councils
+
+#### 1 The local government areas.
+
+(1) For section 20 of the [^M1]Local Government Act 1972 (“the 1972 Act”) substitute—
+
+> **20 New principal local government areas in Wales.**
+>
+> (1) For the administration of local government on and after 1st April 1996, the local government areas in Wales shall be—
+>
+> (a) the new principal areas; and
+>
+> (b) the communities.
+>
+> (2) The new principal areas (determined by reference to areas which, immediately before the passing of the Local Government (Wales) Act 1994, are local government areas) are set out in Parts I and II of Schedule 4 to this Act.
+>
+> (3) Each of the new principal areas shall have the name given to it in Schedule 4.
+>
+> (4) The new principal areas set out in Part I of Schedule 4 shall be counties and those set out in Part II of that Schedule shall be county boroughs.
+>
+> (5) In this Act “principal area”, in relation to Wales, means a county or county borough.
+>
+> (6) The counties which were created by this Act, as originally enacted, as counties in Wales, and the districts within them, shall cease to exist on 1st April 1996 except that the preserved counties shall continue in existence (with, in some cases, modified boundaries) for certain purposes.
+>
+> (7) The councils of the counties and districts mentioned in subsection (6) above shall cease to exist on 1st April 1996.
+>
+> (8) The areas of the preserved counties are set out in Part III of Schedule 4 and are determined by reference to local government areas in existence immediately before the passing of the Local Government (Wales) Act 1994.
+>
+> (9) The Secretary of State may by order change the name by which any of the preserved counties is for the time being known.
+>
+> (10) Any such order shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+>
+> (11) The Welsh name of each of the new principal areas is shown in Schedule 4 immediately after its English name.
+
+(2) Schedule 1 substitutes new Parts I, II and III in Schedule 4 to the 1972 Act.
+
+(3) Schedule 2 provides for the application of certain enactments in relation to the preserved counties.
+
+(4) Section 270(1) of the 1972 Act (definitions) is amended as follows.
+
+(5) In the definition of “local authority” for “or community council” substitute “ council but, in relation to Wales, means a county council, county borough council or community council; ”.
+
+(6) In the definition of “local government area”, for paragraph (b), substitute—
+
+> - (b) in relation to Wales, a county, county borough or community;
+
+.
+
+(7) After the definition of “prescribed” insert—
+
+> - “preserved county” means any county created by this Act as a county in Wales, as it stood immediately before the passing of the Local Government (Wales) Act 1994 but subject to any provision of the Act of 1994, or any provision made under this Act, redrawing its boundaries;
+
+.
+
+(8) In the definition of “principal area” insert at the end “ but, in relation to Wales, means a county or county borough. ”
+
+#### 2 Constitution of new principal councils in Wales.
+
+For section 21 of the 1972 Act substitute—
+
+> **21 Constitution of principal councils in Wales.**
+>
+> (1) For every principal area in Wales there shall be a council consisting of a chairman and councillors.
+>
+> (2) Each such council shall be a body corporate and shall have the functions given to them by this Act or otherwise.
+>
+> (3) Each council for a county in Wales shall have the name of the county with the addition—
+>
+> (a) in the case of their English name, of the words “County Council” or the word “Council” (as in “Cardiganshire County Council” or “Cardiganshire Council”); and
+>
+> (b) in the case of their Welsh name, of the word “Cyngor” (as in “Cyngor Sir Aberteifi”).
+>
+> (4) Each council for a county borough in Wales shall have the name of the county borough with the addition—
+>
+> (a) in the case of their English name, of the words “County Borough Council” or the word “Council” (as in “Caerphilly County Borough Council” or “Caerphilly Council”); and
+>
+> (b) in the case of their Welsh name, of the words “Cyngor Bwrdeistref Sirol” or the word “Cyngor” (as in “Cyngor Bwrdeistref Sirol Caerffili” or “Cyngor Caerffili”).
+>
+> (5) In the case of Abertawe, Caerdydd and Powys subsection (3)(b) above shall have effect as if it required the addition of the words “Cyngor Sir”.
+
+#### 3 Establishment of new principal councils.
+
+Schedule 3 makes provision (by substituting a new Schedule for Schedule 5 to the 1972 Act) with respect to the establishment of the new principal councils, on a date in 1995 to be fixed by the Secretary of State, and the election of their members.
+
+#### 4 Elections of councillors.
+
+(1) For section 25(2) of the 1972 Act (electoral divisions) substitute—
+
+> (2) For the purpose of the election of councillors, every principal area in Wales shall be divided into electoral divisions, each returning such number of councillors as may be provided by an order under paragraph 2 of Schedule 5 to this Act or under or by virtue of the provisions of Part IV of this Act.
+>
+> (3) There shall be a separate election for each electoral division.
+
+(2) For section 26 of the 1972 Act substitute—
+
+> **26 Elections of councillors.**
+>
+> (1) The ordinary elections of councillors of the new principal councils shall take place in 1995 and in every fourth year after 1995.
+>
+> (2) The term of office of every such councillor shall be four years.
+>
+> (3) On the fourth day after any such ordinary election—
+>
+> (a) the persons who were councillors immediately before the election shall retire; and
+>
+> (b) the newly elected councillors shall assume office.
+
+#### 5 Change of status from county to county borough.
+
+For section 245A of the 1972 Act substitute—
+
+> **245A Change of status of Welsh county to county borough.**
+>
+> (1) Where a petition is presented to Her Majesty by the council of a county in Wales praying for the grant of a charter under this section, Her Majesty, on the advice of Her Privy Council, may by charter confer on that county the status of a county borough.
+>
+> (2) No such petition shall be presented unless a resolution of the council has been passed by not less than two-thirds of the members voting at a meeting of the council specially convened for the purpose.
+>
+> (3) No charter under this section shall take effect before 1st April 1996.
+>
+> (4) A county borough which has acquired that status by a charter under this section—
+>
+> (a) shall be a county borough; but
+>
+> (b) shall not be treated as a borough for the purposes of any Act passed before 1st April 1974.
+>
+> (5) This section shall have effect subject to any provision made by a grant under Her Majesty’s prerogative and, in particular, to any provision granting the status of a royal borough or conferring any style on any person.
+
+### Electoral arrangements
+
+#### 6 Review of electoral arrangements for new principal areas.
+
+[^F1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 7 Rules to be observed in considering electoral arrangements.
+
+(1) Schedule 11 to the 1972 Act (rules to be observed in considering electoral arrangements) shall be amended as follows.
+
+(2) In paragraph 1 (rules for counties)—
+
+(a) in sub-paragraph (1), at the end add “ but does not apply in relation to any county in Wales ”; and
+
+(b) in sub-paragraph (2)(c) and (d), omit “or community”, in each place.
+
+(3) After paragraph 1 insert—
+
+> **1A Welsh counties and county boroughs**
+>
+> (1) This paragraph applies to the consideration by the Secretary of State or the Welsh Commission of the electoral arrangements for elections of councillors for principal areas in Wales.
+>
+> (2) Subject to any direction under sub-paragraph (3) below, the Welsh Commission shall, when considering the arrangements for elections of councillors for any principal area in Wales, provide for there to be a single member for each electoral division.
+>
+> (3) The Secretary of State may give a direction to the Welsh Commission requiring it to consider the desirability of providing for multi-member electoral divisions for the area to which the direction relates (which may be the whole or a specified part of a principal area in Wales).
+>
+> (4) For the purposes of this paragraph, an electoral division is a multi-member division if the arrangements made for the elections of councillors provide for a specified number of councillors (greater than one) to be elected for that division.
+>
+> (5) Having regard to any change in the number or distribution of the local government electors of the principal area likely to take place within the period of five years immediately following the consideration—
+>
+> (a) subject to paragraph (b), the number of local government electors shall be, as nearly as may be, the same in every electoral division in the principal area;
+>
+> (b) where there are one or more multi-member divisions, the ratio of the number of local government electors to the number of councillors to be elected shall be, as nearly as may be, the same in every electoral division in the principal area (including any that are not multi-member divisions);
+>
+> (c) every ward of a community having a community council (whether separate or common) shall lie wholly within a single electoral division; and
+>
+> (d) every community which is not divided into community wards shall lie wholly within a single electoral division.
+>
+> (6) Subject to sub-paragraph (5) above, in considering the electoral arrangements referred to in sub-paragraph (1) above, regard shall be had to—
+>
+> (a) the desirability of fixing boundaries which are and will remain easily identifiable; and
+>
+> (b) any local ties which would be broken by the fixing of any particular boundary.
+
+(4) In paragraph 4, after “Commissions” insert “ by a Welsh principal council ”.
+
+### Communities and their councils
+
+#### 8 Community meetings and continuation of community councils.
+
+For section 27 of the 1972 Act substitute—
+
+> **Communities**
+>
+> **27 Community meetings and continuation of community councils.**
+>
+> (1) A meeting of the local government electors for a community (“a community meeting”) may be convened for the purpose of discussing community affairs and exercising any functions conferred by any enactment on such meetings.
+>
+> (2) The community councils in existence on 1st April 1996 shall, subject to any provision made under this Act, continue in existence after that date.
+>
+> (3) Subsection (4) below applies where—
+>
+> (a) the name of a community was given only in its English form or only in its Welsh form; but
+>
+> (b) there is a generally accepted alternative form of that name, or alternative name, in Welsh or (as the case may be) in English.
+>
+> (4) The principal council within whose area the community lies shall, before 1st October 1997, take such steps as may be prescribed with a view to securing that there is both an English and a Welsh name for the community.
+
+#### 9 Establishment, dissolution and grouping etc. of community councils.
+
+For section 28 of the 1972 Act substitute—
+
+> **28 Establishment or dissolution of community councils.**
+>
+> (1) A community meeting of a community which does not have a separate community council may apply to the principal council within whose area it lies for an order establishing a council for the community.
+>
+> (2) A community meeting of a community which has a separate community council may apply to the principal council within whose area it lies for an order dissolving the community council.
+>
+> (3) If, on any application under this section, the principal council are satisfied that the relevant requirements of section 29B below and Schedule 12 to this Act have been complied with, they shall make the order applied for.
+>
+> (4) An order under this section establishing a separate community council for a community shall make such provision as appears to the council making it to be necessary for the election of a community council in accordance with this Act and Part I of the Representation of the [^M2]People Act 1983.
+>
+> (5) An order under this section establishing a separate community council for a community grouped under a common community council shall not be made unless—
+>
+> (a) the community is separated from the group, or
+>
+> (b) the group is dissolved,
+>
+> by the order, or by an order under section 29A below.
+>
+> (6) Where, in a case to which subsection (5) above applies, the group is not dissolved, the order under this section shall make such provision as appears to the principal council making it to be necessary for the alteration of the group’s community council.
+>
+> (7) Subject to section 30 below, an application under subsection (1) or (2) above may be made at any time.
+>
+> (8) This section is subject to section 29B below.
+
+#### 10 Community councils for groups of communities.
+
+For section 29 of the 1972 Act substitute—
+
+> **29 Community councils for groups of communities.**
+>
+> (1) A community meeting of a community may apply to the principal council within whose area the community is situated—
+>
+> (a) for an order grouping the community with some neighbouring community or communities which lie in the same principal area as the applicant, under a common community council, or
+>
+> (b) for an order adding the community to a group of communities—
+>
+> (i) which are all in the area of the same principal council as the community; and
+>
+> (ii) for which there is a common community council.
+>
+> (2) If, on any application under this section, the principal council are satisfied that—
+>
+> (a) the relevant requirements of section 29B below and Schedule 12 to this Act have been complied with, and
+>
+> (b) in the case of an application under subsection (1)(b) above, that a community meeting of each of the communities in the group has consented to the applicant becoming a member of the group,
+>
+> they shall make the order applied for.
+>
+> (3) Subject to section 30 below, an application under subsection (1) above may be made at any time.
+>
+> (4) An order under this section shall provide for the name of the group in both an English and a Welsh form.
+>
+> (5) An order under this section shall—
+>
+> (a) make such provision as appears to the council making it to be necessary for the election, in accordance with this Act and Part I of the Representation of the [^M3]People Act 1983, of separate representatives on the community council for each community or for the wards of any community or, in the case of an order which adds a community to a group, for that community or for the wards of that community; and
+>
+> (b) provide for the dissolution of the separate community council of any community included in the group.
+>
+> (6) An order under this section shall make such provision as appears to the council making it to be necessary for the application to the communities included in the group of all or any of the provisions of section 79 of the [^M4]Charities Act 1993 (parochial charities) and of any of the provisions of this Act with respect to the custody of community documents, so as to preserve the separate rights of each community.
+>
+> (7) An order under this section may provide for any necessary adaptations of this Act in relation to the group of communities.
+>
+> (8) This section is subject to section 29B below.
+
+#### 11 Community councils for groups of communities: dissolution.
+
+After section 29 of the 1972 Act, insert—
+
+> **29A Community councils for groups of communities: dissolution.**
+>
+> (1) The council of a group of communities may apply to the principal council within whose area the communities lie for an order dissolving the group.
+>
+> (2) A community meeting of a community included in a group of communities may apply to the principal council within whose area the community lies for an order separating the community from the group.
+>
+> (3) If, on any application under this section, the principal council are satisfied that—
+>
+> (a) the relevant requirements of section 29B below and Schedule 12 to this Act have been complied with, and
+>
+> (b) in the case of an application under subsection (1) above, that a community meeting of each of the communities in the group has consented to the dissolution of the community council,
+>
+> they shall make the order applied for.
+>
+> (4) Where a community council are dissolved by an order under this section, the order shall make such provision as appears to the principal council to be necessary for the election of a community council for any of the communities in the group in accordance with this Act and Part I of the Representation of the [^M5]People Act 1983.
+>
+> (5) Where a community is separated from a group by an order under this section, the order shall make such provision as appears to the principal council to be necessary for the election of a community council for the community in accordance with this Act and Part I of the Representation of the [^M6]People Act 1983.
+>
+> (6) Subject to section 30 below, an application under subsection (1) above may be made at any time.
+>
+> (7) This section is subject to section 29B below.
+
+#### 12 Community councils: supplemental provisions.
+
+(1) After section 29A of the 1972 Act, insert—
+
+> **29B Community councils: applications under section 28, 29 or 29A.**
+>
+> (1) An application under section 28, 29 or 29A above may be made only if—
+>
+> (a) a poll of the local government electors in the community has been held;
+>
+> (b) a majority of those voting in the poll supports the proposal; and
+>
+> (c) in the case of an application under section 29(1)(a), the application is made jointly with the communities to be grouped under the common community council.
+>
+> (2) In the case of an application under section 29A(1), paragraphs (a) and (b) of subsection (1) above apply in relation to each of the communities concerned.
+>
+> (3) The consent required by section 29(2)(b) or 29A(3)(b) above may be given by a community meeting only if—
+>
+> (a) a poll of the local government electors in the community has been held; and
+>
+> (b) a majority of those voting in the poll supports the proposal.
+>
+> (4) At any community meeting at which there is discussed a proposal—
+>
+> (a) for the establishment, or for the dissolution, of a community council,
+>
+> (b) for the grouping of the community with another community or communities (on an application under section 29(1)(a) or (b) above), under a common community council;
+>
+> (c) for the separation of the community from the communities with which it is grouped under a common community council;
+>
+> (d) for the dissolution of the common community council for the communities with which it is grouped;
+>
+> (e) for the giving of the consent required by section 29(2)(b) or 29A(3)(b) above,
+>
+> a decision to hold a poll on the question shall be effective only if not less than the required number of local government electors is present and voting.
+>
+> (5) The required number of local government electors is such number as is equal to 30% of the local government electorate or, if that number exceeds 300, is 300.
+>
+> (6) No poll shall be held for the purposes of this section before the end of the period of 42 days beginning with the day on which the decision to hold the poll was taken.
+>
+> (7) Paragraph 34 of Schedule 12 to this Act (voting at community meetings) shall have effect subject to the provisions of this section.
+>
+> (8) Where the result of any poll (“the previous poll”) held for the purposes of this section is the rejection of the proposal with respect to which the poll was held, no further poll on that question shall be held before the end of the period of two years beginning with the date on which the previous poll was held.
+
+(2) For sub-paragraphs (2) and (3) of paragraph 30 of Schedule 12 to the 1972 Act substitute—
+
+> (2) Except in a case falling within sub-paragraph (3) below, public notice of any community meeting shall be given not less than 7 clear days before the meeting.
+>
+> (3) Where any business proposed to be transacted at a community meeting relates to any of the matters mentioned in section 29B(4) of this Act, public notice of the meeting shall be given not less than 30 clear days before the meeting.
+>
+> (3A) The notice required by sub-paragraph (2) or (3) above shall—
+>
+> (a) specify the time and place of the intended meeting;
+>
+> (b) specify the business to be transacted at the meeting; and
+>
+> (c) be signed by the person or persons convening the meeting.
+
+#### 13 Constitution and powers of community councils.
+
+For section 33 of the 1972 Act substitute—
+
+> **33 Constitution and powers of community councils.**
+>
+> (1) A community council shall be a body corporate consisting of the chairman and community councillors and shall have the functions given to them by this Act or otherwise.
+>
+> (2) Each community council shall have the name of the community, with the addition—
+>
+> (a) in English, of the words “Community Council” (as in “Dale Community Council” or “Llandrillo Community Council”); and
+>
+> (b) in Welsh, of the words “Cyngor Cymuned” (as in “Cyngor Cymuned Dale” or “Cyngor Cymuned Llandrillo”).
+>
+> (3) A community council need not have a common seal.
+>
+> (4) Where a community council do not have a seal, any act of theirs which is required to be signified by an instrument under seal may be signified by an instrument signed and sealed by two members of the council.
+
+#### 14 Consultation with community councils.
+
+After section 33 of the 1972 Act insert—
+
+> **33A Consultation with community councils.**
+>
+> (1) The Secretary of State may by order designate any matter—
+>
+> (a) for the purposes of subsection (2) below; or
+>
+> (b) for the purposes of subsection (3) below.
+>
+> (2) Where a new principal council are to consider any proposal which relates to a matter which is designated for the purposes of this subsection, the council shall—
+>
+> (a) afford the relevant community councils an opportunity to make representations to them about the proposal;
+>
+> (b) before making any decision in relation to the proposal, take into account any representations made to them by any relevant community council with respect to the proposal; and
+>
+> (c) when they take a decision with respect to the proposal, notify without delay any relevant community council by whom any such representations have been made.
+>
+> (3) If a community council have given written notice to the relevant principal council—
+>
+> (a) that they wish to be consulted about a specified proposal which is to be considered by the principal council, and which relates to a matter designated for the purposes of this subsection, or
+>
+> (b) that they wish to be consulted about any proposal which is to be considered by the principal council and which relates to such a matter,
+>
+> the principal council shall take the steps mentioned in subsection (2) above in relation to that community council.
+>
+> (4) An order under this section may—
+>
+> (a) prescribe circumstances (including, in particular, the need to act with urgency) in which subsections (2) and (3) above do not apply;
+>
+> (b) give the Secretary of State power, in such circumstances as may be prescribed by the order, to provide that in relation to any principal council specified by him, those subsections shall not apply or shall apply only to the extent specified by him.
+>
+> (5) A contravention of the duty imposed by subsection (2) or (3) above shall not affect the validity of any decision of a principal council or of anything done in pursuance of any such decision.
+>
+> (6) In this section—
+>
+> - “relevant community council”, in relation to a principal council, means the council of any community which is, or group of communities which are, within the area of the principal council; and
+> - “relevant principal council”, in relation to any community council, means the principal council within whose area the community is, or group of communities are, situated.
+>
+> (7) The power to make an order under this section shall include power—
+>
+> (a) to make such incidental, consequential, transitional or supplemental provision as the Secretary of State thinks necessary or expedient; and
+>
+> (b) to make different provision for different areas, including different provision for different localities and for different authorities.
+
+#### 15 Elections of community councillors.
+
+In section 35 of the 1972 Act (community councillors), for subsection (2) substitute—
+
+> (2) There shall be ordinary elections of community councillors in 1995 and in every fourth year thereafter.
+>
+> (2A) The term of office of the community councillors shall be four years.
+>
+> (2B) On the fourth day after any such ordinary election—
+>
+> (a) the persons who were councillors immediately before the election shall retire; and
+>
+> (b) the newly elected councillors shall assume office.
+
+#### 16 Community having the status of a town.
+
+After section 245A of the 1972 Act insert—
+
+> **245B Community having the status of a town.**
+>
+> (1) The council of a community which is not grouped with any other community may, subject to subsection (3) below, resolve that the community shall have the status of a town.
+>
+> (2) Where a community has the status of a town—
+>
+> (a) the town council shall have the name of the community with the addition—
+>
+> (i) in English, of the words “Town Council”; and
+>
+> (ii) in Welsh, of the words “Cyngor Tref”;
+>
+> (b) the chairman of the town council shall be entitled to the style of “town mayor” or “maer y dref”; and
+>
+> (c) the vice-chairman of the town council shall be entitled to the style of “deputy town mayor” or “dirprwy faer y dref”.
+>
+> (3) Where the provisions of section 27(4) above apply in relation to a community, the council of that community shall not pass a resolution under subsection (1) above unless it is satisfied that those provisions have been complied with in relation to the community.
+>
+> (4) Any such resolution shall cease to have effect if the community to which it relates ceases to exist.
+>
+> (5) If a community council which has passed such a resolution is dissolved without the community ceasing to exist, the dissolution shall not affect the status of the community.
+>
+> (6) A community council by whom a resolution has been passed under subsection (1) above or, if the council has been dissolved, a community meeting of the community may resolve that the resolution shall cease to have effect.
+>
+> (7) On the passing of a resolution under subsection (6) above, the community shall cease to have the status of a town.
+>
+> (8) This section shall have effect subject to any provision made by a grant under Her Majesty’s prerogative and, in particular, to any provision conferring any style on any person.
+
+## PART II — Functions
+
+### General
+
+#### 17 General provision for transfer of functions.
+
+(1) This section has effect for the purpose of adapting relevant legislative provisions and in particular for the purpose of providing for the exercise of functions conferred by such provisions.
+
+(2) A provision is a “relevant legislative provision” for the purposes of this section if it is a provision of—
+
+(a) any public general Act passed before, or during the same Session as, this Act; or
+
+(b) an instrument which—
+
+(i) was made before the passing of this Act, under a public general Act; and
+
+(ii) is of a legislative character but is not in the nature of a local enactment.
+
+(3) This section has effect subject to any provision made by, or by any instrument under, this Act and is not to be taken as affecting any provision so made.
+
+(4) In any relevant legislative provision—
+
+(a) any reference to an area which is the area of a county council or the area of a district council, and
+
+(b) any reference which is to be construed as a reference to such an area,
+
+shall be construed, in relation to Wales, as a reference to a new principal area.
+
+(5) In any relevant legislative provision—
+
+(a) any reference to the council of a county or district, and
+
+(b) any reference which is to be construed as such,
+
+shall be construed, in relation to Wales, as a reference to the council of a new principal area.
+
+(6) Where, in relation to any relevant legislative provision, any question arises as to which new principal area is the appropriate new principal area for the purposes of that provision, that question shall be determined by order made by the Secretary of State.
+
+(7) Where any relevant legislative provision is by virtue of this section to be construed in accordance with subsection (4) or (5)—
+
+(a) it shall be so construed subject to any modifications necessary to give full effect to the provision; and
+
+(b) the Secretary of State may by order make such amendments or other modifications of the provision as he considers necessary or expedient in consequence of any provision made by or under this Act.
+
+### Planning
+
+#### 18 New principal councils to be local planning authorities in Wales.
+
+(1) In this Act references to the planning Act are references to the [^M7]Town and Country Planning Act 1990.
+
+(2) Section 1 of the planning Act (local planning authorities) is amended as follows.
+
+(3) After subsection (1), insert—
+
+> (1A) Subsection (1) does not apply in relation to Wales.
+>
+> (1B) In Wales—
+>
+> (a) the local planning authority for a county is the county council; and
+>
+> (b) the local planning authority for a county borough is the county borough council.
+
+(4) After subsection (4), insert—
+
+> (4A) Subsection (4) does not apply in relation to Wales.
+>
+> (4B) As to any site in Wales, the local planning authority is also the mineral planning authority.
+
+(5) At the end of the section add—
+
+> (6) The exercise, in relation to Wales, of functions conferred on local planning authorities is subject to section 4(3) and Schedule 1A.
+
+(6) In subsection (3), omit the words “and in Wales” and in subsection (5)—
+
+(a) in paragraph (a), for “subsections (1) to (4) have” substitute “ this section has ”; and
+
+(b) in paragraph (b), for “(1) and (2)” substitute “ (1) to (2) ”.
+
+(7) Schedule 4 inserts a new Schedule 1A in the planning Act.
+
+#### 19 Joint and special planning boards in Wales.
+
+(1) In section 2 of the planning Act (joint planning boards), after subsection (1) insert—
+
+> (1A) Subsection (1) does not apply in relation to Wales.
+>
+> (1B) If it appears to the Secretary of State that it is expedient that a joint board should be established as the local planning authority for two or more areas, each of which is the whole or part of a Welsh county or county borough, he may by order—
+>
+> (a) constitute those areas or parts as a united district for the purposes of this Act; and
+>
+> (b) constitute a joint board as the local planning authority for that united district.
+>
+> (1C) A joint board constituted under subsection (1) or (1B) shall be known as a “joint planning board”.
+
+[^F2]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F2]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) In section 2 of the planning Act—
+
+(a) in subsection (1), omit the words “(in this Act referred to as a “joint planning board”)”;
+
+(b) in subsection (2), for the words “such an order” substitute “ an order under subsection (1) or (1B) ”;
+
+(c) in subsection (3), after “county” insert “ or county borough ” (in both places); and
+
+(d) in subsection (4), after “(1)” insert “ or (1B) ”.
+
+#### 20 Unitary development plans and National Parks.
+
+(1) After section 10 of the planning Act (application of Chapter I), insert—
+
+> **10A Application of Chapter I in relation to Wales.**
+>
+> (1) This Chapter also applies to the area of any local planning authority in Wales.
+>
+> (2) Subsections (3) and (4) apply where the area of a local planning authority in Wales includes—
+>
+> (a) the whole or any part of an area prescribed under section 23B(2) in relation to a National Park, and
+>
+> (b) other land.
+>
+> (3) The provisions of this Chapter apply separately in relation to—
+>
+> (a) the Park area or, if there is more than one, each Park area, and
+>
+> (b) the remaining area.
+>
+> (4) Any reference in any of the following sections of this Chapter to the area of the local planning authority (including any reference which falls to be so construed) shall be construed—
+>
+> (a) in its application in relation to any Park area, as a reference to that Park area, and
+>
+> (b) in its application in relation to the remaining area, as a reference to that area.
+>
+> (5) In this section—
+>
+> - “the Park area”, in relation to a National Park, means the part of the local planning authority’s area which is within the area prescribed under section 23B(2) in relation to that Park or, where there is more than one such part, those parts taken as a whole;
+> - “the remaining area” means the part of the local planning authority’s area which is not within the area so prescribed in relation to any National Park.
+
+[^F3]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) Schedule 5 shall have effect—
+
+(a) Part I making minor and consequential amendments to Part II of the planning Act,
+
+[^F4]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F4]c . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) Schedule 6 shall have effect—
+
+(a) Part I making minor and consequential amendments to the 1972 Act in relation to National Parks and countryside functions, and
+
+(b) Part II making minor and consequential amendments to enactments concerned with planning.
+
+### Education
+
+#### [^F5]21 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Transfer of other specific functions
+
+#### 22 Transfer of other specific functions.
+
+(1) Schedule 7 makes provision for the transfer to the new principal councils of functions in relation to highways, road traffic and transport.
+
+(2) Schedule 8 makes provision for the transfer to the new principal councils of functions in relation to housing.
+
+(3) Schedule 9 makes provision for the transfer to the new principal councils of functions in relation to public health and related matters.
+
+(4) Schedule 10 makes provision for the transfer to the new principal councils of functions in relation to social services.
+
+(5) Schedule 11 makes provision for the transfer to the new principal councils of functions in relation to water, land drainage and coast protection.
+
+(6) Each of the Schedules referred to in this section includes minor and consequential amendments of other enactments.
+
+#### 23 Fire services.
+
+(1) In section 4 of the [^M8]Fire Services Act 1947 (fire authorities), after second “county” insert “ or, in Wales, of every county or county borough ”.
+
+(2) A combination scheme may be made under section 5 or 6 of the Act of 1947, before 1st April 1996, with respect to two or more areas each of which is a new principal area.
+
+(3) Where any such combination scheme is made before 1st April 1996, it shall not come into force until that date, except so far as it relates to—
+
+(a) the constitution of an authority as the fire authority for the combined area constituted by the scheme, and
+
+(b) the performance by that authority of any functions necessary for bringing the scheme into full operation on that date.
+
+(4) Where the Secretary of State proposes to make such a combination scheme—
+
+(a) subsection (2) of section 6 of the Act of 1947 shall until 1st April 1996 be taken to require him to give notice to—
+
+(i) any existing fire authority whose area lies wholly or partly within the proposed combined area; and
+
+(ii) each of the new principal councils concerned; and
+
+(b) the requirement in that subsection with respect to public local inquiries shall not apply if—
+
+(i) the proposed scheme relates only to new principal areas; and
+
+(ii) the notice is given before 1st April 1996.
+
+(5) Any such notice shall specify a period for making representations with respect to the proposed scheme.
+
+(6) Where the Secretary of State has given notice of a proposed scheme, in a case to which subsection (4) applies, he shall consider any representations which are made to him before the end of the specified period by any body to whom notice was given.
+
+#### [^F6]24 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Services
+
+#### 25 Provision of services by one new principal council for another.
+
+(1) Any new principal council (“the contracting council”) may enter into an agreement with another such council (“the supplying council”) for the provision by the supplying council of services which the contracting council require for the purpose of, or in connection with, the discharge of any of their functions.
+
+(2) Any agreement under subsection (1) (a “service agency agreement”) may be made on such terms as to payment or otherwise as the parties consider appropriate.
+
+(3) Subsection (1) is subject to—
+
+(a) the provisions made by or under this Act;
+
+(b) any other enactment which provides for specific functions of a local authority to be discharged only by that authority;
+
+(c) any other enactment which imposes requirements which must be satisfied before a local authority may enter into any agreement of the kind provided for by subsection (1) including, in particular, the provisions of—
+
+(i) Part III of the [^M9]Local Government, Planning and Land Act 1980 (restrictions on use by local authorities of direct labour organisations); and
+
+(ii) Part I of the [^M10]Local Government Act 1988 (local authorities to undertake certain activities only if they can do so competitively).
+
+(4) The power conferred by subsection (1) shall be exercisable subject to such regulations (if any) as the Secretary of State sees fit to make for the purposes of this section.
+
+(5) Any such regulations may, in particular, make provision—
+
+(a) excluding prescribed matters from those which may be the subject of a service agency agreement;
+
+(b) restricting (whether by reference to one or more areas or otherwise) the councils with which a principal council may make a service agency agreement;
+
+(c) restricting the area or areas with respect to which the supplying council may provide services under a service agency agreement.
+
+(6) As respects the exercise of any of their other statutory powers, anything which falls to be done by the supplying council under a service agency agreement shall be treated as one of their statutory functions.
+
+(7) The provisions of the [^M11]Local Authorities (Goods and Services) Act 1970 (supply of goods and services by local authorities) do not affect, and are not affected by, the powers conferred on new principal councils by this section.
+
+(8) In section 1(4) of that Act (authorities to which Act applies), for “any county” substitute “ any county, county borough ”.
+
+[^F7]9 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 26 Service delivery plans.
+
+[^F8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## [^F9]PART III — Decentralisation and Joint Working
+
+### [^F9] Decentralisation schemes
+
+#### [^F9]27 Decentralisation schemes: preparation.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F9]28 Decentralisation schemes: approval and implementation.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F9]29 Area committees: safeguards.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F9]30 Area committees: membership etc.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F9]31 Sub-committees of area committees.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F9] Joint working
+
+#### [^F9]32 Provision of information to Secretary of State.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F9]33 Joint working arrangements.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F9]34 Joint authorities.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART IV — Finance
+
+### 35 Council tax, rating and the community charge.
+
+(1) The new principal councils shall be billing authorities in relation to the financial year beginning on 1st April 1996 and in relation to subsequent financial years.
+
+(2) In this section “billing authority” means an authority which is a billing authority for the purposes of—
+
+(a) Part I of the [^M12]Local Government Finance Act 1992 (council tax); and
+
+(b) Part III of the [^M13]Local Government Finance Act 1988 (non-domestic rating).
+
+(3) In the period before 1st April 1996, the old authorities concerned shall continue to exercise their functions as billing authorities in respect of matters arising in connection with financial years before the financial year beginning on that date.
+
+(4) After 31st March 1996, the new principal councils shall have the same functions in relation to council tax, rating (including non-domestic rating) and the community charge as the old authorities would have had—
+
+(a) in connection with those matters, and
+
+(b) in relation to any financial year beginning before 1996,
+
+if the old authorities had not been abolished.
+
+(5) For section 1(2) of the Act of 1992 substitute—
+
+> (2) In this Part “billing authority” means—
+>
+> (a) in relation to England, a district council or London borough council, the Common Council or the Council of the Isles of Scilly, and
+>
+> (b) in relation to Wales, a county council or county borough council.
+
+(6) In section 39(1) of the Act of 1992 (precepting authorities), in paragraph (a) at the end add “in England”.
+
+### 36 Valuation lists for Welsh billing authorities.
+
+After section 22 of the [^M14]Local Government Finance Act 1992, insert—
+
+> **22A Amalgamated valuation lists for Welsh billing authorities.**
+>
+> (1) Every new listing officer shall, on 1st April 1996, compile a list (“the amalgamated list”) for the new billing authority for which he is appointed, based on the information provided for him under this section.
+>
+> (2) The amalgamated list shall contain the information which was included in the valuation lists compiled on 1st April 1993 for the old billing authorities (“the current lists”) so far as that information is relevant.
+>
+> (3) The amalgamated list shall also include the information which was included in any current list by way of an alteration, so far as that information is relevant.
+>
+> (4) A new listing officer’s amalgamated list shall be treated, for the purposes of this Act, as the valuation list for his new billing authority and shall be deemed to have come into force on 1st April 1993.
+>
+> (5) Where an amalgamated list contains information which is derived from any alteration made to any valuation list or lists from which it is derived, the amalgamated list shall be treated as having been varied on the date on which the alteration was made.
+>
+> (6) Subsections (2) to (8) of section 22 above shall not apply in relation to an amalgamated list.
+>
+> (7) Every listing officer shall—
+>
+> (a) on or before 15th November 1995, provide the appropriate new listing officer with the information recorded in his valuation list as at 31st October 1995 so far as it is relevant; and
+>
+> (b) on 31st March 1996, provide the appropriate new listing officer with the information recorded in his valuation list as at that date, so far as it is relevant.
+>
+> (8) A new listing officer receiving any information under subsection (7)(a) above shall send a copy of it to his new billing authority as soon as is reasonably practicable.
+>
+> (9) As soon as is reasonably practicable after compiling the amalgamated list, a new listing officer shall send a copy of it to his new billing authority.
+>
+> (10) A new billing authority receiving a copy of an amalgamated list under subsection (9) above shall, as soon as is reasonably practicable, deposit it at its principal office.
+>
+> (11) In this section—
+>
+> - “old authority” has the same meaning as in the Local Government (Wales) Act 1994;
+> - “old billing authority” means a billing authority which is an old authority;
+> - “new billing authority” means a billing authority which is a new principal council;
+> - “listing officer” means a listing officer for an old billing authority;
+> - “new listing officer” means a listing officer for a new billing authority; and
+> - “new principal council” has the same meaning as in the Local Government (Wales) Act 1994.
+>
+> (12) For the purposes of this section—
+>
+> (a) references to a listing officer’s valuation list are references to the valuation list maintained by him under this Act;
+>
+> (b) a new listing officer’s area is the area of the new billing authority for which he is appointed;
+>
+> (c) the appropriate new listing officer, in relation to any information which relates to a dwelling is the new listing officer for the new billing authority in whose area the dwelling is situated; and
+>
+> (d) information is relevant in relation to a new listing officer, or his area, if it relates to a dwelling which is in his area.
+
+### [^F10]37 Local non-domestic rating lists for Welsh billing authorities.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 38 Council funds for new principal councils.
+
+(1) Each new principal council shall establish, and then maintain, a fund to be known as their council fund.
+
+(2) Any sums received by a new principal council shall be paid into their council fund.
+
+(3) All payments by a new principal council shall be made out of their council fund.
+
+(4) Subsections (2) and (3) do not apply in relation to any sums to be paid into, or payments to be made out of, a trust fund.
+
+(5) Section 101(1)(b) of the 1972 Act (delegation) shall not apply as regards the functions of a new principal council in relation to their council fund.
+
+(6) Each new principal council shall keep accounts of sums paid into, and of payments made out of, their council fund.
+
+(7) Any account kept only in respect of the general expenses of a new principal council shall be known as their general account and any account kept only in respect of any class of their special expenses shall be known as a special account.
+
+(8) The Secretary of State may make regulations—
+
+(a) requiring assets of a prescribed description which fall within a council fund to be held in a separate fund within the council fund;
+
+(b) requiring any fund (other than a trust fund) of a prescribed description which is established by a new principal council to be maintained as a separate fund within their council fund.
+
+(9) The Secretary of State may by regulations make provision with respect to the liability of new principal councils to make payments from their council funds in respect of precepts issued under Chapter IV of Part I of the [^M15]Local Government Finance Act 1992.
+
+[[^F11](9A) The National Assembly for Wales may by regulations make provision for the sharing among a new principal council and major precepting authorities, in accordance with rules specified in the regulations, of an amount equal to all or part of any deduction that, in accordance with provision under paragraph 4(4A) of Schedule 8 to the Local Government Finance Act 1988 (local retention of rates), falls to be made in calculating the council’s non-domestic rating contribution for a financial year.]
+
+(10) [[^F12]Regulations under subsection (9) or (9A)] may, in particular, include provision—
+
+(a) that anything falling to be paid must be paid—
+
+(i) within a prescribed period; and
+
+(ii) in instalments of such amounts, and at such times, as are determined by the billing authority in accordance with prescribed rules;
+
+(b) that the billing authority must inform any precepting authorities when instalments will be paid and how they are to be calculated;
+
+(c) that if an instalment is not paid to a precepting authority in accordance with the regulations, it is to be entitled to interest on the amount of the instalment;
+
+(d) as to the circumstances in which the billing authority is to be treated as having discharged the liability mentioned in subsection (9) [[^F13]or any liability arising under subsection (9A)];
+
+(e) as to the recovery (by deduction or otherwise) of any excess amount paid by the billing authority to any precepting authority in purported discharge of the liability mentioned in subsection (9) [[^F13]or any liability arising under subsection (9A)].
+
+(11) Schedule 12 makes minor and consequential amendments with respect to funds.
+
+[[^F14](12) In subsection (9A) “major precepting authority” has the meaning given by section 39(1) of the Local Government Finance Act 1992.]
+
+## PART V — Residuary matters and staff
+
+### [^F15]39 The Residuary Body for Wales or Corff Gweddilliol Cymru.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 40 The Staff Commission for Wales or Comisiwn Staff Cymru.
+
+[^F16]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 41 Continuity of employment in certain cases of voluntary transfer.
+
+(1) This section applies to a person (“the employee”) who at any time ceases to be employed by an old authority if—
+
+(a) the termination of his employment is attributable to any provision made by or under this Act;
+
+(b) he is subsequently employed by another person; and
+
+(c) by virtue of [[^F17]section 138 of the Employment Rights Act 1996] (renewal or re-engagement) that subsequent employment precludes his receiving any redundancy payment under [[^F17]Part XI] of that Act with respect to his terminated employment.
+
+(2) [[^F18]Chapter I of Part XIV of the Employment Rights Act 1996] (computation of period of employment for the purposes of that Act) shall have effect as if it provided—
+
+(a) for the period of the employee’s employment by the old authority to count as a period of employment with his new employer; and
+
+(b) for the change of employer not to break the continuity of the period of his employment.
+
+(3) For the purposes of any provision of the employee’s contract of employment with his new employer which depends on his length of service with that employer, the period of his employment with the old authority shall count as a period of employment with his new employer.
+
+### 42 Transfers of staff.
+
+(1) This section applies to any person (“a designated employee”) who, immediately before 1st April 1996 was employed by an abolished body under a contract of employment which would have continued but for the abolition of that body and who is designated, or falls within a class or description of person designated, for the purposes of this section by an order made, at any time, by the Secretary of State.
+
+(2) The contract of employment between a designated employee and the abolished body concerned shall not be terminated by the abolition of the body but shall have effect from 1st April 1996 as if originally made between him and such new employer as may be specified by the relevant designation order under this section.
+
+(3) Such an order may specify as the new employer a new principal council [^F19]....
+
+(4) Without prejudice to subsection (2)—
+
+(a) all the rights, powers, duties and liabilities of the abolished body under, or in connection with, the contract shall by virtue of this section be transferred on 1st April 1996 to the new employer; and
+
+(b) anything done before 1st April 1996 by or in relation to the abolished body in respect of the contract or the designated employee shall be deemed from that date to have been done by or in relation to the new employer.
+
+(5) Nothing in this section affects any right of a designated employee to terminate his contract of employment if a substantial change is made in his working conditions, to his detriment, but no such right shall arise by reason only of the change of employer effected by this section.
+
+(6) A class or description of person may be specified by an order under subsection (1) by reference to such list or other document or documents as may be identified in accordance with the order.
+
+(7) In this section “abolished body” means an old authority or any joint board which ceases to exist as a result of section 59.
+
+### 43 Compensation for loss of office or diminution of emoluments.
+
+(1) Where any person—
+
+(a) is, at any time after the passing of this Act, in the service of an old authority [[^F20]or a new principal council], and
+
+(b) suffers loss of employment or diminution of emoluments which is attributable to any provision made by or under this Act,
+
+compensation in respect of any such loss or diminution suffered by him shall be paid only in accordance with regulations made under section 24 of the [^M16]Superannuation Act 1972.
+
+(2) Accordingly, none of the bodies mentioned in subsection (1) shall pay any such compensation under any other statutory provision, by virtue of any provision in a contract or otherwise.
+
+(3) Subsections (1) and (2) do not preclude the making of any payment to which a person is entitled by virtue of contractual rights acquired by him before 1st December 1993.
+
+(4) No compensation shall be payable under regulations made under the [^M17]Superannuation Act 1972, to or in respect of a person to whom subsection (1) applies, in respect of any loss or diminution attributable to the termination of a late contract on or before 1st April 1996.
+
+(5) In subsection (4)—
+
+- “late contract” means a contract which is made after 30th November 1993 and provides for the employment of the person concerned for a fixed term extending beyond 31st March 1996; and
+- “loss or diminution” means loss or diminution of a kind mentioned in subsection (1).
+
+(6) For the purpose of determining under [[^F21]section 138 or 141 of the Employment Rights Act 1996]—
+
+(a) whether the provisions of a new contract offered to a person employed by any such body as is mentioned in subsection (1) differ from the corresponding provisions of his previous contract, and
+
+(b) whether employment under the new contract is suitable in relation to that person,
+
+there shall be treated as forming part of the remuneration payable under the new contract any compensation to which that person is or, if he accepted the offer, would be entitled in accordance with this section.
+
+(7) Subject to subsection (6), nothing in this section shall be taken to affect any entitlement to a redundancy payment under [[^F22]Part XI of the Employment Rights Act 1996] or to any payment by virtue of any provision of the [^M18]Superannuation Act 1972 other than section 24 of that Act.
+
+### 44 Redundancy payments.
+
+(1) In determining the effect of any provision of—
+
+(a) [[^F23]Part IX, X or XI of the Employment Rights Act 1996], or
+
+(b) Chapter II of Part IV of the [^M19]Trade Union and Labour Relations (Consolidation) Act 1992,
+
+in relation to a person whose contract of employment is terminated as a result of this Act, it shall be assumed that he was dismissed by the old authority concerned by reason of redundancy immediately before 1st April 1996 and that his dismissal was proposed by the authority.
+
+(2) For the purposes of this section—
+
+(a) a person’s contract of employment is terminated as a result of this Act if—
+
+(i) immediately before 1st April 1996 he was in the service of an old authority under a contract of employment which would have continued in force if that authority had not been abolished; and
+
+(ii) his contract of employment is not transferred to a new principal council [^F24]...; and
+
+(b) a contract of employment is transferred—
+
+(i) to a new principal council, if it is treated by any provision made by this Act, or by or under any other enactment, as continued in force with that council on 1st April 1996; [^F25]...
+
+[^F25]ii . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) The new principal council to whom an old authority’s liability as respects any redundancy payment under Part VI of the Act of 1978 is transferred under this Act shall be treated as the employer of the person concerned for the purposes of [[^F26]sections 164, 165, 170 and 179 of the Employment Rights Act 1996] (ancillary provisions about redundancy payments).
+
+(4) As respects any such redundancy payment, references to the relevant date in [[^F27]sections 155, 156, 162 and 164 of the Employment Rights Act 1996], and in Schedule 4 to that Act, shall be construed as references to 31st March 1996.
+
+### 45 Other compensation payments.
+
+(1) This section applies where any contract of employment made before 1st December 1993 is terminated as a result of this Act.
+
+(2) Subsection (2) of section 44 applies for the purposes of this section as it applies for the purposes of that section.
+
+(3) If the contract—
+
+(a) provided for the employee’s employment for a fixed term extending beyond 31st March 1996, but
+
+(b) did not provide for the earlier termination of the contract by the authority concerned,
+
+the employee shall be treated as having been entitled, immediately before 1st April 1996, to receive from the old authority an amount equal to the damages which he would have been entitled to recover from that authority if they had not been abolished but had dismissed him immediately before that date.
+
+(4) If the contract (whether or not for a fixed term) provided for its termination by the old authority on payment of compensation for loss of employment, the employee shall be treated as having been entitled, immediately before 1st April 1996, to receive from the old authority an amount equal to the compensation which he would have been entitled to receive from that authority if they had not been abolished but had terminated the contract immediately before that date.
+
+(5) In subsection (4) “compensation for loss of employment” does not include any payment to be made under the contract in lieu of notice.
+
+(6) Where the amount of compensation payable under a contract differs according to the reasons for termination of the contract, the amount payable by virtue of subsection (4) shall be determined on the assumption that the contract was terminated by reason of redundancy within the meaning of [[^F28]the Employment Protection (Consolidation) Act 1978].
+
+(7) The Secretary of State may by regulations exclude the operation of this section in prescribed circumstances (and, in particular, in cases of engagement by new principal councils).
+
+## PART VI — Transitional Provisions
+
+### [^F29]46 Committees of existing councils for consideration of certain matters.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 47 Old and new principal areas with the same name.
+
+(1) Where a local government area established by this Act (“the new area”) has the same name as a local government area (“the old area”) in existence at any time before the commencement of section 1(1), references in any enactment passed before this Act to the old area by name are not to be read as references to the new area.
+
+(2) This section is subject to any provision to the contrary made by or under this Act.
+
+### [^F30]48 Groups of communities.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 49 Charities.
+
+(1) Where, immediately before the commencement of this section, any property is held exclusively for charitable purposes by any of the old authorities, as sole trustee, that property shall vest on the same trusts in the appropriate council.
+
+(2) Where, immediately before the commencement of this section, any power with respect to a charity was vested in the proper officer of an old authority or in the holder of any other office of an old authority that power shall vest in the corresponding officer of the appropriate council.
+
+(3) Where, immediately before the commencement of this section, an old authority or any officer of an old authority is included among the charity trustees of a charity, those trustees shall include instead the appropriate council or (as the case may be) the corresponding officer of that council.
+
+(4) Where subsection (1) applies and the property in question is held for the benefit of—
+
+(a) a specified area,
+
+(b) the inhabitants of a specified area, or
+
+(c) any particular class or body of persons in a specified area,
+
+the appropriate council is the new principal council whose area comprises the whole, or the greater part, of the specified area.
+
+(5) In any other case falling within this section, the appropriate council is the new principal council whose area comprises the whole, or the greater part, of the area of the old authority in question.
+
+(6) The Secretary of State may by order make provision with respect to any of the matters dealt with by this section, either in substitution for the provision made by this section or by way of supplementing or modifying that provision, and either generally or in relation to prescribed cases or classes of case.
+
+(7) Nothing in this section—
+
+(a) affects any power of Her Majesty, the court or any other person to alter the trusts of any charity; or
+
+(b) applies in a case to which section 50 applies.
+
+(8) In this section “charity”, “charitable purposes”, “charity trustees”, “court” and “trusts” have the same meaning as in the [^M20]Charities Act 1993.
+
+### 50 Welsh Church funds.
+
+(1) The Secretary of State shall by order designate such new principal councils in relation to such areas in Wales as he considers appropriate for the purposes of this section.
+
+(2) Any property which, immediately before the commencement of this section, is vested in an old authority and is required to be applied in accordance with a scheme shall be vested in such designated new principal council as the Secretary of State may by order specify.
+
+(3) Where, by virtue of this section, property is vested in a designated council whose designated area does not comprise the whole of the area of the old authority in question, the designated council shall transfer an apportioned part of the property to any other designated council whose designated area includes part of the area of the old authority.
+
+(4) The terms of any apportionment made for the purposes of subsection (3)—
+
+(a) shall be agreed between the designated councils concerned, or
+
+(b) if they fail to agree, shall be determined by arbitration before a single arbitrator appointed—
+
+(i) by agreement between those councils, or
+
+(ii) if they fail to agree, by the Secretary of State.
+
+(5) The vesting or transfer of any property by virtue of this section shall not affect—
+
+(a) the application of the property in accordance with the scheme which is applicable to it immediately before the commencement of this section, or
+
+(b) the amendment or revocation of any scheme by a further scheme.
+
+(6) In this section—
+
+- “designated” means designated by order under subsection (1); and
+- “scheme” means a scheme under section 19 of the [^M21]Welsh Church Act 1914 (application of Welsh Church funds for charitable or eleemosynary purposes).
+
+### [^F31]51 Control of disposals and contracts.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F32]52 Application of Part I of the Local Government Act 1988 during transitional period.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 53 Continuity of exercise of functions.
+
+(1) The abolition of the old authorities shall not affect the validity of anything done by any of those authorities before their abolition.
+
+(2) Anything which at 1st April 1996 is in the process of being done by or in relation to an old authority in the exercise of, or in connection with, any relevant functions may be continued by or in relation to the authority (“the successor authority”) by which those functions become exercisable or, as the case may be, become exercisable in respect of the area in question.
+
+(3) Where immediately before 1st April 1996 any relevant functions exercisable by an old authority are exercisable concurrently by another such authority, or by other such authorities in respect of their respective areas, subsection (2) shall have effect as if those functions had by virtue of this Act become functions of that other authority or of those other authorities in respect of their respective areas.
+
+(4) Anything done by or in relation to an old authority before 1st April 1996 in the exercise of or in connection with any relevant functions shall, so far as is required for continuing its effect on and after that date, have effect as if done by or in relation to the successor authority.
+
+(5) Subsection (4) applies in particular to—
+
+(a) any decision, determination, declaration, designation, agreement or instrument made by an old authority;
+
+(b) any regulations or byelaws made by an old authority;
+
+(c) any licence, permission, consent, approval, authorisation, exemption, dispensation or relaxation granted by or to an old authority;
+
+(d) any notice, direction or certificate given by or to an old authority;
+
+(e) any application, request, proposal or objection made by or to an old authority;
+
+(f) any condition or requirement imposed by or on an old authority;
+
+(g) any fee paid by or to an old authority;
+
+(h) any appeal allowed by or in favour of or against an old authority;
+
+(i) any proceedings instituted by or against an old authority.
+
+(6) Any reference in this section to anything done by or in relation to an old authority includes a reference to anything which by virtue of any enactment is treated as having been done by or in relation to that authority.
+
+(7) Any reference (however framed) to an old authority in any document constituting, or relating to, anything to which the provisions of this section apply shall, so far as is required for giving effect to those provisions, be construed as a reference to the successor authority.
+
+(8) The provisions of this section are without prejudice to any provision made by or under this Act in relation to any particular functions and shall not be construed as continuing in force any contract of employment made by any of the old authorities.
+
+(9) The Secretary of State may, in relation to any particular functions, by order exclude, modify or supplement any of the provisions of this section or make such other transitional provision as he thinks necessary or expedient.
+
+(10) In this section “relevant functions” means statutory functions which by virtue of any provision made by or under this Act become functions of another authority, or of other authorities in respect of their respective areas.
+
+### 54 Consequential and supplementary provision.
+
+(1) The Secretary of State may by order make such incidental, consequential, transitional or supplemental provision as he thinks necessary or expedient—
+
+(a) for the general purposes, or any particular purpose, of this Act or in consequence of any of its provisions or for giving full effect to it; or
+
+(b) in consequence of such of the provisions of any other Act passed in the same Session as this Act as apply to any area or authority affected by this Act.
+
+(2) An order under subsection (1) may, in particular, make provision—
+
+(a) for enabling any authority or body by whom any powers will become exercisable, on a date specified by or under this Act, by virtue of any provision made by or under this Act to take before that date any steps which are necessary as a preliminary to the exercise of those powers;
+
+(b) for the making before any date specified by or under this Act of arrangements for securing the satisfactory operation from that date of any provision made by or under this Act and for defraying the cost of any such arrangements;
+
+(c) for the transfer of property, rights or liabilities, and of related functions, from an abolished body [^F33]... to a new principal council or other public body [^F34]...;
+
+(d) for the management or custody of transferred property (whether real or personal);
+
+(e) for applying (with or without modifications) or amending, repealing or revoking (with or without savings) any provision of an Act passed before this Act or in the same Session, or an instrument made under such an Act before 1st April 1996;
+
+(f) for making savings, or additional savings, from the effect of any repeal made by this Act;
+
+(g) with respect to the membership of any body, so far as that membership consists of persons elected by or appointed by or on the nomination of—
+
+(i) any authority affected by this Act; or
+
+(ii) any group of bodies which includes such an authority;
+
+(h) dissolving any body corporate established by any Act passed, or any instrument made, before 1st April 1996;
+
+(i) with respect to the functions or jurisdiction of any public body or of—
+
+(i) any coroner, lord-lieutenant, lieutenant or high sheriff; or
+
+(ii) any other officers (including police officers) within the area of any local authority affected by any provision of or made under this Act,
+
+and the costs and expenses of such public bodies and persons.
+
+(3) In subsection (2)(c) “abolished body” means an old authority or any joint board which ceases to exist as a result of section 59.
+
+(4) Any transfer made in accordance with any provision made by virtue of subsection (2)(c)—
+
+(a) may be made subject to terms, including financial terms; and
+
+(b) may impose new rights or liabilities in respect of the property transferred.
+
+(5) The amendments that may be made under this section shall be in addition, and without prejudice, to those made by or under any other provision of this Act.
+
+(6) Any question arising under this Act as to which is the successor authority in respect of any particular functions may be determined by a direction given by the Secretary of State.
+
+(7) No other provision of this Act shall be taken to restrict the powers conferred by this section.
+
+### 55 Magistrates’ courts, justices of the peace etc.
+
+(1) The Lord Chancellor may [[^F35], after consulting the Lord Chief Justice,] by order make, with respect to any matters mentioned in subsection (2), such incidental, consequential, transitional or supplemental provision as [[^F36]the Lord Chancellor thinks necessary or expedient, after consulting the Lord Chief Justice,] in consequence of any of the provisions of this Act.
+
+(2) The matters are—
+
+(a) the functions or areas of jurisdiction of any justice of the peace, [^F37]. . . [[^F38]or magistrates' court][^F39]. . .; and
+
+(b) [[^F40]local justice areas].
+
+(3) The Lord Chancellor may [[^F41], after consulting the Lord Chief Justice,] by order alter, in such manner as [[^F42]appears to the Lord Chancellor to be expedient, after consulting the Lord Chief Justice,] in connection with the alteration in any local government area made by this Act, any of [[^F43]the [[^F44]local justice areas] in Wales].
+
+(4) Any order under this section may, in particular—
+
+(a) make provision with respect to the costs and expenses of any persons with respect to whom provision is made by the order;
+
+(b) apply (with or without modifications) or amend or repeal or revoke (with or without savings) any provision of an Act passed before this Act or in the same Session, or an instrument made under such an Act before 1st April 1996.
+
+(5) Subsections (5) and (7) of section 54 apply in relation to this section as they apply in relation to that section.
+
+[[^F45](6) The Lord Chief Justice may nominate a judicial office holder (as defined in section 109(4) of the Constitutional Reform Act 2005) to exercise his functions under this section.]
+
+### [^F46]56 Transitional agreements as to property and finance.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 57 Local Acts and instruments.
+
+(1) Any local statutory provision to which this section applies and which is not continued in force by any other provision of this Act shall continue to apply on and after 1st April 1996 to the area, things or persons to which or to whom it applies before that date, but subject to the modifications made by subsections (3) to (5) and to any other necessary modifications.
+
+(2) The continuation by subsection (1) of an instrument made under any enactment shall not be taken to affect any power to vary or revoke the instrument which is exercisable apart from that subsection.
+
+(3) Subsection (1) has effect subject to the provisions of—
+
+(a) this Act;
+
+(b) any Act passed after this Act but before 1st April 1996; and
+
+(c) any order made under section 54 or 55 or this section.
+
+(4) Any local statutory provision to which this section applies and which relates to functions exercisable by an old authority of any description, by virtue of any public general enactment, shall have effect as if for any reference to the authority by whom the functions are exercisable immediately before 1st April 1996 or to their area there were substituted a reference to—
+
+(a) the authority by whom those functions are exercisable on and after that date; or
+
+(b) (as the case may be) to so much of the area of the latter authority as comprises the area of the former authority or any part of that area.
+
+(5) In any local statutory provision to which this section applies but which does not fall within subsection (4), for any reference to the area of an old authority or to an old authority there shall be substituted a reference to so much of the new principal area as comprises the area of the old authority or any part thereof or, as the case may be, the council of that new principal area.
+
+(6) Subsections (4) and (5) have effect subject to any provision to the contrary made by, or by any instrument made under, this Act.
+
+(7) The Secretary of State may by order provide for the exercise of functions conferred by any local statutory provision to which this section applies and exclude the operation of any provision of this section where it would otherwise conflict with any provision of the order.
+
+(8) This section applies to any local statutory provision which is in force in Wales immediately before 1st April 1996 and is not expressly repealed or revoked by this Act.
+
+(9) In this section “local statutory provision” means a provision of—
+
+(a) a local Act (including an Act confirming a provisional order);
+
+(b) a public general Act passed with respect only to the whole or part of a local government area in Wales as it existed immediately before the passing of this Act;
+
+(c) an instrument made under any such local or public general Act; or
+
+(d) an instrument in the nature of a local enactment made under any other Act.
+
+### 58 Modification etc. of local Acts and instruments.
+
+(1) This section applies where any local statutory provision (“the relevant provision”) is—
+
+(a) continued in force in any area by section 57, or
+
+(b) amended or modified in its application to any area by an order under section 54 or 55 (a “modifying order”).
+
+(2) The Secretary of State may by order or (as the case may be) the modifying order may—
+
+(a) extend the relevant provision throughout the new principal area in which it is continued in force;
+
+(b) provide that the relevant provision as so continued, amended, modified or extended shall have effect in that area to the exclusion of any enactment for corresponding purposes, including any enactment contained in or applied by this Act;
+
+(c) make such modifications of any such enactment as will secure that the enactment and the relevant provision will operate harmoniously in that area;
+
+(d) repeal or revoke any local statutory provision to which this section applies and which appears to the Minister to have become spent, obsolete or unnecessary or to have been substantially superseded by any enactment or instrument which applies or may be applied to the area, persons or things to which or to whom the relevant provision applies;
+
+(e) transfer to any authority appearing to the Minister to be appropriate any functions of an old authority under any local statutory provision to which this section applies which are not to become functions of some other authority under any provision of this Act (except section 54, 55, 57 or this section) or under any other instrument made under this Act;
+
+(f) without prejudice to paragraph (e), make such modifications of any local statutory provision to which this section applies in its application to any new local government area as appear to the Minister to be expedient.
+
+(3) An order under this section which extends the area for which any local statutory provision is in force shall be provisional only.
+
+(4) In this section “the Minister” means—
+
+(a) in relation to an order made by the Secretary of State under subsection (2), the Secretary of State; and
+
+(b) in relation to a modifying order containing provision made by virtue of subsection (2) of this section, the Minister making that order.
+
+### 59 Existing joint boards and committees and port health districts.
+
+(1) Where an existing joint board was constituted by or under any enactment for exercising functions for any area (including any united district), the board shall continue in existence on and after 1st April 1996 and to exercise for that area the same functions as before that date (to the exclusion of new principal councils).
+
+(2) In subsection (1)—
+
+- “joint board” means a joint board every constituent member of which is a local authority in Wales; and
+- “area” does not include a port health district.
+
+(3) Subsection (1) does not apply to a joint board constituted for an area which on 1st April 1996 will be wholly within the area of a single new principal council if the board was constituted for the purpose of exercising functions which on and after that date would (apart from the existence of the board) be exercisable by that council.
+
+(4) Subsection (3) applies whether or not the board has additional functions which, apart from this section, would not be exercisable by the new principal council.
+
+(5) In a case to which subsection (3) applies—
+
+(a) the functions of the board shall on 1st April 1996 become functions of the new principal council; and
+
+(b) the joint board shall cease to exist on that date.
+
+(6) This subsection applies where—
+
+(a) a port health district was constituted by an order under any enactment relating to public health; and
+
+(b) a local authority or joint board, every constituent member of which is a local authority, is the port health authority for that district.
+
+(7) Where subsection (6) applies, the district shall continue to exist as a port health district on and after 1st April 1996.
+
+(8) Where, on 1st April 1996, a single new principal council will become the riparian authority in relation to a port health district continued in existence by subsection (7)—
+
+(a) that authority shall, on that date, become the port health authority for that district; and
+
+(b) any existing joint board constituted for that district shall cease to exist.
+
+(9) Where, on 1st April 1996, two or more new principal councils will become riparian authorities in relation to a port health district continued in existence by subsection (7), the port health authority for the district shall be—
+
+(a) the existing port health authority, if that authority is a joint board; and
+
+(b) the new principal council whose area comprises or abuts on the greater part of the district, in any other case.
+
+(10) Any question as to which new principal council’s area comprises or abuts on the greater part of a port health district shall be determined by the Secretary of State.
+
+(11) This subsection applies to any existing joint committee constituted under any enactment for the purpose of exercising functions for an area which on 1st April 1996 will lie within the areas of two or more new principal councils by whom those functions would apart from this subsection become exercisable on that date.
+
+(12) A joint committee to which subsection (11) applies—
+
+(a) shall continue to exist on and after 1st April 1996 as if duly appointed by or in connection with those new principal councils; and
+
+(b) shall exercise those functions for the area for which the committee exercised them before that date.
+
+(13) Nothing in subsection (12) is to be taken as preventing new principal councils from making different arrangements for the discharge of functions.
+
+(14) The continuation in existence of any area or body by this section does not prejudice any power conferred by any enactment to amend or revoke the order constituting the area or body or the power to make provision with respect to the body conferred by section 54.
+
+[^F47]15 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(16) The following provisions shall have effect for the construction of references to a local statutory provision to which section 57 applies—
+
+(a) any reference to an existing joint board which ceases to exist by virtue of this section, or any reference which is to be construed as such a reference, shall be construed as a reference to the new principal council by whom the functions of that board will become exercisable by virtue of this section;
+
+(b) any reference to a united district or other area the existing joint board for which ceases to exist by virtue of subsection (3), or any reference which is to be construed as such a reference, shall be construed as a reference to so much of the area of the new principal council by whom the functions formerly exercisable by the existing joint board become exercisable on 1st April 1996, as comprises the united district or other area for which the board acted; and
+
+(c) any reference to an existing local authority whose functions as port health authority become exercisable on 1st April 1996 by virtue of this section by a new principal council, or any reference which is to be construed as such a reference, shall be construed as a reference to that council.
+
+(17) In this section “existing” means existing immediately before 1st April 1996.
+
+(18) This section has effect subject to any provision made by or under this Act.
+
+## PART VII — Miscellaneous and Supplemental
+
+### 60 Records.
+
+(1) Each new principal council shall make and maintain a scheme setting out their arrangements for the proper care, preservation and management of their records.
+
+(2) Each scheme shall include details of any relevant shared arrangements which the council concerned have made.
+
+(3) The council by whom a scheme has been made shall keep the scheme under review and, where they consider that it should be modified, make such adjustments to it as they consider appropriate.
+
+(4) Before making, or modifying, their scheme a new principal council shall consult the Secretary of State and have regard to any advice that he may give.
+
+(5) Where the records of a new principal council relate to the area, or part of the area, of another such council, that other council shall have the right—
+
+(a) to inspect those records at all reasonable times (without payment of any fee); and
+
+(b) to take copies of any of them, in such manner as carries no risk of damage.
+
+(6) The right conferred by subsection (5) is subject to any shared arrangements which affect the records concerned.
+
+(7) In this section—
+
+- “documents” includes records, of whatever form and in whatever medium, which convey or are capable of conveying information;
+
+- “records”, in relation to a council, means any documents which—
+
+  - (a) belong to the council or of which they have custody; and
+  - (b) have been retained for reference and research purposes or because of their likely historical interest; and
+
+- “shared arrangements”, in relation to a council, means any arrangements which the council have made with any other authority under section 25 of this Act or section 101 of the 1972 Act (arrangements for the discharge of functions by other local authorities).
+
+### 61 Lieutenancies.
+
+[^F48]1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) Her Majesty may by Order in Council make such amendments in [[^F49]section 1 of, and Schedule 1 to, the Lieutenancies Act 1997], with respect to the area for which any lord-lieutenant or lieutenant may be appointed, as Her Majesty considers appropriate in the light of the changes made by or under this Act with respect to the areas of local authorities in Wales.
+
+(3) Any such Order may make such incidental, consequential, transitional or supplemental provision (including provision amending the [[^F50]Lieutenancies Act 1997] or any other enactment) as appears to Her Majesty to be necessary or expedient.
+
+[^F51]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F48]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F51]6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 62 Sheriffs.
+
+(1) In section 3 of the [^M22]Sheriffs Act 1887 (annual appointment of sheriff) at the end add—
+
+> (4) In this Act “county”, in relation to Wales, means a preserved county (as defined by section 64 of the Local Government (Wales) Act 1994).
+
+(2) Her Majesty may by Order in Council make such amendments in section 3 of the Act of 1887, with respect to the area for which any sheriff may be appointed, as Her Majesty considers appropriate in the light of the changes made by this Act with respect to the areas of local authorities in Wales.
+
+(3) Any such Order may make such incidental, consequential, transitional or supplemental provision (including provision amending the Act of 1887 or any other enactment) as appears to Her Majesty to be necessary or expedient.
+
+(4) In section 6 of the Act of 1887 (nomination and appointment of sheriffs), after subsection (3) insert—
+
+> (3A) In relation to Wales—
+>
+> (a) subsection (3) above shall apply as if it required the duplicate warrant to be transferred to, and enrolled and kept by, the proper officer of the appropriate county or county borough council; and
+>
+> (b) section 3(4) above shall not apply.
+>
+> (3B) Any question as to which is the appropriate county or county borough council in relation to a particular warrant shall be determined by the Secretary of State.
+
+### 63 Regulations, orders and directions.
+
+(1) Any power to make regulations or orders conferred on the Secretary of State [[^F52], the National Assembly for Wales] or the Lord Chancellor by this Act shall be exercisable by statutory instrument.
+
+(2) Any such instrument, other than one made [[^F53]by the Assembly or] under a provision mentioned in subsection (4), shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(3) No order shall be made under section 34 unless a draft of the order has been laid before, and approved by a resolution of, each House of Parliament.
+
+(4) The provisions mentioned in subsection (2) are—
+
+(a) sections 17(6), 34, 39(1), 49(6), 53(9) and 66(3);
+
+(b) paragraph 18 of Schedule 5;
+
+(c) paragraph 1(3) of Schedule 13; and
+
+(d) paragraphs 12 and 18 of Schedule 17.
+
+(5) Any regulations or order made under this Act may—
+
+(a) make such supplemental, incidental, consequential or transitional or saving provision as the [[^F54]person making the regulations or order] considers appropriate; and
+
+(b) make different provision for different cases or classes of case or for different localities.
+
+(6) Any power of the Secretary of State to give a direction under this Act shall—
+
+(a) include power to make different provision for different cases, including different provision for different localities and for different bodies; and
+
+(b) shall be exercised in writing.
+
+### 64 Interpretation.
+
+(1) In this Act—
+
+- “the 1972 Act” means the [^M23]Local Government Act 1972;
+- “the Commission” means the Staff Commission for Wales or Comisiwn Staff Cymru;
+- [^F55]...
+- “financial year” means the period of twelve months beginning with 1st April;
+- “new”, in relation to any area or authority, means an area or authority established by or under this Act;
+- “old authority” means an authority which ceases to exist as a result of this Act;
+- “the planning Act” means the [^M24]Town and Country Planning Act 1990;
+- “prescribed” means prescribed by an order or by regulations made by the Secretary of State;
+- “preserved county” means any county created by the 1972 Act as a county in Wales, as that county stood immediately before the passing of this Act but subject to any provision of this Act, or made under the 1972 Act, redrawing its boundaries;
+- [^F56]...
+
+(2) A county borough established by this Act shall not be treated as a borough for the purposes of any Act passed before 1st April 1974.
+
+(3) Subject to the provisions of this section, this Act and the 1972 Act shall be construed as one.
+
+(4) Subject to any provision to the contrary, in any amendment of an enactment made by or under this Act “Wales” has the same meaning as in section 269 of the 1972 Act.
+
+### 65 Expenses.
+
+(1) There shall be defrayed out of money provided by Parliament—
+
+(a) any expenses incurred by any Minister of the Crown under this Act; and
+
+(b) any increase attributable to the provisions of this Act in the sums payable out of money so provided under any other enactment.
+
+(2) Any sums received by the Secretary of State under a provision of this Act shall be paid into the Consolidated Fund.
+
+### 66 Short title, commencement, extent etc.
+
+(1) This Act may be cited as the Local Government (Wales) Act 1994.
+
+(2) The following provisions of this Act—
+
+(a) sections 1(1), (2) and (7), 3, 6, 7, 39, 40, 43, 46, 47, 48, 54, 55, 63 and 64,
+
+(b) Schedules 1, 3, 13 and 14 and paragraphs 1, 4, 6 and 9 of Schedule 17, and
+
+(c) subsections (1) to (4) and (9) of this section,
+
+shall come into force on the passing of this Act.
+
+(3) The other provisions of this Act shall come into force on such day as the Secretary of State may by order appoint.
+
+(4) Different days may be appointed by an order under subsection (3) for different purposes and different provisions.
+
+(5) Schedule 15 makes minor and consequential amendments of the 1972 Act.
+
+(6) Schedule 16 makes certain miscellaneous consequential amendments.
+
+(7) Schedule 17 contains transitional provisions and savings.
+
+(8) The repeals set out in Schedule 18, which include repeals of certain enactments which are spent, shall have effect.
+
+(9) This Act does not extend to Scotland or Northern Ireland except that any amendment or repeal of another enactment by this Act has the same extent as the enactment amended or repealed.
+
+## SCHEDULE 1 — The New Principal Areas
+
+*Section 1(2).*
+
+### Counties
+
+**1** For Part I of Schedule 4 to the 1972 Act substitute—
+
+> **PART I — Counties**
+>
+> |  |  |
+> |---|---|
+> | Name | Area |
+> | Anglesey Sir Fôn | The district of Ynys Môn Isle of Anglesey. |
+> | Caernarfonshire and Merionethshire Sir Gaernarfon a Meirionnydd | The districts of Arfon, Dwyfor, and Meirionnydd. |
+> | Cardiff Caerdydd | The district of Cardiff, together with (from the district of Taff-Ely) the community of Pentyrch. |
+> | Cardiganshire Sir Aberteifi | The district of Ceredigion. |
+> | Carmarthenshire Sir Gaerfyrddin | The districts of Carmarthen, Llanelli and Dinefwr. |
+> | Denbighshire Sir Ddinbych | The district of Rhuddlan, together with (from the district of Glyndwjr) the communities of Aberwheeler, Cynwyd, Llandrillo, Henllan, Denbigh, Llandyrnog, Llangynhafal, Llanynys, Llanrhaeadr-yng-Nghinmeirch, Nantglyn, Cyffylliog, Ruthin, Llanbedr Dyffryn Clwyd, Llanferres, Clocaenog, Efenechtyd, Llandegla, Llanfair Dyffryn Clwyd, Llanarmon-yn-Iajl, Llanelidan, Derwen, Betws Gwerfil Goch, Gwyddelwern, Bryneglwys, Corwen, Llantysilio, Llangollen and Llangollen Rural with (from the district of Colwyn) the communities of Trefnant and Cefnmeiriadog. |
+> | Flintshire Sir y Fflint | The districts of Alyn and Deeside and Delyn. |
+> | Monmouthshire Sir Fynwy | The district of Monmouth together with (from the district of Blaenau Gwent) the community of Llanelly. |
+> | Pembrokeshire Sir Benfro | The districts of Preseli Pembrokeshire and South Pembrokeshire, together with Caldey Island and St Margaret’s Island. |
+> | Powys Powys | The districts of Montgomeryshire, Radnorshire and Brecknock, together with (from the district of Glyndwjr) the communities of Llanrhaeadr-ym-Mochnant, Llansilin and Llangedwyn. |
+> | Swansea Abertawe | The district of Swansea, together with (from the district of Lliw Valley) the communities of Gowerton, Llwchwr, Gorseinon, Grovesend, Pontardulais, Mawr, Pont-Lliw, Penllergaer, Llangyfelach and Clydach. |
+
+### County boroughs
+
+**2** For Part II of Schedule 4 to the 1972 Act substitute—
+
+> **PART II — County Boroughs**
+>
+> |  |  |
+> |---|---|
+> | Name | Area |
+> | Aberconwy and Colwyn Aberconwy a Cholwyn | The districts of Aberconwy and Colwyn, but excluding (from the district of Colwyn) the communities of Cefnmeiriadog and Trefnant. |
+> | Blaenau Gwent Blaenau Gwent | The district of Blaenau Gwent (excluding the community of Llanelly). |
+> | Bridgend Pen-y-bont ar Ogwr | The district of Ogwr, but excluding the communities of Wick, St Bride’s Major and Ewenny. |
+> | Caerphilly Caerffili | The districts of Islwyn and Rhymney Valley. |
+> | Merthyr Tydfil Merthyr Tudful | The district of Merthyr Tydfil. |
+> | Neath and Port Talbot Castell-nedd a Phort Talbot | The districts of Neath and Port Talbot, together with (from the district of Lliw Valley) the communities of Pontardawe, Gwaun-Cae-Gurwen, Cwmllynfell, Ystalyfera and Cilybebyll. |
+> | Newport Casnewydd | The district of Newport. |
+> | Rhondda, Cynon, Taff Rhondda, Cynon, Taf | The districts of Rhondda, Cynon Valley, and Taff-Ely, but excluding (from the district of Taff-Ely) the community of Pentyrch. |
+> | Torfaen Tor-faen | The district of Torfaen. |
+> | The Vale of Glamorgan Bro Morgannwg | The district of Vale of Glamorgan, together with (from the district of Ogwr) the communities of Wick, St Bride’s Major and Ewenny. |
+> | Wrexham Wrecsam | The district of Wrexham Maelor, together with (from the district of Glyndwjr) the communities of Chirk, Glyntraian, Llansantffraid Glyn Ceiriog, and Ceiriog Ucha. |
+
+### The preserved counties
+
+**3** For Part III of Schedule 4 to the 1972 Act substitute—
+
+> **PART III — The Preserved Counties And Their Areas**
+>
+> |  |  |
+> |---|---|
+> | Name | Area |
+> | Clwyd | The county of Clwyd, but excluding the communities of Llanrhaeadr-ym-Mochnant, Llansilin and Llangedwyn. |
+> | Dyfed | The county of Dyfed. |
+> | Gwent | The county of Gwent. |
+> | Gwynedd | The county of Gwynedd. |
+> | Mid Glamorgan Morgannwg Ganol | The county of Mid Glamorgan, but excluding the communities of Wick, St Bride’s Major, Ewenny and Pentyrch. |
+> | Powys | The county of Powys with the addition of the communities of Llanrhaeadr-ym-Mochnant, Llansilin and Llangedwyn from the county of Clwyd. |
+> | South Glamorgan De Morgannwg | The county of South Glamorgan with the addition of the communities of Wick, St Bride’s Major, Ewenny and Pentyrch from the county of Mid Glamorgan. |
+> | West Glamorgan Gorllewin Morgannwg. | The county of West Glamorgan. |
+
+## SCHEDULE 2 — Provisions Applying to Preserved Counties
+
+*Section 1(3).*
+
+### The Defence Act 1842 (c. 94)
+
+**1** The provisions of section 19 of the Defence Act 1842 (valuing of premises in default of agreement) shall be subsection (1) of that section and at the end add—
+
+> (2) In this section and in sections 23 and 24 “county” means, in relation to Wales, a preserved county (as defined by section 64 of the Local Government (Wales) Act 1994).
+
+### The Licensing Act 1964 (c. 26)
+
+**2** [^F57]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Sea Fisheries (Shellfish) Act 1967 (c. 83)
+
+**3** The provisions of section 10 of the Sea Fisheries (Shellfish) Act 1967 (jurisdiction in relation to fishery) shall be subsection (1) of that section and at the end add—
+
+> (2) In the application of this section in relation to Wales, the reference to a county in subsection (1) of this section includes a reference to a preserved county (as defined by section 64 of the Local Government (Wales) Act 1994).
+
+### The Local Government Act 1972 (c. 70)
+
+**4** In section 54 of the 1972 Act (proposals for changes in local government areas in Wales), after subsection (1) insert—
+
+> (1A) The Welsh Commission may, in consequence of a review conducted by them under this Part of this Act make proposals to the Secretary of State for effecting changes in the area of a preserved county which appear to the Commission to be desirable having regard, in particular, to the purposes for which the preserved counties are retained.
+
+**5** For section 56(1) of the 1972 Act (power of Secretary of State to direct holding of reviews), substitute—
+
+> (1) The Secretary of State may direct the Welsh Commission to conduct a review of—
+>
+> (a) Wales as a whole,
+>
+> (b) any one or more local government areas or parts of such areas in Wales, or
+>
+> (c) any one or more preserved counties or parts of such counties,
+>
+> for the purpose of considering whether or not to make such proposals in relation to the area reviewed as are authorised by section 54 above and what proposals, if any, to make; and the Commission shall, if they think fit, formulate such proposals accordingly.
+
+**6** At the end of section 219 of the 1972 Act (sheriffs and under-sheriffs), after subsection (8) add—
+
+> (9) In subsections (1) and (5) above “county”, in relation to Wales, means a preserved county.
+
+**7** At the end of section 224 of the 1972 Act (arrangements by principal councils for custody of documents) add—
+
+> (3) In subsection (1) above “county”, in relation to Wales, means a preserved county.
+
+**8** For section 269 of the 1972 Act (meaning of “England” and “Wales”) substitute—
+
+> **Meaning of “England” and “Wales”.**
+>
+> **269** In this Act “Wales” means the combined area of the preserved counties and “England” does not include any area which is included in any of the preserved counties.
+
+### The Interpretation Act 1978 (c. 30)
+
+**9** In Schedule 1 to the Interpretation Act 1978 (words and expressions defined) for the definition of “Wales” substitute—
+
+> - “Wales” means the combined area of the counties which were created by section 20 of the [^M25]Local Government Act 1972, as originally enacted, but subject to any alteration made under section 73 of that Act (consequential alteration of boundary following alteration of watercourse).
+
+### The Justices of the Peace Act 1979 (c. 55)
+
+**[^F58]10** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Magistrates’ Courts Act 1980 (c. 43)
+
+**11** (1) In section 1 of the Magistrates’ Courts Act 1980 (issue of summons to accused or warrant for his arrest), in subsection (8) after “county” insert “ in England, any preserved county in Wales ”.
+
+(2) In section 2 of that Act (jurisdiction to deal with charges), in subsections (1) and (3) after first “county” insert “ in England, a preserved county in Wales ” and after second “county” insert “ , the preserved county ”.
+
+(3) In section 3 of that Act (offences committed on boundaries etc.), in subsection (4) after “county” insert “ in England, any preserved county in Wales ”.
+
+(4) In section 150(1) of that Act (interpretation), after the definition of “prescribed” insert—
+
+> - “preserved county” has the meaning given by section 64 of the Local Government (Wales) Act 1994;
+
+.
+
+### The Representation of the People Act 1983 (c. 2)
+
+**12** (1) The provisions of section 177 of the Representation of the People Act 1983 (local election offence punishable summarily) shall be subsection (1) of that section and at the end add—
+
+> (2) In subsection (1) above “county”, in relation to Wales, means a preserved county (as defined by section 64 of the Local Government (Wales) Act 1994).
+
+(2) In Schedule 1 to that Act (parliamentary election rules), in the Appendix, in the entry relating to the form of the certificate to be endorsed on the writ, insert the following—
+
+> Note: in relation to any constituency in Wales, “county” in this form refers to a preserved county (as defined by section 64 of the Local Government (Wales) Act 1994).
+
+### The Parliamentary Constituencies Act 1986 (c. 56)
+
+**[^F59]13** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 3 — Establishment of New Principal Councils
+
+*Section 3.*
+
+The following is substituted for Schedule 5 to the 1972 Act—
+
+> **Schedule 5 — Establishment of New Principal Councils**
+>
+> **Election of councillors**
+>
+> **1** The elections of councillors of the new principal councils which are to be held in 1995 shall be held on a date fixed by the Secretary of State by order.
+>
+> **Electoral divisions**
+>
+> **2** (1) For the purpose of any election of such councillors, each principal area shall be divided into electoral divisions specified in an order made by the Secretary of State after carrying out (either before or after the passing of the Local Government (Wales) Act 1994) such consultations as he thinks appropriate.
+>
+> (2) An order under this paragraph for any area shall specify the number of councillors to be returned for each electoral division.
+>
+> (3) There shall be a separate election of councillors for each electoral division.
+>
+> (4) An order under this paragraph may contain such incidental, consequential, transitional or supplemental provision as the Secretary of State considers appropriate.
+>
+> **First elections of new councils**
+>
+> **3** (1) At the first elections of councillors for each new principal area, the returning officer shall be an officer of the council appointed by such county council or district council as the Secretary of State may by order designate and not a person appointed under section 35 of the Representation of the [^M26]People Act 1983.
+>
+> (2) Section 36(4) of the Act of 1983 shall not apply to any such election.
+>
+> (3) All expenditure properly incurred by a returning officer or other officer in relation to the holding of the first elections of councillors for a new principal area shall be paid in the first instance by the council by whom the returning officer was appointed and shall be defrayed by the district councils in the area—
+>
+> (a) in such proportions as may be agreed between them; or
+>
+> (b) in default of such agreement, as may be determined by the Secretary of State.
+>
+> (4) In relation to the first elections of councillors for a new principal area, “the appropriate officer”, in Parts II and III of the Representation of the People Act 1983, does not have the meaning given by section 67(7) of that Act but means the returning officer appointed under this paragraph.
+>
+> **Declarations of acceptance of office**
+>
+> **4** (1) For the purpose of taking and receiving delivery of declarations of acceptance of the office of councillor of any new principal council before the first meeting of that council, the head of paid service of an authority designated by the appropriate transition committee—
+>
+> (a) shall be deemed to be and shall act as the proper officer of the new council; and
+>
+> (b) shall transfer any such declaration which has been delivered to him to the custody of the proper officer of the new council on the appointment of the latter.
+>
+> (2) In this Schedule “head of paid service”, in relation to an authority, means the officer of that authority who is designated under section 4 of the [^M27]Local Government and Housing Act 1989.
+>
+> **First meetings of new principal councils**
+>
+> **5** (1) The first meeting of each new principal council shall be held within 21 days immediately following the day of election and shall be treated as the annual meeting of the council for 1995.
+>
+> (2) The meeting shall be convened by the head of paid service of an authority designated by the appropriate transition committee and shall be held at such place as he may appoint.
+>
+> (3) The notice of the meeting required by paragraph 4(2) of Schedule 12 to this Act shall be published at the place where the meeting is to be held and the summons to attend the meeting shall be signed by the person convening it.
+>
+> **6** (1) Until the completion of the election of a chairman at the first meeting of a new principal council, persons designated by the appropriate transition committee shall exercise any functions falling to be exercised by the chairman and vice-chairman of the council.
+>
+> (2) Any person so designated shall not vote in the first instance at the election of the chairman unless he is a councillor for the new area.
+>
+> (3) At the first meeting of a new principal council the head of paid service of an authority so designated shall exercise any functions falling to be exercised by the proper officer of the new council in relation to the meeting.
+>
+> (4) The standing orders for the regulation of the proceedings and business of an authority so designated shall apply at the first meeting of a new principal council.
+>
+> **7** If he is requested to do so, the Secretary of State may himself exercise a committee’s power of designation for the purposes of any provision of paragraph 4, 5 or 6 above on the ground that the committee is unlikely to exercise the power in time for that provision to operate.
+>
+> **Qualification for membership**
+>
+> **8** For the purposes of section 79 above, in its application to a candidate for membership of a new principal council, the new principal areas shall be treated as having been established not less than 12 months before the day of his nomination as such a candidate or, in relation to an election not preceded by the nomination of candidates, before the day of election.
+>
+> **Suspension of elections**
+>
+> **9** (1) In this paragraph “council” means a county or district council which ceases to exist on 1st April 1996 by virtue of the Local Government (Wales) Act 1994.
+>
+> (2) No election of councillors of a council shall be held after 31st December 1994, except—
+>
+> (a) to fill a casual vacancy in the office of councillor of that council where before 31st December 1994—
+>
+> (i) the office has been declared to be vacant; or
+>
+> (ii) notice of the vacancy has been given under section 89(1) of this Act; or
+>
+> (b) where the number of casual vacancies in the office of councillor of a council occurring after 31st December 1994 exceeds half of the total number of such offices.
+>
+> (3) Any such councillor holding office immediately before 31st December 1994, or elected after that date to fill a casual vacancy, shall, unless he resigns his office or it otherwise becomes vacant, continue to hold office until 1st April 1996.
+>
+> (4) It shall not be necessary—
+>
+> (a) to fill any casual vacancy in the office of councillor of a council occurring after 31st December 1994; and accordingly section 89 of this Act shall have effect with the necessary modifications in relation to any such vacancy; or
+>
+> (b) to fill any casual vacancy occurring during March 1996 in the office of chairman or vice-chairman of a council.
+>
+> **Appropriate transition committee**
+>
+> **10** In this Schedule, “appropriate transition committee” means the committee established under section 46 of the Local Government (Wales) Act 1994 in relation to the new principal council in question.
+
+## SCHEDULE 4 — Exercise of Planning Functions in Wales
+
+*Section 18(7).*
+
+After Schedule 1 to the planning Act insert the following Schedule—
+
+> **SCHEDULE 1A — Distribution of Local Planning Authority Functions: Wales**
+>
+> **1** (1) Where a local planning authority are not the local highway authority, the Secretary of State may include in a development order such provisions as he thinks fit enabling the local highway authority to impose restrictions on the grant by the local planning authority of planning permission for the following descriptions of development relating to land in the area of the local highway authority—
+>
+> (a) the formation, laying out or alteration of any means of access to—
+>
+> (i) a road classified under section 12(3) of the [^M28]Highways Act 1980 or section 27 of the [^M29]Local Government Act 1966; or
+>
+> (ii) a proposed road the route of which has been adopted by resolution of the local highway authority and notified as such to the local planning authority;
+>
+> (b) any other operations or use of land which appear to the local highway authority to be likely to—
+>
+> (i) result in a material increase in the volume of traffic entering or leaving such a classified or proposed road;
+>
+> (ii) prejudice the improvement or construction of such a road; or
+>
+> (iii) result in a material change in the character of traffic entering, leaving or using such a road.
+>
+> (2) The reference to a local planning authority in sub-paragraph (1) shall not be construed as including a reference to an urban development corporation who are the local planning authority by virtue of an order under section 149 of the [^M30]Local Government, Planning and Land Act 1980, and no provision of a development order which is included in it by virtue of that sub-paragraph is to be construed as applying to such a corporation.
+>
+> (3) The Secretary of State may include in a development order provision enabling a local highway authority to impose restrictions on the grant by an urban development corporation who are the local planning authority of planning permission for such descriptions of development as may be specified in the order.
+>
+> **2** (1) A local planning authority who have the function of determining applications for planning permission shall, if requested to do so by the council for any community or group of communities situated in their area, notify that council of—
+>
+> (a) any relevant planning application; and
+>
+> (b) any alteration to that application accepted by the authority.
+>
+> (2) In sub-paragraph (1) “relevant planning application” means an application which—
+>
+> (a) relates to land in the community or (as the case may be) one of the communities concerned; and
+>
+> (b) is an application for—
+>
+> (i) planning permission; or
+>
+> (ii) approval of a matter reserved under an outline planning permission within the meaning of section 92.
+>
+> (3) Any request made for the purposes of sub-paragraph (1) shall be in writing and shall state that the community council wishes to be notified of all relevant applications or all applications of a description specified in the request.
+>
+> (4) An authority shall comply with the duty to notify a community council of an application by—
+>
+> (a) sending the council a copy of the application; or
+>
+> (b) indicating to the council the nature of the development which is the subject of the application and identifying the land to which it relates,
+>
+> and any notification falling within paragraph (b) shall be in writing.
+>
+> (5) An authority shall comply with their duty to notify a community council of an alteration by—
+>
+> (a) sending a copy of the alteration to the council; or
+>
+> (b) informing the council in writing of its general effect,
+>
+> but they need not notify a community council of an alteration which in their opinion is trivial.
+>
+> (6) A development order may require a local planning authority who are dealing with an application of which a community council is entitled to be notified—
+>
+> (a) to give to the council an opportunity to make representations to them as to the manner in which the application should be determined;
+>
+> (b) to take into account any such representations;
+>
+> (c) to notify the council of the terms of their decision or, where the application is referred to the Secretary of State, the date when it was so referred and, when notified to them, the terms of his decision.
+>
+> **3** Paragraphs 4 to 10 apply only in relation to any area for which, by virtue of any provision of or made under section 6, 7 or 8, there is more than one local planning authority.
+>
+> **4** In sections 178(1), 181(4)(b) and 190(2), (3) and (5) any reference to the local planning authority shall be construed as a reference to the authority who issued the notice or made the order in question or, in the case of a notice issued or an order made by the Secretary of State, the authority named in the notice or order.
+>
+> **5** The functions of a local planning authority under section 187B are exercisable by any body having the function of taking enforcement action in respect of the breach in question.
+>
+> **6** Where a local planning authority have made a tree preservation order under section 198 or the Secretary of State has made such an order by virtue of section 202, the powers of varying or revoking the order and the powers of dispensing with section 206 or serving, or appearing on an appeal relating to, a notice under section 207 shall be exercisable only by the authority who made the order or, in the case of an order made by the Secretary of State, the authority named in the order.
+>
+> **7** (1) The copy of the notice required to be served by paragraph 4(5) of Schedule 8 on a local planning authority shall, in the case of a proposal that a government department should give a direction under section 90(1) or that development should be carried out by or on behalf of a government department, be served on the local planning authority who, in the opinion of the Secretary of State, would have been responsible for dealing with an application for planning permission for the development in question if such an application had fallen to be made.
+>
+> (2) References in paragraphs 3(2) and 5(1) of that Schedule to the local planning authority shall be construed as references to the local planning authority on whom that copy is required to be served.
+>
+> **Compensation**
+>
+> **8** (1) Claims for payment of compensation under section 107 (including that section as applied by section 108) and sections 115(1) to (4) and 186 shall, subject to sub-paragraph (3), be made to and paid by the local planning authority who took the action by virtue of which the claim arose or, where that action was taken by the Secretary of State, the local planning authority from whom the appeal was made to him or who referred the matter to him or, in the case of an order made or notice served by him by virtue of section 100, 104 or 185, the appropriate authority, and references in those sections to a local planning authority shall be construed accordingly.
+>
+> (2) In this paragraph “appropriate authority” means—
+>
+> (a) in the case of a claim for compensation under section 107 or 108, the local planning authority who granted, or are to be treated for the purposes of section 107 as having granted, the planning permission the revocation or modification of which gave rise to the claim; and
+>
+> (b) in the case of a claim for compensation under section 115(1) to (4) or 186, the local planning authority named in the relevant order or stop notice of the Secretary of State.
+>
+> (3) The Secretary of State may, after consultation with all the authorities concerned, direct that where a local planning authority is liable to pay compensation under any of the provisions mentioned in sub-paragraph (1) in any particular case or class of case they shall be entitled to be reimbursed the whole of the compensation or such proportion of it as he may direct from one or more authorities specified in the direction.
+>
+> **9** Claims for payment of compensation under a tree preservation order by virtue of section 203, and claims for payment of compensation under section 204 by virtue of directions given in pursuance of such an order, shall be made to and paid by the local planning authority who made the order or, in the case of an order made by the Secretary of State, the authority named in the order; and the reference in section 204(2) to the authority exercising functions under the tree preservation order shall have effect subject to the provisions of this paragraph.
+>
+> **10** The local planning authority by whom compensation is to be paid under section 279(1)(a) to statutory undertakers shall be the authority who referred the application for planning permission to the Secretary of State and the appropriate Minister, or from whose decision the appeal was made to them or who served the enforcement notice appealed against, as the case may be.
+>
+> **Miscellaneous**
+>
+> **11** In relation to land in the area of a joint planning board, a person entering into a planning obligation under section 106 or 299A may identify the council of the county or county borough in which the land is situated as the authority by whom the obligation is enforceable.
+
+## SCHEDULE 5 — Unitary Development Plans in Wales
+
+*Section 20(3).*
+
+### Part I — Minor and Consequential Amendments
+
+**1** Part II of the planning Act is amended as provided in this Part of this Schedule.
+
+**2** In section 12 (preparation of unitary development plan), at the end add—
+
+> (11) Any provision made by regulations under this section in its application by virtue of section 10 may differ from that made under this section in its application by virtue of section 10A.
+
+**3** In sections 15 and 18 (adoption of unitary development plan by local planning authority, and calling in of unitary development plan for approval by Secretary of State), in subsection (3) in each case, after “unitary development plan” insert “ for an area in England ”.
+
+**4** After section 23 (joint unitary development plans), insert the following sections—
+
+> **Joint unitary development plans: Wales.**
+>
+> **23A** (1) A joint unitary development plan or joint proposals for the alteration or replacement of such a plan may be prepared by two or more local planning authorities in Wales for their areas if—
+>
+> (a) each of those areas adjoins each of the others; or
+>
+> (b) the Secretary of State has given his approval.
+>
+> (2) Subsection (1) does not apply in relation to a joint plan for any area which consists of or includes a National Park.
+>
+> (3) The previous provisions of this Chapter shall, in relation to any joint plan or proposals of a kind mentioned in subsection (1), have effect subject to the following provisions of this section.
+>
+> (4) Each of the local planning authorities by whom a joint unitary development plan is prepared shall have the duty imposed under section 13(2) of making copies of the plan available for inspection.
+>
+> (5) Objections to such a plan may be made to any of those authorities and the statement required by section 13(3) to accompany copies of the plan shall state that objections may be so made.
+>
+> (6) It shall be for each of the local planning authorities by whom a joint unitary development plan is prepared to adopt the plan under section 15(1) and, subject to the provisions of this Chapter, they may do so as respects the part of their area to which the plan relates, but any modifications subject to which the plan is adopted must have the agreement of all those authorities.
+>
+> (7) Where a unitary development plan has been prepared jointly, the power of preparing proposals in respect of the plan under section 21 may be exercised as respects their respective areas by any of the authorities by whom it was prepared and the Secretary of State may under that section direct any of them to prepare proposals as respects their respective areas.
+>
+> (8) The date of the coming into operation of a unitary development plan prepared jointly by two or more local planning authorities or for the alteration or replacement of such a plan in pursuance of proposals so prepared shall be a date jointly agreed by those authorities.
+>
+> **National Parks in Wales**
+>
+> **Unitary development plans for National Parks in Wales.**
+>
+> **23B** (1) A unitary development plan shall be prepared for each National Park in Wales.
+>
+> (2) A Welsh National Park development plan shall relate to an area prescribed in relation to the National Park in question by order made by the Secretary of State.
+>
+> (3) The prescribed area in relation to a National Park which falls wholly within, but does not comprise the whole of, the area of a single local planning authority shall be—
+>
+> (a) where the local planning authority have so elected, the whole of the area of the local planning authority; and
+>
+> (b) in any other case—
+>
+> (i) the whole of the area of the National Park; or
+>
+> (ii) a composite area.
+>
+> (4) The prescribed area in relation to any other Welsh National Park shall be—
+>
+> (a) the whole of the area of the National Park; or
+>
+> (b) a composite area.
+>
+> (5) For the purposes of this section and section 23C, “composite area”, in relation to a National Park, means an area which consists of the whole of the Park together with any one or more other areas in Wales.
+>
+> (6) The Secretary of State shall not under subsection (2) prescribe an area which is a composite area except with the consent of every local planning authority in whose area the prescribed area or any part of it would fall.
+>
+> (7) Any order made by the Secretary of State under subsection (2) may make such saving or transitional provision as he considers appropriate.
+>
+> (8) Where, by an order under subsection (2), the Secretary of State prescribes a composite area which comprises or includes part only of the area of a local planning authority, the provisions of this Chapter shall apply in relation to—
+>
+> (a) the Welsh National Park development plan in question, or
+>
+> (b) any proposals for its alteration or replacement,
+>
+> subject to such modifications, if any, as may be prescribed by the order.
+>
+> (9) Subsections (3) and (4) of section 10A do not apply for the purposes of—
+>
+> (a) subsection (3) or (8) of this section, or
+>
+> (b) section 23C(1), (2) or (4).
+>
+> (10) For the purposes of this Act, “Welsh National Park development plan” means a unitary development plan prepared for a National Park in Wales.
+>
+> **Joint unitary development plans for National Parks in Wales.**
+>
+> **23C** (1) A Welsh National Park development plan for a National Park which neither coincides with nor falls wholly within the area of a single local planning authority shall be a joint unitary development plan.
+>
+> (2) A Welsh National Park development plan for any other National Park shall be a joint unitary development plan if it relates to a composite area unless the composite area coincides with or falls wholly within the area of a single local planning authority.
+>
+> (3) Any Welsh National Park development plan which is required to be a joint plan shall be prepared by the authorities who will be the appropriate authorities in relation to the plan.
+>
+> (4) For the purposes of this section, an authority are an appropriate authority in relation to a joint plan if—
+>
+> (a) they are a local planning authority; and
+>
+> (b) their area or any part of their area falls within the area to which the plan relates.
+>
+> (5) Any proposals prepared under section 21 for the alteration or replacement of a joint plan of a kind mentioned in subsection (1) or (2) shall be joint proposals prepared by the appropriate authorities in relation to that plan, and any direction given by the Secretary of State under that section in relation to that plan shall be given jointly to those authorities.
+>
+> (6) Subsections (3) to (6) and (8) of section 23A apply in relation to any joint plan or proposals of a kind mentioned in subsection (1), (2) or (5) as they apply in relation to any joint plan or proposals of a kind mentioned in section 23A(1).
+
+**5** In section 26 (regulations and directions), after subsection (3) insert—
+
+> (3A) Any provision made by regulations under this section in its application by virtue of section 10 may differ from that made under this section in its application by virtue of section 10A.
+
+**6** After section 27 insert the following section—
+
+> **Meaning of “development plan” in relation to Wales.**
+>
+> **27A** For the purposes of the enactments mentioned in section 27, the development plan for any area in Wales shall be taken as consisting of—
+>
+> (a) the provisions of the unitary development plan for the time being in force for that area, together with a copy of the relevant local planning authority’s resolution of adoption or of the Secretary of State’s notice of approval or, where part of the plan has been adopted and the remainder approved, copies of the resolution and the notice; and
+>
+> (b) any alteration to that plan, together with a copy of the relevant local planning authority’s resolution of adoption, or the Secretary of State’s notice of approval, of the alteration or, where part of the alteration has been adopted and the remainder approved, copies of the resolution and the notice.
+
+**7** For section 29 (application of Chapter II to non-metropolitan areas), substitute—
+
+> **Application of Chapter II to non-metropolitan areas in England.**
+>
+> **29** (1) This Chapter applies only to—
+>
+> (a) the area of any local planning authority in England outside Greater London and the metropolitan counties; and
+>
+> (b) any part of a National Park in a metropolitan county in England.
+>
+> (2) Subsection (1) is subject to the transitional provisions in—
+>
+> (a) Schedule 2; and
+>
+> (b) Part III of Schedule 5 to the Local Government (Wales) Act 1994.
+
+### [^F60]Part II — Commencement of Unitary Development Plans
+
+**[^F60]8** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F61] Part III — Transitional Provisions
+
+#### [^F61] Introductory
+
+**[^F61]9** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F61] Application in relation to National Parks
+
+**[^F61]10** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F61] Interpretation
+
+**[^F61]11** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F61] Preparation of modified schemes
+
+**[^F61]12** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F61] Default powers
+
+**[^F61]13** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F61] Effect of adoption or approval of modified plan
+
+**[^F61]14** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F61] Other plans to prevail over old development plans and saved local plans
+
+**[^F61]15** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F61] Local plans to prevail over structure plans
+
+**[^F61]16** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F61] Development plans for compensation purposes
+
+**[^F61]17** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F61] Revocation of old development plan
+
+**[^F61]18** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F61] Temporary duty in relation to existing structure plan
+
+**[^F61]19** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F61] Unitary development plan to prevail over other plans
+
+**[^F61]20** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F61] Planning blight: structure plans
+
+**[^F61]21** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F61] Planning blight: local plans and modified plans
+
+**[^F61]22** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F61] Regulations and directions
+
+**[^F61]23** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 6 — Minor and Consequential Amendments: Planning
+
+*Section 20(4).*
+
+### Part I — The 1972 Act: National Parks and Countryside Functions
+
+**1** In section 184 of the 1972 Act (National Park and countryside functions), for subsection (1) substitute—
+
+> (1) [[^F62]Subject to section 68 of the Environment Act 1995 (planning authority functions under National Parks legislation to be functions of National Park authorities in certain cases),]the functions conferred on a local planning authority by or under the National Parks and Access to the [^M31]Countryside Act 1949 and the [^M32]Countryside Act 1968 shall—
+>
+> (a) as respects England elsewhere than in the metropolitan counties, Greater London and the Isles of Scilly, be exercisable in accordance with the following provisions of this section; and
+>
+> (b) as respects Wales, be exercisable in accordance with subsections (6) to (8) below.
+
+**2** Schedule 17 to the 1972 Act is amended as provided in [[^F63]paragraphs 13 and 14].
+
+**[^F64]3** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F65]4** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F66]5** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F67]6** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F68]7** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F69]8** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F70]9** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F71]10** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F72]11** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F73]12** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**13** [^F74]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**14** In paragraph 37 (identification of local planning authority), after “in relation to land” insert “ in England ”.
+
+### Part II — Other Enactments
+
+#### The National Parks and Access to the Countryside Act 1949 (c. 97)
+
+**15** (1) In section 57 of the National Parks and Access to the Countryside Act 1949 (penalty for displaying on footpaths notices deterring public use), in subsection (3), after “district” insert “ or, where they are not the highway authority, the council of the Welsh county or county borough ”.
+
+(2) The provisions of section 69 of that Act (suspension of public access to avoid exceptional risk of fire) shall be subsection (1) of that section and at the end of that section add—
+
+> (2) The reference in subsection (1) of this section to the county planning authority is to be read, in relation to Wales, as a reference to the local planning authority.
+
+(3) In Schedule 1 to that Act (orders designating National Parks and other orders)—
+
+(a) in paragraph 1(3)(a), for “area of every county planning authority whose area” substitute “ every county or county borough which ”;
+
+(b) in paragraph 2(5), after “county planning authority” insert “ or, in Wales, the local planning authority ”.
+
+#### The Local Government, Planning and Land Act 1980 (c. 65)
+
+**16** (1) In section 148 of the Local Government, Planning and Land Act 1980 (planning control), in subsection (4) for “References” substitute “ Except in relation to land in Wales, references ”.
+
+(2) In Schedule 28 to that Act (powers of urban development corporations), in paragraph 11(2)(i), after “district planning authority” insert “ or, in Wales, the local planning authority ”.
+
+#### The Acquisition of Land Act 1981 (c. 67)
+
+**17** (1) In section 17 of the Acquisition of Land Act 1981 (special parliamentary procedure for purposes of acquisition of local authority and statutory undertakers’ land)—
+
+(a) in subsection (3), after “Planning Board,” insert “ a Welsh planning board, ”; and
+
+(b) in subsection (4), after the definition of “statutory undertakers” add—
+
+> - “a Welsh planning board” means a board constituted under—
+>
+>   - (a) section 2(1B) of the [^M33]Town and Country Planning Act 1990; or
+>   - (b) paragraph 3A of Schedule 17 to the [^M34]Local Government Act 1972.
+
+(2) In paragraph 4 of Schedule 3 to that Act (acquisition of new rights over special kinds of land)—
+
+(a) in sub-paragraph (3), after “Planning Board,” insert “ a Welsh planning board, ”; and
+
+(b) in sub-paragraph (4), after the definition of “statutory undertakers” add—
+
+> - “a Welsh planning board” means a board constituted under—
+>
+>   - (a) section 2(1B) of the Town and Country Planning Act 1990; or
+>   - (b) paragraph 3A of Schedule 17 to the Local Government Act 1972.
+
+#### The Litter Act 1983 (c. 35)
+
+**[^F75]18** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### The Housing Act 1985 (c. 68)
+
+**19** In section 573 of the Housing Act 1985 (meaning of “public sector authority”), in subsection (1), after “the Lake District Special Planning Board” insert—
+
+> a Welsh planning board,
+
+and, after that subsection, insert—
+
+> (1A) For the purposes of subsection (1), “a Welsh planning board” means a board constituted under—
+>
+> (a) section 2(1B) of the Town and Country Planning Act 1990; or
+>
+> (b) paragraph 3A of Schedule 17 to the Local Government Act 1972.
+
+#### The Local Government Act 1988 (c. 9)
+
+**20** In Schedule 2 to the Local Government Act 1988 (public authorities for the purposes of public supply or works contracts), after “The Peak Park Joint Planning Board” insert—
+
+> A joint planning board constituted under section 2(1B) of the [^M35]Town and Country Planning Act 1990.
+>
+> A special planning board constituted under paragraph 3A of Schedule 17 to the [^M36]Local Government Act 1972.
+
+#### The Local Government Finance Act 1988 (c. 41)
+
+**21** In Section 74 of the Local Government Finance Act 1988 (power of Secretary of State to make regulations authorising a levying body to issue a levy) at the end add—
+
+> (7) For the purposes of this section—
+>
+> (a) a Welsh joint planning board constituted under section 2(1B) of the Town and Country Planning Act 1990; and
+>
+> (b) a special planning board constituted under paragraph 3A of Schedule 17 to the Local Government Act 1972,
+>
+> shall be treated as a levying body with respect to which regulations may be made under subsection (2) above.
+
+#### The Electricity Act 1989 (c. 29)
+
+**22** In Schedule 8 to the Electricity Act 1989 (consents for generating stations and overhead lines), in paragraph 2(6), in paragraph (a) omit “and Wales” and after that paragraph insert—
+
+> (aa) in relation to Wales, means a local planning authority;
+
+.
+
+#### The Local Government and Housing Act 1989 (c. 42)
+
+**[^F76]23** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### The Town and Country Planning Act 1990 (c. 8)
+
+**24** [^F77]1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) In section 110(2) of that Act (registration of compensation for depreciation), after “district” insert “ , Welsh county, county borough ”.
+
+(3) In section 137(2) of that Act (service of purchase notice), after “district” insert “ , Welsh county, county borough ”.
+
+(4) In section 140(2) of that Act (notice to be given by Secretary of State where purchase notice referred to him), in paragraph (c)—
+
+(a) at the beginning, insert “ in England ”, and
+
+(b) after “to that board;” insert—
+
+> (cc) in Wales, to the local planning authority, where it is a joint planning board;
+
+.
+
+(5) In section 188(1) of that Act (register of enforcement and stop notices), after “planning authority” insert “ , every local planning authority for an area in Wales ”.
+
+(6) In section 226 of that Act (compulsory acquisition of land for development and other planning purposes), in subsection (6)—
+
+(a) in paragraph (a), after first “county” insert “ in England ”; and
+
+(b) in paragraph (b), after “the district;” insert—
+
+> (bb) if the land is in Wales, consult with the council of the county or county borough;
+
+,
+
+and, in subsection (8), after “counties,” insert “ county boroughs, ”.
+
+(7) In section 227(1) of that Act (acquisition of land by agreement), after “county,” insert “ county borough, ”.
+
+(8) In section 231(1) of that Act (power of Secretary of State to require acquisition or development of land), after “county,” insert “ county borough, ”.
+
+(9) In section 247(3)(b) of that Act (highways affected by development: orders by Secretary of State), after “county council,” insert “ county borough council, ”.
+
+(10) In section 252 of that Act (procedure for making of orders under Part X), in subsection (12), in the definition of “local authority”—
+
+(a) after “county,” insert “ county borough, ”; and
+
+(b) after first “parish” insert “ , community ”.
+
+(11) In section 253(4) of that Act (procedure in relation to orders for stopping up or diversion of highways in anticipation of planning permission), after “county,” insert “ county borough, ”.
+
+(12) In section 307(1) of that Act (assistance for acquisition of property where objection made to blight notice in certain cases), after “county,” insert “ county borough, ”.
+
+(13) In section 336 of that Act (interpretation), in subsection (1)—
+
+(a) in the definition of “authority possessing compulsory purchase powers”, after “or county council” insert “ or county borough council ”;
+
+(b) in the definition of “development plan”, for “27” substitute “ 27, 27A ”; and
+
+(c) in the definition of “mineral planning authority”, for “1(4)” substitute “ 1 ”.
+
+(14) After section 336(1) of that Act insert—
+
+> (1A) In this Act—
+>
+> (a) any reference to a county (other than one to a county planning authority) shall be construed, in relation to Wales, as including a reference to a county borough;
+>
+> (b) any reference to a county council shall be construed, in relation to Wales, as including a reference to a county borough council; and
+>
+> (c) section 17(4) and (5) of the Local Government (Wales) Act 1994 (references to counties and districts to be construed generally in relation to Wales as references to counties and county boroughs) shall not apply.
+
+(15) In paragraph 8 of Schedule 1 to that Act (local planning authorities: distribution of functions), in sub-paragraphs (1) and (2)(a), omit “or community”.
+
+(16) In paragraph 3 of Schedule 13 to that Act (blighted land), for “for the district in which it” substitute “ where the land ”.
+
+(17) In paragraph 1 of Schedule 14 to that Act (procedure for footpaths and bridleways orders)—
+
+(a) in sub-paragraph (2)(b)(ii), after first “rural parish” insert “ or community ”; and
+
+(b) in sub-paragraph (3), in the definition of “council”, after “county council,” insert “ a county borough council, ”.
+
+(18) In Part I of Schedule 16 to that Act (provisions referred to in sections 314 to 319 of that Act), for “Section 1(1), (2), (3) and (5)” substitute “ Section 1(1) to (3), (5) and (6) ”.
+
+(19) In paragraph 4 of Schedule 17 to that Act (enactments exempted from section 333(6)), after “a county council” insert “ , county borough council ”.
+
+#### [^F78]...
+
+**[^F78]25** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### The Planning (Hazardous Substances) Act 1990 (c. 10)
+
+**26** (1) In section 1 of the Planning (Hazardous Substances) Act 1990 (hazardous substances authorities: general), after “district” insert “ , Welsh county, county borough ”.
+
+(2) In section 3(1) of that Act (hazardous substances authorities: other special cases), after “non-metropolitan county” insert “ in England ”.
+
+#### The Planning (Consequential Provisions) Act 1990 (c. 11)
+
+**27** In Schedule 3 to the Planning (Consequential Provisions) Act 1990 (transitional provisions and savings), in paragraph 8(1), after “district planning authority” insert “ or, in Wales, the local planning authority ”.
+
+#### The Environmental Protection Act 1990 (c. 43)
+
+**[^F79]28** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### The Local Government (Overseas Assistance) Act 1993 (c. 25)
+
+**[^F80]29** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 7 — Highways, Road Traffic and Transport
+
+*Section 22(1).*
+
+### Part I — Highways
+
+#### The Highways Act 1980 (c. 66)
+
+**1** (1) Section 1 of the Highways Act 1980 (which makes general provision for determining the highway authority) is amended as follows.
+
+(2) After subsection (3) insert—
+
+> (3A) In Wales the council of a county or county borough are the highway authority for all highways in the county or, as the case may be, the county borough, whether or not maintainable at the public expense, which are not highways for which the Minister is the highway authority under subsection (1) above.
+
+(3) After subsection (4) add—
+
+> (5) Subsection (3A) above is subject to any provision of this Act, or of any order made under this or any other Act, by virtue of which a council other than the Welsh council for the area in which the highway is situated are the highway authority.
+
+**2** (1) Section 6 of that Act (delegation etc. of functions with respect to trunk roads) is amended as follows.
+
+(2) After subsection (1A) of that section insert—
+
+> (1B) The Minister shall not delegate functions to a council under subsection (1) above with respect to a trunk road or land outside their area but in Wales except after consultation with the Welsh council in whose area it is situated; and subsection (1A) does not apply in relation to a trunk road or land in Wales.
+
+.
+
+(3) In subsection (6) of that section—
+
+(a) after “the county council” insert “ (the “responsible council”) ”;
+
+(b) after first “district council” insert “ or Welsh council (the “contracting council”) ”; and
+
+(c) for “district” in the second place in which it occurs substitute “ contracting ”.
+
+(4) In subsection (6A) of that section, for “district council” substitute “ contracting council ” and after paragraph (b) insert—
+
+> (c) with respect to a trunk road or land in Wales but outside the area—
+>
+> (i) of the responsible council; and
+>
+> (ii) of the contracting council,
+>
+> except after consultation with the Welsh council in whose area the trunk road or land is situated.
+
+**3** In section 8(4) of that Act (restrictions on certain agreements between local highway authorities)—
+
+(a) after first “county” insert “ (other than one in Wales) ”;
+
+(b) after “another county” insert “ or county borough ”;
+
+(c) for “the counties” substitute “ their areas ”;
+
+(d) after “or of a county” insert “ or county borough ”; and
+
+(e) after “the other county” insert “ or, as the case may be, county borough ”.
+
+**4** In section 36(7) of that Act (highways maintainable at public expense), after “the council of a county” insert “ in England ”.
+
+**5** In section 47(3) of that Act (procedure for applications with regard to unnecessary highways), after “relating to any highway” insert “ in England ”.
+
+**6** In section 67 of that Act (guard-rails in private streets), in subsection (5), at the end add “but, in relation to a street in Wales, means a Welsh council”.
+
+**7** In section 69 of that Act (subways), in subsection (3) at the end add “or, in the case of a road in Wales, as if the Welsh council in whose area it is situated were the highway authority for it”.
+
+**8** In section 79 of that Act (prevention of obstruction at corners), after subsection (3) insert—
+
+> (3A) In relation to any land in Wales—
+>
+> (a) subsection (3) above does not apply; but
+>
+> (b) if the Minister is the highway authority, he shall not serve a notice restraining the erection of any building on the land except with the consent of the Welsh council in whose area the land is situated.
+
+**9** In section 100 of that Act (drainage of highways), after subsection (6) insert—
+
+> (6A) In subsection (6) above, “the district council” shall be read, in relation to Wales, as “the Welsh council”.
+>
+> (6B) Where the highway authority are a Welsh council—
+>
+> (a) subsection (6) above does not apply; but
+>
+> (b) before exercising any powers under sections 158, 159, 163, 165 and 168 of the [^M37]Water Industry Act 1991 by virtue of subsection (5) above, they shall give notice of their intention to do so—
+>
+> (i) to the sewerage undertaker; and
+>
+> (ii) where they propose to exercise those powers outside their county or county borough, to the Welsh council or, as the case may be, the district council
+>
+> within whose area the powers are proposed to be exercised.
+
+**10** In section 114 of that Act (provision of public conveniences), after subsection (2) insert—
+
+> (2A) In subsection (2) above, the reference to the council of the district in which the conveniences will be situated shall be read in relation to Wales as a reference to the Welsh council in whose area the conveniences will be situated.
+>
+> (2B) Where the highway authority referred to in subsection (1) above are or, as the case may be, will be a Welsh council—
+>
+> (a) subsection (2) above does not apply; but
+>
+> (b) before providing any conveniences under subsection (1) above outside their county or county borough they shall give notice of their intention to do so to the Welsh council or, as the case may be, the district council in whose area the conveniences will be situated.
+
+**11** In section 116(3) of that Act (notice of application to stop up or divert highway), after paragraph (a) insert—
+
+> (aa) if the highway is in Wales, the Welsh council for the area in which it is situated if they are not the highway authority for it; and
+
+;
+
+and after “by the district council” insert “ or Welsh council ”.
+
+**12** In section 120 of that Act (exercise of powers under sections 118 to 119A), in subsection (2)(a), for “the” immediately before “other council” substitute “ any ”.
+
+**13** In section 151 of that Act (prevention of soil etc. being washed on to street), after subsection (1) insert—
+
+> (1A) In relation to a street in Wales, the competent authorities for the purposes of this section are the highway authority for the street and, if different, the Welsh council in whose area the street is situated.
+
+**14** In section 154 of that Act (overhanging and dangerous trees etc.), after subsection (1) insert—
+
+> (1A) In subsection (1)(a) above, any reference to a district includes a reference to a Welsh county or county borough.
+
+**15** In section 166 of that Act (forecourt abutting on streets), in subsection (5), after “Middle Temple,” insert “ a Welsh council ”.
+
+**16** In section 185 of that Act (power to install refuse or storage bins in streets), in subsection (1)(a), for “also” substitute “ if different ”.
+
+**17** In section 204(2) of that Act (advance payments code), at the end add—
+
+> (3) The areas in which the advance payments code applies by virtue of subsection (2)(b) above shall be taken to include any area in Wales—
+>
+> (a) which is, or is in, a county borough; and
+>
+> (b) in which the code applied immediately before 1st April 1996 by virtue of that subsection.
+
+**18** (1) Section 205 of that Act (street works in private streets), is amended as follows.
+
+(2) After subsection (4) insert—
+
+> (4A) In the case of a street in Wales—
+>
+> (a) subsection (4) above does not apply; but
+>
+> (b) if the street works referred to in the resolution under subsection (1) above—
+>
+> (i) are to be carried out in a part of the street which is treated as being in the area of a street works authority other than the local Welsh council for it; and
+>
+> (ii) include the sewering of the street,
+>
+> the proper officer of the council which are the street works authority shall, when preparing the specification required by subsection (3) above, consult the local Welsh council for it.
+
+(3) At the end of subsection (5) add—
+
+> and, in the case of any part of a street in Wales which is treated as being in the area of a street works authority which are not the local Welsh council for it, at the offices of the local Welsh council.
+>
+> (5A) For the purposes of this section, the local Welsh council for a street in Wales are the council of the county or county borough in which it is situated.
+
+**19** In section 210 of that Act (power to amend specification, apportionment, etc), at the end of subsection (2) insert “ and, in the case of any part of a street in Wales, the Welsh council for the county or county borough in which it is situated, if different from the street works authority in whose area it is treated as situated. ”
+
+**20** In section 219 of that Act, (exceptions to application of advance payments code), after subsection (4) insert—
+
+> (4A) In subsection (4)(c) above, “district council” is to be read in relation to plans deposited on or after 1st April 1996 for a building to be erected in Wales as “Welsh council”.
+
+**21** In section 220 of that Act (determination of payments under advance payments code), in subsection (1), after first “subsection (2)” insert “ or (2A) ”, after “district council” insert “ or Welsh council ” and for second “subsection (2)” substitute “subsections (2) and (2A)” and, after subsection (2), insert—
+
+> (2A) Where any required plans which—
+>
+> (a) are deposited with a Welsh council; and
+>
+> (b) relate to the erection of a building in an area—
+>
+> (i) in which the advance payments code is in force; but
+>
+> (ii) which is treated as being within the area of a street works authority other than that Welsh council,
+>
+> are passed, the Welsh council shall, in any case to which section 219 above may be applicable, within one week inform the street works authority of that event.
+
+**22** In section 223 of that Act (determination to cease to have effect when plans not proceeded with), at the end add—
+
+> (7) In any case—
+>
+> (a) to which this section may be applicable; and
+>
+> (b) which relates to plans for the erection of a building in any part of a street in Wales which is treated as being in the area of a street works authority other than the Welsh council for the county or county borough in which it is situated,
+>
+> the Welsh council shall within one week inform the street works authority of the happening of any event of a kind described in paragraphs (a) to (c) of subsection (6) above.
+
+**23** In section 232 of that Act (power to treat as a private street land designated by development plan), in subsection (9), for “27” substitute “ 27, 27A ”.
+
+**24** In section 264 of that Act (vesting of drains etc. of certain roads), at the end insert—
+
+> (4) Subsection (3)(a) above does not apply in Wales.
+
+**25** After section 272(5) of that Act (advances for purposes of works under section 96) insert—
+
+> (5A) In relation to any work done in exercise of their powers under section 96 by a Welsh council in a highway within their area for which they are not the highway authority, subsection (5) above applies as though the reference to a district council were a reference to the Welsh council.
+
+**26** In section 287 of that Act (power to erect barriers in streets in cases of emergency etc.), in subsection (6), at the end add “but, in relation to Wales, means a Welsh council”.
+
+**27** (1) Section 329 of that Act (further provision as to interpretation) is amended as follows.
+
+(2) In subsection (1)—
+
+(a) in the definition of “local authority”, at the end add “but, in relation to Wales, means a Welsh council”; and
+
+(b) at the end add—
+
+> “Welsh council” means the council of a Welsh county or county borough.
+
+(3) After subsection (2) insert—
+
+> (2A) In this Act—
+>
+> (a) any reference to a county shall be construed in relation to Wales as including a reference to a county borough;
+>
+> (b) any reference to a county council shall be construed in relation to Wales as including a reference to a county borough council; and
+>
+> (c) section 17(4) and (5) of the Local Government (Wales) Act 1994 (references to counties and districts to be construed generally in relation to Wales as references to counties and county boroughs) shall not apply.
+
+(4) After subsection (3) of that section insert—
+
+> (3A) In a case where two or more communities are grouped under a common community council, references in this Act to a community are to be construed as references to those communities.
+
+**28** In Schedule 9 to that Act (improvement lines and building lines), after paragraph 2 insert—
+
+> **2A** Paragraph 2 above does not apply in relation to a street or highway in Wales.
+
+**29** In Schedule 12 to that Act (provisions as to orders under section 116 of that Act), in paragraph 1(d) after “district council” insert “ if the highway is a classified road in a Welsh county or county borough and the council of that county or county borough is not the highway authority, to the council of that county or county borough ”.
+
+#### The Conwy Tunnel (Supplementary Powers) Act 1983 (c. 7)
+
+**30** In section 8(4)(b) of the Conwy Tunnel (Supplementary Powers) Act 1983 (provisions supplementary to section 7), for “the Aberconwy Borough Council” substitute “ the Aberconwy and Colwyn County Borough Council ”.
+
+#### The Level Crossings Act 1983 (c. 16)
+
+**31** In section 1(11) of the Level Crossings Act 1983 (interpretation), in the definition of “local authority”—
+
+(a) omit “and Wales”, and
+
+(b) after “City of London” insert “, in relation to Wales, means any council of a county or county borough”.
+
+#### The New Roads and Street Works Act 1991 (c. 22)
+
+**32** (1) In section 94 of the New Roads and Street Works Act 1991 (power of street authority or district council to undertake street works), after subsection (1) insert—
+
+> (1A) In subsection (1), the reference to a district council, is to be read, in relation to Wales, as a reference to a county council or a county borough council.
+
+(2) In paragraph 2 of Schedule 2 to that Act (procedure in connection with toll orders), in sub-paragraph (3), after “City of London” insert “ but, in relation to Wales, means a county council or county borough council ”.
+
+#### The Severn Bridges Act 1992 (c. 3)
+
+**33** (1) In section 39(1) of the Severn Bridges Act 1992 (interpretation), in the definition of “local authority”, at the end insert “ but, in relation to Wales, means a county council or a county borough council ”.
+
+(2) In paragraph 8 of Schedule 2 to that Act (correction of deposited plans), in sub-paragraph (3), for “Monmouth Borough Council” substitute “ Monmouthshire County Council ”.
+
+(3) In of Schedule 3 to that Act (other highway works)—
+
+(a) in paragraph 6(4)(b), for “Gwent County Council” substitute “ Monmouthshire County Council ”; and
+
+(b) in paragraph 8(3), omit “Gwent County Council”.
+
+#### The Transport and Works Act 1992 (c. 42)
+
+**34** (1) In section 11 of the Transport and Works Act 1992 (inquiries and hearings), in subsection (4), after “the Council of the Isles of Scilly” insert “ , a county borough council, ”.
+
+(2) In section 14 of that Act (publicity for making or refusal of orders), in subsection (7), at the end insert “ but are, in relation to Wales, county councils and county borough councils ”.
+
+(3) In section 48 of that Act (footpaths and bridleways over railways), in subsection (8), in the definition of “local authority” after “City of London” insert “ , a county borough council, ”.
+
+### Part II — Road Traffic and Transport
+
+#### The Transport Act 1968 (c. 73)
+
+**35** In section 159 of the Transport Act 1968 (interpretation), at the end add—
+
+> (3) In this Act—
+>
+> (a) any reference to a county (other than one to a metropolitan county) shall be construed in relation to Wales as including a reference to a county borough;
+>
+> (b) any reference to a county council shall be construed in relation to Wales as including a reference to a county borough council; and
+>
+> (c) section 17(4) and (5) of the Local Government (Wales) Act 1994 (references to counties and districts to be construed generally in relation to Wales as references to counties and county boroughs) shall not apply.
+
+#### The Public Passenger Vehicles Act 1981 (c. 14)
+
+**36** In section 82 of the Public Passenger Vehicles Act 1981 (general interpretation provisions), at the end add—
+
+> (3) In this Act—
+>
+> (a) any reference to a county shall be construed in relation to Wales as including a reference to a county borough;
+>
+> (b) any reference to a county council shall be construed in relation to Wales as including a reference to a county borough council; and
+>
+> (c) section 17(4) and (5) of the Local Government (Wales) Act 1994 (references to counties and districts to be construed generally in relation to Wales as references to counties and county boroughs) shall not apply.
+
+#### The Transport Act 1981 (c. 56)
+
+**37** In section 35 of the Transport Act 1981 (charges for licensing of cabs and cab drivers), after subsection (3) insert—
+
+> (3A) In subsection (3) above, references to a district council shall be read, in relation to Wales, as references to a county council or a county borough council.
+
+#### The Road Traffic Regulation Act 1984 (c. 27)
+
+**38** (1) In section 39 of the Road Traffic Regulation Act 1984 (supplementary provisions as to exercise of powers under sections 32 to 35 in England or Wales), in subsection (4), omit “a district council in Wales proposes to make an order under section 32 or 35 of this Act, or”, and after subsection (7) insert—
+
+> (7A) Subsection (7) above does not apply in Wales.
+
+(2) In section 44 of that Act (control of off-street parking outside Greater London)—
+
+(a) in subsection (1)(a), for “Welsh counties” substitute “ Welsh counties or county boroughs, by the county council or (as the case may be) county borough council ”; and
+
+(b) in subsection (3)(b) omit “and counties in Wales”.
+
+(3) In section 45(7) of that Act (definition of “local authority” for purposes of sections making provision for parking on highways)—
+
+(a) in paragraph (b), for the words “or of a district” substitute “ or county borough ”; and
+
+(b) omit “in England and Scotland” and the words from “and in Wales” to the end.
+
+(4) In section 49 of that Act (supplementary provisions as to designation orders and designated parking places), omit subsection (3).
+
+(5) Omit section 54 of that Act (designation orders in Wales).
+
+(6) In section 55 of that Act (financial provisions relating to designation orders)—
+
+(a) in subsections (2) and (4)(a) after “general fund” insert “ or, in Wales, council fund ”; and
+
+(b) omit subsection (6).
+
+(7) In section 59 of that Act (consents for, and provisions as to use of, parking places under section 57(1)(b)), in subsection (2), in paragraph (b) omit “or community” and after that subsection insert—
+
+> (2A) In subsection (2) above, paragraph (b) and the words which follow it do not apply in relation to Wales.
+
+(8) In section 100 of that Act (interim disposal of vehicles removed under section 99), in subsection (5), in paragraph (b) of the definition of “local authority”, for “or of a district” substitute “ or county borough ”.
+
+(9) In section 125(4) of that Act (boundary roads), omit the words from “or, in relation to” to the end.
+
+(10) In section 142 of that Act (interpretation), after subsection (1) insert—
+
+> (1A) In this Act—
+>
+> (a) any reference to a county shall be construed in relation to Wales as including a reference to a county borough;
+>
+> (b) any reference to a county council shall be construed in relation to Wales as including a reference to a county borough council; and
+>
+> (c) section 17(4) and (5) of the Local Government (Wales) Act 1994 (references to counties and districts to be construed generally in relation to Wales as references to counties and county boroughs) shall not apply.
+
+(11) In Schedule 9 to that Act (special provisions as to certain orders)—
+
+(a) omit paragraph 11;
+
+(b) in paragraph 24, for “sections 39 and 54” substitute “ section 39 ”; and
+
+(c) in paragraph 27(2), omit “54(5)”.
+
+#### The Transport Act 1985 (c. 67)
+
+**39** (1) In section 63(4) of the Transport Act 1985 (functions of local councils with respect to passenger transport outside passenger transport areas), omit “and Wales”.
+
+(2) In section 64(1) of that Act (consultation and publicity with respect to policies as to services), omit “and Wales”.
+
+(3) In section 66(1) of that Act (exclusions of powers of certain councils to run bus undertakings) for “and Wales” substitute “ a county council or county borough council in Wales ”.
+
+(4) Section 81 of that Act (provision, maintenance and operation of bus stations) is amended as provided in subsections (5) to (7).
+
+(5) After subsection (2) insert—
+
+> (2A) Where, immediately before 1st April 1996, a council (the “former council”) had power, by virtue of subsection (2) above, to maintain, repair and operate a bus station and any associated facilities, that power is, on and after that date, exercisable—
+>
+> (a) where the bus station and any such associated facilities—
+>
+> (i) was or were, immediately before 1st April 1996, situated wholly within the area of the former council, and
+>
+> (ii) is or are, on and after that date, situated wholly within a single Welsh county or county borough,
+>
+> by the council of that county or county borough; and
+>
+> (b) in any other case, by such Welsh county council or county borough council as the Secretary of State may by order designate.
+
+(6) After subsection (5) of that section insert—
+
+> (5A) Any Welsh county council or county borough council by whom any power is exercisable in relation to a bus station and any associated facilities by virtue of subsection (2A) above shall have power—
+>
+> (a) to make reasonable charges for the use of accommodation for public service vehicles at that bus station; and
+>
+> (b) to make reasonable charges for the use of, or let on hire to any person, those facilities (if any).
+
+(7) In subsection (6) of that section, for “(3) or (5)” substitute “ (3), (5) or (5A) ”.
+
+(8) In section 87 of that Act (interpretation of Part IV), at the end add—
+
+> and
+>
+> (f) references to a district council shall be read, in relation to Wales, as references to a county council or county borough council, and references to a district shall be so read as references to a county or, as the case may be, county borough.
+
+(9) In section 105 of that Act (travel concessions on services provided by local authorities), after subsection (2) insert—
+
+> (2A) In subsection (2) above, the reference to the general fund shall be read, in relation to Wales, as a reference to the council fund.
+
+(10) In section 137 of that Act (general interpretation), after subsection (2) insert—
+
+> (2A) In this Act—
+>
+> (a) any reference to a county shall be construed in relation to Wales as including a reference to a county borough;
+>
+> (b) any reference to a county council shall be construed in relation to Wales as including a reference to a county borough council; and
+>
+> (c) section 17(4) and (5) of the Local Government (Wales) Act 1994 (references to counties and districts to be construed generally in relation to Wales as references to counties and county boroughs) shall not apply.
+
+#### The Road Traffic Act 1988 (c. 52)
+
+**40** (1) In section 192 of the Road Traffic Act 1988 (general interpretation of Act), after subsection (1) insert—
+
+> (1A) In this Act—
+>
+> (a) any reference to a county shall be construed in relation to Wales as including a reference to a county borough; and
+>
+> (b) section 17(4) and (5) of the Local Government (Wales) Act 1994 (references to counties and districts to be construed generally in relation to Wales as references to counties and county boroughs) shall not apply.
+
+(2) In paragraph 1(b) of Schedule 2 to that Act (deferred tests of condition of vehicles)—
+
+(a) omit “and Wales”; and
+
+(b) after “Greater London” insert “ in such county or county borough in Wales ”.
+
+#### The Road Traffic Offenders Act 1988 (c. 53)
+
+**41** (1) Section 4 of the Road Traffic Offenders Act 1988 (offences for which local authorities in England and Wales may institute proceedings) is amended as follows.
+
+(2) In subsection (5)—
+
+(a) for “or district” substitute “ or county borough ”; and
+
+(b) omit the words from “except, in Wales,” to the end.
+
+(3) After subsection (7) add—
+
+> (8) In relation to Wales, any reference in subsections (1) to (4) above to a county shall be read as including a reference to a county borough.
+
+#### The Road Traffic Act 1991 (c. 40)
+
+**42** In section 47 of the Road Traffic Act 1991 (applications for licences to drive hackney carriages etc.), after subsection (2) add—
+
+> (3) In subsection (2), the reference to a district council shall be read in relation to Wales as including a reference to a county council or county borough council.
+
+**43** In Schedule 3 to the Road Traffic Act 1991 (permitted and special parking areas outside London)—
+
+(a) in paragraphs 1(1)(a) and 2(1)(a), omit “and Wales”;
+
+(b) [^F81]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(c) omit paragraphs 1(1)(e) (except the word “or” immediately before paragraph (f)) and (2) and 2(2).
+
+## SCHEDULE 8 — Housing
+
+*Section 22(2).*
+
+### The Leasehold Reform Act 1967 (c. 88)
+
+**1** (1) In section 28 of the Leasehold Reform Act (retention or resumption of land required for public purposes), after subsection (6) insert—
+
+> (6A) In subsections (5) and (6) above, any reference to a county council shall be read, in relation to Wales, as including a reference to a county borough council.
+
+(2) In Schedule 4A to that Act (exclusion of certain shared ownership leases), in paragraph 2(2)(a), after “county,” insert “ county borough, ”.
+
+### The Rent (Agriculture) Act 1976 (c. 80)
+
+**2** In section 5 of the Rent (Agriculture) Act 1976 (no statutory tenancy where landlord’s interest belongs to Crown or to local authority, etc.), in subsection (3)(a), after “county” insert “ , county borough ”.
+
+### The Rent Act 1977 (c. 42)
+
+**3** (1) In section 14 of the Rent Act 1977 (landlord’s interest belonging to local authority, etc.), in paragraph (a), after “county” insert “ or county borough ”.
+
+(2) [^F82]In section 62 of that Act (registration areas for registration of rents), in paragraph (a), after “counties” insert [^F82]“ and county boroughs ”[^F82].
+
+(3) In section 83 of that Act (local authorities for Part V), in paragraph (a), after “question,” insert—
+
+> (aa) in a Welsh county or county borough, the council of the county or county borough in question,
+
+.
+
+(4) In section 124(8) of that Act (which defines “local authority” for the purposes of that section), at the end add “ or, in Wales, the council of a county or county borough ”.
+
+(5) In section 149 of that Act (powers of local authorities for the purposes of giving information), in subsection (2), after paragraph (a) insert—
+
+> (aa) councils of Welsh counties and county boroughs;
+
+.
+
+### The Protection from Eviction Act 1977 (c. 43)
+
+**4** (1) In section 3A of the Protection from Eviction Act 1977 (excluded tenancies and licences), in subsection (8)(a), after “county,” insert “ county borough, ”.
+
+(2) In section 6 of that Act (prosecution of offences), after paragraph (a) insert—
+
+> (aa) councils of Welsh counties and county boroughs;
+
+.
+
+### The Housing Act 1985 (c. 68)
+
+**5** (1) In section 1 of the Housing Act 1985 (local housing authorities), after “City of London” insert “ a Welsh county council or county borough council ”.
+
+(2) In section 2(1) of that Act (the district of a local housing authority), after “City of London” insert “ the Welsh county or county borough, ”.
+
+(3) In section 4 of that Act (other descriptions of authority), in paragraph (e), after “county,” insert “ county borough, ”.
+
+(4) In section 14 of that Act (exercise of powers by authority outside district), in subsection (2), in paragraph (b), after “outside that county” insert “ but in England ” and after that subsection insert—
+
+> (2A) Where a Welsh county council or county borough council propose to exercise the power in England they shall before doing so give notice of their intention to the council of the county in which they propose to exercise the power, but failure to give notice does not invalidate the exercise of the power.
+
+;
+
+and, in subsection (3), after “county,” insert “ county borough, ”.
+
+(5) In section 16(2) of that Act (exercise outside Greater London of powers of authorities in London), after “district” insert “ or, in Wales, of the county or county borough ”.
+
+(6) In section 28 of that Act (reserve powers to provide housing accommodation), in subsection (1), after “councils” insert “ in England ”.
+
+(7) In sections 105(6)(b) and 106(3)(b) of that Act (consultation on matters of housing management and information about housing allocation), after “district” insert “ , Welsh county or county borough ” in each place.
+
+### The Housing Associations Act 1985 (c. 69)
+
+**6** (1) In section 34 of the Housing Associations Act 1985 (provision of land by county councils), in subsection (1), after “wishes to erect houses” insert “ in England ”.
+
+(2) In section 106(1) of that Act (minor definitions: general), in the definition of “local authority”, after “county,” insert “ county borough, ”.
+
+### The Landlord and Tenant Act 1985 (c. 70)
+
+**7** In section 38 of the Landlord and Tenant Act 1985 (minor definitions), in the definition of “local authority” after “county” insert “ county borough ”.
+
+### The Landlord and Tenant Act 1987 (c. 31)
+
+**8** In section 58 of the Landlord and Tenant Act 1987 (exempt landlords and resident landlords), in subsection (1)(a) after “county” insert “ , county borough ”.
+
+### The Housing Act 1988 (c. 50)
+
+**9** [^F83]1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) In Schedule 1 to [[^F84]the Housing Act 1988] (tenancies which cannot be assured tenancies), in paragraph 12(2)(a) (local authority tenancies etc.), after “county,” insert “ county borough, ”.
+
+### The Local Government and Housing Act 1989 (c. 42)
+
+**10** [^F85]1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F85]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) In section 172 of that Act (transfer of new town housing stock)—
+
+(a) in subsections (2)(a) and (7)(c), after “district council” insert “ or Welsh county council or county borough council ” in both places; and
+
+(b) in subsection (2)(a), for second “district” substitute “ area ”.
+
+### The Social Security Administration Act 1992 (c. 5)
+
+**11** In section 15A of the Social Security Administration Act 1992 (payment out of benefit of sums in respect of mortgage interest etc.), in subsection (3)(d), after “county council,” insert “ county borough council, ”.
+
+## SCHEDULE 9 — Public Health
+
+*Section 22(3).*
+
+### The Celluloid and Cinematograph Film Act 1922 (c. 35)
+
+**1** In section 9 of the Celluloid and Cinematograph Film Act 1922 (definitions), in the definition of “local authority”, after “of a county” insert “ or county borough ”.
+
+### The Petroleum (Consolidation) Act 1928 (c. 32)
+
+**2** In section 2(1)(c) of the Petroleum (Consolidation) Act 1928 (local authorities empowered to grant petroleum-spirit licences outside Greater London), after “county council” insert “ or county borough council ”.
+
+### The Public Health Act 1936 (c. 49)
+
+**3** (1) In section 1 of the Public Health Act 1936 (local authorities), in paragraph (a) of subsection (1), at the beginning insert “ except in Wales, ” and omit “or community”, and after that paragraph insert—
+
+> (aa) in Wales, the county council or county borough council as respects all matters, without prejudice, however, to the exercise by a community council of any powers conferred upon such a council;
+
+.
+
+(2) In subsection (2) of section 1—
+
+(a) in the definition of “district”, at the end add “ and, in relation to a local authority in Wales, means a county or (as the case may be) county borough ”; and
+
+(b) in the definition of “local authority”, at the end add “but, in relation to Wales, means the council of a county or county borough”.
+
+(3) In section 6 of that Act (union of districts, etc.), at the end add—
+
+> (6) In relation to Wales, the proviso in subsection (2) of this section does not apply and subsection (4) of this section applies as if the words “and also the county council” and “or council” were omitted.
+
+(4) In section 267 of that Act (application to ships and boats), after subsection (2) insert—
+
+> (2A) Subsection (2) of this section does not apply if the point on land which is nearest to the spot where the vessel is lying is in Wales.
+
+(5) In section 309 of that Act (expenses of joint boards), at the end add—
+
+> (6) In subsection (5) of this section, the reference to a county council shall not include a reference to the council of a Welsh county or county borough.
+
+### The Rag Flock and Other Filling Materials Act 1951 (c. 63)
+
+**[^F86]4** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Nurses Agencies Act 1957 (c. 16)
+
+**5** In section 2 of the Nurses Agencies Act 1957 (licensing of agencies), at the end of subsection (1) add “but, in relation to a county or county borough in Wales, means the council of that county or county borough.”
+
+### The Scrap Metal Dealers Act 1964 (c. 69)
+
+**[^F87]6** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Riding Establishments Act 1964 (c. 70)
+
+**7** In section 6(4) of the Riding Establishments Act 1964 (interpretation), in the definition of “local authority”, after “City of London;” insert “ in Wales means the council of a county or county borough; ”.
+
+### The Fire Precautions Act 1971 (c. 40)
+
+**8** In section 43(1) of the Fire Precautions Act 1971 (interpretation), in the definition of “local authority”, in paragraph (a) omit “and Wales” and after that paragraph insert—
+
+> (aa) as respects Wales, the council of a county or county borough;
+
+.
+
+### The Health and Safety at Work etc. Act 1974 (c. 37)
+
+**9** In section 53(1) of the Health and Safety at Work etc. Act 1974 (general interpretation of Part I), in the definition of “local authority”, in paragraph (a) omit “and Wales” and after that paragraph insert—
+
+> (aa) in relation to Wales, a county council or a county borough council,
+
+.
+
+### The Control of Pollution Act 1974 (c. 40)
+
+**10** (1) In section 22 of the Control of Pollution Act 1974 (street cleaning etc), in subsection (4), in the definition of “local authority”, after “City of London” insert “ but, in relation to Wales, means the council of a county or county borough ”.
+
+(2) In section 30 of that Act (interpretation etc. of Part I), in subsection (1), after “following subsection” insert “ and to subsection (6) below ”, and at the end add—
+
+> (6) In the application of this Part of this Act to Wales—
+>
+> - “collection authority” means a county council or county borough council; and
+> - “disposal authority” means a county council or county borough council.
+
+(3) In section 73(1) of that Act (interpretation of Part III), in paragraph (a) of the definition of “local authority” omit “and Wales” and after “Middle Temple;” insert—
+
+> (aa) in Wales, the council of a county or a county borough;
+
+.
+
+(4) In section 98 of that Act (interpretation of Part V), in paragraph (a) of the definition of “relevant authority” omit “and Wales” and at the end of that paragraph insert—
+
+> (aa) in Wales, the Secretary of State, a county council or a county borough council and, for the purposes of sections 91 to 93 of this Act, a sewerage undertaker; and
+
+.
+
+(5) In section 105(1) of that Act (general interpretation), after “county” insert, “county borough”.
+
+### The Refuse Disposal (Amenity) Act 1978 (c. 3)
+
+**11** In section 11(1) of the Refuse Disposal (Amenity) Act 1978 (interpretation), in paragraph (c) of the definition of “local authority”, for “district council” substitute “ county council or county borough council ”.
+
+### The Litter Act 1983 (c. 35)
+
+**12** The provisions of section 10 of the Litter Act 1983 (interpretation) shall be subsection (1) of that section, and at the end of that section add—
+
+> (2) In the application of this Act in relation to Wales, any reference to a county shall be read as including a reference to a county borough and any reference to a county council shall be read as including a reference to a county borough council.
+
+### The Public Health (Control of Disease) Act 1984 (c. 22)
+
+**13** (1) In section 1 of the Public Health (Control of Disease) Act 1984 (authorities administering the Act), in subsection (1), after paragraph (a) insert—
+
+> (aa) in Wales, a county council or county borough council,
+
+;
+
+and in subsection (4)(c), after “county councils” insert “ or county borough councils ”.
+
+(2) In section 13 of that Act (regulations for control of certain diseases), in subsection (4)(a), after “county councils,” insert “ county borough councils, ”.
+
+(3) In section 53 of that Act (interpretation of Part IV), in the definition of “canal”, after “county” insert “or county borough”.
+
+(4) In section 64 of that Act (restriction on right to prosecute), in subsection (2)(a), after “district council” insert “Welsh county council, county borough council”.
+
+(5) In section 74 of that Act (general interpretation), in the definition of “district”, at the end add “and, in relation to a local authority in Wales, means a county or county borough”.
+
+### The Food Act 1984 (c. 30)
+
+**14** In section 61 of the Food Act 1984 (interpretation for Part III), in the definition of “local authority”, after “parish” insert “ council but, in relation to Wales, means a county council, county borough council ”.
+
+### The Building Act 1984 (c. 55)
+
+**15** (1) In section 18 of the Building Act 1984 (building over sewer etc.), after subsection (2) insert—
+
+> (2A) In subsection (2) above, the reference to the council of the district or borough shall be read, in relation to Wales, as a reference to the council of the county or county borough.
+
+(2) In section 87 of that Act (application of provisions to Crown property), after subsection (2) insert—
+
+> (2A) Subsection (2) above shall apply in relation to property in Wales as if—
+>
+> (a) in paragraph (a) the reference to a county included a reference to a county borough; and
+>
+> (b) paragraph (b) were omitted.
+
+(3) In section 126 of that Act (general interpretation), in the definition of “local authority”, after “Isles of Scilly” insert “ but, in relation to Wales, means the council of a county or county borough; ”.
+
+### The Food Safety Act 1990 (c. 16)
+
+**16** (1) In section 5 of the Food Safety Act 1990 (definition of food authority), in subsection (1) omit “and Wales”, and after that subsection insert—
+
+> (1A) Subject to subsection (3)(a) and (b) below, the food authorities in Wales are, as respects each county or county borough, the council of that county or county borough.
+
+(2) In section 27(5) of that Act (appointment of public analysts), after “district” insert “ in England ”.
+
+### The Environmental Protection Act 1990 (c. 43)
+
+**[^F88]17** (1) In section 4(11) of the Environmental Protection Act 1990 (which defines “local authority” for the purposes of Part I), [^F89]. . . after “Isles of Scilly;” insert—
+
+> (bb) in Wales, a county council or county borough council;
+
+.
+
+(2) In section 30 of that Act (authorities for purposes of Part II), for [[^F90]subsection (2)(f)] substitute—
+
+> (f) for any county or county borough in Wales, the council of the county or county borough;
+
+.
+
+(3) In subsection (3) of section 30, in paragraph (a) omit “and Wales” and after paragraph (b) insert—
+
+> (bb) for any county or county borough in Wales, the council of the county or county borough;
+
+.
+
+[^F91]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) In section 79(7) of that Act (miscellaneous definitions for purposes of Part III), in paragraph (b) of the definition of “local authority”, at the beginning insert “ in England ” and after “council;” insert—
+
+> (bb) in Wales, a county council or county borough council;
+
+.
+
+(6) In section 86 of that Act (preliminary provisions relating to litter), in subsection (2), after paragraph (a) insert—
+
+> (aa) a county borough council,
+
+.
+
+(7) In subsection (9)(b) of section 86, at the beginning insert “in England” and after “district;” insert—
+
+> (bb) in Wales, the council of the county or county borough;
+
+.
+
+(8) In section 88 of that Act (fixed penalty notices for leaving litter), in subsection (9)—
+
+(a) in paragraph (a), for “a county” substitute “ an English county ”; and
+
+(b) in paragraph (b), immediately before “county council” insert “ English ”.
+
+(9) In that Act, in each of—
+
+(a) section 90(3) (litter control areas),
+
+(b) section 92(1) (summary proceedings by litter authorities), and
+
+(c) section 95(1) (public registers),
+
+for “a” immediately before “county council” substitute “ an English ”, and immediately before each of “regional” and “joint” insert “ a ”.
+
+(10) In section 93(1) of that Act (street litter control notices), for “a” immediately before “county council” substitute “ an English ”, and immediately before “regional” insert “ a ”.
+
+(11) In section 99(5) of that Act (provisions relating to abandoned trolleys), in paragraph (d), after “Isles of Scilly;” insert—
+
+> (dd) in Wales, the council of a county or county borough;
+
+.
+
+(12) In section 143 of that Act (public registers of land which may be contaminated), in subsection (6), in paragraph (b) of the definition of “local authority”, omit “and Wales” and after “council;” insert—
+
+> (bb) in Wales, a county council or county borough council;
+
+.
+
+(13) In section 149 of that Act (seizure of stray dogs), in subsection (11), in the definition of “local authority” omit “and Wales” and after “Isles of Scilly” insert “ in relation to Wales, means a county council or a county borough council ”.
+
+### The Clean Air Act 1993 (c. 11)
+
+**18** In section 64(1) of the Clean Air Act 1993 (general provisions as to interpretation) in the definition of “local authority”, in paragraph (a) omit “and Wales” and after “Middle Temple” insert—
+
+> (aa) in Wales, the council of a county or county borough;
+
+.
+
+## SCHEDULE 10 — Social Services
+
+*Section 22(4).*
+
+### The Children and Young Persons Act 1933 (c. 12)
+
+**1** (1) Section 96 of the Children and Young Persons Act 1933 (provisions as to local authorities) is amended as follows.
+
+(2) In subsection (1A), at the end add “but, in relation to Wales, shall be the councils of counties and county boroughs”.
+
+(3) [^F92]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The National Assistance Act 1948 (c. 29)
+
+**2** (1) In section 47 of the National Assistance Act 1948 (removal to suitable premises of persons in need of care and attention), in subsection (12), after “City of London” insert “ , in Wales the councils of counties and county boroughs ”.
+
+(2) In section 64(1) of that Act (interpretation), in the definition of “local authority” at the end add “ but in relation to Wales means the council of a county or county borough ”.
+
+### The Disabled Persons (Employment) Act 1958 (c. 33)
+
+**3** In section 3 of the Disabled Persons (Employment) Act 1958 (provision of sheltered employment by local authorities), in subsection (5), omit “or Wales” and at the end add “ and in relation to Wales, the council of a county or county borough ”.
+
+### The Children and Young Persons Act 1963 (c. 37)
+
+**4** (1) [^F93]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) In section 63 of that Act (interpretation), in subsection (1A), after “metropolitan counties),” insert “ of county boroughs, ”.
+
+### The Health Services and Public Health Act 1968 (c. 46)
+
+**5** (1) In section 45 of the Health Services and Public Health Act 1968 (promotion, by local authorities, of the welfare of old people), in subsection (11), after “county, or of a” insert “ county borough, ”.
+
+(2) In section 64 of that Act (financial assistance to certain voluntary organisations), in subsection (3)(b), after “non-metropolitan county,” insert “ county borough, ”.
+
+(3) In section 65 of that Act (which makes similar provision relating to financial assistance by local authorities), in subsection (3)(a), after “county, or of a” insert “ county borough, ”.
+
+### The Children and Young Persons Act 1969 (c. 54)
+
+**6** In section 70(1) of the Children and Young Persons Act 1969 (interpretation), in the definition of “local authority”, after “county or of a” insert “ county borough, ”.
+
+### The Local Authority Social Services Act 1970 (c. 42)
+
+**7** In section 1 of the Local Authority Social Services Act 1970 (local authorities for the purposes of the Act), at the end add “ but, in relation to Wales, shall be the councils of counties and county boroughs ”.
+
+### The Chronically Sick and Disabled Persons Act 1970 (c. 44)
+
+**8** In section 21 of the Chronically Sick and Disabled Persons Act 1970 (badges for display on motor vehicles used by disabled persons), in subsection (8), omit “or Wales” and after “London borough” insert “ , the council of a Welsh county or county borough ”.
+
+### The Adoption Act 1976 (c. 36)
+
+**9** [^F94]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Supplementary Benefits Act 1976 (c. 71)
+
+**10** In Schedule 5 to the Supplementary Benefits Act 1976 (re-establishment courses and resettlement units)—
+
+(a) in paragraph 2(2), after “counties” insert “ , of county boroughs ”; and
+
+(b) in paragraph 4(2), after “county,” insert “ a county borough, ”.
+
+### The National Health Service Act 1977 (c. 49)
+
+**11** [^F95]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Health and Social Services and Social Security Adjudications Act 1983 (c. 41)
+
+**12** In Part II of Schedule 9 to the Health and Social Services and Social Security Adjudications Act 1983 (meals and recreation for old people)—
+
+(a) in paragraphs 1 and 2, after “council” insert “ or Welsh county council or county borough council ” in each place; and
+
+(b) in paragraph 3, after “district councils” insert “ or Welsh county councils or county borough councils ” in all places.
+
+### The Children Act 1989 (c. 41)
+
+**13** In section 105 of the Children Act 1989 (interpretation), in the definition of “local authority” in subsection (1), omit “and Wales” and after “City of London” insert “, in relation to Wales, the council of a county or a county borough”.
+
+### The National Health Service and Community Care Act 1990 (c. 19)
+
+**14** In section 46 of the National Health Service and Community Care Act 1990 (local authority plans for community care services), in subsection (3), in the definition of “local authority”, after “county,” insert “ a county borough, ”.
+
+## SCHEDULE 11 — Water, Land Drainage and Coast Protection
+
+*Section 22(5).*
+
+### Part I — Water
+
+#### The Reservoirs Act 1975 (c. 23)
+
+**1** In section 2 of the Reservoirs Act 1975 (functions of local authorities), in subsection (1)—
+
+(a) omit “and Wales”; and
+
+(b) after “London boroughs” insert “ , in Wales, the councils of counties and county boroughs ”.
+
+#### The Water Industry Act 1991 (c. 56)
+
+**2** (1) In section 191 of the Water Industry Act 1991 (duties to make recreational facilities available when building reservoirs in Wales), in subsection (2)(b), for “district” substitute “ county or county borough ”.
+
+(2) In section 219 of that Act (interpretation), in subsection (1), in the definition of “local authority”, at the end add “ but, in relation to Wales, means the council of a county or county borough ”.
+
+#### The Water Resources Act 1991 (c. 57)
+
+**3** [^F96]1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F96]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) In section 140 of that Act (appeals relating to contributions from internal drainage boards), in subsection (1)(b), after “county” insert “ , county borough ”.
+
+(4) In section 167 of that Act (power to dispose of spoil in connection with flood defence works), in subsection (3), after “London borough” insert “ or Welsh county or county borough ”.
+
+(5) In section 184 of that Act (duties to make recreational facilities available when building reservoirs in Wales), in subsection (2)(b), for “district” substitute “ county or county borough ”.
+
+(6) In section 221 of that Act (general interpretation), in the definition of “local authority” in subsection (1), after “county,” insert “ county borough, ”.
+
+(7) In Schedule 8 to that Act (proceedings on applications for drought orders), in the Table in paragraph 1(2), for “a county” in each place substitute “ an English county ”.
+
+(8) In Schedule 14 to that Act (orders transferring main river functions to the Authority), in paragraph 2(2)(a), after “county council” insert “ , county borough council ”.
+
+(9) In Schedule 15 to that Act (drainage charges), in paragraph 13(4), after “London borough” in each place insert “ or Welsh county or county borough ”.
+
+(10) In Schedule 16 to that Act (schemes imposing special drainage charges)—
+
+(a) in paragraph 1(2)(a)(i), after “county,” insert “ county borough, ”; and
+
+(b) in paragraph 3(2)(a), after “county council” insert “ , county borough council ”.
+
+(11) In Schedule 19 to that Act (orders conferring compulsory works powers), in paragraph 1(3)(a), for “a county” substitute “ an English county ”.
+
+### Part II — Land Drainage
+
+#### The Land Drainage Act 1991 (c. 59)
+
+**4** (1) In section 10 of the Land Drainage Act 1991 (exercise of default powers by local authorities), in subsection (1), after “county,” insert “ county borough, ”.
+
+(2) In section 14 of that Act (general drainage powers of boards and local authorities), in subsection (4)(b), for “a county” substitute “ an English county ”.
+
+(3) In section 15 of that Act (disposal of spoil by boards and local authorities), in subsection (5), for “London borough,” substitute “ London borough or Welsh county or county borough, ”.
+
+(4) In section 16 of that Act (exercise of local authority powers under sections 14 and 15), in subsection (1), for “subsection (3)” substitute “ subsections (3) and (3A) ”, in subsection (2), after “borough council” insert “ or Welsh county council or county borough council ”, and at the end add—
+
+> (3A) Subsection (1) above does not apply in relation to powers conferred on a Welsh county council or county borough council.
+
+(5) In section 18 of that Act (drainage of small areas), after subsection (1) insert—
+
+> (1A) Subsection (1) above has effect in relation to land in Wales with the omission of the words “other than a district council”.
+
+(6) In section 20 of that Act (arrangements with other persons for carrying out drainage works), at the end add—
+
+> (5) Subsection (2) above has effect in relation to Wales with the omission of “other than the council of a non-metropolitan district”.
+
+(7) In section 55 of that Act (powers to borrow), in subsection (2), after “county” insert “ , county borough ”.
+
+(8) In section 57 of that Act (contributions by the NRA to expenses of internal drainage boards), in subsection (4)(b), after “county” insert “ , county borough ”.
+
+(9) In section 58 of that Act (allocation of NRA revenue for its functions as an internal drainage board), in subsection (4), after “county” insert “ , county borough ”.
+
+(10) In section 62 of that Act (powers to acquire land), in subsection (2), after “London borough” insert “ or Welsh county or county borough ”.
+
+(11) In section 66 of that Act (powers to make byelaws), in subsections (1) and (2), for “a county” in each place substitute “ an English county ”.
+
+(12) In section 72 of that Act (interpretation), in the definition of “local authority” in subsection (1), after “county,” insert “ county borough, ”.
+
+(13) In Schedule 2 to that Act (expenses and proceedings etc of internal drainage boards), in paragraphs 4(1)(b) and 5(1)(b), after “county” in each place insert “ , county borough ”.
+
+(14) In Schedule 3 to that Act (procedure with respect to certain orders), in paragraph 2(2)(a), after “county council”, insert “ , county borough council ”.
+
+(15) In Schedule 4 to that Act (schemes for small drainage works), in paragraph 3(2), after “county,” insert “ county borough, ”.
+
+### Part III — Coast Protection
+
+#### The Coast Protection Act 1949 (c. 74)
+
+**5** (1) In section 2 of the Coast Protection Act 1949 (constitution of coast protection boards), in subsection (2)(a), after “county” insert “ (other than one in Wales) ”.
+
+(2) In section 20 of that Act (contributions towards expenses of coast protection)—
+
+(a) in subsection (1), omit “or Wales”;
+
+(b) in subsection (4), omit “or Wales”;
+
+(c) in subsection (5), for “or Wales” substitute “ , the council of a county or county borough in Wales ”.
+
+(3) In section 21 of that Act (grants), in subsection (1)(b), after “county” insert “ or county borough ”.
+
+(4) In section 22 of that Act (incidental use of land acquired for coast protection), in subsection (2), for “or Wales” substitute “ , the council of a county or county borough in Wales ”.
+
+(5) In section 45 of that Act (service of notices and other documents), in subsection (1)(b), after “county,” insert “ county borough, ”.
+
+(6) In section 49 of that Act (interpretation), in the definition of “maritime district”, after second “district” insert “ or Welsh county or county borough ”.
+
+(7) In Schedule 1 to that Act (orders), in paragraph 1(a), after “county,” insert “ county borough, ”.
+
+## SCHEDULE 12 — Funds
+
+*Section 38(11).*
+
+### The 1972 Act
+
+**1** In section 148 of the 1972 Act (principal councils’ funds and accounts) at the end add—
+
+> (6) This section does not apply in relation to a Welsh county council or county borough council.
+
+### The Local Government Finance Act 1988 (c. 41)
+
+**2** After section 89 of the Local Government Finance Act 1988 insert—
+
+> **Principal councils in Wales.**
+>
+> **89A** This Part does not apply to a Welsh county council or county borough council (for whom provision as to the establishment of a council fund is made by section 38 of the Local Government (Wales) Act 1994).
+
+**3** In section 111(2) of that Act (relevant authorities for purposes of provisions relating to financial administration) after paragraph (a) insert—
+
+> (aa) a county borough council,
+
+.
+
+### The Local Government Finance Act 1992 (c. 14)
+
+**4** (1) Section 32 of the Local Government Finance Act 1992 (calculation of budget requirement) is amended as follows.
+
+(2) In subsection (3)(a), after “fund” insert “ or (as the case may be) council fund ”.
+
+(3) After subsection (3) insert—
+
+> (3A) In the case of any billing authority in Wales, subsection (3)(a) above does not require the estimation of sums payable into their council fund in respect of council tax or non-domestic rates.
+
+(4) In subsection (7)(a)(i), after “general fund” insert “ or (as the case may be) council fund ”.
+
+[^F97]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6) In subsection (9)(b), for “(8)” substitute “ (8B) ”.
+
+**5** (1) Section 33 of that Act (calculation of basic amount of council tax) is amended as follows.
+
+(2) In subsection (1), after “general fund” insert “ or (as the case may be) council fund ”.
+
+[^F98]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**6** In section 35 of that Act (definition of “special items”), at the end add—
+
+> (4) Subsection (2) above shall have effect in relation to a Welsh county council or county borough council as if for paragraphs (b) and (c) there were substituted—
+>
+> ” any expenses incurred by a billing authority and arising in connection with property which it holds in trust for a part of its area are its special expenses;
+>
+> (c) any expenses incurred by a billing authority which relate to a part of its area and which are of the same kind as expenses which—
+>
+> (i) relate to another part of its area; and
+>
+> (ii) are to be met out of property held in trust for that part;
+>
+> are its special expenses;”.
+>
+> (5) Expenses of a billing authority are not to be treated as its special expenses for the purposes of subsection (1) above if they are expenses of meeting a levy issued to it by, or anticipated by it from—
+>
+> (a) a Welsh joint planning board constituted under section 2(1B) of the [^M38]Town and Country Planning Act 1990 for a united district which comprises or includes the whole or part of the area of a National Park; or
+>
+> (b) a special planning board constituted under paragraph 3A of Schedule 17 to the [^M39]Local Government Act 1972.
+
+**7** In sections 37 [^F99]. . . of that Act (substitute calculations), [^F99]. . . in subsection (5)(a), after “general fund” insert “ or (as the case may be) council fund ”.
+
+**[^F100]8** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## [^F101]SCHEDULE 13 — The Residuary Body for Wales: Corff Gweddilliol Cymru
+
+*Section 39*
+
+### [^F101] Membership
+
+**[^F101]1** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F101] Status
+
+**[^F101]2** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F101] Tenure of office of members
+
+**[^F101]3** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F101] Remuneration etc. of members
+
+**[^F101]4** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F101] House of Commons and Northern Ireland Assembly disqualification
+
+**[^F101]5** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F101] Proceedings
+
+**[^F101]6** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F101] Application of seal and proof of instruments
+
+**[^F101]7** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F101] Access to documents
+
+**[^F101]8** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F101] Giving of advice to Secretary of State
+
+**[^F101]9** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F101] Reports and information
+
+**[^F101]10** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F101] Acquisitions and disposals
+
+**[^F101]11** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F101] Power of Secretary of State to give directions
+
+**[^F101]12** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F101] Application of receipts
+
+**[^F101]13** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F101] Funding
+
+**[^F101]14** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F101] Accounts
+
+**[^F101]15** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F101] Audit
+
+**[^F101]16** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F101] Parliamentary supervision
+
+**[^F101]17** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F101] Winding up
+
+**[^F101]18** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F101] Application of other enactments
+
+**[^F101]19** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F101]20** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F101]21** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F101]22** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F101]23** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F101]24** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F101]25** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F101]26** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F101]27** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F101]28** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F101]29** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F101]30** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F101]31** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F101]32** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F101]33** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## [^F102][^F102]SCHEDULE 14
+
+### Membership
+
+**1** (1) The Commission shall consist of not less than 4 and not more than 7 members, at least one of whom shall be Welsh-speaking.
+
+(2) The members shall be appointed by the Secretary of State.
+
+(3) The Secretary of State shall appoint one of the members to be chairman.
+
+(4) Subject to the provisions of this paragraph, each member shall hold and vacate office in accordance with the terms of his appointment.
+
+(5) A person who ceases to be a member shall be eligible for re-appointment.
+
+(6) A member may resign his office by notice in writing to the Secretary of State.
+
+(7) The Secretary of State may remove a member from office if he is satisfied that the member—
+
+(a) is unable or unfit to carry out the functions of a member; or
+
+(b) has not complied with the terms of his appointment.
+
+(8) A person shall cease to be chairman of the Commission—
+
+(a) if he resigns by notice in writing to the Secretary of State; or
+
+(b) if he ceases to be a member of the Commission.
+
+### Remuneration, pensions etc.
+
+**2** (1) The Commission shall pay to its members such remuneration and allowances (if any) as the Secretary of State may determine.
+
+(2) The Commission shall—
+
+(a) pay such pensions, allowances or gratuities to or in respect of any persons who have been or are its members as the Secretary of State may determine;
+
+(b) make such payments as the Secretary of State may determine towards provision for the payment of pensions, allowances or gratuities to or in respect of any such persons.
+
+(3) If, when any member ceases to hold office, the Secretary of State determines that there are special circumstances which make it right that that member should receive compensation, the Commission shall pay to him by way of compensation such sum as the Secretary of State may determine.
+
+(4) The consent of the Treasury is required for any determination of the Secretary of State under this paragraph.
+
+### Staff
+
+**3** (1) The Commission shall appoint a person to act as its secretary and may appoint such other staff as it may determine.
+
+(2) The consent of the Secretary of State is required for the appointment of any person as secretary to the Commission.
+
+(3) The terms and conditions of appointment of any person under this paragraph shall be determined by the Commission with the consent of the Secretary of State.
+
+(4) The Commission shall pay to its staff such remuneration, and such allowances, as the Secretary of State may determine.
+
+(5) The Commission may—
+
+(a) pay such pensions, allowances or gratuities to or in respect of any persons who have been or are members of its staff as the Secretary of State may determine;
+
+(b) make such payments as the Secretary of State may determine towards provision for the payment of pensions, allowances or gratuities to or in respect of any such persons.
+
+(6) Any reference in sub-paragraph (5) to pensions, allowances or gratuities to or in respect of any persons includes a reference to payments by way of compensation to or in respect of any members of the Commission’s staff who suffer loss of office or employment or loss or diminution of emoluments.
+
+(7) The consent of the Treasury is required for the giving of any consent under sub-paragraph (3) or for the making of any determination under sub-paragraph (4) or (5).
+
+### Incidental powers
+
+**4** (1) Without prejudice to any powers exercisable apart from this paragraph, the Commission shall have power to do anything (whether or not involving the acquisition or disposal of any property or rights) which—
+
+(a) is calculated to facilitate the carrying out of any of its functions; or
+
+(b) is conducive or incidental to the carrying out of its functions.
+
+(2) The Commission shall not by virtue of this paragraph have power to borrow money or to cause any local inquiry to be held.
+
+(3) Where the Commission asks a public body to supply it with any information which it reasonably requires in connection with any of its functions, it shall be the duty of that body to supply the Commission with that information.
+
+(4) The Secretary of State may give directions as to the exercise by the Commission of its powers under this paragraph.
+
+### Proceedings
+
+**5** (1) Subject to the following provisions of this Schedule, the Commission may regulate its own proceedings.
+
+(2) The validity of any proceedings of the Commission shall not be affected by a vacancy amongst its members or by a defect in the appointment of a member, or by a contravention of paragraph 7.
+
+### Delegation of powers
+
+**6** Anything authorised or required by or under this Act to be done by the Commission may be done by—
+
+(a) any member of the Commission, or of its staff, who has been authorised for the purpose, whether generally or specially, by the Commission; or
+
+(b) any committee or sub-committee of the Commission which has been so authorised.
+
+### Members’ interests
+
+**7** (1) A member who is directly or indirectly interested in any matter brought up for consideration at a meeting of the Commission shall disclose the nature of his interest to the meeting.
+
+(2) Where such a disclosure is made, the member shall not take part in any deliberation or decision of the Commission with respect to that matter.
+
+### Application of seal and proof of instruments
+
+**8** (1) The application of the seal of the Commission shall be authenticated by the signature of any member of the Commission, or of its staff, who has been authorised by the Commission, whether generally or specially, for the purpose.
+
+(2) Any document purporting to be a document duly executed under the seal of the Commission shall be received in evidence and shall, unless the contrary is shown, be deemed to have been so executed.
+
+### Finances of the Commission
+
+**9** (1) The Secretary of State shall, in respect of each accounting year, pay to the Commission such amount as he may, with the consent of the Treasury, determine to be the amount required by the Commission for the discharge of its functions during that year.
+
+(2) In this paragraph and paragraph 10 “accounting year” means the period beginning with the day on which the Commission is established and ending with the financial year current on that day, and each successive financial year.
+
+### Accounts
+
+**10** (1) The Commission shall—
+
+(a) keep proper accounts and records in relation to the accounts; and
+
+(b) prepare in respect of each accounting year a statement of accounts in such form as the Secretary of State may, with the consent of the Treasury, direct.
+
+(2) The accounts shall be audited by persons appointed for the purpose for each accounting year by the Secretary of State.
+
+(3) A copy of any accounts audited under sub-paragraph (2) and of the report made on those accounts by the persons appointed to audit them shall be sent to the Secretary of State as soon as is reasonably practicable after the report is received by the Commission.
+
+(4) The Secretary of State shall lay before each House of Parliament a copy of any accounts or report sent to him under this paragraph.
+
+### The Parliamentary Commissioner
+
+**11** In the [^M40]Parliamentary Commissioner Act 1967, in Schedule 2 (departments and authorities subject to investigation), insert at the appropriate place— “ The Staff Commission for Wales (Comisiwn Staff Cymru) ”.
+
+### House of Commons and Northern Ireland Assembly disqualification
+
+**12** In Part II of Schedule 1 to the [^M41]House of Commons Disqualification Act 1975 (bodies of which all members are disqualified for membership of the House of Commons) and in Part II of Schedule 1 to the [^M42]Northern Ireland Assembly Disqualification Act 1975 (bodies of which all members are disqualified for membership of the Northern Ireland Assembly), insert at the appropriate place— “ The Staff Commission for Wales (Comisiwn Staff Cymru) ”.
+
+### Winding up
+
+**13** (1) The Commission shall use its best endeavours to secure that its work is completed as soon as practicable and in any event by the end of the transitional period.
+
+(2) In this paragraph “the transitional period” means the period of three years beginning with the commencement of section 40.
+
+(3) Subject to sub-paragraph (4), the Commission shall be wound up at the end of the transitional period.
+
+(4) The Secretary of State may by order provide for sub-paragraph (3) to have effect with the substitution for the transitional period of such longer period as may be specified in the order.
+
+## SCHEDULE 15 — Minor and Consequential Amendments of the 1972 Act
+
+*Section 66(5).*
+
+**1** The 1972 Act is amended as follows.
+
+**2** For section 22(4) (which makes provision with respect to the chairmen of principal councils), substitute—
+
+> (4) The chairman of a principal council shall have precedence in the area of that council, but not so as to affect Her Majesty’s prerogative prejudicially.
+
+**3** After section 25, insert—
+
+> **Title of chairman or vice-chairman of county borough council.**
+>
+> **25A** (1) The chairman of a county borough council is entitled to the style of “mayor” or “maer”.
+>
+> (2) The vice-chairman of a county borough council is entitled to the style of “deputy mayor” or “dirprwy faer”.
+
+**4** In section 30 (restriction on community applications during certain periods)—
+
+(a) in subsection (1), omit paragraph (a) (including “or” at the end) and in paragraph (b), for “the county or district” substitute “ any area ”;
+
+(b) omit subsection (2);
+
+(c) in subsection (3), for “district” substitute “ principal ”;
+
+(d) in subsection (4), for “subsections (1) and (2)” substitute “ subsection (1) ”, for “district” substitute “ area ”; and
+
+(e) in subsection (5), for “or 29” substitute “ , 29 or 29A ”.
+
+**5** In section 31 (provisions supplementary to sections 27 to 29)—
+
+(a) in subsection (1), for “27, 28 or 29” substitute “ 28, 29 or 29A ”; and
+
+(b) for “district” substitute (in both places) “ principal ”.
+
+**6** For section 37 (establishment of new authorities in Wales), substitute—
+
+> **Establishment of principal councils in Wales.**
+>
+> **37** Schedule 5 to this Act shall have effect with respect to the establishment of principal councils in Wales and connected matters.
+
+**7** (1) In section 54(1) (proposals for changes in local government areas in Wales), for “district” substitute “ principal ” and for paragraphs (b) and (c) substitute—
+
+> (b) the constitution of a new local government area by—
+>
+> (i) amalgamating two or more principal areas or two or more communities;
+>
+> (ii) aggregating parts of principal areas or parts of communities; or
+>
+> (iii) separating part of a principal area or part of a community;
+>
+> (c) the abolition of a principal area and its distribution among other principal areas;
+>
+> (cc) the abolition of a community and its distribution among other areas of the like description;
+
+.
+
+(2) Before section 54(2) insert—
+
+> (1B) Where the Welsh Commission make proposals for the constitution of a new principal area, those proposals shall specify whether the new area should be a county or a county borough.
+
+**8** (1) In section 55(1) (review of local government areas in Wales), for “counties and districts” substitute “ principal areas ” and for “county or district” substitute “ principal area ”.
+
+(2) In section 55(2)—
+
+(a) for the words from “Upon the completion” to “whole of their district” substitute “ It shall be the duty of each Welsh principal council to keep the whole of their area ”;
+
+(b) for “in their district” substitute “ in their area ”; and
+
+(c) for “the district council” substitute (in both places) “ the principal council ”.
+
+(3) In section 55(3)—
+
+(a) for “any district” substitute “ any principal area ”;
+
+(b) for “that district or” substitute “ that principal area or ”;
+
+(c) for “the district council” substitute “ the principal council ”; and
+
+(d) for “that district for” substitute “ that principal area for ”.
+
+(4) In section 55(4)—
+
+(a) for “one district” substitute “ one principal area ”; and
+
+(b) for “districts” substitute (in both places) “ principal areas ”.
+
+(5) In section 55(5), for “district council” substitute “ principal council ”, in paragraph (a) omit “(other than a community which is co-extensive with a district)” and after paragraph (e) insert—
+
+> (f) the alteration of the boundaries of any preserved county;
+
+.
+
+**9** (1) In section 56(2) (power of Secretary of State to direct holding of reviews)—
+
+(a) for “the council of a district” substitute “ a principal council ”; and
+
+(b) for “their district” substitute (in both places) “ their area ”.
+
+(2) In section 56(3)—
+
+(a) for “any district” substitute “ any principal area ”;
+
+(b) for “that district” substitute (in both places) “ that principal area ”; and
+
+(c) for “the district council” substitute “ the principal council ”.
+
+(3) In section 56(4), for “district” substitute (in both places) “ principal ”.
+
+(4) In section 56(5)—
+
+(a) for “district” substitute “ principal ”; and
+
+(b) for “local government areas” substitute “ any areas ”.
+
+**10** (1) In section 57(2) (substantive changes in electoral arrangements)—
+
+(a) for “counties” substitute “ principal areas ”; and
+
+(b) for “Schedule 10 below” substitute “ section 64 of this Act (as substituted by the Local Government (Wales) Act 1994) ”.
+
+(2) In section 57(4)—
+
+(a) for “the council of each district” substitute “ each principal council ”;
+
+(b) for “their district” substitute “ their area ”; and
+
+(c) for “district council” substitute (in both places) “ principal council ”.
+
+(3) In section 57(5) to (7), for “district” substitute (in each place) “ principal ”.
+
+**11** (1) In section 58(1) (Commission’s reports and their implementation), for “district” substitute “ principal ”.
+
+(2) In section 58, for subsection (4) substitute—
+
+> (4) Any statutory instrument containing an order under this section which—
+>
+> (a) alters the area of a principal council,
+>
+> (b) alters the area of a preserved county, or
+>
+> (c) abolishes a principal area,
+>
+> shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+**12** In section 59 (directions about reviews)—
+
+(a) in subsection (1), for “the council of a district” substitute “ a principal council ”; and
+
+(b) in subsection (2), omit “all or any class of”.
+
+**13** (1) Section 60 (procedure for reviews) is amended as follows.
+
+(2) For “district” substitute (in each place) “ Welsh principal ”.
+
+(3) In subsection (4)(b), for “any principal council” substitute “ the principal council and of any other principal council in Wales ”.
+
+(4) In subsection (5) omit “or a district council”.
+
+(5) After subsection (5) insert—
+
+> (5A) Where a Welsh principal council make a report, proposals or recommendations under this Part of this Act they shall—
+>
+> (a) make copies of the report, proposals or recommendations available for inspection at their offices for the period mentioned in subsection (5)(b) above;
+>
+> (b) take the steps mentioned in subsection (5)(a); and
+>
+> (c) comply with the requirements of subsection (5)(b) above in relation to any other principal council in Wales whose area may be affected by the report, proposals or recommendations.
+
+(6) In subsection (6), for “(5)” substitute “ (5A) ”.
+
+**14** In section 61 (local inquiries), for “district” substitute (in both places) “ Welsh principal ”.
+
+**15** In section 67 (consequential and transitional provisions relating to Part IV), omit subsection (5)(f).
+
+**16** In section 69 (variation and revocation of orders made under Part IV)—
+
+(a) in subsections (2) and (3) for “district” substitute “ Welsh principal ”;
+
+(b) in subsection (4), for first “district” substitute “ Welsh principal ” and omit second “district”; and
+
+(c) in subsection (6), for “a county council” substitute “ any predecessor of a Welsh principal council ”, for “new district” substitute “ Welsh principal area ” and for “the district” substitute “ that area ”.
+
+**17** (1) In section 71(1) (modification of seaward boundaries), for “county” substitute (in each place) “ area ”.
+
+(2) At the end of section 71 add—
+
+> (6) In subsection (1) above, “area” (except in “area of the sea”) means any local government area in Wales and any preserved county.
+>
+> (7) No order may be made under this section extending any area into England.
+
+**18** In section 72(2) (accretions from the sea), omit “or community” (in both places) and after subsection (2) insert—
+
+> (2A) Every accretion from the sea or part of the sea-shore which is annexed to and incorporated with a community under this section shall be annexed to and incorporated with the principal area and the preserved county in which that community is situated.
+
+**19** At the end of section 73 (alteration of local boundaries consequent on alteration of water-course) add—
+
+> (4) For the purposes of this section a preserved county is an area of local government.
+
+**20** (1) In section 74 (change of name of local authority area), in subsection (1), after “county” insert (in both places) “ , county borough ”.
+
+(2) In section 74, after subsection (2) insert—
+
+> (2A) Where a Welsh principal area which has, by charter or other grant or incorporation order, been granted the status of a county borough, city or royal borough subsequently changes the name of the council in pursuance of this section, the charter or other grant or incorporation order shall have effect as if the new name were substituted for the old.
+
+(3) In section 74(3) and (4), omit “or by virtue of a resolution under section 21(5) above”.
+
+(4) In section 74(4), after “county” insert “ , county borough ”.
+
+(5) At the end of section 74 add—
+
+> (6) The name of a Welsh principal area shall not be changed under this section before 1st October 1996 except with the consent of the Secretary of State.
+>
+> (7) If the name of a Welsh principal area is changed under this section, and there are generally accepted alternative English and Welsh forms of that name, or alternative English and Welsh names, both forms of the new name or (as the case may be) both names shall be published.
+
+**21** (1) In section 76 (change of name of community)—
+
+(a) in subsection (1), for “district” substitute “ principal area ”;
+
+(b) in subsections (2) and (3), omit “or by virtue of a resolution under section 33(2B) above”; and
+
+(c) in subsection (2), for “district” substitute (in both places) “ principal ”.
+
+(2) At the end of section 76 add—
+
+> (4) If the name of any community is changed under this section, and there are generally accepted alternative English and Welsh forms of that name, or alternative English and Welsh names, both forms of the new name or (as the case may be) both names shall be published.
+
+**22** In section 78(2) (electoral arrangements), after “every” insert “ Welsh principal council and ”.
+
+**23** In section 83(1) (declaration of acceptance of offence) after “county” insert “ , county borough ”.
+
+**24** In section 91(1) (temporary appointment of members of community councils), after “district council” insert “ or Welsh principal council ”.
+
+**25** In section 97 (removal or exclusion of disability, etc.)—
+
+(a) in subsection (1), for first “or” substitute “ council, the principal council, as respects a member of a ” and omit “district” in the second and third places; and
+
+(b) in subsections (2) and (3), omit “district”.
+
+**[^F103]26** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**27** In section 103 (expenses of joint committees), in paragraph (a), for “or communities or groups of parishes or communities” substitute “ or groups of parishes ” and after “council” insert—
+
+> (aa) in any case in which those authorities are the councils of communities or groups of communities situated in the same principal area, by the council of that area;
+
+.
+
+**28** In section 125 (compulsory acquisition of land on behalf of community council) at the end add—
+
+> (8) In relation to Wales—
+>
+> (a) references in this section to a district council are to be read as references to a principal council; and
+>
+> (b) references to a district are to be read as references to a principal area.
+
+**29** In section 134(2) (use of schoolrooms etc. in community), in paragraph (c), for “county council or district council” substitute “ principal council ”.
+
+**30** [^F104]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**31** In section 140B (insurance of voluntary assistants of probation committees), at the end add—
+
+> (3) In relation to Wales—
+>
+> (a) subsections (1) and (2)(a) above shall have effect as if they referred to a principal council; and
+>
+> (b) subsection (2)(a) above shall have effect as if it referred to the area of the principal council.
+
+**32** In section 141 (research and collection of information), at the end add—
+
+> (3) This section shall have effect in relation to Wales—
+>
+> (a) as if any reference to a council were a reference to a principal council; and
+>
+> (b) as if any reference to a county were a reference to a principal area.
+
+**33** In section 146 (transfer of securities on alteration of area etc.), after subsection (1) insert—
+
+> (1A) In relation to Wales, subsection (1)(b) above shall have effect as if the reference to a county council were a reference to a principal council.
+
+**34** In section 150(3) (expenses of community meetings where there is no community council), for “district” substitute “ principal area ”.
+
+**35** In section 180(1) (local authorities and sanitary authorities for certain enactments relating to public health), after paragraph (d) insert—
+
+> (e) for a Welsh county or county borough, be the county council or county borough council;
+
+.
+
+**36** In section 181 (water and sewerage)—
+
+(a) in subsection (1), add at the end “ and for any principal area in Wales, be the principal council ”; and
+
+(b) in subsection (2), at the end add “ except that for any area in Wales it shall be the principal council ”.
+
+**37** In section 187(3) (notices deterring public use of footpaths) after “district council” insert “ or, where they are not the highway authority, a Welsh principal council ”.
+
+**38** In section 189(3) (town and village greens etc.)—
+
+(a) in paragraph (c), after “district” insert “ or Welsh principal area ”; and
+
+(b) in the words following that paragraph, after “district” insert “ or (as the case may be) area ”.
+
+**39** In section 191 (ordnance survey)—
+
+(a) in subsection (2), after “district council” insert “ (or, in Wales, a principal council) ”;
+
+(b) in subsection (4)(a), after “require” insert “ (or, in Wales, the principal council) ”;
+
+(c) in subsection (4)(b), after “require” insert “ (or, in Wales, the principal council) ”; and
+
+(d) in subsection (5), after “any” insert “ preserved county or ”.
+
+**40** In section 195 (social services)—
+
+(a) in subsection (2) after first “county” insert “ in England ”; and
+
+(b) in subsection (3) omit “as amended by subsection (1) above”.
+
+**41** [^F105]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**42** Omit section 207 (public libraries and museums in Wales).
+
+**43** In section 213(1) (local licence duties), omit “and Wales” and at the end add “ and, in Wales, be vested in the principal councils ”.
+
+**44** In section 214(1) (cemeteries and crematoria) after “councils of” insert “ Welsh counties, county boroughs ”.
+
+**45** (1) Section 215 (maintenance of closed churchyard) is amended as follows.
+
+(2) In subsection (2)(c) for “district” substitute “ county or county borough ”.
+
+(3) In subsection (3)—
+
+(a) for first “district” substitute “ district, Welsh county or (as the case may be) county borough ”; and
+
+(b) for “council of the district” substitute “ local authority to whom the notice is given ”.
+
+**46** In section 225 (deposit of documents with proper officer of authority), in subsection (2) for “district council” substitute “ principal council ”.
+
+**47** (1) Section 226 (custody of community documents) is amended as follows.
+
+(2) In subsections (1) and (3)(c), for “district council” substitute “ principal council ”.
+
+(3) In subsection (4), after “if the area is in” insert “ Wales or in ”.
+
+(4) In subsection (5), omit “or community council” (in both places).
+
+(5) At the end add—
+
+> (6) Subsection (5) above shall also apply in relation to community councils but as if the functions conferred by it were functions of the principal council.
+
+**48** In section 227 (provision of depositories for community documents), in both subsections (1) and (2), omit third “or community” and after “is situated” insert “ or the council of the principal area in which the community is situated ”.
+
+**49** In section 235 (power of councils to make byelaws for good rule and government and suppression of nuisances), in subsection (1) after first “district” insert “ the council of a principal area in Wales ” and after second “district” insert “ principal area ”.
+
+**50** In section 236 (procedure etc. for byelaws), in subsection (9), after “district council” insert “ or in Wales of a principal council ” and after subsection (10) insert—
+
+> (10A) Subsection (10) above does not apply to a principal council in Wales.
+
+**51** In section 245 (status of communities)—
+
+(a) in subsections (6) to (9) omit “or community” (in each place);
+
+(b) in subsection (6) omit “or a community meeting”; and
+
+(c) in subsection (9) omit “or a community meeting in Wales”.
+
+**52** (1) Section 246 (powers, privileges and rights in relation to former cities and boroughs) is amended as follows.
+
+(2) After subsection (2) insert—
+
+> (2A) Any powers to appoint local officers of dignity exercisable immediately before 1st April 1996 in relation to any area by the council of a district in Wales by virtue of a charter granted under section 245 above shall, on and after that date, be exercisable in relation to that area by the council of the principal area in which, on that date, that area becomes comprised.
+>
+> (2B) Where on 1st April 1996 that area becomes comprised partly in each of two or more principal areas, those powers shall be exercised on and after that date by such of the councils of those principal areas as may be agreed between them, or, in default of agreement, as the Secretary of State may designate.
+
+(3) In subsection (6), after first “subject to” insert “ subsection (2A) above, ”.
+
+**53** In section 247 (transfer of armorial bearings from old to new authorities), at the end add—
+
+> (3) Subsections (1) and (2) above also apply in relation to new principal councils in Wales and authorities which ceased to exist as a result of the Local Government (Wales) Act 1994 but as if the reference to April 1, 1974 were a reference to 1st April 1996.
+
+**54** In section 248 (freemen and inhabitants of pre-1974 boroughs), at the end add—
+
+> (6) This section shall have effect in relation to Wales as if—
+>
+> (a) in subsections (2) and (3) the references to the relevant district council were references to the relevant principal council; and
+>
+> (b) in subsection (2) the reference to the council of the district were a reference to the council of the principal area.
+
+**55** In section 249 (honorary aldermen and freemen), after subsection (6) insert—
+
+> (7) A principal council in Wales may, by such a resolution as is required by subsection (5) above, admit to be honorary freemen of the county or county borough persons of distinction and persons who have, in the opinion of the council, rendered eminent services to the county or county borough.
+>
+> (8) The admission of a person to be an honorary freeman under subsection (7) above shall not confer on him any such rights as are referred to in section 248(4) above.
+>
+> (9) A principal council in Wales shall, in relation to any person on whom they have conferred the title of honorary alderman or whom they have admitted to be an honorary freeman, have the same powers as are conferred by subsection (6) above.
+
+**56** In section 255(1) (transfer of officers), for “27, 28 or 29” substitute “ 28, 29 or 29A ”.
+
+**57** In section 270(1) (interpretation), in the definition of “new”, after “Act” add “ including one established by virtue of any provision of the Local Government (Wales) Act 1994 ”.
+
+**58** In Schedule 4 (local government areas in Wales), omit Part IV.
+
+**59** In Schedule 8 (constitution and proceedings of the Welsh Commission), in paragraph 8—
+
+(a) at the end of paragraph (b) add “ , and ”; and
+
+(b) omit paragraph (d) and the word “and” immediately before it.
+
+**60** Omit Schedule 10 (initial reviews in Wales).
+
+**61** In Schedule 11 (rules to be observed in considering electoral arrangements), in paragraph 3(2)(b) and (c), omit the words “or community” (in each place).
+
+**62** In paragraph 35 (1) of Schedule 12 (minutes of proceedings of community meeting), for “district” substitute “ principal area ”.
+
+**63** In paragraph 28 of Schedule 14 (consent of highway authority required in connection with functions relating to clocks, drinking fountains etc.) after “district council” insert “ or, where they are not the highway authority, the council of a Welsh principal area ”.
+
+**64** In paragraph 55 of Schedule 16 (applications for certificates of appropriate alternative development)—
+
+(a) in sub-paragraph (1), for “Elsewhere” substitute “ In England, elsewhere ”; and
+
+[^F106]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**65** (1) Schedule 26 (cemeteries and crematoria) is amended as follows.
+
+(2) In paragraph 4, in paragraph (a) omit “or communities” in both places, and after paragraph (a) insert—
+
+> (aa) where those authorities are the councils of communities or groups of communities situated in the same principal area, by the council of that principal area;
+
+.
+
+(3) In paragraph 7, after “district council” insert “ or Welsh principal council ” and after second “district” insert “ or Welsh principal area ”.
+
+(4) In paragraph 8, after “district council” insert “ or Welsh principal council ” and after second “district” insert “ or (as the case may be) principal area ”.
+
+(5) In paragraph 11, in sub-paragraph (1) omit “or community” and after that sub-paragraph insert—
+
+> (1A) Subject to the provisions of any order made under section 214(3) above, a Welsh principal council may make byelaws with respect to the management of any cemetery provided by them and a community council may adopt for any cemetery provided by them any byelaws made under this paragraph by the principal council and duly confirmed.
+
+**66** In paragraph 20 of Schedule 29 (certificates under Schedule 3 to the Gas Act 1965), after sub-paragraph (2) insert—
+
+> (3) Sub-paragraph (2) above does not apply in relation to Wales.
+
+## SCHEDULE 16 — Other Consequential Amendments
+
+*Section 66(6).*
+
+### The Burial Act 1859 (c. 1)
+
+**1** In section 1 of the Burial Act 1859 (failure to comply with Order in Council) after “City of London” insert “ or Welsh county council or county borough council ”.
+
+### The Game Licences Act 1860 (c. 90)
+
+**2** In section 14 of the Game Licences Act 1860 (obligations of persons licensed to deal in game) the words “from the justices of the peace” shall cease to have effect.
+
+### The Explosives Act 1875 (c. 17)
+
+**3** In subsection (3) of section 67 of the Explosives Act 1875 (definition of local authority), after “a county” insert “ or county borough ”.
+
+### The Finance Act 1908 (c. 16)
+
+**4** In section 6 of the Finance Act 1908 (collection by local authorities of duties on game licences)—
+
+(a) in subsection (1), omit “and Wales” and at the end add “ and in Wales be vested in the councils of counties and county boroughs ”; and
+
+(b) in subsection (2), omit “district” and after “1st April 1974” add “ or, in relation to Wales, to a council having power to levy those duties after 1st April 1996 ”.
+
+### The Commons Act 1908 (c. 44)
+
+**5** In section 1 of the Commons Act 1908 (power of making regulations as to the turning out of entire animals on commons), in subsection (3), after “county” insert “ , county borough ”.
+
+### The Welsh Church Act 1914 (c. 91)
+
+**6** In section 19 of the Welsh Church Act 1914 (application of residue of property)—
+
+(a) in subsection (1)(a), for the words from “The property” to “council either” substitute “ Property vested in a Welsh county council or county borough council by virtue of a designation made under section 50 of the Local Government (Wales) Act 1994 shall be applied, in accordance with one or more schemes made by a Welsh county council or county borough council either ”; and
+
+(b) in subsection (1)(b), after “county” insert “ or county borough ”.
+
+### The Law of Property Act 1925 (c. 20)
+
+**7** (1) In section 193 of the Law of Property Act 1925 (rights of the public over commons and waste lands), in subsection (1)(d)(ii), after “county” insert “ , county borough ”.
+
+[^F107]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Education Act 1944 (c. 31)
+
+**[^F108]8** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Requisitioned Land and War Works Act 1945 (c. 43)
+
+**9** In section 59(1) of the Requisitioned Land and War Works Act 1945, in the definition of “local authority” at the end add “ but in relation to Wales means a county or county borough ”.
+
+### The Fire Services Act 1947 (c. 41)
+
+**10** (1) In section 8 of the Fire Services Act 1947 (constitution and powers of iffre authorities constituted under combination schemes)—
+
+(a) in subsection (3), after “counties” insert “ or, in Wales, counties or county boroughs ”; and
+
+(b) in subsection (4), after “county” insert “ or, in Wales, of a county or county borough ”.
+
+(2) In section 9 of that Act (amendment and revocation of combination schemes)—
+
+(a) in subsection (2)(a), after “counties” insert “ or, in Wales, counties or county boroughs ”; and
+
+(b) in subsection (4), after “county” insert “ or, in Wales, of any county or county borough ”.
+
+(3) In section 11 of that Act (adaptation of local Acts relating to iffre services), in subsection (1), after “county” insert “ or, in Wales, the county or county borough ”.
+
+### The Shops Act 1950 (c. 28)
+
+**[^F109]11** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Registration Service Act 1953 (c. 37)
+
+**12** In section 21 of the Registration Service Act 1953 (interpretation), in subsection (2)(b), at the end add “ and any reference to a non-metropolitan county includes a reference to a county borough ”.
+
+### The Trading Representations (Disabled Persons) Act 1958 (c. 49)
+
+**13** [^F110]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Opencast Coal Act 1958 (c. 69)
+
+**14** In section 15A of the Opencast Coal Act 1958 (suspension of public rights of way), in subsection (5)(a), in sub-paragraph (i) omit “and Wales” and “or community”, and after “meeting;” insert—
+
+> (ia) in Wales, the county council or county borough council, and any community council
+
+.
+
+### The Weeds Act 1959 (c. 54)
+
+**15** In section 5 of the Weeds Act 1959 (exercise of powers by local authority), after “county” insert “ , county borough ” (in both places).
+
+### The Caravan Sites and Control of Development Act 1960 (c. 62)
+
+**16** [^F111]1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F111]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) In section 29(1) of that Act (interpretation of Part I), in the definition of “local authority”, at the end add “ but, in relation to Wales, means the council of a Welsh county or county borough ”.
+
+### The Land Compensation Act 1961 (c. 33)
+
+**17** In section 39(1) of the Land Compensation Act 1961 (interpretation), in the definition of “authority possessing compulsory purchase powers” for “or county council” substitute “ , county council or county borough council ”.
+
+### The Factories Act 1961 (c. 34)
+
+**18** In section 176 of the Factories Act 1961 (general interpretation), after subsection (8) insert—
+
+> (8A) In the application of this Act in relation to Wales—
+>
+> (a) any reference to a district council shall be construed as a reference to a county council or (as the case may be) county borough council; and
+>
+> (b) any reference to the district of a district council shall be construed as a reference to a county or county borough.
+
+### The Trustee Investments Act 1961 (c. 62)
+
+**19** (1) In section 11 of the Trustee Investments Act 1961 (local authority investment schemes), in subsection (4)(a), after “county,” insert “ a county borough, ”.
+
+(2) In Part IV of Schedule 1 to that Act (manner of investment), in paragraph 4, in paragraph (a) of the definition of “local authority”, after “county,” insert “ a county borough, ”.
+
+### The Local Government (Records) Act 1962 (c. 56)
+
+**20** (1) In section 2 of the Local Government (Records) Act 1962 (acquisition and deposit of records), in subsection (6) after “county,” insert “ county borough, ”.
+
+(2) In section 8(1) of that Act (interpretation), in the definition of “local authority”, after “county,” insert “ county borough, ”.
+
+### The Pipe-lines Act 1962 (c. 58)
+
+**21** In section 35 of the Pipe-lines Act 1962 (deposit of maps of pipe-lines with local authorities), in subsection (6), omit “and Wales” and after “City of London,” insert “ for the purpose of the application of this section to Wales, that expression means the council of a county or county borough, ”.
+
+### The Licensing Act 1964 (c. 26)
+
+**22** [^F112]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Harbours Act 1964 (c. 40)
+
+**23** In Schedule 3 to the Harbours Act 1964 (procedure for making harbour orders), in paragraph 3(ba)—
+
+(a) omit “and Wales” and “ or community ”; and
+
+(b) after “parish council” insert “ , in Wales, a county council, a county borough council and a community council ”.
+
+### The Public Libraries and Museums Act 1964 (c. 75)
+
+**24** (1) Omit the following provisions from the Public Libraries and Museums Act 1964—
+
+(a) in section 4 (library authorities and areas), from “— (a)” to “(b)”, in subsection (2);
+
+(b) in section 5 (joint boards), the proviso in subsection (3);
+
+(c) section 6 (special provisions as to Welsh districts);
+
+(d) in section 10 (default powers of Secretary of State), in subsection (2)—
+
+(i) paragraph (a);
+
+(ii) in paragraph (b), in sub-paragraph (i) the words “other than any council of a district in Wales” and sub-paragraph (ii);
+
+(e) in section 11 (supplemental provisions as to transfers of officers, assets and liabilities), in subsection (2) the words from “or (b)” to “library authority”;
+
+(f) section 21 (expenses of county councils in Wales).
+
+(2) In section 4 of that Act, at the end add—
+
+> (3) In Wales, county councils and county borough councils shall, subject to section 5 below, be library authorities for the purposes of this Act.
+
+(3) In section 25 of that Act (interpretation), after the definition of “library officer” insert—
+
+> - “local authority”, in relation to Wales, means a county council or county borough council;
+
+.
+
+(4) In Schedule 2 to that Act (management of funds for purchase of exhibits), in paragraphs 2 and 5 after “county fund” insert (in each place) “ council fund ”.
+
+### The Gas Act 1965 (c. 36)
+
+**25** In section 28 of the Gas Act 1965 (interpretation of Part II), in the definition of “local authority” in subsection (1), omit “and Wales” and after “City of London,” insert “ in Wales, the council of a county or county borough, ”.
+
+### The Sea Fisheries Regulation Act 1966 (c. 38)
+
+**[^F113]26** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Local Government Act 1966 (c. 42)
+
+**27** In section 41(1) of the Local Government Act 1966 (interpretation), in the definition of “local authority”, after “London borough” insert “ or county borough ”.
+
+### The Plant Health Act 1967 (c. 8)
+
+**28** In section 5 of the Plant Health Act 1967 (execution of Act by local authorities), in subsection (3), at the end add “ but, in relation to Wales, shall be the councils of counties and county boroughs ”.
+
+### The Private Places of Entertainment (Licensing) Act 1967 (c. 19)
+
+**29** [^F114]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F115]...
+
+**[^F115]** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Slaughter of Poultry Act 1967 (c. 24)
+
+**31** In section 8 of the Slaughter of Poultry Act 1967 (interpretation), in the definition of “local authority” in subsection (1), omit “and Wales” and, after “City of London” insert “ , as respects Wales, the council of a county or county borough ”.
+
+### The Theatres Act 1968 (c. 54)
+
+**32** [^F116]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Medicines Act 1968 (c. 67)
+
+**33** In section 108 of the Medicines Act 1968 (enforcement)—
+
+(a) in subsection (8), after “county” insert “ or county borough ”; and
+
+(b) in subsection (12)(a), after “district” insert “ , county borough ” (in both places).
+
+### The Mines and Quarries (Tips) Act 1969 (c. 10)
+
+**34** In section 11(3) of the Mines and Quarries (Tips) Act 1969 (local authorities having functions under Part II of that Act), in paragraph (a), omit “and Wales” and after “Isles of Scilly” insert—
+
+> (aa) in Wales, the council of a county or county borough,
+
+.
+
+### The Post Office Act 1969 (c. 48)
+
+**[^F117]35** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Late Night Refreshment Houses Act 1969 (c. 53)
+
+**36** [^F118]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Employers’ Liability (Compulsory Insurance) Act 1969 (c. 57)
+
+**37** In section 3 of the Employers’ Liability (Compulsory Insurance) Act 1969 (employers exempted from insurance), in subsection (2)(b), for “or Wales” substitute “ the council of a county or county borough in Wales, ”.
+
+### The Agriculture Act 1970 (c. 40)
+
+**38** (1) In section 38 of the Agriculture Act 1970 (smallholdings authorities), in paragraph (b) omit “and Wales” and after that paragraph insert—
+
+> (bb) the council of every county or county borough in Wales;
+
+.
+
+(2) In section 48 of that Act (acquisition of land for purpose of smallholdings), in subsection (1), after “county” insert “ or county borough ”.
+
+(3) In section 60 of that Act (cottage holdings), in subsection (1), after “county council” insert “ , a county borough council ”.
+
+(4) In section 62 of that Act (provisions as to Wales), in subsection (1)(a), after “county” insert “ or county borough ”.
+
+(5) In section 67 of that Act (enforcement authorities), in subsection (1) omit “and Wales” and after that subsection insert—
+
+> (1A) In Wales it shall be the duty of each county council and each county borough council to enforce this Part of this Act within its area.
+
+.
+
+### The Poisons Act 1972 (c. 66)
+
+**39** In section 11 of the Poisons Act 1972 (interpretation), in subsection (2) in paragraph (a) of the definition of “local authority” omit “and Wales” and after “City of London,” insert—
+
+> (aa) in relation to Wales, the council of a county or county borough,
+
+.
+
+### The Land Compensation Act 1973 (c. 26)
+
+**40** (1) In section 8 of the Land Compensation Act 1973 (restrictions on compensation), in subsection (4), after “London borough” insert “ or Welsh county or county borough ”.
+
+(2) In section 19 of that Act (interpretation of Part I), in the definition of “the appropriate highway authority” in subsection (1)—
+
+(a) in paragraph (a), after “1985” insert “ or the Local Government (Wales) Act 1994 ”; and
+
+[^F119]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) In section 52 of that Act (right to advance payment of compensation), in subsection (8), after “London borough” insert “ or Welsh county or county borough ”.
+
+### The Employment Agencies Act 1973 (c. 35)
+
+**41** In section 13 of the Employment Agencies Act 1973 (interpretation), in subsection (1), in the definition of “local authority”, omit “and Wales” and after “London borough council” insert “ and in relation to Wales, means a county council or a county borough council, ”.
+
+### The Breeding of Dogs Act 1973 (c. 60)
+
+**[^F120]42** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Slaughterhouses Act 1974 (c. 3)
+
+**43** (1) In section 27 of the Slaughterhouses Act 1974 (local authorities for purposes of licensing slaughterhouses), omit “and” immediately before paragraph (c) and, in that paragraph, after first “district” insert “ in England ” and after second “district” add—
+
+> and
+>
+> (d) as respects any county or county borough in Wales, the council of the county or county borough.
+
+(2) In section 34 of that Act (interpretation of Part I), in the definition of “district”, at the end add—
+
+> and, in relation to—
+>
+> (a) a local authority who are the council of a Welsh county or county borough, and
+>
+> (b) the officers of such an authority,
+>
+> means that county or county borough;
+
+.
+
+(3) In section 45 of that Act (interpretation of Part II)—
+
+(a) after the definition of “contravention” insert—
+
+> - “district”, in relation to a local authority who are the council of a Welsh county or county borough, means that county or county borough;
+
+; and
+
+(b) in the definition of “local authority”, after first “council” insert “ of a Welsh county or county borough or ”.
+
+### The Local Government Act 1974 (c. 7)
+
+**44** In section 34(1) of the Local Government Act 1974 (interpretation), in the definition of “local authority”, after “Broads Authority” insert “ a Welsh county council, a county borough council ”.
+
+### The Consumer Credit Act 1974 (c. 39)
+
+**45** In section 189(1) of the Consumer Credit Act 1974 (interpretation), in the definition of “local authority” omit “and Wales” and after “Scilly,” insert “ in relation to Wales means a county council or a county borough council, ”.
+
+### The Guard Dogs Act 1975 (c. 50)
+
+**46** In section 7 of the Guard Dogs Act 1975 (interpretation), in the definition of “local authority” omit “and Wales”, and after “City of London,” insert “ in relation to Wales, a county council or county borough council, ”.
+
+### The Safety of Sports Grounds Act 1975 (c. 52)
+
+**47** (1) In the following provisions of the Safety of Sports Grounds Act 1975, after “where the local authority is in” insert (in each place) “ Wales, ”
+
+(a) section 3(3) (applications for certificates);
+
+(b) in section 4 (amendment etc of certificates), subsections (7) and (8);
+
+(c) section 5(5)(d) (interested parties for purposes of appeals);
+
+(d) section 10(8)(b) (copies of prohibition notices);
+
+(e) section 10A(7)(d) (appeals against orders relating to prohibition notices); and
+
+(f) section 11(c) (powers of entry and inspection).
+
+(2) In section 17(1) of that Act (interpretation)—
+
+(a) in the definition of “building authority”, in paragraph (a) omit “or in Wales,”; and
+
+(b) in the definition of “local authority”, in paragraph (c) omit “or in Wales,” and, after that paragraph insert—
+
+> (cc) in Wales, the county council or county borough council;
+
+.
+
+### The Welsh Development Agency Act 1975 (c. 70)
+
+**48** In section 16 of the Welsh Development Agency Act 1975 (derelict land), in paragraph (a) of the definition of “local authority” in subsection (9), for “district” substitute “ county borough ”.
+
+### The Local Land Charges Act 1975 (c. 76)
+
+**49** In section 3(1) of the Local Land Charges Act 1975 (registering authorities), after paragraph (a) insert—
+
+> (aa) a Welsh county council;
+>
+> (ab) a county borough council;
+
+.
+
+### The Lotteries and Amusements Act 1976 (c. 32)
+
+**50** [^F121]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Dangerous Wild Animals Act 1976 (c. 38)
+
+**51** In section 7 of the Dangerous Wild Animals Act 1976 (interpretation), in subsection (4), in the definition of “local authority”, omit “and Wales” and after “City of London,” insert “ in relation to Wales, a county council or county borough council, ”.
+
+### The Race Relations Act 1976 (c. 74)
+
+**52** In section 19A of the Race Relations Act 1976 (discrimination by planning authorities), in subsection (2)(a), after “county,” insert “ county borough, ”.
+
+### The Development of Rural Wales Act 1976 (c. 75)
+
+**[^F122]53** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The European Parliamentary Elections Act 1978 (c. 10)
+
+**[^F123]54** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Inner Urban Areas Act 1978 (c. 50)
+
+**55** (1) In section 1 of the Inner Urban Areas Act 1978 (designation of districts by Secretary of State)—
+
+(a) in subsection (1), after “district” insert “ or Welsh county or county borough ”; and
+
+(b) in subsection (2), at the end add “ but, in relation to a designated district which is a Welsh county or county borough, means the council of that county or county borough ”.
+
+(2) In section 2 of that Act (loans for acquisition of or works on land), in subsection (1)(a), after “within the designated district or” insert “ (except where the land is in Wales) ”.
+
+(3) In section 7 of that Act (power to enter into arrangements), in subsection (1), after “district” in the first and last places where it occurs insert “ or Welsh county or county borough ” (in each place), and, in paragraph (a), at the beginning insert “ as respects any such district, ”, and after “both;” insert—
+
+> (aa) as respects any such Welsh county or county borough, the council of that county or county borough;
+
+.
+
+(4) After subsection (2) of that section, insert—
+
+> (2A) For the purposes of subsection (2) above, references to districts include references to Welsh counties and county boroughs.
+
+(5) In section 17 of that Act (interpretation), in the definition of “designated district” in subsection (1), after “any district” insert “ or Welsh county or county borough ”.
+
+(6) In the Schedule to that Act (improvement areas), after paragraph 1(1), insert—
+
+> (1A) In the application of sub-paragraph (1) above in relation to Wales, the words “after consulting the other designated district authority,” shall not apply.
+
+### [^F124]...
+
+**[^F124]56** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Local Government, Planning and Land Act 1980 (c. 65)
+
+**57** (1) In section 2 of the Local Government, Planning and Land Act 1980 (duty of authorities to publish information), in subsection (1) after paragraph (a) insert—
+
+> (aa) a county borough council;
+
+.
+
+(2) In section 4 of that Act (bodies which may be directed to publish information)—
+
+(a) in subsection (4)(g), after “councils” insert “ or Welsh county councils or county borough councils ”; and
+
+(b) in subsection (7), omit “district”.
+
+(3) In section 20(1) of that Act (interpretation of Part III), in the definition of “local authority”, in paragraph (a) omit “and Wales” and after that paragraph insert—
+
+> (aa) in relation to Wales, a county council or county borough council or a police authority established under section 3 of the [^M43]Police Act 1964;
+
+.
+
+(4) In section 98 of that Act (disposal of land at direction of Secretary of State), in subsection (8A) after paragraph (a) insert—
+
+> (aa) a county borough council;
+
+.
+
+(5) In section 99 of that Act (provisions supplementing section 98), in subsection (4) after paragraph (a) insert—
+
+> (aa) a county borough council;
+
+.
+
+[^F125]6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F126]58** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**59** (1) In section 116 of that Act (assessment of development land), in subsection (4), in paragraph (a) omit “and Wales” and after that paragraph insert—
+
+> (aa) (in the application of the section to Wales) the councils of counties and county boroughs;
+
+.
+
+(2) In section 162 of that Act (inner urban areas)—
+
+(a) in subsection (5)—
+
+(i) in paragraph (a) after “district” insert “ or Welsh county or county borough ”; and
+
+(ii) in paragraph (b) after “district” insert “ or (as the case may be) Welsh county or county borough ”; and
+
+(b) in subsection (6)(b), after “(a)” insert “ or (aa) ”.
+
+(3) In section 165 of that Act (power to transfer undertaking), in subsection (9) in paragraph (a) omit “and Wales” and after that paragraph insert—
+
+> (aa) (in the application of the sections to Wales) a county council or county borough council;
+
+.
+
+(4) In section 185 of that Act (pleasure boat byelaws) in subsection (1) after “London” insert—
+
+> (iv) the council of a Welsh county or county borough,
+
+.
+
+(5) In Schedule 16 to that Act (bodies to whom Part X applies), after paragraph 1 insert—
+
+> **1A** A county borough council.
+
+.
+
+[^F127]6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F127]7 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F127]8 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(9) In Schedule 32 to that Act (enterprise zones)—
+
+[^F128]a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F128]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(c) in paragraph 2(2)(a)(ii) omit “or Wales” [^F129]...
+
+> ;
+
+.
+
+### The Disused Burial Grounds (Amendment) Act 1981 (c. 18)
+
+**60** In the Schedule to the Disused Burial Grounds (Amendment) Act 1981 (disposal of human remains and tombstones, monuments or other memorials), in paragraph 10(1)(a), after “district,” insert “ or Welsh county or county borough, ”.
+
+### The Animal Health Act 1981 (c. 22)
+
+**61** In section 50 of the Animal Health Act 1981 (local authorities), in subsection (2), after paragraph (b) insert—
+
+> (bb) as respects a county borough, the county borough council,
+
+.
+
+### The Zoo Licensing Act 1981 (c. 37)
+
+**62** (1) In section 1 of the Zoo Licensing Act 1981 (licensing of zoos by local authorities), in subsection (3), in paragraph (a) omit “and Wales” and after that paragraph insert—
+
+> (aa) in Wales, the councils of counties and county boroughs;
+
+.
+
+(2) In section 3(2) of that Act (persons whose representations are to be taken into account in consideration of applications for licences), in paragraph (e), after “the licence” insert “ — (i) ” and at the end of that paragraph insert—
+
+> or
+>
+> (ii) if the part is situated in Wales, the local planning authority for the area in which it is situated;
+
+.
+
+### The New Towns Act 1981 (c. 64)
+
+**63** (1) In section 2 of the New Towns Act 1981 (reduction of designated areas), in subsection (1)(b), after “district council” insert “ or, in the case of land in Wales, any county council or county borough council ”.
+
+(2) In section 7 of that Act (planning control), in subsection (3), immediately before “in a metropolitan county” insert “ in Wales or ”.
+
+(3) In section 23 of that Act (extinguishment of public rights of way), in subsection (2)—
+
+(a) in paragraph (i), after “authority” insert “ or, in the case of land in Wales, the local planning authority ”; and
+
+(b) in paragraph (ii), at the beginning insert “ if different ”.
+
+(4) In section 33 of that Act (new town may be united district for Public Health Acts), for “districts” substitute “ areas ”.
+
+(5) [^F130]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6) In section 39 of that Act (power of development corporation to transfer undertakings), after subsection (2) insert—
+
+> (2A) Subsection (2) above shall have effect in relation to Wales as if for “and of every district” there were substituted or county borough.
+
+(7) In section 41 of that Act (transfer of property to Commission and dissolution of corporation), after subsection (1) insert—
+
+> (1A) Subsection (1) above shall have effect in relation to Wales as if for “and of every district” there were substituted “or county borough”.
+
+(8) In section 77 of that Act (regulations and orders), in subsection (4)(a)(ii), after “county planning authority” insert “ or, where the order is one designating an area in Wales, by the local planning authority ”.
+
+(9) In Schedule 1 to that Act (procedure for designating area of new town), in paragraph 2(3), after “district” insert “ or, in the case of land in Wales, every county or county borough ”.
+
+### The Acquisition of Land Act 1981 (c. 67)
+
+**64** (1) In section 17 of the Acquisition of Land Act 1981 (local authorities for purposes of orders subject to special parliamentary procedure), in subsection (4), in paragraph (b) of the definition of “local authority”, for “district” substitute “ county borough ”.
+
+(2) In paragraph 4 of Schedule 3 to that Act (acquisition of new rights over special kinds of land), in sub-paragraph (4), in paragraph (b) of the definition of “local authority”, for “district” substitute “ county borough ”.
+
+### The Wildlife and Countryside Act 1981 (c. 69)
+
+**[^F131]65** (1) In section 3 of the Wildlife and Countryside Act 1981 (areas of special protection), in subsection (4), for “district” substitute “locality”.
+
+(2) In section 27(1) of that Act (interpretation of Part I), in paragraph (a) of the definition of “local authority”, omit “and Wales” and after that paragraph insert—
+
+> (aa) in relation to Wales, a county council or county borough council;
+
+.
+
+(3) In section 34 of that Act (limestone pavement orders), in paragraph (a) of the definition of “the relevant authority” in subsection (6), after “non-metropolitan county” insert “in England”, and after that paragraph insert—
+
+> (aa) in relation to any area in Wales, the local planning authority;
+
+.
+
+[^F132]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) In section 39(5) of that Act (relevant authorities for purposes of management agreements with owners and occupiers of land), after “land” in paragraph (a), insert “in England”.
+
+(6) In section 52 of that Act (interpretation of Part II), in subsection (2) omit “and to Wales”.
+
+(7) In section 57 of that Act (supplementary provisions as to definitive maps and statements), after subsection (5) insert—
+
+> (5A) Subsection (5) shall apply in relation to land in Wales as if “in each district comprised” were omitted.
+
+(8) In section 66(1) of that Act (interpretation of Part III), in the definition of “surveying authority”, after “county council,” insert “ county borough council, ”.
+
+[^F133]9 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F131]10 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(11) In Schedule 14 to that Act (applications for certain orders under Part III), in paragraph 5(1), in the definition of “local authority”, omit “or community” and at the end of that definition add “ but, in relation to Wales, means a community council ”.
+
+(12) In Schedule 15 to that Act (procedure in connection with certain orders under Part III), in paragraph 13(2), in the definition of “local authority” omit “or community” and at the end of that definition add “ but, in relation to Wales, means a community council ”.
+
+### The Civil Aviation Act 1982 (c. 16)
+
+**66** (1) In section 79 of the Civil Aviation Act 1982 (grants towards cost of sound-proofing buildings), in subsection (7), omit “and Wales”.
+
+(2) In section 105(1) of that Act (interpretation), in paragraph (a) of the definition of “local authority” omit “and Wales” and, after that paragraph, insert—
+
+> (aa) in relation to Wales, means a county council or a county borough council;
+
+.
+
+### The Aviation Security Act 1982 (c. 36)
+
+**[^F134]67** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Representation of the People Act 1983 (c. 2)
+
+**68** (1) In section 8 of the Representation of the People Act 1983 (registration officers), in subsection (2) omit “and Wales” and after subsection (2) insert—
+
+> (2A) In Wales, the council of every county or county borough shall appoint an officer of the council to be registration officer for any constituency or part of a constituency coterminous with or situated in the area of the council.
+
+(2) In section 18(2) of that Act (polling districts), omit “and Wales” and after “borough” insert “ , and in Wales it is the duty of the council of each county or county borough, ”.
+
+(3) In section 24(1) of that Act (returning officers), in paragraphs (a), (b) and (c) after “constituency” insert, in each case, “ in England ” and insert the following paragraphs in the appropriate places—
+
+> (aa) in the case of a county constituency in Wales which is coterminous with or wholly contained in a preserved county as defined by section 64 of the Local Government (Wales) Act 1994, the sheriff of the county;
+
+;
+
+> (bb) in the case of a borough constituency in Wales which is coterminous with or wholly contained in a county or county borough, the chairman of the county or county borough council;
+
+;
+
+> (cc) in the case of any other constituency in Wales, such sheriff or chairman of a county or county borough council as may be designated in an order by the Secretary of State so made;
+
+.
+
+(4) In section 28(1) of that Act (discharge of returning officer’s functions), in paragraph (a) after “constituency” insert “ in England ” and after that paragraph insert—
+
+> (aa) in the case of a constituency in Wales for which the chairman of a county or county borough council is returning officer by virtue of that section, by the registration officer appointed by that council;
+
+.
+
+(5) In section 28(5) of that Act (power of acting returning officer to appoint deputies), after “and a” insert “ Welsh county council or county borough council or a ”.
+
+(6) In section 31 of that Act (polling districts and stations at local government elections), in subsection (1) after “county councillors” insert “in England” and after that subsection insert—
+
+> (1A) For elections of county or county borough councillors in Wales, the county or county borough council may divide an electoral division into polling districts and may alter any polling district.
+
+(7) In section 35 of that Act (returning officers for local elections), in subsection (1) omit “and Wales” and “or communities” and after that subsection insert—
+
+> (1A) In Wales the council of every county or county borough shall appoint—
+>
+> (a) an officer of the council to be the returning officer for elections of councillors of the county or county borough; and
+>
+> (b) an officer of the council to be the returning officer for elections of councillors of communities within the county or county borough.
+
+(8) In section 36 of that Act (local elections), in subsection (3) omit “or community” in both places in paragraph (b) [^F135]...
+
+[^F136]9 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(10) In section 36 of that Act, in subsection (5) omit “or community”, in both places, and “or the community” [^F137]...
+
+(11) In section 39 of that Act (void local elections)—
+
+(a) in subsections (4) and (6)(a), after “district council” insert, in each case, “ or Welsh county or county borough council ”; and
+
+(b) in subsection (6)(b), omit “district”.
+
+(12) In section 52(4) of that Act (discharge of registration duties), in paragraph (a) omit “and Wales” and for second “and” substitute—
+
+> (aa) in Wales, of a county or county borough council, and
+
+.
+
+(13) In section 69(2) of that Act (location of offices of election agents and sub-agents), in paragraphs (a) and (b), in each case for “or in a London borough or district” substitute “ or in a Welsh county or county borough, or London borough or district, ”.
+
+(14) In section 82(4) of that Act (persons before whom declaration as to expenses may be made), in paragraph (a), after “county council” insert “ , a county borough council ”.
+
+(15) In section 159 of that Act (candidate reported guilty of corrupt or illegal practice), in the definition of “corporate office” in subsection (3) after “county” insert “ , county borough ”.
+
+(16) In section 203(1) of that Act (interpretation)—
+
+(a) in the definition of “local authority”, after “county council,” insert “ a county borough council, ”; and
+
+(b) in the definition of “local government area”, after “county,” insert “ county borough, ”.
+
+(17) In Schedule 1 to that Act (parliamentary election rules), in paragraph 10(2)(c) after “district” insert “ or Welsh county or county borough ”.
+
+(18) In Schedule 2 to that Act (provisions which may be contained in regulations as to registration etc.), in paragraph 1(1) after “district” insert “ , Welsh county or county borough ”.
+
+(19) In Schedule 3 to that Act (form of return and declaration), in the first passage in brackets in each form (which provides for an alternative in relation to a local government election), after “county of” insert “ county borough of ”.
+
+(20) In Schedule 5 to that Act (use of certain rooms for parliamentary election meetings), in paragraph 3(1) after “council” insert “ and every Welsh county and county borough council ”.
+
+### The Licensing (Occasional Permissions) Act 1983 (c. 24)
+
+**69** [^F138]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Value Added Tax Act 1983 (c. 55)
+
+**[^F139]70** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Pastoral Measure 1983 (No. 1)
+
+**71** In section 87 of the Pastoral Measure 1983 (general interpretation), in the definition of “local planning authority” in subsection (1), after “(a)” insert “ in England ”.
+
+### The Telecommunications Act 1984 (c. 12)
+
+**72** [^F140]In section 97 of the Telecommunications Act 1984 (contributions by local authorities towards provision of facilities), in subsection (3)—
+
+[^F140]a [^F140]in paragraph (a) omit “and Wales”, after “City of London” insert “or” and omit “or a community council”; and
+
+[^F140]b [^F140]after that paragraph insert—
+
+> [^F140]aa [^F140]in relation to Wales, means a county council, a county borough council or a community council;
+
+[^F140].
+
+### The Cinemas Act 1985 (c. 13)
+
+**73** [^F141]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Representation of the People Act 1985 (c. 50)
+
+**74** [^F142]1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) In section 21 of that Act (insufficient nominations at ordinary elections of community councils), in subsection (2)(b)—
+
+(a) after “district council” insert “ or, in the case of a community council, the county council or county borough council ”; and
+
+(b) omit “of district council”.
+
+### The Weights and Measures Act 1985 (c. 72)
+
+**75** In section 69 of the Weights and Measures Act 1985 (local weights and measures authorities), in subsection (2), at the end add “ and for each county borough shall be the county borough council ”.
+
+### The Health Service Joint Consultative Committees (Access to Information) Act 1986 (c. 24)
+
+**76** In section 1 of the Health Service Joint Consultative Committees (Access to Information) Act 1986 (interpretation), in subsection (1), in the definition of “local authority”, after “county council,” insert “ a county borough council, ”.
+
+### The Airports Act 1986 (c. 31)
+
+**77** In section 12 of the Airports Act 1986 (interpretation of Part II), in the definition of “principal council” in subsection (1), in paragraph (a) omit “and Wales”, and after that paragraph insert—
+
+> (aa) in relation to Wales, means the council of a county or of a county borough;
+
+.
+
+### The Gas Act 1986 (c. 44)
+
+**[^F143]78** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Building Societies Act 1986 (c. 53)
+
+**79** In Schedule 8 to the Building Societies Act 1986 (powers to provide services) in paragraph 8 of Part IV, in the definition of “local authority in Great Britain”, in paragraph (a) omit “and Wales” and “or community” and after that paragraph insert—
+
+> (aa) in Wales, a county council, a county borough council and a community council;
+
+.
+
+### The Parliamentary Constituencies Act 1986 (c. 56)
+
+**[^F144]80** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Fire Safety and Safety of Places of Sport Act 1987 (c. 27)
+
+**81** (1) In the following provisions of the Fire Safety and Safety of Places of Sport Act 1987, after “where the local authority is in” insert (in each place) “ Wales, ”
+
+(a) section 28(10) (copies of applications for safety certifcates);
+
+(b) in section 29 (amendment, cancellation etc of certifcates), subsections (7) and (8);
+
+(c) section 30(8)(d) (interested parties for purposes of appeals); and
+
+(d) section 35(c) (powers of entry and inspection).
+
+(2) In section 41 of that Act (interpretation), in paragraph (a) of the definition of “building authority” and paragraph (c) of the definition of “local authority” omit “or in Wales,” and after paragraph (c) of the definition of “local authority” insert—
+
+> (cc) in Wales, the county council or county borough council;
+
+.
+
+### The Coroners Act 1988 (c. 13)
+
+**82** [^F145]1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F145]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) In section 2 of that Act (qualifcations for appointment as coroner), in subsection (3), after first “county” insert “ in England ”, and after subsection (2) insert—
+
+> (2A) A person shall, so long as he is a councillor of a Welsh principal area, and for six months after he ceases to be one, be disqualified for being a coroner for a coroner’s district which, or any part of which, falls within that area.
+
+(4) In section 4 of that Act (coroners’ districts), in subsections (2) and (4), after first “county” in each case insert “ in England ”, and in subsection (5)(a), after “administrative area” insert “ in England ”.
+
+(5) After section 4 of that Act insert—
+
+> **Coroners’ districts: Wales.**
+>
+> **4A** (1) The Secretary of State may by order divide, amalgamate or otherwise alter—
+>
+> (a) any coroner’s district for the time being existing in Wales; or
+>
+> (b) any such coroners’ districts.
+>
+> (2) Before making any order under subsection (1) above, the Secretary of State shall consult the councils and coroners appearing to him to be affected by the order and such other persons as he thinks appropriate.
+>
+> (3) The Secretary of State may, in relation to any area in Wales (the “review area”), direct the council or councils for each Welsh principal area which, or any part of which, falls within the review area to consider any of the following questions—
+>
+> (a) whether any alteration should be made in a boundary between coroners’ districts which falls within the review area;
+>
+> (b) whether a new coroner’s district should be created for the whole or any part of the review area;
+>
+> (c) whether a coroner’s district which falls wholly within the review area should be abolished.
+>
+> (4) The council or councils to whom such a direction is given shall submit their conclusions to the Secretary of State, together with a statement of their reasons for reaching those conclusions.
+>
+> (5) In making an order under subsection (1) above in a case where he has given a direction under subsection (3) above, the Secretary of State shall have regard to any proposals made to him under subsection (4) above.
+>
+> (6) Where the Secretary of State intends to give effect to any such proposals without modification, subsection (2) above shall not require him to consult the council or councils who made those proposals.
+>
+> (7) An order made under subsection (1) above may make such incidental, consequential, transitional or supplemental provision as appears to the Secretary of State to be appropriate.
+>
+> (8) Except as provided by this Act, a coroner appointed for any coroner’s district in Wales—
+>
+> (a) shall for all purposes be regarded as a coroner for the whole of Wales; and
+>
+> (b) shall have the same jurisdiction, rights, powers and authorities throughout Wales as if he had been appointed as coroner for the whole of Wales.
+>
+> (9) The power to make orders under this section shall be exercisable by statutory instrument.
+>
+> (10) Any such statutory instrument shall be laid before each House of Parliament after being made.
+
+(6) In section 22 of that Act (removal of body for post mortem examination), in the definition of “local authority” in subsection (6), for “district or London borough” substitute “ district, London borough or Welsh principal area ”.
+
+(7) In section 27 of that Act (coroner’s accounts), in subsection (3)(b), after “county council” insert “ in England ” and after “fund;” insert—
+
+> (bb) in the case of the council of a Welsh principal area, out of the council fund;
+
+.
+
+(8) In section 27(4) of that Act, for the words from “district consisting of” to “districts or boroughs” substitute—
+
+> district—
+>
+> (a) consisting of two or more metropolitan districts or London boroughs, or
+>
+> (b) which lies partly in each of two or more Welsh principal areas,
+>
+> the expenses of the councils of those districts, boroughs or areas
+
+.
+
+[^F145]9 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(10) In section 35(1) of that Act (interpretation), in the definition of “administrative area”, after “means” insert “ Wales, ” and after “county” insert “ in England ”, and after the definition of “relevant council” insert—
+
+> “Welsh principal area” means Welsh county or county borough
+
+.
+
+### The Education Reform Act 1988 (c. 40)
+
+**83** In section 235 of the Education Reform Act 1988 (interpretation), in subsection (1), in the definition of “local authority”, after “county council,” insert “ a county borough council, ”.
+
+### The Local Government Finance Act 1988 (c. 41)
+
+**[^F146]84** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**85** In section 88(2) of [[^F147]the Local Government Finance Act 1988] (councils to whom transport grants may be paid), after paragraph (a) insert—
+
+> (aa) a county borough council,
+
+.
+
+**[^F148]86** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Football Spectators Act 1989 (c. 37)
+
+**87** In section 13 of the Football Spectators Act 1989 (licensing authority’s powers in relation to safety at football grounds), in subsection (3) after “is in” insert “ Wales, ”.
+
+### The Local Government and Housing Act 1989 (c. 42)
+
+**88** [^F149]In section 39 of the Local Government and Housing Act 1989 (revenue accounts and capital finance of local authorities), in subsection (1), after paragraph (a) insert—
+
+> [^F149]bb [^F149]a county borough council;
+
+[^F149].
+
+### The Broadcasting Act 1990 (c. 42)
+
+**89** In Part I of Schedule 2 to the Broadcasting Act 1990 (restrictions on the holding of licences), in paragraph 1(1), in the definition of “local authority”, in paragraph (a) omit “and Wales” and after “Scilly;” insert—
+
+> (aa) in relation to Wales, means a county council or county borough council;
+
+.
+
+### The Caldey Island Act 1990 (c. 44)
+
+**90** (1) In section 1(1) of the Caldey Island Act 1990—
+
+(a) for “(in” substitute “ are in ”; and
+
+(b) omit the closing bracket after “ “Caldey”” and the rest of the subsection.
+
+(2) The following provisions shall be omitted from that Act—
+
+(a) section 1(2)(a);
+
+(b) in section 1(3), the words “and district”;
+
+(c) section 1(4);
+
+(d) section 2;
+
+(e) section 4(1)(a); and
+
+(f) section 4(2).
+
+### The Coal Mining Subsidence Act 1991 (c. 45)
+
+**91** In section 47 of the Coal Mining Subsidence Act 1991 (notices to local authorities), in subsection (6), in paragraph (a) omit “and Wales” and after “county;” insert—
+
+> (aa) in relation to Wales, the council of a county or county borough;
+
+.
+
+### The Deer Act 1991 (c. 54)
+
+**92** In section 11 of the Deer Act 1991 (licensed game dealers to keep records), in the definition of “authorised officer” in subsection (9), after “council of a” insert “ Welsh county or county borough, ”.
+
+### The Social Security Contributions and Benefits Act 1992 (c. 4)
+
+**[^F150]93** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Social Security Administration Act 1992 (c. 5)
+
+**94** In section 191 of the Social Security Administration Act 1992 (interpretation), in the definition of “local authority”, in paragraph (a), omit “and Wales” and after “Scilly;” insert—
+
+> (aa) in relation to Wales, the council of a county or county borough;
+
+.
+
+### The Further and Higher Education Act 1992 (c. 13)
+
+**95** In section 90 of the Further and Higher Education Act 1992 (interpretation), in subsection (1), in the definition of “local authority”, after “county council,” insert “ a county borough council, ”.
+
+### The Local Government Finance Act 1992 (c. 14)
+
+**96** [^F151]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**97** [^F152]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F153]98** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Charities Act 1992 (c. 41)
+
+**99** [^F154]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Judicial Pensions and Retirement Act 1993 (c. 8)
+
+**100** In section 21 of the Judicial Pensions and Retirement Act 1993 (pensions payable to judicial officers etc. by local authorities), in subsection (4), in the definition of “local authority”, after “county council,” insert “ county borough council, ”.
+
+### The Charities Act 1993 (c. 10)
+
+**[^F155]101** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Radioactive Substances Act 1993 (c. 12)
+
+**102** In section 47(1) of the Radioactive Substances Act 1993 (general interpretation provisions), in the definition of “local authority”—
+
+(a) in paragraph (a) omit “and Wales”; and
+
+(b) after paragraph (a) insert—
+
+> (aa) in Wales, the council of a county or county borough;
+
+.
+
+### The Local Government (Overseas Assistance) Act 1993 (c. 25)
+
+**103** In section 1(9) of the Local Government (Overseas Assistance) Act 1993 (definition of “local authority”), in paragraph (a), for “and” substitute “ , the council of a county or county borough in ”.
+
+### [^F156]. . .
+
+**104** [^F157]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Education Act 1993 (c. 35)
+
+**[^F158]105** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Welsh Language Act 1993 (c. 38)
+
+**106** (1) In section 6 of the Welsh Language Act 1993 (meaning of “public body”), in subsection (1)(a), after first “council” insert “ county borough council, ”.
+
+(2) In section 25 of that Act (powers to give Welsh names to statutory bodies), for subsection (3) substitute—
+
+> (3) Subsection (1) above does not apply in relation to a name conferred on any area or local authority by the [^M44]Local Government Act 1972.
+
+### The Railways Act 1993 (c. 43)
+
+**107** In section 151 of the Railways Act 1993 (general interpretation), in subsection (1), in the definition of “local authority”, after “county council,” insert “ county borough council, ”.
+
+### The Health Service Commissioners Act 1993 (c. 46)
+
+**108** [^F159]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Probation Service Act 1993 (c. 47)
+
+**[^F160]109** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 17 — Savings and Transitional Provisions
+
+*Section 66(7).*
+
+### Part I — Savings
+
+#### Administration of local government before 1st April 1996
+
+**1** The provisions of section 20 of the 1972 Act in force immediately before the passing of this Act shall continue to have effect in relation to the administration of local government in Wales before 1st April 1996.
+
+#### Former cities and boroughs privileges and rights of inhabitants
+
+**2** Any privileges or rights belonging immediately before 1st April 1996 to the inhabitants of any area in Wales by virtue of—
+
+(a) section 246(1) of the 1972 Act (saving for privileges and rights of citizens and burgesses); or
+
+(b) any provision made under subsection (2)(b) of that section by a charter granted under section 245 of the 1972 Act (grant of borough status);
+
+shall belong on and after that date to the inhabitants of that area.
+
+#### Honorary aldermen
+
+**3** Any person who, immediately before 1st April 1996, is an honorary alderman by reference to his past membership of an old authority—
+
+(a) shall continue to have that status even though the old authority has ceased to exist as a result of this Act; but
+
+(b) shall not, while serving as a councillor of any new principal council in Wales, be entitled to be addressed as alderman or to attend or take part in any civic ceremonies of that council as an alderman.
+
+#### Agricultural wages committees
+
+**4** Subject to any provision made under section 54 which amends or modifies the [^M45]Agricultural Wages Act 1948, “county” shall, in relation to Wales, have the same meaning for the purposes of that Act as it had for those purposes immediately before the passing of this Act.
+
+#### Inner urban areas
+
+**5** (1) The area of any district in Wales which, immediately before 1st April 1996, was a designated district for the purposes of the [^M46]Inner Urban Areas Act 1978 by virtue of an order under section 1(1) of that Act shall, subject to any further provision made by or under that Act, continue to be a designated district for those purposes.
+
+(2) The designated district authority in relation to any such designated district which comprises or falls wholly within a new principal area shall be the council of that area.
+
+(3) Where any such designated district falls partly within the areas of two or more new principal councils, each of those councils shall be the designated district authority in relation to the part of the designated district that falls within their area.
+
+#### Effect of amendments
+
+**6** Where this Act, or any provision made under this Act, amends (whether by substituting a new definition for an existing definition or otherwise) any reference to any kind of local government area or any kind of local authority (in an enactment which has effect in England), the amendment shall not be taken to affect the operation of any provision of, or made under, the [^M47]Local Government Act 1992 in relation to the enactment so amended.
+
+### Part II — Transitional Provisions
+
+#### Election of principal councillors in 1995
+
+**7** (1) Section 26(3) of the 1972 Act (as substituted by section 4 of this Act) shall not apply in relation to the ordinary election of councillors of the new principal councils which takes place in 1995.
+
+(2) The councillors elected at that election shall assume office immediately.
+
+(3) The term of office of every such councillor shall extend until he retires in accordance with section 26(3)(a) of the 1972 Act.
+
+#### Election of community councillors in 1995
+
+**8** (1) Any ordinary election of community councillors otherwise due to take place in May 1995 shall take place on the same day as the ordinary election in that year of councillors for the new principal area in which the community is situated.
+
+(2) Any such councillor who otherwise would ordinarily have retired on 8th May 1995 shall (unless he resigns his office or it otherwise becomes vacant) hold office until the fourth day after the day on which the election of community councillors in 1995 takes place.
+
+(3) The term of office of every councillor elected at that election shall extend until he retires in accordance with section 35(2B)(a) of the 1972 Act.
+
+#### Grouping of communities
+
+**9** During the period beginning with the passing of this Act and ending with 1st April 1996, an order under section 29(1) of the 1972 Act (before the commencement of section 10) may be made only if all the communities concerned—
+
+(a) were, immediately before the passing of this Act, situated within the same district; and
+
+(b) will, after that date, be situated within the area of a single principal council.
+
+#### Disclosure of officers’ interests
+
+**10** For the purposes of section 117 of the 1972 Act (disclosure by officers of interests in contracts), any contract which—
+
+(a) was entered into by an old authority, and
+
+(b) to which any of the new principal councils becomes a party by virtue of this Act,
+
+shall be treated as a contract entered into by the new principal council.
+
+#### Local land charges registers
+
+**[^F161]11** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Closure of old authorities’ accounts
+
+**12** (1) For the purposes of this paragraph, the Secretary of State shall by order designate such of the new principal councils as he considers appropriate.
+
+(2) Each designated council shall be designated with respect to one or more old authorities.
+
+(3) Each designated council shall, in relation to the accounts for any period ending before 1st April 1996 of each old authority with respect to which they are designated, discharge—
+
+(a) any functions under regulations in force under [[^F162]the Audit Commission Act 1998] which would have fallen to be discharged on or after that date by that old authority or any of its officers; and
+
+(b) any functions under those regulations which fell to be so discharged before that date but which have not been discharged.
+
+(4) As respects anything falling to be done on or after 1st April 1996 in relation to those accounts, the provisions of [[^F163]the Act of 1998] shall have effect as if they were accounts of the designated council but—
+
+(a) the documents to which an auditor has the right of access under [[^F164]section 6(1)] of that Act shall include any documents relating to the old authority concerned which are in the possession of any of the new principal councils [^F165]...; and
+
+(b) the persons who may be required to give information or an explanation under [[^F166]section 6(4) or 48(1)] of that Act shall include any person who was an officer or member of the authority concerned at any time during the period to which the accounts relate.
+
+(5) Any requirement under [[^F167]section 28 of the Act of 1998] in respect of a claim, return or account of an old authority, and any consent under [[^F168]section 49(1)(a)] of that Act in respect of information relating to such an authority, may, on or after 1st April 1996, be made or given by the appropriate designated council.
+
+(6) Any designated council—
+
+(a) shall have a right of access at all reasonable times to all such documents—
+
+(i) as are in the possession, or under the control, of an old authority, or
+
+(ii) as are mentioned in sub-paragraph (4)(a),
+
+which appear to the council to be needed for the purpose of discharging functions under this paragraph; and
+
+(b) may require—
+
+(i) any such person as is mentioned in sub-paragraph (4)(b), or
+
+(ii) any person who is or has been an officer or member of that or any other new principal council,
+
+to give to the council any such information or explanation as they think necessary for that purpose.
+
+(7) It shall be the duty of every new principal council to take such steps, after 1st April 1996, as may reasonably be required of them by a designated council to enable the accounts of an old authority to be closed.
+
+(8) Any person who without reasonable excuse fails to comply with any requirement under sub-paragraph (6) shall be liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+(9) In sub-paragraph (4) “document” includes any record of information and, where the record is not in legible form, the rights conferred by that sub-paragraph and sub-paragraph (6) include the right to require the information to be made available in legible form for inspection or copying and to require copies of it in that form to be delivered.
+
+(10) In this paragraph “designated council” means a council designated under sub-paragraph (1).
+
+#### Planning
+
+**[^F169]13** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**14** (1) This paragraph applies where an old authority have, by virtue of paragraph 5 of Schedule 17 to the 1972 Act, made arrangements which, immediately before 1st April 1996, are in force for the discharge of any of their functions through a National Park Committee.
+
+(2) The abolition of the old authority shall not affect the validity of anything done by the National Park Committee before the abolition of the authority.
+
+(3) Anything which, on 1st April 1996, is in the process of being done by or in relation to an old authority in the exercise of, or in connection with, any functions discharged through a National Park Committee may be continued by or in relation to the successor authority.
+
+(4) For the purposes of this paragraph “successor authority” means—
+
+(a) where a joint or special planning board is established for the area of the National Park in question, that board; and
+
+(b) in any other case, the local planning authority by whom the functions become exercisable (acting through a National Park Committee).
+
+**15** (1) This paragraph applies where, immediately before 1st April 1996—
+
+(a) a planning obligation is in force, in relation to any land in Wales, under section 106 of the planning Act (planning obligations: general) or any provision in any earlier enactment from which that provision was derived; and
+
+(b) the enforcing authority are the county planning authority or the district planning authority for the area in which the land is situated.
+
+(2) On and after 1st April 1996 the enforcing authority shall be the new planning authority and—
+
+(a) the provision in the instrument by which the planning obligation was entered into identifying the enforcing authority in accordance with section 106(9)(d) shall be read as if it instead so identified the new planning authority, and
+
+(b) section 106 shall have effect accordingly.
+
+(3) In this paragraph—
+
+- “enforcing authority” means the authority by whom the obligation is enforceable;
+
+- “new planning authority” means—
+
+  - (a) the local planning authority who are a county council, county borough council, joint planning board or special planning board in whose area that land becomes situated on 1st April 1996; but
+  - (b) where a part of the land becomes situated in the area of each of two or more such authorities, such of those authorities as they may agree between them, or, in default of agreement, as may be determined by the Secretary of State.
+
+(4) This paragraph has effect in relation to planning obligations entered into under section 299A of the planning Act (Crown planning obligations) as it has effect in relation to planning obligations entered into under section 106 of that Act, but as if for references to section 106, and to subsection (9)(d) of that section, there were substituted references to section 299A of that Act, and to subsection (2)(d) of section 299A, respectively.
+
+**[^F170]16** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F171]17** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Highways
+
+**18** (1) This paragraph applies where a bridge in Wales carries a highway for which the Secretary of State is not the highway authority.
+
+(2) If—
+
+(a) part of the bridge is situated in one new principal area and part in another; and
+
+(b) the highway authority for the bridge is not otherwise determined under or by virtue of any provision of this Act,
+
+the highway authority for the highway carried by the bridge and the approaches to it is such one of the councils of those new principal areas as may be agreed between them before such a day as the Secretary of State may by order appoint or, in default of such agreement, as may be determined by him.
+
+(3) Where the Secretary of State has made a determination under sub-paragraph (2) the determination—
+
+(a) may be varied at the request of the council of either of the new principal areas concerned; and
+
+(b) shall be varied to give effect to any request made jointly to the Secretary of State by those councils.
+
+(4) Any such variation shall take effect on the 1st April falling not less than 3 months, and not more than 15 months, after the date on which the determination is varied.
+
+(5) For the purposes of sub-paragraph (2), the approaches to a bridge consist of so much of the highway or highways on either side of the bridge as is situated within 100 yards of either end of the bridge.
+
+**19** (1) An order under section 188 of the [^M48]Highways Act 1980 (new street orders) or under any enactment from which that section was derived made in relation to a highway in Wales before the date on which section 81 of the [^M49]Planning and Compensation Act 1991 came into force shall have effect from 1st April 1996 as if made by the new principal council in whose area, on that date, the highway becomes situated.
+
+(2) The new principal council shall have all the powers of a local authority exercisable under Part X of the Act of 1980 in respect of such an order.
+
+#### Transport
+
+**20** (1) This paragraph applies where, immediately before 1st April 1996, the authority or one of the authorities concerned in establishing a scheme under section 93 of the [^M50]Transport Act 1985 (travel concession schemes) were a district or county council in Wales.
+
+(2) Section 93 of that Act shall have effect on and after 1st April 1996 as if any new principal council who are a relevant council had been concerned in establishing the scheme.
+
+(3) For the purposes of sub-paragraph (2), a council are a relevant council in relation to a scheme if the area which is the principal area (for the purposes of section 93 of that Act) or any part of that area is situated in the area of that council.
+
+(4) This paragraph is subject to the power of the Secretary of State under section 54 to make such alternative or supplementary provision as he thinks necessary in relation to a scheme under section 93 of the Act of 1985.
+
+(5) For the purposes of sections 93 to 102 of the Act of 1985—
+
+(a) the substitution of a new principal council as the authority or one of the authorities responsible for administering a scheme; and
+
+(b) any alteration to the scheme made by the Secretary of State in exercise of his power under section 54,
+
+shall not be treated as a variation of the scheme.
+
+#### Limitation of council tax
+
+**21** (1) The Secretary of State may, in a report made by him in relation to the financial year beginning in 1996 and any Welsh county council or county borough council, specify a notional amount for the purposes of this paragraph.
+
+(2) Any such report—
+
+(a) shall contain such explanation as the Secretary of State considers desirable of the calculation by him of the notional amount;
+
+(b) shall be laid before the House of Commons;
+
+(c) may relate to two or more authorities; and
+
+(d) may be amended by a subsequent report under this paragraph.
+
+(3) If any such report is approved by resolution of the House of Commons, the Secretary of State may designate any authority to whom the report relates if in his opinion, taking any excess in the amount calculated by the authority as their budget requirement for the financial year beginning in 1996 over the notional amount as representing an increase, that increase is excessive.
+
+(4) The Secretary of State may by order make such provision as he considers appropriate for the purpose of supplementing this paragraph.
+
+(5) Subject to any such order, the provisions of Chapter V of Part I of the [^M51]Local Government Finance Act 1992 (limitation of council tax and precepts) shall have effect in relation to a designation under this paragraph as they have effect in relation to a designation under section 54(1)(b) of that Act.
+
+#### Freemen and aldermen
+
+**22** (1) Nothing in this Act shall be taken to affect any person’s status as a freeman or honorary freeman, or the right of any person to be admitted as a freeman of any place.
+
+(2) Services rendered to an old authority, the area of which becomes wholly or partly included in a new principal area, shall be treated for the purposes of section 249 of the 1972 Act (honorary aldermen and freemen) as services rendered to the council of the new principal area.
+
+#### Coroners
+
+**23** (1) Any person who, immediately before 1st April 1996, is a coroner assigned to a particular coroner’s district in Wales (“an existing coroner”) shall, on and after that date, be deemed to have been duly appointed for that district.
+
+(2) Nothing in this Act affects the validity of anything done before 1st April 1996 by an existing coroner.
+
+(3) Anything done before 1st April 1996 by or in relation to an existing coroner shall, on and after that date, be deemed to have been done by or in relation to the coroner appointed for the coroner’s district in question.
+
+(4) Any person who, immediately before 1st April 1996 is a deputy coroner or assistant deputy coroner in relation to a particular coroner’s district shall, on that date, be deemed to have been duly appointed as the deputy or assistant deputy of the coroner for that district.
+
+(5) No order may be made under section 4A of the [^M52]Coroners Act 1988 so as to have effect before 1st April 1996.
+
+(6) Any person who, on or after 1st October 1995, ceases to be a councillor for a county in Wales which ceases to exist on 1st April 1996 (“the old county”) shall, for six months after he ceases to be such a councillor, be disqualified for being a coroner for any district which, or any part of which, falls within the area of the old county.
+
+## SCHEDULE 18 — Repeals
+
+*Section 66(8).*
+
+|  |  |  |
+|---|---|---|
+| Chapter | Short title | Extent of repeal |
+| 23 & 24 Vict. c. 90. | Game Licences Act 1860. | In section 14, the words “from the justices of the peace”. |
+| 8 Edw. 7. c. 16. | Finance Act 1908. | In section 6, in subsection (1) the words “and Wales” and in subsection (2) the word “district”. |
+| 1936 c. 49. | Public Health Act 1936. | In section 1(1)(a), the words “or community”. |
+| 1944 c. 31. | Education Act 1944. | In section 114(1), in the definition of “minor authority”, in paragraph (b), the words “is a community having no community council or” and, in paragraph (c)(iii), the words “which is a community having no community council or”. |
+| 1949 c. 74. | Coast Protection Act 1949. | In section 20, in subsections (1) and (4), the words “or Wales”. |
+| 1958 c. 33. | Disabled Persons (Employment) Act 1958. | In section 3(5), the words “or Wales”. |
+| 1958 c. 69. | Opencast Coal Act 1958. | In section 15A(5)(a)(i), the words “and Wales” and “or community”. |
+| 1960 c. 62. | Caravan Sites and Control of Development Act 1960. | In section 24(8), the words “constituted under section four of the Act of 1947”. |
+| 1962 c. 58. | Pipe-lines Act 1962. | In section 35(6), the words “and Wales”. |
+| 1964 c. 26. | Licensing Act 1964. | Section 66(2). |
+|  |  | In paragraphs 6 and 7 of Schedule 8, in the expression “district returning officer”, the word “district” in each place. |
+| 1964 c. 40. | Harbours Act 1964. | In paragraph 3(ba) of Schedule 3, the words “and Wales” and “or community”. |
+| 1964 c. 48. | Police Act 1964. | In section 1(1)(a), the words “and Wales”. |
+| 1964 c. 75. | Public Libraries and Museums Act 1964. | In section 4(2), the words from “— (a)” to “(b)”. |
+|  |  | In section 5(3), the proviso. |
+|  |  | Section 6. |
+|  |  | In section 10(2), paragraphs (a) and (b)(ii) and in paragraph (b)(i) the words “other than any council of a district in Wales”. |
+|  |  | In section 11(2), the words from “or (b)” to “library authority”. |
+|  |  | Section 21. |
+| 1965 c. 36. | Gas Act 1965. | In section 28(1), in the definition of “local authority”, the words “and Wales”. |
+| 1967 c. 22. | Agriculture Act 1967. | In section 75(2), in the definition of “local authority”, the words “and Wales”. |
+| 1967 c. 24. | Slaughter of Poultry Act 1967. | In section 8(1), in the definition of “local authority”, the words “and Wales”. |
+| 1968 c. 54. | Theatres Act 1968. | In section 18(1), in paragraph (b) of the definition of “licensing authority”, the words “and Wales”. |
+| 1969 c. 10. | Mines and Quarries (Tips) Act 1969. | In section 11(3)(a), the words “and Wales”. |
+| 1969 c. 48. | Post Office Act 1969. | In section 86(1), in paragraph (a) of the definition of “local authority”, the words “and Wales”. |
+| 1970 c. 40. | Agriculture Act 1970. | In section 38(b), the words “and Wales”. |
+|  |  | In section 67(1), the words “and Wales”. |
+| 1970 c. 44. | Chronically Sick and Disabled Persons Act 1970. | In section 21(8), the words “or Wales”. |
+| 1971 c. 40. | Fire Precautions Act 1971. | In section 43(1), in paragraph (a) of the definition of “local authority”, the words “and Wales”. |
+| 1972 c. 66. | Poisons Act 1972. | In section 11(2), in paragraph (a) of the definition of “local authority”, the words “and Wales”. |
+| 1972 c. 70. | Local Government Act 1972. | In section 30, in subsection (1), paragraph (a) (including the word “or” at the end) and subsection (2). |
+|  |  | In section 55(5)(a), the words “(other than a community which is co-extensive with a district)”. |
+|  |  | In section 59(2), the words “all or any class of”. |
+|  |  | In section 60(5), the words “or a district council”. |
+|  |  | Section 67(5)(f). |
+|  |  | In section 69(4), the word “district” (in the second place). |
+|  |  | In section 72(2), the words “or community” (in both places). |
+|  |  | In section 74(3) and (4), the words “or by virtue of a resolution under section 21(5) above”. |
+|  |  | In section 76(2) and (3), the words “or by virtue of a resolution under section 33(2B) above”. |
+|  |  | In section 97, in subsection (1), the word “district” (in the second and third places), and in subsections (2) and (3), the word “district”. |
+|  |  | In section 195(3), the words “as amended by subsection (1) above”. |
+|  |  | Section 200. |
+|  |  | Section 207. |
+|  |  | In section 213(1), the words “and Wales”. |
+|  |  | In section 226(5), the words “or community council” (in both places). |
+|  |  | In section 227(1) and (2), the words “or community” (in each case in the third place). |
+|  |  | In section 245, in subsections (6) to (9) the words “or community” (in each place), in subsection (6) the words “or a community meeting” and in subsection (9) the words “or a community meeting in Wales”. |
+|  |  | In Schedule 4, Part IV. |
+|  |  | In Schedule 8, in paragraph 8, paragraph (d) and the word “and” immediately before it. |
+|  |  | Schedule 10. |
+|  |  | In Schedule 11, in paragraphs 1(2)(c) and (d) and 3(2)(b) and (c), the words “or community” (in each place). |
+|  |  | In Schedule 26, in paragraph 4(a), the words “or communities” in both places, and in paragraph 11(1), the words “or community”. |
+| 1973 c. 35. | Employment Agencies Act 1973. | In section 13(1), in the definition of “local authority”, the words “and Wales”. |
+| 1973 c. 60. | Breeding of Dogs Act 1973. | In section 5(2), in the definition of “local authority”, the words “and Wales”. |
+| 1974 c. 3. | Slaughterhouses Act 1974. | In section 27, the word “and” immediately before paragraph (c). |
+| 1974 c. 37. | Health and Safety at Work etc. Act 1974. | In section 53(1), in paragraph (a) of the definition of “local authority”, the words “and Wales”. |
+| 1974 c. 39. | Consumer Credit Act 1974. | In section 189(1), in the definition of “local authority”, the words “and Wales”. |
+| 1974 c. 40. | Control of Pollution Act 1974. | In section 73(1), in paragraph (a) of the definition of “local authority”, the words “and Wales”. |
+|  |  | In section 98, in paragraph (a) of the definition of “relevant authority”, the words “and Wales”. |
+| 1975 c. 23. | Reservoirs Act 1975. | In section 2(1), the words “and Wales”. |
+| 1975 c. 50. | Guard Dogs Act 1975. | In section 7, in the definition of “local authority”, the words “and Wales”. |
+| 1975 c. 52. | Safety of Sports Grounds Act 1975. | In section 17(1), in paragraph (a) of the definition of “building authority”, and in paragraph (c) of the definition of “local authority”, the words “or in Wales,”. |
+| 1976 c. 38. | Dangerous Wild Animals Act 1976. | In section 7(4), in the definition of “local authority”, the words “and Wales”. |
+| 1976 c. 75. | Development of Rural Wales Act 1976. | In Schedule 3, paragraph 1(6). |
+| 1978 c. 10. | European Parliamentary Elections Act 1978. | In Schedule 1, in paragraph 4(5)(a) the words “and Wales”. |
+|  |  | In Schedule 2, in paragraph 5A(4)(a) the words “and Wales”. |
+| 1979 c. 46. | Ancient Monuments and Archaeological Areas Act 1979. | In section 35(5)(a), the words “and Wales”. |
+|  |  | In section 61(1), in paragraph (a) of the definition of “local authority”, the words “and Wales”. |
+| 1980 c. 65. | Local Government, Planning and Land Act 1980. | In section 4(7), the word “district”. |
+|  |  | In section 20(1), in paragraph (a) of the definition of “local authority”, the words “and Wales”. |
+|  |  | In section 116(4)(a), the words “and Wales”. |
+|  |  | In section 165(9)(a), the words “and Wales”. |
+|  |  | In Schedule 32, in paragraph 2(2)(a)(ii), the words “or Wales”. |
+| 1981 c. 37. | Zoo Licensing Act 1981. | In section 1(3)(a), the words “and Wales”. |
+| 1981 c. 69. | Wildlife and Countryside Act 1981. | In section 27(1), in paragraph (a) of the definition of “local authority”, the words “and Wales”. |
+|  |  | In section 52(2), the words “and to Wales”. |
+|  |  | In Schedule 14, in paragraph 5(1), in the definition of “local authority”, the words “or community”. |
+|  |  | In Schedule 15, in paragraph 13(2), in the definition of “local authority”, the words “or community”. |
+| 1982 c. 16. | Civil Aviation Act 1982. | In section 79(7), the words “and Wales”. |
+|  |  | In section 105(1), in paragraph (a) of the definition of “local authority”, the words “and Wales”. |
+| 1983 c. 2. | Representation of the People Act 1983. | In section 8(2), the words “and Wales”. |
+|  |  | In section 18(2), the words “and Wales”. |
+|  |  | In section 35(1), the words “and Wales” and “or communities”. |
+|  |  | In section 36(3)(b), the words “or community” (in both places). |
+|  |  | In section 36(5), the words “or community” (in both places) and the words “or the community”. |
+|  |  | In section 39(6)(b), the word “district”. |
+|  |  | In section 52(4)(a), the words “and Wales”. |
+| 1983 c. 16. | Level Crossings Act 1983. | In section 1(11), in the definition of “local authority”, the words “and Wales”. |
+| 1984 c. 12. | Telecommunications Act 1984. | In section 97(3)(a), the words “and Wales” and the words “or a community council”. |
+| 1984 c. 27. | Road Traffic Regulation Act 1984. | In section 39(4), the words “a district council in Wales proposes to make an order under section 32 or 35 of this Act, or”. |
+|  |  | In section 44(3)(b), the words “and counties in Wales”. |
+|  |  | In section 45(7), the words “in England or Scotland” and the words from “and in Wales” to the end. |
+|  |  | Section 49(3). |
+|  |  | Section 54. |
+|  |  | Section 55(6). |
+|  |  | In section 59(2)(b), the words “or community”. |
+|  |  | In section 125(4), the words from “or, in relation to” to the end. |
+|  |  | In Schedule 9, paragraph 11 and, in paragraph 27(2)(a), the words “54(5)”. |
+| 1985 c. 13. | Cinemas Act 1985. | In section 21(1), in the definition of “local authority”, in paragraph (a) the words “and Wales”. |
+| 1985 c. 50. | Representation of the People Act 1985. | In section 21(2)(b), the words “of district council”. |
+| 1985 c. 67. | Transport Act 1985. | In section 63(4), the words “and Wales”. |
+|  |  | In section 64(1), the words “and Wales”. |
+| 1986 c. 31. | Airports Act 1986. | In section 12(1), in the definition of “principal council” in paragraph (a) the words “and Wales”. |
+| 1986 c. 44. | Gas Act 1986. | In paragraph 5(5) of Schedule 7, in paragraph (a) of the definition of “local authority”, the words “and Wales”. |
+| 1986 c. 53. | Building Societies Act 1986. | In paragraph 8 of Part IV of Schedule 8, in paragraph (a) of the definition of “local authority in Great Britain”, the words “and Wales” and “or community”. |
+| 1987 c. 27. | Fire Safety and Safety of Places of Sport Act 1987. | In section 41, in paragraph (a) of the definition of “building authority”, and in paragraph (c) of the definition of “local authority”, the words “or in Wales”. |
+| 1988 c. 52. | Road Traffic Act 1988. | In Schedule 2, in paragraph 1(b), the words “and Wales”. |
+| 1988 c. 53. | Road Traffic Offenders Act 1988. | In section 4(5), the words from “except, in Wales” to the end. |
+| 1989 c. 29. | Electricity Act 1989. | In Schedule 8, in paragraph 2(6)(a) the words “and Wales”. |
+| 1989 c. 41. | Children Act 1989. | In section 105(1), in the definition of “local authority”, the words “and Wales”. |
+| 1990 c. 8. | Town and Country Planning Act 1990. | In section 1(3), the words “and in Wales”. |
+|  |  | In section 2(1), the words “(in this Act referred to as a “joint planning board”)”. |
+|  |  | In Schedule 1, in paragraph 8, in sub-paragraphs (1) and (2)(a), the words “or community”. |
+| 1990 c. 9. | Planning (Listed Buildings and Conservation Areas) Act 1990. | In section 2(1), the word “and” at the end of paragraph (a). |
+| 1990 c. 16. | Food Safety Act 1990. | In section 5(1), the words “and Wales”. |
+| 1990 c. 42. | Broadcasting Act 1990. | In paragraph 1(1) of Part I of Schedule 2, in paragraph (a) of the definition of “local authority”, the words “and Wales”. |
+| 1990 c. 43. | Environmental Protection Act 1990. | In section 30(3)(a), the words “and Wales”. |
+|  |  | Section 50(5)(a)(iii). |
+|  |  | In section 88(10), in the definition of “Park board”, the word “or” immediately before paragraph (b). |
+|  |  | In section 143(6), in paragraph (b) of the definition of “local authority”, the words “and Wales”. |
+|  |  | In section 149(11), in the definition of “local authority”, the words “and Wales”. |
+| 1990 c. 44. | Caldey Island Act 1990. | In section 1, in subsection (1), the closing bracket after “ “Caldey”” and the rest of the subsection, subsection (2)(a), in subsection (3), the words “and district” and subsections (4) and (5). |
+|  |  | Section 2. |
+|  |  | In section 4, subsections (1)(a) and (2). |
+| 1991 c. 40. | Road Traffic Act 1991. | In Schedule 3, in paragraphs 1(1)(a) and 2(1)(a) the words “and Wales”, and paragraphs 1(1)(e) (except the word “or” immediately before paragraph (f)) and (2) and 2(2). |
+| 1991 c. 45. | Coal Mining Subsidence Act 1991. | In section 47(6)(a), the words “and Wales”. |
+| 1992 c. 3. | Severn Bridges Act 1992. | In Schedule 3, in paragraph 8(3), the words “Gwent County Council”. |
+| 1992 c. 5. | Social Security Administration Act 1992. | In section 191, in the definition of “local authority”, the words “and Wales”. |
+| 1993 c. 11. | Clean Air Act 1993. | In section 64, in paragraph (a) of the definition of “local authority”, the words “and Wales”. |
+| 1993 c. 12. | Radioactive Substances Act 1993. | In section 47(1), in paragraph (a) of the definition of “local authority”, the words “and Wales”. |
+| 1993 c. 46. | Health Service Commissioners Act 1993. | In section 19, in paragraph (a) of the definition of “local authority”, the words “and Wales”. |
+
+---
+
+[^M1]: 1972 c. 70.
+[^F1]: S. 6 repealed (22.7.2004) by Statute Law (Repeals) Act 2004 (c. 14), s. 1(1), {Sch. 1 Pt. 10 Group 1}
+[^M2]: 1983 c. 2.
+[^M3]: 1983 c. 2.
+[^M4]: 1993 c. 10.
+[^M5]: 1983 c. 2.
+[^M6]: 1983 c. 2.
+[^M7]: 1990 c. 8.
+[^F2]: S. 19(2)(3) repealed (1.4.1997) by 1995 c. 25, s. 120, Sch. 24 (with ss. 7(6), 115, 117); S.I. 1996/2560, art. 2, Sch.
+[^F3]: S. 20(2) omitted (10.9.2025) by virtue of Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3), s. 9(2)(d), Sch. 1 para. 19(2)
+[^F4]: S. 20(3)(b)(c) omitted (10.9.2025) by virtue of Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3), s. 9(2)(d), Sch. 1 para. 19(2)
+[^F5]: S. 21 repealed (1.11.1996) by 1996 c. 56, ss. 582(2), 583(2), Sch. 38 Pt. I (with ss. 1(4), 561, 562, Sch. 39)
+[^M8]: 1947 c. 41.
+[^F6]: S. 24 repealed (1.4.1995) by 1994 c. 29, s. 93, Sch. 9 Pt. I; S.I. 1994/3262, art. 4(1), Sch. (subject to arts. 4(2)-(8), 5)
+[^M9]: 1980 c. 65.
+[^M10]: 1988 c. 9.
+[^M11]: 1970 c. 39.
+[^F7]: S. 25(9) omitted (10.9.2025) by virtue of Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3), s. 9(2)(d), Sch. 1 para. 29(2)
+[^F8]: S. 26 repealed (22.7.2004) by Statute Law (Repeals) Act 2004 (c. 14), s. 1(1), {Sch. 1 Pt. 10 Group 3}
+[^F9]: Pt. 3 omitted (10.9.2025) by virtue of Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3), s. 9(2)(d), Sch. 1 para. 40(2)
+[^M12]: 1992 c. 14.
+[^M13]: 1988 c. 41.
+[^M14]: 1992 c. 14.
+[^F10]: S. 37 omitted (16.11.2024) by virtue of Local Government Finance (Wales) Act 2024 (asc 6), s. 23(2)(a), Sch. para. 2(2)
+[^M15]: 1992 c. 14.
+[^F11]: S. 38(9A) inserted (27.11.2003) by Local Government Act 2003 (c. 26), ss. 70(7), 128; S.I. 2003/3034, art. 2(1), Sch. 1 Pt. 1
+[^F12]: Words in s. 38(10) substituted (27.11.2003) by Local Government Act 2003 (c. 26), ss. 70(8)(a), 128; S.I. 2003/3034, art. 2(1), Sch. 1 Pt. 1
+[^F13]: Words in s. 38(10)(d)(e) inserted (27.11.2003) by Local Government Act 2003 (c. 26), ss. 70(8)(b), 128; S.I. 2003/3034, art. 2(1), Sch. 1 Pt. 1
+[^F14]: S. 38(12) inserted (27.11.2003) by Local Government Act 2003 (c. 26), ss. 70(9), 128; S.I. 2003/3034, art. 2(1), Sch. 1 Pt. 1
+[^F15]: S. 39 omitted (10.9.2025) by virtue of Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3), s. 9(2)(d), Sch. 1 para. 29(3)(a)
+[^F16]: S. 40 repealed (22.7.2004) by Statute Law (Repeals) Act 2004 (c. 14), s. 1(1), {Sch. 1 Pt. 10 Group 3}
+[^F17]: Words in s. 41(1) substituted (22.8.1996) by 1996 c. 18, ss. 240, 243, Sch. 1 para. 63(2)(a) (with ss. 191-195, 202)
+[^F18]: Words in s. 41(2) substituted (22.8.1996) by 1996 c. 18, ss. 240, 243, Sch. 1 para. 63(2)(b) (with ss. 191-195, 202)
+[^F19]: Words in s. 42(3) omitted (10.9.2025) by virtue of Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3), s. 9(2)(d), Sch. 1 para. 29(3)(b)
+[^F20]: Words in s. 43(1)(a) substituted (10.9.2025) by Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3), s. 9(2)(d), Sch. 1 para. 29(3)(c)
+[^M16]: 1972 c. 11.
+[^M17]: 1972 c. 11.
+[^F21]: Words in s. 43(6) substituted (22.8.1996) by 1996 c. 18, ss. 240, 243, Sch. 1 para. 63(3)(a) (with ss. 191-195, 202)
+[^F22]: Words in s. 43(7) substituted (22.8.1996) by 1996 c. 18, ss. 240, 243, Sch. 1 para. 63(3)(b) (with ss. 191-195, 202)
+[^M18]: 1972 c. 11.
+[^F23]: Words in s. 44(1) substituted (22.8.1996) by 1996 c. 18, ss. 240, 243, Sch. 1 para. 63(4)(a) (with ss. 191-195, 202)
+[^M19]: 1992 c. 52.
+[^F24]: Words in s. 44(2)(a)(ii) omitted (10.9.2025) by virtue of Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3), s. 9(2)(d), Sch. 1 para. 29(3)(d)(i)
+[^F25]: S. 44(2)(b)(ii) and word omitted (10.9.2025) by virtue of Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3), s. 9(2)(d), Sch. 1 para. 29(3)(d)(ii)
+[^F26]: Words in s. 44(3) substituted (22.8.1996) by 1996 c. 18, ss. 240, 243, Sch. 1 para. 63(4)(b) (with ss. 191-195, 202)
+[^F27]: Words in s. 44(4) substituted (22.8.1996) by 1996 c. 18, ss. 240, 243, Sch. 1 para. 63(4)(c) (with ss. 191-195, 202)
+[^F28]: S. 45(6): by 1996 c. 18, ss. 240, 243, Sch. 1 para. 63(5) (with ss. 191-195, 202) it is provided (22.8.1996) that in s. 45(5) for the words “the Employment Protection (Consolidation) Act 1978” there be substituted the words “the Employment Rights Act 1996”
+[^F29]: S. 46 omitted (10.9.2025) by virtue of Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3), s. 9(2)(d), Sch. 1 para. 38(a)
+[^F30]: S. 48 omitted (10.9.2025) by virtue of Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3), s. 9(2)(d), Sch. 1 para. 38(b)
+[^M20]: 1993 c. 10.
+[^M21]: 1914 c. 91.
+[^F31]: S. 51 omitted (10.9.2025) by virtue of Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3), s. 9(2)(d), Sch. 1 para. 38(c)
+[^F32]: S. 52 omitted (10.9.2025) by virtue of Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3), s. 9(2)(d), Sch. 1 para. 38(d)
+[^F33]: Words in s. 54(2)(c) omitted (10.9.2025) by virtue of Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3), s. 9(2)(d), Sch. 1 para. 29(4)(a)
+[^F34]: Words in s. 54(2)(c) omitted (10.9.2025) by virtue of Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3), s. 9(2)(d), Sch. 1 para. 29(4)(b)
+[^F35]: Words in s. 55(1) inserted (3.4.2006) by Constitutional Reform Act 2005 (c. 4), ss. 15, 148, Sch. 4 para. 233(2)(a); S.I. 2006/1014, art. 2(a), Sch. 1 para. 11(v)
+[^F36]: Words in s. 55(1) substituted (3.4.2006) by Constitutional Reform Act 2005 (c. 4), ss. 15, 148, Sch. 4 para. 233(2)(b); S.I. 2006/1014, art. 2(a), Sch. 1 para. 11(v)
+[^F37]: Words in s. 55(2)(a) repealed (31.8.2000) by 1999 c. 22, s. 106, Sch. 15 Pt. V(3) (with s. 107, Sch. 14 paras. 7(2), 36(9)); S.I. 2000/1920, art. 3(c)
+[^F38]: Words in s. 55(2)(a) substituted (1.4.2005) by The Courts Act 2003 (Consequential Provisions) Order 2005 (S.I. 2005/886), art. 2, Sch. para. 51(a)
+[^F39]: Words in s. 55(2)(a) repealed (27.9.1999) by 1999 c. 22, ss. 106, 108(3), Sch. 15 Pt. V(1) (with s. 107, Sch. 14 paras. 7(2), 36(9))
+[^F40]: Words in s. 55(2)(b) substituted (1.4.2005) by The Courts Act 2003 (Consequential Provisions) Order 2005 (S.I. 2005/886), art. 2, Sch. para. 51(b)
+[^F41]: Words in s. 55(3) inserted (3.4.2006) by Constitutional Reform Act 2005 (c. 4), ss. 15, 148, Sch. 4 para. 233(3)(a); S.I. 2006/1014, art. 2(a), Sch. 1 para. 11(v)
+[^F42]: Words in s. 55(3) substituted (3.4.2006) by Constitutional Reform Act 2005 (c. 4), ss. 15, 148, Sch. 4 para. 233(3)(b); S.I. 2006/1014, art. 2(a), Sch. 1 para. 11(v)
+[^F43]: Words in s. 55(3) substituted for s. 55(3)(a)-(c) (27.9.1999) by 1999 c. 22, ss. 76, 108(3), Sch. 10 para. 46 (with s. 107, Sch. 14 para. 7(2))
+[^F44]: Words in s. 55(3) substituted (1.4.2005) by The Courts Act 2003 (Consequential Provisions) Order 2005 (S.I. 2005/886), art. 2, Sch. para. 51(c)
+[^F45]: S. 55(6) inserted (3.4.2006) by Constitutional Reform Act 2005 (c. 4), ss. 15, 148, Sch. 4 para. 234; S.I. 2006/1014, art. 2(a), Sch. 1 para. 11(v)
+[^F46]: S. 56 omitted (10.9.2025) by virtue of Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3), s. 9(2)(d), Sch. 1 para. 38(e)
+[^F47]: S. 59(15) repealed (1.4.1997) by 1995 c. 25, s. 120, Sch. 24 (with ss. 7(6), 115, 117); S.I. 1996/2560, art. 2, Sch.
+[^F48]: S. 61(1)(5) repealed (1.7.1997) by 1997 c. 23, ss. 8(4), 9(2), Sch. 3 (with s. 7(3), Sch. 2 para. 6)
+[^F49]: Words in s. 61(2) substituted (1.7.1997) by 1997 c. 23, ss. 8(1)(a), 9(2) (with s. 7(3), Sch. 2 para. 6)
+[^F50]: Words in s. 61(3) substituted (1.7.1997) by 1997 c. 23, ss. 8(1)(b), 9(2), (with s. 7(3), Sch. 2 para. 6)
+[^F51]: S. 61(4)(6) repealed (1.4.1997) by 1996 c. 14, s. 131(2), Sch. 11 (with s. 72(5)); S.I. 1997/305, art. 2(1)
+[^M22]: 1887 c. 55.
+[^F52]: Words in s. 63(1) inserted (27.11.2003) by Local Government Act 2003 (c. 26), ss. 127(1), 128, Sch. 7 para. 58(1)(2); S.I. 2003/3034, art. 2(1), Sch. Pt. 1
+[^F53]: Words in s. 63(2) inserted (27.11.2003) by Local Government Act 2003 (c. 26), ss. 127(1), 128, Sch. 7 para. 58(1)(3); S.I. 2003/3034, art. 2(1), Sch. Pt. 1
+[^F54]: Words in s. 63(5)(a) substituted (27.11.2003) by Local Government Act 2003 (c. 26), ss. 127(1), 128, Sch. 7 para. 58(1)(4); S.I. 2003/3034, art. 2(1), Sch. Pt. 1
+[^M23]: 1972 c. 70.
+[^F55]: Words in s. 64(1) omitted (10.9.2025) by virtue of Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3), s. 9(2)(d), Sch. 1 para. 40(3)
+[^M24]: 1990 c. 8.
+[^F56]: Words in s. 64(1) omitted (10.9.2025) by virtue of Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3), s. 9(2)(d), Sch. 1 para. 29(5)
+[^F57]: Sch. 2 para. 2 repealed (24.11.2005) by Licensing Act 2003 (c. 17 ), ss. 199, 201, {Sch. 7} (with ss. 2(3), 15(2), 195); S.I. 2005/3056, art. 2(2) (with transitional provisions in art. 3)
+[^M25]: 1972 c. 70.
+[^F58]: Sch. 2 para. 10 repealed (19.6.1997) by 1997 c. 25, ss. 73(3), 74(1), Sch. 6 Pt. I (with Sch. 4 para. 27)
+[^F59]: Sch. 2 para. 13 repealed (16.2.2011) by Parliamentary Voting System and Constituencies Act 2011 (c. 1), s. 19(1), Sch. 12 Pt. 2
+[^M26]: 1983 c. 2.
+[^M27]: 1989 c. 42.
+[^M28]: 1980 c. 66.
+[^M29]: 1966 c. 42.
+[^M30]: 1980 c. 65.
+[^F60]: Sch. 5 Pt. 2 omitted (10.9.2025) by virtue of Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3), s. 9(2)(d), Sch. 1 para. 19(3)
+[^F61]: Sch. 5 Pt. 3 omitted (10.9.2025) by virtue of Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3), s. 9(2)(d), Sch. 1 para. 19(3)
+[^F62]: Words in Sch. 6 para. 1 inserted (23.11.1995) by 1995 c. 25, s. 78, Sch. 10 para. 38(1) (with ss. 7(6), 115, 117, Sch. 8 para. 7); S.I. 1995/2950, art. 2(1)
+[^M31]: 1949 c. 97.
+[^M32]: 1968 c. 41.
+[^F63]: Words in Sch. 6 para. 2 substituted (1.4.1997) by 1995 c. 25, s. 78, Sch. 10 para. 38(2) (with ss. 7(6), 115, 117, Sch. 8 para. 7); S.I. 1996/2560, art. 2, Sch.
+[^F64]: Sch. 6 paras. 3-12, 18, 23, 24(1), 28, 29 repealed (1.4.1997) by 1995 c. 25, s. 120(3), Sch. 24 (with ss. 7(6), 115, 117); S.I. 1996/2560, art. 2, Sch.
+[^F65]: Sch. 6 paras. 3-12, 18, 23, 24(1), 28, 29 repealed (1.4.1997) by 1995 c. 25, s. 120(3), Sch. 24 (with ss. 7(6), 115, 117); S.I. 1996/2560, art. 2, Sch.
+[^F66]: Sch. 6 paras. 3-12, 18, 23, 24(1), 28, 29 repealed (1.4.1997) by 1995 c. 25, s. 120(3), Sch. 24 (with ss. 7(6), 115, 117); S.I. 1996/2560, art. 2, Sch.
+[^F67]: Sch. 6 paras. 3-12, 18, 23, 24(1), 28, 29 repealed (1.4.1997) by 1995 c. 25, s. 120(3), Sch. 24 (with ss. 7(6), 115, 117); S.I. 1996/2560, art. 2, Sch.
+[^F68]: Sch. 6 paras. 3-12, 18, 23, 24(1), 28, 29 repealed (1.4.1997) by 1995 c. 25, s. 120(3), Sch. 24 (with ss. 7(6), 115, 117); S.I. 1996/2560, art. 2, Sch.
+[^F69]: Sch. 6 paras. 3-12, 18, 23, 24(1), 28, 29 repealed (1.4.1997) by 1995 c. 25, s. 120(3), Sch. 24 (with ss. 7(6), 115, 117); S.I. 1996/2560, art. 2, Sch.
+[^F70]: Sch. 6 paras. 3-12, 18, 23, 24(1), 28, 29 repealed (1.4.1997) by 1995 c. 25, s. 120(3), Sch. 24 (with ss. 7(6), 115, 117); S.I. 1996/2560, art. 2, Sch.
+[^F71]: Sch. 6 paras. 3-12, 18, 23, 24(1), 28, 29 repealed (1.4.1997) by 1995 c. 25, s. 120(3), Sch. 24 (with ss. 7(6), 115, 117); S.I. 1996/2560, art. 2, Sch.
+[^F72]: Sch. 6 paras. 3-12, 18, 23, 24(1), 28, 29 repealed (1.4.1997) by 1995 c. 25, s. 120(3), Sch. 24 (with ss. 7(6), 115, 117); S.I. 1996/2560, art. 2, Sch.
+[^F73]: Sch. 6 paras. 3-12, 18, 23, 24(1), 28, 29 repealed (1.4.1997) by 1995 c. 25, s. 120(3), Sch. 24 (with ss. 7(6), 115, 117); S.I. 1996/2560, art. 2, Sch.
+[^F74]: Sch. 6 para. 13 repealed (28.5.2005 for W. and 31.10.2005 for E.) by 2000 c. 37, ss. 102, 103(3), Sch. 16 Pt. I; S.I. 2005/423, art. 2(f)(i); S.I. 2005/2752, art. 2(1)(c)(ii)
+[^M33]: 1990 c. 8.
+[^M34]: 1972 c. 70.
+[^F75]: Sch. 6 paras. 3-12, 18, 23, 24(1), 28, 29 repealed (1.4.1997) by 1995 c. 25, s. 120(3), Sch. 24 (with ss. 7(6), 115, 117); S.I. 1996/2560, art. 2, Sch.
+[^M35]: 1990 c. 8.
+[^M36]: 1972 c. 70.
+[^F76]: Sch. 6 paras. 3-12, 18, 23, 24(1), 28, 29 repealed (1.4.1997) by 1995 c. 25, s. 120(3), Sch. 24 (with ss. 7(6), 115, 117); S.I. 1996/2560, art. 2, Sch.
+[^F77]: Sch. 6 paras. 3-12, 18, 23, 24(1), 28, 29 repealed (1.4.1997) by 1995 c. 25, s. 120(3), Sch. 24 (with ss. 7(6), 115, 117); S.I. 1996/2560, art. 2, Sch.
+[^F78]: Sch. 6 para. 25 and cross-heading omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 168 (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F79]: Sch. 6 paras. 3-12, 18, 23, 24(1), 28, 29 repealed (1.4.1997) by 1995 c. 25, s. 120(3), Sch. 24 (with ss. 7(6), 115, 117); S.I. 1996/2560, art. 2, Sch.
+[^F80]: Sch. 6 paras. 3-12, 18, 23, 24(1), 28, 29 repealed (1.4.1997) by 1995 c. 25, s. 120(3), Sch. 24 (with ss. 7(6), 115, 117); S.I. 1996/2560, art. 2, Sch.
+[^M37]: 1991 c. 56.
+[^F81]: Sch. 7 para. 43(b) repealed (E.W.) (31.3.2008) by Traffic Management Act 2004 (c. 18), ss.  98, 99, {Sch. 12 Pt. 1}; S.I. 2007/2053, art. 3(2)(e)(h) (with transitional provisions in art. 4) (as amended by S.I. 2008/757, art. 2); S.I. 2007/3174, art. 2, Sch. (with arts. 4, 6, 7, 9)
+[^F82]: Sch. 8 para. 3(2) repealed (W.) (1.6.2003) by The Administration of the Rent Officer Service (Wales) Order 2003 (S.I. 2003/973), art. 13
+[^F83]: Sch. 8 para. 9(1) omitted (10.9.2025) by virtue of Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3), s. 9(2)(d), Sch. 1 para. 9(a)
+[^F84]: Words in Sch. 8 para. 9(2) substituted (10.9.2025) by Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3), s. 9(2)(d), Sch. 1 para. 9(b)
+[^F85]: Sch. 8 para. 10(1)(2) repealed (17.12.1996) by 1996 c. 53, s. 147, Sch. 3 Pt. I; S.I. 1996/2842, art. 3 (with transitional and saving provisions in arts. 5, 6, 8)
+[^F86]: Sch. 9 para. 4 repealed (6.1.1997) by S.I. 1996/3097, art. 3(1)(e)
+[^F87]: Sch. 9 para. 6 repealed (1.10.2013) by Scrap Metal Dealers Act 2013 (c. 10), ss. 19(1)(b), 23(2); S.I. 2013/1966, art. 3(r) (with art. 5)
+[^F88]: Sch. 9 para. 17 partly in force; Sch. 9 para. 17 not in force at Royal Assent see s. 66; Sch. 9 para. 17(1) in force for certain purposes, Sch. 9 para. 17(2)(3)(5)-(13) in force at 1.4.1996 by S.I. 1996/396, art. 3, Sch. 1
+[^F89]: Words in Sch. 9 para. 17(1) repealed (19.11.1998) by 1998 c. 43, s. 1(1), Sch. 1 Pt. X Group 5
+[^F90]: Words in Sch. 9 para. 17(2) substituted (1.4.1996) by 1995 c. 25, s. 120, Sch. 22 para. 231 (with ss. 7(6), 115, 117); S.I. 1996/186, art. 3
+[^F91]: Sch. 9 para. 17(4) repealed (1.4.1996) by 1995 c. 25, s. 120(3), Sch. 24 (with ss. 7(6), 115, 117); S.I. 1996/186, art. 3(xxxv)
+[^F92]: Sch. 10 para. 1(3) repealed (5.5.2010) by The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158), arts. 1, 5(2), Sch. 3 Pt. 2
+[^F93]: Sch. 10 para. 4(1) repealed (5.5.2010) by The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158), arts. 1, 5(2), Sch. 3 Pt. 2
+[^F94]: Sch. 10 para. 9 repealed (30.12.2005) by Adoption and Children Act 2002 (c. 38), ss. 139, 148, Sch. 5; S.I. 2005/2897, art. 2
+[^F95]: Sch. 10 para. 11 repealed (1.3.2007) by National Health Service (Consequential Provisions) Act 2006 (c. 43), ss. 6, 8(2), Sch. 4
+[^F96]: Sch. 11 para. 3(1)(2) repealed (1.4.1996) by 1995 c. 25, s. 120(3), Sch. 24 (with ss. 7(6), 115, 117); S.I. 1996/186, art. 3(xxxv)
+[^F97]: Sch. 12 para. 4(5) repealed (15.1.2012) by Localism Act 2011 (c. 20), s. 240(2), Sch. 25 Pt. 13; S.I. 2012/57, art. 4(1)(ee)(iii)
+[^F98]: Sch. 12 para. 5(3) repealed (15.1.2012) by Localism Act 2011 (c. 20), s. 240(2), Sch. 25 Pt. 13; S.I. 2012/57, art. 4(1)(ee)(iii)
+[^M38]: 1990 c. 8.
+[^M39]: 1972 c. 70.
+[^F99]: Words in Sch. 12 para. 7 repealed (27.7.1999 with application as mentioned in s. 30(2)) by 1999 c. 27, ss. 30, 34, Sch. 2(2)
+[^F100]: Sch. 12 para. 8 repealed (27.7.1999 with application as mentioned in s. 30(2)) by 1999 c. 27, ss. 30, 34, Sch. 2(2)
+[^F101]: Sch. 13 omitted (10.9.2025) by virtue of Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3), s. 9(2)(d), Sch. 1 para. 29(3)(e)
+[^F102]: Sch. 14 repealed (22.7.2004) by Statute Law (Repeals) Act 2004 (c. 14), s. 1(1), {Sch. 1 Pt. 10 Group 3}
+[^M40]: 1967 c. 13.
+[^M41]: 1975 c. 24.
+[^M42]: 1975 c. 25.
+[^F103]: Sch. 15 para. 26 omitted (10.9.2025) by virtue of Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3), s. 9(2)(d), Sch. 1 para. 28
+[^F104]: Sch. 15 para. 30 repealed (27.11.2003) by Local Government Act 2003 (c. 26), ss. 127(1), 128, Sch. 8 Pt. 1; S.I. 2003/3034, art. 2(1), Sch. 1 Pt. 1
+[^F105]: Sch. 15 para. 41 repealed (24.11.2005) by Licensing Act 2003 (c. 17 ), ss. 199, 201, {Sch. 7} (with ss. 2(3), 15(2), 195); S.I. 2005/3056, art. 2(2) (with transitional provisions in art. 3)
+[^F106]: Sch. 15 para. 64(b) repealed (1.4.1997) by 1995 c. 25, s. 120(3), Sch. 24 (with ss. 7(6), 115, 117); S.I. 1996/2560, art. 2, Sch.
+[^F107]: Sch. 16 para. 7(2) repealed (1.10.2007 for E., 1.4.2012 for W.) by Commons Act 2006 (c. 26), s. 56, Sch. 6 Pt. 2 (with s. 60); S.I. 2007/2584, art. 2(d)(ii) (with art. 3); S.I. 2012/739, art. 2(h)
+[^F108]: Sch. 16 para. 8 repealed (1.11.1996) by 1996 c. 56, ss. 582(2), 583(2), Sch. 38 Pt. I (with ss. 1(4), 561, 562, Sch. 39)
+[^F109]: Sch. 16 para. 11 repealed (19.11.1998) by 1998 c. 43, s. 1(1), Sch. 1 Pt. X Group 5
+[^F110]: Sch. 16 para. 13 repealed (26.5.2008) by The Consumer Protection from Unfair Trading Regulations 2008 (S.I. 2008/1277), reg. 30(3), {Sch. 4 Pt. 1 } (with reg. 28(2)(3))
+[^F111]: Sch. 16 para. 16(1)(2) omitted (E.W.) (5.11.2013) by virtue of Mobile Homes (Wales) Act 2013 (anaw 6), s. 64(1), Sch. 4 para. 7 (with Sch. 5 para. 7) (this amendment is to be treated as not having effect until 1.10.2014 by virtue of S.I. 2014/11, art. 3(2))
+[^F112]: Sch. 16 para. 22 repealed (24.11.2005) by Licensing Act 2003 (c. 17 ), ss. 199, 201, {Sch. 7} (with ss. 2(3), 15(2), 195); S.I. 2005/3056, art. 2(2) (with transitional provisions in art. 3)
+[^F113]: Sch. 16 para. 26 repealed (1.4.2010 for W., 1.4.2011 for E.) by Marine and Coastal Access Act 2009 (c. 23), s. 324(3), Sch. 22 Pt. 4; S.I. 2010/630, art. 3(b) (with arts. 8, 12); S.I. 2011/556, art. 2(2)(o) (with art. 2(3))
+[^F114]: Sch. 16 para. 29 repealed (24.11.2005) by Licensing Act 2003 (c. 17 ), ss. 199, 201, {Sch. 7} (with ss. 2(3), 15(2), 195); S.I. 2005/3056, art. 2(2)
+[^F115]: Sch. 16 para. 30 and cross-heading omitted (10.9.2025) by virtue of Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3), s. 9(2)(d), Sch. 1 para. 2
+[^F116]: Sch. 16 para. 32 repealed (24.11.2005) by Licensing Act 2003 (c. 17 ), ss. 199, 201, {Sch. 7} (with ss. 2(3), 15(2), 195); S.I. 2005/3056, art. 2(2) (with transitional provisions in art. 3)
+[^F117]: Sch. 16 para. 35 repealed (26.3.2001) by 2001/1149, art. 3(2) (with art. 4(11))
+[^F118]: Sch. 16 para. 36 repealed (24.11.2005) by Licensing Act 2003 (c. 17 ), ss. 199, 201, {Sch. 7} (with ss. 2(3), 15(2), 195); S.I. 2005/3056, art. 2(2) (with transitional provisions in art. 3)
+[^F119]: Sch. 16 para. 40(2)(b) repealed (19.11.1998) by 1998 c. 43, s. 1(1), Sch. 1 Pt. X Group 5
+[^F120]: Sch. 16 para. 42 omitted (W.) (30.4.2015) by virtue of The Animal Welfare (Breeding of Dogs) (Wales) Regulations 2014 (S.I. 2014/3266), reg. 1(2), Sch. 2 para. 2
+[^F121]: Sch. 16 para. 50 repealed (1.9.2007) by Gambling Act 2005 (c. 19 ), ss. 356, 358, {Sch. 17} (with ss. 352, 354, Sch. 16 para. 21); S.I. 2006/3272, art. 2(4)
+[^F122]: Sch. 16 para. 53 repealed (1.10.1998) by 1998 c. 38, s. 152, Sch. 18 Pt. IV (with ss. 137(1), 139(2), 141(1), 143(2)); S.I. 1998/2244, art. 4
+[^F123]: Sch. 16 para. 54 repealed (1.5.1999) by 1999 c. 1, s. 3(3), Sch. 4; S.I. 1999/717, art. 2(1) (with art. 2(3))
+[^F124]: Sch. 16 para. 56 and cross-heading omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 169 (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^M43]: 1964 c. 48.
+[^F125]: Sch. 16 para. 57(6) repealed (19.11.1998) by 1998 c. 43, s. 1(1), Sch. 1 Pt. X Group 5
+[^F126]: Sch. 16 para. 58 repealed (1.10.1998) by 1998 c. 38, s. 152, Sch. 18 Pt. V (with ss. 137(1), 139(2), 141(1), 143(2)); S.I. 1998/2244, art. 4
+[^F127]: Sch. 16 para. 59(6)-(8) repealed (1.10.1998) by 1998 c. 38, s. 152, Sch. 18 Pt. V (with ss. 137(1), 139(2), 141(1), 143(2)); S.I. 1998/2244, art. 4
+[^F128]: Sch. 16 para. 59(9)(a)(b) omitted (10.9.2025) by virtue of Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3), s. 9(2)(d), Sch. 1 para. 5(a)
+[^F129]: Words in Sch. 16 para. 59(9)(c) omitted (10.9.2025) by virtue of Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3), s. 9(2)(d), Sch. 1 para. 5(b)
+[^F130]: Sch. 16 para. 63(5) repealed (1.4.2009) by Housing and Regeneration Act 2008 (c. 17 ), ss. 321(1), 325, {Sch. 16}; S.I. 2009/803, art. 10
+[^F131]: Sch. 16 para. 65(10) repealed (E.W.) (12.1.2010 for specified purposes, 12.12.2014 in so far as not already in force) by Marine and Coastal Access Act 2009 (c. 23), s. 324(4), Sch. 22 Pt. 3; S.I. 2014/3088, art. 2(c) and (S.) (1.7.2010) by Marine (Scotland) Act 2010 (asp 5), ss. 167, 168, Sch. 4 para. 7; S.S.I. 2010/230, art. 2(h)
+[^F132]: Sch. 16 para. 65(4) repealed (S.) (1.7.2010) by Marine (Scotland) Act 2010 (asp 5), ss. 167, 168, Sch. 4 para. 7; S.S.I. 2010/230, art. 2(h) and (E.W.) (12.12.2014) by Marine and Coastal Access Act 2009 (c. 23), s. 324(4), Sch. 22 Pt. 3; S.I. 2014/3088, art. 2(c)
+[^F133]: Sch. 16 para. 65(9) repealed (1.4.1997) by 1995 c. 25, s. 120(3), Sch. 24 (with ss. 7(6), 115, 117); S.I. 1996/2560, art. 2, Sch.
+[^F134]: Sch. 16 para. 67 repealed (19.11.1998) by 1998 c. 43, s. 1(1), Sch. 1 Pt. X Group 5
+[^F135]: Words in Sch. 16 para. 68(8) omitted (20.3.2021) by virtue of Local Government and Elections (Wales) Act 2021 (asc 1), s. 175(3)(f), Sch. 2 para. 6(a)
+[^F136]: Sch. 16 para. 68(9) omitted (20.3.2021) by virtue of Local Government and Elections (Wales) Act 2021 (asc 1), s. 175(3)(f), Sch. 2 para. 6(b)
+[^F137]: Words in Sch. 16 para. 68(10) omitted (20.3.2021) by virtue of Local Government and Elections (Wales) Act 2021 (asc 1), s. 175(3)(f), Sch. 2 para. 6(c)
+[^F138]: Sch. 16 para. 69 repealed (24.11.2005) by Licensing Act 2003 (c. 17 ), ss. 199, 201, {Sch. 7} (with ss. 2(3), 15(2), 195; S.I. 2005/3056, art. 2(2) (with transitional provisions in art. 3)
+[^F139]: Sch. 16 para. 70 repealed (19.11.1998) by 1998 c. 43, s. 1(1), Sch. 1 Pt. X Group 5
+[^F140]: Sch. 16 para. 72 repealed (25.7.2003 for specified purposes and 29.12.2003 for further specified purposes) by Communications Act 2003 (c. 21), ss. 406, 411(2)(3), Sch. 19(1); S.I. 2003/1900, arts. 2(1), 3(1), Sch. 1 (with transitional provisions in arts. 3-6 (as amended by S.I. 2003/3142, art. 1(3))); S.I. 2003/3142, art. 3(2) (with art. 11)
+[^F141]: Sch. 16 para. 73 repealed (24.11.2005) by Licensing Act 2003 (c. 17 ), ss. 199, 201, {Sch. 7} (with ss. 2(3), 15(2), 195); S.I. 2005/3056, art. 2(2) (with transitional provisions in art. 3)
+[^F142]: Sch. 16 para. 74(1) repealed (16.2.2001 subject to art. 2(2)-(4) of the commencing S.I.) by 2000 c. 2, s. 15, Sch. 7 Pt. I; S.I. 2001/116, art. 2(2)
+[^F143]: Sch. 16 para. 78 repealed (1.3.1996) by 1995 c. 45, s. 17(5), Sch. 6; S.I. 1996/218, art. 2
+[^F144]: Sch. 16 para. 80 repealed (16.2.2011) by Parliamentary Voting System and Constituencies Act 2011 (c. 1), s. 19(1), Sch. 12 Pt. 2
+[^F145]: Sch. 16 para. 82(1)(2)(9) repealed (1.4.1996) by S.I. 1996/655, reg. 3; S.I. 1996/396, art. 4, Sch. 2
+[^F146]: Sch. 16 para. 84 omitted (16.11.2024) by virtue of Local Government Finance (Wales) Act 2024 (asc 6), s. 23(2)(a), Sch. para. 2(3)(a)
+[^F147]: Words in Sch. 16 para. 85 substituted (16.11.2024) by Local Government Finance (Wales) Act 2024 (asc 6), s. 23(2)(a), Sch. para. 2(3)(b)
+[^F148]: Sch. 16 para. 86 omitted (16.11.2024) by virtue of Local Government Finance (Wales) Act 2024 (asc 6), s. 23(2)(a), Sch. para. 2(3)(c)
+[^F149]: Sch. 16 para. 88 repealed (27.11.2003 for W. only for the purpose of and in relation to financial years beginning on or after 1.4.2004) by Local Government Act 2003 (c. 26), ss. 127(1), 128, Sch. 8 Pt. 1; S.I. 2003/3034, art. 2(1), Sch. 1 Pt. 1
+[^F150]: Sch. 16 para. 93 repealed (19.11.1998) by 1998 c. 43, s. 1(1), Sch. 1 Pt. X Group 5
+[^F151]: Sch. 16 para. 96 repealed (18.11.2003) by Local Government Act 2003 (c. 26), ss. 127(1), 128(2), Sch. 8 Pt. 1
+[^F152]: Sch. 16 para. 97 repealed (18.11.2003) by Local Government Act 2003 (c. 26), ss. 127(1), 128(2), Sch. 8 Pt. 1
+[^F153]: Sch. 16 para. 98 repealed (27.7.1999 with application as mentioned in s. 30(2)) by 1999 c. 27, ss. 30, 34, Sch. 2(2)
+[^F154]: Sch. 16 para. 99 repealed (27.2.2007) by Charities Act 2006 (c. 50), ss. 75, 79, Sch. 9; S.I. 2007/309, art. 2, Sch. (subject to arts. 4-13)
+[^F155]: Sch. 16 para. 101 repealed (14.3.2012) by Charities Act 2011 (c. 25), s. 355, Sch. 10 (with s. 20(2), Sch. 8)
+[^F156]: Sch. 16: heading preceding para. 104 repealed (1.4.2009) by Housing and Regeneration Act 2008 (c. 17 ), ss. 321(1), 325, {Sch. 16}; S.I. 2009/803, art. 10
+[^F157]: Sch. 16 para. 104 repealed (1.4.2009) by Housing and Regeneration Act 2008 (c. 17 ), ss. 321(1), 325, {Sch. 16}; S.I. 2009/803, art. 10
+[^F158]: Sch. 16 para. 105 repealed (1.11.1996) by 1996 c. 56, ss. 582(2), 583(2), Sch. 38 Pt. I (with ss. 1(4), 561, 562, Sch. 39)
+[^M44]: 1927 c. 70.
+[^F159]: Sch. 16 para. 108 repealed (1.4.2006) by Public Services Ombudsman (Wales) Act 2005 (c. 10), ss. 39, 40, Sch. 7; S.I. 2005/2800, art. 5 (with Sch. 2)
+[^F160]: Sch. 16 para. 109 repealed (1.4.2001) by 2000 c. 43, s. 75, 80(1), Sch. 8; S.I. 2001/919, art. 2(g)
+[^M45]: 1948 c. 47.
+[^M46]: 1978 c. 50.
+[^M47]: 1992 c. 19.
+[^F161]: Sch. 17 para. 11 omitted (12.4.2015) by virtue of Infrastructure Act 2015 (c. 7), s. 57(5)(e), Sch. 5 para. 39 (with Sch. 5 Pt. 4)
+[^F162]: Words in Sch. 17 para. 12(3)(a) substituted (11.9.1998) by 1998 c. 18, ss. 54(1), 55(2), Sch. 3 para. 28(2)
+[^F163]: Words in Sch. 17 para. 12(4) substituted (11.9.1998) by 1998 c. 18, ss. 54(1), 55(2), Sch. 3 para. 28(3)(a)
+[^F164]: Words in Sch. 17 para. 12(4)(a) substituted (11.9.1998) by 1998 c. 18, ss. 54(1), 55(2), Sch. 3 para. 28(3)(b)
+[^F165]: Words in Sch. 17 para. 12(4)(a) omitted (10.9.2025) by virtue of Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3), s. 9(2)(d), Sch. 1 para. 29(6)
+[^F166]: Words in Sch. 17 para. 12(4)(b) substituted (11.9.1998) by 1998 c. 18, ss. 54(1), 55(2), Sch. 3 para. 28(3)(c)
+[^F167]: Words in Sch. 17 para. 12(5) substituted (11.9.1998) by 1998 c. 18, ss. 54(1), 55(2), Sch. 3 para. 28(4)(a)
+[^F168]: Words in Sch. 17 para. 12(5) substituted (11.9.1998) by 1998 c. 18, ss. 54(1), 55(2), Sch. 3 para. 28(4)(b)
+[^F169]: Sch. 17 para. 13 repealed (1.4.1997) by 1995 c. 25, s. 120(3), Sch. 24 (with ss. 7(6), 115, 117); S.I. 1996/2560, art. 2, Sch.
+[^F170]: Sch. 17 para. 16 omitted (10.9.2025) by virtue of Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3), s. 9(2)(d), Sch. 1 para. 19(4)
+[^F171]: Sch. 17 para. 17 omitted (10.9.2025) by virtue of Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3), s. 9(2)(d), Sch. 1 para. 19(4)
+[^M48]: 1980 c. 66.
+[^M49]: 1991 c. 34.
+[^M50]: 1985 c. 67.
+[^M51]: 1992 c. 14.
+[^M52]: 1988 c. 13.

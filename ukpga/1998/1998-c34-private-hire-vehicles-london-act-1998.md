@@ -1,0 +1,1084 @@
+---
+title: "Private Hire Vehicles (London) Act 1998"
+identifier: "ukpga/1998/34"
+citation: "1998 c. 34"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S+N.I."
+date: 1998-07-28
+last_amended: 2024-06-25
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/1998/34"
+source_modified: 2024-07-18
+retrieved: 2026-10-11
+---
+
+# Private Hire Vehicles (London) Act 1998
+
+**1998 c. 34**
+
+An Act to provide for the licensing and regulation of private hire vehicles, and drivers and operators of such vehicles, within the metropolitan police district and the City of London; and for connected purposes.
+
+[28th July 1998]
+
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## Introductory
+
+### 1 Meaning of “private hire vehicle”, “operator” and related expressions.
+
+(1) In this Act—
+
+(a) “private hire vehicle” means a vehicle constructed or adapted to seat fewer than nine passengers which is made available with a driver [^F1]... for hire for the purpose of carrying passengers, other than a licensed taxi or a public service vehicle; [^F2]...
+
+(b) “operator” means a person who makes provision for the invitation or acceptance of, or who accepts, private hire bookings[[^F3]; and
+
+(c) operate”, in relation to a private hire vehicle, means to make provision for the invitation or acceptance of, or to accept, private hire bookings in relation to the vehicle.]
+
+(2) Any reference in this Act to a vehicle being “used as a private hire vehicle” is a reference to a private hire vehicle which—
+
+(a) is in use in connection with a hiring for the purpose of carrying one or more passengers; or
+
+(b) is immediately available to an operator to carry out a private hire booking.
+
+(3) Any reference in this Act to the operator of a vehicle which is being used as a private hire vehicle is a reference to the operator who accepted the booking for the hiring or to whom the vehicle is immediately available, as the case may be.
+
+(4) In this Act “private hire booking” means a booking for the hire of a private hire vehicle for the purpose of carrying one or more passengers (including a booking to carry out as sub-contractor a private hire booking accepted by another operator).
+
+(5) In this Act “operating centre” means premises at which private hire bookings are accepted by an operator.
+
+## Regulation of private hire vehicle operators in London
+
+### 2 Requirement for London operator’s licence.
+
+(1) No person shall in London make provision for the invitation or acceptance of, or accept, private hire bookings unless he is the holder of a private hire vehicle operator’s licence for London (in this Act referred to as a “London PHV operator’s licence”).
+
+(2) A person who makes provision for the invitation or acceptance of private hire bookings, or who accepts such a booking, in contravention of this section is guilty of an offence and liable on summary conviction to a fine not exceeding level 4 on the standard scale.
+
+### 3 London operator’s licences.
+
+(1) Any person may apply to the [[^F4]licensing authority] for a London PHV operator’s licence.
+
+(2) An application under this section shall state the address of any premises in London which the applicant proposes to use as an operating centre.
+
+(3) The [[^F4]licensing authority] shall grant a London PHV operator’s licence to the applicant if [[^F5]the authority] is satisfied that—
+
+(a) the applicant is a fit and proper person to hold a London PHV operator’s licence;
+
+[[^F6](aa) if the applicant is an individual, the applicant is not disqualified by reason of the applicant's immigration status from operating a private hire vehicle; and]
+
+(b) any further requirements that may be prescribed (which may include requirements relating to operating centres) are met.
+
+[[^F7](3A) In determining for the purposes of subsection (3) whether an applicant is disqualified by reason of the applicant's immigration status from operating a private hire vehicle, the licensing authority must have regard to any guidance issued by the Secretary of State.]
+
+(4) A London PHV operator’s licence shall be granted subject to such conditions as may be prescribed and such other conditions as the [[^F4]licensing authority] may think fit.
+
+(5) [[^F8]Subject to section 3A, a] London PHV operator’s licence shall be granted for five years or such shorter period as the [[^F4]licensing authority] may consider appropriate in the circumstances of the case.
+
+(6) A London PHV operator’s licence shall—
+
+(a) specify the address of any premises in London which the holder of the licence may use as an operating centre;
+
+(b) be in such form and contain such particulars as the [[^F4]licensing authority] may think fit.
+
+(7) An applicant for a London PHV operator’s licence may appeal to a magistrates’ court against—
+
+(a) a decision not to grant such a licence;
+
+(b) a decision not to specify an address proposed in the application as an operating centre; or
+
+(c) any condition (other than a prescribed condition) to which the licence is subject.
+
+### 3A [[^F9]London PHV operator's licences for persons subject to immigration control
+
+(1) Subsection (2) applies if—
+
+(a) a London PHV operator's licence is to be granted to a person who has been granted leave to enter or remain in the United Kingdom for a limited period (“the leave period”);
+
+(b) the person's leave has not been extended by virtue of section 3C of the Immigration Act 1971 (continuation of leave pending variation decision); and
+
+(c) apart from subsection (2), the period for which the licence would have been granted would have ended after the end of the leave period.
+
+(2) The licence must be granted for a period which ends at or before the end of the leave period.
+
+(3) Subsection (4) applies if—
+
+(a) a London PHV operator's licence is to be granted to a person who has been granted leave to enter or remain in the United Kingdom for a limited period; and
+
+(b) the person's leave has been extended by virtue of section 3C of the Immigration Act 1971 (continuation of leave pending variation decision).
+
+(4) The licence must be granted for a period which does not exceed six months.
+
+(5) A London PHV operator's licence ceases to be in force if the person to whom it was granted becomes disqualified by reason of the person's immigration status from operating a private hire vehicle.
+
+(6) If subsection (5) applies to a licence, the person to whom it was granted must, within the period of 7 days beginning with the day after the day on which the person first became disqualified, return it to the licensing authority.
+
+(7) A person who, without reasonable excuse, contravenes subsection (6) is guilty of an offence and liable on summary conviction—
+
+(a) to a fine not exceeding level 3 on the standard scale; and
+
+(b) in the case of a continuing offence, to a fine not exceeding ten pounds for each day during which an offence continues after conviction.
+
+(8) The Secretary of State may by regulations amend the amount for the time being specified in subsection (7)(b).]
+
+### 4 Obligations of London operators.
+
+(1) The holder of a London PHV operator’s licence (in this Act referred to as a “London PHV operator”) shall not in London accept a private hire booking other than at an operating centre specified in his licence.
+
+(2) A London PHV operator shall secure that any vehicle which is provided by him for carrying out a private hire booking accepted by him in London is—
+
+(a) a vehicle for which a London PHV licence is in force driven by a person holding a London PHV driver’s licence; or
+
+(b) a London cab driven by a person holding a London cab driver’s licence.
+
+(3) A London PHV operator shall—
+
+(a) display a copy of his licence at each operating centre specified in the licence;
+
+(b) keep at each specified operating centre a record in the prescribed form of the private hire bookings accepted by him there;
+
+(c) before the commencement of each journey booked at a specified operating centre, enter in the record kept under paragraph (b) the prescribed particulars of the booking;
+
+[[^F10](d) keep at the specified operating centre or, where more than one operating centre is specified, at one of the operating centres such records as may be prescribed of particulars of the private hire vehicles and drivers which are available to him for carrying out bookings accepted by him at that or, as the case may be, each centre;
+
+(da) where more than one operating centre is specified—
+
+(i) give notice to the licensing authority, and
+
+(ii) display at each specified operating centre a notice,
+
+stating the address of the operating centre at which the records are kept under paragraph (d);]
+
+(e) at the request of a constable or authorised officer, produce for inspection any record required by this section to be kept.
+
+(4) If a London PHV operator ceases to use an operating centre specified in his licence he shall preserve any record he was required by this section to keep there for such period as may be prescribed.
+
+(5) A London PHV operator who contravenes any provision of this section is guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+(6) It is a defence in proceedings for an offence under this section for an operator to show that he exercised all due diligence to avoid committing such an offence.
+
+### 5 Hirings accepted on behalf of another operator.
+
+(1) A London PHV operator (“the first operator”) who has in London accepted a private hire booking may not arrange for another operator to provide a vehicle to carry out that booking as sub-contractor unless—
+
+(a) the other operator is a London PHV operator and the sub-contracted booking is accepted at an operating centre in London;
+
+(b) the other operator is licensed under section 55 of the [^M1]Local Government (Miscellaneous Provisions) Act 1976 (in this Act referred to as “the 1976 Act”) by the council of a district and the sub-contracted booking is accepted in that district; or
+
+(c) the other operator accepts the sub-contracted booking in Scotland.
+
+(2) A London PHV operator who contravenes subsection (1) is guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+(3) It is a defence in proceedings for an offence under this section for an operator to show that he exercised all due diligence to avoid committing such an offence.
+
+(4) It is immaterial for the purposes of subsection (1) whether or not sub-contracting is permitted by the contract between the first operator and the person who made the booking.
+
+(5) For the avoidance of doubt (and subject to any relevant contract terms), a contract of hire between a person who made a private hire booking at an operating centre in London and the London PHV operator who accepted the booking remains in force despite the making of arrangements by that operator for another contractor to provide a vehicle to carry out that booking as sub-contractor.
+
+## Regulation of private hire vehicles in London
+
+### 6 Requirement for private hire vehicle licence.
+
+(1) A vehicle shall not be used as a private hire vehicle on a road in London unless a private hire vehicle licence is in force for that vehicle.
+
+(2) The driver and operator of a vehicle used in contravention of this section are each guilty of an offence.
+
+(3) The owner of a vehicle who permits it to be used in contravention of this section is guilty of an offence.
+
+(4) It is a defence in proceedings for an offence under subsection (2) for the driver or operator to show that he exercised all due diligence to prevent the vehicle being used in contravention of this section.
+
+(5) A person guilty of an offence under this section is liable on summary conviction to a fine not exceeding level 4 on the standard scale.
+
+(6) In this section “private hire vehicle licence” means—
+
+(a) except where paragraph (b) or (c) applies, a London PHV licence;
+
+(b) if the vehicle is in use for the purposes of a hiring the booking for which was accepted outside London in a controlled district, a licence under section 48 of the 1976 Act issued by the council for that district; and
+
+(c) if the vehicle is in use for the purposes of a hiring the booking for which was accepted in Scotland, a licence under section 10 of the [^M2]Civic Government (Scotland) Act 1982 (in this Act referred to as “the 1982 Act”),
+
+and for the purposes of paragraph (b) or (c) it is immaterial that the booking in question is a sub-contracted booking.
+
+(7) This section does not apply to a vehicle used for the purposes of a hiring for a journey beginning outside London in an area of England and Wales which is not a controlled district.
+
+### 7 London PHV licences.
+
+(1) The owner of any vehicle constructed or adapted to seat fewer than nine passengers may apply to the [[^F11]licensing authority] for a private hire vehicle licence for London (in this Act referred to as a “London PHV licence”) for that vehicle.
+
+(2) The [[^F11]licensing authority] shall grant a London PHV licence for a vehicle if [[^F12]the authority] is satisfied—
+
+(a) that the vehicle—
+
+(i) is suitable in type, size and design for use as a private hire vehicle;
+
+(ii) is safe, comfortable and in a suitable mechanical condition for that use; and
+
+(iii) is not of such design and appearance as would lead any person to believe that the vehicle is a London cab;
+
+(b) that there is in force in relation to the use of the vehicle a policy of insurance or such security as complies with the requirements of Part VI of the [^M3]Road Traffic Act 1988; and
+
+(c) that any further requirements that may be prescribed are met.
+
+(3) A London PHV licence may not be granted in respect of more than one vehicle.
+
+(4) A London PHV licence shall be granted subject to such conditions as may be prescribed and such other conditions as the [[^F11]licensing authority] may think fit.
+
+(5) A London PHV licence shall be in such form and shall contain such particulars as the [[^F11]licensing authority] may think fit.
+
+(6) A London PHV licence shall be granted for one year or for such shorter period as the [[^F11]licensing authority] may consider appropriate in the circumstances of the case.
+
+(7) An applicant for a London PHV licence may appeal to a magistrates’ court against a decision not to grant such a licence or against any condition (other than a prescribed condition) to which the licence is subject.
+
+### 8 Obligations of owners of licensed vehicles.
+
+(1) This section applies to the owner of any vehicle to which a London PHV licence relates.
+
+(2) The owner shall present the vehicle for inspection and testing by or on behalf of the [[^F13]licensing authority] within such period and at such place as [[^F14]the authority] may by notice reasonably require.
+
+The vehicle shall not be required to be presented under this subsection on more than three separate occasions during any one period of 12 months.
+
+(3) The owner shall (without prejudice to section 170 of the [^M4]Road Traffic Act 1988) report any accident to the vehicle materially affecting—
+
+(a) the safety, performance or appearance of the vehicle, or
+
+(b) the comfort or convenience of persons carried in the vehicle,
+
+to the [[^F13]licensing authority] as soon as reasonably practical and in any case within 72 hours of the accident occurring.
+
+(4) If the ownership of the vehicle changes, the person who was previously the owner shall within 14 days of the change give notice to the [[^F13]licensing authority] of that fact and the name and address of the new owner.
+
+(5) A person who, without reasonable excuse, contravenes any provision of this section is guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+### 9 Fitness of licensed vehicles.
+
+(1) A constable or authorised officer has power at all reasonable times to inspect and test, for the purpose of ascertaining its fitness, any vehicle to which a London PHV licence relates.
+
+(2) If a constable or authorised officer is not satisfied as to the fitness of such a vehicle he may by notice to the owner of the vehicle—
+
+(a) require the owner to make the vehicle available for further inspection and testing at such reasonable time and place as may be specified in the notice; and
+
+(b) if he thinks fit, suspend the London PHV licence relating to that vehicle until such time as a constable or authorised officer is satisfied as to the fitness of the vehicle.
+
+(3) A notice under subsection (2)(b) shall state the grounds on which the licence is being suspended and the suspension shall take effect on the day on which it is served on the owner.
+
+(4) A licence suspended under subsection (2)(b) shall remain suspended until such time as a constable or authorised officer by notice to the owner directs that the licence is again in force.
+
+(5) If a licence remains suspended at the end of the period of two months beginning with the day on which a notice under subsection (2)(b) was served on the owner of the vehicle—
+
+(a) a constable or authorised officer may by notice to the owner direct that the licence is revoked; and
+
+(b) the revocation shall take effect at the end of the period of 21 days beginning with the day on which the owner is served with that notice.
+
+(6) An owner may appeal against a notice under subsection (2)(b) or (5) to a magistrates’ court.
+
+### 10 Identification of licensed vehicles.
+
+(1) The [[^F15]licensing authority] shall issue a disc or plate for each vehicle to which a London PHV licence relates which identifies that vehicle as a vehicle for which such a licence is in force.
+
+(2) No vehicle to which a London PHV licence relates shall be used as a private hire vehicle on a road in London unless the disc or plate issued under this section is exhibited on the vehicle in such manner as may be prescribed.
+
+(3) The [[^F15]licensing authority] may by notice exempt a vehicle from t he requirement under subsection (2) when it is being used to provide a service specified in the notice if [[^F16]the authority] considers it inappropriate (having regard to that service) to require the disc or plate in question to be exhibited.
+
+(4) The driver and operator of a vehicle used in contravention of subsection (2) are each guilty of an offence.
+
+(5) The owner of a vehicle who permits it to be used in contravention of subsection (2) is guilty of an offence.
+
+(6) It is a defence in proceedings for an offence under subsection (4) for the driver or operator to show that he exercised all due diligence to prevent the vehicle being used in contravention of subsection (2).
+
+(7) A person guilty of an offence under this section is liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+### 11 Prohibition of taximeters.
+
+(1) No vehicle to which a London PHV licence relates shall be equipped with a taximeter.
+
+(2) If such a vehicle is equipped with a taximeter, the owner of that vehicle is guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+(3) In this section “taximeter” means a device for calculating the fare to be charged in respect of any journey by reference to the distance travelled or time elapsed since the start of the journey (or a combination of both).
+
+## Regulation of drivers of private hire vehicles in London
+
+### 12 Requirement for private hire vehicle driver’s licence.
+
+(1) No vehicle shall be used as a private hire vehicle on a road in London unless the driver holds a private hire vehicle driver’s licence.
+
+(2) The driver and operator of a vehicle used in contravention of this section are each guilty of an offence.
+
+(3) The owner of a vehicle who permits it to be used in contravention of this section is guilty of an offence.
+
+(4) It is a defence in proceedings against the operator of a vehicle for an offence under subsection (2) for the operator to show that he exercised all due diligence to prevent the vehicle being used in contravention of this section.
+
+(5) A person guilty of an offence under this section is liable on summary conviction to a fine not exceeding level 4 on the standard scale.
+
+(6) In this section “private hire vehicle driver’s licence” means—
+
+(a) except where paragraph (b) or (c) applies, a London PHV driver’s licence;
+
+(b) if the vehicle is in use for the purposes of a hiring the booking for which was accepted outside London in a controlled district in England and Wales, a licence under section 51 of the 1976 Act issued by the council for that district; and
+
+(c) if the vehicle is in use for a hiring the booking for which was accepted in Scotland, a licence under section 13 of the 1982 Act,
+
+and for the purposes of paragraph (b) or (c) it is immaterial that the booking in question is a sub-contracted booking.
+
+(7) This section does not apply to the use of a vehicle for the purposes of a hiring for a journey beginning outside London in an area of England and Wales which is not a controlled district.
+
+### 13 London PHV driver’s licences.
+
+(1) Any person may apply to the [[^F17]licensing authority] for a private hire vehicle driver’s licence for London (in this Act referred to as a “London PHV driver’s licence”).
+
+(2) The [[^F17]licensing authority] shall grant a London PHV driver’s licence to an applicant if [[^F18]the authority] is satisfied that—
+
+(a) the applicant has attained the age of 21, is (and has for at least three years been) authorised to drive a motor car and is a fit and proper person to hold a London PHV driver’s licence;
+
+[[^F19](aa) the applicant is not disqualified by reason of the applicant's immigration status from driving a private hire vehicle; and]
+
+(b) the requirement mentioned in subsection (3), and any further requirements prescribed by the [[^F17]licensing authority], are met.
+
+[[^F20](2A) In determining for the purposes of subsection (2) whether an applicant is disqualified by reason of the applicant's immigration status from driving a private hire vehicle, the licensing authority must have regard to any guidance issued by the Secretary of State.]
+
+(3) The [[^F17]licensing authority] shall require applicants to show to [[^F18]the authority’s] satisfaction (whether by taking a test or otherwise) that they possess a level—
+
+(a) of knowledge of London or parts of London; and
+
+(b) of general topographical skills,
+
+which appears to [[^F18]the authority] to be appropriate.
+
+The [[^F17]licensing authority] may impose different requirements in relation to different applicants.
+
+(4) The [[^F17]licensing authority] may send a copy of an application to the Commissioner of Police of the Metropolis or the Commissioner of Police for the City of London with a request for the Commissioner’s observations; and the Commissioner shall respond to the request.
+
+(5) A London PHV driver’s licence—
+
+(a) may be granted subject to such conditions as the [[^F17]licensing authority] may think fit;
+
+(b) shall be in such form and shall contain such particulars as the [[^F17]licensing authority] may think fit; and
+
+(c) [[^F21]subject to section 13A,] shall be granted for three years or for such shorter period as the [[^F17]licensing authority] may consider appropriate in the circumstances of the particular case.
+
+(6) An applicant may appeal to a magistrates’ court against a decision not to grant a London PHV driver’s licence or against any condition to which such a licence is subject.
+
+(7) For the purposes of subsection (2), a person is authorised to drive a motor car if—
+
+(a) he holds a licence granted under Part III of the [^M5]Road Traffic Act 1988 (other than a provisional licence) authorising him to drive a motor car; or
+
+(b) he is authorised by virtue of section 99A(1) or 109(1) of that Act (Community licences and Northern Ireland licences) to drive a motor car in Great Britain.
+
+### 13A [[^F22]London PHV driver's licences for persons subject to immigration control
+
+(1) Subsection (2) applies if—
+
+(a) a London PHV driver's licence is to be granted to a person who has been granted leave to enter or remain in the United Kingdom for a limited period (“the leave period”);
+
+(b) the person's leave has not been extended by virtue of section 3C of the Immigration Act 1971 (continuation of leave pending variation decision); and
+
+(c) apart from subsection (2), the period for which the licence would have been granted would have ended after the end of the leave period.
+
+(2) The licence must be granted for a period which ends at or before the end of the leave period.
+
+(3) Subsection (4) applies if—
+
+(a) a London PHV driver's licence is to be granted to a person who has been granted leave to enter or remain in the United Kingdom for a limited period; and
+
+(b) the person's leave has been extended by virtue of section 3C of the Immigration Act 1971 (continuation of leave pending variation decision).
+
+(4) The licence must be granted for a period which does not exceed six months.
+
+(5) A London PHV driver's licence ceases to be in force if the person to whom it was granted becomes disqualified by reason of the person's immigration status from driving a private hire vehicle.
+
+(6) If subsection (5) applies to a licence, the person to whom it was granted must, within the period of 7 days beginning with the day after the day on which the person first became disqualified, return the licence and the person's driver's badge to the licensing authority.
+
+(7) A person who, without reasonable excuse, contravenes subsection (6) is guilty of an offence and liable on summary conviction—
+
+(a) to a fine not exceeding level 3 on the standard scale; and
+
+(b) in the case of a continuing offence, to a fine not exceeding ten pounds for each day during which an offence continues after conviction.
+
+(8) The Secretary of State may by regulations amend the amount for the time being specified in subsection (7)(b).]
+
+### 14 Issue of driver’s badges.
+
+(1) The [[^F23]licensing authority] shall issue a badge to each person to whom [[^F24]the authority] has granted a London PHV driver’s licence.
+
+(2) The [[^F23]licensing authority] may prescribe the form of badges issued under this section.
+
+(3) A person issued with such a badge shall, when he is the driver of a vehicle being used as a private hire vehicle—
+
+[[^F25](a)] wear the badge in such position and manner as to be plainly and distinctly visible, [[^F26]and
+
+(b) at the request of any person, produce the badge for inspection.]
+
+(4) The [[^F23]licensing authority] may by notice exempt a person from the requirement under [[^F27]subsection (3)(a)] , when he is the driver of a vehicle being used to provide a service specified in the notice if [[^F24]the authority] considers it inappropriate (having regard to that service) to require the badge to be worn.
+
+(5) Any person who without reasonable excuse contravenes subsection (3) is guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+## Licences: general provisions
+
+### 15 Applications for licences.
+
+(1) An application for the grant of a licence under this Act shall be made in such form, and include such declarations and information, as the [[^F28]licensing authority] may require.
+
+(2) The [[^F28]licensing authority] may require an applicant to furnish such further information as [[^F29]the authority] may consider necessary for dealing with the application.
+
+(3) The information which an applicant for a London PHV operator’s licence may be required to furnish includes in particular information about—
+
+(a) any premises in London which he proposes to use as an operating centre;
+
+(b) any convictions recorded against him;
+
+(c) any business activities he has carried on before making the application;
+
+(d) if the applicant is or has been a director or secretary of a company, that company;
+
+(e) if the applicant is a company, information about the directors or secretary of that company;
+
+(f) if the applicant proposes to act as an operator in partnership with any other person, information about that person.
+
+(4) An applicant for a London PHV driver’s licence may be required by the [licensing authority]—
+
+(a) to produce a certificate signed by a registered medical practitioner to the effect that—
+
+(i) he is physically fit to be the driver of a private hire vehicle; and
+
+(ii) if any specific requirements of physical fitness have been prescribed for persons holding London PHV licences, that he meets those requirements; and
+
+(b) whether or not such a certificate has been produced, to submit to examination by a registered medical practitioner selected by the [[^F28]licensing authority] as to his physical fitness to be the driver of such a vehicle.
+
+(5) The provisions of this Act apply to the renewal of a licence as they apply to the grant of a licence.
+
+### 16 Power to suspend or revoke licences.
+
+(1) The [[^F30]licensing authority] may suspend or revoke a licence under this Act for any reasonable cause including (without prejudice to the generality of this subsection) any ground mentioned below.
+
+(2) A London PHV operator’s licence may be suspended or revoked where—
+
+(a) the [[^F30]licensing authority] is no longer satisfied that the licence holder is fit to hold such a licence;
+
+[[^F31](aa) the licence holder has, since the grant of the licence, been convicted of an immigration offence or required to pay an immigration penalty;] or
+
+(b) the licence holder has failed to comply with any condition of the licence or any other obligation imposed on him by or under this Act.
+
+[[^F32](2A) Subsection (2)(aa) does not apply if—
+
+(a) in a case where the licence holder has been convicted of an immigration offence, the conviction is a spent conviction within the meaning of the Rehabilitation of Offenders Act 1974, or
+
+(b) in a case where the licence holder has been required to pay an immigration penalty—
+
+(i) more than three years have elapsed since the date on which the penalty was imposed, and
+
+(ii) the amount of the penalty has been paid in full.]
+
+(3) A London PHV licence may be suspended or revoked where—
+
+(a) the [[^F30]licensing authority] is no longer satisfied that the vehicle to which it relates is fit for use as a private hire vehicle; or
+
+(b) the owner has failed to comply with any condition of the licence or any other obligation imposed on him by or under this Act.
+
+(4) A London PHV driver’s licence may be suspended or revoked where—
+
+(a) the licence holder has, since the grant of the licence, been convicted of an offence involving dishonesty, indecency or violence;
+
+[[^F33](aa) the licence holder has, since the grant of the licence, been convicted of an immigration offence or required to pay an immigration penalty;]
+
+(b) the [[^F30]licensing authority] is for any other reason no longer satisfied that the licence holder is fit to hold such a licence; or
+
+(c) the licence holder has failed to comply with any condition of the licence or any other obligation imposed on him by or under this Act.
+
+[[^F34](5) Subsection (4)(aa) does not apply if—
+
+(a) in a case where the licence holder has been convicted of an immigration offence, the conviction is a spent conviction within the meaning of the Rehabilitation of Offenders Act 1974, or
+
+(b) in a case where the licence holder has been required to pay an immigration penalty—
+
+(i) more than three years have elapsed since the date on which the penalty was imposed, and
+
+(ii) the amount of the penalty has been paid in full.]
+
+### 17 Suspension and revocation under section 16: procedure.
+
+(1) Where the [[^F35]licensing authority] has decided to suspend or revoke a licence under section 16—
+
+(a) [[^F36]the authority] shall give notice of the decision and the grounds for the decision to the licence holder or, in the case of a London PHV licence, the owner of the vehicle to which the licence relates; and
+
+(b) the suspension or revocation takes effect at the end of the period of 21 days beginning with the day on which that notice is served on the licence holder or the owner.
+
+(2) If the [[^F35]licensing authority] is of the opinion that the interests of public safety require the suspension or revocation of a licence to have immediate effect, and [[^F36]the authority] includes a statement of that opinion and the reasons for it in the notice of suspension or revocation, the suspension or revocation takes effect when the notice is served on the licence holder or vehicle owner (as the case may be).
+
+(3) A licence suspended under this section shall remain suspended until such time as the [[^F35]licensing authority] by notice directs that the licence is again in force.
+
+(4) The holder of a London PHV operator’s or driver’s licence, or the owner of a vehicle to which a PHV licence relates, may appeal to a magistrates’ court against a decision under section 16 to suspend or revoke that licence.
+
+### 18 Variation of operator’s licence at the request of the operator.
+
+(1) The [[^F37]licensing authority] may, on the application of a London PHV operator, vary his licence by adding a reference to a new operating centre or removing an existing reference to an operating centre.
+
+(2) An application for the variation of a licence under this section shall be made in such form, and include such declarations and information, as the [[^F37]licensing authority] may require.
+
+(3) The [[^F37]licensing authority] may require an applicant to furnish such further information as he may consider necessary for dealing with the application.
+
+(4) The [[^F37]licensing authority] shall not add a reference to a new operating centre unless [[^F38]the authority] is satisfied that the premises in question meet any requirements prescribed under section 3(3)(b).
+
+(5) An applicant for the variation of a London PHV operator’s licence under this section may appeal to a magistrates’ court against a decision not to add a new operating centre to the licence.
+
+### 19 [[^F39]Variation of operator’s licence by the licensing authority].
+
+(1) The [[^F40]licensing authority] may—
+
+(a) suspend the operation of a London PHV operator’s licence so far as relating to any operating centre specified in the licence; or
+
+(b) vary such a licence by removing a reference to an operating centre previously specified in the licence,
+
+if [[^F41]the authority] is no longer satisfied that the operating centre in question meets any requirements prescribed under section 3(3)(b) or for any other reasonable cause.
+
+(2) Where the [[^F40]licensing authority] has decided to suspend the operation of a licence as mentioned in subsection (1)(a) or vary a licence as mentioned in subsection (1)(b)—
+
+(a) [[^F41]the authority] shall give notice of the decision and the grounds for it to the licence holder; and
+
+(b) the decision shall take effect at the end of the period of 21 days beginning with the day on which the licence holder is served with that notice.
+
+(3) If the [[^F40]licensing authority] is of the opinion that the interests of public safety require [[^F41] authority’s] decision to have immediate effect, and [[^F41]the authority] includes a statement of that opinion and the reasons for it in the notice, [[^F41] authority’s] decision shall take effect when the notice is served on the licence holder.
+
+(4) If a licence is suspended in relation to an operating centre, the premises in question shall not be regarded for the purposes of this Act as premises at which the licence holder is authorised to accept private hire bookings, until such time as the [[^F40]licensing authority] by notice states that the licence is no longer suspended in relation to those premises.
+
+(5) The holder of a London PHV operator’s licence may appeal to a magistrates’ court against a decision under subsection (1).
+
+### 20 Fees for grant of licences, etc.
+
+(1) The [[^F42]licensing authority] may by regulations provide for prescribed fees to be payable—
+
+(a) by an applicant for a licence under this Act, or for the variation of a London operator’s licence under section 18, on making the application;
+
+(b) by a person granted a licence or variation, on the grant or variation of the licence and (if the regulations so provide) at such times while the licence is in force as may be prescribed.
+
+(2) Regulations under this section may provide for fees to be payable by instalments, or for fees to be remitted or refunded (in whole or part), in prescribed cases.
+
+(3) The [[^F42]licensing authority] may decline to proceed with—
+
+(a) an application for, or for the variation of, a licence; or
+
+(b) the grant or variation of a licence,
+
+until any prescribed fee (or instalment) due in respect of the application or grant is paid.
+
+### 21 Production of documents.
+
+(1) The holder of a London PHV operator’s licence or a London PHV driver’s licence shall at the request of a constable or authorised officer produce his licence for inspection.
+
+(2) The owner of a vehicle to which a London PHV licence relates shall at the request of a constable or authorised officer produce for inspection—
+
+(a) the London PHV licence for that vehicle;
+
+(b) the certificate of the policy of insurance or security required in respect of the vehicle by Part VI of the [^M6]Road Traffic Act 1988.
+
+(3) A document required to be produced under this section shall be produced either forthwith or—
+
+(a) if the request is made by a constable, at any police station within London nominated by the licence holder or vehicle owner when the request is made, or
+
+(b) if the request is made by an authorised officer, at such place as the officer may reasonably require,
+
+before the end of the period of 6 days beginning with the day on which the request is made.
+
+(4) A person who without reasonable excuse contravenes this section is guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+### 22 Return of licences, etc.
+
+(1) [[^F43]Without prejudice to subsection (1A),] the holder of a London PHV operator’s licence shall return the licence to the [[^F44]licensing authority] after the expiry or revocation of that licence, within the period of 7 days after the day on which the licence expires or the revocation takes effect.
+
+[[^F45](1A) Where the suspension or revocation of a London PHV operator’s licence has immediate effect by virtue of section 17(2), the holder of the licence shall, at the request of a constable or authorised officer, forthwith return the licence to the constable or officer.]
+
+(2) [[^F46]Without prejudice to subsection (2A),] the owner of a vehicle to which a London PHV licence relates shall return the licence and [[^F47]every plate or disc] which was issued for the vehicle under section 10 [[^F48]or any regulations made under this Act] to the [[^F44]licensing authority] after the expiry or revocation of that licence within the period of 7 days after the day on which the licence expires or the revocation takes effect.
+
+[[^F49](2A) Where the suspension or revocation of a London PHV licence has immediate effect by virtue of section 9(3) or 17(2), the owner of the vehicle to which the licence relates shall, at the request of a constable or authorised officer, forthwith return to the constable or officer the licence and every plate or disc which was issued for the vehicle under section 10 or any regulations made under this Act.]
+
+(3) [[^F50]Without prejudice to subsection (3A),] the holder of a London PHV driver’s licence shall return the licence and his driver’s badge to the [licensing authority] after the expiry or revocation of that licence, within the period of 7 days after the day on which the licence expires or the revocation takes effect.
+
+[[^F51](3A) Where the suspension or revocation of a London PHV driver’s licence has immediate effect by virtue of section 17(2), the holder of the licence shall, at the request of a constable or authorised officer, forthwith return his driver’s badge to the constable or officer.]
+
+(4) [[^F52]Without prejudice to subsections (1A), (2A) and (3A),] on the suspension of a licence under this Act, the [[^F44]licensing authority], a constable or an authorised officer may by notice direct the holder of the licence, or the owner of the vehicle, to return the licence to [[^F53]the authority, constable or officer (as the case may be)] within the period of 7 days after the day on which the notice is served on that person.
+
+A direction under this subsection may also direct—
+
+(a) the return by the vehicle owner of [[^F54]every disc or plate] which was issued for the vehicle under section 10 [[^F55]or any regulations made under this Act] (in the case of a London PHV licence); or
+
+(b) the return by the licence holder of the driver’s badge (in the case of a London PHV driver’s licence).
+
+(5) A person who without reasonable excuse fails to comply with any requirement or direction under this section to return a licence, disc, plate or badge is guilty of an offence.
+
+(6) A person guilty of an offence under this section is liable on summary conviction—
+
+(a) to a fine not exceeding level 3 on the standard scale; and
+
+(b) in the case of a continuing offence, to a fine not exceeding ten pounds for each day during which an offence continues after conviction.
+
+(7) A constable or authorised officer is entitled to remove and retain [[^F56]every disc or plate] from a vehicle to which an expired, suspended or revoked London PHV licence relates following—
+
+(a) a failure to comply with subsection (2) or a direction under subsection (4);
+
+(b) a suspension or revocation of the licence which has immediate effect by virtue of section 9(3) or 17(2).
+
+### 23 Register of licences.
+
+(1) The [[^F57]licensing authority] shall maintain a register containing the following particulars for each licence issued under this Act, namely—
+
+(a) the number of the licence, the name [^F58]... of the person to whom it is granted, the date on which it is granted and the expiry date; and
+
+(b) such other particulars as may be prescribed.
+
+(2) The register [[^F59]kept under subsection (1)] shall be available for inspection free of charge by members of the public at such place or places, and during such hours, as are determined by the [[^F57]licensing authority].
+
+[[^F60](3) The licensing authority shall maintain a supplementary register containing, for each licence issued under this Act, the address of the person to whom it is granted.
+
+(4) The licensing authority may disclose the address of a licence holder to any person only if it appears to the authority that the person has a sufficient reason for requiring that information.]
+
+### 24 [[^F61]Delegation of functions by the licensing authority.]
+
+(1) The functions of the [[^F62]licensing authority] under this Act (apart from any power to make subordinate legislation) may be exercised by any person appointed by the [[^F62]licensing authority] for the purpose to such extent and subject to such conditions as may be specified in the appointment.
+
+(2) An appointment under this section may authorise the person appointed to retain any fees received by him.
+
+(3) It is the duty of a person appointed under this section to comply with any directions given to him by the [[^F62]licensing authority] in relation to the exercise of functions under this Act.
+
+### 25 Appeals.
+
+(1) This section applies to any appeal which lies under this Act to a magistrates’ court against a decision of the [[^F63]licensing authority], a constable or an authorised officer in relation to, or to an application for, a licence under this Act.
+
+(2) If the [[^F63]licensing authority] has exercised the power to delegate functions under section 24, such an appeal shall be heard by [[^F64]a magistrates' court].
+
+(3) Any such appeal shall be by way of complaint for an order and the [^M7]Magistrates’ Courts Act 1980 shall apply to the proceedings.
+
+(4) The time within which a person may bring such an appeal is 21 days from the date on which notice of the decision appealed against is served on him.
+
+(5) In the case of a decision where an appeal lies, the notice of the decision shall state the right of appeal to a magistrates’ court and the time within which an appeal may be brought.
+
+(6) An appeal against any decision of a magistrates’ court in pursuance of an appeal to which this section applies shall lie to the Crown Court at the instance of any party to the proceedings in the magistrates’ court.
+
+(7) Where on appeal a court varies or reverses any decision of the [[^F63]licensing authority], a constable or an authorised officer, the order of the court shall be given effect to by the [[^F63]licensing authority] or, as the case may be, a constable or authorised officer.
+
+[[^F65](8) On an appeal under this Act to the magistrates' court or the Crown Court, the court is not entitled to entertain any question as to whether—
+
+(a) a person should be, or should have been, granted leave to enter or remain in the United Kingdom; or
+
+(b) a person has, after the date of the decision being appealed against, been granted leave to enter or remain in the United Kingdom.]
+
+### 26 Effect of appeal on decision appealed against.
+
+(1) If any decision of the [[^F66]licensing authority] against which a right of appeal is conferred by this Act—
+
+(a) involves the execution of any work or the taking of any action;
+
+(b) makes it unlawful for any person to carry on a business which he was lawfully carrying on at the time of the decision,
+
+the decision shall not take effect until the time for appealing has expired or (where an appeal is brought) until the appeal is disposed of or withdrawn.
+
+(2) This section does not apply in relation to a decision to suspend, vary or revoke a licence if the notice of suspension, variation or revocation directs that, in the interests of public safety, the decision is to have immediate effect.
+
+### 27 Obstruction of authorised officers etc.
+
+(1) A person who wilfully obstructs a constable or authorised officer acting in pursuance of this Act is guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+(2) A person who, without reasonable excuse—
+
+(a) fails to comply with any requirement properly made to such person by a constable or authorised officer acting in pursuance of this Act; or
+
+(b) fails to give a constable or authorised officer acting in pursuance of this Act any other assistance or information which he may reasonably require of such person for the purpose of performing his functions under this Act,
+
+is guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+(3) A person who makes any statement which he knows to be false in giving any information to an authorised officer or constable acting in pursuance of this Act is guilty of an offence and liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+### 28 Penalty for false statements.
+
+A person who knowingly or recklessly makes a statement or furnishes information which is false or misleading in any material particular for the purpose of procuring the grant or renewal of a licence under this Act, or the variation of an operator’s licence under section 18, is guilty of an offence and liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+### 29 Saving for vehicles used for funerals and weddings.
+
+Nothing in this Act applies to any vehicle whose use as a private hire vehicle is limited to use in connection with funerals or weddings.
+
+## Further controls
+
+### 30 Prohibition of certain signs, notices etc.
+
+(1) The [[^F67]licensing authority] may make regulations prohibiting the display in London on or from vehicles (other than licensed taxis and public service vehicles) of any sign, notice or other feature of a description specified in the regulations.
+
+(2) Before making the regulations the [[^F67]licensing authority] shall consult such bodies appearing to [[^F68]the authority] to represent the London cab trade and the private hire vehicle trade in London as [[^F68]the autority] considers appropriate.
+
+(3) Any person who—
+
+(a) drives a vehicle in respect of which a prohibition imposed by regulations under this section is contravened; or
+
+(b) causes or permits such a prohibition to be contravened in respect of any vehicle,
+
+is guilty of an offence and liable on summary conviction to a fine not exceeding level 4 on the standard scale.
+
+### 31 Prohibition of certain advertisements.
+
+(1) This section applies to any advertisement—
+
+(a) indicating that vehicles can be hired on application to a specified address in London;
+
+(b) indicating that vehicles can be hired by telephone on a telephone number being the number of premises in London; or
+
+(c) on or near any premises in London, indicating that vehicles can be hired at those premises.
+
+(2) No such advertisement shall include—
+
+(a) any of the following words, namely “taxi”, “taxis”, “cab” or “cabs”, or
+
+(b) any word so closely resembling any of those words as to be likely to be mistaken for it,
+
+(whether alone or as part of another word), unless the vehicles offered for hire are London cabs.
+
+(3) An advertisement which includes the word “minicab”, “mini-cab” or “mini cab” (whether in the singular or plural) does not by reason only of that fact contravene this section.
+
+(4) Any person who issues, or causes to be issued, an advertisement which contravenes this section is guilty of an offence and liable on summary conviction to a fine not exceeding level 4 on the standard scale.
+
+(5) It is a defence for a person charged with an offence under this section to prove that—
+
+(a) he is a person whose business it is to publish or arrange for the publication of advertisements;
+
+(b) he received the advertisement in question for publication in the ordinary course of business; and
+
+(c) he did not know and had no reason to suspect that its publication would amount to an offence under this section.
+
+(6) In this section—
+
+- “advertisement” includes every form of advertising (whatever the medium) and references to the issue of an advertisement shall be construed accordingly;
+- “telephone number” includes any number used for the purposes of communicating with another by electronic means; and “telephone” shall be construed accordingly.
+
+## Miscellaneous and supplementary
+
+### 32 Regulations.
+
+(1) The [[^F69]licensing authority] may make regulations for any purpose for which regulations may be made under this Act [[^F70](other than section [[^F71]3A(8), 13A(8) or] 37)]or for prescribing anything which falls to be prescribed under any provision of this Act [[^F70](other than section 37)].
+
+(2) Regulations under this Act may—
+
+(a) make different provision for different cases;
+
+(b) provide for exemptions from any provision of the regulations; and
+
+(c) contain incidental, consequential, transitional and supplemental provision.
+
+[[^F72](2A) The power to make regulations conferred on the Secretary of State by section 3A(8) or 13A(8) is exercisable by statutory instrument.
+
+(2B) A statutory instrument containing regulations under either of those sections may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, each House of Parliament.]
+
+(3) Any power to make regulations [[^F73]conferred on the Secretary of State by section 37]is exercisable by statutory instrument which shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+[[^F74](4) Any power of the licensing authority to make regulations under this Act includes power to vary or revoke previous regulations made under this Act (other than regulations made under section [[^F75]3A(8), 13A(8) or] 37).
+
+(5) Subsection (4) applies notwithstanding that the previous regulations in question were made by the Secretary of State by statutory instrument.
+
+(6) The licensing authority shall secure that any regulations made under this Act by the authority are printed and published.
+
+(7) A fee may be charged for the sale of regulations printed and published under subsection (6).]
+
+### 33 Offences due to fault of other person.
+
+(1) Where an offence by any person under this Act is due to the act or default of another person, then (whether proceedings are taken against the first mentioned person or not) that other person is guilty of the offence and is liable to be proceeded against and punished accordingly.
+
+(2) Where an offence under this Act committed by a body corporate is proved to have been committed with the consent or connivance of, or attributable to any neglect on the part of, any director, manager, secretary or other similar officer of the body corporate (or any person purporting to act in that capacity), he as well as the body corporate is guilty of the offence is liable to be proceeded against and punished accordingly.
+
+### 34 Service of notices.
+
+(1) Any notice authorised or required under this Act to be given to any person may be served by post.
+
+(2) For the purposes of section 7 of the [^M8]Interpretation Act 1978 any such notice is properly addressed to a London PHV operator if it is addressed to him at any operating centre of his in London.
+
+(3) Any notice authorised or required under this Act to be given to the owner of a vehicle shall be deemed to have been effectively given if it is given to the person who is for the time being notified to the [[^F76]licensing authority] for the purposes of this Act as the owner of the vehicle (or, if more than one person is currently notified as the owner, if it is given to any of them).
+
+### 35 References to the owner of a vehicle.
+
+(1) For the purposes of this Act the owner of a vehicle shall be taken to be the person by whom it is kept.
+
+(2) In determining, in the course of any proceedings for an offence under this Act, who was the owner of a vehicle at any time it shall be presumed that the owner was the person who was the registered keeper of the vehicle at that time.
+
+(3) Notwithstanding that presumption—
+
+(a) it is open to the defence to show that the person who was the registered keeper of a vehicle at any particular time was not the person by whom the vehicle was kept at that time; and
+
+(b) it is open to the prosecution to prove that the vehicle was kept at that time by some person other than the registered keeper.
+
+(4) In this section “registered keeper”, in relation to a vehicle, means the person in whose name the vehicle was registered under the [^M9]Vehicle Excise and Registration Act 1994.
+
+### 35A [[^F77]Persons disqualified by reason of immigration status
+
+(1) For the purposes of this Act a person is disqualified by reason of the person's immigration status from carrying on a licensable activity if the person is subject to immigration control and—
+
+(a) the person has not been granted leave to enter or remain in the United Kingdom; or
+
+(b) the person's leave to enter or remain in the United Kingdom—
+
+(i) is invalid;
+
+(ii) has ceased to have effect (whether by reason of curtailment, revocation, cancellation, passage of time or otherwise); or
+
+(iii) is subject to a condition preventing the person from carrying on the licensable activity.
+
+(2) Where a person is on immigration bail within the meaning of Part 1 of Schedule 10 to the Immigration Act 2016—
+
+(a) the person is to be treated for the purposes of this Act as if the person had been granted leave to enter the United Kingdom; but
+
+(b) any condition as to the person's work in the United Kingdom to which the person's immigration bail is subject is to be treated for those purposes as a condition of leave.
+
+(3) For the purposes of this section a person is subject to immigration control if under the Immigration Act 1971 the person requires leave to enter or remain in the United Kingdom.
+
+(4) For the purposes of this section a person carries on a licensable activity if the person—
+
+(a) operates a private hire vehicle; or
+
+(b) drives a private hire vehicle.
+
+### 35B Immigration offences and immigration penalties
+
+(1) In this Act “immigration offence” means—
+
+(a) an offence under any of the Immigration Acts;
+
+(b) an offence under section 1 of the Criminal Attempts Act 1981 of attempting to commit an offence within paragraph (a); or
+
+(c) an offence under section 1 of the Criminal Law Act 1977 of conspiracy to commit an offence within paragraph (a).
+
+(2) In this Act “immigration penalty” means a penalty under—
+
+(a) section 15 of the Immigration, Asylum and Nationality Act 2006 (“the 2006 Act”), or
+
+(b) section 23 of the Immigration Act 2014 (“the 2014 Act”).
+
+(3) For the purposes of this Act a person to whom a penalty notice under section 15 of the 2006 Act has been given is not to be treated as having been required to pay an immigration penalty if—
+
+(a) the person is excused payment by virtue of section 15(3) of that Act; or
+
+(b) the penalty is cancelled by virtue of section 16 or 17 of that Act.
+
+(4) For the purposes of this Act a person to whom a penalty notice under section 15 of the 2006 Act has been given is not to be treated as having been required to pay an immigration penalty until such time as—
+
+(a) the period for giving a notice of objection under section 16 of that Act has expired and the Secretary of State has considered any notice given within that period; and
+
+(b) if a notice of objection was given within that period, the period for appealing under section 17 of that Act has expired and any appeal brought within that period has been finally determined, abandoned or withdrawn.
+
+(5) For the purposes of this Act a person to whom a penalty notice under section 23 of the 2014 Act has been given is not to be treated as having been required to pay an immigration penalty if—
+
+(a) the person is excused payment by virtue of section 24 of that Act; or
+
+(b) the penalty is cancelled by virtue of section 29 or 30 of that Act.
+
+(6) For the purposes of this Act a person to whom a penalty notice under section 23 of the 2014 Act has been given is not to be treated as having been required to pay an immigration penalty until such time as—
+
+(a) the period for giving a notice of objection under section 29 of that Act has expired and the Secretary of State has considered any notice given within that period; and
+
+(b) if a notice of objection was given within that period, the period for appealing under section 30 of that Act has expired and any appeal brought within that period has been finally determined, abandoned or withdrawn.]
+
+### 36 Interpretation.
+
+In this Act, unless the context otherwise requires—
+
+- “authorised officer” means an officer authorised in writing by the [[^F78]licensing authority] for the purposes of this Act;
+
+- [[^F79]“controlled district” means any area for which Part II of the 1976 Act is in force by virtue of—
+
+  - (a) a resolution by a district council under section 45 of that Act; or
+  - (b) section 255(4) of the Greater London Authority Act 1999;]
+
+- “driver’s badge” means the badge issued to the holder of a London PHV driver’s licence;
+- “hackney carriage” means a vehicle licensed under section 37 of the [^M10]Town Police Clauses Act 1847 or any similar enactment;
+- “licensed taxi” means a hackney carriage, a London cab or a taxi licensed under Part II of the 1982 Act;
+- [[^F80]“the licensing authority” means Transport for London;]
+- “London” means the area consisting of the metropolitan police district and the City of London (including the Temples);
+- “London cab” means a vehicle licensed under section 6 of the [^M11]Metropolitan Public Carriage Act 1869;
+- “London PHV driver’s licence” means a licence under section 13;
+- “London PHV licence” means a licence under section 7;
+- “London PHV operator” has the meaning given in section 4(1);
+- “London PHV operator’s licence” means a licence under section 2;
+- “notice” means notice in writing;
+- [[^F81]“operate” has the meaning given in section 1(1);]
+- “operating centre” has the meaning given in section 1(5);
+- “operator” has the meaning given in section 1(1);
+- [[^F82]“power-assisted pedicab” means a power-assisted pedal cycle, or a power-assisted pedal cycle in combination with a trailer, that is constructed or adapted for carrying one or more passengers (and for this purpose “trailer” has the same meaning as in the Pedicabs (London) Act 2024 (see section 8 of that Act));]
+- “prescribed” means prescribed in regulations under section 32(1);
+- “private hire vehicle” has the meaning given in section 1(1);
+- “public service vehicle” has the same meaning as in the [^M12]Public Passenger Vehicles Act 1981;
+- “road” means any length of highway or of any other road to which the public has access (including bridges over which a road passes);
+- “the 1976 Act” means the [^M13]Local Government (Miscellaneous Provisions) Act 1976;
+- “the 1982 Act” means the [^M14]Civic Government (Scotland) Act 1982; and
+- “vehicle” means a mechanically propelled vehicle [[^F83], other than a power-assisted pedicab or a tramcar,] intended or adapted for use on roads.
+
+### 37 Power to make transitional etc. provisions.
+
+(1) The Secretary of State may by regulations make such transitional provisions and such savings as he considers necessary or expedient in preparation for, in connection with, or in consequence of—
+
+(a) the coming into force of any provision of this Act; or
+
+(b) the operation of any enactment repealed or amended by a provision of this Act during any period when the repeal or amendment is not wholly in force.
+
+(2) Regulations under this section may modify any enactment contained in this or in any other Act.
+
+[[^F84](3) Before making regulations under this section the Secretary of State shall consult the licensing authority.]
+
+### [^F85]38 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 39 Consequential amendments and repeals.
+
+(1) Schedule 1 (minor and consequential amendments) shall have effect.
+
+(2) The enactments mentioned in Schedule 2 are repealed to the extent specified.
+
+### 40 Short title, commencement and extent.
+
+(1) This Act may be cited as the Private Hire Vehicles (London) Act 1998.
+
+(2) This Act (apart from this section) shall come into force on such date as the Secretary of State may by order made by statutory instrument appoint; but different dates may be appointed for different purposes.
+
+An order under this subsection may contain any provision which could be made under section 37 in connection with any provision brought into force by the order.
+
+(3) Any provision of this Act which amends or repeals any other Act has the same extent as the provision being amended or repealed.
+
+(4) Subject to subsection (3), this Act extends only to England and Wales.
+
+## SCHEDULE 1 — Minor and consequential amendments
+
+*Section 39(1).*
+
+### Local Government (Miscellaneous Provisions) Act 1976 (c. 57)
+
+**1** In section 75 of the Local Government (Miscellaneous Provisions) Act 1976 (exemptions), after subsection (2A) there shall be inserted the following subsection—
+
+> (2B) Paragraphs (a), (b) and (c) of section 46(1) of this Act shall not apply to the use or driving of a vehicle, or to the employment of a driver of a vehicle, if—
+>
+> (a) a London PHV licence issued under section 7 of the Private Hire Vehicles (London) Act 1998 is in force in relation to that vehicle; and
+>
+> (b) the driver of the vehicle holds a London PHV driver’s licence issued under section 13 of that Act.
+
+### Public Passenger Vehicles Act 1981 (c. 14)
+
+**2** In section 79 of the Public Passenger Vehicles Act 1981 (vehicles excluded from regulation as private hire vehicles), after the word “1982” there shall be inserted the words “ , in the Private Hire Vehicles (London) Act 1998 ”.
+
+### Civic Government (Scotland) Act 1982 (c. 45)
+
+**3** In section 21 of the Civic Government (Scotland) Act 1982 (offences), after subsection (3) there shall be inserted the following subsection—
+
+> (3A) Subsection (1)(b) above does not apply to the operation of a vehicle within an area in respect of which its operation or its driver is not licensed if there are in force—
+>
+> (a) in respect of the vehicle, a licence under section 7 of the Private Hire Vehicles (London) Act 1998; and
+>
+> (b) in respect of its driver, a licence under section 13 of that Act.
+
+### Transport Act 1985 (c. 67)
+
+**4** In section 13(3) of the Transport Act 1985 (defined terms for sections 10 to 13 of that Act), in the definition of “licensed hire car”, at the end there shall be inserted the words “ or section 7 of the Private Hire Vehicles (London) Act 1998 ”.
+
+## SCHEDULE 2 — Repeals
+
+*Section 39(2).*
+
+|  |  |  |
+|---|---|---|
+| Chapter | Short title | Extent of repeal |
+| 1968 c. 7. | London Cab Act 1968. | Sections 4 and 4A. |
+| 1973 c. 20. | London Cab Act 1973. | The whole Act. |
+| 1990 c. 42. | Broadcasting Act 1990. | In Schedule 20, paragraph 10. |
+| 1992 c. 42. | Transport and Works Act 1992. | Section 62(2). |
+
+---
+
+[^F1]: Words in s. 1(1)(a) repealed (31.3.2008 for E.W.) by Road Safety Act 2006 (c. 49), ss. 54, 61(1), (10), Sch. 7(17); S.I. 2007/3492, art. 3
+[^F2]: Word in s. 1(1)(a) omitted (1.12.2016) by virtue of Immigration Act 2016 (c. 19), s. 94(1), Sch. 5 para. 35(a); S.I. 2016/1037, reg. 5(i) (with reg. 6)
+[^F3]: S. 1(1)(c) and word inserted (1.12.2016) by Immigration Act 2016 (c. 19), s. 94(1), Sch. 5 para. 35(b); S.I. 2016/1037, reg. 5(i) (with reg. 6)
+[^F4]: Words in s. 3 substituted (22.1.2001) by 1999 c. 29, s. 254(3), Sch. 21 para. 2 (with Sch. 12 para. 9(1)); S.I. 2000/3145, art. 2
+[^F5]: Word in s. 3(3) substituted (22.1.2001) by 1999 c. 29, s. 254(3), Sch. 21 para. 3 (with Sch. 12 para. 9(1)); S.I. 2000/3145, art. 2
+[^F6]: S. 3(3)(aa) substituted for word (1.12.2016) by Immigration Act 2016 (c. 19), s. 94(1), Sch. 5 para. 36(2) (with Sch. 5 para. 54); S.I. 2016/1037, reg. 5(i) (with reg. 6)
+[^F7]: S. 3(3A) inserted (1.12.2016) by Immigration Act 2016 (c. 19), s. 94(1), Sch. 5 para. 36(3) (with Sch. 5 para. 54); S.I. 2016/1037, reg. 5(i) (with reg. 6)
+[^F8]: Words in s. 3(5) substituted (1.12.2016) by Immigration Act 2016 (c. 19), s. 94(1), Sch. 5 para. 36(4) (with Sch. 5 para. 54); S.I. 2016/1037, reg. 5(i) (with reg. 6)
+[^F9]: S. 3A inserted (1.12.2016) by Immigration Act 2016 (c. 19), s. 94(1), Sch. 5 para. 37 (with Sch. 5 para. 54); S.I. 2016/1037, reg. 5(i) (with reg. 6)
+[^F10]: S. 4(3)(d)(da) substituted for s. 4(3)(d) (coming into force in accordance with ss. 1(2), 3 of the amending Act) by Transport for London Act 2008 (c. i), s. 25
+[^M1]: 1976 c. 57.
+[^M2]: 1982 c. 45.
+[^F11]: Words in s. 7 substituted (22.1.2001) by 1999 c. 29, s. 254(3), Sch. 21 para. 2 (with Sch. 12 para. 9(1)); S.I. 2000/3145, art. 2
+[^F12]: Word in s. 7(2) substituted (22.1.2001) by 1999 c. 29, s. 254(3), Sch. 21 para. 4 (with Sch. 12 para. 9(1)); S.I. 2000/3145, art. 2
+[^M3]: 1988 c. 52.
+[^F13]: Words in s. 8 substituted (22.1.2001) by 1999 c. 29, s. 254(3), Sch. 21 para. 2 (with Sch. 12 para. 9(1)); S.I. 2000/3145, art. 2
+[^F14]: Word in s. 8(2) substituted (22.1.2001) by 1999 c. 29, s. 254(3), Sch. 21 para. 5 (with Sch. 12 para. 9(1)); S.I. 2000/3145, art. 2
+[^M4]: 1988 c. 52.
+[^F15]: Words in s. 10 substituted (22.1.2001) by 1999 c. 29, s. 254(3), Sch. 21 para. 2 (with Sch. 12 para. 9(1)); S.I. 2000/3145, art. 2
+[^F16]: Word in s. 10(3) substituted (22.1.2001) by 1999 c. 29, s. 254(3), Sch. 21 para. 6 (with Sch. 12 para. 9(1)); S.I. 2000/3145, art. 2
+[^F17]: Words in s. 13 substituted (22.1.2001) by 1999 c. 29, s. 254(3), Sch. 21 para. 2 (with Sch. 12 para. 9(1)); S.I. 2000/3145, art. 2
+[^F18]: Words in s. 13(2)(3) substituted (22.1.2001) by 1999 c. 29, s. 254(3), Sch. 21 para. 7 (with Sch. 12 para. 9(1)); S.I. 2000/3145, art. 2
+[^F19]: S. 13(2)(aa) substituted for word (1.12.2016) by Immigration Act 2016 (c. 19), s. 94(1), Sch. 5 para. 38(2) (with Sch. 5 para. 54); S.I. 2016/1037, reg. 5(i) (with reg. 6)
+[^F20]: S. 13(2A) inserted (1.12.2016) by Immigration Act 2016 (c. 19), s. 94(1), Sch. 5 para. 38(3) (with Sch. 5 para. 54); S.I. 2016/1037, reg. 5(i) (with reg. 6)
+[^F21]: Words in s. 13(5)(c) inserted (1.12.2016) by Immigration Act 2016 (c. 19), s. 94(1), Sch. 5 para. 38(4) (with Sch. 5 para. 54); S.I. 2016/1037, reg. 5(i) (with reg. 6)
+[^M5]: 1988 c. 52.
+[^F22]: S. 13A inserted (1.12.2016) by Immigration Act 2016 (c. 19), s. 94(1), Sch. 5 para. 39 (with Sch. 5 para. 54); S.I. 2016/1037, reg. 5(i) (with reg. 6)
+[^F23]: Words in s. 14 substituted (22.1.2001) by 1999 c. 29, s. 254(3), Sch. 21 para. 2 (with Sch. 12 para. 9(1)); S.I. 2000/3145, art. 2
+[^F24]: Words in s. 14(1)(4) substituted (22.1.2001) by 1999 c. 29, s. 254(3), Sch. 21 para. 8 (with Sch. 12 para. 9(1)); S.I. 2000/3145, art. 2
+[^F25]: Word in s. 14(3) inserted (coming into force in accordance with ss. 1(2), 3 of the amendin-g Act) by Transport for London Act 2008 (c. i), s. 23(1)
+[^F26]: S. 14(3)(b) and word inserted (coming into force in accordance with ss. 1(2), 3 of the amending Act) by Transport for London Act 2008 (c. i), s. 23(1)
+[^F27]: Words in s. 14(4) substituted (coming into force in accordance with ss. 1(2), 3 of the amending Act) by Transport for London Act 2008 (c. i), s. 23(2)
+[^F28]: Words in s. 15 substituted (22.1.2001) by 1999 c. 29, s. 254(3), Sch. 21 para. 2 (with Sch. 12 para. 9(1)); S.I. 2000/3145, art. 2
+[^F29]: Word in s. 15(2) substituted (22.1.2001) by 1999 c. 29, s. 254(3), Sch. 21 para. 9 (with Sch. 12 para. 9(1)); S.I. 2000/3145, art. 2
+[^F30]: Words in s. 16 substituted (22.1.2001) by 1999 c. 29, s. 254(3), Sch. 21 para. 2 (with Sch. 12 para. 9(1)); S.I. 2000/3145, art. 2
+[^F31]: S. 16(2)(aa) inserted (1.12.2016) by Immigration Act 2016 (c. 19), s. 94(1), Sch. 5 para. 40(2) (with Sch. 5 para. 55); S.I. 2016/1037, reg. 5(i) (with reg. 6)
+[^F32]: S. 16(2A) inserted (1.12.2016) by Immigration Act 2016 (c. 19), s. 94(1), Sch. 5 para. 40(3) (with Sch. 5 para. 55); S.I. 2016/1037, reg. 5(i) (with reg. 6)
+[^F33]: S. 16(4)(aa) inserted (1.12.2016) by Immigration Act 2016 (c. 19), s. 94(1), Sch. 5 para. 40(4) (with Sch. 5 para. 55); S.I. 2016/1037, reg. 5(i) (with reg. 6)
+[^F34]: S. 16(5) inserted (1.12.2016) by Immigration Act 2016 (c. 19), s. 94(1), Sch. 5 para. 40(5) (with Sch. 5 para. 55); S.I. 2016/1037, reg. 5(i) (with reg. 6)
+[^F35]: Words in s. 17 substituted (22.1.2001) by 1999 c. 29, s. 254(3), Sch. 21 para. 2 (with Sch. 12 para. 9(1)); S.I. 2000/3145, art. 2
+[^F36]: Words in s. 17(1)(a)(2) substituted (22.1.2001) by 1999 c. 29, s. 254(3), Sch. 21 para. 10 (with Sch. 12 para. 9(1)); S.I. 2000/3145, art. 2
+[^F37]: Words in s. 18 substituted (22.1.2001) by 1999 c. 29, s. 254(3), Sch. 21 para. 2 (with Sch. 12 para. 9(1)); S.I. 2000/3145, art. 2
+[^F38]: Word in s. 18(4) substituted (22.1.2001) by 1999 c. 29, s. 254(3), Sch. 21 para. 11 (with Sch. 12 para. 9(1)); S.I. 2000/3145, art. 2
+[^F39]: Sidenote to s. 19 substituted (22.1.2001) by 1999 c. 29, s. 254(3), Sch. 21 para. 12(5) (with Sch. 12 para. 9(1)); S.I. 2000/3145, art. 2
+[^F40]: Words in s. 19 substituted (22.1.2001) by 1999 c. 29, s. 254(3), Sch. 21 para. 2 (with Sch. 12 para. 9(1)); S.I. 2000/3145, art. 2
+[^F41]: Words in s. 19(1)(2)(a)(3) substituted (22.1.2001) by 1999 c. 29, s. 254(3), Sch. 21 para. 12 (with Sch. 12 para. 9(1)); S.I. 2000/3145, art. 2
+[^F42]: Words in s. 20 substituted (22.1.2001) by 1999 c. 29, s. 254(3), Sch. 21 para. 2 (with Sch. 12 para. 9(1)); S.I. 2000/3145, art. 2
+[^M6]: 1988 c. 52.
+[^F43]: Words in s. 22(1) inserted (coming into force in accordance with ss. 1(2), 3 of the amending Act) by Transport for London Act 2008 (c. i), s. 24(2)
+[^F44]: Words in s. 22 substituted (22.1.2001) by 1999 c. 29, s. 254(3), Sch. 21 para. 2 (with Sch. 12 para. 9(1)); S.I. 2000/3145, art. 2
+[^F45]: S. 22(1A) inserted (coming into force in accordance with ss. 1(2), 3 of the amending Act) by Transport for London Act 2008 (c. i), s. 24(3)
+[^F46]: Words in s. 22(2) inserted (coming into force in accordance with ss. 1(2), 3 of the amending Act) by Transport for London Act 2008 (c. i), s. 24(4)(a)
+[^F47]: Words in s. 22(2) substituted (coming into force in accordance with ss. 1(2), 3 of the amending Act) by Transport for London Act 2008 (c. i), s. 24(4)(b)
+[^F48]: Words in s. 22(2) inserted (coming into force in accordance with ss. 1(2), 3 of the amending Act) by Transport for London Act 2008 (c. i), s. 24(4)(c)
+[^F49]: S. 22(2A) inserted (coming into force in accordance with ss. 1(2), 3 of the amending Act) by Transport for London Act 2008 (c. i), s. 24(5)
+[^F50]: Words in s. 22(3) inserted (coming into force in accordance with ss. 1(2), 3 of the amending Act) by Transport for London Act 2008 (c. i), s. 24(6)
+[^F51]: S. 22(3A) inserted (coming into force in accordance with ss. 1(2), 3 of the amending Act) by Transport for London Act 2008 (c. i), s. 24(7)
+[^F52]: Words in s. 22(4) inserted (coming into force in accordance with ss. 1(2), 3 of the amending Act) by Transport for London Act 2008 (c. i), s. 24(8)(a)
+[^F53]: Words in s. 22(4) substituted (22.1.2001) by 1999 c. 29, s. 254(3), Sch. 21 para. 13 (with Sch. 12 para. 9(1)); S.I. 2000/3145, art. 2
+[^F54]: Words in s. 22(4)(a) substituted (coming into force in accordance with ss. 1(2), 3 of the amending Act) by Transport for London Act 2008 (c. i), s. 24(8)(b)
+[^F55]: Words in s. 22(4)(a) inserted (coming into force in accordance with ss. 1(2), 3 of the amending Act) by Transport for London Act 2008 (c. i), s. 24(8)(b)
+[^F56]: Words in s. 22(7) substituted (coming into force in accordance with ss. 1(2), 3 of the amending Act) by Transport for London Act 2008 (c. i), s. 24(9)
+[^F57]: Words in s. 23 substituted (22.1.2001) by 1999 c. 29, s. 254(3), Sch. 21 para. 2 (with Sch. 12 para. 9(1)); S.I. 2000/3145, art. 2
+[^F58]: Words in s. 23(1)(a) repealed (22.7.2008) by Transport for London Act 2008 (c. i), ss. 1(1), 26(2)
+[^F59]: Words in s. 23(2) inserted (22.7.2008) by Transport for London Act 2008 (c. i), ss. 1(1), 26(3)
+[^F60]: S. 23(3)(4) inserted (22.7.2008) by Transport for London Act 2008 (c. i), ss. 1(1), 26(4)
+[^F61]: Sidenote to s. 24 substituted (22.1.2001) by 1999 c. 29, s. 254(3), Sch. 21 para. 14 (with Sch. 12 para. 9(1)); S.I. 2000/3145, art. 2
+[^F62]: Words in s. 24 substituted (22.1.2001) by 1999 c. 29, s. 254(3), Sch. 21 para. 2 (with Sch. 12 para. 9(1)); S.I. 2000/3145, art. 2
+[^F63]: Words in s. 25 substituted (22.1.2001) by 1999 c. 29, s. 254(3), Sch. 21 para. 2 (with Sch. 12 para. 9(1)); S.I. 2000/3145, art. 2
+[^F64]: Words in s. 25(2) substituted (1.4.2005) by Courts Act 2003 (Consequential Provisions) Order 2005 (S.I. 2005/886), art. 1, Sch. para. 54
+[^M7]: 1980 c. 43.
+[^F65]: S. 25(8) inserted (1.12.2016) by Immigration Act 2016 (c. 19), s. 94(1), Sch. 5 para. 41; S.I. 2016/1037, reg. 5(i) (with reg. 6)
+[^F66]: Words in s. 26 substituted (22.1.2001) by 1999 c. 29, s. 254(3), Sch. 21 para. 2 (with Sch. 12 para. 9(1)); S.I. 2000/3145, art. 2
+[^F67]: Words in s. 30 substituted (22.1.2001) by 1999 c. 29, s. 254(3), Sch. 21 para. 2 (with Sch. 12 para. 9(1)); S.I. 2000/3145, art. 2
+[^F68]: Words in s. 30(2) substituted (22.1.2001) by 1999 c. 29, s. 254(3), Sch. 21 para. 15 (with Sch. 12 para. 9(1)); S.I. 2000/3145, art. 2
+[^F69]: Words in s. 32 substituted (22.1.2001) by 1999 c. 29, s. 254(3), Sch. 21 para. 2 (with Sch. 12 para. 9(1)); S.I. 2000/3145, art. 2
+[^F70]: Words in s. 32(1) inserted (22.1.2001) by 1999 c. 29, s. 254(3), Sch. 21 para. 16(1)(2) (with Sch. 12 para. 9(1)); S.I. 2000/3145, art. 2
+[^F71]: Words in s. 32(1) inserted (1.12.2016) by Immigration Act 2016 (c. 19), s. 94(1), Sch. 5 para. 42(2); S.I. 2016/1037, reg. 5(i) (with reg. 6)
+[^F72]: S. 32(2A)(2B) inserted (1.12.2016) by Immigration Act 2016 (c. 19), s. 94(1), Sch. 5 para. 42(3); S.I. 2016/1037, reg. 5(i) (with reg. 6)
+[^F73]: Words in s. 32(4) substituted (22.1.2001) by 1999 c. 29, s. 25(4), Sch. 21 para. 16(1)(3) (with Sch. 12 para. 9(1)); S.I. 2000/3145, art. 2
+[^F74]: S. 32(4)-(7) added (22.1.2001) by 1999 c. 29, s. 254(3), Sch. 21 para. 16(1)(4) (with Sch. 12 para. 9(1)); S.I. 2000/3145, art. 2
+[^F75]: Words in s. 32(4) inserted (1.12.2016) by Immigration Act 2016 (c. 19), s. 94(1), Sch. 5 para. 42(4); S.I. 2016/1037, reg. 5(i) (with reg. 6)
+[^M8]: 1978 c. 30.
+[^F76]: Words in s. 34 substituted (22.1.2001) by 1999 c. 29, s. 254(3), Sch. 21 para. 2 (with Sch. 12 para. 9(1)); S.I. 2000/3145, art. 2
+[^M9]: 1994 c. 22.
+[^F77]: Ss. 35A, 35B inserted (1.12.2016) by Immigration Act 2016 (c. 19), s. 94(1), Sch. 5 para. 43; S.I. 2016/1037, reg. 5(i) (with reg. 6)
+[^F78]: Words in s. 36 substituted (22.1.2001) by 1999 c. 29, s. 254(3), Sch. 21 para. 2 (with Sch. 12 para. 9(1)); S.I. 2000/3145, art. 2
+[^F79]: Words in s. 36 substituted (22.1.2001) by S.I. 2000/3145, art. 3(2)
+[^M10]: 1847 c. 89.
+[^F80]: Words in s. 36 inserted (22.1.2001) by 1999 c. 29, s. 254(2), Sch. 21 para. 17 (with Sch. 12 para. 9(1)); S.I. 2000/3145, art. 2
+[^M11]: 1869 c. 115.
+[^F81]: Words in s. 36 inserted (1.12.2016) by Immigration Act 2016 (c. 19), s. 94(1), Sch. 5 para. 44; S.I. 2016/1037, reg. 5(i) (with reg. 6)
+[^F82]: Words in s. 36 inserted (25.6.2024) by Pedicabs (London) Act 2024 (c. 7), ss. 5(b), 9
+[^M12]: 1981 c. 14.
+[^M13]: 1976 c. 57.
+[^M14]: 1982 c. 45.
+[^F83]: Words in s. 36 substituted (25.6.2024) by Pedicabs (London) Act 2024 (c. 7), ss. 5(a), 9
+[^F84]: S. 37(3) added (22.1.2001) by 1999 c. 29, s. 254(3), Sch. 21 para. 18 (with Sch. 12 para. 9(1)); S.I. 2000/3145, art. 2
+[^F85]: S. 38 repealed (7.11.2001) by 1999 c. 29, ss. 254(3), 423, Sch. 21 para. 19, Sch. 34 Pt. V (with Sch. 12 para. 9(1)); S.I. 2001/3603, art. 2

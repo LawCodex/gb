@@ -1,0 +1,2082 @@
+---
+title: "Offender Management Act 2007"
+identifier: "ukpga/2007/21"
+citation: "2007 c. 21"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S+N.I."
+date: 2007-07-26
+last_amended: 2026-06-29
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/2007/21"
+source_modified: 2026-07-14
+retrieved: 2026-10-11
+---
+
+# Offender Management Act 2007
+
+**2007 c. 21**
+
+An Act to make provision about the provision of probation services, prisons and other matters relating to the management of offenders; and for connected purposes.
+
+[26th July 2007]
+
+Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## Part 1 — New arrangements for the provision of probation services
+
+### Probation purposes
+
+#### 1 Meaning of “the probation purposes”
+
+(1) In this Part “the probation purposes” means the purposes of providing for—
+
+(a) courts to be given assistance in determining the appropriate sentences to pass, and making other decisions, in respect of persons charged with or convicted of offences;
+
+(b) [[^F1]the giving of assistance to persons]in determining whether conditional cautions should be given and which conditions to attach to conditional cautions;
+
+(c) the supervision and rehabilitation of persons charged with or convicted of offences;
+
+(d) the giving of assistance to persons remanded on bail;
+
+(e) the supervision and rehabilitation of persons to whom conditional cautions are given;
+
+(f) the giving of information to victims of persons charged with or convicted of offences.
+
+(2) The purpose set out in subsection (1)(c) includes (in particular)—
+
+(a) giving effect to community orders and suspended sentence orders (or, in the case of persons mentioned in subsection (3), any corresponding sentence which is to be carried out in England and Wales);
+
+(b) assisting in the rehabilitation of offenders who are being held in prison;
+
+(c) supervising persons released from prison on licence;
+
+(d) providing accommodation in approved premises.
+
+(3) That purpose also applies in relation to persons who—
+
+(a) are convicted of an offence under the law of a country outside England and Wales, and
+
+(b) receive a sentence which is to any extent to be served or carried out in England and Wales,
+
+as it applies in relation to persons convicted of offences.
+
+(4) In this section—
+
+- “[[^F2]conditional caution” has ]the same meaning as in Part 3 of the Criminal Justice Act 2003 (c. 44);
+
+- [[^F3]“ community order ” means—
+
+  - (a) a community order within the meaning given by section 200 of the Sentencing Code;
+  - (b) a youth rehabilitation order within the meaning given by section 173 of the Sentencing Code;]
+
+- “prison” includes a young offender institution [[^F4], a secure training centre and a secure college];
+
+- [[^F5]“suspended sentence order” has the meaning given by section 286 of the Sentencing Code;]
+
+- “victim” includes a person claiming to be a victim of a person charged with or convicted of an offence.
+
+(5) Regulations made by the Secretary of State may extend the purposes mentioned in subsection (1) to include other purposes relating to persons charged with or convicted of offences or persons to whom conditional cautions are given.
+
+### Functions of the Secretary of State
+
+#### 2 Responsibility for ensuring the provision of probation services
+
+(1) It is the function of the Secretary of State to ensure that sufficient provision is made throughout England and Wales—
+
+(a) for the probation purposes;
+
+(b) for enabling functions conferred by any enactment (whenever passed or made) on providers of probation services, or on officers of a provider of probation services, to be performed; and
+
+(c) for the performance of any function of the Secretary of State under any enactment (whenever passed or made) which is expressed to be a function to which this paragraph applies;
+
+and any provision which the Secretary of State considers should be made for a purpose mentioned above is referred to in this Part as “probation provision”.
+
+(2) The Secretary of State shall discharge his function under subsection (1) in relation to any probation provision by making and carrying out arrangements under section 3.
+
+(3) The Secretary of State must have regard to the aims mentioned in subsection (4) in the exercise of his functions under subsections (1) and (2) (so far as they may be exercised for any of the probation purposes).
+
+(4) Those aims are—
+
+(a) the protection of the public;
+
+(b) the reduction of re-offending;
+
+(c) the proper punishment of offenders;
+
+(d) ensuring offenders' awareness of the effects of crime on the victims of crimes and the public; and
+
+(e) the rehabilitation of offenders.
+
+(5) The Secretary of State is not required by subsections (1) and (2) to take any action in relation to the making of provision for a purpose mentioned in subsection (1) if it appears to him that appropriate provision is being or will be made by any person acting otherwise than in pursuance of arrangements under section 3.
+
+(6) In this section “enactment” includes subordinate legislation (within the meaning of the Interpretation Act 1978 (c. 30)).
+
+#### 3 Power to make arrangements for the provision of probation services
+
+(1) This section applies to any probation provision which the Secretary of State considers ought to be made for any of the purposes mentioned in section 2(1).
+
+(2) The Secretary of State may make contractual or other arrangements with any other person for the making of the probation provision.
+
+(3) Arrangements under subsection (2) may in particular authorise or require that other person—
+
+(a) to co-operate with other providers of probation services or persons who are concerned with the prevention or reduction of crime or with giving assistance to the victims of crime;
+
+(b) to authorise individuals under section 9(2) to act as officers of a provider of probation services;
+
+(c) to make contractual or other arrangements with third parties for purposes connected with the probation provision to be made, including in particular contractual or other arrangements—
+
+(i) for provision to be made, or for activities to be carried out, by third parties on behalf of that other person; or
+
+(ii) for individuals who are not members of that other person's staff to act as officers of a provider of probation services.
+
+(4) The Secretary of State may make provision for the performance of any function to which section 2(1)(c) applies by making arrangements under subsection (2) above providing for the delegation of that function to the other person.
+
+(5) If instead of making arrangements under subsection (2) the Secretary of State considers it appropriate to make any probation provision himself, he shall make arrangements for the making of that probation provision (and for the avoidance of doubt the members of staff through whom he may act in making and carrying out those arrangements include prison officers or other persons employed at a prison).
+
+(6) In this Part “provider of probation services” means—
+
+(a) a person with whom the Secretary of State has made arrangements that are in force under subsection (2); or
+
+(b) the Secretary of State (in relation to probation provision which is the subject of arrangements that are in force under subsection (5)).
+
+[[^F6](6A) The Secretary of State must ensure that arrangements under subsection (2) or (5) for the supervision or rehabilitation of persons convicted of offences—
+
+(a) state that the Secretary of State has, in making the arrangements, complied with the duty under section 149 of the Equality Act 2010 (public sector equality duty) as it relates to female offenders, and
+
+(b) identify anything in the arrangements that is intended to meet the particular needs of female offenders.]
+
+(7) In carrying out functions under this Part in relation to arrangements under subsection (2) with another person (“the provider”), the Secretary of State shall have regard to the need to take reasonable steps to avoid (so far as practicable) the risk that—
+
+(a) the provision, in pursuance of the arrangements, of assistance to a court or to the Parole Board for England and Wales, and
+
+(b) the carrying out, in pursuance of the arrangements, of any other activities,
+
+might be adversely affected by any potential conflict between the provider's obligations in relation to those activities and the financial interests of the provider.
+
+#### 4 Restriction on certain arrangements under section 3
+
+(1) Arrangements under section 3(2) relating to restricted probation provision may only be made with a probation trust or other public body.
+
+(2) In this section “restricted probation provision” means probation provision which—
+
+(a) is made for a purpose mentioned in section 2(1)(a) or (b); and
+
+(b) relates to the giving of assistance to any court in determining the appropriate sentence to pass, or making any other decision, in respect of a person charged with or convicted of an offence.
+
+[[^F7](3) The provision described in subsection (2)(b) includes provision which relates to the making of an application by an officer to a court under—
+
+(a) [[^F8]paragraph 14, 15, 18, 20 or 21 of Schedule 10 to the Sentencing Code] (revocation or amendment of community orders), [[^F9]or]
+
+(b) [[^F10]paragraph 22, 25 or 27 of Schedule 16 to that Code] (amendment of suspended sentence orders),[^F11]...
+
+[^F11]c . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .]
+
+#### 5 Power to establish probation trusts
+
+(1) The Secretary of State may by order—
+
+(a) establish a probation trust for purposes specified in the order;
+
+(b) alter the name or purposes of a probation trust;
+
+(c) dissolve a probation trust.
+
+(2) The purposes of a probation trust must consist of or include the making or performance by the trust of contracts with the Secretary of State under section 3(2).
+
+(3) The purposes of a probation trust may include all or any of the following purposes—
+
+(a) the making or performance by the trust of contracts with another probation trust or any other person which provide for the carrying out by the trust of activities which contribute to the achievement of any purpose mentioned in section 2(1);
+
+(b) the making or performance by the trust of contracts with the Secretary of State for the carrying out by the trust of activities anywhere in the world which—
+
+(i) are to be carried out in connection with persons who are or have been subject to proceedings in service courts; and
+
+(ii) correspond to activities which, if carried out in connection with persons charged with or convicted of offences, would contribute to the achievement of any purpose mentioned in section 2(1);
+
+(c) any other purpose specified for the purposes of this section by regulations made by the Secretary of State.
+
+(4) A purpose specified for a probation trust under subsection (1)(a) may be expressed in more specific terms than those used in subsection (2) or (3)(a) or (b) or in regulations under subsection (3)(c).
+
+(5) A purpose so specified which relates to the making or performance of contracts includes the carrying out of any activities relating to a contract of a relevant kind (including activities taking place before it is made or after it is terminated).
+
+(6) Schedule 1 (which contains other provision relating to probation trusts) has effect.
+
+#### 6 Power to make grants for probation purposes etc
+
+(1) The Secretary of State may make payments (other than payments falling to be made in pursuance of arrangements under section 3(2))—
+
+(a) to a probation trust; or
+
+(b) towards expenditure incurred by any other person for any purpose falling within the probation purposes.
+
+(2) Payments under this section may be made on conditions (which may require repayment in specified circumstances).
+
+#### 7 National standards for the management of offenders
+
+(1) The Secretary of State shall continue to publish national standards for the management of offenders.
+
+(2) The national standards may in particular include standards relating to the management of offenders held in custody.
+
+(3) In exercising his powers under section 3(2), the Secretary of State shall have regard to the need to secure, so far as practicable, that the arrangements in force from time to time provide for the national standards to have the same effect in relation to every provider of probation services carrying out the activities to which the standards apply.
+
+#### 8 Annual plans
+
+(1) The Secretary of State shall at least once in every year consult the Welsh Ministers, and such other persons as he thinks fit, about the provision that should be made for the purposes mentioned in section 2(1) for the following year.
+
+(2) The Secretary of State shall, before the end of each year, publish an annual plan for the following year which sets out the way in which the Secretary of State proposes to—
+
+(a) discharge his functions under section 2(1) and (2) during that year; and
+
+(b) carry out any arrangements which he expects to be in force under section 3(5) for that year.
+
+(3) The Secretary of State shall have regard to the annual plan published under subsection (2) for any year—
+
+(a) in discharging his functions under section 2(1) and (2) during that year; and
+
+(b) in making or carrying out arrangements under section 3(5) for that year.
+
+(4) Arrangements made by the Secretary of State under section 3(2) with a probation trust shall require the trust to publish an annual plan for each year in which it expects to carry out any specified activities.
+
+(5) Arrangements made by the Secretary of State under section 3(2) with a person other than a probation trust shall, if the Secretary of State thinks fit, require that person to publish an annual plan for each year in which it expects to carry out any specified activities.
+
+(6) In subsections (4) and (5)—
+
+- “annual plan” means a plan setting out the way in which the probation trust or other person (as the case may be) proposes to carry out any specified activities during the year to which the plan relates;
+- “specified activities”, in relation to a probation trust or other person with whom arrangements under section 3(2) are made, means activities of a description specified in those arrangements for the purposes of subsection (4) or (5) above (as the case may be).
+
+(7) In this section “year” means a period of 12 months ending with 31st March.
+
+### Miscellaneous
+
+#### 9 Officers of providers of probation services
+
+(1) In this Part “officer of a provider of probation services” means an individual who is for the time being authorised under subsection (2) (and “officer”, in relation to a particular provider of probation services, means a person so authorised to act as an officer of that provider).
+
+(2) An individual may be authorised to act as an officer of a particular provider of probation services (“the relevant provider”) by—
+
+(a) the Secretary of State; or
+
+(b) a provider of probation services (whether the relevant provider or any other provider) who is authorised to do so by the Secretary of State.
+
+(3) If the relevant provider is the Secretary of State, subsection (2) has effect with the omission of paragraph (b).
+
+#### 10 National framework for qualifications of officers
+
+(1) The Secretary of State may publish guidelines about any qualifications, experience or training required to perform the work of an officer of a provider of probation services.
+
+(2) The Secretary of State must publish guidelines under subsection (1) in relation to work involving the supervision of offenders and other work requiring direct contact with offenders (including offenders held in custody).
+
+(3) Guidelines under this section may make different provision for different purposes.
+
+(4) In exercising his powers under sections 3(2) and (5) and 9, the Secretary of State shall have regard to the need to secure, so far as practicable, that guidelines published under this section have the same effect in relation to every provider of probation services whose officers perform work to which they relate.
+
+#### 10A [[^F12]Duty to consult on unpaid work requirements
+
+(1) Each provider of probation services must, in each calendar year, consult the prescribed persons about the work to be performed by persons who—
+
+(a) are subject to unpaid work requirements, and
+
+(b) are supervised by that provider.
+
+(2) In this section “prescribed person” means a person, or a person of a description, prescribed by regulations made by the Secretary of State.
+
+(3) In this section “unpaid work requirement” means an unpaid work requirement as defined by—
+
+(a) paragraph 10(1) of Schedule 6 to the Sentencing Code (youth rehabilitation orders),
+
+(b) paragraph 1(1) of Schedule 9 to the Sentencing Code (community orders and suspended sentence orders), or
+
+(c) paragraph 3A(1) of Schedule A1 to the Children Act 1989 (enforcement orders).
+
+(4) For the purposes of this section a person is supervised by a provider of probation services if an officer of that provider has functions relating to the person’s compliance with an unpaid work requirement.]
+
+#### 11 Abolition of local probation boards and transfers of property etc and staff
+
+(1) In consequence of the provisions of this Part, the local probation boards constituted under section 4 of the Criminal Justice and Court Services Act 2000 (c. 43) are abolished.
+
+(2) Schedule 2 (which contains provisions relating to transfers of property etc or staff in connection with the abolition of local probation boards or the implementation or termination of arrangements under section 3) has effect.
+
+#### 12 The inspectorate
+
+(1) Her Majesty's Inspectorate of the National Probation Service for England and Wales is renamed “Her Majesty's Inspectorate of Probation for England and Wales” and Her Majesty's Chief Inspector of the National Probation Service for England and Wales is renamed “Her Majesty's Chief Inspector of Probation for England and Wales”.
+
+(2) In section 6 of the Criminal Justice and Court Services Act 2000 (the inspectorate)—
+
+(a) in subsection (1), the words from “but” to the end are omitted; and
+
+(b) in subsection (4), for “the National Probation Service” (in both places) there is substituted “ Probation ”.
+
+(3) In section 7 of that Act (functions of the inspectorate)—
+
+(a) in subsection (1), for “each local probation board under section 5” there is substituted “ the Secretary of State under section 3 of the Offender Management Act 2007 (power to make arrangements for the provision of probation services) ”; and
+
+(b) in subsection (6), after “section 1” there is inserted “ of the Offender Management Act 2007 ”.
+
+#### 13 Approved premises
+
+(1) The Secretary of State may approve premises in which accommodation is provided—
+
+(a) for persons granted bail in criminal proceedings (within the meaning of the Bail Act 1976 (c. 63)); or
+
+(b) for, or in connection with, the supervision or rehabilitation of persons convicted of offences;
+
+and in this section [[^F13]and section 13A] “approved premises” means premises which are for the time being approved under this subsection.
+
+(2) The Secretary of State may make regulations for the regulation, management and inspection of approved premises.
+
+(3) The Secretary of State may make payments in connection with —
+
+(a) the operation of approved premises, or
+
+(b) constructing, enlarging or improving premises, if they are approved premises or the works are being carried out with a view to the premises becoming approved premises,
+
+to any person who incurs expenditure on the activities in question.
+
+(4) Payments under subsection (3) may be made on conditions (including conditions requiring repayment in specified circumstances).
+
+(5) The power to make payments under subsection (3) is without prejudice to the powers of the Secretary of State under sections 2 to 6.
+
+(6) References in any Act or subordinate legislation (within the meaning of the Interpretation Act 1978 (c. 30)) to an approved bail hostel or an approved probation hostel are to be read as a reference to approved premises.
+
+(7) In paragraph 2(7) of Schedule 2 to the Private Security Industry Act 2001 (c. 12) (activities not liable to control under the Act), after paragraph (l) there is inserted—
+
+> (m) activities of a person who is acting as a manager of any approved premises (within the meaning of section 13 of the Offender Management Act 2007).
+
+#### 13A [[^F14]Approved premises: substance testing
+
+(1) Subsection (2) applies if—
+
+(a) the manager of any approved premises has given an authorisation that specifies when the power in that subsection may be exercised at those premises, and
+
+(b) that authorisation is in force.
+
+(2) A member of staff may, at the approved premises and in accordance with the authorisation given under subsection (1), require any resident of those premises to provide a sample of urine for the purpose of ascertaining whether the resident has in their body any—
+
+(a) controlled drug,
+
+(b) prescription only medicine, or
+
+(c) psychoactive substance.
+
+(3) The power in subsection (2) includes power to require a resident to provide a sample of any other description, except an intimate sample, whether instead of or in addition to a sample of urine.
+
+(4) The Secretary of State may use any residents’ samples to test, on an anonymised basis, for the prevalence of the following substances in approved premises—
+
+(a) controlled drugs,
+
+(b) medicinal products, or
+
+(c) psychoactive substances.
+
+(5) In giving, or deciding whether to give, an authorisation under subsection (1), the manager must have regard to any guidance regarding the giving of authorisations issued by the Secretary of State.
+
+(6) In exercising the power in subsection (2), a member of staff must have regard to any guidance regarding the exercise of that power issued by the Secretary of State.
+
+(7) In this section—
+
+- “approved premises” has the meaning given by section 13(1);
+
+- “controlled drug” means any drug which is a controlled drug for the purposes of the Misuse of Drugs Act 1971 (see section 2 of that Act);
+
+- “intimate sample” has the same meaning as in Part 5 of the Police and Criminal Evidence Act 1984 (see section 65 of that Act);
+
+- “medicinal product” has the meaning given in regulation 2 of the Human Medicines Regulations 2012 (S.I. 2012/1916);
+
+- “prescription only medicine” has the meaning given in regulation 8 of the Human Medicines Regulations 2012 (S.I. 2012/1916);
+
+- “psychoactive substance” has the same meaning as in the Psychoactive Substances Act 2016 (see section 2 of that Act);
+
+- “resident” means a person who lives in approved premises other than a member of staff;
+
+- “residents’ sample” means any sample—
+
+  - provided under subsection (2) or (3), or
+  - provided voluntarily;
+
+- “the manager” means, in relation to approved premises, the individual in general control over the management of the approved premises.
+
+(8) The Secretary of State may by regulations make such amendments of this section as the Secretary of State considers appropriate in consequence of—
+
+(a) the amendment or revocation of the Human Medicines Regulations 2012 (S.I. 2012/1916), or
+
+(b) the making, amendment or revocation of any other subordinate legislation (whenever made) which relates to human medicines.
+
+(9) In subsection (8) “subordinate legislation” has the same meaning as in the Interpretation Act 1978.]
+
+#### 14 Disclosure for offender management purposes
+
+(1) This section applies to—
+
+(a) the Secretary of State;
+
+(b) a provider of probation services (other than the Secretary of State);
+
+(c) an officer of a provider of probation services; and
+
+(d) a person carrying out activities in pursuance of arrangements made by a provider of probation services as mentioned in section 3(3)(c).
+
+(2) In this section “listed person” means—
+
+(a) a government department;
+
+(b) a relevant local authority;
+
+(c) the Youth Justice Board for England and Wales;
+
+(d) the Parole Board for England and Wales;
+
+(e) a relevant contractor;
+
+(f) a chief officer of police;
+
+(g) a person who is responsible for securing the electronic monitoring of an individual; and
+
+(h) any other person specified or described in regulations made by the Secretary of State.
+
+(3) Information may be disclosed—
+
+(a) by a person to whom this section applies—
+
+(i) to another person to whom this section applies, or
+
+(ii) to a listed person, or
+
+(b) by a listed person to a person to whom this section applies,
+
+but only if the disclosure is necessary or expedient for any of the purposes mentioned in subsection (4).
+
+(4) Those purposes are—
+
+(a) the probation purposes;
+
+(b) the performance of functions relating to prisons or prisoners of—
+
+(i) the Secretary of State;
+
+(ii) any other person to whom this section applies; or
+
+(iii) any listed person; and
+
+(c) any other purposes connected with the management of offenders (including the development or assessment of policies relating to matters connected with the management of offenders).
+
+(5) In subsection (4)(b)—
+
+(a) the reference to prisons or prisoners includes a reference to—
+
+(i) young offender institutions or persons detained in such institutions; [^F15]...
+
+(ii) secure training centres or persons detained in such centres;[[^F16]and]
+
+[[^F17](iii) secure colleges or persons detained in them;]
+
+(b) the reference to functions, in relation to a listed person who is a relevant contractor, includes activities connected with the making or performance of a contract mentioned in subsection (9).
+
+(6) Nothing in this section—
+
+(a) affects any power to disclose information that exists apart from this section; or
+
+(b) authorises the disclosure of any information in contravention of any provision contained in an enactment (whenever passed or made) which prevents disclosure of the information.
+
+(7) But the Secretary of State may by order amend or repeal any provision mentioned in subsection (6)(b) which is contained in an enactment passed or made before the end of the Session in which this Act is passed so as to enable disclosures that would otherwise be permitted under this section.
+
+(8) In this section “relevant local authority” means a county council in England, a Welsh county council or county borough council, a district council, a London borough council, the Common Council of the City of London or the Council of the Isles of Scilly.
+
+(9) In this section “relevant contractor” means—
+
+(a) a person who has entered into a contract for the running of, or of part of—
+
+(i) a prison or young offender institution under section 84 of the Criminal Justice Act 1991 (c. 53);
+
+(ii) a secure training centre under section 7 of the Criminal Justice and Public Order Act 1994 (c. 33);
+
+[[^F18](iii) a secure college under paragraph 1 of Schedule 10 to the Criminal Justice and Courts Act 2015;]
+
+or a sub-contractor of such a person (within the meaning of the [[^F19]provision in question]); or
+
+(b) a person who has entered into a contract with the Secretary of State—
+
+(i) under section 80 of the Criminal Justice Act 1991 for the purposes of prisoner escort arrangements (see subsection (2) of that section); or
+
+(ii) under paragraph 1 of Schedule 1 to the Criminal Justice and Public Order Act 1994 for the purposes of escort arrangements [^F20]....
+
+(10) In this section “enactment” includes any subordinate legislation (within the meaning of the Interpretation Act 1978 (c. 30).
+
+#### 15 Power to repeal section 4
+
+(1) The Secretary of State may by order repeal section 4.
+
+(2) The power under this section includes power to provide for that section to cease to have effect for such purposes as may be specified in the order.
+
+## Part 2 — Prisons
+
+### Contracted out prisons and secure training centres
+
+#### 16 Power of search in contracted out prisons and secure training centres
+
+(1) In section 86 of the Criminal Justice Act 1991 (c. 53) (powers and duties of prisoner custody officers in contracted out prisons)—
+
+(a) in subsection (1)(b), after “search” there is inserted “ in accordance with prison rules ”; and
+
+(b) in subsection (2), for the words from “remove” to the end there is substituted “ submit to an intimate search (within the meaning of section 164(5) of the Customs and Excise Management Act 1979). ”
+
+(2) In section 9 of the Criminal Justice and Public Order Act 1994 (c. 33) (powers and duties of custody officers in contracted out secure training centres)—
+
+(a) in subsection (1)(b), after “search” there is inserted “ in accordance with secure training centre rules ”; and
+
+(b) in subsection (2), for the words from “remove” to the end there is substituted “ submit to an intimate search (within the meaning of section 164(5) of the Customs and Excise Management Act 1979). ”
+
+#### 17 Power of detention in contracted out prisons and secure training centres
+
+(1) After section 86 of the Criminal Justice Act 1991 there is inserted—
+
+> **86A Power of prisoner custody officers to detain suspected offenders**
+>
+> (1) A prisoner custody officer performing custodial duties at a contracted out prison shall have the following powers in relation to any person who is in or is seeking to enter the prison (other than a prisoner confined in the prison).
+>
+> (2) Where the officer has reason to believe that the person is committing or has committed an offence under any of sections 39 to 40D of the Prison Act 1952, the officer may—
+>
+> (a) require the person to wait with him for the arrival of a constable for such period as may be necessary (not exceeding two hours); and
+>
+> (b) use reasonable force to prevent the person from making off while subject to a requirement under paragraph (a).
+>
+> (3) A person who makes off while subject to such a requirement is guilty of an offence and liable, on summary conviction, to a fine not exceeding level 3 on the standard scale.
+>
+> (4) In subsection (2), a reference to an offence under a particular provision includes a reference to any offence consisting of an attempt to commit, incitement or conspiracy to commit, or aiding, abetting, counselling or procuring the commission of, an offence under that provision.
+
+(2) In section 88A(2) of that Act (contracted out functions at a directly managed prison)—
+
+(a) for “Section 86” there is substituted “ Sections 86 and 86A ”; and
+
+(b) for “it applies” there is substituted “ they apply ”.
+
+(3) After section 9 of the Criminal Justice and Public Order Act 1994 (c. 33) there is inserted—
+
+> **9A Power of custody officers to detain suspected offenders**
+>
+> (1) A custody officer performing custodial duties at a contracted out secure training centre shall have the following powers in relation to any person who is in or is seeking to enter the centre (other than a person detained in the centre).
+>
+> (2) Where the officer has reason to believe that the person is committing or has committed an offence under any of sections 39 to 40D of the Prison Act 1952, the officer may—
+>
+> (a) require the person to wait with him for the arrival of a constable for such period as may be necessary (not exceeding two hours); and
+>
+> (b) use reasonable force to prevent the person from making off while subject to a requirement under paragraph (a).
+>
+> (3) A person who makes off while subject to such a requirement is guilty of an offence and liable, on summary conviction, to a fine not exceeding level 3 on the standard scale.
+>
+> (4) In subsection (2), a reference to an offence under a particular provision includes a reference to any offence consisting of an attempt to commit, incitement or conspiracy to commit, or aiding, abetting, counselling or procuring the commission of, an offence under that provision.
+
+(4) In section 11(2) of that Act (contracted out functions at directly managed secure training centres)—
+
+(a) for “Section 9” there is substituted “ Sections 9 and 9A ”; and
+
+(b) for “it applies” there is substituted “ they apply ”.
+
+#### 18 Powers of authorised persons to perform custodial duties and search prisoners
+
+(1) The Criminal Justice Act 1991 (c. 53) is amended as follows.
+
+(2) After section 86A (as inserted by section 17 above) there is inserted—
+
+> **86B Powers of authorised persons to perform custodial duties**
+>
+> (1) In this section—
+>
+> - “restricted activity” means an activity which is (apart from this section) required by section 85(1) to be carried out by an officer of a contracted-out prison who is—
+>
+>   - (a) a prisoner custody officer authorised to perform custodial duties; or
+>   - (b) a prison officer temporarily attached to the prison; and
+>
+> - “worker”, in relation to a contracted out prison, means a person who works at the prison, other than an officer mentioned above.
+>
+> (2) The Secretary of State may by order specify descriptions of restricted activity that may be the subject of authorisations under subsection (3) given to workers at a contracted-out prison.
+>
+> (3) A worker at a contracted-out prison may carry out any activity of a description specified under subsection (2), but only if and to the extent that he is for the time being authorised to do so by the director of the prison.
+>
+> (4) The director may give such authorisation—
+>
+> (a) in general or specific terms, subject to any limitations or conditions he considers appropriate; and
+>
+> (b) to one or more particular workers or to any worker who is (or comes to be) within a specified description of workers at the prison.
+>
+> (5) Nothing in an order or authorisation under this section is to be taken as authorising the use of force.
+>
+> (6) An order under this section shall be made by statutory instrument which shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(3) In section 85(1) (officers of contracted out prisons), after “shall”, in the words following paragraph (b), there is inserted “ (subject to section 86B) ”.
+
+#### 19 Powers of director of a contracted out prison
+
+Section 85(3) of the Criminal Justice Act 1991 (c. 53) (director of a contracted out prison not to exercise certain adjudication powers or order removal etc of prisoner) shall cease to have effect.
+
+#### 20 Amendment of section 87 of the Criminal Justice Act 1991
+
+(1) Section 87 of the Criminal Justice Act 1991 (modification of Prison Act 1952 in its application to a contracted out prison) is amended as follows.
+
+(2) For subsection (3) there is substituted—
+
+> (3) Section 8 (powers of prison officers) shall not apply (but this does not affect the powers of a prison officer who is temporarily attached to the prison).
+
+(3) In subsection (4), after “sections” there is inserted “ 8A(3), (4) and (5) ”.
+
+### Offences relating to prison security
+
+#### 21 Assisting a prisoner to escape
+
+For section 39 of the Prison Act 1952 (c. 52) there is substituted—
+
+> **39 Assisting a prisoner to escape**
+>
+> (1) A person who—
+>
+> (a) assists a prisoner in escaping or attempting to escape from a prison, or
+>
+> (b) intending to facilitate the escape of a prisoner—
+>
+> (i) brings, throws or otherwise conveys anything into a prison,
+>
+> (ii) causes another person to bring, throw or otherwise convey anything into a prison, or
+>
+> (iii) gives anything to a prisoner or leaves anything in any place (whether inside or outside a prison),
+>
+> is guilty of an offence.
+>
+> (2) A person guilty of an offence under this section is liable on conviction on indictment to imprisonment for a term not exceeding ten years.
+
+#### 22 Conveyance of prohibited articles into or out of prison
+
+(1) For section 40 of the Prison Act 1952 there is substituted—
+
+> **40A Sections 40B and 40C: classification of articles**
+>
+> (1) This section defines the categories of articles which are referred to in sections 40B and 40C.
+>
+> (2) A List A article is any article or substance in the following list (“List A”)—
+>
+> (a) a controlled drug (as defined for the purposes of the Misuse of Drugs Act 1971);
+>
+> (b) an explosive;
+>
+> (c) any firearm or ammunition (as defined in section 57 of the Firearms Act 1968);
+>
+> (d) any other offensive weapon (as defined in section 1(9) of the Police and Criminal Evidence Act 1984).
+>
+> (3) A List B article is any article or substance in the following list (“List B”)—
+>
+> (a) alcohol (as defined for the purposes of the Licensing Act 2003);
+>
+> (b) a mobile telephone;
+>
+> (c) a camera;
+>
+> (d) a sound-recording device.
+>
+> (4) In List B—
+>
+> - “camera” includes any device by means of which a photograph (as defined in section 40E) can be produced;
+> - “sound-recording device” includes any device by means of which a sound-recording (as defined in section 40E) can be made.
+>
+> (5) The reference in paragraph (b), (c) or (d) of List B to a device of any description includes a reference to—
+>
+> (a) a component part of a device of that description; or
+>
+> (b) an article designed or adapted for use with a device of that description (including any disk, film or other separate article on which images, sounds or information may be recorded).
+>
+> (6) A List C article is any article or substance prescribed for the purposes of this subsection by prison rules.
+>
+> (7) The Secretary of State may by order amend this section for the purpose of—
+>
+> (a) adding an entry to List A or List B;
+>
+> (b) repealing or modifying any entry for the time being included in List A or List B;
+>
+> (c) adding, repealing or modifying any provision for the interpretation of any such entry.
+>
+> **40B Conveyance etc. of List A articles into or out of prison**
+>
+> (1) A person who, without authorisation—
+>
+> (a) brings, throws or otherwise conveys a List A article into or out of a prison,
+>
+> (b) causes another person to bring, throw or otherwise convey a List A article into or out of a prison,
+>
+> (c) leaves a List A article in any place (whether inside or outside a prison) intending it to come into the possession of a prisoner, or
+>
+> (d) knowing a person to be a prisoner, gives a List A article to him,
+>
+> is guilty of an offence.
+>
+> (2) In this section “authorisation” means authorisation given for the purposes of this section—
+>
+> (a) in relation to all prisons or prisons of a specified description, by prison rules or by the Secretary of State; or
+>
+> (b) in relation to a particular prison, by the Secretary of State or by the governor or director of the prison.
+>
+> In paragraph (a) “specified” means specified in the authorisation.
+>
+> (3) Authorisation may be given to specified persons or persons of a specified description—
+>
+> (a) in relation to specified articles or articles of a specified description;
+>
+> (b) in relation to specified acts or acts of a specified description; or
+>
+> (c) on such other terms as may be specified.
+>
+> In this subsection “specified” means specified in the authorisation.
+>
+> (4) Authorisation given by the Secretary of State otherwise than in writing shall be recorded in writing as soon as is reasonably practicable after being given.
+>
+> (5) Authorisation given by the governor or director of a prison shall—
+>
+> (a) be given in writing; and
+>
+> (b) specify the purpose for which it is given.
+>
+> (6) A person guilty of an offence under this section is liable on conviction on indictment to imprisonment for a term not exceeding ten years or to a fine (or both).
+>
+> **40C Conveyance etc. of List B or C articles into or out of prison**
+>
+> (1) A person who, without authorisation—
+>
+> (a) brings, throws or otherwise conveys a List B article into or out of a prison,
+>
+> (b) causes another person to bring, throw or otherwise convey a List B article into or out of a prison,
+>
+> (c) leaves a List B article in any place (whether inside or outside a prison) intending it to come into the possession of a prisoner, or
+>
+> (d) knowing a person to be a prisoner, gives a List B article to him,
+>
+> is guilty of an offence.
+>
+> (2) A person who, without authorisation—
+>
+> (a) brings, throws or otherwise conveys a List C article into a prison intending it to come into the possession of a prisoner,
+>
+> (b) causes another person to bring, throw or otherwise convey a List C article into a prison intending it to come into the possession of a prisoner,
+>
+> (c) brings, throws or otherwise conveys a List C article out of a prison on behalf of a prisoner,
+>
+> (d) causes another person to bring, throw or otherwise convey a List C article out of a prison on behalf of a prisoner,
+>
+> (e) leaves a List C article in any place (whether inside or outside a prison) intending it to come into the possession of a prisoner, or
+>
+> (f) while inside a prison, gives a List C article to a prisoner,
+>
+> is guilty of an offence.
+>
+> (3) A person who attempts to commit an offence under subsection (2) is guilty of that offence.
+>
+> (4) In proceedings for an offence under this section it is a defence for the accused to show that—
+>
+> (a) he reasonably believed that he had authorisation to do the act in respect of which the proceedings are brought, or
+>
+> (b) in all the circumstances there was an overriding public interest which justified the doing of that act.
+>
+> (5) A person guilty of an offence under subsection (1) is liable—
+>
+> (a) on conviction on indictment, to imprisonment for a term not exceeding two years or to a fine (or both);
+>
+> (b) on summary conviction, to imprisonment for a term not exceeding 12 months or to a fine not exceeding the statutory maximum (or both).
+>
+> (6) A person guilty of an offence under subsection (2) is liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+>
+> (7) In this section “authorisation” means authorisation given for the purposes of this section; and subsections (1) to (3) of section 40E apply in relation to authorisations so given as they apply to authorisations given for the purposes of section 40D.
+
+(2) In section 52 of the Prison Act 1952 (c. 52) (exercise of powers to make orders etc)—
+
+(a) in subsection (1) for “or section thirty-seven” there is substituted “ , 37 or 40A ”; and
+
+(b) after subsection (2) there is inserted—
+
+> (2A) A statutory instrument containing an order under section 40A(7) which relates to List A (whether or not it also relates to List B) shall not be made unless a draft of it has been laid before, and approved by a resolution of, each House of Parliament.
+>
+> (2B) A statutory instrument containing an order under section 40A(7) which relates only to List B is subject to annulment in pursuance of a resolution of either House of Parliament.
+
+#### 23 Other offences relating to prison security
+
+(1) After section 40C of the Prison Act 1952 (as substituted for section 40 of that Act by section 22 above) there is inserted—
+
+> **40D Other offences relating to prison security**
+>
+> (1) A person who, without authorisation—
+>
+> (a) takes a photograph, or makes a sound-recording, inside a prison, or
+>
+> (b) transmits, or causes to be transmitted, any image or any sound from inside a prison by electronic communications for simultaneous reception outside the prison,
+>
+> is guilty of an offence.
+>
+> (2) It is immaterial for the purposes of subsection (1)(a) where the recording medium is located.
+>
+> (3) A person who, without authorisation—
+>
+> (a) brings or otherwise conveys a restricted document out of a prison or causes such a document to be brought or conveyed out of a prison, or
+>
+> (b) transmits, or causes to be transmitted, a restricted document (or any information derived from a restricted document) from inside a prison by means of electronic communications,
+>
+> is guilty of an offence.
+>
+> (4) In proceedings for an offence under this section it is a defence for the accused to show that—
+>
+> (a) he reasonably believed that he had authorisation to do the act in respect of which the proceedings are brought, or
+>
+> (b) in all the circumstances there was an overriding public interest which justified the doing of that act.
+>
+> (5) A person guilty of an offence under this section is liable—
+>
+> (a) on conviction on indictment, to imprisonment for a term not exceeding two years or to a fine (or both); or
+>
+> (b) on summary conviction, to imprisonment for a term not exceeding 12 months or to a fine not exceeding the statutory maximum (or both).
+>
+> **40E Section 40D: meaning of “authorisation” and other interpretation**
+>
+> (1) In section 40D (and the following provisions of this section) “authorisation” means authorisation given for the purposes of that section—
+>
+> (a) in relation to all prisons or prisons of a specified description, by prison rules or by the Secretary of State;
+>
+> (b) in relation to a particular prison—
+>
+> (i) by the Secretary of State;
+>
+> (ii) by the governor or director of the prison;
+>
+> (iii) by a person working at the prison who is authorised by the governor or director to grant authorisation on his behalf.
+>
+> In paragraph (a) “specified” means specified in the authorisation.
+>
+> (2) Authorisation may be given—
+>
+> (a) to persons generally or to specified persons or persons of a specified description; and
+>
+> (b) on such terms as may be specified.
+>
+> In this subsection “specified” means specified in the authorisation.
+>
+> (3) Authorisation given by or on behalf of the governor or director of a prison must be in writing.
+>
+> (4) In section 40D “restricted document” means the whole (or any part of)—
+>
+> (a) a photograph taken inside the prison;
+>
+> (b) a sound-recording made inside the prison;
+>
+> (c) a personal record (or a document containing information derived from a personal record);
+>
+> (d) any other document which contains—
+>
+> (i) information relating to an identified or identifiable relevant individual, if the disclosure of that information would or might prejudicially affect the interests of that individual; or
+>
+> (ii) information relating to any matter connected with the prison or its operation, if the disclosure of that information would or might prejudicially affect the security or operation of the prison.
+>
+> (5) In subsection (4)—
+>
+> - “personal record” means any record which is required by prison rules to be prepared and maintained in relation to any prisoner (and it is immaterial whether or not the individual concerned is still a prisoner at the time of any alleged offence);
+>
+> - “relevant individual” means an individual who is or has at any time been—
+>
+>   - (a) a prisoner or a person working at the prison; or
+>   - (b) a member of such a person's family or household.
+>
+> (6) In section 40D and this section—
+>
+> - “document” means anything in which information is recorded (by whatever means);
+> - “electronic communications” has the same meaning as in the Electronic Communications Act 2000 (c. 7);
+> - “photograph” means a recording on any medium on which an image is produced or from which an image (including a moving image) may by any means be produced; and
+> - “sound-recording” means a recording of sounds on any medium from which the sounds may by any means be reproduced.
+
+(2) Section 41 of the Prison Act 1952 (c. 52) (unlawful introduction of other articles) ceases to have effect.
+
+(3) In section 42 (display of notice of penalties) for “the three last preceding sections” there is substituted “ sections 39 to 40D ”.
+
+#### 24 Offences under sections 40B to 40D of the Prison Act 1952: extension of Crown immunity
+
+After section 40E of the Prison Act 1952 (as inserted by section 22 above) there is inserted—
+
+> **40F Offences under sections 40B to 40D: extension of Crown immunity**
+>
+> (1) An individual who—
+>
+> (a) works at a prison;
+>
+> (b) does not do that work as a servant or agent of the Crown; and
+>
+> (c) has been designated by the Secretary of State for the purposes of this section,
+>
+> shall be treated for the purposes of the application of sections 40B to 40D as if he were doing that work as a servant or agent of the Crown.
+>
+> (2) A designation for the purposes of this section may be given—
+>
+> (a) in relation to persons specified in the designation or persons of a description so specified; and
+>
+> (b) in relation to all work falling within subsection (1)(a) or only in relation to such activities as the designation may provide.
+
+### Other amendments of the Prison Act 1952
+
+#### 25 Removal of requirement to appoint a medical officer etc
+
+(1) It is no longer a requirement for there to be a medical officer appointed under section 7(1) of the Prison Act 1952 for each prison (and, accordingly, in section 7(1) the words “and a medical officer” are omitted).
+
+(2) In section 128(5) of the Criminal Justice and Public Order Act 1994 (c. 33) (pay and conditions for the prison service), for paragraph (a) there is substituted—
+
+> (a) hold any post, other than as chaplain or assistant chaplain, to which they have been appointed for the purposes of section 7 of the Prison Act 1952;
+>
+> (aa) hold any post, other than as chaplain or assistant chaplain or as a medical officer, to which they have been appointed for the purposes of section 2(2) of the Prison Act (Northern Ireland) 1953;
+
+.
+
+(3) Sections 17 (painful tests applied by the medical officer) and 28(5) (duties of the medical officer in relation to certain prisoners) of the Prison Act 1952 (c. 52) cease to have effect.
+
+#### 26 Independent monitoring boards
+
+(1) The boards appointed under section 6 of the Prison Act 1952 (boards of visitors) are renamed as independent monitoring boards.
+
+(2) Accordingly, in section 6 of that Act—
+
+(a) for the sidenote there is substituted “ Independent monitoring boards ”;
+
+(b) in subsection (2), for “board of visitors” there is substituted “ group of independent monitors ”;
+
+(c) after subsection (2) there is inserted—
+
+> (2A) The groups so appointed are to be known as independent monitoring boards.
+
+; and
+
+(d) in subsection (3), for “boards of visitors” there is substituted “ independent monitoring boards ” and for “a board of visitors” there is substituted “ an independent monitoring board ”.
+
+(3) In section 6(2) of that Act the words from “of whom” to the end cease to have effect.
+
+#### 27 Amendment of section 8A of the Prison Act 1952
+
+(1) Section 8A of the Prison Act 1952 (powers of search by authorised employees at a directly managed prison) is amended as follows.
+
+(2) In the side note, for “employees” there is substituted “ persons ”.
+
+(3) In subsections (1) and (2), for “employee” there is substituted “ person ”.
+
+(4) In subsection (3)—
+
+(a) for “authorised employee” there is substituted “ authorised person ”; and
+
+(b) for “an employee” there is substituted “ a person working at the prison, ”.
+
+## Part 3 — Other provisions about the management of offenders
+
+### Polygraph conditions for certain offenders released on licence
+
+#### 28 Application of polygraph condition
+
+(1) The Secretary of State may include a polygraph condition in the licence of a person to whom this section applies [[^F21](see subsections (2), (2A) and (2B))].
+
+(2) This section applies to a person serving a relevant custodial sentence in respect of [^F22]a relevant sexual offence [[^F22]an offence within subsection (3A)] [[^F23]or a relevant terrorist offence] who—
+
+(a) is released on licence by the Secretary of State under any enactment; and
+
+(b) is not aged under 18 on the day on which he is released.
+
+[[^F24](2A) This section also applies to a person serving a relevant custodial sentence in respect of an offence of murder who—
+
+(a) the Secretary of State considers poses a risk of committing a relevant sexual offence on release,
+
+(b) is released on licence by the Secretary of State under any enactment, and
+
+(c) is aged 18 or over on the day the person is released.
+
+(2B) This section also applies to a person serving a relevant custodial sentence in respect of an offence who—
+
+(a) at any earlier time during that sentence was concurrently serving a relevant custodial sentence in respect of a relevant sexual offence,
+
+(b) is released on licence by the Secretary of State under any enactment, and
+
+(c) is aged 18 or over on the day the person is released.]
+
+(3) In this section “relevant custodial sentence” means—
+
+[[^F25](a) a life sentence within the meaning of Chapter 2 of Part 2 of the Crime (Sentences) Act 1997 (see section 34(2) of that Act), or]
+
+[[^F25](b) a fixed-term sentence within the meaning of Chapter 6 of Part 12 of the Criminal Justice Act 2003 (see section 237 of that Act) of a term of 12 months or more.]
+
+[[^F26](3A) An offence is within this subsection if it is—
+
+(a) a relevant offence involving domestic abuse (see subsections (3B) and (3C)), or
+
+(b) a relevant sexual offence (see subsection (4)).
+
+(3B) In this section “relevant offence involving domestic abuse” means—
+
+(a) an offence listed in subsection (3C) which involved behaviour by the offender amounting to domestic abuse within the meaning of the Domestic Abuse Act 2021 (see section 1 of that Act);
+
+(b) an offence under section 39 of that Act (breach of domestic abuse protection order).
+
+(3C) The offences are—
+
+(a) murder;
+
+(b) an offence under section 5 of the Protection from Harassment Act 1997 (breach of a restraining order);
+
+(c) an offence specified in Part 1 of Schedule 15 to the Criminal Justice Act 2003 (specified violent offences);
+
+(d) an offence under section 76 of the Serious Crime Act 2015 (controlling or coercive behaviour in an intimate or family relationship).]
+
+(4) In this section “relevant sexual offence” [[^F27]means an offence specified in any one or more of—]
+
+[[^F27](a) Schedule 3 to the Sexual Offences Act 2003 (sexual offences attracting notification requirements),]
+
+[[^F27](b) Part 2 of Schedule 15 to the Criminal Justice Act 2003 (sexual offences under the law of England and Wales specified for certain purposes),]
+
+[[^F27](c) paragraphs 1 to 21 of Schedule 16 to that Act (sexual offences under the law of Scotland specified for certain purposes), as that Schedule had effect immediately before its repeal on 14 July 2008, and]
+
+[[^F27](d) Part 2 of Schedule 17 to that Act (sexual offences under the law of Northern Ireland specified for certain purposes), as that Schedule had effect immediately before its repeal on 14 July 2008.]
+
+[[^F28](4ZA) In determining for the purposes of subsection (4) whether an offence is specified in Schedule 3 to the Sexual Offences Act 2003, any limitation in that Schedule referring to the circumstances of a particular case (including the sentence imposed) is to be disregarded.]
+
+[[^F29](4A) In this section “relevant terrorist offence” means—
+
+(a) an offence that is specified in Part 1 or 2 of Schedule 19ZA to the Criminal Justice Act 2003 (terrorism offences carrying restricted eligibility for release on licence),
+
+(b) [^F30]... [^F31]...
+
+(c) an offence that was determined to have a terrorist connection [[^F32], or
+
+(d) an offence within any of subsections (4BA) to (4BC) which the Secretary of State is satisfied—
+
+(i) was, or took place in the course of, an act of terrorism, or
+
+(ii) was committed for the purposes of terrorism.]
+
+(4B) In subsection (4A)—
+
+[^F33]a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) paragraph (c) is to be read in accordance with section 247A(7A) of the Criminal Justice Act 2003 (meaning of offences determined to have a terrorist connection);]
+
+[[^F34](c) in paragraph (d) “terrorism” has the same meaning as in the Terrorism Act 2000 (see section 1 of that Act).]
+
+[[^F35](4BA) An offence is within this subsection if—
+
+(a) it was committed before 18 June 2009,
+
+(b) it was punishable with imprisonment for more than 2 years, and
+
+(c) it is not specified in Schedule A1 to the Sentencing Code (and, in the case of a service offence, the corresponding offence is not so specified).
+
+(4BB) An offence is within this subsection if—
+
+(a) it was committed on or after 18 June 2009 but before 29 June 2021,
+
+(b) it was punishable with imprisonment for more than 2 years,
+
+(c) it is not specified in Schedule A1 to the Sentencing Code,
+
+(d) it was not an offence in relation to which section 30 or 31 of the Counter-Terrorism Act 2008 or section 69 of the Sentencing Code applied (and was not an offence in relation to which section 31 of the Counter-Terrorism Act 2008 would have applied if paragraph (b) of subsection (1) of that section were omitted), and
+
+(e) it is not a service offence.
+
+(4BC) An offence is within this subsection if—
+
+(a) it is a service offence,
+
+(b) it was committed on or after 18 June 2009 but before any day specified for the coming into force of section 1 of the Counter-Terrorism and Sentencing Act 2021 for the purposes of section 69 of the Sentencing Code as applied by section 238 of the Armed Forces Act 2006,
+
+(c) it was punishable with imprisonment for more than 2 years,
+
+(d) it was not an offence in relation to which section 32 of the Counter-Terrorism Act 2008 or section 69 of the Sentencing Code applied, and
+
+(e) the corresponding offence is not specified in Schedule A1 to the Sentencing Code.]
+
+[[^F36](4C) A sentence in respect of a service offence is to be treated for the purposes of this section [[^F37](except subsections (4BA) to (4BC))] as if it were a sentence in respect of the corresponding offence.
+
+(4D) In [[^F38]subsections (4BA) to (4C)]—
+
+(a) “service offence” means an offence under—
+
+(i) section 42 of the Armed Forces Act 2006,
+
+(ii) section 70 of the Army Act 1955 or the Air Force Act 1955, or
+
+(iii) section 42 of the Naval Discipline Act 1957;
+
+(b) “corresponding offence” means—
+
+(i) in relation to an offence under section 42 of the Armed Forces Act 2006, the corresponding offence under the law of England and Wales within the meaning of that section;
+
+(ii) in relation to an offence under section 70 of the Army Act 1955 or the Air Force Act 1955, the corresponding civil offence within the meaning of that Act;
+
+(iii) in relation to an offence under section 42 of the Naval Discipline Act 1957, the civil offence within the meaning of that section.
+
+(4E) Section 48 of the Armed Forces Act 2006 (supplementary provisions relating to ancillary service offences) applies for the purposes of subsection (4D)(b)(i) above as it applies for the purposes of the provisions of that Act referred to in subsection (3)(b) of that section.]
+
+(5) In section 250(4) of the Criminal Justice Act 2003 (licence conditions for prisoners serving sentences of imprisonment of twelve months or more etc), in paragraph (b)(i) after “Criminal Justice and Court Services Act 2000” there is inserted “ or section 28 of the Offender Management Act 2007 ”.
+
+#### 29 Effect of polygraph condition
+
+(1) For the purposes of section 28, a polygraph condition is a condition which requires the released person—
+
+(a) to participate in polygraph sessions conducted with a view to—
+
+(i) monitoring his compliance with the other conditions of his licence; or
+
+(ii) improving the way in which he is managed during his release on licence;
+
+(b) to participate in those polygraph sessions at such times as may be specified in instructions given by an appropriate officer; and
+
+(c) while participating in a polygraph session, to comply with instructions given to him by the person conducting the session (“the polygraph operator”).
+
+(2) A polygraph session is a session during which the polygraph operator—
+
+(a) conducts one or more polygraph examinations of the released person; and
+
+(b) interviews the released person in preparation for, or otherwise in connection with, any such examination.
+
+(3) For the purposes of subsection (2), a polygraph examination is a procedure in which—
+
+(a) the polygraph operator questions the released person;
+
+(b) the questions and the released person's answers are recorded; and
+
+(c) physiological reactions of the released person while being questioned are measured and recorded by means of equipment of a type approved by the Secretary of State.
+
+(4) In subsection (1)(b) “appropriate officer” means an officer of a provider of probation services or an officer of a local probation board.
+
+(5) An appropriate officer giving instructions as mentioned in subsection (1)(b) must have regard to any guidance issued by the Secretary of State.
+
+(6) The Secretary of State may make rules relating to the conduct of polygraph sessions.
+
+(7) The rules may, in particular—
+
+(a) require polygraph operators to be persons who satisfy such requirements as to qualifications, experience and other matters as are specified in the rules;
+
+(b) make provision about the keeping of records of polygraph sessions; and
+
+(c) make provision about the preparation of reports on the results of polygraph sessions.
+
+[[^F39](7A) Rules under subsection (6) may make—
+
+(a) different provision for different purposes or different areas;
+
+(b) incidental, supplemental, consequential, saving or transitional provision.]
+
+(8) The power to make rules under subsection (6) is exercisable by statutory instrument subject to annulment in pursuance of a resolution of either House of Parliament.
+
+#### 30 Use in criminal proceedings of evidence from polygraph sessions
+
+(1) Evidence of any matter mentioned in subsection (2) may not be used in any proceedings against a released person for an offence.
+
+(2) The matters so excluded are—
+
+(a) any statement made by the released person while participating in a polygraph session; and
+
+(b) any physiological reactions of the released person while being questioned in the course of a polygraph examination.
+
+(3) In this section “polygraph examination” and “polygraph session” have the same meaning as in section 29.
+
+### Accreditation of programmes
+
+#### [^F40]31 Accreditation of programmes for purposes of programme requirements
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Young offenders
+
+#### 32 Functions of Youth Justice Board
+
+(1) Section 41 of the Crime and Disorder Act 1998 (c. 37) (the Youth Justice Board) is amended as follows.
+
+(2) In subsection (5), after paragraph (j) there is inserted—
+
+> (ja) at the request of the Secretary of State, to assist him in carrying out his functions in relation to the release of offenders detained in accommodation which is youth detention accommodation, within the meaning given by section 107(1) of the Powers of Criminal Courts (Sentencing) Act 2000;
+
+.
+
+(3) After subsection (6) there is inserted—
+
+> (6A) The power of the Secretary of State under subsection (6)(b) includes power—
+>
+> (a) to provide that, in relation to any function of his that is exercisable in respect of particular cases, the function is to be exercisable by the Board only—
+>
+> (i) where it proposes to exercise the function in a particular manner, or
+>
+> (ii) in respect of a class of case specified in the order, and
+>
+> (b) to make any supplementary, incidental or consequential provision (including provision for any enactment to apply subject to modifications).
+
+#### [^F41]33 Detention and training orders: early release
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F42]34 Accommodation in which period of detention and training to be served
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 35 Escort arrangements
+
+(1) Schedule 1 to the Criminal Justice and Public Order Act 1994 (c. 33) (escort arrangements: England and Wales) is amended as follows.
+
+(2) In the heading to paragraph 1, for “offenders detained at secure training centres” there is substituted “ persons detained in youth detention accommodation ”.
+
+(3) In paragraph 1 (arrangements for the escort of offenders detained at secure training centres)—
+
+(a) in sub-paragraph (1), for “offenders” in paragraphs (a) and (b) there is substituted “ detained persons ” and for paragraphs (c) and (d) there is substituted—
+
+> (c) the custody of detained persons temporarily held in youth detention accommodation in the course of delivery from one such place of accommodation to another; and
+>
+> (d) the custody of detained persons while they are outside a place of youth detention accommodation for temporary purposes,
+
+, and
+
+(b) in sub-paragraph (2), for “a court, secure training centre” there is substituted “ a place of youth detention accommodation or a court ”.
+
+(4) In paragraph 4 (interpretation)—
+
+(a) before the definition of “escort arrangements” there is inserted—
+
+> “detained person” means a person remanded or committed to accommodation which is youth detention accommodation or detained in any such accommodation pursuant to a sentence or order requiring the person to be detained;
+
+, and
+
+(b) the definitions of “offender” and “secure training centre” are omitted.
+
+## Part 4 — Supplemental
+
+### 36 Orders and regulations
+
+(1) Any power of the Secretary of State to make an order or regulations under this Act is exercisable by statutory instrument.
+
+(2) An order or regulations under this Act may make—
+
+(a) different provision for different purposes or different areas;
+
+(b) incidental, supplemental, consequential, saving or transitional provision.
+
+(3) A statutory instrument containing an order or regulations under—
+
+(a) section 5(3)(c),
+
+[[^F43](aa) section 13A(8),]
+
+(b) section 14(2)(h) or (7),
+
+(c) section 15, or
+
+(d) section 38(2)(a),
+
+may not be made unless a draft of it has been laid before and approved by a resolution of each House of Parliament.
+
+(4) A statutory instrument containing any other order or regulations under this Act is subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(5) In this section references to an order do not include an order under section 41.
+
+### 37 Financial provisions
+
+There is to be paid out of money provided by Parliament—
+
+(a) any sums required by the Secretary of State in connection with the making and implementation of arrangements for the provision of probation services under section 3;
+
+(b) any other expenditure incurred by the Secretary of State by virtue of this Act;
+
+(c) any increase attributable to this Act in the sums payable by virtue of any other Act out of money so provided.
+
+### 38 Power to make consequential and transitional provision etc
+
+(1) The Secretary of State may by order make—
+
+(a) any supplemental, incidental or consequential provision which he considers necessary or expedient for the purposes of, in consequence of, or for giving full effect to any provision of this Act, and
+
+(b) any transitory, transitional or saving provision which he considers appropriate in connection with the coming into force of any provision of this Act.
+
+(2) An order under subsection (1) may, in particular—
+
+(a) amend, repeal or revoke any enactment;
+
+(b) provide for any provision of this Act which comes into force before another provision has come into force to have effect, until that other provision has come into force, with specified modifications.
+
+(3) In subsection (2)(a) “enactment” includes any provision contained in—
+
+(a) an Act or subordinate legislation,
+
+(b) an Act of the Scottish Parliament or any instrument made under such an Act, and
+
+(c) Northern Ireland legislation or any instrument made under Northern Ireland legislation,
+
+which is passed or made before the end of the Session after that in which this Act is passed.
+
+(4) In subsection (3) “subordinate legislation” and “Northern Ireland legislation” have the same meaning as in the Interpretation Act 1978 (c. 30).
+
+(5) The amendments that may be made by virtue of subsection (2)(a) are in addition to those made by or under any other provision of this Act.
+
+(6) Nothing in this section limits the power under section 41(3) to include transitional or saving provision in a commencement order.
+
+### 39 Minor and consequential amendments, transitionals, and repeals
+
+Schedules 3 (minor and consequential amendments), 4 (transitional and transitory provisions and savings) and 5 (repeals) have effect.
+
+### 40 Extent
+
+(1) Subject as follows, the preceding provisions of this Act extend to England and Wales only.
+
+(2) Sections 36 and 38 extend also to Northern Ireland and Scotland.
+
+(3) Any amendment or repeal made by this Act has the same extent as the provision to which it relates.
+
+### 41 Commencement
+
+(1) The preceding provisions of this Act come into force on such day as the Secretary of State may appoint by order made by statutory instrument.
+
+(2) Different provision may be made under this section for different purposes and for different areas.
+
+(3) An order under this section may contain transitional provisions or savings relating to the provisions being brought into force by the order.
+
+(4) An order under this section bringing anything in sections 28 and 29 into force, other than an order which makes the provision permitted by subsection (5)(a) or (6), may not be made unless a draft of the statutory instrument containing the order has been laid before, and approved by a resolution of, each House of Parliament.
+
+(5) An order which brings those sections into force only in relation to a specified area may—
+
+(a) provide that they are to be in force in relation to that area only for a specified period; and
+
+(b) make transitional provisions or savings relating to those sections' ceasing to be in force at the end of the specified period.
+
+(6) An order containing the provision permitted by subsection (5)(a) may be amended by a subsequent order under this section so as to continue those sections in force in relation to the area concerned for a further specified period.
+
+### 42 Short title
+
+This Act may be cited as the Offender Management Act 2007.
+
+## SCHEDULE 1 — Probation trusts: further provisions
+
+*Section 5(6)*
+
+### Name and status
+
+**1** (1) A probation trust is a body corporate.
+
+(2) The name of the trust is that specified in the order establishing it.
+
+**2** A probation trust is not to be regarded as the servant or agent of the Crown or as enjoying any status, privilege or immunity of the Crown (and, accordingly, its property is not to be regarded as property of, or property held on behalf of, the Crown).
+
+### Membership and terms of appointment
+
+**3** (1) A probation trust shall consist of—
+
+(a) a chairman and not less than four other members appointed by the Secretary of State; and
+
+(b) the chief executive.
+
+(2) In the following provisions “appointed member” means a member of a probation trust appointed by the Secretary of State under sub-paragraph (1)(a) (including the chairman, where the context allows).
+
+(3) Where practicable, at least one of the appointed members of a probation trust must, when appointed, be a member of a relevant local authority.
+
+(4) For the purposes of sub-paragraph (3) “relevant local authority” means—
+
+(a) a county council, district council or parish council in England, a London Borough council, the Common Council of the City of London or the Council of the Isles of Scilly; or
+
+(b) a county council, county borough council or community council in Wales.
+
+**4** (1) An appointed member holds and vacates office (and may be removed from office) in accordance with the terms of his appointment.
+
+(2) An appointed member may resign by giving notice in writing to the Secretary of State.
+
+### Remuneration etc of members
+
+**5** (1) The Secretary of State shall—
+
+(a) pay appointed members such remuneration, fees and expenses as may be determined by him; and
+
+(b) pay, or make provision for paying, any person who is or has been an appointed member such pensions, allowances or gratuities as may be so determined.
+
+(2) If the Secretary of State determines that there are special circumstances that make it right for a person ceasing to hold office as an appointed member (otherwise than on the expiration of his term of office) to receive compensation, the Secretary of State may pay an amount of compensation determined by him to that person.
+
+### Chief executive and other employees
+
+**6** (1) A probation trust shall have a chief executive appointed by the appointed members.
+
+(2) The terms of employment of the chief executive are for the appointed members to determine.
+
+(3) Sub-paragraphs (1) and (2) do not apply to—
+
+(a) the appointment of the first chief executive of the trust, or
+
+(b) the determination of the terms of employment applicable to the first chief executive when his appointment takes effect,
+
+if the Secretary of State directs that the first chief executive is to be a person appointed by the Secretary of State on terms determined by the Secretary of State.
+
+**7** (1) A probation trust may appoint such employees (in addition to the chief executive) as it thinks appropriate.
+
+(2) The terms of employment of employees so appointed are for the trust to determine.
+
+**8** The determination of terms of employment under paragraph 6(2) or 7(2) relating to—
+
+(a) remuneration, fees or expenses, and
+
+(b) pensions, allowances or gratuities,
+
+requires the approval of the Secretary of State.
+
+### Proceedings and delegation
+
+**9** A probation trust may regulate its own procedure (including quorum).
+
+**10** The validity of any proceedings of a probation trust is not affected by a vacancy among its members or by a defect in the appointment of any member.
+
+**11** (1) A probation trust may authorise an appointed member, a committee, the chief executive or any other member of staff to do anything (including exercising the power under this paragraph) that the trust would otherwise have to do itself.
+
+(2) For this purpose “committee” means a committee or sub-committee of the trust, including one that includes persons who are not members of the trust.
+
+(3) Authorisation under this paragraph may be general or specific.
+
+### General powers
+
+**12** (1) A probation trust has power to do anything (including acquiring and disposing of property and accepting gifts) which appears to it to facilitate, or to be conducive or incidental to—
+
+(a) the achievement of its purposes; or
+
+(b) the performance of any functions conferred on it by any enactment (whenever passed or made).
+
+(2) But a probation trust—
+
+(a) may not hold land (though it may manage land held by another);
+
+(b) may not—
+
+(i) borrow money, whether by way of overdraft or otherwise; or
+
+(ii) invest sums not immediately required for achieving its purposes,
+
+without the approval of the Secretary of State.
+
+(3) Approval under sub-paragraph (2)(b) may be general or specific.
+
+(4) In this paragraph “enactment” includes subordinate legislation (within the meaning of the Interpretation Act 1978 (c. 30)).
+
+### Accounts and records
+
+**13** (1) A probation trust must—
+
+(a) keep proper accounts and proper records in relation to the accounts;
+
+(b) prepare in respect of each financial year a statement of accounts.
+
+[[^F44](2) The Comptroller and Auditor General may examine any accounts of a probation trust, any records relating to the accounts and any auditor’s report on them.]
+
+(3) The Auditor General for Wales may examine any accounts of a Welsh probation trust, any records relating to the accounts and any auditor's report on them.
+
+[^F45]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) In the Public Audit (Wales) Act 2004 (c. 23)—
+
+(a) in section 12(1) (local government bodies in Wales), after paragraph (i) there is inserted—
+
+> (j) a Welsh probation trust (as defined by paragraph 13(6) of Schedule 1 to the Offender Management Act 2007).
+
+;
+
+(b) in section 24(2) (consideration of reports in public interest), after paragraph (d) there is inserted—
+
+> (e) a probation trust.
+
+; and
+
+(c) in section 25(3) (procedure for consideration of reports etc), after paragraph (d) there is inserted—
+
+> (e) a probation trust.
+
+(6) In this paragraph—
+
+- “financial year”, in relation to a probation trust, means a period of 12 months ending with 31st March (except that its first financial year is the period beginning with the date on which it is established and ending with the next following 31st March); and
+- “Welsh probation trust” means a probation trust which is for the time being designated as such by the order establishing it under section 5(1).
+
+### Duty to comply with directions
+
+**14** (1) A probation trust must comply with any general or specific directions given to it by the Secretary of State in connection with the carrying on of any of its activities.
+
+(2) In particular, a probation trust must provide the Secretary of State with any information relating to the performance of its activities as he may from time to time direct.
+
+(3) Different directions may be given under this paragraph for different purposes and in relation to different probation trusts.
+
+## SCHEDULE 2 — Transfers of property etc and staff in connection with probation services arrangements
+
+*Section 11(2)*
+
+### Transfer schemes: preliminary
+
+**1** (1) A property transfer scheme or a staff transfer scheme may be made for the purposes of or in connection with—
+
+(a) the abolition of a local probation board;
+
+(b) the implementation or termination of any arrangements made by the Secretary of State under section 3(2) or (5); or
+
+(c) the implementation or termination of any arrangements mentioned in section 3(3)(c) for anything to be done on behalf of a provider of probation services.
+
+(2) In this Schedule—
+
+- “property” includes rights and interests of any description (other than those under a contract of employment);
+
+- “property transfer scheme” means a scheme under paragraph 2;
+
+- “relevant person” means—
+
+  - (a) a probation trust;
+  - (b) any other provider of probation services; or
+  - (c) a person with whom any arrangements mentioned in sub-paragraph (1)(c) are made;
+
+- “staff transfer scheme” means a scheme under paragraph 5.
+
+### Property transfer schemes
+
+**2** (1) The Secretary of State may make a scheme (“the scheme”) providing for—
+
+(a) the transfer to the Secretary of State of—
+
+(i) the property and liabilities of a local probation board; or
+
+(ii) any property or liabilities of a relevant person; or
+
+(b) the transfer to a relevant person of any property or liabilities of the Secretary of State (whether or not after an initial transfer to him under paragraph (a)).
+
+(2) The scheme may—
+
+(a) create rights or interests, or impose liabilities or conditions, in relation to anything transferred or acquired by virtue of the scheme;
+
+(b) provide for the Secretary of State or any other person nominated by or in accordance with the scheme to determine any matter requiring determination under or in consequence of the scheme;
+
+(c) make supplementary, incidental, transitional and consequential provision.
+
+(3) Any property or liability that is the subject of the scheme is, by virtue of this paragraph, transferred at the time appointed by or under the scheme.
+
+(4) A certificate issued by the Secretary of State that any property or liability has, or has not, been transferred by virtue of the scheme is conclusive evidence of the transfer or the fact that it has not been transferred (as the case may be).
+
+**3** (1) This paragraph applies where a property transfer scheme is made.
+
+(2) The scheme has effect despite any provision, of whatever nature, which would otherwise prevent, penalise or restrict the transfer of anything that is the subject of the scheme.
+
+(3) A right of pre-emption, right of reverter or other similar right shall not operate or become exercisable as a result of any transfer of property by virtue of the scheme (but shall have effect after the transfer as if the transferee and the transferor were the same person and no transfer had taken place).
+
+(4) Such compensation as is just is to be paid to any person in respect of any right which would, apart from sub-paragraph (3), have operated in favour of, or become exercisable by, that person but which (in consequence of that sub-paragraph), cannot subsequently operate in his favour or become exercisable by him.
+
+(5) Any such compensation is to be paid by the transferor, by the transferee or by both.
+
+(6) The scheme may provide for the determination of disputes as to whether and, if so, how much compensation is to be paid and as to the person by whom or to whom it is to be paid.
+
+(7) This paragraph applies in relation to the creation of rights or interests, or the doing of anything else, in relation to property as it applies in relation to a transfer of property (and references to the transferor and transferee are to be read accordingly).
+
+**4** (1) Anything done by or in relation to the transferor for the purposes of or in connection with anything transferred by a property transfer scheme which is in effect immediately before the transfer is to be treated as if done by or in relation to the transferee.
+
+(2) There may be continued by or in relation to the transferee anything (including legal proceedings) relating to anything so transferred which is in the process of being done by or in relation to the transferor immediately before it is transferred.
+
+(3) A reference to the transferor in any document relating to anything so transferred is to be taken (so far as necessary for the purposes of or in consequence of the transfer) as a reference to the transferee.
+
+(4) References in this paragraph to things done or being done by or in relation to the transferor include a reference to things treated by virtue of any Act or subordinate legislation (within the meaning of the Interpretation Act 1978 (c. 30)) as done or being done by or in relation to the transferor.
+
+### Staff transfer schemes
+
+**5** (1) The Secretary of State may make a scheme (“the scheme”) for—
+
+(a) the transfer of employees of a local probation board to a relevant person or so as to become employed in the civil service of the state;
+
+(b) the transfer of employees of one relevant person to another relevant person or so as to become employed in the civil service of the state;
+
+(c) the transfer of persons employed in the civil service of the state so as to become employees of a relevant person.
+
+(2) The scheme may—
+
+(a) be expressed to apply to any description of person (or, in the case of a transfer from a local probation board or relevant person, all its employees) or to any individual person;
+
+(b) provide for the Secretary of State or any other person nominated by or in accordance with the scheme to determine any matter requiring determination under or in consequence of the scheme;
+
+(c) make supplementary, incidental, transitional and consequential provision.
+
+(3) The scheme may not be made unless any directions about consultation given by the Secretary of State have been complied with in relation to each person to be transferred by virtue of the scheme.
+
+**6** (1) This paragraph applies to an employee of a probation board or a relevant person who is to be transferred to a relevant person by virtue of a staff transfer scheme.
+
+(2) The contract of employment is not terminated by the transfer and has effect from the date of transfer as if originally made between the employee and the transferee.
+
+(3) Where the employee is transferred under the scheme—
+
+(a) all the rights, duties and liabilities of the transferor under or in connection with the contract of employment are by virtue of this sub-paragraph transferred to the transferee on the date of the transfer; and
+
+(b) anything done before that date by, or in relation to, the transferor in respect of that contract or the employee is to be treated from that date as having been done by or in relation to the transferee.
+
+This sub-paragraph does not prejudice the generality of sub-paragraph (2).
+
+(4) But if the employee informs the transferor or the transferee that he objects to the transfer—
+
+(a) sub-paragraphs (2) and (3) do not transfer the contract of employment (or the rights, powers, duties and liabilities under or in connection with it); and
+
+(b) the contract of employment is terminated immediately before the date of transfer.
+
+(5) The employee is not to be treated, for the purposes of the Employment Rights Act 1996 (c. 18), as having been dismissed by the transferor by reason of—
+
+(a) the transfer of the contract of employment under the scheme; or
+
+(b) the termination of the contract of employment under sub-paragraph (4)(b).
+
+(6) In this paragraph “transferor” and “transferee” refer to the employer from whom or to whom the employee is or would be transferred under the scheme.
+
+**7** (1) This paragraph applies where an employee of a probation board or a relevant person is to become employed in the civil service of the state by virtue of a staff transfer scheme.
+
+(2) The employee's period of employment with the transferor counts as a period of employment in his Crown employment and the change of employment does not break the continuity of that employment.
+
+(3) So far as may be consistent with employment in the civil service of the state, the terms and conditions of his employment have effect after the transfer as if they were terms and conditions of his Crown employment.
+
+(4) Where the employee is transferred under the scheme—
+
+(a) all the rights, duties and liabilities of the transferor under or in connection with the contract of employment are by virtue of this sub-paragraph transferred to the Crown on the date of the transfer; and
+
+(b) anything done before that date by, or in relation to, the transferor in respect of that contract or the employee is to be treated from that date as having been done by or in relation to the Crown.
+
+This sub-paragraph does not prejudice the generality of sub-paragraphs (2) and (3).
+
+(5) But if the employee informs the transferor or the Secretary of State that he objects to the transfer—
+
+(a) the transfer shall not take place (and so sub-paragraphs (2) to (4) do not apply); and
+
+(b) the contract of employment is terminated immediately before the date of transfer.
+
+(6) The employee is not to be treated, for the purposes of Part 9 of the Employment Rights Act 1996, as having been dismissed by reason of—
+
+(a) his transfer to Crown employment; or
+
+(b) the termination of the contract of employment by virtue of sub-paragraph (5)(b).
+
+(7) In this paragraph “transferor” refers to the employer from whom the employee is or would be transferred under the scheme.
+
+**8** (1) This paragraph applies to an individual who is to be transferred from employment in the civil service of the state so as to become an employee of a relevant person by virtue of a staff transfer scheme.
+
+(2) The individual's employment is not terminated by the transfer.
+
+(3) The terms and conditions of the individual's Crown employment (so far as consistent with employment under a contract of employment with a person other than the Crown) have effect from the date of transfer as the terms and conditions of a contract of employment originally made between the individual and the transferee.
+
+(4) Where the individual is transferred under the scheme—
+
+(a) all the rights, duties and liabilities of the Crown under or in connection with his employment are by virtue of this sub-paragraph transferred to the transferee on the date of the transfer; and
+
+(b) anything done before that date by, or in relation to, the Crown in respect of that employment or the individual is to be treated from that date as having been done by or in relation to the transferee.
+
+This sub-paragraph does not prejudice the generality of sub-paragraphs (2) and (3).
+
+(5) But if the individual informs the Secretary of State or the transferee that he objects to the transfer—
+
+(a) the transfer shall not take place (and so sub-paragraphs (2) to (4) do not apply); and
+
+(b) his employment is terminated immediately before the date of transfer.
+
+(6) For the purposes of Part 9 of the Employment Rights Act 1996, the individual is not to be regarded as having been dismissed by reason of—
+
+(a) his transfer from Crown employment under the scheme; or
+
+(b) the termination of his employment by virtue of sub-paragraph (5)(b).
+
+(7) In this paragraph “transferee” refers to the employer to whom the person is or would be transferred under the scheme.
+
+**9** (1) Nothing in this Schedule prejudices any right of an employee to terminate his contract of employment if a substantial change is made to his detriment in his working conditions.
+
+(2) But no such right arises by reason only that (by virtue of paragraph 6, 7 or 8) the identity of his employer changes unless the employee shows that in all the circumstances the change is a significant change and is to his detriment.
+
+**10** (1) Where an employee's contract of employment with—
+
+(a) a local probation board,
+
+(b) a probation trust which is to be dissolved,
+
+is not transferred under a staff transfer scheme, it is terminated immediately before the date on which the board or probation trust ceases to exist (and the employee is to be treated, for the purposes of the Employment Rights Act 1996 (c. 18), as having been dismissed by the board or probation trust).
+
+(2) Sub-paragraph (1) has effect subject to paragraphs 6(5), 7(6) and 8(6).
+
+## SCHEDULE 3 — Minor and consequential amendments
+
+*Section 39*
+
+### Part 1 — New arrangements for the provision of probation services
+
+#### Race Relations Act 1976 (c. 74)
+
+**[^F46]1** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Interpretation Act 1978 (c. 30)
+
+**2** In Schedule 1 to the Interpretation Act 1978 (words and expressions defined) there is inserted, at the appropriate places—
+
+> “Officer of a provider of probation services” in relation to England and Wales, has the meaning given by section 9(1) of the Offender Management Act 2007;” and
+
+> “Provider of probation services”, in relation to England and Wales, has the meaning given by section 3(6) of the Offender Management Act 2007;”.
+
+#### Crime and Disorder Act 1998 (c. 37)
+
+**3** (1) The Crime and Disorder Act 1998 is amended as follows.
+
+(2) In section 38(2) (provision of youth justice services), after paragraph (a) (but before the “and” following it) there is inserted—
+
+> (aa) the Secretary of State in relation to his functions under sections 2 and 3 of the Offender Management Act 2007;
+>
+> (ab) every provider of probation services that is required by arrangements under section 3(2) of the Offender Management Act 2007 to carry out the duty under this subsection in relation to the local authority;
+
+.
+
+(3) In section 39 (youth offending teams)—
+
+(a) in subsection (3), after paragraph (a) (but before the “and” following it) there is inserted—
+
+> (aa) the Secretary of State in relation to his functions under sections 2 and 3 of the Offender Management Act 2007;
+>
+> (ab) every provider of probation services that is required by arrangements under section 3(2) of the Offender Management Act 2007 to carry out the duty under this subsection in relation to the local authority;
+
+; and
+
+(b) in subsection (5)(a), after “board” there is inserted “ or an officer of a provider of probation services ”.
+
+(4) In section 41(10) (the Youth Justice Board) and 42(3) (supplementary provisions), after “probation board” there is inserted “ a provider of probation services ”.
+
+#### Children Act 2004 (c. 31)
+
+**4** (1) The Children Act 2004 is amended as follows.
+
+(2) In section 10(4) (co-operation to improve wellbeing: relevant partners), after paragraph (c) there is inserted—
+
+> (ca) the Secretary of State in relation to his functions under sections 2 and 3 of the Offender Management Act 2007, so far as they are exercisable in relation to England;
+>
+> (cb) any provider of probation services that is required by arrangements under section 3(2) of the Offender Management Act 2007 to act as a relevant partner of the authority;
+
+.
+
+(3) In section 11(1) (persons required to make arrangements to safeguard and promote welfare), after paragraph (j) there is inserted—
+
+> (ja) the Secretary of State in relation to his functions under sections 2 and 3 of the Offender Management Act 2007, so far as they are exercisable in relation to England;
+
+.
+
+(4) In section 13(3) (establishment of LSCBs: Board Partners), after paragraph (c) there is inserted—
+
+> (ca) the Secretary of State in relation to his functions under sections 2 and 3 of the Offender Management Act 2007, so far as they are exercisable in relation to England;
+>
+> (cb) any provider of probation services that is required by arrangements under section 3(2) of the Offender Management Act 2007 to act as a Board partner of the authority;
+
+.
+
+(5) In section 25(4) (co-operation to improve wellbeing in Wales: relevant partners), after paragraph (b) there is inserted—
+
+> (ba) the Secretary of State in relation to his functions under sections 2 and 3 of the Offender Management Act 2007, so far as they are exercisable in relation to Wales;
+>
+> (bb) any provider of probation services that is required by arrangements under section 3(2) of the Offender Management Act 2007 to act as a relevant partner of the authority;
+
+.
+
+(6) In section 28(1) (persons required to make arrangements to safeguard and promote welfare in Wales), after paragraph (f) there is inserted—
+
+> (fa) the Secretary of State in relation to his functions under sections 2 and 3 of the Offender Management Act 2007, so far as they are exercisable in relation to Wales;
+
+.
+
+[^F47]7 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Local Government and Public Involvement in Health Act 2007
+
+**5** (1) [[^F48]Section 104] of the Local Government and Public Involvement in Health Act 2007 (application of Chapter 1 of Part 5: partner authorities) is amended as follows.
+
+(2) In [[^F49]subsection (4)(i)]—
+
+(a) the “and” after sub-paragraph (ii) is omitted;
+
+(b) after sub-paragraph (iii) there is inserted
+
+> ;
+>
+> (iv) his functions under sections 2 and 3 of the Offender Management Act 2007 (responsibility for ensuring the provision of probation services throughout England and Wales).
+
+(3) After subsection (5) there is inserted—
+
+> (5A) The Secretary of State's functions under this Chapter as a partner authority of a local authority in relation to the functions referred to in [[^F50]subsection (4)(i)(iv)] are functions to which section 2(1)(c) of the Offender Management Act 2007 (functions to be performed through arrangements under section 3 of that Act) applies.
+
+### Part 2 — Prisons
+
+#### Prison Act 1952 (c. 52)
+
+**6** In section 19 of the Prison Act 1952 (right of justices to visit prison), in subsection (3) for “visiting committee or the board of visitors” there is substituted “ independent monitoring board ”.
+
+#### Race Relations Act 1976 (c. 74)
+
+**[^F51]7** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Employment Rights Act 1996 (c. 18)
+
+**8** In section 50 of the Employment Rights Act 1996 (right to time off for public duties)—
+
+(a) in subsection (2)(d), for “a board of prison visitors” there is substituted “ an independent monitoring board for a prison ”; and
+
+(b) in subsection (7)(a), for the words from the beginning to “of visitors” there is substituted “ “independent monitoring board” means a board ”.
+
+#### Powers of Criminal Courts (Sentencing) Act 2000 (c. 6)
+
+**[^F52]9** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Freedom of Information Act 2000 (c. 36)
+
+**10** In Part 6 of Schedule 1 to the Freedom of Information Act 2000 (public authorities: other public bodies and offices) there is inserted, in the appropriate place, the following entry— “ Any Independent Monitoring Board established under section 6(2) of the Prison Act 1952. ”
+
+### Part 3 — DTOs: accommodation
+
+#### Prison Act 1952 (c. 52)
+
+**11** (1) Section 49 of the Prison Act 1952 (persons unlawfully at large) is amended as follows.
+
+(2) In subsection (1), for “secure” there is substituted “ youth detention ”.
+
+(3) In subsection (2), for “secure” (in both places it occurs) there is substituted “ youth detention ”.
+
+(4) In subsection (5)—
+
+(a) for “ “secure accommodation”” there is substituted “ “youth detention accommodation” ”, and
+
+(b) in paragraph (c), for “secure” there is substituted “ youth detention ”.
+
+#### Army Act 1955 (3 & 4 Eliz. 2 c. 18)
+
+**12** (1) The Army Act 1955 is amended as follows.
+
+(2) In section 71AA(6)(a) (young service offenders: custodial orders), as amended by paragraph 16(c) of Schedule 7 to the Criminal Justice and Court Services Act 2000 (c. 43), for “secure accommodation” there is substituted “ youth detention accommodation ”.
+
+(3) In paragraph 10(6)(a) of Schedule 5A (powers of court on trial of civilian), as amended by paragraph 18(2)(d) of Schedule 7 to the Criminal Justice and Court Services Act 2000 (c. 43), for “secure accommodation” there is substituted “ youth detention accommodation ”.
+
+#### Air Force Act 1955 (3 & 4 Eliz. 2 c. 19)
+
+**13** (1) The Air Force Act 1955 is amended as follows.
+
+(2) In section 71AA(6)(a) (young service offenders: custodial orders), as amended by paragraph 23(c) of Schedule 7 to the Criminal Justice and Court Services Act 2000, for “secure accommodation” there is substituted “ youth detention accommodation ”.
+
+(3) In paragraph 10(6)(a) of Schedule 5A (powers of court on trial of civilian), as amended by paragraph 25(2)(d) of Schedule 7 to the Criminal Justice and Court Services Act 2000, for “secure accommodation” there is substituted “ youth detention accommodation ”.
+
+#### Naval Discipline Act 1957 (c. 53)
+
+**14** (1) The Naval Discipline Act 1957 is amended as follows.
+
+(2) In section 43AA(6)(a) (young service offenders: custodial orders), as amended by paragraph 30(c) of Schedule 7 to the Criminal Justice and Court Services Act 2000, for “secure accommodation” there is substituted “ youth detention accommodation ”.
+
+(3) In paragraph 10(6)(a) of Schedule 4A (power of court on trial of civilian), as amended by paragraph 32(2)(d) of Schedule 7 to the Criminal Justice and Court Services Act 2000, for “secure accommodation” there is substituted “ youth detention accommodation ”.
+
+#### Crime (Sentences) Act 1997 (c. 43)
+
+**15** (1) Schedule 1 to the Crime (Sentences) Act 1997 (transfer of prisoners within the British Islands) is amended as follows.
+
+(2) In paragraph 8(6)(a), for “secure”, in the first place it occurs, there is substituted “ youth detention ”.
+
+(3) In paragraph 20(1), in the definition of “prison”, for “a young offender institution” there is substituted “ any accommodation which is youth detention accommodation (within the meaning given by section 107(1) of the Powers of Criminal Courts (Sentencing) Act 2000) ”.
+
+#### Crime and Disorder Act 1998 (c. 37)
+
+**16** (1) Section 41(5) of the Crime and Disorder Act 1998 (the Youth Justice Board) is amended as follows.
+
+(2) In paragraph (i) (as it has effect before the commencement of paragraph 154(a) of Schedule 16 to the Armed Forces Act 2006), for sub-paragraph (i) there is substituted—
+
+> (i) youth detention accommodation, within the meaning given by section 107(1) of the Powers of Criminal Courts (Sentencing) Act 2000, for the purpose of detaining persons in respect of whom a detention and training order is made under section 100 of that Act or an order is made under section 104(3)(a) or 105(2) of that Act;
+
+.
+
+(3) In paragraph (i) (as it has effect on or after the commencement of paragraph 154(a) of Schedule 16 to the Armed Forces Act 2006), in sub-paragraph (i) for “secure accommodation” there is substituted “ youth detention accommodation ”.
+
+(4) In paragraph (j) (as it has effect before the commencement of paragraph 154(b) of Schedule 16 to the Armed Forces Act 2006), for sub-paragraph (i) there is substituted—
+
+> (i) youth detention accommodation, within the meaning given by section 107(1) of the Powers of Criminal Courts (Sentencing) Act 2000, to be used for detaining a person in accordance with a determination under section 102(1), 104(3)(a) or 105(2) of that Act, or
+
+.
+
+(5) In paragraph (j) (as it has effect on or after the commencement of paragraph 154(b) of Schedule 16 to the Armed Forces Act 2006), in sub-paragraph (i) for “secure accommodation” there is substituted “ youth detention accommodation ”.
+
+(6) In paragraph (l)(i), for “and sentenced children and young persons” there is substituted “ children and young persons and secure and other accommodation for sentenced children and young persons ”.
+
+#### Armed Forces Act 2006 (c. 52)
+
+**17** (1) The Armed Forces Act 2006 is amended as follows.
+
+(2) In section 214(3) (powers of court to order person to be detained where offence committed during currency of detention and training order) for “secure accommodation” there is substituted “ youth detention accommodation ”.
+
+(3) In section 215(3) (meaning of “secure accommodation” in section 214) for “ “secure accommodation”” there is substituted “ “youth detention accommodation” ”.
+
+### Part 4 — Escort arrangements
+
+#### Imprisonment (Temporary Provisions) Act 1980 (c. 57)
+
+**18** (1) Section 6 of the Imprisonment (Temporary Provisions) Act 1980 (detention in the custody of a constable) is amended as follows.
+
+(2) In subsection (1) for the words from “prison” to “in which” there is substituted “ prison or accommodation which is youth detention accommodation (within the meaning given by section 107(1) of the Powers of Criminal Courts (Sentencing) Act 2000) in which ”.
+
+(3) In subsection (2) for the words from “prison” to “in which” there is substituted “ accommodation in which ”.
+
+#### Criminal Justice and Public Order Act 1994 (c. 33)
+
+**19** The Criminal Justice and Public Order Act 1994 is amended as follows.
+
+**20** In section 9 (powers and duties of custody officers employed at contracted out secure training centres)—
+
+(a) in subsection (1)(a) for “offender” there is substituted “ person ”, and
+
+(b) in subsection (3), for “offenders” there is substituted “ persons ”.
+
+**21** In section 12 (escort arrangements and officers)—
+
+(a) in subsection (1), for “offenders detained at a secure training centre” there is substituted “ persons detained in youth detention accommodation ”, and
+
+(b) in subsection (3), for paragraph (a) there is substituted—
+
+> (a) that he has been approved by the Secretary of State for the purpose of performing any of the following—
+>
+> (i) escort functions;
+>
+> (ii) custodial duties at secure training centres;
+
+.
+
+**22** In the sidenote to section 13 (protection of custody officers at secure training centres), the words “at secure training centres” are omitted.
+
+**23** (1) In section 14(1) (wrongful disclosure of information relating to offenders detained at secure training centres), for “offender detained at a secure training centre” there is substituted “ person detained in youth detention accommodation ”.
+
+(2) In the sidenote to section 14, for “offenders detained at secure training centres” there is substituted “ persons detained in youth detention accommodation ”.
+
+**24** In section 15 (interpretation of sections 7 to 14), after the definition of “sub-contractor” there is inserted—
+
+> “youth detention accommodation” has the meaning given by section 107(1) of the Powers of Criminal Courts (Sentencing) Act 2000.
+
+**25** In paragraph 2(1)(b) of Schedule 1, for “offenders” there is substituted “ detained persons ”.
+
+**26** In paragraph 3 of Schedule 1—
+
+(a) in paragraphs (a) and (b) of sub-paragraph (1), for “offender” there is substituted “ detained person ”, and
+
+(b) in sub-paragraph (3), for “offenders” there is substituted “ detained persons ”.
+
+## SCHEDULE 4 — Transitional and transitory provisions and savings
+
+*Section 39*
+
+### Part 1 — Provisions relating to Part 1
+
+#### Compensation for certain former chief officers of local probation boards
+
+**1** The Secretary of State may pay such compensation as he considers appropriate to any person who—
+
+(a) ceases to hold office as chief officer of a local probation board by virtue of the abolition of the board by virtue of this Part; and
+
+(b) has not been appointed as chief executive of a probation trust before ceasing to hold office as chief officer.
+
+#### Continuity of employment where chief officer is appointed chief executive of a probation trust
+
+**2** (1) If a person who holds office as chief officer of a local probation board is appointed as chief executive of a probation trust, his period of Crown employment in that office (including any period mentioned in section 22(2) of the Criminal Justice and Court Services Act 2000 (c. 43) for former chief probation officers) counts as a period of employment with the probation trust.
+
+(2) In this paragraph “Crown employment” means the employment in which the chief executive of a local probation board was, by virtue of paragraph 3(5) of Schedule 1 to that Act, treated as being employed for the purposes of the Employment Rights Act 1996 (c. 18).
+
+#### General saving for existing functions of the Secretary of State
+
+**3** Nothing in the provisions of Part 1 conferring functions on the Secretary of State affects any other functions of his which are exercisable for any purpose that corresponds to any of the section 1 purposes.
+
+#### Interpretation
+
+**4** Expressions used in this Part of this Schedule have the same meaning as in Part 1.
+
+### Part 2 — Provisions relating to Part 2
+
+#### Penalty for offences under sections 40C & 40D of the Prison Act 1952
+
+**5** In the application of section 40C and 40D of the Prison Act 1952 (c. 52) (inserted by sections 22 and 23) in relation to offences committed before [[^F53]2 May 2022], the reference in subsection (5)(b) of those sections to [[^F54]the general limit in a magistrates’ court] is to be read as a reference to 6 months.
+
+### Part 3 — Provisions relating to Part 3
+
+#### Imprisonment of offenders aged 18 or over but under 21
+
+**6** (1) Sub-paragraph (2) applies if section 35(4)(a) comes into force before the day on which section 61 of the Criminal Justice and Court Services Act 2000 (c. 43) (abolition of sentences of detention in a young offender institution, custody for life, etc.) comes into force (or fully into force).
+
+(2) The provision that may be made by order under section 38(1) includes provision modifying the provision inserted by section 35(4)(a) of this Act with respect to sentences passed, or other things done, at any time before section 61 of that Act comes into force (or fully into force).
+
+#### Remand centres
+
+**7** If section 59 of the Criminal Justice and Court Services Act 2000 (abolition of remand centres) has not come into force (or fully into force) before the coming into force of paragraph 18(2) of Schedule 3, that paragraph has effect until section 59 of the Criminal Justice and Court Services Act 2000 comes into force (or comes fully into force) as if after “prison” (in the second place it occurs) there were inserted “ , remand centre ”.
+
+## SCHEDULE 5 — Repeals
+
+*Section 39*
+
+### Part 1 — Probation services
+
+|  |  |
+|---|---|
+| *Short title and chapter* | *Extent of repeal* |
+| Criminal Justice and Court Services Act 2000 (c. 43) | Sections 1 to 5. In section 6(1), the words from “but” to the end. Sections 8 to 10. In section 18, subsection (2)(b), in subsection (3) the words “a local probation board or” and in subsection (4) the words “a probation committee”. Section 20(2). Section 21(5). Sections 22 and 23. In section 25, the definition of “approved premises”. In section 78, the definition of “local probation board”. Schedule 1. |
+| Local Government and Public Involvement in Health Act 2007 | In [[^F55]section 104(4)] , the word “and” after paragraph [[^F56](i)(ii)] . |
+
+### Part 2 — Prisons
+
+|  |  |
+|---|---|
+| *Short title and chapter* | *Extent of repeal* |
+| Prison Act 1952 (c. 52) | In section 6(2), the words from “of whom” to the end. In section 7, in subsection (1), the words “and a medical officer” and, in subsection (4) the words from “and the medical officer” to the end. Section 17. Section 28(5). Section 41. |
+| Race Relations Act 1976 (c. 74) | In Part 2 of Schedule 1A, the entry relating to a board of visitors for a prison. |
+| Criminal Justice Act 1991 (c. 53) | In section 85, in subsection (2) the words “Subject to subsection (3) below” and subsection (3). |
+| Criminal Justice and Public Order Act 1994 (c. 33) | Section 97(3). In Schedule 10, paragraph 68. |
+| Freedom of Information Act 2000 (c. 36) | In Part 6 of Schedule 1, the entry relating to a board of visitors for a prison. |
+
+### Part 3 — Miscellaneous
+
+|  |  |
+|---|---|
+| *Short title and chapter* | *Extent of repeal* |
+| Criminal Justice and Public Order Act 1994 (c. 33) | In the sidenote to section 13, the words “at secure training centres”. In Schedule 1, in paragraph 4, the word “and” at the end of the definition of “escort arrangements” and the definitions of “offender” and “secure training centre”. |
+| Powers of Criminal Courts (Sentencing) Act 2000 (c. 6) | In section 102(1) the words “or by such other person as may be authorised by him for that purpose”. |
+| Criminal Justice Act 2003 (c. 44) | Section 202(3)(b). |
+
+---
+
+[^F1]: Words in s. 1(1)(b) substituted (1.4.2010) by Criminal Justice and Immigration Act 2008 (c. 4), s. 153(7), Sch. 26 para. 83(a); S.I. 2010/712, art. 3(b)
+[^F2]: Words in s. 1(4) substituted (1.4.2010) by Criminal Justice and Immigration Act 2008 (c. 4), s. 153(7), Sch. 26 para. 83(b); S.I. 2010/712, art. 3(b)
+[^F3]: Words in s. 1(4) substituted (1.12.2020) by Sentencing Act 2020 (c. 17), s. 416(1), Sch. 24 para. 261(2) (with Sch. 27); S.I. 2020/1236, reg. 2
+[^F4]: Words in s. 1(4) substituted (20.3.2015) by Criminal Justice and Courts Act 2015 (c. 2), s. 95(1), Sch. 9 para. 25; S.I. 2015/778, art. 2(1)(c)
+[^F5]: Words in s. 1(4) substituted (1.12.2020) by Sentencing Act 2020 (c. 17), s. 416(1), Sch. 24 para. 261(3) (with Sch. 27); S.I. 2020/1236, reg. 2
+[^F6]: S. 3(6A) inserted (1.6.2014) by Offender Rehabilitation Act 2014 (c. 11), ss. 10, 22(1); S.I. 2014/1287, art. 2(a)
+[^F7]: S. 4(3) inserted (1.6.2014) by Offender Rehabilitation Act 2014 (c. 11), s. 22(1), Sch. 4 para. 8; S.I. 2014/1287, art. 2(d)
+[^F8]: Words in s. 4(3)(a) substituted (1.12.2020) by Sentencing Act 2020 (c. 17), s. 416(1), Sch. 24 para. 262(a) (with Sch. 27); S.I. 2020/1236, reg. 2
+[^F9]: Word in s. 4(3)(a) inserted (11.5.2026) by Sentencing Act 2026 (c. 2), s. 49(1), Sch. 5 para. 10(a) (with s. 34(4)(5)); S.I. 2026/402, reg. 2(b)
+[^F10]: Words in s. 4(3)(b) substituted (1.12.2020) by Sentencing Act 2020 (c. 17), s. 416(1), Sch. 24 para. 262(b) (with Sch. 27); S.I. 2020/1236, reg. 2
+[^F11]: S. 4(3)(c) and word omitted (11.5.2026) by virtue of Sentencing Act 2026 (c. 2), s. 49(1), Sch. 5 para. 10(b) (with s. 34(4)(5)); S.I. 2026/402, reg. 2(b)
+[^F12]: S. 10A inserted (28.6.2022) by Police, Crime, Sentencing and Courts Act 2022 (c. 32), ss. 155, 208(1); S.I. 2022/520, reg. 5(r)
+[^F13]: Words in s. 13(1) inserted (3.10.2022) by Approved Premises (Substance Testing) Act 2022 (c. 27), ss. 1(2), 2(2); S.I. 2022/1013, reg. 3
+[^F14]: S. 13A inserted (3.10.2022) by Approved Premises (Substance Testing) Act 2022 (c. 27), ss. 1(3), 2(2); S.I. 2022/1013, reg. 3
+[^F15]: Word in s. 14(5)(a)(i) omitted (20.3.2015) by virtue of Criminal Justice and Courts Act 2015 (c. 2), s. 95(1), Sch. 9 para. 26(a); S.I. 2015/778, art. 2(1)(c)
+[^F16]: Word in s. 14(5)(a)(ii) inserted (20.3.2015) by Criminal Justice and Courts Act 2015 (c. 2), s. 95(1), Sch. 9 para. 26(b); S.I. 2015/778, art. 2(1)(c)
+[^F17]: S. 14(5)(a)(iii) inserted (20.3.2015) by Criminal Justice and Courts Act 2015 (c. 2), s. 95(1), Sch. 9 para. 26(c); S.I. 2015/778, art. 2(1)(c)
+[^F18]: S. 14(9)(a)(iii) inserted (20.3.2015) by Criminal Justice and Courts Act 2015 (c. 2), s. 95(1), Sch. 10 para. 37(a); S.I. 2015/778, art. 2(1)(d)
+[^F19]: Words in s. 14(9)(a) substituted (20.3.2015) by Criminal Justice and Courts Act 2015 (c. 2), s. 95(1), Sch. 10 para. 37(b); S.I. 2015/778, art. 2(1)(d)
+[^F20]: Words in s. 14(9)(b)(ii) substituted (20.3.2015) by Criminal Justice and Courts Act 2015 (c. 2), s. 95(1), Sch. 10 para. 37(c); S.I. 2015/778, art. 2(1)(d)
+[^F21]: Words in s. 28(1) inserted (29.6.2026) by Crime and Policing Act 2026 (c. 20), ss. 191(2), 255(3)(g)
+[^F22]: Words in s. 28(2) substituted (5.7.2021 in relation to specified areas for the specified period) by Domestic Abuse Act 2021 (c. 17), ss. 76(2), 90(6); S.I. 2021/797, regs. 2(1), 3 (with reg. 4(2))
+[^F23]: Words in s. 28(2) inserted (29.6.2021) by Counter-Terrorism and Sentencing Act 2021 (c. 11), ss. 32(2)(a), 50(2)(q)
+[^F24]: S. 28(2A)(2B) inserted (29.6.2026) by Crime and Policing Act 2026 (c. 20), ss. 191(3), 255(3)(g)
+[^F25]: S. 28(3)(a)(b) substituted for s. 28(3)(a)-(g) (28.6.2022) by Police, Crime, Sentencing and Courts Act 2022 (c. 32), ss. 146(a), 208(5)(p)
+[^F26]: S. 28(3A)-(3C) inserted (5.7.2021 in relation to specified areas for the specified period) by Domestic Abuse Act 2021 (c. 17), ss. 76(4), 90(6); S.I. 2021/797, regs. 2(1), 3 (with reg. 4(2))
+[^F27]: Words in s. 28(4)(a)-(d) substituted (28.6.2022) by Police, Crime, Sentencing and Courts Act 2022 (c. 32), ss. 146(b), 208(5)(p)
+[^F28]: S. 28(4ZA) inserted (28.6.2022) by Police, Crime, Sentencing and Courts Act 2022 (c. 32), ss. 146(c), 208(5)(p)
+[^F29]: S. 28(4A)(4B) inserted (29.6.2021) by Counter-Terrorism and Sentencing Act 2021 (c. 11), ss. 32(2)(b), 50(2)(q)
+[^F30]: S. 28(4A)(b) omitted (28.6.2022) by virtue of Police, Crime, Sentencing and Courts Act 2022 (c. 32), ss. 146(d), 208(5)(p)
+[^F31]: Word in s. 28(4A) omitted (29.6.2026) by virtue of Crime and Policing Act 2026 (c. 20), ss. 191(4)(a), 255(3)(g)
+[^F32]: S. 28(4A)(d) and word inserted (29.6.2026) by Crime and Policing Act 2026 (c. 20), ss. 191(4)(b), 255(3)(g)
+[^F33]: S. 28(4B)(a) omitted (28.6.2022) by virtue of Police, Crime, Sentencing and Courts Act 2022 (c. 32), ss. 146(e), 208(5)(p)
+[^F34]: S. 28(4B)(c) inserted (29.6.2026) by Crime and Policing Act 2026 (c. 20), ss. 191(5), 255(3)(g)
+[^F35]: S. 28(4BA)-(4BC) inserted (29.6.2026) by Crime and Policing Act 2026 (c. 20), ss. 191(6), 255(3)(g)
+[^F36]: S. 28(4C)-(4E) inserted (28.6.2022) by Police, Crime, Sentencing and Courts Act 2022 (c. 32), ss. 146(f), 208(5)(p)
+[^F37]: Words in s. 28(4C) inserted (29.6.2026) by Crime and Policing Act 2026 (c. 20), ss. 191(7), 255(3)(g)
+[^F38]: Words in s. 28(4D) substituted (29.6.2026) by Crime and Policing Act 2026 (c. 20), ss. 191(8), 255(3)(g)
+[^F39]: S. 29(7A) inserted (29.6.2021) by Counter-Terrorism and Sentencing Act 2021 (c. 11), ss. 32(3), 50(2)(q)
+[^F40]: S. 31 repealed (1.12.2020) by Sentencing Act 2020 (c. 17), s. 416(1), Sch. 28 (with ss. 413(4)(5), 416(7), Sch. 27); S.I. 2020/1236, reg. 2
+[^F41]: S. 33 repealed (1.12.2020) by Sentencing Act 2020 (c. 17), s. 416(1), Sch. 28 (with ss. 413(4)(5), 416(7), Sch. 27); S.I. 2020/1236, reg. 2
+[^F42]: S. 34 repealed (1.12.2020) by Sentencing Act 2020 (c. 17), s. 416(1), Sch. 28 (with ss. 413(5), 416(7), Sch. 27); S.I. 2020/1236, reg. 2
+[^F43]: S. 36(3)(aa) inserted (3.10.2022) by Approved Premises (Substance Testing) Act 2022 (c. 27), ss. 1(4), 2(2); S.I. 2022/1013, reg. 3
+[^F44]: Sch. 1 para. 13(2) substituted for Sch. 1 paras. 13(2)-(2B) (21.12.2017) by The Government Resources and Accounts Act 2000 (Audit of Public Bodies) Order 2017 (S.I. 2017/1313), art. 1, Sch. 1 para. 4
+[^F45]: Sch. 1 para. 13(4) omitted (with effect in accordance with art. 4(5) of the amending S.I.) by virtue of The Government Resources and Accounts Act 2000 (Audit of Public Bodies) Order 2012 (S.I. 2012/854), arts. 1, 4(3)
+[^F46]: Sch. 3 para. 1 repealed by 2010 c. 15, Sch. 27 Pt. 1A (as inserted (4.4.2011) by The Equality Act 2010 (Public Authorities and Consequential and Supplementary Amendments) Order 2011 (S.I. 2011/1060), arts. 1(2), 3(3)(a), Sch. 3)
+[^F47]: Sch. 3 para. 4(7) omitted (6.4.2016) by virtue of The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (No. 413), regs. 2(1), 257
+[^F48]: Words in Sch. 3 para. 5(1) substituted (30.12.2007) by Local Government and Public Involvement in Health Act 2007 (c. 28), ss. 118(4)(a), 245(2)
+[^F49]: Words in Sch. 3 para. 5(2) substituted (30.12.2007) by Local Government and Public Involvement in Health Act 2007 (c. 28), ss. 118(4)(b), 245(2)
+[^F50]: Words in Sch. 3 para. 5(3) substituted (30.12.2007) by Local Government and Public Involvement in Health Act 2007 (c. 28), ss. 118(4)(c), 245(2)
+[^F51]: Sch. 3 para. 7 repealed by 2010 c. 15 Sch. 27 Pt. 1A (as inserted (4.4.2011) by The Equality Act 2010 (Public Authorities and Consequential and Supplementary Amendments) Order 2011 (S.I. 2011/1060), arts. 1(2), 3(3)(a), Sch. 3)
+[^F52]: Sch. 3 para. 9 repealed (1.12.2020) by Sentencing Act 2020 (c. 17), s. 416(1), Sch. 28 (with ss. 413(4)(5), 416(7), Sch. 27); S.I. 2020/1236, reg. 2
+[^F53]: Words in Sch. 4 para. 5 substituted (28.4.2022) by The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500), regs. 1(2), 5(1), Sch. Pt. 1
+[^F54]: Words in Sch. 4 para. 5 substituted (7.2.2023 at 12.00 p.m.) by The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149), regs. 1(2), 2(1), Sch. Pt. 1
+[^F55]: Words in Sch. 5 Pt. 1 substituted (30.12.2007) by Local Government and Public Involvement in Health Act 2007 (c. 28), ss. 118(5)(a), 245(2)
+[^F56]: Word in Sch. 5 Pt. 1 substituted (30.12.2007) by Local Government and Public Involvement in Health Act 2007 (c. 28), ss. 118(5)(b), 245(2)

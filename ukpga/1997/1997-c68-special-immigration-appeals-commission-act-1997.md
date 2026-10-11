@@ -1,0 +1,685 @@
+---
+title: "Special Immigration Appeals Commission Act 1997"
+identifier: "ukpga/1997/68"
+citation: "1997 c. 68"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S+N.I."
+date: 1997-12-17
+last_amended: 2023-05-08
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/1997/68"
+source_modified: 2024-05-17
+retrieved: 2026-10-11
+---
+
+# Special Immigration Appeals Commission Act 1997
+
+**1997 c. 68**
+
+An Act to establish the Special Immigration Appeals Commission; to make provision with respect to its jurisdiction; and for connected purposes.
+
+[17th December 1997]
+
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## 1 Establishment of the Commission.
+
+(1) There shall be a commission, known as the Special Immigration Appeals Commission, for the purpose of exercising the jurisdiction conferred by this Act [[^F1]and Schedule 4A to the British Nationality Act 1981].
+
+(2) Schedule 1 to this Act shall have effect in relation to the Commission.
+
+[[^F2](3) The Commission shall be a superior court of record.
+
+(4) A decision of the Commission shall be questioned in legal proceedings only in accordance with—
+
+(a) section 7 [[^F3]and sections 7B to 7D], or
+
+[^F4]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .]
+
+## [[^F5]2 Jurisdiction: appeals
+
+(1) A person may appeal to the Special Immigration Appeals Commission against a decision if—
+
+(a) he would be able to appeal against the decision under section 82(1)[[^F6], 83(2) or 83A(2)] of the Nationality, Immigration and Asylum Act 2002 but for a certificate of the Secretary of State under section 97 of that Act (national security, &c.), or
+
+(b) an appeal against the decision under section 82(1)[[^F6], 83(2) or 83A(2)] of that Act lapsed under section 99 of that Act by virtue of a certificate of the Secretary of State under section 97 of that Act.
+
+(2) The following provisions shall apply, with any necessary modifications, in relation to an appeal against an immigration decision under this section as they apply in relation to an appeal under section 82(1) of the Nationality, Immigration and Asylum Act 2002—
+
+(a) section 3C [^F7]... of the Immigration Act 1971 (c. 77) [[^F8]continuation of leave],
+
+(b) section 78 of the Nationality, Immigration and Asylum Act 2002 (no removal while appeal pending),
+
+(c) section 79 of that Act (deportation order: appeal),
+
+[[^F9](ca) section 78A of that Act (restriction on removal of children and their parents),]
+
+(d) section 82(3) of that Act (variation or revocation of leave to enter or remain: appeal),
+
+(e) section 84 of that Act (grounds of appeal),
+
+(f) section 85 of that Act (matters to be considered),
+
+(g) section 86 of that Act (determination of appeal),
+
+(h) section 87 of that Act (successful appeal: direction),
+
+(i) section 96 of that Act (earlier right of appeal),
+
+(j) section 104 of that Act (pending appeal),
+
+(k) section 105 of that Act (notice of immigration decision), and
+
+(l) section 110 of that Act (grants).
+
+(3) The following provisions shall apply, with any necessary modifications, in relation to [[^F10]an appeal against a decision other than an immigration decision] under this section as they apply in relation to an appeal under section 83(2) [[^F11]or 83A(2)] of the Nationality, Immigration and Asylum Act 2002—
+
+(a) section 85(4) of that Act (matters to be considered),
+
+(b) section 86 of that Act (determination of appeal),
+
+(c) section 87 of that Act (successful appeal: direction), and
+
+(d) section 110 of that Act (grants).
+
+(4) An appeal against the rejection of a claim for asylum under this section shall be treated as abandoned if the appellant leaves the United Kingdom.
+
+(5) A person may bring or continue an appeal against an immigration decision under this section while he is in the United Kingdom only if he would be able to bring or continue the appeal while he was in the United Kingdom if it were an appeal under section 82(1) of that Act.
+
+(6) In this section “immigration decision” has the meaning given by section 82(2) of the Nationality, Immigration and Asylum Act 2002.]
+
+## [[^F13]2A Jurisdiction: [[^F12]racial discrimination and]human rights.
+
+[^F14]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .]
+
+## [[^F15]2B
+
+A person may appeal to the Special Immigration Appeals Commission against a decision to make an order under section 40 of the British Nationality Act 1981 (c. 61) (deprivation of citizenship) if he is not entitled to appeal under section 40A(1) of that Act because of a certificate under section 40A(2) [[^F16](and section 40A(3)(a) shall have effect in relation to appeals under this section).]]
+
+## 2C [[^F17]Jurisdiction: review of certain exclusion decisions
+
+(1) Subsection (2) applies in relation to any direction about the exclusion of a [[^F18]person] from the United Kingdom which—
+
+(a) is made by the Secretary of State wholly or partly on the ground that the exclusion from the United Kingdom of the [[^F18]person] is conducive to the public good,
+
+(b) is not subject to a right of appeal, and
+
+(c) is certified by the Secretary of State as a direction that was made wholly or partly in reliance on information which, in the opinion of the Secretary of State, should not be made public—
+
+(i) in the interests of national security,
+
+(ii) in the interests of the relationship between the United Kingdom and another country, or
+
+(iii) otherwise in the public interest.
+
+(2) The [[^F19]person] to whom the direction relates may apply to the Special Immigration Appeals Commission to set aside the direction.
+
+(3) In determining whether the direction should be set aside, the Commission must apply the principles which would be applied in judicial review proceedings.
+
+(4) If the Commission decides that the direction should be set aside, it may make any such order, or give any such relief, as may be made or given in judicial review proceedings.
+
+(5) [^F20]... References in this section to the Secretary of State are to the Secretary of State acting in person.
+
+## 2D Jurisdiction: review of certain naturalisation and citizenship decisions
+
+(1) Subsection (2) applies in relation to any decision of the Secretary of State which—
+
+(a) is either—
+
+(i) a refusal to issue a certificate of naturalisation under section 6 [[^F21]or 18] of the British Nationality Act 1981 to an applicant under that section, or
+
+(ii) a refusal to grant an application of the kind mentioned in section 41A of that Act (applications to register an adult or young person as a British citizen etc.), and
+
+(b) is certified by the Secretary of State as a decision that was made wholly or partly in reliance on information which, in the opinion of the Secretary of State, should not be made public—
+
+(i) in the interests of national security,
+
+(ii) in the interests of the relationship between the United Kingdom and another country, or
+
+(iii) otherwise in the public interest.
+
+(2) The applicant to whom the decision relates may apply to the Special Immigration Appeals Commission to set aside the decision.
+
+(3) In determining whether the decision should be set aside, the Commission must apply the principles which would be applied in judicial review proceedings.
+
+(4) If the Commission decides that the decision should be set aside, it may make any such order, or give any such relief, as may be made or given in judicial review proceedings.]
+
+## 2E [[^F22]Jurisdiction: review of certain deportation decisions
+
+(1) Subsection (2) applies in relation to a relevant deportation decision which has been certified under section 97 or 97A(1) of the Nationality, Immigration and Asylum Act 2002 (certification on grounds of national security etc).
+
+(2) The person to whom the decision relates may apply to the Special Immigration Appeals Commission to set aside the decision.
+
+(3) In determining whether the decision should be set aside, the Commission must apply the principles which would be applied in judicial review proceedings.
+
+(4) If the Commission decides that the decision should be set aside, it may make any such order, or give any such relief, as may be made or given in judicial review proceedings.
+
+(5) In this section “relevant deportation decision” means a decision of the Secretary of State about the deportation of a person from the United Kingdom, if and to the extent that—
+
+(a) the decision is not subject to a right of appeal, or
+
+(b) the decision (being subject to a right of appeal) gives rise to issues which may not be raised on such an appeal.]
+
+## 2F [[^F23]Jurisdiction: review of certain immigration decisions
+
+(1) Subsection (2) applies in relation to any decision of the Secretary of State which—
+
+(a) relates to a person’s entitlement to enter, reside in or remain in the United Kingdom, or to a person’s removal from the United Kingdom,
+
+(b) is not subject—
+
+(i) to a right of appeal, or
+
+(ii) to a right under a provision other than subsection (2) to apply to the Special Immigration Appeals Commission for the decision to be set aside, and
+
+(c) is certified by the Secretary of State acting in person as a decision that was made wholly or partly in reliance on information which, in the opinion of the Secretary of State, should not be made public—
+
+(i) in the interests of national security,
+
+(ii) in the interests of the relationship between the United Kingdom and another country, or
+
+(iii) otherwise in the public interest.
+
+(2) The person to whom the decision relates may apply to the Special Immigration Appeals Commission to set aside the decision.
+
+(3) In determining whether the decision should be set aside, the Commission must apply the principles which would be applied in judicial review proceedings.
+
+(4) If the Commission decides that the decision should be set aside, it may make any such order, or give any such relief, as may be made or given in judicial review proceedings.]
+
+## 3 Jurisdiction: bail.
+
+(1) In the case of a person to whom subsection (2) below applies, the provisions of [[^F24]Schedule 10 to the Immigration Act 2016] specified in Schedule 3 to this Act shall have effect with the modifications set out there.
+
+(2) This subsection applies to a person who is detained under the Immigration Act 1971 [[^F25]or the Nationality, Immigration and Asylum Act 2002] if—
+
+(a) the Secretary of State certifies that his detention is necessary in the interests of national security,
+
+(b) he is detained following a decision to refuse him leave to enter the United Kingdom on the ground that his exclusion is in the interests of national security, or
+
+(c) he is detained following a decision to make a deportation order against him on the ground that his deportation is in the interests of national security.
+
+## 4 Determination of appeals.
+
+[^F26]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 5 Procedure in relation to jurisdiction under sections 2 and 3.
+
+(1) The Lord Chancellor may make rules—
+
+(a) for regulating the exercise of the rights of appeal conferred by section 2 [[^F27]or 2B]... above,
+
+(b) for prescribing the practice and procedure to be followed on or in connection with appeals under that section [[^F28]section 2 [[^F27]or 2B]... above], including the mode and burden of proof and admissibility of evidence on such appeals, and
+
+(c) for other matters preliminary or incidental to or arising out of such appeals, including proof of the decisions of the Special Immigration Appeals Commission.
+
+(2) Rules under this section shall provide that an appellant has the right to be legally represented in any proceedings before the Commission on an appeal under section 2 [[^F27]or 2B]... above, subject to any power conferred on the Commission by such rules.
+
+[[^F29](2A) Rules under this section may, in particular, do anything which may be done by [[^F30]Tribunal Procedure Rules].]
+
+(3) Rules under this section may, in particular—
+
+(a) make provision enabling proceedings before the Commission to take place without the appellant being given full particulars of the reasons for the decision which is the subject of the appeal,
+
+(b) make provision enabling the Commission to hold proceedings in the absence of any person, including the appellant and any legal representative appointed by him,
+
+(c) make provision about the functions in proceedings before the Commission of persons appointed under section 6 below, and
+
+(d) make provision enabling the Commission to give the appellant a summary of any evidence taken in his absence.
+
+(4) Rules under this section may also include provision—
+
+(a) enabling any functions of the Commission which relate to matters preliminary or incidental to an appeal, or which are conferred by [[^F31]Schedule 10 to the Immigration Act 2016], to be performed by a single member of the Commission, or
+
+(b) conferring on the Commission such ancillary powers as the Lord Chancellor thinks necessary for the purposes of the exercise of its functions.
+
+(5) The power to make rules under this section shall include power to make rules with respect to applications to the Commission under [[^F32]Schedule 10 to the Immigration Act 2016] and matters arising out of such applications.
+
+[[^F33](5A) Rules under this section must secure that, where the Commission has decided not to release a person on [[^F34]immigration bail under Schedule 10 to the Immigration Act 2016], the Commission is required to dismiss any further application by the person for release on [[^F35]immigration bail] that is made during the period of 28 days starting with the date of the Commission's decision, unless there has been a material change in circumstances.]
+
+(6) In making rules under this section, the Lord Chancellor shall have regard, in particular, to—
+
+(a) the need to secure that decisions which are the subject of appeals are properly reviewed, and
+
+(b) the need to secure that information is not disclosed contrary to the public interest.
+
+[^F36]7 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(8) The power to make rules under this section shall be exercisable by statutory instrument.
+
+(9) No rules shall be made under this section unless a draft of them has been laid before and approved by resolution of each House of Parliament.
+
+## 6 Appointment of person to represent the appellant’s interests.
+
+(1) The relevant law officer may appoint a person to represent the interests of an appellant in any proceedings before the Special Immigration Appeals Commission from which the appellant and any legal representative of his are excluded.
+
+(2) For the purposes of subsection (1) above, the relevant law officer is—
+
+(a) in relation to proceedings before the Commission in England and Wales, the Attorney General,
+
+(b) in relation to proceedings before the Commission in Scotland, the Lord Advocate, and
+
+(c) in relation to proceedings before the Commission in Northern Ireland, the [[^F37]Advocate General for Northern Ireland].
+
+(3) A person appointed under subsection (1) above—
+
+(a) if appointed for the purposes of proceedings in England and Wales, shall have a general qualification for the purposes of section 71 of the [^M1]Courts and Legal Services Act 1990,
+
+(b) if appointed for the purposes of proceedings in Scotland, shall be—
+
+(i) an advocate, or
+
+(ii) a solicitor who has by virtue of section 25A of the [^M2]Solicitors (Scotland) Act 1980 rights of audience in the Court of Session and the High Court of Justiciary, and
+
+(c) if appointed for the purposes of proceedings in Northern Ireland, shall be a member of the Bar of Northern Ireland.
+
+(4) A person appointed under subsection (1) above shall not be responsible to the person whose interests he is appointed to represent.
+
+## 6A [[^F38]Procedure in relation to jurisdiction under sections 2C [[^F39]to [[^F40]2F]]
+
+(1) Sections 5 and 6 apply in relation to reviews under section 2C [[^F41], 2D [[^F42], 2E or 2F]] as they apply in relation to appeals under section 2 or 2B.
+
+(2) Accordingly—
+
+(a) references to appeals are to be read as references to reviews (and references to appeals under section 2 or 2B are to be read as references to reviews under section 2C [[^F43], 2D [[^F44], 2E or 2F]]), and
+
+(b) references to an appellant are to be read as references to an applicant under section 2C(2) [[^F45], 2D(2) [[^F46], 2E(2) or (as the case may be) 2F(2)]].]
+
+## 6B [[^F47]Procedure in relation to jurisdiction under Schedule 4A to the British Nationality Act 1981
+
+(1) The Lord Chancellor may make rules—
+
+(a) in relation to applications under paragraph 1(1), (2) or (6) or paragraph 2(5) of Schedule 4A to the British Nationality Act 1981 (deprivation of citizenship without notice),
+
+(b) for prescribing the practice and procedure to be followed on or in connection with applications under those paragraphs, including the mode and burden of proof and admissibility of evidence on such applications, and
+
+(c) for other matters preliminary or incidental to or arising out of such applications, including proof of the decisions of the Special Immigration Appeals Commission.
+
+(2) Rules under this section may, in particular, do anything which may be done by Tribunal Procedure Rules.
+
+(3) Rules under this section may make provision—
+
+(a) enabling any functions of the Commission which relate to an application under a provision mentioned in subsection (1)(a) to be performed by a single member of the Commission, or
+
+(b) conferring on the Commission such ancillary powers as the Lord Chancellor thinks necessary for the purposes of the exercise of its functions.
+
+(4) In making rules under this section, the Lord Chancellor must have regard, in particular, to—
+
+(a) the need to secure that decisions which are the subject of applications are properly reviewed, and
+
+(b) the need to secure that information is not disclosed contrary to the public interest.
+
+(5) The power to make rules under this section is exercisable by statutory instrument.
+
+(6) No rules may be made under this section unless a draft of them has been laid before and approved by resolution of each House of Parliament.]
+
+## 7 Appeals from the Commission.
+
+(1) Where the Special Immigration Appeals Commission has made a final determination of an appeal, any party to the appeal may bring a further appeal to the appropriate appeal court on any question of law material to that determination.
+
+[[^F48](1A) Where the Commission has made a final determination of a review under section 2C [[^F49], 2D or 2F], any party to the review may bring an appeal against that determination to the appropriate appeal court.]
+
+[[^F50](1B) Where the Commission has made a final determination of an application under paragraph 1(1), (2) or (6) or paragraph 2(5) of Schedule 4A to the British Nationality Act 1981 (deprivation of citizenship without notice), the Secretary of State may bring an appeal against that determination to the appropriate appeal court.]
+
+(2) An appeal under this section may be brought only with the leave of the Commission or, if such leave is refused, with the leave of the appropriate appeal court.
+
+(3) In this section [[^F51]and sections 7B to 7D] “the appropriate appeal court” means—
+
+(a) in relation to a determination made by the Commission in England and Wales, the Court of Appeal,
+
+(b) in relation to a determination made by the Commission in Scotland, the Court of Session, and
+
+(c) in relation to a determination made by the Commission in Northern Ireland, the Court of Appeal in Northern Ireland.
+
+[^F52]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## [[^F53]7A Pending appeals.
+
+[^F54]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .]
+
+## 7B [[^F55]Appeals to Supreme Court: grant of certificate by Commission
+
+(1) If the Special Immigration Appeals Commission is satisfied that—
+
+(a) the conditions in subsection (4) or (5) are fulfilled in relation to a final determination to which section 7(1) or (1A) applies, and
+
+(b) in respect of that final determination, a sufficient case for an appeal to the Supreme Court has been made out to justify an application under section 7C,
+
+the Commission may grant a certificate to that effect.
+
+(2) The Commission may grant a certificate under this section only on an application made by a party to the appeal or review to which the final determination relates.
+
+(3) The Commission may not grant a certificate under this section if the final determination is made by the Commission in Scotland.
+
+(4) The conditions in this subsection are that a point of law of general public importance is involved in the final determination and that point of law is—
+
+(a) a point of law that—
+
+(i) relates wholly or mainly to the construction of an enactment or statutory instrument, and
+
+(ii) has been fully argued in the proceedings on the appeal or review to which the final determination relates and fully considered in the judgment of the Commission, or
+
+(b) a point of law—
+
+(i) in respect of which the Commission is bound by a decision of the appropriate appeal court or the Supreme Court in previous proceedings, and
+
+(ii) that was fully considered in the judgments given by the appropriate appeal court or, as the case may be, the Supreme Court in those previous proceedings.
+
+(5) The conditions in this subsection are that a point of law of general public importance is involved in the final determination and that—
+
+(a) the proceedings entail a decision relating to a matter of national importance or consideration of such a matter,
+
+(b) the result of the proceedings is so significant (whether considered on its own or together with other proceedings or likely proceedings) that, in the opinion of the Commission, a hearing by the Supreme Court is justified, or
+
+(c) the Commission is satisfied that the benefits of earlier consideration by the Supreme Court outweigh the benefits of consideration by the Court of Appeal.
+
+(6) No appeal lies against the grant or refusal of a certificate under subsection (1).
+
+## 7C Appeals to Supreme Court: permission to appeal
+
+(1) If the Special Immigration Appeals Commission grants a certificate under section 7B in relation to a final determination, a party to the appeal or review to which the final determination relates may apply to the Supreme Court for permission to appeal directly to the Supreme Court.
+
+(2) An application under subsection (1) must be made—
+
+(a) within one month from the date on which that certificate is granted, or
+
+(b) within such time as the Supreme Court may allow in a particular case.
+
+(3) If on such an application it appears to the Supreme Court to be expedient to do so, the Supreme Court may grant permission for such an appeal.
+
+(4) If permission is granted under this section—
+
+(a) no appeal from the final determination to which the certificate relates lies to the appropriate appeal court, but
+
+(b) an appeal lies from that determination to the Supreme Court.
+
+(5) An application under subsection (1) is to be determined without a hearing.
+
+(6) Subject to subsection (4), no appeal lies to the appropriate appeal court from a final determination of the Commission in respect of which a certificate is granted under section 7B until—
+
+(a) the time within which an application can be made under subsection (1) has expired, and
+
+(b) where such an application is made, that application has been determined in accordance with this section.
+
+## 7D Appeals to Supreme Court: exclusions
+
+(1) No certificate may be granted under section 7B in respect of a final determination of the Special Immigration Appeals Commission where, by virtue of any enactment (other than sections 7B and 7C), no appeal would lie from that decision of the Commission to the appropriate appeal court, with or without the leave or permission of the Commission or the appropriate appeal court.
+
+(2) No certificate may be granted under section 7B in respect of a final determination of the Commission where, by virtue of any enactment, no appeal would lie from a decision of the appropriate appeal court on that determination of the Commission to the Supreme Court, with or without the permission or leave of the appropriate appeal court or the Supreme Court.
+
+(3) Where no appeal would lie to the appropriate appeal court from a final determination of the Commission except with the leave or permission of the Commission or the appropriate appeal court, no certificate may be granted under section 7B in respect of a final determination unless it appears to the Commission that it would be a proper case for granting leave to appeal to the appropriate appeal court.
+
+(4) No certificate may be granted under section 7B in respect of a decision or order of the Commission made by it in the exercise of its jurisdiction to punish for contempt.]
+
+## 8 Procedure on applications to the Commission for leave to appeal [[^F56]etc].
+
+(1) The Lord Chancellor may make rules regulating, and prescribing the procedure to be followed on, applications to the Special Immigration Appeals Commission for leave to appeal under section 7 above [[^F57]or for the grant of a certificate under section 7B].
+
+(2) Rules under this section may include provision enabling an application [^F58]... to be heard by a single member of the Commission.
+
+(3) The power to make rules under this section shall be exercisable by statutory instrument.
+
+(4) No rules shall be made under this section unless a draft of them has been laid before and approved by resolution of each House of Parliament.
+
+## 9 Short title, commencement and extent.
+
+(1) This Act may be cited as the Special Immigration Appeals Commission Act 1997.
+
+(2) This Act, except for this section, shall come into force on such day as the Secretary of State may by order made by statutory instrument appoint; and different days may be so appointed for different purposes.
+
+(3) Her Majesty may by Order in Council direct that any of the provisions of this Act shall extend, with such modifications as appear to Her Majesty to be appropriate, to any of the Channel Islands or the Isle of Man.
+
+(4) This Act extends to Northern Ireland.
+
+## SCHEDULE 1 — The Commission
+
+*Section 1.*
+
+### Members
+
+**1** (1) The Special Immigration Appeals Commission shall consist of such number of members appointed by the Lord Chancellor as he may determine.
+
+(2) A member of the Commission shall hold and vacate office in accordance with the terms of his appointment and shall, on ceasing to hold office, be eligible for re-appointment.
+
+(3) A member of the Commission may resign his office at any time by notice in writing to the Lord Chancellor.
+
+### Chairman
+
+**2** The Lord Chancellor shall appoint one of the members of the Commission to be its chairman.
+
+### Payments to members
+
+**3** (1) The Lord Chancellor may pay to the members of the Commission such remuneration and allowances as he may determine.
+
+(2) The Lord Chancellor may, if he thinks fit in the case of any member of the Commission pay such pension, allowance or gratuity to or in respect of the member, or such sums towards the provision of such pension, allowance or gratuity, as he may determine.
+
+(3) If a person ceases to be a member of the Commission and it appears to the Lord Chancellor that there are special circumstances which make it right that the person should receive compensation, he may pay to that person a sum of such amount as he may determine.
+
+### Proceedings
+
+**4** The Commission shall sit at such times and in such places as the Lord Chancellor may direct and may sit in two or more divisions.
+
+**5** The Commission shall be deemed to be duly constituted if it consists of three members of whom—
+
+(a) at least one holds or has held high judicial office (within the meaning of [[^F59]Part 3 of the Constitutional Reform Act 2005) or is or has been a member of the Judicial Committee of the Privy Council], and
+
+[[^F60](b) at least one is or has been [[^F61]a judge of the First-tier Tribunal, or of the Upper Tribunal, who is assigned to a chamber with responsibility for immigration and asylum matters].]
+
+**6** The chairman or, in his absence, such other member of the Commission as he may nominate, shall preside at sittings of the Commission and report its decisions.
+
+### Staff
+
+**7** The Lord Chancellor may appoint such officers and servants for the Commission as he thinks fit.
+
+### Expenses
+
+**8** The Lord Chancellor shall defray the remuneration of persons appointed under paragraph 7 above and such expenses of the Commission as he thinks fit.
+
+## [^F62][^F62] SCHEDULE 2
+
+### [[^F63] Stay on directions for removal]
+
+**[[^F64]1** If a person in the United Kingdom appeals under section 2(1) above on being refused leave to enter, any directions previously given by virtue of the refusal for his removal from the United Kingdom cease to have effect, except in so far as they have already been carried out, and no directions may be so given so long as the appeal is pending.]
+
+### Deportation order not to be made while appeal pending
+
+**[[^F65]2** If a person in the United Kingdom appeals under section 2(1) above against any directions given under Part I of Schedule 2 or Schedule 3 to the 1971 Act for his removal from the United Kingdom, those directions except in so far as they have already been carried out, have no effect while the appeal is pending.]
+
+### Stay of removal directions pending appeal and bail
+
+**[[^F66]3** But the provisions of Part I of Schedule 2 or, as the case may be, Schedule 3 to the 1971 Act with respect to detention and persons liable to detention apply to a person appealing under section 2(1) above as if there were in force directions for his removal from the United Kingdom, except that he may not be detained on board a ship or aircraft so as to compel him to leave the United Kingdom while the appeal is pending.]
+
+**[[^F67]3A** In calculating the period of two months limited by paragraph 8(2) of Schedule 2 to the 1971 Act for the giving of directions under that paragraph for the removal of a person from the United Kingdom and for the giving of a notice of intention to give such directions, any period during which there is pending an appeal by him under section 2(1) above is to be disregarded.]
+
+**[[^F68]3B** If directions are given under Part I of Schedule 2 or Schedule 3 to the 1971 Act for anyone’s removal from the United Kingdom, and directions are also so given for the removal with him of persons belonging to his family, then if any of them appeals under section 2(1) above, the appeal has the same effect under paragraphs 1 to 3A in relation to the directions given in respect of each of the others as it has in relation to the directions given in respect of the appellant.]
+
+### [[^F69] Suspension of variation of limited leave]
+
+**[[^F70]3C** A variation is not to take effect while an appeal is pending under section 2(1) above against the variation.]
+
+### [[^F71] Continuation of leave]
+
+**[[^F72]3D** (1) While an appeal under section 2(1) above is pending, the leave to which the appeal relates, and any conditions subject to which it was granted continue to have effect.
+
+(2) A person may not make an application for a variation of his leave to enter or remain while that leave is treated as continuing to have effect as a result of sub-paragraph (1).
+
+(3) For the purposes of section 2(1), in calculating whether, as a result of a decision, a person may be required to leave the United Kingdom within twenty-eight days, a continuation of leave under this paragraph is to be disregarded.]
+
+### [[^F73] Deportation orders]
+
+**[[^F74]3E** A deportation order is not to be made against a person under section 5 of the 1971 Act while an appeal duly brought under section 2(1) above against the decision to make it is pending.]
+
+**[[^F75]3F** In calculating the period of eight weeks set by section 5(3) of the 1971 Act for making a deportation order against a person as belonging to the family of another person, there is to be disregarded any period during which an appeal under section 2(1) above against the decision to make the order is pending.]
+
+### [[^F76] Appeals under section 2A]
+
+**[[^F77]3G** (1) A person is not to be required to leave, or be removed from, the United Kingdom if an appeal under section 2A is pending against the decision on which that requirement or removal would otherwise be based.
+
+(2) That does not prevent—
+
+(a) directions for his removal being given during that period;
+
+(b) a deportation order being made against him during that period.
+
+(3) But no such direction or order is to have effect during that period.]
+
+### Construction of references to pending appeal
+
+**4** For the purposes of [[^F78]this Schedule], an appeal under section 2 [[^F79]or 2A] above shall be treated as pending during the period beginning when notice of appeal is duly given and ending when the appeal is finally determined or withdrawn; and an appeal shall not be treated as finally determined so long as a further appeal can be brought by virtue of section 7 above, nor, if such an appeal is duly brought, until it is determined or withdrawn.
+
+### Appeals involving asylum
+
+#### . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F80]5**
+
+### [[^F81] Notice of appealable decision and statement of appeal rights etc.]
+
+**[[^F82]6** Paragraph 1 of Schedule 4 to the Immigration and Asylum Act 1999 has effect as if section 2 [[^F83]and 2A] of this Act were contained in Part IV of that Act.]
+
+### [[^F84] Financial support for organisations helping persons with rights of appeal]
+
+**[[^F85]7** Section 81 of the Immigration and Asylum Act 1999 shall have effect as if section 2 [[^F86]and 2A] above were contained in Part IV of that Act.]
+
+## [[^F87]SCHEDULE 3 — Bail: Modifications of Schedule 10 to the Immigration Act 2016
+
+*Section 3.*
+
+**1** Paragraph 1(3) (power to grant bail) has effect as if—
+
+(a) for “The First-tier Tribunal” there were substituted “ The Special Immigration Appeals Commission ”, and
+
+(b) for “the Tribunal” there were substituted “ the Commission ”.
+
+**2** Paragraph 2 (conditions of immigration bail) has effect as if—
+
+(a) in sub-paragraphs (1)(a), (7) and (8) for “the First-tier Tribunal” there were substituted “ the Special Immigration Appeals Commission ”, and
+
+(b) in sub-paragraph (7) for “the Tribunal” there were substituted “ the Commission ”.
+
+**3** Paragraph 3 (exercise of power to grant immigration bail) has effect as if—
+
+(a) in sub-paragraphs (1), (2)(f), (3), (4), (5) and (6) for “the First-tier Tribunal” there were substituted “ the Special Immigration Appeals Commission ”, and
+
+(b) in sub-paragraph (5) for “the Tribunal” there were substituted “ the Commission ”.
+
+**4** Paragraph 4(2)(d) (arrangements under electronic monitoring condition) has effect as if for “the First-tier Tribunal” there were substituted “ the Special Immigration Appeals Commission ”.
+
+**5** Paragraph 5(5) (payment of sum under financial condition) has effect as if for “the First-tier Tribunal” there were substituted “ the Special Immigration Appeals Commission ”.
+
+**6** Paragraph 6 (power to vary bail conditions) has effect as if—
+
+(a) in sub-paragraphs (3), (4), (6) and (7) for “the First-tier Tribunal” there were substituted “ the Special Immigration Appeals Commission ”,
+
+(b) in sub-paragraph (5) for “The First-tier Tribunal” there were substituted “ The Special Immigration Appeals Commission, ”, and
+
+(c) in sub-paragraphs (3), (4) and (6) for “the Tribunal” there were substituted “ the Commission ”.
+
+**7** Paragraph 7(1)(a)(ii) (removal etc of electronic monitoring condition: bail managed by Secretary of State) has effect as if—
+
+(a) for “the First-tier Tribunal” there were substituted “ the Special Immigration Appeals Commission ”, and
+
+(b) for “the Tribunal” there were substituted “ the Commission ”.
+
+**8** Paragraph 8 (amendment etc of electronic monitoring condition: bail managed by First-tier Tribunal) has effect as if—
+
+(a) in sub-paragraphs (1)(a), (2), (3), (4) and (5) for “the First-tier Tribunal” there were substituted “ the Special Immigration Appeals Commission ”, and
+
+(b) in sub-paragraph (1)(a) for “the Tribunal” there were substituted “ the Commission ”.
+
+**9** Paragraph 10(10) (meaning of “relevant authority”) has effect as if for “the First-tier Tribunal” in both places there were substituted “ the Special Immigration Appeals Commission ”].
+
+---
+
+[^F1]: Words in s. 1(1) inserted (18.11.2022) by The Nationality and Borders Act 2022 (Consequential Amendments) (No. 2) Regulations 2022 (S.I. 2022/1209), regs. 1(2), 2(2)
+[^F2]: S. 1(3)(4) inserted (14.12.2001) by 2001 c. 24, s. 35
+[^F3]: Words in s. 1(4) inserted (28.6.2018) by Criminal Justice and Courts Act 2015 (c. 2), ss. 66(3), 95(1); S.I. 2018/732, art. 2 (with art. 3)
+[^F4]: S. 1(4)(b) and word repealed (14.3.2005) by Prevention of Terrorism Act 2005 (c. 2), s. 16(2)(b)(3) (with s. 16(4))
+[^F5]: S. 2 substituted (1.4.2003) by 2002 c. 41, ss. 114(3), 162(1), Sch. 7 para. 20 (with s. 159); S.I. 2003/754, art. 2(1), Sch. 1 (with arts. 3, 4, Sch. 2 para. 5) (as amended (8.4.2003) by S.I. 2003/1040, art. 2)
+[^F6]: Words in s. 2(1)(a)(b) substituted (31.8.2006) by Immigration, Asylum and Nationality Act 2006 (c. 13), s. 62(1)(2), Sch. 1 para. 14(a); S.I. 2006/2226, art. 3, Sch. 1
+[^F7]: Words in s. 2(2)(a) omitted (1.12.2016) by virtue of Immigration Act 2016 (c. 19), ss. 64(2), 94(1) (with s. 64(5)); S.I. 2016/1037, reg. 5(h)
+[^F8]: Words in s. 2(2)(a) substituted (31.8.2006) by Immigration, Asylum and Nationality Act 2006 (c. 13), s. 62(1)(2), Sch. 1 para. 14(b)(ii); S.I. 2006/2226, art. 3, Sch. 1
+[^F9]: S. 2(2)(ca) inserted (28.7.2014) by Immigration Act 2014 (c. 22), s. 75(3), Sch. 9 para. 2; S.I. 2014/1820, art. 3(cc)
+[^F10]: Words in s. 2(3) substituted (31.8.2006) by Immigration, Asylum and Nationality Act 2006 (c. 13), s. 62(1)(2), Sch. 1 para. 14(c)(i); S.I. 2006/2226, art. 3, Sch. 1
+[^F11]: Words in s. 2(3) inserted (31.8.2006) by Immigration, Asylum and Nationality Act 2006 (c. 13), s. 62(1)(2), Sch. 1 para. 14(c)(ii); S.I. 2006/2226, art. 3, Sch. 1
+[^F12]: Words in s. 2A sidenote inserted (2.4.2001) by 2000 c. 34, s. 9(1), Sch. 2 para. 27 (with s. 10(5)); S.I. 2001/566, art. 2(1) (subject to art. 2(2))
+[^F13]: S. 2A inserted (2.10.2000) by 1999 c. 33, s. 169(1), Sch. 14 paras. 118, 121; S.I. 2000/2444, art. 2, Sch. 1 (with transitional provisions in arts. 3, 4, Sch. 2 para. 5(2))
+[^F14]: S. 2A repealed (1.4.2003) by 2002 c. 41, ss. 114(3), 161, 162(1), Sch. 7 para. 21, Sch. 9 (with S. 159); S.I. 2003/754, art. 2(1), Sch. 1 (with arts. 3, 4, Sch. 2 para. 5)
+[^F15]: S. 2B inserted (1.4.2003) by 2002 c. 41, ss. 4(2), 162(1); (with s. 159); S.I. 2003/754, art. 2(1), Sch. 1 (with arts. 3, 4, Sch. 2 para. 5)
+[^F16]: Words in s. 2B inserted (4.4.2005) by Asylum and Immigration (Treatment of Claimants, etc.) Act 2004 (c. 19), s. 48(3), Sch. 2 para. 11; S.I. 2005/565, art. 2(d) (with arts. 3-9)
+[^F17]: Ss. 2C, 2D inserted (25.6.2013) by Justice and Security Act 2013 (c. 18), ss. 15, 20(1); S.I. 2013/1482, art. 2 (with arts. 3, 4)
+[^F18]: Word in s. 2C(1) substituted (31.12.2020) by The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309), regs. 1(2), 11(2)(a)
+[^F19]: Word in s. 2C(2) substituted (31.12.2020) by The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309), regs. 1(2), 11(2)(a)
+[^F20]: Words in s. 2C(5) omitted (31.12.2020) by virtue of The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309), regs. 1(2), 11(2)(b)
+[^F21]: Words in s. 2D(1)(a)(i) inserted (12.2.2015) by Counter-Terrorism and Security Act 2015 (c. 6), ss. 47, 52(5)
+[^F22]: S. 2E inserted (6.4.2015) by Immigration Act 2014 (c. 22), ss. 18, 75(3); S.I. 2015/371, art. 4(a)
+[^F23]: S. 2F inserted (28.6.2022) by Nationality and Borders Act 2022 (c. 36), ss. 77(2), 87(1); S.I. 2022/590, regs. 1(2), 2, Sch. 1 para. 27
+[^F24]: Words in s. 3(1) substituted (15.1.2018) by Immigration Act 2016 (c. 19), s. 94(1), Sch. 10 para. 23; S.I. 2017/1241, reg. 2(c) (with Sch.) (as amended by S.I. 2018/31, reg. 2)
+[^F25]: Words in s. 3(2) inserted (4.4.2003) by The Nationality, Immigration and Asylum Act 2002 (Consequential and Incidental Provisions) Order 2003 (S.I. 2003/1016), art. 2(2), Sch. para. 10
+[^F26]: S. 4 repealed (1.4.2003) by 2002 c. 41, ss. 114(3), 161, 162(1), Sch. 7 para. 22, Sch. 9 (with s. 159); S.I. 2003/754, art. 2(1), Sch. 1 (with arts. 3, 4, Sch. 2 para. 5)
+[^F27]: Words in s. 5(1)(a)(b)(2) inserted (1.4.2003) by 2002 c. 41, ss. 4(3), 162(1), (with s. 159); S.I. 2003/754, art. 2(1), Sch. 1 (with arts. 3, 4, Sch. 2 para. 5)
+[^F28]: Words in s. 5(1)(b) substituted (2.4.2001) by 2000 c. 34, s. 9(1), Sch. 2 para. 28(b) (with s. 10(5)); S.I. 2001/566, art. 2(1) (subject to art. 2(2))
+[^F29]: S. 5(2A) inserted (1.4.2003) by 2002 c. 41, ss. 114(3), 162(1), Sch. 7 para. 23(b) (with s. 159); S.I. 2003/754, art. 2(1), Sch. 1 (with arts. 3, 4, Sch. 2 para. 5)
+[^F30]: Words in s. 5(2A) substituted (15.2.2010) by The Transfer of Functions of the Asylum and Immigration Tribunal Order 2010 (S.I. 2010/21), art. 1, Sch. 1 para. 15 (with Sch. 4)
+[^F31]: Words in s. 5(4)(a) substituted (15.1.2018) by Immigration Act 2016 (c. 19), s. 94(1), Sch. 10 para. 24(2); S.I. 2017/1241, reg. 2(c) (with Sch.) (as amended by S.I. 2018/31, reg. 2)
+[^F32]: Words in s. 5(5) substituted (15.1.2018) by Immigration Act 2016 (c. 19), s. 94(1), Sch. 10 para. 24(3); S.I. 2017/1241, reg. 2(c) (with Sch.) (as amended by S.I. 2018/31, reg. 2)
+[^F33]: S. 5(5A) inserted (20.10.2014) by Immigration Act 2014 (c. 22), s. 75(3), Sch. 9 para. 10(2); S.I. 2014/2771, art. 2(e) (as amended (2.3.2015 and 6.4.2015) by S.I. 2015/371, arts. 1(2)(3), 7, 8; and with transitional provisions and savings in S.I. 2014/2928, art. 2 (which S.I. is revoked (6.4.2015) by S.I. 2015/371, arts. 1(3), 9))
+[^F34]: Words in s. 5(5A) substituted (15.1.2018) by Immigration Act 2016 (c. 19), s. 94(1), Sch. 10 para. 24(4)(a); S.I. 2017/1241, reg. 2(c) (with Sch.) (as amended by S.I. 2018/31, reg. 2)
+[^F35]: Words in s. 5(5A) substituted (15.1.2018) by Immigration Act 2016 (c. 19), s. 94(1), Sch. 10 para. 24(4)(b); S.I. 2017/1241, reg. 2(c) (with Sch.) (as amended by S.I. 2018/31, reg. 2)
+[^F36]: S. 5(7) repealed (2.10.2000) by 2000 c. 23, s. 82, Sch. 5 (with s. 82(3)); S.I. 2000/2543, art. 3
+[^F37]: Words in s. 6(2)(c) substituted (12.4.2010 being the date that 2002 c. 26, s. 27 comes into force, see S.I. 2010/113, art. 2, Sch. para. 7) by Counter-Terrorism Act 2008 (c. 28), s. 91(2)(3) (with s. 101(2))
+[^M1]: 1990 c. 41.
+[^M2]: 1980 c. 46.
+[^F38]: S. 6A inserted (25.6.2013) by Justice and Security Act 2013 (c. 18), s. 20(1), Sch. 2 para. 9(2); S.I. 2013/1482, art. 2 (with arts. 3, 4)
+[^F39]: Words in s. 6A heading substituted (20.10.2014) by Immigration Act 2014 (c. 22), s. 75(3), Sch. 9 para. 26(4)(a); S.I. 2014/2771, art. 2(e) (with arts. 9-11) (as amended (2.3.2015 and 6.4.2015) by S.I. 2015/371, arts. 1(2)(3), 7, 8; and with transitional provisions and savings in S.I. 2014/2928, art. 2 (which S.I. is revoked (6.4.2015) by S.I. 2015/371, arts. 1(3), 9))
+[^F40]: Word in s. 6A heading substituted (28.6.2022) by Nationality and Borders Act 2022 (c. 36), ss. 77(3)(a), 87(1); S.I. 2022/590, regs. 1(2), 2, Sch. 1 para. 27
+[^F41]: Words in s. 6A(1) substituted (20.10.2014) by Immigration Act 2014 (c. 22), s. 75(3), Sch. 9 para. 26(4)(b); S.I. 2014/2771, art. 2(e) (with arts. 9-11) (as amended (2.3.2015 and 6.4.2015) by S.I. 2015/371, arts. 1(2)(3), 7, 8; and with transitional provisions and savings in S.I. 2014/2928, art. 2 (which S.I. is revoked (6.4.2015) by S.I. 2015/371, arts. 1(3), 9))
+[^F42]: Words in s. 6A(1) substituted (28.6.2022) by Nationality and Borders Act 2022 (c. 36), ss. 77(3)(b), 87(1); S.I. 2022/590, regs. 1(2), 2, Sch. 1 para. 27
+[^F43]: Words in s. 6A(2)(a) substituted (20.10.2014) by Immigration Act 2014 (c. 22), s. 75(3), Sch. 9 para. 26(4)(c)(i); S.I. 2014/2771, art. 2(e) (with arts. 9-11) (as amended (2.3.2015 and 6.4.2015) by S.I. 2015/371, arts. 1(2)(3), 7, 8; and with transitional provisions and savings in S.I. 2014/2928, art. 2 (which S.I. is revoked (6.4.2015) by S.I. 2015/371, arts. 1(3), 9))
+[^F44]: Words in s. 6A(2)(a) substituted (28.6.2022) by Nationality and Borders Act 2022 (c. 36), ss. 77(3)(c), 87(1); S.I. 2022/590, regs. 1(2), 2, Sch. 1 para. 27
+[^F45]: Words in s. 6A(2)(b) substituted (20.10.2014) by Immigration Act 2014 (c. 22), s. 75(3), Sch. 9 para. 26(4)(c)(ii); S.I. 2014/2771, art. 2(e) (with arts. 9-11) (as amended (2.3.2015 and 6.4.2015) by S.I. 2015/371, arts. 1(2)(3), 7, 8; and with transitional provisions and savings in S.I. 2014/2928, art. 2 (which S.I. is revoked (6.4.2015) by S.I. 2015/371, arts. 1(3), 9))
+[^F46]: Words in s. 6A(2)(b) substituted (28.6.2022) by Nationality and Borders Act 2022 (c. 36), ss. 77(3)(d), 87(1); S.I. 2022/590, regs. 1(2), 2, Sch. 1 para. 27
+[^F47]: S. 6B inserted (18.11.2022) by The Nationality and Borders Act 2022 (Consequential Amendments) (No. 2) Regulations 2022 (S.I. 2022/1209), regs. 1(2), 2(3)
+[^F48]: S. 7(1A) inserted (25.6.2013) by Justice and Security Act 2013 (c. 18), s. 20(1), Sch. 2 para. 9(3); S.I. 2013/1482, art. 2 (with arts. 3, 4)
+[^F49]: Words in s. 7(1A) substituted (28.6.2022) by Nationality and Borders Act 2022 (c. 36), ss. 77(4)(5), 87(1); S.I. 2022/590, regs. 1(2), 2, Sch. 1 para. 27
+[^F50]: S. 7(1B) inserted (18.11.2022) by The Nationality and Borders Act 2022 (Consequential Amendments) (No. 2) Regulations 2022 (S.I. 2022/1209), regs. 1(2), 2(4)
+[^F51]: Words in s. 7(3) inserted (28.6.2018) by Criminal Justice and Courts Act 2015 (c. 2), ss. 66(4), 95(1); S.I. 2018/732, art. 2 (with art. 3)
+[^F52]: S. 7(4) repealed (2.10.2000) by 1999 c. 33, s. 169(1)(3), Sch. 14 para. 118, 123, Sch. 16; S.I. 2000/2444, art. 2, Sch. 1 (with transitional provisions in arts. 3, 4)
+[^F53]: S. 7A inserted (2.10.2000) by 1999 c. 33, s.169(1), Sch. 14 paras. 118, 124; S.I. 2000/2444, art. 2, Sch. 1 (with transitional provisions in arts. 3, 4)
+[^F54]: S. 7A repealed (1.4.2003) by 2002 c. 41, ss. 114(3), 161, 162(1), Sch. 7 para. 24, Sch. 9 (with s. 159); S.I. 2003/754, art. 2(1), Sch. 1 (with arts. 3, 4, Sch. 2 para. 5)
+[^F55]: Ss. 7B-7D inserted (28.6.2018) by Criminal Justice and Courts Act 2015 (c. 2), ss. 66(2), 95(1); S.I. 2018/732, art. 2 (with art. 3)
+[^F56]: Word in s. 8 heading inserted (28.6.2018) by Criminal Justice and Courts Act 2015 (c. 2), ss. 66(6), 95(1); S.I. 2018/732, art. 2 (with art. 3)
+[^F57]: Words in s. 8(1) inserted (28.6.2018) by Criminal Justice and Courts Act 2015 (c. 2), ss. 66(5)(a), 95(1); S.I. 2018/732, art. 2 (with art. 3)
+[^F58]: Words in s. 8(2) omitted (28.6.2018) by virtue of Criminal Justice and Courts Act 2015 (c. 2), ss. 66(5)(b), 95(1); S.I. 2018/732, art. 2 (with art. 3)
+[^F59]: Words in Sch. 1 para. 5 substituted (1.10.2009) by Constitutional Reform Act 2005 (c. 4), s. 148(1), Sch. 17 para. 28; S.I. 2009/1604, art. 2(e)
+[^F60]: Sch. 1 para. 5(b) substituted (4.4.2005) by Asylum and Immigration (Treatment of Claimants, etc.) Act 2004 (c. 19), s. 48(3), Sch. 2 para. 12; S.I. 2005/565, art. 2(d) (with arts. 3-9)
+[^F61]: Words in Sch. 1 para. 5(b) substituted (15.2.2010) by The Transfer of Functions of the Asylum and Immigration Tribunal Order 2010 (S.I. 2010/21), art. 1, Sch. 1 para. 16 (with Sch. 4)
+[^F62]: Sch. 2 repealed (1.4.2003) by 2002 c. 41, ss. 114(3), 161, 162(1), Sch. 7 para. 26, Sch. 9 (with s. 159); S.I. 2003/754, art. 2(1), Sch. 1 (with arts. 3, 4, Sch. 2 para. 5)
+[^F63]: Sch. 2 para. 1 and crossheading substituted (2.10.2000) by 1999 c. 33, s. 169(1), Sch. 14 paras. 118, 126; S.I. 2000/2444, art. 2, Sch. 1 (with transitional provisions in arts. 3, 4)
+[^F64]: Sch. 2 para. 1 substituted (2.10.2000) by 1999 c. 33, s. 169(1), Sch. 14 paras. 118, 126; S.I. 2000/2444, art. 2, Sch. 1 (with transitional provisions in arts. 3, 4)
+[^F65]: Sch. 2 para. 2 substituted (2.10.2000) by 1999 c. 33, s. 169(1), Sch. 14 paras. 118, 126; S.I. 2000/2444, art. 2, Sch. 1 (with transitional provisions in arts. 3, 4)
+[^F66]: Sch. 2 paras. 3-3G substituted for Sch. 2 para. 3 (2.10.2000) by 1999 c. 33, s. 169(1), Sch. 14 paras. 118, 126; S.I. 2000/2444, art. 2, Sch. 1 (with transitional provisions in arts. 3, 4)
+[^F67]: Sch. 2 paras. 3-3G substituted for Sch. 2 para. 3 (2.10.2000) by 1999 c. 33, s. 169(1), Sch. 14 paras. 118, 126; S.I. 2000/2444, art. 2, Sch. 1 (with transitional provisions in arts. 3, 4)
+[^F68]: Sch. 2 paras. 3-3G substituted for Sch. 2 para. 3 (2.10.2000) by 1999 c. 33, s. 169(1), Sch. 14 paras. 118, 126; S.I. 2000/2444, art. 2, Sch. 1 (with transitional provisions in arts. 3, 4)
+[^F69]: Sch. 2 paras. 3-3G substituted for Sch. 2 para. 3 (2.10.2000) by 1999 c. 33, s. 169(1), Sch. 14 paras. 118, 126; S.I. 2000/2444, art. 2, Sch. 1 (with transitional provisions in arts. 3, 4)
+[^F70]: Sch. 2 paras. 3-3G substituted for Sch. 2 para. 3 (2.10.2000) by 1999 c. 33, s. 169(1), Sch. 14 paras. 118, 126; S.I. 2000/2444, art. 2, Sch. 1 (with transitional provisions in arts. 3, 4)
+[^F71]: Sch. 2 paras. 3-3G substituted for Sch. 2 para. 3 (2.10.2000) by 1999 c. 33, s. 169(1), Sch. 14 paras. 118, 126; S.I. 2000/2444, art. 2, Sch. 1 (with transitional provisions in arts. 3, 4)
+[^F72]: Sch. 2 paras. 3-3G substituted for Sch. 2 para. 3 (2.10.2000) by 1999 c. 33, s. 169(1), Sch. 14 paras. 118, 126; S.I. 2000/2444, art. 2, Sch. 1 (with transitional provisions in arts. 3, 4)
+[^F73]: Sch. 2 paras. 3-3G substituted for Sch. 2 para. 3 (2.10.2000) by 1999 c. 33, s. 169(1), Sch. 14 paras. 118, 126; S.I. 2000/2444, art. 2, Sch. 1 (with transitional provisions in arts. 3, 4)
+[^F74]: Sch. 2 paras. 3-3G substituted for Sch. 2 para. 3 (2.10.2000) by 1999 c. 33, s. 169(1), Sch. 14 paras. 118, 126; S.I. 2000/2444, art. 2, Sch. 1 (with transitional provisions in arts. 3, 4)
+[^F75]: Sch. 2 paras. 3-3G substituted for Sch. 2 para. 3 (2.10.2000) by 1999 c. 33, s. 169(1), Sch. 14 paras. 118, 126; S.I. 2000/2444, art. 2, Sch. 1 (with transitional provisions in arts. 3, 4)
+[^F76]: Sch. 2 paras. 3-3G substituted for Sch. 2 para. 3 (2.10.2000) by 1999 c. 33, s. 169(1), Sch. 14 paras. 118, 126; S.I. 2000/2444, art. 2, Sch. 1 (with transitional provisions in arts. 3, 4)
+[^F77]: Sch. 2 paras. 3-3G substituted for Sch. 2 para. 3 (2.10.2000) by 1999 c. 33, s. 169(1), Sch. 14 paras. 118, 126; S.I. 2000/2444, art. 2, Sch. 1 (with transitional provisions in arts. 3, 4)
+[^F78]: Words in Sch. 2 para. 4 substituted (2.10.2000) by 1999 c. 33, s. 169(1), Sch. 14 paras. 118, 127; S.I. 2000/2444, art. 2, Sch. 1 (with transitional provisions in arts. 3, 4)
+[^F79]: Words in Sch. 2 para. 4 inserted (2.4.2001) by 2000 c. 34, s. 9(1), Sch. 2 para. 29(a) (with s. 10(5)); S.I. 2001/566, art. 2(1) (subject to art. 2(2))
+[^F80]: Sch. 2 para. 5 repealed (2.10.2000) by 1999 c. 33, s. 169(1)(3), Sch. 14 paras. 118, 128, Sch. 16; S.I. 2000/2444, art. 2, Sch. 1 (with transitional provisions in arts. 3, 4)
+[^F81]: Sch. 2 para. 6 and crossheading substituted (1.8.2000 for specified purposes and otherwise 2.10.2000) by 1999 c. 33, s. 169(1), Sch. 14 paras. 118, 129; S.I. 2000/1985, art. 2, Sch. 1; S.I. 2000/2444, art. 2, Sch. 1 (with transitional provisions in arts. 3, 4)
+[^F82]: Sch. 2 para. 6 substituted (1.8.2000 for specified purposes and otherwise 2.10.2000) by 1999 c. 33, s. 169(1), Sch. 14 paras. 118, 129; S.I. 2000/1985, art. 2, Sch. 1 (with transitional provisions in art. 3); S.I. 2000/2444, art. 2, Sch. 1 (with transitional provisions in arts. 3, 4)
+[^F83]: Words in Sch. 2 para. 6 inserted (2.4.2001) by 2000 c. 34, s. 9(1), Sch. 2 para. 29(b) (with s. 10(5)); S.I. 2001/566, art. 2(1) (subject to art. 2(2))
+[^F84]: Sch. 2 para. 7 and crossheading substituted (1.8.2000 for specified puposes and otherwise 2.10.2000) by 1999 c. 33, s. 169(1), Sch. 14 paras. 118, 129; S.I. 2000/1985, art. 2, Sch. 1; S.I. 2000/2444, art. 2, Sch. 1 (with transitional provisions in arts. 3, 4)
+[^F85]: Sch. 2 para. 7 substituted (1.8.2000 for specified purposes and otherwise 2.10.2000) by 1999 c. 33, s. 169(1), Sch. 14 paras. 118, 129; S.I. 2000/1985, art. 2, Sch. 1; S.I. 2000/2444, art. 2, Sch. 1 (with transitional provisions in arts. 3, 4)
+[^F86]: Words in Sch. 2 para. 7 inserted (2.4.2001) by 2000 c. 34, s. 9(1), Sch. 2 para. 29(b) (with s. 10(5)); S.I. 2001/566, art. 2(1) (subject to art. 2(2))
+[^F87]: Sch. 3 substituted (15.1.2018 for specified purposes, 31.8.2021 for E.W. in so far as not already in force, 31.8.2022 for S.N.I. in so far as not already in force) by Immigration Act 2016 (c. 19), s. 94(1), Sch. 10 para. 25; S.I. 2017/1241, reg. 2(c) (with Sch.) (as amended by S.I. 2018/31, reg. 2); S.I. 2021/939, reg. 2(b) (with Sch. para. 1, 2); S.I. 2022/863, regs. 1(2), 2(b)

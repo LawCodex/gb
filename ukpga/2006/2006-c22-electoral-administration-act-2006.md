@@ -1,0 +1,5882 @@
+---
+title: "Electoral Administration Act 2006"
+identifier: "ukpga/2006/22"
+citation: "2006 c. 22"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S+N.I."
+date: 2006-07-11
+last_amended: 2025-07-04
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/2006/22"
+source_modified: 2026-09-23
+retrieved: 2026-10-11
+---
+
+# Electoral Administration Act 2006
+
+**2006 c. 22**
+
+An Act to make provision in relation to the registration of electors and the keeping of electoral registration information; standing for election; the administration and conduct of elections and referendums; and the regulation of political parties.
+
+[11th July 2006]
+
+Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## [^F1]Part 1 — Co-ordinated on-line record of electors
+
+### [^F1]1 [^F1]Co-ordinated On-line Record of ElectorsCORE schemes: establishment
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1]2 [^F1]Use of Co-ordinated On-line Record of ElectorsCORE information
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1]3 [^F1]Co-ordinated On-line Record of ElectorsCORE scheme grants
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1]3A [^F1]Establishment of corporation sole to be Co-ordinated On-line Record of ElectorsCORE keeper
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1]4 [^F1]Electoral Commission
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1]5 [^F1]Co-ordinated On-line Record of ElectorsCORE schemes: supplemental
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1]6 [^F1]Co-ordinated On-line Record of ElectorsCORE schemes: procedure
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1]7 [^F1]Amendment of the 1983 Act
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1]8 [^F1]Interpretation of Part
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Part 2 — Registration of electors
+
+### 9 Registration officers: duty to take necessary steps
+
+(1) After section 9 of the 1983 Act (registers of electors) insert—
+
+> **9A Registration officers: duty to take necessary steps**
+>
+> (1) Each registration officer must take all steps that are necessary for the purpose of complying with his duty to maintain the registers under section 9 above.
+>
+> (2) The steps include—
+>
+> (a) sending more than once to any address the form to be used for the canvass under section 10 below;
+>
+> (b) making on one or more occasions house to house inquiries under subsection (5) of that section;
+>
+> (c) making contact by such other means as the registration officer thinks appropriate with persons who do not have an entry in a register;
+>
+> (d) inspecting any records held by any person which he is permitted to inspect under or by virtue of any enactment or rule of law;
+>
+> (e) providing training to persons under his direction or control in connection with the carrying out of the duty.
+>
+> (3) Regulations made by the Secretary of State may amend subsection (2) by—
+>
+> (a) varying any of the paragraphs in that subsection;
+>
+> (b) inserting any paragraph;
+>
+> (c) repealing any paragraph.
+
+(2) Subsection (6) of section 9 of that Act is omitted.
+
+### 10 Anonymous registration
+
+(1) After section 9A of the 1983 Act (inserted by section 9(1) above) insert—
+
+> **9B Anonymous registration**
+>
+> (1) This section applies if an application for registration in a register of parliamentary electors or local government electors is made in accordance with the requirements prescribed for the purposes of section 10A(1)(a) below and is accompanied by—
+>
+> (a) an application under this section made in accordance with prescribed requirements (an application for an anonymous entry),
+>
+> (b) a declaration made in accordance with such requirements for the purposes of this section, and
+>
+> (c) such evidence in support of the application for an anonymous entry as may be prescribed.
+>
+> (2) If the registration officer determines that the person is entitled to be registered, he must also determine whether the safety test is satisfied.
+>
+> (3) If the registration officer determines that the safety test is satisfied—
+>
+> (a) section 9(2) above does not apply in relation to the person; and
+>
+> (b) the person's entry in the register shall instead contain letters in the prescribed form and his electoral number.
+>
+> (4) An entry containing the matters mentioned in subsection (3)(b) above is referred to in this Act as an anonymous entry.
+>
+> (5) If an anonymous entry is made in respect of a person, the registration officer shall remove any other entry in the register for that person.
+>
+> (6) If the registration officer does not determine that the safety test is satisfied, no entry is to be made in respect of him in the register (whether an anonymous entry or otherwise).
+>
+> (7) Subsection (6) above does not affect—
+>
+> (a) any other entry in the register for the person;
+>
+> (b) the determination of any further application for registration which is made by the person (including an application which is treated as having been made by him by virtue of section 10A(2) below).
+>
+> (8) Any communication sent by a registration officer or the returning officer for any election to a person who has an anonymous entry (A) must be sent in an envelope or other form of covering so as not to disclose to any other person that A has an anonymous entry.
+>
+> (9) Subsection (8) does not apply to a communication relating only to a local government election in Scotland.
+>
+> (10) The safety test is satisfied if the safety of the applicant for an anonymous entry or that of any other person of the same household would be at risk if the register contains the name of the applicant or his qualifying address.
+>
+> (11) In this section, “determines” means determines in accordance with regulations.
+>
+> **9C Removal of anonymous entry**
+>
+> (1) If a person has an anonymous entry in a register, his entitlement to remain registered in pursuance of the application for registration mentioned in section 9B(1) terminates—
+>
+> (a) at the end of the period of 12 months beginning with the date when the entry in the register first takes effect, or
+>
+> (b) if the declaration made for the purposes of section 9B is cancelled at any time before the expiry of that 12 month period, at the time when the declaration is cancelled.
+>
+> (2) Subsection (1) above does not affect the application of any other provision of this Act or of the Representation of the People Act 1985 which has the effect that the person's entitlement to registration terminates before the expiry of the 12 month period mentioned in subsection (1) or before the cancellation of the declaration made for the purposes of section 9B.
+>
+> (3) If a person's entitlement to remain registered terminates by virtue of subsection (1) above, the registration officer concerned shall remove his entry from the register, unless he is entitled to remain registered with an anonymous entry in pursuance of a further application for registration accompanied by a further application under section 9B.
+
+(2) Part 1 of Schedule 1 (which makes further provision in connection with anonymous registration) has effect.
+
+### 11 Alterations of registers: pending elections
+
+(1) Section 13B of the 1983 Act (alteration of registers: pending elections) is amended in accordance with subsections (2) to (4).
+
+(2) For subsection (1) substitute—
+
+> (1) If, by virtue of section 13A(2) above, an alteration in a published version of a register is to take effect after the fifth day before the date of the poll for an election to which this section applies, the alteration does not have effect for the purposes of the election.
+
+(3) For subsection (2) substitute—
+
+> (2) Subsection (3) below applies where—
+>
+> (a) at any time before the appropriate publication date in the case of an election to which this section applies, section 13A above applies to a registration officer, by virtue of subsection (1) of that section, in connection with a determination, requirement or decision falling within any of paragraphs (a) to (d) of that subsection;
+>
+> (b) in consequence of the determination, requirement or decision an entry relating to a person falls to be made in (or removed from) the register in respect of an address in the relevant election area; and
+>
+> (c) no alteration made in consequence of the determination, requirement or decision—
+>
+> (i) has already taken effect, or
+>
+> (ii) is due to take effect,
+>
+> under subsection (2) of that section on or before the fifth day before the date of the poll.
+
+(4) After subsection (3) insert—
+
+> (3A) Subsection (3B) below applies where—
+>
+> (a) at any time on or after the appropriate publication date in the case of an election to which this section applies but before the prescribed time on the day of the poll, section 13A above applies to a registration officer, by virtue of subsection (1) of that section, in connection with a notification mentioned in paragraph (c) of that subsection; and
+>
+> (b) in consequence of the notification—
+>
+> (i) an entry relating to that person falls to be made in the register in respect of an address in the relevant election area, or
+>
+> (ii) his entry in the register requires to be altered.
+>
+> (3B) In such a case the registration officer shall issue, in the prescribed manner, a notice specifying the appropriate alteration in the register; and—
+>
+> (a) the notice shall be so issued by him when he receives the notification; and
+>
+> (b) the alteration shall take effect as from the beginning of the day on which the notice is issued.
+>
+> (3C) Subsection (3D) below applies where—
+>
+> (a) at any time on or after the appropriate publication date in the case of an election to which this section applies but before the prescribed time on the day of the poll, section 13A above applies to a registration officer, by virtue of subsection (1) of that section, in connection with a determination falling within paragraph (d) of that subsection;
+>
+> (b) the determination was made following a representation made by or on behalf of a person to the registration officer; and
+>
+> (c) in consequence of the determination—
+>
+> (i) an entry relating to that person falls to be made in the register in respect of an address in the relevant election area, or
+>
+> (ii) his entry in the register requires to be altered.
+>
+> (3D) In such a case the registration officer shall issue, in the prescribed manner, a notice specifying the appropriate alteration in the register; and—
+>
+> (a) the notice shall be so issued by him when he makes the determination; and
+>
+> (b) the alteration shall take effect as from the beginning of the day on which the notice is issued.
+>
+> (3E) In subsection (3C)(b) above, “representation” means a representation made in accordance with prescribed requirements to the effect that the register contains a clerical error.
+
+(5) In section 56 of the 1983 Act (registration appeals), in subsection (4A) for the words from “13B(3) above” to “returning officer” substitute “ 13B(3) or (3B) above on or before the date of the poll ”.
+
+(6) Part 2 of Schedule 1 (which contains further amendments of the 1983 Act relating to the alteration of registers) has effect.
+
+### 12 Determinations by registration officers and objections
+
+(1) In section 7 of the 1983 Act (residence: patients in mental hospitals who are not detained offenders or on remand), after subsection (3)(a) insert—
+
+> (aa) the registration officer determines in accordance with regulations that the person was not entitled to be registered, or
+
+.
+
+(2) In section 7A of that Act (residence: persons remanded in custody etc.), after subsection (3)(a) insert—
+
+> (aa) the registration officer determines in accordance with regulations that the person was not entitled to be registered, or
+
+.
+
+(3) In section 7C of that Act (effect of declaration of local connection), after subsection (2)(a) insert—
+
+> (aa) the registration officer determines in accordance with regulations that the person was not entitled to be registered,
+
+.
+
+(4) In section 10A of that Act (maintenance of registers: registration of electors) after subsection (3) insert—
+
+> (3A) Subsection (3) above applies to an objection to a person's registration whether the objection is made before or after the person is registered in the register.
+
+(5) In that section, in subsection (5)—
+
+(a) omit the word “duly”;
+
+(b) for paragraph (b) substitute—
+
+> (b) determines that the elector was not entitled to be registered in respect of that address or that he has ceased to be resident at that address or has otherwise ceased to satisfy the conditions for registration set out in section 4 above.
+
+(6) In that section, after subsection (5A) insert—
+
+> (5B) A registration officer may, for the purpose of obtaining any information relevant to a determination under subsection (5)(b) above, make such house to house inquiries as he thinks fit.
+
+(7) In section 15 of that Act (service declaration), after subsection (2)(a) insert—
+
+> (aa) the registration officer determines in accordance with regulations that the person was not entitled to be registered,
+
+.
+
+(8) In section 56 of that Act (registration appeals), after subsection (1)(a) insert—
+
+> (aa) from any decision under this Act of the registration officer (other than on an application for registration or objection to a person's registration) that a person registered in respect of any address was not entitled to be registered in respect of that address or that he has ceased to be resident at that address or has otherwise ceased to satisfy the conditions for registration set out in section 4 above,
+
+.
+
+[^F2]9 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 13 Registration of voters with service qualification
+
+(1) In section 15 of the 1983 Act (service declaration), after subsection (8) insert—
+
+> (9) The Secretary of State may by order provide that, in relation to the persons mentioned in section 14(1)(a) and (d), subsection (2)(a) above has effect as if for the period of 12 months there were substituted such other period (not exceeding five years) as he thinks appropriate.
+>
+> (10) The power to make an order under subsection (9) is exercisable by statutory instrument, which may contain such incidental or consequential provision as the Secretary of State thinks appropriate.
+>
+> (11) No order may be made under subsection (9) unless—
+>
+> (a) the Secretary of State first consults the Electoral Commission, and
+>
+> (b) a draft of the instrument containing the order is laid before, and approved by a resolution of, each House of Parliament.
+>
+> (12) If the period substituted by an order under subsection (9) is longer than the period for the time being in force, the longer period has effect in relation to any person who immediately before the order was made was entitled to remain in a register by virtue of subsection (2).
+
+(2) In section 59 of that Act (supplemental provisions as to members of forces and service voters), for subsection (3) substitute—
+
+> (3) Arrangements must be made by the appropriate government department for securing that every person having a service qualification by virtue of paragraph (a) or (b) of section 14(1) above has (so far as circumstances permit) an effective opportunity of exercising from time to time as occasion may require the rights conferred on him by this Act in relation to—
+>
+> (a) registration in a register of electors (and in particular in relation to the making and cancellation of service declarations);
+>
+> (b) the making and cancellation of appointments of a proxy;
+>
+> (c) voting in person, by post or by proxy.
+>
+> (3A) Arrangements must be made by the appropriate government department for securing that every such person receives such instructions as to the effect of this Act and any regulations made under it, and such other assistance, as may be reasonably sufficient in connection with the exercise by that person and any spouse or civil partner of that person of any rights conferred on them as mentioned above.
+>
+> (3B) In subsections (3) and (3A) “the appropriate government department” means, in relation to members of the forces, the Ministry of Defence, and in relation to any other person means the government department under which he is employed in the employment giving the service qualification.
+>
+> (3C) The Ministry of Defence must maintain, in relation to each member of the forces who provides information relating to his registration as an elector, a record of such information.
+>
+> (3D) The Ministry of Defence must make arrangements to enable each member of the forces to update annually the information recorded under subsection (3C).
+
+(3) In section 59(4) of that Act, for “subsection (3)” substitute “ subsections (3) and (3A) ”.
+
+## Part 3 — Anti-fraud measures
+
+### 14 Absent voting: personal identifiers
+
+(1) In paragraph 3 of Schedule 4 to the Representation of the People Act 2000 (c. 2) (application for absent vote for definite or indefinite period)—
+
+(a) in sub-paragraph (1)(b), after “application” insert “ contains the applicant's signature and date of birth and ”;
+
+(b) in sub-paragraph (2)(c), after “application” insert “ contains the applicant's signature and date of birth and ”;
+
+(c) after sub-paragraph (7) insert—
+
+> (8) The registration officer may dispense with the requirement under sub-paragraph (1)(b) or (2)(c) for the applicant to provide a signature if he is satisfied that the applicant is unable—
+>
+> (a) to provide a signature because of any disability the applicant has,
+>
+> (b) to provide a signature because the applicant is unable to read or write, or
+>
+> (c) to sign in a consistent and distinctive way because of any such disability or inability.
+>
+> (9) The registration officer must also keep a record in relation to those whose applications under this paragraph have been granted showing—
+>
+> (a) their dates of birth;
+>
+> (b) except in cases where the registration officer in pursuance of sub-paragraph (8) has dispensed with the requirement to provide a signature, their signatures.
+>
+> (10) The record kept under sub-paragraph (9) must be retained by the registration officer for the prescribed period.
+
+(2) In paragraph 4 of that Schedule (application for absent vote at particular election)—
+
+(a) in sub-paragraph (1)(b), after “application” insert “ contains the applicant's signature and date of birth and ”;
+
+(b) in sub-paragraph (2)(c), after “application” insert “ contains the applicant's signature and date of birth and ”;
+
+(c) after sub-paragraph (4) insert—
+
+> (5) The registration officer may dispense with the requirement under sub-paragraph (1)(b) or (2)(c) for the applicant to provide a signature if he is satisfied that the applicant is unable—
+>
+> (a) to provide a signature because of any disability the applicant has,
+>
+> (b) to provide a signature because the applicant is unable to read or write, or
+>
+> (c) to sign in a consistent and distinctive way because of any such disability or inability.
+>
+> (6) The registration officer must keep a record of those whose applications under this paragraph have been granted showing—
+>
+> (a) their dates of birth;
+>
+> (b) except in cases where the registration officer in pursuance of sub-paragraph (5) has dispensed with the requirement to provide a signature, their signatures.
+>
+> (7) The record kept under sub-paragraph (6) must be retained by the registration officer for the prescribed period.
+
+(3) In paragraph 7 of that Schedule (application for proxy postal vote)—
+
+(a) in sub-paragraph (5)(c), after “application” insert “ contains the applicant's signature and date of birth and ”;
+
+(b) after sub-paragraph (10) (as inserted by section 38(6)(b) of this Act) insert—
+
+> (11) The registration officer may dispense with the requirement under sub-paragraph (5)(c) for the applicant to provide a signature if he is satisfied that the applicant is unable—
+>
+> (a) to provide a signature because of any disability the applicant has,
+>
+> (b) to provide a signature because the applicant is unable to read or write, or
+>
+> (c) to sign in a consistent and distinctive way because of any such disability or inability.”
+>
+> (12) The registration officer must also keep a record in relation to those whose applications under sub-paragraph (4)(a) or (b) have been granted showing—
+>
+> (a) their dates of birth;
+>
+> (b) except in cases where the registration officer in pursuance of sub-paragraph (11) has dispensed with the requirement to provide a signature, their signatures.
+>
+> (13) The record kept under sub-paragraph (12) must be retained by the registration officer for the prescribed period.
+
+(4) After paragraph 7 of that Schedule insert—
+
+> **Provision of fresh signatures**
+>
+> **7A** (1) A person who remains on the record kept under paragraph 3(4) or 7(6) may, at any time, provide the registration officer with a fresh signature.
+>
+> (2) Anything required or authorised to be done for the purposes of any enactment in relation to a signature required to be provided in pursuance of this Schedule must be done in relation to a signature provided as mentioned in sub-paragraph (1) instead of in relation to a signature provided on any earlier occasion.
+>
+> **7B** Regulations may make provision as to—
+>
+> (a) circumstances in which a registration officer may require a person who remains on the record kept under paragraph 3(4) or 7(6) to provide a fresh signature;
+>
+> (b) the consequences of a person refusing or failing to comply with a requirement to provide a fresh signature.
+>
+> **Use of personal identifier information**
+>
+> **7C** The registration officer must either —
+>
+> (a) provide the returning officer for an election with a copy of the information contained in records kept by the registration officer in pursuance of paragraphs 3(9), 4(6) and 7(12) in relation to electors at the election, or
+>
+> (b) give the returning officer access to such information.
+>
+> **7D** Information contained in records kept by a registration officer in pursuance of paragraph 3(9), 4(6) or 7(12) may be disclosed by him (subject to any prescribed conditions) to—
+>
+> (a) any other registration officer if he thinks that to do so will assist the other registration officer in the performance of his duties;
+>
+> (b) any person exercising functions in relation to the preparation or conduct of legal proceedings under the Representation of the People Acts;
+>
+> (c) such other persons for such other purposes relating to elections as may be prescribed.
+
+(5) The Secretary of State may by regulations make provision—
+
+(a) enabling the registration officer to require an existing absent voter to provide the registration officer with a signature and date of birth;
+
+(b) as to the consequences of an existing absent voter refusing or failing in such circumstances as are prescribed to provide a signature and date of birth.
+
+(6) An existing absent voter is a person whose application under any of the following provisions of that Schedule has been granted before this section comes into force—
+
+- paragraph 3(1) or (2);
+- paragraph 4(1) or (2);
+- paragraph 7(4).
+
+(7) The regulations—
+
+(a) may make different provision for different purposes;
+
+(b) must be made by statutory instrument subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(8) Nothing in this section or the amendments made by it has effect in relation to anything which is done only for the purposes of a local government election in Scotland.
+
+### 15 Offences as to false registration information
+
+(1) Section 13D of the 1983 Act (provision of false information) is amended in accordance with subsections (2) to (8).
+
+(2) For subsection (1) substitute—
+
+> (1) A person who for any purpose connected with the registration of electors provides to a registration officer any false information is guilty of an offence.
+
+(3) After subsection (1) (as substituted by subsection (2) above) insert—
+
+> (1A) A person who provides false information in connection with an application (other than an application relating only to a local government election in Scotland) to which any of the following provisions of Schedule 4 to the Representation of the People Act 2000 (applications relating to absent voting) applies is guilty of an offence—
+>
+> (a) paragraph 3(1) or (2);
+>
+> (b) paragraph 4(1) or (2);
+>
+> (c) paragraph 7(4).
+
+(4) In subsection (3) after “subsection (1)” insert “ or (1A) ”.
+
+(5) In subsection (4) after “subsection (1)” insert “ or (1A) ”.
+
+(6) In subsection (6)(a) for “six months” substitute “ 51 weeks ”.
+
+(7) After subsection (6) insert—
+
+> (7) In the application of subsection (6)(a) to Scotland and Northern Ireland, the reference to 51 weeks must be taken to be a reference to six months.
+>
+> (8) In relation to an offence committed before the commencement of section 281(5) of the Criminal Justice Act 2003, the reference in subsection (6)(a) to 51 weeks must be taken to be a reference to six months.
+
+(8) With effect from the commencement of this section, section 13D of the 1983 Act extends to the whole of the United Kingdom.
+
+(9) In section 8 of the Electoral Fraud (Northern Ireland) Act 2002 (c. 13) (short title, interpretation, commencement and extent), in subsection (5) after “Act” insert “ (except section 7) ”.
+
+## Part 4 — Review of polling places
+
+### 16 Review of polling places
+
+(1) For section 18 of the 1983 Act (polling districts and places at parliamentary elections) substitute—
+
+> **18A Polling districts at parliamentary elections**
+>
+> (1) Every constituency is to be divided into polling districts.
+>
+> (2) A relevant authority must—
+>
+> (a) divide its area into polling districts for the purpose of parliamentary elections for so much of any constituency as is situated in its area, and
+>
+> (b) keep the polling districts under review.
+>
+> (3) The following rules apply—
+>
+> (a) the authority must seek to ensure that all electors in a constituency in its area have such reasonable facilities for voting as are practicable in the circumstances;
+>
+> (b) in England, each parish is to be a separate polling district;
+>
+> (c) in Wales, each community is to be a separate polling district;
+>
+> (d) in Scotland, each electoral ward (within the meaning of section 1 of the Local Governance (Scotland) Act 2004) is to be divided into two or more separate polling districts.
+>
+> (4) Subsection (3)(b) to (d) does not apply if, in any case, there are special circumstances.
+>
+> (5) If an alteration of polling districts in an area is made under this section—
+>
+> (a) the registration officer who acts for the area must make such adaptations of his register of parliamentary electors as are necessary to take account of the alteration, and
+>
+> (b) the alteration is effective on the date on which the registration officer publishes a notice stating that the adaptations have been made by him.
+>
+> **18B Polling places at parliamentary elections**
+>
+> (1) A polling place is to be designated for each polling district in a constituency.
+>
+> (2) But subsection (1) does not apply if the size or other circumstances of a polling district are such that the situation of the polling stations does not materially affect the convenience of the electors or any body of them.
+>
+> (3) A relevant authority must—
+>
+> (a) designate the polling places for the polling districts in its area, and
+>
+> (b) keep the polling places in its area under review.
+>
+> (4) The following rules apply—
+>
+> (a) the authority must seek to ensure that all electors in a constituency in its area have such reasonable facilities for voting as are practicable in the circumstances;
+>
+> (b) the authority must seek to ensure that so far as is reasonable and practicable every polling place for which it is responsible is accessible to electors who are disabled;
+>
+> (c) the authority must have regard to the accessibility to disabled persons of potential polling stations in any place which it is considering designating as a polling place or the designation of which as a polling place it is reviewing;
+>
+> (d) the polling place for a polling district must be an area in the district, unless special circumstances make it desirable to designate an area wholly or partly outside the district;
+>
+> (e) the polling place for a polling district must be small enough to indicate to electors in different parts of the district how they will be able to reach the polling station.
+>
+> (5) If no polling place is designated for a polling district the polling district is to be taken to be the polling place.
+>
+> **18C Review of polling districts and places**
+>
+> (1) Each relevant authority must complete a review under sections 18A and 18B of all of the polling districts and polling places in its area before the end of the period of 12 months starting with the date on which section 16 of the Electoral Administration Act 2006 comes into force.
+>
+> (2) Subsection (1) does not apply in the case of a polling district or polling place (as the case may be) which is designated for the first time during that period.
+>
+> (3) In such a case, the first review of the polling district or polling place must be completed before the end of the period of four years starting with the date on which that designation is made.
+>
+> (4) The authority must complete a further review of each polling district and polling place in its area before the end of the period of four years starting with the completion of the previous such review.
+>
+> (5) Subsections (1) to (4) do not prevent a relevant authority carrying out at any time a review of a particular polling district or polling place.
+>
+> (6) Schedule A1 has effect in relation to a review.
+>
+> **18D Review of polling districts and places: representations to Electoral Commission**
+>
+> (1) This section applies if in relation to a constituency in the area of a relevant authority a relevant representation is made to the Electoral Commission by—
+>
+> (a) an interested authority in England and Wales;
+>
+> (b) not less than 30 electors in the constituency;
+>
+> (c) a person (other than the returning officer) who has made representations under Schedule A1;
+>
+> (d) a person who is not an elector in a constituency in the authority's area but who the Commission think has sufficient interest in the accessibility of disabled persons to polling places in the area or has particular expertise in relation to the access to premises or facilities of disabled persons.
+>
+> (2) A relevant representation is a representation that a review under section 18A or 18B has not been conducted by a relevant authority so as to—
+>
+> (a) meet the reasonable requirements of the electors in the constituency or any body of those electors, or
+>
+> (b) take sufficient account of the accessibility to disabled persons of polling stations within a designated polling place.
+>
+> (3) The returning officer for the constituency may make observations on representations made under this section.
+>
+> (4) The Electoral Commission must consider such representations and observations and may, if they think fit—
+>
+> (a) direct the relevant authority to make any alterations to the polling places designated by the review which the Commission think necessary in the circumstances;
+>
+> (b) if the authority fails to make the alterations before the end of the period of two months starting on the day the direction is given, make the alterations themselves.
+>
+> (5) Alterations made by the Electoral Commission under subsection (4) have effect as if they had been made by the relevant authority.
+>
+> (6) An interested authority in relation to a constituency in England and Wales is—
+>
+> (a) in England, the council of a parish, or where there is no such council the parish meeting of a parish, which is wholly or partly situated within the constituency;
+>
+> (b) in Wales, the council of a community which is so situated.
+>
+> (7) The reference in subsection (1)(b) to electors does not include persons who have an anonymous entry in the register of parliamentary electors or local government electors.
+>
+> **18E Sections 18A to 18D: supplemental**
+>
+> (1) This section applies for the purposes of sections 18A to 18D.
+>
+> (2) No election is to be questioned by reason of—
+>
+> (a) any non-compliance with the provisions of those sections, or
+>
+> (b) any informality relative to polling districts or polling places.
+>
+> (3) Each of the following is a relevant authority—
+>
+> (a) in relation to England, the council of a district or London borough;
+>
+> (b) in relation to Scotland, a local authority;
+>
+> (c) in relation to Wales, the council of a county or county borough.
+>
+> (4) The following do not apply to Northern Ireland—
+>
+> (a) section 18A(2) to (5);
+>
+> (b) section 18B(2) to (5);
+>
+> (c) sections 18C and 18D,
+>
+> and in Northern Ireland the polling districts and polling places are those for the time being established under the law relating to local elections within the meaning of section 130 of the Electoral Law Act (Northern Ireland) 1962.
+
+(2) Before Schedule 1 to that Act (parliamentary elections rules) insert—
+
+> **SCHEDULE A1 — Review of polling districts and polling places**
+>
+> *Section 18C*
+>
+> **1** The relevant authority must publish notice of the holding of a review.
+>
+> **2** The authority must consult the returning officer for every parliamentary election held in a constituency which is wholly or partly in its area.
+>
+> **3** (1) Every such returning officer must make representations to the authority.
+>
+> (2) The representations must include information as to the location of polling stations (existing or proposed) within polling places (existing or proposed).
+>
+> (3) The representations must be published in such manner as is prescribed.
+>
+> **4** (1) The authority must seek representations from such persons as it thinks have particular expertise in relation to access to premises or facilities for persons who have different forms of disability.
+>
+> (2) Such persons must have an opportunity—
+>
+> (a) to make representations;
+>
+> (b) to comment on the returning officer's representations.
+>
+> **5** Any elector in a constituency situated in whole or in part in the authority's area may make representations.
+>
+> **6** Representations made by any person in connection with a review of polling places may include proposals for specified alternative polling places.
+>
+> **7** On completion of a review the authority must—
+>
+> (a) give reasons for its decisions in the review;
+>
+> (b) publish such other information as is prescribed.
+
+## Part 5 — Standing for election
+
+### 17 Minimum age
+
+(1) A person is disqualified for membership of the House of Commons if, on the day on which he is nominated as a candidate, he has not attained the age of 18.
+
+(2) Subject to an order made by the House of Commons under section 6(2) of the House of Commons Disqualification Act 1975 (c. 24) as applied by subsection (3), if a person disqualified by subsection (1) for membership of that House is elected as a member of that House his election is void.
+
+(3) Sections 6(2) to (4) and 7 of that Act apply in the case of a person disqualified by subsection (1) as they apply in the case of a person disqualified by that Act, and references in those sections to a person disqualified by that Act must be construed as including references to a person disqualified by subsection (1).
+
+(4) In section 79(1) of the Local Government Act 1972 (c. 70) (qualifications for election and holding office as a member of a local authority) for “twenty-one” substitute “ eighteen ”.
+
+(5) In section 20(3) of the Greater London Authority Act 1999 (c. 29) (minimum age for election as Mayor or Assembly member) for “21” substitute “ 18 ”.
+
+(6) In section 3(1) of the Local Government Act (Northern Ireland) 1972 (C. 9) (qualifications for election and holding office as a councillor) for “twenty-one” substitute “ eighteen ”.
+
+(7) The following enactments (which disqualify a person who has not attained the age of 21 for election as a Member of Parliament), so far as not previously repealed, cease to have effect—
+
+(a) section 7 of the Parliamentary Elections Act 1695 (c. 25);
+
+(b) the Election Act 1707 (cap. 8);
+
+(c) section 74 of the Parliamentary Elections (Ireland) Act 1823 (c. 55).
+
+(8) In section 6 of the Union with Scotland Act 1706 (c. 11) the words “It is always hereby expressly provided and declared that none shall be capable to elect or be elected for any of the said estates but such as are twenty one years complete” do not apply for the purpose of fixing the minimum age at which a person may be elected as a member of the House of Commons.
+
+### 18 Certain Commonwealth citizens
+
+(1) In section 3 of the Act of Settlement (1700 c. 2), the words from “That after the said limitation shall take effect” to “in trust for him.” (which impose certain disqualifications) do not apply (so far as they relate to membership of the House of Commons) to a person who is—
+
+(a) a qualifying Commonwealth citizen, or
+
+(b) a citizen of the Republic of Ireland.
+
+(2) For the purposes of subsection (1), a person is a qualifying Commonwealth citizen if he is a Commonwealth citizen who either—
+
+(a) is not a person who requires leave under the Immigration Act 1971 (c. 77) to enter or remain in the United Kingdom, or
+
+(b) is such a person but for the time being has (or is, by virtue of any enactment, to be treated as having) indefinite leave to remain within the meaning of that Act.
+
+(3) But a person is not a qualifying Commonwealth citizen by virtue of subsection (2)(a) if he does not require leave to enter or remain in the United Kingdom by virtue only of section 8 of the Immigration Act 1971 (exceptions to requirement for leave in special cases).
+
+(4) Subject to an order made by the House of Commons under section 6(2) of the House of Commons Disqualification Act 1975 (c. 24) as applied by subsection (5)—
+
+(a) if a person disqualified for membership of that House by virtue of section 3 of the Act of Settlement (1700 c. 2) as modified by this section is elected as a member of that House his election is void;
+
+(b) if a person being a member of that House becomes so disqualified for membership his seat is vacated.
+
+(5) Sections 6(2) to (4) and 7 of the House of Commons Disqualification Act 1975 apply in the case of a person disqualified as mentioned in subsection (4) as they apply in the case of a person disqualified by that Act, and references in those sections to a person disqualified by that Act must be construed as including references to a person disqualified as mentioned in subsection (4).
+
+(6) Part 3 of Schedule 1 (which contains further amendments relating to standing for election) has effect.
+
+(7) In Schedule 7 to the British Nationality Act 1981 (c. 61), the entry relating to the Act of Settlement is omitted.
+
+### 19 Nomination procedures
+
+(1) Schedule 1 to the 1983 Act (parliamentary elections rules) is amended as follows.
+
+(2) In rule 1 (timetable), in the entry in the second column in respect of “Publication of statement of persons nominated”, for the words from “at the close of” to the end substitute
+
+> —
+>
+> (a) if no objections to nomination papers are made, at the close of the time for doing so, or
+>
+> (b) if any such objections are made, not before they are disposed of but not later than 24 hours after the last time for delivery of nomination papers.
+
+(3) In rule 5 (notice of election), after paragraph (1) insert—
+
+> (1A) The notice of election must also state the arrangements which apply for the payment of the deposit required by rule 9 below to be made by means of the electronic transfer of funds.
+
+(4) In rule 6 (nomination of candidates), in paragraph (3)(a)—
+
+(a) the words “(of not more than 6 words in length)” are omitted;
+
+(b) after “rule 6A(1)” insert “ or (1B) ”.
+
+(5) In rule 9 (deposit), in paragraph (2)(c) after “manner” insert “ (including by means of a debit or credit card or the electronic transfer of funds) ”.
+
+(6) In rule 12 (validity of nomination papers), in paragraph (3) for the words from “as soon as practicable” to the end substitute
+
+> —
+>
+> (a) as soon as practicable after it is made, and
+>
+> (b) in any event, before the end of the period of 24 hours starting with the close of the period for delivery of nomination papers set out in the Table in rule 1.
+
+(7) In that rule, in paragraph (3A) for the words from “as soon as practicable” to the end substitute
+
+> —
+>
+> (a) as soon as practicable after delivery of the nomination paper, and
+>
+> (b) in any event, before the end of the period of 24 hours starting with the close of the period for delivery of nomination papers set out in the Table in rule 1.
+
+(8) After rule 14 insert—
+
+> **14A Correction of minor errors**
+>
+> (1) A returning officer may, if he thinks fit, at any time before the publication under rule 14 above of the statement of persons nominated, correct minor errors in a nomination paper.
+>
+> (2) Errors which may be corrected include—
+>
+> (a) errors as to a person's electoral number;
+>
+> (b) obvious errors of spelling in relation to the details of a candidate.
+>
+> (3) Anything done by a returning officer in pursuance of this rule must not be questioned in any proceedings other than proceedings on an election petition.
+>
+> (4) A returning officer must have regard to any guidance issued by the Electoral Commission for the purposes of this rule.
+
+## Part 6 — Conduct of elections etc.
+
+### Election timetables
+
+#### 20 Omission of references to Maundy Thursday
+
+Part 4 of Schedule 1 contains amendments which omit the words “Maundy Thursday” from certain enactments specifying the days which are to be disregarded for the purposes of election timetables and the computation of periods relating to elections.
+
+### Nomination
+
+#### 21 Use of candidates' common names
+
+(1) Schedule 1 to the 1983 Act (parliamentary elections rules) is amended as follows.
+
+(2) In rule 6 (nomination of candidates), after paragraph (2) insert—
+
+> (2A) If a candidate commonly uses—
+>
+> (a) a surname which is different from any other surname he has, or
+>
+> (b) a forename which is different from any other forename he has,
+>
+> the nomination paper may state the commonly used surname or forename in addition to the other name.
+
+(3) In rule 14 (publication of statement of persons nominated), after paragraph (2) insert—
+
+> (2A) If a person's nomination paper gives a commonly used surname or forename in addition to another name, the statement shall show the person's commonly used surname or forename (as the case may be) instead of any other name.
+>
+> (2B) Paragraph (2A) above does not apply if the returning officer thinks—
+>
+> (a) that the use of the person's commonly used name may be likely to mislead or confuse electors, or
+>
+> (b) that the commonly used name is obscene or offensive.
+>
+> (2C) If paragraph (2B) above applies, the returning officer must give notice in writing to the candidate of his reasons for refusing to allow the use of a commonly used name.
+
+(4) In the Appendix of forms, in the Form of nomination paper, for the first table following the words “candidate at the said election” substitute—
+
+> |  |  |  |  |  |  |
+> |---|---|---|---|---|---|
+> | *Candidate's surname* | *Other names in full* | *Commonly used surname (if any)* | *Commonly used forenames (if any)* | *Description (if any)* | *Home address in full* |
+> | SULLIVAN | Arthur Seymour | GILBERT | W. S. | Independent | 52, Bunthorne Walk, Basingstoke |
+
+(5) In the Appendix of forms, in the Note following the Form of nomination paper, after paragraph 2 insert—
+
+> **2A**
+>
+> Where a candidate commonly uses a name which is different from any other name he has, the commonly used name may also appear on the nomination paper, but if it does so, the commonly used name (instead of any other name) will appear on the ballot paper.
+>
+> **2B**
+>
+> But the ballot paper will show the other name if the returning officer thinks—
+>
+> (a) that the use of the commonly used name may be likely to mislead or confuse electors, or
+>
+> (b) that the commonly used name is obscene or offensive.
+
+#### 22 Candidate not to stand in more than one constituency
+
+In Schedule 1 to the 1983 Act (parliamentary elections rules), in rule 8(3) (candidate's consent to nomination), after paragraph (b) insert—
+
+> (c) shall state that he is not a candidate at an election for any other constituency the poll for which is to be held on the same day as that for the election to which the consent relates,
+
+.
+
+#### 23 Offences as to false statements in nomination papers
+
+(1) Section 65A of the 1983 Act (false statements in nomination papers) is amended as follows.
+
+(2) In subsection (1), after paragraph (b) insert
+
+> or
+>
+> (c) a certificate authorising for the purposes of rule 6A of the parliamentary elections rules the use by a candidate of a description if he knows that the candidate is standing at an election in another constituency in which the poll is to be held on the same day as the poll at the election to which the certificate relates.
+
+(3) After subsection (1) insert—
+
+> (1A) A person is guilty of a corrupt practice if, in the case of any relevant election, he makes in any document in which he gives his consent to his nomination as a candidate—
+>
+> (a) a statement of his date of birth,
+>
+> (b) a statement as to his qualification for being elected at that election, or
+>
+> (c) a statement that he is not a candidate at an election for any other constituency the poll for which is to be held on the same day as the poll at the election to which the consent relates,
+>
+> which he knows to be false in any particular.
+>
+> (1B) For the purposes of subsection (1A), a statement as to a candidate's qualification is a statement—
+>
+> (a) that he is qualified for being elected,
+>
+> (b) that he will be qualified for being elected, or
+>
+> (c) that to the best of his knowledge and belief he is not disqualified for being elected.
+
+(4) In subsection (2)(b) at the beginning insert “ except for the purposes of subsections (1)(c) and (1A)(c), ”.
+
+### Death of candidate
+
+#### 24 Death of candidate
+
+In Schedule 1 to the 1983 Act (parliamentary elections rules) for rule 60 (countermand or abandonment of poll on death of candidate) and the cross-heading preceding it substitute—
+
+> **60 Independent candidate**
+>
+> (1) This rule applies if at a contested election proof is given to the returning officer's satisfaction before the result of the election is declared that one of the persons named or to be named in the ballot papers as an independent candidate has died.
+>
+> (2) Subject to this rule and rules 61 and 62, these rules apply to the election as if the candidate had not died.
+>
+> (3) The following provisions of these rules do not apply in relation to the deceased candidate—
+>
+> (a) rule 32(1)(c) and (d) (admission to polling station);
+>
+> (b) rule 44(2)(b) to (d) (attendance at count);
+>
+> (c) rule 53(4) (forfeiture of deposit).
+>
+> (4) If only two persons are shown as standing nominated in the statement of persons nominated the returning officer must—
+>
+> (a) if polling has not begun, countermand the notice of poll;
+>
+> (b) if polling has begun, direct that the poll is abandoned;
+>
+> (c) subject to rule 65, treat the election as an uncontested election.
+>
+> (5) For the purposes of this rule a person is named or to be named on the ballot papers as an independent candidate if the description (if any) on his nomination paper is not authorised as mentioned in rule 6A(1) or (1B).
+>
+> **61 Deceased independent candidate wins**
+>
+> (1) This rule applies if at an election mentioned in rule 60(1) the majority of votes is given to the deceased candidate.
+>
+> (2) Rule 50(1) (declaration of result) does not apply but the returning officer must—
+>
+> (a) declare that the majority of votes has been given to the deceased candidate,
+>
+> (b) declare that no member is returned, and
+>
+> (c) give public notice of the total number of votes given for each candidate together with the number of rejected ballot papers under each head shown in the statement of rejected ballot papers.
+>
+> (3) Rule 53 (return or forfeiture of candidate's deposit) does not apply in relation to the remaining candidates.
+>
+> (4) The returning officer must not return the writ and the proceedings with reference to the election must be commenced afresh subject to the following provisions of this rule.
+>
+> (5) The writ for the election must be taken to have been received on the first working day after the end of the period of seven days starting on the day of the election mentioned in rule 60(1).
+>
+> (6) No fresh nomination is necessary in the case of a person shown in the statement of persons nominated as standing nominated, and no other nomination may be made.
+>
+> (7) The last day on which a notice of withdrawal of candidature by a person who stands nominated by virtue of paragraph (6) may be delivered is the seventh working day after the day on which the writ is taken to be received.
+>
+> (8) Rule 9 (deposit) does not apply.
+>
+> (9) The poll must be held on a day in the period which starts 15 working days after the day on which the writ is taken to have been received and ends 19 working days after that day.
+>
+> (10) For the purposes of this rule a working day is a day which is not a day specified in rule 2(1)(a) to (c).
+>
+> **62 Deceased independent candidate with equality of votes**
+>
+> In an election mentioned in rule 60(1), if—
+>
+> (a) rule 49 applies (equality of votes), and
+>
+> (b) any of the candidates to whom that rule applies is a deceased candidate,
+>
+> the deceased candidate must be ignored.
+>
+> **63 Party candidate**
+>
+> (1) This rule applies if—
+>
+> (a) at a contested election proof is given to the returning officer's satisfaction before the result of the election is declared that one of the persons named or to be named as a candidate in the ballot paper has died, and
+>
+> (b) that person is standing in the name of a registered political party.
+>
+> (2) The returning officer must—
+>
+> (a) countermand notice of the poll, or
+>
+> (b) if polling has begun, direct that the poll be abandoned.
+>
+> (3) The proceedings with reference to the election must be commenced afresh subject to the following provisions of this rule.
+>
+> (4) The writ for the election must be taken to have been received on the first working day after the end of the period of seven days starting on the day the proof is given to the returning officer.
+>
+> (5) No fresh nomination is necessary in the case of a person shown in the statement of persons nominated as standing nominated.
+>
+> (6) No other nomination may be made except for a person standing in the name of the same registered political party in whose name the deceased candidate was standing.
+>
+> (7) The last day on which a nomination mentioned in paragraph (6) may be delivered is the seventh working day after the day on which the writ is taken to be received.
+>
+> (8) The last day on which a notice of withdrawal of candidature by a person who stands nominated by virtue of paragraph (5) or in pursuance of paragraph (6) may be delivered is the seventh working day after the day on which the writ is taken to be received.
+>
+> (9) The poll must be held on a day in the period which starts 15 working days after the day on which the writ is taken to have been received and ends 19 working days after that day.
+>
+> (10) For the purposes of this rule—
+>
+> (a) a person stands in the name of a registered political party if his nomination paper contains a description which is authorised as mentioned in rule 6A(1) or (1B);
+>
+> (b) a registered political party is a party which is registered under Part 2 of the Political Parties, Elections and Referendums Act 2000;
+>
+> (c) a working day is a day which is not a day specified in rule 2(1)(a) to (c).
+>
+> **64 Speaker of the House of Commons seeking re-election**
+>
+> (1) This rule applies if at a contested election—
+>
+> (a) one of the candidates is the Speaker of the House of Commons seeking re-election, and
+>
+> (b) proof is given to the returning officer's satisfaction before the result of the election is declared that that candidate has died.
+>
+> (2) The returning officer must—
+>
+> (a) countermand notice of the poll, or
+>
+> (b) if polling has begun, direct that the poll be abandoned.
+>
+> (3) The proceedings with reference to the election must be commenced afresh subject to the following provisions of this rule.
+>
+> (4) The writ for the election must be taken to have been received on the first working day after the end of the period of seven days starting on the day the proof is given to the returning officer.
+>
+> (5) The last day on which—
+>
+> (a) nominations, or
+>
+> (b) notice of withdrawal of candidature,
+>
+> may be delivered is the seventh working day after the day on which the writ is taken to be received.
+>
+> (6) The poll must be held on a day in the period which starts 15 working days after the day on which the writ is taken to have been received and ends 19 working days after that day.
+>
+> (7) For the purposes of this rule a working day is a day which is not a day specified in rule 2(1)(a) to (c).
+>
+> **65 Abandoned poll**
+>
+> (1) This rule applies to—
+>
+> (a) a poll which is abandoned in pursuance of rule 60(4)(b) as if it were a poll at a contested election;
+>
+> (b) a poll which is abandoned in pursuance of rule 63(2)(b) or 64(2)(b).
+>
+> (2) The presiding officer at a polling station must take the like steps (so far as not already taken) for the delivery to the returning officer of ballot boxes and of ballot papers and other documents as he is required to take on the close of the poll.
+>
+> (3) The returning officer must dispose of ballot papers and other documents in his possession as is he required to do on the completion of the counting of the votes.
+>
+> (4) It is not necessary for a ballot paper account to be prepared or verified.
+>
+> (5) No step or further step is to be taken for the counting of the ballot papers or of the votes.
+>
+> (6) The returning officer must seal up all the ballot papers (whether the votes on them have been counted or not) and it is not necessary to seal up counted and rejected ballot papers in separate packets.
+>
+> (7) The provisions of these rules as to the inspection, production, retention and destruction of ballot papers and other documents relating to a poll at an election apply subject to paragraphs (8) and (9).
+>
+> (8) Ballot papers on which the votes were neither counted nor rejected must be treated as counted ballot papers.
+>
+> (9) No order is to be made for—
+>
+> (a) the production or inspection of any ballot papers, or
+>
+> (b) the opening of a sealed packet of the completed corresponding number lists or of certificates as to employment on the day of the poll,
+>
+> unless the order is made by a court with reference to a prosecution.
+
+### Election expenses
+
+#### 25 Amount of expenses which may be incurred by third party
+
+(1) Section 75 of the 1983 Act (prohibition of expenses not authorised by election agent) is amended as follows.
+
+(2) In subsection (1)—
+
+(a) after “be incurred” insert “ after he becomes a candidate at that election ”;
+
+(b) omit from “but paragraph (c) or (d) of” to the end.
+
+(3) After subsection (1) insert—
+
+> (1ZZA) Paragraph (c) or (d) of subsection (1) above does not restrict the publication of any matter relating to the election in—
+>
+> (a) a newspaper or other periodical,
+>
+> (b) a broadcast made by the British Broadcasting Corporation or by Sianel Pedwar Cymru, or
+>
+> (c) a programme included in any service licensed under Part 1 or 3 of the Broadcasting Act 1990 or Part 1 or 2 of the Broadcasting Act 1996.
+>
+> (1ZZB) Subsection (1) above does not apply to any expenses incurred by any person—
+>
+> (a) which do not exceed in the aggregate the permitted sum (and are not incurred by that person as part of a concerted plan of action), or
+>
+> (b) in travelling or in living away from home or similar personal expenses.
+
+(4) In subsection (1ZA) for “subsection (1)(ii)” in each place where it occurs substitute “ subsection (1ZZB)(a) ”.
+
+(5) After subsection (7) insert—
+
+> (8) For the purposes of subsection (1), expenditure incurred before the date when a person becomes a candidate at the election is to be treated as having been incurred after that date if it is incurred in connection with any thing which is used or takes place after that date.
+
+(6) The amendments made by this section (except subsections (2)(a) and (5)) must be taken to have had effect from 16 February 2001 (the date of coming into force of section 131 of the 2000 Act).
+
+(7) This section does not apply to local government elections in Scotland (within the meaning of the 1983 Act).
+
+#### 26 Return as to election expenses
+
+(1) In section 81 of the 1983 Act (returns as to election expenses), omit subsection (3) and insert—
+
+> (3A) The return shall also contain as respects that candidate—
+>
+> (a) a statement relating to such other expenses in connection with which provision is made by this Part as the Electoral Commission provide in regulations;
+>
+> (b) a statement relating to such claims (whether paid, unpaid or disputed) in connection with such election expenses or such other expenses mentioned in paragraph (a) as the Electoral Commission so provide;
+>
+> (c) a statement relating to such other matters as is prescribed.
+
+[^F3]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 27 Meaning of election expenses for purposes of the 1983 Act
+
+(1) The 1983 Act is amended as follows.
+
+(2) After section 90 (election expenses at elections where election agent not required) insert—
+
+> **90ZA Meaning of “election expenses”**
+>
+> (1) In this Part of this Act “election expenses” in relation to a candidate at an election means (subject to subsection (2) below and section 90C below) any expenses incurred at any time in respect of any matter specified in Part 1 of Schedule 4A which is used for the purposes of the candidate's election after the date when he becomes a candidate at the election.
+>
+> (2) No election expenses are to be regarded as incurred by virtue of subsection (1) above or section 90C below in respect of any matter specified in Part 2 of Schedule 4A.
+>
+> (3) In this section and in section 90C below, “for the purposes of the candidate's election” means with a view to, or otherwise in connection with, promoting or procuring the candidate's election at the election.
+>
+> (4) For the purposes of this Part of this Act, election expenses are incurred by or on behalf of a candidate at an election if they are incurred —
+>
+> (a) by the candidate or his election agent, or
+>
+> (b) by any person authorised by the candidate or his election agent to incur expenses.
+>
+> (5) In this Part of this Act, any reference to election expenses incurred by or on behalf of a candidate at an election includes expenses—
+>
+> (a) which are incurred as mentioned in subsection (1) above before the date when he becomes a candidate at the election, but
+>
+> (b) which by virtue of that subsection fall to be regarded as election expenses.
+>
+> (6) In this Part and in Part 3 of this Act, any reference (in whatever terms) to promoting or procuring a candidate's election at an election includes doing so by prejudicing the electoral prospects of another candidate at the election.
+>
+> (7) Schedule 4A has effect.
+>
+> (8) This section does not apply to a local government election in Scotland.
+
+(3) Omit sections 90A and 90B.
+
+(4) The repeal of sections 90A and 90B by subsection (3) does not extend to those sections as they apply to local government elections in Scotland (within the meaning of the 1983 Act).
+
+(5) After Schedule 4 (election expenses at certain local elections in England and Wales) insert—
+
+> **SCHEDULE 4A — Election expenses**
+>
+> *Section 90ZA*
+>
+> **Part 1 — List of matters**
+>
+> **1** Advertising of any nature (whatever the medium used). Expenses in respect of such advertising include agency fees, design costs and other costs in connection with preparing, producing, distributing or otherwise disseminating such advertising or anything incorporating such advertising and intended to be distributed for the purpose of disseminating it.
+>
+> **2** Unsolicited material addressed to electors (whether addressed to them by name or intended for delivery to households within any particular area). Expenses in respect of such material include design costs and other costs in connection with preparing, producing or distributing such material (including the cost of postage).
+>
+> **3** Transport (by any means) of persons to any place. Expenses in respect of the transport of such persons include the costs of hiring a means of transport for a particular period.
+>
+> **4** Public meetings (of any kind). Expenses in respect of such meetings include costs incurred in connection with the attendance of persons at such meetings, the hire of premises for the purposes of such meetings or the provision of goods, services or facilities at them.
+>
+> **5** The services of an election agent or any other person whose services are engaged in connection with the candidate's election.
+>
+> **6** Accommodation and administrative costs.
+>
+> **Part 2 — General Exclusions**
+>
+> **7** The payment of any deposit required by rule 9 of Schedule 1 to this Act.
+>
+> **8** The publication of any matter, other than an advertisement, relating to the election in—
+>
+> (a) a newspaper or periodical;
+>
+> (b) a broadcast made by the British Broadcasting Corporation or by Sianel Pedwar Cymru;
+>
+> (c) a programme included in any service licensed under Part 1 or 3 of the Broadcasting Act 1990 or Part 1 or 2 of the Broadcasting Act 1996.
+>
+> **9** The provision of any facilities provided in pursuance of any right conferred on candidates at an election by this Act other than facilities in respect of which expenses fall to be defrayed by virtue of sections 95(4) and 96(4) above.
+>
+> **10** The provision by an individual of his own services which he provides voluntarily in his own time and free of charge.
+>
+> **11** (1) Accommodation which is the candidate's sole or main residence.
+>
+> (2) The provision by any other individual of accommodation which is his sole or main residence if the provision is made free of charge.
+>
+> **12** (1) Transport by a means of transport which was acquired by the candidate principally for his own personal use.
+>
+> (2) Transport provided free of charge by any other individual if the means of transport was acquired by him principally for his own personal use.
+>
+> **13** (1) Computing or printing equipment which was acquired by the candidate principally for his own personal use.
+>
+> (2) The provision by any other individual of computing or printing equipment which was acquired by the individual principally for his own personal use if the provision is made free of charge.
+>
+> **Part 3 — Supplemental**
+>
+> **Guidance by Commission**
+>
+> **14** (1) The Electoral Commission (“the Commission”) may prepare, and from time to time revise, a code of practice giving guidance as to the matters which do, or do not, fall within Part 1 or 2 of this Schedule.
+>
+> (2) Once the Commission have prepared a draft code under this paragraph, they must submit it to the Secretary of State for his approval.
+>
+> (3) The Secretary of State may approve a draft code either without modification or with such modifications as he may determine.
+>
+> (4) Once the Secretary of State has approved a draft code he shall lay a copy of the draft, whether—
+>
+> (a) in its original form, or
+>
+> (b) in a form which incorporates any modifications determined under sub-paragraph (3),
+>
+> before each House of Parliament.
+>
+> (5) If the draft incorporates any such modifications, the Secretary of State must at the same time lay before each House a statement of his reasons for making them.
+>
+> (6) If, within the 40-day period, either House resolves not to approve the draft, the Secretary of State must take no further steps in relation to the draft code.
+>
+> (7) If no such resolution is made within the 40-day period—
+>
+> (a) the Secretary of State must issue the code in the form of the draft laid before Parliament, and
+>
+> (b) the code is to come into force on such date as the Secretary of State may by order appoint,
+>
+> and the Commission must arrange for it to be published in such manner as they think appropriate.
+>
+> (8) Sub-paragraph (6) does not prevent a new draft code from being laid before Parliament.
+>
+> (9) In this paragraph, “the 40-day period”, in relation to a draft code, means—
+>
+> (a) if the draft is laid before one House on a day later than the day on which it is laid before the other House, the period of 40 days beginning with the later of the two days, and
+>
+> (b) in any other case, the period of 40 days beginning with the day on which the draft is laid before each House,
+>
+> no account being taken of any period during which Parliament is dissolved or prorogued or during which both Houses are adjourned for more than four days.
+>
+> (10) In this paragraph references to a draft code include a revised draft code.
+>
+> **Power to amend Parts 1 and 2**
+>
+> **15** (1) The Secretary of State may by order made by statutory instrument make such amendments of Part 1 or 2 of this Schedule as he considers appropriate.
+>
+> (2) An order under sub-paragraph (1) shall not be made unless a draft of the statutory instrument containing the order has been laid before, and approved by a resolution of, each House of Parliament.
+>
+> (3) The Secretary of State may make such an order either—
+>
+> (a) where the order gives effect to a recommendation of the Electoral Commission; or
+>
+> (b) after consultation with the Electoral Commission.
+
+### Observation of elections etc.
+
+#### 28 Discretion to report on certain elections
+
+In section 5 of the 2000 Act (reports on elections and referendums), after subsection (2) insert—
+
+> (2A) After—
+>
+> (a) a parliamentary by-election,
+>
+> (b) an election held under section 9 of the Scotland Act 1998 (election for the Scottish Parliament in the case of a constituency vacancy), or
+>
+> (c) an election held under section 8 of the Government of Wales Act 1998 (election for the National Assembly for Wales in the case of a constituency vacancy),
+>
+> the Commission may prepare and publish (in such manner as the Commission may determine) a report on the administration of the election.
+
+#### 29 Observation of proceedings and working practices
+
+After section 6 of the 2000 Act (reviews of electoral and political matters), insert—
+
+> **6A Attendance of representatives of Commission at elections etc.**
+>
+> (1) A representative of the Commission may attend—
+>
+> (a) proceedings relating to an election specified in subsection (5) which are the responsibility of the returning officer for the election;
+>
+> (b) proceedings relating to a referendum to which Part 7 applies which are the responsibility of the relevant counting officer.
+>
+> (2) The right conferred on a representative of the Commission by this section is subject to any enactment which regulates attendance at the proceedings in question.
+>
+> (3) In this section, “representative of the Commission” means any of the following—
+>
+> (a) a member of the Commission;
+>
+> (b) a member of staff of the Commission;
+>
+> (c) a person appointed by the Commission for the purposes of this section.
+>
+> (4) A reference to the relevant counting officer must be construed—
+>
+> (a) if the area to which the proceedings relates is in Great Britain, in accordance with section 128(3);
+>
+> (b) if the area to which the proceedings relates is Northern Ireland, as a reference to the Chief Electoral Officer for Northern Ireland.
+>
+> (5) The elections specified in this subsection are—
+>
+> (a) an election mentioned in section 5(2);
+>
+> (b) a parliamentary by-election;
+>
+> (c) an election under section 9 of the Scotland Act 1998 (constituency vacancies);
+>
+> (d) an election under section 8 of the Government of Wales Act 1998 (vacancies in constituency seats);
+>
+> (e) a local government election in England or Wales;
+>
+> (f) a local election in Northern Ireland.
+>
+> **6B Observation of working practices by representatives of Commission**
+>
+> (1) A representative of the Commission may observe the working practices of any of the following—
+>
+> (a) an electoral registration officer;
+>
+> (b) a returning officer;
+>
+> (c) a relevant counting officer;
+>
+> (d) any person acting under the direction of a person mentioned in paragraphs (a) to (c).
+>
+> (2) In this section—
+>
+> (a) “relevant counting officer”, and
+>
+> (b) “representative of the Commission”,
+>
+> must be construed in accordance with section 6A.
+>
+> (3) This section does not permit the observation of working practices which relate only to a local government election in Scotland.
+>
+> **6C Accredited observers: individuals**
+>
+> (1) A person who is aged 16 or over may apply to the Commission to be an accredited observer at any of the following proceedings relating to an election specified in subsection (5) of section 6A or a referendum to which Part 7 applies—
+>
+> (a) proceedings at the issue or receipt of postal ballot papers;
+>
+> (b) proceedings at the poll;
+>
+> (c) proceedings at the counting of votes.
+>
+> (2) If the Commission grant the application, the accredited observer may attend the proceedings in question.
+>
+> (3) An application under subsection (1) must be made in the manner specified in the code of practice issued under section 6F.
+>
+> (4) The Commission may at any time revoke the grant of an application under subsection (1).
+>
+> (5) If the Commission—
+>
+> (a) refuse an application under subsection (1), or
+>
+> (b) revoke the grant of any such application,
+>
+> they must give their decision in writing and must at the same time give reasons in writing for the refusal or revocation.
+>
+> (6) The right conferred on an accredited observer by this section is subject to any enactment which regulates attendance at the proceedings in question.
+>
+> **6D Accredited observers: organisations**
+>
+> (1) An organisation may apply to the Commission to be accredited for the purpose of nominating observers at any of the following proceedings relating to an election specified in subsection (5) of section 6A or a referendum to which Part 7 applies—
+>
+> (a) proceedings at the issue or receipt of postal ballot papers;
+>
+> (b) proceedings at the poll;
+>
+> (c) proceedings at the counting of votes.
+>
+> (2) If the Commission grant the application the organisation may nominate members who may attend the proceedings in question.
+>
+> (3) The Commission, in granting an application under this section, may specify a limit on the number of observers nominated by the organisation who may attend, at the same time, specified proceedings by virtue of this section.
+>
+> (4) An application under subsection (1) must be made in the manner specified in the code of practice issued under section 6F.
+>
+> (5) The Commission may at any time revoke the grant of an application under subsection (1).
+>
+> (6) If the Commission—
+>
+> (a) refuse an application under subsection (1), or
+>
+> (b) revoke the grant of any such application,
+>
+> they must give their decision in writing and must at the same time give reasons in writing for the refusal or revocation.
+>
+> (7) The right conferred by this section is subject to any enactment which regulates attendance at the proceedings in question.
+>
+> **6E Attendance and conduct of observers**
+>
+> (1) A relevant officer may limit the number of persons who may be present at any proceedings at the same time in pursuance of section 6C or 6D.
+>
+> (2) If a person who is entitled to attend any proceedings by virtue of section 6C or 6D misconducts himself while attending the proceedings, the relevant officer may cancel the person's entitlement.
+>
+> (3) Subsection (2) does not affect any power a relevant officer has by virtue of any enactment or rule of law to remove a person from any place.
+>
+> (4) A relevant officer is—
+>
+> (a) in the case of proceedings at a polling station, the presiding officer;
+>
+> (b) in the case of any other proceedings at an election, the returning officer;
+>
+> (c) in the case of any other proceedings at a referendum, the relevant counting officer (within the meaning of section 6A);
+>
+> (d) such other person as a person mentioned in paragraph (a), (b) or (c) authorises for the purposes of the proceedings mentioned in that paragraph.
+>
+> **6F Code of practice on attendance of observers at elections etc.**
+>
+> (1) The Commission must prepare a code of practice on the attendance of—
+>
+> (a) representatives of the Commission,
+>
+> (b) accredited observers, and
+>
+> (c) nominated members of accredited organisations,
+>
+> at elections specified in subsection (5) of section 6A and referendums to which Part 7 applies.
+>
+> (2) The code must in particular—
+>
+> (a) specify the manner in which applications under sections 6C(1) and 6D(1) are to be made to the Commission;
+>
+> (b) specify the criteria to be taken into account by the Commission in determining such applications;
+>
+> (c) give guidance to relevant officers (within the meaning of section 6E) as to the exercise of the power conferred by subsection (1) of that section;
+>
+> (d) give guidance to such officers as to the exercise of the power mentioned in subsection (2) of that section as it relates to a person having the permission mentioned in subsection (1) of that section;
+>
+> (e) give guidance to such officers as to the exercise of any power under any enactment to control the number of persons present at any proceedings relating to an election or referendum as it relates to a person having such permission;
+>
+> (f) give guidance to representatives of the Commission, accredited observers and nominated members of accredited organisations on the exercise of the rights conferred by sections 6A, 6B, 6C and 6D.
+>
+> (3) The code may make different provision for different purposes.
+>
+> (4) Before preparing the code, the Commission must consult the Secretary of State.
+>
+> (5) The Commission must lay the code before each House of Parliament.
+>
+> (6) The Commission must publish the code (in such manner as the Commission may determine).
+>
+> (7) The following persons must have regard to the code in exercising any function conferred by section 6A, 6B, 6C, 6D or 6E—
+>
+> (a) the Commission;
+>
+> (b) representatives of the Commission;
+>
+> (c) relevant officers (within the meaning of section 6E);
+>
+> (d) relevant counting officers.
+>
+> (8) The Commission may at any time revise the code.
+>
+> (9) Subsections (4) to (7) apply in relation to a revision of the code as they apply in relation to the code.
+>
+> (10) In this section—
+>
+> (a) “accredited observer” must be construed in accordance with section 6C;
+>
+> (b) “accredited organisation” must be construed in accordance with section 6D, and “nominated member” must be construed accordingly;
+>
+> (c) “relevant counting officer” must be construed in accordance with section 6A;
+>
+> (d) “representative of the Commission” has the same meaning as in section 6A.
+
+### Ballot papers
+
+#### 30 Ballot paper design
+
+(1) Schedule 1 to the 1983 Act (parliamentary elections rules) is amended as follows.
+
+(2) In rule 19 (the ballot papers)—
+
+(a) in paragraph (2), omit sub-paragraph (d);
+
+(b) after paragraph (3) insert—
+
+> (4) The Secretary of State may in regulations—
+>
+> (a) prescribe a different form of ballot paper from that in the Appendix;
+>
+> (b) amend or replace the directions as to printing the ballot paper in the Appendix;
+>
+> (c) in consequence of anything done for the purposes of paragraph (a) or (b), amend or replace the Form of directions for the guidance of the voters in voting in the Appendix.
+
+(3) In the Appendix of forms, in the Directions as to printing the ballot paper, after paragraph 2A insert—
+
+> **2B**
+>
+> Nothing in paragraph 2 prohibits the face of the ballot paper containing more than one column of numbers, candidates particulars and spaces where the vote is to be marked if the returning officer thinks it is appropriate for the ballot paper to be printed with more than one column, but in such a case each column must be separated by a double vertical rule.
+
+#### 31 Replacement of counterfoils
+
+(1) Schedule 1 to the 1983 Act (parliamentary elections rules) is amended as follows.
+
+(2) After rule 19 insert—
+
+> **19A Corresponding number list**
+>
+> (1) The returning officer must prepare a list containing the numbers and other unique identifying marks of all of the ballot papers to be issued by him in pursuance of rule 24(1) or provided by him in pursuance of rule 29(1).
+>
+> (2) The list shall be in such form as the Secretary of State in regulations prescribes.
+
+(3) In rule 29 (equipment of polling stations), in paragraph (3), after sub-paragraph (d) insert—
+
+> (e) a list consisting of that part of the list prepared under rule 19A which contains the numbers (but not the other unique identifying marks) corresponding to those on the ballot papers provided to the presiding officer of the polling station.
+
+(4) In rule 43 (procedure on close of poll)—
+
+(a) in paragraph (1), after sub-paragraph (d) insert—
+
+> (da) the lists prepared under rule 19A, including the parts which were completed in accordance with rule 37(1)(b) and (d) (together referred to in these rules as “the completed corresponding number lists”);
+
+;
+
+(b) in paragraph (1)(e) omit “the counterfoils of the used ballot papers and”;
+
+(c) in paragraph (2) for “counterfoils of the used ballot papers and” substitute “ completed corresponding number lists or ”.
+
+(5) In rule 54 (sealing up of ballot papers), for paragraph (2) substitute—
+
+> (2) The returning officer shall not open the sealed packets of—
+>
+> (a) tendered ballot papers,
+>
+> (b) the completed corresponding number lists,
+>
+> (c) certificates as to employment on duty on the day of the poll, or
+>
+> (d) marked copies of the register of electors (including any marked copy notices issued under section 13B(3B) or (3D) of this Act) and lists of proxies.
+
+(6) In rule 55 (delivery of documents), in paragraph (1)—
+
+(a) after sub-paragraph (c) insert—
+
+> (ca) the packets of the completed corresponding number lists,
+
+;
+
+(b) in sub-paragraph (d) omit “counterfoils and”.
+
+(7) In rule 56 (orders for production of documents)—
+
+(a) in paragraph (1)(b) for “counterfoils and” substitute “ the completed corresponding number lists or of ”9;
+
+(b) in paragraph (2) for “counterfoils and” substitute “ the completed corresponding number lists or of ”;
+
+(c) in paragraph (3) for “counterfoils and” substitute “ the completed corresponding number lists or of ”;
+
+(d) for paragraph (7) substitute—
+
+> (7) The production from proper custody of—
+>
+> (a) a ballot paper purporting to have been used at any election, and
+>
+> (b) a completed corresponding number list with a number marked in writing beside the number of the ballot paper,
+>
+> shall be prima facie evidence that the elector whose vote was given by that ballot paper was the person whose entry in the register of electors (or on a notice issued under section 13B(3B) or (3D) of this Act) at the time of the election contained the same number as the number written as mentioned in sub-paragraph (b).
+
+;
+
+(e) in paragraph (8) for “counterfoils and” substitute “ the completed corresponding number lists or of ”.
+
+(8) In rule 57 (retention and public inspection of documents), for paragraph (2) substitute—
+
+> (2) The documents mentioned in paragraphs (1) and (1A) except—
+>
+> (a) ballot papers,
+>
+> (b) the completed corresponding number lists,
+>
+> (c) certificates as to employment on duty on the day of the poll,
+>
+> shall be open to public inspection.
+
+(9) In the Appendix of forms—
+
+(a) in the Form of Front of Ballot Paper omit “Counterfoil No. The counterfoil is to have a number to correspond with that on the back of the ballot paper”;
+
+(b) in the Form of Back of Ballot Paper omit “Note.— The number on the ballot paper is to correspond with that on the counterfoil”.
+
+#### 32 Photographs on ballot papers: piloting
+
+(1) This section applies if a local authority makes a proposal that an order be made under subsection (2) applying to particular local government elections held in its area.
+
+(2) The Secretary of State may by order (a pilot order) make provision for the purposes of enabling ballot papers issued at such local government elections as are specified in the order to contain photographs of the candidates.
+
+(3) A pilot order may include such provision modifying or disapplying any enactment as the Secretary of State thinks is necessary or expedient for the purposes of the order.
+
+(4) The Secretary of State must not make a pilot order unless he first consults the Electoral Commission.
+
+(5) A pilot order may make provision implementing the local authority's proposal—
+
+(a) without modification, or
+
+(b) with such modifications as the Secretary of State and the local authority agree between them.
+
+(6) If the Secretary of State makes a pilot order—
+
+(a) he must send a copy of it to the local authority and to the Electoral Commission, and
+
+(b) the local authority must publish the order in their area in such manner as they think fit.
+
+(7) A pilot order may be amended or revoked by a further order.
+
+(8) The Secretary of State may reimburse a returning officer for any expenditure necessarily incurred by him in consequence of the making of a pilot order.
+
+(9) A local authority is—
+
+(a) in England, a county council, a district council, a London borough council or the Greater London Authority;
+
+[^F4]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(10) In this section—
+
+(a) “local government election” must be construed in accordance with section 203(1) of the 1983 Act;
+
+(b) a reference to the area of a local authority must be construed in accordance with the definition of “local government area” in that subsection.
+
+#### 33 Evaluation of pilots under section 32
+
+(1) After any elections specified in a pilot order have taken place, the Electoral Commission must prepare a report on the operation of the order.
+
+(2) The report must contain, in particular—
+
+(a) a description of the way in which the provision made by the order differed from the provisions which would otherwise have applied to the election or elections;
+
+(b) a copy of the order;
+
+(c) an assessment of the success or otherwise of the order in assisting voters to make informed decisions at the election or elections in question;
+
+(d) an assessment of the success or otherwise of the order in encouraging voting at the election or elections in question;
+
+(e) an assessment of whether the procedures provided for in the order operated satisfactorily.
+
+(3) An assessment under subsection (2)(c) must include a statement of whether, in the opinion of the Commission, the inclusion of photographs on the ballot paper—
+
+(a) assisted voters in marking their papers with a vote for a candidate (or with votes for candidates) for whom they had decided to vote on grounds other than the candidates' appearance;
+
+(b) resulted in voters being influenced (or more influenced) by the appearance of candidates in deciding for whom to vote.
+
+(4) An assessment under subsection (2)(d) must include a statement of whether, in the opinion of the Commission, the turnout of voters was higher than it would have been if the order had not applied.
+
+(5) An assessment under subsection (2)(e) must include a statement of—
+
+(a) whether the candidates and their agents found the procedures provided for in the order easy to use;
+
+(b) whether the returning officer found those procedures easy to administer;
+
+(c) whether those procedures had any effect on the incidence of malpractice (whether or not amounting to an offence) in connection with elections;
+
+(d) the amount of any increase attributable to those procedures in the resources applied by the authority concerned to the election or elections.
+
+(6) In making an assessment under subsection (2)(c), (d) or (e), the Commission must also apply such other criteria as are specified in the order in relation to that assessment.
+
+(7) The local authority must give the Commission such assistance as the Commission may reasonably require in connection with the preparation of the report.
+
+(8) The assistance may include—
+
+(a) making arrangements for ascertaining the views of electors about the operation of the provisions of the order;
+
+(b) reporting to the Commission allegations of electoral offences or other malpractice.
+
+(9) The Commission must, before the end of the period of three months beginning with the date of the declaration of the result of the election or elections in question, send a copy of the report—
+
+(a) to the Secretary of State, and
+
+(b) to the local authority.
+
+(10) The local authority must publish the report in their area in such manner as they think fit.
+
+(11) In this section “pilot order” and “the local authority” must be construed in accordance with section 32.
+
+#### 34 Revision of electoral provisions in the light of pilot schemes
+
+(1) This section applies if the Secretary of State thinks, in the light of a report made under section 33 on the operation of a pilot order under section 32, that it would be desirable for provision similar to that made by the order to apply generally, and on a permanent basis, in relation to—
+
+(a) parliamentary elections;
+
+(b) local government elections in England [^F5]...;
+
+(c) any description of election falling within paragraph (a) or (b).
+
+(2) The Secretary of State may by order make provision for the purposes of enabling ballot papers issued at such elections (mentioned in subsection (1)) as are specified in the order to contain photographs of the candidates.
+
+(3) The Secretary of State must not make an order under subsection (2) unless he first consults the Electoral Commission.
+
+(4) An order under subsection (2) may—
+
+(a) include such provision modifying or disapplying any enactment as the Secretary of State thinks is necessary or expedient for the purposes of the order;
+
+(b) create or extend the application of an offence.
+
+(5) An order under subsection (2) must not create an offence punishable—
+
+(a) on conviction on indictment, with imprisonment for a term exceeding one year;
+
+(b) on summary conviction, with imprisonment for a term exceeding 51 weeks or with a fine exceeding the statutory maximum.
+
+(6) The power to make an order under subsection (2) is exercisable by statutory instrument, but no such order may be made unless a draft of the instrument containing the order has been laid before and approved by a resolution of each House of Parliament.
+
+(7) The reference to local government elections must be construed in accordance with section 32.
+
+(8) If an order under subsection (2) is made before the date of commencement of section 281(5) of the Criminal Justice Act 2003, then in relation to any offence committed before that date the reference in subsection (5)(b) to 51 weeks must be taken to be a reference to six months.
+
+(9) In its application to Scotland and Northern Ireland, the reference in subsection (5)(b) to 51 weeks must be taken to be a reference to six months.
+
+### Voting in person
+
+#### 35 Certain voters entitled to vote in person
+
+(1) Schedule 4 to the Representation of the People Act 2000 (c. 2) (absent voting in Great Britain) is amended as follows.
+
+(2) After paragraph 2(5) insert—
+
+> (5A) Nothing in the preceding provisions of this paragraph applies to a person to whom section 7 of the 1983 Act (mental patients who are not detained offenders) applies and who is liable, by virtue of any enactment, to be detained in the mental hospital in question, whether he is registered by virtue of that provision or not; and such a person may vote—
+>
+> (a) in person (where he is granted permission to be absent from the hospital and voting in person does not breach any condition attached to that permission), or
+>
+> (b) by post or by proxy (where he is entitled as an elector to vote by post or, as the case may be, by proxy at the election).
+
+(3) In paragraph 2(6), omit paragraph (a) and the “or” following it.
+
+(4) This section does not apply to local government elections in Scotland (within the meaning of the 1983 Act).
+
+### Certain electoral documents
+
+#### 36 Translations etc. of certain documents
+
+In the 1983 Act, in Part 5, before section 200 (public notices and declarations) insert—
+
+> **199B Translations etc of certain documents**
+>
+> (1) Subsections (2) and (3) below apply to any document which under or by virtue of this Act is required or authorised to be given to voters or displayed in any place for the purposes of a parliamentary or local government election.
+>
+> (2) The person who is required or authorised to give or display the document must, as he thinks appropriate, give or display or otherwise make available in such form as he thinks appropriate—
+>
+> (a) the document in Braille;
+>
+> (b) the document in languages other than English;
+>
+> (c) graphical representations of the information contained in the document;
+>
+> (d) other means of making the information contained in the document accessible to persons who might not otherwise have reasonable access to the information.
+>
+> (3) The person required or authorised to give or display the document must also, as he thinks appropriate, make available the information contained in the document in such audible form as he thinks appropriate.
+>
+> (4) Subsections (2) and (3) above do not apply to—
+>
+> (a) the nomination paper;
+>
+> (b) the ballot paper.
+>
+> (5) The returning officer at a parliamentary election or a local government election may cause to be displayed at every polling station in the election an enlarged sample copy of the ballot paper.
+>
+> (6) The sample copy mentioned in subsection (5) above—
+>
+> (a) in the case of a parliamentary election or a local government election where only one candidate is to be elected, must have printed the words “VOTE FOR ONE CANDIDATE ONLY” both at the top and immediately below the list of candidates,
+>
+> (b) in the case of a local government election where more than one candidate is to be elected, must have printed the words “VOTE FOR NO MORE THAN *[here insert the maximum number of candidates to be elected]* CANDIDATES” both at the top and immediately below the list of candidates, and
+>
+> (c) in each case, below the second occurrence of those words, may include a translation of those words into such other languages as the returning officer thinks appropriate.
+>
+> (7) The returning officer at a parliamentary election or a local government election must provide at every polling station in the election an enlarged hand-held sample copy of the ballot paper for the assistance of voters who are partially sighted.
+>
+> (8) The sample copy mentioned in subsection (7) above must be clearly marked as a specimen provided only for the guidance of voters.
+>
+> (9) In the application of subsection (2)(b) to Northern Ireland any question as to whether a person is to give or display or otherwise make available a document in a language other than English is to be decided by the returning officer.
+>
+> (10) This section does not apply to a local government election in Scotland.
+
+#### 37 Documents relating to postal voting
+
+In Schedule 1 to the 1983 Act, for rule 24 (postal ballot papers) substitute—
+
+> **24**
+>
+> (1) The returning officer shall, in accordance with regulations, issue to those entitled to vote by post—
+>
+> (a) a ballot paper;
+>
+> (b) at an election held in England and Wales or Scotland, a postal voting statement in the prescribed form;
+>
+> (c) at an election held in Northern Ireland, a declaration of identity in the prescribed form;
+>
+> together with such envelopes for their return as may be prescribed.
+>
+> (2) The returning officer must also issue to those entitled to vote by post such information as he thinks appropriate about how to obtain—
+>
+> (a) translations into languages other than English of any directions to or guidance for voters sent with the ballot paper;
+>
+> (b) a translation into Braille of such directions or guidance;
+>
+> (c) graphical representations of such directions or guidance;
+>
+> (d) the directions or guidance in any other form (including any audible form).
+>
+> (3) The prescribed form shall include provision for the form to be signed and for stating the date of birth of the elector or proxy (as the case may be).
+>
+> (4) In the case of a ballot paper issued to a person resident in the United Kingdom, the returning officer must ensure that the return of the ballot paper and postal voting statement or declaration of identity is free of charge to the voter.
+>
+> (5) In any other case, regulations may provide that the returning officer must so ensure.
+
+### Circumstances in which votes may be tendered
+
+#### 38 Tendered votes
+
+(1) In Schedule 1 to the 1983 Act, in rule 40 (tendered ballot papers), after paragraph (1) insert—
+
+> (1ZA) Paragraph (1ZC) applies if —
+>
+> (a) a person applies for a ballot paper representing himself to be a particular elector named on the register,
+>
+> (b) he is also named in the postal voters list, and
+>
+> (c) he claims that he did not make an application to vote by post at the election.
+>
+> (1ZB) Paragraph (1ZC) also applies if—
+>
+> (a) a person applies for a ballot paper representing himself to be a particular person named as a proxy in the list of proxies,
+>
+> (b) he is also named in the proxy postal voters list, and
+>
+> (c) he claims that he did not make an application to vote by post as proxy.
+>
+> (1ZC) The person shall, on satisfactorily answering the questions permitted by law to be asked at the poll, be entitled, subject to the following provisions of this rule, to mark a ballot paper (in these rules referred to as a “tendered ballot paper”) in the same manner as any other voter.
+
+(2) After paragraph (1ZC) of that rule (inserted by subsection (1) above) insert—
+
+> (1ZD) Paragraph (1ZE) applies if before the close of the poll but after the last time at which a person may apply for a replacement postal ballot paper, a person represents himself to be—
+>
+> (a) a particular elector named on the register and who is also named in the postal voters list, or
+>
+> (b) a particular person named as a proxy in the list of proxies and who is also named in the proxy postal voters list,
+>
+> and claims that he has lost or has not received his postal ballot paper.
+>
+> (1ZE) The person shall, on satisfactorily answering the questions permitted by law to be asked at the poll, be entitled, subject to the following provisions of this rule, to mark a ballot paper (in these rules referred to as a “tendered ballot paper”) in the same manner as any other voter.
+
+(3) In section 61 of that Act (certain voting offences), after subsection (6) insert—
+
+> (6A) A person is not guilty of an offence under subsection (2)(b) or (3)(b) above only by reason of his having marked a tendered ballot paper in pursuance of rule 40(1ZC) or (1ZE) of the parliamentary elections rules.
+
+(4) In section 5 of the Representation of the People Act 1985 (c. 50) (absent voting in Northern Ireland) after subsection (5A) insert—
+
+> (5B) Subsection (2) above does not prevent a person, at the polling station allotted to him, marking a tendered ballot paper in pursuance of rule 40(1ZC) or (1ZE) of the parliamentary elections rules.
+
+(5) In section 9 of that Act (voting as proxy in Northern Ireland) after subsection (11) insert—
+
+> (11A) Subsection (2) above does not prevent a person, at the polling station allotted to him, marking a tendered ballot paper in pursuance of rule 40(1ZC) or (1ZE) of the parliamentary elections rules.
+
+(6) In Schedule 4 to the Representation of the People Act 2000 (c. 2) (absent voting in Great Britain)—
+
+(a) in paragraph 2 (manner of voting at parliamentary or local government elections) after sub-paragraph (6) insert—
+
+> (6A) Sub-paragraph (2) above does not prevent a person, at the polling station allotted to him, marking a tendered ballot paper in pursuance of rule 40(1ZC) or (1ZE) of the parliamentary elections rules.
+
+;
+
+(b) in paragraph 7 (voting as proxy) after sub-paragraph (9) insert—
+
+> (10) Sub-paragraph (2) above does not prevent a person, at the polling station allotted to him, marking a tendered ballot paper in pursuance of rule 40(1ZC) or (1ZE) of the parliamentary elections rules.
+
+### Offences related to voting
+
+#### 39 Undue influence
+
+(1) In section 115 of the 1983 Act (offence of undue influence), in subsection (2)(b)—
+
+(a) after “prevents” insert “ , or intends to impede or prevent, ”;
+
+(b) after “prevails upon” insert “ , or intends so to compel, induce or prevail upon, ”.
+
+(2) This section does not have effect in relation to a local government election in Scotland.
+
+#### 40 Offences relating to applications for postal and proxy votes
+
+After section 62 of the 1983 Act (offences as to declarations) insert—
+
+> **62A Offences relating to applications for postal and proxy votes**
+>
+> (1) A person commits an offence if he—
+>
+> (a) engages in an act specified in subsection (2) at a parliamentary or local government election, and
+>
+> (b) intends, by doing so, to deprive another of an opportunity to vote or to make for himself or another a gain of a vote to which he or the other is not otherwise entitled or a gain of money or property.
+>
+> (2) These are the acts—
+>
+> (a) applying for a postal or proxy vote as some other person (whether that other person is living or dead or is a fictitious person);
+>
+> (b) otherwise making a false statement in, or in connection with, an application for a postal or proxy vote;
+>
+> (c) inducing the registration officer or returning officer to send a postal ballot paper or any communication relating to a postal or proxy vote to an address which has not been agreed to by the person entitled to the vote;
+>
+> (d) causing a communication relating to a postal or proxy vote or containing a postal ballot paper not to be delivered to the intended recipient.
+>
+> (3) In subsection (1)(b), property includes any description of property.
+>
+> (4) In subsection (2) a reference to a postal vote or a postal ballot paper includes a reference to a proxy postal vote or a proxy postal ballot paper (as the case may be).
+>
+> (5) A person who commits an offence under subsection (1) or who aids, abets, counsels or procures the commission of such an offence is guilty of a corrupt practice.
+>
+> (6) This section does not apply to anything done at a local government election in Scotland.
+
+### Access to election documents
+
+#### 41 Control of documents after parliamentary election
+
+(1) Schedule 1 to the 1983 Act (parliamentary elections rules) is amended in accordance with subsections (2) to (7).
+
+(2) In the heading to rule 55 (delivery of documents after poll) for “Clerk of the Crown” substitute “ registration officer ”.47
+
+(3) In that rule—
+
+(a) in paragraph (1) for “Clerk of the Crown” substitute “ relevant registration officer ”;
+
+(b) after paragraph (1) insert—
+
+> (1A) In this rule and in rules 56 and 57 references to the relevant registration officer are to—
+>
+> (a) the registration officer of the local authority in whose area the constituency is situated, or
+>
+> (b) if the constituency comprises any part of the area of more than one local authority, the registration officer of the local authority in whose area the greater or greatest (as the case may be) number of electors is registered.
+
+;
+
+(c) omit paragraphs (2) to (4).
+
+(4) In rule 56 (orders for production of documents)—
+
+(a) in each of paragraphs (1), (6) and (8) for “Clerk of the Crown” substitute “ relevant registration officer ”;
+
+(b) in paragraph (2) for “Clerk of the Crown's” substitute “ relevant registration officer's ”;
+
+(5) In rule 57 (retention and public inspection of documents)—
+
+(a) in paragraph (1) for “Clerk of the Crown” substitute “ relevant registration officer ”;
+
+(b) for paragraph (3) substitute—
+
+> (3) The relevant registration officer or the Chief Electoral Officer for Northern Ireland (as the case may be) must, on request, supply to any person copies of or extracts from such description of the documents open to public inspection as is prescribed by regulations.
+
+;
+
+(c) after paragraph (3) insert—
+
+> (4) Each of the following must, on request, be supplied with a copy of the marked copies of the register, the postal voters list, the list of proxies and the proxy postal voters list—
+>
+> (a) a registered party within the meaning of Part 2 of the Political Parties, Elections and Referendums Act 2000;
+>
+> (b) a person who was a candidate at the election in relation to the constituency for which he was a candidate.
+>
+> (5) Regulations may impose conditions in relation to—
+>
+> (a) the inspection of any document in pursuance of paragraph (2);
+>
+> (b) the supply of any document or part of a document in pursuance of paragraph (3);
+>
+> (c) the supply of any document or part of a document in pursuance of paragraph (4).
+>
+> (6) Regulations may also make provision—
+>
+> (a) as to the form in which any such document or part is supplied;
+>
+> (b) for the payment of a fee in respect of the supply of a document or part.
+>
+> (7) Conditions which may be imposed for the purposes of paragraph (5)(a) or (b) include conditions as to—
+>
+> (a) whether a person may take any copy of a document he is permitted to inspect;
+>
+> (b) the manner in which any such copy is to be taken;
+>
+> (c) the purposes for which information contained in any document or part of a document which is inspected or supplied in pursuance of paragraph (2) or (3) may be used.
+>
+> (8) Conditions which may be imposed for the purposes of paragraph (5)(b) or (c) include conditions as to the extent to which a person to whom a document or part of a document has been supplied may—
+>
+> (a) supply that document or part to any other person;
+>
+> (b) disclose to any other person any information contained in the document or part;
+>
+> (c) use any such information for a purpose other than that for which the document or part was supplied to him.
+>
+> (9) Regulations may also impose conditions corresponding to those mentioned in paragraph (8) in respect of persons who have obtained a document or part of a document mentioned in paragraph (4)—
+>
+> (a) which was supplied to another person in pursuance of paragraph (4), or
+>
+> (b) otherwise than in accordance with regulations under this section.
+
+(6) For rule 58 (documents in Scotland) substitute—
+
+> **58**
+>
+> (1) In the application of rules 55 to 57 to elections in Scotland, the references to the relevant registration officer shall be taken to be references to the relevant sheriff clerk.
+>
+> (2) For the purposes of rule 55 as it applies to elections in Scotland—
+>
+> (a) the documents to be forwarded in accordance with that rule may be forwarded by being—
+>
+> (i) delivered to the relevant sheriff clerk by the returning officer or his agent, or
+>
+> (ii) sent to the relevant sheriff clerk by recorded delivery post,
+>
+> (b) on forwarding the documents, the returning officer must deliver or send to the relevant sheriff clerk along with the documents a letter specifying the number and descriptions of the documents forwarded, and
+>
+> (c) where the documents are forwarded by delivery under sub-paragraph (a)(i) above, the relevant sheriff clerk must, on receipt of the documents, provide the person delivering them with a signed receipt showing the date and time of receipt.
+>
+> (3) In this rule, “relevant sheriff clerk” means—
+>
+> (a) the sheriff clerk of the sheriff court district in which the constituency is situated, or
+>
+> (b) if the constituency comprises any part of the area of more than one sheriff court district, the sheriff clerk of such one of those districts as the Secretary of State may by order appoint.
+
+(7) For rule 59 (documents in Northern Ireland) substitute—
+
+> **59**
+>
+> In the application of rules 55 to 57 to elections for a constituency in Northern Ireland, the references to the relevant registration officer shall be taken to be references to the Clerk of the Crown for Northern Ireland.
+
+(8) In section 63 of that Act (breach of official duty), in subsection (3)(c) after “responsible after a” insert “ parliamentary or ”.
+
+(9) After section 66A of that Act (prohibition on publication of exit polls) insert—
+
+> **66B Failure to comply with conditions relating to supply etc. of certain documents**
+>
+> (1) A person is guilty of an offence—
+>
+> (a) if he fails to comply with any conditions imposed in pursuance of regulations under rule 57 of the parliamentary elections rules, or
+>
+> (b) if he is an appropriate supervisor of a person (P) who fails to comply with such a condition and he failed to take appropriate steps.
+>
+> (2) P is not guilty of an offence under subsection (1) if—
+>
+> (a) he has an appropriate supervisor, and
+>
+> (b) he has complied with all the requirements imposed on him by his appropriate supervisor.
+>
+> (3) A person who is not P or an appropriate supervisor is not guilty of an offence under subsection (1) if he takes all reasonable steps to ensure that he complies with the conditions.
+>
+> (4) In subsections (1)(b) and (2)—
+>
+> (a) an appropriate supervisor is a person who is a director of a company or concerned in the management of an organisation in which P is employed or under whose direction or control P is;
+>
+> (b) appropriate steps are such steps as it was reasonable for the appropriate supervisor to take to secure the operation of procedures designed to prevent, so far as reasonably practicable, the occurrence of a failure to comply with the conditions.
+>
+> (5) A person guilty of an offence as mentioned in subsection (1) is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+#### 42 Access to other election documents
+
+(1) The relevant officer must—
+
+(a) make relevant election documents available for inspection by members of the public;
+
+(b) supply, on request, copies of or extracts from such description of relevant election documents as is prescribed by regulations.
+
+(2) In the case of an election other than a parliamentary election, a local government election in Scotland or a local election in Northern Ireland, each of the following must, on request, be supplied with a copy of the marked copies of the register, the postal voters list, the list of proxies and the proxy postal voters list—
+
+(a) a registered party;
+
+(b) a person who was a candidate at the election in relation to the electoral area for which he was a candidate;
+
+(c) in the case of an election at which a registered party submits a list of candidates, a person who was appointed as an agent for the candidates on the party's list.
+
+(3) The Secretary of State may by regulations impose conditions in relation to—
+
+(a) the inspection of any document in pursuance of subsection (1)(a);
+
+(b) the supply of any document or part of a document in pursuance of subsection (1)(b);
+
+(c) the supply of any document or part of a document in pursuance of subsection (2).
+
+(4) Regulations may also make provision—
+
+(a) as to the form in which any such document or part is supplied;
+
+(b) for the payment of a fee in respect of the supply of a document or part.
+
+(5) Conditions which may be imposed for the purposes of subsection (3)(a) or (b) include conditions as to—
+
+(a) whether a person may take any copy of a document he is permitted to inspect;
+
+(b) the manner in which any such copy is to be taken;
+
+(c) the purposes for which information contained in any document or part of a document which is inspected or supplied in pursuance of subsection (1) may be used.
+
+(6) Conditions which may be imposed for the purposes of subsection (3)(b) or (c) include conditions as to the extent to which a person to whom a document or part of a document has been supplied may—
+
+(a) supply that document or part to any other person;
+
+(b) disclose to any other person any information contained in the document or part;
+
+(c) use any such information for a purpose other than that for which the document or part was supplied to him.
+
+(7) Regulations may also impose conditions corresponding to those mentioned in subsection (6) in respect of persons who have obtained a document or part of a document mentioned in subsection (2)—
+
+(a) which was supplied to another person in pursuance of subsection (2), or
+
+(b) otherwise than in accordance with regulations under this section.
+
+(8) The power to make regulations under this section—
+
+(a) is exercisable by the Secretary of State by statutory instrument;
+
+(b) includes power to make different provision for different purposes.
+
+(9) The Secretary of State must not make regulations under this section unless he first consults the Electoral Commission.
+
+(10) No regulations may be made under this section unless a draft of the statutory instrument containing the regulations has been laid before, and approved by resolution of, each House of Parliament.
+
+#### 43 Access to other election documents: contravention of regulations
+
+(1) A person is guilty of an offence—
+
+(a) if he fails to comply with any conditions imposed in pursuance of regulations under section 42, or
+
+(b) if he is an appropriate supervisor of a person (P) who fails to comply with such a condition and he failed to take appropriate steps.
+
+(2) P is not guilty of an offence under subsection (1) if—
+
+(a) he has an appropriate supervisor, and
+
+(b) he has complied with all the requirements imposed on him by his appropriate supervisor.
+
+(3) A person who is not P or an appropriate supervisor is not guilty of an offence under subsection (1) if he takes all reasonable steps to ensure that he complies with the conditions.
+
+(4) In subsections (1)(b) and (2)—
+
+(a) an appropriate supervisor is a person who is a director of a company or concerned in the management of an organisation in which P is employed or under whose direction or control P is;
+
+(b) appropriate steps are such steps as it was reasonable for the appropriate supervisor to take to secure the operation of procedures designed to prevent, so far as reasonably practicable, the occurrence of a failure to comply with the conditions.
+
+(5) A person guilty of an offence as mentioned in subsection (1) is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+#### 44 Access to other election documents: supplementary
+
+(1) This section applies for the purposes of section 42.
+
+(2) The relevant officer is—
+
+(a) in England and Wales, the relevant registration officer;
+
+(b) in Scotland, the relevant sheriff clerk;
+
+(c) in Northern Ireland, the Chief Electoral Officer for Northern Ireland.
+
+(3) The relevant registration officer is—
+
+(a) the registration officer of the local authority in whose area the election is held, or
+
+(b) if the election is held in respect of an electoral area which comprises any part of the area of more than one local authority, such registration officer as the Secretary of State by order appoints.
+
+(4) The relevant sheriff clerk is—
+
+(a) the sheriff clerk of the sheriff court district in which the election is held, or
+
+(b) if the election is held in respect of an electoral area which comprises any part of the area of more than one sheriff court district, the sheriff clerk of such of those districts as the Secretary of State by order appoints.
+
+(5) The relevant election documents are such documents relating to an election (other than a parliamentary election, a local government election in Scotland or a local election in Northern Ireland) as the relevant officer is required by or under any enactment to retain for any period except—
+
+(a) ballot papers;
+
+(b) completed corresponding number lists;
+
+(c) certificates as to employment on the day of the election.
+
+(6) A party is a registered party if it is registered for the purposes of Part 2 of the 2000 Act (registration of political parties).
+
+(7) An electoral area is—
+
+(a) in relation to a local government election, an electoral area within the meaning of section 203(1) of the 1983 Act;
+
+[[^F6](b) in relation to an election to Senedd Cymru, a Senedd constituency within the meaning of section 2 of the Government of Wales Act 2006 (Senedd constituencies);]
+
+(c) in relation to an election to the Scottish Parliament, a constituency or a region within the meaning of Schedule 1 to the Scotland Act 1998 (c. 46) (constituencies, regions and regional members);
+
+(d) in relation to an election to the Northern Ireland Assembly, a constituency for the purposes of section 33 of the Northern Ireland Act 1998 (c. 47) (constituencies and numbers of members);
+
+[^F7]e . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(8) The marked register is the copy of the register of electors marked in accordance with provision corresponding to rule 37(1)(c) of the parliamentary elections rules.
+
+(9) A marked copy of the list of proxies is the copy of that list marked in accordance with provision corresponding to rule 37(1)(e) of the parliamentary elections rules.
+
+(10) A marked copy of the postal voters list or the proxy postal voters list is the copy of that list marked in accordance with provision corresponding to rule 31A(1) of the parliamentary elections rules.
+
+(11) A completed corresponding number list is a list prepared under provision corresponding to rule 19A of the parliamentary elections rules which is completed in accordance with provision corresponding to rule 37(1)(b) and (d) of those rules.
+
+(12) Expressions used in this section or section 42 or 43 and in the 1983 Act must (unless the context otherwise requires) be construed in accordance with that Act.
+
+#### 45 Marked postal voters list
+
+(1) Schedule 1 to the 1983 Act (parliamentary elections rules) is amended as follows.
+
+(2) After rule 31 (notification of requirement of secrecy) insert—
+
+> **31A Return of postal ballot papers**
+>
+> (1) Where—
+>
+> (a) a postal vote has been returned in respect of a person who is entered on the postal voters list, or
+>
+> (b) a proxy postal vote has been returned in respect of a proxy who is entered on the proxy postal voters list,
+>
+> the returning officer must mark the list in the prescribed manner.
+>
+> (2) For the purposes of paragraph (1) above, regulations may prescribe the circumstances in which a postal vote or a proxy postal vote (as the case may be) is or is not to be treated as having been returned.
+>
+> (3) Rule 45(1B) and (2) below does not apply for the purpose of determining whether, for the purposes of this rule, a postal vote or a proxy postal vote is returned.
+
+(3) In rule 55 (delivery of documents after poll)—
+
+(a) in paragraph (1)(e) for “of lists of proxies” substitute “ of the postal voters list, of lists of proxies and of the proxy postal voters list ”;
+
+(b) after paragraph (1)(e) insert—
+
+> (f) such other documents relating to elections as are prescribed,
+
+.
+
+### Correction of procedural errors
+
+#### 46 Returning officers: correction of procedural errors
+
+(1) A returning officer for an election to which this section applies may take such steps as he thinks appropriate to remedy any act or omission on his part, or on the part of a relevant person, which—
+
+(a) arises in connection with any function the returning officer or relevant person has in relation to the election, and
+
+(b) is not in accordance with the rules or any other requirements applicable to the election.
+
+(2) But a returning officer may not under subsection (1) re-count the votes given at an election after the result has been declared.
+
+(3) This section applies to—
+
+(a) a parliamentary election;
+
+(b) a local government election in England and Wales (within the meaning of the 1983 Act).
+
+(4) These are the relevant persons—
+
+(a) an electoral registration officer;
+
+(b) a presiding officer;
+
+(c) a person providing goods or services to the returning officer;
+
+(d) a deputy of any person mentioned in paragraph (a) to (c) or a person appointed to assist, or in the course of his employment assisting, such a person in connection with any function he has in relation to the election.
+
+(5) Subsections (1) to (4) must be construed as part of the Representation of the People Acts.
+
+(6) In section 63 of the 1983 Act (breach of official duty), after subsection (3) insert—
+
+> (4) Where—
+>
+> (a) a returning officer for an election to which section 46 of the Electoral Administration Act 2006 applies is guilty of an act or omission in breach of his official duty, but
+>
+> (b) he remedies that act or omission in full by taking steps under subsection (1) of that section,
+>
+> he shall not be guilty of an offence under subsection (1) above.
+>
+> (5) Subsection (4) does not affect any conviction which takes place, or any penalty which is imposed, before the date on which the act or omission is remedied in full.
+
+### Miscellaneous amendments
+
+#### 47 Miscellaneous amendments of the 1983 Act
+
+Part 5 of Schedule 1 (which contains miscellaneous amendments of the 1983 Act relating to the conduct of elections) has effect.
+
+## Part 7 — Regulation of parties
+
+### Registration of parties
+
+#### 48 Registered names of parties
+
+In section 28 of the 2000 Act (registration of parties), after subsection (4)(d) insert—
+
+> (da) would be likely, were it to appear on a ballot paper issued at an election—
+>
+> (i) to result in an elector being misled as to the effect of his vote, or
+>
+> (ii) to contradict, or hinder an elector's understanding of, any directions for his guidance in voting given on the ballot paper or elsewhere,
+
+.
+
+#### 49 Political party descriptions
+
+(1) In the 2000 Act after section 28 (registration of parties) insert—
+
+> **28A Descriptions**
+>
+> (1) A party's application under section 28 may include a request for the registration of up to 12 descriptions to be used on nomination papers or ballot papers.
+>
+> (2) Where a request is made by a party under this section in relation to a description, the Commission shall register the description as a description of the party unless it is of more than six words in length or in their opinion it—
+>
+> (a) would be the same as the name of a party or the registered description of a party which (in either case) is already registered in the register in which that party is applying to be registered,
+>
+> (b) would be likely to result in electors confusing that party with another party which is already registered in respect of the relevant part of the United Kingdom,
+>
+> (c) is obscene or offensive,
+>
+> (d) is of such a character that its publication would be likely to amount to the commission of an offence,
+>
+> (e) would be likely, were it to appear on a ballot paper issued at an election—
+>
+> (i) to result in an elector being misled as to the effect of his vote, or
+>
+> (ii) to contradict, or hinder an elector's understanding of, any directions for his guidance in voting given on the ballot paper or elsewhere,
+>
+> (f) includes any script other than Roman script, or
+>
+> (g) includes a word or expression prohibited by order made by the Secretary of State.
+>
+> (3) In subsection (2)(b) “already registered in respect of the relevant part of the United Kingdom” has the meaning given by section 28(5).
+>
+> (4) An order under subsection (2)(g) may except the use of a word or expression from the prohibition in specified circumstances.
+>
+> (5) In the application of subsection (2) above to a party which has made a declaration falling within section 28(2) which specifies Wales as a part of Great Britain in respect of which it is applying to be registered, for “it is of more than six words in length” substitute “ its length exceeds six words in either English or Welsh or, if the description is also expressed in the other of those languages, six words in that other language ”.
+>
+> (6) The Secretary of State may, by order, substitute for the number “12” in subsection (1) such other number as he thinks appropriate.
+>
+> (7) An order under subsection (2)(g) or (6) must not be made unless the Secretary of State first consults the Commission.
+>
+> **28B Joint descriptions**
+>
+> (1) Two or more parties which are registered under section 28 above in the same register may apply to the Commission to register a description for use by a candidate standing in the name of both or all of the parties jointly.
+>
+> (2) The following provisions of section 28A apply to an application under this section as they apply to an application under that section—
+>
+> (a) subsections (2) to (5);
+>
+> (b) subsection (7), so far as it relates to subsection (2)(g).
+>
+> (3) Subsections (1)(bb), (4A) to (4D) and (6A) of section 30 apply to a description mentioned in subsection (1) above as they apply to a description to which section 28A applies; and for the purposes of such application—
+>
+> (a) any reference to a party in section 30 (except in relation to an application to remove a description under subsection (1)(bb) of that section) must be construed as a reference to the parties mentioned in subsection (1) above acting jointly,
+>
+> (b) section 30(4A)(a) must be taken to read “the parties already have a description registered in pursuance of section 28B above”, and
+>
+> (c) the requirement in paragraph 9 of Schedule 4 for an application under section 30 to be signed by the responsible officer of a party must be taken to be a requirement for the application to be signed by a responsible officer of each party which joins in the application.
+
+(2) In section 30 of that Act (changes to the register)—
+
+(a) in subsection (1), after paragraph (ba) insert—
+
+> (bb) the addition, alteration, substitution or removal of a description,
+
+;
+
+(b) in subsection (2) for “(6)” substitute “ (6A) ”;
+
+(c) in subsection (4) after paragraph (a) insert
+
+> or
+>
+> “ such confusion in relation to a registered description of the party as is mentioned in paragraph (b) of section 28A(2),
+
+;
+
+(d) after subsection (4) insert—
+
+> (4A) The Commission shall refuse an application to add a description if—
+>
+> (a) the party already has 12 descriptions (or such other maximum number of descriptions as is substituted by order under section 28A(6)),
+>
+> (b) the length of the description exceeds six words, or
+>
+> (c) in the Commission's opinion, any of paragraphs (a) to (g) of section 28A(2) apply to the description.
+>
+> (4B) The Commission shall refuse an application to alter a description if the effect of the alteration—
+>
+> (a) is that the length of the description as altered will exceed six words, or
+>
+> (b) in their opinion, is that any of paragraphs (a) to (g) of section 28A(2) will apply to the description as altered.
+>
+> (4C) The Commission shall refuse to substitute a description if—
+>
+> (a) the length of the new description will exceed six words, or
+>
+> (b) in their opinion any of paragraphs (a) to (g) of section 28A(2) apply to the new description.
+>
+> (4D) In the application of subsection (4A)(b), (4B)(a) or (4C)(a) above to a party which has made a declaration falling within section 28(2) which specifies Wales as a part of Great Britain in respect of which it is registered, for “six words” substitute “ six words in either English or Welsh or, if the description is also expressed in the other of those languages, six words in that other language ”.
+
+;
+
+(e) after subsection (6) insert—
+
+> (6A) If an application under this section for the substitution or removal of a description is granted at any time between—
+>
+> (a) the date of publication of the notice of election at an election in which there are one or more candidates standing in the name of the party, and
+>
+> (b) the poll at the election,
+>
+> the change does not take effect until the day following the poll.
+
+(f) in subsection (7), after “subsection (3)” insert “ (4A), (4B), (4C), ”;
+
+(g) in subsection (7), after paragraph (a) insert
+
+> or
+>
+> (aa) section 28A(2)(a) and section 28(5) as it applies by virtue of section 28A(3), or
+>
+> (ab) section 28A(2)(a) as it applies by virtue of section 28B(2),
+
+.
+
+(3) In Schedule 1 to the 1983 Act (parliamentary elections rules) in rule 6A, after paragraph (1) insert—
+
+> (1A) In paragraph (1) above an authorised description may be either—
+>
+> (a) the name of the party registered under section 28 of the Political Parties, Elections and Referendums Act 2000, or
+>
+> (b) a description of the party registered under section 28A of that Act.
+>
+> (1B) A nomination paper may not include a description of a candidate which is likely to lead electors to associate the candidate with two or more registered political parties unless the parties are each qualifying parties in relation to the constituency and the description is a registered description authorised by a certificate—
+>
+> (a) issued by or on behalf of the registered nominating officer of each of the parties, and
+>
+> (b) received by the returning officer at some time during the period for delivery of nomination papers set out in the Table in rule 1.
+>
+> (1C) For the purposes of paragraph (1B), a description is a registered description if it is a description registered for use by the parties under section 28B of the Political Parties, Elections and Referendums Act 2000.
+
+#### 50 Confirmation of registered particulars
+
+(1) Section 32 of the 2000 Act (confirmation of registered particulars) is amended as follows.58
+
+(2) In subsection (1), for the words from “at the time when” to “Part III” substitute “ within the specified period ”.
+
+(3) After that subsection insert—
+
+> (1A) In subsection (1), “the specified period” means the period—
+>
+> (a) beginning on the first day of the period within which the statement of accounts for any financial year of the party is required to be delivered to the Commission by virtue of section 45, and
+>
+> (b) ending six months after the last day of that period.
+
+#### 51 Removal from register of registered parties
+
+(1) Section 33 of the 2000 Act (party ceasing to be registered) is amended as follows.
+
+(2) In subsection (1) after “subsection (2)” insert “ or (2A) ”.
+
+(3) After subsection (2) insert—
+
+> (2A) Where the Commission does not receive a notification required by virtue of section 32(1) or 34(3) on or before the specified day, the Commission shall remove the party's entry from the register.
+>
+> (2B) In subsection (2A) “the specified day” means—
+>
+> (a) in relation to a notification required by virtue of section 32(1), the last day of the specified period for the purposes of that subsection;
+>
+> (b) in relation to a notification required by virtue of section 34(3), the day which falls six months after the relevant anniversary of the party's inclusion in the register.
+>
+> (2C) In subsection (2B)(b), “relevant anniversary” means the anniversary in relation to which the notification is required to be given by virtue of section 34(3).
+
+(4) In subsection (3) for “the party's entry from the register” substitute “ a party's entry from the register by virtue of subsection (2) or (2A) ”.
+
+(5) In subsection (4) for the words from “the end” to the first reference to “the register” substitute “ the relevant time ”.
+
+(6) After subsection (4) insert—
+
+> (4A) In subsection (4), “the relevant time” means—
+>
+> (a) if—
+>
+> (i) the party's entry is removed by virtue of subsection (2), and
+>
+> (ii) its gross income or total expenditure in its financial year preceding the year in which the entry is removed is £25,000 or more,
+>
+> the end of the financial year of the party which follows that in which the entry is removed;
+>
+> (b) otherwise, the end of the financial year of the party in which the entry is removed.
+
+(7) In subsection (5) for “under this section” substitute “ under subsection (2) ”.
+
+#### 52 Time for registration of parties fielding candidates
+
+(1) In Schedule 1 to the 1983 Act, rule 6A (nomination papers: name of registered political party) is amended in accordance with subsections (2) and (3).
+
+(2) In paragraph (3)—
+
+(a) in sub-paragraph (a), for the words from “at the time” to the end substitute “ on the day (“the relevant day”) which is two days before the last day for the delivery of nomination papers at the election; ”;
+
+(b) in sub-paragraph (b), for “at the relevant time” (in both places) substitute “ on the relevant day ”.
+
+(3) After paragraph (3) insert—
+
+> (4) For the purposes of paragraph (3)(a) any day falling within rule 2(1) shall be disregarded.
+
+(4) Section 22 of the 2000 Act (parties to be registered in order to field candidates at elections) is amended in accordance with subsections (5) and (6).
+
+(5) In subsection (2)—
+
+(a) in paragraph (a), for “on the last day for publication of notice of the election” substitute “ on the day (“the relevant day”) which is two days before the last day for the delivery of nomination papers at that election ”;
+
+(b) in paragraph (b), for “on that day” substitute “ on the relevant day ”.
+
+(6) After that subsection insert—
+
+> (2A) For the purposes of subsection (2) any day falling within rule 2(1) of the parliamentary elections rules in Schedule 1 to the Representation of the People Act 1983 shall be disregarded.
+
+### Accounting requirements
+
+#### 53 Requirements as to statements of account
+
+(1) Section 42 of the 2000 Act (annual statement of accounts) is amended as follows.
+
+(2) In subsection (4) for paragraph (a) substitute—
+
+> (a) according to which of the following bands the gross income or total expenditure of a party falls within—
+>
+> (i) not exceeding £25,000;
+>
+> (ii) exceeding £25,000 but not £100,000;
+>
+> (iii) exceeding £100,000 but not £250,000;
+>
+> (iv) exceeding £250,000;
+
+.
+
+(3) After that subsection insert—
+
+> (4A) The Secretary of State may by order amend subsection (4)(a) by varying the number of bands set out in it.
+>
+> (4B) The Secretary of State may not make an order under subsection (4A) except to give effect to a recommendation of the Commission.
+
+(4) The amendments made by this section have effect in relation to any financial year of a registered party which ends after the coming into force of this section.
+
+#### 54 Time for delivery of unaudited accounts to Electoral Commission
+
+In section 45 of the 2000 Act (delivery of statement of accounts etc. to Commission), in subsection (1) for “3 months” substitute “ 4 months ”.
+
+### Control of donations
+
+#### 55 Policy development grants to be donations
+
+In section 52 of the 2000 Act (payments, services etc. not to be regarded as donations), in subsection (1) omit paragraph (a).
+
+#### 56 Exemption from requirement to prepare quarterly donation reports
+
+(1) After section 62 of the 2000 Act (quarterly donation reports) insert—
+
+> **62A Exemption from requirement to prepare quarterly reports**
+>
+> (1) This section applies if each of four consecutive donation reports prepared by the treasurer of a registered party in pursuance of subsection (1) of section 62 contains—
+>
+> (a) in the case of a party without accounting units, a statement under subsection (10) of that section, or
+>
+> (b) in the case of a party with accounting units, statements under subsection (10) of that section in relation to the central organisation of the party and each of its accounting units.
+>
+> (2) The treasurer is not required to prepare any further donation reports in pursuance of subsection (1) of that section until a recordable donation—
+>
+> (a) is accepted by the registered party, or
+>
+> (b) is dealt with by the registered party in accordance with section 56(2).
+>
+> (3) A recordable donation is a donation which is required to be recorded by virtue of any of subsections (4) to (9) of section 62 (including those subsections as applied by subsection (11) of that section).
+>
+> (4) If a recordable donation is accepted or (as the case may be) dealt with in accordance with section 56(2), nothing in this section affects the operation of section 62 in relation to—
+>
+> (a) the reporting period in which the recordable donation is so accepted or dealt with, or
+>
+> (b) any subsequent reporting period which falls before the time (if any) when this section again applies in relation to the party.
+>
+> (5) In this section, “donation report” and “reporting period” have the same meaning as in section 62.
+
+(2) Section 62A of the 2000 Act (as inserted by subsection (1) above) applies only if the last of the reports mentioned in subsection (1) of that section relates to a period which falls wholly or partly after the commencement of this section (but it is immaterial whether any of the other reports relate to such a period).
+
+#### 57 Repeal of section 68 of the 2000 Act
+
+Section 68 of the 2000 Act (reporting of multiple small donations) is omitted.
+
+#### 58 Register of donations to include details of nature of donation
+
+In section 69 of the 2000 Act (register of recordable donations), in subsection (2), after paragraph (a) insert—
+
+> (aa) whether the donation is in the form of sponsorship (within the meaning of section 51);
+
+.
+
+#### 59 Reporting donations to holders of certain elective offices
+
+(1) Schedule 7 (control of donations to individuals and members associations) to the 2000 Act is amended as follows.
+
+(2) In paragraph 10, after sub-paragraph (7) insert—
+
+> (8) This paragraph does not apply to a donation received by a holder of a relevant elective office unless he is not a member of a registered party and is [^F8]...a member of a local authority in Scotland.
+>
+> (9) For the purposes of sub-paragraph (8), it is immaterial whether the donation is made to the holder of the relevant elective office in that capacity or in his capacity as a member of a registered party.
+
+(3) In Part 5 of the Schedule, after paragraph 15 insert—
+
+> **15A Donations to holders of certain elective offices**
+>
+> (1) This paragraph applies in relation to donations received by a holder of a relevant elective office if—
+>
+> (a) the relevant body has in place arrangements requiring the holder of the office to report such donations, and
+>
+> (b) the Commission think that the arrangements correspond to the requirements of paragraph 10.
+>
+> (2) The Commission must make such arrangements as they think appropriate corresponding to section 69 as modified in pursuance of paragraph 15(3) to maintain a register of such information as they receive relating to such donations.
+>
+> (3) In sub-paragraph (1)(a) a relevant body is—
+>
+> (a) if the holder of a relevant elective office is a member of a body mentioned in paragraphs (a) to (f) of paragraph 1(8), that body;
+>
+> (b) if the holder of a relevant elective office is the Mayor of London, the London Assembly;
+>
+> (c) if the holder of a relevant elective office is an elected mayor within the meaning of Part 2 of the Local Government Act 2000, the local authority of which he is the mayor.
+
+(4) The Secretary of State must not make an order under section 77 for the purposes of this section as it applies to the holders of a relevant elective office unless he is informed by the Commission that they are satisfied that they will receive the information mentioned in paragraph 15A(2) of that Schedule (as inserted by subsection (3) above) in relation to such holders of relevant elective office.
+
+(5) In subsection (4) references to the holder of a relevant elective office must be construed in accordance with Schedule 7 to the 2000 Act.
+
+#### 60 Northern Ireland: disapplication of Part 4 of the 2000 Act
+
+[^F9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Regulation of loans etc.
+
+#### 61 Regulation of loans etc.
+
+(1) After Part 4 of the 2000 Act (control of donations to registered parties and their members) insert—
+
+> **Part 4A — Regulation of loans and related transactions**
+>
+> **71F Regulated transactions**
+>
+> (1) In this Part, a reference to a regulated transaction must be construed in accordance with this section.
+>
+> (2) An agreement between a registered party and another person by which the other person makes a loan of money to the party is a regulated transaction.
+>
+> (3) An agreement between a registered party and another person by which the other person provides a credit facility to the party is a regulated transaction.
+>
+> (4) Where—
+>
+> (a) a registered party and another person (A) enter into a regulated transaction of a description mentioned in subsection (2) or (3) or a transaction under which any property, services or facilities are provided for the use or benefit of the party (including the services of any person), and
+>
+> (b) A also enters into an arrangement whereby another person (B) gives any form of security (whether real or personal) for a sum owed to A by the party under the transaction mentioned in paragraph (a),
+>
+> the arrangement is a regulated transaction.
+>
+> (5) An agreement or arrangement is also a regulated transaction if—
+>
+> (a) the terms of the agreement or arrangement as first entered into do not constitute a regulated transaction by virtue of subsection (2), (3) or (4), but
+>
+> (b) the terms are subsequently varied in such a way that the agreement or arrangement becomes a regulated transaction.
+>
+> (6) References in subsections (2) and (3) to a registered party include references to an officer, member, trustee or agent of the party if he makes the agreement as such.
+>
+> (7) References in subsection (4) to a registered party include references to an officer, member, trustee or agent of the party if the property, services or facilities are provided to him, or the sum is owed by him, as such.
+>
+> (8) Except so far as the contrary intention appears, references to a registered party in the context of—
+>
+> (a) the making of a loan to a registered party,
+>
+> (b) the provision of a credit facility to a registered party, or
+>
+> (c) a sum being owed by a registered party,
+>
+> must, in the case of a party with accounting units, be construed as references to the central organisation of the party or any of its accounting units.
+>
+> (9) A reference to a connected transaction is a reference to the transaction mentioned in subsection (4)(b).
+>
+> (10) In this section a reference to anything being done by or in relation to a party or a person includes a reference to its being done directly or indirectly through a third person.
+>
+> (11) A credit facility is an agreement whereby a registered party is enabled to receive from time to time from another party to the agreement a loan of money not exceeding such amount (taking account of any repayments made by the registered party) as is specified in or determined in accordance with the agreement.
+>
+> (12) An agreement or arrangement is not a regulated transaction—
+>
+> (a) to the extent that, in accordance with any enactment, a payment made in pursuance of the agreement or arrangement falls to be included in a return as to election expenses in respect of a candidate or candidates at a particular election, or
+>
+> (b) if its value is not more than £200.
+>
+> (13) The Secretary of State may, by order, specify circumstances or any description of circumstances in which an agreement or arrangement falling within any of subsections (2) to (5) is not a regulated transaction.
+>
+> **71G Valuation of regulated transaction**
+>
+> (1) The value of a regulated transaction which is a loan is the value of the total amount to be lent under the loan agreement.
+>
+> (2) The value of a regulated transaction which is a credit facility is the maximum amount which may be borrowed under the agreement for the facility.
+>
+> (3) The value of a regulated transaction which is an arrangement by which any form of security is given is the contingent liability under the security provided.
+>
+> (4) For the purposes of subsections (1) and (2), no account is to be taken of the effect of any provision contained in a loan agreement or an agreement for a credit facility at the time it is entered into which enables outstanding interest to be added to any sum for the time being owed in respect of the loan or credit facility, whether or not any such interest has been so added.
+>
+> **71H Authorised participants**
+>
+> (1) A registered party must not—
+>
+> (a) be a party to a regulated transaction to which any of the other parties is not an authorised participant;
+>
+> (b) derive a benefit in consequence of a connected transaction if any of the parties to that transaction is not an authorised participant.
+>
+> (2) This section does not apply to a regulated transaction if it was entered into before the commencement of section 61 of the Electoral Administration Act 2006.
+>
+> (3) In this Part, an authorised participant is a person who is a permissible donor within the meaning of section 54(2).
+>
+> (4) The Secretary of State may, by order, specify circumstances or any description of circumstances in which a person who is not a permissible donor is to be treated as an authorised participant.
+>
+> **71I Regulated transaction involving unauthorised participant**
+>
+> (1) This section applies if a registered party is a party to a regulated transaction in which another participant is not an authorised participant.
+>
+> (2) The transaction is void.
+>
+> (3) Despite subsection (2)—
+>
+> (a) any money received by the registered party by virtue of the transaction must be repaid by the treasurer of the party to the person from whom it was received, along with interest at such rate as is determined in accordance with an order made by the Secretary of State;
+>
+> (b) that person is entitled to recover the money, along with such interest.
+>
+> (4) If—
+>
+> (a) the money is not (for whatever reason) repaid as mentioned in subsection (3)(a), or
+>
+> (b) the person entitled to recover the money refuses or fails to do so,
+>
+> the Commission may apply to the court to make such order as it thinks fit to restore (so far as is possible) the parties to the transaction to the position they would have been in if the transaction had not been entered into.
+>
+> (5) An order under subsection (4) may in particular—
+>
+> (a) where the transaction is a loan or credit facility, require that any amount owed by the registered party be repaid (and that no further sums be advanced under it);
+>
+> (b) where any form of security is given for a sum owed under the transaction, require that security to be discharged.
+>
+> (6) In the case of a regulated transaction where a party other than a registered party—
+>
+> (a) at the time the registered party enters into the transaction, is an authorised participant, but
+>
+> (b) subsequently, for whatever reason, ceases to be an authorised participant,
+>
+> the transaction is void and subsections (3) to (5) apply with effect from the time when the other party ceased to be an authorised participant.
+>
+> (7) This section does not apply to a regulated transaction if it was entered into before the commencement of section 61 of the Electoral Administration Act 2006.
+>
+> **71J Guarantees and securities: unauthorised participants**
+>
+> (1) This section applies if—
+>
+> (a) a registered party and another person (A) enter into a transaction of a description mentioned in section 71F(4)(a),
+>
+> (b) A is party to a regulated transaction of a description mentioned in section 71F(4)(b) (“the connected transaction”) with another person (B), and
+>
+> (c) B is not an authorised participant.
+>
+> (2) Section 71I(2) to (5) applies to the transaction mentioned in subsection (1)(a).
+>
+> (3) The connected transaction is void.
+>
+> (4) Subsection (5) applies if (but only if) A is unable to recover from the party the whole of the money mentioned in section 71I(3)(a) (as applied by subsection (2) above), along with such interest as is there mentioned.
+>
+> (5) Despite subsection (3), A is entitled to recover from B any part of that money (and such interest) that is not recovered from the party.
+>
+> (6) Subsection (5) does not entitle A to recover more than the contingent liability under the security provided by virtue of the connected transaction.
+>
+> (7) In the case of a connected transaction where B—
+>
+> (a) at the time A enters into the transaction, is an authorised participant, but
+>
+> (b) subsequently, for whatever reason, ceases to be an authorised participant,
+>
+> subsections (2) to (6) apply with effect from the time when B ceased to be an authorised participant.
+>
+> (8) This section does not apply to a regulated transaction if it was entered into before the commencement of section 61 of the Electoral Administration Act 2006.
+>
+> (9) If the transaction mentioned in section 71F(4)(a) is not a regulated transaction of a description mentioned in section 71F(2) or (3), references in this section and section 71I(2) to (5) (as applied by subsection (2) above) to the repayment or recovery of money must be construed as references to (as the case may be)—
+>
+> (a) the return or recovery of any property provided under the transaction,
+>
+> (b) to the extent that such property is incapable of being returned or recovered or its market value has diminished since the time the transaction was entered into, the repayment or recovery of the market value at that time, or
+>
+> (c) the market value (at that time) of any facilities or services provided under the transaction.
+>
+> **71K Transfer to unauthorised participant invalid**
+>
+> If an authorised participant purports to transfer his interest in a regulated transaction to a person who is not an authorised participant the purported transfer is of no effect.
+>
+> **71L Offences relating to regulated transactions**
+>
+> (1) A registered party commits an offence if—
+>
+> (a) it enters into a regulated transaction of a description mentioned in section 71F(2) or (3) in which another participant is not an authorised participant, and
+>
+> (b) an officer of the party knew or ought reasonably to have known of the matters mentioned in paragraph (a).
+>
+> (2) A person commits an offence if—
+>
+> (a) he is the treasurer of a registered party,
+>
+> (b) the party enters into a regulated transaction of a description mentioned in section 71F(2) or (3) in which another participant is not an authorised participant, and
+>
+> (c) he knew or ought reasonably to have known of the matters mentioned in paragraph (b).
+>
+> (3) A registered party commits an offence if—
+>
+> (a) it enters into a regulated transaction of a description mentioned in section 71F(2) or (3) in which another participant is not an authorised participant,
+>
+> (b) no officer of the party knew or ought reasonably to have known that the other participant is not an authorised participant, and
+>
+> (c) as soon as practicable after knowledge of the matters mentioned in paragraph (a) comes to the treasurer of the party he fails to take all reasonable steps to repay any money which the party has received by virtue of the transaction.
+>
+> (4) A person who is the treasurer of a registered party commits an offence if—
+>
+> (a) the party enters into a regulated transaction of a description mentioned in section 71F(2) or (3) in which another participant is not an authorised participant,
+>
+> (b) subsection (2)(c) does not apply to him, and
+>
+> (c) as soon as practicable after knowledge of the matters mentioned in paragraph (a) comes to him he fails to take all reasonable steps to repay any money which the party has received by virtue of the transaction.
+>
+> (5) A registered party commits an offence if—
+>
+> (a) it benefits from or falls to benefit in consequence of a connected transaction to which any of the parties is not an authorised participant, and
+>
+> (b) an officer of the party knew or ought reasonably to have known of the matters mentioned in paragraph (a).
+>
+> (6) A person commits an offence if—
+>
+> (a) he is the treasurer of a registered party,
+>
+> (b) the party benefits from or falls to benefit in consequence of a connected transaction to which any of the parties is not an authorised participant, and
+>
+> (c) he knew or ought reasonably to have known of the matters mentioned in paragraph (b).
+>
+> (7) A registered party commits an offence if—
+>
+> (a) it is a party to a transaction of a description mentioned in section 71F(4)(a),
+>
+> (b) it benefits from or falls to benefit in consequence of a connected transaction to which any of the parties is not an authorised participant,
+>
+> (c) no officer of the party knew or ought reasonably to have known of the matters mentioned in paragraphs (a) and (b), and
+>
+> (d) as soon as practicable after knowledge of the matters mentioned in paragraphs (a) and (b) comes to the treasurer of the party he fails to take all reasonable steps to pay to any person who has provided the party with any benefit in consequence of the connected transaction the value of the benefit.
+>
+> (8) A person who is the treasurer of a registered party commits an offence if—
+>
+> (a) the party is a party to a transaction of a description mentioned in section 71F(4)(a),
+>
+> (b) the party benefits from or falls to benefit in consequence of a connected transaction to which any of the parties is not an authorised participant,
+>
+> (c) subsection (6)(c) does not apply to him, and
+>
+> (d) as soon as practicable after knowledge of the matters mentioned in paragraphs (a) and (b) comes to him he fails to take all reasonable steps to pay to any person who has provided the party with any benefit in consequence of the connected transaction the value of the benefit.
+>
+> (9) A person commits an offence if he—
+>
+> (a) knowingly enters into, or
+>
+> (b) knowingly does any act in furtherance of,
+>
+> any arrangement which facilitates or is likely to facilitate, whether by means of concealment or disguise or otherwise, the participation by a registered party in a regulated transaction with a person other than an authorised participant.
+>
+> (10) It is a defence for a person charged with an offence under subsection (2) to prove that he took all reasonable steps to prevent the registered party entering the transaction.
+>
+> (11) It is a defence for a person charged with an offence under subsection (6) to prove that he took all reasonable steps to prevent the registered party benefiting in consequence of the connected transaction.
+>
+> (12) A reference to a registered party entering into a regulated transaction includes a reference to any circumstances in which the terms of a regulated transaction are varied so as to increase the amount of money to which the party is entitled in consequence of the transaction.
+>
+> (13) A reference to a registered party entering into a transaction in which another participant is not an authorised participant includes a reference to any circumstances in which another party to the transaction who is an authorised participant ceases (for whatever reason) to be an authorised participant.
+>
+> (14) This section does not apply to a transaction which is entered into before the commencement of section 61 of the Electoral Administration Act 2006.
+>
+> **71M Quarterly reports of regulated transactions**
+>
+> (1) The treasurer of a registered party must, in the case of each year, prepare a report under this subsection in respect of each of the following periods—
+>
+> (a) January to March;
+>
+> (b) April to June;
+>
+> (c) July to September;
+>
+> (d) October to December.
+>
+> (2) The reports prepared under subsection (1) for any year must, in the case of each authorised participant who enters into or is party to a regulated transaction with the party in that year, comply with—
+>
+> (a) the following provisions of this section so far as they require any such transaction to be recorded in such a report;
+>
+> (b) section 71N so far as it requires any changes in relation to any such transaction to be so recorded.
+>
+> (3) In this section—
+>
+> - “transaction report” means a report prepared under subsection (1);
+>
+> - “reporting period”, in relation to such a report, means the period mentioned in any of paragraphs (a) to (d) of that subsection to which the report relates;
+>
+> - “relevant transaction”, in relation to an authorised participant and a year, means a regulated transaction entered into by the participant and the registered party in that year;
+>
+> - “relevant benefit”, in relation to any person and any year, means—
+>
+>   - (a) a relevant donation within the meaning of section 62(3) accepted by the party from that person as a donor, or
+>   - (b) a relevant transaction entered into by the party and that person as a participant,
+>
+>   and a relevant benefit accrues when it is accepted (if it is a donation) or entered into (if it is a transaction).
+>
+> (4) Where no previous relevant benefit or benefits has or have been required to be recorded under this subsection or section 62(4), a relevant transaction must be recorded—
+>
+> (a) if the value of the transaction is more than £5,000, or
+>
+> (b) if the aggregate amount of it and any other relevant benefit or benefits is more than £5,000.
+>
+> (5) A transaction to which subsection (4) applies must—
+>
+> (a) if it falls within paragraph (a) of that subsection, be recorded in the transaction report for the reporting period in which the transaction is entered into, or
+>
+> (b) if it falls within paragraph (b) of that subsection, be recorded (together with any other relevant transaction or transactions included in the aggregate amount mentioned in that paragraph) in the transaction report for the reporting period in which the benefit which causes that aggregate to be more than £5,000 accrues.
+>
+> (6) Where any previous relevant benefit or benefits has or have been required to be recorded under subsection (4) or section 62(4), a relevant transaction must be recorded at the point when a relevant transaction falling within subsection (7) has been entered into—
+>
+> (a) since the benefit or benefits required to be recorded under that provision, or
+>
+> (b) if any relevant benefit or benefits has or have previously been required to be recorded under this subsection or section 62(6), since the benefit or benefits last required to be so recorded.
+>
+> (7) A relevant transaction falls within this subsection—
+>
+> (a) if the value of the transaction is more than £1,000, or
+>
+> (b) if, when it is added to any other relevant benefit or benefits accruing since the time mentioned in subsection (6)(a) or (b), the aggregate amount of the benefits is more than £1,000.
+>
+> (8) A transaction to which subsection (6) applies on any occasion must—
+>
+> (a) if it is the only benefit required to be recorded on that occasion, be recorded in the transaction report for the reporting period in which it is entered into, or
+>
+> (b) in any other case, be recorded (together with any other relevant transaction or transactions included in the aggregate amount mentioned in subsection (7)) in the transaction report for the reporting period in which the benefit which causes that aggregate amount to be more than £1,000 accrues.
+>
+> (9) A transaction report must also record any regulated transaction which is entered into by the party and a person who is not an authorised participant and is dealt with during the reporting period in accordance with section 71I or 71J.
+>
+> (10) If during any reporting period no transactions have been entered into by the party which, by virtue of the preceding provisions of this section, are required to be recorded in the transaction report for that period, the report must contain a statement to that effect.
+>
+> (11) Where a registered party is a party with accounting units, subsections (2) to (10) apply separately in relation to the central organisation of the party and each of its accounting units—
+>
+> (a) as if any reference to the party were a reference to the central organisation or (as the case may be) to such an accounting unit; but
+>
+> (b) with the substitution, in relation to such an accounting unit, of “ £1,000 ” for “£5,000” in each place where it occurs in subsections (4) and (5).
+>
+> (12) However, for the purposes of subsections (2) to (9) in their application to the central organisation and any year by virtue of subsection (11), any transaction—
+>
+> (a) which is entered into by an authorised participant and any of the accounting units during that year, but
+>
+> (b) which is not required to be recorded under subsection (4) or (6) (as they apply by virtue of subsection (11)) as a transaction entered into by the accounting unit,
+>
+> must be treated as a transaction entered into by the authorised participant and the central organisation.
+>
+> (13) Schedule 6A has effect with respect to the information to be given in transaction reports.
+>
+> **71N Changes to be recorded in quarterly reports**
+>
+> (1) If during any reporting period, in the case of any recorded transaction—
+>
+> (a) another authorised participant becomes party to the transaction (whether in place of or in addition to any existing participant),
+>
+> (b) there is any change in the details given in relation to the transaction in pursuance of paragraph 5, 6 or 7 of Schedule 6A, or
+>
+> (c) the transaction comes to an end,
+>
+> the change must be recorded in the transaction report for that period.
+>
+> (2) For the purposes of subsection (1)(c), a loan comes to an end if—
+>
+> (a) the whole debt (or all the remaining debt) is repaid;
+>
+> (b) the creditor releases the whole debt (or all the remaining debt);
+>
+> and in such a case the transaction report must state how the loan has come to an end.
+>
+> (3) A transaction report must also record any change by which a person who is not an authorised participant becomes party to the transaction (whether in place of or in addition to any existing participant) and in consequence of which the transaction is dealt with in accordance with section 71I or 71J.
+>
+> (4) If during any reporting period there have been no changes (as mentioned in subsection (1) or (3)) to any recorded transaction, the report must contain a statement to that effect.
+>
+> (5) A recorded transaction, in relation to a reporting period, is a regulated transaction which is or has been recorded in a transaction report for that or a previous reporting period.
+>
+> (6) Where a registered party is a party with accounting units, subsections (1) to (5) apply separately in relation to the central organisation of the party and each of its accounting units; and the reference in subsection (5) to a transaction report for a previous reporting period is a reference to a report prepared in relation the central organisation or accounting unit, as the case may be.
+>
+> (7) In this section, “reporting period” and “transaction report” have the meanings given in section 71M.
+>
+> **71O Existing transactions**
+>
+> (1) This section applies in relation to the first report prepared under section 71M(1) by the treasurer of a party which, at the date on which that section comes into force, is a registered party.
+>
+> (2) Sections 71M and 71N have effect, in the case of a person (whether or not an authorised participant) who is a party to an existing transaction, as if—
+>
+> (a) that transaction had been entered into in the reporting period to which the report relates;
+>
+> (b) any change (as mentioned in section 71N(1) or (3)) to the transaction had occurred during that period;
+>
+> (c) references in section 71M to a relevant benefit did not include references to a relevant donation.
+>
+> (3) An existing transaction is a regulated transaction which, at the date on which section 71M comes into force, has not come to an end for the purposes of section 71N(1)(c).
+>
+> **71P Exemption from requirement to prepare quarterly reports**
+>
+> (1) This section applies if each of four consecutive transaction reports prepared by the treasurer of a registered party in pursuance of subsection (1) of section 71M contains—
+>
+> (a) in the case of a party without accounting units, a statement under subsection (10) of that section and a statement under subsection (4) of section 71N, or
+>
+> (b) in the case of a party with accounting units, statements under each of those subsections in relation to the central organisation of the party and each of its accounting units.
+>
+> (2) The treasurer is not required to prepare any further transaction reports in pursuance of subsection (1) of section 71M until—
+>
+> (a) a recordable transaction is entered into by the registered party, or
+>
+> (b) a recordable change is made to a recorded transaction.
+>
+> (3) A recordable transaction is a transaction which is required to be recorded by virtue of any of subsections (4) to (9) of section 71M (including those subsections as applied by subsection (11) of that section).
+>
+> (4) A recordable change is a change which is required to be recorded by virtue of subsection (1) of section 71N (including that subsection as applied by subsection (6) of that section).
+>
+> (5) If a recordable transaction is entered into or a recordable change is made, nothing in this section affects the operation of section 71M or 71N in relation to—
+>
+> (a) the reporting period in which the recordable transaction is entered into or the recordable change is made, or
+>
+> (b) any subsequent reporting period which falls before the time (if any) when this section again applies in relation to the party.
+>
+> (6) In this section—
+>
+> - “transaction report” and “reporting period” have the same meaning as in section 71M;
+> - “recorded transaction” has the same meaning as in section 71N.
+>
+> **71Q Weekly transaction reports during general election periods**
+>
+> (1) Subject to section 71R, the treasurer of a registered party must, in the case of any general election period, prepare a report under this subsection in respect of each of the following periods—
+>
+> (a) the period of seven days beginning with the first day of the general election period,
+>
+> (b) each succeeding period of seven days falling within the general election period, and
+>
+> (c) any final period of less than seven days falling within that period.
+>
+> (2) In this section—
+>
+> - “weekly report” means a report prepared under subsection (1);
+> - “reporting period”, in relation to such a report, means the period mentioned in any of paragraphs (a) to (c) of that subsection to which the report relates.
+>
+> (3) The weekly report for any reporting period must record each regulated transaction which has a value of more than £5,000 entered into during that period—
+>
+> (a) by the party (if it is not a party with accounting units), or
+>
+> (b) by the central organisation of the party (if it is a party with accounting units).
+>
+> (4) If during any reporting period no transactions falling within subsection (3) have been entered into as mentioned in that subsection, the weekly report for that period must contain a statement to that effect.
+>
+> (5) Schedule 6A has effect with respect to the information to be given in weekly reports.
+>
+> (6) The weekly report for any reporting period must also record any change (as mentioned in section 71N(1) or (3)) during that period to a regulated transaction recorded—
+>
+> (a) by the party (if it is not a party with accounting units), or
+>
+> (b) by the central organisation of the party (if it is a party with accounting units).
+>
+> (7) For the purposes of subsection (6), a transaction is recorded by a party or the central organisation of a party if it is or has been recorded in—
+>
+> (a) a transaction report prepared under section 71M(1), or
+>
+> (b) a weekly report prepared for that or a previous reporting period falling within the general election period.
+>
+> (8) If during any reporting period there have been no changes falling within subsection (6), the weekly report for that period must contain a statement to that effect.
+>
+> (9) In this section and section 71R “general election period” has the meaning given in section 63.
+>
+> **71R Exemptions from section 71Q**
+>
+> (1) Section 71Q(1) does not apply in relation to a registered party in respect of a general election period if the party has made an exemption declaration under section 64 which covers the general election in question.
+>
+> (2) In its application (in accordance with subsection (1)) in relation to section 71Q, section 64 is to be read subject to the following modifications—
+>
+> (a) the reference in subsection (5) to section 63 is to be read as a reference to section 71Q;
+>
+> (b) subsection (6) is omitted.
+>
+> **71S Submission of transaction reports to Commission**
+>
+> (1) A transaction report under section 71M must be delivered to the Commission by the treasurer of the party in question within the period of 30 days beginning with the end of the reporting period to which it relates.
+>
+> (2) A transaction report under section 71Q must be delivered to the Commission by the treasurer of the party in question—
+>
+> (a) within the period of 7 days beginning with the end of the reporting period to which it relates, or
+>
+> (b) if that is not possible in the case of any party to which section 71Q applies by virtue of section 64(5) (as applied by section 71R), within the period of 7 days beginning with the first day on which the party has a candidate at the election in question.
+>
+> (3) If a transaction report under section 71M or 71Q states that the registered party has seen evidence of such description as is prescribed by the Secretary of State in regulations that an individual participant has an anonymous entry in the electoral register (within the meaning of the Representation of the People Act 1983), the report must be accompanied by a copy of the evidence.
+>
+> (4) The treasurer of a registered party commits an offence if he fails to comply with the requirements of subsection (1) or (2) in relation to a transaction report.
+>
+> (5) The treasurer of a registered party also commits an offence if he delivers a transaction report to the Commission which does not comply with any requirements of this Part as regards the recording of transactions, or changes to transactions, in such a report.
+>
+> (6) Where a person is charged with an offence under this section, it shall be a defence to prove that he took all reasonable steps, and exercised all due diligence, to ensure that any such requirements were complied with in relation to transactions entered into by the party, or changes to transactions made, during the relevant reporting period.
+>
+> (7) Where the court is satisfied, on an application made by the Commission, that any failure to comply with any such requirements in relation to—
+>
+> (a) any transaction entered into by a registered party, or
+>
+> (b) any change made to a transaction to which the registered party is a party,
+>
+> was attributable to an intention on the part of any person to conceal the existence or true value of the transaction, the court may make such order as it thinks fit to restore (so far as is possible) the parties to the transaction to the position they would have been in if the transaction had not been entered into.
+>
+> (8) An order under subsection (7) may in particular—
+>
+> (a) where the transaction is a loan or credit facility, require that any amount owed by the registered party be repaid (and that no further sums be advanced under it);
+>
+> (b) where any form of security is given for a sum owed under the transaction, or the transaction is an arrangement by which any form of security is given, require that the security be discharged.
+>
+> (9) The reference in subsection (2) to a party having a candidate at an election must be construed in accordance with section 64(9).
+>
+> **71T Declaration by treasurer in transaction report**
+>
+> (1) Each transaction report under section 71M or 71Q must, when delivered to the Commission, be accompanied by a declaration made by the treasurer which complies with subsection (2), (3) or (4).
+>
+> (2) In the case of a report under section 71M (other than one making a nil return), the declaration must state that, to the best of the treasurer's knowledge and belief—
+>
+> (a) all the transactions recorded in the report were entered into by the party with authorised participants,
+>
+> (b) during the reporting period no transaction has been entered into by the party which is required to be recorded in the report but is not so recorded,
+>
+> (c) during the reporting period no change has been made to a regulated transaction which is required to be recorded in the report but is not so recorded, and
+>
+> (d) during the reporting period the party has not entered into any regulated transaction with a person or body other than an authorised participant.
+>
+> (3) For the purposes of subsection (2) a return under section 71M makes a nil return if it contains such a statement as is mentioned in subsection (10) of that section and a statement as is mentioned in subsection (4) of section 71N; and in the case of such a report the declaration must state that, to the best of the treasurer's knowledge and belief—
+>
+> (a) those statements are accurate, and
+>
+> (b) during the reporting period the party has not entered into any regulated transaction with a person or body other than an authorised participant.
+>
+> (4) In the case of a report under section 71Q, the declaration must state that, to the best of the treasurer's knowledge and belief—
+>
+> (a) no transaction has been entered into by the party, or (if section 71Q(3)(b) applies) by its central organisation, during the reporting period which is required to be recorded in the report but is not so recorded, and
+>
+> (b) no change has been made to a regulated transaction during the reporting period which is required to be recorded in the report but is not so recorded.
+>
+> (5) A person commits an offence if he knowingly or recklessly makes a false declaration under this section.
+>
+> **71U Weekly donation reports in connection with elections other than general elections**
+>
+> (1) The Secretary of State may, after consulting the Commission and all registered parties, by order make provision for—
+>
+> (a) sections 71Q and 71R, together with Schedule 6A,
+>
+> (b) sections 71S and 71T, and
+>
+> (c) section 147 so far as applying in relation to section 71S(1) or (2),
+>
+> to apply in relation to the specified election period in the case of one or more relevant elections with such modifications as are specified in the order.
+>
+> (2) In this section “specified election period” and “relevant election” have the meanings given in section 67.
+>
+> **71V Register of recordable transactions**
+>
+> (1) The Commission must maintain a register of all transactions (and all changes) reported to them under this Part.
+>
+> (2) The register must be maintained by the Commission in such form as they may determine and must contain the following details in the case of each such transaction—
+>
+> (a) the value of the transaction;
+>
+> (b) (subject to subsection (3)) such other details as have been given in relation to the transaction in pursuance of any of paragraphs 2 to 7 of Schedule 6A;
+>
+> (c) the relevant date for the transaction within the meaning of paragraph 8 of that Schedule.
+>
+> (3) The details required by virtue of subsection (2) do not include, in the case of any transaction entered into by an authorised participant who is an individual, the individual's address.
+>
+> (4) Where—
+>
+> (a) any transaction or transactions is or are reported to the Commission under this Part, or
+>
+> (b) any change or changes is or are so reported to them,
+>
+> they must cause the details mentioned in subsection (2) to be entered or, as the case may be, changed in the register in respect of the transaction or transactions as soon as is reasonably practicable.
+>
+> **71W Proceedings under sections 71I and 71S**
+>
+> (1) This section has effect in relation to proceedings on applications under sections 71I(4) and 71S(7).
+>
+> (2) The court is—
+>
+> (a) in England and Wales, the county court;
+>
+> (b) in Scotland, the sheriff, and the proceedings are civil proceedings;
+>
+> (c) in Northern Ireland, the county court.
+>
+> (3) The standard of proof is that applicable to civil proceedings.
+>
+> (4) An order may be made whether or not proceedings are brought against any person for an offence under section 71L, 71S or 71T.
+>
+> (5) An appeal against an order made by the sheriff may be made to the Court of Session.
+>
+> (6) Rules of court may make provision—
+>
+> (a) with respect to applications or appeals from proceedings on such applications;
+>
+> (b) for the giving of notice of such applications or appeals to persons affected;
+>
+> (c) for the joinder, or in Scotland sisting, of such persons as parties;
+>
+> (d) generally with respect to procedure in such applications or appeals.
+>
+> (7) Subsection (6) does not affect any existing power to make rules.
+>
+> **71X Construction of Part 4A**
+>
+> (1) In this Part—
+>
+> - “authorised participant” must be construed in accordance with section 71H;
+> - “connected transaction” has the meaning given by section 71F(9);
+> - “credit facility” has the meaning given by section 71F(11);
+> - “regulated transaction” must be construed in accordance with section 71F.
+>
+> (2) For the purposes of any provision relating to the reporting of transactions, anything required to be done by a registered party in consequence of its being a party to a regulated transaction must also be done by it, if it is a party to a transaction of a description mentioned in section 71F(4)(a), as if it were a party to the connected transaction.
+
+(2) In section 147 of that Act (civil penalty for failure to deliver documents etc), after subsection (1)(c) insert—
+
+> (ca) the requirements of section 71S(1) or (2) are not complied with in relation to any transaction report relating to a registered party;
+
+.
+
+(3) In section 149 of that Act (inspection of Commission's registers etc), after subsection (1)(b) insert—
+
+> (ba) section 71V;
+
+.
+
+(4) In section 156(4) of that Act (provision about subordinate legislation)—
+
+(a) after paragraph (d) insert—
+
+> (da) section 71F(13),
+>
+> (db) section 71H(4),
+>
+> (dc) section 71U(1),
+
+;
+
+(b) after paragraph (h) insert—
+
+> (ha) paragraph 9 of Schedule 6A,
+
+.
+
+(5) After Schedule 6 to that Act (details to be given in donation reports) insert—
+
+> **SCHEDULE 6A — Details to be given in transaction reports**
+>
+> **Preliminary**
+>
+> **1** (1) In this Schedule—
+>
+> (a) “quarterly report” means a report required to be prepared by virtue of section 71M;
+>
+> (b) “weekly report” means a report required to be prepared by virtue of section 71Q;
+>
+> and “recordable transaction”, in relation to a quarterly or weekly report, means a transaction required to be recorded in that report.
+>
+> (2) References in this Schedule to a registered party must, in the case of a party with accounting units, be read as references to the central organisation of the party.
+>
+> **Identity of authorised participants: quarterly reports**
+>
+> **2** (1) In relation to each recordable transaction, a quarterly report must give the following information about each authorised participant (other than the registered party deriving the benefit of the transaction) that is required by any of sub-paragraphs (2) to (10).
+>
+> (2) In the case of an individual the report must give his full name and—
+>
+> (a) if his address is, at the date the transaction is entered into, shown in an electoral register (within the meaning of section 54), that address, and
+>
+> (b) otherwise, his home address (whether in the United Kingdom or elsewhere).
+>
+> (3) Sub-paragraph (2) applies in the case of an individual who has an anonymous entry in an electoral register (within the meaning of the Representation of the People Act 1983) as if for paragraphs (a) and (b) there were substituted “ state that the registered party has seen evidence of such description as is prescribed by the Secretary of State in regulations that the individual has an anonymous entry in an electoral register (within the meaning of the Representation of the People Act 1983) ”.
+>
+> (4) In the case of a company falling within section 54(2)(b) the report must give—
+>
+> (a) the company's registered name,
+>
+> (b) the address of its registered office, and
+>
+> (c) the number with which it is registered.
+>
+> (5) In the case of a registered party the report must give—
+>
+> (a) the party's registered name, and
+>
+> (b) the address of its registered headquarters.
+>
+> (6) In the case of trade union falling within section 54(2)(d) the report must give—
+>
+> (a) the name of the union, and
+>
+> (b) the address of its head or main office,
+>
+> as shown in the list kept under the Trade Union and Labour Relations (Consolidation) Act 1992 or the Industrial Relations (Northern Ireland) Order 1992.
+>
+> (7) In the case of a building society within the meaning of the Building Societies Act 1986 the report must give—
+>
+> (a) the name of the society, and
+>
+> (b) the address of its principal office.
+>
+> (8) In the case of a limited liability partnership falling within section 54(2)(f) the report must give—
+>
+> (a) the partnership's registered name, and
+>
+> (b) the address of its registered office.
+>
+> (9) In the case of a friendly or other registered society falling within section 54(2)(g) the report must give—
+>
+> (a) the name of the society, and
+>
+> (b) the address of its registered office.
+>
+> (10) In the case of an unincorporated association falling within section 54(2)(h) the report must give—
+>
+> (a) the name of the association, and
+>
+> (b) the address of its main office in the United Kingdom.
+>
+> **Identity of authorised participants: weekly reports**
+>
+> **3** (1) In relation to each recordable transaction, a weekly report must give all such details of the name and address of each authorised participant (other than the registered party deriving the benefit from the transaction) as are for the time being known to the party.
+>
+> (2) In the case of a participant who is an individual having an anonymous entry in an electoral register (within the meaning of the Representation of the People Act 1983) instead of giving details of the address of the individual the party must state that it has seen evidence of such description as is prescribed by the Secretary of State in regulations that the individual has such an entry.
+>
+> **Identity of unauthorised participants**
+>
+> **4** In relation to each recordable transaction to which a person who is not an authorised participant is a party, a quarterly or weekly report must give—
+>
+> (a) the name and address of the person;
+>
+> (b) the date when, and the manner in which, the transaction was dealt with in accordance with subsections (3) to (5) of section 71I or those subsections as applied by section 71I(6) or 71J(2).
+>
+> **Details of transaction**
+>
+> **5** (1) In relation to each recordable transaction a report must give the following details about the transaction.
+>
+> (2) A quarterly or weekly report must give the nature of the transaction (that is to say, whether it is a loan, a credit facility or an arrangement by which any form of security is given).
+>
+> (3) A quarterly or weekly report must give the value of the transaction (determined in accordance with section 71G) or, in the case of a credit facility or security to which no limit is specified, a statement to that effect.
+>
+> (4) A quarterly or weekly report must give the relevant date for the transaction (determined in accordance with paragraph 8).
+>
+> (5) If the requirement to record the transaction arises only because the value of the transaction has, for the purposes of section 71M(4) or (7), been aggregated with the value of any relevant donation or donations (within the meaning of section 62), a quarterly report must contain a statement to that effect.
+>
+> (6) A quarterly report must—
+>
+> (a) state whether the transaction was entered into by the registered party or any accounting unit of the party, or
+>
+> (b) in the case of a transaction to which section 71M(12) applies, indicate that it is a transaction which falls to be treated as made to the party by virtue of that provision.
+>
+> **6** (1) In relation to each recordable transaction of a description mentioned in section 71F(2) or (3), a quarterly or weekly report must give the following details about the transaction.
+>
+> (2) The report must give—
+>
+> (a) the date when the loan is to be repaid or the facility is to end (or a statement that the loan or facility is indefinite), or
+>
+> (b) where that date is to be determined under the agreement, a statement of how it is to be so determined.
+>
+> (3) The report must give—
+>
+> (a) the rate of interest payable on the loan or on sums advanced under the facility (or a statement that no interest is payable), or
+>
+> (b) where that rate is to be determined under the agreement, a statement of how it is to be so determined.
+>
+> (4) The report must state whether the agreement contains a provision which enables outstanding interest to be added to any sum for the time being owed in respect of the loan or credit facility.
+>
+> (5) The report must state whether any form of security is given in respect of the loan or the sums advanced under the facility.
+>
+> **7** (1) In relation to each recordable transaction of a description mentioned in section 71F(4)(b), a quarterly or weekly report must give the following details about the transaction.
+>
+> (2) The report must—
+>
+> (a) if the transaction mentioned in section 71F(4)(a) is a regulated transaction, identify that transaction by reference to the transaction report in which it is recorded;
+>
+> (b) in any other case, give a description of the principal features of that transaction.
+>
+> (3) Where the security given consists in or includes rights over any property, the report must state the nature of that property.
+>
+> (4) The report must—
+>
+> (a) if the person giving the security receives from the registered party any consideration for giving the security, give a statement of that consideration;
+>
+> (b) in any other case, state that no such consideration is received.
+>
+> **8** (1) For the purposes of paragraph 5(4) as it applies to a quarterly report, the relevant date for a transaction is—
+>
+> (a) if the transaction is within section 71M(4)(a) or (7)(a), the date when the transaction was entered into by the party or the accounting unit;
+>
+> (b) if the transaction is within section 71M(4)(b) or (7)(b), the date when the party or the accounting unit entered into the transaction which caused the aggregate amount in question to be more than the limit specified in that provision.
+>
+> (2) For the purposes of paragraph 5(4) as it applies to a weekly report, the relevant date for a transaction is the date when the transaction was entered into by the party or its central organisation as mentioned in section 71Q(3).
+>
+> **Other details**
+>
+> **9** (1) The Secretary of State may by order amend paragraphs 2 to 7 so as to vary the details which a quarterly or weekly report must give about a transaction.
+>
+> (2) The Secretary of State must not make an order under sub-paragraph (1) unless he first consults the Commission.
+
+(6) In Schedule 20 to that Act (penalties), after the entry relating to section 71E(5) (as inserted by paragraph 2 of Schedule 1 to the Northern Ireland (Miscellaneous Provisions) Act 2006) insert—
+
+> |  |  |
+> |---|---|
+> | Section 71L(1) (registered party entering into regulated transaction with unauthorised participant) | On summary conviction: statutory maximum On indictment: fine |
+> | Section 71L(2) (treasurer of party entering into regulated transaction with unauthorised participant) | On summary conviction: statutory maximum or 12 months On indictment: fine or 1 year |
+> | Section 71L(3) (party liable if treasurer fails to repay money obtained under regulated transaction with unauthorised participant) | On summary conviction: statutory maximum On indictment: fine |
+> | Section 71L(4) (treasurer failing to repay money obtained under regulated transaction with unauthorised participant) | On summary conviction: statutory maximum or 12 months On indictment: fine or 1 year |
+> | Section 71L(5) (party benefiting from connected transaction to which an unauthorised participant is a party) | On summary conviction: statutory maximum On indictment: fine |
+> | Section 71L(6) (treasurer of registered party which benefits from connected transaction to which an unauthorised participant is a party) | On summary conviction: statutory maximum or 12 months On indictment: fine or 1 year |
+> | Section 71L(7) (party liable if treasurer fails to repay benefit obtained in consequence of security given by unauthorised participant) | On summary conviction: statutory maximum On indictment: fine |
+> | Section 71L(8) (treasurer failing to repay benefit obtained in consequence of security given by unauthorised participant) | On summary conviction: statutory maximum or 12 months On indictment: fine or 1 year |
+> | Section 71L(9) (facilitating a regulated transaction involving unauthorised participant) | On summary conviction: statutory maximum or 12 months On indictment: fine or 1 year |
+> | Section 71S(4) (failure to deliver transaction reports to Commission within time limits) | On summary conviction: Level 5 |
+> | Section 71S(5) (failure to comply with requirements for recording transactions in transaction report) | On summary conviction: statutory maximum or 12 months On indictment: fine or 1 year |
+> | Section 71T(5) (making a false declaration about transaction report) | On summary conviction: statutory maximum or 12 months On indictment: fine or 1 year. |
+
+(7) Part 6 of Schedule 1 amends the 2000 Act for the purpose of controlling loans and certain other transactions involving individuals and members associations.
+
+#### 62 Regulation of loans: power to make provision for candidates, third parties [[^F10], referendums and recall petitions]
+
+(1) The Secretary of State may by order make in relation to a relevant matter such provision as he thinks appropriate which corresponds to or is similar to any provision of Part 4A of or Schedule 7A to the 2000 Act (the relevant transaction provisions).
+
+(2) A relevant matter is a loan, credit facility or any form of security (whether real or personal) which benefits—
+
+(a) a candidate at [[^F11]a relevant election];
+
+(b) a recognised third party;
+
+(c) a permitted participant in a referendum.
+
+[[^F12](d) an accredited campaigner in relation to a recall petition.]
+
+(3) An order under this section may—
+
+(a) amend or repeal any enactment (whenever passed);
+
+(b) create an offence corresponding or similar to any offence created by the relevant transaction provisions;
+
+(c) confer power on the Secretary of State to make provision by order corresponding to any such power in the relevant transaction provisions;
+
+(d) make different provision for different purposes;
+
+(e) make such supplemental, incidental, consequential, transitional or savings provision as the Secretary of State thinks necessary or expedient in connection with the order.
+
+[[^F13](3A) The provision that may be made by virtue of subsection (3)(e) includes, in particular, provision amending paragraph 1 of Schedule 19A to the 2000 Act (requirement for unincorporated associations to notify Commission of political contributions over £25,000) so that, in the case of a [[^F14]relevant person], a “ political contribution ” includes a relevant matter. ]
+
+[[^F15](3B) In subsection (3A) “ a relevant person ” means—
+
+(a) a recognised third party,
+
+(b) a permitted participant in a referendum, or
+
+(c) an accredited campaigner in relation to a recall petition.]
+
+(4) An order under this section which confers power to make an order by virtue of subsection (3)(c) must require the order—
+
+(a) to be made by statutory instrument;
+
+(b) not to be made unless a draft of the instrument containing the order has been laid before and approved by resolution of each House of Parliament.
+
+(5) Subsection (4) does not apply to any power to make provision determining a rate of interest.
+
+(6) The power to make an order under this section is exercisable by statutory instrument.
+
+(7) No such order may be made unless a draft of the instrument containing the order has been laid before and approved by resolution of each House of Parliament.
+
+(8) In this section—
+
+- [[^F16] “ accredited campaigner ” has the same meaning as in Schedule 3 to the Recall of MPs Act 2015 (see Part 5 of that Schedule); ]
+
+  [[^F17]“candidate”—
+
+  - in relation to a police and crime commissioner election, is to be construed in accordance with subsection (8A), and
+  - in relation to any other relevant election, has the same meaning as in Part 2 of the 1983 Act ; ]
+
+- “credit facility” must be construed in accordance with section 71F(11) of the 2000 Act;
+
+- [^F18]...
+
+- “permitted participant” has the same meaning as in Part 7 of the 2000 Act;
+
+- [[^F19]“police and crime commissioner election” means an election of a police and crime commissioner in accordance with Chapter 6 of Part 1 of the Police Reform and Social Responsibility Act 2011;
+
+- [[^F16] “ recall petition ” has the same meaning as in the Recall of MPs Act 2015 (see section 1(2) of that Act); ]
+
+- “ recognised third party ” has the same meaning as in Part 6 of that Act.
+
+- “relevant election” means—
+
+  - an election within the meaning of the 1983 Act , or
+  - a police and crime commissioner election.]
+
+[[^F20](8A) For the purposes of this section, a person becomes a candidate at a police and crime commissioner election—
+
+(a) on the last day for publication of notice of the election if on or before that day the person is declared by himself or herself or by others to be a candidate at the election, and
+
+(b) otherwise, on the day on which the person is so declared by himself or herself or by others or on which the person is nominated as a candidate at the election (whichever is the earlier).]
+
+(9) An order under this section must not make provision which is within the legislative competence of the Scottish Parliament.
+
+(10) Subsection (9) does not apply to provision made by virtue of subsection (3)(e).
+
+#### 63 Regulation of loans etc: Northern Ireland
+
+(1) The Secretary of State may, after consulting the Electoral Commission, by order make provision relating to regulated transactions, controlled transactions or relevant matters which corresponds to or is similar to any provision (“relevant provision”) relating to donations for political purposes which is made by, or which may be made under, the Northern Ireland (Miscellaneous Provisions) Act 2006 (“the 2006 Act”).
+
+(2) But if a relevant provision has effect, or would have effect, subject to a temporal limitation, a provision of an order under this section which corresponds to or is similar to the relevant provision must be subject to the same temporal limitation.
+
+(3) An order under this section may in particular—
+
+(a) amend, repeal or revoke any provision made by or under an Act of Parliament or Northern Ireland legislation (whenever passed or made);
+
+(b) create an offence corresponding or similar to any offence relating to donations for political purposes created by the 2006 Act;
+
+(c) confer power on the Secretary of State to make provision by order corresponding or similar to any such power relating to donations for political purposes conferred by the 2006 Act;
+
+(d) make different provision for different purposes;
+
+(e) make such supplemental, incidental, consequential, transitional or savings provision as the Secretary of State thinks necessary or expedient in connection with the order.
+
+(4) An order under this section which confers power to make an order by virtue of subsection (3)(c) must require the order—
+
+(a) to be made only after consulting the Electoral Commission;
+
+(b) to be made by statutory instrument; and
+
+(c) not to be made unless a draft of the instrument containing the order has been laid before and approved by a resolution of each House of Parliament.
+
+(5) The power to make an order under this section is exercisable by statutory instrument.
+
+(6) No such order may be made unless a draft of the instrument containing the order has been laid before and approved by a resolution of each House of Parliament.
+
+(7) In this section—
+
+- “regulated transaction” has the same meaning as in Part 4A of the 2000 Act (see section 71F of that Act);
+- “controlled transaction” has the same meaning as in Schedule 7A to that Act (see paragraphs 1 and 2 of that Schedule);
+- “relevant matter” has the same meaning as in section 62 of this Act (see subsection (2) of that section).
+
+[[^F21](8) For the purposes of this section, section 1(3) of the Northern Ireland (Miscellaneous Provisions) Act 2014 (which amends section 71E of the 2000 Act) is treated as provision made by the 2006 Act.]
+
+### Campaign expenditure
+
+#### 64 Campaign expenditure: standing for more than one party
+
+(1) Schedule 9 to the 2000 Act (limits on campaign expenditure) is amended as follows.
+
+(2) In paragraph 5 (general elections to Scottish Parliament) after sub-paragraph (2) insert—
+
+> (2A) Sub-paragraph (2B) applies to a registered party in a case where at the election a candidate stands for election in any constituency in the name of that party and one or more other registered parties.
+>
+> (2B) In such a case, the amount applying to the party in respect of the constituency under sub-paragraph (2)(a) shall, instead of being the amount specified in that sub-paragraph, be that amount divided by the number of registered parties in whose name the candidate stands for election as mentioned in sub-paragraph (2A).
+
+[^F22]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) In paragraph 7 (general elections to Northern Ireland Assembly) after sub-paragraph (2) insert—
+
+> (2A) Sub-paragraph (2B) applies to a registered party in a case where at the election a candidate stands for election in any constituency in the name of that party and one or more other registered parties.
+>
+> (2B) In such a case, the amount applying to the party in respect of the constituency under sub-paragraph (2) shall, instead of being the amount specified in that sub-paragraph, be that amount divided by the number of registered parties in whose name the candidate stands for election as mentioned in sub-paragraph (2A).
+
+#### 65 Time limit for claims in respect of campaign expenditure
+
+(1) In section 77 of the 2000 Act (restriction on making claims in respect of campaign expenditure)—
+
+(a) in subsection (1), for “21 days” substitute “ 30 days ”;
+
+(b) in subsection (2), for “42 days” substitute “ 60 days ”.
+
+(2) In section 92 of that Act (restriction on making claims in respect of certain expenditure by third parties)—
+
+(a) in subsection (1), for “21 days” substitute “ 30 days ”;
+
+(b) in subsection (2), for “42 days” substitute “ 60 days ”.
+
+(3) In section 115 of that Act (restriction on making claims in respect of referendum expenditure)—
+
+(a) in subsection (1), for “21 days” substitute “ 30 days ”;
+
+(b) in subsection (2), for “42 days” substitute “ 60 days ”.
+
+### Referendum and election material
+
+#### 66 Details to appear on referendum and election material
+
+(1) In section 126 of the 2000 Act (details to appear on referendum material), after subsection (10) insert—
+
+> (10A) Subsection (1) does not apply to any material published for the purposes of a referendum if the publication is required under or by virtue of any enactment.
+
+(2) In section 143 of the 2000 Act (details to appear on election material), after subsection (2) insert—
+
+> (2A) For the purposes of subsection (2)(c), election material to which subsection (2B) applies—
+>
+> (a) is not to be regarded as being published on behalf of a candidate merely because it can be regarded as promoting, procuring or enhancing his electoral success or standing, but
+>
+> (b) may be regarded as being published on behalf of the party mentioned in subsection (2B).
+>
+> (2B) This subsection applies to election material which can be reasonably regarded as promoting, procuring or enhancing the electoral success or standing of two or more candidates standing in the name of a party or included in a list of candidates submitted by the party in connection with the election.
+
+## Part 8 — Miscellaneous
+
+### Election services
+
+#### 67 Performance of local authorities in relation to elections etc.
+
+After section 9 of the 2000 Act insert—
+
+> **9A Setting of performance standards**
+>
+> (1) The Commission may from time to time—
+>
+> (a) determine standards of performance for relevant officers, and
+>
+> (b) publish, in such form and in such manner as they consider appropriate, the standards so determined.
+>
+> (2) The standards of performance are such standards as the Commission think ought to be achieved by—
+>
+> (a) electoral registration officers in the performance of their functions;
+>
+> (b) returning officers in the administration of the elections specified in subsection (6);
+>
+> (c) counting officers in the administration of the referendums specified in subsection (7).
+>
+> (3) Before determining standards under subsection (1), the Commission must consult—
+>
+> (a) the Secretary of State, and
+>
+> (b) any other person they think appropriate.
+>
+> (4) The Commission may determine different standards for different descriptions of relevant officers.
+>
+> (5) When the Commission publish standards under subsection (1) they must send a copy of the published standards to the Secretary of State who must lay a copy of the published standards before each House of Parliament.
+>
+> (6) The elections specified in this subsection are—
+>
+> (a) an election mentioned in section 5(2);
+>
+> (b) a parliamentary by-election;
+>
+> (c) an election under section 9 of the Scotland Act 1998 (constituency vacancies);
+>
+> (d) an election under section 8 of the Government of Wales Act 1998 (vacancies in constituency seats);
+>
+> (e) a local government election in England or Wales.
+>
+> (7) The referendums specified in this subsection are—
+>
+> (a) a referendum to which Part 7 applies;
+>
+> (b) a referendum under Part 2 of the Local Government Act 2000.
+>
+> (8) For the purposes of this section and sections 9B and 9C, the relevant officers are—
+>
+> (a) electoral registration officers;
+>
+> (b) in relation to elections within subsection (6), returning officers;
+>
+> (c) in relation to referendums within subsection (7), counting officers.
+>
+> **9B Returns and reports on performance standards**
+>
+> (1) The Commission may from time to time issue directions to relevant officers to provide the Commission with such reports regarding their level of performance against the standards determined under section 9A(1) as may be specified in the direction.
+>
+> (2) A direction under subsection (1)—
+>
+> (a) must specify the relevant officer or officers to whom it is issued (and may specify a description or descriptions of relevant officers),
+>
+> (b) may require the report or reports to relate to such elections or referendums (or both) as may be specified in the direction, and
+>
+> (c) may require the report or reports to be provided in a form specified in the direction.
+>
+> (3) A report provided to the Commission in pursuance of subsection (1) may be published by the relevant officer to whom it relates.
+>
+> (4) The Commission shall from time to time prepare and publish (in such manner as the Commission may determine) assessments of the level of performance by relevant officers against the standards determined under section 9A(1).
+>
+> (5) An assessment under subsection (4)—
+>
+> (a) must specify the relevant officer or officers to whom it relates;
+>
+> (b) must specify the period to which it relates;
+>
+> (c) may specify the elections or referendums (or both) to which it relates.
+>
+> (6) The Commission must not prepare an assessment under subsection (4) unless they have received reports in pursuance of subsection (1) from the relevant officer or officers for the matters to which the assessment relates.
+>
+> (7) Before publishing an assessment under subsection (4), the Commission shall—
+>
+> (a) provide to each relevant officer a copy of those parts of the assessment which relate to him;
+>
+> (b) have regard to any comments made by him regarding the factual accuracy of the assessment.
+>
+> **9C Provision of information about expenditure on elections etc.**
+>
+> (1) The Commission may by notice in writing direct a relevant officer to provide the Commission with such expenditure information as may be specified in the direction.
+>
+> (2) Expenditure information is information relating to—
+>
+> (a) in the case of an electoral registration officer, expenditure in connection with the performance of his functions;
+>
+> (b) in the case of a returning officer, expenditure in connection with the election or elections specified in section 9A(6) for which he is appointed or otherwise holds office;
+>
+> (c) in the case of a counting officer, expenditure in connection with the referendum or referendums specified in section 9A(7) for which he is appointed.
+>
+> (3) A direction under subsection (1)—
+>
+> (a) may require the information to relate to such elections or (as the case may be) referendums as may be specified in the direction;
+>
+> (b) may require the information to be provided in a form specified in the direction;
+>
+> (c) may specify the time within which the information must be provided.
+>
+> (4) This section does not affect any other power of the Commission to request information.
+
+#### 68 Funding of services and expenses of returning officers
+
+(1) Section 29 of the 1983 Act (payments by and to returning officer) is amended as follows.
+
+(2) For subsections (3) to (4B) substitute—
+
+> (3) A returning officer shall be entitled to recover his charges in respect of services rendered, or expenses incurred, for or in connection with a parliamentary election if—
+>
+> (a) the services were necessarily rendered, or the expenses were necessarily incurred, for the efficient and effective conduct of the election; and
+>
+> (b) the total of his charges does not exceed the amount (“the overall maximum recoverable amount”) specified in, or determined in accordance with, an order made by the Secretary of State for the purposes of this subsection.
+>
+> (3A) An order under subsection (3) may specify, or make provision for determining in accordance with the order, a maximum recoverable amount for services or expenses of any specified description and, subject to subsection (3B) below, the returning officer may not recover more than that amount in respect of any such services or expenses.
+>
+> (3B) The Secretary of State may, in a particular case, authorise the payment of—
+>
+> (a) more than the overall maximum recoverable amount, or
+>
+> (b) more than the specified maximum recoverable amount for any specified services or expenses,
+>
+> if he is satisfied that the conditions in subsection (3C) are met.
+>
+> (3C) The conditions referred to in subsection (3B) are—
+>
+> (a) that it was reasonable for the returning officer concerned to render the services or incur the expenses, and
+>
+> (b) that the charges in question are reasonable.
+
+(3) In subsection (9), for “subsections (3) and (4)” substitute “ subsection (3) ”.
+
+(4) This section ceases to have effect if, before it is brought into force, paragraph 6(3) of Schedule 21 to the 2000 Act is brought into force.
+
+### Encouraging electoral participation
+
+#### 69 Encouraging electoral participation
+
+(1) A local electoral officer must take such steps as he thinks appropriate to encourage the participation by electors in the electoral process in the area for which he acts.
+
+(2) A local electoral officer must have regard to any guidance issued by the Electoral Commission for the purposes of this section.
+
+(3) This section does not permit an electoral registration officer to undertake any activity in relation to a local government election in Scotland unless the activity relates to a matter falling within Section B3 (elections) of Schedule 5 to the Scotland Act 1998 (c. 46) (reserved matters).
+
+(4) The Secretary of State may reimburse a local electoral officer in respect of any expenditure incurred by the officer for the purposes of this section.
+
+(5) The amount paid under subsection (4) must not in any year exceed such amount as is determined in accordance with regulations made by the Secretary of State.
+
+(6) The power to make regulations under subsection (5) is exercisable by statutory instrument subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(7) The regulations may make different provision for different purposes.
+
+(8) A local electoral officer is—
+
+(a) an electoral registration officer;
+
+(b) a returning officer for an election mentioned in subsection (9).
+
+(9) These are the elections—
+
+(a) parliamentary elections;
+
+(b) local government elections in England and Wales and Northern Ireland;
+
+[^F23]c . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(d) elections to the Scottish Parliament;
+
+(e) elections to the Northern Ireland Assembly;
+
+(f) elections to the National Assembly for Wales.
+
+(10) References to a local government election must be construed in accordance with the 1983 Act.
+
+### Criminal proceedings
+
+#### 70 Time limit for prosecutions
+
+(1) In section 176 of the 1983 Act (time limit for prosecution of offences) after subsection (2) insert—
+
+> (2A) A magistrates' court in England and Wales may act under subsection (2B) if it is satisfied on an application by a constable or Crown Prosecutor—
+>
+> (a) that there are exceptional circumstances which justify the granting of the application, and
+>
+> (b) that there has been no undue delay in the investigation of the offence to which the application relates.
+>
+> (2B) The magistrates' court may extend the time within which proceedings must be commenced in pursuance of subsection (1) above to not more than 24 months after the offence was committed.
+>
+> (2C) If the magistrates' court acts under subsection (2B), it may also make an order under subsection (2D) if it is satisfied, on an application by a constable or Crown Prosecutor, that documents retained by the relevant registration officer in pursuance of rule 57 of the parliamentary elections rules may provide evidence relating to the offence.
+>
+> (2D) An order under this subsection is an order—
+>
+> (a) directing the relevant registration officer not to cause the documents to be destroyed at the expiry of the period of one year mentioned in rule 57, and
+>
+> (b) extending the period for which he is required to retain them under that rule by such further period not exceeding 12 months as is specified in the order.
+>
+> (2E) The making of an order under subsection (2D) does not affect any other power to require the retention of the documents.
+>
+> (2F) An application under this section must be made not more than one year after the offence was committed.
+>
+> (2G) Any party to—
+>
+> (a) an application under subsection (2A), or
+>
+> (b) an application under subsection (2C),
+>
+> who is aggrieved by the refusal of the magistrates' court to act under subsection (2B) or to make an order under subsection (2D) (as the case may be) may appeal to the Crown Court.
+
+(2) In Schedule 1 to that Act, in rule 57(1) (retention and public inspection of documents) for “or the High Court” substitute “ , the High Court, the Crown Court or a magistrates' court ”.
+
+#### 71 Restriction on powers of arrest by persons other than constables
+
+Section 24A of the Police and Criminal Evidence Act 1984 (c. 60) (arrest without warrant: other persons) does not permit a person other than a constable to arrest inside a polling station a person who commits or is suspected of committing an offence under section 60 of the 1983 Act (personation).
+
+### Pre-consolidation amendments
+
+#### 72 Pre-consolidation amendments
+
+(1) The Secretary of State may by order make such amendments of the enactments relating to the representation of the people as in his opinion facilitate or are otherwise desirable in connection with the consolidation of some or all of those enactments.
+
+(2) The enactments relating to the representation of the people are—
+
+(a) the Representation of the People Act 1983 (c. 2);
+
+(b) the Representation of the People Act 1985 (c. 50);
+
+(c) the Representation of the People Act 1989 (c. 28);
+
+(d) the Representation of the People Act 1993 (c. 29);
+
+(e) the Representation of the People Act 2000 (c. 2);
+
+(f) the Electoral Administration Act 2006;
+
+(g) the Elections (Northern Ireland) Act 1985 (c. 2);
+
+(h) the Electoral Fraud (Northern Ireland) Act 2002 (c. 13);
+
+(i) the Northern Ireland (Miscellaneous Provisions) Act 2006;
+
+(j) an enactment referring to any enactment falling within paragraphs (a) to (i).
+
+(3) An order under this section must not come into force unless an Act consolidating the enactments amended by the order (with or without other enactments relating to the representation of the people) has been passed.
+
+(4) An order under this section must not come into force until immediately before that Act comes into force.
+
+(5) Subsection (6) applies if the provisions of that Act come into force at different times.
+
+(6) So much of an order under this section as amends an enactment repealed and re-enacted by a provision of that Act comes into force immediately before that provision.
+
+(7) An order under this section must not be made unless the Secretary of State first consults the Electoral Commission.
+
+(8) An order under this section must be made by statutory instrument, but no such order may be made unless a draft of the statutory instrument containing the order has been laid before, and approved by a resolution of, each House of Parliament.
+
+(9) An order under this section must not make any provision which would, if it were included in an Act of the Scottish Parliament, be within the legislative competence of that Parliament.
+
+### Legal incapacity to vote
+
+#### 73 Abolition of common law incapacity: mental state
+
+(1) Any rule of the common law which provides that a person is subject to a legal incapacity to vote by reason of his mental state is abolished.
+
+(2) Accordingly, in section 202(1) of the 1983 Act (general provisions as to interpretation), in the definition of “legal incapacity” after “addition” insert “ , where applicable, ”.
+
+(3) And in section 10(1) of the Elected Authorities (Northern Ireland) Act 1989 (c. 3) (interpretation), in the definition of “legal incapacity” omit the words “or of any subsisting provision of the common law”.
+
+## Part 9 — General
+
+### 74 Miscellaneous amendments and repeals
+
+(1) Part 7 of Schedule 1 contains miscellaneous amendments.
+
+(2) Schedule 2 contains repeals.
+
+### [^F24]74A Functions of the Minister for the Cabinet Office
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 75 Financial provision
+
+(1) There shall be paid out of money provided by Parliament—
+
+(a) any expenses incurred by the Secretary of State in consequence of this Act, and
+
+(b) any increase attributable to this Act in the sums which under any other Act are payable out of money so provided.
+
+(2) There shall be paid out of the Consolidated Fund any increase attributable to this Act in the sums which under any other Act are payable out of that Fund.
+
+### 76 Interpretation
+
+(1) “The 1983 Act” means the Representation of the People Act 1983 (c. 2).
+
+(2) “The 2000 Act” means the Political Parties, Elections and Referendums Act 2000 (c. 41).
+
+### 77 Commencement
+
+(1) The following provisions come into force on the day on which this Act is passed—
+
+[^F25]a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F25]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F25]c . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F25]d . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F25]e . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F25]f . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F25]g . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(h) section 75;
+
+(i) section 76;
+
+(j) this section;
+
+(k) section 78;
+
+(l) section 79.
+
+(2) Otherwise, this Act comes into force on such day as the Secretary of State may by order made by statutory instrument appoint.
+
+(3) Different days may be appointed for different purposes.
+
+(4) An order under subsection (2) may make—
+
+(a) any supplementary, incidental or consequential provision, and
+
+(b) any transitory, transitional or saving provision,
+
+as the Secretary of State considers necessary or expedient in connection with the order.
+
+### 78 Extent
+
+(1) Subject to subsections (2) to (5), the extent of any amendment or repeal made by this Act is the same as that of the enactment amended or repealed.
+
+(2) The following provisions do not extend to Northern Ireland—
+
+(a) sections [[^F26]9(2)][^F27]... and 11;
+
+(b) section 67;
+
+(c) section 70;
+
+(d) [[^F28]Part] 2 of Schedule 1.
+
+(3) Section 70 does not extend to Scotland.
+
+(4) A repeal of an enactment by Schedule 2 which corresponds to a repeal of that enactment by any other provision of this Act has the same extent as that other provision.
+
+(5) The repeal in Schedule 2 relating to paragraph 86 of Schedule 4 to the Representation of the People Act 1985 (c. 50) does not extend to Northern Ireland.
+
+### 79 Short title
+
+This Act may be cited as the Electoral Administration Act 2006.
+
+## SCHEDULE 1 — Amendments
+
+*Sections 10, 11, 18, 20, 47, 61, 74*
+
+### Part 1 — Anonymous registration
+
+#### The Juries Act 1974 (c. 23)
+
+**1** In section 3 of the Juries Act 1974 (electoral register as basis of jury selection), after subsection (1) insert—
+
+> (1A) If a register to be delivered under subsection (1) above includes any anonymous entries (within the meaning of that Act of 1983) the registration officer must, at the same time as he delivers the register, also deliver to the designated officer any record prepared in pursuance of provision made as mentioned in paragraph 8A of Schedule 2 to that Act which relates to such anonymous entries.
+
+#### The 1983 Act
+
+**2** The 1983 Act is amended in accordance with paragraphs 3 to 16.
+
+**3** In section 4 (entitlement to be registered as parliamentary or local government elector), after subsection (5) insert—
+
+> (5A) If a person entitled to be registered by virtue of subsection (5) above has an anonymous entry in the register, the references in paragraphs (a) and (b) of that subsection to his entry in the register are to be read as references to his entry in the record of anonymous entries prepared in pursuance of paragraph 8A of Schedule 2 below.
+
+**4** (1) Section 9 (registers of electors) is amended as follows.
+
+[^F29]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) In subsection (5), for “names” substitute “ entries ”.
+
+**[^F30]5** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**6** (1) Section 10A (maintenance of the registers: registration of electors) is amended as follows.
+
+[^F31]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) In subsection (5) the words “the name of” are omitted.
+
+**7** In section 49 (effect of registers), after subsection (4) insert—
+
+> (4A) Subsection (4) applies to an entry in the record of anonymous entries as it applies to an entry in the register of parliamentary or local government electors.
+
+**8** In section 56 (registration appeals), in subsection (1) after paragraph (aa) (inserted by section 12(8) of this Act) insert—
+
+> (ab) from a determination of the registration officer under section 9B(2) above,
+
+.
+
+**9** (1) Section 62 (offences as to declarations) is amended as follows.
+
+(2) After subsection (1) insert—
+
+> (1A) A person who makes a declaration under section 9B(1)(b) above—
+>
+> (a) except as permitted by this Act, when he knows that he is subject to a legal incapacity to vote, or
+>
+> (b) when he knows that it contains a statement which is false,
+>
+> shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+(3) In subsection (2) for “the reference in subsection (1) above to a legal incapacity to vote refers” substitute “ the references in subsections (1) and (1A) above to a legal incapacity to vote refer ”.
+
+**10** (1) Section 91 (candidate's right to send election address post free) is amended as follows.
+
+(2) After subsection (2) insert—
+
+> (2A) The candidate may require the returning officer to make arrangements with the universal service provider for communications under subsection (1)(b) to be sent to persons who have anonymous entries in the register.
+>
+> (2B) Arrangements under subsection (2A) shall be such as to ensure that it is not disclosed to any other person that the addressee of such a communication has an anonymous entry.
+
+(3) In subsection (4)(b)—
+
+(a) after “in that register” insert “ (or, in the case of a person who has an anonymous entry in the register, in the record of anonymous entries) ”, and
+
+(b) after “from the register” insert “ (or from the record) ”.
+
+**11** In section 121 (presentation and service of parliamentary election petition), after subsection (1) insert—
+
+> (1A) The reference in subsection (1)(a) to a person who voted as an elector at an election or who had the right so to vote does not include a person who had an anonymous entry in the register of electors.
+
+**12** In section 128 (presentation of petition questioning local election), after subsection (1) insert—
+
+> (1A) The reference in subsection (1) to a person who voted as an elector at an election or who had the right so to vote does not include a person who had an anonymous entry in the register of electors.
+>
+> (1B) Subsection (1A) does not apply to a local government election in Scotland.
+
+**13** (1) Section 202(1) (general provisions as to interpretation) is amended as follows.
+
+(2) Before the definition of “citizen of the Union” insert—
+
+> “anonymous entry”, in relation to a register of electors, shall be construed in accordance with section 9B above and “the record of anonymous entries”, means the record prepared in pursuance of regulations made by virtue of paragraph 8A of Schedule 2 to this Act;
+
+.
+
+(3) In the definition of “elector”—
+
+(a) for “whose name is for the time being” substitute “ who has for the time being an entry ”, and
+
+(b) after “shown in the register” insert “ (or, in the case of a person who has an anonymous entry in the register, in the record of anonymous entries) ”.
+
+**14** (1) Schedule 1 (parliamentary elections rules) is amended as follows.
+
+(2) In rule 7 (subscription of nomination paper), after paragraph (6) insert—
+
+> (7) But, in this rule, “elector” does not include a person who has an anonymous entry in the register.
+
+(3) In rule 28 (issue of official poll cards) after paragraph (3) insert—
+
+> (3A) In the case of an elector with an anonymous entry, instead of containing the matter mentioned in paragraph (3)(b) above the polling card shall contain such matter as is prescribed.
+
+(4) In rule 29 (equipment of polling stations), in paragraph (3)(c) for “names of” substitute “ entries relating to ”.
+
+(5) In rule 40 (tendered ballot papers) after paragraph (4) insert—
+
+> (4A) This rule applies to an elector who has an anonymous entry subject to the following modifications—
+>
+> (a) in paragraphs (2)(b) and (3) the references to the name of the voter must be ignored;
+>
+> (b) otherwise, a reference to a person named on a register or list must be construed as a reference to a person whose number appears on the register or list (as the case may be).
+
+**15** (1) Schedule 2 (provisions which may be contained in regulations as to registration etc.) is amended as follows.
+
+(2) In paragraph 1(3), for “name” substitute “ entry ”.
+
+(3) After paragraph 2A insert—
+
+> **2B** Provisions requiring registration officers to remind persons with anonymous entries in registers of the need to make a fresh application and declaration in order for them to remain so registered.
+
+(4) After paragraph 3A insert—
+
+> **3B** Provisions as to the form and content of applications for an anonymous entry and declarations to be made in connection with such applications.
+
+(5) In paragraph 5, after sub-paragraph (1A) insert—
+
+> (1B) Provisions as to the evidence which shall or may be deemed sufficient or conclusive evidence that a person's safety would be at risk as mentioned in section 9B(10) of this Act.
+
+(6) After paragraph 8 insert—
+
+> **8A** Provisions requiring the registration officer to prepare a record of those persons with anonymous entries in the register showing, in relation to each such person, such information as is prescribed.
+
+(7) In paragraph 10, after sub-paragraph (1) insert—
+
+> (1A) The edited version shall also omit anonymous entries.
+
+**16** In Schedule 2A (control of donations to candidates), the existing text of paragraph 10 becomes sub-paragraph (1) of the paragraph and after sub-paragraph (1) insert—
+
+> (2) If the statement states that the candidate's election agent has seen evidence of such description as is prescribed by the Secretary of State in regulations that an individual donor has an anonymous entry in an electoral register, the statement must be accompanied by a copy of the evidence.
+>
+> (3) Sub-paragraph (2) does not apply to local government elections in Scotland.
+
+#### The Representation of the People Act 1985 (c. 50)
+
+**[^F32]17** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### The Greater London Authority Act 1999 (c. 29)
+
+**18** (1) Section 17A of the Greater London Authority Act 1999 (free delivery of election addresses) is amended as follows.
+
+(2) In subsection (2)(b)—
+
+(a) after “in any such register” insert “ (or, in the case of a person who has an anonymous entry in any such register, in the record of anonymous entries for that electoral area) ”, and
+
+(b) after “from the register” insert “ (or from the record) ”.
+
+(3) After subsection (2) insert—
+
+> (2A) In subsection (2)(b), “anonymous entry” and “record of anonymous entries” have the meaning given in section 202(1) of the Representation of the People Act 1983.
+
+#### The Representation of the People Act 2000 (c. 2)
+
+**19** Schedule 4 to the Representation of the People Act 2000 (absent voting) is amended in accordance with paragraphs 20 to 23.
+
+**20** (1) Paragraph 3 is amended as follows.
+
+(2) In sub-paragraph (3), after paragraph (a) insert—
+
+> (aa) if he has an anonymous entry in the register of electors for the election,
+
+.
+
+(3) After sub-paragraph (3) insert—
+
+> (3A) Sub-paragraph (3)(aa) does not apply to an application to vote by proxy at a local government election in Scotland.
+
+(4) In sub-paragraph (5), after paragraph (a) insert—
+
+> (aa) in the case of a person who is eligible to vote by proxy by virtue of having an anonymous entry, if he ceases to have an anonymous entry,
+
+.
+
+**21** In paragraph 4, after sub-paragraph (2) insert—
+
+> (2A) Where a person who has an anonymous entry in the register of electors for a parliamentary or local government election applies to the registration officer to vote by proxy at a particular such election the registration officer shall grant the application if it meets the prescribed requirements.
+>
+> (2B) Sub-paragraph (2A) does not apply to an application to vote by proxy at a local government election in Scotland.
+
+**22** In paragraph 5, after sub-paragraph (3) insert—
+
+> (4) In the case of a person who has an anonymous entry in a register the postal voters list or list of proxies (as the case may be) must show in relation to the person only—
+>
+> (a) his electoral number, and
+>
+> (b) the period for which the anonymous entry has effect.
+>
+> (5) Sub-paragraph (4) does not apply to any list kept in respect of a local government election in Scotland.
+
+**23** In paragraph 7, after sub-paragraph (8) insert—
+
+> (8A) In the case of a person who has an anonymous entry in a register the special list mentioned in sub-paragraph (8) must contain only—
+>
+> (a) the person's electoral number, and
+>
+> (b) the period for which the anonymous entry has effect.
+>
+> (8B) Sub-paragraph (8A) does not apply to a special list kept in respect of a local government election in Scotland.
+
+#### The 2000 Act
+
+**24** The 2000 Act is amended as follows.
+
+**25** In section 65 (submission of donation reports to Commission), after subsection (2) insert—
+
+> (2A) If a donation report under section 62 or 63 states that the registered party has seen evidence of such description as is prescribed by the Secretary of State in regulations that an individual donor has an anonymous entry in an electoral register (within the meaning of the Representation of the People Act 1983), the report must be accompanied by a copy of the evidence.
+
+**26** In paragraph 2 of Schedule 6 (details to be given in donation reports) after sub-paragraph (3A) insert—
+
+> (3B) Sub-paragraph (2) applies in the case of a donation by a person who has an anonymous entry in an electoral register (within the meaning of the Representation of the People Act 1983), as if for paragraphs (a) and (b) there were substituted “ state that the registered party has seen evidence of such description as is prescribed by the Secretary of State in regulations that the individual has an anonymous entry in an electoral register (within the meaning of the Representation of the People Act 1983) ”.
+>
+> (3C) Sub-paragraph (3) applies in the case of a donation in the form of a bequest by a person who either—
+>
+> (a) at the time of his death, or
+>
+> (b) at any time in the period of five years ending with the date of his death,
+>
+> had an anonymous entry in an electoral register (within the meaning of the Representation of the People Act 1983), as if for paragraph (b) there were substituted—
+>
+> > (b) a statement that the registered party has seen evidence of such description as is prescribed by the Secretary of State in regulations that the individual had—
+> >
+> > (i) at the time of his death, or
+> >
+> > (ii) at any time in the period of five years ending with the date of his death,
+> >
+> > an anonymous entry in an electoral register (within the meaning of the Representation of the People Act 1983).
+
+**27** The existing text of paragraph 3 of that Schedule becomes sub-paragraph (1) and after sub-paragraph (1) insert—
+
+> (2) In the case of a donation by a person who has an anonymous entry in an electoral register (within the meaning of the Representation of the People Act 1983), instead of giving details of the address of the donor the party must state that it has seen evidence of such description as is prescribed by the Secretary of State in regulations that the person has such an entry.
+>
+> (3) In the case of a donation in the form of a bequest by a person who either—
+>
+> (a) at the time of his death, or
+>
+> (b) at any time in the period of five years ending at the date of his death,
+>
+> had such an entry, instead of giving details of the address of the donor, the party must state that it has seen evidence of such description as is prescribed by the Secretary of State in regulations that the person had, at that time, such an entry.
+
+**28** In Schedule 7 (control of donations to individuals and members associations), in paragraph 10, after sub-paragraph (4) insert—
+
+> (4A) In the case of a donation made by an individual who has an anonymous entry in an electoral register (within the meaning of the Representation of the People Act 1983), if the report states that the donee has seen evidence of such description as is prescribed by the Secretary of State in regulations that the individual has such an anonymous entry, the report must be accompanied by a copy of the evidence.
+
+**29** In Schedule 11 (control of donations to recognised third parties), in paragraph 10, after sub-paragraph (3) insert—
+
+> (4) In the case of a donation made by an individual who has an anonymous entry in an electoral register (within the meaning of the Representation of the People Act 1983) if the statement states that the recognised third party has seen evidence of such description as is prescribed by the Secretary of State in regulations that the individual has such an anonymous entry, the statement must be accompanied by a copy of the evidence.
+
+**30** In Schedule 15 (control of donations to permitted participants), in paragraph 10, after sub-paragraph (3) insert—
+
+> (4) In the case of a donation made by an individual who has an anonymous entry in an electoral register (within the meaning of the Representation of the People Act 1983) if the statement states that the permitted participant has seen evidence of such description as is prescribed by the Secretary of State in regulations that the individual has such an anonymous entry, the statement must be accompanied by a copy of the evidence.
+
+### Part 2 — Alteration of registers: pending elections
+
+**31** The 1983 Act is amended as follows.
+
+**32** In section 13A(4) (alteration of registers), after “section 13B(3)” insert “ , (3B) or (3D) ”.
+
+**33** Schedule 1 (parliamentary elections rules) is amended as follows.
+
+**34** In rule 29 (equipment of polling stations) after paragraph (5) insert—
+
+> (6) The reference in paragraph (3)(c) to the copies of the registers of electors includes a reference to copies of any notices issued under section 13B(3B) or (3D) of this Act in respect of alterations to the register.
+
+**35** In rule 38 (votes marked by presiding officer), after paragraph (2) insert—
+
+> (3) In the case of a person in respect of whom a notice has been issued under section 13B(3B) or (3D) of this Act, paragraph (2) above applies as if for “on the register of electors of every voter” there were substituted “ relating to every voter in respect of whom a notice has been issued under section 13B(3B) or (3D) ”.
+
+**36** In rule 39 (voting by person with disabilities), after paragraph (4) insert—
+
+> (4A) In the case of a person in respect of whom a notice has been issued under section 13B(3B) or (3D) of this Act, paragraph (4) above applies as if for “in the register of electors of every voter” there were substituted “ relating to every voter in respect of whom a notice has been issued under section 13B(3B) or (3D) ”.
+
+**37** In rule 40 (tendered ballot papers), after paragraph (4A) (inserted by paragraph 14(5) above) insert—
+
+> (4B) This rule applies in the case of a person in respect of whom a notice has been issued under section 13B(3B) or (3D) as if—
+>
+> (a) in paragraphs (1)(a), (1ZA)(a) and (1ZD)(a) for “named on the register” there were substituted “ in respect of whom a notice under section 13B(3B) or (3D) of this Act has been issued ”;
+>
+> (b) in paragraph (2)(b) for “his number in the register of electors” there were substituted “ the number relating to him on a notice issued under section 13B(3B) or (3D) of this Act ”;
+>
+> (c) in paragraph (3) for “his number on the register of electors” there were substituted “ the number relating to him on a notice issued under section 13B(3B) or (3D) of this Act ”.
+
+**38** After rule 41 (spoilt ballot papers) insert—
+
+> **Correction of errors on day of poll**
+>
+> **41A** The presiding officer shall keep a list of persons to whom ballot papers are delivered in consequence of an alteration to the register made by virtue of section 13B(3B) or (3D) of this Act which takes effect on the day of the poll.
+
+**39** In rule 43 (procedure on close of poll)—
+
+(a) in paragraph (1)(d), after “electors” insert “ (including any marked copy notices issued under section 13B(3B) or (3D) of this Act) ”;
+
+(b) in paragraph (1)(f) after “ “unable to read”,” insert “ the list maintained under rule 41A, ”.
+
+**40** In rule 55 (delivery of documents to Clerk of the Crown)—
+
+(a) in paragraph (1)(c) after “and the related statements,” insert “ the lists maintained under rule 41A, ”;
+
+(b) in paragraph (1)(e) after “registers” insert “ (including any marked copy notices issued under section 13B(3B) or (3D) of this Act) ”.
+
+### Part 3 — Standing for election
+
+#### European Parliament
+
+**[^F33]41** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Greater London Authority
+
+**42** (1) Section 20 of the Greater London Authority Act 1999 (c. 29) (qualification to be Mayor or Assembly member) is amended as follows.
+
+(2) In subsection (2)(a) before “Commonwealth” insert “ qualifying ”.
+
+(3) After subsection (7) insert—
+
+> (7A) For the purposes of this section, a person is a qualifying Commonwealth citizen if he is a Commonwealth citizen who either—
+>
+> (a) is not a person who requires leave under the Immigration Act 1971 to enter or remain in the United Kingdom, or
+>
+> (b) is such a person but for the time being has (or is, by virtue of any enactment, to be treated as having) indefinite leave to remain within the meaning of that Act.
+>
+> (7B) But a person is not a qualifying Commonwealth citizen by virtue of subsection (7A)(a) if he does not require leave to enter or remain in the United Kingdom by virtue only of section 8 of the Immigration Act 1971 (exceptions to requirement for leave in special cases).
+
+(4) In subsection (8), in paragraph (a) of the definition of “relevant citizen of the Union” before “Commonwealth” insert “ qualifying ”.
+
+#### Local authorities in England and Wales
+
+**43** (1) Section 79 of the Local Government Act 1972 (c. 70) (qualifications for election and holding office as a member of a local authority) is amended as follows.
+
+(2) In subsection (1) for “British subject” substitute “ qualifying Commonwealth citizen ”.
+
+(3) In subsection (2A) before “Commonwealth” insert “ qualifying ”.
+
+(4) After subsection (2A) insert—
+
+> (2B) For the purposes of this section, a person is a qualifying Commonwealth citizen if he is a Commonwealth citizen who either—
+>
+> (a) is not a person who requires leave under the Immigration Act 1971 to enter or remain in the United Kingdom, or
+>
+> (b) is such a person but for the time being has (or is, by virtue of any enactment, to be treated as having) indefinite leave to remain within the meaning of that Act.
+>
+> (2C) But a person is not a qualifying Commonwealth citizen by virtue of subsection (2B)(a) if he does not require leave to enter or remain in the United Kingdom by virtue only of section 8 of the Immigration Act 1971 (exceptions to requirement for leave in special cases).
+
+#### National Assembly for Wales
+
+**44** In section 13(2) of the Government of Wales Act 1998 (c. 38) (exceptions and relief from disqualification) before “Commonwealth” insert “ certain ”.
+
+#### Scottish Parliament
+
+**45** In section 16(2) of the Scotland Act 1998 (c. 46) (exceptions and relief from disqualification) before “Commonwealth” insert “ certain ”.
+
+#### Local authorities in Scotland
+
+**46** (1) Section 29 of the Local Government (Scotland) Act 1973 (c. 65) (qualifications for nomination, election and holding office as a member of a local authority in Scotland) is amended as follows.
+
+(2) In subsection (1) for “British subject” substitute “ qualifying Commonwealth citizen ”.
+
+(3) In subsection (2) before “Commonwealth” insert “ qualifying ”.
+
+(4) After subsection (2) insert—
+
+> (3) For the purposes of this section, a person is a qualifying Commonwealth citizen if he is a Commonwealth citizen who either—
+>
+> (a) is not a person who requires leave under the Immigration Act 1971 to enter or remain in the United Kingdom, or
+>
+> (b) is such a person but for the time being has (or is, by virtue of any enactment, to be treated as having) indefinite leave to remain within the meaning of that Act.
+>
+> (4) But a person is not a qualifying Commonwealth citizen by virtue of subsection (3)(a) if he does not require leave to enter or remain in the United Kingdom by virtue only of section 8 of the Immigration Act 1971 (exceptions to requirement for leave in special cases).
+
+#### Councillors in Northern Ireland
+
+**47** (1) Section 3 of the Local Government Act (Northern Ireland) 1972 (C.9) (qualifications for nomination, election and holding office as a councillor in Northern Ireland) is amended as follows.
+
+(2) In subsection (1) for “British subject” substitute “ qualifying Commonwealth citizen ”.
+
+(3) In subsection (2) before Commonwealth insert “ qualifying ”.
+
+(4) After subsection (3) insert—
+
+> (4) For the purposes of this section, a person is a qualifying Commonwealth citizen if he is a Commonwealth citizen who either—
+>
+> (a) is not a person who requires leave under the Immigration Act 1971 to enter or remain in the United Kingdom, or
+>
+> (b) is such a person but for the time being has (or is, by virtue of any enactment, to be treated as having) indefinite leave to remain within the meaning of that Act.
+>
+> (5) But a person is not a qualifying Commonwealth citizen by virtue of subsection (4)(a) if he does not require leave to enter or remain in the United Kingdom by virtue only of section 8 of the Immigration Act 1971 (exceptions to requirement for leave in special cases).
+
+### Part 4 — Omission of references to Maundy Thursday
+
+#### The Electoral Law Act (Northern Ireland) 1962 (C. 14)
+
+**48** In Schedule 5 to the Electoral Law Act (Northern Ireland) 1962 (local elections rules), in rule 2 (computation of time) omit the words “Maundy Thursday”.
+
+#### The 1983 Act
+
+**49** The 1983 Act is amended in accordance with paragraphs 50 to 52.
+
+**50** In section 40(1) (timing as to local elections in England and Wales), omit the words “Maundy Thursday,”.
+
+**51** (1) In section 119(2) (computation of time for purposes of Part 2), omit the words “Maundy Thursday,”.
+
+(2) The amendment made by sub-paragraph (1) does not have effect so far as it relates to a local government election in Scotland.
+
+**52** In rule 2(1) of Schedule 1 (computation of time for purposes of parliamentary elections rules), in paragraph (b), omit the words “Maundy Thursday,”.
+
+#### The Representation of the People Act 1985 (c. 50)
+
+**53** In section 19(6) of the Representation of the People Act 1985 (amendments and modifications of the Local Government Act 1972), in paragraph (b) (which modifies the rules about computation of time in section 243(4) of the 1972 Act), omit the words “Maundy Thursday,”.
+
+#### The 2000 Act
+
+**54** In section 77(9) of the 2000 Act (computation of time for purposes of making claims in respect of campaign expenditure), in paragraph (a), omit the words “Maundy Thursday,”.
+
+### Part 5 — Conduct of elections
+
+#### The Electoral Law Act (Northern Ireland) 1962
+
+**55** The Electoral Law Act (Northern Ireland) 1962 (C. 14) is amended in accordance with paragraphs 56 to 68.
+
+#### Attendance at election proceedings
+
+**56** In Schedule 5 (local elections rules), in rule 9 (right to attend nomination)—
+
+(a) in paragraph (1), after paragraph (b) insert
+
+> or
+>
+> (c) a person who is entitled to attend by virtue of section 6A or 6B of the Political Parties, Elections and Referendums Act 2000,
+
+;
+
+(b) after paragraph (3) insert—
+
+> (4) Paragraph (3) does not apply to a person mentioned in paragraph (1)(c).
+
+**57** In rule 29 of that Schedule (admission to polling station) for paragraph (1) substitute—
+
+> (1) The presiding officer shall exclude all persons from the polling station except—
+>
+> (a) voters;
+>
+> (b) persons under the age of 18 who accompany voters to the polling station;
+>
+> (c) the candidates and their election agents;
+>
+> (d) the polling agents appointed to attend at the polling station;
+>
+> (e) the clerks appointed to attend at the polling station;
+>
+> (f) persons who are entitled to attend by virtue of any of sections 6A to 6D of the Political Parties, Elections and Referendums Act 2000;
+>
+> (g) the constables on duty; and
+>
+> (h) the companions of voters with disabilities.
+>
+> (1A) The presiding officer shall regulate the total number of voters and persons under the age of 18 who accompany them to be admitted to the polling station at the same time.
+
+**58** In rule 44 of that Schedule (attendance at counting of votes) in paragraph (1), after sub-paragraph (e) insert—
+
+> (f) a person who is entitled to attend by virtue of any of sections 6A to 6D of the Political Parties, Elections and Referendums Act 2000.
+
+#### Identifying marks and security markings on ballot papers etc.
+
+**59** (1) Rule 16 of that Schedule (ballot papers) is amended as follows.
+
+(2) In paragraph (2)(c) after “number” insert “ and other unique identifying mark ”.
+
+(3) In paragraph (2)(d) after “number” insert “ and other unique identifying mark ”.
+
+**60** (1) Rule 17 of that Schedule (the official mark) is amended as follows.
+
+(2) For paragraph (1) substitute—
+
+> (1) Every ballot paper must contain an appropriate security marking (the official mark).
+
+(3) For paragraph (3) substitute—
+
+> (3) The returning officer may use a different official mark for different purposes at the same election.
+
+**61** (1) The Appendix of forms of that Schedule is amended as follows.
+
+(2) In the Form of Front of Ballot Paper omit “Counterfoil No. The counterfoil is to have a number to correspond with that on the back of the ballot paper”.
+
+(3) In the Directions as to printing the ballot paper omit paragraph 3(e).
+
+(4) In the Declaration of identity Front of form omit “Ballot Paper No....................”.
+
+(5) In the Directions for the guidance of voters in voting—
+
+(a) omit paragraph 1;
+
+(b) in paragraph 6 omit “holding the paper so that the presiding officer can see the official mark on the back of it”.
+
+**62** (1) Paragraph 27 of Schedule 9 (electoral misdemeanours) is amended as follows.
+
+(2) In sub-paragraph (2)(a) after “number” insert “ or other unique identifying mark ”.
+
+(3) In sub-paragraph (3)(c) after “number” insert “ or other unique identifying mark ”.
+
+(4) In sub-paragraph (4)(b) and (c) after “number” insert “ or other unique identifying mark ”.
+
+#### Tendered votes in certain circumstances
+
+**63** (1) In rule 37 of Schedule 5 (tendered ballot papers) after paragraph (1) insert—
+
+> (1A) Paragraph (1C) applies if —
+>
+> (a) a person applies for a ballot paper representing himself to be a particular elector named on the register,
+>
+> (b) he is also named in the absent voters list in pursuance of paragraph 2(4)(a) of Schedule 2 to the Local Elections (Northern Ireland) Order 1985 as a person entitled to vote by post, and
+>
+> (c) he claims that he did not make an application to vote by post at the election.
+>
+> (1B) Paragraph (1C) also applies if—
+>
+> (a) a person applies for a ballot paper representing himself to be a particular person named as a proxy in the list of proxies,
+>
+> (b) he is also named in the absent voters list in pursuance of paragraph 2(4)(b) of Schedule 2 to that Order as a person entitled to vote by post as proxy, and
+>
+> (c) he claims that he did not make an application to vote by post as proxy.
+>
+> (1C) The person shall, on satisfactorily answering the questions permitted by law to be asked at the poll, be entitled, subject to the following provisions of this rule, to mark a ballot paper (in these rules referred to as a “tendered ballot paper”) in the same manner as any other voter.
+
+(2) After paragraph (1C) of that rule (inserted by sub-paragraph (1) above) insert—
+
+> (1D) Paragraph (1E) applies if before the close of the poll but after the last time at which a person may apply for a replacement postal ballot paper, a person represents himself to be—
+>
+> (a) a particular elector named on the register who is also named in the absent voters list in pursuance of paragraph 2(4)(a) of Schedule 2 to that Order as a person entitled to vote by post, or
+>
+> (b) a particular person named as a proxy in the list of proxies and who is also named in the absent voters list in pursuance of paragraph 2(4)(b) of Schedule 2 to that Order as a person entitled to vote by post as proxy,
+>
+> and claims that he has lost or has not received his postal ballot paper.
+>
+> (1E) The person shall, on satisfactorily answering the questions permitted by law to be asked at the poll, be entitled, subject to the following provisions of this rule, to mark a ballot paper (in these rules referred to as a “tendered ballot paper”) in the same manner as any other voter.
+
+**64** In rule 32 of that Schedule (questions to be put to voters) after paragraph (1A) insert—
+
+> (1B) In the case of a person applying as an elector who is named in the absent voters list in pursuance of paragraph 2(4)(a) of Schedule 2 to the Local Elections (Northern Ireland) Order 1985 as a person entitled to vote by post, the presiding officer may put either or both of the following additional questions—
+>
+> (a) “Did you apply to vote by post?”;
+>
+> (b) “Why have you not voted by post?”.
+>
+> (1C) In the case of a person applying as proxy who is named in the absent voters list in pursuance of paragraph 2(4)(b) of Schedule 2 to that Order as a person entitled to vote by post as proxy, the presiding officer may put either or both of the following additional questions—
+>
+> (a) “Did you apply to vote by post as proxy?”;
+>
+> (b) “Why have you not voted by post as proxy?”.
+
+#### Assistance for persons with disabilities
+
+**65** In rule 35 of Schedule 5 (votes marked by presiding officer)—
+
+(a) in paragraph (1)(a) for “physical cause” substitute “ disability ”;
+
+(b) after paragraph (5) insert—
+
+> (6) In this rule and in rule 36, reference to disability, in relation to voting, includes a short term inability to vote.
+
+**66** In rule 36 of that Schedule (voting by persons with disabilities), in paragraph (1)—
+
+(a) in sub-paragraph (a) for “physical incapacity” substitute “ disability ”;
+
+(b) for “other incapacity” substitute “ other disability ”.
+
+**67** In rule 41 of that Schedule (procedure on close of poll), in paragraph (1)(f) for “ “physical incapacity”” substitute “ “disability” ”.
+
+**68** In the Appendix of Forms in that Schedule, in Note number 2 to the Form of declaration to be made by the companion of a voter with disabilities for “incapacity” substitute “ disability ”.
+
+#### The 1983 Act
+
+**69** The 1983 Act is amended in accordance with paragraphs 70 to 96.
+
+#### Official poll cards
+
+**70** (1) Rule 28 of Schedule 1 (issue of official poll cards) is amended as follows.
+
+(2) For paragraph (1) substitute—
+
+> (1) The returning officer shall as soon as practicable after the publication of notice of the election send to electors and their proxies an official poll card.
+>
+> (1A) An official poll card shall not be sent to a person registered, or to be registered, in pursuance of an overseas elector's declaration.
+
+(3) In paragraph (3) after sub-paragraph (c) insert—
+
+> (d) such other information as is prescribed;
+>
+> (e) such other information as the returning officer thinks appropriate,
+>
+> and different information may be provided in pursuance of sub-paragraph (d) and (e) to different electors or descriptions of elector.
+
+#### Election expenses
+
+**71** In section 76(1B) (limitation of election expenses) for “above” (in both places) substitute “ below ”.
+
+#### Postal voting statement
+
+**72** In section 65 (tampering with nomination papers, ballot papers etc.) in subsection (1)(b) after “or any” insert “ postal voting statement or ”.
+
+**73** (1) Rule 45 of Schedule 1 (the count at parliamentary elections) is amended as follows.
+
+(2) In paragraph (1B)(b)—
+
+(a) for “the declaration of identity” substitute “ the postal voting statement ”;
+
+(b) omit the words “and authenticated”.
+
+(3) In paragraph (1B)—
+
+(a) omit “and” after paragraph (a);
+
+(b) after sub-paragraph (b) insert—
+
+> (c) the postal voting statement also states the date of birth of the elector or proxy (as the case may be), and
+>
+> (d) in a case where steps for verifying the date of birth and signature of an elector or proxy have been prescribed, the returning officer (having taken such steps) verifies the date of birth and signature of the elector or proxy (as the case may be).
+
+#### Questions to be put to voters
+
+**74** For rule 35 of that Schedule (questions to be put to voters) substitute—
+
+> **35** (1) At the time of the application (but not afterwards), the questions specified in the second column of the following table—
+>
+> (a) may be put by the presiding officer to a person who is mentioned in the first column, and
+>
+> (b) shall be put if the letter “R” appears after the question and the candidate or his election or polling agent requires the question to be put:
+>
+> |  |  |
+> |---|---|
+> | *Person applying for ballot paper* | *Questions* |
+> | 1 A person applying as an elector. | (a) “Are you the person registered in the register of parliamentary electors for this election as follows *(read out the whole entry from the register)*” R (b) “Have you already voted, here or elsewhere, at this election, otherwise than as proxy for some other person” R (c) At an election held in Northern Ireland, “What is your date of birth” |
+> | 2 A person applying as proxy. | (a) “Are you the person whose name appears as A.B. in the list of proxies for this election<br>(b) “Have you already voted here or elsewhere at this election, as proxy on behalf of C.D.” R as entitled to vote as proxy on behalf of C.D.” R (c) “Are you the spouse, civil partner, parent, grandparent, brother/sister, child or grandchild of C.D.” R |
+> | 3 A person applying as proxy for an elector with an anonymous entry (instead of the questions at entry 2 above). | (a) “Are you the person entitled to vote as proxy on behalf of the elector whose number on the register of electors is *(read out the number from the register)*” R (b) “Have you already voted here or elsewhere as proxy on behalf of the elector whose number on the register of electors is *(read out the number from the register)*” R (c) “Are you the spouse, civil partner, parent, grandparent, brother/sister, child or grandchild of the person whose number on the register of electors is *(read out the number from the register)*” R |
+> | 4 Person applying as proxy if the question at entry 2(c) or 3(c) is not answered in the affirmative. | “Have you at this election already voted in this constituency on behalf of two persons of whom you are not the spouse, civil partner, parent, grand-parent, brother/sister, child or grandchild?” [R] |
+> | 5 A person applying as an elector in relation to whom there is an entry in the postal voters list. | (a) “Did you apply to vote by post” (b) “Why have you not voted by post” |
+> | 6 A person applying as proxy who is named in the proxy postal voters list. | (a) “Did you apply to vote by post as proxy” (b) “Why have you not voted by post as proxy” |
+>
+> (2) In the case of an elector in respect of whom a notice has been issued under section 13B(3B) or (3D) of this Act, the references in the questions at entries 1(a) and 3(a), (b) and (c) to reading from the register must be taken as references to reading from the notice issued under section 13B(3B) or (3D).
+>
+> (3) A ballot paper shall not be delivered to any person required to answer any of the above questions unless he has answered each question satisfactorily.
+>
+> (4) Except as authorised by this rule, no inquiry shall be permitted as to the right of any person to vote.
+
+#### Voting procedure
+
+**75** (1) For rule 37 of that Schedule (voting procedure) substitute—
+
+> **37** (1) A ballot paper shall be delivered to a voter who applies for one, and immediately before delivery—
+>
+> (a) the number and (unless paragraph (2) applies) name of the elector as stated in the copy of the register of electors shall be called out;
+>
+> (b) the number of the elector shall be marked on the list mentioned in rule 29(3)(e) beside the number of the ballot paper to be issued to him;
+>
+> (c) a mark shall be placed in the register of electors against the number of the elector to note that a ballot paper has been received but without showing the particular ballot paper which has been received;
+>
+> (d) the voter shall sign the list mentioned in rule 29(3)(e) beside the number of the elector marked on the list in accordance with sub-paragraph (b) above; and
+>
+> (e) in the case of a person applying for a ballot paper as proxy, a mark shall also be placed against his name in the list of proxies.
+>
+> (2) In the case of an elector who has an anonymous entry, he must show the presiding officer his official poll card and only his number shall be called out in pursuance of paragraph (1)(a).
+>
+> (3) In the case of an elector who is added to the register in pursuance of a notice issued under section 13B(3B) or (3D), paragraph (1) above is modified as follows—
+>
+> (a) in sub-paragraph (a), for “copy of the register of electors” substitute “ copy of the notice issued under section 13B(3B) or (3D) of this Act ”;
+>
+> (b) in sub-paragraph (c), for “in the register of electors” substitute “ on the copy of the notice issued under section 13B(3B) or (3D) of this Act ”.
+>
+> (4) Paragraph (1)(d) above does not apply to a voter to whom rule 38 or 39 applies.
+>
+> (5) The voter, on receiving the ballot paper, shall forthwith proceed into one of the compartments in the polling station and there secretly mark his paper and fold it up so as to conceal his vote, and shall then show to the presiding officer the back of the paper, so as to disclose the number and other unique identifying mark, and put the ballot paper so folded up into the ballot box in the presiding officer's presence.
+>
+> (6) The voter shall vote without undue delay, and shall leave the polling station as soon as he has put his ballot paper into the ballot box.
+
+(2) This paragraph does not extend to Northern Ireland.
+
+#### Assistance for persons with disabilities
+
+**76** In section 202 (general provisions as to interpretation), in subsection (1) after the definition of “Common Council” insert—
+
+> “disability”, in relation to doing a thing, includes a short term inability to do it;
+
+.
+
+**77** In rule 38 of Schedule 1 (votes marked by presiding officer), in paragraph (1)(a) for “physical cause” substitute “ disability ”.
+
+**78** In rule 39 of that Schedule (voting by persons with disabilities), in paragraph (1)—
+
+(a) in sub-paragraph (a) for “physical incapacity” substitute “ disability ”;
+
+(b) for “other incapacity” substitute “ other disability ”.
+
+**79** In rule 43 of that Schedule (procedure on close of poll), in paragraph (1)(f) for “ “physical incapacity”” substitute “ “disability” ”.
+
+**80** In the Appendix of Forms in that Schedule, in Note number 2 to the Form of declaration to be made by the companion of a voter with disabilities for “incapacity” substitute “ disability ”.
+
+#### Tendered ballot papers
+
+**81** (1) Rule 40 of that Schedule (tendered ballot papers) is amended as follows.
+
+(2) After paragraph (1ZE) (inserted by section 38(2)) insert—
+
+> (1ZF) A person to whom a ballot paper is not delivered under paragraph (3) of rule 35 following his unsatisfactory answer to the question at entry 1(c) in the table in paragraph (1) of that rule shall, if he satisfactorily answers any other questions permitted by law to be asked at the poll, nevertheless be entitled, subject to the following provisions of this rule, to mark a ballot paper (in these rules referred to as “a tendered ballot paper”) in the same manner as any other voter.
+
+(3) In paragraph (3) at the end insert “ and the voter must sign the list opposite the entry relating to him ”.
+
+#### Attendance at election proceedings
+
+**82** In section 66(1) (requirement of secrecy) after paragraph (b) insert—
+
+> (c) every person so attending by virtue of any of sections 6A to 6D of the Political Parties, Elections and Referendums Act 2000,
+
+.
+
+**83** (1) Rule 11 of Schedule 1 (right to attend nomination) is amended as follows.
+
+(2) In paragraph (1), after sub-paragraph (b) insert
+
+> or
+>
+> (c) a person who is entitled to attend by virtue of section 6A or 6B of the Political Parties, Elections and Referendums Act 2000,
+
+.
+
+(3) After paragraph (3) insert—
+
+> (3A) Paragraph (3) does not apply to a person mentioned in paragraph (1)(c).
+
+(4) In paragraph (4) for “A candidate's spouse or civil partner” substitute “ One other person chosen by the candidate ”.
+
+**84** In rule 32 of that Schedule (admission to polling station) for paragraph (1) substitute—
+
+> (1) The presiding officer shall exclude all persons from the polling station except—
+>
+> (a) voters;
+>
+> (b) persons under the age of 18 who accompany voters to the polling station;
+>
+> (c) the candidates and their election agents;
+>
+> (d) the polling agents appointed to attend at the polling station;
+>
+> (e) the clerks appointed to attend at the polling station;
+>
+> (f) persons who are entitled to attend by virtue of any of sections 6A to 6D of the Political Parties, Elections and Referendums Act 2000;
+>
+> (g) the constables on duty; and
+>
+> (h) the companions of voters with disabilities.
+>
+> (1A) The presiding officer shall regulate the total number of voters and persons under the age of 18 who accompany them to be admitted to the polling station at the same time.
+
+**85** (1) Rule 44 of that Schedule (attendance at counting of votes) is amended as follows.
+
+(2) In paragraph (2)(b) for “their spouses or civil partners” substitute “ one other person chosen by each of them ”.
+
+(3) After paragraph (2)(d) insert—
+
+> (e) persons who are entitled to attend by virtue of any of sections 6A to 6D of the Political Parties, Elections and Referendums Act 2000.
+
+#### Identifying marks and security markings on ballot papers etc.
+
+**86** In section 66 (requirement of secrecy), in each of the following provisions, after “number” insert “ or other unique identifying mark ”
+
+(a) subsection (2)(a);
+
+(b) subsection (3)(c);
+
+(c) subsection (4)(b) and (c);
+
+(d) subsection (5).
+
+**87** In rule 19 of Schedule 1 (ballot papers at parliamentary elections), in paragraph (2)(c) after “number” insert “ and other unique identifying mark ”.
+
+**88** (1) Rule 20 of that Schedule (the official mark at parliamentary elections) is amended as follows.
+
+(2) For paragraph (1) substitute—
+
+> (1) Every ballot paper must contain an appropriate security marking (the official mark).
+
+(3) For paragraph (3) substitute—
+
+> (3) The returning officer may use a different official mark for different purposes at the same election.
+
+**89** In rule 29 of that Schedule (equipment of polling stations at parliamentary elections), in paragraph (3), sub-paragraph (b) is omitted.
+
+**90** (1) Rule 37 of that Schedule (voting procedure at parliamentary elections) is amended as follows.
+
+(2) In paragraph (1)—
+
+(a) sub-paragraph (a) is omitted;
+
+(b) in sub-paragraph (c) for “the counterfoil” substitute “ the list mentioned in rule 29(3)(e) beside the number of the ballot paper to be issued to him ”.
+
+(3) In paragraph (2) for “the official mark” substitute “ the number and other unique identifying mark ”.
+
+(4) This paragraph extends only to Northern Ireland.
+
+**91** In rule 45 of that Schedule (the count), in paragraph (4) after “numbers” insert “ or other unique identifying marks ”.
+
+**92** In rule 47 of that Schedule (rejected ballot papers at parliamentary elections), in paragraph (1)(c) after “number” insert “ and other unique identifying mark ”.
+
+**93** (1) The Appendix of forms in that Schedule is amended as follows.
+
+(2) In the Directions as to printing the ballot paper, for paragraph 4 substitute—
+
+> **4** The number and other unique identifying mark may be printed close to each other on the back of the ballot paper.
+
+(3) For the Form of directions for the guidance of the voters in voting substitute—
+
+> Form of directions for the guidance of the voters in voting
+>
+> **GUIDANCE FOR VOTERS**
+>
+> **1** When you are given a ballot paper go to one of the compartments. Mark a cross (X) in the box on the right hand side of the ballot paper opposite the name of the candidate you are voting for.
+>
+> **2** Vote for one candidate only. Put no other mark on the ballot paper, or your vote may not be counted. Do not let anyone see your vote.
+>
+> **3** Fold the ballot paper in two. Show the back of the ballot paper to the presiding officer so as to disclose the number and other unique identifying mark. Put the ballot paper in the ballot box and leave the polling station.
+>
+> **4** If by mistake you spoil a ballot paper, show it to the presiding officer and ask for another one.
+
+#### Cancellation of postal ballot papers
+
+**94** In Schedule 2 (provisions which may be contained in regulations as to registration etc), in paragraph 12 after sub-paragraph (a) insert—
+
+> (aa) authorising the cancellation or removal of ballot papers in any prescribed circumstances;
+
+.
+
+#### Control of documents after parliamentary election: Northern Ireland
+
+**95** (1) Schedule 1 (parliamentary elections rules) is amended as follows.
+
+(2) In rule 55 (delivery of documents after poll) after paragraph (1A) (inserted by section 41(3)(b)) insert—
+
+> (1B) Paragraph (1)(e) does not apply to an election for a constituency in Northern Ireland, but the returning officer shall endorse on each packet containing—
+>
+> (a) marked copies of the registers,
+>
+> (b) the postal voters list,
+>
+> (c) the proxy postal voters list, and
+>
+> (d) lists of proxies,
+>
+> a description of its contents, the date of the election to which it relates and the name of the constituency for which the election was held.
+
+(3) In rule 57 (retention and public inspection of documents) after paragraph (1) insert—
+
+> (1A) The Chief Electoral Officer for Northern Ireland shall retain for a year the documents mentioned in rule 55(1B), and then, unless otherwise directed by order of the House of Commons or the High Court, shall cause them to be destroyed.
+
+(4) This paragraph extends only to Northern Ireland.
+
+#### Local government elections in Scotland
+
+**96** The amendments made by paragraphs 72, 86 and 94 do not apply to a local government election in Scotland.
+
+### Part 6 — Control of loans etc. to individuals and members associations
+
+**97** The 2000 Act is amended in accordance with paragraphs 98 to 102.
+
+**98** After section 71X (inserted by section 61 of this Act) insert—
+
+> **Control of loans etc: individuals and members associations**
+>
+> **71Y** Schedule 7A, which makes provisions for controlling loans and certain other transactions to individual members of registered parties, associations of such members, and certain elected office holders, shall have effect.
+
+**99** After Schedule 7 insert—
+
+> **SCHEDULE 7A — Control of loans etc to individuals and members associations**
+>
+> **Operation and construction of Schedule**
+>
+> **1** (1) This Schedule has effect for controlling loans and certain other transactions where one of the parties to the transaction is—
+>
+> (a) a member of a registered party,
+>
+> (b) a members association, or
+>
+> (c) the holder of a relevant elective office.
+>
+> (2) The following provisions have effect for the purposes of this Schedule.
+>
+> (3) References to a controlled transaction must be construed in accordance with paragraph 2.
+>
+> (4) A reference to a connected transaction is a reference to a controlled transaction falling within paragraph 2(3)(b).
+>
+> (5) A regulated participant is—
+>
+> (a) a member of a registered party;
+>
+> (b) a members association;
+>
+> (c) the holder of a relevant elective office, whether or not he is a member of a registered party.
+>
+> (6) A credit facility is an agreement whereby a regulated participant is enabled to receive from time to time from another party to the agreement a loan of money not exceeding such amount (taking account of any repayments made by the regulated participant) as is specified in or determined in accordance with the agreement.
+>
+> (7) References to each of the following must be construed in accordance with Schedule 7—
+>
+> (a) the political activities of a party member or a members association;
+>
+> (b) members association;
+>
+> (c) relevant elective office;
+>
+> (d) the responsible person (in relation to a members association), as if for the reference in paragraph 1(9)(b) of that Schedule to donations there were a reference to receipts from controlled transactions.
+>
+> (8) This Schedule does not have effect in relation to—
+>
+> (a) a member of the Scottish Parliament, or
+>
+> (b) a member of a local authority in Scotland,
+>
+> if he is not also a member of a registered party.
+>
+> **Controlled transaction**
+>
+> **2** (1) An agreement between a regulated participant and another person by which the other person makes a loan of money to the regulated participant is a controlled transaction if the use condition is satisfied.
+>
+> (2) An agreement between a regulated participant and another person by which the other person provides a credit facility to the regulated participant is a controlled transaction if the use condition is satisfied.
+>
+> (3) Where—
+>
+> (a) a regulated participant and another person (A) enter into a controlled transaction of a description mentioned in sub-paragraph (1) or (2) or a transaction under which any property, services or facilities are provided for the use or benefit of the regulated participant (including the services of any person),
+>
+> (b) A also enters into an arrangement where a third person gives any form of security (whether real or personal) for a sum owed to A by the regulated participant under the transaction mentioned in paragraph (a), and
+>
+> (c) the use condition is satisfied,
+>
+> the arrangement is a controlled transaction.
+>
+> (4) An agreement or arrangement is not a controlled transaction—
+>
+> (a) to the extent that in accordance with any enactment a payment made in pursuance of the agreement or arrangement falls to be included in a return as to election expenses in respect of a candidate or candidates at a particular election, or
+>
+> (b) if its value is not more than £200.
+>
+> (5) Anything given or transferred to an officer, member, trustee or agent of a members association in his capacity as such (and not for his own use or benefit) is to be regarded as given or transferred to the association (and references to money or any other benefit received by a regulated participant accordingly include, in the case of a members association, money or any other benefit so given or transferred).
+>
+> (6) The use condition is that the regulated participant intends at the time he enters into a transaction mentioned in sub-paragraph (1), (2) or (3)(a) to use any money or benefit obtained in consequence of the transaction in connection with relevant political activities.
+>
+> (7) For the purposes of sub-paragraph (6), it is immaterial that only part of the money or benefit is intended to be used in connection with relevant political activities.
+>
+> (8) Relevant political activities are—
+>
+> (a) if the regulated participant is a member of a registered party, any of his political activities as a member of the party;
+>
+> (b) if the regulated participant is a members association, any of its political activities;
+>
+> (c) if the regulated participant is a holder of a relevant elective office, any of his political activities.
+>
+> (9) The Secretary of State may, by order, specify circumstances or any description of circumstances in which an agreement or arrangement falling within any of sub-paragraphs (1) to (3) is not a controlled transaction.
+>
+> **Valuation of controlled transactions**
+>
+> **3** (1) The value of a controlled transaction which is a loan is the value of the total amount to be lent under the loan agreement.
+>
+> (2) The value of a controlled transaction which is a credit facility is the maximum amount which may be borrowed under the agreement for the facility.
+>
+> (3) The value of a controlled transaction which is an arrangement by which any form of security is given is the contingent liability under the security provided.
+>
+> (4) For the purposes of sub-paragraphs (1) and (2), no account is to be taken of the effect of any provision contained in a loan agreement or an agreement for a credit facility at the time it is entered into which enables outstanding interest to be added to any sum for the time being owed in respect of the loan or credit facility, whether or not any such interest has been so added.
+>
+> **Authorised participants**
+>
+> **4** (1) A regulated participant must not—
+>
+> (a) be a party to a controlled transaction to which any of the other parties is not an authorised participant;
+>
+> (b) derive a benefit in consequence of a connected transaction if any of the parties to that transaction is not an authorised participant.
+>
+> (2) This paragraph does not apply to a controlled transaction if it was entered into before the commencement of section 61 of the Electoral Administration Act 2006.
+>
+> (3) In this Schedule, an authorised participant is a person who is a permissible donor within the meaning of section 54(2).
+>
+> (4) The Secretary of State may, by order, specify circumstances or any description of circumstances in which a person who is not a permissible donor is to be treated as an authorised participant.
+>
+> **Controlled transaction involving unauthorised participant**
+>
+> **5** (1) This paragraph applies if a regulated participant is a party to a controlled transaction in which another participant is not an authorised participant.
+>
+> (2) The transaction is void.
+>
+> (3) Despite sub-paragraph (2)—
+>
+> (a) any money received by the regulated participant by virtue of the transaction must be repaid by the regulated participant to the person from whom it was received, along with interest at such rate as is determined in accordance with an order made by the Secretary of State;
+>
+> (b) that person is entitled to recover the money, along with such interest.
+>
+> (4) If—
+>
+> (a) the money is not (for whatever reason) repaid as mentioned in sub-paragraph (3)(a), or
+>
+> (b) the person entitled to recover the money refuses or fails to do so,
+>
+> the Commission may apply to the court to make such order as it thinks fit to restore (so far as is possible) the parties to the transaction to the position they would have been in if the transaction had not been entered into.
+>
+> (5) In the case of a controlled transaction where a party other than a regulated participant—
+>
+> (a) at the time the regulated participant enters into the transaction, is an authorised participant, but
+>
+> (b) subsequently, for whatever reason, ceases to be an authorised participant,
+>
+> the transaction is void and sub-paragraphs (3) and (4) apply with effect from the time when the other party ceased to be an authorised participant.
+>
+> (6) This paragraph does not apply to a controlled transaction if it was entered into before the commencement of section 61 of the Electoral Administration Act 2006.
+>
+> **Guarantees and securities: unauthorised participants**
+>
+> **6** (1) This paragraph applies if—
+>
+> (a) a regulated participant and another person (A) enter into a transaction of a description mentioned in paragraph 2(3)(a),
+>
+> (b) A is party to a controlled transaction of a description mentioned in paragraph 2(3)(b) (“the connected transaction”) with another person (B), and
+>
+> (c) B is not an authorised participant.
+>
+> (2) Paragraph 5(2) to (4) applies to the transaction mentioned in sub-paragraph (1)(a).
+>
+> (3) The connected transaction is void.
+>
+> (4) Sub-paragraph (5) applies if (but only if) A is unable to recover from the regulated participant the whole of the money mentioned in paragraph 5(3)(a) (as applied by sub-paragraph (2) above), along with such interest as is there mentioned.
+>
+> (5) Despite sub-paragraph (3), A is entitled to recover from B any part of that money (and such interest) that is not recovered from the regulated participant.
+>
+> (6) Sub-paragraph (5) does not entitle A to recover more than the contingent liability under the security provided by virtue of the connected transaction.
+>
+> (7) In the case of a connected transaction where B—
+>
+> (a) at the time A enters into the transaction, is an authorised participant, but
+>
+> (b) subsequently, for whatever reason, ceases to be an authorised participant,
+>
+> sub-paragraphs (2) to (6) apply with effect from the time when B ceased to be an authorised participant.
+>
+> (8) This paragraph does not apply to a regulated transaction if it was entered into before the commencement of section 61 of the Electoral Administration Act 2006.
+>
+> (9) If the transaction mentioned in paragraph 2(3)(a) is not a controlled transaction of a description mentioned in paragraph 2(1) or (2), references in this paragraph and paragraph 5(2) to (4) (as applied by sub-paragraph (2) above) to the repayment or recovery of money must be construed as references to (as the case may be)—
+>
+> (a) the return or recovery of any property provided under the transaction,
+>
+> (b) to the extent that such is incapable of being returned or recovered or its market value has diminished since the time the transaction was entered into, the repayment or recovery of the market value at that time, or
+>
+> (c) the market value (at that time) of any facilities or services provided under the transaction.
+>
+> **Transfer to unauthorised participant invalid**
+>
+> **7** If an authorised participant purports to transfer his interest in a controlled transaction to a person who is not an authorised participant the purported transfer is of no effect.
+>
+> **Offences**
+>
+> **8** (1) An individual who is a regulated participant commits an offence if—
+>
+> (a) he enters into a controlled transaction of a description mentioned in paragraph 2(1) or (2) in which another participant is not an authorised participant, and
+>
+> (b) he knew or ought reasonably to have known that the other participant was not an authorised participant.
+>
+> (2) A responsible person of a members association commits an offence if—
+>
+> (a) the association enters into a controlled transaction of a description mentioned in paragraph 2(1) or (2) in which another participant is not an authorised participant, and
+>
+> (b) he knew or ought reasonably to have known of the matters mentioned in paragraph (a).
+>
+> (3) An individual who is a regulated participant commits an offence if—
+>
+> (a) he enters into a controlled transaction of a description mentioned in paragraph 2(1) or (2) in which another participant is not an authorised participant,
+>
+> (b) sub-paragraph (1)(b) does not apply to him, and
+>
+> (c) as soon as practicable after knowledge that the other participant is not an authorised participant comes to him he fails to take all reasonable steps to repay any money which he has received by virtue of the transaction.
+>
+> (4) A responsible person of a members association commits an offence if—
+>
+> (a) the association enters into a controlled transaction of a description mentioned in paragraph 2(1) or (2) in which another participant is not an authorised participant,
+>
+> (b) sub-paragraph (2)(b) does not apply to him, and
+>
+> (c) as soon as practicable after knowledge of the matters mentioned in paragraph (a) comes to him he fails to take all reasonable steps to repay any money which the association has received by virtue of the transaction.
+>
+> (5) An individual who is a regulated participant commits an offence if—
+>
+> (a) he benefits from or falls to benefit in consequence of a connected transaction to which any of the parties is not an authorised participant, and
+>
+> (b) he knew or ought reasonably to have known that one of the other parties was not an authorised participant.
+>
+> (6) A responsible person of a members association commits an offence if—
+>
+> (a) the association benefits from or falls to benefit in consequence of a connected transaction to which any of the parties is not an authorised participant, and
+>
+> (b) he knew or ought reasonably to have known of the matters mentioned in paragraph (a).
+>
+> (7) An individual who is a regulated participant commits an offence if—
+>
+> (a) he is a party to a transaction of a description mentioned in paragraph 2(3)(a),
+>
+> (b) he benefits from or falls to benefit in consequence of a connected transaction to which any of the parties is not an authorised participant,
+>
+> (c) sub-paragraph (5)(b) does not apply to him, and
+>
+> (d) as soon as practicable after knowledge comes to him that one of the parties to the connected transaction is not an authorised participant he fails to take all reasonable steps to repay to any person who has provided him with any benefit in consequence of the connected transaction the value of the benefit.
+>
+> (8) A responsible person of a members association commits an offence if—
+>
+> (a) the association is a party to a transaction of a description mentioned in paragraph 2(3)(a),
+>
+> (b) the association benefits from or falls to benefit in consequence of a connected transaction to which any of the parties is not an authorised participant,
+>
+> (c) sub-paragraph (6)(b) does not apply to him, and
+>
+> (d) as soon as practicable after knowledge comes to him that one of the parties to the connected transaction is not an authorised participant he fails to take all reasonable steps to repay to any person who has provided the association with any benefit in consequence of the connected transaction the value of the benefit.
+>
+> (9) A person commits an offence if he—
+>
+> (a) knowingly enters into, or
+>
+> (b) knowingly does any act in furtherance of,
+>
+> any arrangement which facilitates or is likely to facilitate, whether by means of concealment or disguise or otherwise, the participation by a regulated participant in a controlled transaction with a person other than an authorised participant.
+>
+> (10) It is a defence for a person charged with an offence under sub-paragraph (2) to prove that he took all reasonable steps to prevent the members association entering into the transaction.
+>
+> (11) It is a defence for a person charged with an offence under sub-paragraph (6) to prove that he took all reasonable steps to prevent the members association benefiting in consequence of the connected transaction.
+>
+> (12) A reference to a regulated participant entering into a controlled transaction includes a reference to any circumstances in which the terms of a controlled transaction are varied so as to increase the amount of money to which the regulated participant is entitled in consequence of the transaction.
+>
+> (13) A reference to a regulated participant entering into a transaction in which another participant is not an authorised participant includes a reference to any circumstances in which another party to the transaction who is an authorised participant ceases (for whatever reason) to be an authorised participant.
+>
+> (14) This paragraph does not apply to a transaction which is entered into before the commencement of section 61 of the Electoral Administration Act 2006.
+>
+> **Transaction reports: transactions with authorised participants**
+>
+> **9** (1) A regulated participant must prepare a report under this paragraph in respect of each controlled transaction entered into by him which is a recordable transaction.
+>
+> (2) For the purposes of this paragraph a controlled transaction is a recordable transaction—
+>
+> (a) if the value of the transaction is more than £5,000 (where the regulated participant is a members association) or £1,000 (in any other case), or
+>
+> (b) if the aggregate value of it and any other controlled benefit or benefits accruing to the regulated participant—
+>
+> (i) from the same person and in the same calendar year, and
+>
+> (ii) in respect of which no report has been previously made under this paragraph,
+>
+> is more than £5,000 (where the regulated participant is a members association) or £1,000 (in any other case).
+>
+> (3) A controlled benefit is—
+>
+> (a) a controlled donation within the meaning of paragraph 1(3) of Schedule 7;
+>
+> (b) a controlled transaction.
+>
+> (4) A controlled benefit which is a controlled donation accrues—
+>
+> (a) from the permissible donor (within the meaning of section 54(2)) who made it, and
+>
+> (b) when it is accepted by the donee.
+>
+> (5) A controlled benefit which is a controlled transaction accrues—
+>
+> (a) from any authorised participant who is a party to it, and
+>
+> (b) when it is entered into.
+>
+> (6) For the purposes of this paragraph, if—
+>
+> (a) the value of a controlled transaction as first entered into is such that it is not a recordable transaction, but
+>
+> (b) the terms of the transaction are subsequently varied in such a way that it becomes a recordable transaction,
+>
+> the regulated participant must be treated as having entered into a recordable transaction on the date when the variation takes effect.
+>
+> (7) A regulated participant must deliver the report prepared in accordance with sub-paragraph (1) to the Commission within the period of 30 days beginning with—
+>
+> (a) if sub-paragraph (2)(a) applies, the date on which the transaction is entered into;
+>
+> (b) if sub-paragraph (2)(b) applies, the date on which the benefit which causes the aggregate amount to exceed £5,000 or (as the case may be) £1,000 accrues.
+>
+> (8) Each report prepared in accordance with sub-paragraph (1) must—
+>
+> (a) give the name and address of the regulated participant, and
+>
+> (b) if he is the holder of a relevant elective office, specify the office in question.
+>
+> (9) Each such report must also give—
+>
+> (a) such information as is required to be given, in the case of a report prepared in accordance with section 71M, by virtue of paragraphs 2 and 5(2) and (3) of Schedule 6A;
+>
+> (b) in relation to a controlled transaction of a description mentioned in paragraph 2(1) or (2) above, such information as is required to be given, in the case of a report prepared in accordance with that section, by virtue of paragraph 6 of that Schedule;
+>
+> (c) in relation to a controlled transaction of a description mentioned in paragraph 2(3)(b) above, such information as is required to be given, in the case of a report prepared in accordance with that section, by virtue of paragraph 7 of that Schedule;
+>
+> (d) the date on which the transaction is entered into;
+>
+> (e) such other information as is required by regulations made by the Commission.
+>
+> (10) In the application of paragraphs 2, 5(2) and (3), 6 and 7 of Schedule 6A in accordance with sub-paragraph (9) above—
+>
+> (a) any reference to a recordable transaction within the meaning of that Schedule must be construed as a reference to a recordable transaction within the meaning of this paragraph;
+>
+> (b) any reference to section 71G or section 71F(4)(a) must be construed as a reference to paragraph 3 above or paragraph 2(3)(a) above;
+>
+> (c) any reference to a regulated transaction or a registered party within the meaning of that Schedule must be construed as a reference to a controlled transaction or a regulated participant within the meaning of this paragraph;
+>
+> (d) any reference to a transaction report within the meaning of that Schedule must be construed as a reference to a report under this paragraph.
+>
+> **Transaction reports: transactions with unauthorised participants**
+>
+> **10** (1) A regulated participant must—
+>
+> (a) prepare a report under this paragraph in respect of each controlled transaction entered into by him and falling within paragraph 5 or 6(1)(b), and
+>
+> (b) deliver the report to the Commission within the period of 30 days beginning with the date when the transaction was dealt with in accordance with that paragraph.
+>
+> (2) Each such report must—
+>
+> (a) give the name and address of the regulated participant;
+>
+> (b) if he is the holder of a relevant elective office, specify the office in question.
+>
+> (3) Each such report in respect of a transaction falling within paragraph 5 must also give—
+>
+> (a) the name and address of the unauthorised participant;
+>
+> (b) the nature of the transaction (that is to say, whether it is a loan or a credit facility);
+>
+> (c) the value of the transaction or, in the case of a credit facility to which no limit is specified, a statement to that effect;
+>
+> (d) the date on which the transaction was entered into and the date when, and manner in which, it was dealt with in accordance with paragraph 5;
+>
+> (e) such other information as is required by regulations made by the Commission.
+>
+> (4) Each such report in respect of a transaction falling within paragraph 6(1)(b) must also give—
+>
+> (a) the name and address of the unauthorised participant;
+>
+> (b) the value of the transaction or, in the case of a security to which no limit is specified, a statement to that effect;
+>
+> (c) a description of the principal features of the transaction mentioned in paragraph 6(1)(a);
+>
+> (d) where the security given consists in or includes rights over any property, the nature of that property;
+>
+> (e) the date on which the transaction was entered into and the date when, and manner in which, it was dealt with in accordance with paragraph 6;
+>
+> (f) such other information as is required by regulations made by the Commission.
+>
+> **Transaction reports: changes to recorded transactions**
+>
+> **11** (1) A regulated participant must—
+>
+> (a) prepare a report under this paragraph in respect of each change to a recorded transaction; and
+>
+> (b) deliver the report to the Commission within the period of 30 days beginning with the date on which the change takes effect.
+>
+> (2) A recorded transaction is a transaction recorded in a report under paragraph 9.
+>
+> (3) There is a change to a recorded transaction if—
+>
+> (a) another authorised participant becomes party to the transaction (whether in place of or in addition to any existing participant),
+>
+> (b) there is any change in the details given in relation to the transaction in pursuance of paragraph 9(9), or
+>
+> (c) the transaction comes to an end.
+>
+> (4) For the purposes of sub-paragraph (3)(c), a loan comes to an end if—
+>
+> (a) the whole debt (or all the remaining debt) is repaid;
+>
+> (b) the creditor releases the whole debt (or all the remaining debt).
+>
+> (5) There is also a change to a recorded transaction if a person who is not an authorised participant becomes party to the transaction (whether in place of or in addition to any existing participant).
+>
+> (6) Each report prepared in accordance with sub-paragraph (1) must—
+>
+> (a) give the name and address of the regulated participant; and
+>
+> (b) if he is the holder of a relevant elective office, specify the office in question.
+>
+> (7) Each such report must also give—
+>
+> (a) details of the change;
+>
+> (b) the date on which the change takes effect;
+>
+> (c) in the case of a change falling within sub-paragraph (5), the date when and the manner in which the transaction was dealt with in accordance with paragraph 5 or 6;
+>
+> (d) such other information as is required by regulations made by the Commission.
+>
+> **Offence of failing to deliver transaction report**
+>
+> **12** (1) Where a report required to be delivered to the Commission under paragraph 9(1), 10(1) or 11(1) is not delivered by the end of the period of 30 days mentioned in paragraph 9(7), 10(1) or 11(1)—
+>
+> (a) the regulated participant, or
+>
+> (b) (if a members association) the responsible person,
+>
+> is guilty of an offence.
+>
+> (2) If such a report is delivered to the Commission which does not comply with any requirements of paragraph 9, 10 or 11 as regards the information to be given in such a report—
+>
+> (a) the regulated participant, or
+>
+> (b) (if a members association) the responsible person,
+>
+> is guilty of an offence.
+>
+> (3) Where a person is charged with an offence under this paragraph, it shall be a defence to prove that he took all reasonable steps, and exercised all due diligence, to ensure that any requirements—
+>
+> (a) as regards the preparation and delivery of a report in respect of the transaction in question, or
+>
+> (b) as regards the information to be given in the report in question,
+>
+> as the case may be, were complied with in relation to that transaction or report.
+>
+> (4) Where the court is satisfied, on an application made by the Commission, that any failure to comply with any such requirements in relation to any transaction entered into by a regulated participant was attributable to an intention on the part of any person to conceal the existence or true value of the transaction, the court may make such order as it thinks fit to restore (so far as is possible) the parties to the transaction to the position they would have been in if the transaction had not been entered into.
+>
+> (5) An order under sub-paragraph (4) may in particular—
+>
+> (a) where the transaction is a loan or credit facility, require that any amount owed by the regulated participant be repaid (and that no further sums be advanced under it);
+>
+> (b) where any form of security is given for a sum owed under the transaction, or the transaction is an arrangement by which any form of security is given, require that the security be discharged.
+>
+> **Declaration in transaction report**
+>
+> **13** (1) Each report under paragraph 9 or 10 must, when delivered to the Commission, be accompanied by a declaration made by—
+>
+> (a) the regulated participant, or
+>
+> (b) (if a members association) the responsible person,
+>
+> which complies with sub-paragraph (2) or (3).
+>
+> (2) In the case of a report under paragraph 9, the declaration must state that, to the best of the declarant's knowledge and belief, any transaction recorded in the report as having been entered into by the regulated participant was entered into with an authorised participant.
+>
+> (3) In the case of a report under paragraph 10, the declaration must state that, to the best of the declarant's knowledge and belief, the transaction recorded in the report as having been entered into by the regulated participant has been dealt with in accordance with paragraph 5 or 6.
+>
+> (4) A person commits an offence if he knowingly or recklessly makes a false declaration under this paragraph.
+>
+> **Existing transactions**
+>
+> **14** (1) Paragraphs 9 to 11 have effect in relation to existing transactions as they have effect in relation to transactions entered into after the date on which those paragraphs come into force, except that—
+>
+> (a) references in paragraph 9 to a controlled benefit do not include references to a controlled donation;
+>
+> (b) in paragraph 9(2)(b)(i) the words “and in the same calendar year” are omitted;
+>
+> (c) the requirement in paragraph 9(7), 10(1)(b) or 11(1)(b) is a requirement to deliver the report within the period of 60 days beginning with the date on which that provision comes into force.
+>
+> (2) An existing transaction is a controlled transaction which, at the date on which paragraphs 9 to 11 come into force, has not come to an end for the purposes of paragraph 11(3)(c).
+>
+> **Register of recordable transactions**
+>
+> **15** (1) Section 71V applies in relation to transactions reported to the Commission under this Schedule (“relevant transactions”) as it applies to transactions reported to them under Part 4A of this Act.
+>
+> (2) But in its application in accordance with sub-paragraph (1), section 71V(2) has effect in relation to a relevant transaction as if (instead of requiring the register to contain the details mentioned in paragraphs (a) to (c) of that subsection) it required the register to contain such details as have been given in relation to the transaction in pursuance of paragraph 9(8) and (9), 10(2), (3) and (4) or 11(6) and (7).
+>
+> **16** (1) Paragraph 9 does not apply to holders of a relevant elective office.
+>
+> (2) Sub-paragraph (3) applies in relation to transactions in which a holder of a relevant elective office is a participant if—
+>
+> (a) the relevant body has in place arrangements requiring the holder of the office to report such transactions, and
+>
+> (b) the Commission think that the arrangements correspond to the requirements of paragraph 9.
+>
+> (3) The Commission must make such arrangements as they think appropriate corresponding to section 71V (subject to such modifications as may be prescribed by the Secretary of State in regulations) to maintain a register of such information as they receive relating to such transactions.
+>
+> (4) In sub-paragraph (2)(a) a relevant body is—
+>
+> (a) if the holder of a relevant elective office is a member of a body mentioned in paragraphs (a) to (f) of paragraph 1(8) of Schedule 7, that body;
+>
+> (b) if the holder of a relevant elective office is the Mayor of London, the London Assembly;
+>
+> (c) if the holder of a relevant elective office is an elected mayor within the meaning of Part 2 of the Local Government Act 2000, the local authority of which he is the mayor.
+>
+> (5) For the purposes of sub-paragraph (1) it is immaterial whether the transaction is entered into by the holder of the office in that capacity or in his capacity as a member of a registered party.
+>
+> **Proceedings under paragraphs 5 and 12**
+>
+> **17** (1) This paragraph has effect in relation to proceedings on applications under paragraphs 5(4) and 12(4).
+>
+> (2) The court is—
+>
+> (a) in England and Wales, the county court;
+>
+> (b) in Scotland, the sheriff, and the proceedings are civil proceedings;
+>
+> (c) in Northern Ireland, the county court.
+>
+> (3) The standard of proof is that applicable to civil proceedings.
+>
+> (4) An order may be made whether or not proceedings are brought against any person for an offence under paragraph 8 or 12(1) or (2).
+>
+> (5) An appeal against an order made by the sheriff may be made to the Court of Session.
+>
+> (6) Rules of court may make provision—
+>
+> (a) with respect to applications or appeals from proceedings on such applications;
+>
+> (b) for the giving of notice of such applications or appeals to persons affected;
+>
+> (c) for the joinder, or in Scotland sisting, of such persons as parties;
+>
+> (d) generally with respect to procedure in such applications or appeals.
+>
+> (7) Sub-paragraph (6) does not affect any existing power to make rules.
+
+**100** In section 156(4) (provision about subordinate legislation), after paragraph (i) insert—
+
+> (ia) paragraph 2(9) or 4(4) of Schedule 7A,
+
+.
+
+**101** In Schedule 20 (penalties), after the entry relating to paragraph 14(5) of Schedule 7 insert—
+
+> |  |  |
+> |---|---|
+> | Paragraph 8(1) of Schedule 7A (individual regulated participant knowingly enters controlled transaction with unauthorised participant) | On summary conviction: statutory maximum or 12 months On indictment: fine or 1 year |
+> | Paragraph 8(2) of Schedule 7A (responsible person of members association which enters controlled transaction with unauthorised participant) | On summary conviction: statutory maximum or 12 months On indictment: fine or 1 year |
+> | Paragraph 8(3) of Schedule 7A (individual regulated participant failing to repay money obtained under controlled transaction with unauthorised participant) | On summary conviction: statutory maximum or 12 months On indictment: fine or 1 year |
+> | Paragraph 8(4) of Schedule 7A (responsible person failing to repay money obtained by members association under controlled transaction with unauthorised participant) | On summary conviction: statutory maximum or 12 months On indictment: fine or 1 year |
+> | Paragraph 8(5) of Schedule 7A (individual regulated participant knowingly benefits from connected transaction involving unauthorised participant) | On summary conviction: statutory maximum or 12 months On indictment: fine or 1 year |
+> | Paragraph 8(6) of Schedule 7A (responsible person of members association which knowingly benefits from connected transaction involving unauthorised participant) | On summary conviction: statutory maximum or 12 months On indictment: fine or 1 year |
+> | Paragraph 8(7) of Schedule 7A (individual regulated participant failing to repay value of benefit obtained in consequence of connected transaction involving unauthorised participant) | On summary conviction: statutory maximum or 12 months On indictment: fine or 1 year |
+> | Paragraph 8(8) of Schedule 7A (responsible person failing to repay value of benefit obtained by members association in consequence of connected transaction involving unauthorised participant) | On summary conviction: statutory maximum or 12 months On indictment: fine or 1 year |
+> | Paragraph 8(9) of Schedule 7A (facilitating controlled transaction involving unauthorised participant) | On summary conviction: statutory maximum or 12 months On indictment: fine or 1 year |
+> | Paragraph 12(1) of Schedule 7A (failure to deliver transaction report to Commission within time limit) | On summary conviction: Level 5 |
+> | Paragraph 12(2) of Schedule 7A (failure to comply with requirements for recording transactions on transaction reports) | On summary conviction: statutory maximum or 12 months On indictment: fine or 1 year |
+> | Paragraph 13(4) of Schedule 7A (making a false declaration about a transaction report) | On summary conviction: statutory maximum or 12 months On indictment: fine or 1 year |
+
+**102** (1) The Secretary of State must not make an order under section 77 for the purposes of paragraph 16 of Schedule 7A to the 2000 Act (as inserted by paragraph 99) as it applies to the holders of a relevant elective office unless he is informed by the Commission that they are satisfied that they will receive the information mentioned in paragraph 16(3) of that Schedule (as so inserted) in relation to such holders of relevant elective office.
+
+(2) In sub-paragraph (1) references to the holder of a relevant elective office must be construed in accordance with Schedule 7 to the 2000 Act.
+
+### Part 7 — Miscellaneous
+
+#### The Family Law Reform Act 1969 (c. 46)
+
+**103** In Schedule 2 to the Family Law Reform Act 1969 (provisions unaffected by section 1 to that Act), in paragraph 2, the words “section 7 of the Parliamentary Elections Act 1695” are omitted.
+
+#### The 1983 Act
+
+**104** The 1983 Act is amended in accordance with paragraphs 105 to 133.
+
+**105** In section 10 (maintenance of registers: annual canvass), in subsection (4B) for “any incapacity” substitute “ blindness or any other disability ”.
+
+**106** In section 10A (maintenance of registers: registration of electors), in subsection (1B) for “any incapacity” substitute “ blindness or any other disability ”.
+
+**107** (1) Section 29 (payments by and to returning officer), as proposed to be amended by paragraph 6(3) of Schedule 21 to the 2000 Act, is amended as follows.
+
+(2) For subsections (3) to (6) substitute—
+
+> (3) [[^F34]Subject to section 29A,] a returning officer shall be entitled to recover his charges in respect of services rendered, or expenses incurred, for or in connection with a parliamentary election if—
+>
+> (a) the services were necessarily rendered, or the expenses were necessarily incurred, for the efficient and effective conduct of the election; and
+>
+> (b) the total of his charges does not exceed the amount (“the overall maximum recoverable amount”) specified in, or determined in accordance with, regulations made by the Commission, with the consent of the Treasury, for the purposes of this subsection.
+>
+> (4) Regulations under subsection (3) may specify, or make provision for determining in accordance with the regulations, a maximum recoverable amount for services or expenses of any specified description and, subject to subsection (5) below, the returning officer may not recover more than that amount in respect of any such services or expenses.
+>
+> (5) In a particular case the Commission may, with the consent of the Treasury, authorise the payment of—
+>
+> (a) more than the overall maximum recoverable amount, or
+>
+> (b) more than the specified maximum recoverable amount for any specified services or expenses,
+>
+> if the Commission are satisfied that the conditions in subsection (6) are met.
+>
+> (6) The conditions referred to in subsection (5) are—
+>
+> (a) that it was reasonable for the returning officer concerned to render the services or incur the expenses, and
+>
+> (b) that the charges in question are reasonable.
+
+**108** In section 31(2) (polling districts at local government elections in Scotland), for “section 18” substitute “ section 18A ”.
+
+**109** In section 53 (power to make regulations as to registration etc.), after subsection (3) insert—
+
+> (4) Provision may also be made by regulations—
+>
+> (a) for the supply of any such record or special list as is mentioned in subsection (1) above to such persons as are prescribed;
+>
+> (b) with respect to any conditions subject to which the supply is made;
+>
+> (c) making it an offence (punishable on summary conviction by a fine not exceeding level 5 on the standard scale) for a person to fail to comply with any such condition.
+
+**110** In section 58 (registration appeals: Northern Ireland), in subsection (1), after “except” insert “ subsection (1)(aa) and (ab), ”.
+
+**111** In section 73 (payment of expenses through election agent), in subsection (5)(d) for “section 90A(5)(b)” substitute “ section 90ZA(5) ”.
+
+**112** (1) In section 74A (expenses incurred otherwise than for election purposes) is amended as follows.
+
+(2) In subsection (1)(b) for “section 90A(1)” substitute “ section 90ZA(1) ”.
+
+(3) In subsection (2) omit “(determined in accordance with section 90B below)”.
+
+(4) In subsection (3) for “sections 90A to” substitute “ sections 90ZA and ”.
+
+**113** In section 75 (prohibition of expenses not authorised by election agent), for subsection (4) substitute—
+
+> (4) A copy of every return and declaration made under subsection (2) above in relation to a parliamentary election in England, Wales or Northern Ireland must be sent to the relevant officer within 21 days after the day on which the result of the election is declared by the person making the return or declaration.
+>
+> (4A) The relevant officer is—
+>
+> (a) in relation to England and Wales, the returning officer;
+>
+> (b) in relation to Northern Ireland, the Clerk of the Crown for Northern Ireland.
+>
+> (4B) The returning officer must forward to the relevant registration officer (within the meaning of rule 55 of the parliamentary elections rules) every document sent to him in pursuance of subsection (4) above.
+>
+> (4C) Rule 57 of those rules applies to any documents sent under this section to—
+>
+> (a) the relevant registration officer, or
+>
+> (b) the Clerk of the Crown for Northern Ireland.
+
+**114** In section 81(9) (returns as to election expenses)—
+
+(a) for “subsection (3)” substitute “ subsection (3A) ”, and
+
+(b) the words “of each such matter” are omitted.
+
+**115** In section 89(1A) (inspection of return containing statement of donations), for “section 81(3)(e) above” substitute “ paragraph 10 of Schedule 2A to this Act ”.
+
+**116** In section 90 (election expenses at elections where election agent not required), in subsection (1)(a) for “sections 90A(5)” substitute “ sections 90ZA(4) ”.
+
+**117** In section 90C (property, goods and services provided free of charge or at a discount), in subsection (2) for “section 90A(3) above” substitute “ Part 2 of Schedule 4A to this Act ”.
+
+**118** (1) Section 90D (modification of election expenses provisions relating to election of London Assembly members) is amended as follows.
+
+(2) In the title, for “sections 90A to” substitute “ sections 90ZA and ”.
+
+(3) In subsection (1) for “Sections 90A to” substitute “ Sections 90ZA and ”.
+
+(4) In subsection (2)(b) for “section 90A(4)” substitute “ section 90ZA(3) ”.
+
+(5) In subsection (3)—
+
+(a) for “section 90A” substitute “ section 90ZA ”;
+
+(b) for “subsection (5)” substitute “ subsection (6) ”;
+
+(c) the substituted subsection there set out is renumbered as subsection (6).
+
+**119** In section 118 (interpretation of Part 2), in the definition of “election expenses” for “sections 90A” substitute “ sections 90ZA ”.
+
+**120** (1) Section 160 (persons reported personally guilty of corrupt or illegal practices) is amended as follows.
+
+(2) In subsection (4A) after “section 60” insert “ or 62A ”.
+
+(3) [^F35]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) [^F35]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**121** In section 168 (prosecutions for corrupt practice), in subsection (1)(a)(i) after “section 60” insert “ or 62A ”.
+
+**122** In section 173 (incapacities on conviction of corrupt or illegal practice), in subsection (2) after “section 60” insert “ or 62A ”.
+
+**123** [^F36]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**124** In section 187 (application of Act to certain local elections) in subsection (1)(a) after “60” insert “ , 62A ”.
+
+**125** In section 191 (municipal elections in the City), in subsection (1)(a) for “and 61” substitute “ , 61 and 62A ”.
+
+**126** In section 193 (personation and other voting offences), in paragraph (a) for “and 61” substitute “ , 61 and 62A ”.
+
+**127** In section 197 (candidate's expenses: ward, and liverymen in common hall, elections), in subsection (3) for the words from “An order under this subsection” to the end substitute— “ The power to make an order under this subsection is exercisable by statutory instrument which shall be subject to annulment in pursuance of a resolution of either House of Parliament. ”
+
+**128** (1) Section 202(1) (general interpretation) is amended as follows.
+
+(2) Omit the definition of “absent voters list”.
+
+(3) After the definition of “parliamentary election petition” insert—
+
+> “the postal voters list” means—
+>
+> (a) in relation to England and Wales and Scotland, the list of persons kept in pursuance of paragraph 5(2) of Schedule 4 to the Representation of the People Act 2000 (persons whose applications to vote by post have been granted);
+>
+> (b) in relation to Northern Ireland, the list of persons kept in pursuance of section 7(4)(a) of the Representation of the People Act 1985 (persons whose applications to vote by post have been granted);
+>
+> “the proxy postal voters list” means—
+>
+> (a) in relation to England and Wales and Scotland, the list of persons kept in pursuance of paragraph 7(8) of Schedule 4 to the Representation of the People Act 2000 (persons whose applications to vote by post as proxy have been granted);
+>
+> (b) in relation to Northern Ireland, the list of persons kept in pursuance of section 9(9) of the Representation of the People Act 1985 (persons whose applications to vote by post as proxy have been granted).
+
+**129** (1) Rule 6A of Schedule 1 (nomination papers: registered political parties) is amended as follows.
+
+(2) In paragraph (1) for “voters” substitute “ electors ”.
+
+(3) In paragraph (2) after “paragraph (1)” insert “ or (1B) ”.
+
+**130** In rule 12(3A) of that Schedule (decisions as to validity of nomination papers) after “rule 6A(1)” insert “ or (1B) ”.
+
+**131** In rule 14(5) of that Schedule (statement of persons nominated: documents to be sent to Electoral Commission) after “rule 6A” insert “ (1) or (1B) ”.
+
+**132** For rule 36 of that Schedule (challenge of voter) substitute—
+
+> **36** A person shall not be prevented from voting by reason only that—
+>
+> (a) a candidate or his election or polling agent declares that he has reasonable cause to believe that the person has committed an offence of personation, or
+>
+> (b) the person is arrested on the grounds that he is suspected of committing or of being about to commit such an offence.
+
+**133** The amendments made by paragraphs 111, 112, 114, 117 and 119 do not apply to a local government election in Scotland.
+
+#### The Representation of the People Act 1985 (c. 50)
+
+**134** In section 6 of the Representation of the People Act 1985 (absent vote at parliamentary elections for an indefinite period), in subsection (2)(b) for “physical incapacity” substitute “ disability ”.
+
+**135** (1) Schedule 1 to that Act (special polling stations in Northern Ireland) is amended as follows.
+
+(2) In paragraph 1(6) (right to vote at special polling stations) for “section 18” substitute “ section 18A ”.
+
+(3) Paragraph 7(2) (application of rules regarding ballot papers after election) is omitted.
+
+#### The Caldey Island Act 1990 (c. 44)
+
+**136** In section 4(1) of the Caldey Island Act 1990 (savings) for “sections 18” substitute “ sections 18A ”.
+
+#### The Representation of the People Act 2000 (c. 2)
+
+**137** (1) Schedule 4 to the Representation of the People Act 2000 (absent voting in Great Britain) is amended as follows.138
+
+(2) In paragraph 1(1) omit the definition of “absent voters list”.
+
+(3) In paragraph 2—
+
+(a) in sub-paragraph (7), for the words from “if he is shown” to “as so entitled” substitute “ if sub-paragraph (8) or (9) (as the case may be) applies to him in relation to the election ”;
+
+(b) after sub-paragraph (7) insert—
+
+> (8) This sub-paragraph applies to a person who is shown in the postal voters list mentioned in paragraph 5(2) below as entitled to vote by post at an election.
+>
+> (9) This sub-paragraph applies to a person who is shown in the list of proxies mentioned in paragraph 5(3) below as entitled to vote by proxy at an election.
+
+(4) In paragraph 3(3)(b) after “by reason of” insert “ blindness or other disability or, in the case of local government elections in Scotland, by reason of ”.
+
+(5) In paragraph 5(1) for “a special list (“the absent voters list”) consisting of the two” substitute “ the two special ”.
+
+(6) In paragraph 5(2) after “list” insert “ (“the postal voters list”) ”.
+
+(7) In paragraph 7(8) after “list” insert “ (“the proxy postal voters list”) ”.
+
+#### The 2000 Act
+
+**138** The 2000 Act is amended as follows.
+
+**139** In section 3 (appointment of Electoral Commissioners and Commission chairman), in subsection (4)(d) after sub-paragraph (iii) insert
+
+> , or
+>
+> (iv) been named as a participant in the register of recordable transactions reported under Part 4A.
+
+**140** In section 24 (office-holders to be registered), in subsection (4), for paragraph (a) substitute—
+
+> (a) with the provisions of Parts 3, 4 and 4A (accounting requirements and control of donations, loans and certain other transactions)
+
+.
+
+**141** In section 27 (financial structure of registered parties: accounting units), in subsection (2)(a) for “Parts III and IV” substitute “ Parts 3, 4 and 4A ”.
+
+**142** In section 29 (registration of party emblems), in subsection (2) after paragraph (c) insert—
+
+> (ca) would be likely, were it to appear on a ballot paper issued at an election—
+>
+> (i) to result in an elector being misled as to the effect of his vote, or
+>
+> (ii) to contradict, or hinder an elector's understanding of, any directions for his guidance in voting given on the ballot paper or elsewhere,
+
+.
+
+**143** (1) Section 34 (registration of minor parties) is amended as follows.
+
+(2) In subsection (3) for “three months” substitute “ six months ”.
+
+(3) In subsection (8), in paragraph (c)(i), after “sections 28(4) to (8)” insert “ , 28A ”.
+
+**144** (1) Section 50 (definition of donations for the purposes of Part 4) is amended as follows.
+
+(2) In subsection (2), omit paragraph (e).
+
+(3) In subsection (4)—
+
+(a) omit paragraph (a);
+
+(b) in the words following paragraph (b), omit “the loan or”.
+
+**145** In section 52 (payments, services etc. not to be regarded as donations), in subsection (2)(b) omit “except for the purposes of section 68,”.
+
+**146** (1) Section 53(4) (value of donations) is amended as follows.
+
+(2) For “section 50(2)(e) or (f)” substitute “ section 50(2)(f) ”.
+
+(3) In paragraph (a)—
+
+(a) omit “the loan or”;
+
+(b) omit sub-paragraph (i) and the “or” following it.
+
+**147** In section 55(2) (payments from public funds to be treated as donations received from a permissible donor), for “section 52(1)(a) and (b)” substitute “ section 52(1)(b) ”.
+
+**148** (1) Section 62 (quarterly donation reports) is amended as follows.
+
+(2) After subsection (3) insert—
+
+> (3A) “Relevant benefit”, in relation to any person and any year, means—
+>
+> (a) a relevant donation accepted by the party from that person as a donor, or
+>
+> (b) a relevant transaction within the meaning of section 71M(3) entered into by the party and that person as a participant,
+>
+> and a relevant benefit accrues when it is accepted (if it is a donation) or entered into (if it is a transaction).
+
+(3) In subsection (4)—
+
+(a) for “donation or donations” (in both places) substitute “ benefit or benefits ”;
+
+(b) after “this subsection” insert “ or section 71M(4) ”;
+
+(c) in paragraph (b) for “donations” substitute “ benefits ”.
+
+(4) In subsection (5), in paragraph (b)—
+
+(a) for “as part of” substitute “ together with any other relevant donation or donations included in ”;
+
+(b) for “donation” (in the second place) substitute “ benefit ”;
+
+(c) for “is accepted” substitute “ accrues ”.
+
+(5) In subsection (6)—
+
+(a) for “donation or donations” (in the first four places) substitute “ benefit or benefits ”;
+
+(b) after “subsection (4)” (in the first place) insert “ or section 71M(4) ”;
+
+(c) in paragraph (a), for “subsection (4)” substitute “ that provision ”;
+
+(d) in paragraph (b), after “this subsection” insert “ or section 71M(6) ”;
+
+(e) for the words following paragraph (b) substitute “ any relevant donation falling within subsection (6A) ”.
+
+(6) After subsection (6) insert—
+
+> (6A) A relevant donation falls within this subsection—
+>
+> (a) if it is a donation of more than £1,000, or
+>
+> (b) if, when it is added to any other relevant benefit or benefits accruing since the time mentioned in subsection (6)(a) or (b), the aggregate amount of the benefits is more than £1,000.
+
+(7) In subsection (7)(a), for “donation” (in the first place) substitute “ benefit ”.
+
+(8) In subsection (7)(b)—
+
+(a) for “as part of” substitute “ together with any other relevant donation or donations included in ”;
+
+(b) for “that subsection” substitute “ subsection (6A) ”;
+
+(c) for “donation” (in the second place) substitute “ benefit ”;
+
+(d) for “is accepted” substitute “ accrues ”.
+
+**149** In section 69 (register of recordable donations)—
+
+(a) omit subsection (3), and
+
+(b) in each of subsections (4) and (5), omit “or (3)”.
+
+**150** (1) Section 146 (supervisory powers of Commission) is amended as follows.
+
+(2) In subsection (7) after paragraph (a) (before “or”) insert—
+
+> (aa) a regulated participant (or former regulated participant),
+
+.
+
+(3) In subsection (8), after paragraph (a) (before “or”) insert—
+
+> (aa) such information or explanations relating to the income and expenditure of regulated participants in connection with the political activities as the Commission reasonably require for the purpose of monitoring compliance on the part of regulated participants with the requirements imposed on them by or by virtue of Schedule 7A,
+
+.
+
+(4) In subsection (9), after the definition of “regulated donee” insert—
+
+> “regulated participant” and “political activities” in relation to a regulated participant must be construed in accordance with Schedule 7A;
+
+.
+
+**151** (1) Section 148(6) (general offences) is amended as follows.
+
+(2) In paragraph (a), after “donee” insert “ regulated participant ”.
+
+(3) In paragraph (b), after sub-paragraph (ii) insert—
+
+> (iia) a regulated participant which is a members association,
+
+.
+
+(4) In paragraph (c), after sub-paragraph (iii) insert—
+
+> (iiia) in relation to a regulated participant which is a members association, the person responsible for the purposes of Schedule 7A,
+
+.
+
+(5) After paragraph (d) insert—
+
+> (da) “regulated participant” has the same meaning as in Schedule 7A;
+
+.
+
+**152** In Schedule 1 (the Electoral Commission), in paragraph 3(3) (term of office etc of Electoral Commissioners) after paragraph (c) insert—
+
+> (ca) he is named as a participant in the register of recordable transactions reported under Part 4A;
+
+.
+
+**153** In Schedule 6, after paragraph 5 insert—
+
+> **Application of reporting requirement**
+>
+> **5A** If the requirement to record the donation arises only because the value of the donation has, for the purposes of section 62(4) or (6), been aggregated with the value of any relevant transaction or transactions (within the meaning of section 71M), a quarterly report must contain a statement to that effect.
+
+**154** (1) Schedule 7 (donations to individuals and members associations by donors) is amended as follows.
+
+(2) In paragraph 2—
+
+(a) in sub-paragraph (1), omit paragraph (d);
+
+(b) in sub-paragraph (3), omit paragraph (a);
+
+(c) in sub-paragraph (3) omit “the loan or”.
+
+(3) In paragraph 4(3)(b), omit the words “except for the purposes of paragraph 14,”.
+
+(4) In paragraph 5(4)—
+
+(a) for “2(1)(d) or (e)” substitute “ 2(1)(e) ”;
+
+(b) in paragraph (a) omit “the loan or”;
+
+(c) in paragraph (a) omit sub-paragraph (i) and “or” following it.
+
+(5) In paragraph 10, for sub-paragraphs (1) and (2) substitute—
+
+> (1) A regulated donee must prepare a report under this paragraph in respect of each controlled donation accepted by the donee which is a recordable donation.
+>
+> (1A) For the purposes of this paragraph a controlled donation is a recordable donation—
+>
+> (a) if it is a donation of more than £5,000 (where the donee is a members association) or £1,000 (in any other case);
+>
+> (b) if, when it is added to any other controlled benefit or benefits accruing to the donee—
+>
+> (i) from the same person and in the same calendar year, and
+>
+> (ii) in respect of which no report has been previously made under this paragraph,
+>
+> the aggregate amount of the benefits is more than £5,000 (where the donee is a members association) or £1,000 (in any other case).
+>
+> (1B) A controlled benefit is—
+>
+> (a) a controlled donation;
+>
+> (b) a controlled transaction within the meaning of paragraph 2 of Schedule 7A.
+>
+> (1C) A controlled benefit which is a controlled donation accrues—
+>
+> (a) from the permissible donor who made it, and
+>
+> (b) when it is accepted by the donee.
+>
+> (1D) A controlled benefit which is a controlled transaction accrues—
+>
+> (a) from any authorised participant (within the meaning of paragraph 4(3) of Schedule 7A) who is a party to it, and
+>
+> (b) when it is entered into;
+>
+> and paragraph 9(6) of Schedule 7A applies for the purposes of paragraph (b) above.
+>
+> (2) A regulated donee must deliver the report prepared by virtue of sub-paragraph (1) to the Commission within the period of 30 days beginning with—
+>
+> (a) if sub-paragraph (1A)(a) applies, the date of acceptance of the donation;
+>
+> (b) if sub-paragraph (1A)(b) applies, the date on which the benefit which causes the aggregate amount to exceed £5,000 or (as the case may be) £1,000 accrues.
+
+(6) In that paragraph, in each of sub-paragraphs (6) and (7)—
+
+(a) after “In the case of” insert “ a controlled benefit which is ”;
+
+(b) for “sub-paragraph (2)(b)” substitute “ sub-paragraph (1A)(b) ”;
+
+(c) for “by the same permissible donor” substitute “ from the same person ”.
+
+(7) In paragraph 12(1), for “that provision” substitute “ paragraph 10(2) or 11(1) ”.
+
+(8) Omit Part 4 (reporting of donations by donors).
+
+(9) In paragraph 15 (register of recordable donations), omit sub-paragraph (3)(b).
+
+**155** In Schedule 20 (penalties), omit the entries relating to section 68(5) and paragraph 14(5) of Schedule 7.
+
+#### European Parliament (Representation) Act 2003 (c. 7)
+
+**[^F37]156** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 2 — Repeals
+
+*Section 74(2)*
+
+<table>
+<tbody>
+<tr><th><i>Short title and chapter</i></th><th><i>Extent of repeal</i></th></tr>
+<tr><td>Parliamentary Elections Act 1695 (c. 25)</td><td>Section 7.</td></tr>
+<tr><td>Election Act 1707 (cap. 8)</td><td>The whole Act.</td></tr>
+<tr><td>Parliamentary Elections (Ireland) Act 1823 (c. 55)</td><td>Section 74.</td></tr>
+<tr><td>Electoral Law Act (Northern Ireland) 1962 (c. 14)</td><td>In Schedule 5, in rule 2 the words “Maundy Thursday”. In Schedule 5, in the Appendix to the rules—<br>- (a) in the Form of Front of Ballot Paper, the words “Counterfoil No. The counterfoil is to have a number to correspond with that on the back of the ballot paper”<br>- (b) in the Directions as to printing the ballot paper, paragraph 3(e)<br>- (c) in the Declaration of identity Front of form the words “Ballot Paper No....................”<br>- (d) in the Directions for the guidance of voters in voting, paragraph 1 and in paragraph 6 the words “holding the paper so that the presiding officer can see the official mark on the back of it”.</td></tr>
+<tr><td>Family Law Reform Act 1969 (c. 46)</td><td>In Schedule 2, in paragraph 2, the words “section 7 of the Parliamentary Elections Act 1695”.</td></tr>
+<tr><td>British Nationality Act 1981 (c. 61)</td><td>In Schedule 7, the entry relating to the Act of Settlement.</td></tr>
+<tr><td>Representation of the People Act 1983 (c. 2)</td><td>Section 9(6). In section 10A(5), the words “the name of” and “duly”. Section 18. Section 29(4), (4A) and (4B). In section 40(1), the words “Maundy Thursday,”. In section 74A(2), the words “(determined in accordance with section 90B below)”. In section 75(1), the words from “but paragraph (c) or (d) of” to the end. In section 81, subsection (3) and in subsection (9), the words “of each such matter”. Sections 90A and 90B. In section 119(2), the words “Maundy Thursday,”. In section 202(1), the definition of “absent voters list”. In Schedule 1, in rule 2(1)(b) the words “Maundy Thursday,”. In Schedule 1, in rule 6(3)(a) the words “(of not more than 6 words in length)”. In Schedule 1, rule 19(2)(d). In Schedule 1, rule 29(3)(b). In Schedule 1, rule 37(1)(a). In Schedule 1, rule 40(1B)(a). In Schedule 1, in rule 43(1)(e), the words “the counterfoils of the used ballot papers and”. In Schedule 1, in rule 45(1B)(b), the words “and authenticated”. In Schedule 1, in rule 55—<br>- (a) in paragraph (1)(d), the words “counterfoils and”;<br>- (b) paragraphs (2) to (4). In Schedule 1, in the Appendix to the rules—<br>- (a) in the Form of Front of Ballot Paper, the words “Counterfoil No. The counterfoil is to have a number to correspond with that on the back of the ballot paper”;<br>- (b) in the Form of Back of Ballot Paper, the words “Note.— The number on the ballot paper is to correspond with that on the counterfoil”.</td></tr>
+<tr><td>Police and Criminal Evidence Act 1984 (c. 60)</td><td>In Schedule 2, the entry relating to the Representation of the People Act 1983.</td></tr>
+<tr><td>Representation of the People Act 1985 (c. 50)</td><td>In section 19(6)(b) the words “Maundy Thursday,”. Section 25(1). In Schedule 1, paragraph 7(2). In Schedule 4, paragraph 86.</td></tr>
+<tr><td>Elected Authorities (Northern Ireland) Act 1989 (c. 3)</td><td>In section 10(1), in the definition of “legal incapacity”, the words “or of any subsisting provision of the common law”.</td></tr>
+<tr><td>Representation of the People Act 2000 (c. 2)</td><td>In Schedule 4, in paragraph 1(1), the definition of “absent voters list”. In Schedule 4, paragraph 2(6)(a) and “or” following it.</td></tr>
+<tr><td>Political Parties, Elections and Referendums Act 2000 (c. 41)</td><td>Section 50(2)(e). In section 50(4), paragraph (a) and the words “the loan or”. Section 52(1)(a). In section 52(2)(b), the words “except for the purposes of section 68,”. In section 53(4)(a), the words “the loan or”, sub-paragraph (i) and the “or” following that sub-paragraph. Section 68. In section 69, subsection (3) and in subsections (4) and (5), the words “or (3)”. In section 77(9)(a) the words “Maundy Thursday,”. In Schedule 7—<br>- (a) in paragraph 2, sub-paragraph (1)(d), sub-paragraph (3)(a) and, in sub-paragraph (3), the words “the loan or”;<br>- (b) in paragraph 4(3)(b) the words “except for the purposes of paragraph 14,”;<br>- (c) in paragraph 5(4)(a), the words “the loan or”, sub-paragraph (i) and the “or” following it;<br>- (d) Part 4;<br>- (e) paragraph 15(3)(b). In Schedule 18, paragraph 7(4). In Schedule 20, the entries relating to section 68(5) and paragraph 14(5) of Schedule 7.</td></tr>
+<tr><td>Electoral Fraud (Northern Ireland) Act 2002 (c. 13)</td><td>Section 2(2). Section 3(4)(a) and (b).</td></tr>
+<tr><td>Civil Partnership Act 2004 (c. 33)</td><td>In Schedule 27, paragraph 85(2) to (5).</td></tr>
+<tr><td>This Act</td><td>Section 68.</td></tr>
+</tbody>
+<tfoot>
+<tr><td colspan="2">Note: The repeals relating to sections 74A(2), 75(1), 81, 90A, 90B and 119(2) of the 1983 Act do not have effect in relation to those provisions as they apply to a local government election in Scotland.</td></tr>
+</tfoot>
+</table>
+
+---
+
+[^F1]: Pt. 1 repealed (2.4.2013) by Electoral Registration and Administration Act 2013 (c. 6), ss. 23(1), 27(1); S.I. 2013/702, art. 3(e)
+[^F2]: S. 12(9) repealed (16.1.2024) by Elections Act 2022 (c. 37), s. 67(1), Sch. 7 para. 11(c) (with Sch. 7 para. 13); S.I. 2023/1405, reg. 2
+[^F3]: S. 26(2) repealed (29.9.2021) by Scottish Elections (Reform) Act 2020 (asp 12), ss. 20(1), 35; S.S.I. 2021/311, reg. 2, sch. (with reg. 3)
+[^F4]: S. 32(9)(b) omitted (E.W.) (10.9.2024) by virtue of Elections and Elected Bodies (Wales) Act 2024 (asc 5), s. 72(1)(a), Sch. 1 para. 4(2)
+[^F5]: Words in s. 34(1)(b) omitted (E.W.) (10.9.2024) by virtue of Elections and Elected Bodies (Wales) Act 2024 (asc 5), s. 72(1)(a), Sch. 1 para. 4(3)
+[^F6]: S. 44(7)(b) substituted (24.8.2024) by Senedd Cymru (Members and Elections) Act 2024 (asc 4), ss. 10(11), 25(2)(b) (with s. 24(1))
+[^F7]: S. 44(7)(e) repealed (31.12.2020) by The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310), reg. 1, Sch. 1 Pt. 1 (as amended by S.I. 2019/1389, regs. 1, 2(2))
+[^F8]: Words in s. 59(2) repealed (22.1.2016) by Interests of Members of the Scottish Parliament (Amendment) Act 2016 (asp 4), ss. 15(b), 16(4)
+[^F9]: S. 60 repealed (25.9.2006) by Northern Ireland (Miscellaneous Provisions) Act 2006 (c. 33), ss. 30(2), 31(4), Sch. 5
+[^F10]: Words in reg. 62 heading substituted (26.3.2015) by Recall of MPs Act 2015 (c. 25), ss. 17(2), 24(1)(c)
+[^F11]: Words in s. 62(2)(a) substituted (25.7.2012) by The Police and Crime Commissioner Elections Order 2012 (S.I. 2012/1917), arts. 1(2), 25(2)
+[^F12]: S. 62(2)(d) inserted (26.3.2015) by Recall of MPs Act 2015 (c. 25), ss. 17(3), 24(1)(c)
+[^F13]: s. 62(3A) inserted (21.7.2009) by Political Parties and Elections Act 2009 (2009 c.12), s.19(4), 43(5)(c)
+[^F14]: Words in s. 62(3A) substituted (26.3.2015) by Recall of MPs Act 2015 (c. 25), ss. 17(4), 24(1)(c)
+[^F15]: S. 62(3B) inserted (26.3.2015) by Recall of MPs Act 2015 (c. 25), ss. 17(5), 24(1)(c)
+[^F16]: Words in s. 62(8) inserted (26.3.2015) by Recall of MPs Act 2015 (c. 25), ss. 17(6), 24(1)(c)
+[^F17]: Words in s. 62(8) substituted (25.7.2012) by The Police and Crime Commissioner Elections Order 2012 (S.I. 2012/1917), arts. 1(2), 25(3)(a)
+[^F18]: Words in s. 62(8) omitted (25.7.2012) by virtue of The Police and Crime Commissioner Elections Order 2012 (S.I. 2012/1917), arts. 1(2), 25(3)(b)
+[^F19]: Words in s. 62(8) inserted (25.7.2012) by The Police and Crime Commissioner Elections Order 2012 (S.I. 2012/1917), arts. 1(2), 25(3)(c)
+[^F20]: S. 62(8A) inserted (25.7.2012) by The Police and Crime Commissioner Elections Order 2012 (S.I. 2012/1917), arts. 1(2), 25(4)
+[^F21]: S. 63(8) inserted (13.3.2014) by Northern Ireland (Miscellaneous Provisions) Act 2014 (c. 13), ss. 2(3), 28(1)(b)(iii)
+[^F22]: S. 64(3) omitted (W.) (with effect in accordance with reg. 1(3) of the amending S.I.) by virtue of The Political Parties, Elections and Referendums Act 2000 (Exclusions and Variation of Campaign Expenditure Limits) (Wales) Regulations 2025 (S.I. 2025/801), regs. 1(2), 4(3)
+[^F23]: S. 69(9)(c) repealed (31.12.2020) by The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310), reg. 1, Sch. 1 Pt. 1 (as amended by S.I. 2019/1389, regs. 1, 2(2))
+[^F24]: S. 74A omitted (8.12.2021) by virtue of The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265), art. 1(2), Sch. 2 para. 17 (with art. 12)
+[^F25]: S. 77(1)(a)-(g) repealed (2.4.2013) by Electoral Registration and Administration Act 2013 (c. 6), ss. 23(2), 27(1); S.I. 2013/702, art. 3(e)
+[^F26]: Words in s. 78(2)(a) substituted (10.9.2014 for E.W., 19.9.2014 for S.) by Northern Ireland (Miscellaneous Provisions) Act 2014 (c. 13), ss. 18(2), 28(4), 28(5)
+[^F27]: Word in s. 78(2)(a) omitted (15.9.2014) by virtue of The Anonymous Registration (Northern Ireland) Order 2014 (S.I. 2014/1116), arts. 1(1), 2(3)(a)
+[^F28]: Word in s. 78(2)(d) substituted (15.9.2014) by The Anonymous Registration (Northern Ireland) Order 2014 (S.I. 2014/1116), arts. 1(1), 2(3)(b)
+[^F29]: Sch. 1 para. 4(2) omitted (10.6.2014 for E.W., 15.9.2014 for N.I., 19.9.2014 for S.) by virtue of Electoral Registration and Administration Act 2013 (c. 6), s. 27(1), Sch. 4 para. 23 (with Sch. 5); S.I. 2014/414, art. 5(m); S.I. 2014/2439, art. 2(l)
+[^F30]: Sch. 1 para. 5 omitted (10.6.2014 for E.W., 19.9.2014 for S.) by virtue of Electoral Registration and Administration Act 2013 (c. 6), s. 27(1), Sch. 4 para. 23 (with Sch. 5); S.I. 2014/414, art. 5(m)
+[^F31]: Sch. 1 para. 6(2) omitted (10.6.2014 for E.W., 19.9.2014 for S.) by virtue of Electoral Registration and Administration Act 2013 (c. 6), s. 27(1), Sch. 4 para. 23 (with Sch. 5); S.I. 2014/414, art. 5(m)
+[^F32]: Sch. 1 para. 17 repealed (31.12.2020) by The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310), reg. 1, Sch. 1 Pt. 1 (as amended by S.I. 2019/1389, regs. 1, 2(2))
+[^F33]: Sch. 1 para. 41 repealed (31.12.2020) by The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310), reg. 1, Sch. 1 Pt. 1 (as amended by S.I. 2019/1389, regs. 1, 2(2))
+[^F34]: Words in Sch. 1 para. 107(2) inserted (6.4.2014) by Electoral Registration and Administration Act 2013 (c. 6), ss. 18(3), 27(1); S.I. 2014/414, art. 3(c) (with art. 4)
+[^F35]: Sch. 1 para. 120(3)(4) repealed (3.5.2007) by The Local Electoral Administration and Registration Services (Scotland) Act 2006 (Consequential Provisions and Modifications) Order 2007 (S.I. 2007/931), art. 3
+[^F36]: Sch. 1 para. 123 repealed (3.5.2007) by The Local Electoral Administration and Registration Services (Scotland) Act 2006 (Consequential Provisions and Modifications) Order 2007 (S.I. 2007/931), art. 3
+[^F37]: Sch. 1 para. 156 repealed (31.12.2020) by The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310), reg. 1, Sch. 1 Pt. 1 (as amended by S.I. 2019/1389, regs. 1, 2(2))

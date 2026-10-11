@@ -1,0 +1,5413 @@
+---
+title: "Local Government Act 2003"
+identifier: "ukpga/2003/26"
+citation: "2003 c. 26"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S+N.I."
+date: 2003-09-18
+last_amended: 2026-06-29
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/2003/26"
+source_modified: 2026-07-02
+retrieved: 2026-10-11
+---
+
+# Local Government Act 2003
+
+**2003 c. 26**
+
+An Act to make provision about finance, and other provision, in connection with local and certain other authorities; to provide for changing the dates of local elections in 2004; to amend the Audit Commission Act 1998; and for connected purposes.
+
+[18th September 2003]
+
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## Part 1 — Capital finance etc and accounts
+
+### Chapter 1 — Capital finance etc
+
+#### Borrowing
+
+##### 1 Power to borrow
+
+A local authority may borrow money—
+
+(a) for any purpose relevant to its functions under any enactment, or
+
+(b) for the purposes of the prudent management of its financial affairs.
+
+##### 2 Control of borrowing
+
+(1) A local authority may not borrow money if doing so would result in a breach of—
+
+(a) the limit for the time being determined by or for it under section 3, or
+
+(b) any limit for the time being applicable to it under section 4 [[^F1], or]
+
+[[^F2](c) any limit for the time being applicable to it under section 12A.]
+
+(2) The Secretary of State may, in relation to specific borrowing by a particular local authority, by direction disapply subsection (1)(b), so far as relating to any limit for the time being applicable under section 4(1).
+
+(3) A local authority may not, without the consent of the Treasury, borrow otherwise than in sterling.
+
+(4) This section applies to borrowing under any power for the time being available to a local authority under any enactment, whenever passed.
+
+##### 3 Duty to determine affordable borrowing limit
+
+(1) A local authority shall determine and keep under review how much money it can afford to borrow.
+
+(2) In the case of the following authorities, namely—
+
+(a) the Greater London Authority, and
+
+(b) a functional body,
+
+the Mayor shall determine and keep under review how much money the authority can afford to borrow.
+
+(3) Before making any determination under subsection (2), the Mayor shall consult the London Assembly.
+
+(4) Before making a determination under subsection (2) for a functional body, the Mayor shall consult that body.
+
+(5) The Secretary of State may by regulations make provision about the performance of the duty under subsection (1) or (2).
+
+(6) Regulations under subsection (5) may, in particular—
+
+(a) make provision about—
+
+(i) when a determination under subsection (1) or (2) is to be made,
+
+(ii) how such a determination is to be made, and
+
+(iii) the period for which such a determination is to be made;
+
+(b) make provision about the monitoring of an amount determined under subsection (1) or (2);
+
+(c) make provision about factors to which regard may be had in making a determination under subsection (1) or (2) or in monitoring an amount determined under that subsection.
+
+(7) Regulations under subsection (5) may include provision requiring a person making a determination under subsection (1) or (2) to have regard to one or more specified codes of practice, whether issued by the Secretary of State or another.
+
+(8) A local authority’s function under subsection (1) shall be discharged only by the authority.
+
+(9) Section 38(1) of the Greater London Authority Act 1999 (c. 29) (delegation by Mayor) does not apply in relation to functions under subsection (2).
+
+(10) The power under subsection (7) is not to be read as limited to the specification of an existing document.
+
+(11) In this section—
+
+- “functional body” has the same meaning as in the Greater London Authority Act 1999 (c. 29);
+- “local authority” does not include the Greater London Authority or a functional body;
+- “Mayor” means Mayor of London.
+
+##### 4 Imposition of borrowing limits
+
+(1) The Secretary of State may for national economic reasons by regulations set limits in relation to the borrowing of money by local authorities.
+
+(2) The Secretary of State may by direction set limits in relation to the borrowing of money by a particular local authority for the purpose of ensuring that the authority does not borrow more than it can afford.
+
+(3) Different limits may be set under subsection (1) or (2) in relation to different kinds of borrowing.
+
+(4) A local authority subject to a limit set under subsection (1) may transfer any headroom it has in relation to the limit to another local authority subject to a corresponding limit.
+
+(5) The Secretary of State may by regulations make provision about the exercise of the right under subsection (4) and may, in particular, make provision about—
+
+(a) the circumstances in which a local authority is to be regarded as having headroom for the purposes of that subsection, and
+
+(b) the amount of headroom which it has for those purposes.
+
+(6) Where an amount is transferred under subsection (4), this Chapter shall have effect—
+
+(a) in relation to the transferor, as if the limit in relation to which the headroom exists were reduced by that amount, and
+
+(b) in relation to the transferee, as if the corresponding limit to which it is subject were increased by that amount.
+
+##### 5 Temporary borrowing
+
+(1) Subject to subsection (2), any limit for the time being determined by or for a local authority under section 3, or applicable to it under section 4 [[^F3]or 12A], shall be treated for the purposes of this Chapter as increased by the amount of any payment which—
+
+(a) is due to the authority in the period to which the limit relates, but
+
+(b) has not yet been received by it.
+
+(2) In the case of a limit determined under section 3, or set under section 4(2) [[^F4]or 12A], subsection (1) shall not apply to any payment whose delayed receipt was taken into account in arriving at the limit.
+
+##### 6 Protection of lenders
+
+A person lending money to a local authority shall not be bound to enquire whether the authority has power to borrow the money and shall not be prejudiced by the absence of any such power.
+
+#### Credit arrangements
+
+##### 7 “Credit arrangements”
+
+(1) For the purposes of this Chapter, a local authority shall be taken to have entered into a credit arrangement where—
+
+(a) it enters into a transaction which gives rise to a liability on its part, and
+
+(b) the liability is a qualifying liability.
+
+(2) A transaction entered into by a local authority is to be taken for the purposes of subsection (1) as giving rise to a liability on the part of the authority if—
+
+(a) it falls in accordance with proper practices to be treated for the purposes of the authority’s accounts as giving rise to such a liability, or
+
+(b) it falls in accordance with regulations made by the Secretary of State to be treated as falling within paragraph (a).
+
+(3) The reference in subsection (1)(b) to a qualifying liability is to any liability other than—
+
+(a) a liability to repay money,
+
+(b) a liability in respect of which the date for performance is less than 12 months after the date on which the transaction giving rise to the liability is entered into, and
+
+(c) a liability of a description specified for the purposes of this provision by regulations made by the Secretary of State.
+
+##### 8 Control of credit arrangements
+
+(1) A local authority may not enter into, or vary, a credit arrangement if doing so would result in a breach of—
+
+(a) the limit for the time being determined by or for it under section 3, or
+
+(b) any limit for the time being applicable to it under section 4 [[^F5], or]
+
+[[^F6](c) any limit for the time being applicable to it under section 12A.]
+
+(2) In applying those limits for the purposes of subsection (1)—
+
+(a) entry into a credit arrangement shall be treated as the borrowing of an amount of money equal to the cost of the arrangement, and
+
+(b) variation of a credit arrangement shall be treated as the borrowing of an amount of money equal to the cost of the variation.
+
+(3) The Secretary of State may by regulations make provision about the calculation for the purposes of subsection (2) of the cost of a credit arrangement or a variation and may, in particular, make provision about the treatment of options.
+
+#### Capital receipts
+
+##### 9 “Capital receipt”
+
+(1) Subject to subsection (3), references in this Chapter to a capital receipt, in relation to a local authority, are to a sum received by the authority in respect of the disposal by it of an interest in a capital asset.
+
+(2) An asset is a capital asset for the purposes of subsection (1) if, at the time of the disposal, expenditure on the acquisition of the asset would be capital expenditure.
+
+(3) The Secretary of State may by regulations—
+
+(a) make provision for the whole of a sum received by a local authority in respect of the disposal by it of an interest in a capital asset, or such part of such a sum as may be determined under the regulations, to be treated as not being a capital receipt for the purposes of this Chapter;
+
+(b) make provision for the whole of a sum received by a local authority otherwise than in respect of the disposal by it of an interest in a capital asset, or such part of such a sum as may be determined under the regulations, to be treated as being a capital receipt for the purposes of this Chapter.
+
+(4) Where a sum becomes payable to a local authority before it is actually received by the authority, it shall be treated for the purposes of this section as received by the authority when it becomes payable to it.
+
+##### 10 Non-money receipts
+
+(1) The Secretary of State may by regulations apply section 9 to cases where—
+
+(a) a local authority makes a disposal of the kind mentioned in subsection (1) of that section and the consideration for the disposal does not consist wholly of money payable to the authority, or
+
+(b) a local authority receives otherwise than in the form of money anything which, if received in that form, would be a capital receipt under that section.
+
+(2) Regulations under subsection (1) may, in particular—
+
+(a) make provision for a local authority to be treated as receiving a sum of such an amount as may be determined under the regulations;
+
+(b) make provision about when the deemed receipt is to be treated as taking place.
+
+##### 11 Use of capital receipts
+
+(1) The Secretary of State may by regulations make provision about the use of capital receipts by a local authority.
+
+(2) Regulations under subsection (1) may, in particular—
+
+(a) make provision requiring an amount equal to the whole or any part of a capital receipt to be used only to meet—
+
+(i) capital expenditure, or
+
+(ii) debts or other liabilities;
+
+(b) make provision requiring an amount equal to the whole or any part of a capital receipt to be paid to the Secretary of State.
+
+(3) The power under subsection (1), so far as relating to provision of the kind mentioned in subsection (2)(b), shall only apply to receipts which a local authority derives from the disposal of an interest in housing land.
+
+(4) The reference in subsection (3) to housing land is to any land, house or other building in relation to which the local authority is, or has been, subject to the duty under section 74 of the Local Government and Housing Act 1989 (c. 42) (duty to keep Housing Revenue Account).
+
+(5) Regulations under subsection (1) may include provision authorising the Secretary of State to set off any amount which an authority [[^F7]in Wales] is liable to pay to him under this section against any amount which he is liable to pay to it.
+
+[[^F8](5A) Where the Secretary of State is liable to repay an amount that has been overpaid by a local housing authority in England under this section, the Secretary of State may set off against the amount of the repayment any amount that the authority is liable to pay the Secretary of State under—
+
+(a) this section, or
+
+(b) section 69 of the Housing and Planning Act 2016 (payments in respect of vacant higher value housing).]
+
+[[^F9](6) The Secretary of State and a local authority in England may enter into an agreement with the effect that a requirement imposed under subsection (2)(b) does not apply to, or is modified in its application to, capital receipts of the authority that are specified or described in the agreement.]
+
+#### Investment
+
+##### 12 Power to invest
+
+A local authority may invest—
+
+(a) for any purpose relevant to its functions under any enactment, or
+
+(b) for the purposes of the prudent management of its financial affairs.
+
+[[^F10]This is subject to a direction under section 12A (risk-mitigation directions).]
+
+#### [[^F11]Risk management: England
+
+##### 12A Risk-mitigation directions
+
+(1) The Secretary of State may give one or more risk-mitigation directions to a local authority in England, for the purpose of reducing or mitigating the financial risk to the authority, if—
+
+(a) a trigger event has occurred in relation to the local authority, and
+
+(b) the Secretary of State is satisfied that the direction is, or (as the case may be) directions are, appropriate and proportionate to the level of that financial risk.
+
+(2) A “trigger event” occurs if (and when)—
+
+(a) a risk threshold is breached by the local authority (see section 12B);
+
+(b) a report is made by the chief finance officer of the local authority under section 114(3) of the Local Government Finance Act 1988 (report to effect that authority’s expenditure is likely to exceed available resources); or
+
+(c) the Secretary of State—
+
+(i) gives a direction under section 16(2)(b) (request for expenditure to be, or not be, treated as capital) in respect of the local authority, or
+
+(ii) makes a grant to the local authority under an enactment,
+
+for the purpose of preventing circumstances arising that would require such a report to be made.
+
+(3) The following are “risk-mitigation directions”—
+
+(a) a direction that sets limits in relation to the borrowing of money by the local authority;
+
+(b) a direction that requires the local authority to take action specified in the direction.
+
+(4) A direction under subsection (3)(a)—
+
+(a) may set different limits in relation to different kinds of borrowing;
+
+(b) must specify the period for which any limit has effect.
+
+(5) A direction under subsection (3)(b)—
+
+(a) may (amongst other things) require the local authority to take action to divest itself of a specified asset;
+
+(b) must specify the time by which any specified action must be taken.
+
+(6) In deciding whether or not to exercise a power to give a direction under this section, the Secretary of State must have regard to—
+
+(a) the likely impact of the direction on the provision of services to the public by or on behalf of the local authority;
+
+(b) the duty imposed on the local authority by section 3(1) of the Local Government Act 1999 (best value duty).
+
+(7) In deciding whether or not to exercise a power to give a direction under this section, the Secretary of State may, in particular, take account of the likely impact of that decision on the implementation of any central government policy, project or programme.
+
+(8) The Secretary of State may not give a risk-mitigation direction unless the Secretary of State—
+
+(a) has given the local authority notice of the proposed direction, and of the right of the local authority to make written representations to the Secretary of State about it within the period specified in the notice, and
+
+(b) has considered any representations made by the local authority to the Secretary of State within that period.
+
+(9) In this section, “financial risk”, in relation to a local authority, means the risk that the expenditure of the local authority (including expenditure it proposes to incur) in the current or any future financial year is likely to exceed, or further exceed, the resources (including sums borrowed) available to it to meet that expenditure.
+
+(10) This section is subject to section 12C (restriction of power to give risk-mitigation directions).
+
+##### 12B Risk thresholds
+
+(1) For the purposes of section 12A(2)(a), a risk threshold is breached by a local authority in England if (and when) a capital risk metric for the local authority breaches the specified threshold for that metric.
+
+(2) Each of the following is a “capital risk metric”—
+
+(a) the total of a local authority’s debt (including credit arrangements) as compared to the financial resources at the disposal of the authority;
+
+(b) the proportion of the total of a local authority’s capital assets which is investments made, or held, wholly or mainly in order to generate financial return;
+
+(c) the proportion of the total of a local authority’s debt (including credit arrangements) in relation to which the counter-party is not central government or a local authority;
+
+(d) the amount of minimum revenue provision charged by a local authority to a revenue account for a financial year;
+
+(e) any other metric specified by regulations made by the Secretary of State.
+
+(3) The Secretary of State may, by regulations, make further provision—
+
+(a) specifying whether the specified threshold for a particular metric is breached by a failure to reach that threshold or by that threshold being exceeded;
+
+(b) about how the metrics specified in, or under, subsection (2) are to be calculated for the purpose of determining whether the specified threshold for that metric has been breached.
+
+(4) Before making regulations under subsection (2)(e), the Secretary of State must consult all local authorities in England.
+
+(5) In this section—
+
+- “capital asset” has the meaning given by section 9;
+- “minimum revenue provision” has the meaning given by regulation 27 of the Local Authorities (Capital Finance and Accounting)(England) Regulations 2003 (S.I. 2003/3146);
+- “specified” means specified, or determined in a manner specified, in regulations made by the Secretary of State.
+
+(6) Regulations may require a specified threshold to be determined having regard to guidance issued under section 21(1A) (accounting practices).
+
+##### 12C Restriction of power to give risk-mitigation directions
+
+(1) If, after the power to give risk-mitigation directions becomes exercisable under section 12A(1) in relation to a local authority—
+
+(a) at least 12 months have elapsed since the Secretary of State last became aware of a trigger event having occurred in relation to the authority,
+
+(b) any risk-mitigation direction given to the authority has been complied with or revoked, and
+
+(c) the Secretary of State is satisfied no further risk-mitigation direction is likely to be required in the foreseeable future for the purpose of reducing or mitigating the financial risk to the authority,
+
+the Secretary of State must give the local authority a notice to that effect (“a cessation notice”).
+
+(2) Where a cessation notice is given, the power conferred by section 12A(1) is no longer exercisable, in relation to that authority, by reason of any trigger event of which the Secretary of State was aware at the time that notice was given.
+
+(3) In this section “risk-mitigation direction”, “trigger event” and “financial risk” have the same meaning as in section 12A.
+
+##### 12D Duty to cooperate with independent expert
+
+(1) This section applies where—
+
+(a) a trigger event has occurred in relation to a local authority in England,
+
+(b) section 12C (2) does not apply to prevent the power conferred by section 12A(1) being exercisable, in relation to that authority, by reason of that event, and
+
+(c) the Secretary of State has appointed an independent expert to review the level of the financial risk to the local authority.
+
+(2) The local authority must, so far as reasonably practicable, co-operate with the independent expert in any way that the independent expert considers necessary or expedient for the purposes of the conduct of the review.
+
+(3) In this section—
+
+- “financial risk” has the same meaning as in section 12A;
+
+- “independent expert” means a person—
+
+  - who is independent of the local authority and the Secretary of State, and
+  - who has relevant experience or knowledge which is relevant to the matter in question;
+
+- “trigger event” has the same meaning as in section 12A.]
+
+#### Miscellaneous
+
+##### 13 Security for money borrowed etc
+
+(1) Except as provided by subsection (3), a local authority may not mortgage or charge any of its property as security for money which it has borrowed or which it otherwise owes.
+
+(2) Security given in breach of subsection (1) shall be unenforceable.
+
+(3) All money borrowed by a local authority (whether before or after the coming into force of this section), together with any interest on the money borrowed, shall be charged indifferently on all the revenues of the authority.
+
+(4) All securities created by a local authority shall rank equally without any priority.
+
+(5) The High Court may appoint a receiver on application by a person entitled to principal or interest due in respect of any borrowing by a local authority if the amount due remains unpaid for a period of two months after demand in writing.
+
+(6) The High Court may appoint a receiver under subsection (5) on such terms, and confer on him such powers, as it thinks fit.
+
+(7) The High Court may confer on a receiver appointed under subsection (5) any powers which the local authority has in relation to—
+
+(a) collecting, receiving or recovering the revenues of the local authority,
+
+(b) issuing levies or precepts, or
+
+(c) setting, collecting or recovering council tax.
+
+(8) No application under subsection (5) may be made unless the sum due in respect of the borrowing concerned amounts to not less than £10,000.
+
+(9) The Secretary of State may by order substitute a different sum for the one for the time being specified in subsection (8).
+
+##### 14 Information
+
+A local authority shall supply the Secretary of State with such information relating to any of the matters dealt with in this Chapter, and at such time, as he may request.
+
+#### Supplementary
+
+##### 15 Guidance
+
+(1) In carrying out its functions under this Chapter, a local authority shall have regard—
+
+(a) to such guidance as the Secretary of State may issue, and
+
+(b) to such other guidance as the Secretary of State may by regulations specify for the purposes of this provision.
+
+(2) The power under subsection (1)(b) is not to be read as limited to the specification of existing guidance.
+
+##### 16 “Capital expenditure”
+
+(1) Subject to subsection (2), references in this Chapter to capital expenditure, in relation to a local authority, are to expenditure of the authority which falls to be capitalised in accordance with proper practices.
+
+(2) The Secretary of State may—
+
+(a) by regulations provide that expenditure of local authorities shall be treated for the purposes of this Chapter as being, or as not being, capital expenditure;
+
+(b) by direction provide that expenditure of a particular local authority shall be treated for the purposes of this Chapter as being, or as not being, capital expenditure.
+
+##### 17 External funds
+
+(1) For the purposes of this Chapter—
+
+(a) borrowing of money by a local authority for the purposes of an external fund shall be treated as not being borrowing by the authority;
+
+(b) the temporary use by a local authority of money forming part of an external fund, if not for a purpose of the fund, shall be treated as borrowing by the authority;
+
+(c) entry into a credit arrangement by a local authority for the purposes of an external fund shall be treated as not being entry into a credit arrangement by the authority;
+
+(d) a disposal by a local authority of—
+
+(i) an interest in an asset which, at the time of the disposal, is an asset of an external fund, or
+
+(ii) an investment held for the purposes of such a fund,
+
+shall be treated as not being a disposal by the authority;
+
+(e) the making of an investment by a local authority for the purposes of an external fund shall be treated as not being the making of an investment by the authority;
+
+(f) expenditure incurred by a local authority in respect of payments out of an external fund shall be treated as not being expenditure of the authority.
+
+(2) In this section, references to an external fund, in relation to a local authority, are to—
+
+(a) a superannuation fund which the authority is required to keep by virtue of the Superannuation Act 1972 (c. 11), or
+
+(b) a trust fund of which the authority is a trustee.
+
+##### 18 Local authority companies etc
+
+(1) The Secretary of State may, for the purposes of this Chapter, by regulations make provision for things done by or to a body mentioned in subsection (2) to be treated, in such cases and to such extent as the regulations may provide, as done by or to a local authority specified in, or determined in accordance with, the regulations.
+
+(2) Those bodies are—
+
+(a) a Passenger Transport Executive,
+
+(b) a company which, in accordance with Part 5 of the Local Government and Housing Act 1989 (c. 42) (companies in which local authorities have interests), is under the control, or for the time being subject to the influence, of a local authority or a Passenger Transport Executive, and
+
+(c) a trust to which the provisions of section 69 of that Act (companies subject to local authority influence) are applicable because of an order under section 72 of that Act (trusts influenced by local authorities).
+
+(3) A local authority to which regulations under this section apply and any body or bodies falling within subsection (2)(a) or (b) with which the regulations link the authority are referred to in this section as the members of a local authority group.
+
+(4) Regulations under this section may include—
+
+(a) provision for the application of any of the provisions of this Chapter to members of a local authority group subject to such modifications as the regulations may specify;
+
+(b) provision as to the way in which—
+
+(i) dealings between members of a local authority group, or
+
+(ii) changes in the capitalisation or capital structure of a company in a local authority group,
+
+are to be brought into account for the purposes of this Chapter.
+
+##### 19 Application to parish and community councils
+
+(1) In sections 2(3) and (4), 6, [[^F12]9 to 12, 13], 15, 16, 17(1)(a), (b) and (d) to (f) and (2) and 18, references to a local authority include a parish council, a community council and charter trustees.
+
+(2) Schedule 1 (which makes provision about capital finance in relation to parish and community councils and charter trustees) has effect.
+
+(3) The appropriate person may by regulations—
+
+(a) apply any of the other provisions of this Chapter to parish or community councils or charter trustees, or parish or community councils or charter trustees of any description, with or without modifications, and
+
+(b) make any corresponding disapplication of any of the provisions of Schedule 1.
+
+##### 20 Directions
+
+(1) Directions under this Chapter shall be in writing.
+
+(2) Directions under this Chapter may be expressed to have effect in specified circumstances or subject to specified conditions.
+
+(3) Any power to give a direction under this Chapter includes power to give a direction varying or revoking a previous direction given in exercise of the power.
+
+### Chapter 2 — Accounts
+
+#### 21 Accounting practices
+
+(1) The Secretary of State may by regulations make provision about the accounting practices to be followed by a local authority, in particular with respect to the charging of expenditure to a revenue account.
+
+[[^F13](1A) The Secretary of State may issue guidance about the accounting practices to be followed by a local authority, in particular with respect to the charging of expenditure to a revenue account.
+
+(1B) A local authority must have regard to any guidance issued to it under subsection (1A).]
+
+(2) In any enactment to which this subsection applies, reference to proper practices, in relation to accounts of a local authority, is to those accounting practices—
+
+(a) which the authority is required to follow by virtue of any enactment, or
+
+(b) which are contained in a code of practice or other document which is identified for the purposes of this provision by regulations made by the Secretary of State.
+
+(3) In the event of conflict between practices falling within paragraph (a) of subsection (2) and practices falling within paragraph (b) of that subsection, only those falling within paragraph (a) are to be regarded as proper practices.
+
+(4) Subsections (2) and (3) apply to any enactment contained in—
+
+(a) this Act,
+
+(b) any Act passed after or in the same Session as this Act,
+
+(c) the Local Government and Housing Act 1989 (c. 42),
+
+[[^F14](ca) the Local Government Finance Act 1992 (c. 14),]
+
+[^F15]d . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[[^F16](da) the Greater London Authority Act 1999 (c. 29), and]
+
+(e) subordinate legislation (within the meaning of the Interpretation Act 1978 (c. 30)) whenever made.
+
+(5) The power under subsection (2)(b) is not to be read as limited to the identification of an existing document.
+
+[[^F17](6) In this section, “local authority” includes—
+
+(a) a parish council,
+
+(b) a parish meeting of a parish which does not have a separate parish council,
+
+(c) a community council,
+
+(d) a Passenger Transport Executive,
+
+(e) the London Waste and Recycling Board,
+
+(f) charter trustees (within the meaning of the Local Audit and Accountability Act 2014),
+
+(g) a port health authority for a port health district that is wholly in England,
+
+(h) a conservation board established by order of the Secretary of State under section 86 of the Countryside and Rights of Way Act 2000,
+
+(i) a chief constable for a police force for a police area in England,
+
+(j) the Commissioner of Police of the Metropolis,
+
+(k) an internal drainage board for an internal drainage district—
+
+(i) wholly in England, or
+
+(ii) partly in England and partly in Wales, and
+
+(l) any other person or body which for the time being is a relevant authority for the purposes of the Local Audit and Accountability Act 2014 and—
+
+(i) is not listed in paragraphs (a) to (k) or section 23(1),
+
+(ii) is not a health service body (within the meaning of that Act),
+
+(iii) is not specified in regulations under section 23(2), and
+
+(iv) does not fall within a class of bodies so specified.]
+
+#### 22 “Revenue account”
+
+(1) References to a revenue account, in relation to a local authority, are to one of the following accounts for a financial year of the authority—
+
+(a) a revenue account which the authority is required to keep by virtue of any enactment;
+
+(b) a revenue account which the authority is required to keep in order to comply with proper practices;
+
+(c) any other revenue account which the authority decides to keep in accordance with proper practices.
+
+(2) This section has effect for the purposes of—
+
+(a) the Local Government and Housing Act 1989 (c. 42),
+
+(b) any enactment passed after or in the same Session as that Act, and
+
+(c) any earlier enactment amended by that Act or an enactment falling within paragraph (b).
+
+[[^F18](3) In this section, “local authority” includes—
+
+(a) a parish council,
+
+(b) a parish meeting of a parish which does not have a separate parish council,
+
+(c) a community council,
+
+(d) a Passenger Transport Executive,
+
+(e) the London Waste and Recycling Board,
+
+(f) charter trustees (within the meaning of the Local Audit and Accountability Act 2014),
+
+(g) a port health authority for a port health district that is wholly in England,
+
+(h) a conservation board established by order of the Secretary of State under section 86 of the Countryside and Rights of Way Act 2000,
+
+(i) a chief constable for a police force for a police area in England,
+
+(j) the Commissioner of Police of the Metropolis,
+
+(k) an internal drainage board for an internal drainage district—
+
+(i) wholly in England, or
+
+(ii) partly in England and partly in Wales, and
+
+(l) any other person or body which for the time being is a relevant authority for the purposes of the Local Audit and Accountability Act 2014 and—
+
+(i) is not listed in paragraphs (a) to (k) or section 23(1),
+
+(ii) is not a health service body (within the meaning of that Act),
+
+(iii) is not specified in regulations under section 23(2), and
+
+(iv) does not fall within a class of bodies so specified.]
+
+### Chapter 3 — General
+
+#### 23 “Local authority”
+
+(1) The following are local authorities for the purposes of this Part—
+
+(a) a county council;
+
+(b) a county borough council;
+
+(c) a district council;
+
+(d) the Greater London Authority;
+
+(e) a functional body, within the meaning of the Greater London Authority Act 1999 (c. 29);
+
+(f) a London borough council;
+
+(g) the Common Council of the City of London, in its capacity as a local authority, police authority or port health authority;
+
+(h) the Council of the Isles of Scilly;
+
+[^F19]i . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(j) an authority established under section 10 of the Local Government Act 1985 (c. 51) (waste disposal authorities);
+
+(k) a joint authority established by Part 4 of that Act [[^F20](fire and rescue services and transport)];
+
+[^F21]ka . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(l) a joint planning board constituted for an area in Wales outside a National Park by an order under section 2(1B) of the Town and Country Planning Act 1990 (c. 8);
+
+[[^F22](m) a fire and rescue authority constituted by a scheme under section 2 of the Fire and Rescue Services Act 2004 or a scheme to which section 4 of that Act applies;]
+
+[[^F23](ma) a fire and rescue authority created by an order under section 4A of that Act;]
+
+[[^F24](n) a police and crime commissioner;]
+
+(o) any other body specified for the purposes of this subsection by regulations under subsection (2).
+
+(2) The Secretary of State may by regulations specify for the purposes of subsection (1) any body which is (or any class of bodies each of which is)—
+
+(a) a levying body, within the meaning of section 74 of the Local Government Finance Act 1988 (c. 41),
+
+(b) a body to which section 75 of that Act applies (bodies with power to issue special levies),
+
+(c) a body to which section 118 of that Act applies (other bodies with levying powers),
+
+(d) a local precepting authority as defined in section 69 of the Local Government Finance Act 1992 (c. 14).
+
+(3) Regulations under subsection (2) may provide for this Part to have effect, in relation to a body specified under that subsection, subject to exceptions or modifications.
+
+[[^F25](4) This Part, other than sections 1 to 8, [[^F26] 12A to 12D,] 13 and 17 (borrowing etc), applies in relation to an economic prosperity board established under section 88 of the Local Democracy, Economic Development and Construction Act 2009 as it applies in relation to a local authority.
+
+(5) This Part applies in relation to a combined authority established under section 103 of that Act as it applies in relation to a local authority, [[^F27]except that—
+
+(a) the power conferred by section 1 on a mayoral combined authority is subject to the requirements in subsection (9A) to obtain consent from the Secretary of State, and
+
+(b) section 1 confers power on a non-mayoral combined authority] to borrow money for a purpose relevant to its transport functions only [[^F28]or in relation to any other functions of the authority that are specified for the purposes of this subsection in regulations made by the Secretary of State].]
+
+[[^F29](6) A function of a combined authority may be specified in regulations under subsection (5) only with the consent of—
+
+(a) each county council the whole or any part of whose area is within the area of the authority,
+
+(b) each district council whose area is within the area of the authority, and
+
+(c) in the case of regulations in relation to an existing combined authority, the combined authority.
+
+(7) Subsection (6) is subject to section 106A of the Local Democracy, Economic Development and Construction Act 2009 (which enables regulations to be made without the consent of every authority within paragraphs (a) and (b) of that subsection in certain circumstances).
+
+(8) [[^F30]A reference in subsection (5) or (9A)] to functions of the authority includes, in the case of a mayoral combined authority, mayoral functions.
+
+[[^F31](8A) This Part applies in relation to a combined county authority (a “CCA”) established under section 9(1) of the Levelling-up and Regeneration Act 2023 as it applies in relation to a local authority, [[^F32]except that—
+
+(a) the power conferred by section 1 on a mayoral CCA is subject to the requirements in subsection (9A) to obtain consent from the Secretary of State, and
+
+(b) section 1 confers power on a non-mayoral CCA] to borrow money in relation only to functions of the CCA that are specified for the purposes of this subsection in regulations made by the Secretary of State.
+
+(8B) A function of a CCA may be specified in regulations under subsection (8A) only with the consent of—
+
+(a) each county council for an area within the CCA’s area or proposed area,
+
+(b) each unitary district council for an area within the CCA’s area or proposed area, and
+
+(c) in the case of regulations in relation to an existing CCA, the CCA.
+
+In this subsection “unitary district council” means a district council whose area does not form part of the area of a county council.
+
+(8C) [[^F33]A reference in subsection (8A) or (9A)] to functions of the authority includes, in the case of a mayoral CCA, mayoral functions.
+
+(8D) In subsection (8C)—
+
+- “mayoral CCA” has the meaning given by section 27(8) of the Levelling-up and Regeneration Act 2023;
+- “mayoral functions” has the meaning given by section 41(8) of that Act.]
+
+(9) In subsection (8)—
+
+- “mayoral combined authority” has the meaning given by section 107A(8) of the Local Democracy, Economic Development and Construction Act 2009;
+- “mayoral functions” has the meaning given by section 107G(7) of that Act.
+
+[[^F34](9A) These are the requirements to obtain consent from the Secretary of State which apply to the exercise of the power conferred by section 1 on a mayoral combined authority or mayoral CCA—
+
+(a) if the combined authority or CCA had the power to borrow under section 1 before the applicable commencement day, it does not need to obtain consent from the Secretary of State before any exercise of the power to borrow;
+
+(b) if the combined authority or CCA did not have the power to borrow under section 1 before the applicable commencement day—
+
+(i) it does not need to obtain consent from the Secretary of State before any exercise of the power to borrow money for a purpose relevant to its transport, police or fire and rescue functions;
+
+(ii) it must obtain consent from the Secretary of State before the first exercise of the power to borrow money for a purpose relevant to a function other than its transport, police or fire and rescue functions;
+
+(iii) once it has obtained consent in accordance with sub-paragraph (ii) (in relation to any kind of function), it does not need to obtain any further consent under that sub-paragraph (whether in relation to the same kind, or a different kind, of function).
+
+(9B) In this section—
+
+- “applicable commencement day” means the day on which section 13 of the English Devolution and Community Empowerment Act 2026 comes into force;
+
+- “non-mayoral CCA” means a CCA other than a mayoral CCA;
+
+- “non-mayoral combined authority” means a combined authority other than a mayoral combined authority;
+
+- “transport, police or fire and rescue functions”, in relation to a mayoral combined authority or mayoral CCA, means—
+
+  - transport functions of the combined authority or CCA,
+  - functions of a police and crime commissioner exercisable by the mayor for the area of the combined authority or CCA, and
+  - functions of a fire and rescue authority exercisable by the mayor for the area of the combined authority or CCA.]
+
+(10) No regulations under subsection (5) [[^F35]or (8A)] may be made unless a draft of the statutory instrument containing the regulations (whether containing them alone or with other provisions) has been laid before, and approved by a resolution of, each House of Parliament.]
+
+[[^F36](10A) If a draft of a statutory instrument containing regulations under subsection (5) or (8A) would, apart from this subsection, be treated for the purposes of the standing orders of either House of Parliament as a hybrid instrument, it is to proceed in that House as if it were not such an instrument.]
+
+[[^F37](11) This Part applies in relation to a corporate joint committee established by regulations made under Part 5 of the Local Government and Elections (Wales) Act 2021 as it applies in relation to a local authority.]
+
+#### 24 Wales
+
+In its application to Wales, this Part, except section 19 and Schedule 1, has effect as if for any reference to the Secretary of State there were substituted a reference to the [[^F38]Welsh Ministers].
+
+[[^F39](1A) Subsection (1) does not apply to section 21 to the extent that it confers functions on the Secretary of State in relation to a person or body that—
+
+(a) is a relevant authority for the purposes of the Local Audit and Accountability Act 2014, and
+
+(b) exercises functions in relation to an area that is partly in England and partly in Wales.]
+
+## Part 2 — Financial administration
+
+### 25 Budget calculations: report on robustness of estimates etc
+
+(1) Where an authority to which section [[^F40]31A, 32, 42A] or 43 of the Local Government Finance Act 1992 (billing or major precepting authority) or section 85 of the Greater London Authority Act 1999 (c. 29) (Greater London Authority) applies is making calculations in accordance with that section, the chief finance officer of the authority must report to it on the following matters—
+
+(a) the robustness of the estimates made for the purposes of the calculations, and
+
+(b) the adequacy of the proposed financial reserves.
+
+(2) An authority to which a report under this section is made shall have regard to the report when making decisions about the calculations in connection with which it is made.
+
+(3) In this section, “chief finance officer”, in relation to an authority, means the officer having responsibility for the administration of the authority’s financial affairs for the purposes of—
+
+(a) section 151 of the Local Government Act 1972 (c. 70),
+
+(b) section 73 of the Local Government Act 1985 (c. 51),
+
+(c) section 112 of the Local Government Finance Act 1988 (c. 41),
+
+(d) section 6 of the Local Government and Housing Act 1989 (c. 42), [^F41]...
+
+(e) section 127(2) of the Greater London Authority Act 1999, [[^F42]or
+
+(f) Schedule 1, 2 or 4 to the Police Reform and Social Responsibility Act 2011]
+
+### 26 Minimum reserves
+
+(1) This section has effect in relation to the estimation of financial reserves for the purpose of calculations in accordance with—
+
+(a) section [[^F43]31A or] 32 of the Local Government Finance Act 1992 (calculation by billing authority of [[^F44]council tax or] budget requirement for financial year),
+
+(b) section [[^F45]42A or] 43 of that Act (corresponding provision for major precepting authority), or
+
+(c) section 85 of the Greater London Authority Act 1999 (calculation by Greater London Authority of component and consolidated budget requirements for financial year).
+
+(2) In the case of a controlled reserve, it shall not be regarded as appropriate for the balance of the reserve at the end of the financial year under consideration to be less than the minimum amount determined in accordance with regulations made by the appropriate person.
+
+(3) In subsection (2), “controlled reserve” means a financial reserve of a description specified for the purposes of this section by regulations made by the appropriate person.
+
+(4) Different provision may be made under subsection (2) for different descriptions of financial reserve.
+
+### 27 Budget calculations: report on inadequacy of controlled reserve
+
+(1) This section applies where an authority to which section [[^F46]31A, 32, 42A] or 43 of the Local Government Finance Act 1992 (c. 14) or section 85 of the Greater London Authority Act 1999 (c. 29) applies is making calculations in accordance with that section.
+
+(2) If in relation to the previous financial year it appears to the chief finance officer that a controlled reserve is or is likely to be inadequate, he must report to the authority on—
+
+(a) the reasons for that situation, and
+
+(b) the action, if any, which he considers it would be appropriate to take to prevent such a situation arising in relation to the corresponding reserve for the financial year under consideration.
+
+(3) For the purposes of subsection (2)—
+
+(a) a controlled reserve is a financial reserve of a description specified by regulations under section 26(3), and
+
+(b) such a reserve is inadequate if the balance of the reserve at the end of the financial year concerned is less than the minimum amount determined in accordance with regulations under section 26(2).
+
+(4) An authority to which a report under this section is made shall have regard to the report when making decisions about the calculations in connection with which it is made.
+
+(5) In this section, “chief finance officer” has the same meaning as in section 25.
+
+### 28 Budget monitoring: general
+
+(1) Where in relation to a financial year an authority to which section [[^F47]31A, 32, 42A] or 43 of the Local Government Finance Act 1992 (billing or major precepting authority) applies has made the calculations required by that section, it must review them from time to time during the year.
+
+(2) In carrying out a review under subsection (1), an authority must use the same figures for financial reserves as those used in the calculations under review, except in the case of financial reserves to meet a revenue account deficit from an earlier financial year.
+
+(3) If as a result of carrying out a review under subsection (1) it appears to the authority that carried out the review that there has been a deterioration in its financial position, it must take such action, if any, as it considers necessary to deal with the situation.
+
+(4) For the purposes of subsection (3), there is a deterioration in an authority’s financial position if on the review an amount falls to be calculated under section [[^F48]31A(4), 32(4), 42A(4)] or 43(4) of the Local Government Finance Act 1992 (c. 14) ([[^F49]council tax or] budget requirement) and—
+
+(a) none fell to be calculated under that provision at the time of the calculations under review, or
+
+(b) an amount did then fall to be calculated under that provision and the amount then calculated is less than the amount calculated on the review.
+
+(5) Where substitute calculations have effect, it is those calculations to which the duty under subsection (1) applies.
+
+### 29 Budget monitoring: Greater London Authority
+
+(1) Where in relation to a financial year the Greater London Authority has made the calculations required by section 85(3) to (7) of the Greater London Authority Act 1999 (c. 29) (calculation of component budget requirement for each constituent body), each of the bodies in respect of which the calculations have been made must from time to time during the year review the calculations relating to it.
+
+(2) In carrying out a review under subsection (1), a body must use the same figures for financial reserves as those used in the calculations under review, except in the case of financial reserves to meet a revenue account deficit from an earlier financial year.
+
+(3) If as a result of carrying out a review under subsection (1) it appears to the body that carried out the review that there has been a deterioration in its financial position, it must—
+
+(a) take such action, if any, as it considers necessary to deal with the situation, and
+
+(b) if it is a functional body, report the deterioration to—
+
+(i) the Mayor of London, and
+
+(ii) the Chair of the London Assembly.
+
+(4) A report under subsection (3)(b) shall—
+
+(a) include a statement of the reasons for the deterioration, and
+
+(b) set out what action, if any, the body making the report proposes to take to deal with the situation.
+
+(5) For the purposes of subsection (3), there is a deterioration in a body’s financial position if on the review an amount falls to be calculated under section 85(6) of the Greater London Authority Act 1999 (component budget requirement) and—
+
+(a) none fell to be calculated under that provision at the time of the calculations under review, or
+
+(b) an amount did then fall to be calculated under that provision and the amount then calculated is less than the amount calculated on the review.
+
+(6) Where substitute calculations have effect, it is those calculations to which the duty under subsection (1) applies.
+
+(7) In this section, “functional body” has the same meaning as in the Greater London Authority Act 1999.
+
+### 30 Authorisation of agreements during the prohibition period
+
+(1) In section 115 of the Local Government Finance Act 1988 (c. 41) (which sets out the consequences for a relevant authority of the receipt of a report made by its chief finance officer under section 114(3)), in subsection (6) (which prevents an authority that has received such a report from entering into certain agreements during the prohibition period), at the end there is inserted “ unless the chief finance officer of the authority authorises it to do so ”.
+
+(2) After that subsection there is inserted—
+
+> (6A) The chief finance officer may only give authority for the purposes of subsection (6) above if he considers that the agreement concerned is likely to—
+>
+> (a) prevent the situation that led him to make the report from getting worse,
+>
+> (b) improve the situation, or
+>
+> (c) prevent the situation from recurring.
+>
+> (6B) Authority for the purposes of subsection (6) above shall—
+>
+> (a) be in writing,
+>
+> (b) identify the ground on which it is given, and
+>
+> (c) explain the chief finance officer’s reasons for thinking that the ground applies.
+
+(3) In subsection (14) of that section (which defines certain terms used in that section), after the definition of “the Assembly”, there is inserted—
+
+> “chief finance officer” has the same meaning as in section 114;
+
+.
+
+## Part 3 — Grants etc
+
+### Chapter 1 — Expenditure grant
+
+#### 31 Power [[^F50]of Ministers] to pay grant
+
+(1) A Minister of the Crown may pay a grant to a local authority in England towards expenditure incurred or to be incurred by it.
+
+(2) A Minister of the Crown, or the National Assembly for Wales, may pay a grant to a local authority in Wales towards expenditure incurred or to be incurred by it.
+
+(3) The amount of a grant under this section and the manner of its payment are to be such as the person paying it may determine.
+
+(4) A grant under this section may be paid on such conditions as the person paying it may determine.
+
+(5) Conditions under subsection (4) may, in particular, include—
+
+(a) provision as to the use of the grant;
+
+(b) provision as to circumstances in which the whole or part of the grant must be repaid.
+
+(6) In the case of a grant to a local authority in England, the powers under this section are exercisable with the consent of the Treasury.
+
+#### 32 Application to Greater London Authority
+
+(1) For the purposes of section 31, expenditure of a functional body shall be treated as expenditure of the Greater London Authority.
+
+(2) The conditions on which grant under section 31 may be paid include, in the case of a grant to the Greater London Authority, a condition requiring the Mayor to transfer the grant to a functional body.
+
+(3) A decision to pay a grant under section 31 subject to such a condition as is mentioned in subsection (2) above shall be notified to the functional body concerned as well as to the Greater London Authority.
+
+(4) Where a grant paid under section 31 to the Greater London Authority is paid subject to such a condition as is mentioned in subsection (2) above, the Mayor must transfer the grant to the functional body concerned forthwith.
+
+(5) Where a grant paid under section 31 to the Greater London Authority is not paid subject to such a condition as is mentioned in subsection (2) above, the Mayor may transfer the grant to a functional body.
+
+(6) Where grant under section 31 is transferred under this section to a functional body, any conditions to which the grant is subject shall apply to the transferee instead of the transferor.
+
+(7) In this section, “Mayor” means Mayor of London.
+
+#### 32A [[^F51]Power to pay grant to joint committees of London councils
+
+(1) A Minister of the Crown may pay a grant to an eligible London joint committee towards expenditure incurred or to be incurred—
+
+(a) by the committee, or
+
+(b) by an eligible sub-committee of the committee.
+
+(2) The amount of a grant under this section and the manner of its payment are to be such as the person paying it may determine.
+
+(3) A grant under this section may be paid on such conditions as the person paying it may determine.
+
+(4) Conditions under subsection (3) may, in particular, include—
+
+(a) provision as to the use of the grant;
+
+(b) provision as to circumstances in which the whole or part of the grant must be repaid.
+
+(5) Where a Minister of the Crown wishes to pay a grant towards expenditure incurred or to be incurred by an eligible London joint committee or an eligible sub-committee, the Secretary of State may pay a grant under this section to one or more persons (other than the committee) to hold and use in respect of the expenditure by the committee or sub-committee.
+
+(6) The powers under this section are exercisable with the consent of the Treasury.
+
+(7) The Secretary of State may, by regulations—
+
+(a) make provision for determining the question of whether a committee, or sub-committee, is “eligible”, including provision about conditions that must be met for a committee or sub-committee to become or remain eligible;
+
+(b) make provision about the constitution, procedures, administration and oversight of London joint committees, or their sub-committees, that are eligible.
+
+(8) Regulations under subsection (7)(a) may (in particular) make provision about conditions that relate to—
+
+(a) the power under which, or way in which, the committee or sub-committee is established;
+
+(b) the functions or purpose of the committee or sub-committee;
+
+(c) the kinds of persons who are members of the committee or sub-committee;
+
+(d) the constitution, procedures, administration or oversight of the committee or sub-committee.
+
+(9) Regulations under subsection (7) may amend any Act passed before, or in the same session as, the English Devolution and Community Empowerment Act 2026.
+
+(10) No regulations under subsection (7) may be made unless a draft of the statutory instrument containing the regulations (whether containing them alone or with other provisions) has been laid before, and approved by a resolution of, each House of Parliament.
+
+(11) In this section—
+
+- “eligible” has the meaning determined in accordance with regulations under subsection (7)(a);
+
+- “London joint committee” means a joint committee established under section 101(5) of the Local Government Act 1972 by—
+
+  - all the London borough councils, and
+  - the Common Council of the City of London.]
+
+#### 32A [[^F52]Power of strategic authorities to pay grant
+
+(1) A combined authority or CCA may pay to a constituent council a grant towards expenditure incurred or to be incurred by it.
+
+(2) The amount of a grant under this section and the manner of its payment are to be such as the person paying it may determine.
+
+(3) A grant under this section may be paid on such conditions as the person paying it may determine.
+
+(4) Conditions under subsection (3) may, in particular, include—
+
+(a) provision as to the use of the grant;
+
+(b) provision as to circumstances in which the whole or part of the grant must be repaid.
+
+(5) Subsection (6) applies where, in exercising a function under this section, a combined authority or CCA determines an amount of grant to be paid towards expenditure incurred or to be incurred by a constituent council in relation to the exercise of its highway functions.
+
+(6) In determining that amount, the combined authority or CCA must have regard to the desirability of ensuring that the constituent council has sufficient funds to facilitate the effective discharge of those highway functions.
+
+(7) To comply with subsection (6), the combined authority or CCA must take into account any other sources of funding available to the constituent council for expenditure incurred or to be incurred in relation to the exercise of its highway functions.
+
+(8) The functions conferred by this section on a mayoral combined authority or mayoral CCA are functions of the authority or CCA exercisable only by the mayor on behalf of the authority or CCA.
+
+(9) In this section—
+
+- “combined authority” means a combined authority established under section 103 of the Local Democracy, Economic Development and Construction Act 2009;
+
+- “combined county authority” means a combined county authority established under section 9(1) of the Levelling-up and Regeneration Act 2023;
+
+- “constituent council” means—
+
+  - in relation to a combined authority—
+  
+    - a county council the whole or any part of whose area is within the area of the authority, or
+    - a district council whose area is within the area of the authority;
+  
+  - in relation to a combined county authority—
+  
+    - a county council for an area within the area of the authority, or
+    - a unitary district council for an area within the area of the authority;
+
+- “highway functions” means functions exercisable by a constituent council (in whatever capacity) in relation to the highways for which it is the highway authority;
+
+- “mayoral CCA” has the same meaning as in Chapter 1 of Part 2 of the Levelling-up and Regeneration Act 2023 (see section 27(8) of that Act);
+
+- “mayoral combined authority” has the same meaning as in Part 6 of the Local Democracy, Economic Development and Construction Act 2009 (see section 107A(8) of that Act).]
+
+#### 32B [[^F53]Application to Mayoral development corporations outside London
+
+(1) For the purposes of section 31, expenditure of a Mayoral development corporation for an area in the area of a combined authority or CCA shall be treated as expenditure of the combined authority or CCA.
+
+(2) The conditions on which grant under section 31 may be paid include, in the case of a grant to a combined authority or CCA, a condition requiring the combined authority or CCA to transfer the grant to the Mayoral development corporation.
+
+(3) A decision to pay a grant under section 31 subject to such a condition as is mentioned in subsection (2) above shall be notified to the Mayoral development corporation as well as to the combined authority or CCA.
+
+(4) Where a grant paid under section 31 to a combined authority or CCA is paid subject to such a condition as is mentioned in subsection (2) above, the combined authority or CCA must transfer the grant to the Mayoral development corporation forthwith.
+
+(5) Where a grant paid under section 31 to a combined authority or CCA is not paid subject to such a condition as is mentioned in subsection (2) above, the Mayor may transfer the grant to a Mayoral development corporation.
+
+(6) Where grant under section 31 is transferred under this section to a Mayoral development corporation, any conditions to which the grant is subject shall apply to the transferee instead of the transferor.
+
+(7) In this section—
+
+- “CCA” means a combined county authority established under Chapter 1 of Part 2 of the Levelling-up and Regeneration Act 2023;
+- “combined authority” means a combined authority established under Part 6 of the Local Democracy, Economic Development and Construction Act 2009.]
+
+#### 33 Interpretation of Chapter 1
+
+(1) The following are local authorities for the purposes of this Chapter—
+
+(a) a county council;
+
+(b) a county borough council;
+
+(c) a district council;
+
+(d) the Greater London Authority;
+
+(e) a London borough council;
+
+(f) the Common Council of the City of London, in its capacity as a local authority, police authority or port health authority;
+
+(g) the Council of the Isles of Scilly;
+
+[^F54]h . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(i) an authority established under section 10 of the Local Government Act 1985 (c. 51) (waste disposal authorities);
+
+(j) a joint authority established by Part 4 of that Act [[^F55](fire and rescue services and transport)];
+
+[^F56]ja . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[[^F57](jb) an economic prosperity board established under section 88 of the Local Democracy, Economic Development and Construction Act 2009;
+
+(jc) a combined authority established under section 103 of that Act;]
+
+[[^F58](jd) a combined county authority established under section 9(1) of the Levelling-up and Regeneration Act 2023;]
+
+[[^F59](je) a corporate joint committee established by regulations made under Part 5 of the Local Government and Elections (Wales) Act 2021;]
+
+(k) a joint planning board constituted for an area in Wales outside a National Park by an order under section 2(1B) of the Town and Country Planning Act 1990 (c. 8);
+
+[[^F60](l) a fire and rescue authority constituted by a scheme under section 2 of the Fire and Rescue Services Act 2004 or a scheme to which section 4 of that Act applies;]
+
+[[^F61](la) a fire and rescue authority created by an order under section 4A of that Act;]
+
+[[^F62](m) a police and crime commissioner.]
+
+(2) In this Chapter—
+
+- “functional body” has the same meaning as in the Greater London Authority Act 1999 (c. 29);
+- “Minister of the Crown” has the same meaning as in the Ministers of the Crown Act 1975 (c. 26).
+
+### Chapter 2 — Other grants etc
+
+#### [^F63]34 Best value grant: parishes
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F64]35 Best value grant: communities
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 36 Grants in connection with designation for service excellence
+
+(1) The appropriate person may pay any of the following to a best value authority [[^F65]which, in relation to any of its functions, is subject to the duty in section 3(1) of the Local Government Act 1999 (best value duty)] [[^F66]or to a relevant Welsh authority]—
+
+(a) a grant towards expenditure incurred by the authority in applying for the award of a designation based on excellence in the provision of services, and
+
+(b) where the authority is awarded such a designation—
+
+(i) a grant as a reward for being awarded such a designation, and
+
+(ii) a grant towards expenditure incurred or to be incurred by the authority in disseminating information about best practices.
+
+(2) The amount of a grant under this section and the manner of its payment are to be such as the appropriate person may determine.
+
+(3) A grant under this section may be paid on such conditions as the appropriate person may determine as to the circumstances in which the whole or any part of the grant must be repaid.
+
+[[^F67](4) In subsection (1) “relevant Welsh authority” means—
+
+(a) a county council or county borough council in Wales;
+
+(b) a National Park authority for a National Park in Wales;
+
+(c) a fire and rescue authority in Wales, constituted by a scheme under section 2 of the Fire and Rescue Services Act 2004 or a scheme to which section 4 of that Act applies.]
+
+#### 36A [[^F68] Grants by Ministers of the Crown in respect of best value authorities etc
+
+(1) A Minister of the Crown may pay a grant to a person for use in, or in connection with, promoting or facilitating the economic, efficient and effective exercise of functions by a best value authority or best value authorities [[^F69]or a relevant Welsh authority or relevant Welsh authorities].
+
+(2) The power to make a grant under this section is exercisable only with the consent of—
+
+(a) the Treasury, and
+
+(b) in the case of a grant in respect of the exercise of functions by a [[^F70]relevant Welsh authority], the Welsh Ministers.
+
+(3) The power to pay a grant under this section does not include power to pay a grant to a best value authority [[^F71]or a relevant Welsh authority].
+
+(4) The amount of a grant under this section, and the method of payment, are to be such as the Minister of the Crown may determine.
+
+(5) A grant under this section may be paid on such conditions as the Minister of the Crown may determine.
+
+(6) Conditions under subsection (5) may, in particular, include—
+
+(a) provision as to the use of the grant;
+
+(b) provision as to circumstances in which the whole or part of the grant must be repaid.
+
+(7) For the purposes of this section—
+
+- “ best value authority ” includes the Greater London Authority, whether exercising its functions through the Mayor or otherwise;
+
+- “ Minister of the Crown ” has the same meaning as in the Ministers of the Crown Act 1975;
+
+- [[^F72]“relevant Welsh authority” means—
+
+  - a county council or county borough council in Wales;
+  - a National Park authority for a National Park in Wales;
+  - a fire and rescue authority in Wales, constituted by a scheme under section 2 of the Fire and Rescue Services Act 2004 or a scheme to which section 4 of that Act applies.]
+
+#### 36B Grants by Welsh Ministers in respect of Welsh [[^F73]principal councils]
+
+(1) The Welsh Ministers may pay a grant to a person for use in, or in connection with, promoting or facilitating [[^F74]compliance by a Welsh principal council or Welsh principal councils with the performance requirements set out in section 89 of the Local Government and Elections (Wales) Act 2021 or the requirements of, or any requirements imposed under, Chapter 1 of Part 6 of that Act].
+
+(2) The power to pay a grant under this section does not include power to pay a grant to a best value authority [[^F75]or Welsh principal council].
+
+(3) The amount of a grant under this section, and the method of payment, are to be such as the Welsh Ministers may determine.
+
+(4) A grant under this section may be paid on such conditions as the Welsh Ministers may determine.
+
+(5) Conditions under subsection (4) may, in particular, include—
+
+(a) provision as to the use of the grant;
+
+(b) provision as to circumstances in which the whole or part of the grant must be repaid.
+
+(6) For the purposes of this section—
+
+- “best value authority” includes the Greater London Authority, whether exercising its functions through the Mayor or otherwise;
+- [[^F76]“Welsh principal council” means a county council or county borough council in Wales.]]
+
+#### 37 Emergency financial assistance to combined fire authorities
+
+In section 155 of the Local Government and Housing Act 1989 (c. 42) (emergency financial assistance to local authorities), in subsection (4) (authorities that are local authorities for the purposes of that section), after paragraph (g) there is inserted
+
+> ; or
+>
+> (h) a fire authority in England and Wales constituted by a combination scheme under the Fire Services Act 1947.
+
+#### 38 [[^F77]Local loans]
+
+(1) The Secretary of State may, if he thinks it appropriate, make payments to the [[^F78]Treasury, in respect of local loans made under section 3 of the National Loans Act 1968,] so as to reduce or extinguish such debt (whether then due or not) of a local authority in England to [[^F79]the Treasury] as he thinks fit.
+
+(2) The National Assembly for Wales may, if it thinks it appropriate, make payments to the [[^F78]Treasury, in respect of local loans made under section 3 of the National Loans Act 1968,] so as to reduce or extinguish such debt (whether then due or not) of a local authority in Wales to [[^F79]the Treasury] as the Assembly thinks fit.
+
+(3) The amount—
+
+(a) required to extinguish a debt, or
+
+(b) by which a payment reduces a debt,
+
+shall be such as may be determined by [[^F80]the Treasury].
+
+(4) [[^F81]The Treasury] may refuse to accept a payment which the Secretary of State or the National Assembly for Wales proposes to make to them under this section.
+
+(5) In this section “local authority” means—
+
+(a) in relation to England—
+
+(i) a district council,
+
+(ii) a county council that is the council for a county in which there are no district councils,
+
+(iii) a London borough council,
+
+(iv) the Common Council of the City of London, or
+
+(v) the Council of the Isles of Scilly; and
+
+(b) in relation to Wales, a county council or a county borough council.
+
+#### 39 Payments towards local authority indebtedness
+
+(1) The Secretary of State may, if he thinks it appropriate, make payments to a local authority in England for application by the authority in reducing or extinguishing such debt (whether then due or not) of the authority as he thinks fit.
+
+(2) The National Assembly for Wales may, if it thinks it appropriate, make payments to a local authority in Wales for application by the authority in reducing or extinguishing such debt (whether then due or not) of the authority as the Assembly thinks fit.
+
+(3) The person making payments to a local authority under this section may specify how the payments are to be applied by the authority and may in particular specify—
+
+(a) the debt or debts to be extinguished, or
+
+(b) the debt or debts to be reduced.
+
+(4) A payment under this section may be made subject to conditions imposed by the person making the payment.
+
+(5) The conditions that may be imposed under subsection (4) include (in particular) conditions relating to the repayment in specified circumstances of all or part of the payment.
+
+(6) Payments made to a local authority under this section may not be applied in reducing or extinguishing any debt of the authority to the [[^F82]Treasury, in respect of local loans made under section 3 of the National Loans Act 1968].
+
+(7) In this section “local authority” means—
+
+(a) in relation to England—
+
+(i) a district council,
+
+(ii) a county council that is the council for a county in which there are no district councils,
+
+(iii) a London borough council,
+
+(iv) the Common Council of the City of London, or
+
+(v) the Council of the Isles of Scilly; and
+
+[[^F83](b) in relation to Wales—
+
+(i) a county council,
+
+(ii) a county borough council, or
+
+(iii) a corporate joint committee established by regulations under Part 5 of the Local Government and Elections (Wales) Act 2021.]
+
+#### 40 Local government finance reports: Wales
+
+(1) Schedule 2 (which makes provision for enabling the National Assembly for Wales to make two local government finance reports for a year, one dealing with police authorities and one dealing with other authorities and bodies) has effect.
+
+(2) This section applies in relation to the financial year beginning on 1st April 2004 and subsequent financial years.
+
+## Part 4 — Business improvement districts
+
+### BID arrangements
+
+#### 41 Arrangements with respect to business improvement districts
+
+(1) A billing authority may in accordance with this Part make arrangements (“BID arrangements”) with respect to an area (a “business improvement district”) comprising all or part of the area of the authority.
+
+(2) The purpose of BID arrangements is to enable—
+
+(a) the projects specified in the arrangements to be carried out for the benefit of the business improvement district or those who live, work or carry on any activity in the district, and
+
+(b) those projects to be financed (in whole or in part) by a levy (“BID levy”) imposed on the non-domestic ratepayers, or a class of such ratepayers, in the district.
+
+#### 42 Joint arrangements
+
+(1) The Secretary of State may by regulations make provision for or in connection with enabling two or more billing authorities to make BID arrangements with respect to a business improvement district comprising all or part of the area of each of the authorities.
+
+(2) The provision which may be made by regulations under this section includes provision which modifies any provision made by or under this Part in its application to such arrangements.
+
+#### 43 Additional contributions and action
+
+(1) The persons specified in subsection (2) may make financial contributions or take action for the purpose of enabling the projects specified in BID arrangements to be carried out.
+
+(2) Those persons are—
+
+(a) the billing authority which has made the arrangements,
+
+(b) a county council or parish council any part of whose area falls within the business improvement district, and
+
+(c) any other person authorised or required to do so in accordance with the arrangements.
+
+#### 44 Duty to comply with arrangements
+
+Where BID arrangements are in force, the billing authority which made the arrangements must comply with them.
+
+### BID levy
+
+#### 45 BID levy
+
+(1) BID levy is to be imposed in a business improvement district only for periods (“chargeable periods”) falling within the period in which BID arrangements are in force in respect of the district.
+
+(2) The length of any chargeable period, and the day on which it begins, are to be such as may be specified in the BID arrangements.
+
+(3) The amount of BID levy for any chargeable period—
+
+(a) is to be calculated in such manner as may be provided in the BID arrangements, and
+
+(b) may be different for different cases.
+
+#### 46 Liability for BID levy
+
+(1) BID arrangements must specify the description of non-domestic ratepayers in the business improvement district who are to be liable for BID levy for a chargeable period.
+
+(2) A person is to be liable for BID levy for a chargeable period if he falls within that description at any time within the period.
+
+(3) The amount of a person’s liability for BID levy for any chargeable period is to be determined in accordance with the BID arrangements.
+
+(4) Any amount of BID levy for which a person is liable is to be paid to the billing authority which made the arrangements.
+
+### Administration etc
+
+#### 47 BID Revenue Account
+
+(1) A billing authority which has made BID arrangements must, in accordance with proper practices, keep an account, to be called the BID Revenue Account.
+
+(2) Amounts paid to the authority by way of BID levy must be credited to the BID Revenue Account.
+
+(3) Amounts are to be debited to the BID Revenue Account only in accordance with BID arrangements.
+
+(4) The Secretary of State may by regulations make further provision in relation to the BID Revenue Account.
+
+#### 48 Administration of BID levy etc
+
+(1) The Secretary of State may by regulations make provision with respect to the imposition, administration, collection, recovery and application of BID levy.
+
+(2) The provision which may be made by regulations under this section includes provision—
+
+(a) corresponding to any provision which may be made by regulations under section 50 or 63 of, or Schedule 9 to, the Local Government Finance Act 1988 (c. 41) (joint owners or occupiers, death and administration of non-domestic rating);
+
+(b) modifying or applying with modifications any provision made by regulations under any of those provisions.
+
+(3) Nothing in subsection (2) is to be taken as limiting the power conferred by subsection (1).
+
+### Procedure
+
+#### 49 BID proposals
+
+(1) BID arrangements are not to come into force unless proposals for the arrangements (“BID proposals”) are approved by a ballot of the non-domestic ratepayers in the proposed business improvement district who are to be liable for the proposed BID levy.
+
+(2) The Secretary of State may by regulations make provision—
+
+(a) as to the persons who may draw up BID proposals,
+
+(b) as to the procedures to be followed in connection with the drawing up of BID proposals,
+
+(c) as to the matters to be included in BID proposals, and
+
+(d) as to the date which may be provided under BID proposals for the coming into force of BID arrangements which give effect to the proposals.
+
+#### 50 Approval in ballot
+
+(1) BID proposals are not to be regarded as approved by a ballot held for the purposes of section 49(1) unless two conditions are satisfied.
+
+(2) The first condition is that a majority of the persons voting in the ballot have voted in favour of the BID proposals.
+
+(3) The second condition is that A exceeds B.
+
+(4) A is the aggregate of the rateable values of each hereditament in respect of which a person voting in the ballot has voted in favour of the BID proposals.
+
+(5) B is the aggregate of the rateable values of each hereditament in respect of which a person voting in the ballot has voted against the BID proposals.
+
+(6) For the purposes of subsections (4) and (5), the rateable value of a hereditament is [[^F84]—
+
+(a) in a case where the day of the ballot is a day on which paragraph 3 of Schedule 4ZA to the Local Government Finance Act 1988 applies in relation to the hereditament, the rateable value shown for that day under section 42(4) of that Act as regards the hereditament minus G (within the meaning of that Schedule), or
+
+(b) in any other case, the rateable value shown for that day under section 42(4) of that Act as regards the hereditament.]
+
+#### 51 Power of veto
+
+(1) This section applies where BID proposals are approved by a ballot held for the purposes of section 49(1).
+
+(2) The billing authority to which the proposals relate may, in prescribed circumstances, veto the proposals within such period from the date of the ballot as may be prescribed.
+
+(3) In deciding whether to exercise the veto, a billing authority is to have regard to such matters as may be prescribed.
+
+(4) If a billing authority vetoes BID proposals, it must give notice of the exercise of the veto to the persons entitled to vote in the ballot.
+
+(5) The notice—
+
+(a) must set out the reasons for the exercise of the veto, and
+
+(b) must give details of the right of appeal under section 52.
+
+(6) A copy of the notice must be sent to the Secretary of State.
+
+#### 52 Appeal against veto
+
+(1) Where a billing authority vetoes BID proposals, any person who was entitled to vote in the ballot may appeal to the Secretary of State.
+
+(2) The Secretary of State may by regulations make provision in relation to appeals under this section, including provision—
+
+(a) as to the time by which an appeal is to be made,
+
+(b) as to the manner in which an appeal is to be made,
+
+(c) as to the procedure to be followed in connection with an appeal, and
+
+(d) as to the matters to be taken into account in deciding whether to allow an appeal.
+
+#### 53 Commencement of BID arrangements
+
+(1) This section applies where BID proposals are approved by a ballot held for the purposes of section 49(1).
+
+(2) The billing authority concerned must ensure that BID arrangements which give effect to the proposals are made by the time the arrangements are to come into force in accordance with this section.
+
+(3) Subject to subsection (4), the BID arrangements are to come into force on such day as may be provided under the BID proposals.
+
+(4) If the BID proposals are vetoed under section 51, BID arrangements which give effect to the proposals are not to come into force unless the Secretary of State allows an appeal against the veto under section 52.
+
+(5) Where the Secretary of State allows such an appeal, BID arrangements which give effect to the proposals are to come into force on such day as the Secretary of State may determine.
+
+(6) The day determined under subsection (5) must not be earlier than the day mentioned in subsection (3).
+
+[^F85]7 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Miscellaneous
+
+#### 54 Duration of BID arrangements etc
+
+(1) BID arrangements are to have effect for such period (not exceeding 5 years) as may be specified in the arrangements.
+
+(2) BID arrangements may be renewed for one or more periods each of which must not exceed 5 years, but only if the renewal of the arrangements on that or each occasion is approved by a ballot of the non-domestic ratepayers in the business improvement district who are liable for the BID levy.
+
+(3) The renewal of BID arrangements is not to be regarded as approved by a ballot held for the purposes of subsection (2) unless the two conditions in section 50 which apply to the approval of BID proposals are satisfied in relation to the renewal of the arrangements.
+
+(4) The Secretary of State may by regulations make provision—
+
+(a) as to the alteration of BID arrangements, and
+
+(b) as to the termination of BID arrangements.
+
+(5) The provision which may be made by virtue of subsection (4)(a) or (b) includes provision preventing or restricting the alteration or early termination of BID arrangements.
+
+(6) Nothing in subsection (5) is to be taken as limiting the power conferred by subsection (4).
+
+(7) No regulations under subsection (4) shall be made by the Secretary of State unless a draft of the statutory instrument containing the regulations (whether containing them alone or with other provisions) has been laid before, and approved by a resolution of, each House of Parliament.
+
+#### 55 Regulations about ballots
+
+(1) The Secretary of State may by regulations make provision in relation to ballots.
+
+(2) The provision which may be made by regulations under this section includes provision—
+
+(a) as to the timing of ballots;
+
+(b) as to the non-domestic ratepayers entitled to vote in a ballot;
+
+(c) as to the question to be asked in a ballot;
+
+(d) as to the form that ballots may take;
+
+(e) as to the persons who are to hold ballots;
+
+(f) as to the conduct of ballots;
+
+(g) conferring power on the Secretary of State to declare ballots void in cases of material irregularity;
+
+(h) for or in connection with enabling a billing authority to recover the costs of a ballot from such persons and in such circumstances as may be prescribed.
+
+(3) Nothing in subsection (2) is to be taken as limiting the power conferred by subsection (1).
+
+(4) No regulations under subsection (1) which include provision of the kind mentioned in subsection (2)(b) shall be made by the Secretary of State unless a draft of the statutory instrument containing the regulations (whether containing them alone or with other provisions) has been laid before, and approved by a resolution of, each House of Parliament.
+
+(5) In this section “ballot” means a ballot held for the purposes of section 49(1) or 54(2).
+
+#### 56 Power to make further provision
+
+(1) The Secretary of State may by regulations make such supplementary, incidental, consequential or transitional provision as he considers necessary or expedient for the purposes of, in consequence of, or for giving full effect to, any provision made by or under this Part.
+
+(2) The provision which may be made under subsection (1) includes provision amending any enactment (whenever passed or made).
+
+(3) No regulations under subsection (1) which include provision amending an Act shall be made by the Secretary of State unless a draft of the statutory instrument containing the regulations (whether containing them alone or with other provisions) has been laid before, and approved by a resolution of, each House of Parliament.
+
+#### 57 Crown application
+
+This Part binds the Crown.
+
+#### 58 Wales
+
+(1) Sections 54(7), 55(4) and 56(3) do not apply in relation to Wales.
+
+(2) In their application in relation to Wales—
+
+(a) the remaining provisions of this Part have effect as if for each reference in those provisions to the Secretary of State there were substituted a reference to the National Assembly for Wales, and
+
+(b) section 43(2)(b) has effect as if for the reference to a county council or parish council there were substituted a reference to a community council.
+
+#### 59 Interpretation of Part 4
+
+(1) In this Part—
+
+- “BID arrangements” and “BID levy” have the meaning given by section 41;
+
+- “billing authority” means—
+
+  - (a) in relation to England, a district council, a unitary county council, a London borough council, the Common Council of the City of London or the Council of the Isles of Scilly; and
+  - (b) in relation to Wales, a county council or county borough council;
+
+- “business improvement district” has the meaning given by section 41;
+
+- “enactment” includes an enactment contained in a local or private Act or comprised in subordinate legislation (within the meaning of the Interpretation Act 1978 (c. 30));
+
+- “non-domestic ratepayer”, in relation to any area, means a person subject to a non-domestic rate under section 43 or 45 of the Local Government Finance Act 1988 (c. 41) (liability to non-domestic rates) because he is the owner or occupier of a hereditament situated in that area;
+
+- “prescribed” means prescribed by regulations made by the Secretary of State;
+
+- “unitary county council” means a county council that is the council for a county in which there are no district councils.
+
+(2) Other expressions which are used in this Part and in Part 3 of the Local Government Finance Act 1988 (non-domestic rates) have the same meaning in this Part as they have in that Part.
+
+## Part 5 — Non-domestic rates
+
+### 60 Submission of proposed rating lists
+
+(1) In section 41(5) of the 1988 Act (proposed local non-domestic rating list to be sent to billing authority not later than 31 December preceding compilation date) for “31 December” there is substituted “ 30 September ”.
+
+(2) In section 52(5) of that Act (proposed central non-domestic rating list to be sent to Secretary of State not later than 31 December preceding compilation date) for “31 December” there is substituted “ 30 September ”.
+
+### [^F86]61 Small business relief
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 62 Calculation of non-domestic rating multiplier
+
+(1) Schedule 7 to the 1988 Act (non-domestic rating multipliers) is amended as follows.
+
+[^F87]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F87]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F87]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F87]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F87]6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F87]7 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F87]8 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F87]9 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F87]10 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(11) After paragraph 9 (special authority’s non-domestic rating multiplier) there is inserted—
+
+> **9A**
+>
+> (1) A special authority’s small business non-domestic rating multiplier for a chargeable financial year shall be set by it in accordance with the formula—
+>
+> (A × B)/(C)
+>
+> (2) In sub-paragraph (1) above—
+>
+> (a) A is the special authority’s non-domestic rating multiplier for the year under paragraph 9 above,
+>
+> (b) B is the small business non-domestic rating multiplier for the year determined in accordance with Part 1 of this Schedule, and
+>
+> (c) C is the non-domestic rating multiplier for the year, so far as relating to England, determined in accordance with that Part.
+>
+> (3) The multiplier must be expressed as a figure in which a part of a whole (if any) is expressed to three decimal points only.
+
+### 63 Rural settlement lists etc
+
+(1) In section 42A of the 1988 Act (rural settlement list) in subsection (1) (duty of each billing authority to compile and maintain rural settlement list) after “billing authority” there is inserted “ in England ”.
+
+[^F88]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F89]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 64 Relief for registered community amateur sports clubs
+
+[^F90]1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F91]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F92]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F93]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) In section 67 of the 1988 Act (interpretation of Part 3 of that Act), after subsection (10) there is inserted—
+
+> (10A) The times at which a club is a registered club for the purposes of Schedule 18 to the Finance Act 2002 (community amateur sports clubs)—
+>
+> (a) shall, where it is registered with retrospective effect, be taken to have included those within the period beginning with the date with effect from which it is registered and ending with its registration; but
+>
+> (b) shall, where its registration is terminated with retrospective effect, be taken not to have included those within the period beginning with the date with effect from which its registration is terminated and ending with the termination of its registration.
+
+### 65 Transitional relief
+
+(1) After section 57 of the 1988 Act (special provision for 1990-1995) there is inserted—
+
+> **57A Transitional provision for 2005 onwards: England**
+>
+> (1) In relation to any relevant period the Secretary of State must make regulations under this section which apply in relation to England.
+>
+> (2) The regulations may contain such provisions as are mentioned in subsection (3) below in relation to any case where—
+>
+> (a) as regards a hereditament or hereditaments the chargeable amount for a chargeable day falls to be determined under section 43, 45 or 54 above, and
+>
+> (b) the day falls within a prescribed relevant financial year.
+>
+> (3) The provisions are that—
+>
+> (a) the chargeable amount shall be such as is found in accordance with prescribed rules, and
+>
+> (b) sections 43(4) to (6E) and 44 above, sections 45(4) to (6) and 46 above, or section 54(4) to (7) above (as the case may be) shall not apply.
+>
+> (4) A chargeable amount found in accordance with rules prescribed under this section, and any calculation (or component of a calculation) used to find that amount, may be the same as or different from what it would be apart from the regulations.
+>
+> (5) Rules prescribed under this section may be framed by reference to such factors as the Secretary of State thinks fit.
+>
+> (6) Without prejudice to section 143(1) below, regulations under this section relating to a relevant period may contain different provisions for different relevant financial years.
+>
+> (7) Without prejudice to section 143(1) below, regulations under this section may contain different provision in relation to locally listed hereditaments whose rateable value exceeds, and those whose rateable value does not exceed, a prescribed figure; and a locally listed hereditament is a hereditament for the time being shown in a local non-domestic rating list.
+>
+> (8) Without prejudice to section 143(1) and (2) below, regulations under this section may include provision—
+>
+> (a) imposing duties and conferring powers on valuation officers (whether as regards determinations, certificates or otherwise) in relation to the ascertainment of rateable values;
+>
+> (b) as to appeals relating to things done or not done by such officers.
+>
+> (9) Regulations under this section in their application to a particular relevant financial year shall not be effective unless they come into force before 1 January immediately preceding the year; but this is without prejudice to the power to amend or revoke.
+>
+> (10) In making regulations under this section the Secretary of State shall have regard to the object of securing (so far as practicable) that the aggregate amount payable to him and all billing authorities by way of non-domestic rates as regards a particular relevant period is, after disregarding any adjustments made to take account of amounts being payable at times other than those at which they would have been payable apart from the regulations, the same as the aggregate amount which would be so payable apart from the regulations.
+>
+> (11) For the purposes of subsection (10) above, the Secretary of State may rely on his estimate of the aggregate amounts and adjustments mentioned in that subsection.
+>
+> (12) Once the actual aggregate amounts and adjustments for a particular relevant period are ascertained, the Secretary of State may amend regulations under this section in their application to a financial year which begins after the coming into force of the amending regulations and falls within the same or a later relevant period to reflect the extent to which the actual aggregate amounts and adjustments differ from his estimate of those amounts and adjustments.
+>
+> (13) For the purposes of this section—
+>
+> (a) a relevant period is a period of five years beginning on 1 April 2005 or on any 1 April after that date on which lists must be compiled;
+>
+> (b) a relevant financial year, as regards regulations relating to a relevant period, is a financial year falling within the period.
+
+(2) In section 58 of the 1988 Act (special provision for 1995 onwards) in subsection (1) (power to make regulations in relation to any relevant period) after “section” there is inserted “ which apply in relation to Wales ”.
+
+### 66 Rating of meters
+
+(1) In section 64 of the 1988 Act (hereditaments) after subsection (2) there is inserted—
+
+> (2A) In addition, a right is a hereditament if—
+>
+> (a) it is a right to use any land for the purpose of operating a meter to measure a supply of gas or electricity or such other service as—
+>
+> (i) the Secretary of State in relation to England, or
+>
+> (ii) the National Assembly for Wales in relation to Wales,
+>
+> may by order specify, and
+>
+> (b) the meter is owned by a person other than the consumer of the service.
+
+(2) In subsection (4)(e) of that section (which contains a reference to any right which is a hereditament by virtue of subsection (2)) after “subsection (2)” there is inserted “ or (2A) ”.
+
+(3) After subsection (11) of that section there is inserted—
+
+> (11A) The Secretary of State in relation to England, and the National Assembly in relation to Wales, may by regulations make provision as to what is to be regarded as being a meter for the purposes of subsection (2A) above.
+>
+> (11B) In subsection (2A) above “land” includes a wall or other part of a building.
+
+### 67 Exemptions for agricultural buildings
+
+(1) Schedule 5 to the 1988 Act (exemptions from non-domestic rating) is amended as follows.
+
+(2) For paragraph 3(a) (which provides that a building is an agricultural building if it is occupied together with agricultural land and is used solely in connection with agricultural operations on the land) there is substituted—
+
+> (a) it is occupied together with agricultural land and is used solely in connection with agricultural operations on that or other agricultural land, or.
+
+(3) After paragraph 7(1)(b) there is inserted
+
+> , and
+>
+> (c) the members who are occupiers of the land together have control of the body.
+
+(4) For paragraph 7(3) there is substituted—
+
+> (3) This sub-paragraph applies if—
+>
+> (a) the building in question is occupied by a body corporate any of whose members are, or are together with the body, the occupiers of the building or buildings mentioned in sub-paragraph (2)(a) above, and
+>
+> (b) the members who are occupiers of the land together have control of the body.
+
+(5) After paragraph 7(8) there is inserted—
+
+> (9) In this paragraph “control” shall be construed in accordance with section 416(2) to (6) of the Income and Corporation Taxes Act 1988.
+
+### 68 Exemption for places of religious worship (prospective)
+
+In paragraph 11 of Schedule 5 to the 1988 Act (exemption for places of religious worship) for sub-paragraph (1)(a) there is substituted—
+
+> (a) a place of public religious worship;
+
+.
+
+### 69 Removal of power to prescribe rateable values (prospective)
+
+Paragraph 3 of Schedule 6 to the 1988 Act (power of Secretary of State by order to prescribe rateable values) ceases to have effect.
+
+### 70 Local retention of rates
+
+(1) In Schedule 8 to the 1988 Act (non-domestic rating: pooling), in paragraph 4 (rules for calculating authorities' non-domestic rating contributions), before sub-paragraph (5) there is inserted—
+
+> (4A) The rules may include provision for such deductions as the maker of the rules thinks fit for the purpose of enabling an authority to retain part, or all, of so much of the total payable to it in respect of the year under sections 43 and 45 above as exceeds an amount determined for the authority by or under the rules.
+>
+> (4B) Sub-paragraph (4A) above shall not apply in the case of a special authority.
+>
+> (4C) Sub-paragraph (2) above shall have effect subject to sub-paragraph (4A) above.
+>
+> (4D) The consent of the Treasury is required to the inclusion in regulations under this paragraph of provision under sub-paragraph (4A) above relating to England.
+
+(2) In paragraph 5(6) of that Schedule (contribution to be calculated after end of year and certified by Audit Commission)—
+
+(a) before the word “and” at the end of paragraph (b) there is inserted—
+
+> (ba) if it is an authority in England notify to the Secretary of State, and if it is an authority in Wales notify to the National Assembly for Wales, the amount of any deduction that in accordance with provision under paragraph 4(4A) above is made in calculating the amount mentioned in paragraph (a) above,
+
+and
+
+(b) in paragraph (c), for “and the amount” there is substituted “ , and the amount or amounts notifiable under paragraphs (b) and (ba) above, ”.
+
+(3) In paragraph 5(6A) of that Schedule (Audit Commission to send copy of certification to Secretary of State or National Assembly for Wales), after “the amount” there is inserted “ or amounts ”.
+
+[^F94]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F94]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F94]6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7) In section 38 of the Local Government (Wales) Act 1994 (c. 19) (council funds for principal councils in Wales), after subsection (9) there is inserted—
+
+> (9A) The National Assembly for Wales may by regulations make provision for the sharing among a new principal council and major precepting authorities, in accordance with rules specified in the regulations, of an amount equal to all or part of any deduction that, in accordance with provision under paragraph 4(4A) of Schedule 8 to the Local Government Finance Act 1988 (local retention of rates), falls to be made in calculating the council’s non-domestic rating contribution for a financial year.
+
+(8) In subsection (10) of that section (provision that may be included in regulations under subsection (9))—
+
+(a) for “The regulations” there is substituted “ Regulations under subsection (9) or (9A) ”, and
+
+(b) in each of paragraphs (d) and (e), after “the liability mentioned in subsection (9)” there is inserted “ or any liability arising under subsection (9A) ”.
+
+(9) In that section, after subsection (11) there is inserted—
+
+> (12) In subsection (9A) “major precepting authority” has the meaning given by section 39(1) of the Local Government Finance Act 1992.
+
+### 71 Adjustments for hardship relief
+
+(1) Schedule 8 to the 1988 Act (non-domestic rating: pooling) is amended as follows.
+
+(2) In paragraph 4 (non-domestic rating contributions) after sub-paragraph (6) there is inserted—
+
+> (7) Sub-paragraph (6) above does not apply to regulations made only for the purpose of amending the rules to increase deductions as regards the operation of section 49 above for the whole or part of the financial year.
+
+(3) In paragraph 6 (calculation of non-domestic rating contributions) after sub-paragraph (6) there is inserted—
+
+> (6A) Regulations made for the purpose mentioned in paragraph 4(7) above may include provision—
+>
+> (a) for or in connection with the recalculation of the provisional amount for the financial year concerned, including provision for the procedure to be adopted for recalculation, and
+>
+> (b) as to financial adjustments to be made, including provision for the making of reduced payments under paragraph 5 above or of repayments.
+
+(4) In sub-paragraph (7) of that paragraph (which defines relevant provisions) after paragraph (a) there is inserted—
+
+> (aa) regulations made for the purpose mentioned in paragraph 4(7) above,
+
+.
+
+### 72 Provision of information
+
+(1) Schedule 9 to the 1988 Act (non-domestic rating: administration) is amended as follows.
+
+(2) In paragraph 5(2) (requested information to be supplied within period of 21 days) there are omitted—
+
+(a) the words “if it is in his possession or control, and he shall do so”, and
+
+(b) the words “and within the period of 21 days beginning with the day on which the notice is served”.
+
+(3) Paragraph 5(3) (offence of failing to supply information) is omitted.
+
+(4) After paragraph 5 there is inserted—
+
+> **5A**
+>
+> (1) If a person on whom a notice is served under paragraph 5 above fails to comply with paragraph 5(2) within the period of 56 days beginning with the day on which the notice is served, he shall be liable to a penalty of £100.
+>
+> (2) Where a person becomes liable to a penalty under sub-paragraph (1) above, the valuation officer shall serve on him a notice (a “penalty notice”) stating—
+>
+> (a) that he has failed to comply with paragraph 5(2) above within the period mentioned in sub-paragraph (1) above,
+>
+> (b) that he is liable to a penalty of £100,
+>
+> (c) the effect of sub-paragraphs (3) and (4) below, and
+>
+> (d) that he has a right of appeal under paragraph 5C below.
+>
+> (3) If the person on whom a penalty notice is served fails to comply with paragraph 5(2) within the period of 21 days beginning with the day on which the notice is served, he shall be liable—
+>
+> (a) to a further penalty of £100, and
+>
+> (b) subject to sub-paragraph (4) below, to a further penalty of £20 for each day in respect of which the failure continues after the end of that period.
+>
+> (4) The amount to which a person shall be liable under this paragraph in respect of a failure to comply with a notice served under paragraph 5 above shall not exceed the greater of—
+>
+> (a) the rateable value of the hereditament concerned for the day on which the penalty notice is served, and
+>
+> (b) £500.
+>
+> (5) For the purposes of sub-paragraph (4)(a) above—
+>
+> (a) the hereditament concerned is the hereditament in respect of which the notice under paragraph 5 above was served, and
+>
+> (b) a list compiled under this Part shall be used to find the rateable value of the hereditament for the day concerned.
+>
+> **5B**
+>
+> A valuation officer may mitigate or remit any penalty imposed under paragraph 5A above.
+>
+> **5C**
+>
+> (1) A person may appeal to a valuation tribunal if he is aggrieved by the imposition on him of a penalty under paragraph 5A above.
+>
+> (2) An appeal under this paragraph must be made before the end of the period of 28 days beginning with the day on which the penalty notice is served.
+>
+> (3) An appeal under this paragraph shall not prevent liability to any further penalty or penalties arising under paragraph 5A(3) above.
+>
+> (4) An appeal under this paragraph shall be treated as an appeal against the penalty imposed under paragraph 5A(1) above and any further penalty which may be imposed under paragraph 5A(3) above.
+>
+> (5) On an appeal under this paragraph the valuation tribunal may mitigate or remit any penalty under paragraph 5A above if it is satisfied on either or both of the grounds specified in sub-paragraph (6) below.
+>
+> (6) Those grounds are—
+>
+> (a) that the appellant had a reasonable excuse for not complying with paragraph 5(2) above, or
+>
+> (b) that the information requested is not in the possession or control of the appellant.
+>
+> **5D**
+>
+> (1) Subject to sub-paragraph (2) below, any penalty imposed under paragraph 5A above may be recovered by the valuation officer concerned as a civil debt due to him.
+>
+> (2) No claim to recover any such penalty may be made—
+>
+> (a) before the end of the period mentioned in paragraph 5C(2) above, or
+>
+> (b) if an appeal is made under paragraph 5C above, before the appeal is finally disposed of.
+>
+> **5E**
+>
+> Any sums received by a valuation officer by way of penalty under paragraph 5A above must be paid into the Consolidated Fund.
+>
+> **5F**
+>
+> (1) The Secretary of State in relation to England, and the National Assembly of Wales in relation to Wales, may by regulations make provision in relation to notices served under paragraphs 5 and 5A above.
+>
+> (2) The provision that may be made by regulations under this paragraph includes—
+>
+> (a) provision enabling a valuation officer to request or obtain information for the purpose of identifying the owner or occupier of a hereditament;
+>
+> (b) provision enabling a notice to be served on a person either by name or by such description as may be prescribed.
+>
+> **5G**
+>
+> The Secretary of State in relation to England, and the National Assembly in relation to Wales, may by order amend paragraph 5A above to increase or decrease the amount of any penalty under that paragraph.
+>
+> **5H**
+>
+> Where a valuation officer requires the name or address of a person on whom a notice under paragraph 5 or 5A above is to be served, he may serve a notice on a billing authority which he reasonably believes may have that information requesting the authority to supply him with that information.
+
+(5) In Schedule 11 to the 1988 Act (valuation tribunals) in paragraph 2 (jurisdictions) after sub-paragraph (c) there is inserted—
+
+> (ca) paragraph 5C of Schedule 9 above;
+
+.
+
+### 73 Interpretation of Part 5
+
+In this Part “the 1988 Act” means the Local Government Finance Act 1988 (c. 41).
+
+## Part 6 — Council tax
+
+### Liability and amount of tax
+
+#### 74 Exception of students from joint and several liability
+
+(1) In section 6(4) of the Local Government Finance Act 1992 (c. 14) (exception of severely mentally impaired from liability as co-resident or owner), for the words from “paragraph” to “impaired)” there is substituted “ paragraph 2 (severely mentally impaired) or 4 (students etc.) of Schedule 1 to this Act ”.
+
+(2) In section 9(2) of that Act (corresponding exception from liability as spouse), for the words from “paragraph” to the end there is substituted “ paragraph 2 (the severely mentally impaired) or 4 (students etc.) of Schedule 1 to this Act ”.
+
+(3) This section has effect in relation to financial years beginning on or after 1 April 2004.
+
+#### 75 Second and empty homes
+
+(1) After section 11 of the Local Government Finance Act 1992 there is inserted—
+
+> **11A Discounts: special provision for England**
+>
+> (1) The Secretary of State may for any financial year by regulations prescribe one or more classes of dwelling in England for the purposes of subsection (3) or (4) below.
+>
+> (2) A class of dwellings may be prescribed under subsection (1) above by reference to such factors as the Secretary of State sees fit and may, in particular, be prescribed by reference to—
+>
+> (a) the physical characteristics of dwellings, or
+>
+> (b) the fact that dwellings are unoccupied.
+>
+> (3) For any financial year for which a class of dwellings is prescribed for the purposes of this subsection, a billing authority in England may by determination provide in relation to all dwellings of that class in its area, or in such part of its area as it may specify in the determination, that the discount under section 11(2)(a) shall be such lesser percentage of at least 10 as it may so specify.
+>
+> (4) For any financial year for which a class of dwellings is prescribed for the purposes of this subsection, a billing authority in England may by determination provide in relation to all dwellings of that class in its area, or in such part of its area as it may specify in the determination—
+>
+> (a) that the discount under section 11(2)(a) above shall not apply, or
+>
+> (b) that the discount under that provision shall be such lesser percentage as it may so specify.
+>
+> (5) A billing authority may make a determination varying or revoking a determination under subsection (3) or (4) for a financial year, but only before the beginning of the year.
+>
+> (6) A billing authority which makes a determination under this section shall publish a notice of it in at least one newspaper circulating in its area and do so before the end of the period of 21 days beginning with the date of the determination.
+>
+> (7) Failure to comply with subsection (6) above shall not affect the validity of a determination.
+
+(2) For section 12 of that Act (discounts: special provision for Wales) there is substituted—
+
+> **12 Discounts: special provision for Wales**
+>
+> (1) The National Assembly for Wales may for any financial year by regulations prescribe one or more classes of dwelling in Wales for the purposes of subsection (3) or (4) below.
+>
+> (2) A class of dwellings may be prescribed under subsection (1) above by reference to such factors as the Assembly sees fit and may, in particular, be prescribed by reference to—
+>
+> (a) the physical characteristics of dwellings, or
+>
+> (b) the fact that dwellings are unoccupied.
+>
+> (3) For any financial year for which a class of dwellings is prescribed for the purposes of this subsection, a billing authority in Wales may by determination provide in relation to all dwellings of that class in its area, or in such part of its area as it may specify in the determination, that the discount under section 11(2)(a) shall be such lesser percentage of at least 10 as it may so specify.
+>
+> (4) For any financial year for which a class of dwellings is prescribed for the purposes of this subsection, a billing authority in Wales may by determination provide in relation to all dwellings of that class in its area, or in such part of its area as it may specify in the determination—
+>
+> (a) that the discount under section 11(2)(a) above shall not apply, or
+>
+> (b) that the discount under that provision shall be such lesser percentage as it may so specify.
+>
+> (5) A billing authority may make a determination varying or revoking a determination under subsection (3) or (4) for a financial year, but only before the beginning of the year.
+>
+> (6) A billing authority which makes a determination under this section shall publish a notice of it in at least one newspaper circulating in its area and do so before the end of the period of 21 days beginning with the date of the determination.
+>
+> (7) Failure to comply with subsection (6) above shall not affect the validity of a determination.
+
+(3) Where immediately before the day on which subsection (2) comes into force regulations under section 12(1) of that Act are in force which apply in relation to a financial year beginning on or after that day, the regulations, so far as relating to such a financial year, shall on and after that day have effect as if—
+
+(a) they were made under section 12(1) of that Act as substituted by this section, and
+
+(b) each class of dwellings which they prescribe were prescribed for the purposes of section 12(4) of that Act as so substituted.
+
+(4) Where immediately before that day a determination under section 12(1) of that Act is in force which applies in relation to a financial year beginning on or after that day, the determination, so far as relating to such a financial year, shall on and after that day have effect as if made under section 12(4) of that Act, as substituted by this section, in relation to the whole of the area of the authority which made the determination.
+
+(5) In its application by virtue of subsection (4), a determination under section 12(1) of that Act shall have effect—
+
+(a) if it provided for section 12(2) of that Act to have effect in substitution for section 11(2)(a) of that Act, as if it provided for the discount under that provision to be twenty-five per cent.;
+
+(b) if it provided for section 12(3) of that Act to have effect in substitution for section 11(2)(a) of that Act, as if it provided for the discount under that provision not to apply.
+
+#### [^F95]76 Billing authority’s power to reduce amount of tax payable
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Valuation lists and bands
+
+#### 77 Statutory revaluation cycle
+
+After section 22A of the Local Government Finance Act 1992 there is inserted—
+
+> **22B Compilation and maintenance of new lists**
+>
+> (1) The listing officer for a billing authority shall compile, and then maintain, new lists for the authority in accordance with this Chapter (each such list to be called its valuation list).
+>
+> (2) A new list must be compiled—
+>
+> (a) in relation to billing authorities in England, on 1 April 2007, and
+>
+> (b) in relation to billing authorities in Wales, on 1 April 2005.
+>
+> (3) After that, a new list must be compiled on the earlier of the tenth anniversary of the compilation of the previous list and 1 April in such year as may be specified—
+>
+> (a) in relation to billing authorities in England, by order made by the Secretary of State, and
+>
+> (b) in relation to billing authorities in Wales, by order made by the National Assembly for Wales.
+>
+> (4) A new list shall come into force on the day on which it is compiled and shall remain in force until the next such list is compiled.
+>
+> (5) The duty to maintain a list compiled under this section continues for so long as is necessary for the purposes of this Part and is not affected by the list ceasing to be in force.
+>
+> (6) Before a list is compiled under this section, the listing officer must take such steps as are reasonably practicable in the time available to ensure that it is accurately compiled on the date on which it is to be compiled.
+>
+> (7) Where a list is to be compiled under this section, the listing officer for a billing authority shall send the authority a copy of the list he proposes to compile (on the information then before him) not later than 1st September before the date on which it is to be compiled.
+>
+> (8) As soon as reasonably practicable after receiving a copy list under subsection (7) above, a billing authority shall deposit it at its principal office and take such steps as it thinks most suitable for giving notice of it.
+>
+> (9) As soon as reasonably practicable after the listing officer for a billing authority has compiled a list under this section, he shall send a copy of it to the authority.
+>
+> (10) As soon as reasonably practicable after receiving a copy list under subsection (9) above, a billing authority shall deposit it at its principal office.
+>
+> (11) No order under subsection (3)(a) above may be made unless a draft of the order has been laid before, and approved by resolution of, the House of Commons.
+
+#### 78 Power to change number of valuation bands
+
+In section 5 of the Local Government Finance Act 1992 (c. 14) (valuation bands), after subsection (4) there is inserted—
+
+> (4A) The power under subsection (4)(b) above includes power to make provision for a different number of valuation bands from those which are for the time being effective for the purposes of subsection (2) or (3) above.
+
+#### 79 Transitional arrangements
+
+After section 13A of the Local Government Finance Act 1992 there is inserted—
+
+> **13B Transitional arrangements**
+>
+> (1) The Secretary of State may by regulations make provision for the purpose of smoothing changes in council tax liability resulting from the coming into force in relation to a billing authority in England of—
+>
+> (a) an order under section 5 above, or
+>
+> (b) a list under section 22B below.
+>
+> (2) The National Assembly for Wales may by regulations make provision for the purpose of smoothing changes in council tax liability resulting from the coming into force in relation to a billing authority in Wales of—
+>
+> (a) an order under section 5 above, or
+>
+> (b) a list under section 22B below.
+>
+> (3) Regulations under this section may, in particular—
+>
+> (a) make provision about the circumstances in which changes are to be smoothed;
+>
+> (b) make provision for changes to be smoothed over such one or more financial years as may be specified in the regulations;
+>
+> (c) make provision for liability for any financial year to be determined in accordance with such rules as may be so specified, which may result in liability being the same as or different from what it would otherwise be.
+>
+> (4) Without prejudice to section 113(1) below, regulations under this section may make different provision for different financial years.
+>
+> (5) To the extent that he would not have power to do so apart from this subsection, the Secretary of State may—
+>
+> (a) include in regulations made by him under this section such amendments of any social security instrument as he thinks expedient in consequence of the regulations;
+>
+> (b) include in any social security instrument such provision as he thinks expedient in consequence of regulations under this section.
+>
+> (6) In subsection (5) above, “social security instrument” has the meaning given by section 13(10) above.
+
+### Enforcement
+
+#### 80 Amendments relating to distress
+
+(1) Schedule 4 to the Local Government Finance Act 1992 (c. 14) (enforcement) is amended as follows.
+
+(2) In paragraph 5(1) (power to authorise making of attachment of earnings orders against persons subject to liability orders), in paragraph (a) (under which attachment of earnings may be authorised to secure payment of any outstanding sum which is or forms part of the amount in respect of which a liability order was made), for the words from “any outstanding sum” to the end there is substituted “ the appropriate amount ”.
+
+(3) After that sub-paragraph there is inserted—
+
+> (1A) For the purposes of this paragraph the appropriate amount is the aggregate of—
+>
+> (a) any outstanding sum which is or forms part of the amount in respect of which the liability order was made; and
+>
+> (b) where the authority concerned has sought to levy an amount by distress and sale of the debtor’s goods under provision included by virtue of paragraph 7 below and the person making the distress has reported that he was unable (for whatever reason) to find any or sufficient goods of the debtor on which to levy the amount—
+>
+> (i) such sum as is referred to in sub-paragraph (2)(b) of that paragraph, and
+>
+> (ii) if the authority has applied for the issue of a warrant committing the debtor to prison under provision included by virtue of paragraph 8 below, a sum (of a prescribed amount or an amount determined in accordance with prescribed rules) in respect of the costs of the application.
+
+(4) In paragraph 7 (distress), after sub-paragraph (4) there is inserted—
+
+> (4A) The regulations may include provision with respect to the supply of information to the debtor by—
+>
+> (a) a person who makes, or attempts to make, a distress, or
+>
+> (b) where it has levied any amount by distress, the authority concerned.
+
+#### 81 Charging orders: aggregation
+
+In Schedule 4 to the Local Government Finance Act 1992 (c. 14) (enforcement), after paragraph 11 there is inserted—
+
+> **11A**
+>
+> Regulations under paragraph 1(1)(a) above may provide that two or more liability orders against the same person shall be treated as a single liability order for the purposes of provision included by virtue of paragraph 11 above if an application under such provision could be made in respect of each of them in relation to the same dwelling.
+
+#### 82 Quashing of liability orders
+
+In Schedule 4 to the Local Government Finance Act 1992 (enforcement), after paragraph 12 there is inserted—
+
+> **12A Quashing of liability orders**
+>
+> Regulations under paragraph 1(1) above may provide—
+>
+> (a) that, where on an application by the authority concerned a magistrates' court is satisfied that a liability order should not have been made, it shall quash the order;
+>
+> (b) that, where on an application to a magistrates' court for the quashing of a liability order, the court is satisfied that, had the original application been for a liability order in respect of a lesser sum payable, such an order could properly have been made, it shall substitute a liability order in respect of the aggregate of—
+>
+> (i) that lesser sum, and
+>
+> (ii) any sum included in the quashed order in respect of the costs incurred in obtaining it.
+
+### Other
+
+#### 83 Major precepting authorities: combined fire authorities
+
+(1) In section 39(1) of the Local Government Finance Act 1992 (c. 14) (which specifies the authorities which are major precepting authorities for the purposes of Part 1 of that Act), after paragraph (d) there is inserted—
+
+> (da) a fire authority in England constituted by a combination scheme made under section 6 of the Fire Services Act 1947;
+
+.
+
+(2) The National Assembly for Wales may by order amend section 39(1)(da) of the Local Government Finance Act 1992 for the purpose of extending the provision to [[^F96]fire and rescue authorities] in Wales.
+
+(3) Before making an order under subsection (2), the National Assembly for Wales shall consult—
+
+(a) such bodies or persons appearing to it to be representative of the interests of local government in Wales, and
+
+(b) such other bodies or persons,
+
+as it may consider appropriate.
+
+#### 84 Amendment of section 67 of the Local Government Finance Act 1992
+
+(1) Section 67 of the Local Government Finance Act 1992 (under which certain council tax functions must be discharged only by an authority as a whole) is amended as follows.
+
+(2) In subsection (1), for “Subject to subsections (3) and (3A) below,” there is substituted “ Subject to subsections (2A) to (3A) below, ”.
+
+(3) After subsection (2) there is inserted—
+
+> (2A) Subsection (1) does not apply to the following functions—
+>
+> (a) the determination of an amount for item T in section 33(1) above;
+>
+> (b) the determination of an amount for item TP in section 34(3) above;
+>
+> (c) the determination of an amount for item T in section 44(1) above;
+>
+> (d) the determination of an amount for item TP in section 45(3) above;
+>
+> (e) the determination of an amount for item TP in section 48(3) or (4) above;
+>
+> (f) the determination of an amount for item T in section 88(2) of the Greater London Authority Act 1999 (c. 29);
+>
+> (g) the determination of an amount for item TP2 in section 89(4) of that Act;
+>
+> (h) the determination of an amount required for determining an amount for the item mentioned in paragraph (c), (d), (f) or (g) above.
+
+#### 85 Vacant dwellings: use of information obtained for council tax purposes
+
+In Schedule 2 to the Local Government Finance Act 1992 (c. 14) (council tax: administration), after paragraph 18 there is inserted—
+
+> **18A**
+>
+> (1) A billing authority may use information it has obtained for the purpose of carrying out its functions under Part 1 of this Act for the purpose of—
+>
+> (a) identifying vacant dwellings, or
+>
+> (b) taking steps to bring vacant dwellings back into use.
+>
+> (2) The power under sub-paragraph (1) above, so far as relating to personal information, extends only to information which consists of an individual’s name or an address or number for communicating with him.
+>
+> (3) In this paragraph—
+>
+> - “personal information” means information which relates to an individual (living or dead) who can be identified—
+>
+>   - (a) from that information, or
+>   - (b) from that information and other information of the authority,
+>
+>   and includes any expression of opinion about the individual and any indication of the intentions of any person in respect of the individual;
+>
+> - “vacant dwelling” means a dwelling in which no one lives and which is substantially unfurnished.
+
+#### 86 Repeal of section 31 of the Local Government Act 1999
+
+Section 31 of the Local Government Act 1999 (c. 27) (further regulation of major precepting authorities) ceases to have effect.
+
+## Part 7 — Housing finance etc
+
+### 87 Housing strategies and statements
+
+[^F97]1 [^F97][[^F98]The Welsh Ministers][^F97] may—
+
+[^F97]a [^F97]require a local housing authority [^F97][[^F99]in Wales][^F97] to have a strategy in respect of such matters relating to housing as [^F97][[^F100]the Welsh Ministers][^F97] may specify, and
+
+[^F97]b [^F97]impose requirements with respect to—
+
+[^F97]i [^F97]the ends that the strategy is to be designed to achieve,
+
+[^F97]ii [^F97]the formulation of policy for the purposes of the strategy, or
+
+[^F97]iii [^F97]review of the strategy.
+
+[^F97]2 [^F97][[^F101]The Welsh Ministers][^F97] may require a local housing authority [^F97][[^F102]in Wales][^F97], by such time as [^F97][[^F103]the Welsh Ministers][^F97] may specify, to prepare and supply [^F97][[^F103]the Welsh Ministers][^F97] with a statement setting out such material of either of the following descriptions as [^F97][[^F103]the Welsh Ministers][^F97] may specify—
+
+[^F97]a [^F97]a strategy that the authority is required to have under subsection (1);
+
+[^F97]b [^F97]other material relating to housing.
+
+[^F97]3 [^F97][[^F104]The Welsh Ministers][^F97] may, in relation to a statement whose preparation and supply is required under subsection (2), impose requirements with respect to—
+
+[^F97]a [^F97]the contents of the statement;
+
+[^F97]b [^F97]the form of the statement;
+
+[^F97]c [^F97]the statement’s supply to [^F97][[^F105]the Welsh Ministers][^F97].
+
+[^F97][[^F106]4 [^F97]In this section—
+
+- [^F97] “[^F97]housing[^F97]” includes accommodation needs for gypsies and travellers within the meaning of [^F107][^F97]...
+
+  - [^F97][[^F108]section 225 of the Housing Act 2004, in the case of a local housing authority in England;
+  - [^F97]Part 3 of the Housing (Wales) Act 2014, in the case of a local housing authority in Wales][^F97];
+
+- [^F97] “[^F97]local housing authority[^F97]” has the same meaning as in the Housing Act 1985 (c. 68).]
+
+### 88 Housing Revenue Account business plans
+
+(1) The power under section 87(3) includes (in particular) power to require that material—
+
+(a) in a statement, and
+
+(b) relating to property within the Housing Revenue Account of the authority preparing the statement,
+
+be designated in the statement as being, or forming part of, the authority’s Housing Revenue Account business plan.
+
+(2) All material that—
+
+(a) in accordance with requirements imposed under section 87(3) is so designated in a statement prepared for the purposes of section 87(2) by an authority [[^F109]in Wales], and
+
+(b) has not in a subsequent statement so prepared by the authority been declared to be superseded or withdrawn,
+
+shall collectively be known as the authority’s Housing Revenue Account business plan.
+
+(3) The reference in subsection (1) to property within an authority’s Housing Revenue Account has the same meaning as in Part 6 of the Local Government and Housing Act 1989 (c. 42) (housing finance).
+
+### 89 Housing Revenue Account subsidy: payment and calculation
+
+(1) For section 79(2) of the Local Government and Housing Act 1989 (payment of Housing Revenue Account subsidy) there is substituted—
+
+> (2) Housing Revenue Account subsidy shall be paid by the appropriate person—
+>
+> (a) in such instalments, at such times and in such manner, and
+>
+> (b) subject to such conditions as to claims, records, certificates, supply of Housing Revenue Account business plans, audit or otherwise,
+>
+> as the appropriate person may determine.
+
+(2) In section 80 of that Act (calculation of Housing Revenue Account subsidy), for subsection (1) (subsidy to be calculated in accordance with formulae) there is substituted—
+
+> (1) The amount of Housing Revenue Account subsidy (if any) payable to a local housing authority for a year shall be calculated in such manner as the appropriate person may from time to time determine.
+>
+> (1A) A determination under subsection (1) above may (in particular)—
+>
+> (a) provide for all or part of the amount to be calculated in accordance with a formula or formulae;
+>
+> (b) provide for the amount, or part of the amount, to be calculated by reference to—
+>
+> (i) whether any Housing Revenue Account business plan that the authority are required to prepare by any time has been supplied to the appropriate person or has been supplied to the appropriate person by that time;
+>
+> (ii) the appropriate person’s assessment of any Housing Revenue Account business plan prepared by the authority and supplied to the appropriate person;
+>
+> (iii) whether conditions are met that relate to, or to the authority’s conduct of, the authority’s finances or any aspect of those finances;
+>
+> (iv) an assessment of the state of, or of the authority’s conduct of, the authority’s finances or any aspect of those finances;
+>
+> (v) whether conditions are met that relate to housing provided by the authority, to housing functions of the authority or to the authority’s performance in exercising such functions;
+>
+> (vi) an assessment of, or of the state of, housing provided by the authority;
+>
+> (vii) an assessment of the authority’s performance in exercising functions in relation to housing provided by the authority or in otherwise exercising housing functions;
+>
+> (viii) whether, as respects housing provided by the authority, management functions exercisable in relation to that housing have been entrusted to a company;
+>
+> (ix) whether, where such functions have been entrusted to a company, conditions are met that relate to the performance of the company in exercising the functions;
+>
+> (x) an assessment, where such functions have been entrusted to a company, of the performance of the company in exercising those functions;
+>
+> (xi) assumptions as to any matter;
+>
+> (c) have the effect that the amount, or part of the amount, is nil or a negative amount;
+>
+> (d) make different provision for different parts of the amount.
+
+(3) In subsection (3) of that section (determinations of, and for the purposes of, formulae)—
+
+(a) in the words before paragraph (a), for “the Secretary of State may” there is substituted “ the appropriate person may (in particular) ”, and
+
+(b) the words after paragraph (c) (which are superseded by the new subsections (5) and (6) of that section) are omitted.
+
+(4) In subsections (3)(b) and (4) of that section (provisions about formulae), for “Secretary of State” (in each place) there is substituted “ appropriate person ”.
+
+(5) In that section, after subsection (4) there is inserted—
+
+> (5) Nothing in subsections (1A) to (4) above is to be taken as limiting the appropriate person’s discretion under subsection (1) above.
+>
+> (6) The appropriate person may make a determination under subsection (1) above, or a calculation under such a determination, on the basis of information received by him on or before such date as he thinks fit.
+
+(6) In section 88(1) of that Act (interpretation of Part 6), after paragraph (a) there is inserted—
+
+> (aa) “the appropriate person” means—
+>
+> (i) in relation to England, the Secretary of State, and
+>
+> (ii) in relation to Wales, the National Assembly for Wales;
+
+.
+
+### 90 Housing Revenue Account subsidy: negative amounts
+
+(1) In Part 6 of the Local Government and Housing Act 1989 (c. 42) (housing finance), after section 80 there is inserted—
+
+> **80ZA Negative amounts of subsidy payable to appropriate person**
+>
+> (1) If calculation in accordance with a determination under section 80(1) above of the amount of Housing Revenue Account subsidy payable to a local housing authority for a year produces a negative amount—
+>
+> (a) the authority shall for that year debit the equivalent positive amount to their Housing Revenue Account, and
+>
+> (b) pay that equivalent amount to the appropriate person.
+>
+> (2) Amounts payable to the appropriate person under subsection (1)(b) above shall be paid to him in such instalments, at such times and in such manner as he may determine.
+>
+> (3) A payment in respect of an amount payable under subsection (1)(b) above shall be accompanied by such information as the appropriate person may require.
+>
+> (4) The appropriate person may charge a local housing authority interest, at such rates and for such periods as he may determine, on any sum payable to him under subsection (1)(b) above that is not paid by such time as may be determined under subsection (2) above for its payment.
+>
+> (5) The appropriate person may charge a local housing authority an amount equal to any additional costs incurred by him as a result of any sum payable to him under subsection (1)(b) above not being paid by such time as may be determined under subsection (2) above for its payment.
+
+(2) In section 80 of that Act (calculation of Housing Revenue Account subsidy), subsection (2) (negative amounts of subsidy) is omitted.
+
+(3) In Part 2 of Schedule 4 to that Act (amounts to be debited to a local housing authority’s Housing Revenue Account), for item 5 there is substituted—
+
+> **Item 5: sums payable under section 80ZA**
+>
+> Sums payable for the year to the Secretary of State, or the National Assembly for Wales, under subsection (1)(b) of section 80ZA of this Act (Housing Revenue Account subsidy of a negative amount) and—
+>
+> (a) any interest charged on those sums under subsection (4) of that section, and
+>
+> (b) any amount charged under subsection (5) of that section in respect of costs incurred as a result of late payment of any of those sums.
+
+(4) In section 141(8) of the Local Government Finance Act 1988 (c. 41) (amounts due from authorities that may be set off against amounts due from Secretary of State or National Assembly for Wales), for “and paragraphs 12 and 15 of that Schedule” there is substituted “ ,?paragraphs 12 and 15 of that Schedule and section 80ZA of the Local Government and Housing Act 1989 (negative amounts of Housing Revenue Account subsidy and interest and costs where payment made late) ”.
+
+### 91 Housing Revenue Accounts etc: adaptation of enactments
+
+(1) In Part 6 of the Local Government and Housing Act 1989 (c. 42) (housing finance), after section 87 there is inserted—
+
+> **87A Orders amending Part 6**
+>
+> (1) The appropriate person may by order—
+>
+> (a) amend, repeal or re-enact provisions of sections 74 to 76 and 78 of, and Schedule 4 to, this Act;
+>
+> (b) provide for any such provisions—
+>
+> (i) not to apply, whether at all or in cases specified by the order or to authorities so specified;
+>
+> (ii) to apply, whether generally or in cases so specified or to authorities so specified, subject to modifications so specified.
+>
+> (2) An order under this section may (in particular)—
+>
+> (a) add items to, or remove items from, Part 1 or 2 of Schedule 4 to this Act, or vary items of those Parts;
+>
+> (b) confer discretions, or expand, curtail or repeal discretions conferred, on the appropriate person or any other person;
+>
+> (c) be made before, during or after the end of any year to which it relates.
+>
+> (3) In subsection (2)(b) above “discretion” includes power to make a determination or give a direction.
+>
+> (4) An order under this section may—
+>
+> (a) contain such incidental, consequential, transitional or supplementary provisions (including provisions amending or repealing enactments), and such savings, as the appropriate person considers appropriate;
+>
+> (b) make different provision for different cases or authorities.
+>
+> (5) The power to make an order under this section is exercisable by statutory instrument.
+>
+> (6) The Secretary of State shall not make an order under this section unless a draft of the order has been laid before, and approved by resolution of, each House of Parliament.
+
+(2) In Part 4 of Schedule 4 to that Act (Housing Revenue Accounts: supplementary provisions), paragraph 3 (which is superseded by the new section 87A) is omitted.
+
+### 92 Local housing authority houses: rents
+
+(1) In section 24(3) of the Housing Act 1985 (c. 68) (local housing authorities in England and Wales to have regard to private sector rents in setting rents for their houses), after “a local housing authority” there is inserted “ in Wales ”.
+
+(2) The National Assembly for Wales may by order repeal section 24(3) of that Act (as amended by subsection (1)).
+
+## Part 8 — Miscellaneous and general
+
+### Chapter 1 — Miscellaneous
+
+#### Charging and trading
+
+##### 93 Power to charge for discretionary services
+
+(1) Subject to the following provisions, a [[^F110]relevant authority] may charge a person for providing a service to him if—
+
+(a) the authority is authorised, but not required, by an enactment to provide the service to him, and
+
+(b) he has agreed to its provision.
+
+(2) Subsection (1) does not apply if the authority—
+
+(a) has power apart from this section to charge for the provision of the service, or
+
+(b) is expressly prohibited from charging for the provision of the service.
+
+(3) The power under subsection (1) is subject to a duty to secure that, taking one financial year with another, the income from charges under that subsection does not exceed the costs of provision.
+
+(4) The duty under subsection (3) shall apply separately in relation to each kind of service.
+
+(5) Within the framework set by subsections (3) and (4), a [[^F111]relevant authority] may set charges as it thinks fit and may, in particular—
+
+(a) charge only some persons for providing a service;
+
+(b) charge different persons different amounts for the provision of a service.
+
+(6) In carrying out functions under this section, a [[^F112]relevant authority] shall have regard to such guidance as the appropriate person may issue.
+
+(7) The following shall be disregarded for the purposes of subsection (2)(b)—
+
+(a) section 111(3) of the Local Government Act 1972 (c. 70) (subsidiary powers of local authorities not to include power to raise money),
+
+(b) section 34(2) of the Greater London Authority Act 1999 (c. 29) (corresponding provision for Greater London Authority), [^F113]...
+
+[^F114]c [^F114]section 3(2) of the Local Government Act 2000 (c. 22) (well-being powers not to include power to raise money).
+
+[[^F115](d) section 100(2) of the Local Transport Act 2008 (well-being powers of Integrated Transport Authorities [[^F116], combined authorities and combined county authorities]),
+
+(e) section 102C(4) of that Act (Integrated Transport Authorities),
+
+(f) section 10B(4) of the Transport Act 1968 (Passenger Transport Executives), [^F117]...
+
+(g) section 113B(4) of the Local Democracy, Economic Development and Construction Act 2009 (economic prosperity boards and combined authorities)][[^F118], and
+
+(h) section 50(4) of the Levelling-up and Regeneration Act 2023 (combined county authorities).]
+
+(8) In subsection (1), “enactment” includes an enactment comprised in subordinate legislation (within the meaning of the Interpretation Act 1978 (c. 30)).
+
+[[^F119](9) In this section, “ relevant authority ” means—
+
+(a) a best value authority;
+
+[[^F120](aa) a county council or county borough council in Wales;]
+
+[[^F121](ab) the Passenger Transport Executive of an integrated transport area in England;]
+
+[[^F122](ac) a National Park authority for a National Park in Wales;]
+
+(b) a parish council;
+
+(c) a parish meeting of a parish which does not have a separate parish council; or
+
+(d) a community council.]
+
+##### 94 Power to disapply section 93(1)
+
+(1) The appropriate person may by order disapply section 93(1)—
+
+(a) in relation to particular descriptions of [[^F123] relevant authority] or particular [[^F124]relevant authorities];
+
+(b) in relation to the provision of a particular kind of service by—
+
+(i) all [[^F125]relevant authorities],
+
+(ii) particular [[^F126]relevant authorities], or
+
+(iii) particular descriptions of [[^F127] relevant authority].
+
+(2) The power under subsection (1) includes power to disapply for a particular period.
+
+[[^F128](3) In this section, “relevant authority” has the meaning given in section 93.]
+
+##### 95 Power to trade in function-related activities through a company
+
+(1) The appropriate person may by order—
+
+(a) authorise [[^F129]relevant authorities] to do for a commercial purpose anything which they are authorised to do for the purpose of carrying on any of their ordinary functions, and
+
+(b) make provision about the persons in relation to whom authority under paragraph (a) is exercisable.
+
+(2) No order under this section may authorise a [[^F130]relevant authority]—
+
+(a) to do in relation to a person anything which it is required to do in relation to him under its ordinary functions, or
+
+(b) to do in relation to a person anything which it is authorised, apart from this section, to do in relation to him for a commercial purpose.
+
+(3) An order under this section may be made in relation to—
+
+(a) all [[^F131]relevant authorities], particular [[^F131]relevant authorities] or particular descriptions of [[^F132]relevant authority];
+
+(b) all things authorised to be done for the purpose of carrying on a particular function, particular things authorised to be done for that purpose or particular descriptions of thing authorised to be so done.
+
+(4) Power conferred by an order under this section shall only be exercisable through a company within the meaning of Part 5 of the Local Government and Housing Act 1989 (c. 42) (companies in which local authorities have interests).
+
+(5) A [[^F133]relevant authority] on which power is conferred by an order under this section shall be treated as a local authority for the purposes of Part 5 of the Local Government and Housing Act 1989 if it would not otherwise be such an authority, but only in relation to a body corporate through which it exercises, or proposes to exercise, the power conferred by the order.
+
+(6) In its application by virtue of subsection (5), section 70(1) of the Local Government and Housing Act 1989 (c. 42) (power to make provision about what a company under the control, or subject to the influence of, a local authority does) shall only apply in relation to the doing for a commercial purpose of the thing to which the order under this section relates.
+
+(7) In this section—
+
+- [^F134]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+- [^F135]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+- [[^F136]“relevant authority” means—
+
+  - (a) a best value authority, other than [[^F137]the Common Council of the City of London in its capacity as a police authority and] [^F138]... ;
+  - (aa) [[^F139]a county council or county borough council in Wales;]
+  - (aaa) [[^F140]a corporate joint committee established by regulations under Part 5 of the Local Government and Elections (Wales) Act 2021;]
+  - (ab) [[^F141]the Passenger Transport Executive of an integrated transport area in England;]
+  - (ac) [[^F142]a fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004;]
+  - (ad) [[^F143]a fire and rescue authority in Wales, constituted by a scheme under section 2 of the Fire and Rescue Services Act 2004 or a scheme to which section 4 of that Act applies;]
+  - (ae) [[^F143]a National Park authority for a National Park in Wales;]
+  - (b) a parish council;
+  - (c) a parish meeting of a parish which does not have a separate parish council; or
+  - (d) a community council.]
+
+- “ordinary functions”, in relation to a [[^F144]relevant authority], means functions of the authority which are not functions under this section.
+
+##### 96 Regulation of trading powers
+
+(1) The appropriate person may by order impose conditions in relation to the exercise by a [[^F145]relevant authority] of—
+
+(a) a power to do anything for a commercial purpose, or
+
+(b) a power to do anything for such a purpose through a company.
+
+(2) In exercising such a power as is mentioned in subsection (1), a [[^F146]relevant authority] shall have regard to such guidance as the appropriate person may issue.
+
+(3) An order under this section may be made in relation to—
+
+(a) all [[^F147]relevant authorities],
+
+(b) particular [[^F148]relevant authorities], or
+
+(c) particular descriptions of [[^F149]relevant authority].
+
+[[^F150](4) In this section, “relevant authority” has the meaning given in section 95.]
+
+(5) In subsection (1)(b), “company” has the same meaning as in Part 5 of the Local Government and Housing Act 1989.
+
+##### 97 Power to modify enactments in connection with charging or trading
+
+(1) If it appears to the [[^F151]appropriate authority] that an enactment (whenever passed or made), other than section 93(2) or 95(2), prevents or obstructs [[^F152]relevant authorities]—
+
+(a) charging by agreement for the provision of a discretionary service, or
+
+(b) doing for a commercial purpose anything which they are authorised to do for the purpose of carrying on any of their ordinary functions,
+
+[[^F153]the appropriate authority] may by order amend, repeal, revoke or disapply the enactment.
+
+(2) The [[^F154]appropriate authority] may by order amend, repeal, revoke or disapply an enactment (whenever passed or made), other than section 93, which makes in relation to a [[^F155]relevant authority] provision for, or in connection with, power to charge for the provision of a discretionary service.
+
+(3) The power under subsection (1) or (2) to amend or disapply an enactment includes power to amend or disapply an enactment for a particular period.
+
+(4) An order under this section may be made in relation to—
+
+(a) all [[^F156]relevant authorities],
+
+(b) particular [[^F157]relevant authorities], or
+
+(c) particular descriptions of [[^F158]relevant authority].
+
+(5) An order under subsection (1)(b) may be made in relation to—
+
+(a) all things authorised to be done for the purpose of carrying on a particular function,
+
+(b) particular things authorised to be done for that purpose, or
+
+(c) particular descriptions of thing authorised to be so done.
+
+(6) An order under subsection (1)(b) may not be used to authorise a [[^F159]relevant authority] to do in relation to a person anything which it is required to do in relation to him under its ordinary functions.
+
+[^F160]7A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F160]7B . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F160]7C . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F161]8 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(9) Subject to subsection (10), no order shall be made [[^F162]by the Secretary of State] under this section unless a draft of the statutory instrument containing the order has been laid before, and approved by resolution of, each House of Parliament.
+
+(10) An order under this section which is made [[^F163]by the Secretary of State] only for the purpose of amending an earlier order under this section—
+
+(a) so as to extend the earlier order, or any provision of the earlier order, to a particular authority or to authorities of a particular description, or
+
+(b) so that the earlier order, or any provision of the earlier order, ceases to apply to a particular authority or to authorities of a particular description,
+
+shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+[[^F164](10A) Subject to subsection (10B), no order may be made by the Welsh Ministers under this section unless a draft of the statutory instrument containing the order has been laid before, and approved by a resolution of, the National Assembly for Wales.
+
+(10B) An order under this section which is made by the Welsh Ministers only for the purpose mentioned in subsection (10) is subject to annulment in pursuance of a resolution of the National Assembly for Wales.]
+
+(11) In this section—
+
+- [[^F165]“the appropriate authority” means—
+
+  - in relation to England, the Secretary of State; and
+  - in relation to Wales, the Welsh Ministers;]
+
+- “discretionary service”, in relation to a [[^F166]relevant authority], means a service which the authority is authorised, but not required, to provide;
+
+- “enactment” includes an enactment comprised in subordinate legislation (within the meaning of the Interpretation Act 1978 (c. 30));
+
+- “ordinary functions”, in relation to a [[^F166]relevant authority], means functions of the authority which are not functions under section 95.
+
+- [[^F167]“relevant authority” means—
+
+  - in relation to England—
+  
+    - a best value authority in England;
+    - a fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004;
+    - a parish council; or
+    - a parish meeting of a parish which does not have a separate parish council; and
+  
+  - [[^F168]in relation to Wales—
+  
+    - a county council or county borough council in Wales;
+    - a community council;
+    - a National Park authority for a National Park in Wales;
+    - a fire and rescue authority in Wales, constituted by a scheme under section 2 of the Fire and Rescue Services Act 2004 or a scheme to which section 4 of that Act applies.]]
+
+##### 98 Procedure for orders under section 97[[^F169]: England]
+
+(1) Before making an order under section 97, the Secretary of State shall consult—
+
+(a) such [[^F170]relevant authorities] as appear to him to be likely to be affected by his proposals, and
+
+(b) such other persons as appear to him to be representative of interests likely to be so affected.
+
+(2) If following consultation under subsection (1) [^F171]..., the Secretary of State proposes to make an order under [[^F172]section 97], he shall lay before each House of Parliament a document which—
+
+(a) explains his proposals,
+
+(b) sets them out in the form of a draft order, [[^F173]and]
+
+(c) gives details of consultation under subsection (1), [^F174]...
+
+[^F175]d . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) Where a document relating to proposals is laid before Parliament under subsection (2), no draft of an order under section 97 to give effect to the proposals (with or without modification) shall be laid before Parliament until after the expiry of the period of sixty days beginning with the day on which the document was laid.
+
+(4) In calculating the period mentioned in subsection (3), no account shall be taken of any time during which —
+
+(a) Parliament is dissolved or prorogued, or
+
+(b) either House is adjourned for more than four days.
+
+(5) In preparing a draft order under section 97 the Secretary of State shall consider any representations made during the period mentioned in subsection (3).
+
+(6) A draft order laid before Parliament in accordance with section 97(9) must be accompanied by a statement of the Secretary of State giving details of—
+
+(a) any representations considered in accordance with subsection (5), and
+
+(b) any changes made to the proposals contained in the document laid before Parliament under subsection (2).
+
+(7) Nothing in this section applies to an order under section 97 which is made only for the purpose mentioned in section 97(10).
+
+[[^F176](8) In this section, “relevant authority” has the meaning given in section 97.]
+
+##### 98A [[^F177]Procedure for orders under section 97: Wales
+
+(1) Before making an order under section 97, the Welsh Ministers must consult—
+
+(a) such relevant authorities as appear to them to be likely to be affected by their proposals, and
+
+(b) such other persons as appear to them to be representative of interests likely to be so affected.
+
+(2) If, following consultation under subsection (1), the Welsh Ministers propose to make an order under section 97, they must lay before the National Assembly for Wales a document which—
+
+(a) explains their proposals,
+
+(b) sets them out in the form of a draft order, and
+
+(c) gives details of the consultation under subsection (1).
+
+(3) Where a document relating to proposals is laid before the National Assembly for Wales under subsection (2), no draft of an order under section 97 to give effect to the proposals (with or without modification) may be laid before the Assembly until after the expiry of the period of sixty days beginning with the day on which the document was laid.
+
+(4) In calculating the period mentioned in subsection (3) no account is to be taken of any time during which the National Assembly for Wales is dissolved or is in recess for more than four days.
+
+(5) In preparing a draft order under section 97 the Welsh Ministers must consider any representations made during the period mentioned in subsection (3).
+
+(6) A draft order laid before the National Assembly for Wales in accordance with section 97(10A) must be accompanied by a statement of the Welsh Ministers giving details of—
+
+(a) any representations considered in accordance with subsection (5), and
+
+(b) any changes made to the proposals contained in the document laid before the Assembly under subsection (2).
+
+(7) Nothing in this section applies to an order under section 97 which is made only for the purpose mentioned in section 97(10B).
+
+(8) In this section, “relevant authority” has the meaning given in section 97.]
+
+#### Performance categories
+
+##### [^F178]99 Categorisation of English local authorities by reference to performance
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### 100 Exercise of powers by reference to authorities' performance categories
+
+[^F179]1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F179]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) Schedule 3 (which amends certain of the provisions conferring, or governing the exercise of, [[^F180]certain powers] and does so for purposes of their exercise in relation to authorities, whether or not English local authorities, to which they apply) has effect.
+
+[^F181]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F181]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F181]6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F181]7 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F181]8 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Contracting-out
+
+##### 101 Staff transfer matters: general
+
+(1) In exercising a power to contract with a person for the provision of services, [[^F182]a relevant authority] must—
+
+(a) deal with matters affecting—
+
+(i) who will be the employer of existing staff if a contract is entered into and carried out, or
+
+(ii) what will be the terms and conditions of employment of existing staff, or the arrangements for their pensions, if their employer changes as a result of a contract being entered into and carried out,
+
+in accordance with directions given to it by the appropriate person;
+
+(b) have regard to guidance issued to it by the appropriate person on matters relating to the employment or pensions of existing staff.
+
+(2) In subsection (1), references to existing staff, in relation to a contract for the provision of services, are to staff who before the contract is carried out are engaged in the provision of any of the services.
+
+(3) Where the provision of any services under a contract with [[^F183]a relevant authority] for their provision is to cease in circumstances where they are to be provided instead by members of the authority’s staff, the authority shall comply with directions given to it by the appropriate person for the purpose of requiring it to offer employment to staff who, before the services cease to be provided under the contract, are engaged in the provision of any of the services.
+
+(4) The duties under Part 1 of the Local Government Act 1999 (c. 27) (best value) of a best value authority have effect subject to subsections (1) and (3).
+
+(5) The duties under sections 1 and 2 of the Local Government in Scotland Act 2003 (asp 1) (best value) of a relevant authority have effect subject to subsections (1) and (3).
+
+[^F184]5A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6) Directions given, or guidance issued, for the purposes of subsection (1) or (3)—
+
+(a) may be addressed to—
+
+(i) [[^F185]all relevant authorities], or
+
+(ii) authorities of a particular description;
+
+(b) may be different for different cases or authorities.
+
+[^F186]7 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[[^F187](7A) In this section, in relation to England and Wales, “ relevant authority ” means—
+
+(a) a best value authority;
+
+[[^F188](aa) a county council or county borough council in Wales;]
+
+[[^F189](ab) a National Park authority for a National Park in Wales;
+
+(ac) a fire and rescue authority in Wales, constituted by a scheme under section 2 of the Fire and Rescue Services Act 2004 or a scheme to which section 4 of that Act applies;]
+
+[[^F190](ad) a corporate joint committee established by regulations made under Part 5 of the Local Government and Elections (Wales) Act 2021;]
+
+[[^F189](b) a parish council;
+
+(c) a parish meeting of a parish which does not have a separate parish council; or
+
+(d) a community council.]
+
+(8) In this section[[^F191], in relation to Scotland]—
+
+- “appropriate person”[^F192]... means the Scottish Ministers; and
+
+- “relevant authority” means—
+
+  - (a) a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994 (c. 39),
+  - (b) the Strathclyde Passenger Transport Authority, or
+  - (c) any other body to which Part 1 of the Local Government in Scotland Act 2003 (asp 1) (best value and accountability) applies.]
+
+##### 102 Staff transfer matters: pensions
+
+(1) The appropriate person shall exercise his power to give directions under section 101(1) so as to secure that where a local authority is contracting with a person (“the contractor”) for the provision of services that are to be provided under a contract instead of by employees of the authority, it does so on terms—
+
+(a) that require the contractor, in the event of there being any transferring employees, to secure pension protection for each of them, and
+
+(b) that, so far as relating to the securing of pension protection for a transferring employee, are enforceable by the employee.
+
+(2) For the purposes of subsection (1)—
+
+(a) “transferring employee” means an employee of the authority whose contract of employment becomes, by virtue of the application of the TUPE regulations in relation to what is done for the purposes of carrying out the contract between the authority and the contractor, a contract of employment with someone other than the authority, and
+
+(b) “pension protection” is secured for a transferring employee if after that change in his employer he has, as an employee of his new employer, rights to acquire pension benefits and those rights—
+
+(i) are the same as, or
+
+(ii) under the directions count as being broadly comparable to or better than,
+
+those that he had as an employee of the authority.
+
+(3) The appropriate person shall exercise his power to give directions under section 101(1) so as to secure that where—
+
+(a) a local authority has contracted with a person (“the first contractor”) for the provision of services,
+
+(b) the application of the TUPE regulations in relation to what was done for the purposes of carrying out the contract between the authority and the first contractor resulted in employees of the authority (“the original employees”) becoming employees of someone other than the authority, and
+
+(c) the authority is contracting with a person (“the subsequent contractor”) for the provision of any of the services,
+
+the authority contracts with the subsequent contractor on terms satisfying the requirements of subsection (4).
+
+(4) Those requirements are that the terms—
+
+(a) require the subsequent contractor, in the event of there being any transferring original employees, to secure pension protection for each of them, and
+
+(b) so far as relating to the securing of pension protection for an original employee, are enforceable by the employee.
+
+(5) For the purposes of subsection (4)—
+
+(a) “transferring original employee” means an original employee—
+
+(i) whose contract of employment becomes, by virtue of the application of the TUPE regulations in relation to what is done for the purposes of carrying out the contract between the authority and the subsequent contractor, a contract of employment with someone other than his existing employer, and
+
+(ii) whose contract of employment on each occasion when an intervening contract was carried out became, by virtue of the application of the TUPE regulations in relation to what was done for the purposes of carrying out the intervening contract, a contract of employment with someone other than his existing employer;
+
+(b) “pension protection” is secured for a transferring original employee if after the change in his employer mentioned in paragraph (a)(i) he has, as an employee of his new employer, rights to acquire pension benefits and those rights—
+
+(i) are the same as, or
+
+(ii) under the directions count as being broadly comparable to or better than,
+
+those that he had before that change.
+
+(6) In subsection (5)(a)(ii), “intervening contract” means a contract with the authority for the provision, at times after they are provided under the contract with the first contractor and before they are to be provided under a contract with the subsequent contractor, of the services to be provided under the contract with the subsequent contractor.
+
+(7) Any expression used in this section, and in the TUPE regulations, has in this section the meaning that it has in the TUPE regulations.
+
+[[^F193](7A) In this section, in relation to England, “ local authority ” means—
+
+(a) a county council in England, a district council, a London borough council, a parish council or a parish meeting of a parish which does not have a separate parish council;
+
+(b) the Council of the Isles of Scilly;
+
+(c) the Common Council of the City of London in its capacity as a local authority; and
+
+(d) the Greater London Authority so far as it exercises its functions through the Mayor.
+
+[[^F194](7B) In this section, in relation to Wales, “local authority” means—
+
+(a) a county council, county borough council or community council in Wales;
+
+(b) a corporate joint committee established by regulations made under Part 5 of the Local Government and Elections (Wales) Act 2021.]]
+
+(8) In this section[[^F195], in relation to Scotland]—
+
+- “appropriate person”, [^F196]... means the Scottish Ministers;
+
+- “local authority”—
+
+  - (a) [^F197]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (b) [^F198]... means a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994 (c. 39);
+
+[[^F199](9) In this section,]
+
+- “the TUPE regulations” means the [[^F200]Transfer of Undertakings (Protection of Employment) Regulations 2006], or any regulations replacing those regulations, as from time to time amended.
+
+#### 2004 local government elections
+
+##### 103 Power to change date of elections in England
+
+(1) The Secretary of State may by order provide that in 2004—
+
+(a) the ordinary day of election of councillors for—
+
+(i) all local government areas in England, or
+
+(ii) all local government areas in England, except parishes, and
+
+(b) the day on which the poll is to be held at the second ordinary election under the Greater London Authority Act 1999 (c. 29),
+
+shall be changed so as to be the same as the date of the poll at the European Parliamentary general election.
+
+(2) Where the Secretary of State makes an order under subsection (1), he may by order—
+
+(a) make provision modifying, in relation to elections in England in 2004—
+
+(i) section 89(1) or (2) of the Local Government Act 1972 (c. 70) (holding of elections to fill casual vacancies in the office of councillor for a principal area), or
+
+(ii) rules made for the purposes of section 89(6) of that Act (which provides for casual vacancies in the office of parish councillor to be filled in accordance with rules under section 36 of the Representation of the People Act 1983 (c. 2));
+
+(b) make provision disapplying section 16(1) of the Representation of the People Act 1985 (c. 50) (which postpones for 3 weeks the poll at an election of parish councillors where the date of the poll at a European Parliamentary general election and the ordinary day of election for councillors in England and Wales are the same) in relation to elections in England in 2004;
+
+(c) make such provision as he thinks fit for the purpose of enabling the annual meeting in 2004 of an authority to which subsection (3) applies to be held after the date of the poll at the European Parliamentary general election.
+
+(3) This subsection applies to—
+
+(a) any of the following for which 2004 is not a year of ordinary elections of councillors to the council—
+
+(i) a county council in England,
+
+(ii) a district council, and
+
+(iii) a parish council;
+
+(b) an authority established by Part 4 of the Local Government Act 1985 (c. 51) (joint authorities);
+
+(c) a police authority established under section 3 of the Police Act 1996 (c. 16);
+
+(d) the Metropolitan Police Authority.
+
+(4) Where the National Assembly for Wales makes an order under section 104, the Secretary of State may by order make in relation to elections in England such consequential provision, including provision excluding or modifying the application of any enactment, as he thinks fit.
+
+(5) Before making an order under this section, the Secretary of State must consult—
+
+(a) the Electoral Commission, and
+
+(b) such other persons or bodies as he considers appropriate.
+
+(6) Subsection (5) may be satisfied by consultation before, as well as by consultation after, the commencement of this section.
+
+(7) In subsection (1)—
+
+- “local government area” has the same meaning as in the Representation of the People Act 1983 (c. 2);
+- “ordinary election” is to be read in accordance with section 2(7) of the Greater London Authority Act 1999 (c. 29).
+
+(8) In subsection (4) “enactment” includes an enactment comprised in secondary legislation within the meaning of the Interpretation Act 1978 (c. 30).
+
+##### 104 Power to change date of elections in Wales
+
+(1) The National Assembly for Wales may by order provide that in 2004 the ordinary day of election of councillors for—
+
+(a) all local government areas in Wales, or
+
+(b) all local government areas in Wales, except communities, or
+
+(c) all communities,
+
+shall be changed so as to be the same as the date of the poll at the European Parliamentary general election.
+
+(2) Where the Assembly makes an order under subsection (1), it may by order—
+
+(a) make provision modifying, in relation to elections in Wales in 2004—
+
+(i) section 89(1) or (2) of the Local Government Act 1972 (c. 70) (holding of elections to fill casual vacancies in the office of councillor for a principal area), or
+
+(ii) rules made for the purposes of section 89(6) of that Act (which provides for casual vacancies in the office of community councillor to be filled in accordance with rules under section 36 of the Representation of the People Act 1983);
+
+(b) make provision disapplying section 16(1) of the Representation of the People Act 1985 (c. 50) (which postpones for 3 weeks the poll at an election of community councillors where the date of the poll at a European Parliamentary general election and the ordinary day of election for councillors in England and Wales are the same) in relation to elections in Wales in 2004.
+
+(3) Where the Secretary of State makes an order under section 103, the National Assembly for Wales may by order make in relation to elections in Wales such consequential provision, including provision excluding or modifying the application of any enactment, as it thinks fit.
+
+(4) Before making an order under this section, the National Assembly for Wales must consult—
+
+(a) the Electoral Commission, and
+
+(b) such other persons or bodies as it considers appropriate.
+
+(5) Subsection (4) may be satisfied by consultation before, as well as by consultation after, the commencement of this section.
+
+(6) In subsection (1), “local government area” has the same meaning as in the Representation of the People Act 1983 (c. 2).
+
+(7) In subsection (3) “enactment” includes an enactment comprised in secondary legislation within the meaning of the Interpretation Act 1978 (c. 30).
+
+#### Valuation Tribunal Service
+
+##### 105 The Valuation Tribunal Service
+
+(1) There shall be a body corporate to be known as the Valuation Tribunal Service (referred to in this section, section 106 and Schedules 4 and 5 as “the Service”).
+
+(2) The Service shall have the following functions in relation to [[^F201]the Valuation Tribunal for England (referred to in this section and Schedule 4 as “the Tribunal”)]—
+
+(a) providing, or arranging for the provision of, the services required for the operation of [[^F202]the Tribunal], in particular—
+
+(i) accommodation,
+
+(ii) staff (including [[^F203]the clerk of the Tribunal]),
+
+(iii) information technology,
+
+(iv) equipment, and
+
+(v) training for members and staff of [[^F204]the Tribunal (including the clerk of the Tribunal)];
+
+[[^F205](aa) making payments in accordance with paragraph A14 [[^F206]or A18A(8)] of Schedule 11 to the Local Government Finance Act 1988;]
+
+(b) giving general advice about procedure in relation to proceedings before [[^F207]the Tribunal].
+
+(3) The Service shall provide the Secretary of State with such information, advice and assistance as he may require.
+
+(4) The Service may do anything which it considers is calculated to facilitate, or is conducive or incidental to, the carrying-out of its functions.
+
+(5) The Service shall carry out its functions with respect to [[^F208]the Tribunal] in the manner which it considers best calculated to secure [[^F209]its] efficient and independent operation.
+
+(6) The Service shall, in relation to its functions with respect to [[^F210]the Tribunal], consult [[^F211]the President of the Tribunal] about the carrying-out of its functions.
+
+(7) The Secretary of State may—
+
+(a) after consultation with the Service, give directions to it for the purpose of securing the effective carrying-out of its functions, and
+
+(b) issue guidance to the Service about the carrying-out of its functions.
+
+(8) The Service shall, in carrying out its functions—
+
+(a) comply with any directions under subsection (7)(a), and
+
+(b) have regard to any guidance under subsection (7)(b).
+
+(9) Schedule 4 (which makes further provision about the Service) has effect.
+
+##### 106 Transfer to Service of property, rights and liabilities
+
+(1) The Secretary of State may make one or more schemes for the transfer to the Service of—
+
+(a) such of his property, rights and liabilities, or
+
+(b) such of the property, rights and liabilities of a valuation tribunal in England,
+
+as appear to him to be appropriate to be transferred for the performance of the Service’s functions.
+
+(2) On the day appointed by a transfer scheme for the coming into force of the scheme, the property, rights and liabilities which are the subject of the scheme shall, by virtue of this subsection, be transferred in accordance with the provisions of the scheme.
+
+(3) Schedule 5 (which makes further provision in relation to transfer schemes) has effect.
+
+#### Audit Commission
+
+##### [^F212]107 Auditors' public interest reports: time allowed for consideration
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### [^F213]108 Auditors' public interest reports: publicity
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### [^F214]109 Registered social landlords
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### [^F215]110 Financial year
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### [^F216]111 Delegation
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Other
+
+##### [^F217]112 Standards Board for England: delegation
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### 113 Standards committees and monitoring officers: delegation
+
+(1) In Chapter 1 of Part 3 of the Local Government Act 2000 (conduct of local government members), after section 54 there is inserted—
+
+> **54A Sub-committees of standards committees**
+>
+> (1) A standards committee of a relevant authority may appoint one or more sub-committees for the purpose of discharging any of the committee’s functions, whether or not to the exclusion of the committee.
+>
+> (2) Subsection (1) does not apply to functions under section 55 or 56.
+>
+> (3) A sub-committee under subsection (1) shall be appointed from among the members of the standards committee by which it is appointed.
+>
+> (4) As regards sub-committees appointed under subsection (1) by a standards committee of a relevant authority in England or of a police authority in Wales—
+>
+> (a) regulations under section 53(6)(a) and (c) to (g) may make provision in relation to such sub-committees, and
+>
+> (b) sections 53(7), (8) and (10) and 54(4) and (6) apply in relation to such sub-committees as they apply in relation to standards committees.
+>
+> (5) As regards sub-committees appointed under subsection (1) by a standards committee of a relevant authority in Wales other than a police authority—
+>
+> (a) regulations under section 53(11) may make provision in relation to such sub-committees, and
+>
+> (b) section 54(5) and (7) apply in relation to such sub-committees as they apply in relation to standards committees.
+>
+> (6) Subject to any provision made by regulations under section 53(6)(a) or (11)(a) (as applied by this section)—
+>
+> (a) the number of members of a sub-committee under subsection (1), and
+>
+> (b) the term of office of those members,
+>
+> are to be fixed by the standards committee by which the sub-committee is appointed.
+
+(2) In Chapter 5 of that Part (conduct in local government: supplementary), after section 82 there is inserted—
+
+> **Delegation by monitoring officers**
+>
+> **82A Monitoring officers: delegation of functions under Part 3**
+>
+> (1) This section applies to functions of a monitoring officer of a relevant authority in relation to matters referred to him under section 60(2), 64(2), 70(4) or 71(2).
+>
+> (2) Where the monitoring officer considers that in a particular case he himself ought not to perform particular functions to which this section applies, those particular functions shall in that case be performed personally by a person nominated for the purpose by the monitoring officer.
+>
+> (3) Where a deputy nominated by the monitoring officer under section 5(7) of the Local Government and Housing Act 1989 (nomination of member of monitoring officer’s staff to act as deputy when monitoring officer absent or ill) considers that in a particular case he himself ought not to perform particular functions—
+>
+> (a) to which this section applies, and
+>
+> (b) which, by reason of the absence or illness of the monitoring officer, would but for this subsection fall to be performed by the deputy,
+>
+> those particular functions shall, while the monitoring officer continues to be unable to act by reason of absence or illness, be performed in that case personally by a person nominated for the purpose by the deputy.
+>
+> (4) Where functions to which this section applies are to be performed by a person nominated under subsection (2) or (3) who is an officer of the relevant authority, the authority shall provide the officer with such staff, accommodation and other resources as are, in the officer’s opinion, sufficient to allow those functions to be performed.
+>
+> (5) Where functions to which this section applies are to be performed by a person nominated under subsection (2) or (3) who is not an officer of the relevant authority, the authority shall—
+>
+> (a) pay the person a reasonable fee for performing the functions,
+>
+> (b) reimburse expenses properly incurred by the person in performing the functions, but only to the extent that the amount of the expenses is reasonable, and
+>
+> (c) provide the person with such staff, accommodation and other resources as are reasonably necessary for the person’s performance of the functions.
+
+(3) In section 5 of the Local Government and Housing Act 1989 (c. 42) (designation etc. of monitoring officers), after subsection (7) there is inserted—
+
+> (7A) Subsection (7) above shall have effect subject to section 82A of the Local Government Act 2000 (monitoring officers: delegation of functions under Part 3 of that Act).
+
+##### 114 Paid time off for councillors not to be political donation
+
+(1) In paragraph 4(1) of Schedule 7 to the Political Parties, Elections and Referendums Act 2000 (c. 41) (matters that are not donations), after paragraph (a) there is inserted—
+
+> (aa) remuneration allowed to an employee by his employer if the employee is a member of a local authority and the remuneration is in respect of time the employer permits the employee to take off during the employee’s working hours for qualifying business—
+>
+> (i) of the authority,
+>
+> (ii) of any body to which the employee is appointed by, or is appointed following nomination by, the authority or a group of bodies that includes the authority, or
+>
+> (iii) of any other body if it is a public body;
+
+.
+
+(2) In paragraph 4 of that Schedule, after sub-paragraph (3) there is inserted—
+
+> (4) In sub-paragraph (1)(aa)—
+>
+> “employee” and “employer”—
+>
+> (a) in relation to England and Wales, and Scotland, have the same meaning as in the Employment Rights Act 1996, and
+>
+> (b) in relation to Northern Ireland, have the same meaning as in the Employment Rights (Northern Ireland) Order 1996;
+>
+> “local authority” means a local authority in any part of the United Kingdom, including the Common Council of the City of London but excluding a parish or community council;
+>
+> “working hours” of an employee—
+>
+> (a) in relation to England and Wales, and Scotland, has the same meaning as in section 50 of the Employment Rights Act 1996, and
+>
+> (b) in relation to Northern Ireland, has the same meaning as in Article 78 of the Employment Rights (Northern Ireland) Order 1996;
+>
+> “qualifying business”, in relation to a body, means—
+>
+> (a) the doing of anything for the purpose of the discharge of the functions of the body or of any of its committees or sub-committees, and
+>
+> (b) where the body is a local authority operating executive arrangements within the meaning of Part 2 of the Local Government Act 2000 and arrangements exist for functions of any other body to be discharged by the authority’s executive or any committee or member of the executive, the doing of anything for the purpose of the discharge of those functions.
+
+(3) Subsections (1) and (2) shall be deemed to have come into force on 16th February 2001.
+
+(4) The Electoral Commission shall remove from the register kept by it under section 69 of the Political Parties, Elections and Referendums Act 2000 (c. 41) any entry that they would not have been required to make had subsections (1) and (2) actually been in force throughout the period beginning with 16th February 2001 and ending with the passing of this Act.
+
+##### [^F218]115 Overview and scrutiny committees: voting rights of co-opted members
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### 116 Local polls
+
+(1) A local authority may conduct a poll to ascertain the views of those polled about—
+
+(a) any matter relating to—
+
+(i) services provided in pursuance of the authority’s functions, or
+
+(ii) the authority’s expenditure on such [[^F219]services.]
+
+[^F220]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) It shall be for the local authority concerned to decide—
+
+(a) who is to be polled, and
+
+(b) how the poll is to be conducted.
+
+(3) In conducting a poll under this section, a local authority must have regard to any guidance issued by the appropriate person on facilitating participation in a poll under this section by such of those polled as are disabled people.
+
+(4) This section is without prejudice to any powers of a local authority exercisable otherwise than by virtue of this section.
+
+(5) In this section, “local authority” means—
+
+(a) in relation to England—
+
+(i) a county council;
+
+(ii) a district council;
+
+(iii) a London borough council;
+
+(iv) the Greater London Authority;
+
+(v) the Common Council of the City of London in its capacity as a local authority;
+
+(vi) the Council of the Isles of Scilly, and
+
+(b) in relation to Wales, a county council or a county borough council.
+
+##### 117 Generally accepted accounting practice: power to amend enactments
+
+(1) The appropriate person may by order amend or repeal an enactment relating to a local authority if he considers it appropriate to do so in the light of generally accepted accounting practice as it applies to local government.
+
+(2) It does not matter for the purposes of subsection (1) whether the enactment itself relates to the accounts of a local authority.
+
+(3) No order under this section shall be made by the Secretary of State unless a draft of the statutory instrument containing the order has been laid before, and approved by a resolution of, each House of Parliament.
+
+(4) In this section—
+
+- “enactment” includes an enactment contained in this Act or any Act passed after this Act;
+
+- “local authority” means—
+
+  - (a) a body which is a local authority for the purposes of Part 1, or
+  - (b) a parish council, a community council or charter trustees.
+
+##### 118 Appropriate sum under section 137(4) of the Local Government Act 1972
+
+(1) In section 137 of the Local Government Act 1972 (c. 70) (which enables local authorities to incur expenditure for certain purposes not otherwise authorised), in subsection (4)(a) (which makes provision in connection with the calculation of the maximum amount of such expenditure in any financial year), for “subsection (4AA) below” there is substituted “ Schedule 12B to this Act ”.
+
+(2) After Schedule 12A to that Act there is inserted—
+
+> **SCHEDULE 12B — Appropriate sum under section 137(4)**
+>
+> *Section 137(4)(a)*
+>
+> **1** This Schedule has effect to determine for the purposes of section 137(4)(a) above the sum that is for the time being appropriate to a local authority.
+>
+> **2** The sum appropriate to the local authority for the financial year in which section 118 of the Local Government Act 2003 comes into force is £5.00.
+>
+> **3** (1) For each subsequent financial year, the sum appropriate to the local authority is the greater of the sum appropriate to the authority for the financial year preceding the year concerned and the sum produced by the following formula—
+>
+> (A × B)/(C)
+>
+> (2) A is the sum appropriate to the local authority for the financial year preceding the year concerned.
+>
+> (3) B is the retail prices index for September of the financial year preceding the year concerned.
+>
+> (4) C is the retail prices index for September of the financial year which precedes that preceding the year concerned except where sub-paragraph (5) below applies.
+>
+> (5) Where the base month for the retail prices index for September of the financial year mentioned in sub-paragraph (4) above (the first year) differs from that for the index for September of the financial year mentioned in sub-paragraph (3) above (the second year), C is the figure which the Secretary of State calculates would have been the retail prices index for September of the first year if the base month for that index had been the same as the base month for the index for September of the second year.
+>
+> (6) References in sub-paragraphs (3) to (5) above to the retail prices index are to the general index of retail prices (for all items) published by the Office for National Statistics.
+>
+> (7) If that index is not published for a month for which it is relevant for the purposes of any of those sub-paragraphs, the sub-paragraph shall be taken to refer to any substituted index or index figures published by that Office.
+>
+> (8) For the purposes of sub-paragraph (5) above, the base month for the retail prices index for September of a particular year is the month—
+>
+> (a) for which the retail prices index is taken to be 100, and
+>
+> (b) by reference to which the index for the September in question is calculated.
+>
+> (9) In calculating the sum produced by the formula in sub-paragraph (1) above a part of a whole (if any) shall be calculated to two decimal places only—
+>
+> (a) adding one hundredth where (apart from this sub-paragraph) there would be five, or more than five, one-thousandths, and
+>
+> (b) ignoring the one-thousandths where (apart from this sub-paragraph) there would be less than five one-thousandths.
+>
+> **4** Before the beginning of a financial year, the appropriate person may by order provide for a different sum to have effect as the sum appropriate to a local authority for the year in place of the sum calculated for the year in accordance with paragraph 3 above.
+>
+> **5** In paragraph 4 above “the appropriate person” means—
+>
+> (a) as respects England, the Secretary of State;
+>
+> (b) as respects Wales, the National Assembly for Wales.
+>
+> **6** An order under paragraph 4 above may make different provision in relation to local authorities of different descriptions.
+>
+> **7** An order under paragraph 4 above made by the Secretary of State shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+##### [^F221]119 Use of fixed penalties paid for litter and dog-fouling offences
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### 120 Regulation of cosmetic piercing and skin-colouring businesses
+
+(1) Section 15 of the Local Government (Miscellaneous Provisions) Act 1982 (c. 30) (regulation of tattooing, ear-piercing and electrolysis businesses) is amended as follows.
+
+(2) In subsection (1) (requirement for person carrying on business to be registered), for paragraph (b) (ear-piercing) there is substituted—
+
+> (aa) of semi-permanent skin-colouring;
+>
+> (b) of cosmetic piercing; or
+
+(and in the side-note for “ear-piercing” there is substituted “ semi-permanent skin-colouring, cosmetic piercing ”).
+
+(3) In subsection (2) (requirement to register premises where business carried on)—
+
+(a) for “ear-piercing” there is substituted “ semi-permanent skin-colouring, cosmetic piercing ”, and
+
+(b) for “pierce their ears” there is substituted “ carry out semi-permanent skin-colouring on them, pierce their bodies ”.
+
+(4) In subsection (5) (local authority may not require particulars about individuals whose ears have been pierced etc.), for “or whose ears he has pierced” there is substituted “ , whose bodies he has pierced or on whom he has carried out semi-permanent skin-colouring ”.
+
+(5) After subsection (8) there is inserted—
+
+> (9) In this section “semi-permanent skin-colouring” means the insertion of semi-permanent colouring into a person’s skin.
+
+(6) Schedule 6 (which makes provision about transition) has effect.
+
+##### [^F222]121 Fire brigade establishment schemes: removal of Secretary of State’s functions
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### 122 Repeal of prohibition on promotion of homosexuality
+
+Section 2A of the Local Government Act 1986 (c. 10) (local authorities prohibited from promoting homosexuality) ceases to have effect.
+
+### Chapter 2 — General
+
+#### 123 Orders and regulations
+
+(1) Any power to make orders or regulations under this Act includes power—
+
+(a) to make different provision for different cases or areas, and
+
+(b) to make incidental, supplementary, consequential or transitional provision or savings (including provision amending or repealing any enactment or instrument made under any enactment).
+
+(2) The power under subsection (1)(a) includes, in particular, power to make different provision for different local authorities or descriptions of local authority (including descriptions framed by reference to authorities in particular areas).
+
+(3) The generality of the power under subsection (1)(a) shall not be taken to be prejudiced by any specific provision of this Act authorising differential provision.
+
+(4) No—
+
+(a) order under this Act which, in exercise of the power under subsection (1)(b) to make incidental or supplementary provision, amends or repeals any enactment contained in an Act, or
+
+(b) regulations under this Act which, in exercise of that power to make incidental or supplementary provision, amend or repeal any such enactment,
+
+shall be made by the Secretary of State unless a draft of the statutory instrument containing the order or regulations (whether containing the order, or regulations, alone or with other provisions) has been laid before, and approved by a resolution of, each House of Parliament.
+
+(5) Any power to make orders or regulations under this Act is exercisable by statutory instrument.
+
+(6) A statutory instrument that—
+
+(a) contains an order or regulations under this Act, and
+
+(b) is not subject to any requirement that a draft of the instrument be laid before, and approved by a resolution of, each House of Parliament,
+
+shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(7) Subsection (6) does not apply to a statutory instrument containing an order or regulations made by the National Assembly for Wales.
+
+(8) This section does not apply to orders under section 128.
+
+#### 124 General interpretation
+
+In this Act—
+
+- “appropriate person” means—
+
+  - (a) in relation to England, the Secretary of State, and
+  - (b) in relation to Wales, the National Assembly for Wales;
+
+- “best value authority” means an authority or body which is a best value authority for the purposes of Part 1 of the Local Government Act 1999 (c. 27);
+
+- “financial year” means a period of 12 months beginning with 1st April;
+
+- [^F223]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+- [^F224]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 125 Application to Isles of Scilly
+
+Part 1 and sections 25 to 28 apply to the Isles of Scilly subject to such exceptions, adaptations and modifications as the Secretary of State may by order provide.
+
+#### 126 Financial provisions
+
+(1) There shall be paid out of money provided by Parliament—
+
+(a) any expenditure under this Act of a Minister of the Crown or government department, and
+
+(b) any increase attributable to this Act in the sums payable out of money so provided under any other enactment.
+
+(2) Any sums received under this Act by a Minister of the Crown shall be paid into the Consolidated Fund.
+
+(3) There shall be paid out of or into the Consolidated Fund any increase attributable to this Act in the sums payable out of or into that Fund under any other enactment.
+
+#### 127 Minor and consequential amendments and repeals
+
+(1) Schedule 7 (minor and consequential amendments) has effect.
+
+(2) The enactments and instruments specified in Schedule 8 are hereby repealed or revoked to the extent specified there.
+
+(3) The Secretary of State may by order make provision consequential on this Act amending, repealing or revoking (with or without savings) any provision of an Act passed before or in the same session as this Act, or of an instrument made under an Act before the passing of this Act.
+
+(4) In this section, “Act” includes a private or local Act.
+
+#### 128 Commencement
+
+(1) The following provisions shall come into force on the day on which this Act is passed—
+
+(a) this section and sections 30, 34, 35, 72, 73, 103, 104, 110, 114, 121, 123, 124 and 129;
+
+(b) paragraphs 7, 9(1), 24(1), (2) and (5), 25(1), 28, 33(1), 34, 35, 40, 51(1), 55 and 60 of Schedule 7, and section 127(1) so far as relating thereto;
+
+(c) Schedule 8, so far as relating to—
+
+(i) the Fire Services Act 1947 (c. 41),
+
+(ii) the Fire Services Act 1959 (c. 44),
+
+(iii) Schedule 9 to the Local Government Finance Act 1988 (c. 41), and
+
+(iv) paragraph 80(1) of Schedule 13 to the Local Government Finance Act 1992 (c. 14),
+
+and section 127(2) so far as relating thereto.
+
+(2) The following provisions shall come into force at the end of the period of two months beginning with the day on which this Act is passed—
+
+(a) Chapter 1 of Part 3;
+
+(b) sections 38 and 39, so far as relating to England;
+
+(c) Part 6, except sections 75(2) to (5) and 83;
+
+(d) sections 87, 88, 91, 93 to 98, 113, 116 and 122;
+
+(e) paragraphs 41 to 48, 49(a), 50(a), 52 to 54 and 81 of Schedule 7, and section 127(1) so far as relating thereto;
+
+(f) Schedule 8, so far as relating to—
+
+(i) section 2A of the Local Government Act 1986 (c. 10),
+
+(ii) section 28 of the Local Government Act 1988 (c. 9),
+
+(iii) Part 4 of Schedule 4 to the Local Government and Housing Act 1989 (c. 42),
+
+(iv) section 25 of the Local Government Finance Act 1992,
+
+(v) paragraphs 96 and 97 of Schedule 16 to the Local Government (Wales) Act 1994 (c. 19),
+
+(vi) paragraph 5 of Schedule 1 to the Education Act 1996 (c. 56),
+
+(vii) paragraph 13 of Schedule 30 to the School Standards and Framework Act 1998 (c. 31),
+
+(viii) section 31 of the Local Government Act 1999 (c. 27) and section 136(1) of the Greater London Authority Act 1999 (c. 29), and
+
+(ix) section 104 of the Local Government Act 2000 (c. 22),
+
+and section 127(2) so far as relating thereto.
+
+(3) The following provisions shall come into force on such day as the Secretary of State may by order appoint—
+
+(a) sections 62(2) and (11), 65, 70(4) to (6), 83, 92(1), 99, 100(1), (2) and (4) to (8), 105 to 108, 109(3) and (4), 111, 112, 115 and 125;
+
+(b) section 101, so far as relating to England and so far as relating to a best value authority in Wales mentioned in subsection (7) of that section;
+
+(c) section 109(1), so far as relating to registered social landlords for which the Housing Corporation is the Relevant Authority for the purposes of Part 1 of the Housing Act 1996 (c. 52);
+
+(d) Schedules 4 and 5;
+
+(e) paragraphs 1, 10, 11, 20, 21, 24(3), 25(4) to (6), 26(3), 27, 31, 33(2) and (4), 36 to 39, 65, 68 to 78 and 80 of Schedule 7, and section 127(1) so far as relating thereto;
+
+(f) Schedule 8, so far as consequential on any of the provisions mentioned in paragraphs (a) to (e), and section 127(2) so far as relating thereto.
+
+(4) The following provisions shall come into force on such day as the National Assembly for Wales may by order appoint—
+
+(a) sections 38 and 39, so far as relating to Wales;
+
+(b) sections 40, 61(6) and (7), 63, 70(7) to (9), 75(2) to (5) and 92(2);
+
+(c) section 101, so far as relating to a best value authority in Wales, other than one mentioned in subsection (7) of that section;
+
+(d) section 109(1), so far as relating to registered social landlords for which the Assembly is the Relevant Authority for the purposes of Part 1 of the Housing Act 1996 (c. 52), and section 109(2);
+
+(e) Schedule 2;
+
+(f) paragraphs 5, 9(2), 12 to 17, 22, 24(4), 25(2) and (3), 49(b), 50(b), 51(2), 56 to 58, 66(2), 67 and 79 of Schedule 7, and section 127(1) so far as relating thereto;
+
+(g) Schedule 8 so far as—
+
+(i) relating to section 137(4C) of the Local Government Act 1972 (c. 70) and paragraph 30 of Schedule 15 to the Local Government (Wales) Act 1994 (c. 19), or
+
+(ii) consequential on any of the provisions mentioned in paragraphs (a) to (f),
+
+and section 127(2) so far as relating thereto.
+
+(5) So far as relating to Scotland, sections 101 and 102 shall come into force on such day as the Scottish Ministers may by order appoint.
+
+(6) The remaining provisions of this Act—
+
+(a) so far as relating to England, shall come into force on such day as the Secretary of State may by order appoint, and
+
+(b) so far as relating to Wales, shall come into force on such day as the National Assembly for Wales may by order appoint.
+
+(7) Power to make orders under this section is exercisable by statutory instrument.
+
+(8) Orders under this section may make different provision for different purposes.
+
+(9) A person who has power under this section to appoint a day for the coming into force of a provision may by order make in connection with the coming into force of that provision such transitional provision or saving as the person considers necessary or expedient.
+
+#### 129 Short title and extent
+
+(1) This Act may be cited as the Local Government Act 2003.
+
+(2) Subject to the following provisions, this Act extends to England and Wales only.
+
+(3) Sections 83(2), 101 and 102 extend also to Scotland.
+
+(4) The following provisions extend also to Scotland, Northern Ireland and Gibraltar—
+
+(a) sections 103, 104 and 128,
+
+(b) this section, and
+
+(c) paragraph 7(2) of Schedule 7, and section 127(1) so far as relating thereto.
+
+(5) Section 114 extends also—
+
+(a) to Scotland, but only so far as (within the meaning of the Scotland Act 1998 (c. 46)) it confers or removes functions exercisable otherwise than in or as regards Scotland, and
+
+(b) to Northern Ireland.
+
+(6) Each of sections 123 and 124, so far as relating to any other provision of this Act, has the same extent as that other provision.
+
+(7) Except as provided by subsection (8), any amendment, repeal or revocation made by this Act has the same extent as the enactment or instrument to which it relates.
+
+(8) Subsection (7) does not apply to—
+
+(a) sections [^F225]85, 113(3), 114 and 121(a),
+
+(b) paragraphs 8 and 53 of Schedule 7, and
+
+(c) the entries in Schedule 8 relating to—
+
+(i) the Fire Services Act 1947 (c. 41),
+
+(ii) section 7(1) of the Fire Services Act 1959 (c. 44), and
+
+(iii) section 33 of the Local Government Act 1988 (c. 9).
+
+## SCHEDULE 1 — Capital finance: parish and community councils and charter trustees
+
+*Section 19*
+
+### Introductory
+
+**1** The following are local authorities for the purposes of this Schedule—
+
+(a) a parish council;
+
+(b) a community council;
+
+(c) charter trustees.
+
+### Borrowing
+
+**2** (1) Subject to sub-paragraph (2), a local authority may borrow money—
+
+(a) for any purpose relevant to its functions under any enactment, or
+
+(b) for the purposes of the prudent management of its financial affairs.
+
+(2) A local authority may only borrow money (whether under sub-paragraph (1) or otherwise)—
+
+(a) for a purpose or class of purpose approved for the purposes of this provision by the appropriate person, and
+
+(b) in accordance with any conditions subject to which the approval is given.
+
+(3) Sub-paragraph (2) does not apply—
+
+(a) to borrowing by way of temporary loan or overdraft from a bank or otherwise of sums which a local authority may temporarily require—
+
+(i) for the purpose of meeting expenses pending the receipt of revenues receivable by it in respect of the period of account in which the expenses are chargeable, or
+
+(ii) for the purpose of meeting expenses intended to be met by means of borrowing in accordance with approval under sub-paragraph (2), or
+
+(b) to borrowing for the purpose of repaying money borrowed in accordance with approval under sub-paragraph (2), where the new borrowing takes place during the fixed period relating to the existing borrowing.
+
+(4) A local authority’s functions under this paragraph shall be discharged only by the authority.
+
+**3** (1) Where a local authority meets any expenditure by borrowing, it shall in each financial year debit the appropriate amount to the account from which that expenditure would otherwise fall to be met; but that duty shall not prevent the authority debiting a larger amount to that account.
+
+(2) The appropriate amount for the purposes of sub-paragraph (1) is a sum equivalent to an instalment of principal and interest combined such that if paid annually it would secure the payment of interest at the due rate on the outstanding principal together with the repayment of the principal not later than the end of the fixed period.
+
+(3) Sub-paragraph (1) has effect subject to sub-paragraph (4) if—
+
+(a) a local authority makes an advance to any other person and the expenditure incurred in making the advance is met by borrowing, and
+
+(b) the terms of that advance are such that repayment is to be made otherwise than by equal instalments of principal and interest combined.
+
+(4) The local authority may debit to the account from which the expenditure met by the borrowing would otherwise fall to be met sums of different amounts (whether or not including instalments of principal) in respect of different financial years in order to take account of the terms on which its advance falls to be repaid.
+
+### Loans
+
+**4** (1) A local authority may lend to a qualifying local government body, on such terms as they may agree, such sums as the body may require for any purpose for which it is authorised by or under any enactment to borrow money.
+
+(2) In sub-paragraph (1), “qualifying local government body” means a body with local government functions which is specified for the purposes of this paragraph by regulations made by the appropriate person.
+
+### “Fixed period”
+
+**5** In this Schedule, references to the fixed period, in relation to borrowing by a local authority, are to the period within which the money borrowed is to be repaid as determined by the local authority with the consent of the appropriate person.
+
+## SCHEDULE 2 — Welsh local government finance reports
+
+*Section 40*
+
+**1** In Part 5 of the Local Government Finance Act 1988 (c. 41) (grants), after section 84C there is inserted—
+
+> **Application of Chapter 3**
+>
+> **84D** This Chapter applies only in relation to Wales.
+>
+> **Revenue support grant: Wales**
+>
+> **84E** (1) The National Assembly for Wales shall pay a grant for each financial year to—
+>
+> (a) receiving authorities, and
+>
+> (b) specified bodies.
+>
+> (2) Grant under this section shall be known as revenue support grant.
+>
+> (3) Revenue support grant shall be payable in accordance with this Chapter.
+>
+> **Determination of grant**
+>
+> **84F** (1) The National Assembly for Wales shall for each financial year make—
+>
+> (a) a determination under subsection (2), or
+>
+> (b) a determination under each of subsections (3) and (4).
+>
+> (2) A determination under this subsection shall state—
+>
+> (a) the total amount of revenue support grant for the year,
+>
+> (b) the amount of the grant the Assembly proposes to pay to receiving authorities, and
+>
+> (c) the amount of the grant the Assembly proposes to pay to each specified body.
+>
+> (3) A determination under this subsection shall state—
+>
+> (a) the total amount of revenue support grant for the year for—
+>
+> (i) receiving authorities other than police authorities, and
+>
+> (ii) specified bodies,
+>
+> (b) the amount of the grant the Assembly proposes to pay to receiving authorities that are not police authorities, and
+>
+> (c) the amount of the grant the Assembly proposes to pay to each specified body.
+>
+> (4) A determination under this subsection shall state the total amount of revenue support grant for the year for police authorities.
+>
+> (5) Before making a determination under this section, the Assembly shall consult such representatives of local government as appear to it to be appropriate.
+>
+> (6) Different amounts may be stated under subsection (2)(c) or (3)(c) in relation to different specified bodies.
+>
+> (7) In this section “police authority” means a police authority established under section 3 of the Police Act 1996.
+>
+> **Local government finance reports**
+>
+> **84G** (1) The National Assembly for Wales shall specify a determination under section 84F in a report, to be called a local government finance report.
+>
+> (2) A local government finance report shall also specify the basis on which the Assembly proposes to distribute among the receiving authorities to which the report relates the amount stated under section 84F(2)(b) or, as the case may be, section 84F(3)(b) or (4).
+>
+> (3) Before making a report under this section, the Assembly shall notify the general nature of the basis of distribution proposed to be specified in the report to such representatives of local government as appear to it to be appropriate.
+>
+> (4) A report made under this section shall be published by the Assembly.
+>
+> (5) As soon as is reasonably practicable after a report is published under subsection (4), the Assembly shall send a copy of the report to each of the receiving authorities to which the report relates.
+>
+> **Effect of publication of local government finance report**
+>
+> **84H** (1) This section applies where the National Assembly for Wales publishes a local government finance report.
+>
+> (2) The Assembly shall pay revenue support grant for the year to which the report relates in accordance with the determination specified in the report.
+>
+> (3) The amount of revenue support grant to be paid to receiving authorities in accordance with subsection (2) shall be distributed among, and paid to, them in accordance with sections 84J and 84K.
+>
+> (4) The amount of revenue support grant to be paid to a specified body in accordance with subsection (2) shall be paid at such time, or in instalments of such amounts and at such times, as the Assembly may determine.
+>
+> (5) The time of payment under subsection (4) may be during or after the financial year for which the grant is payable.
+>
+> **Calculation of grant payable to receiving authorities**
+>
+> **84J** (1) This section applies where the National Assembly for Wales publishes a local government finance report.
+>
+> (2) As soon as is reasonably practicable after the report has been published, the Assembly shall calculate in relation to each receiving authority to which the report relates what sum, if any, falls to be paid to the authority by way of revenue support grant for the year to which the report relates.
+>
+> (3) The calculation under subsection (2) shall be in accordance with the basis of distribution specified in the report.
+>
+> (4) The Assembly may carry out the subsection (2) calculation again at any time before the end of the financial year immediately following the one to which the report relates.
+>
+> (5) The power under subsection (4) may only be exercised once and ceases to be exercisable if the Assembly publishes under section 84L a report amending the local government finance report.
+>
+> (6) As soon as is reasonably practicable after making a calculation under subsection (2) or (4), the Assembly shall inform each receiving authority to which the report relates of the outcome, so far as relating to it.
+>
+> **Payment of grant to receiving authorities**
+>
+> **84K** (1) The National Assembly for Wales shall pay any sum calculated under section 84J(2) as falling to be paid by way of revenue support grant to a receiving authority in instalments of such amounts, and at such times in the financial year for which the grant is payable, as the Assembly may determine.
+>
+> (2) Where the Assembly makes a calculation under section 84J(4) that shows an increase in the sum that falls to be paid to a receiving authority, the Assembly shall pay the authority a sum equal to the difference.
+>
+> (3) Payment under subsection (2) shall be at such time, or in instalments of such amounts and at such times, as the Assembly may determine, subject to subsection (4).
+>
+> (4) The time for payment under subsection (2) must be after the end of the financial year for which the grant is payable.
+>
+> (5) Where the Assembly makes a calculation under section 84J(4) that shows a decrease in the sum that falls to be paid to a receiving authority, the authority shall pay to the Assembly a sum equal to the difference.
+>
+> (6) The time for payment under subsection (5) shall be such day after the end of the financial year for which the grant is payable as the Assembly may specify.
+>
+> **Amending reports**
+>
+> **84L** (1) Where the National Assembly for Wales has published a local government finance report, the Assembly may make a report containing amendments to the basis of distribution specified under section 84G(2) in the published report.
+>
+> (2) Where the Assembly has published two local government finance reports relating to the same financial year, the power under subsection (1) may (in particular) be exercised by making a single report relating to both of the published reports.
+>
+> (3) In relation to any particular local government finance report, the power under subsection (1) is exercisable—
+>
+> (a) at any time before the end of the financial year immediately following the one to which the report relates, but
+>
+> (b) only once.
+>
+> (4) Before making a report under this section, the Assembly shall notify to such representatives of local government as appear to it to be appropriate the general nature of the amendments it proposes to make.
+>
+> (5) A report made under this section shall be published by the Assembly.
+>
+> (6) As soon as is reasonably practicable after the Assembly publishes under this section a report relating to a local government finance report, the Assembly shall send a copy of the published report to each receiving authority to which the local government finance report relates.
+>
+> **Recalculation of grant following amending report**
+>
+> **84M** (1) This section applies where the National Assembly for Wales publishes under section 84L a report (“the amending report”) relating to a local government finance report (“the original report”).
+>
+> (2) As soon as is reasonably practicable after the Assembly publishes the amending report, the Assembly shall calculate in relation to each receiving authority to which the original report relates what sum, if any, falls to be paid to the authority by way of revenue support grant for the financial year to which the original report relates.
+>
+> (3) The calculation under subsection (2) shall be in accordance with the amended basis of distribution.
+>
+> (4) The Assembly may carry out the subsection (2) calculation again at any time before—
+>
+> (a) the end of the financial year immediately following the one to which the original report relates, or
+>
+> (b) if later, the end of the period of 3 months beginning with the day on which the Assembly publishes the amending report.
+>
+> (5) The power under subsection (4) may only be exercised once.
+>
+> (6) As soon as is reasonably practicable after making a calculation under subsection (2) or (4), the Assembly shall inform each receiving authority to which the original report relates of the outcome, so far as relating to it.
+>
+> **Payment of grant following amending report**
+>
+> **84N** (1) Where the National Assembly for Wales makes a calculation under section 84M(2) or (4) that shows an increase in the sum that falls to be paid to a receiving authority, it shall pay the authority a sum equal to the difference.
+>
+> (2) Payment under subsection (1) shall be at such time, or in instalments of such amounts and at such times, as the Assembly may determine, subject to subsection (3).
+>
+> (3) The time for payment under subsection (2) must be after the end of the financial year in which the report under section 84L was made.
+>
+> (4) Where the Assembly makes a calculation under section 84M(2) or (4) that shows a decrease in the sum that falls to be paid to a receiving authority, the authority shall pay a sum equal to the difference to the Assembly.
+>
+> (5) The time for payment under subsection (4) shall be such day after the end of the financial year in which the report under section 84L was made as the Assembly may specify.
+>
+> **Information deadlines**
+>
+> **84P** (1) The National Assembly for Wales may set a deadline for the receipt of information to be taken into account by it when making a calculation under section 84J(2) or (4) or 84M(2) or (4).
+>
+> (2) Different deadlines may be set under subsection (1) in relation to different kinds of information.
+>
+> (3) A deadline under subsection (1) shall have effect only if the Assembly informs each receiving authority concerned of the deadline and of the information to which it relates.
+>
+> (4) Notification under subsection (3) may be given at any time before the making of the calculation to which the deadline relates, including a time before the making of a determination under section 84F for the year concerned.
+>
+> (5) When making a calculation in relation to which a deadline under subsection (1) has effect, the Assembly shall leave information to which the deadline applies out of account if it is received after the passing of the deadline.
+
+**2** (1) In Schedule 8 to the Local Government Finance Act 1988 (c. 41) (non-domestic rates: pooling), Part 3 (distribution of non-domestic rates to be dealt with in local government finance reports) is amended as follows.
+
+(2) In paragraph 8(2) (meaning of “local government finance report” in Part 3 of the Schedule), after “section 78A” there is inserted “ or 84G ”.
+
+(3) In paragraph 9(4) (distributable amount to be stated in local government finance report), at the end there is inserted “ , subject to paragraph 9A below. ”
+
+(4) After paragraph 9 there is inserted—
+
+> **Years where two local government finance reports prepared for Wales**
+>
+> **9A** (1) Where the National Assembly for Wales publishes two local government finance reports for a particular financial year—
+>
+> (a) paragraph 9(4) above does not apply in relation to Wales as respects that year, and
+>
+> (b) the Assembly shall decide whether—
+>
+> (i) distribution among all receiving authorities of the amount arrived at under paragraph 9 above for the year is to be dealt with in just one of those reports (the chosen report), or
+>
+> (ii) each of those reports is to deal with the distribution of so much of that amount as is for the receiving authorities to which that report relates.
+>
+> (2) If the Assembly decides as mentioned in sub-paragraph (1)(b)(i) above—
+>
+> (a) the Assembly shall specify that amount (the distributable amount for the year) in the chosen report, and
+>
+> (b) the chosen report is the local government finance report for that year to which the requirement under paragraph 10(1) below applies.
+>
+> (3) If the Assembly decides as mentioned in sub-paragraph (1)(b)(ii) above—
+>
+> (a) paragraphs 10 and 11 below do not apply in relation to Wales as respects the year (but see paragraphs 11A to 11C below),
+>
+> (b) the power under paragraph 13 below may (in particular) be exercised by making a single amending report relating to both of the local government finance reports for the year, and
+>
+> (c) paragraph 14 below does not apply in relation to any report amending either of those reports (but see paragraph 14A below).
+
+(5) In paragraph 11(1)(a) (paragraph applies where distributable amount specified in accordance with paragraph 9), for “paragraph 9” there is substituted “ paragraphs 9 and 9A(2) ”.
+
+(6) After paragraph 11 there is inserted—
+
+> **11A** (1) Where the National Assembly for Wales proposes to publish two local government finance reports for a particular financial year and as respects that year decides as mentioned in paragraph 9A(1)(b)(ii) above, the Assembly shall in each of those reports—
+>
+> (a) specify the amount for the year arrived at under paragraph 9 above,
+>
+> (b) specify how much of that amount is for the receiving authorities to which the report relates, and
+>
+> (c) specify the basis on which the Assembly proposes to distribute among those authorities the amount specified under paragraph (b) above.
+>
+> (2) Before making such a report as is mentioned in sub-paragraph (1) above, the Assembly shall notify the general nature of the basis of distribution proposed to be specified in the report to such representatives of local government as appear to the Assembly to be appropriate.
+>
+> **11B** (1) This paragraph applies where the National Assembly for Wales—
+>
+> (a) publishes a local government finance report that is one of two being published by it for a particular financial year, and
+>
+> (b) as respects that year decides as mentioned in paragraph 9A(1)(b)(ii) above.
+>
+> (2) The amount specified under paragraph 11A(1)(b) above in the report shall be distributed among and paid to the receiving authorities to which the report relates in accordance with this paragraph and paragraph 12 below.
+>
+> (3) As soon as is reasonably practicable after the report is published, the Assembly shall calculate in relation to each of those authorities what sum falls to be paid to the authority as its share of the amount specified under paragraph 11A(1)(b) above.
+>
+> (4) The calculation under sub-paragraph (3) above shall be in accordance with the basis of distribution specified in the report.
+>
+> (5) The Assembly may carry out the sub-paragraph (3) calculation again at any time before the end of the financial year immediately following the one to which the report relates.
+>
+> (6) The power under sub-paragraph (5) above may only be exercised once and ceases to be exercisable if the Assembly publishes under paragraph 13 below a report amending the report.
+>
+> (7) As soon as is reasonably practicable after making a calculation under sub-paragraph (3) or (5) above, the Assembly shall inform each receiving authority to which the report relates of the outcome, so far as relating to it.
+>
+> **11C** (1) The National Assembly for Wales may set a deadline for the receipt of information to be taken into account by it when making a calculation under paragraph 11B(3) or (5) above.
+>
+> (2) Different deadlines may be set under sub-paragraph (1) above in relation to different kinds of information.
+>
+> (3) A deadline under sub-paragraph (1) above shall only have effect if the Assembly informs each receiving authority concerned of the deadline and of the information to which it relates.
+>
+> (4) Notification under sub-paragraph (3) above may be given at any time before the making of the calculation to which the deadline relates, including a time before the distributable amount for the year is calculated under paragraph 9 above.
+>
+> (5) When making a calculation in relation to which a deadline under sub-paragraph (1) above has effect, the Assembly shall leave information to which the deadline applies out of account if it is received after the passing of the deadline.
+
+(7) In paragraph 12(1) (duty to pay amounts calculated under paragraph 11(3)), after “11(3)” there is inserted “ or 11B(3) ”.
+
+(8) In paragraph 12, in each of sub-paragraphs (3) and (5) (cases where recalculation shows different amount to be due)—
+
+(a) after “11(4)” there is inserted “ or 11B(5) ”, and
+
+(b) after “11(3)” there is inserted “ or 11B(3) ”.
+
+(9) After paragraph 14 there is inserted—
+
+> **14A** (1) This paragraph applies where—
+>
+> (a) a report is made under paragraph 13 above amending a report (“the original report”) that is one of two local government finance reports that the National Assembly for Wales publishes for a particular financial year, and
+>
+> (b) as respects that year the Assembly decides as mentioned in paragraph 9A(1)(b)(ii) above.
+>
+> (2) As soon as is reasonably practicable after the amending report is published by the Assembly, the Assembly shall calculate in relation to each of the authorities to which the original report relates what sum falls to be paid to the authority as its share of the amount specified under paragraph 11A(1)(b) above in the original report.
+>
+> (3) The calculation under sub-paragraph (2) above shall be in accordance with the amended basis of distribution.
+>
+> (4) The Assembly may carry out the sub-paragraph (2) calculation again at any time before—
+>
+> (a) the end of the financial year immediately following the one to which the original report relates, or
+>
+> (b) if later, the end of the period of 3 months beginning with the day on which the Assembly publishes the amending report.
+>
+> (5) The power under sub-paragraph (4) above may only be exercised once.
+>
+> (6) Paragraphs 11B(7) and 11C above apply in relation to calculations made under sub-paragraphs (2) and (4) above as they apply in relation to calculations made under paragraph 11B(3) and (5) above.
+
+(10) In paragraph 15(1) (paragraph applies where calculation made under paragraph 14(1) or (2)), after “14(1) or (2)” there is inserted “ or 14A(2) or (4) ”.
+
+(11) In paragraph 15(6) (meaning of “the relevant previous calculation”)—
+
+(a) after “14(1)” (in each place) there is inserted “ or 14A(2) ”,
+
+(b) after “11(3)” there is inserted “ or 11B(3) ”,
+
+(c) after “11(4)” there is inserted “ or 11B(5) ”, and
+
+(d) after “14(2)” (in each place) there is inserted “ or 14A(4) ”.
+
+## SCHEDULE 3 — Amendment of powers exercisable in relation to local authorities
+
+*Section 100*
+
+### Local Government and Housing Act 1989 (c. 42)
+
+**1** The Local Government and Housing Act 1989 is amended as follows.
+
+**2** In section 67 (orders under Part 5), at the end there is inserted—
+
+> (5) The power under subsection (4) above to make differential provision includes, in particular, power to make different provision for different local authorities or descriptions of local authority.
+
+**3** In section 70 (requirements for companies under control or subject to influence of local authorities), at the end there is inserted—
+
+> (6) An order under subsection (1) may be made in relation to—
+>
+> (a) all local authorities,
+>
+> (b) particular local authorities, or
+>
+> (c) particular descriptions of local authority.
+
+### Local Government Act 1999 (c. 27)
+
+**4** The Local Government Act 1999 is amended as follows.
+
+**5** In section 4(2)(b) (different performance indicators or standards may be specified for different authorities), after “different authorities” there is inserted “ or descriptions of authority ”.
+
+**6** (1) Section 5 (best value reviews) is amended as follows.
+
+(2) In subsection (2)(b) (orders specifying periods within which authorities are to conduct best value reviews may make different provision for different authorities), after “different authorities” there is inserted “ or descriptions of authority ”.
+
+(3) After subsection (4) there is inserted—
+
+> (4A) An order under subsection (4) may—
+>
+> (a) apply to one authority or more;
+>
+> (b) make different provision in relation to different authorities or descriptions of authority.
+
+**7** In section 6 (best value performance plans), after subsection (4) there is inserted—
+
+> (5) An order under this section may make different provision in relation to different authorities or descriptions of authority.
+
+**8** (1) Section 16 (power to modify enactments and confer new powers) is amended as follows.
+
+(2) In subsection (1) (power to modify or exclude application of enactments in relation to best value authorities), for “in relation to those authorities” there is substituted
+
+> in relation to—
+>
+> (a) all best value authorities,
+>
+> (b) particular best value authorities, or
+>
+> (c) particular descriptions of best value authority.
+
+(3) In subsection (2) (power to confer powers on best value authorities), for “conferring on best value authorities any power” there is substituted
+
+> conferring on—
+>
+> (a) all best value authorities,
+>
+> (b) particular best value authorities, or
+>
+> (c) particular descriptions of best value authority,
+>
+> any power
+
+.
+
+(4) After subsection (3) there is inserted—
+
+> (3A) The power under subsection (3)(d) includes, in particular, power to make different provision in relation to different authorities or descriptions of authority.
+
+(5) At the beginning of subsection (4) (order subject to affirmative resolution procedure) there is inserted “ Subject to subsection (4A), ”.
+
+(6) After subsection (4) there is inserted—
+
+> (4A) An order under this section which is made only for the purpose of amending an earlier order under this section—
+>
+> (a) so as to extend the earlier order, or any provision of the earlier order, to a particular authority or to authorities of a particular description, or
+>
+> (b) so that the earlier order, or any provision of the earlier order, ceases to apply to a particular authority or to authorities of a particular description,
+>
+> shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+**9** In section 17 (orders under section 16: procedure), after subsection (6) there is inserted—
+
+> (7) Nothing in this section applies to an order under section 16 which is made only for the purpose mentioned in section 16(4A).
+
+**10** (1) Section 19 (contracts: exclusion of non-commercial considerations) is amended as follows.
+
+(2) In subsection (1) (power to provide for matters to cease to be non-commercial matters in relation to best value authorities), for “in relation to best value authorities, for” there is substituted
+
+> in relation to—
+>
+> (a) all best value authorities,
+>
+> (b) particular best value authorities, or
+>
+> (c) particular descriptions of best value authority,
+>
+> for
+
+.
+
+(3) After subsection (2) there is inserted—
+
+> (2A) The power under subsection (2)(c) includes, in particular, power to make different provision for different authorities or descriptions of authority.
+
+(4) At the beginning of subsection (3) (order subject to affirmative resolution procedure) there is inserted “ Subject to subsection (3A), ”.
+
+(5) After subsection (3) there is inserted—
+
+> (3A) An order under this section which is made only for the purpose of amending an earlier order under this section—
+>
+> (a) so as to extend the earlier order, or any provision of the earlier order, to a particular authority or to authorities of a particular description, or
+>
+> (b) so that the earlier order, or any provision of the earlier order, ceases to apply to a particular authority or to authorities of a particular description,
+>
+> shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+### Local Government Act 2000 (c. 22)
+
+**11** The Local Government Act 2000 is amended as follows.
+
+**12** [^F226]1 [^F226]Section 3 (limits on power to promote well-being) is amended as follows.
+
+[^F226]2 [^F226]After subsection (3) there is inserted—
+
+> [^F226]3A [^F226]The power under subsection (3) may be exercised in relation to—
+>
+> [^F226]a [^F226]all local authorities,
+>
+> [^F226]b [^F226]particular local authorities, or
+>
+> [^F226]c [^F226]particular descriptions of local authority.
+
+[^F226]3 [^F226]At the beginning of subsection (4) (duty to consult) there is inserted [^F226]“ Subject to subsection (4A), ”[^F226].
+
+[^F226]4 [^F226]After that subsection there is inserted—
+
+> [^F226]4A [^F226]Subsection (4) does not apply to an order under this section which is made only for the purpose of amending an earlier order under this section—
+>
+> [^F226]a [^F226]so as to extend the earlier order, or any provision of the earlier order, to a particular authority or to authorities of a particular description, or
+>
+> [^F226]b [^F226]so that the earlier order, or any provision of the earlier order, ceases to apply to a particular authority or to authorities of a particular description.
+
+**13** In section 9 (procedures for orders under section 5 or 6), after subsection (7) there is inserted—
+
+> (8) Nothing in this section applies to an order under section 5 or 6 which is made only for the purpose of amending an earlier order under that section—
+>
+> (a) so as to extend the earlier order, or any provision of the earlier order, to a particular authority or to authorities of a particular description, or
+>
+> (b) so that the earlier order, or any provision of the earlier order, ceases to apply to a particular authority or to authorities of a particular description.
+
+**14** (1) Section 105 (orders and regulations) is amended as follows.
+
+(2) At the beginning of subsection (6) (certain instruments subject to affirmative resolution procedure) there is inserted “ Subject to subsection (6A), ”.
+
+(3) After subsection (6) there is inserted—
+
+> (6A) Subsection (6) does not apply to a statutory instrument which contains an order under section 3(3), 5 or 6 if the order is made only for the purpose of amending an earlier such order—
+>
+> (a) so as to extend the earlier order, or any provision of the earlier order, to a particular authority or to authorities of a particular description, or
+>
+> (b) so that the earlier order, or any provision of the earlier order, ceases to apply to a particular authority or to authorities of a particular description.
+
+## SCHEDULE 4 — The Valuation Tribunal Service
+
+*Section 105*
+
+### Membership, chairman and deputy chairman
+
+**1** (1) The Service shall consist of not less than six and not more than ten members appointed by the Secretary of State.
+
+[[^F227](1A) The Secretary of State must appoint the person who is for the time being President of the Tribunal as one of the members of the Service (unless that person is already a member of the Service).]
+
+(2) The Secretary of State shall appoint one of the members of the Service to be its chairman and another of them to be its deputy chairman.
+
+(3) The Secretary of State shall exercise his power to appoint members of the Service to secure that at all times—
+
+[[^F228](a) a majority are senior members of the Tribunal, and]
+
+(b) the rest are persons who, in his opinion, are particularly suited to be members by reason of their qualifications or experience.
+
+### Disqualification
+
+**2** (1) A person shall be disqualified for being appointed as a member of the Service if—
+
+(a) he is, or is married to [[^F229]or is the civil partner of], an employee of the Service;
+
+(b) he is the subject of a bankruptcy restrictions order [[^F230]or an interim bankruptcy restrictions order, or a debt relief restrictions order or interim debt relief restrictions order under Schedule 4ZB of the Insolvency Act 1986];
+
+(c) a bankruptcy order has been made against him by a court in Northern Ireland, his estate has been sequestrated by a court in Scotland or, under the law of Northern Ireland or Scotland, he has made a composition or arrangement with, or granted a trust deed for, his creditors;
+
+(d) in the last five years he has been convicted in the United Kingdom, the Channel Islands or the Isle of Man of an offence and has had a qualifying sentence passed on him.
+
+(2) Where a person is disqualified under sub-paragraph (1)(c) because a bankruptcy order has been made against him or his estate has been sequestrated, the disqualification shall cease—
+
+(a) on his obtaining a discharge, or
+
+(b) if the bankruptcy order is annulled or the sequestration of his estate is recalled or reduced, on the date of that event.
+
+(3) Where a person is disqualified under sub-paragraph (1)(c) because of his having made a composition or arrangement with, or granted a trust deed for, his creditors, the disqualification shall cease—
+
+(a) at the end of the period of five years beginning with the date on which the terms of the deed of composition or arrangement or trust deed are fulfilled, or
+
+(b) if before then he pays his debts in full, on the date on which the payment is completed.
+
+(4) For the purposes of sub-paragraph (1)(d), the date of a conviction shall be taken to be the ordinary date on which the period allowed for making an appeal or application expires or, if an appeal or application is made, the date on which the appeal or application is finally disposed of or abandoned or fails by reason of its non-prosecution.
+
+(5) In sub-paragraph (1)(d), the reference to a qualifying sentence is to a sentence of imprisonment for a period of not less than three months (whether suspended or not) without the option of a fine.
+
+### Tenure of office
+
+**3** (1) Subject to the provisions of this Schedule, a member of the Service shall hold and vacate office in accordance with the terms of his appointment.
+
+[[^F231](1A) The person who is for the time being President of the Tribunal shall hold office as a member of the Service for as long as he remains President of the Tribunal.]
+
+(2) A person [[^F232]other than the President of the Tribunal] shall not be appointed as a member of the Service for more than three years.
+
+(3) A person may at any time resign his office as a member of the Service by notice in writing to the Secretary of State.
+
+(4) A person appointed as chairman or deputy chairman of the Service—
+
+(a) shall hold and vacate that office in accordance with the terms of his appointment,
+
+(b) may at any time resign that office by notice in writing to the Secretary of State, and
+
+(c) shall cease to hold that office if he ceases to be a member of the Service.
+
+**4** (1) A person shall cease to be a member of the Service if—
+
+(a) he ceases to be qualified for appointment as such,
+
+[[^F233](b) he ceases to be President of the Tribunal (whether or not he was appointed to the Service by virtue of being President),
+
+(ba) having been a Vice-President of the Tribunal, or a member of the panel of chairmen of the Tribunal, at the time of his appointment, he ceases to hold that office without being appointed to another of the senior offices of the Tribunal, or]
+
+(c) he has without reasonable excuse been absent from meetings of the Service for a continuous period of 3 months.
+
+(2) The Secretary of State may remove a person from office as a member of the Service if satisfied that he is unable or unfit to carry out his functions as such.
+
+**5** A person who ceases (otherwise than by virtue of paragraph 4(1)(a) or (c)) to be the chairman or deputy chairman of the Service or to be a member of the Service shall be eligible for re-appointment.
+
+### Remuneration, pensions, etc of members
+
+**6** (1) The Service shall pay to its members such remuneration or allowances as the Secretary of State may determine.
+
+(2) The Service shall, if so required by the Secretary of State—
+
+(a) pay such pensions or gratuities to or in respect of its members or former members as the Secretary of State may determine,
+
+(b) pay such contributions or payments as the Secretary of State may determine towards provision for the payment of pensions or gratuities to or in respect of its members or former members, and
+
+(c) provide and maintain such schemes (whether contributory or not) as the Secretary of State may determine for the payment of pensions or gratuities to or in respect of its members or former members.
+
+(3) If—
+
+(a) a person ceases to be a member of the Service or ceases to be the chairman or deputy chairman of the Service, and
+
+(b) it appears to the Secretary of State that there are special circumstances which make it right that he should receive compensation,
+
+the Secretary of State may direct the Service to make a payment of such amount as he may determine.
+
+### Staff
+
+**7** (1) The Service shall have a chief executive.
+
+(2) Appointments to the position of chief executive shall be made as follows—
+
+(a) the first appointment shall be made by the Secretary of State, and
+
+(b) subsequent appointments shall be made by the Service.
+
+(3) The appointment under sub-paragraph (2)(a) shall be made after consultation with the chairman of the Service (or the person proposed to be appointed as such).
+
+(4) Appointments under sub-paragraph (2)(b) shall be made with the consent of the Secretary of State.
+
+(5) References in this Schedule, except paragraph 8(1), to the employees of the Service include references to its chief executive.
+
+**8** (1) The Service may appoint such employees as it may determine.
+
+(2) The Service may pay to its employees such remuneration and allowances as it may with the consent of the Secretary of State determine.
+
+(3) The Service may—
+
+(a) pay such pensions or gratuities to or in respect of its employees or former employees as it may with the consent of the Secretary of State determine,
+
+(b) pay such contributions or payments as it may so determine towards provision for the payment of pensions or gratuities to or in respect of its employees or former employees, and
+
+(c) provide and maintain such schemes (whether contributory or not) as it may so determine for the payment of pensions or gratuities to or in respect of its employees or former employees.
+
+(4) References in sub-paragraph (3) to pensions or gratuities include references to pensions or gratuities by way of compensation to or in respect of employees who suffer loss of employment or loss or diminishment of emoluments.
+
+**[[^F234]9** The Service shall not appoint an employee to be the clerk of the Tribunal without the consent of the President of the Tribunal.]
+
+### Committees
+
+**10** (1) The Service may establish committees.
+
+(2) Any committee established by the Service may establish one or more sub-committees.
+
+(3) A person who is not a member of the Service may be appointed to a committee or a sub-committee of the Service.
+
+(4) The Service may pay to members of its committees or sub-committees who are neither members nor employees of the Service such remuneration and allowances as the Secretary of State may determine.
+
+### Proceedings
+
+**11** Subject to the following provisions of this Schedule, the Service may regulate its own procedure (including quorum).
+
+### Delegation
+
+**12** (1) The Service may, to such extent as it may determine, delegate any of its functions to any committee of the Service or to any employee of the Service.
+
+(2) Any such committee may, to such extent as it may determine, delegate any function conferred on it to any of its sub-committees or to any employee of the Service.
+
+(3) Any sub-committee of the Service may, to such extent as the sub-committee may determine, delegate any function conferred on the sub-committee to any employee of the Service.
+
+(4) A delegation under this paragraph shall be made in writing.
+
+### Members' interests
+
+**13** (1) A member of the Service who is in any way directly or indirectly interested in any matter that is brought up for consideration at a meeting of the Service shall disclose the nature of his interest to the meeting; and, where such a disclosure is made—
+
+(a) the disclosure shall be recorded in the minutes of the meeting, and
+
+(b) the member shall not take any part in any deliberation or decision of the Service with respect to that matter.
+
+(2) If a member is not present at a meeting at which a matter in which he is interested is brought up for consideration, sub-paragraph (1) shall only apply to him if he was aware of the fact that the matter would be brought up for consideration at the meeting.
+
+(3) For the purposes of sub-paragraph (1), a general notification given at a meeting of the Service by a member to the effect that he—
+
+(a) has an interest in a specified company, firm or other organisation, and
+
+(b) is to be regarded as interested in any matter involving that company, firm or other organisation,
+
+shall be regarded as sufficient disclosure of his interest in relation to any such matter.
+
+(4) A member need not attend in person at a meeting in order to make a disclosure which he is required to make under this paragraph if he takes reasonable steps to secure that the disclosure is made by a notice which is read and considered at the meeting.
+
+(5) The Secretary of State may remove a disability under this paragraph subject to such conditions as he considers appropriate.
+
+(6) The power of the Secretary of State under sub-paragraph (5) includes power to remove, either indefinitely or for any period, a disability which would otherwise attach to any member, or members of any description, by reason of such interests, and in respect of such matters, as may be specified or described by the Secretary of State.
+
+(7) Nothing in this paragraph precludes any member from taking part in the consideration or discussion of, or voting on, any question whether any application should be made to the Secretary of State for the exercise of the power conferred by sub-paragraph (5).
+
+**14** (1) Paragraph 13 shall apply in relation to meetings of a committee or sub-committee of the Service as it applies in relation to meetings of the Service.
+
+(2) In the application of paragraph 13 by virtue of this paragraph, references to a member of the Service shall be read as references to a member of a committee or sub-committee of the Service.
+
+### Vacancies and defective appointments
+
+**15** The validity of any proceedings of the Service shall not be affected by a vacancy amongst the members or by a defect in the appointment of a member.
+
+### Minutes
+
+**16** (1) Minutes shall be kept of proceedings of the Service and of the committees and sub-committees of the Service.
+
+(2) Minutes of any such proceedings shall be evidence of those proceedings if they are signed by the person purporting to have acted as chairman of the proceedings to which the minutes relate or of any subsequent proceedings in the course of which the minutes were approved as a correct record.
+
+(3) Where minutes of any such proceedings have been signed as mentioned in sub-paragraph (2), those proceedings shall, unless the contrary is shown, be deemed to have been validly convened and constituted.
+
+### Execution and proof of instruments
+
+**17** (1) The application of the seal of the Service shall be authenticated by the signature of any member or employee of the Service who has been authorised for the purpose by the Service, whether generally or specially.
+
+(2) Any document which the Service is authorised or required by or under any enactment to serve, make or issue may be signed on behalf of the Service by any member or employee of the Service who has been authorised for the purpose by the Service, whether generally or specially.
+
+(3) Every document purporting to be an instrument made or issued by or on behalf of the Service and to be duly executed under the seal of the Service, or to be signed or executed by a person authorised by the Service for the purpose, shall be received in evidence and be treated, without further proof, as being so made or issued unless the contrary is shown.
+
+(4) In sub-paragraph (1), the reference to the signature of a person includes a reference to a facsimile of a signature by whatever process reproduced, and “signed” in sub-paragraphs (2) and (3) shall be read accordingly.
+
+### Money
+
+**18** (1) The Secretary of State may pay grants and make loans to the Service.
+
+(2) The Service shall not otherwise borrow money except with the consent of the Secretary of State.
+
+**19** The Service shall comply with any notice given by the Secretary of State with the approval of the Treasury requiring it to perform duties of a financial nature specified in the notice.
+
+**20** (1) The Service shall—
+
+(a) keep proper accounts and proper records in relation to the accounts, and
+
+(b) prepare, in respect of each financial year, a statement of accounts giving a true and fair view of the state of affairs and the income and expenditure of the Service.
+
+(2) The statement of accounts shall comply with any requirement which the Secretary of State has, with the approval of the Treasury, notified to the Service.
+
+(3) The Service shall send each statement of accounts of the Service to the Secretary of State and to the Comptroller and Auditor General within such period after the end of the financial year to which it relates as the Secretary of State may specify by notice given to the Service.
+
+(4) The Comptroller and Auditor General shall—
+
+(a) examine, certify and report on each statement of accounts received by him under sub-paragraph (3), and
+
+(b) lay a copy of each such statement of accounts, and of his report on it, before each House of Parliament.
+
+(5) For the purpose of exercising his examination function in relation to a statement of accounts, the Comptroller and Auditor General—
+
+(a) shall have a right of access at all reasonable times to any documents which he reasonably requires for that purpose and which are in the custody or under the control of the Service;
+
+(b) shall have a right to require from any person holding or accountable for any of those documents any assistance, information or explanation which he reasonably thinks necessary for that purpose.
+
+(6) The right of access to documents conferred by sub-paragraph (5)(a) includes a right to take copies of or make extracts from documents.
+
+(7) A reference in sub-paragraphs (5) and (6) to documents includes a reference to information recorded in any form; and in the case of information recorded otherwise than in a legible form the right of access conferred by sub-paragraph (5)(a) includes a right of access to, and to take copies of, that information in a legible form.
+
+### The Public Records Act 1958 (c. 51)
+
+**21** In Schedule 1 to the Public Records Act 1958 (definition of public records), in Part 2 of the Table at the end of paragraph 3 there is inserted at the appropriate place— “ Valuation Tribunal Service. ”
+
+### The Parliamentary Commissioner Act 1967 (c. 13)
+
+**22** In Schedule 2 to the Parliamentary Commissioner Act 1967 (departments and authorities subject to investigation), the following entry is inserted at the appropriate place— “ Valuation Tribunal Service. ”
+
+### The House of Commons Disqualification Act 1975 (c. 24)
+
+**23** In Part 2 of Schedule 1 to the House of Commons Disqualification Act 1975 (bodies of which all members are disqualified), the following entry is inserted at the appropriate place— “ The Valuation Tribunal Service. ”
+
+### The Freedom of Information Act 2000 (c. 36)
+
+**24** In Part 6 of Schedule 1 to the Freedom of Information Act 2000 (public authorities) there is inserted at the appropriate place—
+
+> The Valuation Tribunal Service.
+
+### The Enterprise Act 2002 (c. 40)
+
+**25** (1) Paragraph 2(1)(c), (2) and (3) shall be taken to be within the definition of “provision” in section 268 of the Enterprise Act 2002 (power to remove bankruptcy disqualifications under pre-8th November 2002 provisions or extend them to, or replace them with disqualifications of, persons subject to bankruptcy restrictions regimes).
+
+(2) That section shall apply in relation to paragraph 2(1)(c), (2) and (3) as if—
+
+(a) subsections (5)(d), (6) to (8) and (15) (power to make application of disqualification provision subject to person’s discretion) were omitted, and
+
+(b) for subsection (13) (orders under section to be made by statutory instrument after parliamentary approval of a draft) there were substituted—
+
+> (13) An order under this section—
+>
+> (a) must be made by statutory instrument, and
+>
+> (b) shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+### Status
+
+**26** (1) The Service is not to be regarded as the servant or agent of the Crown, or as enjoying any status, privilege or immunity of the Crown.
+
+(2) The property of the Service is not to be regarded as property of, or property held on behalf of, the Crown.
+
+### Interpretation
+
+**27** In this Schedule—
+
+- “delegate” includes further delegate;
+
+- “financial year” means—
+
+  - (a) the period beginning with the day on which section 105 comes into force and ending with the next 31st March, and
+  - (b) any subsequent period of 12 months beginning with 1st April.
+
+- [[^F235]“senior member of the Tribunal” means a person holding one of the senior offices of the Tribunal;
+
+- “senior offices of the Tribunal” means any of these offices—
+
+  - (a) President of the Tribunal;
+  - (b) Vice-President of the Tribunal;
+  - (c) member of the panel of chairmen of the Tribunal.]
+
+## SCHEDULE 5 — Transfer schemes: further provision
+
+*Section 106*
+
+### Contents of transfer scheme
+
+**1** (1) The property, rights and liabilities which may be transferred by a transfer scheme under section 106 (“transfer scheme”) include property, rights and liabilities that would not otherwise be capable of being transferred or assigned.
+
+(2) The transfers authorised by sub-paragraph (1) include transfers which are to take effect as if there were no such contravention, liability or interference with any interest or right as there would otherwise be by reason of any provision having effect (whether under any enactment or agreement or otherwise) in relation to the terms on which the transferor is entitled to the property or right, or subject to the liability, in question.
+
+**2** A transfer scheme may define the property, rights and liabilities to be transferred by specifying or describing them or by referring to all of the property, rights and liabilities comprised in a specified part of the undertaking of the transferor (or partly in one way and partly in the other).
+
+**3** A transfer scheme may contain provision—
+
+(a) for the creation, in relation to property which the scheme transfers, of an interest in or right over the property in favour of the transferor,
+
+(b) for the creation in favour of the Service of an interest in or right over property retained by the transferor,
+
+(c) for the creation of any rights or liabilities as between the transferor and the Service,
+
+(d) for any rights or liabilities specified or described in the scheme to be, or to be to any extent, enforceable by or against the transferor or the Service, or
+
+(e) for imposing on the transferor and the Service an obligation to enter into written agreements with, or execute other instruments in favour of, each other.
+
+**4** A transfer scheme may include such supplemental, incidental, consequential and transitional provision as the Secretary of State considers appropriate.
+
+### Effect of transfers
+
+**5** (1) Anything done by or in relation to the transferor for the purpose of or in connection with anything transferred which is in effect immediately before it is transferred shall be treated as if done by or in relation to the Service.
+
+(2) A transfer does not affect the validity of anything done by or in relation to the transferor before the transfer takes effect.
+
+**6** There may be continued by or in relation to the Service anything (including legal proceedings) relating to anything transferred which is in the process of being done by or in relation to the transferor immediately before it is transferred.
+
+**7** The Service shall be substituted for the transferor in any document relating to anything transferred.
+
+### Continuity of employment, etc of transferred employees
+
+**8** Where an employee of a valuation tribunal becomes an employee of the Service under a transfer scheme—
+
+(a) for the purposes of Part 11 of the Employment Rights Act 1996 (c. 18) (redundancy payments etc), he shall not be regarded as having been dismissed by virtue of the transfer, and
+
+(b) for the purposes of that Act, his period of employment with the valuation tribunal counts as a period of employment with the Service and the change of employer does not break the continuity of his employment.
+
+### Modification of transfer scheme after appointed day
+
+**9** (1) If, after the day appointed by a transfer scheme for the coming into force of the scheme, the transferor and the Service so agree in writing, the scheme shall for all purposes be deemed to have come into force on that day with such modifications as may be agreed.
+
+(2) An agreement under this paragraph may, in connection with giving effect to modifications to the scheme, include supplemental, incidental, consequential and transitional provision.
+
+### Provision of information to Secretary of State
+
+**10** A valuation tribunal shall provide the Secretary of State with such information and other assistance as he may reasonably require for the purposes of or in connection with the making of a transfer scheme.
+
+### Consultation
+
+**11** Before making a transfer scheme relating to the property, rights or liabilities of a valuation tribunal, the Secretary of State shall consult the valuation tribunal concerned.
+
+### Stamp duty
+
+**12** (1) Stamp duty shall not be chargeable on—
+
+(a) a transfer scheme, or
+
+(b) an instrument or agreement which is certified to the Commissioners of Inland Revenue by the Secretary of State as made in pursuance of a transfer scheme.
+
+(2) No such scheme, and no instrument or agreement which is certified as mentioned in sub-paragraph (1)(b), shall be taken to be duly stamped unless—
+
+(a) it has, in accordance with section 12 of the Stamp Act 1891 (c. 39), been stamped with a particular stamp denoting that it is not chargeable with any duty or that it is duly stamped, or
+
+(b) it is stamped with the duty to which it would be liable, apart from this paragraph.
+
+(3) Section 12 of the Finance Act 1895 (c. 16) shall not operate to require—
+
+(a) the delivery to the Inland Revenue of a copy of this Act, or
+
+(b) the payment of stamp duty under that section on any copy of this Act,
+
+and shall not apply in relation to any instrument on which, by virtue of sub-paragraph (1), stamp duty is not chargeable.
+
+## SCHEDULE 6 — Section 120: transition
+
+*Section 120*
+
+### Commencement not to affect existing application of section 15 of the 1982 Act
+
+**1** The coming into force of section 120 shall not affect the descriptions of person in relation to whom section 15 of the Local Government (Miscellaneous Provisions) Act 1982 (c. 30) applies in an area in which that section is already in force.
+
+### Commencement not to affect pending resolutions about the application of section 15 of the 1982 Act
+
+**2** (1) This paragraph applies where immediately before the coming into force of section 120—
+
+(a) there is in force a resolution under section 13(2) of the Local Government (Miscellaneous Provisions) Act 1982 (c. 30) that section 15 of that Act is to apply to an authority’s area, and
+
+(b) the resolution specifies as the day for the coming into force of that section the day on which section 120 comes into force, or any later day.
+
+(2) The coming into force of section 120 shall not affect—
+
+(a) the validity of the resolution, or
+
+(b) the descriptions of person in relation to whom section 15 of that Act applies in pursuance of the resolution.
+
+### Additional powers of commencement in relation to section 15 of the 1982 Act as amended
+
+**3** (1) This paragraph applies where an authority has before the coming into force of section 120 passed a resolution that provides, or resolutions that between them provide, for section 15 of the Local Government (Miscellaneous Provisions) Act 1982 to apply to the authority’s area in relation to all of the existing descriptions of person.
+
+(2) Section 13 of that Act shall have effect for the purpose of enabling the authority to bring section 15 of that Act into force in its area—
+
+(a) in relation to persons carrying on the business of cosmetic piercing, and
+
+(b) in relation to persons carrying on the business of semi-permanent skin-colouring.
+
+(3) In sub-paragraph (1), the reference to the existing descriptions of person is to the descriptions of person specified in section 15(1) of that Act immediately before the coming into force of section 120.
+
+### Effect of existing ear-piercing registrations following extension of control to cosmetic piercing
+
+**4** (1) This paragraph applies where, immediately before section 15 of the Local Government (Miscellaneous Provisions) Act 1982 comes into force in an authority’s area in relation to persons carrying on the business of cosmetic piercing—
+
+(a) that section is in force in the area in relation to persons carrying on the business of ear-piercing, and
+
+(b) a person is registered under that section by the authority to carry on a business of ear-piercing at premises in the area which are registered under that section for the carrying-on of that business.
+
+(2) From the coming into force of that section in that area in relation to persons carrying on the business of cosmetic piercing, the registrations of the person and the premises in respect of ear-piercing shall have effect as registrations in respect of cosmetic piercing, subject to sub-paragraph (3).
+
+(3) Sub-paragraph (2) ceases to apply when the business of cosmetic piercing carried on by the person at the premises subsequently first involves cosmetic piercing other than ear-piercing.
+
+### Interpretation
+
+**5** In this Schedule, except paragraph 2(1)(a) and 3(1), any reference to section 15 of the Local Government (Miscellaneous Provisions) Act 1982 includes a reference to section 16 of that Act so far as it has effect for the purposes of that section.
+
+## SCHEDULE 7 — Minor and consequential amendments
+
+*Section 127(1)*
+
+### Fire Services Act 1947 (c. 41)
+
+**[^F236]1** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Public Works Loans Act 1965 (c. 63)
+
+**2** In section 2 of the Public Works Loans Act 1965 (local loans)—
+
+(a) in subsection (3), for “section 43 of the Local Government and Housing Act 1989” there is substituted “ section 1 of the Local Government Act 2003 ”;, and
+
+(b) in subsection (5), for “section 47 of the Local Government and Housing Act 1989” there is substituted “ section 13 of the Local Government Act 2003 ”.
+
+### Public Works Loans Act 1967 (c. 61)
+
+**3** In section 2(2) of the Public Works Loans Act 1967 (local loans), for “section 43 of the Local Government and Housing Act 1989” there is substituted “ section 1 of the Local Government Act 2003 ”.
+
+### Local Government Act 1972 (c. 70)
+
+**4** In section 137(3) of the Local Government Act 1972 (which permits local authorities to make contributions to certain charitable and other funds), after “subject” there is inserted “ , in the case of a parish or community council, ”.
+
+### Local Government Act 1974 (c. 7)
+
+**5** (1) Schedule 4 to the Local Government Act 1974 (the Commissions for Local Administration in England and in Wales) is amended as follows.
+
+[^F237]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F238]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F239]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F240]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6) This paragraph applies in relation to the financial year beginning on 1st April 2004 and subsequent financial years.
+
+### Stock Transfer Act 1982 (c. 41)
+
+**6** In section 1(3)(b) of the Stock Transfer Act 1982 (extension of powers relating to securities), the words from “section 43” to “powers)” are omitted.
+
+### Representation of the People Act 1985 (c. 50)
+
+**7** (1) Section 15 of the Representation of the People Act 1985 (combination of polls) shall have effect as if the following were inserted after subsection (5)—
+
+> (5A) The power under subsection (5) above to make provision in connection with the combining under this section of polls at—
+>
+> (a) a local government election in England and Wales, and
+>
+> (b) the European Parliamentary general election in 2004,
+>
+> includes power to make provision modifying, in relation to such elections, any enactment relating to election of members of the European Parliament or any instrument made under any such enactment or under the Representation of the People Acts.
+
+(2) The following shall extend to Gibraltar—
+
+(a) the power conferred by section 15(5) of the Representation of the People Act 1985 (c. 50), so far as extended by section 15(5A) of that Act, and
+
+(b) the Representation of the People Acts, so far as relating thereto.
+
+### Local Government Act 1988 (c. 9)
+
+**8** Section 33 of the Local Government Act 1988 (restrictions on contracts with local authority companies) ceases to have effect.
+
+### Local Government Finance Act 1988 (c. 41)
+
+**9** (1) The Local Government Finance Act 1988 is amended as follows.
+
+(2) Paragraphs 12 to 17 and 22 apply in relation to the financial year beginning on 1st April 2004 and subsequent financial years.
+
+**10** In section 47 (discretionary relief), in subsections (1)(b) and (5), for “section 58” there is substituted “ section 57A or 58 ”.
+
+**11** In section 49 (reduction or remission of liability), in subsection (3), for “section 58” there is substituted “ section 57A or 58 ”.
+
+**12** Section 76 shall become Chapter 1 of Part 5, entitled “General”.
+
+**13** Sections 78 to 84C shall become Chapter 2 of Part 5, entitled “Revenue support grant: England”.
+
+**14** In the Chapter 2 so formed, at the beginning there is inserted—
+
+> **Introductory**
+>
+> **Application of Chapter 2**
+>
+> **Application of Chapter 2**
+>
+> **77A** This Chapter applies only in relation to England.
+
+**15** In sections 78(1) and 78A(2) (which refer to revenue support grant being payable under the Part), for “Part” there is substituted “ Chapter ”.
+
+**16** Section 85, together with the sections in Part 5 that follow that section, shall become Chapter 4 of that Part, entitled “Other grants”.
+
+**[^F241]17** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**18** In section 88 (transport grants: supplementary), in subsections (4) and (6), for the words from “expenditure for” to “1989” there is substituted “ capital expenditure for the purposes of Chapter 1 of Part 1 of the Local Government Act 2003 (capital finance) ”.
+
+**19** In section 90 (payments to and from collection funds), in subsection (1)(d), for “or regulations” there is substituted “ , under regulations made for the purpose mentioned in paragraph 4(7) of that Schedule or under regulations ”.
+
+**20** In section 138 (judicial review), in subsection (2)(j), after “multiplier” there is inserted “ or small business non-domestic rating multiplier ”.
+
+**21** In section 139 (functions to be discharged only by authority), in subsection (2)(d), after “multiplier” there is inserted “ or small business non-domestic rating multiplier ”.
+
+**22** In section 140(2) (Parts 3 and 5 of the Act to apply, and be administered, separately in England and Wales)—
+
+[^F242]a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) paragraph (d) is omitted, and
+
+(c) in paragraph (e), the words “section 84A above or” are omitted.
+
+**23** In section 141 (payments to and from authorities), in subsection (7), after “below,” there is inserted “ regulations made for the purpose mentioned in paragraph 4(7) of that Schedule, ”.
+
+**24** (1) Section 143 (orders and regulations) is amended as follows.
+
+[^F243]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) In subsection (4), for “58” there is substituted “ 57A ”.
+
+[^F244]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) After subsection (9A) there is inserted—
+
+> (9AA) The power of the Secretary of State to make an order under paragraph 5G of Schedule 9 shall be exercisable by statutory instrument, and no such order shall be made by him unless a draft of it has been laid before and approved by resolution of each House of Parliament.
+
+**25** (1) Schedule 7 (non-domestic rating multipliers) is amended as follows.
+
+(2) In paragraph 5 (interpretation of definitions of “non-domestic rating multiplier”), after sub-paragraph (13) there is inserted—
+
+> (14) Sub-paragraph (13) above does not apply to orders made by the National Assembly for Wales.
+>
+> (15) An order made under sub-paragraph (3) above by the National Assembly for Wales (including an order amending or revoking another) is effective in relation to a particular financial year only if it is made—
+>
+> (a) before 1 March in the preceding financial year, and
+>
+> (b) at a time when no local government finance report for the year has been published by the Assembly.
+
+(3) In paragraph 6 (calculation of non-domestic rating multiplier), after sub-paragraph (4) there is inserted—
+
+> (4A) Sub-paragraph (4) above does not apply to a calculation made by the National Assembly for Wales for a financial year beginning in or after 2004.
+>
+> (4B) A calculation made by the Assembly under this paragraph for a financial year beginning in or after 2004 is invalid unless one or both of the following conditions is fulfilled—
+>
+> (a) it is made after the Assembly has published the local government finance report for the year or, where the Assembly is publishing two local government finance reports for the year, it is made after the Assembly has published both of those reports;
+>
+> (b) it is made on or after 1 March in the preceding financial year.
+
+(4) In paragraph 9 (special authority’s non-domestic rating multiplier), in sub-paragraph (4), in the definition of A, after “year” there is inserted “ so far as relating to England ”.
+
+(5) In paragraph 10 (substituted multiplier), for sub-paragraph (1) there is substituted—
+
+> (1) Where a special authority has set multipliers for a financial year (whether originally or by way of substitute) it may set multipliers in substitution if, and only if, they have been quashed.
+
+(6) In paragraphs 10(2) and 11(1), after “9” there is inserted “ or 9A ”.
+
+**26** (1) Schedule 8 (non-domestic rating: pooling) is amended as follows.
+
+(2) In paragraph 2(2) (debits to the non-domestic rating account), in paragraph (a), after “(14) below” there is inserted “ , under regulations made for the purpose mentioned in paragraph 4(7) below ”.
+
+(3) In paragraph 4(3) (contributions by special authorities), for paragraph (a) there is substituted—
+
+> (a) the authority’s non-domestic rating multiplier and small business non-domestic rating multiplier for the year were equal respectively to the non-domestic rating multiplier and the small business non-domestic rating multiplier for the year, so far as relating to England, determined in accordance with Part 1 of Schedule 7 above, and.
+
+**27** In Schedule 11 (valuation tribunals)—
+
+(a) in paragraph 1 (power to make regulations for establishment of tribunals), in sub-paragraph (2) (provision which the regulations may include), for the words from “in relation to” to the end there is substituted—
+
+> (a) so far as relating to England, in relation to membership, procedure and other matters relating to tribunals, except staff, accommodation and equipment, and
+>
+> (b) so far as relating to Wales, in relation to membership, staff, accommodation, equipment, procedure and other matters relating to tribunals.
+
+;
+
+(b) in paragraph 6(1) (staff), after “paragraph 1 above” there is inserted “ , so far as relating to Wales, ”; and
+
+(c) in paragraph 7(1) (accommodation and equipment), after “paragraph 1 above” there is inserted “ , so far as relating to Wales, ”.
+
+### Local Government and Housing Act 1989 (c. 42)
+
+**28** The Local Government and Housing Act 1989 is amended as follows.
+
+**29** Part 4 (revenue accounts and capital finance of local authorities) ceases to have effect.
+
+**30** (1) Section 70 (requirements for companies under control or subject to influence of local authorities) is amended as follows.
+
+(2) In subsection (2), for “the provisions for the time being made by order under subsection (1) above” there is substituted “ any provisions made by order under subsection (1) above which are for the time being applicable to it ”.
+
+(3) In subsection (3)—
+
+(a) for “local authorities” there is substituted “ a local authority ”, and
+
+(b) for “any” there is substituted “ the ”.
+
+(4) In subsection (4), for the words from “every” to “prescribed” there is substituted “ a local authority to comply with any requirements for the time being applicable to it ”.
+
+**31** For the second sentence of section 80A(4) (overpaid Housing Revenue Account subsidy may be recovered by withholding or reducing subsidy) there is substituted—
+
+> (4A) Without prejudice to other methods of recovery, a sum recoverable under subsection (4) above may—
+>
+> (a) be recovered by withholding or reducing subsidy, and
+>
+> (b) if the sum is referable to housing benefit in respect of houses or other property within the authority’s Housing Revenue Account, be recovered by withholding or reducing rent rebate subsidy under Part 8 of the Social Security Administration Act 1992.
+
+**32** In section 88(1)(d) (construction of references in Part 6 to “proper practices”), for “section 66(4) above” there is substituted “ section 21 of the Local Government Act 2003 ”.
+
+**33** (1) Schedule 4 (keeping of the Housing Revenue Account) is amended as follows.
+
+(2) In Part 1 (credits to the Account), item 5 (housing benefit transfers) is omitted.
+
+(3) In that Part, for item 9 (sums directed by Secretary of State) there is substituted—
+
+> **Item 9: sums directed by Secretary of State or National Assembly for Wales**
+>
+> Any sums which for the year the authority is required, by reason of a direction given by the appropriate person, to carry to the credit of the account from some other revenue account of theirs.
+>
+> A direction under this item may require the transfer of sums calculated in accordance with formulae specified in the direction, and any formula so specified may include variables framed (in whatever way the appropriate person considers appropriate) by reference to such matters as the appropriate person thinks fit.
+
+(4) In Part 2 (debits to the Account), item 4 (rent rebates) is omitted.
+
+(5) In that Part, after item 9 there is inserted—
+
+> **Item 10: sums directed by Secretary of State or National Assembly for Wales**
+>
+> Any sums which for the year the authority is required, by reason of a direction given by the appropriate person, to carry from the account to the credit of some other revenue account of theirs.
+>
+> A direction under this item may require the transfer of sums calculated in accordance with formulae specified in the direction, and any formula so specified may include variables framed (in whatever way the appropriate person considers appropriate) by reference to such matters as the appropriate person thinks fit.
+>
+> In giving a direction under this item, the appropriate person may (in particular) take into account the effect of such a direction on—
+>
+> (a) other revenue accounts in the authority’s relevant fund,
+>
+> (b) the amounts of council tax falling to be set by the authority under section 30 of the Local Government Finance Act 1992, and
+>
+> (c) the authority’s budget requirement under section 32(4) of that Act.
+>
+> In this item the reference to the authority’s “relevant fund” is—
+>
+> (a) in relation to England, to the authority’s general fund within the meaning of section 91(2) of the Local Government Finance Act 1988, and
+>
+> (b) in relation to Wales, to the authority’s council fund within the meaning of section 38(1) of the Local Government (Wales) Act 1994.
+
+### Social Security Administration Act 1992 (c. 5)
+
+**34** The Social Security Administration Act 1992 is amended as follows.
+
+**35** (1) In section 134(2) (forms that may be taken by the rent rebates and allowances referred to since 1st April 1997 in subsections (1A) and (1B) instead of subsection (1)), for “subsection (1)” substitute “ subsections (1A) and (1B) ”.
+
+(2) Sub-paragraph (1) shall be deemed to have come into force on 1st April 1997.
+
+**36** In section 140B (calculation of rent rebate subsidy, rent allowance subsidy and council tax benefit subsidy), the following are omitted—
+
+(a) the second sentence of subsection (2) (Housing Revenue Account rebates paid by housing authority in England and Wales not relevant benefit for purpose of determining amount of subsidy), and
+
+(b) subsection (7) (section not to be taken as implying that additions and deductions may not be determined by reference to certain matters).
+
+**37** In section 140C (payment of subsidy), after subsection (1) there is inserted—
+
+> (1A) Conditions under subsection (1) above may (in particular) be imposed to obtain information for the purposes of the carrying-out by the Secretary of State of any of his functions relating to subsidy.
+
+**38** In section 140D (rent rebate subsidy: accounting provisions), the following are omitted—
+
+(a) subsection (1)(c) (accounting for rent rebate subsidy by development corporation in England and Wales), and
+
+(b) subsection (2) (treatment of Housing Revenue Account rebates).
+
+**39** In section 140G (interpretation of Part 8), in the definition of “Housing Revenue Account”, paragraph (b) (definition of Housing Revenue Account rebate) is omitted.
+
+### Local Government Finance Act 1992 (c. 14)
+
+**40** The Local Government Finance Act 1992 is amended as follows.
+
+**41** In section 11(2) (discounts), for “section 12” there is substituted “ sections 11A and 12 ”.
+
+**42** In section 13(3) (reduced amounts), after “section 11” there is inserted “ , 11A ”.
+
+**43** (1) In section 17 (completion of new dwellings), in subsection (4) (which defines the date to be taken as the completion date)—
+
+(a) in paragraph (a), for “an appeal” there is substituted “ no appeal ”, and
+
+(b) in paragraph (b), for “no appeal” there is substituted “ an appeal ”.
+
+(2) This paragraph has effect in relation to any completion notice under Schedule 4A to the Local Government Finance Act 1988 (c. 41) (new buildings: completions days), as applied by section 17 of the Local Government Finance Act 1992 (c. 14), which—
+
+(a) is served on or after the day on which this paragraph comes into force, or
+
+(b) becomes the subject of such an appeal on or after the day on which this paragraph comes into force.
+
+**44** In section 21 (valuations for purposes of lists), in subsection (2) (basis of valuations), for “1st April 1991” there is substituted “ the appropriate date ” and after that subsection there is inserted—
+
+> (2A) For the purposes of subsection (2) above, the appropriate date is—
+>
+> (a) in relation to a list under section 22, 1st April 1991, and
+>
+> (b) in relation to a list under section 22B, the later of—
+>
+> (i) two years before the date on which the list falls to be compiled, and
+>
+> (ii) such date, if any, within that two year period as may be specified by regulations.
+>
+> (2B) The power to make regulations under subsection (2A)(b)(ii) is exercisable—
+>
+> (a) in relation to a list to be compiled for a billing authority in England, by the Secretary of State, and
+>
+> (b) in relation to a list to be compiled for a billing authority in Wales, by the National Assembly for Wales.
+
+**45** In section 22(2) (when valuation list comes into force), for the words from “and” to the end there is substituted “ , shall come into force on that day and shall remain in force until a new list for the authority is compiled under section 22B below ”.
+
+**46** In section 24 (alteration of lists), in subsection (9)(b), for “or 22A(10)” there is substituted “ , 22A(10) or 22B(10) ”.
+
+**47** Section 25 (compilation and maintenance of new lists) ceases to have effect.
+
+**48** In section 28 (information about lists)—
+
+(a) in subsection (2)(a), for “or 22A(10)” there is substituted “ , 22A(10) or 22B(10) ”, and
+
+(b) in subsection (3)(a), after “22(6)” there is inserted “ or 22B(8) ”.
+
+**49** In section 66(2) (matters subject only to judicial review), in paragraph (b) (determinations)—
+
+(a) after “8(2)” there is inserted “ , 11A ”, and
+
+(b) for “12(1)” there is substituted “ 12 ”.
+
+**50** In section 67 (functions to be discharged only by the authority), in subsection (2)(a) (making of determination)—
+
+(a) after “8(2)” there is inserted “ , 11A ”, and
+
+(b) for “12(1)” there is substituted “ 12 ”.
+
+**51** (1) Section 69 (interpretation of Part 1) is amended as follows.
+
+(2) In subsection (1), the definition of “revenue support grant” is omitted.
+
+[^F245]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**52** (1) Section 113 (orders and regulations) is amended as follows.
+
+(2) In each of subsections (1) and (2) (powers to make regulations or orders under the Act include power to make differential and incidental etc. provision), for “or the Treasury” there is inserted “ , the Treasury or the National Assembly for Wales ”.
+
+[^F246]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F247]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) After subsection (3) there is inserted—
+
+> (4) Any power of the National Assembly for Wales under this Act to make orders or regulations shall be exercisable by statutory instrument.
+
+**53** (1) Schedule 2 (administration) is amended as follows.
+
+(2) In paragraph 8 (exempt dwellings etc.)—
+
+(a) in sub-paragraph (1), after “22(5)(b)” there is inserted “ , 22B(7) ”, and
+
+(b) in sub-paragraphs (2) and (3)—
+
+(i) after “22(5)(b)” there is inserted “ , 22B(7) ”, and
+
+(ii) after “22(7)”, in both places, there is inserted “ , 22B(9) ”.
+
+(3) At the end there is inserted—
+
+> **21** (1) This paragraph applies where a billing authority exercises the power under section 13A(1) above by determining a class of case in which liability is to be reduced.
+>
+> (2) Where the determination provides for liability to be reduced to nil, any dwelling in relation to which the reduction applies shall be treated for the purposes of this Schedule as an exempt dwelling.
+>
+> (3) Where the determination provides for liability to be reduced otherwise than to nil, any amount in relation to which the reduction applies shall be treated for the purposes of this Schedule as subject to a discount equal to the amount of the reduction.
+
+**54** In Schedule 4 (enforcement), at the end there is inserted—
+
+> **Interpretation**
+>
+> **20** In this Schedule, except paragraph 6, “prescribed” means prescribed by regulations made—
+>
+> (a) in relation to England, by the Secretary of State, and
+>
+> (b) in relation to Wales, by the National Assembly for Wales.
+
+**55** In Schedule 13 (minor and consequential amendments), in paragraph 80 (amendments of section 143 of the Local Government Finance Act 1988)—
+
+(a) sub-paragraph (1) is omitted, and
+
+(b) in sub-paragraph (2), for “that section” there is substituted “ section 143 of that Act (orders and regulations) ”.
+
+### Local Government (Wales) Act 1994 (c. 19)
+
+**56** The Local Government (Wales) Act 1994 is amended as follows.
+
+**[^F248]57** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**58** (1) Section 63 (regulations, orders and directions) is amended as follows.
+
+(2) In subsection (1) (regulations and orders to be made by statutory instrument), after “Secretary of State” there is inserted “ , the National Assembly for Wales ”.
+
+(3) In subsection (2) (parliamentary procedure), after “other than one made” there is inserted “ by the Assembly or ”.
+
+(4) In subsection (5)(a) (power to make supplemental etc. provision), for “Secretary of State or (as the case may be) the Lord Chancellor” there is substituted “ person making the regulations or order ”.
+
+### Deregulation and Contracting Out Act 1994 (c. 40)
+
+**59** In section 71(3) of the Deregulation and Contracting Out Act 1994 (certain functions not excluded by section 71(1)(c)), after paragraph (e) there is inserted—
+
+> (ea) section 48 of the Local Government Act 2003 (administration etc of BID levy) if the function corresponds to any function falling within paragraph (e) above,.
+
+### Housing Act 1996 (c. 52)
+
+**60** (1) In section 122(4) of the Housing Act 1996 (which makes provision about the determination of rent allowance subsidy under section 140B of the Social Security Administration Act 1992 (c. 5))—
+
+(a) in paragraph (b) (which refers to subsection (2) of section 140B), for “that subsection” there is substituted “ subsection (4) or (5) of that section ”, and
+
+(b) in paragraph (c) (which refers to subsection (4) of section 140B), for “(4)” there is substituted “ (5)(b) ”.
+
+(2) Sub-paragraph (1) shall be deemed to have come into force on 1st July 1997.
+
+### Justices of the Peace Act 1997 (c. 25)
+
+**61** The Justices of the Peace Act 1997 is amended as follows.
+
+**62** In section 67 (justices not disqualified by reason of liability to local taxation)—
+
+(a) after paragraph (a) there is inserted—
+
+> (aa) BID levy (within the meaning of Part 4 of the Local Government Act 2003),
+
+, and
+
+(b) for “any charge, tax or rate falling within paragraphs (b)” there is substituted “ any levy, charge, tax or rate falling within paragraphs (aa) ”.
+
+**63** In section 72(1) (interpretation), for the definition of “capital expenditure” there is substituted—
+
+> “capital expenditure” means expenditure which is capital expenditure for the purposes of Chapter 1 of Part 1 of the Local Government Act 2003 (capital finance);
+
+.
+
+### Local Government (Contracts) Act 1997 (c. 65)
+
+**64** In section 1(3) of the Local Government (Contracts) Act 1997 (local authorities for the purposes of the Act), in paragraph (a), for “Part IV of the Local Government and Housing Act 1989” there is substituted “ Chapter 1 of Part 1 of the Local Government Act 2003 (capital finance) ”.
+
+### Audit Commission Act 1998 (c. 18)
+
+**[^F249]65** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### School Standards and Framework Act 1998 (c. 31) and Education Act 2002 (c. 32)
+
+**[^F250]66** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Government of Wales Act 1998 (c. 38)
+
+**[^F251]67** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Greater London Authority Act 1999 (c. 29)
+
+**68** The Greater London Authority Act 1999 is amended as follows.
+
+**69** (1) Section 52 (meetings of the London Assembly) is amended as follows.
+
+(2) After subsection (4) there is inserted—
+
+> (4A) There must be at least 21 clear days between a meeting under subsection (3) above and the last such meeting before it, but this does not apply to the gap between the first such meeting after an ordinary election and the last such meeting before that election.
+
+(3) In subsection (6)(b) (notice of meeting under subsection (3) to be given at least 28 clear days before meeting), for “28” there is substituted “ 14 ”.
+
+(4) Subsection (7) (notice of meeting not to be given during currency of a notice already given) is omitted.
+
+**[^F252]70** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**71** Sections 112 to 118 (credit approvals) cease to have effect.
+
+**72** (1) Section 119 (power to redistribute capital receipts of functional bodies) is amended as follows.
+
+(2) In subsection (2), for “expenditure for capital purposes” there is substituted “ capital expenditure ”.
+
+(3) In subsection (3)—
+
+(a) in paragraph (e), for “expenditure for capital purposes” there is substituted “ capital expenditure ”, and
+
+(b) for paragraph (f) there is substituted—
+
+> (f) for and in connection with treating the whole or a prescribed part of the relevant amount as added to the capital receipts of the assisted body, for the purposes of Chapter 1 of Part 1 of the Local Government Act 2003 (capital finance);
+
+.
+
+**73** In section 120 (capital grants between the Greater London Authority and functional bodies), for “expenditure for capital purposes”, in each place where it occurs, there is substituted “ capital expenditure ”.
+
+**74** In section 121 (revenue grants between the Greater London Authority and functional bodies), for “expenditure for capital purposes”, in each place where it occurs, there is substituted “ capital expenditure ”.
+
+**75** (1) Section 122 (Mayor’s capital spending plan for each functional body) is amended as follows.
+
+(2) In subsection (3)(c), for “usable part of the body’s capital receipts is” there is substituted “ body’s capital receipts are ”.
+
+(3) In subsection (4) (content of section B of the plan), for paragraphs (b) to (d) there is substituted—
+
+> (b) the total of the amounts which the Mayor expects the body—
+>
+> (i) to borrow in the year, or
+>
+> (ii) to be treated as borrowing in the year because of section 8(2) of the Local Government Act 2003 (under which entry into, or variation of, a credit arrangement is treated as a form of borrowing).
+
+(4) In subsection (5) (content of section C of the plan)—
+
+(a) in paragraph (a), for “expenditure for capital purposes” there is substituted “ capital expenditure ”, and
+
+(b) for paragraph (b) there is substituted—
+
+> (b) the total of the amounts which the Mayor expects the body to be treated as borrowing in the year because of section 8(2) of the Local Government Act 2003;
+
+.
+
+(5) In subsection (6) (content of section D of the plan), for paragraph (c) there is substituted—
+
+> (c) the amount which he expects the body to meet by borrowing or entering into or varying credit arrangements;
+
+.
+
+**76** In section 123 (preparation of capital spending plan), for subsection (1) there is substituted—
+
+> (1) For each financial year, the Mayor shall prepare a draft of the capital spending plan for the year.
+
+**77** (1) Section 124 (admissible factors in preparing capital spending plan etc.) is amended as follows.
+
+(2) In subsection (2), for paragraph (b) there is substituted—
+
+> (b) the amounts to be transferred to the body under section 32(5) of the Local Government Act 2003 (Mayor’s power to transfer expenditure grant);
+
+.
+
+(3) In subsection (4)—
+
+(a) after paragraph (a) there is inserted—
+
+> (aa) the amount met out of grants under section 31 of the Local Government Act 2003 (expenditure grant) made to the body;
+
+, and
+
+(b) for paragraph (c) there is substituted—
+
+> (c) the amount met by borrowing or entering into or varying credit arrangements;
+
+.
+
+**78** (1) Section 126 (interpretation of Chapter 4) is amended as follows.
+
+(2) For subsection (1) there is substituted—
+
+> (1) In this Chapter—
+>
+> “capital expenditure” and “capital receipt” have the same meaning as in Chapter 1 of Part 1 of the Local Government Act 2003 (capital finance);
+>
+> “capital spending plan” means a capital spending plan under section 122 above.
+
+(3) In subsection (2), for the words from “Part IV” to “section 48” there is substituted “ Chapter 1 of Part 1 of the Local Government Act 2003 (see section 7 ”.
+
+### National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. 1999/672)
+
+**79** In Schedule 1 to the National Assembly for Wales (Transfer of Functions Order) 1999, in the entry relating to the Local Government and Housing Act 1989 (c. 42), the sentence relating to section 80 of that Act is omitted.
+
+### . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F253]80** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Homelessness Act 2002 (c. 7)
+
+**81** In section 3(9) of the Homelessness Act 2002 (public’s rights to inspect each document published under section 3 and to obtain copies)—
+
+(a) in paragraph (a), for “each document published under” there is substituted “ everything published under section 1 or ”, and
+
+(b) in paragraph (b), for “a document” there is substituted “ anything ”.
+
+## SCHEDULE 8 — Repeals and revocations
+
+*Section 127(2)*
+
+### Part 1 — Repeals
+
+|  |  |
+|---|---|
+| *Short title and chapter* | *Extent of repeal* |
+| Fire Services Act 1947 (c. 41) | Section 19(3) to (8). |
+| Fire Services Act 1959 (c. 44) | In section 7, subsection (1) and, in subsection (2), paragraph (a). |
+| Local Government Act 1972 (c. 70) | Section 137(4AA) and (4C). |
+| Stock Transfer Act 1982 (c. 41) | In section 1(3)(b), the words from “section 43” to “powers)”. |
+| Housing Act 1985 (c. 68) | In section 27AB, in subsection (7)(b)(iii), the words from the beginning to “companies),” and, in subsection (8), the definition of “associated”. |
+| Local Government Act 1986 (c. 10) | Section 2A. |
+| Local Government Act 1988 (c. 9) | Sections 28 and 33. |
+| Local Government Finance Act 1988 (c. 41) | In section 53(4A), paragraph (b) and the word “and” at the end of paragraph (a). In section 140(2), paragraph (d) and, in paragraph (e), the words “section 84A above or”. Section 143(8) and (11). In Schedule 6, paragraph 3. In Schedule 9—<br>- (a) in paragraph 5(2), the words from “if it” to “do so” and from “and within” to “is served”, and<br>- (b) paragraph 5(3). |
+| Local Government and Housing Act 1989 (c. 42) | Sections 39 to 66 and 80(2). In section 80(3), the words after paragraph (c). In section 155(4), the word “or” at the end of paragraph (ea). Schedule 3. In Schedule 4—<br>- (a) in Part 1, item 5,<br>- (b) in Part 2, item 4, and<br>- (c) in Part 4, paragraph 3. In Schedule 5, in paragraph 37(2), the words “and (3)” and paragraphs 38(12) to (14) and 60. In Schedule 11, paragraphs 6, 7, 59 and 97. |
+| Environmental Protection Act 1990 (c. 43) | Section 88(6)(a). |
+| Ports Act 1991 (c. 52) | Section 29. |
+| Social Security Administration Act 1992 (c. 5) | In section 140B(2), the second sentence. Sections 140B(7) and 140D(1)(c) and (2). In section 140EE(3)(a), the words “, (7)(b)”. In section 140G, in the definition of the “Housing Revenue Account”, paragraph (b) and the word “and” at the end of paragraph (a). |
+| Local Government Finance Act 1992 (c. 14) | In section 11(3), the words “and section 12 below”. Sections 25, 32(11), 43(8), 50(6) and 52Z(3). In section 69(1), the definition of “revenue support grant”. In Schedule 10, paragraph 6(3). In Schedule 13, paragraphs 80(1), 84(2)(a) and 90. |
+| Local Government (Wales) Act 1994 (c. 19) | In section 51(2), the definition of the expression “expenditure for capital purposes”. In Schedule 15, paragraph 30. In Schedule 16, paragraphs 88, 96 and 97. |
+| Police and Magistrates' Courts Act 1994 (c. 29) | Section 30. |
+| Environment Act 1995 (c. 25) | Section 73. In Schedule 8, paragraph 8(5). In Schedule 10, paragraph 31(2). |
+| Police Act 1996 (c. 16) | In Schedule 7, in paragraph 1(2)(zd), the words “39(1)(j),”. |
+| Education Act 1996 (c. 56) | In Schedule 1, paragraph 5. |
+| Social Security Administration (Fraud) Act 1997 (c. 47) | In Schedule 1, paragraph 7(3) and (4). |
+| Local Government and Rating Act 1997 (c. 29) | Section 2(6). |
+| Local Government Finance (Supplementary Credit Approvals) Act 1997 (c. 63) | The whole Act. |
+| School Standards and Framework Act 1998 (c. 31) | In Schedule 30, paragraph 13. |
+| Government of Wales Act 1998 (c. 38) | In section 81(4), the words “, (2)(a)”. |
+| Access to Justice Act 1999 (c. 22) | In Schedule 12, paragraph 5. |
+| Local Government Act 1999 (c. 27) | Sections 22(2) and 31. |
+| Greater London Authority Act 1999 (c. 29) | Sections 52(7), 108(2) and 111 to 118. In section 119(1) and (3)(b), the words “the usable part of”. In section 122(3)(b) and (6)(b), the words “the usable part of”. In section 124(4)(b), the words “the usable part of”. Section 136(1). |
+| Child Support, Pensions and Social Security Act 2000 (c. 19) | In section 70(2)(a), the words “, (7)(b)”. |
+| Local Government Act 2000 (c. 22) | Section 104. |
+| Rating (Former Agricultural Premises and Rural Shops) Act 2001 (c. 14) | Section 1(4). |
+| Criminal Justice and Police Act 2001 (c. 16) | In Schedule 6, in paragraph 53, sub-paragraph (a) and the word “and” at the end of that sub-paragraph. |
+
+### Part 2 — Revocations
+
+|  |  |
+|---|---|
+| *Title* | *Extent of revocation* |
+| Avon Fire Services (Combination Scheme) Order 1995 (S.I. 1995/3127) | In paragraph 6, in sub-paragraph (1), the words “constituted and administered in accordance with the provisions of Part IV” and, in sub-paragraph (2), the words “in accordance with the said provisions”. Paragraphs 20(2) and 21. |
+| Cleveland Fire Services (Combination Scheme) Order 1995 (S.I. 1995/3131) | In paragraph 6, in sub-paragraph (1), the words “constituted and administered in accordance with the provisions of Part IV” and, in sub-paragraph (2), the words “in accordance with the said provisions”. Paragraphs 20(2) and 21. |
+| Humberside Fire Services (Combination Scheme) Order 1995 (S.I. 1995/3132) | In paragraph 6, in sub-paragraph (1), the words “constituted and administered in accordance with the provisions of Part IV” and, in sub-paragraph (2), the words “in accordance with the said provisions”. Paragraphs 20(2) and 21. |
+| North Yorkshire Fire Services (Combination Scheme) Order 1995 (S.I. 1995/3133) | In paragraph 6, in sub-paragraph (1), the words “constituted and administered in accordance with the provisions of Part IV” and, in sub-paragraph (2), the words “in accordance with the said provisions”. Paragraphs 20(2) and 21. |
+| Leicestershire Fire Services (Combination Scheme) Order 1996 (S.I. 1996/2912) | In paragraph 6, in sub-paragraph (1), the words “constituted and administered in accordance with the provisions of Part IV” and, in sub-paragraph (2), the words “in accordance with the said provisions”. Paragraphs 20(2) and 21. |
+| Wiltshire Fire Services (Combination Scheme) Order 1996 (S.I. 1996/2916) | In paragraph 6, in sub-paragraph (1), the words “constituted and administered in accordance with the provisions of Part IV” and, in sub-paragraph (2), the words “in accordance with the said provisions”. Paragraphs 20(2) and 21. |
+| Staffordshire Fire Services (Combination Scheme) Order 1996 (S.I. 1996/2917) | In paragraph 6, in sub-paragraph (1), the words “constituted and administered in accordance with the provisions of Part IV” and, in sub-paragraph (2), the words “in accordance with the said provisions”. Paragraphs 20(2) and 21. |
+| Bedfordshire Fire Services (Combination Scheme) Order 1996 (S.I. 1996/2918) | In paragraph 6, in sub-paragraph (1), the words “constituted and administered in accordance with the provisions of Part IV” and, in sub-paragraph (2), the words “in accordance with the said provisions”. Paragraphs 20(2) and 21. |
+| Derbyshire Fire Services (Combination Scheme) Order 1996 (S.I. 1996/2919) | In paragraph 6, in sub-paragraph (1), the words “constituted and administered in accordance with the provisions of Part IV” and, in sub-paragraph (2), the words “in accordance with the said provisions”. Paragraphs 20(2) and 21. |
+| Dorset Fire Services (Combination Scheme) Order 1996 (S.I. 1996/2920) | In paragraph 6, in sub-paragraph (1), the words “constituted and administered in accordance with the provisions of Part IV” and, in sub-paragraph (2), the words “in accordance with the said provisions”. Paragraphs 20(2) and 21. |
+| Durham Fire Services (Combination Scheme) Order 1996 (S.I. 1996/2921) | In paragraph 6, in sub-paragraph (1), the words “constituted and administered in accordance with the provisions of Part IV” and, in sub-paragraph (2), the words “in accordance with the said provisions”. Paragraphs 20(2) and 21. |
+| East Sussex Fire Services (Combination Scheme) Order 1996 (S.I. 1996/2922) | In paragraph 6, in sub-paragraph (1), the words “constituted and administered in accordance with the provisions of Part IV” and, in sub-paragraph (2), the words “in accordance with the said provisions”. Paragraphs 20(2) and 21. |
+| Hampshire Fire Services (Combination Scheme) Order 1996 (S.I. 1996/2923) | In paragraph 6, in sub-paragraph (1), the words “constituted and administered in accordance with the provisions of Part IV” and, in sub-paragraph (2), the words “in accordance with the said provisions”. Paragraphs 20(2) and 21. |
+| Buckinghamshire Fire Services (Combination Scheme) Order 1996 (S.I. 1996/2924) | In paragraph 6, in sub-paragraph (1), the words “constituted and administered in accordance with the provisions of Part IV” and, in sub-paragraph (2), the words “in accordance with the said provisions”. Paragraphs 20(2) and 21. |
+| Berkshire Fire Services (Combination Scheme) Order 1997 (S.I. 1997/2695) | In paragraph 6, in sub-paragraph (1), the words “constituted and administered in accordance with the provisions of Part IV” and, in sub-paragraph (2), the words “in accordance with the said provisions”. Paragraphs 20(2) and 21. |
+| Cambridgeshire Fire Services (Combination Scheme) Order 1997 (S.I. 1997/2696) | In paragraph 6, in sub-paragraph (1), the words “constituted and administered in accordance with the provisions of Part IV” and, in sub-paragraph (2), the words “in accordance with the said provisions”. Paragraphs 20(2) and 21. |
+| Cheshire Fire Services (Combination Scheme) Order 1997 (S.I. 1997/2697) | In paragraph 6, in sub-paragraph (1), the words “constituted and administered in accordance with the provisions of Part IV” and, in sub-paragraph (2), the words “in accordance with the said provisions”. Paragraphs 20(2) and 21. |
+| Devon Fire Services (Combination Scheme) Order 1997 (S.I. 1997/2698) | In paragraph 6, in sub-paragraph (1), the words “constituted and administered in accordance with the provisions of Part IV” and, in sub-paragraph (2), the words “in accordance with the said provisions”. Paragraphs 20(2) and 21. |
+| Essex Fire Services (Combination Scheme) Order 1997 (S.I. 1997/2699) | In paragraph 6, in sub-paragraph (1), the words “constituted and administered in accordance with the provisions of Part IV” and, in sub-paragraph (2), the words “in accordance with the said provisions”. Paragraphs 20(2) and 21. |
+| Hereford and Worcester Fire Services (Combination Scheme) Order 1997 (S.I. 1997/2700) | In paragraph 6, in sub-paragraph (1), the words “constituted and administered in accordance with the provisions of Part IV” and, in sub-paragraph (2), the words “in accordance with the said provisions”. Paragraphs 20(2) and 21. |
+| Kent Fire Services (Combination Scheme) Order 1997 (S.I. 1997/2701) | In paragraph 6, in sub-paragraph (1), the words “constituted and administered in accordance with the provisions of Part IV” and, in sub-paragraph (2), the words “in accordance with the said provisions”. Paragraphs 20(2) and 21. |
+| Shropshire Fire Services (Combination Scheme) Order 1997 (S.I. 1997/2702) | In paragraph 6, in sub-paragraph (1), the words “constituted and administered in accordance with the provisions of Part IV” and, in sub-paragraph (2), the words “in accordance with the said provisions”. Paragraphs 20(2) and 21. |
+| Lancashire Fire Services (Combination Scheme) Order 1997 (S.I. 1997/2760) | In paragraph 6, in sub-paragraph (1), the words “constituted and administered in accordance with the provisions of Part IV” and, in sub-paragraph (2), the words “in accordance with the said provisions”. Paragraphs 20(2) and 21. |
+| Nottinghamshire Fire Services (Combination Scheme) Order 1997 (S.I. 1997/2761) | In paragraph 6, in sub-paragraph (1), the words “constituted and administered in accordance with the provisions of Part IV” and, in sub-paragraph (2), the words “in accordance with the said provisions”. Paragraphs 20(2) and 21. |
+| National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. 1999/672) | In Schedule 1, in the entry relating to the Local Government and Housing Act 1989, the sentence relating to section 80 of that Act. |
+
+---
+
+[^F1]: Word in s. 2(1) inserted (31.1.2024) by Levelling-up and Regeneration Act 2023 (c. 55), ss. 78(3)(a), 255(2)(p) (with s. 247); S.I. 2024/92, reg. 2(a)
+[^F2]: S. 2(1)(c) inserted (31.1.2024) by Levelling-up and Regeneration Act 2023 (c. 55), ss. 78(3)(b), 255(2)(p) (with s. 247); S.I. 2024/92, reg. 2(a)
+[^F3]: Words in s. 5(1) inserted (31.1.2024) by Levelling-up and Regeneration Act 2023 (c. 55), ss. 78(4)(a), 255(2)(p) (with s. 247); S.I. 2024/92, reg. 2(a)
+[^F4]: Words in s. 5(2) inserted (31.1.2024) by Levelling-up and Regeneration Act 2023 (c. 55), ss. 78(4)(b), 255(2)(p) (with s. 247); S.I. 2024/92, reg. 2(a)
+[^F5]: Word in s. 8(1) inserted (31.1.2024) by Levelling-up and Regeneration Act 2023 (c. 55), ss. 78(5)(a), 255(2)(p) (with s. 247); S.I. 2024/92, reg. 2(a)
+[^F6]: S. 8(1)(c) inserted (31.1.2024) by Levelling-up and Regeneration Act 2023 (c. 55), ss. 78(5)(b), 255(2)(p) (with s. 247); S.I. 2024/92, reg. 2(a)
+[^F7]: Words in s. 11(5) inserted (12.5.2016) by Housing and Planning Act 2016 (c. 22), ss. 78(2), 216(1)(b)
+[^F8]: S. 11(5A) inserted (12.5.2016) by Housing and Planning Act 2016 (c. 22), ss. 78(3), 216(1)(b)
+[^F9]: S. 11(6) inserted (15.11.2011) by Localism Act 2011 (c. 20), ss. 174, 240(5)(n)
+[^F10]: Words in s. 12 inserted (31.1.2024) by Levelling-up and Regeneration Act 2023 (c. 55), ss. 78(6), 255(2)(p) (with s. 247); S.I. 2024/92, reg. 2(a)
+[^F11]: Ss. 12A-12D and cross-heading inserted (31.1.2024) by Levelling-up and Regeneration Act 2023 (c. 55), ss. 78(2), 255(2)(p) (with s. 247); S.I. 2024/92, reg. 2(a)
+[^F12]: Words in s. 19(1) substituted (31.1.2024) by Levelling-up and Regeneration Act 2023 (c. 55), ss. 78(7), 255(2)(p) (with s. 247); S.I. 2024/92, reg. 2(a)
+[^F13]: S. 21(1A)(1B) inserted (31.1.2008) by Local Government and Public Involvement in Health Act 2007 (c. 28), ss. 238(2), 245(5); S.I. 2008/172, art. 2(1)(t)
+[^F14]: S. 21(4)(ca) inserted (3.12.2011) by Localism Act 2011 (c. 20), ss. 73(a), 240(2); S.I. 2011/2896, art. 2(g)
+[^F15]: S. 21(4)(d) omitted (1.4.2015) by virtue of Local Audit and Accountability Act 2014 (c. 2), s. 49(1), Sch. 12 para. 50(2); S.I. 2015/841, art. 3(x)
+[^F16]: S. 21(4)(da) substituted (3.12.2011) by Localism Act 2011 (c. 20), ss. 73(b), 240(2); S.I. 2011/2896, art. 2(g)
+[^F17]: S. 21(6) substituted (10.2.2015 for specified purposes, 1.4.2015 in so far as not already in force) by Local Audit and Accountability Act 2014 (c. 2), s. 49(1), Sch. 12 para. 50(3); S.I. 2015/179, art. 2; S.I. 2015/841, art. 3(x)
+[^F18]: S. 22(3) substituted (10.2.2015 for specified purposes, 1.4.2015 in so far as not already in force) by Local Audit and Accountability Act 2014 (c. 2), s. 49(1), Sch. 12 para. 51; S.I. 2015/179, art. 2; S.I. 2015/841, art. 3(x)
+[^F19]: S. 23(1)(i) omitted (1.4.2005) by virtue of Courts Act 2003 (Consequential Provisions) Order 2005 (S.I. 2005/886), art. 1, Sch. para. 96
+[^F20]: Words in s. 23(1)(k) substituted (1.4.2005) by Civil Contingencies Act 2004 (c. 36), s. 34(1), Sch. 2 para. 10(3)(e); S.I. 2005/772, art. 2(b)
+[^F21]: S. 23(1)(ka) omitted (26.5.2015) by virtue of Deregulation Act 2015 (c. 20), s. 115(7), Sch. 13 para. 6(32)(a); S.I. 2015/994, art. 6(g)
+[^F22]: S. 23(1)(m) substituted (1.10.2004 except in relation to W. and otherwise 10.11.2004) by Fire and Rescue Services Act 2004 (c. 21), s. 61, Sch. 1 para. 100; S.I. 2004/2304, art. 2; S.I. 2004/2917, art. 2
+[^F23]: S. 23(1)(ma) inserted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by Policing and Crime Act 2017 (c. 3), s. 183(1)(5)(e), Sch. 1 para. 83(2); S.I. 2017/399, reg. 2, Sch. para. 38
+[^F24]: S. 23(1)(n) substituted (22.11.2012) by Police Reform and Social Responsibility Act 2011 (c. 13), s. 157(1), Sch. 16 para. 317; S.I. 2012/2892, art. 2(i)
+[^F25]: S. 23(4)(5) inserted (17.12.2009) by Local Democracy, Economic Development and Construction Act 2009 (c. 20), s. 148(6), Sch. 6 para. 117(2); S.I. 2009/3318, art. 2(c)
+[^F26]: Words in s. 23(4) inserted (31.1.2024) by Levelling-up and Regeneration Act 2023 (c. 55), ss. 78(8), 255(2)(p) (with s. 247); S.I. 2024/92, reg. 2(a)
+[^F27]: Words in s. 23(5) substituted (29.6.2026) by English Devolution and Community Empowerment Act 2026 (c. 23), ss. 13(2), 108(5) (with ss. 13(7), 102)
+[^F28]: Words in s. 23(5) inserted (28.1.2016 for specified purposes, 28.3.2016 in so far as not already in force) by Cities and Local Government Devolution Act 2016 (c. 1), ss. 9(3), 25(2)
+[^F29]: S. 23(6)-(10) inserted (28.3.2016) by Cities and Local Government Devolution Act 2016 (c. 1), ss. 9(4), 25(2)
+[^F30]: Words in s. 23(8) substituted (29.6.2026) by English Devolution and Community Empowerment Act 2026 (c. 23), ss. 13(3), 108(5) (with ss. 13(7), 102)
+[^F31]: S. 23(8A)-(8D) inserted (26.12.2023) by Levelling-up and Regeneration Act 2023 (c. 55), s. 255(2)(c), Sch. 4 para. 150(2) (with s. 247)
+[^F32]: Words in s. 23(8A) substituted (29.6.2026) by English Devolution and Community Empowerment Act 2026 (c. 23), ss. 13(4), 108(5) (with ss. 13(7), 102)
+[^F33]: Words in s. 23(8C) substituted (29.6.2026) by English Devolution and Community Empowerment Act 2026 (c. 23), ss. 13(5), 108(5) (with ss. 13(7), 102)
+[^F34]: S. 23(9A)(9B) inserted (29.6.2026) by English Devolution and Community Empowerment Act 2026 (c. 23), ss. 13(6), 108(5) (with ss. 13(7), 102)
+[^F35]: Words in s. 23(10) inserted (26.12.2023) by Levelling-up and Regeneration Act 2023 (c. 55), s. 255(2)(c), Sch. 4 para. 150(3) (with s. 247)
+[^F36]: S. 23(10A) inserted (26.12.2023) by Levelling-up and Regeneration Act 2023 (c. 55), ss. 69, 255(2)(j) (with s. 247)
+[^F37]: S. 23(11) inserted (1.4.2021) by The Corporate Joint Committees (General) (Wales) Regulations 2021 (S.I. 2021/327), reg. 1(2), Sch. 2 para. 1
+[^F38]: Words in s. 24 substituted (31.1.2008) by Local Government and Public Involvement in Health Act 2007 (c. 28), ss. 238(3), 245(5); S.I. 2008/172, art. 2(1)(t)
+[^F39]: S. 24(1A) inserted (10.2.2015 for specified purposes, 1.4.2015 in so far as not already in force) by Local Audit and Accountability Act 2014 (c. 2), s. 49(1), Sch. 12 para. 52; S.I. 2015/179, art. 2; S.I. 2015/841, art. 3(x)
+[^F40]: Words in s. 25(1) substituted (3.12.2011) by Localism Act 2011 (c. 20), s. 240(2), Sch. 7 para. 43; S.I. 2011/2896, art. 2(i)
+[^F41]: Word in s. 25(3)(d) omitted (22.11.2012) by virtue of Police Reform and Social Responsibility Act 2011 (c. 13), s. 157(1), Sch. 16 para. 318(a); S.I. 2012/2892, art. 2(i)
+[^F42]: S. 25(3)(f) and word inserted (22.11.2012) by Police Reform and Social Responsibility Act 2011 (c. 13), s. 157(1), Sch. 16 para. 318(b); S.I. 2012/2892, art. 2(i)
+[^F43]: Words in s. 26(1)(a) inserted (3.12.2011) by Localism Act 2011 (c. 20), s. 240(2), Sch. 7 para. 44(a)(i); S.I. 2011/2896, art. 2(i)
+[^F44]: Words in s. 26(1)(a) inserted (3.12.2011) by Localism Act 2011 (c. 20), s. 240(2), Sch. 7 para. 44(a)(ii); S.I. 2011/2896, art. 2(i)
+[^F45]: Words in s. 26(1)(b) inserted (3.12.2011) by Localism Act 2011 (c. 20), s. 240(2), Sch. 7 para. 44(b); S.I. 2011/2896, art. 2(i)
+[^F46]: Words in s. 27(1) substituted (3.12.2011) by Localism Act 2011 (c. 20), s. 240(2), Sch. 7 para. 45; S.I. 2011/2896, art. 2(i)
+[^F47]: Words in s. 28(1) substituted (3.12.2011) by Localism Act 2011 (c. 20), s. 240(2), Sch. 7 para. 46(2); S.I. 2011/2896, art. 2(i)
+[^F48]: Words in s. 28(4) substituted (3.12.2011) by Localism Act 2011 (c. 20), s. 240(2), Sch. 7 para. 46(3)(a); S.I. 2011/2896, art. 2(i)
+[^F49]: Words in s. 28(4) inserted (3.12.2011) by Localism Act 2011 (c. 20), s. 240(2), Sch. 7 para. 46(3)(b); S.I. 2011/2896, art. 2(i)
+[^F50]: Words in s. 31 heading inserted (29.4.2026) by English Devolution and Community Empowerment Act 2026 (c. 23), ss. 42(2), 108(1)(3) (with s. 102)
+[^F51]: S. 32A inserted (29.4.2026 for specified purposes) by English Devolution and Community Empowerment Act 2026 (c. 23), ss. 66, 108(1)(6)
+[^F52]: S. 32A inserted (29.4.2026) by English Devolution and Community Empowerment Act 2026 (c. 23), ss. 42(3), 108(1)(3) (with s. 102)
+[^F53]: S. 32B inserted (29.4.2026) by English Devolution and Community Empowerment Act 2026 (c. 23), s. 108(1)(3), Sch. 20 para. 21 (with s. 102)
+[^F54]: S. 33(1)(h) omitted (1.4.2005) by virtue of Courts Act 2003 (Consequential Provisions) Order 2005 (S.I. 2005/886), art. 1, Sch. para. 96
+[^F55]: Words in s. 33(1)(j) substituted (1.4.2005) by Civil Contingencies Act 2004 (c. 36), s. 34(1), Sch. 2 para. 10(3)(e); S.I. 2005/772, art. 2(b)
+[^F56]: S. 33(1)(ja) omitted (26.5.2015) by virtue of Deregulation Act 2015 (c. 20), s. 115(7), Sch. 13 para. 6(32)(b); S.I. 2015/994, art. 6(g)
+[^F57]: S. 33(1)(jb)(jc) inserted (17.12.2009) by Local Democracy, Economic Development and Construction Act 2009 (c. 20), s. 148(6), Sch. 6 para. 117(3); S.I. 2009/3318, art. 2(c)
+[^F58]: S. 33(1)(jd) inserted (26.12.2023) by Levelling-up and Regeneration Act 2023 (c. 55), s. 255(2)(c), Sch. 4 para. 151 (with s. 247)
+[^F59]: S. 33(1)(je) inserted (W.) (20.10.2025) by The Corporate Joint Committees (Amendment to the Local Government Act 2003) (Wales) Regulations 2025 (S.I. 2025/1087), regs. 1, 2
+[^F60]: S. 33(1)(l) substituted (1.10.2004 except in relation to W. otherwise 10.11.2004) by Fire and Rescue Services Act 2004 (c. 21), s. 61, Sch. 1 para. 101; S.I. 2004/2304, art. 2; S.I. 2004/2917, art. 2
+[^F61]: S. 33(1)(la) inserted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by Policing and Crime Act 2017 (c. 3), s. 183(1)(5)(e), Sch. 1 para. 83(3); S.I. 2017/399, reg. 2, Sch. para. 38
+[^F62]: S. 33(1)(m) substituted (22.11.2012) by Police Reform and Social Responsibility Act 2011 (c. 13), ss. 27(4), 157(1), Sch. 16 para. 319; S.I. 2012/2892, art. 2(a)(i)
+[^F63]: S. 34 repealed (1.4.2008) by Local Government and Public Involvement in Health Act 2007 (c. 28), s. 245(5), Sch. 7 para. 3(2), Sch. 18 Pt. 8; S.I. 2008/917, art. 2(1)(a)(i)(v)
+[^F64]: S. 35 repealed (1.4.2008) by Local Government and Public Involvement in Health Act 2007 (c. 28), s. 245(5), Sch. 7 para. 3(2), Sch. 18 Pt. 8; S.I. 2008/917, art. 2(1)(a)(i)(v)
+[^F65]: Words in s. 36(1) substituted (1.4.2008) by Local Government and Public Involvement in Health Act 2007 (c. 28), s. 245(5), Sch. 8 para. 25(2); S.I. 2008/917, art. 2(1)(e)
+[^F66]: Words in s. 36(1) substituted (1.4.2021) by The Local Government and Elections (Wales) Act 2021 (Consequential Amendments) Regulations 2021 (S.I. 2021/296), regs. 1(2), 5(2)(a)
+[^F67]: S. 36(4) inserted (1.4.2021) by The Local Government and Elections (Wales) Act 2021 (Consequential Amendments) Regulations 2021 (S.I. 2021/296), regs. 1(2), 5(2)(b)
+[^F68]: Ss. 36A, 36B inserted (30.12.2007) by Local Government and Public Involvement in Health Act 2007 (c. 28), ss. 143(1), 245(2) (with s. 143(2))
+[^F69]: Words in s. 36A(1) substituted (1.4.2021) by The Local Government and Elections (Wales) Act 2021 (Consequential Amendments) Regulations 2021 (S.I. 2021/296), regs. 1(2), 5(3)(a)
+[^F70]: Words in s. 36A(2)(b) substituted (1.4.2021) by The Local Government and Elections (Wales) Act 2021 (Consequential Amendments) Regulations 2021 (S.I. 2021/296), regs. 1(2), 5(3)(b)
+[^F71]: Words in s. 36A(3) substituted (1.4.2021) by The Local Government and Elections (Wales) Act 2021 (Consequential Amendments) Regulations 2021 (S.I. 2021/296), regs. 1(2), 5(3)(c)
+[^F72]: Words in s. 36A(7) substituted (1.4.2021) by The Local Government and Elections (Wales) Act 2021 (Consequential Amendments) Regulations 2021 (S.I. 2021/296), regs. 1(2), 5(3)(d)
+[^F73]: Words in s. 36B heading substituted (1.4.2021) by The Local Government and Elections (Wales) Act 2021 (Consequential Amendments) Regulations 2021 (S.I. 2021/296), regs. 1(2), 5(4)(d)
+[^F74]: Words in s. 36B(1) substituted (1.4.2021) by The Local Government and Elections (Wales) Act 2021 (Consequential Amendments) Regulations 2021 (S.I. 2021/296), regs. 1(2), 5(4)(a)
+[^F75]: Words in s. 36B(2) substituted (1.4.2021) by The Local Government and Elections (Wales) Act 2021 (Consequential Amendments) Regulations 2021 (S.I. 2021/296), regs. 1(2), 5(4)(b)
+[^F76]: Words in s. 36B(6) substituted (1.4.2021) by The Local Government and Elections (Wales) Act 2021 (Consequential Amendments) Regulations 2021 (S.I. 2021/296), regs. 1(2), 5(4)(c)
+[^F77]: S. 38 heading substituted (25.2.2020) by The Public Bodies (Abolition of Public Works Loan Commissioners) Order 2020 (S.I. 2020/176), art. 1(2), Sch. 1 para. 82(2) (with art. 9)
+[^F78]: Words in s. 38 substituted (25.2.2020) by The Public Bodies (Abolition of Public Works Loan Commissioners) Order 2020 (S.I. 2020/176), art. 1(2), Sch. 1 para. 82(3) (with art. 9)
+[^F79]: Words in s. 38 substituted (25.2.2020) by The Public Bodies (Abolition of Public Works Loan Commissioners) Order 2020 (S.I. 2020/176), art. 1(2), Sch. 1 para. 82(4) (with art. 9)
+[^F80]: Words in s. 38(3) substituted (25.2.2020) by The Public Bodies (Abolition of Public Works Loan Commissioners) Order 2020 (S.I. 2020/176), art. 1(2), Sch. 1 para. 82(5) (with art. 9)
+[^F81]: Words in s. 38(4) substituted (25.2.2020) by The Public Bodies (Abolition of Public Works Loan Commissioners) Order 2020 (S.I. 2020/176), art. 1(2), Sch. 1 para. 82(6) (with art. 9)
+[^F82]: Words in s. 39(6) substituted (25.2.2020) by The Public Bodies (Abolition of Public Works Loan Commissioners) Order 2020 (S.I. 2020/176), art. 1(2), Sch. 1 para. 83 (with art. 9)
+[^F83]: S. 39(7)(b) substituted (25.3.2022) by The Corporate Joint Committees (General) (Wales) Regulations 2022 (S.I. 2022/372), regs. 1(2), 17
+[^F84]: Words in s. 50(6) substituted (1.4.2024 with effect in relation to financial years beginning on or after that date) by Non-Domestic Rating Act 2023 (c. 53), s. 19(2)(b), Sch. para. 14(2)
+[^F85]: S. 53(7) omitted (26.5.2015) by virtue of Deregulation Act 2015 (c. 20), s. 115(3)(l), Sch. 22 para. 18
+[^F86]: S. 61 omitted (1.4.2024 with effect in relation to financial years beginning on or after that date) by virtue of Non-Domestic Rating Act 2023 (c. 53), s. 19(2)(b), Sch. para. 14(3)
+[^F87]: S. 62(2)-(10) omitted (1.4.2025) by virtue of Local Government Finance (Wales) Act 2024 (asc 6), s. 23(3)(a), Sch. para. 10(2)
+[^F88]: S. 63(2) omitted (1.4.2024 with effect in relation to financial years beginning on or after that date) by virtue of Non-Domestic Rating Act 2023 (c. 53), s. 19(2)(b), Sch. para. 14(4)
+[^F89]: S. 63(3) repealed (1.4.2012) by Localism Act 2011 (c. 20), s. 240(3)(f), Sch. 25 Pt. 10; S.I. 2012/628, art. 5(c); S.I. 2012/887, art. 3(c)
+[^F90]: S. 64(1) omitted (1.4.2024 with effect in relation to financial years beginning on or after that date) by virtue of Non-Domestic Rating Act 2023 (c. 53), s. 19(2)(b), Sch. para. 14(5)
+[^F91]: S. 64(2) repealed (with effect in accordance with s. 3(3) of the amending Act) by Rating (Empty Properties) Act 2007 (c. 9), s. 3(2), Sch. 2
+[^F92]: S. 64(3) repealed (1.4.2012) by Localism Act 2011 (c. 20), s. 240(3)(f), Sch. 25 Pt. 10; S.I. 2012/628, art. 5(c); S.I. 2012/887, art. 3(c)
+[^F93]: S. 64(4) repealed (with effect in accordance with s. 3(3) of the amending Act) by Rating (Empty Properties) Act 2007 (c. 9), s. 3(2), Sch. 2
+[^F94]: S. 70(4)-(6) omitted (with effect in accordance with s. 5(3) of the amending Act) by virtue of Local Government Finance Act 2012 (c. 17), Sch. 3 para. 33
+[^F95]: S. 76 omitted (31.10.2012) by virtue of Local Government Finance Act 2012 (c. 17), Sch. 4 para. 9
+[^F96]: Words in s. 83(2) substituted (W.) (25.10.2005) by Fire and Rescue Services Act 2004 (Consequential Amendments) (Wales) Order 2005 (S.I. 2005/2929), arts. 1(1), 2
+[^F97]: S. 87 ceases to have effect in E. (26.5.2015) by virtue of Deregulation Act 2015 (c. 20), ss. 29(1), 115(3)(c)
+[^F98]: Words in s. 87(1) substituted (26.5.2015) by Deregulation Act 2015 (c. 20), ss. 29(3)(a), 115(3)(c)
+[^F99]: Words in s. 87(1)(a) inserted (26.5.2015) by Deregulation Act 2015 (c. 20), ss. 29(3)(b)(i), 115(3)(c)
+[^F100]: Words in s. 87(1)(a) substituted (26.5.2015) by Deregulation Act 2015 (c. 20), ss. 29(3)(b)(ii), 115(3)(c)
+[^F101]: Words in s. 87(2) substituted (26.5.2015) by Deregulation Act 2015 (c. 20), ss. 29(4)(a), 115(3)(c)
+[^F102]: Words in s. 87(2) inserted (26.5.2015) by Deregulation Act 2015 (c. 20), ss. 29(4)(b), 115(3)(c)
+[^F103]: Words in s. 87(2) substituted (26.5.2015) by Deregulation Act 2015 (c. 20), ss. 29(4)(c), 115(3)(c)
+[^F104]: Words in s. 87(3) substituted (26.5.2015) by Deregulation Act 2015 (c. 20), ss. 29(5)(a), 115(3)(c)
+[^F105]: Words in s. 87(3)(c) substituted (26.5.2015) by Deregulation Act 2015 (c. 20), ss. 29(5)(b), 115(3)(c)
+[^F106]: S. 87(4) substituted (2.1.2007 for E., 13.12.2007 for W.) by Housing Act 2004 (c. 34), s. 270(4)(5)(f), Sch. 15 para. 47; S.I. 2006/3191, art. 2; S.I. 2007/3232, art. 2(c)
+[^F107]: Words in s. 87(4) omitted (25.2.2015) by virtue of Housing (Wales) Act 2014 (anaw 7), s. 145(3), Sch. 3 para. 23(1)(a); S.I. 2015/380, art. 2(h)
+[^F108]: Words in s. 87(4) inserted (25.2.2015) by Housing (Wales) Act 2014 (anaw 7), s. 145(3), Sch. 3 para. 23(1)(b); S.I. 2015/380, art. 2(h)
+[^F109]: Words in s. 88(2)(a) inserted (26.5.2015) by Deregulation Act 2015 (c. 20), ss. 29(6)(a), 115(3)(c)
+[^F110]: Words in s. 93(1) substituted (1.4.2008) by Local Government and Public Involvement in Health Act 2007 (c. 28), s. 245(5), Sch. 7 para. 3(3)(a); S.I. 2008/917, art. 2(1)(a)
+[^F111]: Words in s. 93(5) substituted (1.4.2008) by Local Government and Public Involvement in Health Act 2007 (c. 28), s. 245(5), Sch. 7 para. 3(3)(a); S.I. 2008/917, art. 2(1)(a)
+[^F112]: Words in s. 93(6) substituted (1.4.2008) by Local Government and Public Involvement in Health Act 2007 (c. 28), s. 245(5), Sch. 7 para. 3(3)(a); S.I. 2008/917, art. 2(1)(a)
+[^F113]: Word in s. 93(7)(b) repealed (18.2.2012) by Localism Act 2011 (c. 20), s. 240(2), Sch. 25 Pt. 3; S.I. 2012/411, art. 2(g)
+[^F114]: S. 93(7)(c) omitted (W.) (5.5.2022) by virtue of Local Government and Elections (Wales) Act 2021 (asc 1), s. 175(7), Sch. 3 para. 12(2); S.I. 2021/231, art. 6(r)
+[^F115]: S. 93(7)(d)-(g) inserted (18.2.2012) by Localism Act 2011 (c. 20), ss. 14(2), 240(2); S.I. 2012/411, art. 2(e)
+[^F116]: Words in s. 93(7)(d) substituted (26.12.2023) by Levelling-up and Regeneration Act 2023 (c. 55), s. 255(2)(c), Sch. 4 para. 152(a) (with s. 247)
+[^F117]: Word in s. 93(7)(f) omitted (26.12.2023) by virtue of Levelling-up and Regeneration Act 2023 (c. 55), s. 255(2)(c), Sch. 4 para. 152(b) (with s. 247)
+[^F118]: S. 93(7)(h) and word inserted (26.12.2023) by Levelling-up and Regeneration Act 2023 (c. 55), s. 255(2)(c), Sch. 4 para. 152(c) (with s. 247)
+[^F119]: S. 93(9) inserted (1.4.2008) by Local Government and Public Involvement in Health Act 2007 (c. 28), s. 245(5), Sch. 7 para. 3(3)(b); S.I. 2008/917, art. 2(1)(a)
+[^F120]: S. 93(9)(aa) substituted (20.3.2021) by Local Government and Elections (Wales) Act 2021 (asc 1), ss. 168(2)(a), 175(3)(t)
+[^F121]: S. 93(9)(ab) inserted (18.2.2012) by Localism Act 2011 (c. 20), ss. 12(4), 240(2); S.I. 2012/411, art. 2(e)
+[^F122]: S. 93(9)(ac) inserted (20.3.2021) by Local Government and Elections (Wales) Act 2021 (asc 1), ss. 168(2)(b), 175(3)(t)
+[^F123]: Words in s. 94(1)(a) substituted (1.4.2008) by Local Government and Public Involvement in Health Act 2007 (c. 28), s. 245(5), Sch. 7 para. 3(4)(a); S.I. 2008/917, art. 2(1)(a)
+[^F124]: Words in s. 94(1)(a) substituted (1.4.2008) by Local Government and Public Involvement in Health Act 2007 (c. 28), s. 245(5), Sch. 7 para. 3(4)(b); S.I. 2008/917, art. 2(1)(a)
+[^F125]: Words in s. 94(1)(b)(i) substituted (1.4.2008) by Local Government and Public Involvement in Health Act 2007 (c. 28), s. 245(5), Sch. 7 para. 3(4)(b); S.I. 2008/917, art. 2(1)(a)
+[^F126]: Words in s. 94(1)(b)(ii) substituted (1.4.2008) by Local Government and Public Involvement in Health Act 2007 (c. 28), s. 245(5), Sch. 7 para. 3(4)(b); S.I. 2008/917, art. 2(1)(a)
+[^F127]: Words in s. 94(1)(b)(iii) substituted (1.4.2008) by Local Government and Public Involvement in Health Act 2007 (c. 28), s. 245(5), Sch. 7 para. 3(4)(a); S.I. 2008/917, art. 2(1)(a)
+[^F128]: S. 94(3) inserted (1.4.2008) by Local Government and Public Involvement in Health Act 2007 (c. 28), s. 245(5), Sch. 7 para. 3(4)(c); S.I. 2008/917, art. 2(1)(a)
+[^F129]: Words in s. 95(1)(a) substituted (1.4.2008) by Local Government and Public Involvement in Health Act 2007 (c. 28), s. 245(5), Sch. 7 para. 3(5)(a); S.I. 2008/917, art. 2(1)(a)
+[^F130]: Words in s. 95(2) substituted (1.4.2008) by Local Government and Public Involvement in Health Act 2007 (c. 28), s. 245(5), Sch. 7 para. 3(5)(b); S.I. 2008/917, art. 2(1)(a)
+[^F131]: Words in s. 95(3)(a) substituted (1.4.2008) by Local Government and Public Involvement in Health Act 2007 (c. 28), s. 245(5), Sch. 7 para. 3(5)(a); S.I. 2008/917, art. 2(1)(a)
+[^F132]: Words in s. 95(3)(a) substituted (1.4.2008) by Local Government and Public Involvement in Health Act 2007 (c. 28), s. 245(5), Sch. 7 para. 3(5)(b); S.I. 2008/917, art. 2(1)(a)
+[^F133]: Words in s. 95(5) substituted (1.4.2008) by Local Government and Public Involvement in Health Act 2007 (c. 28), s. 245(5), Sch. 7 para. 3(5)(b); S.I. 2008/917, art. 2(1)(a)
+[^F134]: Words in s. 95(7) repealed (1.4.2008) by Local Government and Public Involvement in Health Act 2007 (c. 28), s. 245(5), Sch. 7 para. 3(5)(c), 18 Pt. 8; S.I. 2008/917, art. 2(1)(a)(i)(v)
+[^F135]: Words in s. 95(7) omitted (22.11.2012) by virtue of Police Reform and Social Responsibility Act 2011 (c. 13), s. 157(1), Sch. 16 para. 320(a); S.I. 2012/2892, art. 2(i)
+[^F136]: Words in s. 95(7) inserted (1.4.2008) by Local Government and Public Involvement in Health Act 2007 (c. 28), s. 245(5), Sch. 7 para. 3(5)(d); S.I. 2008/917, art. 2(1)(a)
+[^F137]: Words in s. 95(7) substituted (22.11.2012) by Police Reform and Social Responsibility Act 2011 (c. 13), s. 157(1), Sch. 16 para. 320(b); S.I. 2012/2892, art. 2(i)
+[^F138]: Words in s. 95(7) repealed (31.3.2012) by Localism Act 2011 (c. 20), s. 240(2), Sch. 25 Pt. 32; S.I. 2012/628, art. 4(d)
+[^F139]: Words in s. 95(7) substituted (1.4.2021) by The Local Government and Elections (Wales) Act 2021 (Consequential Amendments) Regulations 2021 (S.I. 2021/296), regs. 1(2), 5(5)(a)
+[^F140]: Words in s. 95(7) inserted (25.3.2022) by The Corporate Joint Committees (General) (Wales) Regulations 2022 (S.I. 2022/372), regs. 1(2), 9
+[^F141]: Words in s. 95(7) inserted (18.2.2012) by Localism Act 2011 (c. 20), ss. 12(5), 240(2); S.I. 2012/411, art. 2(e)
+[^F142]: Words in s. 95(7) inserted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by Policing and Crime Act 2017 (c. 3), s. 183(1)(5)(e), Sch. 1 para. 83(4); S.I. 2017/399, reg. 2, Sch. para. 38
+[^F143]: Words in s. 95(7) inserted (1.4.2021) by The Local Government and Elections (Wales) Act 2021 (Consequential Amendments) Regulations 2021 (S.I. 2021/296), regs. 1(2), 5(5)(b)
+[^F144]: Words in s. 95(7) substituted (1.4.2008) by Local Government and Public Involvement in Health Act 2007 (c. 28), s. 245(5), Sch. 7 para. 3(5)(b); S.I. 2008/917, art. 2(1)(a)
+[^F145]: Words in s. 96(1) substituted (1.4.2008) by Local Government and Public Involvement in Health Act 2007 (c. 28), s. 245(5), Sch. 7 para. 3(6)(a); S.I. 2008/917, art. 2(1)(a)
+[^F146]: Words in s. 96(2) substituted (1.4.2008) by Local Government and Public Involvement in Health Act 2007 (c. 28), s. 245(5), Sch. 7 para. 3(6)(a); S.I. 2008/917, art. 2(1)(a)
+[^F147]: Words in s. 96(3)(a) substituted (1.4.2008) by Local Government and Public Involvement in Health Act 2007 (c. 28), s. 245(5), Sch. 7 para. 3(6)(b); S.I. 2008/917, art. 2(1)(a)
+[^F148]: Words in s. 96(3)(b) substituted (1.4.2008) by Local Government and Public Involvement in Health Act 2007 (c. 28), s. 245(5), Sch. 7 para. 3(6)(b); S.I. 2008/917, art. 2(1)(a)
+[^F149]: Words in s. 96(3)(c) substituted (1.4.2008) by Local Government and Public Involvement in Health Act 2007 (c. 28), s. 245(5), Sch. 7 para. 3(6)(a); S.I. 2008/917, art. 2(1)(a)
+[^F150]: S. 96(4) substituted (1.4.2008) by Local Government and Public Involvement in Health Act 2007 (c. 28), s. 245(5), Sch. 7 para. 3(6)(c); S.I. 2008/917, art. 2(1)(a)
+[^F151]: Words in s. 97(1) substituted (24.5.2018) by The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644), arts. 1(1), 40(2)(a)(i)
+[^F152]: Words in s. 97(1) substituted (1.4.2008) by Local Government and Public Involvement in Health Act 2007 (c. 28), s. 245(5), Sch. 7 para. 3(7)(a); S.I. 2008/917, art. 2(1)(a)
+[^F153]: Words in s. 97(1) substituted (24.5.2018) by The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644), arts. 1(1), 40(2)(a)(ii)
+[^F154]: Words in s. 97(2) substituted (24.5.2018) by The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644), arts. 1(1), 40(2)(b)
+[^F155]: Words in s. 97(2) substituted (1.4.2008) by Local Government and Public Involvement in Health Act 2007 (c. 28), s. 245(5), Sch. 7 para. 3(7)(b); S.I. 2008/917, art. 2(1)(a)
+[^F156]: Words in s. 97(4)(a) substituted (1.4.2008) by Local Government and Public Involvement in Health Act 2007 (c. 28), s. 245(5), Sch. 7 para. 3(7)(a); S.I. 2008/917, art. 2(1)(a)
+[^F157]: Words in s. 97(4)(b) substituted (1.4.2008) by Local Government and Public Involvement in Health Act 2007 (c. 28), s. 245(5), Sch. 7 para. 3(7)(a); S.I. 2008/917, art. 2(1)(a)
+[^F158]: Words in s. 97(4)(c) substituted (1.4.2008) by Local Government and Public Involvement in Health Act 2007 (c. 28), s. 245(5), Sch. 7 para. 3(7)(b); S.I. 2008/917, art. 2(1)(a)
+[^F159]: Words in s. 97(6) substituted (1.4.2008) by Local Government and Public Involvement in Health Act 2007 (c. 28), s. 245(5), Sch. 7 para. 3(7)(b); S.I. 2008/917, art. 2(1)(a)
+[^F160]: S. 97(7A)-(7C) omitted (24.5.2018) by virtue of The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644), arts. 1(1), 40(2)(c)
+[^F161]: S. 97(8) omitted (24.5.2018) by virtue of The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644), arts. 1(1), 40(2)(c)
+[^F162]: Words in s. 97(9) inserted (24.5.2018) by The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644), arts. 1(1), 40(2)(d)
+[^F163]: Words in s. 97(10) inserted (24.5.2018) by The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644), arts. 1(1), 40(2)(e)
+[^F164]: S. 97(10A)(10B) inserted (24.5.2018) by The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644), arts. 1(1), 40(2)(f)
+[^F165]: Words in s. 97(11) inserted (24.5.2018) by The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644), arts. 1(1), 40(2)(g)(i)
+[^F166]: Words in s. 97(11) substituted (1.4.2008) by Local Government and Public Involvement in Health Act 2007 (c. 28), s. 245(5), Sch. 7 para. 3(7)(b); S.I. 2008/917, art. 2(1)(a)
+[^F167]: Words in s. 97(11) substituted (24.5.2018) by The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644), arts. 1(1), 40(2)(g)(ii)
+[^F168]: Words in s. 97(11) substituted (1.4.2021) by The Local Government and Elections (Wales) Act 2021 (Consequential Amendments) Regulations 2021 (S.I. 2021/296), regs. 1(2), 5(6)
+[^F169]: Word in s. 98 heading inserted (24.5.2018) by The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644), arts. 1(1), 40(3)(a)
+[^F170]: Words in s. 98(1)(a) substituted (1.4.2008) by Local Government and Public Involvement in Health Act 2007 (c. 28), s. 245(5), Sch. 7 para. 3(8)(a); S.I. 2008/917, art. 2(1)(a)
+[^F171]: Words in s. 98(2) omitted (24.5.2018) by virtue of The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644), arts. 1(1), 40(3)(b)(i)
+[^F172]: Words in s. 98(2) substituted (24.5.2018) by The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644), arts. 1(1), 40(3)(b)(ii)
+[^F173]: Word in s. 98(2)(b) inserted (24.5.2018) by The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644), arts. 1(1), 40(3)(b)(iii)
+[^F174]: Word in s. 98(2)(c) omitted (24.5.2018) by virtue of The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644), arts. 1(1), 40(3)(b)(iv)
+[^F175]: S. 98(2)(d) omitted (24.5.2018) by virtue of The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644), arts. 1(1), 40(3)(b)(v)
+[^F176]: S. 98(8) inserted (1.4.2008) by Local Government and Public Involvement in Health Act 2007 (c. 28), s. 245(5), Sch. 7 para. 3(8)(b); S.I. 2008/917, art. 2(1)(a)
+[^F177]: S. 98A inserted (24.5.2018) by The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644), arts. 1(1), 40(4)
+[^F178]: S. 99 omitted (1.4.2015) by virtue of Local Audit and Accountability Act 2014 (c. 2), s. 49(1), Sch. 12 para. 53; S.I. 2015/841, art. 3(x) (with Sch. para. 9(1)) (as amended (27.6.2016) by S.I. 2016/675, art. 2)
+[^F179]: S. 100(1)(2) omitted (1.4.2015) by virtue of Local Audit and Accountability Act 2014 (c. 2), s. 49(1), Sch. 12 para. 54(2); S.I. 2015/841, art. 3(x) (with Sch. para. 9(2)) (as amended (27.6.2016) by S.I. 2016/675, art. 2)
+[^F180]: Words in s. 100(3) substituted (1.4.2015) by Local Audit and Accountability Act 2014 (c. 2), s. 49(1), Sch. 12 para. 54(3); S.I. 2015/841, art. 3(x) (with Sch. para. 9(2)) (as amended (27.6.2016) by S.I. 2016/675, art. 2)
+[^F181]: S. 100(4)-(8) omitted (1.4.2015) by virtue of Local Audit and Accountability Act 2014 (c. 2), s. 49(1), Sch. 12 para. 54(4); S.I. 2015/841, art. 3(x) (with Sch. para. 9(2)) (as amended (27.6.2016) by S.I. 2016/675, art. 2)
+[^F182]: Words in s. 101(1) substituted (1.4.2008) by Local Government and Public Involvement in Health Act 2007 (c. 28), s. 245(5), Sch. 7 para. 3(9)(a); S.I. 2008/917, art. 2(1)(a)
+[^F183]: Words in s. 101(3) substituted (1.4.2008) by Local Government and Public Involvement in Health Act 2007 (c. 28), s. 245(5), Sch. 7 para. 3(9)(a); S.I. 2008/917, art. 2(1)(a)
+[^F184]: S. 101(5A) omitted (E.W.) (1.4.2021) by virtue of The Local Government and Elections (Wales) Act 2021 (Consequential Amendments) Regulations 2021 (S.I. 2021/296), regs. 1(2), 5(7)(a)
+[^F185]: Words in s. 101(6)(a)(i) substituted (1.4.2008) by Local Government and Public Involvement in Health Act 2007 (c. 28), s. 245(5), Sch. 7 para. 3(9)(b); S.I. 2008/917, art. 2(1)(a)
+[^F186]: S. 101(7) omitted (22.11.2012) by virtue of Police Reform and Social Responsibility Act 2011 (c. 13), s. 157(1), Sch. 16 para. 321; S.I. 2012/2892, art. 2(i)
+[^F187]: S. 101(7A) inserted (1.4.2008) by Local Government and Public Involvement in Health Act 2007 (c. 28), s. 245(5), Sch. 7 para. 3(9)(c); S.I. 2008/917, art. 2(1)(a)
+[^F188]: S. 101(7A)(aa) substituted (E.W.) (1.4.2021) by The Local Government and Elections (Wales) Act 2021 (Consequential Amendments) Regulations 2021 (S.I. 2021/296), regs. 1(2), 5(7)(b)(i)
+[^F189]: S. 101(7A)(ab)(ac) inserted (E.W.) (1.4.2021) by The Local Government and Elections (Wales) Act 2021 (Consequential Amendments) Regulations 2021 (S.I. 2021/296), regs. 1(2), 5(7)(b)(ii)
+[^F190]: S. 101(7A)(ad) inserted (W.) (15.7.2022) by The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2022 (S.I. 2022/797), regs. 1(2), 21(2)
+[^F191]: Words in s. 101(8) inserted (1.4.2008) by Local Government and Public Involvement in Health Act 2007 (c. 28), s. 245(5), Sch. 7 para. 3(9)(d)(i); S.I. 2008/917, art. 2(1)(a)
+[^F192]: Words in s. 101(8) repealed (1.4.2008) by Local Government and Public Involvement in Health Act 2007 (c. 28), s. 245(5), Sch. 7 para. 3(9)(d)(ii), Sch. 18 Pt. 8; S.I. 2008/917, art. 2(1)(a)(i)(v)
+[^F193]: S. 102(7A)(7B) inserted (1.4.2008) by Local Government and Public Involvement in Health Act 2007 (c. 28), s. 245(5), Sch. 7 para. 3(10); S.I. 2008/917, art. 2(1)(a)
+[^F194]: S. 102(7B) substituted (15.7.2022) by The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2022 (S.I. 2022/797), regs. 1(2), 21(3)
+[^F195]: Words in s. 102(8) inserted (1.4.2008) by Local Government and Public Involvement in Health Act 2007 (c. 28), s. 245(5), Sch. 7 para. 3(11)(a); S.I. 2008/917, art. 2(1)(a)
+[^F196]: Words in s. 102(8) repealed (1.4.2008) by Local Government and Public Involvement in Health Act 2007 (c. 28), s. 245(5), Sch. 7 para. 3(11)(b), 18 Pt. 8; S.I. 2008/917, art. 2(1)(a)(i)(v)
+[^F197]: Words in s. 102(8) repealed (1.4.2008) by Local Government and Public Involvement in Health Act 2007 (c. 28), s. 245(5), Sch. 7 para. 3(11)(c)(i), 18 Pt. 8; S.I. 2008/917, art. 2(1)(a)(i)(v)
+[^F198]: Words in s. 102(8) repealed (1.4.2008) by Local Government and Public Involvement in Health Act 2007 (c. 28), s. 245(5), Sch. 7 para. 3(11)(c)(ii), 18 Pt. 8; S.I. 2008/917, art. 2(1)(a)(i)(v)
+[^F199]: Words in s. 102(9) inserted (1.4.2008) by Local Government and Public Involvement in Health Act 2007 (c. 28), s. 245(5), Sch. 7 para. 3(11)(d); S.I. 2008/917, art. 2(1)(a)
+[^F200]: Words in s. 102 substituted (with application in accordance with reg. 21(1) of the amending S.I.) by The Transfer of Undertakings (Protection of Employment) Regulations 2006 (S.I. 2006/246), reg. 1(2), Sch. 2 para. 1(i)
+[^F201]: Words in s. 105(2) substituted (1.10.2009) by Local Government and Public Involvement in Health Act 2007 (c. 28), s. 245(5), Sch. 16 para. 11(2)(a); S.I. 2008/3110, art. 6(d)(ii)
+[^F202]: Words in s. 105(2)(a) substituted (1.10.2009) by Local Government and Public Involvement in Health Act 2007 (c. 28), s. 245(5), Sch. 16 para. 11(2)(b); S.I. 2008/3110, art. 6(d)(ii)
+[^F203]: Words in s. 105(2)(a)(ii) substituted (1.10.2009) by Local Government and Public Involvement in Health Act 2007 (c. 28), s. 245(5), Sch. 16 para. 11(2)(c); S.I. 2008/3110, art. 6(d)(ii)
+[^F204]: Words in s. 105(2)(a)(v) substituted (1.10.2009) by Local Government and Public Involvement in Health Act 2007 (c. 28), s. 245(5), Sch. 16 para. 11(2)(d); S.I. 2008/3110, art. 6(d)(ii)
+[^F205]: S. 105(2)(aa) inserted (1.4.2008) by Local Government and Public Involvement in Health Act 2007 (c. 28), s. 245(5), Sch. 16 para. 11(2)(e); S.I. 2008/917, art. 2(1)(aa)
+[^F206]: Words in s. 105(2)(aa) inserted (31.10.2012) by Local Government Finance Act 2012 (c. 17), Sch. 4 para. 10
+[^F207]: Words in s. 105(2)(b) substituted (1.10.2009) by Local Government and Public Involvement in Health Act 2007 (c. 28), s. 245(5), Sch. 16 para. 11(2)(f); S.I. 2008/3110, art. 6(d)(ii)
+[^F208]: Words in s. 105(5) substituted (1.10.2009) by Local Government and Public Involvement in Health Act 2007 (c. 28), s. 245(5), Sch. 16 para. 11(3)(a); S.I. 2008/3110, art. 6(d)(ii)
+[^F209]: Word in s. 105(5) substituted (1.10.2009) by Local Government and Public Involvement in Health Act 2007 (c. 28), s. 245(5), Sch. 16 para. 11(3)(b); S.I. 2008/3110, art. 6(d)(ii)
+[^F210]: Words in s. 105(6) substituted (1.10.2009) by Local Government and Public Involvement in Health Act 2007 (c. 28), s. 245(5), Sch. 16 para. 11(4)(a); S.I. 2008/3110, art. 6(d)(ii)
+[^F211]: Words in s. 105(6) substituted (1.10.2009) by Local Government and Public Involvement in Health Act 2007 (c. 28), s. 245(5), Sch. 16 para. 11(4)(b); S.I. 2008/3110, art. 6(d)(ii)
+[^F212]: S. 107 repealed (1.4.2015) by Local Audit and Accountability Act 2014 (c. 2), s. 49(1), Sch. 1 Pt. 2; S.I. 2015/841, art. 3(a) (with arts. 5-8 Sch.) (as amended (27.6.2016) by S.I. 2016/675, art. 2)
+[^F213]: S. 108 repealed (1.4.2015) by Local Audit and Accountability Act 2014 (c. 2), s. 49(1), Sch. 1 Pt. 2; S.I. 2015/841, art. 3(a) (with arts. 5-8 Sch.) (as amended (27.6.2016) by S.I. 2016/675, art. 2)
+[^F214]: S. 109 repealed (1.4.2010) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 16; S.I. 2010/862, art. 3 (with Sch.)
+[^F215]: S. 110 repealed (1.4.2015) by Local Audit and Accountability Act 2014 (c. 2), s. 49(1), Sch. 1 Pt. 2; S.I. 2015/841, art. 3(a) (with arts. 5-8 Sch.) (as amended (27.6.2016) by S.I. 2016/675, art. 2)
+[^F216]: S. 111 repealed (1.4.2015) by Local Audit and Accountability Act 2014 (c. 2), s. 49(1), Sch. 1 Pt. 2; S.I. 2015/841, art. 3(a) (with arts. 5-8 Sch.) (as amended (27.6.2016) by S.I. 2016/675, art. 2)
+[^F217]: S. 112 repealed (1.7.2012 for specified purposes, 22.11.2012 for remaining purposes) by Localism Act 2011 (c. 20), s. 240(2), Sch. 25 Pt. 5; S.I. 2012/1463, art. 5(d) (with arts. 6 7) (as amended (3.7.2012) by S.I. 2012/1714, art. 2); S.I. 2012/2913, arts. 1(2), 2(c) (with arts. 5, 6)
+[^F218]: S. 115 repealed (4.5.2012) by Localism Act 2011 (c. 20), s. 240(2), Sch. 25 Pt. 4; S.I. 2012/1008, art. 4(c)
+[^F219]: Word in s. 116(1)(a)(ii) substituted (W.) (1.11.2021) by Local Government and Elections (Wales) Act 2021 (asc 1), s. 175(7), Sch. 3 para. 2(a); S.I. 2021/231, art. 4(c)
+[^F220]: S. 116(1)(b) omitted (W.) (1.11.2021) by virtue of Local Government and Elections (Wales) Act 2021 (asc 1), s. 175(7), Sch. 3 para. 2(b); S.I. 2021/231, art. 4(c)
+[^F221]: S. 119 repealed (6.4.2006 for E., 15.3.2007 (being the date on which S.I. 2007/739 came into force) for W.) by Clean Neighbourhoods and Environment Act 2005 (c. 16), s. 108(1)(2), Sch. 5 Pt. 9; S.I. 2006/795, art. 2(3), Sch. 2 (with art. 4); S.I. 2006/2797, art. 4(pp)
+[^F222]: S. 121 repealed (1.10.2004 except in relation to W. otherwise 10.11.2004) by Fire and Rescue Services Act 2004 (c. 21), s. 61, Sch. 2; S.I. 2004/2304, art. 2; S.I. 2004/2917, art. 2
+[^F223]: Words in s. 124 repealed (1.10.2009) by Local Government and Public Involvement in Health Act 2007 (c. 28), s. 245(5), Sch. 16 para. 12, 18 Pt. 17; S.I. 2008/3110, art. 6(d)(iii)
+[^F224]: Words in s. 124 omitted (1.4.2021) by virtue of The Local Government and Elections (Wales) Act 2021 (Consequential Amendments) Regulations 2021 (S.I. 2021/296), regs. 1(2), 5(8)
+[^F225]: Word in s. 129(8)(a) repealed (S.) (7.10.2011) by Housing (Scotland) Act 2010 (asp 17), ss. 157(2), 166(2); S.S.I. 2011/339, art. 2
+[^F226]: Sch. 3 para. 12 omitted (W.) (5.5.2022) by virtue of Local Government and Elections (Wales) Act 2021 (asc 1), s. 175(7), Sch. 3 para. 12(3); S.I. 2021/231, art. 6(r)
+[^F227]: Sch. 4 para. 1(1A) inserted (1.4.2008) by Local Government and Public Involvement in Health Act 2007 (c. 28), s. 245(5), Sch. 16 para. 13(2)(a); S.I. 2008/917, art. 2(1)(cc)
+[^F228]: Sch. 4 para. 1(3)(a) substituted (1.10.2009) by Local Government and Public Involvement in Health Act 2007 (c. 28), s. 245(5), Sch. 16 para. 13(2)(b); S.I. 2008/3110, art. 6(d)(iv)
+[^F229]: Words in Sch. 4 para. 2(1)(a) inserted (5.12.2005) by Civil Partnership Act 2004 (c. 33), s. 263(10)(b), Sch. 27 para. 171; S.I. 2005/3175, art. 2(2)
+[^F230]: Words in Sch. 4 para. 2(1)(b) substituted (1.10.2012) by The Tribunals, Courts and Enforcement Act 2007 (Consequential Amendments) Order 2012 (S.I. 2012/2404), art. 1, Sch. 2 para. 49 (with arts. 5, 6)
+[^F231]: Sch. 4 para. 3(1A) inserted (1.4.2008) by Local Government and Public Involvement in Health Act 2007 (c. 28), s. 245(5), Sch. 16 para. 13(3)(a); S.I. 2008/917, art. 2(1)(cc)
+[^F232]: Words in Sch. 4 para. 3(2) inserted (1.4.2008) by Local Government and Public Involvement in Health Act 2007 (c. 28), s. 245(5), Sch. 16 para. 13(3)(b); S.I. 2008/917, art. 2(1)(cc)
+[^F233]: Sch. 4 para. 4(1)(b)(ba) substituted for Sch. 4 para. 4(1)(b) (1.10.2009) by Local Government and Public Involvement in Health Act 2007 (c. 28), s. 245(5), Sch. 16 para. 13(4); S.I. 2008/3110, art. 6(d)(iv)
+[^F234]: Sch. 4 para. 9 substituted (1.10.2009) by Local Government and Public Involvement in Health Act 2007 (c. 28), s. 245(5), Sch. 16 para. 13(5); S.I. 2008/3110, art. 6(d)(iv)
+[^F235]: Words in Sch. 4 para. 27 inserted (1.10.2009) by Local Government and Public Involvement in Health Act 2007 (c. 28), s. 245(5), Sch. 16 para. 13(6); S.I. 2008/3110, art. 6(d)(iv)
+[^F236]: Sch. 7 para. 1 repealed (1.10.2004 except in relation to W. otherwise 10.11.2004) by Fire and Rescue Services Act 2004 (c. 21), s. 61, Sch. 2; S.I. 2004/2304, art. 2; S.I. 2004/2917, art. 2
+[^F237]: Sch. 7 para. 5(2) repealed (1.4.2008) by Local Government and Public Involvement in Health Act 2007 (c. 28), s. 245(5), Sch. 18 Pt. 14; S.I. 2008/917, art. 2(v)(ii)
+[^F238]: Sch. 7 para. 5(3) repealed (1.4.2006) by Public Services Ombudsman (Wales) Act 2005 (c. 10), s. 40, Sch. 7; S.I. 2005/2800, art. 5(1)(3)
+[^F239]: Sch. 7 para. 5(4) repealed (1.4.2008) by Local Government and Public Involvement in Health Act 2007 (c. 28), s. 245(5), Sch. 18 Pt. 14; S.I. 2008/917, art. 2(v)(ii)
+[^F240]: Sch. 7 para. 5(5) repealed (1.4.2006) by Public Services Ombudsman (Wales) Act 2005 (c. 10), s. 40, Sch. 7; S.I. 2005/2800, art. 5(1)(3)
+[^F241]: Sch. 7 para. 17 omitted (with effect in accordance with s. 3(13) of the amending Act) by virtue of Local Government Finance Act 2012 (c. 17), s. 3(12)(b)
+[^F242]: Sch. 7 para. 22(a) omitted (with effect in accordance with s. 5(3) of the amending Act) by virtue of Local Government Finance Act 2012 (c. 17), Sch. 3 para. 34
+[^F243]: Sch. 7 para. 24(2) omitted (with effect in accordance with s. 1(6) of the amending Act) by virtue of Local Government Finance Act 2012 (c. 17), s. 1(5)
+[^F244]: Sch. 7 para. 24(4) omitted (21.5.2016) by virtue of Environment (Wales) Act 2016 (anaw 3), ss. 84(5), 88(2)(e)
+[^F245]: Sch. 7 para. 51(3) repealed (15.1.2012) by Localism Act 2011 (c. 20), s. 240(2), Sch. 25 Pt. 13; S.I. 2012/57, art. 4(1)(ee)(iii)
+[^F246]: Sch. 7 para. 52(3) repealed (15.1.2012) by Localism Act 2011 (c. 20), s. 240(1)(m), Sch. 25 Pt. 14
+[^F247]: Sch. 7 para. 52(4) repealed (30.3.2006) by Council Tax (New Valuation Lists for England) Act 2006 (c. 7), s. 1(7)
+[^F248]: Sch. 7 para. 57 omitted (W.) (10.9.2025) by virtue of Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3), s. 9(2)(d), Sch. 1 para. 39
+[^F249]: Sch. 7 para. 65 repealed (1.4.2015) by Local Audit and Accountability Act 2014 (c. 2), s. 49(1), Sch. 1 Pt. 2; S.I. 2015/841, art. 3(a) (with arts. 5-8 Sch.) (as amended (27.6.2016) by S.I. 2016/675, art. 2)
+[^F250]: Sch. 7 para. 66 repealed (1.11.2005 for E., 1.4.2010 for W.) by Education Act 2005 (c. 18), s. 125(4), Sch. 19 Pt. 4; S.I. 2005/2034, art. 8; S.I. 2010/735, art. 2(f)
+[^F251]: Sch. 7 para. 67 repealed by Government of Wales Act 2006 (c. 32), s. 163, Sch. 12 (with Sch. 11 para. 22) coming into force immediately after “the 2007 election” (held on 3.5.2007) subject to s. 161(1)(4)(5) of the amending Act, which provides for certain provisions to come into force for specified purposes immediately after the end of “the initial period” (which ended with the day of the first appointment of a First Minister on 25.5.2007); see ss. 46, 161(4)(5) of the amending Act
+[^F252]: Sch. 7 para. 70 repealed (15.1.2012) by Localism Act 2011 (c. 20), s. 240(2), Sch. 25 Pt. 13; S.I. 2012/57, art. 4(1)(ee)(iii)
+[^F253]: Sch. 7 para. 80 and cross-heading repealed (4.5.2012) by Localism Act 2011 (c. 20), s. 240(2), Sch. 25 Pt. 4; S.I. 2012/1008, art. 4(c)

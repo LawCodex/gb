@@ -1,0 +1,248 @@
+---
+title: "Sea Fish (Conservation) Act 1992"
+identifier: "ukpga/1992/60"
+citation: "1992 c. 60"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S+N.I."
+date: 1992-12-17
+last_amended: 2020-12-31
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/1992/60"
+source_modified: 2021-09-24
+retrieved: 2026-10-11
+---
+
+# Sea Fish (Conservation) Act 1992
+
+**1992 c. 60**
+
+An Act to amend the law relating to licences under sections 4 and 4A of the Sea Fish (Conservation) Act 1967.
+
+[17th December 1992]
+
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## [^F1]1 Licensing of fishing boats.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 2 Restrictions on time spent at sea—appeals.
+
+After section 4 of the [^M1]Sea Fish (Conservation) Act 1967 there shall be inserted—
+
+> **4AA Restrictions on time spent at sea—appeals.**
+>
+> (1) For the purposes of performing the functions conferred by this section there shall be a tribunal to be called the Sea Fish Licence Tribunal.
+>
+> (2) If—
+>
+> (a) a licence under section 4 of this Act contains a condition restricting the time which a vessel may spend at sea, and
+>
+> (b) no licence containing such a condition has previously been granted in respect of that vessel,
+>
+> the person to whom the licence is granted may make an application to the tribunal requesting it to review the time which according to the condition the vessel may spend at sea.
+>
+> (3) The Ministers shall by regulations make provision as to the manner in which and the time within which applications under subsection (2) above are to be made; and the quorum and procedure of the tribunal on dealing with an application shall be such as may be determined by or in accordance with regulations made by the Ministers.
+>
+> (4) On an application under subsection (2) above the tribunal, consistently with the principles set out in any order made under section 4(6C) of this Act, may—
+>
+> (a) dismiss the application, or
+>
+> (b) determine that the licence should be varied either by increasing or by reducing the time which the vessel may spend at sea.
+>
+> (5) If a determination that the licence should be varied is made by, or on appeal from, the tribunal, the Minister who granted the licence shall vary the licence so as to give effect to the determination, and shall make a corresponding variation of any other licence in force in respect of the same vessel.
+>
+> (6) The tribunal shall consist of members appointed by the Ministers, and the number of members shall be such as the Ministers may determine.
+>
+> (7) The Ministers shall make such provision as they think fit as to—
+>
+> (a) the remuneration of the members of the tribunal, and the reimbursement of their expenses, and
+>
+> (b) the staff and accommodation of the tribunal;
+>
+> and any expenses reasonably incurred by the tribunal shall be defrayed by the Ministers.
+>
+> (8) As soon as possible after the end of every period of twelve months ending with 31st March during which it exercises functions under subsection (4) above, the tribunal shall send to the Ministers a report on the exercise of those functions; and the Ministers shall lay a copy of the report before each House of Parliament.
+>
+> (9) Regulations under this section shall be made by statutory instrument, which shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+## 3 Licensing of vessels receiving trans-shipped fish.
+
+(1) Section 4A of the [^M2]Sea Fish (Conservation) Act 1967 (which enables Ministers to prohibit vessels from receiving trans-shipped fish except under the authority of a licence) shall be amended as follows.
+
+(2) In subsection (7) (provision of statistical information) for the words “such statistical information” there shall be substituted the words “ such information, in such form, ”.
+
+(3) In subsection (10)(b) (revocation and suspension of licences) at the end there shall be added the words “ or to be appropriate in a case where there is a contravention of a prohibition imposed by an order under this section or a contravention of a condition of the licence ”.
+
+## 4 Supplementary regulations.
+
+After section 4A of the [^M3]Sea Fish (Conservation) Act 1967 there shall be inserted—
+
+> **4B Regulations supplementary to sections 4 and 4A.**
+>
+> (1) The Ministers may by regulations make provision as to—
+>
+> (a) the manner in which a licence under section 4 or 4A of this Act is to be granted, or a variation, revocation or suspension effected, and
+>
+> (b) the time when a licence, or a variation, suspension or revocation, shall have effect.
+>
+> (2) Without prejudice to the generality of subsection (1) above, regulations under this section may include provision—
+>
+> (a) for documents to be delivered, or notices given, to the nominees of persons to whom licences are granted;
+>
+> (b) for documents or notices to be treated as delivered or given if they are posted or otherwise communicated in accordance with the regulations;
+>
+> (c) for notices to be given by publication in newspapers;
+>
+> (d) as to the transitional effects of variations.
+>
+> (3) Regulations under this section may make different provision for different cases.
+>
+> (4) Regulations under this section shall be made by statutory instrument, which shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+>
+> **4C Provisions supplementary to sections 4 and 4A—evidence.**
+>
+> (1) Where automatic recording equipment—
+>
+> (a) is used in accordance with a condition included in a licence by virtue of section 4(6) or 4A(6) of this Act, or
+>
+> (b) is used to record information transmitted or derived from equipment used in accordance with such a condition,
+>
+> any record produced by means of the automatic recording equipment, or partly by those and partly by other means, shall, in any proceedings for an offence under section 4 or 4A, except proceedings in Scotland, be evidence of the matters appearing from the record.
+>
+> (2) In any proceedings in Scotland for an offence under section 4 or 4A, any document which constitutes or contains—
+>
+> (a) an entry in any logbook kept, or purported to be kept, under an enforceable [[^F2]EU] obligation relating to fishing activities, by the master of a vessel,
+>
+> (b) a declaration made, or purported to be made, under such an obligation—
+>
+> (i) as to fish landed, by the master of a vessel or by an agent,
+>
+> (ii) as to trans-shipment, by the master of a vessel,
+>
+> (c) information provided, or purported to be provided, under—
+>
+> (i) any condition imposed under section 4(6) or 4A(6), by the master, owner or charterer (if any) of a vessel and, in the case of any condition imposed under section 4(6), by any of those persons or by an agent,
+>
+> (ii) a requirement under section 4(7) or 4A(7), by the master, owner or charterer (if any) of a vessel and, in the case of any condition imposed under section 4A(7), by any of those persons or by an agent,
+>
+> (d) a record referred to in subsection (1) above or anything which purports to be such a record,
+>
+> shall be received in evidence without being produced or sworn to by any witness and shall be sufficient evidence of the matters stated therein or appearing therefrom.
+>
+> (3) In subsection (2) above, “document” includes, in addition to a document in writing—
+>
+> (a) any map, plan, graph or drawing,
+>
+> (b) any photograph,
+>
+> (c) any disk, tape, sound track or other device in which sounds or other data (not being visual aids) are recorded so as to be capable (with or without the aid of some other equipment) of being reproduced therefrom, and
+>
+> (d) any film (including microfilm), negative, tape, disc or other device in which one or more visual images are recorded so as to be capable (as aforesaid) of being reproduced therefrom.
+>
+> (4) This section shall have effect in relation to offences committed after the end of the period of one month beginning with the day on which the Sea Fish (Conservation) Act 1992 was passed.
+
+## 5 Penalties for offences.
+
+[^F3]In section 11(1) of the [^M4][^F3]Sea Fish (Conservation) Act 1967—
+
+[^F3]a [^F3]in paragraph (a) (maximum penalty of £50,000 on summary conviction of certain offences) for the words “section 4(3), 4A(3)” there shall be substituted the words [^F3]“ section 4(3) or (6), 4A(3) or (6) ”[^F3], and
+
+[^F4][^F3]b [^F3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 6 Powers of British sea-fishery officers.
+
+In section 15 of the Sea Fish (Conservation) Act 1967, after subsection (3) (under which certain powers listed in section 8 of the [^M5]Sea Fisheries Act 1968 may be conferred by order on British sea-fishery officers for the enforcement of the Sea Fish (Conservation) Act 1967) there shall be inserted—
+
+> (3A) The powers which may be conferred on any such officer by an order under this section shall include power to—
+>
+> (a) require any person on board the boat to produce—
+>
+> (i) any automatic recording equipment or transmitting equipment used in accordance with a condition included in a licence by virtue of section 4(6) or 4A(6) of this Act, or
+>
+> (ii) any record produced by means of such equipment, or partly by those and partly by other means;
+>
+> (b) search the boat for any such equipment or record, and require any person on board the boat to do anything which appears to the officer to be necessary to facilitate the search;
+>
+> (c) examine and take copies of any such record;
+>
+> (d) seize and detain any such equipment or record for the purpose of enabling that equipment or record, or any record which may be produced by means of that equipment, to be used as evidence in proceedings for any offence.
+>
+> (3B) An order under this section shall not permit anything which is required to be carried on board the boat by a condition included in a licence by virtue of section 4(6) or 4A(6) of this Act to be seized and detained except while the boat is detained in a port.
+
+## 7 Orders.
+
+(1) Section 20 of the [^M6]Sea Fish (Conservation) Act 1967 (orders) shall be amended as follows.
+
+(2) In subsection (5) for the words “subsection (6)” there shall be substituted the words “ subsection (5A) or (6) ”.
+
+(3) After subsection (5) there shall be inserted—
+
+> (5A) A principle of the kind to which subsection (5B) below applies shall not be included in any order under section 4(6C) of this Act which makes provision for principles of any other kind; but any statutory instrument containing a separate order providing for a principle of that kind shall not be made unless a draft of the order has been laid before, and approved by resolution of, each House of Parliament.
+>
+> (5B) This subsection applies to a principle providing for a reduction in the time which all vessels, or all vessels of any specified description, may spend at sea during any period by comparison with the time which they, or vessels of that description, were permitted to spend (or spent or were treated as spending) during a specified previous period (making any necessary adjustment where the periods are of different lengths); and for this purpose “description” means description framed by reference to size of vessel, method or area of fishing or description of fish.
+
+## 8 Parliamentary disqualification.
+
+(1) In Part II of Schedule 1 to the [^M7]House of Commons Disqualification Act 1975 (bodies of which all members are disqualified), the following entry shall be inserted at the appropriate place— “ The Sea Fish Licence Tribunal. ”
+
+(2) The same entry shall be inserted at the appropriate place in Part II of Schedule 1 to the [^M8]Northern Ireland Assembly Disqualification Act 1975.
+
+## 9 Tribunals and Inquiries Act 1992.
+
+(1) The [^M9]Tribunals and Inquiries Act 1992 shall be amended as follows.
+
+(2) In section 11(1) (appeals from certain tribunals) after “37” there shall be inserted “ , 40A ”.
+
+(3) In Schedule 1 (tribunals under the general supervision of the Council on Tribunals), in Part I, after entry No. 40 there shall be inserted—
+
+> **40A Sea fish (conservation)**
+>
+> The Sea Fish Licence Tribunal established under section 4AA of the Sea Fish (Conservation) Act 1967 (c. 84).
+
+## [^F5]10 Review of operation of Act.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 11 Commencement.
+
+(1) Sections 1(2), (4) and (5), 3 and 5 above shall not come into force until the end of the period of one month beginning with the day on which this Act is passed.
+
+(2) Subsection (2) of section 1 above shall not apply in relation to vessels of an overall length of 10 metres or less until such day as may be appointed by order made by the Ministers (within the meaning given by section 22(2)(a) of the [^M10]Sea Fish (Conservation) Act 1967).
+
+(3) An order under subsection (2) above shall be made by statutory instrument; but no such order shall be made unless a draft of it has been laid before, and approved by resolution of, each House of Parliament [[^F6]or, in the case of a draft of an order in relation to Scotland, the Scottish Parliament].
+
+(4) This Act shall apply in relation to licences granted before it is passed as well as to those granted later.
+
+## 12 Extent.
+
+(1) This Act extends to Northern Ireland.
+
+(2) The provisions capable of being extended to the Isle of Man and Channel Islands under section 24 of the Sea Fish (Conservation) Act 1967 shall include the amendments of that Act made by this Act.
+
+## 13 Short title.
+
+This Act may be cited as the Sea Fish (Conservation) Act 1992.
+
+---
+
+[^F1]: S. 1 omitted (31.12.2020) by virtue of Fisheries Act 2020 (c. 22), s. 54(3)(b), Sch. 4 para. 9 (with Sch. 4 para. 31)
+[^M1]: 1967 c. 84.
+[^M2]: 1967 c. 84.
+[^M3]: 1967 c. 84.
+[^F2]: Words in Act substituted (22.4.2011) by The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043), arts. 3, 6 (with art. 3(2)(3), 4(2), 6(4)(5))
+[^F3]: S. 5 omitted (E.W.) (12.3.2015) by virtue of The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664), reg. 1(1), Sch. 4 para. 97 (with reg. 5(1))
+[^M4]: 1967 c. 84.
+[^F4]: S. 5(b) repealed (12.1.2010) by Marine and Coastal Access Act 2009 (c. 23), s. 324(3), Sch. 22 Pt. 5(A); S.I. 2009/3345, art. 2, Sch. para. 27(b)
+[^M5]: 1968 c. 77.
+[^M6]: 1967 c. 84.
+[^M7]: 1975 c. 24.
+[^M8]: 1975 c. 25.
+[^M9]: 1992 c. 53.
+[^F5]: S. 10 omitted (26.5.2015) by virtue of Deregulation Act 2015 (c. 20), s. 115(3)(r), Sch. 23 para. 29
+[^M10]: 1967 c. 84.
+[^F6]: Words in s. 11(3) inserted (1.7.1999) by S.I. 1999/1820, art. 4, Sch. 2 Pt. I para 109; S.I. 1998/3178, art. 3

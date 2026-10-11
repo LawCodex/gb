@@ -1,0 +1,12102 @@
+---
+title: "Environment Act 2021"
+identifier: "ukpga/2021/30"
+citation: "2021 Chapter 30"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S+N.I."
+date: 2021-11-09
+last_amended: 2026-05-07
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/2021/30"
+source_modified: 2026-05-08
+retrieved: 2026-10-11
+---
+
+# Environment Act 2021
+
+**2021 Chapter 30**
+
+An Act to make provision about targets, plans and policies for improving the natural environment; for statements and reports about environmental protection; for the Office for Environmental Protection; about waste and resource efficiency; about air quality; for the recall of products that fail to meet environmental standards; about water; about nature and biodiversity; for conservation covenants; about the regulation of chemicals; and for connected purposes.
+
+[9th November 2021]
+
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## PART 1 — Environmental governance
+
+### CHAPTER 1 — Improving the natural environment
+
+#### Environmental targets
+
+##### 1 Environmental targets
+
+(1) The Secretary of State may by regulations set long-term targets in respect of any matter which relates to—
+
+(a) the natural environment, or
+
+(b) people’s enjoyment of the natural environment.
+
+(2) The Secretary of State must exercise the power in subsection (1) so as to set a long-term target in respect of at least one matter within each priority area.
+
+(3) The priority areas are—
+
+(a) air quality;
+
+(b) water;
+
+(c) biodiversity;
+
+(d) resource efficiency and waste reduction.
+
+(4) A target set under this section must specify—
+
+(a) a standard to be achieved, which must be capable of being objectively measured, and
+
+(b) a date by which it is to be achieved.
+
+(5) Regulations under this section may make provision about how the matter in respect of which a target is set is to be measured.
+
+(6) A target is a “long-term” target if the specified date is no less than 15 years after the date on which the target is initially set.
+
+(7) A target under this section is initially set when the regulations setting it come into force.
+
+(8) In this Part the “specified standard” and “specified date”, in relation to a target under this section, mean the standard and date (respectively) specified under subsection (4).
+
+(9) The Secretary of State may not by regulations under this section make any provision which, if contained in an Act of Senedd Cymru, would be within the legislative competence of the Senedd.
+
+##### 2 Environmental targets: particulate matter
+
+(1) The Secretary of State must by regulations set a target (“the PM<sub>2.5</sub> air quality target”) in respect of the annual mean level of PM<sub>2.5</sub> in ambient air.
+
+(2) The PM<sub>2.5</sub> air quality target may, but need not, be a long-term target.
+
+(3) In this section “PM<sub>2.5</sub>” means particulate matter with an aerodynamic diameter not exceeding 2.5 micrometres.
+
+(4) Regulations setting the PM<sub>2.5</sub> air quality target may make provision defining “ambient air”.
+
+(5) The duty in subsection (1) is in addition to (and does not discharge) the duty in section 1(2) to set a long-term target in relation to air quality.
+
+(6) Section 1(4) to (9) applies to the PM<sub>2.5 </sub>air quality target and to regulations under this section as it applies to targets set under section 1 and to regulations under that section.
+
+(7) In this Part “the PM<sub>2.5</sub> air quality target” means the target set under subsection (1).
+
+##### 3 Environmental targets: species abundance
+
+(1) The Secretary of State must by regulations set a target (the “species abundance target”) in respect of a matter relating to the abundance of species.
+
+(2) The specified date for the species abundance target must be 31 December 2030.
+
+(3) Accordingly, the species abundance target is not a long-term target and the duty in subsection (1) is in addition to (and does not discharge) the duty in section 1(2) to set a long-term target in relation to biodiversity.
+
+(4) Before making regulations under subsection (1) which set or amend a target the Secretary of State must be satisfied that meeting the target, or the amended target, would halt a decline in the abundance of species.
+
+(5) Section 1(4) to (9) applies to the species abundance target and to regulations under this section as it applies to targets set under section 1 and to regulations under that section.
+
+(6) In this Part “the species abundance target” means the target set under subsection (1).
+
+##### 4 Environmental targets: process
+
+(1) Before making regulations under sections 1 to 3 the Secretary of State must seek advice from persons the Secretary of State considers to be independent and to have relevant expertise.
+
+(2) Before making regulations under sections 1 to 3 which set or amend a target the Secretary of State must be satisfied that the target, or amended target, can be met.
+
+(3) The Secretary of State may make regulations under sections 1 to 3 which revoke or lower a target (the “existing target”) only if satisfied that—
+
+(a) meeting the existing target would have no significant benefit compared with not meeting it or with meeting a lower target, or
+
+(b) because of changes in circumstances since the existing target was set or last amended the environmental, social, economic or other costs of meeting it would be disproportionate to the benefits.
+
+(4) Before making regulations under sections 1 to 3 which revoke or lower a target the Secretary of State must lay before Parliament, and publish, a statement explaining why the Secretary of State is satisfied as mentioned in subsection (3).
+
+(5) Regulations lower a target if, to any extent, they—
+
+(a) replace the specified standard with a lower standard, or
+
+(b) replace the specified date with a later date.
+
+(6) Regulations under section 2 may not revoke the PM<sub>2.5 </sub>air quality target (but may amend it in accordance with this section).
+
+(7) For the purposes of this Part a target is met if the specified standard is achieved by the specified date.
+
+(8) Regulations under sections 1 to 3 are subject to the affirmative procedure.
+
+(9) A draft of a statutory instrument (or drafts of statutory instruments) containing regulations setting—
+
+(a) each of the targets required by section 1(2),
+
+(b) the PM<sub>2.5</sub> air quality target, and
+
+(c) the species abundance target,
+
+must be laid before Parliament on or before 31 October 2022.
+
+##### 5 Environmental targets: effect
+
+It is the duty of the Secretary of State to ensure that—
+
+(a) targets set under section 1 are met,
+
+(b) the PM<sub>2.5</sub> air quality target set under section 2 is met, and
+
+(c) the species abundance target set under section 3 is met.
+
+##### 6 Environmental targets: reporting duties
+
+(1) Regulations under section 1, 2 or 3 must specify a reporting date for any target set under that section.
+
+(2) On or before the reporting date the Secretary of State must lay before Parliament, and publish, a statement containing the required information about the target.
+
+(3) The required information about a target is (as appropriate)—
+
+(a) that the target has been met,
+
+(b) that the target has not been met, or
+
+(c) that the Secretary of State is not yet able to determine whether the target has been met, the reasons for that and the steps the Secretary of State intends to take in order to determine whether the target has been met.
+
+(4) Where the Secretary of State makes a statement that the target has not been met the Secretary of State must, before the end of the 12 month period beginning with the date on which the statement is laid, lay before Parliament, and publish, a report.
+
+(5) The report must—
+
+(a) explain why the target has not been met, and
+
+(b) set out the steps the Secretary of State has taken, or intends to take, to ensure the specified standard is achieved as soon as reasonably practicable.
+
+(6) Where the Secretary of State makes a statement that the Secretary of State is not yet able to determine whether the target has been met the Secretary of State must, before the end of the 6 month period beginning with the date on which the statement is laid, lay before Parliament, and publish, a further statement containing the required information.
+
+(7) Subsections (3) to (6) apply to further statements under subsection (6) as they apply to a statement under subsection (2).
+
+##### 7 Environmental targets: review
+
+(1) The Secretary of State must review targets set under sections 1 to 3 in accordance with this section.
+
+(2) The purpose of the review is to consider whether the significant improvement test is met.
+
+(3) The significant improvement test is met if meeting—
+
+(a) the targets set under sections 1 to 3, and
+
+(b) any other environmental targets which meet the conditions in subsection (8) and which the Secretary of State considers it appropriate to take into account,
+
+would significantly improve the natural environment in England.
+
+(4) Having carried out the review the Secretary of State must lay before Parliament, and publish, a report stating—
+
+(a) whether the Secretary of State considers that the significant improvement test is met, and
+
+(b) if the Secretary of State considers that the test is not met, the steps the Secretary of State intends to take in relation to the powers in sections 1 to 3 to ensure that it is met.
+
+(5) The first review must be completed by 31 January 2023.
+
+(6) Subsequent reviews must be completed before the end of the 5 year period beginning with the day on which the previous review was completed.
+
+(7) A review is completed when the Secretary of State has laid and published the report.
+
+(8) The conditions mentioned in subsection (3)(b) are that—
+
+(a) the target relates to an aspect of the natural environment in England or an area which includes England,
+
+(b) it specifies a standard to be achieved which is capable of being objectively measured,
+
+(c) it specifies a date by which the standard is to be achieved, and
+
+(d) it is contained in legislation which forms part of the law of England and Wales.
+
+(9) In this section “England” includes—
+
+(a) the English inshore region, and
+
+(b) the English offshore region,
+
+within the meaning of the Marine and Coastal Access Act 2009 (see section 322 of that Act).
+
+#### Environmental improvement plans
+
+##### 8 Environmental improvement plans
+
+(1) The Secretary of State must prepare an environmental improvement plan.
+
+(2) An “environmental improvement plan” is a plan for significantly improving the natural environment in the period to which the plan relates.
+
+(3) That period must not be shorter than 15 years.
+
+(4) An environmental improvement plan must set out the steps Her Majesty’s Government intends to take to improve the natural environment in the period to which the plan relates.
+
+(5) It may also set out steps Her Majesty’s Government intends to take to improve people’s enjoyment of the natural environment in that period (and if it does so references in this Part to improving the natural environment, in relation to that plan, include improving people’s enjoyment of it).
+
+(6) The Secretary of State’s functions in relation to environmental improvement plans are not exercisable in relation to the natural environment in Wales.
+
+(7) The document entitled “A green future: our 25 year plan to improve the environment” published by Her Majesty’s Government on 11 January 2018 is to be treated as an environmental improvement plan prepared by the Secretary of State under this section.
+
+(8) References in this Part—
+
+(a) to the first environmental improvement plan, are to that document;
+
+(b) to the current environmental improvement plan, are to the environmental improvement plan for the time being in effect.
+
+##### 9 Annual reports on environmental improvement plans
+
+(1) The Secretary of State must prepare annual reports on the implementation of the current environmental improvement plan.
+
+(2) An annual report must—
+
+(a) describe what has been done, in the period to which the report relates, to implement the environmental improvement plan, and
+
+(b) consider, having regard to any data obtained under section 16, whether the natural environment has, or particular aspects of it have, improved during that period.
+
+(3) In considering the matters in subsection (2)(b) an annual report must consider the progress that has been made towards achieving—
+
+(a) any targets, or any relevant targets, set under sections 1 to 3, and
+
+(b) any interim targets, or any relevant interim targets, set under sections 11 and 14.
+
+(4) The first annual report on the first environmental improvement plan may relate to any 12 month period that includes the day on which this section comes into force.
+
+(5) The first annual report on a subsequent environmental improvement plan must relate to the first 12 months of the period to which the plan relates.
+
+(6) Subsequent annual reports on an environmental improvement plan must relate to the 12 month period immediately following the 12 month period to which the previous annual report relates.
+
+(7) An annual report must be laid before Parliament before the end of the 4 month period beginning immediately after the last day of the period to which the report relates.
+
+(8) The Secretary of State must publish annual reports laid before Parliament under this section.
+
+##### 10 Reviewing and revising environmental improvement plans
+
+(1) The Secretary of State must—
+
+(a) review the current environmental improvement plan in accordance with this section, section 11 and section 12, and
+
+(b) if the Secretary of State of State is required to revise the plan under section 11, or considers it appropriate to revise the plan as a result of the review, revise the plan.
+
+(2) The period to which a revised plan relates must end at the same time as the period to which the current plan relates.
+
+(3) The first review of the first environmental improvement plan must be completed by 31 January 2023.
+
+(4) The first review of a subsequent environmental improvement plan must be completed before the end of the 5 year period beginning with the day on which it replaces the previous plan (see section 13(4)).
+
+(5) Subsequent reviews of an environmental improvement plan must be completed before the end of the 5 year period beginning with the day on which the previous review was completed.
+
+(6) If as a result of a review the Secretary of State revises the environmental improvement plan, the Secretary of State must lay before Parliament—
+
+(a) the revised environmental improvement plan, and
+
+(b) a statement explaining the revisions and the reasons for them.
+
+(7) If as a result of a review the Secretary of State does not revise the environmental improvement plan, the Secretary of State must lay before Parliament a statement explaining that and the reasons for it.
+
+(8) The Secretary of State must publish the documents laid under subsection (6) or (7).
+
+(9) A review is completed when the Secretary of State has laid and published the documents mentioned in subsection (6) or (7).
+
+(10) References in this Act to an environmental improvement plan include a revised environmental improvement plan.
+
+##### 11 Reviewing and revising plans: interim targets
+
+(1) On the first review of the first environmental improvement plan, the Secretary of State must revise the plan so as to—
+
+(a) set at least one interim target in respect of each relevant matter, and
+
+(b) secure that there is at all times, until the end of the 5 year period beginning with the relevant date, an interim target set by the plan in respect of each relevant matter.
+
+(2) On any other review of an environmental improvement plan, the Secretary of State must make any revisions to the plan which are necessary in order to—
+
+(a) set at least one interim target in respect of any matter that has become a relevant matter since the previous review, and
+
+(b) secure that there is at all times, until the end of the 5 year period beginning with the relevant date, an interim target set by the plan in respect of each relevant matter.
+
+(3) A “relevant matter” means any matter in respect of which there is a target under sections 1 to 3.
+
+(4) Subsection (2)(b) does not apply in respect of a matter if the specified date for the target under sections 1 to 3 in respect of that matter is before the end of the 5 year period beginning with the relevant date.
+
+(5) On a review of an environmental improvement plan, the Secretary of State may revise or replace any interim targets set by the plan in respect of a relevant matter (subject to subsection (2)(b), where it applies in respect of the matter).
+
+(6) An interim target in respect of a matter must specify—
+
+(a) a standard to be achieved, which must be capable of being objectively measured, and
+
+(b) a date by which it is to be achieved.
+
+(7) The date must be no later than the end of the 5 year period beginning with—
+
+(a) for the first interim target in respect of a matter, the relevant date;
+
+(b) for subsequent interim targets in respect of a matter, the later of the relevant date and the date specified for the previous interim target.
+
+(8) Before setting or revising an interim target in respect of a matter the Secretary of State must be satisfied that meeting the target, or the revised target, would make an appropriate contribution towards meeting the target under sections 1 to 3 in respect of that matter.
+
+(9) The “relevant date” is the date on which the review is completed.
+
+##### 12 Reviewing and revising plans: other requirements
+
+(1) In reviewing an environmental improvement plan under section 10, the Secretary of State must consider—
+
+(a) what has been done to implement the plan in the period since it was published or (if it has been reviewed before) last reviewed,
+
+(b) whether, having regard to data obtained under section 16 and reports made by the OEP under section 28, the natural environment has, or particular aspects of it have, improved during that period, and
+
+(c) whether Her Majesty’s Government should take further or different steps to improve the natural environment (compared to those set out in the plan) in the remainder of the period to which the plan relates.
+
+(2) In considering the matters in subsection (1)(b) the Secretary of State must consider the progress that has been made towards meeting—
+
+(a) any targets, or any relevant targets, set under sections 1 to 3, and
+
+(b) any interim targets, or any relevant interim targets, set under sections 11 and 14.
+
+(3) In considering the matters in subsection (1)(c) the Secretary of State must consider whether Her Majesty’s Government should take further or different steps towards meeting those targets (compared to those set out in the plan).
+
+##### 13 Renewing environmental improvement plans
+
+(1) Before the end of the period to which an environmental improvement plan (the “old plan”) relates, the Secretary of State must prepare a new environmental improvement plan (the “new plan”) for a new period in accordance with this section, section 14 and section 15.
+
+(2) The new period must begin no later than immediately after the end of the period to which the old plan relates.
+
+(3) At or before the end of the period to which the old plan relates the Secretary of State must lay before Parliament, and publish, the new plan.
+
+(4) The new plan replaces the old plan when—
+
+(a) it has been laid and published, and
+
+(b) the period to which it relates has begun.
+
+##### 14 Renewing plans: interim targets
+
+(1) A new plan prepared by the Secretary of State under section 13 must—
+
+(a) set at least one interim target in respect of each relevant matter, and
+
+(b) secure that there is at all times, until the end of the 5 year period beginning with the relevant date, an interim target set by the plan in respect of each relevant matter.
+
+(2) A “relevant matter” means any matter in respect of which there is a target under sections 1 to 3.
+
+(3) Subsection (1) does not apply in respect of a matter if the specified date for the target under sections 1 to 3 in respect of that matter is before the end of the 5 year period beginning with the relevant date.
+
+(4) An interim target in respect of a matter must specify—
+
+(a) a standard to be achieved, which must be capable of being objectively measured, and
+
+(b) a date by which it is to be achieved.
+
+(5) The date must be no later than the end of the 5 year period beginning with—
+
+(a) for the first interim target set by the new plan in respect of a matter, the relevant date;
+
+(b) for subsequent interim targets set by the new plan in respect of a matter, the date specified for the previous interim target.
+
+(6) Before setting an interim target in respect of a matter, the Secretary of State must be satisfied that meeting it would make an appropriate contribution towards meeting the target under sections 1 to 3 in respect of that matter.
+
+(7) The “relevant date” is the first day of the period to which the new plan relates.
+
+(8) In this section references to the “new plan” are to be read in accordance with section 13.
+
+##### 15 Renewing plans: other requirements
+
+(1) In preparing a new plan under section 13 the Secretary of State must consider—
+
+(a) what has been done to implement the old plan,
+
+(b) whether, having regard to data obtained under section 16 and reports made by the OEP under section 28, the natural environment has improved since the beginning of the period to which the old plan relates, and
+
+(c) whether Her Majesty’s Government should take further or different steps (compared to those set out in the old plan) to improve the natural environment in the period to which the new environmental improvement plan relates.
+
+(2) In considering the matters in subsection (1)(b) the Secretary of State must consider the progress that has been made towards meeting—
+
+(a) any targets set under sections 1 to 3, and
+
+(b) any interim targets set under sections 11 and 14.
+
+(3) In considering the matters in subsection (1)(c) the Secretary of State must consider whether Her Majesty’s Government should take further or different steps (compared to those set out in the old plan) towards meeting any targets set under sections 1 to 3.
+
+(4) In this section references to the “new plan” and the “old plan” are to be read in accordance with section 13.
+
+#### Environmental monitoring
+
+##### 16 Environmental monitoring
+
+(1) The Secretary of State must make arrangements for obtaining such data about the natural environment as the Secretary of State considers appropriate for the purpose of monitoring—
+
+(a) whether the natural environment is, or particular aspects of it are, improving in accordance with the current environmental improvement plan,
+
+(b) the progress being made towards meeting any targets set under sections 1 to 3, and
+
+(c) the progress being made towards meeting any interim targets set under sections 11 and 14.
+
+(2) The Secretary of State must lay before Parliament, and publish, a statement setting out the kinds of data to be obtained under subsection (1).
+
+(3) The first statement must be laid before the end of the 4 month period beginning with the day on which this section comes into force.
+
+(4) The Secretary of State may revise the statement at any time (and subsection (2) applies to any revised statement).
+
+(5) The Secretary of State must publish any data obtained under subsection (1).
+
+#### Policy statement on environmental principles
+
+##### 17 Policy statement on environmental principles
+
+(1) The Secretary of State must prepare a policy statement on environmental principles in accordance with this section and section 18.
+
+(2) A “policy statement on environmental principles” is a statement explaining how the environmental principles should be interpreted and proportionately applied by Ministers of the Crown when making policy.
+
+(3) It may also explain how Ministers of the Crown, when interpreting and applying the environmental principles, should take into account other considerations relevant to their policy.
+
+(4) The Secretary of State must be satisfied that the statement will, when it comes into effect, contribute to—
+
+(a) the improvement of environmental protection, and
+
+(b) sustainable development.
+
+(5) In this Part “environmental principles” means the following principles—
+
+(a) the principle that environmental protection should be integrated into the making of policies,
+
+(b) the principle of preventative action to avert environmental damage,
+
+(c) the precautionary principle, so far as relating to the environment,
+
+(d) the principle that environmental damage should as a priority be rectified at source, and
+
+(e) the polluter pays principle.
+
+##### 18 Policy statement on environmental principles: process
+
+(1) The Secretary of State must prepare a draft of the policy statement on environmental principles.
+
+(2) The Secretary of State must consult such persons as the Secretary of State considers appropriate in relation to the draft statement.
+
+(3) The Secretary of State must lay the draft statement before Parliament.
+
+(4) If before the end of the 21 day period—
+
+(a) either House of Parliament passes a resolution in respect of the draft statement, or
+
+(b) a committee of either House of Parliament, or a joint committee of both Houses, makes recommendations in respect of the draft statement,
+
+the Secretary of State must produce a response and lay it before Parliament.
+
+(5) The Secretary of State must prepare and lay before Parliament the final statement, but not before—
+
+(a) if subsection (4) applies, the day on which the Secretary of State lays the response required by that subsection, or
+
+(b) otherwise, the end of the 21 day period.
+
+(6) The final statement has effect when it is laid before Parliament.
+
+(7) The Secretary of State must publish the statement when it comes into effect.
+
+(8) The “21 day period” is the period of 21 sitting days beginning with the first sitting day after the day on which the draft statement is laid under subsection (3).
+
+(9) “Sitting day” means a day on which both Houses of Parliament sit.
+
+(10) The requirements in subsections (1) and (2) may be met by the preparation of a draft statement, and consultation, before this section comes into force.
+
+(11) The Secretary of State may prepare a revised policy statement on environmental principles at any time (and subsections (1) to (9) apply in relation to any revised statement).
+
+##### 19 Policy statement on environmental principles: effect
+
+(1) A Minister of the Crown must, when making policy, have due regard to the policy statement on environmental principles currently in effect.
+
+(2) Nothing in subsection (1) requires a Minister to do anything (or refrain from doing anything) if doing it (or refraining from doing it)—
+
+(a) would have no significant environmental benefit, or
+
+(b) would be in any other way disproportionate to the environmental benefit.
+
+(3) Subsection (1) does not apply to policy so far as relating to—
+
+(a) the armed forces, defence or national security,
+
+(b) taxation, spending or the allocation of resources within government, or
+
+(c) Wales.
+
+(4) Subsection (1) applies to policy relating to Scotland only so far as relating to reserved matters.
+
+(5) Section 14(2) of the UK Withdrawal from the European Union (Continuity) (Scotland) Act 2021 (asp 4) (UK Ministers must have regard to guiding principles on the environment in making policies extending to Scotland) does not apply to policies so far as relating to reserved matters.
+
+(6) In this section “reserved matters” has the same meaning as in the Scotland Act 1998.
+
+#### Environmental protection: statements and reports
+
+##### 20 Statements about Bills containing new environmental law
+
+(1) This section applies where a Minister of the Crown in charge of a Bill in either House of Parliament is of the view that the Bill as introduced into that House contains provision which, if enacted, would be environmental law.
+
+(2) The Minister must, before Second Reading of the Bill in the House in question, make—
+
+(a) a statement to the effect that in the Minister’s view the Bill contains provision which, if enacted, would be environmental law, and
+
+(b) a statement under subsection (3) or (4).
+
+(3) A statement under this subsection is a statement to the effect that in the Minister’s view the Bill will not have the effect of reducing the level of environmental protection provided for by any existing environmental law.
+
+(4) A statement under this subsection is a statement to the effect that—
+
+(a) the Minister is unable to make a statement under subsection (3), but
+
+(b) Her Majesty’s Government nevertheless wishes the House to proceed with the Bill.
+
+(5) In making a statement under this section the Minister may in particular take into account the possibility that a Bill, by making provision that is different from existing environmental law, might provide for the same or a greater level of environmental protection.
+
+(6) For the purposes of this section—
+
+(a) references to environmental protection provided for by any existing environmental law includes any protection which could be provided for under powers conferred by the existing environmental law, and
+
+(b) in considering the effect of a Bill, any powers conferred by the Bill to provide for any environmental protection may be taken into account.
+
+(7) A statement under this section must be in writing and be published in such manner as the Minister considers appropriate.
+
+(8) “Existing environmental law”, in relation to a statement under this section, means environmental law existing at the time that the Bill to which the statement relates is introduced into the House in question, whether or not the environmental law is in force.
+
+##### 21 Reports on international environmental protection legislation
+
+(1) The Secretary of State must report on developments in international environmental protection legislation which appear to the Secretary of State to be significant.
+
+(2) “International environmental protection legislation” means legislation of countries and territories outside the United Kingdom, and international organisations, that is mainly concerned with environmental protection.
+
+(3) The Secretary of State must report under this section in relation to each reporting period.
+
+(4) The reporting periods are—
+
+(a) the 2 year period beginning with the day on which this section comes into force, and
+
+(b) each subsequent 2 year period.
+
+(5) A report under this section may consider—
+
+(a) particular countries, territories or international organisations, or
+
+(b) particular aspects of environmental protection,
+
+as the Secretary of State considers appropriate.
+
+(6) A report under this section must be laid before Parliament, and published, as soon as reasonably practicable after the end of the reporting period to which it relates.
+
+### CHAPTER 2 — The Office for Environmental Protection
+
+#### The Office for Environmental Protection
+
+##### 22 The Office for Environmental Protection
+
+(1) A body corporate called the Office for Environmental Protection is established.
+
+(2) In this Act that body is referred to as “the OEP”.
+
+(3) Schedule 1 makes further provision about the OEP.
+
+##### 23 Principal objective of the OEP and exercise of its functions
+
+(1) The principal objective of the OEP in exercising its functions is to contribute to—
+
+(a) environmental protection, and
+
+(b) the improvement of the natural environment.
+
+(2) The OEP must—
+
+(a) act objectively and impartially, and
+
+(b) have regard to the need to act proportionately and transparently.
+
+(3) The OEP must prepare a strategy that sets out how it intends to exercise its functions.
+
+(4) In particular, the strategy must set out—
+
+(a) how the OEP will further its principal objective,
+
+(b) how the OEP will act objectively and impartially, and
+
+(c) how the OEP will have regard to the need to act proportionately and transparently.
+
+(5) The strategy must also set out—
+
+(a) how the OEP intends to avoid any overlap between the exercise of its functions and the exercise by the Committee on Climate Change of that committee’s functions, and
+
+(b) how the OEP intends to co-operate with devolved environmental governance bodies.
+
+(6) The strategy must contain an enforcement policy that sets out—
+
+(a) how the OEP intends to determine whether failures to comply with environmental law are serious for the purposes of sections 33(1)(b) and (2)(b), 35(1)(b), 36(1)(b), 38(1)(b) and 39(1)(a) and (7),
+
+[[^F1](aa) how the OEP intends to determine whether failures to comply with relevant environmental law are serious for the purposes of paragraphs 7(1)(b) and (2)(b), 9(1)(b), 10(1)(b), 12(1)(b) and 13(1) and (6) of Schedule 3,]
+
+(b) how the OEP intends to determine whether damage to the natural environment or to human health is serious for the purposes of section 39(2), [[^F2]or paragraph 13(2) of Schedule 3,]
+
+(c) how the OEP intends to exercise its enforcement functions in a way that respects the integrity of other statutory regimes (including statutory provision for appeals),
+
+(d) how the OEP intends to avoid any overlap between the exercise of its functions under sections 32 to 34 (complaints) and the exercise by each relevant ombudsman of their functions, [^F3]...
+
+[[^F4](da) how the OEP intends to avoid any overlap between the exercise of its functions under paragraphs 6 to 8 of Schedule 3 (complaints) and the exercise by the Northern Ireland Public Services Ombudsman of its functions, and]
+
+(e) how the OEP intends to prioritise cases.
+
+(7) In considering its enforcement policy the OEP must have regard to the particular importance of prioritising cases that it considers have or may have national implications, and the importance of prioritising cases—
+
+(a) that relate to ongoing or recurrent conduct,
+
+(b) that relate to conduct that the OEP considers may cause (or has caused) serious damage to the natural environment or to human health, or
+
+(c) that the OEP considers may raise a point of environmental law [[^F5]or Northern Ireland environmental law] of general public importance.
+
+[[^F6](7A) In this section “relevant environmental law” and “Northern Ireland environmental law” have the meanings they have in Part 1 of Schedule 3 (see paragraphs 5 and 18(2) of that Schedule).]
+
+(8) The OEP’s “enforcement functions” are its functions under sections 32 to 41 [[^F7]and paragraphs 6 to 15 of Schedule 3].
+
+(9) For the purposes of this Part, each of the following is a “relevant ombudsman”—
+
+(a) the Commission for Local Administration in England;
+
+(b) the Parliamentary Commissioner for Administration.
+
+##### 24 The OEP’s strategy: process
+
+(1) The OEP must—
+
+(a) arrange for the strategy prepared under section 23 to be laid before Parliament [[^F8]and the Northern Ireland Assembly], and
+
+(b) publish it.
+
+(2) The OEP may revise the strategy at any time (and subsection (1) applies to any revised strategy).
+
+(3) The OEP must review the strategy at least once in every review period.
+
+(4) “Review period” means—
+
+(a) in relation to the first review, the period of 3 years beginning with the day on which the strategy was first published, and
+
+(b) in relation to subsequent reviews, the period of 3 years beginning with the day on which the previous review was completed.
+
+(5) Before preparing, revising or reviewing the strategy, the OEP must consult such persons as it considers appropriate.
+
+##### 25 Guidance on the OEP’s enforcement policy and functions
+
+(1) The Secretary of State may issue guidance to the OEP on the matters listed in section 23(6) (OEP’s enforcement policy)[[^F9], so far as relating to the OEP’s Part 1 enforcement functions.]
+
+(2) The OEP must have regard to the guidance in—
+
+(a) preparing its enforcement policy, [[^F10]so far as relating to its Part 1 enforcement functions,] and
+
+(b) exercising its [[^F11]Part 1 enforcement functions].
+
+(3) The OEP’s “[[^F12]Part 1 enforcement functions]” are its functions under sections 32 to 41.
+
+(4) Before issuing the guidance, the Secretary of State must—
+
+(a) prepare a draft, and
+
+(b) lay the draft before Parliament.
+
+(5) If before the end of the 21 day period—
+
+(a) either House of Parliament passes a resolution in respect of the draft guidance, or
+
+(b) a committee of either House of Parliament, or a joint committee of both Houses, makes recommendations in respect of the draft guidance,
+
+the Secretary of State must produce a response and lay it before Parliament.
+
+(6) The Secretary of State may prepare and lay before Parliament the final guidance, but not before—
+
+(a) if subsection (5) applies, the day on which the Secretary of State lays the response required by that subsection, or
+
+(b) otherwise, the end of the 21 day period.
+
+(7) The final guidance has effect when it is laid before Parliament.
+
+(8) The Secretary of State must publish the guidance when it comes into effect.
+
+(9) The “21 day period” is the period of 21 sitting days beginning with the first sitting day after the day on which the draft guidance is laid under subsection (4).
+
+(10) “Sitting day” means a day on which both Houses of Parliament sit.
+
+(11) The Secretary of State may revise the guidance at any time (and subsections (4) to (10) apply in relation to any revised guidance).
+
+##### 25A [[^F13]Guidance on the OEP’s Northern Ireland enforcement policy and functions
+
+(1) The Department of Agriculture, Environment and Rural Affairs in Northern Ireland may issue guidance to the OEP on the matters listed in section 23(6) (OEP’s enforcement policy), so far as relating to the OEP’s Northern Ireland enforcement functions.
+
+(2) The OEP must have regard to the guidance in—
+
+(a) preparing its enforcement policy, so far as relating to its Northern Ireland enforcement functions, and
+
+(b) exercising its Northern Ireland enforcement functions.
+
+(3) The OEP’s “Northern Ireland enforcement functions” are its functions under paragraphs 6 to 15 of Schedule 3.
+
+(4) Before issuing the guidance, the Department must—
+
+(a) prepare a draft, and
+
+(b) lay the draft before the Northern Ireland Assembly.
+
+(5) If before the end of the 21 day period the Northern Ireland Assembly passes a resolution in respect of the draft guidance, the Department must produce a response and lay it before the Assembly.
+
+(6) The Department may prepare and lay before the Northern Ireland Assembly the final guidance, but not before—
+
+(a) if subsection (5) applies, the day on which the Department lays the response required by that subsection, or
+
+(b) otherwise, the end of the 21 day period.
+
+(7) The final guidance has effect when it is laid before the Northern Ireland Assembly.
+
+(8) The Department must publish the guidance when it comes into effect.
+
+(9) The “21 day period” is the period of 21 sitting days beginning with the first sitting day after the day on which the draft guidance is laid under subsection (4).
+
+(10) “Sitting day” means a day on which the Northern Ireland Assembly sits.
+
+(11) The Department may revise the guidance at any time (and subsections (4) to (10) apply in relation to any revised guidance).]
+
+##### 26 Memorandum of understanding
+
+(1) The OEP and the Committee on Climate Change must prepare a memorandum of understanding.
+
+(2) The memorandum must set out how the OEP and the Committee intend to co-operate with one another and avoid overlap between the exercise by the OEP of its functions and the exercise by the Committee of its functions.
+
+##### 27 Co-operation duties of public authorities and the OEP
+
+(1) A person whose functions include functions of a public nature must co-operate with the OEP, and give it such reasonable assistance as it requests (including the provision of information), in connection with the exercise of its functions under this Act.
+
+(2) Subsection (1) does not apply to—
+
+(a) a court or tribunal,
+
+(b) either House of Parliament,
+
+(c) a devolved legislature,
+
+(d) the Scottish Ministers [[^F14]or the Welsh Ministers],
+
+(e) a person exercising a parliamentary function, or
+
+(f) a person whose only public functions are [[^F15]Scottish devolved functions or Welsh devolved functions].
+
+(3) A person whose public functions include [[^F16]Scottish devolved functions or Welsh devolved functions] is only required to co-operate with the OEP by virtue of subsection (1) to the extent that co-operation is in relation to functions that are not [[^F16]Scottish devolved functions or Welsh devolved functions].
+
+[[^F17](3A) An implementation body is only required to co-operate with the OEP by virtue of subsection (1) to the extent that co-operation is in relation to functions of that body exercisable in or as regards Northern Ireland.
+
+In this subsection “implementation body” has the meaning it has in section 55 of the Northern Ireland Act 1998 (see subsection (3) of that section).]
+
+(4) If the OEP considers that a particular exercise of its functions may be relevant to the exercise of a devolved environmental governance function by a devolved environmental governance body, the OEP must consult that body.
+
+#### The OEP's scrutiny and advice functions
+
+##### 28 Monitoring and reporting on environmental improvement plans and targets
+
+(1) The OEP must monitor progress—
+
+(a) in improving the natural environment in accordance with the current environmental improvement plan,
+
+(b) towards meeting any targets set under sections 1 to 3, and
+
+(c) towards meeting any interim targets set under sections 11 and 14.
+
+(2) The OEP must prepare a progress report for each annual reporting period.
+
+(3) A progress report for an annual reporting period is a report on progress made in that period in or towards the matters listed in subsection (1).
+
+(4) An annual reporting period is a period for which the Secretary of State must prepare a report under section 9 (a “section 9 report”).
+
+(5) In reporting on progress made in an annual reporting period, the OEP must consider—
+
+(a) the section 9 report for that period,
+
+(b) the data published by the Secretary of State under section 16 that relates to that period, and
+
+(c) any other reports, documents or information it considers appropriate.
+
+(6) A progress report for an annual reporting period may include—
+
+(a) consideration of how progress could be improved, and
+
+(b) consideration of the adequacy of the data published by the Secretary of State under section 16.
+
+(7) The OEP must—
+
+(a) arrange for its reports under this section to be laid before Parliament, and
+
+(b) publish them.
+
+(8) A progress report for an annual reporting period must be laid no later than 6 months after the section 9 report for that period is laid before Parliament.
+
+(9) The Secretary of State must—
+
+(a) respond to a report under this section, and
+
+(b) lay before Parliament, and publish, a copy of the response.
+
+(10) Where a report under this section contains a recommendation for how progress could be improved, the response must address that recommendation.
+
+(11) The response—
+
+(a) must be laid no later than 12 months after the report is laid, and
+
+(b) may be included in a section 9 report.
+
+##### 29 Monitoring and reporting on environmental law
+
+(1) The OEP must monitor the implementation of environmental law.
+
+(2) The OEP may report on any matter concerned with the implementation of environmental law.
+
+(3) But the OEP must not monitor the implementation of, or report on, a matter within the remit of the Committee on Climate Change.
+
+(4) A matter is within the remit of the Committee on Climate Change if it is a matter on which the Committee is, or may be, required to advise or report under Part 1, sections 34 to 36, or section 48 of the Climate Change Act 2008.
+
+(5) The OEP must—
+
+(a) arrange for its reports under this section to be laid before Parliament, and
+
+(b) publish them.
+
+(6) The Secretary of State must—
+
+(a) respond to a report under this section, and
+
+(b) lay before Parliament, and publish, a copy of the response.
+
+(7) The response to a report under this section must be laid no later than 3 months after the report is laid.
+
+##### 30 Advising on changes to environmental law etc
+
+(1) The OEP must give advice to a Minister of the Crown about—
+
+(a) any proposed change to environmental law, or
+
+(b) any other matter relating to the natural environment,
+
+on which the Minister requires it to give advice.
+
+(2) The Minister may specify matters which the OEP is to take into account in giving the required advice.
+
+(3) The OEP may give advice to a Minister of the Crown about any changes to environmental law proposed by a Minister of the Crown.
+
+(4) Advice under this section is to be given in writing to the Minister concerned.
+
+(5) The OEP must publish—
+
+(a) its advice, and
+
+(b) if the advice is given under subsection (1), a statement of the matter on which it was required to give advice and any matters specified under subsection (2).
+
+(6) The Minister concerned may, if the Minister thinks fit, lay before Parliament—
+
+(a) the advice, and
+
+(b) any response the Minister may make to the advice.
+
+#### The OEP's enforcement functions
+
+##### 31 Failure of public authorities to comply with environmental law
+
+(1) Sections 32 to 41 make provision about functions of the OEP in relation to failures by public authorities to comply with environmental law.
+
+(2) For the purposes of those sections, a reference to a public authority failing to comply with environmental law means the following conduct by that authority—
+
+(a) unlawfully failing to take proper account of environmental law when exercising its functions;
+
+(b) unlawfully exercising, or failing to exercise, any function it has under environmental law.
+
+(3) In this Part “public authority” means a person carrying out any function of a public nature that is not a devolved function, a parliamentary function or a function of any of the following persons—
+
+(a) the OEP;
+
+(b) a court or tribunal;
+
+(c) either House of Parliament;
+
+(d) a devolved legislature;
+
+(e) the Scottish Ministers, the Welsh Ministers, a Northern Ireland department or a Minister within the meaning of the Northern Ireland Act 1998.
+
+##### 32 Complaints
+
+(1) A person may make a complaint to the OEP under this section if the person believes that a public authority has failed to comply with environmental law.
+
+(2) The OEP must prepare and publish a document which sets out the procedure by which complaints can be made.
+
+(3) A complaint under this section must be made in accordance with that procedure (as most recently published).
+
+(4) A complaint under this section may not be made by any person whose functions include functions of a public nature.
+
+(5) A complaint about a public authority may not be made under this section if—
+
+(a) the authority operates a procedure for considering complaints (“an internal complaints procedure”) under which the complaint could be considered, and
+
+(b) that procedure has not been exhausted.
+
+(6) A complaint under this section may not be made after the later of—
+
+(a) the end of the 1 year period beginning with the day on which the alleged failure that is the subject of the complaint last occurred, and
+
+(b) if the substance of the complaint was subject to an internal complaints procedure, the end of the 3 month period beginning with the day on which that procedure was exhausted.
+
+(7) The OEP may waive the time limit in subsection (6) if it considers that there are exceptional reasons for doing so.
+
+##### 33 Investigations
+
+(1) The OEP may carry out an investigation under this section if it receives a complaint made under section 32 that, in its view, indicates that—
+
+(a) a public authority may have failed to comply with environmental law, and
+
+(b) if it has, the failure would be a serious failure.
+
+(2) The OEP may carry out an investigation under this section without having received such a complaint if it has information that, in its view, indicates that—
+
+(a) a public authority may have failed to comply with environmental law, and
+
+(b) if it has, the failure would be a serious failure.
+
+(3) An investigation under this section is an investigation into whether the public authority has failed to comply with environmental law.
+
+(4) The OEP must notify the public authority of the commencement of the investigation.
+
+(5) The OEP must prepare a report on the investigation and provide it to the public authority.
+
+(6) The OEP is not required to prepare a report until it has concluded that it intends to take no further steps under this Chapter in relation to the alleged failure to comply with environmental law that is the subject of the investigation.
+
+(7) The OEP is not required to prepare a report if it has applied for an environmental review, judicial review or statutory review (see sections 38 and 39) in relation to the alleged failure.
+
+(8) The report must set out—
+
+(a) whether the OEP considers that the public authority has failed to comply with environmental law,
+
+(b) the reasons the OEP came to that conclusion, and
+
+(c) any recommendations the OEP may have (whether generally or for the public authority) in light of those conclusions.
+
+(9) The OEP may publish the report or parts of it.
+
+(10) If the public authority is not a Minister of the Crown, the OEP must also—
+
+(a) notify the relevant Minister of the commencement of the investigation, and
+
+(b) provide the relevant Minister with the report prepared under subsection (5).
+
+(11) In this Part “the relevant Minister”, in relation to a failure (or alleged failure) of a public authority to comply with environmental law, means the Minister of the Crown that the OEP considers appropriate having regard to the nature of the public authority and the nature of the failure.
+
+##### 34 Duty to keep complainants informed
+
+(1) Where a person makes a complaint to the OEP alleging that a public authority has failed to comply with environmental law, the OEP must keep the complainant informed about its handling of the complaint.
+
+(2) In particular, the OEP must—
+
+(a) notify the complainant if it does not intend to consider the complaint because the complaint was not made in accordance with section 32;
+
+(b) notify the complainant if it has concluded that it will not be commencing an investigation under section 33 in relation to the complaint;
+
+(c) notify the complainant if it commences an investigation under section 33 in relation to the complaint;
+
+(d) if such an investigation is commenced, notify the complainant—
+
+(i) where it provides a report under section 33(5) to the public authority that is the subject of the investigation, that it has provided it;
+
+(ii) where it applies for an environmental review (see section 38), for permission to apply for judicial review or for statutory review (see section 39), in relation to the alleged failure to comply with environmental law that is the subject of the investigation, that it has made such an application;
+
+(e) provide the complainant with a copy of any document published under section 33(9) in relation to any investigation in relation to the complaint.
+
+##### 35 Information notices
+
+(1) The OEP may give an information notice to a public authority if—
+
+(a) the OEP has reasonable grounds for suspecting that the authority has failed to comply with environmental law, and
+
+(b) it considers that the failure, if it occurred, would be serious.
+
+(2) An information notice is a notice which—
+
+(a) describes an alleged failure of a public authority to comply with environmental law,
+
+(b) explains why the OEP considers that the alleged failure, if it occurred, would be serious, and
+
+(c) requests that the authority provide such information relating to the allegation as may be specified in the notice.
+
+(3) The recipient of an information notice must—
+
+(a) respond in writing to the notice, and
+
+(b) so far as is reasonably practicable, provide the OEP with the information requested in the notice.
+
+(4) The recipient of an information notice must comply with subsection (3) by—
+
+(a) the end of the 2 month period beginning with the day on which the notice was given, or
+
+(b) such later date as may be specified in the notice.
+
+(5) The written response to an information notice must set out—
+
+(a) the recipient’s response to the allegation described in the notice, and
+
+(b) what steps (if any) the recipient intends to take in relation to the allegation.
+
+(6) The OEP may—
+
+(a) withdraw an information notice;
+
+(b) give more than one information notice in respect of the same alleged failure of a public authority to comply with environmental law.
+
+(7) Where the OEP intends to give an information notice to a public authority in respect of an alleged failure to comply with environmental law which relates to emissions of greenhouse gases (within the meaning of the Climate Change Act 2008), the OEP—
+
+(a) must notify the Committee on Climate Change of its intention before it gives the notice to the authority, and
+
+(b) must provide that Committee with such information relating to the alleged failure as the OEP considers appropriate.
+
+##### 36 Decision notices
+
+(1) The OEP may give a decision notice to a public authority if—
+
+(a) the OEP is satisfied, on the balance of probabilities, that the authority has failed to comply with environmental law, and
+
+(b) it considers that the failure is serious.
+
+(2) A decision notice is a notice that—
+
+(a) describes a failure of a public authority to comply with environmental law,
+
+(b) explains why the OEP considers that the failure is serious, and
+
+(c) sets out the steps the OEP considers the authority should take in relation to the failure (which may include steps designed to remedy, mitigate or prevent reoccurrence of the failure).
+
+(3) The recipient of a decision notice must respond in writing to that notice by—
+
+(a) the end of the 2 month period beginning with the day on which the notice was given, or
+
+(b) such later date as may be specified in the notice.
+
+(4) The written response to a decision notice must set out—
+
+(a) whether the recipient agrees that the failure described in the notice occurred,
+
+(b) whether the recipient intends to take the steps set out in the notice, and
+
+(c) what other steps (if any) the recipient intends to take in relation to the failure described in the notice.
+
+(5) The OEP—
+
+(a) may not give a decision notice to a public authority unless it has first given at least one information notice relating to the failure of the authority to comply with environmental law that is described in the decision notice;
+
+(b) may withdraw a decision notice.
+
+##### 37 Linked notices
+
+(1) If the OEP gives an information notice or a decision notice to more than one public authority in respect of the same or similar conduct, it may determine that those notices are linked.
+
+(2) A Minister of the Crown may request that the OEP determine that information notices or decision notices are linked and the OEP must have regard to that request.
+
+(3) The OEP must provide the recipient of an information notice or a decision notice (a “principal notice”) with a copy of every information notice or decision notice which is linked to it (and such a notice is referred to in this section as a “linked notice”).
+
+(4) The OEP must provide the recipient of a principal notice with a copy of any relevant correspondence, relating to a linked notice, between the OEP and the recipient of that linked notice.
+
+(5) The OEP must provide the recipient of a principal notice with a copy of any relevant correspondence between the OEP and the relevant Minister that relates to a linked notice.
+
+(6) Subsection (5) does not apply where either the recipient of the principal notice or the linked notice is a Minister of the Crown.
+
+[[^F18](6A) If the OEP considers that an information notice or a decision notice relates to conduct that is the same as or similar to conduct that is the subject of a Northern Ireland information notice or Northern Ireland decision notice, it may determine that those notices are linked.
+
+(6B) The OEP must provide the recipient of an information notice or a decision notice with—
+
+(a) a copy of every Northern Ireland information notice or Northern Ireland decision notice which is linked to it, and
+
+(b) a copy of any relevant correspondence, relating to such a notice, between the OEP and the recipient of that notice.]
+
+(7) The obligation to provide a copy of any notice or correspondence under this section does not apply where the OEP considers that in the circumstances it would not be in the public interest to do so.
+
+(8) For the purposes of this section, correspondence is relevant if—
+
+(a) it is not correspondence in connection with an environmental review or any other legal proceedings (such as judicial review), and
+
+(b) it is not correspondence sent by virtue of section 40(1)(a) or (b).
+
+##### 38 Environmental review
+
+(1) Where the OEP has given a decision notice to a public authority it may apply to the court for an environmental review, but only if—
+
+(a) it is satisfied, on the balance of probabilities, that the authority has failed to comply with environmental law, and
+
+(b) it considers that the failure is serious.
+
+(2) An environmental review is a review of alleged conduct of the authority that is described in the decision notice as constituting a failure to comply with environmental law.
+
+(3) An application for an environmental review may not be made—
+
+(a) before the earlier of—
+
+(i) the end of the period within which the authority must respond to the decision notice in accordance with section 36(3), and
+
+(ii) the date on which the OEP receives the authority’s response to that notice, or
+
+(b) before the expiry of any time limit which applies to the commencement of judicial review or other similar legal proceedings for questioning the alleged conduct.
+
+(4) Any restriction imposed by or under any other enactment on questioning the conduct of a public authority in legal proceedings does not apply to an environmental review.
+
+(5) On an environmental review the court must determine whether the authority has failed to comply with environmental law, applying the principles applicable on an application for judicial review.
+
+(6) If the court finds that the authority has failed to comply with environmental law, it must make a statement to that effect (a “statement of non-compliance”).
+
+(7) A statement of non-compliance does not affect the validity of the conduct in respect of which it is given.
+
+(8) Where the court makes a statement of non-compliance it may grant any remedy that could be granted by it on a judicial review other than damages, but only if Condition A or Condition B is met.
+
+(9) Condition A is that the court is satisfied that granting the remedy would not—
+
+(a) be likely to cause substantial hardship to, or substantially prejudice the rights of, any person other than the authority, or
+
+(b) be detrimental to good administration.
+
+(10) Condition B is that Condition A is not met but the court is satisfied that—
+
+(a) granting the remedy is necessary in order to prevent or mitigate serious damage to the natural environment or to human health, and
+
+(b) there is an exceptional public interest reason to grant it.
+
+(11) In deciding whether to grant a remedy the court must (subject to subsection (8)) apply the principles applicable on an application for judicial review; but this does not require the court to apply section 31(2A) of the Senior Courts Act 1981 (High Court to refuse to grant relief where the outcome for the applicant not substantially different) on an environmental review in England and Wales.
+
+(12) If, on an environmental review, the court has made a statement of non-compliance in respect of a public authority, and the statement has not been overturned on appeal, the authority must publish a statement that sets out the steps it intends to take in light of the review.
+
+(13) A statement under subsection (12) must be published before the end of the 2 month period beginning with the day the review (including any appeal) concludes.
+
+(14) In this section—
+
+- “the court” means—
+
+  - in relation to an environmental review arising under the law of England and Wales or Northern Ireland, the High Court, or
+  - in relation to an environmental review arising under the law of Scotland, the Court of Session;
+
+- “enactment” has the same meaning as in the European Union (Withdrawal) Act 2018;
+
+- “the principles applicable on an application for judicial review” means, in relation to an environmental review, the principles that would apply on an application for judicial review in the jurisdiction under which the environmental review arises;
+
+- “remedy” includes any relief or order.
+
+##### 39 Judicial review: powers to apply in urgent cases and to intervene
+
+(1) The OEP may apply for judicial review, or a statutory review, in relation to conduct of a public authority (whether or not it has given an information notice or a decision notice to the authority in respect of that conduct) if—
+
+(a) the OEP considers that the conduct constitutes a serious failure to comply with environmental law, and
+
+(b) the urgency condition is met.
+
+(2) The urgency condition is that making an application under subsection (1) (rather than proceeding under sections 35 to 38) is necessary to prevent, or mitigate, serious damage to the natural environment or to human health.
+
+(3) Section 31(2A), (3C) and (3D) of the Senior Courts Act 1981 (High Court to refuse to grant leave or relief where the outcome for the applicant not substantially different) does not apply to an application for judicial review made under subsection (1) in England and Wales.
+
+(4) If, on an application for judicial review or a statutory review made by virtue of subsection (1), there is a finding that a public authority has failed to comply with environmental law, and the finding has not been overturned on appeal, the authority must publish a statement that sets out the steps it intends to take in light of the finding.
+
+(5) A statement under subsection (4) must be published before the end of the 2 month period beginning with the day the proceedings relating to the application for judicial review or the statutory review (including any appeal) conclude.
+
+(6) Subsection (7) applies to proceedings (including any appeal) that—
+
+(a) are in respect of an application for judicial review or a statutory review, and
+
+(b) relate to an alleged failure by a public authority to comply with environmental law (however the allegation is framed in those proceedings).
+
+(7) If the OEP considers that the alleged failure, if it occurred, would be serious, it may apply to intervene in the proceedings (whether it considers that the public authority has, or has not, failed to comply with environmental law).
+
+(8) In this Part—
+
+(a) except in section 38, reference to an application for judicial review includes an application for the permission of the High Court or, as the case may be, the Court of Session to apply for judicial review;
+
+(b) “statutory review” means a claim for statutory review under—
+
+(i) section 287 or 288 of the Town and Country Planning Act 1990,
+
+(ii) section 63 of the Planning (Listed Buildings and Conservation Areas) Act 1990,
+
+(iii) section 22 of the Planning (Hazardous Substances) Act 1990, or
+
+(iv) section 113 of the Planning and Compulsory Purchase Act 2004.
+
+##### 40 Duty of the OEP to involve the relevant Minister
+
+(1) Where the recipient of an information notice or a decision notice is not a Minister of the Crown, the OEP must—
+
+(a) provide the relevant Minister with—
+
+(i) a copy of the notice and,
+
+(ii) a copy of any correspondence between the OEP and the recipient of the notice that relates to the notice (apart from correspondence sent by virtue of paragraph (b)), and
+
+(b) provide the recipient of the notice with a copy of any correspondence between the OEP and the relevant Minister that relates to the notice (apart from correspondence sent by virtue of paragraph (a)).
+
+(2) The obligation to provide a copy of any notice or correspondence under subsection (1) does not apply where the OEP considers that in the circumstances it would not be in the public interest to do so.
+
+(3) Where the OEP makes an application for an environmental review, judicial review or statutory review in which the relevant Minister is not a party, it must provide the relevant Minister with—
+
+(a) a copy of the application, and
+
+(b) a statement of whether the OEP considers the relevant Minister should participate in the review (for example, by applying to be a party).
+
+##### 41 Public statements
+
+(1) Where the OEP gives an information notice or a decision notice, applies for an environmental review, judicial review or statutory review or applies to intervene in a judicial review or statutory review, it must publish a statement that—
+
+(a) states that the OEP has taken that step,
+
+(b) describes the failure (or alleged failure) of a public authority to comply with environmental law in relation to which that step was taken, and
+
+(c) sets out such further information as the OEP considers appropriate.
+
+(2) Subsection (1) does not apply if the OEP considers that in the circumstances it would not be in the public interest to publish a statement.
+
+#### Information
+
+##### 42 Disclosures to the OEP
+
+(1) No obligation of secrecy imposed by statute or otherwise prevents a person from—
+
+(a) in accordance with section 27(1), providing the OEP with information in connection with an investigation under section 33, an information notice or a decision notice, or
+
+(b) providing information to the OEP in accordance with section 35(3)(b).
+
+(2) But nothing in this Part—
+
+(a) requires a person to provide the OEP with information that the person would be entitled to refuse to provide in civil proceedings on grounds of legal professional privilege (or, in Scotland, confidentiality of communications), or
+
+(b) requires a person to provide the OEP with information that the person would be entitled, or required by any rule of law, to refuse to provide in civil proceedings on grounds of public interest immunity.
+
+(3) No obligation of secrecy imposed by statute or otherwise prevents a relevant ombudsman from providing information to the OEP—
+
+(a) for purposes connected with the exercise of the OEP’s functions under section 33;
+
+(b) for purposes connected with the co-ordination of the OEP’s functions that relate to investigations under section 33 and the ombudsman’s functions that relate to investigations by the ombudsman.
+
+(4) Nothing in this Part requires or authorises a disclosure of information that would contravene the data protection legislation (but in determining whether a disclosure would do so, take into account the duties imposed and powers conferred by this Part).
+
+(5) In this section “the data protection legislation” has the same meaning as in the Data Protection Act 2018 (see section 3(9) of that Act).
+
+##### 43 Confidentiality of proceedings
+
+(1) The OEP must not disclose—
+
+(a) information obtained under section 27(1) or 35(3)(b), or
+
+(b) correspondence between the OEP and a public authority that—
+
+(i) relates to a particular information notice or decision notice, or
+
+(ii) is, or contains, such a notice.
+
+(2) Subsection (1) does not apply to a disclosure—
+
+(a) other than a disclosure of an information notice or a decision notice, made with the consent of the person who provided the information or correspondence;
+
+(b) made for purposes connected with the exercise of the OEP’s functions under section 33 (investigations) [[^F19]or paragraph 7 of Schedule 3 (functions of the OEP in Northern Ireland)];
+
+(c) made for purposes connected with the co-ordination of the OEP’s functions that relate to investigations under section 33 and a relevant ombudsman’s functions that relate to investigations by that ombudsman;
+
+[[^F20](ca) made for purposes connected with the co-ordination of the OEP’s functions that relate to investigations under paragraph 7 of Schedule 3 and the Northern Ireland Public Services Ombudsman’s functions that relate to investigations by the Ombudsman;]
+
+(d) made for the purposes of any publication of a report (or part of it) on an investigation under section 33 [[^F21]or paragraph 7 of Schedule 3];
+
+(e) made for purposes connected with the exercise of the OEP’s functions under sections 35 to 41 [[^F22]or paragraphs 9 to 15 of Schedule 3] (enforcement);
+
+(f) made to a devolved environmental governance body for purposes connected with the exercise of a devolved environmental governance function;
+
+(g) made for purposes connected with the protection of the natural environment in a country or territory outside the United Kingdom, to an authority of that country or territory, or an international organisation, that has functions in connection with the protection of the natural environment in that country or territory;
+
+(h) of information, or correspondence, that relates only to a matter in relation to which the OEP has concluded that it intends to take no further steps under this Chapter [[^F23]or Part 1 of Schedule 3].
+
+(3) A public authority must not disclose correspondence between the OEP and that, or any other, public authority that—
+
+(a) relates to a particular information notice [[^F24], decision notice, Northern Ireland information notice or Northern Ireland decision notice], or
+
+(b) is, or contains, such a notice.
+
+(4) Subsection (3) does not apply to a disclosure—
+
+(a) made—
+
+(i) in the case of a disclosure of correspondence between another public authority and the OEP other than correspondence that is, or contains, an information notice [[^F25], a decision notice, a Northern Ireland information notice or a Northern Ireland decision notice], with the consent of that authority and the OEP, or
+
+(ii) in any other case, with the specific or general consent of the OEP;
+
+(b) made for purposes connected with co-operating with any investigation under section 33 [[^F26]or paragraph 7 of Schedule 3];
+
+(c) made for purposes connected with responding to any information notice or decision notice;
+
+(d) made for purposes connected with any proceedings in relation to an environmental review, judicial review [[^F27](which includes a review application)] or statutory review.
+
+(5) The OEP may not give a person consent to disclose an information notice [[^F28], a decision notice, a Northern Ireland information notice or a Northern Ireland decision notice] unless that notice relates only to a matter in relation to which the OEP has concluded that it intends to take no further steps under this Chapter [[^F29]or Part 1 of Schedule 3].
+
+(6) If a public authority requests the consent of the OEP to disclose correspondence that relates only to a matter in relation to which the OEP has concluded that it intends to take no further steps under this Chapter [[^F30]or Part 1 of Schedule 3], the OEP may not withhold that consent.
+
+(7) If information referred to in subsection (1) and held by the OEP, or referred to in subsection (3) and held by a public authority, is environmental information for the purposes of the Environmental Information Regulations 2004 (S.I. 2004/3391) or the Environmental Information (Scotland) Regulations 2004 (S.S.I. 2004/520), it is held by that person, for the purposes of the application of those regulations to that information, in connection with confidential proceedings.
+
+### CHAPTER 3 — Interpretation of Part 1
+
+#### 44 Meaning of “natural environment”
+
+In this Part the “natural environment” means—
+
+(a) plants, wild animals and other living organisms,
+
+(b) their habitats,
+
+(c) land (except buildings or other structures), air and water,
+
+and the natural systems, cycles and processes through which they interact.
+
+#### 45 Meaning of “environmental protection”
+
+In this Part “environmental protection” means—
+
+(a) protection of the natural environment from the effects of human activity;
+
+(b) protection of people from the effects of human activity on the natural environment;
+
+(c) maintenance, restoration or enhancement of the natural environment;
+
+(d) monitoring, assessing, considering, advising or reporting on anything in paragraphs (a) to (c).
+
+#### 46 Meaning of “environmental law”
+
+(1) In this Part “environmental law” means any legislative provision to the extent that it—
+
+(a) is mainly concerned with environmental protection, and
+
+(b) is not concerned with an excluded matter.
+
+(2) Excluded matters are—
+
+(a) disclosure of or access to information;
+
+(b) the armed forces or national security;
+
+(c) taxation, spending or the allocation of resources within government.
+
+(3) The reference in subsection (1) to “legislative provision” does not include devolved legislative provision, except for the purposes of section 20.
+
+(4) “Devolved legislative provision” means—
+
+(a) legislative provision contained in, or in an instrument made under, an Act of the Scottish Parliament, an Act or Measure of Senedd Cymru, or Northern Ireland legislation, and
+
+(b) legislative provision not within paragraph (a) which—
+
+(i) if contained in an Act of the Scottish Parliament, would be within the legislative competence of the Parliament;
+
+(ii) if contained in an Act of Senedd Cymru, would be within the legislative competence of the Senedd, or
+
+(iii) if contained in an Act of the Northern Ireland Assembly, would be within the legislative competence of the Assembly and would not require the Secretary of State’s consent.
+
+(5) The Secretary of State may by regulations provide that a legislative provision specified in the regulations is, or is not, within the definition of “environmental law” in subsection (1) (and this Part applies accordingly).
+
+(6) Before making regulations under subsection (5) the Secretary of State must consult—
+
+(a) the OEP, and
+
+(b) any other persons the Secretary of State considers appropriate.
+
+(7) Regulations under subsection (5) are subject to the affirmative procedure.
+
+#### 47 Interpretation of Part 1: general
+
+[[^F31](1)] In this Part—
+
+- “application for judicial review” is to be read in accordance with section 39(8);
+
+- “current environmental improvement plan” has the meaning given by section 8(8);
+
+- “decision notice” means a notice given under section 36;
+
+- “devolved environmental governance body” means a person on whom a devolved environmental governance function has been conferred;
+
+- “devolved environmental governance function” means a [[^F32]Scottish devolved function or Welsh devolved function] that is similar to a function conferred on the OEP under this Part [[^F33]or Part 1 of Schedule 3 (functions of the OEP in Northern Ireland)];
+
+- “devolved function” means—
+
+  - a function exercisable in or as regards Wales that could be conferred by provision falling within the legislative competence of Senedd Cymru (see section 108A of the Government of Wales Act 2006);
+  - a function exercisable in or as regards Scotland, the exercise of which would be within devolved competence (within the meaning of section 54 of the Scotland Act 1998);
+  - a function exercisable in or as regards Northern Ireland that could be conferred by provision included in an Act of the Northern Ireland Assembly made without the consent of the Secretary of State (see sections 6 to 8 of the Northern Ireland Act 1998);
+
+- “devolved legislature” means the Scottish Parliament, Senedd Cymru or the Northern Ireland Assembly;
+
+- “environmental improvement plan” has the meaning given by section 8 (and see also section 10(10));
+
+- “environmental principles” has the meaning given by section 17;
+
+- “environmental review” has the meaning given by section 38;
+
+- “first environmental improvement plan” has the meaning given by section 8(8);
+
+- “improving the natural environment”, in relation to an environmental improvement plan, is to be read in accordance with section 8(5);
+
+- “information notice” means a notice given under section 35;
+
+- “judicial review” means—
+
+  - in England and Wales or Northern Ireland, an application to the High Court for judicial review, or
+  - in Scotland, an application to the supervisory jurisdiction of the Court of Session;
+
+- “making” policy includes developing, adopting or revising policy;
+
+- “met”, in relation to a target set under sections 1 to 3, has the meaning given by section 4(7);
+
+- “Minister of the Crown” has the same meaning as in the Ministers of the Crown Act 1975;
+
+- [[^F34]“Northern Ireland decision notice” means a notice given under paragraph 10 of Schedule 3 (functions of the OEP in Northern Ireland);]
+
+- [[^F34]“Northern Ireland information notice” means a notice given under paragraph 9 of Schedule 3;]
+
+- “OEP” has the meaning given by section 22;
+
+- “parliamentary function” means a function in connection with proceedings in Parliament or a devolved legislature;
+
+- “policy” includes proposals for legislation, but does not include an administrative decision taken in relation to a particular person or case (for example, a decision on an application for planning permission, funding or a licence, or a decision about regulatory enforcement);
+
+- “policy statement on environmental principles” has the meaning given by section 17;
+
+- “public authority” has the meaning given by section 31(3);
+
+- “relevant Minister” has the meaning given by section 33;
+
+- “relevant ombudsman” has the meaning given by section 23;
+
+- [[^F34]“review application” has the meaning it has in Part 1 of Schedule 3 (see paragraph 12 of that Schedule);]
+
+- [[^F34]“Scottish devolved function” means a function exercisable in or as regards Scotland, the exercise of which would be within devolved competence (within the meaning of section 54 of the Scotland Act 1998);]
+
+- “specified date” and “specified standard”, in relation to a target set under sections 1 to 3, have the meaning given by section 1(8);
+
+- “statutory review” has the meaning given by section 39(8).
+
+- [[^F34]“Welsh devolved function” means a function exercisable in or as regards Wales that could be conferred by provision falling within the legislative competence of Senedd Cymru (see section 108A of the Government of Wales Act 2006).]
+
+[[^F35](2) Section 41(3) of the Interpretation Act (Northern Ireland) 1954 (c. 33 (N.I.)) applies in relation to the laying of a document before the Northern Ireland Assembly under this Part, as it applies in relation to the laying of a statutory document under an Act of the Northern Ireland Assembly.]
+
+## PART 2 — Environmental governance: Northern Ireland
+
+### 48 Improving the natural environment: Northern Ireland
+
+Schedule 2 makes provision about—
+
+(a) environmental improvement plans, and
+
+(b) policy statements on environmental principles,
+
+in Northern Ireland.
+
+### 49 The Office for Environmental Protection: Northern Ireland
+
+Schedule 3—
+
+(a) makes provision about the functions of the OEP in, or as regards, Northern Ireland, and
+
+(b) amends this Act to reflect those functions.
+
+## PART 3 — Waste and resource efficiency
+
+### Producer responsibility
+
+#### 50 Producer responsibility obligations
+
+(1) In Schedule 4—
+
+(a) Part 1 confers power on the relevant national authority to make regulations about producer responsibility obligations;
+
+(b) Part 2 confers power on the relevant national authority to make regulations about the enforcement of regulations made under Part 1.
+
+(2) In this section and that Schedule “relevant national authority” means—
+
+(a) in relation to England, the Secretary of State;
+
+(b) in relation to Wales, the Welsh Ministers or the Secretary of State;
+
+(c) in relation to Scotland, the Scottish Ministers or the Secretary of State;
+
+(d) in relation to Northern Ireland, the Department of Agriculture, Environment and Rural Affairs in Northern Ireland or the Secretary of State.
+
+(3) Regulations under Schedule 4 made by the Secretary of State may not contain provision that could be contained in regulations under that Schedule made by another relevant national authority, unless that authority consents.
+
+(4) Regulations under Schedule 4 that contain only provision for, or in connection with, the variation of targets specified in the regulations are subject to the negative procedure.
+
+(5) Otherwise, regulations under Schedule 4 are subject to the affirmative procedure.
+
+(6) The following are repealed—
+
+(a) in the Environment Act 1995, sections 93 to 95;
+
+(b) the Producer Responsibility Obligations (Northern Ireland) Order 1998 (S.I. 1998/1762 (N.I. 16)).
+
+#### 51 Producer responsibility for disposal costs
+
+(1) Schedule 5 confers power on the relevant national authority to make regulations requiring the payment of sums in respect of the costs of disposing of products and materials.
+
+(2) In this section and that Schedule “relevant national authority” means—
+
+(a) in relation to England, the Secretary of State;
+
+(b) in relation to Wales, the Welsh Ministers or the Secretary of State;
+
+(c) in relation to Scotland, the Scottish Ministers or the Secretary of State;
+
+(d) in relation to Northern Ireland, the Department of Agriculture, Environment and Rural Affairs in Northern Ireland or the Secretary of State.
+
+(3) Regulations under Schedule 5 made by the Secretary of State may not contain provision that could be contained in regulations under that Schedule made by another relevant national authority, unless that authority consents.
+
+(4) Regulations under Schedule 5 are subject to the affirmative procedure.
+
+### Resource efficiency
+
+#### 52 Resource efficiency information
+
+(1) In Schedule 6—
+
+(a) Part 1 confers power on the relevant national authority to make regulations about the provision of resource efficiency information;
+
+(b) Part 2 confers power on the relevant national authority to make regulations about the enforcement of regulations made under Part 1.
+
+(2) In this section and that Schedule “relevant national authority” means—
+
+(a) in relation to England, the Secretary of State;
+
+(b) in relation to Wales, the Welsh Ministers or the Secretary of State;
+
+(c) in relation to Scotland, the Scottish Ministers or the Secretary of State;
+
+(d) in relation to Northern Ireland, the Department of Agriculture, Environment and Rural Affairs in Northern Ireland or the Secretary of State.
+
+(3) Regulations under Schedule 6—
+
+(a) made by the Welsh Ministers, may contain only provision which, if contained in an Act of Senedd Cymru, would be within the legislative competence of the Senedd;
+
+(b) made by the Scottish Ministers, may contain only provision which, if contained in an Act of the Scottish Parliament, would be within the legislative competence of the Parliament;
+
+(c) made by the Department of Agriculture, Environment and Rural Affairs in Northern Ireland, may contain only provision which, if contained in an Act of the Northern Ireland Assembly, would be within the legislative competence of the Assembly and would not require the Secretary of State’s consent.
+
+(4) Regulations under Schedule 6 made by the Secretary of State may not contain provision that could be contained in regulations under that Schedule made by another relevant national authority, unless that authority consents.
+
+(5) Regulations under Schedule 6 are subject to the affirmative procedure.
+
+#### 53 Resource efficiency requirements
+
+(1) In Schedule 7—
+
+(a) Part 1 confers power on the relevant national authority to make regulations about resource efficiency requirements;
+
+(b) Part 2 confers power on the relevant national authority to make regulations about the enforcement of regulations made under Part 1.
+
+(2) In this section and that Schedule “relevant national authority” means—
+
+(a) in relation to England, the Secretary of State;
+
+(b) in relation to Wales, the Welsh Ministers or the Secretary of State;
+
+(c) in relation to Scotland, the Scottish Ministers or the Secretary of State;
+
+(d) in relation to Northern Ireland, the Department of Agriculture, Environment and Rural Affairs in Northern Ireland or the Secretary of State.
+
+(3) Regulations under Schedule 7—
+
+(a) made by the Welsh Ministers, may contain only provision which, if contained in an Act of Senedd Cymru, would be within the legislative competence of the Senedd;
+
+(b) made by the Scottish Ministers, may contain only provision which, if contained in an Act of the Scottish Parliament, would be within the legislative competence of the Parliament;
+
+(c) made by the Department of Agriculture, Environment and Rural Affairs in Northern Ireland, may contain only provision which, if contained in an Act of the Northern Ireland Assembly, would be within the legislative competence of the Assembly and would not require the Secretary of State’s consent.
+
+(4) Regulations under Schedule 7 made by the Secretary of State may not contain provision that could be contained in regulations under that Schedule made by another relevant national authority, unless that authority consents.
+
+(5) Regulations under Schedule 7 are subject to the affirmative procedure.
+
+#### 54 Deposit schemes
+
+(1) Schedule 8 confers power on the relevant national authority to make regulations establishing deposit schemes.
+
+(2) In this section and that Schedule “the relevant national authority” means—
+
+(a) in relation to a deposit scheme relating to the purchase of products in England, the Secretary of State;
+
+(b) in relation to a deposit scheme relating to the purchase of products in Wales, the Welsh Ministers or the Secretary of State;
+
+(c) in relation to a deposit scheme relating to the purchase of products in Northern Ireland, the Department of Agriculture, Environment and Rural Affairs in Northern Ireland or the Secretary of State.
+
+(3) Regulations under Schedule 8—
+
+(a) made by the Welsh Ministers, may contain only provision which, if contained in an Act of Senedd Cymru, would be within the legislative competence of the Senedd;
+
+(b) made by the Department of Agriculture, Environment and Rural Affairs in Northern Ireland, may contain only provision which, if contained in an Act of the Northern Ireland Assembly, would be within the legislative competence of the Assembly and would not require the Secretary of State’s consent.
+
+(4) Regulations under Schedule 8 made by the Secretary of State may not contain provision that could be contained in regulations under that Schedule made by another relevant national authority, unless that authority consents.
+
+(5) Regulations made by a relevant national authority under Schedule 8 are subject to the affirmative procedure if they—
+
+(a) are the first regulations under paragraph 1, or the first regulations under paragraph 5, made by the authority;
+
+(b) provide for conduct to be a criminal offence which is not a criminal offence under existing regulations made by the authority under that Schedule;
+
+(c) provide for conduct to be subject to a civil sanction (within the meaning given by paragraph 5(3) of that Schedule) which is not subject to a civil sanction under existing regulations made by the authority under that Schedule;
+
+(d) increase the amount or maximum amount of a fine or monetary penalty, or change the basis on which such an amount or maximum is to be determined.
+
+(6) Otherwise, regulations under Schedule 8 are subject to the negative procedure.
+
+(7) In this section “deposit scheme” has the meaning it has in Schedule 8.
+
+#### 55 Charges for single use items
+
+(1) Schedule 9 confers powers on the relevant national authority to make regulations about charges for single use items.
+
+(2) In this section and that Schedule the “relevant national authority” means—
+
+(a) in relation to England, the Secretary of State;
+
+(b) in relation to Wales, the Welsh Ministers;
+
+(c) in relation to Northern Ireland, the Department of Agriculture, Environment and Rural Affairs in Northern Ireland.
+
+(3) Regulations made by a relevant national authority under Schedule 9 are subject to the affirmative procedure if they—
+
+(a) are the first regulations made by the authority under that Schedule;
+
+(b) contain provision about charging for a new item;
+
+(c) provide for conduct to be subject to a civil sanction (within the meaning of paragraph 9(3) of that Schedule) which is not subject to a civil sanction under existing regulations made by the authority under that Schedule;
+
+(d) increase the amount or maximum amount of a monetary penalty, or change the basis on which such an amount or maximum is to be determined.
+
+(4) Otherwise, regulations under Schedule 9 are subject to the negative procedure.
+
+(5) A “new item” means an item in relation to which there are no existing regulations made by the relevant national authority under Schedule 9.
+
+#### 56 Charges for carrier bags
+
+In Schedule 6 to the Climate Change Act 2008 (power to impose carrier bag charge) after paragraph 6 insert—
+
+> **6A Registration**
+>
+> (1) This paragraph applies to regulations made by—
+>
+> (a) the Secretary of State, or
+>
+> (b) the Department of Agriculture, Environment and Rural Affairs in Northern Ireland.
+>
+> (2) The regulations may require sellers to register with an administrator.
+>
+> (3) The regulations may make provision—
+>
+> (a) about applications for registration,
+>
+> (b) about the period for which registration has effect,
+>
+> (c) about the cancellation of registration.
+>
+> (4) The regulations may require sellers to pay to the administrator, in connection with their registration, fees of an amount determined by, or by the administrator in accordance with, the regulations.
+>
+> (5) The regulations may provide for the amount of the fees to be such as to recover the costs incurred by the administrator in performing its functions under the regulations.
+
+### Managing waste
+
+#### 57 Separation of waste
+
+(1) The Environmental Protection Act 1990 is amended as follows.
+
+(2) In section 30 (definitions of authorities), after subsection (4) insert—
+
+> (4A) In this Part—
+>
+> - “English waste collection authority” means a waste collection authority whose area is in England;
+> - “English waste disposal authority” means a waste disposal authority whose area is in England.
+
+(3) In section 33ZA (fixed penalty notices), in subsection (12) omit the definition of “English waste collection authority”.
+
+(4) For section 45A substitute—
+
+> **45A England: separate collection of household waste**
+>
+> (1) This section applies in relation to arrangements made under section 45(1)(a) for an English waste collection authority to collect household waste, unless they are arrangements in relation to which section 45AZA applies.
+>
+> (2) The arrangements must meet the conditions in subsections (3) to (8) (subject to any provision in regulations under section 45AZC).
+>
+> (3) The first condition is that recyclable household waste must be collected separately from other household waste.
+>
+> (4) The second condition is that recyclable household waste must be collected for recycling or composting.
+>
+> (5) The third condition is that recyclable household waste in each recyclable waste stream must be collected separately, except so far as provided by subsection (6).
+>
+> (6) Recyclable household waste in two or more recyclable waste streams may be collected together where—
+>
+> (a) it is not technically or economically practicable to collect recyclable household waste in those recyclable waste streams separately, or
+>
+> (b) collecting recyclable household waste in those recyclable waste streams separately has no significant environmental benefit (having regard to the overall environmental impact of collecting it separately and of collecting it together).
+>
+> (7) But recyclable household waste within subsection (10)(a) to (d) may not be collected together with recyclable household waste within subsection (10)(e) or (f).
+>
+> (8) The fourth condition is that recyclable household waste which is food waste must be collected at least once a week.
+>
+> (9) Household waste is “recyclable household waste” if—
+>
+> (a) it is within any of the recyclable waste streams, and
+>
+> (b) it is of a description specified in regulations made by the Secretary of State.
+>
+> (10) For the purposes of this section the recyclable waste streams are—
+>
+> (a) glass;
+>
+> (b) metal;
+>
+> (c) plastic;
+>
+> (d) paper and card;
+>
+> (e) food waste;
+>
+> (f) garden waste.
+>
+> **45AZA England: separate collection of household waste from relevant non-domestic premises**
+>
+> (1) This section applies in relation to arrangements for household waste to be collected from relevant non-domestic premises in England by a person who, in collecting the waste—
+>
+> (a) is acting in the course of a business (whether or not for profit), or
+>
+> (b) is exercising a public function (including a function under section 45(1)(a)).
+>
+> (2) The arrangements must meet the conditions in subsections (3) to (7) (subject to any provision in regulations under section 45AZC).
+>
+> (3) The first condition is that recyclable household waste must be collected separately from other household waste.
+>
+> (4) The second condition is that recyclable household waste must be collected for recycling or composting.
+>
+> (5) The third condition is that recyclable household waste in each recyclable waste stream must be collected separately, except so far as provided by subsection (6).
+>
+> (6) Recyclable household waste in two or more recyclable waste streams may be collected together where—
+>
+> (a) it is not technically or economically practicable to collect recyclable household waste in those recyclable waste streams separately, or
+>
+> (b) collecting recyclable household waste in those recyclable waste streams separately has no significant environmental benefit (having regard to the overall environmental impact of collecting it separately and of collecting it together).
+>
+> (7) But recyclable household waste within subsection (10)(a) to (d) may not be collected together with recyclable household waste within subsection (10)(e).
+>
+> (8) The person who presents household waste from the premises for collection under the arrangements must present it separated in accordance with the arrangements.
+>
+> This subsection does not apply so far as the person is subject to an equivalent duty by virtue of a notice under section 46.
+>
+> (9) Household waste is “recyclable household waste” if—
+>
+> (a) it is within any of the recyclable waste streams, and
+>
+> (b) it is of a description specified in regulations made by the Secretary of State.
+>
+> (10) For the purposes of this section the “recyclable waste streams” are—
+>
+> (a) glass;
+>
+> (b) metal;
+>
+> (c) plastic;
+>
+> (d) paper and card;
+>
+> (e) food waste.
+>
+> (11) For the purposes of this section “relevant non-domestic premises” means—
+>
+> (a) a residential home;
+>
+> (b) premises forming part of a university or school or other educational establishment;
+>
+> (c) premises forming part of a hospital or nursing home;
+>
+> (d) premises of a description specified in regulations made by the Secretary of State.
+>
+> (12) Regulations under subsection (11)(d) may not specify domestic properties (within the meaning of section 75(5)(a)).
+>
+> **45AZB England: separate collection of industrial or commercial waste**
+>
+> (1) This section applies in relation to arrangements for industrial or commercial waste to be collected from premises in England by a person who, in collecting the waste—
+>
+> (a) is acting in the course of a business (whether or not for profit), or
+>
+> (b) is exercising a public function (including a function under section 45(1)(b) or (2)).
+>
+> (2) So far as they relate to waste which is similar in nature and composition to household waste (“relevant waste”) the arrangements must meet the conditions in subsections (3) to (7).
+>
+> This is subject to any provision in regulations under section 45AZC.
+>
+> (3) The first condition is that recyclable relevant waste must be collected separately from other relevant waste.
+>
+> (4) The second condition is that recyclable relevant waste must be collected for recycling or composting.
+>
+> (5) The third condition is that recyclable relevant waste in each recyclable waste stream must be collected separately, except so far as provided by subsection (6).
+>
+> (6) Recyclable relevant waste in two or more recyclable waste streams may be collected together where—
+>
+> (a) it is not technically or economically practicable to collect recyclable relevant waste in those recyclable waste streams separately, or
+>
+> (b) collecting recyclable relevant waste in those recyclable waste streams separately has no significant environmental benefit (having regard to the overall environmental impact of collecting it separately and of collecting it together).
+>
+> (7) But recyclable relevant waste within subsection (10)(a) to (d) may not be collected together with recyclable relevant waste within subsection (10)(e).
+>
+> (8) The person who presents relevant waste from the premises for collection under the arrangements must present it separated in accordance with the arrangements.
+>
+> This subsection does not apply so far as the person is subject to an equivalent duty by virtue of a notice under section 47.
+>
+> (9) Relevant waste is “recyclable relevant waste” if—
+>
+> (a) it is within any of the recyclable waste streams, and
+>
+> (b) it is of a description specified in regulations made by the Secretary of State.
+>
+> (10) For the purposes of this section the “recyclable waste streams” are—
+>
+> (a) glass;
+>
+> (b) metal;
+>
+> (c) plastic;
+>
+> (d) paper and card;
+>
+> (e) food waste.
+>
+> **45AZC Sections 45A to 45AZB: powers to exempt and extend**
+>
+> (1) The Secretary of State may by regulations provide—
+>
+> (a) for exemptions from the condition in section 45A(5), 45AZA(5) or 45AZB(5);
+>
+> (b) for exemptions from the application of section 45AZA or 45AZB;
+>
+> (c) for exemptions from the application of section 45AZA or 45AZB in relation to household waste or relevant waste in recyclable waste streams specified in the regulations.
+>
+> (2) The Secretary of State may exercise the power in subsection (1)(a) in relation to two or more recyclable waste streams only if satisfied that doing so will not significantly reduce the potential for recyclable household waste or recyclable relevant waste in those waste streams to be recycled or composted.
+>
+> (3) The Secretary of State may by regulations amend sections 45A to 45AZB so as to—
+>
+> (a) add further recyclable waste streams, and
+>
+> (b) make provision about the extent to which recyclable household waste or recyclable relevant waste in any of those waste streams may or may not be collected together with recyclable household waste or recyclable relevant waste in another recyclable waste stream.
+>
+> (4) The Secretary of State may exercise the power in subsection (3)(a) in relation to a waste stream only if satisfied that—
+>
+> (a) there is waste in that waste stream which is suitable for recycling or composting, and recycling or composting it will have an environmental benefit,
+>
+> (b) all English waste collection authorities can make arrangements for collecting waste in that waste stream which comply with the conditions in section 45A, 45AZA or 45AZB (as appropriate), taking account of any amendments to be made under subsection (3)(b), and
+>
+> (c) there is a market for it after its collection.
+>
+> (5) Before making regulations under this section the Secretary of State must consult—
+>
+> (a) the Environment Agency,
+>
+> (b) English waste collection authorities,
+>
+> (c) English waste disposal authorities, and
+>
+> (d) anyone else the Secretary of State considers appropriate.
+>
+> (6) The requirement in subsection (5) may be met by consultation carried out before this section comes into force.
+>
+> **45AZD Sections 45A to 45AZB: duties of waste collectors**
+>
+> (1) Subsection (2) applies where—
+>
+> (a) a person collects or proposes to collect waste under arrangements to which section 45A, 45AZA or 45AZB applies, and
+>
+> (b) the arrangements include arrangements to collect recyclable household waste or recyclable relevant waste in two or more recyclable waste streams together in reliance on section 45A(6), 45AZA(6) or 45AZB(6).
+>
+> (2) The person must prepare a written assessment of why the person considers that the section relied on applies.
+>
+> **45AZE Sections 45 to 45AZD: guidance**
+>
+> (1) The Secretary of State may issue guidance about the duties imposed by sections 45 to 45AZD.
+>
+> (2) The guidance may in particular deal with—
+>
+> (a) the circumstances in which it may not be technically or economically practicable to collect recyclable household waste or recyclable relevant waste in recyclable waste streams separately, or in which separate collection may not have significant environmental benefit;
+>
+> (b) the frequency with which household waste other than recyclable household waste which is food waste should be collected;
+>
+> (c) the kinds of waste which are relevant waste for the purposes of section 45AZB;
+>
+> (d) assessments under section 45AZD.
+>
+> (3) The guidance may make different provision in relation to sections 45A, 45AZA and 45AZB.
+>
+> (4) Before issuing guidance under this section the Secretary of State must consult—
+>
+> (a) the Environment Agency,
+>
+> (b) English waste collection authorities,
+>
+> (c) English waste disposal authorities, and
+>
+> (d) anyone else the Secretary of State considers appropriate.
+>
+> (5) The requirement in subsection (4) may be met by consultation carried out before this section comes into force.
+>
+> (6) A waste collection authority, and any party to arrangements to which section 45AZA or 45AZB applies, must have regard to the guidance
+>
+> (7) The Secretary of State must lay before Parliament, and publish, the guidance.
+>
+> **45AZF Sections 45AZA and 45AZB: compliance notices**
+>
+> (1) This section applies where the Environment Agency considers that a person other than an English waste collection authority—
+>
+> (a) is a party to arrangements for the collection of household waste which fail to comply with section 45AZA,
+>
+> (b) is a party to arrangements for the collection of relevant waste which fail to comply with section 45AZB, or
+>
+> (c) is failing to comply with section 45AZA(8) or 45AZB(8).
+>
+> (2) It may give that person a notice (a “compliance notice”) requiring them to take specified steps within a specified period to secure that the failure does not continue or recur.
+>
+> (3) A compliance notice must—
+>
+> (a) specify the failures to comply with section 45AZA or 45AZB,
+>
+> (b) specify the steps which must be taken for the purpose of preventing the failure continuing or recurring,
+>
+> (c) specify the period within which those steps must be taken, and
+>
+> (d) give information as to the rights of appeal (including the period within which an appeal must be brought).
+>
+> (4) A person who fails to comply with a compliance notice commits an offence.
+>
+> (5) A person who commits an offence under subsection (4) is liable on summary conviction or conviction on indictment to a fine.
+>
+> **45AZG Sections 45AZA and 45AZB: appeals against compliance notices**
+>
+> (1) A person who is given a compliance notice may appeal to the First-tier Tribunal against—
+>
+> (a) the notice, or
+>
+> (b) any requirement in the notice.
+>
+> (2) The notice or requirement has effect pending the determination of the appeal, unless the tribunal decides otherwise.
+>
+> (3) The tribunal may—
+>
+> (a) quash the notice or requirement,
+>
+> (b) confirm the notice or requirement,
+>
+> (c) vary the notice or requirement,
+>
+> (d) take any steps the Environment Agency could take in relation to the failure giving rise to the notice or requirement, or
+>
+> (e) remit any matter relating to the notice or requirement to the Environment Agency.
+
+(5) In section 46(2) (receptacles for household waste) for the words from “subject to” to the end substitute—
+
+> (a) subject to that, a waste collection authority whose area is in Wales may require separate receptacles or compartments of receptacles to be used for waste which is to be recycled and waste which is not;
+>
+> (b) an English waste collection authority may require separate receptacles or compartments of receptacles to be used for the purposes of complying with its duties under section 45A or 45AZA.
+
+(6) In section 47(3) (receptacles for commercial or industrial waste) at the end insert “, but an English waste collection authority may require separate receptacles or compartments of receptacles to be used for the purposes of complying with section 45AZB so far as it applies to waste of the kind in question.”
+
+(7) In section 160A(2) (regulations and orders) (as inserted by section 63), in the Table, at the appropriate place insert—
+
+> |  |  |
+> |---|---|
+> | 45AZC (separation of waste) | any regulations under that section. |
+
+(8) In section 41(1) of the Environment Act 1995 (powers to make charging schemes) after paragraph (r) (as inserted by section 64) insert—
+
+> (s) as a means of recovering costs which are incurred by it in performing functions relating to sections 45A to 45AZB of the Environmental Protection Act 1990, the Agency may require the payment to it of such charges as may from time to time be prescribed;
+
+.
+
+(9) In section 108(15) of the Environment Act 1995 (powers of entry), in the definition of “pollution control functions” in relation to a waste collection authority, in paragraph (a) for “, 45A” substitute “to 45AZD”.
+
+#### 58 Electronic waste tracking: Great Britain
+
+(1) The Environmental Protection Act 1990 is amended in accordance with subsections (2) and (3).
+
+(2) After section 34C insert—
+
+> **Electronic waste tracking**
+>
+> **34CA Electronic waste tracking**
+>
+> (1) The relevant national authority may by regulations make provision for the purpose of tracking relevant waste, including provision about the establishment of an electronic system (“the system”) for that purpose.
+>
+> (2) The regulations may impose requirements on relevant waste controllers, or a waste regulation authority, to take specified steps to secure the entry into the system of specified information about, or which is relevant to the tracking or regulation of, specified relevant waste.
+>
+> (3) The information which may be specified includes information about—
+>
+> (a) the processing, movement or transfer to another person of relevant waste or waste processing products;
+>
+> (b) persons to whom relevant waste or waste processing products have been transferred;
+>
+> (c) the carrying out of any activity by relevant waste controllers in relation to, or in connection with, relevant waste or waste processing products;
+>
+> (d) relevant waste controllers.
+>
+> (4) The regulations may impose requirements on relevant waste controllers to take specified steps to enable physical identification of specified relevant waste or waste processing products.
+>
+> (5) The regulations may allow relevant waste controllers, or a waste regulation authority, to make arrangements for other persons to discharge their obligations under the regulations, and may impose requirements on such persons in connection with such arrangements.
+>
+> (6) The regulations must provide for an exemption for digitally excluded persons from any requirement that would involve the use of electronic communications or the keeping of electronic records, but may impose alternative requirements on those persons that do not involve either.
+>
+> (7) The regulations may designate a person to establish, operate or maintain the system and may confer functions on such a person.
+>
+> (8) The regulations may make provision about how information held on the system is to be used including provision—
+>
+> (a) about who may access the information;
+>
+> (b) permitting, or requiring, the disclosure, publication or transfer to another electronic system of such information;
+>
+> (c) imposing requirements on persons who obtain such information not to further disclose it.
+>
+> (9) The regulations may impose fees or charges, payable to a person designated by, or in accordance with, the regulations, on persons subject to any requirement imposed by the regulations.
+>
+> (10) The amount of such fees or charges may reflect the costs of establishing, operating or maintaining the system and any other costs incurred in connection with the tracking of relevant waste by a person designated to establish, operate or maintain the system.
+>
+> (11) The relevant national authority may provide grants or loans to a person designated to establish, operate or maintain the system.
+>
+> (12) In this section—
+>
+> - “digitally excluded person” means a person—
+>
+>   - who is a practising member of a religious society or order whose beliefs are incompatible with using electronic communications or keeping electronic records, or
+>   - for whom it is not reasonably practicable to use electronic communications or to keep electronic records for any reason (including age, disability or location);
+>
+> - “extractive waste”—
+>
+>   - in relation to regulations made in relation to England or Wales, has the meaning it has in this Part (as it extends to England and Wales);
+>   - in relation to regulations made in relation to Scotland, has the meaning it has in the Management of Extractive Waste (Scotland) Regulations 2010 (S.S.I. 2010/60);
+>
+> - “relevant national authority” means—
+>
+>   - in relation to England, the Secretary of State;
+>   - in relation to Wales, the Welsh Ministers;
+>   - in relation to Scotland, the Scottish Ministers;
+>
+> - “relevant waste” means controlled waste or extractive waste;
+>
+> - “relevant waste controller” means any person who—
+>
+>   - is subject to the duty in section 34(1) (duty of care as respects controlled waste),
+>   - imports, produces, carries, keeps, treats, manages or disposes of extractive waste or, as a dealer or broker, has control of such waste, or
+>   - exports relevant waste;
+>
+> - “specified” means specified or described in the regulations;
+>
+> - “waste processing product” means any product of the processing of relevant waste, including material which is not relevant waste or which is not derived from relevant waste.
+>
+> **34CB Further provision about regulations under section 34CA**
+>
+> (1) Regulations under section 34CA(1) may make provision about the enforcement of requirements imposed by or under the regulations.
+>
+> (2) The regulations may include provision—
+>
+> (a) creating criminal offences punishable with a fine in respect of failures to comply with the regulations;
+>
+> (b) about such offences.
+>
+> (3) The regulations may include provision—
+>
+> (a) for, about or connected with the imposition of civil sanctions by an enforcement authority;
+>
+> (b) in the case of a civil sanction that requires the payment of an amount, for that amount—
+>
+> (i) to be specified in the regulations;
+>
+> (ii) to be determined by an enforcement authority in accordance with the regulations;
+>
+> (c) for such a determination to be made by reference to factors specified or described in the regulations which may include, for example, the turnover of a business or the costs of complying with the requirement being enforced (and the regulations may provide that the amount to be paid may exceed the amount of those costs);
+>
+> (d) about appeals against the imposition of a civil sanction.
+>
+> (4) In this section “civil sanction” means a sanction of a kind for which provision may be made under Part 3 of the Regulatory Enforcement and Sanctions Act 2008 (fixed monetary penalties, discretionary requirements, stop notices and enforcement undertakings).
+>
+> (5) The regulations may include provision for the imposition of sanctions of that kind whether or not—
+>
+> (a) the conduct in respect of which the sanction is imposed constitutes an offence,
+>
+> (b) the enforcement authority is a regulator for the purposes of Part 3 of the Regulatory Enforcement and Sanctions Act 2008, or
+>
+> (c) the relevant national authority may make provision for the imposition of sanctions under that Part.
+>
+> (6) The regulations may make different provision for different purposes.
+>
+> (7) The regulations may make consequential, supplementary, incidental, transitional or saving provision, including provision amending, repealing or revoking primary legislation or retained direct EU legislation.
+>
+> (8) In this section—
+>
+> - “enforcement authority” means the Environment Agency, the Natural Resources Body for Wales, a waste collection authority for an area in England or Wales or the Scottish Environment Protection Agency;
+>
+> - “primary legislation” means—
+>
+>   - in relation to regulations made by the Secretary of State, an Act of Parliament;
+>   - in relation to regulations made by the Welsh Ministers, an Act of Parliament or an Act or Measure of Senedd Cymru;
+>   - in relation to regulations made by the Scottish Ministers, an Act of Parliament or an Act of the Scottish Parliament.
+
+(3) In section 160A(2) (regulations and orders) (as inserted by section 63), in the Table, at the appropriate place insert—
+
+> |  |  |
+> |---|---|
+> | 34CA (electronic waste tracking) | regulations that—<br>- are the first set of regulations to be made by the relevant national authority (within the meaning given by section 34CA(12)) under section 34CA,<br>- provide for conduct to be a criminal offence which is not a criminal offence under existing regulations made by that authority under that section,<br>- increase the maximum penalty for a criminal offence under existing regulations made by that authority under that section,<br>- provide for conduct to be subject to a civil sanction (within the meaning given by section 34CB(4)) which is not subject to a civil sanction under existing regulations made by that authority under that section, or<br>- amend, repeal or revoke a provision contained in primary legislation (within the meaning given by section 34CB(8)) or retained direct principal EU legislation. |
+
+(4) In section 41(1) of the Environment Act 1995 (powers to make charging schemes) after paragraph (d) insert—
+
+> (da) as a means of recovering costs incurred by it in performing functions conferred by regulations made under section 34CA of the Environmental Protection Act 1990 (electronic waste tracking) the Agency, the Natural Resources Body for Wales or SEPA may require the payment to it of such charges as may from time to time be prescribed;
+
+.
+
+#### 59 Electronic waste tracking: Northern Ireland
+
+(1) The Waste and Contaminated Land (Northern Ireland) Order 1997 (S.I. 1997/2778 (N.I. 19)) is amended as follows.
+
+(2) After Article 5F insert—
+
+> **Electronic waste tracking**
+>
+> **5G Electronic waste tracking**
+>
+> (1) The Department may by regulations make provision for the purpose of tracking relevant waste, including provision about the establishment of an electronic system (“the system”) for that purpose.
+>
+> (2) The regulations may impose requirements on relevant waste controllers, or the Department, to take specified steps to secure the entry into the system of specified information about, or which is relevant to the tracking or regulation of, specified relevant waste.
+>
+> (3) The information which may be specified includes information about—
+>
+> (a) the processing, movement or transfer to another person of relevant waste or waste processing products;
+>
+> (b) persons to whom relevant waste or waste processing products have been transferred;
+>
+> (c) the carrying out of any activity by relevant waste controllers in relation to, or in connection with, relevant waste or waste processing products;
+>
+> (d) relevant waste controllers.
+>
+> (4) The regulations may impose requirements on relevant waste controllers to take specified steps to enable physical identification of specified relevant waste or waste processing products.
+>
+> (5) The regulations may allow relevant waste controllers, or the Department, to make arrangements for other persons to discharge their obligations under the regulations, and may impose requirements on such persons in connection with such arrangements.
+>
+> (6) The regulations must provide for an exemption for digitally excluded persons from any requirement that would involve the use of electronic communications or the keeping of electronic records, but may impose alternative requirements on those persons that do not involve either.
+>
+> (7) The regulations may designate a person to establish, operate or maintain the system and may confer functions on such a person.
+>
+> (8) The regulations may make provision about how information held on the system is to be used including provision—
+>
+> (a) about who may access the information;
+>
+> (b) permitting, or requiring, the disclosure, publication or transfer to another electronic system of such information;
+>
+> (c) imposing requirements on persons who obtain such information not to further disclose it.
+>
+> (9) The regulations may impose fees or charges, payable to a person designated by, or in accordance with, the regulations, on persons subject to any requirement imposed by the regulations.
+>
+> (10) The amount of such fees or charges may reflect the costs of establishing, operating or maintaining the system and any other costs incurred in connection with the tracking of relevant waste by a person designated to establish, operate or maintain the system.
+>
+> (11) The Department may provide grants or loans to a person designated to establish, operate or maintain the system.
+>
+> (12) In this Article—
+>
+> - “digitally excluded person” means a person—
+>
+>   - who is a practising member of a religious society or order whose beliefs are incompatible with using electronic communications or keeping electronic records, or
+>   - for whom it is not reasonably practicable to use electronic communications or to keep electronic records for any reason (including age, disability or location);
+>
+> - “extractive waste” has the meaning it has in the Planning (Management of Waste from Extractive Industries) Regulations (Northern Ireland) 2015 (S.R. 2015 No. 85);
+>
+> - “relevant waste” means controlled waste or extractive waste;
+>
+> - “relevant waste controller” means any person who—
+>
+>   - is subject to the duty in Article 5(1) (duty of care as respects controlled waste),
+>   - imports, produces, carries, keeps, treats, manages or disposes of extractive waste or, as a dealer or broker, has control of such waste, or
+>   - exports relevant waste;
+>
+> - “specified” means specified or described in the regulations;
+>
+> - “waste processing product” means any product of the processing of relevant waste, including material which is not relevant waste or which is not derived from relevant waste.
+>
+> **5H Further provision about regulations under Article 5G**
+>
+> (1) Regulations under Article 5G may make provision about the enforcement of requirements imposed by or under the regulations.
+>
+> (2) The regulations may include provision—
+>
+> (a) creating criminal offences punishable with a fine in respect of failures to comply with the regulations;
+>
+> (b) about such offences.
+>
+> (3) The regulations may include provision—
+>
+> (a) for, about or connected with the imposition of civil sanctions by the Department;
+>
+> (b) in the case of a civil sanction that requires the payment of an amount, for that amount—
+>
+> (i) to be specified in the regulations;
+>
+> (ii) to be determined by the Department in accordance with the regulations;
+>
+> (c) for such a determination to be made by reference to factors specified or described in the regulations which may include, for example, the turnover of a business or the costs of complying with the requirement being enforced (and the regulations may provide that the amount to be paid may exceed the amount of those costs);
+>
+> (d) about appeals against the imposition of a civil sanction.
+>
+> (4) In this Article “civil sanction” means a sanction of a kind for which provision may be made under Part 3 of the Regulatory Enforcement and Sanctions Act 2008 (fixed monetary penalties, discretionary requirements, stop notices and enforcement undertakings).
+>
+> (5) The regulations may include provision for the imposition of sanctions of that kind whether or not the conduct in respect of which the sanction is imposed constitutes an offence.
+>
+> (6) The regulations may make consequential, supplementary, incidental, transitional or saving provision, including provision amending, repealing or revoking any statutory provision.
+
+(3) In Article 82 (regulations etc) after paragraph (1A) insert—
+
+> (1B) Paragraph (1) does not apply to regulations made by the Department under Article 5G that—
+>
+> (a) are the first set of regulations made under that Article,
+>
+> (b) provide for conduct to be a criminal offence which is not a criminal offence under existing regulations under that Article,
+>
+> (c) increase the maximum penalty for a criminal offence under existing regulations under that Article,
+>
+> (d) provide for conduct to be subject to a civil sanction (within the meaning given by Article 5H(4)) which is not subject to a civil sanction under existing regulations under that Article,
+>
+> (e) amend or repeal a provision contained in Northern Ireland legislation or an Act of Parliament, or
+>
+> (f) amend or revoke a provision contained in retained direct principal EU legislation.
+>
+> (1C) Regulations to which paragraph (1) does not apply by virtue of paragraph (1B) may not be made unless a draft of the regulations has been laid before and approved by a resolution of the Assembly.
+
+#### 60 Hazardous waste: England and Wales
+
+(1) The Environmental Protection Act 1990 is amended in accordance with subsections (2) to (4).
+
+(2) After section 62 insert—
+
+> **62ZA Special provision with respect to hazardous waste in England and Wales**
+>
+> (1) The relevant national authority may, by regulations, make provision for, about or connected with the regulation of hazardous waste in England and Wales.
+>
+> (2) Provision that may be made in the regulations includes provision—
+>
+> (a) prohibiting or restricting any activity in relation to hazardous waste;
+>
+> (b) for the giving of directions by waste regulation authorities with respect to matters connected with any activity in relation to hazardous waste;
+>
+> (c) imposing requirements about how hazardous waste may be kept (including requirements about the quantities of hazardous waste which may be kept at any place);
+>
+> (d) about hazardous waste that originated outside England or Wales;
+>
+> (e) about the registration of hazardous waste controllers or places where activities in relation to hazardous waste are carried out;
+>
+> (f) for the keeping of records by hazardous waste controllers;
+>
+> (g) for the inspection of those records by waste regulation authorities or specified persons;
+>
+> (h) for the provision by hazardous waste controllers of copies of, or information derived from, those records to waste regulation authorities or specified persons;
+>
+> (i) for hazardous waste controllers to inform waste regulation authorities, or specified persons, when carrying out activities in relation to hazardous waste;
+>
+> (j) about the circumstances in which waste which is not hazardous waste, but which shares characteristics with hazardous waste, is to be treated as hazardous waste;
+>
+> (k) for, about or connected with criminal offences;
+>
+> (l) for, about or connected with the imposition of civil sanctions.
+>
+> (3) The regulations may not provide for an offence to be punishable—
+>
+> (a) on summary conviction, by imprisonment, or
+>
+> (b) on conviction on indictment, by a term of imprisonment exceeding two years.
+>
+> (4) For the purposes of this section “civil sanction” means a sanction of a kind for which provision may be made under Part 3 of the Regulatory Enforcement and Sanctions Act 2008 (fixed monetary penalties, discretionary requirements, stop notices and enforcement undertakings).
+>
+> (5) The regulations may make provision for, about or connected with the imposition of a sanction of that kind whether or not—
+>
+> (a) the conduct in respect of which the sanction is imposed constitutes an offence, or
+>
+> (b) the person imposing it is a regulator for the purposes of Part 3 of the Regulatory Enforcement and Sanctions Act 2008.
+>
+> (6) The regulations may also include provision—
+>
+> (a) for the supervision by waste regulation authorities—
+>
+> (i) of activities in relation to hazardous waste, or
+>
+> (ii) of hazardous waste controllers;
+>
+> (b) about the keeping of records (which may include registers of hazardous waste controllers and places where hazardous waste may be kept or processed) by waste regulation authorities;
+>
+> (c) as to the recovery of expenses or other charges for the treatment, keeping or disposal or the re-delivery of hazardous waste by waste regulation authorities or hazardous waste controllers;
+>
+> (d) as to appeals to the relevant national authority from decisions of waste regulation authorities.
+>
+> (7) This section is subject to section 114 of the Environment Act 1995 (delegation or reference of appeals etc).
+>
+> (8) Regulations under this section may confer functions (including functions involving the exercise of a discretion) on the relevant national authority or a waste regulation authority.
+>
+> (9) The regulations may—
+>
+> (a) make different provision for different purposes;
+>
+> (b) make incidental, supplementary, consequential, transitional or saving provision.
+>
+> (10) For the purposes of this section “mixing” in relation to hazardous waste means—
+>
+> (a) diluting it (with any substance);
+>
+> (b) mixing it with other hazardous waste of a different type, or that has different characteristics;
+>
+> (c) mixing it with any other substance or material (whether waste or not).
+>
+> (11) In this section—
+>
+> - “activity”, in relation to hazardous waste, includes—
+>
+>   - keeping, collecting, receiving, importing, exporting, transporting or producing hazardous waste;
+>   - sorting, treating, recovering, mixing or otherwise processing hazardous waste;
+>   - disposing of hazardous waste in any manner (including providing hazardous waste to another person for the purposes of that person carrying out an activity in relation to it);
+>   - examining, testing or classifying hazardous waste (including doing any of those things to waste in connection with establishing whether it is hazardous);
+>   - acting as a broker of, or dealer in, hazardous waste;
+>   - directing or supervising another person in relation to an activity in relation to hazardous waste;
+>
+> - “hazardous waste controller” means a person who carries out any activity in relation to hazardous waste;
+>
+> - “relevant national authority” means—
+>
+>   - in relation to England, the Secretary of State;
+>   - in relation to Wales, the Welsh Ministers;
+>
+> - “specified” means specified in the regulations.
+
+(3) In section 75 (meaning of “waste” etc) for subsection (8A) substitute—
+
+> (8A) In the application of this Part to England, “hazardous waste” means—
+>
+> (a) any waste identified as hazardous waste in—
+>
+> (i) the waste list as it applies in relation to England, or
+>
+> (ii) regulations made by the Secretary of State under regulation 3 of the Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540), and
+>
+> (b) any other waste that is treated as hazardous waste for the purposes of—
+>
+> (i) regulations made by the Secretary of State under section 62ZA, or
+>
+> (ii) the Hazardous Waste (England and Wales) Regulations 2005 (S.I. 2005/894).
+>
+> (8B) In the application of this Part to Wales, “hazardous waste” means—
+>
+> (a) any waste identified as hazardous waste in—
+>
+> (i) the waste list as it applies in relation to Wales, or
+>
+> (ii) regulations made by the Welsh Ministers under regulation 3 of the Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540), and
+>
+> (b) any other waste that is treated as hazardous waste for the purposes of—
+>
+> (i) regulations made by the Welsh Ministers under section 62ZA, or
+>
+> (ii) the Hazardous Waste (Wales) Regulations 2005 (S.I. 2005/1806 (W.138)).
+>
+> (8C) In subsections (8A) and (8B) “the waste list” means the list of waste contained in the Annex to Commission Decision of 3 May 2000 replacing Decision 94/3/EC establishing a list of wastes pursuant to Article 1(a) of Council Directive 75/442/EEC on waste and Council Decision 94/904/EC establishing a list of hazardous waste pursuant to Article 1(4) of Council Directive 91/689/EEC on hazardous waste (2000/532/EC).
+
+(4) In section 160A(2) (regulations and orders) (as inserted by section 63), in the Table, at the appropriate place insert—
+
+> |  |  |
+> |---|---|
+> | 62ZA (regulation of hazardous waste in England and Wales) | regulations that—<br>- provide for conduct to be a criminal offence which is not a criminal offence under existing regulations made by the relevant national authority (within the meaning given by section 62ZA(11)) under section 62ZA,<br>- increase the maximum penalty for a criminal offence under existing regulations made by that authority under that section, or<br>- provide for conduct to be subject to a civil sanction (within the meaning given by section 62ZA(4)) which is not subject to a civil sanction under existing regulations made by that authority under that section. |
+
+(5) In section 41(1) of the Environment Act 1995 (power to make charging schemes), before paragraph (d) insert—
+
+> (cc) as a means of recovering costs incurred by it in performing functions conferred by regulations made under section 62ZA of the Environmental Protection Act 1990 (special provision with respect to hazardous waste), the Agency or the Natural Resources Body for Wales may require the payment to it of such charges as may from time to time be prescribed;
+
+.
+
+(6) In section 114 of the Environment Act 1995 (delegation or reference of appeals etc), in subsection (2)(a)(iii) before “, 78L” insert “62ZA(6)(d)”.
+
+#### 61 Hazardous waste: Northern Ireland
+
+(1) The Waste and Contaminated Land (Northern Ireland) Order 1997 (S.I. 1997/2778 (N.I. 19)) is amended as follows.
+
+(2) In Article 30 (special provision with respect to hazardous waste)—
+
+(a) in paragraph (1), for the words from “regulations” to “disposal” substitute “the Department may, by regulations, make provision for, about or connected with the regulation”;
+
+(b) in paragraph (2)—
+
+(i) before sub-paragraph (a) insert—
+
+> (za) prohibiting or restricting the treatment, keeping or disposal of hazardous waste or any other activity in relation to such waste;
+
+;
+
+(ii) in sub-paragraph (a), after “hazardous waste” insert “or any other activity in relation to such waste”;
+
+(iii) after sub-paragraph (g) insert—
+
+> (h) for, about or connected with the imposition of civil sanctions.
+
+;
+
+(c) after that paragraph insert—
+
+> (2A) For the purposes of this Article “civil sanction” means a sanction of a kind for which provision may be made under Part 3 of the Regulatory Enforcement and Sanctions Act 2008 (fixed monetary penalties, discretionary requirements, stop notices and enforcement undertakings).
+>
+> (2B) The regulations may include provision for, about or connected with the imposition of a sanction of that kind whether or not—
+>
+> (a) the conduct in respect of which the sanction is imposed constitutes an offence, or
+>
+> (b) the person imposing it is a regulator for the purposes of Part 3 of the Regulatory Enforcement and Sanctions Act 2008.
+
+;
+
+(d) after paragraph (3) insert—
+
+> (3A) The regulations may make consequential, supplementary, incidental, transitional or saving provision.
+
+(3) In Article 82 (regulations etc) after paragraph (1C) (as inserted by section 59) insert—
+
+> (1D) Paragraph (1) does not apply to regulations made by the Department under Article 30 that provide for conduct to be subject to a civil sanction (within the meaning given by Article 30(2A)) which is not subject to a civil sanction under existing regulations under that Article.
+>
+> (1E) Regulations to which paragraph (1) does not apply by virtue of paragraph (1D) may not be made unless a draft of the regulations has been laid before and approved by a resolution of the Assembly.
+
+#### 62 Transfrontier shipments of waste
+
+(1) Section 141 of the Environmental Protection Act 1990 (power to prohibit or restrict the importation or exportation of waste) is amended in accordance with subsections (2) to (8).
+
+(2) In the heading—
+
+(a) for “prohibit or restrict” substitute “regulate”;
+
+(b) after “waste” insert “or the transit of waste for export”.
+
+(3) For subsection (1) substitute—
+
+> (1) The Secretary of State may, by regulations, make provision for, about or connected with the regulation of the importation or exportation of waste or the transit of waste for export.
+>
+> (1A) Provision that may be made in regulations under this section includes provision prohibiting or restricting—
+>
+> (a) the importation of waste;
+>
+> (b) the landing and unloading of waste in the United Kingdom;
+>
+> (c) the exportation of waste;
+>
+> (d) the loading of waste for exportation;
+>
+> (e) the transit of waste for export.
+>
+> (1B) The provision that may be made by virtue of subsection (1A) includes provision which relates to—
+>
+> (a) the intended final destination of waste, or
+>
+> (b) the countries or territories it is intended to pass through before reaching that destination.
+
+(4) For subsection (3) substitute—
+
+> (3) Regulations under this section may confer functions on the Secretary of State or a waste regulation authority, including functions—
+>
+> (a) involving the exercise of a discretion;
+>
+> (b) relating to enforcement.
+
+(5) Omit subsection (4).
+
+(6) In subsection (5)—
+
+(a) omit paragraph (a);
+
+(b) after that paragraph insert—
+
+> (aa) provide for the Secretary of State to issue general directions as to the exercise by waste regulation authorities of their functions in connection with the regulation of the importation or exportation of waste or the transit of waste for export;
+
+;
+
+(c) in paragraph (b) omit “prescribed in or under the regulations”;
+
+(d) after paragraph (b) insert—
+
+> (ba) provide for the charging by waste regulation authorities of fees or charges payable by persons involved in the importation or exportation of waste or the transit of waste for export;
+>
+> (bb) provide that such fees or charges may be used by waste regulation authorities to meet costs incurred in exercising their functions in connection with the regulation of those activities;
+
+;
+
+(e) in paragraph (d), for the words from “to” to the end substitute “, with or without modifications, to section 108(4) of the Environment Act 1995 (powers of entry and seizure) on persons authorised by the Secretary of State or a waste regulation authority;”;
+
+(f) in paragraph (e), for “authorities under the regulations” substitute “waste regulation authorities”;
+
+(g) after paragraph (f) insert—
+
+> (fa) make provision authorising the disclosure of information by Officers of Revenue and Customs to waste regulation authorities;
+>
+> (fb) confer, on persons designated as general customs officials under section 3(1) of the Borders, Citizenship and Immigration Act 2009, functions relating to the seizure and detention of waste that has arrived at, or entered into, the United Kingdom or is to leave the United Kingdom;
+
+;
+
+(h) after paragraph (g) insert—
+
+> (h) make provision for, about or connected with the imposition of civil sanctions.
+
+(7) After subsection (5A) insert—
+
+> (5B) For the purposes of this section “civil sanction” means a sanction of a kind for which provision may be made under Part 3 of the Regulatory Enforcement and Sanctions Act 2008 (fixed monetary penalties, discretionary requirements, stop notices and enforcement undertakings).
+>
+> (5C) The regulations may make provision for, about or connected with the imposition of a sanction of that kind whether or not—
+>
+> (a) the conduct in respect of which the sanction is imposed constitutes an offence, or
+>
+> (b) the person imposing it is a regulator for the purposes of Part 3 of the Regulatory Enforcement and Sanctions Act 2008.
+>
+> (5D) Regulations under this section may make provision in relation to any area of sea or seabed or its subsoil within the seaward limits of—
+>
+> (a) the area designated by Order in Council under section 1(7) of the Continental Shelf Act 1964 (designation of continental shelf), or
+>
+> (b) the area designated by Order in Council under section 41(3) of the Marine and Coastal Access Act 2009 (designation of exclusive economic zone).
+>
+> (5E) Regulations under this section may make consequential, supplementary, incidental, transitional or saving provision, including provision amending, repealing or revoking primary legislation or retained direct EU legislation.
+
+(8) In subsection (6), at the appropriate places insert—
+
+> - “exportation”, in relation to waste, means causing it to leave the United Kingdom;
+
+;
+
+> - “importation”, in relation to waste, means causing it to arrive at, or enter into, the United Kingdom;
+
+;
+
+> - “primary legislation” means—
+>
+>   - an Act of Parliament,
+>   - a Measure or Act of Senedd Cymru,
+>   - an Act of the Scottish Parliament, or
+>   - Northern Ireland legislation;
+
+;
+
+> - “transit of waste for export” means the transportation or keeping of waste, that has arrived at, or has entered, the United Kingdom, for the purpose of facilitating its leaving the United Kingdom;
+
+.
+
+(9) In section 160A(2) of the Environmental Protection Act 1990 (regulations and orders) (as inserted by section 63), in the Table, at the appropriate place insert—
+
+> |  |  |
+> |---|---|
+> | section 141 (imports, exports and transit of waste) | regulations that—<br>- confer powers of entry, seizure or detention in circumstances where there is no such power under existing regulations under section 141,<br>- provide for the charging of fees or charges that are not chargeable under existing regulations under that section,<br>- provide for conduct to be a criminal offence which is not a criminal offence under existing regulations under that section,<br>- increase the maximum penalty for a criminal offence under existing regulations under that section,<br>- provide for conduct to be subject to a civil sanction (within the meaning given by section 141(5B)) which is not subject to a civil sanction under existing regulations under that section, or<br>- amend, repeal or revoke a provision contained in primary legislation (within the meaning given by section 141(6)) or retained direct principal EU legislation. |
+
+(10) In section 41 of the Environment Act 1995 (power to make schemes imposing charges)—
+
+(a) in subsection (1), for paragraph (d) substitute—
+
+> (d) as a means of recovering costs incurred by it in performing functions in connection with the regulation of the importation or exportation of waste or the transit of waste for export, the Agency, the Natural Resources Body for Wales or SEPA may require the payment to it of such charges as may from time to time be prescribed;
+
+;
+
+(b) after subsection (1) insert—
+
+> (1A) In paragraph (d) of subsection (1) “importation”, “exportation”, “transit of waste for export” and “waste” have the meaning they have in section 141 of the Environmental Protection Act 1990.
+
+(11) In regulation 46 of the Transfrontier Shipment of Waste Regulations 2007 (S.I. 2007/1711), omit paragraph (1).
+
+#### 63 Regulations under the Environmental Protection Act 1990
+
+(1) The Environmental Protection Act 1990 is amended as follows.
+
+(2) After section 160 insert—
+
+> **160A Regulations and orders**
+>
+> (1) Regulations and orders under this Act are subject to the negative procedure, other than—
+>
+> (a) regulations or orders subject to the affirmative procedure by virtue of subsection (2);
+>
+> (b) regulations made by a Northern Ireland department under section 156 (power to give effect to retained EU obligations and international obligations);
+>
+> (c) an order under section 164(3) (commencement);
+>
+> (d) an order under paragraph 4 of Schedule 3 (statutory nuisance).
+>
+> (2) Regulations or orders made under a section listed in the first column of the following Table that are of the description specified in the second column are subject to the affirmative procedure—
+>
+> | Section | Description of regulations or orders |
+> |---|---|
+> | 34D (prohibition on disposal of food waste to sewer: Wales) | any regulations under that section. |
+> | 45AA(10) (separate collection of waste: Wales) | any regulations under that section. |
+> | 78M(4) (offences of not complying with a remediation notice) | any order under that section. |
+> | 79(1ZA) (statutory nuisance) | any regulations under that section. |
+> | 80ZA(11) (fixed penalty notices) | any regulations under that section. |
+> | 88A (litter from vehicles: England) | regulations that include provision falling within section 88A(3)(a) or (6). |
+>
+> (3) Regulations and orders made under this Act by the Secretary of State or the Welsh Ministers are to be made by statutory instrument, other than an order under paragraph 4 of Schedule 3.
+>
+> (4) Where regulations or orders under this Act made or to be made by the Secretary of State—
+>
+> (a) are subject to the negative procedure, the statutory instrument containing them is subject to annulment in pursuance of a resolution of either House of Parliament;
+>
+> (b) are subject to the affirmative procedure, they may not be made unless a draft of the statutory instrument containing them has been laid before, and approved by a resolution of, each House of Parliament.
+>
+> (5) Where regulations or orders under this Act made or to be made by the Welsh Ministers—
+>
+> (a) are subject to the negative procedure, the statutory instrument containing them is subject to annulment in pursuance of a resolution of Senedd Cymru;
+>
+> (b) are subject to the affirmative procedure, they may not be made unless a draft of the statutory instrument containing them has been laid before, and approved by a resolution of, Senedd Cymru.
+>
+> (6) See sections 28 and 29 of the Interpretation and Legislative Reform (Scotland) Act 2010 (asp 10) for the meaning of “the negative procedure” and “the affirmative procedure” in relation to regulations or orders under this Act made or to be made by the Scottish Ministers.
+>
+> (7) Any provision that may be made by regulations or order under this Act subject to the negative procedure may be made subject to the affirmative procedure.
+
+(3) In section 45B omit subsection (3).
+
+(4) In section 78M omit subsection (7).
+
+(5) In section 161 (regulations, orders and directions)—
+
+(a) for the heading substitute “Directions”;
+
+(b) omit subsections (1) to (4).
+
+### Waste enforcement and regulation
+
+#### 64 Powers to make charging schemes
+
+(1) The Environment Act 1995 is amended as follows.
+
+(2) In section 41(1) (powers to make charging schemes) after paragraph (m) insert—
+
+> (n) as a means of recovering costs incurred by it in performing functions conferred by regulations made under Schedule 4 or 5 to the Environment Act 2021, the Agency, the Natural Resources Body for Wales or SEPA may require the payment to it of such charges as may from time to time be prescribed;
+>
+> (o) as a means of recovering costs incurred by it in performing functions conferred by the End-of-Life Vehicles (Producer Responsibility) Regulations 2005 (S.I. 2005/263), the Agency, the Natural Resources Body for Wales or SEPA may require the payment to it of such charges as may from time to time be prescribed;
+>
+> (p) as a means of recovering costs incurred by it in performing functions conferred by the Waste Electrical and Electronic Equipment Regulations 2013 (S.I. 2013/3113), the Agency, the Natural Resources Body for Wales or SEPA may require the payment to it of such charges as may from time to time be prescribed;
+>
+> (q) as a means of recovering costs incurred by it in performing functions relating to section 33(1) of the Environmental Protection Act 1990, the Agency or the Natural Resources Body for Wales may require the payment to it of such charges as may from time to time be prescribed;
+>
+> (r) as a means of recovering costs incurred by it in performing functions relating to regulation 12(1) of the Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154) in relation to a regulated facility which is a waste operation (within the meaning of those Regulations), the Agency or the Natural Resources Body for Wales may require the payment to it of such charges as may from time to time be prescribed;
+
+.
+
+(3) In section 56(1) (interpretation)—
+
+(a) in the definition of “environmental licence”, in the application of Part 1 of the Act in relation to an appropriate agency—
+
+(i) in paragraph (j) for the words from “WEEE” to the end substitute “waste operation (within the meaning of those Regulations),”;
+
+(ii) omit paragraphs (l) to (o);
+
+(b) in the definition of “environmental licence”, in the application of Part 1 of the Act in relation to the Scottish Environment Protection Agency, omit paragraphs (l) to (o).
+
+(4) Until the repeal of section 93 of the Environment Act 1995 (“the 1995 Act”) by section 50 of this Act is fully in force, section 41(1)(n) of the 1995 Act has effect as if the reference to Schedule 4 to this Act included a reference to section 93 of the 1995 Act.
+
+#### 65 Waste charging: Northern Ireland
+
+(1) In the Waste and Contaminated Land (Northern Ireland) Order 1997 (S.I. 1997/2778 (N.I. 19)), after Article 76 insert—
+
+> **Charging schemes**
+>
+> **76A Power to make charging schemes**
+>
+> (1) As a means of recovering costs incurred by it in performing any functions mentioned in paragraph (2), the Department may require the payment to it of such charges as may be specified in or determined under a scheme made by the Department under this Article (referred to in this Article as a “charging scheme”).
+>
+> (2) The functions referred to in paragraph (1) are—
+>
+> (a) functions related to—
+>
+> (i) Article 4(1); or
+>
+> (ii) regulation 18(1) of the Waste Management Licensing Regulations (Northern Ireland) 2003;
+>
+> (b) functions conferred by regulations made under Article 5G;
+>
+> (c) functions conferred by regulations made under Schedule 4 or 5 to the Environment Act 2021;
+>
+> (d) functions conferred by the End-of-Life Vehicles Regulations 2003;
+>
+> (e) functions conferred by the End-of-Life Vehicles (Producer Responsibility) Regulations 2005;
+>
+> (f) functions conferred by the Waste Batteries and Accumulators Regulations 2009;
+>
+> (g) functions conferred by the Waste Electrical and Electronic Equipment Regulations 2013;
+>
+> (h) functions in connection with the regulation of the importation or exportation of waste or the transit of waste for export.
+>
+> (3) In sub-paragraph (h) of paragraph (2) “importation”, “exportation”, “transit of waste for export” and “waste” have the meaning they have in section 141 of the Environmental Protection Act 1990.
+>
+> (4) A charging scheme must specify, in relation to any charge prescribed by the scheme, the description of person who is liable to pay the charge.
+>
+> (5) A charging scheme may—
+>
+> (a) make different provision for different cases, including different provision in relation to different persons, circumstances or localities;
+>
+> (b) provide for the times at which, and the manner in which, charges are to be paid;
+>
+> (c) revoke or amend any previous charging scheme;
+>
+> (d) contain supplemental, incidental, consequential or transitional provision for the purposes of the scheme.
+>
+> (6) Before making a charging scheme the Department must consult such persons as appear to the Department to be appropriate.
+>
+> (7) The Department must, when it makes or amends a charging scheme—
+>
+> (a) lay a copy of the scheme or amendments before the Assembly, and
+>
+> (b) publish the scheme or the amendments.
+
+(2) Until the repeal of Article 3 of the Producer Responsibility Obligations (Northern Ireland) Order 1998 (S.I. 1998/1762 (N.I. 16)) (“the 1998 Order”) by section 50 of this Act is fully in force, Article 76A(2)(c) of the Waste and Contaminated Land (Northern Ireland) Order 1997 (S.I. 1997/2778 (N.I. 19)) has effect as if the reference to Schedule 4 to this Act included a reference to Article 3 of the 1998 Order.
+
+(3) The Waste Management Licensing Regulations (Northern Ireland) 2003 (S.R. (N.I.) 2003 No. 493) are amended as follows.
+
+(4) In regulation 17 (exemptions from waste management licensing), in paragraph (4)—
+
+(a) in sub-paragraph (b) for “and the fee (if any) required under regulation 18(12) have” substitute “has”;
+
+(b) after sub-paragraph (b) insert
+
+> ; and
+>
+> (c) any fee required under regulation 20B has been paid.
+
+(5) In regulation 18 (registration in connection with exempt activities)—
+
+(a) in paragraph (3)(d) for “a payment of any fee in respect of each place where any such exempt activity is being carried on” substitute “payment, in respect of each place where any such exempt activity is being carried on, of any fee that may be required under regulation 20B”;
+
+(b) in paragraph (9) for “and 47” substitute “, 47 and 49 to 52”;
+
+(c) in paragraph (11)(b) for “specified in accordance with paragraph (12)” substitute “required under regulation 20B”;
+
+(d) omit paragraph (12).
+
+(6) After regulation 20A insert—
+
+> **20B Fees and charges for registration in connection with exempt activities**
+>
+> (1) There are to be charged by and paid to the Department—
+>
+> (a) in respect of applications for registration, and
+>
+> (b) in respect of the subsistence of registrations,
+>
+> such fees and charges as may be provided for by a scheme under paragraph (2) (but this is subject to regulations 18(4A) and 19(2)).
+>
+> (2) The Department may make, and from time to time revise, a scheme (“a charging scheme”) specifying—
+>
+> (a) fees in respect of applications for registration, payable to the Department, by the applicant, in respect of each place to which an application relates;
+>
+> (b) charges in respect of the subsistence of registrations, payable to the Department by persons to whom registrations have been issued.
+>
+> (3) The Department must, when it makes or amends a charging scheme—
+>
+> (a) lay a copy of the scheme or amendments before the Assembly, and
+>
+> (b) publish the scheme or the amendments.
+>
+> (4) A charging scheme may in particular—
+>
+> (a) provide for fees or charges payable in respect of applications or the subsistence of registrations to differ according to the activities to which the applications or registrations relate (including by providing for no fee or charge in the case of some activities);
+>
+> (b) provide for reductions of fees where conditions specified in the scheme are met;
+>
+> (c) provide for the times at which, and the manner in which, payments of fees or charges are to be made;
+>
+> (d) make such incidental, supplementary and transitional provision as appears to the Department to be appropriate.
+>
+> (5) If it appears to the Department that a person to whom a registration has been issued has failed to pay a charge due in respect of the subsistence of the registration, the Department may, by notice in writing served on that person, revoke the registration.
+>
+> (6) In this regulation—
+>
+> (a) “registration” means registration under regulation 18;
+>
+> (b) any reference to an application for registration includes an application for renewal of a registration.
+
+#### 66 Enforcement powers
+
+Schedule 10 amends legislation about enforcement powers in relation to waste and other environmental matters.
+
+#### 67 Enforcement powers: Northern Ireland
+
+(1) Article 27 of the Waste and Contaminated Land (Northern Ireland) Order 1997 (S.I. 1997/2778 (N.I. 19)) (power to give directions) is amended as follows.
+
+(2) In paragraph (2) omit the words from “with a view” to the end.
+
+(3) After paragraph (2) insert—
+
+> (2A) The Department may by notice—
+>
+> (a) direct a registered carrier to collect controlled waste which is being kept in or on specified land and deliver it to a specified person on specified terms;
+>
+> (b) direct any person who—
+>
+> (i) is keeping controlled waste in or on any land, or
+>
+> (ii) owns or occupies land in or on which controlled waste is being kept,
+>
+> to facilitate collection of the waste by a specified registered carrier to whom a direction in respect of the waste is given under sub-paragraph (a).
+
+(4) In paragraph (3) for “paragraph (1) or (2)” substitute “this Article”.
+
+(5) In paragraph (4), for “of treating or disposing of” substitute “in relation to”.
+
+(6) After paragraph (4) insert—
+
+> (4A) A direction under paragraph (2A)(b) may require the person to whom it is given—
+>
+> (a) to pay to the specified registered carrier the reasonable costs of collecting and delivering the waste;
+>
+> (b) to pay to the specified person to whom the waste is delivered (“P”) the reasonable costs incurred by P in relation to the waste (including any costs P is required by a direction under this Article to pay to another person).
+
+(7) In paragraph (5) for “paragraph (1) or (2)” substitute “this Article”.
+
+(8) In paragraph (6) for “paragraph (1) or (2)” substitute “this Article”.
+
+(9) In paragraph (7) for the words from “, where” to the end substitute “pay any costs mentioned in paragraph (4) or (4A).”
+
+(10) For paragraph (8) substitute—
+
+> (8) In this Article—
+>
+> - “specified” means specified in a direction under this Article;
+> - “registered carrier” means a person registered under Article 39 as a carrier of controlled waste.
+
+#### 68 Littering enforcement
+
+(1) Part 4 of the Environmental Protection Act 1990 is amended as follows.
+
+(2) In Section 88 (fixed penalty notices for leaving litter), for subsection (11) substitute—
+
+> (11) The appropriate person may by regulations provide that—
+>
+> (a) an authorised officer of a litter authority must meet such conditions as may be prescribed in the regulations;
+>
+> (b) if an authorised officer of a litter authority fails to meet any such condition, the authority must revoke the officer’s authorisation.
+>
+> (12) Regulations under subsection (11) may make different provision for different cases.
+>
+> (13) Before making regulations under subsection (11), the appropriate person must consult such persons as the appropriate person thinks appropriate.
+
+(3) After section 88A insert—
+
+> **88B Guidance on littering enforcement in England and Wales**
+>
+> (1) The appropriate person may issue guidance to litter authorities on the exercise of littering enforcement functions by those authorities and authorised officers of those authorities.
+>
+> (2) A litter authority must have regard to that guidance when exercising any of its littering enforcement functions.
+>
+> (3) The appropriate person may revise any guidance issued under this section at any time.
+>
+> (4) Before issuing guidance, or revised guidance, under this section the appropriate person must consult such persons as the appropriate person thinks appropriate.
+>
+> (5) The Secretary of State must lay before Parliament and publish guidance, and any revised guidance, issued by the Secretary of State under this section.
+>
+> (6) The Welsh Ministers must lay before Senedd Cymru and publish guidance, and any revised guidance, issued by the Welsh Ministers under this section.
+>
+> (7) In this section—
+>
+> - “authorised officer”, in relation to a litter authority, means a person who is an authorised officer in relation to that authority for the purposes of—
+>
+>   - section 88 (fixed penalty notices for littering, see subsection (10) of that section),
+>   - section 88A (fixed penalty notices for littering from vehicles in England, see subsection (4) of that section), or
+>   - Schedule 3A (distribution of free printed matter, see paragraph 8 of that Schedule);
+>
+> - “littering enforcement function” means—
+>
+>   - any function of a litter authority, or of an authorised officer of that authority, conferred by or under sections 87 to 88A or Schedule 3A, or
+>   - any function exercised for purposes connected with any of those sections or that Schedule.
+
+(4) In section 98(1A) (definition of appropriate person), in paragraph (b) for “National Assembly for Wales” substitute “Welsh Ministers”.
+
+#### 69 Fixed penalty notices
+
+(1) The Environmental Protection Act 1990 is amended as follows.
+
+(2) In section 33ZA (fixed penalty notices relating to depositing, treatment or disposal of waste: England)—
+
+(a) in subsection (10), for the words from “the period” to the end substitute “a period specified by the authority.”;
+
+(b) after that subsection insert—
+
+> (10A) The Secretary of State may by regulations substitute different amounts for the amounts for the time being specified in subsections (9) and (10).
+
+(3) In section 33ZB (fixed penalty notices relating to depositing, treatment or disposal of waste: Wales)—
+
+(a) in subsection (10), for the words from “the period” to the end substitute “a period specified by the authority.”;
+
+(b) after that subsection insert—
+
+> (10A) The Welsh Ministers may by regulations substitute different amounts for the amounts for the time being specified in subsections (9) and (10).
+
+(4) In section 34ZA (fixed penalty notices relating to transfer of household waste: England)—
+
+(a) in subsection (9), for the words from “within” to the end substitute “before the end of a period specified by the authority.”;
+
+(b) after that subsection insert—
+
+> (9A) The Secretary of State may by regulations substitute different amounts for the amounts for the time being specified in subsections (7)(b), (8) and (9).
+
+(5) In section 34ZB (fixed penalty notices relating to transfer of household waste: Wales)—
+
+(a) in subsection (8), for the words from “the period” to the end substitute “a period specified by the authority.”;
+
+(b) after that subsection insert—
+
+> (8A) The Welsh Ministers may by regulations substitute different amounts for the amounts for the time being specified in subsections (7) and (8).
+
+#### 70 Regulation of polluting activities
+
+In Schedule 1 to the Pollution Prevention and Control Act 1999, in paragraph 4 (permits)—
+
+(a) the existing text becomes sub-paragraph (1);
+
+(b) after that sub-paragraph insert—
+
+> (2) In relation to England and Wales, imposing such a prohibition in relation to an activity except where the carrying on of the activity meets conditions determined by the regulators in accordance with the regulations.
+
+#### 71 Waste regulation: amendment of Northern Ireland Order
+
+(1) In Article 2(2) of the Waste and Contaminated Land (Northern Ireland) Order 1997 (S.I. 1997/2778 (N.I. 19)), in the definition of “the Department”, for “the Department of the Environment” substitute “the Department of Agriculture, Environment and Rural Affairs”.
+
+(2) To the extent that immediately before the commencement of this section a reference in that Order to “the Department” was to be read as being or including a reference to a department other than the Department of Agriculture, Environment and Rural Affairs (by virtue of Article 9(1) of the Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. (N.I.) 2016 No. 76) or otherwise), it is to continue to be so read.
+
+## PART 4 — Air quality and environmental recall
+
+### Air quality
+
+#### 72 Local air quality management framework
+
+Schedule 11 contains amendments of Part 4 of the Environment Act 1995 (air quality).
+
+#### 73 Smoke control areas: amendments of the Clean Air Act 1993
+
+Schedule 12 makes provision—
+
+(a) for imposing financial penalties for the emission of smoke in smoke control areas in England,
+
+(b) about offences relating to the sale and acquisition of solid fuel in England,
+
+(c) for applying smoke control orders to vessels in England, and
+
+(d) for authorised fuels and exempted fireplaces to be listed in Wales.
+
+### Environmental recall of motor vehicles etc
+
+#### 74 Environmental recall of motor vehicles etc
+
+(1) The Secretary of State may by regulations make provision for, about or connected with the recall of relevant products that do not meet relevant environmental standards.
+
+(2) A “relevant product” is a product specified or described in the regulations.
+
+(3) Only the following types of product may be specified or described in the regulations—
+
+(a) a mechanically propelled vehicle;
+
+(b) a part of a mechanically propelled vehicle;
+
+(c) an engine that is, or forms part of, machinery that is transportable (including by way of self-propulsion);
+
+(d) a part of such an engine, or any other part of such machinery that is connected with the operation of the engine.
+
+(4) A “relevant environmental standard” means a standard that—
+
+(a) by virtue of any enactment, a relevant product must meet,
+
+(b) is relevant to the environmental impact of that product, and
+
+(c) is specified in the regulations,
+
+and the regulations may provide that a reference in the regulations to a standard is to be construed as a reference to that standard as it has effect from time to time.
+
+(5) In subsection (4)(a) “enactment” has the same meaning as in the European Union (Withdrawal) Act 2018.
+
+(6) In subsection (4)(b) “environmental impact”, in relation to a relevant product, includes any impact on the environment caused by noise, heat or vibrations or any other kind of release of energy or emissions resulting from the use of the product.
+
+(7) Regulations under subsection (1) are subject to the affirmative procedure.
+
+(8) Sections 75 to 77 make further provision about regulations under subsection (1).
+
+#### 75 Compulsory recall notices
+
+(1) Regulations under section 74(1) may make provision for, about or connected with a power of the Secretary of State to give a compulsory recall notice to a manufacturer or distributor of a relevant product.
+
+(2) A “compulsory recall notice” is a notice that requires the recipient of the notice to organise the return of a relevant product to the recipient, or to any other person specified in the notice, from persons who have been supplied (whether or not directly by the recipient) with the product.
+
+(3) Provision for the Secretary of State to give a compulsory recall notice in relation to a relevant product must not permit the giving of such a notice unless the Secretary of State has reasonable grounds for believing the product does not meet a relevant environmental standard.
+
+(4) The regulations may provide that, where a relevant product forms part of another product, a compulsory recall notice may require its recipient to organise the return of that other product (whether or not it is a relevant product).
+
+(5) The regulations may provide that a compulsory recall notice may impose supplementary requirements on its recipient.
+
+(6) The regulations may confer a power on the Secretary of State to give a recipient of a compulsory recall notice a further notice (a “supplementary notice”) that imposes supplementary requirements on its recipient.
+
+(7) The following are examples of supplementary requirements—
+
+(a) to secure that at least a specified proportion of products subject to a compulsory recall notice that are manufactured or distributed by the recipient are returned in accordance with the notice;
+
+(b) to publicise a compulsory recall notice;
+
+(c) to provide information to the Secretary of State;
+
+(d) a prohibition on supplying, or offering or agreeing to supply, a product subject to a compulsory recall notice;
+
+(e) to pay such compensation to a person who returns a product subject to a compulsory recall notice as may be specified;
+
+(f) to make other specified arrangements for the purpose of mitigating the effect of returning a product on the person who returns it;
+
+(g) to destroy, or arrange for the destruction of, a returned product;
+
+(h) to take steps to modify, or arrange for the modification of, a returned product for the purpose of ensuring that the product complies with relevant environmental standards;
+
+(i) to organise the return of a returned product to the person who initially returned it;
+
+(j) to otherwise dispose of the product in such manner as may be specified.
+
+(8) In subsection (7) “specified” means specified, or described, in a compulsory recall notice or a supplementary notice.
+
+(9) The regulations may—
+
+(a) make provision about appeals against a decision to give a compulsory recall notice or a supplementary notice;
+
+(b) make provision about the withdrawal of compulsory recall notices and supplementary notices (including provision about the effect of withdrawal).
+
+#### 76 Further provision about regulations under section 74
+
+(1) Regulations under section 74(1) may impose a duty on a manufacturer or distributor of a relevant product to notify the Secretary of State if the person has reason to consider that the product does not meet a relevant environmental standard.
+
+(2) The regulations may confer a power on the Secretary of State—
+
+(a) to require the provision of information by a manufacturer or distributor of a relevant product for the purpose of enabling the Secretary of State to consider whether, or how, to exercise a power to give a compulsory recall notice or a supplementary notice;
+
+(b) to require the provision of samples of relevant products by such a manufacturer or distributor for that purpose.
+
+(3) The regulations may make provision for, about or connected with the enforcement of requirements imposed by or under the regulations including provision—
+
+(a) for, about or connected with the designation of a person to exercise functions in connection with the enforcement of the requirements (“the enforcement authority”);
+
+(b) for the functions of the enforcement authority to be exercised on its behalf by persons authorised in accordance with the regulations;
+
+(c) requiring the provision of information by a manufacturer or distributor of a relevant product for purposes connected with the enforcement of the requirements;
+
+(d) requiring the provision of samples of relevant products by such a manufacturer or distributor for those purposes;
+
+(e) for, about or connected with the imposition of financial penalties by the enforcement authority;
+
+(f) for the amount of financial penalties to be determined by the enforcement authority in accordance with the regulations;
+
+(g) for such a determination to be made by reference to factors specified in the regulations which may include, for example, the turnover of a business or the costs of complying with the requirement being enforced (and the regulations may provide that the amount of a financial penalty may exceed the amount of those costs);
+
+(h) about appeals against the imposition of a financial penalty.
+
+(4) The regulations may confer powers on the enforcement authority—
+
+(a) to enter the premises of a manufacturer or distributor of a relevant product;
+
+(b) to take documents or records from those premises (or make copies of such documents or records);
+
+(c) to take samples of relevant products found on those premises,
+
+where the authority has reasonable grounds for suspecting that the manufacturer or distributor has failed to comply with a requirement imposed by or under the regulations.
+
+(5) The regulations may make provision about warrants in connection with any power conferred by virtue of subsection (4).
+
+#### 77 Interpretation of sections 74 to 76
+
+In sections 74 to 76—
+
+- “compulsory recall notice” has the meaning given by section 75(2);
+
+- “distributor” has the meaning given by regulations under section 74(1), but may only include a person acting in the course of business;
+
+- “manufacturer” has the meaning given by regulations under section 74(1) which may define that term by reference (in particular) to—
+
+  - a person’s involvement in the manufacture of a relevant product, or
+  - a person’s relationship with a person involved in the manufacture of a relevant product;
+
+- “relevant environmental standard” has the meaning given by section 74(4);
+
+- “relevant product” has the meaning given by section 74(2);
+
+- “supplementary notice” has the meaning given by section 75(6).
+
+## PART 5 — Water
+
+### Plans and proposals
+
+#### 78 Water resources management plans, drought plans and joint proposals (prospective)
+
+(1) Chapter 1 of Part 3 of the Water Industry Act 1991 (general duties of water undertakers) is amended as follows.
+
+(2) In section 37A (water resources management plans)—
+
+(a) in the heading omit “: preparation and review”;
+
+(b) in subsection (3)(b) omit from “(also” to the end;
+
+(c) in subsection (4)—
+
+(i) at the beginning insert “Section 39F contains provision about”;
+
+(ii) omit “is set out in section 37B below”;
+
+(d) in subsection (6) omit the words after paragraph (c);
+
+(e) omit subsection (8);
+
+(f) omit subsection (10).
+
+(3) Omit sections 37B and 37C (water resources management plans: publication and provision of information).
+
+(4) In section 37D (water resources management plans: supplementary)—
+
+(a) in subsection (1), in the words before paragraph (a), for “, 37AA or 37B” substitute “or 37AA”;
+
+(b) in subsection (3)—
+
+(i) in paragraph (a) for “to 37C” substitute “and 37AA”;
+
+(ii) omit paragraph (b) (and the “and” before it).
+
+(5) In section 39B (drought plans)—
+
+(a) in the heading omit “: preparation and review”;
+
+(b) in subsection (4)(b) omit from “(also” to the end;
+
+(c) for subsection (5) substitute—
+
+> (5) Section 39F makes provision about the procedure for preparing and publishing a drought plan (or revised plan).
+
+;
+
+(d) in subsection (6)—
+
+(i) in paragraph (c) omit from “in accordance” to the end;
+
+(ii) omit the words after paragraph (c);
+
+(e) omit subsection (7);
+
+(f) in subsection (9), in the words before paragraph (a), omit from “(including” to “above)”.
+
+(6) Omit section 39C (drought plans: provision of information).
+
+(7) After section 39D insert—
+
+> **39E Joint proposals**
+>
+> (1) The Minister may give a direction to two or more water undertakers to prepare and publish a joint proposal.
+>
+> (2) A joint proposal is a proposal that identifies measures that may be taken jointly by the undertakers for the purpose of improving the management and development of water resources.
+>
+> (3) A joint proposal must not contain measures that (if taken) would result in any water undertaker being unable to meet its obligations under this Part.
+>
+> (4) A direction under this section may, in particular, require that—
+>
+> (a) a joint proposal takes a specified form;
+>
+> (b) a joint proposal addresses a specified matter;
+>
+> (c) a joint proposal be prepared—
+>
+> (i) in relation to a specified area;
+>
+> (ii) by reference to specified criteria;
+>
+> (iii) on the basis of a specified assumption.
+>
+> (5) Directions under this section are to be given by an instrument in writing.
+>
+> (6) Each water undertaker to whom a direction applies must comply with the direction.
+>
+> (7) The duties of a water undertaker under this section are enforceable by the Minister under section 18.
+>
+> (8) In this section “the Minister” means—
+>
+> (a) the Secretary of State, in relation to water undertakers whose areas are wholly or mainly in England, and
+>
+> (b) the Welsh Ministers, in relation to water undertakers whose areas are wholly or mainly in Wales.
+>
+> (9) In this section “specified” means specified in a direction under this section.
+>
+> **39F Plans and joint proposals: regulations about procedure**
+>
+> (1) The Minister may by regulations make provision about the procedure for preparing and publishing—
+>
+> (a) a water resources management plan,
+>
+> (b) a drought plan, and
+>
+> (c) a joint proposal,
+>
+> including any revised plans or proposals.
+>
+> (2) The regulations may provide for the sharing of information and, in particular, may require a water supply licensee to share such information with a water undertaker as may be reasonably requested.
+>
+> (3) The regulations may make provision about consultation to be carried out by water undertakers, including provision about—
+>
+> (a) the persons to be consulted,
+>
+> (b) the frequency and timing of any consultation, and
+>
+> (c) the publication of statements relating to any consultation.
+>
+> (4) The regulations may make provision about the preparation and circulation of drafts, including provision for the Minister to require changes to a draft plan or proposal.
+>
+> (5) The regulations may make provision for the purposes of ensuring that persons likely to be affected by the plan or proposal have a reasonable opportunity to make representations to the Minister.
+>
+> (6) The regulations may make provision about how representations (and any comments on them by a water undertaker) are to be dealt with, and in respect of a plan mentioned in subsection (1)(a) or (b), the regulations may provide for—
+>
+> (a) the Minister to cause an inquiry or other hearing to be held in connection with the plan, and
+>
+> (b) section 250(2) to (5) of the Local Government Act 1972 (local inquiries: evidence and costs) to apply to such an inquiry or hearing (with or without modifications).
+>
+> (7) The regulations may make provision about commercially confidential information and its publication.
+>
+> (8) In this section “the Minister” means—
+>
+> (a) the Secretary of State, in relation to water undertakers whose areas are wholly or mainly in England, and
+>
+> (b) the Welsh Ministers, in relation to water undertakers whose areas are wholly or mainly in Wales.
+>
+> **39G Regulations under section 39F: directions**
+>
+> (1) Regulations made under section 39F may confer on the Minister power to make provision by directions.
+>
+> (2) Those directions are to be given by an instrument in writing.
+>
+> (3) They may be—
+>
+> (a) general directions applying to all water undertakers, or
+>
+> (b) directions applying only to one or more water undertakers specified in the directions.
+>
+> (4) Each water undertaker to whom a direction applies must comply with the direction.
+>
+> (5) The duties of a water undertaker under this section are enforceable by the Minister under section 18.
+>
+> (6) In this section “the Minister” has the same meaning as in section 39F.
+>
+> **39H Regulations under section 39F: supplementary**
+>
+> (1) Regulations under section 39F are to be made by statutory instrument.
+>
+> (2) A statutory instrument containing regulations under section 39F is subject to annulment in pursuance of a resolution of—
+>
+> (a) either House of Parliament, in the case of regulations made by the Secretary of State;
+>
+> (b) Senedd Cymru, in the case of regulations made by the Welsh Ministers.
+>
+> (3) Subsection (4) applies in relation to a statutory instrument containing both—
+>
+> (a) regulations made by the Secretary of State under section 39F, and
+>
+> (b) regulations made by the Welsh Ministers under section 39F.
+>
+> (4) If in accordance with subsection (2)(a) or (b) (negative resolution procedure)—
+>
+> (a) either House of Parliament resolves that an address be presented to Her Majesty praying that an instrument containing regulations made by the Secretary of State be annulled, or
+>
+> (b) Senedd Cymru resolves that an instrument containing regulations made by the Welsh Ministers be annulled,
+>
+> the instrument is to have no further effect and Her Majesty may by Order in Council revoke the instrument.
+>
+> (5) Section 213(2) to (2B) applies to regulations made by the Welsh Ministers under section 39F as it applies to regulations made by the Secretary of State.
+
+#### 79 Drainage and sewerage management plans
+
+In the Water Industry Act 1991, after section 94 insert—
+
+> **94A Drainage and sewerage management plans: preparation and review**
+>
+> (1) Each sewerage undertaker must prepare, publish and maintain a drainage and sewerage management plan.
+>
+> (2) A drainage and sewerage management plan is a plan for how the sewerage undertaker will manage and develop its drainage system and sewerage system so as to be able, and continue to be able, to meet its obligations under this Part.
+>
+> (3) A drainage and sewerage management plan must address in particular—
+>
+> (a) the capacity of the undertaker’s drainage system and sewerage system,
+>
+> (b) an assessment of the current and future demands on the undertaker’s drainage system and sewerage system,
+>
+> (c) the resilience of the undertaker’s drainage system and sewerage system,
+>
+> (d) the measures the undertaker intends to take or continue for the purpose in subsection (2),
+>
+> (e) the likely sequence and timing for implementing those measures,
+>
+> (f) relevant environmental risks and how those risks are to be mitigated, and
+>
+> (g) any other matters specified by the Minister in directions.
+>
+> (4) Section 94C contains provision about the preparation and publication of a drainage and sewerage management plan (including a revised plan).
+>
+> (5) Before each anniversary of the date when its plan (or revised plan) was last published, the sewerage undertaker must—
+>
+> (a) review its plan, and
+>
+> (b) send a statement of the conclusions of its review to the Minister.
+>
+> (6) The sewerage undertaker must prepare and publish a revised plan in each of the following cases—
+>
+> (a) following conclusion of its annual review, if the review indicated a material change of circumstances;
+>
+> (b) if directed to do so by the Minister;
+>
+> (c) in any event, not later than the end of the period of 5 years beginning with the date when the plan (or the revised plan) was last published.
+>
+> (7) The Minister may give directions specifying—
+>
+> (a) the form which a drainage and sewerage management plan must take;
+>
+> (b) the planning period to which a drainage and sewerage management plan must relate.
+>
+> (8) The duties of a sewerage undertaker under this section are enforceable by the Minister under section 18.
+>
+> (9) In this section references—
+>
+> (a) to a drainage system of a sewerage undertaker, are to any drainage system (within the meaning of section 114A) maintained or operated by the sewerage undertaker which is not part of its sewerage system;
+>
+> (b) to the sewerage system of a sewerage undertaker, have the same meaning as in Chapter 1A of Part 2 (see section 17BA(7)).
+>
+> (10) In this section “the Minister” means—
+>
+> (a) the Secretary of State, in relation to sewerage undertakers whose areas are wholly or mainly in England, and
+>
+> (b) the Welsh Ministers, in relation to sewerage undertakers whose areas are wholly or mainly in Wales.
+>
+> **94B Drainage and sewerage management plans: power to amend period**
+>
+> (1) The Minister may by order made by statutory instrument amend the period for the time being specified in section 94A(6)(c).
+>
+> (2) In subsection (1) “the Minister” means—
+>
+> (a) the Secretary of State, in relation to sewerage undertakers whose areas are wholly or mainly in England, and
+>
+> (b) the Welsh Ministers, in relation to sewerage undertakers whose areas are wholly or mainly in Wales.
+>
+> (3) A statutory instrument containing an order under subsection (1) is subject to annulment in pursuance of a resolution of—
+>
+> (a) either House of Parliament, in the case of an order made by the Secretary of State;
+>
+> (b) Senedd Cymru, in the case of an order made by the Welsh Ministers.
+>
+> (4) Subsection (5) applies in relation to a statutory instrument containing both—
+>
+> (a) an order made by the Secretary of State under subsection (1), and
+>
+> (b) an order made by the Welsh Ministers under subsection (1).
+>
+> (5) If in accordance with subsection (3)(a) or (b) (negative resolution procedure)—
+>
+> (a) either House of Parliament resolves that an address be presented to Her Majesty praying that an instrument containing regulations made by the Secretary of State be annulled, or
+>
+> (b) Senedd Cymru resolves that an instrument containing regulations made by the Welsh Ministers be annulled,
+>
+> the instrument is to have no further effect and Her Majesty may by Order in Council revoke the instrument.
+>
+> **94C Drainage and sewerage management plans: regulations about procedure**
+>
+> (1) The Minister may by regulations make provision about the procedure for preparing and publishing a drainage and sewerage management plan (including a revised plan).
+>
+> (2) The regulations may provide for the sharing of information and, in particular, may require a sewerage licensee to share such information with a sewerage undertaker as may be reasonably requested.
+>
+> (3) The regulations may make provision about consultation to be carried out by sewerage undertakers, including provision about—
+>
+> (a) the persons to be consulted,
+>
+> (b) the frequency and timing of any consultation, and
+>
+> (c) the publication of statements relating to any consultation.
+>
+> (4) The regulations may make provision about the preparation and circulation of draft plans, including provision for the Minister to require changes to a draft plan.
+>
+> (5) The regulations may make provision for the purposes of ensuring that persons likely to be affected by the plan have a reasonable opportunity to make representations to the Minister.
+>
+> (6) The regulations may make provision about how representations (and any comments on them by the sewerage undertaker) are to be dealt with, including provision for—
+>
+> (a) the Minister to cause an inquiry or other hearing to be held in connection with the plan, and
+>
+> (b) section 250(2) to (5) of the Local Government Act 1972 (local inquiries: evidence and costs) to apply to such an inquiry or hearing (with or without modifications).
+>
+> (7) The regulations may make provision about commercially confidential information and its publication.
+>
+> (8) The regulations may confer on the Minister power to make provision by directions.
+>
+> (9) In this section “the Minister” means—
+>
+> (a) the Secretary of State, in relation to sewerage undertakers whose areas are wholly or mainly in England, and
+>
+> (b) the Welsh Ministers, in relation to sewerage undertakers whose areas are wholly or mainly in Wales.
+>
+> **94D Regulations under section 94C: supplementary**
+>
+> (1) Regulations under section 94C are to be made by statutory instrument.
+>
+> (2) A statutory instrument containing regulations under section 94C is subject to annulment in pursuance of a resolution of—
+>
+> (a) either House of Parliament, in the case of regulations made by the Secretary of State, and
+>
+> (b) Senedd Cymru, in the case of regulations made by the Welsh Ministers.
+>
+> (3) Subsection (4) applies in relation to a statutory instrument containing both—
+>
+> (a) regulations made by the Secretary of State under section 94C, and
+>
+> (b) regulations made by the Welsh Ministers under section 94C.
+>
+> (4) If in accordance with subsection (2)(a) or (b) (negative resolution procedure)—
+>
+> (a) either House of Parliament resolves that an address be presented to Her Majesty praying that an instrument containing regulations made by the Secretary of State be annulled, or
+>
+> (b) Senedd Cymru resolves that an instrument containing regulations made by the Welsh Ministers be annulled,
+>
+> the instrument is to have no further effect and Her Majesty may by Order in Council revoke the instrument.
+>
+> (5) Section 213(2) to (2B) applies to regulations made by the Welsh Ministers under section 94C as it applies to regulations made by the Secretary of State.
+>
+> **94E Drainage and sewerage management plans: directions**
+>
+> (1) In this section “directions” means directions given under—
+>
+> (a) section 94A, or
+>
+> (b) regulations under section 94C.
+>
+> (2) Directions are to be given by an instrument in writing.
+>
+> (3) Directions may be—
+>
+> (a) general directions applying to all sewerage undertakers, or
+>
+> (b) directions applying only to one or more sewerage undertakers specified in the directions.
+>
+> (4) Each sewerage undertaker to whom a direction applies must comply with the direction.
+>
+> (5) The duties of a sewerage undertaker under this section are enforceable under section 18 by—
+>
+> (a) the Secretary of State, in the case of directions given by the Secretary of State, and
+>
+> (b) the Welsh Ministers, in the case of directions given by the Welsh Ministers.
+
+### Storm overflows
+
+#### 80 Storm overflows
+
+(1) In Part 4 of the Water Industry Act 1991 (sewerage services), after Chapter 3 insert—
+
+> **CHAPTER 4 — Storm overflows**
+>
+> **141A Storm overflow discharge reduction plan**
+>
+> (1) The Secretary of State must prepare a plan for the purposes of—
+>
+> (a) reducing discharges from the storm overflows of sewerage undertakers whose area is wholly or mainly in England, and
+>
+> (b) reducing the adverse impacts of those discharges.
+>
+> (2) The reference in subsection (1)(a) to reducing discharges of sewage includes—
+>
+> (a) reducing the frequency and duration of the discharges, and
+>
+> (b) reducing the volume of the discharges.
+>
+> (3) The reference in subsection (1)(b) to reducing adverse impacts includes—
+>
+> (a) reducing adverse impacts on the environment, and
+>
+> (b) reducing adverse impacts on public health.
+>
+> (4) The plan may in particular include proposals for—
+>
+> (a) reducing the need for anything to be discharged by the storm overflows;
+>
+> (b) treating sewage that is discharged by the storm overflows;
+>
+> (c) monitoring the quality of watercourses, bodies of water or water in underground strata into which the storm overflows discharge;
+>
+> (d) obtaining information about the operation of the storm overflows.
+>
+> (5) When preparing the plan the Secretary of State must consult—
+>
+> (a) the Environment Agency,
+>
+> (b) the Authority,
+>
+> (c) the Council,
+>
+> (d) Natural England,
+>
+> (e) sewerage undertakers whose area is wholly or mainly in England, or persons representing them, and
+>
+> (f) such other persons as the Secretary of State considers appropriate.
+>
+> (6) The Secretary of State must publish the plan before 1 September 2022.
+>
+> (7) The Secretary of State may at any time revise the plan, having consulted the persons referred to in subsection (5), and must publish any revised version.
+>
+> (8) The plan, and any revised version of it, must be laid before Parliament once it is published.
+>
+> **141B Progress reports on storm overflow discharge reduction plan**
+>
+> (1) The Secretary of State must publish reports (“progress reports”) relating to the plan under section 141A.
+>
+> (2) A progress report is to contain the Secretary of State’s assessment of—
+>
+> (a) the progress made, during the period to which the report relates, in implementing the proposals in the plan (or any revised version of it), and
+>
+> (b) the effect of that progress on the matters referred to in section 141A(1)(a) and (b).
+>
+> (3) The first progress report must relate to the period of three years beginning with the day on which the plan under section 141A is first published.
+>
+> (4) Subsequent progress reports must relate to successive periods of five years after the period referred to in subsection (3).
+>
+> (5) A progress report must be published within 12 weeks following the last day of the period to which it relates.
+>
+> (6) A progress report must be laid before Parliament once it is published.
+>
+> **141C Annual reports on discharges from storm overflows**
+>
+> (1) A sewerage undertaker whose area is wholly or mainly in England must publish annual reports in relation to the undertaker’s storm overflows (“storm overflow reports”).
+>
+> (2) A storm overflow report must specify, for each of the sewerage undertaker’s storm overflows—
+>
+> (a) the location of the storm overflow;
+>
+> (b) the watercourse, body of water or underground strata into which the storm overflow discharges;
+>
+> (c) the frequency and duration of discharges from the storm overflow in the period to which the report relates;
+>
+> (d) where the information is available, the volume of each discharge in that period;
+>
+> (e) information on any investigations that have taken place or improvement works that have been undertaken in relation to the storm overflow during that period.
+>
+> (3) Storm overflow reports are to relate to successive calendar years, starting with 2021.
+>
+> (4) A storm overflow report must be published by a sewerage undertaker before 1 April in the year after the calendar year to which it relates.
+>
+> (5) A storm overflow report must—
+>
+> (a) be in a form which allows the public readily to understand the information contained in the report, and
+>
+> (b) be published in a way which makes the report readily accessible to the public.
+>
+> (6) The duties of a sewerage undertaker under this section are enforceable under section 18 by—
+>
+> (a) the Secretary of State, or
+>
+> (b) the Authority, with the consent of or in accordance with a general authorisation given by the Secretary of State.
+>
+> **141D Environment Agency reports**
+>
+> (1) The Environment Agency must publish annual reports in relation to the operation of storm overflows of sewerage undertakers whose area is wholly or mainly in England.
+>
+> (2) A report under this section must specify—
+>
+> (a) the location of the storm overflows;
+>
+> (b) the watercourse, body of water or underground strata into which the storm overflows discharge;
+>
+> (c) the frequency and duration of discharges from the storm overflows in the period to which the report relates;
+>
+> (d) where the information is available, the volume of each discharge in that period.
+>
+> (3) Reports under this section are to relate to successive calendar years, starting with 2021.
+>
+> (4) A storm overflow report must be published by the Environment Agency —
+>
+> (a) before 1 April in the year after the calendar year to which it relates, and
+>
+> (b) in such manner as the Environment Agency thinks fit.
+>
+> **141E Interpretation of Chapter 4**
+>
+> (1) In this Chapter, references to a storm overflow of a sewerage undertaker are to any structure or apparatus—
+>
+> (a) which is comprised in the sewerage system of the sewerage undertaker, and
+>
+> (b) which, when the capacity of other parts of the system downstream or of storage tanks at sewage disposal works is exceeded, relieves them by discharging their excess contents into inland waters, underground strata or the sea.
+>
+> (2) References in this Chapter to discharges from a storm overflow do not include discharges occurring as a result of—
+>
+> (a) electrical power failure at sewage disposal works,
+>
+> (b) mechanical breakdown at sewage disposal works,
+>
+> (c) rising main failure, or
+>
+> (d) blockage of any part of the sewerage system downstream of the storm overflow.
+>
+> (3) Section 17BA(7) (meaning of sewerage system of a sewerage undertaker) applies for the purposes of subsection (1).
+
+#### 81 Reporting on discharges from storm overflows
+
+In Chapter 4 of Part 4 of the Water Industry Act 1991 (as inserted by section 80 above), after section 141D insert—
+
+> **141DA Reporting on discharges from storm overflows**
+>
+> (1) Where there is a discharge from a storm overflow of a sewerage undertaker whose area is wholly or mainly in England, the undertaker must publish the following information—
+>
+> (a) that there has been a discharge from the storm overflow;
+>
+> (b) the location of the storm overflow;
+>
+> (c) when the discharge began;
+>
+> (d) when the discharge ended.
+>
+> (2) The information referred to in subsection (1)(a) to (c) must be published within an hour of the discharge beginning; and that referred to in subsection (1)(d) within an hour of it ending.
+>
+> (3) The information must—
+>
+> (a) be in a form which allows the public readily to understand it, and
+>
+> (b) be published in a way which makes it readily accessible to the public.
+>
+> (4) The duty of a sewerage undertaker under this section is enforceable under section 18 by—
+>
+> (a) the Secretary of State, or
+>
+> (b) the Authority, with the consent of or in accordance with a general authorisation given by the Secretary of State.
+>
+> (5) The Secretary of State may by regulations make provision for exceptions from the duty in subsection (1) or (2) (for example, by reference to descriptions of storm overflows, frequency of discharge or the level of risk to water quality).
+>
+> (6) Before making regulations under this section the Secretary of State must consult such persons as the Secretary of State considers appropriate.
+>
+> (7) The Secretary of State may not make regulations under this section unless a draft of the statutory instrument containing the regulations has been laid before, and approved by resolution of, each House of Parliament.
+
+#### 82 Monitoring quality of water potentially affected by discharges
+
+(1) In Chapter 4 of Part 4 of the Water Industry Act 1991, after section 141DA insert—
+
+> **141DB Monitoring quality of water potentially affected by discharges from storm overflows and sewage disposal works**
+>
+> (1) A sewerage undertaker whose area is wholly or mainly in England must continuously monitor the quality of water upstream and downstream of an asset within subsection (2) for the purpose of obtaining the information referred to in subsection (3).
+>
+> (2) The assets referred to in subsection (1) are—
+>
+> (a) a storm overflow of the sewerage undertaker, and
+>
+> (b) sewage disposal works comprised in the sewerage system of the sewerage undertaker,
+>
+> where the storm overflow or works discharge into a watercourse.
+>
+> (3) The information referred to in subsection (1) is information as to the quality of the water by reference to—
+>
+> (a) levels of dissolved oxygen,
+>
+> (b) temperature and pH values,
+>
+> (c) turbidity,
+>
+> (d) levels of ammonia, and
+>
+> (e) anything else specified in regulations made by the Secretary of State.
+>
+> (4) The duty of a sewerage undertaker under this section is enforceable under section 18 by—
+>
+> (a) the Secretary of State, or
+>
+> (b) the Authority, with the consent of or in accordance with a general authorisation given by the Secretary of State.
+>
+> (5) The Secretary of State may by regulations make —
+>
+> (a) provision as how the duty under subsection (1) is to be carried out (for example, provision as to the type of monitor to be used and where monitors must be placed);
+>
+> (b) provision for exceptions from the duty in subsection (1) (for example, by reference to descriptions of asset, frequency of discharge from an asset or the level of risk to water quality);
+>
+> (c) provision for the publication by sewerage undertakers of information obtained pursuant to subsection (1).
+>
+> (6) Before making regulations under this section the Secretary of State must consult such persons as the Secretary of State considers appropriate.
+>
+> (7) The Secretary of State may not make regulations under this section unless a draft of the statutory instrument containing the regulations has been laid before, and approved by resolution of, each House of Parliament.
+
+(2) In section 213 of the Water Industry Act 1991 (power to make regulations) in subsection (1), for “or 105A” substitute “105A, 141DA or 141DB”.
+
+#### 83 Reduction of adverse impacts of storm overflows (prospective)
+
+In Chapter 4 of Part 4 of the Water Industry Act 1991, after section 141DB insert—
+
+> **141DC Reduction of adverse impacts of storm overflows**
+>
+> (1) A sewerage undertaker whose area is wholly or mainly in England must secure a progressive reduction in the adverse impacts of discharges from the undertaker’s storm overflows.
+>
+> (2) The reference in subsection (1) to reducing adverse impacts includes—
+>
+> (a) reducing adverse impacts on the environment, and
+>
+> (b) reducing adverse impacts on public health.
+>
+> (3) The duty of a sewerage undertaker under this section is enforceable under section 18 by—
+>
+> (a) the Secretary of State, or
+>
+> (b) the Authority with the consent of or in accordance with a general authorisation given by the Secretary of State.
+
+#### 84 Report on elimination of discharges from storm overflows
+
+(1) The Secretary of State must prepare a report on—
+
+(a) the actions that would be needed to eliminate discharges from the storm overflows of sewerage undertakers whose areas are wholly or mainly in England, and
+
+(b) the costs and benefits of those actions.
+
+(2) The Secretary of State must publish the report before 1 September 2022.
+
+(3) The report must be laid before Parliament once it is published.
+
+### Regulation of water and sewerage undertakers
+
+#### 85 Authority’s power to require information
+
+In the Water Industry Act 1991, after section 27 insert—
+
+> **27ZA Power to require information for purpose of monitoring**
+>
+> (1) The Authority may, for the purpose of performing its duty under section 27(1) or (2), serve a notice under subsection (2) on—
+>
+> (a) a water undertaker or sewerage undertaker;
+>
+> (b) a water supply licensee or sewerage licensee.
+>
+> (2) A notice under this subsection is a notice which requires the person on whom it is served—
+>
+> (a) to produce to the Authority, at a time and place specified in the notice (which must be reasonable), any documents specified or described in the notice which are in that person’s custody or under that person’s control, or
+>
+> (b) to provide to the Authority, at a time and place and in the form and manner specified in the notice (which must be reasonable), information specified or described in the notice.
+>
+> (3) The requirements imposed by a notice under subsection (2) are enforceable by the Authority under section 18.
+>
+> (4) Nothing in this section requires a disclosure of information that would contravene the data protection legislation (but in determining whether a disclosure would do so, take into account the duty imposed by this section).
+>
+> (5) In subsection (4) “the data protection legislation” has the same meaning as in the Data Protection Act 2018 (see section 3(9) of that Act).
+
+#### 86 Water and sewerage undertakers in England: modifying appointments
+
+(1) Part 2 of the Water Industry Act 1991 (appointment and regulation of undertakers) is amended as follows.
+
+(2) After section 12 insert—
+
+> **Modification of appointment conditions: England**
+>
+> **12A Modification by the Authority**
+>
+> (1) This section and sections 12B to 12I apply in relation to a company appointed under this Chapter whose area is wholly or mainly in England.
+>
+> (2) The Authority may make modifications of the conditions of the company’s appointment under this Chapter.
+>
+> (3) Before making any modifications under this section, the Authority must give notice—
+>
+> (a) stating that it proposes to make modifications,
+>
+> (b) setting out the proposed modifications and their effect,
+>
+> (c) stating the reasons why it proposes to make the modifications, and
+>
+> (d) specifying the time within which representations with respect to the proposed modifications may be made.
+>
+> (4) That time must not be less than 42 days from the date of publication of the notice.
+>
+> (5) A notice under subsection (3) must be given—
+>
+> (a) by publishing the notice in a way the Authority considers appropriate for bringing it to the attention of persons likely to be affected by the modifications, and
+>
+> (b) by sending a copy of it to—
+>
+> (i) each company holding an appointment under this Chapter the conditions of which the Authority proposes to modify,
+>
+> (ii) any other company holding an appointment under this Chapter, any water supply licensee and any sewerage licensee, whose interests the Authority considers are likely to be materially affected by the modifications,
+>
+> (iii) the Secretary of State,
+>
+> (iv) any person whose functions are or include representing those within sub-paragraph (i) or (ii) in respect of interests of theirs that the Authority considers are likely to be materially affected by the modifications, and
+>
+> (v) the Consumer Council for Water.
+>
+> (6) The Authority must consider any representations which are duly made.
+>
+> (7) If, within the time specified under subsection (3)(d), the Secretary of State directs the Authority not to make a modification, the Authority must comply with the direction.
+>
+> (8) Subsections (9) to (11) apply where, having complied with subsections (3) to (6), the Authority decides to proceed with making modifications.
+>
+> (9) The Authority must—
+>
+> (a) publish the decision and the modifications in a way the Authority considers appropriate for bringing them to the attention of persons likely to be affected by the modifications,
+>
+> (b) state the effect of the modifications,
+>
+> (c) state how it has taken account of any representations duly made, and
+>
+> (d) state the reason for any differences between the modifications and those set out in the notice under subsection (3).
+>
+> (10) Each modification has effect from the date specified by the Authority in relation to that modification (subject to the giving of a direction under paragraph 2 of Schedule 2ZA).
+>
+> (11) The date specified may not be less than 56 days from publication of the decision to make the modification (except as provided in section 12B).
+>
+> **12B Modification of conditions of appointment: early effective date**
+>
+> (1) The date specified by virtue of section 12A(10) in relation to a modification under that section may be less than 56 days from the publication of the decision to make the modification if—
+>
+> (a) the Authority considers it necessary or expedient for the modification to have effect before the 56 days expire, and
+>
+> (b) the consultation condition is satisfied.
+>
+> (2) The consultation condition is that the notice under section 12A relating to the modification—
+>
+> (a) stated the date from which the Authority proposed that the modification should have effect,
+>
+> (b) stated the Authority’s reasons for proposing that the modification should have effect from a date less than 56 days from the decision to modify, and
+>
+> (c) explained why, in the Authority’s view, that would not have a material adverse effect on any person holding an appointment under this Chapter.
+>
+> **12C Modifications of conditions under section 12A: supplementary**
+>
+> (1) This section applies where under section 12A the Authority modifies the conditions of any appointment under this Chapter.
+>
+> (2) The Authority may make such incidental or consequential modifications of the conditions of any appointments as it considers necessary or expedient.
+>
+> (3) The modification of a condition of an appointment has effect subject to the giving of a direction under paragraph 2 of Schedule 2ZA in relation to the decision to which the modification relates.
+>
+> **12D Appeal to the CMA**
+>
+> (1) An appeal lies to the CMA against a decision by the Authority to proceed with the modification under section 12A of a condition of an appointment under this Chapter.
+>
+> (2) An appeal may be brought under this section only by—
+>
+> (a) a company holding an appointment under this Chapter the conditions of which the Authority has decided to modify,
+>
+> (b) any other company holding an appointment under this Chapter, any water supply licensee or any sewerage licensee, whose interests are materially affected by the decision,
+>
+> (c) a person whose functions are or include representing those within paragraph (a) or (b) in respect of interests of theirs which are materially affected by the decision, or
+>
+> (d) the Consumer Council for Water.
+>
+> (3) The permission of the CMA is required for the bringing of an appeal under this section.
+>
+> (4) The CMA may refuse permission only on one of the following grounds—
+>
+> (a) in relation to an appeal brought by a company, water supply licensee or sewerage licensee within subsection (2)(b), that the interests of the company or licensee are not materially affected by the decision;
+>
+> (b) in relation to an appeal brought by a person within subsection (2)(c), that the interests of the person represented are not materially affected by the decision;
+>
+> (c) in relation to any appeal, that the appeal is brought for reasons that are trivial or vexatious, or has no reasonable prospect of success.
+>
+> **12E Procedure on appeal to CMA**
+>
+> (1) Schedule 2ZA makes provision about the procedure for appeals under section 12D.
+>
+> (2) Except where specified otherwise in that Schedule, the functions of the CMA with respect to an appeal under section 12D are to be carried out by a group constituted for that purpose by the chair of the CMA under Schedule 4 to the Enterprise and Regulatory Reform Act 2013.
+>
+> **12F Determination by CMA of appeal**
+>
+> (1) This section applies to an appeal brought under section 12D.
+>
+> (2) In determining an appeal, the CMA must have regard, to the same extent as is required of the Authority, to—
+>
+> (a) the Authority’s duties under section 2, and
+>
+> (b) the Authority’s strategic priorities and objectives as set out in a statement under section 2A.
+>
+> (3) In determining the appeal the CMA—
+>
+> (a) may have regard to any matter to which the Authority was not able to have regard in relation to the decision which is the subject of the appeal, but
+>
+> (b) must not, in the exercise of that power, have regard to any matter to which the Authority would not have been entitled to have regard in reaching its decision had it had the opportunity of doing so.
+>
+> (4) The CMA may allow the appeal only to the extent that it is satisfied that the decision appealed against was wrong on one or more of the following grounds—
+>
+> (a) that the Authority failed properly to have regard to any matter mentioned in subsection (2),
+>
+> (b) that the Authority failed to give appropriate weight to any matter mentioned in subsection (2),
+>
+> (c) that the decision was based, wholly or partly, on an error of fact,
+>
+> (d) that the modifications fail to achieve, in whole or in part, the effect stated by the Authority by virtue of section 12A(9)(b),
+>
+> (e) that the Authority did not follow the procedure required by sections 12A to 12C, or
+>
+> (f) that the decision was otherwise wrong in law.
+>
+> (5) To the extent that the CMA does not allow the appeal, it must confirm the decision appealed against.
+>
+> **12G CMA’s powers on allowing an appeal**
+>
+> (1) Where the CMA allows an appeal under section 12D to any extent, it must do one or both of the following—
+>
+> (a) quash the decision (to the extent that the appeal is allowed);
+>
+> (b) remit the matter back to the Authority for reconsideration and determination in accordance with any directions given by the CMA.
+>
+> (2) A direction under subsection (1) must not require the Authority to do anything that it would not have power to do (apart from the direction).
+>
+> (3) The Authority must comply with a direction given to it under that subsection.
+>
+> **12H Time limits for CMA to determine an appeal**
+>
+> (1) The CMA must determine an appeal within the period of 4 months beginning with the permission date, unless subsection (2) applies.
+>
+> (2) This subsection applies where—
+>
+> (a) the CMA has received representations on the timing of the determination from a party to the appeal, and
+>
+> (b) it is satisfied that there are special reasons why the determination cannot be made within the period specified in subsection (1).
+>
+> (3) Where subsection (2) applies, the CMA must determine an appeal within the period specified by it, not being longer than the period of 5 months beginning with the permission date.
+>
+> (4) Where subsection (2) applies, the CMA must also—
+>
+> (a) inform the parties to the appeal of the time limit for determining the appeal, and
+>
+> (b) publish that time limit in a way it considers appropriate to bring it to the attention of any other persons likely to be affected by the determination.
+>
+> (5) References in this section to the permission date are to the date on which the CMA gave permission to bring the appeal in accordance with section 12D(3).
+>
+> (6) In this section and in section 12I any reference to a party to an appeal is to be read in accordance with Schedule 2ZA.
+>
+> **12I Determination of appeal by CMA: supplementary**
+>
+> (1) A determination by the CMA on an appeal—
+>
+> (a) must be contained in an order made by the CMA;
+>
+> (b) must set out the reasons for the determination;
+>
+> (c) takes effect at the time specified in the order or determined in accordance with provision made in the order;
+>
+> (d) must be notified by the CMA to the parties to the appeal;
+>
+> (e) must be published by the CMA—
+>
+> (i) as soon as reasonably practicable after the determination is made;
+>
+> (ii) in a way the CMA considers appropriate to bring it to the attention of any person likely to be affected by it (other than a party to the appeal).
+>
+> (2) The CMA may exclude from publication any information it is satisfied is—
+>
+> (a) commercial information, the disclosure of which would, or in the CMA’s opinion might, significantly harm the legitimate business interests of an undertaking to which it relates, or
+>
+> (b) information relating to the private affairs of an individual, the disclosure of which would, or in the CMA’s opinion might, significantly harm the individual’s interests.
+>
+> (3) The Authority must take such steps as it considers requisite for it to comply with an order of the CMA under subsection (1)(a).
+>
+> (4) The steps must be taken—
+>
+> (a) if a time is specified in (or is to be determined in accordance with) the order, within that time;
+>
+> (b) in any other case, within a reasonable time.
+>
+> (5) Section 12C applies where a condition of a licence is modified in accordance with section 12G as it applies where a condition of a licence is modified under section 12A.
+
+(3) For the italic heading before section 13 substitute—
+
+.
+
+(4) In section 13 (modification by agreement), before subsection (1) insert—
+
+> (A1) This section and sections 14 to 16B apply in relation to a company appointed under this Chapter whose area is wholly or mainly in Wales.
+
+(5) Before section 17 insert—
+
+.
+
+(6) After Schedule 2 insert the Schedule set out in Schedule 13.
+
+(7) In paragraph 35(3) of Schedule 4 to the Enterprise and Regulatory Reform Act 2013 (CMA Panels), in the definition of “specialist utility functions”, after paragraph (c) insert—
+
+> (ca) an appeal under section 12D of that Act;
+
+.
+
+#### 87 Electronic service of documents
+
+In section 216 of the Water Industry Act 1991 (service of documents) after subsection (4) insert—
+
+> (4A) Any document required or authorised by virtue of this Act to be served on any person may be served by electronic means.
+>
+> (4B) But a document may be served by electronic means on a person who is a consumer only if—
+>
+> (a) the person has consented in writing to the receipt of documents by electronic means (and has not withdrawn that consent), and
+>
+> (b) the document is sent to the number or address most recently specified by the person for that purpose.
+>
+> (4C) For the purposes of subsection (4B) “consumer” means a person who is liable to pay charges in respect of—
+>
+> (a) the supply of water to any premises, or
+>
+> (b) the provision of sewerage services to any premises,
+>
+> but does not include a water undertaker, a water supply licensee, a sewerage undertaker, a sewerage licensee, or the Authority.
+
+### Abstraction
+
+#### 88 Water abstraction: no compensation for certain licence modifications
+
+(1) In the Water Resources Act 1991, after section 61 insert—
+
+> **61ZA No compensation where modification to protect environment: England**
+>
+> (1) This section applies where—
+>
+> (a) a relevant licence is revoked or varied on or after 1 January 2028 in pursuance of a direction under section 54 or 56, and
+>
+> (b) the ground for revoking or varying the licence is that the Secretary of State is satisfied the revocation or variation is necessary—
+>
+> (i) having regard to a relevant environmental objective, or
+>
+> (ii) to otherwise protect the water environment from damage.
+>
+> (2) A “relevant licence” is a licence to abstract water that—
+>
+> (a) is to abstract water in England only, and
+>
+> (b) is to remain in force until revoked.
+>
+> (3) Where this section applies, no compensation is payable under section 61 in respect of the revocation or variation of the licence.
+>
+> (4) In this section the “water environment” means—
+>
+> (a) any inland waters (including, in relation to a lake, pond, river or watercourse that is for the time being dry, its bottom, channel or bed),
+>
+> (b) any water contained in underground strata,
+>
+> (c) any underground strata themselves,
+>
+> or any flora or fauna dependent on any of them.
+>
+> (5) In this section “relevant environmental objective” means an environmental objective within the meaning of whichever of the following is applicable—
+>
+> (a) the Water Environment (Water Framework Directive) (England and Wales) Regulations 2017 (S.I. 2017/407);
+>
+> (b) the Water Environment (Water Framework Directive) (Solway Tweed River Basin District) Regulations 2004 (S.I. 2004/99);
+>
+> (c) the Water Environment (Water Framework Directive) (Northumbria River Basin District) Regulations 2003 (S.I. 2003/3245).
+>
+> **61ZB No compensation where variation to remove excess headroom: England**
+>
+> (1) This section applies if a relevant licence is varied in pursuance of a direction under section 54 on or after 1 January 2028 so as to reduce the quantity of water the holder is authorised to abstract.
+>
+> (2) A “relevant licence” is a licence to abstract water that—
+>
+> (a) is to abstract water in England only, and
+>
+> (b) is to remain in force until revoked.
+>
+> (3) No compensation is payable under section 61 if—
+>
+> (a) in each year during the 12 year period ending with the relevant date, the quantity of water abstracted in pursuance of the licence did not exceed 75% of the quantity of water the holder was authorised to abstract in that year, and
+>
+> (b) the ground for varying the licence is that the Secretary of State is satisfied the variation does not reduce the quantity of water the holder is authorised to abstract to a level below that which the holder reasonably requires.
+>
+> (4) In subsection (3) the “relevant date” is the date on which the notice of the proposals for varying the licence was served on the holder of the licence.
+
+(2) In section 27 of the Water Act 2003 (withdrawal of compensation for certain revocations and variations), after subsection (3) insert—
+
+> (4) This section does not apply in respect of a licence revoked or varied on or after 1 January 2028 if the licence is a “relevant licence” within the meaning of section 61ZA of the Water Resources Act 1991.
+
+(3) Omit paragraph 30(4) of Schedule 8 to the Water Act 2014.
+
+### Water quality
+
+#### 89 Water quality: powers of Secretary of State
+
+(1) The Secretary of State may by regulations amend or modify any legislation to which this section applies for the purpose of—
+
+(a) making provision about the substances to be taken into account in assessing the chemical status of surface water or groundwater;
+
+(b) specifying standards in relation to those substances or in relation to the chemical status of surface water or groundwater.
+
+(2) This section applies to —
+
+(a) the Water Environment (Water Framework Directive) (England and Wales) Regulations 2017 (S.I. 2017/407);
+
+(b) the Water Environment (Water Framework Directive) (Northumbria River Basin District) Regulations 2003 (S.I. 2003/3245);
+
+(c) the Water Environment (Water Framework Directive) (Solway Tweed River Basin District) Regulations 2004 (S.I. 2004/99);
+
+(d) the Groundwater Regulations (Northern Ireland) 2009 (S.R. (N.I.) 2009 No. 254);
+
+(e) the Water Framework Directive (Classification, Priority Substances and Shellfish Waters) Regulations (Northern Ireland) 2015 (S.R. (N.I.) 2015 No. 351);
+
+(f) the Water Environment (Water Framework Directive) Regulations (Northern Ireland) 2017 (S.R. (N.I.) 2017 No. 81);
+
+(g) any regulations modifying that legislation made under or by virtue of the European Union (Withdrawal) Act 2018.
+
+(3) Regulations under subsection (1) may also, in connection with provision made under subsection (1)(a) or (b), amend or modify legislation to which this section applies so as to make provision—
+
+(a) setting objectives in relation to the substances about which the provision is made, or in relation to the chemical status of surface water or groundwater (including objectives to maintain specified standards or to achieve specified standards by specified dates);
+
+(b) about how objectives set by the regulations are to be met, including provision requiring, or otherwise relating to, measures to be taken to achieve those objectives;
+
+(c) requiring, or otherwise relating to, the monitoring or assessment of any matter relating to the chemical status of surface water or the chemical status of groundwater;
+
+(d) about the classification of bodies of water according to their chemical status or any matter relating to their chemical status.
+
+(4) Regulations under this section may not contain provision that could be contained in—
+
+(a) regulations made by the Welsh Ministers under section 90, or
+
+(b) regulations made by the Department of Agriculture, Environment and Rural Affairs in Northern Ireland under section 91,
+
+unless those Ministers or that Department consents.
+
+(5) Regulations under this section may not contain provision applying to that part of a Scottish cross-border river basin district which is in Scotland, unless the Scottish Ministers consent.
+
+(6) Before making regulations under this section the Secretary of State must consult—
+
+(a) if the regulations apply to England (or part of England), the Environment Agency;
+
+(b) if the regulations do not require the consent of the Welsh Ministers but apply to any part of a Welsh cross-border river basin district, the Welsh Ministers;
+
+(c) if the regulations do not require the consent of the Scottish Ministers but apply to any part of a Scottish cross-border river basin district, the Scottish Ministers;
+
+(d) any persons or bodies appearing to the Secretary of State to represent the interests of those likely to be affected by the regulations.
+
+(7) A “Scottish cross-border river basin district” is a river basin district which is partly in England and partly in Scotland.
+
+(8) A “Welsh cross-border river basin district” is a river basin district which is partly in England and partly in Wales.
+
+(9) Regulations under this section are subject to the negative procedure.
+
+#### 90 Water quality: powers of Welsh Ministers
+
+(1) The Welsh Ministers may by regulations amend or modify any legislation to which this section applies for the purpose of—
+
+(a) making provision about the substances to be taken into account in assessing the chemical status of surface water or groundwater;
+
+(b) specifying standards in relation to those substances or in relation to the chemical status of surface water or groundwater.
+
+(2) This section applies to —
+
+(a) the Water Environment (Water Framework Directive) (England and Wales) Regulations 2017 (S.I. 2017/407);
+
+(b) any regulations modifying that legislation made under or by virtue of the European Union (Withdrawal) Act 2018.
+
+(3) Regulations under subsection (1) may also, in connection with provision made under subsection (1)(a) or (b), amend or modify legislation to which this section applies so as to make provision—
+
+(a) setting objectives in relation to the substances about which the provision is made, or in relation to the chemical status of surface water or groundwater (including objectives to maintain specified standards or to achieve specified standards by specified dates);
+
+(b) about how objectives set by the regulations are to be met, including provision requiring, or otherwise relating to, measures to be taken to achieve those objectives;
+
+(c) requiring, or otherwise relating to, the monitoring or assessment of any matter relating to the chemical status of surface water or the chemical status of groundwater;
+
+(d) about the classification of bodies of water according to their chemical status or any matter relating to their chemical status.
+
+(4) Before making regulations under this section the Welsh Ministers must consult—
+
+(a) the Natural Resources Body for Wales;
+
+(b) if the regulations apply to any part of a river basin district which is partly in Wales and partly in England, the Secretary of State;
+
+(c) any persons or bodies appearing to the Welsh Ministers to represent the interests of those likely to be affected by the regulations.
+
+(5) Regulations under this section may contain only provision which, if contained in an Act of Senedd Cymru, would (disregarding paragraphs 8(1)(c) and 11(1)(a) and (c) of Schedule 7B to the Government of Wales Act 2006) be within the legislative competence of the Senedd.
+
+(6) Regulations under this section are subject to the negative procedure.
+
+#### 91 Water quality: powers of Northern Ireland department
+
+(1) The Department of Agriculture, Environment and Rural Affairs in Northern Ireland may by regulations amend or modify any legislation to which this section applies for the purpose of—
+
+(a) making provision about the substances to be taken into account in assessing the chemical status of surface water or groundwater;
+
+(b) specifying standards in relation to those substances or in relation to the chemical status of surface water or groundwater.
+
+(2) This section applies to—
+
+(a) the Groundwater Regulations (Northern Ireland) 2009 (S.R. (N.I.) 2009 No. 254);
+
+(b) the Water Framework Directive (Classification, Priority Substances and Shellfish Waters) Regulations (Northern Ireland) 2015 (S.R. (N.I.) 2015 No. 351);
+
+(c) the Water Environment (Water Framework Directive) Regulations (Northern Ireland) 2017 (S.R. (N.I.) 2017 No. 81);
+
+(d) any regulations modifying that legislation made under or by virtue of the European Union (Withdrawal) Act 2018.
+
+(3) Regulations under subsection (1) may also, in connection with provision made under subsection (1)(a) or (b), amend or modify legislation to which this section applies so as to make provision—
+
+(a) setting objectives in relation to the substances about which the provision is made, or in relation to the chemical status of surface water or groundwater (including objectives to maintain specified standards or to achieve specified standards by specified dates);
+
+(b) about how objectives set by the regulations are to be met, including provision requiring, or otherwise relating to, measures to be taken to achieve those objectives;
+
+(c) requiring, or otherwise relating to, the monitoring or assessment of any matter relating to the chemical status of surface water or the chemical status of groundwater;
+
+(d) about the classification of bodies of water according to their chemical status or any matter relating to their chemical status.
+
+(4) Before making regulations under this section the Department must consult any persons or bodies appearing to the Department to represent the interests of those likely to be affected by the regulations.
+
+(5) Regulations under this section may contain only provision which, if contained in an Act of the Northern Ireland Assembly, would be within the legislative competence of the Assembly and would not require the Secretary of State’s consent.
+
+(6) Regulations under this section are subject to the negative procedure.
+
+#### 92 Solway Tweed river basin district: power to transfer functions
+
+(1) The Secretary of State may by regulations amend or modify the Solway Tweed Regulations in accordance with this section.
+
+(2) The “Solway Tweed Regulations” means the Water Environment (Water Framework Directive) (Solway Tweed River Basin District) Regulations 2004 (S.I. 2004/99).
+
+(3) The regulations may provide for a function under the Solway Tweed Regulations which is exercisable (to any extent)—
+
+(a) by the Secretary of State and the Scottish Ministers jointly,
+
+(b) by the Secretary of State and the Scottish Ministers concurrently, or
+
+(c) only by the Secretary of State or the Scottish Ministers,
+
+to be exercised (to any extent) in another of those ways.
+
+(4) The regulations may provide for a function under the Solway Tweed Regulations which is exercisable (to any extent)—
+
+(a) by the Environment Agency and SEPA jointly,
+
+(b) by the Environment Agency and SEPA concurrently, or
+
+(c) only by the Environment Agency or SEPA,
+
+to be exercised (to any extent) in another of those ways.
+
+(5) The regulations may make provision changing the geographical area in relation to which a function under the Solway Tweed Regulations is exercisable (or is exercisable by a specified person).
+
+(6) The regulations may also provide—
+
+(a) for a function within subsection (3) to be exercisable only with the consent of, or after consultation with, the Secretary of State or the Scottish Ministers;
+
+(b) for a function within subsection (4) to be exercisable only with the consent of, or after consultation with, the Environment Agency, SEPA, the Secretary of State or the Scottish Ministers.
+
+(7) The Secretary of State may make regulations under this section only with the consent of the Scottish Ministers.
+
+(8) Regulations under this section are subject to the negative procedure.
+
+(9) In this section “SEPA” means the Scottish Environment Protection Agency.
+
+#### 93 Water quality: interpretation
+
+In sections 89 to 92—
+
+- “groundwater” has the same meaning as in the Water Framework Directive;
+- “river basin district” means an area identified as such by or under any legislation to which the section in question applies;
+- “surface water” has the same meaning as in the Water Framework Directive;
+- “Water Framework Directive” means Directive 2000/60/EC of the European Parliament and of the Council establishing a framework for Community action in the field of water policy.
+
+### Land drainage
+
+#### 94 Valuation of other land in drainage district: England
+
+(1) Section 37 of the Land Drainage Act 1991 (apportionment of internal drainage board’s drainage expenses) is amended in accordance with subsections (2) and (3).
+
+(2) In subsection (5), in the words before paragraph (a), after “shall” insert “, subject to subsection (5ZA)”.
+
+(3) After subsection (5) insert—
+
+> (5ZA) The Secretary of State may by regulations make provision for the value of other land in an English internal drainage district to be determined in accordance with the regulations.
+>
+> (5ZB) The provision that may be made under subsection (5ZA) includes, in particular, provision—
+>
+> (a) about methods to be applied, or factors to be taken into account, in determining the value of land;
+>
+> (b) for the value of land to be determined on the basis of estimates, assumptions or averages;
+>
+> (c) for the value of land to be determined by reference to such time or times as may be specified in the regulations;
+>
+> (d) for the value of land to be determined by reference to the value shown for the time being in a list or register prepared for the purposes of another enactment;
+>
+> (e) for determining the value of land which is only partly within the internal drainage district in question;
+>
+> (f) for the making of adjustments to what would otherwise be determined to be the value of land;
+>
+> (g) for land to be taken to have a nil value.
+>
+> (5ZC) Regulations under subsection (5ZA) may apply in relation to—
+>
+> (a) English drainage boards specified in the regulations;
+>
+> (b) English drainage boards of a description specified in the regulations;
+>
+> (c) all English drainage boards.
+>
+> (5ZD) Provision made by virtue of subsection (5ZC) may, in particular, include provision for an English drainage board—
+>
+> (a) to elect that the regulations are to apply to them, and
+>
+> (b) to make such an election in accordance with the procedure specified in the regulations.
+>
+> (5ZE) Regulations under subsection (5ZA) may—
+>
+> (a) make different provision for different cases, including different provision in relation to different circumstances or different descriptions of English drainage board or of land;
+>
+> (b) make such incidental, supplementary, consequential, transitional, transitory or saving provision as the Secretary of State considers appropriate.
+>
+> (5ZF) Provision made by virtue of subsection (5ZE)(b) may include provision which amends or repeals any provision of this Act.
+>
+> (5ZG) Before making regulations under subsection (5ZA) the Secretary of State must consult such persons (if any) as the Secretary of State considers appropriate having regard to the extent to which the regulations are, in the view of the Secretary of State, likely to affect the valuation of any land.
+>
+> (5ZH) Regulations may not be made under subsection (5ZA) unless a draft of the instrument containing the regulations has been laid before, and approved by a resolution of, each House of Parliament.
+
+(4) In section 65(2) of that Act (regulations) after “Subject to” insert “section 37(5ZH)”.
+
+#### 95 Valuation of other land in drainage district: Wales (prospective)
+
+(1) Section 83 of the Environment (Wales) Act 2016 (which amends the Land Drainage Act 1991) is amended as follows.
+
+(2) In subsection (2)—
+
+(a) for paragraph (a) substitute—
+
+> (a) in subsection (5), in the words before paragraph (a), after “subject to subsection (5ZA)” insert “and subject to subsection (5A),
+
+;
+
+(b) in paragraph (b)—
+
+(i) for the inserted subsection (5A) substitute—
+
+> (5A) The Welsh Ministers may by regulations make provision for the value of other land in a Welsh internal drainage district to be determined in accordance with the regulations.
+
+;
+
+(ii) in each of the inserted subsections (5B) and (5C) for “The regulations” substitute “Regulations under subsection (5A)”;
+
+(iii) for the inserted subsection (5D) substitute—
+
+> (5D) Before making regulations under subsection (5A) the Welsh Ministers must consult such persons (if any) as they consider appropriate having regard to the extent to which the regulations are, in their view, likely to affect the valuation of any land.
+>
+> (5E) Regulations may not be made under subsection (5A) unless a draft of the instrument containing them has been laid before, and approved by a resolution of, Senedd Cymru.
+
+(3) For subsection (3) substitute—
+
+> (3) In section 65(2) (regulations) after “section 37(5ZH)” insert “and (5E),”.
+
+#### 96 Valuation of agricultural land in drainage district: England and Wales
+
+(1) The Land Drainage Act 1991 is amended as follows.
+
+(2) In section 41 (rates charged by reference to annual value of agricultural land and buildings), in subsection (2), at the end insert—
+
+> This is subject to section 41A below.
+
+(3) After section 41 insert—
+
+> **41A Alternative method of calculating annual value of agricultural land and buildings**
+>
+> (1) The appropriate national authority may by regulations make provision for the annual value of each chargeable property in an internal drainage district to be determined for the purposes of this Chapter by the drainage board for that district in accordance with the regulations.
+>
+> Any determination made under the regulations is subject to sections 43 and 44 below.
+>
+> (2) In this section “the appropriate national authority” means—
+>
+> (a) in the case of any English internal drainage district, the Secretary of State;
+>
+> (b) in the case of any Welsh internal drainage district, the Welsh Ministers.
+>
+> (3) Regulations under subsection (1) may, in particular, make provision—
+>
+> (a) about the date by which a drainage board are to determine the annual value of each chargeable property in their internal drainage district;
+>
+> (b) about methods to be applied, or factors to be taken into account, in determining the annual value of a chargeable property;
+>
+> (c) for the annual value of a chargeable property to be determined on the basis of estimates, assumptions or averages;
+>
+> (d) for the annual value of a chargeable property to be determined by reference to such time or times as may be specified in the regulations;
+>
+> (e) for the annual value of a chargeable property to be determined by reference to the value shown for the time being in a list or register prepared for the purposes of another enactment;
+>
+> (f) for the annual value of a chargeable property to be determined by reference to the amount payable under a hypothetical transaction involving the property;
+>
+> (g) for determining the annual value of a chargeable property which is only partly within the internal drainage district in question;
+>
+> (h) for the making of adjustments to what would otherwise be determined to be the annual value of a chargeable property;
+>
+> (i) for the determination of the annual value of a chargeable property to be made on behalf of a drainage board by a person, or a person of a description, specified in the regulations;
+>
+> (j) about the appointment by the drainage board of such a person.
+>
+> (4) Provision made by virtue of subsection (3)(f) may, in particular, include provision as to—
+>
+> (a) the assumptions to be made about—
+>
+> (i) the date of the transaction;
+>
+> (ii) the nature of the transaction;
+>
+> (iii) the characteristics of the parties to the transaction;
+>
+> (iv) the characteristics of the property;
+>
+> (v) the terms of the transaction;
+>
+> (b) any matters relating to the chargeable property which are to be taken into account or disregarded;
+>
+> (c) any matters relating to comparable transactions which are to be taken into account or disregarded.
+>
+> (5) Regulations under subsection (1) may make provision which—
+>
+> (a) applies to a drainage board which have determined the annual values of the chargeable properties in their internal drainage district for the purposes of this Chapter under the regulations (regardless of whether any of those determinations has been replaced under section 43 below or altered on appeal under section 46 below), and
+>
+> (b) requires the drainage board to make further determinations of those values for those purposes in accordance with the regulations at such times or at the end of such periods as may be specified in the regulations.
+>
+> (6) Provision made by virtue of subsection (5) may, in particular—
+>
+> (a) make provision in relation to such a further determination which is the same as or similar to that made in relation to an initial determination, or
+>
+> (b) apply provision in the regulations relating to an initial determination to a further determination, with or without modifications.
+>
+> (7) Regulations made by the Secretary of State under subsection (1) may apply in relation to—
+>
+> (a) English drainage boards specified in the regulations;
+>
+> (b) English drainage boards of a description specified in the regulations;
+>
+> (c) all English drainage boards.
+>
+> (8) Regulations made by the Welsh Ministers under subsection (1) may apply in relation to—
+>
+> (a) Welsh drainage boards specified in the regulations;
+>
+> (b) Welsh drainage boards of a description specified in the regulations;
+>
+> (c) all Welsh drainage boards.
+>
+> (9) Provision made by virtue of subsection (7) or (8) may, in particular, include provision for an internal drainage board—
+>
+> (a) to elect that the regulations are to apply to them, and
+>
+> (b) to make such an election in accordance with the procedure specified in the regulations.
+>
+> (10) Regulations under subsection (1) may—
+>
+> (a) make different provision for different cases, including different provision in relation to different circumstances or different descriptions of drainage board or of land;
+>
+> (b) make such incidental, supplementary, consequential, transitional, transitory or saving provision as the appropriate national authority considers appropriate.
+>
+> (11) Provision made by virtue of subsection (10)(b) may include provision which amends or repeals any provision of this Act.
+>
+> (12) Before making regulations under subsection (1) the appropriate national authority must consult such persons (if any) as the authority considers appropriate having regard to the extent to which the regulations are, in the view of the authority, likely to affect the valuation of any chargeable properties.
+>
+> (13) Regulations may not be made under subsection (1) by the Secretary of State unless a draft of the instrument containing the regulations has been laid before, and approved by a resolution of, each House of Parliament.
+>
+> (14) Regulations may not be made under subsection (1) by the Welsh Ministers unless a draft of the instrument containing the regulations has been laid before, and approved by a resolution of, Senedd Cymru.
+
+(4) In section 42 (determination of annual value)—
+
+(a) in subsection (4) after “under this section” insert “or under regulations under section 41A(1) above”;
+
+(b) in subsection (5) after “subsections (1) and (2) above” insert “or under regulations under section 41A above”.
+
+(5) In section 44 (effect of determinations under section 43) in each of subsections (2) and (3) after “Subject to” insert “regulations under section 41A above and to”.
+
+(6) In section 45 (appeals against determinations of annual value)—
+
+(a) in subsection (1) after “determination under” insert “regulations under section 41A above or a determination under”;
+
+(b) in subsection (3)(b) after “determination under” insert “regulations under section 41A above or a fresh determination under”;
+
+(c) in subsection (7) after “determination under” insert “regulations under section 41A above or a determination under”.
+
+(7) In section 46 (hearing and determination of appeals under section 45) in each of subsections (2)(a), (3), (4), (5), (6), (7) and (8) after “determination under” insert “regulations under section 41A above or a determination under”.
+
+(8) In section 65(2) (regulations) after “section 37A(6) and (7),” insert “section 41A(13) and (14) and”.
+
+#### 97 Disclosure of Revenue and Customs information
+
+(1) The Land Drainage Act 1991 is amended as follows.
+
+(2) After section 37 insert—
+
+> **Disclosure of Revenue and Customs information**
+>
+> **37A Disclosure of Revenue and Customs information**
+>
+> (1) An officer of the Valuation Office of Her Majesty’s Revenue and Customs may disclose Revenue and Customs information to a qualifying person for a qualifying purpose.
+>
+> (2) Information disclosed to a qualifying person under this section may be retained and used for any qualifying purpose.
+>
+> (3) Each of the following is a “qualifying person”—
+>
+> (a) an internal drainage board;
+>
+> (b) the Agency;
+>
+> (c) the Natural Resources Body for Wales;
+>
+> (d) a person authorised to exercise any function of a body within paragraph (a), (b) or (c) relating to drainage rates or special levies;
+>
+> (e) a person providing services to a body within paragraph (a), (b) or (c) relating to drainage rates or special levies;
+>
+> (f) the Secretary of State;
+>
+> (g) the Welsh Ministers;
+>
+> (h) any other person specified in regulations made by the appropriate national authority.
+>
+> (4) Each of the following is a “qualifying purpose”—
+>
+> (a) enabling the qualifying person to whom the disclosure is made, or any other qualifying person, to carry out any functions conferred by or under Chapter 1 or 2 of this Part or section 75 of the Local Government Finance Act 1988;
+>
+> (b) enabling the qualifying person to whom the disclosure is made, or any other qualifying person, to determine for the purposes of Part 1 how functions mentioned in paragraph (a) might be exercised by—
+>
+> (i) an internal drainage board which is proposed to be constituted under that Part, or
+>
+> (ii) the drainage board for an internal drainage district which is proposed to be constituted under that Part.
+>
+> (5) Regulations under subsection (3)(h) may only be made with the consent of the Commissioners for Her Majesty’s Revenue and Customs.
+>
+> (6) Regulations may not be made under subsection (3)(h) by the Secretary of State unless a draft of the instrument containing the regulations has been laid before, and approved by a resolution of, each House of Parliament.
+>
+> (7) Regulations may not be made under subsection (3)(h) by the Welsh Ministers unless a draft of the instrument containing the regulations has been laid before, and approved by a resolution of, Senedd Cymru.
+>
+> (8) In this section—
+>
+> - “the appropriate national authority” means—
+>
+>   - the Secretary of State in relation to English internal drainage districts, and
+>   - the Welsh Ministers in relation to Welsh internal drainage districts;
+>
+> - “drainage rates” means drainage rates made by an internal drainage board under Chapter 2 of this Part;
+>
+> - “Revenue and Customs information” means information held as mentioned in section 18(1) of the Commissioners for Revenue and Customs Act 2005;
+>
+> - “special levy” means a special levy issued by an internal drainage board under regulations under section 75 of the Local Government Finance Act 1988.
+>
+> **37B Restrictions on onward disclosure of Revenue and Customs information**
+>
+> (1) Information disclosed under section 37A or this section may not be further disclosed unless that further disclosure is—
+>
+> (a) to a qualifying person for a qualifying purpose,
+>
+> (b) in pursuance of a court order,
+>
+> (c) with the consent of each person to whom the information relates,
+>
+> (d) required under any other enactment, or
+>
+> (e) permitted under any other enactment.
+>
+> (2) Information may not be disclosed—
+>
+> (a) under subsection (1)(a) to a qualifying person within section 37A(3)(d), (e), (f) or (g),
+>
+> (b) under subsection (1)(a) to a person who is a qualifying person by virtue of regulations under section 37A(3)(h), where those regulations specify that this subsection is to apply in relation to the person, or
+>
+> (c) under subsection (1)(e),
+>
+> except with the consent of the Commissioners for Her Majesty’s Revenue and Customs (which may be general or specific).
+>
+> (3) Information disclosed to a qualifying person under this section may be retained and used for any qualifying purpose.
+>
+> (4) A person commits an offence if the person contravenes subsection (1) or (2) by disclosing information relating to a person whose identity—
+>
+> (a) is specified in the disclosure, or
+>
+> (b) can be deduced from it.
+>
+> (5) It is a defence for a person charged with an offence under this section to prove that the person reasonably believed—
+>
+> (a) that the disclosure was lawful, or
+>
+> (b) that the information had already lawfully been made available to the public.
+>
+> (6) A person guilty of an offence under this section is liable—
+>
+> (a) on summary conviction, to imprisonment for a term not exceeding 12 months, to a fine or to both;
+>
+> (b) on conviction on indictment, to imprisonment for a term not exceeding two years, to a fine or to both.
+>
+> (7) A prosecution under this section may be instituted only by, or with the consent of, the Director of Public Prosecutions.
+>
+> (8) In relation to an offence under this section committed before the coming into force of paragraph 24(2) of Schedule 22 to the Sentencing Act 2020 (increase in maximum term that may be imposed on summary conviction of offence triable either way) the reference in subsection (6)(a) to 12 months is to be read as a reference to 6 months.
+>
+> (9) This section is without prejudice to the pursuit of any remedy or the taking of any action in relation to a contravention of subsection (1) or (2) (whether or not subsection (4) applies to the contravention).
+>
+> (10) In this section—
+>
+> - “qualifying person” has the same meaning as in section 37A;
+> - “qualifying purpose” has the same meaning as in that section.
+>
+> **37C Further provisions about disclosure under section 37A or 37B**
+>
+> (1) A disclosure of information under section 37A or 37B does not breach—
+>
+> (a) any obligation of confidence owed by the person making the disclosure, or
+>
+> (b) any other restriction on the disclosure of information (however imposed).
+>
+> (2) But nothing in section 37A or 37B authorises the making of a disclosure—
+>
+> (a) if the disclosure would contravene the data protection legislation (but in determining whether a disclosure would do so, take the powers conferred by those sections into account), or
+>
+> (b) which is prohibited by any of Parts 1 to 7 or Chapter 1 of Part 9 of the Investigatory Powers Act 2016.
+>
+> (3) Until the repeal of Part 1 of the Regulation of Investigatory Powers Act 2000 by paragraphs 45 and 54 of Schedule 10 to the Investigatory Powers Act 2016 is fully in force, subsection (2)(b) has effect as if it included a reference to that Part.
+>
+> (4) Revenue and customs information relating to a person which has been disclosed under section 37A or 37B is exempt information by virtue of section 44(1)(a) of the Freedom of Information Act 2000 (prohibition on disclosure) if its further disclosure—
+>
+> (a) would specify the identity of the person to whom the information relates, or
+>
+> (b) would enable the identity of such a person to be deduced.
+>
+> (5) In subsection (4) “revenue and customs information relating to a person” has the same meaning as in section 19(2) of the Commissioners for Revenue and Customs Act 2005.
+>
+> (6) In this section “data protection legislation” has the same meaning as in the Data Protection Act 2018 (see section 3(9) of that Act).
+
+(3) In section 65(2) (regulations) after “and (5E),” insert “section 37A(6) and (7),”.
+
+(4) In section 70 (confidentiality of information obtained by Environment Agency and Natural Resources Body for Wales)—
+
+(a) the existing provision becomes subsection (1);
+
+(b) after that subsection insert—
+
+> (2) Subsection (1) does not apply to information obtained by virtue of section 37A (disclosure of Revenue and Customs information).
+
+(5) In section 72(1) (interpretation), at the appropriate places insert—
+
+> - “enactment” includes an enactment comprised in subordinate legislation within the meaning of the Interpretation Act 1978;
+
+;
+
+> - “English drainage board” means a drainage board for an English internal drainage district;
+
+;
+
+> - “English internal drainage district” means an internal drainage district which is wholly or mainly in England;
+
+;
+
+> - “Welsh drainage board” means a drainage board for a Welsh internal drainage district;
+
+;
+
+> - “Welsh internal drainage district” means an internal drainage district which is wholly or mainly in Wales.
+
+.
+
+## PART 6 — Nature and biodiversity
+
+### Biodiversity gain in planning
+
+#### 98 Biodiversity gain as condition of planning permission
+
+Schedule 14 makes provision for biodiversity gain to be a condition of planning permission in England.
+
+#### 99 Biodiversity gain in nationally significant infrastructure projects
+
+Schedule 15 makes provision about biodiversity gain in relation to development consent for nationally significant infrastructure projects.
+
+#### 100 Biodiversity gain site register
+
+(1) The Secretary of State may by regulations make provision for and in relation to a register of biodiversity gain sites (“the biodiversity gain site register”).
+
+(2) A biodiversity gain site is land where—
+
+(a) a person is required under a conservation covenant or planning obligation to carry out works for the purpose of habitat enhancement,
+
+(b) that or another person is required to maintain the enhancement for at least 30 years after the completion of those works, and
+
+(c) for the purposes of Schedule 7A to the Town and Country Planning Act 1990 the enhancement is made available to be allocated (conditionally or unconditionally, and whether for consideration or otherwise) in accordance with the terms of the covenant or obligation to one or more developments for which planning permission is granted.
+
+(3) Regulations under this section must provide for the information in the register to be accessible to members of the public.
+
+(4) Regulations under this section may in particular make provision about—
+
+(a) the person who is to establish and maintain the biodiversity gain site register (who may be the Secretary of State, Natural England or another person);
+
+(b) circumstances in which land is or is not eligible to be registered;
+
+(c) applications to register land in the register;
+
+(d) the information to be recorded in relation to any land that is registered;
+
+(e) amendments to the register;
+
+(f) removal of land from the register;
+
+(g) fees payable in respect of any application under the regulations.
+
+(5) Provision under subsection (4)(c) may in particular include provision about—
+
+(a) who is entitled to apply to register land in the biodiversity gain site register;
+
+(b) the procedure to be followed in making an application;
+
+(c) the information to be provided in respect of an application;
+
+(d) how an application is to be determined;
+
+(e) appeals against the rejection of an application;
+
+(f) financial penalties for the supply of false or misleading information in connection with an application.
+
+(6) Provision under subsection (4)(d) may in particular require the recording of the following in relation to any land registered in the biodiversity gain site register—
+
+(a) the location and area of the land;
+
+(b) the works to be carried out on the land and the habitat enhancement to be achieved by them;
+
+(c) information about the habitat of the land before the commencement of those works;
+
+(d) the person who applied to register the land and (if different) the person by whom the requirement to carry out the works or maintain the habitat enhancement is enforceable;
+
+(e) any development to which any of the habitat enhancement has been allocated;
+
+(f) the biodiversity value (for the purposes of Schedule 7A to the Town and Country Planning Act 1990 or Schedule 2A to the Planning Act 2008) of any such habitat enhancement in relation to any such development.
+
+(7) Regulations under this section may amend subsection (2)(b) so as to substitute for the period for the time being specified there a different period of at least 30 years.
+
+(8) Regulations under this section making provision under subsection (4)(g) or (5)(f) are subject to the affirmative procedure.
+
+(9) Other regulations under this section are subject to the negative procedure.
+
+(10) The Secretary of State must keep under review—
+
+(a) the supply of land for registration in the biodiversity gain site register;
+
+(b) whether the period specified in subsection (2)(b) or in paragraph 9(3) of Schedule 7A to the Town and Country Planning Act 1990 can be increased under subsection (7) or paragraph 9(4) of that Schedule without adversely affecting that supply.
+
+(11) In this section “development”, “habitat enhancement”, “planning obligation” and “planning permission” have the same meanings as in Schedule 7A to the Town and Country Planning Act 1990.
+
+#### 101 Biodiversity credits
+
+(1) The Secretary of State may make arrangements under which a person who is entitled to carry out the development of any land may purchase a credit from the Secretary of State for the purpose of meeting the biodiversity gain objective referred to in Schedule 7A to the Town and Country Planning Act 1990 or Schedule 2A to the Planning Act 2008.
+
+(2) A credit is to be regarded for the purposes of that Schedule as having such biodiversity value as is determined under the arrangements.
+
+(3) The arrangements may in particular include arrangements relating to—
+
+(a) applications to purchase credits;
+
+(b) the amount payable in respect of a credit of a given value;
+
+(c) proof of purchase;
+
+(d) reimbursement for credits purchased for development which is not carried out.
+
+(4) In determining the amount payable under the arrangements for a credit of a given value the Secretary of State must have regard to the need to determine an amount which does not discourage the registration of land in the biodiversity gain sites register.
+
+(5) The Secretary of State must publish information about the arrangements, including in particular the amount payable for credits.
+
+(6) The Secretary of State may use payments received under arrangements under this section for the following purposes (only)—
+
+(a) carrying out works, or securing the carrying out of works, for the purpose of habitat enhancement (within the meaning of Part 7A of the Town and Country Planning Act 1990) on land in England;
+
+(b) purchasing interests in land in England with a view to carrying out works, or securing the carrying out of works, for that purpose;
+
+(c) operating or administering the arrangements.
+
+(7) The references to works in subsection (6) do not include works which the Secretary of State is required to carry out apart from this section by virtue of any enactment.
+
+(8) The Secretary of State must publish reports relating to the discharge of the Secretary of State’s functions under subsections (1) and (6).
+
+(9) A report must relate to a period not exceeding a year which—
+
+(a) in the case of the first report, begins on the date on which Schedule 7A to the Town and Country Planning Act 1990 comes into force in relation to any development (within the meaning of Part 3 of that Act), and
+
+(b) in the case of any subsequent report, begins on the day after the last day of the period to which the previous report related.
+
+(10) A report must set out—
+
+(a) the total payments received under arrangements under this section in the period to which the report relates,
+
+(b) how those payments have been used, and
+
+(c) where those payments have been used for the purpose of carrying out or securing the carrying out of works for the purpose of habitat enhancement, the projected biodiversity value of the habitat enhancement at such time or times after completion of the works as the Secretary of State considers it appropriate to specify.
+
+### Biodiversity objective and reporting
+
+#### 102 General duty to conserve and enhance biodiversity
+
+(1) Section 40 of the Natural Environment and Rural Communities Act 2006 (duty to conserve biodiversity) is amended in accordance with subsections (2) to (7).
+
+(2) In the heading, after “conserve” insert “and enhance”.
+
+(3) For subsections (A1) and (1) substitute—
+
+> (A1) For the purposes of this section “the general biodiversity objective” is the conservation and enhancement of biodiversity in England through the exercise of functions in relation to England.
+>
+> (1) A public authority which has any functions exercisable in relation to England must from time to time consider what action the authority can properly take, consistently with the proper exercise of its functions, to further the general biodiversity objective.
+>
+> (1A) After that consideration the authority must (unless it concludes there is no new action it can properly take)—
+>
+> (a) determine such policies and specific objectives as it considers appropriate for taking action to further the general biodiversity objective, and
+>
+> (b) take such action as it considers appropriate, in the light of those policies and objectives, to further that objective.
+>
+> (1B) The requirements of subsection (1A)(a) may be satisfied (to any extent) by revising any existing policies and specific objectives for taking action to further the general biodiversity objective.
+>
+> (1C) The first consideration required by subsection (1) must be completed by the authority within the period of one year beginning with the day on which section 102 of the Environment Act 2021 comes into force.
+>
+> (1D) Any subsequent consideration required by subsection (1) must be completed no more than five years after the completion of the authority’s previous consideration.
+>
+> (1E) A determination required by subsection (1A)(a) must be made as soon as practicable after the completion of the consideration to which it relates.
+>
+> (1F) Nothing in this section prevents the authority from—
+>
+> (a) determining or revising policies and specific objectives at any time, or
+>
+> (b) taking action to further the general biodiversity objective at any time.
+
+(4) In subsection (2) for “subsection (1)” substitute “subsections (1) and (1A)”.
+
+(5) After subsection (2) insert—
+
+> (2A) In complying with subsections (1) and (1A) the authority must in particular have regard to—
+>
+> (a) any relevant local nature recovery strategy, and
+>
+> (b) any relevant species conservation strategy or protected site strategy prepared by Natural England.
+>
+> (2B) The Secretary of State must issue guidance to local planning authorities as to how they are to comply with their duty under subsection (2A)(a) when complying with subsections (1) and (1A) in their capacity as such authorities.
+>
+> (2C) Guidance under subsection (2B) must be—
+>
+> (a) published by the Secretary of State in such manner as the Secretary of State thinks fit,
+>
+> (b) kept under review, and
+>
+> (c) revised where the Secretary of State considers it appropriate.
+>
+> (2D) The first guidance under subsection (2B) must be published by the Secretary of State within the period of two years beginning with the day on which section 102 of the Environment Act 2021 comes into force.
+
+(6) For subsection (3) substitute—
+
+> (3) The action which may be taken by the authority to further the general biodiversity objective includes, in particular, action taken for the purpose of—
+>
+> (a) conserving, restoring or otherwise enhancing a population of a particular species, and
+>
+> (b) conserving, restoring or otherwise enhancing a particular type of habitat.
+
+(7) After subsection (5) insert—
+
+> (6) This section has effect in relation to Her Majesty’s Revenue and Customs with the following modifications—
+>
+> (a) the omission from subsection (A1) of the words “in England” and “in relation to England”;
+>
+> (b) the omission from subsection (1) of the words from “which” to “England”.
+>
+> (7) In this section references to England include the territorial sea adjacent to England.
+
+(8) In section 41 of that Act (biodiversity lists and action (England))—
+
+(a) in subsection (1), after “conserving” insert “or enhancing”;
+
+(b) in subsection (3) for “and (2)” substitute “and (1A)”.
+
+#### 103 Biodiversity reports
+
+(1) After section 40 of the Natural Environment and Rural Communities Act 2006 insert—
+
+> **40A Biodiversity reports**
+>
+> (1) This section applies to—
+>
+> (a) a local authority in England other than a parish council,
+>
+> (b) a local planning authority in England, and
+>
+> (c) a designated authority (see subsection (8)(a)).
+>
+> (2) A public authority to which this section applies (“the authority”) must publish biodiversity reports in accordance with this section.
+>
+> (3) A biodiversity report so published must contain—
+>
+> (a) a summary of the action which the authority has taken over the period covered by the report for the purpose of complying with its duties under section 40(1) and (1A),
+>
+> (b) a summary of the authority’s plans for complying with those duties over the period of five years following the period covered by the report,
+>
+> (c) any quantitative data required to be included in the report by regulations under subsection (8)(b), and
+>
+> (d) any other information that the authority considers it appropriate to include in the report.
+>
+> (4) If the authority is a local planning authority, its biodiversity report must also contain—
+>
+> (a) a summary of the action taken by the authority in carrying out its functions under Schedule 7A to the Town and Country Planning Act 1990 (biodiversity gain as condition of planning permission) over the period covered by the report,
+>
+> (b) information about any biodiversity gains resulting or expected to result from biodiversity gain plans approved by the authority during that period, and
+>
+> (c) a summary of the authority’s plans for carrying out those functions over the five year period following the period covered by the report.
+>
+> (5) A biodiversity report—
+>
+> (a) must specify the period covered by the report, and
+>
+> (b) must be published within the period of 12 weeks following the last day of that period.
+>
+> (6) The authority’s first biodiversity report must cover a period chosen by the authority which—
+>
+> (a) is no longer than three years, and
+>
+> (b) begins with the day on which the authority first becomes subject to the duty under subsection (2).
+>
+> (7) A subsequent biodiversity report made by the authority must cover a period chosen by the authority which—
+>
+> (a) is no longer than five years, and
+>
+> (b) begins with the day after the last day of the period covered by its most recent biodiversity report.
+>
+> (8) The Secretary of State may by regulations—
+>
+> (a) provide for specified public authorities, or public authorities of a specified description, to be designated authorities for the purposes of this section;
+>
+> (b) require biodiversity reports to include specified quantitative data relating to biodiversity in any area of land in England in relation to which the authority exercises any functions.
+>
+> In this subsection “specified” means specified in the regulations.
+>
+> (9) Public authorities with no functions exercisable in relation to England may not be designated under subsection (8)(a).
+>
+> (10) The power to make regulations under subsection (8) is exercisable by statutory instrument.
+>
+> (11) A statutory instrument containing regulations under subsection (8) is subject to annulment in pursuance of a resolution of either House of Parliament.
+>
+> (12) Terms used in this section and section 40 have the same meaning as in that section.
+
+### Local nature recovery strategies
+
+#### 104 Local nature recovery strategies for England
+
+(1) There are to be local nature recovery strategies for areas in England.
+
+(2) Together the local nature recovery strategies are to cover the whole of England.
+
+(3) The Secretary of State is to determine the areas within England to which individual local nature recovery strategies are to relate.
+
+(4) The area of a local authority, other than a county council, may not be split between local nature recovery strategies.
+
+(5) Section 40(2A) of the Natural Environment and Rural Communities Act 2006 (duty to conserve biodiversity) makes provision about the duties of public authorities in relation to local nature recovery strategies.
+
+#### 105 Preparation of local nature recovery strategies
+
+(1) A local nature recovery strategy for an area (“the strategy area”) is to be prepared and published by the responsible authority.
+
+(2) The responsible authority for a local nature recovery strategy is such one of the following authorities as is appointed by the Secretary of State—
+
+(a) a local authority whose area is, or is within, the strategy area;
+
+(b) the Mayor of London;
+
+(c) the mayor for the area of a combined authority established under section 103 of the Local Democracy, Economic Development and Construction Act 2009;
+
+(d) a National Park authority in England;
+
+(e) the Broads Authority;
+
+(f) Natural England.
+
+(3) A local nature recovery strategy is to be reviewed and republished from time to time by the responsible authority.
+
+(4) The Secretary of State may by regulations make provision about the procedure to be followed in the preparation and publication, and review and republication, of local nature recovery strategies.
+
+(5) Regulations under this section may, for example, include provision—
+
+(a) requiring the provision of information by a local authority whose area is, or is within, the strategy area but which is not the responsible authority;
+
+(b) for a local nature recovery strategy to be agreed by all of the local authorities whose areas are within the strategy area;
+
+(c) for the procedure for reaching such agreement and for the resolution of disagreements (including resolution by the Secretary of State or by a public inquiry);
+
+(d) for consultation, including consultation of members of the public;
+
+(e) for the times at or after which a local nature recovery strategy is to be reviewed and republished.
+
+(6) Regulations under this section are subject to the negative procedure.
+
+#### 106 Content of local nature recovery strategies
+
+(1) A local nature recovery strategy relating to an area (“the strategy area”) is to include—
+
+(a) a statement of biodiversity priorities for the strategy area, and
+
+(b) a local habitat map for the whole strategy area or two or more local habitat maps which together cover the whole strategy area.
+
+(2) The statement of biodiversity priorities referred to in subsection (1)(a) is to include—
+
+(a) a description of the strategy area and its biodiversity,
+
+(b) a description of the opportunities for recovering or enhancing biodiversity, in terms of habitats and species, in the strategy area,
+
+(c) the priorities, in terms of habitats and species, for recovering or enhancing biodiversity (taking into account the contribution that recovering or enhancing biodiversity can also make to other environmental benefits), and
+
+(d) proposals as to potential measures relating to those priorities.
+
+(3) A local habitat map referred to in subsection (1)(b) is a map identifying—
+
+(a) national conservation sites in the strategy area,
+
+(b) any nature reserves in the strategy area provided under section 21 of the National Parks and Access to the Countryside Act 1949, and
+
+(c) other areas in the strategy area which in the opinion of the responsible authority—
+
+(i) are, or could become, of particular importance for biodiversity, or
+
+(ii) are areas where the recovery or enhancement of biodiversity could make a particular contribution to other environmental benefits.
+
+(4) A local habitat map which does not relate to the whole of the strategy area must relate to the area of one or more local authorities within the strategy area.
+
+(5) The Secretary of State may issue guidance as to—
+
+(a) information to be included in a local nature recovery strategy pursuant to the requirements in subsections (1) to (3), and
+
+(b) any other matters to be included in a local nature recovery strategy.
+
+(6) A responsible authority must have regard to the guidance when preparing a local nature recovery strategy.
+
+(7) The Secretary of State must lay before Parliament, and publish, the guidance.
+
+#### 107 Information to be provided by the Secretary of State
+
+(1) For the purpose of assisting responsible authorities in their preparation of local nature recovery strategies, the Secretary of State must prepare and publish a national habitat map for England.
+
+(2) The national habitat map must in particular identify—
+
+(a) national conservation sites, and
+
+(b) other areas that in the opinion of the Secretary of State are of particular importance for biodiversity.
+
+(3) The Secretary of State may from time to time review and republish the national habitat map.
+
+(4) The Secretary of State must inform a responsible authority of any area in the authority’s strategy area which falls within subsection (5).
+
+(5) An area falls within this subsection if in the Secretary of State’s opinion—
+
+(a) the area could be of greater importance for biodiversity, or is an area where the recovery or enhancement of biodiversity could make a contribution to other environmental benefits, and
+
+(b) the area could contribute to the establishment of a network of areas across England for the recovery and enhancement of biodiversity in England as a whole.
+
+(6) The Secretary of State must provide a responsible authority with any other information—
+
+(a) that is held by the Secretary of State, and
+
+(b) that the Secretary of State considers might assist the authority in preparing a local nature recovery strategy.
+
+#### 108 Interpretation
+
+(1) This section has effect for the purposes of sections 104 to 107.
+
+(2) “Local authority” means—
+
+(a) a county or district council in England;
+
+(b) a London borough council;
+
+(c) the Common Council of the City of London;
+
+(d) the Council of the Isles of Scilly.
+
+(3) “National conservation site” means—
+
+(a) a site of special scientific interest, within the meaning of Part 2 of the Wildlife and Countryside Act 1981;
+
+(b) a national nature reserve declared in accordance with section 35 of that Act;
+
+(c) a Ramsar site, within the meaning of section 37A of that Act;
+
+(d) a marine conservation zone designated under section 116 of the Marine and Coastal Access Act 2009;
+
+(e) a European site, within the meaning of regulation 8 of the Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012).
+
+### Conservation
+
+#### 109 Species conservation strategies
+
+(1) Natural England may prepare and publish a strategy for improving the conservation status of any species of fauna or flora.
+
+(2) A strategy under subsection (1) is called a “species conservation strategy”.
+
+(3) A species conservation strategy must relate to an area (the “strategy area”) consisting of—
+
+(a) England, or
+
+(b) any part of England.
+
+(4) A species conservation strategy for a species may in particular—
+
+(a) identify areas or features in the strategy area which are of importance to the conservation of the species,
+
+(b) identify priorities in relation to the creation or enhancement of habitat for the purpose of improving the conservation status of the species in the strategy area,
+
+(c) set out how Natural England proposes to exercise its functions in relation to the species across the whole of the strategy area or in any part of it for the purpose of improving the conservation status of the species in the strategy area,
+
+(d) include Natural England’s opinion on the giving by any other public authority of consents or approvals which might affect the conservation status of the species in the strategy area, and
+
+(e) include Natural England’s opinion on measures that it would be appropriate to take to avoid, mitigate or compensate for any adverse impact on the conservation status of the species in the strategy area that may arise from a plan, project or other activity.
+
+(5) Natural England may, from time to time, amend a species conservation strategy.
+
+(6) A local planning authority in England and any prescribed authority must co-operate with Natural England in the preparation and implementation of a species conservation strategy so far as relevant to the authority’s functions.
+
+(7) The Secretary of State may give guidance to local planning authorities in England and to prescribed authorities as to how to discharge the duty in subsection (6).
+
+(8) The Secretary of State must lay before Parliament, and publish, the guidance.
+
+(9) A local planning authority in England and any prescribed authority must in the exercise of its functions have regard to a species conservation strategy so far as relevant to its functions.
+
+(10) In this section—
+
+- “England” includes the territorial sea adjacent to England, which for this purpose does not include—
+
+  - any part of the territorial sea adjacent to Wales for the general or residual purposes of the Government of Wales Act 2006 (see section 158 of that Act), or
+  - any part of the territorial sea adjacent to Scotland for the general or residual purposes of the Scotland Act 1998 (see section 126 of that Act);
+
+- “local planning authority” means a person who is a local planning authority for the purposes of any provision of Part 3 of the Town and Country Planning Act 1990;
+
+- “prescribed authority” means an authority exercising functions of a public nature in England which is specified for the purposes of this section by regulations made by the Secretary of State.
+
+(11) Regulations under subsection (10) are subject to the negative procedure.
+
+#### 110 Protected site strategies
+
+(1) Natural England may prepare and publish a strategy for—
+
+(a) improving the conservation and management of a protected site, and
+
+(b) managing the impact of plans, projects or other activities (wherever undertaken) on the conservation and management of the protected site.
+
+(2) A strategy under subsection (1) is called a “protected site strategy”.
+
+(3) A “protected site” means—
+
+(a) a European site,
+
+(b) a site of special scientific interest, or
+
+(c) a marine conservation zone,
+
+to the extent the site or zone is within England.
+
+(4) A protected site strategy for a protected site may in particular—
+
+(a) include an assessment of the impact that any plan, project or other activity may have on the conservation or management of the protected site (whether assessed individually or cumulatively with other activities),
+
+(b) include Natural England’s opinion on measures that it would be appropriate to take to avoid, mitigate or compensate for any adverse impact on the conservation or management of the protected site that may arise from a plan, project or other activity,
+
+(c) identify any plan, project or other activity that Natural England considers is necessary for the purposes of the conservation or management of the protected site, and
+
+(d) cover any other matter which Natural England considers is relevant to the conservation or management of the protected site.
+
+(5) In preparing a protected site strategy for a protected site, Natural England must consult—
+
+(a) any local planning authority in England which exercises functions in respect of an area—
+
+(i) within which any part of the protected site is located, or
+
+(ii) within which a plan, project or other activity that Natural England considers may have an adverse impact on the conservation or management of the protected site is being, or is proposed to be, undertaken,
+
+(b) any public authority in England—
+
+(i) that is undertaking, or proposing to undertake, a plan, project or other activity that Natural England considers may have an adverse impact on the conservation or management of the protected site,
+
+(ii) the consent or approval of which is required in respect of a plan, project or other activity that Natural England considers may have an adverse impact on the conservation or management of the protected site, or
+
+(iii) that Natural England considers may otherwise be affected by the strategy,
+
+(c) any IFC authority in England which exercises functions in respect of an area—
+
+(i) the conservation or management of which Natural England considers may be affected by the strategy, or
+
+(ii) the sea fisheries resources of which Natural England considers may be affected by the strategy,
+
+(d) the Marine Management Organisation, where—
+
+(i) any part of the protected site is within the MMO’s area, or
+
+(ii) Natural England considers any part of the MMO’s area may otherwise be affected by the strategy,
+
+(e) the Environment Agency,
+
+(f) the Secretary of State, and
+
+(g) any other person that Natural England considers should be consulted in respect of the strategy, including the general public or any section of it.
+
+(6) In subsections (4) and (5), a reference to an adverse impact on the conservation or management of a protected site includes—
+
+(a) in relation to a European site, anything which adversely affects the integrity of the site,
+
+(b) in relation to a site of special scientific interest, anything which is likely to adversely affect the flora, fauna or geological or physiographical features by reason of which the site is of special interest,
+
+(c) in relation to a marine conservation zone, anything which hinders the conservation objectives stated for the zone pursuant to section 117(2) of the Marine and Coastal Access Act 2009, and
+
+(d) any other thing which causes deterioration of natural habitats and the habitats of species as well as disturbance of the species in the protected site, in so far as such disturbance could be significant in relation to the conservation or management of the protected site.
+
+(7) A person whom Natural England consults under subsection (5)(a) to (e) must co-operate with Natural England in the preparation of a protected site strategy so far as relevant to the person’s functions.
+
+(8) The Secretary of State may give guidance as to how to discharge the duty in subsection (7).
+
+(9) The Secretary of State must lay before Parliament, and publish, the guidance.
+
+(10) A person must have regard to a protected site strategy so far as relevant to any duty which the person has under—
+
+(a) the Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012),
+
+(b) sections 28G to 28I of the Wildlife and Countryside Act 1981, or
+
+(c) sections 125 to 128 of the Marine and Coastal Access Act 2009.
+
+(11) Natural England may, from time to time, amend a protected site strategy.
+
+(12) The duty to consult a person under subsection (5) also applies when Natural England amends a protected site strategy under subsection (11) so far as the amendment is relevant to the person’s functions.
+
+(13) In this section—
+
+- “England” has the meaning given in section 109;
+- “European site” has the meaning given in regulation 8 of the Conservation of Habitats and Species Regulations 2017;
+- “IFC authority” means an inshore fisheries and conservation authority created under section 150 of the Marine and Coastal Access Act 2009;
+- “local planning authority” has the meaning given in section 109;
+- “marine conservation zone” means an area designated as a marine conservation zone under section 116(1) of the Marine and Coastal Access Act 2009;
+- “MMO’s area” has the meaning given in section 2(12) of the Marine and Coastal Access Act 2009;
+- “public authority” has the meaning given in section 40(4) of the Natural Environment and Rural Communities Act 2006;
+- “sea fisheries resources” has the meaning given in section 153(10) of the Marine and Coastal Access Act 2009;
+- “site of special scientific interest” means an area notified under section 28(1) of the Wildlife and Countryside Act 1981.
+
+#### 111 Wildlife conservation: licences
+
+(1) In section 10 of the Wildlife and Countryside Act 1981 (exceptions to section 9 of that Act), in subsection (1)—
+
+(a) in paragraph (a), omit the final “or”;
+
+(b) at the end insert
+
+> or
+>
+> (c) anything done in relation to an animal of any species pursuant to a licence granted by Natural England under regulation 55 of the Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012) in respect of an animal or animals of that species
+
+.
+
+(2) In section 16 of that Act (power to grant licences), in subsection (3)—
+
+(a) in paragraph (h), omit the final “or”;
+
+(b) at the end insert
+
+> or
+>
+> (j) in England, for reasons of overriding public interest
+
+.
+
+(3) In that section, after subsection (3A) insert—
+
+> (3B) In England, the appropriate authority shall not grant a licence under subsection (3) unless it is satisfied—
+>
+> (a) that there is no other satisfactory solution, and
+>
+> (b) that the grant of the licence is not detrimental to the survival of any population of the species of animal or plant to which the licence relates.
+
+(4) In that section, in subsections (5A)(c) and (6)(b), after “two years,” insert “or in the case of a licence granted by Natural England five years,”.
+
+(5) In that section, in subsection (9)(c), after “to (e)” insert “or (j)”.
+
+(6) In the Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012), in regulation 55(10), for “two years” substitute—
+
+> (a) five years, in the case of a licence granted by Natural England, or
+>
+> (b) two years, in any other case.
+
+### Habitats Regulations
+
+#### 112 Habitats Regulations: power to amend general duties
+
+(1) The Secretary of State may by regulations amend the Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012) (the “Habitats Regulations”), as they apply in relation to England, for the purposes in subsection (2).
+
+(2) The purposes are—
+
+(a) to require persons within regulation 9(1) of the Habitats Regulations to exercise functions to which that regulation applies—
+
+(i) to comply with requirements imposed by regulations under this section, or
+
+(ii) to further objectives specified in regulations under this section,
+
+instead of exercising them to secure compliance with the requirements of the Directives;
+
+(b) to require persons within regulation 9(3) of the Habitats Regulations, when exercising functions to which that regulation applies, to have regard to matters specified by regulations under this section instead of the requirements of the Directives.
+
+(3) The regulations may impose requirements, or specify objectives or matters, relating to—
+
+(a) targets in respect of biodiversity set by regulations under section 1 or 3;
+
+(b) improvements to the natural environment which relate to biodiversity and are set out in an environmental improvement plan.
+
+(4) The regulations may impose any other requirements, or specify any other objectives or matters, relating to the conservation or enhancement of biodiversity that the Secretary of State considers appropriate.
+
+(5) Regulations under this section may also, in connection with provision made for the purposes in subsection (2), amend other provisions of the Habitats Regulations, as they apply in relation to England, which refer to requirements, objectives or provisions of the Directives.
+
+(6) In making regulations under this section the Secretary of State must have regard to the particular importance of furthering the conservation and enhancement of biodiversity.
+
+(7) The Secretary of State may make regulations under this section only if satisfied that the regulations do not reduce the level of environmental protection provided by the Habitats Regulations.
+
+(8) Before making regulations under this section the Secretary of State must lay before Parliament, and publish, a statement explaining why the Secretary of State is satisfied as mentioned in subsection (7).
+
+(9) Before making regulations under this section the Secretary of State must consult such persons as the Secretary of State considers appropriate.
+
+(10) Regulations under this section may not come into force before 1 February 2023.
+
+(11) In this section—
+
+- “the Directives” has the same meaning as in the Habitats Regulations (see regulation 3(1));
+
+- “England” includes the territorial sea adjacent to England, which for this purpose does not include—
+
+  - any part of the territorial sea adjacent to Wales for the general or residual purposes of the Government of Wales Act 2006 (see section 158 of that Act), or
+  - any part of the territorial sea adjacent to Scotland for the general or residual purposes of the Scotland Act 1998 (see section 126 of that Act);
+
+- “environmental improvement plan” has the same meaning as in Part 1.
+
+(12) Regulations under this section are subject to the affirmative procedure.
+
+#### 113 Habitats Regulations: power to amend Part 6
+
+(1) The Secretary of State may by regulations amend Part 6 of the Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012) (the “Habitats Regulations”) (assessment of plans and projects) as they apply in relation to England.
+
+(2) In making regulations under this section the Secretary of State must have regard to the particular importance of furthering the conservation and enhancement of biodiversity.
+
+(3) The Secretary of State may make regulations under this section only if satisfied that the regulations do not reduce the level of environmental protection provided by the Habitats Regulations.
+
+(4) Before making regulations under this section the Secretary of State must lay before Parliament, and publish, a statement explaining why the Secretary of State is satisfied as mentioned in subsection (3).
+
+(5) Before making regulations under this section the Secretary of State must consult such persons as the Secretary of State considers appropriate.
+
+(6) In this section “England” has the same meaning as in section 112.
+
+(7) Regulations under this section are subject to the affirmative procedure.
+
+### Tree felling and planting
+
+#### 114 Controlling the felling of trees in England
+
+Schedule 16 makes amendments to Part 2 of the Forestry Act 1967 in relation to the enforcement of the power to control the felling of trees in England.
+
+#### 115 Local highway authorities in England to consult before felling street trees
+
+After section 96 of the Highways Act 1980 insert—
+
+> **96A Duty of local highway authorities in England to consult before felling street trees**
+>
+> (1) A local highway authority in England must consult members of the public before felling a tree on an urban road (a “street tree”).
+>
+> (2) A local highway authority must have regard to any guidance given by the Secretary of State to local highway authorities about how to discharge the duty under subsection (1).
+>
+> (3) The duty under subsection (1) does not apply in a case where—
+>
+> (a) the street tree has a diameter not exceeding 8 centimetres (measured over the bark, at a point 1.3 metres above ground level),
+>
+> (b) the authority considers that the street tree is dead,
+>
+> (c) the authority considers that the street tree is required to be felled—
+>
+> (i) by virtue of an order under the Plant Health Act 1967, or
+>
+> (ii) under any enactment on the basis that the tree is dangerous,
+>
+> (d) the authority considers that the street tree is required to be felled in order to comply with—
+>
+> (i) a duty to make reasonable adjustments in the Equality Act 2010 because the tree is causing an obstruction (see section 20 of that Act), or
+>
+> (ii) a duty in section 29 of that Act (prohibitions on discrimination etc in the provision of services) because the tree is causing an obstruction, or
+>
+> (e) the felling of the street tree is required for the purpose of carrying out development authorised by—
+>
+> (i) planning permission granted under section 70, 73, 76D, 77 or 79 of the Town and Country Planning Act 1990, or
+>
+> (ii) outline planning permission granted under section 92 of that Act.
+>
+> (4) In subsection (1) “urban road” means a highway, other than a trunk road or classified road, which—
+>
+> (a) is a restricted road for the purposes of section 81 of the Road Traffic Regulation Act 1984 (30 miles per hour speed limit),
+>
+> (b) is subject to an order made by virtue of section 84(1)(a) of that Act imposing a speed limit not exceeding 40 miles per hour, or
+>
+> (c) is otherwise a street in an urban area.
+
+### Use of forest risk commodities in commercial activity
+
+#### 116 Use of forest risk commodities in commercial activity
+
+(1) In Schedule 17—
+
+(a) Part 1 makes provision about the use of forest risk commodities in commercial activity,
+
+(b) Part 2 makes provision about enforcement, and
+
+(c) Part 3 contains general provisions.
+
+(2) Regulations under the following provisions of Schedule 17 are subject to the affirmative procedure—
+
+(a) paragraph 1;
+
+(b) paragraph 2(4)(c);
+
+(c) paragraph 5 (except for paragraph 5(2)(b) and (5));
+
+(d) paragraph 7;
+
+(e) Part 2.
+
+(3) Regulations under the following provisions of Schedule 17 are subject to the negative procedure—
+
+(a) paragraph 3;
+
+(b) paragraph 4;
+
+(c) paragraph 5(2)(b) and (5).
+
+## PART 7 — Conservation covenants
+
+### Creation of conservation covenant
+
+#### 117 Conservation covenant agreements
+
+(1) For the purposes of this Part, a “conservation covenant agreement” is an agreement between a landowner and a responsible body where—
+
+(a) the agreement contains provision which—
+
+(i) is of a qualifying kind,
+
+(ii) has a conservation purpose, and
+
+(iii) is intended by the parties to be for the public good,
+
+(b) it appears from the agreement that the parties intend to create a conservation covenant, and
+
+(c) the agreement is executed as a deed by the parties.
+
+(2) The reference in subsection (1)(a) to provision of a qualifying kind is to provision—
+
+(a) requiring the landowner—
+
+(i) to do, or not to do, something on land in England specified in the provision in relation to which the landowner holds a qualifying estate specified in the agreement for the purposes of the provision, or
+
+(ii) to allow the responsible body to do something on such land, or
+
+(b) requiring the responsible body to do something on such land.
+
+(3) For the purposes of subsection (1)(a)(ii), provision has a conservation purpose if its purpose is—
+
+(a) to conserve the natural environment of land or the natural resources of land,
+
+(b) to conserve land as a place of archaeological, architectural, artistic, cultural or historic interest, or
+
+(c) to conserve the setting of land with a natural environment or natural resources or which is a place of archaeological, architectural, artistic, cultural or historic interest.
+
+(4) In this Part—
+
+- a reference to conserving something includes a reference to protecting, restoring or enhancing it;
+
+- “qualifying estate” means—
+
+  - an estate in fee simple absolute in possession, or
+  - a term of years absolute granted for a term of more than seven years from the date of the grant and in the case of which some part of the period for which the term of years was granted remains unexpired;
+
+- a reference to “the qualifying estate”, in relation to an obligation under a conservation covenant, is to the estate in land by virtue of which the condition in subsection (1)(a)(i) was met in relation to—
+
+  - if the obligation is not an ancillary obligation, the provision giving rise to the obligation, or
+  - if the obligation is an ancillary obligation, the provision giving rise to the obligation to which it was ancillary;
+
+  (and for this purpose “ancillary obligation” means an obligation under provision falling within section 118(2)(b));
+
+- “natural environment”, in relation to land, includes—
+
+  - its plants, animals and other living organisms;
+  - their habitats;
+  - its geological features.
+
+#### 118 Conservation covenants
+
+(1) A conservation covenant is so much of a conservation covenant agreement as is given statutory effect by this section.
+
+(2) The following provisions of a conservation covenant agreement have statutory effect as a conservation covenant—
+
+(a) provisions in respect of which the conditions in section 117(1)(a) are met, and
+
+(b) provisions ancillary to any provision falling within paragraph (a).
+
+(3) If the agreement includes provision for public access to land to which other provision of the agreement (being provision which meets the conditions in section 117(1)(a)) relates, the provision for public access is to be treated as ancillary to that other provision.
+
+(4) In this Part—
+
+(a) references to an obligation under a conservation covenant are to an obligation of the landowner or the responsible body given statutory effect by this section as part of the conservation covenant, and
+
+(b) references to the land to which an obligation under a conservation covenant relates are, in the case of an obligation given statutory effect by this section by virtue of being ancillary to another provision, to the land to which the obligation under the other provision relates.
+
+#### 119 Responsible bodies
+
+(1) The following are responsible bodies for the purposes of this Part—
+
+(a) the Secretary of State;
+
+(b) bodies which are designated under this section (referred to in this Part as “designated bodies”).
+
+(2) The Secretary of State may, on the application of a local authority or other body, designate it as a responsible body for the purposes of this Part.
+
+(3) The Secretary of State may only designate a local authority if satisfied that it is suitable to be a responsible body.
+
+(4) The Secretary of State may only designate a body that is not a local authority if satisfied that it—
+
+(a) meets the condition in subsection (5), and
+
+(b) is suitable to be a responsible body.
+
+(5) The condition is that—
+
+(a) in the case of a public body or a charity, at least some of its main purposes or functions relate to conservation, or
+
+(b) in any other case, at least some of the body’s main activities relate to conservation.
+
+(6) The Secretary of State may revoke a designation by notice to the body concerned if—
+
+(a) the body has applied to the Secretary of State for its designation to be revoked,
+
+(b) the Secretary of State is satisfied that the body is not suitable to remain as a responsible body, or
+
+(c) in the case of a body other than a local authority, the Secretary of State is satisfied that the body does not meet the condition in subsection (5).
+
+(7) The Secretary of State may determine the criteria to be applied in deciding whether a body is suitable to be or to remain a responsible body (which may include criteria relating to the body’s connection with the United Kingdom).
+
+(8) The Secretary of State must publish (and keep up to date)—
+
+(a) a document setting out the criteria applicable for the purposes mentioned in subsection (7), and
+
+(b) a list of the bodies who are designated under this section.
+
+(9) In this section—
+
+- “charity” means a charity registered under the Charities Act 2011 or an exempt charity (within the meaning of that Act);
+
+- “conservation” means conservation of—
+
+  - the natural environment or natural resources of land,
+  - places of archaeological, architectural, artistic, cultural or historic interest, or
+  - the setting of land with a natural environment or natural resources or which is a place of archaeological, architectural, artistic, cultural or historic interest;
+
+- “local authority” means—
+
+  - a county or district council in England;
+  - a London borough council;
+  - the Common Council of the City of London;
+  - the Council of the Isles of Scilly.
+
+### Effect of conservation covenant
+
+#### 120 Local land charge
+
+(1) A conservation covenant is a local land charge.
+
+(2) For the purposes of the Local Land Charges Act 1975 the originating authority, as respects a conservation covenant, is the person by whom an obligation of the landowner under the covenant is enforceable.
+
+(3) In section 2 of the Local Land Charges Act 1975 (matters which are not local land charges), the references in paragraphs (a) and (b) to a covenant or agreement made between a lessor and a lessee do not include a conservation covenant.
+
+(4) In its application to a conservation covenant, section 10(1) of the Local Land Charges Act 1975 (compensation for non-registration or defective official search certificate) has effect as if—
+
+(a) in the words preceding paragraph (a), the words from the beginning to “but” were omitted,
+
+(b) paragraph (a) (non-registration) were omitted, and
+
+(c) in paragraph (b), for the words from “in existence” to the end there were substituted the words “registered in that register at the time of the search but was not shown by the official search certificate as so registered”.
+
+#### 121 Duration of obligation under conservation covenant
+
+(1) An obligation under a conservation covenant has effect for the default period, unless the covenant provides for a shorter period.
+
+(2) The default period for the purposes of subsection (1) is—
+
+(a) if the qualifying estate in relation to the obligation is an estate in fee simple absolute in possession, a period of indefinite duration, and
+
+(b) if the qualifying estate in relation to the obligation is a term of years absolute, a period corresponding in length to the remainder of the period for which the term of years was granted.
+
+#### 122 Benefit and burden of obligation of landowner
+
+(1) An obligation of the landowner under a conservation covenant is owed to the responsible body under the covenant.
+
+(2) Subject to the following provisions, an obligation of the landowner under a conservation covenant binds—
+
+(a) the landowner under the covenant, and
+
+(b) any person who becomes a successor of the landowner under the covenant.
+
+(3) In subsection (2)(b) “successor” (in relation to the landowner under the covenant) means a person who holds, in respect of any of the land to which the obligation relates—
+
+(a) the qualifying estate, or
+
+(b) an estate in land derived (whether immediately or otherwise) from the qualifying estate after the creation of the covenant.
+
+(4) An obligation of the landowner under a conservation covenant ceases to bind the landowner under the covenant, or a person who becomes a successor of that landowner, in respect of—
+
+(a) land which ceases to be land to which the obligation relates,
+
+(b) in the case of the landowner under the covenant, land in relation to which the landowner ceases to be the holder of the qualifying estate, or
+
+(c) in the case of a successor, land in relation to which the successor ceases to be the holder of the qualifying estate or of the estate derived from the qualifying estate, as the case may be.
+
+(5) Subsection (2)(b) does not apply if—
+
+(a) the obligation is positive and the person becomes a successor by virtue of holding a term of years absolute granted for a term of seven years or less from the date of the grant,
+
+(b) the conservation covenant was not registered in the local land charges register at the time when the successor acquired the estate in land concerned, or
+
+(c) the successor’s immediate predecessor was not bound by the obligation in respect of the land to which the successor’s interest relates.
+
+(6) In the case of a conservation covenant relating to land in an area in relation to which section 3 of the Local Land Charges Act 1975 (as substituted by paragraph 3 of Schedule 5 to the Infrastructure Act 2015) does not yet have effect, the reference in subsection (5)(b) to the local land charges register is to the appropriate local land charges register.
+
+(7) The reference in subsection (5)(b) to the time when the successor acquired the estate in land concerned is, if the successor acquired that interest under a disposition which took effect at law only when registered in the register of title kept under the Land Registration Act 2002, to be read as a reference to the time when the disposition was made.
+
+(8) In subsection (5)(c) the successor’s “immediate predecessor” is, unless subsection (9) applies, the successor’s immediate predecessor in title.
+
+(9) If the successor is the first holder of an estate in land which is derived from another estate in land (whether the other estate is the qualifying estate or an estate derived, immediately or otherwise, from it) the successor’s immediate predecessor is the holder of that other estate when the derived estate was created.
+
+#### 123 Benefit of obligation of responsible body
+
+(1) Subject to the following provisions, an obligation of the responsible body under a conservation covenant is owed—
+
+(a) to the landowner under the covenant, and
+
+(b) to any person who becomes a successor of the landowner under the covenant.
+
+(2) In this section “successor” (in relation to the landowner under the covenant) means a person who holds, in respect of any of the land to which the obligation relates—
+
+(a) the qualifying estate, or
+
+(b) an estate in land derived (whether immediately or otherwise) from the qualifying estate after the creation of the covenant.
+
+(3) An obligation of the responsible body under a conservation covenant ceases to be owed to the landowner under the covenant, or to a person who becomes a successor of that landowner, in respect of—
+
+(a) land which ceases to be land to which the obligation relates,
+
+(b) in the case of the landowner under the covenant, land in relation to which the landowner ceases to be the holder of the qualifying estate, or
+
+(c) in the case of a successor, land in relation to which the successor ceases to be the holder of the qualifying estate or of the estate derived from the qualifying estate, as the case may be.
+
+(4) Subsection (1)(b) does not apply if the obligation is ancillary to an obligation of the landowner under the covenant which does not bind the successor.
+
+### Breach and enforcement
+
+#### 124 Breach of obligation
+
+(1) A person bound by a negative obligation under a conservation covenant breaches the obligation by—
+
+(a) doing something which it prohibits, or
+
+(b) permitting or suffering another person to do such a thing.
+
+(2) A person bound by a positive obligation under a conservation covenant breaches the obligation if it is not performed.
+
+#### 125 Enforcement of obligation
+
+(1) In proceedings for the enforcement of an obligation under a conservation covenant, the available remedies are—
+
+(a) specific performance,
+
+(b) injunction,
+
+(c) damages, and
+
+(d) order for payment of an amount due under the obligation.
+
+(2) On an application for a remedy under subsection (1)(a) or (b), a court must, in considering what remedy is appropriate, take into account any public interest in the performance of the obligation concerned.
+
+(3) Subject to subsection (4), contract principles apply to damages for breach of an obligation under a conservation covenant.
+
+(4) In the case of breach of an obligation of the landowner under a conservation covenant, a court may award exemplary damages in such circumstances as it thinks fit.
+
+(5) For the purposes of the Limitation Act 1980, an action founded on an obligation under a conservation covenant is to be treated as founded on simple contract.
+
+#### 126 Defences to breach of obligation
+
+(1) In proceedings for breach of an obligation under a conservation covenant it is a defence to show—
+
+(a) that the breach occurred as a result of a matter beyond the defendant’s control,
+
+(b) that the breach occurred as a result of doing, or not doing, something in an emergency in circumstances where it was necessary for that to be done, or not done, in order to prevent loss of life or injury to any person, or
+
+(c) that at the time of the breach—
+
+(i) the land to which the obligation relates was, or was within an area, designated for a public purpose, and
+
+(ii) compliance with the obligation would have involved a breach of any statutory control applying as a result of the designation.
+
+(2) If the only reason for the application of subsection (1)(c) was failure to obtain authorisation, the defendant must also show that all reasonable steps to obtain authorisation had been taken.
+
+(3) The defence under subsection (1)(c) does not apply if the designation was in force when the conservation covenant was created.
+
+(4) The defence of statutory authority (which applies in relation to the infringement of rights such as easements by a person acting under statutory authority) applies in relation to breach of an obligation under a conservation covenant.
+
+(5) In this section—
+
+- “authorisation” means any approval, confirmation, consent, licence, permission or other authorisation (however described), whether special or general;
+- “statutory control” means control imposed by provision contained in, or having effect under, an Act.
+
+### Discharge and modification
+
+#### 127 Discharge of obligation of landowner by agreement
+
+(1) The responsible body under a conservation covenant and a person who holds the qualifying estate in respect of any of the land to which an obligation of the landowner under the covenant relates may, by agreement, discharge from the obligation any of the land in respect of which the person holds that estate.
+
+(2) Subsection (3) applies to—
+
+(a) the responsible body under a conservation covenant, and
+
+(b) a person who is a successor of the landowner under the covenant by virtue of holding an estate in land which—
+
+(i) is an estate in respect of any of the land to which an obligation of the landowner under the covenant relates, and
+
+(ii) is derived (whether immediately or otherwise) from the qualifying estate.
+
+(3) Those persons may, by agreement, discharge the estate in land mentioned in subsection (2)(b) from the obligation in respect of any of the land to which the obligation relates.
+
+(4) Any power under this section is exercisable by agreement executed as a deed by the parties which specifies—
+
+(a) the obligation to which the discharge relates,
+
+(b) the land to which the discharge relates, and
+
+(c) the estate in land by virtue of which the power is exercisable.
+
+#### 128 Discharge of obligation of responsible body by agreement
+
+(1) A person to whom an obligation of the responsible body under a conservation covenant is owed by virtue of the person holding an estate in land may, by agreement with the responsible body, discharge the obligation, so far as owed in relation to that estate, in respect of any of the land in respect of which the person is entitled to the benefit of the obligation.
+
+(2) The power under this section is exercisable by agreement executed as a deed by the parties which specifies—
+
+(a) the obligation to which the discharge relates,
+
+(b) the land to which the discharge relates, and
+
+(c) the estate in land by virtue of which the power is exercisable.
+
+#### 129 Modification of obligation by agreement
+
+(1) A person bound by, or entitled to the benefit of, an obligation under a conservation covenant may, by agreement with the responsible body under the covenant, modify the obligation in its application to any of the land in respect of which the person is bound by, or entitled to the benefit of, it.
+
+(2) The power under subsection (1) does not include power to make a change which, had it been included in the original agreement, would have prevented the provision of the agreement that gave rise to the obligation being provision in relation to which the conditions in section 117(1) were met.
+
+(3) The power under this section is exercisable by agreement executed as a deed by the parties which specifies—
+
+(a) the obligation to which the modification relates,
+
+(b) the land to which the modification relates, and
+
+(c) the estate in land by virtue of which the power is exercisable.
+
+(4) If an obligation under a conservation covenant is modified by an agreement under this section, the modification binds—
+
+(a) the parties to the agreement, and
+
+(b) any person who, as respects any of the land to which the modification relates, becomes a successor of a person bound by the modification.
+
+(5) In subsection (4)(b) “successor of a person bound by the modification”, means a person who holds, in respect of any of the land to which the modification relates—
+
+(a) the estate held by the person bound by the modification when the modification was agreed, or
+
+(b) an estate in land derived (whether immediately or otherwise) from that estate after the modification is agreed.
+
+#### 130 Discharge or modification of obligation by Upper Tribunal
+
+(1) Schedule 18 makes provision about the discharge or modification of an obligation under a conservation covenant on application to the Upper Tribunal.
+
+(2) Where any proceedings by action or otherwise are taken to enforce an obligation under a conservation covenant, any person against whom the proceedings are taken may in such proceedings apply to the High Court or the county court for an order giving leave to apply to the Upper Tribunal under Schedule 18 and staying the proceedings in the meantime.
+
+(3) No application under section 84(1) of the Law of Property Act 1925 (which enables the Upper Tribunal on application to discharge or modify a restriction arising under covenant or otherwise) may be made in relation to an obligation under a conservation covenant.
+
+### Replacement etc of responsible body
+
+#### 131 Power of responsible body to appoint replacement
+
+(1) The responsible body under a conservation covenant may appoint another responsible body to be the responsible body under the covenant, unless the covenant otherwise provides.
+
+(2) The power under subsection (1) is exercisable by agreement executed as a deed by the appointor and appointee.
+
+(3) In the case of a conservation covenant registered in the local land charges register, an appointment under subsection (1) only has effect if the appointor supplies to the Chief Land Registrar the information necessary to enable the Registrar to amend the registration.
+
+(4) In the case of a conservation covenant relating to land in an area in relation to which section 3 of the Local Land Charges Act 1975 (as substituted by paragraph 3 of Schedule 5 to the Infrastructure Act 2015) does not yet have effect—
+
+(a) the references in subsection (3) to the local land charges register and the Chief Land Registrar are to the appropriate local land charges register and the authority responsible for that register, but
+
+(b) subsection (3) does not apply to an appointment by that authority.
+
+(5) Appointment under subsection (1) has effect to transfer to the appointee—
+
+(a) the benefit of every obligation of the landowner under the conservation covenant, and
+
+(b) the burden of every obligation of the responsible body under the covenant.
+
+(6) Appointment under subsection (1) does not have effect to transfer any right or liability in respect of an existing breach of obligation.
+
+(7) A body appointed under subsection (1) as the responsible body under a conservation covenant must notify its appointment to every person who is bound by an obligation of the landowner under the covenant.
+
+#### 132 Body ceasing to be a responsible body
+
+(1) Subsections (2) and (3) apply if a body which is the responsible body under a conservation covenant ceases to be a designated body.
+
+(2) The body ceases to be the responsible body under the conservation covenant.
+
+(3) The following transfer to the Secretary of State—
+
+(a) the benefit of every obligation of the landowner under the covenant, and
+
+(b) the burden of every obligation of the responsible body under the covenant.
+
+(4) Subsection (3) does not have effect to transfer any right or liability in respect of an existing breach of obligation.
+
+(5) If subsection (3) has effect in relation to a conservation covenant, the Secretary of State becomes custodian of the covenant until—
+
+(a) an appointment under section 131(1) by the Secretary of State has effect in relation to the covenant, or
+
+(b) the Secretary of State makes an election under subsection (6) in relation to the covenant.
+
+(6) If custodian of a conservation covenant, the Secretary of State may elect to be the responsible body under the covenant by giving written notice of election to every person who is bound by an obligation of the landowner under the covenant.
+
+(7) The Secretary of State may, as custodian of a conservation covenant—
+
+(a) enforce any obligation of the landowner under the covenant, and
+
+(b) exercise in relation to the covenant any power conferred by this Part on the responsible body under the covenant.
+
+(8) In relation to any period as custodian of a conservation covenant, the Secretary of State has no liability with respect to performance of any obligation of the responsible body under the covenant.
+
+### Miscellaneous
+
+#### 133 Effect of acquisition or disposal of affected land by responsible body
+
+If the responsible body under a conservation covenant acquires an estate in land to which an obligation under the covenant relates (whether an obligation of the landowner or of the responsible body under the covenant)—
+
+(a) the acquisition does not have effect to extinguish the obligation,
+
+(b) section 122(2)(b) applies to the body as it would apply to any other person acquiring the estate in land in the same circumstances, and
+
+(c) any obligation of the responsible body under the covenant continues to bind the body in accordance with this Part.
+
+#### 134 Effect of deemed surrender and re-grant of qualifying estate
+
+(1) Subsection (2) applies if a term of years absolute which is the qualifying estate in relation to an obligation under a conservation covenant is deemed to be surrendered and re-granted by operation of law.
+
+(2) In the application of sections 122, 123 and 127 to the period after the deemed surrender, references to the qualifying estate are to be read as including a reference to the term of years deemed to be granted.
+
+#### 135 Declarations about obligations under conservation covenants
+
+(1) The court or Upper Tribunal may on the application of any person interested declare—
+
+(a) whether anything purporting to be a conservation covenant is a conservation covenant,
+
+(b) whether any land is land to which an obligation under a conservation covenant relates,
+
+(c) whether any person is bound by, or entitled to the benefit of, an obligation under a conservation covenant and, if so, in respect of what land,
+
+(d) what, upon the true construction of any instrument by means of which an obligation under a conservation covenant is created or modified, is the nature of the obligation.
+
+(2) No application under section 84(2) of the Law of Property Act 1925 (which enables the court on application to make declarations about restrictions under instruments) may be made in relation to an obligation under a conservation covenant.
+
+(3) In this section “the court” means the High Court or the county court.
+
+#### 136 Duty of responsible bodies to make annual return
+
+(1) A designated body must make an annual return to the Secretary of State stating whether, during the period to which the return relates, there were any conservation covenants under which an obligation was owed to it as the responsible body.
+
+(2) If there were any such conservation covenants, the annual return must—
+
+(a) state the number of conservation covenants;
+
+(b) state, for each conservation covenant, the area of the land in relation to which the body was owed any obligation as the responsible body.
+
+(3) The annual return must also give any information that is prescribed under subsection (4).
+
+(4) The Secretary of State may by regulations make provision about annual returns to be made by a designated body.
+
+(5) The provision which may be made under subsection (4) includes, in particular, provision—
+
+(a) prescribing information to be included in an annual return (but see subsection (10)), and
+
+(b) provision as to the period to which an annual return is to relate and the date by which an annual return is to be made.
+
+(6) Subject to any provision made as mentioned in subsection (5)(b)—
+
+(a) the period to which an annual return is to relate, and
+
+(b) the date by which an annual return is to be made,
+
+are such period and date as the Secretary of State may direct.
+
+(7) On giving a direction under subsection (6) the Secretary of State must take all reasonable steps to draw the direction to the attention of each responsible body affected by it.
+
+(8) A direction under subsection (6) may be varied or revoked by a further such direction.
+
+(9) Regulations under subsection (4) and directions under subsection (6) may make—
+
+(a) provision of general application, or
+
+(b) provision applicable only to one or more particular responsible bodies or to responsible bodies of a particular description.
+
+(10) Any information prescribed for inclusion in an annual return made by a designated body must be information about or connected with—
+
+(a) the designated body;
+
+(b) its activities over the period to which the return relates;
+
+(c) any conservation covenant under which an obligation was owed to it as the responsible body during that period;
+
+(d) the land in relation to which it was owed such an obligation.
+
+(11) Regulations under this section are subject to the negative procedure.
+
+### Supplementary
+
+#### 137 Crown application
+
+Schedule 19 makes provision about the application of this Part to Crown land.
+
+#### 138 Index of defined terms in Part 7
+
+The following Table sets out expressions defined or explained in this Part for general purposes.
+
+| Expression | Provision |
+|---|---|
+| conservation covenant | section 118 (1) |
+| conservation covenant agreement | section 117 (1) |
+| conservation purpose | section 117 (3) |
+| conserving (something) | section 117 (4) |
+| designated body | section 119(1)(b) |
+| natural environment (in relation to land) | section 117 (4) |
+| qualifying estate (generally) | section 117 (4) |
+| the qualifying estate (in relation to an obligation under a conservation covenant) | section 117 (4) |
+| responsible body | section 119 |
+
+#### 139 Consequential amendments relating to Part 7
+
+Schedule 20 makes consequential amendments relating to this Part.
+
+## PART 8 — Miscellaneous and general provisions
+
+### Regulation of chemicals
+
+#### 140 Amendment of REACH legislation
+
+Schedule 21 confers powers to amend the REACH Regulation and the REACH Enforcement Regulations 2008.
+
+### Concurrent functions in Wales
+
+#### 141 Amendments of Schedule 7B to the Government of Wales Act 2006
+
+(1) Schedule 7B to the Government of Wales Act 2006 (general restrictions on legislative competence of Senedd Cymru) is amended as follows.
+
+(2) In paragraph 9(8)(b) (exceptions to restrictions relating to reserved authorities)—
+
+(a) omit the “or” at the end of paragraph (v);
+
+(b) after paragraph (vi) insert
+
+> ; or
+>
+> (vii) the Environment Act 2021.
+
+(3) In paragraph 11(6)(b) (exceptions to restrictions relating to Ministers of the Crown)—
+
+(a) omit the “or” at the end of paragraph (v);
+
+(b) after paragraph (vi) insert
+
+> ; or
+>
+> (vii) the Environment Act 2021.
+
+### General provisions
+
+#### 142 Consequential provision
+
+(1) The Secretary of State may by regulations make provision that is consequential on this Act or regulations under this Act.
+
+(2) The Welsh Ministers may by regulations make provision that is consequential on—
+
+(a) a provision within section 147(4) (provisions to be commenced by Welsh Ministers), or
+
+(b) regulations under this Act made by the Welsh Ministers.
+
+(3) The Scottish Ministers may by regulations make provision that is consequential on—
+
+(a) a provision within section 147(5) (provisions to be commenced by Scottish Ministers), or
+
+(b) regulations under this Act made by the Scottish Ministers.
+
+(4) The Department of Agriculture, Environment and Rural Affairs in Northern Ireland may by regulations make provision that is consequential on—
+
+(a) a provision within section 147(6) (provisions to be commenced by the Department), or
+
+(b) regulations under this Act made by that Department.
+
+(5) The Department for the Economy in Northern Ireland may by regulations make provision that is consequential on regulations under this Act made by that Department.
+
+(6) Regulations under this section may amend or repeal provision made by or under any legislation (whenever passed or made).
+
+(7) Regulations under this section are subject to the affirmative procedure if they amend or repeal any provision of—
+
+(a) an Act of Parliament,
+
+(b) a Measure or Act of Senedd Cymru,
+
+(c) an Act of the Scottish Parliament, [[^F36]or]
+
+(d) Northern Ireland legislation, [^F37]...
+
+[^F37]e . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(8) Regulations under this section to which subsection (7) does not apply are subject to the negative procedure.
+
+(9) Regulations under this section—
+
+(a) made by the Welsh Ministers, may contain only provision which, if contained in an Act of Senedd Cymru, would be within the legislative competence of the Senedd;
+
+(b) made by the Scottish Ministers, may contain only provision which, if contained in an Act of the Scottish Parliament, would be within the legislative competence of the Parliament;
+
+(c) made by a Northern Ireland department, may contain only provision which, if contained in an Act of the Northern Ireland Assembly, would be within the legislative competence of the Assembly and would not require the Secretary of State’s consent.
+
+(10) Regulations under this section made by the Secretary of State may not contain provision that could be contained in regulations under this section—
+
+(a) made by the Welsh Ministers, unless the Welsh Ministers consent;
+
+(b) made by the Scottish Ministers, unless the Scottish Ministers consent;
+
+(c) made by a Northern Ireland department, unless the department consents.
+
+#### 143 Regulations
+
+(1) A power to make regulations under any provision of this Act includes power to make—
+
+(a) supplementary, incidental, transitional or saving provision;
+
+(b) different provision for different purposes or areas.
+
+(2) Subsection (1) does not apply to regulations under section 147 or 148.
+
+(3) Regulations under this Act made by—
+
+(a) the Secretary of State, or
+
+(b) the Welsh Ministers,
+
+are to be made by statutory instrument.
+
+(4) A power of a Northern Ireland department to make regulations under this Act is exercisable by statutory rule for the purposes of the Statutory Rules (Northern Ireland) Order 1979 (S.I. 1979/1573 (N.I. 12)).
+
+(5) Where regulations under this Act made or to be made by the Secretary of State—
+
+(a) are subject to the negative procedure, the statutory instrument containing them is subject to annulment in pursuance of a resolution of either House of Parliament;
+
+(b) are subject to the affirmative procedure, they may not be made unless a draft of the statutory instrument containing them has been laid before, and approved by a resolution of, each House of Parliament.
+
+(6) Where regulations under this Act made or to be made by the Welsh Ministers—
+
+(a) are subject to the negative procedure, the statutory instrument containing them is subject to annulment in pursuance of a resolution of Senedd Cymru;
+
+(b) are subject to the affirmative procedure, they may not be made unless a draft of the statutory instrument containing them has been laid before, and approved by a resolution of, Senedd Cymru.
+
+(7) Where regulations under this Act made or to be made by a Northern Ireland Department—
+
+(a) are subject to the negative procedure, they are subject to negative resolution within the meaning given by section 41(6) of the Interpretation Act (Northern Ireland) 1954 (c. 33 (N.I.)) ;
+
+(b) are subject to the affirmative procedure, they may not be made unless a draft of the regulations has been laid before and approved by a resolution of the Northern Ireland Assembly.
+
+(8) See sections 28 and 29 of the Interpretation and Legislative Reform (Scotland) Act 2010 (asp 10) for the meaning of “the negative procedure” and “the affirmative procedure” in relation to regulations under this Act made or to be made by the Scottish Ministers.
+
+(9) Any provision that may be made by regulations under this Act subject to the negative procedure may be made by regulations subject to the affirmative procedure.
+
+#### 144 Crown application
+
+(1) This Act binds the Crown, subject to subsection (2).
+
+(2) An amendment or repeal made by this Act binds the Crown to the same extent as the provision amended or repealed.
+
+#### 145 Financial provisions
+
+There is to be paid out of money provided by Parliament—
+
+(a) any expenditure incurred under or by virtue of this Act by the Secretary of State, and
+
+(b) any increase attributable to this Act in the sums payable under any other Act out of money so provided.
+
+#### 146 Extent
+
+(1) In Part 1 of this Act (environmental governance)—
+
+(a) the following provisions extend to England and Wales—
+
+(i) Chapter 1 (improving the natural environment), except for sections 17 to 20;
+
+(ii) section 28 (monitoring and reporting on environmental improvement plans and targets);
+
+(b) sections 17 to 19 (policy statement on environmental principles) extend to England and Wales and Scotland;
+
+(c) the remaining provisions extend to England and Wales, Scotland and Northern Ireland.
+
+(2) Part 2 of this Act (environmental governance: Northern Ireland) extends to Northern Ireland, except that—
+
+(a) in Part 1 of Schedule 3, paragraphs 16 and 17(7) extend to England and Wales, Scotland and Northern Ireland;
+
+(b) an amendment or repeal made by Part 2 of Schedule 3 has the same extent as the provision amended or repealed.
+
+(3) In Part 3 of this Act (waste and resource efficiency)—
+
+(a) the following provisions extend to England and Wales, Scotland and Northern Ireland—
+
+(i) section 50 and Schedule 4 (producer responsibility obligations);
+
+(ii) section 51 and Schedule 5 (producer responsibility for disposal costs);
+
+(iii) section 52 and Schedule 6 (resource efficiency information);
+
+(iv) section 53 and Schedule 7 (resource efficiency requirements);
+
+(v) section 63 (procedure for regulations under the Environmental Protection Act 1990);
+
+(b) the following provisions extend to England and Wales and Northern Ireland—
+
+(i) section 54 and Schedule 8 (deposit schemes);
+
+(ii) sections 55 and Schedule 9 (charges for single use items);
+
+(c) the following provisions extend to England and Wales—
+
+(i) section 60 (hazardous waste);
+
+(ii) section 66 and Schedule 10 (enforcement powers);
+
+(iii) section 68 (littering enforcement);
+
+(d) section 71 (waste regulation: amendment of Northern Ireland Order) extends to Northern Ireland;
+
+(e) an amendment or repeal has the same extent as the provision amended or repealed, except where contained in a provision for which a different extent is provided by this subsection.
+
+(4) In Part 4 of this Act (air quality and environmental recall)—
+
+(a) section 73 and Schedule 12 (smoke control areas) extend to England and Wales;
+
+(b) sections 74 to 77 (recall of motor vehicles) extend to England and Wales, Scotland and Northern Ireland;
+
+(c) an amendment or repeal has the same extent as the provision amended or repealed, except where contained in a provision for which a different extent is provided by this subsection.
+
+(5) In Part 5 of this Act (water)—
+
+(a) section 84 (report on elimination of discharges from storm overflows) extends to England and Wales;
+
+(b) sections 89 and 93 (water quality) extend to England and Wales, Scotland and Northern Ireland;
+
+(c) section 90 (water quality - powers of Welsh Ministers) extends to England and Wales;
+
+(d) section 91 (water quality - powers of Northern Ireland Department) extends to Northern Ireland;
+
+(e) section 92 (Solway Tweed river basin district) extends to England and Wales and Scotland;
+
+(f) an amendment or repeal has the same extent as the provision amended or repealed.
+
+(6) Part 6 of this Act (nature and biodiversity) extends to England and Wales, except that—
+
+(a) the amendments made by Schedule 15 (biodiversity gain in nationally significant infrastructure projects) have the same extent as the provisions amended, and
+
+(b) section 116 and Schedule 17 (use of forest risk commodities in commercial activity) extend to England and Wales, Scotland and Northern Ireland.
+
+(7) Part 7 of this Act (conservation covenants) extends to England and Wales.
+
+(8) This Part (miscellaneous and general provisions) extends to England and Wales, Scotland and Northern Ireland.
+
+#### 147 Commencement
+
+(1) The following provisions of this Act come into force on the day on which this Act is passed—
+
+(a) section 63 (procedure for regulations under the Environmental Protection Act 1990);
+
+(b) this Part of this Act (miscellaneous and general provisions), except section 140 and Schedule 21 so far as relating to powers of a Northern Ireland department to make regulations under paragraph 2 of that Schedule.
+
+(2) The following provisions of this Act come into force at the end of the period of 2 months beginning with the day on which this Act is passed—
+
+(a) section 51 and Schedule 5 (producer responsibility for disposal costs) so far as relating to England and Wales and Scotland;
+
+(b) section 52 and Schedule 6 (resource efficiency information) so far as relating to England and Wales and Scotland;
+
+(c) section 53 and Schedule 7 (resource efficiency requirements) so far as relating to England and Wales and Scotland;
+
+(d) section 54 and Schedule 8 (deposit schemes) so far as relating to England and Wales;
+
+(e) section 55 and Schedule 9 (charges for single use items) so far as relating to England and Wales;
+
+(f) section 56 (carrier bag charge) so far as relating to England and Wales;
+
+(g) section 58 (electronic waste tracking);
+
+(h) section 66 and Schedule 10 (enforcement powers);
+
+(i) section 70 (regulation of polluting activities);
+
+(j) section 80 (storm overflows) and section 84 (report on elimination of discharges from storm overflows);
+
+(k) section 88 (water abstraction in England);
+
+(l) section 89 (water quality), except so far as relating to legislation within section 89(2)(d) to (f) and any regulations modifying that legislation made under or by virtue of the European Union (Withdrawal) Act 2018;
+
+(m) sections 90, 92 and 93 (water quality);
+
+(n) section 97 (disclosure of HMRC information).
+
+(3) The following provisions of this Act come into force on such day as the Secretary of State may by regulations appoint —
+
+(a) Part 1 (environmental governance);
+
+(b) section 50 and Schedule 4 (producer responsibility obligations), so far as relating to England;
+
+(c) section 57 (separate collection of waste);
+
+(d) section 60 (hazardous waste), so far as relating to England;
+
+(e) section 62 (transfrontier shipments of waste);
+
+(f) section 64 (charging powers), so far as relating to the Environment Agency;
+
+(g) section 68 (littering enforcement), so far as relating to England;
+
+(h) in section 69 (fixed penalty notices), subsections (2) and (4) and subsection (1) so far as relating to those subsections;
+
+(i) section 72 and Schedule 11 (local air quality management framework);
+
+(j) Parts 1 and 3 of Schedule 12 (smoke control areas) and section 73 so far as relating to those Parts;
+
+(k) sections 74 to 77 (recall of motor vehicles);
+
+(l) sections 78 and 79 (water management plans etc), so far as relating to undertakers whose areas are wholly or mainly in England;
+
+(m) sections 81 and 82 (reporting and monitoring duties relating to discharges from storm overflows etc);
+
+(n) section 83 (reduction of adverse impacts of storm overflows);
+
+(o) sections 85 and 87 (amendments to Water Industry Act 1991), so far as relating to undertakers whose areas are wholly or mainly in England and licensees using the systems of such undertakers;
+
+(p) section 86 and Schedule 13 (appointment of water and sewerage undertakers in England);
+
+(q) section 94 (valuation of other land in drainage districts: England);
+
+(r) section 96 (valuation of agricultural land in drainage districts), so far as relating to internal drainage districts which are wholly or mainly in England;
+
+(s) Part 6 (nature and biodiversity);
+
+(t) Part 7 (conservation covenants).
+
+(4) The following provisions of this Act come into force on such day as the Welsh Ministers may by regulations appoint—
+
+(a) section 50 and Schedule 4 (producer responsibility obligations), so far as relating to Wales;
+
+(b) section 60 (hazardous waste), so far as relating to Wales;
+
+(c) section 64 (charging powers), so far as relating to the Natural Resources Body for Wales;
+
+(d) section 68 (littering enforcement), so far as relating to Wales;
+
+(e) in section 69 (fixed penalty notices), subsections (3) and (5) and subsection (1) so far as relating to those subsections;
+
+[^F38]f . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(g) sections 78 and 79 (water management plans etc), so far as relating to undertakers whose areas are wholly or mainly in Wales;
+
+(h) sections 85 and 87 (amendments to Water Industry Act 1991), so far as relating to undertakers whose areas are wholly or mainly in Wales and licensees using the systems of such undertakers;
+
+(i) section 95 (valuation of other land in drainage districts: Wales);
+
+(j) section 96 (valuation of agricultural land in drainage districts), so far as relating to internal drainage districts which are wholly or mainly in Wales.
+
+(5) The following provisions of this Act come into force on such day as the Scottish Ministers may by regulations appoint—
+
+(a) section 50 and Schedule 4 (producer responsibility obligations), so far as relating to Scotland;
+
+(b) section 64 (charging powers), so far as relating to the Scottish Environment Protection Agency.
+
+(6) The following provisions of this Act come into force on such day as the Department of Agriculture, Environment and Rural Affairs in Northern Ireland may by order appoint—
+
+(a) Part 2 (environmental governance: Northern Ireland);
+
+(b) section 50 and Schedule 4 (producer responsibility obligations), so far as relating to Northern Ireland;
+
+(c) section 51 and Schedule 5 (producer responsibility for disposal costs) so far as relating to Northern Ireland;
+
+(d) section 52 and Schedule 6 (resource efficiency information) so far as relating to Northern Ireland;
+
+(e) section 53 and Schedule 7 (resource efficiency requirements) so far as relating to Northern Ireland;
+
+(f) section 54 and Schedule 8 (deposit schemes) so far as relating to Northern Ireland;
+
+(g) section 55 and Schedule 9 (charges for single use items), so far as relating to Northern Ireland;
+
+(h) section 56 (carrier bag charge) so far as relating to Northern Ireland;
+
+(i) section 59 (electronic waste tracking: Northern Ireland);
+
+(j) section 61 (hazardous waste: Northern Ireland);
+
+(k) section 65 (waste charging: Northern Ireland);
+
+(l) section 67 (enforcement powers: Northern Ireland);
+
+(m) section 71 (waste regulation: amendment of Northern Ireland Order);
+
+(n) section 89 (water quality: powers of Secretary of State), so far as relating to legislation within section 89(2)(d) to (f) and any regulations modifying that legislation made under or by virtue of the European Union (Withdrawal) Act 2018;
+
+(o) section 91 (water quality: powers of Northern Ireland Department);
+
+(p) section 140 and Schedule 21 (amendment of REACH legislation) so far as relating to powers of a Northern Ireland department to make regulations under paragraph 2 of that Schedule.
+
+(7) An order under subsection (6) may not appoint a day for the coming into force of the following provisions of Schedule 3 (OEP’s Northern Ireland functions), unless the Secretary of State consents—
+
+(a) paragraphs 16 and 17(7);
+
+(b) Part 2.
+
+(8) The power to make an order under subsection (6) is exercisable by statutory rule for the purposes of the Statutory Rules (Northern Ireland) Order 1979 (S.I. 1979/1573 (N.I. 12)).
+
+(9) An order under subsection (6) may not be made unless a draft of the order has been laid before and approved by a resolution of the Northern Ireland Assembly.
+
+(10) A power to make regulations or an order under this section includes power to appoint different days for different purposes or areas.
+
+#### 148 Transitional or saving provision
+
+(1) The Secretary of State may by regulations make transitional or saving provision in connection with the coming into force of any provision of this Act.
+
+(2) The Welsh Ministers may by regulations make transitional or saving provision in connection with the coming into force of any provision within section 147(4) (provisions to be commenced by Welsh Ministers).
+
+(3) The Scottish Ministers may by regulations make transitional or saving provision in connection with the coming into force of any provision within section 147(5) (provisions to be commenced by Scottish Ministers).
+
+(4) The Department of Agriculture, Environment and Rural Affairs in Northern Ireland may by regulations make transitional or saving provision in connection with the coming into force of any provision within section 147(6) (provisions to be commenced by Department).
+
+(5) Regulations under this section—
+
+(a) made by the Welsh Ministers, may contain only provision which, if contained in an Act of Senedd Cymru, would be within the legislative competence of the Senedd;
+
+(b) made by the Scottish Ministers, may contain only provision which, if contained in an Act of the Scottish Parliament, would be within the legislative competence of that Parliament;
+
+(c) made by the Department of Agriculture, Environment and Rural Affairs in Northern Ireland, may contain only provision which, if contained in an Act of the Northern Ireland Assembly, would be within the legislative competence of the Assembly and would not require the Secretary of State’s consent.
+
+(6) Regulations under this section made by the Secretary of State may not contain provision that could be contained in regulations under this section—
+
+(a) made by the Welsh Ministers, unless the Welsh Ministers consent;
+
+(b) made by the Scottish Ministers, unless the Scottish Ministers consent;
+
+(c) made by the Department of Agriculture, Environment and Rural Affairs in Northern Ireland, unless the Department consents.
+
+(7) Any provision which could be made by regulations under this section made by the Department of Agriculture, Environment and Rural Affairs in Northern Ireland may be made by an order made by the Department under section 147.
+
+(8) A power to make regulations or an order under this section includes power to make different provision for different purposes or areas.
+
+#### 149 Short title
+
+This Act may be cited as the Environment Act 2021.
+
+## SCHEDULE 1 — The Office for Environmental Protection
+
+*Section 22*
+
+### Membership
+
+**1** (1) The OEP is to consist of—
+
+(a) a Chair (who is to be a non-executive member),
+
+[[^F39](aa) a Northern Ireland member (who is to be a non-executive member),]
+
+(b) at least two, but not more than five, other non-executive members,
+
+(c) a chief executive (who is to be the accounting officer), and
+
+(d) at least one, but not more than three, other executive members.
+
+(2) The members are to be appointed by the Secretary of State [[^F40], the Northern Ireland Department] and the OEP in accordance with paragraphs 2 and 3.
+
+(3) [[^F41]When exercising their functions of appointment] the Secretary of State and the OEP must ensure, so far as practicable, that the number of non-executive members [[^F42](including the Northern Ireland member)] is at all times greater than the number of executive members.
+
+### Appointment of non-executive members
+
+**2** [[^F43](1) The Chair is to be appointed by the Secretary of State acting jointly with the Northern Ireland Department, other than the first Chair who is to be appointed by the Secretary of State.
+
+(2) The Northern Ireland member is to be appointed by the Northern Ireland Department after consulting the Secretary of State and the Chair.
+
+(2A) The other non-executive members are to be appointed by the Secretary of State after consulting the Northern Ireland Department and the Chair.
+
+(2B) The Northern Ireland Department must appoint as the Northern Ireland member a person with experience of—
+
+(a) Northern Ireland environmental law (within the meaning of Part 1 of Schedule 3),
+
+(b) environmental science in Northern Ireland, or
+
+(c) environmental regulation in Northern Ireland.]
+
+(3) The Secretary of State must, in appointing non-executive members, have regard to the desirability of the members (between them) having experience of—
+
+(a) law (including international law) relating to the natural environment,
+
+(b) environmental science,
+
+(c) environmental policy, and
+
+(d) investigatory and enforcement proceedings.
+
+(4) A person may not be appointed as a non-executive member if the person is an employee of the OEP.
+
+### Appointment of executive members
+
+**3** (1) The chief executive is to be appointed by the non-executive members of the OEP, other than the first chief executive who is to be appointed by the Chair.
+
+(2) The other executive members are to be appointed by the OEP.
+
+(3) The Secretary of State [[^F44]and the Northern Ireland Department] must be consulted before a person is appointed as chief executive.
+
+(4) An executive member must be an employee of the OEP.
+
+### Interim chief executive
+
+**4** (1) The Secretary of State may appoint a person as an executive member to act as chief executive of the OEP (“an interim chief executive”) until the appointment of the first chief executive by the Chair under paragraph 3(1).
+
+(2) Where the OEP has fewer members than are needed to hold a meeting that is quorate (see paragraph 11(2)), an interim chief executive may incur expenditure and do other things in the name and on behalf of the OEP.
+
+(3) In exercising the power in sub-paragraph (2), an interim chief executive must act in accordance with any directions given by the Secretary of State.
+
+(4) Neither paragraph 3(4) (requirement that executive members are employees) nor paragraph 5(2) (requirement that members are not civil servants) apply to an interim chief executive.
+
+### Terms of membership
+
+**5** (1) A member of the OEP holds and vacates office in accordance with the terms of the member’s appointment, subject to the provisions of this Schedule.
+
+(2) A person may not hold office as a member of the OEP if the person is employed in the civil service of the State.
+
+(3) A non-executive member must be appointed for a fixed term of no more than 5 years.
+
+(4) The Secretary of State must, in determining the length of a non-executive member’s term, have regard to the desirability of securing that the appointments of non-executive members [[^F45](including the Northern Ireland member)] expire at different times.
+
+[[^F46](4A) The Northern Ireland Department must, in determining the length of a Northern Ireland member’s term, have regard to the desirability of securing that the appointments of non-executive members expire at different times.]
+
+(5) The previous appointment of a person as a non-executive member does not affect the person’s eligibility for re-appointment.
+
+[[^F47](6) A non-executive member ceases to be a member of the OEP upon becoming its employee.
+
+(7) A non-executive member, other than the Northern Ireland member—
+
+(a) may resign from office by giving notice to the Secretary of State, and
+
+(b) may be removed from office by notice given by the Secretary of State, after consulting the Northern Ireland Department, on the grounds that the member—
+
+(i) has without reasonable excuse failed to discharge the member’s functions, or
+
+(ii) is, in the opinion of the Secretary of State, unable or unfit to carry out the member’s functions.
+
+(8) The Northern Ireland member—
+
+(a) may resign from office by giving notice to the Northern Ireland Department, and
+
+(b) may be removed from office by notice given by the Northern Ireland Department after consulting the Secretary of State, on the grounds that the member—
+
+(i) has without reasonable excuse failed to discharge the member’s functions, or
+
+(ii) is, in the opinion of the Northern Ireland Department, unable or unfit to carry out the member’s functions.]
+
+### Remuneration of non-executive members
+
+**6** (1) The OEP must pay its non-executive members such remuneration and allowances as the Secretary of State may determine.
+
+(2) If a person ceases to be a non-executive member, other than by reason of their term of office expiring, and the Secretary of State determines that the person should be compensated because of special circumstances, the OEP must pay compensation of such amount as the Secretary of State may determine.
+
+(3) The Secretary of State must consult the Chair before making a determination under this paragraph.
+
+### Staffing and remuneration
+
+**7** (1) The OEP may—
+
+(a) appoint employees on such terms as it determines, and
+
+(b) make such other arrangements for the staffing of the OEP as it determines.
+
+(2) The terms of the first chief executive’s appointment are to be determined by the Chair.
+
+(3) The OEP must pay its employees such remuneration as the OEP may determine.
+
+(4) The OEP must pay, or make provision for paying, to or in respect of a person who is or has been an employee of the OEP, such sums as the OEP may determine with the approval of the Secretary of State in respect of pensions, allowances and gratuities.
+
+(5) In the Superannuation Act 1972 (“the 1972 Act”), in Schedule 1 (kinds of employment to which a scheme under section 1 of the 1972 Act can apply), in the list of “other Bodies”, at the appropriate place insert—
+
+> - The Office for Environmental Protection.
+
+(6) The OEP must pay to the Minister for the Civil Service, at such times as the Minister may direct, such sums as the Minister may determine in respect of any increase attributable to sub-paragraph (5) in the sums payable out of money provided by Parliament under the Superannuation Act 1972.
+
+### Powers
+
+**8** (1) The OEP may do anything (other than something mentioned in sub-paragraph (2)) it thinks appropriate for the purposes of, or in connection with, its functions.
+
+(2) The OEP may not—
+
+(a) accept gifts of money, land or other property, or
+
+(b) form, participate in forming, or invest in, a company, partnership, joint venture or other similar form of organisation.
+
+### Committees
+
+**9** (1) The OEP may establish committees.
+
+(2) A committee may include persons who are not members of the OEP (whether or not they are employees of the OEP).
+
+(3) A member of a committee who is neither a member nor an employee of the OEP is not entitled to vote at meetings of that committee.
+
+(4) The OEP may pay such allowances as it may determine to any person who—
+
+(a) is a member of a committee, but
+
+(b) is neither a member, nor an employee, of the OEP.
+
+### Delegation to members, committees and employees
+
+**10** (1) The OEP may delegate any of its functions (other than a function mentioned in sub-paragraph (4)) to—
+
+(a) a member of the OEP,
+
+(b) any of the OEP’s employees authorised for that purpose, or
+
+(c) a committee of the OEP.
+
+(2) The OEP must prepare a document that sets out its policy on how its functions may be appropriately delegated (a “delegation policy”).
+
+(3) A function is delegated under this paragraph to the extent, and on the terms, that the OEP determines in accordance with its delegation policy.
+
+(4) The OEP may not delegate the following functions—
+
+(a) approving the strategy under section 23(3) (or a revision of it);
+
+(b) approving a report under section 28 or 29 [[^F48], or a report under paragraph 1 or 2 of Schedule 3 (functions of the OEP in Northern Ireland)];
+
+(c) approving written advice to a Minister of the Crown under section 30(1) or (3) [[^F49], or written advice to a Northern Ireland department under paragraph 3(1) or (3) of Schedule 3];
+
+(d) deciding whether to give an information notice [[^F50]or a Northern Ireland information notice];
+
+(e) deciding whether to give a decision notice [[^F51]or a Northern Ireland decision notice];
+
+(f) deciding whether to apply for an environmental review (see section 38);
+
+(g) deciding whether to apply for judicial review or a statutory review, or to intervene in proceedings that relate to a judicial review or a statutory review (see section 39);
+
+[[^F52](ga) deciding whether to make a review application (see paragraph 12 of Schedule 3) or an application for judicial review by virtue of paragraph 13(1) of that Schedule or to intervene in proceedings that relate to a judicial review (see paragraph 13 of that Schedule);]
+
+(h) approving a delegation policy under sub-paragraph (2);
+
+(i) approving a report on the exercise of the OEP’s functions under paragraph 13(1) or a statement of accounts under paragraph 14(2).
+
+### Procedure
+
+**11** (1) The OEP may determine its own procedure, subject to sub-paragraph (2), and the procedure of its committees.
+
+(2) A meeting of the OEP is not quorate unless—
+
+(a) there are at least three members present, and
+
+(b) a majority of the members present are non-executive members.
+
+(3) The validity of any proceedings of the OEP is not affected by any vacancy among its members or by any defect in the appointment of such a member.
+
+### Funding
+
+**12** (1) The Secretary of State [[^F53]and the Northern Ireland Department] must [[^F54], between them,] pay to the OEP such sums as [[^F55]they consider] are reasonably sufficient to enable the OEP to carry out its functions.
+
+(2) The Secretary of State [[^F56], or the Northern Ireland Department,] may provide further financial assistance to the OEP (including by way of grants, loans, guarantees or indemnities) subject to such conditions as the Secretary of State [[^F57], or that department,] may determine.
+
+### Annual report
+
+**13** (1) As soon as reasonably practicable after the end of each financial year the OEP must prepare a report on the exercise of its functions during that financial year.
+
+(2) The OEP must—
+
+(a) arrange for its report to be laid before Parliament [[^F58]and the Northern Ireland Assembly], and
+
+(b) publish it.
+
+### Annual accounts
+
+**14** (1) The OEP must keep proper accounts and proper records in relation to them.
+
+(2) The OEP must prepare a statement of accounts in respect of each financial year in the form specified by the Secretary of State.
+
+(3) A statement of accounts must include an assessment by the OEP of whether, in the financial year to which the statement relates, the Secretary of State [[^F59]and the Northern Ireland Department] provided it with sufficient sums to carry out its functions.
+
+(4) The OEP must send a copy of each statement of accounts to the Secretary of State [[^F60], the Northern Ireland Department] and the Comptroller and Auditor General as soon as reasonably practicable after the end of the financial year to which it relates.
+
+(5) The Comptroller and Auditor General must—
+
+(a) examine, certify and report on the statement of accounts, and
+
+(b) send a copy of the certified statement and the report to the Secretary of State [[^F61], the Northern Ireland Department] and the OEP.
+
+(6) The OEP must arrange for the laying before Parliament [[^F62]and the Northern Ireland Assembly] of a copy of—
+
+(a) its certified statement of accounts, and
+
+(b) the Comptroller and Auditor General’s report on its statement of accounts.
+
+### Meaning of “financial year”
+
+**15** In this Schedule “financial year” means—
+
+(a) the period beginning with the date on which the OEP is established and ending with 31 March following that date, and
+
+(b) each successive period of 12 months.
+
+### Status
+
+**16** (1) The OEP is not to be regarded—
+
+(a) as a servant or agent of the Crown, or
+
+(b) as enjoying any status, immunity or privilege of the Crown.
+
+(2) The OEP’s property is not to be regarded as property of, or property held on behalf of, the Crown.
+
+(3) Service as a member, or as an employee, of the OEP is not service in the civil service of the State.
+
+### Independence of the OEP
+
+**17** In exercising functions in respect of the OEP, the Secretary of State [[^F63]and the Northern Ireland Department] must have regard to the need to protect its independence.
+
+### Disqualification from membership of legislatures
+
+**18** In Part 2 of Schedule 1 to the House of Commons Disqualification Act 1975, at the appropriate place insert—
+
+> - The Office for Environmental Protection.
+
+**19** In Part 2 of Schedule 1 to the Northern Ireland Assembly Disqualification Act 1975, at the appropriate place insert—
+
+> - The Office for Environmental Protection.
+
+### Public records
+
+**20** In Part 2 of the Table in paragraph 3 of Schedule 1 to the Public Records Act 1958 (definition of public records), at the appropriate place insert—
+
+> - The Office for Environmental Protection.
+
+### Freedom of Information
+
+**21** In Part 6 of Schedule 1 to the Freedom of Information Act 2000 (other public bodies), at the appropriate place insert—
+
+> - The Office for Environmental Protection.
+
+### Investigation by the Parliamentary Commissioner
+
+**22** In Schedule 2 to the Parliamentary Commissioner Act 1967 (departments subject to investigation), at the appropriate place insert—
+
+> - The Office for Environmental Protection.
+
+### Public sector equality duty
+
+**23** In Part 1 of Schedule 19 to the Equality Act 2010 (authorities subject to the public sector equality duty), under the heading “Environment, housing and development”, at the appropriate place insert—
+
+> - The Office for Environmental Protection.
+
+### [[^F64]Meaning of “the Northern Ireland Department”
+
+**24** In this Schedule “the Northern Ireland Department” means the Department of Agriculture, Environment and Rural Affairs in Northern Ireland.]
+
+## SCHEDULE 2 — Improving the natural environment: Northern Ireland
+
+*Section 48*
+
+### PART 1 — Environmental improvement plans
+
+#### Environmental improvement plans
+
+**1** (1) The Department must prepare an environmental improvement plan.
+
+(2) An “environmental improvement plan” is a plan for significantly improving the natural environment.
+
+(3) The plan may—
+
+(a) relate to a period specified in the plan, or
+
+(b) be of no specified duration.
+
+(4) An environmental improvement plan must set out—
+
+(a) the steps that the Department intends to take to improve the natural environment, and
+
+(b) any steps that any other Northern Ireland department intends to take to improve the natural environment.
+
+(5) It may also set out steps that any Northern Ireland department intends to take to improve people’s enjoyment of the natural environment (and if it does so references in this Schedule to improving the natural environment, in relation to that plan, include improving people’s enjoyment of it).
+
+(6) In preparing an environmental improvement plan, the Department must consult such other Northern Ireland departments as it considers appropriate.
+
+(7) The Department must lay before the Northern Ireland Assembly, and publish, an environmental improvement plan before the end of the 12 month period beginning with the day on which this paragraph comes into force.
+
+(8) References in this Schedule to the current environmental improvement plan are to the environmental improvement plan for the time being in effect.
+
+#### Annual reports on environmental improvement plans
+
+**2** (1) The Department must prepare annual reports on the implementation of the current environmental improvement plan.
+
+(2) An annual report must—
+
+(a) describe what has been done, in the period to which the report relates, to implement the environmental improvement plan, and
+
+(b) consider, having regard to any data obtained under paragraph 5, whether the natural environment has, or particular aspects of it have, improved during that period.
+
+(3) Annual reports on an environmental improvement plan must relate to—
+
+(a) the 12 month period beginning with the day on which the plan is published, and
+
+(b) each subsequent 12 month period.
+
+(4) An annual report must be laid before the Northern Ireland Assembly before the end of the 4 month period beginning immediately after the last day of the period to which the report relates.
+
+(5) The Department must publish annual reports laid before the Northern Ireland Assembly under this paragraph.
+
+#### Reviewing and revising environmental improvement plans
+
+**3** (1) The Department must—
+
+(a) review the current environmental improvement plan in accordance with this paragraph, and
+
+(b) if the Department considers it appropriate as a result of the review, revise the plan.
+
+(2) The first review of an environmental improvement plan must be completed before the end of the 5 year period beginning with—
+
+(a) if it is the first environmental improvement plan, the day on which it is published, and
+
+(b) otherwise, the day on which it replaces the previous plan (see paragraph 4(6)).
+
+(3) Subsequent reviews of an environmental improvement plan must be completed before the end of the 5 year period beginning with the day on which the previous review was completed.
+
+(4) In reviewing an environmental improvement plan, the Department must—
+
+(a) consider what has been done to implement the plan in the period since it was published or (if it has been reviewed before) last reviewed,
+
+(b) consider whether, having regard to data obtained under paragraph 5 [[^F65]and reports made by the OEP under paragraph 1 of Schedule 3], the natural environment has, or particular aspects of it have, improved during that period, and
+
+(c) consider whether any Northern Ireland department should take further or different steps to improve the natural environment (compared to those set out in the plan).
+
+(5) In reviewing and revising an environmental improvement plan, the Department must consult such other Northern Ireland departments as it considers appropriate.
+
+(6) If as a result of a review the Department considers it appropriate to revise the plan, the Department must lay before the Northern Ireland Assembly—
+
+(a) a revised environmental improvement plan, and
+
+(b) a statement explaining the revisions and the reasons for them.
+
+(7) If as a result of a review the Department does not consider it appropriate to revise the plan, the Department must lay before the Northern Ireland Assembly a statement explaining that and the reasons for it.
+
+(8) The Department must publish the documents laid under sub-paragraph (6) or (7).
+
+(9) A review is completed when the Department has laid and published the documents mentioned in sub-paragraph (6) or (7).
+
+(10) References in this Schedule to an environmental improvement plan include a revised environmental improvement plan.
+
+#### Renewing environmental improvement plans
+
+**4** (1) This paragraph applies where an environmental improvement plan relates to a period specified in the plan.
+
+(2) Before the end of the period to which the environmental improvement plan (the “old plan”) relates, the Department must prepare a new environmental improvement plan (the “new plan”).
+
+(3) If the new plan relates to a period specified in the plan, that period must begin no later than immediately after the end of the period to which the old plan relates.
+
+(4) In preparing the new plan the Department must—
+
+(a) consider what has been done to implement the old plan,
+
+(b) consider whether, having regard to data obtained under paragraph 5 [[^F66]and reports made by the OEP under paragraph 1 of Schedule 3], the natural environment has improved since the beginning of the period to which the old plan relates,
+
+(c) consider whether any Northern Ireland department should take further or different steps to improve the natural environment (compared to those set out in the old plan) after the end of that period, and
+
+(d) consult such other Northern Ireland departments as it considers appropriate.
+
+(5) At or before the end of the period to which the old plan relates the Department must lay before the Northern Ireland Assembly, and publish, the new plan.
+
+(6) The new plan replaces the old plan when—
+
+(a) it has been laid and published, and
+
+(b) if it relates to a period specified in the new plan, that period has begun.
+
+#### Environmental monitoring
+
+**5** (1) The Department must make arrangements for obtaining such data about the natural environment as the Department considers appropriate for the purpose of monitoring whether the natural environment is, or particular aspects of it are, improving in accordance with the current environmental improvement plan.
+
+(2) The Department must lay before the Northern Ireland Assembly, and publish, a statement setting out the kinds of data to be obtained under sub-paragraph (1).
+
+(3) The first statement must be laid before the end of the 4 month period beginning with the day on which this paragraph comes into force.
+
+(4) The Department may revise the statement at any time (and sub-paragraph (2) applies to any revised statement).
+
+(5) The Department must publish any data obtained under sub-paragraph (1).
+
+### PART 2 — Policy statement on environmental principles
+
+#### Policy statement on environmental principles
+
+**6** (1) The Department must prepare a policy statement on environmental principles in accordance with this paragraph and paragraph 7.
+
+(2) A “policy statement on environmental principles” is a statement explaining how the environmental principles should be interpreted and proportionately applied—
+
+(a) by Northern Ireland departments when making policy, and
+
+(b) by Ministers of the Crown when making policy so far as relating to Northern Ireland.
+
+(3) It may also explain how Northern Ireland departments and Ministers of the Crown, when interpreting and applying the environmental principles, should take into account other considerations relevant to their policy.
+
+(4) The Department must be satisfied that the statement will, when it comes into effect, contribute to—
+
+(a) the improvement of environmental protection, and
+
+(b) sustainable development.
+
+(5) In this Schedule “environmental principles” means the following principles—
+
+(a) the principle that environmental protection should be integrated into the making of policies,
+
+(b) the principle of preventative action to avert environmental damage,
+
+(c) the precautionary principle, so far as relating to the environment,
+
+(d) the principle that environmental damage should as a priority be rectified at source, and
+
+(e) the polluter pays principle.
+
+#### Policy statement on environmental principles: process
+
+**7** (1) The Department must prepare a draft of the policy statement on environmental principles.
+
+(2) The Department must consult—
+
+(a) the other Northern Ireland departments,
+
+(b) the Secretary of State, and
+
+(c) such other persons as the Department considers appropriate,
+
+in relation to the draft statement.
+
+(3) The Department must lay the draft statement before the Northern Ireland Assembly.
+
+(4) If before the end of the 21 day period the Northern Ireland Assembly passes a resolution in respect of the draft statement, the Department must produce a response and lay it before the Assembly.
+
+(5) The Department must prepare and lay before the Northern Ireland Assembly the final statement, but not before—
+
+(a) if sub-paragraph (4) applies, the day on which the Department lays the response required by that sub-paragraph, or
+
+(b) otherwise, the end of the 21 day period.
+
+(6) The final statement has effect when it is laid before the Northern Ireland Assembly.
+
+(7) The Department must publish the statement when it comes into effect.
+
+(8) The “21 day period” is the period of 21 sitting days beginning with the first sitting day after the day on which the draft statement is laid under sub-paragraph (3).
+
+(9) “Sitting day” means a day on which the Northern Ireland Assembly sits.
+
+(10) The requirements in sub-paragraphs (1) and (2) may be met by the preparation of a draft statement, and consultation, before this paragraph comes into force.
+
+(11) The Department may prepare a revised policy statement on environmental principles at any time (and sub-paragraphs (1) to (9) apply in relation to any revised statement).
+
+#### Policy statement on environmental principles: effect
+
+**8** (1) A Northern Ireland department must, when making policy, have due regard to the policy statement on environmental principles currently in effect.
+
+(2) A Minister of the Crown must, when making policy so far as relating to Northern Ireland, have due regard to the policy statement on environmental principles currently in effect.
+
+(3) Nothing in this paragraph requires a Northern Ireland department or a Minister of the Crown to do anything (or refrain from doing anything) if doing it (or refraining from doing it)—
+
+(a) would have no significant environmental benefit, or
+
+(b) would be in any other way disproportionate to the environmental benefit.
+
+(4) Sub-paragraph (1) does not apply to policies so far as relating to taxation, spending or the allocation of resources within government.
+
+(5) Sub-paragraph (2) does not apply to policies so far as relating to—
+
+(a) the armed forces, defence or national security, or
+
+(b) taxation, spending or the allocation of resources within government.
+
+### PART 3 — Interpretation
+
+#### Meaning of “natural environment”
+
+**9** In this Schedule the “natural environment” means—
+
+(a) plants, wild animals and other living organisms,
+
+(b) their habitats,
+
+(c) land (except buildings or other structures), air and water,
+
+and the natural systems, cycles and processes through which they interact.
+
+#### Meaning of “environmental protection”
+
+**10** In this Schedule “environmental protection” means any of the following—
+
+(a) protection of the natural environment from the effects of human activity;
+
+(b) protection of people from the effects of human activity on the natural environment;
+
+(c) maintenance, restoration or enhancement of the natural environment;
+
+(d) monitoring, assessing, considering, advising or reporting on anything in paragraphs (a) to (c).
+
+#### General interpretation
+
+**11** (1) In this Schedule—
+
+- “current environmental improvement plan” has the meaning given by paragraph 1(8);
+- the “Department” means the Department of Agriculture, Environment and Rural Affairs in Northern Ireland;
+- “environmental improvement plan” has the meaning given by paragraph 1 (and see also paragraph 3(10));
+- “environmental principles” has the meaning given by paragraph 6(5);
+- “improving the natural environment”, in relation to an environmental improvement plan, is to be read in accordance with paragraph 1(5);
+- “making” policy includes developing, adopting or revising policy;
+- “Minister of the Crown” has the same meaning as in the Ministers of the Crown Act 1975;
+- [[^F67]“OEP” has the meaning given by section 22;]
+- “policy” includes proposals for legislation, but does not include an administrative decision taken in relation to a particular person or case (for example, a decision on an application for planning permission, funding or a licence, or a decision about regulatory enforcement);
+- “policy statement on environmental principles” has the meaning given by paragraph 6.
+
+(2) Section 41(3) of the Interpretation Act (Northern Ireland) 1954 (c. 33 (N.I.)) applies in relation to the laying of a document before the Northern Ireland Assembly under this Schedule, as it applies in relation to the laying of a statutory document under an Act of the Northern Ireland Assembly.
+
+## SCHEDULE 3 — The Office for Environmental Protection: Northern Ireland
+
+*Section 49*
+
+### PART 1 — The OEP’s Northern Ireland functions
+
+#### Monitoring and reporting on the Department’s environmental improvement plans
+
+**1** (1) The OEP must monitor progress in improving the natural environment in accordance with the current environmental improvement plan.
+
+(2) The OEP must prepare a progress report for each annual reporting period.
+
+(3) A progress report for an annual reporting period is a report on progress made in that period in improving the natural environment in accordance with the current environmental improvement plan.
+
+(4) An annual reporting period is a period for which the Department must prepare a report under paragraph 2 of Schedule 2 (a “Schedule 2 report”).
+
+(5) In reporting on progress made in an annual reporting period, the OEP must consider—
+
+(a) the Schedule 2 report for that period,
+
+(b) the data published by the Department under paragraph 5 of Schedule 2 that relates to that period, and
+
+(c) any other reports, documents or information it considers appropriate.
+
+(6) A progress report for an annual reporting period may include—
+
+(a) consideration of how progress could be improved, and
+
+(b) consideration of the adequacy of the data published by the Department under paragraph 5 of Schedule 2.
+
+(7) The OEP must—
+
+(a) arrange for its reports under this paragraph to be laid before the Northern Ireland Assembly, and
+
+(b) publish them.
+
+(8) A progress report for an annual reporting period must be laid no later than 6 months after the Schedule 2 report for that period is laid before the Northern Ireland Assembly.
+
+(9) The Department must—
+
+(a) respond to a report under this paragraph, and
+
+(b) lay before the Northern Ireland Assembly, and publish, a copy of the response.
+
+(10) Where a report under this paragraph contains a recommendation for how progress could be improved, the response must address that recommendation.
+
+(11) The response—
+
+(a) must be laid no later than 12 months after the report is laid, and
+
+(b) may be included in a Schedule 2 report.
+
+#### Monitoring and reporting on environmental law
+
+**2** (1) The OEP must monitor the implementation of Northern Ireland environmental law.
+
+(2) The OEP may report on any matter concerned with the implementation of Northern Ireland environmental law.
+
+(3) But the OEP must not monitor the implementation of, or report on, a matter within the remit of the Committee on Climate Change.
+
+(4) A matter is within the remit of the Committee on Climate Change if it is a matter on which the Committee is, or may be, required to advise or report under Part 1, sections 34 to 36, or section 48 of the Climate Change Act 2008.
+
+(5) The OEP must—
+
+(a) arrange for its reports under this paragraph to be laid before the Northern Ireland Assembly, and
+
+(b) publish them.
+
+(6) The Department must—
+
+(a) respond to a report under this paragraph, and
+
+(b) lay before the Northern Ireland Assembly, and publish, a copy of the response.
+
+(7) The response to a report under this paragraph must be laid no later than 3 months after the report is laid.
+
+#### Advising on changes to Northern Ireland environmental law etc
+
+**3** (1) The OEP must give advice to any Northern Ireland department about—
+
+(a) any proposed change to Northern Ireland environmental law, or
+
+(b) any other matter relating to the natural environment,
+
+on which that department requires it to give advice.
+
+(2) The Northern Ireland department may specify matters which the OEP is to take into account in giving the required advice.
+
+(3) The OEP may give advice to any Northern Ireland department about any changes to Northern Ireland environmental law proposed by that department.
+
+(4) Advice under this paragraph is to be given in writing to the Northern Ireland department concerned.
+
+(5) The OEP must publish—
+
+(a) its advice, and
+
+(b) if the advice is given under sub-paragraph (1), a statement of the matter on which it was required to give advice and any matters specified under sub-paragraph (2).
+
+(6) The Northern Ireland department concerned may, if it thinks fit, lay before the Northern Ireland Assembly—
+
+(a) the advice, and
+
+(b) any response that department may make to the advice.
+
+#### Failure of relevant public authorities to comply with environmental law
+
+**4** (1) Paragraphs 6 to 15 make provision about functions of the OEP in relation to failures by relevant public authorities to comply with relevant environmental law.
+
+(2) For the purposes of those paragraphs, a reference to a relevant public authority failing to comply with relevant environmental law means the following conduct by that authority—
+
+(a) unlawfully failing to take proper account of relevant environmental law when exercising its functions;
+
+(b) unlawfully exercising, or failing to exercise, any function it has under relevant environmental law.
+
+#### Meaning of relevant environmental law, relevant public authority etc
+
+**5** (1) The following definitions apply for the purpose of this Part of this Schedule.
+
+(2) “Relevant environmental law” means—
+
+(a) in relation to a Northern Ireland public authority, UK environmental law or Northern Ireland environmental law;
+
+(b) in relation to any other relevant public authority, Northern Ireland environmental law.
+
+(3) “Relevant public authority” means—
+
+(a) a Northern Ireland public authority, or
+
+(b) a person, other than a Northern Ireland public authority, carrying out any function of a public nature in or as regards Northern Ireland that is not a parliamentary function or a function of any of the following persons—
+
+(i) the OEP;
+
+(ii) a court or tribunal;
+
+(iii) either House of Parliament;
+
+(iv) the Northern Ireland Assembly.
+
+(4) “Northern Ireland public authority” means—
+
+(a) a Northern Ireland department, or
+
+(b) a person carrying out a Northern Ireland devolved function (including an implementation body carrying out such a function) that is not a function in connection with proceedings in the Northern Ireland Assembly or a function of any of the following persons—
+
+(i) the OEP;
+
+(ii) a court or tribunal;
+
+(iii) the Northern Ireland Assembly.
+
+(5) “Northern Ireland devolved function” means a function of a public nature exercisable in or as regards Northern Ireland that could be conferred by provision included in an Act of the Northern Ireland Assembly made without the consent of the Secretary of State (see sections 6 to 8 of the Northern Ireland Act 1998).
+
+#### Complaints about relevant public authorities
+
+**6** (1) A person may make a complaint to the OEP under this paragraph if the person believes that a relevant public authority has failed to comply with relevant environmental law.
+
+(2) The OEP must prepare and publish a document which sets out the procedure by which complaints can be made.
+
+(3) A complaint under this paragraph must be made in accordance with that procedure (as most recently published).
+
+(4) A complaint under this paragraph may not be made by any person whose functions include functions of a public nature.
+
+(5) A complaint about a relevant public authority may not be made under this paragraph if—
+
+(a) the authority operates a procedure for considering complaints (“an internal complaints procedure”) under which the complaint could be considered, and
+
+(b) that procedure has not been exhausted.
+
+(6) A complaint under this paragraph may not be made after the later of—
+
+(a) the end of the 1 year period beginning with the day on which the alleged failure that is the subject of the complaint last occurred, and
+
+(b) if the substance of the complaint was subject to an internal complaints procedure, the end of the 3 month period beginning with the day on which that procedure was exhausted.
+
+(7) The OEP may waive the time limit in sub-paragraph (6) if it considers that there are exceptional reasons for doing so.
+
+#### Investigations: relevant public authorities
+
+**7** (1) The OEP may carry out an investigation under this paragraph if it receives a complaint made under paragraph 6 that, in its view, indicates that—
+
+(a) a relevant public authority may have failed to comply with relevant environmental law, and
+
+(b) if it has, the failure would be a serious failure.
+
+(2) The OEP may carry out an investigation under this paragraph without having received such a complaint if it has information that, in its view, indicates that—
+
+(a) a relevant public authority may have failed to comply with relevant environmental law, and
+
+(b) if it has, the failure would be a serious failure.
+
+(3) An investigation under this paragraph is an investigation into whether the relevant public authority has failed to comply with relevant environmental law.
+
+(4) The OEP must notify the relevant public authority of the commencement of the investigation.
+
+(5) The OEP must prepare a report on the investigation and provide it to the relevant public authority.
+
+(6) The OEP is not required to prepare a report until it has concluded that it intends to take no further steps under this Part of this Schedule in relation to the alleged failure to comply with relevant environmental law that is the subject of the investigation.
+
+(7) The OEP is not required to prepare a report if it has made a review application, or an application for judicial review by virtue of paragraph 13(1), in relation to the alleged failure.
+
+(8) The report must set out—
+
+(a) whether the OEP considers that the relevant public authority has failed to comply with relevant environmental law,
+
+(b) the reasons the OEP came to that conclusion, and
+
+(c) any recommendations the OEP may have (whether generally or for the relevant public authority) in light of those conclusions.
+
+(9) The OEP may publish the report or parts of it.
+
+(10) If the public authority is not a Northern Ireland department, the OEP must also—
+
+(a) notify the relevant department of the commencement of the investigation, and
+
+(b) provide the relevant department with the report prepared under sub-paragraph (5).
+
+(11) In this Part “the relevant department”, in relation to a failure (or alleged failure) of a relevant public authority to comply with relevant environmental law, means the Northern Ireland department that the OEP considers appropriate having regard to the nature of the authority and the nature of the failure.
+
+#### Duty to keep complainants informed
+
+**8** (1) Where a person makes a complaint to the OEP alleging that a relevant public authority has failed to comply with relevant environmental law, the OEP must keep the complainant informed about its handling of the complaint.
+
+(2) In particular, the OEP must—
+
+(a) notify the complainant if it does not intend to consider the complaint because the complaint was not made in accordance with paragraph 6;
+
+(b) notify the complainant if it has concluded that it will not be commencing an investigation under paragraph 7 in relation to the complaint;
+
+(c) notify the complainant if it commences an investigation under paragraph 7 in relation to the complaint;
+
+(d) if such an investigation is commenced, notify the complainant—
+
+(i) where it provides a report under paragraph 7(5) to the relevant public authority that is the subject of the investigation, that it has provided it;
+
+(ii) where it makes a review application (see paragraph 12), or an application for judicial review by virtue of paragraph 13(1), in relation to the alleged failure to comply with relevant environmental law that is the subject of the investigation, that it has made such an application;
+
+(e) provide the complainant with a copy of any document published under paragraph 7(9) in relation to any investigation in relation to the complaint.
+
+#### Information notices
+
+**9** (1) The OEP may give an information notice to a relevant public authority if—
+
+(a) the OEP has reasonable grounds for suspecting that the authority has failed to comply with relevant environmental law, and
+
+(b) it considers that the failure, if it occurred, would be serious.
+
+(2) An information notice is a notice which—
+
+(a) describes an alleged failure of a relevant public authority to comply with relevant environmental law,
+
+(b) explains why the OEP considers that the alleged failure, if it occurred, would be serious, and
+
+(c) requests that the authority provide such information relating to the allegation as may be specified in the notice.
+
+(3) The recipient of an information notice must—
+
+(a) respond in writing to the notice, and
+
+(b) so far as is reasonably practicable, provide the OEP with the information requested in the notice.
+
+(4) The recipient of an information notice must comply with sub-paragraph (3) by—
+
+(a) the end of the 2 month period beginning with the day on which the notice was given, or
+
+(b) such later date as may be specified in the notice.
+
+(5) The written response to an information notice must set out—
+
+(a) the recipient’s response to the allegation described in the notice, and
+
+(b) what steps (if any) the recipient intends to take in relation to the allegation.
+
+(6) The OEP may—
+
+(a) withdraw an information notice;
+
+(b) give more than one information notice in respect of the same alleged failure of a relevant public authority to comply with relevant environmental law.
+
+(7) Where the OEP intends to give an information notice to a relevant public authority in respect of an alleged failure to comply with relevant environmental law which relates to emissions of greenhouse gases (within the meaning of the Climate Change Act 2008), the OEP—
+
+(a) must notify the Committee on Climate Change of its intention before it gives the notice to the authority, and
+
+(b) must provide that Committee with such information relating to the alleged failure as the OEP considers appropriate.
+
+#### Decision notices
+
+**10** (1) The OEP may give a decision notice to a relevant public authority if—
+
+(a) the OEP is satisfied, on the balance of probabilities, that the authority has failed to comply with relevant environmental law, and
+
+(b) it considers that the failure is serious.
+
+(2) A decision notice is a notice that—
+
+(a) describes a failure of a relevant public authority to comply with relevant environmental law,
+
+(b) explains why the OEP considers that the failure is serious, and
+
+(c) sets out the steps the OEP considers the authority should take in relation to the failure (which may include steps designed to remedy, mitigate or prevent reoccurrence of the failure).
+
+(3) The recipient of a decision notice must respond in writing to that notice by—
+
+(a) the end of the 2 month period beginning with the day on which the notice was given, or
+
+(b) such later date as may be specified in the notice.
+
+(4) The written response to a decision notice must set out—
+
+(a) whether the recipient agrees that the failure described in the notice occurred,
+
+(b) whether the recipient intends to take the steps set out in the notice, and
+
+(c) what other steps (if any) the recipient intends to take in relation to the failure described in the notice.
+
+(5) The OEP—
+
+(a) may not give a decision notice to a relevant public authority unless it has first given at least one information notice relating to the failure of the authority to comply with relevant environmental law that is described in the decision notice;
+
+(b) may withdraw a decision notice.
+
+#### Linked notices
+
+**11** (1) If the OEP gives an information notice or a decision notice to more than one relevant public authority in respect of the same or similar conduct, it may determine that those notices are linked.
+
+(2) A Northern Ireland department may request that the OEP determine that information notices or decision notices are linked and the OEP must have regard to that request.
+
+(3) The OEP must provide the recipient of an information notice or a decision notice (a “principal notice”) with a copy of every information notice or decision notice which is linked to it (and such a notice is referred to in this section as a “linked notice”).
+
+(4) The OEP must provide the recipient of a principal notice with a copy of any relevant correspondence, relating to a linked notice, between the OEP and the recipient of that linked notice.
+
+(5) The OEP must provide the recipient of a principal notice with a copy of any relevant correspondence between the OEP and the relevant department that relates to a linked notice.
+
+(6) Sub-paragraph (5) does not apply where either the recipient of the principal notice or the linked notice is a Northern Ireland department.
+
+(7) If the OEP considers that an information notice or a decision notice relates to conduct that is the same as or similar to conduct that is the subject of a UK information notice or UK decision notice, it may determine that those notices are linked.
+
+(8) The OEP must provide the recipient of an information notice or a decision notice with—
+
+(a) a copy of every UK information notice or UK decision notice which is linked to it, and
+
+(b) a copy of any relevant correspondence, relating to such a notice, between the OEP and the recipient of that notice.
+
+(9) The obligation to provide a copy of any notice or correspondence under this paragraph does not apply where the OEP considers that in the circumstances it would not be in the public interest to do so.
+
+(10) For the purposes of this paragraph, correspondence is relevant if—
+
+(a) it is not correspondence in connection with a review application or any other legal proceedings, and
+
+(b) it is not correspondence sent by virtue of paragraph 14(1)(a) or (b).
+
+(11) In this Part of this Schedule—
+
+- “UK decision notice” means a notice given under section 36;
+- “UK information notice” means a notice given under section 35.
+
+#### Review application
+
+**12** (1) The OEP may make a review application in relation to conduct described in a decision notice given to a relevant public authority as a failure of the authority to comply with relevant environmental law, but only if—
+
+(a) it is satisfied, on the balance of probabilities, that the authority has failed to comply with relevant environmental law, and
+
+(b) it considers that the failure is serious.
+
+(2) A review application is an application for judicial review in respect of conduct of a relevant public authority, and any reference in this Part of this Schedule to a review application is to an application made by virtue of sub-paragraph (1).
+
+(3) A review application may not be made before the earlier of—
+
+(a) the end of the period within which the authority must respond to the decision notice that precedes the application (see paragraph 10(3)), and
+
+(b) the date on which the OEP receives the authority’s response to that notice.
+
+(4) Subject to that, the OEP may make a review application at any time (and accordingly any time limit, that would otherwise apply to the making of a review application, does not apply).
+
+(5) The High Court may grant a remedy on a review application only if Condition A or Condition B is met.
+
+(6) Condition A is that the court is satisfied that granting the remedy would not—
+
+(a) be likely to cause substantial hardship to, or substantially prejudice the rights of, any person other than the authority, or
+
+(b) be detrimental to good administration.
+
+(7) Condition B is that Condition A is not met but the court is satisfied that—
+
+(a) granting the remedy is necessary in order to prevent or mitigate serious damage to the natural environment or to human health, and
+
+(b) there is an exceptional public interest reason to grant it.
+
+(8) If, on a review application, there is a finding that a relevant public authority has failed to comply with relevant environmental law, and the finding has not been overturned on appeal, the authority must publish a statement that sets out the steps it intends to take in light of the finding.
+
+(9) A statement under sub-paragraph (8) must be published before the end of the 2 month period beginning with the day the proceedings relating to the review application (including any appeal) conclude.
+
+(10) In this Part of this Schedule reference to an application for judicial review includes an application for the permission of the High Court to apply for judicial review.
+
+#### Judicial review: powers to apply to prevent serious damage and to intervene
+
+**13** (1) The OEP may make an application for judicial review in relation to conduct of a relevant public authority (whether or not it has given an information notice or a decision notice to the authority in respect of that conduct) if—
+
+(a) the OEP considers that the conduct constitutes a serious failure to comply with relevant environmental law, and
+
+(b) the urgency condition is met.
+
+(2) The urgency condition is that making an application under sub-paragraph (1) (rather than proceeding under paragraphs 9 to 12) is necessary to prevent, or mitigate, serious damage to the natural environment or to human health.
+
+(3) If, on an application for judicial review made by virtue of sub-paragraph (1), there is a finding that a relevant public authority has failed to comply with relevant environmental law, and the finding has not been overturned on appeal, the authority must publish a statement that sets out the steps it intends to take in light of the finding.
+
+(4) A statement under sub-paragraph (3) must be published before the end of the 2 month period beginning with the day the proceedings relating to the application for judicial review (including any appeal) conclude.
+
+(5) Sub-paragraph (6) applies to proceedings (including any appeal) that—
+
+(a) are in respect of an application for judicial review, and
+
+(b) relate to an alleged failure by a relevant public authority to comply with relevant environmental law (however the allegation is framed in those proceedings).
+
+(6) If the OEP considers that the alleged failure, if it occurred, would be serious, it may apply to intervene in the proceedings (whether it considers that the relevant public authority has, or has not, failed to comply with relevant environmental law).
+
+#### Duty of the OEP to involve the relevant department
+
+**14** (1) Where the recipient of an information notice or a decision notice is not a Northern Ireland department, the OEP must—
+
+(a) provide the relevant department with—
+
+(i) a copy of the notice, and
+
+(ii) a copy of any correspondence between the OEP and the recipient of the notice that relates to the notice (apart from correspondence sent by virtue of paragraph (b)), and
+
+(b) provide the recipient of the notice with a copy of any correspondence between the OEP and the relevant department that relates to the notice (apart from correspondence sent by virtue of paragraph (a)).
+
+(2) The obligation to provide a copy of any notice or correspondence under sub-paragraph (1) does not apply where the OEP considers that in the circumstances it would not be in the public interest to do so.
+
+(3) Where the OEP makes a review application, or an application for judicial review by virtue of paragraph 13(1), in which the relevant department is not a party, it must provide the relevant department with—
+
+(a) a copy of the application, and
+
+(b) a statement of whether the OEP considers the relevant department should participate in the review (for example, by applying to be a party).
+
+#### Public statements
+
+**15** (1) Where the OEP gives an information notice or a decision notice, makes a review application or an application for judicial review by virtue of paragraph 13(1) or applies to intervene in a judicial review, it must publish a statement that—
+
+(a) states that the OEP has taken that step,
+
+(b) describes the failure (or alleged failure) of a relevant public authority to comply with relevant environmental law in relation to which that step was taken, and
+
+(c) sets out such further information as the OEP considers appropriate.
+
+(2) Sub-paragraph (1) does not apply if the OEP considers that in the circumstances it would not be in the public interest to publish a statement.
+
+#### Disclosures to the OEP
+
+**16** (1) No obligation of secrecy imposed by statute or otherwise prevents a person from—
+
+(a) in accordance with section 27(1), providing the OEP with information in connection with an investigation under paragraph 7, an information notice or a decision notice, or
+
+(b) providing information to the OEP in accordance with paragraph 9(3)(b).
+
+(2) But nothing in this Part of this Schedule—
+
+(a) requires a person to provide the OEP with information that the person would be entitled to refuse to provide in civil proceedings on grounds of legal professional privilege (or, in Scotland, confidentiality of communications), or
+
+(b) requires a person to provide the OEP with information that the person would be entitled, or required by any rule of law, to refuse to provide in civil proceedings on grounds of public interest immunity.
+
+(3) No obligation of secrecy imposed by statute or otherwise prevents the Northern Ireland Public Services Ombudsman from providing information to the OEP—
+
+(a) for purposes connected with the exercise of the OEP’s functions under paragraph 7;
+
+(b) for purposes connected with the co-ordination of the OEP’s functions that relate to investigations under paragraph 7 and the Ombudsman’s functions that relate to investigations by the Ombudsman.
+
+(4) Nothing in this Part of this Schedule requires or authorises a disclosure of information that would contravene the data protection legislation (but in determining whether a disclosure would do so, take into account the duties imposed and powers conferred by this Part of this Schedule).
+
+(5) In this paragraph “the data protection legislation” has the same meaning as in the Data Protection Act 2018 (see section 3(9) of that Act).
+
+#### Confidentiality of proceedings
+
+**17** (1) The OEP must not disclose—
+
+(a) information obtained under paragraph 9(3)(b), or
+
+(b) correspondence between the OEP and a relevant public authority that—
+
+(i) relates to a particular information notice or decision notice, or
+
+(ii) is, or contains, such a notice.
+
+(2) Sub-paragraph (1) does not apply to a disclosure—
+
+(a) other than a disclosure of an information notice or a decision notice, made with the consent of the person who provided the information or correspondence;
+
+(b) made for purposes connected with an investigation under paragraph 7 or section 33;
+
+(c) made for purposes connected with the co-ordination of the OEP’s functions that relate to investigations under paragraph 7 and the Northern Ireland Public Services Ombudsman’s functions that relate to investigations by the Ombudsman;
+
+(d) made for purposes connected with the co-ordination of the OEP’s functions that relate to investigations under section 33 and functions of a relevant ombudsman that relate to investigations by that ombudsman;
+
+(e) made for the purposes of any publication of a report (or part of it) on an investigation under paragraph 7 or section 33;
+
+(f) made for purposes connected with the exercise of the OEP’s functions under paragraphs 9 to 15 or sections 35 to 41 (enforcement);
+
+(g) made to a devolved environmental governance body for purposes connected with the exercise of a devolved environmental governance function;
+
+(h) made for purposes connected with the protection of the natural environment in a country or territory outside the United Kingdom, to an authority of that country or territory, or an international organisation, that has functions in connection with the protection of the natural environment in that country or territory;
+
+(i) of information, or correspondence, that relates only to a matter in relation to which the OEP has concluded that it intends to take no further steps under this Part of this Schedule or under Chapter 2 of Part 1 of this Act.
+
+(3) A relevant public authority must not disclose correspondence between the OEP and that, or any other, relevant public authority that—
+
+(a) relates to a particular information notice, decision notice, UK information notice or UK decision notice, or
+
+(b) is, or contains, such a notice.
+
+(4) Sub-paragraph (3) does not apply to a disclosure—
+
+(a) made—
+
+(i) in the case of a disclosure of correspondence between another relevant public authority and the OEP other than correspondence that is, or contains, an information notice, a decision notice, a UK information notice or a UK decision notice, with the consent of that authority and the OEP, or
+
+(ii) in any other case, with the specific or general consent of the OEP;
+
+(b) made for purposes connected with co-operating with any investigation under paragraph 7 or section 33;
+
+(c) made for purposes connected with responding to any information notice or decision notice;
+
+(d) made for purposes connected with any proceedings in relation to a review application, an environmental review, a judicial review or a statutory review (within the meaning given by section 39(8)(b)).
+
+(5) The OEP may not give a person consent to disclose an information notice, a decision notice, a UK information notice or a UK decision notice unless that notice relates only to a matter in relation to which the OEP has concluded that it intends to take no further steps under this Part of this Schedule or under Chapter 2 of Part 1 of this Act.
+
+(6) If a relevant public authority requests the consent of the OEP to disclose correspondence that relates only to a matter in relation to which the OEP has concluded that it intends to take no further steps under this Part of this Schedule or under Chapter 2 of Part 1 of this Act, the OEP may not withhold that consent.
+
+(7) If information referred to in sub-paragraph (1) and held by the OEP, or referred to in sub-paragraph (3) and held by a relevant public authority, is environmental information for the purposes of the Environmental Information Regulations 2004 (S.I. 2004/3391) or the Environmental Information (Scotland) Regulations 2004 (S.S.I. 2004/520), it is held by that person, for the purposes of the application of those regulations to that information, in connection with confidential proceedings.
+
+#### Meaning of UK environmental law and Northern Ireland environmental law
+
+**18** (1) In this Part of this Schedule “UK environmental law” means anything that is environmental law for the purposes of Part 1 of this Act (see section 46), but not anything that is environmental law only for the purposes of section 20.
+
+(2) In this Part of this Schedule “Northern Ireland environmental law” means any Northern Ireland legislative provision that—
+
+(a) is mainly concerned with environmental protection, and
+
+(b) is not concerned with an excluded matter.
+
+(3) Excluded matters are—
+
+(a) disclosure of or access to information;
+
+(b) taxation, spending or the allocation of resources within government.
+
+(4) “Northern Ireland legislative provision” means—
+
+(a) legislative provision contained in, or in an instrument made under, Northern Ireland legislation, and
+
+(b) legislative provision not within paragraph (a) which, if contained in an Act of the Northern Ireland Assembly, would be within the legislative competence of the Assembly and would not require the Secretary of State’s consent.
+
+(5) The Department may by regulations provide that a Northern Ireland legislative provision specified in the regulations is, or is not, within the definition of “Northern Ireland environmental law” in sub-paragraph (2) (and this Part of this Schedule applies accordingly).
+
+(6) Before making regulations under sub-paragraph (5) the Department must consult—
+
+(a) the OEP, and
+
+(b) any other persons the Department considers appropriate.
+
+(7) Regulations under sub-paragraph (5) are subject to the affirmative procedure.
+
+#### Interpretation of Part 1 of this Schedule: general
+
+**19** (1) In this Part of this Schedule—
+
+- “application for judicial review” is to be read in accordance with paragraph 12(10);
+- “current environmental improvement plan” has the meaning it has in Schedule 2 (see paragraph 1(8) of that Schedule);
+- “decision notice” means a notice given under paragraph 10;
+- “the Department” means the Department of Agriculture, Environment and Rural Affairs in Northern Ireland;
+- “devolved environmental governance body” has the meaning it has in Part 1 of this Act (see section 47);
+- “devolved environmental governance function” has the meaning it has in Part 1 of this Act (see section 47);
+- “environmental improvement plan” has the meaning it has in Schedule 2 (see paragraphs 1 and 3(10) of that Schedule);
+- “environmental protection” has the meaning it has in Schedule 2 (see paragraph 10 of that Schedule);
+- “environmental review” has the meaning it has in Part 1 of this Act (see section 38);
+- “implementation body” has the meaning it has in section 55 of the Northern Ireland Act 1998 (see subsection (3) of that section);
+- “improving the natural environment”, in relation to an environmental improvement plan, is to be read in accordance with paragraph 1(5) of Schedule 2;
+- “information notice” means a notice given under paragraph 9;
+- “natural environment” has the meaning it has in Schedule 2 (see paragraph 9 of that Schedule);
+- “Northern Ireland devolved function” has the meaning given by paragraph 5(5);
+- “OEP” has the meaning given by section 22;
+- “parliamentary function” means a function in connection with proceedings in Parliament or the Northern Ireland Assembly;
+- “relevant department” has the meaning given by paragraph 7(11);
+- “relevant environmental law” has the meaning given by paragraph 5(2);
+- “relevant ombudsman” has the meaning it has in Part 1 of this Act (see section 23);
+- “relevant public authority” has the meaning given by paragraph 5(3);
+- “review application” has the meaning given by paragraph 12(2);
+- “UK decision notice” has the meaning given by paragraph 11(11);
+- “UK information notice” has the meaning given by paragraph 11(11).
+
+(2) Section 41(3) of the Interpretation Act (Northern Ireland) 1954 (c. 33 (N.I.)) applies in relation to the laying of a document before the Northern Ireland Assembly under this Part of this Schedule, as it applies in relation to the laying of a statutory document under an Act of the Northern Ireland Assembly.
+
+### PART 2 — Amendments of the OEP’s general functions
+
+**20** This Act is amended in accordance with paragraphs 21 to 30.
+
+**21** (1) Section 23 (principal objective of the OEP and exercise of its functions) is amended as follows.
+
+(2) In subsection (6)—
+
+(a) after paragraph (a) insert—
+
+> (aa) how the OEP intends to determine whether failures to comply with relevant environmental law are serious for the purposes of paragraphs 7(1)(b) and (2)(b), 9(1)(b), 10(1)(b), 12(1)(b) and 13(1) and (6) of Schedule 3,
+
+;
+
+(b) at the end of paragraph (b) insert “or paragraph 13(2) of Schedule 3,”;
+
+(c) omit the “and” at the end of paragraph (d);
+
+(d) after paragraph (d) insert—
+
+> (da) how the OEP intends to avoid any overlap between the exercise of its functions under paragraphs 6 to 8 of Schedule 3 (complaints) and the exercise by the Northern Ireland Public Services Ombudsman of its functions, and
+
+.
+
+(3) In subsection (7)(c) after “environmental law” insert “or Northern Ireland environmental law”.
+
+(4) After subsection (7) insert—
+
+> (7A) In this section “relevant environmental law” and “Northern Ireland environmental law” have the meanings they have in Part 1 of Schedule 3 (see paragraphs 5 and 18(2) of that Schedule).
+
+(5) In subsection (8) after “sections 32 to 41” insert “and paragraphs 6 to 15 of Schedule 3”.
+
+**22** In section 24 (the OEP’s strategy: process), in subsection (1)(a) after “Parliament” insert “and the Northern Ireland Assembly”.
+
+**23** (1) Section 25 (guidance on the OEP’s enforcement policy and functions) is amended as follows.
+
+(2) At the end of subsection (1) insert “, so far as relating to the OEP’s Part 1 enforcement functions.”
+
+(3) In subsection (2)—
+
+(a) in paragraph (a) after “policy,” insert “so far as relating to its Part 1 enforcement functions,”;
+
+(b) in paragraph (b) for “enforcement functions” substitute “Part 1 enforcement functions”.
+
+(4) In subsection (3) for “enforcement functions” substitute “Part 1 enforcement functions”.
+
+**24** After section 25 (guidance on the OEP’s enforcement policy and functions) insert—
+
+> **Guidance on the OEP’s Northern Ireland enforcement policy and functions**
+>
+> **25A** (1) The Department of Agriculture, Environment and Rural Affairs in Northern Ireland may issue guidance to the OEP on the matters listed in section 23(6) (OEP’s enforcement policy), so far as relating to the OEP’s Northern Ireland enforcement functions.
+>
+> (2) The OEP must have regard to the guidance in—
+>
+> (a) preparing its enforcement policy, so far as relating to its Northern Ireland enforcement functions, and
+>
+> (b) exercising its Northern Ireland enforcement functions.
+>
+> (3) The OEP’s “Northern Ireland enforcement functions” are its functions under paragraphs 6 to 15 of Schedule 3.
+>
+> (4) Before issuing the guidance, the Department must—
+>
+> (a) prepare a draft, and
+>
+> (b) lay the draft before the Northern Ireland Assembly.
+>
+> (5) If before the end of the 21 day period the Northern Ireland Assembly passes a resolution in respect of the draft guidance, the Department must produce a response and lay it before the Assembly.
+>
+> (6) The Department may prepare and lay before the Northern Ireland Assembly the final guidance, but not before—
+>
+> (a) if subsection (5) applies, the day on which the Department lays the response required by that subsection, or
+>
+> (b) otherwise, the end of the 21 day period.
+>
+> (7) The final guidance has effect when it is laid before the Northern Ireland Assembly.
+>
+> (8) The Department must publish the guidance when it comes into effect.
+>
+> (9) The “21 day period” is the period of 21 sitting days beginning with the first sitting day after the day on which the draft guidance is laid under subsection (4).
+>
+> (10) “Sitting day” means a day on which the Northern Ireland Assembly sits.
+>
+> (11) The Department may revise the guidance at any time (and subsections (4) to (10) apply in relation to any revised guidance).
+
+**25** (1) Section 27 (co-operation duties of public authorities and the OEP) is amended as follows.
+
+(2) In subsection (2)—
+
+(a) in paragraph (d) for “, the Welsh Ministers, a Northern Ireland department or a Minister within the meaning of the Northern Ireland Act 1998” substitute “or the Welsh Ministers”;
+
+(b) in paragraph (f) for “devolved functions” substitute “Scottish devolved functions or Welsh devolved functions”.
+
+(3) In subsection (3) for “devolved functions”, in both places it occurs, substitute “Scottish devolved functions or Welsh devolved functions”.
+
+(4) After subsection (3) insert—
+
+> (3A) An implementation body is only required to co-operate with the OEP by virtue of subsection (1) to the extent that co-operation is in relation to functions of that body exercisable in or as regards Northern Ireland.
+>
+> In this subsection “implementation body” has the meaning it has in section 55 of the Northern Ireland Act 1998 (see subsection (3) of that section).
+
+**26** In section 37 (linked notices), after subsection (6) insert—
+
+> (6A) If the OEP considers that an information notice or a decision notice relates to conduct that is the same as or similar to conduct that is the subject of a Northern Ireland information notice or Northern Ireland decision notice, it may determine that those notices are linked.
+>
+> (6B) The OEP must provide the recipient of an information notice or a decision notice with—
+>
+> (a) a copy of every Northern Ireland information notice or Northern Ireland decision notice which is linked to it, and
+>
+> (b) a copy of any relevant correspondence, relating to such a notice, between the OEP and the recipient of that notice.
+
+**27** (1) Section 43 (confidentiality of proceedings) is amended as follows.
+
+(2) In subsection (2)—
+
+(a) in paragraph (b) after “(investigations)” insert “or paragraph 7 of Schedule 3 (functions of the OEP in Northern Ireland)”;
+
+(b) after paragraph (c) insert—
+
+> (ca) made for purposes connected with the co-ordination of the OEP’s functions that relate to investigations under paragraph 7 of Schedule 3 and the Northern Ireland Public Services Ombudsman’s functions that relate to investigations by the Ombudsman;
+
+;
+
+(c) in paragraph (d) after “section 33” insert “or paragraph 7 of Schedule 3”;
+
+(d) in paragraph (e) after “sections 35 to 41” insert “or paragraphs 9 to 15 of Schedule 3”;
+
+(e) in paragraph (h) after “this Chapter” insert “or Part 1 of Schedule 3”.
+
+(3) In subsection (3)(a) for “or decision notice” substitute “, decision notice, Northern Ireland information notice or Northern Ireland decision notice”.
+
+(4) In subsection (4)—
+
+(a) in paragraph (a)(i) for “or a decision notice” substitute “, a decision notice, a Northern Ireland information notice or a Northern Ireland decision notice”;
+
+(b) in paragraph (b) after “section 33” insert “or paragraph 7 of Schedule 3”;
+
+(c) in paragraph (d) after “judicial review” insert “(which includes a review application)”.
+
+(5) In subsection (5)—
+
+(a) for “or a decision notice” substitute “, a decision notice, a Northern Ireland information notice or a Northern Ireland decision notice”;
+
+(b) after “this Chapter” insert “or Part 1 of Schedule 3”.
+
+(6) In subsection (6) after “this Chapter” insert “or Part 1 of Schedule 3”.
+
+**28** (1) Section 47 (interpretation of Part 1 of the Act) is amended as follows.
+
+(2) The existing text becomes subsection (1).
+
+(3) In that subsection—
+
+(a) in the definition of “devolved environmental governance function”—
+
+(i) for “devolved function” substitute “Scottish devolved function or Welsh devolved function”;
+
+(ii) after “this Part” insert “or Part 1 of Schedule 3 (functions of the OEP in Northern Ireland)”;
+
+(b) at the appropriate places insert—
+
+> - “Northern Ireland decision notice” means a notice given under paragraph 10 of Schedule 3 (functions of the OEP in Northern Ireland);
+
+;
+
+> - “Northern Ireland information notice” means a notice given under paragraph 9 of Schedule 3;
+
+;
+
+> - “review application” has the meaning it has in Part 1 of Schedule 3 (see paragraph 12 of that Schedule);
+
+;
+
+> - “Scottish devolved function” means a function exercisable in or as regards Scotland, the exercise of which would be within devolved competence (within the meaning of section 54 of the Scotland Act 1998);
+
+;
+
+> - “Welsh devolved function” means a function exercisable in or as regards Wales that could be conferred by provision falling within the legislative competence of Senedd Cymru (see section 108A of the Government of Wales Act 2006).
+
+.
+
+(4) After that subsection insert—
+
+> (2) Section 41(3) of the Interpretation Act (Northern Ireland) 1954 (c. 33 (N.I.)) applies in relation to the laying of a document before the Northern Ireland Assembly under this Part, as it applies in relation to the laying of a statutory document under an Act of the Northern Ireland Assembly.
+
+**29** (1) Schedule 1 is amended as follows.
+
+(2) In paragraph 1—
+
+(a) in sub-paragraph (1), after paragraph (a) insert—
+
+> (aa) a Northern Ireland member (who is to be a non-executive member),
+
+;
+
+(b) in sub-paragraph (2) after “Secretary of State” insert “, the Northern Ireland Department”;
+
+(c) in sub-paragraph (3)—
+
+(i) for “In making those appointments,” substitute “When exercising their functions of appointment”;
+
+(ii) after “non-executive members” insert “(including the Northern Ireland member)”.
+
+(3) In paragraph 2 for sub-paragraphs (1) and (2) substitute—
+
+> (1) The Chair is to be appointed by the Secretary of State acting jointly with the Northern Ireland Department, other than the first Chair who is to be appointed by the Secretary of State.
+>
+> (2) The Northern Ireland member is to be appointed by the Northern Ireland Department after consulting the Secretary of State and the Chair.
+>
+> (2A) The other non-executive members are to be appointed by the Secretary of State after consulting the Northern Ireland Department and the Chair.
+>
+> (2B) The Northern Ireland Department must appoint as the Northern Ireland member a person with experience of—
+>
+> (a) Northern Ireland environmental law (within the meaning of Part 1 of Schedule 3),
+>
+> (b) environmental science in Northern Ireland, or
+>
+> (c) environmental regulation in Northern Ireland.
+
+(4) In paragraph 3(3) after “Secretary of State” insert “and the Northern Ireland Department”.
+
+(5) In paragraph 5—
+
+(a) in sub-paragraph (4) after “of non-executive members” insert “(including the Northern Ireland member)”;
+
+(b) after that sub-paragraph insert—
+
+> (4A) The Northern Ireland Department must, in determining the length of a Northern Ireland member’s term, have regard to the desirability of securing that the appointments of non-executive members expire at different times.
+
+;
+
+(c) for sub-paragraph (6) substitute—
+
+> (6) A non-executive member ceases to be a member of the OEP upon becoming its employee.
+>
+> (7) A non-executive member, other than the Northern Ireland member—
+>
+> (a) may resign from office by giving notice to the Secretary of State, and
+>
+> (b) may be removed from office by notice given by the Secretary of State, after consulting the Northern Ireland Department, on the grounds that the member—
+>
+> (i) has without reasonable excuse failed to discharge the member’s functions, or
+>
+> (ii) is, in the opinion of the Secretary of State, unable or unfit to carry out the member’s functions.
+>
+> (8) The Northern Ireland member—
+>
+> (a) may resign from office by giving notice to the Northern Ireland Department, and
+>
+> (b) may be removed from office by notice given by the Northern Ireland Department after consulting the Secretary of State, on the grounds that the member—
+>
+> (i) has without reasonable excuse failed to discharge the member’s functions, or
+>
+> (ii) is, in the opinion of the Northern Ireland Department, unable or unfit to carry out the member’s functions.
+
+(6) In paragraph 10(4)—
+
+(a) in paragraph (b) after “section 28 or 29” insert “, or a report under paragraph 1 or 2 of Schedule 3 (functions of the OEP in Northern Ireland)”;
+
+(b) in paragraph (c) after “section 30(1) or (3)” insert “, or written advice to a Northern Ireland department under paragraph 3(1) or (3) of Schedule 3”;
+
+(c) in paragraph (d) after “information notice” insert “or a Northern Ireland information notice”;
+
+(d) in paragraph (e) after “decision notice” insert “or a Northern Ireland decision notice”;
+
+(e) after paragraph (g) insert—
+
+> (ga) deciding whether to make a review application (see paragraph 12 of Schedule 3) or an application for judicial review by virtue of paragraph 13(1) of that Schedule or to intervene in proceedings that relate to a judicial review (see paragraph 13 of that Schedule);
+
+.
+
+(7) In paragraph 12—
+
+(a) in sub-paragraph (1)—
+
+(i) after “Secretary of State”, in the first place it occurs, insert “and the Northern Ireland Department”;
+
+(ii) after “must” insert “, between them,”;
+
+(iii) for “the Secretary of State considers” substitute “they consider”;
+
+(b) in sub-paragraph (2)—
+
+(i) after “Secretary of State”, in the first place it occurs, insert “, or the Northern Ireland Department,”;
+
+(ii) after “Secretary of State”, in the second place it occurs, insert “, or that department,”.
+
+(8) In paragraph 13(2)(a) after “Parliament” insert “and the Northern Ireland Assembly”.
+
+(9) In paragraph 14—
+
+(a) in sub-paragraph (3) after “Secretary of State” insert “and the Northern Ireland Department”;
+
+(b) in sub-paragraph (4) after “Secretary of State” insert “, the Northern Ireland Department”;
+
+(c) in sub-paragraph (5)(b) after “Secretary of State” insert “, the Northern Ireland Department”;
+
+(d) in sub-paragraph (6) after “Parliament” insert “and the Northern Ireland Assembly”.
+
+(10) In paragraph 17 after “Secretary of State” insert “and the Northern Ireland Department”.
+
+(11) After paragraph 23 insert—
+
+> **Meaning of “the Northern Ireland Department”**
+>
+> **24** In this Schedule “the Northern Ireland Department” means the Department of Agriculture, Environment and Rural Affairs in Northern Ireland.
+
+**30** (1) Schedule 2 (improving the natural environment: Northern Ireland) is amended as follows.
+
+(2) In paragraph 3(4)(b) after “under paragraph 5” insert “and reports made by the OEP under paragraph 1 of Schedule 3”.
+
+(3) In paragraph 4(4)(b) after “under paragraph 5” insert “and reports made by the OEP under paragraph 1 of Schedule 3”.
+
+(4) In paragraph 11(1), at the appropriate place insert—
+
+> - “OEP” has the meaning given by section 22;
+
+.
+
+## SCHEDULE 4 — Producer responsibility obligations
+
+*Section 50*
+
+### PART 1 — Requirements
+
+#### General power
+
+**1** (1) The relevant national authority may by regulations make provision for imposing producer responsibility obligations on specified persons in respect of specified products or materials.
+
+(2) The regulations may be made only for the purpose of—
+
+(a) preventing a product or material becoming waste, or reducing the amount of a product or material that becomes waste;
+
+(b) sustaining a minimum level of, or promoting or securing an increase in, the re-use, redistribution, recovery or recycling of products or materials.
+
+(3) In this Schedule “producer responsibility obligations” means steps required to be taken, in respect of products or materials, for a purpose in sub-paragraph (2).
+
+#### Examples of provision that may be made
+
+**2** (1) The regulations may make provision about—
+
+(a) the persons to whom producer responsibility obligations apply;
+
+(b) the products or materials in relation to which producer responsibility obligations apply;
+
+(c) the obligations imposed by the regulations.
+
+(2) The regulations may make provision about targets to be achieved in relation to the proportion of products or materials (by weight, volume or otherwise) to be re-used, redistributed, recovered or recycled (either generally or in a specified way).
+
+(3) The regulations may make provision about circumstances in which a producer responsibility obligation is to be treated as met (in whole or in part) by payment of a sum of money, including provision about—
+
+(a) the manner in which and persons by whom the amount of such sums is to be determined, and
+
+(b) the persons to whom such sums are to be paid.
+
+#### Registration of persons subject to producer responsibility obligations
+
+**3** (1) The regulations may make provision requiring the registration of persons who are subject to a producer responsibility obligation.
+
+(2) The regulations may make provision about—
+
+(a) applications for registration,
+
+(b) the imposition and variation of requirements in connection with registration,
+
+(c) the period for which registration is to remain in force, and
+
+(d) the cancellation of registration.
+
+(3) The regulations may require registers to be published or made available for inspection.
+
+#### Compliance schemes
+
+**4** (1) The regulations may make provision authorising or requiring persons who are subject to a producer responsibility obligation to become members of a compliance scheme.
+
+(2) The regulations may make provision about—
+
+(a) the approval, or withdrawal of approval, of compliance schemes by the relevant national authority,
+
+(b) the establishment, maintenance or management of a compliance scheme by a person appointed by the relevant national authority.
+
+(3) In this Schedule “compliance scheme” means a scheme under which producer responsibility obligations of members of the scheme are discharged by the scheme operator on their behalf.
+
+#### Registration of compliance schemes
+
+**5** (1) The regulations may make provision about the registration of compliance schemes, including provision about—
+
+(a) requirements and criteria to be met before a compliance scheme may be registered,
+
+(b) applications for registration,
+
+(c) the imposition and variation of conditions in connection with registration,
+
+(d) the period for which registration is to remain in force,
+
+(e) the cancellation of registration.
+
+(2) The regulations may make provision about—
+
+(a) appeals against the refusal of registration, the imposition of conditions in connection with registration, or the cancellation of registration,
+
+(b) the procedure on the appeals.
+
+(3) The regulations may make provision about the position of persons and compliance schemes pending determination or withdrawal of an appeal, including provision about cases in which—
+
+(a) a compliance scheme is, or is not, to be treated as registered, or
+
+(b) a person is, or is not, to be treated as a member of a registered compliance scheme.
+
+(4) The regulations may require registers to be published or made available for inspection.
+
+#### Power to direct compliance scheme operators
+
+**6** (1) If it appears to the relevant national authority that any action proposed to be taken by the operator of a compliance scheme would be incompatible with an international agreement to which the United Kingdom is a party, it may direct the operator not to take the action in question.
+
+(2) If it appears to the relevant national authority that any action which the operator of a compliance scheme has power to take is required for the purpose of implementing an international agreement to which the United Kingdom is a party, it may direct the operator to take the action in question.
+
+(3) A direction under this paragraph—
+
+(a) may include consequential, supplementary, incidental, transitional or saving provision;
+
+(b) on the application of the relevant national authority, is enforceable—
+
+(i) by injunction, or
+
+(ii) in Scotland, by interdict or by an order for specific performance under section 45 of the Court of Session Act 1988.
+
+#### Certificates of compliance
+
+**7** (1) The regulations may make provision about certificates of compliance.
+
+(2) The regulations may make provision—
+
+(a) requiring persons who are not members of compliance schemes to provide certificates of compliance to an enforcement authority;
+
+(b) about the approval of persons by an enforcement authority for the purposes of issuing certificates of compliance.
+
+(3) In this Schedule “certificate of compliance” means a certificate which—
+
+(a) is issued by a person approved by an enforcement authority, and
+
+(b) states that the person issuing the certificate is satisfied that the person to whom it relates is complying with their producer responsibility obligations.
+
+(4) The regulations may include provision requiring an enforcement authority to give guidance to persons issuing certificates of compliance, including guidance as to matters which are, or are not, to be treated as evidence of compliance or non-compliance.
+
+(5) In this paragraph “enforcement authority” means a person on whom functions are conferred by regulations under Part 2 of this Schedule.
+
+#### Consultation etc requirements
+
+**8** (1) Before making regulations under this Part of this Schedule the relevant national authority must consult persons appearing to it to represent the interests of those likely to be affected.
+
+(2) The requirement in sub-paragraph (1) may be met by consultation carried out before this paragraph comes into force.
+
+**9** (1) Before making regulations under this Part of this Schedule the relevant national authority must be satisfied that—
+
+(a) making the regulations would be likely to achieve one or more of the purposes in paragraph 1(2);
+
+(b) making the regulations would produce environmental or economic benefits;
+
+(c) those benefits are significant as against the likely costs resulting from the imposition of the producer responsibility obligations;
+
+(d) the burdens imposed on businesses by the regulations are the minimum necessary to secure those benefits;
+
+(e) those burdens are imposed on the persons most able to make a contribution to securing those benefits—
+
+(i) having regard to the desirability of acting fairly between persons who manufacture, process, distribute or supply products or materials, and
+
+(ii) taking account of the need to ensure that the proposed producer responsibility obligation is so framed as to be effective in achieving the purposes for which it is imposed.
+
+(2) Nothing in sub-paragraph (1)(e)(i) prevents regulations imposing a producer responsibility obligation on any class or description of person to the exclusion of any others.
+
+(3) Sub-paragraph (1) does not apply to regulations for the implementation of an international agreement to which the United Kingdom is a party.
+
+**10** The relevant national authority must exercise the power to make regulations under this Part in the way it considers best calculated to secure that—
+
+(a) the regulations do not have the effect of restricting, distorting or preventing competition, or
+
+(b) if the regulations are likely to have that effect, the effect is no greater than is necessary for achieving the environmental or economic benefits mentioned in paragraph 9(1).
+
+#### Interpretation
+
+**11** (1) In this Part of this Schedule—
+
+- “operator”, in relation to a compliance scheme, includes any person responsible for establishing, maintaining or managing the scheme;
+
+- “product” and “material” include a product or material at a time when it becomes, or has become, waste;
+
+- “recovery”, in relation to products or materials, includes—
+
+  - composting them, or any other transformation of them by biological processes, or
+  - obtaining energy from them by any means;
+
+- “specified” means specified in, or determined in accordance with, the regulations.
+
+(2) The regulations may specify, in relation to products or materials, activities, or the activities, which are to be treated for the purposes of this Part of this Schedule and the regulations as re-use, redistribution, recovery or recycling.
+
+### PART 2 — Enforcement
+
+#### General power
+
+**12** The relevant national authority may by regulations (“Part 2 regulations”) make provision about the enforcement of requirements imposed by regulations (“Part 1 regulations”) made by the authority under Part 1 of this Schedule.
+
+#### Powers to confer functions
+
+**13** (1) Part 2 regulations may include provision conferring functions on one or more persons specified in the regulations (each of whom is an “enforcement authority” for the purposes of this Part).
+
+(2) Part 2 regulations may include provision—
+
+(a) conferring functions involving the exercise of discretion;
+
+(b) for the functions of an enforcement authority to be exercised on its behalf by persons authorised in accordance with the regulations.
+
+(3) Part 2 regulations may include provision requiring an enforcement authority to issue guidance about the exercise of its functions.
+
+#### Monitoring compliance
+
+**14** Part 2 regulations may include provision conferring on an enforcement authority the function of monitoring compliance with requirements imposed by Part 1 regulations.
+
+#### Records and information
+
+**15** Part 2 regulations may include provision—
+
+(a) requiring persons on whom requirements are imposed by Part 1 regulations to keep records;
+
+(b) requiring persons on whom requirements are imposed by Part 1 regulations to provide records or other information to an enforcement authority;
+
+(c) requiring an enforcement authority to make reports or provide information to the relevant national authority.
+
+#### Powers of entry etc
+
+**16** (1) Part 2 regulations may include provision conferring on an enforcement authority powers of entry, inspection, examination, search and seizure.
+
+(2) Part 2 regulations may include provision—
+
+(a) for powers to be exercisable only under the authority of a warrant issued by a justice of the peace, sheriff, summary sheriff or lay magistrate;
+
+(b) about applications for, and the execution of, warrants.
+
+(3) Part 2 regulations must secure that the authority of a warrant is required for the exercise of any powers conferred by the regulations to—
+
+(a) enter premises by force;
+
+(b) enter a private dwelling without the consent of the occupier;
+
+(c) search and seize material.
+
+#### Sanctions
+
+**17** (1) Part 2 regulations may include provision—
+
+(a) for, about or connected with the imposition of civil sanctions in respect of—
+
+(i) failures to comply with Part 1 regulations or Part 2 regulations, or
+
+(ii) the obstruction of or failure to assist an enforcement authority;
+
+(b) for appeals against such sanctions.
+
+(2) Part 2 regulations may include provision—
+
+(a) creating criminal offences punishable with a fine in respect of—
+
+(i) failures to comply with Part 1 regulations or Part 2 regulations,
+
+(ii) failures to comply with civil sanctions imposed under Part 2 regulations, or
+
+(iii) the obstruction of or failure to assist an enforcement authority;
+
+(b) about such offences.
+
+(3) In this paragraph “civil sanction” means a sanction of a kind for which provision may be made under Part 3 of the Regulatory Enforcement and Sanctions Act 2008 (fixed monetary penalties, discretionary requirements, stop notices and enforcement undertakings).
+
+**18** Part 2 regulations may include provision for the imposition of sanctions of that kind whether or not—
+
+(a) the conduct in respect of which the sanction is imposed constitutes an offence,
+
+(b) the enforcement authority is a regulator for the purposes of Part 3 of the Regulatory Enforcement and Sanctions Act 2008, or
+
+(c) the relevant national authority may make provision for the imposition of sanctions under that Part.
+
+#### Charges and costs
+
+**19** Part 2 regulations may include provision—
+
+(a) requiring persons on whom requirements are imposed by Part 1 regulations to pay charges, as a means of recovering costs incurred by an enforcement authority in performing its functions;
+
+(b) authorising a court or tribunal dealing with any matter under Part 1 regulations or Part 2 regulations to award to an enforcement authority costs incurred by it in performing its functions under the regulations in relation to that matter.
+
+#### Consultation requirement
+
+**20** (1) Before making Part 2 regulations the relevant national authority must consult any persons the authority considers appropriate.
+
+(2) The requirement in sub-paragraph (1) may be met by consultation carried out before this paragraph comes into force.
+
+## SCHEDULE 5 — Producer responsibility for disposal costs
+
+*Section 51*
+
+### PART 1 — Requirements
+
+#### General power
+
+**1** (1) The relevant national authority may by regulations make provision requiring the payment of sums by specified persons, in respect of specified products or materials.
+
+(2) The regulations may be made only for the purpose of securing that those involved in manufacturing, processing, distributing or supplying products or materials meet, or contribute to, the disposal costs of the products or materials.
+
+#### “Disposal costs” and “disposal”
+
+**2** (1) In this Schedule the “disposal costs” of products or materials means such costs incurred in connection with the disposal of the products or materials as may be specified in the regulations.
+
+(2) In this Schedule the “disposal” of products or materials includes their re-use, redistribution, recovery or recycling.
+
+(3) Disposal costs may include the costs of—
+
+(a) collecting and transporting products or materials for disposal,
+
+(b) sorting and treating products or materials,
+
+(c) other steps preparatory to disposal of products or materials, and
+
+(d) providing public information about the disposal of products or materials.
+
+(4) They may include costs incurred in relation to products or materials that have been disposed of unlawfully.
+
+(5) The regulations may make provision as to how the disposal costs of products or materials are to be calculated.
+
+#### Calculation of sums payable
+
+**3** (1) The regulations may make provision as to how the sums payable under the regulations are to be calculated.
+
+(2) They may include provision for the sums payable under the regulations to vary according to the design or composition of the products or materials to which the regulations relate, the methods by which they were produced or any other factor.
+
+#### Administration
+
+**4** (1) The regulations may appoint, or make provision for the appointment of, a person (an “administrator”) to administer provision made by the regulations.
+
+(2) More than one person may be appointed as an administrator.
+
+(3) The regulations may confer functions on an administrator (including functions involving the exercise of discretion).
+
+(4) References in this Schedule to an administrator include a person appointed by an administrator or exercising functions on an administrator’s behalf.
+
+#### Registration
+
+**5** (1) The regulations may require—
+
+(a) persons required to pay sums under the regulations to register with an administrator;
+
+(b) administrators to register with an enforcement authority appointed by regulations under Part 2 of this Schedule.
+
+(2) The regulations may make provision—
+
+(a) about applications for registration;
+
+(b) about the period for which registration has effect;
+
+(c) about the cancellation of registration.
+
+(3) The regulations may require persons required to register to pay, in connection with their registration, fees of an amount determined by or in accordance with the regulations.
+
+(4) The regulations may require registers to be published or made available for inspection.
+
+#### Payment of sums
+
+**6** (1) The regulations may make provision for the sums payable under the regulations to be payable to an administrator.
+
+(2) The regulations may make provision as to how sums paid to the administrator are to be held by the administrator.
+
+#### Distribution of sums paid
+
+**7** The regulations may make provision for sums paid to an administrator—
+
+(a) to be distributed by the administrator, in accordance with the regulations, among persons who have incurred disposal costs in relation to products or materials to which the regulations relate, or
+
+(b) to be paid to another administrator to be so distributed by that administrator.
+
+#### Repayment of sums paid
+
+**8** (1) The regulations may make provision for sums paid to an administrator to be repayable, in whole or in part, to the persons by whom they were payable (“liable persons”).
+
+(2) The regulations may make provision as to how sums repayable under the regulations are to be calculated.
+
+(3) They may include provision for the sums repayable under the regulations to vary according to the extent to which, or manner in which, liable persons dispose of products or materials to which the regulations relate, or meet or contribute to their disposal costs.
+
+#### Charges
+
+**9** The regulations may include provision requiring the payment of charges to administrators, as a means of recovering costs incurred by administrators in performing functions under the regulations.
+
+#### Consultation requirements
+
+**10** (1) Before making regulations under this Part of this Schedule the relevant national authority must consult persons appearing to it to represent the interests of those likely to be affected.
+
+(2) The requirement in sub-paragraph (1) may be met by consultation carried out before this paragraph comes into force.
+
+### PART 2 — Enforcement
+
+#### General power
+
+**11** The relevant national authority may by regulations (“Part 2 regulations”) make provision about the enforcement of requirements imposed by regulations (“Part 1 regulations”) made by the authority under Part 1 of this Schedule.
+
+#### Powers to confer functions
+
+**12** (1) Part 2 regulations may include provision conferring functions on one or more persons specified in the regulations (each of whom is an “enforcement authority” for the purposes of this Part).
+
+(2) Part 2 regulations may include provision—
+
+(a) conferring functions involving the exercise of discretion;
+
+(b) for the functions of an enforcement authority to be exercised on its behalf by persons authorised in accordance with the regulations.
+
+(3) Part 2 regulations may include provision requiring an enforcement authority to issue guidance about the exercise of its functions.
+
+#### Monitoring compliance
+
+**13** Part 2 regulations may include provision conferring on an enforcement authority the function of monitoring compliance with requirements imposed by Part 1 regulations.
+
+#### Records and information
+
+**14** Part 2 regulations may include provision—
+
+(a) requiring persons on whom requirements are imposed by Part 1 regulations to keep records;
+
+(b) requiring persons on whom requirements are imposed by Part 1 regulations to provide records or other information to an enforcement authority or (where the person is not an administrator) an administrator;
+
+(c) requiring an enforcement authority to make reports or provide information to the relevant national authority.
+
+#### Powers of entry etc
+
+**15** (1) Part 2 regulations may include provision conferring on an enforcement authority powers of entry, inspection, examination, search and seizure.
+
+(2) Part 2 regulations may include provision—
+
+(a) for powers to be exercisable only under the authority of a warrant issued by a justice of the peace, sheriff, summary sheriff or lay magistrate;
+
+(b) about applications for, and the execution of, warrants.
+
+(3) Part 2 regulations must secure that the authority of a warrant is required for the exercise of any powers conferred by the regulations to—
+
+(a) enter premises by force;
+
+(b) enter a private dwelling without the consent of the occupier;
+
+(c) search and seize material.
+
+#### Sanctions
+
+**16** (1) Part 2 regulations may include provision—
+
+(a) for, about or connected with the imposition of civil sanctions in respect of—
+
+(i) failures to comply with Part 1 regulations or Part 2 regulations, or
+
+(ii) the obstruction of or failure to assist an enforcement authority;
+
+(b) for appeals against such sanctions.
+
+(2) Part 2 regulations may include provision—
+
+(a) creating criminal offences punishable with a fine in respect of—
+
+(i) failures to comply with civil sanctions imposed under Part 2 regulations, or
+
+(ii) the obstruction of or failure to assist an enforcement authority;
+
+(b) about such offences.
+
+(3) In this paragraph “civil sanction” means a sanction of a kind for which provision may be made under Part 3 of the Regulatory Enforcement and Sanctions Act 2008 (fixed monetary penalties, discretionary requirements, stop notices and enforcement undertakings).
+
+(4) Part 2 regulations may include provision for the imposition of sanctions of that kind whether or not—
+
+(a) the conduct in respect of which the sanction is imposed constitutes an offence,
+
+(b) the enforcement authority is a regulator for the purposes of Part 3 of the Regulatory Enforcement and Sanctions Act 2008, or
+
+(c) the relevant national authority may make provision for the imposition of sanctions under that Part.
+
+#### Charges and costs
+
+**17** Part 2 regulations may include provision—
+
+(a) requiring persons on whom requirements are imposed by Part 1 regulations to pay charges, as a means of recovering costs incurred by an enforcement authority in performing its functions;
+
+(b) authorising a court or tribunal dealing with any matter under Part 1 regulations or Part 2 regulations to award to an enforcement authority costs incurred by it in performing its functions in relation to that matter.
+
+#### Consultation requirements
+
+**18** (1) Before making regulations under this Part of this Schedule the relevant national authority must consult any persons the authority considers appropriate.
+
+(2) The requirement in sub-paragraph (1) may be met by consultation carried out before this paragraph comes into force.
+
+## SCHEDULE 6 — Resource efficiency information
+
+*Section 52*
+
+### PART 1 — Requirements
+
+#### General power
+
+**1** (1) The relevant national authority may by regulations make provision for the purposes of requiring specified persons, in specified circumstances, to provide specified information about the resource efficiency of specified products.
+
+(2) The regulations may not make such provision in relation to a product which is—
+
+(a) a medicinal product, within the meaning of the Human Medicines Regulations 2012 (S.I. 2012/1916);
+
+(b) a veterinary medicinal product, within the meaning of the Veterinary Medicines Regulations 2013 (S.I. 2013/2033);
+
+(c) food, within the meaning of article 2 of Regulation (EC) No. 178/2002 of the European Parliament and of the Council of 28 January 2002 laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety.
+
+(3) Sub-paragraph (2) does not prevent the regulations making provision in relation to a product which is not within that sub-paragraph, but is packaging for a product which is within that sub-paragraph.
+
+#### Meaning of “information about resource efficiency”
+
+**2** (1) Information about resource efficiency, in relation to a product, means information which—
+
+(a) is within sub-paragraph (2) or (3), and
+
+(b) is relevant to the product’s impact on the natural environment.
+
+(2) The information within this sub-paragraph is information about—
+
+(a) the expected life of the product;
+
+(b) aspects of the product’s design which affect its expected life;
+
+(c) the availability or cost of component parts, tools, or anything else required to repair or maintain the product;
+
+(d) whether the product can be upgraded, and the availability or cost of upgrades;
+
+(e) any other matter relevant to repairing, maintaining, remanufacturing or otherwise prolonging the expected life of, the product;
+
+(f) the ways in which the product can be disposed of at the end of its life (including whether and to what extent it can be recycled, and whether materials used in it can be extracted and reused or recycled).
+
+(3) The information within this sub-paragraph is information about—
+
+(a) the materials from which the product is manufactured;
+
+(b) the techniques used in its manufacture;
+
+(c) the resources consumed during its production or use;
+
+(d) the pollutants (including greenhouse gases within the meaning of section 92 of the Climate Change Act 2008) released or emitted at any stage of the product’s production, use or disposal.
+
+#### Persons on whom requirements may be imposed
+
+**3** The regulations may impose requirements to provide information in relation to a product on a person only if the person is a person connected with the manufacture, import, distribution, sale or supply of the product.
+
+#### Examples of provision that may be made
+
+**4** The regulations may include provision—
+
+(a) about how information about a product is to be provided (for example, by affixing a label to the product);
+
+(b) conferring on specified persons the function of determining whether specified products or materials have specified properties or characteristics (for example, whether they can be recycled) and publishing the results of such determinations;
+
+(c) specifying a scheme for classifying products by reference to matters about which resource efficiency information must be provided;
+
+(d) requiring information provided about a product to be determined according to specified criteria (for example, according to results published by virtue of paragraph (b) or classification schemes under paragraph (c)).
+
+#### Consultation etc requirements
+
+**5** (1) Before making regulations under this Part of this Schedule the relevant national authority must—
+
+(a) consult any persons the authority considers appropriate, and
+
+(b) have regard to the matters in sub-paragraph (2).
+
+(2) The matters are—
+
+(a) the extent to which the proposed regulations are likely to reduce the product’s impact on the natural environment at any stage of its production, use or disposal;
+
+(b) the environmental, social, economic or other costs of complying with the regulations;
+
+(c) whether exemptions should be given, or other special provision made, for smaller businesses.
+
+(3) The requirement in sub-paragraph (1)(a) may be met by consultation carried out before this paragraph comes into force.
+
+#### Interpretation
+
+**6** In this Part of this Schedule—
+
+- “natural environment” has the same meaning as in Part 1 of this Act (see section 44);
+- “product” includes a product which is a component part of, or packaging for, another product;
+- “specified” means specified in, or determined in accordance with, the regulations.
+
+### PART 2 — Enforcement
+
+#### General power
+
+**7** The relevant national authority may by regulations (“Part 2 regulations”) make provision about the enforcement of requirements imposed by regulations (“Part 1 regulations”) made by the authority under Part 1 of this Schedule.
+
+#### Powers to confer functions
+
+**8** (1) Part 2 regulations may include provision conferring functions on one or more persons specified in the regulations (each of whom is an “enforcement authority” for the purposes of this Part).
+
+(2) Part 2 regulations may include provision—
+
+(a) conferring functions involving the exercise of discretion;
+
+(b) for the functions of an enforcement authority to be exercised on its behalf by persons authorised in accordance with the regulations.
+
+(3) Part 2 regulations may include provision requiring an enforcement authority to issue guidance about the exercise of its functions.
+
+#### Monitoring compliance
+
+**9** Part 2 regulations may include provision conferring on an enforcement authority the function of monitoring compliance with requirements imposed by Part 1 regulations (which may include the function of testing or assessing products).
+
+#### Records and information
+
+**10** Part 2 regulations may include provision—
+
+(a) requiring persons on whom requirements are imposed by Part 1 regulations to keep records;
+
+(b) requiring persons on whom requirements are imposed by Part 1 regulations to provide records or other information to an enforcement authority;
+
+(c) requiring an enforcement authority to make reports or provide information to the relevant national authority.
+
+#### Powers of entry etc
+
+**11** (1) Part 2 regulations may include provision conferring on an enforcement authority powers of entry, inspection, examination, search and seizure.
+
+(2) Part 2 regulations may include provision—
+
+(a) for powers to be exercisable only under the authority of a warrant issued by a justice of the peace, sheriff, summary sheriff or lay magistrate;
+
+(b) about applications for, and the execution of, warrants.
+
+(3) Part 2 regulations must secure that the authority of a warrant is required for the exercise of any powers conferred by the regulations to—
+
+(a) enter premises by force;
+
+(b) enter a private dwelling without the consent of the occupier;
+
+(c) search and seize material.
+
+#### Sanctions
+
+**12** (1) Part 2 regulations may include provision—
+
+(a) for, about or connected with the imposition of civil sanctions in respect of—
+
+(i) failures to comply with Part 1 regulations or Part 2 regulations, or
+
+(ii) the obstruction of or failure to assist an enforcement authority;
+
+(b) for appeals against such sanctions.
+
+(2) Part 2 regulations may include provision—
+
+(a) creating criminal offences punishable with a fine in respect of—
+
+(i) failures to comply with civil sanctions imposed under Part 2 regulations, or
+
+(ii) the obstruction of or failure to assist an enforcement authority;
+
+(b) about such offences.
+
+(3) In this paragraph “civil sanction” means a sanction of a kind for which provision may be made under Part 3 of the Regulatory Enforcement and Sanctions Act 2008 (fixed monetary penalties, discretionary requirements, stop notices and enforcement undertakings).
+
+(4) Part 2 regulations may include provision for the imposition of sanctions of that kind whether or not—
+
+(a) the conduct in respect of which the sanction is imposed constitutes an offence,
+
+(b) the enforcement authority is a regulator for the purposes of Part 3 of the Regulatory Enforcement and Sanctions Act 2008, or
+
+(c) the relevant national authority may make provision for the imposition of sanctions under that Part.
+
+#### Costs
+
+**13** Part 2 regulations may include provision—
+
+(a) requiring persons on whom requirements are imposed by Part 1 regulations to pay costs incurred by an enforcement authority in performing its functions;
+
+(b) authorising a court or tribunal dealing with any matter under Part 1 regulations or Part 2 regulations to award to an enforcement authority costs incurred by it in performing its functions in relation to that matter.
+
+#### Consultation requirement
+
+**14** (1) Before making Part 2 regulations the relevant national authority must consult any persons the authority considers appropriate.
+
+(2) The requirement in sub-paragraph (1) may be met by consultation carried out before this paragraph comes into force.
+
+## SCHEDULE 7 — Resource efficiency requirements
+
+*Section 53*
+
+### PART 1 — Requirements
+
+#### General power
+
+**1** (1) The relevant national authority may by regulations make provision for the purposes of requiring specified products, in specified circumstances, to meet specified resource efficiency requirements.
+
+(2) The regulations may not make such provision in relation to a product which is—
+
+(a) an energy-related product, within the meaning of the Ecodesign for Energy-Related Products Regulations 2010 (S.I. 2010/2617);
+
+(b) a medicinal product, within the meaning of the Human Medicines Regulations 2012 (S.I. 2012/1916);
+
+(c) a veterinary medicinal product, within the meaning of the Veterinary Medicines Regulations 2013 (S.I. 2013/2033);
+
+(d) food, within the meaning of article 2 of Regulation (EC) No. 178/2002 of the European Parliament and of the Council of 28 January 2002 laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety.
+
+(3) Sub-paragraph (2) does not prevent the regulations making provision in relation to a product which is not within that sub-paragraph, but is packaging for a product which is within that sub-paragraph.
+
+#### Meaning of “resource efficiency requirements”
+
+**2** (1) “Resource efficiency requirements”, in relation to a product, means requirements which—
+
+(a) are within sub-paragraph (2) or (3), and
+
+(b) are relevant to the product’s impact on the natural environment.
+
+(2) The requirements within this sub-paragraph are requirements relating to—
+
+(a) aspects of the product’s design which affect its expected life;
+
+(b) the availability or cost of component parts, tools, or anything else required to repair or maintain the product;
+
+(c) whether the product can be upgraded, and the availability or cost of upgrades;
+
+(d) any other matter relevant to repairing, maintaining, remanufacturing or otherwise prolonging the expected life of, the product;
+
+(e) the ways in which the product can be disposed of at the end of its life (including whether and to what extent it can be recycled, and whether materials used in it can be extracted and reused or recycled).
+
+(3) The requirements within this sub-paragraph are requirements relating to—
+
+(a) the materials from which the product is manufactured;
+
+(b) the techniques used in its manufacture;
+
+(c) the resources consumed during its production or use;
+
+(d) the pollutants (including greenhouse gases within the meaning of section 92 of the Climate Change Act 2008) released or emitted at any stage of the product’s production, use or disposal.
+
+(4) Resource efficiency requirements may be specified by reference to standards prepared by a specified person.
+
+#### Persons on whom requirements may be imposed
+
+**3** The regulations may impose resource efficiency requirements on a person only if the person is connected with the manufacture, import, distribution, sale or supply of the product.
+
+#### Examples of provision that may be made
+
+**4** (1) The regulations may include provision—
+
+(a) prohibiting a product being distributed, sold or supplied unless it meets resource efficiency requirements;
+
+(b) requiring persons connected with the manufacture, import, distribution, sale or supply of a product to provide information to other such persons.
+
+(2) The regulations may include provision—
+
+(a) about how and by whom a product’s compliance with resource efficiency requirements is to be determined;
+
+(b) for appeals against such determinations;
+
+(c) about how a product’s compliance with resource efficiency requirements is to be evidenced (for example, by affixing a label or applying a marking to a product).
+
+#### Consultation etc requirements
+
+**5** (1) Before making regulations under this Part of this Schedule the relevant national authority must—
+
+(a) consult such persons as the authority considers appropriate, and
+
+(b) where sub-paragraph (3) or (4) applies, publish for the purposes of the consultation—
+
+(i) the authority’s assessment of the matters it must be satisfied of, and
+
+(ii) a draft of the regulations.
+
+(2) The requirements in sub-paragraph (1) may be met by consultation carried out, and assessments and draft regulations published, before this paragraph comes into force.
+
+(3) Before making regulations under this Part of this Schedule in relation to a new product, the relevant national authority must be satisfied that—
+
+(a) the product has a significant impact on the natural environment at any stage of its production, use or disposal,
+
+(b) the proposed regulations would be likely to reduce the product’s impact on the natural environment,
+
+(c) the benefit of that would be significant as against the likely environmental, social, economic or other costs of the proposed regulations, and
+
+(d) a reduction in the product’s impact on the natural environment could not be achieved as effectively without making the regulations.
+
+(4) Before making regulations under this Part of this Schedule which—
+
+(a) specify additional resource efficiency requirements in relation to a product, or
+
+(b) specify additional persons who must meet resource efficiency requirements in relation to a product,
+
+the relevant national authority must be satisfied of the matters in sub-paragraph (3)(b) to (d).
+
+(5) A “new product” means a product in relation to which there are no existing regulations made by the relevant national authority under this Part of this Schedule.
+
+(6) Before making regulations under this Part of this Schedule the relevant national authority must consider whether exemptions should be given, or other special provision made, for smaller businesses.
+
+#### Interpretation
+
+**6** In this Part of this Schedule—
+
+- “natural environment” has the same meaning as in Part 1 of this Act (see section 44);
+- “product” includes a product which is a component part of, or packaging for, another product;
+- “specified” means specified in, or determined in accordance with, the regulations.
+
+### PART 2 — Enforcement
+
+#### General power
+
+**7** The relevant national authority may by regulations (“Part 2 regulations”) make provision about the enforcement of requirements imposed by regulations (“Part 1 regulations”) made by the authority under Part 1 of this Schedule.
+
+#### Powers to confer functions
+
+**8** (1) Part 2 regulations may include provision conferring functions on one or more persons specified in the regulations (each of whom is an “enforcement authority” for the purposes of this Part).
+
+(2) Part 2 regulations may include provision—
+
+(a) conferring functions involving the exercise of discretion;
+
+(b) for the functions of an enforcement authority to be exercised on its behalf by persons authorised in accordance with the regulations.
+
+(3) Part 2 regulations may include provision requiring an enforcement authority to issue guidance about the exercise of its functions.
+
+#### Monitoring compliance
+
+**9** Part 2 regulations may include provision conferring on an enforcement authority the function of monitoring compliance with requirements imposed by Part 1 regulations (which may include the function of testing or assessing products).
+
+#### Records and information
+
+**10** Part 2 regulations may include provision—
+
+(a) requiring persons on whom requirements are imposed by Part 1 regulations to keep records;
+
+(b) requiring persons on whom requirements are imposed by Part 1 regulations to provide records or other information to an enforcement authority;
+
+(c) requiring an enforcement authority to make reports or provide information to the relevant national authority.
+
+#### Powers of entry etc
+
+**11** (1) Part 2 regulations may include provision conferring on an enforcement authority powers of entry, inspection, examination, search and seizure.
+
+(2) Part 2 regulations may include provision—
+
+(a) for powers to be exercisable only under the authority of a warrant issued by a justice of the peace, sheriff, summary sheriff or lay magistrate;
+
+(b) about applications for, and the execution of, warrants.
+
+(3) Part 2 regulations must secure that the authority of a warrant is required for the exercise of any powers conferred by the regulations to—
+
+(a) enter premises by force;
+
+(b) enter a private dwelling without the consent of the occupier;
+
+(c) search and seize material.
+
+#### Sanctions
+
+**12** (1) Part 2 regulations may include provision—
+
+(a) for, about or connected with the imposition of civil sanctions in respect of—
+
+(i) failures to comply with Part 1 regulations or Part 2 regulations, or
+
+(ii) the obstruction of or failure to assist an enforcement authority;
+
+(b) for appeals against such sanctions.
+
+(2) Part 2 regulations may include provision—
+
+(a) creating criminal offences punishable with a fine in respect of—
+
+(i) failures to comply with civil sanctions imposed under Part 2 regulations, or
+
+(ii) the obstruction of or failure to assist an enforcement authority;
+
+(b) about such offences.
+
+(3) In this paragraph “civil sanction” means a sanction of a kind for which provision may be made under Part 3 of the Regulatory Enforcement and Sanctions Act 2008 (fixed monetary penalties, discretionary requirements, stop notices and enforcement undertakings).
+
+(4) Part 2 regulations may include provision for the imposition of sanctions of that kind whether or not—
+
+(a) the conduct in respect of which the sanction is imposed constitutes an offence,
+
+(b) the enforcement authority is a regulator for the purposes of Part 3 of the Regulatory Enforcement and Sanctions Act 2008, or
+
+(c) the relevant national authority may make provision for the imposition of sanctions under that Part.
+
+#### Costs
+
+**13** Part 2 regulations may include provision—
+
+(a) requiring persons on whom requirements are imposed by Part 1 regulations to pay costs incurred by an enforcement authority in performing its functions;
+
+(b) authorising a court or tribunal dealing with any matter under Part 1 regulations or Part 2 regulations to award to an enforcement authority costs incurred by it in performing its functions under the regulations in relation to that matter.
+
+#### Consultation requirement
+
+**14** (1) Before making Part 2 regulations the relevant national authority must consult any persons the authority considers appropriate.
+
+(2) The requirement in sub-paragraph (1) may be met by consultation carried out before this paragraph comes into force.
+
+## SCHEDULE 8 — Deposit schemes
+
+*Section 54*
+
+### Power to establish deposit schemes
+
+**1** (1) The relevant national authority may by regulations establish deposit schemes for any of the following purposes—
+
+(a) sustaining, promoting or securing an increase in the recycling or reuse of materials;
+
+(b) reducing the incidence of littering or fly-tipping.
+
+(2) A deposit scheme is a scheme under which—
+
+(a) a person supplied with a deposit item by a scheme supplier pays the supplier an amount (a “deposit”), and
+
+(b) a person who provides a deposit item to a scheme collector is entitled to be paid an amount (a “refund”) in respect of that item by the collector.
+
+(3) A “deposit item” is a specified item that is supplied—
+
+(a) by way of sale, or
+
+(b) in connection with the supply of goods or services.
+
+(4) A deposit scheme may make provision about the circumstances in which a deposit or refund is to be paid in respect of a deposit item.
+
+(5) A person may be specified—
+
+(a) as a scheme supplier if the person is a supplier or producer of deposit items;
+
+(b) as a scheme collector if the person is a supplier or producer of deposit items or is a scheme administrator (see paragraph 4).
+
+(6) A deposit scheme may provide that the amount of the deposit or refund in respect of a deposit item is—
+
+(a) an amount specified,
+
+(b) an amount determined and published by the relevant national authority in accordance with the scheme, or
+
+(c) an amount determined by a scheme administrator in accordance with the scheme.
+
+(7) In this paragraph “specified” means specified or described in a deposit scheme.
+
+### Scheme suppliers
+
+**2** (1) A deposit scheme may impose requirements on a scheme supplier in connection with the scheme, including requirements—
+
+(a) to take steps to ensure deposits are paid in respect of deposit items in accordance with the scheme (which may include a requirement to include the amount of the deposit in the sale price of the item, or in the price of goods or services the item was supplied in connection with);
+
+(b) as to the marking of deposit items to identify them as such;
+
+(c) as to the retention of deposits;
+
+(d) to pay amounts received as deposits to other scheme suppliers, scheme collectors or to a scheme administrator;
+
+(e) in connection with securing that a specified proportion of deposit items supplied by scheme suppliers, or by individual scheme suppliers, are returned to scheme collectors;
+
+(f) to keep records in connection with the scheme;
+
+(g) to provide those records or other information in connection with the scheme to a scheme administrator.
+
+(2) A deposit scheme may impose different requirements on different scheme suppliers.
+
+(3) In this paragraph “specified” means specified in a deposit scheme.
+
+### Scheme collectors
+
+**3** (1) A deposit scheme may impose requirements on a scheme collector in connection with the scheme, including requirements—
+
+(a) to pay a person who provides a deposit item a refund in accordance with the scheme;
+
+(b) to pay a person who provides a deposit item under another deposit scheme an amount determined in accordance with the scheme (and the scheme may provide for that amount to be determined by reference to the other deposit scheme);
+
+(c) to pay a person who provides articles or packaging that are the subject of a Scottish deposit and return scheme an amount determined in accordance with the scheme (and the scheme may provide for that amount to be determined by reference to the Scottish deposit and return scheme);
+
+(d) to recycle, re-use, or arrange or facilitate the recycling or re-use of any item provided to them in accordance with the scheme (which may include articles or packaging that are the subject of a Scottish deposit and return scheme);
+
+(e) to otherwise dispose of such items in accordance with the scheme;
+
+(f) where a scheme collector receives any payment in connection with the recycling or disposal of such an item, to retain that amount or to pay it, or a part of it, to a scheme administrator;
+
+(g) as to the retention of any amounts received from scheme suppliers, other scheme collectors or a scheme administrator;
+
+(h) to pay such amounts received to scheme suppliers, other scheme collectors or a scheme administrator;
+
+(i) in connection with securing that a specified proportion of deposit items supplied by scheme suppliers, or by individual scheme suppliers, are returned to scheme collectors;
+
+(j) to keep records in connection with the scheme;
+
+(k) to provide those records or other information in connection with the scheme to a scheme administrator.
+
+(2) A deposit scheme may impose different requirements on different scheme collectors.
+
+(3) In this paragraph “specified” means specified in a deposit scheme.
+
+### Deposit scheme administrators
+
+**4** (1) A person may be appointed as a scheme administrator of a deposit scheme by, or in accordance with, that scheme.
+
+(2) A deposit scheme may confer functions (including functions involving the exercise of discretion) on a scheme administrator, including—
+
+(a) any requirement that could be imposed on a scheme collector by virtue of paragraph 3(1)(a) to (e);
+
+(b) functions relating to the registration of scheme suppliers and scheme collectors;
+
+(c) a power to charge fees for registration (the amounts of which may be such as to recover the costs referred to in paragraphs (d) and (e));
+
+(d) a power to use such fees to meet the costs of exercising its functions under, or in connection with, the scheme;
+
+(e) requirements to pay such fees to persons exercising functions conferred by virtue of paragraph 5 for the purpose of meeting the costs of the exercise of those functions;
+
+(f) a power to give general or specific directions to scheme suppliers and scheme collectors as to the matters mentioned in paragraphs 2(1) and 3(1);
+
+(g) a power to make payments to scheme collectors to reimburse them in respect of the payment of refunds or payments made by virtue of a requirement under paragraph 3(1)(a), (b) or (c);
+
+(h) a power to make payments to another scheme administrator of the deposit scheme;
+
+(i) a power to make payments to a scheme administrator of another deposit scheme in connection with the operation of the scheme, or the operation of the other scheme;
+
+(j) a power to make payments to a Scottish deposit administrator in connection with the operation of the scheme, or the operation of the Scottish deposit and return scheme in relation to which the Scottish deposit administrator is exercising functions;
+
+(k) requirements to retain amounts received by it under or by virtue of the scheme;
+
+(l) a power to use such amounts, or to pay such amounts to another person, for purposes connected with the scheme, or other deposit schemes;
+
+(m) a power to use such amounts for purposes connected with the protection of the environment;
+
+(n) requirements to pay such amounts to the relevant national authority;
+
+(o) functions relating to securing compliance by scheme suppliers and scheme collectors with their obligations under the scheme;
+
+(p) requirements in connection with securing that a specified proportion of deposit items supplied by scheme suppliers, or by individual scheme suppliers, are returned to scheme collectors;
+
+(q) requirements to keep records in connection with the scheme;
+
+(r) requirements to provide any such records or other information in connection with the scheme to the relevant national authority;
+
+(s) requirements as to the exercise of the administrator’s functions.
+
+(3) Where there is more than one scheme administrator, a deposit scheme may confer different functions on different scheme administrators.
+
+(4) A deposit scheme may confer a power on the relevant national authority to give directions to a scheme administrator of the scheme as to the exercise of the administrator’s functions under the scheme.
+
+(5) In this paragraph “specified” means specified in a deposit scheme.
+
+### Enforcement
+
+**5** (1) The relevant national authority may by regulations make provision about the enforcement of requirements under deposit schemes.
+
+(2) The provision that may be made under sub-paragraph (1) includes provision—
+
+(a) conferring functions (including functions involving the exercise of discretion) in connection with the enforcement of requirements under deposit schemes on specified persons (which may include scheme administrators);
+
+(b) for such functions of such a person to be exercised on the person’s behalf by persons authorised in accordance with the regulations;
+
+(c) requiring scheme suppliers, scheme collectors or scheme administrators to provide records and other information relating to deposit schemes to specified persons;
+
+(d) for, about or connected with the imposition of civil sanctions in respect of failures to comply with relevant requirements, or the obstruction of or failure to assist a person having functions in connection with the enforcement of relevant requirements;
+
+(e) for appeals against such sanctions;
+
+(f) creating criminal offences punishable with a fine in respect of failures to comply with civil sanctions, or the obstruction of or failure to assist a person having functions in connection with the enforcement of relevant requirements;
+
+(g) about such offences.
+
+(3) For the purposes of this paragraph “civil sanction” means a sanction of a kind for which provision may be made under Part 3 of the Regulatory Enforcement and Sanctions Act 2008 (fixed monetary penalties, discretionary requirements, stop notices and enforcement undertakings).
+
+(4) Regulations under sub-paragraph (1) may include provision for the imposition of sanctions of that kind whether or not—
+
+(a) the conduct in respect of which the sanction is imposed constitutes an offence,
+
+(b) the person imposing them is a regulator for the purposes of Part 3 of the Regulatory Enforcement and Sanctions Act 2008, or
+
+(c) the relevant national authority may make provision for the imposition of sanctions under that Part.
+
+(5) In this paragraph—
+
+- “relevant requirement” means any requirement imposed by or under a deposit scheme or regulations under sub-paragraph (1);
+- “specified” means specified in, or determined in accordance with, regulations under sub-paragraph (1).
+
+### Interpretation
+
+**6** In this Schedule—
+
+- “deposit” has the meaning it has in paragraph 1(2)(a);
+- “deposit item” has the meaning it has in paragraph 1(3);
+- “deposit scheme” has the meaning it has in paragraph 1(2);
+- “refund” has the meaning it has in paragraph 1(2)(b);
+- “scheme administrator”, in relation to a deposit scheme, means a person appointed as a scheme administrator of the scheme;
+- “scheme supplier” or “scheme collector” means a person specified as such (see paragraph 1(5));
+- “Scottish deposit administrator” means a person exercising the functions of a scheme administrator in relation to a Scottish deposit and return scheme;
+- “Scottish deposit and return scheme” means a deposit and return scheme under section 84 of the Climate Change (Scotland) Act 2009 (asp 12).
+
+## SCHEDULE 9 — Charges for single use items
+
+*Section 55*
+
+### General power
+
+**1** (1) The relevant national authority may by regulations make provision about charging by sellers of goods or services for items specified in the regulations.
+
+(2) Regulations made by the Secretary of State or the Welsh Ministers may specify only items which—
+
+(a) are single use items, and
+
+(b) are supplied in connection with goods or services.
+
+(3) Regulations made by the Department of Agriculture, Environment and Rural Affairs in Northern Ireland may specify only items which—
+
+(a) are single use items,
+
+(b) are made wholly or partly of plastic, and
+
+(c) are supplied in connection with goods or services.
+
+(4) A “single use item” is a manufactured item which is likely to be used only once, or used only for a short period of time, before being disposed of.
+
+(5) An item is supplied in connection with goods or services if it is supplied—
+
+(a) at the place the goods or services are sold or provided, for the purpose of enabling the goods to be taken away, used or consumed, or enabling the services to be received, or
+
+(b) for the purpose of enabling goods to be delivered.
+
+(6) In particular, a container or other packaging into which goods are placed at the point of sale is supplied in connection with goods.
+
+### Requirement to charge
+
+**2** The regulations may make provision requiring sellers of goods or services to charge for items specified in the regulations.
+
+### Sellers of goods and services
+
+**3** (1) “Seller”, in relation to goods or services, has the meaning given by the regulations.
+
+(2) The regulations may define that term by reference (in particular) to—
+
+(a) a person’s involvement in selling the goods or services,
+
+(b) a person’s interest in goods or services, or
+
+(c) a person’s interest in the place at or from which the goods or services are sold or provided,
+
+or any combination of those factors.
+
+(3) The regulations may make provision for the regulations to apply—
+
+(a) to all sellers of goods or services, or
+
+(b) to sellers of goods or services identified by reference to factors specified in the regulations.
+
+(4) The factors which may be specified in the regulations include—
+
+(a) the place or places at or from which a seller supplies goods or services,
+
+(b) the type of goods or services that a seller supplies,
+
+(c) the value of goods or services that a seller supplies, and
+
+(d) a seller’s turnover or any part of that turnover.
+
+### Amount of charge
+
+**4** The regulations may specify the minimum amount that a seller must charge for an item specified in the regulations, or provide for that amount to be determined in accordance with the regulations.
+
+### Administration
+
+**5** (1) The regulations may appoint a person (an “administrator”) to administer provision made by the regulations.
+
+(2) More than one person may be appointed as an administrator.
+
+(3) The regulations may confer functions on an administrator (including functions involving the exercise of discretion).
+
+(4) References in this Schedule to an administrator include a person appointed by an administrator or exercising functions on an administrator’s behalf.
+
+### Registration
+
+**6** (1) The regulations may require sellers to register with an administrator.
+
+(2) The regulations may make provision—
+
+(a) about applications for registration;
+
+(b) about the period for which registration has effect;
+
+(c) about the cancellation of registration.
+
+(3) The regulations may require sellers to pay to the administrator, in connection with their registration, fees of an amount determined by or in accordance with the regulations.
+
+(4) The regulations may provide for the amount of the fees to be such as to recover the costs incurred by the administrator in performing its functions under the regulations.
+
+### Record-keeping and publication of records
+
+**7** (1) The regulations may require records to be kept relating to charges made for items specified in the regulations.
+
+(2) The regulations may require the records, or such other information as may be specified—
+
+(a) to be published at such times and in such manner as may be specified;
+
+(b) to be supplied on request and in such manner as may be specified to—
+
+(i) the relevant national authority,
+
+(ii) an administrator, or
+
+(iii) members of the public.
+
+(3) The regulations may (in particular) require the publication or supply of records or information relating to any of the following—
+
+(a) the amount received by a seller by way of charges for items specified in the regulations;
+
+(b) the seller’s gross or net proceeds of the charge;
+
+(c) the uses to which the net proceeds of the charge have been put.
+
+(4) In this paragraph—
+
+- “gross proceeds of the charge” means the amount received by the seller by way of charges for items specified in the regulations;
+- “net proceeds of the charge” means the seller’s gross proceeds of the charge reduced by such amount as may be specified.
+
+### Enforcement
+
+**8** (1) The regulations may confer functions on an administrator to enforce provision made by the regulations.
+
+(2) The regulations may (in particular) confer powers on an administrator to—
+
+(a) require the production of documents or the provision of information, or
+
+(b) question a seller or officers or employees of a seller.
+
+(3) Regulation under sub-paragraph (2) must contain provision for ensuring that the power in question is exercised by a person only where the person reasonably believes there has been a failure to comply with a requirement of regulations under this Schedule.
+
+### Civil sanctions
+
+**9** (1) The regulations may make provision for, about or connected with the imposition of civil sanctions in respect of failures to comply with the regulations, or the obstruction of or failure to assist a person on whom functions are conferred by the regulations.
+
+(2) The regulations may make provision for appeals against such sanctions.
+
+(3) In this paragraph “civil sanction” means a sanction of a kind for which provision may be made under Part 3 of the Regulatory Enforcement and Sanctions Act 2008 (fixed monetary penalties, discretionary requirements, stop notices and enforcement undertakings).
+
+(4) The regulations may include provision for the imposition of sanctions of that kind whether or not—
+
+(a) the conduct in respect of which the sanction is imposed constitutes an offence,
+
+(b) the enforcement authority is a regulator for the purposes of Part 3 of the Regulatory Enforcement and Sanctions Act 2008, or
+
+(c) the relevant national authority may make provision for the imposition of sanctions under that Part.
+
+## SCHEDULE 10 — Enforcement powers
+
+*Section 66*
+
+### Powers to search and seize vehicles in connection with waste offences
+
+**1** In section 5(6) of the Control of Pollution (Amendment) Act 1989 (constable’s power to seize vehicles and contents)—
+
+(a) in paragraph (b) after “presence of” insert “or at the request of”;
+
+(b) in paragraph (c) for “without such an officer present” substitute “in any other case”.
+
+**2** In section 34B(6) of the Environmental Protection Act 1990 (constable’s power to seize vehicles and contents)—
+
+(a) in paragraph (b) after “presence of” insert “or at the request of”;
+
+(b) in paragraph (c) for “without such an officer present” substitute “in any other case”.
+
+### Powers of direction in relation to waste
+
+**3** (1) Section 57 of the Environmental Protection Act 1990 (power to give directions) is amended as follows.
+
+(2) In subsection (2) omit the words from “with a view” to the end.
+
+(3) After subsection (2) insert—
+
+> (2A) The appropriate Minister may, by notice in writing—
+>
+> (a) direct a registered waste carrier to collect waste which is being kept on specified land and deliver it to a specified person on specified terms;
+>
+> (b) direct any person who—
+>
+> (i) is keeping waste on any land, or
+>
+> (ii) owns or occupies land on which waste is being kept,
+>
+> to facilitate collection of the waste by a specified registered waste carrier to whom a direction in respect of the waste is given under paragraph (a).
+
+(4) In subsection (4), for “of treating or disposing of” substitute “in relation to”.
+
+(5) After subsection (4) insert—
+
+> (4A) A direction under subsection (2A)(b) may require the person to whom it is given—
+>
+> (a) to pay to the specified registered waste carrier the reasonable costs of collecting and delivering the waste;
+>
+> (b) to pay to the specified person to whom the waste is delivered (“P”) the reasonable costs incurred by P in relation to the waste (including any costs P is required by a direction under this section to pay to another person).
+
+(6) In subsection (7) for the words from “, where” to the end substitute “pay any costs mentioned in subsection (4).”
+
+(7) After subsection (7) insert—
+
+> (7A) The appropriate Minister may pay any costs mentioned in subsection (4A).
+
+(8) In subsection (8), before the definition of “specified” insert—
+
+> - “appropriate Minister” means—
+>
+>   - the Secretary of State, in relation to waste being kept on land in England, and
+>   - the Welsh Ministers, in relation to waste being kept on land in Wales;
+>
+> - “registered waste carrier” means a person registered under the Control of Pollution (Amendment) Act 1989 as a carrier of controlled waste;
+
+.
+
+### Powers of entry in relation to pollution control etc
+
+**4** The Environment Act 1995 is amended as follows.
+
+**5** (1) Section 108 (powers of enforcing authorities and their authorised officers) is amended as follows.
+
+(2) In subsection (4), after paragraph (k) insert—
+
+> (ka) as regards any premises which an English or Welsh authorised person has power to enter by virtue of paragraph (a), for the purposes of an examination or investigation under paragraph (c)—
+>
+> (i) to search the premises;
+>
+> (ii) to seize and remove documents or anything else found on the premises (other than an article or substance within paragraph (g));
+>
+> (iii) to require any information which is stored in electronic form and is accessible from the premises to be produced in a form in which it can be removed and—
+>
+> (a) in which it is visible and legible, or
+>
+> (b) from which it can readily be produced in a visible and legible form;
+>
+> (iv) to operate any equipment found on the premises for the purposes of producing such information in such a form;
+
+.
+
+(3) In subsection (6), omit paragraph (a).
+
+(4) After subsection (7) insert—
+
+> (7A) An English or Welsh authorised person may not exercise the powers in subsection (4)(ka) without—
+>
+> (a) the consent of a person entitled to grant access to material on or accessible from the premises, or
+>
+> (b) the authority of a warrant by virtue of Schedule 18 to this Act.
+>
+> This is subject to subsections (7B) and (7C).
+>
+> (7B) An English or Welsh authorised person may exercise a power in subsection (4)(ka)(ii) to (ka)(iv) in relation to a thing without consent or the authority of a warrant if the person has reasonable grounds for believing that—
+>
+> (a) it is evidence of a failure to comply with any provision of the pollution control enactments or flood risk activity enactments, and
+>
+> (b) exercising the power is necessary to prevent it being concealed, lost, altered or destroyed.
+>
+> (7C) Subsection (7A) does not require consent or the authority of a warrant for doing something within the powers in subsection (4)(ka) if, and so far as, it may be done without them in exercise of another power conferred by subsection (4).
+>
+> (7D) Where anything seized or removed from premises under subsection (4)(ka) contains protected material, that material—
+>
+> (a) may not be used for the purposes of an examination or investigation under subsection (4)(c), and
+>
+> (b) must be returned to the premises from which it was removed, or to the person who had possession or control of it immediately before it was removed, as soon as reasonably practicable after it is identified as protected material.
+>
+> (7E) Subsection (7D) does not prevent any part of a thing containing protected material which is not protected material being used for the purposes of an examination or investigation, retained or copied.
+>
+> (7F) “Protected material” means—
+>
+> (a) material subject to legal professional privilege,
+>
+> (b) excluded material within the meaning of section 11 of the Police and Criminal Evidence Act 1984, or
+>
+> (c) journalistic material, within the meaning of section 13 of that Act, which is not excluded material.
+
+(5) After subsection (12) insert—
+
+> (12A) Subject to subsection (7D), anything seized or removed under subsection (4)(ka) may be retained for so long as is necessary in all the circumstances.
+
+(6) In subsection (15)—
+
+(a) after the definition of “authorised person” insert—
+
+> - “document” includes anything in which information of any description is recorded (by any means) and any part of such a thing;
+
+;
+
+(b) after the definition of “enforcing authority” insert—
+
+> - “English or Welsh authorised person” means a person authorised under subsection (1) or (2) by the Secretary of State, the Welsh Ministers, the Agency, the Natural Resources Body for Wales, a waste collection authority or a local enforcing authority in England or Wales;
+
+;
+
+(c) in the definition of “pollution control functions” in relation to a waste collection authority, in paragraph (a) after “46” insert “to 46D”.
+
+**6** (1) Schedule 18 (supplemental provision about powers of entry) is amended as follows.
+
+(2) In paragraph 2—
+
+(a) after sub-paragraph (2) insert—
+
+> (2A) A justice of the peace may by warrant authorise an English or Welsh authorised person, designated for the purpose by the person who authorised them, to exercise the powers in section 108(4)(ka) in accordance with the warrant and, if need be, by force.
+>
+> (2B) The justice may do so only if satisfied that there are reasonable grounds for believing that—
+>
+> (a) there is material on or accessible from the premises in question which is likely to be of substantial value (by itself or together with other material) to an examination or investigation under section 108(4)(c), and
+>
+> (b) it is impracticable to communicate with a person entitled to grant access to it, or access to it is unlikely to be granted unless a warrant is produced.
+
+;
+
+(b) omit sub-paragraph (3).
+
+(3) In paragraph 3 after “shall” insert “, if so required,”.
+
+## SCHEDULE 11 — Local air quality management framework
+
+*Section 72*
+
+**1** The Environment Act 1995 is amended as follows.
+
+**2** (1) Section 80 (national air quality strategy) is amended as follows.
+
+(2) Omit subsection (3).
+
+(3) After subsection (4) insert—
+
+> (4A) The strategy must be reviewed, and if appropriate modified—
+>
+> (a) within the period of 12 months beginning with the day on which this subsection comes into force, and
+>
+> (b) within each period of 5 years beginning with the day on which the person carrying out the review completed their most recent review under this subsection.
+
+**3** After that section insert—
+
+> **Duty to report on air quality in England**
+>
+> **80A** As soon as reasonably practicable after the end of each financial year, beginning with the financial year in which this section comes into force, the Secretary of State must lay a statement before Parliament that sets out—
+>
+> (a) the Secretary of State’s assessment of the progress made in meeting air quality objectives, and air quality standards, in relation to England, and
+>
+> (b) the steps the Secretary of State has taken in that year in support of the meeting of those objectives and standards.
+
+**4** After section 81 insert—
+
+> **Functions of relevant public authorities etc**
+>
+> **81A** (1) The following persons must have regard to the strategy when exercising any function of a public nature that could affect the quality of air—
+>
+> (a) relevant public authorities;
+>
+> (b) local authorities in England;
+>
+> (c) county councils for areas in England for which there are district councils.
+>
+> (2) In this Part, “relevant public authority” means a person designated in accordance with subsection (3) as a relevant public authority in relation to an area in England.
+>
+> (3) The Secretary of State may by regulations designate a person as a relevant public authority in relation to an area in England if the person’s functions include functions of a public nature in relation to that area.
+>
+> (4) Before making regulations under subsection (3) the Secretary of State must consult—
+>
+> (a) the person that is proposed to be designated, and
+>
+> (b) such other persons as the Secretary of State considers appropriate.
+>
+> (5) The requirement in subsection (4) may be met by consultation carried out before this section comes into force.
+>
+> (6) For the purposes of subsections (2) and (3), reference to England includes the territorial sea adjacent to England, which for this purpose does not include—
+>
+> (a) any part of the territorial sea which is adjacent to Wales for the purposes of the Government of Wales Act 2006 (see section 158 of that Act), or
+>
+> (b) any part of the territorial sea which is adjacent to Scotland for the purposes of the Scotland Act 1998 (see section 126 of that Act).
+
+**5** (1) Section 82 (local authority reviews) is amended as follows.
+
+(2) In subsection (3)—
+
+(a) for “If” substitute “This subsection applies to a local authority where”;
+
+(b) omit the words from “, the local authority shall” to the end.
+
+(3) After subsection (3) insert—
+
+> (4) Where subsection (3) applies to a local authority, it must identify any parts of its area in which it appears that air quality standards or objectives are not likely to be achieved within the relevant period.
+>
+> (5) Where subsection (3) applies to a local authority in England, it must also—
+>
+> (a) identify relevant sources of emissions that it considers are, or will be, responsible (in whole or in part) for any failure to achieve air quality standards or objectives in its area,
+>
+> (b) in the case of a relevant source within the area of a neighbouring authority, identify that authority, and
+>
+> (c) in the case of a relevant source within an area in relation to which a relevant public authority or the Agency has functions of a public nature, identify that person in relation to that source.
+>
+> (6) For the purposes of subsection (5), a source is “relevant” if—
+>
+> (a) it is within the area of the local authority,
+>
+> (b) it is within the area of a neighbouring authority in England, or
+>
+> (c) it is within an area in relation to which a relevant public authority or the Agency has functions of a public nature and the local authority considers that the exercise of those functions is relevant to the source of the emissions.
+
+**6** After section 83 insert—
+
+> **Duties of English local authorities in relation to designated areas**
+>
+> **83A** (1) This section applies in relation to a local authority in England.
+>
+> (2) A local authority must, for the purpose of securing that air quality standards and objectives are achieved in an air quality management area designated by that authority, prepare an action plan in relation to that area.
+>
+> (3) An action plan is a written plan that sets out how the local authority will exercise its functions in order to secure that air quality standards and objectives are achieved in the area to which the plan relates.
+>
+> (4) An action plan must also set out how the local authority will exercise its functions to secure that air quality standards and objectives are maintained after they have been achieved in the area to which the plan relates.
+>
+> (5) An action plan must set out particular measures the local authority will take to secure the achievement, and maintenance, of air quality standards and objectives in the area to which the plan relates, and must in relation to each measure specify a date by which it will be carried out.
+>
+> (6) A local authority may revise an action plan at any time, and must revise an action plan if it considers that there is a need for further or different measures to be taken to secure that air quality standards and objectives are achieved or maintained in the area to which the plan relates.
+>
+> (7) Subsections (8) to (10) apply where a district council in an area for which there is a county council is preparing an action plan, or a revision of an action plan.
+>
+> (8) Where the county council disagrees with the contents of the proposed plan, or the proposed revision of a plan, a referral of the matter may be made to the Secretary of State by—
+>
+> (a) the county council;
+>
+> (b) the district council preparing the plan or revision.
+>
+> (9) The Secretary of State may, on a reference made under subsection (8), confirm (with or without modifications) or reject the proposed action plan, or revision of an action plan.
+>
+> (10) Where a reference has been made under subsection (8), the district council may not finally determine the proposed action plan or revision of an action plan, except in accordance with the decision of the Secretary of State on the reference or in pursuance of a direction made by the Secretary of State under section 85.
+
+**7** (1) Section 84 (duties of local authorities in relation to designated areas) is amended as follows.
+
+(2) In the heading, after “of” insert “Scottish and Welsh”.
+
+(3) Before subsection (2) insert—
+
+> (1A) This section applies in relation to a local authority in Scotland or Wales.
+
+(4) Omit subsection (5).
+
+**8** After section 85 insert—
+
+> **Duty of air quality partners to co-operate**
+>
+> **85A** (1) For the purposes of this Part, an “air quality partner” of a local authority means a person identified by that authority in accordance with section 82(5)(b) or (c).
+>
+> (2) An air quality partner of a local authority must provide the authority with such assistance in connection with the carrying out of any of the authority’s functions under this Part as the authority requests.
+>
+> (3) An air quality partner may refuse a request under subsection (2) to the extent it considers the request unreasonable.
+>
+> **Role of air quality partners in relation to action plans**
+>
+> **85B** (1) Where a local authority in England intends to prepare an action plan it must notify each of its air quality partners that it intends to do so.
+>
+> (2) Where an air quality partner of a local authority has been given a notification under subsection (1) it must, before the end of the relevant period, provide the authority with proposals for particular measures the partner will take to contribute to the achievement, and maintenance, of air quality standards and objectives in the area to which the plan relates.
+>
+> (3) An air quality partner that provides proposals under subsection (2) must—
+>
+> (a) in those proposals, specify a date for each particular measure by which it will be carried out, and
+>
+> (b) as far as is reasonably practicable, carry out those measures by those dates.
+>
+> (4) An action plan prepared by a local authority in England must set out any proposals provided to it by its air quality partners under subsection (2) (including the dates specified by those partners by virtue of subsection (3)(a)).
+>
+> (5) The Secretary of State may direct an air quality partner to make further proposals under subsection (2) by a date specified in the direction where the Secretary of State considers the proposals made by the partner under that subsection are insufficient or otherwise inappropriate.
+>
+> (6) A direction under subsection (5) may make provision about the extent to which the further proposals are to supplement or replace any other proposals made under subsection (2) by the air quality partner.
+>
+> (7) An air quality partner must comply with any direction given to it under this section.
+
+**9** (1) Section 86 (functions of county councils for areas for which there are district councils) is amended as follows.
+
+(2) Omit subsection (1).
+
+(3) In subsection (2), for the words before paragraph (a) substitute “A county council for an area in England for which there are district councils may make recommendations to any of those district councils with respect to the carrying out of—”.
+
+(4) After subsection (2) insert—
+
+> (2A) Where a district council of a district in England for which there is a county council intends to prepare an action plan it must notify the county council that it intends to do so.
+
+(5) For subsections (3) to (5) substitute—
+
+> (3) Where a county council has been given a notification by a district council under subsection (2A) it must, before the end of the relevant period, provide the district council with proposals for particular measures the county council will take to contribute to the achievement, and maintenance, of air quality standards and objectives in the area to which the plan relates.
+>
+> (4) A county council that provides proposals under subsection (3) must—
+>
+> (a) in those proposals, specify a date for each particular measure by which it will be carried out, and
+>
+> (b) as far as is reasonably practicable, carry out those measures by those dates.
+>
+> (5) An action plan prepared by a district council of a district in England for which there is a county council must set out any proposals provided to it by the county council under subsection (3) (including the dates specified by the county council by virtue of subsection (4)(a)).
+
+(6) In subsection (6), in paragraph (a), after “district council” insert “of a district in England for which there is a county council”.
+
+(7) In subsection (7)—
+
+(a) in paragraph (a), omit the words from “above or” to the end;
+
+(b) in paragraph (b)—
+
+(i) omit “or statement”;
+
+(ii) omit “or (4) above”;
+
+(c) in paragraph (c)—
+
+(i) omit “or statement”;
+
+(ii) omit “or (4) above”.
+
+**10** For section 86A substitute—
+
+> **Role of the Mayor of London in relation to action plans**
+>
+> **86A** (1) Where a local authority in London intends to prepare an action plan it must notify the Mayor of London (referred to in this section as “the Mayor”).
+>
+> (2) Where the Mayor has been given a notification under subsection (1) by a local authority in London the Mayor must, before the end of the relevant period, provide the authority with proposals for particular measures the Mayor will take to contribute to the achievement, and maintenance, of air quality standards and objectives in the area to which the plan relates.
+>
+> (3) Where the Mayor provides proposals under subsection (2), the Mayor must—
+>
+> (a) in those proposals, specify a date for each particular measure by which it will be carried out, and
+>
+> (b) as far as is reasonably practicable, carry out those measures by those dates.
+>
+> (4) An action plan prepared by a local authority in London must set out any proposals provided to it by the Mayor under subsection (2) (including the dates specified by the Mayor by virtue of subsection (3)(a)).
+>
+> **Role of combined authorities in relation to action plans**
+>
+> **86B** (1) Where a local authority in the area of a combined authority intends to prepare an action plan it must notify the combined authority.
+>
+> (2) Where a combined authority has been given a notification under subsection (1) by a local authority, the combined authority must, before the end of the relevant period, provide the local authority with proposals for particular measures the combined authority will take to contribute to the achievement, and maintenance, of air quality standards and objectives in the area to which the plan relates.
+>
+> (3) Where a combined authority provides proposals under subsection (2), the combined authority must—
+>
+> (a) in those proposals, specify a date for each particular measure by which it will be carried out, and
+>
+> (b) as far as is reasonably practicable, carry out those measures by those dates.
+>
+> (4) An action plan prepared by a local authority in the area of a combined authority must set out any proposals provided to it under subsection (2) (including the dates specified by virtue of subsection (3)(a)).
+>
+> (5) In this section “combined authority” has the meaning it has in Part 6 of the Local Democracy, Economic Development and Construction Act 2009 (see section 120 of that Act).
+
+**11** (1) Section 87 (regulations) is amended as follows.
+
+(2) In subsection (2)—
+
+(a) in paragraph (c), after “authorities” insert “, relevant county councils, relevant public authorities or the Agency”;
+
+(b) in paragraph (j), after “otherwise)” insert “, relevant county councils, relevant public authorities, the Agency”;
+
+(c) in paragraph (l), after “authorities” insert “, relevant county councils, relevant public authorities or the Agency”;
+
+(d) in paragraph (m)—
+
+(i) after “local authority” insert “, a relevant county council, a relevant public authority or the Agency”;
+
+(ii) after “the authority”, in both places it occurs, insert “, council or Agency”.
+
+(3) After that subsection insert—
+
+> (2A) In subsection (2) “relevant county council” means a county council for an area in England for which there are district councils.
+
+**12** In section 88, in subsection (3), after “district councils” insert “, relevant public authorities and the Agency”.
+
+**13** In section 91 (interpretation), in subsection (1)—
+
+(a) for the definition of “action plan” substitute—
+
+> - “action plan” is to be construed—
+>
+>   - in relation to England, in accordance with section 83A;
+>   - otherwise, in accordance with section 84(2);
+
+;
+
+(b) at the appropriate places insert—
+
+> - “air quality partner” has the meaning given by section 85A(1);
+
+;
+
+> - “neighbouring authority”, in relation to a local authority (“the principal authority”), means another local authority whose area is contiguous with the area of the principal authority;
+
+;
+
+> - “relevant public authority” has the meaning given by section 81A(2);
+
+.
+
+**14** In Schedule 11 (air quality: supplemental provisions), in paragraph 1(2), for paragraph (d) substitute—
+
+> (d) every neighbouring authority;
+
+.
+
+## SCHEDULE 12 — Smoke control in England and Wales
+
+*Section 73*
+
+### PART 1 — Principal amendments to the Clean Air Act 1993: England
+
+**1** The Clean Air Act 1993 is amended as follows.
+
+**2** After section 19 insert—
+
+> **Regulation of smoke and fuel in smoke control areas in England**
+>
+> **Penalty for emission of smoke in smoke control area in England**
+>
+> **19A** Schedule 1A makes provision for financial penalties in relation to the emission of smoke in smoke control areas in England.
+
+**3** After Schedule 1 insert—
+
+> **SCHEDULE 1A — Penalty for emission of smoke in smoke control area in England**
+>
+> **Key definitions**
+>
+> **1** In this Schedule—
+>
+> - “relevant chimney” means—
+>
+>   - a chimney of a building to which a smoke control order in England applies, or
+>   - a chimney which serves the furnace of any fixed boiler or industrial plant to which a smoke control order in England applies;
+>
+> - “person liable”, in relation to a relevant chimney, means—
+>
+>   - if the chimney is the chimney of a building, the occupier of the building, or
+>   - if the chimney serves the furnace of any fixed boiler or industrial plant, the person having possession of the boiler or plant.
+>
+> **Notice of intent**
+>
+> **2** (1) This paragraph applies where a local authority is satisfied, on the balance of probabilities, that on a particular occasion smoke has been emitted from a relevant chimney within a smoke control area declared by that authority.
+>
+> (2) The local authority may give to the person liable a notice under this paragraph (a “notice of intent”).
+>
+> (3) A notice of intent must—
+>
+> (a) inform the person that the local authority is satisfied as specified in sub-paragraph (1),
+>
+> (b) specify the occasion referred to in sub-paragraph (1),
+>
+> (c) inform the person that the local authority proposes to impose a financial penalty under this Schedule (including the proposed amount of the penalty), and
+>
+> (d) give details regarding the person’s right to object to the imposition of a financial penalty.
+>
+> **Amount of penalty**
+>
+> **3** (1) The minimum amount of a financial penalty that may be imposed under this Schedule is £175.
+>
+> (2) The maximum amount of a financial penalty that may be imposed under this Schedule is £300.
+>
+> (3) The Secretary of State may by regulations amend sub-paragraph (1) or (2) so as to substitute a different amount for the amount specified there.
+>
+> (4) Regulations under sub-paragraph (3) may not be made unless a draft of the regulations has been laid before, and approved by resolution of, each House of Parliament.
+>
+> **Right to object to proposed financial penalty**
+>
+> **4** (1) A person to whom a notice of intent is given may, within the period of 28 days beginning with the day after that on which the notice was given—
+>
+> (a) object in writing to the local authority on a ground specified in sub-paragraph (2), and
+>
+> (b) provide evidence that supports the objection.
+>
+> (2) The grounds of objection referred to in sub-paragraph (1) are—
+>
+> (a) that there was no emission of smoke from the chimney on the occasion specified in the notice of intent;
+>
+> (b) that the chimney was not a chimney to which a smoke control order applied on the occasion specified in the notice of intent;
+>
+> (c) that the person to whom the notice of intent was given was not a person liable in relation to the chimney on the occasion specified in the notice of intent;
+>
+> (d) that there are other compelling reasons why the financial penalty should not be imposed.
+>
+> (3) Where a person objects on the ground specified in sub-paragraph (2)(c), the objection must include the name and address of the person who was the person liable on the occasion specified in the notice of intent (if known).
+>
+> (4) The Secretary of State may by regulations amend this paragraph so as to amend the grounds of objection listed in sub-paragraph (2).
+>
+> (5) Before making regulations under sub-paragraph (4) the Secretary of State must consult anyone that the Secretary of State considers may have an interest in the proposed regulations.
+>
+> (6) Regulations under sub-paragraph (4) may not be made unless a draft of the regulations has been laid before, and approved by resolution of, each House of Parliament.
+>
+> **Decision regarding a final notice**
+>
+> **5** (1) Where a local authority in England has given a notice of intent to a person, the authority may impose a financial penalty on the person if the local authority so decides within—
+>
+> (a) the period of 56 days beginning with the day on which an objection is made under paragraph 4, or
+>
+> (b) if no such objection is made, the period of 56 days beginning with the day after the day on which the period mentioned in paragraph 4(1) ended.
+>
+> (2) If the local authority decides not to impose a financial penalty on a person, or does not decide to impose a financial penalty on the person within the period specified in sub-paragraph (1), the authority must give a notice to that person that informs the person that a financial penalty will not be imposed.
+>
+> **Final notice**
+>
+> **6** (1) This paragraph applies where a local authority in England decides to impose a financial penalty on a person who was given a notice of intent.
+>
+> (2) The local authority may impose a financial penalty by a notice given to that person (a “final notice”).
+>
+> (3) A final notice must specify—
+>
+> (a) the amount of the financial penalty,
+>
+> (b) the reasons for imposing the penalty,
+>
+> (c) information about how to pay the penalty,
+>
+> (d) the period for payment of the penalty, and
+>
+> (e) information about rights of appeal.
+>
+> (4) The final notice must require the financial penalty to be paid within the period of 28 days beginning with the day after that on which the notice was given.
+>
+> **Withdrawal or amendment of notices**
+>
+> **7** (1) A local authority may at any time—
+>
+> (a) withdraw a notice of intent or a final notice, or
+>
+> (b) reduce the amount of the financial penalty specified in a final notice.
+>
+> (2) The power in sub-paragraph (1) is to be exercised by giving notice to the person to whom the notice of intent or final notice was given.
+>
+> **Appeals**
+>
+> **8** (1) A person on whom a financial penalty is imposed by a final notice may, within the period of 28 days beginning with the day after that on which the notice was given, appeal against the notice to the First-tier Tribunal.
+>
+> (2) The grounds for an appeal under this paragraph are that the decision to impose the financial penalty was—
+>
+> (a) based on an error of fact,
+>
+> (b) wrong in law, or
+>
+> (c) unreasonable.
+>
+> (3) If a person appeals under this paragraph, the final notice is suspended until the appeal is finally determined or withdrawn.
+>
+> (4) On an appeal under this paragraph the First-tier Tribunal may—
+>
+> (a) quash the final notice,
+>
+> (b) confirm the final notice,
+>
+> (c) vary the final notice by reducing the amount of the financial penalty, or
+>
+> (d) remit to the local authority the decision whether to—
+>
+> (i) withdraw or confirm the final notice, or
+>
+> (ii) vary the final notice by reducing the amount of the financial penalty.
+>
+> **Recovery of penalties**
+>
+> **9** A financial penalty is recoverable as a civil debt due to the local authority that imposed the penalty.
+>
+> **Delegation**
+>
+> **10** (1) A local authority may delegate to a person the exercise of any of the authority’s functions under this Schedule.
+>
+> (2) A delegation under this paragraph must be made by giving notice to the person.
+>
+> **Notices**
+>
+> **11** (1) A notice under this Schedule must be in writing.
+>
+> (2) A notice under this Schedule may be given to a person by—
+>
+> (a) handing it to the person,
+>
+> (b) leaving it at the person’s address,
+>
+> (c) sending it by post to the person at their address, or
+>
+> (d) with the person’s consent, sending it to them electronically.
+>
+> **Notices: vessels which are moored**
+>
+> **12** (1) This paragraph applies in relation to a vessel which is moored in a smoke control area in England and is subject to the operation of this Schedule (see section 44).
+>
+> (2) If the local authority is unable to give a notice of intent to the occupier of the vessel who is not the registered owner of the vessel, the local authority may give the notice to the registered owner of the vessel instead.
+>
+> (3) In such a case, the ground for objecting to the proposed financial penalty mentioned in paragraph 4(2)(c) does not apply.
+>
+> (4) Where a notice of intent is given to a person in respect of a vessel, that person may object under paragraph 4 on the further ground that, on the occasion specified in the notice, the emission of smoke was solely due to the use of the vessel’s engine to propel the vessel or to provide electric power to the vessel.
+
+**4** After section 19A (as inserted by paragraph 2 above)—
+
+> **Acquisition and sale of controlled solid fuel in England**
+>
+> **19B** (1) A person who acquires in England any controlled solid fuel for use in—
+>
+> (a) a building to which a smoke control order in England applies,
+>
+> (b) a fireplace to which such an order applies, or
+>
+> (c) a fixed boiler or industrial plant to which such an order applies,
+>
+> is guilty of an offence.
+>
+> (2) Where a smoke control order in England applies to a moored vessel (see section 44), subsection (1)(a) does not apply in relation to the acquisition of controlled solid fuel for use in the propulsion of the vessel or to provide electric power to the vessel.
+>
+> (3) Subsection (1)(b) does not apply where the fireplace was an approved fireplace at the time of the acquisition.
+>
+> (4) A person who—
+>
+> (a) offers controlled solid fuel for sale by retail in England where the fuel is to be taken away by a purchaser, and
+>
+> (b) fails to take reasonable steps to notify potential purchasers that it is an offence to acquire that fuel for any of the uses mentioned in subsection (1),
+>
+> is guilty of an offence.
+>
+> (5) A person who sells any controlled solid fuel by retail in England for delivery by that person, or on that person’s behalf, to—
+>
+> (a) a building to which a smoke control order in England applies, or
+>
+> (b) premises in which there is any fixed boiler or industrial plant to which such an order applies,
+>
+> is guilty of an offence.
+>
+> (6) In proceedings for an offence under subsection (5) it is a defence for the person accused to prove that the person believed and had reasonable grounds for believing that—
+>
+> (a) the building referred to in subsection (5)(a) was not one to which the smoke control order in question applied, or
+>
+> (b) the fuel was acquired for use in—
+>
+> (i) a fireplace that was, at the time of the delivery, an approved fireplace, or
+>
+> (ii) a boiler or plant to which the smoke control order did not apply.
+>
+> (7) A person guilty of an offence under subsection (1) is liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+>
+> (8) A person guilty of an offence under subsection (4) or (5) is liable on summary conviction to a fine.
+>
+> **Exemptions relating to particular areas in England**
+>
+> **19C** (1) The Secretary of State may, if it appears to the Secretary of State to be necessary or expedient to do so, by order suspend or relax the operation of—
+>
+> (a) Schedule 1A (penalty for emission of smoke), or
+>
+> (b) section 19B(1), (4) or (5) (offences relating to acquisition and sale of fuel),
+>
+> in relation to the whole or part of a smoke control area in England.
+>
+> (2) Before making an order under subsection (1) the Secretary of State must consult the local authority that declared the smoke control area in question unless satisfied that, on account of urgency, such consultation is impracticable.
+>
+> (3) As soon as practicable after the making of such an order the local authority must take such steps as appear to them suitable for bringing the effect of the order to the notice of persons affected.
+>
+> **Interpretation: “approved fireplace” and “controlled solid fuel”**
+>
+> **19D** (1) In section 19B, “approved fireplace” means a fireplace of a type specified in a list published by the Secretary of State.
+>
+> (2) The Secretary of State may only specify a type of fireplace in the list if satisfied that such a fireplace can, if used in compliance with any conditions specified in the list, be used for burning controlled solid fuel without producing any smoke or a substantial quantity of smoke.
+>
+> (3) In section 19B and this section, “controlled solid fuel” means any solid fuel other than an approved fuel.
+>
+> (4) In subsection (3), “approved fuel” means a solid fuel specified in a list which has been published by the Secretary of State for the purposes of this section.
+
+**5** After section 26 insert—
+
+> **Duty of local authority to reimburse for adaptations of vessels in England**
+>
+> **26A** (1) This section applies where—
+>
+> (a) a local authority in England makes a smoke control order,
+>
+> (b) as a result of the order a vessel will, when the order comes into operation, be within a smoke control area and subject to the operation of Schedule 1A,
+>
+> (c) the owner or occupier of the vessel has a right to moor the vessel at a single mooring place within that area for the period which—
+>
+> (i) begins on the day on which the smoke control order is made, and
+>
+> (ii) ends six months after it comes into operation, and
+>
+> (d) the owner or occupier does not have access to a mains electricity or gas supply at the mooring place.
+>
+> (2) If—
+>
+> (a) before the coming into operation of the order, the owner or occupier incurs expenditure on adaptations to or in connection with the vessel to avoid the imposition of a penalty under Schedule 1A,
+>
+> (b) the expenditure is incurred with the approval of the local authority given for the purpose of this section, and
+>
+> (c) the adaptations are completed to the satisfaction of the local authority,
+>
+> the authority must pay to the owner or occupier of the vessel 70% of the expenditure.
+>
+> (3) That amount must be paid in equal instalments every month for a period of six months.
+>
+> (4) But the duty to pay instalments under this section ceases if, at any time after the coming into operation of the smoke control order—
+>
+> (a) the owner or occupier of the vessel ceases to have the right to moor the vessel at the single mooring place mentioned in subsection (1)(c), or
+>
+> (b) the vessel is absent from the smoke control area for a period of, or periods together totalling, three months.
+
+**6** After section 28 insert—
+
+> **Guidance for local authorities in England**
+>
+> **28A** A local authority in England must have regard to any guidance published by the Secretary of State about the exercise of the authority’s functions under this Part.
+
+**7** In section 44 (vessels), after subsection (2) insert—
+
+> (2A) A smoke control order made under section 18 by a local authority in England may provide for vessels which are moored in the smoke control area to be subject to the operation of Schedule 1A.
+>
+> (2B) For the purposes of a smoke control order which so provides—
+>
+> (a) any reference in Part 3 and in section 54 to a building is to be read with any necessary modifications as a reference to such a vessel, but
+>
+> (b) references in sections 24 and 25 to dwellings do not include such vessels.
+>
+> (2C) In subsection (2A) the reference to vessels which are moored includes a vessel which is unmoored but which is stationary at a mooring place in circumstances where it might reasonably be moored.
+
+**8** In section 56 (rights of entry and inspection etc), for subsection (2) substitute—
+
+> (2) Subsection (1) does not apply in relation to a private dwelling except in relation to—
+>
+> (a) a private dwelling in relation to which adaptations are required under section 24(1), or
+>
+> (b) a private dwelling that is a vessel in relation to which there is a duty to make payments under section 26A(3).
+
+### [^F68]PART 2 — Principal amendments to the Clean Air Act 1993: Wales
+
+**[^F68]9** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F68]10** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F68]11** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### PART 3 — Minor and consequential amendments
+
+#### Minor and consequential amendments to the Clean Air Act 1993
+
+**12** The Clean Air Act 1993 is amended as follows.
+
+**13** (1) Section 18 (declaration of smoke control area by local authority) is amended as follows.
+
+(2) In subsection (2)—
+
+(a) in paragraph (b)—
+
+(i) after “smoke” insert “in Wales”;
+
+(ii) before “to” insert “or Schedule 1A (penalty for emission of smoke in England)”;
+
+(b) in paragraph (c), after “section” insert “or Schedule”.
+
+(3) After subsection (2) insert—
+
+> (2A) For the purposes of this Part a smoke control order in England “applies” to a building, fireplace, fixed boiler or industrial plant if the operation of Schedule 1A is not excluded in relation to it by virtue of subsection (2)(b) or (c).
+
+**14** (1) Section 20 (prohibition on emission of smoke in smoke control area) is amended as follows.
+
+(2) In the heading, at the end insert “in Wales”.
+
+(3) In subsections (1) and (2), after “area” insert “in Wales”.
+
+(4) Omit subsections (5ZA) to (5ZC).
+
+(5) If at the time of the coming into force of this paragraph Part 2 of this Schedule is not in force, in subsection (6)—
+
+(a) omit “Except as provided by subsection (5ZA),”;
+
+(b) for “Secretary of State” substitute “Welsh Ministers”.
+
+**15** (1) Section 21 (power to exempt certain fireplaces) is amended as follows.
+
+(2) In the heading, at the end insert “in Wales”.
+
+(3) Omit subsections (A1) to (A4).
+
+(4) If at the time of the coming into force of this paragraph Part 2 of this Schedule is not in force, in subsection (5)—
+
+(a) omit “Except where subsection (A1) applies,”;
+
+(b) for “Secretary of State” substitute “Welsh Ministers”;
+
+(c) for “he is” substitute “they are”.
+
+**16** (1) Section 22 (exemptions relating to particular areas) is amended as follows.
+
+(2) In the heading, at the end insert “in Wales”.
+
+(3) In subsection (1)—
+
+(a) for “Secretary of State” substitute “Welsh Ministers”;
+
+(b) for “him” substitute “them”;
+
+(c) after “area”, in both places, insert “in Wales”.
+
+(4) In subsection (2)—
+
+(a) for “Secretary of State” substitute “Welsh Ministers”;
+
+(b) for “he is” substitute “they are”.
+
+**17** (1) Section 23 (acquisition and sale of unauthorised fuel in a smoke control area) is amended as follows.
+
+(2) In the heading, at the end insert “in Wales”.
+
+(3) In subsection (1)—
+
+(a) in paragraph (a), after “area” in both places insert “in Wales”;
+
+(b) in paragraph (b), after “area” insert “in Wales”;
+
+(c) in paragraph (c)—
+
+(i) after “fuel” insert “in Wales”;
+
+(ii) in sub-paragraph (i), after “area” insert “in Wales”.
+
+(4) In subsection (3), after “area” insert “in Wales”.
+
+(5) In subsection (4)—
+
+(a) for “Secretary of State” substitute “Welsh Ministers”;
+
+(b) after first “area” insert “in Wales”.
+
+(6) In subsection (5)—
+
+(a) after first “fuel” insert “in Wales”;
+
+(b) after “premises” insert “in Wales”.
+
+**18** In section 24 (power to require adaptations of fireplaces), in subsection (1)—
+
+(a) after second “area” insert “in Wales”;
+
+(b) at the end insert “or the imposition of a financial penalty under Schedule 1A (penalty for emission of smoke in England)”.
+
+**19** In section 26 (power to make grants for fireplaces in churches etc)—
+
+(a) in subsection (1)—
+
+(i) after second “area” insert “in Wales”;
+
+(ii) before “, the local authority” insert “or the imposition of a financial penalty under Schedule 1A (penalty for emission of smoke in England)”;
+
+(b) after subsection (2) insert—
+
+> (3) Where a smoke control order in England applies to a vessel which is moored (see section 44), subsection (2)(c) applies to the vessel as it applies in relation to premises.
+
+**20** In section 27 (references to adaptations)—
+
+(a) in the heading, at the end insert “or Schedule 1A”;
+
+(b) in subsection (1)—
+
+(i) after “area” insert “in Wales”;
+
+(ii) before “shall be read” insert “or the imposition of a financial penalty under Schedule 1A (penalty for emission of smoke in England)”;
+
+(iii) at the end insert “or incurring liability under Schedule 1A”;
+
+(c) in subsection (3), after “Act” insert “or liability under Schedule 1A to this Act”;
+
+(d) in subsection (4), at the end insert “, and to any vessel to which section 26 or 26A (adaptations of vessels in England) applies”.
+
+**21** In section 28 (expenditure on execution of works), in subsection (3), at the end insert “, and to any vessel to which section 26 or section 26A (adaptations of vessels in England) applies”.
+
+**22** In section 29 (interpretation)—
+
+(a) in the definition of “old private dwelling”, omit the final “and”;
+
+(b) in the definition of “smoke control order”, at the end insert “and”;
+
+(c) after that definition insert—
+
+> - “smoke control order in England” means a smoke control order made by a local authority in England.
+
+**23** In section 63 (orders and regulations)—
+
+(a) in subsection (2), after “47(2)” insert “or paragraph 3(4) or 4(6) of Schedule 1A”;
+
+(b) in subsection (3), after “section” insert “19C,”.
+
+**24** (1) Schedule 1 (coming into operation of smoke control orders) is amended as follows.
+
+(2) In paragraph 5—
+
+(a) after “area” insert “in Wales”;
+
+(b) before “may” insert “or Schedule 1A (penalty for emission of smoke in England)”.
+
+(3) After paragraph 6 insert—
+
+> **6A** When a local authority in England has made an order, the authority must—
+>
+> (a) inform the Secretary of State that it has done so, and
+>
+> (b) provide the date on which the order is to come, or came, into operation.
+
+#### Minor amendments to other legislation
+
+**25** In section 79 of the Environmental Protection Act 1990 (statutory nuisances), in subsection (3)(i), insert “in Wales”.
+
+### PART 4 — Smoke control areas in England: transitional provision
+
+**26** Where a local authority in England has made a smoke control order under section 18 of the Clean Air Act 1993, any limitations or exemptions from the operation of section 20 of that Act (prohibition of emissions of smoke) made by that order under section 18(2)(b) or (c) of that Act that apply immediately before the commencement of Parts 1 and 3 of this Schedule continue to apply as if they were limitations or exemptions from the operation of Schedule 1A to that Act (penalty for emission of smoke), as inserted by paragraph 3 of this Schedule.
+
+## SCHEDULE 13 — Modifying water and sewerage undertakers’ appointments: procedure for appeals
+
+*Section 86*
+
+> **SCHEDULE 2ZA — Procedure for appeals under section 12D**
+>
+> *Section 12E*
+>
+> **Application for permission to bring appeal**
+>
+> **1** (1) An application for permission to bring an appeal may be made only by sending a notice to the CMA requesting the permission.
+>
+> (2) Only a person entitled under section 12D to bring the appeal if permission is granted may apply for permission.
+>
+> (3) Where the Authority publishes a decision to modify the conditions of any appointment under section 12A(9), any application for permission to appeal is not to be made after the end of 20 working days beginning with the first working day after the day on which the decision is published.
+>
+> (4) An application for permission to appeal must be accompanied by all such information as may be required by appeal rules.
+>
+> (5) Appeal rules may require information contained in an application for permission to appeal to be verified by a statement of truth.
+>
+> (6) A person who applies for permission to bring an appeal in accordance with this paragraph is referred to in this Schedule as the appellant.
+>
+> (7) The appellant must send the Authority—
+>
+> (a) a copy of the application for permission to appeal at the same time as it is sent to the CMA, and
+>
+> (b) such other information as may be required by appeal rules.
+>
+> (8) The CMA’s decision whether to grant permission to appeal is to be taken by an authorised member of the CMA.
+>
+> (9) Before the authorised member decides whether to grant permission under this paragraph, the Authority must be given an opportunity of making representations or observations, in accordance with paragraph 3(2).
+>
+> (10) The CMA’s decision on an application for permission to appeal must be made—
+>
+> (a) where the Authority makes representations or observations in accordance with paragraph 3(2), before the end of 10 working days beginning with the first working day after the day on which those representations or observations are received;
+>
+> (b) in any other case, before the end of 14 working days beginning with the first working day after the day on which the application for permission was received.
+>
+> (11) The grant of permission may be made subject to conditions, which may include—
+>
+> (a) conditions which limit the matters that are to be considered on the appeal in question,
+>
+> (b) conditions for the purpose of expediting the determination of the appeal, and
+>
+> (c) conditions requiring that appeal to be considered together with other appeals (including appeals relating to different matters or decisions and appeals brought by different persons).
+>
+> (12) Where a decision is made to grant or to refuse an application for permission, an authorised member of the CMA must notify the decision, giving reasons—
+>
+> (a) to the appellant, and
+>
+> (b) to the Authority.
+>
+> (13) A decision of the CMA under this paragraph must be published, in a way an authorised member of the CMA considers appropriate, as soon as reasonably practicable after it is made.
+>
+> (14) Section 12I(2) applies to the publication of a decision under sub-paragraph (13) as it does to the publication under section 12I of a determination by the CMA on an appeal.
+>
+> **Suspension of decision**
+>
+> **2** (1) The CMA may direct that, pending the determination of an appeal against a decision of the Authority—
+>
+> (a) the decision is not to have effect, or
+>
+> (b) the decision is not to have effect to such extent as may be specified in the direction.
+>
+> (2) In the case of an appeal against a decision of the Authority which already has effect by virtue of section 12B, the CMA may direct that the modification that is the subject of the decision—
+>
+> (a) ceases to have effect entirely or to such extent as may be specified in the direction, and
+>
+> (b) does not have effect, or does not have effect to the specified extent, pending the determination of the appeal.
+>
+> (3) The power to give a direction under this paragraph is exercisable only where—
+>
+> (a) an application for its exercise has been made by the appellant at the same time the appellant made an application in accordance with paragraph 1(3) for permission to bring an appeal against a decision of the Authority,
+>
+> (b) the Authority has been given an opportunity of making representations or observations, in accordance with paragraph 3(2),
+>
+> (c) the appellant (or, where the appellant is within section 12D(2)(c) or (d), those represented by the appellant, or consumers, respectively) would incur significant costs if the decision were to have effect before the determination of the appeal, and
+>
+> (d) the balance of convenience does not otherwise require effect to be given to the decision pending that determination.
+>
+> (4) The CMA’s decision on an application for a direction under this paragraph must be made—
+>
+> (a) where the Authority makes representations or observations in accordance with paragraph 3(2), before the end of 10 working days beginning with the first working day after the day on which those representations or observations are received;
+>
+> (b) in any other case, before the end of 14 working days beginning with the first working day following the day on which the application under sub-paragraph (3)(a) is received.
+>
+> (5) The appellant must send the Authority a copy of the application for a direction under this paragraph at the same time as it is sent to the CMA.
+>
+> (6) A direction under this paragraph must be—
+>
+> (a) given by an authorised member of the CMA, and
+>
+> (b) published, in a way an authorised member of the CMA considers appropriate, as soon as reasonably practicable after it is given.
+>
+> (7) Section 12I(2) applies to the publication of a direction under sub-paragraph (6) as it does to the publication under section 12I of a determination by the CMA on an appeal.
+>
+> **Time limit for representations and observations by the Authority**
+>
+> **3** (1) Sub-paragraph (2) applies where the Authority wishes to make representations or observations to the CMA in relation to—
+>
+> (a) an application for permission to bring an appeal under paragraph 1;
+>
+> (b) an application for a direction under paragraph 2.
+>
+> (2) The Authority must make the representations or observations in writing before the end of 10 working days beginning with the first working day after the day on which it received a copy of the application under paragraph 1(7) or 2(5) as the case may be.
+>
+> (3) Sub-paragraph (4) applies where an application for permission to bring an appeal has been granted and the Authority wishes to make representations or observations to the CMA in relation to—
+>
+> (a) the Authority’s reasons for the decision in relation to which the appeal is being brought, and
+>
+> (b) any grounds on which that appeal is being brought against that decision.
+>
+> (4) The Authority must make the representations or observations in writing before the end of 15 working days beginning with the first working day after the day on which permission to bring the appeal was granted.
+>
+> (5) The Authority must send a copy of the representations and observations it makes under this paragraph to the appellant.
+>
+> **Consideration and determination of appeal by group**
+>
+> **4** (1) A group constituted by the chair of the CMA under Schedule 4 to the Enterprise and Regulatory Reform Act 2013 for the purpose of carrying out functions of the CMA with respect to an appeal under section 12D must consist of three members of the CMA panel.
+>
+> (2) A decision of the group is effective if, and only if—
+>
+> (a) all the members of the group are present when it is made, and
+>
+> (b) at least two members of the group are in favour of the decision.
+>
+> **Matters to be considered on appeal**
+>
+> **5** (1) The CMA, if it thinks it necessary to do so for the purpose of securing the determination of an appeal within the period provided for by section 12H, may disregard—
+>
+> (a) any or all matters raised by an appellant that were not raised by that appellant at the time of the relevant application, and
+>
+> (b) any or all matters raised by the Authority that were not contained in representations or observations made for the purposes of the appeal in accordance with paragraph 3.
+>
+> (2) In this paragraph “relevant application” means an application under paragraph 1 or 2.
+>
+> **Production of documents etc**
+>
+> **6** (1) For the purposes of this Schedule, the CMA may, by notice, require—
+>
+> (a) a person to produce to the CMA the documents specified or otherwise identified in the notice;
+>
+> (b) any person who carries on a business to supply to the CMA such estimates, forecasts, returns or other information as may be specified or described in the notice in relation to that business.
+>
+> (2) The power to require the production of a document, or the supply of any estimate, forecast, return or other information, is a power to require its production or, as the case may be, supply—
+>
+> (a) at the time and place specified in the notice, and
+>
+> (b) in a legible form.
+>
+> (3) No person is to be compelled under this paragraph to produce a document or supply an estimate, forecast, return or other information that the person could not be compelled to produce in civil proceedings in the High Court.
+>
+> (4) An authorised member of the CMA may, for the purpose of the exercise of the functions of the CMA, make arrangements for copies to be taken of a document produced or an estimate, forecast, return or other information supplied under this paragraph.
+>
+> (5) A notice for the purposes of this paragraph—
+>
+> (a) may be issued on the CMA’s behalf by an authorised member of the CMA;
+>
+> (b) must include information about the possible consequences of not complying with the notice (as set out in paragraph 10).
+>
+> **Oral hearings**
+>
+> **7** (1) For the purposes of this Schedule an oral hearing may be held, and evidence may be taken on oath—
+>
+> (a) by a person considering an application for permission to bring an appeal under paragraph 1,
+>
+> (b) by a person considering an application for a direction under paragraph 2, or
+>
+> (c) by a group with the function of determining an appeal,
+>
+> and, for that purpose, such a person or group may administer oaths.
+>
+> (2) The CMA may, by notice, require a person—
+>
+> (a) to attend at a time and place specified in the notice, and
+>
+> (b) at that time and place, to give evidence to a person or group mentioned in sub-paragraph (1).
+>
+> (3) At any oral hearing, the person or group conducting the hearing may require—
+>
+> (a) the appellant, or the Authority, if present at the hearing to give evidence or to make representations or observations, or
+>
+> (b) a person attending the hearing as a representative of the appellant or of the Authority to make representations or observations.
+>
+> (4) A person who gives oral evidence at the hearing may be cross-examined by or on behalf of any party to the appeal.
+>
+> (5) If the appellant, the Authority, or the appellant’s or Authority’s representative is not present at a hearing—
+>
+> (a) there is no requirement to give notice to that person under sub-paragraph (2), and
+>
+> (b) the person or group conducting the hearing may determine the application or appeal without hearing that person’s evidence, representations or observations.
+>
+> (6) No person is to be compelled under this paragraph to give evidence which that person could not be compelled to give in civil proceedings in the High Court.
+>
+> (7) Where a person is required under this paragraph to attend at a place more than 10 miles from that person’s place of residence, an authorised member of the CMA must arrange for that person to be paid the necessary expenses of attendance.
+>
+> (8) A notice for the purposes of this paragraph may be issued on the CMA’s behalf by an authorised member of the CMA.
+>
+> **Written statements**
+>
+> **8** (1) The CMA may, by notice, require a person to produce a written statement with respect to a matter specified in the notice to—
+>
+> (a) a person who is considering, or is to consider, an application for a direction under paragraph 2, or
+>
+> (b) a group with the function of determining an appeal.
+>
+> (2) The power to require the production of a written statement includes power—
+>
+> (a) to specify the time and place at which it is to be produced, and
+>
+> (b) to require it to be verified by a statement of truth,
+>
+> and a statement required to be so verified must be disregarded unless it is so verified.
+>
+> (3) No person is to be compelled under this paragraph to produce a written statement with respect to any matter about which that person could not be compelled to give evidence in civil proceedings in the High Court.
+>
+> (4) A notice for the purposes of this paragraph may be issued on the CMA’s behalf by an authorised member of the CMA.
+>
+> **Expert advice**
+>
+> **9** Where permission to bring an appeal is granted under paragraph 1, the CMA may commission expert advice with respect to any matter raised by a party to that appeal.
+>
+> **Defaults in relation to evidence**
+>
+> **10** (1) This paragraph applies if a person (“the defaulter”)—
+>
+> (a) fails to comply with a notice issued or other requirement imposed under paragraph 6, 7 or 8,
+>
+> (b) in complying with a notice under paragraph 8, makes a statement that is false in any material particular, or
+>
+> (c) in providing information verified in accordance with a statement of truth required by appeal rules, provides information that is false in a material particular.
+>
+> (2) An authorised member of the CMA may certify the failure, or the fact that such a false statement has been made or such false information has been given, to the High Court.
+>
+> (3) The High Court may inquire into a matter certified to it under this paragraph and if, after having heard—
+>
+> (a) any witness against or on behalf of the defaulter, and
+>
+> (b) any statement in the defaulter’s defence,
+>
+> it is satisfied that the defaulter, without reasonable excuse, failed to comply with the notice or other requirement, or made the false statement, or gave the false information, that court may punish that defaulter as if the person had been guilty of contempt of court.
+>
+> (4) Where the High Court has power under this paragraph to punish a body corporate for contempt of court, it may so punish any director or other officer of that body (either instead of or as well as punishing the body).
+>
+> (5) A person who wilfully alters, suppresses or destroys a document that the person has been required to produce under paragraph 6 is guilty of an offence and shall be liable—
+>
+> (a) on summary conviction to a fine;
+>
+> (b) on conviction on indictment, to imprisonment for a term not exceeding two years or to a fine, or to both.
+>
+> **Appeal rules**
+>
+> **11** (1) The CMA Board may make rules of procedure regulating the conduct and disposal of appeals under section 12D.
+>
+> (2) Those rules may include provision supplementing the provisions of this Schedule in relation to any application, notice, hearing, power or requirement for which this Schedule provides; and that provision may, in particular, impose time limits or other restrictions on—
+>
+> (a) the taking of evidence at an oral hearing, or
+>
+> (b) the making of representations or observations at such a hearing.
+>
+> (3) The CMA Board must publish rules made under this paragraph in a way it considers appropriate for bringing them to the attention of those likely to be affected by them.
+>
+> (4) Before making rules under this paragraph, the CMA Board must consult such persons as it considers appropriate.
+>
+> (5) Rules under this paragraph may make different provision for different cases.
+>
+> **Costs**
+>
+> **12** (1) A group that determines an appeal must make an order requiring the payment to the CMA of the costs incurred by the CMA in connection with the appeal.
+>
+> (2) An order under sub-paragraph (1) must require those costs to be paid—
+>
+> (a) where the appeal is allowed in full, by the Authority,
+>
+> (b) where the appeal is dismissed in full, by the appellant, or
+>
+> (c) where the appeal is partially allowed, by one or more parties in such proportions as the CMA considers appropriate in all the circumstances.
+>
+> (3) The group that determines an appeal may also make such order as it thinks fit for requiring a party to the appeal to make payments to another party in respect of costs reasonably incurred by that other party in connection with the appeal.
+>
+> (4) A person who is required by an order under this paragraph to pay a sum to another person must comply with the order before the end of the period of 28 days beginning with the day after the making of the order.
+>
+> (5) Sums required to be paid by an order under this paragraph but not paid within the period mentioned in sub-paragraph (4) shall bear interest at such rate as may be determined in accordance with provision contained in the order.
+>
+> (6) Any costs payable by virtue of an order under this paragraph and any interest that has not been paid may be recovered as a civil debt by the person in whose favour that order is made.
+>
+> **Interpretation of Schedule**
+>
+> **13** (1) In this Schedule—
+>
+> - “appeal” means an appeal under section 12D;
+>
+> - “appeal rules” means rules of procedure under paragraph 11;
+>
+> - “authorised member of the CMA”—
+>
+>   - in relation to a power exercisable in connection with an appeal in respect of which a group has been constituted by the chair of the CMA under Schedule 4 to the Enterprise and Regulatory Reform Act 2013, means a member of that group who has been authorised by the chair of the CMA to exercise that power;
+>   
+>   - in relation to a power exercisable in connection with an application for permission to bring an appeal, or otherwise in connection with an appeal in respect of which a group has not been so constituted by the chair of the CMA, means—
+>   
+>     - any member of the CMA Board who is also a member of the CMA panel, or
+>     - any member of the CMA panel authorised by the Secretary of State (whether generally or specifically) to exercise the power in question;
+>
+> - “CMA Board” and “CMA panel” have the same meaning as in Schedule 4 to the Enterprise and Regulatory Reform Act 2013;
+>
+> - “statement of truth”, in relation to the production of a statement or provision of information by a person, means a statement that the person believes the facts stated in the statement or information to be true;
+>
+> - “working day” means any day other than—
+>
+>   - Saturday or Sunday;
+>   - Christmas Day or Good Friday;
+>   - a day which is a bank holiday in England and Wales under the Banking and Financial Dealings Act 1971.
+>
+> (2) References in this Schedule to a party to an appeal are references to—
+>
+> (a) the appellant, or
+>
+> (b) the Authority.
+
+## SCHEDULE 14 — Biodiversity gain as condition of planning permission
+
+*Section 98*
+
+### PART 1 — Biodiversity gain condition
+
+**1** In the Town and Country Planning Act 1990, after section 90 insert—
+
+> **Biodiversity gain**
+>
+> **Biodiversity gain in England**
+>
+> **90A** Schedule 7A (biodiversity gain in England) has effect.
+
+**2** In that Act, after Schedule 7 insert—
+
+> **SCHEDULE 7A — Biodiversity gain in England**
+>
+> *Section 90A*
+>
+> **PART 1 — Overview and interpretation**
+>
+> **Overview**
+>
+> **1** (1) This Schedule makes provision for grants of planning permission in England to be subject to a condition to secure that the biodiversity gain objective is met.
+>
+> (2) Paragraphs 2 to 12 have effect for the purposes of this Schedule.
+>
+> **Biodiversity gain objective**
+>
+> **2** (1) The biodiversity gain objective is met in relation to development for which planning permission is granted if the biodiversity value attributable to the development exceeds the pre-development biodiversity value of the onsite habitat by at least the relevant percentage.
+>
+> (2) The biodiversity value attributable to the development is the total of—
+>
+> (a) the post-development biodiversity value of the onsite habitat,
+>
+> (b) the biodiversity value, in relation to the development, of any registered offsite biodiversity gain allocated to the development, and
+>
+> (c) the biodiversity value of any biodiversity credits purchased for the development.
+>
+> (3) The relevant percentage is 10%.
+>
+> (4) The Secretary of State may by regulations amend this paragraph so as to change the relevant percentage.
+>
+> **Biodiversity value and the biodiversity metric**
+>
+> **3** References to the biodiversity value of any habitat or habitat enhancement are to its value as calculated in accordance with the biodiversity metric.
+>
+> **4** (1) The biodiversity metric is a document for measuring, for the purposes of this Schedule, the biodiversity value or relative biodiversity value of habitat or habitat enhancement.
+>
+> (2) The biodiversity metric is to be produced and published by the Secretary of State.
+>
+> (3) The Secretary of State may from time to time revise and republish the biodiversity metric.
+>
+> (4) Before publishing or republishing the biodiversity metric the Secretary of State must consult such persons as the Secretary of State considers appropriate.
+>
+> (5) The Secretary of State may by regulations make transitional provision in relation to the revision and republication of the biodiversity metric.
+>
+> (6) The Secretary of State must lay the biodiversity metric, and any revised biodiversity metric, before Parliament.
+>
+> **Pre-development biodiversity value**
+>
+> **5** (1) In relation to any development for which planning permission is granted, the pre-development biodiversity value of the onsite habitat is the biodiversity value of the onsite habitat on the relevant date.
+>
+> (2) The relevant date is—
+>
+> (a) in a case in which planning permission is granted on application, the date of the application, and
+>
+> (b) in any other case, the date on which the planning permission is granted.
+>
+> (3) But the person submitting the biodiversity gain plan for approval and the planning authority may agree that the relevant date is to be a date earlier than that specified in sub-paragraph (2)(a) or (b) (but not a date which is before the day on which this Schedule comes into force in relation to the development).
+>
+> (4) This paragraph is subject to paragraphs 6 and 7.
+>
+> **6** If—
+>
+> (a) a person carries on activities on land on or after 30 January 2020 otherwise than in accordance with—
+>
+> (i) planning permission, or
+>
+> (ii) any other permission of a kind specified by the Secretary of State by regulations, and
+>
+> (b) as a result of the activities the biodiversity value of the onsite habitat referred to in paragraph 5(1) is lower on the relevant date than it would otherwise have been,
+>
+> the pre-development biodiversity value of the onsite habitat is to be taken to be its biodiversity value immediately before the carrying on of the activities.
+>
+> **7** Where planning permission is granted in respect of land which is registered in the biodiversity gain site register under section 100 of the Environment Act 2021, the pre-development biodiversity value of the land is the total of—
+>
+> (a) the biodiversity value of the onsite habitat on the relevant date, and
+>
+> (b) to the extent that it is not included within that value, the biodiversity value of the habitat enhancement which is, on that date, recorded in the register as habitat enhancement to be achieved on the land.
+>
+> **Post-development biodiversity value**
+>
+> **8** (1) In relation to any development for which planning permission is granted, the post-development biodiversity value of the onsite habitat is the projected value of the onsite habitat as at the time the development is completed.
+>
+> (2) That value is to be calculated by taking the pre-development biodiversity value and—
+>
+> (a) if at the time the development is completed the development will, taken as a whole, have increased the biodiversity value of the onsite habitat, adding the amount of that increase, or
+>
+> (b) if at the time the development is completed the development will, taken as a whole, have decreased the biodiversity value of the onsite habitat, subtracting the amount of that decrease.
+>
+> This is subject to paragraph 9.
+>
+> **9** (1) This paragraph applies in relation to any development for which planning permission is granted where—
+>
+> (a) the person submitting the biodiversity gain plan for approval proposes to carry out works in the course of the development that increase the biodiversity value of the onsite habitat, and
+>
+> (b) the planning authority considers that the increase is significant in relation to the pre-development biodiversity value.
+>
+> (2) The increase in biodiversity value referred to in sub-paragraph (1) is to be taken into account in calculating the post-development biodiversity value of the onsite habitat only if the planning authority is satisfied that the condition in sub-paragraph (3) is met.
+>
+> (3) The condition is that any habitat enhancement resulting from the works referred to in sub-paragraph (1)(a) will, by virtue of—
+>
+> (a) a condition subject to which the planning permission is granted,
+>
+> (b) a planning obligation, or
+>
+> (c) a conservation covenant,
+>
+> be maintained for at least 30 years after the development is completed.
+>
+> (4) The Secretary of State may by regulations amend sub-paragraph (3) so as to substitute for the period for the time being specified there a different period of at least 30 years.
+>
+> **Registered offsite biodiversity gains**
+>
+> **10** (1) “Registered offsite biodiversity gain” means any habitat enhancement, where—
+>
+> (a) the enhancement is required to be carried out under a conservation covenant or planning obligation, and
+>
+> (b) the enhancement is recorded in the biodiversity gain site register (as to which, see section 100 of the Environment Act 2021).
+>
+> (2) References to the allocation of registered offsite biodiversity gain are to its allocation in accordance with the terms of the conservation covenant or planning obligation referred to in sub-paragraph (1)(a).
+>
+> (3) The biodiversity value of registered offsite biodiversity gain is measured, under the biodiversity metric, in relation to development to which it is allocated.
+>
+> **Biodiversity credits**
+>
+> **11** “Biodiversity credits” means credits under section 101 of the Environment Act 2021.
+>
+> **General**
+>
+> **12** (1) In relation to development for which planning permission is granted—
+>
+> - “onsite habitat” means habitat on the land to which the planning permission relates;
+>
+> - “planning authority” means the local planning authority, except that—
+>
+>   - in a case where the planning permission is granted by Mayoral development order under section 61DB, “planning authority” means such of the Mayor of London or the local planning authority as may be specified in the order;
+>   - in a case where the planning permission is granted by the Secretary of State under section 62A, 76A or 77, “planning authority” means such of the Secretary of State or the local planning authority as the Secretary of State may determine;
+>   - in a case where the planning permission is granted on an appeal under section 78, “planning authority” means such of the person determining the appeal or the local planning authority as that person may direct.
+>
+> (2) “Habitat enhancement” means enhancement of the biodiversity of habitat.
+>
+> (3) References to the grant of planning permission include the deemed grant of planning permission.
+>
+> **PART 2 — Condition of planning permission relating to biodiversity gain**
+>
+> **General condition of planning permission**
+>
+> **13** (1) Every planning permission granted for the development of land in England shall be deemed to have been granted subject to the condition in sub-paragraph (2).
+>
+> (2) The condition is that the development may not be begun unless—
+>
+> (a) a biodiversity gain plan has been submitted to the planning authority (see paragraph 14), and
+>
+> (b) the planning authority has approved the plan (see paragraph 15).
+>
+> **Biodiversity gain plan**
+>
+> **14** (1) For the purposes of paragraph 13(2)(a), a biodiversity gain plan is a plan which—
+>
+> (a) relates to development for which planning permission is granted, and
+>
+> (b) specifies the matters referred to in sub-paragraph (2).
+>
+> (2) The matters are—
+>
+> (a) information about the steps taken or to be taken to minimise the adverse effect of the development on the biodiversity of the onsite habitat and any other habitat,
+>
+> (b) the pre-development biodiversity value of the onsite habitat,
+>
+> (c) the post-development biodiversity value of the onsite habitat,
+>
+> (d) any registered offsite biodiversity gain allocated to the development and the biodiversity value of that gain in relation to the development,
+>
+> (e) any biodiversity credits purchased for the development, and
+>
+> (f) such other matters as the Secretary of State may by regulations specify.
+>
+> (3) The Secretary of State may by regulations make provision about—
+>
+> (a) any other matters to be included in a biodiversity gain plan;
+>
+> (b) the form of a biodiversity gain plan;
+>
+> (c) the procedure to be followed in relation to the submission of a biodiversity gain plan (including the time by which a plan must be submitted);
+>
+> (d) persons who may or must submit a biodiversity gain plan.
+>
+> **Approval of biodiversity gain plan**
+>
+> **15** (1) For the purposes of paragraph 13(2)(b) a planning authority to which a biodiversity gain plan is submitted must approve the plan if, and only if, it is satisfied as to the matters specified in sub-paragraph (2).
+>
+> (2) The matters are—
+>
+> (a) that the pre-development biodiversity value of the onsite habitat is as specified in the plan,
+>
+> (b) that the post-development biodiversity value of the onsite habitat is at least the value specified in the plan,
+>
+> (c) that, in a case where any registered offsite biodiversity gain is specified in the plan as allocated to the development—
+>
+> (i) the registered offsite biodiversity gain is so allocated (and, if the allocation is conditional, that any conditions attaching to the allocation have been met or will be met by the time the development begins), and
+>
+> (ii) the registered offsite biodiversity gain has the biodiversity value specified in the plan in relation to the development,
+>
+> (d) that any biodiversity credits specified in the plan as purchased for the development have been so purchased,
+>
+> (e) that the biodiversity gain objective is met, and
+>
+> (f) any other matters specified in the plan under paragraph 14(2)(f).
+>
+> **Regulations about determinations**
+>
+> **16** The Secretary of State may make regulations as to—
+>
+> (a) the procedure which a planning authority is to follow in determining whether to approve a biodiversity gain plan (including the time by which a determination must be made);
+>
+> (b) factors which may or must be taken into account in making such a determination;
+>
+> (c) appeals relating to such a determination.
+>
+> **Exceptions**
+>
+> **17** Paragraph 13 does not apply in relation to—
+>
+> (a) development for which planning permission is granted—
+>
+> (i) by a development order, or
+>
+> (ii) under section 293A (urgent Crown development), or
+>
+> (b) development of such other description as the Secretary of State may by regulations specify.
+>
+> **Modifications for irreplaceable habitat**
+>
+> **18** (1) The Secretary of State may by regulations make provision modifying or excluding the application of this Part of this Schedule in relation to any development for which planning permission is granted where the onsite habitat is “irreplaceable habitat” as defined in the regulations.
+>
+> (2) Regulations under this paragraph must make provision requiring, in relation to any such development, the making of arrangements for the purpose of minimising the adverse effect of the development on the biodiversity of the onsite habitat.
+>
+> (3) Regulations under this paragraph may confer powers and duties, including powers and duties in relation to the giving of guidance, on Natural England.
+>
+> **Modifications for particular kinds of planning permission**
+>
+> **19** (1) The Secretary of State may by regulations make provision modifying the application of this Part of this Schedule in relation to—
+>
+> (a) the grant of outline planning permission, where the reservation of matters for subsequent approval has the effect of requiring or permitting development to proceed in phases, or
+>
+> (b) the grant of any kind of planning permission, where the grant is subject to conditions (whether requiring the subsequent approval of any matters or otherwise) having that effect.
+>
+> (2) Regulations under this paragraph may include provision for a grant of planning permission referred to in sub-paragraph (1)(a) or (b) to be subject to conditions relating to meeting the biodiversity gain objective referred to in paragraph 2.
+>
+> **20** (1) The Secretary of State may by regulations make provision modifying or excluding the application of this Part of this Schedule in relation to development for which—
+>
+> (a) planning permission is granted under section 73A (planning permission for development already carried out), or
+>
+> (b) planning permission is granted by an order under section 102 (orders requiring discontinuance of use etc).
+>
+> (2) Regulations under this paragraph may in particular include provision—
+>
+> (a) for paragraph 13 not to apply in relation to the grant of planning permission referred to in sub-paragraph (1)(a) or (b);
+>
+> (b) for the grant of any such planning permission to be subject to other conditions relating to meeting the biodiversity gain objective.
+>
+> (3) The conditions referred to in sub-paragraph (2)(b) may include conditions requiring—
+>
+> (a) habitat enhancement on the land to which the planning permission relates;
+>
+> (b) the allocation of registered offsite biodiversity gain to any development for which the planning permission is granted;
+>
+> (c) the purchase of biodiversity credits for any such development.
+>
+> **Further application of this Part**
+>
+> **21** The Secretary of State may by regulations make provision to apply this Part of this Schedule in relation to development for which planning permission is granted under section 141 or 177(1), with such modifications or exclusions as may be specified in the regulations.
+
+### PART 2 — Consequential amendments
+
+**3** (1) The Town and Country Planning Act 1990 is amended as follows.
+
+(2) In section 56 (time when development begins), in subsection (3), at the end insert “and paragraph 13 of Schedule 7A”.
+
+(3) In section 69 (register of applications etc)—
+
+(a) in subsection (1), at the end insert—
+
+> (e) applications for approval of biodiversity gain plans under Part 2 of Schedule 7A.
+
+;
+
+(b) in subsection (2)(a), for “and (aza)” substitute “, (aza) and (e)”.
+
+(4) In section 70 (determination of applications: general considerations), in subsection (1)(a), after “section 62D(5)” insert “, paragraph 13 of Schedule 7A”.
+
+(5) In section 73 (determination of applications to develop land after non-compliance), after subsection (2A) insert—
+
+> (2B) Nothing in this section authorises the disapplication of the condition under paragraph 13 of Schedule 7A (biodiversity gain condition).
+>
+> (2C) Subsection (2D) applies where—
+>
+> (a) for the purposes of paragraph 13 of Schedule 7A a biodiversity gain plan was approved in relation to the previous planning permission (“the earlier biodiversity gain plan”),
+>
+> (b) planning permission is granted under this section, and
+>
+> (c) the conditions subject to which the planning permission is granted under this section do not affect the post-development biodiversity value of the onsite habitat as specified in the earlier biodiversity gain plan.
+>
+> (2D) Where this subsection applies, the earlier biodiversity gain plan is regarded as approved for the purposes of paragraph 13 of Schedule 7A in relation to the planning permission granted under this section.
+
+(6) In section 74A (deemed discharge of planning permission conditions), after subsection (2) insert—
+
+> (2A) But this section does not apply to the condition under paragraph 13 of Schedule 7A (biodiversity gain condition).
+
+(7) In section 76C (provisions applying to applications made under section 62A), in subsection (2), after “Schedule 1” insert “, or by regulations under paragraph 14(3) or 16 of Schedule 7A,”.
+
+(8) In section 84 (simplified planning zone schemes: conditions and limitations on planning permission), at the end insert—
+
+> (5) A simplified planning zone scheme may not disapply the condition under paragraph 13 of Schedule 7A (biodiversity gain condition).
+
+(9) In section 88 (enterprise zones), after subsection (3) insert—
+
+> (3A) Subsection (3) is subject to paragraph 13 of Schedule 7A (biodiversity gain condition).
+
+(10) In section 96A (power to make non-material changes to planning permission), after subsection (3) insert—
+
+> (3A) The conditions referred to in subsection (3)(b) do not include the condition under paragraph 13 of Schedule 7A (biodiversity gain condition).
+
+(11) In section 97 (revocation or modification of planning permission), at the end insert—
+
+> (7) Subsection (1) does not permit the revocation or modification of the condition under paragraph 13 of Schedule 7A (the biodiversity gain condition), subject as follows.
+>
+> (8) The Secretary of State may by regulations make provision—
+>
+> (a) for the condition under paragraph 13 of Schedule 7A to apply in relation to the modification of planning permission under this section, subject to such modifications as may be specified in the regulations;
+>
+> (b) for planning permission modified under this section to be subject to other conditions relating to meeting the biodiversity gain objective referred to in paragraph 2 of Schedule 7A (including conditions of a kind referred to in paragraph 20(3) of that Schedule).
+
+(12) In section 100ZA (restriction on power to impose planning conditions in England), in subsection (13)(c), after “limitation” insert “but do not include the condition under paragraph 13 of Schedule 7A (biodiversity gain condition)”.
+
+(13) In section 106 (planning obligations), in subsection (1), in the words before paragraph (a), after “106C” insert “, Schedule 7A”.
+
+(14) In section 106A (modification and discharge of planning obligations), after subsection (6) insert—
+
+> (6A) Except in such cases as may be prescribed, the authority may not under subsection (6) discharge or modify the planning obligation if the authority considers that doing so would—
+>
+> (a) prevent the biodiversity gain objective referred to in paragraph 2 of Schedule 7A from being met in relation to any development, or
+>
+> (b) give rise to a significant risk of that objective not being met in relation to any development.
+
+(15) In section 333 (regulations and orders), after subsection (3A) insert—
+
+> (3AA) No regulations may be made under paragraph 2(4) of Schedule 7A (biodiversity gain condition) unless a draft of the instrument containing the regulations has been laid before, and approved by a resolution of, each House of Parliament.
+
+## SCHEDULE 15 — Biodiversity gain in nationally significant infrastructure projects
+
+*Section 99*
+
+### PART 1 — Principal amendments to the Planning Act 2008
+
+**1** The Planning Act 2008 is amended as follows.
+
+**2** In section 103 (Secretary of State is to decide applications), after subsection (1) insert—
+
+> (1A) Schedule 2A makes provision about biodiversity gain in relation to decisions of the Secretary of State under sections 104 and 105; and for related matters.
+
+**3** (1) Section 104 (decisions in cases where national policy statement has effect) is amended as follows.
+
+(2) For subsection (3) substitute—
+
+> (3) The Secretary of State must decide the application in accordance with any relevant national policy statement.
+>
+> (3A) In particular, if a relevant national policy statement contains a biodiversity gain statement under Schedule 2A in relation to development of the description to which the application relates, the Secretary of State may not grant the application unless satisfied that the biodiversity gain objective contained in the statement is met in relation to the development to which the application relates.
+>
+> (3B) Subsections (3) and (3A) do not apply to the extent that one or more of subsections (4) to (8) applies.
+
+(3) In each of subsections (4), (5) and (6), for “any relevant national policy statement” substitute “subsection (3) or (3A)”.
+
+(4) In subsection (8), for “a national policy statement” substitute “subsection (3) or (3A)”.
+
+**4** (1) Section 105 (decisions in cases where no national policy statement has effect), after subsection (2) insert—
+
+> (3) Where there is a biodiversity gain statement under Schedule 2A in relation to development of the description to which the application relates, the Secretary of State may not grant the application unless satisfied that the biodiversity gain objective contained in the statement is met in relation to the development to which the application relates.
+>
+> (4) Subsection (3) does not apply to the extent that the Secretary of State is satisfied that deciding the application in accordance with that subsection would have an effect referred to in section 104(4), (5), (6) or (7).
+
+**5** After Schedule 2 insert—
+
+> **SCHEDULE 2A — Biodiversity gain**
+>
+> *Section 103*
+>
+> **Introductory**
+>
+> **1** (1) This Schedule applies to development which—
+>
+> (a) is of a description of development to which a development consent order application may relate, and
+>
+> (b) is not excluded development,
+>
+> to the extent that the development is carried out in England.
+>
+> (2) In this Schedule—
+>
+> - “development consent order application” means an application made under section 37 which falls to be determined under section 104 or 105;
+> - “excluded development” means development of a description specified in regulations made by the Secretary of State.
+>
+> **Biodiversity gain statement**
+>
+> **2** (1) A biodiversity gain statement is a statement of government policy in relation to the biodiversity gain to be achieved in connection with any description of development to which this Schedule applies.
+>
+> (2) In particular the statement must—
+>
+> (a) set out a biodiversity gain objective for any description of development to which this Schedule applies, and
+>
+> (b) set out that, where development consent order applications are made for any development of that description during a period specified in the statement, the development must meet that objective.
+>
+> (3) The statement may specify how development of any description may or must meet the biodiversity gain objective.
+>
+> (4) In this Schedule, references to the period for which a biodiversity gain statement has effect are to the period referred to in sub-paragraph (2)(b).
+>
+> **3** (1) A biodiversity gain objective is an objective that the biodiversity value attributable to development to which a biodiversity gain statement relates exceeds the pre-development biodiversity value of the onsite habitat by a percentage specified in the statement.
+>
+> (2) The percentage specified under sub-paragraph (1) must be at least 10%.
+>
+> (3) The Secretary of State may by regulations amend sub-paragraph (2) so as to change the percentage for the time being specified in it.
+>
+> **4** (1) A biodiversity gain statement may specify for the purposes of a biodiversity gain objective how the biodiversity value or relative biodiversity value of any habitat or habitat enhancement is to be calculated.
+>
+> (2) That may include calculation by, or by reference to—
+>
+> (a) a biodiversity metric set out in a document produced by the Secretary of State for the purposes of the statement,
+>
+> (b) the biodiversity metric referred to in paragraph 4 of Schedule 7A to the Town and Country Planning Act 1990, or
+>
+> (c) such other biodiversity metric as the Secretary of State considers appropriate.
+>
+> (3) The Secretary of State must—
+>
+> (a) lay any document within sub-paragraph (2)(a) before Parliament, and
+>
+> (b) publish it in such manner as the Secretary of State considers appropriate.
+>
+> **5** (1) A biodiversity gain statement may specify for the purposes of a biodiversity gain objective—
+>
+> (a) what the pre-development biodiversity value of onsite habitat consists of, and
+>
+> (b) the date by reference to which it is calculated.
+>
+> (2) A biodiversity gain statement may in particular under sub-paragraph (1)(b) specify a different date in relation to development on land where activities on the land before the making of a development consent order application have, or have had, the result that the biodiversity value of the onsite habitat is lower than it would otherwise have been.
+>
+> (3) A biodiversity gain statement must include provision to secure that, where a development consent order application relates to land which is registered in the biodiversity gain site register, the pre-development biodiversity value of the onsite habitat includes the biodiversity value of the habitat enhancement which is, on the date specified under sub-paragraph (1)(b), recorded in the register as habitat enhancement to be achieved on the land.
+>
+> **6** (1) A biodiversity gain statement may specify for the purposes of a biodiversity gain objective what the biodiversity value attributable to any development consists of.
+>
+> (2) In particular, a biodiversity gain statement may specify any of the following as included in the biodiversity value attributable to any development—
+>
+> (a) the post-development biodiversity value of the onsite habitat,
+>
+> (b) the biodiversity value of any offsite biodiversity gain allocated to the development (which may be registered offsite biodiversity gain), and
+>
+> (c) the biodiversity value of any biodiversity credits purchased for the development.
+>
+> (3) If pursuant to sub-paragraph (2)(a) a biodiversity gain statement specifies the post-development biodiversity value of the onsite habitat, the statement must specify what that value consists of.
+>
+> (4) If pursuant to sub-paragraph (2)(b) a biodiversity gain statement specifies the biodiversity value of any offsite biodiversity gain allocated to the development, other than registered offsite biodiversity gain, the statement must specify—
+>
+> (a) what offsite biodiversity gain consists of, and
+>
+> (b) how the allocation of offsite biodiversity gain is to be recorded.
+>
+> (5) Provision under sub-paragraph (3) or (4) must include provision to secure that, where works are carried out for the purposes of any development that increase the biodiversity value of onsite or offsite habitat by an amount that is significant in relation to its previous biodiversity value, the increase is to be taken into account only if—
+>
+> (a) any habitat enhancement resulting from the works is maintained for a period specified in the statement, and
+>
+> (b) the maintenance of that habitat enhancement is secured in a way specified in the statement (for example, through conservation covenants or requirements imposed by a development consent order).
+>
+> **7** (1) A biodiversity gain statement must set out whether, and if so how, the biodiversity gain objective applies in relation to development where the onsite habitat is irreplaceable habitat.
+>
+> (2) A biodiversity gain statement may specify requirements, in relation to any such development, relating to the making of arrangements for the purpose of minimising the adverse effect of the development on the onsite habitat.
+>
+> **8** A biodiversity gain statement must specify the evidence that persons making a development consent order application in relation to which the statement has effect must produce in order to demonstrate how the biodiversity gain objective is met.
+>
+> **Development covered by an existing national policy statement**
+>
+> **9** (1) This paragraph applies where, at the time this Schedule comes into force, an existing national policy statement sets out policy in respect of a description of development to which this Schedule applies.
+>
+> (2) On the first review of the existing national policy statement under section 6 after the coming into force of this Schedule, the Secretary of State must amend the statement under section 6(5)(a) so as to include a biodiversity gain statement for development of that description.
+>
+> (3) The Secretary of State may issue a separate biodiversity gain statement (a “separate biodiversity gain statement”) having effect for any period before that for which the statement included in the existing national policy statement under sub-paragraph (2) has effect.
+>
+> (4) Before issuing a separate biodiversity gain statement the Secretary of State must consult such persons as the Secretary of State considers appropriate.
+>
+> (5) The Secretary of State must keep a separate biodiversity gain statement under review and may amend it at any time.
+>
+> (6) The Secretary of State must—
+>
+> (a) lay a separate biodiversity gain statement before Parliament, and
+>
+> (b) publish it in such manner as the Secretary of State considers appropriate.
+>
+> (7) A separate biodiversity gain statement is for the purposes of section 104(2) to (9) to be regarded as contained in the existing national policy statement.
+>
+> (8) If it appears to the Secretary of State that the existing national policy statement is inconsistent with a separate biodiversity gain statement, the Secretary of State may amend the existing national policy statement in such manner as seems appropriate to the Secretary of State to remove the inconsistency.
+>
+> (9) Where the existing national policy statement is amended pursuant to sub-paragraph (2) to include a biodiversity gain statement in relation to any description of development, a separate biodiversity gain statement relating to development of that description must be revoked as from the beginning of the period for which the new statement has effect.
+>
+> (10) If the existing national policy statement’s designation as a national policy statement is withdrawn in relation to any description of development, any separate biodiversity gain statement relating to development of that description has effect as if it were a biodiversity gain statement issued under paragraph 10(2).
+>
+> (11) References in sub-paragraphs (4) to (10) to separate biodiversity gain statements include amended versions of such statements.
+>
+> (12) For the purposes of this Schedule, “existing national policy statement” means a national policy statement which is designated under section 5 before the coming into force of this Schedule.
+>
+> (13) For the purposes of sub-paragraph (2), an existing national policy statement is only reviewed under section 6 after the coming into force of this Schedule if the review begins after that time.
+>
+> **Development not covered by a national policy statement**
+>
+> **10** (1) This paragraph applies where, at the time this Schedule comes into force or any subsequent time, no national policy statement sets out policy in respect of a description of development to which this Schedule applies.
+>
+> (2) The Secretary of State may issue a biodiversity gain statement in relation to that description of development.
+>
+> (3) Before issuing a biodiversity gain statement under sub-paragraph (2) the Secretary of State must consult such persons as the Secretary of State considers appropriate.
+>
+> (4) The Secretary of State must keep a statement issued under sub-paragraph (2) under review and may amend or revoke it at any time.
+>
+> (5) The Secretary of State must—
+>
+> (a) lay a statement issued under sub-paragraph (2) before Parliament, and
+>
+> (b) publish it in such manner as the Secretary of State considers appropriate.
+>
+> (6) References in sub-paragraphs (3) to (5) to statements issued under sub-paragraph (2) include amended versions of such statements.
+>
+> (7) If after a statement is issued under sub-paragraph (2) a national policy statement relating to the description of development is designated under section 5, the Secretary of State must—
+>
+> (a) include a biodiversity gain statement in relation to that description of development in the national policy statement, and
+>
+> (b) revoke the statement issued under sub-paragraph (2).
+>
+> **Development at sea**
+>
+> **11** (1) The Secretary of State may by regulations provide for this Schedule to apply, with or without modifications, to any development to which this paragraph applies.
+>
+> (2) This paragraph applies to development which—
+>
+> (a) is of a description to which a development consent order application may relate, and
+>
+> (b) is not excluded development,
+>
+> to the extent that the development is carried out in the English marine region.
+>
+> (3) In sub-paragraph (2), the “English marine region” means—
+>
+> (a) the English offshore region, and
+>
+> (b) the English inshore region, excluding waters in England.
+>
+> (4) Regulations under this paragraph may make provision modifying the application of this Schedule in relation to development which is carried out at an inter-tidal location.
+>
+> (5) In sub-paragraph (4), “inter-tidal location” means a location that—
+>
+> (a) is in England, and
+>
+> (b) is also at any time in the English inshore region.
+>
+> **Interpretation**
+>
+> **12** For the purposes of this Schedule—
+>
+> - “biodiversity credits” means credits under section 101 of the Environment Act 2021;
+> - “biodiversity gain site register” means the register under section 100 of the Environment Act 2021;
+> - a “biodiversity metric” is a means of measuring the biodiversity value or relative biodiversity value of habitat or habitat enhancement;
+> - “development consent order application” has the meaning given by paragraph 1(2);
+> - “English inshore region” and “English offshore region” have the meanings given by section 322 of the Marine and Coastal Access Act 2009;
+> - “excluded development” has the meaning given by paragraph 1(2);
+> - “existing national policy statement” has the meaning given by paragraph 9(12);
+> - “irreplaceable habitat” has the meaning given in regulations under paragraph 18 of Schedule 7A to the Town and Country Planning Act 1990;
+> - “onsite habitat”, in relation to any development, means habitat on the land to which the development consent order application relates, and “offsite habitat” means habitat on other land;
+> - “registered offsite biodiversity gain” has the meaning given by paragraph 10 of Schedule 7A to the Town and Country Planning Act 1990.
+
+### PART 2 — Supplementary amendments to the Planning Act 2008
+
+**6** The Planning Act 2008 is amended as follows.
+
+**7** In section 37 (applications for orders for development consent), after subsection (3) insert—
+
+> (3A) The documents and information prescribed under subsection (3)(d) may include documents and information demonstrating how any biodiversity gain objective in a biodiversity gain statement under Schedule 2A having effect in relation to the development is to be met.
+
+**8** In section 120 (what may be included in development consent order), in subsection (2), at the end insert—
+
+> (c) requirements designed to secure that—
+>
+> (i) the biodiversity gain objective under Schedule 2A relevant to the development is met;
+>
+> (ii) any proposals included in the application for the order for the purposes of meeting the biodiversity gain objective are implemented.
+
+**9** (1) Section 232 (orders and regulations) is amended as follows.
+
+(2) In subsection (5), at the end insert—
+
+> (f) regulations under paragraph 3(3) or 11 of Schedule 2A.
+
+(3) In subsection (7), after “or 105(2)(b)” insert “or paragraph 3(3) or 11 of Schedule 2A”.
+
+## SCHEDULE 16 — Controlling the felling of trees in England
+
+*Section 114*
+
+### Introductory
+
+**1** Part 2 of the Forestry Act 1967 (power to control felling of trees) is amended as follows.
+
+### Penalty for felling without licence: increase of fine
+
+**2** In section 17(1) (penalty for felling without a licence)—
+
+(a) after “and” insert—
+
+> (a) in relation to an offence committed in Wales,
+
+;
+
+(b) at the end insert
+
+> , or
+>
+> (b) in relation to an offence committed in England, liable on summary conviction to a fine.
+
+### Restocking notices to be local land charges
+
+**3** In section 17A (power to require restocking after unauthorised felling), after subsection (1A) insert—
+
+> (1B) A restocking notice served by the Commissioners is a local land charge; and for the purposes of the Local Land Charges Act 1975 the Commissioners are the originating authority as respects the charge.
+
+### Enforcement notices to be local land charges
+
+**4** In section 24 (notice to require compliance with conditions or directions), at the end insert—
+
+> (6) A notice under this section given by the Commissioners is a local land charge; and for the purposes of the Local Land Charges Act 1975 the Commissioners are the originating authority as respects the charge.
+
+### Further enforcement notices for new estate or interest holders
+
+**5** (1) In section 17C (enforcement of restocking notice), after “directions),” insert “24A (further notice under section 24 for next estate or interest holders),”.
+
+(2) After section 24 insert—
+
+> **Further notice under section 24 for next estate or interest holders**
+>
+> **24A** (1) Subsection (2) applies where—
+>
+> (a) a notice has been given to a person under section 24 to require compliance with the conditions of a felling licence in relation to land in England,
+>
+> (b) steps required by the notice have not been taken, and
+>
+> (c) before the time specified in the notice has expired, the person ceases to have the estate or interest in the land by reference to which the notice was served.
+>
+> (2) The Commissioners may give to the next estate or interest holder a further notice under section 24 requiring the steps that were not completed under the notice described in subsection (1) to be completed.
+>
+> (3) In subsection (2) the “next estate or interest holder” means the person who has an estate or interest in the land as is referred to in section 10(1) immediately after the person referred to in subsection (1) ceased to have the estate or interest referred to in subsection (1)(c).
+>
+> (4) The reference in subsection (1) to a notice under section 24 includes a notice given under subsection (2).
+
+### Power of court to order restocking after conviction for failure to comply with enforcement notice
+
+**6** After section 24A (inserted by paragraph 5) insert—
+
+> **Restocking orders after conviction under section 24 in England**
+>
+> **24B** (1) This section applies where a person has been convicted of an offence under section 24(4) in England in relation to a failure to take steps required by a notice given under section 24 to remedy a default in the case of non-compliance with—
+>
+> (a) the conditions of a felling licence that relate to the restocking or stocking of land with trees, or
+>
+> (b) the requirements of a restocking notice.
+>
+> (2) The court may make a restocking order.
+>
+> (3) A restocking order is an order that requires the person to take such steps as may be specified therein to be taken within such time as may be so specified—
+>
+> (a) to restock or stock with trees the land in respect of which the notice under section 24 was given, or such other land as the court considers appropriate, and
+>
+> (b) to maintain those trees in accordance with the rules and practice of good forestry for a period not exceeding ten years specified in the order.
+>
+> (4) In deciding whether to make a restocking order the court must have regard to—
+>
+> (a) the interests of good forestry and agriculture and of the amenities of the district to which the restocking order would relate, and
+>
+> (b) the desirability of promoting the establishment and maintenance of adequate reserves of growing trees in England.
+>
+> (5) Section 63(3) of the Magistrates’ Courts Act 1980 (power of magistrates’ court to deal with person for breach of order etc) applies in relation to a restocking order.
+
+### Service of notices on directors of companies that have estates or interests in land
+
+**7** (1) Section 30 (service of documents) is amended as follows.
+
+(2) In subsection (2), at the end insert “or, in the case of service by the Commissioners, upon a director of the company or body”.
+
+(3) In subsection (3), after “clerk” insert “or director”.
+
+### Requiring information from the owner of land
+
+**8** In section 30(5) (power to require information regarding interests in land), after the second “land” insert “, and the owner of any land in England”.
+
+## SCHEDULE 17 — Use of forest risk commodities in commercial activity
+
+*Section 116*
+
+### PART 1 — Requirements
+
+#### Meaning of “forest risk commodity”
+
+**1** (1) In this Schedule “forest risk commodity” means a commodity specified in regulations made by the Secretary of State.
+
+(2) The regulations may specify only a commodity that has been produced from a plant, animal or other living organism.
+
+(3) The regulations may specify a commodity only if the Secretary of State considers that forest is being or may be converted to agricultural use for the purposes of producing the commodity.
+
+(4) “Forest” means an area of land of more than 0.5 hectares with a tree canopy cover of at least 10% (excluding trees planted for the purpose of producing timber or other commodities).
+
+(5) In sub-paragraph (4) the reference to land includes land that is wholly or partly submerged in water (whether temporarily or permanently).
+
+(6) The regulations may not specify timber or timber products, within the meaning of Regulation (EU) No. 995/2010 of the European Parliament and of the Council of 20 October 2010 laying down the obligations of operators who place timber and timber products on the market.
+
+(7) Before making regulations under this paragraph the Secretary of State must consult such persons as the Secretary of State considers appropriate.
+
+(8) The requirement to consult in sub-paragraph (7) may be met by consultation carried out before this paragraph comes into force.
+
+#### Prohibition on using illegally produced commodities
+
+**2** (1) A regulated person in relation to a forest risk commodity must not use that commodity in their UK commercial activities unless relevant local laws were complied with in relation to that commodity.
+
+(2) A regulated person in relation to a forest risk commodity must not use a product derived from that commodity in their UK commercial activities unless relevant local laws were complied with in relation to that commodity.
+
+(3) In this Schedule “local law”, in relation to a forest risk commodity, means any law having effect in the country or territory where the source organism was grown, raised or cultivated.
+
+(4) In this Schedule “relevant local law”, in relation to a forest risk commodity, means local law—
+
+(a) which relates to the ownership of the land on which the source organism was grown, raised or cultivated,
+
+(b) which relates to the use of that land, or
+
+(c) which otherwise relates to that land and is specified in regulations made by the Secretary of State.
+
+(5) The regulations may specify a local law only if it relates to the prevention of forest being converted to agricultural use.
+
+(6) The “source organism” means the plant, animal or other living organism from which the forest risk commodity was produced.
+
+(7) Sub-paragraph (1) does not apply to the use of a forest risk commodity where—
+
+(a) the commodity is waste (within the meaning of article 2(1) of the Renewable Transport Fuel Obligations Order 2007 (S.I. 2007/3072)), and
+
+(b) the use of the commodity is for the purpose of making renewable transport fuel—
+
+(i) that qualifies for the issue of an RTF certificate under article 17 of that Order, and
+
+(ii) in respect of which an additional RTF certificate may be issued under article 17A(4) of that Order.
+
+(8) Sub-paragraph (2) does not apply to the use of a product derived from a forest risk commodity where—
+
+(a) the commodity is waste (within the meaning of article 2(1) of the Renewable Transport Fuel Obligations Order 2007 (S.I. 2007/3072)), and
+
+(b) the product is renewable transport fuel—
+
+(i) that qualifies for the issue of an RTF certificate under article 17 of that Order, and
+
+(ii) in respect of which an additional RTF certificate may be or has been issued under article 17A(4) of that Order.
+
+#### Due diligence system
+
+**3** (1) A regulated person in relation to a forest risk commodity who uses that commodity or a product derived from that commodity in their UK commercial activities must establish and implement a due diligence system in relation to that commodity.
+
+(2) In this Schedule a “due diligence system”, in relation to a forest risk commodity, means a system for—
+
+(a) identifying, and obtaining information about, that commodity,
+
+(b) assessing the risk that relevant local laws were not complied with in relation to that commodity, and
+
+(c) mitigating that risk.
+
+(3) The Secretary of State may by regulations make further provision about the matters in sub-paragraph (2)(a) to (c), including in particular—
+
+(a) the information that should be obtained;
+
+(b) the criteria to be used in assessing risk;
+
+(c) the ways in which risk may be mitigated.
+
+#### Annual report on due diligence system
+
+**4** (1) A regulated person in relation to a forest risk commodity who uses that commodity or a product derived from that commodity in their UK commercial activities must, for each reporting period, provide the relevant authority with a report on the actions taken by the person to establish and implement a due diligence system in relation to that commodity as required by paragraph 3.
+
+(2) The report must be provided no later than 6 months after the end of the reporting period to which it relates.
+
+(3) The Secretary of State may by regulations make provision—
+
+(a) about the content and form of reports under this paragraph;
+
+(b) about the manner in which reports under this paragraph are to be provided.
+
+(4) The relevant authority must make reports under this paragraph available to the public in the way, and to the extent, specified in regulations made by the Secretary of State.
+
+(5) In this paragraph “relevant authority” means—
+
+(a) the Secretary of State, or
+
+(b) if regulations made by the Secretary of State specify another person as the relevant authority for the purposes of this paragraph, that other person.
+
+(6) In this Schedule “reporting period” means—
+
+(a) the period beginning with the day on which this paragraph comes fully into force and ending with the following 31 March, and
+
+(b) each successive period of 12 months.
+
+#### Exemption
+
+**5** (1) A regulated person in relation to a forest risk commodity is exempt from the Part 1 requirements in respect of their use of that commodity, or a product derived from that commodity, in their UK commercial activities during a reporting period if they satisfy the following two conditions.
+
+(2) Condition 1 is that before the start of the period, the person gives a notice to the relevant enforcement authority containing—
+
+(a) a declaration that the person is satisfied on reasonable grounds that the amount of the commodity used in their UK commercial activities during the period will not exceed the prescribed threshold, and
+
+(b) the prescribed information.
+
+(3) Condition 2 is that the amount of the commodity used in the person’s UK commercial activities during the period does not exceed the prescribed threshold.
+
+(4) Sub-paragraphs (5) and (6) apply where—
+
+(a) a regulated person gives a notice under sub-paragraph (2), but
+
+(b) the amount of the commodity used in the person’s UK commercial activities during the period exceeds the prescribed threshold.
+
+(5) If, before the relevant date, the regulated person gives a notice to the relevant enforcement authority containing the prescribed information, the person is exempt from the Part 1 requirements in respect of their use of the commodity, or the product derived from the commodity, in their UK commercial activities during the part of the reporting period—
+
+(a) beginning with the start of the period, and
+
+(b) ending with the date the notice is given.
+
+(6) If the regulated person does not give a notice under sub-paragraph (5), the person is not exempt from the Part 1 requirements in respect of their use of the commodity, or the product derived from the commodity, in their UK commercial activities during any part of the reporting period.
+
+(7) In this paragraph—
+
+- “prescribed” means prescribed in regulations made by the Secretary of State;
+- “relevant date” means the date during the reporting period that the amount of the commodity used in the person’s UK commercial activities exceeds the prescribed threshold;
+- “relevant enforcement authority” means the enforcement authority on which the function of receiving notices under this paragraph has been conferred by Part 2 regulations.
+
+(8) Regulations under this paragraph may in particular—
+
+(a) prescribe thresholds by reference to weight or volume;
+
+(b) make provision about how the amount of a forest risk commodity used in a regulated person’s UK commercial activities (including in relation to a forest risk commodity from which a product is derived) is to be determined,
+
+and regulations under paragraph (b) may include provision for determining the amount by reference to matters determined or published by the Secretary of State or other persons.
+
+(9) Before making regulations under this paragraph (except under sub-paragraph (2)(b) or (5)) the Secretary of State must consult such persons as the Secretary of State considers appropriate.
+
+(10) The requirement to consult in sub-paragraph (9) may be met by consultation carried out before this paragraph comes into force.
+
+#### Guidance
+
+**6** (1) The Secretary of State may issue guidance to an enforcement authority about the Part 1 requirements.
+
+(2) An enforcement authority must have regard to guidance issued under sub-paragraph (1) when exercising its functions under Part 2 of this Schedule.
+
+#### Meaning of “regulated person”
+
+**7** (1) In this Schedule “regulated person”, in relation to a forest risk commodity, means a person (other than an individual) who carries on commercial activities in the United Kingdom, and—
+
+(a) meets such conditions in relation to turnover as may be specified in regulations made by the Secretary of State for the purposes of defining who is a regulated person in relation to that forest risk commodity, or
+
+(b) is an undertaking which is a subsidiary of another undertaking which meets those conditions.
+
+(2) Regulations under sub-paragraph (1) may make provision about how turnover is to be determined.
+
+(3) Before making regulations under sub-paragraph (1) the Secretary of State must consult such persons as the Secretary of State considers appropriate.
+
+(4) The requirement to consult in sub-paragraph (3) may be met by consultation carried out before this paragraph comes into force.
+
+(5) The Secretary of State may by regulations make provision for the Part 1 requirements not to apply, or to apply with modifications, in relation to a person who becomes a regulated person for such transitional period, after they become a regulated person, as may be specified in the regulations.
+
+(6) The Secretary of State may by regulations make provision for a group of undertakings to be treated as a regulated person, in such circumstances, for such purposes and to such extent as may be provided (and may modify the application of the Schedule accordingly).
+
+(7) In this paragraph—
+
+- “group” has the meaning given by section 474 of the Companies Act 2006;
+- “undertaking” has the meaning given by section 1161 of that Act,
+
+and whether an undertaking is a subsidiary of another undertaking is to be determined in accordance with section 1162 of that Act.
+
+### PART 2 — Enforcement
+
+#### General power
+
+**8** The Secretary of State may by regulations (“Part 2 regulations”) make provision about the enforcement of requirements imposed by or under Part 1 of this Schedule (“Part 1 requirements”).
+
+#### Powers to confer functions
+
+**9** (1) Part 2 regulations may include provision conferring functions on one or more persons specified in the regulations (each of whom is an “enforcement authority” for the purposes of this Schedule).
+
+(2) Part 2 regulations may include provision—
+
+(a) conferring functions involving the exercise of discretion;
+
+(b) for the functions of an enforcement authority to be exercised on its behalf by persons authorised in accordance with the regulations.
+
+(3) Part 2 regulations may include provision requiring an enforcement authority—
+
+(a) to issue guidance about the exercise of its functions;
+
+(b) to consult with specified persons before issuing such guidance.
+
+#### Monitoring compliance
+
+**10** Part 2 regulations may include provision conferring on an enforcement authority the function of monitoring compliance with Part 1 requirements.
+
+#### Records and information
+
+**11** Part 2 regulations may include provision—
+
+(a) requiring persons on whom Part 1 requirements are imposed to keep records;
+
+(b) requiring persons on whom Part 1 requirements are imposed to provide records or other information to an enforcement authority;
+
+(c) requiring an enforcement authority to make reports or provide information to the Secretary of State.
+
+#### Powers of entry etc
+
+**12** (1) Part 2 regulations may include provision conferring on an enforcement authority powers of entry, inspection, examination, search and seizure.
+
+(2) Part 2 regulations may include provision—
+
+(a) for powers to be exercisable only under the authority of a warrant issued by a justice of the peace, sheriff, summary sheriff or lay magistrate;
+
+(b) about applications for, and the execution of, warrants.
+
+(3) Part 2 regulations must secure that the authority of a warrant is required for the exercise of any powers conferred by the regulations to—
+
+(a) enter premises by force;
+
+(b) enter a private dwelling without the consent of the occupier;
+
+(c) search and seize material.
+
+#### Sanctions
+
+**13** (1) Part 2 regulations may include provision—
+
+(a) for, about or connected with the imposition of civil sanctions in respect of—
+
+(i) failures to comply with Part 1 requirements or Part 2 regulations, or
+
+(ii) the obstruction of or failure to assist an enforcement authority;
+
+(b) for appeals against such sanctions.
+
+(2) Part 2 regulations must include provision to ensure that in a case where—
+
+(a) a regulated person fails to comply with a requirement in paragraph 2(1) or (2) in relation to their use of a forest risk commodity or a product derived from a forest risk commodity, but
+
+(b) an enforcement authority is satisfied that the regulated person took all reasonable steps to implement a due diligence system in relation to the commodity used by the person in that particular case,
+
+a civil sanction may not be imposed on the regulated person in respect of the failure to comply.
+
+(3) Part 2 regulations may include provision—
+
+(a) creating criminal offences punishable with a fine in respect of—
+
+(i) failures to comply with civil sanctions imposed under Part 2 regulations, or
+
+(ii) the obstruction of or failure to assist an enforcement authority;
+
+(b) about such offences.
+
+(4) In this paragraph “civil sanction” means a sanction of a kind for which provision may be made under Part 3 of the Regulatory Enforcement and Sanctions Act 2008 (fixed monetary penalties, discretionary requirements, stop notices and enforcement undertakings).
+
+**14** Part 2 regulations may include provision for the imposition of sanctions of that kind whether or not—
+
+(a) the conduct in respect of which the sanction is imposed constitutes an offence, or
+
+(b) the enforcement authority is a regulator for the purposes of Part 3 of the Regulatory Enforcement and Sanctions Act 2008.
+
+#### Charges
+
+**15** Part 2 regulations may include provision—
+
+(a) requiring persons on whom Part 1 requirements are imposed to pay to an enforcement authority charges, as a means of recovering costs incurred by that enforcement authority in performing its functions;
+
+(b) authorising a court or tribunal dealing with any matter relating to Part 1 requirements or Part 2 regulations to award to an enforcement authority costs incurred by it in performing its functions in relation to that matter.
+
+#### Consultation requirement
+
+**16** (1) Before making Part 2 regulations the Secretary of State must consult any persons the Secretary of State considers appropriate.
+
+(2) The requirement to consult in sub-paragraph (1) may be met by consultation carried out before this paragraph comes into force.
+
+### PART 3 — General provisions
+
+#### Review
+
+**17** (1) The Secretary of State must review the effectiveness of the Part 1 requirements and any Part 2 regulations (“relevant provisions”) in accordance with this paragraph.
+
+(2) A review must consider in particular—
+
+(a) the amount of forest being converted to agricultural use for the purposes of producing commodities;
+
+(b) the impact of the relevant provisions on the amount of forest being converted to agricultural use for the purposes of producing forest risk commodities;
+
+(c) the impact of the relevant provisions on the use of forest risk commodities, or products derived from forest risk commodities, in UK commercial activities where relevant local laws were not complied with in relation to those commodities;
+
+(d) any changes to relevant local laws in relation to forest risk commodities.
+
+(3) Having carried out a review the Secretary of State must lay before Parliament, and publish, a report stating—
+
+(a) the conclusions of the review, and
+
+(b) the steps, if any, the Secretary of State intends to take to improve the effectiveness of the relevant provisions (including whether the Secretary of State intends to make any regulations under this Schedule).
+
+(4) The first review must be completed during the period—
+
+(a) beginning with the second anniversary of the first date on which paragraphs 2 to 4 are fully in force, and
+
+(b) ending with the third anniversary of the first date on which paragraphs 2 to 4 are fully in force.
+
+(5) Subsequent reviews must be completed before the end of the 2 year period beginning with the day on which the previous review was completed.
+
+(6) A review is completed when the Secretary of State has laid and published the report.
+
+#### Interpretation
+
+**18** (1) In this Schedule—
+
+- “agricultural use” includes use for horticulture and aquaculture;
+
+- “commercial activity” includes—
+
+  - producing, manufacturing and processing;
+  - distributing, selling, or supplying;
+  - purchasing for a purpose within paragraph (a) or (b) (but not purchasing as a consumer);
+
+- “due diligence system”, in relation to a forest risk commodity, has the meaning given by paragraph 3;
+
+- “enforcement authority” has the meaning given by paragraph 9;
+
+- “forest” has the meaning given by paragraph 1;
+
+- “forest risk commodity” has the meaning given by paragraph 1;
+
+- “local law”, in relation to a forest risk commodity, has the meaning given by paragraph 2;
+
+- “Part 1 requirements” has the meaning given by paragraph 8;
+
+- “Part 2 regulations” has the meaning given by paragraph 8;
+
+- “regulated person”, in relation to a forest risk commodity, has the meaning given by paragraph 7;
+
+- “relevant local law”, in relation to a forest risk commodity, has the meaning given by paragraph 2;
+
+- “reporting period” has the meaning given by paragraph 4;
+
+- “UK commercial activity” means commercial activity carried on in the United Kingdom.
+
+(2) References in this Schedule to a product derived from a forest risk commodity are to a product derived from a forest risk commodity in whole or in part (and include any product of an animal fed on a forest risk commodity or a product derived from a forest risk commodity).
+
+## SCHEDULE 18 — Discharge or modification of obligations under conservation covenants
+
+*Section 130*
+
+### PART 1 — Discharge by Upper Tribunal
+
+#### Power to discharge on application by landowner or responsible body
+
+**1** (1) The Upper Tribunal may, on the application of a person bound by, or entitled to the benefit of, an obligation under a conservation covenant by virtue of being the holder of an estate in land, by order discharge the obligation in respect of any of the land to which it relates.
+
+(2) The Upper Tribunal must add as party to the proceedings on an application under sub-paragraph (1) the responsible body under the covenant.
+
+**2** (1) The Upper Tribunal may, on the application of the responsible body under a conservation covenant, by order discharge an obligation under the covenant in respect of any of the land to which it relates.
+
+(2) The Upper Tribunal must add as party to the proceedings on an application under sub-paragraph (1) any person who, by virtue of being the holder of an estate in land, is bound by, or entitled to the benefit of, the obligation to which the application relates.
+
+#### Deciding whether to discharge
+
+**3** (1) The Upper Tribunal may exercise its power under paragraph 1(1) or 2(1) if it considers it reasonable to do so in all the circumstances of the case.
+
+(2) In considering whether to exercise its power under paragraph 1(1) or 2(1), the matters to which the Upper Tribunal is to have regard include—
+
+(a) whether there has been any material change of circumstance since the making of the original agreement, in particular—
+
+(i) change in the character of the land to which the obligation relates or of the neighbourhood of that land;
+
+(ii) change affecting the enjoyment of the land to which the obligation relates;
+
+(iii) change affecting the extent to which performance of the obligation is, or is likely in future to be, affordable;
+
+(iv) change affecting the extent to which performance of the obligation is, or is likely in future to be, practicable;
+
+(b) whether the obligation serves any conservation purpose it had—
+
+(i) when the original agreement was entered into, or
+
+(ii) if the obligation has since been modified (whether by agreement or by the Upper Tribunal), when the obligation was modified,
+
+as the case may be; and
+
+(c) whether the obligation serves the public good.
+
+(3) In considering whether to exercise its power under paragraph 1(1), the matters to which the Upper Tribunal is to have regard also include—
+
+(a) whether any conservation purpose which the obligation in question had when the original agreement was entered into could be served equally well by an obligation relating to different land in respect of which the applicant holds a qualifying estate; and
+
+(b) whether, if an order under paragraph 1(1) were made, such an alternative obligation could be created by means of a conservation covenant.
+
+(4) In considering, for the purposes of this paragraph, affordability or practicability in relation to performance of an obligation, change in the personal circumstances of a person bound by the obligation is to be disregarded.
+
+(5) In this paragraph references to the original agreement, in relation to an obligation under a conservation covenant, are to the agreement containing the provision which gave rise to the obligation.
+
+#### Supplementary powers
+
+**4** (1) The Upper Tribunal may include in an order under paragraph 1(1) or 2(1) provision requiring the applicant to pay compensation in respect of loss of benefit resulting from the order.
+
+(2) Compensation under sub-paragraph (1) shall be payable to such person at such time and be of such amount as the order may provide.
+
+**5** (1) The Upper Tribunal may, if it considers it reasonable to do so in connection with the discharge under paragraph 1(1) of an obligation under a conservation covenant, include in the order discharging the obligation provision making the discharge conditional on the entry by the applicant and the responsible body under the covenant into a conservation covenant agreement containing such provision as the order may specify.
+
+(2) The power under sub-paragraph (1) is exercisable only with the consent of the applicant and the responsible body.
+
+### PART 2 — Modification by Upper Tribunal
+
+#### Power to modify on application by landowner or responsible body
+
+**6** (1) The Upper Tribunal may, on the application of a person bound by, or entitled to the benefit of, an obligation under a conservation covenant by virtue of being the holder of an estate in land, by order modify the obligation in respect of any of the land to which it relates.
+
+(2) The Upper Tribunal must add as party to the proceedings on an application under sub-paragraph (1) the responsible body under the covenant.
+
+**7** (1) The Upper Tribunal may, on the application of the responsible body under a conservation covenant, by order modify an obligation under the covenant in respect of any of the land to which it relates.
+
+(2) The Upper Tribunal must add as party to the proceedings on an application under sub-paragraph (1) any person who, by virtue of being the holder of an estate in land, is bound by, or entitled to the benefit of, the obligation to which the application relates.
+
+**8** The power under paragraph 6(1) or 7(1) does not include power to make a change to an obligation which, had it been included in the original agreement, would have prevented the provision of the agreement which gave rise to the obligation being provision in relation to which the conditions in section 117(1)(a) were met.
+
+#### Deciding whether to modify
+
+**9** (1) The Upper Tribunal may exercise its power under paragraph 6(1) or 7(1) if it considers it reasonable to do so in all the circumstances of the case.
+
+(2) In considering whether to exercise its power under paragraph 6(1) or 7(1), the matters to which the Upper Tribunal is to have regard include—
+
+(a) whether there has been any material change of circumstance since the making of the original agreement, in particular—
+
+(i) change in the character of the land to which the obligation relates or of the neighbourhood of that land;
+
+(ii) change affecting the enjoyment of the land to which the obligation relates;
+
+(iii) change affecting the extent to which performance of the obligation is, or is likely in future to be, affordable;
+
+(iv) change affecting the extent to which performance of the obligation is, or is likely in future to be, practicable;
+
+(b) whether the obligation serves any conservation purpose it had—
+
+(i) when the original agreement was entered into, or
+
+(ii) if the obligation has since been modified (whether by agreement or by the Upper Tribunal), when the obligation was modified,
+
+as the case may be; and
+
+(c) whether the obligation serves the public good.
+
+(3) In considering, for the purposes of this paragraph, affordability or practicability in relation to performance of an obligation, change in the personal circumstances of a person bound by the obligation is to be disregarded.
+
+#### Supplementary powers
+
+**10** (1) The Upper Tribunal may include in an order under paragraph 6(1) or 7(1) provision requiring the applicant to pay compensation in respect of loss of benefit resulting from the order.
+
+(2) Compensation under sub-paragraph (1) shall be payable to such person at such time and be of such amount as the order may provide.
+
+**11** (1) The Upper Tribunal may, if it considers it reasonable to do so in connection with the modification under paragraph 6(1) of an obligation under a conservation covenant, include in the order modifying the obligation provision making the modification conditional on the entry by the applicant and the responsible body under the covenant into a conservation covenant agreement containing such provision as the order may specify.
+
+(2) The power under sub-paragraph (1) is exercisable only with the consent of the applicant and the responsible body.
+
+#### Effect of modification
+
+**12** (1) The modification of an obligation by an order under this Part binds—
+
+(a) the parties to the proceedings in which the order is made, and
+
+(b) any person who, as respects any of the land to which the modification relates, becomes a successor of a person bound by the modification.
+
+(2) For the purposes of sub-paragraph (1) “successor of a person bound by the modification” means a person who holds, in respect of any of the land to which the modification relates—
+
+(a) the estate held by the person so bound when the order modifying the obligation was made, or
+
+(b) an estate in land derived (whether immediately or otherwise) from that estate after the order modifying the obligation was made.
+
+#### Interpretation
+
+**13** In this Part, references to the original agreement, in relation to an obligation under a conservation covenant, are to the agreement containing the provision which gave rise to the obligation.
+
+## SCHEDULE 19 — Application of Part 7 to Crown land
+
+*Section 137*
+
+### PART 1 — General
+
+#### Application of Part 7
+
+**1** Part 7 applies in relation to Crown land as it applies in relation to any other land, subject to the provisions of this Schedule.
+
+#### Interpretation
+
+**2** (1) In this Schedule—
+
+(a) “Crown land” means land in relation which there is an estate in land of a kind listed in column 1 of the following Table, and
+
+(b) “the appropriate authority”, in relation to any Crown land, means the authority specified in column 2 for the estate in land in question.
+
+| Estate in land | Appropriate authority |
+|---|---|
+| Estate belonging to Her Majesty in right of the Crown (other than estate vesting as bona vacantia) | The Crown Estate Commissioners or other government department having management of the land |
+| Estate vesting in Her Majesty in right of the Crown as bona vacantia | The Treasury Solicitor |
+| Estate belonging to Her Majesty in right of Her private estates | A person appointed by Her Majesty under the Royal Sign Manual, or, if no such appointment is made, the Secretary of State |
+| Estate belonging to Her Majesty in right of the Duchy of Lancaster | The Chancellor of the Duchy of Lancaster |
+| Estate belonging to the Duchy of Cornwall | Such person as the Duke of Cornwall, or the possessor for the time being of the Duchy of Cornwall, appoints |
+| Estate belonging to a government department or held in trust for Her Majesty for the purposes of a government department | That department |
+
+(2) References in this Schedule to Part 7 are to Part 7 of this Act (apart from this Schedule and Schedule 20).
+
+(3) If any question arises as to what authority is the appropriate authority in relation to any Crown land, that question is to be referred to the Treasury, whose decision is final.
+
+(4) In this paragraph the reference to Her Majesty’s private estates is to be read in accordance with section 1 of the Crown Private Estates Act 1862.
+
+#### Demesne land
+
+**3** (1) Where land belongs to Her Majesty in right of the Crown but is not held for an estate in fee simple absolute in possession—
+
+(a) Her Majesty in right of the Crown is to be regarded for the purposes of Part 7 and this Schedule as holding an estate in fee simple absolute in possession in the land, and
+
+(b) any estate granted or created out of the land is to be regarded for those purposes as derived from that estate in fee simple.
+
+(2) The land referred to in sub-paragraph (1) does not include land which becomes subject to escheat on the determination of an estate in fee simple absolute in possession in the land if—
+
+(a) it is land to which an obligation under a conservation covenant related when the estate determined, or
+
+(b) it is not land to which such an obligation related at that time and Her Majesty in right of the Crown has not taken possession or control of the land, or entered into occupation of it.
+
+#### Land subject to escheat
+
+**4** (1) This paragraph applies where land becomes subject to escheat on the determination of an estate in fee simple absolute in possession in land to which an obligation under a conservation covenant relates.
+
+(2) The conservation covenant is not terminated on the determination of that estate, even though the appropriate authority has no liability in respect of the obligation unless and until the Crown—
+
+(a) takes possession or control of the land, or enters into occupation of it, or
+
+(b) becomes the holder of—
+
+(i) an estate granted by the Crown out of the land, or
+
+(ii) an estate in land derived (whether immediately or otherwise) from an estate falling within sub-paragraph (i).
+
+(3) If the Crown takes possession or control of the land, or enters into occupation of it—
+
+(a) the Crown is to be regarded for the purposes of Part 7 and this Schedule as holding an estate in fee simple in possession in the land, and
+
+(b) that estate is to be regarded for those purposes as immediately derived from the determined estate.
+
+(4) If the Crown grants an estate out of the land after having previously taken possession or control of the land, or entered into occupation of it, the estate is to be regarded for the purposes of Part 7 and this Schedule as immediately derived from the estate mentioned in sub-paragraph (3)(a).
+
+(5) But if the Crown grants an estate out of the land without having previously taken possession or control of the land, or entered into occupation of it—
+
+(a) the acts of the Crown in granting that estate are not to be regarded for the purposes of Part 7 and this Schedule as taking possession or control of the land, or entering into occupation of it, and
+
+(b) the new estate is to be regarded for those purposes as immediately derived from the determined estate.
+
+(6) In this paragraph and paragraph 5 “the Crown” means Her Majesty in right of the Crown or of the Duchy of Lancaster, or the Duchy of Cornwall, as the case may be.
+
+#### Bona vacantia
+
+**5** (1) This paragraph applies where an estate in land to which an obligation of the landowner under a conservation covenant relates vests in the Crown as bona vacantia.
+
+(2) The appropriate authority has no liability in respect of the obligation in relation to any period before the Crown takes possession or control of the land or enters into occupation of it.
+
+### PART 2 — Conservation covenants relating to Crown land held by a person other than the appropriate authority
+
+#### Agreements for the purposes of section 117
+
+**6** (1) If Crown land which is a qualifying estate is held by a person other than the appropriate authority, the appropriate authority may, as respects that qualifying estate, enter into a conservation covenant agreement, in place of the holder of the estate.
+
+(2) An authority that enters into such an agreement by virtue of sub-paragraph (1) is to be treated for the purposes of section 117 as the holder of the qualifying estate (instead of the person in whose place the authority is acting).
+
+#### Modification of Part 7 in relation to obligations under certain Crown conservation covenants
+
+**7** (1) Paragraphs 8 to 12 modify Part 7 in its application to obligations under a conservation covenant created by an agreement entered into by virtue of paragraph 6(1).
+
+(2) In those paragraphs, in relation to an obligation under the conservation covenant—
+
+- “the appropriate authority” means the appropriate authority with respect to the estate in land of the original landowner which is the qualifying estate in relation to the obligation, and
+- “the original landowner” means the person who held the qualifying estate when the agreement was entered into.
+
+**8** References in Part 7 to an obligation of the landowner under a conservation covenant are to be read as references to an obligation of the appropriate authority under the conservation covenant.
+
+**9** (1) Section 122 has effect with the following modifications in its application to an obligation mentioned in paragraph 8.
+
+(2) In subsection (2)—
+
+(a) in paragraph (a), the reference to the landowner under the covenant is to be read as a reference to the appropriate authority, and
+
+(b) in paragraph (b), the reference to the landowner under the covenant is to be read as a reference to the original landowner.
+
+(3) In subsection (3) the reference to the landowner under the covenant is to be read as a reference to the original landowner.
+
+(4) In subsection (4)—
+
+(a) in the opening words and in paragraph (b), the reference to the landowner under the covenant is to be read as a reference to the appropriate authority,
+
+(b) in the opening words, the reference to a successor of that landowner is to be read as a reference to a successor of the original landowner, and
+
+(c) in paragraph (b), the reference to land in relation to which the landowner ceases to be the holder of the qualifying estate is to be read as a reference to land in relation to which the original landowner ceases to be the holder of the qualifying estate.
+
+(5) Subsection (5)(c) has effect, if the successor’s immediate predecessor was the original landowner, as if the reference to the successor’s immediate predecessor were a reference to the appropriate authority.
+
+**10** (1) Section 123 has effect with the following modifications in its application to an obligation of the responsible body under the conservation covenant.
+
+(2) In subsection (1)—
+
+(a) in paragraph (a), the reference to the landowner under the covenant is to be read as a reference to the appropriate authority, and
+
+(b) in paragraph (b), the reference to the landowner under the covenant is to be read as a reference to the original landowner.
+
+(3) In subsection (2) the reference to the landowner under the covenant is to be read as a reference to the original landowner.
+
+(4) In subsection (3)—
+
+(a) in the opening words and in paragraph (b), the reference to the landowner under the covenant is to be read as a reference to the appropriate authority,
+
+(b) in the opening words, the reference to a successor of that landowner is to be read as a reference to a successor of the original landowner, and
+
+(c) in paragraph (b), the reference to land in relation to which the landowner ceases to be the holder of the qualifying estate is to be read as a reference to land in relation to which the original landowner ceases to be the holder of the qualifying estate.
+
+**11** In section 129(4)(b) and (5) the references to a successor of a person bound by the modification (where the person bound is the appropriate authority) are to be read as references to a successor of the original landowner.
+
+**12** In Schedule 18—
+
+(a) the references in paragraphs 1(1) and 6(1) to a person bound by, or entitled to the benefit of, an obligation under a conservation covenant by virtue of holding an estate in land are to be read as references to the appropriate authority;
+
+(b) the references in paragraphs 2(2) and 7(2) to any person who by virtue of holding an estate in land is bound by or entitled to the benefit of an obligation are to be read as references to the appropriate authority;
+
+(c) the references in paragraph 12(1)(b) and (2) to a successor of a person bound by the modification (where the person bound is the appropriate authority) are to be read as references to a successor of the original landowner.
+
+### PART 3 — Other modifications of Part 7
+
+#### Cases where estate in land to which conservation covenant relates has been acquired by the Crown and is held by person other than the appropriate authority
+
+**13** (1) Paragraphs 14 to 17 apply where the estate in land by virtue of which a person is a successor of the landowner under a conservation covenant is held by or on behalf of the Crown by a person other than the appropriate authority.
+
+(2) In sub-paragraph (1) “successor” (in relation to the landowner under the covenant) means a person who holds, in respect of any of the land to which any obligation under the covenant relates—
+
+(a) the qualifying estate, or
+
+(b) an estate in land derived (whether immediately or otherwise) from the qualifying estate after the creation of the covenant.
+
+**14** In section 122—
+
+(a) subsections (2)(b), (3) and (4) have effect as if the estate in land were held by the appropriate authority, and
+
+(b) subsection (5)(c) has effect, in relation to a disposal of the estate in land, as if the successor’s immediate predecessor were the appropriate authority.
+
+**15** In section 123—
+
+(a) subsections (1)(b), (2) and (4) have effect as if the estate in land were held by the appropriate authority, and
+
+(b) subsection (4) has effect as if the reference to the successor were a reference to the appropriate authority.
+
+**16** (1) In section 129(4)(b) and (5) references to a successor of a person bound by the modification (where the person bound is the appropriate authority) are to be read as references to a successor of the person in whose place the appropriate authority acts.
+
+(2) In section 129(4)(b) and (5) references to a successor of a person bound by the modification (where the person bound is not the appropriate authority) are to be read as if the estate in any of the land to which the modification relates which is held by the person in whose place the appropriate authority acts were held by the appropriate authority.
+
+**17** In Schedule 18—
+
+(a) the reference in paragraph 6(1) to a person bound by an obligation under a conservation covenant by virtue of holding an estate in land is to be read as a reference to the appropriate authority;
+
+(b) the reference in paragraph 7(2) to any person who is bound by or entitled to the benefit of an obligation by virtue of holding an estate in land is to be read as a reference to the appropriate authority;
+
+(c) the references in paragraph 12(1)(b) and (2) to a successor of a person bound by the modification (where the person bound is the appropriate authority) are to be read as references to a successor of the person in whose place the appropriate authority is acting.
+
+#### Agreements under section 127(1) and (3)
+
+**18** (1) This paragraph applies where, in respect of any of the land to which an obligation of the landowner under a conservation covenant relates, the qualifying estate is held by or on behalf of the Crown by a person other than the appropriate authority.
+
+(2) The appropriate authority may enter into an agreement under section 127(1) or (3) in place of the holder of that estate.
+
+(3) An agreement entered into by virtue of sub-paragraph (2) is to be treated for the purposes of section 127(4)(c) as entered into by virtue of the estate in land held by the person in whose place the appropriate authority enters into the agreement.
+
+#### Agreements under section 128(1)
+
+**19** (1) This paragraph applies if the responsible body under a conservation covenant enters into an agreement under section 128(1) in relation to an obligation which it owes to the other party to the agreement by virtue of paragraph 10(2)(a) or 15(a).
+
+(2) If the other party is entitled to the benefit of the obligation by virtue of paragraph 10(2)(a), the reference in section 128(2)(c) to the estate in land by virtue of which the power is exercisable is to be read as a reference to the estate in land held by the person in whose place the other party acted in entering into the agreement which gave rise to the obligation.
+
+(3) If the other party is entitled to the benefit of the obligation by virtue of paragraph 15(a), the reference in section 128(2)(c) to the estate in land by virtue of which the power is exercisable is to be read as a reference to the estate in land which the other party is treated by paragraph 15(a) as holding.
+
+#### Agreements under section 129(1)
+
+**20** (1) Sub-paragraph (2) applies where a person who—
+
+(a) is bound by an obligation of the landowner under the covenant by virtue of paragraph 9(2)(a), or
+
+(b) is entitled to the benefit of the obligation of the responsible body under a conservation covenant by virtue of paragraph 10(2)(a),
+
+exercises the power under section 129(1) to modify the obligation.
+
+(2) The reference in section 129(3)(c) to the estate in land by virtue of which the power is exercisable is to be read as a reference to the estate in land held by the person in whose place the person exercising that power acted in entering into the agreement which gave rise to the obligation.
+
+**21** (1) Sub-paragraph (2) applies where a person who—
+
+(a) is bound by an obligation of the landowner under a conservation covenant by virtue of paragraph 14(a), or
+
+(b) is entitled to the benefit of an obligation of the responsible body under a conservation covenant by virtue of paragraph 15(a),
+
+exercises the power in section 129(1) to modify the obligation.
+
+(2) The reference in section 129(3)(c) to the estate in land by virtue of which the power is exercisable is to be read as a reference to the estate in land which the person is treated by paragraph 14(a) or 15(a) as holding.
+
+## SCHEDULE 20 — Consequential amendments relating to Part 7
+
+*Section 139*
+
+### Acquisition of Land Act 1981 (c. 67)
+
+**1** The Acquisition of Land Act 1981 is amended as follows.
+
+**2** (1) Section 12 (notice of compulsory purchase by local and other authorities) is amended as follows.
+
+(2) In the title, for “and occupiers” insert “, occupiers and others”.
+
+(3) In subsection (2)—
+
+(a) omit the “or” at the end of paragraph (a), and
+
+(b) at the end of paragraph (b) insert
+
+> , or
+>
+> (c) the person is entitled to the benefit of an obligation under a conservation covenant (within the meaning of Part 7 of the Environment Act 2021) relating to the land.
+
+**3** (1) Paragraph 3 of Schedule 1 (notice of compulsory purchase by Ministers) is amended as follows.
+
+(2) In the title, for “and occupiers” insert “, occupiers and others”.
+
+(3) In sub-paragraph (2)—
+
+(a) omit the “or” at the end of paragraph (a), and
+
+(b) at the end of paragraph (b) insert
+
+> , or
+>
+> (c) the person is entitled to the benefit of an obligation under a conservation covenant (within the meaning of Part 7 of the Environment Act 2021) relating to the land.
+
+### Housing and Planning Act 2016 (c. 22)
+
+**4** The Housing and Planning Act 2016 is amended as follows.
+
+**5** (1) Section 203 (power to override easements and other rights) is amended as follows.
+
+(2) In subsections (1)(b) and (4)(b)—
+
+(a) the words after “breaching” become sub-paragraph (i), and
+
+(b) after that sub-paragraph insert
+
+> , or
+>
+> (ii) an obligation under a conservation covenant.
+
+(3) In subsection (10)—
+
+(a) omit the “or” at the end of paragraph (a), and
+
+(b) at the end of paragraph (b)(ii) insert
+
+> , or
+>
+> (c) a breach of an obligation under a conservation covenant owed to the National Trust.
+
+**6** (1) Section 204 (compensation for overridden easements etc) is amended as follows.
+
+(2) In subsection (1), after “section 203” insert “(1)(a) or (b)(i) or (4)(a) or (b)(i)”.
+
+(3) After subsection (1) insert—
+
+> (1A) But a person is not liable to pay compensation under this section for breaching an obligation under a conservation covenant.
+
+**7** In section 205(1) (interpretation), at the appropriate place insert—
+
+> - “obligation under a conservation covenant” has the same meaning as in Part 7 of the Environment Act 2021;
+
+.
+
+### Neighbourhood Planning Act 2017 (c. 20)
+
+**8** The Neighbourhood Planning Act 2017 is amended as follows.
+
+**9** In section 20 (notice requirements relating to taking temporary possession), at the end insert—
+
+> (10) For the purposes of subsection (1), a person entitled to the benefit of an obligation under a conservation covenant is to be treated as having an interest in the land to which the obligation relates.
+
+**10** In section 23 (compensation), after subsection (5) insert—
+
+> (5A) For the purposes of subsections (2) and (3), the person is not entitled to compensation under this section by virtue of being the person entitled to the benefit of an obligation under a conservation covenant.
+
+**11** (1) Section 27 (powers of acquiring authority in temporary possession of land) is amended as follows.
+
+(2) In subsection (3)—
+
+(a) omit the “or” at the end of paragraph (a), and
+
+(b) at the end of paragraph (b), insert
+
+> , or
+>
+> (c) causing a person to be in breach of an obligation under a conservation covenant relating to the land.
+
+(3) After subsection (4) insert—
+
+> (4A) The acquiring authority is not bound by an obligation under a conservation covenant relating to the land by virtue of acquiring a right to use the land under this section.
+
+(4) In subsection (6)—
+
+(a) omit the “or” at the end of paragraph (a), and
+
+(b) at the end of paragraph (b), insert
+
+> , or
+>
+> (c) a use of land that causes a person (or, if the person were to permit or suffer the use, would cause the person) to be in breach of an obligation under a conservation covenant relating to the land owed to the National Trust.
+
+**12** In section 30 (interpretation), at the appropriate place, insert—
+
+> - “obligation under a conservation covenant” has the same meaning as in Part 7 of the Environment Act 2021;
+
+.
+
+## SCHEDULE 21 — Amendment of REACH legislation
+
+*Section 140*
+
+### Amendment of the REACH Regulation
+
+**1** (1) The Secretary of State may by regulations amend the REACH Regulation.
+
+(2) The Secretary of State may make regulations under this paragraph only if the Secretary of State considers that the provision made by the regulations is consistent with Article 1 of the REACH Regulation (aim and scope of the REACH Regulation).
+
+(3) The Secretary of State may not make regulations under this paragraph which amend any protected provision of the REACH Regulation.
+
+(4) But sub-paragraph (3) does not prevent any protected provision of the REACH Regulation from being amended by provision made under this paragraph by virtue of section 143(1)(a).
+
+(5) Before making regulations under this paragraph, the Secretary of State must publish an explanation of why the Secretary of State considers that the provision to be made by the regulations is consistent with Article 1 of the REACH Regulation.
+
+(6) The explanation relating to regulations under this paragraph is to be published—
+
+(a) no later than the time when the Secretary of State begins the consultation on that exercise of the power that is required by paragraph 5, and
+
+(b) in the manner which the Secretary of State considers appropriate.
+
+(7) Regulations under this paragraph are subject to the affirmative procedure.
+
+### Amendment of the REACH Enforcement Regulations 2008
+
+**2** (1) The Secretary of State or a relevant devolved authority may by regulations amend the REACH Enforcement Regulations 2008 (S.I. 2008/2852).
+
+(2) The Secretary of State or a relevant devolved authority may make regulations under this paragraph only if the Secretary of State or the authority considers that the provision made by the regulations is necessary or appropriate for, or in connection with, enforcement of the REACH Regulation.
+
+(3) The provision that may be made by regulations under this paragraph includes—
+
+(a) provision creating, or widening the scope of, a criminal offence;
+
+(b) provision specifying the punishment for a criminal offence.
+
+(4) But regulations under this paragraph may not provide for a criminal offence—
+
+(a) under the law of England and Wales to be—
+
+(i) punishable on conviction on indictment with imprisonment for more than two years, or
+
+(ii) punishable on summary conviction with imprisonment for more than the prescribed term for England and Wales or with a fine that is calculated on a daily basis of more than £100 a day;
+
+(b) under the law of Scotland to be—
+
+(i) punishable on conviction on indictment with imprisonment for more than two years, or
+
+(ii) punishable on summary conviction with imprisonment for more than the prescribed term for Scotland or with a fine of more than the applicable maximum for Scotland (if not calculated on a daily basis) or a fine of more than £100 a day;
+
+(c) under the law of Northern Ireland to be—
+
+(i) punishable on conviction on indictment with imprisonment for more than two years, or
+
+(ii) punishable on summary conviction with imprisonment for more than three months or with a fine of more than level 5 on the standard scale (if not calculated on a daily basis) or a fine of more than £100 a day.
+
+(5) In sub-paragraph (4)—
+
+- “applicable maximum for Scotland” means—
+
+  - level 5 on the standard scale, where the offence is a summary offence;
+  - the statutory maximum, where the offence is triable either way;
+
+- “prescribed term for England and Wales” means—
+
+  - 51 weeks, where the offence is a summary offence;
+  - 12 months, where the offence is triable either way;
+
+- “prescribed term for Scotland” means—
+
+  - 3 months, where the offence is a summary offence;
+  - 12 months, where the offence is triable either way.
+
+(6) But, in the definition of “prescribed term for England and Wales” in sub-paragraph (5)—
+
+(a) the reference to 51 weeks is to be read, until the commencement of section 281(5) of the Criminal Justice Act 2003, as a reference to 3 months;
+
+(b) the reference to 12 months is to be read, until [[^F69]2 May 2022], as a reference to 3 months.
+
+(7) Regulations under this paragraph—
+
+(a) made by the Welsh Ministers, may contain only provision which, if contained in an Act of Senedd Cymru, would be within the legislative competence of the Senedd;
+
+(b) made by the Scottish Ministers, may contain only provision which, if contained in an Act of the Scottish Parliament, would be within the legislative competence of the Parliament;
+
+(c) made by the Department of Agriculture, Environment and Rural Affairs or the Department for the Economy in Northern Ireland may contain only provision which, if contained in an Act of the Northern Ireland Assembly, would be within the legislative competence of the Assembly and would not require the Secretary of State’s consent.
+
+(8) Regulations under this paragraph are subject to the affirmative procedure.
+
+### Consent of the devolved administrations
+
+**3** (1) The power of the Secretary of State to make regulations under this Schedule is subject to the consent requirement in Article 4A of the REACH Regulation.
+
+(2) Accordingly, in Article 4A(1) of the REACH Regulation, the reference to the REACH Regulation is to be read as including a reference to this Schedule.
+
+### Requests by devolved administrations for exercise of powers under this Schedule
+
+**4** The Secretary of State must consider any request made by a relevant devolved authority for the Secretary of State to make regulations under this Schedule.
+
+### Consultation
+
+**5** (1) Before making regulations under this Schedule the Secretary of State must consult—
+
+(a) the Agency,
+
+(b) any person nominated by a relevant devolved authority as a consultee for the consultation in question, and
+
+(c) such other persons the Secretary of State considers appropriate.
+
+(2) The nomination of a person as a consultee by a relevant devolved authority is to be made by that authority to the Secretary of State.
+
+(3) Before making regulations under paragraph 2 a relevant devolved authority must consult—
+
+(a) the Agency, and
+
+(b) such other persons that authority considers appropriate.
+
+### The protected provisions
+
+**6** In paragraph 1 “protected provision of the REACH Regulation” means any of the provisions of the REACH Regulation set out in the following Table—
+
+|  |
+|---|
+| ***Fundamental principles*** |
+| Article 1 (aim and scope of the REACH Regulation) |
+| Article 5 (the principle of “no data, no market”) |
+| Article 25(1) (animal testing as a last resort) |
+| Article 35 (access to information for workers) |
+| Article 45 (evaluation of substances on the rolling action plan) |
+| Article 48 (follow-up to substance evaluation) |
+| Article 55 (the aim of Title VII, which is about authorisation of substances) |
+| Article 67(1) (effect of restrictions contained in Annex XVII) |
+| Article 92 or 93 (appeals) |
+| Article 111, first subparagraph (formats and software for submission of information to the Agency) |
+| Article 123 (communication to the public of information on risks of substances) |
+| ***Role of the devolved administrations*** |
+| Article 4A (the consent requirement) |
+| Article 129(1) (the safeguard clause: basic principles) |
+| ***Transparency*** |
+| Article 54 (publication of information on evaluation) |
+| Article 64(6) (publication of Agency authorisation opinions) |
+| Article 72(2) (publication of Agency restriction opinions) |
+| Article 77(A4) (Agency to act in a way that ensures a high degree of transparency) and (2)(e) (database(s) of registered substances) |
+| Article 109 (general rules on transparency for the Agency) |
+| ***Collaboration between the Agency and other bodies*** |
+| Article 95 (conflicts of opinion with other bodies) |
+| Article 108 (contacts with stakeholder organisations) |
+| Article 110 (relations with relevant public bodies) |
+| ***Annexes*** |
+| The Annexes |
+
+### Other interpretation
+
+**7** In this Schedule—
+
+- “Agency” has the same meaning as in the REACH Regulation (see Article 2A of the Regulation);
+
+- “REACH Regulation” means Regulation (EC) No 1907/2006 of the European Parliament and of the Council concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), establishing a European Chemicals Agency;
+
+- “relevant devolved authority” means—
+
+  - the Scottish Ministers,
+  - the Welsh Ministers, or
+  - the Department of Agriculture, Environment and Rural Affairs or the Department for the Economy in Northern Ireland.
+
+---
+
+[^F1]: S. 23(6)(aa) inserted (28.2.2022) by Environment Act 2021 (c. 30), s. 147(6)(7), Sch. 3 para. 21(2)(a) (with s. 144); S.R. 2022/54, art. 2(1)(a)
+[^F2]: Words in s. 23(6)(b) inserted (28.2.2022) by Environment Act 2021 (c. 30), s. 147(6)(7), Sch. 3 para. 21(2)(b) (with s. 144); S.R. 2022/54, art. 2(1)(a)
+[^F3]: Word in s. 23(6)(d) omitted (28.2.2022) by virtue of Environment Act 2021 (c. 30), s. 147(6)(7), Sch. 3 para. 21(2)(c) (with s. 144); S.R. 2022/54, art. 2(1)(a)
+[^F4]: S. 23(6)(da) inserted (28.2.2022) by Environment Act 2021 (c. 30), s. 147(6)(7), Sch. 3 para. 21(2)(d) (with s. 144); S.R. 2022/54, art. 2(1)(a)
+[^F5]: Words in s. 23(7)(c) inserted (28.2.2022) by Environment Act 2021 (c. 30), s. 147(6)(7), Sch. 3 para. 21(3) (with s. 144); S.R. 2022/54, art. 2(1)(a)
+[^F6]: S. 23(7A) inserted (28.2.2022) by Environment Act 2021 (c. 30), s. 147(6)(7), Sch. 3 para. 21(4) (with s. 144); S.R. 2022/54, art. 2(1)(a)
+[^F7]: Words in s. 23(8) inserted (28.2.2022) by Environment Act 2021 (c. 30), s. 147(6)(7), Sch. 3 para. 21(5) (with s. 144); S.R. 2022/54, art. 2(1)(a)
+[^F8]: Words in s. 24(1)(a) inserted (28.2.2022) by Environment Act 2021 (c. 30), s. 147(6)(7), Sch. 3 para. 22 (with s. 144); S.R. 2022/54, art. 2(1)(a)
+[^F9]: Words in s. 25(1) inserted (28.2.2022) by Environment Act 2021 (c. 30), s. 147(6)(7), Sch. 3 para. 23(2) (with s. 144); S.R. 2022/54, art. 2(1)(a)
+[^F10]: Words in s. 25(2)(a) inserted (28.2.2022) by Environment Act 2021 (c. 30), s. 147(6)(7), Sch. 3 para. 23(3)(a) (with s. 144); S.R. 2022/54, art. 2(1)(a)
+[^F11]: Words in s. 25(2)(b) substituted (28.2.2022) by Environment Act 2021 (c. 30), s. 147(6)(7), Sch. 3 para. 23(3)(b) (with s. 144); S.R. 2022/54, art. 2(1)(a)
+[^F12]: Words in s. 25(3) substituted (28.2.2022) by Environment Act 2021 (c. 30), s. 147(6)(7), Sch. 3 para. 23(4) (with s. 144); S.R. 2022/54, art. 2(1)(a)
+[^F13]: S. 25A inserted (28.2.2022) by Environment Act 2021 (c. 30), s. 147(6)(7), Sch. 3 para. 24 (with s. 144); S.R. 2022/54, art. 2(1)(a)
+[^F14]: Words in s. 27(2)(d) substituted (28.2.2022) by Environment Act 2021 (c. 30), s. 147(6)(7), Sch. 3 para. 25(2)(a) (with s. 144); S.R. 2022/54, art. 2(1)(a)
+[^F15]: Words in s. 27(2)(f) substituted (28.2.2022) by Environment Act 2021 (c. 30), s. 147(6)(7), Sch. 3 para. 25(2)(b) (with s. 144); S.R. 2022/54, art. 2(1)(a)
+[^F16]: Words in s. 27(3) substituted (28.2.2022) by Environment Act 2021 (c. 30), s. 147(6)(7), Sch. 3 para. 25(3) (with s. 144); S.R. 2022/54, art. 2(1)(a)
+[^F17]: S. 27(3A) inserted (28.2.2022) by Environment Act 2021 (c. 30), s. 147(6)(7), Sch. 3 para. 25(4) (with s. 144); S.R. 2022/54, art. 2(1)(a)
+[^F18]: S. 37(6A)(6B) inserted (28.2.2022) by Environment Act 2021 (c. 30), s. 147(6)(7), Sch. 3 para. 26 (with s. 144); S.R. 2022/54, art. 2(1)(a)
+[^F19]: Words in s. 43(2)(b) inserted (28.2.2022) by Environment Act 2021 (c. 30), s. 147(6)(7), Sch. 3 para. 27(2)(a) (with s. 144); S.R. 2022/54, art. 2(1)(a)
+[^F20]: S. 43(2)(ca) inserted (28.2.2022) by Environment Act 2021 (c. 30), s. 147(6)(7), Sch. 3 para. 27(2)(b) (with s. 144); S.R. 2022/54, art. 2(1)(a)
+[^F21]: Words in s. 43(2)(d) inserted (28.2.2022) by Environment Act 2021 (c. 30), s. 147(6)(7), Sch. 3 para. 27(2)(c) (with s. 144); S.R. 2022/54, art. 2(1)(a)
+[^F22]: Words in s. 43(2)(e) inserted (28.2.2022) by Environment Act 2021 (c. 30), s. 147(6)(7), Sch. 3 para. 27(2)(d) (with s. 144); S.R. 2022/54, art. 2(1)(a)
+[^F23]: Words in s. 43(2)(h) inserted (28.2.2022) by Environment Act 2021 (c. 30), s. 147(6)(7), Sch. 3 para. 27(2)(e) (with s. 144); S.R. 2022/54, art. 2(1)(a)
+[^F24]: Words in s. 43(3)(a) substituted (28.2.2022) by Environment Act 2021 (c. 30), s. 147(6)(7), Sch. 3 para. 27(3) (with s. 144); S.R. 2022/54, art. 2(1)(a)
+[^F25]: Words in s. 43(4)(a)(i) substituted (28.2.2022) by Environment Act 2021 (c. 30), s. 147(6)(7), Sch. 3 para. 27(4)(a) (with s. 144); S.R. 2022/54, art. 2(1)(a)
+[^F26]: Words in s. 43(4)(b) inserted (28.2.2022) by Environment Act 2021 (c. 30), s. 147(6)(7), Sch. 3 para. 27(4)(b) (with s. 144); S.R. 2022/54, art. 2(1)(a)
+[^F27]: Words in s. 43(4)(d) inserted (28.2.2022) by Environment Act 2021 (c. 30), s. 147(6)(7), Sch. 3 para. 27(4)(c) (with s. 144); S.R. 2022/54, art. 2(1)(a)
+[^F28]: Words in s. 43(5) substituted (28.2.2022) by Environment Act 2021 (c. 30), s. 147(6)(7), Sch. 3 para. 27(5)(a) (with s. 144); S.R. 2022/54, art. 2(1)(a)
+[^F29]: Words in s. 43(5) inserted (28.2.2022) by Environment Act 2021 (c. 30), s. 147(6)(7), Sch. 3 para. 27(5)(b) (with s. 144); S.R. 2022/54, art. 2(1)(a)
+[^F30]: Words in s. 43(6) inserted (28.2.2022) by Environment Act 2021 (c. 30), s. 147(6)(7), Sch. 3 para. 27(6) (with s. 144); S.R. 2022/54, art. 2(1)(a)
+[^F31]: S. 47 renumbered as s. 47(1) (28.2.2022) by Environment Act 2021 (c. 30), s. 147(6)(7), Sch. 3 para. 28(2) (with s. 144); S.R. 2022/54, art. 2(1)(a)
+[^F32]: Words in s. 47(1) substituted (28.2.2022) by Environment Act 2021 (c. 30), s. 147(6)(7), Sch. 3 para. 28(3)(a)(i) (with s. 144); S.R. 2022/54, art. 2(1)(a)
+[^F33]: Words in s. 47(1) inserted (28.2.2022) by Environment Act 2021 (c. 30), s. 147(6)(7), Sch. 3 para. 28(3)(a)(ii) (with s. 144); S.R. 2022/54, art. 2(1)(a)
+[^F34]: Words in s. 47(1) inserted (28.2.2022) by Environment Act 2021 (c. 30), s. 147(6)(7), Sch. 3 para. 28(3)(b) (with s. 144); S.R. 2022/54, art. 2(1)(a)
+[^F35]: S. 47(2) inserted (28.2.2022) by Environment Act 2021 (c. 30), s. 147(6)(7), Sch. 3 para. 28(4) (with s. 144); S.R. 2022/54, art. 2(1)(a)
+[^F36]: Word in s. 142(7)(c) inserted (29.6.2023) by Retained EU Law (Revocation and Reform) Act 2023 (c. 28), s. 22(1)(d), Sch. 3 para. 7(a)
+[^F37]: S. 142(7)(e) and word omitted (29.6.2023) by virtue of Retained EU Law (Revocation and Reform) Act 2023 (c. 28), s. 22(1)(d), Sch. 3 para. 7(b)
+[^F38]: S. 147(4)(f) omitted (E.W.) (31.7.2025) by virtue of Environment (Air Quality and Soundscapes) (Wales) Act 2024 (asc 2), s. 30(3), Sch. 1 para. 23(a); S.I. 2025/937, art. 2(g)
+[^F39]: Sch. 1 para. 1(1)(aa) inserted (28.2.2022) by Environment Act 2021 (c. 30), s. 147(6)(7), Sch. 3 para. 29(2)(a) (with s. 144); S.R. 2022/54, art. 2(1)(a)
+[^F40]: Words in Sch. 1 para. 1(2) inserted (28.2.2022) by Environment Act 2021 (c. 30), s. 147(6)(7), Sch. 3 para. 29(2)(b) (with s. 144); S.R. 2022/54, art. 2(1)(a)
+[^F41]: Words in Sch. 1 para. 1(3) substituted (28.2.2022) by Environment Act 2021 (c. 30), s. 147(6)(7), Sch. 3 para. 29(2)(c)(i) (with s. 144); S.R. 2022/54, art. 2(1)(a)
+[^F42]: Words in Sch. 1 para. 1(3) inserted (28.2.2022) by Environment Act 2021 (c. 30), s. 147(6)(7), Sch. 3 para. 29(2)(c)(ii) (with s. 144); S.R. 2022/54, art. 2(1)(a)
+[^F43]: Sch. 1 para. 2(1)-(2B) substituted for Sch. 1 para. 2(1) (28.2.2022) by Environment Act 2021 (c. 30), s. 147(6)(7), Sch. 3 para. 29(3) (with s. 144); S.R. 2022/54, art. 2(1)(a)
+[^F44]: Words in Sch. 1 para. 3(3) inserted (28.2.2022) by Environment Act 2021 (c. 30), s. 147(6)(7), Sch. 3 para. 29(4) (with s. 144); S.R. 2022/54, art. 2(1)(a)
+[^F45]: Words in Sch. 1 para. 5(4) inserted (28.2.2022) by Environment Act 2021 (c. 30), s. 147(6)(7), Sch. 3 para. 29(5)(a) (with s. 144); S.R. 2022/54, art. 2(1)(a)
+[^F46]: Sch. 1 para. 5(4A) inserted (28.2.2022) by Environment Act 2021 (c. 30), s. 147(6)(7), Sch. 3 para. 29(5)(b) (with s. 144); S.R. 2022/54, art. 2(1)(a)
+[^F47]: Sch. 1 para. 5(6)-(8) substituted for Sch. 1 para. 5(6) (28.2.2022) by Environment Act 2021 (c. 30), s. 147(6)(7), Sch. 3 para. 29(5)(c) (with s. 144); S.R. 2022/54, art. 2(1)(a)
+[^F48]: Words in Sch. 1 para. 10(4)(b) inserted (28.2.2022) by Environment Act 2021 (c. 30), s. 147(6)(7), Sch. 3 para. 29(6)(a) (with s. 144); S.R. 2022/54, art. 2(1)(a)
+[^F49]: Words in Sch. 1 para. 10(4)(c) inserted (28.2.2022) by Environment Act 2021 (c. 30), s. 147(6)(7), Sch. 3 para. 29(6)(b) (with s. 144); S.R. 2022/54, art. 2(1)(a)
+[^F50]: Words in Sch. 1 para. 10(4)(d) inserted (28.2.2022) by Environment Act 2021 (c. 30), s. 147(6)(7), Sch. 3 para. 29(6)(c) (with s. 144); S.R. 2022/54, art. 2(1)(a)
+[^F51]: Words in Sch. 1 para. 10(4)(e) inserted (28.2.2022) by Environment Act 2021 (c. 30), s. 147(6)(7), Sch. 3 para. 29(6)(d) (with s. 144); S.R. 2022/54, art. 2(1)(a)
+[^F52]: Sch. 1 para. 10(4)(ga) inserted (28.2.2022) by Environment Act 2021 (c. 30), s. 147(6)(7), Sch. 3 para. 29(6)(e) (with s. 144); S.R. 2022/54, art. 2(1)(a)
+[^F53]: Words in Sch. 1 para. 12(1) inserted (28.2.2022) by Environment Act 2021 (c. 30), s. 147(6)(7), Sch. 3 para. 29(7)(a)(i) (with s. 144); S.R. 2022/54, art. 2(1)(a)
+[^F54]: Words in Sch. 1 para. 12(1) inserted (28.2.2022) by Environment Act 2021 (c. 30), s. 147(6)(7), Sch. 3 para. 29(7)(a)(ii) (with s. 144); S.R. 2022/54, art. 2(1)(a)
+[^F55]: Words in Sch. 1 para. 12(1) substituted (28.2.2022) by Environment Act 2021 (c. 30), s. 147(6)(7), Sch. 3 para. 29(7)(a)(iii) (with s. 144); S.R. 2022/54, art. 2(1)(a)
+[^F56]: Words in Sch. 1 para. 12(2) inserted (28.2.2022) by Environment Act 2021 (c. 30), s. 147(6)(7), Sch. 3 para. 29(7)(b)(i) (with s. 144); S.R. 2022/54, art. 2(1)(a)
+[^F57]: Words in Sch. 1 para. 12(2) inserted (28.2.2022) by Environment Act 2021 (c. 30), s. 147(6)(7), Sch. 3 para. 29(7)(b)(ii) (with s. 144); S.R. 2022/54, art. 2(1)(a)
+[^F58]: Words in Sch. 1 para. 13(2)(a) inserted (28.2.2022) by Environment Act 2021 (c. 30), s. 147(6)(7), Sch. 3 para. 29(8) (with s. 144); S.R. 2022/54, art. 2(1)(a)
+[^F59]: Words in Sch. 1 para. 14(3) inserted (28.2.2022) by Environment Act 2021 (c. 30), s. 147(6)(7), Sch. 3 para. 29(9)(a) (with s. 144); S.R. 2022/54, art. 2(1)(a)
+[^F60]: Words in Sch. 1 para. 14(4) inserted (28.2.2022) by Environment Act 2021 (c. 30), s. 147(6)(7), Sch. 3 para. 29(9)(b) (with s. 144); S.R. 2022/54, art. 2(1)(a)
+[^F61]: Words in Sch. 1 para. 14(5)(b) inserted (28.2.2022) by Environment Act 2021 (c. 30), s. 147(6)(7), Sch. 3 para. 29(9)(c) (with s. 144); S.R. 2022/54, art. 2(1)(a)
+[^F62]: Words in Sch. 1 para. 14(6) inserted (28.2.2022) by Environment Act 2021 (c. 30), s. 147(6)(7), Sch. 3 para. 29(9)(d) (with s. 144); S.R. 2022/54, art. 2(1)(a)
+[^F63]: Words in Sch. 1 para. 17 inserted (28.2.2022) by Environment Act 2021 (c. 30), s. 147(6)(7), Sch. 3 para. 29(10) (with s. 144); S.R. 2022/54, art. 2(1)(a)
+[^F64]: Sch. 1 para. 24 and cross-heading inserted (28.2.2022) by Environment Act 2021 (c. 30), s. 147(6)(7), Sch. 3 para. 29(11) (with s. 144); S.R. 2022/54, art. 2(1)(a)
+[^F65]: Words in Sch. 2 para. 3(4)(b) inserted (28.2.2022) by Environment Act 2021 (c. 30), s. 147(6)(7), Sch. 3 para. 30(2) (with s. 144); S.R. 2022/54, art. 2(1)(a)
+[^F66]: Words in Sch. 2 para. 4(4)(b) inserted (28.2.2022) by Environment Act 2021 (c. 30), s. 147(6)(7), Sch. 3 para. 30(3) (with s. 144); S.R. 2022/54, art. 2(1)(a)
+[^F67]: Words in Sch. 2 para. 11(1) inserted (28.2.2022) by Environment Act 2021 (c. 30), s. 147(6)(7), Sch. 3 para. 30(4) (with s. 144); S.R. 2022/54, art. 2(1)(a)
+[^F68]: Sch. 12 Pt. 2 repealed (31.7.2025) by Environment (Air Quality and Soundscapes) (Wales) Act 2024 (asc 2), s. 30(3), Sch. 1 para. 23(b); S.I. 2025/937, art. 2(g)
+[^F69]: Words in Sch. 21 para. 2(6)(b) substituted (28.4.2022) by The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500), regs. 1(2), 5(1), Sch. Pt. 1

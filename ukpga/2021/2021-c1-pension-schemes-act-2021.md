@@ -1,0 +1,10266 @@
+---
+title: "Pension Schemes Act 2021"
+identifier: "ukpga/2021/1"
+citation: "2021 c. 1"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S+N.I."
+date: 2021-02-11
+last_amended: 2026-07-31
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/2021/1"
+source_modified: 2026-09-07
+retrieved: 2026-10-11
+---
+
+# Pension Schemes Act 2021
+
+**2021 c. 1**
+
+An Act to make provision about pension schemes.
+
+[11th February 2021]
+
+Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## PART 1 — Collective money purchase benefits
+
+### Definitions
+
+#### 1 Collective money purchase benefits and schemes
+
+(1) For the purposes of this Part, a benefit provided under a pension scheme is a “collective money purchase benefit” if—
+
+(a) the benefit is a qualifying benefit (see section 2), and
+
+(b) the scheme is a qualifying scheme (see sections 3 and 4).
+
+(2) In this Part “collective money purchase scheme” means—
+
+(a) a qualifying scheme, or
+
+(b) a section of a qualifying scheme (see sections 3(6) to (9) and 5),
+
+under which all of the benefits that may be provided are qualifying benefits.
+
+[[^F1](3) In this Part—
+
+- “single or connected employer scheme” means a collective money purchase scheme not used, or intended to be used, by any employers other than—
+
+  - a single employer, or
+  - two or more employers that are connected with each other;
+
+- “unconnected multiple employer scheme” means a collective money purchase scheme used, or intended to be used, by two or more employers, some or all of which are not connected with each other.]
+
+#### 2 Qualifying benefits
+
+(1) A benefit provided under a pension scheme is a “qualifying benefit” if—
+
+(a) the benefit is provided out of the available assets of the scheme,
+
+(b) under the rules of the scheme, the rate or amount of the benefit is subject to periodic adjustments designed to achieve a balance between the value of the available assets of the scheme and the required amount, and
+
+(c) the benefit is not of a description specified in regulations made by the Secretary of State.
+
+(2) In subsection (1)—
+
+- “the available assets of the scheme” means all the assets that—
+
+  - (a) arise or derive from the payments made by or in respect of members of the scheme, and
+  - (b) are available (subject to any deductions that fall to be made in respect of administration charges) for the provision of benefits to or in respect of the members of the scheme collectively;
+
+- “the required amount” means the amount expected to be required, applying appropriate actuarial assumptions, for the purpose of providing benefits under the scheme to or in respect of the members of the scheme collectively.
+
+(3) Regulations under subsection (1)(c) are subject to affirmative resolution procedure.
+
+(4) Where a scheme is divided into sections, this section has effect as if—
+
+(a) the reference to the scheme in subsection (1)(a) were a reference to a section of the scheme, and
+
+(b) the other references to the scheme were references to that section of it.m,.
+
+#### 3 Qualifying schemes
+
+(1) A pension scheme is a “qualifying scheme” if it meets the requirements in this section.
+
+(2) The scheme must be an occupational pension scheme established under an irrevocable trust [^F2]....
+
+[^F3]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) The scheme must not be a relevant public service pension scheme (see section 4).
+
+(5) The qualifying benefits provided under the scheme must consist of or include the payment of a pension.
+
+(6) If the scheme provides both qualifying benefits and other benefits, there must be appropriate separation of the qualifying benefits.
+
+(7) There is “appropriate separation” of qualifying benefits and other benefits if (and only if)—
+
+(a) the scheme is divided into sections,
+
+(b) none of the sections under which qualifying benefits are provided provides other types of benefit,
+
+(c) payments made by or in respect of members of the scheme for the purpose of providing qualifying benefits under a section of the scheme are allocated to that section, and
+
+(d) a proportion of the assets of the scheme is attributable to each section of the scheme and cannot be used for the purposes of any other section.
+
+(8) If the scheme provides a combination of qualifying benefits with different characteristics that is described in regulations made by the Secretary of State, there must be appropriate separation of those qualifying benefits.
+
+(9) There is “appropriate separation” of qualifying benefits with different characteristics if (and only if)—
+
+(a) the scheme is divided into sections,
+
+(b) each of the different types of qualifying benefit is provided under a different section,
+
+(c) payments made by or in respect of members of the scheme for the purpose of providing qualifying benefits under a section of the scheme are allocated to that section, and
+
+(d) a proportion of the assets of the scheme is attributable to each section of the scheme and cannot be used for the purposes of any other section.
+
+(10) Regulations under subsection (8) are subject to negative resolution procedure.
+
+#### 4 Qualifying schemes: supplementary
+
+(1) For the purposes of section 3(4) a pension scheme is a relevant public service pension scheme if it is—
+
+(a) a public service pension scheme within the meaning of the Pension Schemes Act 1993 (see section 1(1) of that Act),
+
+(b) a scheme under section 1 of the Public Service Pensions Act 2013 (new public service schemes),
+
+(c) a new public body pension scheme as defined in section 30 of that Act, or
+
+(d) a statutory pension scheme that is connected with a scheme referred to in paragraph (b) or (c).
+
+(2) In subsection (1)(d) “connected” and “statutory pension scheme” have the same meaning as in the Public Service Pensions Act 2013 (see sections 4(6) and 37 of that Act).
+
+(3) The reference to a pension in section 3(5) does not include income withdrawal or dependants' income withdrawal within the meaning of paragraphs 7 and 21 of Schedule 28 to the Finance Act 2004.
+
+#### 5 Schemes divided into sections
+
+(1) The Secretary of State may by regulations make provision about when a pension scheme is or is not divided into sections for the purposes of this Part.
+
+(2) The Secretary of State may by regulations provide that, where a collective money purchase scheme that is not divided into sections (an “undivided scheme”) becomes a collective money purchase scheme that is divided into sections, an authorisation previously granted in respect of the undivided scheme applies to any of those sections that—
+
+(a) is a collective money purchase scheme by reason of section 1(2)(b), and
+
+(b) satisfies conditions specified in the regulations.
+
+(3) For the purposes of this Part, where—
+
+(a) a qualifying scheme is divided into sections, and
+
+(b) each of those sections is a collective money purchase scheme by reason of section 1(2)(b),
+
+the qualifying scheme (taken as a whole) is to be treated as if it were not a collective money purchase scheme.
+
+(4) Regulations under subsection (1) are subject to negative resolution procedure.
+
+(5) Regulations under subsection (2) are subject to affirmative resolution procedure.
+
+#### 6 Amendment of definitions of “money purchase benefits” etc
+
+(1) Schedule 1 contains amendments of definitions of “money purchase benefits” in—
+
+(a) Schedule 10A to the Building Societies Act 1986 (disclosures about directors, other officers and employees in notes to accounts);
+
+(b) the Pension Schemes Act 1993;
+
+(c) Part 1 of the Pensions Act 2008 (pension scheme membership for jobholders).
+
+(2) In section 32 of the Pensions Act 2011 (power to amend definitions of “money purchase benefits” in certain Acts)—
+
+(a) in subsection (1)—
+
+(i) for “purpose the” substitute
+
+> purpose—
+>
+> (a) the
+
+;
+
+(ii) at the end insert
+
+> , or
+>
+> (b) section 2 of the Pension Schemes Act 2021 (collective money purchase benefits: meaning of “qualifying benefits”).
+
+;
+
+(b) in subsection (2), at the end insert “ or by Schedule 1 to the Pension Schemes Act 2021 ”.
+
+### Authorisation
+
+#### 7 Authorisation of collective money purchase schemes
+
+(1) A person may not operate a collective money purchase scheme unless the scheme is authorised.
+
+(2) Section 10 of the Pensions Act 1995 (civil penalties) applies to a person who breaches subsection (1).
+
+(3) If the Pensions Regulator becomes aware that a collective money purchase scheme is being operated without authorisation, it must notify the trustees of the scheme that the scheme is not authorised.
+
+(4) The notification must—
+
+(a) explain that the notification is a triggering event (see section 31), and
+
+(b) include an explanation of the trustees' duties under sections 31 to 45.
+
+(5) For the purposes of this section a person “operates” a collective money purchase scheme if, in relation to the scheme, the person accepts—
+
+(a) money paid by a member (or prospective member), or
+
+(b) money paid by an employer (or prospective employer) in respect of contributions, fees, charges or anything else except—
+
+(i) the costs of setting up the scheme, or
+
+(ii) costs relating to obtaining authorisation for the scheme.
+
+#### 8 Application for authorisation
+
+(1) The trustees of a collective money purchase scheme may apply to the Pensions Regulator for authorisation.
+
+(2) An application must be made in the manner and form specified by the Pensions Regulator.
+
+(3) An application must include—
+
+(a) the scheme's viability report and viability certificate (see section 13), [^F4]...
+
+[[^F5](aa) where the scheme is an unconnected multiple employer scheme—
+
+(i) the scheme’s business plan (see section 14A),
+
+(ii) the scheme’s latest accounts (if any),
+
+(iii) the latest accounts (if any) of the scheme proprietor (see section 14B), prepared and audited as individual accounts in accordance with the applicable requirements, and
+
+(iv) the latest accounts of any undertaking, other than an unincorporated association, that partly or wholly funds the scheme proprietor, prepared and audited as individual accounts in accordance with the applicable requirements, and]
+
+(b) the scheme's continuity strategy (see section 17).
+
+[[^F6](3A) For the purposes of subsection (3)(aa)(iii) and (iv) accounts of a scheme proprietor or (as the case may be) an undertaking are prepared and audited as individual accounts in accordance with the applicable requirements if the accounts are prepared and audited in accordance with the requirements of the law by which the scheme proprietor or the undertaking is governed, ignoring any provision of that law—
+
+(a) that relates to the preparation or audit of group accounts;
+
+(b) that provides for accounts to be prepared or audited differently (or not at all) if the scheme proprietor or the undertaking—
+
+(i) does not exceed a certain size (by reference to turnover, balance sheet total, number of employees or otherwise), or
+
+(ii) is a subsidiary of another entity.]
+
+[[^F6](3B) If (notwithstanding subsection (3A)(a) and (b)) the law by which a scheme proprietor or undertaking is governed does not impose any requirements in relation to the preparation of the accounts of the scheme proprietor or undertaking, or the audit of those accounts, subsection (3A) is to apply as if the scheme proprietor or undertaking were subject to the requirements of Part 15 (accounts), or (as the case may be) Part 16 (audit), of the Companies Act 2006 with any modifications necessary to take account of the nature and structure of the scheme proprietor or undertaking (and ignoring any provision of that Act that falls within subsection (3A)(a) or (b)).]
+
+[[^F6](3C) In subsection (3A)(a) “group accounts” means accounts prepared under—
+
+(a) section 399 of the Companies Act 2006, or
+
+(b) any corresponding or similar provision (including a provision of the law of a territory outside the United Kingdom).]
+
+(4) The Secretary of State may by regulations—
+
+(a) specify other information that must be included in an application;
+
+(b) require a fee to be paid to the Pensions Regulator in respect of an application.
+
+(5) In considering an application, the Pensions Regulator may take into account any matters it considers appropriate, including—
+
+(a) additional information provided by the applicant, and
+
+(b) subsequent changes to the application or to any information provided by the applicant.
+
+(6) Regulations under subsection (4) are subject to negative resolution procedure.
+
+#### 9 Decision on application
+
+(1) Where an application is made for authorisation of a collective money purchase scheme under section 8, the Pensions Regulator must decide whether it is satisfied that the scheme meets the authorisation criteria.
+
+(2) The Pensions Regulator must make that decision within the period of six months beginning with the day on which the Pensions Regulator received the application.
+
+(3) The authorisation criteria are—
+
+(a) that the persons involved in the scheme are fit and proper persons (see section 11),
+
+(b) that the design of the scheme is sound (see section 12),
+
+(c) that the scheme is financially sustainable (see section 14),
+
+[[^F7](ca) where the scheme is an unconnected multiple employer scheme, that—
+
+(i) the scheme has a single scheme proprietor (see section 14B), and
+
+(ii) the scheme proprietor meets the requirements set out in section 14C,]
+
+[[^F7](cb) where the scheme is an unconnected multiple employer scheme, that—
+
+(i) no person has carried out promotion or marketing of the scheme that is unclear or misleading without rectification (see section 14D(1)), and
+
+(ii) the scheme has adequate systems and processes for securing that promotion or marketing of the scheme is clear and not misleading (see section 14D(2) and (3)),]
+
+[[^F7](cc) where the scheme is an unconnected multiple employer scheme, that no trustee of the scheme—
+
+(i) promotes or markets the scheme, or
+
+(ii) acts as a chief financial officer of the scheme,]
+
+(d) that the scheme has adequate systems and processes for communicating with members and others (see section 15),
+
+(e) that the systems and processes used in running the scheme are sufficient to ensure that it is run effectively (see section 16), [^F8]...
+
+(f) that the scheme has an adequate continuity strategy (see section 17) [[^F9], and]
+
+[[^F10](g) where the scheme is an unconnected multiple employer scheme, that if—
+
+(i) a triggering event occurs in relation to the scheme, and
+
+(ii) the circumstances are such that the trustees of the scheme are not required to pursue continuity option 1 by virtue of section 34(3),
+
+the trustees will not be prevented from pursuing continuity option 3 if they consider it appropriate to do so (see sections 17A, 31 and 34).]
+
+[[^F11](3A) Subsection (3)(cb)(ii) does not apply if no person is carrying out promotion or marketing of the scheme.]
+
+(4) If the Pensions Regulator is satisfied that the collective money purchase scheme meets the authorisation criteria, it must—
+
+(a) grant the authorisation,
+
+(b) notify the applicant of its decision, and
+
+(c) add the scheme to its list of authorised collective money purchase schemes (see section 26).
+
+(5) If the Pensions Regulator is not satisfied that the collective money purchase scheme meets the authorisation criteria, it must—
+
+(a) refuse to grant the authorisation, and
+
+(b) notify the applicant of its decision.
+
+(6) A notification under subsection (5)(b) must also include—
+
+(a) the reasons for the decision, and
+
+(b) details of the right of referral to the First-tier Tribunal or Upper Tribunal (see section 10).
+
+[[^F12](7) In this Part—
+
+- “promotion or marketing” of a scheme means any communication about the scheme for the purpose of inducing an employer (or prospective employer) to use, or continue to use, the scheme (whether or not that communication is accompanied by an offer of, or provision of, a benefit);
+- “rectification”, in relation to promotion or marketing that is unclear or misleading, means that a clarification or correction is made in relation to the promotion or marketing as soon as practicable,
+
+(and related expressions are to be read accordingly).]
+
+#### 9A [[^F13]Commencement of operation of an unconnected multiple employer scheme
+
+(1) Where the Pensions Regulator grants authorisation to an unconnected multiple employer scheme, but no person has operated the scheme within the commencement period—
+
+(a) the scheme’s authorisation is withdrawn, and
+
+(b) the Pensions Regulator must—
+
+(i) notify the trustees that the scheme is no longer authorised, and
+
+(ii) remove the scheme from the list of authorised collective money purchase schemes (see section 26).
+
+(2) The commencement period, in relation to a scheme, is the period of 24 months beginning with the day on which the Pensions Regulator received the application for authorisation of the scheme.
+
+(3) But if, before the end of that 24-month period, the trustees of the scheme satisfy the Pensions Regulator that they have good reason for needing an extension to the period, the Regulator may extend the commencement period by up to six weeks.
+
+(4) A notification to the trustees of an unconnected multiple employer scheme under section 9(4)(b) must state—
+
+(a) the date on which the commencement period ends, and
+
+(b) that if no person has operated the scheme by that date, the authorisation will be withdrawn.
+
+(5) If no person has operated an authorised unconnected multiple employer scheme before the beginning of the period of three months ending with the date on which the commencement period ends, the Pensions Regulator must send a second notification to the trustees of the scheme stating the matters specified in subsection (4)(a) and (b).
+
+(6) Section 7(5) (meaning of “operates”) applies for the purposes of this section.]
+
+#### 10 Reference to Tribunal of refusal to grant authorisation
+
+(1) If the Pensions Regulator refuses to grant authorisation to a collective money purchase scheme, the decision may be referred to the Tribunal by—
+
+(a) the trustees, or
+
+(b) any other person who appears to the Tribunal to be directly affected by the decision.
+
+(2) In this section “the Tribunal”, in relation to a reference under subsection (1), means—
+
+(a) the First-tier Tribunal, in any case where it is determined by or under Tribunal Procedure Rules that the First-tier Tribunal is to hear the reference;
+
+(b) the Upper Tribunal, in any other case.
+
+### Authorisation criteria
+
+#### 11 Fit and proper persons requirement
+
+(1) This section applies for the purposes of enabling the Pensions Regulator to decide whether it is satisfied that the persons involved in a collective money purchase scheme are fit and proper persons (see section 9(3)(a)).
+
+(2) The Pensions Regulator must assess whether each of the following is a fit and proper person to act in relation to the scheme in the capacity mentioned—
+
+(a) a person who establishes the scheme;
+
+(b) a trustee;
+
+[[^F14](ba) where the scheme is an unconnected multiple employer scheme, the scheme proprietor (see section 14B);
+
+(bb) where the scheme is an unconnected multiple employer scheme, a person who promotes or markets the scheme;
+
+(bc) where the scheme is an unconnected multiple employer scheme, a chief financial officer of the scheme;
+
+(bd) where the scheme is an unconnected multiple employer scheme, a chief investment officer of the scheme;]
+
+(c) a person who (alone or with others) has power to appoint or remove a trustee;
+
+(d) a person who (alone or with others) has power to vary the provisions of the scheme;
+
+(e) a person acting in a capacity specified in regulations made by the Secretary of State.
+
+(3) In assessing whether a person is a fit and proper person to act in a particular capacity, the Pensions Regulator—
+
+(a) must take into account any matters specified in regulations made by the Secretary of State, and
+
+(b) may take into account such other matters as it considers appropriate, including matters relating to a person connected with that person.
+
+(4) Regulations under subsection (3)(a) may include provision requiring specified information to be provided to the Pensions Regulator.
+
+(5) For the purposes of this section, a person (“A”) is connected with another person (“B”) if—
+
+(a) A is an associate of B;
+
+(b) where B is a company, A is a director or shadow director of B or an associate of a director or shadow director of B;
+
+(c) A is a trustee of an occupational pension scheme established under a trust and—
+
+(i) the beneficiaries of the trust include B or an associate of B, or
+
+(ii) the provisions of the scheme confer a power that may be exercised for the benefit of B or an associate of B.
+
+(6) In this section—
+
+- “associate” has the meaning given in section 435 of the Insolvency Act 1986;
+- “director” and “shadow director” have the meaning given in section 251 of that Act.
+
+(7) Regulations under subsection (3)(a) are subject to affirmative resolution procedure.
+
+(8) Regulations under subsection (2)(e) are subject to negative resolution procedure.
+
+#### 12 Scheme design requirement
+
+(1) This section applies for the purposes of enabling the Pensions Regulator to decide whether it is satisfied that the design of a collective money purchase scheme is sound (see section 9(3)(b)).
+
+(2) In deciding whether the design of a collective money purchase scheme is sound, the Pensions Regulator must take into account—
+
+(a) the scheme's viability report and viability certificate (see section 13);
+
+(b) any matters specified in regulations made by the Secretary of State.
+
+(3) Regulations under subsection (2)(b) may include provision requiring specified information to be provided to the Pensions Regulator.
+
+(4) Regulations under subsection (2)(b) are subject to affirmative resolution procedure.
+
+#### 13 Viability report
+
+(1) The trustees of a collective money purchase scheme must—
+
+(a) prepare a document explaining the design of the scheme and the reasons that they consider the design to be sound (a “viability report”), and
+
+(b) obtain a certificate from the scheme actuary certifying that, in the actuary's opinion, the design of the scheme is sound (a “viability certificate”).
+
+(2) The scheme actuary may not give a viability certificate unless satisfied that the scheme has rules that meet the requirements of section 18 and any regulations under that section.
+
+(3) The Secretary of State may by regulations—
+
+(a) specify information that must be included in a viability report,
+
+(b) specify other requirements with which a viability report must comply,
+
+(c) make provision about the content of a viability certificate,
+
+(d) specify matters to which the scheme actuary must have regard when providing a viability certificate, and
+
+(e) make provision about additional information or documents that must be prepared or obtained in connection with a viability report.
+
+(4) The trustees of a collective money purchase scheme must, at least once a year—
+
+(a) review the most recent viability report,
+
+(b) if appropriate, revise it, and
+
+(c) obtain a new viability certificate in respect of the report (or revised report).
+
+(5) If the most recent viability report becomes inaccurate or incomplete to any significant extent, the trustees must—
+
+(a) revise the report, and
+
+(b) obtain a new viability certificate in respect of the revised report.
+
+(6) The trustees must provide the Pensions Regulator with the information and documents listed in subsection (7)—
+
+(a) on applying for authorisation (see section 8),
+
+(b) within three months of the viability report being revised, and
+
+(c) at any other time, on request from the Pensions Regulator.
+
+(7) The information and documents to be provided are—
+
+(a) the most recent viability report;
+
+(b) the most recent viability certificate;
+
+(c) any additional information or documents specified or described in regulations under subsection (3)(e).
+
+[[^F15](7A) Before providing a viability report to the Pensions Regulator in accordance with subsection (6)(a) the trustees of an unconnected multiple employer scheme must obtain the approval of the report by the scheme proprietor (see section 14B).]
+
+[[^F15](7B) The trustees of an unconnected multiple employer scheme must provide the scheme proprietor with any revised viability report—
+
+(a) within seven days of the viability report being revised, and
+
+(b) at any other time, on request from the scheme proprietor.]
+
+(8) Regulations under subsection (3) are subject to affirmative resolution procedure.
+
+#### 14 Financial sustainability requirement
+
+(1) This section applies for the purposes of enabling the Pensions Regulator to decide whether it is satisfied that a collective money purchase scheme is financially sustainable (see section 9(3)(c)).
+
+(2) In order to be satisfied that a collective money purchase scheme is financially sustainable, the Pensions Regulator must be satisfied that the scheme has sufficient financial resources to meet the following costs—
+
+(a) the costs of setting up and running the scheme, and
+
+(b) in the event of a triggering event occurring—
+
+(i) the costs of complying with the duties under sections 31 to 45, and
+
+(ii) the costs of continuing to run the scheme for such period (which must be at least six months and no more than two years) as the Pensions Regulator thinks appropriate for the scheme.
+
+(3) In deciding whether it is satisfied that a scheme has sufficient financial resources to meet the costs mentioned in subsection (2), the Pensions Regulator must take into account any matters specified in regulations made by the Secretary of State.
+
+[[^F16](3A) In deciding whether it is satisfied that an unconnected multiple employer scheme has sufficient financial resources to meet the costs mentioned in subsection (2), the Pensions Regulator must also take into account—
+
+(a) the liability of the scheme proprietor to provide funds to or in respect of the scheme for the purposes of meeting those costs (see section 14B), and
+
+(b) the financial resources of the scheme proprietor.]
+
+[[^F16](3B) In order to be satisfied that an unconnected multiple employer scheme is financially sustainable, the Pensions Regulator must also be satisfied that the business strategy relating to the scheme is sound.]
+
+[[^F16](3C) In deciding whether it is satisfied that the business strategy relating to an unconnected multiple employer scheme is sound, the Pensions Regulator—
+
+(a) must take into account—
+
+(i) the scheme’s business plan, and any supporting information and documents (see section 14A);
+
+(ii) the information and matters specified in Parts 1 and 2 of Schedule 1A;
+
+(iii) any additional information or documents specified in a Code for the purposes of this paragraph, and
+
+(b) may take into account the information specified in Part 3 of Schedule 1A.]
+
+(4) Regulations under subsection (3) may include provision—
+
+(a) requiring specified information to be provided to the Pensions Regulator [[^F17](including information about the financial resources of the scheme proprietor)];
+
+(b) specifying requirements to be met by the scheme relating to its financing, such as requirements relating to assets, capital or liquidity.
+
+(5) Regulations under subsection (3) are subject to affirmative resolution procedure.
+
+#### 14A [[^F18]Unconnected multiple employer schemes: financial sustainability requirement - business plan
+
+(1) The scheme proprietor of an unconnected multiple employer scheme must prepare a business plan for the scheme.
+
+(2) A business plan must—
+
+(a) include the information specified in Part 1 of Schedule 1B, and any other information set out in a Code for the purposes of this paragraph, unless Part 2 of that Schedule provides otherwise, and
+
+(b) comply with the requirements specified in Part 2 of Schedule 1B, and any other requirements set out in a Code in relation to the information to be included in a business plan.
+
+(3) The scheme proprietor must, at least once a year—
+
+(a) review the most recent business plan, and
+
+(b) if appropriate, revise it within three months of the scheme proprietor concluding that it is appropriate to revise the plan.
+
+(4) The scheme proprietor must revise the most recent business plan at any time if—
+
+(a) there is any significant change to the information included in it, or
+
+(b) a triggering event (see section 31) has reduced the value of the financial resources of the scheme.
+
+(5) The business plan, and any revised business plan, must be approved by the trustees of the scheme.
+
+(6) The scheme proprietor or the trustees must provide the Pensions Regulator with the most recent business plan, and any supporting information or documents required by the Regulator—
+
+(a) on application for authorisation (see section 8),
+
+(b) where a revision is required as a result of a review under subsection (3), on completion of the revision,
+
+(c) where a revision is required under subsection (4), within three months of the plan being revised, and
+
+(d) at any other time, on request from the Pensions Regulator.]
+
+#### 14B [[^F18]Unconnected multiple employer schemes: scheme proprietor
+
+(1) An unconnected multiple employer scheme has a single scheme proprietor (see section 9(3)(ca)(i)) if there is a person, but no more than one person, who meets all the criteria in subsection (2) in relation to the scheme.
+
+(2) The criteria are—
+
+(a) if the Pensions Regulator is considering an application for authorisation in relation to the scheme, that the person is liable to provide funds to or in respect of the scheme for the purposes of meeting—
+
+(i) some or all of the costs of setting up the scheme, and
+
+(ii) some or all of the costs relating to obtaining authorisation of the scheme,
+
+(b) that the person is liable to provide funds to or in respect of the scheme in circumstances where administration charges received from or in respect of members are not sufficient to cover the balance (if any) of the costs of setting up, and obtaining authorisation of, the scheme, and the costs of running it,
+
+(c) that the person is liable, in the event of a triggering event occurring in relation to the scheme, to provide funds to or in respect of the scheme for the purposes of meeting—
+
+(i) the costs of complying with the duties under sections 31 to 45 (see section 14(2)(b)(i)), and
+
+(ii) the costs of continuing to run the scheme for such period (which must be at least six months and no more than two years) as the Pensions Regulator thinks appropriate for the scheme (see section 14(2)(b)(ii)), and
+
+(d) that the person is responsible for making business decisions relating to the commercial activities of the scheme.
+
+(3) In this Part, “the scheme proprietor”, in relation to a scheme, means the person who meets all the criteria in subsection (2).]
+
+#### 14C [[^F18]Unconnected multiple employer schemes: scheme proprietor requirements
+
+(1) This section makes provision about the requirements that the scheme proprietor of an unconnected multiple employer scheme must meet in order for the scheme to meet the authorisation criterion mentioned in section 9(3)(ca)(ii).
+
+(2) The first requirement is that the scheme proprietor is a body corporate or a partnership that is a legal person under the law by which it is governed.
+
+(3) The second requirement is that the scheme proprietor is not a trustee of the scheme.
+
+(4) The third requirement is that the scheme proprietor had accounts prepared and audited as individual accounts in accordance with the applicable requirements at the time when it entered into the relationship or arrangement with the scheme by virtue of which it is the scheme proprietor.
+
+(5) The scheme proprietor is excepted from the third requirement if—
+
+(a) the scheme proprietor has deposited a proportion, set out in a Code, of the assets required to meet the costs mentioned in section 14(2) in a separate account in the name of the trustees with a deposit taker as defined in section 49(8A) of the Pensions Act 1995 (other responsibilities of trustees, etc.), or
+
+(b) the Pensions Regulator grants an exception from the requirement.
+
+(6) A scheme proprietor ceases to be excepted from the third requirement—
+
+(a) by virtue of subsection (5)(a), if any of the proportion of the assets referred to in that subsection is withdrawn from the account referred to in that subsection before the date on which the scheme proprietor provides accounts to the Pensions Regulator under this Part, or
+
+(b) by virtue of subsection (5)(b), if the Pensions Regulator withdraws an exception granted under that subsection.
+
+(7) The Pensions Regulator may only withdraw an exception under subsection (6)(b) if—
+
+(a) the Regulator has notified the scheme proprietor of its intention to withdraw the exception before the beginning of the period of two weeks ending with the day on which the exception is to be withdrawn (the “withdrawal day”), and
+
+(b) the scheme proprietor has not, by the withdrawal day, provided accounts to the Regulator under this Part.
+
+(8) In this section “body corporate” has the meaning given in section 1173(1) of the Companies Act 2006.
+
+(9) Subsections (3A) to (3C) of section 8 (where accounts are prepared and audited as individual accounts in accordance with the applicable requirements) apply for the purposes of this section.]
+
+#### 14D [[^F18]Unconnected multiple employer schemes: promotion or marketing requirement
+
+(1) Part 1 of Schedule 1C sets out the matters that the Pensions Regulator must take into account in deciding whether it is satisfied that no person has carried out promotion or marketing of an unconnected multiple employer scheme that is unclear or misleading without rectification (see section 9(3)(cb)(i)).
+
+(2) Part 2 of Schedule 1C sets out the matters that the Pensions Regulator must take into account in deciding whether it is satisfied that the scheme has adequate systems and processes for securing that promotion or marketing of the scheme is clear and not misleading (see section 9(3)(cb)(ii)).
+
+(3) In deciding whether it is satisfied that an unconnected multiple employer scheme has adequate systems and processes for securing that promotion or marketing of the scheme is clear and not misleading, the Pensions Regulator may take into account whether any promotion or marketing of the scheme has been unclear or misleading (whether or not it has been rectified).]
+
+#### 15 Communication requirement
+
+(1) This section applies for the purposes of enabling the Pensions Regulator to decide whether it is satisfied that a collective money purchase scheme has adequate systems and processes for communicating with members and others (see section 9(3)(d)).
+
+(2) In order to be satisfied that a scheme has adequate systems and processes for communicating with members and others, the Pensions Regulator must be satisfied that the scheme has adequate systems and processes—
+
+(a) for providing information in relation to the scheme to persons falling within subsection (3);
+
+(b) for securing that information provided to those persons is correct and is not misleading.
+
+(3) A person falls within this subsection if the person is—
+
+(a) a member or prospective member of the scheme, or
+
+(b) a person who has survived a member of the scheme and has an entitlement to benefits, or a right to future benefits, under the scheme rules in respect of the member.
+
+(4) In making the decision, the Pensions Regulator—
+
+(a) must take into account any matters specified in regulations made by the Secretary of State, and
+
+(b) may take into account any communications made using the systems and processes referred to in subsection (2).
+
+(5) Regulations under subsection (4)(a) may among other things—
+
+(a) make provision about systems and processes used for assessing and improving the effectiveness of communications;
+
+(b) make provision requiring specified information to be provided to the Pensions Regulator.
+
+(6) Regulations under subsection (4)(a) are subject to affirmative resolution procedure.
+
+#### 16 Systems and processes requirements
+
+(1) This section applies for the purposes of enabling the Pensions Regulator to decide whether it is satisfied that the systems and processes used in running a collective money purchase scheme are sufficient to ensure that it is run effectively (see section 9(3)(e)).
+
+(2) In deciding whether it is satisfied that the systems and processes used in running the scheme are sufficient for that purpose, the Pensions Regulator must take into account any matters specified in regulations made by the Secretary of State.
+
+(3) Regulations under subsection (2) may among other things—
+
+(a) make provision about the matters set out in subsection (4);
+
+(b) require specified information to be provided to the Pensions Regulator.
+
+(4) The matters referred to in subsection (3)(a) are—
+
+(a) features and functionality required of the IT systems used in running the scheme;
+
+(b) standards that those IT systems must meet (for example, in relation to quality and in relation to security of data);
+
+(c) the maintenance of those IT systems;
+
+(d) records management, risk management and resource planning;
+
+(e) processes relating to transactions and investment decisions;
+
+(f) processes relating to the appointment and removal of trustees;
+
+(g) processes relating to the professional development of trustees;
+
+(h) processes relating to the appointment, removal, roles and responsibilities of—
+
+(i) persons, other than the trustees, involved in running the scheme, and
+
+(ii) persons involved in providing services in relation to the scheme.
+
+(5) Regulations under subsection (2) are subject to affirmative resolution procedure.
+
+#### 17 Continuity strategy requirement
+
+(1) This section applies for the purposes of enabling the Pensions Regulator to decide whether it is satisfied that a collective money purchase scheme has an adequate continuity strategy (see section 9(3)(f)).
+
+[[^F19](2) A document addressing how the interests of members of the scheme are to be protected if a triggering event (see section 31) occurs in relation to the scheme (a “continuity strategy”) must be prepared by—
+
+(a) where the scheme is a single or connected employer scheme, the trustees of the scheme;
+
+(b) where the scheme is an unconnected multiple employer scheme, the scheme proprietor.]
+
+(3) A continuity strategy must include a section setting out the levels of administration charges that apply in relation to members of the scheme.
+
+(4) It must set out those levels of charges in the manner specified in regulations made by the Secretary of State.
+
+(5) A continuity strategy must—
+
+(a) contain such other information as may be specified in regulations made by the Secretary of State, and
+
+(b) be prepared in accordance with regulations made by the Secretary of State.
+
+(6) The trustees of a [[^F20]single or connected employer scheme] must—
+
+(a) keep the continuity strategy under review, and
+
+(b) revise it if appropriate.
+
+[[^F21](6A) The scheme proprietor of an unconnected multiple employer scheme must—
+
+(a) keep the continuity strategy under review, and
+
+(b) revise it if appropriate.]
+
+[[^F21](6B) The continuity strategy of an unconnected multiple employer scheme, and any revisions to it, must be approved by the trustees of the scheme.]
+
+[[^F22](7) The continuity strategy must be provided to the Pensions Regulator in accordance with subsection (7A)—
+
+(a) where the scheme is a single or connected employer scheme, by the trustees;
+
+(b) where the scheme is an unconnected multiple employer scheme, by the scheme proprietor.
+
+(7A) The continuity strategy must be provided—
+
+(a) on application for authorisation (see section 8),
+
+(b) within three months of the continuity strategy being revised, and
+
+(c) at any other time, on request from the Pensions Regulator.]
+
+(8) In deciding whether a continuity strategy is adequate, the Pensions Regulator must take into account any matters specified in regulations made by the Secretary of State.
+
+(9) Regulations under subsection (8) may include provision requiring specified information to be provided to the Pensions Regulator.
+
+(10) Regulations under this section are subject to affirmative resolution procedure.
+
+#### 17A [[^F23]Unconnected multiple employer schemes: ability to pursue continuity option 3
+
+(1) This section applies for the purposes of enabling the Pensions Regulator to decide whether it is satisfied that, unless required to pursue continuity option 1 by virtue of section 34(3), the trustees of an unconnected multiple employer scheme would not be prevented from pursuing continuity option 3 whenever they consider it appropriate to do so, should a triggering event occur in relation to the scheme (see section 9(3)(g)).
+
+(2) In deciding whether it is satisfied that the trustees of the scheme would not be so prevented, the Pensions Regulator must take into account whether there would be any constraints or fetters on the trustees when deciding whether to pursue continuity option 3, should a triggering event occur.
+
+(3) For the purposes of subsection (2) the circumstances in which there would be a constraint or fetter on the trustees when deciding whether to pursue continuity option 3 include where, before making the decision, the trustees would be required to—
+
+(a) obtain the consent of employers, the scheme proprietor, members of the scheme, or any other person, or
+
+(b) consult with any person other than employers, the scheme proprietor and members of the scheme.]
+
+### Valuation and benefit adjustment
+
+#### 18 Calculation of benefits
+
+(1) A collective money purchase scheme must have rules about how the rate or amount of benefits provided under the scheme is to be determined.
+
+(2) The rules must include—
+
+(a) rules for determining the available assets of the scheme and their value,
+
+(b) rules for determining the required amount, and
+
+(c) rules about how the rate or amount of benefits provided under the scheme is to be adjusted from time to time, including rules about when adjustments are to take effect.
+
+(3) In this section “the available assets of the scheme” and “the required amount” have the meaning given in section 2(2).
+
+(4) The Secretary of State may by regulations make provision about the matters mentioned in subsections (1) and (2), including provision about the methods and assumptions to be used.
+
+(5) Regulations under subsection (4) making provision about the determination of the required amount may, among other things, make provision about—
+
+(a) how past or proposed adjustments to the rate or amount of benefits provided under the scheme are to be treated;
+
+(b) assumptions to be made about future adjustments to the rate or amount of such benefits.
+
+(6) Regulations under subsection (4) may, among other things—
+
+(a) provide for alternative methods and assumptions;
+
+(b) require or enable the trustees to decide which methods and assumptions are to be used;
+
+(c) specify matters that the trustees must take into account, or principles they must follow, in making such decisions.
+
+(7) Regulations under subsection (4)—
+
+(a) may make provision applying in relation to rights under the scheme that have already accrued;
+
+(b) override the rules of the scheme to the extent that the rules conflict with the regulations.
+
+(8) Regulations under subsection (4) are subject to affirmative resolution procedure.
+
+#### 19 Advice of scheme actuary
+
+(1) The trustees of a collective money purchase scheme must obtain the advice of the scheme actuary before making a decision as to the methods and assumptions to be used in determining the matters mentioned in section 18(1) and (2).
+
+(2) The Secretary of State may by regulations specify requirements with which the scheme actuary must comply when advising the trustees in accordance with subsection (1).
+
+(3) Regulations under subsection (2) may, among other things, require the scheme actuary to have regard to guidance that is prepared, and from time to time revised, by a person specified or described in the regulations.
+
+(4) Section 10 of the Pensions Act 1995 (civil penalties) applies to a trustee who fails to take all reasonable steps to comply with subsection (1).
+
+(5) The first regulations under subsection (2) are subject to affirmative resolution procedure.
+
+(6) Subsequent regulations under subsection (2) are subject to negative resolution procedure.
+
+#### 20 Actuarial valuations
+
+(1) The trustees of a collective money purchase scheme must obtain actuarial valuations in accordance with this section and regulations under subsection (5).
+
+(2) In this Part “actuarial valuation” means a report prepared and signed by the scheme actuary setting out—
+
+(a) the available assets of the scheme and their value;
+
+(b) the required amount;
+
+(c) whether an adjustment to the rate or amount of benefits provided under the scheme is required and, if so, the amount of the adjustment.
+
+(3) In this section “the available assets of the scheme” and “the required amount” have the meaning given in section 2(2).
+
+(4) A scheme actuary preparing an actuarial valuation in pursuance of a provision of this Part must determine the matters mentioned in subsection (2) in accordance with the scheme rules.
+
+(5) The Secretary of State may by regulations make provision about actuarial valuations, including—
+
+(a) provision about when actuarial valuations must be prepared;
+
+(b) provision about the date by reference to which a determination must be made;
+
+(c) provision about information and statements that an actuarial valuation must contain;
+
+(d) provision requiring the trustees to obtain an actuarial valuation from the scheme actuary within a period specified or described in the regulations;
+
+(e) provision requiring the trustees to send an actuarial valuation received by them to the Pensions Regulator within a period specified or described in the regulations.
+
+(6) In a case that is not the subject of regulations under subsection (5)(a), the trustees must obtain—
+
+(a) an actuarial valuation in which the date by reference to which the available assets of the scheme are determined (“the effective date”) falls within the period of one year beginning with the day on which the scheme was established, and
+
+(b) subsequent actuarial valuations in which the effective date is not more than one year after the effective date of the previous actuarial valuation.
+
+(7) In a case that is not the subject of regulations under subsection (5)(b), the required amount must be determined by reference to the effective date.
+
+(8) Section 10 of the Pensions Act 1995 (civil penalties) applies to a trustee who fails to take all reasonable steps to comply with this section.
+
+(9) Nothing in this section affects a power or duty of the trustees of a collective money purchase scheme to obtain actuarial valuations on other occasions.
+
+(10) The first regulations under subsection (5) are subject to affirmative resolution procedure.
+
+(11) Subsequent regulations under subsection (5) are subject to negative resolution procedure.
+
+#### 21 Certificate that actuarial valuation prepared in accordance with scheme rules
+
+A scheme actuary who prepares an actuarial valuation in pursuance of a provision of this Part must certify that the matters mentioned in section 20(2) have been determined in accordance with the scheme rules.
+
+#### 22 Benefits adjustments
+
+(1) This section applies where an adjustment to the rate or amount of benefits provided under a collective money purchase scheme is required in accordance with the scheme rules.
+
+(2) The trustees must as soon as is reasonably practicable report in writing to the Pensions Regulator if the adjustment—
+
+(a) is not made in accordance with the most recent actuarial valuation, or
+
+(b) does not take effect in accordance with the scheme rules.
+
+(3) A report under subsection (2) must—
+
+(a) explain why the adjustment was not made in accordance with the most recent actuarial valuation or (as the case may be) does not take effect in accordance with the scheme rules;
+
+(b) contain such other information as the Secretary of State may specify in regulations.
+
+(4) Section 10 of the Pensions Act 1995 (civil penalties) applies to a trustee who fails to take all reasonable steps to comply with this section.
+
+(5) Regulations under subsection (3)(b) are subject to negative resolution procedure.
+
+#### 23 Powers of the Pensions Regulator
+
+(1) The powers conferred by this section are exercisable where it appears to the Pensions Regulator (as a result of a report made to it or otherwise) that the trustees of a collective money purchase scheme have without good reason—
+
+(a) failed to comply with a requirement imposed by or under this Part to obtain an actuarial valuation, or
+
+(b) failed to secure that any adjustment to the rate or amount of benefits provided under the scheme which is required in accordance with the scheme rules—
+
+(i) is made in accordance with the most recent actuarial valuation, and
+
+(ii) takes effect in accordance with the scheme rules.
+
+(2) The Pensions Regulator may direct the trustees—
+
+(a) to obtain an actuarial valuation;
+
+(b) to take such other steps as the Pensions Regulator considers appropriate to remedy or mitigate the failure.
+
+(3) A direction under subsection (2)(a) must—
+
+(a) specify the period within which the valuation is to be obtained;
+
+(b) specify the date by reference to which the matters to be set out in the actuarial valuation are to be determined;
+
+(c) contain such other information as the Secretary of State may specify in regulations.
+
+(4) In exercising a power conferred by this section, the Pensions Regulator must comply with any requirements specified in regulations made by the Secretary of State.
+
+(5) Section 10 of the Pensions Act 1995 (civil penalties) applies to a trustee who fails to take all reasonable steps to comply with a direction under this section.
+
+(6) Regulations under this section are subject to negative resolution procedure.
+
+(7) The powers conferred by this section are in addition to any powers exercisable by the Pensions Regulator under any other enactment.
+
+### Members' rights
+
+#### 24 Rules about modifying schemes
+
+(1) The Pensions Act 1995 is amended as follows.
+
+(2) In section 67 (the subsisting rights provisions)—
+
+(a) after subsection (1) insert—
+
+> (1A) Any exercise of such a power to make a prohibited modification is void.
+
+;
+
+(b) in subsection (2)(a)(i), after “if the modification is a protected modification,” insert “ or the scheme is a collective money purchase scheme within the meaning of Part 1 of the Pension Schemes Act 2021, ”;
+
+(c) in subsection (2)(a)(ii), for “if it is not” substitute “ if sub-paragraph (i) does not apply ”;
+
+(d) in subsection (3) omit paragraph (b) and the “or” before it;
+
+(e) after subsection (3) insert—
+
+> (3A) Regulations may provide for cases in which the subsisting rights provisions do not apply.
+
+(3) In section 67A (the subsisting rights provisions: interpretation), in subsection (1), before “ “regulated modification”” insert—
+
+> “prohibited modification”
+
+.
+
+(4) After subsection (1) of that section insert—
+
+> (1A) “Prohibited modification” means a modification of an occupational pension scheme which on taking effect would or might result in any subsisting right of—
+>
+> (a) a member of the scheme, or
+>
+> (b) a survivor of a member of the scheme,
+>
+> which is not a right or entitlement to money purchase benefits becoming, or being replaced with, a right or entitlement to collective money purchase benefits under the scheme rules.
+
+(5) In subsection (3) of that section—
+
+(a) after “a modification” insert “ , other than a prohibited modification, ”;
+
+(b) for paragraph (a) substitute—
+
+> (a) on taking effect would or might result in a relevant transformation of any subsisting right of a member of the scheme or a survivor of a member of the scheme (see subsection (3A)),
+
+;
+
+(c) in paragraph (b), after “rules” insert “ , other than a pension that is a collective money purchase benefit ”;
+
+(d) omit the words following paragraph (c).
+
+(6) After subsection (3) of that section insert—
+
+> (3A) For the purposes of subsection (3)(a), there is a relevant transformation of a subsisting right where—
+>
+> (a) a subsisting right that is not a right or entitlement to money purchase benefits becomes, or is replaced with, a right or entitlement to money purchase benefits under the scheme rules,
+>
+> (b) a subsisting right that is a right or entitlement to money purchase benefits other than collective money purchase benefits becomes, or is replaced with, a right or entitlement to collective money purchase benefits under the scheme rules, or
+>
+> (c) a subsisting right that is a right or entitlement to collective money purchase benefits becomes, or is replaced with, a right or entitlement to money purchase benefits other than collective money purchase benefits under the scheme rules.
+>
+> (3B) For the purposes of subsection (3A), the reference in the definition of “money purchase benefits” in section 181(1) of the Pension Schemes Act 1993 to the widow, widower or surviving civil partner of a member of an occupational pension scheme is to be read as including any other survivor of the member.
+
+(7) In subsection (4) of that section, after “a modification” insert “ , other than a prohibited modification, ”.
+
+(8) In subsection (9) of that section—
+
+(a) in paragraph (a), after sub-paragraph (xiii) insert—
+
+> (xiv) regulations made under section 18(4) of or paragraph 1(6) of Schedule 2 to the Pension Schemes Act 2021;
+>
+> (xv) sections 34, 39, 41, 42 and 45 of the Pension Schemes Act 2021;
+
+;
+
+(b) in paragraph (b), after sub-paragraph (xi) insert—
+
+> (xii) sections 18(7)(b), 34(5), 39(6), 41(6), 42(2) and 45(5) of and paragraph 1(7) of Schedule 2 to the Pension Schemes Act 2021.
+
+#### 25 Transfer rights
+
+(1) Chapter 1 of Part 4ZA of the Pension Schemes Act 1993 (transfer rights: general) is amended as follows.
+
+(2) In section 93 (scope of Chapter 1)—
+
+(a) in subsection (7) (crystallisation events), in paragraph (b), after “money purchase benefits” insert “ other than collective money purchase benefits ”;
+
+(b) after subsection (10) insert—
+
+> (10A) Where a pension scheme is divided into sections, each section that is a collective money purchase scheme for the purposes of Part 1 of the Pension Schemes Act 2021 (see section 1(2)(b) of that Act) is to be treated as a separate scheme for the purposes of this Chapter.
+
+(3) In section 97 (calculation of cash equivalents), after subsection (3) insert—
+
+> (3ZA) Where, in the case of an application from a member under section 95 that relates to money purchase benefits that are collective money purchase benefits, regulations under section 99(2)(c) provide for a period longer than 6 months, subsection (3)(b) is to be read as if the reference to 6 months were a reference to that longer period.
+
+(4) In section 99 (trustees' duties after exercise of option), in subsection (2) (period in which to carry out what the member requires)—
+
+(a) omit the “and” at the end of paragraph (a);
+
+(b) in paragraph (b), after “money purchase benefits” insert “ other than collective money purchase benefits ”;
+
+(c) at the end of paragraph (b) insert
+
+> , and
+>
+> (c) in the case of an application which relates to money purchase benefits that are collective money purchase benefits, within 6 months beginning with the date of the application or such longer period beginning with that date as may be prescribed.
+
+(5) After section 99 insert—
+
+> **99A Trustees' further duties: collective money purchase benefits**
+>
+> (1) If the trustees receive an application under section 95 relating to money purchase benefits that are collective money purchase benefits—
+>
+> (a) they must give the member notice in writing of the cash equivalent that relates to those benefits, and
+>
+> (b) they must not without the written consent of the member enter into an agreement with a third party to use the member's cash equivalent in a way specified in section 95(2) before the end of the period mentioned in subsection (2).
+>
+> (2) The period referred to in subsection (1)(b) is—
+>
+> (a) the period of 3 weeks beginning with the day after the day on which the notice is given, or
+>
+> (b) such other period as may be specified in regulations.
+>
+> (3) Any action taken in contravention of subsection (1)(b) is void.
+
+(6) In section 100B (meaning of “scheme rules”: occupational pension schemes), in subsection (2)—
+
+(a) in paragraph (a), at the end insert—
+
+> (xv) regulations made under section 18(4) of or paragraph 1(6) of Schedule 2 to the Pension Schemes Act 2021;
+>
+> (xvi) sections 34, 39, 41, 42 and 45 of the Pension Schemes Act 2021;
+
+;
+
+(b) in paragraph (b), at the end insert—
+
+> (xii) sections 18(7)(b), 34(5), 39(6), 41(6), 42(2) and 45(5) of and paragraph 1(7) of Schedule 2 to the Pension Schemes Act 2021.
+
+### Ongoing supervision
+
+#### 26 List of authorised schemes
+
+(1) The Pensions Regulator must maintain and publish a list of authorised collective money purchase schemes.
+
+(2) The list—
+
+(a) must identify each authorised collective money purchase scheme by name, and
+
+(b) may include any other information that the Pensions Regulator considers appropriate.
+
+#### 26A [[^F24]Unconnected multiple employer schemes: requirement to submit annual accounts
+
+(1) The trustees of an authorised unconnected multiple employer scheme must send the scheme’s accounts to the Pensions Regulator.
+
+(2) The accounts must be sent to the Regulator no later than two months after they are obtained by the trustees.
+
+(3) The scheme proprietor of an authorised unconnected multiple employer scheme must send to the Pensions Regulator—
+
+(a) its accounts prepared and audited as individual accounts in accordance with the applicable requirements, and
+
+(b) if the scheme proprietor is partly or wholly funded by an undertaking other than an unincorporated association (“relevant undertaking”), the accounts of that undertaking prepared and audited in accordance with the applicable requirements.
+
+(4) The accounts of the scheme proprietor and any relevant undertaking must be sent to the Regulator—
+
+(a) no later than nine months after the end of the financial year to which they relate, or
+
+(b) if an item 4A, 4B or 7A triggering event occurs in relation to the scheme (see section 31) and the Pensions Regulator gives notice to the scheme proprietor requiring that accounts be sent early, within such shorter period after the end of the financial year to which they relate as is specified in the notice.
+
+(5) In subsection (4) “financial year” in relation to a scheme proprietor or a relevant undertaking is to be interpreted in accordance with—
+
+(a) the requirements of the law referred to in section 8(3A), or
+
+(b) where no such meaning is given to “financial year” in those requirements, the Companies Act 2006.
+
+(6) Subsections (3A) to (3C) of section 8 (where accounts are prepared and audited as individual accounts in accordance with the applicable requirements) apply for the purposes of this section.
+
+(7) Section 10 of the Pensions Act 1995 (civil penalties) applies to a person who fails to comply with a requirement imposed by or under this section.]
+
+#### 27 Requirement to submit supervisory return
+
+(1) The Pensions Regulator may by notice require the trustees of a collective money purchase scheme to submit a supervisory return.
+
+(2) The Secretary of State may make regulations setting out the information that the Pensions Regulator may require in a supervisory return.
+
+(3) The notice must specify—
+
+(a) the information required to be included in the return,
+
+(b) the manner and form in which the return must be submitted, and
+
+(c) the period (of at least 28 days) within which the return must be submitted.
+
+(4) The trustees of a collective money purchase scheme may not be required to submit a supervisory return more than once in any 12 month period.
+
+(5) Section 10 of the Pensions Act 1995 (civil penalties) applies to a trustee who fails to submit a supervisory return when required to do so.
+
+(6) Regulations under subsection (2) are subject to negative resolution procedure.
+
+#### 28 Duty to notify the Pensions Regulator of significant events
+
+(1) Where a person mentioned in subsection (2) becomes aware of the fact that a significant event has occurred in relation to an authorised collective money purchase scheme, the person must (subject to subsections (6) and (7)) give notice of that fact, in writing, to the Pensions Regulator as soon as reasonably practicable.
+
+(2) The persons are—
+
+(a) a trustee of the scheme;
+
+(b) an employer in relation to the scheme;
+
+[[^F25](ba) where the scheme is an unconnected multiple employer scheme, the scheme proprietor;
+
+(bb) where the scheme is an unconnected multiple employer scheme, a person who promotes or markets the scheme;
+
+(bc) where the scheme is an unconnected multiple employer scheme, a chief financial officer of the scheme;
+
+(bd) where the scheme is an unconnected multiple employer scheme, a chief investment officer of the scheme;]
+
+(c) a person who (alone or with others) has power to appoint or remove a trustee;
+
+(d) a person who (alone or with others) has power to vary the provisions of the scheme;
+
+(e) a person who provides legal, financial or actuarial advice in relation to the scheme;
+
+(f) a person who manages the scheme administration services;
+
+(g) a person acting in a capacity specified in regulations made by the Secretary of State.
+
+(3) The Secretary of State must make regulations setting out the events that constitute significant events for the purposes of this section.
+
+(4) The Secretary of State may by regulations specify further information that is to be provided by a person required to give notice under this section.
+
+(5) Except as provided by subsections (6) and (7), the disclosure of information under this section does not breach—
+
+(a) any obligation of confidence owed by the person making the disclosure, or
+
+(b) any other restriction on the disclosure of information (however imposed).
+
+(6) This section does not require a disclosure of information if the disclosure would contravene the data protection legislation (but in determining whether a disclosure of information would do so, take into account the duty imposed by this section).
+
+(7) A person is not required by this section to disclose anything in respect of which a claim to legal professional privilege (or, in Scotland, to confidentiality of communications) could be maintained in legal proceedings.
+
+(8) Section 10 of the Pensions Act 1995 (civil penalties) applies to a person who fails to comply with a requirement imposed by or under this section.
+
+(9) The first regulations under subsection (3) are subject to affirmative resolution procedure.
+
+(10) Subsequent regulations under subsection (3), and regulations under subsection (2)(g) or (4), are subject to negative resolution procedure.
+
+#### 29 Risk notices
+
+(1) The Pensions Regulator may give a risk notice to the trustees of a collective money purchase scheme if the Regulator considers that—
+
+(a) there is an issue of concern in relation to the scheme, and
+
+(b) the scheme will breach the authorisation criteria, or is likely to breach them, if the issue is not resolved.
+
+[[^F26](1A) Where the scheme is an unconnected multiple employer scheme the Pensions Regulator may give a risk notice to the scheme proprietor if the Regulator considers that—
+
+(a) there is an issue of concern in relation to the scheme, and
+
+(b) the scheme will breach the authorisation criteria, or is likely to breach them, if the issue is not resolved.]
+
+(2) A risk notice is a notice that requires the trustees of the scheme [[^F27]or (as the case may be) the scheme proprietor] to submit to the Pensions Regulator a plan (a “resolution plan”) setting out proposals for resolving the issue of concern.
+
+(3) A risk notice must—
+
+(a) identify the issue of concern;
+
+(b) specify the date by which the resolution plan is to be submitted.
+
+(4) If the Pensions Regulator is not satisfied that the proposals in a resolution plan are likely to be adequate to resolve the issue of concern, the Regulator may give a further notice to the trustees [[^F28]or the scheme proprietor] requiring them to submit a revised plan by a date specified in the notice.
+
+[[^F29](4A) Where risk notices relating to the same issue of concern have been issued to the trustees of the scheme and the scheme proprietor, the reference in subsection (4) to the proposals in a resolution plan is to be read as a reference to the proposals in the resolution plans of the trustees and the scheme proprietor taken together.]
+
+(5) The trustees [[^F30]or (as the case may be) the scheme proprietor] must implement the proposals in a resolution plan if the Pensions Regulator—
+
+(a) is satisfied that the proposals are likely to be adequate to resolve the issue of concern [[^F31](whether alone or together with the proposals in another resolution plan relating to the same issue of concern)], and
+
+(b) notifies the trustees [[^F32]or the scheme proprietor] accordingly.
+
+(6) The Pensions Regulator may direct the trustees [[^F33]or the scheme proprieto] to comply with the requirement imposed by subsection (5).
+
+(7) Where the trustees [[^F34]or the scheme proprietor] are required by subsection (5) to implement the proposals in a resolution plan, the trustees [[^F35]or (as the case may be) the scheme proprietor] must—
+
+(a) submit to the Pensions Regulator, before the end of a period specified in regulations made by the Secretary of State, a report setting out what progress they are making in implementing the proposals (a “progress report”);
+
+(b) submit further progress reports to the Pensions Regulator at intervals specified by the Pensions Regulator.
+
+(8) Resolution plans and progress reports must be provided in the manner and form specified by the Pensions Regulator.
+
+(9) A reference to a resolution plan in subsections (4) to (8) includes a reference to a resolution plan as revised under subsection (4).
+
+(10) The Secretary of State may by regulations—
+
+(a) specify information that a risk notice must contain;
+
+(b) provide that the date referred to in subsection (3)(b) or (4) must fall before the end of a period specified in the regulations.
+
+(11) Section 10 of the Pensions Act 1995 (civil penalties) applies to a trustee [[^F36]or a scheme proprietor] who fails to comply with—
+
+(a) a notice under subsection (1) [[^F37], (1A] or (4),
+
+(b) a direction under subsection (6), or
+
+(c) a requirement imposed by subsection (7).
+
+(12) Regulations under this section are subject to negative resolution procedure.
+
+#### 30 Withdrawal of authorisation
+
+(1) If the Pensions Regulator stops being satisfied that an authorised collective money purchase scheme meets the authorisation criteria, it may decide to withdraw the scheme's authorisation.
+
+(2) A warning notice under the standard procedure or a determination notice under the special procedure given in relation to a decision under subsection (1) must—
+
+(a) explain that the issue of the notice is a triggering event (see section 31), and
+
+(b) include an explanation of the trustees' duties under sections 31 to 45.
+
+(3) On withdrawal of a scheme's authorisation, the Pensions Regulator must—
+
+(a) notify the trustees that the scheme is no longer authorised, and
+
+(b) remove the scheme from the list of authorised collective money purchase schemes.
+
+(4) In this Part—
+
+- “determination notice” has the meaning given in section 98(2)(a) of the Pensions Act 2004;
+- “special procedure” has the meaning given in section 98 of that Act;
+- “standard procedure” has the meaning given in section 96 of that Act;
+- “warning notice” has the meaning given in section 96(2)(a) of that Act.
+
+### Triggering events and continuity options
+
+#### 31 Triggering events
+
+(1) A triggering event occurs in relation to a collective money purchase scheme if an event within the second column of the triggering events table occurs in relation to it, subject to subsection (2).
+
+(2) An event within any of items 4 to [[^F38]10] of the triggering events table is not a triggering event in relation to a collective money purchase scheme if it occurs within an existing triggering event period for the scheme (see section 32).
+
+(3) A triggering event occurs on the date specified in relation to the event in the third column of the triggering events table.
+
+(4) For the purposes of this Part “the triggering events table” is—
+
+|  |  |  |
+|---|---|---|
+| *Item* | *Triggering event* | *Date event occurs* |
+| 1. | The Pensions Regulator issues a warning notice under the standard procedure in respect of a decision to withdraw the scheme's authorisation. | The date on which the notice is issued. |
+| 2. | The Pensions Regulator issues a determination notice under the special procedure in respect of a decision to withdraw the scheme's authorisation. | The date on which the notice is issued. |
+| 3. | The Pensions Regulator gives a notification under section 7(3) (scheme not authorised). | The date on which the notification is given. |
+| 4. | [[^F39]Where the scheme is a single or connected employer scheme,] an insolvency event occurs in relation to an employer or a relevant former employer. | The date on which the insolvency event occurs. |
+| [[^F40]4A. | Where the scheme is an unconnected multiple employer scheme, an insolvency event occurs in relation to the scheme proprietor. | The date on which the insolvency event occurs.] |
+| [[^F40]4B. | Where the scheme is an unconnected multiple employer scheme and the scheme proprietor is a person or body of a kind that meets requirements prescribed under section 129(1)(b) of the Pensions Act 2004, the scheme proprietor becomes unlikely to continue as a going concern. | The earlier of— - the date on which the scheme proprietor notifies the Pensions Regulator of that fact, and<br>- the date on which the trustees become aware of that fact.] |
+| 5. | [[^F41]Where the scheme is a single or connected employer scheme,] an employer or a relevant former employer becomes unlikely to continue as a going concern, where the employer or relevant former employer is a person or body of a kind that meets the requirements prescribed under section 129(1)(b) of the Pensions Act 2004 | The earlier of— - (a) the date on which the employer or relevant former employer notifies the Pensions Regulator of that fact, and<br>- (b) the date on which the trustees become aware of that fact. |
+| 6. | A person who has power to do so under the provisions of the scheme decides that the scheme should be wound up. | The date of the decision. |
+| 7. | An event occurs that is required or permitted by the provisions of the scheme to result in the winding up of the scheme. | The date on which the event occurs. |
+| [[^F42]7A. | Where the scheme is an unconnected multiple employer scheme, the scheme proprietor decides to end the relationship or arrangement with the scheme by virtue of which it is the scheme proprietor. | The date of the decision.] |
+| [[^F42]7B. | Where the scheme is an unconnected multiple employer scheme, the scheme proprietor ends the relationship or arrangement with the scheme by virtue of which it is the scheme proprietor. | The earlier of— - the date on which the scheme proprietor notifies the Pensions Regulator of that fact, and<br>- the date on which the trustees become aware of that fact.] |
+| 8. | A person who has power to do so under the provisions of the scheme decides that the scheme should become a closed scheme. | The date of the decision. |
+| 9. | An event occurs that is required or permitted by the provisions of the scheme to result in the scheme becoming a closed scheme. | The date on which the event occurs. |
+| [[^F43]10. | Where the scheme is an unconnected multiple employer scheme, the trustees decide that the scheme is at risk of failure and so it is necessary for one of the continuity options to be pursued (see section 34). | The date of the decision.] |
+
+[[^F44](4A) An unconnected multiple employer scheme is to be taken to permit the trustees of the scheme to make the decision referred to in item 10 of the table, to the extent that it would not otherwise do so.]
+
+(5) In this Part—
+
+- “item 1 triggering event” means an event falling within item 1 of the triggering events table (and similar references using other item numbers are to be read accordingly);
+
+- “relevant former employer”, in relation to a [[^F45]single or connected employer scheme], means a person who has ceased to be an employer in relation to the scheme but who—
+
+  - (a) is subject to an actual or contingent obligation to contribute financially to the scheme, whether by making contributions towards the costs of running the scheme or otherwise, or
+  - (b) has power to take a decision about the operation of the scheme, either alone or with other persons who are or have been employers in relation to the scheme.
+
+(6) In this section “closed”, in relation to a collective money purchase scheme, means closed to new contributions or new members (or both).
+
+#### 32 Triggering event periods
+
+(1) For the purposes of this Part, a “triggering event period” for a collective money purchase scheme is a period—
+
+(a) starting with the date on which a triggering event occurs in relation to the scheme, and
+
+(b) ending with the earliest of the dates given by subsection (2).
+
+(2) The dates are—
+
+(a) the date on which the trustees receive from the Pensions Regulator—
+
+(i) notification under section 37(4) that the Regulator is satisfied that the triggering event has been resolved, or
+
+(ii) notification under section 38(4) that the Regulator is satisfied that preparations for conversion to a closed scheme are complete and that the conversion will resolve the relevant events;
+
+(b) the date on which the scheme is wound up;
+
+(c) in the case of an item 1 or 2 triggering event (notice in respect of a decision to withdraw authorisation), the date on which it becomes clear that authorisation is not to be withdrawn.
+
+(3) For the purposes of subsection (2)(c), it becomes clear that authorisation is not to be withdrawn—
+
+(a) in the circumstances set out in relation to the event in the second column of the table in subsection (4), and
+
+(b) on the date given in relation to those circumstances in the third column of that table.
+
+(4) The table is—
+
+|  |  |  |
+|---|---|---|
+| *Triggering event* | *Circumstances* | *Date* |
+| Item 1 (issue of warning notice under the standard procedure) | (1) The Pensions Regulator makes a determination not to withdraw the scheme's authorisation, and (2) there is no referral of the determination to the Tribunal within the time period allowed for doing so. | The date of the Pensions Regulator's determination. |
+| Item 2 (issue of determination notice under the special procedure) | (1) On a review under section 99 of the Pensions Act 2004, the Pensions Regulator makes a determination that the scheme's authorisation should not be withdrawn, and (2) there is no referral of the determination to the Tribunal within the time period allowed for doing so. | The date of the Pensions Regulator's determination. |
+| Item 1 or 2 | (1) On a referral to the Tribunal of a determination by the Pensions Regulator, the Tribunal makes a determination the effect of which is that the scheme's authorisation should not be withdrawn, and (2) either—<br>(a) no appeal is brought against the Tribunal's determination within the time period allowed for doing so, or<br>(b) an appeal is brought within that time period but is later withdrawn. | The date of the Tribunal's determination. |
+| Item 1 or 2 | The effect of an appeal against a determination by the Tribunal is that the scheme's authorisation should not be withdrawn. | The date on which the appeal is finally disposed of. |
+
+(5) In this section “the Tribunal” has the meaning given in—
+
+(a) section 96(7) of the Pensions Act 2004, in a case where the standard procedure applies;
+
+(b) section 99(13) of that Act, in a case where the special procedure applies.
+
+#### 33 Notification of triggering events
+
+(1) If a triggering event listed in the first column of the table in subsection (2) occurs in relation to a collective money purchase scheme, each person specified in relation to the event in the second column of that table must (subject to subsections (12) and (13)) notify the Pensions Regulator of the occurrence of the event.
+
+(2) The table is—
+
+<table>
+<tbody>
+<tr><th><i>Event</i></th><th><i>Specified person</i></th></tr>
+<tr><td rowspan="2">Item 4 triggering event (an insolvency event occurs in relation to an employer or a relevant former employer)</td><td>The employer or relevant former employer.</td></tr>
+<tr><td>A trustee who is aware of the event.</td></tr>
+<tr><td>[[^F46]Item 4A triggering event (an insolvency event occurs in relation to the scheme proprietor)</td><td>The scheme proprietor.</td></tr>
+<tr><td></td><td>A trustee who is aware of the event.]</td></tr>
+<tr><td>[[^F46]Item 4B triggering event (a scheme proprietor becomes unlikely to continue as a going concern, where the scheme proprietor is a person or body of a kind that meets the requirements prescribed under section 129(1)(b) of the Pensions Act 2004)</td><td>The scheme proprietor.</td></tr>
+<tr><td></td><td>A trustee who is aware of the event.]</td></tr>
+<tr><td rowspan="2">Item 5 triggering event (an employer or a relevant former employer becomes unlikely to continue as a going concern, where the employer or relevant former employer is a person or body of a kind that meets the requirements prescribed under section 129(1)(b) of the Pensions Act 2004)</td><td>The employer or relevant former employer.</td></tr>
+<tr><td>A trustee who is aware of the event.</td></tr>
+<tr><td rowspan="3">Item 6 triggering event (a person decides that the scheme should be wound up)</td><td>The person who made the decision.</td></tr>
+<tr><td>A trustee who is aware of the event (if not the person who made the decision).</td></tr>
+<tr><td>[[^F47]Where the scheme is a single or connected employer scheme,] an employer who is aware of the event (if not the person who made the decision).</td></tr>
+<tr><td></td><td>[[^F48]Where the scheme is an unconnected multiple employer scheme, the scheme proprietor (if not the person who made the decision) if they are aware of the event.]</td></tr>
+<tr><td rowspan="2">Item 7 triggering event (an event occurs that is required or permitted by the provisions of the scheme to result in the winding up of the scheme)</td><td>A trustee who is aware of the event.</td></tr>
+<tr><td>[[^F49]Where the scheme is a single or connected employer scheme,] an employer who is aware of the event.</td></tr>
+<tr><td></td><td>[[^F50]Where the scheme is an unconnected multiple employer scheme, the scheme proprietor if they are aware of the event.]</td></tr>
+<tr><td>[[^F51]Item 7A triggering event (scheme proprietor decides to end relationship or arrangement)</td><td>The scheme proprietor.</td></tr>
+<tr><td></td><td>A trustee who is aware of the event.]</td></tr>
+<tr><td>[[^F51]Item 7B triggering event (scheme proprietor ends relationship or arrangement)</td><td>The scheme proprietor.</td></tr>
+<tr><td></td><td>A trustee who is aware of the event.]</td></tr>
+<tr><td rowspan="3">Item 8 triggering event (a person decides that the scheme should become a closed scheme)</td><td>The person who made the decision.</td></tr>
+<tr><td>A trustee who is aware of the event (if not the person who made the decision).</td></tr>
+<tr><td>[[^F52]Where the scheme is a single or connected employer scheme,] an employer who is aware of the event (if not the person who made the decision).</td></tr>
+<tr><td></td><td>[[^F53]Where the scheme is an unconnected multiple employer scheme, the scheme proprietor if they are aware of the event.]</td></tr>
+<tr><td rowspan="2">Item 9 triggering event (an event occurs that is required or permitted by the provisions of the scheme to result in the scheme becoming a closed scheme)</td><td>A trustee who is aware of the event.</td></tr>
+<tr><td>[[^F54]Where the scheme is a single or connected employer scheme,] an employer who is aware of the event.</td></tr>
+<tr><td></td><td>[[^F55]Where the scheme is an unconnected multiple employer scheme, the scheme proprietor if they are aware of the event.]</td></tr>
+<tr><td>[[^F56]Item 10 triggering event (trustees decide that it is necessary to pursue continuity option).</td><td>The trustees.</td></tr>
+<tr><td></td><td>The scheme proprietor if they are aware of the event.]</td></tr>
+</tbody>
+</table>
+
+(3) If a triggering event occurs in relation to a [[^F57]single or connected employer scheme], a trustee who is aware of the event must (subject to subsections (5), (6), (12) and (13)) give the required notification to each employer or relevant former employer.
+
+[[^F58](3A) If a triggering event occurs in relation to an unconnected multiple employer scheme, a trustee who is aware of the event must (subject to subsections (5A), (6), (12) and (13)) give the required notification to each employer and the scheme proprietor.]
+
+(4) In this section “the required notification”, in relation to a triggering event, means notification of—
+
+(a) the occurrence of the event, and
+
+(b) such other matters relating to the event as may be specified in regulations made by the Secretary of State.
+
+(5) In the case of an item 4 or 5 triggering event, subsection (4)(a) does not apply as regards notification of the employer or relevant former employer in respect of whom the event occurs.
+
+[[^F59](5A) In the case of an item 4A, 4B, 7A or 7B triggering event, subsection (4)(a) does not apply as regards notification of the scheme proprietor.]
+
+(6) In the case of an item 6 or 8 triggering event, subsection (4)(a) does not apply as regards notification of the person who decided that the scheme—
+
+(a) should be wound up, or
+
+(b) (as the case may be) should become a closed scheme.
+
+(7) If an item 4 or 5 triggering event occurs in relation to a [[^F60]single or connected employer scheme], each employer or relevant former employer in respect of whom the event occurs must (subject to subsections (12) and (13)) give the required notification to the trustees.
+
+[[^F61](7A) If an item 4A or 4B triggering event occurs in relation to an unconnected multiple employer scheme, the scheme proprietor must (subject to subsections (12) and (13)) give the required notification to the trustees.]
+
+(8) If an item 6 or 8 triggering event occurs in relation to a collective money purchase scheme, the person who decided that the scheme—
+
+(a) should be wound up, or
+
+(b) (as the case may be) should become a closed scheme,
+
+must (if that person is not the trustees, and subject to subsections (12) and (13)) give the required notification to the trustees.
+
+(9) If an item 7 or 9 triggering event occurs in relation to a [[^F62]single or connected employer scheme], each employer or relevant former employer who is aware of the event must (subject to subsections (12) and (13)) give the required notification to the trustees.
+
+[[^F63](9A) If an item 7, 7A, 7B or 9 triggering event occurs in relation to an unconnected multiple employer scheme, the scheme proprietor, if they are aware of the event, must (subject to subsections (12) and (13)) give the required notification to the trustees.]
+
+(10) A notification under this section must be given before the end of the period specified in regulations made by the Secretary of State.
+
+(11) Except as provided by subsections (12) and (13), the disclosure of information under this section does not breach—
+
+(a) any obligation of confidence owed by the person making the disclosure, or
+
+(b) any other restriction on the disclosure of information (however imposed).
+
+(12) This section does not require a disclosure of information if the disclosure would contravene the data protection legislation (but in determining whether a disclosure of information would do so, take into account the duty imposed by this section).
+
+(13) A person is not required by this section to disclose anything in respect of which a claim to legal professional privilege (or, in Scotland, to confidentiality of communications) could be maintained in legal proceedings.
+
+(14) Section 10 of the Pensions Act 1995 (civil penalties) applies to a person who fails to comply with a requirement imposed by this section.
+
+(15) Regulations under this section are subject to negative resolution procedure.
+
+#### 34 Continuity options
+
+(1) If a triggering event occurs in relation to a collective money purchase scheme, the trustees must pursue one of the continuity options.
+
+(2) The continuity options are—
+
+(a) continuity option 1 (discharge of liabilities and winding up) (see section 36);
+
+(b) continuity option 2 (resolving triggering event) (see section 37);
+
+(c) continuity option 3 (conversion to closed scheme) (see section 38).
+
+(3) The trustees must pursue continuity option 1—
+
+(a) if the triggering event is an item 1 or 2 triggering event and the decision to withdraw authorisation has become final (see section 35), or
+
+(b) if the triggering event is an item 3 triggering event.
+
+(4) In those cases, the trustees must pursue continuity option 1 even if—
+
+(a) the item 1, 2 or 3 triggering event occurs within the triggering event period of an earlier triggering event, and
+
+(b) the trustees have already decided to pursue continuity option 2 or 3 in respect of the earlier triggering event.
+
+(5) The trustees may pursue continuity option 3 only if (or to the extent that) the provisions of the scheme allow them to do so.
+
+Subject to that, this section overrides any provision of the collective money purchase scheme to the extent that there is a conflict.
+
+(6) Section 10 of the Pensions Act 1995 (civil penalties) applies to a person who fails to comply with a requirement imposed by this section.
+
+#### 35 When a decision to withdraw authorisation becomes final
+
+(1) For the purposes of this Part, in relation to an item 1 or 2 triggering event, a decision to withdraw authorisation becomes final—
+
+(a) in the circumstances set out in relation to the event in the second column of the table in subsection (2), and
+
+(b) on the date given in relation to those circumstances in the third column of that table.
+
+(2) The table is—
+
+|  |  |  |
+|---|---|---|
+| *Triggering event* | *Circumstances* | *Date* |
+| Item 1 (issue of warning notice under the standard procedure) | (1) The Pensions Regulator makes a determination to withdraw the scheme's authorisation, and (2) there is no referral of the determination to the Tribunal within the time period allowed for doing so. | The date of the Pensions Regulator's determination. |
+| Item 2 (issue of determination notice under the special procedure) | (1) On a review under section 99 of the Pensions Act 2004, the Pensions Regulator makes a determination that the scheme's authorisation should be withdrawn, and (2) there is no referral of the determination to the Tribunal within the time period allowed for doing so. | The date of the Pensions Regulator's determination. |
+| Item 1 or 2 | (1) On a referral to the Tribunal of a determination by the Pensions Regulator, the Tribunal makes a determination the effect of which is that the scheme's authorisation should be withdrawn, and (2) either—<br>(a) no appeal is brought against the Tribunal's determination within the time period allowed for doing so, or<br>(b) an appeal is brought within that time period but is later withdrawn. | The date of the Tribunal's determination. |
+| Item 1 or 2 | The effect of an appeal against a determination by the Tribunal is that the scheme's authorisation should be withdrawn. | The date on which the appeal is finally disposed of. |
+
+(3) In this section “the Tribunal” has the meaning given in—
+
+(a) section 96(7) of the Pensions Act 2004, in a case where the standard procedure applies;
+
+(b) section 99(13) of that Act, in a case where the special procedure applies.
+
+#### 36 Continuity option 1: discharge of liabilities and winding up
+
+(1) Where the trustees of a collective money purchase scheme are required, or decide, to pursue continuity option 1, they must—
+
+(a) quantify, in the case of each beneficiary, the amount that represents the value of the beneficiary's accrued rights to benefits under the scheme;
+
+(b) formulate a proposal for discharging the scheme's liability to each beneficiary in respect of those rights, in one of the ways set out in subsection (2);
+
+(c) notify [[^F64]the following] of the proposal and of such other matters as may be specified in regulations made by the Secretary of State [[^F65]—
+
+(i) each employer,
+
+(ii) each beneficiary, and
+
+(iii) where there scheme is a single or connected employer scheme, each relevant former employer.]
+
+(2) The ways of discharging the scheme's liability referred to in subsection (1)(b) are—
+
+(a) transferring the value of the beneficiaries' accrued rights to benefits under the scheme to a collective money purchase scheme or to a Master Trust scheme;
+
+(b) transferring the value of those rights, in such circumstances as may be specified in regulations made by the Secretary of State, to a pension scheme that has characteristics specified in the regulations;
+
+(c) securing, in such circumstances as may be specified in regulations made by the Secretary of State, the payment of benefits by such other means (an “alternative payment mechanism”) as may be specified in the regulations.
+
+(3) A proposal under subsection (1)(b) may deal with the rights of different descriptions of beneficiaries in different ways.
+
+(4) Subsections (1)(b) and (2) have effect subject to—
+
+(a) Part 4ZA of the Pension Schemes Act 1993 (transfers and contribution refunds);
+
+(b) provision made by regulations under subsection (6).
+
+(5) Notification under subsection (1)(c) must be given—
+
+(a) in the manner specified in regulations made by the Secretary of State, and
+
+(b) before the end of the period specified in the regulations.
+
+(6) The Secretary of State may by regulations make provision for the purposes of enabling continuity option 1 to be given effect, which may include—
+
+(a) provision about how continuity option 1 is to be pursued by the trustees of a collective money purchase scheme;
+
+(b) provision conferring rights on beneficiaries or employers;
+
+(c) provision imposing duties on employers or trustees;
+
+(d) provision conferring power on the Pensions Regulator to direct trustees to do things permitted or required by the regulations;
+
+(e) provision deeming a beneficiary the value of whose accrued rights are to be transferred to a scheme that is not a collective money purchase scheme or a Master Trust scheme to have entered into an agreement with a person of a description specified in the regulations.
+
+(7) Regulations under subsection (6) must include—
+
+(a) provision about how the quantification referred to in subsection (1)(a) is to be carried out (which may be different in relation to different descriptions of beneficiaries);
+
+(b) provision for securing that a person who has become a pensioner beneficiary (whether before or after the occurrence of the triggering event as a result of which the trustees are pursuing continuity option 1) receives a periodic income, at a rate or of an amount that is calculated by reference to the amount referred to in subsection (1)(a), until the time when the proposal under subsection (1)(b) is implemented or some other specified time;
+
+(c) provision about how rights conferred by the regulations may be exercised (including the time periods within which they may be exercised);
+
+(d) provision specifying requirements (which may include approval or authorisation by the Pensions Regulator in accordance with the regulations) to be met in the case of a pension scheme, or an alternative payment mechanism, by means of which it is proposed to discharge the collective money purchase scheme's liabilities to beneficiaries in one of the ways set out in subsection (2);
+
+(e) provision requiring those responsible for a pension scheme by means of which it is proposed to discharge the collective money purchase scheme's liabilities to beneficiaries (“the receiving scheme”) to provide the Pensions Regulator with a document setting out the level of administration charges that applied in relation to members of the receiving scheme, in the manner and as at the date specified or described in the regulations;
+
+(f) provision imposing duties on the trustees to notify all or a specified description of employers and beneficiaries of their rights under the regulations and of members' rights under Part 4ZA of the Pension Schemes Act 1993;
+
+(g) provision about the winding up of the collective money purchase scheme in circumstances where the scheme's liabilities to beneficiaries are discharged.
+
+(8) In this section—
+
+- “beneficiary”, in relation to the collective money purchase scheme, means—
+
+  - (a) a member of the scheme, or
+  - (b) a person who has survived a member of the scheme and has an entitlement to benefits, or a right to future benefits, under the scheme rules in respect of the member;
+
+- “pensioner beneficiary”, in relation to the collective money purchase scheme, means a person who is entitled to the present payment of pension or other benefits under the scheme;
+
+- “specified” means specified in regulations under subsection (6).
+
+(9) Section 10 of the Pension Act 1995 (civil penalties) applies to a person who fails to comply with a requirement imposed by this section.
+
+(10) Regulations under this section may provide for the application of section 10 of the Pensions Act 1995 to a person who fails to comply with a requirement imposed by the regulations.
+
+(11) Regulations under subsection (2) or (6) are subject to affirmative resolution procedure.
+
+(12) Regulations under subsection (1)(c) or (5) are subject to negative resolution procedure.
+
+#### 37 Continuity option 2: resolving triggering event
+
+(1) Where the trustees of a collective money purchase scheme decide to pursue continuity option 2, they must attempt to resolve the triggering event.
+
+(2) The trustees must notify the Pensions Regulator when they consider that the triggering event has been resolved.
+
+(3) The notification must—
+
+(a) set out how the trustees consider that the triggering event has been resolved;
+
+(b) be given before the end of the period specified in regulations made by the Secretary of State.
+
+(4) After receiving the notification, the Pensions Regulator must notify the trustees as to whether it is satisfied that the triggering event has been resolved.
+
+(5) The Pensions Regulator may not form the view that a triggering event (“the relevant event”) has been resolved unless it is satisfied that any other event within the triggering events table that has occurred in relation to the scheme since the occurrence of the relevant event has also been resolved.
+
+(6) Section 10 of the Pensions Act 1995 (civil penalties) applies to a trustee who fails to comply with a requirement imposed by this section.
+
+(7) Regulations under subsection (3)(b) are subject to negative resolution procedure.
+
+#### 38 Continuity option 3: conversion to closed scheme
+
+(1) This section applies where the trustees of a collective money purchase scheme decide to pursue continuity option 3.
+
+(2) The trustees must notify the Pensions Regulator when they consider that preparations for the conversion of the scheme into a closed scheme are complete.
+
+(3) The Secretary of State may by regulations require notification under subsection (2) to be given before the end of a period specified in the regulations.
+
+(4) If the Pensions Regulator is satisfied—
+
+(a) that preparations for the conversion of the scheme into a closed scheme are complete, and
+
+(b) that the conversion will resolve the triggering event giving rise to the decision to pursue continuity option 3, and any other event within the triggering events table that has subsequently occurred in relation to the collective money purchase scheme,
+
+the Regulator must notify the trustees accordingly.
+
+(5) The conversion of the scheme into a closed scheme may be carried out only in accordance with the provisions of the scheme.
+
+(6) The scheme may not begin operating as a closed scheme until the trustees have received notification under subsection (4).
+
+(7) Where the trustees have pursued continuity option 3 they may not later reverse the closure of the scheme (either completely or to any extent).
+
+(8) Section 10 of the Pensions Act 1995 (civil penalties) applies to a trustee who fails to comply with a requirement or restriction imposed by this section.
+
+(9) Regulations under subsection (3) are subject to negative resolution procedure.
+
+(10) In this section “closed”, in relation to a collective money purchase scheme, means closed to new contributions or new members (or both).
+
+The reference to closure of the scheme in subsection (7) is to be read accordingly.
+
+#### 39 Implementation strategy
+
+(1) If a triggering event occurs in relation to a collective money purchase scheme, the trustees must—
+
+(a) produce a document setting out how the interests of members of the scheme are to be protected following the occurrence of the event (an “implementation strategy”), and
+
+(b) submit it to the Pensions Regulator for approval before the end of a period specified in regulations made by the Secretary of State.
+
+This is subject to subsections (2)(a) and (3)(a).
+
+(2) If an item 1, 2 or 3 triggering event occurs within the triggering event period for an earlier triggering event—
+
+(a) the trustees are not required to submit an implementation strategy in respect of the earlier triggering event;
+
+(b) any implementation strategy approved by the Pensions Regulator in respect of the earlier triggering event ceases to have effect when the later triggering event occurs.
+
+(3) In the case of an item 1 or 2 triggering event—
+
+(a) the trustees are required to submit an implementation strategy only if the decision to withdraw authorisation has become final (see section 35);
+
+(b) if it becomes clear that authorisation is not to be withdrawn, subsection (2) ceases to have effect on the date on which that becomes clear.
+
+Subsections (3) to (5) of section 32 apply for the purposes of paragraph (b) above as they apply for the purposes of subsection (2)(c) of that section.
+
+(4) The Pensions Regulator may direct the trustees to comply with a requirement imposed by this section.
+
+(5) Section 10 of the Pensions Act 1995 (civil penalties) applies to a person who fails to comply with a direction under subsection (4).
+
+(6) This section overrides any provision of the collective money purchase scheme, to the extent that there is a conflict.
+
+(7) Regulations under subsection (1)(b) are subject to negative resolution procedure.
+
+#### 40 Approval of implementation strategy
+
+(1) The Pensions Regulator may approve an implementation strategy only if it is satisfied that the strategy is adequate.
+
+(2) Subsections (3) to (6) apply for the purposes of enabling the Pensions Regulator to decide whether it is satisfied that an implementation strategy for a collective money purchase scheme is adequate.
+
+(3) An implementation strategy must include information about the levels of administration charges in relation to members of the scheme.
+
+(4) The information must—
+
+(a) relate to the levels of administration charges as at the date specified or described in regulations made by the Secretary of State, and
+
+(b) be set out in the manner specified or described in the regulations.
+
+(5) An implementation strategy must include information about the following matters—
+
+(a) the continuity option that is to be pursued (see section 34);
+
+(b) where continuity option 1 (discharge of liabilities and winding up) is to be pursued—
+
+(i) the scheme or schemes to which it is proposed to transfer the value of accrued rights to benefits, or the alternative payment mechanism by which the payment of benefits is to be secured, if known;
+
+(ii) when the transfer is expected to take place, or (as the case may be) when the payment of benefits is expected to be secured;
+
+(c) where continuity option 2 (resolving the triggering event) is to be pursued, how it is proposed that the triggering event should be resolved;
+
+(d) where continuity option 3 (conversion to closed scheme) is to be pursued—
+
+(i) the way in which, the extent to which and the time by which it is proposed to close the scheme;
+
+(ii) how the scheme will continue to meet the authorisation criteria;
+
+(iii) any revisions that will be needed to the viability report and the continuity strategy (see sections 13 and 17).
+
+[[^F66](iv) where the scheme is an unconnected multiple employer scheme, any revisions that will be needed to the business plan (see section 14A).]
+
+(6) An implementation strategy must—
+
+(a) include any other information specified or described in regulations made by the Secretary of State, and
+
+(b) be prepared in accordance with regulations made by the Secretary of State.
+
+(7) Regulations under this section are subject to negative resolution procedure.
+
+#### 41 Trustees' duties once implementation strategy approved
+
+(1) When the Pensions Regulator has notified the trustees of a collective money purchase scheme that an implementation strategy relating to the scheme is approved, the trustees must—
+
+(a) pursue the continuity option identified in the strategy, and
+
+(b) take such other steps as are identified in the strategy in order to carry it out.
+
+(2) The Secretary of State may by regulations require the trustees of a collective money purchase scheme to make available an approved implementation strategy relating to the scheme, before the end of the period specified or described in the regulations, [[^F67]to employers or, where the scheme is a single or connected employer scheme, relevant former employers] that are of a description specified in the regulations.
+
+(3) If an item 1, 2 or 3 triggering event occurs within the triggering event period for an earlier triggering event—
+
+(a) the trustees cease to be subject to the requirements of subsection (1) and regulations under subsection (2) in respect of an approved implementation strategy relating to the earlier triggering event, but
+
+(b) in the case of an item 1 or 2 triggering event, if it becomes clear that authorisation is not to be withdrawn, the trustees are again subject to those requirements from the date on which that becomes clear.
+
+Subsections (3) to (5) of section 32 apply for the purposes of paragraph (b) above as they apply for the purposes of subsection (2)(c) of that section.
+
+(4) The Pensions Regulator may direct the trustees to comply with subsection (1), if they fail to do so.
+
+(5) Section 10 of the Pensions Act 1995 (civil penalties) applies to a person who fails to comply with a direction under subsection (4).
+
+(6) To the extent that there is a conflict, this section overrides a provision of—
+
+(a) a collective money purchase scheme, or
+
+(b) a contract between the trustees of a collective money purchase scheme and a person providing services in relation to the scheme.
+
+(7) Regulations under subsection (2) are subject to negative resolution procedure.
+
+#### 42 Prohibition on winding up except in accordance with continuity option 1
+
+(1) A person may wind up a collective money purchase scheme only in accordance with continuity option 1 (see section 36).
+
+(2) Subsection (1) overrides any provision of a collective money purchase scheme to the extent that there is a conflict.
+
+(3) Section 10 of the Pensions Act 1995 (civil penalties) applies to a person who fails to comply with subsection (1).
+
+#### 43 Periodic reporting requirements
+
+(1) During a triggering event period for a collective money purchase scheme, the trustees must submit reports to the Pensions Regulator.
+
+(2) The first report must be submitted before the end of a period specified in regulations made by the Secretary of State.
+
+(3) Subsequent reports must be submitted at intervals specified by the Pensions Regulator.
+
+(4) The reports must—
+
+(a) report on progress in carrying out the implementation strategy,
+
+(b) record events or decisions of a description specified in regulations made by the Secretary of State,
+
+(c) contain such other information as is specified in regulations made by the Secretary of State, and
+
+(d) be made in the manner and form specified by the Pensions Regulator.
+
+(5) Section 10 of the Pensions Act 1995 (civil penalties) applies to a person who fails to comply with a requirement imposed by this section.
+
+(6) Regulations under this section are subject to negative resolution procedure.
+
+#### 44 Pause orders
+
+(1) This section applies during a triggering event period for a collective money purchase scheme.
+
+(2) The Pensions Regulator may make a pause order in relation to the scheme if either of the following two conditions is met.
+
+(3) Condition 1 is that the Pensions Regulator is satisfied that making a pause order will help the trustees to carry out the implementation strategy.
+
+(4) Condition 2 is that the Pensions Regulator is satisfied that—
+
+(a) there is, or is likely to be if a pause order is not made, an immediate risk to the interests of members of the scheme or the assets of the scheme, and
+
+(b) it is necessary to make a pause order to protect the interests of the generality of the members of the scheme.
+
+(5) A pause order is an order that during the period for which it has effect one or more of the following directions has effect—
+
+(a) a direction that no new members (or no new members of a specified description) are to be admitted to the scheme;
+
+(b) a direction that no further payments (or no further payments of a specified description) are to be made towards the scheme—
+
+(i) by or on behalf of employers or [[^F68], where the scheme is a single or connected employer scheme,] relevant former employers (or employers or relevant former employers of a specified description), or
+
+(ii) by or in respect of members (or members of a specified description);
+
+(c) a direction that an amount (or specified amount) which—
+
+(i) corresponds to a payment that would be due to be made towards the scheme in respect of a member but for a direction under paragraph (b), and
+
+(ii) has been deducted from a payment of earnings in respect of an employment,
+
+is to be repaid to the member in question by the employer;
+
+(d) a direction that no benefits (or no benefits of a specified description) are to be paid to or in respect of members (or members of a specified description) under the scheme rules;
+
+(e) a direction that—
+
+(i) no transfers (or no transfers of a specified description) of or in respect of a member's rights under the scheme rules are to be made from the scheme,
+
+(ii) no transfer payments (or no transfer payments of a specified description) in respect of a member's rights under the scheme rules are to be made from the scheme, or
+
+(iii) no other steps (or no other steps of a specified description) are to be taken to discharge a liability of the scheme to or in respect of a member of the scheme in respect of pensions or other benefits.
+
+(6) In subsection (5)(b)—
+
+(a) a reference to payments does not include payments due to be made before the order takes effect, and
+
+(b) a reference to payments towards a scheme includes payments in respect of pension credits where the person entitled to the credit is a member of the scheme.
+
+(7) A direction under subsection (5)(e) may provide that—
+
+(a) no transfers of or in respect of a member's rights under the scheme rules, or no such transfers of a specified description, may be made from the scheme, or
+
+(b) no transfer payments in respect of such rights, or no such transfer payments of a specified description, may be made from the scheme,
+
+unless the amounts paid out from the scheme in respect of the transfers or transfer payments are determined in a specified manner and the transfers or transfer payments satisfy such other conditions as may be specified.
+
+(8) A pause order may also require the trustees of the scheme to obtain an actuarial valuation within a specified period.
+
+(9) A pause order containing such a requirement must specify—
+
+(a) the date by reference to which the matters to be set out in the valuation must be determined;
+
+(b) the information and statements that the valuation must contain;
+
+(c) any other requirements that the valuation must satisfy.
+
+(10) Schedule 2 makes further provision about pause orders.
+
+(11) In this section—
+
+- “earnings” has the meaning given in section 181(1) of the Pension Schemes Act 1993;
+- “pension credit” means a credit under section 29(1)(b) of the Welfare Reform and Pensions Act 1999 or Article 26(1)(b) of the Welfare Reform and Pensions (Northern Ireland) Order 1999 (S.I. 1999/3147 (N.I. 11));
+- “specified” means specified in the pause order.
+
+#### 45 Prohibition on increasing charges etc during triggering event period
+
+(1) During a triggering event period for a collective money purchase scheme, the trustees must not—
+
+(a) impose administration charges on or in respect of members at levels above those set out in the implementation strategy,
+
+(b) impose new administration charges on or in respect of members, or
+
+(c) impose administration charges on or in respect of a member in consequence of the member leaving, or deciding to leave, the scheme during that period.
+
+(2) The trustees of a receiving scheme that is a collective money purchase scheme or a Master Trust scheme must not—
+
+(a) impose administration charges on or in respect of members at levels above those set out in the document provided to the Pensions Regulator by virtue of regulations under section 36(7)(e), or
+
+(b) impose new administration charges on or in respect of members,
+
+for the purposes of meeting any of the costs mentioned in subsection (4).
+
+(3) The Secretary of State may by regulations—
+
+(a) provide that subsection (1) or (2) does not apply in relation to administration charges specified or described in the regulations;
+
+(b) make provision about how levels of administration charges are to be calculated for the purposes of this section.
+
+(4) The costs referred to in subsection (2) are costs for which a receiving scheme is liable—
+
+(a) which were incurred by the transferring scheme, or
+
+(b) which relate directly to the transfer of the value of accrued rights to benefits under the transferring scheme.
+
+(5) To the extent that there is a conflict, this section overrides a provision of—
+
+(a) a collective money purchase scheme,
+
+(b) a Master Trust scheme,
+
+(c) a contract between the trustees of a collective money purchase scheme and a person providing services in relation to the scheme, or
+
+(d) a Master Trust scheme contract within the meaning of section 39(1) of the Pension Schemes Act 2017 or any corresponding statutory provision.
+
+(6) The Secretary of State may by regulations apply some or all of the provisions of this section to a receiving scheme that has characteristics specified in regulations under section 36(2)(b).
+
+(7) Section 10 of the Pensions Act 1995 (civil penalties) applies to a trustee who fails to comply with this section.
+
+(8) In this section—
+
+- “receiving scheme” means a pension scheme that—
+
+  - (a) receives a transfer from a transferring scheme of the value of accrued rights to benefits under that scheme during a triggering event period for that scheme, and
+  - (b) was proposed by the trustees of the transferring scheme, or by employers in relation to that scheme, as a scheme to which the value of those rights should be transferred;
+
+- “transferring scheme” means a collective money purchase scheme the trustees of which, following a triggering event, are pursuing continuity option 1.
+
+(9) Regulations under subsection (3)(a) or (6), and the first regulations under subsection (3)(b), are subject to affirmative resolution procedure.
+
+(10) Subsequent regulations under subsection (3)(b) are subject to negative resolution procedure.
+
+### Publication of information
+
+#### 46 Publication of information
+
+(1) The Secretary of State may by regulations require the trustees of a collective money purchase scheme to publish information relating to the scheme that is specified or described in the regulations.
+
+(2) Regulations under subsection (1) may, among other things—
+
+(a) require the trustees to publish a document specified or described in the regulations;
+
+(b) require information or a document to be made available free of charge;
+
+(c) require information or a document to be provided to a person in a form or by means specified or described in the regulations;
+
+(d) require or permit information specified or described in the regulations to be excluded from a document when it is published in accordance with the regulations.
+
+(3) In complying with a requirement imposed by regulations under subsection (1) a trustee must have regard to any guidance prepared from time to time by the Secretary of State.
+
+(4) Section 10 of the Pensions Act 1995 (civil penalties) applies to a trustee who fails to take all reasonable steps to comply with a requirement imposed by regulations under this section.
+
+(5) Regulations under subsection (1) are subject to negative resolution procedure.
+
+### Powers to make further provision
+
+#### 47 Powers to extend definition of qualifying schemes
+
+(1) The Secretary of State may by regulations remove the exclusion of any of the following from the definition of “qualifying scheme” in section 3—
+
+(a) pension schemes not established solely by one or more persons to whom section 1(2)(a) (employer) of the Pension Schemes Act 1993 applied when the scheme was established;
+
+(b) pension schemes used, or intended to be used, by two or more employers some or all of which are not connected with each other.
+
+(2) The Secretary of State may by regulations make further provision about collective money purchase schemes that could not be qualifying schemes, or sections of qualifying schemes, but for regulations under subsection (1) (“relevant schemes”), including—
+
+(a) provision about the authorisation of relevant schemes by the Pensions Regulator;
+
+(b) provision about triggering events and continuity options;
+
+(c) provision about administration charges during triggering event periods.
+
+(3) Regulations under subsection (2) making provision about relevant schemes used, or intended to be used, by two or more employers some or all of which are not connected with each other may among other things—
+
+(a) make provision corresponding or similar to provision made by or under Part 1 of the Pension Schemes Act 2017;
+
+(b) disapply any provision of that Part in relation to such schemes.
+
+(4) The provision that may be made under subsection (1) or (2) may be made by—
+
+(a) modifying or amending this Part;
+
+(b) making consequential modifications or amendments of any other enactment.
+
+[[^F69](4A) Where regulations under this section make provision in relation to an unconnected multiple employer scheme that corresponds or is similar to provision contained in regulations under another provision of this Part made in relation to a single or connected employer scheme, the regulations under this section are to be treated for the purposes of this Part as having been made under that other provision of this Part to the extent that they contain such provision.]
+
+(5) Regulations under this section are subject to affirmative resolution procedure.
+
+### Supplementary
+
+#### 48 Minor and consequential amendments
+
+Schedule 3 makes minor and consequential amendments relating to this Part.
+
+#### 49 Interpretation of Part 1
+
+(1) In this Part—
+
+- [[^F70]“the accounts” of an unconnected multiple employer scheme means the accounts audited by the person appointed as auditor in relation to the scheme under section 47(1)(a) of the Pensions Act 1995 (professional advisers) (and see subsection (1A) below);]
+
+- “administration charge” has the same meaning as in paragraph 1 of Schedule 18 to the Pensions Act 2014;
+
+- “authorisation” means authorisation under section 9 or by virtue of regulations under section 5(2) (and related expressions are to be read accordingly);
+
+- “authorisation criteria” has the meaning given in section 9(3);
+
+- [[^F71]“chief financial officer”, in relation to an unconnected multiple employer scheme, means a person acting in a capacity in which that person has significant influence over either or both of the following—
+
+  - the management and use of financial resources of the scheme;
+  - business decisions relating to the commercial activities of the scheme;]
+
+- [[^F71]“chief investment officer”, in relation to an unconnected multiple employer scheme, means a person who—
+
+  - is acting in a capacity in which that person has significant influence over either or both of the following—
+  
+    - the contents of the scheme’s investment strategy;
+    - the implementation, management and communication of the scheme’s investment strategy, but
+  
+  - does not have that influence by virtue of a contract or other arrangement—
+  
+    - under which services relating to investments are provided in relation to the scheme, and
+    - by virtue of which the scheme, or a person acting on behalf of the scheme, has the status of client or customer;]
+
+- [[^F71]“Code” means a code of practice issued by the Pensions Regulator under section 90 of the Pensions Act 2004;]
+
+- “the data protection legislation” has the same meaning as in the Data Protection Act 2018 (see section 3 of that Act);
+
+- “employer”, in relation to an occupational pension scheme, means a person who employs or engages persons who are, or are entitled to become, members of the scheme;
+
+- “enactment” includes an enactment comprised in subordinate legislation;
+
+- “implementation strategy” has the meaning given in section 39;
+
+- “insolvency event” has the meaning given in section 121 of the Pensions Act 2004;
+
+- [[^F72]“investment strategy”, in relation to an unconnected multiple employer scheme, means a document prepared by the trustees setting out the strategy for investing the assets that arise or derive from the payments made by or in respect of members of the scheme;]
+
+- “Master Trust scheme” means a Master Trust scheme within the meaning of the Pension Schemes Act 2017 or any corresponding statutory provision;
+
+- “member” has the meaning given in section 124(1) of the Pensions Act 1995 (read with regulations made under section 125(4) of that Act);
+
+- “occupational pension scheme” has the same meaning as in the Pension Schemes Act 1993 (see section 1(1) of that Act);
+
+- “pension scheme” has the meaning given in section 1(5) of the Pension Schemes Act 1993;
+
+- “the scheme actuary”, in relation to a pension scheme, means the person appointed under section 47(1)(b) of the Pensions Act 1995 (professional advisers) in relation to the scheme;
+
+- [[^F73]“the scheme proprietor”, in relation to an unconnected multiple employer scheme, has the meaning given in section 14B(3);]
+
+- “scheme rules” has the meaning given in section 318(2) and (3) of the Pensions Act 2004;
+
+- “statutory provision” has the meaning given in section 1(f) of the Interpretation Act (Northern Ireland) 1954 (c. 33 (N.I.));
+
+- “subordinate legislation” has the meaning given in section 21(1) of the Interpretation Act 1978;
+
+- “triggering event” has the meaning given in section 31.
+
+- [[^F74]“undertaking” has the meaning given in section 1161 of the Companies Act 2006;]
+
+- [[^F74]“unincorporated association” means any body of persons unincorporate but does not include a partnership.]
+
+[[^F75](1A) In relation to an unconnected multiple employer scheme which is a section of a qualifying scheme, references in this Part to the scheme’s accounts are to be read as references to the accounts of the qualifying scheme as a whole.]
+
+(2) For the purposes of this Part, an employer (“A”) is connected with another employer (“B”)—
+
+(a) where A is, or has been, a group undertaking in relation to B within the meaning of section 1161(5) of the Companies Act 2006, or
+
+(b) in circumstances specified in regulations made by the Secretary of State.
+
+(3) This Part applies to a qualifying scheme—
+
+(a) which provides both qualifying benefits and other benefits, and
+
+(b) for which there is no power to wind up the scheme to the extent only that it provides qualifying benefits,
+
+as if references to winding up the scheme, or to the scheme being wound up, were to ceasing to operate the scheme, or the scheme ceasing to operate, to the extent that it provides qualifying benefits.
+
+(4) Regulations made by the Secretary of State may make provision to the effect that, for the purposes of any specified provisions of this Part, a reference in this Part to a collective money purchase scheme includes a scheme that—
+
+(a) is in the process of being wound up, and
+
+(b) was a collective money purchase scheme immediately before the beginning of that process.
+
+“Specified” here means specified in the regulations.
+
+(5) Regulations under subsection (2) or (4) are subject to affirmative resolution procedure.
+
+#### 50 Index of defined expressions
+
+The Table below lists provisions that define or otherwise explain terms defined for this Part of this Act.
+
+|  |  |
+|---|---|
+| [[^F76]the accounts (of an unconnected multiple employer scheme) | section 49] |
+| actuarial valuation | section 20(2) |
+| administration charge | section 49 |
+| affirmative resolution procedure | section 51 |
+| authorisation (and related expressions) | section 49 |
+| authorisation criteria | section 49 |
+| [[^F77]chief financial officer (in relation to an unconnected multiple employer scheme) | section 49] |
+| [[^F77]chief investment officer (in relation to an unconnected multiple employer scheme) | section 49] |
+| [[^F77]Code | section 49] |
+| collective money purchase benefit | section 1 |
+| collective money purchase scheme | section 1 |
+| connected (in relation to employers) | section 49 |
+| the data protection legislation | section 49 |
+| determination notice | section 30(4) |
+| employer | section 49 |
+| enactment | section 49 |
+| implementation strategy | section 49 |
+| insolvency event | section 49 |
+| [[^F78]investment strategy (in relation to an unconnected multiple employer scheme) | section 49] |
+| item 1 triggering event (and similar references) | section 31(5) |
+| Master Trust scheme | section 49 |
+| member | section 49 |
+| negative resolution procedure | section 51 |
+| occupational pension scheme | section 49 |
+| pension scheme | section 49 |
+| [[^F79]promotion or marketing (and related expressions) | section 9(7)] |
+| qualifying benefit | section 2 |
+| qualifying scheme | sections 3 and 4 |
+| [[^F80]rectification (in relation to promotion or marketing that is unclear or misleading, and related expressions) | section 9(7)] |
+| relevant former employer [[^F81](in relation to a single or connected employer scheme)] | section 31(5) |
+| the scheme actuary | section 49 |
+| [[^F82]the scheme proprietor (in relation to an unconnected multiple employer scheme) | section 49] |
+| scheme rules | section 49 |
+| section (of a pension scheme) | regulations under section 5(1) |
+| [[^F83]single or connected employer scheme | section 1(3)] |
+| special procedure | section 30(4) |
+| standard procedure | section 30(4) |
+| statutory provision | section 49 |
+| subordinate legislation | section 49 |
+| triggering event | section 49 |
+| triggering event period | section 32 |
+| triggering events table | section 31(4) |
+| [[^F84]unconnected multiple employer scheme | section 1(3)] |
+| [[^F84]undertaking | section 49] |
+| [[^F84]unincorporated association | section 49] |
+| warning notice | section 30(4) |
+
+#### 51 Regulations
+
+(1) Regulations under this Part are to be made by statutory instrument.
+
+(2) A power to make regulations under this Part may be used—
+
+(a) to make different provision for different purposes;
+
+(b) to make provision in relation to all or only some of the purposes for which it may be used.
+
+(3) Regulations under this Part may—
+
+(a) confer a discretion on a person;
+
+(b) make consequential, supplementary or incidental provision;
+
+(c) make transitional, transitory or saving provision.
+
+(4) Where regulations under this Part are subject to “negative resolution procedure”, the statutory instrument containing the regulations is subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(5) Where regulations under this Part are subject to “affirmative resolution procedure”, the regulations must not be made unless a draft of the statutory instrument containing them has been laid before Parliament and approved by a resolution of each House of Parliament.
+
+(6) Any provision that may be made by regulations under this Part subject to negative resolution procedure may be made by regulations subject to affirmative resolution procedure.
+
+## PART 2 — Collective money purchase benefits: Northern Ireland
+
+### Definitions
+
+#### 52 Collective money purchase benefits and schemes
+
+(1) For the purposes of this Part, a benefit provided under a pension scheme is a “collective money purchase benefit” if—
+
+(a) the benefit is a qualifying benefit (see section 53), and
+
+(b) the scheme is a qualifying scheme (see sections 54 and 55).
+
+(2) In this Part “collective money purchase scheme” means—
+
+(a) a qualifying scheme, or
+
+(b) a section of a qualifying scheme (see sections 54(6) to (9) and 56),
+
+under which all of the benefits that may be provided are qualifying benefits.
+
+[[^F85](3) In this Part—
+
+- “single or connected employer scheme” means a collective money purchase scheme not used, or intended to be used, by any employers other than—
+
+  - a single employer, or
+  - two or more employers that are connected with each other;
+
+- “unconnected multiple employer scheme” means a collective money purchase scheme used, or intended to be used, by two or more employers, some or all of which are not connected with each other.]
+
+#### 53 Qualifying benefits
+
+(1) A benefit provided under a pension scheme is a “qualifying benefit” if—
+
+(a) the benefit is provided out of the available assets of the scheme,
+
+(b) under the rules of the scheme, the rate or amount of the benefit is subject to periodic adjustments designed to achieve a balance between the value of the available assets of the scheme and the required amount, and
+
+(c) the benefit is not of a description specified in regulations made by the Department.
+
+(2) In subsection (1)—
+
+- “the available assets of the scheme” means all the assets that—
+
+  - (a) arise or derive from the payments made by or in respect of members of the scheme, and
+  - (b) are available (subject to any deductions that fall to be made in respect of administration charges) for the provision of benefits to or in respect of the members of the scheme collectively;
+
+- “the required amount” means the amount expected to be required, applying appropriate actuarial assumptions, for the purpose of providing benefits under the scheme to or in respect of the members of the scheme collectively.
+
+(3) Regulations under subsection (1)(c) are subject to confirmatory procedure.
+
+(4) Where a scheme is divided into sections, this section has effect as if—
+
+(a) the reference to the scheme in subsection (1)(a) were a reference to a section of the scheme, and
+
+(b) the other references to the scheme were references to that section of it.
+
+#### 54 Qualifying schemes
+
+(1) A pension scheme is a “qualifying scheme” if it meets the requirements in this section.
+
+(2) The scheme must be an occupational pension scheme established under an irrevocable trust [^F86]....
+
+[^F87]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) The scheme must not be a relevant public service pension scheme (see section 55).
+
+(5) The qualifying benefits provided under the scheme must consist of or include the payment of a pension.
+
+(6) If the scheme provides both qualifying benefits and other benefits, there must be appropriate separation of the qualifying benefits.
+
+(7) There is “appropriate separation” of qualifying benefits and other benefits if (and only if)—
+
+(a) the scheme is divided into sections,
+
+(b) none of the sections under which qualifying benefits are provided provides other types of benefit,
+
+(c) payments made by or in respect of members of the scheme for the purpose of providing qualifying benefits under a section of the scheme are allocated to that section, and
+
+(d) a proportion of the assets of the scheme is attributable to each section of the scheme and cannot be used for the purposes of any other section.
+
+(8) If the scheme provides a combination of qualifying benefits with different characteristics that is described in regulations made by the Department, there must be appropriate separation of those qualifying benefits.
+
+(9) There is “appropriate separation” of qualifying benefits with different characteristics if (and only if)—
+
+(a) the scheme is divided into sections,
+
+(b) each of the different types of qualifying benefit is provided under a different section,
+
+(c) payments made by or in respect of members of the scheme for the purpose of providing qualifying benefits under a section of the scheme are allocated to that section, and
+
+(d) a proportion of the assets of the scheme is attributable to each section of the scheme and cannot be used for the purposes of any other section.
+
+(10) Regulations under subsection (8) are subject to negative resolution.
+
+#### 55 Qualifying schemes: supplementary
+
+(1) For the purposes of section 54(4) a pension scheme is a relevant public service pension scheme if it is—
+
+(a) a public service pension scheme within the meaning of the Pension Schemes (Northern Ireland) Act 1993 (see section 1(1) of that Act),
+
+(b) a scheme under section 1 of the Public Service Pensions Act (Northern Ireland) 2014 (c. 2 (N.I.)) (new public service schemes),
+
+(c) a new public body pension scheme as defined in section 31 of that Act, or
+
+(d) a statutory pension scheme that is connected with a scheme referred to in paragraph (b) or (c).
+
+(2) In subsection (1)(d), “connected” and “statutory pension scheme” have the same meaning as in the Public Service Pensions Act (Northern Ireland) 2014 (c. 2 (N.I.)) (see sections 4(6) and 34 of that Act).
+
+(3) The reference to a pension in section 54(5) does not include income withdrawal or dependants' income withdrawal within the meaning of paragraphs 7 and 21 of Schedule 28 to the Finance Act 2004.
+
+#### 56 Schemes divided into sections
+
+(1) The Department may by regulations make provision about when a pension scheme is or is not divided into sections for the purposes of this Part.
+
+(2) The Department may by regulations provide that, where a collective money purchase scheme that is not divided into sections (an “undivided scheme”) becomes a collective money purchase scheme that is divided into sections, an authorisation previously granted in respect of the undivided scheme applies to any of those sections that—
+
+(a) is a collective money purchase scheme by reason of section 52(2)(b), and
+
+(b) satisfies conditions specified in the regulations.
+
+(3) For the purposes of this Part, where—
+
+(a) a qualifying scheme is divided into sections, and
+
+(b) each of those sections is a collective money purchase scheme by reason of section 52(2)(b),
+
+the qualifying scheme (taken as a whole) is to be treated as if it were not a collective money purchase scheme.
+
+(4) Regulations under subsection (1) are subject to negative resolution.
+
+(5) Regulations under subsection (2) are subject to confirmatory procedure.
+
+#### 57 Amendment of definitions of “money purchase benefits” etc
+
+(1) Schedule 4 contains amendments of definitions of “money purchase benefits” in—
+
+(a) Schedule 10A to the Building Societies Act 1986 (disclosures about directors, other officers and employees in notes to accounts);
+
+(b) the Pension Schemes (Northern Ireland) Act 1993;
+
+(c) Part 1 of the Pensions (No. 2) Act (Northern Ireland) 2008 (c. 13 (N.I.)) (pension scheme membership for jobholders).
+
+(2) In section 30 of the Pensions Act (Northern Ireland) 2012 (c. 3 (N.I.)) (power to amend definitions of “money purchase benefits” in certain Acts)—
+
+(a) in subsection (1)—
+
+(i) for “purpose the” substitute
+
+> purpose—
+>
+> (a) the
+
+;
+
+(ii) at the end insert
+
+> , or
+>
+> (b) section 53 of the Pension Schemes Act 2021 (collective money purchase benefits: meaning of “qualifying benefits”).
+
+;
+
+(b) in subsection (2), at the end insert “ or by Schedule 4 to the Pension Schemes Act 2021 ”.
+
+### Authorisation
+
+#### 58 Authorisation of collective money purchase schemes
+
+(1) A person may not operate a collective money purchase scheme unless the scheme is authorised.
+
+(2) Article 10 of the Pensions (Northern Ireland) Order 1995 (S.I. 1995/3213 (N.I. 22)) (civil penalties) applies to a person who breaches subsection (1).
+
+(3) If the Pensions Regulator becomes aware that a collective money purchase scheme is being operated without authorisation, it must notify the trustees of the scheme that the scheme is not authorised.
+
+(4) The notification must—
+
+(a) explain that the notification is a triggering event (see section 82), and
+
+(b) include an explanation of the trustees' duties under sections 82 to 96.
+
+(5) For the purposes of this section a person “operates” a collective money purchase scheme if, in relation to the scheme, the person accepts—
+
+(a) money paid by a member (or prospective member), or
+
+(b) money paid by an employer (or prospective employer) in respect of contributions, fees, charges or anything else except—
+
+(i) the costs of setting up the scheme, or
+
+(ii) costs relating to obtaining authorisation for the scheme.
+
+#### 59 Application for authorisation
+
+(1) The trustees of a collective money purchase scheme may apply to the Pensions Regulator for authorisation.
+
+(2) An application must be made in the manner and form specified by the Pensions Regulator.
+
+(3) An application must include—
+
+(a) the scheme's viability report and viability certificate (see section 64), [^F88]...
+
+[[^F89](aa) where the scheme is an unconnected multiple employer scheme—
+
+(i) the scheme’s business plan (see section 65A);
+
+(ii) the scheme’s latest accounts (if any);
+
+(iii) the latest accounts (if any) of the scheme proprietor (see section 65B), prepared and audited as individual accounts in accordance with the applicable requirements, and
+
+(iv) the latest accounts of any undertaking, other than an unincorporated association, that partly or wholly funds the scheme proprietor, prepared and audited as individual accounts in accordance with the applicable requirements, and]
+
+(b) the scheme's continuity strategy (see section 68).
+
+[[^F90](3A) For the purposes of subsection (3)(aa)(iii) and (iv) accounts of a scheme proprietor or (as the case may be) an undertaking are prepared and audited as individual accounts in accordance with the applicable requirements if the accounts are prepared and audited in accordance with the requirements of the law by which the scheme proprietor or the undertaking is governed, ignoring any provision of that law—
+
+(a) that relates to the preparation or audit of group accounts;
+
+(b) that provides for accounts to be prepared or audited differently (or not at all) if the scheme proprietor or the undertaking—
+
+(i) does not exceed a certain size (by reference to turnover, balance sheet total, number of employees or otherwise), or
+
+(ii) is a subsidiary of another entity.]
+
+[[^F90](3B) If (notwithstanding subsection (3A)(a) and (b)) the law by which a scheme proprietor or undertaking is governed does not impose any requirements in relation to the preparation of the accounts of the scheme proprietor or undertaking, or the audit of those accounts, subsection (3A) is to apply as if the scheme proprietor or undertaking were subject to the requirements of Part 15 (accounts), or (as the case may be) Part 16 (audit), of the Companies Act 2006 with any modifications necessary to take account of the nature and structure of the scheme proprietor or undertaking (and ignoring any provision of that Act that falls within subsection (3A)(a) or (b)).]
+
+[[^F90](3C) In subsection (3A)(a) “group accounts” means accounts prepared under—
+
+(a) section 399 of the Companies Act 2006, or
+
+(b) any corresponding or similar provision (including a provision of the law of a territory outside the United Kingdom).]
+
+(4) The Department may by regulations—
+
+(a) specify other information that must be included in an application;
+
+(b) require a fee to be paid to the Pensions Regulator in respect of an application.
+
+(5) In considering an application, the Pensions Regulator may take into account any matters it considers appropriate, including—
+
+(a) additional information provided by the applicant, and
+
+(b) subsequent changes to the application or to any information provided by the applicant.
+
+(6) Regulations under subsection (4) are subject to negative resolution.
+
+#### 60 Decision on application
+
+(1) Where an application is made for authorisation of a collective money purchase scheme under section 59, the Pensions Regulator must decide whether it is satisfied that the scheme meets the authorisation criteria.
+
+(2) The Pensions Regulator must make that decision within the period of six months beginning with the day on which the Pensions Regulator received the application.
+
+(3) The authorisation criteria are—
+
+(a) that the persons involved in the scheme are fit and proper persons (see section 62),
+
+(b) that the design of the scheme is sound (see section 63),
+
+(c) that the scheme is financially sustainable (see section 65),
+
+[[^F91](ca) where the scheme is an unconnected multiple employer scheme, that—
+
+(i) the scheme has a single scheme proprietor (see section 65B), and
+
+(ii) the scheme proprietor meets the requirements set out in section 65C,]
+
+[[^F91](cb) where the scheme is an unconnected multiple employer scheme, that—
+
+(i) no person has carried out promotion or marketing of the scheme that is unclear or misleading without rectification (see section 65D(1)), and
+
+(ii) the scheme has adequate systems and processes for securing that promotion or marketing of the scheme is clear and not misleading (see section 65D(2) and (3)),]
+
+[[^F91](cc) where the scheme is an unconnected multiple employer scheme, that no trustee of the scheme—
+
+(i) promotes or markets the scheme, or
+
+(ii) acts as a chief or other senior financial officer of the scheme,]
+
+(d) that the scheme has adequate systems and processes for communicating with members and others (see section 66),
+
+(e) that the systems and processes used in running the scheme are sufficient to ensure that it is run effectively (see section 67), [^F92]...
+
+(f) that the scheme has an adequate continuity strategy (see section 68) [[^F93], and ]
+
+[[^F94](g) where the scheme is an unconnected multiple employer scheme, that if—
+
+(i) a triggering event occurs in relation to the scheme, and
+
+(ii) the circumstances are such that the trustees of the scheme are not required to pursue continuity option 1 by virtue of section 85(3),
+
+the trustees will not be prevented from pursuing continuity option 3 if they consider it appropriate to do so (see sections 68A, 82 and 85).]
+
+[[^F95](3A) Subsection (3)(cb)(ii) does not apply if no person is carrying out promotion or marketing of the scheme.]
+
+(4) If the Pensions Regulator is satisfied that the collective money purchase scheme meets the authorisation criteria, it must—
+
+(a) grant the authorisation,
+
+(b) notify the applicant of its decision, and
+
+(c) add the scheme to its list of authorised collective money purchase schemes (see section 77).
+
+(5) If the Pensions Regulator is not satisfied that the collective money purchase scheme meets the authorisation criteria, it must—
+
+(a) refuse to grant the authorisation, and
+
+(b) notify the applicant of its decision.
+
+(6) A notification under subsection (5)(b) must also include—
+
+(a) the reasons for the decision, and
+
+(b) details of the right of referral to the First-tier Tribunal or Upper Tribunal (see section 61).
+
+[[^F96](7) In this Part—
+
+- “promotion or marketing” of a scheme means any communication about the scheme for the purpose of inducing an employer (or prospective employer) to use, or continue to use, the scheme (whether or not that communication is accompanied by an offer of, or provision of, a benefit);
+- “rectification”, in relation to promotion or marketing that is unclear or misleading, means that a clarification or correction is made in relation to the promotion or marketing as soon as practicable,
+
+and related expressions are to be read accordingly.]
+
+#### 60A [[^F97]Failure of unconnected multiple employer schemes to commence operation
+
+(1) Where the Pensions Regulator grants authorisation to an unconnected multiple employer scheme, but no person has operated the scheme within the commencement period—
+
+(a) the scheme’s authorisation is withdrawn, and
+
+(b) the Pensions Regulator must—
+
+(i) notify the trustees that the scheme is no longer authorised, and
+
+(ii) remove the scheme from the list of authorised collective money purchase schemes (see section 77).
+
+(2) The commencement period, in relation to a scheme, is the period of 24 months beginning with the day on which the Pensions Regulator received the application for authorisation of the scheme.
+
+(3) But if, before the end of that 24-month period, the trustees of the scheme satisfy the Pensions Regulator that they have good reason for needing an extension to the period, the Regulator may extend the commencement period by up to six weeks.
+
+(4) A notification to the trustees of an unconnected multiple employer scheme under section 60(4)(b) must state—
+
+(a) the date on which the commencement period ends, and
+
+(b) that if no person has operated the scheme by that date, the authorisation will be withdrawn.
+
+(5) If no person has operated an authorised unconnected multiple employer scheme before the beginning of the period of three months ending with the date on which the commencement period ends, the Pensions Regulator must send a second notification to the trustees of the scheme stating the matters specified in subsection (4)(a) and (b).
+
+(6) Section 58(5) (meaning of “operates”) applies for the purposes of this section.]
+
+#### 61 Reference to Tribunal of refusal to grant authorisation
+
+(1) If the Pensions Regulator refuses to grant authorisation to a collective money purchase scheme, the decision may be referred to the Tribunal by—
+
+(a) the trustees, or
+
+(b) any other person who appears to the Tribunal to be directly affected by the decision.
+
+(2) In this section “the Tribunal”, in relation to a reference under subsection (1), means—
+
+(a) the First-tier Tribunal, in any case where it is determined by or under Tribunal Procedure Rules that the First-tier Tribunal is to hear the reference;
+
+(b) the Upper Tribunal, in any other case.
+
+### Authorisation criteria
+
+#### 62 Fit and proper persons requirement
+
+(1) This section applies for the purposes of enabling the Pensions Regulator to decide whether it is satisfied that the persons involved in a collective money purchase scheme are fit and proper persons (see section 60(3)(a)).
+
+(2) The Pensions Regulator must assess whether each of the following is a fit and proper person to act in relation to the scheme in the capacity mentioned—
+
+(a) a person who establishes the scheme;
+
+(b) a trustee;
+
+[[^F98](ba) where the scheme is an unconnected multiple employer scheme, the scheme proprietor (see section 65B);
+
+(bb) where the scheme is an unconnected multiple employer scheme, a person who promotes or markets the scheme;
+
+(bc) where the scheme is an unconnected multiple employer scheme, a chief or other senior financial officer of the scheme;
+
+(bd) where the scheme is an unconnected multiple employer scheme, a chief or other senior investment officer of the scheme;]
+
+(c) a person who (alone or with others) has power to appoint or remove a trustee;
+
+(d) a person who (alone or with others) has power to vary the provisions of the scheme;
+
+(e) a person acting in a capacity specified in regulations made by the Department.
+
+(3) In assessing whether a person is a fit and proper person to act in a particular capacity, the Pensions Regulator—
+
+(a) must take into account any matters specified in regulations made by the Department, and
+
+(b) may take into account such other matters as it considers appropriate, including matters relating to a person connected with that person.
+
+(4) Regulations under subsection (3)(a) may include provision requiring specified information to be provided to the Pensions Regulator.
+
+(5) For the purposes of this section, a person (“A”) is connected with another person (“B”) if—
+
+(a) A is an associate of B;
+
+(b) where B is a company, A is a director or shadow director of B or an associate of a director or shadow director of B;
+
+(c) A is a trustee of an occupational pension scheme established under a trust and—
+
+(i) the beneficiaries of the trust include B or an associate of B, or
+
+(ii) the provisions of the scheme confer a power that may be exercised for the benefit of B or an associate of B.
+
+(6) In this section—
+
+- “associate” has the meaning given in Article 4 of the Insolvency (Northern Ireland) Order 1989 (S.I. 1989/2405 (N.I. 19));
+- “director” and “shadow director” have the meaning given in Article 5 of that Order.
+
+(7) Regulations under subsection (3)(a) are subject to confirmatory procedure.
+
+(8) Regulations under subsection (2)(e) are subject to negative resolution.
+
+#### 63 Scheme design requirement
+
+(1) This section applies for the purposes of enabling the Pensions Regulator to decide whether it is satisfied that the design of a collective money purchase scheme is sound (see section 60(3)(b)).
+
+(2) In deciding whether the design of a collective money purchase scheme is sound, the Pensions Regulator must take into account—
+
+(a) the scheme's viability report and viability certificate (see section 64);
+
+(b) any matters specified in regulations made by the Department.
+
+(3) Regulations under subsection (2)(b) may include provision requiring specified information to be provided to the Pensions Regulator.
+
+(4) Regulations under subsection (2)(b) are subject to confirmatory procedure.
+
+#### 64 Viability report
+
+(1) The trustees of a collective money purchase scheme must—
+
+(a) prepare a document explaining the design of the scheme and the reasons that they consider the design to be sound (a “viability report”), and
+
+(b) obtain a certificate from the scheme actuary certifying that, in the actuary's opinion, the design of the scheme is sound (a “viability certificate”).
+
+(2) The scheme actuary may not give a viability certificate unless satisfied that the scheme has rules that meet the requirements of section 69 and any regulations under that section.
+
+(3) The Department may by regulations—
+
+(a) specify information that must be included in a viability report,
+
+(b) specify other requirements with which a viability report must comply,
+
+(c) make provision about the content of a viability certificate,
+
+(d) specify matters to which the scheme actuary must have regard when providing a viability certificate, and
+
+(e) make provision about additional information or documents that must be prepared or obtained in connection with a viability report.
+
+(4) The trustees of a collective money purchase scheme must, at least once a year—
+
+(a) review the most recent viability report,
+
+(b) if appropriate, revise it, and
+
+(c) obtain a new viability certificate in respect of the report (or revised report).
+
+(5) If the most recent viability report becomes inaccurate or incomplete to any significant extent, the trustees must—
+
+(a) revise the report, and
+
+(b) obtain a new viability certificate in respect of the revised report.
+
+(6) The trustees must provide the Pensions Regulator with the information and documents listed in subsection (7)—
+
+(a) on applying for authorisation (see section 59),
+
+(b) within three months of the viability report being revised, and
+
+(c) at any other time, on request from the Pensions Regulator.
+
+(7) The information and documents to be provided are—
+
+(a) the most recent viability report;
+
+(b) the most recent viability certificate;
+
+(c) any additional information or documents specified or described in regulations under subsection (3)(e).
+
+[[^F99](7A) Before providing a viability report to the Pensions Regulator in accordance with subsection (6)(a) the trustees of an unconnected multiple employer scheme must obtain the approval of the report by the scheme proprietor (see section 65B).]
+
+[[^F99](7B) The trustees of an unconnected multiple employer scheme must provide the scheme proprietor with any revised viability report—
+
+(a) within seven days of the viability report being revised, and
+
+(b) at any other time, on request from the scheme proprietor.]
+
+(8) Regulations under subsection (3) are subject to confirmatory procedure.
+
+#### 65 Financial sustainability requirement
+
+(1) This section applies for the purposes of enabling the Pensions Regulator to decide whether it is satisfied that a collective money purchase scheme is financially sustainable (see section 60(3)(c)).
+
+(2) In order to be satisfied that a collective money purchase scheme is financially sustainable, the Pensions Regulator must be satisfied that the scheme has sufficient financial resources to meet the following costs—
+
+(a) the costs of setting up and running the scheme, and
+
+(b) in the event of a triggering event occurring—
+
+(i) the costs of complying with the duties under sections 82 to 96, and
+
+(ii) the costs of continuing to run the scheme for such period (which must be at least six months and no more than two years) as the Pensions Regulator thinks appropriate for the scheme.
+
+(3) In deciding whether it is satisfied that a scheme has sufficient financial resources to meet the costs mentioned in subsection (2), the Pensions Regulator must take into account any matters specified in regulations made by the Department.
+
+[[^F100](3A) In deciding whether it is satisfied that an unconnected multiple employer scheme has sufficient financial resources to meet the costs mentioned in subsection (2), the Pensions Regulator must also take into account—
+
+(a) the liability of the scheme proprietor to provide funds to or in respect of the scheme for the purposes of meeting those costs (see section 65B), and
+
+(b) the financial resources of the scheme proprietor.]
+
+[[^F100](3B) In order to be satisfied that an unconnected multiple employer scheme is financially sustainable, the Pensions Regulator must also be satisfied that the business strategy relating to the scheme is sound.]
+
+[[^F100](3C) In deciding whether it is satisfied that the business strategy relating to an unconnected multiple employer scheme is sound, the Pensions Regulator—
+
+(a) must take into account—
+
+(i) the scheme’s business plan, and any supporting information and documents (see section 65A);
+
+(ii) the information and matters specified in Parts 1 and 2 of Schedule 4A;
+
+(iii) any additional information or documents specified in a Code for the purposes of this paragraph, and
+
+(b) may take into account the information specified in Part 3 of Schedule 4A.]
+
+(4) Regulations under subsection (3) may include provision—
+
+(a) requiring specified information to be provided to the Pensions Regulator [[^F101](including information about the financial resources of the scheme proprietor)];
+
+(b) specifying requirements to be met by the scheme relating to its financing, such as requirements relating to assets, capital or liquidity.
+
+(5) Regulations under subsection (3) are subject to confirmatory procedure.
+
+#### 65A [[^F102]Unconnected multiple employer schemes: business plan
+
+(1) The scheme proprietor of an unconnected multiple employer scheme must prepare a business plan for the scheme.
+
+(2) A business plan must—
+
+(a) include the information specified in Part 1 of Schedule 4B, and any other information set out in a Code for the purposes of this paragraph, unless Part 2 of that Schedule provides otherwise, and
+
+(b) comply with the requirements specified in Part 2 of Schedule 4B, and any other requirements set out in a Code in relation to the information to be included in a business plan.
+
+(3) The scheme proprietor must, at least once a year—
+
+(a) review the most recent business plan, and
+
+(b) if appropriate, revise it within three months of the scheme proprietor concluding that it is appropriate to revise the plan.
+
+(4) The scheme proprietor must revise the most recent business plan at any time if—
+
+(a) there is any significant change to the information included in it, or
+
+(b) a triggering event (see section 82) has reduced the value of the financial resources of the scheme.
+
+(5) The business plan, and any revised business plan, must be approved by the trustees of the scheme.
+
+(6) The scheme proprietor or the trustees must provide the Pensions Regulator with the most recent business plan, and any supporting information or documents required by the Regulator—
+
+(a) on application for authorisation (see section 59),
+
+(b) where a revision is required as a result of a review under subsection (3), on completion of the revision,
+
+(c) where a revision is required under subsection (4), within three months of the plan being revised, and
+
+(d) at any other time, on request from the Pensions Regulator.]
+
+#### 65B [[^F102]Unconnected multiple employer schemes: single scheme proprietor
+
+(1) An unconnected multiple employer scheme has a single scheme proprietor (see section 60(3)(ca)(i)) if there is a person, but no more than one person, who meets all the criteria in subsection (2) in relation to the scheme.
+
+(2) The criteria are—
+
+(a) if the Pensions Regulator is considering an application for authorisation in relation to the scheme, that the person is liable to provide funds to or in respect of the scheme for the purposes of meeting—
+
+(i) some or all of the costs of setting up the scheme, and
+
+(ii) some or all of the costs relating to obtaining authorisation of the scheme,
+
+(b) that the person is liable to provide funds to or in respect of the scheme in circumstances where administration charges received from or in respect of members are not sufficient to cover the balance (if any) of the costs of setting up, and obtaining authorisation of, the scheme, and the costs of running it,
+
+(c) that the person is liable, in the event of a triggering event occurring in relation to the scheme, to provide funds to or in respect of the scheme for the purposes of meeting—
+
+(i) the costs of complying with the duties under sections 82 to 96 (see section 65(2)(b)(i)), and
+
+(ii) the costs of continuing to run the scheme for such period (which must be at least six months and no more than two years) as the Pensions Regulator thinks appropriate for the scheme (see section 65(2)(b)(ii)), and
+
+(d) that the person is responsible for making business decisions relating to the commercial activities of the scheme.
+
+(3) In this Part, “the scheme proprietor”, in relation to a scheme, means the person who meets all the criteria in subsection (2).]
+
+#### 65C [[^F102]Unconnected multiple employer schemes: scheme proprietor requirements
+
+(1) This section makes provision about the requirements that the scheme proprietor of an unconnected multiple employer scheme must meet in order for the scheme to meet the authorisation criterion mentioned in section 60(3)(ca)(ii).
+
+(2) The first requirement is that the scheme proprietor is a body corporate or a partnership that is a legal person under the law by which it is governed.
+
+(3) The second requirement is that the scheme proprietor is not a trustee of the scheme.
+
+(4) The third requirement is that the scheme proprietor had accounts prepared and audited as individual accounts in accordance with the applicable requirements at the time when it entered into the relationship or arrangement with the scheme by virtue of which it is the scheme proprietor.
+
+(5) The scheme proprietor is excepted from the third requirement if—
+
+(a) the scheme proprietor has deposited a proportion, set out in a Code, of the assets required to meet the costs mentioned in section 65(2) in a separate account in the name of the trustees with a deposit taker as defined in Article 49(8A) of the Pensions (Northern Ireland) Order 1995 (other responsibilities of trustees, employers, etc.), or
+
+(b) the Pensions Regulator grants an exception from the requirement.
+
+(6) A scheme proprietor ceases to be excepted from the third requirement—
+
+(a) by virtue of subsection (5)(a), if any of the proportion of the assets referred to in that subsection is withdrawn from the account referred to in that subsection before the date on which the scheme proprietor provides accounts to the Pensions Regulator under this Part, or
+
+(b) by virtue of subsection (5)(b), if the Pensions Regulator withdraws an exception granted under that subsection.
+
+(7) The Pensions Regulator may only withdraw an exception under subsection (6)(b) if—
+
+(a) the Regulator has notified the scheme proprietor of its intention to withdraw the exception before the beginning of the period of two weeks ending with the day on which the exception is to be withdrawn (the “withdrawal day”), and
+
+(b) the scheme proprietor has not, by the withdrawal day, provided accounts to the Regulator under this Part.
+
+(8) In this section “body corporate” has the meaning given in section 1173(1) of the Companies Act 2006.
+
+(9) Subsections (3A) to (3C) of section 59 (where accounts are prepared and audited as individual accounts in accordance with the applicable requirements) apply for the purposes of this section.]
+
+#### 65D [[^F102]Unconnected multiple employer schemes: promotion or marketing requirement
+
+(1) Part 1 of Schedule 4C sets out the matters that the Pensions Regulator must take into account in deciding whether it is satisfied that no person has carried out promotion or marketing of an unconnected multiple employer scheme that is unclear or misleading without rectification (see section 60(3)(cb)(i)).
+
+(2) Part 2 of Schedule 4C sets out the matters that the Pensions Regulator must take into account in deciding whether it is satisfied that the scheme has adequate systems and processes for securing that promotion or marketing of the scheme is clear and not misleading (see section 60(3)(cb)(ii)).
+
+(3) In deciding whether it is satisfied that an unconnected multiple employer scheme has adequate systems and processes for securing that promotion or marketing of the scheme is clear and not misleading, the Pensions Regulator may take into account whether any promotion or marketing of the scheme has been unclear or misleading (whether or not it has been rectified).]
+
+#### 66 Communication requirement
+
+(1) This section applies for the purposes of enabling the Pensions Regulator to decide whether it is satisfied that a collective money purchase scheme has adequate systems and processes for communicating with members and others (see section 60(3)(d)).
+
+(2) In order to be satisfied that a scheme has adequate systems and processes for communicating with members and others, the Pensions Regulator must be satisfied that the scheme has adequate systems and processes—
+
+(a) for providing information in relation to the scheme to persons falling within subsection (3);
+
+(b) for securing that information provided to those persons is correct and is not misleading.
+
+(3) A person falls within this subsection if the person is—
+
+(a) a member or prospective member of the scheme, or
+
+(b) a person who has survived a member of the scheme and has an entitlement to benefits, or a right to future benefits, under the scheme rules in respect of the member.
+
+(4) In making the decision, the Pensions Regulator—
+
+(a) must take into account any matters specified in regulations made by the Department, and
+
+(b) may take into account any communications made using the systems and processes referred to in subsection (2).
+
+(5) Regulations under subsection (4)(a) may among other things—
+
+(a) make provision about systems and processes used for assessing and improving the effectiveness of communications;
+
+(b) make provision requiring specified information to be provided to the Pensions Regulator.
+
+(6) Regulations under subsection (4)(a) are subject to confirmatory procedure.
+
+#### 67 Systems and processes requirements
+
+(1) This section applies for the purposes of enabling the Pensions Regulator to decide whether it is satisfied that the systems and processes used in running a collective money purchase scheme are sufficient to ensure that it is run effectively (see section 60(3)(e)).
+
+(2) In deciding whether it is satisfied that the systems and processes used in running the scheme are sufficient for that purpose, the Pensions Regulator must take into account any matters specified in regulations made by the Department.
+
+(3) Regulations under subsection (2) may among other things—
+
+(a) make provision about the matters set out in subsection (4);
+
+(b) require specified information to be provided to the Pensions Regulator.
+
+(4) The matters referred to in subsection (3)(a) are—
+
+(a) features and functionality required of the IT systems used in running the scheme;
+
+(b) standards that those IT systems must meet (for example, in relation to quality and in relation to security of data);
+
+(c) the maintenance of those IT systems;
+
+(d) records management, risk management and resource planning;
+
+(e) processes relating to transactions and investment decisions;
+
+(f) processes relating to the appointment and removal of trustees;
+
+(g) processes relating to the professional development of trustees;
+
+(h) processes relating to the appointment, removal, roles and responsibilities of—
+
+(i) persons, other than the trustees, involved in running the scheme, and
+
+(ii) persons involved in providing services in relation to the scheme.
+
+(5) Regulations under subsection (2) are subject to confirmatory procedure.
+
+#### 68 Continuity strategy requirement
+
+(1) This section applies for the purposes of enabling the Pensions Regulator to decide whether it is satisfied that a collective money purchase scheme has an adequate continuity strategy (see section 60(3)(f)).
+
+[[^F103](2) A document addressing how the interests of members of the scheme are to be protected if a triggering event (see section 82) occurs in relation to the scheme (a “continuity strategy”) must be prepared by—
+
+(a) where the scheme is a single or connected employer scheme, the trustees of the scheme;
+
+(b) where the scheme is an unconnected multiple employer scheme, the scheme proprietor.]
+
+(3) A continuity strategy must include a section setting out the levels of administration charges that apply in relation to members of the scheme.
+
+(4) It must set out those levels of charges in the manner specified in regulations made by the Department.
+
+(5) A continuity strategy must—
+
+(a) contain such other information as may be specified in regulations made by the Department, and
+
+(b) be prepared in accordance with regulations made by the Department.
+
+(6) The trustees of a [[^F104]single or connected employer scheme] must—
+
+(a) keep the continuity strategy under review, and
+
+(b) revise it if appropriate.
+
+[[^F105](6A) The scheme proprietor of an unconnected multiple employer scheme must—
+
+(a) keep the continuity strategy under review, and
+
+(b) revise it if appropriate.]
+
+[[^F105](6B) The continuity strategy of an unconnected multiple employer scheme, and any revisions to it, must be approved by the trustees of the scheme.]
+
+[[^F106](7) The continuity strategy must be provided to the Pensions Regulator in accordance with subsection (7A)—
+
+(a) where the scheme is a single or connected employer scheme, by the trustees;
+
+(b) where the scheme is an unconnected multiple employer scheme, by the scheme proprietor.
+
+(7A) The continuity strategy must be provided—
+
+(a) on application for authorisation (see section 59),
+
+(b) within three months of the continuity strategy being revised, and
+
+(c) at any other time, on request from the Pensions Regulator.]
+
+(8) In deciding whether a continuity strategy is adequate, the Pensions Regulator must take into account any matters specified in regulations made by the Department.
+
+(9) Regulations under subsection (8) may include provision requiring specified information to be provided to the Pensions Regulator.
+
+(10) Regulations under this section are subject to confirmatory procedure.
+
+#### 68A [[^F107]Unconnected multiple employer schemes: ability to pursue continuity option 3
+
+(1) This section applies for the purposes of enabling the Pensions Regulator to decide whether it is satisfied that, unless required to pursue continuity option 1 by virtue of section 85(3), the trustees of an unconnected multiple employer scheme would not be prevented from pursuing continuity option 3 whenever they consider it appropriate to do so, should a triggering event occur in relation to the scheme (see section 60(3)(g)).
+
+(2) In deciding whether it is satisfied that the trustees of the scheme would not be so prevented, the Pensions Regulator must take into account whether there would be any constraints or fetters on the trustees when deciding whether to pursue continuity option 3, should a triggering event occur.
+
+(3) For the purposes of subsection (2) the circumstances in which there would be a constraint or fetter on the trustees when deciding whether to pursue continuity option 3 include where, before making the decision, the trustees would be required to—
+
+(a) obtain the consent of employers, the scheme proprietor, members of the scheme, or any other person, or
+
+(b) consult with any person other than employers, the scheme proprietor and members of the scheme.]
+
+### Valuation and benefit adjustment
+
+#### 69 Calculation of benefits
+
+(1) A collective money purchase scheme must have rules about how the rate or amount of benefits provided under the scheme is to be determined.
+
+(2) The rules must include—
+
+(a) rules for determining the available assets of the scheme and their value,
+
+(b) rules for determining the required amount, and
+
+(c) rules about how the rate or amount of benefits provided under the scheme is to be adjusted from time to time, including rules about when adjustments are to take effect.
+
+(3) In this section “the available assets of the scheme” and “the required amount” have the meaning given in section 53(2).
+
+(4) The Department may by regulations make provision about the matters mentioned in subsections (1) and (2), including provision about the methods and assumptions to be used.
+
+(5) Regulations under subsection (4) making provision about the determination of the required amount may, among other things, make provision about—
+
+(a) how past or proposed adjustments to the rate or amount of benefits provided under the scheme are to be treated;
+
+(b) assumptions to be made about future adjustments to the rate or amount of such benefits.
+
+(6) Regulations under subsection (4) may, among other things—
+
+(a) provide for alternative methods and assumptions;
+
+(b) require or enable the trustees to decide which methods and assumptions are to be used;
+
+(c) specify matters that the trustees must take into account, or principles they must follow, in making such decisions.
+
+(7) Regulations under subsection (4)—
+
+(a) may make provision applying in relation to rights under the scheme that have already accrued;
+
+(b) override the rules of the scheme to the extent that the rules conflict with the regulations.
+
+(8) Regulations under subsection (4) are subject to confirmatory procedure.
+
+#### 70 Advice of scheme actuary
+
+(1) The trustees of a collective money purchase scheme must obtain the advice of the scheme actuary before making a decision as to the methods and assumptions to be used in determining the matters mentioned in section 69(1) and (2).
+
+(2) The Department may by regulations specify requirements with which the scheme actuary must comply when advising the trustees in accordance with subsection (1).
+
+(3) Regulations under subsection (2) may, among other things, require the scheme actuary to have regard to guidance that is prepared, and from time to time revised, by a person specified or described in the regulations.
+
+(4) Article 10 of the Pensions (Northern Ireland) Order 1995 (S.I. 1995/3213 (N.I. 22)) (civil penalties) applies to a trustee who fails to take all reasonable steps to comply with subsection (1).
+
+(5) The first regulations under subsection (2) are subject to confirmatory procedure.
+
+(6) Subsequent regulations under subsection (2) are subject to negative resolution.
+
+#### 71 Actuarial valuations
+
+(1) The trustees of a collective money purchase scheme must obtain actuarial valuations in accordance with this section and regulations under subsection (5).
+
+(2) In this Part “actuarial valuation” means a report prepared and signed by the scheme actuary setting out—
+
+(a) the available assets of the scheme and their value;
+
+(b) the required amount;
+
+(c) whether an adjustment to the rate or amount of benefits provided under the scheme is required and, if so, the amount of the adjustment.
+
+(3) In this section “the available assets of the scheme” and “the required amount” have the meaning given in section 53(2).
+
+(4) A scheme actuary preparing an actuarial valuation in pursuance of a provision of this Part must determine the matters mentioned in subsection (2) in accordance with the scheme rules.
+
+(5) The Department may by regulations make provision about actuarial valuations, including—
+
+(a) provision about when actuarial valuations must be prepared;
+
+(b) provision about the date by reference to which a determination must be made;
+
+(c) provision about information and statements that an actuarial valuation must contain;
+
+(d) provision requiring the trustees to obtain an actuarial valuation from the scheme actuary within a period specified or described in the regulations;
+
+(e) provision requiring the trustees to send an actuarial valuation received by them to the Pensions Regulator within a period specified or described in the regulations.
+
+(6) In a case that is not the subject of regulations under subsection (5)(a), the trustees must obtain—
+
+(a) an actuarial valuation in which the date by reference to which the available assets of the scheme are determined (“the effective date”) falls within the period of one year beginning with the day on which the scheme was established, and
+
+(b) subsequent actuarial valuations in which the effective date is not more than one year after the effective date of the previous actuarial valuation.
+
+(7) In a case that is not the subject of regulations under subsection (5)(b), the required amount must be determined by reference to the effective date.
+
+(8) Article 10 of the Pensions (Northern Ireland) Order 1995 (S.I. 1995/3213 (N.I. 22)) (civil penalties) applies to a trustee who fails to take all reasonable steps to comply with this section.
+
+(9) Nothing in this section affects a power or duty of the trustees of a collective money purchase scheme to obtain actuarial valuations on other occasions.
+
+(10) The first regulations under subsection (5) are subject to confirmatory procedure.
+
+(11) Subsequent regulations under subsection (5) are subject to negative resolution.
+
+#### 72 Certificate that actuarial valuation prepared in accordance with scheme rules
+
+A scheme actuary who prepares an actuarial valuation in pursuance of a provision of this Part must certify that the matters mentioned in section 71(2) have been determined in accordance with the scheme rules.
+
+#### 73 Benefits adjustments
+
+(1) This section applies where an adjustment to the rate or amount of benefits provided under a collective money purchase scheme is required in accordance with the scheme rules.
+
+(2) The trustees must as soon as is reasonably practicable report in writing to the Pensions Regulator if the adjustment—
+
+(a) is not made in accordance with the most recent actuarial valuation, or
+
+(b) does not take effect in accordance with the scheme rules.
+
+(3) A report under subsection (2) must—
+
+(a) explain why the adjustment was not made in accordance with the most recent actuarial valuation or (as the case may be) does not take effect in accordance with the scheme rules;
+
+(b) contain such other information as the Department may specify in regulations.
+
+(4) Article 10 of the Pensions (Northern Ireland) Order 1995 (S.I. 1995/3213 (N.I. 22)) (civil penalties) applies to a trustee who fails to take all reasonable steps to comply with this section.
+
+(5) Regulations under subsection (3)(b) are subject to negative resolution.
+
+#### 74 Powers of the Pensions Regulator
+
+(1) The powers conferred by this section are exercisable where it appears to the Pensions Regulator (as a result of a report made to it or otherwise) that the trustees of a collective money purchase scheme have without good reason—
+
+(a) failed to comply with a requirement imposed by or under this Part to obtain an actuarial valuation, or
+
+(b) failed to secure that any adjustment to the rate or amount of benefits provided under the scheme which is required in accordance with the scheme rules—
+
+(i) is made in accordance with the most recent actuarial valuation, and
+
+(ii) takes effect in accordance with the scheme rules.
+
+(2) The Pensions Regulator may direct the trustees—
+
+(a) to obtain an actuarial valuation;
+
+(b) to take such other steps as the Pensions Regulator considers appropriate to remedy or mitigate the failure.
+
+(3) A direction under subsection (2)(a) must—
+
+(a) specify the period within which the valuation is to be obtained;
+
+(b) specify the date by reference to which the matters to be set out in the actuarial valuation are to be determined;
+
+(c) contain such other information as the Department may specify in regulations.
+
+(4) In exercising a power conferred by this section, the Pensions Regulator must comply with any requirements specified in regulations made by the Department.
+
+(5) Article 10 of the Pensions (Northern Ireland) Order 1995 (civil penalties) applies to a trustee who fails to take all reasonable steps to comply with a direction under this section.
+
+(6) Regulations under this section are subject to negative resolution.
+
+(7) The powers conferred by this section are in addition to any powers exercisable by the Pensions Regulator under any other statutory provision.
+
+### Members' rights
+
+#### 75 Rules about modifying schemes
+
+(1) The Pensions (Northern Ireland) Order 1995 (S.I. 1995/3213 (N.I. 22)) is amended as follows.
+
+(2) In Article 67 (the subsisting rights provisions)—
+
+(a) after paragraph (1) insert—
+
+> (1A) Any exercise of such a power to make a prohibited modification is void.
+
+;
+
+(b) in paragraph (2)(a)(i), after “if the modification is a protected modification,” insert “ or the scheme is a collective money purchase scheme within the meaning of Part 2 of the Pension Schemes Act 2021, ”;
+
+(c) in paragraph (2)(a)(ii), for “if it is not” substitute “ if head (i) does not apply ”;
+
+(d) in paragraph (3) omit sub-paragraph (b) and the “or” before it;
+
+(e) after paragraph (3) insert—
+
+> (3A) Regulations may provide for cases in which the subsisting rights provisions do not apply.
+
+(3) In Article 67A (the subsisting rights provisions: interpretation), in paragraph (1), before “ “regulated modification”” insert—
+
+> “prohibited modification”
+
+.
+
+(4) After paragraph (1) of that Article insert—
+
+> (1A) “Prohibited modification” means a modification of an occupational pension scheme which on taking effect would or might result in any subsisting right of—
+>
+> (a) a member of the scheme, or
+>
+> (b) a survivor of a member of the scheme,
+>
+> which is not a right or entitlement to money purchase benefits becoming, or being replaced with, a right or entitlement to collective money purchase benefits under the scheme rules.
+
+(5) In paragraph (3) of that Article—
+
+(a) after “a modification” insert “ , other than a prohibited modification, ”;
+
+(b) for sub-paragraph (a) substitute—
+
+> (a) on taking effect would or might result in a relevant transformation of any subsisting right of a member of the scheme or a survivor of a member of the scheme (see paragraph (3A)),
+
+;
+
+(c) in sub-paragraph (b), after “rules” insert “ , other than a pension that is a collective money purchase benefit ”;
+
+(d) omit the words following sub-paragraph (c).
+
+(6) After paragraph (3) of that Article insert—
+
+> (3A) For the purposes of paragraph (3)(a), there is a relevant transformation of a subsisting right where—
+>
+> (a) a subsisting right that is not a right or entitlement to money purchase benefits becomes, or is replaced with, a right or entitlement to money purchase benefits under the scheme rules,
+>
+> (b) a subsisting right that is a right or entitlement to money purchase benefits other than collective money purchase benefits becomes, or is replaced with, a right or entitlement to collective money purchase benefits under the scheme rules, or
+>
+> (c) a subsisting right that is a right or entitlement to collective money purchase benefits becomes, or is replaced with, a right or entitlement to money purchase benefits other than collective money purchase benefits under the scheme rules.
+>
+> (3B) For the purposes of paragraph (3A), the reference in the definition of “money purchase benefits” in section 176(1) of the Pension Schemes Act to the widow, widower or surviving civil partner of a member of an occupational pension scheme is to be read as including any other survivor of the member.
+
+(7) In paragraph (4) of that Article, after “a modification” insert “ , other than a prohibited modification, ”.
+
+(8) In paragraph (9) of that Article—
+
+(a) in sub-paragraph (a), after head (ix) insert—
+
+> (x) regulations made under section 69(4) of or paragraph 1(6) of Schedule 5 to the Pension Schemes Act 2021;
+>
+> (xi) sections 85, 90, 92, 93 and 96 of the Pension Schemes Act 2021;
+
+;
+
+(b) in sub-paragraph (b), after head (vii) insert—
+
+> (viii) sections 69(7)(b), 85(5), 90(6), 92(6), 93(2) and 96(5) of and paragraph 1(7) of Schedule 5 to the Pension Schemes Act 2021.
+
+#### 76 Transfer rights
+
+(1) Chapter 1 of Part 4ZA of the Pension Schemes (Northern Ireland) Act 1993 (transfer rights: general) is amended as follows.
+
+(2) In section 89 (scope of Chapter 1)—
+
+(a) in subsection (7) (crystallisation events), in paragraph (b), after “money purchase benefits” insert “ other than collective money purchase benefits ”;
+
+(b) after subsection (10) insert—
+
+> (10A) Where a pension scheme is divided into sections, each section that is a collective money purchase scheme for the purposes of Part 2 of the Pension Schemes Act 2021 (see section 52(2)(b) of that Act) is to be treated as a separate scheme for the purposes of this Chapter.
+
+(3) In section 93 (calculation of cash equivalents), after subsection (3) insert—
+
+> (3ZA) Where, in the case of an application from a member under section 91 that relates to money purchase benefits that are collective money purchase benefits, regulations under section 95(2)(c) provide for a period longer than 6 months, subsection (3)(b) is to be read as if the reference to 6 months were a reference to that longer period.
+
+(4) In section 95 (trustees' duties after exercise of option), in subsection (2) (period in which to carry out what the member requires)—
+
+(a) omit the “and” at the end of paragraph (a);
+
+(b) in paragraph (b), after “money purchase benefits” insert “ other than collective money purchase benefits ”;
+
+(c) at the end of paragraph (b) insert
+
+> , and
+>
+> (c) in the case of an application which relates to money purchase benefits that are collective money purchase benefits, within 6 months beginning with the date of the application or such longer period beginning with that date as may be prescribed.
+
+(5) After section 95 insert—
+
+> **95A Trustees' further duties: collective money purchase benefits**
+>
+> (1) If the trustees receive an application under section 91 relating to money purchase benefits that are collective money purchase benefits—
+>
+> (a) they must give the member notice in writing of the cash equivalent that relates to those benefits, and
+>
+> (b) they must not without the written consent of the member enter into an agreement with a third party to use the member's cash equivalent in a way specified in section 91(2) before the end of the period mentioned in subsection (2).
+>
+> (2) The period referred to in subsection (1)(b) is—
+>
+> (a) the period of 3 weeks beginning with the day after the day on which the notice is given, or
+>
+> (b) such other period as may be specified in regulations.
+>
+> (3) Any action taken in contravention of subsection (1)(b) is void.
+
+(6) In section 96B (meaning of “scheme rules”: occupational pension schemes), in subsection (2)—
+
+(a) in paragraph (a), at the end insert—
+
+> (xiii) regulations made under section 69(4) of or paragraph 1(6) of Schedule 5 to the Pension Schemes Act 2021;
+>
+> (xiv) sections 85, 90, 92, 93 and 96 of the Pension Schemes Act 2021;
+
+;
+
+(b) in paragraph (b), at the end insert—
+
+> (x) sections 69(7)(b), 85(5), 90(6), 92(6), 93(2) and 96(5) of and paragraph 1(7) of Schedule 5 to the Pension Schemes Act 2021.
+
+### Ongoing supervision
+
+#### 77 List of authorised schemes
+
+(1) The Pensions Regulator must maintain and publish a list of authorised collective money purchase schemes.
+
+(2) The list—
+
+(a) must identify each authorised collective money purchase scheme by name, and
+
+(b) may include any other information that the Pensions Regulator considers appropriate.
+
+#### 77A [[^F108]Unconnected multiple employer schemes: annual accounts
+
+(1) The trustees of an authorised unconnected multiple employer scheme must send the scheme’s accounts to the Pensions Regulator.
+
+(2) The accounts must be sent to the Regulator no later than two months after they are obtained by the trustees.
+
+(3) The scheme proprietor of an authorised unconnected multiple employer scheme must send to the Pensions Regulator—
+
+(a) the scheme proprietor’s accounts prepared and audited as individual accounts in accordance with the applicable requirements, and
+
+(b) if the scheme proprietor is partly or wholly funded by an undertaking other than an unincorporated association (“a relevant undertaking”), the accounts of that undertaking prepared and audited in accordance with the applicable requirements.
+
+(4) The accounts of the scheme proprietor and any relevant undertaking must be sent to the Regulator—
+
+(a) no later than nine months after the end of the financial year to which they relate, or
+
+(b) if an item 4A, 4B or 7A triggering event occurs in relation to the scheme (see section 82) and the Pensions Regulator gives notice to the scheme proprietor requiring that accounts be sent early, within such shorter period after the end of the financial year to which they relate as is specified in the notice.
+
+(5) In subsection (4) “financial year” in relation to a scheme proprietor or a relevant undertaking is to be interpreted in accordance with—
+
+(a) the requirements of the law referred to in section 59(3A), or
+
+(b) where no such meaning is given to “financial year” in those requirements, the Companies Act 2006.
+
+(6) Subsections (3A) to (3C) of section 59 (where accounts are prepared and audited as individual accounts in accordance with the applicable requirements) apply for the purposes of this section.
+
+(7) Article 10 of the Pensions (Northern Ireland) Order 1995 (civil penalties) applies to a person who fails to comply with a requirement imposed by or under this section.]
+
+#### 78 Requirement to submit supervisory return
+
+(1) The Pensions Regulator may by notice require the trustees of a collective money purchase scheme to submit a supervisory return.
+
+(2) The Department may make regulations setting out the information that the Pensions Regulator may require in a supervisory return.
+
+(3) The notice must specify—
+
+(a) the information required to be included in the return,
+
+(b) the manner and form in which the return must be submitted, and
+
+(c) the period (of at least 28 days) within which the return must be submitted.
+
+(4) The trustees of a collective money purchase scheme may not be required to submit a supervisory return more than once in any 12 month period.
+
+(5) Article 10 of the Pensions (Northern Ireland) Order 1995 (S.I. 1995/3213 (N.I. 22)) (civil penalties) applies to a trustee who fails to submit a supervisory return when required to do so.
+
+(6) Regulations under subsection (2) are subject to negative resolution.
+
+#### 79 Duty to notify the Pensions Regulator of significant events
+
+(1) Where a person mentioned in subsection (2) becomes aware of the fact that a significant event has occurred in relation to an authorised collective money purchase scheme, the person must (subject to subsections (6) and (7)) give notice of that fact, in writing, to the Pensions Regulator as soon as reasonably practicable.
+
+(2) The persons are—
+
+(a) a trustee of the scheme;
+
+(b) an employer in relation to the scheme;
+
+[[^F109](ba) where the scheme is an unconnected multiple employer scheme, the scheme proprietor;
+
+(bb) where the scheme is an unconnected multiple employer scheme, a person who promotes or markets the scheme;
+
+(bc) where the scheme is an unconnected multiple employer scheme, a chief or other senior financial officer of the scheme;
+
+(bd) where the scheme is an unconnected multiple employer scheme, a chief or other senior investment officer of the scheme;]
+
+(c) a person who (alone or with others) has power to appoint or remove a trustee;
+
+(d) a person who (alone or with others) has power to vary the provisions of the scheme;
+
+(e) a person who provides legal, financial or actuarial advice in relation to the scheme;
+
+(f) a person who manages the scheme administration services;
+
+(g) a person acting in a capacity specified in regulations made by the Department.
+
+(3) The Department must make regulations setting out the events that constitute significant events for the purposes of this section.
+
+(4) The Department may by regulations specify further information that is to be provided by a person required to give notice under this section.
+
+(5) Except as provided by subsections (6) and (7), the disclosure of information under this section does not breach—
+
+(a) any obligation of confidence owed by the person making the disclosure, or
+
+(b) any other restriction on the disclosure of information (however imposed).
+
+(6) This section does not require a disclosure of information if the disclosure would contravene the data protection legislation (but in determining whether a disclosure of information would do so, take into account the duty imposed by this section).
+
+(7) A person is not required by this section to disclose anything in respect of which a claim to legal professional privilege could be maintained in legal proceedings.
+
+(8) Article 10 of the Pensions (Northern Ireland) Order 1995 (S.I. 1995/3213 (N.I. 22)) (civil penalties) applies to a person who fails to comply with a requirement imposed by or under this section.
+
+(9) The first regulations under subsection (3) are subject to confirmatory procedure.
+
+(10) Subsequent regulations under subsection (3), and regulations under subsection (2)(g) or (4), are subject to negative resolution.
+
+#### 80 Risk notices
+
+(1) The Pensions Regulator may give a risk notice to the trustees of a collective money purchase scheme if the Regulator considers that—
+
+(a) there is an issue of concern in relation to the scheme, and
+
+(b) the scheme will breach the authorisation criteria, or is likely to breach them, if the issue is not resolved.
+
+[[^F110](1A) Where the scheme is an unconnected multiple employer scheme the Pensions Regulator may give a risk notice to the scheme proprietor if the Regulator considers that—
+
+(a) there is an issue of concern in relation to the scheme, and
+
+(b) the scheme will breach the authorisation criteria, or is likely to breach them, if the issue is not resolved.]
+
+(2) A risk notice is a notice that requires the trustees of the scheme [[^F111]or (as the case may be) the scheme proprietor] to submit to the Pensions Regulator a plan (a “resolution plan”) setting out proposals for resolving the issue of concern.
+
+(3) A risk notice must—
+
+(a) identify the issue of concern;
+
+(b) specify the date by which the resolution plan is to be submitted.
+
+(4) If the Pensions Regulator is not satisfied that the proposals in a resolution plan are likely to be adequate to resolve the issue of concern, the Regulator may give a further notice to the trustees [[^F112]or the scheme proprietor] requiring them [[^F113]or the proprietor (as the case may be)] to submit a revised plan by a date specified in the notice.
+
+[[^F114](4A) Where risk notices relating to the same issue of concern have been issued to the trustees of the scheme and the scheme proprietor, the reference in subsection (4) to the proposals in a resolution plan is to be read as a reference to the proposals in the resolution plans of the trustees and the scheme proprietor taken together.]
+
+(5) The trustees [[^F115]or (as the case may be) the scheme proprietor] must implement the proposals in a resolution plan if the Pensions Regulator—
+
+(a) is satisfied that the proposals are likely to be adequate to resolve the issue of concern [[^F116](whether alone or together with the proposals in another resolution plan relating to the same issue of concern)], and
+
+(b) notifies the trustees [[^F117]or the scheme proprietor] accordingly.
+
+(6) The Pensions Regulator may direct the trustees [[^F118]or the scheme proprietor] to comply with the requirement imposed by subsection (5).
+
+(7) Where the trustees [[^F119]or the scheme proprietor] are required by subsection (5) to implement the proposals in a resolution plan, the trustees [[^F120]or (as the case may be) the scheme proprietor] must—
+
+(a) submit to the Pensions Regulator, before the end of a period specified in regulations made by the Department, a report setting out what progress they are making in implementing the proposals (a “progress report”);
+
+(b) submit further progress reports to the Pensions Regulator at intervals specified by the Pensions Regulator.
+
+(8) Resolution plans and progress reports must be provided in the manner and form specified by the Pensions Regulator.
+
+(9) A reference to a resolution plan in subsections (4) to (8) includes a reference to a resolution plan as revised under subsection (4).
+
+(10) The Department may by regulations—
+
+(a) specify information that a risk notice must contain;
+
+(b) provide that the date referred to in subsection (3)(b) or (4) must fall before the end of a period specified in the regulations.
+
+(11) Article 10 of the Pensions (Northern Ireland) Order 1995 (S.I. 1995/3213 (N.I. 22)) (civil penalties) applies to a trustee [[^F121]or a scheme proprietor] who fails to comply with—
+
+(a) a notice under subsection (1) [[^F122], (1A)] or (4),
+
+(b) a direction under subsection (6), or
+
+(c) a requirement imposed by subsection (7).
+
+(12) Regulations under this section are subject to negative resolution.
+
+#### 81 Withdrawal of authorisation
+
+(1) If the Pensions Regulator stops being satisfied that an authorised collective money purchase scheme meets the authorisation criteria, it may decide to withdraw the scheme's authorisation.
+
+(2) A warning notice under the standard procedure or a determination notice under the special procedure given in relation to a decision under subsection (1) must—
+
+(a) explain that the issue of the notice is a triggering event (see section 82), and
+
+(b) include an explanation of the trustees' duties under sections 82 to 96.
+
+(3) On withdrawal of a scheme's authorisation, the Pensions Regulator must—
+
+(a) notify the trustees that the scheme is no longer authorised, and
+
+(b) remove the scheme from the list of authorised collective money purchase schemes.
+
+(4) In this Part—
+
+- “determination notice” has the meaning given in Article 93(2)(a) of the Pensions (Northern Ireland) Order 2005 (S.I. 2005/255 (N.I. 1));
+- “special procedure” has the meaning given in Article 93 of that Order;
+- “standard procedure” has the meaning given in Article 91 of that Order;
+- “warning notice” has the meaning given in Article 91(2)(a) of that Order.
+
+### Triggering events and continuity options
+
+#### 82 Triggering events
+
+(1) A triggering event occurs in relation to a collective money purchase scheme if an event within the second column of the triggering events table occurs in relation to it, subject to subsection (2).
+
+(2) An event within any of items 4 to [[^F123]10] of the triggering events table is not a triggering event in relation to a collective money purchase scheme if it occurs within an existing triggering event period for the scheme (see section 83).
+
+(3) A triggering event occurs on the date specified in relation to the event in the third column of the triggering events table.
+
+(4) For the purposes of this Part “the triggering events table” is—
+
+|  |  |  |
+|---|---|---|
+| *Item* | *Triggering event* | *Date event occurs* |
+| 1. | The Pensions Regulator issues a warning notice under the standard procedure in respect of a decision to withdraw the scheme's authorisation. | The date on which the notice is issued. |
+| 2. | The Pensions Regulator issues a determination notice under the special procedure in respect of a decision to withdraw the scheme's authorisation. | The date on which the notice is issued. |
+| 3. | The Pensions Regulator gives a notification under section 58(3) (scheme not authorised). | The date on which the notification is given. |
+| 4. | [[^F124]Where the scheme is a single or connected employer scheme,] an insolvency event occurs in relation to an employer or a relevant former employer. | The date on which the insolvency event occurs. |
+| [[^F125]4A. | Where the scheme is an unconnected multiple employer scheme, an insolvency event occurs in relation to the scheme proprietor. | The date on which the insolvency event occurs.] |
+| [[^F125]4B. | Where the scheme is an unconnected multiple employer scheme and the scheme proprietor is a person or body of a kind that meets requirements prescribed under Article 113(1)(b) of the Pensions (Northern Ireland) Order 2005 ( S.I. 2005/255 (N.I. 1) ), the scheme proprietor becomes unlikely to continue as a going concern. | The earlier of— - the date on which the scheme proprietor notifies the Pensions Regulator of that fact, and<br>- the date on which the trustees become aware of that fact.] |
+| 5. | [[^F126]Where the scheme is a single or connected employer scheme,] an employer or a relevant former employer becomes unlikely to continue as a going concern, where the employer or relevant former employer is a person or body of a kind that meets the requirements prescribed under Article 113(1)(b) of the Pensions (Northern Ireland) Order 2005 (S.I. 2005/255 (N.I. 1)). | The earlier of—<br>- (a) the date on which the employer or relevant former employer notifies the Pensions Regulator of that fact, and<br>- (b) the date on which the trustees become aware of that fact. |
+| 6. | A person who has power to do so under the provisions of the scheme decides that the scheme should be wound up. | The date of the decision. |
+| 7. | An event occurs that is required or permitted by the provisions of the scheme to result in the winding up of the scheme. | The date on which the event occurs. |
+| [[^F127]7A. | Where the scheme is an unconnected multiple employer scheme, the scheme proprietor decides to end the relationship or arrangement with the scheme by virtue of which it is the scheme proprietor. | The date of the decision. - the date on which the scheme proprietor notifies the Pensions Regulator of that fact, and<br>- the date on which the trustees become aware of that fact.] |
+| [[^F127]7B. | Where the scheme is an unconnected multiple employer scheme, the scheme proprietor ends the relationship or arrangement with the scheme by virtue of which it is the scheme proprietor. | The earlier of— - the date on which the scheme proprietor notifies the Pensions Regulator of that fact, and<br>- the date on which the trustees become aware of that fact.] |
+| 8. | A person who has power to do so under the provisions of the scheme decides that the scheme should become a closed scheme. | The date of the decision. |
+| 9. | An event occurs that is required or permitted by the provisions of the scheme to result in the scheme becoming a closed scheme. | The date on which the event occurs. |
+| [[^F128]10. | Where the scheme is an unconnected multiple employer scheme, the trustees decide that the scheme is at risk of failure and so it is necessary for one of the continuity options to be pursued (see section 85). | The date of the decision.] |
+
+[[^F129](4A) An unconnected multiple employer scheme is to be taken to permit the trustees of the scheme to make the decision referred to in item 10 of the table, to the extent that it would not otherwise do so.]
+
+(5) In this Part—
+
+- “item 1 triggering event” means an event falling within item 1 of the triggering events table (and similar references using other item numbers are to be read accordingly);
+
+- “relevant former employer”, in relation to a [[^F130]single or connected employer scheme], means a person who has ceased to be an employer in relation to the scheme but who—
+
+  - (a) is subject to an actual or contingent obligation to contribute financially to the scheme, whether by making contributions towards the costs of running the scheme or otherwise, or
+  - (b) has power to take a decision about the operation of the scheme, either alone or with other persons who are or have been employers in relation to the scheme.
+
+(6) In this section “closed”, in relation to a collective money purchase scheme, means closed to new contributions or new members (or both).
+
+#### 83 Triggering event periods
+
+(1) For the purposes of this Part, a “triggering event period” for a collective money purchase scheme is a period—
+
+(a) starting with the date on which a triggering event occurs in relation to the scheme, and
+
+(b) ending with the earliest of the dates given by subsection (2).
+
+(2) The dates are—
+
+(a) the date on which the trustees receive from the Pensions Regulator—
+
+(i) notification under section 88(4) that the Regulator is satisfied that the triggering event has been resolved, or
+
+(ii) notification under section 89(4) that the Regulator is satisfied that preparations for conversion to a closed scheme are complete and that the conversion will resolve the relevant events;
+
+(b) the date on which the scheme is wound up;
+
+(c) in the case of an item 1 or 2 triggering event (notice in respect of a decision to withdraw authorisation), the date on which it becomes clear that authorisation is not to be withdrawn.
+
+(3) For the purposes of subsection (2)(c), it becomes clear that authorisation is not to be withdrawn—
+
+(a) in the circumstances set out in relation to the event in the second column of the table in subsection (4), and
+
+(b) on the date given in relation to those circumstances in the third column of that table.
+
+(4) The table is—
+
+|  |  |  |
+|---|---|---|
+| *Triggering event* | *Circumstances* | *Date* |
+| Item 1 (issue of warning notice under the standard procedure) | (1) The Pensions Regulator makes a determination not to withdraw the scheme's authorisation, and (2) there is no referral of the determination to the Tribunal within the time period allowed for doing so. | The date of the Pensions Regulator's determination. |
+| Item 2 (issue of determination notice under the special procedure) | (1) On a review under Article 94 of the Pensions (Northern Ireland) Order 2005 (S.I. 2005/255 (N.I. 1)), the Pensions Regulator makes a determination that the scheme's authorisation should not be withdrawn, and (2) there is no referral of the determination to the Tribunal within the time period allowed for doing so. | The date of the Pensions Regulator's determination. |
+| Item 1 or 2 | (1) On a referral to the Tribunal of a determination by the Pensions Regulator, the Tribunal makes a determination the effect of which is that the scheme's authorisation should not be withdrawn, and (2) either—<br>(a) no appeal is brought against the Tribunal's determination within the time period allowed for doing so, or<br>(b) an appeal is brought within that time period but is later withdrawn. | The date of the Tribunal's determination. |
+| Item 1 or 2 | The effect of an appeal against a determination by the Tribunal is that the scheme's authorisation should not be withdrawn. | The date on which the appeal is finally disposed of. |
+
+(5) In this section “the Tribunal” has the meaning given in—
+
+(a) Article 91(7) of the Pensions (Northern Ireland) Order 2005 (S.I. 2005/255 (N.I. 1)), in a case where the standard procedure applies;
+
+(b) Article 94(13) of that Order, in a case where the special procedure applies.
+
+#### 84 Notification of triggering events
+
+(1) If a triggering event listed in the first column of the table in subsection (2) occurs in relation to a collective money purchase scheme, each person specified in relation to the event in the second column of that table must (subject to subsections (12) and (13)) notify the Pensions Regulator of the occurrence of the event.
+
+(2) The table is—
+
+<table>
+<tbody>
+<tr><th><i>Event</i></th><th><i>Specified person</i></th></tr>
+<tr><td rowspan="2">Item 4 triggering event (an insolvency event occurs in relation to an employer or a relevant former employer)</td><td>The employer or relevant former employer.</td></tr>
+<tr><td>A trustee who is aware of the event.</td></tr>
+<tr><td rowspan="2">[[^F131]Item 4A triggering event (an insolvency event occurs in relation to the scheme proprietor)</td><td>The scheme proprietor.</td></tr>
+<tr><td>A trustee who is aware of the event.]</td></tr>
+<tr><td rowspan="2">[[^F131]Item 4B triggering event (a scheme proprietor becomes unlikely to continue as a going concern, where the scheme proprietor is a person or body of a kind that meets the requirements prescribed under Article 113(1)(b) of the Pensions (Northern Ireland) Order 2005 ( S.I. 2005/255 (N.I. 1) ))</td><td>The scheme proprietor.</td></tr>
+<tr><td>A trustee who is aware of the event.]</td></tr>
+<tr><td rowspan="2">Item 5 triggering event (an employer or a relevant former employer becomes unlikely to continue as a going concern, where the employer or relevant former employer is a person or body of a kind that meets the requirements prescribed under Article 113(1)(b) of the )</td><td>The employer or relevant former employer.</td></tr>
+<tr><td>A trustee who is aware of the event.</td></tr>
+<tr><td rowspan="3">Item 6 triggering event (a person decides that the scheme should be wound up)</td><td>The person who made the decision.</td></tr>
+<tr><td>A trustee who is aware of the event (if not the person who made the decision).</td></tr>
+<tr><td>[[^F132]Where the scheme is a single or connected employer scheme,] an employer who is aware of the event (if not the person who made the decision).</td></tr>
+<tr><td></td><td>[[^F133]Where the scheme is an unconnected multiple employer scheme, the scheme proprietor (if not the person who made the decision) if they are aware of the event.]</td></tr>
+<tr><td rowspan="2">Item 7 triggering event (an event occurs that is required or permitted by the provisions of the scheme to result in the winding up of the scheme)</td><td>A trustee who is aware of the event.</td></tr>
+<tr><td>[[^F134]Where the scheme is a single or connected employer scheme,] an employer who is aware of the event.</td></tr>
+<tr><td></td><td>[[^F135]Where the scheme is an unconnected multiple employer scheme, the scheme proprietor if they are aware of the event.]</td></tr>
+<tr><td rowspan="2">[[^F136]Item 7A triggering event (scheme proprietor decides to end relationship or arrangement)</td><td>The scheme proprietor.</td></tr>
+<tr><td>A trustee who is aware of the event.]</td></tr>
+<tr><td rowspan="2">[[^F136]Item 7B triggering event (scheme proprietor ends relationship or arrangement)</td><td>The scheme proprietor.</td></tr>
+<tr><td>A trustee who is aware of the event.]</td></tr>
+<tr><td rowspan="3">Item 8 triggering event (a person decides that the scheme should become a closed scheme)</td><td>The person who made the decision.</td></tr>
+<tr><td>A trustee who is aware of the event (if not the person who made the decision).</td></tr>
+<tr><td>[[^F137]Where the scheme is a single or connected employer scheme,] an employer who is aware of the event (if not the person who made the decision).</td></tr>
+<tr><td></td><td>[[^F138]Where the scheme is an unconnected multiple employer scheme, the scheme proprietor (if not the person who made the decision) if they are aware of the event.]</td></tr>
+<tr><td rowspan="2">Item 9 triggering event (an event occurs that is required or permitted by the provisions of the scheme to result in the scheme becoming a closed scheme)</td><td>A trustee who is aware of the event.</td></tr>
+<tr><td>[[^F139]Where the scheme is a single or connected employer scheme,] an employer who is aware of the event.</td></tr>
+<tr><td></td><td>[[^F140]Where the scheme is an unconnected multiple employer scheme, the scheme proprietor if they are aware of the event.]</td></tr>
+<tr><td rowspan="2">[[^F141]Item 10 triggering event (trustees decide that it is necessary to pursue continuity option</td><td>The trustees.</td></tr>
+<tr><td>The scheme proprietor if they are aware of the event.]</td></tr>
+</tbody>
+</table>
+
+(3) If a triggering event occurs in relation to a [[^F142]single or connected employer scheme], a trustee who is aware of the event must (subject to subsections (5), (6), (12) and (13)) give the required notification to each employer or relevant former employer.
+
+[[^F143](3A) If a triggering event occurs in relation to an unconnected multiple employer scheme, a trustee who is aware of the event must (subject to subsections (5A), (6), (12) and (13)) give the required notification to each employer and the scheme proprietor.]
+
+(4) In this section “the required notification”, in relation to a triggering event, means notification of—
+
+(a) the occurrence of the event, and
+
+(b) such other matters relating to the event as may be specified in regulations made by the Department.
+
+(5) In the case of an item 4 or 5 triggering event, subsection (4)(a) does not apply as regards notification of the employer or relevant former employer in respect of whom the event occurs.
+
+[[^F144](5A) In the case of an item 4A, 4B, 7A or 7B triggering event, subsection (4)(a) does not apply as regards notification of the scheme proprietor.]
+
+(6) In the case of an item 6 or 8 triggering event, subsection (4)(a) does not apply as regards notification of the person who decided that the scheme—
+
+(a) should be wound up, or
+
+(b) (as the case may be) should become a closed scheme.
+
+(7) If an item 4 or 5 triggering event occurs in relation to a [[^F145]single or connected employer scheme], each employer or relevant former employer in respect of whom the event occurs must (subject to subsections (12) and (13)) give the required notification to the trustees.
+
+[[^F146](7A) If an item 4A or 4B triggering event occurs in relation to an unconnected multiple employer scheme, the scheme proprietor must (subject to subsections (12) and (13)) give the required notification to the trustees.]
+
+(8) If an item 6 or 8 triggering event occurs in relation to a collective money purchase scheme, the person who decided that the scheme—
+
+(a) should be wound up, or
+
+(b) (as the case may be) should become a closed scheme,
+
+must (if that person is not the trustees, and subject to subsections (12) and (13)) give the required notification to the trustees.
+
+(9) If an item 7 or 9 triggering event occurs in relation to a [[^F147]single or connected employer scheme], each employer or relevant former employer who is aware of the event must (subject to subsections (12) and (13)) give the required notification to the trustees.
+
+[[^F148](9A) If an item 7, 7A, 7B or 9 triggering event occurs in relation to an unconnected multiple employer scheme, the scheme proprietor, if they are aware of the event, must (subject to subsections (12) and (13)) give the required notification to the trustees.]
+
+(10) A notification under this section must be given before the end of the period specified in regulations made by the Department.
+
+(11) Except as provided by subsections (12) and (13), the disclosure of information under this section does not breach—
+
+(a) any obligation of confidence owed by the person making the disclosure, or
+
+(b) any other restriction on the disclosure of information (however imposed).
+
+(12) This section does not require a disclosure of information if the disclosure would contravene the data protection legislation (but in determining whether a disclosure of information would do so, take into account the duty imposed by this section).
+
+(13) A person is not required by this section to disclose anything in respect of which a claim to legal professional privilege could be maintained in legal proceedings.
+
+(14) Article 10 of the Pensions (Northern Ireland) Order 1995 (S.I. 1995/3213 (N.I. 22)) (civil penalties) applies to a person who fails to comply with a requirement imposed by this section.
+
+(15) Regulations under this section are subject to negative resolution.
+
+#### 85 Continuity options
+
+(1) If a triggering event occurs in relation to a collective money purchase scheme, the trustees must pursue one of the continuity options.
+
+(2) The continuity options are—
+
+(a) continuity option 1 (discharge of liabilities and winding up) (see section 87);
+
+(b) continuity option 2 (resolving triggering event) (see section 88);
+
+(c) continuity option 3 (conversion to closed scheme) (see section 89).
+
+(3) The trustees must pursue continuity option 1—
+
+(a) if the triggering event is an item 1 or 2 triggering event and the decision to withdraw authorisation has become final (see section 86), or
+
+(b) if the triggering event is an item 3 triggering event.
+
+(4) In those cases, the trustees must pursue continuity option 1 even if—
+
+(a) the item 1, 2 or 3 triggering event occurs within the triggering event period of an earlier triggering event, and
+
+(b) the trustees have already decided to pursue continuity option 2 or 3 in respect of the earlier triggering event.
+
+(5) The trustees may pursue continuity option 3 only if (or to the extent that) the provisions of the scheme allow them to do so.
+
+Subject to that, this section overrides any provision of the collective money purchase scheme to the extent that there is a conflict.
+
+(6) Article 10 of the Pensions (Northern Ireland) Order 1995 (S.I. 1995/3213 (N.I. 22)) (civil penalties) applies to a person who fails to comply with a requirement imposed by this section.
+
+#### 86 When a decision to withdraw authorisation becomes final
+
+(1) For the purposes of this Part, in relation to an item 1 or 2 triggering event, a decision to withdraw authorisation becomes final—
+
+(a) in the circumstances set out in relation to the event in the second column of the table in subsection (2), and
+
+(b) on the date given in relation to those circumstances in the third column of that table.
+
+(2) The table is—
+
+|  |  |  |
+|---|---|---|
+| *Triggering event* | *Circumstances* | *Date* |
+| Item 1 (issue of warning notice under the standard procedure) | (1) The Pensions Regulator makes a determination to withdraw the scheme's authorisation, and (2) there is no referral of the determination to the Tribunal within the time period allowed for doing so. | The date of the Pensions Regulator's determination. |
+| Item 2 (issue of determination notice under the special procedure) | (1) On a review under Article 94 of the Pensions (Northern Ireland) Order 2005 (S.I. 2005/255 (N.I. 1)), the Pensions Regulator makes a determination that the scheme's authorisation should be withdrawn, and (2) there is no referral of the determination to the Tribunal within the time period allowed for doing so. | The date of the Pensions Regulator's determination. |
+| Item 1 or 2 | (1) On a referral to the Tribunal of a determination by the Pensions Regulator, the Tribunal makes a determination the effect of which is that the scheme's authorisation should be withdrawn, and (2) either—<br>(a) no appeal is brought against the Tribunal's determination within the time period allowed for doing so, or<br>(b) an appeal is brought within that time period but is later withdrawn. | The date of the Tribunal's determination. |
+| Item 1 or 2 | The effect of an appeal against a determination by the Tribunal is that the scheme's authorisation should be withdrawn. | The date on which the appeal is finally disposed of. |
+
+(3) In this section “the Tribunal” has the meaning given in—
+
+(a) Article 91(7) of the Pensions (Northern Ireland) Order 2005 (S.I. 2005/255 (N.I. 1)), in a case where the standard procedure applies;
+
+(b) Article 94(13) of that Order, in a case where the special procedure applies.
+
+#### 87 Continuity option 1: discharge of liabilities and winding up
+
+(1) Where the trustees of a collective money purchase scheme are required, or decide, to pursue continuity option 1, they must—
+
+(a) quantify, in the case of each beneficiary, the amount that represents the value of the beneficiary's accrued rights to benefits under the scheme;
+
+(b) formulate a proposal for discharging the scheme's liability to each beneficiary in respect of those rights, in one of the ways set out in subsection (2);
+
+(c) notify [[^F149]the following] of the proposal and of such other matters as may be specified in regulations made by [[^F150]the Department—
+
+(i) each employer,
+
+(ii) each beneficiary, and
+
+(iii) where the scheme is a single or connected employer scheme, each relevant former employer.]
+
+(2) The ways of discharging the scheme's liability referred to in subsection (1)(b) are—
+
+(a) transferring the value of the beneficiaries' accrued rights to benefits under the scheme to a collective money purchase scheme or to a Master Trust scheme;
+
+(b) transferring the value of those rights, in such circumstances as may be specified in regulations made by the Department, to a pension scheme that has characteristics specified in the regulations;
+
+(c) securing, in such circumstances as may be specified in regulations made by the Department, the payment of benefits by such other means (an “alternative payment mechanism”) as may be specified in the regulations.
+
+(3) A proposal under subsection (1)(b) may deal with the rights of different descriptions of beneficiaries in different ways.
+
+(4) Subsections (1)(b) and (2) have effect subject to—
+
+(a) Part 4ZA of the Pension Schemes (Northern Ireland) Act 1993 (transfers and contribution refunds);
+
+(b) provision made by regulations under subsection (6).
+
+(5) Notification under subsection (1)(c) must be given—
+
+(a) in the manner specified in regulations made by the Department, and
+
+(b) before the end of the period specified in the regulations.
+
+(6) The Department may by regulations make provision for the purposes of enabling continuity option 1 to be given effect, which may include—
+
+(a) provision about how continuity option 1 is to be pursued by the trustees of a collective money purchase scheme;
+
+(b) provision conferring rights on beneficiaries or employers;
+
+(c) provision imposing duties on employers or trustees;
+
+(d) provision conferring power on the Pensions Regulator to direct trustees to do things permitted or required by the regulations;
+
+(e) provision deeming a beneficiary the value of whose accrued rights are to be transferred to a scheme that is not a collective money purchase scheme or a Master Trust scheme to have entered into an agreement with a person of a description specified in the regulations.
+
+(7) Regulations under subsection (6) must include—
+
+(a) provision about how the quantification referred to in subsection (1)(a) is to be carried out (which may be different in relation to different descriptions of beneficiaries);
+
+(b) provision for securing that a person who has become a pensioner beneficiary (whether before or after the occurrence of the triggering event as a result of which the trustees are pursuing continuity option 1) receives a periodic income, at a rate or of an amount that is calculated by reference to the amount referred to in subsection (1)(a), until the time when the proposal under subsection (1)(b) is implemented or some other specified time;
+
+(c) provision about how rights conferred by the regulations may be exercised (including the time periods within which they may be exercised);
+
+(d) provision specifying requirements (which may include approval or authorisation by the Pensions Regulator in accordance with the regulations) to be met in the case of a pension scheme, or an alternative payment mechanism, by means of which it is proposed to discharge the collective money purchase scheme's liabilities to beneficiaries in one of the ways set out in subsection (2);
+
+(e) provision requiring those responsible for a pension scheme by means of which it is proposed to discharge the collective money purchase scheme's liabilities to beneficiaries (“the receiving scheme”) to provide the Pensions Regulator with a document setting out the level of administration charges that applied in relation to members of the receiving scheme, in the manner and as at the date specified or described in the regulations;
+
+(f) provision imposing duties on the trustees to notify all or a specified description of employers and beneficiaries of their rights under the regulations and of members' rights under Part 4ZA of the Pension Schemes (Northern Ireland) Act 1993;
+
+(g) provision about the winding up of the collective money purchase scheme in circumstances where the scheme's liabilities to beneficiaries are discharged.
+
+(8) In this section—
+
+- “beneficiary”, in relation to the collective money purchase scheme, means—
+
+  - (a) a member of the scheme, or
+  - (b) a person who has survived a member of the scheme and has an entitlement to benefits, or a right to future benefits, under the scheme rules in respect of the member;
+
+- “pensioner beneficiary”, in relation to the collective money purchase scheme, means a person who is entitled to the present payment of pension or other benefits under the scheme;
+
+- “specified” means specified in regulations under subsection (6).
+
+(9) Article 10 of the Pensions (Northern Ireland) Order 1995 (S.I. 1995/3213 (N.I. 22)) (civil penalties) applies to a person who fails to comply with a requirement imposed by this section.
+
+(10) Regulations under this section may provide for the application of Article 10 of the Pensions (Northern Ireland) Order 1995 (S.I. 1995/3213 (N.I. 22)) to a person who fails to comply with a requirement imposed by the regulations.
+
+(11) Regulations under subsection (2) or (6) are subject to confirmatory procedure.
+
+(12) Regulations under subsection (1)(c) or (5) are subject to negative resolution.
+
+#### 88 Continuity option 2: resolving triggering event
+
+(1) Where the trustees of a collective money purchase scheme decide to pursue continuity option 2, they must attempt to resolve the triggering event.
+
+(2) The trustees must notify the Pensions Regulator when they consider that the triggering event has been resolved.
+
+(3) The notification must—
+
+(a) set out how the trustees consider that the triggering event has been resolved;
+
+(b) be given before the end of the period specified in regulations made by the Department.
+
+(4) After receiving the notification, the Pensions Regulator must notify the trustees as to whether it is satisfied that the triggering event has been resolved.
+
+(5) The Pensions Regulator may not form the view that a triggering event (“the relevant event”) has been resolved unless it is satisfied that any other event within the triggering events table that has occurred in relation to the scheme since the occurrence of the relevant event has also been resolved.
+
+(6) Article 10 of the Pensions (Northern Ireland) Order 1995 (civil penalties) applies to a trustee who fails to comply with a requirement imposed by this section.
+
+(7) Regulations under subsection (3)(b) are subject to negative resolution.
+
+#### 89 Continuity option 3: conversion to closed scheme
+
+(1) This section applies where the trustees of a collective money purchase scheme decide to pursue continuity option 3.
+
+(2) The trustees must notify the Pensions Regulator when they consider that preparations for the conversion of the scheme into a closed scheme are complete.
+
+(3) The Department may by regulations require notification under subsection (2) to be given before the end of a period specified in the regulations.
+
+(4) If the Pensions Regulator is satisfied—
+
+(a) that preparations for the conversion of the scheme into a closed scheme are complete, and
+
+(b) that the conversion will resolve the triggering event giving rise to the decision to pursue continuity option 3, and any other event within the triggering events table that has subsequently occurred in relation to the collective money purchase scheme,
+
+the Regulator must notify the trustees accordingly.
+
+(5) The conversion of the scheme into a closed scheme may be carried out only in accordance with the provisions of the scheme.
+
+(6) The scheme may not begin operating as a closed scheme until the trustees have received notification under subsection (4).
+
+(7) Where the trustees have pursued continuity option 3 they may not later reverse the closure of the scheme (either completely or to any extent).
+
+(8) Article 10 of the Pensions (Northern Ireland) Order 1995 (S.I. 1995/3213 (N.I. 22)) (civil penalties) applies to a trustee who fails to comply with a requirement or restriction imposed by this section.
+
+(9) Regulations under subsection (3) are subject to negative resolution.
+
+(10) In this section “closed”, in relation to a collective money purchase scheme, means closed to new contributions or new members (or both).
+
+The reference to closure of the scheme in subsection (7) is to be read accordingly.
+
+#### 90 Implementation strategy
+
+(1) If a triggering event occurs in relation to a collective money purchase scheme, the trustees must—
+
+(a) produce a document setting out how the interests of members of the scheme are to be protected following the occurrence of the event (an “implementation strategy”), and
+
+(b) submit it to the Pensions Regulator for approval before the end of a period specified in regulations made by the Department.
+
+This is subject to subsections (2)(a) and (3)(a).
+
+(2) If an item 1, 2 or 3 triggering event occurs within the triggering event period for an earlier triggering event—
+
+(a) the trustees are not required to submit an implementation strategy in respect of the earlier triggering event;
+
+(b) any implementation strategy approved by the Pensions Regulator in respect of the earlier triggering event ceases to have effect when the later triggering event occurs.
+
+(3) In the case of an item 1 or 2 triggering event—
+
+(a) the trustees are required to submit an implementation strategy only if the decision to withdraw authorisation has become final (see section 86);
+
+(b) if it becomes clear that authorisation is not to be withdrawn, subsection (2) ceases to have effect on the date on which that becomes clear.
+
+Subsections (3) to (5) of section 83 apply for the purposes of paragraph (b) above as they apply for the purposes of subsection (2)(c) of that section.
+
+(4) The Pensions Regulator may direct the trustees to comply with a requirement imposed by this section.
+
+(5) Article 10 of the Pensions (Northern Ireland) Order 1995 (civil penalties) applies to a person who fails to comply with a direction under subsection (4).
+
+(6) This section overrides any provision of the collective money purchase scheme, to the extent that there is a conflict.
+
+(7) Regulations under subsection (1)(b) are subject to negative resolution.
+
+#### 91 Approval of implementation strategy
+
+(1) The Pensions Regulator may approve an implementation strategy only if it is satisfied that the strategy is adequate.
+
+(2) Subsections (3) to (6) apply for the purposes of enabling the Pensions Regulator to decide whether it is satisfied that an implementation strategy for a collective money purchase scheme is adequate.
+
+(3) An implementation strategy must include information about the levels of administration charges in relation to members of the scheme.
+
+(4) The information must—
+
+(a) relate to the levels of administration charges as at the date specified or described in regulations made by the Department, and
+
+(b) be set out in the manner specified or described in the regulations.
+
+(5) An implementation strategy must include information about the following matters—
+
+(a) the continuity option that is to be pursued (see section 85);
+
+(b) where continuity option 1 (discharge of liabilities and winding up) is to be pursued—
+
+(i) the scheme or schemes to which it is proposed to transfer the value of accrued rights to benefits, or the alternative payment mechanism by which the payment of benefits is to be secured, if known;
+
+(ii) when the transfer is expected to take place, or (as the case may be) when the payment of benefits is expected to be secured;
+
+(c) where continuity option 2 (resolving the triggering event) is to be pursued, how it is proposed that the triggering event should be resolved;
+
+(d) where continuity option 3 (conversion to closed scheme) is to be pursued—
+
+(i) the way in which, the extent to which and the time by which it is proposed to close the scheme;
+
+(ii) how the scheme will continue to meet the authorisation criteria;
+
+(iii) any revisions that will be needed to the viability report and the continuity strategy (see sections 64 and 68).
+
+[[^F151](iv) where the scheme is an unconnected multiple employer scheme, any revisions that will be needed to the business plan (see section 65A).]
+
+(6) An implementation strategy must—
+
+(a) include any other information specified or described in regulations made by the Department, and
+
+(b) be prepared in accordance with regulations made by the Department.
+
+(7) Regulations under this section are subject to negative resolution.
+
+#### 92 Trustees' duties once implementation strategy approved
+
+(1) When the Pensions Regulator has notified the trustees of a collective money purchase scheme that an implementation strategy relating to the scheme is approved, the trustees must—
+
+(a) pursue the continuity option identified in the strategy, and
+
+(b) take such other steps as are identified in the strategy in order to carry it out.
+
+(2) The Department may by regulations require the trustees of a collective money purchase scheme to make available an approved implementation strategy relating to the scheme, before the end of the period specified or described in the regulations, [[^F152]to employers or, where the scheme is a single or connected employer scheme, relevant former employers] that are of a description specified in the regulations.
+
+(3) If an item 1, 2 or 3 triggering event occurs within the triggering event period for an earlier triggering event—
+
+(a) the trustees cease to be subject to the requirements of subsection (1) and regulations under subsection (2) in respect of an approved implementation strategy relating to the earlier triggering event, but
+
+(b) in the case of an item 1 or 2 triggering event, if it becomes clear that authorisation is not to be withdrawn, the trustees are again subject to those requirements from the date on which that becomes clear.
+
+Subsections (3) to (5) of section 83 apply for the purposes of paragraph (b) above as they apply for the purposes of subsection (2)(c) of that section.
+
+(4) The Pensions Regulator may direct the trustees to comply with subsection (1), if they fail to do so.
+
+(5) Article 10 of the Pensions (Northern Ireland) Order 1995 (S.I. 1995/3213 (N.I. 22)) (civil penalties) applies to a person who fails to comply with a direction under subsection (4).
+
+(6) To the extent that there is a conflict, this section overrides a provision of—
+
+(a) a collective money purchase scheme, or
+
+(b) a contract between the trustees of a collective money purchase scheme and a person providing services in relation to the scheme.
+
+(7) Regulations under subsection (2) are subject to negative resolution.
+
+#### 93 Prohibition on winding up except in accordance with continuity option 1
+
+(1) A person may wind up a collective money purchase scheme only in accordance with continuity option 1 (see section 87).
+
+(2) Subsection (1) overrides any provision of a collective money purchase scheme to the extent that there is a conflict.
+
+(3) Article 10 of the Pensions (Northern Ireland) Order 1995 (civil penalties) applies to a person who fails to comply with subsection (1).
+
+#### 94 Periodic reporting requirements
+
+(1) During a triggering event period for a collective money purchase scheme, the trustees must submit reports to the Pensions Regulator.
+
+(2) The first report must be submitted before the end of a period specified in regulations made by the Department.
+
+(3) Subsequent reports must be submitted at intervals specified by the Pensions Regulator.
+
+(4) The reports must—
+
+(a) report on progress in carrying out the implementation strategy,
+
+(b) record events or decisions of a description specified in regulations made by the Department,
+
+(c) contain such other information as is specified in regulations made by the Department, and
+
+(d) be made in the manner and form specified by the Pensions Regulator.
+
+(5) Article 10 of the Pensions (Northern Ireland) Order 1995 (S.I. 1995/3213 (N.I. 22)) (civil penalties) applies to a person who fails to comply with a requirement imposed by this section.
+
+(6) Regulations under this section are subject to negative resolution.
+
+#### 95 Pause orders
+
+(1) This section applies during a triggering event period for a collective money purchase scheme.
+
+(2) The Pensions Regulator may make a pause order in relation to the scheme if either of the following two conditions is met.
+
+(3) Condition 1 is that the Pensions Regulator is satisfied that making a pause order will help the trustees to carry out the implementation strategy.
+
+(4) Condition 2 is that the Pensions Regulator is satisfied that—
+
+(a) there is, or is likely to be if a pause order is not made, an immediate risk to the interests of members of the scheme or the assets of the scheme, and
+
+(b) it is necessary to make a pause order to protect the interests of the generality of the members of the scheme.
+
+(5) A pause order is an order that during the period for which it has effect one or more of the following directions has effect—
+
+(a) a direction that no new members (or no new members of a specified description) are to be admitted to the scheme;
+
+(b) a direction that no further payments (or no further payments of a specified description) are to be made towards the scheme—
+
+(i) by or on behalf of employers or [[^F153], where the scheme is a single or connected employer scheme,] relevant former employers (or employers or relevant former employers of a specified description), or
+
+(ii) by or in respect of members (or members of a specified description);
+
+(c) a direction that an amount (or specified amount) which—
+
+(i) corresponds to a payment that would be due to be made towards the scheme in respect of a member but for a direction under paragraph (b), and
+
+(ii) has been deducted from a payment of earnings in respect of an employment,
+
+is to be repaid to the member in question by the employer;
+
+(d) a direction that no benefits (or no benefits of a specified description) are to be paid to or in respect of members (or members of a specified description) under the scheme rules;
+
+(e) a direction that—
+
+(i) no transfers (or no transfers of a specified description) of or in respect of a member's rights under the scheme rules are to be made from the scheme,
+
+(ii) no transfer payments (or no transfer payments of a specified description) in respect of a member's rights under the scheme rules are to be made from the scheme, or
+
+(iii) no other steps (or no other steps of a specified description) are to be taken to discharge a liability of the scheme to or in respect of a member of the scheme in respect of pensions or other benefits.
+
+(6) In subsection (5)(b)—
+
+(a) a reference to payments does not include payments due to be made before the order takes effect, and
+
+(b) a reference to payments towards a scheme includes payments in respect of pension credits where the person entitled to the credit is a member of the scheme.
+
+(7) A direction under subsection (5)(e) may provide that—
+
+(a) no transfers of or in respect of a member's rights under the scheme rules, or no such transfers of a specified description, may be made from the scheme, or
+
+(b) no transfer payments in respect of such rights, or no such transfer payments of a specified description, may be made from the scheme,
+
+unless the amounts paid out from the scheme in respect of the transfers or transfer payments are determined in a specified manner and the transfers or transfer payments satisfy such other conditions as may be specified.
+
+(8) A pause order may also require the trustees of the scheme to obtain an actuarial valuation within a specified period.
+
+(9) A pause order containing such a requirement must specify—
+
+(a) the date by reference to which the matters to be set out in the valuation must be determined;
+
+(b) the information and statements that the valuation must contain;
+
+(c) any other requirements that the valuation must satisfy.
+
+(10) Schedule 5 makes further provision about pause orders.
+
+(11) In this section—
+
+- “earnings” has the meaning given in section 176(1) of the Pension Schemes (Northern Ireland) Act 1993;
+- “pension credit” means a credit under Article 26(1)(b) of the Welfare Reform and Pensions (Northern Ireland) Order 1999 (S.I. 1999/3147 (N.I. 11)) or section 29(1)(b) of the Welfare Reform and Pensions Act 1999;
+- “specified” means specified in the pause order.
+
+#### 96 Prohibition on increasing charges etc during triggering event period
+
+(1) During a triggering event period for a collective money purchase scheme, the trustees must not—
+
+(a) impose administration charges on or in respect of members at levels above those set out in the implementation strategy,
+
+(b) impose new administration charges on or in respect of members, or
+
+(c) impose administration charges on or in respect of a member in consequence of the member leaving, or deciding to leave, the scheme during that period.
+
+(2) The trustees of a receiving scheme that is a collective money purchase scheme or a Master Trust scheme must not—
+
+(a) impose administration charges on or in respect of members at levels above those set out in the document provided to the Pensions Regulator by virtue of regulations under section 87(7)(e), or
+
+(b) impose new administration charges on or in respect of members,
+
+for the purposes of meeting any of the costs mentioned in subsection (4).
+
+(3) The Department may by regulations—
+
+(a) provide that subsection (1) or (2) does not apply in relation to administration charges specified or described in the regulations;
+
+(b) make provision about how levels of administration charges are to be calculated for the purposes of this section.
+
+(4) The costs referred to in subsection (2) are costs for which a receiving scheme is liable—
+
+(a) which were incurred by the transferring scheme, or
+
+(b) which relate directly to the transfer of the value of accrued rights to benefits under the transferring scheme.
+
+(5) To the extent that there is a conflict, this section overrides a provision of—
+
+(a) a collective money purchase scheme,
+
+(b) a Master Trust scheme,
+
+(c) a contract between the trustees of a collective money purchase scheme and a person providing services in relation to the scheme, or
+
+(d) a Master Trust scheme contract within the meaning of section 39(1) of the Pension Schemes Act 2017 or any corresponding statutory provision.
+
+(6) The Department may by regulations apply some or all of the provisions of this section to a receiving scheme that has characteristics specified in regulations under section 87(2)(b).
+
+(7) Article 10 of the Pensions (Northern Ireland) Order 1995 (S.I. 1995/3213 (N.I. 22)) (civil penalties) applies to a trustee who fails to comply with this section.
+
+(8) In this section—
+
+- “receiving scheme” means a pension scheme that—
+
+  - (a) receives a transfer from a transferring scheme of the value of accrued rights to benefits under that scheme during a triggering event period for that scheme, and
+  - (b) was proposed by the trustees of that transferring scheme, or by employers in relation to that scheme, as a scheme to which the value of those rights should be transferred;
+
+- “transferring scheme” means a collective money purchase scheme the trustees of which, following a triggering event, are pursuing continuity option 1.
+
+(9) Regulations under subsection (3)(a) or (6), and the first regulations under subsection (3)(b), are subject to confirmatory procedure.
+
+(10) Subsequent regulations under subsection (3)(b) are subject to negative resolution.
+
+### Publication of information
+
+#### 97 Publication of information
+
+(1) The Department may by regulations require the trustees of a collective money purchase scheme to publish information relating to the scheme that is specified or described in the regulations.
+
+(2) Regulations under subsection (1) may, among other things—
+
+(a) require the trustees to publish a document specified or described in the regulations;
+
+(b) require information or a document to be made available free of charge;
+
+(c) require information or a document to be provided to a person in a form or by means specified or described in the regulations;
+
+(d) require or permit information specified or described in the regulations to be excluded from a document when it is published in accordance with the regulations.
+
+(3) In complying with a requirement imposed by regulations under subsection (1) a trustee must have regard to any guidance prepared from time to time by the Department.
+
+(4) Article 10 of the Pensions (Northern Ireland) Order 1995 (S.I. 1995/3213 (N.I. 22)) (civil penalties) applies to a trustee who fails to take all reasonable steps to comply with a requirement imposed by regulations under this section.
+
+(5) Regulations under subsection (1) are subject to negative resolution.
+
+### Powers to make further provision
+
+#### 98 Powers to extend definition of qualifying schemes
+
+(1) The Department may by regulations remove the exclusion of any of the following from the definition of “qualifying scheme” in section 54—
+
+(a) pension schemes not established solely by one or more persons to whom section 1(2)(a) (employer) of the Pension Schemes (Northern Ireland) Act 1993 applied when the scheme was established;
+
+(b) pension schemes used, or intended to be used, by two or more employers some or all of which are not connected with each other.
+
+(2) The Department may by regulations make further provision about collective money purchase schemes that could not be qualifying schemes, or sections of qualifying schemes, but for regulations under subsection (1) (“relevant schemes”), including—
+
+(a) provision about the authorisation of relevant schemes by the Pensions Regulator;
+
+(b) provision about triggering events and continuity options;
+
+(c) provision about administration charges during triggering event periods.
+
+(3) Regulations under subsection (2) making provision about relevant schemes used, or intended to be used, by two or more employers some or all of which are not connected with each other may among other things—
+
+(a) make provision corresponding or similar to provision made by or under Part 1 of the Pension Schemes Act 2017;
+
+(b) disapply, in relation to such schemes, any statutory provision corresponding to anything in that Part.
+
+(4) The provision that may be made under subsection (1) or (2) may be made by—
+
+(a) modifying or amending this Part;
+
+(b) making consequential modifications or amendments of any other statutory provision.
+
+[[^F154](4A) Where regulations under this section make provision in relation to an unconnected multiple employer scheme that corresponds or is similar to provision contained in regulations under another provision of this Part made in relation to a single or connected employer scheme, the regulations under this section are to be treated for the purposes of this Part as having been made under that other provision of this Part to the extent that they contain such provision.]
+
+(5) Regulations under this section are subject to confirmatory procedure.
+
+### Supplementary
+
+#### 99 Minor and consequential amendments
+
+Schedule 6 makes minor and consequential amendments relating to this Part.
+
+#### 100 Interpretation of Part 2
+
+(1) In this Part—
+
+- [[^F155]“the accounts of an unconnected multiple employer scheme” means the accounts audited by the person appointed as auditor in relation to the scheme under Article 47(1)(a) of the Pensions (Northern Ireland) Order 1995 (professional advisers) (and see subsection (1A) below);]
+
+- “administration charge” has the same meaning as in paragraph 1 of Schedule 18 to the Pensions Act (Northern Ireland) 2015 (c. 5 (N.I.));
+
+- “authorisation” means authorisation under section 60 or by virtue of regulations under section 56(2) (and related expressions are to be read accordingly);
+
+- “authorisation criteria” has the meaning given in section 60(3);
+
+- [[^F156]“chief or other senior financial officer”, in relation to an unconnected multiple employer scheme, means a person acting in a capacity in which that person has significant influence over either or both of the following—
+
+  - the management and use of financial resources of the scheme;
+  - business decisions relating to the commercial activities of the scheme;]
+
+- [[^F156]“chief or other senior investment officer”, in relation to an unconnected multiple employer scheme, means a person who—
+
+  - is acting in a capacity in which that person has significant influence over either or both of the following—
+  
+    - the contents of the scheme’s investment strategy;
+    - the implementation, management and communication of the scheme’s investment strategy, but
+  
+  - does not have that influence by virtue of a contract or other arrangement—
+  
+    - under which services relating to investments are provided in relation to the scheme, and
+    - by virtue of which the scheme, or a person acting on behalf of the scheme, has the status of client or customer;]
+
+- [[^F156]“Code” means a code of practice issued by the Pensions Regulator under Article 85 of the Pensions (Northern Ireland) Order 2005;]
+
+- “the data protection legislation” has the same meaning as in the Data Protection Act 2018 (see section 3 of that Act);
+
+- “the Department” means the Department for Communities in Northern Ireland;
+
+- “employer”, in relation to an occupational pension scheme, means a person who employs or engages persons who are, or are entitled to become, members of the scheme;
+
+- “implementation strategy” has the meaning given in section 90;
+
+- “insolvency event” has the meaning given in Article 105 of the Pensions (Northern Ireland) Order 2005 (S.I. 2005/255 (N.I. 1));
+
+- [[^F157]“investment strategy”, in relation to an unconnected multiple employer scheme, means a document prepared by the trustees setting out the strategy for investing the assets that arise or derive from the payments made by or in respect of members of the scheme;]
+
+- “Master Trust scheme” means a Master Trust scheme within the meaning of the Pension Schemes Act 2017 or any corresponding statutory provision;
+
+- “member” has the meaning given in Article 121(1) of the Pensions (Northern Ireland) Order 1995 (S.I. 1995/3213 (N.I. 22)) (read with regulations made under Article 122(4) of that Order);
+
+- “occupational pension scheme” has the same meaning as in the Pension Schemes (Northern Ireland) Act 1993 (see section 1(1) of that Act);
+
+- “pension scheme” has the meaning given in section 1(5) of the Pension Schemes (Northern Ireland) Act 1993;
+
+- “the scheme actuary”, in relation to a pension scheme, means the person appointed under Article 47(1)(b) of the Pensions (Northern Ireland) Order 1995 (S.I. 1995/3213 (N.I. 22)) (professional advisers) in relation to the scheme;
+
+- [[^F158]“the scheme proprietor”, in relation to an unconnected multiple employer scheme, has the meaning given in section 65B(3);]
+
+- “scheme rules” has the meaning given in Article 2(3) and (4) of the Pensions (Northern Ireland) Order 2005 (S.I. 2005/255 (N.I. 1));
+
+- “statutory provision” has the meaning given in section 1(f) of the Interpretation Act (Northern Ireland) 1954 (c. 33 (N.I.));
+
+- “triggering event” has the meaning given in section 82;
+
+- [[^F159]“undertaking” has the meaning given in section 1161 of the Companies Act 2006;]
+
+- [[^F159]“unincorporated association” means any body of persons unincorporate but does not include a partnership.]
+
+[[^F160](1A) In relation to an unconnected multiple employer scheme which is a section of a qualifying scheme, references in this Part to the scheme’s accounts are to be read as references to the accounts of the qualifying scheme as a whole.]
+
+(2) For the purposes of this Part, an employer (“A”) is connected with another employer (“B”)—
+
+(a) where A is, or has been, a group undertaking in relation to B within the meaning of section 1161(5) of the Companies Act 2006, or
+
+(b) in circumstances specified in regulations made by the Department.
+
+(3) This Part applies to a qualifying scheme—
+
+(a) which provides both qualifying benefits and other benefits, and
+
+(b) for which there is no power to wind up the scheme to the extent only that it provides qualifying benefits,
+
+as if references to winding up the scheme, or to the scheme being wound up, were to ceasing to operate the scheme, or the scheme ceasing to operate, to the extent that it provides qualifying benefits.
+
+(4) Regulations made by the Department may make provision to the effect that, for the purposes of any specified provisions of this Part, a reference in this Part to a collective money purchase scheme includes a scheme that—
+
+(a) is in the process of being wound up, and
+
+(b) was a collective money purchase scheme immediately before the beginning of that process.
+
+“Specified” here means specified in the regulations.
+
+(5) Regulations under subsection (2) or (4) are subject to confirmatory procedure.
+
+#### 101 Index of defined expressions
+
+The Table below lists provisions which define or otherwise explain terms defined for this Part of this Act.
+
+|  |  |
+|---|---|
+| [[^F161]the accounts (of an unconnected multiple employer scheme) | section 100] |
+| actuarial valuation | section 71(2) |
+| administration charge | section 100 |
+| authorisation (and related expressions) | section 100 |
+| authorisation criteria | section 100 |
+| [[^F162]chief or other senior financial officer (in relation to an unconnected multiple employer scheme) | section 100] |
+| [[^F162]chief or other senior investment officer (in relation to an unconnected multiple employer scheme) | section 100] |
+| [[^F162]Code | section 100] |
+| collective money purchase benefit | section 52 |
+| collective money purchase scheme | section 52 |
+| confirmatory procedure | section 102 |
+| connected (in relation to employers) | section 100 |
+| the data protection legislation | section 100 |
+| the Department | section 100 |
+| determination notice | section 81(4) |
+| employer | section 100 |
+| implementation strategy | section 100 |
+| insolvency event | section 100 |
+| [[^F163]investment strategy (in relation to an unconnected multiple employer scheme) | section 100] |
+| item 1 triggering event (and similar references) | section 82(5) |
+| Master Trust scheme | section 100 |
+| member | section 100 |
+| negative resolution | section 102 |
+| occupational pension scheme | section 100 |
+| pension scheme | section 100 |
+| [[^F164]promotion or marketing (and related expressions) | section 60(7)] |
+| qualifying benefit | section 53 |
+| qualifying scheme | sections 54 and 55 |
+| [[^F165]rectification (in relation to promotion or marketing that is unclear or misleading, and related expressions) | section 60(7)] |
+| relevant former employer [[^F166](in relation to a single or connected employer scheme)] | section 82(5) |
+| the scheme actuary | section 100 |
+| [[^F167]the scheme proprietor (in relation to an unconnected multiple employer scheme) | section 100] |
+| scheme rules | section 100 |
+| section (of a pension scheme) | regulations under section 56(1) |
+| [[^F168]single or connected employer scheme | section 52(3)] |
+| special procedure | section 81(4) |
+| standard procedure | section 81(4) |
+| statutory provision | section 100 |
+| triggering event | section 100 |
+| triggering event period | section 83 |
+| triggering events table | section 82(4) |
+| [[^F169]unconnected multiple employer scheme | section 52(3)] |
+| [[^F169]undertaking | section 100] |
+| [[^F169]unincorporated association | section 100] |
+| warning notice | section 81(4) |
+
+#### 102 Regulations
+
+(1) A power of the Department to make regulations under this Part is exercisable by statutory rule for the purposes of the Statutory Rules (Northern Ireland) Order 1979 (S.I. 1979/1573 (N.I. 12)).
+
+(2) A power to make regulations under this Part may be used—
+
+(a) to make different provision for different purposes;
+
+(b) to make provision in relation to all or only some of the purposes for which it may be used.
+
+(3) Regulations under this Part may—
+
+(a) confer a discretion on a person;
+
+(b) make consequential, supplementary or incidental provision;
+
+(c) make transitional, transitory or saving provision.
+
+(4) Where regulations under this Part are subject to “negative resolution”, they are subject to negative resolution within the meaning given in section 41(6) of the Interpretation Act (Northern Ireland) 1954 (c. 33 (N.I.)).
+
+(5) Where regulations under this Part are subject to “confirmatory procedure”—
+
+(a) they must be laid before the Northern Ireland Assembly after being made, and
+
+(b) they take effect on such date as may be specified in the regulations, but (without prejudice to the validity of anything done under the regulations or to the making of new regulations) cease to have effect on the expiration of the period of six months beginning with that date unless at some time before the expiration of that period the regulations are approved by resolution of the Northern Ireland Assembly.
+
+(6) Section 41(3) of the Interpretation Act (Northern Ireland) 1954 applies in relation to the laying of regulations under this Part as it applies in relation to the laying of a statutory document under an enactment.
+
+(7) Any provision that may be made by regulations under this Part subject to negative resolution may be made by regulations subject to confirmatory procedure.
+
+## PART 3 — The Pensions Regulator
+
+### Contribution notices where avoidance of employer debt etc
+
+#### 103 Grounds for issuing a section 38 contribution notice
+
+(1) The Pensions Act 2004 is amended as follows.
+
+(2) In section 38 (contribution notices where avoidance of employer debt)—
+
+(a) in subsection (5)(a)—
+
+(i) after “test” insert “ , the employer insolvency test or the employer resources test ”;
+
+(ii) for “section 38A)” substitute “ sections 38A, 38C and 38E) ”;
+
+(b) in subsection (12)(c), after “test” insert “ , the employer insolvency test or the employer resources test ”.
+
+(3) After section 38B insert—
+
+> **38C Section 38 contribution notice: meaning of “employer insolvency test”**
+>
+> (1) For the purposes of section 38 the employer insolvency test is met in relation to an act or failure to act if the Regulator is of the opinion that—
+>
+> (a) immediately after the relevant time, the value of the assets of the scheme was less than the amount of the liabilities of the scheme, and
+>
+> (b) if a debt under section 75(4) of the Pensions Act 1995 (deficiencies in scheme assets: employer insolvency etc) had fallen due from the employer to the scheme immediately after the relevant time, the act or failure would have materially reduced the amount of the debt likely to be recovered by the scheme.
+>
+> (2) For the purposes of subsection (1)—
+>
+> (a) the value of the assets of the scheme immediately after the relevant time is the value which the Regulator estimates to be their value,
+>
+> (b) the amount of the liabilities of the scheme immediately after the relevant time is the amount which the Regulator estimates to be the amount of those liabilities, and
+>
+> (c) the amount of the debt is the amount which the Regulator estimates to be the amount of the debt under section 75(4) of the Pensions Act 1995 that would have fallen due immediately after the relevant time.
+>
+> (3) When estimating the value and the amounts referred to in subsection (2), the Regulator must take into account how assets and liabilities, and their value or amount, are determined and calculated for the purposes of section 75(4) of the Pensions Act 1995.
+>
+> (4) When estimating—
+>
+> (a) the value of the assets of the scheme immediately after the relevant time, and
+>
+> (b) the amount of the debt under section 75(4) of the Pensions Act 1995 falling due immediately after the relevant time,
+>
+> the Regulator must disregard the amount of any debt due immediately after the relevant time from the employer under section 75 of the Pensions Act 1995.
+>
+> (5) In this section “the relevant time” means—
+>
+> (a) in the case of an act, the time of the act, or
+>
+> (b) in the case of a failure to act—
+>
+> (i) the time when the failure occurred, or
+>
+> (ii) where the failure continued for a period of time, the time which the Regulator determines and which falls within that period;
+>
+> and, in the case of acts or failures to act forming part of a series, any reference in this subsection to an act or failure to act is a reference to the last of the acts or failures in that series.
+>
+> **38D Section 38 contribution notice issued by reference to employer insolvency test: defence**
+>
+> (1) This section applies where—
+>
+> (a) a warning notice is given to any person (“P”) in respect of a contribution notice under section 38, and
+>
+> (b) the contribution notice under consideration would be issued wholly or partly by reference to the Regulator's opinion that the employer insolvency test is met in relation to an act or deliberate failure to act to which P was a party.
+>
+> (2) If the Regulator is satisfied that P has shown that—
+>
+> (a) conditions A and C are met, and
+>
+> (b) where applicable, condition B is met,
+>
+> the Regulator must not issue the contribution notice by reference to its being of the opinion mentioned in subsection (1)(b).
+>
+> (3) If the Regulator is satisfied that P or another person has shown that condition D is met, the Regulator must not issue the contribution notice by reference to its being of the opinion mentioned in subsection (1)(b).
+>
+> (4) Condition A is that, before becoming a party to the act or failure, P gave due consideration to the extent to which, if a debt under section 75(4) of the Pensions Act 1995 were to fall due from the employer to the scheme—
+>
+> (a) immediately after the act or failure, or
+>
+> (b) where the failure might continue for a period of time, at any time within that period,
+>
+> the act or failure might materially reduce the amount of the debt likely to be recovered by the scheme.
+>
+> (5) Condition B is that, in any case where as a result of that consideration P considered that the act or failure might have such an effect, P took all reasonable steps to eliminate or minimise the potential for the act or failure to have such an effect.
+>
+> (6) Condition C is that, having regard to all relevant circumstances prevailing at the time of the act or at the time when the failure to act first occurred, it was reasonable for P to conclude that, if a debt under section 75(4) of the Pensions Act 1995 were to fall due from the employer to the scheme—
+>
+> (a) immediately after the act or failure, or
+>
+> (b) where the failure might continue for a period of time, at any time within that period,
+>
+> the act or failure would not materially reduce the amount of the debt likely to be recovered by the scheme.
+>
+> (7) Condition D is that, immediately after the relevant time, the value of the assets of the scheme equalled or was more than the amount at that time of the liabilities of the scheme.
+>
+> (8) P is to be regarded as giving the consideration mentioned in condition A only if P has made the enquiries, and done the other acts, that a reasonably diligent person would have made or done in the circumstances.
+>
+> (9) For the purposes of condition C the reference to the circumstances mentioned in that condition is a reference to those circumstances of which P was aware, or ought reasonably to have been aware, at the time of the act or the time when the failure to act first occurred (including acts or failures to act which have occurred before that time and P's expectation at that time of other acts or failures to act occurring).
+>
+> (10) For the purposes of conditions A, C and D the amount of any debt due at the time in question from the employer under section 75 of the Pensions Act 1995 is to be disregarded.
+>
+> (11) In the case of acts or failures to act forming part of a series, P is to be regarded as having shown the matters mentioned in subsection (2) if P shows in the case of each of the acts or failures in the series that—
+>
+> (a) conditions A and C are met, and (where applicable) condition B is met, in relation to the act or failure, or
+>
+> (b) the act or failure was one of a number of acts or failures (a “group” of acts or failures) selected by P in relation to which the following matters are shown.
+>
+> (12) The matters to be shown are that—
+>
+> (a) before becoming a party to the first of the acts or failures in the group, condition A is met in relation to the effect of the acts or failures in the group taken together,
+>
+> (b) condition B is (where applicable) met in relation to that effect, and
+>
+> (c) condition C is then met in relation to each of the acts or failures in the group (determined at the time at which each act or failure concerned occurred or first occurred).
+>
+> (13) If at any time P considers that condition C will not be met in relation to any particular act or failure in the group—
+>
+> (a) the previous acts or failures in the group are to be regarded as a separate group for the purposes of subsection (11), and
+>
+> (b) P may then select another group consisting of the particular act or failure concerned, and any subsequent act or failure, in relation to which P shows the matters mentioned in subsection (12).
+>
+> Nothing in paragraph (b) is to be read as preventing P from showing the matters mentioned in subsection (11)(a).
+>
+> (14) If—
+>
+> (a) P is unable to show in the case of each of the acts or failures in the series that the matters set out in subsection (11)(a) or (b) are met, but
+>
+> (b) does show in the case of some of them that those matters are met,
+>
+> the acts or failures within paragraph (b) are not to count for the purposes of section 38C as acts or failures to act in the series.
+>
+> (15) In this section—
+>
+> (a) “the relevant time” has the meaning given by section 38C;
+>
+> (b) “a warning notice” means a notice given as mentioned in section 96(2)(a);
+>
+> (c) a reference to a party to an act or failure to act includes a reference to a person who knowingly assists in the act or failure.
+
+(4) After section 38D (inserted by subsection (3)) insert—
+
+> **38E Section 38 contribution notice: meaning of “employer resources test”**
+>
+> (1) For the purposes of section 38 the employer resources test is met in relation to an act or failure to act if the Regulator is of the opinion that—
+>
+> (a) the act or failure reduced the value of the resources of the employer, and
+>
+> (b) that reduction was a material reduction relative to the estimated section 75 debt in relation to the scheme.
+>
+> (2) For the purposes of this section—
+>
+> (a) what constitutes the resources of the employer is to be determined in accordance with regulations;
+>
+> (b) the value of the resources of the employer is to be determined, calculated and verified in a prescribed manner.
+>
+> (3) In this section the “estimated section 75 debt” means the amount which the Regulator estimates to be the amount of the debt which would become due from the employer to the trustees or managers of the scheme under section 75 of the Pensions Act 1995 (deficiencies in the scheme assets) if—
+>
+> (a) section 75(2) applied, and
+>
+> (b) the time designated by the trustees or managers of the scheme for the purposes of section 75(2) were the relevant time.
+>
+> (4) When calculating the estimated section 75 debt under subsection (3), the amount of any debt due at the relevant time from the employer under section 75 of the Pensions Act 1995 is to be disregarded.
+>
+> (5) In this section “the relevant time” means—
+>
+> (a) in a case where the act or failure to act forms part of a series of acts or failures to act, the time immediately before the first of the acts occurred or the first of the failures to act first occurred;
+>
+> (b) in any other case, the time immediately before the act occurred or the failure to act first occurred.
+>
+> **38F Section 38 contribution notice issued by reference to employer resources test: defence**
+>
+> (1) This section applies where—
+>
+> (a) a warning notice is given to any person (“P”) in respect of a contribution notice under section 38, and
+>
+> (b) the contribution notice under consideration would be issued wholly or partly by reference to the Regulator's opinion that the employer resources test is met in relation to an act or deliberate failure to act to which P was a party.
+>
+> (2) If the Regulator is satisfied that P has shown that—
+>
+> (a) conditions A and C are met, and
+>
+> (b) where applicable, condition B is met,
+>
+> the Regulator must not issue the contribution notice by reference to its being of the opinion mentioned in subsection (1)(b).
+>
+> (3) Condition A is that, before becoming a party to the act or failure, P gave due consideration to the extent to which the act or failure might reduce the value of the resources of the employer relative to the estimated section 75 debt in relation to the scheme.
+>
+> (4) Condition B is that, in any case where as a result of that consideration P considered that the act or failure might have such an effect, P took all reasonable steps to eliminate or minimise the potential for the act or failure to have such an effect.
+>
+> (5) Condition C is that, having regard to all relevant circumstances prevailing at the time of the act or at the time when the failure to act first occurred, it was reasonable for P to conclude that the act or failure would not bring about a reduction in the value of the resources of the employer that would be a material reduction relative to the estimated section 75 debt in relation to the scheme.
+>
+> (6) P is to be regarded as giving the consideration mentioned in condition A only if P has made the enquiries, and done the other acts, that a reasonably diligent person would have made or done in the circumstances.
+>
+> (7) For the purposes of condition C the reference to the circumstances mentioned in that condition is a reference to those circumstances of which P was aware, or ought reasonably to have been aware, at the time of the act or the time when the failure to act first occurred (including acts or failures to act which have occurred before that time and P's expectation at that time of other acts or failures to act occurring).
+>
+> (8) For the purposes of conditions A and C—
+>
+> (a) the “estimated section 75 debt” means the amount which is a reasonable estimate of the amount of the debt which would become due from the employer to the trustees or managers of the scheme under section 75 of the Pensions Act 1995 (deficiencies in the scheme assets) if—
+>
+> (i) section 75(2) applied, and
+>
+> (ii) the time designated by the trustees or managers of the scheme for the purposes of section 75(2) were the time immediately before the act occurred or the failure to act first occurred;
+>
+> (b) the amount of any debt due at the time in question from the employer under section 75 of the Pensions Act 1995 is to be disregarded.
+>
+> (9) In the case of acts or failures to act forming part of a series, P is to be regarded as having shown the matters mentioned in subsection (2) if P shows in the case of each of the acts or failures in the series that—
+>
+> (a) conditions A and C are met, and (where applicable) condition B is met, in relation to the act or failure, or
+>
+> (b) the act or failure was one of a number of acts or failures (a “group” of acts or failures) selected by P in relation to which the following matters are shown.
+>
+> (10) The matters to be shown are that—
+>
+> (a) before becoming a party to the first of the acts or failures in the group, condition A is met in relation to the effect of the acts or failures in the group taken together,
+>
+> (b) condition B is (where applicable) met in relation to that effect, and
+>
+> (c) condition C is then met in relation to each of the acts or failures in the group (determined at the time at which each act or failure concerned occurred or first occurred).
+>
+> (11) If at any time P considers that condition C will not be met in relation to any particular act or failure in the group—
+>
+> (a) the previous acts or failures in the group are to be regarded as a separate group for the purposes of subsection (9), and
+>
+> (b) P may then select another group consisting of the particular act or failure concerned, and any subsequent act or failure, in relation to which P shows the matters mentioned in subsection (10).
+>
+> Nothing in paragraph (b) is to be read as preventing P from showing the matters mentioned in subsection (9)(a).
+>
+> (12) If—
+>
+> (a) P is unable to show in the case of each of the acts or failures in the series that the matters set out in subsection (9)(a) or (b) are met, but
+>
+> (b) does show in the case of some of them that those matters are met,
+>
+> the acts or failures within paragraph (b) are not to count for the purposes of section 38E as acts or failures to act in the series.
+>
+> (13) In this section—
+>
+> (a) section 38E(2) (the resources of the employer and their value) has effect for the purpose of this section as it has effect for the purposes of section 38E;
+>
+> (b) “a warning notice” means a notice given as mentioned in section 96(2)(a);
+>
+> (c) a reference to a party to an act or failure to act includes a reference to a person who knowingly assists in the act or failure.
+
+#### 104 Reasonableness of issuing a contribution notice
+
+(1) Section 38 of the Pensions Act 2004 (contribution notices where avoidance of employer debt) is amended as follows.
+
+(2) In subsection (7) (matters that may be relevant to imposing liability), after paragraph (d) insert—
+
+> (da) if the act or failure to act was a notifiable event for the purposes of section 69A (duty to give notices and statements to the Regulator in respect of certain events), any failure by the person to comply with any obligation imposed on the person by section 69A,
+
+.
+
+(3) In subsection (7), after paragraph (eb) insert—
+
+> (ec) the effect of the act or failure to act on the value of the assets or liabilities of the scheme or any relevant transferee scheme,
+
+.
+
+(4) After subsection (7A) insert—
+
+> (7B) In subsection (7)(ec) “relevant transferee scheme” and the reference to the assets or liabilities of any relevant transferee scheme have the same meaning as in section 38A.
+
+#### 105 Determination of sum specified in a contribution notice
+
+(1) Section 39 of the Pensions Act 2004 (the sum specified in a section 38 contribution notice) is amended as follows.
+
+(2) For subsection (4) substitute—
+
+> (4) For the purposes of this section “the relevant time” means the end of the scheme year which ended most recently before the day on which the Regulator gives a determination notice under section 96(2)(d) in respect of an intended contribution notice under section 38.
+
+(3) Omit subsection (4A).
+
+#### 106 Sanctions for failure to comply with a contribution notice
+
+(1) The Pensions Act 2004 is amended as follows.
+
+(2) In section 40 (content and effect of a section 38 contribution notice)—
+
+(a) after subsection (2) insert—
+
+> (2A) Without prejudice to subsections (3) and (7), the contribution notice must also specify a date for the purposes of sections 42A(2) and 42B(2) (sanctions for failure to comply with a contribution notice).
+
+;
+
+(b) in subsection (9), after paragraph (b) (and before the “and”) insert—
+
+> (ba) specifies the same date for the purposes of sections 42A(2) and 42B(2) as is specified in P's contribution notice,
+
+.
+
+(3) In section 41 (section 38 contribution notice: relationship with employer debt)—
+
+(a) after subsection (8) insert—
+
+> (8A) An application under subsection (7) may not be made after—
+>
+> (a) the date specified under section 40(2A) for the purposes of sections 42A(2) and 42B(2) (sanctions for failure to comply with a contribution notice), or
+>
+> (b) if a different date has effect instead of that date (see subsections (10A) and (11B)), that different date.
+
+;
+
+(b) after subsection (10) insert—
+
+> (10A) Where an application under subsection (7) is made to the Regulator, the Regulator may, if it is of the opinion that it is appropriate to do so—
+>
+> (a) change the date that has effect for the purposes of sections 42A(2) and 42B(2) (whether specified in the contribution notice or an earlier revised contribution notice), and
+>
+> (b) specify the revised date in the revised contribution notice issued under subsection (9)(b) or, if the Regulator does not issue a revised contribution notice under subsection (9)(b), issue a revised contribution notice specifying the revised date.
+
+;
+
+(c) after subsection (11) insert—
+
+> (11A) Subsection (11B) applies where—
+>
+> (a) P's contribution notice specifies that P is jointly and severally liable for the debt with other persons, and
+>
+> (b) the Regulator issues a revised contribution notice to P under subsection (9)(b) or (10A)(b) specifying a revised date for the purposes of sections 42A(2) and 42B(2).
+>
+> (11B) Where this subsection applies, the Regulator must—
+>
+> (a) change the date that has effect for the purposes of sections 42A(2) and 42B(2) in the case of the contribution notices or revised contribution notices issued in respect of the debt to those other persons, and
+>
+> (b) specify the revised date in the revised contribution notices issued to those other persons under subsection (11) or, if the Regulator does not issue revised contribution notices under subsection (11), issue revised contribution notices to those other persons specifying the revised date.
+
+(4) After section 42 insert—
+
+> **42A Offence of failing to comply with a section 38 contribution notice**
+>
+> (1) This section applies where a contribution notice is issued to a person under section 38.
+>
+> (2) If the person, without reasonable excuse, fails to pay the debt due by virtue of the contribution notice to—
+>
+> (a) the trustees or managers of the scheme, or
+>
+> (b) the Board of the Pension Protection Fund (as the case may be),
+>
+> before the date specified in the contribution notice for the purposes of this subsection (see section 40(2A)), the person is guilty of an offence.
+>
+> (3) A person guilty of an offence under subsection (2) is liable—
+>
+> (a) on summary conviction in England and Wales, to a fine;
+>
+> (b) on summary conviction in Scotland, to a fine not exceeding level 5 on the standard scale.
+>
+> (4) Proceedings for an offence under subsection (2) may not be instituted if an application under section 41(7) has been made—
+>
+> (a) in relation to the contribution notice, or
+>
+> (b) in relation to a contribution notice which is a corresponding contribution notice for the purposes of section 40(8),
+>
+> and the application has not been determined, withdrawn or abandoned.
+>
+> (5) Proceedings for an offence under subsection (2) may be instituted in England and Wales only—
+>
+> (a) by the Regulator or the Secretary of State, or
+>
+> (b) by or with the consent of the Director of Public Prosecutions.
+
+(5) After section 42A (inserted by subsection (4)) insert—
+
+> **42B Financial penalty for failure to comply with a section 38 contribution notice**
+>
+> (1) This section applies where a contribution notice is issued to a person under section 38.
+>
+> (2) Section 88A (financial penalties) applies to the person if the person, without reasonable excuse, fails to pay the debt due by virtue of the contribution notice to—
+>
+> (a) the trustees or managers of the scheme, or
+>
+> (b) the Board of the Pension Protection Fund (as the case may be),
+>
+> before the date specified in the contribution notice for the purposes of this subsection (see section 40(2A)).
+>
+> (3) The Regulator may not issue a warning notice to the person in respect of the imposition of a penalty under section 88A as it applies by virtue of subsection (2) if an application under section 41(7) has been made—
+>
+> (a) in relation to the contribution notice, or
+>
+> (b) in relation to a contribution notice which is a corresponding contribution notice for the purposes of section 40(8),
+>
+> and the application has not been determined, withdrawn or abandoned.
+>
+> (4) In this section “warning notice” means a notice given as mentioned in section 96(2)(a).
+
+### Sanctions for avoidance of employer debt etc
+
+#### 107 Sanctions for avoidance of employer debt etc
+
+(1) The Pensions Act 2004 is amended as follows.
+
+(2) After section 58 insert—
+
+> **Sanctions for avoidance of employer debt etc**
+>
+> **58A Offence of avoidance of employer debt**
+>
+> (1) This section applies in relation to an occupational pension scheme other than—
+>
+> (a) a money purchase scheme, or
+>
+> (b) a prescribed scheme or a scheme of a prescribed description.
+>
+> (2) A person commits an offence only if—
+>
+> (a) the person does an act or engages in a course of conduct that—
+>
+> (i) prevents the recovery of the whole or any part of a debt which is due from the employer in relation to the scheme under section 75 of the Pensions Act 1995 (deficiencies in the scheme assets),
+>
+> (ii) prevents such a debt becoming due,
+>
+> (iii) compromises or otherwise settles such a debt, or
+>
+> (iv) reduces the amount of such a debt which would otherwise become due,
+>
+> (b) the person intended the act or course of conduct to have such an effect, and
+>
+> (c) the person did not have a reasonable excuse for doing the act or engaging in the course of conduct.
+>
+> (3) A reference in this section to an act or course of conduct includes a failure to act.
+>
+> (4) This section does not apply to a person if the act done, or course of conduct engaged in, by the person is in accordance with the person's functions as an insolvency practitioner in relation to another person.
+>
+> (5) For the purposes of this section a reference to a debt due under section 75 of the Pensions Act 1995 includes a contingent debt under that section.
+>
+> (6) Accordingly, in the case of such a contingent debt, the reference in subsection (2)(a) to preventing a debt becoming due is to be read as including a reference to preventing the occurrence of any of the events specified in section 75(4C)(a) or (b) of the Pensions Act 1995 upon which the debt is contingent.
+>
+> (7) A person guilty of an offence under subsection (2) is liable—
+>
+> (a) on summary conviction in England and Wales, to a fine;
+>
+> (b) on summary conviction in Scotland, to a fine not exceeding the statutory maximum;
+>
+> (c) on conviction on indictment, to imprisonment for a term not exceeding seven years or a fine, or both.
+>
+> (8) Proceedings for an offence under subsection (2) may be instituted in England and Wales only—
+>
+> (a) by the Regulator or the Secretary of State, or
+>
+> (b) by or with the consent of the Director of Public Prosecutions.
+>
+> (9) For the purposes of this section and sections 58B to 58D “insolvency practitioner”, in relation to a person, means—
+>
+> (a) a person acting as an insolvency practitioner, in relation to that person, in accordance with section 388 of the Insolvency Act 1986, or
+>
+> (b) an insolvency practitioner within the meaning of section 121(9)(b) (persons of a prescribed description).
+>
+> **58B Offence of conduct risking accrued scheme benefits**
+>
+> (1) This section applies in relation to an occupational pension scheme other than—
+>
+> (a) a money purchase scheme, or
+>
+> (b) a prescribed scheme or a scheme of a prescribed description.
+>
+> (2) A person commits an offence only if—
+>
+> (a) the person does an act or engages in a course of conduct that detrimentally affects in a material way the likelihood of accrued scheme benefits being received (whether the benefits are to be received as benefits under the scheme or otherwise),
+>
+> (b) the person knew or ought to have known that the act or course of conduct would have that effect, and
+>
+> (c) the person did not have a reasonable excuse for doing the act or engaging in the course of conduct.
+>
+> (3) A reference in this section to an act or a course of conduct includes a failure to act.
+>
+> (4) A reference in this section to accrued scheme benefits being received is a reference to benefits the rights to which have accrued by the relevant time being received by, or in respect of, the persons who were members of the scheme before that time.
+>
+> (5) In this section “the relevant time” means—
+>
+> (a) in the case of an act, the time of the act,
+>
+> (b) in the case of a failure to act—
+>
+> (i) the time when the failure occurred, or
+>
+> (ii) where the failure continued for a period of time, the end of that period, or
+>
+> (c) in the case of a course of conduct, the time when the course of conduct ended.
+>
+> (6) A reference in this section to rights which have accrued is to be read in accordance with section 67A(6) and (7) of the Pensions Act 1995 (reading any reference in those subsections to a subsisting right as a reference to a right which has accrued).
+>
+> (7) For the purposes of this section the benefits that may be received under the following provisions of this Act are to be disregarded—
+>
+> (a) Chapter 3 of Part 2 (the Board of the Pension Protection Fund: pension protection), and
+>
+> (b) section 286 (the financial assistance scheme for members of certain pension schemes).
+>
+> (8) This section does not apply to a person if the act done, or course of conduct engaged in, by the person is in accordance with the person's functions as an insolvency practitioner in relation to another person (see section 58A(9)).
+>
+> (9) A person guilty of an offence under subsection (2) is liable—
+>
+> (a) on summary conviction in England and Wales, to a fine;
+>
+> (b) on summary conviction in Scotland, to a fine not exceeding the statutory maximum;
+>
+> (c) on conviction on indictment, to imprisonment for a term not exceeding seven years or a fine, or both.
+>
+> (10) Proceedings for an offence under subsection (2) may be instituted in England and Wales only—
+>
+> (a) by the Regulator or the Secretary of State, or
+>
+> (b) by or with the consent of the Director of Public Prosecutions.
+
+(3) After section 58B (inserted by subsection (2)) insert—
+
+> **58C Financial penalty for avoidance of employer debt**
+>
+> (1) This section applies in relation to an occupational pension scheme other than—
+>
+> (a) a money purchase scheme, or
+>
+> (b) a prescribed scheme or a scheme of a prescribed description.
+>
+> (2) Section 88A (financial penalties) applies to a person who was party to an act or deliberate failure to act the main purpose or one of the main purposes of which was—
+>
+> (a) to prevent the recovery of the whole or any part of a debt which is due from the employer in relation to the scheme under section 75 of the Pensions Act 1995 (deficiencies in the scheme assets),
+>
+> (b) to prevent such a debt becoming due,
+>
+> (c) to compromise or otherwise settle such a debt, or
+>
+> (d) to reduce the amount of such a debt which would otherwise become due,
+>
+> if it was not reasonable for the person to act or fail to act in the way that the person did.
+>
+> (3) This section does not apply where the Regulator is of the opinion that the person, in being a party to the act or failure, was acting in accordance with the person's functions as an insolvency practitioner in relation to another person (see section 58A(9)).
+>
+> (4) For the purposes of this section a reference to a debt due under section 75 of the Pensions Act 1995 includes a contingent debt under that section.
+>
+> (5) Accordingly, in the case of such a contingent debt, the reference in subsection (2) to preventing a debt becoming due is to be read as including a reference to preventing the occurrence of any of the events specified in section 75(4C)(a) or (b) of the Pensions Act 1995 upon which the debt is contingent.
+>
+> (6) For the purposes of this section the parties to an act or deliberate failure to act include those persons who knowingly assist in the act or failure.
+>
+> (7) If the Regulator is of the opinion that—
+>
+> (a) a person was party to a series of acts or deliberate failures to act, and
+>
+> (b) the requirements of subsection (2) are met in relation to the series,
+>
+> the series of acts or failures to act is to be regarded as an act or failure to act in relation to which the requirements of subsection (2) are met.
+>
+> **58D Financial penalty for conduct risking accrued scheme benefits**
+>
+> (1) This section applies in relation to an occupational pension scheme other than—
+>
+> (a) a money purchase scheme, or
+>
+> (b) a prescribed scheme or a scheme of a prescribed description.
+>
+> (2) Section 88A (financial penalties) applies to a person who was party to an act or deliberate failure to act that detrimentally affected in a material way the likelihood of accrued scheme benefits being received (whether the benefits are to be received as benefits under the scheme or otherwise), if—
+>
+> (a) the person knew or ought to have known that the act or failure to act would have that effect, and
+>
+> (b) it was not reasonable for the person to act or fail to act in the way that the person did.
+>
+> (3) This section does not apply where the Regulator is of the opinion that the person, in being a party to the act or failure, was acting in accordance with the person's functions as an insolvency practitioner in relation to another person (see section 58A(9)).
+>
+> (4) In this section a reference to accrued scheme benefits being received is a reference to benefits the rights to which have accrued by the relevant time being received by, or in respect of, the persons who were members of the scheme before that time.
+>
+> (5) In this section “the relevant time” means—
+>
+> (a) in the case of an act, the time of the act;
+>
+> (b) in the case of a failure to act—
+>
+> (i) the time when the failure to act occurred, or
+>
+> (ii) where the failure continued for a period of time, the end of that period;
+>
+> and, in the case of acts or failures to act forming part of a series, any reference in this subsection to an act or failure to act is a reference to the last of the acts or failures in that series.
+>
+> (6) A reference in this section to rights which have accrued is to be read in accordance with section 67A(6) and (7) of the Pensions Act 1995 (reading any reference in those subsections to a subsisting right as a reference to a right which has accrued).
+>
+> (7) In determining for the purposes of this section whether an act or failure to act has detrimentally affected in a material way the likelihood of accrued scheme benefits being received, the following provisions of this Act are to be disregarded—
+>
+> (a) Chapter 3 of Part 2 (the Board of the Pension Protection Fund: pension protection), and
+>
+> (b) section 286 (the financial assistance scheme for members of certain pension schemes).
+>
+> (8) For the purposes of this section the parties to an act or deliberate failure to act include those persons who knowingly assist in the act or failure.
+>
+> (9) If the Regulator is of the opinion that—
+>
+> (a) a person was party to a series of acts or deliberate failures to act, and
+>
+> (b) the requirements of subsection (2) are met in relation to the series,
+>
+> the series of acts or failures to act is to be regarded as an act or failure to act in relation to which the requirements of subsection (2) are met.
+
+### Collecting information
+
+#### 108 Duty to notify the Regulator of certain events
+
+(1) The Pensions Act 2004 is amended as follows.
+
+(2) In section 69 (duty to notify the Regulator of certain events)—
+
+(a) in subsection (7), for “section 10 of the Pensions Act 1995 (c. 26) (civil penalties)” substitute “ section 88A (financial penalties) ”;
+
+(b) in subsection (8), for “That section” substitute “ Section 88A ”.
+
+(3) In section 80 (offences of providing false or misleading information to the Regulator), in subsection (1)(a), after sub-paragraph (ii) insert—
+
+> (iia) section 69 (duty to notify the Regulator of certain events),
+
+.
+
+#### 109 Duty to give notices and statements to the Regulator in respect of certain events
+
+(1) The Pensions Act 2004 is amended as follows.
+
+(2) After section 69 insert—
+
+> **69A Duty to give notices and statements to the Regulator in respect of certain events**
+>
+> (1) Except where the Regulator otherwise directs, the appropriate person must—
+>
+> (a) give notice to the Regulator of any notifiable event;
+>
+> (b) give notice to the Regulator of any material change in, or in the expected effects of, a notifiable event;
+>
+> (c) give notice to the Regulator if a notifiable event is not going to, or does not, take place.
+>
+> (2) In subsection (1) “notifiable event” means a prescribed event in respect of the employer in relation to an eligible scheme.
+>
+> (3) For the purposes of subsection (1) each of the following is “the appropriate person”—
+>
+> (a) the employer in relation to the scheme,
+>
+> (b) a person connected with the employer,
+>
+> (c) an associate of the employer, and
+>
+> (d) a person of a prescribed description.
+>
+> (4) Regulations may make provision about the meaning of a “material change” for the purposes of this section.
+>
+> (5) A notice under subsection (1) must be given to the Regulator—
+>
+> (a) in the case of a notice under subsection (1)(a), as soon as reasonably practicable after the person giving it becomes aware of the notifiable event, subject to subsection (6),
+>
+> (b) in the case of a notice under subsection (1)(b), as soon as reasonably practicable after the person giving it becomes aware of the material change, subject to subsection (6), or
+>
+> (c) in the case of a notice under subsection (1)(c), as soon as reasonably practicable after the person giving it becomes aware that the notifiable event is not going to take place or (as the case may be) did not take place.
+>
+> (6) Regulations may require a notice under subsection (1)(a) or (b) to be given before the beginning of the prescribed period ending with—
+>
+> (a) the notifiable event in question, or
+>
+> (b) the material change in question.
+>
+> (7) A notice under subsection (1)(a) or (b) must be accompanied by a statement (an “accompanying statement”).
+>
+> (8) An accompanying statement must contain prescribed information.
+>
+> (9) The information that may be prescribed under subsection (8) includes, in particular—
+>
+> (a) a description of the event,
+>
+> (b) a description of any adverse effects of the event on the eligible scheme,
+>
+> (c) a description of any steps taken to mitigate those adverse effects, and
+>
+> (d) a description of any communication with the trustees or managers of the eligible scheme about the event.
+>
+> (10) Where a person gives the Regulator a notice under subsection (1), the person must give a copy of the notice and any accompanying statement to the trustees or managers of the eligible scheme at the same time.
+>
+> (11) A notice or accompanying statement under this section must be in writing.
+>
+> (12) No duty to which a person is subject is to be regarded as contravened merely because of any information or opinion contained in a notice or accompanying statement under this section.
+>
+> This is subject to section 311 (protected items).
+>
+> (13) Section 88A (financial penalties) applies to a person who, without reasonable excuse, fails to comply with an obligation imposed on the person by this section.
+>
+> (14) For the purposes of this section—
+>
+> (a) section 249 of the Insolvency Act 1986 (connected persons) applies as it applies for the purposes of any provision of the first Group of Parts of that Act,
+>
+> (b) section 435 of the Insolvency Act 1986 (associated persons) applies as it applies for the purposes of that Act, and
+>
+> (c) section 229 of the Bankruptcy (Scotland) Act 2016 (associated persons) applies as it applies for the purposes of that Act.
+>
+> (15) In this section—
+>
+> - “eligible scheme” has the meaning given by section 126;
+> - “event” includes a failure to act.
+
+(3) In section 80 (offences of providing false or misleading information to the Regulator), after subsection (1)(a)(iia) (inserted by section 108) insert—
+
+> (iib) section 69A (duty to give notices and statements to the Regulator in respect of certain events),
+
+.
+
+### Gathering information
+
+#### 110 Interviews
+
+(1) The Pensions Act 2004 is amended as follows.
+
+(2) After section 72 insert—
+
+> **72A Interviews**
+>
+> (1) The Regulator may, by notice in writing, require any person to whom section 72(2) applies to attend before the Regulator, at a time and place specified in the notice, to answer questions and provide explanations on one or more matters specified in the notice that are relevant to the exercise of any of the Regulator's functions.
+>
+> (2) A notice under subsection (1) must contain such other information as may be prescribed.
+
+(3) In section 72 (provision of information), omit subsections (1A) and (1B).
+
+(4) In section 77 (penalties relating to sections 72 to 75)—
+
+(a) after subsection (1) insert—
+
+> (1A) A person who, without reasonable excuse, neglects or refuses—
+>
+> (a) to attend before the Regulator as required under section 72A(1), or
+>
+> (b) to answer a question or provide an explanation on a matter specified in the notice under section 72A(1), when so attending before the Regulator,
+>
+> is guilty of an offence.
+
+;
+
+(b) in subsection (3), after “subsection (1)” insert “ , (1A) ”;
+
+(c) in subsection (4), after “subsection (1)” insert “ , (1A) ”.
+
+#### 111 Inspection of premises
+
+(1) Section 73 of the Pensions Act 2004 (inspection of premises) is amended as follows.
+
+(2) In subsection (2)—
+
+(a) after paragraph (da) insert—
+
+> (db) the Pension Schemes Act 2017;
+>
+> (dc) Part 1 of the Pension Schemes Act 2021;
+
+;
+
+(b) in paragraph (e), for “(da)” substitute “ (dc) ”.
+
+(3) After subsection (2) insert—
+
+> (2A) An inspector may, for the purposes of investigating whether the Regulator has grounds in the case of an occupational pension scheme for issuing—
+>
+> (a) a contribution notice under section 38 (contribution notices where avoidance of employer debt),
+>
+> (b) a financial support direction under section 43 (financial support directions),
+>
+> (c) a contribution notice under section 47 (contribution notices where non-compliance with financial support direction),
+>
+> (d) a restoration order under section 52 (restoration orders where transactions at an undervalue),
+>
+> (e) a contribution notice under section 55 (contribution notice where failure to comply with restoration order), or
+>
+> (f) a notice, direction or order under any corresponding provision in force in Northern Ireland,
+>
+> at any reasonable time enter premises liable to inspection.
+
+(4) After subsection (5) insert—
+
+> (5A) An inspector may, for the purposes of investigating whether the relevant provisions are being, or have been, complied with in the case of a scheme, at any reasonable time enter premises liable to inspection.
+>
+> (5B) In subsection (5A), “the relevant provisions” means provisions contained in or made by virtue of—
+>
+> (a) such provisions of the pensions legislation as may be prescribed;
+>
+> (b) any provisions in force in Northern Ireland corresponding to the provisions so prescribed.
+
+(5) In subsection (6) (premises liable to inspection)—
+
+(a) in paragraph (b), omit the “or” at the end;
+
+(b) after paragraph (c) insert—
+
+> (d) documents relevant to the administration of the business of the employer in relation to the scheme are being kept there,
+>
+> (e) the administration of the business of the employer in relation to the scheme, or work connected with that administration, is being carried out there, or
+>
+> (f) in the case of an occupational pension scheme other than a money purchase scheme, a prescribed scheme or a scheme of a prescribed description, documents relevant to a change in the ownership of the employer or of a significant asset of the employer are being kept there.
+
+(6) After subsection (6) insert—
+
+> (6A) In the application of this section in relation to a provision mentioned in subsection (1), (2A), (3), (4) or (5A), references in this section to “employer” are to be read as having the meaning that it has for the purposes of the provision in question.
+>
+> (6B) In this section a reference to an employer in relation to an occupational pension scheme includes a reference to a person who has been the employer in relation to the scheme.
+
+(7) In subsection (7), for “this section,” substitute
+
+> this section—
+>
+> “the pensions legislation” means any enactment contained in or made by virtue of—
+>
+> (a) the Pension Schemes Act 1993,
+>
+> (b) Part 1 or section 33 or 45 of the Welfare Reform and Pensions Act 1999,
+>
+> (c) this Act,
+>
+> (d) Schedule 18 to the Pensions Act 2014, or
+>
+> (e) section 48 or 49 of the Pension Schemes Act 2015;
+
+.
+
+#### 112 Fixed penalty notices and escalating penalty notices
+
+After section 77 of the Pensions Act 2004 (penalties relating to sections 72 to 75) insert—
+
+> **77A Fixed penalty notices**
+>
+> (1) The Regulator may issue a fixed penalty notice to a person if it considers that the person—
+>
+> (a) has failed to comply with a notice under section 72 or 72A,
+>
+> (b) has failed to comply with a requirement under section 75, or
+>
+> (c) has prevented or hindered an inspector exercising any power under section 73, 74 or 75.
+>
+> (2) A fixed penalty notice is a notice requiring the person to whom it is issued to pay a penalty within the period specified in the notice.
+>
+> (3) The penalty—
+>
+> (a) is to be determined in accordance with regulations, and
+>
+> (b) must not exceed £50,000.
+>
+> (4) A fixed penalty notice must—
+>
+> (a) state the amount of the penalty;
+>
+> (b) state the date by which the penalty must be paid, which must be at least 28 days after the date on which the notice is issued;
+>
+> (c) state the period to which the penalty relates;
+>
+> (d) specify the failure or conduct to which the penalty relates;
+>
+> (e) state that the Regulator may issue an escalating penalty notice under section 77B if the person fails to comply with a notice under section 72 or 72A;
+>
+> (f) notify the person to whom the notice is issued of the review process under section 43 of the Pensions Act 2008 and the right of referral to a tribunal under section 44 of that Act (as applied by subsection (5)).
+>
+> (5) The following sections of the Pensions Act 2008 apply to a penalty notice under this section as they apply to a penalty notice under section 40 of that Act—
+>
+> (a) section 42 (penalty notices: recovery);
+>
+> (b) section 43 (review of penalty notices);
+>
+> (c) section 44 (references to First-tier Tribunal or Upper Tribunal).
+>
+> (6) This section does not apply in a case where section 40 of the Pensions Act 2008 or section 17 of the Pension Schemes Act 2017 applies.
+>
+> **77B Escalating penalty notices**
+>
+> (1) The Regulator may issue an escalating penalty notice to a person if it considers that the person has failed to comply with a notice under section 72 or 72A.
+>
+> (2) But the Regulator may not issue an escalating penalty notice to a person if—
+>
+> (a) the person has exercised the right of referral to a tribunal under section 44 of the Pensions Act 2008 (as applied by section 77A(5)) in respect of a fixed penalty notice issued under section 77A in relation to that notice under section 72 or 72A, and
+>
+> (b) the reference has not been determined.
+>
+> (3) An escalating penalty notice is a notice requiring a person to pay an escalating penalty if the person fails to comply with a notice under section 72 or 72A before a specified date.
+>
+> (4) An escalating penalty is a penalty which is calculated by reference to a daily rate.
+>
+> (5) The daily rate—
+>
+> (a) is to be determined in accordance with regulations, and
+>
+> (b) must not exceed £10,000.
+>
+> (6) An escalating penalty notice must—
+>
+> (a) specify the failure to which the penalty relates;
+>
+> (b) state that, if the person fails to comply with the notice under section 72 or 72A before a specified date, the person will be liable to pay an escalating penalty;
+>
+> (c) state the daily rate of the escalating penalty and the way in which the penalty is calculated;
+>
+> (d) state the date from which the escalating penalty will be payable, which must not be earlier than the date specified in the fixed penalty notice under section 77A(4)(b);
+>
+> (e) state that the escalating penalty will continue to be payable at the daily rate until the date on which the person complies with the notice under section 72 or 72A or such earlier date as the Regulator may determine;
+>
+> (f) notify the person to whom the notice is issued of the review process under section 43 of the Pensions Act 2008 and the right of referral to a tribunal under section 44 of that Act (as applied by subsection (7)).
+>
+> (7) The following sections of the Pensions Act 2008 apply to an escalating penalty notice under this section as they apply to an escalating penalty notice under section 41 of that Act—
+>
+> (a) section 42 (penalty notices: recovery);
+>
+> (b) section 43 (review of penalty notices);
+>
+> (c) section 44 (references to First-tier Tribunal or Upper Tribunal).
+>
+> (8) This section does not apply in a case where section 41 of the Pensions Act 2008 or section 18 of the Pension Schemes Act 2017 applies.
+
+### Provision of false or misleading information
+
+#### 113 Provision of false or misleading information to Regulator
+
+After section 80 of the Pensions Act 2004 (offences of providing false or misleading information) insert—
+
+> **80A Financial penalty for providing false or misleading information to Regulator**
+>
+> (1) Section 88A (financial penalties) applies to a person who has knowingly or recklessly provided the Regulator with information which is false or misleading in a material particular, if the information was provided to the Regulator in the circumstances mentioned in subsection (2)(a), (b) or (c).
+>
+> (2) The circumstances referred to in subsection (1) are—
+>
+> (a) that the information was provided in purported compliance with a requirement under—
+>
+> (i) section 62 (the register: duties of trustees or managers),
+>
+> (ii) section 64 (duty of trustees or managers to provide scheme return),
+>
+> (iii) section 69 (duty to notify the Regulator of certain events),
+>
+> (iv) section 69A (duty to give notices and statements to the Regulator in respect of certain events),
+>
+> (v) section 72 (provision of information),
+>
+> (vi) section 72A (interviews),
+>
+> (vii) section 75 (inspection of premises: powers of inspectors), or
+>
+> (viii) regulations under section 11 of the Pensions Act 2008 (information about employers' duties to be given to the Regulator);
+>
+> (b) that the information was provided in applying for registration of a pension scheme under section 2 of the Welfare Reform and Pensions Act 1999 (registration of stakeholder pension schemes);
+>
+> (c) that the information was provided otherwise than as mentioned in paragraph (a) or (b) but in circumstances in which the person providing the information intends, or could reasonably be expected to know, that it would be used by the Regulator for the purpose of exercising its functions under—
+>
+> (i) the Pensions Act 1995,
+>
+> (ii) this Act,
+>
+> (iii) the Pensions Act 2008,
+>
+> (iv) Schedule 18 to the Pensions Act 2014,
+>
+> (v) the Pension Schemes Act 2017, or
+>
+> (vi) Part 1 of the Pension Schemes Act 2021.
+
+#### 114 Provision of false or misleading information to trustees or managers
+
+After section 80A of the Pensions Act 2004 (inserted by section 113) insert—
+
+> **80B Financial penalty for providing false or misleading information to trustees or managers**
+>
+> (1) This section applies in relation to an occupational pension scheme other than—
+>
+> (a) a money purchase scheme, or
+>
+> (b) a prescribed scheme or a scheme of a prescribed description.
+>
+> (2) Section 88A (financial penalties) applies to a person who has knowingly or recklessly provided a trustee or manager of the scheme with information which is false or misleading in a material particular, if the information was provided to the trustee or manager of the scheme in the circumstances mentioned in subsection (3)(a) or (b).
+>
+> (3) The circumstances referred to in subsection (2) are—
+>
+> (a) that the information was provided in purported compliance with a requirement under—
+>
+> (i) regulations under section 7 of the Superannuation Act 1972 (superannuation of persons employed in local government service and other persons selected by the Secretary of State),
+>
+> (ii) regulations under section 113A of the Pension Schemes Act 1993 (power to require disclosure of information about transfers from one scheme to another),
+>
+> (iii) section 22(2B)(c) of the Pensions Act 1995 (insolvency practitioner or official receiver to give notice of certain events to trustees of scheme),
+>
+> (iv) section 26 of that Act (insolvency practitioner or official receiver to give information to trustees),
+>
+> (v) regulations under section 47(9) of that Act (power to impose duties on employers, auditors and actuaries to disclose information), or
+>
+> (vi) a direction under section 72B of that Act (directions by Regulator for facilitating winding up of scheme);
+>
+> (b) that the information was provided otherwise than as mentioned in paragraph (a) but in circumstances in which the person providing the information intends, or could reasonably be expected to know, that it would be used by the trustee or manager who receives it in that person's capacity as a trustee or manager of the scheme.
+
+### Financial penalties
+
+#### 115 Financial penalties
+
+After section 88 of the Pensions Act 2004 insert—
+
+> **Financial penalties**
+>
+> **88A Financial penalties**
+>
+> (1) Where the Regulator is satisfied that by reason of an act this section applies to a person, the Regulator may issue a notice to the person requiring the person to pay a penalty in respect of that act of an amount specified in the notice within a period specified in the notice.
+>
+> (2) The amount of the penalty is to be an amount, not exceeding £1 million, determined by the Regulator.
+>
+> (3) Regulations may amend subsection (2) by substituting a higher amount for the amount for the time being specified in subsection (2).
+>
+> (4) The date on which the period specified in the notice ends must be at least 28 days after the date on which the notice is issued.
+>
+> (5) The notice must specify the provision by virtue of which the penalty is imposed.
+>
+> (6) Where—
+>
+> (a) a penalty under this section may, apart from this subsection, be imposed on a body corporate, and
+>
+> (b) the act in question was done with the consent or connivance of a director, manager, secretary or other similar officer of the body or a person purporting to act in any such capacity,
+>
+> this section applies to that person.
+>
+> (7) Where the affairs of a body corporate are managed by its members, subsection (6) applies in relation to the acts of a member in connection with the member's functions of management as to a director of a body corporate.
+>
+> (8) Where—
+>
+> (a) a penalty under this section may, apart from this subsection, be imposed on a Scottish partnership, and
+>
+> (b) the act in question was done with the consent or connivance of a partner,
+>
+> this section applies to that person.
+>
+> (9) If the Regulator requires a person to pay a penalty under this section by virtue of subsection (6) or (8), it may not also require the body corporate or the Scottish partnership to pay a penalty under this section in respect of the same act.
+>
+> (10) The Regulator may not issue a notice under this section to a person in relation to an act if—
+>
+> (a) the person has been convicted of an offence in respect of the same act, or
+>
+> (b) criminal proceedings for the offence have been instituted against the person in respect of the act and the proceedings have not been concluded.
+>
+> (11) The Regulator may not issue a notice under this section to a person in respect of an act if the Regulator has required the person to pay a penalty under section 10 of the Pensions Act 1995 (civil penalties) in respect of the same act.
+>
+> (12) In this section “act” includes omission.
+>
+> **88B Financial penalties: time for recovery**
+>
+> (1) Subsection (3) applies where—
+>
+> (a) the Regulator is satisfied that section 88A applies to a person by virtue of section 58C or 58D (financial penalty for avoidance of employer debt etc),
+>
+> (b) the Regulator issues a notice under section 88A requiring the person to pay a penalty in respect of the act or failure to act in question, and
+>
+> (c) when the notice under section 88A is issued, the person is subject to one or more contribution notices issued under section 38 (contribution notices where avoidance of employer debt).
+>
+> (2) Subsection (3) does not apply if, when the notice under section 88A is issued, a qualifying insolvency event has occurred in relation to the employer in relation to the scheme by reference to which the penalty under section 88A is imposed.
+>
+> (3) The Regulator may not take any step to recover the penalty specified in the notice under section 88A (including accepting an amount offered in payment or part payment of the penalty) until after—
+>
+> (a) the relevant date relating to the contribution notice or (as the case may be) the latest of the relevant dates relating to the contribution notices, or
+>
+> (b) if sooner, the date on which a qualifying insolvency event occurs in relation to the employer in relation to the scheme by reference to which the penalty under section 88A is imposed.
+>
+> (4) In this section—
+>
+> - “qualifying insolvency event” has the meaning given by section 127(3);
+>
+> - “the relevant date” means, in relation to a contribution notice issued under section 38—
+>
+>   - (a) the date specified under section 40(2A) for the purposes of sections 42A(2) and 42B(2), disregarding any date that has effect instead of that date by virtue of section 41(10A) or (11B), or
+>   - (b) if sooner, the date on which the sum specified in the contribution notice is paid.
+>
+> **88C Financial penalties: recovery**
+>
+> (1) A penalty under section 88A is recoverable by the Regulator.
+>
+> (2) In England and Wales, such a penalty is, if the county court so orders, recoverable under section 85 of the County Courts Act 1984 or otherwise as if it were payable under an order of that court.
+>
+> (3) In Scotland, a notice to pay such a penalty is enforceable as if it were an extract registered decree arbitral bearing a warrant for execution issued by the sheriff court of any sheriffdom in Scotland.
+>
+> (4) The Regulator must pay into the Consolidated Fund a penalty recovered under this section.
+
+### Supplementary
+
+#### 116 Minor and consequential amendments
+
+Schedule 7 contains minor and consequential amendments.
+
+### Northern Ireland
+
+#### 117 The Pensions Regulator: Northern Ireland
+
+In Schedule 8—
+
+(a) Part 1 makes provision for Northern Ireland which corresponds to that made by sections 103 to 115;
+
+(b) Part 2 contains minor and consequential amendments.
+
+## PART 4 — Pensions dashboards
+
+### 118 Qualifying pensions dashboard service
+
+(1) The Pensions Act 2004 is amended as follows.
+
+(2) After section 238 insert—
+
+> **Pensions dashboards**
+>
+> **238A Qualifying pensions dashboard service**
+>
+> (1) A pensions dashboard service is an electronic communications service by means of which information about pensions may be requested by, and provided to, an individual or a person authorised by the individual.
+>
+> (2) “Qualifying pensions dashboard service” means a pensions dashboard service in relation to which prescribed requirements are satisfied.
+>
+> (3) Requirements prescribed under subsection (2) may, in particular, relate to—
+>
+> (a) what relevant and other information is to be provided, how it is to be provided and the circumstances in which it is to be provided;
+>
+> (b) how the pensions dashboard service is to be established, maintained and operated.
+>
+> (4) In subsection (3)(a) “relevant information” means—
+>
+> (a) information of a prescribed description about—
+>
+> (i) state pensions;
+>
+> (ii) basic or additional retirement pensions;
+>
+> (b) state pension information relating to the individual in question of such description as may be prescribed;
+>
+> (c) information of a prescribed description about occupational or personal pension schemes or a prescribed description of occupational or personal pension schemes;
+>
+> (d) information relating to the individual in question and particular occupational or personal pension schemes of such description as may be prescribed.
+>
+> (5) Requirements prescribed under subsection (2) may, in particular—
+>
+> (a) require the pensions dashboard service to comply with standards, specifications or technical requirements published from time to time by—
+>
+> (i) the Secretary of State,
+>
+> (ii) the Money and Pensions Service, or
+>
+> (iii) a person specified or of a description specified in the regulations;
+>
+> (b) require the provider of the pensions dashboard service to satisfy prescribed conditions;
+>
+> (c) require the provider of the pensions dashboard service to be a person approved from time to time by—
+>
+> (i) the Secretary of State,
+>
+> (ii) the Money and Pensions Service, or
+>
+> (iii) a person specified or of a description specified in the regulations;
+>
+> (d) require the provider of the pensions dashboard service to provide, or not to provide, information, facilities or services specified or of a description specified in connection with the pensions dashboard service.
+>
+> (6) Requirements prescribed under subsection (2) may include provision under which a determination may fall to be made by—
+>
+> (a) the Secretary of State,
+>
+> (b) the Money and Pensions Service, or
+>
+> (c) a person specified or of a description specified in the regulations.
+>
+> **238B Qualifying pension dashboard service: further provision**
+>
+> (1) Requirements prescribed under section 238A(2) may make provision about—
+>
+> (a) dealing with requests for information about pensions, including provision about the use of intermediaries;
+>
+> (b) the involvement of the provider of a pensions dashboard service in the arrangements for dealing with requests for information about pensions.
+>
+> (2) The provision made by virtue of subsection (1) may, in particular, require—
+>
+> (a) the use of electronic communications;
+>
+> (b) the use of facilities or services specified or of a description specified in the regulations;
+>
+> (c) the provision of assistance in connection with the establishment, maintenance or management of such facilities or services;
+>
+> (d) participation in, or compliance with, arrangements for establishing, maintaining or managing such facilities or services.
+>
+> (3) The facilities and services for which provision may be made by virtue of subsection (2)(b) may include facilities or services with functions relating to—
+>
+> (a) the transmission of information,
+>
+> (b) verifying the identity of a person,
+>
+> (c) identifying the occupational or personal pension scheme or schemes under which pensions are payable to or in respect of a particular individual,
+>
+> (d) authenticating information transmitted by means of electronic communications, or
+>
+> (e) ensuring the security of information transmitted by means of electronic communications.
+>
+> (4) Regulations under subsection (2)(b) may impose requirements as regards a facility or service, including requirements about—
+>
+> (a) compliance with standards, specifications or technical requirements published from time to time by—
+>
+> (i) the Secretary of State,
+>
+> (ii) the Money and Pensions Service, or
+>
+> (iii) a person specified or of a description specified in the regulations;
+>
+> (b) the provider of the facility or service being a person approved from time to time by—
+>
+> (i) the Secretary of State,
+>
+> (ii) the Money and Pensions Service, or
+>
+> (iii) a person specified or of a description specified in the regulations.
+>
+> (5) Regulations under subsection (2)(d) may, in particular, require the provider of the pensions dashboard service—
+>
+> (a) to cooperate with the Money and Pensions Service or a person specified or of a description specified in the regulations;
+>
+> (b) to coordinate activities with the Money and Pensions Service or a person specified or of a description specified in the regulations;
+>
+> (c) to enable the Money and Pensions Service or a person specified or of a description specified in the regulations to monitor or audit compliance by the provider.
+>
+> (6) Except as provided by subsection (7), regulations under section 238A(2) may provide for the processing of personal data in accordance with the regulations not to be in breach of—
+>
+> (a) any obligation of confidence owed by the person processing the personal data, or
+>
+> (b) any other restriction on the processing of personal data (however imposed).
+>
+> (7) Regulations under section 238A(2) are not to be read as authorising or requiring such processing of personal data as would contravene the data protection legislation (but in determining whether particular processing of data would do so, take into account the power conferred or duty imposed by the provision of regulations in question).
+>
+> **238C Sections 238A and 238B: interpretation**
+>
+> (1) This section applies for the purposes of sections 238A and 238B.
+>
+> (2) A reference to state pension information, in relation to an individual, is a reference to the information about that individual specified in—
+>
+> (a) section 42(7) of the Child Support, Pensions and Social Security Act 2000, or
+>
+> (b) section 38(7) of the Child Support, Pensions and Social Security Act (Northern Ireland) 2000.
+>
+> (3) A reference to the Money and Pensions Service includes a reference to a person with whom arrangements are made under section 5(1), (2) or (3) of the Financial Guidance and Claims Act 2018.
+>
+> (4) In sections 238A and 238B—
+>
+> - “additional retirement pension” means—
+>
+>   - (a) any additional pension or shared additional pension under—
+>   
+>     - (i) the Social Security Contributions and Benefits Act 1992, or
+>     - (ii) the Social Security Contributions and Benefits (Northern Ireland) Act 1992, or
+>   
+>   - (b) any graduated retirement benefit under—
+>   
+>     - (i) sections 36 and 37 of the National Insurance Act 1965, or
+>     - (ii) sections 35 and 36 of the National Insurance Act (Northern Ireland) 1966;
+>
+> - “basic retirement pension” means any basic pension under—
+>
+>   - (a) the Social Security Contributions and Benefits Act 1992, or
+>   - (b) the Social Security Contributions and Benefits (Northern Ireland) Act 1992;
+>
+> - “the data protection legislation” has the same meaning as in the Data Protection Act 2018 (see section 3 of that Act);
+>
+> - “electronic communications service” has the meaning given by section 32 of the Communications Act 2003;
+>
+> - “personal data” has the same meaning as in the Data Protection Act 2018 (see section 3 of that Act);
+>
+> - “state pension” means any state pension under—
+>
+>   - (a) Part 1 of the Pensions Act 2014, or
+>   - (b) Part 1 of the Pensions Act (Northern Ireland) 2015.
+
+(3) In section 316 (Parliamentary control of subordinate legislation), in subsection (2) (affirmative resolution procedure), after paragraph (k) insert—
+
+> (ka) regulations under section 238A (qualifying pensions dashboard service);
+
+.
+
+### 119 Information from occupational pension schemes
+
+(1) The Pensions Act 2004 is amended as follows.
+
+(2) After section 238C of the Pensions Act 2004 (inserted by section 118) insert—
+
+> **238D Information from occupational pension schemes**
+>
+> (1) Regulations may impose requirements on the trustees or managers of a relevant occupational pension scheme with respect to—
+>
+> (a) providing pensions information by means of—
+>
+> (i) a qualifying pensions dashboard service, or
+>
+> (ii) the pensions dashboard service provided by the Money and Pensions Service;
+>
+> (b) facilitating the provision of pensions information by means of—
+>
+> (i) a qualifying pensions dashboard service, or
+>
+> (ii) the pensions dashboard service provided by the Money and Pensions Service.
+>
+> (2) In this section “pensions information” means, in relation to a relevant occupational pension scheme, such information as may be prescribed, which may include in particular—
+>
+> (a) information relating to—
+>
+> (i) the constitution of the scheme,
+>
+> (ii) the administration and finances of the scheme,
+>
+> (iii) the rights and obligations that arise or may arise under the scheme,
+>
+> (iv) the pensions and other benefits an entitlement to which would be likely to accrue to a member, or be capable of being secured by a member, in respect of the rights that may arise under the scheme, and
+>
+> (v) other matters relevant to occupational pension schemes in general or to occupational pension schemes of a description to which the scheme belongs;
+>
+> (b) information as regards the position of an individual in relation to the scheme.
+>
+> (3) Regulations under subsection (1) may, in particular, impose requirements about—
+>
+> (a) the persons to whom pensions information must be provided;
+>
+> (b) the circumstances in which pensions information must be provided;
+>
+> (c) the steps to be taken before pensions information may be provided;
+>
+> (d) the manner and form in which pensions information must be provided;
+>
+> (e) the time within which pensions information must be provided;
+>
+> (f) the way in which pensions information must be held.
+>
+> (4) Regulations under subsection (1) may require the trustees or managers of a scheme to comply with standards, specifications or technical requirements published from time to time by—
+>
+> (a) the Secretary of State,
+>
+> (b) the Money and Pensions Service, or
+>
+> (c) a person specified or of a description specified in the regulations.
+>
+> (5) Regulations under subsection (1) may include provision under which a determination may fall to be made by—
+>
+> (a) the Secretary of State,
+>
+> (b) the Money and Pensions Service, or
+>
+> (c) a person specified or of a description specified in the regulations.
+>
+> (6) Regulations under subsection (1) may require the trustees or managers to provide prescribed information about their carrying out of requirements prescribed under this section to—
+>
+> (a) the Regulator,
+>
+> (b) the Money and Pensions Service, or
+>
+> (c) a person specified or of a description specified in the regulations.
+>
+> (7) In complying with requirements prescribed under this section, a trustee or manager of an occupational pension scheme must have regard to guidance issued from time to time by—
+>
+> (a) the Secretary of State, or
+>
+> (b) a person specified or of a description specified in the regulations.
+>
+> **238E Information from occupational pension schemes: further provision**
+>
+> (1) Regulations under section 238D(1) may make provision about—
+>
+> (a) how pensions information is to be provided, including provision about the use of intermediaries;
+>
+> (b) the involvement of the trustees or managers of a scheme in the arrangements for dealing with requests for information about pensions.
+>
+> (2) The provision made by virtue of subsection (1) may, in particular, require—
+>
+> (a) the use of electronic communications;
+>
+> (b) the use of facilities or services specified or of a description specified in the regulations;
+>
+> (c) the provision of assistance in connection with the establishment, maintenance or management of such facilities or services;
+>
+> (d) participation in, or compliance with, arrangements for establishing, maintaining or managing such facilities or services.
+>
+> (3) The facilities and services for which provision may be made by virtue of subsection (2)(b) may include facilities or services with functions relating to—
+>
+> (a) the transmission of information,
+>
+> (b) verifying the identity of a person,
+>
+> (c) identifying the occupational or personal pension scheme or schemes under which pensions are payable to or in respect of a particular individual,
+>
+> (d) authenticating information transmitted by means of electronic communications, or
+>
+> (e) ensuring the security of information transmitted by means of electronic communications.
+>
+> (4) Regulations under subsection (2)(b) may impose requirements as regards a facility or service, including requirements about—
+>
+> (a) compliance with standards, specifications or technical requirements published from time to time by—
+>
+> (i) the Secretary of State,
+>
+> (ii) the Money and Pensions Service, or
+>
+> (iii) a person specified or of a description specified in the regulations;
+>
+> (b) the provider of the facility or service being a person approved from time to time by—
+>
+> (i) the Secretary of State,
+>
+> (ii) the Money and Pensions Service, or
+>
+> (iii) a person specified or of a description specified in the regulations.
+>
+> (5) Regulations under subsection (2)(d) may, in particular, require the trustees or managers—
+>
+> (a) to cooperate with the Money and Pensions Service or other persons specified or of a description specified in the regulations;
+>
+> (b) to coordinate activities with the Money and Pensions Service or other persons specified or of a description specified in the regulations.
+>
+> (6) Except as provided by subsection (7), regulations under section 238D(1) may provide for the processing of personal data in accordance with the regulations not to be in breach of—
+>
+> (a) any obligation of confidence owed by the person processing the personal data, or
+>
+> (b) any other restriction on the processing of personal data (however imposed).
+>
+> (7) Regulations under section 238D(1) are not to be read as authorising or requiring such processing of personal data as would contravene the data protection legislation (but in determining whether particular processing of data would do so, take into account the power conferred or duty imposed by the provision of regulations in question).
+>
+> **238F Sections 238D and 238E: interpretation**
+>
+> (1) This section has effect for the purposes of sections 238D and 238E.
+>
+> (2) A reference to the Money and Pensions Service includes a reference to a person with whom arrangements are made under section 5(1), (2) or (3) of the Financial Guidance and Claims Act 2018.
+>
+> (3) In sections 238D and 238E—
+>
+> - “the data protection legislation” has the same meaning as in the Data Protection Act 2018 (see section 3 of that Act);
+>
+> - “pensions dashboard service” means—
+>
+>   - (a) a pensions dashboard service within the meaning of section 238A, or
+>   - (b) a pensions dashboard service within the meaning of Article 215A of the Pensions (Northern Ireland) Order 2005 (S.I. 2005/255 (N.I. 1));
+>
+> - “personal data” has the same meaning as in the Data Protection Act 2018 (see section 3 of that Act);
+>
+> - “qualifying pensions dashboard service” means a pensions dashboard service that satisfies—
+>
+>   - (a) such requirements as may be prescribed by regulations under section 238A, or
+>   - (b) such requirements as may be prescribed by regulations under Article 215A of the ;
+>
+> - “relevant occupational pension scheme” means an occupational pension scheme which is not a stakeholder pension scheme (as defined in section 1 of the Welfare Reform and Pensions Act 1999).
+>
+> **238G Compliance**
+>
+> (1) Regulations may make provision with a view to securing that the trustees or managers of a relevant occupational pension scheme comply with a provision of regulations under section 238D.
+>
+> (2) The regulations may, among other things—
+>
+> (a) provide for the Regulator to issue a notice (a “compliance notice”) to a person with a view to ensuring the person's compliance with a provision of regulations under section 238D;
+>
+> (b) provide for the Regulator to issue a notice (a “third party compliance notice”) to a person with a view to ensuring another person's compliance with a provision of the regulations;
+>
+> (c) provide for the Regulator to issue a notice (a “penalty notice”) imposing a penalty on a person where the Regulator is of the opinion that the person—
+>
+> (i) has failed to comply with a compliance notice or third party compliance notice, or
+>
+> (ii) has contravened a provision of regulations under section 238D;
+>
+> (d) provide for the making of a reference to the First-tier Tribunal or Upper Tribunal in respect of the issue of a penalty notice or the amount of a penalty;
+>
+> (e) confer other functions on the Regulator.
+>
+> (3) The regulations may make provision for determining the amount, or the maximum amount, of a penalty in respect of a failure or contravention.
+>
+> (4) But the amount of a penalty imposed under the regulations in respect of a failure or contravention must not exceed—
+>
+> (a) £5,000, in the case of an individual, and
+>
+> (b) £50,000, in any other case.
+>
+> (5) In this section “relevant occupational pension scheme” has the meaning given by section 238F.
+
+(3) In section 310 (admissibility of statements), in subsection (3)(b), after sub-paragraph (ai) (inserted by paragraph 11 of Schedule 7) insert—
+
+> (bi) section 238G (penalties for contravention of regulations under section 238D),
+
+.
+
+(4) In section 316 (Parliamentary control of subordinate legislation), in subsection (2) (affirmative resolution procedure), after paragraph (ka) (inserted by section 118) insert—
+
+> (kb) regulations under section 238D (information from occupational pension schemes);
+>
+> (kc) regulations under section 238G (compliance with regulations under section 238D);
+
+.
+
+(5) In Schedule 1 (the Pensions Regulator), in Part 4 (proceedings and delegation etc), in paragraph 21(2), after paragraph (e) insert—
+
+> (ea) the power to issue a compliance notice under regulations under section 238G;
+>
+> (eb) the power to issue a third party compliance notice under regulations under section 238G;
+>
+> (ec) the power to issue a penalty notice under regulations under section 238G;
+
+.
+
+### 120 Pensions dashboards: Northern Ireland
+
+Schedule 9 contains provision for Northern Ireland corresponding to the provision made for England and Wales and Scotland in sections 118 and 119.
+
+### 121 Information from personal and stakeholder pension schemes
+
+(1) The Financial Services and Markets Act 2000 is amended as follows.
+
+(2) After section 137FA insert—
+
+> **137FAA FCA general rules: pensions dashboards**
+>
+> (1) The FCA must make general rules imposing requirements on specified authorised persons with respect to—
+>
+> (a) providing pensions information by means of—
+>
+> (i) a qualifying pensions dashboard service;
+>
+> (ii) the pensions dashboard service provided by the Money and Pensions Service;
+>
+> (b) facilitating the provision of pensions information by means of—
+>
+> (i) a qualifying pensions dashboard service;
+>
+> (ii) the pensions dashboard service provided by the Money and Pensions Service.
+>
+> (2) In this section “pensions information” means, in relation to a personal or stakeholder pension scheme, information of a description specified in rules made by virtue of subsection (1), which may include in particular—
+>
+> (a) information relating to—
+>
+> (i) the constitution of the scheme,
+>
+> (ii) the administration and finances of the scheme,
+>
+> (iii) the rights and obligations that arise or may arise under the scheme,
+>
+> (iv) the pensions and other benefits an entitlement to which would be likely to accrue to a member, or be capable of being secured by a member, in respect of the rights that may arise under the scheme, and
+>
+> (v) other matters relevant to personal or stakeholder pension schemes in general or to personal or stakeholder pension schemes of a description to which the scheme belongs;
+>
+> (b) information as regards the position of an individual in relation to the scheme.
+>
+> (3) Rules made by virtue of subsection (1) may, in particular, impose requirements about—
+>
+> (a) the persons to whom pensions information must be provided;
+>
+> (b) the circumstances in which pensions information must be provided;
+>
+> (c) the steps to be taken before pensions information may be provided;
+>
+> (d) the manner and form in which pensions information must be provided;
+>
+> (e) the time within which pensions information must be provided;
+>
+> (f) the way in which pensions information must be held.
+>
+> (4) Rules made by virtue of subsection (1) may require specified authorised persons to comply with standards, specifications or technical requirements published from time to time by—
+>
+> (a) the Secretary of State,
+>
+> (b) the Money and Pensions Service, or
+>
+> (c) a person specified or of a description specified in the rules.
+>
+> (5) Rules made by virtue of subsection (1) may include provision under which a determination may fall to be made by—
+>
+> (a) the Secretary of State,
+>
+> (b) the Money and Pensions Service, or
+>
+> (c) a person specified or of a description specified in the rules.
+>
+> (6) Rules made by virtue of subsection (1) may require specified authorised persons to provide information specified in the rules about their carrying out of requirements specified in the rules to—
+>
+> (a) the FCA,
+>
+> (b) the Money and Pensions Service, or
+>
+> (c) a person specified or of a description specified in the rules.
+>
+> (7) Rules made by virtue of subsection (1) may require specified authorised persons to have regard, in complying with requirements specified in the rules, to guidance issued from time to time by a person specified or of a description specified in the rules.
+>
+> (8) In determining what provision to include in the rules, the FCA must have regard to any regulations that are for the time being in force under—
+>
+> (a) section 238D of the Pensions Act 2004, or
+>
+> (b) Article 215D of the Pensions (Northern Ireland) Order 2005 (S.I. 2005/255 (N.I. 1)).
+>
+> **137FAB Pensions dashboards: further provision**
+>
+> (1) General rules made by virtue of section 137FAA(1) may make provision about—
+>
+> (a) how pensions information is to be provided, including provision about the use of intermediaries;
+>
+> (b) the involvement of specified authorised persons in the arrangements for dealing with requests for information about pensions.
+>
+> (2) The provision made by virtue of subsection (1) may, in particular, require—
+>
+> (a) the use of electronic communications;
+>
+> (b) the use of facilities or services specified or of a description specified in the rules;
+>
+> (c) the provision of assistance in connection with the establishment, maintenance or management of such facilities or services;
+>
+> (d) participation in, or compliance with, arrangements for establishing, maintaining or managing such facilities or services.
+>
+> (3) The facilities and services for which provision may be made by virtue of subsection (2)(b) may include facilities or services with functions relating to—
+>
+> (a) the transmission of information,
+>
+> (b) verifying the identity of a person,
+>
+> (c) identifying the occupational or personal pension scheme or schemes (as defined in section 1 of the Pension Schemes Act 1993 or the Pension Schemes (Northern Ireland) Act 1993) under which pensions are payable to or in respect of a particular individual,
+>
+> (d) authenticating information transmitted by means of electronic communications, or
+>
+> (e) ensuring the security of information transmitted by means of electronic communications.
+>
+> (4) Rules made by virtue of subsection (2)(b) may impose requirements as regards a facility or service, including requirements about—
+>
+> (a) compliance with standards, specifications or technical requirements published from time to time by—
+>
+> (i) the Secretary of State,
+>
+> (ii) the Money and Pensions Service, or
+>
+> (iii) a person specified or of a description specified in the rules;
+>
+> (b) the provider of the facility or service being a person approved from time to time by—
+>
+> (i) the Secretary of State,
+>
+> (ii) the Money and Pensions Service, or
+>
+> (iii) a person specified or of a description specified in the rules.
+>
+> (5) Rules made by virtue of subsection (2)(d) may, in particular, require specified authorised persons—
+>
+> (a) to cooperate with the Money and Pensions Service or a person specified or of a description specified in the rules;
+>
+> (b) to coordinate activities with the Money and Pensions Service or a person specified or of a description specified in the rules.
+>
+> (6) Except as provided by subsection (7), general rules made by virtue of section 137FAA(1) may provide for the processing of personal data in accordance with the rules not to be in breach of—
+>
+> (a) any obligation of confidence owed by the person processing the personal data, or
+>
+> (b) any other restriction on the processing of personal data (however imposed).
+>
+> (7) General rules made by virtue of section 137FAA(1) are not to be read as authorising or requiring such processing of personal data as would contravene the data protection legislation (but in determining whether particular processing of data would do so, take into account the power conferred or duty imposed by the provision of the rules in question).
+>
+> **137FAC Sections 137FAA and 137FAB: supplementary**
+>
+> (1) Before the FCA publishes a draft of any general rules to be made by virtue of section 137FAA, it must consult—
+>
+> (a) the Secretary of State, and
+>
+> (b) the Treasury.
+>
+> (2) Section 137FAA is not to be treated as requiring the FCA to make general rules by virtue of section 137FAA that come into force before regulations made under section 238D of the Pensions Act 2004 come into force.
+>
+> (3) Section 137FAA is not to be treated as requiring the FCA to exercise the power to make general rules by virtue of section 137FAA in relation to every case to which the power extends.
+>
+> (4) A reference in sections 137FAA and 137FAB to the Money and Pensions Service includes a reference to a person with whom arrangements are made under section 5(1), (2) or (3) of the Financial Guidance and Claims Act 2018.
+>
+> (5) In sections 137FAA and 137FAB—
+>
+> - “the data protection legislation” has the same meaning as in the Data Protection Act 2018 (see section 3 of that Act);
+>
+> - “pensions dashboard service” means—
+>
+>   - (a) a pensions dashboard service within the meaning of section 238A of the Pensions Act 2004, or
+>   - (b) a pensions dashboard service within the meaning of Article 215A of the Pensions (Northern Ireland) Order 2005 (S.I. 2005/255 (N.I. 1));
+>
+> - “personal data” has the same meaning as in the Data Protection Act 2018 (see section 3 of that Act);
+>
+> - “personal pension scheme” means a personal pension scheme within the meaning of an order under section 22 (except in section 137FAB(3)(c));
+>
+> - “qualifying pensions dashboard service” means a pensions dashboard service that satisfies—
+>
+>   - (a) such requirements as may be prescribed by regulations under section 238A of the Pensions Act 2004, or
+>   - (b) such requirements as may be prescribed by regulations under Article 215A of the ;
+>
+> - “specified authorised person” means an authorised person of a description specified in general rules made by virtue of section 137FAA;
+>
+> - “stakeholder pension scheme” has the meaning given by—
+>
+>   - (a) section 1 of the Welfare Reform and Pensions Act 1999, in relation to England and Wales and Scotland;
+>   - (b) Article 3 of the Welfare Reform and Pensions (Northern Ireland) Order 1999 (S.I. 1999/3147 (N.I. 11)), in relation to Northern Ireland.
+
+(3) In section 138F (notification of rules), in subsection (2) (rules not to be notified to the Bank of England), after “section” insert “ 137FAA, ”.
+
+### 122 The Money and Pensions Service: the pensions guidance function
+
+In the Financial Guidance and Claims Act 2018, after section 4 (specific requirements as to the pensions guidance function) insert—
+
+> **4A Specific functions included in the pensions guidance function**
+>
+> (1) The single financial guidance body must provide a pensions dashboard service by means of which—
+>
+> (a) information that the trustees or managers of a relevant occupational pension scheme are required to provide by—
+>
+> (i) regulations under section 238D(1)(a)(ii) of the Pensions Act 2004, or
+>
+> (ii) regulations under Article 215D(1)(a)(ii) of the Pensions (Northern Ireland) Order 2005 (S.I. 2005/255 (N.I. 1)), and
+>
+> (b) information that specified authorised persons are required to provide by general rules under section 137FAA(1)(a)(ii) of the Financial Services and Markets Act 2000,
+>
+> may be requested by, and provided to, an individual or a person authorised by the individual.
+>
+> (2) The single financial guidance body may, by means of its pensions dashboard service, provide information about—
+>
+> (a) state pensions,
+>
+> (b) basic and additional retirement pensions, and
+>
+> (c) state pension information relating to an individual.
+>
+> (3) The single financial guidance body may carry out other functions relating to pensions dashboard services, including functions for which provision is made by—
+>
+> (a) regulations under section 238A of the Pensions Act 2004 or Article 215A of the Pensions (Northern Ireland) Order 2005 (qualifying pensions dashboard services),
+>
+> (b) regulations under section 238D of the Pensions Act 2004 or Article 215D of the Pensions (Northern Ireland) Order 2005 (information from occupational pension schemes), or
+>
+> (c) general rules under section 137FAA of the Financial Services and Markets Act 2000 (information from personal or stakeholder pension schemes).
+>
+> (4) The functions of the single financial guidance body referred to in subsections (1) to (3) are part of its pensions guidance function.
+>
+> (5) Subsections (1) to (4) are without prejudice to sections 3(4) and (8) and 4.
+>
+> (6) In this section—
+>
+> - “pensions dashboard service” means—
+>
+>   - (a) a pensions dashboard service within the meaning of section 238A of the Pensions Act 2004, or
+>   - (b) a pensions dashboard service within the meaning of Article 215A of the Pensions (Northern Ireland) Order 2005 (S.I. 2005/255 (N.I. 1));
+>
+> - “relevant occupational pension scheme” has the meaning given by—
+>
+>   - (a) section 238F of the Pensions Act 2004, in relation to England and Wales and Scotland, and
+>   - (b) Article 215F of the Pensions (Northern Ireland) Order 2005, in relation to Northern Ireland;
+>
+> - “specified authorised person” has the meaning given by section 137FAC of the Financial Services and Markets Act 2000;
+>
+> - “state pension”, “basic retirement pension”, “additional retirement pension” and “state pension information” have the meaning given by section 238C of the Pensions Act 2004.
+
+## PART 5 — Further provision relating to pension schemes
+
+### Scheme funding
+
+#### 123 Funding of defined benefit schemes
+
+Schedule 10 contains—
+
+(a) in Part 1, amendments of Part 3 of the Pensions Act 2004 (scheme funding), and
+
+(b) in Part 2, minor and consequential amendments relating to the amendments mentioned in paragraph (a).
+
+### Climate change risk
+
+#### 124 Climate change risk
+
+(1) The Pensions Act 1995 is amended as follows.
+
+(2) After section 41 insert—
+
+> **41A Climate change risk**
+>
+> (1) Regulations may impose requirements on the trustees or managers of an occupational pension scheme of a prescribed description with a view to securing that there is effective governance of the scheme with respect to the effects of climate change.
+>
+> (2) The effects of climate change in relation to which provision may be made under subsection (1) include, in particular—
+>
+> (a) risks arising from steps taken because of climate change (whether by governments or otherwise), and
+>
+> (b) opportunities relating to climate change.
+>
+> (3) The requirements which may be imposed by the regulations include, in particular, requirements about—
+>
+> (a) reviewing the exposure of the scheme to risks of a prescribed description;
+>
+> (b) assessing the assets of the scheme in a prescribed manner;
+>
+> (c) determining, reviewing and (if necessary) revising a strategy for managing the scheme's exposure to risks of a prescribed description;
+>
+> (d) determining, reviewing and (if necessary) revising targets relating to the scheme's exposure to risks of a prescribed description;
+>
+> (e) measuring performance against such targets;
+>
+> (f) preparing documents containing information of a prescribed description.
+>
+> (4) Regulations under subsection (3)(b) may, in particular, require—
+>
+> (a) that assets are assessed by reference to their exposure to risks of a prescribed description, and
+>
+> (b) that an assessment includes determining the contribution of the assets of the scheme to climate change.
+>
+> (5) The regulations may require the trustees or managers of the scheme to take into account—
+>
+> (a) different ways in which the climate might change, and
+>
+> (b) different steps that might be taken because of climate change.
+>
+> (6) Regulations under subsection (5) may require the trustees or managers of the scheme to adopt prescribed assumptions as to future events, including assumptions about—
+>
+> (a) the steps that might be taken for the purpose of achieving the Paris Agreement goal or other climate change goal, or
+>
+> (b) the achievement of the Paris Agreement goal or other climate change goal.
+>
+> (7) In complying with requirements imposed by the regulations, a trustee or manager must have regard to guidance prepared from time to time by the Secretary of State.
+>
+> (8) In this section “the Paris Agreement goal” means the goal of holding the increase in the average global temperature to well below 2°C above pre-industrial levels referred to in Article 2(1)(a) of the agreement done at Paris on 12 December 2015.
+>
+> **41B Climate change risk: publication of information**
+>
+> (1) Regulations may require the trustees or managers of an occupational pension scheme of a prescribed description to publish information of a prescribed description relating to the effects of climate change on the scheme (which may include information about matters to which regulations under section 41A may relate).
+>
+> (2) Regulations under subsection (1) may, among other things—
+>
+> (a) require the trustees or managers to publish a document of a prescribed description;
+>
+> (b) require information or a document to be made available free of charge;
+>
+> (c) require information or a document to be provided in a form that is or by means that are prescribed or of a prescribed description.
+>
+> (3) In complying with requirements imposed by the regulations, a trustee or manager must have regard to guidance prepared from time to time by the Secretary of State.
+>
+> **41C Sections 41A and 41B: compliance**
+>
+> (1) Regulations may make provision with a view to ensuring compliance with a provision of regulations under section 41A or 41B.
+>
+> (2) The regulations may in particular—
+>
+> (a) provide for the Authority to issue a notice (a “compliance notice”) to a person with a view to ensuring the person's compliance with a provision of regulations under section 41A or 41B;
+>
+> (b) provide for the Authority to issue a notice (a “third party compliance notice”) to a person with a view to ensuring another person's compliance with a provision of regulations under section 41A or 41B;
+>
+> (c) provide for the Authority to issue a notice (a “penalty notice”) imposing a penalty on a person where the Authority are of the opinion that the person—
+>
+> (i) has failed to comply with a compliance notice or third party compliance notice, or
+>
+> (ii) has contravened a provision of regulations under section 41A or 41B;
+>
+> (d) provide for the making of a reference to the First-tier Tribunal or Upper Tribunal in respect of the issue of a penalty notice or the amount of a penalty;
+>
+> (e) confer other functions on the Authority.
+>
+> (3) The regulations may make provision for determining the amount, or the maximum amount, of a penalty in respect of a failure or contravention.
+>
+> (4) But the amount of a penalty imposed under the regulations in respect of a failure or contravention must not exceed—
+>
+> (a) £5,000, in the case of an individual, and
+>
+> (b) £50,000, in any other case.
+
+(3) In section 116 (breach of regulations), in subsection (3)(b), after “10” insert “ or under provision contained in regulations made by virtue of section 41C ”.
+
+(4) In section 175 (Parliamentary control of orders and regulations)—
+
+(a) in subsection (1), after “(2)” insert “ , (2A) ”;
+
+(b) after subsection (2) insert—
+
+> (2A) A statutory instrument which contains the first regulations made by virtue of section 41A or 41C must not be made unless a draft of the instrument has been laid before and approved by a resolution of each House of Parliament.
+
+### Transfer rights
+
+#### 125 Exercise of right to cash equivalent
+
+(1) The Pension Schemes Act 1993 is amended as follows.
+
+(2) In section 95 (ways of taking right to cash equivalent), after subsection (6) insert—
+
+> (6ZA) The trustees or managers of the scheme may not use the cash equivalent in a way specified in subsection (2)(a), (b) or (d), (2A)(a), (b) or (d) or (3) unless prescribed conditions are satisfied.
+>
+> (6ZB) The conditions that may be prescribed by regulations under subsection (6ZA) include (but are not limited to) conditions about—
+>
+> (a) the member's employment or place of residence;
+>
+> (b) providing the trustees or managers with information or evidence about the member's employment or place of residence;
+>
+> (c) the member obtaining information or guidance about exercising the option conferred by subsection (1) from a prescribed person in a prescribed case;
+>
+> (d) providing the trustees or managers with evidence that—
+>
+> (i) the member has complied with a prescribed condition about obtaining such information or guidance from a prescribed person, or
+>
+> (ii) the member is not subject to such a prescribed condition.
+>
+> (6ZC) Regulations may make provision requiring the trustees or managers of a pension scheme to notify a member who makes an application under subsection (1) of conditions prescribed under subsection (6ZA).
+
+(3) In section 98 (loss of right to cash equivalent), in subsection (2), for “99(2A)” substitute “ 99(2ZA) or (2A) ”.
+
+(4) In section 99 (trustees' duties after exercise of option), after subsection (2) insert—
+
+> (2ZA) Subsection (2) does not apply if the trustees or managers have been unable to carry out what the member requires because a condition prescribed by regulations under section 95(6ZA) has not been satisfied.
+
+(5) In section 99, after subsection (2ZA) (inserted by subsection (4))—
+
+> (2ZB) Subsection (2) does not apply if—
+>
+> (a) the member was required by section 96(4) to give a transfer notice under section 101F(1) in addition to making an application, and
+>
+> (b) the trustees or managers have been unable to carry out what the member required in the transfer notice under section 101F(1) because a condition prescribed by regulations under section 101F(5A) has not been satisfied.
+
+(6) In section 101F (power to give transfer notice), after subsection (5) insert—
+
+> (5A) The trustees or managers of the scheme may not use the amount equal to the cash equivalent for an authorised purpose under subsection (2)(a) or (c) or (3) unless prescribed conditions are satisfied.
+>
+> (5B) The conditions that may be prescribed by regulations under subsection (5A) include (but are not limited to) conditions about—
+>
+> (a) the member's employment or place of residence;
+>
+> (b) providing the trustees or managers with information or evidence about the member's employment or place of residence;
+>
+> (c) the member obtaining information or guidance about exercising the right under subsection (1) from a prescribed person in a prescribed case;
+>
+> (d) providing the trustees or managers with evidence that—
+>
+> (i) the member has complied with a prescribed condition about obtaining such information or guidance from a prescribed person, or
+>
+> (ii) the member is not subject to such a prescribed condition.
+>
+> (5C) Regulations may make provision requiring the trustees or managers of a qualifying scheme to notify an eligible member who gives a transfer notice of conditions prescribed under subsection (5A).
+
+(7) In section 101J (time for compliance with transfer notice), after subsection (2A) insert—
+
+> (2AA) Subsection (1) does not apply if the trustees or managers have been unable to carry out what the member requires because a condition prescribed by regulations under section 101F(5A) has not been satisfied.
+
+(8) In section 101J, after subsection (2AA) (inserted by subsection (7))—
+
+> (2AB) Subsection (1) does not apply if—
+>
+> (a) the member was required by section 101G(4) to make an application under section 95(1) in addition to giving a transfer notice, and
+>
+> (b) the trustees or managers have been unable to carry out what the member required in the application under section 95(1) because a condition prescribed by regulations under section 95(6ZA) has not been satisfied.
+
+### The Pension Protection Fund
+
+#### 126 Modification of provisions relating to pensionable service
+
+(1) The amendments of the Pension Protection Fund (Compensation) Regulations 2005 (S.I. 2005/670) made by regulation 2(2) and (3) of the Pension Protection Fund (Pensionable Service) and Occupational Pension Schemes (Investment and Disclosure) (Amendment and Modification) Regulations 2018 (S.I. 2018/988) (“the 2018 Regulations”) are to be deemed always to have had effect.
+
+(2) The amendment of the Pension Protection Fund (Multi-employer Schemes) (Modification) Regulations 2005 (S.I. 2005/441) made by regulation 3 of the 2018 Regulations is to be deemed always to have had effect.
+
+### Administration charges
+
+#### 127 Administration charges
+
+(1) In section 1 of the Welfare Reform and Pensions Act 1999 (meaning of “stakeholder pension scheme”), in subsection (5) (fourth condition: charge cap)—
+
+(a) for “result in” substitute “ constitute ”;
+
+(b) after “members” insert “ or the making of transfer payments with a view to acquiring rights or entitlements to pension benefits under different pension schemes ”.
+
+(2) In Schedule 18 to the Pensions Act 2014 (power to restrict charges or impose requirements in relation to schemes), in paragraph 1(5), in the definition of “administration charge”—
+
+(a) for “result in” substitute “ constitute ”;
+
+(b) after “members” insert “ or the making of transfer payments with a view to acquiring rights or entitlements to pension benefits under different pension schemes ”.
+
+(3) In section 113 of the Pension Schemes Act 1993 (disclosure of information about schemes to members etc)—
+
+(a) in subsection (6)(b), after “the” insert “ other ”;
+
+(b) in subsection (7), after “or” insert “ other ”.
+
+(4) In section 137FA of the Financial Services and Markets Act 2000 (FCA general rules: disclosure of information about pension scheme transaction costs etc)—
+
+(a) in subsection (3)(b), after “the” insert “ other ”;
+
+(b) in subsection (4), after “or” insert “ other ”;
+
+(c) in subsection (7), after “costs or” insert “ other ”.
+
+### Categories of pension schemes
+
+#### 128 Pension Schemes Act 2015: repeals
+
+In the Pension Schemes Act 2015, omit—
+
+(a) sections 1 to 7 (Part 1: categories of pension scheme);
+
+(b) sections 8 to 35 (Part 2: pension schemes providing collective benefits);
+
+(c) sections 36, 37, 38(2), (3) and (5) to (7) and 39 to 45 (general changes to legislation about pension schemes);
+
+(d) Schedule 1 (early leavers: revaluation of accrued benefits);
+
+(e) in Schedule 2 (other amendments to do with Parts 1 and 2)—
+
+(i) paragraphs 1 to 22;
+
+(ii) paragraphs 25 to 29;
+
+(iii) paragraphs 31 and 32;
+
+(iv) paragraphs 34 and 35;
+
+(v) paragraphs 37 to 51.
+
+### Northern Ireland
+
+#### 129 Further provision relating to pension schemes: Northern Ireland
+
+Schedule 11 contains—
+
+(a) in Part 1, provision for Northern Ireland corresponding to the provision made for England and Wales and Scotland in Schedule 10, and
+
+(b) in Part 2, provision for Northern Ireland corresponding to the provision made for England and Wales and Scotland in sections 124 to 128.
+
+## PART 6 — Final
+
+### 130 Extent
+
+(1) This Act extends to England and Wales and Scotland only, subject as follows.
+
+(2) Subject to subsection (4), the following provisions extend to Northern Ireland only—
+
+(a) Part 2;
+
+(b) section 117 and Schedule 8;
+
+(c) section 120 and Schedule 9;
+
+(d) section 129 and Schedule 11.
+
+(3) The following provisions extend to England and Wales, Scotland and Northern Ireland—
+
+(a) section 126(2);
+
+(b) this section and sections 131 and 132.
+
+(4) An amendment or repeal contained in this Act has the same extent as the enactment to which it relates.
+
+### 131 Commencement
+
+(1) This Act comes into force on such day as the Secretary of State may by regulations appoint, subject to subsections (2) and (3).
+
+(2) Subject to subsection (3), the following provisions come into force on such day as the Department for Communities in Northern Ireland may by order appoint—
+
+(a) Part 2;
+
+(b) section 117 and Schedule 8;
+
+(c) section 120 and Schedule 9;
+
+(d) section 129 and Schedule 11.
+
+(3) The following provisions come into force on the day on which this Act is passed—
+
+(a) any provision of Part 1, 2 or 4 so far as it confers power to make regulations or is otherwise necessary for enabling the exercise of such a power on or after the day on which this Act is passed;
+
+(b) any provision of Schedule 10 so far as it confers power to make regulations or is otherwise necessary for enabling the exercise of such a power on or after the day on which this Act is passed and section 123 so far as relating to that provision;
+
+(c) any provision of Part 1 of Schedule 11 so far as it confers power to make regulations or is otherwise necessary for enabling the exercise of such a power on or after the day on which this Act is passed and section 129 so far as relating to that provision;
+
+(d) section 130;
+
+(e) this section;
+
+(f) section 132.
+
+(4) Regulations or orders under this section may appoint different days for different purposes.
+
+(5) The Secretary of State may by regulations make transitional, transitory or saving provision in connection with the coming into force of a provision of this Act, other than a provision mentioned in subsection (2).
+
+(6) The Department for Communities in Northern Ireland may by order make transitional, transitory or saving provision in connection with the coming into force of a provision mentioned in subsection (2).
+
+(7) Regulations made by the Secretary of State under this section are to be made by statutory instrument.
+
+(8) The power of the Department for Communities in Northern Ireland to make an order under subsection (2) or (6) is exercisable by statutory rule for the purposes of the Statutory Rules (Northern Ireland) Order 1979 (S.I. 1979/1573 (N.I. 12)).
+
+### 132 Short title
+
+This Act may be cited as the Pension Schemes Act 2021.
+
+## SCHEDULE 1 — Money purchase benefits
+
+*Section 6*
+
+### Building Societies Act 1986 (c. 53)
+
+**1** (1) Schedule 10A to the Building Societies Act 1986 (disclosures about directors, other officers and employees in notes to accounts) is amended as follows.
+
+(2) In paragraph 1(2) (aggregate amount of director's remuneration), at the appropriate place insert—
+
+> “collective money purchase benefit” has the meaning given in section 1 of the Pension Schemes Act 2021;
+
+.
+
+(3) In that provision, in the definition of “money purchase benefits”—
+
+(a) for “means retirement benefits” substitute
+
+> means—
+>
+> (a) retirement benefits
+
+;
+
+(b) at the end insert
+
+> , and
+>
+> (b) collective money purchase benefits;
+
+.
+
+(4) In paragraph 1A(1) (money purchase benefits), for “the definition” substitute “ paragraph (a) of the definition ”.
+
+### Pension Schemes Act 1993 (c. 48)
+
+**2** The Pension Schemes Act 1993 is amended as follows.
+
+**3** (1) Section 181(1) (general interpretation) is amended as follows.
+
+(2) At the appropriate place insert—
+
+> “collective money purchase benefit” has the meaning given by section 1 of the Pension Schemes Act 2021;
+
+.
+
+(3) In the definition of “money purchase benefits”—
+
+(a) for “means benefits” substitute
+
+> means—
+>
+> (a) benefits
+
+;
+
+(b) at the end insert
+
+> , and
+>
+> (b) collective money purchase benefits;
+
+.
+
+**4** In section 181B(1) (money purchase benefits: supplementary), for “the definition” substitute “ paragraph (a) of the definition ”.
+
+### Pensions Act 2008 (c. 30)
+
+**5** The Pensions Act 2008 is amended as follows.
+
+**6** (1) Section 99 (interpretation of Part 1: pension scheme membership for jobholders) is amended as follows.
+
+(2) At the appropriate place insert—
+
+> “collective money purchase benefit” has the meaning given by section 1 of the Pension Schemes Act 2021;
+
+.
+
+(3) In the definition of “money purchase benefits”—
+
+(a) for “means benefits” substitute
+
+> means—
+>
+> (a) benefits
+
+;
+
+(b) at the end insert
+
+> , and
+>
+> (b) collective money purchase benefits;
+
+.
+
+**7** In section 99A(1) (money purchase benefits: supplementary), for “the definition” substitute “ paragraph (a) of the definition ”.
+
+## [[^F170]Schedule 1A — Unconnected Multiple Employer Schemes: Business Strategy
+
+*Section 14(3C)(a)(ii) and (b)*
+
+### Part 1 — Information which must be taken into account
+
+**1** The scheme’s latest accounts (if any).
+
+**2** The statement of investment principles (if any) prepared by the trustees of the scheme in accordance with section 35 of the Pensions Act 1995 (investment principles).
+
+**3** The latest accounts (if any) of the scheme proprietor provided to the Pensions Regulator under section 8 or section 26A.
+
+**4** The latest accounts of any undertaking, other than an unincorporated association, that partly or wholly funds the scheme proprietor, provided to the Pensions Regulator under section 8 or section 26A.
+
+### Part 2 — Matters which must be taken into account
+
+**5** The structure of the scheme and its target market, including any plans to acquire or merge with other schemes.
+
+**6** The robustness and prudence of any assumptions in the scheme’s business plan (see section 14A) about membership, contributions, income and costs.
+
+**7** The planned expenditure of the scheme, the purpose of the expenditure, and how it will be funded.
+
+**8** The terms, security and affordability of loans and other funding provided to the scheme, and the identity of each lender or other funding provider.
+
+**9** Information about the market in which the scheme operates or is to operate.
+
+**10** The experience and professional competence of the individuals involved in running the scheme.
+
+**11** Where a business plan has been revised as a result of a significant change to the information included in it (see section 14A(4)), the circumstances that led to the significant change.
+
+**12** Any provision made by the trustees and the scheme proprietor to fund contingent liabilities in respect of the scheme.
+
+### Part 3 — Information which may be taken into account
+
+**13** The scheme’s accounts, other than the latest accounts.
+
+**14** Any accounts of the scheme proprietor, and of any undertaking that partly or wholly funds the scheme proprietor, provided to the Pensions Regulator under section 8 or section 26A, other than the latest accounts.]
+
+## [[^F170]Schedule 1B — Unconnected Multiple Employer Schemes: Business Plan - Information and Requirements
+
+*Section 14A(2)*
+
+### Part 1 — Information which must be included in a business plan
+
+#### General
+
+**1** The date by reference to which the information in the business plan is stated (the “effective date” of the plan) (see paragraph 26).
+
+**2** The period to which the business plan relates, to be no less than three years and no more than five years starting with the effective date of the plan.
+
+**3** In each case where estimates are provided in connection with a business plan—
+
+(a) any assumptions used in reaching those estimates, and
+
+(b) the circumstances in which, and the extent to which, the scheme’s actual membership, contributions, income and costs may vary from the estimates of those matters.
+
+**4** The name of the person who prepared the business plan.
+
+**5** A statement, signed by the trustees and the scheme proprietor, confirming—
+
+(a) that the scheme proprietor considers the business plan to give a true and fair representation of the matters to which it relates, and
+
+(b) that the business plan has been approved by the trustees.
+
+#### Information about the scheme
+
+**6** The name by which the scheme is known.
+
+**7** The name under which the scheme is registered under Chapter 2 of Part 4 of the Finance Act 2004 (if the scheme is so registered).
+
+**8** Any trading or brand name under which the scheme is promoted or marketed (if different from the names referred to in paragraphs 6 and 7).
+
+**9** The date when the scheme was established.
+
+**10** The address of the scheme’s office most recently notified to HM Revenue and Customs in connection with the scheme’s registration under Chapter 2 of Part 4 of the Finance Act 2004 (if the scheme is so registered).
+
+**11** The name of—
+
+(a) each trustee of the scheme, and
+
+(b) the scheme proprietor.
+
+**12** The name and address of any scheme administrator (within the meaning given by section 270 of the Finance Act 2004).
+
+**13** The number of participating employers.
+
+**14** The number of members, broken down into active members, deferred members, pension credit members and pensioner members (within the meanings given in section 124(1) of the Pensions Act 1995).
+
+**15** In the three years ending with the effective date of the plan—
+
+(a) the number of members joining the scheme,
+
+(b) the number of members transferring from the scheme, and
+
+(c) the number of members leaving the scheme.
+
+**16** The number given to the scheme when it was placed on the register of occupational and personal pension schemes compiled and maintained by the Pensions Regulator under section 59(1) of the Pensions Act 2004 (if the scheme has been so placed).
+
+**17** The reference number issued to the scheme by HM Revenue and Customs when the scheme was registered under Chapter 2 of Part 4 of the Finance Act 2004 (if the scheme is so registered).
+
+**18** The scheme’s objectives and its strategy for meeting them, including delivery milestones.
+
+#### Information about the scheme proprietor
+
+**19** Details of the succession planning in place in the event that—
+
+(a) any single undertaking that provides significant funding to the scheme proprietor ceases to do so, or
+
+(b) two or more undertakings that provide funding to the scheme proprietor which collectively is significant cease to do so.
+
+**20** A description of the activities (if any) carried out by the scheme proprietor which do not relate directly to the scheme.
+
+**21** The identity of any regulator (other than the Pensions Regulator) that regulates activities carried out by the scheme proprietor.
+
+**22** In paragraph 21 “regulator” means—
+
+(a) a person who has responsibility for, or oversight of, an area of activity by virtue of any legislation, or
+
+(b) a person in a country or territory outside the United Kingdom which exercises functions of a public nature corresponding or similar to functions of a person referred to in sub-paragraph (a).
+
+**23** A declaration as to the overall competence of the scheme proprietor, with particular reference to the experience, knowledge and professional qualifications of the individuals performing the functions of the scheme proprietor in the exercise of a management or executive role, and plans to improve that competence by way of continuous professional development or otherwise.
+
+#### Information following a triggering event
+
+**24** Where a triggering event has reduced the value of the financial resources of the scheme (see section 14A(4)(b)), the plans and timetable for restoring the scheme’s financial resources to a level likely to satisfy the Pensions Regulator that the scheme is financially sustainable.
+
+### Part 2 — Requirements relating to a business plan
+
+**25** A business plan must be—
+
+(a) in writing, and
+
+(b) in the format set out in a Code.
+
+**26** The information in the business plan must be correct as at the later of—
+
+(a) a date chosen by the scheme proprietor, but not earlier than six months before the date when the trustees of the scheme apply to the Pensions Regulator for authorisation,
+
+(b) where a business plan has been revised as a result of a review under section 14A(3), the date the review was completed,
+
+(c) where a business plan has been revised as a result of a significant change to the information included in it, the date on which the significant change occurred, and
+
+(d) where a business plan has been revised as a result of a triggering event reducing the value of the financial resources of the scheme, the earlier of—
+
+(i) one month after the date the triggering event occurred, and
+
+(ii) such date as the Pensions Regulator may notify to the scheme proprietor for the purposes of this paragraph.
+
+**27** If a revised business plan is provided in accordance with section 14A(6)(b) or (c) the plan must—
+
+(a) indicate the parts of it which have been revised, and
+
+(b) include a new statement in accordance with paragraph 5.
+
+**28** Paragraph 29 applies if—
+
+(a) a triggering event has occurred in relation to the scheme (see section 31),
+
+(b) the trustees are pursuing continuity option 1 or 2 (see sections 36 and 37), and
+
+(c) the Pensions Regulator has approved an implementation strategy relating to the scheme (see sections 39 and 40).
+
+**29** Where this paragraph applies, the Pensions Regulator may give notice to the scheme proprietor and the trustees of the scheme specifying that a revised business plan provided during the triggering event period (see section 32)—
+
+(a) must state that the circumstances described in paragraph 28(a) to (c) exist, and
+
+(b) need not—
+
+(i) contain the information specified in Part 1 or set out in a Code as described in section 14A(2)(a), or
+
+(ii) comply with any requirements set out in a Code as described in section 14A(2)(b).]
+
+## [[^F170]Schedule 1C — Unconnected Multiple Employer Schemes: Promotion or Marketing Requirement
+
+*Section 14D(1) and (2)*
+
+### Part 1 — No promotion or marketing that is unclear or misleading without rectification
+
+#### Consistency
+
+**1** Whether information included in promotion or marketing of the scheme is consistent with the information included in—
+
+(a) the document prepared by the scheme actuary under regulation 33(3)(b) (soundness of scheme design) of the Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313) for the purposes of the viability report that is the most recent viability report at the time of the promotion or marketing;
+
+(b) the scheme’s investment strategy that is the most recent investment strategy at the time of the promotion or marketing;
+
+(c) the summary, if any, published most recently in relation to the scheme at the time of the promotion or marketing, in accordance with regulation 29B(2)(a) of, and paragraph 1A of Schedule 11 to, the Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013 (S.I. 2013/2734) (scheme design statement).
+
+#### Transparency
+
+**2** (1) Whether promotion or marketing of the scheme clearly and accurately explains, in accordance with any provision set out in a Code—
+
+(a) how the rate or amount of benefits provided to members under the scheme is determined, including supporting illustrations of what individual members might receive;
+
+(b) that performance of investments can fluctuate;
+
+(c) that the expected value of the rights to benefits is not guaranteed;
+
+(d) that the rate or amount of benefits provided to members under the scheme can fluctuate;
+
+(e) what would happen if the scheme becomes unable to continue to operate;
+
+(f) such other matters as may be set out in a Code.
+
+(2) Whether promotion or marketing of the scheme provides—
+
+(a) access to the summary, published most recently in relation to the scheme at the time of the promotion or marketing, in accordance with regulation 29B(2)(a) of, and paragraph 1A of Schedule 11 to, the Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013 (scheme design statement), or
+
+(b) where such a summary has not been published at the time of the promotion or marketing, information about where the summary will be published and the expected date of publication.
+
+### Part 2 — Promotion or marketing: systems and processes
+
+#### Quality assurance
+
+**3** Whether there are quality assurance checks to ensure that promotion or marketing of the scheme is clear and not misleading.
+
+#### Resource planning
+
+**4** Whether there are systems and processes for ensuring that there are sufficient individuals, with the relevant skills, knowledge, experience and capacity necessary to enable relevant functions to be carried out by or on behalf of the scheme—
+
+(a) in a manner that secures that promotion or marketing of the scheme is clear and not misleading, and
+
+(b) in accordance with the scheme’s systems and processes concerning promotion or marketing of the scheme.
+
+#### Feedback and complaints
+
+**5** Whether there are systems and processes—
+
+(a) for gathering feedback concerning promotion or marketing of the scheme;
+
+(b) for directing complaints concerning promotion or marketing of the scheme to the correct channels for resolution;
+
+(c) for evaluating feedback and complaints concerning promotion or marketing of the scheme and sharing such feedback and complaints with the scheme proprietor and the trustees of the scheme;
+
+(d) for taking into account feedback and complaints concerning promotion or marketing of the scheme in the design of promotion or marketing of the scheme;
+
+(e) for reporting to the scheme proprietor and the trustees as to how feedback and complaints have been taken into account in the design of promotion or marketing of the scheme.
+
+#### Functionality of IT systems
+
+**6** Whether the IT systems used for the purposes of record-keeping in respect of promotion or marketing of the scheme have the necessary capacity and capability to record and manage all documents relating to promotion or marketing of the scheme (including all documents relating to feedback and complaints) in an accessible form, and to retain those documents for at least six years.
+
+#### Risk management
+
+**7** Whether there are systems and processes for identifying, managing and monitoring risks in respect of promotion or marketing of the scheme.
+
+#### Governance
+
+**8** Whether there are systems and processes—
+
+(a) for the identification of roles and responsibilities in respect of the oversight of promotion or marketing of the scheme;
+
+(b) for the appointment of persons with sufficient skills, knowledge and experience to carry out those roles;
+
+(c) for setting clear objectives concerning promotion or marketing of the scheme and for monitoring whether those objectives are being met within the relevant timescales;
+
+(d) for documenting and reporting to the scheme proprietor and the trustees of the scheme matters relating to the oversight of promotion or marketing of the scheme;
+
+(e) for identifying and addressing any failures in the oversight of promotion or marketing of the scheme;
+
+(f) for ensuring that all persons carrying out relevant functions in relation to the scheme are aware of the requirement that promotion or marketing of the scheme is clear and not misleading.
+
+#### Interpretation of Part 2
+
+**9** In this Part “relevant functions” in relation to a scheme are—
+
+(a) the development, production, provision or review of materials relating to promotion or marketing of the scheme,
+
+(b) record-keeping in respect of promotion or marketing of the scheme,
+
+(c) quality assurance activities in respect of promotion or marketing of the scheme, and
+
+(d) any other functions, in respect of promotion or marketing of the scheme, set out in a Code.]
+
+## SCHEDULE 2 — Pause orders
+
+*Section 44*
+
+### Consequences of a pause order
+
+**1** (1) If a pause order is made in relation to a collective money purchase scheme, any action taken in contravention of the order is void, except to the extent that the action is validated by an order under paragraph 3.
+
+(2) If a pause order contains a direction under section 44(5)(b) that no further payments (or no further payments of a specified description) are to be made towards a scheme during the period for which the order has effect—
+
+(a) any payments that are the subject of the direction and would otherwise be due to be made towards the scheme during that period are to be treated as if they do not fall due, and
+
+(b) any obligation to make those payments (including any obligation under section 49(8) of the Pensions Act 1995 to pay amounts deducted corresponding to such payments) is to be treated as if it does not arise.
+
+(3) If a pause order contains a direction under section 44(5)(d) (no payment of benefits or benefits of a specified description under the scheme rules) and an amount of benefit under the scheme rules was not paid as a result of the direction—
+
+(a) the direction does not affect any entitlement to that benefit, and
+
+(b) any benefit to which a member, or a person in respect of a member, remains entitled at the end of the period for which the pause order had effect is an amount that falls due to the member or (as the case may be) the person at the end of that period.
+
+(4) If a pause order contains a direction under section 44(5)(e) (no transfers etc of members' rights) it does not prevent—
+
+(a) a pension sharing order or provision having effect, or
+
+(b) a pension earmarking order having effect in a case where—
+
+(i) the order requires a payment to be made if a payment in respect of any benefits under the scheme becomes due to a person, and
+
+(ii) a direction under section 44(5)(d) does not prevent the payment becoming due.
+
+(5) In sub-paragraph (4)—
+
+- “pension sharing order or provision” means an order or provision falling within section 28(1) of the Welfare Reform and Pensions Act 1999 (activation of pension sharing);
+
+- “pension earmarking order” means—
+
+  - (a) an order under section 23 of the Matrimonial Causes Act 1973 (financial provision orders in connection with divorce etc) so far as it includes provision made by virtue of section 25B or 25C of that Act (powers to include provision about pensions),
+  - (b) an order under Part 1 of Schedule 5 to the Civil Partnership Act 2004 (financial provision in connection with dissolution, nullity or separation) so far as it includes provision made by virtue of paragraphs 25 and 26 of Part 6 of that Schedule (powers to include provision about pensions),
+  - (c) an order under section 12A(2) or (3) of the Family Law (Scotland) Act 1985 (powers in relation to pension lump sums when making a capital sum order),
+  - (d) an order under Article 25 of the Matrimonial Causes (Northern Ireland) Order 1978 (S.I. 1978/1045 (N.I. 15)) so far as it includes provision made by virtue of Article 27B or 27C of that Order (Northern Ireland powers corresponding to those mentioned in paragraph (a)), or
+  - (e) an order under Part 1 of Schedule 15 to the Civil Partnership Act 2004 (financial provision in connection with dissolution, nullity or separation: Northern Ireland) so far as it includes provision made by virtue of paragraphs 20 and 21 of Part 5 of that Schedule (powers to include provision about pensions).
+
+(6) The Secretary of State may make regulations modifying any provision of—
+
+(a) Chapter 1 of Part 4ZA of the Pension Schemes Act 1993 (transfer rights: general), or
+
+(b) Chapter 2 of that Part (early leavers: cash transfer sums and contribution refunds),
+
+in their application to a collective money purchase scheme in relation to which a pause order has effect containing a direction under section 44(5)(e) (no transfers etc of members' rights).
+
+(7) Regulations under sub-paragraph (6) override any provision of the collective money purchase scheme, to the extent that there is a conflict.
+
+(8) Disregarding sub-paragraph (1), if a pause order made in relation to a collective money purchase scheme is not complied with, section 10 of the Pensions Act 1995 (civil penalties) applies to any trustee of the scheme who has failed to take all reasonable steps to secure compliance.
+
+(9) Sub-paragraph (8) does not apply in the case of non-compliance with a direction under section 44(5)(c) (direction that certain deducted payments are to be repaid by employer).
+
+(10) In such a case, section 10 of the Pensions Act 1995 (civil penalties) applies to an employer who, without reasonable excuse, fails to repay an amount as required by the direction.
+
+(11) Regulations under sub-paragraph (6) are subject to negative resolution procedure.
+
+### Period of effect etc of pause order
+
+**2** (1) A pause order must specify the period for which it has effect, which must not exceed three months.
+
+(2) The Pensions Regulator may on one or more occasions by order extend the period for which the pause order has effect for a further three months.
+
+(3) A pause order that is in effect at the end of the triggering event period ceases to have effect at the end of that period.
+
+### Validation of action in contravention of pause order
+
+**3** (1) If a pause order is made in relation to a collective money purchase scheme, the Pensions Regulator may by order validate action taken in contravention of the order.
+
+(2) Any of the following persons may apply to the Regulator for an order under this paragraph validating particular action—
+
+(a) the trustees of the scheme;
+
+(b) any person directly affected by the action.
+
+### Notification of trustees, employers and members
+
+**4** (1) This paragraph applies where—
+
+(a) a pause order is made in relation to a collective money purchase scheme,
+
+(b) an order is made under paragraph 2(2) extending the period for which a pause order made in relation to a collective money purchase scheme has effect, or
+
+(c) an order is made under paragraph 3 validating action taken in contravention of a pause order made in relation to a collective money purchase scheme.
+
+(2) The Pensions Regulator must, as soon as reasonably practicable after the order has been made, notify the trustees of the scheme of the fact that the order has been made and of its effect.
+
+(3) The Pensions Regulator may by order direct the trustees of the scheme to notify the following persons of the fact that the order has been made and of its effect—
+
+(a) all of the members of the scheme or such members as are of a description specified in the order;
+
+(b) all employers by which the scheme is used, or such employers as are of a description specified in the order;
+
+(c) [[^F171]where the scheme is a single or connected employer scheme,] all relevant former employers who, but for the pause order, would be liable to make payments towards the scheme, or such of them as are of a description specified in the order.
+
+(4) The trustees must give the notification within the period and in the manner specified in the order under sub-paragraph (3).
+
+(5) If the trustees of a scheme fail to comply with a direction to them contained in an order under sub-paragraph (3), section 10 of the Pensions Act 1995 (civil penalties) applies to a trustee who has failed to take all reasonable steps to secure compliance.
+
+### Supplementary
+
+**5** (1) A pause order, or an order made under any of paragraphs 2, 3 and 4, may be made in relation to a collective money purchase scheme—
+
+(a) in spite of any enactment or rule of law, or any rule of the scheme, that would otherwise operate to prevent the order being made, and
+
+(b) without regard to any enactment, rule of law or rule of the scheme that would otherwise require, or might otherwise be taken to require, the implementation of any procedure or the obtaining of any consent, with a view to making the order.
+
+(2) Sub-paragraph (1) does not have effect to authorise the Pensions Regulator to make an order as mentioned in that sub-paragraph if its doing so would be unlawful as a result of section 6(1) of the Human Rights Act 1998 (unlawful for public authority to act in contravention of a Convention right).
+
+## SCHEDULE 3 — Collective money purchase benefits: minor and consequential amendments
+
+*Section 48*
+
+### Pension Schemes Act 1993 (c. 48)
+
+**1** The Pension Schemes Act 1993 is amended as follows.
+
+**2** (1) Section 84 (basis of revaluation of accrued benefits) is amended as follows.
+
+(2) In subsection (3), after “money purchase benefit” insert “ other than a collective money purchase benefit ”.
+
+(3) After subsection (3A) insert—
+
+> (3AA) If any such benefit as is mentioned in section 83(1)(a) is a collective money purchase benefit, the benefit shall be revalued using the cash balance method.
+
+**3** In section 101AI (right to cash transfer sum and contribution refund: further provisions), in subsection (8)—
+
+(a) in paragraph (a), at the end insert—
+
+> (xiii) regulations made under section 18(4) of or paragraph 1(6) of Schedule 2 to the Pension Schemes Act 2021;
+>
+> (xiv) sections 34, 39, 41, 42 and 45 of the Pension Schemes Act 2021;
+
+;
+
+(b) in paragraph (b), at the end insert—
+
+> (xi) sections 18(7)(b), 34(5), 39(6), 41(6), 42(2) and 45(5) of and paragraph 1(7) of Schedule 2 to the Pension Schemes Act 2021.
+
+**4** In section 186 (Parliamentary control of orders and regulations), in subsection (3) (statutory instruments subject to affirmative resolution procedure), after paragraph (f) insert
+
+> , or
+>
+> (g) regulations under section 99(2)(c), or
+>
+> (h) regulations under section 99A(2)(b),
+
+.
+
+**5** In Schedule 3 (methods of revaluing accrued pension benefits), in paragraph 3A (the cash balance method), for “cash balance benefit” substitute “ benefit ”.
+
+### Pensions Act 1995 (c. 26)
+
+**6** The Pensions Act 1995 is amended as follows.
+
+**7** In section 51 (annual increase in rate of pension), after subsection (1) insert—
+
+> (1A) Where a pension scheme is divided into sections, each section that is a collective money purchase scheme for the purposes of Part 1 of the Pension Schemes Act 2021 (see section 1(2)(b) of that Act) is to be treated for the purposes of this section as a separate occupational pension scheme which is a money purchase scheme.
+
+**8** In section 75 (deficiencies in the assets of certain occupational pension schemes), after subsection (1) insert—
+
+> (1A) Where a pension scheme is divided into sections, each section that is a collective money purchase scheme for the purposes of Part 1 of the Pension Schemes Act 2021 (see section 1(2)(b) of that Act) is to be treated for the purposes of this section as a separate occupational pension scheme which is a money purchase scheme.
+
+**9** In section 87 (schedules of payments to money purchase schemes), after subsection (1) insert—
+
+> (1A) Where a pension scheme is divided into sections, each section that is a collective money purchase scheme for the purposes of Part 1 of the Pension Schemes Act 2021 (see section 1(2)(b) of that Act) is to be treated for the purposes of this section and section 88 as an occupational pension scheme which is a money purchase scheme.
+
+**10** In section 89 (application of further provisions to money purchase schemes), at the end insert—
+
+> (3) Where a pension scheme is divided into sections, each section that is a collective money purchase scheme for the purposes of Part 1 of the Pension Schemes Act 2021 (see section 1(2)(b) of that Act) is to be treated for the purposes of this section as a separate money purchase scheme.
+
+### Pensions Act 2004 (c. 35)
+
+**11** The Pensions Act 2004 is amended as follows.
+
+**12** In section 13 (improvement notices), in subsection (7), after paragraph (h) insert—
+
+> (i) Part 1 of the Pension Schemes Act 2021.
+
+**13** (1) Section 90 (codes of practice) is amended as follows.
+
+(2) In subsection (2) (matters on which the Pensions Regulator must issue codes of practice), after paragraph (jb) insert—
+
+> (jc) the process for making an application under Part 1 of the Pension Schemes Act 2021 for authorisation of a collective money purchase scheme;
+>
+> (jd) the matters that the Pensions Regulator expects to take into account in deciding whether it is satisfied that a pension scheme meets the authorisation criteria under that Part (see section 9 of the Pension Schemes Act 2021);
+
+.
+
+(3) In subsection (6), in the definition of “the pensions legislation”—
+
+(a) omit the “or” at the end of paragraph (f);
+
+(b) after paragraph (g) insert
+
+> , or
+>
+> (h) Part 1 of the Pension Schemes Act 2021.
+
+**14** (1) Section 93(2) (regulatory functions of the Pensions Regulator) is amended as follows.
+
+(2) In paragraph (pa)—
+
+(a) after “strategy” insert “ for Master Trust scheme ”;
+
+(b) omit the “and” at the end.
+
+(3) After paragraph (pa) insert—
+
+> (pb) the power to give a direction under section 23(2) of the Pension Schemes Act 2021 (direction to obtain actuarial valuation or take other steps to remedy or mitigate failure in relation to a collective money purchase scheme),
+>
+> (pc) the power to give a notice under section 29(1) or (4) of that Act (risk notices),
+>
+> (pd) the power to give a direction under section 29(6) of that Act (direction to implement proposals in a resolution plan),
+>
+> (pe) the power to give a direction under section 39(4) of that Act (direction to submit implementation strategy), and
+
+.
+
+**15** In section 97(5) (special procedure: applicable cases), after paragraph (tf) insert—
+
+> (tg) the power under section 30 of the Pension Schemes Act 2021 to withdraw authorisation of a collective money purchase scheme;
+>
+> (th) the power to make a pause order under section 44 of that Act;
+>
+> (ti) the power to make an order under paragraph 2(2) of Schedule 2 to that Act extending the period for which a pause order has effect;
+>
+> (tj) the power to make an order under paragraph 3 of that Schedule validating action taken in contravention of a pause order;
+>
+> (tk) the power to make an order under paragraph 4(3) of that Schedule directing the notification of members or employers;
+
+.
+
+**16** In section 126 (schemes eligible for pension protection), after subsection (1) insert—
+
+> (1A) Where a scheme is divided into sections, each section that is a collective money purchase scheme for the purposes of Part 1 of the Pension Schemes Act 2021 (see section 1(2)(b) of that Act) is to be treated for the purposes of this Part as a separate money purchase scheme.
+
+**17** In section 249A (requirement for an effective system of governance), in subsection (3) (exceptions), after paragraph (e) insert—
+
+> (f) an authorised collective money purchase scheme within the meaning of Part 1 of the Pension Schemes Act 2021.
+
+**18** In section 254 (representative of non-European scheme to be treated as trustee), in subsection (3)—
+
+(a) omit the “or” at the end of paragraph (d);
+
+(b) after paragraph (e) insert
+
+> , or
+>
+> (f) Part 1 of the Pension Schemes Act 2021.
+
+**19** In section 291 (duty of trustees or managers to act consistently with law of host member State), in subsection (4)—
+
+(a) omit the “or” at the end of paragraph (d);
+
+(b) after paragraph (e) insert
+
+> , or
+>
+> (f) Part 1 of the Pension Schemes Act 2021.
+
+**20** In section 318 (general interpretation), in subsection (3)—
+
+(a) in paragraph (a), after sub-paragraph (xiii) insert—
+
+> (xiv) regulations under section 18(4) of or paragraph 1(6) of Schedule 2 to the Pension Schemes Act 2021;
+>
+> (xv) sections 34, 39, 41, 42 and 45 of the Pension Schemes Act 2021;
+
+;
+
+(b) in paragraph (b), after sub-paragraph (xi) insert—
+
+> (xii) sections 18(7)(b), 34(5), 39(6), 41(6), 42(2) and 45(5) of and paragraph 1(7) of Schedule 2 to the Pension Schemes Act 2021.
+
+**21** In Schedule 2 (the reserved regulatory functions), after Part 4A insert—
+
+> **PART 4B — Functions under Part 1 of the Pension Schemes Act 2021**
+>
+> **44H** The power to give a direction under section 23(2) (direction to obtain actuarial valuation or take other steps to remedy or mitigate failure in relation to a collective money purchase scheme).
+>
+> **44I** The power to give a direction under section 29(6) (direction to implement proposals in a resolution plan).
+>
+> **44J** The power under section 30 to withdraw authorisation of a collective money purchase scheme.
+>
+> **44K** The power to give a direction under section 41(4) (direction to pursue a continuity option).
+>
+> **44L** The power to make a pause order under section 44.
+>
+> **44M** The power to make an order under paragraph 2(2) of Schedule 2 extending the period for which a pause order has effect.
+>
+> **44N** The power to make an order under paragraph 3 of Schedule 2 validating action taken in contravention of a pause order.
+>
+> **44O** The power to make an order under paragraph 4(3) of Schedule 2 directing the notification of members or employers.
+
+### Pensions Act 2008 (c. 30)
+
+**22** In section 31 of the Pensions Act 2008 (effect of freezing order, assessment period or pause order: qualifying schemes), in subsection (3) (meaning of “freezing event” and “relevant provision”)—
+
+(a) in the definition of “freezing event”—
+
+(i) omit the “or” at the end of each of paragraphs (a) and (b);
+
+(ii) at the end of paragraph (c) insert
+
+> , or
+>
+> (d) the making of a pause order under section 44 of the Pension Schemes Act 2021;
+
+;
+
+(b) in the definition of “relevant provision”, in paragraph (c), after “2017” insert “ or (as the case may be) section 44 of the Pension Schemes Act 2021 ”.
+
+### Pensions Act 2014 (c. 19)
+
+**23** The Pensions Act 2014 is amended as follows.
+
+**24** In section 54(2) (regulations subject to affirmative procedure), omit the “or” after paragraph (e) and at the end of paragraph (f) insert
+
+> , or
+>
+> (g) the first regulations under paragraph 1 or 3 of that Schedule that make provision in relation to collective money purchase schemes within the meaning of Part 1 of the Pension Schemes Act 2021 (see section 1 of that Act).
+
+**25** (1) Schedule 18 (power to restrict charges or impose requirements in relation to schemes) is amended as follows.
+
+(2) In paragraph 1(1) (power to restrict charges), in each of paragraphs (a) and (b), for “a member” substitute “ members ”.
+
+(3) In paragraph 4 (interpretation), after sub-paragraph (2) insert—
+
+> (3) Where a pension scheme is divided into sections, each section that is a collective money purchase scheme for the purposes of Part 1 of the Pension Schemes Act 2021 (see section 1(2)(b) of that Act) is to be treated for the purposes of this Schedule as a separate scheme.
+
+## SCHEDULE 4 — Money purchase benefits: Northern Ireland
+
+*Section 57*
+
+### Building Societies Act 1986 (c. 53)
+
+**1** In Schedule 10A to the Building Societies Act 1986 (disclosures about directors, other officers and employees in notes to accounts), in paragraph 1(2), in the definition of “collective money purchase benefit” (inserted by Schedule 1 to this Act), after “section 1” insert “ or 52 ”.
+
+### Pension Schemes (Northern Ireland) Act 1993 (c. 49)
+
+**2** The Pension Schemes (Northern Ireland) Act 1993 is amended as follows.
+
+**3** (1) Section 176(1) (general interpretation) is amended as follows.
+
+(2) At the appropriate place insert—
+
+> “collective money purchase benefit” has the meaning given by section 52 of the Pension Schemes Act 2021;
+
+.
+
+(3) In the definition of “money purchase benefits”—
+
+(a) for “means benefits” substitute
+
+> means—
+>
+> (a) benefits
+
+;
+
+(b) at the end insert
+
+> , and
+>
+> (b) collective money purchase benefits;
+
+.
+
+**4** In section 176B(1) (money purchase benefits: supplementary), for “the definition” substitute “ paragraph (a) of the definition ”.
+
+### Pensions (No. 2) Act (Northern Ireland) 2008 (c. 13 (N.I.))
+
+**5** The Pensions (No. 2) Act (Northern Ireland) 2008 is amended as follows.
+
+**6** (1) Section 78 (interpretation of Part 1: pension scheme membership for jobholders) is amended as follows.
+
+(2) At the appropriate place insert—
+
+> “collective money purchase benefit” has the meaning given by section 52 of the Pension Schemes Act 2021;
+
+.
+
+(3) In the definition of “money purchase benefits”—
+
+(a) for “means benefits” substitute
+
+> means—
+>
+> (a) benefits
+
+;
+
+(b) at the end insert
+
+> , and
+>
+> (b) collective money purchase benefits;
+
+.
+
+**7** In section 78A(1) (money purchase benefits: supplementary), for “the definition” substitute “ paragraph (a) of the definition ”.
+
+## [[^F172]SCHEDULE 4A — UNCONNECTED MULTIPLE EMPLOYER SCHEMES: BUSINESS STRATEGY
+
+*Section 65(3C)(a)(ii) and (b)*
+
+### PART 1 — Information which must be taken into account
+
+|  |  |
+|---|---|
+| 1 | The scheme’s latest accounts (if any). |
+| 2 | The statement of investment principles (if any) prepared by the trustees of the scheme in accordance with Article 35 of the Pensions (Northern Ireland) Order 1995 (investment principles). |
+| 3 | The latest accounts (if any) of the scheme proprietor provided to the Pensions Regulator under section 59 or section 77A. |
+| 4 | The latest accounts of any undertaking, other than an unincorporated association, that partly or wholly funds the scheme proprietor, provided to the Pensions Regulator under section 59 or section 77A. |
+
+### PART 2 — Matters which must be taken into account
+
+|  |  |
+|---|---|
+| 5 | The structure of the scheme and its target market, including any plans to acquire or merge with other schemes. |
+| 6 | The robustness and prudence of any assumptions in the scheme’s business plan (see section 65A) about membership, contributions, income and costs. |
+| 7 | The planned expenditure of the scheme, the purpose of the expenditure, and how it will be funded. |
+| 8 | The terms, security and affordability of loans and other funding provided to the scheme, and the identity of each lender or other funding provider. |
+| 9 | Information about the market in which the scheme operates or is to operate. |
+| 10 | The experience and professional competence of the individuals involved in running the scheme. |
+| 11 | Where a business plan has been revised as a result of a significant change to the information included in it (see section 65A(4)), the circumstances that led to the significant change. |
+| 12 | Any provision made by the trustees and the scheme proprietor to fund contingent liabilities in respect of the scheme. |
+
+### PART 3 — Information which may be taken into account
+
+|  |  |
+|---|---|
+| 13 | The scheme’s accounts, other than the latest accounts. |
+| 14 | Any accounts of the scheme proprietor, and of any undertaking that partly or wholly funds the scheme proprietor, provided to the Pensions Regulator under section 59 or section 77A, other than the latest accounts.] |
+
+## [[^F172]SCHEDULE 4B — UNCONNECTED MULTIPLE EMPLOYER SCHEMES: BUSINESS PLAN - INFORMATION AND REQUIREMENTS
+
+*Section 65A(2)*
+
+### PART 1 — Information which must be included in a business plan
+
+#### General
+
+|  |  |
+|---|---|
+| 1 | The date by reference to which the information in the business plan is stated (the “effective date” of the plan) (see paragraph 26). |
+| 2 | The period to which the business plan relates, to be no less than three years and no more than five years starting with the effective date of the plan. |
+| 3 | In each case where estimates are provided in connection with a business plan— - any assumptions used in reaching those estimates, and<br>- the circumstances in which, and the extent to which, the scheme’s actual membership, contributions, income and costs may vary from the estimates of those matters. |
+| 4 | The name of the person who prepared the business plan. |
+| 5 | A statement, signed by the trustees and the scheme proprietor, confirming— - that the scheme proprietor considers the business plan to give a true and fair representation of the matters to which it relates, and<br>- that the business plan has been approved by the trustees. |
+
+#### Information about the scheme
+
+|  |  |
+|---|---|
+| 6 | The name by which the scheme is known. |
+| 7 | The name under which the scheme is registered under Chapter 2 of Part 4 of the Finance Act 2004 (if the scheme is so registered). |
+| 8 | Any trading or brand name under which the scheme is promoted or marketed (if different from the names referred to in paragraphs 6 and 7). |
+| 9 | The date when the scheme was established. |
+| 10 | The address of the scheme’s office most recently notified to HM Revenue and Customs in connection with the scheme’s registration under Chapter 2 of Part 4 of the Finance Act 2004 (if the scheme is so registered). |
+| 11 | The name of— - each trustee of the scheme, and<br>- the scheme proprietor. |
+| 12 | The name and address of any scheme administrator (within the meaning given by section 270 of the Finance Act 2004). |
+| 13 | The number of participating employers. |
+| 14 | The number of members, broken down into active members, deferred members, pension credit members and pensioner members (within the meanings given in Article 121(1) of the Pensions (Northern Ireland) Order 1995). |
+| 15 | In the three years ending with the effective date of the plan— - the number of members joining the scheme,<br>- the number of members transferring from the scheme, and<br>- the number of members leaving the scheme. |
+| 16 | The number given to the scheme when it was placed on the register of occupational and personal pension schemes compiled and maintained by the Pensions Regulator under section 59(1) of the Pensions Act 2004 (if the scheme has been so placed). |
+| 17 | The reference number issued to the scheme by HM Revenue and Customs when the scheme was registered under Chapter 2 of Part 4 of the Finance Act 2004 (if the scheme is so registered). |
+| 18 | The scheme’s objectives and its strategy for meeting them, including delivery milestones. |
+
+#### Information about the scheme proprietor
+
+|  |  |
+|---|---|
+| 19 | Details of the succession planning in place in the event that— - any single undertaking that provides significant funding to the scheme proprietor ceases to do so, or<br>- two or more undertakings that provide funding to the scheme proprietor which collectively is significant cease to do so. |
+| 20 | A description of the activities (if any) carried out by the scheme proprietor which do not relate directly to the scheme. |
+| 21 | The identity of any regulator (other than the Pensions Regulator) that regulates activities carried out by the scheme proprietor. |
+| 22 | In paragraph 21 “regulator” means— - a person who has responsibility for, or oversight of, an area of activity by virtue of any legislation, or<br>- a person in a country or territory outside the United Kingdom which exercises functions of a public nature corresponding or similar to functions of a person referred to in sub-paragraph (a). |
+| 23 | A declaration as to the overall competence of the scheme proprietor, with particular reference to the experience, knowledge and professional qualifications of the individuals performing the functions of the scheme proprietor in the exercise of a management or executive role, and plans to improve that competence by way of continuous professional development or otherwise. |
+
+#### Information following a triggering event
+
+|  |  |
+|---|---|
+| 24 | Where a triggering event has reduced the value of the financial resources of the scheme (see section 65A(4)(b)), the plans and timetable for restoring the scheme’s financial resources to a level likely to satisfy the Pensions Regulator that the scheme is financially sustainable. |
+
+### PART 2 — Requirements relating to a business plan
+
+|  |  |
+|---|---|
+| 25 | A business plan must be— - in writing, and<br>- in the format set out in a Code. |
+| 26 | The information in the business plan must be correct as at the later of— - a date chosen by the scheme proprietor, but not earlier than six months before the date when the trustees of the scheme apply to the Pensions Regulator for authorisation,<br><br>- where a business plan has been revised as a result of a review under section 65A(3), the date the review was completed,<br><br>- where a business plan has been revised as a result of a significant change to the information included in it, the date on which the significant change occurred, and<br><br>- where a business plan has been revised as a result of a triggering event reducing the value of the financial resources of the scheme, the earlier of—<br><br> - one month after the date the triggering event occurred, and<br> - such date as the Pensions Regulator may notify to the scheme proprietor for the purposes of this paragraph. |
+| 27 | If a revised business plan is provided in accordance with section 65A(6)(b) or (c) the plan must— - indicate the parts of it which have been revised, and<br>- include a new statement in accordance with paragraph 5. |
+| 28 | Paragraph 29 applies if— - a triggering event has occurred in relation to the scheme (see section 82),<br>- the trustees are pursuing continuity option 1 or 2 (see sections 87 and 88), and<br>- the Pensions Regulator has approved an implementation strategy relating to the scheme (see sections 90 and 91). |
+| 29 | Where this paragraph applies, the Pensions Regulator may give notice to the scheme proprietor and the trustees of the scheme specifying that a revised business plan provided during the triggering event period (see section 83)— - must state that the circumstances described in paragraph 28(a) to (c) exist, and<br><br>- need not—<br><br> - contain the information specified in Part 1 or set out in a Code as described in section 65A(2)(a), or<br> - comply with any requirements set out in a Code as described in section 65A(2)(b).] |
+
+## [[^F172]SCHEDULE 4C — UNCONNECTED MULTIPLE EMPLOYER SCHEMES: PROMOTION OR MARKETING REQUIREMENT
+
+*Section 65D(1) and (2)*
+
+### PART 1 — No promotion or marketing that is unclear or misleading without rectification
+
+#### Consistency
+
+|  |  |
+|---|---|
+| 1 | Whether information included in promotion or marketing of the scheme is consistent with the information included in— - the document prepared by the scheme actuary under regulation 33(3)(b) (viability report) of the Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 for the purposes of the viability report that is the most recent viability report at the time of the promotion or marketing;<br>- the scheme’s investment strategy that is the most recent investment strategy at the time of the promotion or marketing;<br>- the summary, if any, published most recently in relation to the scheme at the time of the promotion or marketing, in accordance with regulation 29B(2)(a) of, and paragraph 1A of Schedule 9B to, the Occupational and Personal Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 2014 (scheme design statement). |
+
+#### Transparency
+
+|  |  |
+|---|---|
+| 2 | (1) Whether promotion or marketing of the scheme clearly and accurately explains, in accordance with any provision set out in a Code—<br>(a) how the rate or amount of benefits provided to members under the scheme is determined, including supporting illustrations of what individual members might receive;<br>(b) that performance of investments can fluctuate;<br>(c) that the expected value of the rights to benefits is not guaranteed;<br>(d) that the rate or amount of benefits provided to members under the scheme can fluctuate;<br>(e) what would happen if the scheme becomes unable to continue to operate;<br>(f) such other matters as may be set out in a Code. (2) Whether promotion or marketing of the scheme provides—<br>(a) access to the summary, published most recently in relation to the scheme at the time of the promotion or marketing, in accordance with regulation 29B(2)(a) of, and paragraph 1A of Schedule 9B to, the Occupational and Personal Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 2014 (scheme design statement), or<br>(b) where such a summary has not been published at the time of the promotion or marketing, information about where the summary will be published and the expected date of publication. |
+
+### PART 2 — Promotion or marketing: systems and processes
+
+#### Quality assurance
+
+|  |  |
+|---|---|
+| 3 | Whether there are quality assurance checks to ensure that promotion or marketing of the scheme is clear and not misleading. |
+
+#### Resource planning
+
+|  |  |
+|---|---|
+| 4 | Whether there are systems and processes for ensuring that there are sufficient individuals, with the relevant skills, knowledge, experience and capacity necessary to enable relevant functions to be carried out by or on behalf of the scheme— - in a manner that secures that promotion or marketing of the scheme is clear and not misleading, and<br>- in accordance with the scheme’s systems and processes concerning promotion or marketing of the scheme. |
+
+#### Feedback and complaints
+
+|  |  |
+|---|---|
+| 5 | Whether there are systems and processes— - for gathering feedback concerning promotion or marketing of the scheme;<br>- for directing complaints concerning promotion or marketing of the scheme to the correct channels for resolution;<br>- for evaluating feedback and complaints concerning promotion or marketing of the scheme and sharing such feedback and complaints with the scheme proprietor and the trustees of the scheme;<br>- for taking into account feedback and complaints concerning promotion or marketing of the scheme in the design of promotion or marketing of the scheme;<br>- for reporting to the scheme proprietor and the trustees as to how feedback and complaints have been taken into account in the design of promotion or marketing of the scheme. |
+
+#### Functionality of IT systems
+
+|  |  |
+|---|---|
+| 6 | Whether the IT systems used for the purposes of record-keeping in respect of promotion or marketing of the scheme have the necessary capacity and capability to record and manage all documents relating to promotion or marketing of the scheme (including all documents relating to feedback and complaints) in an accessible form, and to retain those documents for at least six years. |
+
+#### Risk management
+
+|  |  |
+|---|---|
+| 7 | Whether there are systems and processes for identifying, managing and monitoring risks in respect of promotion or marketing of the scheme. |
+
+#### Governance
+
+|  |  |
+|---|---|
+| 8 | Whether there are systems and processes— - for the identification of roles and responsibilities in respect of the oversight of promotion or marketing of the scheme;<br>- for the appointment of persons with sufficient skills, knowledge and experience to carry out those roles;<br>- for setting clear objectives concerning promotion or marketing of the scheme and for monitoring whether those objectives are being met within the relevant timescales;<br>- for documenting and reporting to the scheme proprietor and the trustees of the scheme matters relating to the oversight of promotion or marketing of the scheme;<br>- for identifying and addressing any failures in the oversight of promotion or marketing of the scheme;<br>- for ensuring that all persons carrying out relevant functions in relation to the scheme are aware of the requirement that promotion or marketing of the scheme is clear and not misleading. |
+
+#### Interpretation of Part 2
+
+|  |  |
+|---|---|
+| 9 | In this Part “relevant functions” in relation to a scheme are— - the development, production, provision or review of materials relating to promotion or marketing of the scheme,<br>- record-keeping in respect of promotion or marketing of the scheme,<br>- quality assurance activities in respect of promotion or marketing of the scheme, and<br>- any other functions, in respect of promotion or marketing of the scheme, set out in a Code.] |
+
+## SCHEDULE 5 — Pause orders: Northern Ireland
+
+*Section 95*
+
+### Consequences of a pause order
+
+**1** (1) If a pause order is made in relation to a collective money purchase scheme, any action taken in contravention of the order is void, except to the extent that the action is validated by an order under paragraph 3.
+
+(2) If a pause order contains a direction under section 95(5)(b) that no further payments (or no further payments of a specified description) are to be made towards a scheme during the period for which the order has effect—
+
+(a) any payments that are the subject of the direction and would otherwise be due to be made towards the scheme during that period are to be treated as if they do not fall due, and
+
+(b) any obligation to make those payments (including any obligation under Article 49(8) of the Pensions (Northern Ireland) Order 1995 (S.I. 1995/3213 (N.I. 22)) to pay amounts deducted corresponding to such payments) is to be treated as if it does not arise.
+
+(3) If a pause order contains a direction under section 95(5)(d) (no payment of benefits or benefits of a specified description under the scheme rules) and an amount of benefit under the scheme rules was not paid as a result of the direction—
+
+(a) the direction does not affect any entitlement to that benefit, and
+
+(b) any benefit to which a member, or a person in respect of a member, remains entitled at the end of the period for which the pause order had effect is an amount that falls due to the member or (as the case may be) the person at the end of that period.
+
+(4) If a pause order contains a direction under section 95(5)(e) (no transfers etc of members' rights) it does not prevent—
+
+(a) a pension sharing order or provision having effect, or
+
+(b) a pension earmarking order having effect in a case where—
+
+(i) the order requires a payment to be made if a payment in respect of any benefits under the scheme becomes due to a person, and
+
+(ii) a direction under section 95(5)(d) does not prevent the payment becoming due.
+
+(5) In sub-paragraph (4)—
+
+- “pension sharing order or provision” means an order or provision falling within Article 25(1) of the Welfare Reform and Pensions (Northern Ireland) Order 1999 (S.I. 1999/3147 (N.I. 11)) (activation of pension sharing);
+
+- “pension earmarking order” means—
+
+  - (a) an order under Article 25 of the Matrimonial Causes (Northern Ireland) Order 1978 (S.I. 1978/1045 (N.I. 15)) so far as it includes provision made by virtue of Article 27B or 27C of that Order (powers to include provision about pensions),
+  - (b) an order under Part 1 of Schedule 15 to the Civil Partnership Act 2004 (financial provision in connection with dissolution, nullity or separation: Northern Ireland) so far as it includes provision made by virtue of paragraphs 20 and 21 of Part 5 of that Schedule (powers to include provision about pensions),
+  - (c) an order under section 23 of the Matrimonial Causes Act 1973 (financial provision orders in connection with divorce etc) so far as it includes provision made by virtue of section 25B or 25C of that Act (powers to include provision about pensions),
+  - (d) an order under Part 1 of Schedule 5 to the Civil Partnership Act 2004 (financial provision in connection with dissolution, nullity or separation) so far as it includes provision made by virtue of paragraphs 25 and 26 of Part 6 of that Schedule (powers to include provision about pensions), or
+  - (e) an order under section 12A(2) or (3) of the Family Law (Scotland) Act 1985 (powers in relation to pension lump sums when making a capital sum order).
+
+(6) The Department may make regulations modifying any provision of—
+
+(a) Chapter 1 of Part 4ZA of the Pension Schemes (Northern Ireland) Act 1993 (transfer rights: general), or
+
+(b) Chapter 2 of that Part (early leavers: cash transfer sums and contribution refunds),
+
+in their application to a collective money purchase scheme in relation to which a pause order has effect containing a direction under section 95(5)(e) (no transfers etc of members' rights).
+
+(7) Regulations under sub-paragraph (6) override any provision of the collective money purchase scheme, to the extent that there is a conflict.
+
+(8) Disregarding sub-paragraph (1), if a pause order made in relation to a collective money purchase scheme is not complied with, Article 10 of the Pensions (Northern Ireland) Order 1995 (S.I. 1995/3213 (N.I. 22)) (civil penalties) applies to any trustee of the scheme who has failed to take all reasonable steps to secure compliance.
+
+(9) Sub-paragraph (8) does not apply in the case of non-compliance with a direction under section 95(5)(c) (direction that certain deducted payments are to be repaid by employer).
+
+(10) In such a case, Article 10 of the Pensions (Northern Ireland) Order 1995 (civil penalties) applies to an employer who, without reasonable excuse, fails to repay an amount as required by the direction.
+
+(11) Regulations under sub-paragraph (6) are subject to negative resolution.
+
+### Period of effect etc of pause order
+
+**2** (1) A pause order must specify the period for which it has effect, which must not exceed three months.
+
+(2) The Pensions Regulator may on one or more occasions by order extend the period for which the pause order has effect for a further three months.
+
+(3) A pause order that is in effect at the end of the triggering event period ceases to have effect at the end of that period.
+
+### Validation of action in contravention of pause order
+
+**3** (1) If a pause order is made in relation to a collective money purchase scheme, the Pensions Regulator may by order validate action taken in contravention of the order.
+
+(2) Any of the following persons may apply to the Regulator for an order under this paragraph validating particular action—
+
+(a) the trustees of the scheme;
+
+(b) any person directly affected by the action.
+
+### Notification of trustees, employers and members
+
+**4** (1) This paragraph applies where—
+
+(a) a pause order is made in relation to a collective money purchase scheme,
+
+(b) an order is made under paragraph 2(2) extending the period for which a pause order made in relation to a collective money purchase scheme has effect, or
+
+(c) an order is made under paragraph 3 validating action taken in contravention of a pause order made in relation to a collective money purchase scheme.
+
+(2) The Pensions Regulator must, as soon as reasonably practicable after the order has been made, notify the trustees of the scheme of the fact that the order has been made and of its effect.
+
+(3) The Pensions Regulator may by order direct the trustees of the scheme to notify the following persons of the fact that the order has been made and of its effect—
+
+(a) all of the members of the scheme or such members as are of a description specified in the order;
+
+(b) all employers by which the scheme is used, or such employers as are of a description specified in the order;
+
+(c) [[^F173]where the scheme is a single or connected employer scheme,] all relevant former employers who, but for the pause order, would be liable to make payments towards the scheme, or such of them as are of a description specified in the order.
+
+(4) The trustees must give the notification within the period and in the manner specified in the order under sub-paragraph (3).
+
+(5) If the trustees of a scheme fail to comply with a direction to them contained in an order under sub-paragraph (3), Article 10 of the Pensions (Northern Ireland) Order 1995 (S.I. 1995/3213 (N.I. 22)) (civil penalties) applies to a trustee who has failed to take all reasonable steps to secure compliance.
+
+### Supplementary
+
+**5** (1) A pause order, or an order made under any of paragraphs 2, 3 and 4, may be made in relation to a collective money purchase scheme—
+
+(a) in spite of any statutory provision or rule of law, or any rule of the scheme, that would otherwise operate to prevent the order being made, and
+
+(b) without regard to any statutory provision, rule of law or rule of the scheme that would otherwise require, or might otherwise be taken to require, the implementation of any procedure or the obtaining of any consent, with a view to making the order.
+
+(2) Sub-paragraph (1) does not have effect to authorise the Pensions Regulator to make an order as mentioned in that sub-paragraph if its doing so would be unlawful as a result of section 6(1) of the Human Rights Act 1998 (unlawful for public authority to act in contravention of a Convention right).
+
+## SCHEDULE 6 — Collective money purchase benefits: minor and consequential amendments for Northern Ireland
+
+*Section 99*
+
+### Pension Schemes (Northern Ireland) Act 1993 (c. 49)
+
+**1** The Pension Schemes (Northern Ireland) Act 1993 is amended as follows.
+
+**2** (1) Section 80 (basis of revaluation of accrued benefits) is amended as follows.
+
+(2) In subsection (3), after “money purchase benefit” insert “ other than a collective money purchase benefit ”.
+
+(3) After subsection (3A) insert—
+
+> (3AA) If any such benefit as is mentioned in section 79(1)(a) is a collective money purchase benefit, the benefit shall be revalued using the cash balance method.
+
+**3** In section 97AI (right to cash transfer sum and contribution refund: further provisions), in subsection (7)—
+
+(a) in paragraph (a), at the end insert—
+
+> (xii) regulations made under section 69(4) of or paragraph 1(6) of Schedule 5 to the Pension Schemes Act 2021;
+>
+> (xiii) sections 85, 90, 92, 93 and 96 of the Pension Schemes Act 2021;
+
+;
+
+(b) in paragraph (b), at the end insert—
+
+> (x) sections 69(7)(b), 85(5), 90(6), 92(6), 93(2) and 96(5) of and paragraph 1(7) of Schedule 5 to the Pension Schemes Act 2021.
+
+**4** In section 181 (Assembly, etc. control of regulations and orders), in subsection (2) (regulations and orders subject to confirmatory procedure), after “20B(5)” insert “ , 95(2)(c), 95A(2)(b) ”.
+
+**5** In Schedule 2 (methods of revaluing accrued pension benefits), in paragraph 3A (the cash balance method), for “cash balance benefit” substitute “ benefit ”.
+
+### Pensions (Northern Ireland) Order 1995 (S.I. 1995/3213 (N.I. 22))
+
+**6** The Pensions (Northern Ireland) Order 1995 is amended as follows.
+
+**7** In Article 51 (annual increase in rate of pension), after paragraph (1) insert—
+
+> (1A) Where a pension scheme is divided into sections, each section that is a collective money purchase scheme for the purposes of Part 2 of the Pension Schemes Act 2021 (see section 52(2)(b) of that Act) is to be treated for the purposes of this Article as a separate occupational pension scheme which is a money purchase scheme.
+
+**8** In Article 75 (deficiencies in the assets of certain occupational pension schemes), after paragraph (1) insert—
+
+> (1A) Where a pension scheme is divided into sections, each section that is a collective money purchase scheme for the purposes of Part 2 of the Pension Schemes Act 2021 (see section 52(2)(b) of that Act) is to be treated for the purposes of this Article as a separate occupational pension scheme which is a money purchase scheme.
+
+**9** In Article 85 (schedules of payments to money purchase schemes), after paragraph (1) insert—
+
+> (1A) Where a pension scheme is divided into sections, each section that is a collective money purchase scheme for the purposes of Part 2 of the Pension Schemes Act 2021 (see section 52(2)(b) of that Act) is to be treated for the purposes of this Article and Article 86 as an occupational pension scheme which is a money purchase scheme.
+
+**10** In Article 87 (application of further provisions to money purchase schemes), at the end insert—
+
+> (3) Where a pension scheme is divided into sections, each section that is a collective money purchase scheme for the purposes of Part 2 of the Pension Schemes Act 2021 (see section 52(2)(b) of that Act) is to be treated for the purposes of this Article as a separate money purchase scheme.
+
+### Pensions (Northern Ireland) Order 2005 (S.I. 2005/255 (N.I. 1))
+
+**11** The Pensions (Northern Ireland) Order 2005 is amended as follows.
+
+**12** In Article 2 (general interpretation), in paragraph (4)—
+
+(a) in sub-paragraph (a), after head (ix) insert—
+
+> (x) regulations made under section 69(4) of or paragraph 1(6) of Schedule 5 to the Pension Schemes Act 2021;
+>
+> (xi) sections 85, 90, 92, 93 and 96 of the Pension Schemes Act 2021;
+
+;
+
+(b) in sub-paragraph (b), after head (vii) insert—
+
+> (viii) sections 69(7)(b), 85(5), 90(6), 92(6), 93(2) and 96(5) of and paragraph 1(7) of Schedule 5 to the Pension Schemes Act 2021.
+
+**13** In Article 9 (improvement notices), in paragraph (7)—
+
+(a) omit the “or” at the end of sub-paragraph (f);
+
+(b) after sub-paragraph (g) insert
+
+> , or
+>
+> (h) Part 2 of the Pension Schemes Act 2021.
+
+**14** (1) Article 85 (codes of practice) is amended as follows.
+
+(2) In paragraph (2) (matters on which the Pensions Regulator must issue codes of practice), after sub-paragraph (j) insert—
+
+> (ja) the process for making an application under Part 2 of the Pension Schemes Act 2021 for authorisation of a collective money purchase scheme;
+>
+> (jb) the matters that the Regulator expects to take into account in deciding whether it is satisfied that a pension scheme meets the authorisation criteria under that Part (see section 60 of the Pension Schemes Act 2021);
+
+.
+
+(3) In paragraph (6), in the definition of “the pensions legislation”—
+
+(a) omit the “or” at the end of sub-paragraph (e);
+
+(b) after sub-paragraph (f) insert
+
+> , or
+>
+> (g) Part 2 of the Pension Schemes Act 2021.
+
+**15** In Article 88(2) (regulatory functions of the Pensions Regulator)—
+
+(a) omit the “and” at the end of sub-paragraph (p);
+
+(b) after sub-paragraph (p) insert—
+
+> (pa) the power to give a direction under section 74(2) of the Pension Schemes Act 2021 (direction to obtain actuarial valuation or take other steps to remedy or mitigate failure in relation to a collective money purchase scheme),
+>
+> (pb) the power to give a notice under section 80(1) or (4) of that Act (risk notices),
+>
+> (pc) the power to give a direction under section 80(6) of that Act (direction to implement proposals in a resolution plan),
+>
+> (pd) the power to give a direction under section 90(4) of that Act (direction to submit implementation strategy), and
+
+.
+
+**16** In Article 92(5) (special procedure: applicable cases), after sub-paragraph (ta) insert—
+
+> (tb) the power under section 81 of the Pension Schemes Act 2021 to withdraw authorisation of a collective money purchase scheme;
+>
+> (tc) the power to make a pause order under section 95 of that Act;
+>
+> (td) the power to make an order under paragraph 2(2) of Schedule 5 to that Act extending the period for which a pause order has effect;
+>
+> (te) the power to make an order under paragraph 3 of that Schedule validating action taken in contravention of a pause order;
+>
+> (tf) the power to make an order under paragraph 4(3) of that Schedule directing the notification of members or employers;
+
+.
+
+**17** In Article 110 (schemes eligible for pension protection), after paragraph (1) insert—
+
+> (1A) Where a scheme is divided into sections, each section that is a collective money purchase scheme for the purposes of Part 2 of the Pension Schemes Act 2021 (see section 52(2)(b) of that Act) is to be treated for the purposes of this Part as a separate money purchase scheme.
+
+**18** In Article 226A (requirement for an effective system of governance), in paragraph (3) (exceptions), after sub-paragraph (d) insert—
+
+> (e) an authorised collective money purchase scheme within the meaning of Part 2 of the Pension Schemes Act 2021.
+
+**19** In Article 231 (representative of non-European scheme to be treated as trustee), in paragraph (3)—
+
+(a) omit the “or” at the end of sub-paragraph (d);
+
+(b) after sub-paragraph (e) insert
+
+> , or
+>
+> (f) Part 2 of the Pension Schemes Act 2021.
+
+**20** In Article 267 (duty of trustees or managers to act consistently with law of host EEA State), in paragraph (4)—
+
+(a) omit the “or” at the end of sub-paragraph (d);
+
+(b) after sub-paragraph (e) insert
+
+> , or
+>
+> (f) Part 2 of the Pension Schemes Act 2021.
+
+**21** In Schedule 2 (the reserved regulatory functions), after Part 4 insert—
+
+> **PART 4A — Functions under Part 2 of the Pension Schemes Act 2021**
+>
+> **44A** The power to give a direction under section 74(2) (direction to obtain actuarial valuation or take other steps to remedy or mitigate failure in relation to a collective money purchase scheme).
+>
+> **44B** The power to give a direction under section 80(6) (direction to implement proposals in a resolution plan).
+>
+> **44C** The power under section 81 to withdraw authorisation of a collective money purchase scheme.
+>
+> **44D** The power to give a direction under section 92(4) (direction to pursue a continuity option).
+>
+> **44E** The power to make a pause order under section 95.
+>
+> **44F** The power to make an order under paragraph 2(2) of Schedule 5 extending the period for which a pause order has effect.
+>
+> **44G** The power to make an order under paragraph 3 of Schedule 5 validating action taken in contravention of a pause order.
+>
+> **44H** The power to make an order under paragraph 4(3) of Schedule 5 directing the notification of members or employers.
+
+### Pensions (No. 2) Act (Northern Ireland) 2008 (c. 13 (N.I.))
+
+**22** (1) Section 31 of the Pensions (No. 2) Act (Northern Ireland) 2008 (effect of freezing order or assessment period: qualifying schemes) is amended as follows.
+
+(2) In the heading, for “or assessment period” substitute “ , assessment period or pause order ”.
+
+(3) In subsection (3) (meaning of “freezing event” and “relevant provision”)—
+
+(a) in the definition of “freezing event”—
+
+(i) omit the “or” at the end of paragraph (a);
+
+(ii) at the end of paragraph (b) insert
+
+> , or
+>
+> (c) the making of a pause order under section 95 of the Pension Schemes Act 2021;
+
+;
+
+(b) in the definition of “relevant provision”, after paragraph (b) insert—
+
+> (c) in relation to a pause order, provision contained in the order or the provision made with respect to the order by section 95 of the Pension Schemes Act 2021.
+
+### Pensions Act (Northern Ireland) 2015 (c. 5 (N.I.))
+
+**23** The Pensions Act (Northern Ireland) 2015 is amended as follows.
+
+**24** In section 51(4) (regulations subject to confirmatory procedure), omit the “or” after paragraph (e) and at the end of paragraph (f) insert
+
+> , or
+>
+> (g) the first regulations under paragraph 1 or 3 of that Schedule that make provision in relation to collective money purchase schemes within the meaning of Part 2 of the Pension Schemes Act 2021 (see section 52 of that Act).
+
+**25** (1) Schedule 18 (power to restrict charges or impose requirements in relation to schemes) is amended as follows.
+
+(2) In paragraph 1(1) (power to restrict charges), in each of paragraphs (a) and (b), for “a member” substitute “ members ”.
+
+(3) In paragraph 4 (interpretation), after sub-paragraph (2) insert—
+
+> (3) Where a pension scheme is divided into sections, each section that is a collective money purchase scheme for the purposes of Part 2 of the Pension Schemes Act 2021 (see section 52(2)(b) of that Act) is to be treated for the purposes of this Schedule as a separate scheme.
+
+## SCHEDULE 7 — The Pensions Regulator: minor and consequential amendments
+
+*Section 116*
+
+### Pensions Act 1995 (c. 26)
+
+**1** In section 10 of the Pensions Act 1995 (civil penalties), after subsection (9) insert—
+
+> (10) The Authority may not require a person to pay a penalty under this section in respect of an act or omission if the Authority have issued a notice to the person under section 88A of the Pensions Act 2004 (financial penalties) in respect of the same act or omission.
+
+### Pensions Act 2004 (c. 35)
+
+**2** The Pensions Act 2004 is amended as follows.
+
+**3** In section 38B (section 38 contribution notice issued by reference to material detriment test: defence), in subsection (12), for paragraph (b) substitute—
+
+> (b) a reference to a party to an act or failure to act includes a reference to a person who knowingly assists in the act or failure;
+
+.
+
+**4** In section 75 (inspection of premises: powers of inspectors), in subsection (1)—
+
+(a) after “subsection (1),” insert “ (2A), ”;
+
+(b) for “(3) or (4)” substitute “ (3), (4) or (5A) ”.
+
+**5** (1) Section 76 (inspection of premises: supplementary) is amended as follows.
+
+(2) In subsection (3)(a)—
+
+(a) after “virtue of”, in the second place it occurs, insert “ section 77A, 77B or 88A of this Act, ”;
+
+(b) for “either of them” substitute “ any of those provisions ”.
+
+(3) In subsection (9)—
+
+(a) after “(1),” insert “ (2A), ”;
+
+(b) for “(3) or (4)” substitute “ (3), (4) or (5A) ”.
+
+**6** In section 78 (warrants), in subsection (1)(c)(iii)—
+
+(a) after “virtue of”, in the first place it occurs, insert “ section 77A, 77B or 88A of this Act, ”;
+
+(b) for “either of them” substitute “ any of those provisions ”.
+
+**7** (1) Section 80 (offences of providing false or misleading information) is amended as follows.
+
+(2) In subsection (1)(a), after sub-paragraph (iii) insert—
+
+> (iiia) section 72A (interviews),
+
+.
+
+(3) In subsection (1)(c), for “under this Act or the Pensions Act 1995 (c. 26)” substitute
+
+> under—
+>
+> (i) the Pensions Act 1995,
+>
+> (ii) this Act,
+>
+> (iii) the Pensions Act 2008,
+>
+> (iv) Schedule 18 to the Pensions Act 2014,
+>
+> (v) the Pension Schemes Act 2017, or
+>
+> (vi) Part 1 of the Pension Schemes Act 2021
+
+.
+
+**8** In section 90 (codes of practice), in subsection (2)—
+
+(a) in paragraph (aa), after “test” insert “ , the employer insolvency test or the employer resources test ”;
+
+(b) after paragraph (b) insert—
+
+> (ba) the discharge of the duties imposed by section 69A (duty to give notices and statements to the Regulator in respect of certain events);
+
+.
+
+**9** (1) Section 96 (the Regulator's standard procedure in relation to its regulatory functions) is amended as follows.
+
+(2) In subsection (1A)(b), after “test” insert “ , the employer insolvency test or the employer resources test ”.
+
+(3) In subsection (1B)—
+
+(a) in paragraph (a), after “38B,” insert “ 38D or 38F (as the case may be) ”;
+
+(b) in paragraph (b), for “subsection (2) of that section” substitute “ section 38B(2), 38D(2) and (3) or 38F(2) (as the case may be) ”.
+
+**10** In section 256 (no indemnification for fines or civil penalties), in subsection (1)(b), after “virtue of” insert “ section 77A, 77B or 88A of this Act, ”.
+
+**11** (1) Section 310 (admissibility of statements) is amended as follows.
+
+(2) In subsection (3)(b)—
+
+(a) after “financial penalty” insert “ on a relevant ground ”;
+
+(b) after “virtue of—” insert—
+
+> (ai) section 88A (financial penalties),
+
+;
+
+(c) for sub-paragraph (i) (and the “or” following it) substitute—
+
+> (i) section 168 of the Pension Schemes Act 1993 (breach of regulations),
+>
+> (ia) section 10 of the Pensions Act 1995 (civil penalties),
+>
+> (ib) paragraph 10 of Schedule 17 to the Pensions Act 2014 (penalties for contravention of regulations etc),
+>
+> (ic) paragraph 3 of Schedule 18 to that Act (penalties for contravention of regulations etc),
+
+;
+
+(d) for sub-paragraph (ii) substitute—
+
+> (ii) section 164 of the Pension Schemes (Northern Ireland) Act 1993 (c. 49) (breach of regulations),
+>
+> (iii) Article 10 of the Pensions (Northern Ireland) Order 1995 (S.I. 1995/3213 (N.I. 22)) (civil penalties),
+>
+> (iv) Article 83A of the Pensions (Northern Ireland) Order 2005 (S.I. 2005/255 (N.I. 1)) (financial penalties),
+>
+> (v) Article 215G of that Order (penalties for contravention of regulations under Article 215D),
+>
+> (vi) paragraph 10 of Schedule 17 to the Pensions Act (Northern Ireland) 2015 (c. 5 (N.I.)) (penalties for contravention of regulations etc), or
+>
+> (vii) paragraph 3 of Schedule 18 to that Act (penalties for contravention of regulations etc).
+
+(3) After subsection (3) insert—
+
+> (3A) For the purposes of this section a financial penalty is payable on a relevant ground if it is payable otherwise than under—
+>
+> (a) section 88A as it applies by virtue of—
+>
+> (i) section 80A (financial penalty for providing false or misleading information to Regulator), or
+>
+> (ii) section 80B (financial penalty for providing false or misleading information to trustees or managers), or
+>
+> (b) Article 83A of the Pensions (Northern Ireland) Order 2005 (S.I. 2005/255 (N.I. 1)) as it applies by virtue of—
+>
+> (i) Article 75A of that Order (financial penalty for providing false or misleading information to Regulator), or
+>
+> (ii) Article 75B of that Order (financial penalty for providing false or misleading information to trustees or managers).
+
+(4) In subsection (4), in the definition of “information requirement”, after paragraph (c) insert—
+
+> "ca section 72A (requirement to attend interview etc);
+
+.
+
+**12** (1) Section 316 (Parliamentary control of subordinate legislation) is amended as follows.
+
+(2) In subsection (2) (regulations and orders subject to affirmative procedure), after paragraph (za) insert—
+
+> (zaa) regulations under section 38E(2)(a) (section 38 contribution notice: constitution of resources of employer);
+>
+> (zab) regulations under section 38E(2)(b) (section 38 contribution notice: valuation of resources of employer);
+
+.
+
+(3) In subsection (2), after paragraph (zb) insert—
+
+> (zc) regulations under section 58A(1) (offence of avoidance of employer debt: power to except certain schemes);
+>
+> (zd) regulations under section 58B(1) (offence of conduct risking accrued scheme benefits: power to except certain schemes);
+>
+> (ze) regulations under section 58C(1) (financial penalty for avoidance of employer debt: power to except certain schemes);
+>
+> (zf) regulations under section 58D(1) (financial penalty for conduct risking accrued scheme benefits: power to except certain schemes);
+>
+> (zg) regulations under section 73(5B)(a) (inspection of premises: power to specify provisions by reference to which there may be inspection);
+>
+> (zh) regulations under section 88A(3) (financial penalties: power to amend maximum amount of penalty);
+
+.
+
+**13** (1) In Schedule 1 (the Pensions Regulator), in Part 4 (proceedings and delegation etc), paragraph 21(2) is amended as follows.
+
+(2) After paragraph (d) insert—
+
+> (da) the power to issue a notice under section 72A;
+>
+> (db) the power to issue a fixed penalty notice under section 77A;
+>
+> (dc) the power to issue an escalating penalty notice under section 77B;
+>
+> (dd) the power to require payment of a penalty under section 88A;
+
+.
+
+(3) After paragraph (o) insert—
+
+> (p) the power to issue a fixed penalty notice under section 17 of the Pension Schemes Act 2017;
+>
+> (q) the power to issue an escalating penalty notice under section 18 of that Act.
+
+**14** In Schedule 2 (the reserved regulatory functions), after paragraph 41 insert—
+
+> **41A** The power to require a person to pay a penalty under section 88A.
+
+### Pensions Act 2008 (c. 30)
+
+**15** The Pensions Act 2008 is amended as follows.
+
+**16** In section 40 (fixed penalty notices), in subsection (1)—
+
+(a) omit the “or” after paragraph (c);
+
+(b) after paragraph (d) insert
+
+> , or
+>
+> (e) a notice issued under section 72A of that Act (interviews), so far as relevant to the exercise of any of its functions under or by virtue of this Part.
+
+**17** In section 41 (escalating penalty notices), in subsection (1)—
+
+(a) omit the “or” after paragraph (c);
+
+(b) after paragraph (d) insert
+
+> , or
+>
+> (e) a notice issued under section 72A of that Act (interviews), so far as relevant to the exercise of any of its functions under or by virtue of this Part.
+
+### Pension Schemes Act 2017 (c. 17)
+
+**18** The Pension Schemes Act 2017 is amended as follows.
+
+**19** (1) Section 17 (fixed penalty notice for failure to comply with request for information) is amended as follows.
+
+(2) In the title, at the end insert “ etc ”.
+
+(3) In subsection (1)—
+
+(a) for “with a” substitute
+
+> with—
+>
+> (a) a
+
+;
+
+(b) after “Part” insert
+
+> , or
+>
+> (b) a notice issued under section 72A of that Act (interviews), so far as relevant to the exercise of any of the Regulator's functions under or by virtue of this Part
+
+.
+
+**20** (1) Section 18 (escalating penalty notice for failure to comply with request for information) is amended as follows.
+
+(2) In the title, at the end insert “ etc ”.
+
+(3) In subsection (1)—
+
+(a) for “with a” substitute
+
+> with—
+>
+> (a) a
+
+;
+
+(b) after “notice”)” insert
+
+> , or
+>
+> (b) a notice issued under section 72A of that Act (interviews), so far as relevant to the exercise of any of the Regulator's functions under or by virtue of this Part (a “section 72A notice”)
+
+.
+
+(4) In subsection (2)(a), after “72 notice” insert “ or the section 72A notice ”.
+
+(5) In subsection (3), after “72 notice” insert “ or a section 72A notice ”.
+
+(6) In subsection (6)—
+
+(a) in paragraph (b), after “notice” insert “ or the section 72A notice ”;
+
+(b) in paragraph (e), after “notice” insert “ or the section 72A notice ”.
+
+## SCHEDULE 8 — The Pensions Regulator: Northern Ireland
+
+*Section 117*
+
+### PART 1 — Amendments of the Pensions (Northern Ireland) Order 2005
+
+#### Introductory
+
+**1** The Pensions (Northern Ireland) Order 2005 (S.I. 2005/255 (N.I. 1)) is amended as follows.
+
+#### Grounds for issuing an Article 34 contribution notice
+
+**2** (1) In Article 34 (contribution notices where avoidance of employer debt)—
+
+(a) in paragraph (5)(a)—
+
+(i) after “test” insert “ , the employer insolvency test or the employer resources test ”;
+
+(ii) for “Article 34A)” substitute “ Articles 34A, 34C and 34E) ”;
+
+(b) in paragraph (12)(c), after “test” insert “ , the employer insolvency test or the employer resources test ”.
+
+(2) After Article 34B insert—
+
+> **Article 34 contribution notice: meaning of “employer insolvency test”**
+>
+> **34C** (1) For the purposes of Article 34 the employer insolvency test is met in relation to an act or failure to act if the Regulator is of the opinion that—
+>
+> (a) immediately after the relevant time, the value of the assets of the scheme was less than the amount of the liabilities of the scheme, and
+>
+> (b) if a debt under Article 75(4) of the 1995 Order (deficiencies in scheme assets: employer insolvency etc) had fallen due from the employer to the scheme immediately after the relevant time, the act or failure would have materially reduced the amount of the debt likely to be recovered by the scheme.
+>
+> (2) For the purposes of paragraph (1)—
+>
+> (a) the value of the assets of the scheme immediately after the relevant time is the value which the Regulator estimates to be their value,
+>
+> (b) the amount of the liabilities of the scheme immediately after the relevant time is the amount which the Regulator estimates to be the amount of those liabilities, and
+>
+> (c) the amount of the debt is the amount which the Regulator estimates to be the amount of the debt under Article 75(4) of the 1995 Order that would have fallen due immediately after the relevant time.
+>
+> (3) When estimating the value and the amounts referred to in paragraph (2), the Regulator must take into account how assets and liabilities, and their value or amount, are determined and calculated for the purposes of Article 75(4) of the 1995 Order.
+>
+> (4) When estimating—
+>
+> (a) the value of the assets of the scheme immediately after the relevant time, and
+>
+> (b) the amount of the debt under Article 75(4) of the 1995 Order falling due immediately after the relevant time,
+>
+> the Regulator must disregard the amount of any debt due immediately after the relevant time from the employer under Article 75 of the 1995 Order.
+>
+> (5) In this Article “the relevant time” means—
+>
+> (a) in the case of an act, the time of the act, or
+>
+> (b) in the case of a failure to act—
+>
+> (i) the time when the failure occurred, or
+>
+> (ii) where the failure continued for a period of time, the time which the Regulator determines and which falls within that period;
+>
+> and, in the case of acts or failures to act forming part of a series, any reference in this paragraph to an act or failure to act is a reference to the last of the acts or failures in that series.
+>
+> **Article 34 contribution notice issued by reference to employer insolvency test: defence**
+>
+> **34D** (1) This Article applies where—
+>
+> (a) a warning notice is given to any person (“P”) in respect of a contribution notice under Article 34, and
+>
+> (b) the contribution notice under consideration would be issued wholly or partly by reference to the Regulator's opinion that the employer insolvency test is met in relation to an act or deliberate failure to act to which P was a party.
+>
+> (2) If the Regulator is satisfied that P has shown that—
+>
+> (a) conditions A and C are met, and
+>
+> (b) where applicable, condition B is met,
+>
+> the Regulator must not issue the contribution notice by reference to its being of the opinion mentioned in paragraph (1)(b).
+>
+> (3) If the Regulator is satisfied that P or another person has shown that condition D is met, the Regulator must not issue the contribution notice by reference to its being of the opinion mentioned in paragraph (1)(b).
+>
+> (4) Condition A is that, before becoming a party to the act or failure, P gave due consideration to the extent to which, if a debt under Article 75(4) of the 1995 Order were to fall due from the employer to the scheme—
+>
+> (a) immediately after the act or failure, or
+>
+> (b) where the failure might continue for a period of time, at any time within that period,
+>
+> the act or failure might materially reduce the amount of the debt likely to be recovered by the scheme.
+>
+> (5) Condition B is that, in any case where as a result of that consideration P considered that the act or failure might have such an effect, P took all reasonable steps to eliminate or minimise the potential for the act or failure to have such an effect.
+>
+> (6) Condition C is that, having regard to all relevant circumstances prevailing at the time of the act or at the time when the failure to act first occurred, it was reasonable for P to conclude that, if a debt under Article 75(4) of the 1995 Order were to fall due from the employer to the scheme—
+>
+> (a) immediately after the act or failure, or
+>
+> (b) where the failure might continue for a period of time, at any time within that period,
+>
+> the act or failure would not materially reduce the amount of the debt likely to be recovered by the scheme.
+>
+> (7) Condition D is that, immediately after the relevant time, the value of the assets of the scheme equalled or was more than the amount at that time of the liabilities of the scheme.
+>
+> (8) P is to be regarded as giving the consideration mentioned in condition A only if P has made the enquiries, and done the other acts, that a reasonably diligent person would have made or done in the circumstances.
+>
+> (9) For the purposes of condition C the reference to the circumstances mentioned in that condition is a reference to those circumstances of which P was aware, or ought reasonably to have been aware, at the time of the act or the time when the failure to act first occurred (including acts or failures to act which have occurred before that time and P's expectation at that time of other acts or failures to act occurring).
+>
+> (10) For the purposes of conditions A, C and D the amount of any debt due at the time in question from the employer under Article 75 of the 1995 Order is to be disregarded.
+>
+> (11) In the case of acts or failures to act forming part of a series, P is to be regarded as having shown the matters mentioned in paragraph (2) if P shows in the case of each of the acts or failures in the series that—
+>
+> (a) conditions A and C are met, and (where applicable) condition B is met, in relation to the act or failure, or
+>
+> (b) the act or failure was one of a number of acts or failures (a “group” of acts or failures) selected by P in relation to which the following matters are shown.
+>
+> (12) The matters to be shown are that—
+>
+> (a) before becoming a party to the first of the acts or failures in the group, condition A is met in relation to the effect of the acts or failures in the group taken together,
+>
+> (b) condition B is (where applicable) met in relation to that effect, and
+>
+> (c) condition C is then met in relation to each of the acts or failures in the group (determined at the time at which each act or failure concerned occurred or first occurred).
+>
+> (13) If at any time P considers that condition C will not be met in relation to any particular act or failure in the group—
+>
+> (a) the previous acts or failures in the group are to be regarded as a separate group for the purposes of paragraph (11), and
+>
+> (b) P may then select another group consisting of the particular act or failure concerned, and any subsequent act or failure, in relation to which P shows the matters mentioned in paragraph (12).
+>
+> Nothing in sub-paragraph (b) is to be read as preventing P from showing the matters mentioned in paragraph (11)(a).
+>
+> (14) If—
+>
+> (a) P is unable to show in the case of each of the acts or failures in the series that the matters set out in paragraph (11)(a) or (b) are met, but
+>
+> (b) does show in the case of some of them that those matters are met,
+>
+> the acts or failures within sub-paragraph (b) are not to count for the purposes of Article 34C as acts or failures to act in the series.
+>
+> (15) In this Article—
+>
+> (a) “the relevant time” has the meaning given by Article 34C;
+>
+> (b) “a warning notice” means a notice given as mentioned in Article 91(2)(a);
+>
+> (c) a reference to a party to an act or failure to act includes a reference to a person who knowingly assists in the act or failure.
+
+(3) After Article 34D (inserted by sub-paragraph (2)) insert—
+
+> **Article 34 contribution notice: meaning of “employer resources test”**
+>
+> **34E** (1) For the purposes of Article 34 the employer resources test is met in relation to an act or failure to act if the Regulator is of the opinion that—
+>
+> (a) the act or failure reduced the value of the resources of the employer, and
+>
+> (b) that reduction was a material reduction relative to the estimated Article 75 debt in relation to the scheme.
+>
+> (2) For the purposes of this Article—
+>
+> (a) what constitutes the resources of the employer is to be determined in accordance with regulations;
+>
+> (b) the value of the resources of the employer is to be determined, calculated and verified in a prescribed manner.
+>
+> (3) In this Article the “estimated Article 75 debt” means the amount which the Regulator estimates to be the amount of the debt which would become due from the employer to the trustees or managers of the scheme under Article 75 of the 1995 Order (deficiencies in the scheme assets) if—
+>
+> (a) Article 75(2) applied, and
+>
+> (b) the time designated by the trustees or managers of the scheme for the purposes of Article 75(2) were the relevant time.
+>
+> (4) When calculating the estimated Article 75 debt under paragraph (3), the amount of any debt due at the relevant time from the employer under Article 75 of the 1995 Order is to be disregarded.
+>
+> (5) In this Article “the relevant time” means—
+>
+> (a) in a case where the act or failure to act forms part of a series of acts or failures to act, the time immediately before the first of the acts occurred or the first of the failures to act first occurred;
+>
+> (b) in any other case, the time immediately before the act occurred or the failure to act first occurred.
+>
+> **Article 34 contribution notice issued by reference to employer resources test: defence**
+>
+> **34F** (1) This Article applies where—
+>
+> (a) a warning notice is given to any person (“P”) in respect of a contribution notice under Article 34, and
+>
+> (b) the contribution notice under consideration would be issued wholly or partly by reference to the Regulator's opinion that the employer resources test is met in relation to an act or deliberate failure to act to which P was a party.
+>
+> (2) If the Regulator is satisfied that P has shown that—
+>
+> (a) conditions A and C are met, and
+>
+> (b) where applicable, condition B is met,
+>
+> the Regulator must not issue the contribution notice by reference to its being of the opinion mentioned in paragraph (1)(b).
+>
+> (3) Condition A is that, before becoming a party to the act or failure, P gave due consideration to the extent to which the act or failure might reduce the value of the resources of the employer relative to the estimated Article 75 debt in relation to the scheme.
+>
+> (4) Condition B is that, in any case where as a result of that consideration P considered that the act or failure might have such an effect, P took all reasonable steps to eliminate or minimise the potential for the act or failure to have such an effect.
+>
+> (5) Condition C is that, having regard to all relevant circumstances prevailing at the time of the act or at the time when the failure to act first occurred, it was reasonable for P to conclude that the act or failure would not bring about a reduction in the value of the resources of the employer that would be a material reduction relative to the estimated Article 75 debt in relation to the scheme.
+>
+> (6) P is to be regarded as giving the consideration mentioned in condition A only if P has made the enquiries, and done the other acts, that a reasonably diligent person would have made or done in the circumstances.
+>
+> (7) For the purposes of condition C the reference to the circumstances mentioned in that condition is a reference to those circumstances of which P was aware, or ought reasonably to have been aware, at the time of the act or the time when the failure to act first occurred (including acts or failures to act which have occurred before that time and P's expectation at that time of other acts or failures to act occurring).
+>
+> (8) For the purposes of conditions A and C—
+>
+> (a) the “estimated Article 75 debt” means the amount which is a reasonable estimate of the amount of the debt which would become due from the employer to the trustees or managers of the scheme under Article 75 of the 1995 Order (deficiencies in the scheme assets) if—
+>
+> (i) Article 75(2) applied, and
+>
+> (ii) the time designated by the trustees or managers of the scheme for the purposes of Article 75(2) were the time immediately before the act occurred or the failure to act first occurred;
+>
+> (b) the amount of any debt due at the time in question from the employer under Article 75 of the 1995 Order is to be disregarded.
+>
+> (9) In the case of acts or failures to act forming part of a series, P is to be regarded as having shown the matters mentioned in paragraph (2) if P shows in the case of each of the acts or failures in the series that—
+>
+> (a) conditions A and C are met, and (where applicable) condition B is met, in relation to the act or failure, or
+>
+> (b) the act or failure was one of a number of acts or failures (a “group” of acts or failures) selected by P in relation to which the following matters are shown.
+>
+> (10) The matters to be shown are that—
+>
+> (a) before becoming a party to the first of the acts or failures in the group, condition A is met in relation to the effect of the acts or failures in the group taken together,
+>
+> (b) condition B is (where applicable) met in relation to that effect, and
+>
+> (c) condition C is then met in relation to each of the acts or failures in the group (determined at the time at which each act or failure concerned occurred or first occurred).
+>
+> (11) If at any time P considers that condition C will not be met in relation to any particular act or failure in the group—
+>
+> (a) the previous acts or failures in the group are to be regarded as a separate group for the purposes of paragraph (9), and
+>
+> (b) P may then select another group consisting of the particular act or failure concerned, and any subsequent act or failure, in relation to which P shows the matters mentioned in paragraph (10).
+>
+> Nothing in sub-paragraph (b) is to be read as preventing P from showing the matters mentioned in paragraph (9)(a).
+>
+> (12) If—
+>
+> (a) P is unable to show in the case of each of the acts or failures in the series that the matters set out in paragraph (9)(a) or (b) are met, but
+>
+> (b) does show in the case of some of them that those matters are met,
+>
+> the acts or failures within sub-paragraph (b) are not to count for the purposes of Article 34E as acts or failures to act in the series.
+>
+> (13) In this Article—
+>
+> (a) Article 34E(2) (the resources of the employer and their value) has effect for the purpose of this Article as it has effect for the purposes of Article 34E;
+>
+> (b) “a warning notice” means a notice given as mentioned in Article 91(2)(a);
+>
+> (c) a reference to a party to an act or failure to act includes a reference to a person who knowingly assists in the act or failure.
+
+#### Reasonableness of issuing contribution notice
+
+**3** (1) Article 34 (contribution notices where avoidance of employer debt) is amended as follows.
+
+(2) In paragraph (7) (matters that may be relevant to imposing liability), after sub-paragraph (d) insert—
+
+> (da) if the act or failure to act was a notifiable event for the purposes of Article 64A (duty to give notices and statements to the Regulator in respect of certain events), any failure by the person to comply with any obligation imposed on the person by Article 64A,
+
+.
+
+(3) In paragraph (7), after sub-paragraph (eb) insert—
+
+> (ec) the effect of the act or failure to act on the value of the assets or liabilities of the scheme or any relevant transferee scheme,
+
+.
+
+(4) After paragraph (7A) insert—
+
+> (7B) In paragraph (7)(ec) “relevant transferee scheme” and the reference to the assets or liabilities of any relevant transferee scheme have the same meaning as in Article 34A.
+
+#### Determination of sum specified in a contribution notice
+
+**4** (1) Article 35 (the sum specified in an Article 34 contribution notice) is amended as follows.
+
+(2) For paragraph (4) substitute—
+
+> (4) For the purposes of this Article “the relevant time” means the end of the scheme year which ended most recently before the day on which the Regulator gives a determination notice under Article 91(2)(d) in respect of an intended contribution notice under Article 34.
+
+(3) Omit paragraph (4A).
+
+#### Sanctions for failure to comply with a contribution notice
+
+**5** (1) In Article 36 (content and effect of an Article 34 contribution notice)—
+
+(a) after paragraph (2) insert—
+
+> (2A) Without prejudice to paragraphs (3) and (7), the contribution notice must also specify a date for the purposes of Articles 38A(2) and 38B(2) (sanctions for failure to comply with a contribution notice).
+
+;
+
+(b) in paragraph (9), after sub-paragraph (b) (and before the “and”) insert—
+
+> (ba) specifies the same date for the purposes of Articles 38A(2) and 38B(2) as is specified in P's contribution notice,
+
+.
+
+(2) In Article 37 (Article 34 contribution notice: relationship with employer debt)—
+
+(a) after paragraph (8) insert—
+
+> (8A) An application under paragraph (7) may not be made after—
+>
+> (a) the date specified under Article 36(2A) for the purposes of Articles 38A(2) and 38B(2) (sanctions for failure to comply with a contribution notice), or
+>
+> (b) if a different date has effect instead of that date (see paragraphs (10A) and (11B)), that different date.
+
+;
+
+(b) after paragraph (10) insert—
+
+> (10A) Where an application under paragraph (7) is made to the Regulator, the Regulator may, if it is of the opinion that it is appropriate to do so—
+>
+> (a) change the date that has effect for the purposes of Articles 38A(2) and 38B(2) (whether specified in the contribution notice or an earlier revised contribution notice), and
+>
+> (b) specify the revised date in the revised contribution notice issued under paragraph (9)(b) or, if the Regulator does not issue a revised contribution notice under paragraph (9)(b), issue a revised contribution notice specifying the revised date.
+
+;
+
+(c) after paragraph (11) insert—
+
+> (11A) Paragraph (11B) applies where—
+>
+> (a) P's contribution notice specifies that P is jointly and severally liable for the debt with other persons, and
+>
+> (b) the Regulator issues a revised contribution notice to P under paragraph (9)(b) or (10A)(b) specifying a revised date for the purposes of Articles 38A(2) and 38B(2).
+>
+> (11B) Where this paragraph applies, the Regulator must—
+>
+> (a) change the date that has effect for the purposes of Articles 38A(2) and 38B(2) in the case of the contribution notices or revised contribution notices issued in respect of the debt to those other persons, and
+>
+> (b) specify the revised date in the revised contribution notices issued to those other persons under paragraph (11) or, if the Regulator does not issue revised contribution notices under paragraph (11), issue revised contribution notices to those other persons specifying the revised date.
+
+(3) After Article 38 insert—
+
+> **Offence of failing to comply with an Article 34 contribution notice**
+>
+> **38A** (1) This Article applies where a contribution notice is issued to a person under Article 34.
+>
+> (2) If the person, without reasonable excuse, fails to pay the debt due by virtue of the contribution notice to—
+>
+> (a) the trustees or managers of the scheme, or
+>
+> (b) the Board (as the case may be),
+>
+> before the date specified in the contribution notice for the purposes of this paragraph (see Article 36(2A)), the person is guilty of an offence.
+>
+> (3) A person guilty of an offence under paragraph (2) is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+>
+> (4) Proceedings for an offence under paragraph (2) may not be instituted if an application under Article 37(7) has been made—
+>
+> (a) in relation to the contribution notice, or
+>
+> (b) in relation to a contribution notice which is a corresponding contribution notice for the purposes of Article 36(8),
+>
+> and the application has not been determined, withdrawn or abandoned.
+>
+> (5) Proceedings for an offence under paragraph (2) may be instituted only—
+>
+> (a) by the Regulator or the Department, or
+>
+> (b) by or with the consent of the Director of Public Prosecutions for Northern Ireland.
+
+(4) After Article 38A (inserted by sub-paragraph (3)) insert—
+
+> **Financial penalty for failure to comply with an Article 34 contribution notice**
+>
+> **38B** (1) This Article applies where a contribution notice is issued to a person under Article 34.
+>
+> (2) Article 83A (financial penalties) applies to the person if the person, without reasonable excuse, fails to pay the debt due by virtue of the contribution notice to—
+>
+> (a) the trustees or managers of the scheme, or
+>
+> (b) the Board (as the case may be),
+>
+> before the date specified in the contribution notice for the purposes of this paragraph (see Article 36(2A)).
+>
+> (3) The Regulator may not issue a warning notice to the person in respect of the imposition of a penalty under Article 83A as it applies by virtue of paragraph (2) if an application under Article 37(7) has been made—
+>
+> (a) in relation to the contribution notice, or
+>
+> (b) in relation to a contribution notice which is a corresponding contribution notice for the purposes of Article 36(8),
+>
+> and the application has not been determined, withdrawn or abandoned.
+>
+> (4) In this Article “warning notice” means a notice given as mentioned in Article 91(2)(a).
+
+#### Sanctions for avoidance of employer debt etc
+
+**6** (1) After Article 54 insert—
+
+> **Sanctions for avoidance of employer debt etc**
+>
+> **Offence of avoidance of employer debt**
+>
+> **54A** (1) This Article applies in relation to an occupational pension scheme other than—
+>
+> (a) a money purchase scheme, or
+>
+> (b) a prescribed scheme or a scheme of a prescribed description.
+>
+> (2) A person commits an offence only if—
+>
+> (a) the person does an act or engages in a course of conduct that—
+>
+> (i) prevents the recovery of the whole or any part of a debt which is due from the employer in relation to the scheme under Article 75 of the 1995 Order (deficiencies in the scheme assets),
+>
+> (ii) prevents such a debt becoming due,
+>
+> (iii) compromises or otherwise settles such a debt, or
+>
+> (iv) reduces the amount of such a debt which would otherwise become due,
+>
+> (b) the person intended the act or course of conduct to have such an effect, and
+>
+> (c) the person did not have a reasonable excuse for doing the act or engaging in the course of conduct.
+>
+> (3) A reference in this Article to an act or course of conduct includes a failure to act.
+>
+> (4) This Article does not apply to a person if the act done, or course of conduct engaged in, by the person is in accordance with the person's functions as an insolvency practitioner in relation to another person.
+>
+> (5) For the purposes of this Article a reference to a debt due under Article 75 of the 1995 Order includes a contingent debt under that Article.
+>
+> (6) Accordingly, in the case of such a contingent debt, the reference in paragraph (2)(a) to preventing a debt becoming due is to be read as including a reference to preventing the occurrence of any of the events specified in Article 75(4C)(a) or (b) of the 1995 Order upon which the debt is contingent.
+>
+> (7) A person guilty of an offence under paragraph (2) is liable—
+>
+> (a) on summary conviction, to a fine not exceeding the statutory maximum;
+>
+> (b) on conviction on indictment, to imprisonment for a term not exceeding seven years or a fine, or both.
+>
+> (8) Proceedings for an offence under paragraph (2) may be instituted only—
+>
+> (a) by the Regulator or the Department, or
+>
+> (b) by or with the consent of the Director of Public Prosecutions for Northern Ireland.
+>
+> (9) For the purposes of this Article and Articles 54B to 54D “insolvency practitioner”, in relation to a person, means—
+>
+> (a) a person acting as an insolvency practitioner, in relation to that person, in accordance with Article 3 of the Insolvency Order, or
+>
+> (b) an insolvency practitioner within the meaning of Article 105(9)(b) (persons of a prescribed description).
+>
+> **Offence of conduct risking accrued scheme benefits**
+>
+> **54B** (1) This Article applies in relation to an occupational pension scheme other than—
+>
+> (a) a money purchase scheme, or
+>
+> (b) a prescribed scheme or a scheme of a prescribed description.
+>
+> (2) A person commits an offence only if—
+>
+> (a) the person does an act or engages in a course of conduct that detrimentally affects in a material way the likelihood of accrued scheme benefits being received (whether the benefits are to be received as benefits under the scheme or otherwise),
+>
+> (b) the person knew or ought to have known that the act or course of conduct would have that effect, and
+>
+> (c) the person did not have a reasonable excuse for doing the act or engaging in the course of conduct.
+>
+> (3) A reference in this Article to an act or a course of conduct includes a failure to act.
+>
+> (4) A reference in this Article to accrued scheme benefits being received is a reference to benefits the rights to which have accrued by the relevant time being received by, or in respect of, the persons who were members of the scheme before that time.
+>
+> (5) In this Article “the relevant time” means—
+>
+> (a) in the case of an act, the time of the act,
+>
+> (b) in the case of a failure to act—
+>
+> (i) the time when the failure occurred, or
+>
+> (ii) where the failure continued for a period of time, the end of that period, or
+>
+> (c) in the case of a course of conduct, the time when the course of conduct ended.
+>
+> (6) A reference in this Article to rights which have accrued is to be read in accordance with Article 67A(6) and (7) of the 1995 Order (reading any reference in those paragraphs to a subsisting right as a reference to a right which has accrued).
+>
+> (7) For the purposes of this Article the benefits that may be received under the following provisions are to be disregarded—
+>
+> (a) Chapter 3 of Part 3 (the Board of the Pension Protection Fund: pension protection), and
+>
+> (b) section 286 of the Pensions Act 2004 (the financial assistance scheme for members of certain pension schemes).
+>
+> (8) This Article does not apply to a person if the act done, or course of conduct engaged in, by the person is in accordance with the person's functions as an insolvency practitioner in relation to another person (see Article 54A(9)).
+>
+> (9) A person guilty of an offence under paragraph (2) is liable—
+>
+> (a) on summary conviction, to a fine not exceeding the statutory maximum;
+>
+> (b) on conviction on indictment, to imprisonment for a term not exceeding seven years or a fine, or both.
+>
+> (10) Proceedings for an offence under paragraph (2) may be instituted only—
+>
+> (a) by the Regulator or the Department, or
+>
+> (b) by or with the consent of the Director of Public Prosecutions for Northern Ireland.
+
+(2) After Article 54B (inserted by sub-paragraph (1)) insert—
+
+> **Financial penalty for avoidance of employer debt**
+>
+> **54C** (1) This Article applies in relation to an occupational pension scheme other than—
+>
+> (a) a money purchase scheme, or
+>
+> (b) a prescribed scheme or a scheme of a prescribed description.
+>
+> (2) Article 83A (financial penalties) applies to a person who was party to an act or deliberate failure to act the main purpose or one of the main purposes of which was—
+>
+> (a) to prevent the recovery of the whole or any part of a debt which is due from the employer in relation to the scheme under Article 75 of the 1995 Order (deficiencies in the scheme assets),
+>
+> (b) to prevent such a debt becoming due,
+>
+> (c) to compromise or otherwise settle such a debt, or
+>
+> (d) to reduce the amount of such a debt which would otherwise become due,
+>
+> if it was not reasonable for the person to act or fail to act in the way that the person did.
+>
+> (3) This Article does not apply where the Regulator is of the opinion that the person, in being a party to the act or failure, was acting in accordance with the person's functions as an insolvency practitioner in relation to another person (see Article 54A(9)).
+>
+> (4) For the purposes of this Article a reference to a debt due under Article 75 of the 1995 Order includes a contingent debt under that Article.
+>
+> (5) Accordingly, in the case of such a contingent debt, the reference in paragraph (2) to preventing a debt becoming due is to be read as including a reference to preventing the occurrence of any of the events specified in Article 75(4C)(a) or (b) of the 1995 Order upon which the debt is contingent.
+>
+> (6) For the purposes of this Article the parties to an act or deliberate failure to act include those persons who knowingly assist in the act or failure.
+>
+> (7) If the Regulator is of the opinion that—
+>
+> (a) a person was party to a series of acts or deliberate failures to act, and
+>
+> (b) the requirements of paragraph (2) are met in relation to the series,
+>
+> the series of acts or failures to act is to be regarded as an act or failure to act in relation to which the requirements of paragraph (2) are met.
+>
+> **Financial penalty for conduct risking accrued scheme benefits**
+>
+> **54D** (1) This Article applies in relation to an occupational pension scheme other than—
+>
+> (a) a money purchase scheme, or
+>
+> (b) a prescribed scheme or a scheme of a prescribed description.
+>
+> (2) Article 83A (financial penalties) applies to a person who was party to an act or deliberate failure to act that detrimentally affected in a material way the likelihood of accrued scheme benefits being received (whether the benefits are to be received as benefits under the scheme or otherwise), if—
+>
+> (a) the person knew or ought to have known that the act or failure to act would have that effect, and
+>
+> (b) it was not reasonable for the person to act or fail to act in the way that the person did.
+>
+> (3) This Article does not apply where the Regulator is of the opinion that the person, in being a party to the act or failure, was acting in accordance with the person's functions as an insolvency practitioner in relation to another person (see Article 54A(9)).
+>
+> (4) In this Article a reference to accrued scheme benefits being received is a reference to benefits the rights to which have accrued by the relevant time being received by, or in respect of, the persons who were members of the scheme before that time.
+>
+> (5) In this Article “the relevant time” means—
+>
+> (a) in the case of an act, the time of the act;
+>
+> (b) in the case of a failure to act—
+>
+> (i) the time when the failure to act occurred, or
+>
+> (ii) where the failure continued for a period of time, the end of that period;
+>
+> and, in the case of acts or failures to act forming part of a series, any reference in this paragraph to an act or failure to act is a reference to the last of the acts or failures in that series.
+>
+> (6) A reference in this Article to rights which have accrued is to be read in accordance with Article 67A(6) and (7) of the 1995 Order (reading any reference in those paragraphs to a subsisting right as a reference to a right which has accrued).
+>
+> (7) In determining for the purposes of this Article whether an act or failure to act has detrimentally affected in a material way the likelihood of accrued scheme benefits being received, the following provisions are to be disregarded—
+>
+> (a) Chapter 3 of Part 3 (the Board of the Pension Protection Fund: pension protection), and
+>
+> (b) section 286 of the Pensions Act 2004 (the financial assistance scheme for members of certain pension schemes).
+>
+> (8) For the purposes of this Article the parties to an act or deliberate failure to act include those persons who knowingly assist in the act or failure.
+>
+> (9) If the Regulator is of the opinion that—
+>
+> (a) a person was party to a series of acts or deliberate failures to act, and
+>
+> (b) the requirements of paragraph (2) are met in relation to the series,
+>
+> the series of acts or failures to act is to be regarded as an act or failure to act in relation to which the requirements of paragraph (2) are met.
+
+#### Duty to notify the Regulator of certain events
+
+**7** (1) In Article 64 (duty to notify the Regulator of certain events)—
+
+(a) in paragraph (7), for “Article 10 of the 1995 Order (civil penalties)” substitute “ Article 83A (financial penalties) ”;
+
+(b) in paragraph (8), for “That Article” substitute “ Article 83A ”.
+
+(2) In Article 75 (offences of providing false or misleading information to the Regulator), in paragraph (1)(a), after head (ii) insert—
+
+> (iia) Article 64 (duty to notify the Regulator of certain events),
+
+.
+
+#### Duty to give notices and statements to the Regulator in respect of certain events
+
+**8** (1) After Article 64 insert—
+
+> **Duty to give notices and statements to the Regulator in respect of certain events**
+>
+> **64A** (1) Except where the Regulator otherwise directs, the appropriate person must—
+>
+> (a) give notice to the Regulator of any notifiable event;
+>
+> (b) give notice to the Regulator of any material change in, or in the expected effects of, a notifiable event;
+>
+> (c) give notice to the Regulator if a notifiable event is not going to, or does not, take place.
+>
+> (2) In paragraph (1) “notifiable event” means a prescribed event in respect of the employer in relation to an eligible scheme.
+>
+> (3) For the purposes of paragraph (1) each of the following is “the appropriate person”—
+>
+> (a) the employer in relation to the scheme,
+>
+> (b) a person connected with the employer,
+>
+> (c) an associate of the employer, and
+>
+> (d) a person of a prescribed description.
+>
+> (4) Regulations may make provision about the meaning of a “material change” for the purposes of this Article.
+>
+> (5) A notice under paragraph (1) must be given to the Regulator—
+>
+> (a) in the case of a notice under paragraph (1)(a), as soon as reasonably practicable after the person giving it becomes aware of the notifiable event, subject to paragraph (6),
+>
+> (b) in the case of a notice under paragraph (1)(b), as soon as reasonably practicable after the person giving it becomes aware of the material change, subject to paragraph (6), or
+>
+> (c) in the case of a notice under paragraph (1)(c), as soon as reasonably practicable after the person giving it becomes aware that the notifiable event is not going to take place or (as the case may be) did not take place.
+>
+> (6) Regulations may require a notice under paragraph (1)(a) or (b) to be given before the beginning of the prescribed period ending with—
+>
+> (a) the notifiable event in question, or
+>
+> (b) the material change in question.
+>
+> (7) A notice under paragraph (1)(a) or (b) must be accompanied by a statement (an “accompanying statement”).
+>
+> (8) An accompanying statement must contain prescribed information.
+>
+> (9) The information that may be prescribed under paragraph (8) includes, in particular—
+>
+> (a) a description of the event,
+>
+> (b) a description of any adverse effects of the event on the eligible scheme,
+>
+> (c) a description of any steps taken to mitigate those adverse effects, and
+>
+> (d) a description of any communication with the trustees or managers of the eligible scheme about the event.
+>
+> (10) Where a person gives the Regulator a notice under paragraph (1), the person must give a copy of the notice and any accompanying statement to the trustees or managers of the eligible scheme at the same time.
+>
+> (11) A notice or accompanying statement under this Article must be in writing.
+>
+> (12) No duty to which a person is subject is to be regarded as contravened merely because of any information or opinion contained in a notice or accompanying statement under this Article.
+>
+> This is subject to Article 283 (protected items).
+>
+> (13) Article 83A (financial penalties) applies to a person who, without reasonable excuse, fails to comply with an obligation imposed on the person by this Article.
+>
+> (14) For the purposes of this Article—
+>
+> (a) Article 4 of the Insolvency Order (associated persons) applies as it applies for the purposes of that Order, and
+>
+> (b) Article 7 of the Insolvency Order (connected persons) applies as it applies for the purposes of any provision of Parts 2 to 7 of that Order.
+>
+> (15) In this Article—
+>
+> - “eligible scheme” has the meaning given by Article 110;
+> - “event” includes a failure to act.
+
+(2) In Article 75 (offences of providing false or misleading information to the Regulator), after paragraph (1)(a)(iia) (inserted by paragraph 7(2)) insert—
+
+> (iib) Article 64A (duty to give notices and statements to the Regulator in respect of certain events),
+
+.
+
+#### Interviews
+
+**9** (1) After Article 67 insert—
+
+> **Interviews**
+>
+> **67A** (1) The Regulator may, by notice in writing, require any person to whom Article 67(2) applies to attend before the Regulator, at a time and place specified in the notice, to answer questions and provide explanations on one or more matters specified in the notice that are relevant to the exercise of any of the Regulator's functions.
+>
+> (2) A notice under paragraph (1) must contain such other information as may be prescribed.
+
+(2) In Article 67 (provision of information), omit paragraphs (1A) and (1B).
+
+(3) In Article 72 (penalties relating to Articles 67 to 70)—
+
+(a) after paragraph (1) insert—
+
+> (1A) A person who, without reasonable excuse, neglects or refuses—
+>
+> (a) to attend before the Regulator as required under Article 67A(1), or
+>
+> (b) to answer a question or provide an explanation on a matter specified in the notice under Article 67A(1), when so attending before the Regulator,
+>
+> is guilty of an offence.
+
+;
+
+(b) in paragraph (3), after “paragraph (1)” insert “ , (1A) ”;
+
+(c) in paragraph (4), after “paragraph (1)” insert “ , (1A) ”.
+
+#### Inspection of premises
+
+**10** (1) Article 68 (inspection of premises) is amended as follows.
+
+(2) In paragraph (2)—
+
+(a) after sub-paragraph (da) insert—
+
+> (db) Part 2 of the Pension Schemes Act 2021;
+
+;
+
+(b) in sub-paragraph (e)—
+
+(i) at the beginning insert “ the Pension Schemes Act 2017 and ”;
+
+(ii) for “(da)” substitute “ (db) ”.
+
+(3) After paragraph (2) insert—
+
+> (2A) An inspector may, for the purposes of investigating whether the Regulator has grounds in the case of an occupational pension scheme for issuing—
+>
+> (a) a contribution notice under Article 34 (contribution notices where avoidance of employer debt),
+>
+> (b) a financial support direction under Article 39 (financial support directions),
+>
+> (c) a contribution notice under Article 43 (contribution notices where non-compliance with financial support direction),
+>
+> (d) a restoration order under Article 48 (restoration orders where transactions at an undervalue),
+>
+> (e) a contribution notice under Article 51 (contribution notice where failure to comply with restoration order), or
+>
+> (f) a notice, direction or order under any corresponding provision in force in Great Britain,
+>
+> at any reasonable time enter premises liable to inspection.
+
+(4) After paragraph (5) insert—
+
+> (5A) An inspector may, for the purposes of investigating whether the relevant provisions are being, or have been, complied with in the case of a scheme, at any reasonable time enter premises liable to inspection.
+>
+> (5B) In paragraph (5A), “the relevant provisions” means provisions contained in or made by virtue of—
+>
+> (a) such provisions of the pensions legislation as may be prescribed;
+>
+> (b) any provisions in force in Great Britain, corresponding to the provisions so prescribed.
+
+(5) In paragraph (6) (premises liable to inspection)—
+
+(a) in sub-paragraph (b), omit the “or” at the end;
+
+(b) after sub-paragraph (c) insert—
+
+> (d) documents relevant to the administration of the business of the employer in relation to the scheme are being kept there,
+>
+> (e) the administration of the business of the employer in relation to the scheme, or work connected with that administration, is being carried out there, or
+>
+> (f) in the case of an occupational pension scheme other than a money purchase scheme, a prescribed scheme or a scheme of a prescribed description, documents relevant to a change in the ownership of the employer or of a significant asset of the employer are being kept there.
+
+(6) After paragraph (6) insert—
+
+> (6A) In the application of this Article in relation to a provision mentioned in paragraph (1), (2A), (3), (4) or (5A), references in this Article to “employer” are to be read as having the meaning that it has for the purposes of the provision in question.
+>
+> (6B) In this Article a reference to an employer in relation to an occupational pension scheme includes a reference to a person who has been the employer in relation to the scheme.
+
+(7) In paragraph (7), for “this Article,” substitute
+
+> this Article—
+>
+> “the pensions legislation” means any statutory provision contained in or made by virtue of—
+>
+> (a) the Pension Schemes Act,
+>
+> (b) Part 2 or Article 30 or 42 of the 1999 Order,
+>
+> (c) this Order,
+>
+> (d) Schedule 18 to the Pensions Act (Northern Ireland) 2015, or
+>
+> (e) section 51 or 52 of the Pension Schemes Act 2015;
+
+.
+
+#### Fixed penalty notices and escalating penalty notices
+
+**11** After Article 72 (penalties relating to Articles 67 to 70) insert—
+
+> **Fixed penalty notices**
+>
+> **72A** (1) The Regulator may issue a fixed penalty notice to a person if it considers that the person—
+>
+> (a) has failed to comply with a notice under Article 67 or 67A,
+>
+> (b) has failed to comply with a requirement under Article 70, or
+>
+> (c) has prevented or hindered an inspector exercising any power under Article 68, 69 or 70.
+>
+> (2) A fixed penalty notice is a notice requiring the person to whom it is issued to pay a penalty within the period specified in the notice.
+>
+> (3) The penalty—
+>
+> (a) is to be determined in accordance with regulations, and
+>
+> (b) must not exceed £50,000.
+>
+> (4) A fixed penalty notice must—
+>
+> (a) state the amount of the penalty;
+>
+> (b) state the date by which the penalty must be paid, which must be at least 28 days after the date on which the notice is issued;
+>
+> (c) state the period to which the penalty relates;
+>
+> (d) specify the failure or conduct to which the penalty relates;
+>
+> (e) state that the Regulator may issue an escalating penalty notice under Article 72B if the person fails to comply with a notice under Article 67 or 67A;
+>
+> (f) notify the person to whom the notice is issued of the review process under section 43 of the Pensions (No. 2) Act (Northern Ireland) 2008 and the right of referral to a tribunal under section 44 of that Act (as applied by paragraph (5)).
+>
+> (5) The following sections of the Pensions (No. 2) Act (Northern Ireland) 2008 apply to a penalty notice under this Article as they apply to a penalty notice under section 40 of that Act—
+>
+> (a) section 42 (penalty notices: recovery);
+>
+> (b) section 43 (review of penalty notices);
+>
+> (c) section 44 (references to First-tier Tribunal or Upper Tribunal).
+>
+> (6) This Article does not apply in a case where section 40 of the Pensions (No. 2) Act (Northern Ireland) 2008 applies.
+>
+> **Escalating penalty notices**
+>
+> **72B** (1) The Regulator may issue an escalating penalty notice to a person if it considers that the person has failed to comply with a notice under Article 67 or 67A.
+>
+> (2) But the Regulator may not issue an escalating penalty notice to a person if—
+>
+> (a) the person has exercised the right of referral to a tribunal under section 44 of the Pensions (No. 2) Act (Northern Ireland) 2008 (as applied by Article 72A(5)) in respect of a fixed penalty notice issued under Article 72A in relation to that notice under Article 67 or 67A, and
+>
+> (b) the reference has not been determined.
+>
+> (3) An escalating penalty notice is a notice requiring a person to pay an escalating penalty if the person fails to comply with a notice under Article 67 or 67A before a specified date.
+>
+> (4) An escalating penalty is a penalty which is calculated by reference to a daily rate.
+>
+> (5) The daily rate—
+>
+> (a) is to be determined in accordance with regulations, and
+>
+> (b) must not exceed £10,000.
+>
+> (6) An escalating penalty notice must—
+>
+> (a) specify the failure to which the penalty relates;
+>
+> (b) state that, if the person fails to comply with the notice under Article 67 or 67A before a specified date, the person will be liable to pay an escalating penalty;
+>
+> (c) state the daily rate of the escalating penalty and the way in which the penalty is calculated;
+>
+> (d) state the date from which the escalating penalty will be payable, which must not be earlier than the date specified in the fixed penalty notice under Article 72A(4)(b);
+>
+> (e) state that the escalating penalty will continue to be payable at the daily rate until the date on which the person complies with the notice under Article 67 or 67A or such earlier date as the Regulator may determine;
+>
+> (f) notify the person to whom the notice is issued of the review process under section 43 of the Pensions (No. 2) Act (Northern Ireland) 2008 and the right of referral to a tribunal under section 44 of that Act (as applied by paragraph (7)).
+>
+> (7) The following sections of the Pensions (No. 2) Act (Northern Ireland) 2008 apply to an escalating penalty notice under this Article as they apply to an escalating penalty notice under section 41 of that Act—
+>
+> (a) section 42 (penalty notices: recovery);
+>
+> (b) section 43 (review of penalty notices);
+>
+> (c) section 44 (references to First-tier Tribunal or Upper Tribunal).
+>
+> (8) This Article does not apply in a case where section 41 of the Pensions (No. 2) Act (Northern Ireland) 2008 applies.
+
+#### Provision of false or misleading information to Regulator
+
+**12** After Article 75 (offences of providing false or misleading information) insert—
+
+> **Financial penalty for providing false or misleading information to Regulator**
+>
+> **75A** (1) Article 83A (financial penalties) applies to a person who has knowingly or recklessly provided the Regulator with information which is false or misleading in a material particular, if the information was provided to the Regulator in the circumstances mentioned in paragraph (2)(a), (b) or (c).
+>
+> (2) The circumstances referred to in paragraph (1) are—
+>
+> (a) that the information was provided in purported compliance with a requirement under—
+>
+> (i) Article 57 (the register: duties of trustees or managers),
+>
+> (ii) Article 59 (duty of trustees or managers to provide scheme return),
+>
+> (iii) Article 64 (duty to notify the Regulator of certain events),
+>
+> (iv) Article 64A (duty to give notices and statements to the Regulator in respect of certain events),
+>
+> (v) Article 67 (provision of information),
+>
+> (vi) Article 67A (interviews),
+>
+> (vii) Article 70 (inspection of premises: powers of inspectors), or
+>
+> (viii) regulations under section 11 of the Pensions (No. 2) Act (Northern Ireland) 2008 (information about employers' duties to be given to the Regulator);
+>
+> (b) that the information is provided in applying for registration of a pension scheme under Article 4 of the 1999 Order (registration of stakeholder pension schemes);
+>
+> (c) that the information was provided otherwise than as mentioned in sub-paragraph (a) or (b) but in circumstances in which the person providing the information intends, or could reasonably be expected to know, that it would be used by the Regulator for the purpose of exercising its functions under—
+>
+> (i) the 1995 Order,
+>
+> (ii) this Order,
+>
+> (iii) the Pensions (No. 2) Act (Northern Ireland) 2008,
+>
+> (iv) Schedule 18 to the Pensions Act (Northern Ireland) 2015, or
+>
+> (v) Part 2 of the Pension Schemes Act 2021.
+
+#### Provision of false or misleading information to trustees or managers
+
+**13** After Article 75A (inserted by paragraph 12) insert—
+
+> **Financial penalty for providing false or misleading information to trustees or managers**
+>
+> **75B** (1) This Article applies in relation to an occupational pension scheme other than—
+>
+> (a) a money purchase scheme, or
+>
+> (b) a prescribed scheme or a scheme of a prescribed description.
+>
+> (2) Article 83A (financial penalties) applies to a person who has knowingly or recklessly provided a trustee or manager of the scheme with information which is false or misleading in a material particular, if the information was provided to the trustee or manager of the scheme in the circumstances mentioned in paragraph (3)(a) or (b).
+>
+> (3) The circumstances referred to in paragraph (2) are—
+>
+> (a) that the information was provided in purported compliance with a requirement under—
+>
+> (i) regulations under Article 9 of the Superannuation (Northern Ireland) Order 1972 (superannuation of persons employed in local government service etc),
+>
+> (ii) regulations under section 109A of the Pension Schemes Act (power to require disclosure of information about transfers from one scheme to another),
+>
+> (iii) Article 22(2B)(c) of the 1995 Order (insolvency practitioner or official receiver to give notice of certain events to trustees of scheme),
+>
+> (iv) Article 26 of that Order (insolvency practitioner or official receiver to give information to trustees),
+>
+> (v) regulations under Article 47(9) of that Order (power to impose duties on employers, auditors and actuaries to disclose information),
+>
+> (vi) a direction under Article 72B of that Order (directions by Regulator for facilitating winding up of scheme);
+>
+> (b) that the information was provided otherwise than as mentioned in sub-paragraph (a) but in circumstances in which the person providing the information intends, or could reasonably be expected to know, that it would be used by the trustee or manager who receives it in that person's capacity as a trustee or manager of the scheme.
+
+#### Financial penalties
+
+**14** After Article 83 insert—
+
+> **Financial penalties**
+>
+> **Financial penalties**
+>
+> **83A** (1) Where the Regulator is satisfied that by reason of an act this Article applies to a person, the Regulator may issue a notice to the person requiring the person to pay a penalty in respect of that act of an amount specified in the notice within a period specified in the notice.
+>
+> (2) The amount of the penalty is to be an amount, not exceeding £1 million, determined by the Regulator.
+>
+> (3) Regulations may amend paragraph (2) by substituting a higher amount for the amount for the time being specified in paragraph (2).
+>
+> (4) The date on which the period specified in the notice ends must be at least 28 days after the date on which the notice is issued.
+>
+> (5) The notice must specify the provision by virtue of which the penalty is imposed.
+>
+> (6) Where—
+>
+> (a) a penalty under this Article may, apart from this paragraph, be imposed on a body corporate, and
+>
+> (b) the act in question was done with the consent or connivance of a director, manager, secretary or other similar officer of the body or a person purporting to act in any such capacity,
+>
+> this Article applies to that person.
+>
+> (7) Where the affairs of a body corporate are managed by its members, paragraph (6) applies in relation to the acts of a member in connection with the member's functions of management as to a director of a body corporate.
+>
+> (8) Where—
+>
+> (a) a penalty under this Article may, apart from this paragraph, be imposed on a Scottish partnership, and
+>
+> (b) the act in question was done with the consent or connivance of a partner,
+>
+> this Article applies to that person.
+>
+> (9) If the Regulator requires a person to pay a penalty under this Article by virtue of paragraph (6) or (8), it may not also require the body corporate or the Scottish partnership to pay a penalty under this Article in respect of the same act.
+>
+> (10) The Regulator may not issue a notice under this Article to a person in relation to an act if—
+>
+> (a) the person has been convicted of an offence in respect of the same act, or
+>
+> (b) criminal proceedings for the offence have been instituted against the person in respect of the act and the proceedings have not been concluded.
+>
+> (11) The Regulator may not issue a notice under this Article to a person in respect of an act if the Regulator has required the person to pay a penalty under Article 10 of the 1995 Order (civil penalties) in respect of the same act.
+>
+> (12) In this Article “act” includes omission.
+>
+> **Financial penalties: time for recovery**
+>
+> **83B** (1) Paragraph (3) applies where—
+>
+> (a) the Regulator is satisfied that Article 83A applies to a person by virtue of Article 54C or 54D (financial penalty for avoidance of employer debt etc),
+>
+> (b) the Regulator issues a notice under Article 83A requiring the person to pay a penalty in respect of the act or failure to act in question, and
+>
+> (c) when the notice under Article 83A is issued, the person is subject to one or more contribution notices issued under Article 34 (contribution notices where avoidance of employer debt).
+>
+> (2) Paragraph (3) does not apply if, when the notice under Article 83A is issued, a qualifying insolvency event has occurred in relation to the employer in relation to the scheme by reference to which the penalty under Article 83A is imposed.
+>
+> (3) The Regulator may not take any step to recover the penalty specified in the notice under Article 83A (including accepting an amount offered in payment or part payment of the penalty) until after—
+>
+> (a) the relevant date relating to the contribution notice or (as the case may be) the latest of the relevant dates relating to the contribution notices, or
+>
+> (b) if sooner, the date on which a qualifying insolvency event occurs in relation to the employer in relation to the scheme by reference to which the penalty under Article 83A is imposed.
+>
+> (4) In this Article—
+>
+> - “qualifying insolvency event” has the meaning given by Article 111(3);
+>
+> - “the relevant date” means, in relation to a contribution notice issued under Article 34—
+>
+>   - (a) the date specified under Article 36(2A) for the purposes of Articles 38A(2) and 38B(2), disregarding any date that has effect instead of that date by virtue of Article 37(10A) or (11B), or
+>   - (b) if sooner, the date on which the sum specified in the contribution notice is paid.
+>
+> **Financial penalties: recovery**
+>
+> **83C** (1) A penalty under Article 83A is recoverable by the Regulator.
+>
+> (2) Such a penalty is, if the county court so orders, recoverable under Article 4 of the Judgments Enforcement (Northern Ireland) Order 1981 or otherwise as if it were payable under an order of that court.
+>
+> (3) The Regulator must pay into the Consolidated Fund a penalty recovered under this Article.
+
+### PART 2 — Minor and consequential amendments
+
+#### Pensions (Northern Ireland) Order 1995 (S.I. 1995/3213 (N.I. 22))
+
+**15** In Article 10 of the Pensions (Northern Ireland) Order 1995 (civil penalties) after paragraph (9) insert—
+
+> (10) The Authority may not require a person to pay a penalty under this Article in respect of an act or omission if the Authority have issued a notice to the person under Article 83A of the Pensions (Northern Ireland) Order 2005 (financial penalties) in respect of the same act or omission.
+
+#### Pensions (Northern Ireland) Order 2005 (S.I. 2005/255 (N.I. 1))
+
+**16** The Pensions (Northern Ireland) Order 2005 is amended as follows.
+
+**17** In Article 34B (Article 34 contribution notice issued by reference to material detriment test: defence), in paragraph (12), for sub-paragraph (b) substitute—
+
+> (b) a reference to party to an act or failure to act includes a reference to a person who knowingly assists in the act or failure;
+
+.
+
+**18** In Article 70 (inspection of premises: powers of inspectors), in paragraph (1)—
+
+(a) after “paragraph (1),” insert “ (2A), ”;
+
+(b) for “(3) or (4)” substitute “ (3), (4) or (5A) ”.
+
+**19** (1) Article 71 (inspection of premises: supplementary) is amended as follows.
+
+(2) In paragraph (3)(a)—
+
+(a) after “virtue of”, in the second place it occurs, insert “ Article 72A, 72B or 83A of this Order, ”;
+
+(b) for “either of them” substitute “ any of those provisions ”.
+
+(3) In paragraph (9)—
+
+(a) after “(1),” insert “ (2A), ”;
+
+(b) for “(3) or (4)” substitute “ (3), (4) or (5A) ”.
+
+**20** In Article 73 (warrants), in paragraph (1)(c)(iii)—
+
+(a) after “virtue of”, in the first place it occurs, insert “ Article 72A, 72B or 83A of this Order, ”;
+
+(b) for “either of them” substitute “ any of those provisions ”.
+
+**21** (1) Article 75 (offences of providing false or misleading information) is amended as follows.
+
+(2) In paragraph (1)(a), after head (iii) insert—
+
+> (iiia) Article 67A (interviews),
+
+.
+
+(3) In paragraph (1)(c), for “under this Order or the 1995 Order” substitute
+
+> under—
+>
+> (i) the 1995 Order,
+>
+> (ii) this Order,
+>
+> (iii) the Pensions (No. 2) Act (Northern Ireland) 2008,
+>
+> (iv) Schedule 18 to the Pensions Act (Northern Ireland) 2015, or
+>
+> (v) Part 2 of the Pension Schemes Act 2021
+
+.
+
+**22** In Article 85 (codes of practice), in paragraph (2)—
+
+(a) in sub-paragraph (aa), after “test” insert “ , the employer insolvency test or the employer resources test ”;
+
+(b) after sub-paragraph (b) insert—
+
+> (ba) the discharge of the duties imposed by Article 64A (duty to give notices and statements to the Regulator in respect of certain events);
+
+.
+
+**23** (1) Article 91 (the Regulator's standard procedure in relation to its regulatory functions) is amended as follows.
+
+(2) In paragraph (1A)(b), after “test” insert “ , the employer insolvency test or the employer resources test ”.
+
+(3) In paragraph (1B)—
+
+(a) in sub-paragraph (a), after “34B,” insert “ 34D or 34F (as the case may be) ”;
+
+(b) in sub-paragraph (b), for “paragraph (2) of that Article” substitute “ Article 34B(2), 34D(2) and (3) or 34F(2) (as the case may be) ”.
+
+**24** In Article 233 (no indemnification for fines or civil penalties), in paragraph (1)(b), after “virtue of” insert “ Article 72A, 72B or 83A of this Order, ”.
+
+**25** (1) Article 282 (admissibility of statements) is amended as follows.
+
+(2) In paragraph (3)(b)—
+
+(a) after “financial penalty” insert “ on a relevant ground ”;
+
+(b) after “virtue of—” insert—
+
+> (ai) Article 83A (financial penalties),
+
+;
+
+(c) for head (i) (and the “or” following it) substitute—
+
+> (i) section 164 of the Pension Schemes Act (breach of regulations),
+>
+> (ia) Article 10 of the 1995 Order (civil penalties),
+>
+> (ib) paragraph 10 of Schedule 17 to the Pensions Act (Northern Ireland) 2015 (penalties for contravention of regulations etc),
+>
+> (ic) paragraph 3 of Schedule 18 to that Act (penalties for contravention of regulations etc),
+
+;
+
+(d) for head (ii) substitute—
+
+> (ii) section 168 of the Pension Schemes Act 1993 (breach of regulations),
+>
+> (iii) section 10 of the Pensions Act 1995 (civil penalties),
+>
+> (iv) section 88A of the Pensions Act 2004 (financial penalties),
+>
+> (v) section 238G of that Act (penalties for contravention of regulations under section 238D),
+>
+> (vi) paragraph 10 of Schedule 17 to the Pensions Act 2014 (penalties for contravention of regulations etc), or
+>
+> (vii) paragraph 3 of Schedule 18 to that Act (penalties for contravention of regulations etc).
+
+(3) After paragraph (3) insert—
+
+> (3A) For the purposes of this Article a financial penalty is payable on a relevant ground if it is payable otherwise than under—
+>
+> (a) Article 83A as it applies by virtue of—
+>
+> (i) Article 75A (financial penalty for providing false or misleading information to Regulator), or
+>
+> (ii) Article 75B (financial penalty for providing false or misleading information to trustees or managers), or
+>
+> (b) section 88A of the Pensions Act 2004 as it applies by virtue of—
+>
+> (i) section 80A of that Act (financial penalty for providing false or misleading information to Regulator), or
+>
+> (ii) section 80B of that Act (financial penalty for providing false or misleading information to trustees or managers).
+
+(4) In paragraph (4), in the definition of “information requirement”, after paragraph (c) insert—
+
+> "ca Article 67A (requirement to attend interview etc);
+
+.
+
+**26** (1) Article 288 (Assembly etc. control of orders and regulations) is amended as follows.
+
+(2) In paragraph (3) (orders and regulations subject to confirmatory procedure), after sub-paragraph (aa) insert—
+
+> (aaa) regulations under Article 34E(2)(a) (Article 34 contribution notice: constitution of resources of employer);
+>
+> (aab) regulations under Article 34E(2)(b) (Article 34 contribution notice: valuation of resources of employer);
+
+.
+
+(3) In paragraph (3), after sub-paragraph (ab) insert—
+
+> (ac) regulations under Article 54A(1) (offence of avoidance of employer debt: power to except certain schemes);
+>
+> (ad) regulations under Article 54B(1) (offence of conduct risking accrued scheme benefits: power to except certain schemes);
+>
+> (ae) regulations under Article 54C(1) (financial penalty for avoidance of employer debt: power to except certain schemes);
+>
+> (af) regulations under Article 54D(1) (financial penalty for conduct risking accrued scheme benefits: power to except certain schemes);
+>
+> (ag) regulations under Article 68(5B)(a) (inspection of premises: power to specify provisions by reference to which there may be inspection);
+>
+> (ah) regulations under Article 83A(3) (financial penalties: power to amend maximum amount of penalty);
+
+.
+
+**27** In Schedule 1 (the Pensions Regulator), in Part 1 (delegation), in paragraph 2(2), after paragraph (d) insert—
+
+> (da) the power to issue a notice under Article 67A;
+>
+> (db) the power to issue a fixed penalty notice under Article 72A;
+>
+> (dc) the power to issue an escalating penalty notice under Article 72B;
+>
+> (dd) the power to require payment of a penalty under Article 83A;
+
+.
+
+**28** In Schedule 2 (the reserved regulatory functions), after paragraph 41 insert—
+
+> **41A** The power to require a person to pay a penalty under Article 83A.
+
+#### Pensions (No. 2) Act (Northern Ireland) 2008 (c. 13 (N.I.))
+
+**29** The Pensions (No. 2) Act (Northern Ireland) 2008 is amended as follows.
+
+**30** In section 40 (fixed penalty notices), in subsection (1)—
+
+(a) omit the “or” after paragraph (c);
+
+(b) after paragraph (d) insert
+
+> , or
+>
+> (e) a notice issued under Article 67A of that Order (interviews), so far as relevant to the exercise of its functions under or by virtue of this Part.
+
+**31** In section 41 (escalating penalty notices), in subsection (1)—
+
+(a) omit the “or” after paragraph (c);
+
+(b) after paragraph (d) insert
+
+> , or
+>
+> (e) a notice issued under Article 67A of that Order (interviews), so far as relevant to the exercise of its functions under or by virtue of this Part.
+
+## SCHEDULE 9 — Pensions dashboards: Northern Ireland
+
+*Section 120*
+
+### Introductory
+
+**1** The Pensions (Northern Ireland) Order 2005 (S.I. 2005/255 (N.I. 1)) is amended as follows.
+
+### Qualifying pensions dashboard service
+
+**2** After Article 215 insert—
+
+> **Pensions dashboards**
+>
+> **Qualifying pensions dashboard service**
+>
+> **215A** (1) A pensions dashboard service is an electronic communications service by means of which information about pensions may be requested by, and provided to, an individual or a person authorised by the individual.
+>
+> (2) “Qualifying pensions dashboard service” means a pensions dashboard service in relation to which prescribed requirements are satisfied.
+>
+> (3) Requirements prescribed under paragraph (2) may, in particular, relate to—
+>
+> (a) what relevant and other information is to be provided, how it is to be provided and the circumstances in which it is to be provided;
+>
+> (b) how the pensions dashboard service is to be established, maintained and operated.
+>
+> (4) In paragraph (3)(a) “relevant information” means—
+>
+> (a) information of a prescribed description about—
+>
+> (i) state pensions;
+>
+> (ii) basic or additional retirement pensions;
+>
+> (b) state pension information relating to the individual in question of such description as may be prescribed;
+>
+> (c) information of a prescribed description about occupational or personal pension schemes or a prescribed description of occupational or personal pension schemes;
+>
+> (d) information relating to the individual in question and particular occupational or personal pension schemes of such description as may be prescribed.
+>
+> (5) Requirements prescribed under paragraph (2) may, in particular—
+>
+> (a) require the pensions dashboard service to comply with standards, specifications or technical requirements published from time to time by—
+>
+> (i) the Department,
+>
+> (ii) the Money and Pensions Service, or
+>
+> (iii) a person specified or of a description specified in the regulations;
+>
+> (b) require the provider of the pensions dashboard service to satisfy prescribed conditions;
+>
+> (c) require the provider of the pensions dashboard service to be a person approved from time to time by—
+>
+> (i) the Department,
+>
+> (ii) the Money and Pensions Service, or
+>
+> (iii) a person specified or of a description specified in the regulations;
+>
+> (d) require the provider of the pensions dashboard service to provide, or not to provide, information, facilities or services specified or of a description specified in connection with the pensions dashboard service.
+>
+> (6) Requirements prescribed under paragraph (2) may include provision under which a determination may fall to be made by—
+>
+> (a) the Department,
+>
+> (b) the Money and Pensions Service, or
+>
+> (c) a person specified or of a description specified in the regulations.
+>
+> **Qualifying pension dashboard service: further provision**
+>
+> **215B** (1) Requirements prescribed under Article 215A(2) may make provision about—
+>
+> (a) dealing with requests for information about pensions, including provision about the use of intermediaries;
+>
+> (b) the involvement of the provider of a pensions dashboard service in the arrangements for dealing with requests for information about pensions.
+>
+> (2) Provision made by virtue of paragraph (1) may, in particular, require—
+>
+> (a) the use of electronic communications;
+>
+> (b) the use of facilities or services specified or of a description specified in the regulations;
+>
+> (c) the provision of assistance in connection with the establishment, maintenance or management of such facilities or services;
+>
+> (d) participation in, or compliance with, arrangements for establishing, maintaining or managing such facilities or services.
+>
+> (3) The facilities and services for which provision may be made by virtue of paragraph (2)(b) may include facilities or services with functions relating to—
+>
+> (a) the transmission of information,
+>
+> (b) verifying the identity of a person,
+>
+> (c) identifying the occupational or personal pension scheme or schemes under which pensions are payable to or in respect of a particular individual,
+>
+> (d) authenticating information transmitted by means of electronic communications, or
+>
+> (e) ensuring the security of information transmitted by means of electronic communications.
+>
+> (4) Regulations under paragraph (2)(b) may impose requirements as regards a facility or service, including requirements about—
+>
+> (a) compliance with standards, specifications or technical requirements published from time to time by—
+>
+> (i) the Department,
+>
+> (ii) the Money and Pensions Service, or
+>
+> (iii) a person specified or of a description specified in the regulations;
+>
+> (b) the provider of the facility or service being a person approved from time to time by—
+>
+> (i) the Department,
+>
+> (ii) the Money and Pensions Service, or
+>
+> (iii) a person specified or of a description specified in the regulations.
+>
+> (5) Regulations under paragraph (2)(d) may, in particular, require the provider of the pensions dashboard service—
+>
+> (a) to cooperate with the Money and Pensions Service or a person specified or of a description specified in the regulations;
+>
+> (b) to coordinate activities with the Money and Pensions Service or a person specified or of a description specified in the regulations;
+>
+> (c) to enable the Money and Pensions Service or a person specified or of a description specified in the regulations to monitor or audit compliance by the provider.
+>
+> (6) Except as provided by paragraph (7), regulations under Article 215A(2) may provide for the processing of personal data in accordance with the regulations not to be in breach of—
+>
+> (a) any obligation of confidence owed by the person processing the personal data, or
+>
+> (b) any other restriction on the processing of personal data (however imposed).
+>
+> (7) Regulations under Article 215A(2) are not to be read as authorising or requiring such processing of personal data as would contravene the data protection legislation (but in determining whether particular processing of data would do so, take into account the power conferred or duty imposed by the provision of regulations in question).
+>
+> **Articles 215A and 215B: interpretation**
+>
+> **215C** (1) This Article applies for the purposes of Articles 215A and 215B.
+>
+> (2) A reference to state pension information, in relation to an individual, is a reference to the information about that individual specified in—
+>
+> (a) section 38(7) of the 2000 Act, or
+>
+> (b) section 42(7) of the Child Support, Pensions and Social Security Act 2000.
+>
+> (3) A reference to the Money and Pensions Service includes a reference to a person with whom arrangements are made under section 5(1), (2) or (3) of the Financial Guidance and Claims Act 2018.
+>
+> (4) In Articles 215A and 215B—
+>
+> - “additional retirement pension” means—
+>
+>   - (a) any additional pension or shared additional pension under—
+>   
+>     - (i) the Contributions and Benefits Act, or
+>     - (ii) the Social Security Contributions and Benefits Act 1992, or
+>   
+>   - (b) any graduated retirement benefit under—
+>   
+>     - (i) sections 35 and 36 of the National Insurance Act (Northern Ireland) 1966, or
+>     - (ii) sections 36 and 37 of the National Insurance Act 1965;
+>
+> - “basic retirement pension” means any basic pension under—
+>
+>   - (a) the Contributions and Benefits Act, or
+>   - (b) the Social Security Contributions and Benefits Act 1992;
+>
+> - “the data protection legislation” has the same meaning as in the Data Protection Act 2018 (see section 3 of that Act);
+>
+> - “electronic communications service” has the meaning given by section 32 of the Communications Act 2003;
+>
+> - “personal data” has the same meaning as in the Data Protection Act 2018 (see section 3 of that Act);
+>
+> - “state pension” means any state pension under—
+>
+>   - (a) Part 1 of the Pensions Act (Northern Ireland) 2015, or
+>   - (b) Part 1 of the Pensions Act 2014.
+
+### Information from occupational pension schemes
+
+**3** After Article 215C (inserted by paragraph 2) insert—
+
+> **Information from occupational pension schemes**
+>
+> **215D** (1) Regulations may impose requirements on the trustees or managers of a relevant occupational pension scheme with respect to—
+>
+> (a) providing pensions information by means of—
+>
+> (i) a qualifying pensions dashboard service, or
+>
+> (ii) the pensions dashboard service provided by the Money and Pensions Service;
+>
+> (b) facilitating the provision of pensions information by means of—
+>
+> (i) a qualifying pensions dashboard service, or
+>
+> (ii) the pensions dashboard service provided by the Money and Pensions Service.
+>
+> (2) In this Article “pensions information” means, in relation to a relevant occupational pension scheme, such information as may be prescribed, which may include in particular—
+>
+> (a) information relating to—
+>
+> (i) the constitution of the scheme,
+>
+> (ii) the administration and finances of the scheme,
+>
+> (iii) the rights and obligations that arise or may arise under the scheme,
+>
+> (iv) the pensions and other benefits an entitlement to which would be likely to accrue to a member, or be capable of being secured by a member, in respect of the rights that may arise under the scheme, and
+>
+> (v) other matters relevant to occupational pension schemes in general or to occupational pension schemes of a description to which the scheme belongs;
+>
+> (b) information as regards the position of an individual in relation to the scheme.
+>
+> (3) Regulations under paragraph (1) may, in particular, impose requirements about—
+>
+> (a) the persons to whom pensions information must be provided;
+>
+> (b) the circumstances in which pensions information must be provided;
+>
+> (c) the steps to be taken before pensions information may be provided;
+>
+> (d) the manner and form in which pensions information must be provided;
+>
+> (e) the time within which pensions information must be provided;
+>
+> (f) the way in which pensions information must be held.
+>
+> (4) Regulations under paragraph (1) may require the trustees or managers of a scheme to comply with standards, specifications or technical requirements published from time to time by—
+>
+> (a) the Department,
+>
+> (b) the Money and Pensions Service, or
+>
+> (c) a person specified or of a description specified in the regulations.
+>
+> (5) Regulations under paragraph (1) may include provision under which a determination may fall to be made by—
+>
+> (a) the Department,
+>
+> (b) the Money and Pensions Service, or
+>
+> (c) a person specified or of a description specified in the regulations.
+>
+> (6) Regulations under paragraph (1) may require the trustees or managers to provide prescribed information about their carrying out of requirements prescribed under this Article to—
+>
+> (a) the Regulator,
+>
+> (b) the Money and Pensions Service, or
+>
+> (c) a person specified or of a description specified in the regulations.
+>
+> (7) In complying with requirements prescribed under this Article, a trustee or manager of an occupational pension scheme must have regard to guidance issued from time to time by—
+>
+> (a) the Department, or
+>
+> (b) a person specified or of a description specified in the regulations.
+>
+> **Information from occupational pension schemes: further provision**
+>
+> **215E** (1) Regulations under Article 215D(1) may make provision about—
+>
+> (a) how pensions information is to be provided, including provision about the use of intermediaries;
+>
+> (b) the involvement of the trustees or managers of a scheme in the arrangements for dealing with requests for information about pensions.
+>
+> (2) The provision made by virtue of paragraph (1) may, in particular, require—
+>
+> (a) the use of electronic communications;
+>
+> (b) the use of facilities or services specified or of a description specified in the regulations;
+>
+> (c) the provision of assistance in connection with the establishment, maintenance or management of such facilities or services;
+>
+> (d) participation in, or compliance with, arrangements for establishing, maintaining or managing such facilities or services.
+>
+> (3) The facilities and services for which provision may be made by virtue of paragraph (2)(b) may include facilities or services with functions relating to—
+>
+> (a) the transmission of information,
+>
+> (b) verifying the identity of a person,
+>
+> (c) identifying the occupational or personal pension scheme or schemes under which pensions are payable to or in respect of a particular individual,
+>
+> (d) authenticating information transmitted by means of electronic communications, or
+>
+> (e) ensuring the security of information transmitted by means of electronic communications.
+>
+> (4) Regulations under paragraph (2)(b) may impose requirements as regards a facility or service, including requirements about—
+>
+> (a) compliance with standards, specifications or technical requirements published from time to time by—
+>
+> (i) the Department,
+>
+> (ii) the Money and Pensions Service, or
+>
+> (iii) a person specified or of a description specified in the regulations;
+>
+> (b) the provider of the facility or service being a person approved from time to time by—
+>
+> (i) the Department,
+>
+> (ii) the Money and Pensions Service, or
+>
+> (iii) a person specified or of a description specified in the regulations.
+>
+> (5) Regulations under paragraph (2)(d) may, in particular, require the trustees or managers—
+>
+> (a) to cooperate with the Money and Pensions Service or other persons specified or of a description specified in the regulations;
+>
+> (b) to coordinate activities with the Money and Pensions Service or other persons specified or of a description specified in the regulations.
+>
+> (6) Except as provided by paragraph (7), regulations under Article 215D(1) may provide for the processing of personal data in accordance with the regulations not to be in breach of—
+>
+> (a) any obligation of confidence owed by the person processing the personal data, or
+>
+> (b) any other restriction on the processing of personal data (however imposed).
+>
+> (7) Regulations under Article 215D(1) are not to be read as authorising or requiring such processing of personal data as would contravene the data protection legislation (but in determining whether particular processing of data would do so, take into account the power conferred or duty imposed by the provision of regulations in question).
+>
+> **Articles 215D and 215E: interpretation**
+>
+> **215F** (1) This Article has effect for the purposes of Articles 215D and 215E.
+>
+> (2) A reference to the Money and Pensions Service includes a reference to a person with whom arrangements are made under section 5(1), (2) or (3) of the Financial Guidance and Claims Act 2018.
+>
+> (3) In Articles 215D and 215E—
+>
+> - “the data protection legislation” has the same meaning as in the Data Protection Act 2018 (see section 3 of that Act);
+>
+> - “pensions dashboard service” means—
+>
+>   - (a) a pensions dashboard service within the meaning of Article 215A, or
+>   - (b) a pensions dashboard service within the meaning of section 238A of the Pensions Act 2004;
+>
+> - “personal data” has the same meaning as in the Data Protection Act 2018 (see section 3 of that Act);
+>
+> - “qualifying pensions dashboard service” means a pensions dashboard service that satisfies—
+>
+>   - (a) such requirements as may be prescribed by regulations under Article 215A, or
+>   - (b) such requirements as may be prescribed by regulations under section 238A of the Pensions Act 2004;
+>
+> - “relevant occupational pension scheme” means an occupational pension scheme which is not a stakeholder pension scheme (as defined in Article 3 of the 1999 Order).
+>
+> **Compliance**
+>
+> **215G** (1) Regulations may make provision with a view to securing that the trustees or managers of a relevant occupational pension scheme comply with a provision of regulations under Article 215D.
+>
+> (2) The regulations may, among other things—
+>
+> (a) provide for the Regulator to issue a notice (a “compliance notice”) to a person with a view to ensuring the person's compliance with a provision of regulations under Article 215D;
+>
+> (b) provide for the Regulator to issue a notice (a “third party compliance notice”) to a person with a view to ensuring another person's compliance with a provision of the regulations;
+>
+> (c) provide for the Regulator to issue a notice (a “penalty notice”) imposing a penalty on a person where the Regulator is of the opinion that the person—
+>
+> (i) has failed to comply with a compliance notice or third party compliance notice, or
+>
+> (ii) has contravened a provision of regulations under Article 215D;
+>
+> (d) provide for the making of a reference to the First-tier Tribunal or Upper Tribunal in respect of the issue of a penalty notice or the amount of a penalty;
+>
+> (e) confer other functions on the Regulator.
+>
+> (3) The regulations may make provision for determining the amount, or the maximum amount, of a penalty in respect of a failure or contravention.
+>
+> (4) But the amount of a penalty imposed under the regulations in respect of a failure or contravention must not exceed—
+>
+> (a) £5,000, in the case of an individual, and
+>
+> (b) £50,000, in any other case.
+>
+> (5) In this Article “relevant occupational pension scheme” has the meaning given by Article 215F.
+
+### Admissibility of statements
+
+**4** In Article 282 (admissibility of statements), in paragraph (3)(b), after head (ai) (inserted by paragraph 25 of Schedule 8) insert—
+
+> (bi) Article 215G (penalties for contravention of regulations under Article 215D),
+
+.
+
+### Assembly control of regulations
+
+**5** In Article 288 (Assembly etc control of orders and regulations), in paragraph (3) (orders and regulations subject to confirmatory procedure), after sub-paragraph (j) insert—
+
+> (ja) regulations under Article 215A (qualifying pensions dashboard service);
+>
+> (jb) regulations under Article 215D (information from occupational pension schemes);
+>
+> (jc) regulations under Article 215G (compliance with regulations under Article 215D);
+
+.
+
+### The Pensions Regulator: delegation
+
+**6** In Schedule 1 (the Pensions Regulator), in Part 1 (delegation), in paragraph 2(2), after paragraph (e) insert—
+
+> (ea) the power to issue a compliance notice under regulations under Article 215G;
+>
+> (eb) the power to issue a third party compliance notice under regulations under Article 215G;
+>
+> (ec) the power to issue a penalty notice under regulations under Article 215G;
+
+.
+
+## SCHEDULE 10 — Funding of defined benefit schemes
+
+*Section 123*
+
+### PART 1 — Amendments of Part 3 of the Pensions Act 2004
+
+**1** Part 3 of the Pensions Act 2004 (scheme funding) is amended as follows.
+
+**2** Before section 222 insert—
+
+> **Funding and investment strategy**
+>
+> **221A** (1) The trustees or managers must determine, and from time to time review and if necessary revise, a strategy for ensuring that pensions and other benefits under the scheme can be provided over the long term.
+>
+> This is referred to in this Part as a “funding and investment strategy”.
+>
+> (2) The strategy must, in particular, specify—
+>
+> (a) the funding level the trustees or managers intend the scheme to have achieved as at the relevant date or relevant dates, and
+>
+> (b) the investments the trustees or managers intend the scheme to hold on the relevant date or relevant dates.
+>
+> (3) In subsection (2)—
+>
+> (a) “funding level” means the ratio of the scheme's assets to its liabilities;
+>
+> (b) “relevant date” means a date determined in accordance with regulations.
+>
+> (4) Provision may be made by regulations—
+>
+> (a) requiring the trustees or managers of a scheme, in determining or revising a funding and investment strategy, to take into account prescribed matters and follow prescribed principles;
+>
+> (b) as to the level of detail required in a funding and investment strategy;
+>
+> (c) as to the period within which a funding and investment strategy must be determined;
+>
+> (d) requiring a funding and investment strategy to be reviewed, and if necessary revised, at such intervals and on such occasions as may be prescribed.
+>
+> (5) The provision that may be made by virtue of subsection (4)(a) includes provision requiring the trustees or managers, in specifying a funding level for the purposes of subsection (2)(a), to adopt prescribed actuarial methods or assumptions.
+>
+> (6) Where any requirement of this section is not complied with, section 10 of the Pensions Act 1995 (civil penalties) applies to a trustee or manager who has failed to take all reasonable steps to secure compliance.
+>
+> **Statement of strategy**
+>
+> **221B** (1) The trustees or managers must, as soon as reasonably practicable after determining or revising the scheme's funding and investment strategy, prepare a written statement of—
+>
+> (a) the scheme's funding and investment strategy, and
+>
+> (b) the supplementary matters set out in subsection (2).
+>
+> (2) The supplementary matters are—
+>
+> (a) the extent to which, in the opinion of the trustees or managers, the funding and investment strategy is being successfully implemented and, where it is not, the steps they propose to take to remedy the position (including details as to timing);
+>
+> (b) the main risks faced by the scheme in implementing the funding and investment strategy and how the trustees or managers intend to mitigate or manage them;
+>
+> (c) reflections of the trustees or managers on any significant decisions taken by them in the past that are relevant to the funding and investment strategy (including any lessons learned that have affected other decisions or may do so in the future);
+>
+> (d) such other matters as may be prescribed.
+>
+> (3) In this Part—
+>
+> (a) a statement under subsection (1) is referred to as a “statement of strategy”;
+>
+> (b) the text included in a statement of strategy by virtue of subsection (1)(a) is referred to as “Part 1” of the statement;
+>
+> (c) the text included in a statement of strategy by virtue of subsection (1)(b) is referred to as “Part 2” of the statement.
+>
+> (4) The trustees or managers must from time to time, and at such times and on such occasions as may be prescribed—
+>
+> (a) review Part 2 of the scheme's statement of strategy, and
+>
+> (b) if necessary in the light of that review, revise that Part and prepare a replacement statement of strategy incorporating it.
+>
+> (5) The trustees or managers must consult the employer when preparing or revising Part 2 of a statement of strategy.
+>
+> (6) A statement of strategy prepared for a trust scheme must be signed on behalf of the trustees by a person who—
+>
+> (a) is the chair of the trustees, and
+>
+> (b) meets such other conditions as may be prescribed.
+>
+> (7) Where subsection (6) cannot be complied with because the trustees of a trust scheme do not have a chair, they must appoint one.
+>
+> (8) Provision may be made by regulations—
+>
+> (a) requiring the trustees or managers of a scheme, in preparing or revising Part 2 of a statement of strategy, to take into account prescribed matters and follow prescribed principles;
+>
+> (b) as to the level of detail required in Part 2 of a statement of strategy;
+>
+> (c) as to the form of a statement of strategy;
+>
+> (d) requiring the trustees or managers of a scheme to send a statement of strategy to the Regulator at such times and on such occasions as may be prescribed.
+>
+> (9) Where any requirement of this section is not complied with, section 10 of the Pensions Act 1995 (civil penalties) applies to a trustee or manager who has failed to take all reasonable steps to secure compliance.
+
+**3** (1) Section 222 (the statutory funding objective) is amended as follows.
+
+(2) After subsection (2) insert—
+
+> (2A) The scheme's technical provisions shall be calculated in a way that is consistent with the scheme's funding and investment strategy, as set out in the scheme's statement of strategy.
+
+(3) In subsection (3)(b), after “in a prescribed manner and” insert “ , subject to subsection (2A), ”.
+
+**4** (1) Section 224 (actuarial valuations and reports) is amended as follows.
+
+(2) After subsection (7) insert—
+
+> (7A) As soon as reasonably practicable after receiving an actuarial valuation, the trustees or managers must send a copy of it to the Regulator, together with such other information as may be prescribed.
+
+(3) In subsection (8), for “or (7)” substitute “ , (7) or (7A) ”.
+
+**5** In section 226 (recovery plan), after subsection (3) insert—
+
+> (3A) Provision may be made by regulations as to the matters to be taken into account, or the principles to be followed, in determining for the purposes of subsection (3) whether a recovery plan is appropriate having regard to the nature and circumstances of the scheme.
+
+**6** In section 229 (matters requiring agreement of employer), in subsection (1), before paragraph (a) insert—
+
+> (za) the scheme's funding and investment strategy, as set out in the scheme's statement of strategy;
+
+.
+
+**7** (1) Section 231 (powers of the Regulator) is amended as follows.
+
+(2) In subsection (1), before paragraph (za) insert—
+
+> (zza) that the trustees or managers have failed to comply with any of the requirements of section 221A (funding and investment strategy) or regulations under that section;
+
+.
+
+(3) In subsection (2), after paragraph (a) insert—
+
+> (aa) it may give a direction requiring the trustees or managers to revise the scheme's funding and investment strategy in accordance with the direction;
+
+.
+
+### PART 2 — Minor and consequential amendments
+
+**8** The Pensions Act 2004 is amended as follows.
+
+**9** In section 60 (registrable information), in subsection (2), after paragraph (c) insert—
+
+> (ca) in the case of an occupational pension scheme established under a trust, the full name and address of any chair of the trustees;
+
+.
+
+**10** In section 80 (offences of providing false or misleading information), in subsection (1)(a)—
+
+(a) omit the “or” at the end of sub-paragraph (iv);
+
+(b) after that sub-paragraph insert—
+
+> (iva) regulations under section 221B(8)(d) (duty of trustees or managers to provide statement of strategy), or
+
+.
+
+**11** In section 316 (Parliamentary control of subordinate legislation), in subsection (2), after paragraph (i) insert—
+
+> (ia) the first regulations under section 221A(4)(a) and (b) (funding and investment strategy: matters to be taken into account etc and level of detail);
+>
+> (ib) the first regulations under section 221B(2)(d) (Part 2 of statement of strategy: additional matters to be included);
+>
+> (ic) the first regulations under section 221B(8)(a) and (b) (Part 2 of statement of strategy: matters to be taken into account etc and level of detail);
+
+.
+
+## SCHEDULE 11 — Further provision relating to pension schemes: Northern Ireland
+
+*Section 129*
+
+### PART 1 — Funding of defined benefit schemes
+
+#### Amendments of Part 4 of the Pensions (Northern Ireland) Order 2005
+
+**1** Part 4 of the Pensions (Northern Ireland) Order 2005 (S.I. 2005/255 (N.I. 1)) (scheme funding) is amended as follows.
+
+**2** Before Article 201 insert—
+
+> **Funding and investment strategy**
+>
+> **200A** (1) The trustees or managers must determine, and from time to time review and if necessary revise, a strategy for ensuring that pensions and other benefits under the scheme can be provided over the long term.
+>
+> This is referred to in this Part as a “funding and investment strategy”.
+>
+> (2) The strategy must, in particular, specify—
+>
+> (a) the funding level the trustees or managers intend the scheme to have achieved as at the relevant date or relevant dates, and
+>
+> (b) the investments the trustees or managers intend the scheme to hold on the relevant date or relevant dates.
+>
+> (3) In paragraph (2)—
+>
+> (a) “funding level” means the ratio of the scheme's assets to its liabilities;
+>
+> (b) “relevant date” means a date determined in accordance with regulations.
+>
+> (4) Provision may be made by regulations—
+>
+> (a) requiring the trustees or managers of a scheme, in determining or revising a funding and investment strategy, to take into account prescribed matters and follow prescribed principles;
+>
+> (b) as to the level of detail required in a funding and investment strategy;
+>
+> (c) as to the period within which a funding and investment strategy must be determined;
+>
+> (d) requiring a funding and investment strategy to be reviewed, and if necessary revised, at such intervals and on such occasions as may be prescribed.
+>
+> (5) The provision that may be made by virtue of paragraph (4)(a) includes provision requiring the trustees or managers, in specifying a funding level for the purposes of paragraph (2)(a), to adopt prescribed actuarial methods or assumptions.
+>
+> (6) Where any requirement of this Article is not complied with, Article 10 of the 1995 Order (civil penalties) applies to a trustee or manager who has failed to take all reasonable steps to secure compliance.
+>
+> **Statement of strategy**
+>
+> **200B** (1) The trustees or managers must, as soon as reasonably practicable after determining or revising the scheme's funding and investment strategy, prepare a written statement of—
+>
+> (a) the scheme's funding and investment strategy, and
+>
+> (b) the supplementary matters set out in paragraph (2).
+>
+> (2) The supplementary matters are—
+>
+> (a) the extent to which, in the opinion of the trustees or managers, the funding and investment strategy is being successfully implemented and, where it is not, the steps they propose to take to remedy the position (including details as to timing);
+>
+> (b) the main risks faced by the scheme in implementing the funding and investment strategy and how the trustees or managers intend to mitigate or manage them;
+>
+> (c) reflections of the trustees or managers on any significant decisions taken by them in the past that are relevant to the funding and investment strategy (including any lessons learned that have affected other decisions or may do so in the future);
+>
+> (d) such other matters as may be prescribed.
+>
+> (3) In this Part—
+>
+> (a) a statement under paragraph (1) is referred to as a “statement of strategy”;
+>
+> (b) the text included in a statement of strategy by virtue of paragraph (1)(a) is referred to as “Part 1” of the statement;
+>
+> (c) the text included in a statement of strategy by virtue of paragraph (1)(b) is referred to as “Part 2” of the statement.
+>
+> (4) The trustees or managers must from time to time, and at such times and on such occasions as may be prescribed—
+>
+> (a) review Part 2 of the scheme's statement of strategy, and
+>
+> (b) if necessary in the light of that review, revise that Part and prepare a replacement statement of strategy incorporating it.
+>
+> (5) The trustees or managers must consult the employer when preparing or revising Part 2 of a statement of strategy.
+>
+> (6) A statement of strategy prepared for a trust scheme must be signed on behalf of the trustees by a person who—
+>
+> (a) is the chair of the trustees, and
+>
+> (b) meets such other conditions as may be prescribed.
+>
+> (7) Where paragraph (6) cannot be complied with because the trustees of a trust scheme do not have a chair, they must appoint one.
+>
+> (8) Provision may be made by regulations—
+>
+> (a) requiring the trustees or managers of a scheme, in preparing or revising Part 2 of a statement of strategy, to take into account prescribed matters and follow prescribed principles;
+>
+> (b) as to the level of detail required in Part 2 of a statement of strategy;
+>
+> (c) as to the form of a statement of strategy;
+>
+> (d) requiring the trustees or managers of a scheme to send a statement of strategy to the Regulator at such times and on such occasions as may be prescribed.
+>
+> (9) Where any requirement of this Article is not complied with, Article 10 of the 1995 Order (civil penalties) applies to a trustee or manager who has failed to take all reasonable steps to secure compliance.
+
+**3** (1) Article 201 (the statutory funding objective) is amended as follows.
+
+(2) After paragraph (2) insert—
+
+> (2A) The scheme's technical provisions shall be calculated in a way that is consistent with the scheme's funding and investment strategy, as set out in the scheme's statement of strategy.
+
+(3) In paragraph (3)(b), after “in a prescribed manner and” insert “ , subject to paragraph (2A), ”.
+
+**4** (1) Article 203 (actuarial valuations and reports) is amended as follows.
+
+(2) After paragraph (7) insert—
+
+> (7A) As soon as reasonably practicable after receiving an actuarial valuation, the trustees or managers must send a copy of it to the Regulator, together with such other information as may be prescribed.
+
+(3) In paragraph (8), for “or (7)” substitute “ , (7) or (7A) ”.
+
+**5** In Article 205 (recovery plan), after paragraph (3) insert—
+
+> (3A) Provision may be made by regulations as to the matters to be taken into account, or the principles to be followed, in determining for the purposes of paragraph (3) whether a recovery plan is appropriate having regard to the nature and circumstances of the scheme.
+
+**6** In Article 208 (matters requiring agreement of employer), in paragraph (1), before sub-paragraph (a) insert—
+
+> (za) the scheme's funding and investment strategy, as set out in the scheme's statement of strategy;
+
+.
+
+**7** (1) Article 210 (powers of the Regulator) is amended as follows.
+
+(2) In paragraph (1), before sub-paragraph (za) insert—
+
+> (zza) that the trustees or managers have failed to comply with any of the requirements of Article 200A (funding and investment strategy) or regulations under that Article;
+
+.
+
+(3) In paragraph (2), after sub-paragraph (a) insert—
+
+> (aa) it may give a direction requiring the trustees or managers to revise the scheme's funding and investment strategy in accordance with the direction;
+
+.
+
+#### Minor and consequential amendments
+
+**8** The Pensions (Northern Ireland) Order 2005 (S.I. 2005/255 (N.I. 1)) is amended as follows.
+
+**9** In Article 55 (registrable information), in paragraph (2), after sub-paragraph (c) insert—
+
+> (ca) in the case of an occupational pension scheme established under a trust, the full name and address of any chair of the trustees;
+
+.
+
+**10** In Article 75 (offences of providing false or misleading information), in paragraph (1)(a)—
+
+(a) omit the “or” at the end of head (iv);
+
+(b) after that head insert—
+
+> (iva) regulations under Article 200B(8)(d) (duty of trustees or managers to provide statement of strategy), or
+
+.
+
+**11** In Article 288 (Assembly etc control of orders and regulations), in paragraph (3), after sub-paragraph (h) insert—
+
+> (ha) the first regulations under Article 200A(4)(a) and (b) (funding and investment strategy: matters to be taken into account etc and level of detail);
+>
+> (hb) the first regulations under Article 200B(2)(d) (Part 2 of statement of strategy: additional matters to be included);
+>
+> (hc) the first regulations under Article 200B(8)(a) and (b) (Part 2 of statement of strategy: matters to be taken into account etc and level of detail);
+
+.
+
+### PART 2 — Other provision
+
+#### Climate change risk
+
+**12** (1) The Pensions (Northern Ireland) Order 1995 (S.I. 1995/3213 (N.I. 22)) is amended as follows.
+
+(2) After Article 41 insert—
+
+> **Climate change risk**
+>
+> **41A** (1) Regulations may impose requirements on the trustees or managers of an occupational pension scheme of a prescribed description with a view to securing that there is effective governance of the scheme with respect to the effects of climate change.
+>
+> (2) The effects of climate change in relation to which provision may be made under paragraph (1) include, in particular—
+>
+> (a) risks arising from steps taken because of climate change (whether by governments or otherwise), and
+>
+> (b) opportunities relating to climate change.
+>
+> (3) The requirements which may be imposed by the regulations include, in particular, requirements about—
+>
+> (a) reviewing the exposure of the scheme to risks of a prescribed description;
+>
+> (b) assessing the assets of the scheme in a prescribed manner;
+>
+> (c) determining, reviewing and (if necessary) revising a strategy for managing the scheme's exposure to risks of a prescribed description;
+>
+> (d) determining, reviewing and (if necessary) revising targets relating to the scheme's exposure to risks of a prescribed description;
+>
+> (e) measuring performance against such targets;
+>
+> (f) preparing documents containing information of a prescribed description.
+>
+> (4) Regulations under paragraph (3)(b) may, in particular, require—
+>
+> (a) that assets are assessed by reference to their exposure to risks of a prescribed description, and
+>
+> (b) that an assessment includes determining the contribution of the assets of the scheme to climate change.
+>
+> (5) The regulations may require the trustees or managers of the scheme to take into account—
+>
+> (a) different ways in which the climate might change, and
+>
+> (b) different steps that might be taken because of climate change.
+>
+> (6) Regulations under paragraph (5) may require the trustees or managers of the scheme to adopt prescribed assumptions as to future events, including assumptions about—
+>
+> (a) the steps that might be taken for the purpose of achieving the Paris Agreement goal or other climate change goal, or
+>
+> (b) the achievement of the Paris Agreement goal or other climate change goal.
+>
+> (7) In complying with requirements imposed by the regulations, a trustee or manager must have regard to guidance prepared from time to time by the Department.
+>
+> (8) In this Article “the Paris Agreement goal” means the goal of holding the increase in the average global temperature to well below 2°C above pre-industrial levels referred to in Article 2(1)(a) of the agreement done at Paris on 12 December 2015.
+>
+> **Climate change risk: publication of information**
+>
+> **41B** (1) Regulations may require the trustees or managers of an occupational pension scheme of a prescribed description to publish information of a prescribed description relating to the effects of climate change on the scheme (which may include information about matters to which regulations under Article 41A may relate).
+>
+> (2) Regulations under paragraph (1) may, among other things—
+>
+> (a) require the trustees or managers to publish a document of a prescribed description;
+>
+> (b) require information or a document to be made available free of charge;
+>
+> (c) require information or a document to be provided in a form that is or by means that are prescribed or of a prescribed description.
+>
+> (3) In complying with requirements imposed by the regulations, a trustee or manager must have regard to guidance prepared from time to time by the Department.
+>
+> **Articles 41A and 41B: compliance**
+>
+> **41C** (1) Regulations may make provision with a view to ensuring compliance with a provision of regulations under Article 41A or 41B.
+>
+> (2) The regulations may in particular—
+>
+> (a) provide for the Authority to issue a notice (a “compliance notice”) to a person with a view to ensuring the person's compliance with a provision of regulations under Article 41A or 41B;
+>
+> (b) provide for the Authority to issue a notice (a “third party compliance notice”) to a person with a view to ensuring another person's compliance with a provision of regulations under Article 41A or 41B;
+>
+> (c) provide for the Authority to issue a notice (a “penalty notice”) imposing a penalty on a person where the Authority are of the opinion that the person—
+>
+> (i) has failed to comply with a compliance notice or third party compliance notice, or
+>
+> (ii) has contravened a provision of regulations under Article 41A or 41B;
+>
+> (d) provide for the making of a reference to the First-tier Tribunal or Upper Tribunal in respect of the issue of a penalty notice or the amount of a penalty;
+>
+> (e) confer other functions on the Authority.
+>
+> (3) The regulations may make provision for determining the amount, or the maximum amount, of a penalty in respect of a failure or contravention.
+>
+> (4) But the amount of a penalty imposed under the regulations in respect of a failure or contravention must not exceed—
+>
+> (a) £5,000, in the case of an individual, and
+>
+> (b) £50,000, in any other case.
+>
+> (5) In this Article “First-tier Tribunal” and “Upper Tribunal” mean those tribunals established under section 3 of the Tribunals, Courts and Enforcement Act 2007.
+
+(3) In Article 113 (breach of regulations), in paragraph (3)(b), after “10” insert “ or under provision contained in regulations made by virtue of Article 41C ”.
+
+(4) In Article 167 (Assembly, etc. control of orders and regulations), after paragraph (3) insert—
+
+> (3A) Paragraph (2) also applies in relation to the first regulations made by virtue of Article 41A or 41C (whether made alone or with other regulations).
+
+#### Transfer rights: exercise of right to cash equivalent
+
+**13** (1) The Pension Schemes (Northern Ireland) Act 1993 is amended as follows.
+
+(2) In section 91 (ways of taking right to cash equivalent), after subsection (6) insert—
+
+> (6ZA) The trustees or managers of the scheme may not use the cash equivalent in a way specified in subsection (2)(a), (b) or (d), (2A)(a), (b) or (d) or (3) unless prescribed conditions are satisfied.
+>
+> (6ZB) The conditions that may be prescribed by regulations under subsection (6ZA) include (but are not limited to) conditions about—
+>
+> (a) the member's employment or place of residence;
+>
+> (b) providing the trustees or managers with information or evidence about the member's employment or place of residence;
+>
+> (c) the member obtaining information or guidance about exercising the option conferred by subsection (1) from a prescribed person in a prescribed case;
+>
+> (d) providing the trustees or managers with evidence that—
+>
+> (i) the member has complied with a prescribed condition about obtaining such information or guidance from a prescribed person, or
+>
+> (ii) the member is not subject to such a prescribed condition.
+>
+> (6ZC) Regulations may make provision requiring the trustees or managers of a pension scheme to notify a member who makes an application under subsection (1) of conditions prescribed under subsection (6ZA).
+
+(3) In section 94 (loss of right to cash equivalent), in subsection (2), for “95(2A)” substitute “ 95(2ZA) or (2A) ”.
+
+(4) In section 95 (trustees' duties after exercise of option), after subsection (2) insert—
+
+> (2ZA) Subsection (2) does not apply if the trustees or managers have been unable to carry out what the member requires because a condition prescribed by regulations under section 91(6ZA) has not been satisfied.
+
+(5) In section 95, after subsection (2ZA) (inserted by sub-paragraph (4)) insert—
+
+> (2ZB) Subsection (2) does not apply if—
+>
+> (a) the member was required by section 92(4) to give a transfer notice under section 97F(1) in addition to making an application, and
+>
+> (b) the trustees or managers have been unable to carry out what the member required in the transfer notice under section 97F(1) because a condition prescribed by regulations under section 97F(5A) has not been satisfied.
+
+(6) In section 97F (power to give transfer notice), after subsection (5) insert—
+
+> (5A) The trustees or managers of the scheme may not use the amount equal to the cash equivalent for an authorised purpose under subsection (2)(a) or (c) or (3) unless prescribed conditions are satisfied.
+>
+> (5B) The conditions that may be prescribed by regulations under subsection (5A) include (but are not limited to) conditions about—
+>
+> (a) the member's employment or place of residence;
+>
+> (b) providing the trustees or managers with information or evidence about the member's employment or place of residence;
+>
+> (c) the member obtaining information or guidance about exercising the right under subsection (1) from a prescribed person in a prescribed case;
+>
+> (d) providing the trustees or managers with evidence that—
+>
+> (i) the member has complied with a prescribed condition about obtaining such information or guidance from a prescribed person, or
+>
+> (ii) the member is not subject to such a prescribed condition.
+>
+> (5C) Regulations may make provision requiring the trustees or managers of a qualifying scheme to notify an eligible member who gives a transfer notice of conditions prescribed under subsection (5A).
+
+(7) In section 97J (time for compliance with transfer notice), after subsection (2A) insert—
+
+> (2AA) Subsection (1) does not apply if the trustees or managers have been unable to carry out what the member requires because a condition prescribed by regulations under section 97F(5A) has not been satisfied.
+
+(8) In section 97J, after subsection (2AA) (inserted by sub-paragraph (7)) insert—
+
+> (2AB) Subsection (1) does not apply if—
+>
+> (a) the member was required by section 97G(4) to make an application under section 91(1) in addition to giving a transfer notice, and
+>
+> (b) the trustees or managers have been unable to carry out what the member required in the application under section 91(1) because a condition prescribed by regulations under section 91(6ZA) has not been satisfied.
+
+#### The Pension Protection Fund: modification of provisions relating to pensionable service
+
+**14** (1) The amendments of the Pension Protection Fund (Compensation) Regulations (Northern Ireland) 2005 (S.R. (N.I.) 2005 No. 149) made by regulation 2(2) and (3) of the Pension Protection Fund (Pensionable Service) and Occupational Pension Schemes (Investment and Disclosure) (Amendment and Modification) Regulations (Northern Ireland) 2018 (S.R. (N.I.) 2018 No. 165) (“the 2018 Regulations”) are to be deemed always to have had effect.
+
+(2) The amendment of the Pension Protection Fund (Multi-employer Schemes) (Modification) Regulations (Northern Ireland) 2005 (S.R. (N.I.) 2005 No. 91) made by regulation 3 of the 2018 Regulations is to be deemed always to have had effect.
+
+#### Administration charges
+
+**15** (1) In Article 3 of the Welfare Reform and Pensions (Northern Ireland) Order 1999 (S.I. 1999/3147 (N.I. 11)) (meaning of “stakeholder pension scheme”), in paragraph (5) (fourth condition: charge cap)—
+
+(a) for “result in” substitute “constitute”;
+
+(b) after “members” insert “or the making of transfer payments with a view to acquiring rights or entitlements to pension benefits under different pension schemes”.
+
+(2) In Schedule 18 to the Pensions Act (Northern Ireland) 2015 (c. 5 (N.I.)) (power to restrict charges or impose requirements in relation to schemes), in paragraph 1(5), in the definition of “administration charge”—
+
+(a) for “result in” substitute “constitute”;
+
+(b) after “members” insert “or the making of transfer payments with a view to acquiring rights or entitlements to pension benefits under different pension schemes”.
+
+(3) In section 109 of the Pension Schemes (Northern Ireland) Act 1993 (disclosure of information about schemes to members etc)—
+
+(a) in subsection (6)(b), after “the” insert “other”;
+
+(b) in subsection (7), after “or” insert “other”.
+
+#### Categories of pension schemes: repeal of provisions of Pension Schemes Act (Northern Ireland) 2016
+
+**16** In the Pension Schemes Act (Northern Ireland) 2016 (c. 1 (N.I.)), omit—
+
+(a) sections 1 to 7 (Part 1: categories of pension scheme);
+
+(b) sections 8 to 35 (Part 2: pension schemes providing collective benefits);
+
+(c) sections 36, 37, 38(2), (3) and (5) to (7) and 39 to 45 (general changes to legislation about pension schemes);
+
+(d) Schedule 1 (early leavers: revaluation of accrued benefits);
+
+(e) in Schedule 2 (other amendments to do with Parts 1 and 2)—
+
+(i) paragraphs 1 to 19;
+
+(ii) paragraph 21;
+
+(iii) paragraphs 23 to 27;
+
+(iv) paragraphs 29 and 30;
+
+(v) paragraph 32;
+
+(vi) paragraphs 34 to 47.
+
+---
+
+[^F1]: S. 1(3) inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313), regs. 1(3), 3(1)
+[^F2]: Words in s. 3(2) omitted (31.7.2026) by virtue of The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313), regs. 1(3), 3(2)(a)
+[^F3]: S. 3(3) omitted (31.7.2026) by virtue of The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313), regs. 1(3), 3(2)(b)
+[^F4]: Word in s. 8(3)(a) omitted (31.7.2026) by virtue of The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313), regs. 1(3), 4(a)
+[^F5]: S. 8(3)(aa) inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313), regs. 1(3), 4(b)
+[^F6]: S. 8(3A)-(3C) inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313), regs. 1(3), 4(c)
+[^F7]: S. 9(3)(ca)-(cc) inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313), regs. 1(3), 5(a)(i)
+[^F8]: Word in s. 9(3)(e) omitted (31.7.2026) by virtue of The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313), regs. 1(3), 5(a)(ii)
+[^F9]: Word in s. 9(3)(f) inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313), regs. 1(3), 5(a)(iii)
+[^F10]: S. 9(3)(g) inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313), regs. 1(3), 5(a)(iv)
+[^F11]: S. 9(3A) inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313), regs. 1(3), 5(b)
+[^F12]: S. 9(7) inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313), regs. 1(3), 5(c)
+[^F13]: S. 9A inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313), regs. 1(3), 6
+[^F14]: S. 11(2)(ba)-(bd) inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313), regs. 1(3), 7
+[^F15]: S. 13(7A)(7B) inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313), regs. 1(3), 8
+[^F16]: S. 14(3A)-(3C) inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313), regs. 1(3), 9(a)
+[^F17]: Words in s. 14(4)(a) inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313), regs. 1(3), 9(b)
+[^F18]: Ss. 14A-14D inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313), regs. 1(3), 10
+[^F19]: S. 17(2) substituted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313), regs. 1(3), 11(a)
+[^F20]: Words in s. 17(6) substituted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313), regs. 1(3), 11(b)
+[^F21]: S. 17(6A)(6B) inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313), regs. 1(3), 11(c)
+[^F22]: S. 17(7)(7A) substituted for s. 17(7) (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313), regs. 1(3), 11(d)
+[^F23]: S. 17A inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313), regs. 1(3), 12
+[^F24]: S. 26A inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313), regs. 1(3), 13
+[^F25]: S. 28(2)(ba)-(bd) inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313), regs. 1(3), 14
+[^F26]: S. 29(1A) inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313), regs. 1(3), 15(a)
+[^F27]: Words in s. 29(2) inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313), regs. 1(3), 15(b)
+[^F28]: Words in s. 29(4) inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313), regs. 1(3), 15(c)
+[^F29]: S. 29(4A) inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313), regs. 1(3), 15(d)
+[^F30]: Words in s. 29(5) inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313), regs. 1(3), 15(e)(i)
+[^F31]: Words in s. 29(5)(a) inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313), regs. 1(3), 15(e)(ii)
+[^F32]: Words in s. 29(5)(b) inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313), regs. 1(3), 15(e)(iii)
+[^F33]: Words in s. 29(6) inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313), regs. 1(3), 15(f)
+[^F34]: Words in s. 29(7) inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313), regs. 1(3), 15(g)(i)
+[^F35]: Words in s. 29(7) inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313), regs. 1(3), 15(g)(ii)
+[^F36]: Words in s. 29(11) inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313), regs. 1(3), 15(h)(i)
+[^F37]: Word in s. 29(11)(a) inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313), regs. 1(3), 15(h)(ii)
+[^F38]: Word in s. 31(2) substituted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313), regs. 1(3), 16(a)
+[^F39]: Words in s. 31(4) table inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313), regs. 1(3), 16(b)(i)
+[^F40]: Words in s. 31(4) table inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313), regs. 1(3), 16(b)(ii)
+[^F41]: Words in s. 31(4) table inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313), regs. 1(3), 16(b)(iii)
+[^F42]: Words in s. 31(4) table inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313), regs. 1(3), 16(b)(iv)
+[^F43]: Words in s. 31(4) table inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313), regs. 1(3), 16(b)(v)
+[^F44]: S. 31(4A) inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313), regs. 1(3), 16(c)
+[^F45]: Words in s. 31(5) substituted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313), regs. 1(3), 17(1)
+[^F46]: Words in s. 33(2) table inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313), regs. 1(3), 18(a)(i)
+[^F47]: Words in s. 33(2) table inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313), regs. 1(3), 18(a)(ii)(aa)
+[^F48]: Words in s. 33(2) table inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313), regs. 1(3), 18(a)(ii)(bb)
+[^F49]: Words in s. 33(2) table inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313), regs. 1(3), 18(a)(iii)(aa)
+[^F50]: Words in s. 33(2) table inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313), regs. 1(3), 18(a)(iii)(bb)
+[^F51]: Words in s. 33(2) table inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313), regs. 1(3), 18(a)(iv)
+[^F52]: Words in s. 33(2) table inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313), regs. 1(3), 18(a)(v)(aa)
+[^F53]: Words in s. 33(2) table inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313), regs. 1(3), 18(a)(v)(bb)
+[^F54]: Words in s. 33(2) table inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313), regs. 1(3), 18(a)(vi)(aa)
+[^F55]: Words in s. 33(2) table inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313), regs. 1(3), 18(a)(vi)(bb)
+[^F56]: Words in s. 33(2) table inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313), regs. 1(3), 18(a)(vii)
+[^F57]: Words in s. 33(3) substituted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313), regs. 1(3), 18(b)
+[^F58]: S. 33(3A) inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313), regs. 1(3), 18(c)
+[^F59]: S. 33(5A) inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313), regs. 1(3), 18(d)
+[^F60]: Words in s. 33(7) substituted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313), regs. 1(3), 18(e)
+[^F61]: S. 33(7A) inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313), regs. 1(3), 18(f)
+[^F62]: Words in s. 33(9) substituted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313), regs. 1(3), 18(g)
+[^F63]: S. 33(9A) inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313), regs. 1(3), 18(h)
+[^F64]: Words in s. 36(1)(c) substituted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313), regs. 1(3), 17(2)(a)
+[^F65]: S. 36(1)(c)(i)-(iii) inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313), regs. 1(3), 17(2)(b)
+[^F66]: S. 40(5)(d)(iv) inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313), regs. 1(3), 19
+[^F67]: Words in s. 41(2) substituted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313), regs. 1(3), 17(3)
+[^F68]: Words in s. 44(5)(b)(i) inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313), regs. 1(3), 17(4)
+[^F69]: S. 47(4A) inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313), regs. 1(3), 20
+[^F70]: Words in s. 49(1) inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313), regs. 1(3), 21(a)(i)
+[^F71]: Words in s. 49(1) inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313), regs. 1(3), 21(a)(ii)
+[^F72]: Words in s. 49(1) inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313), regs. 1(3), 21(a)(iii)
+[^F73]: Words in s. 49(1) inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313), regs. 1(3), 21(a)(iv)
+[^F74]: Words in s. 49(1) inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313), regs. 1(3), 21(a)(v)
+[^F75]: S. 49(1A) inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313), regs. 1(3), 21(b)
+[^F76]: Words in s. 50 table inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313), regs. 1(3), 22(a)
+[^F77]: Words in s. 50 table inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313), regs. 1(3), 22(b)
+[^F78]: Words in s. 50 table inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313), regs. 1(3), 22(c)
+[^F79]: Words in s. 50 table inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313), regs. 1(3), 22(d)
+[^F80]: Words in s. 50 table inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313), regs. 1(3), 22(e)
+[^F81]: Words in s. 50 table inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313), regs. 1(3), 22(f)
+[^F82]: Words in s. 50 table inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313), regs. 1(3), 22(g)
+[^F83]: Words in s. 50 table inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313), regs. 1(3), 22(h)
+[^F84]: Words in s. 50 table inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313), regs. 1(3), 22(i)
+[^F85]: S. 52(3) inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151), regs. 1(1), 3(1)
+[^F86]: Words in s. 54(2) omitted (31.7.2026) by virtue of The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151), regs. 1(1), 3(2)(a)
+[^F87]: S. 54(3) omitted (31.7.2026) by virtue of The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151), regs. 1(1), 3(2)(b)
+[^F88]: Word in s. 59(3)(a) omitted (31.7.2026) by virtue of The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151), regs. 1(1), 4(a)
+[^F89]: S. 59(3)(aa) inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151), regs. 1(1), 4(b)
+[^F90]: S. 59(3A)-(3C) inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151), regs. 1(1), 4(c)
+[^F91]: S. 60(3)(ca)-(cc) inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151), regs. 1(1), 5(a)(i)
+[^F92]: Word in s. 60(3)(e) omitted (31.7.2026) by virtue of The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151), regs. 1(1), 5(a)(ii)
+[^F93]: Word in s. 60(3)(f) inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151), regs. 1(1), 5(a)(iii)
+[^F94]: S. 60(3)(g) inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151), regs. 1(1), 5(a)(iv)
+[^F95]: S. 60(3A) inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151), regs. 1(1), 5(b)
+[^F96]: S. 60(7) inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151), regs. 1(1), 5(c)
+[^F97]: S. 60A inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151), regs. 1(1), 6
+[^F98]: S. 62(2)(ba)-(bd) inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151), regs. 1(1), 7
+[^F99]: S. 64(7A)(7B) inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151), regs. 1(1), 8
+[^F100]: S. 65(3A)-(3C) inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151), regs. 1(1), 9(a)
+[^F101]: Words in s. 65(4)(a) inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151), regs. 1(1), 9(b)
+[^F102]: Ss. 65A-65D inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151), regs. 1(1), 10
+[^F103]: S. 68(2) substituted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151), regs. 1(1), 11(a)
+[^F104]: Words in s. 68(6) substituted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151), regs. 1(1), 11(b)
+[^F105]: S. 68(6A)(6B) inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151), regs. 1(1), 11(c)
+[^F106]: S. 68(7)(7A) substituted for s. 68(7) (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151), regs. 1(1), 11(d)
+[^F107]: S. 68A inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151), regs. 1(1), 12
+[^F108]: S. 77A inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151), regs. 1(1), 13
+[^F109]: S. 79(2)(ba)-(bd) inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151), regs. 1(1), 14
+[^F110]: S. 80(1A) inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151), regs. 1(1), 15(a)
+[^F111]: Words in s. 80(2) inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151), regs. 1(1), 15(b)
+[^F112]: Words in s. 80(4) inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151), regs. 1(1), 15(c)(i)
+[^F113]: Words in s. 80(4) inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151), regs. 1(1), 15(c)(ii)
+[^F114]: S. 80(4A) inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151), regs. 1(1), 15(d)
+[^F115]: Words in s. 80(5) inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151), regs. 1(1), 15(e)(i)
+[^F116]: Words in s. 80(5)(a) inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151), regs. 1(1), 15(e)(ii)
+[^F117]: Words in s. 80(5)(b) inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151), regs. 1(1), 15(e)(iii)
+[^F118]: Words in s. 80(6) inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151), regs. 1(1), 15(f)
+[^F119]: Words in s. 80(7) inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151), regs. 1(1), 15(g)(i)
+[^F120]: Words in s. 80(7) inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151), regs. 1(1), 15(g)(ii)
+[^F121]: Words in s. 80(11) inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151), regs. 1(1), 15(h)(i)
+[^F122]: Word in s. 80(11)(a) inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151), regs. 1(1), 15(h)(ii)
+[^F123]: Word in s. 82(2) substituted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151), regs. 1(1), 16(a)
+[^F124]: Words in s. 82(4) table inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151), regs. 1(1), 16(b)(i)
+[^F125]: Words in s. 82(4) table inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151), regs. 1(1), 16(b)(ii)
+[^F126]: Words in s. 82(4) table inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151), regs. 1(1), 16(b)(iii)
+[^F127]: Words in s. 82(4) table inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151), regs. 1(1), 16(b)(iv)
+[^F128]: Words in s. 82(4) table inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151), regs. 1(1), 16(b)(v)
+[^F129]: S. 82(4A) inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151), regs. 1(1), 16(c)
+[^F130]: Words in s. 82(5) substituted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151), regs. 1(1), 17(1)
+[^F131]: Words in s. 84(2) table inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151), regs. 1(1), 18(a)(i)
+[^F132]: Words in s. 84(2) table inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151), regs. 1(1), 18(a)(ii)(aa)
+[^F133]: Words in s. 84(2) table inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151), regs. 1(1), 18(a)(ii)(bb)
+[^F134]: Words in s. 84(2) table inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151), regs. 1(1), 18(a)(iii)(aa)
+[^F135]: Words in s. 84(2) table inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151), regs. 1(1), 18(a)(iii)(bb)
+[^F136]: Words in s. 84(2) table inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151), regs. 1(1), 18(a)(iv)
+[^F137]: Words in s. 84(2) table inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151), regs. 1(1), 18(a)(v)(aa)
+[^F138]: Words in s. 84(2) table inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151), regs. 1(1), 18(a)(v)(bb)
+[^F139]: Words in s. 84(2) table inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151), regs. 1(1), 18(a)(vi)(aa)
+[^F140]: Words in s. 84(2) table inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151), regs. 1(1), 18(a)(vi)(bb)
+[^F141]: Words in s. 84(2) table inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151), regs. 1(1), 18(a)(vii)
+[^F142]: Words in s. 84(3) substituted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151), regs. 1(1), 18(b)
+[^F143]: S. 84(3A) inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151), regs. 1(1), 18(c)
+[^F144]: S. 84(5A) inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151), regs. 1(1), 18(d)
+[^F145]: Words in s. 84(7) substituted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151), regs. 1(1), 18(e)
+[^F146]: S. 84(7A) inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151), regs. 1(1), 18(f)
+[^F147]: Words in s. 84(9) substituted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151), regs. 1(1), 18(g)
+[^F148]: S. 84(9A) inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151), regs. 1(1), 18(h)
+[^F149]: Words in s. 87(1)(c) substituted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151), regs. 1(1), 17(2)(a)
+[^F150]: Words in s. 87(1)(c) substituted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151), regs. 1(1), 17(2)(b)
+[^F151]: S. 91(5)(d)(iv) inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151), regs. 1(1), 19
+[^F152]: Words in s. 92(2) substituted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151), regs. 1(1), 17(3)
+[^F153]: Words in s. 95(5)(b)(i) inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151), regs. 1(1), 17(4)
+[^F154]: S. 98(4A) inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151), regs. 1(1), 20
+[^F155]: Words in s. 100(1) inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151), regs. 1(1), 21(a)(i)
+[^F156]: Words in s. 100(1) inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151), regs. 1(1), 21(a)(ii)
+[^F157]: Words in s. 100(1) inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151), regs. 1(1), 21(a)(iii)
+[^F158]: Words in s. 100(1) inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151), regs. 1(1), 21(a)(iv)
+[^F159]: Words in s. 100(1) inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151), regs. 1(1), 21(a)(v)
+[^F160]: S. 100(1A) inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151), regs. 1(1), 21(b)
+[^F161]: Words in s. 101 table inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151), regs. 1(1), 22(a)
+[^F162]: Words in s. 101 table inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151), regs. 1(1), 22(b)
+[^F163]: Words in s. 101 table inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151), regs. 1(1), 22(c)
+[^F164]: Words in s. 101 table inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151), regs. 1(1), 22(d)
+[^F165]: Words in s. 101 table inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151), regs. 1(1), 22(e)
+[^F166]: Words in s. 101 table inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151), regs. 1(1), 22(f)
+[^F167]: Words in s. 101 table inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151), regs. 1(1), 22(g)
+[^F168]: Words in s. 101 table inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151), regs. 1(1), 22(h)
+[^F169]: Words in s. 101 table inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151), regs. 1(1), 22(i)
+[^F170]: Schs. 1A-1C inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313), regs. 1(3), 23
+[^F171]: Words in Sch. 2 para. 4(3)(c) inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313), regs. 1(3), 17(5)
+[^F172]: Schs. 4A-4C inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151), regs. 1(1), 23
+[^F173]: Words in Sch. 5 para. 4(3)(c) inserted (31.7.2026) by The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151), regs. 1(1), 17(5)

@@ -1,0 +1,5416 @@
+---
+title: "Football Governance Act 2025"
+identifier: "ukpga/2025/21"
+citation: "2025 Chapter 21"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W"
+date: 2025-07-21
+last_amended: 2026-07-01
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/2025/21"
+source_modified: 2026-07-13
+retrieved: 2026-10-11
+---
+
+# Football Governance Act 2025
+
+**2025 Chapter 21**
+
+An Act to establish the Independent Football Regulator; to make provision for the licensing of football clubs; to make provision about the distribution of revenue received by organisers of football competitions; and for connected purposes.
+
+[21st July 2025]
+
+Be it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## Part 1 — Purpose, overview and key definitions
+
+### 1 Purpose and overview
+
+(1) The purpose of this Act is to protect and promote the sustainability of English football.
+
+(2) For that purpose—
+
+(a) Part 2 establishes the Independent Football Regulator (referred to in this Act as “the IFR”) and makes provision about the exercise of its functions;
+
+(b) Part 3 makes provision for the IFR to grant operating licences to football clubs;
+
+(c) Part 4 provides for the IFR to make determinations about whether persons are suitable to be owners or officers of football clubs;
+
+(d) Part 5 imposes various duties on football clubs, the owners and officers of football clubs and the organisers of football competitions;
+
+(e) Part 6 provides a mechanism whereby the IFR can make an order requiring the organiser of a football competition to distribute revenue received by that organiser;
+
+(f) Parts 7 and 8 make provision about the investigation and enforcement powers of the IFR;
+
+(g) Part 9 makes provision about reviews of and appeals from decisions of the IFR;
+
+(h) Part 10 makes general provision, including about the disclosure of information by and to the IFR.
+
+(3) For the purposes of this section, English football is sustainable if it—
+
+(a) continues to serve the interests of fans of regulated clubs, and
+
+(b) continues to contribute to the economic or social well-being of the local communities with which regulated clubs are associated.
+
+(4) For the meanings of “English football”, “regulated club” and for other key terms used in this Act, see section 2.
+
+### 2 Key definitions
+
+(1) In this Act—
+
+- “club” or “football club” means a body that operates a team;
+- “competition”, in relation to football, means a league (or a division of a league), a cup, a tournament or any other competition;
+- “competition organiser” means a body that organises a competition;
+- “English football” means all regulated clubs and all specified competitions, taken together;
+- “football” means association football;
+- “the IFR” means the Independent Football Regulator;
+- “licensed club” means a club that holds an operating licence;
+- “operating licence” means a provisional operating licence or a full operating licence (see section 15);
+- “regulated club” means a club that operates a relevant team (whether or not the club is a licensed club);
+- “relevant team” means a team that is entered into, is a member of, or participates in a specified competition;
+- “specified competition” means a competition specified in regulations under subsection (3);
+- “specified competition organiser” means a body that organises a specified competition;
+- “team” means a football team.
+
+(2) For the purposes of this Act, a club “operates” a team if it is responsible for the team’s entry into, membership of, or participation in a competition.
+
+(3) The Secretary of State may by regulations specify a competition; but the Secretary of State may not specify a competition unless the teams that are entered into it, or that are members of it, or that participate in it are exclusively or predominantly English teams.
+
+(4) For the purposes of subsection (3), a team is an “English team” if the ground at which the team customarily plays its home matches is in England.
+
+(5) Before making regulations under subsection (3) the Secretary of State—
+
+(a) must assess whether it would be appropriate to exercise the power and, if so, how,
+
+(b) in carrying out the assessment, must consult—
+
+(i) the IFR,
+
+(ii) the Football Association, and
+
+(iii) any other persons the Secretary of State considers appropriate, and
+
+(c) must publish and lay before Parliament a report on the outcome of the assessment.
+
+(6) Subsection (5) does not apply in respect of the first regulations made under subsection (3).
+
+(7) Sections 3, 4, 26, 56, 67 and 92 define other terms used in this Act.
+
+### 3 Meaning of “owner” etc
+
+(1) In this Act, references to an “owner” of a club are to be construed in accordance with Schedule 1.
+
+(2) For the purposes of this Act, a club’s “ultimate owner” is—
+
+(a) where the club has only one owner, that owner;
+
+(b) where the club has more than one owner and one owner exercises a higher degree of influence or control over the activities of the club than any other owner, that owner;
+
+(c) in any other case, each owner of the club who exercises a degree of influence or control over the activities of the club that—
+
+(i) is the same as another owner, and
+
+(ii) where there are other owners, is a higher degree of influence or control than any other owner.
+
+### 4 Meanings of “officer” and “senior manager” etc
+
+(1) For the purposes of this Act, a person is an “officer” of a club if—
+
+(a) the person is a senior manager of the club, or
+
+(b) in any other case, the following table identifies the person as an officer of the club—
+
+| *Where the club is—* | *the person is an officer of the club if—* |
+|---|---|
+| a company | the person is a director of the company |
+| a body corporate other than a company | the person is an officer of the body whose functions correspond to those of a director of a company |
+| a partnership | - in relation to a limited partnership, the person is a general partner as defined by section 3 of the Limited Partnerships Act 1907;<br>- in relation to any other partnership, the person is a member of the partnership |
+| an unincorporated body other than a partnership | the person is an officer of the body or a member of the body’s governing body |
+
+(2) For the purposes of this Act, a person is also an “officer” of a club if the person—
+
+(a) purports to act as an officer of the club (within the meaning of subsection (1)), or
+
+(b) is a person in accordance with whose directions, instructions, guidance or advice an officer of the club (within the meaning of subsection (1) or paragraph (a)) is accustomed to act.
+
+(3) But a person is not to be regarded as an officer of a club by virtue of subsection (2)(b) by reason only that an officer of the club (within the meaning of subsection (1) or (2)(a)) acts—
+
+(a) on advice given by that person in a professional capacity;
+
+(b) in accordance with instructions, a direction, guidance or advice given by that person in the exercise of a function conferred by or under an enactment;
+
+(c) in accordance with guidance or advice given by that person in their capacity as a Minister of the Crown (within the meaning of the Ministers of the Crown Act 1975).
+
+(4) For the purposes of this Act, a person is a “senior manager” of a club if, in relation to the carrying on of the club’s activities, the person carries out a senior management function specified, or of a description specified, for the purposes of this section.
+
+(5) For the purposes of this Act—
+
+(a) a function is a “senior management function” in relation to the carrying on of a club’s activities if—
+
+(i) the function requires a person carrying out the function to be responsible for managing one or more aspects of the club’s affairs, and
+
+(ii) those aspects are such that the way in which they are managed could give rise to serious consequences for the club;
+
+(b) the reference in paragraph (a)(i) to managing one or more aspects of a club’s affairs includes taking, or participating in the taking of, decisions about how one or more aspects of those affairs should be carried on.
+
+(6) In this section, “specified” means specified by the IFR in rules.
+
+(7) This section is subject to section 42(9) (persons appointed as officers by the IFR not to be treated as officers for the purposes of this Act).
+
+## Part 2 — The Independent Football Regulator
+
+### The Independent Football Regulator
+
+#### 5 Establishment of the IFR
+
+(1) A body corporate called the Independent Football Regulator is established.
+
+(2) Schedule 2 contains further provision about the IFR.
+
+#### 6 The IFR’s objectives
+
+The IFR’s objectives are—
+
+(a) to protect and promote the financial soundness of regulated clubs (referred to in this Act as “the club financial soundness objective”);
+
+(b) to protect and promote the financial resilience of English football (referred to in this Act as “the systemic financial resilience objective”);
+
+(c) to safeguard the heritage of English football (referred to in this Act as “the heritage objective”).
+
+#### 7 The IFR’s general duties etc
+
+(1) The IFR must, so far as reasonably practicable, exercise its functions under this Act in a way that—
+
+(a) is compatible with the purpose of this Act (see section 1), and
+
+(b) advances one or more of the IFR’s objectives (see section 6).
+
+(2) The IFR must have regard to the desirability of exercising those functions in a way that avoids any—
+
+(a) effects on the sporting competitiveness of any regulated club against another regulated club;
+
+(b) adverse effects on the competitiveness of regulated clubs against other clubs;
+
+(c) adverse effects on the financial growth of, or financial investment in, English football.
+
+(3) In exercising those functions, the IFR must also have regard to the following (so far as they are relevant to the exercise of those functions)—
+
+(a) its regulatory principles (see section 8);
+
+(b) its most recent state of the game report (see section 10);
+
+(c) the most recent football governance statement published by the Secretary of State (see section 11);
+
+(d) any guidance published by it (see section 12);
+
+(e) any guidance published by the Secretary of State (see section 13).
+
+(4) The IFR must keep under review the extent to which persons are complying with obligations imposed on them under or by virtue of this Act.
+
+#### 8 The IFR’s regulatory principles
+
+The IFR’s regulatory principles are that—
+
+(a) it should use its resources in the most efficient, expedient and economic way;
+
+(b) it should, so far as reasonably practicable, co-operate, and proactively and constructively engage, with—
+
+(i) persons on whom it may impose requirements or restrictions, namely clubs, owners, senior managers and other officers of clubs, and competition organisers, and
+
+(ii) other persons who may be affected by its decisions, including players and fans;
+
+(c) it should, before it imposes any requirement or restriction on a person, have regard to whether the requirement or restriction is necessary and whether a similar outcome could be achieved by less burdensome means;
+
+(d) any requirement or restriction imposed by it on a person should be proportionate to the benefits which are expected to result from that requirement or restriction;
+
+(e) it should act in a way that has regard to the specific context of football and the fact that clubs are subject to rules, requirements and restrictions imposed by competition organisers by virtue of teams operated by those clubs being entered into, being members of, or participating in competitions organised by those organisers;
+
+(f) it should act consistently (subject to it recognising the differences between clubs and competitions and the differences between the circumstances affecting clubs and competitions);
+
+(g) it should act in a way that recognises the responsibilities of owners, senior managers and other officers of clubs in relation to the requirements placed on clubs under or by virtue of this Act;
+
+(h) it should act as transparently as reasonably practicable.
+
+#### 9 Transfer schemes
+
+Schedule 3 contains provision about schemes for the transfer of staff and property, rights and liabilities to the IFR.
+
+### Reports, statements and guidance
+
+#### 10 State of the game report
+
+(1) The IFR must prepare and publish a report (a “state of the game report”) on the state of English football so far as relevant to the exercise of the IFR’s functions under this Act.
+
+(2) A state of the game report must include—
+
+(a) an overview of the main issues that the IFR considers to be affecting English football,
+
+(b) an assessment of whether any feature, or combination of features, of English football jeopardises, or risks jeopardising, the IFR’s ability to advance one or more of its objectives, and
+
+(c) information about any other matters relating to the state of English football, so far as relevant to the exercise of the IFR’s functions under this Act, that the IFR considers appropriate.
+
+(3) The first state of the game report must be published as soon as reasonably practicable and in any event no later than the end of the period of 18 months beginning with the day on which the first regulations made under section 2(3) come into force.
+
+(4) Each subsequent state of the game report must be published before the end of the period of five years beginning with the day on which the previous report is published.
+
+(5) Before publishing a state of the game report, the IFR must—
+
+(a) publish a notice—
+
+(i) stating that it intends to prepare a report, and
+
+(ii) inviting suggestions about matters to be included in the report,
+
+(b) prepare a draft report, having regard to any suggestions made within the period specified in the notice, and
+
+(c) consult the following about the draft report—
+
+(i) the Football Association;
+
+(ii) each specified competition organiser;
+
+(iii) such other persons as the IFR considers appropriate.
+
+#### 11 Football governance statement
+
+(1) The Secretary of State may prepare a statement (“a football governance statement”) setting out the policies of His Majesty’s Government in the United Kingdom that relate to the governance of football.
+
+(2) But a football governance statement may not contain any policies that are inconsistent with the purpose of this Act or with the IFR’s objectives.
+
+(3) The Secretary of State may revise any football governance statement.
+
+(4) But the Secretary of State may not revise any football governance statement more frequently than every five years unless—
+
+(a) a Parliamentary general election has taken place,
+
+(b) there has been a significant change in the policy of His Majesty’s Government in the United Kingdom relating to football, or
+
+(c) the Secretary of State considers that the statement, or any part of it, is inconsistent with the purpose of this Act or with the IFR’s objectives.
+
+(5) The Secretary of State must publish any football governance statement, or any revised statement, prepared under this section.
+
+(6) The Secretary of State must lay any football governance statement, or any revised statement, published under this section before Parliament.
+
+#### 12 Guidance published by the IFR
+
+(1) The IFR must prepare guidance about the exercise of its functions under sections 21 to 25 (discretionary licence conditions).
+
+(2) Guidance prepared under subsection (1) must include a statement of the outcomes the IFR expects or seeks to achieve in exercising those functions.
+
+(3) The IFR may prepare guidance about any of its other functions under this Act.
+
+(4) The IFR may revise any guidance prepared under this section.
+
+(5) The IFR must publish any guidance, or any revised guidance, prepared under this section.
+
+(6) The IFR must consult such persons as the IFR considers appropriate before publishing—
+
+(a) the first guidance about any of its functions, or
+
+(b) revised guidance about any of its functions, unless the revisions are minor.
+
+#### 13 Guidance published by the Secretary of State
+
+(1) The Secretary of State may prepare guidance about the exercise of the IFR’s functions under this Act.
+
+(2) The Secretary of State may revise any guidance prepared under this section.
+
+(3) But the Secretary of State may not revise any guidance prepared under this section more frequently than every three years unless—
+
+(a) the Secretary of State considers that the guidance needs to be revised because of an amendment, repeal or modification of any provision of this Act, or
+
+(b) the revision is agreed between the Secretary of State and the IFR.
+
+(4) The Secretary of State must publish any guidance, or any revised guidance, prepared under this section.
+
+(5) The Secretary of State must consult the IFR and such other persons as the Secretary of State considers appropriate before publishing—
+
+(a) guidance under this section, or
+
+(b) revised guidance under this section, unless the revisions are minor.
+
+(6) The Secretary of State must lay any guidance, or revised guidance, published under this section before Parliament.
+
+#### 14 Annual report
+
+(1) As soon as reasonably practicable after the end of each financial year, the IFR must submit to the Secretary of State an annual report on the exercise of its functions during the year.
+
+(2) The report must include—
+
+(a) a summary of the activities undertaken by the IFR during that year, and
+
+(b) such other information as the Secretary of State may direct the IFR to include in the report.
+
+(3) The IFR must arrange for a copy of every report under this section to be laid before Parliament by the Secretary of State.
+
+(4) In this section, “financial year” means—
+
+(a) the period beginning with the day on which this section comes into force and ending with 31 March in the following year, and
+
+(b) each successive period of 12 months.
+
+## Part 3 — Operating licences
+
+### Operating licences
+
+#### 15 Operating licences
+
+(1) A club may not operate a relevant team unless it holds either—
+
+(a) a provisional operating licence, or
+
+(b) a full operating licence.
+
+(2) A provisional operating licence authorises a club to operate a relevant team on a provisional basis prior to the grant of a full operating licence.
+
+(3) A full operating licence authorises a club to operate a relevant team on an ongoing basis.
+
+(4) The IFR may, in accordance with the provisions of this Part—
+
+(a) grant a provisional operating licence to a club that applies for one under section 16;
+
+(b) grant a full operating licence to a club that holds a provisional operating licence (see section 18).
+
+(5) An operating licence must specify—
+
+(a) the club to which it relates,
+
+(b) each relevant team operated by the club,
+
+(c) the conditions attached to the licence by the IFR under section 20,
+
+(d) any conditions attached to the licence by the IFR under section 21, and
+
+(e) such other information as may be specified by the IFR in rules.
+
+(6) The IFR must specify the form of an operating licence in rules.
+
+#### 16 Application for provisional operating licence
+
+(1) A club may apply to the IFR for a provisional operating licence.
+
+(2) The IFR must specify in rules—
+
+(a) the time by which an application must be made, and
+
+(b) the manner and form in which an application must be made.
+
+(3) An application must be accompanied by—
+
+(a) a personnel statement (see subsection (4)) and a statement explaining why the club considers the personnel statement to be accurate,
+
+(b) a strategic business plan (see subsection (5)), and
+
+(c) such other information and documents as may be specified by the IFR in rules.
+
+(4) A “personnel statement” is a statement—
+
+(a) identifying each of the club’s owners and officers,
+
+(b) identifying the club’s ultimate owner,
+
+(c) setting out the job title of, or a description of the role performed by, each of the club’s officers, and
+
+(d) setting out the specified senior management functions performed by each of the club’s officers who is a senior manager.
+
+(5) A “strategic business plan” is a document containing—
+
+(a) information, in respect of the relevant period, about—
+
+(i) the proposed operation of the club,
+
+(ii) the estimated costs of that operation,
+
+(iii) how those costs are to be funded, and
+
+(iv) the source of such funding, and
+
+(b) such other information as may be specified by the IFR in rules.
+
+(6) For the purposes of subsection (5)(a), the “relevant period” means the period—
+
+(a) beginning with the day on which the application under this section is made, and
+
+(b) ending no earlier than the end of the next football season after the application is made.
+
+#### 17 Grant of provisional operating licence
+
+(1) This section applies where a club applies for a provisional operating licence under section 16.
+
+(2) The IFR must grant the club a provisional operating licence if it is satisfied that the club would—
+
+(a) operate a relevant team,
+
+(b) comply with the mandatory licence conditions (see section 20), and
+
+(c) comply with sections 45 to 53 (duties on clubs).
+
+(3) The IFR—
+
+(a) must specify in the provisional operating licence the period for which it has effect, which may be no more than three years;
+
+(b) must notify the club of the grant of the licence.
+
+(4) If the IFR is not satisfied of the matters in subsection (2), it must give the club a notice—
+
+(a) stating that it proposes to refuse to grant the provisional operating licence,
+
+(b) explaining why it proposes to refuse to grant the licence,
+
+(c) inviting the club to make representations about the proposed refusal, and
+
+(d) specifying the means by which, and the period within which, such representations must be made,
+
+and must have regard to any representations which are duly made.
+
+(5) The period specified in the notice for making representations must be a period of not less than 14 days beginning with the day on which the notice is given.
+
+(6) After complying with subsection (4), the IFR must—
+
+(a) grant the provisional operating licence and notify the club of the grant, or
+
+(b) refuse to grant the licence and notify the club of the refusal, giving reasons for it.
+
+(7) The IFR may not grant a club a provisional operating licence under this section except as mentioned in subsection (2).
+
+(8) Where the IFR grants a club a provisional operating licence under this section the IFR must specify in the notice under subsection (3)(b) or (6)(a) (as the case may be) the day on which the licence comes into force, which may not be before the day on which the club operates a relevant team.
+
+(9) The IFR must specify in rules—
+
+(a) the period within which it must make the decision whether to grant the club a provisional operating licence,
+
+(b) any circumstances in which it may extend that period, and
+
+(c) the maximum period for which that period may be extended.
+
+#### 18 Grant of full operating licence
+
+(1) Where a club holds a provisional operating licence, the IFR must decide whether to grant the club a full operating licence—
+
+(a) before the end of the period specified by virtue of section 17(3)(a), or
+
+(b) if applicable, before the end of the further period specified by virtue of subsection (6)(b).
+
+(2) The IFR—
+
+(a) must grant a club a full operating licence if the full licence test is met in relation to the club;
+
+(b) must notify the club of the grant of the licence.
+
+(3) The “full licence test” is met in relation to a club if—
+
+(a) the IFR is satisfied that the club—
+
+(i) is operating a relevant team,
+
+(ii) meets the threshold requirements set out in Schedule 4, and
+
+(iii) complies and would continue to comply with the mandatory licence conditions (see section 20) and sections 45 to 53 (duties on clubs), and
+
+(b) the IFR has not determined, and is not treated as having determined, under Part 4 that any person who is an owner or officer of the club is not suitable to be an owner or officer of the club.
+
+(4) If the IFR considers that the full licence test is not met in relation to the club, the IFR must give the club a notice—
+
+(a) stating that it proposes to—
+
+(i) refuse to grant the full operating licence, and
+
+(ii) take action under subsection (6)(b) or section 19,
+
+(b) explaining why it proposes to take such action,
+
+(c) inviting the club to make representations about the proposed action, and
+
+(d) specifying the means by which, and the period within which, such representations must be made,
+
+and must have regard to any representations which are duly made.
+
+(5) The period specified by virtue of subsection (4)(d) must be a period of not less than 14 days beginning with the day on which the notice under subsection (4) is given.
+
+(6) Subject to section 19, after complying with subsection (4) the IFR must—
+
+(a) where the IFR considers that the full licence test is met in relation to the club, grant the club a full operating licence and notify the club of the grant, or
+
+(b) where the IFR considers that the full licence test would be met in relation to the club within a reasonable period if more time is given for the test to be met, specify a further period for which the club’s provisional operating licence is to have effect.
+
+(7) A further period specified by virtue of subsection (6)(b) must be such period as the IFR considers sufficient to enable the full licence test to be met in relation to the club.
+
+(8) The IFR may not grant a club a full operating licence under this section other than where it considers that the full licence test is met in relation to the club.
+
+(9) Where the IFR grants a club a full operating licence under this section the IFR must specify in the notice under subsection (2)(b) or (6)(a) (as the case may be) the day on which the licence comes into force, at which time the club’s provisional operating licence ceases to have effect.
+
+#### 19 Revocation and cessation of operating licence
+
+(1) The IFR may revoke a club’s provisional operating licence if—
+
+(a) the full licence test (as defined in section 18(3)) is not met in relation to the club, and
+
+(b) the IFR considers that—
+
+(i) the club has persistently and without reasonable excuse failed to take such steps as are reasonable for that test to be met in relation to the club, and
+
+(ii) there is no reasonable prospect of the test being met in relation to the club within a reasonable period even if the club were given more time for the test to be met.
+
+(2) For the purposes of subsection (1)(b)(i), a club’s failure is persistent if the failure has occurred on a sufficient number of occasions for it to be clear that it represents a pattern of behaviour or practice.
+
+(3) Where the IFR revokes a club’s provisional operating licence under subsection (1) the IFR must give the club a notice—
+
+(a) stating that it is revoking the club’s provisional operating licence from a date specified in the notice, and
+
+(b) explaining why it is revoking the club’s licence.
+
+(4) Where a notice under subsection (3) is given during a football season, the date specified for the purposes of subsection (3)(a) may not be a date before the end of that season.
+
+(5) See paragraphs 8 and 9 of Schedule 9 for further provision about the circumstances in which the IFR can revoke a club’s operating licence.
+
+(6) An operating licence ceases to have effect if the club holding the licence ceases to operate a relevant team.
+
+### Licence conditions
+
+#### 20 Mandatory licence conditions
+
+Schedule 5—
+
+(a) sets out the licence conditions (referred to in this Act as the “mandatory licence conditions”) that the IFR must attach to each club’s operating licence, and
+
+(b) makes provision about those conditions.
+
+#### 21 Discretionary licence conditions
+
+(1) The IFR may attach licence conditions other than mandatory licence conditions to a club’s operating licence.
+
+(2) A condition attached under subsection (1) is referred to in this Act as a “discretionary licence condition”.
+
+(3) The IFR may attach a discretionary licence condition to an operating licence only if the IFR is satisfied that compliance with the condition would—
+
+(a) in the case of a provisional operating licence, ensure that the club will meet, or contribute towards the club meeting, the threshold requirements set out in Schedule 4 before the end of the period for which the provisional operating licence has effect;
+
+(b) in the case of a full operating licence—
+
+(i) ensure that the club will meet, or will continue to meet, or
+
+(ii) contribute towards the club meeting, or continuing to meet,
+
+the threshold requirements;
+
+(c) in the case of a provisional or full operating licence, advance the IFR’s systemic financial resilience objective.
+
+(4) The IFR may vary a discretionary licence condition where—
+
+(a) either—
+
+(i) the IFR considers that the condition is no longer effective, or
+
+(ii) there has been a material change in circumstances affecting the club since the condition was attached to the operating licence or previously varied, and
+
+(b) the condition as varied meets a requirement in subsection (3).
+
+(5) Subsections (3) and (4) are subject to sections 22 to 25.
+
+(6) The IFR must—
+
+(a) remove a discretionary licence condition where the IFR considers that the condition is no longer necessary, and
+
+(b) notify the club concerned about the removal.
+
+(7) A club may apply to the IFR for the variation or removal of a discretionary licence condition.
+
+(8) An application under subsection (7) must explain why the variation or removal is sought.
+
+(9) Where a discretionary licence condition is attached to an operating licence, varied or removed, the IFR must specify in the licence the time from which the attached condition, variation or removal has effect.
+
+#### 22 Scope of powers to attach or vary discretionary licence conditions
+
+(1) A discretionary licence condition relating to the financial resources threshold requirement (see paragraph 2 of Schedule 4) may only—
+
+(a) relate to debt management,
+
+(b) relate to liquidity requirements,
+
+(c) restrict the club’s overall expenditure, or
+
+(d) restrict the club’s ability to accept or receive funding which the IFR reasonably suspects to be connected to serious criminal conduct.
+
+(2) A discretionary licence condition relating to the non-financial resources threshold requirement (see paragraph 3 of Schedule 4) may only relate to—
+
+(a) internal controls,
+
+(b) risk management, or
+
+(c) financial reporting.
+
+(3) A discretionary licence condition relating to the advancement of the IFR’s systemic financial resilience objective may only—
+
+(a) relate to debt management,
+
+(b) relate to liquidity requirements, or
+
+(c) restrict the club’s overall expenditure.
+
+(4) A discretionary licence condition attached in reliance on subsection (1)(c) or (3)(c) may not impose restrictions on expenditure of a particular kind or a particular transaction.
+
+(5) The Secretary of State may by regulations amend subsection (1), (2) or (3) to add, vary or remove an item.
+
+(6) The Secretary of State may make regulations under subsection (5) only if requested in writing to do so by the IFR.
+
+(7) A request under subsection (6) must explain why the IFR considers that the making of regulations under this section is compatible with the purpose of this Act.
+
+(8) Before submitting a request under subsection (6), the IFR must consult—
+
+(a) all regulated clubs,
+
+(b) each specified competition organiser, and
+
+(c) such other persons as the IFR considers appropriate.
+
+#### 23 Procedure for attaching or varying financial discretionary licence conditions
+
+(1) This section applies to a discretionary licence condition relating to—
+
+(a) the financial resources threshold requirement, or
+
+(b) the advancement of the IFR’s systemic financial resilience objective.
+
+(2) Before attaching or varying a discretionary licence condition to which this section applies, the IFR must give a notice about the proposed condition or variation to—
+
+(a) the club, and
+
+(b) the specified competition organiser which organises a specified competition in relation to which a relevant team is operated by the club.
+
+(3) The notice must—
+
+(a) give details of the proposed condition or variation,
+
+(b) explain why the IFR is proposing to attach the condition or make the variation,
+
+(c) invite—
+
+(i) the club and the specified competition organiser to make representations about the proposed condition or variation, and
+
+(ii) the specified competition organiser to give a commitment to take action in lieu of the proposed condition or variation, and
+
+(d) specify the means by which, and the period within which, such representations must be made or such a commitment must be given.
+
+(4) The period specified in the notice for making representations or giving a commitment must be a period of not less than 14 days beginning with the day on which the notice is given.
+
+(5) The IFR must—
+
+(a) have regard to any representations which are duly made, and
+
+(b) where the specified competition organiser gives a commitment mentioned in subsection (3)(c)(ii) within the period specified in the notice, consider whether to accept that commitment.
+
+(6) This section does not apply where—
+
+(a) a club applies for a variation under section 21(7), or
+
+(b) the IFR considers that compliance with this section would jeopardise, or risk jeopardising, the IFR’s ability to advance one or more of its objectives.
+
+#### 24 Commitments in lieu of financial discretionary licence conditions
+
+(1) This section applies where a specified competition organiser gives a commitment mentioned in section 23(3)(c)(ii) (commitment to take action in lieu of the proposed condition or variation).
+
+(2) The IFR may accept the commitment if it considers that—
+
+(a) compliance with the commitment by the specified competition organiser would mean that it would not be necessary to attach the proposed discretionary licence condition or make the proposed variation, and
+
+(b) accepting the commitment would not jeopardise, or risk jeopardising, the IFR’s ability to advance one or more of its objectives.
+
+(3) Where the IFR accepts a commitment under this section—
+
+(a) the IFR may not attach the proposed discretionary licence condition or make the proposed variation while the commitment is in force, and
+
+(b) the specified competition organiser that gave the commitment must comply with it while it has effect.
+
+(4) Where the IFR does not accept the commitment under this section, the IFR—
+
+(a) must notify the specified competition organiser and the club concerned and provide reasons for its decision, and
+
+(b) may without further notice attach the proposed discretionary licence condition or make the proposed variation.
+
+(5) The IFR may, from time to time, accept from a specified competition organiser a variation to a commitment accepted under this section, provided that the IFR considers that the commitment as varied would still meet the requirements in subsection (2).
+
+(6) The IFR may release a specified competition organiser from a commitment accepted under this section where it considers that—
+
+(a) the commitment is no longer necessary,
+
+(b) the commitment is no longer effective, or
+
+(c) the specified competition organiser has failed to comply with the commitment.
+
+(7) Where, under subsection (6)(b) or (c), the IFR releases a specified competition organiser from a commitment accepted under this section, the IFR may—
+
+(a) without further notice attach the proposed discretionary licence condition or make the proposed variation, or
+
+(b) attach an alternative discretionary licence condition or make an alternative variation to a discretionary licence condition.
+
+(8) Before attaching an alternative discretionary licence condition or making an alternative variation by virtue of subsection (7)(b), the IFR must give the club a notice that—
+
+(a) notifies the club about the proposed alternative condition or variation,
+
+(b) invites the club to make representations about the proposed alternative condition or variation, and
+
+(c) specifies the means by which, and the period within which, such representations must be made,
+
+and must have regard to any representations which are duly made.
+
+(9) The period specified in the notice for making representations must be a period of not less than 14 days beginning with the day on which the notice is given.
+
+(10) A commitment accepted by the IFR under this section—
+
+(a) comes into force on the day specified in the notice given to the specified competition organiser under paragraph 3 of Schedule 6, and
+
+(b) ceases to have effect if the specified competition organiser is released from the commitment under subsection (6).
+
+(11) The fact that a commitment accepted under this section ceases to have effect does not affect the exercise of any functions in relation to a failure, or possible failure, to comply with the commitment.
+
+(12) The IFR must keep under review—
+
+(a) the extent to which a specified competition organiser which gave a commitment accepted under this section is complying with it,
+
+(b) whether a specified competition organiser should be released from a commitment under this section (including whether to release a specified competition organiser from a commitment and attach or vary a discretionary licence condition to an operating licence instead), and
+
+(c) whether to take action in accordance with Part 8 in respect of a specified competition organiser which fails to comply with a commitment.
+
+(13) Schedule 6 makes further provision about commitments mentioned in section 23(3)(c)(ii).
+
+#### 25 Procedure for attaching or varying other discretionary licence conditions
+
+(1) This section applies to a discretionary licence condition relating to—
+
+(a) the non-financial resources threshold requirement (see paragraph 3 of Schedule 4), or
+
+(b) the fan engagement threshold requirement (see paragraph 4 of Schedule 4).
+
+(2) Before attaching or varying a discretionary licence condition to which this section applies, the IFR must give the club a notice that—
+
+(a) notifies the club about the proposed condition or variation (including the threshold requirement to which the condition or variation relates),
+
+(b) invites the club to make representations about the proposed condition or variation, and
+
+(c) specifies the means by which, and the period within which, such representations must be made,
+
+and must have regard to any representations which are duly made.
+
+(3) The period specified in the notice for making representations must be a period of not less than 14 days beginning with the day on which the notice is given to the club.
+
+(4) This section does not apply where—
+
+(a) a club applies for a variation under section 21(7), or
+
+(b) the IFR considers that compliance with this section would jeopardise, or risk jeopardising, the IFR’s ability to advance one or more of its objectives.
+
+## Part 4 — Owners and officers of regulated clubs: suitability etc
+
+### Introductory
+
+#### 26 Part 4: overview and interpretation
+
+(1) This Part makes provision—
+
+(a) requiring notices to be given to the IFR before a person becomes an owner or officer of a regulated club, or where there is a change of circumstances relating to a person’s role as an owner or officer of a regulated club,
+
+(b) for the making of determinations by the IFR about the suitability of a person to be an owner or officer of a regulated club, and
+
+(c) for action that may or must be taken by the IFR where it determines or is treated as having determined that a person is not suitable to be an owner or officer of a regulated club.
+
+(2) Sections 27 to 32 deal with notifications by, and determinations relating to, prospective owners and officers of clubs.
+
+(3) Sections 33 to 36—
+
+(a) deal with notifications by incumbent owners and officers, and
+
+(b) confer a power on the IFR to make determinations relating to the suitability of incumbent owners and officers to continue in their role.
+
+(4) Section 37 contains provision about matters to which the IFR must have regard in making determinations under this Part.
+
+(5) Sections 38 to 44 make provision about the action that the IFR may or must take where it determines, or is treated as having determined, that a person is not suitable to be an owner or officer of a regulated club, which may include—
+
+(a) making an order disqualifying the person from being an owner or officer of a club;
+
+(b) giving a direction requiring the person to cease to be an owner or officer of a club;
+
+(c) making an order removing the person as an owner of a club.
+
+(6) Subsections (7) and (8) apply for the purposes of this Part.
+
+(7) An individual meets the “individual ownership fitness criteria” if the individual—
+
+(a) has the requisite honesty and integrity, and
+
+(b) is financially sound.
+
+(8) An individual meets the “officer fitness criteria” if the individual—
+
+(a) has the requisite honesty and integrity,
+
+(b) has the requisite competence, and
+
+(c) is financially sound.
+
+### Persons who become owners or officers of regulated clubs
+
+#### 27 Duties to notify IFR of prospective new owner or officer
+
+(1) A person who—
+
+(a) is not an owner of a particular regulated club, but
+
+(b) considers that there is a reasonable prospect of the person becoming an owner of that club,
+
+must notify the IFR of that fact.
+
+(2) An individual who—
+
+(a) is not an officer of a particular regulated club, but
+
+(b) considers that there is a reasonable prospect of the individual becoming an officer of that club,
+
+must notify the IFR of that fact.
+
+(3) A regulated club must notify the IFR where it considers there is a reasonable prospect of—
+
+(a) a person becoming an owner of the club, or
+
+(b) an individual becoming an officer of the club.
+
+(4) In this section—
+
+(a) references to a prospective owner are to a person who is the subject of a notification under subsection (1) or (3)(a);
+
+(b) references to a prospective officer are to an individual who is the subject of a notification under subsection (2) or (3)(b).
+
+(5) A notification under this section must—
+
+(a) identify the prospective owner or officer,
+
+(b) explain why the person giving the notification considers there is a reasonable prospect of the prospective owner becoming an owner of the club or (as the case may be) of the prospective officer becoming an officer of the club, and
+
+(c) in relation to a prospective officer, state—
+
+(i) their proposed job title or a description of the job proposed to be performed by them, and
+
+(ii) any senior management functions to be carried out by them.
+
+(6) A notification under subsection (1), (2) or (3) must be given—
+
+(a) as soon as reasonably practicable after the duty under that subsection arises, and
+
+(b) before the prospective owner or officer becomes an owner or officer of the club.
+
+(7) Where a notification under this section is not given by the time mentioned in subsection (6)(b), the person or individual who, or club which, should have given the notification must notify the IFR of the fact that (as the case may be)—
+
+(a) the person has become an owner of the club, or
+
+(b) the individual has become an officer of the club,
+
+and must do so as soon as reasonably practicable after becoming aware of that fact.
+
+#### 28 Determination of suitability required for new owner
+
+(1) A person may not become an owner of a particular regulated club unless, on an application by the person to the IFR, the IFR determines that the person is suitable to be an owner of the club (an “affirmative determination”).
+
+(2) An application under subsection (1) must be made in accordance with rules made by the IFR, which—
+
+(a) must require information about the following matters to be provided with an application—
+
+(i) the proposed operation of the club;
+
+(ii) the estimated costs of that operation;
+
+(iii) how those costs are to be funded;
+
+(iv) the source of such funding;
+
+(b) may require information about other matters specified in the rules to be provided with an application;
+
+(c) may make provision about the manner and form in which an application is to be made.
+
+(3) Where an application is duly made under subsection (1) by a registered society, the IFR must make an affirmative determination in respect of the applicant if the IFR considers that the applicant has sufficient financial resources.
+
+(4) Where an application is duly made under subsection (1) by an individual, the IFR must make an affirmative determination in respect of the applicant if—
+
+(a) the IFR considers that the applicant—
+
+(i) meets the individual ownership fitness criteria, and
+
+(ii) has sufficient financial resources, and
+
+(b) the IFR does not have grounds to suspect that the applicant has any source of wealth which is connected to serious criminal conduct.
+
+(5) Subsections (3) and (4) are subject to subsection (6)(b).
+
+(6) The IFR—
+
+(a) may not make an affirmative determination in respect of the applicant except as mentioned in subsections (3) and (4);
+
+(b) must not make an affirmative determination in respect of the applicant if an order under section 38(1) (disqualification from ownership) has effect in relation to the applicant.
+
+(7) If the IFR is not able to make an affirmative determination in respect of the applicant, it must determine that the applicant is not suitable to be an owner of the club.
+
+(8) Where the IFR makes an affirmative determination in relation to a person, the determination has effect until—
+
+(a) the person ceases to be an owner of the club, or
+
+(b) if earlier, the IFR gives the person a notice under section 34(10)(b) in relation to the person’s suitability to be an owner of the club.
+
+(9) Where the IFR makes a determination under this section, the IFR must—
+
+(a) give notice of the determination to the applicant and to the club, and
+
+(b) publish the determination.
+
+#### 29 Determination of suitability required for new officer
+
+(1) An individual may not become an officer of a particular regulated club unless, on an application by the individual to the IFR, the IFR determines that the individual is suitable to be an officer of the club (an “affirmative determination”).
+
+(2) An application under subsection (1) must be made in accordance with rules made by the IFR, which may in particular include provision about—
+
+(a) the information to be provided with an application, and
+
+(b) the manner and form in which an application must be made.
+
+(3) Where an application under subsection (1) is duly made, the IFR must make an affirmative determination in respect of the applicant if the IFR considers that the applicant meets the officer fitness criteria.
+
+This is subject to subsection (4)(b).
+
+(4) The IFR—
+
+(a) may not make an affirmative determination in respect of the applicant except as mentioned in subsection (3);
+
+(b) must not make an affirmative determination in respect of the applicant if an order under section 38(2) (disqualification from being an officer) has effect in relation to the applicant.
+
+(5) If the IFR is not able to make an affirmative determination in respect of the applicant, it must determine that the applicant is not suitable to be an officer of the club.
+
+(6) Where the IFR makes an affirmative determination in relation to an individual, the determination has effect until—
+
+(a) the individual ceases to be an officer of the club, or
+
+(b) if earlier, the IFR gives the individual a notice under section 35(5)(b) in relation to the individual’s suitability to be an officer of the club.
+
+(7) Where the IFR makes a determination under this section, the IFR must—
+
+(a) give notice of the determination to the applicant and to the club, and
+
+(b) publish the determination.
+
+#### 30 Becoming an owner or officer without a determination
+
+(1) Where the IFR becomes aware that a person has become an owner of a particular regulated club without the IFR having first determined under section 28 whether the person is suitable to be an owner of the club, the IFR must give the person—
+
+(a) a notice requiring the person to make an application under section 28 by the date specified in the notice, or
+
+(b) a notice stating that the person is not suitable to be an owner of the club.
+
+(2) But if the person is subject to an order under section 38(1) (disqualification from ownership)—
+
+(a) subsection (1) does not apply, and
+
+(b) the IFR must give the person a notice stating that the person is not suitable to be an owner of the club.
+
+(3) Where the IFR becomes aware that an individual has become an officer of a particular regulated club without the IFR having first determined under section 29 whether the individual is suitable to be an officer of the club, the IFR must give the individual—
+
+(a) a notice requiring the individual to make an application under section 29 by the date specified in the notice, or
+
+(b) a notice stating that the individual is not suitable to be an officer of the club.
+
+(4) But if the individual is subject to an order under section 38(2) (disqualification from being an officer)—
+
+(a) subsection (3) does not apply, and
+
+(b) the IFR must give the person a notice stating that the individual is not suitable to be an officer of the club.
+
+(5) Where the IFR has given a notice under subsection (1)(a) or (3)(a) (“the initial notice”) to a person, the IFR may give the person a notice under this subsection (a “further notice”) stating that the initial notice is to be treated as if the date specified in it were a later date specified in the further notice.
+
+(6) The power conferred by subsection (5) may be exercised more than once.
+
+(7) Where a person to whom a notice under subsection (1)(a) or (3)(a) was given fails to make the application required by the notice by the date specified (or treated as specified) in the notice, the IFR must—
+
+(a) in a subsection (1)(a) case, give the person a notice stating that the person is not suitable to be an owner of the club;
+
+(b) in a subsection (3)(a) case, give the individual a notice stating that the individual is not suitable to be an officer of the club.
+
+(8) Where—
+
+(a) a notice under subsection (1)(b), (2)(b) or (7)(a) is given to a person, the IFR is to be treated as having determined under section 28 that the person is not suitable to be an owner of the club in question;
+
+(b) a notice under subsection (3)(b), (4)(b) or (7)(b) is given to a person, the IFR is to be treated as having determined under section 29 that the person is not suitable to be an officer of the club in question.
+
+(9) Where the IFR gives a notice under this section to a person, it must give a copy of the notice to the club in question.
+
+(10) The IFR must publish notice of any determination it is treated by virtue of subsection (8) as having made under section 28 or 29.
+
+#### 31 Opportunity to make representations about proposed negative determinations
+
+(1) If the IFR is minded to determine under section 28 or 29 that a person is not suitable to be an owner or officer of a particular regulated club, the IFR must—
+
+(a) give notice of that fact to the person and to the club, and
+
+(b) have regard to any representations made by the person or the club in accordance with the notice.
+
+(2) If the IFR is minded to give a notice under section 30(1)(b) or (3)(b) to a person, the IFR must—
+
+(a) give notice of that fact to the person and to the regulated club of which the person is an owner or officer, and
+
+(b) have regard to any representations made by the person or the club in accordance with the notice.
+
+(3) A notice under subsection (1) or (2) must—
+
+(a) explain why the IFR is minded to make the determination or (as the case may be) to give the notice,
+
+(b) invite the person or the club to make representations about the proposed determination or notice, and
+
+(c) specify the means by which, and the period within which, such representations must be made.
+
+(4) The period for making representations must be a period of not less than 7 days beginning with the day on which the notice is given.
+
+#### 32 Determinations under sections 28 and 29: time limits
+
+(1) Where a person makes an application to the IFR under section 28 or 29, the IFR must make a determination under that section in respect of the person before the end of the determination period.
+
+(2) The determination period is—
+
+(a) the period specified in regulations made by the Secretary of State for the purposes of this paragraph, or
+
+(b) in a case where the period mentioned in paragraph (a) is extended (or further extended) under subsection (3), the period as so extended.
+
+(3) If the IFR considers that it cannot make a determination under section 28 or 29 before the end of the determination period, it may (before the end of that period) give the person who made the application a notice extending the determination period for the period specified in the notice.
+
+(4) The power under subsection (3) may be exercised more than once; but the determination period may not be extended so that it exceeds the period specified in regulations made by the Secretary of State for the purposes of this subsection.
+
+(5) If the IFR does not make a determination under section 28 or 29 in respect of a person before the end of the determination period, the IFR is to be treated on the expiry of that period as having determined under that section that the person is not suitable to be an owner or officer of the club (as the case may be).
+
+(6) Before making regulations under this section, the Secretary of State must consult such persons as the Secretary of State considers appropriate.
+
+### Determinations relating to incumbent owners and officers
+
+#### 33 Duties to notify IFR of change in circumstances relating to incumbent owner or officer
+
+(1) An individual who is an owner or officer of a regulated club must notify the IFR where the individual considers there has been, or may have been, a material change in circumstances which is relevant to whether the individual is suitable to be an owner or officer of the club (as the case may be).
+
+(2) A regulated club must notify the IFR where it considers that there has been, or may have been, a material change in circumstances which is relevant to whether an individual who is an owner or officer of the club is suitable to be an owner or officer of the club (as the case may be).
+
+(3) A notification under this section must—
+
+(a) identify the owner or officer in question,
+
+(b) explain the material change in circumstances, and
+
+(c) explain why the person giving the notification considers that the change in circumstances is relevant to whether the owner or officer in question is suitable to be an owner or officer of the club.
+
+(4) A notification under subsection (1) or (2) must be given as soon as reasonably practicable after the duty under that subsection arises.
+
+#### 34 Incumbent owners
+
+(1) The IFR may determine whether an individual within subsection (3) meets the individual ownership fitness criteria if the IFR is in possession of information that gives it grounds for concern about whether the individual meets those criteria.
+
+(2) The IFR may determine whether an individual within subsection (3) has a source of wealth which is connected to serious criminal conduct if the IFR is in possession of information that gives it grounds to suspect that the individual does have such a source of wealth.
+
+(3) An individual is within this subsection if the individual is an owner of a particular regulated club and either—
+
+(a) the individual has been an owner of the club since immediately before—
+
+(i) the coming into force of this section, or
+
+(ii) if later, the time when the club became a regulated club, or
+
+(b) a determination under section 28 that the individual is suitable to be an owner of the club has effect in relation to the individual.
+
+(4) Before making a determination under subsection (1) or (2) in relation to an individual (“P”), the IFR must give notice to P and to the club of the fact that it proposes to make such a determination.
+
+(5) Where the only determination being made by the IFR is a determination under subsection (1), if the IFR finds that P meets the individual ownership fitness criteria—
+
+(a) the IFR must give notice of that finding to P and to the club, and
+
+(b) P may continue to be an owner of the club.
+
+(6) Where the only determination being made by the IFR is a determination under subsection (2), if the IFR finds that P does not have a source of wealth which is connected to serious criminal conduct—
+
+(a) the IFR must give notice of that finding to P and to the club, and
+
+(b) P may continue to be an owner of the club.
+
+(7) The IFR may make the finding referred to in subsection (6) only if the IFR—
+
+(a) has taken reasonable steps to establish whether P has any source of wealth which is connected to serious criminal conduct, and
+
+(b) is not satisfied, on the balance of probabilities, that P has any such source of wealth.
+
+(8) Where determinations under both subsections (1) and (2) are being made by the IFR, if the IFR finds as mentioned in subsections (5) and (6)—
+
+(a) the IFR must give notice of those findings to P and to the club, and
+
+(b) P may continue to be an owner of the club.
+
+(9) Subsection (10) applies if—
+
+(a) in a case within subsection (5), the IFR does not make the finding mentioned in that subsection,
+
+(b) in a case within subsection (6), the IFR does not make the finding mentioned in that subsection, or
+
+(c) in a case within subsection (8), the IFR does not make both of the findings mentioned in subsections (5) and (6).
+
+(10) If this subsection applies—
+
+(a) the IFR is to be treated as having determined that P is not suitable to be an owner of the club, and
+
+(b) the IFR must give notice of that fact to P and to the club.
+
+(11) The IFR must publish notice of—
+
+(a) any finding it makes under this section;
+
+(b) any determination it is treated as having made under this section.
+
+#### 35 Incumbent officers
+
+(1) The IFR may determine whether an individual within subsection (2) meets the officer fitness criteria if the IFR is in possession of information that gives it grounds for concern about whether the individual meets those criteria.
+
+(2) An individual is within this subsection if the individual is an officer of a particular regulated club and either—
+
+(a) the individual has been an officer of the club since immediately before—
+
+(i) the coming into force of this section, or
+
+(ii) if later, the time when the club became a regulated club, or
+
+(b) a determination under section 29 that the individual is suitable to be an officer of the club has effect in relation to the individual.
+
+(3) Before determining under this section whether an individual (“P”) meets the officer fitness criteria, the IFR must give notice to P and to the club of the fact that it proposes to make such a determination.
+
+(4) If, on making a determination under this section, the IFR finds that P meets the officer fitness criteria—
+
+(a) the IFR must give notice of that finding to P and to the club, and
+
+(b) P may continue to be an officer of the club.
+
+(5) If, on making a determination under this section, the IFR does not find that P meets the officer fitness criteria—
+
+(a) the IFR is to be treated as having determined that P is not suitable to be an officer of the club, and
+
+(b) the IFR must give notice of that fact to P and to the club.
+
+(6) The IFR must publish—
+
+(a) any finding it makes under this section;
+
+(b) notice of any determination it is treated as having made under this section.
+
+#### 36 Opportunity to make representations about proposed negative findings
+
+(1) If the IFR is minded to make a negative finding under section 34 or 35 in relation to an individual, the IFR must—
+
+(a) give notice of that fact to the individual and to the club, and
+
+(b) have regard to any representations made by the individual or the club in accordance with the notice.
+
+(2) In this section, “negative finding” means—
+
+(a) in relation to a determination under section 34(1), a finding that the individual does not meet the individual ownership fitness criteria;
+
+(b) in relation to a determination under section 34(2), a finding that the individual does have a source of wealth which is connected to serious criminal conduct;
+
+(c) in relation to a determination under section 35(1), a finding that the individual does not meet the officer fitness criteria.
+
+(3) A notice under subsection (1) must—
+
+(a) explain why the IFR is minded to make the negative finding,
+
+(b) invite the individual or the club to make representations about the proposed finding, and
+
+(c) specify the means by which, and the period within which, such representations must be made.
+
+(4) The period for making representations must be a period of not less than 14 days beginning with the day on which the notice is given.
+
+### Further provision about determinations
+
+#### 37 Matters relevant to determinations
+
+(1) In making a determination under this Part in relation to a person, the IFR must have regard to any determination which—
+
+(a) has been made by a competition organiser in relation to the person, and
+
+(b) the IFR considers relevant to its determination.
+
+(2) In determining for the purposes of this Part whether it considers that an individual has the requisite honesty and integrity, the IFR must have regard to the following matters—
+
+(a) whether the individual has been convicted of a criminal offence or subject to criminal proceedings, whether or not in England and Wales (in particular where the offence is or proceedings are in respect of serious criminal conduct);
+
+(b) whether, on the balance of probabilities, the individual has engaged in conduct outside England and Wales which would, if done in England and Wales, amount to the commission of a serious offence;
+
+(c) whether the individual is or has been a party to proceedings (other than criminal proceedings) in any court or tribunal;
+
+(d) any action of a regulatory or disciplinary nature that is being or has been taken in relation to the individual (whether or not by the IFR and whether or not in England and Wales);
+
+(e) whether the individual is prohibited from entering the United Kingdom;
+
+(f) whether the individual is a designated person as defined by section 9(2) of the Sanctions and Anti-Money Laundering Act 2018;
+
+(g) such other matters relating to honesty and integrity as may be specified for the purposes of this paragraph in rules made by the IFR.
+
+(3) In determining for the purposes of this Part whether it considers that an individual is financially sound, the IFR must have regard to the following matters—
+
+(a) the individual’s financial arrangements, including in particular whether the individual has—
+
+(i) become bankrupt (in relation to England and Wales and Northern Ireland) or made an arrangement with creditors,
+
+(ii) had their estate sequestrated (in relation to Scotland), or
+
+(iii) been subject to any similar procedure (whether or not in the United Kingdom);
+
+(b) the financial situation of any body in relation to which the individual holds, or has held, a position of responsibility (whether or not as an officer of the body);
+
+(c) such other matters relating to financial soundness as may be specified for the purposes of this paragraph in rules made by the IFR.
+
+(4) In determining for the purposes of this Part whether it considers that an individual has the requisite competence, the IFR must have regard to the individual’s qualifications, experience and training.
+
+(5) In making a determination referred to in subsection (2), (3) or (4), the IFR may not have regard to any matter which is not referred to in that subsection (subject to subsection (1)).
+
+(6) Rules made under subsection (2)(g) or (3)(c) must not have the effect of authorising the IFR to make a determination in relation to any matter based solely on the individual’s connection with the government of any country or territory.
+
+(7) In this section, “serious offence” means an offence specified, or falling within a description specified, in Part 1 of Schedule 1 to the Serious Crime Act 2007.
+
+### Disqualification orders and enforcement
+
+#### 38 Disqualification orders
+
+(1) The IFR may make an order disqualifying a person from being an owner of any regulated club if under any provision of this Part the IFR determines, or is treated as having determined, that the person is not suitable to be an owner of a particular regulated club.
+
+(2) The IFR may make an order disqualifying a person from being an officer of any regulated club if under any provision of this Part the IFR determines, or is treated as having determined, that the person is not suitable to be an officer of a particular regulated club.
+
+(3) Before making an order made under subsection (1) or (2), the IFR must give a notice to the person to whom the order would relate, and to the particular club referred to in that subsection—
+
+(a) giving details of the fact that the IFR proposes to make the order,
+
+(b) stating the reasons for the proposed order,
+
+(c) inviting the person and the club to make representations about the proposed order, and
+
+(d) specifying the means by which, and the period within which, such representations may be made,
+
+and must have regard to any representations which are duly made.
+
+(4) The period for making representations must be a period of not less than 14 days beginning with the day on which the notice under subsection (3) is given.
+
+(5) As soon as reasonably practicable after the period for making representations has ended, the IFR must—
+
+(a) decide whether to make an order under subsection (1) or (2), and
+
+(b) publish a notice of its decision, giving reasons for it.
+
+(6) An order under subsection (1) or (2) must set out the period for which the order has effect (which may be indefinite).
+
+(7) The IFR may revoke an order made under subsection (1) or (2).
+
+#### 39 Removal directions: owners
+
+(1) This section applies in relation to a person (“P”) who is an owner of a particular regulated club where—
+
+(a) the IFR has determined under section 28, or is treated as having determined under that section, that P is not suitable to be an owner of the club, or
+
+(b) the IFR is treated by virtue of section 34(10)(a) as having determined that P is not suitable to be an owner of the club,
+
+and “deemed determination” in this section means a determination that the IFR is treated as having made as mentioned in paragraph (a) or (b).
+
+(2) The IFR must give P a direction requiring P to take all reasonable steps to cease to be an owner of the club before the end of the removal period.
+
+This is subject to subsection (7).
+
+(3) The removal period is—
+
+(a) the period specified in the direction, or
+
+(b) where the period mentioned in paragraph (a) is extended (or further extended) under subsection (4), that period as so extended.
+
+(4) A direction given under this section in relation to P (“the first direction”) may be varied by a further direction so as to extend (or further extend) the period specified in the first direction.
+
+(5) Before giving a direction under this section, the IFR must consult—
+
+(a) P,
+
+(b) the club, and
+
+(c) the specified competition organiser which organises a specified competition in relation to which a relevant team is operated by the club.
+
+(6) At the same time as giving a direction under this section to P, the IFR must give a notice to P and to the club including information about the possible consequences under this Part and Part 8 of not complying with the direction.
+
+(7) Subsection (2) does not apply in a case within subsection (1)(a) if, before the end of the period of 3 months beginning with the applicable day, the IFR exercises its power to make an order under section 43 in relation to P (ownership removal order).
+
+(8) For the purposes of subsection (7), the applicable day is (subject to subsections (9) and (10)) the day on which the IFR publishes—
+
+(a) its determination under section 28 in relation to P, or
+
+(b) notice of its deemed determination under that section in relation to P,
+
+as the case may be.
+
+(9) Where the determination or deemed determination is subject to a review requested under section 82, the applicable day is the day on which the IFR publishes—
+
+(a) the applicable reviewer’s decision under section 83(3), or
+
+(b) the decision that the applicable reviewer is treated as having made under section 82(5) or 83(6),
+
+unless the determination or deemed determination is then subject to an appeal under section 84.
+
+(10) Where the determination or deemed determination is subject to an appeal under section 84 (whether or not it has been subject to a review requested under section 82), the applicable day is the day on which the appeal is finally determined.
+
+#### 40 Removal directions: officers
+
+(1) This section applies in relation to an individual (“P”) who is an officer of a particular regulated club where—
+
+(a) the IFR has determined under section 29, or is treated as having determined under that section, that P is not suitable to be an officer of the club, or
+
+(b) the IFR is treated by virtue of section 35(5)(a) as having determined that P is not suitable to be an officer of the club.
+
+(2) The IFR must give either or both of the following—
+
+(a) a direction to P requiring P to take all reasonable steps to cease to be an officer of the club before the end of the removal period;
+
+(b) a direction to the club requiring the club to take all reasonable steps to secure that P ceases to be an officer of the club before the end of the removal period.
+
+(3) The removal period, in the case of a direction under this section, is—
+
+(a) the period specified in the direction, or
+
+(b) where the period mentioned in paragraph (a) is extended under subsection (4), that period as extended (or further extended) under that subsection.
+
+(4) A direction given under this section in relation to P (“the first direction”) may be varied by a further direction so as to extend (or further extend) the period specified in the first direction.
+
+(5) Before giving a direction under this section, the IFR must consult—
+
+(a) P,
+
+(b) the club, and
+
+(c) the specified competition organiser which organises a specified competition in relation to which a relevant team is operated by the club.
+
+(6) At the same time as giving a direction under this section, the IFR must—
+
+(a) in the case of a direction under subsection (2)(a), give a notice to P and to the club, and
+
+(b) in the case of a direction under subsection (2)(b), give a notice to the club,
+
+including information about the possible consequences under Part 8 of not complying with the direction.
+
+#### 41 Directions relating to unsuitable owners and officers
+
+(1) This section applies where, under any provision of this Part, the IFR determines or is treated as having determined—
+
+(a) that a person who is an owner of a regulated club is not suitable to be an owner of the club, or
+
+(b) that a person who is an officer of a regulated club is not suitable to be an officer of the club.
+
+(2) The IFR may give one or both of the following—
+
+(a) a direction to the person prohibiting the person (wholly or to an extent specified in the direction) from carrying out such of the person’s activities, or exercising such of their rights, as an owner or officer as are specified or described in the direction;
+
+(b) a direction to the club requiring it to secure that the person does not (wholly or to an extent specified in the direction) carry out such of those activities, or exercise such of those rights, as are specified or described in the direction.
+
+(3) A direction under this section may, among other things, contain provision prohibiting or (in the case of a direction under subsection (2)(b)) provision aimed at prohibiting the person to whom it relates from—
+
+(a) exercising any right, whether or not by virtue of the holding of shares, stock or securities, to vote on any matter relating to the carrying on of the club’s activities;
+
+(b) appointing, terminating the appointment of, changing the terms of appointment or the responsibilities of, any officer or employee of the club;
+
+(c) making changes to the corporate structure of the club;
+
+(d) doing anything specified or described in the direction without obtaining the prior approval of the IFR.
+
+(4) A direction under this section—
+
+(a) comes into force at the time specified by or determined in accordance with the direction;
+
+(b) has effect for the period specified in the direction;
+
+(c) may be varied or revoked by a further direction.
+
+(5) At the same time as giving a direction under this section, the IFR must—
+
+(a) in the case of a direction under subsection (2)(a), give a notice to the person and to the club of which the person is an owner or officer including information about the possible consequences under this Part and Part 8 of not complying with the direction;
+
+(b) in the case of a direction under subsection (2)(b), give a notice to the club including information about the possible consequences under Part 8 of not complying with the direction.
+
+#### 42 Orders and directions effecting alternative officer arrangements
+
+(1) This section applies where—
+
+(a) a direction under section 41 has effect in relation to a person or club, and
+
+(b) the IFR considers that the ability of the club to operate effectively, or to comply with conditions attached to its operating licence, is or is likely to be adversely affected by compliance with the direction.
+
+(2) The IFR may do either or both of the following if it considers that doing so would mitigate or avoid the effect mentioned in subsection (1)(b)—
+
+(a) make an order appointing an individual identified in the order as an officer of the club for a period specified in the order;
+
+(b) give the club a direction requiring it to redistribute amongst its existing officers functions specified or described in the direction (whether of the person concerned or otherwise).
+
+(3) An order under subsection (2)(a)—
+
+(a) must specify or describe the functions to be exercised by the individual appointed by the order;
+
+(b) comes into force at the time specified by or determined in accordance with the order;
+
+(c) may be varied or revoked by a further order.
+
+(4) A direction under subsection (2)(b)—
+
+(a) comes into force at the time specified by or determined in accordance with the direction;
+
+(b) has effect for the period specified in the direction;
+
+(c) may be varied or revoked by a further direction.
+
+(5) The IFR may make rules providing for—
+
+(a) costs incurred by it in connection with the appointment of an individual by virtue of an order under subsection (2)(a), and
+
+(b) costs incurred by an individual appointed by virtue of such an order,
+
+to be payable by the club to which the individual is appointed.
+
+(6) Where an individual is appointed by virtue of an order under subsection (2)(a), the club, each owner of the club and each officer of the club must—
+
+(a) co-operate with the individual, and
+
+(b) give the individual such reasonable assistance as the individual requests (including access to business premises, equipment, services, information and individuals),
+
+in connection with the exercise of the individual’s functions under the order.
+
+(7) At the same time as making an order under this section, the IFR must give a notice to the club, and to each owner and officer of the club, including information about the possible consequences under—
+
+(a) this Part (where the direction under section 41 relates to a person who is an owner of the club), and
+
+(b) Part 8,
+
+of not complying with the duty imposed by subsection (6).
+
+(8) At the same time as giving a direction under this section, the IFR must give the club a notice about the possible consequences under Part 8 of not complying with the direction.
+
+(9) References in this Act to an officer of a club do not include references to an individual appointed as an officer of the club by virtue of an order under subsection (2)(a).
+
+#### 43 Ownership removal orders
+
+(1) The IFR may make an order containing such provision as the IFR considers appropriate to secure that, by the end of the period specified in the order, a person who is an owner of a regulated club (“P”) has ceased to be an owner of the club.
+
+(2) But the power to make an order under subsection (1) is exercisable only where—
+
+(a) the IFR has determined under section 28, or is treated as having determined under that section, that P is not suitable to be an owner of the club,
+
+(b) P fails without reasonable excuse to comply with a direction given to P under section 39,
+
+(c) P fails without reasonable excuse to comply with a direction given to P under section 41, or
+
+(d) a direction under section 41 has effect in relation to P and P—
+
+(i) fails to co-operate with or assist an individual appointed by an order under section 42 in connection with the exercise of the individual’s functions under the order, or
+
+(ii) otherwise obstructs such an individual from carrying out those functions,
+
+and P does not have a reasonable excuse for the failure or obstruction.
+
+(3) An order under this section may, among other things, include provision—
+
+(a) for the appointment of trustees;
+
+(b) conferring functions on trustees appointed by virtue of the order (including functions of taking action on behalf of P or any other person);
+
+(c) requiring P or any other person to take action (including action directed by trustees appointed by virtue of the order).
+
+(4) The provision that may be made by virtue of subsection (3)(b) includes provision authorising trustees appointed by virtue of the order to take any steps they consider appropriate to achieve the purpose for which the order is made.
+
+(5) A trustee appointed by virtue of an order under this section—
+
+(a) must not have a conflict of interest, and
+
+(b) must have the necessary skills to discharge their functions under the order.
+
+(6) Where a trustee is appointed by virtue of an order under this section, the club, each owner of the club and each officer of the club must—
+
+(a) co-operate with the trustee, and
+
+(b) give the trustee such reasonable assistance as the trustee requests (including access to business premises, equipment, services, information and individuals),
+
+in connection with the exercise of the trustee’s functions under the order.
+
+(7) A trustee appointed by virtue of an order under this section must—
+
+(a) provide the IFR with regular reports on the exercise of their functions under the order and on any co-operation or assistance provided by P or the club;
+
+(b) obtain the IFR’s approval before making any contractual or other arrangements that would result in P ceasing to be an owner of the club.
+
+(8) The IFR may withhold approval for arrangements described in subsection (7)(b) if—
+
+(a) the IFR considers that the arrangements would result in any person becoming an owner of the club without the IFR having first determined under section 28 that the person is suitable to be an owner of the club, or
+
+(b) where the arrangements would involve the disposal of an interest in the club, the IFR considers that any party to the proposed disposal is acting in bad faith.
+
+#### 44 Orders under section 43: procedure, costs and liabilities
+
+(1) Before making an order under section 43, the IFR must publish a notice—
+
+(a) stating—
+
+(i) that the IFR proposes to make the order, and
+
+(ii) the reasons for doing so,
+
+(b) summarising the provision the IFR proposes to include in the proposed order,
+
+(c) inviting the making of representations about the proposed order, and
+
+(d) specifying the means by which, and the period within which, such representations may be made,
+
+and must have regard to any representations which are duly made.
+
+(2) The period for making representations must be a period of not less than 14 days beginning with the day on which the notice under subsection (1) is published.
+
+(3) As soon as reasonably practicable after the period for making representations has ended, the IFR must—
+
+(a) decide whether to make an order under section 43, and
+
+(b) publish a notice of its decision, giving reasons for it.
+
+(4) At the same time as making an order under section 43, the IFR must—
+
+(a) where the order imposes requirements on P (within the meaning of section 43), give a notice to P and to the club including information about the possible consequences under Part 8 of not complying with those requirements;
+
+(b) where the order imposes requirements on the club, give a notice to the club including information about the possible consequences under Part 8 of not complying with those requirements;
+
+(c) give a notice to the club, and to each owner and officer of the club, including information about the possible consequences under Part 8 of not complying with the duty imposed by subsection (6) of section 43.
+
+(5) An order under section 43—
+
+(a) comes into force at the time specified by or determined in accordance with the order,
+
+(b) has effect for the period specified by or determined in accordance with the order, and
+
+(c) may be varied or revoked by a further order.
+
+(6) The IFR may make rules providing for—
+
+(a) costs incurred by the IFR in exercising functions under section 43 or this section, and
+
+(b) costs incurred by a trustee appointed by virtue of such an order,
+
+to be payable by P (within the meaning of section 43).
+
+## Part 5 — Duties on clubs and competition organisers etc
+
+### Duties on regulated clubs and formerly regulated clubs etc
+
+#### 45 Duty not to operate a team in relation to a prohibited competition
+
+(1) A club to which subsection (2) applies must not operate a team in relation to a prohibited competition.
+
+(2) This subsection applies to—
+
+(a) a regulated club, or
+
+(b) a club that is not a regulated club but has been a regulated club at any point within the previous 10 years.
+
+(3) In calculating the period of 10 years mentioned in subsection (2)(b), no account is to be taken of any time before the coming into force of this section.
+
+(4) A “prohibited competition” is a competition specified as a prohibited competition for the purposes of this section in rules made by the IFR.
+
+(5) In considering whether to specify a competition as a prohibited competition, the IFR must have regard to—
+
+(a) whether the competition—
+
+(i) is, or would be, merit-based,
+
+(ii) operates, or would operate, on the basis of fair and open competition,
+
+(iii) jeopardises, or would jeopardise, the sustainability of relevant competitions,
+
+(iv) jeopardises, or would jeopardise, the sustainability of clubs operating teams in relation to relevant competitions, and
+
+(v) harms, or would harm, the heritage of English football, and
+
+(b) any other factors that the IFR specifies in rules.
+
+(6) Before specifying a competition as a prohibited competition, the IFR must give the competition organiser a notice—
+
+(a) stating that it proposes to specify the competition as a prohibited competition,
+
+(b) explaining why it proposes to take such action,
+
+(c) inviting the competition organiser to make representations about the proposed action, and
+
+(d) specifying the means by which, and the period within which, such representations may be made,
+
+and must have regard to any representations duly made.
+
+(7) The period specified in the notice for making representations must be a period of not less than 14 days beginning with the day on which the notice is given.
+
+(8) Before specifying a competition as a prohibited competition, the IFR must—
+
+(a) take reasonable steps to determine the views of fans in England and Wales of regulated clubs about the competition being specified as a prohibited competition, and
+
+(b) have regard to those views.
+
+(9) Before specifying a competition as a prohibited competition, the IFR must consult—
+
+(a) the Football Association, and
+
+(b) such other persons as the IFR considers appropriate.
+
+(10) The IFR may specify a competition as a prohibited competition—
+
+(a) whether or not any of the matches included in that competition are played, or are to be played, in England or Wales or in any other part of the United Kingdom;
+
+(b) whether or not the teams that are entered into it, or that are members of it, or that participate in it are, or are to be, exclusively or predominantly English teams.
+
+(11) For the purposes of this section—
+
+- “English team” has the meaning given by section 2(4);
+- “relevant competition” means any competition (other than a prohibited competition) where the teams that are entered into it, or that are members of it, or that participate in it are exclusively or predominantly English teams.
+
+#### 46 Duty not to dispose etc of home ground without approval
+
+(1) A body to which subsection (2) applies must notify the IFR where the body considers that there is a reasonable prospect of the body—
+
+(a) disposing of any freehold or leasehold interest that the body holds in its home ground or any part of the home ground, or
+
+(b) using any interest that the body holds in its home ground, or any part of the home ground, as security in respect of a loan or other liability.
+
+(2) This subsection applies to—
+
+(a) a body that is a regulated club, or
+
+(b) a body that is not a regulated club but has been a regulated club at any point within the previous 5 years (a “formerly regulated club”).
+
+(3) In calculating the period of 5 years mentioned in subsection (2)(b), no account is to be taken of any time before the coming into force of this section.
+
+(4) A notification under subsection (1) must be given as soon as reasonably practicable after the body considers the duty under that subsection to have arisen.
+
+(5) A body to which subsection (2) applies must obtain the approval of the IFR before it takes any step mentioned in subsection (1).
+
+(6) The IFR must grant approval for the taking of any step mentioned in subsection (1) if—
+
+(a) where the body is a regulated club, it is satisfied that the taking of the step would not undermine the financial sustainability of the club;
+
+(b) where the body is a formerly regulated club, it is satisfied that the body has taken all reasonable steps to ensure that a team customarily plays its home matches at the ground.
+
+(7) The IFR may not grant approval in any other circumstances.
+
+(8) The IFR must, as soon as reasonably practicable after the body has sought approval, decide whether to grant approval under subsection (6).
+
+(9) The IFR must notify the body of its decision to grant, or not to grant, that approval and give reasons for its decision.
+
+(10) In this section, “home ground”—
+
+(a) in relation to a body that is a regulated club, means the ground at which a relevant team operated by it customarily plays its home matches;
+
+(b) in relation to a body that is a formerly regulated club, means the ground at which a relevant team operated by it immediately before it ceased to be a regulated club customarily played its home matches.
+
+#### 47 Duty not to appoint administrator without approval
+
+(1) A body to which section 46(2) applies must notify the IFR as soon as reasonably practicable after the body considers that there is a reasonable prospect of an administrator of the body being appointed under paragraph 22 of Schedule B1 to the Insolvency Act 1986 (“the 1986 Act”) (including that paragraph as applied in relation to partnerships by an order under section 420 of that Act).
+
+(2) An administrator of a body to which section 46(2) applies may not be appointed as mentioned in subsection (1) without the approval of the IFR.
+
+(3) Approval under subsection (2)—
+
+(a) must be in writing, and
+
+(b) must accompany the notice of intention to appoint filed under paragraph 27 of Schedule B1 to the 1986 Act.
+
+(4) But in a case where the notice of intention to appoint mentioned in subsection (3)(b) is not required—
+
+(a) subsection (3)(b) does not apply, but
+
+(b) approval under subsection (2) must accompany the notice of appointment filed under paragraph 29 of Schedule B1 to the 1986 Act.
+
+### Duties on regulated clubs
+
+#### 48 Duty not to relocate without approval
+
+(1) A regulated club must notify the IFR where the club considers that there is a reasonable prospect of the club entering into arrangements whereby a relevant team operated by it would play its home matches at a ground other than the club’s home ground.
+
+(2) A notification under subsection (1) must be given as soon as reasonably practicable after the club considers the duty under that subsection to have arisen.
+
+(3) The club must obtain the approval of the IFR before it enters into the arrangements mentioned in subsection (1).
+
+(4) The IFR must grant approval for the club entering into those arrangements if it is satisfied that —
+
+(a) the arrangements would not undermine the financial sustainability of the club,
+
+(b) the arrangements would not cause significant harm to the heritage of the club,
+
+(c) the club has taken reasonable steps to determine the views of its fans about the effect of the arrangements on the relevant matters set out in paragraph 4(2) of Schedule 4, and
+
+(d) the club has had regard to those views in considering whether to enter into the arrangements.
+
+(5) The IFR may not grant approval in any other circumstances.
+
+(6) The IFR must, as soon as reasonably practicable after the club has sought approval, decide whether to grant approval under subsection (4).
+
+(7) The IFR must notify the club of its decision to grant, or not to grant, that approval and give reasons for its decision.
+
+(8) In this section “home ground”, in relation to a regulated club, has the meaning given by section 46(10)(a).
+
+#### 49 Duty not to change crest, home shirt colours or name without approval
+
+(1) A regulated club must not make any material changes to—
+
+(a) any emblem or crest of a relevant team operated by the club, or
+
+(b) the predominant home shirt colours of such a team,
+
+unless the club has taken reasonable steps to establish that the changes are supported by a majority of the club’s fans in England and Wales.
+
+(2) A regulated club must not change the name of a relevant team operated by the club unless the change has been approved by the Football Association.
+
+#### 50 Duty to notify of changes in circumstances relevant to the IFR’s functions
+
+(1) A regulated club must notify the IFR where the club considers that there has been, or may have been, a material change in circumstances affecting the club that is relevant to the exercise of the IFR’s functions under this Act.
+
+(2) A notification under subsection (1) must be given as soon as reasonably practicable after the club considers that there has been, or may have been, such a change of circumstances.
+
+(3) A club is not required to notify the IFR under this section of any material change in circumstances that the club has notified to the IFR under or by virtue of any other provision of this Act.
+
+#### 51 Duty to keep fans informed of insolvency proceedings
+
+(1) A regulated club that is in relevant insolvency proceedings must take reasonable steps to keep its fans informed about the progress of the proceedings.
+
+(2) “Relevant insolvency proceedings” has the meaning given by paragraph 13(3) of Schedule 1.
+
+### Duties on licensed clubs
+
+#### 52 Duty to publish a personnel statement
+
+(1) A licensed club must—
+
+(a) prepare a personnel statement (within the meaning of section 16), and
+
+(b) submit it to the IFR for approval.
+
+(2) A statement submitted to the IFR for approval must be accompanied by a statement explaining why the club considers the statement to be accurate (but this is subject to subsection (8)).
+
+(3) The IFR—
+
+(a) may approve the statement with or without modifications, and
+
+(b) may approve the statement only if satisfied that it is accurate.
+
+(4) Before approving the statement with modifications, the IFR must consult the club.
+
+(5) The club must publish the approved statement online as soon as reasonably practicable after the IFR approves the statement.
+
+(6) The first statement must be submitted to the IFR as soon as reasonably practicable after the club becomes a licensed club, subject to subsection (8).
+
+(7) A new statement must be submitted to the IFR as soon as reasonably practicable after the most recent approved statement becomes inaccurate in a material particular.
+
+(8) Where the first personnel statement submitted by a club to the IFR in accordance with subsection (6) would be the same as the personnel statement submitted by the club to the IFR under section 16, the club may require the IFR to treat the statement submitted under that section as its first personnel statement for the purposes of this section.
+
+#### 53 Duty to pay a levy
+
+(1) The IFR may require a club to pay to the IFR a levy in respect of a chargeable period during which the club is a licensed club.
+
+(2) The amount of the levy is to be calculated in accordance with rules made by the IFR (“levy rules”).
+
+(3) Levy rules must secure that the aggregate amount payable by virtue of this section in respect of a chargeable period does not exceed the sum of—
+
+(a) the costs which the IFR estimates it will incur in exercising its functions under this Act during that period, which may include an amount in respect of contingencies in relation to that period,
+
+(b) the amount of any financial reserves which the IFR considers it appropriate to raise in that period for the purpose of meeting any costs of exercising its functions under this Act in future periods,
+
+(c) where the IFR’s actual costs incurred in exercising its functions under this Act in the previous chargeable period exceed the IFR’s estimate of those costs, the amount by which the IFR’s actual costs in the previous period exceeded the IFR’s estimate,
+
+(d) where the IFR’s estimate of the costs it would incur in exercising its functions in the previous chargeable period exceeds the IFR’s actual costs incurred, the amount (expressed as a negative figure) by which the IFR’s estimated costs in the previous period exceeded the IFR’s actual costs, and
+
+(e) an amount in respect of any of the IFR’s initial costs, and any of the Secretary of State’s establishment costs, that have not been recovered before the beginning of the chargeable period.
+
+(4) “The IFR’s initial costs” are the costs incurred by the IFR before the first chargeable period—
+
+(a) in preparing for the exercise of any of its functions under this Act, and
+
+(b) in exercising any of those functions.
+
+(5) “The Secretary of State’s establishment costs” are such costs as are—
+
+(a) incurred by the Secretary of State in relation to the establishment of the IFR before the coming into force of section 5, and
+
+(b) notified by the Secretary of State to the IFR before the first chargeable period.
+
+(6) Levy rules must make provision about—
+
+(a) how the IFR is to estimate the costs which it expects to incur in exercising its functions under this Act during a chargeable period;
+
+(b) how the IFR is to calculate the costs which it actually incurs in exercising those functions during a chargeable period;
+
+(c) how the IFR is to calculate an appropriate financial reserve to raise in a chargeable period;
+
+(d) how the IFR is to calculate the IFR’s initial costs;
+
+(e) the number of chargeable periods over which the IFR’s initial costs and the Secretary of State’s establishment costs will be recovered (“recovery periods”);
+
+(f) the maximum percentage of the IFR’s initial costs and of the Secretary of State’s establishment costs that may be recovered in each recovery period;
+
+(g) how the aggregate amount payable in respect of a chargeable period is to be divided between clubs that are licensed clubs during that period;
+
+(h) the administration and payment of the levy.
+
+(7) Levy rules may make provision—
+
+(a) for a club that would otherwise be required to pay the levy to not be required to pay it where conditions specified in levy rules are met;
+
+(b) for interest to be charged, at a rate specified in or calculated in accordance with the rules, on any amount of levy not paid by the day on which it is due.
+
+(8) If levy rules make the provision mentioned in subsection (7)(b), they must provide—
+
+(a) for the rate at which interest is charged not to exceed an annual percentage rate of 5% plus the Bank of England base rate,
+
+(b) that the IFR may charge interest at a rate determined by the IFR that is lower than the rate that would otherwise be applicable under the rules, where the IFR considers that appropriate, and
+
+(c) that the IFR may disapply a requirement for interest to be charged, where the IFR considers that appropriate.
+
+(9) In making the provision mentioned in subsection (6)(g) the IFR must (among other things) have regard to—
+
+(a) the financial resources of each licensed club, and
+
+(b) the specified competition in relation to which a relevant team is operated by each licensed club.
+
+(10) An amount payable by a club in accordance with this section and levy rules is recoverable as a civil debt due to the IFR.
+
+(11) For the purposes of this section and section 54 a “chargeable period” means—
+
+(a) the period of 12 months beginning with such day as may be specified by the IFR by notice for the purposes of this subsection (which is the first chargeable period), and
+
+(b) each subsequent period of 12 months.
+
+#### 54 Section 53: consultation and publication
+
+(1) Before making, amending or replacing levy rules the IFR must consult—
+
+(a) the Secretary of State,
+
+(b) the Treasury,
+
+(c) all regulated clubs, and
+
+(d) such other persons as the IFR considers appropriate.
+
+(2) Subsection (1) does not apply in relation to amendments to or replacements of levy rules if the IFR considers the changes to be minor.
+
+(3) The consultation must include a draft of the proposed levy rules.
+
+(4) As soon as reasonably practicable before the start of a chargeable period (“period A”) the IFR must publish—
+
+(a) an estimate of the costs which it expects to incur in exercising its functions under this Act during period A;
+
+(b) the actual costs of exercising those functions during the chargeable period immediately before period A (unless period A is the first chargeable period);
+
+(c) the amount of financial reserves which it considers it appropriate to raise in period A (if any);
+
+(d) the amount to be recovered in period A in respect of the IFR’s initial costs and the Secretary of State’s establishment costs (if any);
+
+(e) the amount of the IFR’s initial costs and the Secretary of State’s establishment costs that it has not recovered before the start of period A (if any);
+
+(f) the amount payable by each licensed club in respect of period A;
+
+(g) such information as it considers appropriate to explain how those costs and amounts are determined.
+
+(5) Where the IFR by notice specifies a day for the purposes of section 53(11) the IFR must, as soon as reasonably practicable after specifying the day, publish that notice.
+
+(6) In this section “the IFR’s initial costs” and “the Secretary of State’s establishment costs” have the same meanings as in section 53.
+
+### Duties on specified competition organisers
+
+#### 55 Duties to notify and consult the IFR
+
+(1) A specified competition organiser must notify the IFR where—
+
+(a) the organiser considers that there is a risk of the IFR’s ability to advance its club financial soundness objective or its systemic financial resilience objective being jeopardised,
+
+(b) the organiser has failed to comply with a commitment accepted by the IFR under section 24 or the organiser considers that there is an immediate risk of it failing to so comply, or
+
+(c) the organiser considers or suspects that a club has breached a relevant rule of a specified competition.
+
+(2) A notice under subsection (1) must—
+
+(a) explain why the specified competition organiser considers the duty under that subsection to have arisen, and
+
+(b) be given as soon as reasonably practicable after the specified competition organiser considers the duty under that subsection to have arisen.
+
+(3) A specified competition organiser must also notify the IFR before a penalty, sanction or other requirement (whether financial or otherwise) is imposed, whether by the organiser or another person, on a club that breaches or is suspected to have breached a relevant rule of a specified competition.
+
+(4) Where a notice under subsection (3) is not given before a penalty, sanction or other requirement is imposed, the specified competition organiser must notify the IFR of the fact that a penalty, sanction or other requirement has been imposed as soon as reasonably practicable after becoming aware of that fact.
+
+(5) A notice under subsection (3) or (4) must explain why the penalty, sanction or other requirement is being or has been imposed.
+
+(6) A specified competition organiser must consult the IFR before—
+
+(a) adding or removing a relevant rule of a specified competition, or
+
+(b) varying a relevant rule of a specified competition, unless the variation is not material.
+
+(7) A consultation under subsection (6) must—
+
+(a) explain why the specified competition organiser is proposing to add, remove or vary the relevant rule of a specified competition;
+
+(b) include a draft of the additional or varied rule.
+
+(8) In this section, “relevant rule of a specified competition” means a rule of the specified competition organised by the specified competition organiser that is relevant to the exercise of any of the IFR’s functions under this Act.
+
+## Part 6 — Distribution of revenue
+
+### Introduction
+
+#### 56 Part 6: overview and interpretation
+
+(1) This Part makes provision for a specified competition organiser to apply to the IFR for the triggering of a process under which—
+
+(a) specified competition organisers are required to enter into mediation in connection with the distribution of relevant revenue received by one of the organisers, and
+
+(b) if those organisers do not reach agreement during that process, the IFR may make an order as to the distribution of that revenue.
+
+(2) In this Part, “relevant revenue” means revenue received by a specified competition organiser—
+
+(a) as a result of the sale or acquisition of rights to exploit the broadcasting of football matches included in a competition organised by the specified competition organiser, or
+
+(b) from any other source specified, or of a description specified, in regulations made by the Secretary of State.
+
+(3) Before making regulations under subsection (2)(b), the Secretary of State must consult—
+
+(a) the IFR,
+
+(b) the Football Association, and
+
+(c) each specified competition organiser.
+
+(4) The Secretary of State may not make regulations under subsection (2)(b) unless there has been a material change in circumstances relating to the sources of relevant revenue received by a specified competition organiser since—
+
+(a) the day on which this section came into force, or
+
+(b) where regulations under subsection (2)(b) have been made, the day on which such regulations were last made.
+
+(5) For the purposes of this Part—
+
+- “distribution agreement” means an agreement between two specified competition organisers that provides for the distribution of relevant revenue received by one or both of those organisers (and includes an agreement entered into before the coming into force of any provision of this Part);
+
+- “distribution order” has the meaning given by section 62(6);
+
+- “qualifying football season”, in relation to an application under section 57, means—
+
+  - either—
+  
+    - the football season during which the application is made, or
+    - where the application is not made during a football season, the next football season after the application is made, and
+  
+  - any subsequent football season up to and including the fifth subsequent season;
+
+- “the resolution process” means the process set out in sections 60 to 62.
+
+(6) For the purposes of this Part, a distribution agreement or a distribution order relates to a qualifying football season if the agreement or order provides for the distribution of relevant revenue in or in respect of that season.
+
+### Applications for resolution process to be triggered
+
+#### 57 Applications for resolution process to be triggered
+
+(1) A specified competition organiser may apply to the IFR for the resolution process to be triggered where—
+
+(a) one or more questions have arisen between that organiser and another specified competition organiser, and
+
+(b) the question or questions relate to the distribution, in or in respect of one or more qualifying football seasons, of relevant revenue received by one of those organisers.
+
+(2) But a specified competition organiser may apply to the IFR under subsection (1) only if one or more of the following conditions are met in relation to the qualifying football season or seasons to which the question or questions for resolution mentioned in subsection (1) relate.
+
+(3) Condition 1 is met in relation to a qualifying football season if—
+
+(a) no distribution agreement is in force between the two specified competition organisers in relation to the season, and
+
+(b) no distribution order has effect in respect of the two specified competition organisers in relation to the season.
+
+(4) Condition 2 is met in relation to a qualifying football season if there has been, or will be, a material reduction in the relevant revenue received by one specified competition organiser in or in respect of that season compared to the relevant revenue received by that specified competition organiser in or in respect of any preceding season in relation to which (as the case may be)—
+
+(a) the last distribution agreement entered into between the two specified competition organisers had effect, or
+
+(b) the last distribution order made in relation to those organisers had effect.
+
+(5) Condition 3 is met in relation to a qualifying football season if, in relation to the relevant revenue received or to be received by either or both of the specified competition organisers in or in respect of that season, there has been or will be a material change in circumstances since (as the case may be)—
+
+(a) the day on which the last distribution agreement was entered into between those organisers, or
+
+(b) the day on which the last distribution order was made in relation to those organisers.
+
+(6) Condition 4 is met in relation to a qualifying football season if—
+
+(a) a distribution agreement is in force between the two specified competition organisers in relation to the season,
+
+(b) the distribution agreement has been in force for at least five years, and
+
+(c) no distribution order has effect in respect of the specified competition organisers in relation to the season.
+
+#### 58 Applications under section 57: procedural and other requirements
+
+(1) Before making an application under section 57, a specified competition organiser (“the notifier”) must—
+
+(a) notify the other specified competition organiser (“the respondent”) that the notifier intends to make the application, and
+
+(b) send a copy of the notification to the IFR.
+
+(2) A notification under subsection (1)(a) must—
+
+(a) set out details of the question or questions for resolution mentioned in section 57(1) to which it is intended the application will relate,
+
+(b) specify the qualifying football season or seasons to which that question relates or those questions relate,
+
+(c) explain why the notifier considers that at least one of the conditions in section 57 is met in relation to that season or those seasons,
+
+(d) invite the respondent to make representations about the content of the notification, and
+
+(e) specify the means by which, and the period within which, such representations must be made.
+
+(3) The period specified in the notice for making representations must be a period of not less than 14 days beginning with the day on which the notice is given.
+
+(4) An application under section 57 must not be made before the end of the period of five days beginning with the last day on which representations may be made.
+
+(5) An application under section 57 must—
+
+(a) set out details of the question or questions for resolution mentioned in section 57(1) to which the application relates,
+
+(b) specify the qualifying football season or seasons to which that question relates or those questions relate,
+
+(c) explain why the notifier considers that at least one of the conditions in section 57 is met in relation to that season or those seasons, and
+
+(d) be accompanied by copies of any representations made by the respondent about the content of the notification under subsection (1)(a).
+
+#### 59 Decisions by the IFR on applications under section 57
+
+(1) Where an application is made under section 57, the IFR must decide whether the resolution process should be triggered in relation to one or more of the questions for resolution to which the application relates (or a modified version of one or more of those questions).
+
+(2) The IFR may decide that the resolution process should be triggered in relation to the question or questions for resolution only if the IFR—
+
+(a) is satisfied that at least one of the conditions in section 57 is met in relation to each season to which the question relates or the questions relate,
+
+(b) has reasonable grounds to suspect that its ability to advance at least one of its objectives would be jeopardised if the resolution process were not triggered in relation to the question or questions for resolution, and
+
+(c) considers that the question or questions for resolution could not be resolved within a reasonable period of time by the IFR exercising any of its other functions under this Act.
+
+(3) In deciding whether the resolution process should be triggered in relation to one or more of the questions for resolution, the IFR may have regard to the purposes for which the distributed revenue would be used.
+
+(4) In deciding whether the resolution process should be triggered in reliance on the condition in section 57(3), the IFR may have regard to whether the situation described in section 57(3)(a) (no distribution agreement in force) has arisen as a result of bad faith on the part of either of the specified competition organisers.
+
+(5) Where the IFR is minded that the resolution process should be triggered, the IFR must consult the Football Association on the question or questions for resolution in relation to which it is minded to trigger the process.
+
+(6) If the IFR decides that the resolution process should be triggered, the IFR must—
+
+(a) notify the two specified competition organisers and give reasons for its decision, and
+
+(b) set out in the notice—
+
+(i) the question or questions for resolution in relation to which the IFR is triggering the resolution process,
+
+(ii) the qualifying football season or seasons to which that question relates or those questions relate,
+
+(iii) how the IFR has taken account of any representations, copies of which accompanied the application under section 57 by virtue of section 58(5)(d), in setting out that question or those questions, and
+
+(iv) any findings in the IFR’s most recent state of the game report that the IFR considers relevant to that question or those questions.
+
+(7) Where any of the questions for resolution set out in the notice differ from those to which the application made under section 57 relates, the notice must set out the extent of, and reasons for, those differences.
+
+(8) If the IFR decides that the resolution process should not be triggered, the IFR must notify the two specified competition organisers and give reasons for its decision.
+
+(9) The IFR must make the decision under subsection (1) within the period of 28 days beginning with the day on which the application is made.
+
+(10) The IFR may extend the period in subsection (9) by up to a further 28 days if it considers there are special reasons for doing so.
+
+### Resolution process
+
+#### 60 The mediation stage
+
+(1) This section applies where the IFR gives a notice under section 59(6).
+
+(2) The two specified competition organisers to which the notice was given must appoint a mediator before the end of the period of 14 days beginning with the day on which the notice was given.
+
+(3) If the period mentioned in subsection (2) ends without an appointment having been made by the specified competition organisers, the IFR must appoint a mediator as soon as reasonably practicable after that period has ended.
+
+(4) The IFR may extend the period in subsection (2) by up to a further 28 days if it considers there are special reasons for doing so.
+
+(5) A person appointed as a mediator under subsection (3) must be a person who the IFR considers to have appropriate skills and experience.
+
+(6) A mediator appointed under this section must mediate negotiations between the specified competition organisers on the question or questions for resolution set out in a notice under section 59(6)(b)(i) until whichever of the following events occurs first—
+
+(a) the specified competition organisers resolve that question or those questions (whether by entering into a distribution agreement or otherwise);
+
+(b) the end of the period of 28 days beginning with the day on which the mediator is appointed;
+
+(c) the specified competition organisers agree to terminate the mediation;
+
+(d) the mediator notifies the specified competition organisers that the mediator considers—
+
+(i) that there is no reasonable prospect of the specified competition organisers resolving the question or questions for resolution set out in a notice under section 59(6)(b)(i) (whether by entering into a distribution agreement or otherwise) within the period mentioned in paragraph (b), or
+
+(ii) either of the specified competition organisers is acting in bad faith.
+
+(7) The IFR must extend the period in subsection (6)(b)—
+
+(a) if requested in writing to do so by the mediator, and
+
+(b) by such period as is set out in the request, which may be up to a further 28 days.
+
+(8) The period in subsection (6)(b) may only be extended once.
+
+(9) A notification under subsection (6)(d) must include reasons for the decision.
+
+#### 61 Proposal stage
+
+(1) This section applies where mediation under section 60 comes to an end by virtue of the occurrence of an event within section 60(6)(b), (c) or (d).
+
+(2) As soon as reasonably practicable after the occurrence of the event, the IFR must give notice to the two specified competition organisers.
+
+(3) A notice under subsection (2) must—
+
+(a) set out the question or questions for resolution,
+
+(b) specify the qualifying football season or seasons to which that question relates or those questions relate,
+
+(c) set out any findings in the IFR’s most recent state of the game report that the IFR considers relevant to that question or those questions,
+
+(d) invite each of the two specified competition organisers to submit to the IFR and to each other a proposal as to how that question or those questions should be resolved,
+
+(e) require any proposal to be accompanied by supporting evidence (including evidence as to how the proposal addresses the findings set out under paragraph (c)),
+
+(f) specify the day on or before which proposals are to be submitted.
+
+(4) A question for resolution may be set out in a notice under subsection (2) only if it is the question, or one of the questions, for resolution remaining unresolved when the mediation mentioned in subsection (1) came to an end.
+
+(5) Where a notice under subsection (2) sets out a question for resolution that relates to relegation revenue (within the meaning given by section 62(9)), the notice must require the specified competition organisers to explain in a proposal how the proposal will promote the financial sustainability of clubs which operate teams relegated from a competition organised by the specified competition organiser distributing the relegation revenue.
+
+(6) Subsection (7) applies if, on or before the day specified by virtue of subsection (3)(f), a specified competition organiser submits to the IFR a proposal which the IFR considers is not a qualifying proposal.
+
+(7) The IFR may give both specified competition organisers a notice specifying a later day (falling not more than seven days after the end of the day specified by virtue of subsection (3)(f)) on or before which proposals are to be submitted.
+
+(8) As soon as reasonably practicable after—
+
+(a) the initial proposal deadline, or
+
+(b) (if earlier) the day on which the IFR considers that both specified competition organisers have submitted qualifying proposals,
+
+the IFR must give a notice under subsection (9) to the two specified competition organisers.
+
+(9) A notice under this subsection must—
+
+(a) state which of the two specified competition organisers (if any) has submitted a qualifying proposal before the initial proposal deadline,
+
+(b) invite each such specified competition organiser to—
+
+(i) confirm their proposal, or
+
+(ii) make any permitted modifications to their proposal,
+
+and submit the confirmed or modified proposal to the IFR and the other specified competition organiser, and
+
+(c) specify the day on or before which the confirmed or modified proposal is to be submitted.
+
+(10) The IFR may specify in a notice under subsection (2) or (9) the form and manner in which proposals and supporting evidence must be submitted.
+
+(11) In this section—
+
+(a) “the initial proposal deadline” means—
+
+(i) the day referred to in subsection (3)(f), or
+
+(ii) where the IFR gives a notice under subsection (7), the day specified in the notice;
+
+(b) a “qualifying proposal” means a proposal which—
+
+(i) explains how the question or questions for resolution should be resolved, and
+
+(ii) complies with the requirements imposed by virtue of subsection (3)(e) and (5) (if applicable);
+
+(c) a modification to a proposal is “permitted” unless it results in the proposal no longer being a qualifying proposal.
+
+#### 62 Distribution orders
+
+(1) This section applies where the IFR has given a notice under section 61(9).
+
+(2) Before the end of the period of 60 days beginning with the day on which the notice under section 61(9) was given, the IFR must give the two specified competition organisers a notice of the distribution order it proposes to make.
+
+(3) The IFR may extend the period in subsection (2) by up to a further 14 days if it considers it appropriate to do so.
+
+(4) A notice under subsection (2) must—
+
+(a) give reasons for the proposed distribution order,
+
+(b) explain how the proposed order applies the principles mentioned in subsection (8),
+
+(c) explain how the proposed order addresses the findings set out under section 61(3)(c),
+
+(d) invite each of the two specified competition organisers to make representations about the proposed distribution order,
+
+(e) specify the period within which such representations may be made, and
+
+(f) specify the means by which they may be made,
+
+and the IFR must have regard to any representations which are duly made.
+
+(5) The period specified under subsection (4)(d) must be a period of not less than 14 days beginning with the day on which the notice is given.
+
+(6) As soon as reasonably practicable after the end of the period specified under subsection (4)(d), the IFR must make an order requiring relevant revenue to be distributed in a way that the IFR considers appropriate for the purpose of resolving the question or questions for resolution set out under section 61(3)(a) (a “distribution order”).
+
+(7) In making a distribution order the IFR must—
+
+(a) apply the principles mentioned in subsection (8), and
+
+(b) have regard to any proposal submitted under section 61(9)(b).
+
+See also section 7 (in particular the IFR’s general duty to exercise its functions in a way that advances one or more of its objectives and to have regard to various matters).
+
+(8) The principles referred to in subsection (7)(a) are that—
+
+(a) the distribution order should not place an undue burden on the commercial interests of either specified competition organiser, and
+
+(b) the distribution order should not result in a lower amount of relegation revenue being distributed to a club during the relevant period than would have been distributed to the club during that period had the order not been made.
+
+(9) For the purposes of subsection (8)—
+
+- “relegation revenue” means revenue distributed by a specified competition organiser to a club in consequence of a team operated by the club being relegated from a specified competition organised by the specified competition organiser;
+- “relevant period”, in relation to a distribution order, means the period of one year beginning with the final day of the first football season in respect of which relegation revenue would be distributed in pursuance of the order.
+
+(10) A distribution order—
+
+(a) must impose on the specified competition organisers such obligations as the IFR considers appropriate for the purpose of securing compliance with the requirements set out in the order, and
+
+(b) may, where a distribution agreement is in force between the specified competition organisers in relation to the same qualifying football season or seasons to which the order relates, provide for that agreement to have effect subject to provision contained in the order.
+
+(11) At the same time as making a distribution order, the IFR must give the two specified competition organisers a notice—
+
+(a) including a copy of the order,
+
+(b) giving reasons for the order,
+
+(c) explaining how the order applies the principles mentioned in subsection (8),
+
+(d) explaining how the order addresses the findings set out under section 61(3)(c), and
+
+(e) including information about the possible consequences under Part 8 of not complying with the order.
+
+(12) The IFR must, as soon as reasonably practicable after making a distribution order, publish the order or a summary of the order.
+
+#### 63 Duration and revocation of distribution orders
+
+(1) A distribution order comes into force at such time as the order may specify.
+
+(2) A distribution order ceases to have effect—
+
+(a) on such day as may be specified in the order, or
+
+(b) if revoked under subsection (3) or (4).
+
+(3) The IFR may revoke a distribution order if it considers that there are exceptional circumstances that make it appropriate to do so.
+
+(4) The IFR must revoke a distribution order where it is satisfied that the two specified competition organisers have, after the making of the order, entered into a distribution agreement relating to the same qualifying football season or seasons to which the distribution order relates.
+
+(5) Where the IFR revokes a distribution order, it must give a notice to that effect to the specified competition organisers.
+
+(6) The notice must include the reasons for the IFR’s decision.
+
+(7) The notice may include transitional, transitory or saving provision in relation to the revocation of the distribution order.
+
+### Miscellaneous
+
+#### 64 Review of distribution orders, payment of costs, etc
+
+(1) The IFR must keep under review—
+
+(a) the extent to which specified competition organisers are complying with a distribution order which has effect in respect of them,
+
+(b) whether to take enforcement action under Part 8 in respect of a specified competition organiser which does not comply with a distribution order, and
+
+(c) whether to revoke a distribution order.
+
+(2) The IFR may by rules make provision about the payment of costs incurred by it or any other person under or by virtue of this Part.
+
+(3) Nothing in this Part—
+
+(a) affects the capacity of one or more specified competition organisers to agree, at any time, how relevant revenue received by a specified competition organiser is to be distributed (whether by entering into a distribution agreement or otherwise), or
+
+(b) prevents such an agreement from having effect or being enforced (subject to section 62(10)(b)).
+
+## Part 7 — Investigatory powers etc
+
+### Information gathering
+
+#### 65 Power to require information
+
+(1) The IFR may give a person a notice (an “information notice”) requiring the person to give specified information to the IFR where the IFR considers that the information is necessary for the purpose of exercising the IFR’s functions under this Act.
+
+(2) An information notice must—
+
+(a) explain why the IFR requires the information;
+
+(b) state the time by which, or the frequency with which, the information must be given to the IFR;
+
+(c) state the place at which, or the manner (which may be remote) in which, the information must be given to the IFR;
+
+(d) state the form in which the information must be given to the IFR;
+
+(e) include information about the possible consequences under Part 8 of not complying with the notice.
+
+(3) The power under this section to require a person to give information to the IFR includes the power to—
+
+(a) take copies of or extracts from the information given to the IFR;
+
+(b) require the person to obtain or generate information for the purpose of giving that information to the IFR;
+
+(c) require the person to collect or retain information that they would not otherwise collect or retain for the purpose of giving that information to the IFR;
+
+(d) if any specified information is not given to the IFR, require the person to state, to the best of their knowledge and belief, both where that information is and why it has not been given to the IFR.
+
+(4) In this section, “specified” means—
+
+(a) specified, or described, in the information notice, or
+
+(b) falling within a category which is specified, or described, in the information notice.
+
+#### 66 Reports on clubs by expert reporters
+
+(1) The IFR may appoint a person (“an expert reporter”) to prepare, and provide the IFR with, a report in relation to a regulated club on any matter where the IFR considers that a report on the matter is necessary for the purpose of exercising the IFR’s functions under this Act.
+
+(2) Where the IFR appoints an expert reporter the IFR must give the club concerned a notice—
+
+(a) stating the name of the expert reporter;
+
+(b) giving details of the matter on which the report is to be prepared;
+
+(c) including information about the possible consequences under Part 8 of failing to co-operate with or assist, or otherwise obstructing, the expert reporter in the preparation of the report.
+
+(3) An expert reporter must be a person appearing to the IFR—
+
+(a) to have the skills necessary to provide a report on the matter concerned, and
+
+(b) not to have a conflict of interest.
+
+(4) An expert reporter may by notice require a person to give specified information to the expert reporter where the expert reporter considers that the information is necessary for the purpose of preparing a report under this section.
+
+(5) A notice under subsection (4) must—
+
+(a) explain why the expert reporter requires the information;
+
+(b) state the time by which, or the frequency with which, the specified information must be given to the expert reporter;
+
+(c) state the place at which, or the manner (which may be remote) in which, the information must be given to the expert reporter;
+
+(d) state the form in which the information must be given to the expert reporter;
+
+(e) include information about the possible consequences under Part 8 of—
+
+(i) not complying with the notice, or
+
+(ii) failing to co-operate with or assist, or otherwise obstructing, the expert reporter in the preparation of the report.
+
+(6) The power under subsection (4) to require a person to give information to an expert reporter includes the power to—
+
+(a) take copies of or extracts from the information given to the expert reporter;
+
+(b) require the person to obtain or generate information for the purpose of giving that information to the expert reporter;
+
+(c) require the person to collect or retain information that they would not otherwise collect or retain for the purpose of giving that information to the expert reporter;
+
+(d) if any specified information is not given to the expert reporter, require the other person to state, to the best of their knowledge and belief, both where that information is and why it has not been given to the expert reporter.
+
+(7) A person to whom an expert reporter gives a notice under subsection (4) and the club to which a report under this section relates—
+
+(a) must co-operate with the expert reporter in connection with the preparation of the report, and
+
+(b) must give the expert reporter such reasonable assistance as the expert reporter requests (including access to business premises, equipment, services, information and individuals) in connection with the preparation of the report.
+
+(8) In this section “specified” means—
+
+(a) specified or described in the notice under subsection (4), or
+
+(b) falling within a category which is specified or described in the notice.
+
+(9) The IFR may by rules make provision for—
+
+(a) costs incurred by it in relation to the appointment of a person under this section, or
+
+(b) expenses incurred by a person appointed under this section in connection with the preparation of a report under this section,
+
+to be payable by the club concerned.
+
+### Investigations into relevant infringements
+
+#### 67 Meaning of “relevant infringement”
+
+In this Act, references to a “relevant infringement” are to be construed in accordance with Schedule 7.
+
+#### 68 Investigations
+
+(1) The IFR may conduct an investigation where it has reasonable grounds for suspecting that a person has committed a relevant infringement.
+
+(2) Schedule 8 sets out the powers available to the IFR where it decides to conduct an investigation.
+
+(3) Where the IFR decides to conduct an investigation it must, as soon as reasonably practicable after making the decision, give a notice (an “investigation notice”) to the person it has reasonable grounds for suspecting to have committed a relevant infringement.
+
+(4) An investigation notice is a notice—
+
+(a) stating that the IFR has decided to conduct an investigation;
+
+(b) indicating the relevant infringement the IFR has reasonable grounds for suspecting to have been committed;
+
+(c) explaining the matter being investigated.
+
+(5) The IFR may delay giving an investigation notice if it considers that giving the notice would prejudice the investigation.
+
+(6) Where the IFR delays giving an investigation notice in accordance with subsection (5), it must give the investigation notice to the person concerned as soon as reasonably practicable after the IFR no longer considers that giving the notice would prejudice the investigation.
+
+#### 69 Outcomes of investigations
+
+(1) When the IFR conducts an investigation under section 68 into whether a person has committed a relevant infringement, the IFR must determine—
+
+(a) whether the person committed the infringement, and
+
+(b) if so, whether the person had a reasonable excuse for committing the infringement.
+
+(2) The IFR must give a person a closure notice where—
+
+(a) the IFR determines that the person has not committed the infringement, or
+
+(b) the IFR determines that the person has committed the infringement but is not minded to take any action as a result of that determination (whether because the person had a reasonable excuse for committing the infringement, or otherwise).
+
+(3) A closure notice is a notice—
+
+(a) stating the IFR’s determination, and
+
+(b) explaining the IFR’s determination.
+
+(4) Where the IFR has accepted a commitment from the person to whom an investigation relates (see section 70), this section does not apply in relation to the behaviour to which the commitment relates.
+
+(5) Part 8 contains provision about cases where the IFR determines that a person has committed a relevant infringement and is minded to take action as a result of that determination.
+
+#### 70 Commitments in lieu of investigations
+
+(1) Where an investigation under section 68 relates to a relevant infringement to which this section applies, the IFR may accept an appropriate commitment from the person to whom the investigation relates as to their behaviour in respect of the relevant infringement.
+
+(2) A commitment is “appropriate” if the IFR considers that the person’s compliance with the commitment would mean that it would not be necessary to carry out an investigation so far as relating to the behaviour to which the commitment relates.
+
+(3) Where the IFR accepts a commitment under this section—
+
+(a) subject to subsection (4), the IFR may not take action under Part 8 in respect of the relevant infringement, so far as relating to the behaviour, and
+
+(b) the person that gave the commitment must comply with it while it has effect.
+
+(4) But the acceptance of a commitment—
+
+(a) does not prevent an investigation from continuing so far as it relates to other behaviour in relation to the same or a different relevant infringement;
+
+(b) does not prevent the IFR beginning a new investigation in relation to the behaviour to which the commitment relates where the IFR has reasonable grounds to suspect that—
+
+(i) there has been a material change of circumstances since the commitment was accepted,
+
+(ii) the person has not complied with the commitment in any respect, or
+
+(iii) information which led it to accept the commitment was incomplete, false or misleading in a material particular.
+
+(5) This section applies to relevant infringements that are relevant infringements by virtue of any of the following provisions of Schedule 7—
+
+(a) paragraph 2(2)(a), (b), (e) or (h);
+
+(b) paragraph 2(3)(c) or (d);
+
+(c) paragraph 3(a) or (f);
+
+(d) paragraph 4(a) or (f);
+
+(e) paragraph 5, but only so far as the relevant infringement mentioned in sub-paragraph (1)(a) of that paragraph is a relevant infringement mentioned in paragraph (a) or (b) of this subsection;
+
+(f) paragraph 6(b), (c) or (f).
+
+(6) This section is without prejudice to the power of the IFR to attach or vary a discretionary licence condition to an operating licence that relates to behaviour in respect of a relevant infringement.
+
+#### 71 Section 70: supplementary
+
+(1) Where the IFR decides to accept, or not to accept, a commitment from a person under section 70 the IFR must, as soon as reasonably practicable after so deciding, give the person a notice—
+
+(a) including the commitment,
+
+(b) stating the relevant infringement to which the commitment relates,
+
+(c) stating that the IFR has accepted, or not accepted, the commitment, and
+
+(d) explaining why the IFR has accepted, or not accepted, the commitment.
+
+(2) A commitment accepted under section 70—
+
+(a) comes into force when notice of the IFR’s acceptance of it is given under subsection (1), and
+
+(b) ceases to have effect if under subsection (4) the person is released from the commitment.
+
+(3) The IFR may, from time to time, accept a variation to a commitment accepted under section 70 provided the commitment as varied would still be appropriate (and for that purpose subsections (1) and (2) apply in relation to a variation to a commitment as they apply in relation to the acceptance of a commitment).
+
+(4) The IFR may release a person from a commitment accepted under section 70 where it considers that it would be appropriate to do so.
+
+(5) Where the IFR decides to release a person from a commitment accepted under section 70 the IFR must, as soon as reasonably practicable after so deciding, give the person a notice—
+
+(a) stating that the IFR has released the person from the commitment, and
+
+(b) explaining why the IFR is releasing the person from the commitment.
+
+(6) The fact that a commitment under accepted section 70 ceases to have effect does not affect the exercise of any functions in relation to a failure, or possible failure, to comply with that commitment.
+
+(7) The IFR must keep under review—
+
+(a) the extent to which a person which gave a commitment accepted under section 70 is complying with it,
+
+(b) the appropriateness of such a commitment,
+
+(c) whether a person should be released from such a commitment (and whether a discretionary licence condition should be attached to an operating licence, or varied, instead), and
+
+(d) the appropriateness of taking action in accordance with Part 8 in respect of a person who fails to comply with such a commitment.
+
+(8) Where the IFR gives a person a notice under this section it may also publish that notice.
+
+#### 72 Duty to preserve information
+
+(1) A person who knows or suspects that an investigation under section 68 is being, or is likely to be, conducted must not, without reasonable excuse—
+
+(a) destroy or otherwise dispose of relevant information,
+
+(b) falsify or conceal relevant information, or
+
+(c) cause or permit the destruction, disposal, falsification or concealment of relevant information.
+
+(2) In subsection (1), “relevant information” means any information which the person knows or suspects is or would be relevant to the investigation.
+
+### General
+
+#### 73 Privileged communications
+
+(1) Nothing in this Part authorises the IFR, an officer of the IFR or an expert reporter to require a person to produce, generate or give to the IFR, an officer of the IFR or an expert reporter a privileged communication.
+
+(2) Nothing in this Part authorises the IFR, an officer of the IFR or an expert reporter to produce or take possession of, or take copies of or extracts from, a privileged communication (but see Part 2 of the Criminal Justice and Police Act 2001 for additional powers of seizure).
+
+(3) For the purposes of this section—
+
+(a) “privileged communication” means a communication—
+
+(i) between a professional legal adviser and their client, or
+
+(ii) made in connection with, or in contemplation of, legal proceedings and for the purposes of those proceedings,
+
+which in proceedings in the High Court would be protected from disclosure on grounds of legal professional privilege;
+
+(b) “expert reporter” means a person appointed under section 66.
+
+#### 74 Requirement to publish certain notices etc
+
+Where the IFR gives a person—
+
+(a) an investigation notice under section 68, or
+
+(b) a closure notice under section 69,
+
+it must, as soon as reasonably practicable after giving the notice, publish the notice.
+
+## Part 8 — Enforcement
+
+### Sanctions and offences etc
+
+#### 75 Sanctions
+
+(1) Part 1 of Schedule 9 sets out the action the IFR may take in relation to a person where—
+
+(a) the IFR determines that the person has, without reasonable excuse, failed to comply with an information requirement, or
+
+(b) the IFR is satisfied beyond reasonable doubt that the person has committed an offence under section 78.
+
+(2) In subsection (1) and in Part 1 of Schedule 9, “information requirement” means a requirement imposed by or under section 65, 66 or 72 or Schedule 8.
+
+(3) Part 2 of Schedule 9 sets out the action the IFR may take where (whether as a result of an investigation or otherwise) the IFR determines that a person has, without reasonable excuse, committed a relevant infringement (but this is subject to subsection (6)).
+
+(4) Part 3 of Schedule 9 makes provision in connection with financial penalties under paragraphs 3 and 6 of that Schedule.
+
+(5) The IFR may not take action in relation to a person under Schedule 9 in respect of an act or omission which constitutes an offence under section 78 if the person has, in relation to that act or omission, been found guilty of that offence.
+
+(6) The IFR may not take action in relation to a club where it determines that the club has, without reasonable excuse, committed a relevant infringement by virtue of paragraph 2(4)(a)(ii) of Schedule 7 (but it may, in respect of such an infringement, take action in relation to a senior manager by virtue of paragraph 5 of that Schedule).
+
+#### 76 Warning notices
+
+(1) Where the IFR is minded to take action in relation to a person in accordance with section 75 and Schedule 9, the IFR must first give the person a warning notice.
+
+(2) A warning notice is a notice that—
+
+(a) gives details of the action the IFR is minded to take,
+
+(b) explains why the IFR is minded to take the action,
+
+(c) invites the person concerned to make representations about the proposed action,
+
+(d) specifies the means by which, and the period within which, such representations must be made, and
+
+(e) states whether the decision whether to take action is to be taken by the Board or delegated under paragraph 18 of Schedule 2, and if it is to be delegated, to which person or committee listed in that paragraph it is to be delegated.
+
+(3) The period for making representations must be a period of not less than 14 days beginning with the day on which the warning notice is given.
+
+(4) The IFR must have regard to any representations received in accordance with a warning notice before giving a decision notice under section 77 (and, accordingly, may not take action in accordance with section 75 and Schedule 9 until the period allowed for representations has expired).
+
+#### 77 Decision notices
+
+(1) As soon as reasonably practicable after the period allowed for representations under section 76 has expired, the IFR must—
+
+(a) determine whether to take action in relation to the person in accordance with section 75 and Schedule 9, and
+
+(b) give the person a decision notice.
+
+(2) A decision notice is a notice that—
+
+(a) states—
+
+(i) the action that the IFR is taking (which, subject to subsection (3), does not need to be the same action detailed in the warning notice), or
+
+(ii) that the IFR is not taking action,
+
+(b) explains why the IFR is taking that action or is not taking action,
+
+(c) where the IFR is taking action, states—
+
+(i) what action (if any) the person is required to take as a result, and
+
+(ii) the day or days by which the person is required to take that action, and
+
+(d) states whether the decision to take action, or not to take action, was made by the Board or delegated under paragraph 18 of Schedule 2, and if it was delegated, to which person or committee listed in that paragraph it was delegated.
+
+(3) The IFR may not take action under paragraph 9 of Schedule 9 (suspension or revocation of operating licence) unless action under that paragraph was detailed in the warning notice.
+
+(4) Subsection (5) applies where the IFR—
+
+(a) has given a person a decision notice and has taken the action stated in it, but
+
+(b) considers that the action has been ineffective.
+
+(5) The IFR may take further action in accordance with section 75 and Schedule 9 (and section 76 and this section apply in relation to any such further action).
+
+#### 78 Offences
+
+(1) A person commits an offence if the person—
+
+(a) intentionally or recklessly destroys or otherwise disposes of relevant information,
+
+(b) falsifies or conceals relevant information, or
+
+(c) causes or permits the destruction, disposal, falsification or concealment of relevant information.
+
+(2) In subsection (1), “relevant information” means information the person is required, under or by virtue of this Act, to give to—
+
+(a) the IFR, or
+
+(b) an expert reporter appointed under section 66.
+
+(3) A person commits an offence if—
+
+(a) the person gives information to—
+
+(i) the IFR in connection with any of its functions under this Act, or
+
+(ii) an expert reporter appointed under section 66 in connection with the preparation of a report under that section,
+
+(b) the information is false or misleading in a material particular, and
+
+(c) the person knows or is reckless as to whether that is the case.
+
+(4) A person commits an offence if the person gives information to another person which is false or misleading in a material particular and the person—
+
+(a) knows that the information is false or misleading in a material particular or is reckless as to whether that is the case, and
+
+(b) knows that the information will be given to—
+
+(i) the IFR in connection with any of its functions under this Act, or
+
+(ii) an expert reporter appointed under section 66 in connection with the preparation of a report under that section.
+
+(5) A person commits an offence if the person intentionally obstructs an officer of the IFR acting in the exercise of the officer’s powers under a warrant issued under paragraph 3 of Schedule 8.
+
+(6) A person guilty of an offence under this section is liable—
+
+(a) on summary conviction, to imprisonment for a term not exceeding the general limit in a magistrates’ court, to a fine or to both;
+
+(b) on conviction on indictment, to imprisonment for a term not exceeding 2 years, to a fine, or to both.
+
+(7) A person may not be found guilty of an offence under this section by virtue of an act or omission if the IFR has taken action under Schedule 9 in relation to the person in relation to that act or omission.
+
+### Urgent directions
+
+#### 79 Urgent directions
+
+(1) This section applies where—
+
+(a) the IFR determines (whether as a result of an investigation or otherwise) that a person has, without reasonable excuse, committed a relevant infringement,
+
+(b) the relevant infringement is continuing, and
+
+(c) the relevant infringement jeopardises, or immediately risks jeopardising, the IFR’s ability to advance one or more of its objectives.
+
+(2) The IFR may give the person such direction as the IFR considers appropriate to bring the relevant infringement to an end (an “urgent direction”).
+
+(3) An urgent direction must—
+
+(a) explain why the IFR is giving a direction;
+
+(b) state the action the direction requires the person to take or the action the direction prohibits the person from taking;
+
+(c) state the period during which the action must be taken or the prohibited action must not be taken (as the case may be);
+
+(d) include information about the possible consequences under Part 8 of not complying with the direction;
+
+(e) if the IFR did not give the person concerned an opportunity to make representations before giving the direction, explain why;
+
+(f) include any other information the IFR considers relevant.
+
+(4) A period specified in an urgent direction may be indefinite.
+
+(5) An urgent direction may be varied or revoked by a further urgent direction.
+
+(6) Where the IFR is minded to vary an urgent direction so as to extend a time period, the IFR must invite the person concerned to make representations before giving a further urgent direction.
+
+(7) Before giving a further urgent direction the IFR must have regard to any representations received (whether in response to an invitation under subsection (6) or otherwise).
+
+### Publication
+
+#### 80 Requirement to publish certain notices etc
+
+Where the IFR gives a person—
+
+(a) a warning notice under section 76,
+
+(b) a decision notice under section 77, or
+
+(c) an urgent direction under section 79,
+
+it must, as soon as reasonably practicable after giving the notice or direction, publish that notice or direction.
+
+## Part 9 — Reviews and appeals
+
+### 81 Reviewable decisions etc
+
+(1) Where the IFR makes a reviewable decision, the IFR must, as soon as reasonably practicable after making the decision, notify each concerned person of—
+
+(a) the person’s right to request a review by the applicable reviewer under section 82, and
+
+(b) the person’s right to appeal to the Tribunal under section 84.
+
+(2) In this Part—
+
+- “applicable reviewer”, in relation to a reviewable decision, means the person mentioned in the corresponding entry in the second column of the Table in Schedule 10;
+- “concerned person”, in relation to a reviewable decision, means a person who appears to the IFR to be directly affected by the decision;
+- “reviewable decision” means a decision listed in the first column of the Table in Schedule 10.
+
+### 82 Request for internal review
+
+(1) Where the IFR makes a reviewable decision, a concerned person may request a review of that decision by the applicable reviewer.
+
+(2) A concerned person may request a review by notifying the IFR within the period of seven days beginning with the day on which the person is notified of their right to request a review under section 81(1)(a).
+
+(3) Where a review of a reviewable decision is requested under this section, the IFR must, as soon as reasonably practicable after the request is made, decide whether or not to carry out a review.
+
+(4) The IFR may only decide not to carry out a review if—
+
+(a) an appeal has been made against the reviewable decision under section 84(1) (whether by a concerned person or any other person with a sufficient interest in the decision),
+
+(b) the request is for a review of a decision that is not a reviewable decision, or
+
+(c) the IFR considers that—
+
+(i) the person requesting the review is not a concerned person,
+
+(ii) the request for a review is vexatious, or
+
+(iii) there is no reasonable prospect of a review resulting in the decision being varied or cancelled.
+
+(5) Where the IFR decides not to carry out a review of a reviewable decision—
+
+(a) the IFR must notify each concerned person of its decision and the reasons for that decision,
+
+(b) the applicable reviewer is treated as having decided to uphold the reviewable decision, and
+
+(c) the IFR must, as soon as reasonably practicable after giving the notice required under paragraph (a), publish notice of the fact that the applicable reviewer is treated as having decided to uphold the reviewable decision.
+
+(6) Where the IFR decides to carry out a review of a reviewable decision, it must notify each concerned person of its decision.
+
+(7) A request for a review under this section does not suspend the effect of the decision to which the review relates except so far as a direction suspending the effect of the decision is given by the applicable reviewer.
+
+(8) But the applicable reviewer may not give a direction suspending the effect of a decision of the IFR to—
+
+(a) attach a discretionary licence condition to, or vary a discretionary licence condition attached to, an operating licence in a case where the IFR was not required to give notice of attaching or varying the condition by virtue of section 23(6);
+
+(b) give a direction under section 41 (directions relating to unsuitable owners and officers);
+
+(c) specify a competition as a prohibited competition under section 45;
+
+(d) give an urgent direction under section 79;
+
+(e) suspend or revoke an operating licence under paragraph 9 of Schedule 9 by virtue of the third aggravating condition in paragraph 8 of that Schedule being met.
+
+(9) In the case of a reviewable decision in relation to which the applicable reviewer is a committee of the Expert Panel, the Chief Executive Officer must, as soon as reasonably practicable after the IFR has given notice under subsection (6), establish a committee of the Expert Panel to carry out the review (see paragraph 28 of Schedule 2).
+
+(10) In a case where—
+
+(a) the reviewable decision was made by a committee of the Expert Panel (“the deciding committee”), and
+
+(b) the applicable reviewer in relation to that decision is also a committee of the Expert Panel (“the reviewing committee”),
+
+the Chief Executive Officer may not appoint to the reviewing committee a member of the Expert Panel who was a member of the deciding committee.
+
+(11) In a case where the reviewable decision was made by the Board and the applicable reviewer in relation to that decision is also the Board, any member of the Board who took part in the decision may not take part in the review.
+
+### 83 Internal reviews
+
+(1) Where the IFR decides to carry out a review of a reviewable decision—
+
+(a) the applicable reviewer may determine the nature and extent of the review, and
+
+(b) the applicable reviewer must have regard to any representations made by the concerned person in accordance with that determination.
+
+(2) The applicable reviewer may, after carrying out a review, decide to—
+
+(a) uphold the decision,
+
+(b) vary the decision, or
+
+(c) cancel the decision.
+
+(3) The IFR must—
+
+(a) notify each concerned person in relation to the reviewable decision of the applicable reviewer’s decision on a review and the reasons for that decision, and
+
+(b) as soon as reasonably practicable after giving the notice required under paragraph (a), publish the decision.
+
+(4) The IFR must give the notice required under subsection (3)(a)—
+
+(a) where the reviewer is the Board, before the end of the period of 28 days beginning with the day on which the IFR gave notice under section 82(6);
+
+(b) where the reviewer is a committee of the Expert Panel, before the end of the period of 28 days beginning with the day on which the committee is established.
+
+(5) The IFR may, if it considers that there are special reasons for doing so, extend by up to a further 14 days the period before the end of which it is to give notice of the decision of the applicable reviewer.
+
+(6) If the IFR does not give the notice required under subsection (3)(a) to each concerned person before the end of the period given by subsection (4) or (5)—
+
+(a) the applicable reviewer is treated as having decided to uphold the reviewable decision, and
+
+(b) the IFR must—
+
+(i) as soon as reasonably practicable after the end of the period given by subsection (4) or (5), notify each concerned person of the fact that the applicable reviewer is treated as having decided to uphold the reviewable decision, and
+
+(ii) as soon as reasonably practicable after giving the notice required by sub-paragraph (i), publish notice of that fact.
+
+(7) The IFR may make rules providing for costs incurred by the IFR in exercising functions under this section to be payable by a concerned person who requested a review of a reviewable decision where—
+
+(a) the applicable reviewer has decided to uphold the reviewable decision (but excluding where the applicable reviewer is treated as having upheld the reviewable decision under subsection (6)(a)), and
+
+(b) both the reviewable decision and the applicable reviewer’s decision to uphold it have become final.
+
+(8) A decision becomes final—
+
+(a) when the time specified in Part 5B of the Tribunal Procedure Rules for appealing against it expires without an appeal having been brought, or
+
+(b) where an appeal has been brought against the decision, when—
+
+(i) the appeal and any further appeal are dismissed, withdrawn or abandoned, and
+
+(ii) the time for appealing against the result of the appeal or further appeal has expired without another appeal having been brought.
+
+(9) Rules made under subsection (7) must require the IFR, in deciding whether to require payment of costs or determining the amount of those costs, to have regard to the financial resources of the concerned person who requested the review.
+
+### 84 Appeals to the Competition Appeal Tribunal
+
+(1) This section applies to—
+
+(a) a reviewable decision of the IFR listed in subsection (3),
+
+(b) a decision made by an applicable reviewer under section 83(2), and
+
+(c) a decision treated as having been made by an applicable reviewer by virtue of section 82(5)(b) or 83(6)(a) (a “deemed decision”).
+
+(2) A concerned person, or any other person with a sufficient interest, may appeal to the Tribunal against a decision to which this section applies.
+
+(3) The reviewable decisions specified for the purposes of subsection (1)(a) are—
+
+(a) the revocation of an operating licence under section 19;
+
+(b) a deemed determination under section 32(5) that a person is not suitable to be an owner or officer of a club;
+
+(c) a deemed determination under section 34 that an individual is not suitable to be an owner of a club;
+
+(d) a deemed determination under section 35 that an individual is not suitable to be an officer of a club;
+
+(e) the making of an order under section 38 (disqualification) in respect of a person;
+
+(f) the suspension or revocation of an operating licence under paragraph 9 of Schedule 9.
+
+(4) But a person may not appeal to the Tribunal against a reviewable decision listed in subsection (3) if—
+
+(a) an applicable reviewer has been requested to review that decision under section 82 (whether or not by the person), and
+
+(b) the applicable reviewer has not made a decision or deemed decision on that review.
+
+(5) A person appeals to the Tribunal under subsection (2) by sending the Tribunal a notice of appeal in accordance with Tribunal Procedure Rules.
+
+(6) The notice of appeal must be sent within the period specified, in relation to the decision appealed against, in Part 5B of the Tribunal Procedure Rules.
+
+(7) An appeal under subsection (2) does not suspend the effect of the decision to which the appeal relates except so far as a direction suspending the effect of the decision is given by the Tribunal.
+
+(8) But the Tribunal may not give a direction suspending the effect of the decision in relation to—
+
+(a) a decision of the IFR listed in section 82(8), or
+
+(b) a decision or deemed decision of an applicable reviewer in respect of a reviewable decision listed in section 82(8).
+
+(9) An appeal lies to the Court of Appeal on any point of law arising from a decision of the Tribunal on an appeal under this section.
+
+(10) An appeal under subsection (9) requires the permission of the Tribunal or the Court of Appeal.
+
+### 85 Proceedings before the Competition Appeal Tribunal
+
+(1) The Tribunal must determine any appeal under section 84(1) in relation to—
+
+(a) a reviewable decision listed in section 84(3), or
+
+(b) a decision or deemed decision of an applicable reviewer under section 83(2) in respect of a reviewable decision listed in section 84(3),
+
+on the merits by reference to the grounds of appeal set out in the notice of appeal.
+
+(2) The Tribunal must determine any other appeal under section 84(1) by applying the same principles as would be applied by the High Court in determining proceedings on judicial review.
+
+(3) Where subsection (1) applies in relation to an appeal, the Tribunal may confirm or set aside the decision which is the subject of the appeal, or any part of it, and may—
+
+(a) remit the matter to the IFR or the applicable reviewer (as the case may be),
+
+(b) take such other steps as the IFR or the applicable reviewer could have taken, or
+
+(c) make any other decision which the IFR or the applicable reviewer could have made.
+
+(4) Where subsection (2) applies in relation to an appeal, the Tribunal—
+
+(a) may dismiss the appeal or quash the whole or part of the decision to which it relates, and
+
+(b) may, where it quashes the whole or part of that decision, remit the matter to the IFR with a direction to reconsider and make a new decision in accordance with the ruling of the Tribunal.
+
+(5) In subsection (1), the reference to a deemed decision of an applicable reviewer is to a decision that the applicable reviewer is treated as having made by virtue of section 82(5)(b) or 83(6)(a).
+
+## Part 10 — General
+
+### Disclosure of information
+
+#### 86 Disclosure of information by the IFR
+
+(1) The IFR may disclose information held in connection with its functions under this Act to—
+
+(a) a person specified in subsection (2), for the purpose of facilitating the exercise of that person’s functions;
+
+(b) a person specified in subsection (3), for a purpose connected with the exercise of the IFR’s functions under this Act.
+
+(2) The persons specified for the purposes of subsection (1)(a) are—
+
+(a) HMRC;
+
+(b) the Secretary of State;
+
+(c) the Welsh Ministers;
+
+(d) the Financial Conduct Authority;
+
+(e) the National Crime Agency;
+
+(f) the Serious Fraud Office;
+
+(g) the Sports Grounds Safety Authority.
+
+(3) The persons specified for the purposes of subsection (1)(b) are—
+
+(a) the Football Association;
+
+(b) the Football Association Premier League Limited, a company incorporated in England and Wales (company number 02719699);
+
+(c) the Football Association of Wales Limited, a company incorporated in England and Wales (company number 00213349);
+
+(d) the Football Conference Limited, a company incorporated in England and Wales (company number 03364308);
+
+(e) the Football League Limited, a company incorporated in England and Wales (company number 00080612);
+
+(f) the Women’s Professional Leagues Limited, a company incorporated in England and Wales (company number 15675947).
+
+(4) A disclosure of information under this section—
+
+(a) does not breach any obligation of confidence owed by the IFR, and
+
+(b) does not breach any other restriction on the disclosure of information (however imposed) (but see section 88(2)).
+
+(5) Information disclosed under subsection (1) must not be—
+
+(a) used for a purpose other than the purpose mentioned in subsection (1)(a) or (b) (as the case may be), or
+
+(b) further disclosed,
+
+except where the use or disclosure is required by another enactment or is made in pursuance of a court order.
+
+(6) The Secretary of State may by regulations amend subsection (2) or (3) to add, remove or vary a reference to a person.
+
+#### 87 Disclosure of information to the IFR etc
+
+(1) HMRC may disclose information to a person to whom subsection (2) applies for the purpose of facilitating the exercise of the functions that person has under, or by virtue of, this Act.
+
+(2) This subsection applies to—
+
+(a) the IFR;
+
+(b) a trustee appointed by an order under section 43;
+
+(c) an expert reporter appointed under section 66.
+
+(3) The disclosure of information to a person to whom subsection (2) applies in accordance with any provision made by or under this Act—
+
+(a) does not breach any obligation of confidence owed by the person making the disclosure, and
+
+(b) does not breach any other restriction on the disclosure of information (however imposed) (but see section 88(2)).
+
+(4) The Secretary of State may by regulations make provision for, and in connection with, conferring functions on a public authority relating to the disclosure of information by that authority to a person to whom subsection (2) applies for the purpose of facilitating the exercise of the functions that person has under, or virtue of, this Act.
+
+(5) In subsection (4), “public authority” has the same meaning as in section 6 of the Human Rights Act 1998.
+
+(6) Regulations under subsection (4) may amend, repeal or revoke provision made by or under an Act whenever passed or made (including provision made by or under this Act).
+
+#### 88 Restrictions on the disclosure of information
+
+(1) Subsection (2) applies to a duty or power to process information imposed or conferred by or under this Act.
+
+(2) A duty or power to which this subsection applies does not operate to require or authorise the processing of information which would contravene the data protection legislation (but the duty or power is to be taken into account in determining whether the processing would contravene that legislation).
+
+(3) Subsections (4) and (5) apply to a duty or power to publish, or otherwise disclose, information imposed or conferred by or under this Act.
+
+(4) A person to whom section 87(2) applies must exclude information from disclosure under a duty or power to which this subsection applies if it is—
+
+(a) information the disclosure of which might prejudice the prevention or detection of crime or the investigation or prosecution of an offence, or
+
+(b) information received (directly or indirectly) from, or that relates to, the National Crime Agency, unless the National Crime Agency consents to that disclosure.
+
+(5) A person to whom section 87(2) applies may exclude from disclosure under a duty or power to which this subsection applies information the disclosure of which the person considers might significantly harm the legitimate personal or business interests of the person to whom the information relates.
+
+(6) HMRC information may not be disclosed by a person to whom section 87(2) applies unless HMRC consents to the disclosure.
+
+(7) If a person to whom section 87(2) applies discloses HMRC information, the information must not be disclosed by the recipient, or by any person obtaining the information directly or indirectly from the recipient, unless HMRC consents to the disclosure.
+
+(8) In this section—
+
+- “the data protection legislation” has the same meaning as in the Data Protection Act 2018 (see section 3(9) of that Act);
+- “HMRC information” means information disclosed under section 87(1) or information that is otherwise received by a person to whom section 87(2) applies (directly or indirectly) from, or that relates to, HMRC.
+
+#### 89 Information offences
+
+(1) A person commits an offence if the person discloses information in contravention of section 86(5)(b).
+
+(2) A person commits an offence if the person, in contravention of section 88(6) or (7), discloses any revenue and customs information relating to a person whose identity—
+
+(a) is specified in the disclosure, or
+
+(b) can be deduced from it.
+
+(3) It is a defence for a person charged with an offence under subsection (1) or (2) to prove that the person reasonably believed—
+
+(a) that the disclosure was lawful, or
+
+(b) that the information had already and lawfully been made available to the public.
+
+(4) A person guilty of an offence under subsection (1) is liable—
+
+(a) on summary conviction, to imprisonment for a term not exceeding the general limit in a magistrates’ court, to a fine or to both;
+
+(b) on conviction on indictment, to imprisonment for a term not exceeding 2 years, to a fine or to both.
+
+(5) Subsections (4) and (5) of section 19 of the Commissioners for Revenue and Customs Act 2005 apply to an offence under subsection (2) as they apply to an offence under that section.
+
+(6) In this section, “revenue and customs information relating to a person” has the same meaning as in section 19 of the Commissioners for Revenue and Customs Act 2005.
+
+### Rules and regulations
+
+#### 90 Rules
+
+(1) The IFR may make rules containing provision that supplements, or that gives effect to, any provision made by this Act (except provision in Schedule 4).
+
+(2) Subsections (3) to (7) apply in relation to rules made by the IFR under any provision of this Act.
+
+(3) Rules made by the IFR may—
+
+(a) confer a discretion on a person;
+
+(b) make different provision for different purposes (including in relation to different clubs or different persons);
+
+(c) make consequential, supplementary, incidental, transitional or saving provision.
+
+(4) The IFR may amend, replace or revoke any rule made by the IFR.
+
+(5) Before making, amending or replacing rules, the IFR must consult—
+
+(a) each specified competition organiser, and
+
+(b) such other persons as the IFR considers appropriate.
+
+(6) Subsection (5) does not apply in relation to—
+
+(a) amendments to or replacements of rules, if the IFR considers the changes to be minor;
+
+(b) levy rules, or to amendments to or replacements of levy rules (see section 54(1) to (3) for provision about consultation before the making of levy rules);
+
+(c) revenue rules, or to amendments to or replacements of revenue rules (see paragraph 12(3) and (5) of Schedule 9 for provision about consultation before the making of revenue rules).
+
+(7) As soon as reasonably practicable after making, amending or replacing rules, the IFR must—
+
+(a) publish the rules, and
+
+(b) notify the Secretary of State.
+
+(8) Any provision in this Act that permits or requires the IFR to make provision in rules is without prejudice to the generality of subsection (1).
+
+#### 91 Regulations
+
+(1) Regulations under this Act may—
+
+(a) confer a discretion on a person;
+
+(b) make different provision for different purposes;
+
+(c) make consequential, supplementary, incidental, transitional or saving provision.
+
+(2) Regulations under this Act are to be made by statutory instrument.
+
+(3) A statutory instrument containing any of the following (whether alone or with other provision) may not be made unless a draft of the instrument has been laid before and approved by a resolution of each House of Parliament—
+
+(a) regulations under—
+
+(i) section 2(3);
+
+(ii) section 22(5);
+
+(iii) section 56(2)(b);
+
+(iv) section 86(6);
+
+(v) section 87(4);
+
+(vi) section 92(3);
+
+(vii) paragraph 16 of Schedule 1;
+
+(viii) paragraph 23(3) of Schedule 2;
+
+(ix) paragraph 15 of Schedule 9;
+
+(b) regulations under any other provision of this Act that amend or repeal provision made by an Act.
+
+(4) Any other statutory instrument containing regulations under this Act is subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(5) If a draft of an instrument containing regulations under this Act would, apart from this subsection, be treated for the purposes of the Standing Orders of either House of Parliament as a hybrid instrument, it is to proceed in that House as if it were not a hybrid instrument.
+
+(6) This section does not apply to regulations under section 100.
+
+### Definitions etc
+
+#### 92 Minor definitions etc
+
+(1) In this Act—
+
+- “Bank of England base rate” means—
+
+  - the percentage rate announced from time to time by the Monetary Policy Committee of the Bank of England as the official dealing rate, being the rate at which the Bank is willing to enter into transactions for providing short term liquidity in the money markets, or
+  - where an order under section 19 of the Bank of England Act 1998 is in force, any equivalent percentage rate determined by the Treasury under that section;
+
+- “business premises” means premises (or any part of premises) not used as a dwelling;
+
+- “conflict of interest”, in relation to a person, means a financial or other interest which is likely to prejudicially affect the discharge by the person of the person’s functions;
+
+- “the financial resources threshold requirement” means the threshold requirement in paragraph 2 of Schedule 4;
+
+- “the Football Association” means the Football Association Limited, a company incorporated in England and Wales (company number 00077797);
+
+- “football season” means a period—
+
+  - beginning with the day in a particular year on which the first match of any specified competition is played, and
+  - ending with the day in the following year on which the final match of any specified competition is played;
+
+- “HMRC” means the Commissioners for His Majesty’s Revenue and Customs;
+
+- “information” includes—
+
+  - information in the form of a document, whether in draft or in final form;
+  - information in any other form;
+
+- “the non-financial resources threshold requirement” means the threshold requirement in paragraph 3 of Schedule 4;
+
+- “registered society” means a registered society as defined by section 1 of the Co-operative and Community Benefit Societies Act 2014;
+
+- “the Tribunal” means the Competition Appeal Tribunal;
+
+- “Tribunal Procedure Rules” means rules made under section 15 of the Enterprise Act 2002.
+
+(2) In this Act, “serious criminal conduct” means conduct which—
+
+(a) amounts to the commission of an offence specified, or falling within a description specified, in Part 1 of Schedule 1 to the Serious Crime Act 2007, or
+
+(b) would amount to the commission of such an offence if done in England and Wales.
+
+(3) The Secretary of State may by regulations amend this section so as to change the definition of “serious criminal conduct” in subsection (2).
+
+(4) Before making regulations under subsection (3), the Secretary of State must consult such persons as the Secretary of State considers appropriate.
+
+(5) Any notification required to be given by or under this Act must be given in writing.
+
+#### 93 Index of defined terms
+
+Schedule 11 sets out terms defined by this Act for the purposes of more than one provision.
+
+### General
+
+#### 94 Pre-commencement consultation
+
+(1) This section applies in relation to—
+
+(a) a provision of this Act which requires the IFR to consult another person;
+
+(b) the provision made by section 10(5)(a) and (b).
+
+(2) If, before the provision came into force (and whether before or after the passing of this Act), the Secretary of State or the IFR (as the case may be) did anything which would have satisfied the requirements of the provision to any extent if—
+
+(a) in the case of anything done by the Secretary of State, the provision had been in force and the thing had been done by the IFR, or
+
+(b) in the case of anything done by the IFR, the provision had been in force,
+
+the IFR may elect for subsection (3) to apply.
+
+(3) Where this subsection applies, requirements on the IFR under the provision must be treated as satisfied to that extent.
+
+#### 95 Offences by officers of clubs and bodies corporate
+
+(1) If an offence under this Act committed by a club, or a body corporate other than a club, is proved—
+
+(a) to have been committed with the consent or connivance of an officer of the club or of the body corporate, or
+
+(b) to be attributable to neglect on the part of an officer of the club or of the body corporate,
+
+the officer (as well as the club or the body corporate) is guilty of the offence and is liable to be proceeded against and punished accordingly.
+
+(2) If the affairs of a body corporate other than a club are managed by its members, subsection (1) applies in relation to the acts and defaults of a member in connection with the member’s functions of management as if the member were an officer of the body corporate.
+
+(3) In this section, “officer”, in relation to a body corporate other than a club, means—
+
+(a) where the body is a company, a director of the body;
+
+(b) in any other case, an officer of the body whose functions correspond to those of a director of a company.
+
+#### 96 Review of Act
+
+(1) The Secretary of State must—
+
+(a) carry out a review of the operation and effect of this Act,
+
+(b) set out the conclusions of the review in a report,
+
+(c) publish the report, and
+
+(d) lay a copy of the report before Parliament.
+
+(2) The report must be published before the end of the period of five years beginning with the day on which section 15 comes fully into force.
+
+(3) The report must, in particular—
+
+(a) assess the extent to which the objectives intended to be achieved by this Act have been achieved,
+
+(b) assess whether those objectives remain appropriate and, if so, the extent to which they could be achieved more effectively in any other way (for example if the IFR could delegate its functions to persons other than those listed in paragraph 18(1) of Schedule 2),
+
+(c) assess the impact of this Act and the IFR’s actions on football in England and Wales,
+
+(d) assess the interaction between this Act and the rules, requirements and restrictions imposed by competition organisers and whether that interaction is appropriate, and
+
+(e) assess whether the appropriate competitions are specified under section 2(3), including whether a competition that is not specified should be specified.
+
+(4) In carrying out the review, the Secretary of State must have regard to—
+
+(a) the purpose of the Act (see section 1);
+
+(b) the IFR’s objectives (see section 6);
+
+(c) the IFR’s general duties (see section 7);
+
+(d) the IFR’s regulatory principles (see section 8);
+
+(e) any state of the game report published by the IFR (see section 10);
+
+(f) any annual report submitted to the Secretary of State by the IFR (see section 14).
+
+(5) Before publishing the report, the Secretary of State must prepare a draft report and consult the following about the draft report—
+
+(a) the IFR,
+
+(b) the Football Association,
+
+(c) each specified competition organiser, and
+
+(d) such other persons as the Secretary of State considers appropriate.
+
+#### 97 Payments into the Consolidated Fund
+
+(1) The IFR must pay into the Consolidated Fund any amounts received by it under section 53 (levy) that are attributable to—
+
+(a) the recovery of the IFR’s initial costs, or
+
+(b) the Secretary of State’s establishment costs.
+
+(2) The IFR must, in respect of each financial year, pay to the Secretary of State its relevant receipts after deducting its litigation costs in respect of that year.
+
+(3) The IFR’s “relevant receipts”, in respect of a financial year, are any amounts received by it during the year that are attributable to—
+
+(a) any interest payable on an amount of levy by virtue of section 53(7),
+
+(b) any penalty imposed under paragraph 3 or 6 of Schedule 9, or
+
+(c) any interest payable on any such penalty under paragraph 13 of that Schedule.
+
+(4) The IFR’s “litigation costs” in respect of a financial year are the costs incurred by it during the year in connection with litigation.
+
+(5) The Secretary of State may give a direction to the IFR as to how the IFR is to comply with its duty under subsection (2).
+
+(6) A direction under subsection (5) may in particular—
+
+(a) specify descriptions of costs that are, or are not, to be regarded as incurred in connection with litigation for the purposes of subsection (4),
+
+(b) relate to the calculation and timing of the deduction in respect of the IFR’s litigation costs, and
+
+(c) specify the time when any payment is required to be made to the Secretary of State.
+
+(7) A direction under subsection (5) may also require the IFR, at times specified in the direction, to provide the Secretary of State with information specified in the direction relating to costs incurred by the IFR in connection with litigation.
+
+(8) The Secretary of State must pay into the Consolidated Fund any amounts received under subsection (2).
+
+(9) In this section—
+
+- “financial year” means—
+
+  - the period beginning with the day on which this section comes into force and ending with 31 March in the following year, and
+  - each successive period of 12 months;
+
+- “the IFR’s initial costs” and “the Secretary of State’s establishment costs” have the same meaning as in section 53.
+
+#### 98 Minor and consequential amendments
+
+(1) Schedule 12 makes minor and consequential amendments.
+
+(2) The Secretary of State may by regulations make provision that is consequential on this Act.
+
+(3) Regulations under this section may amend, repeal or revoke provision made by or under an Act passed—
+
+(a) before this Act, or
+
+(b) later in the same session of Parliament as this Act.
+
+#### 99 Extent
+
+(1) Subject to subsections (2) and (3), this Act extends to England and Wales only.
+
+(2) Any amendment, repeal or revocation made by this Act has the same extent as the provision amended, repealed or revoked.
+
+(3) His Majesty may by Order in Council provide for any of the provisions of this Act to extend, with or without modifications, to any of the Channel Islands or to the Isle of Man.
+
+#### 100 Commencement
+
+(1) Subject to subsection (2), this Act comes into force on such day or days as the Secretary of State may by regulations appoint.
+
+(2) This section and the following provisions come into force on the day on which this Act is passed—
+
+(a) Part 1 (and Schedule 1);
+
+(b) Part 2 (and Schedules 2 and 3);
+
+(c) paragraph 7 of Schedule 5 (and section 20 so far as relating to that paragraph);
+
+(d) sections 88 and 90 to 94 (and Schedule 11);
+
+(e) paragraphs 1 to 4 and 9 of Schedule 12 (and section 98(1) so far as relating to those paragraphs);
+
+(f) sections 99 and 101;
+
+(g) any other provision of this Act so far as it—
+
+(i) confers power to make regulations,
+
+(ii) imposes a duty or confers power to make rules, or
+
+(iii) is otherwise necessary for enabling the exercise of a duty or power within sub-paragraph (i) or (ii) on or after the day on which this Act is passed.
+
+(3) Regulations under subsection (1) may appoint different days for different purposes.
+
+(4) The Secretary of State may by regulations make transitional, transitory or saving provision in connection with the coming into force of any provision of this Act.
+
+(5) Regulations under subsection (4) may make different provision for different purposes.
+
+(6) Regulations under this section are to be made by statutory instrument.
+
+#### 101 Short title
+
+This Act may be cited as the Football Governance Act 2025.
+
+## Schedule 1 — Meaning of “owner”
+
+*Section 3*
+
+### Part 1 — Conditions for being an owner
+
+#### Conditions for being an owner
+
+**1** (1) For the purposes of this Act, a person is an “owner” of a club if—
+
+(a) the person is an individual or a registered society, and
+
+(b) one or more of the conditions in paragraph 2 are met in relation to the person.
+
+(2) In the case of a club that is a registered society, if there is no individual in relation to whom one or more of the conditions in paragraph 2 are met, the registered society itself is the owner of the club.
+
+**2** (1) Condition 1 is that the person has the right to exercise, or actually exercises, significant influence or control over the activities of the club (in whole or in part).
+
+(2) Condition 2 is that the person holds, directly or indirectly, more than 25% of the shares in the club.
+
+(3) Condition 3 is that the person holds, directly or indirectly, more than 25% of the voting rights in the club.
+
+(4) Condition 4 is that the person holds the right, directly or indirectly, to appoint or remove an officer of the club.
+
+(5) Condition 5 is that—
+
+(a) the trustees of a trust, or the members of a partnership, unincorporated association or other body, that is not a legal person under the law by which it is governed would meet one or more of conditions 1 to 4 (in their capacity as such) in relation to the club if the references in those conditions to a “person” were to the trustees or members, and
+
+(b) the person has the right to exercise, or actually exercises, significant influence or control over the activities of that trust or body (in whole or in part).
+
+### Part 2 — Interpretation
+
+#### Interpretation
+
+**3** This Part makes provision about the interpretation of this Schedule.
+
+#### Joint interests
+
+**4** If a person holds a share or right jointly with another person (whether or not the other person is an individual or a registered society), each of those persons is to be taken to hold that share or right.
+
+#### Joint arrangements
+
+**5** (1) If shares or rights held by a person and shares or rights held by another person (whether or not the other person is an individual or a registered society) are the subject of a joint arrangement between those persons, each of those persons is to be taken to hold the combined shares or rights of both persons.
+
+(2) A “joint arrangement” is an arrangement between the holders of shares (or rights) that they will exercise all or substantially all the rights conferred by their respective shares (or rights) jointly in a way that is pre-determined by the arrangement.
+
+(3) For the meaning of “arrangement”, see paragraph 12.
+
+#### Calculating shareholdings
+
+**6** (1) In relation to a club that has a share capital, a reference to holding more than 25% of the shares in the club is to holding shares comprised in the issued share capital of the club of a nominal value exceeding (in aggregate) 25% of that share capital.
+
+(2) In relation to a club that does not have a share capital—
+
+(a) a reference to holding shares in the club is to be read as a reference to holding a right to share in the capital or, as the case may be, profits of the club;
+
+(b) a reference to holding more than 25% of the shares in the club is to be read as a reference to holding a right or rights to share in more than 25% of the capital or, as the case may be, profits of the club.
+
+#### Voting rights
+
+**7** (1) A reference to the voting rights in a person is to the rights conferred on shareholders in respect of their shares (or, in the case of a person not having a share capital, on members) to vote at general meetings of the person on all or substantially all matters.
+
+(2) In relation to a person that does not have general meetings at which matters are decided by the exercise of voting rights—
+
+(a) a reference to holding voting rights in the person is to be read as a reference to holding rights in relation to the person that are equivalent to those of a person entitled to exercise voting rights in a company;
+
+(b) a reference to holding more than 25% of the voting rights in the person is to be read as a reference to holding the rights under the constitution of the person to block changes to the overall policy of the person or to the terms of its constitution.
+
+**8** In applying this Schedule, voting rights in a person held by the person itself are to be disregarded.
+
+#### Shares or rights held “indirectly”
+
+**9** (1) A person (“A”) holds a share “indirectly” if A has a majority stake in a person (“B”) and B—
+
+(a) holds the share, or
+
+(b) is part of a chain of persons—
+
+(i) each of which (other than the last) has a majority stake in the person immediately below it in the chain, and
+
+(ii) the last of which holds the share.
+
+(2) A person (“A”) holds a right “indirectly” if A has a majority stake in a person (“B”) and B—
+
+(a) holds that right, or
+
+(b) is part of a chain of persons—
+
+(i) each of which (other than the last) has a majority stake in the person immediately below it in the chain, and
+
+(ii) the last of which holds that right.
+
+(3) For the purposes of sub-paragraphs (1) and (2), A has a “majority stake” in B if A—
+
+(a) holds a majority of the voting rights in B,
+
+(b) is a member of B and has the right to appoint or remove an officer of B,
+
+(c) is a member of B and controls alone, or pursuant to an agreement with other shareholders or members, a majority of the voting rights in B, or
+
+(d) has the right to exercise, or actually exercises, dominant influence or control over B.
+
+#### Shares held by nominees
+
+**10** A share held by a person as a nominee for another is to be treated as held by the other (and not by the nominee).
+
+#### Rights treated as held by person who controls their exercise
+
+**11** (1) Where a person controls a right, the right is to be treated as held by that person (and not by the person who in fact holds the right, unless that person also controls it).
+
+(2) A person “controls” a right if, by virtue of any arrangement between that person and others, the right is exercisable only—
+
+(a) by that person,
+
+(b) in accordance with that person’s directions or instructions, or
+
+(c) with that person’s consent or concurrence.
+
+**12** (1) For the purposes of this Schedule “arrangement” includes—
+
+(a) any scheme, agreement or understanding, whether or not it is legally enforceable, and
+
+(b) any convention, custom or practice of any kind.
+
+(2) But something does not count as an arrangement unless there is at least some degree of stability about it (whether by its nature or terms, the time it has been in existence or otherwise).
+
+#### Rights exercisable only in certain circumstances etc
+
+**13** (1) Rights that are exercisable only in certain circumstances are to be taken into account only—
+
+(a) where the circumstances have arisen, and for so long as they continue to obtain, or
+
+(b) when the circumstances are within the control of the person having the rights.
+
+(2) But rights that are exercisable by an administrator or by creditors while a person is in relevant insolvency proceedings are not to be taken into account even while the person is in those proceedings.
+
+(3) In this paragraph, “relevant insolvency proceedings” means—
+
+(a) administration within the meaning of the Insolvency Act 1986,
+
+(b) administration within the meaning of the Insolvency (Northern Ireland) Order 1989 (S.I. 1989/2405 (N.I. 19)), or
+
+(c) proceedings under the insolvency law of another country or territory during which a person’s assets and affairs are subject to the control or supervision of a third party or creditor.
+
+(4) Rights that are normally exercisable but are temporarily incapable of exercise are to continue to be taken into account.
+
+#### Rights attached to shares held by way of security
+
+**14** Rights attached to shares held by way of security provided by a person are to be treated for the purposes of this Schedule as held by that person—
+
+(a) where apart from the right to exercise them for the purpose of preserving the value of the security, or of realising it, the rights are exercisable only in accordance with that person’s instructions, and
+
+(b) where the shares are held in connection with the granting of loans as part of normal business activities and apart from the right to exercise them for the purpose of preserving the value of the security, or of realising it, the rights are exercisable only in that person’s interests.
+
+#### Significant influence or control over the activities of a club, trust or other body
+
+**15** (1) The Secretary of State must prepare and publish guidance about the meaning of significant influence or control for the purposes of this Schedule.
+
+(2) Regard must be had to that guidance in interpreting references in this Schedule to that phrase.
+
+(3) Before publishing guidance under this paragraph the Secretary of State must lay a draft of it before Parliament.
+
+(4) If, within the 40-day period, either House of Parliament resolves not to approve the draft guidance, the Secretary of State must take no further steps in relation to it.
+
+(5) If no such resolution is made within that period, the Secretary of State must publish the guidance in the form of the draft.
+
+(6) Sub-paragraph (4) does not prevent a new draft of proposed guidance from being laid before Parliament.
+
+(7) In this paragraph “the 40-day period”, in relation to draft guidance, means the period of 40 days beginning with the day on which the draft is laid before Parliament (or, if it is not laid before each House on the same day, the later of the days on which it is laid).
+
+(8) In calculating the 40-day period, no account is to be taken of any period during which—
+
+(a) Parliament is dissolved or prorogued, or
+
+(b) both Houses are adjourned for more than 4 days.
+
+(9) The Secretary of State may revise guidance published under this paragraph, and a reference in this paragraph to guidance includes a reference to revised guidance.
+
+### Part 3 — Power to amend thresholds etc
+
+**16** (1) The Secretary of State may by regulations amend this Schedule for a permitted purpose.
+
+(2) The permitted purposes are—
+
+(a) to replace any reference in this Schedule to a percentage figure with a reference to some other (larger or smaller) percentage figure;
+
+(b) to amend Part 1 of this Schedule so as to include circumstances (for example, circumstances involving more complex structures) that give a person a level of influence or control over a club broadly similar to the level of influence or control given by the conditions in paragraph 2;
+
+(c) in consequence of any provision made by virtue of paragraph (b), to amend Part 2 of this Schedule so that circumstances specified in that Part in which a person is to be regarded as holding an interest in another person correspond to any of the conditions in paragraph 2, or would do so but for the extent of the interest.
+
+(3) Before making regulations under this paragraph the Secretary of State must consult the IFR.
+
+## Schedule 2 — The Independent Football Regulator
+
+*Section 5*
+
+### Part 1 — Constitution of the IFR
+
+#### Constitution of the IFR
+
+**1** (1) Until the end of the initial period, the IFR is to consist only of the Board.
+
+(2) After the initial period ends, the IFR is to consist of—
+
+(a) the Board, and
+
+(b) the Expert Panel.
+
+(3) In this paragraph the “initial period” means the period which—
+
+(a) begins with the commencement of this Act, and
+
+(b) ends with the time when an appointment of a member of the Expert Panel takes effect that brings the number of members of the Expert Panel up to the number that the Chief Executive Officer has determined in accordance with paragraph 23.
+
+### Part 2 — The Board
+
+#### Membership
+
+**2** (1) The Board is to consist of—
+
+(a) the non-executive members, and
+
+(b) the executive members.
+
+(2) The non-executive members are—
+
+(a) a chair, and
+
+(b) up to seven other members.
+
+(3) The executive members are—
+
+(a) the Chief Executive Officer,
+
+(b) the Chief Finance Officer, and
+
+(c) one other member.
+
+(4) The executive members are to be members of the IFR’s staff.
+
+#### Appointments to the Board
+
+**3** (1) The non-executive members are to be appointed by the Secretary of State.
+
+(2) A person may not be appointed as a non-executive member if the person is a member of the IFR’s staff.
+
+**4** (1) The chair may appoint any other non-executive member to be the deputy chair.
+
+(2) Before appointing a person as the deputy chair, the chair must consult the Secretary of State.
+
+(3) The deputy chair may carry out the functions of the chair in such cases and in such manner as may be determined by or in accordance with any directions given by the chair.
+
+**5** (1) The Chief Executive Officer is to be appointed by the chair.
+
+(2) The other executive members are to be appointed by the Chief Executive Officer.
+
+(3) Before appointing a person as the Chief Executive Officer, the chair must consult—
+
+(a) the Secretary of State, and
+
+(b) the non-executive members.
+
+**6** (1) A person (“A”) may not be appointed as a member of the Board unless the person appointing A is satisfied that A does not have a conflict of interest.
+
+(2) A person who appointed a member of the Board must, from time to time, check that none of the members appointed by them has a conflict of interest.
+
+(3) A person who appointed a member of the Board may require a member appointed by them to provide whatever information the person considers necessary for the purpose of checking that the member does not have a conflict of interest.
+
+(4) A member of the Board who is required to provide information under sub-paragraph (3) must provide it within such period as may be specified by the person who appointed them.
+
+#### Declaration and registration of interests of members of the Board
+
+**7** (1) The IFR must establish and maintain a system for the declaration and registration of relevant interests of members of the Board.
+
+(2) In this paragraph “relevant interest”, in relation to a member of the Board, means a financial or other interest that may be relevant to the IFR’s exercise of its functions under this Act.
+
+#### Tenure and remuneration of non-executive members
+
+**8** (1) A non-executive member of the Board holds and vacates office in accordance with that person’s terms of appointment, subject to this paragraph and paragraph 9.
+
+(2) Any appointment of a non-executive member must be for a fixed term of not more than five years.
+
+(3) But a person may be appointed as a non-executive member more than once.
+
+(4) A person may resign as a non-executive member by notifying the Secretary of State.
+
+(5) A person ceases to be a non-executive member upon becoming a member of the IFR’s staff.
+
+**9** A non-executive member of the Board may be removed from office as a member of the Board if the Secretary of State is satisfied that the person—
+
+(a) is guilty of serious misconduct;
+
+(b) has a conflict of interest;
+
+(c) has failed to comply with paragraph 6(4);
+
+(d) is unable, unfit or unwilling to carry out their functions as a member of the Board.
+
+**10** (1) The IFR must pay its non-executive members such remuneration as the Secretary of State may determine.
+
+(2) The IFR must pay, or make provision for paying, to or in respect of a person who is or has been a non-executive member of the Board, such sums as the Secretary of State may determine in respect of allowances or expenses.
+
+#### Tenure etc and remuneration of members of the IFR’s staff (including executive members)
+
+**11** (1) The Board may—
+
+(a) appoint employees, and
+
+(b) make such other arrangements for the staffing of the IFR as it considers appropriate, including arrangements for persons to be seconded to the IFR.
+
+(2) This paragraph is subject to paragraph 12.
+
+**12** (1) The terms on which executive members are, by virtue of paragraph 2(4), to become, or continue to be—
+
+(a) persons seconded to the IFR under paragraph 11(1)(b), or
+
+(b) employees of the IFR,
+
+are to be determined by the non-executive members, subject to paragraph 13.
+
+(2) The terms of employment of employees are to be determined by the non-executive members.
+
+(3) The IFR must pay its employees such remuneration as may be determined by the non-executive members.
+
+(4) The IFR must pay, or make provision for paying, to or in respect of an executive member of the IFR, or a member of the IFR’s staff—
+
+(a) such sums in respect of pensions, allowances or gratuities relating to service as an executive member, or member of staff, as may be determined by the non-executive members, and
+
+(b) such sums in respect of allowances or expenses as may be determined by the non-executive members.
+
+**13** (1) A person may resign as an executive member by notifying the chair.
+
+(2) A person ceases to be an executive member upon ceasing to be a member of the IFR’s staff.
+
+(3) An executive member may be removed from office as a member of the Board if the person who appointed them is satisfied that the person—
+
+(a) is guilty of serious misconduct;
+
+(b) has a conflict of interest;
+
+(c) has failed to comply with paragraph 6(4);
+
+(d) is unable, unfit or unwilling to carry out their functions as an executive member.
+
+#### Exercise of functions by the Board
+
+**14** Except where otherwise provided by this Act (see section 82 and paragraphs 18 to 21), the functions of the IFR are exercisable by the Board on behalf of the IFR.
+
+#### Committees and procedure of the Board
+
+**15** (1) The Board may establish committees.
+
+(2) A committee established under sub-paragraph (1) may establish sub-committees.
+
+(3) A committee or sub-committee of the Board may include or consist of persons who are neither non-executive members nor executive members.
+
+**16** (1) The Board may determine its own procedure and the procedure of any committee or sub-committee, subject to this paragraph.
+
+(2) The quorum for a meeting of the Board is to be determined by the chair but a meeting of the Board is not quorate unless—
+
+(a) the chair or deputy chair is in attendance, and
+
+(b) (including the chair or deputy chair) at least half of the Board’s members are in attendance.
+
+(3) A member of the Board may at any time resign from a committee of the Board by giving written notice to the chair.
+
+(4) The chair may remove a person from membership of a committee of the Board if the chair considers that—
+
+(a) the person will be unable, for a substantial period, to perform their duties as a member of the committee, or
+
+(b) because of a particular interest of the member of the committee, it is inappropriate for them to remain a member of the committee.
+
+(5) Where a person ceases to be a member of a committee of the Board, the chair may select a replacement member of the committee from the Board.
+
+(6) The validity of proceedings of the Board, or a committee or sub-committee of the Board, is not affected by a vacancy or defective appointment.
+
+#### Disqualification from acting in relation to certain matters
+
+**17** (1) This paragraph applies if—
+
+(a) a member of the Board has a direct or indirect interest in a matter falling to be considered at a meeting of the Board, or
+
+(b) a member of a committee of the Board has a direct or indirect interest in a matter falling to be considered at a meeting of the committee of the Board.
+
+(2) The member with the interest must declare it.
+
+(3) The declaration must be recorded in the minutes of the meeting.
+
+(4) The member with the interest may not take part in a discussion or decision at the meeting relating to the matter, unless—
+
+(a) in the case of a meeting of the Board, the other members of the Board who are present have resolved unanimously that the interest is to be disregarded, or
+
+(b) in the case of a meeting of a committee of the Board, the other members of the committee who are present have resolved in the manner authorised by the Board that the interest is to be disregarded.
+
+(5) For the purposes of this paragraph, a notification given at or sent to a meeting mentioned in sub-paragraph (1) that a person—
+
+(a) is a member of a company or firm, and
+
+(b) is to be regarded as interested in any matter involving that company or firm,
+
+is to be regarded as compliance with sub-paragraph (2) in relation to any such matter for the purposes of that meeting and subsequent meetings of the Board or the committee of the Board.
+
+(6) A notification described in sub-paragraph (5) remains in force until it is withdrawn.
+
+(7) A person required to make a declaration for the purposes of this paragraph in relation to any meeting—
+
+(a) is not required to attend the meeting, but
+
+(b) is to be taken to have complied with the requirements of this paragraph if the person takes reasonable steps to secure that notice of the person’s interest is read out, and taken into consideration, at the meeting in question.
+
+(8) See section 82(10) and (11) for related provision (persons who can carry out internal reviews).
+
+#### Delegation by the Board etc
+
+**18** (1) Subject to paragraph 20, the Board may delegate any of its functions to—
+
+(a) a member of the Board,
+
+(b) a member of the IFR’s staff,
+
+(c) a committee established by the Board, or
+
+(d) the Expert Panel.
+
+(2) A function is delegated under this paragraph to the extent and on the terms that the Board determines.
+
+**19** (1) Subject to paragraph 20, a committee established by the Board may delegate any of its functions to—
+
+(a) a member of the committee, or
+
+(b) a sub-committee established by it.
+
+(2) A function is delegated under this paragraph to the extent and on the terms that the committee of the Board determines.
+
+(3) The power of a committee established by the Board to delegate a function under this paragraph, and to determine the extent and terms of the delegation, is subject to the Board’s power to direct what a committee established by it may and may not do.
+
+**20** (1) The following functions of the Board may be delegated by it only to a committee established by it—
+
+(a) the function of revoking a provisional operating licence under section 19;
+
+(b) the function of making a determination under Part 4 in relation to a person;
+
+(c) the function of making an order under section 38 or 43;
+
+(d) the function of specifying a competition as a prohibited competition under section 45;
+
+(e) the function of deciding whether the resolution process should be triggered under section 59;
+
+(f) the function of making a distribution order under section 62;
+
+(g) the function of suspending or revoking an operating licence under paragraph 9 of Schedule 9;
+
+(h) the function of carrying out a review requested under section 82 of any decision made by virtue of the exercise of a function mentioned in paragraphs (a) to (g).
+
+(2) A committee of the Board to which a function is delegated under this paragraph may not further delegate the function.
+
+**21** The delegation of a function by the Board under paragraph 18 or 20, or by a committee of the Board under paragraph 19, does not prevent the Board or a committee of the Board (as the case may be) from exercising the function.
+
+#### Records of proceedings
+
+**22** The Board must make arrangements for the keeping of proper records of—
+
+(a) its proceedings,
+
+(b) the proceedings of a committee of the Board, and
+
+(c) anything done by a person or committee to which the Board has delegated functions under paragraph 18(1).
+
+### Part 3 — The Expert Panel
+
+#### Number of members
+
+**23** (1) The number of members of the Expert Panel is to be determined by the Chief Executive Officer.
+
+(2) The number must not be less than six.
+
+(3) The Secretary of State may by regulations amend the number for the time being mentioned in sub-paragraph (2).
+
+#### Appointments to the Expert Panel
+
+**24** (1) The members of the Expert Panel are to be appointed by the Chief Executive Officer.
+
+(2) The Chief Executive Officer must exercise the power in sub-paragraph (1) so as to secure that the range of skills, knowledge and experience of the members of the Expert Panel (taken together) includes skills, knowledge and experience in relation to—
+
+(a) the operation, organisation or governance of clubs or competitions, and
+
+(b) financial or other regulation.
+
+(3) A person (“A”) may not be appointed as a member of the Expert Panel unless the Chief Executive Officer is satisfied that A does not have a conflict of interest.
+
+(4) The Chief Executive Officer must, from time to time, check that none of the members of the Expert Panel has a conflict of interest.
+
+(5) The Chief Executive Officer may require a member of the Expert Panel to provide whatever information the Chief Executive Officer considers necessary for the purpose of checking that the member does not have a conflict of interest.
+
+(6) A member of the Expert Panel who is required to provide information under sub-paragraph (5) must provide it within such period as may be specified by the Chief Executive Officer.
+
+#### Declaration and registration of interests of members of the Expert Panel
+
+**25** (1) The IFR must establish and maintain a system for the declaration and registration of relevant interests of members of the Expert Panel.
+
+(2) In this paragraph “relevant interest”, in relation to a member of the Expert Panel, means a financial or other interest that may be relevant to the IFR’s exercise of its functions under this Act.
+
+#### Tenure and remuneration of Expert Panel members
+
+**26** (1) A member of the Expert Panel holds and vacates their membership in accordance with that person’s terms of appointment, subject to sub-paragraph (2).
+
+(2) A member of the Expert Panel may be removed from office as such a member if the Chief Executive Officer is satisfied that the person—
+
+(a) is guilty of serious misconduct;
+
+(b) has a conflict of interest;
+
+(c) has failed to comply with paragraph 24(6);
+
+(d) is unable, unfit or unwilling to carry out their functions as a member of the Expert Panel.
+
+(3) The IFR may pay such remuneration or allowances to persons appointed to the Expert Panel as the Chief Executive Officer may determine.
+
+#### Committees and procedure of the Expert Panel
+
+**27** Where the Board delegates a function to the Expert Panel (see paragraph 18), the Chief Executive Officer must, as soon as reasonably practicable after the Board delegates the function, establish a committee of the Expert Panel to carry out the function.
+
+**28** (1) The Chief Executive Officer must establish committees of the Expert Panel where required to so by this Act (see section 82 and paragraph 27).
+
+(2) The Chief Executive Officer may establish other committees of the Expert Panel.
+
+(3) Each committee of the Expert Panel must consist of at least three members of the Expert Panel appearing to the Chief Executive Officer to have skills, knowledge or experience relating to the function which is to be exercised by the committee.
+
+(4) The Chief Executive Officer must appoint one of the members of the committee of the Expert Panel to chair the committee.
+
+(5) A committee of the Expert Panel may only consist of persons who are members of the Expert Panel.
+
+**29** (1) The Expert Panel may determine its own procedure and the procedure of any committee.
+
+(2) A member of the Expert Panel may at any time resign from a committee of the Expert Panel by giving notice to the Chief Executive Officer.
+
+(3) The Chief Executive Officer may remove a person from membership of a committee of the Expert Panel if the Chief Executive Officer considers that—
+
+(a) the person will be unable, for a substantial period, to perform their duties as a member of the committee, or
+
+(b) because of a particular interest of the member of the committee, it is inappropriate for them to remain a member of the committee.
+
+(4) Where a person ceases to be a member of a committee of the Expert Panel, the Chief Executive Officer may select a replacement member of the committee from the Expert Panel.
+
+(5) A person’s ceasing to be a member of a committee of the Expert Panel does not—
+
+(a) prevent the committee from continuing with anything begun before the person ceased to be a member of it, or
+
+(b) affect anything done by the person or the committee before the person ceased to be a member of it (unless the Chief Executive Officer directs otherwise).
+
+**30** (1) In exercising its functions, the Expert Panel must act independently of the Board.
+
+(2) But sub-paragraph (1) does not prevent—
+
+(a) the Board giving information in its possession to the Expert Panel (and the Expert Panel having regard to that information), or
+
+(b) the Expert Panel giving information in its possession to the Board.
+
+#### Disqualification from acting in relation to certain matters
+
+**31** (1) This paragraph applies if a member of a committee of the Expert Panel has a direct or indirect interest in a matter falling to be considered at a meeting of that committee.
+
+(2) The member with the interest must declare it.
+
+(3) The declaration must be recorded in the minutes of the meeting.
+
+(4) The member with the interest may not take part in a discussion or decision at the meeting relating to the matter, unless the other members of the committee who are present have resolved in the manner authorised by the Chief Executive Officer that the interest is to be disregarded.
+
+(5) For the purposes of this paragraph, a notification given at or sent to a meeting mentioned in sub-paragraph (1) that a person—
+
+(a) is a member of a company or firm, and
+
+(b) is to be regarded as interested in any matter involving that company or firm,
+
+is to be regarded as compliance with sub-paragraph (2) in relation to any such matter for the purposes of that meeting and subsequent meetings of the committee of the Expert Panel.
+
+(6) A notification described in sub-paragraph (5) remains in force until it is withdrawn.
+
+(7) A person required to make a declaration for the purposes of this paragraph in relation to any meeting—
+
+(a) is not required to attend the meeting, but
+
+(b) is to be taken to have complied with the requirements of this paragraph if the person takes reasonable steps to secure that notice of the person’s interest is read out, and taken into consideration, at the meeting in question.
+
+(8) See section 82(10) and (11) for related provision (persons who can carry out internal reviews).
+
+#### Records of Expert Panel committee proceedings
+
+**32** The Chief Executive Officer must make arrangements for the keeping of proper records of the proceedings of a committee of the Expert Panel.
+
+### Part 4 — Other matters
+
+#### Appointment of observer
+
+**33** The Secretary of State must appoint a representative of the Football Association as an independent observer of the IFR’s proceedings.
+
+#### Accounts and audit
+
+**34** (1) The IFR must—
+
+(a) keep proper accounts and proper records in relation to them, and
+
+(b) prepare a statement of accounts in respect of each financial year.
+
+(2) Each statement of accounts must comply with any directions given by the Secretary of State as to—
+
+(a) its content and form;
+
+(b) the methods and principles to be applied in preparing it;
+
+(c) the additional information (if any) which is to be provided for the information of Parliament.
+
+(3) The IFR must send a copy of each statement of accounts to the Secretary of State and the Comptroller and Auditor General as soon as reasonably practicable after the end of the financial year to which the statement relates.
+
+(4) The Comptroller and Auditor General must—
+
+(a) examine, certify and report on each statement of accounts, and
+
+(b) send a copy of each report and certified statement to the Secretary of State.
+
+(5) The Secretary of State must lay before Parliament a copy of each document mentioned in sub-paragraph (4)(b).
+
+(6) In this paragraph, “financial year” means—
+
+(a) the period beginning with the day on which this Schedule comes into force and ending with 31 March in the following year, and
+
+(b) each successive period of 12 months.
+
+#### Seal and evidence
+
+**35** (1) The application of the IFR’s seal must be authenticated by the signature of—
+
+(a) a member, or
+
+(b) another person authorised for that purpose by the Board.
+
+(2) A document purporting to be duly executed under the IFR’s seal or signed on its behalf—
+
+(a) is to be received in evidence, and
+
+(b) is to be taken to be executed or signed in that way, unless the contrary is shown.
+
+#### Status
+
+**36** (1) The IFR is not to be regarded—
+
+(a) as the servant or agent of the Crown, or
+
+(b) as enjoying any status, immunity or privilege of the Crown.
+
+(2) The IFR’s property is not to be regarded—
+
+(a) as the property of the Crown, or
+
+(b) as property held on behalf of the Crown.
+
+#### Supplementary powers
+
+**37** (1) The IFR may do anything which it considers will facilitate, or is incidental or conducive to, the carrying out of its functions under this Act.
+
+(2) But (subject to paragraph 38) the IFR may not borrow money.
+
+#### Financial assistance
+
+**38** (1) The Secretary of State may provide to the IFR such financial assistance as the Secretary of State considers appropriate.
+
+(2) Financial assistance under this paragraph may be provided subject to such conditions as the Secretary of State considers appropriate.
+
+## Schedule 3 — Transfer schemes
+
+*Section 9*
+
+### Transfer schemes
+
+**1** (1) The Secretary of State may make one or more property transfer schemes or staff transfer schemes.
+
+(2) A “property transfer scheme” is a scheme for the transfer to the IFR from the Secretary of State of any property, rights or liabilities, other than rights or liabilities under or in connection with a contract of employment.
+
+(3) A “staff transfer scheme” is a scheme for the transfer to the IFR from the Secretary of State of any rights or liabilities under or in connection with a contract of employment.
+
+### Supplementary
+
+**2** (1) The things that may be transferred under a property transfer scheme or a staff transfer scheme include—
+
+(a) property, rights and liabilities that could not otherwise be transferred;
+
+(b) property acquired, and rights and liabilities arising, after the making of the scheme;
+
+(c) criminal liabilities.
+
+(2) A property transfer scheme or a staff transfer scheme may make supplementary, incidental, transitional or consequential provision and may, in particular—
+
+(a) create rights, or impose liabilities, in relation to property or rights transferred;
+
+(b) make provision about the continuing effect of things done by the Secretary of State in respect of anything transferred;
+
+(c) make provision about the continuation of things (including legal proceedings) in the process of being done by, on behalf of, or in relation to, the Secretary of State in respect of anything transferred;
+
+(d) make provision for references to the Secretary of State in an instrument or other document in respect of anything transferred to be treated as references to the IFR.
+
+(3) A property transfer scheme may make provision for the shared ownership or use of property.
+
+(4) A staff transfer scheme may make provision which is the same as or similar to the Transfer of Undertakings (Protection of Employment) Regulations 2006 (S.I. 2006/246).
+
+### Interpretation
+
+**3** For the purposes of this Schedule—
+
+(a) an individual who holds employment in the civil service of the State is to be treated as employed by virtue of a contract of employment, and
+
+(b) the terms of the individual’s employment in the civil service are to be regarded as constituting the terms of the contract of employment.
+
+## Schedule 4 — Threshold requirements
+
+*Section 18*
+
+### Threshold requirements
+
+**1** The threshold requirements are—
+
+(a) the financial resources threshold requirement (see paragraph 2),
+
+(b) the non-financial resources threshold requirement (see paragraph 3), and
+
+(c) the fan engagement threshold requirement (see paragraph 4).
+
+### Financial resources
+
+**2** (1) The financial resources threshold requirement is met, in relation to a club, if the financial resources of the club are appropriate in relation to the activities the club carries on or seeks to carry on.
+
+(2) In considering whether a club has appropriate financial resources, the IFR may have regard to (among other things)—
+
+(a) the corporate structure of the club and, where the club is part of a group, the group;
+
+(b) the club’s latest financial plan (see paragraph 2 of Schedule 5), including in particular—
+
+(i) any financial risks identified in the plan, and
+
+(ii) any plans described in the plan for managing those risks;
+
+(c) the club’s strategic business plan (see section 16(5));
+
+(d) the specified competition in relation to which a relevant team is operated by the club;
+
+(e) any other competitions in relation to which a team is operated by the club;
+
+(f) the club’s non-financial resources.
+
+### Non-financial resources
+
+**3** (1) The non-financial resources threshold requirement is met, in relation to a club, if the non-financial resources of the club are appropriate in relation to the activities the club carries on or seeks to carry on.
+
+(2) In considering whether a club has appropriate non-financial resources, the IFR may have regard to (among other things)—
+
+(a) the corporate structure of the club and, where the club is part of a group, the group;
+
+(b) the qualifications, experience, training and performance of the club’s owners and officers;
+
+(c) the club’s corporate governance arrangements, including the club’s latest corporate governance statement (see paragraph 4 of Schedule 5);
+
+(d) the specified competition in relation to which a relevant team is operated by the club;
+
+(e) any other competitions in relation to which a team is operated by the club;
+
+(f) the club’s financial resources.
+
+### Fan engagement
+
+**4** (1) The fan engagement threshold requirement is met, in relation to a club, if the club has adequate and effective means by which—
+
+(a) the club consults its fans about the relevant matters, and
+
+(b) the club takes the views of its fans into account in making decisions about the relevant matters.
+
+(2) The relevant matters are matters relating to—
+
+(a) the club’s strategic direction and objectives;
+
+(b) the club’s business priorities;
+
+(c) operational and match-day issues, including ticket pricing;
+
+(d) the club’s heritage;
+
+(e) the club’s plans relating to additional fan engagement.
+
+(3) Matters that relate to the club’s heritage include matters relating to—
+
+(a) the club’s home ground (within the meaning of section 46);
+
+(b) any emblem or crest of a relevant team operated by the club;
+
+(c) the predominant home shirt colours of a relevant team operated by the club;
+
+(d) the name of a relevant team operated by the club.
+
+(4) If the club is in relevant insolvency proceedings (within the meaning given by paragraph 13(3) of Schedule 1) sub-paragraph (1)(b) applies to the extent that the power to make decisions about the relevant matters remains exercisable by the club.
+
+### Interpretation
+
+**5** For the purposes of this Schedule—
+
+(a) an undertaking (within the meaning of Part 1 of the Competition Act 1998) is part of a group if one or more bodies corporate which are comprised in the undertaking are members of the same group as one or more other bodies corporate;
+
+(b) two or more bodies corporate are members of the same group if—
+
+(i) one is the subsidiary of another, or
+
+(ii) both are subsidiaries of the same body corporate;
+
+(c) “subsidiary” has the meaning given by section 1159 of the Companies Act 2006.
+
+## Schedule 5 — Mandatory licence conditions
+
+*Section 20*
+
+### Introduction
+
+**1** The IFR must attach to each operating licence—
+
+(a) a financial plans condition,
+
+(b) a corporate governance statement condition,
+
+(c) a fan consultation condition, and
+
+(d) an annual declaration condition.
+
+### Financial plans
+
+**2** A financial plans condition is a condition requiring a club to—
+
+(a) submit a financial plan containing specified information to the IFR before a specified date,
+
+(b) update the financial plan—
+
+(i) annually or at such more frequent intervals as may be specified, and
+
+(ii) as soon as reasonably practicable after there has been a material change in circumstances affecting the club, and
+
+submit that updated plan to the IFR, and
+
+(c) act in accordance with the latest financial plan submitted to the IFR.
+
+**3** For the purposes of paragraph 2(a), the IFR—
+
+(a) must specify—
+
+(i) information about how the club is, or is to be, funded and the source of such funding,
+
+(ii) information about expected revenues and expenses, and
+
+(iii) financial risk assessments and plans for managing financial risks, and
+
+(b) may specify such other information as the IFR considers necessary for the purpose of exercising its functions under this Act.
+
+### Corporate governance statement
+
+**4** A corporate governance statement condition is a condition requiring a club to—
+
+(a) submit a corporate governance statement to the IFR before a specified date, and
+
+(b) update the statement—
+
+(i) at specified intervals, and
+
+(ii) as soon as reasonably practicable after there has been a material change in the corporate governance arrangements at the club, and
+
+submit that updated statement to the IFR.
+
+**5** The condition must require—
+
+(a) the corporate governance statement to explain—
+
+(i) how the club is applying the code published under paragraph 7, and
+
+(ii) what action the club is taking to improve equality, diversity and inclusion, and
+
+(b) the club to publish its latest corporate governance statement online as soon as reasonably practicable after it has been submitted to the IFR.
+
+**6** (1) The IFR must publish the latest corporate governance statement of each regulated club as soon as reasonably practicable after each statement is submitted to the IFR.
+
+(2) The IFR must also publish a corporate governance report.
+
+(3) The report must—
+
+(a) summarise the extent to which regulated clubs are applying the code published under paragraph 7,
+
+(b) set out the main issues that the IFR considers to arise from the corporate governance statements submitted to the IFR, and
+
+(c) recommend ways in which regulated clubs may improve their corporate governance arrangements.
+
+(4) The report must—
+
+(a) be made at such time and in such form as is specified by the IFR in rules;
+
+(b) include such other matters as may be specified by the IFR in rules.
+
+**7** (1) The IFR must prepare and publish a code of practice about the corporate governance of regulated clubs.
+
+(2) “Corporate governance”, in relation to a club, includes—
+
+(a) the nature, constitution or functions of the organs of the club,
+
+(b) the manner in which the organs of the club conduct themselves,
+
+(c) the requirements imposed on organs of the club,
+
+(d) how the club contributes to the economic and social well-being of the local community with which it is associated,
+
+(e) the approach of the club to equality, diversity and inclusion, and
+
+(f) the relationship between different organs of the club.
+
+(3) The IFR—
+
+(a) must keep the code of practice under review, and
+
+(b) may from time to time prepare and publish alterations to the code or a replacement code.
+
+(4) Before publishing a code of practice or any alterations to the code, except where the IFR considers that the alterations are minor, the IFR must consult—
+
+(a) the Football Association, and
+
+(b) such other persons as appear to the IFR to be representative of persons likely to be affected by the code.
+
+(5) A code of practice published under this paragraph comes into force on the day specified in it.
+
+(6) Alterations to the code of practice come into force on the day specified in the alterations for that purpose.
+
+### Fan consultation
+
+**8** (1) A fan consultation condition is a condition requiring a club to carry out regular consultation on relevant matters with—
+
+(a) persons elected by the club’s fans to represent their views, or
+
+(b) persons otherwise appearing to the IFR to represent the views of the club’s fans.
+
+(2) So far as the condition requires consultation with persons within sub-paragraph (1)(a), the condition may require the club to constitute a group of such persons for that purpose.
+
+(3) In considering whether the condition should require consultation with persons within sub-paragraph (1)(a), the IFR must have regard to—
+
+(a) the club’s corporate governance arrangements,
+
+(b) the size and composition of the club’s fanbase, and
+
+(c) the club’s financial and non-financial resources.
+
+(4) In sub-paragraph (1) “relevant matters” has the meaning given by paragraph 4(2) of Schedule 4.
+
+(5) In sub-paragraph (3) “corporate governance” has the meaning given by paragraph 7(2).
+
+**9** (1) The condition may require the consultation to take place by specified means or at specified intervals.
+
+(2) In considering what to specify for the purposes of sub-paragraph (1), the IFR must have regard to—
+
+(a) the size and composition of the club’s fanbase, and
+
+(b) the club’s financial and non-financial resources.
+
+### Annual declaration
+
+**10** An annual declaration condition is a condition requiring a club to submit an annual declaration to the IFR on a specified date or at specified intervals.
+
+**11** The condition must require the declaration to contain—
+
+(a) either—
+
+(i) a description of any matter notified, or that should have been notified, to the IFR in accordance with section 27, 33 or 50 during the previous 12 months, or
+
+(ii) a statement that there were no such matters to notify, and
+
+(b) such other specified information.
+
+### Interpretation
+
+**12** In this Schedule, “specified” (unless stated otherwise) means specified from time to time by the IFR in the condition concerned.
+
+## Schedule 6 — Commitments in lieu of financial discretionary licence conditions
+
+*Section 24*
+
+### Application of Schedule
+
+**1** This Schedule applies for the purposes of commitments mentioned in section 23(3)(c)(ii) in relation to—
+
+(a) the IFR accepting a commitment from a specified competition organiser,
+
+(b) the IFR accepting a variation of a commitment (a “requested variation”), or
+
+(c) the IFR releasing a specified competition organiser from a commitment.
+
+### Procedure for accepting a commitment or requested variation
+
+**2** (1) Before accepting a commitment or a requested variation from a specified competition organiser, the IFR must—
+
+(a) give a notice to the club concerned, and
+
+(b) have regard to any representations made in accordance with the notice.
+
+(2) The notice must—
+
+(a) include the commitment or requested variation that the IFR proposes to accept,
+
+(b) give the IFR’s reasons for proposing to accept the commitment or variation, and
+
+(c) specify the period within which representations may be made in relation to the proposed commitment or variation.
+
+(3) The period specified in the notice for making representations must be a period of not less than 14 days beginning with the day on which the notice is given.
+
+**3** The IFR must, as soon as reasonably practicable after deciding whether to accept a commitment or requested variation, give a notice of its decision to the club and the specified competition organiser concerned.
+
+**4** Paragraph 2 does not apply in relation to a proposed variation which the IFR does not consider material.
+
+### Procedure for releasing a specified competition organiser from a commitment
+
+**5** (1) Before releasing a specified competition organiser from a commitment, the IFR must—
+
+(a) give a notice to the club concerned and the specified competition organiser, and
+
+(b) have regard to any representations made in accordance with the notice.
+
+(2) The notice must—
+
+(a) include a statement that the IFR proposes to release the specified competition organiser from the commitment,
+
+(b) give the reasons for the IFR’s proposal, and
+
+(c) specify the period within which representations may be made in relation to the proposal.
+
+(3) The period specified in the notice for making representations must be a period of not less than 14 days beginning with the day on which the notice is given.
+
+**6** The IFR must, as soon as reasonably practicable after deciding whether to release a specified competition organiser from a commitment, give a notice of its decision to the club and the specified competition organiser concerned.
+
+## Schedule 7 — Meaning of “relevant infringement”
+
+*Section 67*
+
+### Introduction
+
+**1** This Schedule sets out when a person commits a relevant infringement for the purposes of this Act.
+
+### Relevant infringements committed by clubs
+
+**2** (1) A club commits a relevant infringement if it—
+
+(a) operates a relevant team, and
+
+(b) does not hold an operating licence.
+
+(2) A club also commits a relevant infringement if the club fails to comply with—
+
+(a) a condition attached to an operating licence held by it;
+
+(b) a requirement imposed on it by section 27 or 33;
+
+(c) a direction given to it under section 40, 41 or 42;
+
+(d) a requirement imposed on it by or under an order under section 43;
+
+(e) a duty or prohibition imposed on it by any of sections 45 to 53;
+
+(f) a commitment accepted under section 70;
+
+(g) an urgent direction under section 79;
+
+(h) any rule made by the IFR.
+
+(3) A club also commits a relevant infringement if the club fails to co-operate with or assist, or otherwise obstructs—
+
+(a) an individual appointed as an officer by virtue of an order under section 42;
+
+(b) a trustee appointed by virtue of an order under section 43;
+
+(c) an expert reporter appointed under section 66;
+
+(d) a skilled person appointed by virtue of paragraph 5 of Schedule 9.
+
+(4) A club is deemed to have committed a relevant infringement if—
+
+(a) instead of granting the club a full operating licence in accordance with section 18(6)(a), the IFR—
+
+(i) specifies a further period for which the club’s provisional operating licence is to have effect in accordance with section 18(6)(b), or
+
+(ii) revokes the club’s provisional operating licence in accordance with section 19;
+
+(b) an owner of the club fails to comply with—
+
+(i) a direction given to the owner under section 39 or 41, or
+
+(ii) a requirement imposed on the owner by or under an order under section 43;
+
+(c) an officer of the club fails to comply with a direction given to the officer under section 40 or 41;
+
+(d) an owner or officer of the club fails to co-operate with or assist, or otherwise obstructs—
+
+(i) an individual appointed as an officer by virtue of an order under section 42;
+
+(ii) a trustee appointed by virtue of an order under section 43.
+
+### Relevant infringements committed by owners of clubs
+
+**3** An owner of a club commits a relevant infringement if the owner—
+
+(a) fails to comply with a requirement imposed on the owner by section 27 or 33;
+
+(b) fails to comply with—
+
+(i) a direction given to the owner under section 39 or 41, or
+
+(ii) a requirement imposed on the owner by or under an order under section 43;
+
+(c) fails to co-operate with or assist, or otherwise obstructs—
+
+(i) an individual appointed as an officer by virtue of an order under section 42;
+
+(ii) a trustee appointed by virtue of an order under section 43;
+
+(d) fails to comply with a commitment accepted under section 70;
+
+(e) fails to comply with an urgent direction under section 79;
+
+(f) fails to comply with any rule made by the IFR.
+
+### Relevant infringements committed by officers of clubs
+
+**4** An officer of a club commits a relevant infringement if the officer—
+
+(a) fails to comply with a requirement imposed on the officer by section 27 or 33;
+
+(b) fails to comply with a direction given to the officer under section 40 or 41;
+
+(c) fails to co-operate with or assist, or otherwise obstructs—
+
+(i) an individual appointed as an officer by virtue of an order under section 42;
+
+(ii) a trustee appointed by virtue of an order under section 43;
+
+(d) fails to comply with a commitment accepted under section 70;
+
+(e) fails to comply with an urgent direction under section 79;
+
+(f) fails to comply with any rule made by the IFR.
+
+### Relevant infringements committed by senior managers of clubs
+
+**5** (1) A senior manager of a club commits a relevant infringement if—
+
+(a) the club, without reasonable excuse, commits a relevant infringement, and
+
+(b) the relevant infringement is connected to a senior management function carried out by the senior manager.
+
+(2) A senior manager also commits a relevant infringement if the senior manager fails to comply with a commitment accepted under section 70.
+
+### Relevant infringements committed by specified competition organisers
+
+**6** A specified competition organiser commits a relevant infringement if the organiser fails to comply with—
+
+(a) a commitment accepted by the IFR under section 24;
+
+(b) a requirement imposed by section 55 (duties to notify and consult with the IFR);
+
+(c) a distribution order made under section 62;
+
+(d) a commitment accepted under section 70;
+
+(e) an urgent direction under section 79;
+
+(f) any rule made by the IFR.
+
+### Relevant infringements committed by other persons
+
+**7** A person who is not a club, an owner or officer of a club or a specified competition organiser commits a relevant infringement if the person fails to comply with a requirement imposed on the person by—
+
+(a) section 27 (duty to notify where prospect of becoming a new owner or officer);
+
+(b) section 46 (duty not to dispose of etc home ground without approval);
+
+(c) section 47 (duty not to appoint administrator without approval);
+
+(d) an urgent direction under section 79;
+
+(e) any rule made by the IFR.
+
+## Schedule 8 — Investigatory powers
+
+*Section 68*
+
+### Application of this Schedule
+
+**1** This Schedule applies where the IFR decides to conduct an investigation under section 68 into whether a person has committed a relevant infringement.
+
+### Power to ask questions
+
+**2** (1) The IFR may give any person (whether or not the person mentioned in paragraph 1) a notice (“an interview notice”) requiring the person to answer questions that relate to any matter relevant to the investigation.
+
+(2) An interview notice must—
+
+(a) include details of the investigation;
+
+(b) state the place at which, or the manner in which (which may be remote), the person is to answer the questions;
+
+(c) state the time at which the person is to answer the questions;
+
+(d) include information about the possible consequences under Part 8 of not complying with the notice.
+
+### Power to enter business premises under a warrant
+
+**3** (1) On an application made to it by the IFR, the court or Tribunal may issue a warrant if it is satisfied that there are reasonable grounds for suspecting that there is on, or accessible from, any business premises information that relates to any matter relevant to the investigation (“relevant information”).
+
+(2) A warrant under this paragraph authorises an officer of the IFR named in the warrant (“the authorised officer”), and any other of the IFR’s officers whom the IFR’s Board has authorised in writing to accompany the authorised officer, to—
+
+(a) enter the premises specified in the warrant, using such force as is reasonably necessary;
+
+(b) take onto the premises such equipment as appears to the authorised officer to be necessary;
+
+(c) search the premises for information appearing to be relevant information;
+
+(d) operate any equipment found on the premises for the purpose of producing information;
+
+(e) require any person on the premises to provide such assistance as the authorised officer may reasonably require (including providing passwords or encryption keys and operating equipment on the premises);
+
+(f) require any person on the premises to give information to the authorised officer;
+
+(g) require any person on the premises to state, to the best of their knowledge and belief, where relevant information may be found;
+
+(h) take copies of, or extracts from, any information appearing to be relevant information;
+
+(i) take possession of any information appearing to be relevant information that is produced under paragraph (d) or given to the authorised officer under paragraph (f);
+
+(j) take possession of any other information appearing to be relevant information if—
+
+(i) such action appears to be necessary for preserving the information or preventing interference with it, or
+
+(ii) it is not reasonably practicable to take copies of the information on the premises;
+
+(k) take any other steps which appear to be necessary for the purpose of preserving any information appearing to be relevant information or preventing interference with it.
+
+(3) Any information which is given to an officer under sub-paragraph (2) must be in a form—
+
+(a) in which it can be taken away, and
+
+(b) which is visible and legible or from which it can be readily be generated in a visible and legible form.
+
+(4) A warrant under this paragraph may authorise persons specified in the warrant to accompany the authorised officer who is executing it.
+
+(5) A warrant under this paragraph continues in force until the end of the period of one month beginning with the day on which it is issued.
+
+(6) Any information which the IFR obtains under sub-paragraph (2) may be retained by the IFR for so long as is necessary in all the circumstances.
+
+(7) An application for a warrant under this paragraph must—
+
+(a) in the case of an application to the court, be made in accordance with rules of court;
+
+(b) in the case of an application to the Tribunal, be made in accordance with Tribunal Procedure Rules.
+
+(8) The IFR may not make an application under this paragraph to the court or the Tribunal unless the IFR’s Board has approved the making of the application.
+
+(9) In this paragraph, “court” means the High Court.
+
+**4** (1) A warrant under paragraph 3 must describe—
+
+(a) the subject-matter and purpose of the investigation;
+
+(b) the offence created by section 78(5).
+
+(2) The powers conferred by paragraph 3 are exercisable only on production of the warrant issued under that paragraph.
+
+(3) Before executing a warrant under paragraph 3, the authorised officer must—
+
+(a) take reasonable steps to inform the occupier of the premises of the intended entry, and
+
+(b) afford the occupier or their legal or other representative a reasonable opportunity to be present when the warrant is executed.
+
+(4) But sub-paragraph (3) does not apply if the authorised officer considers that so informing the occupier would prejudice the execution of the warrant.
+
+(5) If the authorised officer is unable to, or under sub-paragraph (4) does not, inform the occupier of the intended entry they must, when executing the warrant, leave a copy of it in a prominent place on the premises.
+
+(6) On leaving any premises which they have entered by virtue of a warrant under paragraph 3, the authorised officer must, if the premises are unoccupied or the occupier is temporarily absent, leave them as effectively secured as they found them.
+
+## Schedule 9 — Sanctions
+
+*Section 75*
+
+### Part 1 — Sanctions relating to information etc
+
+#### Introduction
+
+**1** Paragraphs 2 and 3 apply where—
+
+(a) the IFR determines that a person (“P”) has, without reasonable excuse, failed to comply with an information requirement (see section 75(2)), or
+
+(b) the IFR is satisfied beyond reasonable doubt that P has committed an offence under section 78.
+
+#### Censure statements
+
+**2** (1) The IFR may prepare and publish a censure statement.
+
+(2) A censure statement is a statement that—
+
+(a) states the identity of P,
+
+(b) states the information requirement that the IFR has determined that P has failed to comply with or the offence that the IFR is satisfied P has committed,
+
+(c) explains why the IFR determined that P failed to comply with that requirement or is satisfied that P committed the offence (as the case may be), and
+
+(d) explains why the IFR considers it appropriate to publish a statement under this paragraph in respect of P.
+
+#### Financial penalties
+
+**3** (1) The IFR may impose a financial penalty on P.
+
+(2) The amount of a penalty imposed under this paragraph may be such amount as the IFR considers appropriate, provided it does not exceed the amount set out in whichever of sub-paragraphs (5) to (9) applies.
+
+(3) Where the IFR imposes a penalty under this paragraph it may provide that the amount of the penalty is reduced to, or by, a specified amount if the penalty is paid before a day specified in a decision notice under section 77.
+
+(4) The amount of a penalty imposed under this paragraph must be—
+
+(a) a fixed amount,
+
+(b) an amount calculated by reference to a daily rate, or
+
+(c) a combination of a fixed amount and an amount calculated by reference to a daily rate.
+
+(5) Where P is a club or a competition organiser, the maximum amount of a penalty that may be imposed under this paragraph is—
+
+(a) in the case of a fixed amount, an amount equal to 10% of the total revenue of the club or organiser (both inside and outside the United Kingdom);
+
+(b) in the case of an amount calculated by reference to a daily rate, for each day an amount equal to 10% of the daily revenue of the club or organiser (both inside and outside the United Kingdom);
+
+(c) in the case of a combination of a fixed amount and an amount calculated by reference to a daily rate, the amount specified in—
+
+(i) paragraph (a), in relation to the fixed amount, and
+
+(ii) paragraph (b), in relation to the amount calculated by reference to a daily rate.
+
+(6) Where P is a body that is not a regulated club but has been a regulated club, the maximum amount of a penalty that may be imposed under this paragraph is—
+
+(a) in the case of a fixed amount, the higher of—
+
+(i) an amount equal to 10% of the total revenue of the body’s (both within and outside the United Kingdom), and
+
+(ii) £75,000;
+
+(b) in the case of an amount calculated by reference to a daily rate, for each day the higher of—
+
+(i) an amount equal to 10% of the daily revenue of the body (both inside and outside the United Kingdom), and
+
+(ii) £25,000;
+
+(c) in the case of a combination of a fixed amount and an amount calculated by reference to a daily rate, the amount specified in—
+
+(i) paragraph (a), in relation to the fixed amount, and
+
+(ii) paragraph (b), in relation to the amount calculated by reference to a daily rate.
+
+(7) Where P is an owner of a club (including where P is also a senior manager or other officer of the club), the maximum amount of a penalty that may be imposed under this paragraph is—
+
+(a) in the case of a fixed amount, an amount equal to 10% of the total revenue of the club (both inside and outside the United Kingdom);
+
+(b) in the case of an amount calculated by reference to a daily rate, for each day an amount equal to 10% of the daily revenue of the club (both inside and outside the United Kingdom);
+
+(c) in the case of a combination of a fixed amount and an amount calculated by reference to a daily rate, the amount specified in—
+
+(i) paragraph (a), in relation to the fixed amount, and
+
+(ii) paragraph (b), in relation to the amount calculated by reference to a daily rate.
+
+(8) Where P is an officer of a club (including where P is a senior manager of the club, but not where P is also an owner of the club), the maximum amount of a penalty that may be imposed under this paragraph is—
+
+(a) in the case of a fixed amount, the higher of—
+
+(i) an amount equal to 10% of the officer’s remuneration, and
+
+(ii) £75,000;
+
+(b) in the case of an amount calculated by reference to a daily rate, for each day the higher of—
+
+(i) an amount equal to 10% of the officer’s daily remuneration, and
+
+(ii) £25,000;
+
+(c) in the case of a combination of a fixed amount and an amount calculated by reference to a daily rate, the amount specified in—
+
+(i) paragraph (a), in relation to the fixed amount, and
+
+(ii) paragraph (b), in relation to the amount calculated by reference to a daily rate.
+
+(9) In any other case, the maximum amount of a penalty that may be imposed under this paragraph is—
+
+(a) in the case of a fixed amount, £75,000;
+
+(b) in the case of an amount calculated by reference to a daily rate, £25,000 per day;
+
+(c) in the case of a combination of a fixed amount and an amount calculated by reference to a daily rate, the amount specified in—
+
+(i) paragraph (a), in relation to the fixed amount, and
+
+(ii) paragraph (b), in relation to the amount calculated by reference to a daily rate.
+
+(10) Where a club or body is an undertaking that is part of a group, references in sub-paragraphs (5), (6) and (7) to the revenue of the club or body are to the revenue of that group.
+
+### Part 2 — Sanctions relating to relevant infringements
+
+#### Censure statements
+
+**4** (1) This paragraph applies where the IFR determines (whether as a result of an investigation or otherwise) that a person (“P”) has, without reasonable excuse, committed a relevant infringement.
+
+(2) The IFR may prepare and publish a censure statement.
+
+(3) A censure statement is a statement that—
+
+(a) states the identity of P,
+
+(b) states the relevant infringement that the IFR has determined that P has committed,
+
+(c) explains why the IFR determined that P has committed the relevant infringement, and
+
+(d) explains why the IFR considers it appropriate to publish a statement under this paragraph in respect of P.
+
+#### Appointment of a skilled person
+
+**5** (1) This paragraph applies where—
+
+(a) the IFR determines (whether as a result of an investigation or otherwise) that a club has, without reasonable excuse, committed a relevant infringement, and
+
+(b) the infringement is continuing.
+
+(2) The IFR may require the club to appoint a person nominated by the IFR (“a skilled person”) to assist the club in bringing the relevant infringement to an end.
+
+(3) The IFR may only nominate a person if the IFR is satisfied that the person—
+
+(a) has the skills necessary to assist the club in bringing the relevant infringement to an end, and
+
+(b) does not have a conflict of interest.
+
+(4) Where a skilled person is appointed by virtue of this paragraph, the club must—
+
+(a) co-operate with the skilled person, and
+
+(b) give the skilled person such reasonable assistance as the skilled person requests (including access to business premises, equipment, services, information and individuals),
+
+in connection with bringing the relevant infringement to an end.
+
+#### Financial penalties
+
+**6** (1) This paragraph applies where the IFR determines (whether as a result of an investigation or otherwise) that a person (“P”) has, without reasonable excuse, committed a relevant infringement.
+
+(2) The IFR may impose a financial penalty on P.
+
+(3) The amount of a penalty imposed under this paragraph may be such amount as the IFR considers appropriate, provided it does not exceed the amount set out in whichever of sub-paragraphs (6) to (10) applies.
+
+(4) Where the IFR imposes a penalty under this paragraph it may provide that the amount of the penalty is reduced to, or by, a specified amount if the penalty is paid before a day specified in a decision notice under section 77.
+
+(5) The amount of a penalty imposed under this paragraph must be—
+
+(a) a fixed amount,
+
+(b) an amount calculated by reference to a daily rate, or
+
+(c) a combination of a fixed amount and an amount calculated by reference to a daily rate.
+
+(6) Where P is a club or a competition organiser, the maximum amount of a penalty that may be imposed under this paragraph is—
+
+(a) in the case of a fixed amount, an amount equal to 10% of the total revenue of the club or organiser (both inside and outside the United Kingdom);
+
+(b) in the case of an amount calculated by reference to a daily rate, for each day an amount equal to 10% of the daily revenue of the club or organiser (both inside and outside the United Kingdom);
+
+(c) in the case of a combination of a fixed amount and an amount calculated by reference to a daily rate, the amount specified in—
+
+(i) paragraph (a), in relation to the fixed amount, and
+
+(ii) paragraph (b), in relation to the amount calculated by reference to a daily rate.
+
+(7) Where P is a body that is not a regulated club but has been a regulated club, the maximum amount of a penalty that may be imposed under this paragraph is—
+
+(a) in the case of a fixed amount, the higher of—
+
+(i) an amount equal to 10% of the total revenue of the body’s (both within and outside the United Kingdom), and
+
+(ii) £75,000;
+
+(b) in the case of an amount calculated by reference to a daily rate, for each day the higher of—
+
+(i) an amount equal to 10% of the daily revenue of the body (both inside and outside the United Kingdom), and
+
+(ii) £25,000;
+
+(c) in the case of a combination of a fixed amount and an amount calculated by reference to a daily rate, the amount specified in—
+
+(i) paragraph (a), in relation to the fixed amount, and
+
+(ii) paragraph (b), in relation to the amount calculated by reference to a daily rate.
+
+(8) Where P is an owner of a club (including where P is also a senior manager or other officer of the club), the maximum amount of a penalty that may be imposed under this paragraph is—
+
+(a) in the case of a fixed amount, an amount equal to 10% of the total revenue of the club (both inside and outside the United Kingdom);
+
+(b) in the case of an amount calculated by reference to a daily rate, for each day an amount equal to 10% of the daily revenue of the club (both inside and outside the United Kingdom);
+
+(c) in the case of a combination of a fixed amount and an amount calculated by reference to a daily rate, the amount specified in—
+
+(i) paragraph (a), in relation to the fixed amount, and
+
+(ii) paragraph (b), in relation to the amount calculated by reference to a daily rate.
+
+(9) Where P is an officer of a club (including where P is a senior manager of the club but not where P is also an owner of the club), the maximum amount of a penalty that may be imposed under this paragraph is—
+
+(a) in the case of a fixed amount, the higher of—
+
+(i) an amount equal to 10% of the officer’s remuneration, and
+
+(ii) £75,000;
+
+(b) in the case of an amount calculated by reference to a daily rate, for each day the higher of—
+
+(i) an amount equal to 10% of the officer’s daily remuneration, and
+
+(ii) £25,000;
+
+(c) in the case of a combination of a fixed amount and an amount calculated by reference to a daily rate, the amount specified in—
+
+(i) paragraph (a), in relation to the fixed amount, and
+
+(ii) paragraph (b), in relation to the amount calculated by reference to a daily rate.
+
+(10) In any other case, the maximum amount of a penalty that may be imposed under this paragraph is—
+
+(a) in the case of a fixed amount, £75,000;
+
+(b) in the case of an amount calculated by reference to a daily rate, £25,000 per day;
+
+(c) in the case of a combination of a fixed amount and an amount calculated by reference to a daily rate, the amount specified in—
+
+(i) paragraph (a), in relation to the fixed amount, and
+
+(ii) paragraph (b), in relation to the amount calculated by reference to a daily rate.
+
+(11) Where a club or body is an undertaking that is part of a group, references in sub-paragraphs (6), (7) and (8) to the revenue of the club or body are to the revenue of that group.
+
+#### Injunctive relief
+
+**7** (1) This paragraph applies where—
+
+(a) the IFR determines (whether as a result of an investigation or otherwise) that a person has, without reasonable excuse, committed a relevant infringement to which sub-paragraph (2) applies, and
+
+(b) the relevant infringement is continuing.
+
+(2) This sub-paragraph applies to relevant infringements that are relevant infringements by virtue of any of the following provisions of Schedule 7—
+
+(a) paragraph 2(1);
+
+(b) paragraph 2(2)(c), (d) or (g);
+
+(c) paragraph 2(3)(a) or (b);
+
+(d) paragraph 3(b), (c) or (e);
+
+(e) paragraph 4(b), (c) or (e);
+
+(f) paragraph 6(c) or (e);
+
+(g) paragraph 7(d).
+
+(3) The IFR may apply to the Tribunal for an injunction to bring the relevant infringement to an end.
+
+(4) Tribunal Procedure Rules may make provision about the transfer from the Tribunal to the High Court of all or any part of an application under sub-paragraph (3).
+
+#### Suspension or revocation of operating licence
+
+**8** (1) Paragraph 9 applies where—
+
+(a) the IFR determines (whether as a result of an investigation or otherwise) that a club has, without reasonable excuse, committed a relevant infringement, and
+
+(b) one or more of the aggravating conditions are met in relation to the relevant infringement.
+
+(2) The first aggravating condition is that—
+
+(a) the relevant infringement is intentional and persistent, and
+
+(b) the IFR has already taken action in accordance with this Part of this Schedule and considers that there is no further action it could take under this Part of this Schedule (other than action under paragraph 9) that would bring the relevant infringement to an end.
+
+(3) The second aggravating condition is that—
+
+(a) the club has intentionally and persistently failed to co-operate with the IFR in relation to any investigation into the relevant infringement, and
+
+(b) the IFR has already taken action in accordance with this Part of this Schedule and considers that there is no further action it could take under this Part of this Schedule (other than action under paragraph 9) that would bring the relevant infringement to an end.
+
+(4) The third aggravating condition is that the relevant infringement jeopardises the IFR’s ability to advance one or more of its objectives.
+
+(5) For the purposes of this paragraph, behaviour is persistent if the behaviour has occurred on a sufficient number of occasions for it to be clear that it represents a pattern of behaviour or practice.
+
+**9** (1) The IFR may—
+
+(a) suspend the club’s operating licence, or
+
+(b) revoke the club’s operating licence from a day specified by the IFR.
+
+(2) Where the IFR suspends an operating licence—
+
+(a) it must specify in a decision notice under section 77 the day on which the suspension takes effect, and
+
+(b) it must specify in that notice either—
+
+(i) the period for which the operating licence will be suspended, or
+
+(ii) that the operating licence is to be suspended until some event specified in the notice occurs (which may be the giving of a further notice by the IFR).
+
+(3) Where a decision notice under section 77 is given during a football season, the date specified in that notice for the purposes of sub-paragraph (2)(a) may not be a date before the end of that season.
+
+(4) Nothing in this paragraph prevents the IFR from—
+
+(a) re-exercising the power in this paragraph to suspend an operating licence after a previous suspension of the licence has come to an end, or
+
+(b) revoking an operating licence after a suspension of the licence has come to an end.
+
+### Part 3 — Further provision about financial penalties
+
+#### Interpretation
+
+**10** For the purposes of paragraphs 3 and 6—
+
+(a) an undertaking (with the meaning of Part 1 of the Competition Act 1998) is part of a group if one or more bodies corporate which are comprised in the undertaking are members of the same group as one or more other bodies corporate;
+
+(b) two or more bodies corporate are members of the same group if—
+
+(i) one is the subsidiary of another, or
+
+(ii) both are subsidiaries of the same body corporate;
+
+(c) “subsidiary” has the meaning given by section 1159 of the Companies Act 2006.
+
+#### Penalties imposed by reference to a daily rate
+
+**11** (1) In imposing a penalty under paragraph 3 or 6 by reference to a daily rate—
+
+(a) no account is to be taken of any days before the IFR gives the person concerned a warning notice under section 76, and
+
+(b) unless (whether before or after the penalty is imposed) the IFR determines an earlier day, the amount payable ceases to accumulate at the beginning of the day on which the conduct giving rise to the penalty ceases.
+
+(2) Where the IFR imposes a penalty under paragraph 3 or 6 by reference to a daily rate, the decision notice under section 77 must state the day on which the amount first starts to accumulate and the day or days on which it might cease to accumulate.
+
+#### Revenue and remuneration
+
+**12** (1) For the purposes of paragraphs 3 and 6, the IFR may by rules (“revenue rules”) make provision for determining—
+
+(a) a person’s total and daily revenue;
+
+(b) an officer’s remuneration and daily remuneration.
+
+(2) Revenue rules may, among other things, make provision about—
+
+(a) amounts which are, or are not, to be included in a person’s revenue;
+
+(b) amounts which are, or are not, to be included in an officer’s remuneration;
+
+(c) the period or periods by reference to which a person’s revenue is to be determined;
+
+(d) the period or periods by reference to which an officer’s remuneration is to be determined.
+
+(3) Before making, amending or replacing revenue rules the IFR must consult the Secretary of State.
+
+(4) Sub-paragraph (3) does not apply in relation to amendments to or replacements of revenue rules if the IFR considers the changes to be minor.
+
+(5) The consultation must include a draft of the proposed revenue rules.
+
+#### Interest
+
+**13** (1) If the whole or part of a penalty imposed under paragraph 3 or 6 is not paid by the day by which it is required to be paid, the unpaid balance carries interest at an annual percentage rate of 5% plus the Bank of England base rate.
+
+(2) But the IFR may, by notice to the person on whom the penalty is imposed, provide that this paragraph does not apply in relation to the penalty.
+
+#### Recovery as a civil debt
+
+**14** (1) Where a penalty imposed under paragraph 3 or 6, or any part of such a penalty, has not been paid by the day by which it is required to be paid, the IFR may recover from the person on whom the penalty was imposed any amount of the penalty and interest that has not been paid.
+
+(2) Such an amount may be recovered as a civil debt due to the IFR.
+
+#### Power to amend figures
+
+**15** The Secretary of State may by regulations amend the amounts for the time being specified in—
+
+(a) paragraphs (a)(ii) and (b)(ii) of paragraph 3(6);
+
+(b) paragraphs (a)(ii) and (b)(ii) of paragraph 3(8);
+
+(c) paragraphs (a) and (b) of paragraph 3(9);
+
+(d) paragraphs (a)(ii) and (b)(ii) of paragraph 6(7);
+
+(e) paragraphs (a)(ii) and (b)(ii) of paragraph 6(9);
+
+(f) paragraphs (a) and (b) of paragraph 6(10).
+
+## Schedule 10 — Reviews
+
+*Section 81*
+
+| *Decision of the IFR (“the reviewable decision”)* | *Who carries out the review (the “applicable reviewer”)* |
+|---|---|
+| to refuse to grant a provisional operating licence under section 17 | a committee of the Expert Panel |
+| to specify a further period for which a provisional operating licence is to have effect under section 18 (6) (b) | a committee of the Expert Panel |
+| to revoke a provisional operating licence under section 19 | the Board |
+| to attach a discretionary licence condition, to vary or remove, or to not vary or remove, a discretionary licence condition attached, to an operating licence under section 21 | a committee of the Expert Panel |
+| to accept, or not to accept, a commitment mentioned in section 23 (3) (c) (ii) | a committee of the Expert Panel |
+| to release, or not release, a specified competition organiser from a commitment mentioned in section 23 (3) (c) (ii) | a committee of the Expert Panel |
+| to make a determination in relation to a person under Part 4 | the Board |
+| to make an order under section 38 (disqualification orders) | the Board |
+| to give a direction under section 39 or 40 (removal directions) | a committee of the Expert Panel |
+| to give a direction under section 41 (directions relating to unsuitable owners and officers) | a committee of the Expert Panel |
+| to give a direction, or make an order, under section 42 (orders and directions effecting alternative officer arrangements) | a committee of the Expert Panel |
+| to make an order under section 43 (ownership removal orders) | the Board |
+| to specify, or not specify, a competition as a prohibited competition under section 45 | the Board |
+| to approve, or not to approve, the taking of any step mentioned in section 46 (1) (duty not to dispose etc of home ground without approval) | a committee of the Expert Panel |
+| to approve, or not to approve, the appointment of an administrator under section 47 | a committee of the Expert Panel |
+| to approve, or not to approve, the entering into of arrangements mentioned in section 48 (1) (duty not to relocate without approval) | a committee of the Expert Panel |
+| not to approve, or to approve with modifications, a personnel statement under section 52 | a committee of the Expert Panel |
+| to trigger, or not to trigger, a resolution process under section 59 | the Board |
+| to make a distribution order under section 62 | the Board |
+| to revoke a distribution order under section 63 | the Board |
+| to appoint an expert reporter under section 66 | a committee of the Expert Panel |
+| not to release a person from a commitment accepted under section 70 | a committee of the Expert Panel |
+| to give an urgent direction for breaches of licence conditions under section 79 | a committee of the Expert Panel |
+| to prepare and publish a censure statement under paragraph 2 or 4 of Schedule 9 | a committee of the Expert Panel |
+| to require the appointment of a skilled person under paragraph 5 of Schedule 9 | a committee of the Expert Panel |
+| to impose a financial penalty under paragraph 3 or 6 of Schedule 9 | a committee of the Expert Panel |
+| to suspend or revoke an operating licence under paragraph 9 of Schedule 9 | the Board |
+
+## Schedule 11 — Index of defined terms
+
+*Section 93*
+
+|  |  |
+|---|---|
+| affirmative determination | section 28 (1) |
+| applicable reviewer | section 81 (2) and Schedule 10 |
+| Bank of England base rate | section 92 (1) |
+| the Board | paragraphs 1 and 2 of Schedule 2 |
+| business premises | section 92 (1) |
+| chargeable period | section 53 (11) |
+| closure notice | section 69 |
+| club | section 2 (1) |
+| the club financial soundness objective | section 6 |
+| commitment | section 24 (in Part 3 ) and section 70 (in Part 7 ) |
+| competition | section 2 (1) |
+| competition organiser | section 2 (1) |
+| concerned person | section 81 (2) |
+| conflict of interest | section 92 (1) |
+| decision notice | section 77 |
+| discretionary licence condition | section 21 |
+| distribution agreement | section 56 (5) |
+| distribution order | section 56 (5) |
+| English football | section 2 (1) |
+| English team | section 2 (4) |
+| Expert Panel | paragraphs 1 and 23 of Schedule 2 |
+| expert reporter | section 66 |
+| the fan engagement threshold requirement | paragraph 4 of Schedule 4 |
+| the financial resources threshold requirement | paragraph 2 of Schedule 4 |
+| the Football Association | section 92 (1) |
+| football | section 2 (1) |
+| football club | section 2 (1) |
+| football governance statement | section 11 |
+| football season | section 92 (1) |
+| full operating licence | section 15 (3) |
+| HMRC | section 92 (1) |
+| the IFR | sections 1 (2) (a) and 2 (1) |
+| the IFR’s objectives | section 6 |
+| the IFR’s regulatory principles | section 8 |
+| individual ownership fitness criteria | section 26 (7) |
+| information | section 92 (1) |
+| information requirement | section 75 (2) |
+| levy rules | section 53 (2) |
+| licensed club | section 2 (1) |
+| mandatory licence condition | section 20 and Schedule 5 |
+| the non-financial resources threshold requirement | paragraph 3 of Schedule 4 |
+| officer | section 4 |
+| officer fitness criteria | section 26 (8) |
+| operates | section 2 (2) |
+| operating licence | section 2 (1) |
+| owner | section 3 (1) and Schedule 1 |
+| personnel statement | section 16 (4) |
+| provisional operating licence | section 15 (2) |
+| qualifying football season | section 56 (5) |
+| regulated club | section 2 (1) |
+| registered society | section 92 (1) |
+| relegation revenue | section 62 (9) |
+| relevant infringement | section 67 and Schedule 7 |
+| relevant revenue | section 56 (2) |
+| relevant team | section 2 (1) |
+| resolution process | section 56 (5) |
+| revenue rules | paragraph 12 (1) of Schedule 9 |
+| reviewable decision | section 81 (2) and Schedule 10 |
+| senior manager | section 4 (4) |
+| senior management function | section 4 (5) |
+| serious criminal conduct | section 92 (2) |
+| skilled person | paragraph 5 of Schedule 9 |
+| specified competition | section 2 (1) |
+| specified competition organiser | section 2 (1) |
+| state of the game report | section 10 |
+| the systemic financial resilience objective | section 6 |
+| team | section 2 (1) |
+| threshold requirements | paragraph 1 of Schedule 4 |
+| the Tribunal | section 92 (1) |
+| Tribunal Procedure Rules | section 92 (1) |
+| ultimate owner | section 3 (2) |
+| urgent direction | section 79 (2) |
+| warning notice | section 76 |
+
+## Schedule 12 — Minor and consequential amendments
+
+*Section 98*
+
+### Public Records Act 1958
+
+**1** In Schedule 1 to the Public Records Act 1958 (definition of public records), in paragraph 3, in Part 2 of the Table, at the appropriate place insert—
+
+> - The Independent Football Regulator.
+
+### Parliamentary Commissioner Act 1967
+
+**2** In Schedule 2 to the Parliamentary Commissioner Act 1967 (departments etc subject to investigation), at the appropriate place insert—
+
+> - The Independent Football Regulator.
+
+### House of Commons Disqualification Act 1975
+
+**3** In Part 2 of Schedule 1 to the House of Commons Disqualification Act 1975 (bodies of which all members are disqualified), at the appropriate place insert—
+
+> - The Independent Football Regulator.
+
+### Freedom of Information Act 2000
+
+**4** In Part 6 of Schedule 1 to the Freedom of Information Act 2000 (other public bodies and offices: general), at the appropriate place insert—
+
+> - The Independent Football Regulator.
+
+### Criminal Justice and Police Act 2001
+
+**5** (1) The Criminal Justice and Police Act 2001 is amended as follows.
+
+(2) In section 50 (additional powers of seizure from premises), in subsection (7), after “section 74(2)(h) of the Digital Markets, Competition and Consumers Act 2024” insert “or paragraph 3(2)(h) of Schedule 8 to the Football Governance Act 2025”.
+
+(3) In section 57 (retention of seized items), in subsection (1), at the end insert—
+
+> (w) paragraph 3(6) of Schedule 8 to the Football Governance Act 2025.
+
+(4) In section 63(1) (powers of seizure: copies), in paragraph (d), after “section 74(2)(d) and (f) of the Digital Markets, Competition and Consumers Act 2024” insert “, and in paragraph 3(2)(d) and (f) of Schedule 8 to the Football Governance Act 2025”.
+
+(5) In section 64 (meaning of “appropriate judicial authority”)—
+
+(a) in subsection (1), in the words before paragraph (a), for “subsection (2)” substitute “subsections (2) and (4)”;
+
+(b) after subsection (3) insert—
+
+> (4) In this Part “appropriate judicial authority”, in relation to the seizure of documents under paragraph 3(2) of Schedule 8 to the Football Governance Act 2025 and in relation to documents seized under that power, means the High Court.
+
+(6) In section 65 (meaning of “legal privilege”), after subsection (3B) insert—
+
+> (3C) In relation to property which has been seized in exercise, or purported exercise, of—
+>
+> (a) the power of seizure conferred by paragraph 3(2) of Schedule 8 to the Football Governance Act 2025, or
+>
+> (b) so much of any power of seizure conferred by section 50 as is exercisable by reference to that power,
+>
+> references in this Part to an item subject to legal privilege are to be read as references to a privileged communication within the meaning of section 73(3) of that Act.
+
+(7) In section 66(5) (general interpretation of Part 2), after paragraph (j) insert—
+
+> (k) paragraph 3(2)(j) of Schedule 8 to the Football Governance Act 2025.
+
+(8) In Part 1 of Schedule 1 (powers of seizure to which section 50 applies), at the end insert—
+
+> **Football Governance Act 2025**
+>
+> **73X** Each of the powers of seizure conferred by paragraph 3(2)(i) and (j) of Schedule 8 to the Football Governance Act 2025 (seizure of information for the purposes of an investigation).
+
+### Enterprise Act 2002
+
+**6** Schedule 4 to the Enterprise Act 2002 (the Competition Appeal Tribunal: procedure) is amended as follows.
+
+**7** (1) Paragraph 1A (enforcement of injunctions in England and Wales and Northern Ireland) is amended as follows.
+
+(2) In sub-paragraph (1), for “proceedings under” to “the Digital Markets, Competition and Consumers Act 2024” substitute “relevant proceedings”.
+
+(3) After sub-paragraph (3) insert—
+
+> (4) For the purposes of this paragraph, “relevant proceedings” means proceedings under—
+>
+> (a) section 47A or 47B of the 1998 Act;
+>
+> (b) section 101 of the Digital Markets, Competition and Consumers Act 2024;
+>
+> (c) paragraph 7 of Schedule 9 to the Football Governance Act 2025.
+
+**8** (1) Paragraph 10A (Tribunal rules: institution of proceedings) is amended as follows.
+
+(2) In sub-paragraph (1), in the words before paragraph (a), for “warrant” to “the 1998 Act” substitute “relevant warrant”.
+
+(3) In sub-paragraph (2), for “warrant mentioned in sub-paragraph (1)” substitute “relevant warrant”.
+
+(4) After sub-paragraph (2) insert—
+
+> (3) For the purposes of this paragraph, “relevant warrant” means a warrant under—
+>
+> (a) section 194 of this Act;
+>
+> (b) section 28, 28A, 62, 62A, 63, 65G or 65H of the 1998 Act;
+>
+> (c) section 74 of the Digital Markets, Competition and Consumers Act 2024;
+>
+> (d) paragraph 3 of Schedule 8 to the Football Governance Act 2025.
+
+### Equality Act 2010
+
+**9** In Part 1 of Schedule 19 to the Equality Act 2010 (authorities subject to the public sector equality duty), in the group of entries under the heading “Regulators”, at the appropriate place insert—
+
+> - The Independent Football Regulator.
+
+### Competition Appeal Tribunal Rules 2015 (S.I. 2015/1648)
+
+**10** (1) The Competition Appeal Tribunal Rules 2015 (S.I. 2015/1648) are amended as follows.
+
+(2) In rules 3 (application of Rules)—
+
+(a) in paragraph (b) after “5A” insert “, 5B”;
+
+(b) after paragraph (b) insert—
+
+> (ba) rules 67 to 70 of Part 2 also apply to appeals under section 84 of the Football Governance Act 2025;
+
+;
+
+(c) after paragraph (ea) insert—
+
+> (eb) Part 5B applies to appeals under section 84 of the Football Governance Act 2025 ;
+
+.
+
+(3) After rule 98A insert—
+
+> **Part 5B — Appeals under section 84 of the Football Governance Act 2025**
+>
+> **Time limits for appeals**
+>
+> **98B** (1) An appeal to the Tribunal under section 84 of the Football Governance Act 2025 (“the 2025 Act”) in respect of an appealable decision must be made by sending a notice of appeal within the period of 21 days beginning with the relevant day in relation to that decision.
+>
+> (2) For the purposes of paragraph (1), “appealable decision” means—
+>
+> (a) a reviewable decision specified in subsection (3) of section 84 of the 2025 Act, or
+>
+> (b) a decision or deemed decision made by an applicable reviewer in respect of such a reviewable decision under section 83 of that Act.
+>
+> (3) For the purposes of paragraph (1), the relevant day is—
+>
+> (a) in relation to a decision that is an appealable decision by virtue of paragraph (2)(a), the day on which notice is given of the decision under the provision of the 2025 Act concerned;
+>
+> (b) in relation to a decision that is an appealable decision by virtue of paragraph (2)(b), the day on which notice of the decision or deemed decision is given under section 82 or 83 (as the case may be) of the 2025 Act.
+>
+> (4) For the purposes of paragraphs (2)(b) and (3)(b), a deemed decision is a decision that is treated as having been made under section 82(5)(b) or 83(6)(a) of the 2025 Act.
+>
+> (5) The Tribunal may not extend the time limits provided for in this rule unless it is satisfied that the circumstances are exceptional.
+
+(4) Nothing in this paragraph affects the power in section 15 of the Enterprise Act 2002 to revoke or amend the Competition Appeal Tribunal Rules 2015, as those Rules are amended by this paragraph.

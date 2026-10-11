@@ -1,0 +1,6784 @@
+---
+title: "Crossrail Act 2008"
+identifier: "ukpga/2008/18"
+citation: "2008 c. 18"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S+N.I."
+date: 2008-07-22
+last_amended: 2026-04-29
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/2008/18"
+source_modified: 2026-06-05
+retrieved: 2026-10-11
+---
+
+# Crossrail Act 2008
+
+**2008 c. 18**
+
+An Act to make provision for a railway transport system running from Maidenhead, in the County of Berkshire, and Heathrow Airport, in the London Borough of Hillingdon, through central London to Shenfield, in the County of Essex, and Abbey Wood, in the London Borough of Greenwich; and for connected purposes.
+
+[22nd July 2008]
+
+Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## Works
+
+### 1 Construction and maintenance of scheduled works
+
+(1) The nominated undertaker may construct and maintain the works specified in Schedule 1 (“the scheduled works”), being—
+
+(a) works for the construction of an underground railway between, in the west, a tunnel portal at Royal Oak in the City of Westminster and, in the east, tunnel portals at Custom House and Pudding Mill Lane in the London Borough of Newham,
+
+(b) works for the construction of other railways in the London Boroughs of Barking & Dagenham, Bexley, Ealing, Greenwich, Hammersmith and Fulham, Havering, Hillingdon, Newham, Redbridge and Tower Hamlets, the City of Westminster, the Royal Borough of Kensington & Chelsea, the District of Basildon and the Borough of Brentwood in the County of Essex, the Royal Borough of Windsor & Maidenhead and the Borough of Slough in the County of Berkshire and the District of South Bucks in the County of Buckinghamshire,
+
+(c) works consequent on, or incidental to, the construction of the works mentioned in paragraph (a) or (b).
+
+(2) Subject to subsections (3) to (5), the scheduled works shall be constructed—
+
+(a) in the lines or situations shown on the deposited plans,
+
+(b) in accordance with the levels shown on the deposited sections, and
+
+(c) in the case of any station, depot or shaft for which an upper limit is shown on the deposited sections, within the limit so shown.
+
+(3) In constructing or maintaining any of the scheduled works, the nominated undertaker may deviate laterally from the lines or situations shown on the deposited plans to any extent within the limits of deviation for that work so shown.
+
+(4) In constructing or maintaining any of the scheduled works, the nominated undertaker may deviate vertically from the level shown for that work on the deposited sections to any extent downwards.
+
+(5) In constructing or maintaining any of the scheduled works, the nominated undertaker may, subject to subsection (6), deviate vertically from the level shown for that work on the deposited sections to the following extent upwards—
+
+(a) in the case of the following, to any extent not exceeding 6 metres—
+
+(i) so much of Work No. 1/3B as lies between a point 10,200 metres from its commencement and its termination;
+
+(ii) so much of Work No. 1/4B as lies between its commencement and a point 600 metres from its commencement;
+
+(iii) so much of Work No. 2/1B as lies between its commencement and a point 800 metres from its commencement;
+
+(b) in the case of the remainder of the scheduled works, to any extent not exceeding 3 metres.
+
+(6) In the case of any station, depot or shaft for which an upper limit is shown on the deposited sections, the power of deviation under subsection (5) is subject to the limit so shown.
+
+### 2 Works: further and supplementary provisions
+
+Schedule 2 (which contains further and supplementary provisions about works) has effect.
+
+### 3 Highways
+
+Schedule 3 (which makes provision in relation to highways in connection with the works authorised by this Act) has effect.
+
+### 4 Overhead lines
+
+(1) Section 37(1) of the Electricity Act 1989 (c. 29) (which requires the consent of the Secretary of State to overhead lines) shall not apply in relation to any electric line which—
+
+(a) for the purposes of or in connection with the exercise of any of the powers conferred by this Act with respect to works, or
+
+(b) in pursuance of any of the protective provisions included in this Act,
+
+is installed above land within the limits of deviation for the scheduled works or within the limits of land to be acquired or used.
+
+(2) Schedule 4 (which makes alternative provision for consent in relation to lines to which subsection (1) applies) has effect.
+
+(3) On the revocation or expiry of consent under Schedule 4, the line to which the consent relates shall cease to be a line to which subsection (1) applies.
+
+(4) On granting consent under Schedule 4 to electricity undertakers, the appropriate Ministers may direct that planning permission shall be deemed to be granted for the carrying out of development to which the consent relates, and any ancillary development, subject to such conditions (if any) as may be specified in the direction.
+
+(5) In subsection (4)—
+
+(a) “electricity undertakers” means the holder of a licence under section 6 of the Electricity Act 1989 (c. 29), and
+
+(b) the reference to the appropriate Ministers is to [[^F1]the Secretary of State for Energy Security and Net Zero] and the Secretary of State for Transport acting jointly.
+
+## Land
+
+### 5 Temporary possession and use
+
+Schedule 5 (which contains provisions about temporary possession and use of land for the purposes of this Act) has effect.
+
+### 6 Acquisition of land within limits shown on deposited plans
+
+(1) The Secretary of State is authorised by this section to acquire compulsorily—
+
+(a) so much of the land shown on the deposited plans within the limits of deviation for the scheduled works as may be required for or in connection with the works authorised by this Act or otherwise for or in connection with Crossrail, and
+
+(b) so much of the land so shown within the limits of land to be acquired or used as may be so required.
+
+(2) Without prejudice to the generality of subsection (1), the purposes for which land may be acquired under that subsection include, in the case of so much of any land specified in columns (1) and (2) of Part 1 of Schedule 6 as is within the limits of land to be acquired or used, the purpose specified in relation to that land in column (3) of that Part of the Schedule as one for which that land may be acquired or used.
+
+(3) Part 2 of Schedule 6 (application of legislation relating to compulsory purchase) and Part 3 of that Schedule (supplementary provisions) have effect.
+
+(4) The power conferred by subsection (1) shall not be exercisable in relation to land the surface of which is comprised in a highway where the land is specified in the table in paragraph 15(2) of Schedule 3.
+
+(5) The power conferred by subsection (1) shall not be exercisable in relation to land specified in the table in paragraph 1(1) of Schedule 5 unless it is also specified in the table in paragraph 11(1) of Schedule 6.
+
+(6) After the end of the period of 5 years beginning with the day on which this Act is passed—
+
+(a) no notice to treat shall be served under Part 1 of the Compulsory Purchase Act 1965 (c. 56), as applied to the acquisition of land under subsection (1), and
+
+(b) no declaration shall be executed under section 4 of the Compulsory Purchase (Vesting Declarations) Act 1981 (c. 66), as applied by paragraph 4 of Schedule 6.
+
+(7) The Secretary of State may by order extend the period under subsection (6) in relation to any land.
+
+(8) The Secretary of State may only exercise the power in subsection (7) in relation to any land—
+
+(a) once, and
+
+(b) so as to extend the period under subsection (6) by not more than 5 years.
+
+(9) An order under subsection (7) shall be subject to special parliamentary procedure.
+
+### 7 Acquisition of land not subject to the power under section 6(1)
+
+(1) The Secretary of State may acquire compulsorily land outside the limits of deviation for the scheduled works and the limits of land to be acquired or used which is required for or in connection with the works authorised by this Act or otherwise for or in connection with Crossrail.
+
+(2) The Secretary of State may acquire compulsorily land within the limits of deviation for the scheduled works or the limits of land to be acquired or used which—
+
+(a) is required for or in connection with the works authorised by this Act or otherwise for or in connection with Crossrail, and
+
+(b) is not land in relation to which the power conferred by section 6(1) is exercisable.
+
+(3) Subsection (2) shall have effect as if land specified in the table in paragraph 8, 9, 11(1) or 12 of Schedule 6, or in columns (1) and (2) of the table in paragraph 10 of that Schedule, were not land in relation to which the power conferred by section 6(1) is exercisable, but the power conferred by subsection (2) shall not be exercisable—
+
+(a) in the case of land specified in the table in paragraph 8, 9 or 12, in relation to the creation and acquisition of any easement or other right over land in relation to the creation and acquisition of which the power under section 6(1) is exercisable;
+
+(b) in the case of land specified in columns (1) and (2) of the table in paragraph 10, in relation to so much of the land as falls within the description specified in relation to it in column (3) of the table;
+
+(c) in the case of land specified in the table in paragraph 11(1) or 12, in relation to so much of the subsoil or under-surface of the land as lies more than 9 metres beneath the level of the surface of the land.
+
+(4) Without prejudice to the generality of subsections (1) and (2), the land which may be compulsorily acquired under those subsections shall include land which is or will be required—
+
+(a) for use in mitigating the effect on the environment of any of the works authorised by this Act,
+
+(b) for use in relocating apparatus which it is expedient to divert or replace in consequence of the carrying out of any of the works authorised by this Act, or
+
+(c) for the purpose of being given in exchange for land forming part of a common, open space or fuel or field garden allotment which is acquired under section 6(1).
+
+(5) The power of acquiring land compulsorily under subsection (1) or (2) shall include power to acquire an easement or other right over land by the grant of a new right.
+
+(6) The Acquisition of Land Act 1981 (c. 67) shall apply to the compulsory acquisition of land under subsection (1) or (2); and Schedule 3 to that Act shall apply to a compulsory acquisition by virtue of subsection (5).
+
+(7) Part 1 of the Compulsory Purchase Act 1965 (c. 56), and the enactments relating to compensation for the compulsory purchase of land, shall apply to a compulsory acquisition by virtue of subsection (5) above with the modifications mentioned in paragraph 6(2)(a) and (b) of Schedule 6.
+
+(8) In this section—
+
+- “apparatus” includes a sewer, drain or tunnel and any structure for the lodging therein of apparatus or for gaining access to apparatus;
+- “common” includes any land subject to be enclosed under the Inclosure Acts 1845 to 1882, and any town or village green;
+- “fuel or field garden allotment” means any allotment set out as a fuel allotment, or a field garden allotment, under an Inclosure Act;
+- “open space” means any land laid out as a public garden, or used for the purposes of public recreation, or land which is a disused burial ground.
+
+### 8 Extinguishment of private rights of way
+
+(1) This section applies to land within the limits of deviation for the scheduled works or within the limits of land to be acquired or used which is held by the Secretary of State as being required for or in connection with the works authorised by this Act.
+
+(2) All private rights of way over land to which this section applies shall be extinguished—
+
+(a) in the case of land held immediately before the coming into force of this Act, on the coming into force of this Act, and
+
+(b) in the case of land acquired after the coming into force of this Act, at the appropriate time.
+
+(3) Subsection (2) does not apply to—
+
+(a) a right of way over land which, were it held otherwise than by the Secretary of State, would not be capable of being acquired under section 6(1), or
+
+(b) a right of way to which section 271 or 272 of the Town and Country Planning Act 1990 (c. 8) (extinguishment of rights of statutory undertakers etc.) applies.
+
+(4) Subsection (2)(b) does not apply to a right of way that is excepted from the application of that provision by direction of the Secretary of State given before the appropriate time.
+
+(5) Subject to subsection (6), the references in subsections (2)(b) and (4) to the appropriate time are to the time of acquisition.
+
+(6) Where land—
+
+(a) is acquired compulsorily, and
+
+(b) is land in respect of which the power conferred by section 11(1) of the Compulsory Purchase Act 1965 (c. 56) (power of entry following notice to treat) is exercised,
+
+the references to the appropriate time are to the time of entry under that provision.
+
+(7) Any person who suffers loss by the extinguishment of any right of way under this section shall be entitled to be compensated by the nominated undertaker.
+
+(8) Any dispute as to a person's entitlement to compensation under this section, or as to the amount of such compensation, shall be determined under and in accordance with Part 1 of the Land Compensation Act 1961 (c. 33).
+
+### 9 Extinguishment of rights of statutory undertakers etc.
+
+(1) Sections 271 to 273 of the Town and Country Planning Act 1990 (c. 8) (extinguishment of rights of statutory undertakers etc.) shall apply in relation to land held by the Secretary of State as being land which is required for or in connection with the works authorised by this Act as they apply in relation to land acquired or appropriated as mentioned in section 271(1) of that Act.
+
+(2) In the application of sections 271 to 273 of that Act by virtue of subsection (1), references to the acquiring or appropriating authority shall be construed as references to the nominated undertaker.
+
+(3) In their application by virtue of subsection (1), sections 271 and 272 of that Act shall also have effect with the following modifications—
+
+(a) in subsection (2), for the words from “with” to “appropriated” there shall be substituted “ authorised by the Crossrail Act 2008 ”, and
+
+(b) in subsection (5), for the words from “local” to “or undertakers” there shall be substituted “ a person other than a Minister, he ”.
+
+(4) In the Town and Country Planning Act 1990, any reference to, or to any provision of, section 271, 272 or 273 shall include a reference to, or to that provision of, that section as applied by subsection (1).
+
+(5) In their application by virtue of subsection (4), the following provisions of that Act shall have effect with the following modifications—
+
+(a) in section 274(3), for “local authority or statutory undertaker” there shall be substituted “ person ”, and
+
+(b) in sections 274(5), 279(2) to (4) and 280(6), references to the acquiring or appropriating authority shall be construed as references to the nominated undertaker.
+
+## Planning
+
+### 10 Planning: general
+
+(1) Subject to subsection (2), planning permission shall be deemed to be granted under Part 3 of the Town and Country Planning Act 1990 for the carrying out of development authorised by this Act.
+
+(2) In the case of any development authorised by this Act which consists of the carrying out of a work other than a scheduled work, subsection (1) only applies if—
+
+(a) the development is not of a kind in relation to which it is necessary to take environmental information into account before granting planning permission, or
+
+(b) it is development in relation to which information contained in a statement specified for the purposes of this paragraph constituted at the time of the statement's deposit or publication an environmental statement within the meaning of the EIA regulations.
+
+(3) For the purposes of subsection (2)(a), development is of a kind in relation to which it is necessary to take environmental information into account if—
+
+(a) it is of a description mentioned in Schedule 1 to the EIA regulations, or
+
+(b) it is of a description mentioned in column (1) of the table in Schedule 2 to those regulations and likely to have significant effects on the environment by virtue of factors such as its nature, size or location,
+
+and it is not exempt development within the meaning of those regulations.
+
+(4) The following are the statements specified for the purposes of subsection (2)(b)—
+
+(a) the statement deposited in connection with the Crossrail Bill in the Private Bill Office of the House of Commons in February 2005 in pursuance of Standing Order 27A of the Standing Orders of the House of Commons relating to private business (environmental assessment);
+
+(b) the statements containing additional environmental information published in connection with the Crossrail Bill by the Secretary of State, notice of the publication of which was published in the London Gazette on 27th May 2005, 18th January, 9th May, 8th November 2006 and 16th May 2007.
+
+(5) In relation to development excepted by subsection (2) from the planning permission deemed by subsection (1) to be granted, the EIA regulations shall have effect with the omission, in the definition of “Schedule 2 development” in regulation 2(1), of the words from “where” to the end.
+
+(6) Schedule 7 (which makes provision about planning conditions) has effect in relation to development for which planning permission is deemed by subsection (1) to be granted.
+
+(7) Development for which permission is deemed by subsection (1) to be granted shall be treated as not being development of a class for which planning permission is granted by the Town and Country Planning (General Permitted Development) Order 1995 (S.I. 1995/418) (or any order replacing that order).
+
+(8) Planning permission which is deemed by subsection (1) to be granted shall be treated as specific planning permission for the purposes of section 264(3)(a) of the Town and Country Planning Act 1990 (c. 8) (specific planning permission for the development of statutory undertakers' land relevant to whether the land is operational land).
+
+(9) In this Act, “the EIA regulations” means the Town and Country Planning (Environmental Impact Assessment) (England and Wales) Regulations 1999 (S.I. 1999/293) (or any regulations replacing those regulations).
+
+### 11 Permitted development: time limit
+
+(1) It shall be a condition of the planning permission deemed by section 10(1) to be granted, so far as relating to development consisting of the carrying out of a scheduled work, that the development must be begun not later than the end of 10 years beginning with the day on which this Act is passed.
+
+(2) The Secretary of State may, in relation to any development to which the condition imposed by subsection (1) applies, by order extend the period by reference to which the condition operates.
+
+(3) The power conferred by subsection (2) shall be exercisable by statutory instrument which shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(4) Nothing in section 91 of the Town and Country Planning Act 1990 (c. 8) (limit on duration of planning permission) shall apply to the planning permission deemed by section 10(1) to be granted.
+
+### 12 Fees for planning applications
+
+(1) The appropriate Ministers may by regulations make provision about fees for relevant planning applications.
+
+(2) Regulations under subsection (1) may in particular—
+
+(a) make provision for the payment to the authority to which a relevant planning application is made of a fee of a prescribed amount;
+
+(b) make provision for the remission or refunding of a prescribed fee (in whole or part) in prescribed circumstances;
+
+(c) make provision for a prescribed fee to be treated as paid in prescribed circumstances;
+
+(d) make provision about the time for payment of a prescribed fee;
+
+(e) make provision about the consequences of non-payment of a prescribed fee, including provision for the termination of the application concerned or any appeal against its refusal;
+
+(f) make provision for the resolution of disputes.
+
+(3) Regulations under subsection (1) may—
+
+(a) make such supplementary, incidental or consequential provision as the appropriate Ministers think fit, and
+
+(b) make different provision for different cases.
+
+(4) The power to make regulations under subsection (1) shall be exercisable by statutory instrument which shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(5) Nothing in regulations under section 303 of the Town and Country Planning Act 1990 (fees for planning applications) shall apply to a relevant planning application.
+
+(6) In this section—
+
+- “appropriate Ministers” means the Secretary of State for [[^F2]Housing, Communities and Local Government] and the Secretary of State for Transport acting jointly;
+- “prescribed” means prescribed in regulations under subsection (1);
+- “relevant planning application” means a request for approval under the planning permission deemed by section 10(1) to be granted.
+
+### 13 Power to disapply section 10(1)
+
+(1) The Secretary of State may, in relation to any work constructed in exercise of the powers conferred by this Act, by order provide that section 10(1), so far as relating to development consisting of operations for the maintenance or alteration of the work, shall be treated as not applying in relation to operations begun on or after such day as may be specified in the order.
+
+(2) The Town and Country Planning (General Permitted Development) Order 1995 (S.I. 1995/418) (or any order replacing that order) shall have effect in relation to any development excepted from section 10(1) by subsection (1) as if this Act were a local Act.
+
+(3) Orders under subsection (1) may make different provision for different cases.
+
+(4) The power conferred by subsection (1) shall be exercisable by statutory instrument.
+
+(5) A statutory instrument containing an order under subsection (1) shall be laid before Parliament after being made.
+
+### 14 EIA regulations: replacement development
+
+(1) The EIA regulations shall have effect as if the definition of “EIA development” in regulation 2(1) of the regulations included any development not included in paragraph (a) or (b) of the definition which—
+
+(a) consists of the construction of a building in place of a building demolished, or substantially demolished, in exercise of the powers conferred by this Act,
+
+(b) is not development for which planning permission is deemed by section 10(1) to be granted,
+
+(c) is development in relation to which the first or second condition is met, and
+
+(d) is not exempt development within the meaning of those regulations.
+
+(2) The first condition is that the building which the development replaces is specified in the following table.
+
+|  |  |
+|---|---|
+| *Area* | *Building* |
+| City of Westminster | 4-18 (even) Bishops Bridge Road 191-195 (odd) Praed Street 354-358 (even) Oxford Street 1 Marylebone Lane 65 Davies Street 18 and 19 Hanover Square 1a Tenterden Street 3 and 9 Diadem Court 9-12 (odd and even) Great Chapel Street 93 to 96 (odd and even) Dean Street 2 and 3 Fareham Street 91-101 (odd) Oxford Street 1-8 (odd and even) Great Chapel Street 97-102 (odd and even) Dean Street 6 and 7 Fareham Street 1-15 (odd) Oxford Street 157-167 (odd) Charing Cross Rd (including the Astoria Theatre) 1-6 (odd and even) Falconberg Court 135a-155 (odd) Charing Cross Road 12 Sutton Row 12 Goslett Yard |
+| London Borough of Camden | 138-146 (even) Charing Cross Road 2 Fisher Street 2-6 (even) Catton Street and 1 Fisher Street 8 and 10 Southampton Row |
+| London Borough of Islington | 2a-12 (even) Farringdon Road and 48-53 (odd and even) Cowcross Street (Cardinal House) 38-42 (even) Charterhouse Street |
+| City of London | 2-5 Lindsey Street (odd and even) (including Smithfield House) 54-64 (even) Charterhouse Street 8 and 9 Hayne Street 20-23 (odd and even) Long Lane 33-37 (odd and even) Charterhouse Square 91-109 (odd) Moorgate 12-24 (even) Moorfields 11 and 12 Blomfield Street |
+| London Borough of Tower Hamlets | 68-80 (even) Hanbury Street (Britannia House) 80-102 (even) Hanbury Street |
+| London Borough of Greenwich | 12, 14, 15, and 16 Gunnery Terrace |
+
+(3) The second condition is that the development would be likely to have significant effects on the environment by virtue of factors such as its nature, size or location.
+
+(4) In this section, “building” includes any structure.
+
+### 15 Extension of permitted development rights
+
+(1) Article 3(10) of the Town and Country Planning (General Permitted Development) Order 1995 (S.I. 1995/418) (exception from permission in case of development for which environmental assessment required) shall not apply to development—
+
+(a) which falls within a class of development described in Part 15, 16, 17, 24 or 25 of Schedule 2 to that Order as permitted development, and
+
+(b) in relation to which information contained in a statement specified for the purposes of this paragraph constituted at the time of the statement's deposit or publication an environmental statement within the meaning of the EIA regulations.
+
+(2) The following are the statements specified for the purposes of subsection (1)(b)—
+
+(a) the statement deposited in connection with the Crossrail Bill in the Private Bill Office of the House of Commons in February 2005 in pursuance of Standing Order 27A of the Standing Orders of the House of Commons relating to private business (environmental assessment);
+
+(b) the statements containing additional environmental information published in connection with the Crossrail Bill by the Secretary of State, notice of the publication of which was published in the London Gazette on 27th May 2005, 18th January, 9th May, 8th November 2006 and 16th May 2007.
+
+(3) Schedule 8 (which contains supplementary provisions) has effect.
+
+## Heritage
+
+### 16 Disapplication and modification of controls
+
+(1) Schedule 9 (which makes provision for the disapplication or modification, in relation to authorised works, of controls relating to listed buildings, buildings in conservation areas and ancient monuments etc.) has effect.
+
+(2) The Secretary of State may by order make any provision specified in subsection (3) in relation to any work constructed in exercise of the powers conferred by this Act.
+
+(3) The provision referred to in subsection (2) is—
+
+(a) provision that paragraphs 1(1)(a) and 2(1)(a) of Schedule 9 shall not apply in relation to any relevant works;
+
+(b) provision that paragraphs 1(1)(b) to (d) and 2(1)(b) to (d) of that Schedule shall not apply in relation to any proposed relevant works;
+
+(c) provision that paragraph 1(4) of that Schedule shall not apply in relation to any demolition of a building undertaken in connection with any relevant works;
+
+(d) provision that paragraph 3 of that Schedule shall not apply in relation to any relevant works;
+
+(e) provision that paragraph 4(2) of that Schedule shall not apply in relation to any relevant works;
+
+(f) provision that paragraph 4(3) of that Schedule shall not apply in relation to any land used for or in connection with the carrying out of any relevant works;
+
+(g) provision that paragraph 4(8)(a) and (b) of that Schedule shall not apply in relation to any relevant works;
+
+(h) provision that paragraph 4(10) and (11) of that Schedule shall not apply in relation to any operations carried out in exercise of the powers conferred by this Act which are, or are carried out in connection with, relevant works;
+
+(i) provision that paragraph 4(12) of that Schedule shall not apply in relation to any use of a metal detector for the purposes of or in connection with any relevant works;
+
+(j) provision that paragraph 4(13) of that Schedule shall not apply in relation to any removal of objects discovered by any such use;
+
+(k) provision that paragraph 5(1) of that Schedule shall not apply in relation to any land used, or intended for use, for or in connection with the carrying out of any relevant works;
+
+(l) provision that paragraph 5(3) of that Schedule shall not apply in relation to any land on which relevant works are being carried out.
+
+(4) In this section—
+
+- “relevant works” means works which are—
+
+  - (a) carried out in exercise of the powers conferred by this Act for the maintenance or alteration of the work referred to in subsection (2), and
+  - (b) begun on or after the relevant day;
+
+- “relevant day” means such day as may be specified in an order under subsection (2).
+
+(5) Orders under subsection (2) may make different provision for different cases.
+
+(6) The power conferred by subsection (2) shall be exercisable by statutory instrument.
+
+(7) A statutory instrument containing an order under subsection (2) shall be laid before Parliament after being made.
+
+### 17 Rights of entry
+
+Schedule 10 (which makes provision about rights of entry for the Historic Buildings and Monuments Commission for England) has effect.
+
+## Trees
+
+### 18 Power to deal with trees on neighbouring land
+
+(1) Where any tree overhangs land used for the purposes of Crossrail or otherwise for the purposes of works authorised by this Act, the nominated undertaker may by notice to the occupier of the land on which the tree is growing require the tree to be removed, topped or lopped if it is necessary for that to be done—
+
+(a) to enable works authorised by this Act to be maintained, or
+
+(b) for reasons of safety in connection with the operation of Crossrail.
+
+(2) The person to whom a notice under subsection (1) is given may object to the notice by giving the nominated undertaker a counter-notice to that effect before the end of the period of 28 days beginning with the day on which the notice under subsection (1) is given.
+
+(3) If a counter-notice is given under subsection (2), the notice under subsection (1) shall have no effect unless confirmed by an order of the county court.
+
+(4) The nominated undertaker may carry out the works required by a notice under subsection (1) if the notice has been in effect for a continuous period of at least 28 days and has not been complied with.
+
+(5) Where the power conferred by subsection (4) is exercisable, the nominated undertaker may—
+
+(a) enter the land on which the tree concerned is growing, for the purpose of exercising the power in relation to it, and
+
+(b) take with it such vehicles and equipment as are necessary for that purpose.
+
+(6) If the nominated undertaker tops or lops a tree in exercise of the power conferred by subsection (4), it shall do so in a husbandlike manner and in such a way as to cause the minimum of damage to the tree.
+
+(7) On application by a person who—
+
+(a) has incurred expenses in complying with a notice under subsection (1), or
+
+(b) has suffered any loss or damage in consequence of the carrying out of works required by such a notice,
+
+the county court shall order the nominated undertaker to pay him such compensation in respect of the loss, damage or expenses as it thinks fit.
+
+### 19 Disapplication of controls
+
+(1) Neither of the following shall apply to tree works which are authorised for the purposes of this section—
+
+(a) an order under section 198(1) of the Town and Country Planning Act 1990 (c. 8) (tree preservation orders), and
+
+(b) section 211(1) and (5) of that Act (preservation of trees in conservation areas).
+
+(2) Tree works are authorised for the purposes of this section if—
+
+(a) they are required by a notice under section 18(1),
+
+(b) they are carried out, for the purposes of or in connection with the construction of the works authorised by this Act, in relation to a tree growing on land within the relevant limits, or
+
+(c) they are carried out in relation to a tree growing on land used for the purposes of or in connection with Crossrail and are necessary to enable the works authorised by this Act to be maintained or for reasons of safety in connection with the operation of any railway used for the purposes of or in connection with Crossrail.
+
+(3) In this section, references to tree works are to works consisting of the removal, topping or lopping of a tree.
+
+## Noise
+
+### 20 Control of construction sites: appeals
+
+(1) In the Control of Pollution Act 1974 (c. 40), sections 60 (control of noise on construction sites) and 61 (prior consent for work on construction sites) shall have effect, in relation to works carried out in exercise of the powers conferred by this Act, with the following modifications.
+
+(2) In subsection (7) (appeal against failure to give consent or the giving of qualified consent), for “a magistrates' court” there shall be substituted “ the Secretary of State ”.
+
+(3) After that subsection there shall be inserted—
+
+> (7A) If within seven days of the giving of notice of appeal under subsection (7) of this section the appellant and the local authority so agree, the appeal shall, instead of being determined by the Secretary of State, be referred to arbitration.
+
+(4) The Secretary of State for Environment, Food and Rural Affairs and the Secretary of State for Transport acting jointly may, in relation to appeals which are referred to arbitration under subsection (7A) of section 60 or 61 of the Control of Pollution Act 1974 (c. 40), by regulations made by statutory instrument make any such provision as may be made by regulations under section 70 of that Act in relation to appeals under Part 3 of that Act to the Secretary of State.
+
+(5) A statutory instrument containing regulations under subsection (4) shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+### 21 Proceedings in respect of statutory nuisance: defence
+
+(1) Where proceedings are brought under section 82(1) of the Environmental Protection Act 1990 (c. 43) (summary proceedings by person aggrieved by statutory nuisance) in relation to—
+
+(a) a nuisance falling within paragraph (g) of section 79(1) of that Act (noise emitted from premises), or
+
+(b) a nuisance falling within paragraph (ga) of that provision (noise emitted by vehicle, machinery or equipment in a street),
+
+no order shall be made, and no fine may be imposed, under section 82(2) of that Act if the defendant shows that subsection (2) applies.
+
+(2) This subsection applies if—
+
+(a) the nuisance relates to premises or, as the case may be, to a vehicle, machinery or equipment, used by the nominated undertaker for the purposes of or in connection with the exercise of the powers conferred by this Act with respect to works, and
+
+(b) the nuisance is attributable to the carrying out of works which are being carried out in accordance with a notice served under section 60, or a consent given under section 61 or 65, of the Control of Pollution Act 1974.
+
+(3) The following provisions of the Control of Pollution Act 1974—
+
+(a) section 61(9) (consent for work on construction site to include statement that it does not of itself constitute a defence to proceedings under section 82 of the Environmental Protection Act 1990), and
+
+(b) section 65(8) (corresponding provision in relation to consent for registered noise level to be exceeded),
+
+shall not apply where the consent relates to the use of premises or, as the case may be, of a vehicle, machinery or equipment by the nominated undertaker for the purposes of or in connection with the exercise of the powers conferred by this Act with respect to works.
+
+## Railway matters
+
+### 22 Objective of [[^F3]Office of Rail and Road] in relation to Crossrail
+
+(1) The list of objectives in section 4(1) of the Railways Act 1993 (c. 43) (objectives of [[^F3]Office of Rail and Road] and Secretary of State) shall be treated, in relation to [[^F3]the Office of Rail and Road] only, as including the objective of facilitating the construction of Crossrail.
+
+(2) [[^F3]The Office of Rail and Road] shall consult the Secretary of State about the duty under section 4(1) of the Railways Act 1993 (c. 43) (as modified by subsection (1)).
+
+(3) This section shall cease to have effect on such day as the Secretary of State may by order made by statutory instrument specify.
+
+(4) A statutory instrument containing an order under subsection (3) shall be laid before Parliament after being made.
+
+### 23 Duty of [[^F4]Office of Rail and Road] to publish reports
+
+(1) [[^F4]The Office of Rail and Road] shall from time to time publish a report on—
+
+(a) what it has done, or proposes to do, to further the objective given to it under section 22;
+
+(b) how it has exercised or proposes to exercise its functions in connection with the operation of Crossrail passenger services.
+
+(2) [[^F4]The Office of Rail and Road] shall publish a report under subsection (1) if at any time the Secretary of State requires it to do so.
+
+(3) [[^F4]The Office of Rail and Road] shall have regard to a report under this section in the exercise of any of its functions to which that report is relevant.
+
+(4) In this section, “Crossrail passenger service” means a service for the carriage of passengers by railway on a line the whole of which, or part of which, forms part of the railway mentioned in section 1(1)(a).
+
+(5) This section shall cease to have effect on such day as the Secretary of State may by order made by statutory instrument specify.
+
+(6) A statutory instrument containing an order under subsection (5) shall be laid before Parliament after being made.
+
+### 24 Licensing
+
+(1) Section 6(1) of the Railways Act 1993 (which prohibits any person from acting as the operator of a railway asset unless authorised by a licence under section 8 of that Act) shall not apply in relation to—
+
+(a) any network constructed in exercise of the powers conferred by this Act which is not yet ready for commercial use, or
+
+(b) any train being used on any such network.
+
+(2) For the purposes of subsection (1)(a), a network shall be taken to be ready for commercial use only if the Secretary of State has laid before Parliament notice of his determination that it is ready for such use.
+
+(3) Any expression used in this section and Part 1 of the Railways Act 1993 has the same meaning in this section as it has in that Part.
+
+### 25 Award of Crossrail franchises to public-sector operators
+
+(1) Section 25 of the Railways Act 1993 (c. 43) (public-sector operators not to be franchisees) does not apply in relation to the franchisee in respect of a franchise agreement—
+
+(a) which relates wholly or mainly to the provision of one or more Crossrail passenger services, or
+
+(b) which relates wholly or mainly to the provision of one or more other services for the carriage of passengers by railway where—
+
+(i) the services run wholly or partly on the route of Crossrail, and
+
+(ii) the services are likely to be subject to substantial disruption because of the construction of Crossrail.
+
+(2) The following may in particular be taken into account in determining whether, for the purposes of subsection (1)(b), services are likely to be subject to substantial disruption—
+
+(a) the frequency with which the services are likely to be disrupted;
+
+(b) the duration of the period in which the services are likely to be disrupted (and, in particular, its duration relative to the length of the franchise term);
+
+(c) the severity of any likely disruption.
+
+(3) In this section—
+
+- “Crossrail passenger service” has the meaning given by section 23(4);
+- “franchisee”, “franchise agreement” and “franchise term” have the meanings given by section 23 of the Railways Act 1993 (designated passenger services to be provided under franchise agreements).
+
+### 26 Disapplication of franchising and access exemptions
+
+(1) The Secretary of State may by order amend, or revoke provisions of, the Heathrow Express Order—
+
+(a) for the purpose of restricting or ending an exemption granted by a relevant provision,
+
+(b) for the purpose of adding to the conditions subject to which such an exemption is granted, or
+
+(c) for the purpose of making such a condition more onerous.
+
+(2) For the purposes of subsection (1), each of the following is a “relevant provision”—
+
+- article 3(1) of the Heathrow Express Order, and
+- article 4(1) of the Heathrow Express Order.
+
+(3) Where exercise of the power under subsection (1) has effect to end an exemption granted by article 3(1) of the Heathrow Express Order in relation to any track, station or depot, the Secretary of State may by order—
+
+(a) make provision for, or in connection with, treating as void—
+
+(i) every access contract, including one entered into before the making of the order, where the permission concerned is permission to use that facility, or
+
+(ii) a contract such as is mentioned in sub-paragraph (i) if it is specified in the order or is of a description so specified;
+
+(b) provide for exceptions to any provision made under paragraph (a).
+
+(4) The powers—
+
+(a) under subsection (1), so far as relating to an exemption granted by article 3(1) of the Heathrow Express Order, and
+
+(b) under subsection (3)(a),
+
+are exercisable only for the purpose of, or for purposes that include, facilitating Crossrail passenger services.
+
+(5) The powers under subsection (1), so far as relating to an exemption granted by article 4(1) of the Heathrow Express Order, are exercisable only for, or for purposes that include, either or both of the following—
+
+(a) facilitating Crossrail passenger services, and
+
+(b) enabling Crossrail passenger services to be designated under section 23(1) of the Railways Act 1993 (c. 43) (services which ought to be provided under franchise agreements).
+
+(6) The power to make an order under this section shall be exercisable by statutory instrument which shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(7) In this section—
+
+- “the Heathrow Express Order” means the Railways (Heathrow Express) (Exemptions) Order 1994 (S.I. 1994/574), as from time to time amended;
+- “access contract” has the meaning given by section 17(6) of the Railways Act 1993;
+- “Crossrail passenger service” has the meaning given by section 23(4).
+
+### 27 Closures
+
+(1) If the Secretary of State considers that discontinuance falling within any of the closure provisions of the Railways Act 2005 is necessary or expedient because of the operation of Crossrail or the carrying out of any of the works authorised by this Act, he may direct that those provisions shall be treated as not applying to it.
+
+(2) The reference in subsection (1) to the closure provisions of the Railways Act 2005 is to—
+
+- sections 22 to 25 (discontinuance of railway passenger services),
+- sections 26 to 28 (discontinuance of operation of passenger networks),
+- sections 29 to 31 (discontinuance of use or operation of stations), and
+- section 37 (discontinuance of experimental passenger services).
+
+### 28 Key system assets
+
+(1) Section 216(1)(b) of the Greater London Authority Act 1999 (c. 29) (consent of Transport for London required for creation etc. of interests in, or rights over, assets designated as key system assets in connection with certain railway-related public-private partnership agreements) shall not apply in relation to—
+
+(a) the creation of an interest in, or right over, a key system asset, or
+
+(b) an agreement to create an interest in, or right over, a key system asset,
+
+if the interest or right is, or is to be, created in order to facilitate any of the matters mentioned in subsection (2).
+
+(2) Those matters are—
+
+(a) the construction of the railway mentioned in section 1(1)(a);
+
+(b) the maintenance of that railway;
+
+(c) the operation of services for the carriage of passengers or goods by railway on a line the whole of which, or part of which, forms part of that railway.
+
+(3) In this section “key system asset” has the meaning given by section 213(1) of the Greater London Authority Act 1999 (c. 29).
+
+### 29 Power to designate persons as “protected railway companies”
+
+(1) The Secretary of State may, with the consent of a company to which this subsection applies, by order make provision for the company to be treated as a protected railway company for the purposes of Part 1 of the Railways Act 1993 (c. 43).
+
+(2) Subsection (1) applies to a company if—
+
+(a) it is a private sector operator and it has, for the time being, the management of a railway facility that is or is part of, or is associated with, the railway mentioned in section 1(1)(a), or
+
+(b) it is a private sector operator and it owns, or has rights in relation to, such a railway facility.
+
+(3) The power to make an order under subsection (1) shall be exercisable by statutory instrument which shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(4) In this section “private sector operator” and “railway facility” have the same meanings as in Part 1 of the Railways Act 1993.
+
+### 30 Duty to co-operate
+
+(1) Where the nominated undertaker considers that a matter affects—
+
+(a) the construction, maintenance or operation of Crossrail, and
+
+(b) the construction, maintenance or operation of a railway asset which is not a Crossrail asset,
+
+it may by notice in writing require a controller of the asset to enter into an agreement with it about how the matter is to be dealt with.
+
+(2) Where a controller of a railway asset which is not a Crossrail asset considers that a matter affects—
+
+(a) the construction, maintenance or operation of the asset, and
+
+(b) the construction, maintenance or operation of Crossrail,
+
+it may by notice in writing require the nominated undertaker to enter into an agreement with it about how the matter is to be dealt with.
+
+(3) The terms of an agreement under subsection (1) or (2) shall be such as the nominated undertaker and the controller of the asset may agree or, in default of agreement, as may be determined by arbitration.
+
+(4) For the purposes of subsections (1) and (2), a railway asset is a Crossrail asset if—
+
+(a) in the case of a railway asset consisting of any network, station or light maintenance depot, it is comprised in Crossrail, and
+
+(b) in the case of a railway asset consisting of any train being used on a network, the network is comprised in Crossrail.
+
+(5) Subsections (1) and (2) do not apply in relation to—
+
+(a) a matter which pursuant to any enactment must or may be dealt with by [[^F5]the Office of Rail and Road], or
+
+(b) a matter relating to an agreement which pursuant to any provision of that or any other agreement must or may be dealt with by [[^F5]the Office of Rail and Road].
+
+(6) In this section—
+
+- “controller”, in relation to a railway asset, means—
+
+  - (a) the person having the management of the asset for the time being, or
+  - (b) a person who owns, or has rights in relation to, the asset;
+
+- “light maintenance depot”, “network”, “railway asset” and “station” have the same meanings as in Part 1 of the Railways Act 1993 (c. 43).
+
+### 31 Arbitration after referral under section 30(3)
+
+(1) This section applies where a difference is referred under section 30(3) to arbitration.
+
+(2) The parties must notify the Secretary of State of the referral without delay after the commencement of the arbitral proceedings.
+
+(3) The Secretary of State may, on request or otherwise, direct the arbitrator as to results that are to be achieved by the agreement for which terms are to be determined by the arbitration.
+
+(4) A direction under subsection (3) may be made even though the making of the direction affects the outcome of proceedings to which the Secretary of State himself, or a body in which he has an interest, is a party.
+
+(5) A request for a direction under subsection (3) may be made by the arbitrator (as well as by a party).
+
+(6) For the purpose of determining whether or not the arbitrator has to comply with a direction under subsection (3), the rule is that he must comply with the direction in determining terms of the agreement if the direction—
+
+(a) is relevant to the determination of those terms, and
+
+(b) is given to him before he has made his award determining those terms.
+
+(7) For the purpose of determining what the arbitrator has to do to comply with a direction under subsection (3) with which he has to comply, the rule is that he must carry out his function of determining terms of the agreement so as to secure, so far as is reasonably practicable, that the results concerned are achieved by the agreement.
+
+### 32 Arbitration under section 30(3): multiple proceedings
+
+(1) The Secretary of State may, on request or otherwise, direct—
+
+(a) that a group of proceedings is to be consolidated, or
+
+(b) that concurrent hearings are to be held in a group of proceedings.
+
+(2) In subsection (1) “group of proceedings” means a group consisting of—
+
+(a) section 30(3) proceedings, and
+
+(b) any one or more of the following—
+
+(i) other section 30(3) proceedings,
+
+(ii) arbitral proceedings related to the proceedings mentioned in paragraph (a), and
+
+(iii) arbitral proceedings related to section 30(3) proceedings that are to be consolidated with the proceedings mentioned in paragraph (a).
+
+(3) A request for a direction under subsection (1) may be made by the arbitrator or any of the arbitrators (as well as by a party).
+
+(4) A direction under subsection (1) shall specify the terms on which the proceedings are to be consolidated or on which concurrent hearings are to be held.
+
+(5) Where a direction under subsection (1) provides for the consolidation of proceedings that do not all have the same arbitrator, the terms that may be specified in the direction include (in particular)—
+
+(a) terms specifying the person who is to be the arbitrator in the consolidated proceedings;
+
+(b) terms under which that person is to be determined.
+
+(6) For the purposes of this section—
+
+(a) “section 30(3) proceedings” means proceedings on arbitration of a difference referred under section 30(3), and
+
+(b) arbitral proceedings are “related” to section 30(3) proceedings if—
+
+(i) the arbitral proceedings are not section 30(3) proceedings,
+
+(ii) at least one of the parties to the arbitral proceedings is also a party to the section 30(3) proceedings, and
+
+(iii) the Secretary of State considers that the subject-matter of the arbitral proceedings is connected with the subject-matter of the section 30(3) proceedings.
+
+### 33 Transfer of functions relating to works
+
+(1) If the Secretary of State acquires any land for the purposes of this Act from a railway operator and there are situated on the land works authorised by statute, he may by order provide for the transfer to himself, or to a person specified under section 39, of any statutory power or duty relating to the works previously exercisable by the railway operator.
+
+(2) The Secretary of State may by order provide for the further transfer to himself, or to a person specified under section 39, of a power or duty transferred under subsection (1) or this subsection.
+
+(3) If a railway operator acquires from the Secretary of State any land on which there are situated works authorised by this Act, the Secretary of State may, with the consent of the railway operator, by order provide for the transfer to the railway operator of any duty under this Act relating to the works.
+
+(4) An order under this section may contain such supplementary, incidental, consequential or transitional provision as the Secretary of State considers necessary or expedient in connection with the order.
+
+(5) In subsections (1) and (3), references to a railway operator are to a person who has the management for the time being of any network, station or light maintenance depot.
+
+(6) In this section, “light maintenance depot”, “network” and “station” have the same meanings as in Part 1 of the Railways Act 1993 (c. 43).
+
+### 34 Application of section 122 of the Railways Act 1993
+
+For the purposes of section 122 of the Railways Act 1993 (under which availability of the defence of statutory authority depends on the operator of a railway asset being the holder of a licence under section 8 of that Act or having the benefit of a licence exemption) a person who has the benefit of exemption under section 24(1) shall be treated as having the benefit of an exemption granted under section 7 of that Act.
+
+### 35 Application of other railway legislation
+
+Schedule 11 (application of railway legislation) has effect.
+
+## Transfers
+
+### 36 Transfer schemes
+
+Schedule 12 (power of Secretary of State to make schemes to transfer property, rights and liabilities from Cross London Rail Links Limited, the Greater London Authority [^F6]... or Transport for London, their wholly-owned subsidiaries, the Secretary of State or companies wholly owned by the Secretary of State) has effect.
+
+### 37 Transfer schemes: tax provisions
+
+Schedule 13 (tax provisions relating to transfer schemes) has effect.
+
+### 38 Application of Greater London Authority Act 1999
+
+(1) This section applies where—
+
+(a) Transport for London or a subsidiary of Transport for London enters into an agreement or arrangements with the Secretary of State (alone or with other persons), and
+
+(b) for purposes connected with Crossrail, provision is made in the agreement or arrangements for the transfer of any property, rights or liabilities of Transport for London or a subsidiary of Transport for London to the Secretary of State or a company which is wholly owned by the Secretary of State.
+
+(2) Sections 154(3) and 155(1) of the 1999 Act shall not prevent or restrict, or authorise the prevention or restriction of, the discharge by Transport for London, or any subsidiary of Transport for London, of its functions in accordance with the provision referred to in subsection (1)(b).
+
+(3) Consent is not required—
+
+(a) under subsection (1) of section 163 of the 1999 Act for any disposal of a freehold interest in land, or grant of a leasehold interest in land, which is made in accordance with the provision referred to in subsection (1)(b), or
+
+(b) under subsection (2) of that section for any transaction so made.
+
+(4) In subsection (1)(b)—
+
+(a) the reference to the transfer of any property includes the creation of an interest in, or right in relation to, the property, and
+
+(b) the reference to a company wholly owned by the Secretary of State is to be construed in accordance with the provision made by paragraph 3(2) of Schedule 12.
+
+(5) In this section—
+
+- “the 1999 Act” means the Greater London Authority Act 1999 (c. 29);
+- “subsidiary” has the same meaning as in that Act.
+
+## Nominated undertaker
+
+### 39 Holder of functions of nominated undertaker
+
+(1) The Secretary of State may by order—
+
+(a) provide that a person specified in the order shall be the nominated undertaker for such purposes of such provisions of this Act as may be so specified;
+
+(b) provide, in relation to any provision under paragraph (a), that the provision shall cease to have effect in such circumstances as may be specified in the order.
+
+(2) Where, in the case of any provision of this Act which refers to the nominated undertaker, there is any purpose of the provision for which there is no one who is the nominated undertaker under subsection (1), any reference in the provision to the nominated undertaker shall be construed, in relation to that purpose, as a reference to the Secretary of State.
+
+(3) The Secretary of State may fetter the exercise of his discretion under subsection (1) by agreement with—
+
+(a) the Mayor of London, or
+
+(b) a person who is, or is proposed to be, specified in an order under that subsection.
+
+(4) Before exercising the power under subsection (1) or (3)(b), the Secretary of State shall consult the Mayor of London.
+
+(5) Subsection (4) does not apply to exercise of the power under subsection (1) in accordance with an agreement under subsection (3).
+
+(6) The Secretary of State may by order make such modifications of any provision of this Act referring to the Secretary of State, so far as applying for a purpose in relation to which subsection (2) has effect, as appear to him to be necessary or expedient in consequence of his having functions by virtue of that subsection.
+
+(7) An order under this section may contain such supplementary, incidental, consequential or transitional provision as the Secretary of State considers necessary or expedient in connection with the order.
+
+(8) The power to make an order under this section shall be exercisable by statutory instrument.
+
+(9) A statutory instrument containing an order under subsection (6) shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+## Miscellaneous
+
+### 40 Disapplication and modification of miscellaneous controls
+
+Schedule 14 (which makes provision for the disapplication and modification of miscellaneous statutory and other controls in relation to things done under this Act and otherwise for the purposes of this Act) has effect.
+
+### 41 Burial grounds
+
+(1) Nothing in any enactment relating to burial grounds and no obligation or restriction imposed under ecclesiastical law or otherwise shall have effect to prohibit, restrict or impose any condition on the use of any land comprised in a burial ground for the purpose of constructing any of the works authorised by this Act.
+
+(2) Subsection (1) shall not apply in relation to land in which human remains are interred unless—
+
+(a) the remains have been removed and reinterred or cremated in accordance with the provisions of Schedule 15, and
+
+(b) any monument to the deceased has been dealt with in accordance with those provisions.
+
+(3) Subsection (2) shall not apply where the use of the land for the purpose mentioned in subsection (1) does not involve disturbing the human remains which are interred in it.
+
+(4) In this section (and Schedule 15)—
+
+(a) “enactment” includes an enactment in any local or private Act of Parliament, and an order, rule, regulation, byelaw or scheme made under an Act of Parliament;
+
+(b) “monument” includes a tombstone or other memorial;
+
+(c) references to a monument to any person are to a monument commemorating that person, whether or not also commemorating any other person.
+
+### 42 Application of landlord and tenant law
+
+(1) No enactment or rule of law regulating the rights and obligations of landlords and tenants shall apply, in relation to the rights and obligations of the parties to a lease granted by the Secretary of State in pursuance of a development agreement—
+
+(a) so as to exclude or in any respect modify any of the rights and obligations of those parties under the terms of the lease, whether with respect to the termination of the tenancy or any other matter,
+
+(b) so as to confer or impose on either party any right or obligation arising out of or connected with anything done or omitted on or in relation to land which is the subject of the lease, in addition to any such right or obligation provided for by the terms of the lease, or
+
+(c) so as to restrict the enforcement (whether by action for damages or otherwise) by either party to the lease of any obligation of the other party under the lease.
+
+(2) In subsection (1), references to a lease granted by the Secretary of State in pursuance of a development agreement include any provisions of a development agreement providing for the grant of a lease of any land by the Secretary of State.
+
+(3) In this section, “development agreement” means an agreement to which the Secretary of State is a party and under which another party has responsibilities in relation to the design, construction, financing or maintenance of Crossrail.
+
+### 43 Disposal of Crown land
+
+(1) The Secretary of State may grant—
+
+(a) a lease of land to which subsection (2) applies, or
+
+(b) an easement or other right over such land,
+
+for such period, for such consideration (if any) and otherwise on such terms as the Secretary of State thinks fit.
+
+(2) This subsection applies to land within the limits of deviation for the scheduled works or within the limits of land to be acquired or used which—
+
+(a) is subject to management under section 22 of the Crown Lands Act 1851 (c. 42) (which relates to the management of royal parks etc.), and
+
+(b) appears to the Secretary of State to be required for or in connection with the works authorised by this Act or otherwise for or in connection with Crossrail.
+
+(3) Section 3(1) and (2) of the Crown Estate Act 1961 (c. 55) (limitations on Crown Estate Commissioners' powers of disposal in relation to land under their management) shall not apply in relation to land within the limits of deviation for the scheduled works or within the limits of land to be acquired or used which appears to the Crown Estate Commissioners to be required for or in connection with the works authorised by this Act or otherwise for or in connection with Crossrail.
+
+### 44 Prohibitions or restrictions on land use imposed for Crossrail purposes
+
+(1) This section applies where—
+
+(a) a prohibition of or restriction on the use of land is imposed by a covenant or agreement between a person interested in the land (“the promisor”) and the Secretary of State, and
+
+(b) the covenant or agreement is made for purposes connected with Crossrail.
+
+(2) The Secretary of State may enforce the prohibition or restriction against persons deriving title from or under the promisor in respect of land to which it relates as if—
+
+(a) the Secretary of State were possessed of adjacent land, and
+
+(b) the covenant or agreement had been expressed to be made for the benefit of such land.
+
+(3) Section 2(c) of the Local Land Charges Act 1975 (c. 76) (under which a prohibition or restriction enforceable by a Minister of the Crown under a covenant or agreement is not a local land charge if binding on successive owners because made for the benefit of land of the Minister) shall not apply to the prohibition or restriction.
+
+### 45 Compensation for injurious affection
+
+Section 10(1) of the Compulsory Purchase Act 1965 (c. 56) (compensation for injurious affection) shall have effect, in relation to land injuriously affected by the execution of works under this Act, with the substitution for “acquiring authority have” of “nominated undertaker has”.
+
+### 46 Compensation for water abstraction
+
+(1) Section 48A(1) of the Water Resources Act 1991 (c. 57) (duty not to cause loss or damage to another by the abstraction of water) shall not apply in relation to the abstraction of water in connection with the exercise of the powers conferred by this Act.
+
+(2) Where—
+
+(a) the nominated undertaker causes loss or damage to another person by the abstraction of water in connection with the exercise of the powers conferred by this Act, and
+
+(b) the circumstances are such that causing the loss or damage would have constituted breach of the duty under section 48A(1) of the Water Resources Act 1991, but for subsection (1),
+
+it shall compensate the other person for the loss or damage.
+
+(3) Compensation under subsection (2) shall be assessed on the same basis as damages for breach of the duty under section 48A(1) of the Water Resources Act 1991.
+
+(4) Section 48A(5) of the Water Resources Act 1991 (prohibition of claims in respect of loss or damage caused by abstraction of water which are not claims under that section) has no application to claims under this section or Part 3 of Schedule 17.
+
+(5) In this section, “abstraction” has the same meaning as in the Water Resources Act 1991.
+
+### 47 Temporary possession agreements
+
+(1) This section applies where the Secretary of State and an owner of land subject to the power under section 6(1) enter into an agreement which provides for the owner's interest in the land to be subject to paragraph 1 of Schedule 5.
+
+(2) This Act shall have effect as if the table in paragraph 1(1) of Schedule 5 contained an entry in which—
+
+(a) column (1) specified such works as the agreement may provide or, in the absence of such provision, any of the works authorised by this Act,
+
+(b) columns (2) and (3) specified the land to which the agreement relates, and
+
+(c) column (4) specified such purpose as the agreement may provide or, in the absence of such provision, any purpose connected with the works authorised by this Act or otherwise connected with Crossrail.
+
+(3) In their application by virtue of subsection (2), paragraphs 1(1)(b) and (3) to (7) and 2 of Schedule 5, so far as relating to the owner's interest in the land, shall have effect with such modifications as the agreement may provide.
+
+(4) In its application by virtue of subsection (2), paragraph 1 of Schedule 5 shall have effect as if for sub-paragraph (2) there were substituted—
+
+> (2) Not less than 3 months before entering upon and taking possession of land under this paragraph, the nominated undertaker shall give notice to the owners and occupiers of the land—
+>
+> (a) of its intention to do so, and
+>
+> (b) stating that section 47 applies and explaining its effect.
+
+(5) Subsection (4) shall not apply where the land which it is proposed to enter upon and take possession of is occupied by virtue of the interest which is the subject of the agreement.
+
+(6) Where the power under paragraph 1(1)(a) of Schedule 5 is exercised in relation to land to which the agreement relates, this Act shall have effect in relation to interests in the land which are not the subject of an agreement by virtue of which this section applies as if—
+
+(a) section 6(5) and (6)(a), paragraphs 1(4) and (5), 2 and 5(3) and (4) of Schedule 5 and paragraph 3(3) of Schedule 6 had not been enacted,
+
+(b) notice to treat had been given under section 5 of the Compulsory Purchase Act 1965 (c. 56), and notice of entry had been given under section 11(1) of that Act, in respect of the land on the day on which notice was given of intention to exercise the power under paragraph 1(1)(a) of Schedule 5 in relation to it, and
+
+(c) possession of the land had been taken under section 11(1) of the Compulsory Purchase Act 1965 on the day on which the power under paragraph 1(1)(a) of Schedule 5 was exercised in relation to it.
+
+(7) The agreement may be amended or revoked by an agreement between the Secretary of State and the owner of the interest to which the agreement relates.
+
+(8) Where the agreement is amended under subsection (7), subsections (2), (3) and (5) to (7) shall have effect as if references to the agreement were references to the agreement as amended.
+
+(9) Where the agreement is revoked under subsection (7), this section shall cease to apply by virtue of the agreement.
+
+(10) The agreement, and any variation of it under subsection (7), shall be a local land charge.
+
+(11) An agreement which—
+
+(a) has been entered into before the day on which this Act is passed, and
+
+(b) is in force immediately before that day,
+
+shall be treated for the purposes of this section as having been entered into on that day.
+
+(12) In this section “owner”, in relation to any land, includes a person holding or entitled to the rents and profits of the land under a lease or agreement the unexpired term of which does not exceed 3 years.
+
+### 48 Application of Act to extensions
+
+[[^F7](A1) Development consent under the Planning Act 2008 is not required for—
+
+(a) an extension of Crossrail, or
+
+(b) the provision, otherwise than as part of an extension of Crossrail, of a railway facility for use for the purposes of or in connection with Crossrail.]
+
+(1) Subsection (2) applies to an order under section 1 of the Transport and Works Act 1992 (c. 42) (orders as to railways etc.) which relates to [[^F8]a matter mentioned in subsection (A1)(a) or (b).]
+
+(2) An order to which this subsection applies may apply any provision of this Act, with any modifications, in relation to anything authorised by the order, so far as relating to a matter mentioned in subsection [[^F9](A1)](a) or (b).
+
+(3) An order under section 1 of the Transport and Works Act 1992 which relates to an extension of Crossrail may also provide for any provision of this Act to have effect as if Crossrail included the extension.
+
+(4) The following provisions are excepted from the power conferred by subsection (2)—
+
+- section 6(7) and (8),
+- paragraphs 18 and 19 of Schedule 6,
+- Schedule 9, and
+- Schedule 10.
+
+(5) In subsection [[^F10](A1)](b), “railway facility” has the same meaning as in Part 1 of the Railways Act 1993 (c. 43).
+
+### 49 Reinstatement of discontinued facilities
+
+Schedule 16 (which authorises the reinstatement of discontinued facilities and makes provision with respect to planning conditions) has effect.
+
+### 50 Protection of interests
+
+Schedule 17 has effect for protecting the interests of the bodies and persons specified in that Schedule (being bodies and persons who may be affected by other provisions of this Act).
+
+### 51 Power to devolve functions of Secretary of State
+
+(1) The Secretary of State may by order provide for a reference in a qualifying provision of this Act to the Secretary of State to have effect as a reference—
+
+(a) to the Greater London Authority,
+
+(b) to Transport for London, or
+
+(c) to the Greater London Authority and Transport for London.
+
+(2) The Secretary of State may fetter the exercise of his discretion under subsection (1) by agreement with the Mayor of London or Transport for London.
+
+(3) An order under subsection (1) may—
+
+(a) make provision applying for all purposes or for one or more particular purposes;
+
+(b) contain such supplementary, incidental, consequential or transitional provision as the Secretary of State considers necessary or expedient in connection with the order.
+
+(4) The provision which may be made by virtue of subsection (3)(b) includes provision modifying any provision of this Act.
+
+(5) The power to make an order under subsection (1) shall be exercisable by statutory instrument.
+
+(6) A statutory instrument containing an order under subsection (1) shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(7) The following provisions of this Act are qualifying provisions for the purposes of subsection (1)—
+
+- sections 6(1), 7(1) and (2), 8(1), (3) and (4), 9(1), 33(1) to (4), 39(1) to (4) and (7), 42, 44, 47(1) and (7) and 52(1) and (4);
+- paragraphs 1(2)(d) and 3(1), (4) and (5) of Schedule 3;
+- paragraphs 13(1), 14(2), (4) and (5), 16 and 18(2) to (4) of Schedule 6;
+- paragraphs 4(1), 7(3), 8(1), 12(2) and 17(2) of Schedule 14;
+- paragraphs 1(1), 3(2) to (4), 4(1), 6(1) and 7(1) and (3) of Part 2 of Schedule 17;
+- paragraphs 1(1) and 2 of Part 5 of Schedule 17.
+
+### 52 Correction of deposited plans
+
+(1) If the deposited plans or the book of reference to those plans are inaccurate in their description of any land, or in their statement or description of the ownership or occupation of any land, the Secretary of State, after giving not less than 10 days' notice to the owners and occupiers of the land in question, may apply to two justices having jurisdiction in the place where the land is situated for the correction of the plans or book of reference.
+
+(2) If on such application it appears to the justices that the misstatement or wrong description arose from mistake or inadvertence, the justices shall certify accordingly and shall in their certificate state in what respect a matter is misstated or wrongly described.
+
+(3) A certificate under subsection (2) shall be deposited in the office of the Clerk of the Parliaments and a copy of it shall be deposited—
+
+(a) in the Private Bill Office of the House of Commons, and
+
+(b) with the proper officer of each local authority in whose area the land to which the certificate relates is situated.
+
+(4) Upon deposit of a certificate in accordance with subsection (3), the deposited plans or the book of reference shall be deemed to be corrected according to the certificate and it shall be lawful for the Secretary of State, in accordance with the certificate, to proceed under this Act as if the deposited plans or book of reference had always been in the corrected form.
+
+(5) A copy certificate deposited under subsection (3) shall be kept with the documents to which it relates.
+
+(6) A justice of the peace may act under this section in relation to land which is partly in one area and partly in another if he may act in respect of land in either area.
+
+(7) In this section—
+
+- “book of reference” means the book deposited in connection with the Crossrail Bill in the office of the Clerk of the Parliaments and the Private Bill Office of the House of Commons in February 2005, together with the books so deposited on 18th January, 9th May, 7th November 2006 and 16th May 2007;
+
+- “local authority” means—
+
+  - (a) in relation to land situated in the area of a unitary authority, that authority, and
+  - (b) in relation to land not situated in the area of a unitary authority, the county council for the area.
+
+### 53 Service of documents
+
+(1) Any document required or authorised to be served on any person under this Act may be served—
+
+(a) by delivering it to him or by leaving it at his proper address or by sending it by post to him at that address,
+
+(b) if the person is a body corporate, by serving it in accordance with paragraph (a) on the secretary of that body, or
+
+(c) if the person is a partnership, by serving it in accordance with paragraph (a) on a partner or a person having control or management of the partnership business.
+
+(2) For the purposes of this section and section 7 of the Interpretation Act 1978 (c. 30) (which relates to the service of documents by post) in its application to this section, the proper address of any person on whom a document is to be served shall be his last known address, except that—
+
+(a) in the case of service on a body corporate or its secretary, it shall be the address of the registered or principal office of the body;
+
+(b) in the case of service on a partnership or a partner or a person having control or management of a partnership business, it shall be the address of the principal office of the partnership.
+
+(3) For the purposes of subsection (2), the principal office of a company registered outside the United Kingdom, or of a partnership carrying on business outside the United Kingdom, is its principal office within the United Kingdom.
+
+(4) If a person to be served under this Act with any document by another has specified to that other an address within the United Kingdom other than his proper address (as determined under subsection (2)) as the one at which he, or someone on his behalf, will accept documents of the same description as that document, that address shall also be treated as his proper address for the purposes of this section and for the purposes of section 7 of the Interpretation Act 1978 in its application to this section.
+
+(5) Where a document is required or authorised to be served under this Act on a person in his capacity as the owner of an interest in, or occupier of, any land and his name or address cannot be ascertained after reasonable enquiry, the document may be served by addressing it to him by name or by the description of “owner” or “occupier”, as the case may be, of the land and—
+
+(a) leaving it with a person who is, or appears to be, resident or employed on the land, or
+
+(b) leaving it conspicuously affixed to some building or object on or near the land.
+
+(6) In this section, “secretary”, in relation to a local authority within the meaning of the Local Government Act 1972 (c. 70), means the proper officer within the meaning of that Act.
+
+### 54 Arbitration
+
+(1) Where under this Act any difference is to be referred to arbitration, the difference shall be referred to, and settled by, a single arbitrator to be agreed between the parties or, in default of agreement, to be appointed on the application of either party, after notice in writing to the other, by the President of the Institution of Civil Engineers.
+
+(2) Subsection (3) applies where—
+
+(a) a party has under subsection (1) applied for the arbitrator to be appointed by the President of the Institution of Civil Engineers, and
+
+(b) the President notifies either of the parties that he is not going to appoint an arbitrator under subsection (1).
+
+(3) In default of agreement between the parties as to who in the circumstances should be the arbitrator, the arbitrator is to be appointed on the application of either party, after notice in writing to the other, by [[^F11]the Office of Rail and Road].
+
+(4) [[^F11]The Office of Rail and Road] may under subsection (3) appoint as the arbitrator a member or employee of that Office.
+
+(5) The Secretary of State for [[^F12]Housing, Communities and Local Government] and the Secretary of State for Transport acting jointly may by rules made by statutory instrument make provision about procedure in relation to arbitration under this Act.
+
+(6) A statutory instrument containing rules under subsection (5) shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+## Final
+
+### 55 “Deposited plans”, “deposited sections”
+
+(1) In this Act, “deposited plans” and “deposited sections” mean, respectively, the plans and sections deposited in connection with the Crossrail Bill in the office of the Clerk of the Parliaments and the Private Bill Office of the House of Commons.
+
+(2) The plans and sections referred to in subsection (1) are—
+
+(a) those deposited in February 2005, as altered by replacement Sheets Nos. 11, 17, 23, 43, 44, 113, 114, 152, 158, 180, 181 and 193 deposited in January 2006, replacement Sheets Nos. 4, 26, 33, 46, 48, 102, 155, 156, 180 and 206 deposited in May 2006, replacement Sheets Nos. 1 to 6, 9, 10, 13, 17, 21, 22, 25, 32, 47, 59 to 62, 70, 86, 112, 121, 128 to 130 and 162 to 164 deposited in November 2006, replacement Sheets Nos. 30 to 37 and 169 to 174 deposited in May 2007 and consolidated replacement Sheets Nos. 14, 15, 155 and 156 deposited in July 2007,
+
+(b) Sheet No. 244 deposited in January 2006,
+
+(c) Sheets Nos. 25a, 246 to 257 and 259 to 275 deposited in November 2006, and
+
+(d) consolidated replacement Sheet No. 245 deposited in July 2007.
+
+### 56 Interpretation
+
+(1) In this Act—
+
+- “bridleway”, “carriageway”, “footpath”, “footway”, “highway”, “highway authority” and “local highway authority” have the same meanings as in the Highways Act 1980 (c. 66);
+
+- “burial ground” means a churchyard, cemetery or other ground, whether consecrated or not, which has at any time been set apart for the purposes of interment;
+
+- “development” has the same meaning as in the Town and Country Planning Act 1990 (c. 8);
+
+- “the EIA regulations” has the meaning given by section 10(9);
+
+- “limits of deviation” means the limits of deviation which are shown on the deposited plans;
+
+- “limits of land to be acquired or used” means the limits of land to be acquired or used which are shown on the deposited plans;
+
+- “owner” has the same meaning as in the Acquisition of Land Act 1981 (c. 67);
+
+- “scheduled works” has the meaning given by section 1(1);
+
+- “unitary authority” means—
+
+  - (a) the council of any county so far as it is the council for an area for which there are no district councils;
+  - (b) the council of any district comprised in an area for which there is no county council;
+  - (c) the council of a London borough;
+  - (d) the Common Council of the City of London.
+
+(2) References in this Act to Crossrail are to a railway transport system running from Maidenhead, in the County of Berkshire, and Heathrow Airport, in the London Borough of Hillingdon, through central London to Shenfield, in the County of Essex, and Abbey Wood, in the London Borough of Greenwich.
+
+(3) References in this Act to land within the relevant limits are to land within the limits of deviation for the scheduled works or within the limits of land to be acquired or used.
+
+(4) References in this Act to the nominated undertaker shall be construed in accordance with section 39.
+
+(5) In this Act—
+
+(a) a reference to a highway or any other place identified by letters and numbers is a reference to the highway or place shown as such on the deposited plans;
+
+(b) a reference to a work identified by numbers (or numbers and a letter) is a reference to the scheduled work of those numbers (or those numbers and letter);
+
+(c) any reference in any description of works, powers or land to area, distance, length or direction, or to a particular location, shall be construed as if qualified by the words “or thereabouts”;
+
+(d) reference to distance, in relation to points on a road or railway, is to distance measured along the centre line of the road or railway.
+
+(6) For the purposes of this Act, the level of the surface of land shall be taken—
+
+(a) in the case of land on which a building is erected, to be the level of the surface of the ground adjoining the building, and
+
+(b) in the case of a watercourse or other area of water, to be the level of the surface of the adjoining ground which is at all times above water level.
+
+### 57 Financial provisions
+
+There shall be paid out of money provided by Parliament—
+
+(a) any expenditure incurred by the Secretary of State in consequence of this Act, and
+
+(b) any increase attributable to this Act in the sums payable out of money so provided under any other enactment.
+
+### 58 Short title
+
+This Act may be cited as the Crossrail Act 2008.
+
+## SCHEDULE 1 — Scheduled works
+
+*Section 1*
+
+*Description of works*
+
+The works which the nominated undertaker is authorised by section 1 to make and maintain are the following–
+
+In the City of Westminster, London Boroughs of Camden, Islington and Tower Hamlets and City of London–
+
+- Work No. 1/3A– A railway (10,809 metres in length, in tunnel) commencing by a junction with Work No. 1/8D at a point 42 metres west of the western face of Lord's Hill Bridge over the Reading Railway, passing eastwards and terminating beneath a point 140 metres west of the junction of Stepney Green with White Horse Lane;
+- Work No. 1/3B– A railway (10,942 metres in length, in tunnel) commencing by a junction with Work No. 1/8E at a point 42 metres west of the western face of Lord's Hill Bridge over the Reading Railway, passing eastwards and terminating beneath a point 135 metres south-west of the junction of Stepney Green with White Horse Lane;
+- Works Nos. 1/3A and 1/3B include stations at Paddington, Bond Street, Tottenham Court Road, Farringdon, Liverpool Street and Whitechapel, shafts between Ranelagh Bridge and Westbourne Bridge, at North Carriage Drive in Hyde Park, and at Park Lane, Fisher Street, Hanbury Street and Stepney Green;
+
+In the London Boroughs of Tower Hamlets and Newham–
+
+- Work No. 1/4A– A railway (5,378 metres in length, in tunnel) commencing by a junction with Work No. 1/3A at its termination, passing south-eastwards and terminating at a point 75 metres south-east of the junction of Bridgeland Road with Victoria Dock Road;
+- Work No. 1/4B– A railway (5,337 metres in length, in tunnel) commencing by a junction with Work No. 1/3B at its termination, passing south-eastwards and terminating at a point 80 metres south-east of the junction of Bridgeland Road with Victoria Dock Road;
+- Works Nos. 1/4A and 1/4B include shafts at Stepney Green, Lowell Street, Hertsmere Road, Blackwall Way and Limmo and a station at Isle of Dogs;
+
+In the London Borough of Newham–
+
+Work No. 1/5– A railway (2,752 metres in length) commencing by a junction with Works Nos. 1/4A and 1/4B at their termination, continuing eastwards and through the existing Connaught Tunnel and terminating at a point 50 metres south-east of the junction of Winifred Street with Albert Road. Work No. 1/5 includes a station at Custom House (being a reconfiguration of the existing North London Line Custom House Station) and alteration of the Connaught Tunnel comprising lowering of the track base within the tunnel;
+
+In the London Boroughs of Newham and Greenwich–
+
+- Work No. 1/6A– A railway (3,579 metres in length, in tunnel) commencing by a junction with Work No. 1/5 at its termination, continuing south-eastwards beneath the River Thames, continuing eastwards and terminating at a point 157 metres north-west of the junction of Marmadon Road with Church Manor Way;
+- Work No. 1/6B– A railway (3,586 metres in length, in tunnel) commencing by a junction with Work No. 1/5 at its termination, continuing south-eastwards beneath the River Thames, continuing eastwards and terminating at a point 156 metres north-west of the junction of Marmadon Road with Church Manor Way;
+- Works Nos. 1/6A and 1/6B include shafts at Warren Lane, Arsenal Way and Plumstead;
+
+In the London Borough of Greenwich—
+
+Work No. 1/6C– A box to accommodate a station at Woolwich situated in The Royal Arsenal north of Plumstead Road;
+
+In the London Boroughs of Greenwich and Bexley–
+
+Work No. 1/7– A railway (2,590 metres in length) commencing by a junction with Works Nos. 1/6A and 1/6B at their termination, continuing eastwards and terminating at a point 143 metres north-west of the junction of Abbey Road with Tunstock Way. Work No. 1/7 includes the reconstruction of Abbey Wood Station;
+
+In the City of Westminster and Royal Borough of Kensington & Chelsea–
+
+- Work No. 1/8B– A railway (1,487 metres in length) forming sidings for construction purposes, commencing by a junction with the Marcon Sidings of the Reading Railway at a point 90 metres south-west of the junction of Great Western Road with Elkstone Road, passing eastwards and terminating at a point 135 metres north-east of the junction of Westbourne Terrace with Orsett Terrace;
+- Work No. 1/8C– A railway (1,086 metres in length) forming sidings within Paddington New Yard, commencing by a junction with the Reading Railway at a point 105 metres north-east of the junction of Morgan Road with St. Ervans Road, passing eastwards and terminating at a point 20 metres west of the western face of Lord Hill's Bridge carrying Porchester Road over that railway;
+- Work No. 1/8D– A railway (917 metres in length) commencing by a junction with the Reading Railway at a point 7 metres west of the western face of the viaduct carrying the A40(M) Westway over that railway, passing eastwards and terminating by a junction with Work No. 1/3A at its commencement;
+
+In the City of Westminster–
+
+- Work No. 1/8E– A railway (798 metres in length) commencing by a junction with the Reading Railway at a point 4 metres east of the east face of the bridge carrying the Great Western Road over that railway, passing eastwards and terminating by a junction with Work No. 1/3B at its commencement;
+- Work No. 1/8F– A railway (476 metres in length) commencing by a junction with Work No. 1/8E at a point 23 metres east of the footbridge carrying Westbourne Park Passage footpath over the Reading Railway, passing westwards and terminating at a point 59 metres east of the bridge carrying the Great Western Road over that railway;
+- Work No. 1/8G– A railway (314 metres in length) commencing by a junction with the Reading Railway at a point 114 metres north of the junction of Chepstow Road with Westbourne Park Road, passing eastwards and terminating by a junction with the Reading Railway at a point 137 metres south of the junction of Torquay Street with Harrow Road;
+- Work No. 1/9A– A replacement bus parking facility, being an extension of the existing Westbourne Park Garage, comprising an elevated deck and ramps;
+- Work No. 1/9B– A road commencing by a junction with Great Western Road at a point 100 metres north of its junction with Tavistock Road and terminating by a junction with Alfred Road at a point 205 metres south-west of its junction with Harrow Road;
+- Work No. 1/9C– A partial reconstruction and extension of the footbridge carrying Westbourne Park Passage over the Reading Railway commencing at a point in that footway 93 metres north-east of the junction of Westbourne Park Road with Westbourne Park Villas and terminating at a point in that footway 132 metres south of the junction of Westbourne Park Passage with Alfred Road;
+- Work No. 1/9D– A partial reconstruction and extension of the footbridge carrying Westbourne Park Passage over the Reading Railway, commencing at a point in that footway 78 metres north-east of the junction of Westbourne Park Villas with Westbourne Park Road and terminating at a point in Westbourne Park Villas 127 metres east of that road junction. Work No. 1/9D incorporates steps and ramp facilities;
+- Work No. 1/10A– A temporary diversion of the Ranelagh Sewer, commencing by a junction with that sewer beneath a point 5 metres west of the north-west abutment of the Ranelagh Bridge and terminating by a junction with that sewer beneath a point below that Bridge 70 metres north of the junction of that Bridge with Gloucester Terrace;
+- Work No. 1/10B– A reinstatement of the Ranelagh Sewer, commencing by a junction with that sewer beneath a point 5 metres west of the north-west abutment of the Ranelagh Bridge and terminating by a junction with that sewer beneath a point below that Bridge 70 metres north of the junction of that Bridge with Gloucester Terrace;
+- Work No. 1/11A– A passenger subway linking the proposed Crossrail (Paddington) station to the London Underground Bakerloo line platforms commencing beneath a point 65 metres north-east of the junction of Chilworth Street with Eastbourne Terrace and terminating beneath a point 10 metres south-west of the junction of Winsland Street with London Street;
+- Work No. 1/11B– A road commencing by a junction with Bishop's Bridge Road at a point 125 metres north-east of its junction with Eastbourne Terrace and terminating in South Wharf Road at its junction with London Street;
+- Work No. 1/12– A diversion of a sewer in Eastbourne Terrace, commencing by a junction with that sewer in Bishop's Bridge Road beneath a point 10 metres west of the junction of Eastbourne Terrace with Bishop's Bridge Road, and terminating by a junction with that sewer in Praed Street beneath a point 11 metres south-west of the junction of Praed Street with Spring Street;
+- Work No. 1/12A– A lowering of Eastbourne Terrace between a point in that road 1 metre south-east of its junction with Bishops Bridge Road and a point in Eastbourne Terrace 2 metres north-west of its junction with Praed Street;
+- Work No. 1/12B– A lowering of Chilworth Street between a point in that road 63 metres north-east of its junction with Westbourne Terrace and its junction with Work No.1/12A at a point 11 metres north-east of the junction of Chilworth Street with Eastbourne Terrace;
+- Work No. 1/13– A subway commencing as a ventilation subway at a point 55 metres south-west of the junction of Bayswater Road with Brook Street to the proposed shaft in Hyde Park (part of Works Nos. 1/3A and 1/3B), continuing as an access subway and terminating at a point 90 metres south-west of the junction of Bayswater Road with Clarendon Place;
+- Work No. 1/14– A passenger subway linking the proposed Crossrail station to the existing London Underground Bond Street station commencing beneath a point 5 metres south-east of the junction of Davies Street with Weighhouse Street and terminating in the said Bond Street station beneath a point 40 metres north-west of the junction of Oxford Street with Stratford Place;
+- Work No. 1/14A– A tunnel for construction purposes commencing by a junction with Work No. 1/14C at a point 17 metres north-west of the junction of the western arm of Marylebone Lane with Oxford Street and terminating by a junction with Work No. 1/14B at a point 42 metres north of the junction of Stratford Place with Oxford Street. Work No. 1/14A includes a shaft for construction and operational purposes;
+- Work No. 1/14B– An escalator, subway, and stairs commencing by a junction with an existing passenger subway at a point 26 metres north of the junction of Stratford Place with Oxford Street and terminating by a junction with the existing London Underground Jubilee Line platforms at a point 135 metres north-west of the junction of the western arm of Marylebone Lane with Oxford Street;
+- Work No. 1/14C– A passenger subway incorporating stairs commencing by a junction with Work No. 1/14A at a point 17 metres north-west of the junction of the western arm of Marylebone Lane with Oxford Street and terminating by a junction with an existing passage between the London Underground Jubilee Line platforms at a point 55 metres north-west of the junction of Stratford Place with Oxford Street;
+- Work No. 1/14D– A passenger subway commencing by a junction with the existing London Underground Central Line platforms beneath Oxford Street at a point 20 metres east of the junction of Davies Street with Oxford Street and terminating by a junction with Work No. 1/14C at a point 20 metres north-east of the junction of Stratford Place with Oxford Street;
+- Works Nos. 1/14A, 1/14C and 1/14D include a ticket hall;
+- Work No. 1/14E– A passenger subway commencing by a junction with the existing London Underground Central Line platforms beneath Oxford Street at a point 12 metres west of the junction of Davies Street with Oxford Street and terminating by a junction with Work No. 1/14C at a point 23 metres north-west of the junction of Stratford Place with Oxford Street;
+- Work No. 1/15A– A temporary diversion of a sewer in Davies Street, commencing by a junction with that sewer beneath a point 10 metres north of the junction of Davies Street with Weighhouse Street and terminating by a junction with that sewer beneath a point 4 metres south-east of the junction of Davies Street with St Anselm's Place;
+- Work No. 1/15B– A reinstatement of a sewer in Davies Street, commencing by a junction with that sewer beneath a point at the junction of Davies Street with Weighhouse Street and terminating by a junction with that sewer beneath a point 4 metres north-west of the junction of Davies Street with St Anselm's Place;
+- Work No. 1/15C– A diversion of a sewer in Weighhouse Street, commencing by a junction with that sewer beneath a point 44 metres north-east of the junction of Gilbert Street with Weighhouse Street and terminating by a junction with that sewer beneath a point 5 metres south-west of the junction of Davies Street with Weighhouse Street;
+- Work No. 1/16– A diversion of a sewer in Oxford Street comprising a shaft connecting that sewer with the mid level sewer No.1 beneath a point 68 metres east of the junction of Oxford Street with Soho Street;
+
+In the City of Westminster and London Borough of Camden–
+
+Work No. 1/17– A utilities culvert commencing beneath a point in Charing Cross Road 10 metres south-west of the junction of Charing Cross Road with Oxford Street, and terminating beneath a point in that road 25 metres north-west of the junction of Charing Cross Road with Denmark Place;
+
+In the London Borough of Camden–
+
+- Work No. 1/18A– A temporary road, being a diversion of Charing Cross Road at its northern end, commencing at a point in that road 20 metres north-west of the junction of that road with Denmark Place and terminating at a point in St Giles High Street 45 metres south of the junction of that street with New Oxford Street;
+- Work No. 1/18B– A temporary road, being a diversion of Charing Cross Road at its northern end, commencing at a point in that road 25 metres south-west of the junction of that road with Denmark Place and terminating at a point in St Giles High Street 45 metres south of the junction of that street with New Oxford Street;
+
+In the City of London–
+
+Work No. 1/21A– A diversion of the Moorgate Station Sewer, commencing by a junction with that sewer beneath a point in Moorgate Station 31 metres north-west of the junction of Keats Place with Moorfields and terminating by a junction with that sewer beneath a point in Moorfields 12 metres south-west of that road junction. Work No. 1/21A includes shafts for construction and maintenance;
+
+In the City of London and London Borough of Islington–
+
+Work No. 1/22– A passenger subway linking the proposed Crossrail platforms at Liverpool Street station with the London Underground Northern Line platforms at Moorgate Station commencing beneath a point in Moorfields 140 metres south-west of its junction with Ropemaker Street, passing under Ropemaker Street and terminating in Moorgate beneath a point 43 metres south-east of that junction;
+
+In the City of London–
+
+- Work No. 1/23A– A temporary diversion of the London Bridge Sewer, commencing by a junction with that sewer beneath a point 12 metres south-west of the junction of Moorgate with Finsbury Circus, and terminating by a junction with that sewer beneath a point 25 metres south-west of that road junction;
+- Work No. 1/23B– A reinstatement of the London Bridge Sewer, commencing by a junction with that sewer beneath a point 12 metres south-west of the junction of Moorgate with Finsbury Circus, and terminating by a junction with that sewer beneath a point 25 metres south-west of that road junction;
+- Work No. 1/24– A diversion of the sewer in Liverpool Street commencing by a junction with that sewer beneath a point 10 metres south-east of the junction of Liverpool Street with Blomfield Street and terminating beneath a point 40 metres west of the junction of Liverpool Street with Old Broad Street. Work No. 1/24 includes shafts for construction and maintenance;
+- Work No. 1/24A– A cable tunnel commencing beneath a point 41 metres south-west of the junction of Old Broad Street with Liverpool Street and terminating beneath a point 28 metres north-west of that road junction. Work No. 1/24A includes a shaft for construction;
+
+In the London Borough of Tower Hamlets–
+
+- Work No. 1/25A– A shaft and tunnel, for construction purposes, commencing beneath a point 88 metres south-west of the junction of Hanbury Street with Spital Street, passing northwards and terminating beneath a point 126 metres north-east of the junction of Bratley Street with Weaver Street;
+- Work No. 1/25B– A conveyor on viaduct or supporting structures commencing at a point 84 metres north of the junction of Bratley Street with Weaver Street, passing north-westwards, then eastwards and then northwards under the Great Eastern Main Line Railway, crossing eastwards over the Grand Union/Regent's Canal and terminating in Mile End Park at a point 98 metres north-west of the junction of Grove Road with Ashcroft Road. Work No. 1/25B includes a bridge carrying the conveyor over the said Grand Union/Regent's Canal;
+- Work No. 1/25C– An accommodation road, forming an access to the Great Eastern Main Line Railway viaduct, commencing by a junction with Vallance Road at a point 60 metres south of the junction of that road with Dunbridge Street and terminating at a point 100 metres south-east of the junction of Vallance Road with Dunbridge Street;
+- Work No. 1/25D– A railway (652 metres in length) forming a realignment of the Mile End (Devonshire Street) Sidings, commencing by a junction with the Great Eastern Main Line Railway at a point 228 metres south-west of the junction of Grove Road with Ashcroft Road, passing westwards and terminating at a point 55 metres north of the junction of Globe Road with Bancroft Road;
+- Work No. 1/25E– A conveyor on viaduct or supporting structures, commencing in Mile End Park at a point 155 metres north-west of the junction of Grove Road with Ashcroft Road, passing south-westwards crossing over the Grand Union Canal/Regent's Canal, and passing southwards beneath the Great Eastern Main Line Railway, then passing westwards and terminating in the existing Mile End (Devonshire Street) Sidings at a point 135 metres north-west of the junction of Moody Street with Longnor Road;
+- Work No. 1/26A– A passenger subway linking the proposed Crossrail platforms to the London Underground District Line, commencing beneath a point 13 metres north-west of the bridge carrying Durward Street over the East London Line railway and terminating beneath a point 33 metres south-east of the junction of Durward Street with Court Street;
+- Work No. 1/26B– An escalator linking the proposed Crossrail platforms to the London Underground District Line, commencing by a junction with Work No. 1/26A at a point 61 metres east of the junction of Durward Street with Court Street and terminating beneath a point 19 metres south-east of that junction;
+- Work No. 1/26C– A diversion of the North Eastern Storm Relief Sewer, commencing by a junction with that sewer beneath a point 112 metres west of the junction of Durward Street with Brady Street and terminating by a junction with that sewer beneath a point 100 metres south-west of the junction of Durward Street with Brady Street. Work No. 1/26C includes a shaft for construction and maintenance;
+- Work No. 1/27A– An escalator and bridge linking the proposed Isle of Dogs Station platforms to North Quay commencing at a point 156 metres west of the bridge carrying Upper Bank Street over West India Dock (North) and terminating in North Quay at a point 3 metres east of the bridge carrying the Docklands Light Railway over the said Dock;
+- Work No. 1/27B– A bridge and escalator linking The North Colonnade to the proposed Isle of Dogs Station platforms commencing by a junction with that road at a point 174 metres west of the junction of Upper Bank Street with The North Colonnade and terminating at a point 36 metres east of the bridge carrying the Docklands Light Railway over West India Dock (North);
+- Work No. 1/27C– An escalator and bridge linking the proposed Isle of Dogs Station platforms to South Quay commencing at a point 20 metres east of the bridge carrying Upper Bank Street over West India Dock (North) and terminating by a junction with Work No. 1/27D at a point 30 metres west of the junction of Belmouth Passage and the said Dock;
+- Work No. 1/27D– A bridge commencing by junction with Upper Bank Street at a point 68 metres north-east of the junction of that road with The North Colonnade and terminating at a point 18 metres west of the junction of Belmouth Passage and West India Dock (North);
+- Work No. 1/28– A jetty incorporating a conveyor, for construction purposes, commencing in West India Dock North at a point 117 metres north of the junction of Bellmouth Passage with Churchill Place extending into West India Dock South and terminating at a point 130 metres south-east of the junction of Bellmouth Passage with Churchill Place;
+
+In the London Borough of Newham–
+
+- Work No. 1/29A– A conveyor for construction purposes, commencing at a point 220 metres south-west of the junction of Brunel Street with Victoria Dock Road, passing south-eastwards beneath the viaduct carrying the Lower Lea Crossing and terminating in Instone Wharf at a point 295 metres south-west of the junction of Lower Lea Crossing with Dock Road;
+- Work No. 1/29B-A conveyor for construction purposes, commencing by a junction with the commencement of Work No. 1/29A and terminating at a point 125 metres south-west of the junction of Brunel Street with Victoria Dock Road;
+- Work No. 1/30– A railway (889 metres in length) being a realignment of the Docklands Light Railway, commencing by a junction with that railway at a point 40 metres south-west of the junction of Munday Road with Victoria Dock Road, passing eastwards and terminating by a junction with that railway at a point 168 metres east of the junction of Chauntler Close with Victoria Dock Road. Work No. 1/30 includes the reconstruction of Docklands Light Railway Custom House Station;
+- Work No. 1/31– A diversion of the Royal Docks Surface Water Sewer, commencing by a junction with that sewer beneath a point 88 metres south-west of the junction of Munday Road with Victoria Dock Road, and terminating at a junction with that sewer beneath a point 60 metres south-east of the junction of Chauntler Close with Victoria Dock Road. Work No. 1/31 includes shafts for construction and maintenance;
+- Work No. 1/32A– An accommodation road commencing at a point 32 metres south-west of the junction of Albert Road with Winifred Street and terminating at a point 42 metres south of the junction of Albert Road with Fernhill Street;
+- Work No. 1/32B– A diversion of the Royal Docks Sewer (Main Line), commencing by a junction with that sewer beneath a point 37 metres south of the junction of Albert Road with Winifred Street, and terminating by a junction with that sewer beneath a point at the junction of Factory Road with Store Road. Work No. 1/32B includes shafts for construction and maintenance;
+- Work No. 1/32C– A diversion of the Albert Road Sewer, commencing by a junction with that sewer beneath a point 31 metres south-east of the junction of Albert Road with Fernhill Street, and terminating by a junction with that sewer beneath a point 104 metres east of that road junction;
+- Work No. 1/32D– An access road commencing by a junction with Albert Road at a point 10 metres south-west of the junction of Albert Road with Dockland Street and terminating at the junction of Factory Road with Store Road;
+- Work No. 1/32E– A sewer, being a replacement of part of the Store Road Pumping Station Inlet Culvert, commencing by a junction with that sewer beneath a point 30 metres east of the junction of Albert Road with Dockland Street, and terminating by a junction with that sewer beneath a point 32 metres east of the junction of Factory Road with Store Road;
+
+In the London Boroughs of Greenwich and Bexley–
+
+- Work No. 1/33A– A railway (3,862 metres in length) being a realignment of the North Kent Line (eastbound line), commencing by a junction with that railway at a point 133 metres west of the junction of Plumstead High Street with Griffin Road, passing eastwards and terminating by a junction with that railway at a point 132 metres north-west of the junction of Abbey Road with Shortlands Close;
+- Work No. 1/33B– A railway (3,802 metres in length) being a realignment of the North Kent Line (westbound line), commencing by a junction with that railway at a point 78 metres west of the junction of Plumstead High Street with Griffin Road, passing eastwards and terminating by a junction with that railway at a point 128 metres north-west of the junction of Abbey Road with Shortlands Close;
+
+In the London Borough of Greenwich–
+
+- Work No. 1/33C– A railway (408 metres in length), forming a railway siding for the North Kent Line railway, commencing by a junction with Work No. 1/33A at a point 42 metres north of the junction of Plumstead High Street with Griffin Road, passing eastwards and terminating at a point 112 metres north-west of the junction of White Hart Road with Hartville Road;
+- Work No. 1/34– A footbridge, incorporating steps and ramp facilities, crossing over Works Nos. 1/7, 1/33A and 1/33B commencing at a point 50 metres north-east of the junction of Church Manor Way with Marmadon Road and terminating at a point 75 metres south-east of the junction of Church Manor Way with Mottisfont Road;
+- Work No. 1/35– A diversion of a sewer, commencing by a junction with that sewer beneath a point 72 metres north of the junction of Woodhurst Road with Bracondale Road, and terminating by a junction with that sewer beneath a point 40 metres north-east of that road junction;
+- Work No. 1/36– A footbridge, incorporating steps and ramp facilities, crossing over Works Nos. 1/7, 1/33A and 1/33B commencing at a point 55 metres north-west of the junction of Bostal Manorway with Abbey Grove and terminating at a point 95 metres north-west of that junction;
+
+In the London Borough of Bexley–
+
+Work No. 1/37A– Reconstruction of the bridge carrying Harrow Manor Way over Works Nos. 1/7, 1/33A and 1/33B commencing by a junction with Harrow Manor Way at a point 80 metres west of the junction of Felixstowe Road with Sydney Road and terminating with Harrow Manor Way at a point 25 metres south-west of the junction of Florence Road with Fendyke Road;
+
+In the London Boroughs of Greenwich and Bexley–
+
+- Work No. 1/37B– A realignment of Felixstowe Road commencing at a point 80 metres north of the junction of Wilton Road with Gayton Road and terminating at the junction of Felixstowe Road with Rushdene;
+- Work No. 1/37C– A realignment of Gayton Road commencing at a point 10 metres south of its existing junction with Wilton Road and terminating at a point 10 metres north of its existing junction with Florence Road;
+- Work No. 1/37D– A diversion of a sewer, commencing by a junction with that sewer beneath a point 55 metres northwest of the junction of Wilton Road with Gayton Road, and terminating by a junction with that sewer beneath a point in Wilton Road at its junction with Gayton Road;
+
+In the London Borough of Bexley–
+
+- Work No 1/38A– A wharf, comprising the refurbishment of Manor Wharf, commencing at a point 18 metres south-east of the centre of the dolphin at the western end of Manor Wharf and terminating at a point 178 metres east of its commencement;
+- Work No. 1/38B– A conveyor, for construction purposes, commencing at a point 85 metres south-west of the centre of the dolphin at the western end of Manor Wharf, passing eastwards and then northwards over the River Thames and terminating by a junction with Work No. 1/38A at a point 97 metres south-east of the centre of the said dolphin;
+- Work No. 1/38C– A road, comprising an alteration of Norman Road, commencing by the junction of that road with Picardy Manorway and terminating at a point 285 metres north-east of the centre of the dolphin at the western end of Manor Wharf;
+- Work No. 1/38D– A road commencing by a junction with Work No. 1/38C at a point 318 metres south-west of the centre of the dolphin at the western end of Manor Wharf and terminating at a point 95 metres south-west of the centre of the said dolphin;
+- Work No. 1/38E– A temporary road commencing by a junction with Isis Reach at a point 177 metres south of the centre of the dolphin at the western end of Manor Wharf and terminating at a point 150 metres south of the centre of the said dolphin;
+- Work No. 1/38F– A temporary road commencing by a junction with Work No 1/38C at a point 363 metres south-west of the centre of the dolphin at the western end of Manor Wharf and terminating by a junction with Isis Reach at a point 351 metres south-west of the centre of the said dolphin;
+
+In the London Boroughs of Tower Hamlets and Newham–
+
+- Work No. 2/1A– A railway (3,255 metres in length, in tunnel) commencing by a junction with Work No. 1/3A at its termination continuing eastwards and terminating at a point 70 metres north of the junction of Barbers Road with Pudding Mill Lane;
+- Work No. 2/1B– A railway (3,318 metres in length, in tunnel) commencing by a junction with Work No. 1/3B at its termination continuing eastwards and terminating at a point 65 metres north of the junction of Barbers Road with Pudding Mill Lane;
+- Works Nos. 2/1A and 2/1B include shafts at Stepney Green, Mile End Park and Eleanor Street;
+
+In the London Borough of Newham–
+
+- Work No. 2/2– A railway (396 metres in length), commencing by a junction with Works Nos. 2/1A and 2/1B at their termination continuing eastwards and terminating by a junction with the Electric Lines of the Great Eastern Main Line Railway at a point 135 metres north-west of the junction of Warton Road with Bridgewater Road;
+- Work No. 2/3– A railway (835 metres in length), being a deviation of the Up Electric Line of the Great Eastern Main Line Railway, commencing by a junction with that railway at a point 130 metres north of the junction of Wrexham Road with Baldock Street, passing north-east and terminating by a junction with that railway at a point 135 metres north-west of the junction of Warton Road with Bridgewater Road;
+- Works Nos. 2/2 and 2/3 include bridges over Marshgate Lane (to be realigned, Work No. 2/6A), City Mill River and the Northern Outfall Sewers;
+- Work No. 2/4– A railway (922 metres in length), being a realignment of the Docklands Light Railway, commencing by a junction with that railway at a point 130 metres north of the junction of Baldock Street with Wrexham Road passing eastwards on new viaduct over Marshgate Lane to be realigned (Work No. 2/6A), City Mill River and the Northern Outfall Sewers and terminating by a junction with that railway at a point 120 metres south-west of the junction of Rowse Close with Carpenters Road. Work No. 2/4 includes a new station for Docklands Light Railway at Pudding Mill Lane;
+- Work No. 2/5A– A railway (886 metres in length) forming sidings for construction purposes, commencing by a junction with the northern side of the Great Eastern Main Line Railway at a point 265 metres west of the junction of Warton Road with Bridgewater Road, passing westwards then northwards and terminating at a point 142 metres north-east of the junction of Wick Lane with Iceland Road;
+- Work No. 2/5B– A railway (435 metres in length) forming sidings for construction purposes, commencing by a junction with Work No. 2/5A at a point 175 metres east of the junction of Wick Lane with Iceland Road, passing southwards then eastwards and terminating at a point 125 metres west of the junction of Barbers Road with Pudding Mill Lane;
+- Work No. 2/5C– A railway (331 metres in length) forming sidings for construction purposes, commencing by a junction with Work No. 2/5A at a point 175 metres east of the junction of Wick Lane with Iceland Road, passing south-east and terminating at a point 152 metres west of the junction of Barbers Road and Pudding Mill Lane;
+- Work No. 2/5D– A railway (459 metres in length) forming sidings for construction purposes, commencing by a junction with Work No. 2/5A at a point 123 metres south-west of the junction of Barbers Road with Pudding Mill Lane, passing westwards and terminating at a point 160 metres south of the junction of Wick Lane with Autumn Street;
+- Work No. 2/6A– A realignment of Marshgate Lane, commencing at a point in that road 70 metres east of the junction of Barbers Road with Pudding Mill Lane and terminating by a junction with Pudding Mill Lane at a point 235 metres north-west of the junction of Pudding Mill Lane with Barbers Road;
+- Work No. 2/6B– A road, commencing by a junction with Pudding Mill Lane at a point 140 metres north-west of the junction of Pudding Mill Lane with Barbers Road and terminating by a junction with Marshgate Lane as proposed to be realigned (Work No. 2/6A) at a point 160 metres north-west of that road junction;
+- Work No. 2/7– A realignment of Barbers Road, commencing by a junction with Marshgate Lane as proposed to be realigned (Work No. 2/6A) at a point 55 metres north-east of the junction of Barbers Road with Pudding Mill Lane and terminating in Barbers Road (as existing) at a point 200 metres south-west of its junction with Pudding Mill Lane;
+
+In the London Borough of Tower Hamlets—
+
+- Work No. 2/8A– A sewer, forming a diversion of the Hackney to Abbey Mills sewer and Wick Lane sewer, commencing by a junction with the Hackney to Abbey Mills sewer beneath a point in Wick Lane 30 metres north-west of the bridge carrying the Great Eastern Main Line and Docklands Light Railway over that road and terminating by a junction with that sewer beneath a point 54 metres north-east of the junction of Payne Road with Bow Road. Work No. 2/8A includes shafts for construction and maintenance;
+- Work No. 2/8B– A sewer, forming a diversion of the Hackney to Abbey Mills sewer and Wick Lane sewer, commencing by a junction with Work No. 2/8A beneath a point 32 metres north-east of the junction of Payne Road and Bow Road and terminating by a junction with the Wick Lane sewer beneath a point 57 metres north-east of that road junction. Work No. 2/8B includes a shaft for construction and maintenance;
+- Work No. 2/8C– An access shaft for construction and maintenance of a diversion of Wick Lane sewer, at a point in Wick Lane 33 metres south-west of the bridge carrying the Great Eastern Main Line and Docklands Light Railway over that road;
+- Work No. 2/20– A road commencing by a junction with Eleanor Street at a point 29 metres south-east of the junction of that road with Tidworth Road and terminating at a point in an access road 110 metres south of that road junction;
+
+In the London Borough of Newham–
+
+Work No. 2/9– –A railway (168 metres in length) forming a cross-over between the Down and Up Electric Lines of the Great Eastern Main Line Railway, commencing by a junction with that railway at a point 130 metres north-east of the junction of Station Road with Carlyle Road, passing eastwards and terminating by a junction with that railway at a point 280 metres north-east of that road junction;
+
+In the London Boroughs of Redbridge and Newham–
+
+Work No. 2/10– A railway (295 metres in length) forming a siding by a junction with the Up Passenger Avoiding Line of the Great Eastern Main Line Railway, commencing by a junction with that railway at a point 95 metres north of the junction of Aldersbrook Lane with Daines Close, passing eastwards and terminating at a point 170 metres north of the junction of Lugg Approach with Romford Road;
+
+In the London Borough of Newham–
+
+Work No. 2/11– An access road, including a bridge over Alders Brook, commencing in Lugg Approach at a point 40 metres north-west of the junction of Lugg Approach with Romford Road and terminating at a point 26 metres north-west of its commencement;
+
+In the London Boroughs of Redbridge and Barking & Dagenham–
+
+Work No. 2/12– A railway (2,125 metres in length) forming a freight loop line, commencing by a junction with the Up Main Line of the Great Eastern Main Line Railway at a point 155 metres west of the junction of Ashgrove Road with Granton Road, passing eastwards and terminating by a junction with that railway at a point 75 metres south-east of the junction of Heath Road with Junction Road West;
+
+In the London Boroughs of Barking & Dagenham and Havering–
+
+- Work No. 2/13– A railway (2,273 metres in length, partly in tunnel) commencing by a junction with the existing Electric Lines of the Great Eastern Main Line Railway at a point 210 metres south of the junction of Whalebone Lane South with Morden Road, passing eastwards and under that railway and terminating within a proposed depot at a point 220 metres north of the junction of Oldchurch Road and Nursery Walk. Work No. 2/13 includes a new bridge over Jutsums Lane and a depot;
+- Work No. 2/13A– A railway (679 metres in length) commencing by a junction with Work No. 2/13 at a point 255 metres south-east of the junction of Whalebone Lane South with Morden Road, passing eastwards and terminating by a junction with the Great Eastern Main Line Railway at a point 362 metres south-west of the junction of Eddy Close with Bridport Avenue;
+
+In the London Borough of Havering–
+
+- Work No. 2/13B– A railway (398 metres in length) commencing by a junction with Work No. 2/13 at a point 125 metres south-east of the junction of Jutsums Lane with Bridport Avenue, passing westwards and terminating by a junction with the Great Eastern Main Line Railway at a point 308 metres south-west of the junction of Eddy Close with Bridport Avenue. Work No. 2/13B includes a new bridge over Jutsums Lane;
+- Work No. 2/13C– A railway (960 metres in length) forming sidings within the proposed depot (part of Work No. 2/13) commencing by a junction with Work No. 2/13 at a point 295 metres north-west of the junction of Crow Lane with Beechfield Gardens, passing eastwards and terminating at a point 220 metres south-east of the junction of St Andrews Road with Queen Street;
+- Work No. 2/13D– A railway (733 metres in length) forming sidings within the proposed depot (part of Work No. 2/13) commencing by a junction with Work No. 2/13C at a point 85 metres south of the junction of Sheringham Avenue with Knighton Road and terminating at a point 140 metres east of the junction of Waterloo Road with Exchange Street;
+- Work No. 2/14A– An accommodation road, being a diversion of part of Sandgate Close, commencing at a point in that road 185 metres north of its junction with Crow Lane and terminating at a point 205 metres north-east of that junction;
+- Work No. 2/14B– An improvement of Nursery Walk and Footpath FP127 including an extension of the footpath subway between that road and Stockland Road commencing at a point 10 metres south of the junction of Stockland Road with Cotleigh Road and passing southwards and terminating at its junction with Oldchurch Road;
+- Work No. 2/15A– A diversion of the sewer west of Waterloo Road commencing by a junction with that sewer beneath a point 65 metres south of the junction of Waterloo Road with Exchange Street and terminating by a junction with that sewer beneath a point 30 metres south-east of its commencement in Waterloo Road;
+- Work No. 2/15B– A widening of the southside bridge carrying the Great Eastern Main Line Railway over Waterloo Road, commencing at a point 70 metres south of the junction of Waterloo Road with Exchange Street and terminating at a point 25 metres south of that junction;
+- Work No. 2/15C– A bridge, for vehicular access over the River Rom, commencing at a point 210 metres west of the junction of Victoria Road with South Street and terminating at a point 20 metres east of its commencement;
+- Work No. 2/15D– A road forming a temporary diversion of Atlanta Boulevard commencing in that road at a point 105 metres west of its junction with South Street and terminating at a point 49 metres south-east of its commencement;
+- Work No. 2/15E– An access road, commencing by a junction with Havana Close at a point 77 metres south-west of its junction with South Street and terminating at a point in The Battis 70 metres south-west of its junction with South Street;
+- Work No. 2/16A– A railway (1,264 metres in length) being a realignment of sidings commencing by a junction with the Electric Lines of the Great Eastern Main Line Railway at a point 145 metres south-east of the junction of Wallenger Avenue with Cranbrook Drive, passing eastwards and terminating by a junction with that railway at a point 135 metres south of the junction of Ewan Road with Cavell Crescent;
+- Work No. 2/16B– A railway (462 metres in length) forming sidings commencing by a junction with Work No. 2/16A at a point 60 metres south-east of the junction of Clunas Gardens with Amery Gardens, passing south-west and terminating at a point 130 metres east of the junction of Upper Brentwood Road with South Drive;
+
+In the County of Essex, Borough of Brentwood–
+
+- Work No. 2/18A– A railway (704 metres in length) commencing by a junction with the Down Electric Line of the Great Eastern Main Line Railway at a point 32 metres east of the junction of Woodway with Abbots Close, passing northwards and terminating at a point 107 metres north-east of the junction of Hutton Road with Crossways;
+- Work No. 2/18B– A railway (1,226 metres in length) commencing by a junction with the Up Electric Line of the Great Eastern Main Line Railway at a point 35 metres east of the junction of Woodway with Abbots Close, passing northwards and terminating at a point 305 metres north of the junction of Rayleigh Road with Alexander Lane. Work No. 2/18B includes the provision of sidings on the western side of the Great Eastern Main Line Railway and to the north of Shenfield Station;
+- Work No. 2/18C– A railway (263 metres in length) forming sidings on the western side of the Great Eastern Main Line Railway and to the south of Shenfield Station, commencing by a junction with Work No. 2/18A at a point 105 metres east of the junction of Friar's Avenue with Friar's Close, passing southwards and terminating at a point 125 metres north-east of the junction of Woodway with Gordon Road;
+- Work No. 2/18D– A railway (653 metres in length), being a realignment of the Chelmsford Loop of the Great Eastern Main Line railway, commencing by a junction with the existing Up Electric Line of the Great Eastern Main Line Railway at a point 160 metres north-east of the junction of Hutton Road with Crossways, passing north-east and terminating by a junction with the existing Down Main Line of the Great Eastern Main Line railway at a point 85 metres east of the junction of Oliver Road with Hunter Road;
+- Work No. 2/18E– A railway (307 metres in length), being a realignment of the Southend Loop Line, commencing by a junction with Work No. 2/18D at a point 185 metres north of the junction of Rayleigh Road with Alexander Lane, passing northwards and terminating by a junction with the Southend Loop Line at a point 55 metres east of the junction of Oliver Road with Hunter Avenue;
+
+In the County of Essex, District of Basildon–
+
+Work No. 2/19– A railway (626 metres in length) forming sidings for construction purposes, commencing by a junction with the London, Tilbury & Southend Railway at a point 57 metres south-east of the junction of The Meads with Elmtree Road, passing eastwards and terminating at a point 133 metres south of the junction of Pitsea Hall Lane with Brackendale Avenue;
+
+In the London Borough of Redbridge—
+
+- Work No. 2/20A– A railway (935 metres in length) commencing by a junction with tracks within Ilford Depot at a point 116 metres north-east of the bridge carrying Griggs Approach over the Great Eastern Main Line Railway, passing eastwards and terminating by a junction with that railway at a point 32 metres east of the bridge carrying Aldborough Road over that railway. Work No. 2/20A includes two depot buildings;
+- Work No. 2/20B– A railway (280 metres in length) commencing by a junction with tracks within Ilford Depot at a point 83 metres south-east of the junction of Carriage Mews with Ley Street, passing westwards and terminating at a point 50 metres east of the junction of Ley Street and Griggs Approach;
+
+In the London Borough of Newham—
+
+- Work No. 2/21A– railway (567 metres in length) forming a deviation of the eastbound District line, commencing by a junction with that railway at a point 64 metres south-east of the junction of Tom Nolan Close with Jack Clow Road, passing eastwards and terminating by a junction with that railway at a point 44 metres north of the junction of Hartsworth Close with Whitelegg Road;
+- Work No. 2/21B– A railway (448 metres in length) forming a train reversing siding, commencing by a junction with Work No. 2/21A at its commencement, passing eastwards and terminating by a junction with the westbound District line at a point 34 metres north-west of the junction of Moxon Close with Whitelegg Road;
+- Work 2/21C– A railway (87 metres in length) commencing by a junction with the westbound District line at a point 70 metres south-east of the junction of Tom Nolan Close with Jack Clow Road, passing eastwards and terminating by a junction with Work No. 2/21B at a point 58 metres north-west of the junction of Springfield Road with Holland Road;
+- Work No. 2/21D– A railway (76 metres in length) commencing by a junction with Work No. 2/21B at a point 53 metres south-east of the junction of Holbrook Road with Corporation Street, passing eastwards and terminating by a junction with Work No. 2/21A at a point 52 metres north-west of the junction of Moxon Close with Whitelegg Road;
+- Work No. 2/21E– A railway (94 metres in length) forming a deviation of the terminating District line track at Plaistow Station, commencing by a junction with Work No. 2/21A at a point 43 metres north-west of the junction of Moxon Close with Whitelegg Road, passing eastwards and terminating by a junction with the terminating District line track at a point 45 metres north-west of the junction of Hartsworth Close with Whitelegg Road;
+
+In the County of Berkshire, Royal Borough of Windsor & Maidenhead–
+
+- Work No. 3/1A– A deviation of the Reading Railway (1,604 metres in length) commencing by a junction with that railway at a point 160 metres south of the junction of Longlea Gardens with Lexington Avenue, passing eastwards and terminating by a junction with that railway at a point 25 metres west of the bridge carrying that railway over York Stream;
+- Work No. 3/1B– A railway (634 metres in length), forming sidings within Maidenhead Station Yard, commencing by a junction with Work No. 3/1A at a point 215 metres west of the bridge carrying the Reading Railway over King Street/Braywick Road, passing westwards and terminating at a point 129 metres south-east of the junction of Clarendon Copse with Clare Road;
+- Work No. 3/1C– A railway (743 metres in length) commencing at a point within Maidenhead Station Yard 166 metres south-east of the junction of Clarendon Copse with Clare Road, passing eastwards and terminating by a junction with the Reading Railway at a point 66 metres west of the bridge carrying that railway over King Street/Braywick Road;
+- Work No. 3/1D– A railway (239 metres in length) commencing by a junction with the Bourne End Branch Railway at Maidenhead Station at a point 6 metres south-east of the bridge carrying that railway over Silco Drive, passing eastwards and terminating at a point 107 metres west of the bridge carrying the Reading Railway over King Street/Braywick Road;
+- Work No. 3/1E– A diversion of a sewer commencing by a junction with that sewer beneath a point 145 metres south-east of the junction of Boyn Valley Road with Clare Road and terminating by a junction with that sewer beneath a point 114 metre west of the junction of Ludlow Road and Shoppenhanger's Road. Work No. 3/1E includes shafts for construction and maintenance;
+- Work No. 3/1F– A temporary road, being a realignment of Shoppenhanger's Road, commencing in that road at a point 143 metres west of the junction of Shoppenhanger's Road with Braywick Road and terminating in Shoppenhanger's Road at a point 35 metres west of that road junction;
+
+In the County of Berkshire, Borough of Slough–
+
+- Work No. 3/2– A reconstruction of the bridge carrying Leigh Road over the Reading Railway commencing at a point 90 metres north of the junction of Argyll Avenue with Leigh Road and terminating at a point 42 metres south of the junction of Bedford Avenue with Leigh Road;
+- Work No. 3/3– A realignment of the Reading Railway (1,710 metres in length) commencing by a junction with that railway at a point 101 metres west of the bridge carrying Farnham Road over that railway, passing eastwards and terminating by a junction with that railway at a point 135 metres east of the bridge carrying William Street over that railway;
+- Work No. 3/3A– A raising of the bridge carrying Stoke Poges Lane over the Reading Railway and Work No. 3/3, commencing at a point 8 metres south of the junction of Simpsons Way with Stoke Poges Lane and terminating at a point 14 metres north of the junction of Lansdowne Avenue with Stoke Poges Lane;
+- Work No. 3/4– A realignment of the Windsor and Eton Branch Railway at Slough Station (214 metres in length) commencing by a junction with that railway at a point 62 metres west of the bridge carrying William Street over that railway, passing eastwards and terminating at a point within Slough Station 152 metres east of that bridge;
+- Work No. 3/5A– A temporary bridge to carry Wexham Road over the Reading Railway (for the duration of the construction of Work No. 3/5B), commencing in Wexham Road at a point 55 metres north of the junction of Diamond Road with Wexham Road and terminating in Wexham Road at a point 170 metres north of that road junction;
+- Work No. 3/5B– A partial reconstruction of the bridge carrying Wexham Road over the Reading Railway, commencing at a point 95 metres north of the junction of Diamond Road with Wexham Road and terminating at a point 120 metres north of that road junction;
+- Work No. 3/6– A partial reconstruction of the bridge carrying Middlegreen Road over the Reading Railway, commencing at a point 86 metres north of the junction of Halkingcroft with Middlegreen Road and terminating at a point 66 metres south of the bridge carrying Middlegreen Road over the Grand Union Canal;
+- Work No. 3/7A– A temporary bridge to carry St. Mary's Road over the Reading Railway (for the duration of the construction of Work No 3/7B), commencing in St. Mary's Road at a point 55 metres north-west of the junction of Maryside with St. Mary's Road and terminating in St. Mary's Road at a point 55 metres south-east of the bridge carrying that road over the Grand Union Canal;
+- Work No. 3/7B– A partial reconstruction of the bridge carrying St. Mary's Road over the Reading Railway, commencing at a point 60 metres north-west of the junction of Maryside with St. Mary's Road and terminating at a point 80 metres south-east of the bridge carrying St. Mary's Road over the Grand Union Canal;
+- Work No. 3/8– A reconstruction of Trenches Bridge carrying footpath FP 47a and cycleway over the Reading Railway, commencing at a point 65 metres north-east of the junction of Maryside with Minster Way and terminating at a point 40 metres south-west of the bridge carrying the footpath FP 47a and cycleway over the Grand Union Canal;
+
+In the County of Berkshire, Borough of Slough and County of Buckinghamshire, District of South Bucks, Parish of Iver–
+
+Work No. 3/9– A railway (2,264 metres in length) commencing by a junction with the Reading Railway at a point 80 metres north of the junction of Mead Avenue with Harvey Road, passing eastwards and terminating by a junction with that railway at a point 80 metres west of the bridge carrying the M25 over that railway. Work No. 3/9 includes a bridge over Hollow Hill Lane and the removal of Dog Kennel Bridge at Iver;
+
+In the County of Berkshire, Borough of Slough—
+
+Work No. 3/9D– A diversion of Hollow Hill Lane commencing in that road at a point beneath the north side of the bridge carrying the Reading Railway over that road and terminating in that road at a point 195 metres north-east of that bridge;
+
+In the County of Buckinghamshire, District of South Bucks, Parish of Iver–
+
+- Work No. 3/9A– A realignment of part of a private access road adjacent to Iver Station, commencing in that access road at a point 111 metres north of the junction of Syke Cluan with Bathurst Walk and terminating by a junction with Work No. 3/9B at a point 40 metres south of the existing junction of Court Lane with Thorney Lane South;
+- Work No. 3/9B– A diversion of Thorney Lane South commencing in that road at a point 165 metres north of the existing junction of Court Lane with Thorney Lane South and terminating in that road at a point 262 metres south-east of the existing junction of Bathurst Walk with Thorney Lane South. Work No. 3/9B includes a bridge over the Reading Railway and the removal of the existing Thorney Lane South road bridge;
+- Work No. 3/9C– An extension of Bathurst Walk at its eastern end, commencing in that road at a point 12 metres west of the existing junction of Bathurst Walk with Thorney Lane South and terminating by a junction with Work No. 3/9B at a point 42 metres east of that existing road junction;
+
+In the London Borough of Hillingdon–
+
+- Work No. 3/10– A railway (1,486 metres in length) commencing by a junction with the Reading Railway at a point 16 metres west of the bridge carrying that railway over the Colnbrook branch line (the former Staines and West Drayton Railway), passing eastwards and terminating by a junction with the Reading Railway at a point 40 metres east of the existing bridge carrying Kingston Lane over that railway;
+- Work No. 3/10A– A railway (640 metres in length) forming a siding within West Drayton Yard commencing by a junction with Work No. 3/10 at a point 103 metres west of the bridge carrying the Reading Railway over High Street, passing westwards and terminating at a point 113 metres north of the western end of Fairway Avenue;
+- Work No. 3/10B– A railway (625 metres in length) forming sidings within West Drayton Yard commencing by a junction with Work No. 3/10 at a point 103 metres west of the bridge carrying the Reading Railway over High Street, passing westwards and terminating at a point 166 metres north of the western end of Fairway Avenue;
+- Work No. 3/10C– An access road in the West Drayton Yard commencing in that Yard at a point 124 metres north-west of the junction of Fairway Close with Fairway Avenue and terminating in the existing access road leading from High Street at a point 77 metres south-east of the junction of Winnock Road with Tavistock Road. Work No. 3/10C includes a level crossing of the Colnbrook branch line (the former Staines and West Drayton Railway) and a bridge over Fray's River;
+- Work No. 3/10D– A realignment of an existing culvert in the West Drayton Yard, commencing at a point 315 metres north-west of the junction of Fairway Close with Fairway Avenue and terminating at a point 187 metres north of that road junction. Work No. 3/10D includes an inspection chamber;
+- Work No. 3/10E– A diversion of the Colne Valley Sewer commencing by a junction with that sewer beneath a point 155 metres west of the junction of Padcroft Road with Tavistock Road and terminating by a junction with that sewer beneath a point 190 metres south of the junction of Wimpole Road with Tavistock Road. Work No. 3/10E includes shafts for construction and maintenance;
+- Work No. 3/10F– A bridge, incorporating steps and ramp facilities, to carry the footpath and cycleway between Kingston Lane and Horton Bridge Road over the Reading Railway, commencing at a point 145 metres north-east of the junction of Ruffle Close with Kingston Lane and terminating at a point 192 metres south of the junction of Horton Bridge Road with Horton Road. Work No. 3/10F includes the removal of the existing bridge carrying Kingston Lane over the Reading Railway;
+- Work No. 3/11– A railway (2,800 metres in length) commencing by a junction with the Heathrow Express Railway at a point 171 metres north of the northern tunnel portal of that railway, passing northwards then eastwards and terminating by a junction with the Reading Railway at a point 243 metres west of the bridge carrying The Parkway over that railway. Work No. 3/11 includes a viaduct adjacent to the Stockley Flyover;
+- Work No. 3/12A– A realignment of the Heathrow Express Railway (377 metres in length) commencing by a junction with that railway at a point 148 metres north of the northern tunnel portal of that railway, passing northwards and terminating by a junction with that railway at a point 336 metres north-west of the junction of Conway Drive with Stormont Drive;
+- Work No. 3/12B– A realignment of the Heathrow Express Railway (308 metres in length) commencing by a junction with Work No. 3/12A at a point 200 metres north of the northern tunnel portal of that railway, passing northwards and terminating by a junction with that railway at a point 336 metres north-west of the junction of Conway Drive with Stormont Drive;
+- Work No. 3/13A– A realignment of the Reading Railway (975 metres in length) commencing by a junction with that railway at a point 100 metres north of the junction of Conway Drive with Stormont Drive, passing eastwards and terminating by a junction with that railway at a point 162 metres east of the bridge carrying Dawley Road over that railway;
+- Work No. 3/13B– A railway (721 metres in length and partly on the viaduct forming part of Work No. 3/11) commencing by a junction with Work No. 3/11 on that viaduct at a point 170 metres north-east of the junction of Conway Drive with Stormont Drive, passing eastwards and terminating by a junction with the Reading Railway at a point 64 metres east of the bridge carrying Dawley Road over that railway;
+- Work No. 3/13C– A railway (419 metres in length) commencing by a junction with the Heathrow Express Railway at a point 86 metres north of the junction of Conway Drive with Stormont Drive, passing eastwards and terminating by a junction with Work No. 3/13A at a point 55 metres north-east of the northern end of Burnham Gardens;
+- Work No. 3/13D– A realignment of the Reading Railway (385 metres in length) commencing by a junction with that railway at a point 104 metres north of the junction of Conway Drive with Stormont Drive, passing eastwards and terminating by a junction with that railway at a point 52 metres north of the northern end of Burnham Gardens;
+- Work No. 3/14– A bridge to carry a footpath and cycleway over the Reading Railway commencing at a point 23 metres south of the junction of Iron Bridge Road South with Old Stockley Road and terminating at a point 59 metres north of the junction of Old Stockley Road with Stockley Road. Work No. 3/14 includes the removal of the existing Old Stockley Road Bridge;
+- Work No. 3/15A– A temporary bridge to carry Station Road over the Reading Railway at Hayes and Harlington Station (during the construction of Work No. 3/15B) commencing at a point 4 metres north-east of the junction of Keith Road with Station Road and terminating at a point 54 metres south-east of the junction of Blyth Road with Clayton Road;
+- Work No. 3/15B– A raising and lengthening at the north-eastern end of the bridge carrying Station Road over the Reading Railway at Hayes and Harlington Station commencing at a point 111 metres north-east of the junction of Keith Road with Station Road and terminating at a point 54 metres south-east of the junction of Blyth Road with Clayton Road;
+
+In the London Borough of Ealing–
+
+- Work No. 3/16– A railway (469 metres in length) commencing by a junction with the Greenford Branch Railway at West Ealing Station at a point 130 metres west of the junction of Drayton Avenue with Manor Road, passing south-eastwards then eastwards and terminating at a point in West Ealing Station 20 metres south of the junction of Drayton Road with Manor Road;
+- Work No. 3/17– A deviation of the Reading Railway (2,068 metres in length partly in tunnel) commencing by a junction with that railway at a point 300 metres west of the bridge carrying Hanger Lane over that railway, passing eastwards and terminating by a junction with that railway at a point 25 metres west of the bridge carrying Horn Lane over that railway;
+- Work No. 3/17A– A railway (1,500 metres in length) commencing by a junction with the Reading Railway at a point 54 metres east of London Underground bridge No. D29 over that railway, passing eastwards and terminating by a junction with the Poplar Lines 5 metres west of the bridge carrying Horn Lane over those lines;
+- Work No. 3/17B– A railway (881 metres in length) forming sidings within the Acton Yard, commencing by a junction with Work No. 3/17A at a point 160 metres north-east of the bridge carrying Noel Road over the Reading Railway, passing eastwards and terminating at a point 155 metres west of the junction of York Road with Horn Lane;
+
+In the London Borough of Hammersmith & Fulham–
+
+- Work No. 3/19A– A railway (610 metres in length) commencing by a junction with Works Nos. 3/19B and 3/19C at a point 316 metres south-east of the junction of Salter Street with Hythe Road, passing north-westwards and terminating within a proposed depot at a point 196 metres east of the bridge carrying Old Oak Common Lane over the North London Line railway. Work No. 3/19A includes a depot building;
+- Work No. 3/19B– A railway (838 metres in length), forming sidings within Old Oak Common depot, commencing by a junction with Works Nos. 3/19A and 3/19C at its commencement, passing westwards and terminating at a point 838 metres west of its commencement. Work No. 3/19B includes a depot building;
+
+In the London Borough of Hammersmith & Fulham and the Royal Borough of Kensington & Chelsea—
+
+Work No. 3/19C– A railway (1,743 metres in length) commencing by a junction with Works No. 3/19A and 3/19B at a point 316 metres south-east of the junction of Salter Street with Hythe Road, passing eastwards and terminating by a junction with the Reading Railway at a point 16 metres west of the bridge carrying Ladbroke Grove over that railway. Work No. 3/19C includes a depot building;
+
+In the London Borough of Hammersmith & Fulham—
+
+Work No. 3/19D– A railway (510 metres in length) commencing by a junction with sidings within Old Oak Common depot at a point 500 metres south-east of the junction of Old Oak Common Lane with Victoria Road, passing eastwards and terminating by a junction with sidings within that depot at a point 273 metres west of the western face of the bridge carrying Scrubs Lane over the Reading Railway. Work No. 3/19D includes a depot building;
+
+In the London Borough of Hammersmith & Fulham and the Royal Borough of Kensington & Chelsea—
+
+- Work No. 3/19E– A railway (1,666 metres in length) commencing by a junction with sidings within Old Oak Common depot at a point 121 metres west of the western face of the bridge carrying Scrubs Lane over the Reading Railway, passing eastwards and terminating by a junction with the Reading Railway at a point 85 metres north-east of the junction of Barlby Road with Ladbroke Grove;
+- Work No. 3/19F– A railway (989 metres in length) commencing by a junction with the Reading Railway at a point 315 metres west of the western face of the bridge carrying Scrubs Lane over the Reading Railway, passing eastwards and terminating by a junction with that railway at a point 116 metres north of the northern end of Webb Close;
+- Work No. 3/20A– A railway (145 metres in length) commencing by a junction with tracks within North Pole Railway Depot at a point 59 metres east of the eastern portal of the Servicing and Inspection Shed, passing eastwards and terminating by a junction with the loco siding within that depot at a point 145 metres east of its commencement;
+- Work No. 3/20B– A railway (36 metres in length) forming a reinstated connection with the West London Railway, commencing by a junction with that railway at a point 2 metres north-west of the western abutment of the bridge carrying that railway over Scrubs Lane, passing north-westwards and terminating by a junction with tracks within North Pole Railway Depot at a point 36 metres north-west of its commencement;
+- Work No. 3/20C– A railway (51 metres in length) forming a reinstated connection with the West London Railway, commencing by a junction with that railway at a point 250 metres south-west of the eastern abutment of the bridge carrying that railway over Scrubs Lane, passing north-westwards and terminating by a junction with tracks within North Pole Railway Depot at a point 51 metres north-west of its commencement;
+
+In the London Borough of Hammersmith & Fulham and the Royal Borough of Kensington & Chelsea—
+
+Work No. 3/20D– A railway (1,121 metres in length) commencing by a junction with Transfer Siding No. 1 within North Pole Railway Depot at a point 300 metres east of the eastern face of the bridge carrying Scrubs Lane over the Reading Railway, passing eastwards and terminating at a point beneath the bridge carrying Ladbroke Grove over the Reading Railway. Work No. 3/20D includes extension of an existing depot building;
+
+In the Royal Borough of Kensington & Chelsea—
+
+- Work No. 3/20E– A railway (387 metres in length) commencing by a junction with tracks within North Pole Railway Depot at a point 361 metres west of the Wheel Lathe Shed, passing eastwards and terminating by a junction with Work No. 3/20D at a point 387 metres east of its commencement;
+- Work No. 3/20F– A railway (567 metres in length) commencing by a junction with tracks within North Pole Railway Depot at a point 225 metres west of the western portal of the Wheel Lathe Shed, passing eastwards and terminating by a junction with Work No. 3/20D at a point 81 metres west of the western face of the bridge carrying Ladbroke Grove over the Reading Railway;
+- Work No. 3/20G– A railway (272 metres in length) commencing by a junction with tracks within North Pole Railway Depot at a point 190 metres west of the western portal of the Wheel Lathe Shed, passing eastwards and terminating at a point 272 metres east of its commencement;
+- Work No. 3/20H– A railway (336 metres in length) forming a siding within North Pole Railway Depot commencing by a junction with Work No. 3/20G at a point 102 metres west of the Wheel Lathe Shed, passing eastwards and terminating at a point 336 metres east of its commencement. Work No. 3/20H includes a depot building.
+
+## SCHEDULE 2 — Works: further and supplementary provisions
+
+*Section 2*
+
+### Additional works
+
+**1** (1) The nominated undertaker may, for the purposes of or in connection with the scheduled works or otherwise for the purposes of or in connection with Crossrail, do any of the following within the limits of deviation for the scheduled works or within the limits of land to be acquired or used—
+
+(a) carry out and maintain railway electrification and signalling works;
+
+(b) make, provide and maintain all such approaches, bridges, subways, interchanges, roundabouts, turning places, lifts, stairs, escalators, ramps, passages, means of access, shafts, buildings, apparatus, plant and machinery as may be necessary or convenient,
+
+(c) construct, provide and maintain all such embankments, aprons, abutments, retaining walls, wing walls, culverts and other works as may be necessary or convenient,
+
+(d) alter or remove any structure erected upon any highway or adjoining land,
+
+(e) alter, or alter the position of, railway track and any apparatus associated with railway track,
+
+(f) alter, or alter the position of, other apparatus, including mains, sewers, drains and cables,
+
+(g) alter the course of, or otherwise interfere with, non-navigable rivers, streams or watercourses, and
+
+(h) carry out and maintain such other works, of whatever description, as may be necessary or expedient.
+
+(2) Sub-paragraph (1) shall not authorise the making of any cut for drainage purposes which is more than 3.4 metres wide at the bottom.
+
+### Highway accesses
+
+**2** (1) The nominated undertaker may, for the purposes of or in connection with the works authorised by this Act or otherwise for the purposes of or in connection with Crossrail—
+
+(a) form and lay out means of access, and
+
+(b) improve existing means of access,
+
+at any place within the limits of deviation for the scheduled works or within the limits of land to be acquired or used.
+
+(2) In the case of works at a place shown on the deposited plans which require the opening of an access onto, or the alteration of, a highway used by vehicular traffic, the power under sub-paragraph (1) is exercisable on giving at least 28 days' notice to the highway authority.
+
+(3) Works which are the subject of a notice under sub-paragraph (2) may not be carried out at the place shown on the deposited plans if, within 28 days of the giving of the notice, the highway authority objects to the works being carried out there by giving the nominated undertaker notice to that effect.
+
+(4) The only ground on which the highway authority may object under sub-paragraph (3) is that works under sub-paragraph (1) should be carried out instead at another place within the relevant limits to prevent or reduce—
+
+(a) injury to local amenity, or
+
+(b) prejudicial effects on road safety or on the free flow of traffic in the local area,
+
+and are reasonably capable of being carried out there.
+
+(5) If, in the case of works under sub-paragraph (1) at a place shown on the deposited plans, the works require the opening of an access onto, or the alteration of, a highway used by vehicular traffic, they shall be carried out in accordance with plans and specifications approved by the highway authority at the request of the nominated undertaker.
+
+(6) The only ground on which the highway authority may refuse to approve plans or specifications for the purposes of sub-paragraph (5) is that they ought to be modified to prevent or reduce—
+
+(a) injury to local amenity, or
+
+(b) prejudicial effects on road safety or on the free flow of traffic in the local area,
+
+and are reasonably capable of being so modified.
+
+(7) Works under sub-paragraph (1) may only be carried out at a place not shown on the deposited plans if the highway authority consents to the siting of the works, such consent not to be unreasonably withheld.
+
+(8) Works under sub-paragraph (1) at a place not shown on the deposited plans shall be carried out in accordance with plans and specifications approved by the highway authority at the request of the nominated undertaker, such approval not to be unreasonably withheld.
+
+(9) In considering whether to give its consent for the purposes of sub-paragraph (7), or approval for the purposes of sub-paragraph (8), in a case where the works require the opening of an access onto, or the alteration of, a highway used by vehicular traffic, the highway authority shall have regard, in particular, to effects on road safety and on the free flow of traffic in the local area.
+
+(10) If, on application by the nominated undertaker for the approval of plans or specifications under sub-paragraph (5) or (8), the highway authority fails to notify the nominated undertaker of its decision on the application before the end of the period of 28 days beginning with the date on which the application was made, it shall be deemed to have approved the plans or specifications as submitted.
+
+(11) If a highway authority which receives an application for consent under sub-paragraph (7) fails to notify the applicant of its decision on the application before the end of the period of 28 days beginning with the date on which the application was made, it shall be deemed to have granted it.
+
+(12) Where an objection under sub-paragraph (3) leads to the carrying out of works under sub-paragraph (1) at a place not shown on the deposited plans, sub-paragraphs (5), (7) and (8) shall have effect in relation to them as if the place were shown on the deposited plans.
+
+(13) Any dispute with a highway authority under this paragraph shall, if the parties agree, be referred to arbitration, but shall otherwise be determined by the Secretary of State.
+
+### Overhead line diversions
+
+**3** Without prejudice to paragraph 1(1)(f), the nominated undertaker may, for the purposes of or in connection with the works authorised by this Act, undertake the electric line diversions specified in the following table.
+
+|  |  |  |
+|---|---|---|
+| *(1)* | *(2)* | *(3)* |
+| *Area* | *Overhead line to be taken down* | *New overhead line to be provided* |
+| London Borough of Newham | Overhead electric line (PDK) between points E1, E2 and E3 | New overhead electric line to be provided on land within relevant limits between points E1, E4 and E3. |
+| County of Buckinghamshire, District of South Bucks, Parish of Iver | Iver–Longford 132kV overhead electric line (PGB) between points EC1 and EC2. | New overhead electric lines to be provided on land within relevant limits between points EC1, EC3 and EC2 and between points EC1, EC4 and EC2. |
+
+### Mitigation and protection works
+
+**4** The nominated undertaker may within the limits of deviation for the scheduled works or within the limits of land to be acquired or used—
+
+(a) carry out and maintain landscaping and other works to mitigate any adverse effects of the construction, maintenance or operation of any of the works authorised by this Act, and
+
+(b) carry out and maintain works for the benefit or protection of land affected by any of the works authorised by this Act.
+
+### Support of buildings
+
+**5** (1) This paragraph applies where it is necessary or expedient in consequence of or in connection with the construction of any of the works authorised by this Act to support or strengthen a building within the relevant distance of the work.
+
+(2) The nominated undertaker may support or strengthen the building on giving at least 8 weeks' notice to the owners and occupiers of the building of its intention to do so.
+
+(3) If, within 21 days of the giving of a notice under sub-paragraph (2), the person to whom the notice has been given gives to the nominated undertaker notice disputing that this paragraph applies, the question of its application shall be referred to arbitration.
+
+(4) If, under sub-paragraph (3), the arbitrator decides that this paragraph does apply, he shall, if one of the parties to the dispute so requires, prescribe how the supporting or strengthening is to be carried out.
+
+(5) Where the supporting or strengthening of a building under this paragraph cannot be carried out reasonably conveniently without entering land adjacent to the building, the nominated undertaker may, on giving at least 14 days' notice to the owners and occupiers of the adjacent land, enter the land (but not any building on it) and carry out the work.
+
+(6) In case of emergency, the power conferred by sub-paragraph (2) or (5) shall be exercisable without notice.
+
+(7) For the purpose of deciding how to exercise its powers under this paragraph, the nominated undertaker may at any reasonable time enter and survey—
+
+(a) any building within the relevant distance of any of the works authorised by this Act, or
+
+(b) any land adjacent to such a building (but not any building on any such land).
+
+(8) Section 6 of the Acquisition of Land Act 1981 (c. 67) (service of documents) shall apply to the service of notices under this paragraph with, in subsection (4), the substitution for the words from “authority” to “document is to be served” of “ nominated undertaker ”.
+
+(9) In this paragraph—
+
+- “building” includes any structure and, in the case of a work under the surface of the ground, reference to a building within the relevant distance of that work includes a reference to any building within the relevant distance of any point on the surface below which the work is situated,
+
+- “notice” means notice in writing, and
+
+- “relevant distance”, in relation to any work, means—
+
+  - (a) where the work relates to an underground railway, 50 metres, and
+  - (b) where it does not, 35 metres.
+
+**6** (1) This paragraph applies where it is necessary or expedient in consequence of or in connection with the construction of any of the works authorised by this Act further to support or strengthen a building which has been supported or strengthened under paragraph 5.
+
+(2) The nominated undertaker may, at any time within the permitted period, further support or strengthen the building on giving at least 8 weeks' notice to the owners and occupiers of the building of its intention to do so.
+
+(3) If, within 21 days of the giving of a notice under sub-paragraph (2), the person to whom the notice has been given gives to the nominated undertaker notice disputing that this paragraph applies, the question of its application shall be referred to arbitration.
+
+(4) If, under sub-paragraph (3), the arbitrator decides that this paragraph does apply, he shall, if one of the parties to the dispute so requires, prescribe how the supporting or strengthening is to be carried out.
+
+(5) Where the supporting or strengthening of a building under this paragraph cannot be carried out reasonably conveniently without entering land adjacent to the building, the nominated undertaker may, on giving at least 14 days' notice to the owners and occupiers of the adjacent land, enter the land (but not any building on it) and carry out the work.
+
+(6) In case of emergency, the power conferred by sub-paragraph (2) or (5) shall be exercisable without notice.
+
+(7) For the purpose of deciding how to exercise its powers under this paragraph, the nominated undertaker may at any reasonable time enter and survey—
+
+(a) any building which has been supported or strengthened under paragraph 5, or
+
+(b) any land adjacent to such a building (but not any building on any such land).
+
+(8) Section 6 of the Acquisition of Land Act 1981 (c. 67) (service of documents) shall apply to the service of notices under this paragraph with, in subsection (4), the substitution for the words from “authority” to “document is to be served” of “ nominated undertaker ”.
+
+(9) In sub-paragraph (2), the reference to the permitted period is to the period beginning with the completion of the supporting or strengthening under paragraph 5 and ending 5 years after the date on which the work which necessitated the supporting or strengthening was brought into general use.
+
+(10) In this paragraph, “notice” means notice in writing.
+
+**7** (1) Where the nominated undertaker exercises any power under paragraph 5 or 6, it shall compensate the owners and occupiers of the building or land in relation to which the power is exercised for any loss which they may suffer by reason of the exercise of the power.
+
+(2) Any dispute as to a person's entitlement to compensation under sub-paragraph (1), or as to the amount of the compensation, shall be determined under and in accordance with Part 1 of the Land Compensation Act 1961 (c. 33).
+
+(3) Nothing in this paragraph shall affect liability to pay compensation under section 6 of the Railways Clauses Consolidation Act 1845 (c. 20), as incorporated with this Act, or section 10(2) of the Compulsory Purchase Act 1965 (c. 56), as applied to the acquisition of land under section 6(1), or under any other enactment, otherwise than for loss for which compensation is payable under sub-paragraph (1).
+
+### Discharge of water
+
+**8** (1) The nominated undertaker may use any watercourse or any public sewer or drain for the drainage of water in connection with the construction or maintenance of the works authorised by this Act and for that purpose may lay down, take up and alter pipes and may, on any land within the limits of deviation for the scheduled works or within the limits of land to be acquired or used, make connections with the watercourse, sewer or drain.
+
+(2) The nominated undertaker shall not discharge any water into any public sewer or drain except with the consent of the person to whom it belongs; and such consent may be given subject to such terms and conditions as that person may reasonably impose but shall not be unreasonably withheld.
+
+(3) The nominated undertaker shall not make any opening into any public sewer or drain except in accordance with plans approved by, and under the superintendence (if provided) of, the person to whom the sewer or drain belongs, but such approval shall not be unreasonably withheld.
+
+(4) The nominated undertaker shall not, in the exercise of the powers conferred by this paragraph, damage or interfere with the beds or banks of any watercourse forming part of a main river.
+
+(5) The nominated undertaker shall take such steps as are reasonably practicable to secure that any water discharged into a watercourse or public sewer or drain under the powers conferred by this paragraph is as free as may be practicable from gravel, soil or other solid substance or oil or matter in suspension.
+
+(6) This paragraph does not authorise the doing of anything prohibited by section 85(1), (2) or (3) of the Water Resources Act 1991 (c. 57) (offences of polluting controlled waters).
+
+(7) Any dispute as to the giving of consent under this paragraph shall, if the parties agree, be referred to arbitration, but shall otherwise be determined by the Secretary of State.
+
+(8) In this paragraph—
+
+(a) “public sewer or drain” means a sewer or drain which belongs to a sewerage undertaker, the Environment Agency, an internal drainage board, a local authority, an urban development corporation[[^F13], a Mayoral development corporation] [[^F14]for an area in Greater London] or a harbour authority within the meaning of the Harbours Act 1964 (c. 40),
+
+(b) “watercourse” includes rivers, streams, ditches, drains, cuts, culverts, dykes, sluices, sewers and passages through which water flows, except a public sewer or drain, and
+
+(c) other expressions used both in this paragraph and in the Water Resources Act 1991 have the same meanings as in that Act.
+
+### Entry for preparatory purposes
+
+**9** (1) The nominated undertaker may, for the purposes of this Act—
+
+(a) survey or investigate any land within the limits of deviation for the scheduled works or within the limits of land to be acquired or used or which may be affected by the works authorised by this Act,
+
+(b) without prejudice to the generality of paragraph (a), make trial holes in such positions as it thinks fit on any such land to investigate the nature of the surface layer and subsoil and remove soil samples,
+
+(c) without prejudice to the generality of paragraph (a), carry out archaeological investigations on any such land,
+
+(d) take steps to protect or remove any flora or fauna on any such land which may be affected by the carrying out of the works authorised by this Act,
+
+(e) place on, leave on and remove from any such land apparatus for use in connection with the exercise of any of the powers conferred by paragraphs (a) to (d), and
+
+(f) enter on any such land for the purpose of exercising any of the powers conferred by paragraphs (a) to (e).
+
+(2) No land may be entered, or equipment placed or left on or removed from land, under sub-paragraph (1) unless at least 7 days' notice has been served on every owner and occupier of the land.
+
+(3) The power conferred by paragraph (f) of sub-paragraph (1) includes power to enter with such vehicles and equipment as are necessary for the purpose of exercising any of the other powers conferred by that sub-paragraph.
+
+(4) Any person exercising the power conferred by sub-paragraph (1)(f) on behalf of the nominated undertaker shall, if requested to do so, produce written evidence of his authority.
+
+(5) This paragraph shall not authorise the making of trial holes in a carriageway or footway without the consent of the highway authority, but such consent shall not be unreasonably withheld.
+
+(6) Any dispute as to the giving of consent under sub-paragraph (5) shall, if the parties agree, be referred to arbitration, but shall otherwise be determined by the Secretary of State.
+
+(7) The nominated undertaker shall compensate the owners and occupiers of land in respect of which the powers conferred by this paragraph are exercised for any loss which they may suffer by reason of the exercise of those powers.
+
+(8) Any dispute as to a person's entitlement to compensation under sub-paragraph (7), or as to the amount of the compensation, shall be determined under and in accordance with Part 1 of the Land Compensation Act 1961 (c. 33).
+
+### Temporary interference with waterways
+
+**10** (1) The powers conferred by this paragraph shall be exercisable in relation to the following waterways for the purposes of or in connection with the exercise of the powers conferred by this Act with respect to works—
+
+- the River Thames,
+- the River Lea,
+- West India Dock North and South,
+- Poplar Cut,
+- the Grand Union Canal,
+- the Regent's Canal,
+- Bellmouth Passage,
+- City Mill River, and
+- Frays River.
+
+(2) The nominated undertaker may—
+
+(a) temporarily interfere with a waterway mentioned in sub-paragraph (1) at any point within the limits of deviation for the scheduled works or within the limits of land to be acquired or used, by constructing or maintaining such temporary works, or by carrying out such dredging works, as it considers necessary or expedient,
+
+(b) temporarily moor or anchor barges or other vessels or craft in a waterway mentioned in sub-paragraph (1), or
+
+(c) temporarily close a waterway mentioned in sub-paragraph (1), or a part of such a waterway, to navigation.
+
+(3) The power conferred by sub-paragraph (2)(c) shall be exercised in a way which secures—
+
+(a) that no more of the waterway is closed to navigation at any time than is necessary in the circumstances, and
+
+(b) that, if complete closure of the waterway to navigation becomes necessary, all reasonable steps are taken to secure that the minimum obstruction, delay or interference is caused to vessels or craft which may be using or intending to use it.
+
+(4) The nominated undertaker shall not be liable for any loss suffered, or costs or expenses incurred, by any person as a direct or indirect result of any interference in accordance with this paragraph with a public right of navigation.
+
+(5) The nominated undertaker shall compensate any person who suffers loss as a result of any interference in accordance with this paragraph with a private right of navigation.
+
+(6) Any dispute as to a person's entitlement to compensation under sub-paragraph (5), or as to the amount of the compensation, shall be determined under and in accordance with Part 1 of the Land Compensation Act 1961 (c. 33).
+
+## SCHEDULE 3 — Highways
+
+*Section 3*
+
+### Stopping-up
+
+**1** (1) The nominated undertaker may, in connection with the construction of the works authorised by this Act, stop up each of the highways or parts of highways specified in the following table.
+
+(2) No highway or part of a highway specified in columns (1) and (2) of Part 1 of the following table shall be stopped up under this paragraph unless all the land which abuts on it falls within one or more of the following categories, namely—
+
+(a) land to which there is no right of access directly from the highway or part to be stopped up,
+
+(b) land to which there is reasonably convenient access otherwise than directly from the highway or part to be stopped up,
+
+(c) land the owners and occupiers of which have agreed to the stopping up of the highway or part, and
+
+(d) land which is in the possession of the Secretary of State.
+
+(3) No highway or part of a highway specified in columns (1) and (2) of Part 2 of the following table shall be stopped up under this paragraph if a new highway is specified in relation to it in column (3) of that Part of the table, by reference to the letters and numbers shown on the deposited plans or by reference to scheduled works, until—
+
+(a) where the new highway is provided in exercise of the powers conferred by this Act, the later of the date of practical completion and the date on which it is first open for public use, and
+
+(b) where it is not, the date on which it is first open for public use.
+
+(4) Where a new highway specified in column (3) of Part 2 of the following table is provided in exercise of the powers conferred by this Act, the date of practical completion of the highway, or the date on which it is first open for public use, shall be taken for the purposes of sub-paragraph (3) to be what it is taken to be for the purposes of paragraph 11(2).
+
+|  |  |
+|---|---|
+| *(1)* | *(2)* |
+| *Area* | *Highway or part to be stopped up* |
+| City of Westminster | Footpath within Westbourne Green Sports Complex between points P5, P6 and P7 North-eastern side of Eastbourne Terrace within extent of narrowing shown on the deposited plans Falconberg Court |
+| London Borough of Camden | Andrew Borde Street |
+| London Borough of Islington | Cowcross Street between points P1 and P2 |
+| City of London | Hayne Street between points P3 and P4 Fore Street Avenue between points P1 and P2 Moorfields between points P2 and P3 |
+| London Borough of Tower Hamlets | Fulbourne Street between points P1 and P2 Court Street between points P3 and P4 Wood's Buildings between points P5 and P6 South-eastern side of Durward Street within the extent of narrowing shown on the deposited plans between points P2 and P7 Garden Street between points P5 and P6 Eleanor Street between points P1 and P2 |
+| London Borough of Greenwich | Bostall Manorway between points P3 and P4 Abbey Terrace between points P5 and P6 |
+| London Borough of Havering | Footpath (FP 123) between Beechfield Gardens and Nursery Walk |
+
+|  |  |  |
+|---|---|---|
+| *(1)* | *(2)* | *(3)* |
+| *Area* | *Highway or part to be stopped up* | *New highway to be substituted for it* |
+| City of Westminster | Westbourne Park Passage within the limits of deviation of Work No. 1/9C | Work No. 1/9C |
+|  | Westbourne Park Passage within the limits of deviation of Work No. 1/9D | Work No. 1/9D |
+| London Borough of Tower Hamlets | Footpath between Stepney Way and Stepney Green between points P1, P2 and P3 and between points P2 and P4 | New footpath between points P1, P4, P5 and P6 |
+| London Borough of Newham | Footpaths between the Excel Centre and Victoria Dock Road between points P1, P2, P3, P4, P5, P6, P7, P8 and P9 and between points P6 and P11 | New footpath through intended station, part of Work No. 1/5 between points P10 and P11 |
+|  | Footpath between Albert Road and Factory Road between points P1 and P2 | Work No. 1/32D |
+|  | Barbers Road between points P1 and P2 | Works Nos. 2/6A, 2/6B and 2/7 |
+|  | Pudding Mill Lane between points P3 and P4 | Works Nos. 2/6A, 2/6B and 2/7 |
+|  | Marshgate Lane within the relevant limits | Works Nos. 2/6A and 2/6B |
+|  | Footpath (Greenway) between points P6, P7, P8, P9, P10, P11, P12 and P13 and between points P9 and P11 | New footpath between points P5, P14 and P13 |
+| London Borough of Greenwich | Footpath on eastern side of Church Manor Way between points P1 and P2 | Work No. 1/34 |
+|  | Footpath between Mottisfont Road and Bostall Manor Way between points P1 and P2 | Work No. 1/36 |
+| London Boroughs of Greenwich and Bexley | Footpaths over Abbey Wood Station between points P7, P8, P9, P10 and P11 and between points P11 and P12 | New footpath through intended station, part of Work No. 1/7 |
+|  | Felixstowe Road within the relevant limits | Work No. 1/37B |
+| London Borough of Bexley | Gayton Road | Work No. 1/37C |
+| London Borough of Barking & Dagenham | Footpath on eastern side of Whalebone Lane South between points P1 and P3 | New footpath between points P1, P2 and P3 |
+| London Borough of Havering | Footpath adjacent to bus stand, Atlanta Boulevard | Work No. 2/15D |
+| County of Berkshire, Borough of Slough | Hollow Hill Lane between points P1 and P2 | Work No. 3/9D |
+| County of Buckinghamshire, District of South Bucks, Parish of Iver | Thorney Lane South between points P1 and P2 | Works Nos. 3/9B and 3/9C |
+| London Borough of Hillingdon | Footpath and cycleway (Kingston Lane) between points P1 and P2 | Work No. 3/10F |
+|  | Old Stockley Road between points P1 and P2 | Footpath and cycleway between points P1 and P2 (Work No. 3/14) |
+
+**2** (1) The nominated undertaker may, in connection with the construction of the works authorised by this Act, stop up any bridleway or footpath, or part of a bridleway or footpath, which is—
+
+(a) within the limits of deviation for the scheduled works or within the limits of land to be acquired or used, and
+
+(b) not specified in columns (1) and (2) of the table in paragraph 1.
+
+(2) The power conferred by sub-paragraph (1) shall not be exercised unless the proposed stopping up has been confirmed by the appropriate Ministers upon application by the nominated undertaker.
+
+(3) The appropriate Ministers shall grant an application under sub-paragraph (2) if, but only if, they are satisfied—
+
+(a) that an alternative bridleway or footpath has been provided,
+
+(b) that an alternative bridleway or footpath will be provided before the proposed stopping up takes place, or
+
+(c) that the provision of an alternative bridleway or footpath is not required.
+
+(4) Where the appropriate Ministers grant an application under sub-paragraph (2), they shall notify the nominated undertaker of the basis on which the application is granted.
+
+(5) Where the basis on which an application under sub-paragraph (2) is granted is that an alternative bridleway or footpath will be provided, the proposed stopping up shall not take place until the alternative has been provided.
+
+(6) Before making an application under sub-paragraph (2), the nominated undertaker shall publish in at least one local newspaper circulating in the relevant area a notice—
+
+(a) specifying—
+
+(i) the bridleway or footpath, or part, proposed to be stopped up,
+
+(ii) what, if any, alternative bridleway or footpath is proposed, and
+
+(iii) if no alternative is proposed, the reasons why,
+
+(b) specifying a place in the relevant area where a map or plan illustrating the proposals may be inspected by any person free of charge at all reasonable hours during a period of 28 days from the date of publication of the notice (“the publication date”),
+
+(c) stating that any person may within that period make representations about confirmation under sub-paragraph (2) of the proposed stopping up, and
+
+(d) specifying the manner in which such representations may be made.
+
+(7) Not later than the publication date, the nominated undertaker shall—
+
+(a) serve a copy of the notice, together with any map or plan to which it refers, on every local authority whose area includes any of the land on which the bridleway or footpath, or part, proposed to be stopped up is situated, and
+
+(b) cause a copy of the notice to be displayed in a prominent position at the ends of the bridleway or footpath, or part, proposed to be stopped up.
+
+(8) Before granting an application under sub-paragraph (2), the appropriate Ministers shall consider any representations made to them in accordance with the nominated undertaker's notice which have not been withdrawn.
+
+(9) Unless they direct otherwise, the appropriate Ministers' functions in relation to an application under sub-paragraph (2) shall, instead of being carried out by them, be carried out by a person appointed by them for the purpose.
+
+(10) In sub-paragraph (6), references to the relevant area are to the area in which the bridleway or footpath, or part, proposed to be stopped up is situated.
+
+(11) In sub-paragraph (7)(a), “local authority” means—
+
+(a) the council of a county, district, parish or London borough,
+
+(b) the Common Council of the City of London,
+
+[[^F15](c) the London Fire Commissioner,]
+
+(d) a joint authority established by Part 4 of the Local Government Act 1985 (c. 51),
+
+(e) a housing action trust established under Part 3 of the Housing Act 1988 (c. 50), and
+
+(f) the parish meeting of a rural parish not having a separate parish council.
+
+(12) In this paragraph, references to the appropriate Ministers are to the Secretary of State for Environment, Food and Rural Affairs and the Secretary of State for Transport and, in relation to the carrying out of any functions, are to those Ministers acting jointly.
+
+**3** (1) On a highway or part of a highway being stopped up under paragraph 1 or 2—
+
+(a) all rights of way over or along it shall be extinguished, and
+
+(b) the Secretary of State may appropriate and use, without making any payment, so much of the site of it as is bounded on both sides by land which he owns.
+
+(2) The nominated undertaker shall compensate any person who suffers loss by the extinguishment under this paragraph of a private right of way.
+
+(3) Any dispute as to a person's entitlement to compensation under sub-paragraph (2), or as to the amount of such compensation, shall be determined under and in accordance with Part 1 of the Land Compensation Act 1961 (c. 33).
+
+(4) The Secretary of State shall not be entitled to any mines or minerals under land which he is entitled to appropriate and use under sub-paragraph (1)(b), with the exception of minerals necessarily extracted or used in the construction of the undertaking which the nominated undertaker is authorised to carry on by this Act.
+
+(5) Part 3 of Schedule 2 to the Acquisition of Land Act 1981 (c. 67) (regulation of the working of mines or minerals underlying an authorised undertaking) shall apply in relation to the working of any mines or minerals underlying land which the Secretary of State is entitled to appropriate and use under sub-paragraph (1)(b) with the following modifications—
+
+(a) references to the undertaking shall be construed as references to the undertaking which the nominated undertaker is authorised to carry on by this Act,
+
+(b) in paragraphs 3 to 5 and 7 to 9, references to the acquiring authority shall be construed as references to the nominated undertaker, and
+
+(c) in paragraph 6, the first of the references to the acquiring authority shall be construed as a reference to the nominated undertaker.
+
+### Permanent obstruction
+
+**4** (1) The powers conferred by paragraph 1 or 4 of Schedule 2 may be exercised in such a way as to obstruct the highway, but only with the consent of the highway authority, such consent not to be unreasonably withheld.
+
+(2) Any dispute with a highway authority under sub-paragraph (1) shall, if the parties agree, be referred to arbitration, but shall otherwise be determined by the Secretary of State.
+
+(3) If a highway authority which receives an application for consent under sub-paragraph (1) fails to notify the applicant of its decision on the application before the end of the period of 28 days beginning with the date on which the application was made, it shall be deemed to have granted it.
+
+### Temporary interference
+
+**5** (1) For the purposes of the works authorised by this Act, the nominated undertaker may—
+
+(a) temporarily stop up or alter or divert any highway or part of a highway,
+
+(b) for any reasonable time divert traffic from, and prevent persons passing along, any highway or part of a highway, and
+
+(c) break up or interfere with any highway or part of a highway (including any sewer, drain or tunnel in it).
+
+(2) The nominated undertaker shall provide reasonable access for pedestrians going to or from premises abutting on a highway affected by the exercise of the powers conferred by sub-paragraph (1) if there would otherwise be no such access.
+
+(3) Before exercising the powers conferred by sub-paragraph (1) in relation to a highway and to an extent specified in the following table, the nominated undertaker shall consult the highway authority about the exercise of the powers.
+
+|  |  |  |
+|---|---|---|
+| *(1)* | *(2)* | *(3)* |
+| *Area* | *Highway or part to be stopped up* | *Extent of temporary stopping up* |
+| City of Westminster | Westbourne Park Passage | Between points T1 and T2 |
+|  | Harrow Road | Between points T1 and T2 |
+|  | Westbourne Park Villas | Between points T3 and T4 |
+|  | Bishop's Bridge Road | Within the relevant limits |
+|  | Eastbourne Terrace | Entire length |
+|  | Cleveland Terrace | Within the relevant limits |
+|  | Chilworth Street | Within the relevant limits |
+|  | South Wharf Road | Within the relevant limits |
+|  | Praed Street | Within the relevant limits |
+|  | Craven Road | Within the relevant limits |
+|  | Westbourne Terrace | Within the relevant limits |
+|  | Chilworth Mews | Entire length |
+|  | Eastbourne Mews | Entire length |
+|  | Spring Street | Between points T1 and T2 |
+|  | Bayswater Road | Between points T1 and T2 |
+|  | Park Lane | Between points T4 and T5 on Sheet No. 8 of the deposited Plans and points T5 and T6 on Sheet No. 42 of the deposited Plans |
+|  | Pedestrian subway between western and eastern sides of Park Lane | Between points T1, T2 and T3 |
+|  | Weighhouse Street | Between points T1 and T2 |
+|  | Gilbert Street | Between points T1 and T3 |
+|  | St. Anselm's Place | Entire length |
+|  | Davies Street | Within the relevant limits |
+|  | South Molton Lane | Between points T4 and T5 |
+|  | Stratford Place | Within the relevant limits |
+|  | Marylebone Lane | Within the relevant limits |
+|  | Dering Street | Within the relevant limits |
+|  | New Bond Street | Within the relevant limits |
+|  | Brook Street | Within the relevant limits |
+|  | Tenterden Street | Entire length |
+|  | Hanover Square | Entire length |
+|  | Princes Street | Within the relevant limits |
+|  | St George Street | Within the relevant limits |
+|  | Wardour Street | Between points T5 and T6 |
+|  | Hollen Street | Within the relevant limits |
+|  | Sheraton Street | Within the relevant limits |
+|  | Oxford Street | Within the relevant limits |
+|  | Newman Street | Within the relevant limits |
+|  | Great Chapel Street | Entire length |
+|  | Diadem Court | Entire length |
+|  | Fareham Street | Entire length |
+|  | Dean Street | Within the relevant limits |
+|  | Soho Square | Between points T1 and T2 |
+|  | Carlisle Street | Entire length |
+|  | Falconberg Mews | Entire length |
+|  | Sutton Row | Entire length |
+|  | Greek Street | Within the relevant limits |
+|  | Manette Street | Entire length |
+|  | Goslett Yard | Entire length |
+| City of Westminster and London Borough of Camden | Tottenham Court Road | Within the relevant limits |
+|  | Charing Cross Road | Within the relevant limits |
+|  | St Giles Circus | Entire length |
+| London Borough of Camden | New Oxford Street | Within the relevant limits |
+|  | Earnshaw Street | Entire length |
+|  | Denmark Street | Entire length |
+|  | Denmark Place | Between points T5 and T6 |
+|  | St Giles High Street | Between points T3 and T4 |
+|  | Fisher Street | Entire length |
+|  | Southampton Row | Between points T1 and T2 |
+|  | Catton Street | Entire length |
+|  | Red Lion Square | Between points T3 and T4 |
+|  | Drake Street | Between points T5 and T3 |
+| London Boroughs of Camden and Islington | Farringdon Road | Within the relevant limits |
+| City of London | Farringdon Street | Within the relevant limits |
+|  | West Smithfield | Within the relevant limits |
+|  | Snow Hill | Within the relevant limits |
+|  | Long Lane | Within the relevant limits |
+|  | Lindsey Street | Entire length |
+|  | Hayne Street | Between points T3 and P4 |
+|  | Aldersgate Street | Within the relevant limits |
+|  | Eldon Street | Entire length |
+|  | London Wall | Within the relevant limits |
+|  | Fore Street Avenue | Between points T1 and T2 |
+|  | Silk Street | Within the relevant limits |
+|  | Moor Lane | Between points T3 and T4 |
+|  | Moorfields | Entire length |
+|  | Moor Place | Entire length |
+|  | Keats Place | Entire length |
+|  | Moorgate | Within the relevant limits |
+|  | Finsbury Circus | Within the relevant limits |
+|  | Circus Place | Entire length |
+|  | Blomfield Street | Entire length |
+|  | Broad Street Avenue | Entire length |
+|  | Liverpool Street | Entire length |
+|  | Old Broad Street | Within the relevant limits |
+|  | Wormwood Street | Entire length |
+|  | Bishopsgate | Within the relevant limits |
+|  | Camomile Street | Within the relevant limits |
+|  | Grand Avenue | Within the relevant limits |
+|  | Eldon Street | Within the relevant limits |
+| London Boroughs of Islington and Camden and City of London | Charterhouse Street | Within the relevant limits |
+| London Borough of Islington and City of London | Charterhouse Square | Entire length |
+|  | Carthusian Street | Entire length |
+|  | Ropemaker Street | Within the relevant limits |
+|  | South Place | Entire length |
+| London Borough of Islington | St John Street | Within the relevant limits |
+|  | Finsbury Pavement | Within the relevant limits |
+|  | Finsbury Street | Within the relevant limits |
+|  | Fox & Knot Street | Entire length |
+|  | Turnmill Street | Within the relevant limits |
+|  | Cowcross Street | Between points P2 and T1 |
+| London Borough of Tower Hamlets | Princelet Street | Between points T1 and T2 |
+|  | Hanbury Street | Between points T3 and T4 |
+|  | Vallance Road | Between points T3 and T4 and points T5 and T6 |
+|  | Whitechapel Road | Within the relevant limits |
+|  | Spelman Street | Within the relevant limits |
+|  | Durward Street | So much as is not permanently stopped up within the extent of narrowing shown on the deposited plans |
+|  | Court Street | Between points T9 and P3 |
+|  | Castlemaine Street | Between points T7 and T8 |
+|  | Fulbourne Street | Between points P1 and T10 |
+|  | Winthrop Street | Entire length |
+|  | Brady Street | Within the relevant limits |
+|  | Stepney Green | Between points T1 and T2 and within the relevant limits |
+|  | Garden Street | T3 and P5 |
+|  | White Horse Lane | Within the relevant limits |
+|  | Stepney High Street | Within the relevant limits |
+|  | Stepney Way | Within the relevant limits |
+|  | Commercial Road | Between points T1 and T2 |
+|  | Mile End Road | Within the relevant limits |
+|  | Footpath between Cheshire Street and Fleet Street Hill | Between points T1 and T2 |
+|  | Brady Street | Within the relevant limits |
+|  | Tapp Street | Between points T5 and T6 |
+|  | Collingwood Street | Between points T7 and T8 |
+|  | Hemming Street | Between points T9 and T10 |
+|  | Cudworth Street | Between points T6, T8 and T2 |
+|  | Coventry Road | Between points T1 and T2 |
+|  | Buckhurst Street | Between points T3 and T4 |
+|  | Cambridge Heath Road | Within the relevant limits |
+|  | Braintree Street | Within the relevant limits |
+|  | Mantus Road | Between points T5 and T6 |
+|  | Globe Road | Between points T7 and T8 |
+|  | Bancroft Road | Between points T9 and T10 |
+|  | Morpeth Street | Within the relevant limits |
+|  | Longnor Road | Between points T1 and T2 |
+|  | Grove Road | Within the relevant limits |
+|  | Burdett Road | Within the relevant limits |
+|  | Eleanor Street | Within the relevant limits |
+|  | Rounton Road | Between points T3 and T4 |
+|  | Wick Lane | Within the relevant limits |
+|  | Wrexham Road | Between points T9 and T10 |
+|  | Blackwall Tunnel Northern Approach Road | Between points T3 and T4, points T5 and T6, points T7 and T8 and points T11 and T12 |
+|  | Bow Road | Between points T12 and T13 |
+|  | Payne Road | Between points T11 and T13 |
+|  | West India Dock Road | Between points T1 and T2 |
+| London Borough of Newham | Lower Lea Crossing | Between points T1 and T2 |
+|  | Victoria Dock Road | Between points T1, T2 and T3 |
+|  | Freemasons Road | Within the relevant limits |
+|  | North Woolwich Road | Within the relevant limits |
+|  | Footpath FP 108 between Festoon Way and Connaught Bridge | Between points T1 and T2 and points T3 and T4 |
+|  | Footpath between Connaught Road and Factory Road | Within the relevant limits |
+|  | Connaught Bridge | Within the relevant limits |
+|  | Connaught Road | Within the relevant limits |
+|  | Albert Road | Within the relevant limits |
+|  | Factory Road | Within the relevant limits |
+|  | Store Road | Entire length |
+|  | Pier Road | Within the relevant limits |
+|  | Bankside footpath on the eastern side of the River Lea | Within the relevant limits |
+|  | Barbers Road / Cook's Road | Between points T3 and P1 |
+|  | Pudding Mill Lane | Between points T4 and P3 and points P4 and T5 |
+|  | Footpath (Greenway) adjacent to Marshgate Lane on northern side of the railway | Between points T6 and T7 and points T6 and T8 |
+|  | Footpath adjacent to City Mill River | Between points T9 and T11 |
+|  | Footpath (Greenway) on eastern side of City Mill River | Between points T12 and T13 and points P13, T10 and T13 |
+|  | Marshgate Lane | Between points T1 and T2 |
+|  | Manor Park Road | Between points T1 and T2 |
+|  | Lugg Approach | Within the relevant limits |
+|  | Goodmayes Road | Within the relevant limits |
+| London Borough of Greenwich | Warren Lane | Within the relevant limits |
+|  | Beresford Street | Within the relevant limits |
+|  | Plumstead Road | Within the relevant limits |
+|  | Gunning Street | Within the relevant limits |
+|  | Reidhaven Road | Within the relevant limits |
+|  | White Hart Road | Within the relevant limits |
+|  | Marmadon Road | Within the relevant limits |
+|  | Church Manor Way | Within the relevant limits |
+|  | Mottisfont Road | Within the relevant limits |
+|  | Bostall Manorway | Within the relevant limits |
+| London Boroughs of Greenwich and Bexley | Felixstowe Road | Within the relevant limits |
+|  | Harrow Manorway | Within the relevant limits |
+| London Borough of Bexley | Wilton Road | Within the relevant limits |
+|  | Florence Road | Within the relevant limits |
+|  | Fendyke Road | Within the relevant limits |
+|  | Alsike Road | Within the relevant limits |
+|  | Footpath FP 3 adjacent to River Thames at Manor Wharf, Belvedere | Between points T1, T2 and T3 and points T4 and T2 |
+|  | Footpath FP 4 between Norman Road and the footpath FP 3 adjacent to River Thames at Manor Wharf, Belvedere | Between points T4 and T5 and points T6 and T7 |
+| London Borough of Redbridge | Goodmayes Road | Within the relevant limits |
+| London Borough of Barking & Dagenham | Valence Avenue | Within the relevant limits |
+|  | Saville Road | Within the relevant limits |
+| London Boroughs of Barking & Dagenham and Havering | Crow Lane | Within the relevant limits |
+| London Borough of Havering | Nursery Walk and FP 127 | Within the relevant limits |
+|  | London Road | Within the relevant limits |
+|  | Jutsums Lane | Within the relevant limits |
+|  | Footpath FP 123 within Jutsums Recreational Ground | Within the relevant limits |
+|  | Cambridge Avenue | Between points T1 and T2 |
+|  | Oldchurch Road | Within the relevant limits |
+|  | Waterloo Road | Within the relevant limits |
+|  | Exchange Street | Within the relevant limits |
+|  | Havanna Close | Within the relevant limits |
+|  | Eastern Road | Within the relevant limits |
+|  | Atlanta Boulevard | Within the relevant limits |
+|  | Footpath FP 128 between Exchange Street and The Battis | Between points T1 and T2 |
+|  | South Street | Within the relevant limits |
+|  | Crossways | Within the relevant limits |
+|  | Upper Brentwood Road | Within the relevant limits |
+|  | Southend Arterial Road Footway | Within the relevant limits |
+|  | Station Road | Within the relevant limits |
+| County of Essex, Borough of Brentwood | Hunter Avenue | Within the relevant limits |
+|  | Alexander Lane | Within the relevant limits |
+| County of Essex, District of Basildon | Footpath FP 136 between the Meads and Terminus Drive | Within the relevant limits |
+| County of Berkshire, Royal Borough of Windsor & Maidenhead | Silco Drive | Within the relevant limits |
+|  | Shoppenhanger's Road | Between points T1 and T2 |
+|  | Station Approach | Within the relevant limits |
+| County of Berkshire, Borough of Slough | Burnham Lane | Within the relevant limits |
+|  | Dover Road | Within the relevant limits |
+|  | Leigh Road | Between points T1 and T2 |
+|  | Farnham Road (A355) | Between points T1 and T2 |
+|  | Stoke Poges Lane | Within the relevant limits |
+|  | Footpath and steps within Salt Hill Pleasure Grounds | Within the relevant limits |
+|  | William Street | Within the relevant limits |
+|  | Wexham Road | Within the relevant limits |
+|  | Uxbridge Road | Within the relevant limits |
+|  | Middlegreen Road | Between points T1 and T2 |
+|  | St. Mary's Road | Within the relevant limits |
+|  | Trenches Bridge footpath (FP 47a) and cycleway | Within the relevant limits |
+|  | Hollow Hill Lane | Within the relevant limits |
+|  | Market Lane | Within the relevant limits |
+| County of Buckinghamshire, District of South Bucks, Parish of Iver | Bathurst Walk | Within the relevant limits |
+|  | Footpath FP 16 between Colne Valley Way and Court Lane | Within the relevant limits |
+| London Borough of Hillingdon | Weirside Gardens | Within the relevant limits |
+|  | Horton Bridge Road | Between points T1 and PI |
+|  | Kingston Lane | Between points T2 and P2 |
+|  | Stockley Road | Between points T1 and T2 |
+|  | Station Road, Hayes | Within the relevant limits |
+|  | Subway between Blyth Road and Station Approach | Between points T1 and T2 |
+|  | Station Approach | Entire length |
+|  | Keith Road | Within the relevant limits |
+|  | Nestle's Avenue | Within the relevant limits |
+| London Borough of Ealing | Footpath FP 112 between Park Avenue and Merrick Road | Within the relevant limits |
+|  | Golden Manor | Within the relevant limits |
+|  | Alwyne Road | Within the relevant limits |
+|  | Manor Road | Within the relevant limits |
+|  | Haven Green | Within the relevant limits |
+|  | The Mall | Within the relevant limits |
+|  | Noel Road | Within the relevant limits |
+|  | Twyford Avenue | Within the relevant limits |
+|  | Oakley Avenue | Within the relevant limits |
+|  | Horn Lane | Within the relevant limits |
+
+(4) The purpose of consultation under sub-paragraph (3) shall be to ensure public safety and, so far as reasonably practicable, to reduce public inconvenience.
+
+(5) Before exercising the powers conferred by sub-paragraph (1) in relation to a highway, or to an extent, not specified in the table in sub-paragraph (3), the nominated undertaker shall obtain the consent in writing of the highway authority.
+
+(6) Consent under sub-paragraph (5) shall not be unreasonably withheld, but may be given subject to such conditions as the highway authority may reasonably require in the interest of public safety or convenience.
+
+(7) If a highway authority which receives an application for consent under sub-paragraph (5) fails to notify the applicant of its decision on the application before the end of the period of 28 days beginning with the date on which the application was made, it shall be deemed to have granted the application.
+
+(8) Sub-paragraph (7) shall have effect in relation to an application for consent which relates to a GLA side road (within the meaning of the Road Traffic Regulation Act 1984 (c. 27)) or a road which is designated under section 60(1) or 61(1) of the Traffic Management Act 2004 (c. 18) (roads in Greater London which are strategic roads) with the substitution for “28” of “ 42 ”.
+
+(9) Any dispute with a highway authority about consent under sub-paragraph (5) shall, if the parties agree, be referred to arbitration, but shall otherwise be determined by the Secretary of State.
+
+(10) It is hereby declared for the avoidance of doubt that there is no need to reinstate a highway or part of a highway in relation to which any of the powers conferred by sub-paragraph (1) has been exercised where the exercise of the power comes to an end on the exercise, in relation to the highway or part, of the power conferred by paragraph 1(1) or 2(1).
+
+### Working sites in highways
+
+**6** Any highway or part of a highway which is stopped up under paragraph 5(1)(a) may be used as a working site if it is within the limits of deviation for the scheduled works or within the limits of land to be acquired or used.
+
+### Street works
+
+**7** (1) The nominated undertaker may, for the purposes of the works authorised by this Act, enter upon any highway within the limits of deviation for the scheduled works or within the limits of land to be acquired or used and—
+
+(a) place, maintain or alter, or change the position of, apparatus in it,
+
+(b) remove apparatus from it, and
+
+(c) execute any works required for, or incidental to, any works authorised by paragraph (a) or (b).
+
+(2) In this paragraph, “apparatus” has the same meaning as in Part 3 of the New Roads and Street Works Act 1991 (c. 22).
+
+**8** (1) Works to which sub-paragraph (2) below applies shall be treated for the purposes of Part 3 of the New Roads and Street Works Act 1991 (street works) as major transport works if—
+
+(a) they are of a description mentioned in any of paragraphs (a), (c) to (e), (g) and (h) of section 86(3) of that Act (which defines what highway authority works are major highway works), or
+
+(b) they are works which, had they been executed under the powers of the highway authority, might have been carried out in exercise of the powers conferred by section 64 (dual carriageways and roundabouts) or 184 (vehicle crossings over footways and verges) of the Highways Act 1980 (c. 66).
+
+(2) This sub-paragraph applies to any works executed under this Act in relation to a highway which consists of or includes a carriageway, other than those executed under power delegated to a highway authority by an agreement under paragraph 14(2) below.
+
+### Construction
+
+**9** (1) Where under this Act the nominated undertaker—
+
+(a) constructs a new highway, or
+
+(b) alters a highway, otherwise than by carrying out street works within the meaning of Part 3 of the New Roads and Street Works Act 1991,
+
+the construction or alteration shall be completed to the reasonable satisfaction of the highway authority.
+
+(2) Where work to which sub-paragraph (1) applies has been completed to the reasonable satisfaction of a highway authority, it shall certify that fact in writing to the nominated undertaker.
+
+(3) If the nominated undertaker requests a highway authority to issue a certificate under sub-paragraph (2) and the highway authority does not before the end of the period of 28 days beginning with the date on which the request was made—
+
+(a) issue a certificate under that sub-paragraph, or
+
+(b) notify the nominated undertaker of its decision to refuse to issue such a certificate,
+
+it shall be deemed to have issued such a certificate at the end of that period.
+
+(4) Any dispute with a highway authority under this paragraph shall, if the parties agree, be referred to arbitration, but shall otherwise be determined by the Secretary of State.
+
+**10** (1) Sub-paragraph (2) applies where under this Act the nominated undertaker—
+
+(a) realigns a highway which is constituted by or comprises a carriageway, or
+
+(b) constructs a new highway which is constituted by or comprises a carriageway.
+
+(2) The realignment, or construction, shall be carried out in accordance with plans, sections and specifications approved by the highway authority at the request of the nominated undertaker, such approval not to be unreasonably withheld.
+
+(3) Any dispute with a highway authority under sub-paragraph (2) shall, if the parties agree, be referred to arbitration, but shall otherwise be determined by the Secretary of State.
+
+(4) If, on application by the nominated undertaker for the approval of plans, sections or specifications under sub-paragraph (2), the highway authority fails to notify the nominated undertaker of its decision on the application before the end of the period of 28 days beginning with the date on which the application was made, it shall be deemed to have approved the plans, sections or specifications as submitted.
+
+### Maintenance
+
+**11** (1) Sub-paragraph (2) applies where under this Act the nominated undertaker—
+
+(a) constructs a new highway, or
+
+(b) alters a highway, otherwise than by carrying out street works within the meaning of Part 3 of the New Roads and Street Works Act 1991 (c. 22).
+
+(2) Unless otherwise agreed between the nominated undertaker and the highway authority, the new or altered highway shall be maintained by and at the expense of the nominated undertaker for a period of 12 months from the later of—
+
+(a) the date of practical completion, and
+
+(b) the date on which it is first open for public use;
+
+and after the end of that period shall be maintained by and at the expense of the highway authority.
+
+(3) Where in relation to a highway to which sub-paragraph (2) applies the highway authority is satisfied that the highway is practically complete or is open for public use, it shall, at the request of the nominated undertaker, certify to it in writing the date of practical completion of the highway or, as the case may be, the date on which it was first open for public use.
+
+(4) If the highway authority refuses a request to issue a certificate under sub-paragraph (3), or if the nominated undertaker disputes the date given in a certificate under that sub-paragraph, the matter shall, if the parties agree, be referred to arbitration, but shall otherwise be determined by the Secretary of State.
+
+(5) For the purposes of sub-paragraph (2), the date of practical completion of a highway, or the date on which it is first open for public use, shall be taken to be—
+
+(a) where the date has been determined under sub-paragraph (4), the date so determined, and
+
+(b) where it has not, the date certified under sub-paragraph (3).
+
+(6) Sub-paragraph (2) shall not have effect to impose any obligation in relation to—
+
+(a) the structure of any bridge carrying a highway over any railway of the nominated undertaker, or
+
+(b) the structure of any tunnel carrying a highway under any such railway.
+
+(7) Nothing in this paragraph shall prejudice the operation of section 87 of the New Roads and Street Works Act 1991 (c. 22).
+
+**12** Notwithstanding anything in section 46 of the Railways Clauses Consolidation Act 1845 (c. 20), as incorporated with this Act, the nominated undertaker shall not be liable to maintain the surface of any highway under or over which the scheduled works shall be constructed, or the immediate approaches to any such highway.
+
+### Bridges carrying highways
+
+**13** Each of sections 116 and 117 of the Transport Act 1968 (c. 73) (duties as respects bridges carrying highways over railways) shall apply as if the nominated undertaker were one of the boards mentioned in that section.
+
+### Agreements with highway authorities etc.
+
+**14** (1) Where under this Schedule the nominated undertaker is authorised to stop up or interfere with an existing highway or part of an existing highway, it may enter into agreements with the persons having the charge, management or control of the highway concerning the construction (or contribution towards the expenses of construction) of—
+
+(a) any new highway to be provided in substitution,
+
+(b) any alteration of the existing highway, and
+
+(c) any other related matters.
+
+(2) The nominated undertaker may, by agreement with any such persons, delegate to them the power of constructing any such new highway or any such alteration of an existing highway, including any bridge over any railway, and, where the nominated undertaker is responsible for maintaining the new or altered highway (or bridge), the power to maintain it.
+
+### Use of subsoil
+
+**15** (1) The nominated undertaker may enter upon, take and use for the purposes of the works authorised by this Act so much of the subsoil of any highway within the limits of deviation for the scheduled works or within the limits of land to be acquired or used as shall be required for the purpose of the construction or maintenance of those works, without being required to acquire that subsoil or any interest in it.
+
+(2) The power conferred by sub-paragraph (1) shall not be exercisable in relation to the subsoil of a highway within the limits of land to be acquired or used, but outside the limits of deviation for the scheduled works, if the highway is comprised in land specified in the following table.
+
+|  |  |
+|---|---|
+| *(1)* | *(2)* |
+| *Area* | *No. on deposited plans* |
+| City of Westminster | 30d, 38, 81, 85, 112, 115, 117, 120, 121, 213, 218, 340, 341, 416, 417, 419, 420, 423, 447, 448, 449, 453, 454, 455, 548, 549, 549a, 551, 566, 595, 598, 600, 666, 684, 685, 689, 690 and 691 |
+| London Borough of Camden | 1, 3, 5, 7, 10, 11, 13, 30, 31, 32, 153, 154, 155, 279, 281, 282 and 283 |
+| London Borough of Islington | 1, 3, 4, 13, 24, 25, 34, 90, 92, 93, 94, 95 and 99 |
+| City of London | 1, 2, 3, 4, 7, 8, 9, 17, 18, 20, 34, 36, 52, 53, 55a, 71, 72, 73, 74, 80a, 81, 101, 102, 103, 108, 113, 115, 125, 136, 138, 143, 159, 160 and 161 |
+| London Borough of Tower Hamlets | 224, 224a, 225, 225b, 227a, 250, 252, 252a, 252b, 269, 280, 281, 290, 293, 294, 391, 393, 396, 398, 664, 820, 988, 990, 991, 993, 1135, 1145, 1247c, 1295, 1412a, 1413a, 1421, 1421b, 1423a, 1445 and 1446 |
+| London Borough of Newham | 8, 76, 155, 164, 189, 193, 205, 206, 258, 259, 260, 278, 288, 366, 379, 565, 619 and 670 |
+| London Borough of Greenwich | 3, 5, 15, 31e, 35a, 100, 101, 104, 109, 125, 125a, 130, 138, 144, 155, 159, 164, 169, 173, 182, 187 and 227 |
+| London Borough of Bexley | 28, 64 and 68 |
+| London Borough of Redbridge | 26 and 41 |
+| London Borough of Barking & Dagenham | 17 and 18 |
+| London Borough of Havering | 2, 11, 12, 24, 105, 117, 120, 134, 138, 140, 149, 154, 164 and 194 |
+| Borough of Brentwood | 24 and 52 |
+| District of Basildon | 13 and 14 |
+| Borough of Slough | 14, 20, 22, 23, 32, 53, 56, 60, 113, 162, 168 and 253a |
+| London Borough of Hillingdon | 97, 98, 115, 116 and 211b |
+| London Borough of Ealing | 9, 62, 62a, 88, 125, 144, 159, 160, 164, 177, 183 and 186 |
+
+(3) In the case of a highway comprised in land specified in the table in columns (1) and (2) of the table in paragraph 10 of Schedule 6, the power conferred by sub-paragraph (1) shall only be exercisable in relation to so much of the subsoil of the highway as falls within the description specified in relation to the land in column (3) of the table.
+
+(4) In the case of a highway comprised in land specified in the table in paragraph 11(1) of Schedule 6, the power conferred by sub-paragraph (1) shall only be exercisable in relation to so much of the subsoil of the highway as lies more than 9 metres beneath the level of the surface of the highway.
+
+(5) For the avoidance of doubt, it is hereby declared that the restrictions imposed by sub-paragraphs (2), (3) and (4) on the power conferred by sub-paragraph (1) do not affect the power conferred by paragraph 7(1).
+
+## SCHEDULE 4 — Overhead lines: consent
+
+*Section 4*
+
+### Scope of Schedule
+
+**1** This Schedule applies to any electric line to which section 37(1) of the Electricity Act 1989 (c. 29) would apply, but for section 4.
+
+### Consent requirement
+
+**2** (1) An electric line to which this Schedule applies shall not be installed or kept installed above ground except in accordance with a consent granted by the appropriate Ministers.
+
+(2) Any person who without reasonable excuse contravenes the provisions of sub-paragraph (1) shall be liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+(3) No proceedings shall be instituted in respect of an offence under this paragraph except by or on behalf of the Secretary of State.
+
+### Applications for consent
+
+**3** (1) An application for consent under this Schedule shall be in writing and shall state—
+
+(a) the length of the electric line to which it relates,
+
+(b) the nominal voltage of that line, and
+
+(c) whether the application to any extent relates to exercise of the power conferred by paragraph 3 of Schedule 2.
+
+(2) An application for consent under this Schedule shall be accompanied by a map showing—
+
+(a) the land across which the electric line to which it relates is to be installed or kept installed, including details of the route of that line,
+
+(b) the limits of deviation for the scheduled works and the limits of land to be acquired or used, so far as relevant to the application, and
+
+(c) if the application to any extent relates to exercise of the power conferred by paragraph 3 of Schedule 2, the extent to which it so relates.
+
+**4** An application for consent under this Schedule shall be supplemented, if the appropriate Ministers so direct in writing, by such additional information as may be specified in the direction.
+
+### Publicity
+
+**5** (1) A person applying for consent under this Schedule shall publish notice of the application in two successive weeks in one or more local newspapers circulating in the area in which the land to which the application relates is situated (or in areas which together include that area).
+
+(2) A notice under sub-paragraph (1) shall—
+
+(a) describe the route of the electric line to which the application relates,
+
+(b) specify a place in the locality where a copy of the application may be inspected,
+
+(c) state a time (not being less than 14 days from the date of publication) within which, and the manner in which, objections to the application may be made to the appropriate Ministers, and
+
+(d) if it relates to an application by the nominated undertaker, explain the effect of paragraph 8(2)(b).
+
+(3) Sub-paragraph (1) shall not apply to an application for consent under this Schedule which relates only to exercise of the power conferred by paragraph 3 of Schedule 2.
+
+(4) If an application for consent under this Schedule relates partly to exercise of the power conferred by paragraph 3 of Schedule 2, so much of the application as relates to exercise of that power shall be disregarded for the purposes of sub-paragraphs (1) and (2).
+
+(5) If an application for consent under this Schedule is one in relation to which the applicant is subject to a duty under sub-paragraph (1), the appropriate Ministers shall not make any decision about the application until they are satisfied—
+
+(a) that the applicant has performed his duty under that provision, and
+
+(b) that the time allowed by the notice under that provision for making objections to the application has expired.
+
+### Consultation
+
+**6** (1) Within 14 days of receiving an application for consent under this Schedule, the appropriate Ministers shall invite the relevant planning authority to make representations and shall not make any decisions about the application until—
+
+(a) they have received representations from the authority about it,
+
+(b) they have been informed by the authority that it does not wish to make any representations about it, or
+
+(c) 28 days have elapsed since the date of the invitation.
+
+(2) An invitation under sub-paragraph (1) shall specify the time limit for making representations.
+
+(3) For the purposes of this paragraph, the relevant planning authority is—
+
+(a) in the case of a line in the area of a unitary authority, the local planning authority, and
+
+(b) in the case of a line not in the area of a unitary authority, the district planning authority.
+
+**7** (1) If the appropriate Ministers consider that an application for consent under this Schedule relates to matters which may affect—
+
+(a) nature conservation,
+
+(b) the conservation of the natural beauty or amenity of the countryside, or
+
+(c) a site of archaeological or historic interest,
+
+they shall, within 14 days of receiving the application, also invite the appropriate body or bodies to make representations.
+
+(2) Where under sub-paragraph (1) the appropriate Ministers have invited a body to make representations about an application for consent under this Schedule, they shall not make any decision about the application until—
+
+(a) they have received representations from the body about the request,
+
+(b) they have been informed by the body that it does not wish to make any representations about the request, or
+
+(c) 14 days have elapsed since the date of the invitation.
+
+(3) An invitation under sub-paragraph (1) shall specify the time limit for making representations.
+
+(4) For the purposes of this paragraph, the following are appropriate bodies in relation to the following matters—
+
+|  |  |
+|---|---|
+| *Matter* | *Body* |
+| Nature conservation. | Natural England. |
+| Conservation of the natural beauty or amenity of the countryside. | Natural England. |
+| Sites of archaeological or historic interest. | The Historic Buildings and Monuments Commission for England. |
+
+### Grant of consent
+
+**8** (1) This paragraph applies to an application for consent under this Schedule by the nominated undertaker.
+
+(2) An application to which this paragraph applies may only be refused—
+
+(a) to the extent that it relates to exercise of the power conferred by paragraph 3 of Schedule 2, on the ground that the electric line ought to, and could reasonably, be installed elsewhere within the limits specified, in relation to the diversion concerned, in the third column of the table in paragraph 3 of Schedule 2, and
+
+(b) to the extent that it does not relate to the exercise of that power, on the ground that the electric line ought to, and could reasonably, be installed elsewhere within the limits of deviation for the scheduled works or within the limits of land to be acquired or used.
+
+**9** A consent under this Schedule may include such conditions (including conditions as to the ownership and operation of the electric line to which it relates) as appear to the appropriate Ministers to be appropriate.
+
+### Variation and revocation of consent
+
+**10** (1) A consent under this Schedule may be varied or revoked by the Secretary of State at any time after the end of such period as may be specified in the consent.
+
+(2) The period which may be specified under sub-paragraph (1) shall not be less than 10 years from the date of installation of the electric line to which the consent relates.
+
+### Duration of consent
+
+**11** Subject to paragraph 10, a consent under this Schedule shall continue in force for such period as may be specified in or determined by or under the consent.
+
+### Interpretation
+
+**12** In this Schedule, references to the appropriate Ministers are to [[^F16]the Secretary of State for Energy Security and Net Zero] and the Secretary of State for Transport acting jointly.
+
+## SCHEDULE 5 — Temporary possession and use of land
+
+*Section 5*
+
+### Occupation and use for construction of works
+
+**1** (1) The nominated undertaker may, in connection with the construction of the works specified in column (1) of the following table (or any works which are necessary or expedient for the purposes of or in connection with those works)—
+
+(a) enter upon and take possession of the land specified in relation to those works in columns (2) and (3) of that table for such purposes as are so specified in column (4) of that table, and
+
+(b) for such purposes as are so specified—
+
+(i) remove from the land any structure or vegetation, and
+
+(ii) construct on the land temporary works (including the provision of means of access) and structures.
+
+|  |  |  |  |
+|---|---|---|---|
+| *(1)* | *(2)* | *(3)* | *(4)* |
+| *Works* | *Area* | *Number of land shown on deposited plans* | *Purpose for which temporary possession may be taken* |
+| 1/3A and 1/3B | City of Westminster | 217 | The provision of a working site. |
+| 1/3A and 1/3B |  | 451 | The provision of a working site. |
+| 1/3A and 1/3B |  | 692 | The provision of a working site. |
+| 1/9D |  | 30c | The provision of a working site. |
+| 1/3A and 1/3B | City of London | 104a and 104b | The provision of a working site. |
+| 1/3A and 1/3B |  | 104c | The provision of a working site. |
+| Proposed Whitechapel Station comprised in Works Nos. 1/3A and 1/3B | London Borough of Tower Hamlets | 245b | The provision of access for construction. |
+| Any of the works authorised by this Act | London Borough of Tower Hamlets | 972 and 976 | The provision of access and a working site. |
+| Any of the works authorised by this Act |  | 753, 774, 775, 788, 789 and 796 | The provision of access and barge loading facilities. |
+| 1/7, 1/33A and 1/33B | London Borough of Greenwich | 160, 165 and 170 | The provision of a working site. |
+| Any of the works authorised by this Act | London Borough of Bexley | 83a | The provision of a working site. |
+| The provision of overhead electrification equipment and works to Maidenhead Bridge | Royal Borough of Windsor & Maidenhead | 62 and 72 | The provision of a working site and access for construction. |
+| 3/3A | Borough of Slough | 81 | The provision of access and a working site. |
+| 3/6 |  | 172 and 173 | The provision of a working site. |
+| 3/7A and 3/7B |  | 187 | The provision of a working site. |
+| The provision and renewal of railway systems and station facilities for operational purposes (Ealing Broadway Station) | London Borough of Ealing | 111 | The provision of a working site. |
+
+(2) Not less than 28 days before entering upon and taking possession of land under this paragraph, the nominated undertaker shall give notice to the owners and occupiers of the land of its intention to do so.
+
+(3) The nominated undertaker may not remain in possession of any land under this paragraph after the end of the period of one year beginning with the date of completion of the works specified in relation to the land in column (1) of the table in sub-paragraph (1) unless the owners of the land agree.
+
+(4) The nominated undertaker shall pay compensation to the owners and occupiers of land of which possession is taken under this paragraph for any loss which they may suffer by reason of the exercise in relation to the land of the power or powers conferred by this paragraph.
+
+(5) Any dispute as to a person's entitlement to compensation under sub-paragraph (4), or as to the amount of compensation, shall be determined under and in accordance with Part 1 of the Land Compensation Act 1961 (c. 33).
+
+(6) Nothing in this paragraph shall affect any liability to pay compensation under section 10(2) of the Compulsory Purchase Act 1965 (c. 56), as applied to the acquisition of land under section 6(1), or under any other enactment, otherwise than for loss for which compensation is payable under sub-paragraph (4).
+
+(7) In this paragraph, “structure” includes any erection.
+
+**2** (1) Before giving up possession of land of which possession has been taken under paragraph 1, the nominated undertaker shall, in accordance with a scheme agreed with the owners of the land and the relevant planning authority, put the land into such condition as the scheme may provide.
+
+(2) If, in relation to any land of which possession has been taken under paragraph 1, no scheme has been agreed for the purposes of this paragraph within 6 months of the date of completion of the works specified in relation to the land in column (1) of the table in paragraph 1(1), the scheme shall be such as may be determined by the appropriate Ministers after consultation with the nominated undertaker, the owners of the land and the relevant planning authority.
+
+(3) Unless the owners of the land and the nominated undertaker otherwise agree, a scheme determined under sub-paragraph (2) shall provide for land to be restored to its former condition.
+
+(4) Unless the nominated undertaker otherwise agrees, a scheme determined under sub-paragraph (2) shall not provide for the nominated undertaker to replace any structure removed under paragraph 1, other than a fence.
+
+(5) Where the appropriate Ministers ask the relevant planning authority for assistance in connection with the carrying out by them of their function under sub-paragraph (2), they may require the nominated undertaker to reimburse to the planning authority any expenses which it reasonably incurs in meeting the request.
+
+(6) The duty under sub-paragraph (1) in relation to any land shall be owed separately to the owners of the land and to the relevant planning authority.
+
+(7) Where a scheme for the purposes of this paragraph provides for any step to be taken by the nominated undertaker before a specified date and that step has not been taken before that date, the relevant planning authority may—
+
+(a) enter the land concerned and take that step, and
+
+(b) require the nominated undertaker to reimburse to it any expenses which it reasonably incurs in acting under paragraph (a).
+
+(8) In this paragraph—
+
+- “appropriate Ministers” means the Secretary of State for [[^F17]Housing, Communities and Local Government] and the Secretary of State for Transport acting jointly;
+
+- “relevant planning authority” means—
+
+  - (a) in relation to land in the area of a unitary authority, the local planning authority;
+  - (b) in relation to land not in the area of a unitary authority, the district planning authority;
+
+- “structure” includes any erection.
+
+**3** (1) The nominated undertaker may use any road situated on land specified in the table in paragraph 8 of Schedule 6 for the passage of persons or vehicles (with or without materials, plant and machinery) for the purpose of or in connection with the construction of the works authorised by this Act.
+
+(2) The nominated undertaker shall compensate the person having the management of a road to which sub-paragraph (1) applies for any loss which he may suffer by reason of the exercise of the power conferred by that sub-paragraph.
+
+(3) Any dispute as to a person's entitlement to compensation under sub-paragraph (2), or as to the amount of such compensation, shall be determined under and in accordance with Part 1 of the Land Compensation Act 1961 (c. 33).
+
+### Occupation and use for maintenance of works
+
+**4** (1) At any time during the maintenance period relating to any of the scheduled works, the nominated undertaker may—
+
+(a) enter upon and take possession of any land which is—
+
+(i) within 20 metres from that work, and
+
+(ii) within the limits of deviation for the scheduled works or the limits of land to be acquired or used,
+
+if such possession is reasonably required for the purpose of or in connection with maintaining the work or any ancillary works connected with it, and
+
+(b) construct on the land such temporary works (including the provision of means of access) and structures as may be reasonably so required.
+
+(2) Sub-paragraph (1) shall not authorise the nominated undertaker to take possession of—
+
+(a) a house, any other structure which is for the time being occupied, or a garden belonging to a house,
+
+(b) land specified in the table in paragraph 8, 9, 11(1) or 12 of Schedule 6, or
+
+(c) such of the land specified in columns (1) and (2) of the table in paragraph 10 of Schedule 6 as falls outside the description specified in relation to it in column (3) of the table.
+
+(3) Not less than 28 days before entering upon and taking possession of land under this paragraph, the nominated undertaker shall give notice to the owners and occupiers of the land of its intention to do so.
+
+(4) The nominated undertaker may only remain in possession of land under this paragraph for so long as may be reasonably required to carry out the maintenance works for which possession of the land was taken.
+
+(5) Before giving up possession of land of which possession has been taken under this paragraph, the nominated undertaker shall restore the land to the reasonable satisfaction of the owners of the land.
+
+(6) The nominated undertaker shall pay compensation to the owners and occupiers of land of which possession is taken under this paragraph for any loss which they may suffer by reason of the exercise in relation to the land of the powers conferred by this paragraph.
+
+(7) Any dispute as to a person's entitlement to compensation under sub-paragraph (6), or as to the amount of the compensation, shall be determined under and in accordance with Part 1 of the Land Compensation Act 1961.
+
+(8) Nothing in this paragraph shall affect any liability to pay compensation under section 10(2) of the Compulsory Purchase Act 1965 (c. 56), as applied to the acquisition of land under section 6(1), or under any other enactment, otherwise than for loss for which compensation is payable under sub-paragraph (6).
+
+(9) In this paragraph—
+
+(a) “the maintenance period”, in relation to any work, means the period beginning with the date on which the work is completed and ending 5 years after the date on which it is brought into general use;
+
+(b) “structure” includes any erection;
+
+(c) any reference to land within a specified distance of a work includes, in the case of a work under the surface of the ground, a reference to land within the specified distance of any point on the surface below which the work is situated.
+
+### Suspension of private rights of way
+
+**5** (1) Subject to sub-paragraph (2), all private rights of way over land of which the nominated undertaker takes possession under paragraph 1 or 4 above shall be suspended and unenforceable for as long as it remains in lawful possession of the land.
+
+(2) The nominated undertaker may, in relation to a right of way, by direction provide—
+
+(a) that sub-paragraph (1) shall not apply to the right, or
+
+(b) that sub-paragraph (1) shall apply to the right only to such extent as may be specified in the direction.
+
+(3) The nominated undertaker shall compensate any person who suffers loss by reason of the suspension of any right under sub-paragraph (1).
+
+(4) Any dispute as to a person's entitlement to compensation under sub-paragraph (3), or as to the amount of the compensation, shall be determined under and in accordance with Part 1 of the Land Compensation Act 1961 (c. 33).
+
+### Enforcement
+
+**6** Section 13 of the Compulsory Purchase Act 1965 (c. 56) (refusal to give possession to acquiring authority) applies for the purposes of this Schedule as if—
+
+(a) references to the acquiring authority were references to the nominated undertaker,
+
+(b) references to compensation payable to the person refusing to give possession were references to compensation payable under this Schedule, and
+
+(c) in subsection (1) for “this Act” there were substituted “ Schedule 5 to the Crossrail Act 2008” ”.
+
+## SCHEDULE 6 — Acquisition of land shown within limits on deposited plans
+
+*Section 6*
+
+### Part 1 — Purposes for which certain land may be acquired
+
+|  |  |  |
+|---|---|---|
+| *(1)* | *(2)* | *(3)* |
+| *Area* | *Number of land shown on deposited plans* | *Purpose for which land may be acquired or used* |
+| London Borough of Hammersmith & Fulham | 2c, 3c, 4c, 5c, 9b, 9c, 9g and 9h | The provision and renewal of railway systems and depot facilities for operational purposes. |
+|  | 6, 7 and 9 | The provision and renewal of railway systems for operational purposes. |
+| Royal Borough of Kensington & Chelsea | 2c | The provision of a working site and exchange land. |
+|  | 4 | The provision of access for construction and maintenance. |
+|  | 8 to 15, 17 to 19, 21 to 23 and 26 | The provision and renewal of railway systems for operational purposes. |
+| City of Westminster | 1 and 2 | The provision of a working site and access for construction. |
+|  | 14 | The provision of a working site. |
+|  | 30 to 32, 49, 77 and 78 | The provision and renewal of railway systems for operational purposes. |
+|  | 33b, 33d, 33e and 33f | The provision of a working site and the diversion of public utilities' apparatus. |
+|  | 47, 48, 50 to 57, 61 and 69 to 71 | The provision of a working site. |
+|  | 60 | The provision of access for construction. |
+|  | 79 and 80 | The provision of a working site and access for construction. |
+|  | 88 | The provision of a working site. |
+|  | 89a and 93a | The provision of pedestrian access. |
+|  | 96, 98, 99, 102, 103, 124 and 125 | The provision and renewal of railway systems for operational purposes. |
+|  | 106 | The diversion of public utilities' apparatus. |
+|  | 114 and 119 | The diversion of public utilities' apparatus and the provision of alternative access. |
+|  | 209 | The provision of access for construction and maintenance, a working site and the diversion of public utilities' apparatus. |
+|  | 215 | The provision of a working site and the diversion of public utilities' apparatus. |
+|  | 324 | The provision and renewal of railway systems and station facilities for operational purposes. |
+|  | 324a and 324b | The provision and renewal of a ticket hall, station facilities and railway systems for operational purposes. |
+|  | 550 | The provision of a working site. |
+| London Borough of Camden | 8a | The provision of accommodation works. |
+|  | 140, 141 and 143 | The provision of a working site and access for construction. |
+| London Borough of Islington | 4 to 12 and 16 | The provision and renewal of railway systems and station facilities for operational purposes. |
+|  | 14 and 15 | The provision and renewal of railway systems and station facilities for operational purposes and the diversion of public utilities' apparatus. |
+|  | 22, 23 and 26 | The provision of a working site. |
+|  | 91 | The diversion of public utilities' apparatus. |
+|  | 98 | The provision and renewal of railway systems and station facilities for operational purposes. |
+| City of London | 5 and 6 | The provision of a working site. |
+|  | 12 | The provision and renewal of railway systems for operational purposes. |
+|  | 14 | The provision of a working site and the diversion of public utilities' apparatus. |
+|  | 75 and 90 to 92 | The provision and renewal of railway systems and station facilities for operational purposes. |
+|  | 105 | The provision of a working site. |
+|  | 116b | The provision of accommodation works. |
+|  | 124 | The provision of a working site and access for construction. |
+|  | 134 | The provision of a working site and the provision and renewal of station facilities. |
+|  | 139a and 141a | The provision and renewal of a ticket hall and station facilities. |
+|  | 133, 139, 141, 146, 150 and 151 | The provision and renewal of railway systems and station facilities for operational purposes. |
+| London Borough of Tower Hamlets | 247 | The provision of access for construction. |
+|  | 248 and 275 | The provision and renewal of railway systems and station facilities for operational purposes and the diversion of public utilities' apparatus. |
+|  | 243c and 272a | The provision and renewal of railway systems and station facilities for operational purposes and the provision of a working site. |
+|  | 240 | The provision of a working site |
+|  | 244 | The provision of a working site and access for construction and maintenance. |
+|  | 251 | The provision of accommodation works and access for construction and maintenance. |
+|  | 388, 390, 392, 399, 400 and 403 | The provision of a working site and access for construction and operational purposes. |
+|  | 580 and 587 | The provision of a working site and access for construction. |
+|  | 713 and 723 | The provision of access for construction and operational purposes. |
+|  | 712a, 713a, 713b, 713c, 714d, 714e, 714f, 717b, 722a, 727a, 732a, 735b, 737a, 737b, 738a, 739a, 765a, 767, 767a, and 770 | The provision of a working site and access for protective works. |
+|  | 714a, 714b, 714c, 765b, and 767b | The provision of ground anchors. |
+|  | 731, 732 and 739 | The provision of a working site and access for construction and operational purposes. |
+|  | 754a | The provision of access for construction. |
+|  | 768 | The provision of a working site. |
+|  | 808 | The diversion of public utilities' apparatus. |
+|  | 811 | The provision of a working site and the diversion of public utilities' apparatus. |
+|  | 844c | The provision of barge loading facilities and mitigation works. |
+|  | 870 to 872 | The provision of a working site and access for construction. |
+|  | 890, 895 to 897, 900, 901, 906, 907, 910, 911, 915, 917, 922 to 924, 927, 932, 935, 938, 942, 946, 949, 954, 957, 964 and 966 | The provision of access for construction and operational purposes. |
+|  | 1142 | The provision of a working site, access for construction and operational purposes and the diversion of public utilities' apparatus. |
+|  | 1224a | The provision of access for construction and the diversion of public utilities' apparatus. |
+|  | 1224c, 1227a, 1227b, 1229b, 1235, 1238a, 1238b, 1238c, 1242 and 1252a | The provision of a working site, the diversion of public utilities' apparatus and the reinstatement of existing Travellers' Site. |
+|  | 1247, 1247a, 1250, 1252, 1252b, 1255a and 1255b | The provision of a working site. |
+|  | 1247b | The provision of access for construction and operational purposes. |
+|  | 1294 | The provision of a working site. |
+|  | 1346c | The provision of a working site and public utilities' apparatus. |
+|  | 1346d and 1424 | The provision of access for construction and maintenance. |
+|  | 1411 and 1411a | The provision of a working site and the diversion of public utilities' apparatus. |
+|  | 1440a and 1440b | The provision of protective works for the construction of Work No. 2/8A |
+|  | 1443 | The provision of a working site. |
+| London Borough of Newham | 4 and 7 | The provision of a working site and diversion of public utilities' apparatus. |
+|  | 6d | The provision of barge loading facilities and mitigation works. |
+|  | 8a, 8c and 8d | The provision of a working site. |
+|  | 9 and 10 | The provision of access for construction and operational purposes and the diversion of public utilities' apparatus. |
+|  | 75 | The provision of a working site and diversion of public utilities' apparatus. |
+|  | 111, 112 and 115 | The provision of a working site. |
+|  | 138, 139, 146, 148, 149, 151 to 154, 158, 162, 174, 175 and 178 | The provision of a working site, access for construction and operational purposes and works to pumping station. |
+|  | 182 and 190 to 192 | The provision of a working site. |
+|  | 194 to 196 | The provision of a working site. |
+|  | 216, 217, 219 to 221, 223, 224, 233, 236 to 238, 240, 241 and 251 | The provision of a working site. |
+|  | 261, 270, 273 and 274 | The provision of a working site and the diversion of public utilities' apparatus. |
+|  | 331 | The diversion of electric high voltage underground cables. |
+|  | 330a and 330b | The provision of a working site. |
+|  | 294 to 297, 314, 316, 356, 363, 376, 381, 382 and 386 | The provision of a working site. |
+|  | 566, 578, 591 to 597, 599, 600, 604, 607, 609, 611, 612, 615 and 617 | The provision of a working site, diversion of overhead electric cables and access for construction and maintenance. |
+|  | 413, 416 and 418 | The provision of a working site. |
+|  | 610, 616, 618, 620 to 665, 671 to 683, 685 to 694 and 698 to 703 | The provision and renewal of railway systems and station facilities for operational purposes. |
+|  | 684 | The provision of access for construction and maintenance. |
+|  | 695 | The provision of access for construction and maintenance. |
+|  | 666 and 668 | The provision of access for construction and maintenance. |
+|  | 667 and 669 | The provision of a working site. |
+| London Borough of Greenwich | 30b, 30c, 31b, 31c, 32b, 39c, 39d, 39e, 39f and 44b | The provision of a working site. |
+|  | 31d, 38b and 39a | The provision of a working site and the diversion of public utilities' apparatus. |
+|  | 33a, 36a, 41a and 39g | The provision of a working site and access for construction and operational purposes. |
+|  | 85 | The provision of access for construction and operational purposes. |
+|  | 86 | The provision of access and protective works. |
+|  | 98, 105 and 112a | The provision of a working site, the diversion of public utilities' apparatus and the provision of access for construction and operational purposes. |
+|  | 103 | The diversion of public utilities' apparatus. |
+|  | 110a and 110b | The provision of access and the diversion of public utilities' apparatus. |
+|  | 112b | The provision of a working site. |
+|  | 124 and 126 | The diversion of electric high voltage underground cables and other public utilities' apparatus. |
+|  | 142, 143, 145 and 147 | The diversion of electric high voltage underground cables and other public utilities' apparatus. |
+|  | 150 | The diversion of public utilities' apparatus. |
+|  | 154 | The diversion of public utilities' apparatus. |
+|  | 180 | The provision of a working site. |
+|  | 188 and 189 | The provision of a working site and the diversion of public utilities' apparatus. |
+|  | 228 | The provision of access for construction and operational purposes. |
+| London Borough of Bexley | 62 | The provision of a working site and the diversion of public utilities' apparatus. |
+|  | 72, 74, 76 and 77 | The provision of a working site. |
+|  | 63, 65, 66 and 67 | The provision of a working site and access for construction. |
+|  | 69 to 71 | The diversion of public utilities' apparatus. |
+| London Borough of Redbridge | 1, 2, 6, 8, 13, 15, 22 to 25, 27 to 37, 42 to 68 and 70 to 85 | The provision and renewal of railway systems and station facilities for operational purposes. |
+|  | 38 | The provision of access. |
+|  | 39 and 40 | The provision of a working site and access for construction and maintenance. |
+|  | 63a and 64b | The provision of access. |
+|  | 64c | The provision of a working site, access and depot facilities. |
+|  | 69 | The provision of a working site and access for construction. |
+|  | 87a | The provision of a working site and access for construction. |
+|  | 97 | The provision of access for construction. |
+|  | 103 | The provision of a working site and access for construction and maintenance. |
+| London Borough of Barking & Dagenham | 9 to 11 | The provision and renewal of railway systems for operational purposes. |
+|  | 19 | The diversion of public utilities' apparatus. |
+|  | 22 | The provision of access and the diversion of high pressure gas pipelines. |
+| London Borough of Havering | 3 | The provision of access and the diversion of high pressure gas pipelines. |
+|  | 6 and 7 | The provision of a working site and the diversion of public utilities' apparatus. |
+|  | 9 | The provision of a working site and the diversion of high pressure gas pipelines. |
+|  | 10 | The provision of a working site and access for construction. |
+|  | 25 and 26 | The provision of a working site and the diversion of public utilities' apparatus. |
+|  | 36 and 38 | The provision of a working site, the diversion of high pressure gas pipelines, the relocation of gas pressure reduction stations and the removal of a gas holder. |
+|  | 87 | The provision of access for construction. |
+|  | 94 | The provision of a working site. |
+|  | 122, 125, 126 and 128 to 133 | The provision of access and temporary station facilities. |
+|  | 114, 115, 119, 121, 123, 124 and 127 | The provision of a working site, access for construction, the diversion of public utilities' apparatus and the provision and renewal of station facilities. |
+|  | 97 to 102, 135 to 137 and 139, 141 to 147, 150 to 153, 155 to 159, 183, 185 to 193 and 196 to 199 | The provision and renewal of railway systems and station facilities for operational purposes. |
+|  | 148 | The provision of a working site and access for construction. |
+|  | 169a | The provision of access. |
+|  | 195 | The provision of access for construction. |
+| Borough of Brentwood | 1 to 23 and 25 to 32 | The provision and renewal of railway systems and station facilities for operational purposes. |
+|  | 34 and 39 | The provision of a working site and access for construction and maintenance. |
+|  | 51 | The provision of a working site. |
+| District of Basildon | 7 to 12 | The provision of a working site. |
+| District of Tendring | 1 to 5 | The provision and renewal of railway systems and depot facilities for operational purposes. |
+| Royal Borough of Windsor & Maidenhead | 25a | The provision of a working site and access for construction. |
+|  | 39 to 41 | The provision of a working site and improvement of station facilities. |
+|  | 53 to 61 and 64 to 67 | The provision of access and renewal of railway systems for operational purposes and the diversion of public utilities' apparatus. |
+|  | 63 | The provision of access for construction and maintenance. |
+|  | 68 | The provision of access for construction. |
+|  | 69 to 71, 73 and 74 | The provision of a working area. |
+| District of South Bucks | 1 and 4 to 7 | The provision and renewal of railway systems for operational purposes and the diversion of public utilities' apparatus. |
+|  | 1a and 1b | The provision of a working area. |
+|  | 8 to 33 | The provision and renewal of railway systems and station facilities for operational purposes. |
+|  | 48 | The provision of a working site. |
+|  | 82, 83 and 85 | The provision of a working site. |
+|  | 89, 98, 99, 102, 104 to 106, 108, 110, 113 and 116 | The provision and renewal of railway systems for operational purposes. |
+|  | 91 | The provision and renewal of railway systems for operational purposes and the diversion of overhead electric cables. |
+|  | 93 | The provision of access for construction and maintenance. |
+|  | 95 | The diversion of overhead electric cables and the provision of access. |
+|  | 97 | The diversion of overhead electric cables. |
+|  | 107 and 111 | The provision of access for construction. |
+| Borough of Slough | 1 to 4, 6, 9, 11, 12, 15, 16, 22, 24, 44, 144, 157, 158, 160, 164, 167, 186, 201, 215, 220 to 224, 227 to 229, 231 to 236, 238, 239 and 243 | The provision and renewal of railway systems and station facilities for operational purposes. |
+|  | 5 | The provision of access and a working site. |
+|  | 7, 8 and 10 | The provision of a working site. |
+|  | 13 | The provision of a working site. |
+|  | 18, 19, 21, 26 and 27 | The provision of access and provision of a working site. |
+|  | 31 and 36 | The provision of a working site. |
+|  | 38 | The provision of a working site and the diversion of public utilities' apparatus. |
+|  | 49, 51, 52, 54, 55, 58 and 61 to 63 | The provision of access and a working site. |
+|  | 77 and 78 | The provision of access for construction. |
+|  | 90 and 95 | The provision of a working site. |
+|  | 138 and 141 | The provision of a working site. |
+|  | 143, 145, 149, 154, 156 and 159 | The provision of a working site. |
+|  | 161, 163, 165, 166, 170 and 171 | The provision of a working site. |
+|  | 216 | The provision of a working site. |
+|  | 225, 226, 230, 237, 240 to 251a and 259a | The provision of access and a working site. |
+|  | 252a | The provision of protective works to high pressure gas and oil pipelines and other public utilities' apparatus. |
+| London Borough of Hillingdon | 2 | The provision of access for construction. |
+|  | 88 | The diversion of public utilities' apparatus. |
+|  | 101 | The diversion of public utilities' apparatus. |
+|  | 3 to 6, 11, 13, 14, 102, 103, 119, 121, 124, 125 and 252 to 259 | The provision and renewal of railways systems for operational purposes. |
+|  | 104 and 105 | The provision and renewal of railway systems for operational purposes and the provision of environmental mitigation. |
+|  | 127, 127b, 130, 130a to 132, 134 and 135 | The provision of a working site, access for construction and maintenance and the provision of environmental mitigation. |
+|  | 118, 120, 122, 123, 126 and 136 | The provision of a working site and access for construction. |
+|  | 137 | The provision of access for construction. |
+|  | 146, 154, 157, 165, 168, 169 and 173 | The provision of a working site, access for construction and the diversion of public utilities' apparatus. |
+|  | 155, 159, 161, 162, 163, 166, 174, 175, 176, 181, 182 and 188 | The provision of a working site and the provision of environmental mitigation. |
+|  | 190 and 192 | The provision of a working site. |
+|  | 198a and 211a | The provision of access for construction. |
+|  | 200, 213 and 245 | The provision of a working site. |
+|  | 326 to 330 | The provision of access and the provision of railway systems for operational purposes. |
+| London Borough of Ealing | 1 to 8, 10 to 26, 27, 30 to 32, 34, 36 to 57, 59 to 61, 63, 67, 69, 71, 72, 84 to 86, 94 to 110, 112 to 124, 126 to 143 and 188 to 200 | The provision and renewal of railway systems and station facilities for operational purposes. |
+|  | 28, 29 and 33 | The provision of a working site and access for construction. |
+|  | 35 | The provision of a working site. |
+|  | 58 | The provision of a working site and access for construction. |
+|  | 64, 65, 66 and 68 | The provision of a working site and access for construction. |
+|  | 70 | The provision of a working site. |
+|  | 94 to 110 | The provision and renewal of railway systems for operational purposes. |
+|  | 145 and 146 | The provision of a working site and access for construction. |
+|  | 154 and 156 | The provision of a working site and the diversion of public utilities' apparatus. |
+|  | 194a, 199a and 200a | The provision and renewal of railway systems and depot facilities for operational purposes. |
+
+### Part 2 — Application of legislation relating to compulsory purchase
+
+#### Lands Clauses Consolidation Act 1845
+
+**1** The Lands Clauses Consolidation Act 1845 (c. 18) shall not apply to the acquisition of land under section 6(1) above.
+
+#### Compulsory Purchase Act 1965
+
+**2** Part 1 of the Compulsory Purchase Act 1965 (c. 56), so far as not inconsistent with this Act, shall apply to an acquisition of land under section 6(1) as it applies to a compulsory purchase to which Schedule 1 to the Acquisition of Land Act 1981 (c. 67) applies and as if this Act were a compulsory purchase order under that Act.
+
+**3** (1) In its application by virtue of paragraph 2, the Compulsory Purchase Act 1965 shall have effect with the following modifications.
+
+(2) Section 4 (time for exercise of powers of compulsory purchase) shall be omitted.
+
+(3) Section 11(1) (power to enter on and take possession of land the subject of a notice to treat after giving not less than 14 days' notice) shall have effect—
+
+(a) in a case where the notice to treat relates only to the acquisition of subsoil or under-surface of land or an easement or other right over land, with the substitution for “fourteen days” of “ one month's ”, and
+
+(b) in any other case, with the substitution for “fourteen days” of “ three months' ”.
+
+(4) In section 22(2) (expiry of time limit for exercise of power of compulsory acquisition not to affect acquisition of interests omitted from purchase), for “section 4 of this Act” there shall be substituted “ section 6(6) of the Crossrail Act 2008 ”.
+
+(5) In Schedule 3 (alternative procedures for obtaining right of entry), paragraph 3(3) (requirement as to sureties in relation to bond for compensation) shall be omitted.
+
+#### Compulsory Purchase (Vesting Declarations) Act 1981
+
+**4** The Compulsory Purchase (Vesting Declarations) Act 1981 (c. 66) shall apply as if this Act were a compulsory purchase order.
+
+**5** (1) In its application by virtue of paragraph 4, the Compulsory Purchase (Vesting Declarations) Act 1981 shall have effect with the following modifications.
+
+(2) In section 3 (preliminary notices) for subsection (1) there shall be substituted—
+
+> (1) Before making a declaration under section 4 below with respect to any land which is subject to a compulsory purchase order the acquiring authority shall include the particulars specified in subsection (3) below in a notice which is—
+>
+> (a) given to every person with a relevant interest in the land with respect to which the declaration is to be made (other than a mortgagee who is not in possession), and
+>
+> (b) published in the London Gazette.
+
+(3) In that section, in subsection (2), for “(1)(b)” there shall be substituted “ (1) ”.
+
+(4) In that section, subsections (5) and (6) shall be omitted and at the end there shall be inserted—
+
+> (7) For the purposes of this section, a person has a relevant interest in land if—
+>
+> (a) he is for the time being entitled to dispose of the fee simple of the land, whether in possession or reversion, or
+>
+> (b) he holds, or is entitled to the rents and profits of, the land under a lease or agreement, the unexpired term of which exceeds one month.
+
+(5) In section 5 (earliest date for execution of declaration)—
+
+(a) in subsection (1), after “publication” there shall be inserted “ in the London Gazette ”, and
+
+(b) subsection (2) shall be omitted.
+
+(6) References to the Compulsory Purchase Act 1965 (c. 56) shall be construed as references to that Act as applied to the acquisition of land under section 6(1).
+
+### Part 3 — Supplementary provisions
+
+#### Acquisition of new rights
+
+**6** (1) The power conferred by section 6(1) shall include power to create and acquire such easements or other rights over land to which the power relates as may be required for or in connection with the works authorised by this Act or otherwise for or in connection with Crossrail.
+
+(2) Part 1 of the Compulsory Purchase Act 1965, as applied to the acquisition of land under section 6(1), and the enactments relating to compensation for the compulsory purchase of land, shall apply to a compulsory acquisition by virtue of sub-paragraph (1)—
+
+(a) with the modifications specified in paragraph 7, and
+
+(b) with such other modifications as may be necessary.
+
+**7** (1) The modifications referred to in paragraph 6(2)(a) are as follows.
+
+(2) For section 7 of the Compulsory Purchase Act 1965 there shall be substituted—
+
+> **Measure of compensation in case of purchase of new right**
+>
+> **7** In assessing the compensation to be paid by the acquiring authority under this Act, regard shall be had, not only to the extent (if any) to which the value of the land over which the right is purchased is depreciated by the acquisition of the right, but also to the damage (if any) to be sustained by the owner of the land by reason of its severance from other land of his, or injuriously affecting that other land by the exercise of the powers conferred by this or the special Act.
+
+(3) In section 8 of that Act (provisions as to divided land) for subsection (1) there shall be substituted—
+
+> (1) This subsection applies where—
+>
+> (a) a notice to treat in respect of a right over land consisting of a house, building or manufactory or of a park or garden belonging to a house (“the relevant land”) has been served on a person under section 5 of this Act,
+>
+> (b) in consequence of the service of the notice, a question of disputed compensation in respect of the purchase of the right would, apart from this section, fall to be determined by the [[^F18]Upper Tribunal], and
+>
+> (c) before the [[^F19]Upper Tribunal has] determined that question, the person on whom the notice has been served satisfies [[^F20]the Upper Tribunal] that the relevant conditions are met.
+>
+> (1A) The relevant conditions are—
+>
+> (a) that he has an interest which he is able and willing to sell in the whole of the relevant land;
+>
+> (b) where the relevant land consists of a house, building or manufactory, that it cannot be made subject to the right without material detriment to it; and
+>
+> (c) where the relevant land consists of a park or garden belonging to a house, that it cannot be made subject to the right without seriously affecting the amenity or convenience of the house.
+>
+> (1B) Where subsection (1) above applies—
+>
+> (a) the compulsory purchase order shall, in relation to the person on whom the notice to treat has been served—
+>
+> (i) cease to authorise the purchase of the right to which the notice relates, and
+>
+> (ii) be deemed to authorise the purchase of that person's interest in the whole of the relevant land including, where the land consists of a park or garden belonging to a house, the house, and
+>
+> (b) the notice to treat shall be deemed to have been served in respect of that interest on such date as the [[^F21]Upper Tribunal directs].
+>
+> (1C) Any question as to the extent of the land in which the compulsory purchase order is deemed to authorise the purchase of an interest by virtue of subsection (1B)(a)(ii) of this section shall be determined by the [[^F22]Upper Tribunal].
+>
+> (1D) Where the [[^F23]Upper Tribunal determines] that the person on whom a notice to treat has been served has satisfied [[^F24]the Upper Tribunal] as mentioned in subsection (1)(c) of this section, the acquiring authority may withdraw the notice at any time within the period of six weeks beginning with the date of the determination.
+>
+> (1E) Subsection (1D) of this section is without prejudice to any other power of the acquiring authority to withdraw the notice to treat.
+
+(4) The following provisions of that Act (which state the effect of a deed poll executed in various circumstances where there is no conveyance by persons with interests in the land), namely—
+
+- section 9(4) (failure of owners to convey),
+- paragraph 10(3) of Schedule 1 (owners under incapacity),
+- paragraph 2(3) of Schedule 2 (absent and untraced owners), and
+- paragraphs 2(3) and 7(2) of Schedule 4 (common land),
+
+shall be so modified as to secure that, as against persons with interests in the land which are expressed to be overridden by the deed, the right which is to be purchased compulsorily is vested absolutely in the acquiring authority.
+
+(5) Section 11 of that Act (powers of entry) shall be so modified as to secure that, as from the date on which the acquiring authority have served notice to treat in respect of any right, they have power, exercisable in the like circumstances and subject to the like conditions, to enter for the purpose of exercising that right (which shall be deemed for this purpose to have been created on the date of service of the notice); and sections 12 (penalty for unauthorised entry) and 13 (entry on enforcement officer's or sheriff's warrant in the event of obstruction) of that Act shall be modified correspondingly.
+
+(6) Section 20 of that Act (compensation for short term tenants) shall apply with the modifications necessary to secure that persons with such interests in land as are mentioned in that section are compensated in a manner corresponding to that in which they would be compensated on a compulsory acquisition of the land, but taking into account only the extent (if any) of such interference with such interests as is actually caused, or likely to be caused, by the exercise of the right in question.
+
+(7) Section 22 of that Act (protection of acquiring authority's possession of land where interest accidentally omitted from purchase) shall be so modified as to enable the acquiring authority, in circumstances corresponding to those referred to in that section, to continue to be entitled to exercise the right acquired, subject to compliance with that section as respects compensation.
+
+(8) References in that Act to land are, in appropriate contexts, to be read (according to the requirements of the particular context) as referring to, or as including references to—
+
+(a) the right acquired or to be acquired, or
+
+(b) the land over which the right is, or is to be, exercisable.
+
+(9) In the Land Compensation Act 1973 (c. 26), for section 44 there shall be substituted—
+
+> **Compensation for injurious affection**
+>
+> **44** (1) Where a right over land is purchased from any person for the purpose of works which are to be situated partly on that land and partly elsewhere, compensation for injurious affection of land retained by that person shall be assessed by reference to the whole of the works and not only the part situated on the land over which the right is exercisable.
+>
+> (2) In this section, “compensation for injurious affection” means compensation for injurious affection under section 7 or 20 of the Compulsory Purchase Act 1965 as applied by paragraph 6(2) of Schedule 6 to the Crossrail Act 2008.
+
+(10) For section 58 of that Act there shall be substituted—
+
+> **Determination of material detriment where right over part of house etc. proposed for compulsory acquisition**
+>
+> **58** (1) Subsection (2) applies where the [[^F25]Upper Tribunal] is determining under section 8(1)(c) of the Compulsory Purchase Act 1965, as applied by paragraph 6(2) of Schedule 6 to the Crossrail Act 2008, whether—
+>
+> (a) a right over part of a house, building or manufactory can be taken without material detriment to the house, building or manufactory, or
+>
+> (b) a right over part of a park or garden belonging to a house can be taken without seriously affecting the amenity or convenience of the house.
+>
+> (2) The Tribunal shall take into account, not only the effect of the right on the whole of the house, building or manufactory or of the house and the park or garden, but also the use to be made of the rights proposed to be acquired and, in a case where the right is proposed to be acquired for works or other purposes extending to other land, the effect of the whole of the works and the use to be made of the other land.
+
+#### Limitation of power of acquisition to rights only
+
+**8** In the case of land specified in the following table, the power conferred by section 6(1) shall be exercisable only in relation to the creation and acquisition of easements or other rights over land for the passage of persons or vehicles (with or without materials, plant and machinery) for the purpose of or in connection with the construction or maintenance of the works authorised by this Act.
+
+|  |  |
+|---|---|
+| *(1)* | *(2)* |
+| *Area* | *No. on deposited plans* |
+| London Borough of Hammersmith & Fulham | 10 and 11 |
+| Royal Borough of Kensington & Chelsea | 3 |
+| City of Westminster | 58, 59, 207 and 210 |
+| City of London | 15 and 16 |
+| London Borough of Tower Hamlets | 245a, 575, 576, 578 and 579 |
+|  | 678, 679, 700, 703, 706, 710, 718, 725, 726, 728, 729, 731c, 731d, 731e, 731f, 736, 742, 746, 747, 759a, 763, 764, 766, 769, 772, 773 and 777 |
+|  | 821 and 822 |
+|  | 980, 982 and 986 |
+| London Borough of Newham | 8g |
+|  | 42a and 42b |
+|  | 93, 113 and 116 |
+|  | 99, 104 and 109 |
+|  | 123, 135, 144, 165 and 176 |
+|  | 563, 564 and 569 |
+|  | 602, 603, 613 and 614 |
+| London Borough of Greenwich | 37, 40, 40a, 40b, 44 and 52 |
+|  | 114, 117, 118, 121, 122, 123 and 129 |
+|  | 116 |
+| London Borough of Bexley | 27 |
+|  | 42 |
+|  | 84a |
+|  | 93, 99 and 102 |
+| London Borough of Redbridge | 87b, 96 and 96a |
+| London Borough of Havering | 32 |
+| Royal Borough of Windsor & Maidenhead | 6 and 8 |
+|  | 23 and 24 |
+| District of South Bucks | 2 and 3 |
+|  | 87, 88, 90, 92, 109 and 112 |
+|  | 94, 96 and 100 |
+| Borough of Slough | 17 and 25 |
+|  | 28 to 30 and 37 |
+|  | 46 to 48 |
+|  | 82 and 85 |
+|  | 169 |
+|  | 217 |
+| London Borough of Hillingdon | 1 |
+|  | 127a |
+|  | 143, 147, 148, 158 and 160 |
+|  | 178 and 178a |
+| London Borough of Ealing | 165 |
+
+**9** In the case of land specified in the following table, the power conferred by section 6(1) shall be exercisable only in relation to—
+
+(a) the creation and acquisition of easements or other rights over land for access to an existing railway, and
+
+(b) where the land is comprised in an existing railway, the creation and acquisition of easements or other rights over land for the passage of trains, including locomotives and other vehicles carried on flanged wheels, together with easements and other rights ancillary thereto.
+
+|  |  |
+|---|---|
+| *(1)* | *(2)* |
+| *Area* | *No. on deposited plans* |
+| London Borough of Hillingdon | 260 to 325 |
+
+#### Limitation of power of acquisition to land of specified description
+
+**10** In the case of land specified in columns (1) and (2) of the following table, the power conferred by section 6(1) shall be exercisable only in relation to so much of the land as falls within the description specified in relation to it in column (3) of the table—
+
+|  |  |  |
+|---|---|---|
+| *(1)* | *(2)* | *(3)* |
+| *Area* | *No. on deposited plans* | *Description of land subject to power of acquisition* |
+| City of Westminster | 79 and 80 | Land comprised within car park, road off Orsett Terrace and adjoining railway facilities. |
+|  | 96, 102, 103, 124 and 125 | Operational works and land comprised within Paddington Station (main line and underground) and road off Praed Street. |
+|  | 105 | Basement level of building and subsoil beneath. |
+|  | 106 | Basement level of building. |
+|  | 324, 324a and 324b | Operational works and land comprised within Bond Street Station. |
+|  | 323, 325a, 326a, 328, 339a and 693 to 709 | Operational works and land comprised within Bond Street Station together with such of the subsoil or under-surface of the land specified in columns (1) and (2) to which this description relates as lies beneath that station or as lies more than 9 metres below the level of the surface of the land. |
+| London Borough of Camden | 8a | Ground floor, reception area, entrance, fire escape and paved area (Centre Point). |
+| London Borough of Islington | 16 | Operational works and land comprised within Farringdon Station. |
+|  | 17 | Operational works and land comprised within Farringdon Station together with such of the subsoil or under-surface of the land specified in columns (1) and (2) to which this description relates as lies beneath that station or as lies more than 9 metres below the level of the surface of the land. |
+|  | 21 | Underground car park (Caxton House) and subsoil beneath. |
+|  | 22, 23 and 26 | Underground car parks (Caxton House and Snow Hill). |
+|  | 98 | Operational works and land comprised within Moorgate Station. |
+| City of London | 5 and 6 | Underground car park (Snow Hill) and access road. |
+|  | 11 | Operational works and land comprised within Moorgate branch railway together with such of the subsoil or under-surface of the land specified in columns (1) and (2) to which this description relates as lies beneath that railway or as lies more than 9 metres below the level of the surface of the land. |
+|  | 12 | Operational works and land comprised within Moorgate Branch railway. |
+|  | 13 | Underground car park (Smithfield) and subsoil beneath. |
+|  | 14 | Underground car park (Smithfield). |
+|  | 49 | Operational works and land comprised within Barbican Station together with such of the subsoil or under-surface of the land specified in columns (1) and (2) to which this description relates as lies beneath that station or as lies more than 9 metres below the level of the surface of the land. |
+|  | 50 | Operational works and land comprised within Barbican Station. |
+|  | 75 and 90 to 92 | Operational works and land comprised within Moorgate Station. |
+|  | 76, 77 and 79 | Operational works and land comprised within Moorgate Station together with such of the subsoil or under-surface of the land specified in columns (1) and (2) to which this description relates as lies beneath that station or as lies more than 9 metres below the level of the surface of the land. |
+|  | 133, 139, 139a, 141, 141a, 146, 150 and 151 | Operational works and land comprised within Liverpool Street Station. |
+|  | 119, 120, 122, 142, 144, 148 and 149 | Operational works and land comprised within Liverpool Street Station together with such of the subsoil or under-surface of the land specified in columns (1) and (2) to which this description relates as lies beneath that station or as lies more than 9 metres below the level of the surface of the land. |
+| London Borough of Tower Hamlets | 714a, 714b, 714c, 765b and 767b | Subsoil or undersurface of the land between 5 metres and 20 metres beneath the level of the surface of the land. |
+|  | 717b, 727, 727a, 735b and 765a | Dock, bed thereof, dock wall (Banana Wall), operational works and land comprised within West India Dock (North). |
+| London Borough of Hillingdon | 260 to 325 | Operational railway facilities (Heathrow Express Railway), including shafts and compounds together with access roads thereto. |
+
+#### Acquisition of subsoil
+
+**11** (1) In the case of land specified in the following table, the power conferred by section 6(1) shall only be exercisable in relation to so much of the subsoil or under-surface of the land as lies more than 9 metres beneath the level of the surface of the land.
+
+|  |  |
+|---|---|
+| *(1)* | *(2)* |
+| *Area* | *No. on deposited plans* |
+| City of Westminster | 104, 107, 109, 135 to 204, 208, 211, 212, 219 to 310, 312 to 322, 326b, 326e, 330 to 338, 344 to 351, 352 to 415, 418, 424, 425 to 428, 430 to 435, 441 to 446, 451, 452, 456 to 547, 552 to 565, 588 to 594, 596, 597, 601 to 611, 613 to 642, 649 to 658, 663 to 665, 667 to 672, 675 and 677 to 683 |
+| London Borough of Camden | 17 to 29, 33 to 139, 144, 145, 149 to 152, 156 to 278 and 280 |
+| London Borough of Islington | 2, 18, 20, 27, 28, 30 to 33, 35 to 82 and 86 to 88 |
+| City of London | 39 to 41, 44 to 48, 51, 56 to 59, 61 to 70, 78, 94, 95, 98 to 100, 106, 107, 109 to 112, 118, 126 to 132, 137, 140, 152 to 158, 162 and 165 to 208 |
+| London Borough of Tower Hamlets | 1 to 157, 159, 160, 164, 166, 167, 170 to 223, 226 to 239, 241, 242, 268, 274, 276, 278, 282, 283, 285, 286, 291, 296 to 387, 401, 402, 404 to 574, 589, 591 to 629, 631 to 663, 665 to 677, 680 to 698, 701, 702, 704, 705, 708, 711, 778 to 787, 791 to 793, 795, 797 to 806, 812 to 819, 823 to 843, 845 to 847, 849 to 864, 989, 992, 994 to 1134, 1136 to 1139, 1141, 1149, 1153, 1156 to 1223, 1225, 1226, 1228, 1230, 1231, 1233, 1234, 1236, 1237, 1240, 1241, 1244 to 1246, 1254, 1256, 1259 to 1263, 1265, 1266, 1268 to 1270, 1272 to 1274, 1276 to 1285, 1287, 1288 to 1293, 1296 to 1306, 1308, 1310 to 1312, 1315 to 1317, 1319 to 1329, 1331, 1331a, 1332, 1333, 1333a, 1335, 1335a, 1336, 1336a, 1337, 1338, 1338a, 1339, 1341, 1341a, 1342, 1344, 1345, 1346, 1346a, 1347 to 1369, 1369a, 1370, 1370a, 1371 to 1374, 1374a, 1375 to 1378, 1380, 1381, 1383 to 1388, 1390 to 1395, 1398 to 1402, 1404, 1405, 1407, 1408, 1414 to 1420, 1425 to 1439 and 1441 |
+| London Borough of Newham | 1, 11 to 41, 43, 44, 214, 218, 256, 280, 283 to 287, 289 to 292 |
+| London Borough of Greenwich | 1, 2, 6, 8 to 10, 12 to 14, 16 to 29, 49a, 51a, 52a, 53a, 54a, 55a, 56a, 57a, 58a, 59a, 59b, 59c, 59d, 59e, 88a, 93a, 93b, 93c, 93d and 93e |
+
+(2) In the case of any other land, the power conferred by section 6(1) shall, subject to paragraph 10, be exercisable as well in relation to the subsoil or under-surface only as in relation to the land as a whole.
+
+(3) The following shall not apply where the power conferred by section 6(1) is exercised in relation to the subsoil or under-surface of land only—
+
+(a) section 8(1) of the Compulsory Purchase Act 1965 (c. 56) (limitation on right to require a person to sell part only of any house, building, manufactory or park or garden belonging to a house);
+
+(b) Schedule 1 to the Compulsory Purchase (Vesting Declarations) Act 1981 (c. 66) (corresponding provision in case of general vesting declaration).
+
+#### Limitation of power of acquisition in relation to land not more than 9 metres below the surface
+
+**12** In the case of land specified in the following table, the power conferred by section 6(1), so far as relating to so much of the land as does not lie more than 9 metres beneath the level of its surface, shall be exercisable only in relation to the creation and acquisition of easements or other rights over land for the passage of persons or vehicles (with or without materials, plant and machinery) for the purpose of or in connection with the construction or maintenance of the works authorised by this Act.
+
+|  |  |
+|---|---|
+| *(1)* | *(2)* |
+| *Area* | *No. on deposited plans* |
+| City of Westminster | 429 |
+| London Borough of Tower Hamlets | 245, 577, 709, 776 and 807 |
+
+#### Extension of power to acquire new rights
+
+**13** (1) The Secretary of State may by order provide that section 6(1), so far as relating to acquisition by virtue of paragraph 6(1), shall be treated as also authorising acquisition by such person as may be specified in the order.
+
+(2) The power to make an order under sub-paragraph (1) includes power to make an order varying or revoking any order previously made under that provision.
+
+#### Acquisition of part only of certain properties
+
+**14** (1) Where—
+
+(a) a notice to treat under Part 1 of the Compulsory Purchase Act 1965, as applied to the acquisition of land under section 6(1), is served in respect of land forming part only of a house, building or manufactory or part only of land consisting of a house with a park or garden, and
+
+(b) a copy of this paragraph is served with the notice to treat,
+
+the following provisions of this paragraph, with paragraphs 15 and 16, shall apply instead of section 8(1) of the Compulsory Purchase Act 1965.
+
+(2) The person on whom the notice to treat is served (“the owner”) may within the period of 21 days beginning with the day on which the notice to treat is served on him, serve on the Secretary of State a counter-notice objecting to the sale of the part (“the land subject to the notice to treat”) and stating that he is willing and able to sell the whole (“the land subject to the counter-notice”).
+
+(3) If no counter-notice is served under sub-paragraph (2), the owner shall be required to sell the land subject to the notice to treat.
+
+(4) If a counter-notice is served under sub-paragraph (2) and the Secretary of State agrees to take the land subject to the counter-notice, the notice to treat shall be deemed to be a notice to treat in addition for the remainder of the land subject to the counter-notice.
+
+(5) If a counter-notice is served under sub-paragraph (2) and the Secretary of State does not agree to take the land subject to the counter-notice, the question as to what land the owner is to be required to sell shall be referred to the [[^F26]Upper Tribunal].
+
+**15** (1) If, on a reference under paragraph 14(5), the [[^F27]Upper Tribunal determines] that the land subject to the notice to treat can be taken—
+
+(a) without material detriment to the remainder of the land subject to the counter-notice, and
+
+(b) where the land subject to the notice to treat consists of or includes garden only land, without seriously affecting the amenity and convenience of the house to which the garden only land belongs,
+
+the owner shall be required to sell the land subject to the notice to treat.
+
+(2) If, on such a reference, the [[^F27]Upper Tribunal determines] that only part of the land subject to the notice to treat can be taken as mentioned in sub-paragraph (1), the notice to treat shall, subject to sub-paragraph (3), be deemed to be a notice to treat for that part.
+
+(3) Where the land subject to the notice to treat is not land which consists of or includes garden only land, sub-paragraph (2) shall only have effect to deem the notice to treat to be a notice to treat for land which does consist of or include garden only land if the [[^F27]Upper Tribunal determines] that that land can be taken without seriously affecting the amenity and convenience of the house to which the garden only land belongs.
+
+(4) If, on such a reference, the [[^F27]Upper Tribunal determines]—
+
+(a) that none of the land subject to the notice to treat can be taken without material detriment to the remainder of the land subject to the counter-notice, but
+
+(b) that the material detriment is confined to part of the remainder of that land,
+
+then, except where sub-paragraph (5) applies, the notice to treat shall be deemed to be a notice to treat in addition for the land to which the material detriment is confined.
+
+(5) If, in a case where the land subject to the notice to treat consists of or includes garden only land, the [[^F27]Upper Tribunal determines] on such a reference that none of the land subject to the notice to treat can be taken without seriously affecting the amenity or convenience of the house to which the garden only land belongs, the notice to treat shall be deemed to be a notice to treat in addition for the remainder of the land subject to the counter-notice.
+
+(6) If, on such a reference, the [[^F27]Upper Tribunal determines]—
+
+(a) that none of the land subject to the notice to treat can be taken without material detriment to the remainder of the land subject to the counter-notice, and
+
+(b) that the material detriment is not confined to part of the remainder of that land,
+
+the notice to treat shall be deemed to be a notice to treat in addition for the remainder of the land subject to the counter-notice.
+
+(7) For the purposes of this paragraph, the land subject to the notice to treat consists of or includes garden only land if—
+
+(a) it consists of the whole or part of a park or garden belonging to a house, or
+
+(b) it includes the whole or part of such a park or garden but does not include the house or any part of it.
+
+**16** (1) Where under paragraph 15 a notice to treat is deemed by virtue of a determination of the [[^F28]Upper Tribunal] to be a notice to treat for less land or more land than that specified in the notice, the Secretary of State may, within the period of 6 weeks beginning with the day on which the determination is made, withdraw the notice.
+
+(2) If the Secretary of State withdraws a notice to treat under sub-paragraph (1), he shall pay the person on whom the notice was served compensation for any loss or expense occasioned to that person by the giving and withdrawal of the notice, such compensation to be determined in case of dispute by the [[^F29]Upper Tribunal].
+
+(3) Where under paragraph 14 or 15 a person is required to sell part only of a house, building or manufactory or of land consisting of a house with a park or garden, the Secretary of State shall pay him compensation for any loss sustained by him due to the severance of that part in addition to the value of the interest acquired.
+
+(4) A notice to treat shall have the effect which it is deemed to have under paragraph 14(4) or 15(4), (5) or (6) whether or not the additional land is, apart from that provision, land which the Secretary of State is authorised to acquire compulsorily under this Act.
+
+#### Minerals
+
+**17** (1) Parts 2 and 3 of Schedule 2 to the Acquisition of Land Act 1981 (c. 67) (exception of minerals from compulsory purchase and regulation of the working of mines or minerals underlying an authorised undertaking) shall have effect in relation to land to which section 6(1) applies as if it were comprised in a compulsory purchase order providing for the incorporation with that order of those Parts of that Schedule.
+
+(2) In their application by virtue of sub-paragraph (1), Parts 2 and 3 of Schedule 2 to the Acquisition of Land Act 1981 shall have effect with the following modifications—
+
+(a) references to the acquiring authority, except the second reference in paragraph 6, shall be construed as references to the nominated undertaker, and
+
+(b) references to the undertaking shall be construed as references to the undertaking which the nominated undertaker is authorised by this Act to carry on.
+
+#### Power to require acquisition where time limit extended
+
+**18** (1) If the Secretary of State makes an order under section 6(7), the following provisions shall have effect as from the coming into operation of the order.
+
+(2) If an owner or lessee of any of the land in relation to which the order is made gives notice in writing to the Secretary of State that he desires his interest in such of that land as is specified in the notice to be acquired by the Secretary of State, the Secretary of State shall, within the period of 3 months immediately following receipt of the notice—
+
+(a) enter into an agreement with him for the acquisition of his interest in the whole or part of the land specified in the notice,
+
+(b) exercise the relevant powers of compulsory acquisition in respect of his interest in the whole or part of the land specified in the notice, or
+
+(c) serve on him notice in writing of the Secretary of State's intention not to proceed with the purchase of his interest in any of the land specified in the notice.
+
+(3) Where a person gives the Secretary of State notice under sub-paragraph (2) and the Secretary of State—
+
+(a) fails to comply with the requirements of that sub-paragraph,
+
+(b) withdraws a notice to treat served in compliance with paragraph (b) of that sub-paragraph, or
+
+(c) serves on the owner notice in compliance with paragraph (c) of that sub-paragraph,
+
+the relevant powers of compulsory acquisition shall cease to be exercisable in respect of that person's interest in any of the land specified in the notice under sub-paragraph (2).
+
+(4) Where—
+
+(a) a person gives the Secretary of State notice under sub-paragraph (2), and
+
+(b) the Secretary of State acquires in pursuance of paragraph (a) or (b) of that sub-paragraph that person's interest in some, but not all, of the land specified in the notice,
+
+the relevant powers of compulsory acquisition shall cease to be exercisable in respect of that person's interest in the remainder of that land.
+
+(5) References in this paragraph to the relevant powers of compulsory acquisition are to—
+
+(a) the power to serve a notice to treat under Part 1 of the Compulsory Purchase Act 1965 (c. 56), as applied to the acquisition of land under section 6(1), and
+
+(b) the power to execute a declaration under section 4 of the Compulsory Purchase (Vesting Declarations) Act 1981 (c. 66), as applied by paragraph 4 above.
+
+(6) In this paragraph—
+
+- “lessee” means a person who holds an interest under a lease for a period of which not less than 21 years is unexpired at the date of the giving of any notice by that person under sub-paragraph (2);
+- “owner”, in relation to any land, means a person, other than a mortgagee not in possession, who is for the time being entitled to dispose of the fee simple of the land, whether in possession or reversion.
+
+**19** Paragraph 18 shall not apply to any subsoil or under-surface of land required only for the construction of a work at a level more than 9 metres below the level of the surface of the land.
+
+#### Compensation
+
+**20** Section 4 of the Acquisition of Land Act 1981 (c. 67) (assessment of compensation in relation to a compulsory purchase where unnecessary things done with a view to obtaining compensation) shall have effect in relation to a compulsory purchase under this Act as if it were a compulsory purchase for the purposes of that Act.
+
+## SCHEDULE 7 — Planning conditions
+
+*Section 10*
+
+### Part 1 — Qualifying authorities
+
+#### Specification
+
+**1** (1) As soon after the day on which this Act is passed as the Secretary of State considers reasonably practicable, he shall, by order made by statutory instrument, specify every relevant local authority which—
+
+(a) had, on or before the day on which the Bill for this Act was reported from Select Committee in the House of Lords, given him undertakings with respect to the handling of planning matters arising under this Schedule which he considered satisfactory, and
+
+(b) has not subsequently been released from its undertakings.
+
+(2) Subject to the following provisions of this paragraph, an authority which is specified under sub-paragraph (1) is a qualifying authority for the purposes of this Schedule.
+
+(3) The Secretary of State may, if he considers it expedient to do so, by order made by statutory instrument provide that an authority shall cease to be a qualifying authority for the purposes of this Schedule.
+
+(4) If, in relation to a relevant local authority which is not a qualifying authority for the purposes of this Schedule, the Secretary of State considers that the way in which the authority carries out its functions has been significantly affected by a change of circumstances occurring since the relevant day, he may by order made by statutory instrument provide that the authority shall be a qualifying authority for the purposes of this Schedule.
+
+(5) Before making an order under sub-paragraph (3) or (4), the Secretary of State shall consult—
+
+(a) the nominated undertaker, and
+
+(b) unless the authority concerned has requested him to make the order, that authority.
+
+(6) A statutory instrument containing an order under sub-paragraph (3) or (4) shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(7) In sub-paragraph (4), the reference to the relevant day is—
+
+(a) in relation to an authority which has never been a qualifying authority for the purposes of this Schedule, to the day mentioned in sub-paragraph (1)(a), and
+
+(b) in relation to an authority which has been a qualifying authority for the purposes of this Schedule, to the day on which it ceased, or last ceased, to be such an authority.
+
+(8) For the purposes of this paragraph, a local authority is a relevant local authority if it has functions under Part 2 or 3 in relation to giving of approval or would have such functions were it specified under sub-paragraph (1).
+
+#### Transition
+
+**2** (1) An order under paragraph 1 may contain such transitional provision and savings as the Secretary of State thinks fit.
+
+(2) Without prejudice to the generality of sub-paragraph (1), provision under that sub-paragraph may include provision with respect to the effect, in a case where the nominated undertaker has obtained, or requested, approval under this Schedule, of the authority which granted the approval, or to which the request has been made, ceasing to be, or becoming, a qualifying authority for the purposes of this Schedule.
+
+(3) The Secretary of State may by agreement fetter the exercise of his discretion under sub-paragraph (1).
+
+### Part 2 — Development in the area of a unitary authority
+
+#### Introductory
+
+**3** This Part has effect in relation to development in the area of a unitary authority.
+
+#### Planning regimes
+
+**4** (1) The requirement set out in paragraph 5 shall be a condition of the deemed planning permission, so far as relating to relevant development in the area of a unitary authority which is not a qualifying authority for the purposes of this Schedule.
+
+(2) For the purposes of sub-paragraph (1), development is relevant development to the extent that it consists of or includes the erection, construction, alteration or extension of any building.
+
+(3) The requirements set out in paragraphs 6 to 10 shall be conditions of the deemed planning permission, so far as relating to development in the area of a unitary authority which is a qualifying authority for the purposes of this Schedule.
+
+(4) The requirements set out in paragraph 11 shall be conditions of the deemed planning permission, so far as relating to development in the area of any unitary authority.
+
+#### Conditions: non-qualifying authority
+
+**5** (1) Development shall be carried out in accordance with plans and specifications for the time being approved by the local planning authority at the request of the nominated undertaker.
+
+(2) The local planning authority may, on approving a plan or specification for the purposes of this paragraph, specify any respect in which it requires additional details of the development to be submitted for approval.
+
+(3) Where the local planning authority exercises the power conferred by sub-paragraph (2), the plans and specifications in accordance with which the development is required under sub-paragraph (1) to be carried out shall, as regards the specified respect, include a plan or specification showing the additional details.
+
+(4) The only ground on which the local planning authority may refuse to approve plans or specifications for the purposes of this paragraph is—
+
+(a) that the development to which they relate ought to, and could reasonably, be carried out elsewhere on land within the relevant limits, or
+
+(b) that the design or external appearance of any building to which they relate ought to be modified to preserve the local environment or local amenity and is reasonably capable of being so modified.
+
+#### Conditions: qualifying authority
+
+**6** (1) To the extent that development consists of any operation or work mentioned in column (1) of the table in sub-paragraph (4), it shall be carried out in accordance with plans and specifications for the time being approved by the local planning authority at the request of the nominated undertaker.
+
+(2) The local planning authority may, on approving a plan or specification for the purposes of this paragraph, specify any respect in which it requires there to be submitted for approval additional details of the operation or work which gives rise to the need for approval under sub-paragraph (1).
+
+(3) Where the local planning authority exercises the power conferred by sub-paragraph (2), the plans and specifications in accordance with which the development is required under sub-paragraph (1) to be carried out shall, as regards the specified respect, include a plan or specification showing the additional details.
+
+(4) The only ground on which the local planning authority may refuse to approve for the purposes of this paragraph plans or specifications of any operation or work mentioned in column (1) of the following table is a ground specified in relation to it in column (2) of the table.
+
+|  |  |
+|---|---|
+| *(1)* | *(2)* |
+| *Operation or work* | *Grounds* |
+| 1. *Construction works*<br>- (a) The erection, construction, alteration or extension of any building (except for anything within (b) or (c) or item 2 or 4) or road vehicle park.<br>- (b) The construction, alteration or extension of any terracing, cuttings, embankments or other earth works.<br>- (c) The erection, construction, alteration of extension of any fences, walls or other barriers (including bunds) for visual or noise screening or dust suppression. | That the design or external appearance of the works ought to be modified—<br>- (a) to preserve the local environment or local amenity,<br>- (b) to prevent or reduce prejudicial effects on road safety or on the free flow of traffic in the local area, or<br>- (c) to preserve a site of archaeological or historic interest or nature conservation value, and is reasonably capable of being so modified. That the development ought to, and could reasonably, be carried out elsewhere within the limits of the land on which the works of which it forms part may be carried out under this Act. |
+| 2. *Minor construction works* The erection, construction, alteration or extension of any transformers, [[^F30]electronic communications masts] or pedestrian accesses to railway lines. | That the design or external appearance of the works ought to be modified to preserve the local environment or local amenity, and is reasonably capable of being so modified. That the development ought to, and could reasonably, be carried out on land elsewhere within the relevant limits. |
+| 3. *Fences and walls* The erection, construction, alteration or extension of any fences or walls (except for anything within item 1(c)). | That the development ought to, and could reasonably, be carried out on land elsewhere within the relevant limits. |
+| 4. *Artificial lighting* The erection, construction or installation of lighting equipment. | That the design of the equipment, with respect to the emission of light, ought to be modified to preserve the local environment or local amenity, and is reasonably capable of being so modified. That the development ought to, and could reasonably, be carried out elsewhere within the limits of land on which the works of which it forms part may be carried out under this Act. |
+| 5. *Waste and spoil disposal* The disposal of waste or spoil. | That—<br>- (a) the design or external appearance of disposal sites on land within the relevant limits,<br>- (b) the methods by which such sites are worked, or<br>- (c) the noise, dust, vibration or screening arrangements during the operation of such sites, ought to be modified, and are reasonably capable of being modified. That—<br>- (a) to preserve the local environment or local amenity,<br>- (b) to prevent or reduce prejudicial effects on road safety or on the free flow of traffic in the local area, or<br>- (c) to preserve a site of archaeological or historic interest or nature conservation value, the development ought to be carried out on land elsewhere within the relevant limits, and is reasonably capable of being so carried out. |
+| 6. *Borrow pits* The excavation of bulk materials from borrow pits. | That—<br>- (a) the design or external appearance of borrow pits on land within the relevant limits,<br>- (b) the methods by which such pits are worked, or<br>- (c) the noise, dust, vibration or screening arrangements during the operation of such pits, ought to be modified, and are reasonably capable of being modified. That—<br>- (a) to preserve the local environment or local amenity,<br>- (b) to prevent or reduce prejudicial effects on road safety or on the free flow of traffic in the local area, or<br>- (c) to preserve a site of archaeological or historic interest or nature conservation value, the development ought to be carried out on land elsewhere within the relevant limits, and is reasonably capable of being so carried out. |
+
+(5) In the case of items 1(b) and (c) and 4 in column (1) of the table in sub-paragraph (4), the second of the grounds specified in relation to the item in column (2) of the table does not apply in relation to development which forms part of a scheduled work.
+
+(6) In the case of items 5 and 6 in column (1) of the table in sub-paragraph (4), the second of the grounds specified in relation to it in column (2) of the table does not apply in relation to development which—
+
+(a) is within the limits of deviation for the scheduled works, or
+
+(b) consists of the use of land specified in columns (1) and (2) of Part 1 of Schedule 6 for a purpose specified in relation to the land in column (3) of that Part.
+
+(7) Any reference in column (1) of the table in sub-paragraph (4) to a description of works does not include works of that description of a temporary nature; and for this purpose, a building ancillary to a scheduled work is only to be regarded as being of a temporary nature if it is intended to remain in place for no longer than two years after the date on which the scheduled work is brought into general use.
+
+(8) Sub-paragraph (4) (as it has effect with sub-paragraphs (5) to (7)) shall apply in relation to the imposition of conditions on approval as it applies in relation to the refusal of approval.
+
+**7** (1) Development shall be carried out in accordance with arrangements approved by the local planning authority at the request of the nominated undertaker with respect to the matters mentioned in column (1) of the table in sub-paragraph (2).
+
+(2) The only ground on which the local planning authority may refuse to approve for the purposes of this paragraph arrangements with respect to a matter mentioned in column (1) of the following table is—
+
+(a) that the arrangements relate to development which, for the purposes of regulating the matter in question, ought to and can reasonably be considered in conjunction with other permitted development which is to be carried out in the authority's area, or
+
+(b) the ground specified in relation to the matter in column (2) of the table.
+
+|  |  |
+|---|---|
+| *(1)* | *(2)* |
+| *Matters* | *Grounds* |
+| 1. *Road transport* Routes by which anything is to be transported on a highway by large goods vehicle to a working or storage site, a site where it will be re-used or a waste disposal site. | That the arrangements ought to be modified—<br>- (a) to preserve the local environment, local amenity or a site or archaeological or historic interest or nature conservation value, or<br>- (b) to prevent or reduce prejudicial effects on road safety or on the free flow of traffic in the local area, and are reasonably capable of being so modified. |
+| 2. *Handling of re-useable spoil and top soil* Handling during removal, storage and re-use of any spoil or top soil removed during the course of carrying out the development. | That the arrangements ought to be modified to ensure that the spoil or top soil remains in good condition, and are reasonably capable of being so modified. |
+| 3. *Storage sites* Sites on land within the relevant limits at which—<br>- (a) minerals, aggregates or other construction materials required for the development, or<br>- (b) spoil or top soil, are to be stored until used or re-used in carrying out the development or disposed of as waste. | That the arrangements ought to be modified—<br>- (a) to preserve the local environment, local amenity or a site of archaeological or historic interest or nature conservation value, or<br>- (b) to prevent or reduce prejudicial effects on road safety or on the free flow of traffic in the local area, and are reasonably capable of being so modified. |
+| 4. *Construction camps* Sites on land within the relevant limits which are to be used for the residential accommodation of persons engaged in carrying out the development. | As item 3. |
+| 5. *Screening* Provision where necessary on land within the relevant limits of any screening for working sites on such land required for the purpose of carrying out the development. | As item 3. |
+| 6. *Artificial lighting* The use of artificial lighting on land within the relevant limits for the purpose of carrying out the development. | That the arrangements ought to be modified to preserve the local environment or local amenity, and are reasonably capable of being so modified. |
+| 7. *Suppression of dust* The suppression of dust caused by construction operations carried on on land within the relevant limits for the purpose of carrying out the development. | As item 6. |
+| 8. *Mud on highway* Measures to be taken on land within the relevant limits to prevent mud being carried onto any public highway as a result of carrying out the development. | That the arrangements ought to be modified—<br>- (a) to preserve the local environment or local amenity, or<br>- (b) to prevent or reduce prejudicial effects on road safety or on the free flow of traffic in the local area, and are reasonably capable of being so modified. |
+
+(3) No arrangements for the purposes of sub-paragraph (1) shall be required—
+
+(a) in relation to transportation on a special road or trunk road, or
+
+(b) in relation to transportation to a site where the number of large goods vehicle movements (whether to or from the site) does not on any day exceed 24.
+
+(4) In sub-paragraph (1), the reference to arrangements, in relation to item 6 in column (1) of the table in sub-paragraph (2), does not include detailed arrangements.
+
+(5) The local planning authority may only impose conditions on approval for the purposes of this paragraph with the agreement of the nominated undertaker.
+
+**8** (1) To the extent that development consists of—
+
+(a) the disposal of waste or spoil, or
+
+(b) the excavation of bulk materials from borrow pits,
+
+it shall not be begun unless the local planning authority has, at the request of the nominated undertaker, approved a scheme for the restoration of the land on which the development is to be carried out.
+
+(2) The only ground on which the local planning authority may refuse to approve, or impose conditions on the approval of, a scheme for the purposes of this paragraph is that the scheme ought to be modified, and is reasonably capable of being modified.
+
+(3) The nominated undertaker shall carry out a scheme approved for the purposes of this paragraph once it has completed its use of the land to which the scheme relates for the purpose of carrying out development of a kind to which sub-paragraph (1) applies.
+
+(4) In sub-paragraph (1), the reference to restoration includes a reference to restoration in the longer term; and, accordingly, a scheme for the restoration of land may include provision about aftercare.
+
+**9** (1) No work to which this paragraph applies shall be brought into use without the approval of the local planning authority.
+
+(2) The works to which this paragraph applies are—
+
+(a) any scheduled work, except for—
+
+(i) a station, or
+
+(ii) so much of any work constructed in a tunnel as is at least 9 metres below the surface of the land in which it is constructed, and
+
+(b) any depot constructed, in exercise of the powers conferred by this Act, for use for or in connection with the maintenance of railway vehicles or track, whether or not constructed for use also for other purposes.
+
+(3) The local planning authority shall, at the request of the nominated undertaker, grant approval for the purposes of sub-paragraph (1) if—
+
+(a) it considers that there are no reasonably practicable measures which need to be taken for the purpose of mitigating the effect of the work or its operation on the local environment or local amenity, or
+
+(b) it has approved, at the request of the nominated undertaker, a scheme consisting of provision with respect to the taking of measures for that purpose.
+
+(4) The local planning authority shall not refuse to approve, nor impose conditions on the approval of, a scheme submitted for the purposes of sub-paragraph (3)(b) unless it is satisfied that it is expedient to do so on the ground that the scheme ought to be modified—
+
+(a) to preserve the local environment or local amenity,
+
+(b) to preserve a site of archaeological or historic interest, or
+
+(c) in the interests of nature conservation,
+
+and that the scheme is reasonably capable of being so modified.
+
+**10** Where the local planning authority approves a scheme for the purposes of paragraph 9(3)(b), the nominated undertaker shall be required—
+
+(a) to carry out the scheme, and
+
+(b) to comply with any condition subject to which the scheme is approved.
+
+#### Conditions: general
+
+**11** (1) Where development consists of or includes the carrying out on any site of operations ancillary to the construction of any of the scheduled works, those operations shall be discontinued as soon as reasonably practicable after the completion of the relevant scheduled work or works.
+
+(2) The nominated undertaker shall, following discontinuation of the use of any site for carrying out operations ancillary to the construction of any of the scheduled works, restore the site in accordance with a scheme agreed with the local planning authority.
+
+(3) If, in relation to a site used for carrying out operations ancillary to the construction of any of the scheduled works, no scheme has been agreed for the purposes of sub-paragraph (2) within 6 months of the completion of the relevant scheduled work or works, the scheme shall be such as the appropriate Ministers may determine after consultation with the nominated undertaker and the local planning authority.
+
+(4) Where, independently of any consultation under sub-paragraph (3), the appropriate Ministers ask the local planning authority for assistance in connection with the carrying out by them of their function under sub-paragraph (3), they may require the nominated undertaker to reimburse to the planning authority any expenses which it reasonably incurs in meeting the request.
+
+(5) Sub-paragraph (2) shall not apply to a site to the extent that it consists of land to which a scheme under paragraph 8 applies.
+
+(6) Sub-paragraph (2) shall not apply where the site is one in relation to which the nominated undertaker is subject to an obligation under paragraph 2(1) of Schedule 5.
+
+(7) In this paragraph, references to the relevant scheduled work or works, in relation to any site, are to the scheduled work or works to which the operations carried out on that site were ancillary.
+
+### Part 3 — Development not in the area of a unitary authority
+
+#### Introductory
+
+**12** This Part has effect in relation to development not in the area of a unitary authority.
+
+#### Planning regimes: district councils
+
+**13** (1) The requirement set out in paragraph 14 shall be a condition of the deemed planning permission, so far as relating to relevant development in the area of a district council which is not a qualifying authority for the purposes of this Schedule.
+
+(2) For the purposes of sub-paragraph (1), development is relevant development to the extent that it consists of or includes the erection, construction, alteration or extension of any building.
+
+(3) The requirements set out in paragraphs 15 and 16 shall be conditions of the deemed planning permission, so far as relating to development, other than excepted development, in the area of a district council which is a qualifying authority for the purposes of this Schedule.
+
+(4) For the purposes of sub-paragraph (3), excepted development is development consisting of—
+
+(a) the disposal of waste or spoil, or
+
+(b) the excavation of bulk materials from borrow pits.
+
+(5) The requirements set out in paragraphs 17 and 18 shall be conditions of the deemed planning permission, so far as relating to development in the area of a district council which is a qualifying authority for the purposes of this Schedule.
+
+(6) The requirements set out in paragraph 19 shall be conditions of the deemed planning permission, so far as relating to development in the area of any district council.
+
+#### District conditions: non-qualifying authority
+
+**14** (1) Development shall be carried out in accordance with plans and specifications for the time being approved by the district planning authority at the request of the nominated undertaker.
+
+(2) The district planning authority may, on approving a plan or specification for the purposes of this paragraph, specify any respect in which it requires additional details of the development to be submitted for approval.
+
+(3) Where the district planning authority exercises the power conferred by sub-paragraph (2), the plans and specifications in accordance with which the development is required under sub-paragraph (1) to be carried out shall, as regards the specified respect, include a plan or specification showing the additional details.
+
+(4) The only ground on which the district planning authority may refuse to approve plans or specifications for the purposes of this paragraph is—
+
+(a) that the development to which they relate ought to, and could reasonably, be carried out elsewhere on land within the relevant limits, or
+
+(b) that the design or external appearance of any building to which they relate ought to be modified to preserve the local environment or local amenity, and is reasonably capable of being so modified.
+
+#### District conditions: qualifying authority
+
+**15** (1) To the extent that development consists of any operation or work mentioned in column (1) of the table in sub-paragraph (4), it shall be carried out in accordance with plans and specifications for the time being approved by the district planning authority at the request of the nominated undertaker.
+
+(2) The district planning authority may, on approving a plan or specification for the purposes of this paragraph, specify any respect in which it requires there to be submitted for approval additional details of the operation or work which gives rise to the need for approval under sub-paragraph (1).
+
+(3) Where the district planning authority exercises the power conferred by sub-paragraph (2), the plans and specifications in accordance with which the development is required under sub-paragraph (1) to be carried out shall, as regards the specified respect, include a plan or specification showing the additional details.
+
+(4) The only ground on which the district planning authority may refuse to approve for the purposes of this paragraph plans or specifications of any operation or work mentioned in column (1) of the following table is a ground specified in relation to it in column (2) of the table.
+
+|  |  |
+|---|---|
+| *(1)* | *(2)* |
+| *Operation or work* | *Grounds* |
+| 1. *Construction works*<br>- (a) The erection, construction, alteration or extension of any building (except for anything within (b) or (c) or item 2 or 4) or road vehicle park.<br>- (b) The construction, alteration or extension of any terracing, cuttings, embankments or other earth works. (spara)(c) The erection, construction, alteration of extension of any fences, walls or other barriers (including bunds) for visual or noise screening or dust suppression. | That the design or external appearance of the works ought to be modified—<br>- (a) to preserve the local environment or local amenity,<br>- (b) to prevent or reduce prejudicial effects on road safety or on the free flow of traffic in the local area, or<br>- (c) to preserve a site of archaeological or historic interest or nature conservation value, and is reasonably capable of being so modified. That the development ought to, and could reasonably, be carried out elsewhere within the limits of the land on which the works of which it forms part may be carried out under this Act. |
+| 2. *Minor construction works* The erection, construction, alteration or extension of any transformers, [[^F31]electronic communications masts] or pedestrian accesses to railway lines. | That the design or external appearance of the works ought to be modified to preserve the local environment or local amenity, and is reasonably capable of being so modified. That the development ought to, and could reasonably, be carried out on land elsewhere within the relevant limits. |
+| 3. *Fences and walls* The erection, construction, alteration or extension of any fences or walls (except for anything within item 1(c)). | That the development ought to, and could reasonably, be carried out on land elsewhere within the relevant limits. |
+| 4. *Artificial lighting* The erection, construction or installation of lighting equipment. | That the design of the equipment, with respect to the emission of light, ought to be modified to preserve the local environment or local amenity, and is reasonably capable of being so modified. That the development ought to, and could reasonably, be carried out elsewhere within the limits of land on which the works of which it forms part may be carried out under this Act. |
+
+(5) In the case of items 1(b) and (c) and 4 in column (1) of the table in sub-paragraph (4), the second of the grounds specified in relation to the item in column (2) of the table does not apply in relation to development which forms part of a scheduled work.
+
+(6) Any reference in column (1) of the table in sub-paragraph (4) to a description of works does not include works of that description of a temporary nature; and for this purpose, a building ancillary to a scheduled work is only to be regarded as being of a temporary nature if it is intended to remain in place for no longer than two years after the date on which the scheduled work is brought into general use.
+
+(7) Sub-paragraph (4) (as it has effect with sub-paragraphs (5) and (6)) shall apply in relation to the imposition of conditions on approval as it applies in relation to the refusal of approval.
+
+**16** (1) Development shall be carried out in accordance with arrangements approved by the district planning authority at the request of the nominated undertaker with respect to the matters mentioned in column (1) of the table in sub-paragraph (2).
+
+(2) The only ground on which the district planning authority may refuse to approve for the purposes of this paragraph arrangements with respect to a matter mentioned in column (1) of the following table is—
+
+(a) that the arrangements relate to development which, for the purposes of regulating the matter in question, ought to and can reasonably be considered in conjunction with other permitted development which is to be carried out in the authority's area, or
+
+(b) the ground specified in relation to the matter in column (2) of the table.
+
+|  |  |
+|---|---|
+| *(1)* | *(2)* |
+| *Matters* | *Grounds* |
+| 1. *Storage sites* Sites on land within the relevant limits at which—<br>- (a) minerals, aggregates or other construction materials required for the development, or<br>- (b) spoil or top soil, are to be stored until used or re-used in carrying out the development or disposed of as waste. | That the arrangements ought to be modified—<br>- (a) to preserve the local environment, local amenity or a site of archaeological or historic interest or nature conservation value, or<br>- (b) to prevent or reduce prejudicial effects on road safety or on the free flow of traffic in the local area, and are reasonably capable of being so modified. |
+| 2. *Construction camps* Sites on land within the relevant limits which are to be used for the residential accommodation of persons engaged in carrying out the development. | As item 1. |
+| 3. *Screening* Provision where necessary on land within the relevant limits of any screening for working sites on such land required for the purpose of carrying out the development. | As item 1. |
+| 4. *Artificial lighting* The use of artificial lighting on land within the relevant limits for the purpose of carrying out the development. | That the arrangements ought to be modified to preserve the local environment or local amenity, and are reasonably capable of being so modified. |
+| 5. *Suppression of dust* The suppression of dust caused by construction operations carried on on land within the relevant limits for the purpose of carrying out the development. | As item 4. |
+| 6. *Mud on highway* Measures to be taken on land within the relevant limits to prevent mud being carried onto any public highway as a result of carrying out the development. | That the arrangements ought to be modified—<br>- (a) to preserve the local environment or local amenity, or<br>- (b) to prevent or reduce prejudicial effects on road safety or on the free flow of traffic in the local area, and are reasonably capable of being so modified. |
+
+(3) The district planning authority may only impose conditions on approval for the purposes of this paragraph with the agreement of the nominated undertaker.
+
+(4) In sub-paragraph (1), the reference to arrangements, in relation to item 4 in column (1) of the table in sub-paragraph (2), does not include detailed arrangements.
+
+**17** (1) No work to which this paragraph applies shall be brought into use without the approval of the district planning authority.
+
+(2) The works to which this paragraph applies are—
+
+(a) any scheduled work, except for—
+
+(i) a station, or
+
+(ii) so much of any work constructed in a tunnel as is at least 9 metres below the surface of the land in which it is constructed, and
+
+(b) any depot constructed, in exercise of the powers conferred by this Act, for use for or in connection with the maintenance of railway vehicles or track, whether or not constructed for use also for other purposes.
+
+(3) The district planning authority shall, at the request of the nominated undertaker, grant approval for the purposes of sub-paragraph (1) if—
+
+(a) it considers that there are no reasonably practicable measures which need to be taken for the purpose of mitigating the effect of the work or its operation on the local environment or local amenity, or
+
+(b) it has approved, at the request of the nominated undertaker, a scheme consisting of provision with respect to the taking of measures for that purpose.
+
+(4) The district planning authority shall not refuse to approve, nor impose conditions on the approval of, a scheme submitted for the purposes of sub-paragraph (3)(b) unless it is satisfied that it is expedient to do so on the ground that the scheme ought to be modified—
+
+(a) to preserve the local environment or local amenity,
+
+(b) to preserve a site of archaeological or historic interest, or
+
+(c) in the interests of nature conservation,
+
+and that the scheme is reasonably capable of being so modified.
+
+**18** Where the district planning authority approves a scheme for the purposes of paragraph 17(3)(b), the nominated undertaker shall be required—
+
+(a) to carry out the scheme, and
+
+(b) to comply with any condition subject to which the scheme is approved.
+
+#### District conditions: general
+
+**19** (1) Where development consists of or includes the carrying out on any site of operations ancillary to the construction of any of the scheduled works, those operations shall be discontinued as soon as reasonably practicable after the completion of the relevant scheduled work or works.
+
+(2) The nominated undertaker shall, following discontinuation of the use of any site for carrying out operations ancillary to the construction of any of the scheduled works, restore the site in accordance with a scheme agreed with the district planning authority.
+
+(3) If, in relation to a site used for carrying out operations ancillary to the construction of any of the scheduled works, no scheme has been agreed for the purposes of sub-paragraph (2) within 6 months of the completion of the relevant scheduled work or works, the scheme shall be such as the appropriate Ministers may determine after consultation with the nominated undertaker and the district planning authority.
+
+(4) Where, independently of any consultation under sub-paragraph (3), the appropriate Ministers ask the district planning authority for assistance in connection with the carrying out by them of their function under sub-paragraph (3), they may require the nominated undertaker to reimburse to the planning authority any expenses which it reasonably incurs in meeting the request.
+
+(5) Sub-paragraph (2) shall not apply to a site to the extent that it consists of land to which a scheme under paragraph 23 applies.
+
+(6) Sub-paragraph (2) shall not apply where the site is one in relation to which the nominated undertaker is subject to an obligation under paragraph 2(1) of Schedule 5.
+
+(7) In this paragraph, references to the relevant scheduled work or works, in relation to any site, are to the scheduled work or works to which the operations carried out on that site were ancillary.
+
+#### County conditions: qualifying authority
+
+**20** (1) The requirements set out in paragraphs 21 to 23 shall be conditions of the deemed planning permission, so far as relating to relevant development in the area of a county council which is a qualifying authority for the purposes of this Schedule.
+
+(2) For the purposes of sub-paragraph (1), relevant development is development consisting of—
+
+(a) the disposal of waste or spoil, or
+
+(b) the excavation of bulk materials from borrow pits.
+
+(3) The requirement set out in paragraph 24 shall be a condition of the deemed planning permission, so far as relating to development in the area of a county council which is a qualifying authority for the purposes of this Schedule.
+
+**21** (1) To the extent that development consists of any operation or work mentioned in column (1) of the table in sub-paragraph (4), it shall be carried out in accordance with plans and specifications for the time being approved by the county planning authority at the request of the nominated undertaker.
+
+(2) The county planning authority may, on approving a plan or specification for the purposes of this paragraph, specify any respect in which it requires there to be submitted for approval additional details of the operation or work which gives rise to the need for approval under sub-paragraph (1).
+
+(3) Where the county planning authority exercises the power conferred by sub-paragraph (2), the plans and specifications in accordance with which the development is required under sub-paragraph (1) to be carried out shall, as regards the specific respect, include a plan or specification showing the additional details.
+
+(4) The only ground on which the county planning authority may refuse to approve for the purposes of this paragraph plans or specifications of any operation or work mentioned in column (1) of the following table is a ground specified in relation to it in column (2) of the table.
+
+|  |  |
+|---|---|
+| *(1)* | *(2)* |
+| *Operation or work* | *Grounds* |
+| 1. *Waste and spoil disposal* The disposal of waste or spoil. | That—<br>- (a) the design or external appearance of disposal sites on land within the relevant limits,<br>- (b) the methods by which such sites are worked, or<br>- (c) the noise, dust, vibration or screening arrangements during the operation of such sites, ought to be modified, and are reasonably capable of being modified. That—<br>- (a) to preserve the local environment or local amenity,<br>- (b) to prevent or reduce prejudicial effects on road safety or on the free flow of traffic in the local area, or<br>- (c) to preserve a site of archaeological or historic interest or nature conservation value, the development ought to be carried out on land elsewhere within the relevant limits, and is reasonably capable of being so carried out. |
+| 2. *Borrow pits* The excavation of bulk materials from borrow pits. | That—<br>- (a) the design or external appearance of borrow pits on land within the relevant limits,<br>- (b) the methods by which such pits are worked, or<br>- (c) the noise, dust, vibration or screening arrangements during the operation of such pits, ought to be modified, and are reasonably capable of being modified. That—<br>- (a) to preserve the local environment or local amenity,<br>- (b) to prevent or reduce prejudicial effects on road safety or on the free flow of traffic in the local area, or<br>- (c) to preserve a site of archaeological or historic interest or nature conservation value, the development ought to be carried out on land elsewhere within the relevant limits, and is reasonably capable of being so carried out. |
+
+(5) In the case of each of the items in column (1) of the table in sub-paragraph (4), the second of the grounds specified in relation to the item in column (2) of the table does not apply in relation to development which—
+
+(a) is within the limits of deviation for the scheduled works, or
+
+(b) consists of the use of land specified in columns (1) and (2) of Part 1 of Schedule 6 for a purpose specified in relation to the land in column (3) of that Part.
+
+(6) Sub-paragraph (4) (as it has effect with sub-paragraph (5)) shall apply in relation to the imposition of conditions on approval as it applies in relation to the refusal of approval.
+
+**22** (1) Development shall be carried out in accordance with arrangements approved by the county planning authority at the request of the nominated undertaker with respect to the matters mentioned in column (1) of the table in sub-paragraph (2).
+
+(2) The only ground on which the county planning authority may refuse to approve for the purposes of this paragraph arrangements with respect to a matter mentioned in column (1) of the following table is—
+
+(a) that the arrangements relate to development which, for the purposes of regulating the matter in question, ought to and can reasonably be considered in conjunction with other permitted development which is to be carried out in the authority's area, or
+
+(b) the ground specified in relation to the matter in column (2) of the table.
+
+|  |  |
+|---|---|
+| *(1)* | *(2)* |
+| *Matters* | *Grounds* |
+| 1. *Storage sites* Sites on land within the relevant limits at which—<br>- (a) minerals, aggregates or other construction materials required for the development, or<br>- (b) spoil or top soil, are to be stored until used or re-used in carrying out the development or disposed of as waste. | That the arrangements ought to be modified—<br>- (a) to preserve the local environment, local amenity or a site of archaeological or historic interest or nature conservation value, or<br>- (b) to prevent or reduce prejudicial effects on road safety or on the free flow of traffic in the local area, and are reasonably capable of being so modified. |
+| 2. *Construction camps* Sites on land within the relevant limits which are to be used for the residential accommodation of persons engaged in carrying out the development. | As item 1. |
+| 3. *Screening* Provision where necessary on land within the relevant limits of any screening for working sites on such land required for the purpose of carrying out the development. | As item 1. |
+| 4. *Artificial lighting* The use of artificial lighting on land within the relevant limits for the purpose of carrying out the development. | That the arrangements ought to be modified to preserve the local environment or local amenity, and are reasonably capable of being so modified. |
+| 5. *Suppression of dust* The suppression of dust caused by construction operations carried on on land within the relevant limits for the purpose of carrying out the development. | As item 4. |
+| 6. *Mud on highway* Measures to be taken on land within the relevant limits to prevent mud being carried onto any public highway as a result of carrying out the development. | That the arrangements ought to be modified—<br>- (a) to preserve the local environment or local amenity, or<br>- (b) to prevent or reduce prejudicial effects on road safety or on the free flow of traffic in the local area, and are reasonably capable of being so modified. |
+
+(3) The county planning authority may only impose conditions on approval for the purposes of this paragraph with the agreement of the nominated undertaker.
+
+(4) In sub-paragraph (1), the reference to arrangements, in relation to item 4 in column (1) of the table in sub-paragraph (2), does not include detailed arrangements.
+
+**23** (1) To the extent that development consists of—
+
+(a) the disposal of waste or spoil, or
+
+(b) the excavation of bulk materials from borrow pits,
+
+it shall not be begun unless the county planning authority has, at the request of the nominated undertaker, approved a scheme for the restoration of the land on which the development is to be carried out.
+
+(2) The only ground on which the county planning authority may refuse to approve, or impose conditions on the approval of, a scheme for the purposes of this paragraph is that the scheme ought to be modified and is reasonably capable of being modified.
+
+(3) The nominated undertaker shall carry out a scheme approved for the purposes of this paragraph once it has completed its use of the land to which the scheme relates for the purpose of carrying out development of a kind to which sub-paragraph (1) applies.
+
+(4) In sub-paragraph (1), the reference to restoration includes a reference to restoration in the longer term; and, accordingly, a scheme for the restoration of land may include provision about aftercare.
+
+**24** (1) Development shall be carried out in accordance with arrangements approved by the county planning authority at the request of the nominated undertaker with respect to the routes by which anything is to be transported on a highway by a large goods vehicle to—
+
+(a) a working or storage site,
+
+(b) a site where it will be re-used, or
+
+(c) a waste disposal site.
+
+(2) No arrangements for the purposes of sub-paragraph (1) shall be required—
+
+(a) in relation to transportation on a special road or trunk road, or
+
+(b) in relation to transportation to a site where the number of large goods vehicle movements (whether to or from the site) does not on any day exceed 24.
+
+(3) The only ground on which the county planning authority may refuse to approve arrangements for the purposes of this paragraph is—
+
+(a) that the arrangements relate to development which, for the purposes of regulating the matter in question, ought to and can reasonably be considered in conjunction with other permitted development which is to be carried out in the authority's area, or
+
+(b) that the arrangements ought to be modified to preserve the local environment, local amenity or a site of archaeological or historic interest or nature conservation value, or to prevent or reduce prejudicial effects on road safety or on the free flow of traffic in the local area, and are reasonably capable of being so modified.
+
+(4) The county planning authority may only impose conditions on approval for the purposes of this paragraph with the agreement of the nominated undertaker.
+
+### Part 4 — Supplementary
+
+#### Programming of requests for planning approvals
+
+**25** A planning authority shall not be required to entertain a request for approval under Part 2 or 3 unless—
+
+(a) the nominated undertaker has deposited with the authority a document setting out its proposed programme with respect to the making of requests under that Part to the authority, and
+
+(b) the request is accompanied by a document explaining how the matters to which the request relates fit into the overall scheme of the works authorised by this Act.
+
+#### Consultation
+
+**26** (1) Where a planning authority considers that a request for approval under Part 2 or 3 relates to matters which may affect—
+
+(a) nature conservation,
+
+(b) the conservation of the natural beauty or amenity of the countryside, or
+
+(c) a site or archaeological or historic interest,
+
+it shall within 5 days of receiving the request, invite the appropriate body or bodies to make representations.
+
+(2) Where under sub-paragraph (1) a planning authority has invited a body to make representations about a request for approval under Part 2 or 3, it shall not make any decision about the request until—
+
+(a) it has received representations from the body about the request,
+
+(b) it has been informed by the body that it does not wish to make any representations, or
+
+(c) 21 days have elapsed since the date of the invitation.
+
+(3) An invitation under sub-paragraph (1) shall specify the time limit for making representations.
+
+(4) For the purposes of this paragraph, the following are the appropriate bodies in relation to the following matters—
+
+|  |  |
+|---|---|
+| *Matter* | *Body* |
+| Nature conservation. | Natural England. |
+| Conservation of the natural beauty or amenity of the countryside. | Natural England. |
+| Sites of archaeological or historic interest. | The Historic Buildings and Monuments Commission for England. |
+
+**27** (1) Where a planning authority considers that a request for approval under Part 2 or 3 relates to matters which may affect—
+
+(a) the conservation of the natural beauty or amenity of inland or coastal waters or land associated with such waters,
+
+(b) the conservation of flora or fauna which are dependent on an aquatic environment, or
+
+(c) the use of such waters or land for recreational purposes,
+
+it shall within 5 days of receiving the request, invite the Environment Agency to make representations.
+
+(2) Where under sub-paragraph (1) above a planning authority has invited the Environment Agency to make representations about a request for approval under Part 2 or 3, it shall not make any decision about the request until—
+
+(a) it has received representations from the Agency about the request,
+
+(b) it has been informed by the Agency that it does not wish to make any representations about the request, or
+
+(c) 21 days have elapsed since the date of the invitation.
+
+(3) An invitation under sub-paragraph (1) shall specify the time limit for making representations.
+
+#### Intervention by the Secretary of State
+
+**28** (1) The appropriate Ministers may by directions require a planning authority to refer any request for approval under Part 2 or 3 to them.
+
+(2) In determining a request referred to them under this paragraph, the appropriate Ministers shall have the same powers as the authority making the reference.
+
+(3) The determination by the appropriate Ministers of a request referred to them under this paragraph shall be final.
+
+(4) Directions under this paragraph may—
+
+(a) be given in relation to a specified request or requests of a specified description, and
+
+(b) cancel or vary previous directions under this paragraph.
+
+**29** (1) The appropriate Ministers may by directions restrict a planning authority's powers in relation to the grant of approval under Part 2 or 3.
+
+(2) Directions under this paragraph may—
+
+(a) be given in relation to a specified approval or approvals of a specified description,
+
+(b) be expressed to have effect without limit of time or during a specified period, and
+
+(c) cancel or vary previous directions under this paragraph.
+
+#### Appeals
+
+**30** (1) Where the nominated undertaker is aggrieved by a decision of a planning authority on a request for approval under Part 2 or 3 (including a decision under sub-paragraph (2) of paragraph 5, 6, 14, 15 or 21), it may appeal to the appropriate Ministers by giving notice of the appeal in the prescribed form to them and to the authority whose decision is appealed against within 42 days of notification of the decision.
+
+(2) On an appeal under this paragraph, the appropriate Ministers may allow or dismiss the appeal or vary the decision of the authority whose decision is appealed against, but may only make a determination involving the refusal of, or imposition of conditions on, approval on grounds open to that authority.
+
+(3) Where, following receipt by a planning authority of a request by the nominated undertaker for relevant approval, the authority does not notify the undertaker within the appropriate period—
+
+(a) of its decision on the request, or
+
+(b) that the request has been referred to the appropriate Ministers in accordance with directions under paragraph 28,
+
+this paragraph shall apply as if the authority had refused the request and notified the undertaker of its decision on the last day of the appropriate period.
+
+(4) For the purposes of sub-paragraph (3), the appropriate period is the period of 8 weeks beginning with the date on which the request was received by the planning authority or such extended period as may be agreed upon in writing between the authority and the nominated undertaker.
+
+(5) The appropriate Ministers may by regulations make provision for the extension of the appropriate period for the purposes of sub-paragraph (3) in connection with the payment of fees by means of cheque.
+
+(6) An agreement under sub-paragraph (4) may be made after, as well as before, the end of the appropriate period.
+
+(7) No agreement may be made under sub-paragraph (4) to extend a period after it has ended if the nominated undertaker has given notice of appeal against the refusal which is deemed under sub-paragraph (3) to have occurred because of the ending of the period.
+
+(8) Where an agreement under sub-paragraph (4) to extend a period is made after the period has ended, sub-paragraph (3) shall be treated as not having applied when the period ended.
+
+(9) In this paragraph, “prescribed” means prescribed by regulations made by the appropriate Ministers.
+
+**31** No appeal under section 78 of the Town and Country Planning Act 1990 (c. 8) (right to appeal against planning decisions and failure to take such decisions) may be made against a decision, or failure to notify a decision, in relation to which a right of appeal arises under paragraph 30.
+
+**32** (1) Unless the appropriate Ministers direct otherwise, their functions in relation to the determination of an appeal under paragraph 30 shall, instead of being carried out by them, be carried out by a person appointed by them for the purpose.
+
+(2) The appropriate Ministers may by a further direction revoke a direction under sub-paragraph (1) at any time before the determination of the appeal.
+
+(3) A direction under sub-paragraph (1) or (2) shall be served on the nominated undertaker and the planning authority whose decision is appealed against.
+
+(4) At any time before the determination of an appeal by a person appointed for the purpose under this paragraph, the appropriate Ministers may revoke his appointment and appoint another person to determine the appeal instead.
+
+(5) Where the function of determining an appeal under paragraph 30 is transferred from one person to another, the person to whom the function is transferred shall consider the matter afresh, but the fact that the function is transferred shall not entitle any person to make fresh representations or to modify or withdraw any representations already made.
+
+(6) If the appropriate Ministers determine an appeal which another person was previously appointed to determine, they may, in determining it, take into account any report made to them by that person.
+
+**33** The decision of the person appointed under paragraph 32, or, as the case may be, of the appropriate Ministers, on an appeal under paragraph 30 shall be final.
+
+**34** (1) An appeal under paragraph 30 shall be dealt with on the basis of written representations, unless the person deciding the appeal directs otherwise.
+
+(2) Subject to that, the appropriate Ministers may by regulations make such provision as they think fit about procedure in relation to appeals under paragraph 30.
+
+(3) Regulations under sub-paragraph (2) may, in particular—
+
+(a) make provision for a time limit within which any person entitled to make representations must submit them in writing and any supporting documents,
+
+(b) empower the person deciding an appeal to proceed to a decision taking into account only such written representations and supporting documents as were submitted within the time limit, and
+
+(c) empower the person deciding an appeal, after giving written notice of his intention to do so to the nominated undertaker and the planning authority whose decision is appealed against, to proceed to a decision notwithstanding that no written representations were made within the time limit, if it appears to him that he has sufficient material before him to enable him to reach a decision on the merits of the case.
+
+(4) Regulations under sub-paragraph (2) may, in relation to such a time limit as is mentioned in sub-paragraph (3)(a)—
+
+(a) prescribe the time limit in regulations, or
+
+(b) enable the appropriate Ministers to give directions setting the time limit in a particular case or class of case.
+
+**35** (1) Regulations under paragraph 30 or 34 may make different provision for different cases.
+
+(2) The power to make regulations under paragraph 30 or 34 shall be exercisable by statutory instrument which shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+#### Modification of Schedule
+
+**36** (1) The Secretary of State may by order amend this Schedule as he thinks fit in consequence of provision made by an order under section 149 of the Local Government, Planning and Land Act 1980 (c. 65) (power to substitute an urban development corporation as the local planning authority) as applied by section 5 of the London Olympic and Paralympic Games Act 2006 (c. 12) (application in relation to the Olympic Delivery Authority).
+
+(2) The power to make an order under this paragraph shall be exercisable by statutory instrument which shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+#### Interpretation
+
+**37** (1) In this Schedule—
+
+- “building” includes any structure other than—
+
+  - (a) anything in the nature of plant or machinery,
+  - (b) any gate, fence, wall or other means of enclosure, or
+  - (c) any tunnel, earthwork or railway track bed,
+
+  but does not include anything temporary or, except where forming part of a station and intended for use by members of the public without a ticket or other permission to travel, anything underground;
+
+- “deemed planning permission” means the permission deemed by section 10(1) to be granted;
+
+- “large goods vehicle” has the same meaning as in Part 4 of the Road Traffic Act 1988 (c. 52);
+
+- “permitted development” means development to which the deemed planning permission relates;
+
+- “railway vehicle” and “track” have the same meanings as in Part 1 of the Railways Act 1993 (c. 43);
+
+- “special road” and “trunk road” have the same meanings as in the Highways Act 1980 (c. 66).
+
+(2) In this Schedule, references to the appropriate Ministers are to the Secretary of State for [[^F32]Housing, Communities and Local Government] and the Secretary of State for Transport and, in relation to the carrying out of any function, are to those Ministers acting jointly.
+
+(3) For the purposes of this Schedule, spoil or top soil is surplus if it is not used for the purposes of any of the works authorised by this Act.
+
+## SCHEDULE 8 — Extension of permitted development rights: supplementary provisions
+
+*Section 15*
+
+### Conditions of permitted development
+
+**1** (1) Planning permission granted by virtue of section 15(1) is subject to the condition that development is carried out in accordance with such requirements as the Secretary of State may by notice in writing to the developer specify for the purpose of—
+
+(a) avoiding a breach of a relevant undertaking, or
+
+(b) securing that the environmental effects of carrying out the development are not materially different from those envisaged by the relevant environmental assessment.
+
+(2) The power conferred by sub-paragraph (1) is exercisable after, as well as before, development is commenced.
+
+(3) The power conferred by sub-paragraph (1) includes power, exercisable in the same manner, to vary or revoke a notice under that sub-paragraph.
+
+(4) The condition imposed by sub-paragraph (1) is in addition to any condition to which the planning permission may be subject apart from this paragraph.
+
+### Controls in relation to proposed development
+
+**2** (1) Where—
+
+(a) it appears to the Secretary of State that a person is proposing to carry out development of a kind mentioned in section 15(1)(a), and
+
+(b) the Secretary of State is of the opinion that the proposed development has not been the subject of environmental assessment in connection with the Crossrail Bill,
+
+he may give notice in writing of his opinion to the proposed developer.
+
+(2) The power conferred by sub-paragraph (1) includes power, exercisable in the same manner, to withdraw a notice under that sub-paragraph.
+
+(3) Where a notice given under sub-paragraph (1) has not been withdrawn, section 15(1) shall be treated as not applying to the carrying out by the person to whom the notice is given of the development to which it relates.
+
+**3** (1) This paragraph applies where it appears to the Secretary of State—
+
+(a) that a person is proposing to carry out development of a kind mentioned in section 15(1)(a), and
+
+(b) that the development has been the subject of environmental assessment in connection with the Crossrail Bill.
+
+(2) If it appears to the Secretary of State that it is necessary or desirable to do so for the purpose of avoiding a breach of a relevant undertaking, he may, by notice in writing to the proposed developer, disapply section 15(1) in relation to the carrying out of the development by that person.
+
+(3) The power conferred by sub-paragraph (2) includes power, exercisable in the same manner, to revoke a notice under that sub-paragraph.
+
+### Notices
+
+**4** A notice under this Schedule shall—
+
+(a) specify the person to whom it is given,
+
+(b) specify the development to which it relates,
+
+(c) explain the reasons for it, and
+
+(d) in the case of a notice under paragraph 2, explain its effect.
+
+**5** Notices under this Schedule shall be served by post.
+
+**6** Where the Secretary of State gives a notice under this Schedule he shall—
+
+(a) in the case of a notice relating to development in the area of a unitary authority, give a copy of the notice to the local planning authority;
+
+(b) in the case of a notice relating to development not in the area of a unitary authority, give a copy of the notice to the district planning authority.
+
+### Interpretation
+
+**7** For the purposes of this Schedule, development has been the subject of environmental assessment in connection with the Crossrail Bill if it is development in relation to which information contained in a statement specified for the purposes of section 15(1)(b) constituted at the time of the statement's deposit or publication an environmental statement within the meaning of the EIA regulations.
+
+**8** In this Schedule—
+
+(a) “relevant undertaking” means an undertaking given by the Secretary of State—
+
+(i) to the Select Committee of the House of Commons to which the Crossrail Bill was committed, or
+
+(ii) to the Select Committee of the House of Lords to which that bill was committed;
+
+(b) references to the relevant environmental statement, in relation to development for which planning permission is granted by virtue of section 15(1), are to the statement by virtue of which paragraph (b) of that subsection applies.
+
+## SCHEDULE 9 — Heritage: disapplication and modification of controls
+
+*Section 16*
+
+### Listed buildings and conservation areas
+
+**1** (1) Subject to sub-paragraph (2), if a listed building was such a building immediately before 15th December 2004 and is specified in columns (1) and (2) of the following table—
+
+(a) section 7 of the Planning (Listed Buildings and Conservation Areas) Act 1990 (c. 9) (restriction on works affecting listed buildings) shall not apply to works carried out in relation to the building in exercise of the powers conferred by this Act,
+
+(b) to the extent that a notice issued in relation to the building under section 38(1) of that Act (enforcement) requires the taking of steps which would be rendered ineffective, or substantially ineffective, by works proposed to be carried out in exercise of the powers conferred by this Act, it shall not have effect or, as the case may be, shall cease to have effect,
+
+(c) no steps may be taken in relation to the building under section 42(1) of that Act (execution of works specified in notice under section 38(1)) which would be rendered ineffective, or substantially ineffective, by works proposed to be carried out in exercise of the powers conferred by this Act, and
+
+(d) no works may be executed for the preservation of the building under section 54 of that Act (urgent works to preserve unoccupied listed buildings) which would be rendered ineffective, or substantially ineffective, by works proposed to be carried out in exercise of the powers conferred by this Act.
+
+(2) In the case of any building specified in columns (1) and (2) of the following table in relation to which any description of works is specified in column (3) of that table, sub-paragraph (1) shall have effect as if the references to works carried out in exercise of the powers conferred by this Act were, so far as concerns works of demolition or alteration (as opposed to extension), to works so carried out which are of a description specified in relation to it in that column.
+
+(3) Paragraphs (a) to (d) of sub-paragraph (1) shall also apply in relation to a listed building which was not such a building immediately before 15th December 2004.
+
+(4) If a building included in a conservation area and not a listed building—
+
+(a) was not included in a conservation area immediately before 15th December 2004, or
+
+(b) was included in such an area immediately before that date and is specified in columns (1) and (2) of the following table,
+
+section 74 of the Planning (Listed Buildings and Conservation Areas) Act 1990 (control of demolition in conservation areas) shall not apply to the demolition of it in exercise of the powers conferred by this Act.
+
+<table>
+<tbody>
+<tr><th><i>(1)</i></th><th><i>(2)</i></th><th><i>(3)</i></th></tr>
+<tr><th><i>Area</i></th><th><i>Building</i></th><th><i>Works</i></th></tr>
+<tr><td>Royal Borough of Windsor & Maidenhead and District of South Bucks</td><td>Maidenhead Viaduct. Grade II *</td><td>Alterations in connection with installation of overhead electrification equipment.</td></tr>
+<tr><td>Borough of Slough</td><td>Slough railway station. Grade II</td><td>Demolition of canopies over platform 5. Alterations in connection with platform lengthening, new footbridge, overhead line electrification and ticket hall rearrangement.</td></tr>
+<tr><td>London Borough of Ealing</td><td>Hanwell railway station. Grade II</td><td>Alterations in connection with platform lengthening.</td></tr>
+<tr><td>City of Westminster</td><td>Southern span of footbridge carrying Westbourne Park Passage over the railway.</td><td></td></tr>
+<tr><td></td><td>Boundary wall between Westbourne Park Villas and the railway from Westbourne Park Passage to a point opposite No. 60 Westbourne Park Villas.</td><td></td></tr>
+<tr><td></td><td>Paddington Station. Grade 1</td><td>Demolition of retaining walls, railings, and canopy on Eastbourne Terrace and Departures Road. Demolition of Lynx Building on north-east side of the station. Alterations of deck on north-east side of station (being the deck on part of which the Lynx Building is situated) and area below that deck in connection with (a) construction of new stairs, lifts and escalators, (b) Work No. 1/11B and (c) taxi circulation facility. Alterations to the Lawn in connection with emergency escape provision.</td></tr>
+<tr><td></td><td>Paddington Station, Macmillan House, Eastbourne Terrace. Grade 1</td><td>Alterations and partial demolition of basement and ground floor. Alterations to form an emergency escape in the horse arch.</td></tr>
+<tr><td></td><td>Great Western Hotel, Praed Street. Grade II</td><td>Alterations relating to emergency escape provision.</td></tr>
+<tr><td></td><td>Paddington Underground Station, Praed Street. Grade II</td><td>Alterations in connection with construction of interchange footbridge, lifts and stairs. Alterations and partial demolition of retaining walls.</td></tr>
+<tr><td></td><td>191-195 (odd) Praed Street</td><td></td></tr>
+<tr><td></td><td>197-199 (odd) Praed Street (rear part)</td><td></td></tr>
+<tr><td></td><td>19-23 (odd and even) Spring Street (rear part)</td><td></td></tr>
+<tr><td></td><td>Porter's Lodge in front of number 1 Stratford Place. Grade II</td><td></td></tr>
+<tr><td></td><td>354-358 (even) Oxford Street</td><td></td></tr>
+<tr><td></td><td>18 & 19 Hanover Square</td><td></td></tr>
+<tr><td></td><td>1a Tenterden Street</td><td></td></tr>
+<tr><td></td><td>9 Great Chapel Street / 4 Fareham Street</td><td></td></tr>
+<tr><td></td><td>10-12 (odd and even) Great Chapel Street</td><td></td></tr>
+<tr><td></td><td>2 & 3 Fareham Street</td><td></td></tr>
+<tr><td></td><td>96 Dean Street</td><td></td></tr>
+<tr><td></td><td>93 Dean Street</td><td></td></tr>
+<tr><td></td><td>94 Dean Street. Grade II</td><td></td></tr>
+<tr><td></td><td>95 Dean Street</td><td></td></tr>
+<tr><td></td><td>3 Diadem Court</td><td></td></tr>
+<tr><td></td><td>9 Diadem Court</td><td></td></tr>
+<tr><td></td><td>Bollards on the corner of Fareham Street and Great Chapel Street. Grade II</td><td></td></tr>
+<tr><td></td><td>9-15 (odd) Oxford Street</td><td></td></tr>
+<tr><td></td><td>7 Oxford Street</td><td></td></tr>
+<tr><td></td><td>3-5 (odd) Oxford Street</td><td></td></tr>
+<tr><td></td><td>1 Oxford Street</td><td></td></tr>
+<tr><td></td><td>167 Charing Cross Road</td><td></td></tr>
+<tr><td></td><td>157-163 (odd) & 165 Charing Cross Road</td><td></td></tr>
+<tr><td></td><td>1-6 (odd and even) Falconberg Court</td><td></td></tr>
+<tr><td>London Borough of Camden</td><td>148 Charing Cross Road</td><td></td></tr>
+<tr><td></td><td>138-146 (even) Charing Cross Road</td><td></td></tr>
+<tr><td></td><td>Centre Point, 101 & 103 New Oxford Street and 5-24 (odd and even) St. Giles High Street and pool and frontage to Charing Cross Road. Grade II</td><td>Demolition of pool, fountains and plaza including underground snooker hall and gym. Demolition of exterior stairs to first floor level on the western side of the building. Installation of a temporary entrance.</td></tr>
+<tr><td></td><td>8-10 (even) Southampton Row. Grade II</td><td>Demolition of interior and roof (facade to Southampton Row, Fisher Street and Catton Street to be retained).</td></tr>
+<tr><td></td><td>Kingsway Tram Tunnel. Grade II</td><td>Alterations in connection with carrying out of compensation grouting for the protection of buildings in the vicinity.</td></tr>
+<tr><td>City of London</td><td>Smithfield Market. Grade II*</td><td>Partial demolition of basement, including car park deck within the basement and remedial alterations.</td></tr>
+<tr><td></td><td>33-35 (odd and even) Charterhouse Square</td><td></td></tr>
+<tr><td></td><td>36-37 Charterhouse Square</td><td></td></tr>
+<tr><td>London Borough of Islington</td><td>40-42 (even) Charterhouse Street</td><td></td></tr>
+<tr><td>City of London</td><td>Pavilion, Finsbury Circus Gardens.</td><td></td></tr>
+<tr><td></td><td>Gazebo, Finsbury Circus Gardens. Grade II</td><td></td></tr>
+<tr><td></td><td>11-12 Blomfield Street</td><td></td></tr>
+<tr><td></td><td colspan="2">Bridge structures carrying Charterhouse Street and Lindsey Street over Metropolitan Line and Thameslink</td></tr>
+<tr><td></td><td>Barbican. Grade II</td><td>Alterations in connection with carrying out of compensation grouting for the protection of buildings in the vicinity.</td></tr>
+<tr><td>London Borough of Tower Hamlets</td><td>63-67 (odd) Princelet Street (rear extensions)</td><td></td></tr>
+<tr><td></td><td>68-80 (even) Hanbury Street (Britannia House)</td><td></td></tr>
+<tr><td></td><td>82-102 (even) Hanbury Street</td><td></td></tr>
+<tr><td></td><td>Blind Beggar Public House (337 Whitechapel Road) (conservatory)</td><td></td></tr>
+<tr><td></td><td>Whitechapel signal cabin (District Line), west of Fulbourne Street on the north side of the track</td><td></td></tr>
+<tr><td></td><td>Fulbourne Street bridge over District Line</td><td></td></tr>
+<tr><td></td><td>District line retaining wall and parapet, south side of Durward Street and Winthrop Street from a point 23 metres west of the centre line of Fulbourne Street to a point 30 metres east of East London Line</td><td></td></tr>
+<tr><td></td><td>Court Street footbridge over District Line</td><td></td></tr>
+<tr><td></td><td>London Underground infrastructure at or near Whitechapel Station (District Line) including the platform to ticket hall access footbridge east of Wood's Buildings, and the operational garage, staff accommodation block, and associated portacabins at Durward Street level</td><td></td></tr>
+<tr><td></td><td>Wood's Buildings disused footbridge over the District Line</td><td></td></tr>
+<tr><td></td><td>North span of District Line railway bridge over East London line</td><td></td></tr>
+<tr><td></td><td>South span of District Line railway bridge over East London Line</td><td></td></tr>
+<tr><td></td><td>Parapet walls to Durward Street Bridge over East London Line</td><td></td></tr>
+<tr><td></td><td>Drinking fountain, Stepney Green. Grade II</td><td></td></tr>
+<tr><td></td><td>744 Wick Lane</td><td></td></tr>
+<tr><td>London Borough of Barking and Dagenham</td><td>Coal tax marker, Chadwell Heath. Grade II</td><td></td></tr>
+<tr><td>London Borough of Havering</td><td>Gidea Park Station footbridge</td><td></td></tr>
+<tr><td>London Borough of Greenwich</td><td>12, 14, 15 & 16 Gunnery Terrace</td><td></td></tr>
+<tr><td></td><td>Council depot (former electricity generating station), White Hart Road, Plumstead. Grade II</td><td>Alterations in connection with use of the building as site offices and a workshop.</td></tr>
+</tbody>
+</table>
+
+(5) Anything which, by virtue of section 1(5) of the Planning (Listed Buildings and Conservation Areas) Act 1990 (c. 9) (objects or structures fixed to, or within the curtilage of, a building), is treated as part of a building for the purposes of that Act shall be treated as part of the building for the purposes of this paragraph.
+
+(6) In this paragraph, “building” and “listed building” have the same meanings as in the Planning (Listed Buildings and Conservation Areas) Act 1990.
+
+**2** (1) In the case of a listed building to which sub-paragraph (2) applies—
+
+(a) section 7 of the Planning (Listed Buildings and Conservation Areas) Act 1990 (c. 9) shall not apply to any works for the alteration or extension of the building which are carried out, in exercise of the powers conferred by this Act, for the purpose of maintaining or restoring its character as a building of special architectural or historical interest,
+
+(b) to the extent that a notice issued in relation to the building under section 38(1) of that Act requires the taking of steps which would be rendered ineffective, or substantially ineffective, by works proposed to be carried out in exercise of the powers conferred by this Act, it shall not have effect or, as the case may be, shall cease to have effect,
+
+(c) no steps may be taken in relation to the building under section 42(1) of that Act which would be rendered ineffective, or substantially ineffective, by such works as are mentioned in paragraph (b), and
+
+(d) no works may be executed for the preservation of the building under section 54 of that Act which would be rendered ineffective, or substantially ineffective, by such works as are mentioned in paragraph (b).
+
+(2) This sub-paragraph applies to a listed building if it was such a building immediately before 15th December 2004 and is specified in the following table.
+
+<table>
+<tbody>
+<tr><th><i>(1)</i></th><th><i>(2)</i></th></tr>
+<tr><th><i>Area</i></th><th><i>Building</i></th></tr>
+<tr><td>City of Westminster</td><td>Westbourne Bridge, Paddington (Westminster). Grade II.</td></tr>
+<tr><td></td><td>1 Cleveland Terrace. Grade II.</td></tr>
+<tr><td></td><td>Paddington Station. Grade I.</td></tr>
+<tr><td></td><td>Great Western Hotel, Praed Street. Grade II.</td></tr>
+<tr><td></td><td>5-9 (odd) Craven Road. Grade II.</td></tr>
+<tr><td></td><td>1-18 (odd and even) Spring Street. Grade II.</td></tr>
+<tr><td></td><td>163-213 (odd) Sussex Gardens. Grade II.</td></tr>
+<tr><td></td><td>194-204 (even) Sussex Gardens. Grade II.</td></tr>
+<tr><td></td><td>184-192 (even) Sussex Gardens. Grade II.</td></tr>
+<tr><td></td><td>Paddington Underground Station, Praed Street. Grade II.</td></tr>
+<tr><td></td><td>25-31 (odd and even) Hyde Park Gardens and 22–35 (odd and even) Stanhope Terrace. Grade II.</td></tr>
+<tr><td></td><td>1-24 (odd and even) Hyde Park Gardens. Grade II.</td></tr>
+<tr><td></td><td>129 Park Lane. Grade II.</td></tr>
+<tr><td></td><td>32 Green Street. Grade II.</td></tr>
+<tr><td></td><td>10 Green Street. Grade II.</td></tr>
+<tr><td></td><td>23 Lees Place. Grade II.</td></tr>
+<tr><td></td><td>61 Green Street. Grade II*.</td></tr>
+<tr><td></td><td>29 North Audley Street. Grade II.</td></tr>
+<tr><td></td><td>11-12 North Audley Street. Grade II*.</td></tr>
+<tr><td></td><td>14 North Audley Street. Grade II.</td></tr>
+<tr><td></td><td>St. Mark's, North Audley Street. Grade I.</td></tr>
+<tr><td></td><td>Electricity Sub-station, Brown Hart Gardens. Grade II.</td></tr>
+<tr><td></td><td>73 Duke Street. Grade II.</td></tr>
+<tr><td></td><td>Ukrainian Catholic Cathedral– Duke Street/ 21 Binney Street. Grade II*.</td></tr>
+<tr><td></td><td>75, 77, 79, 81–83 Duke Street (odd). Grade II.</td></tr>
+<tr><td></td><td>1, 1a and 2 Duke's Yard – including 85 & 85a Duke Street. Grade II.</td></tr>
+<tr><td></td><td>27 Gilbert Street. Grade II.</td></tr>
+<tr><td></td><td>356-366 Oxford Street (even). Grade II.</td></tr>
+<tr><td></td><td>2-7 (odd and even) Stratford Place W1. Grade II.</td></tr>
+<tr><td></td><td>8-10 (odd and even) Stratford Place W1. Grade II.</td></tr>
+<tr><td></td><td>Stratford House, the Oriental Club, 11 Stratford Place W1. Grade I.</td></tr>
+<tr><td></td><td>12 and 13 Stratford Place W1. Grade II.</td></tr>
+<tr><td></td><td>16 Stratford Place W1. Grade II.</td></tr>
+<tr><td></td><td>66 Brook Street and 51- 53 (odd) Davies Street. Grade I.</td></tr>
+<tr><td></td><td>58 Davies Street. Grade II.</td></tr>
+<tr><td></td><td>50 Davies Street. Grade II.</td></tr>
+<tr><td></td><td>52 & 54 Davies Street. Grade II.</td></tr>
+<tr><td></td><td>1–7 (odd and even) Davies Mews & 28–30 (odd and even) South Molton Lane. Grade II.</td></tr>
+<tr><td></td><td>40-46 (even) Brook Street (north side). Grade II.</td></tr>
+<tr><td></td><td>41 South Molton Street. Grade II.</td></tr>
+<tr><td></td><td>26 South Molton Street. Grade II.</td></tr>
+<tr><td></td><td>24 & 25 South Molton Street. Grade II.</td></tr>
+<tr><td></td><td>21 South Molton Street. Grade II.</td></tr>
+<tr><td></td><td>19 & 20 South Molton Street. Grade II.</td></tr>
+<tr><td></td><td>50 South Molton Street. Grade II.</td></tr>
+<tr><td></td><td>18 South Molton Street. Grade II.</td></tr>
+<tr><td></td><td>17 South Molton Street. Grade II*.</td></tr>
+<tr><td></td><td>14–16 (odd and even) South Molton Street. Grade II.</td></tr>
+<tr><td></td><td>10–12 (odd and even) South Molton Street. Grade II.</td></tr>
+<tr><td></td><td>63 South Molton Street. Grade II.</td></tr>
+<tr><td></td><td>20 Brook Street. Grade II.</td></tr>
+<tr><td></td><td>103 New Bond Street. Grade II.</td></tr>
+<tr><td></td><td>74 New Bond Street. Grade II.</td></tr>
+<tr><td></td><td>20 Hanover Square. Grade II*.</td></tr>
+<tr><td></td><td>21 Hanover Square. Grade II.</td></tr>
+<tr><td></td><td>16 Hanover Square. Grade II.</td></tr>
+<tr><td></td><td>24 Hanover Square. Grade II.</td></tr>
+<tr><td></td><td>15 Hanover Street. Grade II.</td></tr>
+<tr><td></td><td>7 Hanover Street. Grade II.</td></tr>
+<tr><td></td><td>229–247 (odd) Regent Street including 1 Hanover Street and 27 Princes Street. Grade II.</td></tr>
+<tr><td></td><td>223 Regent Street/ 4 Maddox Street. Grade II.</td></tr>
+<tr><td></td><td>225 & 227 Regent Street. Grade II.</td></tr>
+<tr><td></td><td>224-244 (even) Regent Street. Grade II.</td></tr>
+<tr><td></td><td>1-4 (odd and even) Argyll Street. Grade II.</td></tr>
+<tr><td></td><td>208a and 208-222 (even) Regent Street. Grade II.</td></tr>
+<tr><td></td><td>Liberty's, Great Marlborough Street. Grade II*.</td></tr>
+<tr><td></td><td>7-8 Argyll Street. Grade II*.</td></tr>
+<tr><td></td><td>19-21 (odd and even) Great Marlborough Street. Grade II.</td></tr>
+<tr><td></td><td>48 Great Marlborough Street. Grade II.</td></tr>
+<tr><td></td><td>68 Brook Street. Grade II.</td></tr>
+<tr><td></td><td>15 Poland Street. Grade II.</td></tr>
+<tr><td></td><td>13 D'Arblay Street. Grade II.</td></tr>
+<tr><td></td><td>46 Berwick Street. Grade II.</td></tr>
+<tr><td></td><td>67 Berwick Street and 21A Noel Street. Grade II.</td></tr>
+<tr><td></td><td>48 Berwick Street. Grade II.</td></tr>
+<tr><td></td><td>47 Berwick Street. Grade II.</td></tr>
+<tr><td></td><td>5 Noel Street. Grade II.</td></tr>
+<tr><td></td><td>187 Wardour Street. Grade II.</td></tr>
+<tr><td></td><td>2,3 & 4 D'Arblay Street. Grade II.</td></tr>
+<tr><td></td><td>105-109 (odd) Oxford Street & 16-18 (odd and even) Hollen Street. Grade II.</td></tr>
+<tr><td></td><td>152-160 (even) Wardour Street. Grade II.</td></tr>
+<tr><td></td><td>17 Carlisle Street. Grade II.</td></tr>
+<tr><td></td><td>6 Carlisle Street. Grade II.</td></tr>
+<tr><td></td><td>5 Carlisle Street. Grade II.</td></tr>
+<tr><td></td><td>4 Carlisle Street. Grade II.</td></tr>
+<tr><td></td><td>90 Dean Street. Grade II.</td></tr>
+<tr><td></td><td>89 Dean Street. Grade II.</td></tr>
+<tr><td></td><td>88 Dean Street. Grade II.</td></tr>
+<tr><td></td><td>4-6 (odd and even) Soho Square/ 6 Dean Street. Grade II.</td></tr>
+<tr><td></td><td>3 Soho Square/7 Dean Street. Grade II.</td></tr>
+<tr><td></td><td>2 Soho Square. Grade II.</td></tr>
+<tr><td></td><td>8 Dean Street. Grade II.</td></tr>
+<tr><td></td><td>38 & 38a Soho Square. Grade II.</td></tr>
+<tr><td></td><td>37 Soho Square. Grade II.</td></tr>
+<tr><td></td><td>10 & 10A Soho Square. Grade II.</td></tr>
+<tr><td></td><td>8 & 9 Soho Square. Grade II.</td></tr>
+<tr><td></td><td>19 Carlisle Street. Grade II.</td></tr>
+<tr><td></td><td>36 Soho Square. Grade II.</td></tr>
+<tr><td></td><td>13 Soho Square. Grade II*.</td></tr>
+<tr><td></td><td>15 Soho Square. Grade II.</td></tr>
+<tr><td></td><td>21 Soho Square. Grade II.</td></tr>
+<tr><td></td><td>St. Patrick's Presbytery. Grade II.</td></tr>
+<tr><td></td><td>St. Patrick's RC church, Soho Square. Grade II*.</td></tr>
+<tr><td></td><td>29 & 30 Soho Square The Hospital for Women. Grade II.</td></tr>
+<tr><td></td><td>26 Soho Square. Grade II*.</td></tr>
+<tr><td></td><td>3 Greek Street. Grade II.</td></tr>
+<tr><td></td><td>1 Greek Street. Grade I.</td></tr>
+<tr><td></td><td>14 Manette Street. Grade II.</td></tr>
+<tr><td></td><td>16 & 17 Manette Street. Grade II.</td></tr>
+<tr><td>London Borough of Camden</td><td>Centre Point, 101 & 103 New Oxford Street and 5-24 (odd and even) St. Giles High Street and pool and frontage to Charing Cross Road. Grade II.</td></tr>
+<tr><td></td><td>20 Denmark Street and 16 Denmark Place. Grade II.</td></tr>
+<tr><td></td><td>5 & 6-7 (odd and even) Denmark Street. Grade II.</td></tr>
+<tr><td></td><td>9 & 10 Denmark Street. Grade II.</td></tr>
+<tr><td></td><td>26 Denmark Street. Grade II.</td></tr>
+<tr><td></td><td>27 Denmark Street. Grade II.</td></tr>
+<tr><td></td><td>Phoenix Theatre, Charing Cross Road. Grade II.</td></tr>
+<tr><td></td><td>12 Flitcroft Street. Grade II.</td></tr>
+<tr><td></td><td>59 St Giles High Street. Grade II.</td></tr>
+<tr><td></td><td>1-5 (odd and even) Flitcroft Street. Grade II.</td></tr>
+<tr><td></td><td>21 Monmouth Street. Grade II.</td></tr>
+<tr><td></td><td>55 Neal Street. Grade II.</td></tr>
+<tr><td></td><td>64 Neal Street. Grade II.</td></tr>
+<tr><td></td><td>51-59 (odd), 61, 63-69 (odd) Endell Street. Grade II.</td></tr>
+<tr><td></td><td>Shaftesbury Theatre, Shaftesbury Avenue. Grade II.</td></tr>
+<tr><td></td><td>St Giles' Almshouses, 17A Macklin Street (also 9-10 Smarts Place). Grade II</td></tr>
+<tr><td></td><td>8a Smarts Place. Grade II.</td></tr>
+<tr><td></td><td>23 Macklin Street. Grade II.</td></tr>
+<tr><td></td><td>24 Stukely St/25 Macklin Street. Grade II.</td></tr>
+<tr><td></td><td>Holborn Town Hall and Library, High Holborn. Grade II.</td></tr>
+<tr><td></td><td>199-201(odd and even) High Holborn. Grade II.</td></tr>
+<tr><td></td><td>207 High Holborn. Grade II.</td></tr>
+<tr><td></td><td>Princess Louise Pub, 208-209 High Holborn. Grade II*</td></tr>
+<tr><td></td><td>212 High Holborn. Grade II.</td></tr>
+<tr><td></td><td>127 & 129 High Holborn. Grade II.</td></tr>
+<tr><td></td><td>14-16 (odd and even) Southampton Place. Grade II*.</td></tr>
+<tr><td></td><td>7-8 Southampton Place. Grade II*.</td></tr>
+<tr><td></td><td>15-23 (odd and even) Southampton Row. Grade II.</td></tr>
+<tr><td></td><td>Kingsway Tram Subway, Southampton Row. Grade II.</td></tr>
+<tr><td></td><td>Central School of Arts and Crafts, Southampton Row. Grade II*.</td></tr>
+<tr><td></td><td>Carlisle House, 8 & 10 Southampton Row. Retained Fa[lcced]ade. Grade II.</td></tr>
+<tr><td></td><td>Baptist Church House, 2-6 (even) Southampton Row. Grade II*.</td></tr>
+<tr><td></td><td>11&12 Red Lion Square (Summit House). Grade II.</td></tr>
+<tr><td></td><td>14-17 (odd and even) Red Lion Square. Grade II.</td></tr>
+<tr><td></td><td>31&32 part of 29 -32 (odd and even) Bedford Row. Grade II.</td></tr>
+<tr><td></td><td>33-36 (odd and even) Bedford Row. Grade II.</td></tr>
+<tr><td></td><td>6-7 (odd and even) Bedford Row, and railings. Grade II.</td></tr>
+<tr><td></td><td>8-13 (odd and even) Bedford Row, and railings. Grade II*.</td></tr>
+<tr><td></td><td>14 Bedford Row, and railings. Grade II.</td></tr>
+<tr><td></td><td>4 Raymond Buildings. Grade II.</td></tr>
+<tr><td></td><td>5 Raymond Buildings. Grade II.</td></tr>
+<tr><td></td><td>6 Raymond Buildings. Grade II.</td></tr>
+<tr><td></td><td>6 Gray's Inn Square. Grade II*.</td></tr>
+<tr><td></td><td>8 Gray's Inn square. Grade II*.</td></tr>
+<tr><td></td><td>7 Gray's Inn Square. Grade II*.</td></tr>
+<tr><td></td><td>14 Gray's Inn Square. Grade II*.</td></tr>
+<tr><td></td><td>13 Gray's Inn Square. Grade II*.</td></tr>
+<tr><td></td><td>12 Gray's Inn Square. Grade II*.</td></tr>
+<tr><td></td><td>St. Alban's Church, Dorrington/Brooke Street. Grade II*.</td></tr>
+<tr><td></td><td>St. Alban's Clergy House, 18 Dorrington Street. Grade II.</td></tr>
+<tr><td></td><td>10 & 11 Greville Street. Grade II.</td></tr>
+<tr><td></td><td>19, 20 & 21 Hatton Gardens. Grade II.</td></tr>
+<tr><td></td><td>25 & 27 Farringdon Road. Grade II.</td></tr>
+<tr><td>London Borough of Islington</td><td>51-53 (odd and even) Charterhouse Street. Grade II.</td></tr>
+<tr><td></td><td>54-60 (odd and even) Cowcross Street. Grade II.</td></tr>
+<tr><td></td><td>Farringdon Station, including 36-38 (odd and even) and 40-42 (odd and even) Cowcross Street. Grade II.</td></tr>
+<tr><td></td><td>101and 102 Turnmill Street and 32-35 (odd and even) Cowcross Street. Grade II.</td></tr>
+<tr><td></td><td>67-77 (odd) Charterhouse Street. Grade II.</td></tr>
+<tr><td></td><td>26 & 27 Cowcross Street. Grade II.</td></tr>
+<tr><td></td><td>9-13 (odd and even) Cowcross Street. Grade II.</td></tr>
+<tr><td></td><td>14-16 (odd and even) Cowcross Street. Grade II.</td></tr>
+<tr><td></td><td>94 Cowcross Street. Grade II.</td></tr>
+<tr><td></td><td>3 & 5 St John Street. Grade II.</td></tr>
+<tr><td></td><td>2-6 (even) St John Street (including 89 Charterhouse street). Grade II.</td></tr>
+<tr><td></td><td>16 St John Street. Grade II.</td></tr>
+<tr><td></td><td>18 & 20 St John Street. Grade II.</td></tr>
+<tr><td></td><td>24 St John Street. Grade II.</td></tr>
+<tr><td></td><td>22 St John Street. Grade II.</td></tr>
+<tr><td></td><td>26 St John Street. Grade II.</td></tr>
+<tr><td></td><td>115 Charterhouse Street. Grade II.</td></tr>
+<tr><td></td><td>119 Charterhouse Street. Grade II.</td></tr>
+<tr><td></td><td>109-113 (odd) Charterhouse Street. Grade II.</td></tr>
+<tr><td></td><td>22 Charterhouse Square (North Side) including railings. Grade II.</td><td></td></tr>
+<tr><td>City of London</td><td>133-134 Aldersgate Street. Grade II.</td></tr>
+<tr><td></td><td>West/East building Smithfield Market. Grade II*</td></tr>
+<tr><td></td><td>74 & 75 Long Lane. Grade II.</td></tr>
+<tr><td></td><td>Barbican. Grade II.</td></tr>
+<tr><td></td><td>137-141 (odd) Moorgate. Grade II.</td></tr>
+<tr><td></td><td>1-6 (odd and even) Finsbury Circus. Grade II*.</td></tr>
+<tr><td></td><td>28-30 (odd and even) Salisbury House, Finsbury Circus. Grade II.</td></tr>
+<tr><td></td><td>76-92 (even) Moorgate. Grade II.</td></tr>
+<tr><td></td><td>87 Moorgate. Grade II.</td></tr>
+<tr><td></td><td>83 Moorgate. Grade II.</td></tr>
+<tr><td></td><td>8 Moorfields. Grade II.</td></tr>
+<tr><td></td><td>4 Moorfields. Grade II.</td></tr>
+<tr><td></td><td>118 London Wall. Grade II.</td></tr>
+<tr><td></td><td>59-73 (odd) Moorgate. Grade II.</td></tr>
+<tr><td></td><td>118a London Wall/2 Moorfields. Grade II.</td></tr>
+<tr><td></td><td>81 Coleman Street (Armourers' and Braziers' Hall). Grade II*.</td></tr>
+<tr><td></td><td>16-18 (even) Finsbury Circus and 16-31 (odd and even) Eldon Street. Grade II.</td></tr>
+<tr><td></td><td>22 & 23 Blomfield Street. Grade II.</td></tr>
+<tr><td></td><td>25 Finsbury Circus (London Wall Buildings). Grade II.</td></tr>
+<tr><td></td><td>Church of All Hallows on the Wall. Grade II.</td></tr>
+<tr><td></td><td>56-60 (odd and even) and 62 New Broad Street. Grade II.</td></tr>
+<tr><td></td><td>76-80 (odd and even) Old Broad Street. Grade II.</td></tr>
+<tr><td></td><td>Great Eastern Hotel, Liverpool Street Station. Grade II.</td></tr>
+<tr><td></td><td>Church of St Botolph, Bishopsgate. Grade II*.</td></tr>
+<tr><td></td><td>Church Hall. Church of St Botolph, Bishopsgate. Grade II.</td></tr>
+<tr><td></td><td>8 Bishopsgate Churchyard. Grade II.</td></tr>
+<tr><td></td><td>162 & 164 Bishopsgate. Grade II.</td></tr>
+<tr><td></td><td>Rear 4-18 (even) Devonshire Row. Grade II.</td></tr>
+<tr><td></td><td>5-7 (odd and even) New Street. Grade II.</td></tr>
+<tr><td></td><td>24 & 25 Widegate Street. Grade II.</td></tr>
+<tr><td></td><td>16 New Street. Grade II.</td></tr>
+<tr><td>London Borough of Tower Hamlets</td><td>4A, Sandy's Row. Grade II.</td></tr>
+<tr><td></td><td>15 & 16 Artillery Passage. Grade II.</td></tr>
+<tr><td></td><td>2 Artillery Passage. Grade II.</td></tr>
+<tr><td></td><td>13 & 14 Artillery Passage. Grade II.</td></tr>
+<tr><td></td><td>3 Artillery Passage. Grade II.</td></tr>
+<tr><td></td><td>4 Artillery Passage. Grade II.</td></tr>
+<tr><td></td><td>5 Artillery Passage. Grade II.</td></tr>
+<tr><td></td><td>41 Artillery Lane. Grade II.</td></tr>
+<tr><td></td><td>6 & 7 Artillery Passage. Grade II.</td></tr>
+<tr><td></td><td>9 & 10 Artillery Passage. Grade II.</td></tr>
+<tr><td></td><td>11 Gun Street. Grade II.</td></tr>
+<tr><td></td><td>40 Brushfield Street. Grade II.</td></tr>
+<tr><td></td><td>42 Brushfield Street. Grade II.</td></tr>
+<tr><td></td><td>52 Brushfield Street. Grade II.</td></tr>
+<tr><td></td><td>Spitalfields Market. Grade II.</td></tr>
+<tr><td></td><td>84 Commercial Street. Grade II.</td></tr>
+<tr><td></td><td>1 & 3 Fournier Street. Grade II.</td></tr>
+<tr><td></td><td>4-7 (odd and even) Puma Court. Grade II.</td></tr>
+<tr><td></td><td>17-25 (odd) Wilkes Street. Grade II.</td></tr>
+<tr><td></td><td>11a & 15 Wilkes Street. Grade II.</td></tr>
+<tr><td></td><td>6 Wilkes Street. Grade II.</td></tr>
+<tr><td></td><td>10 Wilkes Street. Grade II.</td></tr>
+<tr><td></td><td>16 Wilkes Street. Grade II.</td></tr>
+<tr><td></td><td>2 & 4 Princelet Street. Grade II.</td></tr>
+<tr><td></td><td>3 & 5 Princelet Street. Grade II.</td></tr>
+<tr><td></td><td>7 & 9 Princelet Street. Grade II.</td></tr>
+<tr><td></td><td>13 Princelet Street. Grade II.</td></tr>
+<tr><td></td><td>11 Princelet Street. Grade II.</td></tr>
+<tr><td></td><td>24 & 26 Hanbury Street. Grade II.</td></tr>
+<tr><td></td><td>12 Princelet Street. Grade II.</td></tr>
+<tr><td></td><td>14 Princelet Street. Grade II.</td></tr>
+<tr><td></td><td>16 Princelet Street. Grade II.</td></tr>
+<tr><td></td><td>18 Princelet Street. Grade II.</td></tr>
+<tr><td></td><td>20 Princelet Street. Grade II.</td></tr>
+<tr><td></td><td>22 Princelet Street. Grade II.</td></tr>
+<tr><td></td><td>15 Princelet Street. Grade II.</td></tr>
+<tr><td></td><td>17 Princelet Street. Grade II.</td></tr>
+<tr><td></td><td>19 Princelet Street. Grade II*.</td></tr>
+<tr><td></td><td>21 Princelet Street. Grade II.</td></tr>
+<tr><td></td><td>23 Princelet Street. Grade II.</td></tr>
+<tr><td></td><td>25 Princelet Street. Grade II.</td></tr>
+<tr><td></td><td>34-38 (even) Hanbury Street. Grade II.</td></tr>
+<tr><td></td><td>114-122 (even) Brick Lane. Grade II.</td></tr>
+<tr><td></td><td>35 Buxton Street. Grade II.</td></tr>
+<tr><td></td><td>333-335 (odd) Whitechapel Road. Grade II.</td></tr>
+<tr><td></td><td>261 & 263 Whitechapel Road. Grade II.</td></tr>
+<tr><td></td><td>265 & 267 Whitechapel Road. Grade II.</td></tr>
+<tr><td></td><td>Trinity Green, Almshouses, Mile End Road, north side: 1- 10 Trinity Green and 22- 30 Trinity Green. Grade I.</td></tr>
+<tr><td></td><td>29 Mile End Road. Grade II.</td></tr>
+<tr><td></td><td>82- 84 (even) Mile End Road. Grade II.</td></tr>
+<tr><td></td><td>90-110 (even) Mile End Road. Grade II.</td></tr>
+<tr><td></td><td>Church of St Dunstan, Stepney High Street. Grade I.</td></tr>
+<tr><td></td><td>1-10 Whitehorse Road (odd and even). Grade II.</td></tr>
+<tr><td></td><td>34-40 (even) Belgrave Street. Grade II.</td></tr>
+<tr><td></td><td>50-52 (even) Belgrave Street. Grade II.</td></tr>
+<tr><td></td><td>19-31 (odd) Barnes Street, West side. Grade II.</td></tr>
+<tr><td></td><td>12-22 (even) Barnes Street. Grade II.</td></tr>
+<tr><td></td><td>1-8 (odd and even) York Square. Grade II.</td></tr>
+<tr><td></td><td>9-16 (odd and even) York Square. Grade II.</td></tr>
+<tr><td></td><td>1A Flamborough Street. Grade II.</td></tr>
+<tr><td></td><td>3-7 (odd and even) Flamborough Street. Grade II.</td></tr>
+<tr><td></td><td>Hawthorn Cottage, 1 Flamborough Walk and Rose Cottage, Flamborough Walk. Grade II.</td></tr>
+<tr><td></td><td>Devonshire Cottage, Flamborough Walk. Grade II.</td></tr>
+<tr><td></td><td>Durham Villa, Flamborough Walk. Grade II.</td></tr>
+<tr><td></td><td>8 Flamborough Street. Grade II.</td></tr>
+<tr><td></td><td>16-21 (odd and even) Flamborough Street. Grade II.</td></tr>
+<tr><td></td><td>22-24 (odd and even) Flamborough Street. Grade II.</td></tr>
+<tr><td></td><td>683-691 (odd) Commercial Road. Grade II.</td></tr>
+<tr><td></td><td>699-711 (odd) Commercial Road. Grade II.</td></tr>
+<tr><td></td><td>604-608 (even) Commercial Road. Grade II.</td></tr>
+<tr><td></td><td>Commercial Road Bridge. Grade II.</td></tr>
+<tr><td></td><td>Viaduct, Commercial Road. Grade II.</td></tr>
+<tr><td></td><td>Accumulator Tower and Chimney, Mill Place (West side). Grade II.</td></tr>
+<tr><td></td><td>Library on Commercial Road. Grade II.</td></tr>
+<tr><td></td><td>Cannon Workshop, 3-5 (odd) Cannon Drive. Grade II.</td></tr>
+<tr><td></td><td>Cannon Workshop, 92-116 (even) Cannon Drive. Grade II.</td></tr>
+<tr><td></td><td>Cannon Workshop, 135-167 (odd) Cannon Drive. Grade II.</td></tr>
+<tr><td></td><td>West India Docks, Isle of Dogs. Grade I.</td></tr>
+<tr><td></td><td>Poplar Dock, Preston's Road. Grade II.</td></tr>
+<tr><td></td><td>Accumulator Tower, Poplar Dock, Preston's Road. Grade II.</td></tr>
+<tr><td></td><td>110 Bow Road. Grade II.</td></tr>
+<tr><td></td><td>Drapers Almshouses, Railway Way (formerly Priscilla Road). Grade II.</td></tr>
+<tr><td></td><td>35-49 Arnold Road (odd and even) including area railings). Grade II.</td></tr>
+<tr><td></td><td>2-22 (even) Fairfield Road. Grade II.</td></tr>
+<tr><td></td><td>163 Bow Road. Grade II.</td></tr>
+<tr><td></td><td>223 Bow Road. Grade II.</td></tr>
+<tr><td></td><td>Bryant and May Factory, Main Building, Fairfield Road. Grade II.</td></tr>
+<tr><td></td><td>London Transport Trolley Bus Depot (Bow Bus Garage). Grade II.</td></tr>
+<tr><td>London Borough of Newham</td><td>North Woolwich Station, Pier Road. Grade II.</td></tr>
+<tr><td>London Borough of Greenwich</td><td>Royal Brass Foundry, Plumstead Road. Grade I.</td></tr>
+<tr><td></td><td>Verbruggen's House, Plumstead Road. Grade II.</td></tr>
+<tr><td></td><td>Officers Quarters, Plumstead Road. Grade II.</td></tr>
+<tr><td></td><td>Royal Arsenal Middle Gate and attached boundary wall to the west.</td></tr>
+<tr><td></td><td>Royal Carriage Factory, Plumstead Road. Grade II.</td></tr>
+<tr><td></td><td>Royal Arsenal Middlegate House, Plumstead. Grade II.</td></tr>
+<tr><td></td><td>Council Depot (former electricity generating station), White Hart Road, Plumstead. Grade II.</td></tr>
+</tbody>
+</table>
+
+(3) Anything which, by virtue of section 1(5) of the Planning (Listed Buildings and Conservation Areas) Act 1990 (c. 9), is treated as part of a building for the purposes of that Act shall be treated as part of the building for the purposes of this paragraph.
+
+(4) In this paragraph, “building” and “listed building” have the same meanings as in the Planning (Listed Buildings and Conservation Areas) Act 1990.
+
+**3** Section 59 of the Planning (Listed Buildings and Conservation Areas) Act 1990 (c. 9) (acts causing or likely to result in damage to listed buildings) shall not apply to anything done in exercise of the powers conferred by this Act with respect to works.
+
+### Ancient monuments etc.
+
+**4** (1) This paragraph has effect in relation to the Ancient Monuments and Archaeological Areas Act 1979 (c. 46).
+
+(2) Section 2 (control of works affecting scheduled monuments) shall not apply to any works authorised by this Act.
+
+(3) The powers of entry conferred by section 6(1) (entry to ascertain condition of scheduled monument), section 6A(1) (entry to enforce control of works affecting scheduled monuments) and section 26 (entry to record matters of archaeological or historical interest) shall not be exercisable in relation to land used for or in connection with the carrying out of any of the works authorised by this Act.
+
+(4) The provisions of the Act with respect to the functions of a person as a guardian by virtue of the Act, and the provisions of any agreement under section 17 (agreement concerning ancient monuments and land in their vicinity), shall have effect subject to the powers conferred by this Act with respect to works.
+
+(5) Section 19 (public access to monuments under public control) shall not apply in relation to a monument which is closed by the nominated undertaker for the purposes of, in connection with or in consequence of the carrying out of any of the works authorised by this Act.
+
+(6) Regulations under section 19(3) or (4A) (which may include provision prohibiting or regulating any act or thing which would tend to injure or disfigure a monument or its amenities or disturb the public in their enjoyment of it) shall not apply to anything done in exercise of the powers conferred by this Act with respect to works.
+
+(7) The power conferred by section 19(6) (power to refuse admission to monuments under public control) shall not be exercisable so as to prevent or restrict the exercise of the powers conferred by this Act with respect to works.
+
+(8) In section 25 (treatment of ancient monuments)—
+
+(a) subsection (2) (superintendence by the Historic Buildings and Monuments Commission for England) shall not authorise the superintendence of the carrying out of any of the works authorised by this Act, and
+
+(b) subsection (3) (power of the Commission to charge for advice under subsection (1)) shall not apply in relation to advice given in connection with the carrying out of any of those works.
+
+(9) Section 28 (offence of damaging certain ancient monuments) shall not apply to anything done in exercise of the powers conferred by this Act with respect to works.
+
+(10) Section 35 (notice required of operations in areas of archaeological importance) shall not apply to operations carried out in exercise of the powers conferred by this Act with respect to works.
+
+(11) Section 39(1) (power to investigate in advance of operations notice any site which may be acquired compulsorily) shall have effect as if operations carried out in exercise of the powers conferred by this Act with respect to works were exempt works for the purposes of that provision.
+
+(12) Section 42(1) (prohibition on use of metal detectors in protected places without consent) shall not apply to the use of a metal detector for the purposes of or in connection with the exercise of the powers conferred by this Act with respect to works.
+
+(13) Section 42(3) (prohibition on removal without consent of object discovered by use of a metal detector in a protected place) shall not apply to the removal of objects discovered by the use of a metal detector for the purposes of or in connection with the exercise of the powers conferred by this Act with respect to works.
+
+**5** (1) The power of entry conferred by section 36(1) of the National Heritage Act 1983 (c. 47) (entry to obtain information about ancient monuments and historic buildings for the purposes of the records kept by the Historic Buildings and Monuments Commission for England) shall only be exercisable in relation to land used, or intended for use, for or in connection with the carrying out of any of the works authorised by this Act with the consent of the nominated undertaker, such consent not to be unreasonably withheld.
+
+(2) Consent for the purposes of sub-paragraph (1) may be granted subject to compliance with any reasonable requirements or conditions imposed for reasons of safety or for the purpose of preventing interference with or delay to the works.
+
+(3) Section 36(6) of the National Heritage Act 1983 (which, in relation to land on which works are being carried out, regulates the exercise of the right to enter land to obtain information about ancient monuments and historic buildings for the purposes of the records kept by the Historic Buildings and Monuments Commission for England) shall not apply in relation to land on which works authorised by this Act are being carried out.
+
+(4) Any dispute under this paragraph shall, if the parties agree, be referred to arbitration, but shall otherwise be determined by the appropriate Ministers acting jointly.
+
+(5) In sub-paragraph (4), “appropriate Ministers” means the Secretary of State for Transport and [[^F33]the Secretary of State for Culture, Media and Sport].
+
+## SCHEDULE 10 — Heritage: rights of entry
+
+*Section 17*
+
+**1** (1) Any person duly authorised in writing by the Historic Buildings and Monuments Commission for England (“the Commission”) may at any reasonable time enter any land on which (or in or under which) a scheduled monument (within the meaning of the Ancient Monuments and Archaeological Areas Act 1979 (c. 46)) is situated—
+
+(a) for the purpose of observing or advising upon the exercise in relation to the land of any of the powers conferred by paragraph 9 of Schedule 2 above, or
+
+(b) for the purpose of inspecting, observing or advising upon the carrying out of any works on the land in exercise of any of the other powers conferred by this Act.
+
+(2) Any person duly authorised in writing by the Commission may at any reasonable time enter any land in Greater London for the purpose of inspecting or observing the carrying out in relation to any building on the land of any decontrolled works.
+
+(3) The right conferred by sub-paragraph (1) or (2) shall not be exercisable at a time when the nominated undertaker reasonably considers that it is not safe to exercise it.
+
+(4) A person exercising the right conferred by sub-paragraph (1) or (2) shall comply with any directions given by the nominated undertaker for the purpose of securing compliance with relevant health and safety provisions.
+
+(5) In this paragraph, “decontrolled works” means works to which section 7 or 74 of the Planning (Listed Buildings and Conservation Areas) Act 1990 (c. 9) would apply, but for paragraph 1(1)(a), (3) or (4) or 2(1)(a) of Schedule 9 to this Act.
+
+**2** (1) The nominated undertaker shall not carry out any decontrolled works consisting of the demolition of a building unless—
+
+(a) notice of the proposal to carry out the works has been given to the Commission, and
+
+(b) the appropriate period since the giving of the notice has elapsed.
+
+(2) Subject to sub-paragraph (3), the appropriate period for the purposes of sub-paragraph (1)(b) is 8 weeks or such longer period as may have been agreed between the nominated undertaker and the Commission.
+
+(3) In case of emergency, the appropriate period for the purposes of sub-paragraph (1)(b) is such period as is reasonable in the circumstances.
+
+(4) In determining whether the appropriate period for the purposes of sub-paragraph (1)(b) has elapsed, there shall be disregarded any day on which entry to the building is refused under paragraph 3(2).
+
+(5) In this paragraph, “decontrolled works” means works to which section 7 of the Planning (Listed Buildings and Conservation Areas) Act 1990 would apply, but for paragraph 1(1)(a) or (3) of Schedule 9 to this Act.
+
+**3** (1) Following the giving of a notice under paragraph 2(1) in relation to any building, any person duly authorised in writing by the Commission may, at any reasonable time during the inspection period, enter the building for the purpose of recording it.
+
+(2) The right conferred by sub-paragraph (1) shall not be exercisable at a time when the nominated undertaker reasonably considers that it is not safe to exercise it.
+
+(3) A person exercising the right conferred by sub-paragraph (1) shall comply with any directions given by the nominated undertaker for the purpose of securing compliance with relevant health and safety provisions.
+
+(4) For the purposes of sub-paragraph (1), the inspection period, in relation to a building which is the subject of a notice under paragraph 2(1), is the period beginning when the notice under that provision is given and ending when the prohibition under that provision ceases to apply to the building.
+
+## SCHEDULE 11 — Application of other railway legislation
+
+*Section 35*
+
+### Highway (Railway Crossings) Act 1839 (c. 45)
+
+**1** The Highway (Railway Crossings) Act 1839 shall not apply to a railway authorised by this Act.
+
+### Railway Regulation Act 1842 (c. 55)
+
+**2** Section 9 of the Railway Regulation Act 1842 shall not apply to a railway authorised by this Act.
+
+### Railways Clauses Consolidation Act 1845 (c. 20)
+
+**3** (1) The Railways Clauses Consolidation Act 1845, insofar as applicable for the purposes of this Act and not inconsistent with its provisions, is hereby incorporated with this Act.
+
+(2) The following provisions are excepted from incorporation by virtue of sub-paragraph (1)—
+
+sections 1, 7 to 9, 11 to 15, 17, 19, 20, 22, 23, 42, 47, 48, 59 to 62, 74, 75, 77 to 85, 87, 88, 94, 95 and 112 to 124.
+
+(3) In their application by virtue of sub-paragraph (1)—
+
+(a) section 2 shall have effect with the substitution for “so incorporated as aforesaid” of “ incorporated ”;
+
+(b) section 6 shall have effect with the omission of the words “and to take lands for that purpose”, “taken or” and “for the value of the lands so taken or used, and”;
+
+(c) sections 18 and 21 shall not apply in any case where the relations between the nominated undertaker and any other person are regulated by sections 84 and 85 of the New Roads and Street Works Act 1991 (c. 22) or Part 2 of Schedule 17 to this Act;
+
+(d) section 68 shall have effect with the omission of the words from “Such and” to “formation thereof” and from “together with all necessary gates” to “all necessary stiles”.
+
+### Railways Clauses Act 1863 (c. 92)
+
+**4** (1) Part 1 of the Railways Clauses Act 1863, insofar as applicable for the purposes of this Act and not inconsistent with its provisions, is hereby incorporated with this Act.
+
+(2) The following provisions are excepted from incorporation by virtue of sub-paragraph (1)—
+
+sections 5 to 7 and 13 to 19.
+
+### Railway Companies (Accounts and Returns) Act 1911 (c. 34)
+
+**[^F34]5** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### British Transport Commission Act 1949 (c. xxix)
+
+**6** (1) Section 55 the British Transport Commission Act 1949 (penalty for trespass on railways etc.) shall also apply in relation to any railway, siding, tunnel, railway embankment, cutting or similar work constructed in exercise of the powers conferred by this Act.
+
+(2) Section 56 of that Act (penalty for stone throwing etc. on railways) shall also apply in relation to any railway or siding constructed in exercise of the powers conferred by this Act.
+
+### Miscellaneous
+
+**7** (1) In their application to—
+
+(a) a Crossrail undertaker,
+
+(b) Crossrail, or
+
+(c) any train being used to provide services for the carriage of passengers or goods on Crossrail,
+
+the enactments specified in column (1) of the following table (which create the offences broadly described in column (2) of the table) shall each have effect as if the maximum fine which may be imposed on summary conviction of any offence specified in the enactment were, instead of that specified in column (3) of the table, a fine not exceeding the level specified in column (4) of the table.
+
+|  |  |  |  |
+|---|---|---|---|
+| *(1)* | *(2)* | *(3)* | *(4)* |
+| *Enactment* | *Description of offence* | *Maximum fine otherwise applicable (level on standard scale)* | *Maximum fine (level on standard scale)* |
+| Section 16 of the Railway Regulation Act 1840 (c. 97). | Obstruction of officers of railway company or trespass upon railway. | Level 1 | Level 3 |
+| Section 17 of the Railway Regulation Act 1842 (c. 55). | Misconduct of persons employed on railways. | Level 1 | Level 3 |
+| The Regulation of Railways Act 1889 (c. 57)— |  |  |  |
+| section 5(1) | Failure to produce ticket, to pay fare or to give name and address. | Level 1 | Level 2 |
+| section 5(3). | Travel with intent to avoid payment of fare. | Level 2 | Level 3 |
+
+(2) In such application—
+
+(a) section 16 of the Railway Regulation Act 1840 (c. 97) shall have effect as if the court had, as an alternative to imposing a fine, the power to award imprisonment for a period not exceeding 51 weeks;
+
+(b) section 5(2) of the Regulation of Railways Act 1889 (power to arrest passenger who fails to produce ticket and refuses to give his name and address) shall have effect as if after the word “refuses” there were inserted the words “ or fails ”.
+
+(3) In relation to an offence committed before the commencement of section 281(5) of the Criminal Justice Act 2003 (c. 44), the reference in subsection (2)(a) to 51 weeks shall be read as a reference to one month.
+
+(4) In this paragraph, “Crossrail undertaker” means a person who, under section 39, is the nominated undertaker for any purpose of section 1(1), so far as relating to Crossrail.
+
+## SCHEDULE 12 — Transfer schemes
+
+*Section 36*
+
+### Part 1 — Transfers from Cross London Rail Links Limited and its subsidiaries
+
+**1** (1) The Secretary of State may make schemes for the transfer of property, rights and liabilities—
+
+(a) from Cross London Rail Links Limited (“CLRL”), or
+
+(b) from a body corporate which is a wholly-owned subsidiary of CLRL,
+
+to any person, including the Secretary of State.
+
+(2) The Secretary of State shall consult CLRL before making a scheme under sub-paragraph (1).
+
+### Part 2 — Transfers from the Greater London Authority, Transport for London [^F35]... and their subsidiaries
+
+**2** (1) The Secretary of State may, for purposes connected with Crossrail, make schemes for the transfer of property, rights and liabilities—
+
+(a) from the Greater London Authority [^F36]... or Transport for London, or
+
+(b) from a body corporate which is a wholly owned subsidiary of the Greater London Authority [^F37]... or Transport for London,
+
+to any person, including the Secretary of State.
+
+(2) The power conferred by sub-paragraph (1) shall be exercisable only with the consent of the transferor.
+
+### Part 3 — Transfers from Secretary of State and companies owned by Secretary of State
+
+**3** (1) The Secretary of State may, for purposes connected with Crossrail, make schemes for the transfer of property, rights and liabilities—
+
+(a) from the Secretary of State, or
+
+(b) from a company which is wholly owned by the Secretary of State,
+
+to any person.
+
+(2) For the purposes of this paragraph, a company is wholly owned by the Secretary of State at any time when it has no members other than one or more persons falling within the following paragraphs—
+
+(a) the Secretary of State;
+
+(b) a company which is wholly owned by the Secretary of State;
+
+(c) a person acting on behalf of the Secretary of State or of a company which is wholly owned by the Secretary of State.
+
+### Part 4 — General provisions about transfer schemes
+
+#### Scheme for grant of lease
+
+**4** Any power under paragraph 1, 2 or 3 to make a scheme for the transfer of any property from one person (A) to another person (B) may be exercised instead so as to make a scheme under that paragraph for the creation by A in favour of B of an interest in, or right in relation to, the property.
+
+#### Property, rights and liabilities that may be transferred
+
+**5** The property, rights and liabilities for whose transfer a scheme may provide include (in particular)—
+
+(a) rights and liabilities relating to contracts of employment;
+
+(b) property, rights and liabilities that would not otherwise be capable of being transferred or assigned by the transferor;
+
+(c) property acquired after the making of the scheme and rights and liabilities arising after the making of the scheme;
+
+(d) rights and liabilities under an enactment.
+
+#### Creation by a scheme of interests, rights and liabilities
+
+**6** (1) A scheme may contain—
+
+(a) provision for the creation, in favour of the transferor, of—
+
+(i) an interest in, or
+
+(ii) a right in relation to,
+
+property whose transfer is provided for by the scheme,
+
+(b) provision for the creation, in favour of a transferee, of—
+
+(i) an interest in, or
+
+(ii) a right in relation to,
+
+property retained by the transferor,
+
+(c) provision for the creation, in favour of a transferee, of—
+
+(i) an interest in, or
+
+(ii) a right in relation to,
+
+property whose transfer to another person is provided for by the scheme,
+
+(d) provision for the creation of rights and liabilities as between the transferor and a transferee, and
+
+(e) provision for the creation of rights and liabilities as between different transferees.
+
+(2) A scheme may contain provision about enforcement, by or against any one or more of the transferor and the transferee or transferees, of a right or liability whose transfer or creation is provided for by the scheme.
+
+#### Identifying what is transferred or created by a scheme
+
+**7** (1) A scheme may define property, rights or liabilities for whose transfer it provides—
+
+(a) by specifying it or them;
+
+(b) by describing it or them.
+
+(2) A scheme may define retained property for the purposes of provision made under paragraph 6(1)(b)—
+
+(a) by specifying it;
+
+(b) by describing it.
+
+(3) A description of property, rights or liabilities may be framed (in particular)—
+
+(a) by reference to the transferor's undertaking;
+
+(b) by reference to a specified part of that undertaking.
+
+#### Scheme may provide for contraventions etc. to be treated as not occurring
+
+**8** (1) A scheme may contain provision for a transfer to take effect as if there were no contravention or liability, or interference with any interest or right, that there would otherwise be by reason of a provision falling within sub-paragraph (2).
+
+(2) A provision falls within this sub-paragraph if it has effect (whether under an enactment or agreement or otherwise) in relation to the terms on which the transferor is entitled to the property or right, or subject to the liability, for whose transfer the scheme provides.
+
+(3) A scheme may contain provision for—
+
+(a) the creation of an interest in property, or
+
+(b) the creation of a right in relation to property,
+
+to take effect as if there were no contravention or liability, or interference with any interest or right, that there would otherwise be by reason of a provision falling within sub-paragraph (4) or (5).
+
+(4) A provision falls within this sub-paragraph if it has effect (whether under an enactment or agreement or otherwise) in relation to the terms on which the transferor is entitled to the property.
+
+(5) A provision falls within this sub-paragraph if it has effect (whether under an enactment or agreement or otherwise) in relation to the terms on which a subsidiary of the transferor is entitled or subject to anything immediately before the creation of the interest or right takes effect.
+
+#### Transfer of shares in subsidiary of transferor
+
+**9** (1) This paragraph applies where a scheme provides for the transfer of shares in a subsidiary of the transferor.
+
+(2) The scheme may contain provision for the transfer to take effect as if there were no contravention or liability, or interference with any interest or right, that there would otherwise be by reason of a provision falling within sub-paragraph (3), but this is without prejudice to paragraph 8(1).
+
+(3) A provision falls within this sub-paragraph if it has effect (whether under an enactment or agreement or otherwise) in relation to the terms on which the subsidiary is entitled or subject to anything immediately before the transfer takes effect.
+
+#### Scheme may modify interests, rights and liabilities of third parties
+
+**10** (1) A scheme may contain provision for interests, rights or liabilities of third parties in relation to anything to which the scheme relates to be modified in the manner set out in the scheme.
+
+(2) In sub-paragraph (1) “third party”, in relation to a scheme, means a person who is neither the transferor nor a transferee.
+
+**11** (1) Sub-paragraph (2) applies where (apart from that sub-paragraph) a person would have a triggered entitlement in consequence of—
+
+(a) property, rights or liabilities having been, or being likely to be, transferred by the operation of paragraph 14(1) in relation to a scheme,
+
+(b) interests, rights or liabilities having been, or being likely to be, created by the operation of paragraph 14(1) in relation to a scheme, or
+
+(c) anything else having been done, or being likely to be done, by or under a scheme.
+
+(2) That triggered entitlement shall, as respects the interest or right to which it relates, be enforceable in consequence of the circumstances mentioned in sub-paragraph (1)(a), (b) or (c) to the extent only that the scheme provides for it to be so enforceable.
+
+(3) In this paragraph “triggered entitlement”, in relation to a scheme, means an entitlement—
+
+(a) to terminate, modify, acquire or claim an interest or right to which the transferor, or a subsidiary of the transferor, is entitled or subject, or
+
+(b) to treat an interest or right to which the transferor, or a subsidiary of the transferor, is entitled or subject as modified or terminated.
+
+#### Scheme may impose obligations to enter into agreements or execute instruments
+
+**12** (1) A scheme may contain provision for imposing, on the transferor or a transferee, obligations—
+
+(a) to enter into agreements with, or
+
+(b) to execute instruments in favour of,
+
+persons specified in the scheme.
+
+(2) The persons who may be so specified are—
+
+(a) a transferee;
+
+(b) the transferor;
+
+(c) any person other than the transferor or a transferee.
+
+(3) Sub-paragraphs (4) to (7) apply where a scheme contains provision for imposing an obligation of the kind mentioned in sub-paragraph (1).
+
+(4) The scheme must specify or describe the agreement or instrument to which the obligation relates.
+
+(5) The obligation may be enforced in any authorised way by the person—
+
+(a) with whom the agreement is to be entered into, or
+
+(b) in favour of whom the instrument is to be executed.
+
+(6) In sub-paragraph (5) “enforced in any authorised way” means—
+
+(a) enforced in civil proceedings for an injunction,
+
+(b) enforced in civil proceedings for any other appropriate remedy or relief, or
+
+(c) enforced in any other way authorised by the scheme.
+
+(7) The scheme may provide for sub-paragraph (6)(a) or (b)—
+
+(a) not to apply in relation to the obligation, or
+
+(b) to apply in relation to the obligation subject to restrictions imposed by the scheme.
+
+#### Supplementary provisions of schemes
+
+**13** (1) A scheme may make such incidental, supplementary, consequential and transitional provision as the Secretary of State considers appropriate.
+
+(2) The provision under sub-paragraph (1) that may be made by a scheme includes (in particular)—
+
+(a) provision saving the effect of things done by or in relation to the transferor,
+
+(b) provision for a transferee to be treated as the same person in law as the transferor,
+
+(c) provision for things done by or in relation to the transferor to be treated as done by or in relation to a transferee,
+
+(d) provision for things (including legal proceedings) being done by or in relation to the transferor to be continued by or in relation to a transferee, and
+
+(e) provision for references in a document to the transferor, or to an employee or office-holder of the transferor, to have effect with modifications specified in the scheme.
+
+(3) In sub-paragraph (2)(e), the reference to an employee or office-holder of the transferor includes a reference to a person employed in [[^F38]any part of the statutory home civil service].
+
+(4) Sub-paragraph (2)(e) does not apply to references in an enactment.
+
+#### Effect of scheme
+
+**14** (1) At the time appointed for the purpose by a scheme—
+
+(a) property, rights and liabilities for whose transfer the scheme provides, and
+
+(b) interests, rights and liabilities for whose creation the scheme provides,
+
+shall, by virtue of this sub-paragraph, be transferred or (as the case may be) created in accordance with the scheme.
+
+(2) A scheme may appoint different times for the transfer or creation of different things.
+
+#### Modification of scheme by agreement
+
+**15** (1) Where the transferor, and the transferee or transferees, under a scheme so agree, the scheme shall be treated for all purposes as having been made with such modifications as may be agreed.
+
+(2) Sub-paragraph (1) does not apply in the case of an agreement relating to rights and liabilities under a contract of employment unless the employee is a party to the agreement.
+
+(3) Sub-paragraph (1) does not apply in the case of an agreement that adversely affects the property or rights of a person other than the transferor or a transferee unless that person is a party to the agreement.
+
+(4) An agreement under sub-paragraph (1) may make—
+
+(a) any provision that could have been contained in the scheme, and
+
+(b) incidental, supplementary, consequential and transitional provision in connection with giving effect to any such provision.
+
+(5) Provision under sub-paragraph (4) may be made so as to have effect from when the scheme was made (or any later time).
+
+#### Transfer of employees and continuity of employment
+
+**16** (1) Where, by virtue of a scheme, a person employed by the transferor becomes an employee of a transferee—
+
+(a) the person is not to be regarded for the purposes of Part 11 of the Employment Rights Act 1996 (c. 18) as having been dismissed by virtue of the transfer,
+
+(b) the person's period of employment with the transferor counts, for the purposes of that Act, as a period of employment with the transferee, and
+
+(c) the change of employment does not break the continuity of the period of employment for the purposes of that Act.
+
+(2) In sub-paragraph (1)—
+
+(a) a reference to becoming an employee of a person includes a reference to becoming employed in [[^F39]any part of the statutory home civil service], and
+
+(b) a reference to being employed by a person, or to employment with a person, includes a reference to being employed in [[^F39]any part of the statutory home civil service].
+
+#### Provision of information to person making scheme
+
+**17** Where the Secretary of State proposes to make a scheme under paragraph 1(1), 2(1) or 3(1) he may direct—
+
+(a) a proposed transferor,
+
+(b) a proposed transferee, or
+
+(c) Cross London Rail Links Limited,
+
+to provide him with such information as he considers necessary to enable him to make the scheme.
+
+**18** (1) This paragraph applies to a direction under paragraph 17.
+
+(2) The direction must specify the period within which the information is to be provided.
+
+(3) The period specified must be not less than 28 days beginning with the day when the direction is given.
+
+(4) If a person fails to comply with the direction, the Secretary of State may serve a notice on the person—
+
+(a) requiring the person to produce to the Secretary of State, at a time and place specified in the notice, any documents which are specified or described in the notice and are in the person's custody or control, or
+
+(b) requiring the person to provide to the Secretary of State, at a time and place and in the form and manner specified in the notice, such information as may be specified or described in the notice.
+
+(5) No person may be required under this paragraph—
+
+(a) to produce a document which he could not be compelled to produce in civil proceedings in the High Court, or
+
+(b) to provide information which he could not be compelled to give in evidence in such proceedings.
+
+(6) A person who intentionally alters, suppresses or destroys a document which he has been required to produce by a notice under sub-paragraph (4) is guilty of an offence and liable—
+
+(a) on summary conviction, to a fine not exceeding the statutory maximum, and
+
+(b) on conviction on indictment, to a fine.
+
+(7) If a person fails to comply with a notice under sub-paragraph (4), the High Court may, on the application of the Secretary of State, make such order as the court thinks fit for requiring the failure to be made good.
+
+(8) Any order under sub-paragraph (7) may include provision requiring all the costs or expenses of and incidental to the application to be borne by one or more of—
+
+(a) the person in default, and
+
+(b) any officers of a body corporate or other association who are responsible for its default.
+
+(9) In this paragraph—
+
+(a) a reference to the production of a document includes a reference to the production of a legible and intelligible copy of information recorded otherwise than in legible form, and
+
+(b) the reference to suppressing a document includes a reference to destroying the means of reproducing information recorded otherwise than in legible form.
+
+#### Agreements relating to schemes
+
+**19** The Secretary of State may by agreement fetter the exercise of his discretion relating to his powers under this Schedule.
+
+### Part 5 — Interpretation
+
+#### Interpretation
+
+**20** (1) In sub-paragraph (2), and in Part 4 of this Schedule except where the context otherwise requires, “scheme” means a scheme under paragraph 1(1), 2(1) or 3(1).
+
+(2) In this Schedule—
+
+- “enactment” includes an enactment—
+
+  - (a) contained in an instrument made under an Act, or
+  - (b) contained in, or in an instrument made under, an Act of the Scottish Parliament;
+
+- [[^F40] “the statutory home civil service” means the civil service (excluding Her Majesty's diplomatic service) within the meaning of Chapter 1 of Part 1 of the Constitutional Reform and Governance Act 2010 (see section 1(4) of that Act); ]
+
+- “subsidiary” and “wholly-owned subsidiary” have the meaning given by section 736 of the Companies Act 1985 (c. 6);
+
+- “transferee”, in relation to a scheme, means a person who is a transferee in respect of property, rights or liabilities for whose transfer the scheme provides (or the person in whose favour any interest or right is created pursuant to paragraph 4);
+
+- “transferor”, in relation to a scheme, means the person for the transfer of whose property, rights or liabilities the scheme provides (or the person by whom any interest or right is created pursuant to paragraph 4).
+
+(3) References in this Schedule to a right or to an entitlement to a right include references to an entitlement to exercise a right; and, accordingly, references to a right's arising include references to its becoming exercisable.
+
+## SCHEDULE 13 — Transfer schemes: tax provisions
+
+*Section 37*
+
+### Part 1 — Introduction
+
+#### Meaning of “public body”
+
+**1** In this Schedule “public body” means a person which is a public body for the purposes of section 66 of FA 2003 (SDLT: transfers involving public bodies).
+
+#### Meaning of “taxable public body” and “exempt public body”
+
+**2** (1) In this Schedule “taxable public body” means a public body which is within the charge to corporation tax.
+
+(2) In this Schedule “exempt public body” means a public body which is exempt from corporation tax.
+
+#### Interpretation: supplementary
+
+**3** (1) In this Schedule—
+
+- “CAA 2001” means the Capital Allowances Act 2001 (c. 2);
+- [[^F41]“ CTA 2009 ” means the Corporation Tax Act 2009;]
+- [[^F42] “ CTA 2010 ” means the Corporation Tax Act 2010; ]
+- “FA”, followed by a year, means the Finance Act of that year;
+- “ICTA” means the Income and Corporation Taxes Act 1988 (c. 1);
+- “ITA 2007” means the Income Tax Act 2007 (c. 3);
+- “ITTOIA 2005” means the Income Tax (Trading and Other Income) Act 2005 (c. 5);
+- “TCGA 1992” means the Taxation of Chargeable Gains Act 1992 (c. 12);
+- “TMA 1970” means the Taxes Management Act 1970 (c. 9);
+- “transfer scheme” means a scheme made under Schedule 12 to this Act;
+- “transferee”, in relation to a transfer in accordance with a transfer scheme, means the person to whom the transfer is made;
+- “transferor”, in relation to a transfer in accordance with a transfer scheme, means the person from whom the transfer is made.
+
+(2) So far as it relates to income tax this Schedule is to be construed as one with the Income Tax Acts.
+
+(3) So far as it relates to capital gains tax this Schedule is to be construed as one with TCGA 1992.
+
+(4) So far as it relates to corporation tax this Schedule is to be construed as one with the Corporation Tax Acts.
+
+(5) So far as it relates to capital allowances this Schedule is to be construed as one with CAA 2001.
+
+### Part 2 — Transfers etc between taxable public bodies
+
+#### Meaning of “relevant transfer” in Part 2 of Schedule
+
+**4** In this Part of this Schedule “relevant transfer” means a transfer, in accordance with a transfer scheme, from a taxable public body to another taxable public body.
+
+#### Computation of profits and losses in respect of transfer of trade
+
+**5** (1) This paragraph applies where a taxable public body (“the predecessor”) is carrying on a trade or a part of a trade and, as a result of a transfer scheme—
+
+(a) the predecessor ceases to carry on that trade or that part of that trade, and
+
+(b) another taxable public body (“the successor”) begins to carry on that trade or that part of it.
+
+(2) For the purpose of computing, in relation to the time when the scheme comes into force and subsequent times, the relevant trading profits or losses of the predecessor and the successor—
+
+(a) the trade or part is to be treated as having been a separate trade at the time of its commencement and as having been carried on by the successor at all times since its commencement as a separate trade, and
+
+(b) the trade carried on by the successor after the time when the scheme comes into force is to be treated as the same trade as that which it is treated, by virtue of paragraph (a), as having carried on as a separate trade before that time.
+
+(3) Where a trade or a part of a trade falls to be treated under this paragraph as a separate trade, such apportionments of receipts, expenses, assets and liabilities shall be made for the purpose of computing relevant trading profits or losses as may be just and reasonable.
+
+(4) This paragraph is subject to the other provisions of this Part of this Schedule.
+
+(5) In this paragraph “relevant trading profits or losses” means profits or losses [[^F43]under Part 3 of CTA 2009 in respect of the trade or part of a trade in question for periods in which the trade was carried on wholly or partly in the United Kingdom.]
+
+#### Transfers of trading stock
+
+**6** (1) This paragraph applies if—
+
+(a) under a relevant transfer trading stock of the transferor is transferred to the transferee, and
+
+(b) paragraph 5 does not apply in relation to that transfer.
+
+(2) Sub-paragraphs (3) and (4) have effect in computing for any corporation tax purpose both the profits of the trade in relation to which the stock is trading stock immediately before the transfer takes effect (“the transferor's trade”) and—
+
+(a) if the stock falls immediately after the transfer takes effect to be treated as trading stock of the transferee, the profits of the trade in relation to which it falls to be treated as trading stock (“the transferee's trade”);
+
+(b) otherwise, the consideration given by the transferee, or the expenditure incurred by the transferee, for the acquisition of the stock.
+
+(3) The stock must be taken to have been—
+
+(a) disposed of by the transferor in the course of the transferor's trade,
+
+(b) if sub-paragraph (2)(a) applies, acquired by the transferee in the course of the transferee's trade, and
+
+(c) subject to that, disposed of and acquired when the transfer takes effect.
+
+(4) The stock must be valued as if the disposal and acquisition had been for a consideration which in relation to the transferor would have resulted in neither a profit nor a loss being brought into account in respect of the disposal in the accounting period of the transferor which ends with, or is current at, the time when the transfer takes effect.
+
+(5) In this paragraph “trading stock” [[^F44]has the meaning given by section 163 of CTA 2009].
+
+#### Capital allowances: transfer of whole trade
+
+**7** (1) This paragraph applies where a taxable public body (“the predecessor”) is carrying on a trade and, as a result of a transfer scheme—
+
+(a) the predecessor ceases to carry on that trade, and
+
+(b) another taxable public body (“the successor”) begins to carry on that trade.
+
+(2) For the purposes of the allowances and charges provided for by CAA 2001, the trade is not to be treated as permanently discontinued, nor a new trade as set up; but sub-paragraphs (3) and (4) are to apply.
+
+(3) There are to be made to or on the successor, in accordance with CAA 2001, all such allowances and charges as would, if the predecessor had continued to carry on the trade, have fallen to be made to or on the predecessor.
+
+(4) The amounts of those allowances and charges are to be computed as if—
+
+(a) the successor had been carrying on the trade since the predecessor began to do so, and
+
+(b) everything done to or by the predecessor had been done to or by the successor,
+
+but so that transfers in accordance with the scheme, so far as they relate to assets in use for the purposes of the trade, shall not be treated as giving rise to an allowance or charge.
+
+#### Capital allowances: transfer of part of a trade
+
+**8** (1) Where a taxable public body (“the predecessor”) is carrying on a trade and, as a result of a transfer scheme—
+
+(a) the predecessor ceases to carry on a trade, and
+
+(b) another taxable public body (“the successor”) begins to carry on activities of that trade as part of a trade carried on by the successor,
+
+then that part of the trade carried on by the successor shall be treated for the purposes of paragraph 7 as a separate trade.
+
+(2) Where a taxable public body (“the predecessor”) is carrying on a trade and, as a result of a transfer scheme—
+
+(a) the predecessor ceases to carry on a part of a trade, and
+
+(b) another taxable public body begins to carry on activities of that part of that trade,
+
+then the predecessor shall be treated for the purposes of paragraph 7 and sub-paragraph (1) as having carried on that part of its trade as a separate trade.
+
+(3) Where activities fall to be treated for the purposes of this paragraph as a separate trade, such apportionments of receipts, expenses, assets and liabilities shall be made for the purposes of CAA 2001 as may be just and reasonable.
+
+#### Capital allowances: transfer of plant or machinery
+
+**9** (1) This paragraph applies where—
+
+(a) there is a relevant transfer of plant or machinery,
+
+(b) paragraph 7 does not apply in relation to that transfer,
+
+(c) the plant or machinery would be treated for the purposes of CAA 2001 as disposed of by the transferor to the transferee on the transfer taking effect, and
+
+(d) the transfer scheme in accordance with which the transfer is made contains provision for the disposal value of the plant or machinery to be treated for the purposes of that Act as an amount specified in or determined in accordance with the scheme.
+
+(2) For the purposes of CAA 2001—
+
+(a) the provision mentioned in sub-paragraph (1)(d) is to have effect for determining an amount as the disposal value of the plant or machinery or the price at which a fixture is to be treated as sold,
+
+(b) the transferee is to be treated as having incurred capital expenditure of that amount on the provision of the plant or machinery for the purposes for which it is used by the transferee on and after the taking effect of the transfer,
+
+(c) the property is to be treated as belonging to the transferee as a result of the transferee having incurred that expenditure, and
+
+(d) in the case of a fixture, the expenditure which falls to be treated as incurred by the transferee is to be treated for the purposes of sections 181(1) and 182(1) of that Act as being incurred by the giving of a consideration consisting in a capital sum of that amount.
+
+(3) The provision mentioned in sub-paragraph (1)(d) for the determination of an amount may include provision for a determination—
+
+(a) to be made by the Secretary of State in a manner described in the scheme,
+
+(b) to be made by reference to factors so described or to the opinion of a person so described, and
+
+(c) to be capable of being modified (on one or more occasions) in a manner and in circumstances so described.
+
+(4) The consent of the Treasury is required for the making or modification of a determination under the provision mentioned in sub-paragraph (1)(d).
+
+(5) The consent of the transferee is required for the modification of a determination under the provision mentioned in sub-paragraph (1)(d).
+
+(6) As to the making of a determination or a modification of a determination under the provision mentioned in sub-paragraph (1)(d), see further paragraph 43.
+
+(7) Expressions used in this paragraph and in Part 2 of CAA 2001 have the same meanings in this paragraph as in that Part.
+
+#### Capital allowances: transfers not to be sales
+
+**10** (1) This paragraph applies for the purposes of Part 3 of CAA 2001, and the other provisions of that Act which are relevant to that Part, to a relevant transfer of the relevant interest in an industrial building or structure.
+
+(2) Neither section 559 nor section 573 of that Act is to have effect in relation to that transfer.
+
+#### Chargeable gains: assets to be treated as disposed of without a gain or a loss
+
+**11** (1) For the purposes of TCGA 1992 a disposal—
+
+(a) constituted by a relevant transfer, or
+
+(b) to which sub-paragraph (2) applies,
+
+is to be taken (in relation to the person to whom the disposal is made as well as the person making the disposal) to be for a consideration such that no gain or loss accrues to the person making the disposal.
+
+(2) This sub-paragraph applies to a disposal if—
+
+(a) it is made in accordance with provision contained in a transfer scheme by virtue of paragraph 4, 6 or 12 of Schedule 12 to this Act,
+
+(b) the person making the disposal and the person to whom the disposal is made are taxable public bodies, and
+
+(c) each of those persons is either the transferor or a transferee under the scheme.
+
+(3) Sub-paragraph (1) is subject to paragraph 12.
+
+#### Chargeable gains: roll-over relief
+
+**12** (1) This paragraph applies if—
+
+(a) but for section 154 of TCGA 1992 (depreciating assets) a held-over gain would have been carried forward to a depreciating asset, and
+
+(b) the asset is the subject of a relevant transfer.
+
+(2) Section 154 is to have effect as if the gain had accrued to, and the claim for it to be held over had been made by, the transferee and as if the transferor's acquisition of the depreciating asset had been the transferee's acquisition of it.
+
+(3) Expressions used in this paragraph and in section 154 have the same meanings in this paragraph as in that section.
+
+#### Continuity in relation to transfer of intangible assets
+
+**13** (1) For the purposes of [[^F45]Part 8 of CTA 2009]—
+
+(a) a relevant transfer of a chargeable intangible asset of the transferor is to be treated as a tax-neutral transfer, and
+
+(b) an intangible fixed asset which is an existing asset of the transferor at the time of a relevant transfer is to be treated, on and after the transfer, as an existing asset in the hands of the transferee.
+
+(2) Expressions used in this paragraph and in that [[^F46]Part] have the same meanings in this paragraph as in that [[^F46]Part].
+
+#### Continuity in relation to loan relationships
+
+**14** (1) For the purposes of the application of [[^F47] Part 5 of CTA 2009] (loan relationships) in relation to a relevant transfer, the transferee and the transferor are to be treated as if, at the time of the transfer, they were members of the same group.
+
+(2) In sub-paragraph (1) the reference to being members of the same group must be construed in accordance with [[^F48]section 335(6) of] that Act.
+
+#### Continuity in relation to derivative contracts
+
+**15** (1) For the purposes of the application of [[^F49]Part 7 of CTA 2009] (derivative contracts) in relation to a relevant transfer, the transferee and the transferor are to be treated as if, at the time of the transfer, they were members of the same group.
+
+(2) In sub-paragraph (1) the reference to being members of the same group must be construed in accordance with [[^F50]section 624(3) of that Act].
+
+#### Leased assets
+
+**16** (1) This paragraph applies for the purposes of section 781 of ICTA (assets leased to traders and others) where—
+
+(a) the interest of the lessor or the lessee under a lease, or any other interest in an asset, is transferred under a relevant transfer, or
+
+(b) a lease, or any other interest in a lease, is granted by a taxable public body to another taxable public body in accordance with provision contained by virtue of paragraph 4, 6 or 12 of Schedule 12 to this Act in a transfer scheme.
+
+(2) Section 783(4) of ICTA is to be disregarded and the transfer or grant is to be treated as made without any capital sum having been obtained in respect of the interest or lease by the transferor or grantor.
+
+(3) In the case of the transfer of an interest under a lease, payments made by the transferor under the lease before the transfer takes effect are to be treated as if they had been made under that lease by the transferee.
+
+(4) Expressions used in this paragraph and in sections 781 to 785 of ICTA have the same meanings in this paragraph as in those sections.
+
+### Part 3 — Transfers etc from taxable public bodies to exempt public bodies
+
+#### Meaning of “relevant transfer” in Part 3 of Schedule
+
+**17** In this Part of this Schedule “relevant transfer” means a transfer, in accordance with a transfer scheme, from a taxable public body to an exempt public body.
+
+#### Transfers of trading stock
+
+**18** (1) This paragraph applies if under a relevant transfer trading stock of the transferor is transferred to the transferee.
+
+(2) Sub-paragraphs (3) and (4) have effect in computing for any corporation tax purpose the profits of the trade in relation to which the stock is trading stock immediately before the transfer takes effect (“the transferor's trade”).
+
+(3) The stock must be taken to have been—
+
+(a) disposed of by the transferor in the course of the transferor's trade, and
+
+(b) subject to that, disposed of when the transfer takes effect.
+
+(4) The value of the stock is to be taken to be—
+
+(a) if consideration is given to the transferor in respect of the transfer, an amount equal to the value of the consideration, or
+
+(b) if no such consideration is given, nil.
+
+(5) For the purposes of this paragraph consideration given to a person connected with the transferor is to be treated as given to the transferor.
+
+(6) In this paragraph “trading stock” [[^F51]has the meaning given by section 163 of CTA 2009].
+
+(7) For the purposes of this paragraph whether a person is connected with another person is determined in accordance with [[^F52]section 1122 of CTA 2010] (connected persons).
+
+#### Capital allowances: determination of disposal value of plant or machinery
+
+**19** (1) This paragraph applies to a relevant transfer of plant or machinery which is a disposal event for the purposes of Part 2 of CAA 2001 (capital allowances for plant and machinery).
+
+(2) For the purposes of the application of section 61 of that Act in relation to the transferor, the disposal value of the plant or machinery is to be treated—
+
+(a) if a capital sum is received by the transferor by way of consideration or compensation in respect of the transfer, as an amount equal to that sum, or
+
+(b) if no such sum is received, as nil.
+
+(3) For the purposes of this paragraph a sum received by a person connected with the transferor is to be treated as received by the transferor.
+
+(4) Section 88 of CAA 2001 (sales at an undervalue) is to be disregarded.
+
+(5) This paragraph is subject to sections 63(5) and 68 of CAA 2001.
+
+#### Capital allowances: determination of disposal value of fixtures
+
+**20** (1) This paragraph applies to a relevant transfer if—
+
+(a) it is a disposal event for the purposes of Part 2 of CAA 2001, and
+
+(b) by virtue of the transfer a person is treated by section 188 of that Act as ceasing to own a fixture.
+
+(2) For the purposes of the application of section 196 of that Act in relation to the transferor, the disposal value of the fixture is to be treated—
+
+(a) if a capital sum is received by the transferor by way of consideration or compensation in respect of the transfer, as an amount equal to that portion of that sum which, if the person to whom the disposal is made were entitled to an allowance, would fall to be treated for the purposes of Part 2 of that Act as expenditure incurred by that person on the provision of the fixture, or
+
+(b) if no such sum is received, as nil.
+
+(3) For the purposes of this paragraph a sum received by a person connected with the transferor is to be treated as received by the transferor.
+
+(4) This paragraph is subject to section 63(5) of CAA 2001.
+
+#### Capital allowances: determination of capital value of industrial buildings etc.
+
+**21** (1) This paragraph applies for the purposes of Part 3 of CAA 2001, and the other provisions of that Act which are relevant to that Part, in relation to a relevant transfer of the relevant interest in an industrial building or structure.
+
+(2) This paragraph is subject to section 36 of FA 2007 (which makes provision about balancing adjustments etc under Part 3 of CAA 2001).
+
+(3) The transfer is to be treated as a sale of that relevant interest.
+
+(4) The net proceeds of that sale are to be treated—
+
+(a) if a capital sum is received by the transferor by way of consideration or compensation in respect of the transfer, as an amount equal to that sum, or
+
+(b) if no such sum is received, as nil.
+
+(5) For the purposes of this paragraph a sum received by a person connected with the transferor is to be treated as received by the transferor.
+
+(6) Sections 567 to 570 of CAA 2001 (sales treated as being for alternative amount) are not to have effect in relation to that sale.
+
+#### Chargeable gains: assets to be treated as disposed of without a gain or a loss
+
+**22** (1) For the purposes of TCGA 1992 a disposal—
+
+(a) constituted by a relevant transfer, or
+
+(b) to which sub-paragraph (2) applies,
+
+is to be taken to be for a consideration such that no gain or loss accrues to the person making the disposal.
+
+(2) This sub-paragraph applies to a disposal if—
+
+(a) it is made in accordance with provision contained in a transfer scheme by virtue of paragraph 4, 6 or 12 of Schedule 12 to this Act,
+
+(b) the person making the disposal is a taxable public body,
+
+(c) the person to whom the disposal is made is an exempt public body, and
+
+(d) each of those persons is either the transferor or a transferee under the scheme.
+
+#### Neutral effect of transfer of intangible assets
+
+**23** (1) For the purposes of [[^F53]Part 8 of CTA 2009], a relevant transfer of a chargeable intangible asset of the transferor is to be treated as not involving any realisation of the asset by the transferor.
+
+(2) Expressions used in this paragraph and in that [[^F54]Part] have the same meanings in this paragraph as in that [[^F54]Part].
+
+#### Neutral effect of transfer for loan relationships and derivative contracts
+
+**24** No credit or debit shall be required or allowed, in respect of a relevant transfer, to be brought into account in the transferor's case—
+
+(a) for the purposes of [[^F55]Part 5 of CTA 2009] (loan relationships), or
+
+(b) for the purposes of [[^F56]Part 7 of that Act] (derivative contracts).
+
+#### Leased assets
+
+**25** (1) This paragraph applies for the purposes of section 781 of ICTA (assets leased to traders and others) where—
+
+(a) the interest of the lessor or the lessee under a lease, or any other interest in an asset, is transferred under a relevant transfer, or
+
+(b) a lease, or any other interest in a lease, is granted by a taxable public body to an exempt public body in accordance with provision contained by virtue of paragraph 4, 6 or 12 of Schedule 12 to this Act in a transfer scheme.
+
+(2) Section 783(4) of ICTA is to be disregarded and the transfer or grant is to be treated as made without any capital sum having been obtained in respect of the interest or lease by the transferor or grantor.
+
+(3) Expressions used in this paragraph and in sections 781 to 785 of ICTA have the same meanings in this paragraph as in those sections.
+
+### Part 4 — Transfers from exempt public bodies to taxable public bodies
+
+#### Meaning of “relevant transfer” in Part 4 of Schedule
+
+**26** In this Part of this Schedule “relevant transfer” means a transfer, in accordance with a transfer scheme, from an exempt public body to a taxable public body.
+
+#### Capital allowances: transfer of plant or machinery
+
+**27** (1) This paragraph applies where—
+
+(a) there is a relevant transfer of plant or machinery,
+
+(b) the plant or machinery would have been treated for the purposes of CAA 2001 (had the transferor incurred expenditure qualifying for allowances under Part 2 of that Act on the provision of the plant or machinery) as disposed of by the transferor to the transferee on the transfer taking effect, and
+
+(c) the transfer scheme in accordance with which the transfer is made contains provision for the transferee to be treated for the purposes of that Act as having incurred capital expenditure of an amount specified in or determined in accordance with the scheme on the provision of the plant or machinery.
+
+(2) For the purposes of CAA 2001—
+
+(a) the transferee is to be treated as having incurred capital expenditure of that amount on the provision of the plant or machinery for the purposes for which it is used by the transferee on and after the taking effect of the transfer,
+
+(b) the property is to be treated as belonging to the transferee as a result of the transferee having incurred that expenditure, and
+
+(c) in the case of a fixture, the expenditure which falls to be treated as incurred by the transferee is to be treated for the purposes of sections 181(1) and 182(1) of that Act as being incurred by the giving of a consideration consisting in a capital sum of that amount.
+
+(3) The provision mentioned in sub-paragraph (1)(c) for the determination of an amount may include provision for a determination—
+
+(a) to be made by the Secretary of State in a manner described in the scheme,
+
+(b) to be made by reference to factors so described or to the opinion of a person so described, and
+
+(c) to be capable of being modified (on one or more occasions) in a manner and in circumstances so described.
+
+(4) The consent of the Treasury is required for the making or modification of a determination under the provision mentioned in sub-paragraph (1)(c).
+
+(5) The consent of the transferee is required for the modification of a determination under the provision mentioned in sub-paragraph (1)(c).
+
+(6) As to the making of a determination or a modification of a determination under the provision mentioned in sub-paragraph (1)(c), see further paragraph 43.
+
+(7) Expressions used in this paragraph and in Part 2 of CAA 2001 have the same meanings in this paragraph as in that Part.
+
+#### Capital allowances: determination of capital value of industrial buildings etc.
+
+**28** (1) This paragraph applies where there is a relevant transfer of the relevant interest in an industrial building or structure and the transfer scheme in accordance with which the transfer is made contains provision specifying for the purposes of section 311 of CAA 2001—
+
+(a) the amount to be taken as the amount of the residue of qualifying expenditure immediately after the event, and
+
+(b) the period to be taken as the period from the date of the event to the end of the period of 25 years beginning with the day on which the building or structure was first used.
+
+(2) For the purposes of that section—
+
+(a) the transfer is to be treated as the occurrence of a relevant event,
+
+(b) the residue of qualifying expenditure immediately after the event is to be taken to be the amount specified by virtue of sub-paragraph (1)(a), and
+
+(c) the period from the date of the event to the end of the period of 25 years beginning with the day on which the building or structure was first used is to be taken to be the period specified by virtue of sub-paragraph (1)(b).
+
+(3) Expressions used in this paragraph and in Part 3 of CAA 2001 have the same meanings in this paragraph as in that Part.
+
+### Part 5 — Other provisions concerning transfers between public bodies
+
+#### Meaning of “relevant transfer” in Part 5 of Schedule
+
+**29** In this Part of this Schedule “relevant transfer” means a transfer, in accordance with a transfer scheme, from a public body to another public body.
+
+#### Trading losses: change in ownership
+
+**30** (1) This paragraph applies to a relevant transfer of all the issued share capital of a company (the “transferred company”).
+
+(2) For the purposes of [[^F57]Chapters 2 to 5 of Part 14 of CTA 2010], the transfer is not to be taken to result in a change in the ownership of—
+
+(a) the transferred company, or
+
+(b) a company which is a wholly-owned subsidiary of the transferred company when the transfer takes effect.
+
+#### Chargeable gains: degrouping charges
+
+**31** (1) This paragraph applies if a company (“the degrouped company”)—
+
+(a) acquired an asset from another company at a time when both were members of the same group of companies (“the old group”),
+
+(b) ceases by virtue of a relevant transfer to be a member of the old group, and
+
+(c) becomes by virtue of the transfer a member of the same group of companies as the transferee (“the new group”).
+
+(2) Section 179 of TCGA 1992 (company ceasing to be member of group) is not to treat the degrouped company as having by virtue of the transfer sold and immediately reacquired the asset.
+
+(3) Where sub-paragraph (2) has applied to an asset, section 179 of TCGA 1992 is to have effect on and after the first subsequent occasion on which the degrouped company ceases to be a member of the new group otherwise than by virtue of a relevant transfer as if—
+
+(a) the degrouped company, and
+
+(b) the company from which it acquired the asset,
+
+had been members of the new group at the time of acquisition.
+
+(4) If, disregarding any preparatory transactions, a company would be regarded by virtue of a relevant transfer—
+
+(a) as ceasing to be a member of a group of companies for the purposes of section 179 of TCGA 1992 (and, accordingly, of this paragraph), or
+
+(b) as becoming a member of a group of companies for the purposes of this paragraph,
+
+it is to be regarded for those purposes as so doing by virtue of the relevant transfer and not by virtue of any preparatory transactions.
+
+(5) In this paragraph “preparatory transactions” means anything done under or by virtue of this Act for the purpose of initiating, advancing or facilitating the relevant transfer in question.
+
+(6) Expressions used in this paragraph and in section 179 of TCGA 1992 have the same meanings in this paragraph as in that section.
+
+#### Stamp duty
+
+**32** (1) Stamp duty is not to be chargeable—
+
+(a) on a transfer scheme in the case of which the transferor and each transferee is a public body, or
+
+(b) on an instrument certified by the Secretary of State to the Commissioners for Her Majesty's Revenue and Customs as made for the purposes of such a transfer scheme, or as made for purposes connected with such a transfer scheme.
+
+(2) But where, by virtue of sub-paragraph (1), stamp duty is not chargeable on a scheme or instrument, the scheme or instrument is to be treated as duly stamped only if—
+
+(a) in accordance with section 12 of the Stamp Act 1891 (c. 39) it has been stamped with a stamp denoting either that it is not chargeable to duty or that it has been duly stamped, or
+
+(b) it is stamped with the duty to which it would be chargeable apart from sub-paragraph (1).
+
+(3) In this paragraph “instrument” has the same meaning as in the Stamp Act 1891.
+
+### Part 6 — Transfers etc involving private persons
+
+#### Meaning of “relevant transfer” in Part 6 of Schedule
+
+**33** In this Part of this Schedule “relevant transfer” means a transfer, in accordance with a transfer scheme, from or to a person other than a public body.
+
+#### Transfers of trading stock
+
+**34** (1) This paragraph applies if under a relevant transfer trading stock of the transferor is transferred to the transferee.
+
+(2) Sub-paragraphs (3) and (4) have effect in computing for any corporation tax or income tax purpose both the profits of the trade in relation to which the stock is trading stock immediately before the transfer takes effect (“the transferor's trade”) and—
+
+(a) if the stock falls immediately after the transfer takes effect to be treated as trading stock of the transferee, the profits of the trade in relation to which it falls to be treated as trading stock (“the transferee's trade”);
+
+(b) otherwise, the consideration given by the transferee, or the expenditure incurred by the transferee, for the acquisition of the stock.
+
+(3) The stock must be taken to have been—
+
+(a) disposed of by the transferor in the course of the transferor's trade,
+
+(b) if sub-paragraph (2)(a) applies, acquired by the transferee in the course of the transferee's trade, and
+
+(c) subject to that, disposed of and acquired when the transfer takes effect.
+
+(4) The value of the stock is to be taken to be—
+
+(a) if consideration is given to the transferor in respect of the transfer, an amount equal to the value of the consideration, or
+
+(b) if no such consideration is given, nil.
+
+(5) For the purposes of this paragraph consideration given to a person connected with the transferor is to be treated as given to the transferor.
+
+(6) In this paragraph “trading stock” [[^F58]has the meaning given by section 174 of ITTOIA 2005 (as respects income tax) or section 163 of CTA 2009 (as respects corporation tax).]
+
+(7) For the purposes of this paragraph whether a person is connected with another person is determined in accordance with [[^F59]section 1122 of CTA 2010] (as respects corporation tax) or section 993 of ITA 2007 (as respects income tax).
+
+#### Capital allowances: determination of disposal value of plant or machinery
+
+**35** (1) This paragraph applies to a relevant transfer of plant or machinery which is a disposal event for the purposes of Part 2 of CAA 2001 (capital allowances for plant and machinery).
+
+(2) For the purposes of the application of section 61 of that Act (disposal events and disposal value) in relation to the transferor, the disposal value of the plant or machinery is to be treated—
+
+(a) if a capital sum is received by the transferor by way of consideration or compensation in respect of the transfer, as an amount equal to that sum, or
+
+(b) if no such sum is received, as nil.
+
+(3) For the purposes of this paragraph a sum received by a person connected with the transferor is to be treated as received by the transferor.
+
+(4) Section 88 of CAA 2001 (sales at an undervalue) is to be disregarded.
+
+(5) This paragraph is subject to sections 63(5) and 68 of CAA 2001.
+
+#### Capital allowances: determination of disposal value of fixtures
+
+**36** (1) This paragraph applies to a relevant transfer if—
+
+(a) it is a disposal event for the purposes of Part 2 of CAA 2001, and
+
+(b) by virtue of the transfer a person is treated by section 188 of that Act as ceasing to own a fixture.
+
+(2) For the purposes of the application of section 196 of that Act in relation to the transferor, the disposal value of the fixture is to be treated—
+
+(a) if a capital sum is received by the transferor by way of consideration or compensation in respect of the transfer, as an amount equal to that portion of that sum which falls (or, if the person to whom the disposal is made were entitled to an allowance, would fall) to be treated for the purposes of Part 2 of that Act as expenditure incurred by that person on the provision of the fixture, or
+
+(b) if no such sum is received, as nil.
+
+(3) For the purposes of this paragraph a sum received by a person connected with the transferor is to be treated as received by the transferor.
+
+(4) This paragraph is subject to section 63(5) of CAA 2001.
+
+#### Capital allowances: section 265 of CAA 2001 not to apply in relation to transferee
+
+**37** (1) This paragraph applies in relation to a relevant transfer.
+
+(2) For the purposes of the application of Part 2 of CAA 2001 in relation to the transferee, section 265 of that Act (successions: general) is to be disregarded.
+
+#### Capital allowances: determination of capital value of industrial buildings etc.
+
+**38** (1) This paragraph applies for the purposes of Part 3 of CAA 2001, and the other provisions of that Act which are relevant to that Part, in relation to a relevant transfer of the relevant interest in an industrial building or structure.
+
+(2) This paragraph is subject to section 36 of FA 2007 (which makes provision about balancing adjustments etc under Part 3 of CAA 2001).
+
+(3) The transfer is to be treated as a sale of that relevant interest.
+
+(4) The net proceeds of that sale are to be treated—
+
+(a) if a capital sum is received by the transferor by way of consideration or compensation in respect of the transfer, as an amount equal to that sum, or
+
+(b) if no such sum is received, as nil.
+
+(5) For the purposes of this paragraph a sum received by a person connected with the transferor is to be treated as received by the transferor.
+
+(6) Sections 567 to 570 of CAA 2001 (sales treated as being for alternative amount) are not to have effect in relation to that sale.
+
+#### Chargeable gains: disposals not to be treated as made at market value
+
+**39** (1) Section 17 of TCGA 1992 (disposals and acquisitions treated as made at market value) is not to have effect in relation to—
+
+(a) a disposal constituted by a relevant transfer,
+
+(b) a disposal to which sub-paragraph (2) applies, or
+
+(c) the acquisition made by the person to whom the disposal is made;
+
+but this sub-paragraph does not apply if the person making the disposal is connected with the person making the acquisition.
+
+(2) This sub-paragraph applies to a disposal if—
+
+(a) it is made in accordance with provision contained in a transfer scheme by virtue of paragraph 4, 6 or 12 of Schedule 12 to this Act,
+
+(b) the person making the disposal or the person to whom the disposal is made is a person other than a public body, and
+
+(c) each of those persons is either the transferor or a transferee under the scheme.
+
+(3) If sub-paragraph (1) applies to the disposal of an asset, the disposal is to be taken (in relation to the person making the acquisition as well as the person making the disposal) to be—
+
+(a) in a case where consideration in money or money's worth is given by the person making the acquisition or on his behalf in respect of the vesting of the asset in him, for a consideration equal to the amount or value of that consideration, or
+
+(b) in a case where no such consideration is given, for a consideration of nil.
+
+#### Loan relationships
+
+**40** (1) [[^F60]Section 444 of CTA 2009] (transactions not at arm's length) is not to have effect where, as a result of a relevant transfer, the transferee replaces the transferor as a party to a loan relationship.
+
+(2) Expressions used in this paragraph and in [[^F61]Part 5 of CTA 2009] have the same meanings in this paragraph as in [[^F61]that Part].
+
+### Part 7 — Other provisions concerning transfers
+
+#### Chargeable gains: value shifting
+
+**41** No transfer scheme is to be regarded as a scheme or arrangement for the purposes of section 30 of TCGA 1992.
+
+#### Group relief
+
+**42** The power of the Secretary of State to make a transfer scheme is not to be regarded as constituting—
+
+(a) arrangements falling within [[^F62]section 154(3) or 155(3) of CTA 2010] (arrangements for transfer of company to another group or consortium), or
+
+(b) option arrangements for the purposes of [[^F63]section 173 of CTA 2010].
+
+#### Modification of transfer schemes and determinations under paragraph 9(1)(d) or 27(1)(c): companies
+
+**43** (1) This paragraph applies if—
+
+(a) a company delivers a company tax return,
+
+(b) subsequently, an event mentioned in sub-paragraph (2) below occurs, and
+
+(c) as a result of that event, the return is incorrect.
+
+(2) The events are—
+
+(a) the making of an agreement modifying a transfer scheme under paragraph 15 of Schedule 12 to this Act;
+
+(b) a determination or modification of a determination under the provision mentioned in paragraph 9(1)(d) or 27(1)(c) above.
+
+(3) The return may be amended under paragraph 15 of Schedule 18 to FA 1998 so as to remedy the error, ignoring any time limit which would otherwise prevent that happening.
+
+(4) But an amendment may not be made in reliance on sub-paragraph (3) above more than 12 months after the end of the accounting period of the company during which (as the case may be)—
+
+(a) the agreement is made, or
+
+(b) the determination or modification of a determination is made.
+
+(5) Sub-paragraphs (6) and (7) below apply if the company does not amend the return so as to remedy the error before the end of that 12 month period.
+
+(6) A discovery assessment or a discovery determination may be made in relation to the error, ignoring any time limit which would otherwise prevent that happening.
+
+(7) But such an assessment or determination may not be made in reliance on sub-paragraph (6) above more than 24 months after the end of the accounting period mentioned in sub-paragraph (4) above.
+
+(8) Expressions used in this paragraph and in Schedule 18 to FA 1998 have the same meaning in this paragraph as in that Schedule.
+
+#### Modification of transfer schemes: other persons and partnerships
+
+**44** (1) This paragraph applies if—
+
+(a) a person delivers a return under section 8, 8A or 12AA of TMA 1970,
+
+(b) subsequently, an agreement is made modifying a transfer scheme under paragraph 15 of Schedule 12 to this Act, and
+
+(c) as a result of that, the return is incorrect.
+
+(2) The return may be amended under section 9ZA or 12ABA of TMA 1970 so as to remedy the error, ignoring any time limit which would otherwise prevent that happening.
+
+(3) But an amendment may not be made in reliance on sub-paragraph (2) above more than 12 months after the end of the year of assessment during which the agreement modifying the transfer scheme is made.
+
+(4) If the return is amended under section 12ABA in reliance on sub-paragraph (2) above, subsection (3) of that section applies, ignoring any time limit which would otherwise prevent the officer from proceeding under that subsection.
+
+(5) Sub-paragraphs (6) and (7) below apply if the return is not amended under section 9ZA or 12ABA so as to remedy the error before the end of the 12 month period mentioned in sub-paragraph (3) above.
+
+(6) An officer of Revenue and Customs may proceed under section 29(1) or 30B(1) and (2) of TMA 1970 in relation to the error, ignoring any time limit which would otherwise prevent the officer from so proceeding.
+
+(7) But an assessment or an amendment may not be made in reliance on sub-paragraph (6) above more than 24 months after the end of the year of assessment mentioned in sub-paragraph (3) above.
+
+#### Power to make further provision in relation to transfer schemes
+
+**45** (1) The Treasury may by regulations make provision for varying the way in which a relevant tax has effect from time to time (including by virtue of this Schedule) in relation to—
+
+(a) any property, rights or liabilities transferred in accordance with a transfer scheme, or
+
+(b) anything done for the purposes of, or in relation to, or in consequence of, the transfer of any property, rights or liabilities in accordance with a transfer scheme.
+
+(2) The provision that may be made under sub-paragraph (1)(a) includes, in particular, provision for—
+
+(a) a tax provision not to apply, or to apply with modifications, in relation to any property, rights or liabilities transferred;
+
+(b) any property, rights or liabilities transferred to be treated in a specified way for the purposes of a tax provision;
+
+(c) the Secretary of State to be required or permitted, with the consent of the Treasury, to determine, or to specify the method for determining, anything which needs to be determined for the purposes of any tax provision so far as relating to any property, rights or liabilities transferred.
+
+(3) The provision that may be made under sub-paragraph (1)(b) includes, in particular, provision for—
+
+(a) a tax provision not to apply, or to apply with modifications, in relation to anything done for the purposes of, or in relation to, or in consequence of, the transfer;
+
+(b) anything done for the purposes of, or in relation to, or in consequence of, the transfer to have or not to have a specified consequence or to be treated in a specified way;
+
+(c) the Secretary of State to be required or permitted, with the consent of the Treasury, to determine, or to specify the method for determining, anything which needs to be determined for the purposes of any tax provision so far as relating to anything done for the purposes of, or in relation to, or in consequence of, the transfer.
+
+(4) Regulations under sub-paragraph (1) may amend this Schedule (apart from this paragraph).
+
+(5) Regulations under sub-paragraph (1) may—
+
+(a) make such supplementary, incidental or consequential provision as the Treasury think fit, and
+
+(b) make different provision for different cases.
+
+(6) The power to make regulations under sub-paragraph (1) shall be exercisable by statutory instrument which shall be subject to annulment in pursuance of a resolution of the House of Commons.
+
+(7) In this paragraph references to any property, rights or liabilities transferred in accordance with a transfer scheme include references to any property, rights or liabilities transferred, or any interests, rights or liabilities created, by virtue of paragraph 4, 6 or 12 of Schedule 12 to this Act.
+
+(8) In this paragraph references to the transfer of any property, rights or liabilities in accordance with a transfer scheme include references to the transfer of any property, rights or liabilities, or the creation of any interests, rights or liabilities, by virtue of paragraph 4, 6 or 12 of Schedule 12 to this Act.
+
+(9) In this paragraph—
+
+- “relevant tax” means income tax, corporation tax, capital gains tax, stamp duty, stamp duty land tax or stamp duty reserve tax, and
+- “tax provision” means a provision of an enactment about a relevant tax.
+
+(10) In sub-paragraph (9) “enactment” includes an enactment contained in an instrument made under an Act.
+
+(11) Paragraph 20(3) of Schedule 12 to this Act applies for the purposes of this paragraph as it applies for the purposes of that Schedule.
+
+#### Consequential amendment
+
+**46** In section 35(3)(d) of TCGA 1992 (no gain no loss disposals), after sub-paragraph (xvii) insert—
+
+> (xviii) paragraph 11 or 22 of Schedule 13 to the Crossrail Act 2008.
+
+## SCHEDULE 14 — Disapplication and modification of miscellaneous controls
+
+*Section 40*
+
+### Ecclesiastical law
+
+**1** (1) No obligation or restriction imposed under ecclesiastical law or otherwise in relation to consecrated land shall have effect to prohibit, restrict or impose any condition on the exercise of the powers conferred by this Act with respect to works.
+
+(2) Sub-paragraph (1) shall not apply in relation to the use of land comprised in a burial ground for the purpose of constructing any of the works authorised by this Act.
+
+### Overground wires
+
+**2** Nothing in the London Overground Wires &c. Act 1933 (c. xliv), or in any bye-law made under that Act, shall extend or apply to any wires or part of a wire erected or placed, proposed to be erected or placed, or for the time being maintained, by the nominated undertaker in exercise of the powers conferred by this Act.
+
+### London Squares Preservation Act 1931
+
+**3** (1) Nothing in section 3 of the London Squares Preservation Act 1931 (c. xciii) (protection of squares) shall have effect in relation to anything done for the purposes of or in connection with the exercise of any of the powers conferred by this Act with respect to works.
+
+(2) Nothing in any agreement under section 9 of that Act (agreements between local authority and owner of a protected square) shall have effect to prohibit, restrict or impose any condition on the exercise of the powers conferred by this Act with respect to works.
+
+### London Building Acts (Amendment) Act 1939
+
+**4** (1) The following provisions of the London Building Acts (Amendment) Act 1939 (c. xcvii) shall not apply to anything held by the Secretary of State or the nominated undertaker and used, or intended for use, by the nominated undertaker for the purposes of its undertaking under this Act—
+
+(a) Part 3 (construction of buildings and structures generally),
+
+(b) Part 4 (construction of special and temporary buildings and structures), and
+
+(c) Part 5 (means of escape in case of fire).
+
+(2) Sub-paragraph (1) shall not apply in relation to a building which is a house or a hotel or which is used as offices or showrooms and does not form part of a railway station.
+
+### Coast works
+
+**5** Section 34(1) of the Coast Protection Act 1949 (c. 74) (consent of Secretary of State required for works detrimental to navigation) shall not apply in relation to anything done within the limits of deviation for the scheduled works in exercise of the powers conferred by this Act in relation to those works, or any work in connection with them.
+
+### Port of London Act 1968
+
+**6** The following provisions of the Port of London Act 1968 (c. xxxii) shall not apply in relation to anything done for the purposes of or in connection with the exercise of any of the powers conferred by this Act with respect to works—
+
+(a) section 70 (prohibition of various activities in relation to works without a licence under section 66 of that Act), and
+
+(b) section 73(3) (prohibition of dredging etc. of Thames without a licence).
+
+### Highways, etc.
+
+**7** (1) The following enactments (which control obstructions of the highway in connection with works relating to buildings) shall not apply to anything erected, placed or retained in, upon or over a highway for the purposes of or in connection with the exercise of any of the powers conferred by this Act with respect to works—
+
+(a) section 15(1) of the Greater London Council (General Powers) Act 1970 (c. lxxvi), and
+
+(b) section 169(1) of the Highways Act 1980 (c. 66).
+
+(2) Section 141 of the Highways Act 1980 (restriction on planting trees or shrubs in or near carriageway) shall not apply to any tree or shrub planted for the purposes of or in connection with the exercise of any of the powers conferred by this Act with respect to works.
+
+(3) Section 167 of the Highways Act 1980 (powers relating to retaining walls near streets) shall not apply to any length of a retaining wall erected on land held by the Secretary of State or nominated undertaker and used, or intended for use, by the nominated undertaker for the purposes of its undertaking under this Act.
+
+(4) Nothing in section 8(2) to (5) of the Greater London Council (General Powers) Act 1986 (c. iv) (power of borough councils in relation to retaining walls supporting the carriageway or footway of certain highways) shall apply with respect to any retaining wall erected in exercise of the powers conferred by this Act.
+
+### Building regulations
+
+**8** (1) Nothing in Part 1 of the Building Act 1984 (c. 55) with respect to building regulations, and nothing in any building regulations, shall apply in relation to a building held by the Secretary of State or the nominated undertaker and used, or intended for use, by the nominated undertaker for the purposes of its undertaking under this Act.
+
+(2) Sub-paragraph (1) shall not apply in relation to a building which is a house or a hotel or which is used as offices or showrooms and does not form part of a railway station.
+
+(3) Any building to which sub-paragraph (2) applies shall be disregarded for the purposes of section 4(1)(b) of the Building Act 1984 (c. 55) (exception for certain buildings belonging to statutory undertakers).
+
+### Deposits in the sea
+
+**9** (1) Section 5 of the Food and Environment Protection Act 1985 (c. 48) (requirement for licences for deposit of substances and articles in the sea etc.) shall not apply to the deposit of substances and articles within the limits of deviation for Work No. 1/4A, 1/4B, 1/6A, 1/6B, 1/29, 1/38A or 1/38B in exercise of the powers conferred by this Act in relation to that work, or any work in connection with it.
+
+(2) In the case of substances and articles which have been excavated or dredged, sub-paragraph (1) shall only apply to deposit in the course of use as a construction material.
+
+### London lorries: general
+
+**10** (1) This paragraph applies where an application for the issue of a permit under the London Lorry Ban Order is made under paragraph 11 or is otherwise expressed to be made in connection with the carrying out of authorised works.
+
+(2) The application shall be granted if the issue of a permit is reasonably required—
+
+(a) for the purpose of enabling authorised works to be carried out in a timely and efficient manner, or
+
+(b) for the purpose of enabling authorised works to be carried out in accordance with approved arrangements.
+
+(3) If the application is granted, no condition may be imposed which is likely to obstruct the carrying out of authorised works—
+
+(a) in a timely and efficient manner, or
+
+(b) in accordance with approved arrangements.
+
+(4) If the applicant is aggrieved by a decision under sub-paragraph (2) or (3), he may appeal to the Secretary of State by giving notice in writing of the appeal to him, and to the authority whose decision is appealed against, within 28 days of notification of the decision.
+
+(5) On an appeal under sub-paragraph (4), the Secretary of State may allow or dismiss the appeal or vary the decision of the authority whose decision is appealed against.
+
+(6) If on an appeal under sub-paragraph (4) against a decision under sub-paragraph (3) the Secretary of State varies the decision, the variation shall have effect from and including the date on which the appeal was constituted or such later date as the Secretary of State may specify.
+
+(7) The applicant may not challenge a decision under sub-paragraph (3) otherwise than by an appeal under sub-paragraph (4).
+
+(8) In this paragraph—
+
+- “approved arrangements” means arrangements approved for the purposes of—
+
+  - (a) paragraph 7 of Schedule 7, so far as relating to item 1 in the table in that paragraph, or
+  - (b) paragraph 24 of that Schedule;
+
+- “authorised works” means works authorised by this Act;
+
+- “the London Lorry Ban Order” means the Greater London (Restriction of Goods Vehicles) Traffic Order 1985.
+
+### London lorries: emergency permit
+
+**11** (1) This paragraph applies where a person proposes to undertake a journey before the end of the next complete eight working days, being a journey—
+
+(a) proposed to be undertaken in connection with the carrying out of authorised works, and
+
+(b) for which a permit under the London Lorry Ban Order will be required.
+
+(2) The person may apply for a permit under the Order for the journey by giving the details mentioned in sub-paragraph (3) to the authority concerned by telephone or by means of facsimile transmission.
+
+(3) The details referred to above are—
+
+(a) the identity of the applicant,
+
+(b) a number on which he can be contacted by telephone or by means of facsimile transmission,
+
+(c) the registration number of the vehicle to which the application relates,
+
+(d) the authorised works in connection with which the journey is to be undertaken,
+
+(e) whether any approved arrangements are relevant to the application and, if so, what they are,
+
+(f) the date when the journey is proposed to be undertaken, and
+
+(g) if it is proposed to stop anywhere in Greater London for the purpose of making a delivery or collection, the place or places at which, and the time or times when, it is proposed to stop for that purpose.
+
+(4) In this paragraph—
+
+- “approved arrangements”, “authorised works” and “the London Lorry Ban Order” have the same meanings as in paragraph 10;
+- “working day” means any day which is not a Saturday or Sunday, Christmas Day, Good Friday or a bank holiday in England and Wales under the Banking and Financial Dealings Act 1971 (c. 80).
+
+**12** (1) An authority responsible for dealing with applications for permits under the London Lorry Ban Order shall make arrangements enabling applications under paragraph 11 to be made at any time.
+
+(2) Once an application for a permit has been made under paragraph 11, then, for the purpose of any relevant journey, the application shall be treated as granted subject to such conditions as the Secretary of State may by order specify for the purposes of this provision.
+
+(3) A journey is a relevant journey for the purposes of sub-paragraph (2) if it is begun before the authority to which the application is made has communicated its decision on the application to the applicant by telephone or by means of facsimile transmission.
+
+(4) The power to make an order under sub-paragraph (2) includes—
+
+(a) power to make different provision for different cases, and
+
+(b) power to make an order varying or revoking any order previously made under that provision.
+
+(5) In this paragraph, “the London Lorry Ban Order” has the same meaning as in paragraph 10.
+
+### Works under streets in Greater London
+
+**13** The following provisions of the Greater London Council (General Powers) Act 1986 (c. iv)—
+
+(a) section 5(1) (consent of borough council required for demolition of works under a street),
+
+(b) section 6(1) (consent of borough council required for works preventing access to premises under a street), and
+
+(c) section 7(1) (consent of borough council required for infilling in premises under a street),
+
+shall not apply to anything done in exercise of the powers conferred by this Act with respect to works.
+
+### New Roads and Street Works Act 1991
+
+**14** (1) The powers conferred by section 56(1) and (1A) of the New Roads and Street Works Act 1991 (c. 22) (powers to give directions as to the timing of proposed and subsisting street works) shall not apply in relation to works proposed to be, or being, carried out under the powers conferred by this Act.
+
+(2) Section 56A of that Act (power to give directions as to placing of apparatus) shall not apply in relation to the placing of apparatus in exercise of any of the powers conferred by this Act.
+
+(3) No restriction under section 58(1) of that Act (power to impose restriction on execution of street works in the twelve months following completion of substantial road works) shall have effect in relation to works carried out under the powers conferred by this Act.
+
+(4) Section 61(1) of that Act (under which the consent of the street authority is required for the placing of apparatus in a protected street) shall not apply to the placing of apparatus in exercise of any of the powers conferred by this Act.
+
+(5) Section 62(2) of that Act (power following designation of protected street to require removal or repositioning of apparatus already placed in the street) shall not apply in relation to apparatus placed in exercise of the powers conferred by this Act.
+
+(6) Section 62(4) of that Act (power when designation as protected street commences or ceases to give directions with respect to works in progress) shall not apply in relation to works being carried out under the powers conferred by this Act.
+
+(7) Section 63(1) of that Act (under which Schedule 4 to that Act has effect for requiring the settlement of a plan and section of street works to be executed in a street designated by the street authority as having special engineering difficulties) shall not apply in relation to works to be executed under the powers conferred by this Act.
+
+(8) The power conferred by section 73A(1) of that Act (power to require undertaker to re-surface street) may not be exercised in relation to an undertaker who is within subsection (2) of that section because of—
+
+(a) having given a notice in respect of works proposed to be carried out under the powers conferred by this Act, or
+
+(b) executing, or having executed, works under those powers.
+
+(9) No contribution shall be payable under section 78A(1)(b) of that Act (contributions by other undertakers to costs incurred in executing works specified in a re-surfacing notice) because of the execution of works under the powers conferred by this Act.
+
+(10) Schedule 3A to that Act (restriction on works following substantial street works) shall not apply where a notice under section 54 (advance notice of certain works) or 55 (notice of starting date of works) of that Act is in respect of works to be executed under the powers conferred by this Act.
+
+(11) No notice under paragraph 2(1)(d) of that Schedule (power by notice to require notification of works which an undertaker proposes to carry out in a part of a highway to which a proposed restriction applies) shall have effect to require the notification of works proposed to be carried out under the powers conferred by this Act.
+
+(12) No directions under paragraph 3 of that Schedule (directions as to the date on which undertakers may begin to execute proposed works) may be issued to the nominated undertaker.
+
+(13) Paragraph 3(4) of that Schedule (under which it is an offence for an undertaker to execute street works before the completion of certain other street works) shall not apply in relation to the execution of works under the powers conferred by this Act.
+
+(14) Paragraph 5(1) of that Schedule (effect of direction under paragraph 4 restricting further works) shall not apply in relation to the execution of works under the powers conferred by this Act.
+
+### Water abstraction
+
+**15** (1) The restriction imposed by section 24(1) of the Water Resources Act 1991 (c. 57) (restriction on abstraction of water) shall not apply in relation to the abstraction of water for the purposes of, or in connection with, the construction of the works authorised by this Act.
+
+(2) In this paragraph, “abstraction” has the same meaning as in the Water Resources Act 1991.
+
+### Communication with public sewers in London
+
+**16** Section 106(8) of the Water Industry Act 1991 (c. 56) (which qualifies the general right to communicate with the public sewers of a sewerage undertaker) shall not apply where the proposed communication involves a drain or sewer serving Crossrail.
+
+### Party Wall etc. Act 1996
+
+**17** (1) No notice under section 1(2) or (5) of the Party Wall etc. Act 1996 (c. 40) (notice before building on line of junction with adjoining land) shall be required before the building of any wall in exercise of the powers conferred by this Act.
+
+(2) Sections 1(6) and 2 of the Party Wall etc. Act 1996 (rights of adjoining owners) shall not have effect to confer rights in relation to—
+
+(a) anything held by the Secretary of State or the nominated undertaker and used, or intended for use, by the nominated undertaker for the purposes of its undertaking under this Act, or
+
+(b) land on which there is any such thing.
+
+(3) Section 6 of the Party Wall etc. Act 1996 (underpinning of adjoining buildings) shall not apply in relation to a proposal to excavate, or excavate for and erect anything, in exercise of the powers conferred by this Act.
+
+## SCHEDULE 15 — Burial grounds: removal of human remains and monuments
+
+*Section 41*
+
+### Notice of removal
+
+**1** (1) Before removing from the land in question any remains or any monument to the deceased, the nominated undertaker shall—
+
+(a) publish in each of two successive weeks in a newspaper circulating in the area where the land is situated, and
+
+(b) at the same time leave displayed in a conspicuous place on or near the land,
+
+a notice complying with sub-paragraph (2).
+
+(2) A notice under sub-paragraph (1) shall—
+
+(a) identify the land to which it relates,
+
+(b) set out in general terms the effect of paragraphs 2 to 5,
+
+(c) state where, and in what form, an application under paragraph 2(1) may be made, and
+
+(d) state how the nominated undertaker proposes to carry out its functions under this Schedule with respect to the disposal of the remains or monument.
+
+(3) No notice shall be required under sub-paragraph (1) before the removal of any remains or any monument to the deceased where the Secretary of State notifies the nominated undertaker that he is satisfied—
+
+(a) that the remains were interred more than 100 years ago, and
+
+(b) that no relative or personal representative of the deceased is likely to object to the remains or monument being removed in accordance with this Schedule.
+
+(4) No notice shall be required under sub-paragraph (1) before the removal of any remains or any monument to the deceased if—
+
+(a) there is in force under section 25 of the Burial Act 1857 (c. 81) (bodies not to be removed from burial grounds without licence of the Secretary of State) a licence relating to the remains, and
+
+(b) the holder of the licence is the nominated undertaker or a body corporate which is a member of the same group as the nominated undertaker.
+
+(5) In sub-paragraph (4)(b), “group” means a body corporate and all other bodies corporate which are its subsidiaries within the meaning of the Companies Act 1985 (c. 6).
+
+### Removal of remains
+
+**2** (1) In the case of remains in relation to which paragraph 1(1) applies, the nominated undertaker shall issue a licence for the removal of the remains if—
+
+(a) it receives an application in writing from a relative or personal representative of the deceased, and
+
+(b) the application is received before the end of the 56 days after the day on which notice relating to the remains is first published under paragraph 1(1)(a).
+
+(2) In the case of remains in relation to which paragraph 1(3) applies, the nominated undertaker shall issue a licence for the removal of the remains if—
+
+(a) it receives an application in writing from a relative or personal representative of the deceased, and
+
+(b) the application is received before the nominated undertaker has removed the remains under paragraph 3(1).
+
+(3) For the purposes of sub-paragraphs (1) and (2), a person shall be taken to be a relative or personal representative of the deceased if the nominated undertaker is satisfied that he is or the county court has declared that he is.
+
+(4) A licensee under this paragraph may remove the remains to which the licence relates and reinter them elsewhere or cremate them.
+
+(5) The reasonable costs of removal and reinterment or cremation under this paragraph shall be paid by the nominated undertaker.
+
+(6) An application for a declaration for the purposes of sub-paragraph (3) shall be made to the county court for the district in which the remains are interred.
+
+(7) In this paragraph, references to a relative of the deceased are to a person who—
+
+(a) is a husband, wife, parent, grandparent, child or grandchild of the deceased, or
+
+(b) is, or is a child of, a brother, sister, uncle or aunt of the deceased.
+
+**3** (1) In the case of remains in relation to which paragraph 1(1) or (3) applies, the nominated undertaker may remove the remains unless—
+
+(a) it is required under paragraph 2(1) or (2) to issue a licence for their removal, or
+
+(b) not more than 28 days have passed since the issue under that provision of such a licence.
+
+(2) In the case of remains in relation to which paragraph 1(4) applies, the nominated undertaker may remove the remains and, if it does so, shall be treated for the purposes of this Act as acting under this paragraph and not under the licence under the Burial Act 1857 (c. 81).
+
+(3) The nominated undertaker shall reinter any remains removed under this paragraph in a burial ground or cremate them in a crematorium.
+
+### Removal of monuments
+
+**4** (1) Where a licence to remove any remains is issued under paragraph 2(1) or (2), the licensee may remove from the land any monument to the deceased and re-erect it elsewhere or otherwise dispose of it.
+
+(2) The reasonable costs of removal and re-erection under sub-paragraph (1) shall be paid by the nominated undertaker.
+
+**5** (1) Where the nominated undertaker removes any remains under paragraph 3, it may also remove from the land any monument to the deceased.
+
+(2) Where any remains are removed under a licence under paragraph 2(1) or (2), the nominated undertaker may remove from the land any monument to the deceased which is not removed by the licensee within 28 days of the issue of the licence.
+
+(3) Where any remains are removed under a licence under section 25 of the Burial Act 1857, the nominated undertaker may remove from the land any monument to the deceased which is not removed by the licensee.
+
+(4) The nominated undertaker may remove any monument removed under this paragraph to the place, if any, where the remains of the deceased are interred or to some other appropriate place.
+
+(5) The nominated undertaker shall break and deface any monument removed under this paragraph which is not dealt with under sub-paragraph (4).
+
+### Records
+
+**6** (1) Where any remains are removed under this Schedule, the nominated undertaker shall, within two months of the removal, provide the Registrar General with a certificate which—
+
+(a) identifies the remains, so far as practicable,
+
+(b) states the date on which, and the place from which, the remains were removed, and
+
+(c) states the date and place of reinterment or cremation.
+
+(2) Where any monument is removed under this Schedule, the nominated undertaker shall, within two months of the removal—
+
+(a) deposit with the local authority in whose area the monument was situated prior to the removal a record which—
+
+(i) identifies the monument,
+
+(ii) gives any inscription on it,
+
+(iii) states the date on which, and the place from which, it was removed, and
+
+(iv) states the place, if any, to which it was moved or how it was disposed of, and
+
+(b) provide the Registrar General with a copy of the record deposited under paragraph (a).
+
+(3) The nominated undertaker may require any person who removes remains or a monument under this Schedule to provide it with any information about the remains or monument removed which it needs to comply with sub-paragraph (1) or (2).
+
+(4) In sub-paragraph (2)(a), “local authority” means—
+
+(a) in relation to a monument that was situated in the area of a unitary authority, that authority, and
+
+(b) in relation to a monument that was not situated in the area of a unitary authority, the district council for the area.
+
+### Supplementary
+
+**7** (1) Where the nominated undertaker removes remains in relation to the removal of which a licence has been granted under paragraph 2(1) or (2), it shall carry out in accordance with the reasonable requests of the licensee—
+
+(a) its functions under paragraph 3 with respect to disposal of the remains, and
+
+(b) if it removes any monument to the deceased, the functions under paragraph 5 with respect to disposal of the monument.
+
+(2) The Secretary of State may give such directions as he thinks fit with respect to the carrying out of any function under this Schedule.
+
+(3) No licence shall be required under section 25 of the Burial Act 1857 (c. 81) for the removal under this Schedule of any remains.
+
+(4) Nothing in any enactment relating to burial grounds and no obligation or restriction imposed under ecclesiastical law or otherwise shall have effect to prohibit, restrict or impose any condition on the removal under this Schedule of any remains or monument.
+
+## SCHEDULE 16 — Reinstatement of discontinued facilities
+
+*Section 49*
+
+### Power to reinstate
+
+**1** (1) The nominated undertaker may within the limits of deviation for the scheduled works or within the limits of land to be acquired or used reinstate facilities whose operation or use is discontinued because of the exercise of power conferred by this Act.
+
+(2) The power under sub-paragraph (1) includes power to carry out works for the purpose of or in connection with reinstatement.
+
+(3) Where the power under sub-paragraph (1) is exercised for the purpose of reinstating facilities temporarily, it may be further exercised for the purpose of reinstating them permanently.
+
+(4) Reinstatement under sub-paragraph (1) need not be on the site where the facilities were situated prior to discontinuation.
+
+### Planning conditions
+
+**2** (1) This paragraph has effect in relation to development authorised by paragraph 1.
+
+(2) The Secretary of State may by directions provide that a requirement specified in the directions shall in the case of development so specified be a condition of the deemed planning permission.
+
+(3) If it appears to the Secretary of State that it is appropriate to do so in consequence of directions under sub-paragraph (2), he may by directions—
+
+(a) disapply Part 2 or 3 of Schedule 7 in relation to the development to which the directions under sub-paragraph (2) relate, or
+
+(b) provide for that Part to have effect in relation to that development with such modifications as he may specify in the directions.
+
+(4) Directions under sub-paragraph (2) or (3) may—
+
+(a) be given after, as well as before, commencement of the development to which they relate;
+
+(b) cancel or vary previous directions under that sub-paragraph;
+
+(c) include transitional provision or savings.
+
+(5) The Secretary of State shall—
+
+(a) publish any directions under sub-paragraph (2) or (3) in such manner as he thinks appropriate, and
+
+(b) give copies of any such directions to the owners and occupiers of the land to which the deemed planning permission relates and to the relevant planning authority.
+
+(6) The reference in sub-paragraph (5)(b) to the relevant planning authority is—
+
+(a) in the case of directions relating to development in the area of a unitary authority, to the local planning authority;
+
+(b) in the case of directions relating to development not in the area of a unitary authority, to the district planning authority.
+
+(7) Section 78 of the Town and Country Planning Act 1990 (c. 8) (right to appeal against planning decisions and failure to take such decisions) shall apply in relation to an application for any consent, agreement or approval required by a condition imposed by directions under sub-paragraph (2) as it applies in relation to an application for any consent, agreement or approval required by a condition imposed on a grant of permission under Part 3 of that Act.
+
+(8) In this paragraph—
+
+- “deemed planning permission” means the planning permission deemed by section 10 to be granted;
+- “development” has the same meaning as in the Town and Country Planning Act 1990.
+
+## SCHEDULE 17 — Protective provisions
+
+*Section 50*
+
+### Part 1 — Protection for highways and traffic
+
+**1** (1) The following provisions of this Part shall, unless otherwise agreed in writing between the nominated undertaker and the highway authority concerned, have effect for the protection of highway authorities.
+
+(2) In this Part—
+
+- “plans” includes sections and specifications; and
+- “property of the highway authority” means any apparatus of the highway authority affixed to or placed under any highway.
+
+(3) Part 3 of the New Roads and Street Works Act 1991 (c. 22) shall not apply in relation to any matter which is regulated by this Part.
+
+**2** Wherever in this Part provision is made with respect to the approval or consent of the highway authority, that approval or consent shall be in writing and subject to such reasonable terms and conditions as the highway authority may require, but shall not be unreasonably withheld.
+
+**3** In exercising the powers conferred by this Act in relation to any highway the nominated undertaker shall have regard to the potential disruption of traffic which may be caused and shall seek to minimise such disruption so far as is reasonably practicable.
+
+**4** The nominated undertaker shall not, without the consent of the highway authority, construct any part of the works authorised by this Act under and within 8 metres of the surface of any highway which comprises a carriageway except in accordance with plans submitted to, and approved by, the highway authority; and if within 28 days after such plans have been submitted the highway authority has not approved or disapproved them, it shall be deemed to have approved the plans as submitted.
+
+**5** In the construction of any part of the said works under a highway no part of it shall, except with the consent of the highway authority, be so constructed as to interfere with the provision of proper means of drainage of the surface of the highway or be nearer than two metres to the surface of the highway.
+
+**6** (1) The provisions of this paragraph have effect in relation to, and to the construction of, any new bridge, or any extension or alteration of an existing bridge, carrying any part of the works authorised by this Act over a highway or carrying a highway over any part of those works; and any such new bridge, or (as the case may be) any bridge so extended or altered, is in this paragraph referred to as “the bridge”.
+
+(2) Before commencing the construction of, or the carrying out of any work in connection with, the bridge which involves interference with a highway, the nominated undertaker shall submit to the highway authority for its approval plans, drawings and particulars (in this paragraph referred to as “plans”) relating thereto, and the bridge shall not be constructed and the works shall not be carried out except in accordance with the plans submitted to, and approved by, the highway authority.
+
+(3) If within 28 days after the plans have been submitted the highway authority has not approved or disapproved them, it shall be deemed to have approved the plans as submitted.
+
+(4) If the bridge carries any part of the works authorised by this Act over any highway—
+
+(a) it shall be constructed in such manner as to prevent so far as may be reasonably practicable the dripping of water from the bridge, and
+
+(b) the highway authority may, at the cost of the nominated undertaker, provide and place such lamps and apparatus as may from time to time be reasonably necessary for efficiently lighting any highway under or in the vicinity of the bridge.
+
+**7** The nominated undertaker shall secure that so much of the works authorised by this Act as is constructed under any highway shall be so designed, constructed and maintained as to carry the appropriate loading recommended for highway bridges by the Secretary of State at the time of construction of the works, and the nominated undertaker shall indemnify the highway authority against, and make good to the highway authority, the expenses which the highway authority may reasonably incur in the maintenance or repair of any highway, or any tunnels, sewers, drains or apparatus therein, by reason of non-compliance with the provisions of this paragraph.
+
+**8** Any officer of the highway authority duly appointed for the purpose may at all reasonable times, on giving to the nominated undertaker such notice as may in the circumstances be reasonable, enter upon and inspect any part of the works authorised by this Act which—
+
+(a) is in, over or under any highway, or
+
+(b) which may affect any highway or any property of the highway authority,
+
+during the carrying out of the work, and the nominated undertaker shall give to such officer all reasonable facilities for such inspection and, if he shall be of the opinion that the construction of the work is attended with danger to any highway or to any property of the highway authority on or under any highway, the nominated undertaker shall adopt such measures and precautions as may be reasonably practicable for the purpose of preventing any damage or injury to the highway.
+
+**9** (1) The nominated undertaker shall not alter, disturb or in any way interfere with any property of the highway authority on or under any highway, or the access thereto, without the consent of the highway authority, and any alteration, diversion, replacement or reconstruction of any such property which may be necessary shall be made by the highway authority or the nominated undertaker as the highway authority thinks fit, and the expense reasonably incurred by the highway authority in so doing shall be repaid to the highway authority by the nominated undertaker.
+
+(2) If within 28 days after a request for consent has been submitted the highway authority has not given or refused such consent, it shall be deemed to have consented to the request as submitted.
+
+**10** The nominated undertaker shall not remove any soil or material from any highway except so much as must be excavated in the carrying out of the works authorised by this Act.
+
+**11** (1) If the highway authority, after giving to the nominated undertaker not less than 28 days' notice (or, in case of emergency, such notice as is reasonably practicable) of its intention to do so, incurs any additional expense in the signposting of traffic diversions or the taking of other measures in relation thereto, or in the repair of any highway by reason of the diversion thereto of traffic from a road of a higher standard, in consequence of the construction of the works authorised by this Act, the nominated undertaker shall repay to the highway authority the amount of any such expense reasonably so incurred.
+
+(2) An amount which apart from this sub-paragraph would be payable to the highway authority by virtue of this paragraph in respect of the repair of any highway shall, if the highway fell or would have fallen due for repair as part of the maintenance programme of the highway authority at any time within ten years of the repair being carried out by the nominated undertaker, so as to confer on the highway authority financial benefit (whether by securing the completion of overdue maintenance work for which the highway authority is liable or by deferment of the time for such work in the ordinary course), be reduced by the amount which represents that benefit.
+
+**12** (1) The nominated undertaker shall not, except with the consent of the highway authority, deposit any soil or materials, or stand any plant, on or over any highway so as to obstruct or render less safe the use of the highway by any person, or, except with the like consent, deposit any soil or materials on any highway outside a hoarding, but if within 28 days after request for it any such consent is neither given nor refused it shall be deemed to have been given.
+
+(2) The expense reasonably incurred by the highway authority in removing any soil or materials deposited on any highway in contravention of this paragraph shall be repaid to the highway authority by the nominated undertaker.
+
+**13** The nominated undertaker shall not, except with the consent of the highway authority, erect or retain on or over a highway to which the public continues to have access any scaffolding or other structure which obstructs the highway, unless the structure comprises screening which has been approved under Schedule 7, but if within 28 days after a request for it such consent is neither given nor refused it shall be deemed to have been given.
+
+**14** The nominated undertaker shall, if reasonably so required by the highway authority, provide and maintain to the reasonable satisfaction of the highway authority, during such time as the nominated undertaker may occupy any part of a highway for the purpose of the construction of any part of the works authorised by this Act, temporary bridges and temporary ramps for vehicular or pedestrian traffic over any part of the works or in such other position as may be necessary to prevent undue interference with the flow of traffic in the highway.
+
+**15** (1) Where any part of any highway has been broken up or disturbed by the nominated undertaker and not permanently stopped up or diverted, the nominated undertaker shall make good the subsoil, foundations and surface of that part of the highway to the reasonable satisfaction of the highway authority, and shall maintain the same to the reasonable satisfaction of the highway authority for such time as may reasonably be required for the permanent reinstatement of the highway.
+
+(2) The reinstatement of that part of the highway shall be carried out by the nominated undertaker to the reasonable satisfaction of the highway authority in accordance with such requirements as to specification of material and standards of workmanship as may be prescribed for equivalent reinstatement work by regulations made under section 71 of the New Roads and Street Works Act 1991 (c. 22).
+
+**16** If any damage to any highway or any property of the highway authority on or under any highway is caused by, or results from, the construction of any work authorised by this Act or any act or omission of the nominated undertaker, its contractors, agents or employees whilst engaged upon such work, the nominated undertaker may, in the case of damage to a highway, make good such damage to the reasonable satisfaction of the highway authority and, where the nominated undertaker does not make good, or in the case of damage to property of the highway authority, the nominated undertaker shall make compensation to the highway authority.
+
+**17** The fact that any act or thing may have been done in accordance with plans approved by the highway authority shall not (if it was not attributable to the act, neglect or default of the highway authority or of any person in its employ or its contractors or agents) exonerate the nominated undertaker from any liability, or affect any claim for damages, under this Part or otherwise.
+
+**18** (1) Any dispute arising between the nominated undertaker and the highway authority under this Part shall be determined by arbitration if—
+
+(a) the parties agree, or
+
+(b) the dispute relates to the amount of any sum payable under this Part,
+
+but shall otherwise by determined by a person appointed by the Secretary of State.
+
+(2) Any person appointed by the Secretary of State under sub-paragraph (1) shall, in determining any dispute arising under this Part, have regard to such matters as may be specified by the Secretary of State on making the appointment.
+
+### Part 2 — Protection for electricity, gas, water and sewerage undertakers
+
+**1** (1) The following provisions of this Part shall, unless otherwise agreed in writing between the nominated undertaker, or the Secretary of State as the case may be, and the undertakers concerned, have effect.
+
+(2) In this Part—
+
+- “alternative apparatus” means alternative apparatus adequate to enable the undertakers to fulfil their functions as effectively as is achievable using the apparatus which the alternative apparatus is to replace;
+
+- “apparatus” means—
+
+  - (a) in the case of electricity undertakers, electric lines or electrical plant (as defined in the Electricity Act 1989 (c. 29)) belonging to, or maintained by, such undertakers;
+  - (b) in the case of gas undertakers, mains, pipes or other apparatus belonging to, or maintained by, a gas transporter for the purposes of the conveyance or storage of gas;
+  - (c) in the case of water undertakers, mains, pipes or other apparatus belonging to, or maintained by, such undertakers for the purposes of water supply; and
+  - (d) in the case of sewerage undertakers, any sewer, drain or works vested in a sewerage undertaker under the Water Industry Act 1991 (c. 56) and includes a sludge main, disposal main (within the meaning of section 219 of that Act) or sewer outfall and any manholes, ventilating shafts, pumps or other accessories forming part of any such sewer, drain or works;
+
+  (not being, except in paragraph 9(3) and 10, apparatus in respect of which the relations between the nominated undertaker and the undertakers are regulated by the provisions of Part 3 of the New Roads and Street Works Act 1991 (c. 22)) and includes any structure for the lodging therein of apparatus or for giving access to apparatus;
+
+- “construction” includes execution, placing, altering, replacing, relaying and removal and, in its application to works which include or comprise any operation, means the carrying out of that operation;
+
+- “functions” includes powers and duties;
+
+- “in” in a context referring to apparatus in land includes under, over, across, along or upon land;
+
+- “plans” includes sections and method statements;
+
+- “service obligations” means any service obligation imposed on the undertakers by or under the enactments authorising them to carry on their respective undertakings; and
+
+- “undertakers” means any of the following, namely, a licence holder within the meaning of Part 1of the Electricity Act 1989 (c. 29), a gas transporter within the meaning of Part 1 of the Gas Act 1986 (c. 44), a water undertaker within the meaning of the Water Industry Act 1991, a sewerage undertaker within Part 1 of that Act and any local authority which is a relevant authority for the purposes of section 97 of that Act; and, in relation to any apparatus, means the undertaker to whom it belongs or by whom it is maintained.
+
+**2** (1) The following provisions of this paragraph have effect in any case where the Secretary of State or the nominated undertaker, in exercise of the powers of this Act, acquires any interest in or temporarily occupies any land in which apparatus is placed.
+
+(2) Unless a certificate is issued by the appropriate Ministers under sub-paragraph (3) the apparatus shall not be removed under this Part, and any right of the undertakers to maintain, repair, renew, adjust, alter or inspect the apparatus in that land shall not be extinguished until any necessary alternative apparatus has been constructed and is in operation to the reasonable satisfaction of the undertakers.
+
+(3) Where the appropriate Ministers certify in relation to any apparatus that—
+
+(a) failure to remove the apparatus would cause undue delay to the construction of the scheduled works, and
+
+(b) the removal of the apparatus before the provision of alternative apparatus in accordance with this paragraph would not substantially prejudice the ability of the undertakers to meet any relevant service obligations,
+
+that apparatus may be removed (or required by the nominated undertaker to be removed) under this Part before any necessary alternative apparatus has been constructed or is in operation to the reasonable satisfaction of the undertakers.
+
+(4) In this paragraph “appropriate Ministers” means the Secretary of State for Transport acting jointly with either the Secretary of State for Environment, Food and Rural Affairs or [[^F64]the Secretary of State for Energy Security and Net Zero].
+
+**3** (1) This paragraph applies where—
+
+(a) the nominated undertaker for the purpose of constructing any work authorised by this Act in, on or under any land, requires the removal of any apparatus placed in that land, and gives the undertakers not less than 28 days' written notice of that requirement, together with a plan of the proposed work, and of the proposed position of the alternative apparatus to be provided or constructed, or
+
+(b) in consequence of the exercise of any of the powers of this Act, the undertakers reasonably require to remove any apparatus.
+
+(2) Subject to sub-paragraph (3), the nominated undertaker or the Secretary of State shall afford the undertakers the requisite facilities and rights for the construction of any necessary alternative apparatus in other land which is available for the purpose and which is held or used, or intended for use, by the nominated undertaker for the purposes of its undertaking under this Act or held by the Secretary of State, or in which either of them has sufficient rights or interests and thereafter for the maintenance, repair, renewal and inspection of such apparatus.
+
+(3) Sub-paragraph (4) applies where facilities and rights required for the construction of apparatus under sub-paragraph (2) are to be afforded elsewhere than in such other land and neither the nominated undertaker nor the Secretary of State is able to afford such facilities and rights.
+
+(4) The undertakers shall, on receipt of a written notice from the nominated undertaker that this sub-paragraph applies, forthwith use their best endeavours to obtain the necessary facilities and rights; and neither the nominated undertaker nor the Secretary of State shall be under an obligation as to the provision of such facilities and rights in the other land.
+
+**4** (1) Any alternative apparatus to be constructed by the undertakers in pursuance of paragraph 3 in land held or used, or intended for use, by the nominated undertaker for the purposes of its undertaking under this Act or held by the Secretary of State, or in which the undertakers have obtained the necessary facilities and rights, shall be constructed in such manner, and in such line or situation and in accordance with such programme, as is—
+
+(a) agreed between the undertakers and the nominated undertaker with a view to securing, among other things, the efficient implementation of the necessary work, the avoidance of unnecessary delay and the continued fulfilment by the undertakers of their service obligations to a standard no less than that achieved prior to the removal of the apparatus which the alternative apparatus replaces, or
+
+(b) in default of agreement, determined in accordance with paragraph 13.
+
+(2) If the undertakers fail to comply with an agreement made under sub-paragraph (1), or with a determination under paragraph 13, they shall be liable to compensate the nominated undertaker in respect of any loss or damage (other than loss of, or arising from delayed receipt of, operating revenue due to delayed opening of Crossrail) directly resulting from the failure.
+
+**5** (1) The undertakers shall, after—
+
+(a) the manner of construction and the line and situation of any necessary alternative apparatus have been agreed or determined as aforesaid, and
+
+(b) any such facilities and rights as are referred to in paragraph 3 have been granted to or obtained by the undertakers, or an undertaking has been given that such facilities or rights will be granted,
+
+proceed with all reasonable despatch to construct and bring into operation the alternative apparatus and to remove any apparatus required by the nominated undertaker to be removed under the provisions of this Part and, in default, the nominated undertaker may remove that apparatus.
+
+(2) Following the removal of that apparatus under the provisions of this Part or abandonment any rights of the undertakers relating to that apparatus in or over the land in which it was or is situated shall be extinguished.
+
+**6** (1) If the nominated undertaker gives notice in writing to the undertakers that it desires to carry out any part of so much of the work necessary in connection with the construction of the alternative apparatus, or the removal of the apparatus required to be removed, as is or will be situate in any lands held or used, or intended for use, by the nominated undertaker for the purposes of its undertaking under this Act or held by the Secretary of State, such work, instead of being carried out by the undertakers, shall be carried out by the nominated undertaker in accordance with plans and specifications and in a position agreed between the undertakers and the nominated undertaker, or, in default of agreement, determined in accordance with paragraph 13, with all reasonable despatch under the superintendence (if given) and to the reasonable satisfaction of the undertakers.
+
+(2) Nothing in this paragraph shall authorise the nominated undertaker to carry out any connection to or disconnection of any existing apparatus or to carry out any works associated with a connection or disconnection within 600 millimetres of the point of connection or disconnection.
+
+**7** (1) Where, in accordance with the provisions of this Part, the nominated undertaker or the Secretary of State affords to the undertakers facilities and rights for the construction, maintenance, repair, renewal and inspection on land held or used, or intended for use, by the nominated undertaker for the purposes of its undertaking under this Act or held by the Secretary of State of alternative apparatus, those facilities and rights shall be granted upon such terms and conditions as may be agreed between the nominated undertaker or, as the case may be, the Secretary of State, and the undertakers or, in default of agreement, determined in accordance with paragraph 13.
+
+(2) In determining such terms and conditions as aforesaid in respect of alternative apparatus to be constructed across or along any works authorised by this Act, a person making a determination under paragraph 13 shall—
+
+(a) give effect to all reasonable requirements of the nominated undertaker for ensuring the safety and efficient operation of those works and for securing any subsequent alterations or adaptations of the alternative apparatus which may be required to prevent interference with any proposed works of the nominated undertaker or the use of the same, and
+
+(b) so far as it may be reasonable and practicable to do so in the circumstances of the case, give effect to the terms and conditions (if any) applicable to the apparatus for which the alternative apparatus is to be substituted and have regard to the undertakers' ability to fulfil their service obligations.
+
+(3) If the facilities and rights to be afforded by the nominated undertaker or the Secretary of State in respect of any alternative apparatus, and the terms and conditions subject to which those facilities and rights are to be granted are, in the opinion of a person making a determination under paragraph 13, more or less favourable on the whole to the undertakers than the facilities, rights, terms and conditions applying to the apparatus to be removed, that person shall make such provision for the payment of compensation to or by the nominated undertaker or the Secretary of State to or by the undertakers in respect of the difference as appears to him to be reasonable having regard to all the circumstances of the case.
+
+**8** (1) Not less than 28 days before commencing to construct any work authorised by this Act which is near to, or will or may affect, any apparatus the removal of which has not been required by the nominated undertaker under paragraph 3, the nominated undertaker shall submit to the undertakers a plan and description of the work and of any protective measures which the nominated undertaker proposes to take in respect of that apparatus, together with a specification of such measures where appropriate.
+
+(2) The work shall be constructed only in accordance with the plan and description submitted as aforesaid and in accordance with such reasonable requirements as may be made by the undertakers for the alteration or otherwise for the protection of the apparatus or for securing access thereto, and the undertakers shall be entitled by their officer to watch and inspect the construction of the work.
+
+(3) If the undertakers within 14 days after the submission to them of any such plan and description shall, in consequence of the works proposed by the nominated undertaker, reasonably require the removal of any apparatus and give written notice to the nominated undertaker of that requirement, this Part shall have effect as if the removal of such apparatus had been required by the nominated undertaker under paragraph 3.
+
+(4) Nothing in sub-paragraphs (1) to (3) shall preclude the nominated undertaker from submitting at any time, or from time to time, but in no case less than 28 days before commencing the construction of the work, a new plan and description of it in lieu of the plan and description previously submitted, and thereupon the provisions of those sub-paragraphs shall apply to and in respect of the new plan and description.
+
+(5) The nominated undertaker shall not be required to comply with sub-paragraphs (1) to (3) in a case of emergency but in such a case it shall give notice to the undertakers as soon as reasonably practicable and a plan and description of those works as soon as reasonably practicable thereafter, and shall comply with those sub-paragraphs so far as reasonably practicable in the circumstances.
+
+**9** (1) If in consequence of the exercise of the powers of this Act the access to any apparatus is materially obstructed the nominated undertaker shall, so far as reasonably practicable, provide alternative means of access to such apparatus which is no less convenient than the access enjoyed by the undertakers prior to the obstruction.
+
+(2) The nominated undertaker shall, so far as is reasonably practicable, so exercise its powers under paragraphs 5 and 6 of Schedule 2 as not to obstruct or render less convenient the access to any apparatus.
+
+(3) Notwithstanding the temporary stopping up or diversion of any highway under paragraph 5 of Schedule 3, the undertakers may do all such works and things in any such highway as may be reasonably necessary to enable them to inspect, repair, maintain, renew, remove or use any apparatus which at the time of the stopping up or diversion was in that highway.
+
+**10** Where, in consequence of this Act, any part of any highway in which any apparatus is situate ceases to be part of a highway, the undertakers may exercise the same rights of access to such apparatus as they enjoyed immediately before the passing of this Act, but nothing in this paragraph shall affect any right of the nominated undertaker or of the undertakers to require removal of that apparatus under this Part or the power of the nominated undertaker to construct works in accordance with paragraph 8.
+
+**11** (1) Subject to the following provisions of this paragraph, the nominated undertaker shall repay to the undertakers the reasonable expenses incurred by the undertakers in, or in connection with—
+
+(a) the removal and relaying or replacing, alteration or protection of any apparatus or the construction of any new apparatus under any provision of this Part,
+
+(b) the cutting off of any apparatus from any other apparatus in consequence of the exercise by the nominated undertaker of any power under this Act, and
+
+(c) any other work or thing rendered reasonably necessary in consequence of the exercise by the nominated undertaker of any such power.
+
+(2) There shall be deducted from any sum payable under sub-paragraph (1) the value of any apparatus removed under the provisions of this Part, that value being calculated after removal.
+
+(3) If in pursuance of the provisions of this Part—
+
+(a) alternative apparatus of better type, or greater capacity or of greater dimensions is placed in substitution for existing apparatus of worse type, of smaller capacity or of smaller dimensions, except where this has been solely due to using the nearest currently available type, or
+
+(b) apparatus (whether existing apparatus or alternative apparatus) is placed at a depth greater than the depth at which the existing apparatus was situated,
+
+and the placing of apparatus of that type or capacity or of those dimensions, or the placing of apparatus at that depth, as the case may be, is not agreed by the nominated undertaker or, in default of agreement, is not determined to be necessary in accordance with paragraph 13, then, if it involves cost in the construction of works under paragraph 6 exceeding that which would have been involved if the apparatus placed had been of the existing type, capacity or dimensions, or at the existing depth, as the case may be, the amount which apart from this sub-paragraph would be payable to the undertakers by virtue of sub-paragraph (1) shall be reduced by the amount of that excess.
+
+(4) For the purposes of sub-paragraph (3)—
+
+(a) an extension of apparatus to a length greater than the length of existing apparatus shall not be treated as a placing of apparatus of greater dimensions than those of the existing apparatus except in a case where the apparatus as so extended serves a purpose (either additional to or instead of that served by the existing apparatus) which was not served by the existing apparatus, and
+
+(b) where the provision of a joint in a cable is agreed, or is determined to be necessary, the consequential provision of a jointing chamber or of a manhole shall be treated as if it also had been agreed or had been so determined.
+
+(5) An amount which apart from this sub-paragraph would be payable to the undertakers in respect of works by virtue of this paragraph shall, if the works include the placing of apparatus provided in substitution for apparatus placed more than 7½ years earlier so as to confer on the undertakers any financial benefit by deferment of the time for renewal of the apparatus or of the system of which it forms part in the ordinary course, be reduced by the amount which represents that benefit.
+
+(6) In any case where work is carried out by the nominated undertaker pursuant to paragraph 6 and, if such work had been carried out by the undertakers, the repayment made to the undertakers under this paragraph would fall to be reduced pursuant to sub-paragraphs (3) to (5), the undertakers shall pay to the nominated undertaker such sum as represents the amount of that reduction.
+
+**12** (1) Subject to sub-paragraphs (2) and (3), if by reason of the construction of any of the works authorised by this Act, or any subsidence resulting from any of those works, any damage is caused to any apparatus (other than apparatus the repair of which is not reasonably necessary in view of its intended removal for the purposes of those works) or property of the undertakers, or there is any interruption in any service provided, or in the supply of any goods, by any of the undertakers, the nominated undertaker shall bear and pay the cost reasonably incurred by the undertakers in making good such damage or restoring the supply and shall—
+
+(a) make reasonable compensation to the undertakers for loss sustained by them, and
+
+(b) indemnify the undertakers against claims, demands, proceedings, and damages which may be made or taken against, or recovered from the undertakers,
+
+by reason of any such damage or interruption.
+
+(2) Nothing in sub-paragraph (1) shall impose any liability on the nominated undertaker with respect to any damage or interruption to the extent that it is attributable to the act, neglect or default of the undertakers, their officers, servants, contractors or agents.
+
+(3) The undertakers shall give the nominated undertaker reasonable notice of any such claim or demand and no settlement or compromise of any such claim or demand shall be made without the consent of the nominated undertaker which, if it withholds such consent, shall have the sole conduct of any settlement or compromise or of any proceedings necessary to resist the claim or demand.
+
+**13** (1) Any dispute arising between the nominated undertaker and the undertakers under this Part shall be determined by arbitration if—
+
+(a) the parties agree, or
+
+(b) the dispute relates to the amount of any sum payable under this Part,
+
+but shall otherwise by determined by a person appointed by the appropriate Ministers.
+
+(2) Any person appointed by the appropriate Ministers under sub-paragraph (1) shall, in determining any dispute arising under this Part, have regard to such matters as may be specified by the appropriate Ministers on making the appointment.
+
+(3) In this paragraph “the appropriate Ministers” means the Secretary of State for Transport acting jointly with either the Secretary of State for Environment, Food and Rural Affairs or [[^F65]the Secretary of State for Energy Security and Net Zero].
+
+### Part 3 — Protection of land drainage, flood defence, water resources and fisheries
+
+**1** (1) The following provisions of this Part shall, unless otherwise agreed in writing between the nominated undertaker and the Agency, have effect.
+
+(2) In this Part—
+
+- “the Agency” means the Environment Agency;
+
+- “construction” includes execution, placing, altering, replacing, relaying and removal;
+
+- “drainage work” means any watercourse and any bank, wall, embankment or other structure, or any appliance, constructed or used for land drainage, flood defence or tidal monitoring, and includes land which, taking account of flood defences, is expected to provide flood storage capacity for any watercourse at intervals not less frequent than—
+
+  - (a) in the case of areas providing fluvial flood storage, once in 100 years; and
+  - (b) in the case of areas providing tidal or coastal flood storage, once in 200 years;
+
+- “fishery” means any waters containing fish and fish in, or migrating to or from such waters and the spawn, spawning grounds or food of such fish;
+
+- “plans” includes sections, drawings, specifications and method statements;
+
+- “specified work” means so much of any permanent or temporary work or operation authorised by this Act (which includes, for the avoidance of doubt, any dredging and any geotechnical investigations that may be undertaken) as is likely to—
+
+  - (a) affect any drainage work or the volumetric rate of flow of water in or flowing to or from any drainage work;
+  - (b) affect the flow, purity or quality of water in any watercourse or other surface waters or ground water;
+  - (c) cause obstruction to the free passage of fish or damage to any fishery; or
+  - (d) affect the conservation, distribution or use of water resources; and
+
+- “watercourse” includes all rivers, streams, ditches, drains, cuts, culverts, dykes, sluices, sewers and passages through which water flows except a public sewer;
+
+and reference to protection of or damage to a drainage work includes reference to the protection of or damage to the drainage work as a natural resource or in respect of the effects of that drainage work on the environment.
+
+**2** (1) Before beginning to construct any specified work, the nominated undertaker shall submit to the Agency plans of the work and such further particulars available to it as the Agency may within 14 days of the submission of the plans reasonably require.
+
+(2) Any such specified work shall not be constructed except in accordance with such plans as may be approved in writing by the Agency, or determined under paragraph 12.
+
+(3) Any approval of the Agency required under this paragraph—
+
+(a) shall not be unreasonably withheld;
+
+(b) shall be deemed to have been given if it is neither given nor refused within 28 days of the submission of the plans for approval or where further particulars are submitted under paragraph 2(1), within 28 days of the submission of those particulars; and
+
+(c) may be given subject to such reasonable requirements as the Agency may make for the protection of any drainage work or fishery or for the protection of water resources, or for the prevention of flooding or pollution.
+
+**3** The requirements which the Agency may make under paragraph 2 include conditions requiring the nominated undertaker at its own expense to construct such protective works (including any new works as well as alterations to existing works) as are reasonably necessary—
+
+(a) to safeguard any drainage work against damage, or
+
+(b) to secure that its efficiency for flood defence purposes is not impaired,
+
+during the construction of the specified work.
+
+**4** (1) Any specified work, and all protective works required by the Agency under paragraph 2, shall be constructed to the reasonable satisfaction of the Agency and the Agency shall be entitled by its officer at all reasonable times, on giving such notice as may be reasonable in the circumstances, to inspect the construction of such works.
+
+(2) The nominated undertaker shall give to the Agency not less than 14 days' notice in writing of its intention to commence construction of any specified work and notice in writing of its completion not later than 7 days after the date on which it is brought into use.
+
+(3) If any part of the works comprising a structure in, over or under a watercourse is constructed otherwise than in accordance with the requirements of this Part, the Agency may by notice in writing require the nominated undertaker at the nominated undertaker's own expense to comply with the requirements of this Part or (if the nominated undertaker so elects and the Agency in writing consents, such consent not to be unreasonably withheld) to remove, alter or pull down the work and, where removal is required, to restore the site to its former condition to such extent and within such limits as the Agency reasonably requires.
+
+(4) Subject to sub-paragraph (5), if within a reasonable period, being not less than 28 days from the date when a notice under sub-paragraph (3) is served upon the nominated undertaker, it has failed to begin taking steps to comply with the requirements of the notice and thereafter to make reasonably expeditious progress towards their implementation, the Agency may execute the works specified in the notice and any expenditure reasonably incurred by it in so doing shall be recoverable from the nominated undertaker.
+
+(5) In the event of any dispute as to whether sub-paragraph (3) is properly applicable to any work in respect of which notice has been served under that sub-paragraph, or as to the reasonableness of any requirement of such a notice, the Agency shall not, except in an emergency, exercise the powers conferred by sub-paragraph (4) until the dispute has been finally determined.
+
+**5** (1) Any work constructed under this Act for the purpose of providing a flood defence shall be maintained to the reasonable satisfaction of the Agency by the person who has control of the work.
+
+(2) If any such work is not maintained to the reasonable satisfaction of the Agency, the Agency may by notice in writing require that person to repair and restore the work, or any part of it, or (if the person having control of the work so elects and the Agency in writing consents, such consent not to be unreasonably withheld), to remove the work and restore the site (including any sea defences) to its former condition, to such extent and within such limits as the Agency reasonably requires.
+
+(3) If, within a reasonable period being not less than 28 days beginning with the date on which a notice in respect of any work is served under sub-paragraph (2) on the person who has control of that work, that person has failed to begin taking steps to comply with the reasonable requirements of the notice and has not thereafter made reasonably expeditious progress towards their implementation, the Agency may do what is necessary for such compliance and may recover any expenditure reasonably incurred by it in so doing from that person.
+
+(4) In the event of any dispute as to the reasonableness of any requirement of a notice served under sub-paragraph (2), the Agency shall not except in a case of immediate foreseeable need exercise the powers of sub-paragraph (3) until the dispute has been finally determined.
+
+**6** (1) If by reason of the construction of any specified work or of the failure of any such work the efficiency of any drainage work for flood defence purposes is impaired, or that work is otherwise damaged, so as to require remedial action, such impairment or damage shall be made good by the nominated undertaker to the reasonable satisfaction of the Agency.
+
+(2) If such impaired or damaged drainage work for flood defence purposes is not made good to the reasonable satisfaction of the Agency, the Agency may by notice in writing require the nominated undertaker to restore it to its former standard of efficiency or where necessary to construct some other work in substitution for it.
+
+(3) If, within a reasonable period being not less than 28 days beginning with the date on which a notice in respect of impaired or damaged drainage work for flood defence purposes is served under sub-paragraph (2) on the nominated undertaker, the nominated undertaker has failed to begin taking steps to comply with the requirements of the notice and has not thereafter made reasonably expeditious progress towards its implementation, the Agency may do what is necessary for such compliance and may recover any expenditure reasonably incurred by it in so doing from the nominated undertaker.
+
+(4) In the event of any dispute as to the reasonableness of any requirement of a notice served under sub-paragraph (2), the Agency shall not except in a case of immediate foreseeable need exercise the powers conferred by sub-paragraph (3) until the dispute has been finally determined.
+
+**7** (1) The nominated undertaker shall take all such measures as may be reasonably practicable to prevent any interruption of the free passage of fish in any fishery during the construction of any specified work.
+
+(2) If by reason of—
+
+(a) the construction of any specified work, or
+
+(b) the failure of any such work,
+
+damage to a fishery is caused, or the Agency has reason to expect that such damage may be caused, the Agency may serve notice on the nominated undertaker requiring it to take such steps as may be reasonably practicable to make good the damage or, as the case may be, to protect the fishery against such damage.
+
+(3) If, within such time as may be reasonably practicable for that purpose after the receipt of written notice from the Agency of any damage or expected damage to a fishery, the nominated undertaker fails to take such steps as are described in sub-paragraph (2), the Agency may take those steps and may recover from the nominated undertaker the expense reasonably incurred by it in doing so.
+
+(4) In any case where immediate action by the Agency is reasonably required in order to secure that the risk of damage to a fishery is avoided or reduced, the Agency may take such steps as are reasonable for the purpose, and may recover from the nominated undertaker the reasonable cost of so doing provided that notice specifying those steps is served on the nominated undertaker as soon as reasonably practicable after the Agency has taken, or commenced to take, the steps specified in the notice.
+
+**8** (1) The nominated undertaker shall indemnify the Agency from all claims, demands, proceedings or damages, which may be made or taken against, or recovered from the Agency by reason of—
+
+(a) any damage to any drainage work so as to impair its efficiency for flood defence purposes,
+
+(b) any damage to a fishery,
+
+(c) any raising or lowering of the water table in land adjoining the works authorised by this Act or any sewers, drains and watercourses, or
+
+(d) any flooding or increased flooding of any such lands,
+
+which is caused by, or results from, the construction of any specified work or any act or omission of the nominated undertaker, its contractors, agents or employees whilst engaged upon the work.
+
+(2) The Agency shall give to the nominated undertaker reasonable notice of any such claim or demand and no settlement or compromise of any such claim or demand shall be made without the consent of the nominated undertaker which, if it withholds such consent, shall have the sole conduct of any settlement or compromise or of any proceedings necessary to resist the claim or demand.
+
+**9** Nothing in paragraph 8 shall require the nominated undertaker to indemnify the Agency in respect of any claim, demand, proceedings or damages which the Agency could reasonably make, take against or recover from any other person.
+
+**10** The fact that any work or thing has been executed or done in accordance with a plan approved or deemed to be approved by the Agency, or to its satisfaction, or in accordance with any determination under paragraph 12, shall not (in the absence of negligence on the part of the Agency, its officers, contractors or agents) relieve the nominated undertaker from any liability under the provisions of this Part.
+
+**11** For the purposes of section 5 of the Metropolis Management (Thames River Prevention of Floods) Amendment Act 1879 (c. cxcviii) and Chapter 2 of Part 2 of the Water Resources Act 1991 (c. 57) (abstraction and impounding of water) and section 109 of that Act (as to structures in, over or under watercourses) as applying to the construction of any specified work, any consent or approval given or deemed to be given by the Agency under this Part with respect to such construction shall be deemed also to constitute an impounding licence under that Chapter or, as the case may be, a consent or approval under those sections, and the nominated undertaker shall not be obliged to serve any notice which would otherwise be required by section 30 of the said Act of 1991 (which relates to the construction of boreholes and similar works in respect of which a licence is not required).
+
+**12** (1) Any dispute arising between the nominated undertaker and the Agency under this Part shall be determined by arbitration if—
+
+(a) the parties agree, or
+
+(b) the dispute relates to the amount of any sum payable under this Part,
+
+but shall otherwise by determined by a person appointed by the appropriate Ministers.
+
+(2) Any person appointed by the appropriate Ministers under sub-paragraph (1) shall, in determining any dispute arising under this Part, have regard to such matters as may be specified by the appropriate Ministers on making the appointment.
+
+(3) In this paragraph the reference to the appropriate Ministers is to the Secretary of State for Transport and the Secretary of State for Environment, Food and Rural Affairs acting jointly.
+
+### Part 4 — Protection of electronic communications code networks
+
+**1** (1) The following provisions of this Part shall, unless otherwise agreed in writing between the nominated undertaker and an operator of an electronic communications code network, have effect.
+
+(2) In this Part—
+
+- “the authorised works” means the works authorised by this Act;
+- “construction” includes installation and “construct” shall be construed accordingly;
+- [[^F66]“electronic communications code” means the code set out in Schedule 3A to the Communications Act 2003;] and
+- “operator”, “electronic communications apparatus”, and “electronic communications code network” have the meanings given by paragraph 17(1) of Schedule 17 to the Communications Act 2003 (c. 21).
+
+**2** (1) Subject to sub-paragraph (2), [[^F67]Part 10] of the electronic communications code shall apply for the purposes of the authorised works.
+
+(2) [[^F68]Parts 6 and 10] of the electronic communications code shall not apply for the purposes of the authorised works,
+
+(a) insofar as such works are regulated by the New Roads and Street Works Act 1991 (c. 22) or any regulation made under that Act;
+
+(b) where the nominated undertaker exercises a right under subsection (4)(b) of section 272 of the Town and Country Planning Act 1990 (c. 8) or under an order made under that section to remove electronic communications apparatus; or
+
+(c) in respect of any matter regulated by sub-paragraphs (3) to (8) of paragraph 4.
+
+**3** The temporary stopping up or diversion of any highway under paragraph 5 of Schedule 3 shall not affect any right of an operator under [[^F69]Part 8] of the electronic communications code in respect of any apparatus which at the time of the stopping up or diversion is in the highway.
+
+**4** (1) Where a highway is stopped up under paragraph 1 or 2 of Schedule 3, any operator of an electronic communications code network whose electronic communications apparatus is under, over, in, on, along or across that highway may exercise the same rights of access in order to inspect, maintain, adjust, repair or alter that apparatus as if this Act had not been passed, but nothing in this sub-paragraph shall affect any right of the nominated undertaker or the operator to require removal of that apparatus under this Part or the power of the nominated undertaker to alter apparatus in accordance with [[^F70]Part 10] of the electronic communications code.
+
+(2) The nominated undertaker shall give not less than 28 days' notice in writing of its intention to stop up any highway under paragraph 1 or 2 of Schedule 3 to any operator of an electronic communications code network whose apparatus is under, over, in, on, along or across the highway.
+
+(3) Where a notice under sub-paragraph (2) has been given, the operator, if it reasonably considers that it is necessary for the safe and efficient operation and maintenance of the apparatus, may, and if reasonably requested so to do by the nominated undertaker in the notice, shall, as soon as reasonably practicable after the service of the notice—
+
+(a) remove the apparatus and place it or other apparatus provided in substitution for it in such other position as the operator may reasonably determine and have power to place it, or
+
+(b) provide other apparatus in substitution for the existing apparatus and place it in such other position as aforesaid.
+
+(4) Subject to the following provisions of this paragraph the nominated undertaker shall pay to any operator of an electronic communications code network an amount equal to the cost reasonably incurred by the operator in or in connection with—
+
+(a) the execution of relocation works required in consequence of the stopping up of the highway, and
+
+(b) the doing of any other work or thing rendered necessary by the execution of relocation works.
+
+(5) If in the course of the execution of relocation works under sub-paragraph (3)—
+
+(a) apparatus of better type, greater capacity or greater dimensions is placed in substitution for existing apparatus of worse type, smaller capacity or smaller dimensions, except where this has been solely due to using the nearest currently available type, capacity or dimension, or
+
+(b) apparatus (whether existing apparatus or apparatus substituted for existing apparatus) is placed at a depth greater than the depth at which existing apparatus was,
+
+and the placing of apparatus of that type or capacity or of those dimensions or the placing of apparatus at that depth, as the case may be, is not agreed by the nominated undertaker, or, in default of agreement, is not determined to be necessary in consequence of the construction of the authorised works in order to ensure the continued efficient operation of the electronic communications code network of the operator then, if it involves cost in the execution of the relocation works exceeding that which would have been involved if the apparatus placed had been of the existing type, capacity or dimensions, or at the existing depth, as the case may be, the amount which apart from this paragraph would be payable to the operator by virtue of sub-paragraph (4) shall be reduced by the amount of that excess.
+
+(6) For the purposes of sub-paragraph (5)—
+
+(a) an extension of apparatus to a length greater than the length of existing apparatus shall not be treated as a placing of apparatus of greater dimensions than those of the existing apparatus except in a case where the apparatus as so extended provides more than an equivalent service, and
+
+(b) where the provision of a joint in a cable is agreed, or is determined to be necessary, the consequential provision of a jointing chamber or of a manhole (in either case of such type, capacity and dimensions as shall reasonably be appropriate) shall be treated as if it also had been agreed or had been so determined.
+
+(7) The amount which apart from this sub-paragraph would be payable to an operator in respect of works by virtue of sub-paragraph (4) (and having regard, where relevant, to sub-paragraph (5)) shall, if the works include the placing of apparatus provided in substitution for apparatus placed more than 7½ years earlier so as to confer on the operator any financial benefit by deferment of the time for renewal of the apparatus in the ordinary course, be reduced by the amount which represents that benefit.
+
+(8) Sub-paragraphs (4) to (7) shall not apply where the authorised works constitute major transport works or major highway works for the purpose of Part 3 of the New Roads and Street Works Act 1991 (c. 22) (including that provision as applied by paragraph 8 of Schedule 3 to this Act), but instead—
+
+(a) the allowable costs of any relocation works shall be determined in accordance with section 85 of that Act (sharing of costs of necessary measures) and any regulations for the time being having effect under that section, and
+
+(b) the allowable costs shall be borne by the nominated undertaker and the operator in such proportions as may be prescribed by any such regulations.
+
+**5** (1) Subject to sub-paragraphs (2) to (4), if by reason of the construction of the authorised works or any subsidence resulting from any of those works, any damage is caused to any electronic communications apparatus, other than apparatus the repair of which is not reasonably necessary in view of its intended removal for the purposes of those works, or property of the operator of an electronic communications code network, or there is any interruption in the supply of the service provided by the operator, the nominated undertaker shall bear and pay the cost reasonably incurred by the operator in making good such damage or restoring the supply and shall—
+
+(a) make reasonable compensation to the operator for loss sustained by it, and
+
+(b) indemnify the operator against all claims, demands, proceedings, or damages which may be made or taken against, or recovered from, the operator, by reason of any such damage or interruption.
+
+(2) Sub-paragraph (1) shall not apply to any apparatus in respect of which the relations between the nominated undertaker and the operator are regulated by the provisions of Part 3 of the New Roads and Street Works Act 1991.
+
+(3) Nothing in sub-paragraph (1) shall impose any liability on the nominated undertaker with respect to any damage or interruption to the extent that it is attributable to the act, neglect or default of the operator, its officers, servants, contractors or agents.
+
+(4) The operator shall give the nominated undertaker reasonable notice of any such claim or demand and no settlement or compromise of any such claim or demand shall be made without the consent of the nominated undertaker which, if it withholds such consent, shall have the sole conduct of any settlement or compromise or of any proceedings necessary to resist the claim or demand.
+
+**6** (1) Any dispute arising between the nominated undertaker and an operator under this Part shall be determined by arbitration if—
+
+(a) the parties agree, or
+
+(b) the dispute relates to the amount of any sum payable under this Part,
+
+but shall otherwise by determined by a person appointed by the appropriate Ministers.
+
+(2) Any person appointed by the appropriate Ministers under sub-paragraph (1) shall, in determining any dispute arising under this Part, have regard to such matters as may be specified by the appropriate Ministers on making the appointment.
+
+(3) In this paragraph the reference to the appropriate Ministers is a reference to the Secretary of State for Transport and [[^F71]the Secretary of State for Science, Innovation and Technology] acting jointly.
+
+### Part 5 — Protection of [[^F72]Canal & River Trust]
+
+**1** (1) The following provisions of this Part shall, unless otherwise agreed in writing between the nominated undertaker, or the Secretary of State as the case may be, and [[^F73]Canal & River Trust], have effect.
+
+(2) In this Part—
+
+- [^F74]...
+- “the canal” means any canal or waterway owned or managed by [[^F73]Canal & River Trust], and includes any works connected therewith for the maintenance of which [[^F73]Canal & River Trust] is responsible and any lands held or used by [[^F73]Canal & River Trust] for the purposes of the canal;
+- “construction” includes execution, placing, altering, replacing and relaying and includes removal;
+- “plans” includes sections, drawings, specifications and method statements;
+- “specified work” means so much of any permanent or temporary work authorised by this Act as is in, across, under, or within 15 metres of, or may in any way affect, the canal.
+
+**2** The Secretary of State shall not under the powers of section 6 acquire compulsorily any land of [[^F73]Canal & River Trust] or any easement or other right over such land other than such land, or easements or other rights thereover, as is reasonably necessary for, or in connection with, the construction, maintenance or operation of works authorised by this Act.
+
+**3** (1) Before beginning to construct any specified work, the nominated undertaker shall submit to [[^F73]Canal & River Trust] plans of the work and such further particulars available to it as [[^F73]Canal & River Trust] may within 14 days of the submission of the plans reasonably require.
+
+(2) Any specified work shall not be constructed except in accordance with such plans as may be approved in writing by [[^F73]Canal & River Trust] or determined under paragraph 11.
+
+(3) Any approval of [[^F73]Canal & River Trust] required under this paragraph shall not be unreasonably withheld and—
+
+(a) shall be deemed to have been given if it is neither given nor refused (with an indication of the grounds for refusal) within 28 days of the submission of the plans for approval or where further particulars are submitted under paragraph 3(1), within 28 days of the submission of those particulars; and
+
+(b) may be given subject to such reasonable requirements as [[^F73]Canal & River Trust] may make for the purpose of ensuring the safety or stability of the canal, including requirements as to the construction of protective works.
+
+**4** (1) Any specified work, and any protective works required by [[^F73]Canal & River Trust] under paragraph 3(3)(b), shall be constructed with all reasonable despatch to the reasonable satisfaction of [[^F73]Canal & River Trust], and in such manner as to cause as little damage to the canal as may be reasonably practicable and as little interference as may be reasonably practicable with the passage of vessels using the canal, and [[^F73]Canal & River Trust] shall be entitled by its officer at all reasonable times, on giving such notice as may be reasonable in the circumstances, to inspect the construction of such work or works.
+
+(2) The nominated undertaker shall give to [[^F73]Canal & River Trust] not less than 28 days' notice in writing of its intention to commence construction of any specified work or any protective works and also, except in emergency (when the nominated undertaker shall give such notice as may be reasonably practicable), of its intention to carry out any works for the repair or maintenance of any specified work insofar as such works of repair or maintenance affect or interfere with the canal.
+
+**5** (1) The nominated undertaker shall not deposit any polluting material on, in or over the canal and shall not without the consent of [[^F73]Canal & River Trust]—
+
+(a) deposit any other materials on, in or over the canal (other than materials comprised in a specified work); or
+
+(b) notwithstanding anything in this Act, discharge any water directly or indirectly into the canal.
+
+(2) Any consent of [[^F73]Canal & River Trust] required under this paragraph shall not be unreasonably withheld and—
+
+(a) shall be deemed to have been given if it is neither given nor refused within 28 days of the submission of the request for it; and
+
+(b) may be given subject to such reasonable requirements as [[^F73]Canal & River Trust] may make—
+
+(i) in the case of a deposit, so as to ensure that the use of the canal is not obstructed or rendered less safe, and
+
+(ii) in the case of a discharge, concerning the reimbursement by the nominated undertaker of expenses incurred by [[^F73]Canal & River Trust] in disposing of the water so discharged, being expenses which [[^F73]Canal & River Trust] would not have incurred but for the discharge.
+
+**6** In its application to the discharge of water into the canal, paragraph 8(5) of Schedule 2 shall have effect subject to the terms of any conditions attached to the consent under paragraph 5(2) above and, where such discharge includes a deposit to which consent has been given under paragraph 5(1) above, to any conditions attached to that consent.
+
+**7** (1) If as a result of the construction of any specified work any part of the towing path or access way beside the canal, or any public right of way giving access thereto, is temporarily closed to pedestrians or cyclists and there is no way which provides a reasonable alternative, the nominated undertaker shall, so far as reasonably practicable and to the extent that it is consistent with safety, provide a substitute path or paths for such time as the closure continues.
+
+(2) This paragraph is without prejudice to the requirements of paragraph 5(2) or (5) of Schedule 3.
+
+**8** (1) If any canal work is abandoned, [[^F73]Canal & River Trust] may by notice in writing require the nominated undertaker to take such reasonable steps as may be specified in the notice to remove the work and (to such extent as [[^F73]Canal & River Trust] reasonably requires) to restore the site to its former condition.
+
+(2) If any canal work is in such condition that it is, or is likely to become, a danger to or to interfere with navigation, [[^F73]Canal & River Trust] may by notice in writing require the nominated undertaker to take such reasonable steps as may be specified in the notice—
+
+(a) to repair and restore the work or part of it, or
+
+(b) if the nominated undertaker so elects, to remove the work and (to such extent as [[^F73]Canal & River Trust] reasonably requires) to restore the site to its former condition.
+
+(3) If—
+
+(a) a work which consists of a canal work and a non-canal work is abandoned or falls into decay; and
+
+(b) the non-canal work is in such a condition as to interfere with the right of navigation in the relevant canal or as to interfere with the rights of access or use of land adjacent to the relevant canal;
+
+[[^F73]Canal & River Trust] may include the non-canal work, or any part of it, in any notice under this paragraph.
+
+(4) If after such reasonable period as may be specified in a notice under this paragraph the nominated undertaker has failed to begin taking steps to comply with the requirements of the notice or after beginning has failed to make reasonably expeditious progress towards their implementation, [[^F73]Canal & River Trust] may carry out the works specified in the notice and any expenditure reasonably incurred by it in so doing shall be recoverable from the nominated undertaker.
+
+(5) In this paragraph “canal work” means so much of any specified work or any other work of which the nominated undertaker is in possession under the powers of this Act as is in or over a canal owned or managed by [[^F73]Canal & River Trust] and “non-canal work” means so much of any such work as is not in or over a canal.
+
+**9** (1) The nominated undertaker shall indemnify [[^F73]Canal & River Trust] from all claims, demands, proceedings or damages, which may be made or given against, or recovered from [[^F73]Canal & River Trust] by reason of any damage to the canal which is caused by the construction of any specified work or protective work or any act or omission of the nominated undertaker, its contractors, agents or employees whilst engaged upon the work and from any costs reasonably incurred in making good such damage.
+
+(2) [[^F73]Canal & River Trust] shall give to the nominated undertaker reasonable notice of any such claim or demand and no settlement or compromise of any such claim or demand shall be made without the consent of the nominated undertaker which, if it notifies [[^F73]Canal & River Trust] that it desires to do so, shall have the sole conduct of any settlement or compromise or of any proceedings necessary to resist the claim or demand.
+
+**10** Nothing in paragraph 9 shall impose any liability on the nominated undertaker with respect to any damage to the extent that it is attributable to the act, neglect or default of [[^F73]Canal & River Trust], its officers, servants, contractors or agents but the fact that any work or thing has been executed or done in accordance with a plan approved or deemed to be approved by [[^F73]Canal & River Trust], or to its satisfaction, or in accordance with a determination under paragraph 11, shall not (in the absence of negligence on the part of [[^F73]Canal & River Trust], its officers, servants, contractors or agents) relieve the nominated undertaker from any liability under the provisions of this Part.
+
+**11** (1) Any dispute arising between the nominated undertaker and [[^F73]Canal & River Trust] under this Part of this Schedule shall be determined by arbitration if—
+
+(a) the parties agree, or
+
+(b) the dispute relates to the amount of any sum payable under this Part,
+
+but shall otherwise by determined by a person appointed by the appropriate Ministers.
+
+(2) Any person appointed by the appropriate Ministers under sub-paragraph (1) shall, in determining any dispute arising under this Part, have regard to such matters as may be specified by the appropriate Ministers on making the appointment.
+
+(3) In this paragraph, the reference to the appropriate Ministers is to the Secretary of State for Transport and the Secretary of State for Environment, Food and Rural Affairs acting jointly.
+
+### Part 6 — Protection of Port of London Authority
+
+**1** (1) The following provisions of this Part shall, unless otherwise agreed in writing between the nominated undertaker and the Port Authority, have effect for the protection of the Port Authority and the users of the river.
+
+(2) In this Part—
+
+- “the 1968 Act” means the Port of London Act 1968 (c.xxxii);
+
+- “construction” includes execution, placing, altering, replacing, relaying and removal and, in its application to works which include or comprise any operation, means the carrying out of that operation;
+
+- “operations” includes temporary works and operations authorised by paragraph 10 of Schedule 2;
+
+- “plans” includes sections, drawings, specifications and method statements;
+
+- “the Port Authority” means the Port of London Authority;
+
+- “the river” means the waters within the limits of the port of London as described in Schedule 1 to the 1968 Act;
+
+- “specified work” means so much of any permanent or temporary work authorised by this Act (which includes, for the avoidance of doubt, any removal of gravel or other material, any dredging or similar work and any geotechnical investigations that may be undertaken) as is on, in, under or over—
+
+  - (a) the surface of land below the level of mean high water springs forming part of the river; or
+  - (b) any other land owned, occupied or used by the Port Authority for operational purposes.
+
+**2** (1) Before beginning any operations for the construction of any specified work, the nominated undertaker shall submit to the Port Authority plans of the work and such further particulars available to it as the Port Authority may within 14 days of the submission of the plans reasonably require.
+
+(2) Any specified work shall not be constructed except in accordance with such plans as may be approved in writing by the Port Authority or determined under paragraph 13.
+
+(3) Any approval of the Port Authority required under this paragraph shall not be unreasonably withheld and—
+
+(a) shall be deemed to be given if it is neither given nor refused (with an indication of the grounds for refusal) within 28 days of the submission of the plans or where further particulars are submitted under paragraph 2(1), within 28 days of the submission of those particulars; and
+
+(b) may be given subject to such reasonable requirements as the Port Authority may make for the protection of—
+
+(i) navigation in, or the flow or regime of, the river; or
+
+(ii) the use of its land for the purposes of performing its statutory functions.
+
+(4) The requirement for approval under this paragraph does not constitute any specified work a work subject to any of the controls in Part 5 of the 1968 Act.
+
+**3** The nominated undertaker shall carry out all operations for the construction of any specified work with all reasonable despatch to the reasonable satisfaction of the Port Authority so that navigation in, or the flow or regime of, the river and the exercise of the Port Authority's statutory functions shall not suffer more interference than is reasonably practicable and the Port Authority shall be entitled by its officer at all reasonable times, on giving such notice as may be reasonable in the circumstances, to inspect and survey such operations.
+
+**4** (1) The nominated undertaker shall not, without the consent of the Port Authority—
+
+(a) deposit in, or allow to fall or be washed into, the river any gravel, soil or other material in suspension or otherwise;
+
+(b) discharge or allow to escape into the river any offensive or injurious matter in suspension or otherwise, or oil; or
+
+(c) notwithstanding anything in paragraph 8 of Schedule 2, discharge any water directly or indirectly into the river.
+
+(2) Any consent of the Port Authority under this paragraph shall not be unreasonably withheld and—
+
+(a) shall be deemed to have been given if it is neither given nor refused within 28 days of the submission of the request for it; and
+
+(b) may be given subject to such reasonable requirements as the Port Authority may make for the protection of navigation in, or the flow or regime of, the river.
+
+(3) In its application to the discharge of water into the river, paragraph 8(5) of Schedule 2 shall have effect subject to the terms of any conditions attached to a consent given under this paragraph.
+
+(4) Nothing in this paragraph authorises the doing of anything prohibited by section 85(1), (2) or (3) of the Water Resources Act 1991 (c. 57) (offences of polluting controlled waters).
+
+**5** (1) If any pile, stump or other object becomes exposed in the course of constructing any specified work (other than a pile, stump or other object on the site of any permanent work), such that it has or is likely to have any adverse effect on navigation in, or flow or regime of, the river, the nominated undertaker shall notify the Port Authority and as soon as reasonably practicable after the receipt of notice in writing from the Port Authority requiring such action, remove it from the river or, if it is not reasonably practicable to remove it, cut it off at such level below the bed of the river as the Port Authority may reasonably direct.
+
+(2) If the nominated undertaker fails to remove from the river or cut off any such pile, stump or other object within 28 days after receipt of written notice from the Port Authority requiring the removal or cutting off, the Port Authority may carry out the removal or cutting off and recover their costs from the nominated undertaker.
+
+**6** If—
+
+(a) by reason of the construction of any specified work it is reasonably necessary for the Port Authority to incur costs in altering, removing, resiting or reinstating existing moorings, or laying down and removing substituted moorings, or carrying out dredging operations for any such purpose, not being costs which it would have incurred for any other reason; and
+
+(b) the Port Authority gives to the nominated undertaker not less than 28 days' notice of its intention to incur such costs, and takes into account any representations which the nominated undertaker may make in response to the notice within 14 days of the receipt of the notice;
+
+the nominated undertaker shall pay the costs reasonably so incurred by the Port Authority.
+
+**7** The nominated undertaker shall, at or near every specified work, and any other work of which the nominated undertaker is in possession in exercise of any of the powers of this Act, being in either case a work which is below the level of mean high water springs, exhibit such lights, lay down such buoys and take such other steps for preventing danger to navigation as the Port Authority may from time to time reasonably require.
+
+**8** (1) If any tidal work is abandoned, the Port Authority may by notice in writing require the nominated undertaker to take such reasonable steps as may be specified in the notice to remove the work and (to such extent as the Port Authority reasonably requires) to restore the site to its former condition.
+
+(2) If any tidal work is in such condition that it is, or is likely to become, a danger to or to interfere with navigation in or the regime of, the river, the Port Authority may by notice in writing require the nominated undertaker to take such reasonable steps as may be specified in the notice—
+
+(a) to repair and restore the work or part of it, or
+
+(b) if the nominated undertaker so elects, to remove the work and (to such extent as the Port Authority reasonably requires) to restore the site to its former condition.
+
+(3) If—
+
+(a) a work which consists of a tidal work and a non-tidal work is abandoned or falls into decay; and
+
+(b) the non-tidal work is in such a condition as to interfere with the right of navigation in the river;
+
+the Port Authority may include the non-tidal work, or any part of it, in any notice under this paragraph.
+
+(4) In this paragraph “tidal work” means so much of any specified work or any other work of which the nominated undertaker is in possession under the powers of this Act as is below the level of mean high water springs and “non-tidal work” means so much of any such work as is above that level.
+
+(5) If after such reasonable period as may be specified in a notice under this paragraph the nominated undertaker has failed to begin taking steps to comply with the requirements of the notice or after beginning has failed to make reasonably expeditious progress towards their implementation, the Port Authority may carry out the works specified in the notice and any expenditure reasonably incurred by it in so doing shall be recoverable from the nominated undertaker.
+
+**9** Paragraph 8(4) of Schedule 2 shall apply to any discharge of water under paragraph 8(1) of that Schedule in connection with the construction or maintenance of a specified work notwithstanding that the part of the river affected by the discharge is not a main river.
+
+**10** The exercise of the powers of this Act to navigate or moor barges, or other vessels or craft within the river shall be subject to such directions as the harbour master of the Port Authority may make from time to time under section 112 of the 1968 Act.
+
+**11** (1) The nominated undertaker shall indemnify the Port Authority from all claims, demands, proceedings or damages, which may be made or given against, or recovered from the Port Authority by reason of any damage to the bed or banks of the river which is caused by the construction of any specified work or protective work or any act or omission of the nominated undertaker, its contractors, agents or employees whilst engaged upon the work and from any costs reasonably incurred in making good such damage.
+
+(2) The Port Authority shall give to the nominated undertaker reasonable notice of any such claim or demand and no settlement or compromise of any such claim or demand shall be made without the consent of the nominated undertaker which, if it notifies the Port Authority that it desires to do so, shall have the sole conduct of any settlement or compromise or of any proceedings necessary to resist the claim or demand.
+
+**12** Nothing in paragraph 11 shall impose any liability on the nominated undertaker with respect to any damage to the extent that it is attributable to the act, neglect or default of the Port Authority, its officers, servants, contractors or agents but the fact that any work or thing has been executed or done in accordance with a plan approved or deemed to be approved by the Port Authority, or to its satisfaction, or in accordance with a determination under paragraph 13, shall not (in the absence of negligence on the part of the Port Authority, its officers, servants, contractors or agents) relieve the nominated undertaker from any liability under the provisions of this Part.
+
+**13** (1) Any dispute arising between the nominated undertaker and the Port Authority under this Part shall be determined by arbitration if—
+
+(a) the parties agree, or
+
+(b) the dispute relates to the amount of any sum payable under this Part,
+
+but shall otherwise be determined by a person appointed by the Secretary of State.
+
+(2) Any person appointed by the Secretary of State under sub-paragraph (1) shall, in determining any dispute arising under this Part, have regard to such matters as may be specified by the Secretary of State on making the appointment.
+
+---
+
+[^F1]: Words in s. 4(5)(b) substituted (3.5.2023) by The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424), art. 1(2), Sch. para. 16(2) (with art. 17)
+[^F2]: Words in s. 12(6) substituted (30.10.2024) by The Transfer of Functions (Secretary of State for Housing, Communities and Local Government) Order 2024 (S.I. 2024/991), art. 1(2), Sch. para. 11(a) (with art. 7)
+[^F3]: Words in s. 22 substituted (E.W.S.) (16.10.2015) by The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682), reg. 1(2), Sch. para. 4(t)(i)
+[^F4]: Words in s. 23 substituted (E.W.S.) (16.10.2015) by The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682), reg. 1(2), Sch. para. 4(t)(ii)
+[^F5]: Words in s. 30(5) substituted (E.W.S.) (16.10.2015) by The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682), reg. 1(2), Sch. para. 4(t)(iii)
+[^F6]: Words in s. 36 repealed (31.3.2012) by Localism Act 2011 (c. 20), s. 240(2), Sch. 25 Pt. 32; S.I. 2012/628, art. 4(d)
+[^F7]: S. 48(A1) inserted (1.3.2010) by Planning Act 2008 (c. 29), s. 241(8), Sch. 2 para. 66(2) (with s. 226); S.I. 2010/101, art. 2 (with art. 6)
+[^F8]: Words in s. 48(1) substituted (1.3.2010) by Planning Act 2008 (c. 29), s. 241(8), Sch. 2 para. 66(3) (with s. 226); S.I. 2010/101, art. 2 (with art. 6)
+[^F9]: Word in s. 48(2) substituted (1.3.2010) by Planning Act 2008 (c. 29), s. 241(8), Sch. 2 para. 66(4) (with s. 226); S.I. 2010/101, art. 2 (with art. 6)
+[^F10]: Word in s. 48(5) substituted (1.3.2010) by Planning Act 2008 (c. 29), s. 241(8), Sch. 2 para. 66(5) (with s. 226); S.I. 2010/101, art. 2 (with art. 6)
+[^F11]: Words in s. 54 substituted (E.W.S.) (16.10.2015) by The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682), reg. 1(2), Sch. para. 4(t)(iv)
+[^F12]: Words in s. 54(5) substituted (30.10.2024) by The Transfer of Functions (Secretary of State for Housing, Communities and Local Government) Order 2024 (S.I. 2024/991), art. 1(2), Sch. para. 11(b) (with art. 7)
+[^F13]: Words in Sch. 2 para. 8(8)(a) inserted (15.1.2012) by Localism Act 2011 (c. 20), s. 240(1)(l), Sch. 22 para. 58
+[^F14]: Words in Sch. 2 para. 8(8)(a) inserted (29.4.2026) by virtue of English Devolution and Community Empowerment Act 2026 (c. 23), s. 108(1)(3), Sch. 20 para. 23 (with s. 102)
+[^F15]: Sch. 3 para. 2(11)(c) substituted (E.W.) (31.1.2017 for specified purposes, 1.4.2018 in so far as not already in force) by Policing and Crime Act 2017 (c. 3), s. 183(1)(5)(e), Sch. 2 para. 115; S.I. 2018/227, reg. 4(c)
+[^F16]: Words in Sch. 4 para. 12 substituted (3.5.2023) by The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424), art. 1(2), Sch. para. 16(3) (with art. 17)
+[^F17]: Words in Sch. 5 para. 2(8) substituted (30.10.2024) by The Transfer of Functions (Secretary of State for Housing, Communities and Local Government) Order 2024 (S.I. 2024/991), art. 1(2), Sch. para. 11(c) (with art. 7)
+[^F18]: Words in Sch. 6 para. 7(3) substituted (1.6.2009) by The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307), art. 1, Sch. 1 para. 290(2)(a)(i) (with Sch. 5)
+[^F19]: Words in Sch. 6 para. 7(3) substituted (1.6.2009) by The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307), art. 1, Sch. 1 para. 290(2)(a)(ii)(aa) (with Sch. 5)
+[^F20]: Words in Sch. 6 para. 7(3) substituted (1.6.2009) by The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307), art. 1, Sch. 1 para. 290(2)(a)(ii)(bb) (with Sch. 5)
+[^F21]: Words in Sch. 6 para. 7(3) substituted (1.6.2009) by The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307), art. 1, Sch. 1 para. 290(2)(b) (with Sch. 5)
+[^F22]: Words in Sch. 6 para. 7(3) substituted (1.6.2009) by The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307), art. 1, Sch. 1 para. 290(2)(c) (with Sch. 5)
+[^F23]: Words in Sch. 6 para. 7(3) substituted (1.6.2009) by The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307), art. 1, Sch. 1 para. 290(2)(d)(i) (with Sch. 5)
+[^F24]: Words in Sch. 6 para. 7(3) substituted (1.6.2009) by The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307), art. 1, Sch. 1 para. 290(2)(d)(ii) (with Sch. 5)
+[^F25]: Words in Sch. 6 para. 7(10) substituted (1.6.2009) by The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307), art. 1, Sch. 1 para. 290(3) (with Sch. 5)
+[^F26]: Words in Sch. 6 para. 14(5) substituted (1.6.2009) by The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307), art. 1, Sch. 1 para. 290(4) (with Sch. 5)
+[^F27]: Words in Sch. 6 para. 15(1)-(6) substituted (1.6.2009) by The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307), art. 1, Sch. 1 para. 290(5) (with Sch. 5)
+[^F28]: Words in Sch. 6 para. 16(1) substituted (1.6.2009) by The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307), art. 1, Sch. 1 para. 290(6) (with Sch. 5)
+[^F29]: Words in Sch. 6 para. 16(2) substituted (1.6.2009) by The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307), art. 1, Sch. 1 para. 290(6) (with Sch. 5)
+[^F30]: Words in Sch. 7 para. 6(4) substituted (28.12.2017) by The Communications Act 2003 and the Digital Economy Act 2017 (Consequential Amendments to Primary Legislation) Regulations 2017 (S.I. 2017/1285), reg. 1(1), Sch. 1 para. 11(2)(a)
+[^F31]: Words in Sch. 7 para. 15(4) substituted (28.12.2017) by The Communications Act 2003 and the Digital Economy Act 2017 (Consequential Amendments to Primary Legislation) Regulations 2017 (S.I. 2017/1285), reg. 1(1), Sch. 1 para. 11(2)(b)
+[^F32]: Words in Sch. 7 para. 37(2) substituted (30.10.2024) by The Transfer of Functions (Secretary of State for Housing, Communities and Local Government) Order 2024 (S.I. 2024/991), art. 1(2), Sch. para. 11(d) (with art. 7)
+[^F33]: Words in Sch. 9 para. 5(5) substituted (3.5.2023) by The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424), art. 1(2), Sch. para. 16(4) (with art. 17)
+[^F34]: Sch. 11 para. 5 repealed (31.1.2013) by Statute Law (Repeals) Act 2013 (c. 2), s. 3(2), Sch. 1 Pt. 9 Group 3(2)
+[^F35]: Words in Sch. 12 Pt. 2 repealed (31.3.2012) by Localism Act 2011 (c. 20), s. 240(2), Sch. 25 Pt. 32; S.I. 2012/628, art. 4(d)
+[^F36]: Words in Sch. 12 para. 2(1)(a) repealed (31.3.2012) by Localism Act 2011 (c. 20), s. 240(2), Sch. 25 Pt. 32; S.I. 2012/628, art. 4(d)
+[^F37]: Words in Sch. 12 para. 2(1)(b) repealed (31.3.2012) by Localism Act 2011 (c. 20), s. 240(2), Sch. 25 Pt. 32; S.I. 2012/628, art. 4(d)
+[^F38]: Words in Sch. 12 para. 13(3) substituted (11.11.2010) by Constitutional Reform and Governance Act 2010 (c. 25), s. 52, Sch. 2 para. 18(2); S.I. 2010/2703, art. 2(a)
+[^F39]: Words in Sch. 12 para. 16(2)(a)(b) substituted (11.11.2010) by Constitutional Reform and Governance Act 2010 (c. 25), s. 52, Sch. 2 para. 18(2); S.I. 2010/2703, art. 2(a)
+[^F40]: Definition in Sch. 12 para. 20(2) inserted (11.11.2010) by Constitutional Reform and Governance Act 2010 (c. 25), s. 52, Sch. 2 para. 18(3); S.I. 2010/2703, art. 2(a)
+[^F41]: Definition in Sch. 13 para. 3(1) inserted (with effect in accordance with s. 1329(1) of the commencing Act) by Corporation Tax Act 2009 (c. 4), s. 1329(1), Sch. 1 para. 739(2) (with Sch. 2 Pts. 1, 2)
+[^F42]: Definition in Sch. 13 para. 3(1) inserted (with effect in accordance with s. 1184(1) of the commencing Act) by Corporation Tax Act 2010 (c. 4), s. 1184(1), Sch. 1 para. 584(2) (with Sch. 2)
+[^F43]: Words in Sch. 13 para. 5(5) substituted (with effect in accordance with s. 1329(1) of the commencing Act) by Corporation Tax Act 2009 (c. 4), s. 1329(1), Sch. 1 para. 739(3) (with Sch. 2 Pt. 1, 2)
+[^F44]: Words in Sch. 13 para. 6(5) substituted (with effect in accordance with s. 1329(1) of the commencing Act) by Corporation Tax Act 2009 (c. 4), s. 1329(1), Sch. 1 para. 739(4) (with Sch. 2 Pts. 1, 2)
+[^F45]: Words in Sch. 13 para. 13(1) substituted (with effect in accordance with s. 1329(1) of the commencing Act) by Corporation Tax Act 2009 (c. 4), s. 1329(1), Sch. 1 para. 739(5)(a) (with Sch. 2 Pts. 1, 2)
+[^F46]: Word in Sch. 13 para. 13(2) substituted (with effect in accordance with s. 1329(1) of the commencing Act) by Corporation Tax Act 2009 (c. 4), s. 1329(1), Sch. 1 para. 739(5)(b) (with Sch. 2 Pts. 1, 2)
+[^F47]: Words in Sch. 13 para. 14(1) substituted (with effect in accordance with s. 1329(1) of the commencing Act) by Corporation Tax Act 2009 (c. 4), s. 1329(1), Sch. 1 para. 739(6)(a) (with Sch. 2 Pts. 1, 2)
+[^F48]: Words in Sch. 13 para. 14(2) substituted (with effect in accordance with s. 1329(1) of the commencing Act) by Corporation Tax Act 2009 (c. 4), s. 1329(1), Sch. 1 para. 739(6)(b) (with Sch. 2 Pts. 1, 2)
+[^F49]: Words in Sch. 13 para. 15(1) substituted (with effect in accordance with s. 1329(1) of the commencing Act) by Corporation Tax Act 2009 (c. 4), s. 1329(1), Sch. 1 para. 739(7)(a) (with Sch. 2 Pts. 1, 2)
+[^F50]: Words in Sch. 13 para. 15(2) substituted (with effect in accordance with s. 1329(1) of the commencing Act) by Corporation Tax Act 2009 (c. 4), s. 1329(1), Sch. 1 para. 739(7)(b) (with Sch. 2 Pts. 1, 2)
+[^F51]: Words in Sch. 13 para. 18(6) substituted (with effect in accordance with s. 1329(1) of the commencing Act) by Corporation Tax Act 2009 (c. 4), s. 1329(1), Sch. 1 para. 739(8) (with Sch. 2 Pts. 1, 2)
+[^F52]: Words in Sch. 13 para. 18(7) substituted (with effect in accordance with s. 1184(1) of the commencing Act) by Corporation Tax Act 2010 (c. 4), s. 1184(1), Sch. 1 para. 584(3) (with Sch. 2)
+[^F53]: Words in Sch. 13 para. 23(1) substituted (with effect in accordance with s. 1329(1) of the commencing Act) by Corporation Tax Act 2009 (c. 4), s. 1329(1), Sch. 1 para. 739(9)(a) (with Sch. 2 Pts. 1, 2)
+[^F54]: Word in Sch. 13 para. 23(2) substituted (with effect in accordance with s. 1329(1) of the commencing Act) by Corporation Tax Act 2009 (c. 4), s. 1329(1), Sch. 1 para. 739(9)(b) (with Sch. 2 Pts. 1, 2)
+[^F55]: Words in Sch. 13 para. 24(a) substituted (with effect in accordance with s. 1329(1) of the commencing Act) by Corporation Tax Act 2009 (c. 4), s. 1329(1), Sch. 1 para. 739(10)(a) (with Sch. 2 Pts. 1, 2)
+[^F56]: Words in Sch. 13 para. 24(b) substituted (with effect in accordance with s. 1329(1) of the commencing Act) by Corporation Tax Act 2009 (c. 4), s. 1329(1), Sch. 1 para. 739(10)(b) (with Sch. 2 Pts. 1, 2)
+[^F57]: Words in Sch. 13 para. 30(2) substituted (with effect in accordance with s. 1184(1) of the commencing Act) by Corporation Tax Act 2010 (c. 4), s. 1184(1), Sch. 1 para. 584(4) (with Sch. 2)
+[^F58]: Words in Sch. 13 para. 34(6) substituted (with effect in accordance with s. 1329(1) of the commencing Act) by Corporation Tax Act 2009 (c. 4), s. 1329(1), Sch. 1 para. 739(11) (with Sch. 2 Pts. 1, 2)
+[^F59]: Words in Sch. 13 para. 34(7) substituted (with effect in accordance with s. 1184(1) of the commencing Act) by Corporation Tax Act 2010 (c. 4), s. 1184(1), Sch. 1 para. 584(5) (with Sch. 2)
+[^F60]: Words in Sch. 13 para. 40(1) substituted (with effect in accordance with s. 1329(1) of the commencing Act) by Corporation Tax Act 2009 (c. 4), s. 1329(1), Sch. 1 para. 739(12)(a) (with Sch. 2 Pts. 1, 2)
+[^F61]: Words in Sch. 13 para. 40(2) substituted (with effect in accordance with s. 1329(1) of the commencing Act) by Corporation Tax Act 2009 (c. 4), s. 1329(1), Sch. 1 para. 739(12)(b) (with Sch. 2 Pts. 1, 2)
+[^F62]: Words in Sch. 13 para. 42(a) substituted (with effect in accordance with s. 1184(1) of the commencing Act) by Corporation Tax Act 2010 (c. 4), s. 1184(1), Sch. 1 para. 584(6)(a) (with Sch. 2)
+[^F63]: Words in Sch. 13 para. 42(b) substituted (with effect in accordance with s. 1184(1) of the commencing Act) by Corporation Tax Act 2010 (c. 4), s. 1184(1), Sch. 1 para. 584(6)(b) (with Sch. 2)
+[^F64]: Words in Sch. 17 Pt. 2 para. 2(4) substituted (3.5.2023) by The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424), art. 1(2), Sch. para. 16(5)(a)(i) (with art. 17)
+[^F65]: Words in Sch. 17 Pt. 2 para. 13(3) substituted (3.5.2023) by The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424), art. 1(2), Sch. para. 16(5)(a)(ii) (with art. 17)
+[^F66]: Words in Sch. 17 Pt. 4 para. 1(2) substituted (28.12.2017) by 2017 c. 30, Sch. 3 para. 54(2) (with s. 118(6)); S.I. 2017/1286, reg. 2(d)
+[^F67]: Words in Sch. 17 Pt. 4 para. 2(1) substituted (28.12.2017) by 2017 c. 30, Sch. 3 para. 54(3) (with s. 118(6)); S.I. 2017/1286, reg. 2(d)
+[^F68]: Words in Sch. 17 Pt. 4 para. 2(2) substituted (28.12.2017) by 2017 c. 30, Sch. 3 para. 54(4) (with s. 118(6)); S.I. 2017/1286, reg. 2(d)
+[^F69]: Words in Sch. 17 Pt. 4 para. 3 substituted (28.12.2017) by 2017 c. 30, Sch. 3 para. 54(5) (with s. 118(6)); S.I. 2017/1286, reg. 2(d) and by The Communications Act 2003 and the Digital Economy Act 2017 (Consequential Amendments to Primary Legislation) Regulations 2017 (S.I. 2017/1285), reg. 1(1), Sch. 1 para. 11(3)
+[^F70]: Words in Sch. 17 Pt. 4 para. 4(1) substituted (28.12.2017) by 2017 c. 30, Sch. 3 para. 54(6) (with s. 118(6)); S.I. 2017/1286, reg. 2(d)
+[^F71]: Words in Sch. 17 Pt. 4 para. 6(3) substituted (3.5.2023) by The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424), art. 1(2), Sch. para. 16(5)(b) (with art. 17)
+[^F72]: Words in Sch. 17 Pt. 5 heading substituted (2.7.2012) by The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659), art. 1(2), Sch. 3 para. 19(2) (with arts. 4-6)
+[^F73]: Words in Sch. 17 Pt. 5 substituted (2.7.2012) by The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659), art. 1(2), Sch. 3 para. 19(3)(b) (with arts. 4-6)
+[^F74]: Words in Sch. 17 Pt. 5 para. 1(2) omitted (2.7.2012) by virtue of The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659), art. 1(2), Sch. 3 para. 19(3)(a) (with arts. 4-6)

@@ -1,0 +1,3409 @@
+---
+title: "Planning (Listed Buildings and Conservation Areas) (Scotland) Act 1997"
+identifier: "ukpga/1997/9"
+citation: "1997 c. 9"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "S"
+date: 1997-02-27
+last_amended: 2022-10-01
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/1997/9"
+source_modified: 2024-05-17
+retrieved: 2026-10-11
+---
+
+# Planning (Listed Buildings and Conservation Areas) (Scotland) Act 1997
+
+**1997 c. 9**
+
+An Act to consolidate certain enactments relating to special controls in respect of buildings and areas of special architectural or historic interest with amendments to give effect to recommendations of the Scottish Law Commission.
+
+[27th February 1997]
+
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## Part I — Listed Buildings
+
+### Chapter I — Listing of Special Buildings
+
+#### 1 Listing of buildings of special architectural or historic interest.
+
+(1) For the purposes of this Act and with a view to the guidance of planning authorities in the performance of their functions under this Act in relation to buildings of special architectural or historic interest, [[^F1]Historic Environment Scotland] shall compile lists of such buildings or approve, with or without modifications, such lists compiled by other persons or bodies of persons, and may amend any list so compiled or approved.
+
+(2) In considering whether to include a building in a list compiled or approved under this section, [[^F2]Historic Environment Scotland] may take into account not only the building itself but also—
+
+(a) any respect in which its exterior contributes to the architectural or historic interest of any group of buildings of which it forms part, and
+
+(b) the desirability of preserving, on the ground of its architectural or historic interest, any feature of the building consisting of a man-made object or structure fixed to the building or forming part of the land and comprised within the curtilage of the building.
+
+(3) Before compiling or approving, with or without modifications, any list under this section or amending any such list [[^F3]Historic Environment Scotland] shall consult such persons or bodies of persons as appear to [[^F4]it] appropriate as having special knowledge of, or interest in, buildings of architectural or historic interest.
+
+(4) In this Act “listed building” means a building which is for the time being included in a list compiled or approved by [[^F5]Historic Environment Scotland] under this section; and, for the purposes of this Act, the following shall [[^F6], subject to subsection (4A),] be treated as part of the building—
+
+(a) any object or structure fixed to the building, and
+
+(b) any object or structure within the curtilage of the building which, though not fixed to the building, forms part of the land and has done so since before 1st July 1948.
+
+[[^F7](4A) In a list compiled or approved under this section, an entry for a building may provide—
+
+(a) that an object or structure mentioned in subsection (4)(a) or (b) is not to be treated as part of the building for the purposes of this Act,
+
+(b) that any part or feature of the building is not of special architectural or historic interest.]
+
+(5) Schedule 1 (which makes provision as to the treatment as listed buildings of certain buildings formerly subject to building preservation orders) shall have effect.
+
+#### 1A [[^F8]Publication of lists and notification of listing etc.
+
+(1) Historic Environment Scotland must—
+
+(a) publish any list compiled or approved under section 1, and any amendments of such a list, and
+
+(b) make such lists available for public inspection,
+
+in such manner as may be prescribed.
+
+(2) Historic Environment Scotland must also—
+
+(a) notify such persons as may be prescribed, and
+
+(b) do so in such form and manner, and within such time, as may be prescribed,
+
+of the inclusion of a building in, the amendment of an entry relating to a building in or the exclusion of a building from such a list.
+
+(3) The Scottish Ministers may by regulations make further provision for—
+
+(a) the publication of such lists,
+
+(b) the making of such lists available for public inspection,
+
+(c) the notification of the inclusion of a building in, the amendment of an entry relating to a building in or the exclusion of a building from such a list.
+
+(4) Regulations under subsection (3) may in particular provide for planning authorities in whose districts any buildings included in such lists are situated to take any of the steps mentioned in that subsection.]
+
+#### [^F9]2 Publication of lists.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 3 Temporary listing: building preservation notices.
+
+(1) If it appears to a planning authority that a building in their district which is not a listed building—
+
+(a) is of special architectural or historic interest, and
+
+(b) is in danger of demolition or of alteration in such a way as to affect its character as a building of such interest,
+
+they may serve on the owner, lessee and occupier of the building a notice (in this Act referred to as a “building preservation notice”).
+
+(2) A building preservation notice shall—
+
+(a) state that the building appears to the planning authority to be of special architectural or historic interest and that they have requested [[^F10]Historic Environment Scotland] to consider including it in a list compiled or approved under section 1, and
+
+(b) explain the effect of subsections (3) to (5) and Schedule 2.
+
+(3) A building preservation notice—
+
+(a) shall come into force as soon as it has been served on the owner, lessee and occupier of the building to which it relates, and
+
+(b) subject to subsection (4), shall remain in force for 6 months from the date when it is served or, as the case may be, last served.
+
+(4) A building preservation notice shall cease to be in force if [[^F11]Historic Environment Scotland] —
+
+(a) includes the building in a list compiled or approved under section 1, or
+
+(b) notifies the planning authority in writing that [[^F12]it] does not intend to do so.
+
+(5) While a building preservation notice is in force with respect to a building, the provisions of this Act (other than section 53) and the principal Act shall have effect in relation to the building as if it were a listed building.
+
+(6) If, following the service of a building preservation notice, [[^F13]Historic Environment Scotland] notifies the planning authority that [[^F14]it] does not propose to include the building in a list compiled or approved under section 1, the authority—
+
+(a) shall immediately give notice of [[^F15]Historic Environment Scotland's] decision to the owner, lessee and occupier of the building, and
+
+(b) shall not, within the period of 12 months beginning with the date of [[^F16]Historic Environment Scotland's] notification, serve another building preservation notice in respect of the building.
+
+#### 4 Temporary listing in urgent cases.
+
+(1) If it appears to the planning authority to be urgent that a building preservation notice should come into force, they may, instead of serving the notice on the owner, lessee and occupier of the building to which it relates, affix the notice conspicuously to some object on the building.
+
+(2) The affixing of a notice under subsection (1) shall be treated for all the purposes of section 3, this section, sections 9 to 24 and Schedule 2 as service of the notice.
+
+(3) A notice which is so affixed must explain that by virtue of being so affixed it is treated as being served for those purposes.
+
+#### 5 Provisions applicable on lapse of building preservation notice.
+
+Schedule 2 (which makes provision as respects the lapse of building reservation notices) shall have effect.
+
+#### 5A [[^F17]Certificate that building not intended to be listed
+
+(1) [[^F18]Historic Environment Scotland] may, on the application of any person, issue a certificate stating that [[^F19]it does] not intend to include a building in a list compiled or approved under section 1.
+
+(2) Where [[^F20]Historic Environment Scotland issues] a certificate under subsection (1) in respect of a building—
+
+(a) [[^F21]it] may not for a period of 5 years from the date of issue exercise in relation to the building any of the powers conferred on [[^F21]it] by section 1, and
+
+(b) a planning authority may not for that period—
+
+(i) serve a building preservation notice in relation to the building, or
+
+(ii) affix such a notice under section 4(1).
+
+(3) A person submitting an application to [[^F22]Historic Environment Scotland] under subsection (1) must, at the same time as submitting it, give notice of the application to the planning authority within whose district the building is situated.]
+
+#### 5B [[^F23]Appeal against listing of buildings
+
+(1) This section applies where Historic Environment Scotland makes a decision—
+
+(a) to include a building in the list compiled or approved under section 1,
+
+(b) to amend an entry in the list relating to a building (but not where the amendment excludes a building from the list).
+
+(2) A person mentioned in subsection (3) may appeal the decision to the Scottish Ministers.
+
+(3) The person is—
+
+(a) the owner of the building,
+
+(b) the tenant of the building,
+
+(c) the occupier of the building.
+
+#### 5C Determination of appeals under section 5B
+
+(1) The Scottish Ministers may—
+
+(a) dismiss an appeal under section 5B,
+
+(b) allow such an appeal (in whole or in part).
+
+(2) Where the Scottish Ministers allow an appeal, they may vary a part of the decision appealed against whether or not the appeal relates to that part of the decision.
+
+(3) Where the Scottish Ministers allow an appeal, they may direct Historic Environment Scotland to exercise its power under section 1 to amend the list compiled or approved under that section to give effect to their decision.
+
+(4) Except as provided for by sections 57 and 58, the decision of the Scottish Ministers on an appeal under section 5B is final.
+
+#### 5D Procedure for appeals under section 5B
+
+(1) Regulations may make provision in connection with appeals under section 5B, including provision about—
+
+(a) the grounds on which an appeal may be made,
+
+(b) the information that is to be provided to, or may be required by, the Scottish Ministers in connection with the appeal.
+
+(2) Regulations under subsection (1) may also make provision about the procedure to be followed, including—
+
+(a) the form, manner and time for making an appeal,
+
+(b) the notification of an appeal,
+
+(c) the manner in which an appeal is to be conducted.
+
+(3) Regulations made by virtue of subsection (2)(c) may also include provision that the manner in which an appeal, or any stage of an appeal, is to be conducted (as for example whether written submissions are to be presented or persons are to be heard) is to be at the discretion of the Scottish Ministers (or of a person appointed by them under this Act).
+
+(4) Schedule 3 (which makes provision about the determination of certain appeals by a person appointed by the Scottish Ministers) applies to an appeal under section 5B.]
+
+### Chapter II — Authorisation of Works Affecting Listed Buildings
+
+#### Control of works in respect of listed buildings
+
+##### 6 Restriction on works affecting listed buildings.
+
+Subject to the following provisions of this Act, no person shall execute or cause to be executed any works for the demolition of a listed building or for its alteration or extension in any manner which would affect its character as a building of special architectural or historic interest, unless the works are authorised.
+
+##### 7 Authorisation of works: listed building consent.
+
+(1) Works for the alteration or extension of a listed building are authorised if—
+
+(a) the planning authority or the Secretary of State has granted written consent for the execution of the works, and
+
+(b) the works are executed in accordance with the terms of the consent and of any conditions attached to it.
+
+(2) Works for the demolition of a listed building are authorised if—
+
+(a) such consent has been granted for their execution,
+
+(b) notice of the proposal to execute the works has been given to [[^F24]Historic Environment Scotland] ,
+
+(c) after such notice has been given either—
+
+(i) for a period of at least 3 months following the grant of listed building consent, and before the commencement of the works, reasonable access to the building has been made available to [[^F25]Historic Environment Scotland] for the purpose of recording it, or
+
+[[^F26](ii) Historic Environment Scotland has stated in writing that it has completed its recording of that building or that it does not wish to record it,] and
+
+(d) the works are executed in accordance with the terms of the consent and of any conditions attached to it.
+
+(3) Where—
+
+(a) works for the alteration, extension or demolition of a listed building have been executed without such consent, and
+
+(b) written consent is granted by the planning authority or the Secretary of State for the retention of the works,
+
+the works are authorised from the grant of that consent.
+
+[^F27]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) The Secretary of State may by order provide that subsection (2) shall have effect with the substitution for the reference to [[^F28]Historic Environment Scotland] of a reference to such other body as may be so specified.
+
+(6) Such an order shall apply in the case of works executed or to be executed on or after such date as may be specified in the order.
+
+(7) Consent under subsection (1), (2) or (3) is referred to in this Act as “listed building consent”.
+
+##### 8 Offences.
+
+(1) If a person contravenes section 6 he shall be guilty of an offence.
+
+(2) Without prejudice to subsection (1), if a person executing or causing to be executed any works in relation to a listed building under a listed building consent fails to comply with any condition attached to the consent, he shall be guilty of an offence.
+
+(3) In proceedings for an offence under this section it shall be a defence to prove the following matters—
+
+(a) that works to the building were urgently necessary in the interests of safety or health or for the preservation of the building,
+
+(b) that it was not practicable to secure safety or health or, as the case may be, the preservation of the building by works of repair or works for affording temporary support or shelter,
+
+(c) that the works carried out were limited to the minimum measures immediately necessary, and
+
+(d) that notice in writing justifying in detail the carrying out of the works was given to the planning authority as soon as reasonably practicable.
+
+(4) A person guilty of an offence under this section shall be liable—
+
+(a) on summary conviction to imprisonment for a term not exceeding 6 months or a fine not exceeding [[^F29]£50,000] , or both, or
+
+(b) on conviction on indictment to imprisonment for a term not exceeding 2 years or a fine, or both.
+
+(5) In determining the amount of any fine to be imposed on a person convicted of an offence under this section, the court shall in particular have regard to any financial benefit which has accrued or appears likely to accrue to him in consequence of the offence.
+
+#### Applications for listed building consent
+
+##### 9 Making of applications for listed building consent.
+
+(1) Except as provided in sections 11 to 14 [[^F30]or section 73B], an application for listed building consent shall be made to and dealt with by the planning authority.
+
+(2) Such an application [^F31]shall be made in such form as the planning authority may require and shall contain—
+
+(a) sufficient particulars to identify the building to which it relates, including a plan,
+
+(b) such other plans and drawings as are necessary to describe the works which are the subject of the application, and
+
+(c) such other particulars as may be required by the planning authority.
+
+(3) Provision may be made by regulations with respect to—
+
+(a) [^F32]the manner in which applications for listed building consent are to be made,
+
+[[^F32]the form and manner in which such applications must be made,
+
+(aa) particulars of such matters as are to be included in such applications,
+
+(ab) any documents or other materials which are to accompany such applications,]
+
+[[^F33](ac) the planning authority giving notice of such applications made to them—
+
+(i) to such persons or categories of person as may be prescribed,
+
+(ii) in such manner as may be prescribed,
+
+(iii) for such period as may be prescribed, and
+
+(iv) on such number of occasions as may be prescribed,
+
+(ad) the applicant providing such person or persons as may be prescribed such information with respect to the application as may be prescribed,]
+
+(b) the manner in which such applications are to be advertised, [^F34]...
+
+(c) the time within which they are to be dealt with by planning authorities or, as the case may be, by the Secretary of State.[[^F35], and
+
+(d) the procedure to be followed by planning authorities or, as the case may be, the Scottish Ministers in considering and determining such applications.]
+
+[[^F36](4) The regulations must require that an application for listed building consent of such description as is prescribed must be accompanied by a statement about how issues relating to access for the disabled to the building have been dealt with.
+
+(5) The form and content of such a statement are to be such as is prescribed.]
+
+[[^F37](6) The regulations must also require planning authorities, before granting or refusing applications for listed building consent in such cases or classes of case as may be prescribed, to consult—
+
+(a) Historic Environment Scotland,
+
+(b) such other persons as may be—
+
+(i) prescribed, or
+
+(ii) specified in directions given to planning authorities by the Scottish Ministers.
+
+(7) Directions given by virtue of subsection (6)(b)(ii) for the purposes of regulations under this section may be given to—
+
+(a) planning authorities generally,
+
+(b) a particular planning authority, or
+
+(c) a description of planning authority.]
+
+##### 10 Certificates as to interests in listed building etc.
+
+(1) Regulations may provide that an application for listed building consent shall not be entertained unless it is accompanied by a certificate in the prescribed form as to the interests in the building to which the application relates.
+
+(2) Any such regulations may—
+
+(a) include requirements corresponding to those mentioned in sections 35 and 38(2) of the principal Act,
+
+(b) make provision as to who, in the case of any building, is to be treated as the owner for the purposes of any provision of the regulations, and
+
+(c) make different provision for different cases or classes of case.
+
+(3) If any person—
+
+(a) issues a certificate which purports to comply with the requirements of regulations made by virtue of this section and which contains a statement which he knows to be false or misleading in a material particular, or
+
+(b) recklessly issues a certificate which purports to comply with those requirements and which contains a statement which is false or misleading in a material particular,
+
+he shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+##### 10A [[^F38]Declining to determine an application
+
+(1) A planning authority may decline to determine an application (in this subsection referred to as the “current application”) for listed building consent—
+
+(a) if—
+
+(i) in the period of two years ending with the date on which the current application is received, the Scottish Ministers have refused a similar application referred to them under section 11 or have dismissed an appeal against the refusal of, or an appeal under section 18(2) in respect of, a similar application, and
+
+(ii) in the opinion of the authority there has not, since the Scottish Ministers refused the similar application or dismissed the appeal, been any significant change in any material considerations,
+
+(b) if—
+
+(i) in that period of two years the planning authority have refused more than one similar application,
+
+(ii) there has been no appeal to the Scottish Ministers against either (or as the case may be any) of those refusals, and
+
+(iii) in the opinion of the authority there has not, since the more (or as the case may be most) recent of the refusals, been any significant change in any material considerations,
+
+(c) if—
+
+(i) in that period of two years the planning authority have refused more than one similar application,
+
+(ii) there has been an appeal to the Scottish Ministers against either (or as the case may be any) of those refusals but as at the time the current application is received no such appeal has yet been determined, and
+
+(iii) in the opinion of the authority there has not, since the more (or as the case may be most) recent of the refusals, been any significant change in any material considerations,
+
+(d) if—
+
+(i) in that period of two years there have been appeals under section 18(2) in respect of more than one similar application but as at the time the current application is received no such appeal has yet been determined, and
+
+(ii) in the opinion of the authority there has not, since the more (or as the case may be most) recent of the appeals was made, been any significant change in any material considerations, or
+
+(e) if—
+
+(i) in that period of two years two similar applications have been made to the planning authority,
+
+(ii) the planning authority have refused one of those applications and there has been an appeal under section 18(2) in respect of the other but as at the time the current application is received the appeal under that section has yet to be determined as has the appeal (if any) against the refusal, and
+
+(iii) in the opinion of the authority there has not, since the refusal or since the appeal was made (whichever was the more recent), been any significant change in any material considerations.
+
+(2) For the purposes of this section an application for listed building consent is to be taken to be similar to another such application only if the listed building and the works to which the applications relate are in the opinion of the planning authority the same or substantially the same.]
+
+##### 11 Reference of certain applications to Secretary of State.
+
+(1) The Secretary of State may give directions requiring applications for listed building consent to be referred to him instead of being dealt with by the planning authority.
+
+(2) A direction under this section may relate either to a particular application or to applications in respect of such buildings as may be specified in the direction.
+
+(3) An application in respect of which a direction under this section has effect shall be referred to the Secretary of State accordingly.
+
+[^F39]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) The decision of the Secretary of State on any application referred to him under this section shall be final.
+
+##### 12 Duty to notify Secretary of State of applications.
+
+(1) If a planning authority to whom application is made for listed building consent intend to grant such consent they shall [[^F40], where subsection (1A) applies,] first notify the Secretary of State of the application giving particulars of the works for which the consent is required.
+
+[[^F41](1A) This subsection applies where—
+
+(a) regulations, or
+
+(b) directions given to planning authorities by the Scottish Ministers,
+
+provide that the application must be so notified.
+
+(1B) Directions under subsection (1A)(b) may be given to—
+
+(a) planning authorities generally,
+
+(b) a particular planning authority, or
+
+(c) a description of planning authority.]
+
+(2) The Secretary of State may within the period of 28 days beginning with the date of the notification—
+
+(a) direct the reference of the application to him under section 11, or
+
+(b) give notice to the authority that he requires further time in which to consider whether to require such a reference.
+
+(3) The planning authority shall not grant listed building consent until—
+
+(a) the period mentioned in subsection (2) has expired without the Secretary of State directing the reference of the application to him or giving them notice under paragraph (b) of that subsection, or
+
+(b) the Secretary of State has notified them that he does not intend to require the reference of the application.
+
+##### 13 Directions concerning notification of applications etc.
+
+[^F42]1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F42]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) Without prejudice to sections 9 to 12, the Secretary of State may give directions to planning authorities requiring them, in such cases or classes of case as may be specified in the directions, to notify to him and to such other persons as may be so specified—
+
+(a) any applications made to them for listed building consent, and
+
+(b) the decisions taken by the authorities on those applications.
+
+[[^F43](4) Directions under subsection [^F44]... (3) may be given to—
+
+(a) planning authorities generally;
+
+(b) a particular planning authority; or
+
+(c) a description of planning authority.]
+
+##### 14 Decision on application.
+
+(1) Subject to the previous provisions of this Part, the planning authority or, as the case may be, the Secretary of State may grant or refuse an application for listed building consent and, if granting consent, may grant it subject to conditions.
+
+(2) In considering whether to grant listed building consent for any works, the planning authority or the Secretary of State, as the case may be, shall have special regard to the desirability of preserving the building or its setting or any features of special architectural or historic interest which it possesses.
+
+[[^F45](2A) A planning authority, if minded to grant listed building consent for any works—
+
+(a) must consider imposing a condition specified in, or of a nature indicated in, directions given to them by the Scottish Ministers, and
+
+(b) must not grant such consent without first satisfying the Scottish Ministers that such consideration has been given and that such a condition either will be imposed or is not needed.]
+
+(3) Any listed building consent shall (except in so far as it otherwise provides) enure for the benefit of the building and of all persons for the time being interested in it.
+
+#### Grant of consent subject to conditions
+
+##### 15 Power to impose conditions on grant of listed building consent.
+
+(1) Without prejudice to the generality of section 14(1), the conditions subject to which listed building consent may be granted may include conditions with respect to—
+
+(a) the preservation of particular features of the building, either as part of it or after severance from it;
+
+(b) the making good, after the works are completed, of any damage caused to the building by the works;
+
+(c) the reconstruction of the building or any part of it following the execution of any works, with the use of original materials so far as practicable and with such alterations of the interior of the building as may be specified in the conditions.
+
+(2) Listed building consent may also be granted subject to a condition reserving specified details of the works (whether or not set out in the application) for subsequent approval by the planning authority or, in the case of consent granted by the Secretary of State, specifying whether the reserved details are to be approved by the planning authority or by him.
+
+(3) In granting a listed building consent a planning authority may attach to the consent a condition that no demolition of the listed building shall take place until either or both of the following requirements have been met—
+
+(a) [[^F46]a planning obligation under section 75 of the principal Act] for the regulation of the development of the site of the listed building in accordance with a current planning permission has been [[^F47]entered into and the relevant instrument by which that obligation is entered into has been recorded in the Register of Sasines or, as the case may be, registered in the Land Register of Scotland under that section] ;
+
+(b) the planning authority are satisfied that contracts have been placed either—
+
+(i) for the redevelopment of the site, or
+
+(ii) for its conversion to an acceptable open space,
+
+in accordance with a current planning permission.
+
+##### 16 Limit of duration of listed building consent.
+
+[[^F48](1) A listed building consent lapses—
+
+(a) on the expiration of such period (beginning with the date on which the consent is granted) as the planning authority may, for the purposes of this section, specify in the consent, or
+
+(b) if no period is so specified, on the expiration of a period of 3 years (beginning with that date),
+
+unless the works permitted by the consent are begun before that expiration.
+
+(1A) Subsection (1) does not apply to a listed building consent granted before the date on which section 20 of the Planning etc. (Scotland) Act 2006 came into force.
+
+(2) For the purposes of sections 18(1)(a) and 19(1) and (2)(a)—
+
+(a) any such specification as is mentioned in subsection (1)(a), or
+
+(b) the effect of subsection (1) as that subsection applies in consequence of the authority electing not to make such a specification,
+
+is to be treated as a condition subject to which the application is granted.]
+
+(3) Nothing in this section applies to any consent to the retention of works granted under section 7(3).
+
+(4) The date of the granting or of the refusal of an application for listed building consent shall be the date on which the notice of the planning authority’s decision bears to have been signed on behalf of the authority.
+
+##### 17 Application for variation or discharge of conditions.
+
+(1) Any person interested in a listed building with respect to which listed building consent has been granted subject to conditions may apply to the planning authority for the variation or discharge of the conditions.
+
+(2) The application shall indicate what variation or discharge of conditions is applied for and the provisions of sections 9 to 13, 14(3) and 18 to 20 apply to such an application as they apply to an application for listed building consent.
+
+(3) On such an application the planning authority or, as the case may be, the Secretary of State may vary or discharge the conditions attached to the consent, and may add new conditions consequential upon the variation or discharge, as they or he think fit.
+
+#### Appeals
+
+##### 18 Right to appeal against decision or failure to take decision.
+
+(1) Where a planning authority—
+
+(a) refuse an application for listed building consent or grant it subject to conditions,
+
+(b) refuse an application for variation or discharge of conditions subject to which such consent has been granted or grant it and add new conditions, or
+
+(c) refuse an application for approval required by a condition imposed on the granting of listed building consent with respect to details of works or grant it subject to conditions,
+
+the applicant, if he is aggrieved by the decision, may appeal to the Secretary of State.
+
+(2) A person who has made such an application may also appeal to the Secretary of State if the planning authority have [[^F49]not] —
+
+(a) given notice to the applicant of their decision on the application, [^F50]...
+
+[[^F51](aa) given notice to the applicant that they have exercised their power under section 10A to decline to determine the application, or]
+
+(b) in the case of such an application as is mentioned in subsection (1)(a) or (b), given notice to the applicant that the application has been referred to the Secretary of State in accordance with directions given under section 11,
+
+within the relevant period from the date of the receipt of the application or within such extended period as may at any time be agreed upon in writing between the applicant and the authority.
+
+(3) In this section “the relevant period” means—
+
+(a) in the case of such an application as is mentioned in subsection (1)(a) or (b), such period as may be prescribed, and
+
+(b) in the case of such an application for approval as is mentioned in subsection (1)(c), the period of two months from the date of the receipt of the application.
+
+(4) For the purposes of the application of sections 20(1) and 58(7)(a) in relation to an appeal under subsection (2), the authority shall be treated as having refused the application in question.
+
+##### 19 Appeals: supplementary provisions.
+
+(1) An appeal under section 18 must be made by notice served in the prescribed manner within such period as may be prescribed.
+
+(2) The period which may be prescribed under subsection (1) must not be less than—
+
+(a) in the case of an appeal under section 18(1), 28 days from the receipt by the applicant of notification of the decision, or
+
+(b) in the case of an appeal under section 18(2), 28 days from the end of the relevant period within the meaning of that section or, as the case may be, the extended period there mentioned.
+
+(3) The notice of appeal may include as the ground or one of the grounds of the appeal a claim that the building is not of special architectural or historic interest and ought to be removed from any list compiled or approved by [[^F52]Historic Environment Scotland] under section 1.
+
+(4) In the case of a building in respect of which a building preservation notice is in force, the notice may include a claim that the building should not be included in such a list.
+
+(5) Regulations may provide that an appeal in respect of an application for listed building consent, or for the variation or discharge of conditions subject to which such consent has been granted, shall not be entertained unless it is accompanied by a certificate in the prescribed form as to the interests in the building to which the appeal relates.
+
+(6) Any such regulations may include provisions corresponding to those which may be included in regulations under section 10 by virtue of section 10(2).
+
+(7) If any person—
+
+(a) issues a certificate which purports to comply with the requirements of regulations made by virtue of subsection (5) or (6) and which contains a statement which he knows to be false or misleading in a material particular, or
+
+(b) recklessly issues a certificate which purports to comply with those requirements and which contains a statement which is false or misleading in a material particular,
+
+he shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+##### 20 Determination of appeals.
+
+(1) The Secretary of State may allow or dismiss an appeal under section 18, or may reverse or vary any part of the decision of the authority, whether or not the appeal relates to that part, and—
+
+(a) may deal with the application as if it had been made to him in the first instance, and
+
+(b) [[^F53]where the Scottish Ministers allow an appeal, they may direct Historic Environment Scotland to exercise its power under section 1 to amend the list compiled or approved under that section to give effect to their decision.]
+
+[^F54]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) The decision of the Secretary of State on the appeal shall be final.
+
+(4) Schedule 3 (which makes provision regarding the determination of certain appeals by a person appointed by the Secretary of State) applies to appeals under section 18.
+
+#### Revocation and modification of consent
+
+##### 21 Revocation and modification of listed building consent by planning authority.
+
+(1) If it appears to the planning authority that it is expedient to revoke or modify listed building consent granted on an application made under this Act, the authority may revoke or modify the consent to such extent as they consider expedient.
+
+(2) In performing their functions under subsection (1) the authority shall have regard to the development plan and to any other material considerations.
+
+(3) The power conferred by this section to revoke or modify listed building consent in respect of any works may be exercised at any time before those works have been completed, but the revocation or modification shall not affect so much of those works as has been previously carried out.
+
+##### 22 Procedure for section 21 orders: opposed cases.
+
+(1) Except as provided in section 23, an order made by a planning authority under section 21 shall not take effect unless it is confirmed by the Secretary of State.
+
+(2) Where a planning authority submit an order to the Secretary of State for confirmation, they shall serve notice on—
+
+(a) the owner of the building affected,
+
+(b) the lessee of that building,
+
+(c) the occupier of that building, and
+
+[[^F55](ca) Historic Environment Scotland,
+
+(cb) such other persons as may be prescribed,]
+
+(d) any other person who in their opinion will be affected by the order.
+
+(3) The notice shall specify the period (which must not be less than 28 days after its service) within which any person on whom it is served may require an opportunity of appearing before and being heard by a person appointed by the Secretary of State for the purpose.
+
+(4) If within that period a person on whom the notice is served so requires, the Secretary of State shall, before he confirms the order, give such an opportunity both to that person and to the planning authority.
+
+(5) The Secretary of State may confirm any such order submitted to him either without modification or subject to such modifications as he considers expedient.
+
+##### 23 Procedure for section 21 orders: unopposed cases.
+
+(1) This section shall have effect where—
+
+(a) the planning authority have made an order under section 21 revoking or modifying a listed building consent granted by them, and
+
+(b) the owner, lessee and occupier of the land [[^F56], Historic Environment Scotland, such other persons as may be prescribed] and all persons who in the authority’s opinion will be affected by the order have notified the authority in writing that they do not object to the order.
+
+(2) Where this section applies, instead of submitting the order to the Secretary of State for confirmation the authority shall—
+
+(a) advertise in the prescribed manner the fact that the order has been made, and the advertisement shall specify—
+
+(i) the period within which persons affected by the order may give notice to the Secretary of State that they wish an opportunity of appearing before, and being heard by, a person appointed by the Secretary of State for the purpose, and
+
+(ii) the period at the end of which, if no such notice is given to the Secretary of State, the order may take effect by virtue of this section and without being confirmed by him,
+
+(b) serve notice to the same effect on the persons mentioned in subsection (1)(b), and
+
+(c) send a copy of any such advertisement to the Secretary of State not more than 3 days after its publication.
+
+(3) A notice under subsection (2)(b) shall include a statement to the effect that no compensation is payable under section 25 in respect of an order under section 21 which takes effect by virtue of subsection (4) of this section.
+
+(4) If—
+
+(a) no person claiming to be affected by the order has given notice to the Secretary of State as mentioned in subsection (2)(a)(i) within the period referred to in that subsection, and
+
+(b) the Secretary of State has not directed that the order be submitted to him for confirmation,
+
+the order shall take effect at the end of the period referred to in subsection (2)(a)(ii) without being confirmed by the Secretary of State as required by section 22(1).
+
+(5) The period referred to in subsection (2)(a)(i) must not be less than 28 days from the date on which the advertisement first appears.
+
+(6) The period referred to in subsection (2)(a)(ii) must not be less than 14 days from the end of the period referred to in subsection (2)(a)(i).
+
+##### 24 Revocation and modification of listed building consent by Secretary of State.
+
+(1) If it appears to the Secretary of State that it is expedient that an order should be made under section 21 revoking or modifying any listed building consent granted on an application under this Act, he may himself make such an order revoking or modifying the consent to such extent as he considers expedient.
+
+(2) In performing his functions under subsection (1) the Secretary of State shall have regard to the development plan and to any other material considerations.
+
+(3) The Secretary of State shall not make an order under that subsection without consulting the planning authority.
+
+(4) Where the Secretary of State proposes to make such an order he shall serve notice on—
+
+(a) the owner of the building affected,
+
+(b) the lessee of that building,
+
+(c) the occupier of that building, and
+
+(d) any other person who in his opinion will be affected by the order.
+
+(5) The notice shall specify the period (which must not be less than 28 days after its service) within which any person on whom it is served may require an opportunity of appearing before and being heard by a person appointed by the Secretary of State for the purpose.
+
+(6) If within that period a person on whom the notice is served so requires, the Secretary of State shall, before he makes the order, give such an opportunity both to that person and to the planning authority.
+
+(7) The power conferred by this section to revoke or modify listed building consent in respect of any works may be exercised at any time before those works have been completed, but the revocation or modification shall not affect so much of those works as has been previously carried out.
+
+(8) An order under this section shall have the same effect as if it had been made by the planning authority under section 21 and confirmed by the Secretary of State under section 22.
+
+### Chapter III — Rights of Owners etc.
+
+#### Compensation
+
+##### 25 Compensation where listed building consent revoked or modified.
+
+(1) This section shall have effect where listed building consent is revoked or modified by an order under section 21 (other than an order which takes effect by virtue of section 23).
+
+(2) If, on a claim made to the planning authority within the prescribed time and in the prescribed manner, it is shown that a person interested in the building—
+
+(a) has incurred expenditure in carrying out works which are rendered abortive by the revocation or modification, or
+
+(b) has otherwise sustained loss or damage which is directly attributable to the revocation or modification,
+
+the authority shall pay to that person compensation in respect of that expenditure, loss or damage.
+
+(3) Subject to subsection (4), no compensation shall be paid under this section in respect of—
+
+(a) any works carried out before the grant of the listed building consent which is revoked or modified, or
+
+(b) any other loss or damage (not being loss or damage consisting of depreciation of the value of an interest in land) arising out of anything done or omitted to be done before the grant of that consent.
+
+(4) For the purposes of this section, expenditure incurred in the preparation of plans for the purposes of any works, or upon other similar matters preparatory to any works, shall be taken to be included in the expenditure incurred in carrying out those works.
+
+##### 26 Compensation for loss or damage caused by service of building preservation notice.
+
+(1) This section applies where a building preservation notice ceases to have effect without the building having been included in a list compiled or approved by [[^F57]Historic Environment Scotland] under section 1.
+
+(2) Any person who at the time when the notice was served had an interest in the building shall, on making a claim to the planning authority within the prescribed time and in the prescribed manner, be entitled to be paid compensation by the authority in respect of any loss or damage directly attributable to the effect of the notice.
+
+(3) The loss or damage in respect of which compensation is payable under subsection (2) shall include a sum payable in respect of any breach of contract caused by the necessity of discontinuing or countermanding any works to the building on account of the building preservation notice being in force with respect to it.
+
+##### 27 General provisions as to compensation for depreciation under this Part.
+
+(1) For the purpose of assessing any compensation to which this section applies, the rules set out in section 12 of the [^M1]Land Compensation (Scotland) Act 1963 shall, so far as applicable and subject to any necessary modifications, have effect as they have effect for the purpose of assessing compensation for the compulsory acquisition of an interest in land.
+
+(2) This section applies to any compensation which is payable under section 25 or 26 in respect of depreciation of the value of an interest in land.
+
+(3) Where an interest in land is subject to a heritable security—
+
+(a) any compensation to which this section applies which is payable in respect of depreciation of the value of that interest, shall be assessed as if the interest were not subject to the security,
+
+(b) a claim for any such compensation may be made by any creditor in a heritable security over the interest, but without prejudice to the making of a claim by the person entitled to the interest,
+
+(c) no compensation to which this section applies shall be payable in respect of the interest of the creditor in the heritable security (as distinct from the interest which is subject to the security), and
+
+(d) any compensation to which this section applies which is payable in respect of the interest which is subject to the heritable security shall be paid to the creditor in the security or, if there is more than one such creditor, to the creditor whose security ranks first, and shall in either case be applied by him as if it were proceeds of sale by him under the powers competent to creditors in heritable securities.
+
+(4) Except in so far as may be otherwise provided by any regulations made under this Act, any question of disputed compensation under section 25 or 26 shall be referred to and determined by the Lands Tribunal.
+
+(5) In relation to the determination of any such question, the provisions of sections 9 and 11 of the [^M2]Land Compensation (Scotland) Act 1963 shall apply, subject to any necessary modifications and to the provisions of any regulations made under this Act.
+
+#### Listed building purchase notices
+
+##### 28 Purchase notice on refusal or conditional grant of listed building consent.
+
+(1) Where—
+
+(a) listed building consent in respect of a building is refused or is granted subject to conditions, or is revoked or modified by an order under section 21 or 24, and
+
+(b) any owner or lessee of the building claims that—
+
+(i) the conditions mentioned in subsection (2) are satisfied with respect to it and any land comprising the building, or contiguous or adjacent to it, and owned or occupied with it, and
+
+(ii) the conditions mentioned in subsection (3) are satisfied with respect to that land,
+
+he may, within the prescribed time and in the prescribed manner, serve on the planning authority in whose district the building and land is situated a notice (in this Act referred to as a “listed building purchase notice”) requiring that authority to purchase his interest in the building and the land in accordance with sections 29 to 33.
+
+(2) The conditions mentioned in subsection (1)(b)(i) are—
+
+(a) that the building and land in respect of which the notice is served have become incapable of reasonably beneficial use in their existing state,
+
+(b) in a case where listed building consent has been granted subject to conditions with respect to the execution of the works or has been modified by the imposition of such conditions, that the building and land cannot be rendered capable of such use by the carrying out of the works in accordance with those conditions, and
+
+(c) in any case, that the building and land cannot be rendered capable of such use by the carrying out of any other works for which listed building consent has been granted or for which the planning authority or the Secretary of State has undertaken to grant such consent.
+
+(3) The conditions mentioned in subsection (1)(b)(ii) are that the use of the land is substantially inseparable from that of the building and that it ought to be treated, together with the building, as a single holding.
+
+(4) Where, for the purpose of determining whether the conditions mentioned in subsection (2) are satisfied in relation to any building and land, any question arises as to what is or would in any particular circumstances be a reasonably beneficial use of the building and land, no account shall be taken of any prospective use which would involve the carrying out of development (other than any development specified in paragraph 1 or 2 of Schedule 11 to the principal Act) or of any works requiring listed building consent which might be executed to the building, other than works for which the planning authority or the Secretary of State has undertaken to grant such consent.
+
+##### 28A [[^F58]Purchase notices: Crown land
+
+(1) A listed building purchase notice may be served in respect of Crown land only as mentioned in this section.
+
+(2) The owner of a private interest in Crown land must not serve a listed building purchase notice unless—
+
+(a) he first offers to dispose of his interest to the appropriate authority on equivalent terms, and
+
+(b) the offer is refused by the appropriate authority.
+
+(3) The appropriate authority may serve a listed building purchase notice in relation to the following land—
+
+(a) land belonging to Her Majesty in right of her private estates,
+
+[[^F59](aa) land which forms part of the property, rights and interests to which section 90B(5) of the Scotland Act 1998 applies,]
+
+(b) land which forms part of the Crown Estate.
+
+(4) An offer is made on equivalent terms if the price payable for the interest is equal to (and, in default of agreement, determined in the same manner as) the compensation which would be payable in respect of it if it were acquired in pursuance of a listed building purchase notice.]
+
+##### 29 Action by planning authority on whom listed building purchase notice served.
+
+(1) The planning authority on whom a listed building purchase notice is served under section 28 shall serve on the owner or lessee by whom the notice was served a notice stating—
+
+(a) that the authority are willing to comply with the purchase notice,
+
+(b) that another planning authority or statutory undertakers specified in the notice under this subsection have agreed to comply with it in their place, or
+
+(c) that for reasons specified in the notice under this subsection the authority are not willing to comply with the purchase notice and have not found any other planning authority or statutory undertakers who will agree to comply with it in their place, and that they have sent to the Secretary of State a copy of the purchase notice and of the notice under this subsection.
+
+(2) A notice under subsection (1) must be served before the end of the period of 3 months beginning with the date of service of the listed building purchase notice.
+
+(3) Where the planning authority on whom a listed building purchase notice is served by an owner or lessee have served on him a notice in accordance with subsection (1)(a) or (b) the authority, or the other planning authority or statutory undertakers specified in the notice, as the case may be, shall be deemed—
+
+(a) to be authorised to acquire the interest of the owner or lessee compulsorily in accordance with the provisions of section 42, and
+
+(b) to have served a notice to treat in respect of it on the date of service of the notice under that subsection.
+
+(4) Where the planning authority propose to serve such a notice as is mentioned in subsection (1)(c), they shall first send to the Secretary of State a copy of—
+
+(a) the proposed notice, and
+
+(b) the listed building purchase notice which was served on them.
+
+##### 30 Procedure on reference of listed building purchase notice to Secretary of State.
+
+(1) Where a copy of a listed building purchase notice is sent to the Secretary of State under section 29(4), he shall consider whether to confirm the notice or to take other action under section 31 in respect of it.
+
+(2) Before confirming such a notice or taking such other action, the Secretary of State shall give notice of his proposed action—
+
+(a) to the person who served the notice,
+
+(b) to the planning authority on whom it was served, and
+
+(c) if the Secretary of State proposes to substitute any other planning authority or statutory undertakers for the planning authority on whom the notice was served, to them.
+
+(3) A notice under subsection (2) shall specify the period (which must not be less than 28 days from its service) within which any of the persons, authorities or statutory undertakers on whom it is served may require the Secretary of State to give them an opportunity of appearing before, and being heard by, a person appointed by the Secretary of State for the purpose.
+
+(4) If within that period any of those persons, authorities or statutory undertakers so requires, the Secretary of State shall, before he confirms the listed building purchase notice or takes any other action under section 31 in respect of it, give each of them such an opportunity.
+
+(5) If, after any of those persons, authorities or statutory undertakers have appeared before and been heard by the appointed person, or the persons, authorities and statutory undertakers concerned have agreed to dispense with such a hearing, it appears to the Secretary of State to be expedient to take action under section 31 otherwise than in accordance with the notice given by him, the Secretary of State may take that action accordingly.
+
+(6) In this section and sections 31 to 33, “land” means the building and the land in respect of which the notice under section 28(1) is served.
+
+##### 31 Action by Secretary of State in relation to listed building purchase notice.
+
+(1) Subject to the following provisions of this section, if the Secretary of State is satisfied that the conditions specified in section 28(2)(a) to (c) are satisfied in the case of any listed building purchase notice, he shall confirm the notice.
+
+(2) If the Secretary of State is satisfied that those conditions are fulfilled only in respect of part of the land, he shall confirm the notice only in respect of that part and the notice shall have effect accordingly.
+
+(3) The Secretary of State shall not confirm the notice unless he is satisfied that the land comprises such land contiguous or adjacent to the building as is in his opinion required—
+
+(a) for preserving the building or its amenities,
+
+(b) for affording access to it, or
+
+(c) for its proper control or management.
+
+(4) If it appears to the Secretary of State to be expedient to do so he may, instead of confirming the notice—
+
+(a) in the case of a notice served on account of the refusal of listed building consent for any works, grant such consent for those works,
+
+(b) in the case of a notice served on account of such consent being granted subject to conditions, revoke or amend those conditions so far as it appears to him to be required in order to enable the land to be rendered capable of reasonably beneficial use by the carrying out of those works,
+
+(c) in the case of a notice served on account of such consent being revoked by an order under section 21 or 24, cancel the order revoking the consent, or
+
+(d) in the case of a notice served on account of such consent being modified by such an order by the imposition of conditions, revoke or amend those conditions so far as appears to him to be required in order to enable the land to be rendered capable of reasonably beneficial use by the carrying out of the works in respect of which the consent was granted.
+
+(5) If it appears to the Secretary of State that the land, or any part of it, could be rendered capable of reasonably beneficial use within a reasonable time by the carrying out—
+
+(a) of any other works for which listed building consent ought to be granted, or
+
+(b) of any development for which planning permission ought to be granted,
+
+he may, instead of confirming the listed building purchase notice (or confirming it so far as it relates to that part), direct that if an application is made for such consent for those works, or as the case may be for planning permission for that development, it shall be granted.
+
+(6) If it appears to the Secretary of State, having regard to the probable ultimate use of the building or its site, that it is expedient to do so he may, if he confirms the notice, modify it in relation to either the whole or any part of the land, by substituting another planning authority or statutory undertakers for the authority on whom the notice was served.
+
+(7) Any reference in section 30 to the taking of action by the Secretary of State under this section includes a reference to the taking by him of a decision not to confirm the purchase notice on the grounds that any of the conditions referred to in subsection (1) of this section are not satisfied.
+
+##### 32 Effect of Secretary of State’s action in relation to listed building purchase notice.
+
+(1) Where the Secretary of State confirms a listed building purchase notice, the authority on whom the notice was served shall be deemed—
+
+(a) to be authorised to acquire the owner’s or lessee’s interest in the land compulsorily in accordance with the provisions of section 42, and
+
+(b) to have served a notice to treat in respect of it on such date as the Secretary of State may direct.
+
+(2) If before the end of the relevant period the Secretary of State has neither—
+
+(a) confirmed the listed building purchase notice, nor
+
+(b) notified the owner or lessee by whom it was served that he does not propose to confirm it, nor
+
+(c) taken any such action in respect of it as is mentioned in subsection (4) or (5) of section 31,
+
+the notice shall be deemed to be confirmed at the end of that period and the authority on whom the notice was served shall be deemed to have been authorised as is mentioned in subsection (1)(a) and to have served a notice to treat in respect of the owner’s or lessee’s interest at the end of that period.
+
+(3) Where a listed building purchase notice is confirmed in respect of only part of the land, references in this section to the owner’s or lessee’s interest in the land are references to the owner’s or lessee’s interest in that part.
+
+(4) Where a listed building purchase notice is modified under section 31(6) by the substitution of another planning authority or statutory undertakers for the authority on whom the notice was served, the reference in subsection (1) to that authority is to that other planning authority or those statutory undertakers.
+
+(5) In this section “the relevant period” means, subject to subsection (6)—
+
+(a) the period of 9 months beginning with the date of the service of the listed building purchase notice, or
+
+(b) if it ends earlier, the period of 6 months beginning with the date on which a copy of the purchase notice was sent to the Secretary of State.
+
+(6) The relevant period does not run if the Secretary of State has before him at the same time both—
+
+(a) a copy of the listed building purchase notice sent to him under section 29(4), and
+
+(b) a notice of appeal under section 18 or 35 relating to any of the land to which the purchase notice relates.
+
+(7) Where any decision by the Secretary of State to confirm or not to confirm a listed building purchase notice (including any decision to confirm the notice only in respect of part of the land, or to give any direction as to the granting of listed building consent or planning permission) is quashed under section 58, the notice shall be treated as cancelled, but the owner or lessee may serve a further notice in its place.
+
+(8) For the purposes of determining whether such a further notice has been served within the period prescribed for the service of listed building purchase notices, the decision concerning listed building consent on account of which the notice has been served shall be treated as having been made on the date on which the decision of the Secretary of State was quashed.
+
+##### 33 Reduction of compensation on acquisition where section 25 compensation payable.
+
+Where compensation is payable under section 25 in respect of expenditure incurred in carrying out any works to a building, any compensation which then becomes payable in respect of the acquisition of an interest in the land in pursuance of a listed building purchase notice shall be reduced by an amount equal to the value of those works.
+
+### Chapter IV — Enforcement
+
+#### 34 Power to issue listed building enforcement notice.
+
+(1) Where it appears to the planning authority—
+
+(a) that any works have been, or are being, executed to a listed building in their district, and
+
+(b) that the works are such as to involve a contravention of section 8(1) or (2),
+
+they may, if they consider it expedient to do so having regard to the effect of the works on the character of the building as one of special architectural or historic interest, serve a notice under this section (in this Act referred to as a “listed building enforcement notice”).
+
+[[^F60](1A) A listed building enforcement notice shall specify the alleged contravention and shall (either or both)—
+
+(a) specify any works falling within subsection (1) which the authority requires to cease,
+
+(b) require steps falling within subsection (2) and specified in the notice to be taken.]
+
+(2) [[^F61]Those steps are] —
+
+(a) for restoring the building to its former state,
+
+(b) if the authority consider that such restoration would not be reasonably practicable or would be undesirable, for executing such further works specified in the notice as they consider are required to alleviate in a manner acceptable to them the effect of the works which were carried out without listed building consent, or
+
+(c) for bringing the building to the state it would have been in if the terms and conditions of any listed building consent for the works had been complied with.
+
+(3) In considering whether such restoration is undesirable under subsection (2)(b), the authority shall have regard to the desirability of preserving—
+
+(a) the character of the building, or
+
+(b) its features of architectural or historical interest.
+
+(4) Where such further works as are mentioned in subsection (2)(b) have been carried out on a building, listed building consent shall be deemed to have been granted in respect of the works carried out on that building.
+
+(5) A listed building enforcement notice—
+
+(a) shall specify the date upon which it is to take effect and, subject to section 35(3), shall take effect on that date, and
+
+(b) shall specify the period (the “period for compliance”) within which [[^F62]—
+
+(i) any works required to cease must cease,
+
+(ii) any steps required to be taken must be taken,
+
+and may specify different periods for different works or steps.]
+
+and, where different periods apply to different steps, references in this Act to the period for compliance with a listed building enforcement notice, in relation to any step, are to the period within which the step is required to be taken.
+
+[[^F63](5A) Where different periods apply to different works or steps, references in this Act to the period for compliance with a listed building enforcement notice, in relation to any works or step, are to the period within which the works are required to cease or the step is required to be taken.
+
+(5B) The date specified in the notice under subsection (5)(a) must be at least 28 days after the date on which the notice is served.]
+
+(6) A copy of a listed building enforcement notice shall be served—
+
+(a) on the owner, on the lessee and on the occupier of the building to which it relates, and
+
+(b) on any other person having an interest in the building, being an interest which in the opinion of the authority is materially affected by the notice.
+
+(7) The planning authority may—
+
+(a) withdraw a listed building enforcement notice (without prejudice to their power to issue another), or
+
+(b) waive or relax any requirement of such a notice and, in particular, extend the period specified in accordance with subsection (5),
+
+and the powers conferred by this subsection may be exercised whether or not the notice has taken effect.
+
+(8) The planning authority shall, immediately after exercising the powers conferred by subsection (7), give notice of the exercise to every person who has been served with a copy of the listed building enforcement notice or would, if the notice were reissued, be served with a copy of it.
+
+(9) Every planning authority shall keep available for public inspection free of charge at reasonable hours and at a convenient place a list containing particulars of any building in their district in respect of which a listed building enforcement notice has been served.
+
+#### 35 Appeal against listed building enforcement notice.
+
+(1) A person on whom a listed building enforcement notice is served or any other person having an interest in the building to which it relates may, at any time before the date specified in the notice as the date on which it is to take effect, appeal to the Secretary of State against the notice on any of the following grounds—
+
+(a) that the building is not of special architectural or historic interest;
+
+(b) that the matters alleged to constitute a contravention of section 8(1) or (2) have not occurred;
+
+(c) that those matters (if they occurred) do not constitute such a contravention;
+
+(d) that—
+
+(i) works to the building were urgently necessary in the interests of safety or health, or for the preservation of the building,
+
+(ii) it was not practicable to secure safety or health or, as the case may be, the preservation of the building by works of repair or works for affording temporary support or shelter, and
+
+(iii) the works carried out were limited to the minimum measures immediately necessary;
+
+(e) that listed building consent ought to be granted for the works, or that any relevant condition of such consent which has been granted ought to be discharged, or different conditions substituted;
+
+(f) that copies of the notice were not served as required by section 34(6);
+
+(g) except in relation to such a requirement as is mentioned in section 34(2)(b) or (c), that the requirements of the notice exceed what is necessary for restoring the building to its condition before the works were carried out;
+
+(h) that the period specified in the notice as the period within which any step required by the notice is to be taken falls short of what should reasonably be allowed;
+
+(i) that the steps required by the notice for the purpose of restoring the character of the building to its former state would not serve that purpose;
+
+[[^F64](ia) that the cessation of any works required by the notice exceeds what is necessary to remedy the contravention of section 8(1) or (2),]
+
+(j) that steps required to be taken by virtue of section 34(2)(b) exceed what is necessary to alleviate the effect of the works executed to the building;
+
+(k) that steps required to be taken by virtue of section 34(2)(c) exceed what may reasonably be required to bring the building to the state in which it would have been if the terms and conditions of the listed building consent had been complied with.
+
+(2) An appeal under this section shall be made [^F65]...—
+
+(a) by giving written notice of the appeal to the Secretary of State before the date specified in the listed building enforcement notice as the date on which it is to take effect, or
+
+(b) by sending such notice to him in a properly addressed and prepaid letter posted to him at such time that, in the ordinary course of post, it would be delivered to him before that date[[^F66]; or
+
+(c) by sending such notice to them using electronic communications at such time that, in the ordinary course of transmission, it would be delivered to them before that date]
+
+(3) Where an appeal is brought under this section the notice shall be of no effect pending the final determination or withdrawal of the appeal.
+
+(4) A person who gives notice of appeal under this section shall submit to the Secretary of State, either when giving the notice or within such time as may be prescribed, a statement in writing—
+
+(a) specifying the grounds on which he is appealing against the listed building enforcement notice, and
+
+(b) giving such further information as may be prescribed.
+
+(5) Schedule 3 (which makes provision regarding the determination of certain appeals by a person appointed by the Secretary of State) applies in relation to appeals under this section.
+
+#### 36 Appeals: supplementary provisions.
+
+(1) The Secretary of State may prescribe the procedure to be followed on appeals under section 35, and may in particular—
+
+(a) require the planning authority to submit, within such time as may be prescribed, a statement indicating the submissions which they propose to put forward on the appeal,
+
+(b) specify the matters to be included in such a statement,
+
+(c) require the authority or the appellant to give such notice of such an appeal as may be prescribed to such persons as may be prescribed, and
+
+(d) require the authority to send to the Secretary of State, within such period from the date of the bringing of the appeal as may be prescribed, a copy of the enforcement notice and a list of the persons served with copies of it.
+
+[^F67]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 37 Determination of appeals under section 35.
+
+(1) On the determination of an appeal under section 35 the Secretary of State shall give directions for giving effect to the determination, including where appropriate directions for quashing the listed building enforcement notice.
+
+(2) On such an appeal the Secretary of State—
+
+(a) may—
+
+(i) correct any defect, error or misdescription in the listed building enforcement notice, or
+
+(ii) vary the terms of the listed building enforcement notice,
+
+if he is satisfied that the correction or variation will not cause injustice to the appellant or the planning authority, and
+
+(b) in a case where it would otherwise be a ground for determining the appeal in favour of the appellant that a person required by section 34(6) to be served with a copy of the notice was not served, may disregard that fact if he is satisfied that the person has not been substantially prejudiced by the failure to serve him.
+
+(3) The Secretary of State may—
+
+(a) dismiss such an appeal if the appellant fails to comply with section 35(4) within the prescribed time;
+
+(b) allow such an appeal or quash the listed building enforcement notice if the planning authority fail to comply within the prescribed period with any requirement imposed by regulations made by virtue of section 36(1)(a), (b) or (d).
+
+(4) On the determination of an appeal under section 35 the Secretary of State may—
+
+(a) grant listed building consent for the works to which the listed building enforcement notice relates,
+
+(b) discharge any condition subject to which such consent was granted and substitute any other condition, whether more or less onerous, or
+
+[[^F68](c) direct Historic Environment Scotland to exercise its power under section 1 to amend the list compiled or approved under that section to give effect to that determination.]
+
+(5) Any listed building consent granted by the Secretary of State under subsection (4) shall be treated as granted on an application for the same consent under section 9.
+
+(6) The validity of a listed building enforcement notice shall not, except by way of appeal under section 35, be questioned in any proceedings whatsoever on the grounds specified in section 35(1)(b) and (f).
+
+#### 38 Execution of works required by listed building enforcement notice.
+
+(1) If any of the steps specified in the listed building enforcement notice have not been taken within the period for compliance with the notice, the authority may—
+
+(a) enter on the land and take those steps, and
+
+(b) recover from the person who is then the owner or lessee of the land any expenses reasonably incurred by them in doing so.
+
+(2) Where a listed building enforcement notice has been served in respect of a building—
+
+(a) any expenses incurred by the owner, lessee or occupier of a building for the purpose of complying with it, and
+
+(b) any sums paid by the owner or lessee of a building under subsection (1) in respect of expenses incurred by the planning authority in taking steps required by it,
+
+shall be deemed to be incurred or paid for the use and at the request of the person who carried out the works to which the notice relates.
+
+(3) If on a complaint by the owner of any land it appears to the sheriff that the occupier of the land is preventing the owner from carrying out work required to be carried out by a listed building enforcement notice, the sheriff may by warrant authorise the owner to go on the land and carry out that work.
+
+(4) A planning authority taking steps under subsection (1) may sell any materials removed by them from the land unless those materials are claimed by the owner within 3 days of their removal.
+
+(5) After any such sale the planning authority shall pay the proceeds to the owner less the expenses recoverable by them from him.
+
+(6) Where a planning authority seek, under subsection (1), to recover any expenses from a person on the basis that he is the owner of any land, and such person proves that—
+
+(a) he is receiving the rent in respect of that land merely as trustee, tutor, curator, factor or agent of some other person, and
+
+(b) he has not, and since the date of the service on him of the demand for payment has not had, in his hands on behalf of that other person sufficient money to discharge the whole demand of the authority,
+
+his liability shall be limited to the total amount of the money which he has or has had in his hands on behalf of that other person.
+
+(7) A planning authority who by reason of subsection (6) have not recovered the whole of any such expenses from a trustee, tutor, curator, factor or agent may recover any unpaid balance from the person on whose behalf the rent is received.
+
+(8) Any person who wilfully obstructs a person acting in the exercise of powers under subsection (1) shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+#### 39 Offence where listed building enforcement notice not complied with.
+
+(1) Where, after the end of the period for compliance with the notice, any step required by a listed building enforcement notice to be taken has not been taken [[^F69]or any works required by the notice to cease have not ceased], the person who is for the time being owner of the land is in breach of the notice.
+
+(2) If at any time the owner of the land is in breach of a listed building enforcement notice he shall be guilty of an offence.
+
+(3) An offence under this section may be charged by reference to any day or longer period of time and a person may be convicted of a second or subsequent offence under this section by reference to any period of time following the preceding conviction for such an offence.
+
+(4) In proceedings against any person for an offence under this section, it shall be a defence for him to show—
+
+(a) that he did everything he could be expected to do to secure that all the steps required by the notice were taken [[^F70]or that all works required by the notice to cease were ceased,] , or
+
+(b) that he was not served with a copy of the listed building enforcement notice and was not aware of its existence.
+
+(5) A person guilty of an offence under this section shall be liable—
+
+(a) on summary conviction, to a fine not exceeding £20,000, and
+
+(b) on conviction on indictment, to a fine.
+
+(6) In determining the amount of any fine to be imposed on a person convicted of an offence under this section, the court shall in particular have regard to any financial benefit which has accrued or appears likely to accrue to him in consequence of the offence.
+
+#### 39A [[^F71]Fixed penalty notice where listed building enforcement notice not complied with
+
+(1) Where a planning authority have reason to believe that, by virtue of subsection (1) of section 39, a person is in breach of a listed building enforcement notice they may, if the conditions in subsection (9) are satisfied, serve on the person a fixed penalty notice as respects that breach.
+
+(2) The fixed penalty notice is to specify (either or both)—
+
+(a) the works specified, under subsection (1A) of section 34, in the listed building enforcement notice which have not ceased,
+
+(b) the step specified, under that subsection, in the listed building enforcement notice which has not been taken.
+
+(3) No more than one fixed penalty notice may be served on a person as respects a breach by the person of a listed building enforcement notice.
+
+(4) For the purposes of this section, a “fixed penalty notice” is a notice offering the person the opportunity of discharging any liability to conviction for an offence under section 39 as respects the breach of the listed building enforcement notice.
+
+(5) The person discharges any such liability by paying to the planning authority, within the relevant period, a penalty of a prescribed amount specified in the fixed penalty notice.
+
+(6) The relevant period mentioned in subsection (5) is the period of 30 days immediately following the day on which the fixed penalty notice is served.
+
+(7) But if payment is made within the first 15 days of the period mentioned in subsection (6) the amount payable is reduced by 25%.
+
+(8) The fixed penalty notice is to identify the period mentioned in subsection (6) and is also to state that if payment is made within the first 15 days of that period the amount payable is reduced by 25%.
+
+(9) The conditions are that the fixed penalty notice—
+
+(a) is served within the period of 6 months which immediately follows the period for compliance with the listed building enforcement notice,
+
+(b) is not served after the person has been charged with an offence under section 39 as respects the breach of the listed building enforcement notice.
+
+(10) During the period mentioned in subsection (6) it is not competent to commence proceedings against the person for an offence under section 39 as respects that breach.
+
+(11) If the amount (or as the case may be the reduced amount) is timeously paid it is not competent to commence proceedings against the person for an offence under section 39 as respects that breach.
+
+(12) A penalty received by a planning authority by virtue of subsection (5) is to accrue to that authority.
+
+(13) In prescribing an amount for the purposes of subsection (5), the Scottish Ministers may make different provision for different cases or different classes of case, including provision for different amounts by reference to previous breaches of listed building enforcement notices relating to the same steps or works.]
+
+#### 40 Effect of listed building consent on listed building enforcement notice.
+
+(1) If, after the issue of a listed building enforcement notice, consent is granted under section 7(3)—
+
+(a) for the retention of any work to which the listed building enforcement notice relates, or
+
+(b) permitting the retention of works without complying with some condition subject to which a previous listed building consent was granted,
+
+the listed building enforcement notice shall cease to have effect in so far as [[^F72]such work is or such works are required by the notice to cease, or in so far as] it requires steps to be taken involving the works not being retained or, as the case may be, for complying with that condition.
+
+(2) The fact that such a notice has wholly or partly ceased to have effect under subsection (1) shall not affect the liability of any person for an offence in respect of a previous failure to comply with that notice.
+
+#### 41 Enforcement by Secretary of State.
+
+(1) If it appears to the Secretary of State that it is expedient that a listed building enforcement notice should be served in respect of any land, he may himself serve such a notice under section 34.
+
+(2) A listed building enforcement notice served by the Secretary of State shall have the same effect as a notice served by the planning authority.
+
+(3) The Secretary of State shall not serve such a notice without consulting the planning authority.
+
+(4) The provisions of this Act relating to listed building enforcement notices apply, so far as relevant, to a listed building enforcement notice served by the Secretary of State as they apply to a listed building enforcement notice served by a planning authority, but with the substitution for any reference to the planning authority of a reference to the Secretary of State, and any other necessary modifications.
+
+#### [[^F73]Stop notices
+
+##### 41A Stop notices
+
+(1) Subsection (2) applies where the planning authority consider it expedient that any relevant works should cease before the expiry of the period for compliance with a listed building enforcement notice.
+
+(2) The authority may, when they serve the copy of the listed building enforcement notice or afterwards, serve a notice (in this Act referred to as a “stop notice”) prohibiting the execution of the relevant works to the listed building to which the enforcement notice relates, or to any part of that building specified in the stop notice.
+
+(3) In this section and sections 41B and 41D, “relevant works” means any works specified in the listed building enforcement notice as works which the planning authority require to cease and any works carried out as part of, or associated with, such works.
+
+(4) A stop notice may not be served if the listed building enforcement notice has taken effect.
+
+(5) A stop notice must specify the date when it is to come into effect, and that date—
+
+(a) must not be earlier than 3 days after the date when the notice is served, unless the planning authority consider that there are special reasons for specifying an earlier date and a statement of those reasons is served with the stop notice, and
+
+(b) must not be later than 28 days from the date when the notice is first served on any person.
+
+(6) A stop notice may be served by the planning authority on any person who appears to them to have an interest in the building or who is executing, or causing to be executed, the relevant works specified in the listed building enforcement notice.
+
+(7) The planning authority may at any time withdraw a stop notice (without prejudice to their power to serve another) by notice which must be—
+
+(a) served on all persons who were served with the stop notice, and
+
+(b) publicised by displaying it for 7 days in place of all or any site notices (within the meaning of section 41B(4)).
+
+##### 41B Stop notices: supplementary provisions
+
+(1) A stop notice ceases to have effect when—
+
+(a) the listed building enforcement notice to which it relates is withdrawn or quashed,
+
+(b) the period for compliance expires, or
+
+(c) notice of the withdrawal of the stop notice is served under section 41A(7),
+
+whichever occurs first.
+
+(2) Where the listed building enforcement notice to which a stop notice relates is varied so that it no longer relates to any relevant works, the stop notice ceases to have effect in relation to those works.
+
+(3) The reference in subsection (2) to a listed building enforcement notice being varied includes a reference to—
+
+(a) a requirement of such a notice being waived or relaxed by virtue of section 34(7),
+
+(b) the terms of such a notice being varied on appeal by virtue of section 37(2)(a).
+
+(4) Where a stop notice has been served in respect of any listed building the planning authority may publicise it by displaying on the building a notice (in this section and in sections 41E and 76 referred to as a “site notice”)—
+
+(a) stating that a stop notice has been served on a particular person or persons,
+
+(b) indicating its requirements, and
+
+(c) stating that any person contravening it may be prosecuted for an offence under section 41E.
+
+(5) A stop notice is not invalid by reason that a copy of the listed building enforcement notice to which it relates was not served as required by section 34 if it is shown that the planning authority took all such steps as were reasonably practicable to effect proper service.
+
+##### 41C Power of the Scottish Ministers to serve stop notice
+
+(1) If it appears to the Scottish Ministers that it is expedient that a stop notice should be served in respect of any building they may themselves serve such a notice under section 41A.
+
+(2) A stop notice served by the Scottish Ministers has the same effect as if it had been served by the planning authority.
+
+(3) The Scottish Ministers must not serve such a notice without consulting the planning authority.
+
+(4) The provisions of this Act relating to stop notices apply, so far as relevant, to a stop notice served by the Scottish Ministers as they apply to a stop notice served by a planning authority, but with the substitution for any reference to the planning authority of a reference to the Scottish Ministers, and any other necessary modifications.
+
+##### 41D Compensation for loss due to stop notice
+
+(1) Where a stop notice ceases to have effect a person who, when the notice is first served, has an interest (whether as owner or occupier or otherwise) in the building to which the notice relates is entitled to be compensated by the planning authority in respect of any loss or damage falling within subsection (2).
+
+(2) That is loss or damage directly attributable to—
+
+(a) the prohibition contained in the stop notice or,
+
+(b) in a case within subsection (3)(b), the prohibition of such of the works prohibited by the stop notice as cease to be relevant works.
+
+(3) For the purposes of this section, a stop notice ceases to have effect when—
+
+(a) the listed building enforcement notice is quashed on grounds other than those mentioned in paragraph (e) of section 35(1),
+
+(b) the listed building enforcement notice is varied (otherwise than on the grounds mentioned in that paragraph) so that any works the execution of which are prohibited by the stop notice cease to be relevant works,
+
+(c) the listed building enforcement notice is withdrawn by the planning authority otherwise than in consequence of the grant by them of listed building consent for the works to which the notice relates, or
+
+(d) the stop notice is withdrawn.
+
+(4) The reference in subsection (3)(b) to a listed building enforcement notice being varied includes a reference to—
+
+(a) a requirement of such a notice being waived or relaxed by virtue of section 34(7),
+
+(b) the terms of such a notice being varied on appeal by virtue of section 37(2)(a).
+
+(5) A claim for compensation under this section must be made to the planning authority within the prescribed time and in the prescribed manner.
+
+(6) The loss or damage in respect of which compensation is payable under this section in respect of a prohibition includes any sum payable in respect of a breach of contract caused by the taking of action necessary to comply with the prohibition.
+
+(7) No compensation is payable under this section—
+
+(a) in respect of the prohibition in a stop notice of any works which, at any time when the notice is in force, are such as to involve a contravention of section 8(1) or (2), or
+
+(b) in the case of a claimant who was required to provide information under section 272 of the principal Act (power to require information as to interests in land) in respect of any loss or damage suffered by the claimant which could have been avoided if the claimant had provided the information or had otherwise co-operated with the planning authority when responding to the notice.
+
+(8) Except in so far as may be otherwise provided by any regulations made under this Act, any question of disputed compensation under this section is to be referred to and determined by the Lands Tribunal for Scotland.
+
+(9) In relation to the determination of any such question, the provisions of sections 9 (procedure on references under section 8) and 11 (expenses) of the Land Compensation (Scotland) Act 1963 (c.51) apply subject to any necessary modifications and to the provisions of any regulations made under this Act.
+
+##### 41E Penalties for contravention of stop notice
+
+(1) A person who contravenes a stop notice after a site notice has been displayed, or after the stop notice has been served on the person, is guilty of an offence.
+
+(2) Contravention of a stop notice includes causing or permitting its contravention.
+
+(3) An offence under this section may be charged by reference to any day or longer period of time.
+
+(4) A person may, in relation to the same stop notice, be convicted of more than one offence under this section by reference to different days or different periods.
+
+(5) It is a defence in any proceedings under this section that—
+
+(a) the stop notice was not served on the accused, and
+
+(b) the accused had no reasonable cause to believe that the works were prohibited by the stop notice.
+
+(6) A person guilty of an offence under this section is liable—
+
+(a) on summary conviction, to a fine not exceeding £20,000, and
+
+(b) on conviction on indictment, to a fine.
+
+(7) In determining the amount of the fine, the court is in particular to have regard to any financial benefit which has accrued or appears likely to accrue to the person in consequence of the offence.
+
+#### Temporary stop notices
+
+##### 41F Temporary stop notices
+
+(1) Where it appears to the planning authority that—
+
+(a) any works have been, or are being, executed to a listed building in their district,
+
+(b) the works are such as to involve a contravention of section 8(1) or (2), and
+
+(c) it is expedient that the works are (or any part of the works is) stopped immediately,
+
+they may, if they consider it expedient to do so having regard to the effect of the works on the character of the building as one of special architectural or historic interest, issue a temporary stop notice.
+
+(2) The notice must be given in writing and must—
+
+(a) specify the works in question,
+
+(b) prohibit execution of the works (or so much of the works as is specified in the notice), and
+
+(c) set out the authority's reasons for issuing the notice.
+
+(3) A temporary stop notice may be served on any of the following—
+
+(a) a person who appears to the authority to be executing, or causing to be executed, the works,
+
+(b) a person who appears to the authority to have an interest in the building (whether as owner or occupier or otherwise).
+
+(4) The authority must display on the building—
+
+(a) a copy of the notice, and
+
+(b) a statement as to the effect of section 41H.
+
+(5) A temporary stop notice has effect from the time a copy of it is first displayed in pursuance of subsection (4).
+
+(6) A temporary stop notice ceases to have effect at the end of the period of 28 days starting on the day the copy notice is so displayed.
+
+(7) But if a shorter period starting on that day is specified in the notice, the notice instead ceases to have effect at the end of that shorter period.
+
+(8) And if the notice is withdrawn by the authority before that period of 28 days (or, as the case may be, that shorter period) expires, the notice ceases to have effect on being so withdrawn.
+
+##### 41G Temporary stop notices: restrictions
+
+(1) A temporary stop notice does not prohibit the execution of works (either or both)—
+
+(a) of such description,
+
+(b) in such circumstances,
+
+as may be prescribed.
+
+(2) A second or subsequent temporary stop notice must not be issued in respect of the same works unless the planning authority have in the meantime taken some other enforcement action in relation to the contravention of section 8(1) or (2) which is constituted by the works.
+
+(3) In subsection (2), “enforcement action” includes obtaining the grant of an interdict under section 146(2) of the principal Act (interdicts restraining breaches of planning control).
+
+##### 41H Temporary stop notices: offences
+
+(1) A person who contravenes a temporary stop notice—
+
+(a) which has been served on the person, or
+
+(b) a copy of which has been displayed in pursuance of section 41F(4),
+
+is guilty of an offence.
+
+(2) Contravention of a temporary stop notice includes causing or permitting its contravention.
+
+(3) An offence under this section may be charged by reference to a day or to a longer period of time.
+
+(4) A person may, in relation to the same temporary stop notice, be convicted of more than one offence under this section by reference to different days or different periods.
+
+(5) It is a defence in any proceedings under this section that—
+
+(a) the temporary stop notice was not served on the accused, and
+
+(b) the accused did not know, and could not reasonably have been expected to know, of its existence.
+
+(6) A person convicted of an offence under this section is liable—
+
+(a) on summary conviction, to a fine not exceeding £20,000,
+
+(b) on conviction on indictment, to a fine.
+
+(7) In determining the amount of the fine, the court is in particular to have regard to any financial benefit which has accrued or appears likely to accrue to the convicted person in consequence of the execution of the works which constituted the offence.
+
+##### 41I Temporary stop notices: compensation
+
+(1) A person who, at the date on which a temporary stop notice is first displayed in pursuance of section 41F(4), has an interest (whether as owner or occupier or otherwise) in the building to which the notice relates is entitled to be compensated by the planning authority in respect of any loss or damage directly attributable to the prohibition effected by that notice.
+
+(2) But subsection (1) applies only if the circumstances are as set out in one or both of the following paragraphs—
+
+(a) the works specified in the notice are authorised by listed building consent granted on or before the date mentioned in that subsection,
+
+(b) the authority withdraws the notice other than following such grant of listed building consent as is mentioned in paragraph (a).
+
+(3) Subsections (5) to (9) of section 41D apply to compensation payable under this section as they apply to compensation payable under that section; and for the purpose of that application the reference in section 41D(7) to a stop notice is to be taken to be a reference to a temporary stop notice.]
+
+### Chapter V — Prevention of Deterioration and Damage
+
+#### Compulsory acquisition of listed building in need of repair
+
+##### 42 Compulsory acquisition of listed building in need of repair.
+
+(1) If it appears to the Secretary of State that reasonable steps are not being taken for properly preserving a listed building, he—
+
+(a) may authorise the planning authority for the district in which the building is situated to acquire compulsorily under this section the building and any relevant land, or
+
+(b) may himself compulsorily acquire them under this section.
+
+(2) The Secretary of State shall not make or confirm a compulsory purchase order for the acquisition of any building by virtue of this section unless he is satisfied that it is expedient to make provision for the preservation of the building and to authorise its compulsory acquisition for that purpose.
+
+(3) The [^M3]Acquisition of Land (Authorisation Procedure) (Scotland) Act 1947 shall apply to the compulsory acquisition of land under this section and accordingly shall have effect—
+
+(a) as if this section had been in force immediately before the commencement of that Act, and
+
+(b) as if references in it to the Minister of Transport and to the enactments specified in section 1(1)(b) of that Act included respectively references to the Secretary of State and to this section.
+
+(4) Any person having an interest in a building which it is proposed to acquire compulsorily under this section may, within 28 days after the service of the notice required to be served under paragraph 3(b) of Schedule 1 to that Act of 1947, apply to the sheriff for an order prohibiting further proceedings on the compulsory purchase order.
+
+(5) If on an application under subsection (4) the sheriff is satisfied that reasonable steps have been taken for properly preserving the building, he shall make an order accordingly.
+
+(6) Any person aggrieved by the decision of the sheriff on an application under subsection (4) may appeal against the decision to the Court of Session, but only on a question of law.
+
+[[^F74](6A) This section does not permit the acquisition of any interest in Crown land unless—
+
+(a) it is an interest which is for the time being held otherwise than by or on behalf of the Crown, and
+
+(b) the appropriate authority consents to the acquisition.]
+
+(7) In this section “relevant land”, in relation to any building, means the land comprising or contiguous or adjacent to it which appears to the Secretary of State to be required for preserving the building or its amenities, or for affording access to it, or for its proper control or management.
+
+##### 43 Repairs notice as preliminary to acquisition under section 42.
+
+(1) The compulsory purchase of a building under section 42 shall not be started by the planning authority or by the Secretary of State unless at least 2 months previously the authority or, as the case may be, the Secretary of State has served on the owner of the building a notice under this section (in this section referred to as a “repairs notice”)—
+
+(a) specifying the works which the authority or, as the case may be, the Secretary of State considers reasonably necessary for the proper preservation of the building, and
+
+(b) explaining the effect of sections 42 to 45,
+
+and the repairs notice has not been withdrawn.
+
+(2) Where—
+
+(a) a building is demolished after a repairs notice has been served in respect of it by a planning authority or the Secretary of State, but
+
+(b) the Secretary of State is satisfied that he would have confirmed or, as the case may be, would have made a compulsory purchase order in respect of the building had it not been demolished,
+
+the demolition of the building shall not prevent the authority or the Secretary of State from being authorised under section 42 to acquire compulsorily the site of the building.
+
+(3) A planning authority or the Secretary of State may at any time withdraw a repairs notice served by them or him on any person and shall, in that event, immediately give him notice of the withdrawal.
+
+(4) Where a repairs notice has been served on a person in respect of a building, he shall not be entitled to serve a listed building purchase notice in respect of it until the expiration of 3 months beginning with the date of the service of the repairs notice or, if during that period the compulsory acquisition of the building is begun under section 42, unless and until the compulsory acquisition is discontinued.
+
+(5) For the purposes of this section a compulsory acquisition—
+
+(a) is started when the planning authority or the Secretary of State, as the case may be, serves the notice required by paragraph 3(b) of Schedule 1 to the [^M4]Acquisition of Land (Authorisation Procedure) (Scotland) Act 1947, and
+
+(b) is discontinued—
+
+(i) in the case of acquisition by the Secretary of State, when he decides not to make the compulsory purchase order, and
+
+(ii) in any other case, where the order is withdrawn or the Secretary of State decides not to confirm it.
+
+##### 44 Compensation on compulsory acquisition of listed building.
+
+Subject to section 45, for the purpose of assessing compensation in respect of any compulsory acquisition of land including a building which immediately before the date of the compulsory purchase order was listed, it shall be assumed that listed building consent would be granted—
+
+(a) for any works for the alteration or extension of the building, or
+
+(b) for the demolition of the building for the purpose of development of any class specified in Schedule 11 to the principal Act (development not constituting new development).
+
+##### 45 Minimum compensation in case of listed building deliberately left derelict.
+
+(1) If a planning authority—
+
+(a) propose to acquire a building compulsorily under section 42, and
+
+(b) are satisfied that the building has been deliberately allowed to fall into disrepair for the purpose of justifying its demolition and the development or redevelopment of the site or any adjoining site,
+
+they may make a direction for minimum compensation.
+
+(2) Subject to the provisions of this section, if the Secretary of State acquires a building compulsorily under section 42 he may, if he is satisfied as mentioned in subsection (1)(b), include a direction for minimum compensation in the compulsory purchase order.
+
+(3) Without prejudice to so much of paragraph 3(b) of Schedule 1 to the [^M5]Acquisition of Land (Authorisation Procedure) (Scotland) Act 1947 (notices stating effect of compulsory purchase order or, as the case may be, draft order) as requires the notice to state the effect of the order, the notice required to be served in accordance with that provision shall—
+
+(a) include a statement that the authority have made a direction for minimum compensation or, as the case may be, that the Secretary of State has included such a direction in the draft order prepared by him in accordance with paragraph 7 of that Schedule, and
+
+(b) explain the meaning of the expression “direction for minimum compensation”.
+
+(4) A direction for minimum compensation in relation to a building compulsorily acquired is a direction that for the purpose of assessing compensation it is to be assumed, notwithstanding anything to the contrary in the [^M6]Land Compensation (Scotland) Act 1963, the principal Act or this Act—
+
+(a) that planning permission would not be granted for any development or redevelopment of the site of the building, and
+
+(b) that listed building consent would not be granted for any works for the demolition, alteration or extension of the building other than development or works necessary for restoring it to, and maintaining it in, a proper state of repair.
+
+(5) If—
+
+(a) a planning authority have made a direction for minimum compensation and the Secretary of State confirms the compulsory purchase order relating to the acquisition of the building in question, or
+
+(b) the Secretary of State, under subsection (2) above, includes such a direction in a compulsory purchase order made by him,
+
+the compensation in respect of the compulsory acquisition shall be assessed in accordance with the direction.
+
+(6) Where a planning authority make a direction for minimum compensation, or the Secretary of State includes such a direction in a draft compulsory purchase order prepared by him, any person having an interest in the building may, within 28 days after the service of the notice mentioned in subsection (3), apply to the sheriff for an order that the planning authority’s direction for minimum compensation be reversed or, as the case may be, that such a direction be not included in the compulsory purchase order as made by the Secretary of State.
+
+(7) If the sheriff is satisfied that the building has not been deliberately allowed to fall into disrepair for the purpose mentioned in subsection (1), he shall make the order applied for.
+
+(8) A person aggrieved by the decision of the sheriff on an application under subsection (6) may appeal against the decision to the Court of Session, but only on a question of law.
+
+(9) The rights conferred by subsections (6) and (8) shall not prejudice those conferred by section 42(4) and (6).
+
+##### 46 Ending of rights over land compulsorily acquired.
+
+(1) Subject to the provisions of this section, upon the completion by the acquiring authority of a compulsory acquisition of land under section 42—
+
+(a) all private rights of way and rights of laying down, erecting, continuing or maintaining any apparatus on, under or over the land and all other rights or servitudes in or relating to that land shall be extinguished, and
+
+(b) any such apparatus shall vest in the acquiring authority.
+
+(2) Subsection (1) shall not apply to—
+
+(a) any right vested in, or apparatus belonging to, statutory undertakers for the purpose of the carrying on of their undertaking,
+
+(b) any right conferred by or in accordance with [[^F75]the electronic communications code] on the operator of [[^F76]an electronic communications code network] , or
+
+(c) any [[^F77]electronic communications apparatus] kept installed for the purposes of any [[^F78]such network] .
+
+(3) In respect of any right or apparatus not falling within subsection (2), subsection (1) shall have effect subject to—
+
+(a) any direction given by the acquiring authority before the completion of the acquisition that subsection (1) shall not apply to any right or apparatus specified in the direction, and
+
+(b) any agreement which may be made (whether before or after the completion of the acquisition) between the acquiring authority and the person in or to whom the right or apparatus in question is vested or belongs.
+
+(4) Any person who suffers loss by the extinguishment of a right or servitude or the vesting of any apparatus under this section shall be entitled to compensation from the acquiring authority.
+
+(5) Any compensation payable under this section shall be determined in accordance with the [^M7]Land Compensation (Scotland) Act 1963.
+
+#### Acquisition by agreement
+
+##### 47 Acquisition of land by agreement.
+
+(1) A planning authority may acquire by agreement—
+
+(a) any building appearing to them to be of special architectural or historic interest, and
+
+(b) any land comprising or contiguous or adjacent to such a building which appears to them to be required—
+
+(i) for preserving the building or its amenities,
+
+(ii) for affording access to it, or
+
+(iii) for its proper control or management.
+
+(2) The enactments mentioned in subsection (3) shall apply in relation to the acquisition of land under subsection (1).
+
+(3) Those enactments are—
+
+(a) the Lands Clauses Acts (except the provisions relating to the purchase of land otherwise than by agreement and the provisions relating to access to the special Act, and except sections 120 to 125 of the [^M8]Lands Clauses Consolidation (Scotland) Act 1845), and
+
+(b) sections 6 and 70 of the [^M9]Railways Clauses Consolidation (Scotland) Act 1845, and sections 71 to 78 of that Act, as originally enacted and not as amended for certain purposes by section 15 of the [^M10]Mines (Working Facilities and Support) Act 1923.
+
+(4) For the purposes of the application of those enactments—
+
+(a) this section shall be deemed to be the special Act, and
+
+(b) references to the promoters of the undertaking or to the company shall be construed as references to the authority authorised to acquire the land under this section.
+
+#### Management of acquired buildings
+
+##### 48 Management of listed buildings acquired under this Act.
+
+(1) Where a planning authority acquire any building or other land under section 42(1) or 47(1)(a) or (b), they may make such arrangements as to its management, use or disposal as they consider appropriate for the purpose of its preservation.
+
+(2) Where the Secretary of State acquires any building or other land under section 42(1), he may—
+
+(a) make such arrangements as he thinks fit as to the management, custody or use of the building or land, and
+
+(b) dispose of or otherwise deal with any such building or land as he may from time to time determine.
+
+#### Urgent preservation
+
+##### 49 Urgent works to preserve unoccupied listed buildings.
+
+(1) A planning authority may execute any works which appear to them to be urgently necessary for the preservation of a listed building in their district.
+
+(2) The Secretary of State may execute any works which appear to him to be urgently necessary for the preservation of a listed building.
+
+(3) The works which may be executed under this section may consist of or include works for affording temporary support or shelter for the building [[^F79]and preventative works necessary to limit any deterioration of the building] .
+
+(4) If the building is occupied works may be carried out only to those parts which are not in use.
+
+(5) The owner of the building shall be given not less than 7 days’ notice in writing of the intention to carry out the works.
+
+(6) The notice shall describe the works proposed to be carried out.
+
+##### 50 Recovery of expenses of works under section 49.
+
+(1) This section has effect for enabling the expenses of works executed under section 49 to be recovered.
+
+(2) The planning authority or, as the case may be, the Secretary of State may give notice to the owner of the building requiring him to pay the expenses of the works.
+
+(3) Where the works consist of or include works for affording temporary support or shelter for the building—
+
+(a) the expenses which may be recovered include any continuing expenses involved in making available the apparatus or materials used, and
+
+(b) notices under subsection (2) in respect of any such continuing expenses may be given from time to time.
+
+(4) The owner may within 28 days of the service of the notice represent to the Secretary of State—
+
+(a) that some or all of the works were unnecessary for the preservation of the building,
+
+(b) in the case of works for affording temporary support or shelter, that the temporary arrangements have continued for an unreasonable length of time, or
+
+(c) that the amount specified in the notice is unreasonable or that the recovery of it would cause him hardship,
+
+and the Secretary of State shall determine to what extent the representations are justified.
+
+(5) The Secretary of State shall give notice of his determination, the reasons for it and the amount recoverable—
+
+(a) to the owner of the building, and
+
+(b) to the planning authority, if they carried out the works.
+
+[[^F80](6) Where a person to whom notice has been given under subsection (2) ceases, during the 28 day period mentioned in subsection (4), to be the owner of the building, a person may within 28 days of becoming the new owner of the building represent to the Scottish Ministers a matter mentioned in any of paragraphs (a) to (c) of subsection (4); and the Scottish Ministers shall determine to what extent the representations are justified.
+
+(7) Subsection (5) applies to a determination under subsection (6) as it applies to a determination under subsection (4).]
+
+#### [[^F81]Liability of owner and successors for expenses of works executed under section 49
+
+##### 50A Liability of owner and successors for expenses of works executed under section 49
+
+(1) An owner of a listed building who is liable for expenses under section 50(2) does not, by virtue only of ceasing to be such an owner, cease to be liable for those expenses.
+
+(2) Subject to subsection (3), where a person becomes an owner of a listed building (any such person being referred to in this section as a “new owner”) that person is severally liable with any former owner of the building for any expenses for which the former owner is liable under section 50(2).
+
+(3) A new owner is liable as mentioned in subsection (2) only if the condition mentioned in subsection (4) or subsection (5) is met.
+
+(4) The condition is that—
+
+(a) a notice (a “notice of liability for expenses”) in the form prescribed under section 50G is registered in relation to the building,
+
+(b) the notice was registered at least 14 days before the acquisition date, and
+
+(c) the notice has not expired before the acquisition date.
+
+(5) The condition is that—
+
+(a) a notice of renewal (within the meaning of section 50C) in relation to the building is registered, and
+
+(b) that notice has not expired before the acquisition date
+
+(6) A notice of liability for expenses is to specify—
+
+(a) the expenses mentioned in subsection (2), and
+
+(b) the works to which the expenses relate.
+
+(7) In this section, “acquisition date” means the date on which the new owner acquired right to the listed building.
+
+(8) Where a new owner of a listed building pays any expenses for which a former owner of the building is liable, the new owner may recover the amount so paid from the former owner.
+
+(9) A person who is entitled to recover an amount under subsection (8) does not, by virtue only of ceasing to be the owner of the listed building, cease to be entitled to recover that amount.
+
+(10) This section applies as respects any expenses for which an owner of a listed building becomes liable on or after the day on which this section comes into force.
+
+##### 50B Notice of liability for expenses: further provision
+
+(1) A notice of liability for expenses—
+
+(a) may be registered only on the application of the Scottish Ministers or a planning authority,
+
+(b) may be registered in respect of expenses of different works executed on a listed building,
+
+(c) expires at the end of the period of 5 years beginning with the date of its registration.
+
+(2) The Keeper of the Registers of Scotland is not required to investigate or determine whether the information contained in any notice of liability for expenses submitted for registration is accurate.
+
+##### 50C Notices of renewal
+
+(1) Subsection (2) applies where—
+
+(a) a notice of liability for expenses in relation to a listed building is registered, and
+
+(b) that notice has not expired.
+
+(2) A notice (a “notice of renewal”) in the form prescribed by section 50G specifying the same expenses and works as those specified in the notice of liability for expenses may be registered.
+
+(3) A second or subsequent notice of renewal in respect of the same expenses and works specified in the notice of liability for expenses mentioned in subsection (1) may be registered.
+
+(4) A second or subsequent notice of renewal may not be registered if an earlier notice of renewal has expired.
+
+(5) Where the notice of liability for expenses mentioned in subsection (1) was registered on the application of—
+
+(a) the Scottish Ministers, a notice of renewal may be registered only on the application of the Scottish Ministers,
+
+(b) a planning authority, a notice of renewal may be registered only on the application of that authority.
+
+(6) A notice of renewal expires at the end of the period of 5 years beginning with the date of its registration.
+
+(7) The Keeper of the Registers of Scotland is not required to investigate or determine whether the information contained in any notice of renewal submitted for registration is accurate.
+
+##### 50D Notice of determination following representations under section 50
+
+(1) Subsections (2) and (3) apply where—
+
+(a) a notice of liability for expenses (in this section, the “original notice”) in relation to a listed building, or a notice of renewal in relation to the original notice, is registered, and
+
+(b) the owner of the listed building has made representations to the Scottish Ministers under section 50(4) or (6).
+
+(2) Where the original notice was registered on the application of a planning authority, the authority must, as soon as reasonably practicable after the Scottish Ministers give notice of their determination under section 50(5), apply to register a notice (a “notice of determination”) in the form prescribed under section 50G.
+
+(3) Where the original notice was registered on the application of the Scottish Ministers, the Scottish Ministers must, as soon as reasonably practicable after making their determination under section 50(4) or (6), apply to register a notice of determination.
+
+(4) A notice of determination must specify the amount given by the Scottish Ministers as the amount recoverable in connection with a notice of determination under section 50(5).
+
+(5) Where the amount recoverable (“amount A”) is less than the amount specified as the expenses of the works in the original notice (“amount B”), amount B is, on registration of the notice of determination, to be treated as amount A.
+
+(6) The Keeper of the Registers of Scotland is not required to investigate or determine whether the information contained in any notice of determination submitted for registration is accurate.
+
+##### 50E Discharge of notice of liability for expenses and notice of renewal
+
+(1) Subsections (2) and (3) apply where—
+
+(a) a notice of liability for expenses (in this section, the “original notice”) in relation to a listed building, or a notice of renewal in relation to the original notice, is registered, and
+
+(b) any liability for expenses under section 50(2) to which the original notice relates has been fully discharged.
+
+(2) Where the original notice was registered on the application of a planning authority, the authority must apply to register a notice (a “notice of discharge”) in the form prescribed under section 50G stating that liability has been fully discharged.
+
+(3) Where the original notice was registered on the application of the Scottish Ministers, the Scottish Ministers must apply to register a notice of discharge.
+
+(4) On being registered, a notice of discharge—
+
+(a) discharges the notice of liability for expenses, or
+
+(b) where a notice of renewal in relation to the original notice is registered, discharges the notice of renewal.
+
+(5) The Keeper of the Registers of Scotland is not required to investigate or determine whether the information contained in any notice of discharge submitted for registration is accurate.
+
+##### 50F Meaning of “register” in relation to notices
+
+In relation to—
+
+(a) a notice of liability for expenses,
+
+(b) a notice of renewal,
+
+(c) a notice of determination,
+
+(d) a notice of discharge,
+
+“register” means register the information contained in the notice in question in the Land Register of Scotland or, as appropriate, record the notice in question in the Register of Sasines; and “registered” and other related expressions are to be construed accordingly.
+
+##### 50G Power to prescribe forms
+
+(1) The Scottish Ministers may prescribe—
+
+(a) the form of the notices mentioned in subsection (2), and
+
+(b) the information to be contained in such notices (in addition to any required to be contained in them by virtue of any other provision of this Act).
+
+(2) The notices are—
+
+(a) a notice of liability for expenses,
+
+(b) a notice of renewal,
+
+(c) a notice of determination,
+
+(d) a notice of discharge.]
+
+#### Grants for repair and maintenance
+
+##### 51 Power of local authority to contribute to preservation of listed buildings etc.
+
+(1) A local authority may contribute towards the expenses incurred or to be incurred in the repair or maintenance—
+
+(a) of a listed building which is situated in or in the vicinity of their area, or
+
+(b) of a building in their area which is not listed but appears to them to be of architectural or historic interest.
+
+(2) At the time of making such a contribution the local authority may also contribute towards the expenses incurred, or to be incurred, in the upkeep of any garden occupied with the building and contiguous or adjacent to it.
+
+(3) A contribution under this section may be made by grant or loan.
+
+(4) A contribution by way of loan may be made upon such terms and conditions as the local authority may determine including (but without prejudice to the foregoing) a term that the loan shall be free of interest.
+
+(5) A local authority—
+
+(a) may renounce their right to repayment of such a loan or any interest for the time being outstanding, and
+
+(b) by agreement with the borrower may otherwise vary any of the terms and conditions on which such a loan is made.
+
+[[^F82](5A) A contribution under this section by way of grant may be made subject to such conditions as the local authority may determine.]
+
+(6) [[^F83]Without prejudice to the generality of subsection (5A),] a local authority may require as a condition of the making by them of a contribution under this section by way of grant towards the expenses of the repair or maintenance or upkeep of any property that the person to whom the grant is made shall enter into an agreement with them for the purpose of enabling the public to have access to the property or part of it during such period and at such times as the agreement may provide.
+
+##### 52 Recovery of grants under section 51.
+
+(1) [[^F84]Subject to subsection (1A),] if, during the period of 3 years beginning with the day on which a grant is made under section 51 towards the repair or maintenance or upkeep of any property (“the grant property”), the grantee disposes of the interest held by him in the property on that day or any part of that interest, by way of sale or excambion or lease for a term of not less than 21 years, the local authority may recover the amount of the grant, or such part of it as they think fit, from the grantee.
+
+[[^F85](1A) Where a condition imposed on the making of a grant to which this section applies specifies, or makes provision for calculating, the amount recoverable in the event of a disposal by the grantee of that interest, that amount is the amount recoverable under subsection (1) in respect of the disposal.]
+
+(2) If the grantee gives the whole of that interest to any person (whether directly or indirectly, but otherwise than by will) subsection (1) shall have effect as if the donee were the grantee.
+
+(3) If the grantee gives part of that interest to any person (whether directly or indirectly, but otherwise than by will) subsection (1) shall have effect as if any disposal or part disposal of that interest by the donee were a disposal by the grantee.
+
+(4) [[^F86]Subject to subsection (4A),] if any condition imposed on the making of a grant to which this section applies is contravened or not complied with, the local authority may recover the amount of the grant, or such part of it as they think fit, from the grantee.
+
+[[^F87](4A) Where a condition referred to in subsection (4) specifies, or makes provision for calculating, the amount recoverable in the event of a condition being contravened or not complied with, that amount is the amount recoverable under subsection (4) in respect of the contravention or failure to comply with the condition.]
+
+(5) Nothing in this section entitles a local authority to recover amounts in the aggregate exceeding the amount of the grant (for example by virtue of a breach of more than one condition or disposals of several parts of an interest in the grant property).
+
+#### Damage to listed buildings
+
+##### 53 Acts causing or likely to result in damage to listed buildings.
+
+(1) If, with the intention of causing damage to a listed building, any relevant person does or permits the doing of any act which causes or is likely to result in damage to the building, he shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+(2) A person is a relevant person for the purpose of subsection (1) if apart from that subsection he would be entitled to do or permit the act in question.
+
+(3) Subsection (1) does not apply to an act for the execution of works—
+
+(a) authorised by planning permission granted or deemed to be granted in pursuance of an application under the principal Act, or
+
+(b) for which listed building consent has been given under this Act.
+
+(4) If a person convicted of an offence under this section fails to take such reasonable steps as may be necessary to prevent any damage or further damage resulting from the offence, he shall be guilty of a further offence and liable on summary conviction to a fine not exceeding one-tenth of level 3 on the standard scale for each day on which the failure continues.
+
+### Chapter VI — Miscellaneous and Supplemental
+
+#### Exceptions for church buildings and ancient monuments
+
+##### 54 Exceptions for ecclesiastical buildings.
+
+(1) The provisions mentioned in subsection (2) shall not apply to any ecclesiastical building which is for the time being used for ecclesiastical purposes.
+
+(2) Those provisions are sections 3, 4, 6 to 8, 42, 49 and 53.
+
+(3) For the purposes of subsection (1), a building used or available for use by a minister of religion wholly or mainly as a residence from which to perform the duties of his office shall be treated as not being an ecclesiastical building.
+
+(4) For the purposes of sections 6 to 8 a building shall be taken to be used for the time being for ecclesiastical purposes if it would be so used but for the works in question.
+
+(5) The Secretary of State may by order provide for restricting or excluding the operation of subsections (1) to (3) in such cases as may be specified in the order.
+
+(6) An order under subsection (5) may—
+
+(a) make provision for buildings generally, for descriptions of building or for particular buildings;
+
+(b) make different provision for buildings in different areas, for buildings of different religious faiths or denominations or according to the use made of the building;
+
+(c) make such provision in relation to a part of a building (including, in particular, an object or structure falling to be treated as part of the building by virtue of section 1(4)) as may be made in relation to a building and make different provision for different parts of the same building;
+
+(d) make different provision with respect to works of different descriptions or according to the extent of the works;
+
+(e) make such consequential adaptations or modifications of the operation of any other provision of this Act or the principal Act, or of any instrument made under either of those Acts, as appear to the Secretary of State to be appropriate.
+
+(7) Subsections (5) and (6) are without prejudice to the [^M11]Church of Scotland Act 1921.
+
+##### 55 Exceptions for ancient monuments etc.
+
+(1) The provisions mentioned in subsection (2) shall not apply to any building for the time being included in the Schedule of monuments compiled and maintained under section 1 of the [^M12]Ancient Monuments and Archaeological Areas Act 1979.
+
+(2) Those provisions are sections 3, 4, 6 to 8, 42, 49 and 53.
+
+#### Local authority notices and works affecting listed buildings
+
+##### 56 Intimation of local authority notices etc. affecting listed buildings.
+
+(1) Where, as respects a listed building owned, leased or occupied by a local authority, the authority—
+
+(a) have, under or by virtue of any enactment, served a notice requiring any person to show why the building should not conform to the building regulations,
+
+(b) have, under or by virtue of any enactment, served a notice or made an order requiring the demolition of, or the carrying out of works affecting, the building, or
+
+(c) propose (whether under or by virtue of any enactment or otherwise) to carry out emergency works or demolitions affecting the building,
+
+they shall forthwith give written intimation of the notice, order or proposal to the Secretary of State.
+
+(2) Where the safety of the public requires that any demolition or works be carried out without such delay as would result from compliance with subsection (1), the intimation (which may, in such a case, initially be oral) shall be given as long before the commencement of the demolition or works as is consistent with that requirement.
+
+#### Validity of instruments, decisions and proceedings
+
+##### 57 Validity of certain orders and decisions.
+
+(1) Except as provided by section 58, the validity of—
+
+(a) any order under section 21, whether before or after it has been confirmed,
+
+(b) any order under section 24, or
+
+(c) any such decision on the part of the Secretary of State as is mentioned in subsection (2),
+
+shall not be questioned in any legal proceedings whatsoever.
+
+(2) Those decisions are—
+
+[[^F88](za) any decision of the Scottish Ministers on an appeal under section 5B,]
+
+(a) any decision on an application referred to the Secretary of State under section 11 or on an appeal under section 18,
+
+(b) any decision of the Secretary of State to confirm or not to confirm a listed building purchase notice including—
+
+(i) any decision not to confirm such a notice in respect of part of the land to which it relates, and
+
+(ii) any decision to grant any consent, or give any direction, in lieu of confirming such a notice, either wholly or in part, and
+
+(c) any decision of the Secretary of State on an appeal under section 35.
+
+[[^F89](d) any decision on an application for listed building consent under section 73B.]
+
+(3) Nothing in this section shall affect the exercise of any jurisdiction of any court in respect of any refusal or failure on the part of the Secretary of State to take any such action as is mentioned in subsection (2).
+
+##### 58 Proceedings for questioning validity of other orders, decisions and directions.
+
+(1) If any person is aggrieved by any such order or decision as is mentioned in section 57(1) and wishes to question its validity on the grounds—
+
+(a) that it is not within the powers of this Act, or
+
+(b) that any of the relevant requirements have not been complied with in relation to it,
+
+he may make an application to the Court of Session under this section.
+
+(2) Without prejudice to subsection (1), if the authority directly concerned with any such order or decision wish to question its validity on any of those grounds, the authority may make an application to the Court of Session under this section.
+
+(3) An application under this section must be made within 6 weeks from the date on which the order is confirmed (or, in the case of an order under section 21 which takes effect under section 23 without confirmation, the date on which it takes effect) or, as the case may be, the date on which the decision is made.
+
+(4) On any application under this section the Court of Session—
+
+(a) may by interim order suspend the operation of the order or decision the validity of which is questioned by the application, until the final determination of the proceedings, and
+
+(b) if satisfied—
+
+(i) that the order or decision is not within the powers of this Act, or
+
+(ii) that the interests of the applicant have been substantially prejudiced by a failure to comply with any of the relevant requirements in relation to it,
+
+may quash that order or decision.
+
+(5) References in this section to the confirmation of an order include the confirmation of an order subject to modifications as well as the confirmation of an order in the form in which it was made.
+
+(6) In this section “the relevant requirements”, in relation to any order or decision, means any requirements of this Act or of the [^M13]Tribunals and Inquiries Act 1992, or of any order, regulations or rules made under either of those Acts, which are applicable to that order or decision.
+
+(7) For the purposes of subsection (2) the authority directly concerned with any order or decision is—
+
+(a) the planning authority, and
+
+(b) in relation to any such decision as is mentioned in section 57(2)(b) where the Secretary of State has modified the notice wholly or in part by substituting another planning authority or statutory undertakers for the planning authority, also that authority or those statutory undertakers.
+
+#### Special considerations affecting planning functions
+
+##### 59 General duty as respects listed buildings in exercise of planning functions.
+
+(1) In considering whether to grant planning permission for development which affects a listed building or its setting, a planning authority or the Secretary of State, as the case may be, shall have special regard to the desirability of preserving the building or its setting or any features of special architectural or historic interest which it possesses.
+
+(2) Without prejudice to section 64, in the exercise of the powers of disposal and development conferred by the provisions of sections 191 and 193 of the principal Act, a planning authority shall have regard to the desirability of preserving features of special architectural or historic interest and, in particular, listed buildings.
+
+(3) In this section, “preserving”, in relation to a building, means preserving it either in its existing state or subject only to such alterations or extensions as can be carried out without serious detriment to its character, and “development” includes redevelopment.
+
+##### 60 Publicity for applications affecting setting of listed buildings.
+
+(1) This section applies where an application for planning permission for any development of land is made to a planning authority and the development would, in the opinion of the authority, affect the setting of a listed building.
+
+(2) The planning authority shall—
+
+(a) publish in a local newspaper circulating in the locality in which the land is situated, and
+
+(b) for not less than 7 days display on or near the land,
+
+a notice indicating the nature of the development in question and naming a place within the locality where a copy of the application, and of all plans and other documents submitted with it, will be open to inspection by the public at all reasonable hours during the period of 21 days beginning with the date of publication of the notice under paragraph (a).
+
+(3) The application shall not be determined by the planning authority before both the following periods have elapsed, namely—
+
+(a) the period of 21 days referred to in subsection (2), and
+
+(b) the period of 21 days beginning with the date on which the notice required by that subsection to be displayed was first displayed.
+
+(4) In determining any application for planning permission to which this section applies, the planning authority shall take into account any representations relating to the application which are received by them before the periods mentioned in subsection (3) have elapsed.
+
+(5) In this section references to planning permission do not include references to planning permission falling within section 33(1) of the principal Act.
+
+## Part II — Conservation Areas
+
+### Designation
+
+#### 61 Designation of conservation areas.
+
+(1) Every planning authority shall—
+
+(a) from time to time determine which parts of their district are areas of special architectural or historic interest the character or appearance of which it is desirable to preserve or enhance, and
+
+(b) designate such areas as conservation areas.
+
+(2) [[^F90]Historic Environment Scotland] may from time to time, after consultation with a planning authority, determine that any part of the authority’s district which is not for the time being designated as a conservation area is an area of special architectural or historic interest the character or appearance of which it is desirable to preserve or enhance; and, if [[^F91]Historic Environment Scotland so determines, it] may designate that part as a conservation area.
+
+#### 62 Designation of conservation areas: supplementary provisions.
+
+(1) A planning authority shall give notice to the Secretary of State [[^F92]and Historic Environment Scotland] of the designation of any part of their district as a conservation area under section 61(1), and of any variation or cancellation of any such designation.
+
+[[^F93](2) Historic Environment Scotland must—
+
+(a) give notice to a planning authority of—
+
+(i) the designation of any part of their district as a conservation area under section 61(2), and
+
+(ii) any variation or cancellation of any such designation,
+
+(b) give notice to the Scottish Ministers of the designation and of any such variation or cancellation.]
+
+(3) A notice under subsection (1) or (2) shall contain sufficient particulars to identify the area affected.
+
+(4) Notice of any such designation, variation or cancellation, with particulars of its effect, shall be published in the Edinburgh Gazette and in at least one newspaper circulating in the district of the planning authority by that authority or, as the case may be, [[^F94]Historic Environment Scotland] .
+
+(5) Every planning authority shall compile and keep available for public inspection free of charge at reasonable hours and at a convenient place a list containing such particulars as [[^F95]Historic Environment Scotland] may determine of any part of their district which has been designated as a conservation area.
+
+### General duties of planning authorities
+
+#### 63 Proposals for preservation and enhancement of conservation areas.
+
+(1) It shall be the duty of a planning authority to formulate and publish, from time to time, proposals for the preservation and enhancement of any parts of their district which are conservation areas.
+
+(2) Proposals under this section shall be submitted for consideration to a public meeting in the area to which they relate.
+
+(3) The planning authority shall have regard to any views concerning the proposals expressed by persons attending the meeting.
+
+#### 64 General duty as respects conservation areas in exercise of planning functions.
+
+(1) In the exercise, with respect to any buildings or other land in a conservation area, of any powers under any of the provisions in subsection (2), special attention shall be paid to the desirability of preserving or enhancing the character or appearance of that area.
+
+(2) Those provisions are—
+
+(a) the planning Acts, and
+
+(b) Part I of the [^M14]Historic Buildings and Ancient Monuments Act 1953.
+
+#### 65 Publicity for applications affecting conservation areas.
+
+(1) This section applies where an application for planning permission for any development of land is made to a planning authority and the development would, in the opinion of the authority, affect the character or appearance of a conservation area.
+
+(2) The planning authority shall—
+
+(a) publish in a local newspaper circulating in the locality in which the land is situated, and
+
+(b) for not less than 7 days display on or near the land,
+
+a notice indicating the nature of the development in question and naming a place within the locality where a copy of the application, and of all plans and other documents submitted with it, will be open to inspection by the public at all reasonable hours during the period of 21 days beginning with the date of publication of the notice under paragraph (a).
+
+(3) The application shall not be determined by the planning authority before both the following periods have elapsed, namely—
+
+(a) the period of 21 days referred to in subsection (2), and
+
+(b) the period of 21 days beginning with the date on which the notice required by that subsection to be displayed was first displayed.
+
+(4) In determining any application for planning permission to which this section applies, the planning authority shall take into account any representations relating to the application which are received by them before the periods mentioned in subsection (3) have elapsed.
+
+(5) In this section references to planning permission do not include references to planning permission falling within section 33(1) of the principal Act.
+
+### Control of demolition
+
+#### 66 Control of demolition in conservation areas.
+
+(1) A building in a conservation area shall not be demolished without the consent of the appropriate authority (in this Act referred to as “conservation area consent”).
+
+(2) The appropriate authority for the purposes of this section is—
+
+[[^F96](a) the planning authority, or
+
+(b) the Scottish Ministers.]
+
+(3) The following provisions of this Act, namely—
+
+- sections 6 to 25,
+- sections 28 to [[^F97]41I] ,
+- sections 56 to 58,
+- section 59(1),
+- section 73(2) to (4), [[^F98]section 73B and section 73D,]
+- section 74(1)(b), (3) and (4), and
+- section 80(2),
+
+shall have effect in relation to buildings in conservation areas as they have effect in relation to listed buildings subject to such exceptions and modifications as may be prescribed by regulations.
+
+(4) Any such regulations may make different provision in relation to—
+
+(a) applications made by planning authorities, and
+
+(b) other applications.
+
+#### 67 Cases in which section 66 does not apply.
+
+(1) Section 66 does not apply to—
+
+(a) listed buildings,
+
+(b) ecclesiastical buildings which are for the time being used for ecclesiastical purposes,
+
+(c) buildings for the time being included in the Schedule of monuments compiled and maintained under section 1 of the [^M15]Ancient Monuments and Archaeological Areas Act 1979, or
+
+(d) buildings in relation to which a direction under subsection (2) is for the time being in force.
+
+(2) The Secretary of State may direct that section 66 shall not apply to any description of buildings specified in the direction.
+
+(3) A direction under subsection (2) may be given either to an individual planning authority or to planning authorities generally.
+
+(4) The Secretary of State may vary or revoke a direction under subsection (2) by a further direction under that subsection.
+
+(5) For the purposes of subsection (1)(b), a building used or available for use by a minister of religion wholly or mainly as a residence from which to perform the duties of his office shall be treated as not being an ecclesiastical building.
+
+(6) For the purposes of sections 6 to 8 as they apply by virtue of section 66(3) a building shall be taken to be used for the time being for ecclesiastical purposes if it would be so used but for the works in question.
+
+(7) The Secretary of State may by order provide for restricting or excluding the operation of subsection (1)(b) in such cases as may be specified in the order.
+
+(8) An order under subsection (7) may—
+
+(a) make provision for buildings generally, for descriptions of building or for particular buildings;
+
+(b) make different provision for buildings in different areas, for buildings of different religious faiths or denominations or according to the use made of the building;
+
+(c) make such provision in relation to a part of a building (including, in particular, an object or structure falling to be treated as part of the building by virtue of section 1(4)) as may be made in relation to a building and make different provision for different parts of the same building;
+
+(d) make different provision with respect to works of different descriptions or according to the extent of the works;
+
+(e) make such consequential adaptations or modifications of the operation of any other provision of this Act or the principal Act, or of any instrument made under either of those Acts, as appear to the Secretary of State to be appropriate.
+
+(9) Subsections (7) and (8) are without prejudice to the [^M16]Church of Scotland Act 1921.
+
+(10) Any proceedings on or arising out of an application for conservation area consent made while section 66 applies to a building shall lapse when it ceases to apply to it, and any such consent granted with respect to the building shall also lapse.
+
+(11) The fact that that section has ceased to apply to a building shall not affect the liability of any person to be prosecuted and punished for an offence under section 8 or 39 committed with respect to the building while that section did apply to it.
+
+#### 68 Urgent works to preserve unoccupied buildings in conservation areas.
+
+If it appears to the Secretary of State that the preservation of a building in a conservation area is important for maintaining the character or appearance of that area, he may direct that section 49 shall apply to it as it applies to listed buildings.
+
+### Grants
+
+#### 69 Grants and loans for preservation or enhancement of conservation areas.
+
+(1) [[^F99]The Scottish Ministers] may make grants or loans for the purpose of defraying in whole or in part any expenditure incurred or to be incurred in or in connection with, or with a view to the promotion of, the preservation or enhancement of the character or appearance of [[^F100]a conservation area or any part of a conservation area] .
+
+(2) A grant or loan under this section may be made subject to such conditions as the Secretary of State may think fit to impose.
+
+(3) Any loan under this section shall be made on such terms as to repayment, payment of interest and otherwise as the Secretary of State may [^F101]. . . determine.
+
+[^F102]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F102]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F102]6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 70 Recovery of grants under section 69.
+
+(1) This section applies to any grant under section 69 made on terms that it shall be recoverable under this section.
+
+(2) A grant shall be regarded as made on those terms only if before or on making the grant the Secretary of State gives to the grantee notice in writing—
+
+(a) summarising the effect of this section, and
+
+(b) if the grant is made for the purpose of defraying the whole or part of expenditure in relation to any particular property (“the grant property”), specifying the recovery period.
+
+(3) In this section “the recovery period” means the period, beginning with the day on which the grant is made and ending not more than 10 years after that day, during which the grant is recoverable in accordance with subsection (4).
+
+(4) [[^F103]Subject to subsection (4A),] if during the recovery period the grantee disposes of the interest which was held by him in the grant property on the day on which the grant was made or any part of that interest by way of sale or excambion or lease for a term of not less than 21 years, the Secretary of State may recover the amount of the grant, or such part of it as he thinks fit, from the grantee.
+
+[[^F104](4A) Where a condition imposed on the making of a grant to which this section applies specifies, or makes provision for calculating, the amount recoverable in the event of a disposal by the grantee of that interest, that amount is the amount recoverable under subsection (4) in respect of the disposal.]
+
+(5) If the grantee gives the whole of that interest to any person (whether directly or indirectly, but otherwise than by will) subsection (4) shall have effect as if the donee were the grantee.
+
+(6) If the grantee gives part of that interest to any person (whether directly or indirectly but otherwise than by will) subsection (4) shall have effect as if any disposal or part disposal of that interest by the donee were a disposal by the grantee.
+
+(7) [[^F105]Subject to subsection (7A),] if any condition imposed on the making of a grant to which this section applies is contravened or not complied with, the Secretary of State may recover the amount of the grant, or such part of it as he thinks fit, from the grantee.
+
+[[^F106](7A) Where a condition referred to in subsection (7) specifies, or makes provision for calculating, the amount recoverable in the event of a condition being contravened or not complied with, that amount is the amount recoverable under subsection (7) in respect of the contravention or failure to comply with the condition.]
+
+(8) Nothing in this section entitles the Secretary of State to recover amounts in the aggregate exceeding the amount of the grant (for example by virtue of a breach of more than one condition or disposals of several parts of an interest in the grant property).
+
+### Town schemes
+
+#### 71 Town scheme agreements.
+
+(1) The Secretary of State and a local authority may enter an agreement (in this Act referred to as a “town scheme agreement”) that a specified sum of money shall be set aside for a specified period of years for the purpose of making grants for the repair of the buildings which are—
+
+(a) included in a list compiled for the purposes of such an agreement by the Secretary of State and the authority, or
+
+(b) shown on a map prepared by them for those purposes.
+
+[^F107]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 72 Grants for repairing of buildings in town schemes.
+
+(1) The Secretary of State may make grants for the purpose of defraying the whole or part of any expenditure incurred or to be incurred in the repair of any building which—
+
+(a) is the subject of a town scheme agreement, and
+
+(b) is situated in a conservation area [^F108]....
+
+(2) A grant under this section may be made subject to conditions imposed by the Secretary of State for such purposes as he thinks fit.
+
+[^F109]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) The Secretary of State may—
+
+(a) pay any grant under this section to any authority which is a party to a town scheme agreement, and
+
+(b) make arrangements with any such authority for the way in which the agreement is to be carried out.
+
+(5) Those arrangements may include such arrangements for the offer and payment of grants under this section as the parties may agree.
+
+(6) Section 70(4) to (8) shall apply to a grant made under this section as it applies to a grant made under that section, but taking the recovery period to be 3 years beginning with the date on which the grant is made.
+
+## Part III — General
+
+### Special cases
+
+#### 73 Application of Act to land and works of planning authorities.
+
+(1) In relation to land of planning authorities, [[^F110]section 1(1) and (3)] shall have effect subject to such exceptions and modifications as may be prescribed by regulations.
+
+(2) The provisions mentioned in subsection (3) shall have effect for the purpose of applications by planning authorities relating to the execution of works for the demolition, alteration or extension of listed buildings, subject to such exceptions and modifications as may be prescribed by regulations.
+
+(3) Those provisions are—
+
+- section 1(2), (4) and (5),
+- sections 3 to 26,
+- sections 28 to 45,
+- sections 56 to 58,
+- section 59(1),
+- section 60(2)(b), (3) and (4),
+- section 65(2)(b), (3) and (4),
+- Schedules 1 and 2, and
+- sections 54(1) to (4) and 55 as they apply with respect to the foregoing provisions.
+
+(4) The regulations may in particular provide—
+
+(a) for the making of applications for listed building consent to the Secretary of State, and
+
+(b) for the service by him of notices under [^F111]... the provisions mentioned in subsection (3) of this section.
+
+#### 73A [[^F112]Application to the Crown
+
+(1) This Act (except the provisions specified in subsection (2)) binds the Crown.
+
+(2) These are the provisions—
+
+(a) section 8,
+
+(b) section 10(3),
+
+(c) section 19(7),
+
+(d) section 38(1) and (8),
+
+(e) section 39,
+
+[[^F113](ea) section 41E;
+
+(eb) section 41H;]
+
+(f) section 49,
+
+(g) section 50,
+
+[[^F114](ga) section 50A(2);]
+
+(h) section 53,
+
+(i) section 77.
+
+(3) But subsection (2)(a) does not have effect to prohibit the doing of anything by or on behalf of the Crown which falls within the circumstances described in section 8(3)(a) to (d) and the doing of that thing does not contravene section 6.]
+
+#### 73B [[^F115]Urgent works relating to Crown land: application
+
+(1) This section applies to any works proposed to be executed in connection with any building which is on Crown land if the appropriate authority certifies—
+
+(a) that the works are of national importance, and
+
+(b) that it is necessary that the works are carried out as a matter of urgency.
+
+(2) The appropriate authority may, instead of making an application for consent to the planning authority in accordance with this Act, make an application for consent to the Scottish Ministers under this section.
+
+(3) If the appropriate authority proposes to make the application to the Scottish Ministers it must publish in one or more newspapers circulating in the locality of the building a notice—
+
+(a) describing the proposed works, and
+
+(b) stating that the authority proposes to make the application to the Scottish Ministers.
+
+(4) For the purposes of an application under this section the appropriate authority must provide to the Scottish Ministers a statement of the authority’s grounds for making the application.
+
+(5) If the appropriate authority makes an application under this section subsections (6) to (11) below apply.
+
+(6) The Scottish Ministers may require the authority to provide them with such further information as they think necessary to enable them to determine the application.
+
+(7) As soon as practicable after they are provided with any document or other matter in pursuance of subsection (4) or (6) the Scottish Ministers must make a copy of the document or other matter available for inspection by the public in the locality of the proposed development.
+
+(8) The Scottish Ministers must in accordance with such requirements as may be prescribed publish notice of the application and of the fact that such documents and other material are available for inspection.
+
+(9) Subsection (7) above does not apply to the extent that the document or other matter is subject to any direction given under section 265A(3) of the principal Act.
+
+(10) The Scottish Ministers must consult—
+
+(a) the planning authority, and
+
+(b) such other persons as may be prescribed,
+
+about the application.
+
+(11) Subsections (4) and (5) of section 11 apply to an application under this section as they apply to an application in respect of which a direction under section 11 has effect.]
+
+#### 73C [[^F116]Expressions relating to the Crown
+
+(1) Expressions relating to the Crown must be construed in accordance with this section.
+
+(2) Crown land is land in which there is a Crown interest.
+
+(3) A Crown interest is any of the following—
+
+(a) an interest belonging to Her Majesty in right of the Crown or in right of Her private estates,
+
+(b) an interest belonging to a government department or held in trust for Her Majesty for the purposes of a government department,
+
+(c) such other interest as the Scottish Ministers specify by order.
+
+(4) A private interest is an interest which is not a Crown interest.
+
+(5) The appropriate authority in relation to any land is—
+
+(a) in the case of land belonging to Her Majesty in right of the Crown and forming part of the Crown Estate, the Crown Estate Commissioners,
+
+(b) in relation to any other land belonging to Her Majesty in right of the Crown, the government department having the management of the land [[^F117]or the relevant person] ,
+
+(c) in relation to land belonging to Her Majesty in right of Her private estates, a person appointed by Her Majesty in writing under the Royal Sign Manual or, if no such appointment is made, the Scottish Ministers,
+
+(d) in the case of land belonging to a government department or held in trust for Her Majesty for the purposes of a government department, the department.
+
+[[^F118](5A) In subsection (5), “relevant person”, in relation to any land to which section 90B(5) of the Scotland Act 1998 applies, means the person who manages that land.]
+
+(6) If any question arises as to what authority is the appropriate authority in relation to any land it must be referred to the Scottish Ministers, whose decision is final.
+
+(7) For the purpose of an application for listed building consent made by or on behalf of the Crown in respect of land which does not belong to the Crown or in respect of which the Crown has no interest, a reference to the appropriate authority must be construed as a reference to the person who makes the application.
+
+(8) The reference to Her Majesty’s private estates must be construed in accordance with section 1 of the Crown Private Estates Act 1862 (c. 37).
+
+(9) An order made for the purposes of paragraph (c) of subsection (3) must be made by statutory instrument.
+
+(10) But no such order may be made unless a draft of it has been laid before and approved by resolution of the Scottish Parliament.
+
+(11) This section applies for the purposes of this Act.]
+
+#### 73D [[^F119]Enforcement in relation to the Crown
+
+(1) No act or omission done or suffered by or on behalf of the Crown constitutes an offence under this Act; but the Court of Session may on the application of a public authority or office-holder responsible for the enforcement of anything required to be done, or prohibited, by or under this Act, declare unlawful any act or omission so done or suffered.
+
+(2) A planning authority must not take any step for the purposes of enforcement in relation to Crown land unless it has the consent of the appropriate authority.
+
+(3) The appropriate authority may give consent under subsection (2) subject to such conditions as it thinks appropriate.
+
+(4) A step taken for the purposes of enforcement is anything done in connection with the enforcement of anything required to be done or prohibited by or under this Act.
+
+(5) A step taken for the purposes of enforcement includes—
+
+(a) entering land,
+
+(b) initiating proceedings,
+
+(c) the making of an application.
+
+(6) A step taken for the purposes of enforcement does not include—
+
+(a) service of a notice,
+
+(b) the making of an order (other than a court order).
+
+#### 73E Reference to an interest in land
+
+(1) Subsection (2) applies to the extent that an interest in land is a Crown interest.
+
+(2) Anything which requires or is permitted to be done by or in relation to the owner of the interest in land must be done by or in relation to the appropriate authority.
+
+(3) An interest in land includes an interest only as occupier of the land.]
+
+#### 73F [[^F120]Applications for listed building or conservation area consent by Crown
+
+(1) This section applies to an application for—
+
+(a) listed building consent, or
+
+(b) conservation area consent,
+
+made by or on behalf of the Crown.
+
+(2) The Scottish Ministers may by regulations modify or exclude any statutory provision relating to the making and determination of such applications.
+
+(3) A statutory provision is a provision contained in or having effect under any enactment (including any enactment comprised in, or in an instrument made under, an Act of the Scottish Parliament).]
+
+#### [^F121]74 Exercise of powers in relation to Crown land.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F122]75 Application for listed building or conservation area consent in anticipation of disposal of Crown land.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Miscellaneous provisions
+
+#### 76 Rights of entry.
+
+(1) Any person duly authorised in writing by [[^F123]Historic Environment Scotland] may at any reasonable time enter upon any land for the purpose of surveying any building on that or any other land in connection with a proposal to include the building in, or exclude it from, a list compiled or approved under section 1 [[^F124]or in connection with an application under section 5A(1)] .
+
+[[^F125](1A) Any person duly authorised in writing by the planning authority may, at any reasonable time, enter upon land—
+
+(a) for the purposes of displaying—
+
+(i) a site notice,
+
+(ii) a notice under section 41A(7) in place of a site notice, or
+
+(iii) a copy of a temporary stop notice, and a statement as to the effect of section 41H, under section 41F(4),
+
+(b) to ascertain whether a listed building enforcement notice, a stop notice or a temporary stop notice has been complied with.]
+
+(2) Any person duly authorised in writing by [[^F126]Historic Environment Scotland] or the planning authority may at any reasonable time enter upon any land for any of the following purposes—
+
+(a) surveying it in connection with any proposal by the authority or [[^F126]Historic Environment Scotland] to make or serve any order or notice under or by virtue of any provision of this Act other than sections 25 to 33, 42, 44 to 48, 51, 52, 57, 58, 59(2) and (3), 61 to 67, 69 to 75, 79 to 83 and Schedule 3,
+
+(b) ascertaining whether an offence has been, or is being, committed with respect to any building on that or any other land, under section 8, 10, 39 [[^F127], 41E, 41H] or 53,
+
+(c) ascertaining whether any such building is being maintained in a proper state of repair,
+
+(d) ascertaining whether any of the functions conferred by section 49 should or may be exercised in connection with the land, or
+
+(e) exercising any of those functions in connection with the land.
+
+(3) Any person who is an officer of the Valuation Office or a person duly authorised in writing by [[^F128]Historic Environment Scotland] may at any reasonable time enter any land for the purpose of surveying it, or estimating its value, in connection with a claim for compensation payable under this Act in respect of any land.
+
+(4) Any person who is an officer of the Valuation Office or a person duly authorised in writing by a planning authority may at any reasonable time enter any land for the purpose of surveying it, or estimating its value, in connection with a claim for compensation payable under section 25 or 26 in respect of any land.
+
+(5) Any person who is an officer of the Valuation Office or is duly authorised in writing by a planning authority having power to acquire land under sections 42 to 47 may at any reasonable time enter any land for the purpose of surveying it, or estimating its value, in connection with any proposal to acquire that land or any other land, or in connection with any claim for compensation in respect of any such acquisition.
+
+(6) Subject to sections 77 and 78, any power conferred by this section to survey land shall be construed as including power to search and bore for the purpose of ascertaining the nature of the subsoil or the presence of minerals in it.
+
+#### 77 Power to issue warrant.
+
+(1) If in relation to rights of entry exercised under section 76 the sheriff is satisfied—
+
+(a) that there are reasonable grounds for entering any land for any of the purposes mentioned in that section, and
+
+(b) that—
+
+(i) admission to the land has been refused, or a refusal is reasonably apprehended, or
+
+(ii) the case is one of urgency,
+
+he may issue a warrant authorising any person duly authorised in writing to enter the land.
+
+(2) For the purposes of subsection (1)(b)(i) admission to land shall be regarded as having been refused if no reply is received to a request for admission within a reasonable period.
+
+(3) A warrant authorises entry on one occasion only and that entry must be—
+
+(a) within one month from the date of the issue of the warrant, and
+
+(b) at a reasonable hour, unless the case is one of urgency.
+
+#### 78 Rights of entry: supplementary provisions.
+
+(1) Subject to subsection (2), a person authorised to enter any land in pursuance of a right of entry conferred under or by virtue of section 76 or 77 (referred to in this section as “a right of entry”)—
+
+(a) shall, if so required, produce evidence of his authority and state the purpose of his entry before so entering,
+
+(b) may take with him such other persons as may be necessary, and
+
+(c) on leaving the land shall, if the owner or occupier is not then present, leave it as effectively secured against trespassers as he found it.
+
+(2) Admission to any land which is occupied shall not be demanded as of right by virtue of section 76 or of this section unless 24 hours’ notice of the intended entry has been given to the occupier of the land.
+
+(3) Any person who wilfully obstructs a person acting in the exercise of a right of entry shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+(4) If any damage is caused to land or moveable property in the exercise of a right of entry, compensation may be recovered by any person suffering the damage from the authority who gave the written authority for the entry or, as the case may be, the Secretary of State; and subsections (4) and (5) of section 27 shall apply in relation to compensation under this subsection as they apply in relation to compensation under sections 25 to 27.
+
+(5) If any person who enters any land in exercise of a right of entry discloses to any person any information obtained by him while on the land as to any manufacturing process or trade secret, he shall be guilty of an offence.
+
+(6) Subsection (5) does not apply if the disclosure is made by a person in the course of performing his duty in connection with the purpose for which he was authorised to enter the land.
+
+(7) A person who is guilty of an offence under subsection (5) shall be liable—
+
+(a) on summary conviction to a fine not exceeding the statutory maximum, or
+
+(b) on conviction on indictment to imprisonment for a term not exceeding 2 years or a fine or both.
+
+(8) No person shall carry out any works in exercise of a power conferred under section 49 unless notice of his intention to do so was included in the notice required by subsection (2) of this section.
+
+(9) The authority of the [[^F129]Scottish Ministers] shall be required for the carrying out of works in exercise of a power conferred under section 49 if—
+
+(a) the land in question is held by statutory undertakers, and
+
+(b) they object to the proposed works on the ground that the execution of the works would be seriously detrimental to the carrying on of their undertaking.
+
+[^F130]10 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 78A [[^F131]Rights of entry: Crown land
+
+(1) Section 76 applies to Crown land subject to the following modifications.
+
+(2) A person must not enter Crown land unless he has the relevant permission.
+
+(3) Relevant permission is the permission of—
+
+(a) a person appearing to the person seeking entry to the land to be entitled to give it, or
+
+(b) the appropriate authority.
+
+(4) In subsection (6) the words “and 78” must be ignored.
+
+(5) Section 78 does not apply to anything done by virtue of this section.
+
+(6) “Appropriate authority” must be construed in accordance with section 73C.]
+
+#### 79 Application of certain general provisions of principal Act.
+
+(1) Subject to [[^F132]subsections (1A) and] (2), the following provisions of the principal Act shall apply for the purposes of this Act as they apply for the purposes of that Act—
+
+- section 85 (power to make provision for determination of claims),
+- section 146 (interdicts restraining breaches of planning control),
+- section 195 (general vesting declarations),
+- section 265 (local inquiries),
+- [[^F133]section 265A (planning inquiries to be held in public subject to certain exceptions),]
+- section 266 (orders as to expenses of parties where no local inquiry held),
+- section 267 (procedure on certain appeals and applications),
+- section 271 (service of notices),
+- [[^F134]section 271A(1) and (2) (service of notices on the Crown),]
+- section 272 (power to require information as to interests in land),
+- [[^F135]section 272A(1) to (4) (information as to interests in Crown land),]
+- section 273 (offences by corporations), and
+- [[^F136]section 275A (further provision as regards regulations: inquiries, etc.),]
+- section 276 (Act not excluded by special enactments).
+
+[[^F137](1A) Subsection (1)(cc) of section 271 of the principal Act shall not apply to–
+
+(a) serving a building preservation notice;
+
+(b) serving a copy of a listed building enforcement notice by a planning authority;
+
+(c) giving notice under section 34 of this Act of the exercise of powers conferred by subsection (7) of that section;
+
+(d) serving a listed building enforcement notice issued by the Scottish Ministers; and
+
+(e) giving notice to parties who must be notified of applications for listed building consent and other matters in accordance with regulations made under section 10 of that Act.]
+
+(2) Section 273 of that Act shall not apply to offences under section 53 of this Act.
+
+[[^F138](3) In the application of section 265A of the principal Act for the purposes of this Act, the provisions mentioned in subsection (1) of the section shall be construed as including any inquiry held by virtue of this section.]
+
+#### 80 Financial provisions.
+
+(1) Where—
+
+(a) compensation is payable by a planning authority under this Act in consequence of any decision or order given or made under any provision of this Act other than sections 25 to 27, 42, 43(1) to (3), 44 to 52, 57, 58, 59(2) and (3), 61 to 64, 66, 67(1) to (4), (10) and (11) and 68 to 83, and
+
+(b) that decision or order was given or made wholly or partly in the interest of a service which is provided by a government department and the cost of which is defrayed out of money provided by Parliament,
+
+the Minister responsible for the administration of that service may pay that authority a contribution of such amount as he may with the consent of the Treasury determine.
+
+(2) Any local authority and any statutory undertakers may contribute towards any expenses incurred by a planning authority in or in connection with the performance of any of their functions under the provisions of sections 1 to 24, 28 to 47, 50, 53, 54, 56, 59, 77 and 78 and Schedules 1 and 2.
+
+(3) In the application of subsection (2) to a local authority, “planning authority” means a planning authority other than that local authority.
+
+(4) Any expenses incurred by a planning authority under sections 28 to 30 and 42 to 47 in pursuance of a listed building purchase notice or in the acquisition of land under this Act for the purposes of any function of that authority shall be defrayed in the same manner as other expenses incurred by that authority for the purposes of that function.
+
+(5) Subsections (3) and (4) of section 261 of the principal Act (borrowing by authorities for purposes of the principal Act) shall apply for the purposes of this Act as they apply for the purposes of that Act.
+
+(6) There shall be paid out of money provided by Parliament—
+
+(a) any sums necessary to enable the Secretary of State to make any payments becoming payable by him under sections 25 and 26,
+
+(b) any expenses incurred by any government department including the Secretary of State in the acquisition of land under sections 42 to 47 or in the payment of compensation under section 46(4) or 78(4) or under subsection (1),
+
+(c) any sums necessary to enable the Secretary of State to make grants or loans under sections 69 and 72, and
+
+(d) any administrative expenses incurred by the Secretary of State for the purposes of this Act.
+
+(7) Any sums received by the Secretary of State under this Act shall be paid into the Consolidated Fund.
+
+## Part IV — Supplemental
+
+### 81 Interpretation.
+
+(1) In this Act, except in so far as the context otherwise requires—
+
+- [[^F139]“address”, in relation to electronic communications, means any number or address used for the purposes of such communications;”;]
+- “building preservation notice” has the meaning given in section 3(1),
+- “conservation area” means an area for the time being designated under section 61,
+- “conservation area consent” has the meaning given in section 66(1),
+- [[^F139]“electronic communication” has the same meaning as in the Electronic Communications Act 2000;]
+- “listed building” has the meaning given in section 1(4),
+- “listed building consent” has the meaning given in section 7(7),
+- “listed building enforcement notice” has the meaning given in section 34(1),
+- “listed building purchase notice” has the meaning given in section 28(1),
+- “period for compliance”, in relation to a listed building enforcement notice, has the meaning given in section 34(5),
+- “prescribed” (except in relation to matters expressly required or authorised by this Act to be prescribed in some other way) means prescribed by regulations under this Act,
+- [[^F140]“site notice” has the meaning given in section 41B(4),
+- “stop notice” has the meaning given in section 41A(2),
+- “temporary stop notice” means a notice issued under section 41F(1),]
+- “the principal Act” means the [^M17]Town and Country Planning (Scotland) Act 1997, and
+- “town scheme agreement” has the meaning given in section 71.
+
+(2) Subject to subsection (6), and except in so far as the context otherwise requires, the following expressions have the same meaning as in the principal Act—
+
+- “acquiring authority”
+- “advertisement”
+- “building”
+- “compulsory acquisition”
+- “development order”
+- “development”
+- “development plan”
+- “enactment”
+- “disposal”
+- “functions”
+- “government department”
+- “land”
+- “lease”
+- “minerals”
+- “local authority”
+- “Minister”
+- “owner”
+- “the planning Acts”
+- “planning authority”
+- “planning permission”
+- “public gas transporter”
+- “use”
+- “Valuation Office”
+
+(3) In this Act “statutory undertakers” has the same meaning as in the principal Act except that—
+
+(a) in sections 29 to 32 it shall be deemed to include references to [[^F141]electronic communications operators and former PTOs] ,
+
+(b) in sections 29 to 32 and 80(2) it shall be deemed to include [[^F142]a universal service provider in connection with the provision of a universal postal service], and
+
+(c) in sections 29 to 32, 46(2)(a) and 80(2) it shall be deemed to include the Civil Aviation Authority, [[^F143]a person who holds a licence under Chapter I of Part I of the Transport Act 2000 (to the extent that the person is carrying out activities authorised by the licence),]a public gas transporter and a holder of a licence under section 6 of the [^M18]Electricity Act 1989.
+
+[[^F144](3A) The undertaking of a universal service provider so far as relating to the provision of a universal postal service shall be taken to be his statutory undertaking for the purposes of this Act; and references in this Act to his undertaking shall be construed accordingly.
+
+(3B) In subsection (3) and (3A) above, “universal service provider” has the same meaning as in [[^F145]Part 3 of the Postal Services Act 2011] ; and references to the provision of a universal postal service shall be construed in accordance with [[^F146]that Part] .]
+
+(4) References in the planning Acts to any of the provisions mentioned in section 73 include, except where the context otherwise requires, references to those provisions as modified under that section.
+
+(5) Words in this Act importing a reference to service of a notice to treat shall be construed as including a reference to the constructive service of such a notice which, by virtue of any enactment, is to be deemed to be served.
+
+[[^F147](5A) Where an electronic communication is used for the purpose of serving on, or giving to, a person any notice or other document for the purposes of this Act, and the communication is received by that person–
+
+(a) at any time before the end of a day which is a working day, it shall be deemed to have been received on that day; or
+
+(b) at any time during a day which is not a working day, it shall be deemed to be received on the next working day;
+
+and in this subsection, “working day” means a day which is not a Saturday, Sunday, Christmas Eve, a bank holiday in Scotland under the Banking and Financial Dealings Act 1971, a day appointed for public thanksgiving or mourning, or any other day which is a local or public holiday in an area in which the electronic communication is received.]
+
+(6) For the purposes of subsection (1)(b) of section 51 and subsection (2) as it applies for the purposes of that subsection the definition of “building” in the principal Act shall apply with the omission of the words “but does not include plant or machinery comprised in a building”.
+
+[^F148]7 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(8) Without prejudice to section 20(2) of the [^M19]Interpretation Act 1978, references in this Act to any enactment shall, except where the context otherwise requires, be construed as references to that enactment as amended by or under any other enactment.
+
+### 82 Regulations and orders.
+
+(1) The Secretary of State may make regulations—
+
+(a) for prescribing the form of any notice, order or other document authorised or required by this Act to be served, made or issued by a planning authority which is a local authority;
+
+(b) for any purpose for which regulations are authorised or required to be made under this Act.
+
+(2) Any power conferred by this Act to make regulations—
+
+[[^F149](a)] shall be exercisable by statutory instrument.
+
+[[^F150](b) may be exercised so as to make different provision for different purposes.]
+
+(3) [[^F151]Subject to subsection (3A),] any statutory instrument containing regulations made under this Act shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+[[^F152](3A) A statutory instrument containing regulations made under section 39A(5) is not to be made unless a draft of the instrument has been laid before, and approved by resolution of, the Scottish Parliament.]
+
+(4) The power to make orders under sections 7(5), 54(5) and 67(7)
+
+[[^F153](a)] shall be exercisable by statutory instrument.
+
+[[^F154](b) may be exercised so as to make different provision for different purposes.]
+
+(5) Any statutory instrument which contains an order under section 54(5) or 67(7) shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+[[^F155](6) Any power conferred by this Act to make regulations or orders includes power to make such incidental, supplemental, consequential, transitory, transitional or saving provision as the Scottish Ministers consider necessary or expedient.]
+
+(7) Without prejudice to section 14 of the Interpretation Act 1978, any power conferred by this Act to make an order shall include power to vary or revoke any such order by a subsequent order.
+
+### 83 Short title, commencement and extent.
+
+(1) This Act may be cited as the Planning (Listed Buildings and Conservation Areas) (Scotland) Act 1997.
+
+(2) This Act shall come into force at the end of the period of 3 months beginning with the day on which it is passed.
+
+(3) This Act extends to Scotland only.
+
+## SCHEDULE 1 — Buildings formerly subject to building preservation orders
+
+*Section 1(5).*
+
+**1** Subject to paragraph 2, every building which immediately before 3rd August 1970 was subject to a building preservation order under section 27 of the [^M20]Town and Country Planning (Scotland) Act 1947 but was not then included in a list compiled or approved under section 28 of that Act shall be deemed to be a listed building.
+
+**2** [[^F156](1) Historic Environment Scotland may at any time direct that paragraph 1 no longer applies to a particular building.
+
+(1A) The Scottish Ministers may direct that paragraph 1 no longer applies to a particular building if the building is referred to in a notice of appeal under section 5B, 18 or 35 relating to the building (whether or not they are requested to do so).]
+
+(2) The planning authority in whose district the building in respect of which [[^F157]a direction under sub-paragraph (1) or (1A)] is given is situated, on being notified of the direction, shall give notice of it to the owner, lessee and occupier of the building.
+
+[[^F158](2A) Where a direction is given under sub-paragraph (1) or (1A), Historic Environment Scotland or (as the case may be) the Scottish Ministers must notify the other.]
+
+(3) Before giving [[^F159]a direction under sub-paragraph (1) or (1A)] in relation to a building, [[^F160]Historic Environment Scotland or (as the case may be) the Scottish Ministers] shall consult the planning authority and the owner, lessee and occupier of the building.
+
+**[^F161]3** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 2 — Lapse of building preservation notice
+
+*Section 5.*
+
+**1** This Schedule applies where a building preservation notice ceases to be in force by virtue of—
+
+(a) the expiry of the 6 months period mentioned in subsection (3)(b) of section 3; or
+
+(b) the service of a notification by [[^F162]Historic Environment Scotland] under subsection (4)(b) of that section.
+
+**2** The fact that the notice has ceased to be in force shall not affect the liability of any person to be prosecuted and punished for an offence under section 8 or 39 committed by him with respect to the building while it was in force.
+
+**3** Any proceedings on or arising out of an application for listed building consent with respect to the building made while the notice was in force and any such consent granted while it was in force shall lapse.
+
+**4** (1) Any listed building enforcement notice served by the planning authority while the building preservation notice was in force shall cease to have effect.
+
+(2) Any proceedings on it under sections 34 to 37 shall lapse.
+
+(3) Notwithstanding sub-paragraph (1), section 38(1) and (2) shall continue to have effect as respects any expenses incurred by the planning authority, owner, lessee or occupier as mentioned in that section and with respect to any sums paid on account of such expenses.
+
+## SCHEDULE 3 — Determination of certain appeals by person appointed by Secretary of State
+
+*Sections 20(4) and 35(5).*
+
+### Determination of appeals by appointed person
+
+**1** (1) The Secretary of State may by regulations prescribe classes of appeals under sections [[^F163]5B,] 18 and 35 which are to be determined by a person appointed by the Secretary of State for the purpose instead of by the Secretary of State.
+
+(2) Those classes of appeals shall be so determined except in such classes of case—
+
+(a) as may for the time being be prescribed, or
+
+(b) as may be specified in directions given by the Secretary of State.
+
+(3) Such regulations may provide for the giving of publicity to any directions given by the Secretary of State under this paragraph.
+
+(4) This paragraph shall not affect any provision contained in this Act or any instrument made under it that an appeal shall lie to, or a notice of appeal shall be served on, the Secretary of State.
+
+(5) A person appointed under this paragraph is referred to in this Schedule as an “appointed person”.
+
+### Powers and duties of appointed person
+
+**2** (1) An appointed person shall have the same powers and duties—
+
+[[^F164](za) in relation to an appeal under section 5B as the Scottish Ministers have under section 5C and paragraph 2(1A) of schedule 1,]
+
+(a) in relation to an appeal under section 18 as the Secretary of State has under subsection (1) of section 20 and paragraph 2 of Schedule 1, and
+
+(b) in relation to an appeal under section 35, as he has under section 37(1), (2) and (4) and paragraph 2 of Schedule 1.
+
+[^F165]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F165]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F165]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) Where an appeal has been determined by an appointed person, his decision shall be treated as that of the Secretary of State.
+
+(6) Except as provided by sections 57 and 58, the decision of an appointed person on any appeal shall be final.
+
+### Determination of appeals by Secretary of State
+
+**3** (1) The Secretary of State may, if he thinks fit, direct that an appeal which would otherwise fall to be determined by an appointed person shall instead be determined by the Secretary of State.
+
+(2) Such a direction shall state the reasons for which it is given and shall be served on the appellant, the planning authority, any person who made representations relating to the subject matter of the appeal which the authority are required to take into account by regulations made under section 10(2) and, if any person has been appointed under paragraph 1, on him.
+
+(3) Where in consequence of such a direction an appeal under section [[^F166]5B,] 18 or 35 falls to be determined by the Secretary of State himself, the provisions of this Act which are relevant to the appeal shall, subject to the following provisions of this paragraph, apply to the appeal as if this Schedule had never applied to it.
+
+[^F167]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F167]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6) In determining the appeal the Secretary of State may take into account any report made to him by any person previously appointed to determine it.
+
+**4** (1) The Secretary of State may by a further direction revoke a direction under paragraph 3 at any time before the determination of the appeal.
+
+(2) Such a further direction shall state the reasons for which it is given and shall be served on the person, if any, previously appointed to determine the appeal, the appellant, the planning authority and any person who has made representations relating to the subject matter of the appeal which the authority are required to take into account by regulations made under section 10(2).
+
+(3) Where such a further direction has been given, the provisions of this Schedule relevant to the appeal shall apply, subject to sub-paragraph (4), as if no direction under paragraph 3 had been given.
+
+(4) Anything done by or on behalf of the Secretary of State in connection with the appeal which might have been done by the appointed person (including any arrangements made for the holding of a hearing or local inquiry) shall, unless that person directs otherwise, be treated as having been done by him.
+
+### Appointment of another person to determine appeal
+
+**5** (1) At any time before the appointed person has determined the appeal the Secretary of State may—
+
+(a) revoke his appointment, and
+
+(b) appoint another person under paragraph 1 to determine the appeal instead.
+
+(2) Where such a new appointment is made the consideration of the appeal or any inquiry or other hearing in connection with it shall be begun afresh.
+
+(3) Nothing in sub-paragraph (2) shall require—
+
+[^F168]a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) any person to be given an opportunity of making fresh representations or modifying or withdrawing any representations already made.
+
+### Local inquiries and hearings
+
+**6** (1) Whether or not the parties to an appeal have asked for an opportunity to appear and be heard, an appointed person—
+
+(a) may hold a local inquiry in connection with the appeal, and
+
+(b) shall do so if the Secretary of State so directs.
+
+(2) Where an appointed person—
+
+(a) holds a hearing [^F169]..., or
+
+(b) holds an inquiry by virtue of this paragraph,
+
+an assessor may be appointed by the Secretary of State to sit with the appointed person at the hearing or inquiry to advise him on any matters arising, notwithstanding that the appointed person is to determine the appeal.
+
+(3) Subject to sub-paragraph (4), the expenses of any such hearing or inquiry shall be paid by the Secretary of State.
+
+(4) Subsections (4) to (13) of section 265 of the principal Act apply to an inquiry held under this paragraph as they apply to an inquiry held under that section.
+
+(5) The appointed person has the same power to make orders under subsection (9) of that section in relation to proceedings under this Schedule which do not give rise to an inquiry as he has in relation to such an inquiry.
+
+(6) For the purposes of this paragraph, references to the Minister in subsections (9) and (12) of that section shall be read as references to the appointed person.
+
+[[^F170](7) Subsections (2) to (13) of section 265A of the principal Act apply to the holding of an inquiry under this paragraph as they apply to the holding of an inquiry under section 265 of that Act.]
+
+### Supplementary provisions
+
+**7** (1) The [^M21]Tribunals and Inquiries Act 1992 shall apply to a local inquiry or other hearing held in pursuance of this Schedule as it applies to a statutory inquiry held by the Secretary of State, but as if in section 10(1) of that Act (statement of reasons for decisions) the reference to any decision taken by the Secretary of State were a reference to a decision taken by an appointed person.
+
+(2) The functions of determining an appeal and doing anything in connection with it conferred by this Schedule on an appointed person who is [[^F171] a member of the staff of the Scottish Administration shall be treated for the purposes of the Scottish Public Services Ombudsman Act 2002 (asp 11) as functions conferred on the Scottish Ministers.[^F171]]
+
+## TABLE OF DERIVATIONS
+
+1. This Table shows the derivation of the provisions of the Bill.
+
+*Notes*
+
+2. The following abbreviations are used in the Table—
+
+|  |  |
+|---|---|
+| 1972AM | = The Town and Country Planning (Amendment) Act 1972 (c. 42) |
+| 1972 | = The Town and Country Planning (Scotland) Act 1972 (c. 52) |
+| 1974 | = The Town and Country Amenities Act 1974 (c. 32) |
+| 1982 | = The Local Government and Planning (Scotland) Act 1982 (c. 43) |
+| 1986 | = The Housing and Planning Act 1986 (c. 63) |
+| 1991 | = The Planning and Compensation Act 1991 (c. 34) |
+
+3. The Table does not show the effect of Transfer of Functions orders.
+
+4. The Table does not give details of the effect of section 172(2) of the Local Government (Scotland) Act 1973 (c. 65), which omitted the word “local” in the expression “local planning authority” where it occurs in any enactment or instrument.
+
+5. “Sc Law Com Rec No.” followed by a number indicates that the provision gives effect to the Recommendation bearing that number in Appendix 1 to the Scottish Law Commission’s Report on the Consolidation of Certain Enactments relating to Town and Country Planning in Scotland (Cmnd. 3644).
+
+<table>
+<tbody>
+<tr><th>Provision</th><th>Derivation</th></tr>
+<tr><td>1(1) to (3)</td><td>1972 s.52(1) to (3).</td></tr>
+<tr><td>(4)</td><td>1972 s.52(7); 1986 Sch.9 para.13(1).</td></tr>
+<tr><td>(5)</td><td>Drafting.</td></tr>
+<tr><td>2(1)</td><td>1972 s.52(4); Local Government (Scotland) Act 1973 (c.65) Sch.23 para.19; Housing (Scotland) Act 1987 (c.26) Sch.22 para.3.</td></tr>
+<tr><td>(2)</td><td>1972 s.52(5).</td></tr>
+<tr><td>(3),(4)</td><td>1972 s.52(6).</td></tr>
+<tr><td>3(1),(2)</td><td>1972 s.56(1).</td></tr>
+<tr><td>(3),(4)</td><td>1972 s.56(3).</td></tr>
+<tr><td>(5)</td><td>1972 s.56(4).</td></tr>
+<tr><td>(6)</td><td>1972 s.56(5).</td></tr>
+<tr><td>4(1) to (3)</td><td>1972 s.56(6).</td></tr>
+<tr><td>5</td><td>1972 s.56(4).</td></tr>
+<tr><td>6</td><td>1972 s.53(1); 1986 Sch.9 para.14(1).</td></tr>
+<tr><td>7(1),(2)</td><td>1972 s.53(2); Sc Law Com Rec No.24.</td></tr>
+<tr><td>(3)</td><td>1972 s.53(2A); 1986 Sch.9 para.14(2).</td></tr>
+<tr><td>(4) to (6)</td><td>1972 s.53(3).</td></tr>
+<tr><td>(7)</td><td>1972 s.53(3A); 1986 Sch.9 para.14(3).</td></tr>
+<tr><td>8(1)</td><td>1972 s.53(1); 1986 Sch.9 para.14(1).</td></tr>
+<tr><td>(2)</td><td>1972 s.53(4).</td></tr>
+<tr><td>(3)</td><td>1972 s.53(6); 1986 Sch.9 para.15(1).</td></tr>
+<tr><td>(4),(5)</td><td>1972 s.53(5); 1991 Sch.10 para.2.</td></tr>
+<tr><td>9(1),(2)</td><td>1972 Sch.10 para.1(1); 1986 Sch.9 para.22.</td></tr>
+<tr><td>(3)</td><td>1972 Sch.10 para.1(1A); 1986 Sch.9 para.22.</td></tr>
+<tr><td>10(1)</td><td>1972 s.24(1), Sch.10 para.2(1); 1991 Sch.13 para.42(a).</td></tr>
+<tr><td>(2)</td><td>1972 s.26(3A), Sch.10 para.2(1); 1991 Sch.13 para.42(b).</td></tr>
+<tr><td>(3)</td><td>1972 Sch.10 para.2(2); Criminal Procedure (Consequential Provisions) (Scotland) Act 1995 (c.40) Sch.1 paras.5, 6; Criminal Procedure (Scotland) Act 1995 (c.46) s.225.</td></tr>
+<tr><td>11(1) to (5)</td><td>1972 Sch.10 para.4.</td></tr>
+<tr><td>12(1)</td><td>1972 Sch.10 para.5(1).</td></tr>
+<tr><td>(2)</td><td>1972 Sch.10 para.5(1), (2).</td></tr>
+<tr><td>(3)</td><td>1972 Sch.10 para.5(2); 1986 Sch.9 para.23.</td></tr>
+<tr><td>13(1) to (3)</td><td>1972 Sch.10 para.6.</td></tr>
+<tr><td>14(1)</td><td>1972 s.54(4); 1982 Sch.2 para.15(b).</td></tr>
+<tr><td>(2)</td><td>1972 s.54(3); 1982 Sch.2 para.15(a).</td></tr>
+<tr><td>(3)</td><td>1972 Sch.10 para.1(2).</td></tr>
+<tr><td>15(1)</td><td>1972 s.54(4); 1982 Sch.2 para.15(b).</td></tr>
+<tr><td>(2)</td><td>1972 s.54(4A); 1986 Sch.9 para.16(1).</td></tr>
+<tr><td>(3)</td><td>1972 s.54(5); 1982 Sch.2 para.15(c).</td></tr>
+<tr><td>16(1), (2)</td><td>1972 s.54A(1), (2); 1982 Sch.2 para.16.</td></tr>
+<tr><td>(3)</td><td>1972 s.54A(5); 1986 Sch.9 para.14(4).</td></tr>
+<tr><td>(4)</td><td>1972 s.54B;1982 Sch.2 para.16.</td></tr>
+<tr><td>17(1) to (3)</td><td>1972 s.54D(1) to (3); 1986 Sch.9 para.17.</td></tr>
+<tr><td>18(1)</td><td>1972 s.54D(2), Sch.10 para.7(1); 1986 Sch.9 paras. 16(2), 17.</td></tr>
+<tr><td>(2)</td><td>1972 s.54D(2), Sch.10 para.8; 1986 Sch.9 para.16(3).</td></tr>
+<tr><td>(3)</td><td>1972 s.54D(2), Sch.10 para.8; 1986 Sch.9 para.16(3).</td></tr>
+<tr><td>(4)</td><td>1972 s.54D(2), Sch.10 para.8; 1986 Sch.9 para.16(3).</td></tr>
+<tr><td>19(1)</td><td>1972 Sch.10 para.7(1); 1986 Sch.9 para.16(2).</td></tr>
+<tr><td>(2)</td><td>1972 Sch.10 para.7(1), 8; 1986 Sch.9 para.16(2), (3).</td></tr>
+<tr><td>(3),(4)</td><td>1972 Sch.10 para.7(2).</td></tr>
+<tr><td>(5),(6)</td><td>1972 s.54D(2), Sch.10 para.2(1); 1991 Sch.13 para.42.</td></tr>
+<tr><td>(7)</td><td>1972 s.54D(2), Sch.10 para.2(2); Criminal Procedure (Consequential Provisions) (Scotland) Act 1995 (c.40) Sch.1 paras.5, 6; Criminal Procedure (Scotland) Act 1995 (c.46) s.225.</td></tr>
+<tr><td>20(1) to (4)</td><td>1972 Sch.10 para.7(3) to (6).</td></tr>
+<tr><td>21(1),(2)</td><td>1972 Sch.10 para.9(1).</td></tr>
+<tr><td>(3)</td><td>1972 Sch.10 para.9(4).</td></tr>
+<tr><td>22(1)</td><td>1972 Sch.10 para.9(2).</td></tr>
+<tr><td>(2) to (4)</td><td>1972 Sch.10 para.9(3).</td></tr>
+<tr><td>(5)</td><td>1972 Sch.10 para.9(2).</td></tr>
+<tr><td>23(1)</td><td>1972 Sch.10 para.11(1), (6).</td></tr>
+<tr><td>(2)</td><td>1972 Sch.10 para.11(1) to (4); drafting.</td></tr>
+<tr><td>(3)</td><td>1972 Sch.10 para.11(3).</td></tr>
+<tr><td>(4)</td><td>1972 Sch.10 para.11(5).</td></tr>
+<tr><td>(5),(6)</td><td>1972 Sch.10 para.11(2).</td></tr>
+<tr><td>24(1)</td><td>1972 Sch.10 paras.9(1), 10(1).</td></tr>
+<tr><td>(2)</td><td>1972 Sch.10 paras.9(1), 10(2).</td></tr>
+<tr><td>(3)</td><td>1972 Sch.10 para.10(1).</td></tr>
+<tr><td>(4) to (6)</td><td>1972 Sch.10 paras.9(3), 10(2).</td></tr>
+<tr><td>(7)</td><td>1972 Sch.10 paras.9(4), 10(2).</td></tr>
+<tr><td>(8)</td><td>1972 Sch.10 para.10(1).</td></tr>
+<tr><td>25(1),(2)</td><td>1972 s.161(1).</td></tr>
+<tr><td>(3)</td><td>1972 s.161(3).</td></tr>
+<tr><td>(4)</td><td>1972 s.161(2).</td></tr>
+<tr><td>26(1)</td><td>1972 s.162(1), (3).</td></tr>
+<tr><td>(2)</td><td>1972 s.162(3).</td></tr>
+<tr><td>(3)</td><td>1972 s.162(4).</td></tr>
+<tr><td>27(1)</td><td>1972 s.167(1).</td></tr>
+<tr><td>(2)</td><td>1972 s.167(2).</td></tr>
+<tr><td>(3)</td><td>1972 s.167(4).</td></tr>
+<tr><td>(4)</td><td>1972 s.168(1).</td></tr>
+<tr><td>(5)</td><td>1972 s.168(2).</td></tr>
+<tr><td>28(1),(2)</td><td>1972 s.179(1), (5).</td></tr>
+<tr><td>(3)</td><td>1972 s.179(3).</td></tr>
+<tr><td>(4)</td><td>1972 s.179(2); 1991 Sch.12 para.21.</td></tr>
+<tr><td>29(1)</td><td>1972 Sch.17 para.1(1): 1986 Sch.11 para.35(2)(a).</td></tr>
+<tr><td>(2)</td><td>1972 Sch.17 para.1(1).</td></tr>
+<tr><td>(3)</td><td>1972 Sch.17 para.1(2).</td></tr>
+<tr><td>(4)</td><td>1972 Sch.17 para.1(3); 1986 Sch.11 para.35(2)(b).</td></tr>
+<tr><td>30(1)</td><td>1972 s.171(1), Sch.17 paras.1(3), 2(8).</td></tr>
+<tr><td>(2)</td><td>1972 s.171(2), Sch.17 paras.1(3), 2(8).</td></tr>
+<tr><td>(3),(4)</td><td>1972 s.171(3), Sch.17 paras.1(3), 2(8).</td></tr>
+<tr><td>(5)</td><td>1972 s.171(4), Sch.17 paras.1(3), 2(8); drafting.</td></tr>
+<tr><td>(6)</td><td>1972 s.179(3).</td></tr>
+<tr><td>31(1),(2)</td><td>1972 Sch.17 para.2(1).</td></tr>
+<tr><td>(3)</td><td>1972 Sch.17 para.2(2).</td></tr>
+<tr><td>(4)</td><td>1972 Sch.17 para.2(3), (4).</td></tr>
+<tr><td>(5)</td><td>1972 Sch.17 para.2(5), (6).</td></tr>
+<tr><td>(6)</td><td>1972 Sch.17 para.2(7).</td></tr>
+<tr><td>(7)</td><td>1972 Sch.17 para.2(8).</td></tr>
+<tr><td>32(1)</td><td>1972 Sch.17 para.3(1).</td></tr>
+<tr><td>(2)</td><td>1972 Sch.17 para.3(2).</td></tr>
+<tr><td>(3)</td><td>1972 Sch.17 para.3(3)(a).</td></tr>
+<tr><td>(4)</td><td>1972 Sch.17 para.3(1).</td></tr>
+<tr><td>(5)</td><td>1972 Sch.17 para.3(3)(b); 1986 Sch.11 para.37(2).</td></tr>
+<tr><td>(6)</td><td>1972 Sch.17 para.3(3A); 1986 Sch.11 para.37(2).</td></tr>
+<tr><td>(7)</td><td>1972 Sch.17 para.3(4); Sc Law Com Rec No.25.</td></tr>
+<tr><td>(8)</td><td>1972 Sch.17 para.3(5); Sc Law Com Rec No.26.</td></tr>
+<tr><td>33</td><td>1972 Sch.17 para.4.</td></tr>
+<tr><td>34(1)</td><td>1972 s.92(1), (2).</td></tr>
+<tr><td>(2)</td><td>1972 s.92(1),(1A); 1982 Sch.2 para.26(a), (b).</td></tr>
+<tr><td>(3)</td><td>1972 s.92(1A); 1982 Sch.2 para.26(b).</td></tr>
+<tr><td>(4)</td><td>1972 s.92(2A); 1982 Sch.2 para.26(c).</td></tr>
+<tr><td>(5)</td><td>1972 s.92(4); 1991 Sch.10 para.4(b).</td></tr>
+<tr><td>(6)</td><td>1972 s.92(3),(3A); 1982 Sch.2 para.26(d).</td></tr>
+<tr><td>(7)</td><td>1972 s.92(5); 1991 Sch.10 para.5.</td></tr>
+<tr><td>(8)</td><td>1972 s.92(5A); 1991 Sch.10 para.5.</td></tr>
+<tr><td>(9)</td><td>1972 s.92(6).</td></tr>
+<tr><td>35(1)</td><td>1972 s.93(1); 1982 Sch.2 para.27(a); 1986 Sch.9 para.15(2); 1991 Sch.10 para.6(2)(a); drafting.</td></tr>
+<tr><td>(2)</td><td>1972 s.93(2); 1982 Sch.2 para.27(b); 1991 Sch.10 para.6(3).</td></tr>
+<tr><td>(3)</td><td>1972 s.93(3).</td></tr>
+<tr><td>(4)</td><td>1972 ss.85(2A), (2B)(a), 93(2A); 1982 Sch.2 paras.20(b), 27(b).</td></tr>
+<tr><td>(5)</td><td>1972 s.93(8).</td></tr>
+<tr><td>36(1)</td><td>1972 ss.85(2B), 93(2A); 1982 Sch.2 paras.20(b), 27(b); 1991 Sch.13 para.20(a).</td></tr>
+<tr><td>(2)</td><td>1972 ss.85(2D), 93(2A); 1982 Sch.2 paras.20(b), 27(b).</td></tr>
+<tr><td>37(1)</td><td>1972 s.93(5).</td></tr>
+<tr><td>(2)</td><td>1972 s.93(4); 1991 Sch.10 para.6(4).</td></tr>
+<tr><td>(3)</td><td>1972 ss.85(2C), 93(2A); 1982 Sch.2 paras.20(b), 27(b).</td></tr>
+<tr><td>(4)</td><td>1972 s.93(5).</td></tr>
+<tr><td>(5)</td><td>1972 s.93(6); 1982 Sch.2 para.27(c).</td></tr>
+<tr><td>(6)</td><td>1972 s.93(7).</td></tr>
+<tr><td>38(1),(2)</td><td>1972 s.95(1), (2).</td></tr>
+<tr><td>(3)</td><td>1972 ss.88(3), 95(3); 1982 Sch.2 para.23(b).</td></tr>
+<tr><td>(4),(5)</td><td>1972 ss.88(4), 95(3); 1982 Sch.2 para.23(b).</td></tr>
+<tr><td>(6),(7)</td><td>1972 ss.88(5), 95(3); 1982 Sch.2 para.23(b); Sc Law Com Rec No.27.</td></tr>
+<tr><td>(8)</td><td>1972 s.95(4); 1991 Sch.10 para.8.</td></tr>
+<tr><td>39(1) to (6)</td><td>1972 s.94; 1991 Sch.10 para.7.</td></tr>
+<tr><td>40(1)</td><td>1972 s.95A(1), (2); 1986 Sch.9 para.19.</td></tr>
+<tr><td>(2)</td><td>1972 s.95A(3); 1986 Sch.9 para.19.</td></tr>
+<tr><td>41(1) to (3)</td><td>1972 s.260(5).</td></tr>
+<tr><td>(4)</td><td>1972 s.260(5); Sc Law Com Rec No.2.</td></tr>
+<tr><td>42(1)</td><td>1972 s.104(1), (2).</td></tr>
+<tr><td>(2)</td><td>1972 s.104(4).</td></tr>
+<tr><td>(3)</td><td>1972 s.104(5).</td></tr>
+<tr><td>(4),(5)</td><td>1972 s.104(6).</td></tr>
+<tr><td>(6)</td><td>1972 s.104(7).</td></tr>
+<tr><td>(7)</td><td>1972 s.104(1).</td></tr>
+<tr><td>43(1) to (3)</td><td>1972 s.105(1) to (3).</td></tr>
+<tr><td>(4)</td><td>1972 ss.169(5), 179(4).</td></tr>
+<tr><td>(5)</td><td>1972 ss.105(4), 169(6).</td></tr>
+<tr><td>44</td><td>1972 s.106.</td></tr>
+<tr><td>45(1)</td><td>1972 s.107(1); Local Government (Scotland) Act 1973 (c.65) Sch.23 para.22(a).</td></tr>
+<tr><td>(2),(3)</td><td>1972 s.107(2), (3).</td></tr>
+<tr><td>(4)</td><td>1972 s.107(4).</td></tr>
+<tr><td>(5)</td><td>1972 s.107(4); Sc Law Com Rec No.28.</td></tr>
+<tr><td>(6)</td><td>1972 s.107(5); Local Government (Scotland) Act 1973 (c.65) Sch.23 para.22(c).</td></tr>
+<tr><td>(7)</td><td>1972 s.107(5).</td></tr>
+<tr><td>(8)</td><td>1972 s.107(6).</td></tr>
+<tr><td>(9)</td><td>1972 s.107(7).</td></tr>
+<tr><td>46(1)</td><td>1972 s.108(1).</td></tr>
+<tr><td>(2)</td><td>1972 s.108(2); Telecommunications Act 1984 (c.12) Sch.4 para.54(3).</td></tr>
+<tr><td>(3) to (5)</td><td>1972 s.108(3) to (5)</td></tr>
+<tr><td>47(1)</td><td>1972 s.109(1); Local Government (Scotland) Act 1973 (c.65) Sch.23 para.23.</td></tr>
+<tr><td>(2) to (4)</td><td>1972 s.109(2).</td></tr>
+<tr><td>48(1)</td><td>1972 s.116(1); Sc Law Com Rec No.29.</td></tr>
+<tr><td>(2)</td><td>Historic Buildings and Ancient Monuments Act 1953 (c.49) s.5(3); 1972 s.116(2).</td></tr>
+<tr><td>49(1) to (3)</td><td>1972 s.97(1); 1986 Sch.9 para.20.</td></tr>
+<tr><td>(4)</td><td>1972 s.97(3); 1986 Sch.9 para.20.</td></tr>
+<tr><td>(5),(6)</td><td>1972 s.97(4); 1986 Sch.9 para.20.</td></tr>
+<tr><td>50(1) to (5)</td><td>1972 s.97A; 1986 Sch.9 para.20.</td></tr>
+<tr><td>51(1) to (6)</td><td>Civic Amenities Act 1967 (c.69) s.5; Planning (Listed Buildings and Conservation Areas) Act 1990 (c.9) s.57; Planning (Consequential Provisions) Act 1990 (c.11) Sch.2 para.16.</td></tr>
+<tr><td>52(1) to (5)</td><td>Civic Amenities Act 1967 (c.69) s.5; Planning (Listed Buildings and Conservation Areas) Act 1990 (c.9) s.58; Planning (Consequential Provisions) Act 1990 (c.11) Sch.2 para.16.</td></tr>
+<tr><td>53(1)</td><td>1972 s.55(1); Criminal Procedure (Consequential Provisions) (Scotland) Act 1995 (c.40) Sch.1 paras.5, 6; Criminal Procedure (Scotland) Act 1995 (c.46) s.225.</td></tr>
+<tr><td>(2)</td><td>1972 s.55(1).</td></tr>
+<tr><td>(3)</td><td>1972 s.55(2).</td></tr>
+<tr><td>(4)</td><td>1972 s.55(3); 1986 Sch.11 para.44(1); 1991 Sch.13 para.18.</td></tr>
+<tr><td>54(1),(2)</td><td>1972 ss.54(1), 56(2), 97(3), 104(3); 1986 Sch.9 para.20.</td></tr>
+<tr><td>(3),(4)</td><td>1972 s.54(1).</td></tr>
+<tr><td>(5) to (7)</td><td>1972 s.56AA(1) to (3); 1986 Sch.9 para.18(1).</td></tr>
+<tr><td>55(1),(2)</td><td>1972 ss.54(1), 56(2), 97(3), 104(3); Ancient Monuments and Archaeological Areas Act 1979 (c.46) Sch.4 para.12; 1986 Sch.9 para.20.</td></tr>
+<tr><td>56(1) to (3)</td><td>1972 s.54C; 1982 s.42.</td></tr>
+<tr><td>57(1)</td><td>1972 s.231(1)(d), (e), (2)(f).</td></tr>
+<tr><td>(2)</td><td>1972 s.231(3)(h) to (k); 1982 s.47(c), Sch.2 para.35(b).</td></tr>
+<tr><td>(3)</td><td>1972 s.231(4).</td></tr>
+<tr><td>58(1)</td><td>1972 s.233(1), (3).</td></tr>
+<tr><td>(2)</td><td>1972 s.233(2).</td></tr>
+<tr><td>(3)</td><td>1972 s.233(1), (2); Sc Law Com Rec No.16.</td></tr>
+<tr><td>(4)</td><td>1972 s.233(4).</td></tr>
+<tr><td>(5)</td><td>1972 s.233(6).</td></tr>
+<tr><td>(6),(7)</td><td>1972 s.233(7).</td></tr>
+<tr><td>59(1)</td><td>1972 s.54(3); 1982 Sch.2 para.15(a).</td></tr>
+<tr><td>(2)</td><td>1972 s.115(1), (4).</td></tr>
+<tr><td>(3)</td><td>1972 s.115(3); Local Government (Scotland) Act 1973 (c.65) Sch.23 para.25.</td></tr>
+<tr><td>60(1)</td><td>1972 s.25(1); 1974 s.4(2).</td></tr>
+<tr><td>(2),(3)</td><td>1972 s.25(2), (3).</td></tr>
+<tr><td>(4)</td><td>1972 s.26(4).</td></tr>
+<tr><td>(5)</td><td>Drafting.</td></tr>
+<tr><td>61(1)</td><td>1972 s.262(1); 1974 s.2(1).</td></tr>
+<tr><td>(2)</td><td>1972 s.262(4); 1974 s.2(1).</td></tr>
+<tr><td>62(1) to (3)</td><td>1972 s.262(6); 1974 s.2(1).</td></tr>
+<tr><td>(4)</td><td>1972 s.262(7); 1974 s.2(1).</td></tr>
+<tr><td>(5)</td><td>1972 s.262(9); 1974 s.2(1).</td></tr>
+<tr><td>63(1)</td><td>1972 s.262B(1); 1974 s.2(1); 1982 Sch.2 para.39.</td></tr>
+<tr><td>(2),(3)</td><td>1972 s.262B(2); 1974 s.2(1).</td></tr>
+<tr><td>64(1),(2)</td><td>1972 s.262(8); 1974 s.2(1).</td></tr>
+<tr><td>65(1)</td><td>1972 s.25(1); 1974 s.4(2).</td></tr>
+<tr><td>(2),(3)</td><td>1972 s.25(2), (3).</td></tr>
+<tr><td>(4)</td><td>1972 s.26(4).</td></tr>
+<tr><td>(5)</td><td>Drafting.</td></tr>
+<tr><td>66(1)</td><td>1972 s.262A(2); 1974 s.2(1).</td></tr>
+<tr><td>(2)</td><td>1972 s.262A(7); 1974 s.2(1).</td></tr>
+<tr><td>(3)</td><td>1972 s.262A(8); 1974 s.2(1); 1986 Sch.9 para.21.</td></tr>
+<tr><td>(4)</td><td>1972 s.262A(9); 1974 s.2(1).</td></tr>
+<tr><td>67(1)</td><td>1972 s.262A(1); 1974 s.2(1).</td></tr>
+<tr><td>(2)</td><td>1972 s.262A(4); 1974 s.2(1).</td></tr>
+<tr><td>(3)</td><td>1972 s.262A(5); 1974 s.2(1).</td></tr>
+<tr><td>(4)</td><td>1972 s.262A(6); 1974 s.2(1).</td></tr>
+<tr><td>(5)</td><td>1972 ss.56(2), 262A(1); 1974 s.2(1).</td></tr>
+<tr><td>(6)</td><td>1972 s.54(1); 1974 s.2(1).</td></tr>
+<tr><td>(7) to (9)</td><td>1972 ss.56AA(1), 262A(8); 1986 Sch.9 para.18(1), 21(a).</td></tr>
+<tr><td>(10), (11)</td><td>1972 s.262A(10); 1974 s.2(1).</td></tr>
+<tr><td>68</td><td>1972 s.97(1), (2); 1986 Sch.9 para.20.</td></tr>
+<tr><td>69(1)</td><td>1972AM s.10(1); 1972 Sch.21 Pt. II ; 1974 s.13(2).</td></tr>
+<tr><td>(2)</td><td>1972AM s.10(2).</td></tr>
+<tr><td>(3)</td><td>1972AM s.10(3); National Heritage Act 1983 (c.47) Sch.4 para.22(6).</td></tr>
+<tr><td>(4)</td><td>1972AM s.10(4).</td></tr>
+<tr><td>(5),(6)</td><td>1972AM s.10(5).</td></tr>
+<tr><td>70(1)</td><td>1972AM s.10A(1); Ancient Monuments and Archaeological Areas Act 1979 (c.46) s.48(1).</td></tr>
+<tr><td>(2)</td><td>1972AM s.10A(1), (4); Ancient Monuments and Archaeological Areas Act 1979 (c.46) s.48(1).</td></tr>
+<tr><td>(3)</td><td>1972AM s.10A(2); Ancient Monuments and Archaeological Areas Act 1979 (c.46) s.48(1).</td></tr>
+<tr><td>(4)</td><td>1972AM s.10A(4), (5); Ancient Monuments and Archaeological Areas Act 1979 (c.46) s.48(1).</td></tr>
+<tr><td>(5)</td><td>1972AM s.10A(4), (7); Ancient Monuments and Archaeological Areas Act 1979 (c.46) s.48(1).</td></tr>
+<tr><td>(6)</td><td>1972AM s.10A(4), (6); Ancient Monuments and Archaeological Areas Act 1979 (c.46) s.48(1).</td></tr>
+<tr><td>(7)</td><td>1972AM s.10A(3); Ancient Monuments and Archaeological Areas Act 1979 (c.46) s.48(1).</td></tr>
+<tr><td>(8)</td><td>1972AM s.10A(8); Ancient Monuments and Archaeological Areas Act 1979 (c.46) s.48(1); Sc Law Com Rec No.30.</td></tr>
+<tr><td>71(1)</td><td>1972AM s.10C(4); 1986 s.51.</td></tr>
+<tr><td>(2)</td><td>1972AM s.10C(3); 1986 s.51.</td></tr>
+<tr><td>72(1)</td><td>1972AM s.10C(1), (2); 1986 s.51.</td></tr>
+<tr><td>(2)</td><td>1972AM s.10C(5); 1986 s.51.</td></tr>
+<tr><td>(3)</td><td>1972AM s.10C(6), (7); 1986 s.51.</td></tr>
+<tr><td>(4)</td><td>1972AM s.10C(8); 1986 s.51.</td></tr>
+<tr><td>(5)</td><td>1972AM s.10C(9); 1986 s.51.</td></tr>
+<tr><td>(6)</td><td>1972AM s.10C(10); 1986 s.51; Planning (Listed Buildings and Conservation Areas) Act 1990 (c.9) s.58; Planning (Consequential Provisions) Act 1990 (c.11) Sch.2 para.26.</td></tr>
+<tr><td>73(1)</td><td>1972 s.256(1), Sch.19 Pt.III.</td></tr>
+<tr><td>(2)</td><td>1972 s.257; 1974 s.7(2).</td></tr>
+<tr><td>(3)</td><td>1972 s.257, Sch.19 Pt. IV ; 1974 s.7(2); 1986 Sch.9 para.24; Sc Law Com Rec No.31.</td></tr>
+<tr><td>(4)</td><td>1972 ss.256(2), 257; 1974 s.7(2).</td></tr>
+<tr><td>74(1)</td><td>1972 s.253(1).</td></tr>
+<tr><td>(2)</td><td>1972 s.253(2); 1986 Sch.7 Pt.II para.3.</td></tr>
+<tr><td>(3)</td><td>1972 s.253(4).</td></tr>
+<tr><td>(4)</td><td>1972 s.253(5).</td></tr>
+<tr><td>(5)</td><td>Town and Country Planning Act 1984 (c.10) s.4(1).</td></tr>
+<tr><td>(6) to (8)</td><td>1972 s.253(7).</td></tr>
+<tr><td>75(1) to (3)</td><td>Town and Country Planning Act 1984 (c.10) s.1(1) to (3).</td></tr>
+<tr><td>(4)</td><td>Town and Country Planning Act 1984 (c.10) s.1(5).</td></tr>
+<tr><td>(5)</td><td>Town and Country Planning Act 1984 (c.10) s.1(7).</td></tr>
+<tr><td>(6)</td><td>Town and Country Planning Act 1984 (c.10) s.4(1).</td></tr>
+<tr><td>(7)</td><td>Town and Country Planning Act 1984 (c.10) s.1(6).</td></tr>
+<tr><td>(8)</td><td>Town and Country Planning Act 1984 (c.10) s.6(1).</td></tr>
+<tr><td>76(1)</td><td>1972 s.265(2); 1991 Sch.10 para.12(a).</td></tr>
+<tr><td>(2)</td><td>1972 s.265(1)(c), (3), (4); Town and Country Planning (Scotland) Act 1977 (c.10) s.5(3); 1991 Sch.10 para.12(b), Sch.13 para.38(b); Sc Law Com Rec No.32.</td></tr>
+<tr><td>(3) to (6)</td><td>1972 s.265(5) to (8).</td></tr>
+<tr><td>77(1) to (3)</td><td>1972 s.97AB; 1991 Sch.10 para.10.</td></tr>
+<tr><td>78(1) to (10)</td><td>1972 s.97AC; 1991 Sch.10 para.10.</td></tr>
+<tr><td>79(1)</td><td>1972 ss.145, 260A, 267 to 267B, 269 to 271, 274, 278; 1991 s.35.</td></tr>
+<tr><td>(2)</td><td>1972 s.271(1).</td></tr>
+<tr><td>80(1)</td><td>1972 s.241; Sc Law Com Rec No.33.</td></tr>
+<tr><td>(2)</td><td>1972 s.242(2).</td></tr>
+<tr><td>(3)</td><td>Drafting.</td></tr>
+<tr><td>(4)</td><td>1972 s.250(2), Sch.19 Pts.I and II.</td></tr>
+<tr><td>(5)</td><td>1972 s.250(3), (4); Local Government (Scotland) Act 1973 (c.65) Sch.23 para.30.</td></tr>
+<tr><td>(6)</td><td>1972 s.247(1)(b), (f), (2); 1972AM s.10(1), (5); 1986 s.56(1).</td></tr>
+<tr><td>(7)</td><td>1972 s.249.</td></tr>
+<tr><td>81(1),(2)</td><td>1972 s.275(1); drafting.</td></tr>
+<tr><td>(3)</td><td>Post Office Act 1969 (c.48) Sch.4 para.93(1)(xxxiv); 1972 ss.180A, 275, Sch.21 Pt.II; Civil Aviation Act 1982 (c.16) Sch.2 para.4; Telecommunications Act 1984 (c.12) Sch.4 para.54(3), (5); Electricity Act 1989 (c.29) Sch.16 para.1(1)(xxiii); Gas Act 1995 (c.45) Sch.4 para.2(1)(xix).</td></tr>
+<tr><td>(4)</td><td>1972 s.275(9).</td></tr>
+<tr><td>(5)</td><td>1972 s.275(3).</td></tr>
+<tr><td>(6)</td><td>Civic Amenities Act 1967 (c.69) s.5; Planning (Listed Buildings and Conservation Areas) Act 1990 (c.9) ss.57, 91(7); Planning (Consequential Provisions) Act 1990 (c.11) Sch.2 para.16.</td></tr>
+<tr><td>(7)</td><td>1972 s.275(7).</td></tr>
+<tr><td>(8)</td><td>1972 s.275(10).</td></tr>
+<tr><td>82(1)</td><td>1972 s.273(1).</td></tr>
+<tr><td>(2),(3)</td><td>1972 s.273(2).</td></tr>
+<tr><td>(4)</td><td>1972 s.273(4); 1986 Sch.9 para.18(2)(a).</td></tr>
+<tr><td>(5)</td><td>1972 s.273(5); 1986 Sch.9 para.18(2)(b).</td></tr>
+<tr><td>(6)</td><td>1972 s.273(9); Sc Law Com Rec No.34.</td></tr>
+<tr><td>(7)</td><td>1972 s.273(3).</td></tr>
+<tr><td>83(1) to (3)</td><td>Drafting.</td></tr>
+<tr><td colspan="2">Sch. 1</td></tr>
+<tr><td>para.1</td><td>1972 s.52(8).</td></tr>
+<tr><td>para.2</td><td>1972 s.52(8), (9).</td></tr>
+<tr><td>para.3</td><td>1972 s.93(5)(c), Sch.10 para.7(2)(a), (3)(b).</td></tr>
+<tr><td colspan="2">Sch. 2</td></tr>
+<tr><td>para.1</td><td>1972 Sch.10 para.12.</td></tr>
+<tr><td>para.2</td><td>1972 Sch.10 para.13.</td></tr>
+<tr><td>para.3</td><td>1972 Sch.10 para.14.</td></tr>
+<tr><td>para.4</td><td>1972 Sch.10 para.15; Local Government (Scotland) Act 1973 (c.65) Sch.23 para.33.</td></tr>
+<tr><td colspan="2">Sch. 3</td></tr>
+<tr><td>para.1</td><td>1972 Sch.7 para.1(1) to (3); drafting.</td></tr>
+<tr><td>para.2</td><td>1972 Sch.7 para.2(1) to (4); 1986 Sch.11 para.53; 1991 Sch.13 para.41(2).</td></tr>
+<tr><td>para.3</td><td>1972 Sch.7 para.3(1) to (5); 1991 Sch.13 para.41(3).</td></tr>
+<tr><td>para.4</td><td>1972 Sch.7 para.3A(1) to (4); 1986 Sch.11 para.42; 1991 Sch.13 para.41(4).</td></tr>
+<tr><td>para.5</td><td>1972 Sch.7 para.4(1), (3).</td></tr>
+<tr><td>para.6</td><td>1972 Sch.7 para.5; 1986 Sch.11 paras.40(2), 43.</td></tr>
+<tr><td>para.7</td><td>1972 Sch.7 para.7; Tribunals and Inquiries Act 1992 (c.53) Sch.3 para.7.</td></tr>
+</tbody>
+</table>
+
+---
+
+[^F1]: Words in s. 1(1) substituted (27.2.2015 for specified purposes, 1.10.2015 in so far as not already in force) by Historic Environment Scotland Act 2014 (asp 19), s. 31(2), sch. 3 para. 2(a) (with ss. 29, 30); S.S.I. 2015/31, art. 2, sch.; S.S.I. 2015/196, art. 2, sch.
+[^F2]: Words in s. 1(2) substituted (27.2.2015 for specified purposes, 1.10.2015 in so far as not already in force) by Historic Environment Scotland Act 2014 (asp 19), s. 31(2), sch. 3 para. 2(b) (with ss. 29, 30); S.S.I. 2015/31, art. 2, sch.; S.S.I. 2015/196, art. 2, sch.
+[^F3]: Words in s. 1(3) substituted (27.2.2015 for specified purposes, 1.10.2015 in so far as not already in force) by Historic Environment Scotland Act 2014 (asp 19), s. 31(2), sch. 3 para. 2(c)(i) (with ss. 29, 30); S.S.I. 2015/31, art. 2, sch.; S.S.I. 2015/196, art. 2, sch.
+[^F4]: Word in s. 1(3) substituted (27.2.2015 for specified purposes, 1.10.2015 in so far as not already in force) by Historic Environment Scotland Act 2014 (asp 19), s. 31(2), sch. 3 para. 2(c)(ii) (with ss. 29, 30); S.S.I. 2015/31, art. 2, sch.; S.S.I. 2015/196, art. 2, sch.
+[^F5]: Words in s. 1(4) substituted (27.2.2015 for specified purposes, 1.10.2015 in so far as not already in force) by Historic Environment Scotland Act 2014 (asp 19), s. 31(2), sch. 3 para. 2(d) (with ss. 29, 30); S.S.I. 2015/31, art. 2, sch.; S.S.I. 2015/196, art. 2, sch.
+[^F6]: Words in s. 1(4) inserted (1.10.2015) by Historic Environment Scotland Act 2014 (asp 19), ss. 22(2)(a), 31(2) (with ss. 29, 30); S.S.I. 2015/196, art. 2, sch.
+[^F7]: S. 1(4A) inserted (1.10.2015) by Historic Environment Scotland Act 2014 (asp 19), ss. 22(2)(b), 31(2) (with ss. 29, 30); S.S.I. 2015/196, art. 2, sch.
+[^F8]: S. 1A inserted (27.2.2015 for specified purposes, 1.10.2015 in so far as not already in force) by Historic Environment Scotland Act 2014 (asp 19), s. 31(2), sch. 3 para. 3 (with ss. 29, 30); S.S.I. 2015/31, art. 2, sch.; S.S.I. 2015/196, art. 2, sch.
+[^F9]: S. 2 repealed (27.2.2015 for specified purposes, 1.10.2015 in so far as not already in force) by Historic Environment Scotland Act 2014 (asp 19), s. 31(2), sch. 3 para. 4 (with ss. 29, 30); S.S.I. 2015/31, art. 2, sch.; S.S.I. 2015/196, art. 2, sch.
+[^F10]: Words in s. 3(2) substituted (27.2.2015 for specified purposes, 1.10.2015 in so far as not already in force) by Historic Environment Scotland Act 2014 (asp 19), s. 31(2), sch. 3 para. 5(a) (with ss. 29, 30); S.S.I. 2015/31, art. 2, sch.; S.S.I. 2015/196, art. 2, sch.
+[^F11]: Words in s. 3(4) substituted (27.2.2015 for specified purposes, 1.10.2015 in so far as not already in force) by Historic Environment Scotland Act 2014 (asp 19), s. 31(2), sch. 3 para. 5(b)(i) (with ss. 29, 30); S.S.I. 2015/31, art. 2, sch.; S.S.I. 2015/196, art. 2, sch.
+[^F12]: Word in s. 3(4)(b) substituted (27.2.2015 for specified purposes, 1.10.2015 in so far as not already in force) by Historic Environment Scotland Act 2014 (asp 19), s. 31(2), sch. 3 para. 5(b)(ii) (with ss. 29, 30); S.S.I. 2015/31, art. 2, sch.; S.S.I. 2015/196, art. 2, sch.
+[^F13]: Words in s. 3(6) substituted (27.2.2015 for specified purposes, 1.10.2015 in so far as not already in force) by Historic Environment Scotland Act 2014 (asp 19), s. 31(2), sch. 3 para. 5(c)(i) (with ss. 29, 30); S.S.I. 2015/31, art. 2, sch.; S.S.I. 2015/196, art. 2, sch.
+[^F14]: Word in s. 3(6) substituted (27.2.2015 for specified purposes, 1.10.2015 in so far as not already in force) by Historic Environment Scotland Act 2014 (asp 19), s. 31(2), sch. 3 para. 5(c)(ii) (with ss. 29, 30); S.S.I. 2015/31, art. 2, sch.; S.S.I. 2015/196, art. 2, sch.
+[^F15]: Words in s. 3(6)(a) substituted (27.2.2015 for specified purposes, 1.10.2015 in so far as not already in force) by Historic Environment Scotland Act 2014 (asp 19), s. 31(2), sch. 3 para. 5(c)(iii) (with ss. 29, 30); S.S.I. 2015/31, art. 2, sch.; S.S.I. 2015/196, art. 2, sch.
+[^F16]: Words in s. 3(6)(b) substituted (27.2.2015 for specified purposes, 1.10.2015 in so far as not already in force) by Historic Environment Scotland Act 2014 (asp 19), s. 31(2), sch. 3 para. 5(c)(iii) (with ss. 29, 30); S.S.I. 2015/31, art. 2, sch.; S.S.I. 2015/196, art. 2, sch.
+[^F17]: S. 5A inserted (1.12.2011) by Historic Environment (Amendment) (Scotland) Act 2011 (asp 3), ss. 18(1), 33(2); S.S.I. 2011/372, art. 2, sch.
+[^F18]: Words in s. 5A(1) substituted (27.2.2015 for specified purposes, 1.10.2015 in so far as not already in force) by Historic Environment Scotland Act 2014 (asp 19), s. 31(2), sch. 3 para. 6(a)(i) (with ss. 29, 30); S.S.I. 2015/31, art. 2, sch.; S.S.I. 2015/196, art. 2, sch.
+[^F19]: Words in s. 5A(1) substituted (27.2.2015 for specified purposes, 1.10.2015 in so far as not already in force) by Historic Environment Scotland Act 2014 (asp 19), s. 31(2), sch. 3 para. 6(a)(ii) (with ss. 29, 30); S.S.I. 2015/31, art. 2, sch.; S.S.I. 2015/196, art. 2, sch.
+[^F20]: Words in s. 5A(2) substituted (27.2.2015 for specified purposes, 1.10.2015 in so far as not already in force) by Historic Environment Scotland Act 2014 (asp 19), s. 31(2), sch. 3 para. 6(b)(i) (with ss. 29, 30); S.S.I. 2015/31, art. 2, sch.; S.S.I. 2015/196, art. 2, sch.
+[^F21]: Word in s. 5A(2)(a) substituted (27.2.2015 for specified purposes, 1.10.2015 in so far as not already in force) by Historic Environment Scotland Act 2014 (asp 19), s. 31(2), sch. 3 para. 6(b)(ii) (with ss. 29, 30); S.S.I. 2015/31, art. 2, sch.; S.S.I. 2015/196, art. 2, sch.
+[^F22]: Words in s. 5A(3) substituted (27.2.2015 for specified purposes, 1.10.2015 in so far as not already in force) by Historic Environment Scotland Act 2014 (asp 19), s. 31(2), sch. 3 para. 6(c) (with ss. 29, 30); S.S.I. 2015/31, art. 2, sch.; S.S.I. 2015/196, art. 2, sch.
+[^F23]: Ss. 5B-5D inserted (27.2.2015 for specified purposes, 1.10.2015 in so far as not already in force) by Historic Environment Scotland Act 2014 (asp 19), s. 31(2), sch. 3 para. 18 (with ss. 29, 30); S.S.I. 2015/31, art. 2, sch.; S.S.I. 2015/196, art. 2, sch.
+[^F24]: Words in s. 7(2)(b) substituted (27.2.2015 for specified purposes, 1.10.2015 in so far as not already in force) by Historic Environment Scotland Act 2014 (asp 19), s. 31(2), sch. 3 para. 8(a)(i) (with ss. 29, 30); S.S.I. 2015/31, art. 2, sch.; S.S.I. 2015/196, art. 2, sch.
+[^F25]: Words in s. 7(2)(c)(i) substituted (27.2.2015 for specified purposes, 1.10.2015 in so far as not already in force) by Historic Environment Scotland Act 2014 (asp 19), s. 31(2), sch. 3 para. 8(a)(ii) (with ss. 29, 30); S.S.I. 2015/31, art. 2, sch.; S.S.I. 2015/196, art. 2, sch.
+[^F26]: S. 7(2)(c)(ii) substituted (27.2.2015 for specified purposes, 1.10.2015 in so far as not already in force) by Historic Environment Scotland Act 2014 (asp 19), s. 31(2), sch. 3 para. 8(a)(iii) (with ss. 29, 30); S.S.I. 2015/31, art. 2, sch.; S.S.I. 2015/196, art. 2, sch.
+[^F27]: S. 7(4) repealed (27.2.2015 for specified purposes, 1.10.2015 in so far as not already in force) by Historic Environment Scotland Act 2014 (asp 19), s. 31(2), sch. 3 para. 8(b) (with ss. 29, 30); S.S.I. 2015/31, art. 2, sch.; S.S.I. 2015/196, art. 2, sch.
+[^F28]: Words in s. 7(5) substituted (27.2.2015 for specified purposes, 1.10.2015 in so far as not already in force) by Historic Environment Scotland Act 2014 (asp 19), s. 31(2), sch. 3 para. 8(c) (with ss. 29, 30); S.S.I. 2015/31, art. 2, sch.; S.S.I. 2015/196, art. 2, sch.
+[^F29]: Word in s. 8(4)(a) substituted (1.12.2011) by Historic Environment (Amendment) (Scotland) Act 2011 (asp 3), ss. 19, 33(2); S.S.I. 2011/372, art. 2, sch.
+[^F30]: Words in s. 9(1) inserted (11.5.2006) by The Planning and Compulsory Purchase Act 2004 (Commencement No. 2 and Consequential Provisions) (Scotland) Order 2006 (S.S.I. 2006/243), arts. 1(1), 5(2)
+[^F31]: Words in s. 9(2) repealed (12.12.2008 for specified purposes) by Planning etc. (Scotland) Act 2006 (asp 17), ss. 7(3)(a), 59(2); S.S.I. 2008/411, art. 2(2)(3)(a)
+[^F32]: S. 9(3)(a)-(ab) substituted for s. 9(3)(a) (12.12.2008 for specified purposes) by Planning etc. (Scotland) Act 2006 (asp 17), ss. 7(3)(b), 59(2); S.S.I. 2008/411, art. 2(2)(3)(a)
+[^F33]: S. 9(3)(ac)(ad) inserted (1.12.2019) by Planning (Scotland) Act 2019 (asp 13), ss. 52(2), 63(2); S.S.I. 2019/385, reg. 2, sch.
+[^F34]: Word in s. 9(3) repealed (27.2.2015 for specified purposes, 1.10.2015 in so far as not already in force) by Historic Environment Scotland Act 2014 (asp 19), s. 31(2), sch. 3 para. 9(a)(i) (with ss. 29, 30); S.S.I. 2015/31, art. 2, sch.; S.S.I. 2015/196, art. 2, sch.
+[^F35]: S. 9(3)(d) and word inserted (27.2.2015 for specified purposes, 1.10.2015 in so far as not already in force) by Historic Environment Scotland Act 2014 (asp 19), s. 31(2), sch. 3 para. 9(a)(ii) (with ss. 29, 30); S.S.I. 2015/31, art. 2, sch.; S.S.I. 2015/196, art. 2, sch.
+[^F36]: S. 9(4)(5) inserted (12.12.2008 for specified purposes) by Planning etc. (Scotland) Act 2006 (asp 17), ss. 7(3)(c), 59(2); S.S.I. 2008/411, art. 2(2)(3)(a)
+[^F37]: S. 9(6)(7) inserted (27.2.2015 for specified purposes, 1.10.2015 in so far as not already in force) by Historic Environment Scotland Act 2014 (asp 19), s. 31(2), sch. 3 para. 9(b) (with ss. 29, 30); S.S.I. 2015/31, art. 2, sch.; S.S.I. 2015/196, art. 2, sch.
+[^F38]: S. 10A inserted (30.6.2011 for specified purposes, 1.12.2011 in so far as not already in force) by Historic Environment (Amendment) (Scotland) Act 2011 (asp 3), ss. 20(1), 33(2); S.S.I. 2011/174, art. 2, sch.; S.S.I. 2011/372, art. 2, sch.
+[^F39]: S. 11(4) repealed (1.12.2011) by Historic Environment (Amendment) (Scotland) Act 2011 (asp 3), ss. 21(a), 33(2); S.S.I. 2011/372, art. 2, sch.
+[^F40]: Words in s. 12(1) inserted (27.2.2015 for specified purposes, 1.10.2015 in so far as not already in force) by Historic Environment Scotland Act 2014 (asp 19), ss. 23(2)(a), 31(2) (with ss. 29, 30); S.S.I. 2015/31, art. 2, sch.; S.S.I. 2015/196, art. 2, sch.
+[^F41]: S. 12(1A)(1B) inserted (27.2.2015 for specified purposes, 1.10.2015 in so far as not already in force) by Historic Environment Scotland Act 2014 (asp 19), ss. 23(2)(b), 31(2) (with ss. 29, 30); S.S.I. 2015/31, art. 2, sch.; S.S.I. 2015/196, art. 2, sch.
+[^F42]: S. 13(1)(2) repealed (27.2.2015 for specified purposes, 1.10.2015 in so far as not already in force) by Historic Environment Scotland Act 2014 (asp 19), ss. 23(3)(a), 31(2) (with ss. 29, 30); S.S.I. 2015/31, art. 2, sch.; S.S.I. 2015/196, art. 2, sch.
+[^F43]: S. 13(4) added (1.6.2008) by Planning etc. (Scotland) Act 2006 (asp 17), ss. 55(2), 59(2); S.S.I. 2008/191, art. 2
+[^F44]: Words in s. 13(4) repealed (27.2.2015 for specified purposes, 1.10.2015 in so far as not already in force) by Historic Environment Scotland Act 2014 (asp 19), ss. 23(3)(b), 31(2) (with ss. 29, 30); S.S.I. 2015/31, art. 2, sch.; S.S.I. 2015/196, art. 2, sch.
+[^F45]: S. 14(2A) inserted (27.2.2015 for specified purposes, 1.10.2015 in so far as not already in force) by Historic Environment Scotland Act 2014 (asp 19), ss. 23(4), 31(2) (with ss. 29, 30); S.S.I. 2015/31, art. 2, sch.; S.S.I. 2015/196, art. 2, sch.
+[^F46]: Words in s. 15(3)(a) substituted (3.8.2009) by The Planning etc. (Scotland) Act 2006 (Consequential Amendments) Order 2009 (S.S.I. 2009/256), arts. 1(3), 3(2)(a)
+[^F47]: Words in s. 15(3)(a) substituted (3.8.2009) by The Planning etc. (Scotland) Act 2006 (Consequential Amendments) Order 2009 (S.S.I. 2009/256), arts. 1(3), 3(2)(b)
+[^F48]: S. 16(1)(1A)(2) substituted for s. 16(1)(2) (12.12.2008 for specified purposes, 1.12.2011 in so far as not already in force) by Planning etc. (Scotland) Act 2006 (asp 17), ss. 20(3), 59(2); S.S.I. 2008/411, art. 2(2)(3)(a); S.S.I. 2011/382, art. 2(1)(2)(a)
+[^F49]: Word in s. 18(2) substituted (30.6.2011 for specified purposes, 1.12.2011 in so far as not already in force) by Historic Environment (Amendment) (Scotland) Act 2011 (asp 3), ss. 20(2)(a), 33(2); S.S.I. 2011/174, art. 2, sch.; S.S.I. 2011/372, art. 2, sch.
+[^F50]: Word in s. 18(2) repealed (30.6.2011 for specified purposes, 1.12.2011 in so far as not already in force) by Historic Environment (Amendment) (Scotland) Act 2011 (asp 3), ss. 20(2)(b), 33(2); S.S.I. 2011/174, art. 2, sch.; S.S.I. 2011/372, art. 2, sch.
+[^F51]: S. 18(2)(aa) inserted (30.6.2011 for specified purposes, 1.12.2011 in so far as not already in force) by Historic Environment (Amendment) (Scotland) Act 2011 (asp 3), ss. 20(2)(c), 33(2); S.S.I. 2011/174, art. 2, sch.; S.S.I. 2011/372, art. 2, sch.
+[^F52]: Words in s. 19(3) substituted (27.2.2015 for specified purposes, 1.10.2015 in so far as not already in force) by Historic Environment Scotland Act 2014 (asp 19), s. 31(2), sch. 3 para. 19 (with ss. 29, 30); S.S.I. 2015/31, art. 2, sch.; S.S.I. 2015/196, art. 2, sch.
+[^F53]: S. 20(1)(b) substituted (27.2.2015 for specified purposes, 1.10.2015 in so far as not already in force) by Historic Environment Scotland Act 2014 (asp 19), s. 31(2), sch. 3 para. 20 (with ss. 29, 30); S.S.I. 2015/31, art. 2, sch.; S.S.I. 2015/196, art. 2, sch.
+[^F54]: S. 20(2) repealed (1.12.2011 in so far as not already in force) by Planning etc. (Scotland) Act 2006 (asp 17), s. 59(2), sch.; S.S.I. 2011/382, art. 2(1)(2)(b)(3)
+[^F55]: S. 22(2)(ca)(cb) inserted (27.2.2015 for specified purposes, 1.10.2015 in so far as not already in force) by Historic Environment Scotland Act 2014 (asp 19), s. 31(2), sch. 3 para. 10 (with ss. 29, 30); S.S.I. 2015/31, art. 2, sch.; S.S.I. 2015/196, art. 2, sch.
+[^F56]: Words in s. 23(1)(b) inserted (27.2.2015 for specified purposes, 1.10.2015 in so far as not already in force) by Historic Environment Scotland Act 2014 (asp 19), s. 31(2), sch. 3 para. 11 (with ss. 29, 30); S.S.I. 2015/31, art. 2, sch.; S.S.I. 2015/196, art. 2, sch.
+[^F57]: Words in s. 26(1) substituted (27.2.2015 for specified purposes, 1.10.2015 in so far as not already in force) by Historic Environment Scotland Act 2014 (asp 19), s. 31(2), sch. 3 para. 25 (with ss. 29, 30); S.S.I. 2015/31, art. 2, sch.; S.S.I. 2015/196, art. 2, sch.
+[^M1]: 1963 c. 51.
+[^M2]: 1963 c. 51.
+[^F58]: S. 28A inserted (12.6.2006) by Planning and Compulsory Purchase Act 2004 (c. 5), s. 121(4), Sch. 5 para. 2 (with s. 111); S.S.I. 2006/268, art. 3(f)
+[^F59]: S. 28A(3)(aa) inserted (1.4.2017) by The Crown Estate Transfer Scheme 2017 (S.I. 2017/524), art. 1(2), Sch. 5 para. 28(2)
+[^F60]: S. 34(1A) inserted (1.12.2011) by Historic Environment (Amendment) (Scotland) Act 2011 (asp 3), ss. 22(2)(a), 33(2); S.S.I. 2011/372, art. 2, sch.
+[^F61]: Words in s. 34(2) substituted (1.12.2011) by Historic Environment (Amendment) (Scotland) Act 2011 (asp 3), ss. 22(2)(b), 33(2); S.S.I. 2011/372, art. 2, sch.
+[^F62]: Words in s. 34(5) substituted (1.12.2011) by Historic Environment (Amendment) (Scotland) Act 2011 (asp 3), ss. 22(2)(c), 33(2); S.S.I. 2011/372, art. 2, sch.
+[^F63]: S. 34(5A)(5B) inserted (1.12.2011) by Historic Environment (Amendment) (Scotland) Act 2011 (asp 3), ss. 22(2)(d), 33(2); S.S.I. 2011/372, art. 2, sch.
+[^F64]: S. 35(1)(ia) inserted (1.12.2011) by Historic Environment (Amendment) (Scotland) Act 2011 (asp 3), ss. 22(3), 33(2); S.S.I. 2011/372, art. 2, sch.
+[^F65]: Word in s. 35(2) omitted (28.7.2004) by virtue of The Town and Country Planning (Electronic Communications) (Scotland) Order 2004 (S.S.I. 2004/332), arts. 1(1), 9(a)
+[^F66]: S. 35(2)(c) and word inserted (28.7.2004) by The Town and Country Planning (Electronic Communications) (Scotland) Order 2004 (S.S.I. 2004/332), arts. 1(1), 9(b)
+[^F67]: S. 36(2) repealed (1.12.2011 in so far as not already in force) by Planning etc. (Scotland) Act 2006 (asp 17), s. 59(2), sch.; S.S.I. 2011/382, art. 2(1)(2)(b)(3)
+[^F68]: S. 37(4)(c) substituted (27.2.2015 for specified purposes, 1.10.2015 in so far as not already in force) by Historic Environment Scotland Act 2014 (asp 19), s. 31(2), sch. 3 para. 21 (with ss. 29, 30); S.S.I. 2015/31, art. 2, sch.; S.S.I. 2015/196, art. 2, sch.
+[^F69]: Words in s. 39(1) inserted (1.12.2011) by Historic Environment (Amendment) (Scotland) Act 2011 (asp 3), ss. 22(4)(a), 33(2); S.S.I. 2011/372, art. 2, sch.
+[^F70]: Words in s. 39(4)(a) inserted (1.12.2011) by Historic Environment (Amendment) (Scotland) Act 2011 (asp 3), ss. 22(4)(b), 33(2); S.S.I. 2011/372, art. 2, sch.
+[^F71]: S. 39A inserted (30.6.2011 for specified purposes, 1.12.2011 in so far as not already in force) by Historic Environment (Amendment) (Scotland) Act 2011 (asp 3), ss. 24, 33(2); S.S.I. 2011/174, art. 2, sch.; S.S.I. 2011/372, art. 2, sch.
+[^F72]: Words in s. 40(1) inserted (1.12.2011) by Historic Environment (Amendment) (Scotland) Act 2011 (asp 3), ss. 22(5), 33(2); S.S.I. 2011/372, art. 2, sch.
+[^F73]: Ss. 41A-41I and cross-headings inserted (30.6.2011 for specified purposes, 1.12.2011 in so far as not already in force) by Historic Environment (Amendment) (Scotland) Act 2011 (asp 3), ss. 23(1), 33(2); S.S.I. 2011/174, art. 2, sch.; S.S.I. 2011/372, art. 2, Sch.
+[^M3]: 1947 c. 42.
+[^F74]: S. 42(6A) inserted (12.6.2006) by Planning and Compulsory Purchase Act 2004 (c. 5), s. 121(4), Sch. 5 para. 5 (with s. 111); S.S.I. 2006/268, art. 3(f)
+[^M4]: 1947 c. 42.
+[^M5]: 1947 c. 42.
+[^M6]: 1963 c. 51.
+[^F75]: Words in s. 46 substituted (17.9.2003) by The Communications Act 2003 (Consequential Amendments) Order 2003 (S.I. 2003/2155), art. 1(1), Sch. 1 para. 14(2)(a)
+[^F76]: Words in s. 46 substituted (17.9.2003) by The Communications Act 2003 (Consequential Amendments) Order 2003 (S.I. 2003/2155), art. 1(1), Sch. 1 para. 14(2)(b)
+[^F77]: Words in s. 46 substituted (17.9.2003) by The Communications Act 2003 (Consequential Amendments) Order 2003 (S.I. 2003/2155), art. 1(1), Sch. 1 para. 14(2)(c)
+[^F78]: Words in s. 46 substituted (17.9.2003) by The Communications Act 2003 (Consequential Amendments) Order 2003 (S.I. 2003/2155), art. 1(1), Sch. 1 para. 14(2)(d)
+[^M7]: 1963 c. 51.
+[^M8]: 1845 c. 19.
+[^M9]: 1845 c. 33.
+[^M10]: 1923 c. 20.
+[^F79]: Words in s. 49(3) added (1.12.2011) by Historic Environment (Amendment) (Scotland) Act 2011 (asp 3), ss. 25, 33(2); S.S.I. 2011/372, art. 2, sch.
+[^F80]: S. 50(6)(7) added (30.6.2011 for specified purposes, 1.12.2011 in so far as not already in force) by Historic Environment (Amendment) (Scotland) Act 2011 (asp 3), ss. 26(2), 33(2); S.S.I. 2011/174, art. 2, sch.; S.S.I. 2011/372, art. 2, sch.
+[^F81]: Ss. 50A-50G and cross-heading inserted (30.6.2011 for specified purposes, 1.12.2011 in so far as not already in force) by Historic Environment (Amendment) (Scotland) Act 2011 (asp 3), ss. 26(3), 33(2); S.S.I. 2011/174, art. 2, sch.; S.S.I. 2011/372, art. 2, sch.
+[^F82]: S. 51(5A) inserted (30.6.2011) by Historic Environment (Amendment) (Scotland) Act 2011 (asp 3), ss. 27(2)(a), 33(2); S.S.I. 2011/174, art. 2, sch.
+[^F83]: Words in s. 51(6) inserted (30.6.2011) by Historic Environment (Amendment) (Scotland) Act 2011 (asp 3), ss. 27(2)(b), 33(2); S.S.I. 2011/174, art. 2, sch.
+[^F84]: Words in s. 52(1) inserted (30.6.2011) by Historic Environment (Amendment) (Scotland) Act 2011 (asp 3), ss. 27(3)(a), 33(2); S.S.I. 2011/174, art. 2, sch.
+[^F85]: S. 52(1A) inserted (30.6.2011) by Historic Environment (Amendment) (Scotland) Act 2011 (asp 3), ss. 27(3)(b), 33(2); S.S.I. 2011/174, art. 2, sch.
+[^F86]: Words in s. 52(4) inserted (30.6.2011) by Historic Environment (Amendment) (Scotland) Act 2011 (asp 3), ss. 27(3)(c), 33(2); S.S.I. 2011/174, art. 2, sch.
+[^F87]: S. 52(4A) inserted (30.6.2011) by Historic Environment (Amendment) (Scotland) Act 2011 (asp 3), ss. 27(3)(d), 33(2); S.S.I. 2011/174, art. 2, sch.
+[^M11]: 1921 c. 29.
+[^M12]: 1979 c. 46.
+[^F88]: S. 57(2)(za) inserted (27.2.2015 for specified purposes, 1.10.2015 in so far as not already in force) by Historic Environment Scotland Act 2014 (asp 19), s. 31(2), sch. 3 para. 22 (with ss. 29, 30); S.S.I. 2015/31, art. 2, sch.; S.S.I. 2015/196, art. 2, sch.
+[^F89]: S. 57(2)(d) added (11.5.2006) by Planning and Compulsory Purchase Act 2004 (c. 5), ss. 93(2), 121(4) (with s. 111); S.S.I. 2006/243, art. 3
+[^M13]: 1992 c. 53.
+[^F90]: Words in s. 61(2) substituted (27.2.2015 for specified purposes, 1.10.2015 in so far as not already in force) by Historic Environment Scotland Act 2014 (asp 19), s. 31(2), sch. 3 para. 13(a) (with ss. 29, 30); S.S.I. 2015/31, art. 2, sch.; S.S.I. 2015/196, art. 2, sch.
+[^F91]: Words in s. 61(2) substituted (27.2.2015 for specified purposes, 1.10.2015 in so far as not already in force) by Historic Environment Scotland Act 2014 (asp 19), s. 31(2), sch. 3 para. 13(b) (with ss. 29, 30); S.S.I. 2015/31, art. 2, sch.; S.S.I. 2015/196, art. 2, sch.
+[^F92]: Words in s. 62(1) inserted (27.2.2015 for specified purposes, 1.10.2015 in so far as not already in force) by Historic Environment Scotland Act 2014 (asp 19), s. 31(2), sch. 3 para. 14(a) (with ss. 29, 30); S.S.I. 2015/31, art. 2, sch.; S.S.I. 2015/196, art. 2, sch.
+[^F93]: S. 62(2) substituted (27.2.2015 for specified purposes, 1.10.2015 in so far as not already in force) by Historic Environment Scotland Act 2014 (asp 19), s. 31(2), sch. 3 para. 14(b) (with ss. 29, 30); S.S.I. 2015/31, art. 2, sch.; S.S.I. 2015/196, art. 2, sch.
+[^F94]: Words in s. 62(4) substituted (27.2.2015 for specified purposes, 1.10.2015 in so far as not already in force) by Historic Environment Scotland Act 2014 (asp 19), s. 31(2), sch. 3 para. 14(c) (with ss. 29, 30); S.S.I. 2015/31, art. 2, sch.; S.S.I. 2015/196, art. 2, sch.
+[^F95]: Words in s. 62(5) substituted (27.2.2015 for specified purposes, 1.10.2015 in so far as not already in force) by Historic Environment Scotland Act 2014 (asp 19), s. 31(2), sch. 3 para. 14(d) (with ss. 29, 30); S.S.I. 2015/31, art. 2, sch.; S.S.I. 2015/196, art. 2, sch.
+[^M14]: 1953 c. 49.
+[^F96]: S. 66(2)(a)(b) substituted (1.10.2015) by Historic Environment Scotland Act 2014 (asp 19), ss. 24(2), 31(2) (with ss. 29, 30); S.S.I. 2015/196, art. 2, sch.
+[^F97]: Word in s. 66(3) substituted (30.6.2011 for specified purposes, 1.12.2011 in so far as not already in force) by Historic Environment (Amendment) (Scotland) Act 2011 (asp 3), ss. 23(2), 33(2); S.S.I. 2011/174, art. 2, sch.; S.S.I. 2011/372, art. 2, sch.
+[^F98]: Words in s. 66(3) inserted (11.5.2006) by The Planning and Compulsory Purchase Act 2004 (Commencement No. 2 and Consequential Provisions) (Scotland) Order 2006 (S.S.I. 2006/243), arts. 1(1), 5(3)
+[^M15]: 1979 c. 46.
+[^M16]: 1921 c. 29.
+[^F99]: Words in s. 69(1) substituted (1.4.2007) by Planning etc. (Scotland) Act 2006 (asp 17), ss. 55(3)(a), 59(2); S.S.I. 2007/130, art. 2(2), sch.
+[^F100]: Words in s. 69(1) substituted (1.4.2007) by Planning etc. (Scotland) Act 2006 (asp 17), ss. 55(3)(b), 59(2); S.S.I. 2007/130, art. 2(2), sch.
+[^F101]: Words in s. 69(3)(5) repealed (1.7.1999) by S.I. 1999/1820, art. 4, Sch. 2 Pt. I para. 128(2)(a), Pt. IV; S.I. 1998/3178, art. 3
+[^F102]: S. 69(4)-(6) repealed (31.5.2003) by Public Appointments and Public Bodies etc. (Scotland) Act 2003 (asp 4), s. 21(2), sch. 4 para. 13(a); S.S.I. 2003/219, art. 2(1)(c)
+[^F103]: Words in s. 70(4) inserted (30.6.2011) by Historic Environment (Amendment) (Scotland) Act 2011 (asp 3), ss. 27(4)(a), 33(2); S.S.I. 2011/174, art. 2, sch.
+[^F104]: S. 70(4A) inserted (30.6.2011) by Historic Environment (Amendment) (Scotland) Act 2011 (asp 3), ss. 27(4)(b), 33(2); S.S.I. 2011/174, art. 2, sch.
+[^F105]: Words in s. 70(7) inserted (30.6.2011) by Historic Environment (Amendment) (Scotland) Act 2011 (asp 3), ss. 27(4)(c), 33(2); S.S.I. 2011/174, art. 2, sch.
+[^F106]: S. 70(7A) inserted (30.6.2011) by Historic Environment (Amendment) (Scotland) Act 2011 (asp 3), ss. 27(4)(d), 33(2); S.S.I. 2011/174, art. 2, sch.
+[^F107]: S. 71(2) repealed (31.5.2003) by Public Appointments and Public Bodies etc. (Scotland) Act 2003 (asp 4), s. 21(2), sch. 4 para. 13(b); S.S.I. 2003/219, art. 2(1)(c)
+[^F108]: Words in s. 72(1)(b) repealed (1.12.2011 in so far as not already in force) by Planning etc. (Scotland) Act 2006 (asp 17), s. 59(2), sch.; S.S.I. 2011/382, art. 2(1)(2)(b)(3)
+[^F109]: S. 72(3) repealed (31.5.2003) by Public Appointments and Public Bodies etc. (Scotland) Act 2003 (asp 4), s. 21(2), sch. 4 para. 13(c); S.S.I. 2003/219, art. 2(1)(c)
+[^F110]: Words in s. 73(1) substituted (27.2.2015 for specified purposes, 1.10.2015 in so far as not already in force) by Historic Environment Scotland Act 2014 (asp 19), s. 31(2), sch. 3 para. 26(a) (with ss. 29, 30); S.S.I. 2015/31, art. 2, sch.; S.S.I. 2015/196, art. 2, sch.
+[^F111]: Words in s. 73(4) repealed (27.2.2015 for specified purposes, 1.10.2015 in so far as not already in force) by Historic Environment Scotland Act 2014 (asp 19), s. 31(2), sch. 3 para. 26(b) (with ss. 29, 30); S.S.I. 2015/31, art. 2, sch.; S.S.I. 2015/196, art. 2, sch.
+[^F112]: S. 73A inserted (12.6.2006) by Planning and Compulsory Purchase Act 2004 (c. 5), ss. 90(2), 121(4) (with s. 111); S.S.I. 2006/268, art. 3(a)
+[^F113]: S. 73A(2)(ea)(eb) inserted (1.12.2011) by Historic Environment (Amendment) (Scotland) Act 2011 (asp 3), ss. 28(a), 33(2); S.S.I. 2011/372, art. 2, sch.
+[^F114]: S. 73A(2)(ga) inserted (1.12.2011) by Historic Environment (Amendment) (Scotland) Act 2011 (asp 3), ss. 28(b), 33(2); S.S.I. 2011/372, art. 2, sch.
+[^F115]: S. 73B inserted (20.3.2006 for specified purposes, 11.5.2006 in so far as not already in force) by Planning and Compulsory Purchase Act 2004 (c. 5), ss. 93(1), 121(4) (with s. 111); S.S.I. 2006/101, art. 2, sch.; S.S.I. 2006/243, art. 3
+[^F116]: S. 73C inserted (20.3.2006 for specified purposes, 12.6.2006 in so far as not already in force) by Planning and Compulsory Purchase Act 2004 (c. 5), s. 121(4), Sch. 5 para. 7 (with s. 111); S.S.I. 2006/101, art. 2, sch.; S.S.I. 2006/268, art. 3(f)
+[^F117]: Words in s. 73C(5)(b) inserted (1.4.2017) by The Crown Estate Transfer Scheme 2017 (S.I. 2017/524), art. 1(2), Sch. 5 para. 28(3)(a)
+[^F118]: S. 73C(5A) inserted (1.4.2017) by The Crown Estate Transfer Scheme 2017 (S.I. 2017/524), art. 1(2), Sch. 5 para. 28(3)(b)
+[^F119]: Ss. 73D, 73E inserted (11.5.2006) by Planning and Compulsory Purchase Act 2004 (c. 5), ss. 94(4), 121(4) (with s. 111); S.S.I. 2006/243, art. 3
+[^F120]: S. 73F inserted (20.3.2006 for specified purposes, 12.6.2006 in so far as not already in force) by Planning and Compulsory Purchase Act 2004 (c. 5), s. 121(4), Sch. 5 para. 11 (with s. 111); S.S.I. 2006/101, art. 2, sch.; S.S.I. 2006/268, art. 3(f)
+[^F121]: S. 74 repealed (12.6.2006) by Planning and Compulsory Purchase Act 2004 (c. 5), s. 121(4), Sch. 5 para. 19, Sch. 9 (with s. 111); S.S.I. 2006/268, art. 3(e)(f)
+[^F122]: S. 75 repealed (12.6.2006) by Planning and Compulsory Purchase Act 2004 (c. 5), s. 121(4), Sch. 5 para. 19(1), Sch. 9 (with s. 111, Sch. 5 para. 19(2)); S.S.I. 2006/268, art. 3(e)(f)
+[^F123]: Words in s. 76(1) substituted (27.2.2015 for specified purposes, 1.10.2015 in so far as not already in force) by Historic Environment Scotland Act 2014 (asp 19), s. 31(2), sch. 3 para. 27(a) (with ss. 29, 30); S.S.I. 2015/31, art. 2, sch.; S.S.I. 2015/196, art. 2, sch.
+[^F124]: Words in s. 76(1) added (1.12.2011) by Historic Environment (Amendment) (Scotland) Act 2011 (asp 3), ss. 18(2), 33(2); S.S.I. 2011/372, art. 2, sch.
+[^F125]: S. 76(1A) inserted (30.6.2011 for specified purposes, 1.12.2011 in so far as not already in force) by Historic Environment (Amendment) (Scotland) Act 2011 (asp 3), ss. 23(3)(a), 33(2); S.S.I. 2011/174, art. 2, sch.; S.S.I. 2011/372, art. 2, sch.
+[^F126]: Words in s. 76(2) substituted (27.2.2015 for specified purposes, 1.10.2015 in so far as not already in force) by Historic Environment Scotland Act 2014 (asp 19), s. 31(2), sch. 3 para. 27(b) (with ss. 29, 30); S.S.I. 2015/31, art. 2, sch.; S.S.I. 2015/196, art. 2, sch.
+[^F127]: Words in s. 76(2)(b) inserted (30.6.2011 for specified purposes, 1.12.2011 in so far as not already in force) by Historic Environment (Amendment) (Scotland) Act 2011 (asp 3), ss. 23(3)(b), 33(2); S.S.I. 2011/174, art. 2, sch.; S.S.I. 2011/372, art. 2, sch.
+[^F128]: Words in s. 76(3) substituted (27.2.2015 for specified purposes, 1.10.2015 in so far as not already in force) by Historic Environment Scotland Act 2014 (asp 19), s. 31(2), sch. 3 para. 27(c) (with ss. 29, 30); S.S.I. 2015/31, art. 2, sch.; S.S.I. 2015/196, art. 2, sch.
+[^F129]: Words in s. 78(9) substituted (1.7.1999) by S.I. 1999/1820, art. 4, Sch. 2 Pt. I para. 128(3); S.I. 1998/3178, art. 3
+[^F130]: S. 78(10) repealed (1.7.1999) by S.I. 1999/1820, art. 4, Sch. 2 Pt. I para. 128(3), Pt. IV; S.I. 1998/3178, art. 3
+[^F131]: S. 78A inserted (12.6.2006) by Planning and Compulsory Purchase Act 2004 (c. 5), s. 121(4), Sch. 5 para. 15 (with s. 111); S.S.I. 2006/268, art. 3(f)
+[^F132]: Words in s. 79(1) substituted (28.7.2004) by The Town and Country Planning (Electronic Communications) (Scotland) Order 2004 (S.S.I. 2004/332), arts. 1(1), 10(1)(2)
+[^F133]: Words in s. 79(1) inserted (12.6.2006) by Planning and Compulsory Purchase Act 2004 (c. 5), s. 121(4), Sch. 5 para. 20(2)(a) (with s. 111); S.S.I. 2006/268, art. 3(f)
+[^F134]: Words in s. 79(1) inserted (12.6.2006) by Planning and Compulsory Purchase Act 2004 (c. 5), s. 121(4), Sch. 5 para. 20(2)(b) (with s. 111); S.S.I. 2006/268, art. 3(f)
+[^F135]: Words in s. 79(1) inserted (12.6.2006) by Planning and Compulsory Purchase Act 2004 (c. 5), s. 121(4), Sch. 5 para. 20(2)(c) (with s. 111); S.S.I. 2006/268, art. 3(f)
+[^F136]: Words in s. 79(1) inserted (30.6.2011) by Historic Environment (Amendment) (Scotland) Act 2011 (asp 3), ss. 29(1), 33(2); S.S.I. 2011/174, art. 2, sch.
+[^F137]: S. 79(1A) inserted (28.7.2004) by The Town and Country Planning (Electronic Communications) (Scotland) Order 2004 (S.S.I. 2004/332), arts. 1(1), 10(1)(3)
+[^F138]: S. 79(3) inserted (12.6.2006) by Planning and Compulsory Purchase Act 2004 (c. 5), s. 121(4), Sch. 5 para. 20(3) (with s. 111); S.S.I. 2006/268, art. 3(f)
+[^F139]: Words in s. 81(1) inserted (28.7.2004) by The Town and Country Planning (Electronic Communications) (Scotland) Order 2004 (S.S.I. 2004/332), arts. 1(1), 11(2)
+[^F140]: Words in s. 81(1) inserted (30.6.2011 for specified purposes, 1.12.2011 in so far as not already in force) by Historic Environment (Amendment) (Scotland) Act 2011 (asp 3), ss. 23(4), 33(2); S.S.I. 2011/174, art. 2, sch.; S.S.I. 2011/372, art. 2, sch.
+[^M17]: 1997 c. 8.
+[^F141]: Words in s. 81(3) substituted (17.9.2003) by The Communications Act 2003 (Consequential Amendments) Order 2003 (S.I. 2003/2155), art. 1(1), Sch. 1 para. 14(3)
+[^F142]: Words in s. 81(3)(b) substituted (26.3.2001) by S.I. 2001/1149, art. 3(1), Sch. 1 para. 116(2) (subject to art. 1(3))
+[^F143]: By 2000 c. 38, s. 37, Sch. 5 para. 12; S.I. 2001/869, art. 2, (1.4.2001) it is provided that after the words “the Civil Aviation Authority” in s. 81(3)(b) there shall be inserted the words “a person who holds a licence under Chapter I of Part I of the Transport Act 2000 (to the extent that the person is carrying out activities authorised by the licence)”
+[^M18]: 1989 c. 29.
+[^F144]: S. 81(3A)(3B) inserted (26.3.2001) by S.I. 2001/1149, art. 3(1), Sch. 1 para. 116(3) (subject to art. 1(3))
+[^F145]: Words in s. 81(3B) substituted (1.10.2011) by Postal Services Act 2011 (c. 5), s. 93(2)(3), Sch. 12 para. 150(a); S.I. 2011/2329, art. 3
+[^F146]: Words in s. 81(3B) substituted (1.10.2011) by Postal Services Act 2011 (c. 5), s. 93(2)(3), Sch. 12 para. 150(b); S.I. 2011/2329, art. 3
+[^F147]: S. 81(5A) inserted (28.7.2004) by The Town and Country Planning (Electronic Communications) (Scotland) Order 2004 (S.S.I. 2004/332), arts. 1(1), 11(3)
+[^F148]: S. 81(7) repealed (28.11.2004) by Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5), ss. 71, 77(2), sch. 13 Pt. 1 (with ss. 58, 62, 75); S.S.I. 2003/456, art. 2
+[^M19]: 1978 c. 30.
+[^F149]: Words in s. 82(2) renumbered as s. 82(2)(a) (30.6.2011) by Historic Environment (Amendment) (Scotland) Act 2011 (asp 3), ss. 30(2)(a), 33(2); S.S.I. 2011/174, art. 2, sch.
+[^F150]: S. 82(2)(b) inserted (30.6.2011) by Historic Environment (Amendment) (Scotland) Act 2011 (asp 3), ss. 30(2)(b), 33(2); S.S.I. 2011/174, art. 2, sch.
+[^F151]: Words in s. 82(3) inserted (30.6.2011) by Historic Environment (Amendment) (Scotland) Act 2011 (asp 3), ss. 30(3), 33(2); S.S.I. 2011/174, art. 2, sch.
+[^F152]: S. 82(3A) inserted (30.6.2011) by Historic Environment (Amendment) (Scotland) Act 2011 (asp 3), ss. 30(4), 33(2); S.S.I. 2011/174, art. 2, sch.
+[^F153]: Words in s. 82(4) renumbered as s. 82(4)(a) (30.6.2011) by Historic Environment (Amendment) (Scotland) Act 2011 (asp 3), ss. 30(5)(a), 33(2); S.S.I. 2011/174, art. 2, sch.
+[^F154]: S. 82(4)(b) inserted (30.6.2011) by Historic Environment (Amendment) (Scotland) Act 2011 (asp 3), ss. 30(5)(b), 33(2); S.S.I. 2011/174, art. 2, sch.
+[^F155]: S. 82(6) substituted (30.6.2011) by Historic Environment (Amendment) (Scotland) Act 2011 (asp 3), ss. 30(6), 33(2); S.S.I. 2011/174, art. 2, sch.
+[^M20]: 1947 c. 53.
+[^F156]: Sch. 1 para. 2(1)(1A) substituted for Sch. 1 para. 2(1) (27.2.2015 for specified purposes, 1.10.2015 in so far as not already in force) by Historic Environment Scotland Act 2014 (asp 19), s. 31(2), sch. 3 para. 15(a) (with ss. 29, 30); S.S.I. 2015/31, art. 2, sch.; S.S.I. 2015/196, art. 2, sch.
+[^F157]: Words in Sch. 1 para. 2(2) substituted (27.2.2015 for specified purposes, 1.10.2015 in so far as not already in force) by Historic Environment Scotland Act 2014 (asp 19), s. 31(2), sch. 3 para. 15(b) (with ss. 29, 30); S.S.I. 2015/31, art. 2, sch.; S.S.I. 2015/196, art. 2, sch.
+[^F158]: Sch. 1 para. 2(2A) inserted (27.2.2015 for specified purposes, 1.10.2015 in so far as not already in force) by Historic Environment Scotland Act 2014 (asp 19), s. 31(2), sch. 3 para. 15(c) (with ss. 29, 30); S.S.I. 2015/31, art. 2, sch.; S.S.I. 2015/196, art. 2, sch.
+[^F159]: Words in Sch. 1 para. 2(3) substituted (27.2.2015 for specified purposes, 1.10.2015 in so far as not already in force) by Historic Environment Scotland Act 2014 (asp 19), s. 31(2), sch. 3 para. 15(d)(i) (with ss. 29, 30); S.S.I. 2015/31, art. 2, sch.; S.S.I. 2015/196, art. 2, sch.
+[^F160]: Words in Sch. 1 para. 2(3) substituted (27.2.2015 for specified purposes, 1.10.2015 in so far as not already in force) by Historic Environment Scotland Act 2014 (asp 19), s. 31(2), sch. 3 para. 15(d)(ii) (with ss. 29, 30); S.S.I. 2015/31, art. 2, sch.; S.S.I. 2015/196, art. 2, sch.
+[^F161]: Sch. 1 para. 3 repealed (27.2.2015 for specified purposes, 1.10.2015 in so far as not already in force) by Historic Environment Scotland Act 2014 (asp 19), s. 31(2), sch. 3 para. 16 (with ss. 29, 30); S.S.I. 2015/31, art. 2, sch.; S.S.I. 2015/196, art. 2, sch.
+[^F162]: Words in Sch. 2 para. 1(b) substituted (27.2.2015 for specified purposes, 1.10.2015 in so far as not already in force) by Historic Environment Scotland Act 2014 (asp 19), s. 31(2), sch. 3 para. 28 (with ss. 29, 30); S.S.I. 2015/31, art. 2, sch.; S.S.I. 2015/196, art. 2, sch.
+[^F163]: Word in Sch. 3 para. 1(1) inserted (27.2.2015 for specified purposes, 1.10.2015 in so far as not already in force) by Historic Environment Scotland Act 2014 (asp 19), s. 31(2), sch. 3 para. 23(a) (with ss. 29, 30); S.S.I. 2015/31, art. 2, sch.; S.S.I. 2015/196, art. 2, sch.
+[^F164]: Sch. 3 para. 2(1)(za) inserted (27.2.2015 for specified purposes, 1.10.2015 in so far as not already in force) by Historic Environment Scotland Act 2014 (asp 19), s. 31(2), sch. 3 para. 23(b) (with ss. 29, 30); S.S.I. 2015/31, art. 2, sch.; S.S.I. 2015/196, art. 2, sch.
+[^F165]: Sch. 3 para. 2(2)-(4) repealed (1.12.2011) by Historic Environment (Amendment) (Scotland) Act 2011 (asp 3), ss. 21(b)(i), 33(2); S.S.I. 2011/372, art. 2, sch.
+[^F166]: Word in Sch. 3 para. 3(3) inserted (27.2.2015 for specified purposes, 1.10.2015 in so far as not already in force) by Historic Environment Scotland Act 2014 (asp 19), s. 31(2), sch. 3 para. 23(c) (with ss. 29, 30); S.S.I. 2015/31, art. 2, sch.; S.S.I. 2015/196, art. 2, sch.
+[^F167]: Sch. 3 para. 3(4)(5) repealed (1.12.2011) by Historic Environment (Amendment) (Scotland) Act 2011 (asp 3), ss. 21(b)(ii), 33(2); S.S.I. 2011/372, art. 2, sch.
+[^F168]: Sch. 3 para. 5(3)(a) and word repealed (27.2.2015 for specified purposes, 1.10.2015 in so far as not already in force) by Historic Environment Scotland Act 2014 (asp 19), s. 31(2), sch. 3 para. 23(d) (with ss. 29, 30); S.S.I. 2015/31, art. 2, sch.; S.S.I. 2015/196, art. 2, sch.
+[^F169]: Words in Sch. 3 para. 6(2)(a) repealed (1.12.2011) by Historic Environment (Amendment) (Scotland) Act 2011 (asp 3), ss. 21(b)(iii), 33(2); S.S.I. 2011/372, art. 2, sch.
+[^F170]: Sch. 3 para. 6(7) inserted (6.8.2004 for specified purposes, 7.6.2006 in so far as not already in force) by Planning and Compulsory Purchase Act 2004 (c. 5), s. 91(2) (with s. 111); S.I. 2004/2097, art. 2; S.I. 2006/1281, art. 3
+[^M21]: 1992 c. 53.
+[^F171]: Words in Sch. 3 para. 7(2) substituted (23.10.2002) by Scottish Public Services Ombudsman Act 2002 (asp 11), s. 25, Sch. 6 para. 18; S.S.I. 2002/467, art. 2

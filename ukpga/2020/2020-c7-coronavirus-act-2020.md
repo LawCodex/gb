@@ -1,0 +1,5384 @@
+---
+title: "Coronavirus Act 2020"
+identifier: "ukpga/2020/7"
+citation: "2020 c. 7"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S+N.I."
+date: 2020-03-25
+last_amended: 2026-09-17
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/2020/7"
+source_modified: 2026-10-05
+retrieved: 2026-10-11
+---
+
+# Coronavirus Act 2020
+
+**2020 c. 7**
+
+An Act to make provision in connection with coronavirus; and for connected purposes. [^X1]
+
+[25th March 2020]
+
+Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## PART 1 — Main provisions
+
+### Interpretation
+
+#### 1 Meaning of “coronavirus” and related terminology
+
+(1) In this Act—
+
+- “coronavirus” means severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2);
+- “coronavirus disease” means COVID-19 (the official designation of the disease which can be caused by coronavirus).
+
+(2) A reference in this Act to infection or contamination, however expressed, is a reference to infection or contamination with coronavirus.
+
+(3) But a reference in this Act to persons infected by coronavirus, however expressed, does not (unless a contrary intention appears) include persons who have been infected but are clear of coronavirus (unless re-infected).
+
+### Emergency registration of health professionals
+
+#### 2 Emergency registration of nurses and other health and care professionals
+
+Schedule 1 contains temporary modifications of—
+
+(a) the Nursing and Midwifery Order 2001 (S.I. 2002/253), and
+
+(b) the Health Professions Order 2001 (S.I. 2002/254).
+
+#### [^F1]3 Emergency arrangements concerning medical practitioners: Wales
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F2]4 Emergency arrangements concerning medical practitioners: Scotland
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 5 Emergency registration of and extension of prescribing powers for pharmaceutical chemists: Northern Ireland
+
+Schedule 4 contains temporary modifications of the Pharmacy (Northern Ireland) Order 1976 (S.I. 1976/1213 (N.I. 22)).
+
+### Temporary registration of social workers
+
+#### 6 Emergency registration of social workers: England and Wales
+
+Schedule 5 contains temporary modifications of—
+
+(a) the Social Workers Regulations 2018 (S.I. 2018/893), and
+
+(b) the Regulation and Inspection of Social Care (Wales) Act 2016 (anaw 2).
+
+#### [^F3]7 Temporary registration of social workers: Scotland
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Emergency volunteers (prospective)
+
+#### [^F4]8 Emergency volunteering leave (prospective)
+
+[^F4]Schedule 7 makes provision for emergency volunteering leave.
+
+#### [^F5]9 Compensation for emergency volunteers (prospective)
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Mental health and mental capacity
+
+#### 10 Temporary modification of mental health and mental capacity legislation
+
+[^F6]1 [^F6]Schedule 8 contains temporary modifications of the Mental Health Act 1983, and related provision.
+
+[^F7]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F8]3 [^F8]Schedule 10 contains temporary modifications of the Mental Health (Northern Ireland) Order 1986 (S.I. 1986/595 (N.I. 4)), and related provision.
+
+(4) Schedule 11 contains temporary modifications of the Mental Capacity Act (Northern Ireland) 2016 (c. 18 (N.I.)), and related provision.
+
+### Health service indemnification
+
+#### 11 Indemnity for health service activity: England and Wales
+
+(1) The appropriate authority may—
+
+(a) indemnify a person in respect of a qualifying liability incurred by the person, or
+
+(b) make arrangements for a person to be indemnified, in respect of a qualifying liability incurred by the person, by an authorised person.
+
+(2) References in this section to a qualifying liability are to a liability in tort, in respect of or consequent on death, personal injury or loss, arising out of or in connection with a breach of a duty of care owed in connection with the provision, after the coming into force of this section, of a relevant service.
+
+(3) “Relevant service” means a service which is provided by a person as part of the health service and which—
+
+(a) relates to—
+
+(i) caring for or treating a person who has, or is suspected of having, coronavirus disease, whether or not in respect of that disease,
+
+(ii) caring for or treating a person (other than a person within sub-paragraph (i)) who has been, or is suspected of being, infected or contaminated, in respect of that infection or contamination or suspected infection or contamination, or
+
+(iii) diagnosing or determining whether a person has been infected or contaminated,
+
+(b) relates to diagnosis, care or treatment and is provided in consequence of another person who usually provides such a service (other than one within paragraph (a)) as part of the health service being unable to do so in consequence of providing a service within paragraph (a), or
+
+(c) relates to diagnosis, care or treatment and is provided in consequence of another person who usually provides such a service as part of the health service being unable to do so because of a reason relating to coronavirus.
+
+(4) In a case within subsection (1)(a), any question relating to—
+
+(a) whether a person has incurred a qualifying liability, or
+
+(b) the amount of any payment by virtue of subsection (1),
+
+is to be determined by the appropriate authority.
+
+(5) In a case within subsection (1)(b)—
+
+(a) any question relating to whether a person has incurred a qualifying liability is to be determined by the authorised person;
+
+(b) any question relating to the amount of any payment by virtue of subsection (1) is to be determined by the authorised person in accordance with the arrangements.
+
+(6) Subsection (1) does not apply where arrangements are already in place (whether under an insurance policy or otherwise) for the person to be indemnified in respect of the liability.
+
+(7) In this section—
+
+- “the appropriate authority” means—
+
+  - (a) in relation to a relevant service provided as part of the English health service, the Secretary of State;
+  - (b) in relation to a relevant service provided as part of the Welsh health service, the Welsh Ministers;
+
+- “authorised person” means a person authorised by the appropriate authority;
+
+- “the health service” means the English health service or the Welsh health service;
+
+- “the English health service” means the health service continued under section 1(1) of the National Health Service Act 2006;
+
+- “the Welsh health service” means the health service continued under section 1(1) of the National Health Service (Wales) Act 2006.
+
+#### 12 Indemnity for health service activity: Scotland
+
+(1) The Scottish Ministers may—
+
+(a) indemnify a person in respect of a qualifying liability incurred by the person, or
+
+(b) make arrangements for a person to be indemnified, in respect of a qualifying liability incurred by the person, by an authorised person.
+
+(2) References in this section to a qualifying liability are to a liability in delict, in respect of or consequent on death, personal injury or loss, arising out of or in connection with a breach of a duty of care owed in connection with the provision, after the coming into force of this section, of a relevant service.
+
+(3) “Relevant service” means a service which is provided by a person as part of the health service and which—
+
+(a) relates to—
+
+(i) caring for or treating a person who has, or is suspected of having, coronavirus disease, whether or not in respect of that disease,
+
+(ii) caring for or treating a person (other than a person within sub-paragraph (i)) who has been, or is suspected of being, infected or contaminated, in respect of that infection or contamination or suspected infection or contamination, or
+
+(iii) diagnosing or determining whether a person has been infected or contaminated,
+
+(b) relates to diagnosis, care or treatment and is provided in consequence of another person who usually provides such a service (other than one within paragraph (a)) as part of the health service being unable to do so in consequence of providing a service within paragraph (a), or
+
+(c) relates to diagnosis, care or treatment and is provided in consequence of another person who usually provides such a service as part of the health service being unable to do so because of a reason relating to coronavirus.
+
+(4) In a case within subsection (1)(a), any question relating to—
+
+(a) whether a person has incurred a qualifying liability, or
+
+(b) the amount of any payment by virtue of subsection (1),
+
+is to be determined by the Scottish Ministers.
+
+(5) In a case within subsection (1)(b)—
+
+(a) any question relating to whether a person has incurred a qualifying liability is to be determined by the authorised person;
+
+(b) any question relating to the amount of any payment by virtue of subsection (1) is to be determined by the authorised person in accordance with the arrangements.
+
+(6) Subsection (1) does not apply where arrangements are already in place (whether under an insurance policy or otherwise) for the person to be indemnified in respect of the liability.
+
+(7) In this section—
+
+- “authorised person” means a person authorised by the Scottish Ministers;
+- “the health service” means the health service continued under section 1(1) of the National Health Service (Scotland) Act 1978.
+
+#### 13 Indemnity for health and social care activity: Northern Ireland
+
+(1) The Department of Health may—
+
+(a) indemnify a person in respect of a qualifying liability incurred by the person, or
+
+(b) make arrangements for a person to be indemnified, in respect of a qualifying liability incurred by the person, by an authorised person.
+
+(2) References in this section to a qualifying liability are to a liability in tort, in respect of or consequent on death, personal injury or loss, arising out of or in connection with a breach of a duty of care owed in connection with the provision, after the coming into force of this section, of a relevant service.
+
+(3) “Relevant service” means a service which is provided by a person as part of the system of health and social care and which—
+
+(a) relates to—
+
+(i) caring for or treating a person who has, or is suspected of having, coronavirus disease, whether or not in respect of that disease,
+
+(ii) caring for or treating a person (other than a person within sub-paragraph (i)) who has been, or is suspected of being, infected or contaminated, in respect of that infection or contamination or suspected infection or contamination, or
+
+(iii) diagnosing or determining whether a person has been infected or contaminated,
+
+(b) relates to diagnosis, care or treatment and is provided in consequence of another person who usually provides such a service (other than one within paragraph (a)) as part of the system of health and social care being unable to do so in consequence of providing a service within paragraph (a), or
+
+(c) relates to diagnosis, care or treatment and is provided in consequence of another person who usually provides such a service as part of the system of health and social care being unable to do so because of a reason relating to coronavirus.
+
+(4) In a case within subsection (1)(a), any question relating to—
+
+(a) whether a person has incurred a qualifying liability, or
+
+(b) the amount of any payment by virtue of subsection (1),
+
+is to be determined by the Department of Health.
+
+(5) In a case within subsection (1)(b)—
+
+(a) any question relating to whether a person has incurred a qualifying liability is to be determined by the authorised person;
+
+(b) any question relating to the amount of any payment by virtue of subsection (1) is to be determined by the authorised person in accordance with the arrangements.
+
+(6) Subsection (1) does not apply where arrangements are already in place (whether under an insurance policy or otherwise) for the person to be indemnified in respect of the liability.
+
+(7) In this section—
+
+- “authorised person” means a person authorised by the Department of Health;
+- “the Department of Health” means the Department of Health in Northern Ireland;
+- “the system of health and social care” means the system promoted under section 2(1) of the Health and Social Care (Reform) Act (Northern Ireland) 2009 (c. 1 (N.I.)).
+
+### NHS and local authority care and support
+
+#### [^F9]14 NHS Continuing Healthcare assessments: England
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F10]15 Local authority care and support
+
+[^F10]Schedule 12 contains provision modifying the powers and duties of local authorities in England and Wales in relation to the provision of care and support.
+
+#### [^F11]16 Duty of local authority to assess needs: Scotland
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 17 Section 16: further provision
+
+(1) The Scottish Ministers may issue guidance to local authorities about the exercise of their functions under the following provisions in consequence of section 16—
+
+(a) Part 2 of the 1968 Act;
+
+(b) sections 22, 23 and 29 of the 1995 Act;
+
+(c) sections 25, 26 and 27 of the Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13);
+
+(d) section 1 of the 2013 Act;
+
+(e) Parts 2 and 3 of the 2016 Act.
+
+(2) A local authority—
+
+(a) must have regard to any guidance issued under subsection (1);
+
+(b) must comply with such guidance issued under subsection (1) as the Scottish Ministers direct;
+
+(c) may disregard, so far as it is inconsistent with guidance issued under subsection (1)—
+
+(i) any guidance issued under section 5(1) of the 1968 Act;
+
+(ii) a code of practice published under section 274(1) of the Mental Health (Care and Treatment) (Scotland) Act 2003.
+
+(3) The Scottish Ministers may—
+
+(a) from time to time revise any guidance issued under subsection (1);
+
+(b) vary or revoke a direction made under subsection (2)(b).
+
+(4) A local authority must not recover a charge under section 87 of the 1968 Act for—
+
+(a) community care services provided to a person if, in reliance on section 16(1), the authority did not—
+
+(i) comply with section 12A of the 1968 Act before providing the services, or
+
+(ii) comply with section 1 of the 2013 Act in relation to the services;
+
+(b) services provided to a child under section 22(1) of the 1995 Act if, in reliance on section 16(7), the authority did not—
+
+(i) where the services were provided following a request being made to the authority in relation to the child under section 23(3) of the 1995 Act, assess the child's needs for the services before providing them, or
+
+(ii) comply with section 1 of the 2013 Act in relation to the services;
+
+(c) advice, guidance or assistance provided to a person under section 29(1) or (5A) of the 1995 Act if, in reliance on section 16(9), the local authority did not carry out an assessment of the person's needs under section 29(5) of that Act before providing the advice, guidance or assistance.
+
+(5) For the purposes of subsection (4), a local authority did not—
+
+(a) comply with a provision if it only partially complied with the provision;
+
+(b) carry out an assessment if it only partially carried out the assessment.
+
+(6) Nothing in subsection (4) prevents a local authority from recovering charges if—
+
+(a) the authority provides—
+
+(i) services in the circumstances described in paragraph (a) or (b) of subsection (4), or
+
+(ii) advice, guidance or assistance in the circumstances described in paragraph (c) of that subsection,
+
+(b) the authority subsequently complies with the provisions mentioned in paragraph (a), (b) or (c) of that subsection (as the case may be) in relation to the services or the advice, guidance or assistance, and
+
+(c) the charges relate only to the period after the authority so complies.
+
+(7) Subsection (8) applies where—
+
+(a) a local authority provides accommodation to a person under Part 2 of the 1968 Act in the circumstances described in paragraph (a) of subsection (4),
+
+(b) the authority subsequently complies with the provisions mentioned in that paragraph in relation to the provision of the accommodation, and
+
+(c) after it complies with those provisions, the authority continues to provide the accommodation to the person.
+
+(8) Despite subsections (4)(a) and (6), the authority may recover charges for the provision of the accommodation for any period—
+
+(a) before the authority complied with the provisions mentioned in subsection (4)(a), and
+
+(b) during which the person was a permanent resident.
+
+(9) For the purposes of subsection (8), a person is a permanent resident if the person is expected to be provided with accommodation by the authority for a period of more than 52 weeks.
+
+(10) Subsection (11) applies where—
+
+(a) any provision of section 16 has had effect for a period, and
+
+(b) that period has ended.
+
+(11) In determining for the purposes of any proceedings whether a local authority has complied with any duty to carry out a relevant assessment within a reasonable period, a court must take into account (among other things) the following factors—
+
+(a) the length of any period for which any provision of section 16 had effect, and
+
+(b) the number of relevant assessments which need to be carried out by the local authority following the end of any such period.
+
+(12) In subsection (11), “relevant assessment” means—
+
+(a) an assessment under—
+
+(i) section 12A(1)(a) of the 1968 Act;
+
+(ii) section 23(3) of the 1995 Act;
+
+(iii) section 29(5) of the 1995 Act;
+
+(b) the preparation of—
+
+(i) an adult carer support plan under section 6 of the 2016 Act;
+
+(ii) a young carer statement under section 12 of the 2016 Act.
+
+### Registration of deaths and still-births etc
+
+#### 18 Registration of deaths and still-births etc
+
+(1) Part 1 of Schedule 13 contains temporary modifications of legislation relating to the registration of deaths and still-births in England and Wales, and related provision.
+
+(2) Part 2 of Schedule 13 contains temporary modifications of legislation relating to the registration of deaths and still-births in Scotland, and related provision.
+
+[^F12]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 19 Confirmatory medical certificate not required for cremations: England and Wales
+
+[^F13]1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F13]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F13]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F13]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F13]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F13]6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F13]7 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F13]8 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F13]9 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F13]10 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(11) At the end of a period for which this section has effect, it continues to apply in relation to the cremation of the remains of a person who died during that period but whose remains have not been cremated unless, at the end of that period, a medical certificate has not been completed in relation to the deceased person for the purposes of regulation 16(1)(c)(i) of the Cremation (England and Wales) Regulations 2008.
+
+#### [^F14]20 Review of cause of death certificates and cremations: Scotland
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 21 Modifications of requirements regarding medical certificates for cremations: Northern Ireland
+
+(1) The Cremation (Belfast) Regulations (Northern Ireland) 1961 (S.R. & O. (N.I.) 1961 No. 61) have effect with the following modifications.
+
+(2) Regulation 10 (conditions to be met for cremations) has effect as if for paragraph (a) there were substituted—
+
+> (a) a certificate in Form B in the Schedule has been given by a registered medical practitioner who can certify definitely as to the cause of death; or
+
+.
+
+(3) Regulation 12 (Medical Referee's power to give certificates in Forms C and D) has effect as if the words “if he has personally investigated the cause of death to give a certificate in Form C, and” were omitted.
+
+(4) In regulation 13 (duties of the Medical Referee)—
+
+(a) paragraph (e) has effect as if the reference to “the medical certificates” did not include the confirmatory medical certificate (Form C);
+
+(b) paragraph (f) has effect as if—
+
+[^F15]i . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(ii) the reference to “the certificates” did not include the confirmatory medical certificate (Form C).
+
+[^F16]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6) Form B in the Schedule (certificate by registered medical practitioner) has effect as if—
+
+[^F17]a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F17]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F17]c . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F17]d . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(e) in the Note at the end, for “the medical practitioner who is to give the confirmatory medical certificate on Form C” there were substituted “ the Medical Referee ”.
+
+(7) At the end of a period for which this section has effect, it continues to apply in relation to the cremation of the remains of a person who died during that period but whose remains have not been cremated unless, at the end of that period, a certificate in Form B in the Schedule to the Cremation (Belfast) Regulations (Northern Ireland) 1961 has not been completed in relation to the deceased person for the purposes of regulation 10(a) of those Regulations.
+
+### Investigatory powers
+
+#### [^F18]22 Appointment of temporary Judicial Commissioners
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F19]23 Time limits in relation to urgent warrants etc under Investigatory Powers Act
+
+[^F19]1 [^F19]The power in subsection (2) is exercisable if the Investigatory Powers Commissioner notifies the Secretary of State that, in the Commissioner's opinion, the power needs to be exercised in response to the effects that coronavirus is having, or is likely to have, on the capacity of Judicial Commissioners to carry out their functions.
+
+[^F19]2 [^F19]The Secretary of State may by regulations made by statutory instrument modify the Investigatory Powers Act 2016 so as to alter, for the purposes of any of the specified provisions of that Act (see subsection (3)), the length of a period referred to in that Act as “the relevant period”.
+
+[^F19]3 [^F19]The specified provisions are—
+
+[^F19]a [^F19]sections 24(3), 109(3), 180(3) and 209(3) (period within which Judicial Commissioner must decide whether to approve decision to issue urgent warrant);
+
+[^F19]b [^F19]sections 32(2)(a), 116(2)(a), 184(2)(a) and 213(2)(a) (period at end of which urgent warrant ceases to have effect);
+
+[^F19]c [^F19]sections 33(5)(a), 117(5)(a), 185(3)(a) and 214(3)(a) (period during which urgent warrant may be renewed);
+
+[^F19]d [^F19]sections 38(5), 122(5), 124(3), 147(3), 166(3), 188(3) and 217(3) (period within which Judicial Commissioner or other appropriate person must decide whether to approve decision to make urgent modification of warrant).
+
+[^F19]4 [^F19]A modification made by the regulations may not increase the length of a period so that it ends after the 12th working day after the day on which the warrant was issued or, as the case may be, the modification was made.
+
+[^F19]5 [^F19]The regulations may make consequential, supplementary or transitional provision.
+
+[^F19]6 [^F19]The regulations must provide for them to cease to have effect at the end of the period of 12 months beginning with the day on which they come into force.
+
+[^F19]7 [^F19]A statutory instrument containing regulations under this section is subject to annulment in pursuance of a resolution of either House of Parliament.
+
+[^F19]8 [^F19]In this section—
+
+- [^F19]“[^F19]Investigatory Powers Commissioner[^F19]” has the meaning given in section 263(1) of the Investigatory Powers Act 2016;
+- [^F19]“[^F19]Judicial Commissioner[^F19]” has the meaning given in that section and also includes a person appointed under regulations made under section 22.
+
+### Fingerprints and DNA profiles
+
+#### [^F20]24 Extension of time limits for retention of fingerprints and DNA profiles
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Food supply (prospective)
+
+#### [^F21]25 Power to require information relating to food supply chains (prospective)
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F21]26 Authorities which may require information (prospective)
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F21]27 Restrictions on use and disclosure of information (prospective)
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F22]28 Enforcement of requirement to provide information (prospective)
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F23]29 Meaning of “food supply chain” and related expressions (prospective)
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Inquests
+
+#### [^F24]30 Suspension of requirement to hold inquest with jury: England and Wales
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F25]31 Suspension of requirement to hold inquest with jury: Northern Ireland
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F26]32 Deaths in custody from natural illness: Northern Ireland
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Disclosure: Wales
+
+#### [^F27]33 Disapplication etc by Welsh Ministers of DBS provisions
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Disclosure: Scotland
+
+#### [^F28]34 Temporary disapplication of disclosure offences: Scotland
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F29]35 Power to reclassify certain disclosure requests: Scotland
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Vaccinations: Scotland
+
+#### [^F30]36 Vaccination and immunisation: Scotland
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Schools, childcare providers etc
+
+#### 37 Temporary closure of educational institutions and childcare premises
+
+[^F31]1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F32]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F33]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 38 Temporary continuity: education, training and childcare
+
+[^F34][^F35]1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F35]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F36]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Statutory sick pay
+
+#### [^F37]39 Statutory sick pay: funding of employers' liabilities
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F38]40 Statutory sick pay: power to disapply waiting period limitation
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F39]41 Statutory sick pay: modification of regulation making powers
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F40]42 Statutory sick pay: funding of employers' liabilities: Northern Ireland
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F41]43 Statutory sick pay: power to disapply waiting period limitation: Northern Ireland
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F42]44 Statutory sick pay: modification of regulation making powers: Northern Ireland
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Pensions
+
+#### [^F43]45 NHS pension schemes: suspension of restrictions on return to work: England and Wales
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F44]46 NHS pension schemes: suspension of restrictions on return to work: Scotland
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F45]47 Health and social care pension schemes: suspension of restrictions on return to work: Northern Ireland
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Protection of public health
+
+#### [^F46]48 Powers to act for the protection of public health: Northern Ireland
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F47]49 Health protection regulations: Scotland
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Power to suspend port operations
+
+#### [^F48]50 Power to suspend port operations
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Powers relating to potentially infectious persons
+
+#### [^F49]51 Powers relating to potentially infectious persons
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Powers relating to events, gatherings and premises
+
+#### [^F50]52 Powers to issue directions relating to events, gatherings and premises
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Courts and tribunals: use of video and audio technology
+
+#### [^F51]53 Expansion of availability of live links in criminal proceedings
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F52]54 Expansion of availability of live links in other criminal hearings
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F53][^F54]55 Public participation in proceedings conducted by video or audio
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F55]56 Live links in magistrates' court appeals against requirements or restrictions imposed on a potentially infectious person
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 57 Use of live links in legal proceedings: Northern Ireland
+
+Schedule 27 makes provision for, and in connection with, the use of live links in proceedings in courts and tribunals in Northern Ireland.
+
+### Powers in relation to bodies
+
+#### [^F56]58 Powers in relation to transportation, storage and disposal of dead bodies etc
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Postponement of elections, referendums, recall petitions and canvass
+
+#### 59 Elections and referendums due to be held in England in period after 15 March 2020
+
+(1) This section applies to the poll for a relevant election or relevant referendum if the poll—
+
+(a) is required to be held on a day falling within the period beginning with 16 March 2020 and ending with the day 30 days after that on which this Act is passed, but
+
+(b) is not held in that period.
+
+(2) Section 39 of the 1983 Act (local elections void etc) does not apply, and is treated as never having applied, in relation to the poll.
+
+(3) Section 63 of that Act (breach of official duty) does not apply, and is treated as never having applied, in relation to any act or omission in connection with the poll.
+
+(4) In determining for the purpose of this section whether a poll has been held, postal votes are to be ignored.
+
+(5) This section does not affect the application of section 39 or 63 of the 1983 Act in relation to a poll the date for which is determined by virtue of section 61 (power to postpone).
+
+(6) In this section—
+
+- “the 1983 Act” means the Representation of the People Act 1983;
+- “local government area” has the same meaning as in the 1983 Act (see section 203(1) of that Act);
+- “relevant election” means an election of a councillor for any local government area in England to fill a casual vacancy;
+- “relevant referendum” means a referendum under or by virtue of Schedule 4B to the Town and Country Planning Act 1990 (referendums on neighbourhood development plans).
+
+#### 60 Postponement of elections due to be held on 7 May 2020
+
+(1) The poll for the ordinary election of councillors for any local government area in England that would otherwise be held on the ordinary day of election in 2020 is to be held instead on the ordinary day of election in 2021.
+
+(2) A councillor who would otherwise, pursuant to section 7 or 16 of the Local Government Act 1972 (elections of councillors), retire on the fourth day after the ordinary day of election in 2020 is instead to retire on the fourth day after the ordinary day of election in 2021; and the councillor's term of office is extended accordingly.
+
+(3) A councillor who—
+
+(a) is returned at an election the poll for which is held on the ordinary day of election in 2021, and
+
+(b) fills a vacancy arising as a result of the expiry of a term of office extended under subsection (2),
+
+is (notwithstanding section 7 or 16 of the Local Government Act 1972) to retire on the fourth day after the ordinary day of election in 2024; and the councillor's term of office is reduced accordingly.
+
+(4) In determining under section 7(3) or (9)(c) of the Local Government Act 1972 which councillors are to retire in accordance with that provision on the fourth day after the ordinary day of election in 2021, councillors who retire in accordance with subsection (2) of this section are to be ignored.
+
+(5) In subsections (1) to (4)—
+
+(a) “local government area” has the same meaning as in the Representation of the People Act 1983 (see section 203(1) of that Act);
+
+(b) a reference to the ordinary day of election in a year is to the ordinary day of election of councillors in that year determined under section 37 of that Act (ordinary day of local elections in England).
+
+(6) The poll for the ordinary election that would otherwise, pursuant to section 3(2) of the Greater London Authority Act 1999 (time of ordinary election for the Mayor of London and the London Assembly), be held on 7 May 2020 is to be held instead on 6 May 2021.
+
+(7) The postponement of that ordinary election is to be ignored in determining the years in which subsequent ordinary elections are to be held.
+
+(8) The poll for the election of any elected mayor that would otherwise, pursuant to regulations under section 9HB of the Local Government Act 2000 (time of elections etc), be held on 7 May 2020 is to be held instead on 6 May 2021.
+
+(9) The postponement under subsection (8) of an election is to be ignored in determining the years in which subsequent elections of elected mayors are to be held.
+
+(10) The poll for the election of any mayor that would otherwise, pursuant to an order under Schedule 5B to the Local Democracy, Economic Development and Construction Act 2009, be held on 7 May 2020 is to be held instead on 6 May 2021.
+
+(11) The postponement under subsection (10) of an election is to be ignored in determining the years in which subsequent elections of mayors are to be held.
+
+(12) The ordinary election that would otherwise, pursuant to section 50(1) of the Police Reform and Social Responsibility Act 2011 (ordinary election of police and crime commissioners), be held in 2020 is to be held instead in 2021.
+
+(13) The postponement of that ordinary election is to be ignored in determining the years in which subsequent ordinary elections are to be held.
+
+#### 61 Power to postpone certain other elections and referendums
+
+(1) The Secretary of State or the Minister for the Cabinet Office may, by regulations made by statutory instrument, provide—
+
+(a) that the poll for a relevant election or a relevant referendum is to be held on such date, or within such period, as is specified in the regulations;
+
+(b) that polls for relevant elections or relevant referendums that would otherwise be required to be held on dates that fall within a period specified in the regulations are instead to be held on such later date, or within such period, as is specified in the regulations.
+
+(2) For the purposes of this section an election or referendum is “relevant” if—
+
+(a) the date of the poll for the election or the referendum falls within the period beginning with 16 March 2020 and ending with 5 May 2021, and
+
+(b) subsection (3) or (4) applies to it.
+
+(3) This subsection applies to—
+
+(a) an election of a councillor for any local government area in England to fill a casual vacancy;
+
+(b) a local election in Northern Ireland to fill a casual vacancy;
+
+(c) an election to fill a casual vacancy in respect of a constituency member of the Greater London Assembly;
+
+(d) an election to fill a vacancy in the office of the Mayor of London;
+
+(e) an election to fill a casual vacancy in the office of an elected mayor under Part 1A of the Local Government Act 2000;
+
+(f) an election to fill a vacancy in the office of a mayor for the area of a combined authority under Part 6 of the Local Democracy, Economic Development and Construction Act 2009;
+
+(g) an election to fill a vacancy in the office of a police and crime commissioner for a police area.
+
+(4) This subsection applies to—
+
+(a) a poll under section 116 of the Local Government Act 2003 (local polls);
+
+(b) a referendum under section 9MB of the Local Government Act 2000 (referendums on governance arrangements);
+
+(c) a referendum by virtue of section 9MC of the Local Government Act 2000 (referendums following petition);
+
+(d) a referendum under section 52ZG or 52ZN of the Local Government Finance Act 1992 (referendums in relation to council tax);
+
+(e) a referendum under or by virtue of Schedule 4B to the Town and Country Planning Act 1990 (referendums on neighbourhood development plans).
+
+(5) Regulations under subsection (1) must not specify—
+
+(a) a date later than 6 May 2021, or
+
+(b) a period ending later than 6 May 2021.
+
+(6) The power to make regulations under subsection (1) may be exercised more than once in respect of any relevant election or relevant referendum.
+
+(7) Regulations under subsection (1) may make provision by reference to relevant elections or relevant referendums of a description specified in the regulations (for example, by reference to the nature, date or location of the elections or referendums).
+
+(8) The power to make regulations under subsection (1) is capable of being exercised so as to amend, repeal or revoke any enactment.
+
+In this subsection “enactment” has the same meaning as in section 92.
+
+(9) A statutory instrument containing regulations under subsection (1) is subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(10) In this section—
+
+- “local election” has the same meaning as in the Electoral Law Act (Northern Ireland) 1962 (see section 130(1) of that Act);
+- “local government area” has the same meaning as in the Representation of the People Act 1983 (see section 203(1) of that Act).
+
+#### 62 Power to postpone a recall petition under the Recall of MPs Act 2015
+
+(1) In relation to a Speaker's notice received by a petition officer in the period beginning with the day on which this Act is passed and ending with 21 April 2021, section 7 of the 2015 Act (where and from when a recall petition may be signed) has effect as if for subsection (4) there were substituted—
+
+> (4) The petition officer must designate under subsection (1)(b)—
+>
+> (a) a working day that falls no later than 6 May 2021, or
+>
+> (b) if it is not reasonably practicable to designate such a day, the first subsequent working day that it is reasonably practicable to designate.
+
+(2) The Secretary of State or the Minister for the Cabinet Office may, by regulations made by statutory instrument, provide that the designated day for a relevant recall petition is postponed until a date specified in the regulations.
+
+(3) For the purposes of this section a recall petition is “relevant” if the day designated in relation to it under section 7(1)(b) of the 2015 Act (date from which petition may be signed) falls within the period beginning with the day on which this Act is passed and ending with 5 May 2021.
+
+(4) The date specified in regulations under subsection (2) must be no later than 6 May 2021.
+
+(5) The power to make regulations under subsection (2) may be exercised more than once in respect of any relevant recall petition.
+
+(6) A statutory instrument containing regulations under subsection (2) is subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(7) In this section—
+
+- “the 2015 Act” means the Recall of MPs Act 2015;
+- “the designated day” has the same meaning as in the 2015 Act (see section 7(5) of that Act);
+- “petition officer” has the same meaning as in the 2015 Act (see section 6(2) of that Act);
+- “recall petition” has the same meaning as in the 2015 Act (see section 1(2) of that Act);
+- “Speaker's notice” has the same meaning as in the 2015 Act (see section 5(7) of that Act).
+
+#### 63 Power to make supplementary etc provision
+
+(1) The Secretary of State or the Minister for the Cabinet Office may, by regulations made by statutory instrument, make consequential, supplementary, incidental, transitional or saving provision in connection with sections 60 to 62 or regulations made under them.
+
+(2) Regulations under subsection (1) may, in particular, make provision about—
+
+(a) acts or omissions in connection with an election, referendum or recall petition prior to its postponement (including provision disapplying any enactment imposing criminal liability in respect of such acts or omissions);
+
+(b) things that have yet to be done in connection with an election, referendum or recall petition prior to its postponement;
+
+(c) the conduct of elections, referendums or recall petitions that have been postponed or steps to be taken in respect of such elections, referendums or recall petitions;
+
+(d) the manner of voting in elections or referendums, or of signing of recall petitions, that have been postponed;
+
+(e) the terms of office of incumbent office-holders or those elected at a postponed election;
+
+(f) the nomination of candidates;
+
+(g) expenses incurred in relation to elections or referendums by persons other than local authorities (including the expenses of candidates);
+
+(h) compensation for local authorities or candidates incurring additional expenditure as a result of this Act;
+
+(i) the membership or governance arrangements of a local authority in relation to which an order has been made under section 7 of the Local Government and Public Involvement in Health Act 2007 (implementation of structural changes proposals), the membership or governance arrangements of any shadow authority established under such an order, or any other matter dealt with in such an order.
+
+(3) Regulations under subsection (1) may make retrospective provision, including provision having effect in relation to times before the coming into force of this Act.
+
+(4) The power to make regulations under subsection (1) is capable of being exercised so as to amend, repeal or revoke any enactment.
+
+In this subsection “enactment” has the same meaning as in section 92.
+
+(5) A statutory instrument containing regulations under subsection (1) is subject to annulment in pursuance of a resolution of either House of Parliament.
+
+#### 64 Northern Ireland: timing of canvass and Assembly by-elections
+
+(1) Section 10ZA of the Representation of the People Act 1983 (Northern Ireland: timing of the canvass) is amended in accordance with subsections (2) and (3).
+
+(2) In subsection (1)—
+
+(a) after paragraph (a) insert—
+
+> (aa) the year 2021;
+>
+> (ab) the year 2030;
+
+;
+
+(b) in paragraph (b), for “2010” substitute “ 2030 ”.
+
+(3) In subsection (4)—
+
+(a) omit paragraph (b) (including the “and” at the end);
+
+(b) after paragraph (c) insert—
+
+> (d) 2021,
+>
+> (e) 2030, and
+>
+> (f) every tenth year following 2030.
+
+(4) Subsection (5) applies if, at any time during the relevant period, Article 7(2) of the 2001 Order requires the Chief Electoral Officer for Northern Ireland to set a date as the date of the poll for an Assembly by-election.
+
+(5) Before setting the date, the Chief Electoral Officer must consult the Secretary of State.
+
+(6) In subsection (4)—
+
+- “the relevant period” means the period beginning with the date on which this Act is passed and ending with 1 February 2021;
+- “the 2001 Order” means the Northern Ireland Assembly (Elections) Order 2001 (S.I. 2001/2599).
+
+### Postponement of elections: Wales
+
+#### 65 Elections due to be held in Wales in period after 15 March 2020
+
+(1) This section applies to the poll for a relevant election if the poll—
+
+(a) is required to be held on a day falling within the period beginning with 16 March 2020 and ending with the day 30 days after that on which this Act is passed, but
+
+(b) is not held in that period.
+
+(2) Section 39 of the 1983 Act (local elections void etc) does not apply, and is treated as never having applied, in relation to the poll.
+
+(3) Section 63 of that Act (breach of official duty) does not apply, and is treated as never having applied, in relation to any act or omission in connection with the poll.
+
+(4) In determining for the purpose of this section whether a poll has been held, postal votes are to be ignored.
+
+(5) This section does not affect the application of section 39 or 63 of the 1983 Act in relation to a poll the date for which is determined by virtue of section 67 (power to postpone).
+
+(6) In this section—
+
+- “the 1983 Act” means the Representation of the People Act 1983;
+- “relevant election” means an election to fill a casual vacancy in the office of councillor in a county council, county borough council or community council in Wales.
+
+#### 66 Postponement of National Assembly for Wales elections for constituency vacancies
+
+(1) This section applies where under section 10 of the Government of Wales Act 2006 (“the 2006 Act”), an election is to be held to fill a vacant seat of a constituency member (“the election”).
+
+(2) The Presiding Officer may, where a date has been fixed for the poll for the election, fix a later date (which may be outwith the period required under section 10(5) or (6) of the 2006 Act).
+
+(3) The Presiding Officer must fix a date under subsection (2) for the poll for the election to be held as soon as reasonably practicable.
+
+(4) The power under subsection (2)—
+
+(a) may be exercised more than once,
+
+(b) may not be exercised so as to fix a date for the poll for the election that is within the period mentioned in 10(7) of the 2006 Act, and
+
+(c) may not be exercised so as to fix a date after 6 May 2021.
+
+(5) Before exercising the power under subsection (2), the Presiding Officer must consult the Welsh Ministers.
+
+#### 67 Power to postpone local authority elections in Wales for casual vacancies
+
+(1) The Welsh Ministers may, by regulations made by statutory instrument, provide—
+
+(a) that the poll for a relevant election is to be held on such date, or within such period, as is specified in the regulations;
+
+(b) that polls for relevant elections that would otherwise be required to be held on dates that fall within a period specified in the regulations are instead to be held on such later date, or within such period, as is specified in the regulations.
+
+(2) For the purposes of this section an election is “relevant” if—
+
+(a) the date of the poll for the election falls within the period beginning with 16 March 2020 and ending with 5 May 2021, and
+
+(b) it is an election to fill a casual vacancy in the office of councillor in a county council, county borough council or community council in Wales.
+
+(3) Regulations under subsection (1) must not specify—
+
+(a) a date later than 6 May 2021, or
+
+(b) a period ending later than 6 May 2021.
+
+(4) The power to make regulations under subsection (1) may be exercised more than once in respect of any relevant election.
+
+(5) Regulations under subsection (1) may make provision by reference to relevant elections of a description specified in the regulations (for example, by reference to the nature, date or location of the elections).
+
+(6) The power to make regulations under subsection (1) is capable of being exercised so as to amend or repeal a provision of an Act of Parliament or of an Act or Measure of the National Assembly for Wales.
+
+(7) A statutory instrument containing regulations under subsection (1) is subject to annulment in pursuance of a resolution of the National Assembly for Wales.
+
+#### 68 Power to make supplementary etc provision
+
+(1) The Welsh Ministers may, by regulations made by statutory instrument, make consequential, supplementary, incidental, transitional or saving provision in connection with section 66 or regulations made under section 67.
+
+(2) Regulations under subsection (1) may, in particular, make provision about—
+
+(a) acts or omissions in connection with an election prior to its postponement (including provision disapplying any enactment imposing criminal liability in respect of such acts or omissions);
+
+(b) things that have yet to be done in connection with an election prior to its postponement;
+
+(c) the conduct of elections that have been postponed or steps to be taken in respect of such elections;
+
+(d) the manner of voting in elections that have been postponed;
+
+(e) the terms of office of incumbent office-holders or those elected at a postponed election;
+
+(f) the nomination of candidates;
+
+(g) expenses incurred in relation to elections by persons other than local authorities (including the expenses of candidates);
+
+(h) compensation for local authorities or candidates incurring additional expenditure as a result of the Act.
+
+(3) Regulations under subsection (1) may make retrospective provision, including provision having effect in relation to times before the coming into force of this Act.
+
+(4) The power to make regulations under subsection (1) is capable of being exercised so as to amend or repeal a provision of an Act of Parliament or of an Act or Measure of the National Assembly for Wales.
+
+(5) A statutory instrument containing regulations under subsection (1) is subject to annulment in pursuance of a resolution of the National Assembly for Wales.
+
+### Postponement of elections: Scotland
+
+#### [^X2]69 Postponement of Scottish Parliament elections for constituency vacancies
+
+(1) This section applies where under section 9 of the Scotland Act 1998 (“the 1998 Act”), an election is to be held to fill a vacant seat of a constituency member (“the election”).
+
+(2) The Presiding Officer may—
+
+(a) where a date has been fixed for the poll for the election, fix a later date (which may be outwith the period required under section 9(3) of the 1998 Act), or
+
+(b) where no such date has been fixed, fix a date for the poll that is outwith that period.
+
+(3) The Presiding Officer must fix a date under subsection (2) for the poll at the election to be held as soon as reasonably practicable.
+
+(4) The Presiding Officer must notify the constituency returning officer for the election of the date fixed for the poll under subsection (2) in the same manner as if it had been fixed under section 9 of the 1998 Act.
+
+(5) The power under subsection (2)—
+
+(a) may be exercised more than once,
+
+(b) may not be exercised so as to fix a date for the poll at the election that is within the period mentioned in section 9(4) of the 1998 Act, and
+
+(c) may not be exercised so as to fix a date after 6 May 2021.
+
+(6) Before exercising the power under subsection (2), the Presiding Officer must consult—
+
+(a) the Scottish Ministers, and
+
+(b) the convener of the Electoral Management Board for Scotland.
+
+(7) Subsection (8) applies where—
+
+(a) notice of the date for the poll for the election has been published under Part 1 of Schedule 2 to the Scottish Parliament (Elections etc.) Order 2015 (S.S.I. 2015/425) (“the 2015 Order”), and
+
+(b) under subsection (2)(a), the Presiding Officer fixes a later date for the poll (“the new date”).
+
+(8) The constituency returning officer must—
+
+(a) publish a notice stating that the date has changed, and
+
+(b) comply with the requirements of Part 1 of Schedule 2 to the 2015 Order as if the new date had just been fixed under section 9 of the 1998 Act.
+
+(9) In this section “constituency returning officer” has the same meaning as in the 2015 Order.
+
+#### [^X3]70 Postponement of local authority elections in Scotland for casual vacancies
+
+(1) This section applies where under section 37 of the Local Government (Scotland) Act 1973 (“the 1973 Act”), an election is to be held to fill a casual vacancy in the office of councillor in a local authority (“the election”).
+
+(2) The returning officer may—
+
+(a) where a date has been fixed for the poll for the election, fix a later date (which may be outwith the period required under section 37(1) of the 1973 Act), or
+
+(b) where no such date has been fixed, fix a date for the poll that is outwith that period.
+
+(3) The returning officer must fix a date under subsection (2) for the poll at the election to be held as soon as reasonably practicable.
+
+(4) The power under subsection (2)—
+
+(a) may be exercised more than once,
+
+(b) may not be exercised so as to fix a date for the poll at the election that is within the period mentioned in subsection (2) of section 37 of the 1973 Act, unless the holding of the election within that period is permitted under that subsection, and
+
+(c) may not be exercised so as to fix a date after 6 May 2021.
+
+(5) Before exercising the power under subsection (2), the returning officer must consult—
+
+(a) the Scottish Ministers, and
+
+(b) the convener of the Electoral Management Board for Scotland.
+
+(6) Subsection (7) applies where—
+
+(a) notice of the date for the poll for the election has been published under Part 1 of Schedule 1 to the Scottish Local Government Elections Order 2011 (S.S.I. 2011/399) (“the 2011 Order”), and
+
+(b) under subsection (2)(a), the returning officer fixes a later date for the poll (“the new date”).
+
+(7) The returning officer must—
+
+(a) publish a notice stating that the date has changed, and
+
+(b) comply with the requirements of Part 1 of Schedule 1 to the 2011 Order as if the new date had just been fixed under section 37 of the 1973 Act.
+
+(8) In this section—
+
+- “local authority” means a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994 and “area” in relation to a local authority means the local government area for which the authority is constituted;
+- “returning officer”, in relation to a local authority, means an officer appointed by the local authority under section 41(1) of the Representation of the People Act 1983.
+
+### Other administrative requirements
+
+#### [^F57]71 Signatures of Treasury Commissioners
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### National Insurance Contributions
+
+#### 72 Power under section 143 of the Social Security Administration Act 1992
+
+(1) This section applies to an order made under section 143 of the Social Security Administration Act 1992 (power to alter contributions) if—
+
+(a) it is made on or after 19 March 2020 and before the end of the period of 2 years beginning with the day on which this Act is passed, and
+
+(b) it does not increase a figure referred to in section 143(1) or (3) of that Act above the figure that would apply on 6 April 2020, ignoring the effect of any order made under section 143 or 145 of that Act on or after 19 March 2020.
+
+(2) Section 143(1) of that Act has effect in relation to an order to which this section applies as if the words from “with a view” to “future period” were omitted.
+
+(3) Section 143(4)(a) of that Act (no increase above 0.25%) does not apply to an order to which this section applies.
+
+(4) Section 144 of that Act (requirement to lay report and orders not to have effect before next tax year) does not apply to an order to which this section applies.
+
+(5) Section 190(1) of that Act (affirmative procedure for certain orders) does not apply in relation to an order to which this section applies (and accordingly such an order is subject to annulment in pursuance of a resolution of either House of Parliament).
+
+#### 73 Power under section 145 of the Social Security Administration Act 1992
+
+(1) This section applies to an order made under section 145 of the Social Security Administration Act 1992 (power to alter primary and secondary contributions) if—
+
+(a) it is made on or after 19 March 2020 and before the end of the period of 2 years beginning with the day on which this Act is passed, and
+
+(b) it does not increase a rate or figure referred to in section 145(1), (2) or (4) of that Act above the rate or figure that would apply on 6 April 2020, ignoring the effect of any order made under section 143 or 145 of that Act on or after 19 March 2020.
+
+(2) Section 145(3) of that Act (no increase above 0.25%) does not apply to an order to which this section applies.
+
+(3) Subsections (2) to (5) of section 147 of that Act (requirement to lay report and coming into force and effect of order) do not apply to an order to which this section applies.
+
+(4) Section 190(1) of that Act (affirmative procedure for certain orders) does not apply in relation to an order to which this section applies (and accordingly such an order is subject to annulment in pursuance of a resolution of either House of Parliament).
+
+#### 74 Power under section 5 of the National Insurance Contributions Act 2014
+
+(1) This section applies to regulations under section 5 of the National Insurance Contributions Act 2014 (power to amend the employment allowance provisions) made on or after 19 March 2020 and before the end of the period of 2 years beginning with the day on which this Act is passed.
+
+(2) Section 5(5) to (9) of that Act (Parliamentary procedure) does not apply to such regulations but a statutory instrument containing such regulations is subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(3) But subsection (2) does not apply to regulations falling within section 5(1)(a) of that Act which decrease a person's employment allowance for a tax year below £4,000 (accordingly, section 5(5) of that Act continues to apply to a statutory instrument containing such regulations).
+
+### Financial assistance for industry
+
+#### 75 Disapplication of limit under section 8 of the Industrial Development Act 1982
+
+(1) Financial assistance provided under section 8 of the Industrial Development Act 1982 (general power to give selective financial assistance to industry) is not to count towards the limit set by subsections (4) and (5) of that section if the assistance has been designated under subsection (2) as “coronavirus-related”.
+
+[^F58]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F58]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### HMRC functions
+
+#### [^X4]76 HMRC functions
+
+Her Majesty's Revenue and Customs are to have such functions as the Treasury may direct in relation to coronavirus or coronavirus disease.
+
+### Up-rating of working tax credit etc
+
+#### 77 Up-rating of working tax credit etc
+
+[^F59]1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F59]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F60]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Local authority meetings
+
+#### 78 Local authority meetings
+
+[^F61]1 [^F61]The relevant national authority may by regulations make provision relating to—
+
+[^F61]a [^F61]requirements to hold local authority meetings;
+
+[^F61]b [^F61]the times at or by which, periods within which, or frequency with which, local authority meetings are to be held;
+
+[^F61]c [^F61]the places at which local authority meetings are to be held;
+
+[^F61]d [^F61]the manner in which persons may attend, speak at, vote in, or otherwise participate in, local authority meetings;
+
+[^F61]e [^F61]public admission and access to local authority meetings;
+
+[^F61]f [^F61]the places at which, and manner in which, documents relating to local authority meetings are to be open to inspection by, or otherwise available to, members of the public.
+
+[^F61]2 [^F61]The provision which may be made by virtue of subsection (1)(d) includes in particular provision for persons to attend, speak at, vote in, or otherwise participate in, local authority meetings without all of the persons, or without any of the persons, being together in the same place.
+
+[^F61][^F62]3 [^F61][^F62]The regulations may make provision only in relation to local authority meetings required to be held, or held, before 7 May 2021.
+
+[^F61]4 [^F61]The power to make regulations under this section includes power—
+
+[^F61]a [^F61]to disapply or modify any provision of an enactment or subordinate legislation;
+
+[^F61]b [^F61]to make different provision for different purposes;
+
+[^F61]c [^F61]to make consequential, supplementary, incidental, transitional or saving provision.
+
+[^F61]5 [^F61]In this section the “[^F61]relevant national authority[^F61]” means—
+
+[^F61]a [^F61]in relation to local authorities in England, the Secretary of State;
+
+[^F61]b [^F61]in relation to local authorities in Wales, the Welsh Ministers;
+
+[^F61]c [^F61]in relation to local authorities in Northern Ireland, the Department for Communities in Northern Ireland.
+
+[^F61]6 [^F61]In this section “[^F61]local authority meeting[^F61]” means a meeting of—
+
+[^F61]a [^F61]a local authority;
+
+[^F61]b [^F61]an executive of a local authority (within the meaning of Part 1A or 2 of the Local Government Act 2000 or Part 6 of the Local Government Act (Northern Ireland) 2014);
+
+[^F61]c [^F61]a joint committee of two or more local authorities;
+
+[^F61]d [^F61]a committee or sub-committee of anything within paragraphs (a) to (c).
+
+[^F61]7 [^F61]In this section “[^F61]local authority[^F61]”, in relation to England, means—
+
+[^F61]a [^F61]a county council;
+
+[^F61]b [^F61]a district council;
+
+[^F61]c [^F61]a London borough council;
+
+[^F61]d [^F61]the Common Council of the City of London;
+
+[^F61]e [^F61]the Greater London Authority;
+
+[^F61]f [^F61]the Council of the Isles of Scilly;
+
+[^F61]g [^F61]a parish council;
+
+[^F61]h [^F61]a joint board continued in being by virtue of section 263(1) of the Local Government Act 1972;
+
+[^F61]i [^F61]a port health authority constituted under section 2 of the Public Health (Control of Disease) Act 1984;
+
+[^F61]j [^F61]an authority established under section 10 of the Local Government Act 1985;
+
+[^F61]k [^F61]a joint authority established under Part 4 of the Local Government Act 1985;
+
+[^F61]l [^F61]a joint committee constituted to be a local planning authority under section 29 of the Planning and Compulsory Purchase Act 2004;
+
+[^F61]m [^F61]a combined authority established under section 103 of the Local Democracy, Economic Development and Construction Act 2009;
+
+[^F61]n [^F61]a fire and rescue authority constituted by a scheme under section 2 of the Fire and Rescue Services Act 2004 or a scheme to which section 4 of that Act applies, or created by an order under section 4A of that Act;
+
+[^F61]o [^F61]a National Park authority established under section 63 of the Environment Act 1995;
+
+[^F61]p [^F61]the Broads Authority established by section 1 of the Norfolk and Suffolk Broads Act 1988;
+
+[^F61]q [^F61]a conservation board established under section 86 of the Countryside and Rights of Way Act 2000;
+
+[^F61]r [^F61]an appeal panel constituted under the School Admissions (Appeals Arrangements) (England) Regulations 2012 (S.I. 2012/9).
+
+[^F61][[^F63]s [^F61]a Mayoral development corporation established under section 198 of the Localism Act 2011;
+
+[^F61]t [^F61]an urban development corporation established under section 135 of the Local Government, Planning and Land Act 1980;
+
+[^F61]u [^F61]a parish meeting constituted under section 13 of the Local Government Act 1972;
+
+[^F61]v [^F61]Transport for London.]
+
+[^F61]8 [^F61]In this section “[^F61]local authority[^F61]”, in relation to Wales, means—
+
+[^F61]a [^F61]a county council;
+
+[^F61]b [^F61]a county borough council;
+
+[^F61]c [^F61]a community council;
+
+[^F61]d [^F61]a joint board continued in being by virtue of section 263(1) of the Local Government Act 1972;
+
+[^F61]e [^F61]a port health authority constituted under section 2 of the Public Health (Control of Disease) Act 1984;
+
+[^F61]f [^F61]a joint committee constituted to be a local planning authority under section 29 of the Planning and Compulsory Purchase Act 2004;
+
+[^F61]g [^F61]a strategic planning panel established under section 60D of the Planning and Compulsory Purchase Act 2004;
+
+[^F61]h [^F61]a fire and rescue authority constituted by a scheme under section 2 of the Fire and Rescue Services Act 2004 or a scheme to which section 4 of that Act applies;
+
+[^F61]i [^F61]a National Park authority established under section 63 of the Environment Act 1995;
+
+[^F61]j [^F61]an appeal panel constituted under the Education (Admission Appeals Arrangements) (Wales) Regulations 2005 (S.I. 2005/1398).
+
+[^F61]9 [^F61]In this section “[^F61]local authority[^F61]”, in relation to Northern Ireland, means a district council.
+
+[^F61]10 [^F61]In this section—
+
+- [^F61]“[^F61]enactment[^F61]” includes—
+
+  - (a) [^F61]an enactment comprised in an Act or Measure of the National Assembly for Wales;
+  - (b) [^F61]an enactment comprised in Northern Ireland legislation;
+
+- [^F61]“[^F61]subordinate legislation[^F61]” means—
+
+  - (a) [^F61]subordinate legislation within the meaning of the Interpretation Act 1978;
+  - (b) [^F61]an instrument made under an Act or Measure of the National Assembly for Wales;
+  - (c) [^F61]an instrument made under Northern Ireland legislation.
+
+[^F61]11 [^F61]Regulations under this section made by the Secretary of State or the Welsh Ministers are to be made by statutory instrument.
+
+[^F61]12 [^F61]A statutory instrument containing regulations under this section made by the Secretary of State is subject to annulment in pursuance of a resolution of either House of Parliament.
+
+[^F61]13 [^F61]A statutory instrument containing regulations under this section made by the Welsh Ministers is subject to annulment in pursuance of a resolution of the National Assembly for Wales.
+
+[^F61]14 [^F61]The power of the Department for Communities in Northern Ireland to make regulations under this section is exercisable by statutory rule for the purposes of the Statutory Rules (Northern Ireland) Order 1979 (S.I. 1979/1573 (N.I. 12)) (and not by statutory instrument).
+
+[^F61]15 [^F61]Regulations under this section made by the Department for Communities in Northern Ireland are subject to negative resolution within the meaning of section 41(6) of the Interpretation Act (Northern Ireland) 1954.
+
+### Business improvement districts
+
+#### [^F64]79 Extension of BID arrangements: England
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F65]80 Extension of BID arrangements: Northern Ireland
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Residential tenancies: protection from eviction
+
+#### [^F66]81 Residential tenancies in England and Wales: protection from eviction
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Business tenancies: protection from forfeiture etc
+
+#### [^F67]82 Business tenancies in England and Wales: protection from forfeiture etc
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F68]83 Business tenancies in Northern Ireland: protection from forfeiture etc
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### General Synod of the Church of England
+
+#### [^F69]84 Postponement of General Synod elections
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 2 — Final provisions
+
+### 85 Interpretation
+
+In this Act “Minister of the Crown” means the holder of an office in Her Majesty's Government in the United Kingdom.
+
+### 86 Financial provision
+
+(1) There is to be paid out of money provided by Parliament—
+
+(a) any expenditure which is incurred by a Minister of the Crown, government department or other public authority by virtue of this Act,
+
+(b) any increase attributable to this Act in the sums payable by virtue of any other Act out of money so provided, and
+
+(c) any other expenditure which is incurred by a Minister of the Crown, government department or other public authority in connection with the making of payments, or the giving of financial assistance to a person (whether directly or indirectly), as a result of coronavirus or coronavirus disease.
+
+(2) In subsection (1)(c)—
+
+(a) the reference to expenditure includes expenditure incurred before or after the passing of this Act, and
+
+(b) “financial assistance” includes assistance provided by way of grant, loan, guarantee or indemnity, and any other kind of financial assistance (actual or contingent).
+
+### 87 Commencement
+
+(1) This Act comes into force on the day on which this Act is passed, subject to subsection (2).
+
+(2) The following provisions of this Act come into force on such day as a Minister of the Crown may by regulations appoint, subject to subsections (3) to (9)—
+
+(a) section 8 (and Schedule 7);
+
+(b) section 9;
+
+(c) section 10 (and Schedules 8, 9, 10 and 11);
+
+(d) section 15 (and Schedule 12);
+
+(e) section 16;
+
+(f) section 17;
+
+(g) section 18 (and Schedule 13);
+
+(h) section 19;
+
+(i) section 21;
+
+(j) sections 25 to 29 (and Schedule 15).
+
+(3) In the case of provision made by regulations under subsection (2) which could also be made by an authority under subsection (4), (6) or (8), a Minister of the Crown may not make the provision without the authority's consent.
+
+(4) If the condition in subsection (5) is met, the Welsh Ministers may by regulations provide that a provision of this Act to which subsection (2) applies comes into force, so far as it extends to England and Wales and applies in relation to Wales, on a day appointed by the regulations.
+
+(5) The condition is that, so far as it extends to England and Wales and applies in relation to Wales, the provision would be within the legislative competence of the National Assembly for Wales if it were contained in an Act of that Assembly (including any provision that could only be made with the consent of a Minister of the Crown within the meaning of the Ministers of the Crown Act 1975).
+
+(6) If the condition in subsection (7) is met, the Scottish Ministers may by regulations provide that a provision of this Act to which subsection (2) applies comes into force so far as it extends to Scotland on a day appointed by the regulations.
+
+(7) The condition is that, so far as it extends to Scotland, the provision would be within the legislative competence of the Scottish Parliament if it were contained in an Act of that Parliament.
+
+(8) If the condition in subsection (9) is met, a Northern Ireland department may by order provide that a provision of this Act to which subsection (2) applies comes into force so far as it extends to Northern Ireland on a day appointed by the order.
+
+(9) The condition is that the provision, so far as it extends to Northern Ireland—
+
+(a) would be within the legislative competence of the Northern Ireland Assembly, and
+
+(b) would not require the consent of the Secretary of State,
+
+if it were contained in an Act of that Assembly.
+
+(10) Different days may be appointed under subsection (2), (4), (6) or (8) for different purposes or areas.
+
+(11) A Minister of the Crown may by regulations make transitional, transitory or saving provision in connection with the coming into force of any provision of this Act, subject as follows.
+
+(12) In the case of provision made by regulations under subsection (11) which could also be made by an authority under any of subsections (13) to (15), a Minister of the Crown may not make the provision without the authority's consent.
+
+(13) The Welsh Ministers may by regulations make transitional, transitory or saving provision in connection with the coming into force in relation to Wales of a provision of this Act if the Welsh Ministers—
+
+(a) have the power to bring the provision into force in relation to Wales by virtue of subsection (4) (whether or not it has been brought into force), or
+
+(b) would have that power if the provision were listed in subsection (2).
+
+(14) The Scottish Ministers may by regulations make transitional, transitory or saving provision in connection with the coming into force in relation to Scotland of a provision of this Act if the Scottish Ministers—
+
+(a) have the power to bring the provision into force in relation to Scotland by virtue of subsection (6) (whether or not it has been brought into force), or
+
+(b) would have that power if the provision were listed in subsection (2).
+
+(15) A Northern Ireland department may by order make transitional, transitory or saving provision in connection with the coming into force in relation to Northern Ireland of any provision of this Act if a Northern Ireland department—
+
+(a) has the power to bring the provision into force in relation to Northern Ireland by virtue of subsection (8) (whether or not it has been brought into force), or
+
+(b) would have that power if the provision were listed in subsection (2).
+
+(16) Any power of a Minister of the Crown or the Welsh Ministers to make regulations under this section is exercisable by statutory instrument.
+
+(17) Any power of a Northern Ireland department to make an order under this section is exercisable by statutory rule for the purposes of the Statutory Rules (Northern Ireland) Order 1979 (S.I. 1979/1573 (N.I. 12)) (and not by statutory instrument).
+
+### 88 Power to suspend and revive provisions of this Act
+
+(1) A relevant national authority may by regulations suspend the operation of any provision of this Act.
+
+(2) Section 16(1) of the Interpretation Act 1978 applies in relation to the suspension of a provision of this Act by regulations under subsection (1) as if the provision had been repealed by an Act.
+
+(3) A relevant national authority may by regulations revive the operation of a provision of this Act suspended by regulations under subsection (1).
+
+(4) The power in subsection (1) and the power in subsection (3) may be exercised more than once in relation to the same provision.
+
+(5) Regulations under this section—
+
+(a) may make different provision for different purposes or areas;
+
+(b) may make transitional, transitory or saving provision.
+
+(6) References in this section to a provision of this Act do not include—
+
+(a) section 1;
+
+(b) section 2 (and Schedule 1);
+
+(c) section 5 and Schedule 4 so far as they—
+
+(i) make provision about a person who has been registered in the register of pharmaceutical chemists or against whose name in that register an annotation has been recorded, or
+
+(ii) make provision for or in connection with the revocation of a person's registration or the removal of an annotation;
+
+(d) section 6(a) and paragraph 1 of Schedule 5 so far as they—
+
+(i) make provision about a person who has been registered in any register by virtue of that Schedule, or
+
+(ii) make provision for or in connection with the revocation of a person's registration;
+
+(e) section 6(b) (and paragraph 2 of Schedule 5);
+
+(f) sections 11, 12 and 13;
+
+(g) section 17;
+
+(h) section 19(11);
+
+(i) section 21(7);
+
+(j) section 34;
+
+(k) section 35;
+
+(l) section 36;
+
+(m) section 37(2) (and Part 2 of Schedule 16);
+
+(n) section 38(2) (and Part 2 of Schedule 17);
+
+(o) section 45;
+
+(p) section 46;
+
+(q) section 47;
+
+(r) section 48 (and Schedule 18);
+
+(s) section 49 (and Schedule 19);
+
+(t) section 50 (and Schedule 20);
+
+(u) section 51 (and Schedule 21);
+
+(v) section 52 (and Schedule 22);
+
+(w) sections 59 to 70;
+
+(x) sections 72 to 74;
+
+(y) section 75;
+
+(z) a provision of this Part;
+
+(z1) Parts 2 to 5 of Schedule 7, and section 8 so far as relating to those Parts;
+
+(z2) Part 3 of Schedule 8, and section 10(1) and Part 1 of that Schedule so far as relating to that Part;
+
+(z3) Parts 3 and 4 of Schedule 10, and section 10(3) and Part 1 of that Schedule so far as relating to those Parts;
+
+(z4) Parts 3 and 4 of Schedule 11, and section 10(4) and Part 1 of that Schedule so far as relating to those Parts;
+
+(z5) paragraphs 3(2) and (3), 10, 13, 18, 30, 33 and 35 of Schedule 12, and section 15 and paragraphs 1 and 19 of that Schedule so far as relating to those paragraphs;
+
+(z6) paragraphs 8, 9, 15, 16 and 30 of Schedule 13, and section 18 and paragraphs 1, 10 and 17 of that Schedule so far as relating to those paragraphs.
+
+(7) In this section “relevant national authority” means a Minister of the Crown, subject as follows.
+
+(8) In the case of regulations under this section which could also be made by an authority by virtue of subsection (9), (11) or (13), a Minister of the Crown may not make the regulations without the authority's consent.
+
+(9) The Welsh Ministers are also a relevant national authority for the purposes of this section in relation to a provision of this Act if—
+
+(a) it extends to England and Wales and applies in relation to Wales, and
+
+(b) so far as it so extends and applies, it would be within the legislative competence of the National Assembly for Wales if it were contained in an Act of that Assembly (including any provision that could only be made with the consent of a Minister of the Crown within the meaning of the Ministers of the Crown Act 1975).
+
+(10) The power of the Welsh Ministers to make regulations under this section in relation to a provision of this Act is a power to do so only so far as the provision extends to England and Wales and applies in relation to Wales.
+
+(11) The Scottish Ministers are also a relevant national authority for the purposes of this section in relation to a provision of this Act if—
+
+(a) it extends to Scotland, and
+
+(b) so far as it so extends, it would be within the legislative competence of the Scottish Parliament if it were contained in an Act of that Parliament.
+
+(12) The power of the Scottish Ministers to make regulations under this section in relation to a provision of this Act is a power to do so only so far as the provision extends to Scotland.
+
+(13) A Northern Ireland department is also a relevant national authority for the purposes of this section in relation to a provision of this Act if—
+
+(a) it extends to Northern Ireland, and
+
+(b) so far as it so extends, were it contained in an Act of the Northern Ireland Assembly—
+
+(i) it would be within the legislative competence of that Assembly, and
+
+(ii) it would not require the consent of the Secretary of State.
+
+(14) References in this section to regulations are to be read in relation to a Northern Ireland department as references to an order.
+
+(15) The power of a Northern Ireland department to make an order under this section in relation to a provision of this Act is a power to do so only so far as the provision extends to Northern Ireland.
+
+(16) Any power of a Minister of the Crown or the Welsh Ministers to make regulations under this section is exercisable by statutory instrument.
+
+(17) Any power of a Northern Ireland department to make an order under this section is exercisable by statutory rule for the purposes of the Statutory Rules (Northern Ireland) Order 1979 (S.I. 1979/1573 (N.I. 12)) (and not by statutory instrument).
+
+### 89 Expiry
+
+(1) This Act expires at the end of the period of 2 years beginning with the day on which it is passed, subject to subsection (2) and section 90.
+
+(2) Subsection (1) does not apply to—
+
+(a) section 1;
+
+(b) section 2 and Schedule 1 so far as they—
+
+(i) make provision about a person who has been registered in any register by virtue of that Schedule, or
+
+(ii) make provision for or in connection with the revocation of a person's registration;
+
+(c) section 5 and Schedule 4 so far as they—
+
+(i) make provision about a person who has been registered in the register of pharmaceutical chemists or against whose name in that register an annotation has been recorded, or
+
+(ii) make provision for or in connection with the revocation of a person's registration or the removal of an annotation;
+
+(d) section 6 and Schedule 5 so far as they—
+
+(i) make provision about a person who has been registered in any register by virtue of that Schedule, or
+
+(ii) make provision for or in connection with the revocation of a person's registration;
+
+(e) sections 11, 12 and 13;
+
+(f) section 17;
+
+(g) section 19(11);
+
+(h) section 21(7);
+
+(i) sections 59 to 70;
+
+(j) sections 72 to 74;
+
+(k) section 75(1);
+
+(l) section 76;
+
+(m) this Part;
+
+(n) Parts 2 to 5 of Schedule 7, and section 8 so far as relating to those Parts;
+
+(o) Part 3 of Schedule 8, and section 10(1) and Part 1 of that Schedule so far as relating to that Part;
+
+(p) Parts 3 and 4 of Schedule 10, and section 10(3) and Part 1 of that Schedule so far as relating to those Parts;
+
+(q) Parts 3 and 4 of Schedule 11, and section 10(4) and Part 1 of that Schedule so far as relating to those Parts;
+
+(r) paragraphs 3(2) and (3), 10, 13, 18, 30, 33 and 35 of Schedule 12, and section 15 and paragraphs 1 and 19 of that Schedule so far as relating to those paragraphs;
+
+(s) paragraphs 8, 9, 15, 16 and 30 of Schedule 13, and section 18 and paragraphs 1, 10 and 17 of that Schedule so far as relating to those paragraphs.
+
+(3) A Minister of the Crown may by regulations make transitional, transitory or saving provision in connection with the expiry of any provision of this Act.
+
+(4) In the case of provision made by regulations under subsection (3) which could also be made by an authority under subsection (5), (7) or (9), a Minister of the Crown may not make the provision without the authority's consent.
+
+(5) If the condition in subsection (6) is met, the Welsh Ministers may by regulations make transitional, transitory or saving provision in connection with the expiry in relation to Wales of any provision of this Act.
+
+(6) The condition is that, so far as it extends to England and Wales and applies to Wales, the provision would be within the legislative competence of the National Assembly for Wales if it were contained in an Act of that Assembly (including any provision that could only be made with the consent of a Minister of the Crown within the meaning of the Ministers of the Crown Act 1975).
+
+(7) If the condition in subsection (8) is met, the Scottish Ministers may by regulations make transitional, transitory or saving provision in connection with the expiry in relation to Scotland of any provision of this Act.
+
+(8) The condition is that, so far as it extends to Scotland, the provision would be within the legislative competence of the Scottish Parliament if it were contained in an Act of that Parliament.
+
+(9) If the condition in subsection (10) is met, a Northern Ireland department may by order make transitional, transitory or saving provision in connection with the expiry in relation to Northern Ireland of any provision of this Act.
+
+(10) The condition is that the provision, so far as it extends to Northern Ireland—
+
+(a) would be within the legislative competence of the Northern Ireland Assembly, and
+
+(b) would not require the consent of the Secretary of State,
+
+if it were contained in an Act of that Assembly.
+
+(11) The power of a Minister of the Crown or the Welsh Ministers to make regulations under this section is exercisable by statutory instrument.
+
+(12) The power of a Northern Ireland department to make an order under this section is exercisable by statutory rule for the purposes of the Statutory Rules (Northern Ireland) Order 1979 (S.I. 1979/1573 (N.I. 12)) (and not by statutory instrument).
+
+### 90 Power to alter expiry date
+
+(1) A relevant national authority may by regulations provide that any provision of this Act—
+
+(a) does not expire at the time when it would otherwise expire (whether by virtue of section 89 or previous regulations under this subsection or subsection (2)), and
+
+(b) expires instead at such earlier time as is specified in the regulations.
+
+(2) A relevant national authority may by regulations provide that any provision of this Act—
+
+(a) does not expire at the time when it would otherwise expire (whether by virtue of section 89 or previous regulations under this subsection or subsection (1)), and
+
+(b) expires instead at such later time as is specified in the regulations.
+
+(3) A time specified under subsection (2) in relation to a provision of this Act must not be later than the end of the period of 6 months beginning with the time when the provision would otherwise have expired (whether by virtue of section 89 or previous regulations under subsection (1) or (2)).
+
+(4) Regulations under this section—
+
+(a) may make different provision for different purposes or areas;
+
+(b) may make transitional, transitory or saving provision.
+
+(5) In this section “relevant national authority” means a Minister of the Crown, subject as follows.
+
+(6) In the case of regulations under this section which could also be made by an authority by virtue of subsection (7), (9) or (11), a Minister of the Crown may not make the regulations without the authority's consent.
+
+(7) The Welsh Ministers are also a relevant national authority for the purposes of this section in relation to a provision of this Act if—
+
+(a) it extends to England and Wales and applies in relation to Wales, and
+
+(b) so far as it so extends and applies, it would be within the legislative competence of the National Assembly for Wales if it were contained in an Act of that Assembly (including any provision that could only be made with the consent of a Minister of the Crown within the meaning of the Ministers of the Crown Act 1975).
+
+(8) The power of the Welsh Ministers to make regulations under this section in relation to a provision of this Act is a power to do so only so far as the provision extends to England and Wales and applies in relation to Wales.
+
+(9) The Scottish Ministers are also a relevant national authority for the purposes of this section in relation to a provision of this Act if—
+
+(a) it extends to Scotland, and
+
+(b) so far as it so extends, it would be within the legislative competence of the Scottish Parliament if it were contained in an Act of that Parliament.
+
+(10) The power of the Scottish Ministers to make regulations under this section in relation to a provision of this Act is a power to do so only so far as the provision extends to Scotland.
+
+(11) A Northern Ireland department is also a relevant national authority for the purposes of this section in relation to a provision of this Act if—
+
+(a) it extends to Northern Ireland, and
+
+(b) so far as it so extends, were it contained in an Act of the Northern Ireland Assembly—
+
+(i) it would be within the legislative competence of that Assembly, and
+
+(ii) it would not require the consent of the Secretary of State.
+
+(12) References in this section to regulations are to be read in relation to a Northern Ireland department as references to an order.
+
+(13) The power of a Northern Ireland department to make an order under this section in relation to a provision of this Act is a power to do so only so far as the provision extends to Northern Ireland.
+
+(14) Any power of a Minister of the Crown or the Welsh Ministers to make regulations under this section is exercisable by statutory instrument.
+
+(15) Any power of a Northern Ireland department to make an order under this section is exercisable by statutory rule for the purposes of the Statutory Rules (Northern Ireland) Order 1979 (S.I. 1979/1573 (N.I. 12)) (and not by statutory instrument).
+
+### 91 Power to amend Act in consequence of amendments to subordinate legislation
+
+(1) A relevant national authority may by regulations amend or repeal any provision of this Act which modifies a provision of subordinate legislation.
+
+(2) The power in subsection (1) may be exercised only if the amendment or repeal is necessary in consequence of the amendment or revocation of the provision of subordinate legislation by other subordinate legislation.
+
+(3) Regulations under subsection (1) may make transitional, transitory or saving provision.
+
+(4) In this section “relevant national authority” means a Minister of the Crown, subject as follows.
+
+(5) In the case of regulations under subsection (1) which could also be made by an authority by virtue of any of subsections (6) to (8), a Minister of the Crown may not make the regulations without the authority's consent.
+
+(6) The Welsh Ministers are also a relevant national authority in relation to regulations under subsection (1) which make provision which would be within the legislative competence of the National Assembly for Wales if it were contained in an Act of that Assembly (including any provision that could only be made with the consent of a Minister of the Crown within the meaning of the Ministers of the Crown Act 1975).
+
+(7) The Scottish Ministers are also a relevant national authority in relation to regulations under subsection (1) which make provision which would be within the legislative competence of the Scottish Parliament if it were contained in an Act of that Parliament.
+
+(8) A Northern Ireland department is also a relevant national authority in relation to regulations under subsection (1) which make provision which, if it were contained in an Act of the Northern Ireland Assembly—
+
+(a) would be within the legislative competence of that Assembly, and
+
+(b) would not require the consent of the Secretary of State.
+
+(9) Any power of a Minister of the Crown or the Welsh Ministers to make regulations under subsection (1) is exercisable by statutory instrument.
+
+(10) References in this section to regulations are to be read in relation to a Northern Ireland department as references to an order.
+
+(11) Any power of a Northern Ireland department to make an order under subsection (1) is exercisable by statutory rule for the purposes of the Statutory Rules (Northern Ireland) Order 1979 (S.I. 1979/1573 (N.I. 12)) (and not by statutory instrument).
+
+(12) In this section “subordinate legislation” means—
+
+(a) subordinate legislation within the meaning of the Interpretation Act 1978,
+
+(b) an instrument made under an Act or Measure of the National Assembly for Wales,
+
+(c) an instrument made under an Act of the Scottish Parliament, or
+
+(d) an instrument made under Northern Ireland legislation.
+
+### 92 Power to make consequential modifications
+
+(1) A relevant national authority may by regulations make provision for an enactment to have effect with modifications in consequence of any provision of this Act.
+
+(2) Without prejudice to section 14 of the Interpretation Act 1978 (implied power to amend), a relevant national authority may by regulations amend or revoke any regulations made by the authority under subsection (1) in consequence of—
+
+(a) the exercise of a power under section 88,
+
+(b) the expiry of a provision of this Act under section 89, or
+
+(c) the exercise of a power under section 90.
+
+(3) Regulations under this section may make transitional, transitory or saving provision.
+
+(4) In this section “relevant national authority” means a Minister of the Crown, subject as follows.
+
+(5) In the case of regulations under this section which could also be made by an authority by virtue of any of subsections (6) to (8), a Minister of the Crown may not make the regulations without the authority's consent.
+
+(6) The Welsh Ministers are also a relevant national authority in relation to regulations under this section which make provision which would be within the legislative competence of the National Assembly for Wales if it were contained in an Act of that Assembly (including any provision that could only be made with the consent of a Minister of the Crown within the meaning of the Ministers of the Crown Act 1975).
+
+(7) The Scottish Ministers are also a relevant national authority in relation to regulations under this section which make provision which would be within the legislative competence of the Scottish Parliament if it were contained in an Act of that Parliament.
+
+(8) A Northern Ireland department is also a relevant national authority in relation to regulations under this section which make provision which, if it were contained in an Act of the Northern Ireland Assembly—
+
+(a) would be within the legislative competence of that Assembly, and
+
+(b) would not require the consent of the Secretary of State.
+
+(9) Any power of a Minister of the Crown or the Welsh Ministers to make regulations under this section is exercisable by statutory instrument.
+
+(10) References in this section to regulations are to be read in relation to a Northern Ireland department as references to an order.
+
+(11) Any power of a Northern Ireland department to make an order under this section is exercisable by statutory rule for the purposes of the Statutory Rules (Northern Ireland) Order 1979 (S.I. 1979/1573 (N.I. 12)) (and not by statutory instrument).
+
+(12) In this section “enactment” includes—
+
+(a) an enactment comprised in an Act or Measure of the National Assembly for Wales,
+
+(b) an enactment comprised in an Act of the Scottish Parliament,
+
+(c) an enactment comprised in Northern Ireland legislation, and
+
+(d) an enactment comprised in subordinate legislation.
+
+(13) In this section “subordinate legislation” means—
+
+(a) subordinate legislation within the meaning of the Interpretation Act 1978,
+
+(b) an instrument made under an Act or Measure of the National Assembly for Wales,
+
+(c) an instrument made under an Act of the Scottish Parliament, or
+
+(d) an instrument made under Northern Ireland legislation.
+
+### 93 Procedure for certain regulations made by a Minister of the Crown
+
+(1) A statutory instrument containing regulations made by a Minister of the Crown under section 90(1) (other than regulations made in accordance with section 98(1)) may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, each House of Parliament.
+
+(2) A statutory instrument containing regulations made by a Minister of the Crown under section 90(2) must be laid before Parliament as soon as reasonably practicable after being made.
+
+(3) A statutory instrument containing regulations made by a Minister of the Crown under section 91(1) must be laid before Parliament as soon as reasonably practicable after being made.
+
+(4) A statutory instrument containing regulations made by a Minister of the Crown under section 92—
+
+(a) if the regulations only provide for subordinate legislation within the meaning of that section to have effect with modifications or to be amended or revoked, is subject to annulment in pursuance of a resolution of either House of Parliament;
+
+(b) otherwise, must be laid before Parliament as soon as reasonably practicable after being made.
+
+(5) Subsection (2), (3) or (4)(b) does not apply if a draft of the instrument has been laid before, and approved by a resolution of, each House of Parliament.
+
+(6) Regulations contained in an instrument laid before Parliament by virtue of subsection (2), (3) or (4)(b) cease to have effect at the end of the period of 40 days beginning with the day on which the instrument is made unless, during that period, the instrument is approved by a resolution of each House of Parliament.
+
+(7) In calculating the period of 40 days, no account is to be taken of any time during which—
+
+(a) Parliament is dissolved or prorogued, or
+
+(b) both Houses of Parliament are adjourned for more than 4 days.
+
+(8) Where regulations cease to have effect as a result of subsection (6) that does not—
+
+(a) affect anything previously done under or by virtue of the regulations, or
+
+(b) prevent the making of new regulations.
+
+### 94 Procedure for certain regulations made by the Welsh Ministers
+
+(1) A statutory instrument containing regulations made by the Welsh Ministers under section 90(1) may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, the National Assembly for Wales.
+
+(2) A statutory instrument containing regulations made by the Welsh Ministers under section 90(2) must be laid before the National Assembly for Wales as soon as reasonably practicable after being made.
+
+(3) A statutory instrument containing regulations made by the Welsh Ministers under section 91(1) must be laid before the National Assembly for Wales as soon as reasonably practicable after being made.
+
+(4) A statutory instrument containing regulations made by the Welsh Ministers under section 92—
+
+(a) if the regulations only provide for subordinate legislation within the meaning of that section to have effect with modifications or to be amended or revoked, is subject to annulment in pursuance of a resolution of the National Assembly for Wales;
+
+(b) otherwise, must be laid before the National Assembly for Wales as soon as reasonably practicable after being made.
+
+(5) Subsection (2), (3) or (4)(b) does not apply if a draft of the instrument has been laid before, and approved by a resolution of, the National Assembly for Wales.
+
+(6) Regulations contained in an instrument laid before the National Assembly for Wales by virtue of subsection (2), (3) or (4)(b) cease to have effect at the end of the period of 40 days beginning with the day on which the instrument is made unless, during that period, the instrument is approved by a resolution of the National Assembly for Wales.
+
+(7) In calculating the period of 40 days, no account is to be taken of any time during which the National Assembly for Wales is—
+
+(a) dissolved, or
+
+(b) in recess for more than 4 days.
+
+(8) Where regulations cease to have effect as a result of subsection (6) that does not—
+
+(a) affect anything previously done under or by virtue of the regulations, or
+
+(b) prevent the making of new regulations.
+
+### 95 Procedure for certain regulations made by the Scottish Ministers
+
+(1) Regulations made by the Scottish Ministers under section 90(1) are subject to the affirmative procedure (see section 29 of the Interpretation and Legislative Reform (Scotland) Act 2010) (asp 10)).
+
+(2) Regulations made by the Scottish Ministers under section 90(2) must be laid before the Scottish Parliament as soon as reasonably practicable after being made.
+
+(3) Regulations made by the Scottish Ministers under section 91(1) must be laid before the Scottish Parliament as soon as reasonably practicable after being made.
+
+(4) Regulations made by the Scottish Ministers under section 92—
+
+(a) if they only provide for subordinate legislation within the meaning of that section to have effect with modifications or to be amended or revoked, are subject to the negative procedure (see section 28 of the Interpretation and Legislative Reform (Scotland) Act 2010);
+
+(b) otherwise, must be laid before the Scottish Parliament as soon as reasonably practicable after being made.
+
+(5) Subsection (2), (3) or (4)(b) does not apply if the regulations have been subject to the affirmative procedure (see section 29 of the Interpretation and Legislative Reform (Scotland) Act 2010).
+
+(6) Regulations laid before the Scottish Parliament by virtue of subsection (2), (3) or (4)(b) cease to have effect at the end of the period of 40 days beginning with the day on which they are made unless, during that period, the regulations are approved by resolution of the Scottish Parliament.
+
+(7) In calculating the period of 40 days, no account is to be taken of any time during which the Scottish Parliament is—
+
+(a) dissolved, or
+
+(b) in recess for more than 4 days.
+
+(8) Where regulations cease to have effect as a result of subsection (6) that does not—
+
+(a) affect anything previously done under or by virtue of the regulations, or
+
+(b) prevent the making of new regulations.
+
+### 96 Procedure for certain orders made by a Northern Ireland department
+
+(1) An order made by a Northern Ireland department under section 90(1) is subject to negative resolution within the meaning of section 41(6) of the Interpretation Act (Northern Ireland) 1954.
+
+(2) An order made by a Northern Ireland department under section 90(2) must be laid before the Northern Ireland Assembly as soon as reasonably practicable after being made.
+
+(3) An order made by a Northern Ireland department under section 91(1) must be laid before the Northern Ireland Assembly as soon as reasonably practicable after being made.
+
+(4) An order under section 92 made by a Northern Ireland department—
+
+(a) if the order only provides for subordinate legislation within the meaning of that section to have effect with modifications or to be amended or revoked, is subject to negative resolution within the meaning of section 41(6) of the Interpretation Act (Northern Ireland) 1954;
+
+(b) otherwise, must be laid before the Northern Ireland Assembly as soon as reasonably practicable after being made.
+
+(5) Subsection (2), (3) or (4)(b) does not apply if a draft of the order has been laid before, and approved by a resolution of, the Northern Ireland Assembly.
+
+(6) Section 41(3) of the Interpretation Act (Northern Ireland) 1954 applies for the purposes of subsection (5) in relation to the laying of a draft as it applies in relation to the laying of a statutory document under an enactment.
+
+(7) An order laid before the Northern Ireland Assembly by virtue of subsection (2), (3) or (4)(b) ceases to have effect at the end of the period of 40 days beginning with the day on which the order is made unless, during that period, the instrument is approved by a resolution of the Northern Ireland Assembly.
+
+(8) In calculating the period of 40 days, no account is to be taken of any time during which the Northern Ireland Assembly is—
+
+(a) dissolved,
+
+(b) in recess for more than 4 days, or
+
+(c) adjourned for more than 6 days.
+
+(9) Where an order ceases to have effect as a result of subsection (7) that does not—
+
+(a) affect anything previously done under or by virtue of the order, or
+
+(b) prevent the making of a new order.
+
+### [^X5]97 Reports by Secretary of State on status of non-devolved provisions of this Act
+
+(1) The Secretary of State must—
+
+(a) in respect of each reporting period, prepare and publish a report on the status of the provisions of Part 1 of this Act;
+
+(b) include in the report a statement that the Secretary of State is satisfied that the status of those provisions is appropriate.
+
+(2) A reference in this section to a provision of this Act is to the provision only so far as the Secretary of State is responsible for it (see subsection (6)).
+
+(3) The references in subsection (1) to the “status” of a provision are to—
+
+(a) whether the provision is in force at the end of the reporting period, and
+
+(b) whether any power under the following provisions has been exercised by a Minister of the Crown in relation to it during that period (and, if so, which and how)—
+
+(i) section 87(2) (regulations bringing provision into force);
+
+(ii) section 88(1) or (3) (regulations suspending or reviving provision);
+
+(iii) section 90(1) or (2) (regulations altering expiry date of provision).
+
+(4) Each of the following is a “reporting period”—
+
+(a) the period of 2 months beginning with the day on which this Act is passed;
+
+(b) each successive period of 2 months that ends during the substantive operational period of this Act.
+
+(5) The “substantive operational period of this Act” is —
+
+(a) the two-year period mentioned in section 89(1), or
+
+(b) if different, the period—
+
+(i) beginning with the day on which this Act is passed, and
+
+(ii) ending with the time of expiry of the provision of this Act which, by virtue of regulations made by a Minister of the Crown under section 90(2), expires the latest.
+
+(6) The Secretary of State is responsible for a provision of this Act so far as—
+
+(a) it extends to England and Wales and applies in relation to England;
+
+(b) it—
+
+(i) extends to England and Wales and applies in relation to Wales, or extends to Scotland or Northern Ireland, and
+
+(ii) is outside devolved legislative competence in Wales, Scotland or Northern Ireland (as the case may be).
+
+(7) A provision is “outside devolved legislative competence”—
+
+(a) in relation to Wales, if it would not be within the legislative competence of the National Assembly for Wales if it were contained in an Act of that Assembly (assuming, in the case of provision that could only be made with the consent of a Minister of the Crown within the meaning of the Ministers of the Crown Act 1975, that such consent were given);
+
+(b) in relation to Scotland, if it would not be within the legislative competence of the Scottish Parliament if it were contained in an Act of that Parliament;
+
+(c) in relation to Northern Ireland, if—
+
+(i) it would not be within the legislative competence of the Northern Ireland Assembly, or
+
+(ii) it would require the consent of the Secretary of State,
+
+if it were contained in an Act of that Assembly.
+
+(8) The Secretary of State must lay each report prepared under subsection (1) before Parliament.
+
+(9) If the Secretary of State does not prepare and publish the report required by subsection (1) within 7 days beginning with the end of a reporting period, the Secretary of State must—
+
+(a) explain why in a statement made in writing, and
+
+(b) publish the statement.
+
+### 98 Six-month parliamentary review
+
+(1) If the House of Commons rejects a motion in the form set out in subsection (2), moved in accordance with subsection (3) by a Minister of the Crown, a Minister of the Crown must exercise the power conferred by section 90(1) so as to ensure that the relevant temporary provisions expire not later than the end of the period of 21 days beginning with the day on which the rejection takes place.
+
+(2) The form of the motion is—
+
+> That the temporary provisions of the Coronavirus Act 2020 should not yet expire.
+
+(3) So far as practicable, a Minister of the Crown must make arrangements for the motion mentioned in subsection (1) to be debated and voted on by the House of Commons within a period of 7 sitting days beginning immediately after each 6 month review period.
+
+(4) In this section—
+
+- “6 month review period” means—
+
+  - (a) the period of 6 months beginning with the day on which this Act is passed, and
+  - (b) each subsequent period of 6 months,
+
+  but only (in each case) if at least one relevant temporary provision still exists at the end of the period (whether or not that provision has ever been brought into force or is at that time suspended);
+
+- “relevant temporary provision” means any provision of this Act—
+
+  - (a) which is not listed in section 89(2) (provisions not subject to expiry), and
+  - (b) in respect of which a Minister of the Crown could make provision under section 90(1) (early expiry regulations) without the consent of the Welsh Ministers, the Scottish Ministers or a Northern Ireland department;
+
+- “sitting day” means a day on which the House of Commons is sitting (and a day is only a day on which the House of Commons is sitting if the House begins to sit on that day).
+
+### 99 Parliamentary consideration of status of non-devolved provisions of this Act
+
+(1) This section applies where the substantive operational period of this Act is longer than the period of one year beginning with the day on which this Act is passed.
+
+(2) A Minister of the Crown must make arrangements for—
+
+(a) a motion in neutral terms, to the effect that the House of Commons has considered the one-year status report, to be moved in that House by a Minister of the Crown within the period of 14 Commons sitting days beginning with the day after the end of the sixth reporting period, and
+
+(b) a motion for the House of Lords to take note of the one-year status report to be moved in that House by a Minister of the Crown within the period of 14 Lords sitting days beginning with the day after the end of the sixth reporting period.
+
+(3) The “one-year status report” is the report required to be prepared by the Secretary of State under section 97 in respect of the sixth reporting period.
+
+(4) In this section—
+
+- “Commons sitting day” means a day on which the House of Commons is sitting (and a day is only a day on which the House of Commons is sitting if the House begins to sit on that day);
+- “Lords sitting day” means a day on which the House of Lords is sitting (and a day is only a day on which the House of Lords is sitting if the House begins to sit on that day);
+- “reporting period” and “substantive operational period of this Act” have the same meaning as in section 97.
+
+### 100 Extent
+
+(1) The following provisions extend to England and Wales, Scotland and Northern Ireland—
+
+(a) section 1;
+
+(b) section 2 (and Schedule 1);
+
+(c) section 8, so far as it relates to Parts 1, 2 and 5 of Schedule 7 (and those Parts of that Schedule);
+
+(d) section 9;
+
+(e) sections 22 and 23;
+
+(f) section 24;
+
+(g) sections 25 to 29 (and Schedule 15);
+
+(h) section 50 (and Schedule 20);
+
+(i) section 51 (and Schedule 21);
+
+(j) section 52 (and Schedule 22);
+
+(k) section 54, so far as it relates to Part 2 of Schedule 24 (and that Part of that Schedule);
+
+(l) section 55, so far as it relates to paragraph 2 of Schedule 25 (and that paragraph of that Schedule);
+
+(m) section 58 (and Schedule 28);
+
+(n) sections 62 to 64 and 66;
+
+(o) sections 68 and 69;
+
+(p) section 71;
+
+(q) sections 72 to 74;
+
+(r) section 75;
+
+(s) section 76;
+
+(t) section 77(1) and (2);
+
+(u) this Part.
+
+(2) The following provisions extend to England and Wales and Scotland only—
+
+(a) section 8, so far as it relates to Part 3 of Schedule 7 (and that Part of that Schedule);
+
+(b) sections 39 to 41;
+
+(c) section 77(3).
+
+(3) The following provisions extend to England and Wales and Northern Ireland only—
+
+(a) section 61;
+
+(b) section 78.
+
+(4) The following provisions extend to England and Wales only—
+
+(a) section 3 (and Schedule 2);
+
+(b) section 6 (and Schedule 5);
+
+(c) section 10(1) (and Schedule 8);
+
+(d) section 11;
+
+(e) sections 14 and 15 (and Schedule 12);
+
+(f) section 18(1) (and Part 1 of Schedule 13);
+
+(g) section 19;
+
+(h) section 30;
+
+(i) section 33;
+
+(j) section 37(1) (and Part 1 of Schedule 16);
+
+(k) section 38(1) (and Part 1 of Schedule 17);
+
+(l) section 45;
+
+(m) section 53 (and Schedule 23);
+
+(n) section 54, so far as it relates to Parts 1 and 3 of Schedule 24 (and those Parts of that Schedule);
+
+(o) section 55, so far as it relates to paragraph 1 of Schedule 25 (and that paragraph of that Schedule);
+
+(p) section 56 (and Schedule 26);
+
+(q) sections 59, 60, 65 and 67;
+
+(r) section 79;
+
+(s) section 81 (and Schedule 29);
+
+(t) section 82;
+
+(u) section 84.
+
+(5) The following provisions extend to Scotland only—
+
+(a) section 4 (and Schedule 3);
+
+(b) section 7 (and Schedule 6);
+
+(c) section 10(2) (and Schedule 9);
+
+(d) section 12;
+
+(e) sections 16 and 17;
+
+(f) section 18(2) (and Part 2 of Schedule 13);
+
+(g) section 20 (and Schedule 14);
+
+(h) sections 34 and 35;
+
+(i) section 36;
+
+(j) section 37(2) (and Part 2 of Schedule 16);
+
+(k) section 38(2) (and Part 2 of Schedule 17);
+
+(l) section 46;
+
+(m) section 49 (and Schedule 19);
+
+(n) section 70.
+
+(6) The following provisions extend to Northern Ireland only—
+
+(a) section 5 (and Schedule 4);
+
+(b) section 8, so far as it relates to Part 4 of Schedule 7 (and that Part of that Schedule);
+
+(c) section 10(3) and (4) (and Schedules 10 and 11);
+
+(d) section 13;
+
+(e) section 18(3) (and Part 3 of Schedule 13);
+
+(f) section 21;
+
+(g) section 31;
+
+(h) section 32;
+
+(i) section 37(3) (and Part 3 of Schedule 16);
+
+(j) section 38(3) (and Part 3 of Schedule 17);
+
+(k) sections 42 to 44;
+
+(l) section 47;
+
+(m) section 48 (and Schedule 18);
+
+(n) section 57 (and Schedule 27);
+
+(o) section 80;
+
+(p) section 83.
+
+### 101 Extension to the Isle of Man
+
+Her Majesty may by Order in Council provide for the extension, with or without modifications, to the Isle of Man of any provision of this Act which is capable of so extending.
+
+### 102 Short title
+
+This Act may be cited as the Coronavirus Act 2020.
+
+## SCHEDULE 1 — Emergency registration of nurses and other health and care professionals
+
+*Section 2*
+
+### Nursing and Midwifery Order 2001
+
+**1** (1) The Nursing and Midwifery Order 2001 (S.I. 2002/253) has effect as if it were subject to the following modifications.
+
+(2) The Order has effect as if after article 9 there were inserted—
+
+> **Temporary registration in emergencies involving loss of human life or human illness etc**
+>
+> **9A** (1) The Registrar may register a person as a registered nurse, midwife or nursing associate, or the persons comprising a specified group of persons as registered nurses, midwives or nursing associates, if—
+>
+> (a) the Secretary of State has advised the Registrar that an emergency has occurred, is occurring or is about to occur and that the Registrar should consider acting under this article, and
+>
+> (b) the Registrar considers that the emergency registration requirement is met in relation to the person or group of persons.
+>
+> (2) For the purposes of paragraph (1)(b) the emergency registration requirement is met—
+>
+> (a) in relation to a person, if the Registrar considers that the person is a fit, proper and suitably experienced person to be registered as a nurse, midwife or nursing associate with regard to the emergency;
+>
+> (b) in relation to a group of persons, if the Registrar considers that the group is comprised of persons who are of a type who may reasonably be considered fit, proper and suitably experienced persons to be registered as nurses, midwives or nursing associates with regard to the emergency.
+>
+> (3) The Registrar may register all of the persons comprising a specified group of persons without first identifying each person in the group.
+>
+> (4) The Registrar may include an annotation in the register denoting that a person has been registered under this regulation.
+>
+> (5) The registration of a person under this article has effect subject to any conditions imposed by the Registrar; and the Registrar may at any time vary or revoke such a condition or add new conditions.
+>
+> (6) Where a person is registered under this article as a member of a specified group, the person's registration may (but need not) be subject to the same conditions as the registration of other members of the group.
+>
+> (7) A person's registration under this article ceases to have effect if revoked by the Registrar; and the Registrar—
+>
+> (a) must revoke the registration if the Secretary of State advises the Registrar that the circumstances that led the Secretary of State to give the advice referred to in paragraph (1)(a) no longer exist;
+>
+> (b) may at any time revoke the registration for any other reason, including where the Registrar suspects that the person's fitness to practise may be impaired.
+>
+> (8) A person's registration as a member of a specified group may be revoked—
+>
+> (a) without the registration of the other members of the group being revoked, or
+>
+> (b) as a result of a decision to revoke the registration of all the members of the group.
+>
+> (9) Rules under article 7 may not provide for fees to be charged in respect of a person's registration under this article.
+>
+> (10) The following provisions of this Order do not apply to persons registered under this article—
+>
+> - articles 5A, 9, 10, 12 and 13 (provisions relating to registration);
+> - articles 15 to 19 (provisions relating to education and training);
+> - Part 5 (fitness to practise), other than articles 21, 22(10) and 25(1) and (3) to (6).
+>
+> (11) If a person breaches a condition to which the person's registration under this article is subject, anything done by the person in breach of the condition is to be treated as not done by a registered nurse, midwife or nursing associate (as the case may be).
+>
+> (12) In this article “emergency” means an emergency of the kind described in section 19(1)(a) of the Civil Contingencies Act 2004, read with subsection (2)(a) and (b) of that section.
+
+(3) Article 25(1) (power of Nursing and Midwifery Council to require disclosure of information) has effect as if it enabled requirements to be imposed for the purpose of assisting the Registrar in carrying out functions in respect of identifying any person registered by virtue of article 9A(2)(b) (emergency registration of a group of persons).
+
+(4) Article 37 (appeals against Registrar's decisions) has effect as if after paragraph (2B) there were inserted—
+
+> (2C) No appeal lies to the Council where the Registrar—
+>
+> (a) has refused to register a person under article 9A, or
+>
+> (b) has revoked a person's registration under that article.
+
+### Health Professions Order 2001
+
+**2** (1) The Health Professions Order 2001 (S.I. 2002/254) has effect as if it were subject to the following modifications.
+
+(2) The Order has effect as if after article 9 there were inserted—
+
+> **Temporary registration in emergencies involving loss of human life or human illness etc**
+>
+> **9A** (1) The Registrar may register a person as a member of a relevant profession, or the persons comprising a specified group of persons as members of a relevant profession, if—
+>
+> (a) the Secretary of State has advised the Registrar that an emergency has occurred, is occurring or is about to occur and that the Registrar should consider acting under this article, and
+>
+> (b) the Registrar considers that the emergency registration requirement is met in relation to the person or group of persons.
+>
+> (2) For the purposes of paragraph (1)(b) the emergency registration requirement is met—
+>
+> (a) in relation to a person, if the Registrar considers that the person is a fit, proper and suitably experienced person to be registered as a member of the profession in question with regard to the emergency;
+>
+> (b) in relation to a group of persons, if the Registrar considers that the group is comprised of persons who are of a type who may reasonably be considered fit, proper and suitably experienced persons to be registered as members of the profession in question with regard to the emergency.
+>
+> (3) The Registrar may register all of the persons comprising a specified group of persons without first identifying each person in the group.
+>
+> (4) The Registrar may include an annotation in the register denoting that a person has been registered under this regulation.
+>
+> (5) The registration of a person under this article has effect subject to any conditions imposed by the Registrar; and the Registrar may at any time vary or revoke such a condition or add new conditions.
+>
+> (6) Where a person is registered under this article as a member of a specified group, the person's registration may (but need not) be subject to the same conditions as the registration of other members of the group.
+>
+> (7) A person's registration under this article ceases to have effect if revoked by the Registrar; and the Registrar—
+>
+> (a) must revoke the registration if the Secretary of State advises the Registrar that the circumstances that led the Secretary of State to give the advice referred to in paragraph (1)(a) no longer exist;
+>
+> (b) may at any time revoke the registration for any other reason, including where the Registrar suspects that the person's fitness to practise may be impaired.
+>
+> (8) A person's registration as a member of a specified group may be revoked—
+>
+> (a) without the registration of the other members of the group being revoked, or
+>
+> (b) as a result of a decision to revoke the registration of all the members of the group.
+>
+> (9) Rules under article 7 may not provide for fees to be charged in respect of a person's registration under this article.
+>
+> (10) The following provisions of this Order do not apply to persons registered under this article—
+>
+> - articles 9, 10, 11 and 12 (provisions relating to registration);
+> - articles 15 to 19 (provisions relating to education and training);
+> - Part 5 (fitness to practise), other than articles 21, 22(10) and 25(1) and (3) to (5).
+>
+> (11) If a person breaches a condition to which the person's registration under this article is subject, anything done by the person in breach of the condition is to be treated as not done by a person registered as a member of the relevant profession in question.
+>
+> (12) In this article “emergency” means an emergency of the kind described in section 19(1)(a) of the Civil Contingencies Act 2004, read with subsection (2)(a) and (b) of that section.
+
+(3) Article 25(1) (power of Health and Care Professions Council to require disclosure of information) has effect as if it enabled requirements to be imposed for the purpose of assisting the Registrar in carrying out functions in respect of identifying any person registered by virtue of article 9A(2)(b) (emergency registration of a group of persons).
+
+(4) Article 38 (appeals) has effect as if after paragraph (1A) there were inserted—
+
+> (1B) No appeal lies to the Council where the Registrar—
+>
+> (a) has refused to register a person under article 9A, or
+>
+> (b) has revoked a person's registration under that article.
+
+## [^F70]SCHEDULE 2 — Emergency arrangements concerning medical practitioners: Wales
+
+*Section 3*
+
+### [^F70]Temporary exception to rule requiring listing in order to perform primary medical services
+
+**[^F70]1** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F70]Modification of General Medical Services Contracts Regulations 2004
+
+**[^F70]2** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F70]Power to modify Schedule
+
+**[^F70]3** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## [^F71]SCHEDULE 3 — Emergency arrangements concerning medical practitioners: Scotland
+
+*Section 4*
+
+### [^F71]National Health Service (Primary Medical Services Performers Lists) (Scotland) Regulations 2004
+
+**[^F71]1** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F71]National Health Service (General Medical Services Contracts) (Scotland) Regulations 2018
+
+**[^F71]2** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F71]National Health Service (Primary Medical Services Section 17C Arrangements) (Scotland) Regulations 2018
+
+**[^F71]3** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F71]Power to modify Schedule
+
+**[^F71]4** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 4 — Emergency registration of pharmaceutical chemists and extension of prescribing powers: Northern Ireland
+
+*Section 5*
+
+### Interpretation
+
+**1** (1) In this Schedule “the 1976 Order” means the Pharmacy (Northern Ireland) Order 1976 (S.I. 1976/1213 (N.I. 22)).
+
+(2) In this Schedule references to Articles are to Articles of the 1976 Order.
+
+(3) Expressions used in this Schedule and in the 1976 Order have the meaning given in that Order.
+
+### Emergency registration of pharmaceutical chemists
+
+**2** The 1976 Order has effect as if it were subject to the following modifications.
+
+**3** After Article 8D insert—
+
+> **Temporary registration in the register of pharmaceutical chemists in certain emergencies**
+>
+> **8E** (1) The registrar may register a person, or the persons comprising a specified group of persons, in the register of pharmaceutical chemists if the conditions set out in paragraph (2) are satisfied.
+>
+> (2) The conditions are that—
+>
+> (a) the Department has advised the registrar that an emergency has occurred, is occurring or is about to occur and that the registrar should consider acting under this Article; and
+>
+> (b) the registrar considers that the emergency registration requirement is met in relation to the person or group of persons.
+>
+> (3) The emergency registration requirement is met—
+>
+> (a) in relation to a person, if the person is a fit, proper and suitably experienced person to be registered as a pharmaceutical chemist with regard to the emergency;
+>
+> (b) in relation to a group of persons, if the group is comprised of persons who are of a type who may reasonably be considered fit, proper and suitably experienced persons to be registered as pharmaceutical chemists with regard to the emergency.
+>
+> (4) The registrar may register all of the persons comprising a specified group of persons without first identifying each person in the group.
+>
+> (5) A person's registration under this Article has effect subject to any conditions imposed by the registrar; and the registrar may at any time vary or revoke such a condition or add new conditions.
+>
+> (6) Where a person is registered under this Article as a member of a specified group, the person's registration may (but need not) be subject to the same conditions as the registration of other members of the group.
+>
+> (7) The registration of a person under this Article ceases to have effect if revoked by the registrar; and the registrar—
+>
+> (a) must revoke the registration if the Department advises the registrar that the circumstances that led the Department to give the advice referred to in paragraph (2)(a) no longer exist;
+>
+> (b) may at any time revoke the registration for any other reason, including where the registrar has grounds for suspecting that the person's fitness to practise may be impaired.
+>
+> (8) A person's registration as a member of a specified group may be revoked—
+>
+> (a) without revoking the registration of the other members of the group; or
+>
+> (b) as a result of a decision to revoke the registration of all the members of the group.
+>
+> (9) Regulations made under Article 5 with respect to the following matters do not apply to persons registered under this Article—
+>
+> (a) paragraph (1)(b) (examinations and qualifications for registration);
+>
+> (b) paragraph (1)(bb), in so far as it refers to the necessary knowledge of English;
+>
+> (c) paragraph (1)(e) (fees);
+>
+> (d) paragraph (1)(f), (ffg) and (g) (qualifications etc in relation to registration);
+>
+> (e) such other matters as the Council may by regulations provide;
+>
+> but this is subject to paragraph (11).
+>
+> (10) The following provisions of this Order do not apply to persons registered under this Article—
+>
+> (a) Article 4A (continuing professional development);
+>
+> (b) Articles 7, 8 and 8AA (provisions relating to registration);
+>
+> (c) Article 11(1) (evidence of qualification required for registration);
+>
+> (d) Article 15 (retention fees);
+>
+> (e) Article 20 and Schedule 3 (fitness to practise) other than paragraphs 1 to 3; and
+>
+> (f) such other provisions as the Council may by regulations provide;
+>
+> but this is subject to paragraph (11).
+>
+> (11) The Council may make regulations that provide that the following apply to persons registered under this Article—
+>
+> (a) regulations with respect to any of the matters referred to in paragraph (9)(a) to (e); and
+>
+> (b) any of the provisions of this Order referred to in paragraph (10)(a) to (f).
+>
+> (12) If a person breaches any condition to which the person's registration under this Article is subject, anything done by that person in breach of the condition is to be treated as not being done by a registered pharmaceutical chemist.
+>
+> (13) The registrar may make available information to assist with the identification of persons registered under this Article in such manner as the registrar sees fit.
+>
+> (14) In this Article—
+>
+> - “emergency” means an emergency of the kind described in section 19(1)(a) of the Civil Contingencies Act 2004 (meaning of “emergency”), read with subsection (2)(a) and (b) of that section;
+> - “specified” means specified in a direction given by the registrar or by a person authorised by the registrar.
+
+**4** In Article 9(2) (maintenance of the register), at the end insert “ or in the case of the register mentioned in Article 6(1)(a) registered by virtue of Article 8E ”.
+
+**5** At the end of Article 9 (the registrar and registers) insert—
+
+> (6) The registrar may record an annotation against the name of a registered person denoting that the person is registered under Article 8E.
+
+### Emergency extension of prescribing powers for pharmaceutical chemists
+
+**6** After Article 9 insert—
+
+> **Temporary extension of prescribing powers in certain emergencies**
+>
+> **9A** (1) In the register mentioned in Article 6(1)(a), the registrar may record an annotation under paragraph (2) against—
+>
+> (a) the name of a registered person; or
+>
+> (b) the names of the persons comprising a specified group of registered persons,
+>
+> if the conditions set out in paragraph (3) are satisfied.
+>
+> (2) An annotation under this paragraph indicates that the person is qualified to order drugs, medicines and appliances in a specified capacity, notwithstanding that the person would not (but for this Article) be so qualified.
+>
+> (3) The conditions are that—
+>
+> (a) the Department has advised the registrar that an emergency has occurred, is occurring or is about to occur and that the registrar should consider acting under this Article; and
+>
+> (b) the registrar considers that the emergency annotation requirement is met in relation to the person or group of persons.
+>
+> (4) The emergency annotation requirement is met—
+>
+> (a) in relation to a registered person, if the person is a fit, proper and suitably experienced person to order drugs, medicines and appliances in a specified capacity with regard to the emergency; and
+>
+> (b) in relation to a group of registered persons, if the group is comprised of persons who may reasonably be considered fit, proper and suitably experienced persons to order drugs, medicines and appliances in a specified capacity with regard to the emergency.
+>
+> (5) The registrar may record the annotation in such a way as to distinguish between annotations recorded by virtue of this Article and other annotations.
+>
+> (6) Annotations recorded by virtue of this Article—
+>
+> (a) must be removed by the registrar if the Department advises the registrar that the circumstances that led the Department to give the advice referred to in paragraph (3)(a) no longer exist;
+>
+> (b) may at any time be removed by the registrar for any other reason including where the registrar has grounds for suspecting that the person's fitness to order drugs, medicines and appliances may be impaired.
+>
+> (7) An annotation recorded against the name of a person in the register as a member of a specified group may be removed—
+>
+> (a) without the removal by the registrar of the annotations recorded against the names in the register of the other members of the group; or
+>
+> (b) by virtue of a decision by the registrar to remove the annotations recorded against the names in the register of all the members of the group.
+>
+> (8) Regulations made under Article 5 with respect to the following matters do not apply to persons with an annotated entry—
+>
+> (a) paragraph (1)(e) (fees);
+>
+> (b) paragraph (1)(ff) (annotations of the register); and
+>
+> (c) such other matters as the Council may by regulations provide;
+>
+> but this is subject to paragraph (10).
+>
+> (9) The following provisions of this Order do not apply to persons with an annotated entry—
+>
+> (a) Article 4A (continuing professional development);
+>
+> (b) Article 8 (qualifications for registration); and
+>
+> (c) such other provisions as the Council may by regulations provide;
+>
+> but this is subject to paragraph (10).
+>
+> (10) The Council may make regulations that provide that the following apply to persons with an annotated entry—
+>
+> (a) regulations with respect to any of the matters referred to in paragraph (8)(a) to (c); and
+>
+> (b) any of the provisions of this Order referred to in paragraph (9)(a) to (c).
+>
+> (11) In this Article—
+>
+> - “emergency” means an emergency of the kind described in section 19(1)(a) of the Civil Contingencies Act 2004 (meaning of “emergency”), read with subsection (2)(a) and (b) of that section;
+> - “person with an annotated entry” means a person who has an annotation under paragraph (2) against their name in the register; and
+> - “specified” means specified in a direction given by the registrar or by a person authorised by the registrar.
+
+### Appeals
+
+**7** In Article 11, after paragraph (2) insert—
+
+> (3) No appeal lies to the Council against a decision of the registrar—
+>
+> (a) to register or refuse to register a person under Article 8E;
+>
+> (b) to register or refuse to register under that Article the persons comprising a group of persons;
+>
+> (c) to impose, vary or revoke a condition as respects the registration of a person, or the persons comprising a group of persons, under Article 8E(5);
+>
+> (d) to revoke a person's registration under that Article (and, in the case of a member of a group, it does not matter whether the registrar also decides to revoke the registration of any or all of the other members of the group);
+>
+> (e) to record or refuse to record an annotation under Article 9A(2) against the name of a registered person, or the names of the persons comprising a group of registered persons;
+>
+> (f) to remove an annotation under that Article (and, in the case of a member of a group, it does not matter whether the registrar also decides to remove the annotation of any or all of the other members of the group).
+
+### Power to require disclosure of information
+
+**8** Paragraph 2(1) of Schedule 3 to the 1976 Order (power of the Council to require disclosure of information) has effect as if it enabled requirements to be imposed for the purpose of assisting the registrar in carrying out functions in respect of identifying any person registered by virtue of Article 8E(3)(b) (emergency registration of a group of persons).
+
+## SCHEDULE 5 — Emergency registration of social workers: England and Wales
+
+*Section 6*
+
+### Social Workers Regulations 2018
+
+**1** (1) The Social Workers Regulations 2018 (S.I. 2018/893) have effect as if they were subject to the following modifications.
+
+(2) Regulation 9 (information to be recorded in the register in relation to a registered social worker) has effect as if—
+
+(a) in paragraph (1) after sub-paragraph (b) there were inserted—
+
+> (ba) in the case of a social worker registered under regulation 12A (emergency registration) the fact that the social worker has been registered under that regulation,
+
+, and
+
+(b) after paragraph (1) there were inserted—
+
+> (1A) The information referred to in paragraph (1)(a), (b) or (ba) is not required to be recorded in the register in relation to a social worker registered under regulation 12A as a member of a specified group.
+
+(3) The regulations have effect as if after regulation 12 there were inserted—
+
+> **Temporary registration in emergencies involving loss of human life or human illness etc**
+>
+> **12A** (1) The regulator may register a person as a social worker, or the persons comprising a specified group of persons as social workers, if—
+>
+> (a) the Secretary of State has advised the regulator that an emergency has occurred, is occurring or is about to occur and that the regulator should consider acting under this regulation, and
+>
+> (b) the regulator considers that the emergency registration requirement is met in relation to the person or group of persons.
+>
+> (2) For the purposes of paragraph (1)(b) the emergency registration requirement is met—
+>
+> (a) in relation to a person, if the regulator considers that the person is a fit, proper and suitably experienced person to be registered as a social worker with regard to the emergency;
+>
+> (b) in relation to a group of persons, if the regulator considers that the group is comprised of persons who are of a type who may reasonably be considered fit, proper and suitably experienced persons to be registered as social workers with regard to the emergency.
+>
+> (3) The regulator may register all of the persons comprising a specified group of persons without first identifying each person in the group.
+>
+> (4) The registration of a person under this regulation has effect subject to any conditions imposed by the regulator; and the regulator may at any time vary or revoke such a condition or add new conditions.
+>
+> (5) Where a person is registered under this regulation as a member of a specified group, the person's registration may (but need not) be subject to the same conditions as the registration of other members of the group.
+>
+> (6) A person's registration under this regulation ceases to have effect if revoked by the regulator; and the regulator—
+>
+> (a) must revoke the registration if the Secretary of State advises the regulator that the circumstances that led the Secretary of State to give the advice referred to in paragraph (1)(a) no longer exist;
+>
+> (b) may at any time revoke the registration for any other reason, including where the regulator suspects that the person's fitness to practise may be impaired.
+>
+> (7) A person's registration as a member of a specified group may be revoked—
+>
+> (a) without the registration of the other members of the group being revoked, or
+>
+> (b) as a result of a decision to revoke the registration of all the members of the group.
+>
+> (8) If a person's registration under this regulation is revoked under paragraph (6)(a), the registration ceases to have effect at the end of the period of 14 days beginning with the day on which it is revoked.
+>
+> (9) If a person's registration under this section is revoked under paragraph (6)(b), the registration ceases to have effect immediately.
+>
+> (10) The following provisions of these regulations do not apply to persons registered under this regulation—
+>
+> (a) regulation 9 (content of the register), other than paragraph (1)(a), (b) and (ba) and paragraphs (1A) and (3);
+>
+> (b) regulations 10 to 12 and 13 to 15 (other provisions relating to registration);
+>
+> (c) regulation 16(4) and (5) (duty to provide information to regulator: sanctions);
+>
+> (d) regulation 17 (fees for registration);
+>
+> (e) Part 5 (discipline and fitness to practise).
+>
+> (11) If a person breaches a condition to which the person's registration under this regulation is subject, anything done by the person in breach of the condition is to be treated as not done by a registered social worker.
+>
+> (12) The regulator may do anything which appears to it to be necessary or expedient for the purpose of, or in connection with, the performance of its functions under this regulation.
+>
+> (13) This includes—
+>
+> (a) making rules, and
+>
+> (b) issuing guidance to persons registered under this regulation or to the public.
+>
+> (14) Paragraphs (2) to (5) of regulation 3 do not apply to rules under paragraph (12)(a).
+>
+> (15) In this regulation “emergency” means an emergency of the kind described in section 19(1)(a) of the Civil Contingencies Act 2004, read with subsection (2)(a) and (b) of that section.
+
+(4) Regulation 19 (registration appeals) has effect as if after paragraph (2) there were inserted—
+
+> (2A) Paragraph (1) does not apply to—
+>
+> (a) a decision by the regulator to refuse to register a person under regulation 12A, or
+>
+> (b) a decision by the regulator to revoke a person's registration under that regulation.
+
+### Regulation and Inspection of Social Care (Wales) Act 2016
+
+**2** (1) The Regulation and Inspection of Social Care (Wales) Act 2016 (anaw 2) has effect as if it were subject to the following modifications.
+
+(2) The Act has effect as if after section 83 of the English language text there were inserted—
+
+> **Temporary registration in emergencies involving loss of human life or human illness etc**
+>
+> **83A** (1) The registrar may register a person as a social worker in the social worker part of the register, or the persons comprising a specified group of persons as social workers in that part, if—
+>
+> (a) the Welsh Ministers have advised the registrar that an emergency has occurred, is occurring or is about to occur and that the registrar should consider acting under this section, and
+>
+> (b) the registrar considers that the emergency registration requirement is met in relation to the person or group of persons.
+>
+> (2) For the purposes of subsection (1)(b) the emergency registration requirement is met—
+>
+> (a) in relation to a person, if the registrar considers that the person is a fit, proper and suitably experienced person to be registered as a social worker with regard to the emergency;
+>
+> (b) in relation to a group of persons, if the registrar considers that the group is comprised of persons who are of a type who may reasonably be considered fit, proper and suitably experienced persons to be registered as social workers with regard to the emergency.
+>
+> (3) The registrar may register all of the persons comprising a specified group of persons without first identifying each person in the group.
+>
+> (4) The registrar may include an annotation in the social worker part of the register denoting that a person has been registered under this section.
+>
+> (5) The registration of a person under this section has effect subject to any conditions imposed by the registrar; and the registrar may at any time vary or revoke such a condition or add new conditions.
+>
+> (6) Where a person is registered under this section as a member of a specified group, the person's registration may (but need not) be subject to the same conditions as the registration of other members of the group.
+>
+> (7) A person's registration under this section ceases to have effect if revoked by the registrar; and the registrar—
+>
+> (a) must revoke the registration if the Welsh Ministers advise the registrar that the circumstances that led the Welsh Ministers to give the advice referred to in subsection (1)(a) no longer exist;
+>
+> (b) may at any time revoke the registration for any other reason, including where the registrar suspects that the person's fitness to practise may be impaired.
+>
+> (8) A person's registration as a member of a specified group may be revoked—
+>
+> (a) without the registration of the other members of the group being revoked, or
+>
+> (b) as a result of a decision to revoke the registration of all the members of the group.
+>
+> (9) If a person's registration under this section is revoked under subsection (7)(a), the registration ceases to have effect at the end of the period of 14 days beginning with the day on which it is revoked.
+>
+> (10) If a person's registration under this section is revoked under subsection (7)(b), the registration ceases to have effect immediately.
+>
+> (11) Rules under section 74 may not provide for fees to be charged in respect of a person's registration under this section.
+>
+> (12) The following provisions do not apply to persons registered under this section—
+>
+> (a) sections 82, 83, 84, 86, 87, 89, 94 and 95 (provisions relating to registration) of this Act;
+>
+> (b) sections 113 to 115 (continuing professional development) of this Act and rules made under any of those sections;
+>
+> (c) Part 6 (social care workers: fitness to practise) of this Act, other than section 160(1) and (3) to (5).
+>
+> (13) If a person breaches a condition to which the person's registration under this section is subject, anything done by the person in breach of the condition is to be treated as not done by a person registered in the social worker part of the register.
+>
+> (14) In this section “emergency” means an emergency of the kind described in section 19(1)(a) of the Civil Contingencies Act 2004, read with subsection (2)(a) and (b) of that section.
+
+(3) The Act has effect as if after section 83 of the Welsh language text there were inserted—
+
+> **Cofrestru dros dro mewn argyfyngau sy'n cynnwys colli bywyd dynol neu salwch dynol etc**
+>
+> **83A** (1) Caiff y cofrestrydd gofrestru person fel gweithiwr cymdeithasol yn rhan gweithwyr cymdeithasol y gofrestr, neu bersonau sy'n ffurfio grŵp penodedig o bersonau fel gweithwyr cymdeithasol yn y rhan honno, —
+>
+> (a) os yw Gweinidogion Cymru wedi cynghori'r cofrestrydd bod argyfwng wedi codi, yn codi neu ar fin codi, ac y dylai'r cofrestrydd ystyried gweithredu o dan yr adran hon, a
+>
+> (b) os yw'r cofrestrydd yn ystyried bod y gofyniad ar gyfer cofrestru mewn argyfwng wedi ei fodloni mewn perthynas â'r person neu'r grŵp o bersonau.
+>
+> (2) At ddibenion is-adran (1)(b) mae'r gofyniad ar gyfer cofrestru mewn argyfwng yn cael ei fodloni—
+>
+> (a) mewn perthynas â pherson, os yw'r cofrestrydd yn ystyried bod y person yn berson addas a phriodol sydd â phrofiad cyfaddas i gael ei gofrestru fel gweithiwr cymdeithasol o ran yr argyfwng;
+>
+> (b) mewn perthynas â grŵp o bersonau, os yw'r cofrestrydd yn ystyried bod y grŵp yn cael ei ffurfio o bersonau sydd o fath y gellir eu hystyried yn rhesymol yn bersonau addas a phriodol sydd â phrofiad cyfaddas i gael eu cofrestru fel gweithwyr cymdeithasol o ran yr argyfwng.
+>
+> (3) Caiff y cofrestrydd gofrestru pob un o'r personau sy'n ffurfio grŵp penodedig o bersonau heb enwi'n gyntaf bob person yn y grŵp.
+>
+> (4) Caiff y cofrestrydd gynnwys anodiad yn rhan gweithwyr cymdeithasol y gofrestr sy'n dynodi bod person wedi cael ei gofrestru o dan yr adran hon.
+>
+> (5) Mae cofrestriad person o dan yr adran hon yn cael effaith yn ddarostyngedig i unrhyw amodau a osodir gan y cofrestrydd; a chaiff y cofrestrydd amrywio neu ddirymu unrhyw amod o'r fath neu ychwanegu unrhyw amodau newydd ar unrhyw adeg.
+>
+> (6) Pan fo person wedi ei gofrestru o dan yr adran hon fel aelod o grŵp penodedig, caniateir i gofrestriad y person fod (ond nid oes rhaid iddo fod) yn ddarostyngedig i'r un amodau â chofrestriad aelodau eraill o'r grŵp.
+>
+> (7) Mae cofrestriad person o dan yr adran hon yn peidio â chael effaith os caiff ei ddirymu gan y cofrestrydd; a—
+>
+> (a) rhaid i'r cofrestrydd ddirymu'r cofrestriad os yw Gweinidogion Cymru yn cynghori'r cofrestrydd nad yw'r amgylchiadau a arweiniodd Gweinidogion Cymru at roi'r cyngor y cyfeirir ato yn is-adran (1)(a) bellach yn bodoli;
+>
+> (b) caiff y cofrestrydd, ar unrhyw adeg, ddirymu'r cofrestriad am unrhyw reswm arall, gan gynnwys pan fo'r cofrestrydd yn amau y gall addasrwydd y person i ymarfer fod wedi ei amharu.
+>
+> (8) Caniateir i gofrestriad person fel aelod o grŵp penodedig gael ei ddirymu—
+>
+> (a) heb ddirymu cofrestriad aelodau eraill o'r grŵp, neu
+>
+> (b) o ganlyniad i benderfyniad i ddirymu cofrestriad pob aelod o'r grŵp.
+>
+> (9) Os yw cofrestriad unrhyw berson yn cael ei ddirymu o dan is-adran (7)(a), mae'r cofrestriad yn peidio â chael effaith ar ddiwedd cyfnod o 14 diwrnod sy'n dechrau â'r diwrnod y caiff ei ddirymu.
+>
+> (10) Os yw cofrestriad unrhyw berson yn cael ei ddirymu o dan is-adran (7)(b), mae'r cofrestriad yn peidio â chael effaith ar unwaith.
+>
+> (11) Ni chaiff rheolau o dan adran 74 ddarparu ar gyfer codi ffioedd o ran cofrestriad person o dan yr adran hon.
+>
+> (12) Nid yw darpariaethau canlynol y Ddeddf yn gymwys i bersonau a gofrestrir o dan yr adran hon—
+>
+> (a) adrannau 82, 83, 84, 86, 87, 89, 94 a 95 (darpariaethau sy'n ymwneud â chofrestru) o'r Ddeddf hon;
+>
+> (b) adrannau 113 i 115 (datblygiad proffesiynol parhaus) o'r Ddeddf hon a rheolau a wneir o dan unrhyw un o'r adrannau hynny;
+>
+> (c) Rhan 6 (gweithwyr gofal cymdeithasol: addasrwydd i ymarfer) o'r Ddeddf hon ac eithrio adran 160(1) a (3) i (5).
+>
+> (13) Os yw person yn torri amod y mae cofrestriad y person o dan yr adran hon yn ddarostyngedig iddo, mae unrhyw beth a wneir gan y person yn groes i'r amod i'w drin fel peth nad yw wedi ei wneud gan berson a gofrestrwyd yn rhan gweithwyr cymdeithasol y gofrestr.
+>
+> (14) Yn yr adran hon mae i “argyfwng” yr ystyr a roddir i'r math o “emergency” a ddisgrifir yn adran 19(1)(a) o Ddeddf Argyfyngau Sifil Posibl 2004, wedi ei darllen ynghyd ag is-adran (2)(a) a (b) o'r adran honno.
+
+(4) Section 101 (appeals against decisions of the registrar) has effect as if—
+
+(a) after subsection (2) of the English language text there were inserted—
+
+> (3) Subsection (1) does not apply to—
+>
+> (a) a decision by the registrar to refuse to register a person under section 83A, or
+>
+> (b) a decision by the registrar to revoke a person's registration under that section.
+
+;
+
+(b) after subsection (2) of the Welsh language text there were inserted—
+
+> (3) Nid yw is-adran (1) yn gymwys i—
+>
+> (a) penderfyniad gan y cofrestrydd i wrthod cofrestru person o dan adran 83A, neu
+>
+> (b) penderfyniad gan y cofrestrydd i ddirymu cofrestriad person o dan yr adran honno.
+
+(5) Section 160(1) (power of Social Care Wales to require disclosure of information) has effect as if it enabled requirements to be imposed for the purpose of assisting the registrar in carrying out functions under section 83A.
+
+## [^F72]SCHEDULE 6 — Temporary registration of social workers: Scotland
+
+*Section 7*
+
+### [^F72]Regulation of Care (Scotland) Act 2001
+
+**[^F72]1** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F72]Social workers and social service workers in care services
+
+**[^F72]2** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 7 — Emergency volunteering leave (prospective)
+
+*Section 8*
+
+### [^F73]PART 1 — Entitlement to emergency volunteering leave (prospective)
+
+#### Entitlement to emergency volunteering leave (prospective)
+
+**[^F73]1** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Meaning of “volunteering period” (prospective)
+
+**[^F73]2** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Exceptions to entitlement to emergency volunteering leave (prospective)
+
+**[^F73]3** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Meaning of “appropriate authority” (prospective)
+
+**[^F73]4** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### PART 2 — Effect of taking emergency volunteering leave (prospective)
+
+#### Application of terms and conditions of employment (prospective)
+
+**5** (1) An employee who takes emergency volunteering leave is, during any period of leave—
+
+(a) entitled to the benefit of all of the terms and conditions of employment which would have applied if the employee had not been absent, and
+
+(b) bound by any obligations arising under those terms and conditions (except in so far as they are inconsistent with paragraph 1).
+
+(2) In sub-paragraph (1) “terms and conditions of employment”—
+
+(a) includes matters connected with an employee's employment whether or not they arise under the contract of employment, but
+
+(b) does not include terms and conditions about remuneration.
+
+(3) For the purposes of this paragraph, only sums payable to an employee by way of wages or salary are to be treated as remuneration.
+
+#### Right to return (prospective)
+
+**6** (1) An employee who returns to work after a period of emergency volunteering leave is entitled to return from leave to the job in which they were employed before the absence.
+
+(2) The right to return under this paragraph is a right to return—
+
+(a) with the employee's seniority, pension and similar rights as they would have been if the employee had not been absent, and
+
+(b) on terms and conditions no less favourable than those which would have applied if the employee had not been absent.
+
+#### Pension rights (prospective)
+
+**7** (1) If an employment-related benefit scheme does not include an emergency volunteering rule, it is to be treated as including one.
+
+(2) An emergency volunteering rule is a provision that has the effect set out in sub-paragraphs (3) and (4).
+
+(3) If a relevant term does not treat time when a worker is on emergency volunteering leave as it treats time when they are not, the term is modified so as to treat time when they are on emergency volunteering leave as time when they are not.
+
+(4) If a term confers a relevant discretion capable of being exercised so that time when a worker is on emergency volunteering leave is treated differently from time when they are not, the term is modified so as not to allow the discretion to be exercised in that way.
+
+(5) A term is relevant if it is—
+
+(a) a term relating to membership of the scheme,
+
+(b) a term relating to the accrual of rights under the scheme, or
+
+(c) a term providing for the determination of the amount of a benefit payable under the scheme.
+
+(6) A discretion is relevant if its exercise is capable of affecting—
+
+(a) membership of the scheme,
+
+(b) the accrual of rights under the scheme, or
+
+(c) the determination of the amount of a benefit payable under the scheme.
+
+(7) This paragraph does not require the worker's contributions to the scheme in respect of time when they are on emergency volunteering leave to be determined otherwise than by reference to the amount they are paid by the employer in respect of that time.
+
+(8) “Employment-related benefit scheme”—
+
+(a) in relation to England and Wales and Scotland, has the meaning given by paragraph 7 of Schedule 5 to the Social Security Act 1989;
+
+(b) in relation to Northern Ireland, has the meaning given by paragraph 7 of Schedule 5 to the Social Security (Northern Ireland) Order 1989 (S.I. 1989/1342 (N.I. 13)).
+
+### PART 3 — Modifications of Employment Rights Act 1996 (prospective)
+
+**8** The Employment Rights Act 1996 (“the 1996 Act”) has effect in accordance with this Part of this Schedule.
+
+**9** The 1996 Act has effect as if after section 47G there were inserted—
+
+> **Emergency volunteering leave**
+>
+> **47H** (1) A worker has the right not to be subjected to a detriment by any act, or any deliberate failure to act, by their employer on the grounds that—
+>
+> (a) the worker took, sought to take, or made use of the benefits of, emergency volunteering leave under Schedule 7 to the Coronavirus Act 2020, or
+>
+> (b) the employer believed that the worker was likely to take emergency volunteering leave under that Schedule.
+>
+> (2) A worker makes use of the benefits of emergency volunteering leave if, during a period of emergency volunteering leave, the worker benefits from any provision of Part 2 of Schedule 7 to the Coronavirus Act 2020.
+>
+> (3) Subsection (1) does not apply where the worker is an employee and the detriment in question amounts to dismissal within the meaning of Part 10.
+
+**10** The 1996 Act has effect as if in section 48 (complaints to employment tribunals)—
+
+(a) after subsection (1B) there were inserted—
+
+> (1C) A worker may present a complaint to an employment tribunal that they have been subjected to a detriment in contravention of section 47H.
+
+;
+
+(b) in subsection (2), for “or (1B)” there were substituted “ , (1B) or (1C) ”.
+
+**11** The 1996 Act has effect as if in section 49 (remedies)—
+
+(a) in subsection (1), for “or (1B)” there were substituted “ , (1B) or (1C) ”;
+
+(b) after subsection (7) there were inserted—
+
+> (8) Where—
+>
+> (a) the complaint is made under section 48(1C),
+>
+> (b) the detriment to which the worker is subjected is the termination of their worker's contract, and
+>
+> (c) that contract is not a contract of employment,
+>
+> any compensation must not exceed the compensation that would be payable under Chapter 2 of Part 10 if the worker had been an employee and had been dismissed for the reason specified in section 104H.
+
+**12** The 1996 Act has effect as if in section 88 (pay during period of notice: employments with normal working hours), in subsection (1)(c), after “paternity leave” there were inserted “ or emergency volunteering leave under Schedule 7 to the Coronavirus Act 2020 ”.
+
+**13** The 1996 Act has effect as if in section 89 (pay during period of notice: employments without normal working hours), in subsection (3)(b), after “paternity leave” there were inserted “ or emergency volunteering leave under Schedule 7 to the Coronavirus Act 2020 ”.
+
+**14** The 1996 Act has effect as if after section 104G there were inserted—
+
+> **Emergency volunteering leave**
+>
+> **104H** (1) An employee who is dismissed is to be regarded for the purposes of this Part as unfairly dismissed if the reason (or, if more than one, the principal reason) for the dismissal is that—
+>
+> (a) the employee took, sought to take, or made use of the benefits of, emergency volunteering leave under Schedule 7 to the Coronavirus Act 2020, or
+>
+> (b) the employer believed that the employee was likely to take emergency volunteering leave under that Schedule.
+>
+> (2) An employee makes use of the benefits of emergency volunteering leave if, during a period of emergency volunteering leave, the worker benefits from any provision of Part 2 of Schedule 7 to the Coronavirus Act 2020.
+
+**15** The 1996 Act has effect as if in section 105 (redundancy), after subsection (7BB) there were inserted—
+
+> (7BC) This subsection applies if the reason (or, if more than one, the principal reason) for which the employee was selected for dismissal was one of those specified in section 104H.
+
+**16** The 1996 Act has effect as if in section 108(3) (exceptions to qualifying period of employment for unfair dismissal), after paragraph (gm) there were inserted—
+
+> (gn) section 104H applies,
+
+.
+
+**17** The 1996 Act has effect as if in section 124(1A) (exceptions to limits on compensation), after “103A,” there were inserted “ 104H, ”.
+
+**18** The 1996 Act has effect as if in section 203(1)(a) (restrictions on contracting out), after “this Act” there were inserted “ or Schedule 7 to the Coronavirus Act 2020 ”.
+
+### PART 4 — Modifications of Employment Rights (Northern Ireland) Order 1996 (prospective)
+
+**19** The Employment Rights (Northern Ireland) Order 1996 (S.I. 1996/1919 (N.I. 16)) (“the 1996 Order”) has effect in accordance with this Part of this Schedule.
+
+**20** The 1996 Order has effect as if after Article 70F there were inserted—
+
+> **Emergency volunteering leave**
+>
+> **70G** (1) A worker has the right not to be subjected to a detriment by any act, or any deliberate failure to act, by their employer on the grounds that—
+>
+> (a) the worker took, sought to take, or made use of the benefits of, emergency volunteering leave under Schedule 7 to the Coronavirus Act 2020, or
+>
+> (b) the employer believed that the worker was likely to take emergency volunteering leave under that Schedule.
+>
+> (2) A worker makes use of the benefits of emergency volunteering leave if, during a period of emergency volunteering leave, the worker benefits from any provision of Part 2 of Schedule 7 to the Coronavirus Act 2020.
+>
+> (3) Paragraph (1) does not apply where the worker is an employee and the detriment in question amounts to dismissal within the meaning of Part 11.
+
+**21** The 1996 Order has effect as if in Article 71 (complaints to industrial tribunals)—
+
+(a) after paragraph (1B) there were inserted—
+
+> (1C) A worker may present a complaint to an industrial tribunal that they have been subjected to a detriment in contravention of Article 70G.
+
+;
+
+(b) in paragraph (2), for “or (1B)” there were substituted “ , (1B) or (1C) ”.
+
+**22** The 1996 Order has effect as if in Article 72 (remedies)—
+
+(a) in paragraph (1), for “or (1B)” there were substituted “ , (1B) or (1C) ”;
+
+(b) after paragraph (7) there were inserted—
+
+> (8) Where—
+>
+> (a) the complaint is made under Article 71(1C),
+>
+> (b) the detriment to which the worker is subjected is the termination of their worker's contract, and
+>
+> (c) that contract is not a contract of employment,
+>
+> any compensation must not exceed the compensation that would be payable under Chapter 2 of Part 11 if the worker had been an employee and had been dismissed for the reason specified in Article 135G.
+
+**23** The 1996 Order has effect as if in Article 120 (pay during period of notice: employments with normal working hours), in paragraph (1)(c), after “paternity leave” there were inserted “ or emergency volunteering leave under Schedule 7 to the Coronavirus Act 2020 ”.
+
+**24** The 1996 Order has effect as if in Article 121 (pay during period of notice: employments without normal working hours), in paragraph (3)(b), after “paternity leave” there were inserted “ or emergency volunteering leave under Schedule 7 to the Coronavirus Act 2020 ”.
+
+**25** The 1996 Order has effect as if after Article 135F there were inserted—
+
+> **Emergency volunteering leave**
+>
+> **135G** (1) An employee who is dismissed is to be regarded for the purposes of this Part as unfairly dismissed if the reason (or, if more than one, the principal reason) for the dismissal is that—
+>
+> (a) the employee took, sought to take, or made use of the benefits of, emergency volunteering leave under Schedule 7 to the Coronavirus Act 2020, or
+>
+> (b) the employer believed that the employee was likely to take emergency volunteering leave under that Schedule.
+>
+> (2) An employee makes use of the benefits of emergency volunteering leave if, during a period of emergency volunteering leave, the worker benefits from any provision of Part 2 of Schedule 7 to the Coronavirus Act 2020.
+
+**26** The 1996 Order has effect as if in Article 137 (redundancy)—
+
+(a) in paragraph (1)(c), for “(7M)” there were substituted “ (7N) ”;
+
+(b) after paragraph (7M) there were inserted—
+
+> (7N) This paragraph applies if the reason (or, if more than one, the principal reason) for which the employee was selected for dismissal was one of those specified in Article 135G.
+
+**27** The 1996 Order has effect as if in Article 140(3) (exceptions to qualifying period of employment for unfair dismissal), after sub-paragraph (fk) there were inserted—
+
+> (fl) Article 135G applies,
+
+.
+
+**28** The 1996 Order has effect as if in Article 158(1A) (exceptions to limits on compensation), after “135F,” there were inserted “ 135G, ”.
+
+**29** The 1996 Order has effect as if in Article 245(1)(a) (restrictions on contracting out), after “this Order” there were inserted “ or Schedule 7 to the Coronavirus Act 2020 ”.
+
+### PART 5 — General (prospective)
+
+#### Application of this Schedule to agency workers (prospective)
+
+**30** (1) This paragraph applies in relation to a worker who is supplied by a person (an “agent”) to do work for another (a “principal”) under a contract or other arrangements made between the agent and the principal.
+
+(2) Where the worker gives notice and a certificate under paragraph 1(2) to the employer, the employer must as soon as reasonably practicable provide copies of them—
+
+(a) if the employer is the agent, to any principals to whom the worker was to be supplied during the period specified in the certificate,
+
+(b) if the employer is a principal, to the agent, and
+
+(c) if the employer is neither the agent nor a principal, to the agent and any principals to whom the worker was to be supplied during the period specified in the certificate.
+
+(3) For the purposes of the provisions mentioned in sub-paragraph (4) references to the worker's employer are to be read as including—
+
+(a) the agent, and
+
+(b) any principals to whom the worker was to be supplied during the period specified in the certificate,
+
+(where they would not otherwise be the worker's employer).
+
+(4) The provisions referred to in sub-paragraph (3) are—
+
+(a) in paragraph 9, section 47H (right not to be subjected to detriment by employer: Great Britain);
+
+(b) in paragraph 20, Article 70G (right not to be subjected to detriment by employer: Northern Ireland).
+
+#### Interpretation (prospective)
+
+**31** (1) This paragraph applies for the interpretation of this Schedule.
+
+(2) In relation to England and Wales and Scotland, the following terms have the meaning given by section 230 of the Employment Rights Act 1996—
+
+- “contract of employment”,
+- “employed”,
+- “employee”,
+- “employer”,
+- “employment”,
+- “worker”,
+- “worker's contract”.
+
+(3) In relation to Northern Ireland, the following terms have the meaning given by Article 3 of the Employment Rights (Northern Ireland) Order 1996 (S.I. 1996/1919 (N.I. 16))—
+
+- “contract of employment”,
+- “employed”,
+- “employee”,
+- “employer”,
+- “employment”,
+- “worker”,
+- “worker's contract”.
+
+(4) “Emergency volunteering leave” has the meaning given by paragraph 1.
+
+(5) “Health or social care” has the meaning given by section 9 of the Health and Social Care Act 2008.
+
+(6) “Week” means any period of 7 consecutive days.
+
+(7) “Working day” means a day other than—
+
+(a) a Saturday or a Sunday,
+
+(b) Christmas Day or Good Friday, or
+
+(c) a day which is a bank holiday under the Banking and Financial Dealings Act 1971 in any part of the United Kingdom.
+
+#### Regulations (prospective)
+
+**32** A power to make regulations under this Schedule includes power to make consequential, supplementary, incidental, transitional or saving provision.
+
+**33** (1) Regulations made by the Secretary of State under this Schedule are to be made by statutory instrument.
+
+(2) A statutory instrument containing regulations made by the Secretary of State under this Schedule is subject to annulment in pursuance of a resolution of either House of Parliament.
+
+**34** (1) Regulations made by the Department for the Economy in Northern Ireland under this Schedule may contain only provision which—
+
+(a) would be within the legislative competence of the Northern Ireland Assembly, and
+
+(b) would not require the consent of the Secretary of State,
+
+if it were contained in an Act of that Assembly.
+
+(2) The power of the Department for the Economy in Northern Ireland to make regulations under this Schedule is exercisable by statutory rule for the purposes of the Statutory Rules (Northern Ireland) Order 1979 (S.I. 1979/1573 (N.I. 12)) (and not by statutory instrument).
+
+(3) Regulations under this Schedule made by the Department for the Economy in Northern Ireland are subject to negative resolution within the meaning given by section 41(6) of the Interpretation Act (Northern Ireland) 1954.
+
+## SCHEDULE 8 — Mental health: England and Wales
+
+*Section 10*
+
+### [^F74]PART 1 — [^F74]Introductory provision etc
+
+#### [^F74]Interpretation
+
+**[^F74]1** [^F74]1 [^F74]References in this Schedule to sections are to sections of the Mental Health Act 1983 (“[^F74]the 1983 Act[^F74]”).
+
+[^F74]2 [^F74]Expressions used in this Schedule and in the 1983 Act have the same meaning as in that Act.
+
+#### [^F74]Forms
+
+**[^F74]2** [^F74]Where any form prescribed for use in connection with a provision of the 1983 Act is inconsistent with a modification made by Part 2 of this Schedule, the form—
+
+[^F74]a [^F74]may, in connection with the provision as so modified, be used with appropriate amendments;
+
+[^F74]b [^F74]is otherwise, for use in that connection, to be read with such amendments as are necessary to reflect the modification.
+
+### [^F75]PART 2 — Modifications of the Mental Health Act 1983 and related provision
+
+#### [^F75]Applications for compulsory admission to hospital for assessment or treatment (prospective)
+
+**[^F75]3** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F75]Applications for compulsory admission of patients already in hospital (prospective)
+
+**[^F75]4** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F75]Period of remand to hospital (prospective)
+
+**[^F75]5** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F75]Court orders for the detention of accused or convicted persons in hospital (prospective)
+
+**[^F75]6** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F75]Directions for the transfer of prisoners to hospital (prospective)
+
+**[^F75]7** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F75]Conveyance of accused or convicted persons to hospital (prospective)
+
+**[^F75]8** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F75]Administration of medicine to persons liable to detention in hospital (prospective)
+
+**[^F75]9** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F75]Detention in place of safety (prospective)
+
+**[^F75]10** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F75]Constitution and proceedings of the Mental Health Review Tribunal for Wales
+
+**[^F75]11** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F75]12** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F75]13** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### PART 3 — Transitional provision (prospective)
+
+**14** Paragraph 4(2) or (3), 8(3) or 10 continues to apply after the end of a period for which it has effect for the purposes of determining the length of any period which has begun before the end of that period.
+
+**15** Where, by virtue of paragraph 5, a person has been remanded under section 35(7) or 36(6) for more than 12 weeks in all, the person may not be further remanded under that provision after the end of a period for which that paragraph has effect.
+
+**16** (1) Paragraph 8(1) continues to apply after the end of a period for which it has effect in relation to any order or direction made during that period, subject to sub-paragraph (2).
+
+(2) The constable or other person whose duty is modified by that provision must in any event convey the person concerned to the requisite hospital within the period of seven days beginning with the day on which the period referred to in sub-paragraph (1) ends.
+
+**17** Paragraph 11(3) to (6) continues to apply after the end of a period for which it has effect in relation to proceedings that are, when the period ends, before a constitution of the Mental Health Review Tribunal for Wales appointed under sub-paragraph (2) of that paragraph.
+
+**18** Paragraph 12 continues to apply after the end of a period for which it has effect in relation to any application or reference with respect to which, when the period ends, a decision to dispense with a hearing has been notified by the Mental Health Review Tribunal for Wales under sub-paragraph (3) of that paragraph and remains current
+
+**19** Paragraph 13 continues to apply after the end of a period for which it has effect in relation to any nomination of a temporary deputy that is in force when the period ends.
+
+## [^F76]SCHEDULE 9 — Mental health: Scotland (prospective)
+
+*Section 10*
+
+### [^F76]PART 1 — Introductory provision etc (prospective)
+
+#### [^F76]Interpretation (prospective)
+
+**[^F76]1** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F76]Forms (prospective)
+
+**[^F76]2** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F76]PART 2 — Modifications of the Mental Health (Care and Treatment) (Scotland) Act 2003 (prospective)
+
+#### [^F76]Emergency detention (prospective)
+
+**[^F76]3** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F76]Short-term detention certificates (prospective)
+
+**[^F76]4** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F76]Compulsory treatment orders (prospective)
+
+**[^F76]5** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F76]Transfer for treatment directions (prospective)
+
+**[^F76]6** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F76]Nurse's power to detain pending medical examination (prospective)
+
+**[^F76]7** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F76]Admission to hospital (prospective)
+
+**[^F76]8** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F76]Suspension of requirements to review orders and directions authorising detention (prospective)
+
+**[^F76]9** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F76]Administration of medicine (prospective)
+
+**[^F76]10** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F76]Constitution of Mental Health Tribunal for Scotland (prospective)
+
+**[^F76]11** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F76]PART 3 — Modifications of the Criminal Procedure (Scotland) Act 1995 (prospective)
+
+#### [^F76]Assessment orders: extension (prospective)
+
+**[^F76]12** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F76]Court orders authorising detention (prospective)
+
+**[^F76]13** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F76]Admission to hospital (prospective)
+
+**[^F76]14** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F76]PART 4 — Modifications of subordinate legislation (prospective)
+
+#### [^F76]The Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) Rules 2005 (SSI 2005/519) (prospective)
+
+**[^F76]15** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F76]The Mental Health (Conflict of Interest) (Scotland) Regulations 2017 (SSI 2017/174) (prospective)
+
+**[^F76]16** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 10 — Mental health: Northern Ireland
+
+*Section 10*
+
+### [^F77]PART 1 — [^F77]Introductory provision etc
+
+#### [^F77]Interpretation
+
+**[^F77]1** [^F77]1 [^F77]In this Schedule—
+
+- [^F77]“[^F77]the 1986 Order[^F77]” means the Mental Health (Northern Ireland) Order 1986 (S.I. 1986/595 (N.I. 4));
+- [^F77]“[^F77]the 1986 Regulations[^F77]” means the Mental Health (Nurses, Guardianship, Consent to Treatment and Prescribed Forms) Regulations (Northern Ireland) 1986 (S.R. (N.I.) 1986 No. 174);
+- [^F77]“[^F77]the Department of Health[^F77]” means the Department of Health in Northern Ireland;
+- [^F77]an “[^F77]RQIA practitioner[^F77]” means a medical practitioner appointed for the purposes of Part 2 of the 1986 Order by RQIA.
+
+[^F77]2 [^F77]In this Schedule—
+
+[^F77]a [^F77]references to Articles are to Articles of the 1986 Order;
+
+[^F77]b [^F77]references to Forms are to the Forms set out in the Schedule to the 1986 Regulations.
+
+[^F77]3 [^F77]Expressions used in this Schedule and in the 1986 Order have the meaning given in that Order.
+
+#### [^F77]Prescribed forms
+
+**[^F77]2** [^F77]Where any form prescribed for use in connection with a provision of the 1986 Order is inconsistent with a modification made by Part 2 of this Schedule, the form—
+
+[^F77]a [^F77]may, in connection with the provision as so modified, be used with appropriate amendments;
+
+[^F77]b [^F77]is otherwise, for use in that connection, to be read with such amendments as are necessary to reflect the modification.
+
+### [^F78]PART 2 — Modifications of the Mental Health (Northern Ireland) Order 1986
+
+#### [^F78]Applications for compulsory admission to hospital for assessment
+
+**[^F78]3** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F78]Medical recommendation
+
+**[^F78]4** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F78]Applications for compulsory admission for assessment in respect of patients already in hospital
+
+**[^F78]5** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F78]The assessment period
+
+**[^F78]6** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F78]Rectification of applications, recommendations and reports
+
+**[^F78]7** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F78]Detention for treatment
+
+**[^F78]8** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F78]Periods of remand to hospital
+
+**[^F78]9** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F78]Required medical evidence for remand to hospital, hospital or guardianship order, interim hospital order, determinations of question of fitness to be tried or finding of not guilty on ground of insanity
+
+**[^F78]10** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F78]Required medical evidence for hospital order in respect of certain other detained persons in their absence
+
+**[^F78]11** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F78]Directions for the transfer of prisoners etc to hospital
+
+**[^F78]12** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F78]Conveyance of accused or convicted persons to hospital
+
+**[^F78]13** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F78]Designation of, and admission of persons to, different hospitals in pursuance of hospital orders
+
+**[^F78]14** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F78]Code of practice
+
+**[^F78]15** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### PART 3 — Transitional provision
+
+**16** Paragraph 5, 6, 7 or 13(3) continues to apply after the end of any period for which it has effect for the purposes of determining the length of any period which has begun before the end of that period.
+
+**17** Where, by virtue of paragraph 9, a person has been remanded under Article 42 or 43 for more than 12 weeks in all, the person may not be further remanded under that provision after the end of a period for which that paragraph has effect.
+
+**18** (1) Paragraph 13(1) or 14(4) continues to apply after the end of a period for which it has effect in relation to any order or direction made during that period, subject to sub-paragraph (2).
+
+(2) The constable or other person whose duty is modified by paragraph 13(1) or 14(4) (as the case may be) must in any event convey the person concerned to the requisite hospital before—
+
+(a) the end of the period specified in Article 42(9)(c) or Article 46(2) or (3), without the modification made by the provision concerned, or
+
+(b) the end of the period of seven days beginning with the day on which the period referred to in sub-paragraph (1) ends,
+
+whichever is later.
+
+### PART 4 — Review of operation of certain provisions of this Schedule
+
+**19** (1) Each HSC trust must maintain a record of each instance where—
+
+(a) an application for assessment is made in reliance on paragraph 3,
+
+(b) a patient was detained for assessment in reliance on Article 9(4)(aa) or (b) (as substituted by paragraph 6(2)(a)), and
+
+(c) a report is furnished in reliance on paragraph 8.
+
+(2) The HSC trust must prepare a report containing an evaluation by it of each such instance and its opinion as to whether the reliance—
+
+(a) by the relevant social worker on paragraph 3,
+
+(b) by the medical practitioner on Article 9(4)(aa) or (b) (as substituted by paragraph 6(2)(a)), or
+
+(c) by the relevant medical practitioner on paragraph 8,
+
+was appropriate.
+
+(3) The HSC trust must send the report under sub-paragraph (2) to the Department of Health no later than 56 days after the end of a period for which the paragraph of this Schedule in question has effect.
+
+## SCHEDULE 11 — Mental capacity: Northern Ireland
+
+*Section 10*
+
+### PART 1 — Introductory provision etc
+
+#### Interpretation
+
+**1** (1) In this Schedule, “the 2016 Act” means the Mental Capacity Act (Northern Ireland) 2016 (c. 18 (N.I.)).
+
+(2) In this Schedule—
+
+(a) references to sections are to sections of the 2016 Act;
+
+(b) references to Schedules are to Schedules to that Act.
+
+(3) Expressions used in this Schedule and in the 2016 Act have the meaning given in that Act.
+
+#### Prescribed forms
+
+**2** Where any form prescribed for use in connection with a provision of the 2016 Act is inconsistent with a modification made by Part 2 of this Schedule, the form—
+
+(a) may, in connection with the provision as so modified, be used with appropriate amendments,
+
+(b) is otherwise, for use in that connection, to be read with such amendments as are necessary to reflect the modification.
+
+### [^F79]PART 2 — Modifications of the Mental Capacity Act (Northern Ireland) 2016
+
+#### [^F79]Proceedings of panels constituted to decide applications
+
+**[^F79]3** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F79]Time limit for panel's decisions regarding authorisations of certain serious interventions
+
+**[^F79]4** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F79]Interim authorisations by panels of certain serious interventions
+
+**[^F79]5** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F79]Report authorising short-term detention in hospital for examination etc
+
+**[^F79]6** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F79]7** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F79]Consultation required before such a report is made
+
+**[^F79]8** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F79]Extension by panel of period of authorisation
+
+**[^F79]9** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F79]Additional notification requirements for panels
+
+**[^F79]10** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F79]Period of detention in place of safety (prospective)
+
+**[^F79]11** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F79]Periods of remand to hospital (prospective)
+
+**[^F79]12** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F79]Required medical evidence for court to be satisfied treatment condition is met in relation to remand to hospital (prospective)
+
+**[^F79]13** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F79]Required medical evidence for public protection orders, interim detention orders, determinations of question of fitness to be tried or findings of not guilty on ground of insanity (prospective)
+
+**[^F79]14** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F79]Required medical evidence for hospital directions (prospective)
+
+**[^F79]15** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F79]Extension reports in relation to public protection orders without restrictions (prospective)
+
+**[^F79]16** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F79]Required medical evidence for directions for the transfer of prisoners etc to hospital (prospective)
+
+**[^F79]17** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F79]Admission of person subject to hospital transfer direction to hospital (prospective)
+
+**[^F79]18** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F79]Code of practice
+
+**[^F79]19** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### PART 3 — Transitional provision
+
+**20** Paragraph 5, 9, 11 or 18 continues to apply after the end of any period for which it has effect for the purposes of determining the length of any period which has begun before the end of that period.
+
+**21** Where, by virtue of paragraph 12 an accused person has been remanded under section 162 for more than 12 weeks in total, the person may not be further remanded under that provision after the end of any period for which that paragraph has effect.
+
+### PART 4 — Review of operation of certain provisions of this Schedule
+
+**22** (1) Each HSC trust must maintain a record of each instance where a panel operates in reliance on paragraph 5 or 9.
+
+(2) The HSC trust must prepare a report containing an evaluation by it of each such instance and its opinion as to whether the reliance on paragraph 5 or 9 was appropriate.
+
+(3) The HSC trust must send the report under sub-paragraph (2) to the Department of Health in Northern Ireland no later than 3 months after the end of a period for which the paragraph of this Schedule in question has effect.
+
+## SCHEDULE 12 — Local authority care and support
+
+*Section 15*
+
+### [^F80]PART 1 — Powers and duties of local authorities in England
+
+#### Introductory
+
+**[^F80]1** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Assessing needs for care and support
+
+**[^F80]2** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Assessment of financial resources
+
+**3** (1) [^F80]...
+
+This is subject to sub-paragraph (2).
+
+(2) A local authority may not make a charge under section 14 of CA 2014 for meeting any needs under section 18, 19, 20 or 62 of that Act during a period for which paragraph 4, 5, 6 or (as the case may be) 9 of this Schedule has effect without having carried out an assessment under section 17 of that Act.
+
+(3) The requirement under sub-paragraph (2) to carry out an assessment under section 17 of CA 2014 applies whether or not the authority has made a determination under section 13(1) of that Act.
+
+#### Duties and powers to meet needs for care and support
+
+**[^F80]4** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F80]5** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F80]6** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F80]7** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F80]8** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F80]9** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Charging for meeting needs during emergency period
+
+**10** (1) This paragraph applies where—
+
+(a) at any time during an emergency period, a local authority begins to meet needs under section 18, 19, 20 or 62 of CA 2014,
+
+(b) at that time, the authority would have been entitled to make a charge under section 14 of that Act for meeting any of those needs, but
+
+(c) the authority decided not to carry out an assessment under section 17 of that Act before beginning to meet those needs.
+
+In this paragraph “emergency period”, in relation to section 18, 19, 20 or 62 of CA 2014, means a period for which paragraph 4, 5, 6 or (as the case may be) 9 of this Schedule has effect.
+
+(2) The local authority is not prevented by that decision from subsequently carrying out an assessment under section 17 of CA 2014 (whether during or after the emergency period) and deciding to make a charge for meeting those needs during that period; and nothing in that section is to be taken to prevent the authority from carrying out such an assessment, even though the authority has already begun to meet, or has met, those needs.
+
+(3) In so far as there is any charge for meeting any needs under section 18 or 19(2) of CA 2014 during the emergency period, the fact that condition 1, 2 or 3 in section 18 of that Act is not met at the time of the making of the charge does not affect anything already done under section 18 or (as the case may be) 19(2) of that Act.
+
+(4) In so far as there is any charge for meeting any needs under section 20(1) of CA 2014 during the emergency period, the fact that condition 1, 2, 3 or 4 in that section is not met at the time of the making of the charge does not affect anything already done under that section.
+
+#### Care and support plans etc
+
+**[^F80]11** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Continuity of care and support when person moves
+
+**[^F80]12** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**13** (1) This paragraph applies where—
+
+(a) paragraph 12 has had effect for any period (“the emergency period”), and
+
+(b) the emergency period has ended.
+
+(2) Section 37 of CA 2014 has effect subject to the modifications in sub-paragraphs (3) to (5).
+
+(3) In subsections (1) and (2)—
+
+(a) any reference to notifying a local authority that an adult intends to move to the area of that authority includes, in the case of an adult who moved to the area of a local authority during the emergency period, a reference to notifying that authority that the adult has moved to that area, and
+
+(b) where a local authority is notified that an adult has moved to the authority's area by virtue of paragraph (a), the condition in subsection (1)(c) or (as the case may be) (2)(c) is to be disregarded (and accordingly the requirement imposed by subsection (4)(b) does not apply).
+
+(4) In subsection (3)—
+
+(a) the reference to notifying a local authority that an adult intends to move out of accommodation but to remain in the authority's area includes, in the case of an adult who moved out of accommodation in the area of a local authority during the emergency period, a reference to notifying that authority that the adult has moved out of the accommodation but has remained in that area, and
+
+(b) where a local authority is notified that an adult has moved out of accommodation by virtue of paragraph (a), the condition in subsection (3)(c) is to be disregarded (and accordingly the requirement imposed by subsection (4)(b) does not apply).
+
+(5) In a case where subsection (4)(b) does not apply by virtue of sub-paragraph (3)(b) or (4)(b), subsection (5) has effect as if the reference to having received the notification under subsection (4)(b) were omitted.
+
+(6) The reference in section 38(1) of CA 2014 to the day of the intended move is, in the case of an adult who moved as mentioned in section 37(1)(b), (2)(b) or (3)(b) of that Act during the emergency period, to be read as a reference to the day on which that period ended.
+
+#### Discharge of hospital patients with care and support needs
+
+**[^F80]14** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Transition for children to adult care and support
+
+**[^F80]15** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Duties arising before commencement
+
+**[^F80]16** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Period within which assessments may be carried out
+
+**[^F80]17** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Guidance
+
+**18** (1) The Secretary of State may issue guidance about how local authorities are to exercise functions under any of the following enactments in consequence of the provision made by this Part of this Schedule—
+
+(a) Part 1 of CA 2014;
+
+(b) section 2 of the Chronically Sick and Disabled Persons Act 1970;
+
+(c) section 17 of the Children Act 1989.
+
+(2) A local authority must have regard to any guidance issued under this paragraph.
+
+(3) A local authority must comply with such guidance issued under this paragraph as the Secretary of State directs.
+
+(4) The Secretary of State—
+
+(a) may from time to time revise any guidance issued under this paragraph;
+
+(b) may vary or revoke a direction made under sub-paragraph (3).
+
+(5) A local authority may disregard any guidance under section 7 of the Local Authority Social Services Act 1970 or section 78 of CA 2014, so far as it is inconsistent with guidance issued under this paragraph.
+
+### [^F81][^F82]PART 2 — [^F82]Powers and duties of local authorities in Wales
+
+#### [^F82]Introductory
+
+**[^F82][^F81]19** [^F82][^F81]1 [^F82][^F81]In this Part of this Schedule “[^F82][^F81]SSW(W)A 2014[^F82][^F81]” means the Social Services and Well-being (Wales) Act 2014 (anaw 4).
+
+[^F82][^F81]2 [^F82][^F81]Expressions used in this Part of this Schedule and in SSW(W)A 2014 have the same meaning in this Part of this Schedule as in that Act.
+
+#### [^F82]Assessing needs for care and support
+
+**[^F81][^F82]20** [^F82]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F81][^F82]21** [^F82]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F81][^F82]22** [^F82]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F81][^F82]23** [^F82]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F81][^F82]24** [^F82]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F82]Duty to carry out financial assessment
+
+**[^F81][^F82]25** [^F82]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F82]Duties to meet needs for care and support
+
+**[^F81][^F82]26** [^F82]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F81][^F82]27** [^F82]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F81][^F82]28** [^F82]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F81][^F82]29** [^F82]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F82]Charging for meeting needs during emergency period
+
+**[^F82]30** [^F82]1 [^F82]This paragraph applies where—
+
+[^F82]a [^F82]at any time during an emergency period, a local authority begins to meet needs under section 35 or 40 of SSW(W)A 2014,
+
+[^F82]b [^F82]at that time, the authority would have been entitled to impose a charge under section 59 of that Act for meeting any of those needs, but
+
+[^F82]c [^F82]the authority decided not to carry out an assessment under section 63(2) of that Act before beginning to meet those needs.
+
+[^F82]In this paragraph “[^F82]emergency period[^F82]” means a period for which paragraph 26 or (as the case may be) 27 has effect.
+
+[^F82]2 [^F82]The local authority is not prevented by that decision from subsequently carrying out an assessment under section 63(2) of SSW(W)A 2014 (whether during or after the emergency period) and deciding to impose a charge for meeting those needs during that period; and nothing in that section is to be taken to prevent the authority from carrying out such an assessment, even though the authority has already begun to meet, or has met, those needs.
+
+[^F82]3 [^F82]In so far as there is any charge for meeting any needs under section 35 of SSW(W)A 2014 during the emergency period, the fact that condition 3 in that section is not met at the time of the imposition of the charge does not affect anything already done under that section.
+
+[^F82]4 [^F82]In so far as there is any charge for meeting any needs under section 40 of SSW(W)A 2014 during the emergency period, the fact that condition 3 in that section is not met at the time of the imposition of the charge does not affect anything already done under that section.
+
+#### [^F82]Care and support plans etc
+
+**[^F81][^F82]31** [^F82]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F82]Portability of care and support
+
+**[^F81][^F82]32** [^F82]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F82]33** [^F82]1 [^F82]This paragraph applies where—
+
+[^F82]a [^F82]paragraph 32 has had effect for any period (“the emergency period”), and
+
+[^F82]b [^F82]the emergency period has ended.
+
+[^F82]2 [^F82]Section 56 of SSW(W)A 2014 has effect in the case of an adult with the modifications in sub-paragraphs (3) to (5).
+
+[^F82]3 [^F82]In subsection (1)—
+
+[^F82]a [^F82]the reference to a local authority being notified that a person is going to move to the area of another local authority includes, in the case of an adult who moved to the area of another local authority during the emergency period, a reference to being notified that the adult has moved to that area, and
+
+[^F82]b [^F82]where a local authority is notified that an adult has moved to the area of another local authority by virtue of paragraph (a), the reference to the authority being satisfied that the move is likely to happen is to be disregarded (and accordingly the requirement imposed by subsection (1)(a) does not apply).
+
+[^F82]4 [^F82]In subsection (2)—
+
+[^F82]a [^F82]the reference to a local authority being notified that a person is going to move to the area of that authority includes, in the case of an adult who moved to the area of a local authority during the emergency period, a reference to that authority being notified that the adult has moved to that area, and
+
+[^F82]b [^F82]where a local authority is notified that an adult has moved to the authority's area by virtue of paragraph (a), the reference to the authority being satisfied that the move is likely to happen is to be disregarded (and accordingly the requirement imposed by subsection (2)(a) does not apply).
+
+[^F82]5 [^F82]The reference in subsection (3) to the day the person moves to the area of a local authority is, in the case of an adult who moved to the area of a local authority during the emergency period, to be read as a reference to the day on which that period ended.
+
+#### [^F82]Duties arising before commencement
+
+**[^F81][^F82]34** [^F82]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F82]Guidance
+
+**[^F82]35** [^F82]1 [^F82]The Welsh Ministers may issue guidance about how local authorities are to exercise functions under Parts 2 to 5 of SSW(W)A 2014 in consequence of the provision made by this Part of this Schedule.
+
+[^F82]2 [^F82]A local authority must have regard to any guidance issued under this paragraph.
+
+[^F82]3 [^F82]A local authority must comply with such guidance issued under this paragraph as the Welsh Ministers direct.
+
+[^F82]4 [^F82]The Welsh Ministers—
+
+[^F82]a [^F82]may from time to time revise any guidance issued under this paragraph;
+
+[^F82]b [^F82]may vary or revoke a direction made under sub-paragraph (3).
+
+[^F82]5 [^F82]A local authority may disregard any provision of a code under section 145 of SSW(W)A 2014, so far as it is inconsistent with guidance issued under this paragraph.
+
+## SCHEDULE 13 — Registration of deaths and still-births
+
+*Section 18*
+
+### PART 1 — England and Wales
+
+#### Interpretation
+
+**1** (1) In this Part of this Schedule—
+
+- “the 1926 Act” means the Births and Deaths Registration Act 1926;
+- “the 1953 Act” means the Births and Deaths Registration Act 1953;
+- “the principal 1987 Regulations” means the Registration of Births and Deaths Regulations 1987 (S.I. 1987/2088);
+- “the 2019 Regulations” means the Notification of Deaths Regulations 2019 (S.I. 2019/1112).
+
+(2) Expressions used in this Part of this Schedule and in the 1953 Act have the same meaning as in that Act.
+
+#### Information concerning deaths: England and Wales
+
+**[^F83]2** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Giving information other than in person and dispensing with signing the register
+
+**[^F84]3** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Medical certificates of cause of death
+
+**[^F85]4** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Delivery of documents by alternative methods
+
+**[^F86]5** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Further modifications of the principal 1987 Regulations
+
+**[^F87]6** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Notification of death to coroner
+
+**[^F88]7** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Transitional provision
+
+**8** Anything relating to the registration of a death or still-birth that, immediately before the end of any period for which a provision of this Part of this Schedule has effect, is in the process of being done in reliance on that provision may continue to be done after the end of that period in reliance on that provision.
+
+**9** (1) This paragraph applies where, during any period for which paragraph 5 has effect, a person delivers a relevant document in reliance on that paragraph.
+
+(2) The person must give, deliver or send the document in accordance with the applicable legislation as soon as reasonably practicable after the end of the period, and in any event not later than the end of the period of 3 months beginning with the day on which the period ends.
+
+(3) The Registrar General may give a direction—
+
+(a) setting a later deadline than the one specified in sub-paragraph (2), or
+
+(b) dispensing with the duty under sub-paragraph (2).
+
+(4) A direction under sub-paragraph (3) may be expressed as having effect generally, in relation to persons within a description specified in the direction, or in relation to a particular case.
+
+(5) A direction under sub-paragraph (3) may vary or revoke previous directions given under that sub-paragraph.
+
+(6) A registrar may, in relation to a relevant document that is required to be given, delivered or sent to the registrar, give a direction in a particular case—
+
+(a) setting a later deadline than the one specified in sub-paragraph (2), or
+
+(b) dispensing with the duty under sub-paragraph (2).
+
+(7) In this paragraph—
+
+- “applicable legislation” means—
+
+  - (a) in the case of a document within paragraph 5(2)(a), the 1953 Act, and
+  - (b) in the case of a document within paragraph 5(2)(b), the 1926 Act;
+
+- “relevant document” has the same meaning as in paragraph 5.
+
+### PART 2 — Scotland
+
+#### Interpretation
+
+**10** (1) In this Part of this Schedule “the 1965 Act” means the Registration of Births, Deaths and Marriages (Scotland) Act 1965.
+
+(2) Expressions used in this Part of this Schedule and in the 1965 Act have the same meaning as in that Act.
+
+#### Information concerning deaths
+
+**[^F89]11** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Giving information other than in person
+
+**[^F90]12** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Delivery of documents by alternative methods
+
+**[^F91]13** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Guidance
+
+**[^F92]14** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Transitional provision
+
+**15** Anything relating to the registration of a death or still-birth that, immediately before the end of any period for which a provision of this Part of this Schedule has effect, is in the process of being done in reliance on that provision may continue to be done after the end of that period in reliance on that provision.
+
+**16** (1) This paragraph applies where, during any period for which paragraph 13 has effect, a person gives or delivers a relevant document in reliance on that paragraph.
+
+(2) The person must give, deliver or send the document in accordance with the 1965 Act as soon as reasonably practicable after the end of the period, and in any event not later than the end of the period of 3 months beginning with the day on which the period ends.
+
+(3) The Registrar General may give a direction—
+
+(a) setting a later deadline than the one specified in sub-paragraph (2), or
+
+(b) dispensing with the duty under sub-paragraph (2).
+
+(4) A direction under sub-paragraph (3) may be expressed as having effect generally, in relation to persons within a description specified in the direction, or in relation to a particular case.
+
+(5) A direction under sub-paragraph (3) may vary or revoke previous directions given under that sub-paragraph.
+
+(6) A district registrar may, in relation to a relevant document that is required to be given, delivered or sent to the registrar, give a direction in a particular case—
+
+(a) setting a later deadline than the one specified in sub-paragraph (2), or
+
+(b) dispensing with the duty under sub-paragraph (2).
+
+(7) In this paragraph “relevant document” has the same meaning as in paragraph 13.
+
+### [^F93]PART 3 — Northern Ireland
+
+#### [^F93]Interpretation
+
+**[^F93]17** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F93]Giving certificate of cause of still-birth directly
+
+**[^F93]18** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F93]19** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F93]Giving certificate of notice of still-birth directly
+
+**[^F93]20** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F93]Giving information to the registrar other than in person and dispensing with signing the register
+
+**[^F93]21** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F93]22** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F93]Signing of certificates of cause of death
+
+**[^F93]23** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F93]24** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F93]25** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F93]26** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F93]Giving certificate of cause of death directly
+
+**[^F93]27** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F93]28** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F93]Giving certificate of registration, or written notice, of death directly
+
+**[^F93]29** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F93]Transitional provision
+
+**[^F93]30** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## [^F94]SCHEDULE 14 — Review of medical certificates of cause of death and cremations: Scotland
+
+*Section 20*
+
+### [^F94]PART 1 — Review of medical certificates of cause of death
+
+#### [^F94]Interpretation
+
+**[^F94]1** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F94]Power to suspend review of certain medical certificates of cause of death
+
+**[^F94]2** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F94]Effect of direction on existing reviews referred under section 24A of the 1965 Act
+
+**[^F94]3** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F94]Effect of direction on existing reviews made by application under section 4(1) of the 2011 Act
+
+**[^F94]4** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F94]Automatic referral of medical certificates of the cause of death to procurator fiscal
+
+**[^F94]5** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F94]PART 2 — Cremations
+
+#### [^F94]Interpretation
+
+**[^F94]6** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F94]Application
+
+**[^F94]7** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F94]Suspension of offence relating to signing of declaration
+
+**[^F94]8** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F94]Suspension of provisions relating to collection of ashes
+
+**[^F94]9** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F94]Retention of ashes during period provisions are suspended
+
+**[^F94]10** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F94]Resumption of duties in relation to retained ashes after revocation
+
+**[^F94]11** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F94]Suspension of local authority duty to make enquiries as to surviving relatives
+
+**[^F94]12** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## [^F95]SCHEDULE 15 — Information relating to food supply chains: financial penalties (prospective)
+
+*Section 28*
+
+### Notice of intent (prospective)
+
+**[^F95]1** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Amount of penalty (prospective)
+
+**[^F95]2** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Right to make representations (prospective)
+
+**[^F95]3** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Final notice (prospective)
+
+**[^F95]4** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Late payment (prospective)
+
+**[^F95]5** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Withdrawal or amendment of notice (prospective)
+
+**[^F95]6** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Appeals (prospective)
+
+**[^F95]7** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Enforcement (prospective)
+
+**[^F95]8** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 16 — Temporary closure of educational institutions and childcare premises
+
+*Section 37*
+
+### [^F96]PART 1 — England and Wales
+
+#### [^F96]Schools, 16 to 19 Academies, further and higher education providers
+
+**[^F96]1** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F96]Registered childcare providers
+
+**[^F96]2** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F96]Effect of temporary closure directions on other provisions
+
+**[^F96]3** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F96]Authorisations
+
+**[^F96]4** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F96]Publication, duration and guidance
+
+**[^F96]5** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### PART 2 — Scotland
+
+#### Interpretation
+
+**[^F97]6** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Duty to have regard to public health advice
+
+**[^F98]7** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Closure of schools etc and further and higher education institutions
+
+**8** [^F99]1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F99]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F99]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F99]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F99]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F100]6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F100]7 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F100]8 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F101]9 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Effect of educational closure direction on other provisions
+
+**[^F102]9** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### School boarding accommodation
+
+**[^F103]10** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Student accommodation
+
+**[^F104]11** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Compliance and enforcement
+
+**[^F105]12** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Publication and duration of directions
+
+**[^F106]13** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### PART 3 — Northern Ireland
+
+#### Schools
+
+**[^F107]14** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Institutions of further and higher education
+
+**[^F108]15** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Childcare providers
+
+**[^F109]16** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 17 — Temporary continuity directions etc: education, training and childcare
+
+*Section 38*
+
+### PART 1 — England and Wales
+
+#### Temporary continuity directions: England
+
+**[^F110]1** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Temporary continuity directions: Wales
+
+**[^F111]2** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Temporary continuity directions: authorisations
+
+**[^F112]3** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Publication, duration and guidance in relation to temporary continuity directions
+
+**[^F113]4** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Notices temporarily removing or relaxing statutory provisions etc: England
+
+**[^F114]5** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F115]6** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Notices temporarily removing or relaxing statutory provisions: Wales
+
+**[^F116]7** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F117]8** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F118]PART 2 — Scotland
+
+#### [^F118]Interpretation
+
+**[^F118]9** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F118]Duty to have regard to public health advice
+
+**[^F118]10** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F118]Continuing operation of educational establishments
+
+**[^F118]11** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F118]Compliance and enforcement
+
+**[^F118]12** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F118]Publication, duration and review of directions
+
+**[^F118]13** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F119]PART 3 — Northern Ireland
+
+#### [^F119]Temporary continuity directions
+
+**[^F119]14** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F119]15** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F119]16** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F119]Notices temporarily removing or relaxing education duties
+
+**[^F119]17** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## [^F120]SCHEDULE 18 — Powers to act for the protection of public health: Northern Ireland
+
+*Section 48*
+
+[^F120] . . . . . . . . . . . . . . . . . .
+
+## [^F121]SCHEDULE 19 — Health protection regulations: Scotland
+
+*Section 49*
+
+### [^F121]Health protection regulations
+
+**[^F121]1** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F121]Restrictions on power to make regulations under paragraph 1
+
+**[^F121]2** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F121]Medical treatment
+
+**[^F121]3** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F121]Special restrictions and requirements
+
+**[^F121]4** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F121]Health protection regulations: supplementary
+
+**[^F121]5** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F121]Health protection regulations: procedure
+
+**[^F121]6** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## [^F122]SCHEDULE 20 — Power to suspend port operations
+
+*Section 50*
+
+### [^F122]Power to give direction to suspend relevant port operations
+
+**[^F122]1** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F122]Duration of suspension period
+
+**[^F122]2** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F122]Power to give consequential direction
+
+**[^F122]3** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F122]Supplementary provisions
+
+**[^F122]4** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F122]5** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F122]Offences
+
+**[^F122]6** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F122]Interpretation
+
+**[^F122]7** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F122]8** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## [^F123]SCHEDULE 21 — Powers relating to potentially infectious persons
+
+*Section 51*
+
+### [^F123]PART 1 — Overview and interpretation
+
+#### [^F123]Overview
+
+**[^F123]1** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F123]Potentially infectious persons
+
+**[^F123]2** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F123]Other definitions
+
+**[^F123]3** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F123]PART 2 — Powers relating to potentially infectious persons in England
+
+#### [^F123]Declarations of risks of coronavirus in England
+
+**[^F123]4** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F123]5** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F123]Powers to direct or remove persons to a place suitable for screening and assessment
+
+**[^F123]6** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F123]7** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F123]Powers exercisable at a screening and assessment place: public health officers
+
+**[^F123]8** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F123]9** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F123]10** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F123]11** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F123]12** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F123]Powers exercisable at a screening and assessment place: constables and immigration officers
+
+**[^F123]13** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F123]Powers exercisable after assessment
+
+**[^F123]14** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F123]15** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F123]16** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F123]17** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F123]Children
+
+**[^F123]18** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F123]Formalities
+
+**[^F123]19** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F123]Ancillary powers
+
+**[^F123]20** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F123]Guidance and advice
+
+**[^F123]21** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F123]End of transmission control period
+
+**[^F123]22** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F123]Offences
+
+**[^F123]23** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F123]Revocation of regulations
+
+**[^F123]24** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F123]PART 3 — Powers relating to potentially infectious persons in Scotland
+
+#### [^F123]Declarations of risks of coronavirus in Scotland
+
+**[^F123]25** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F123]26** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F123]Powers to direct or remove persons to a place suitable for screening and assessment
+
+**[^F123]27** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F123]28** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F123]Powers exercisable at a screening and assessment place: public health officers
+
+**[^F123]29** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F123]30** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F123]31** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F123]32** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F123]33** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F123]Powers exercisable at a screening and assessment place: constables and immigration officers
+
+**[^F123]34** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F123]Powers exercisable after assessment
+
+**[^F123]35** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F123]36** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F123]37** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F123]38** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F123]39** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F123]Children
+
+**[^F123]40** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F123]Formalities
+
+**[^F123]41** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F123]Ancillary powers
+
+**[^F123]42** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F123]Guidance and advice
+
+**[^F123]43** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F123]End of transmission control period
+
+**[^F123]44** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F123]Offences
+
+**[^F123]45** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F123]Modifications of Public Health etc. (Scotland) Act 2008
+
+**[^F123]46** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F123]Constables
+
+**[^F123]47** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F123]PART 4 — Powers relating to potentially infectious persons in Wales
+
+#### [^F123]Declarations of risks of coronavirus in Wales
+
+**[^F123]48** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F123]49** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F123]Powers to direct or remove persons to a place suitable for screening and assessment
+
+**[^F123]50** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F123]51** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F123]Powers exercisable at a screening and assessment place: public health officers
+
+**[^F123]52** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F123]53** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F123]54** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F123]55** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F123]56** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F123]Powers exercisable at a screening and assessment place: constables and immigration officers
+
+**[^F123]57** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F123]Powers exercisable after assessment
+
+**[^F123]58** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F123]59** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F123]60** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F123]61** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F123]Children
+
+**[^F123]62** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F123]Formalities
+
+**[^F123]63** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F123]Ancillary powers
+
+**[^F123]64** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F123]Guidance and advice
+
+**[^F123]65** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F123]End of transmission control period
+
+**[^F123]66** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F123]Offences
+
+**[^F123]67** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F123]Revocation of regulations
+
+**[^F123]68** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F123]PART 5 — Powers relating to potentially infectious persons in Northern Ireland
+
+#### [^F123]Declarations of risks of coronavirus in Northern Ireland
+
+**[^F123]69** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F123]70** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F123]Powers to direct or remove persons to a place suitable for screening and assessment
+
+**[^F123]71** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F123]72** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F123]Powers exercisable at a screening and assessment place: public health officers
+
+**[^F123]73** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F123]74** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F123]75** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F123]76** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F123]77** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F123]Powers exercisable at a screening and assessment place: constables and immigration officers
+
+**[^F123]78** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F123]Powers exercisable after assessment
+
+**[^F123]79** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F123]80** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F123]81** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F123]82** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F123]Children
+
+**[^F123]83** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F123]Formalities
+
+**[^F123]84** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F123]Ancillary powers
+
+**[^F123]85** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F123]Guidance and advice
+
+**[^F123]86** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F123]End of transmission control period
+
+**[^F123]87** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F123]Offences
+
+**[^F123]88** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F123]Supplementary interpretation
+
+**[^F123]89** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 22 — Powers to issue directions relating to events, gatherings and premises
+
+*Section 52*
+
+### [^F124]PART 1 — General
+
+#### [^F124]Interpretation
+
+**[^F124]1** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F124]Disapplication to the Parliamentary Estate
+
+**[^F124]2** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F125]PART 2 — Powers relating to events, gatherings and premises in England
+
+#### [^F125]Declaration of threat to public health in England due to coronavirus
+
+**[^F125]3** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F125]4** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F125]Power to prohibit or otherwise restrict events or gatherings in England
+
+**[^F125]5** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F125]Power to close premises in England or impose restrictions on persons entering or remaining in them
+
+**[^F125]6** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F125]Variations and revocations
+
+**[^F125]7** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F125]Procedure
+
+**[^F125]8** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F125]Offences
+
+**[^F125]9** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F125]10** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F125]Enforcement and prosecutions
+
+**[^F125]11** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F125]End of public health response period
+
+**[^F125]12** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F126]PART 3 — Powers relating to events, gatherings and premises in Scotland
+
+#### [^F126]Declaration of threat to public health in Scotland due to coronavirus
+
+**[^F126]13** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F126]14** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F126]Power to prohibit or otherwise restrict events or gatherings in Scotland
+
+**[^F126]15** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F126]Power to close premises in Scotland or impose restrictions on persons entering or remaining in them
+
+**[^F126]16** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F126]Variations and revocations
+
+**[^F126]17** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F126]Procedure
+
+**[^F126]18** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F126]Enforcement
+
+**[^F126]19** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F126]Constables
+
+**[^F126]20** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F126]Offences
+
+**[^F126]21** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F126]22** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F126]Compensation
+
+**[^F126]23** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F126]End of public health response period
+
+**[^F126]24** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F126]Review
+
+**[^F126]25** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F127]PART 4 — Powers relating to events, gatherings and premises in Wales
+
+#### [^F127]Declaration of threat to public health in Wales due to coronavirus
+
+**[^F127]26** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F127]27** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F127]Power to prohibit or otherwise restrict events or gatherings in Wales
+
+**[^F127]28** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F127]Power to close premises in Wales or impose restrictions on persons entering or remaining in them
+
+**[^F127]29** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F127]Variations and revocations
+
+**[^F127]30** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F127]Procedure
+
+**[^F127]31** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F127]Offences
+
+**[^F127]32** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F127]33** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F127]Enforcement and prosecutions
+
+**[^F127]34** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F127]Compensation
+
+**[^F127]35** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F127]End of public health response period
+
+**[^F127]36** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F128]PART 5 — Powers relating to events, gatherings and premises in Northern Ireland
+
+#### [^F128]Declaration of threat to public health in Northern Ireland due to coronavirus
+
+**[^F128]37** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F128]38** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F128]Power to prohibit or otherwise restrict events or gatherings in Northern Ireland
+
+**[^F128]39** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F128]Power to close premises in Northern Ireland or impose restrictions on persons entering or remaining in them
+
+**[^F128]40** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F128]Variations and revocations
+
+**[^F128]41** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F128]Procedure
+
+**[^F128]42** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F128]Enforcement
+
+**[^F128]43** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F128]Offences
+
+**[^F128]44** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F128]45** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F128]Compensation
+
+**[^F128]46** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F128]End of public health response period
+
+**[^F128]47** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## [^F129]SCHEDULE 23 — Live links in criminal proceedings
+
+*Section 53*
+
+### [^F129]PART 1 — Expansion of powers under the Criminal Justice Act 2003
+
+#### [^F129]Introduction
+
+**[^F129]1** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F129]Live links in criminal proceedings
+
+**[^F129]2** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F129]Magistrates' courts permitted to sit at other locations
+
+**[^F129]3** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F129]Requirement to attend at court, holding proceedings in court etc
+
+**[^F129]4** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F129]Warning to jury
+
+**[^F129]5** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F129]Rules of court
+
+**[^F129]6** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F129]Interpretation
+
+**[^F129]7** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F129]Safeguards
+
+**[^F129]8** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F129]PART 2 — Other modifications
+
+#### [^F129]Criminal Appeal Act 1968
+
+**[^F129]9** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F129]Criminal Justice Act 1988
+
+**[^F129]10** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## [^F130]SCHEDULE 24 — Live links in other criminal hearings
+
+*Section 54*
+
+### [^F130]PART 1 — Expansion of powers under the Crime and Disorder Act 1998
+
+#### [^F130]Introduction
+
+**[^F130]1** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F130]Interpretation etc
+
+**[^F130]2** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F130]Expansion of availability of live links at preliminary hearings
+
+**[^F130]3** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F130]Use of live link in sentencing hearings
+
+**[^F130]4** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F130]Use of live link in certain enforcement hearings
+
+**[^F130]5** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F130]Requirement to attend at court, holding proceedings in court etc
+
+**[^F130]6** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F130]Prohibitions and limitations on use of live links
+
+**[^F130]7** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F130]PART 2 — Expansion of powers under the Extradition Act 2003
+
+**[^F130]8** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F130]9** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F130]10** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F130]PART 3 — Other modifications
+
+#### [^F130]Police and Criminal Evidence Act 1984
+
+**[^F130]11** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F130]Prosecution of Offences Act 1985
+
+**[^F130]12** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F130]Serious Organised Crime and Police Act 2005
+
+**[^F130]13** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F130]Sentencing Code
+
+**[^F130]14** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## [^F131][^F132]SCHEDULE 25 — Public participation in proceedings conducted by video or audio
+
+*Section 55*
+
+### [^F131][^F132]Criminal, civil and family proceedings
+
+**[^F131][^F132]1** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F131][^F132]First-tier Tribunal and Upper Tribunal
+
+**[^F131][^F132]2** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## [^F133]SCHEDULE 26 — Live links in certain magistrates' court proceedings
+
+*Section 56*
+
+### [^F133]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 27 — Use of live links in legal proceedings: Northern Ireland
+
+*Section 57*
+
+### PART 1 — Powers of courts and tribunals to direct use of live links
+
+#### Proceedings to which this Part of this Schedule applies
+
+**1** (1) This Part of this Schedule applies to any proceedings in a court or statutory tribunal.
+
+(2) In this Part of this Schedule “court” means—
+
+(a) the Court of Appeal,
+
+(b) the High Court,
+
+(c) the Crown Court,
+
+(d) a county court, or
+
+(e) a magistrates' court.
+
+(3) In this Part of this Schedule “statutory tribunal” means a tribunal (however named or described, and including a coroner holding an inquest) established by or under a statutory provision, but does not include—
+
+(a) a court, or
+
+(b) any tribunal established by or under a statutory provision that could not have been included in an Act of the Northern Ireland Assembly made without the Secretary of State's consent.
+
+(4) In this paragraph “statutory provision” has the meaning given by section 1(f) of the Interpretation Act (Northern Ireland) 1954.
+
+#### Power to give direction for participation by live link
+
+**2** (1) A person may, if a court or statutory tribunal so directs, participate in any proceedings in the court or tribunal through a live link.
+
+(2) A direction may not be given under this paragraph as respects a person's participation in proceedings as a member of a jury.
+
+(3) A direction may be given under this paragraph in respect of a person—
+
+(a) of the court or tribunal's own motion,
+
+(b) on application by the person, or
+
+(c) on application by a party to the proceedings.
+
+(4) A court or tribunal may not give a direction under this paragraph unless the court or tribunal is satisfied that it is in the interests of justice to do so.
+
+(5) In deciding whether to give a direction under this paragraph, the court or tribunal must consider all the circumstances of the case.
+
+(6) Those circumstances include (in particular)—
+
+(a) the views of the person;
+
+(b) the views of the parties to the proceedings;
+
+(c) public health interests.
+
+(7) Where a court or tribunal refuses an application for a direction under this paragraph, it must—
+
+(a) state openly its reasons for doing so, and
+
+(b) if it is a magistrates' court, cause the reasons to be entered in the Order Book.
+
+(8) Power of a court or tribunal to give a direction under this paragraph is additional to, and does not limit, any other power of the court or tribunal.
+
+#### Effect, and rescission, of directions
+
+**3** (1) Where in any proceedings a court or tribunal—
+
+(a) has given a direction under paragraph 2 in respect of a person, and
+
+(b) has not rescinded the direction,
+
+the person may not participate in the proceedings otherwise than through a live link.
+
+(2) A court or tribunal may rescind a direction under paragraph 2 if it appears to the court or tribunal to be in the interests of justice to do so.
+
+(3) Where it does so, the person concerned ceases to be able to participate in the proceedings through a live link, but this does not prevent a further direction under paragraph 2 being given in the proceedings in respect of the person.
+
+(4) A direction under paragraph 2 in respect of a person may be rescinded—
+
+(a) of the court or tribunal's own motion,
+
+(b) on application by the person, or
+
+(c) on application by a party to the proceedings.
+
+(5) An application may not be made under sub-paragraph (4)(b) or (c) unless there has been a material change of circumstances since the direction was given.
+
+(6) Where a court or tribunal rescinds a direction under paragraph 2, or refuses an application to rescind such a direction, it must—
+
+(a) state openly its reasons for rescinding the direction or refusing the application, and
+
+(b) if it is a magistrates' court, cause the reasons to be entered in the Order Book.
+
+#### Meaning of references to participation in proceedings
+
+**4** A reference in this Part of this Schedule to participating in any proceedings includes (in particular) participation—
+
+(a) as a party to the proceedings,
+
+(b) as a witness,
+
+(c) as a judge or other member of the court or tribunal,
+
+(d) as a member of a jury,
+
+(e) as a legal representative acting in the proceedings,
+
+(f) as an interpreter or other person appointed by the court or tribunal to assist in the proceedings,
+
+(g) as the clerk to the court or tribunal, or
+
+(h) as a representative of the press.
+
+#### Participation by persons outside the United Kingdom
+
+**5** (1) A direction under paragraph 2 may be given in respect of a person whether the person is in the United Kingdom or elsewhere.
+
+(2) A statement made on oath by a person outside the United Kingdom and given in evidence through a live link in accordance with a direction under paragraph 2 is to be treated for the purposes of Article 3 of the Perjury (Northern Ireland) Order 1979 (S.I. 1979/1714 (N.I. 19)) as having been made in the proceedings in which it is given in evidence.
+
+#### Meaning of “live link”
+
+**6** (1) In this Part of this Schedule “live link” means a live video link or a live audio link.
+
+(2) A “live video link”, in relation to a person (“P”) participating in proceedings, is a live television link or other arrangement which—
+
+(a) enables P to see and hear all other persons participating in the proceedings who are not in the same location as P, and
+
+(b) enables all other persons participating in the proceedings who are not in the same location as P to see and hear P.
+
+(3) A “live audio link”, in relation to a person (“P”) participating in proceedings, is a live telephone link or other arrangement which—
+
+(a) enables P to hear all other persons participating in the proceedings who are not in the same location as P, and
+
+(b) enables all other persons participating in the proceedings who are not in the same location as P to hear P.
+
+(4) The extent (if any) to which a person is unable to hear or see by reason of any impairment of hearing or eyesight is to be disregarded for the purposes of sub-paragraphs (2) and (3).
+
+#### Interpretation of this Part of this Schedule: general
+
+**7** The Interpretation Act (Northern Ireland) 1954 applies for the purposes of the preceding provisions of this Part of this Schedule as if those provisions were contained in an Act of the Northern Ireland Assembly.
+
+### PART 2 — Public participation in proceedings where live links used
+
+**8** The Judicature (Northern Ireland) Act 1978 has effect as if after section 102 there were inserted—
+
+> **PART 9A — Use of live links in court or tribunal proceedings: public participation & offences of recording etc**
+>
+> **Enabling the public to see and hear proceedings**
+>
+> **102A** (1) If proceedings in a court or statutory tribunal are to be conducted wholly as video proceedings, whether or not as a result of directions given by the court or tribunal, the court or tribunal—
+>
+> (a) may direct that the proceedings are to be broadcast (in the manner specified in the direction) for the purpose of enabling members of the public to see and hear the proceedings;
+>
+> (b) may direct that a recording of the proceedings is to be made (in the manner specified in the direction) for the purpose of enabling the court or tribunal to keep an audio-visual record of the proceedings.
+>
+> (2) If proceedings in a court or statutory tribunal are to be conducted wholly as audio proceedings, whether or not as a result of directions given by the court or tribunal, the court or tribunal—
+>
+> (a) may direct that the proceedings are to be broadcast (in the manner specified in the direction) for the purpose of enabling members of the public to hear the proceedings;
+>
+> (b) may direct that a recording of the proceedings is to be made (in the manner specified in the direction) for the purpose of enabling the court or tribunal to keep an audio record of the proceedings.
+>
+> (3) A direction under this section may relate to the whole, or to part, of the proceedings concerned.
+>
+> **Offences of recording or transmission in relation to broadcasting**
+>
+> **102B** (1) It is an offence for a person to make—
+>
+> (a) an unauthorised recording, or
+>
+> (b) an unauthorised transmission,
+>
+> of an image or sound which is being broadcast in accordance with a direction under section 102A.
+>
+> (2) It is an offence for a person to make—
+>
+> (a) an unauthorised recording, or
+>
+> (b) an unauthorised transmission,
+>
+> of an image of, or sound made by, another person while the other person is viewing or listening to a broadcast made in accordance with a direction under section 102A.
+>
+> (3) It is a defence for a person charged with an offence under subsection (1) or (2) to prove that, at the time of the recording or transmission of the image or sound concerned, the person—
+>
+> (a) was not in designated live-streaming premises, and
+>
+> (b) did not know, and could not reasonably have known, that the image or sound was—
+>
+> (i) being broadcast in accordance with a direction under section 102A (in the case of an offence under subsection (1)), or
+>
+> (ii) an image of, or sound made by, another person while viewing or listening to a broadcast made in accordance with a direction under section 102A (in the case of an offence under subsection (2)).
+>
+> (4) A person guilty of an offence under this section is liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+>
+> (5) For the purposes of this section it does not matter whether a person making a recording or transmission intends the recording or transmission, or anything comprised in it, to be seen or heard by any other person.
+>
+> (6) For the purposes of this section, a recording or transmission is “unauthorised” unless it is—
+>
+> (a) authorised by a direction under section 102A,
+>
+> (b) otherwise authorised (generally or specifically) by the court or tribunal in which the proceedings concerned are conducted, or
+>
+> (c) authorised (generally or specifically) by the Department.
+>
+> **Offences of recording or transmitting participation through live link**
+>
+> **102C** (1) It is an offence for a person to make—
+>
+> (a) an unauthorised recording, or
+>
+> (b) an unauthorised transmission,
+>
+> of an image or sound which is being transmitted through a live video link or transmitted through a live audio link.
+>
+> (2) It is an offence for a person (“P”) to make—
+>
+> (a) an unauthorised recording, or
+>
+> (b) an unauthorised transmission,
+>
+> of an image of, or sound made by, any person (whether P or another person) while that person is participating in court or tribunal proceedings through a live video link or live audio link.
+>
+> (3) It is a defence for a person charged with an offence under subsection (1) or (2) to prove that, at the time of the recording or transmission, the person did not know, and could not reasonably have known, that the image or sound concerned—
+>
+> (a) was being transmitted through a live video link or through a live audio link (in the case of an offence under subsection (1)), or
+>
+> (b) was an image of, or sound made by, a person while that person was participating in court or tribunal proceedings through a live video link or live audio link (in the case of an offence under subsection (2)).
+>
+> (4) A person guilty of an offence under this section is liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+>
+> (5) For the purposes of this section it does not matter whether a person making a recording or transmission intends the recording or transmission, or anything comprised in it, to be seen or heard by any other person.
+>
+> (6) For the purposes of this section, a recording or transmission is “unauthorised” unless it is—
+>
+> (a) authorised (generally or specifically) by the court or tribunal in which the proceedings are conducted, or
+>
+> (b) authorised (generally or specifically) by the Department.
+>
+> **Interpretation of Part 9A**
+>
+> **102D** (1) This section applies for the purposes of this Part.
+>
+> (2) The following expressions have the meanings given—
+>
+> - “court” means—
+>
+>   - (a) the Court of Appeal,
+>   - (b) the High Court,
+>   - (c) the Crown Court,
+>   - (d) a county court, or
+>   - (e) a magistrates' court;
+>
+> - “court or tribunal proceedings” means any proceedings in any court or statutory tribunal;
+>
+> - “the Department”—
+>
+>   - (a) in relation to a court, means the Department of Justice, and
+>   - (b) in relation to a statutory tribunal, means a Northern Ireland department;
+>
+> - “designated live-streaming premises” means premises that are designated by the Department for the purposes of this section as premises provided by the Department for the purpose of enabling members of the public to see and hear, or hear, proceedings that are broadcast in accordance with directions under section 102A;
+>
+> - “recording” means a recording on any medium—
+>
+>   - (a) of a single image, a moving image or any sound, or
+>   - (b) from which a single image, a moving image or any sound may be produced or reproduced;
+>
+> - “statutory tribunal” means a tribunal (however named or described, and including a coroner holding an inquest) established by or under a statutory provision, but does not include—
+>
+>   - (a) a court, or
+>   - (b) any tribunal established by or under a statutory provision that could not have been included in an Act of the Northern Ireland Assembly made without the Secretary of State's consent;
+>
+> - “transmission” means any transmission by electronic means of a single image, a moving image or any sound.
+>
+> (3) A “live video link”, in relation to a person (“P”) taking part in proceedings, is a live television link or other arrangement which—
+>
+> (a) enables P to see and hear all other persons taking part in the proceedings who are not in the same location as P, and
+>
+> (b) enables all other persons taking part in the proceedings who are not in the same location as P to see and hear P.
+>
+> (4) Proceedings are conducted wholly as video proceedings if—
+>
+> (a) directions have been given, whether under paragraph 2 of Schedule 27 to the Coronavirus Act 2020 or any other power, for all the persons taking part in the proceedings to do so through a live video link, and
+>
+> (b) all those persons take part in the proceedings in accordance with those directions.
+>
+> (5) A “live audio link”, in relation to a person (“P”) taking part in proceedings, is a live telephone link or other arrangement which—
+>
+> (a) enables P to hear all other persons taking part in the proceedings who are not in the same location as P, and
+>
+> (b) enables all other persons taking part in the proceedings who are not in the same location as P to hear P.
+>
+> (6) Proceedings are conducted wholly as audio proceedings if—
+>
+> (a) directions have been given, whether under paragraph 2 of Schedule 27 to the Coronavirus Act 2020 or any other power, for all the persons taking part in the proceedings to do so through a live audio link, and
+>
+> (b) all those persons take part in the proceedings in accordance with those directions.
+>
+> (7) An image or sound—
+>
+> (a) is transmitted through a live video link if it is transmitted as part of a person's participation in court or tribunal proceedings through a live video link;
+>
+> (b) is transmitted through a live audio link if it is transmitted as part of a person's participation in court or tribunal proceedings through a live audio link.
+>
+> (8) The extent (if any) to which a person is unable to hear or see by reason of any impairment of hearing or eyesight is to be disregarded for the purposes of subsections (3) and (5).
+
+### [^F134]PART 3 — Availability of live links in certain magistrates' court proceedings in Northern Ireland
+
+**[^F134]9** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## [^F135]SCHEDULE 28 — Transportation, storage and disposal of dead bodies etc
+
+*Section 58*
+
+### [^F135]PART 1 — Information about capacity
+
+**[^F135]1** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F135]2** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F135]3** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F135]PART 2 — Directions and other measures to address lack of capacity
+
+#### [^F135]Designation where there is insufficient capacity to deal with dead bodies etc
+
+**[^F135]4** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F135]Directions to do things calculated to facilitate dealing with dead bodies etc
+
+**[^F135]5** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F135]Power of ministers etc to step in
+
+**[^F135]6** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F135]Appropriate national authority directions to prevail
+
+**[^F135]7** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F135]Compensation where directions given
+
+**[^F135]8** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F135]Guidance
+
+**[^F135]9** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F135]General provisions about directions and schemes
+
+**[^F135]10** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F135]Procedure
+
+**[^F135]11** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F135]PART 3 — Power to direct local authorities etc
+
+**[^F135]12** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F135]PART 4 — Deceased's wishes etc
+
+**[^F135]13** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F135]PART 5 — Interpretation
+
+**[^F135]14** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## [^F136]SCHEDULE 29 — Residential tenancies in England and Wales: protection from eviction
+
+*Section 81*
+
+### [^F136]Interpretation
+
+**[^F136]1** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F136]Rent Act 1977: protected tenancies and statutory tenancies
+
+**[^F136]2** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F136]Secure tenancies
+
+**[^F136]3** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F136]4** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F136]Flexible tenancies
+
+**[^F136]5** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F136]Assured tenancies
+
+**[^F136]6** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F136]Assured shorthold tenancies
+
+**[^F136]7** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F136]Introductory tenancies
+
+**[^F136]8** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F136]Demoted tenancies
+
+**[^F136]9** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F136]Consequential modifications in relation to prescribed forms
+
+**[^F136]10** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F136]11** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F136]12** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F136]Power to alter three month notice periods
+
+**[^F136]13** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F136]Regulations under this Schedule
+
+**[^F136]14** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+---
+
+[^X1]: Act (except for specified provisions) expires at the end of 2 years beginning with the date of Royal Assent, see s. 89 (subject to s. 90); and a relevant national authority may by regulations suspend (and subsequently revive) the operation of any provision of this Act (except for those provisions listed in s. 88(6)), see s. 88
+[^F1]: S. 3 expires (25.3.2022) by Coronavirus Act 2020 (c. 7), s. 89 (with s. 90)
+[^F2]: S. 4 expires (25.3.2022) by Coronavirus Act 2020 (c. 7), s. 89 (with s. 90)
+[^F3]: S. 7 expires (25.3.2022) by Coronavirus Act 2020 (c. 7), s. 89 (with s. 90)
+[^F4]: S. 8 expires in part (17.7.2021) by The Coronavirus Act 2020 (Early Expiry) Regulations 2021 (S.I. 2021/856), reg. 2(1)(a) (see 2020 c. 7, s. 89(2)(n))
+[^F5]: S. 9 expires (17.7.2021) by The Coronavirus Act 2020 (Early Expiry) Regulations 2021 (S.I. 2021/856), reg. 2(1)(b)
+[^F6]: S. 10(1) expires (E.) (10.12.2020) by The Coronavirus Act 2020 (Expiry of Mental Health Provisions) (England and Wales) Regulations 2020 (S.I. 2020/1467), reg. 2(1)(a) (with reg. 2(2)) S. 10(1) expires in part (W.) (10.12.2020) by The Coronavirus Act 2020 (Expiry of Mental Health Provisions) (England and Wales) Regulations 2020 (S.I. 2020/1467), reg. 2(1)(b)(ii)
+[^F7]: S. 10(2) expires (25.3.2022) by Coronavirus Act 2020 (c. 7), s. 89 (with s. 90)
+[^F8]: S. 10(3) suspended in part (10.5.2021) by The Coronavirus Act 2020 (Suspension) Order (Northern Ireland) 2021 (S.R. 2021/98), arts. 1(1), 2 (with art. 3, Sch.)
+[^F9]: S. 14 expires (25.3.2022) by Coronavirus Act 2020 (c. 7), s. 89 (with s. 90)
+[^F10]: S. 15 suspended in part (22.3.2021) by The Coronavirus Act 2020 (Suspension: Local Authority Care and Support) (Wales) Regulations 2021 (S.I. 2021/316), regs. 1(2), 2(b) S. 15 expires in part (17.7.2021) by The Coronavirus Act 2020 (Early Expiry) Regulations 2021 (S.I. 2021/856), reg. 4(a) (see 2020 c. 7, s. 89(2)(r)) S. 15 expires in part (1.8.2021) by The Coronavirus Act 2020 (Early Expiry: Local Authority Care and Support) (Wales) Regulations 2021 (S.I. 2021/850), regs. 1(2), 2(b) (see 2020 c. 7, s. 89(2)(r))
+[^F11]: S. 16 expires (25.3.2022) by Coronavirus Act 2020 (c. 7), s. 89 (with s. 90)
+[^F12]: S. 18(3) repealed (23.3.2026) by Deaths, Still-Births and Baby Loss Act (Northern Ireland) 2026 (c. 2), ss. 10, 12(1); S.R. 2026/32, art. 2(g)
+[^F13]: S. 19(1)-(10) expire (25.3.2022) by Coronavirus Act 2020 (c. 7), s. 89 (with s. 90)
+[^F14]: S. 20 expires (25.3.2022) by Coronavirus Act 2020 (c. 7), s. 89 (with s. 90)
+[^F15]: S. 21(4)(b)(i) expires (25.9.2022) by Coronavirus Act 2020 (c. 7), s. 89 (with s. 90)
+[^F16]: S. 21(5) expires (25.9.2022) by Coronavirus Act 2020 (c. 7), s. 89 (with s. 90)
+[^F17]: S. 21(6)(a)-(d) expires (25.9.2022) by Coronavirus Act 2020 (c. 7), s. 89 (with s. 90)
+[^F18]: S. 22 expires (25.3.2022) by Coronavirus Act 2020 (c. 7), s. 89 (with s. 90)
+[^F19]: S. 23 suspended (21.4.2021) by The Coronavirus Act 2020 (Suspension: Temporary Judicial Commissioners, Urgent Warrants, and Disposal of Bodies) Regulations 2021 (S.I. 2021/486), regs. 1(2), 2 S. 23 expires (E.N.I.) (9.12.2021) by The Coronavirus Act 2020 (Early Expiry) (No. 2) Regulations 2021 (S.I. 2021/1399), regs. 1(2), 2
+[^F20]: S. 24 expires (17.7.2021) by The Coronavirus Act 2020 (Early Expiry) Regulations 2021 (S.I. 2021/856), reg. 2(1)(c) (with reg. 2(2))
+[^F21]: Ss. 25-27 expire (17.7.2021) by The Coronavirus Act 2020 (Early Expiry) Regulations 2021 (S.I. 2021/856), reg. 2(1)(d)
+[^F22]: S. 28 expires (17.7.2021) by The Coronavirus Act 2020 (Early Expiry) Regulations 2021 (S.I. 2021/856), reg. 2(1)(e)
+[^F23]: S. 29 expires (17.7.2021) by The Coronavirus Act 2020 (Early Expiry) Regulations 2021 (S.I. 2021/856), reg. 2(1)(f)
+[^F24]: S. 30 omitted (28.6.2022) by virtue of Judicial Review and Courts Act 2022 (c. 35), ss. 42(11), 51(3) (with s. 42(12))
+[^F25]: S. 31 expires (25.3.2022) by Coronavirus Act 2020 (c. 7), s. 89 (with s. 90)
+[^F26]: S. 32 expires (25.9.2022) by Coronavirus Act 2020 (c. 7), s. 89 (with s. 90)
+[^F27]: S. 33 expires (25.3.2022) by Coronavirus Act 2020 (c. 7), s. 89 (with s. 90)
+[^F28]: S. 34 expires (25.3.2022) by Coronavirus Act 2020 (c. 7), s. 89 (with s. 90)
+[^F29]: S. 35 expires (25.3.2022) by Coronavirus Act 2020 (c. 7), s. 89 (with s. 90)
+[^F30]: S. 36 expires (25.9.2022) by Coronavirus Act 2020 (c. 7), s. 89 (with s. 90)
+[^F31]: S. 37(1) expires (25.3.2022) by Coronavirus Act 2020 (c. 7), s. 89 (with s. 90)
+[^F32]: S. 37(2) expires (25.9.2022) by Coronavirus Act 2020 (c. 7), s. 89 (with s. 90)
+[^F33]: S. 37(3) expires (25.3.2022) by Coronavirus Act 2020 (c. 7), s. 89 (with s. 90)
+[^F34]: S. 38(1) expires in part (E.) (9.12.2021) by The Coronavirus Act 2020 (Early Expiry) (No. 2) Regulations 2021 (S.I. 2021/1399), regs. 1(2), 5
+[^F35]: S. 38 expires in so far as not already repealed (25.9.2022) by Coronavirus Act 2020 (c. 7), s. 89 (with s. 90)
+[^F36]: S. 38(3) expires (25.3.2022) by Coronavirus Act 2020 (c. 7), s. 89 (with s. 90)
+[^F37]: S. 39 expires (25.3.2022) by Coronavirus Act 2020 (c. 7), s. 89 (with s. 90)
+[^F38]: S. 40 expires (25.3.2022) by Coronavirus Act 2020 (c. 7), s. 89 (with s. 90)
+[^F39]: S. 41 expires (25.3.2022) by Coronavirus Act 2020 (c. 7), s. 89 (with s. 90)
+[^F40]: S. 42 expires (25.3.2022) by Coronavirus Act 2020 (c. 7), s. 89 (with s. 90)
+[^F41]: S. 43 expires (25.9.2022) by Coronavirus Act 2020 (c. 7), s. 89 (with s. 90) (with saving in S.I. 2022/987, regs. 1(1), 2)
+[^F42]: S. 44 expires (25.9.2022) by Coronavirus Act 2020 (c. 7), s. 89 (with s. 90)
+[^F43]: S. 45 expires (25.3.2022) by Coronavirus Act 2020 (c. 7), s. 89 (with s. 90)
+[^F44]: S. 46 expires (25.3.2022) by Coronavirus Act 2020 (c. 7), s. 89 (with s. 90)
+[^F45]: S. 47 expires (25.3.2022) by Coronavirus Act 2020 (c. 7), s. 89 (with s. 90)
+[^F46]: S. 48 expires (24.9.2023) by Coronavirus Act 2020 (c. 7), s. 89 (with s. 90) as continued by The Coronavirus Act 2020 (Extension of Powers to Act for the Protection of Public Health) Order (Northern Ireland) 2023 (S.R. 2023/50), arts. 1, 2)
+[^F47]: S. 49 expires (25.9.2022) by Coronavirus Act 2020 (c. 7), s. 89 (with s. 90)
+[^F48]: S. 50 expires (25.3.2022) by Coronavirus Act 2020 (c. 7), s. 89 (with s. 90)
+[^F49]: S. 51 expires (25.3.2022) by Coronavirus Act 2020 (c. 7), s. 89 (with s. 90)
+[^F50]: S. 52 expires (25.3.2022) by Coronavirus Act 2020 (c. 7), s. 89 (with s. 90)
+[^F51]: S. 53 repealed (28.6.2022) by Police, Crime, Sentencing and Courts Act 2022 (c. 32), ss. 201(1), 208(5)(z)
+[^F52]: S. 54 repealed (28.6.2022) by Police, Crime, Sentencing and Courts Act 2022 (c. 32), ss. 201(1), 208(5)(z)
+[^F53]: S. 55 repealed (28.6.2022 except for the purposes of S.I. 2020/415, S.I. 2020/416 and S.I. 2020/651) by Police, Crime, Sentencing and Courts Act 2022 (c. 32), ss. 201(2), 208(1); S.I. 2022/704, reg. 2
+[^F54]: S. 55 expires in so far as not already repealed (25.9.2022) by Coronavirus Act 2020 (c. 7), s. 89 (with s. 90)
+[^F55]: S. 56 expires (9.12.2021) by The Coronavirus Act 2020 (Early Expiry) (No. 2) Regulations 2021 (S.I. 2021/1399), regs. 1(2), 4
+[^F56]: S. 58 expires (25.3.2022) by Coronavirus Act 2020 (c. 7), s. 89 (with s. 90)
+[^X2]: The power conferred under this provision to publish a notice may be exercised by means of a notice published in The Gazette
+[^X3]: The power conferred under this provision to publish a notice may be exercised by means of a notice published in The Gazette
+[^F57]: S. 71 expires (17.7.2021) by The Coronavirus Act 2020 (Early Expiry) Regulations 2021 (S.I. 2021/856), reg. 2(1)(g)
+[^F58]: S. 75(2)(3) expire (25.3.2022) by Coronavirus Act 2020 (c. 7), s. 89 (with s. 90)
+[^X4]: The power conferred under this provision to make a direction may be exercised by means of a notice published in The Gazette
+[^F59]: S. 77(1)(2) expires (9.12.2021) by The Coronavirus Act 2020 (Early Expiry) (No. 2) Regulations 2021 (S.I. 2021/1399), regs. 1(2), 2
+[^F60]: S. 77(3) expires (9.12.2021) by The Coronavirus Act 2020 (Early Expiry) (No. 2) Regulations 2021 (S.I. 2021/1399), regs. 1(2), 3
+[^F61]: S. 78 expires (E.) (9.12.2021) by The Coronavirus Act 2020 (Early Expiry) (No. 2) Regulations 2021 (S.I. 2021/1399), regs. 1(2), 5
+[^F62]: S. 78(3) repealed (N.I.) (27.8.2021) by Local Government (Meetings and Performance) Act (Northern Ireland) 2021 (c. 8 (N.I.)), ss. 1(1), 6(1)
+[^F63]: S. 78(7)(s)-(v) inserted (22.7.2020) by Business and Planning Act 2020 (c. 16), ss. 22, 25(4)
+[^F64]: S. 79 expires (17.7.2021) by The Coronavirus Act 2020 (Early Expiry) Regulations 2021 (S.I. 2021/856), reg. 4(b)
+[^F65]: S. 80 expires (25.3.2022) by Coronavirus Act 2020 (c. 7), s. 89 (with s. 90)
+[^F66]: S. 81 expires (25.3.2022) by Coronavirus Act 2020 (c. 7), s. 89 (with s. 90)
+[^F67]: S. 82 expires (25.9.2022) by Coronavirus Act 2020 (c. 7), s. 89 (with s. 90)
+[^F68]: S. 83 expires (25.3.2022) by Coronavirus Act 2020 (c. 7), s. 89 (with s. 90)
+[^F69]: S. 84 expires (17.7.2021) by The Coronavirus Act 2020 (Early Expiry) Regulations 2021 (S.I. 2021/856), reg. 3(1) (with reg. 3(2))
+[^X5]: The power conferred under this provision to make a statement in writing may be exercised by means of a notice published in The Gazette
+[^F70]: Sch. 2 expires (25.3.2022) by Coronavirus Act 2020 (c. 7), s. 89 (with s. 90)
+[^F71]: Sch. 3 expires (25.3.2022) by Coronavirus Act 2020 (c. 7), s. 89 (with s. 90)
+[^F72]: Sch. 6 expires (25.3.2022) by Coronavirus Act 2020 (c. 7), s. 89 (with s. 90)
+[^F73]: Sch. 7 Pt. 1 expires (17.7.2021) by The Coronavirus Act 2020 (Early Expiry) Regulations 2021 (S.I. 2021/856), reg. 2(1)(a) (see 2020 c. 7, s. 89(2)(n))
+[^F74]: Sch. 8 Pt. 1 expires (E.) (10.12.2020) by The Coronavirus Act 2020 (Expiry of Mental Health Provisions) (England and Wales) Regulations 2020 (S.I. 2020/1467), reg. 2(1)(a) (with reg. 2(2)) Sch. 8 Pt. 1 expires in part (W.) (10.12.2020) by The Coronavirus Act 2020 (Expiry of Mental Health Provisions) (England and Wales) Regulations 2020 (S.I. 2020/1467), reg. 2(1)(b)(ii)
+[^F75]: Sch. 8 Pt. 2 expires (25.3.2022) by Coronavirus Act 2020 (c. 7), s. 89 (with s. 90)
+[^F76]: Sch. 9 expires (25.3.2022) by Coronavirus Act 2020 (c. 7), s. 89 (with s. 90)
+[^F77]: Sch. 10 Pt. 1 suspended in part (10.5.2021) by The Coronavirus Act 2020 (Suspension) Order (Northern Ireland) 2021 (S.R. 2021/98), arts. 1(1), 2 (with art. 3, Sch.)
+[^F78]: Sch. 10 Pt. 2 expires (25.3.2022) by Coronavirus Act 2020 (c. 7), s. 89 (with s. 90)
+[^F79]: Sch. 11 Pt. 2 expires (25.3.2022) by Coronavirus Act 2020 (c. 7), s. 89 (with s. 90)
+[^F80]: Sch. 12 Pt. 1 expires (except for Sch. 12 paras. 3(2)(3), 10, 13, 18) (17.7.2021) by virtue of The Coronavirus Act 2020 (Early Expiry) Regulations 2021 (S.I. 2021/856), reg. 4(a) (see 2020 c. 7, s. 89(2)(r))
+[^F81]: Sch. 12 Pt. 2 expires (except for Sch. 12 paras. 19 (in part), 30, 33, 35) (1.8.2021) by virtue of The Coronavirus Act 2020 (Early Expiry: Local Authority Care and Support) (Wales) Regulations 2021 (S.I. 2021/850), regs. 1(2), 2(a) (see 2020 c. 7, s. 89(2)(r))
+[^F82]: Sch. 12 Pt. 2 suspended (22.3.2021) by The Coronavirus Act 2020 (Suspension: Local Authority Care and Support) (Wales) Regulations 2021 (S.I. 2021/316), regs. 1(2), 2(a)
+[^F83]: Sch. 13 para. 2 expires (25.3.2022) by Coronavirus Act 2020 (c. 7), s. 89 (with s. 90)
+[^F84]: Sch. 13 para. 3 expires (25.3.2022) by Coronavirus Act 2020 (c. 7), s. 89 (with s. 90)
+[^F85]: Sch. 13 para. 4 expires (25.3.2022) by Coronavirus Act 2020 (c. 7), s. 89 (with s. 90)
+[^F86]: Sch. 13 para. 5 expires (25.3.2022) by Coronavirus Act 2020 (c. 7), s. 89 (with s. 90)
+[^F87]: Sch. 13 para. 6 expires (25.3.2022) by Coronavirus Act 2020 (c. 7), s. 89 (with s. 90)
+[^F88]: Sch. 13 para. 7 expires (25.3.2022) by Coronavirus Act 2020 (c. 7), s. 89 (with s. 90)
+[^F89]: Sch. 13 para. 11 expires (25.9.2022) by Coronavirus Act 2020 (c. 7), s. 89 (with s. 90)
+[^F90]: Sch. 13 para. 12 expires (25.9.2022) by Coronavirus Act 2020 (c. 7), s. 89 (with s. 90)
+[^F91]: Sch. 13 para. 13 expires (25.9.2022) by Coronavirus Act 2020 (c. 7), s. 89 (with s. 90)
+[^F92]: Sch. 13 para. 14 expires (25.9.2022) by Coronavirus Act 2020 (c. 7), s. 89 (with s. 90)
+[^F93]: Sch. 13 Pt. 3 repealed (23.3.2026) by Deaths, Still-Births and Baby Loss Act (Northern Ireland) 2026 (c. 2), ss. 10, 12(1); S.R. 2026/32, art. 2(g)
+[^F94]: Sch. 14 expires (25.3.2022) by Coronavirus Act 2020 (c. 7), s. 89 (with s. 90)
+[^F95]: Sch. 15 expires (17.7.2021) by The Coronavirus Act 2020 (Early Expiry) Regulations 2021 (S.I. 2021/856), reg. 2(1)(e)
+[^F96]: Sch. 16 Pt. 1 expires (25.3.2022) by Coronavirus Act 2020 (c. 7), s. 89 (with s. 90)
+[^F97]: Sch. 16 para. 6 expires (25.9.2022) by Coronavirus Act 2020 (c. 7), s. 89 (with s. 90)
+[^F98]: Sch. 16 para. 7 expires (25.9.2022) by Coronavirus Act 2020 (c. 7), s. 89 (with s. 90)
+[^F99]: Sch. 16 para. 8(1)-(5) expire (25.3.2022) by Coronavirus Act 2020 (c. 7), s. 89 (with s. 90)
+[^F100]: Sch. 16 para. 8(6)-(8) expires (25.9.2022) by Coronavirus Act 2020 (c. 7), s. 89 (with s. 90)
+[^F101]: Sch. 16 para. 8(9) expires (25.3.2022) by Coronavirus Act 2020 (c. 7), s. 89 (with s. 90)
+[^F102]: Sch. 16 para. 9 expires (25.3.2022) by Coronavirus Act 2020 (c. 7), s. 89 (with s. 90)
+[^F103]: Sch. 16 para. 10 expires (25.9.2022) by Coronavirus Act 2020 (c. 7), s. 89 (with s. 90)
+[^F104]: Sch. 16 para. 11 expires (25.9.2022) by Coronavirus Act 2020 (c. 7), s. 89 (with s. 90)
+[^F105]: Sch. 16 para. 12 expires (25.9.2022) by Coronavirus Act 2020 (c. 7), s. 89 (with s. 90)
+[^F106]: Sch. 16 para. 13 expires (25.9.2022) by Coronavirus Act 2020 (c. 7), s. 89 (with s. 90)
+[^F107]: Sch. 16 para. 14 expires (9.12.2021) by The Coronavirus Act 2020 (Early Expiry) (No. 2) Regulations 2021 (S.I. 2021/1399), regs. 1(2), 6
+[^F108]: Sch. 16 para. 15 expires (9.12.2021) by The Coronavirus Act 2020 (Early Expiry) (No. 2) Regulations 2021 (S.I. 2021/1399), regs. 1(2), 6
+[^F109]: Sch. 16 para. 16 expires (25.3.2022) by Coronavirus Act 2020 (c. 7), s. 89 (with s. 90)
+[^F110]: Sch. 17 para. 1 expires (25.3.2022) by Coronavirus Act 2020 (c. 7), s. 89 (with s. 90)
+[^F111]: Sch. 17 para. 2 expires (25.9.2022) by Coronavirus Act 2020 (c. 7), s. 89 (with s. 90)
+[^F112]: Sch. 17 para. 3 expires (25.9.2022) by Coronavirus Act 2020 (c. 7), s. 89 (with s. 90)
+[^F113]: Sch. 17 para. 4 expires (25.9.2022) by Coronavirus Act 2020 (c. 7), s. 89 (with s. 90)
+[^F114]: Sch. 17 para. 5 expires (25.3.2022) by Coronavirus Act 2020 (c. 7), s. 89 (with s. 90)
+[^F115]: Sch. 17 para. 6 expires (25.3.2022) by Coronavirus Act 2020 (c. 7), s. 89 (with s. 90)
+[^F116]: Sch. 17 para. 7 expires (25.9.2022) by Coronavirus Act 2020 (c. 7), s. 89 (with s. 90)
+[^F117]: Sch. 17 para. 8 expires (25.9.2022) by Coronavirus Act 2020 (c. 7), s. 89 (with s. 90)
+[^F118]: Sch. 17 Pt. 2 expires (25.9.2022) by Coronavirus Act 2020 (c. 7), s. 89 (with s. 90)
+[^F119]: Sch. 17 Pt. 3 expires (25.3.2022) by Coronavirus Act 2020 (c. 7), s. 89 (with s. 90)
+[^F120]: Sch. 18 expires (24.9.2023) by Coronavirus Act 2020 (c. 7), s. 89 (with s. 90) as continued by The Coronavirus Act 2020 (Extension of Powers to Act for the Protection of Public Health) Order (Northern Ireland) 2023 (S.R. 2023/50), arts. 1, 2)
+[^F121]: Sch. 19 expires (25.9.2022) by Coronavirus Act 2020 (c. 7), s. 89 (with s. 90)
+[^F122]: Sch. 20 expires (25.3.2022) by Coronavirus Act 2020 (c. 7), s. 89 (with s. 90)
+[^F123]: Sch. 21 expires (25.3.2022) by Coronavirus Act 2020 (c. 7), s. 89 (with s. 90)
+[^F124]: Sch. 22 Pt. 1 expires (25.3.2022(25.3.2022) by Coronavirus Act 2020 (c. 7), s. 89 (with s. 90)
+[^F125]: Sch. 22 Pt. 2 expires (25.3.2022) by Coronavirus Act 2020 (c. 7), s. 89 (with s. 90)
+[^F126]: Sch. 22 Pt. 3 expires (S.) (12.12.2021) by The Coronavirus Act 2020 (Early Expiry of Provisions) (Scotland) Regulations 2021 (S.S.I. 2021/439), regs. 1(1), 2(b)
+[^F127]: Sch. 22 Pt. 4 expires (25.3.2022) by Coronavirus Act 2020 (c. 7), s. 89 (with s. 90)
+[^F128]: Sch. 22 Pt. 5 expires (N.I.) (9.12.2021) by The Coronavirus Act 2020 (Early Expiry) (No. 2) Regulations 2021 (S.I. 2021/1399), regs. 1(2), 6
+[^F129]: Sch. 23 repealed (28.6.2022) by Police, Crime, Sentencing and Courts Act 2022 (c. 32), ss. 201(1), 208(5)(z)
+[^F130]: Sch. 24 repealed (28.6.2022) by Police, Crime, Sentencing and Courts Act 2022 (c. 32), ss. 201(1), 208(5)(z)
+[^F131]: Sch. 25 repealed (28.6.2022 except for the purposes of S.I. 2020/415, S.I. 2020/416 and S.I. 2020/651) by Police, Crime, Sentencing and Courts Act 2022 (c. 32), ss. 201(2), 208(1); S.I. 2022/704, reg. 2
+[^F132]: Sch. 25 expires in so far as not already repealed (25.9.2022) by Coronavirus Act 2020 (c. 7), s. 89 (with s. 90)
+[^F133]: Sch. 26 expires (9.12.2021) by The Coronavirus Act 2020 (Early Expiry) (No. 2) Regulations 2021 (S.I. 2021/1399), regs. 1(2), 4
+[^F134]: Sch. 27 Pt. 3 expires (25.3.2022) by Coronavirus Act 2020 (c. 7), s. 89 (with s. 90)
+[^F135]: Sch. 28 expires (25.3.2022) by Coronavirus Act 2020 (c. 7), s. 89 (with s. 90)
+[^F136]: Sch. 29 expires (25.3.2022) by Coronavirus Act 2020 (c. 7), s. 89 (with s. 90)

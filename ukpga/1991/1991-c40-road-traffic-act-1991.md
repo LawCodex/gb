@@ -1,0 +1,4095 @@
+---
+title: "Road Traffic Act 1991"
+identifier: "ukpga/1991/40"
+citation: "1991 c. 40"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S+N.I."
+date: 1991-07-25
+last_amended: 2024-11-28
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/1991/40"
+source_modified: 2024-12-18
+retrieved: 2026-10-11
+---
+
+# Road Traffic Act 1991
+
+**1991 c. 40**
+
+An Act to amend the law about road traffic.
+
+[25th July 1991]
+
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## Part I — General
+
+### Driving offences
+
+#### 1 Offences of dangerous driving.
+
+For sections 1 and 2 of the [^M1]Road Traffic Act 1988 there shall be substituted—
+
+> **1 Causing death by dangerous driving.**
+>
+> A person who causes the death of another person by driving a mechanically propelled vehicle dangerously on a road or other public place is guilty of an offence.
+>
+> **2 Dangerous driving.**
+>
+> A person who drives a mechanically propelled vehicle dangerously on a road or other public place is guilty of an offence.
+>
+> **2A Meaning of dangerous driving.**
+>
+> (1) For the purposes of sections 1 and 2 above a person is to be regarded as driving dangerously if (and, subject to subsection (2) below, only if)—
+>
+> (a) the way he drives falls far below what would be expected of a competent and careful driver, and
+>
+> (b) it would be obvious to a competent and careful driver that driving in that way would be dangerous.
+>
+> (2) A person is also to be regarded as driving dangerously for the purposes of sections 1 and 2 above if it would be obvious to a competent and careful driver that driving the vehicle in its current state would be dangerous.
+>
+> (3) In subsections (1) and (2) above “dangerous” refers to danger either of injury to any person or of serious damage to property; and in determining for the purposes of those subsections what would be expected of, or obvious to, a competent and careful driver in a particular case, regard shall be had not only to the circumstances of which he could be expected to be aware but also to any circumstances shown to have been within the knowledge of the accused.
+>
+> (4) In determining for the purposes of subsection (2) above the state of a vehicle, regard may be had to anything attached to or carried on or in it and to the manner in which it is attached or carried.
+
+#### 2 Careless, and inconsiderate, driving.
+
+For section 3 of the [^M2]Road Traffic Act 1988 there shall be substituted—
+
+> **3 Careless, and inconsiderate, driving.**
+>
+> If a person drives a mechanically propelled vehicle on a road or other public place without due care and attention, or without reasonable consideration for other persons using the road or place, he is guilty of an offence.
+
+### Drink and drugs
+
+#### 3 Causing death by careless driving when under influence of drink or drugs.
+
+Before section 4 of the Road Traffic Act 1988 there shall be inserted—
+
+> **3A Causing death by careless driving when under influence of drink or drugs.**
+>
+> (1) If a person causes the death of another person by driving a mechanically propelled vehicle on a road or other public place without due care and attention, or without reasonable consideration for other persons using the road or place, and—
+>
+> (a) he is, at the time when he is driving, unfit to drive through drink or drugs, or
+>
+> (b) he has consumed so much alcohol that the proportion of it in his breath, blood or urine at that time exceeds the prescribed limit, or
+>
+> (c) he is, within 18 hours after that time, required to provide a specimen in pursuance of section 7 of this Act, but without reasonable excuse fails to provide it,
+>
+> he is guilty of an offence.
+>
+> (2) For the purposes of this section a person shall be taken to be unfit to drive at any time when his ability to drive properly is impaired.
+>
+> (3) Subsection (1)(b) and (c) above shall not apply in relation to a person driving a mechanically propelled vehicle other than a motor vehicle.
+
+#### 4 Driving under influence of drink or drugs.
+
+In section 4 of the Road Traffic Act 1988, in subsections (1), (2) and (3) for the words “motor vehicle” there shall be substituted the words “ mechanically propelled vehicle ”.
+
+### Motoring events
+
+#### 5 Disapplication of sections 1 to 3 of the Road Traffic Act 1988 for authorised motoring events.
+
+After section 13 of the [^M3]Road Traffic Act 1988 there shall be inserted—
+
+> **13A Disapplication of sections 1 to 3 for authorised motoring events.**
+>
+> (1) A person shall not be guilty of an offence under sections 1, 2 or 3 of this Act by virtue of driving a vehicle in a public place other than a road if he shows that he was driving in accordance with an authorisation for a motoring event given under regulations made by the Secretary of State.
+>
+> (2) Regulations under this section may in particular—
+>
+> (a) prescribe the persons by whom, and limit the circumstances in which and the places in respect of which, authorisations may be given under the regulations;
+>
+> (b) specify conditions which must be included among those incorporated i n authorisations;
+>
+> (c) provide for authorisations to cease to have effect in prescribed circumstances;
+>
+> (d) provide for the procedure to be followed, the particulars to be given, and the amount (or the persons who are to determine the amount) of any fees to be paid, in connection with applications for authorisations;
+>
+> (e) make different provisions for different cases.
+
+### Danger to road-users
+
+#### 6 Causing danger to road-users.
+
+Before section 23 of the Road Traffic Act 1988 there shall be inserted—
+
+> **22A Causing danger to road-users.**
+>
+> (1) A person is guilty of an offence if he intentionally and without lawful authority or reasonable cause—
+>
+> (a) causes anything to be on or over a road, or
+>
+> (b) interferes with a motor vehicle, trailer or cycle, or
+>
+> (c) interferes (directly or indirectly) with traffic equipment,
+>
+> in such circumstances that it would be obvious to a reasonable person that to do so would be dangerous.
+>
+> (2) In subsection (1) above “dangerous” refers to danger either of injury to any person while on or near a road, or of serious damage to property on or near a road; and in determining for the purposes of that subsection what would be obvious to a reasonable person in a particular case, regard shall be had not only to the circumstances of which he could be expected to be aware but also to any circumstances shown to have been within the knowledge of the accused.
+>
+> (3) In subsection (1) above “traffic equipment” means—
+>
+> (a) anything lawfully placed on or near a road by a highway authority;
+>
+> (b) a traffic sign lawfully placed on or near a road by a person other than a highway authority;
+>
+> (c) any fence, barrier or light lawfully placed on or near a road—
+>
+> (i) in pursuance of section 174 of the Highways Act 1980, section 8 of the Public Utilities Street Works Act 1950 or section 65 of the New Roads and Street Works Act 1991 (which provide for guarding, lighting and signing in streets where works are undertaken), or
+>
+> (ii) by a constable or a person acting under the instructions (whether general or specific) of a chief officer of police.
+>
+> (4) For the purposes of subsection (3) above anything placed on or near a road shall unless the contrary is proved be deemed to have been lawfully placed there.
+>
+> (5) In this section “road” does not include a footpath or bridleway.
+>
+> (6) This section does not extend to Scotland.
+
+### Cycling
+
+#### 7 Cycling offences.
+
+For section 28 of the [^M4]Road Traffic Act 1988 there shall be substituted—
+
+> **28 Dangerous cycling.**
+>
+> (1) A person who rides a cycle on a road dangerously is guilty of an offence.
+>
+> (2) For the purposes of subsection (1) above a person is to be regarded as riding dangerously if (and only if)—
+>
+> (a) the way he rides falls far below what would be expected of a competent and careful cyclist, and
+>
+> (b) it would be obvious to a competent and careful cyclist that riding in that way would be dangerous.
+>
+> (3) In subsection (2) above “dangerous” refers to danger either of injury to any person or of serious damage to property; and in determining for the purposes of that subsection what would be obvious to a competent and careful cyclist in a particular case, regard shall be had not only to the circumstances of which he could be expected to be aware but also to any circumstances shown to have been within the knowledge of the accused.
+
+### Construction and use
+
+#### 8 Construction and use of vehicles.
+
+(1) At the beginning of Part II of the [^M5]Road Traffic Act 1988 there shall be inserted—
+
+> **Using vehicle in dangerous condition**
+>
+> **40A Using vehicle in dangerous condition etc.**
+>
+> A person is guilty of an offence if he uses, or causes or permits another to use, a motor vehicle or trailer on a road when—
+>
+> (a) the condition of the motor vehicle or trailer, or of its accessories or equipment, or
+>
+> (b) the purpose for which it is used, or
+>
+> (c) the number of passengers carried by it, or the manner in which they are carried, or
+>
+> (d) the weight, position or distribution of its load, or the manner in which it is secured,
+>
+> is such that the use of the motor vehicle or trailer involves a danger of injury to any person.
+
+(2) For section 42 of that Act there shall be substituted—
+
+> **41A Breach of requirement as to brakes, steering-gear or tyres.**
+>
+> A person who—
+>
+> (a) contravenes or fails to comply with a construction and use requirement as to brakes, steering-gear or tyres, or
+>
+> (b) uses on a road a motor vehicle or trailer which does not comply with such a requirement, or causes or permits a motor vehicle or trailer to be so used,
+>
+> is guilty of an offence.
+>
+> **41B Breach of requirement as to weight: goods and passenger vehicles.**
+>
+> (1) A person who—
+>
+> (a) contravenes or fails to comply with a construction and use requirement as to any description of weight applicable to—
+>
+> (i) a goods vehicle, or
+>
+> (ii) a motor vehicle or trailer adapted to carry more than eight passengers, or
+>
+> (b) uses on a road a vehicle which does not comply with such a requirement, or causes or permits a vehicle to be so used,
+>
+> is guilty of an offence.
+>
+> (2) In any proceedings for an offence under this section in which there is alleged a contravention of or failure to comply with a construction and use requirement as to any description of weight applicable to a goods vehicle, it shall be a defence to prove either—
+>
+> (a) that at the time when the vehicle was being used on the road—
+>
+> (i) it was proceeding to a weighbridge which was the nearest available one to the place where the loading of the vehicle was completed for the purpose of being weighed, or
+>
+> (ii) it was proceeding from a weighbridge after being weighed to the nearest point at which it was reasonably practicable to reduce the weight to the relevant limit, without causing an obstruction on any road, or
+>
+> (b) in a case where the limit of that weight was not exceeded by more than 5 per cent.—
+>
+> (i) that that limit was not exceeded at the time when the loading of the vehicle was originally completed, and
+>
+> (ii) that since that time no person has made any addition to the load.
+>
+> **42 Breach of other construction and use requirements.**
+>
+> A person who—
+>
+> (a) contravenes or fails to comply with any construction or use requirement other than one within section 41A(a) or 41B(1)(a) of this Act, or
+>
+> (b) uses on a road a motor vehicle or trailer which does not comply with such a requirement, or causes or permits a motor vehicle or trailer to be so used,
+>
+> is guilty of an offence.
+
+#### 9 Vehicle examiners.
+
+(1) Section 7 of the [^M6]Public Passenger Vehicles Act 1981 and section 68(1) and (2) of the [^M7]Road Traffic Act 1988 (which provide for the appointment of certifying officers, public service vehicle examiners and examiners of goods vehicles) shall cease to have effect, and after section 66 of the Road Traffic Act 1988 there shall be inserted—
+
+> **Vehicle examiners**
+>
+> **66A Appointment of examiners.**
+>
+> (1) The Secretary of State shall appoint such examiners as he considers necessary for the purpose of carrying out the functions conferred on them by this Part of this Act, the Public Passenger Vehicles Act 1981, the Transport Act 1968 and any other enactment.
+>
+> (2) An examiner appointed under this section shall act under the general directions of the Secretary of State.
+>
+> (3) In this Part of this Act “vehicle examiner” means an examiner appointed under this section.
+
+(2) Any reference in any Act, or in any instrument made under any Act, to a certifying officer or public service vehicle examiner appointed under the Public Passenger Vehicles Act 1981 or to an examiner appointed under section 68(1) of the Road Traffic Act 1988 shall, so far as may be appropriate in consequence of the preceding provisions of this section, be construed as a reference to an examiner appointed under section 66A of the Road Traffic Act 1988.
+
+#### 10 Testing vehicles on roads.
+
+(1) Section 67 of the [^M8]Road Traffic Act 1988 (tests on roads to ascertain compliance with certain requirements) shall be amended as follows.
+
+(2) In subsection (1) for paragraph (a) there shall be substituted—
+
+> (a) ascertaining whether the following requirements, namely—
+>
+> (i) the construction and use requirements, and
+>
+> (ii) the requirement that the condition of the vehicle is not such that its use on a road would involve a danger of injury to any person,
+>
+> are complied with as respects the vehicle;
+
+.
+
+(3) For subsection (2) there shall be substituted—
+
+> (2) For the purpose of testing a vehicle under this section the examiner—
+>
+> (a) may require the driver to comply with his reasonable instructions, and
+>
+> (b) may drive the vehicle.
+
+(4) In subsection (4)(b) for “68(1)” there shall be substituted “ 66A ”.
+
+(5) In subsection (4)(e) for the words “under instructions of the” there shall be substituted the words “ on behalf of a ”.
+
+#### 11 Inspection of vehicles.
+
+Subsections (1) to (2) of section 8 of the [^M9]Public Passenger Vehicles Act 1981 (inspection of public service vehicles) shall cease to have effect, and for section 68 of the Road Traffic Act 1988 (inspection of goods vehicles) there shall be substituted—
+
+> **Inspection of public passenger vehicles and goods vehicles**
+>
+> **68 Inspection of public passenger vehicles and goods vehicles.**
+>
+> (1) A vehicle examiner—
+>
+> (a) may at any time, on production if so required of his authority, inspect any vehicle to which this section applies and for that purpose detain the vehicle during such time as is required for the inspection, and
+>
+> (b) may at any time which is reasonable having regard to the circumstances of the case enter any premises on which he has reason to believe that such a vehicle is kept.
+>
+> (2) The power conferred by subsection (1) above to inspect a vehicle includes power to test it and to drive it for the purpose of testing it.
+>
+> (3) A person who intentionally obstructs an examiner in the exercise of his powers under subsection (1) above is guilty of an offence.
+>
+> (4) A vehicle examiner or a constable in uniform may at any time require any person in charge of a vehicle to which this section applies and which is stationary on a road to proceed with the vehicle for the purpose of having it inspected under this section to any place where an inspection can be suitably carried out (not being more than five miles from the place where the requirement is made).
+>
+> (5) A person in charge of a vehicle who refuses or neglects to comply with a requirement made under subsection (4) above is guilty of an offence.
+>
+> (6) This section applies to—
+>
+> (a) goods vehicles,
+>
+> (b) public service vehicles, and
+>
+> (c) motor vehicles which are not public service vehicles but are adapted to carry more than eight passengers;
+>
+> but subsection (1)(b) above shall not apply in relation to vehicles within paragraph (c) above or in relation to vehicles used to carry passengers for hire or reward only under permits granted under section 19 or 22 of the Transport Act 1985 (use of vehicles by educational and other bodies or in providing community bus services).
+
+#### 12 Power to prohibit driving of unfit vehicles.
+
+Section 9 of the [^M10]Public Passenger Vehicles Act 1981 (unfit public service vehicles) shall cease to have effect, and for section 69 of the [^M11]Road Traffic Act 1988 (unfit goods vehicles) there shall be substituted—
+
+> **Prohibition of unfit vehicles**
+>
+> **69 Power to prohibit driving of unfit vehicles.**
+>
+> (1) If on any inspection of a vehicle under section 41, 45, 49, 61, 67, 68 or 77 of this Act it appears to a vehicle examiner that owing to any defects in the vehicle it is, or is likely to become, unfit for service, he may prohibit the driving of the vehicle on a road—
+>
+> (a) absolutely, or
+>
+> (b) for one or more specified purposes, or
+>
+> (c) except for one or more specified purposes.
+>
+> (2) If on any inspection of a vehicle under any of the enactments mentioned in subsection (1) above it appears to an authorised constable that owing to any defects in the vehicle driving it (or driving it for any particular purpose or purposes or for any except one or more particular purposes) would involve a danger of injury to any person, he may prohibit the driving of the vehicle on a road—
+>
+> (a) absolutely, or
+>
+> (b) for one or more specified purposes, or
+>
+> (c) except for one or more specified purposes.
+>
+> (3) A prohibition under this section shall come into force as soon as the notice under subsection (6) below has been given if—
+>
+> (a) it is imposed by an authorised constable, or
+>
+> (b) in the opinion of the vehicle examiner imposing it the defects in the vehicle in question are such that driving it, or driving it for any purpose within the prohibition, would involve a danger of injury to any person.
+>
+> (4) Except where subsection (3) applies, a prohibition under this section shall (unless previously removed under section 72 of this Act) come into force at such time not later than ten days from the date of the inspection as seems appropriate to the vehicle examiner imposing the prohibition, having regard to all the circumstances.
+>
+> (5) A prohibition under this section shall continue in force until it is removed under section 72 of this Act.
+>
+> (6) A person imposing a prohibition under this section shall forthwith give notice in writing of the prohibition to the person in charge of the vehicle at the time of the inspection—
+>
+> (a) specifying the defects which occasioned the prohibition;
+>
+> (b) stating whether the prohibition is on all driving of the vehicle or driving it for one or more specified purposes or driving it except for one or more specified purposes (and, where applicable, specifying the purpose or purposes in question); and
+>
+> (c) stating whether the prohibition is to come into force immediately or at the end of a specified period.
+>
+> (7) Where a notice has been given under subsection (6) above, any vehicle examiner or authorised constable may grant an exemption in writing for the use of the vehicle in such manner, subject to such conditions and for such purpose as may be specified in the exemption.
+>
+> (8) Where such a notice has been given, any vehicle examiner or authorised constable may by endorsement on the notice vary its terms and, in particular, alter the time at which the prohibition is to come into force or suspend it if it has come into force.
+>
+> (9) In this section “authorised constable” means a constable authorised to act for the purposes of this section by or on behalf of a chief officer of police.
+>
+> **69A Prohibitions conditional on inspection etc.**
+>
+> (1) Where it appears to the person imposing a prohibition under section 69 of this Act that the vehicle is adapted to carry more than eight passengers, or is a public service vehicle not so adapted, the prohibition may be imposed with a direction making it irremovable unless and until the vehicle has been inspected at an official PSV testing station within the meaning of the Public Passenger Vehicles Act 1981.
+>
+> (2) Where it appears to that person that the vehicle is of a class to which regulations under section 49 of this Act apply, the prohibition may be imposed with a direction making it irremovable unless and until the vehicle has been inspected at an official testing station.
+>
+> (3) Where it appears to that person that the vehicle is one to which section 47 of this Act applies, or would apply if the vehicle had been registered under the Vehicles (Excise) Act 1971 more than three years earlier, the prohibition may be imposed with a direction making it irremovable unless and until the vehicle has been inspected, and a test certificate issued, under section 45 of this Act.
+>
+> (4) In any other case, the prohibition may be imposed with a direction making it irremovable unless and until the vehicle has been inspected in accordance with regulations under section 72 of this Act by a vehicle examiner or authorised constable (within the meaning of section 69 of this Act).
+
+#### 13 Power to prohibit driving of overloaded vehicles.
+
+(1) Section 70 of the [^M12]Road Traffic Act 1988 shall be amended as follows.
+
+(2) In subsection (1)—
+
+(a) after the words “where a goods vehicle” there shall be inserted the words “ , or a motor vehicle adapted to carry more than eight passengers, ”;
+
+(b) for the words “a goods vehicle examiner” there shall be substituted the words “ a vehicle examiner ”;
+
+(c) at the end there shall be added the words “ or that by reason of excessive overall weight or excessive axle weight on any axle driving the vehicle would involve a danger of injury to any person ”.
+
+(3) In subsection (2)—
+
+(a) for “69(2)” there shall be substituted “ 69(6) ”;
+
+(b) after the words “that limit” there shall be inserted the words “ or, as the case may be, so that it is no longer excessive ”.
+
+(4) In subsection (4), for the words “a goods vehicle examiner” there shall be substituted the words “ a vehicle examiner ”.
+
+#### 14 Unfit and overloaded vehicles: offences.
+
+For section 71 of the Road Traffic Act 1988 there shall be substituted—
+
+> **71 Unfit and overloaded vehicles: offences.**
+>
+> (1) A person who—
+>
+> (a) drives a vehicle in contravention of a prohibition under section 69 or 70 of this Act, or
+>
+> (b) causes or permits a vehicle to be driven in contravention of such a prohibition, or
+>
+> (c) fails to comply within a reasonable time with a direction under section 70(3) of this Act,
+>
+> is guilty of an offence.
+>
+> (2) The Secretary of State may by regulations provide for exceptions from subsection (1) above.
+
+#### 15 Removal of prohibitions.
+
+(1) For section 72 of the [^M13]Road Traffic Act 1988 there shall be substituted—
+
+> **72 Removal of prohibitions.**
+>
+> (1) Subject to the following provisions of this section, a prohibition under section 69 or 70 of this Act may be removed by any vehicle examiner or authorised constable if he is satisfied that the vehicle is fit for service.
+>
+> (2) If the prohibition has been imposed with a direction under section 69A(1) or (2) of this Act, the prohibition shall not be removed unless and until the vehicle has been inspected in accordance with the direction.
+>
+> (3) If the prohibition has been imposed with a direction under section 69A(3) of this Act, subsection (1) above shall not apply; but the prohibition shall be removed, by such person as may be prescribed, if (and only if) any prescribed requirements relating to the inspection of the vehicle and the issue and production of a test certificate have been complied with.
+>
+> (4) If the prohibition has been imposed with a direction under section 69A(4) of this Act, the prohibition shall not be removed unless and until any prescribed requirements relating to the inspection of the vehicle have been complied with.
+>
+> (5) A person aggrieved by the refusal of a vehicle examiner or authorised constable to remove a prohibition may, within the prescribed time and in the prescribed manner, appeal to the Secretary of State.
+>
+> (6) The Secretary of State may make such order on the appeal as he thinks fit.
+>
+> (7) Where a vehicle examiner or authorised constable removes a prohibition, he must forthwith give notice of the removal to the owner of the vehicle.
+>
+> (8) The Secretary of State may require the payment of fees, in accordance with prescribed scales and rates, for the inspection of a vehicle with a view to the removal of a prohibition; and—
+>
+> (a) payment of fees may be required to be made in advance, and
+>
+> (b) the Secretary of State must ensure that all the scales and rates prescribed for the purposes of this subsection are reasonably comparable with—
+>
+> (i) in the case of goods vehicles, the fees charged by virtue of section 51(1)(h) in respect of periodic examination, and
+>
+> (ii) in the case of other vehicles, the fees charged by virtue of section 46(c).
+>
+> (9) The Secretary of State may make regulations for prescribing anything which may be prescribed under this section and for regulating the procedure, and fees payable, on appeals to him under subsection (5) above.
+>
+> (10) In this section “authorised constable” means a constable authorised to act for the purposes of this section by or on behalf of a chief officer of police.
+>
+> **72A Official testing stations.**
+>
+> The Secretary of State may provide and maintain stations (in this Part of this Act referred to as “official testing stations”) where inspections of goods vehicles for the purposes of section 72 may be carried out and may provide and maintain the apparatus for carrying out such inspections.
+
+#### 16 Supply of unroadworthy vehicles etc.
+
+(1) Section 75 of the [^M14]Road Traffic Act 1988 (vehicles not to be sold in unroadworthy condition or altered so as to be unroadworthy) shall be amended as follows.
+
+(2) In subsection (3), sub-paragraph (iii) of paragraph (a) shall be omitted and for paragraph (b) there shall be substituted—
+
+> (b) it is in such a condition that its use on a road would involve a danger of injury to any person
+
+.
+
+(3) In subsection (4), after the words “that condition” there shall be inserted—
+
+> (a)
+
+, and at the end there shall be added the words
+
+> or
+>
+> (b) would involve a danger of injury to any person.
+
+(4) In subsection (6), paragraph (c) shall be omitted.
+
+(5) After subsection (6) there shall be inserted—
+
+> (6A) Paragraph (b) of subsection (6) above shall not apply in relation to a person who, in the course of a trade or business—
+>
+> (a) exposes a vehicle or trailer for sale, unless he also proves that he took all reasonable steps to ensure that any prospective purchaser would be aware that its use in its current condition on a road in Great Britain would be unlawful, or
+>
+> (b) offers to sell a vehicle or trailer, unless he also proves that he took all reasonable steps to ensure that the person to whom the offer was made was aware of that fact.
+
+### Licensing of drivers
+
+#### 17 Requirement of licence.
+
+(1) In subsection (1) of section 87 of the Road Traffic Act 1988 (offence for person to drive if he is not the holder of a licence) for the words “if he is not the holder of” there shall be substituted the words “ otherwise than in accordance with ”.
+
+(2) In subsection (2) of that section (offence to allow a person to drive if he does not hold a licence) for the words “if that other person is not the holder of a licence authorising him” there shall be substituted the words “ otherwise than in accordance with a licence authorising that other person ”.
+
+(3) Sections 97(7) and 98(5) of the [^M15]Road Traffic Act 1988 (which make it an offence to fail to comply with the conditions of certain licences) shall cease to have effect.
+
+#### 18 Physical fitness.
+
+(1) In section 92 of the Road Traffic Act 1988 (physical fitness of drivers) at the end there shall be added—
+
+> (10) A person who holds a licence authorising him to drive a motor vehicle of any class and who drives a motor vehicle of that class on a road is guilty of an offence if the declaration included in accordance with subsection (1) above in the application on which the licence was granted was one which he knew to be false.
+
+(2) In section 94 of that Act (provision of information about disabilities) after subsection (3) there shall be inserted—
+
+> (3A) A person who holds a licence authorising him to drive a motor vehicle of any class and who drives a motor vehicle of that class on a road is guilty of an offence if at any earlier time while the licence was in force he was required by subsection (1) above to notify the Secretary of State but has failed without reasonable excuse to do so.
+
+(3) After section 94 of that Act there shall be inserted—
+
+> **94A Driving after refusal or revocation of licence.**
+>
+> (1) A person who drives a motor vehicle of any class on a road otherwise than in accordance with a licence authorising him to drive a motor vehicle of that class is guilty of an offence if—
+>
+> (a) at any earlier time the Secretary of State has in accordance with section 92(3) of this Act refused to grant such a licence, or has under section 93(1) or (2) revoked such a licence, and
+>
+> (b) he has not since that earlier time held such a licence.
+>
+> (2) Section 88 of this Act shall apply in relation to subsection (1) above as it applies in relation to section 87.
+
+#### 19 Effects of disqualification.
+
+For section 103 of the Road Traffic Act 1988 there shall be substituted—
+
+> **Effects of disqualification**
+>
+> **103 Obtaining licence, or driving, while disqualified.**
+>
+> (1) A person is guilty of an offence if, while disqualified for holding or obtaining a licence, he—
+>
+> (a) obtains a licence, or
+>
+> (b) drives a motor vehicle on a road.
+>
+> (2) A licence obtained by a person who is disqualified is of no effect (or, where the disqualification relates only to vehicles of a particular class, is of no effect in relation to vehicles of that class).
+>
+> (3) A constable in uniform may arrest without warrant any person driving a motor vehicle on a road whom he has reasonable cause to suspect of being disqualified.
+>
+> (4) Subsections (1) and (3) above do not apply in relation to disqualification by virtue of section 101 of this Act.
+>
+> (5) Subsections (1)(b) and (3) above do not apply in relation to disqualification by virtue of section 102 of this Act.
+>
+> (6) In the application of subsections (1) and (3) above to a person whose disqualification is limited to the driving of motor vehicles of a particular class by virtue of—
+>
+> (a) section 102 or 117 of this Act, or
+>
+> (b) subsection (9) of section 36 of the Road Traffic Offenders Act 1988 (disqualification until test is passed),
+>
+> the references to disqualification for holding or obtaining a licence and driving motor vehicles are references to disqualification for holding or obtaining a licence to drive and driving motor vehicles of that class.
+
+### Insurance
+
+#### 20 Exception from requirement of third-party insurance.
+
+(1) Section 144 of the [^M16]Road Traffic Act 1988 shall be amended as follows.
+
+(2) In subsection (1) (which removes the requirement for third-party insurance or security where £15,000 is kept deposited with the Accountant General of the Supreme Court) for “£15,000” there shall be substituted “ £500,000 ”.
+
+(3) After subsection (1) there shall be inserted—
+
+> (1A) The Secretary of State may by order made by statutory instrument substitute a greater sum for the sum for the time being specified in subsection (1) above.
+>
+> (1B) No order shall be made under subsection (1A) above unless a draft of it has been laid before and approved by resolution of each House of Parliament.
+
+### Information
+
+#### 21 Information as to identity of driver etc.
+
+For section 172 of the [^M17]Road Traffic Act 1988 there shall be substituted—
+
+> **172 Duty to give information as to identity of driver etc in certain circumstances.**
+>
+> (1) This section applies—
+>
+> (a) to any offence under the preceding provisions of this Act except—
+>
+> (i) an offence under Part V, or
+>
+> (ii) an offence under section 13, 16, 51(2), 61(4), 67(9), 68(4), 96 or 120,
+>
+> and to an offence under section 178 of this Act,
+>
+> (b) to any offence under sections 25, 26 or 27 of the Road Traffic Offenders Act 1988,
+>
+> (c) to any offence against any other enactment relating to the use of vehicles on roads, except an offence under paragraph 8 of Schedule 1 to the Road Traffic (Driver Licensing and Information Systems) Act 1989, and
+>
+> (d) to manslaughter, or in Scotland culpable homicide, by the driver of a motor vehicle.
+>
+> (2) Where the driver of a vehicle is alleged to be guilty of an offence to which this section applies—
+>
+> (a) the person keeping the vehicle shall give such information as to the identity of the driver as he may be required to give by or on behalf of a chief officer of police, and
+>
+> (b) any other person shall if required as stated above give any information which it is in his power to give and may lead to identification of the driver.
+>
+> (3) Subject to the following provisions, a person who fails to comply with a requirement under subsection (2) above shall be guilty of an offence.
+>
+> (4) A person shall not be guilty of an offence by virtue of paragraph (a) of subsection (2) above if he shows that he did not know and could not with reasonable diligence have ascertained who the driver of the vehicle was.
+>
+> (5) Where a body corporate is guilty of an offence under this section and the offence is proved to have been committed with the consent or connivance of, or to be attributable to neglect on the part of, a director, manager, secretary or other similar officer of the body corporate, or a person who was purporting to act in any such capacity, he, as well as the body corporate, is guilty of that offence and liable to be proceeded against and punished accordingly.
+>
+> (6) Where the alleged offender is a body corporate, or in Scotland a partnership or an unincorporated association, or the proceedings are brought against him by virtue of subsection (5) above or subsection (11) below, subsection (4) above shall not apply unless, in addition to the matters there mentioned, the alleged offender shows that no record was kept of the persons who drove the vehicle and that the failure to keep a record was reasonable.
+>
+> (7) A requirement under subsection (2) may be made by written notice served by post; and where it is so made—
+>
+> (a) it shall have effect as a requirement to give the information within the period of 28 days beginning with the day on which the notice is served, and
+>
+> (b) the person on whom the notice is served shall not be guilty of an offence under this section if he shows either that he gave the information as soon as reasonably practicable after the end of that period or that it has not been reasonably practicable for him to give it.
+>
+> (8) Where the person on whom a notice under subsection (7) above is to be served is a body corporate, the notice is duly served if it is served on the secretary or clerk of that body.
+>
+> (9) For the purposes of section 7 of the Interpretation Act 1978 as it applies for the purposes of this section the proper address of any person in relation to the service on him of a notice under subsection (7) above is—
+>
+> (a) in the case of the secretary or clerk of a body corporate, that of the registered or principal office of that body or (if the body corporate is the registered keeper of the vehicle concerned) the registered address, and
+>
+> (b) in any other case, his last known address at the time of service.
+>
+> (10) In this section—
+>
+> - “registered address”, in relation to the registered keeper of a vehicle, means the address recorded in the record kept under the Vehicles (Excise) Act 1971 with respect to that vehicle as being that person’s address, and
+> - “registered keeper”, in relation to a vehicle, means the person in whose name the vehicle is registered under that Act;
+>
+> and references to the driver of a vehicle include references to the rider of a cycle.
+>
+> (11) Where, in Scotland, an offence under this section is committed by a partnership or by an unincorporated association other than a partnership and is proved to have been committed with the consent or connivance or in consequence of the negligence of a partner in the partnership or, as the case may be, a person concerned in the management or control of the association, he (as well as the partnership or association) shall be guilty of the offence.
+
+### Trial
+
+#### 22 Amendment of Schedule 1 to the Road Traffic Offenders Act 1988.
+
+Schedule 1 to this Act, which amends Schedule 1 to the Road Traffic Offenders Act 1988 (procedural requirements applicable in relation to certain offences), shall have effect.
+
+#### 23 Speeding offences etc: admissibility of certain evidence.
+
+For section 20 of the [^M18]Road Traffic Offenders Act 1988 (admissibility of measurement of speed by radar) there shall be substituted—
+
+> **20 Speeding offences etc: admissibility of certain evidence.**
+>
+> (1) Evidence (which in Scotland shall be sufficient evidence) of a fact relevant to proceedings for an offence to which this section applies may be given by the production of—
+>
+> (a) a record produced by a prescribed device, and
+>
+> (b) (in the same or another document) a certificate as to the circumstances in which the record was produced signed by a constable or by a person authorised by or on behalf of the chief officer of police for the police area in which the offence is alleged to have been committed;
+>
+> but subject to the following provisions of this section.
+>
+> (2) This section applies to—
+>
+> (a) an offence under section 16 of the Road Traffic Regulation Act 1984 consisting in the contravention of a restriction on the speed of vehicles imposed under section 14 of that Act;
+>
+> (b) an offence under subsection (4) of section 17 of that Act consisting in the contravention of a restriction on the speed of vehicles imposed under that section;
+>
+> (c) an offence under section 88(7) of that Act (temporary minimum speed limits);
+>
+> (d) an offence under section 89(1) of that Act (speeding offences generally);
+>
+> (e) an offence under section 36(1) of the Road Traffic Act 1988 consisting in the failure to comply with an indication given by a light signal that vehicular traffic is not to proceed.
+>
+> (3) The Secretary of State may by order amend subsection (2) above by making additions to or deletions from the list of offences for the time being set out there; and an order under this subsection may make such transitional provision as appears to him to be necessary or expedient.
+>
+> (4) A record produced or measurement made by a prescribed device shall not be admissible as evidence of a fact relevant to proceedings for an offence to which this section applies unless—
+>
+> (a) the device is of a type approved by the Secretary of State, and
+>
+> (b) any conditions subject to which the approval was given are satisfied.
+>
+> (5) Any approval given by the Secretary of State for the purposes of this section may be given subject to conditions as to the purposes for which, and the manner and other circumstances in which, any device of the type concerned is to be used.
+>
+> (6) In proceedings for an offence to which this section applies, evidence (which in Scotland shall be sufficient evidence)—
+>
+> (a) of a measurement made by a device, or of the circumstances in which it was made, or
+>
+> (b) that a device was of a type approved for the purposes of this section, or that any conditions subject to which an approval was given were satisfied,
+>
+> may be given by the production of a document which is signed as mentioned in subsection (1) above and which, as the case may be, gives particulars of the measurement or of the circumstances in which it was made, or states that the device was of such a type or that, to the best of the knowledge and belief of the person making the statement, all such conditions were satisfied.
+>
+> (7) For the purposes of this section a document purporting to be a record of the kind mentioned in subsection (1) above, or to be a certificate or other document signed as mentioned in that subsection or in subsection (6) above, shall be deemed to be such a record, or to be so signed, unless the contrary is proved.
+>
+> (8) Nothing in subsection (1) or (6) above makes a document admissible as evidence in proceedings for an offence unless a copy of it has, not less than seven days before the hearing or trial, been served on the person charged with the offence; and nothing in those subsections makes a document admissible as evidence of anything other than the matters shown on a record produced by a prescribed device if that person, not less than three days before the hearing or trial or within such further time as the court may in special circumstances allow, serves a notice on the prosecutor requiring attendance at the hearing or trial of the person who signed the document.
+>
+> (9) In this section “prescribed device” means device of a description specified in an order made by the Secretary of State.
+>
+> (10) The powers to make orders under subsections (3) and (9) above shall be exercisable by statutory instrument, which shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+#### 24 Alternative verdicts.
+
+For section 24 of the [^M19]Road Traffic Offenders Act 1988 there shall be substituted—
+
+> **24 Alternative verdicts: general.**
+>
+> (1) Where—
+>
+> (a) a person charged with an offence under a provision of the Road Traffic Act 1988 specified in the first column of the Table below (where the general nature of the offences is also indicated) is found not guilty of that offence, but
+>
+> (b) the allegations in the indictment or information (or in Scotland complaint) amount to or include an allegation of an offence under one or more of the provisions specified in the corresponding entry in the second column,
+>
+> he may be convicted of that offence or of one or more of those offences.
+>
+> |  |  |
+> |---|---|
+> | Offence charged | Alternative |
+> | Section 1 (causing death by dangerous driving) | Section 2 (dangerous driving) |
+> |  | Section 3 (careless, and inconsiderate, driving) |
+> | Section 2 (dangerous driving) | Section 3 (careless, and inconsiderate, driving) |
+> | Section 3A (causing death by careless driving when under influence of drink or drugs) | Section 3 (careless, and inconsiderate, driving) |
+> |  | Section 4(1) (driving when unfit to drive through drink or drugs) |
+> |  | Section 5(1)(a) (driving with excess alcohol in breath, blood or urine) |
+> |  | Section 7(6) (failing to provide specimen) |
+> | Section 4(1) (driving or attempting to drive when unfit to drive through drink or drugs) | Section 4(2) (being in charge of a vehicle when unfit to drive through drink or drugs) |
+> | Section 5(1)(a) (driving or attempting to drive with excess alcohol in breath, blood or urine) | Section 5(1)(b) (being in charge of a vehicle with excess alcohol in breath, blood or urine) |
+> | Section 28 (dangerous cycling) | Section 29 (careless, and inconsiderate, cycling) |
+>
+> (2) Where the offence with which a person is charged is an offence under section 3A of the Road Traffic Act 1988, subsection (1) above shall not authorise his conviction of any offence of attempting to drive.
+>
+> (3) Where a person is charged with having committed an offence under section 4(1) or 5(1)(a) of the Road Traffic Act 1988 by driving a vehicle, he may be convicted of having committed an offence under the provision in question by attempting to drive.
+>
+> (4) Where by virtue of this section a person is convicted before the Crown Court of an offence triable only summarily, the court shall have the same powers and duties as a magistrates’ court would have had on convicting him of that offence.
+>
+> (5) Where, in Scotland, by virtue of this section a person is convicted under solemn procedure of an offence triable only summarily, the penalty imposed shall not exceed that which would have been competent on a conviction under summary procedure.
+>
+> (6) This section has effect without prejudice to section 6(3) of the Criminal Law Act 1967 (alternative verdicts on trial on indictment), sections 61, 63, 64, 312 and 457A of the Criminal Procedure (Scotland) Act 1975 and section 23 of this Act.
+
+#### 25 Interim disqualification.
+
+For section 26 of the [^M20]Road Traffic Offenders Act 1988 (interim disqualification on committal for sentence in England and Wales) there shall be substituted—
+
+> **26 Interim disqualification.**
+>
+> (1) Where a magistrates’ court—
+>
+> (a) commits an offender to the Crown Court under subsection (1) of section 56 of the Criminal Justice Act 1967, or any enactment to which that section applies, or
+>
+> (b) remits an offender to another magistrates’ court under section 39 of the Magistrates’ Courts Act 1980,
+>
+> to be dealt with for an offence involving obligatory or discretionary disqualification, it may order him to be disqualified until he has been dealt with in respect of the offence.
+>
+> (2) Where a court in England and Wales—
+>
+> (a) defers passing sentence on an offender under section 1 of the Powers of Criminal Courts Act 1973 in respect of an offence involving obligatory or discretionary disqualification, or
+>
+> (b) adjourns after convicting an offender of such an offence but before dealing with him for the offence,
+>
+> it may order the offender to be disqualified until he has been dealt with in respect of the offence.
+>
+> (3) Where a court in Scotland—
+>
+> (a) adjourns a case under section 179 or section 380 of the Criminal Procedure (Scotland) Act 1975 (for inquiries to be made or to determine the most suitable method of dealing with the offender);
+>
+> (b) remands a person in custody or on bail under section 180 or section 381 of the Criminal Procedure (Scotland) Act 1975 (to enable a medical examination and report to be made);
+>
+> (c) defers sentence under section 219 or section 432 of the Criminal Procedure (Scotland) Act 1975;
+>
+> (d) remits a convicted person to the High Court for sentence under section 104 of the Criminal Procedure (Scotland) Act 1975,
+>
+> in respect of an offence involving obligatory or discretionary disqualification, it may order the accused to be disqualified until he has been dealt with in respect of the offence.
+>
+> (4) Subject to subsection (5) below, an order under this section shall cease to have effect at the end of the period of six months beginning with the day on which it is made, if it has not ceased to have effect before that time.
+>
+> (5) In Scotland, where a person is disqualified under this section where section 219 or section 432 of the Criminal Procedure (Scotland) Act 1975 (deferred sentence) applies and the period of deferral exceeds 6 months, subsection (4) above shall not prevent the imposition under this section of any period of disqualification which does not exceed the period of deferral.
+>
+> (6) Where a court orders a person to be disqualified under this section (“the first order”), no court shall make a further order under this section in respect of the same offence or any offence in respect of which an order could have been made under this section at the time the first order was made.
+>
+> (7) Where a court makes an order under this section in respect of any person it must—
+>
+> (a) require him to produce to the court any licence held by him and its counterpart, and
+>
+> (b) retain the licence and counterpart until it deals with him or (as the case may be) cause them to be sent to the clerk of the court which is to deal with him.
+>
+> (8) If the holder of the licence has not caused it and its counterpart to be delivered, or has not posted them, in accordance with section 7 of this Act and does not produce the licence and counterpart as required under subsection (7) above, then he is guilty of an offence.
+>
+> (9) Subsection (8) above does not apply to a person who—
+>
+> (a) satisfies the court that he has applied for a new licence and has not received it, or
+>
+> (b) surrenders to the court a current receipt for his licence and its counterpart issued under section 56 of this Act, and produces the licence and counterpart to the court immediately on their return.
+>
+> (10) Where a court makes an order under this section in respect of any person, sections 44(1) and 47(2) of this Act and section 109(3) of the Road Traffic Act 1988 (Northern Ireland drivers’ licences) shall not apply in relation to the order, but—
+>
+> (a) the court must send notice of the order to the Secretary of State, and
+>
+> (b) if the court which deals with the offender determines not to order him to be disqualified under section 34 or 35 of this Act, it must send notice of the determination to the Secretary of State.
+>
+> (11) A notice sent by a court to the Secretary of State in pursuance of subsection (10) above must be sent in such manner and to such address and contain such particulars as the Secretary of State may determine.
+>
+> (12) Where on any occasion a court deals with an offender—
+>
+> (a) for an offence in respect of which an order was made under this section, or
+>
+> (b) for two or more offences in respect of any of which such an order was made,
+>
+> any period of disqualification which is on that occasion imposed under section 34 or 35 of this Act shall be treated as reduced by any period during which he was disqualified by reason only of an order made under this section in respect of any of those offences.
+>
+> (13) Any reference in this or any other Act (including any Act passed after this Act) to the length of a period of disqualification shall, unless the context otherwise requires, be construed as a reference to its length before any reduction under this section.
+>
+> (14) In relation to licences which came into force before 1st June 1990, the references in this section to counterparts of licences shall be disregarded.
+
+### Penalties
+
+#### 26 Amendment of Schedule 2 to the Road Traffic Offenders Act 1988.
+
+Schedule 2 to this Act, which amends Schedule 2 to the [^M21]Road Traffic Offenders Act 1988 (prosecution and punishment of offences), shall have effect.
+
+#### 27 Penalty points to be attributed to offences.
+
+For section 28 of the [^M22]Road Traffic Offenders Act 1988 there shall be substituted—
+
+> **28 Penalty points to be attributed to an offence.**
+>
+> (1) Where a person is convicted of an offence involving obligatory endorsement, then, subject to the following provisions of this section, the number of penalty points to be attributed to the offence is—
+>
+> (a) the number shown in relation to the offence in the last column of Part I or Part II of Schedule 2 to this Act, or
+>
+> (b) where a range of numbers is shown, a number within that range.
+>
+> (2) Where a person is convicted of an offence committed by aiding, abetting, counselling or procuring, or inciting to the commission of, an offence involving obligatory disqualification, then, subject to the following provisions of this section, the number of penalty points to be attributed to the offence is ten.
+>
+> (3) Where both a range of numbers and a number followed by the words “(fixed penalty)” is shown in the last column of Part I of Schedule 2 to this Act in relation to an offence, that number is the number of penalty points to be attributed to the offence for the purposes of sections 57(5) and 77(5) of this Act; and, where only a range of numbers is shown there, the lowest number in the range is the number of penalty points to be attributed to the offence for those purposes.
+>
+> (4) Where a person is convicted (whether on the same occasion or not) of two or more offences committed on the same occasion and involving obligatory endorsement, the total number of penalty points to be attributed to them is the number or highest number that would be attributed on a conviction of one of them (so that if the convictions are on different occasions the number of penalty points to be attributed to the offences on the later occasion or occasions shall be restricted accordingly).
+>
+> (5) In a case where (apart from this subsection) subsection (4) above would apply to two or more offences, the court may if it thinks fit determine that that subsection shall not apply to the offences (or, where three or more offences are concerned, to any one or more of them).
+>
+> (6) Where a court makes such a determination it shall state its reasons in open court and, if it is a magistrates’ court, or in Scotland a court of summary jurisdiction, shall cause them to be entered in the register (in Scotland, record) of its proceedings.
+>
+> (7) The Secretary of State may by order made by statutory instrument—
+>
+> (a) alter a number or range of numbers shown in relation to an offence in the last column of Part I or Part II of Schedule 2 to this Act (by substituting one number or range for another, a number for a range, or a range for a number),
+>
+> (b) where a range of numbers is shown in relation to an offence in the last column of Part I, add or delete a number together with the words “(fixed penalty)”, and
+>
+> (c) alter the number of penalty points shown in subsection (2) above;
+>
+> and an order under this subsection may provide for different numbers or ranges of numbers to be shown in relation to the same offence committed in different circumstances.
+>
+> (8) Where the Secretary of State exercises his power under subsection (7) above by substituting or adding a number which appears together with the words “(fixed penalty)”, that number shall not exceed the lowest number in the range shown in the same entry.
+>
+> (9) No order shall be made under subsection (7) above unless a draft of it has been laid before and approved by resolution of each House of Parliament.
+
+#### 28 Penalty points to be taken into account on conviction.
+
+For section 29 of the [^M23]Road Traffic Offenders Act 1988 there shall be substituted—
+
+> **29 Penalty points to be taken into account on conviction.**
+>
+> (1) Where a person is convicted of an offence involving obligatory endorsement, the penalty points to be taken into account on that occasion are (subject to subsection (2) below)—
+>
+> (a) any that are to be attributed to the offence or offences of which he is convicted, disregarding any offence in respect of which an order under section 34 of this Act is made, and
+>
+> (b) any that were on a previous occasion ordered to be endorsed on the counterpart of any licence held by him, unless the offender has since that occasion and before the conviction been disqualified under section 35 of this Act.
+>
+> (2) If any of the offences was committed more than three years before another, the penalty points in respect of that offence shall not be added to those in respect of the other.
+>
+> (3) In relation to licences which came into force before 1st June 1990, the reference in subsection (1) above to the counterpart of a licence shall be construed as a reference to the licence itself.
+
+#### 29 Disqualification for certain offences.
+
+(1) Section 34 of the Road Traffic Offenders Act 1988 (disqualification for certain offences) shall be amended as follows.
+
+(2) For subsection (2) there shall be substituted—
+
+> (2) Where a person is convicted of an offence involving discretionary disqualification, and either—
+>
+> (a) the penalty points to be taken into account on that occasion number fewer than twelve, or
+>
+> (b) the offence is not one involving obligatory endorsement,
+>
+> the court may order him to be disqualified for such period as the court thinks fit.
+
+(3) In subsection (3) before paragraph (a) there shall be inserted—
+
+> (aa) section 3A (causing death by careless driving when under the influence of drink or drugs),
+
+.
+
+(4) For subsection (4) there shall be substituted—
+
+> (4) Subject to subsection (3) above, subsection (1) above shall apply as if the reference to twelve months were a reference to two years—
+>
+> (a) in relation to a person convicted of—
+>
+> (i) manslaughter, or in Scotland culpable homicide, or
+>
+> (ii) an offence under section 1 of the Road Traffic Act 1988 (causing death by dangerous driving), or
+>
+> (iii) an offence under section 3A of that Act (causing death by careless driving while under the influence of drink or drugs), and
+>
+> (b) in relation to a person on whom more than one disqualification for a fixed period of 56 days or more has been imposed within the three years immediately preceding the commission of the offence.
+>
+> (4A) For the purposes of subsection (4)(b) above there shall be disregarded any disqualification imposed under section 26 of this Act or section 44 of the Powers of Criminal Courts Act 1973 or section 223A or 436A of the Criminal Procedure (Scotland) Act 1975 (offences committed by using vehicles) and any disqualification imposed in respect of an offence of stealing a motor vehicle, an offence under section 12 or 25 of the Theft Act 1968, an offence under section 178 of the Road Traffic Act 1988, or an attempt to commit such an offence.
+
+#### 30 Courses for drink-drive offenders.
+
+[^F1]After section 34 of the [^M24][^F1]Road Traffic Offenders Act 1988 there shall be inserted—
+
+> **[^F1]34A [^F1] Reduced disqualification period for attendance on courses.**
+>
+> [^F1]1 [^F1]This section applies where—
+>
+> [^F1]a [^F1]a person is convicted of an offence under section 3A (causing death by careless driving when under influence of drink or drugs), 4 (driving or being in charge when under influence of drink or drugs), 5 (driving or being in charge with excess alcohol) or 7 (failing to provide a specimen) of the Road Traffic Act 1988, and
+>
+> [^F1]b [^F1]the court makes an order under section 34 of this Act disqualifying him for a period of not less than twelve months.
+>
+> [^F1]2 [^F1]Where this section applies, the court may make an order that the period of disqualification imposed under section 34 shall be reduced if, by a date specified in the order under this section, the offender satisfactorily completes a course approved by the Secretary of State for the purposes of this section and specified in the order.
+>
+> [^F1]3 [^F1]The reduction made by an order under this section in a period of disqualification imposed under section 34 shall be a period specified in the order of not less than three months and not more than one quarter of the unreduced period (and accordingly where the period imposed under section 34 is twelve months, the reduced period shall be nine months).
+>
+> [^F1]4 [^F1]The court shall not make an order under this section unless—
+>
+> [^F1]a [^F1]it is satisfied that a place on the course specified in the order will be available for the offender,
+>
+> [^F1]b [^F1]the offender appears to the court to be of or over the age of 17,
+>
+> [^F1]c [^F1]the court has explained the effect of the order to the offender in ordinary language, and has informed him of the amount of the fees for the course and of the requirement that he must pay them before beginning the course, and
+>
+> [^F1]d [^F1]the offender has agreed that the order should be made.
+>
+> [^F1]5 [^F1]The date specified in an order under this section as the latest date for completion of a course must be at least two months before the last day of the period of disqualification as reduced by the order.
+>
+> [^F1]6 [^F1]An order under this section shall name the petty sessions area (or in Scotland the sheriff court district or, where an order has been made under this section by a stipendiary magistrate, the commission area) in which the offender resides or will reside.
+>
+> **[^F1]34B [^F1] Certificates of completion of courses.**
+>
+> [^F1]1 [^F1]An offender shall be regarded for the purposes of section 34A of this Act as having completed a course satisfactorily if (and only if) a certificate that he has done so is received by the clerk of the supervising court before the end of the period of disqualification imposed under section 34.
+>
+> [^F1]2 [^F1]If the certificate referred to in subsection (1) above is received by the clerk of the supervising court before the end of the period of disqualification imposed under section 34 but after the end of the period as it would have been reduced by the order, the order shall have effect as if the reduced period ended with the day on which the certificate is received by the clerk.
+>
+> [^F1]3 [^F1]The certificate referred to in subsection (1) above shall be a certificate in such form, containing such particulars, and given by such person, as may be prescribed by, or determined in accordance with, regulations made by the Secretary of State.
+>
+> [^F1]4 [^F1]A course organiser shall give the certificate mentioned in subsection (1) above to the offender not later than fourteen days after the date specified in the order as the latest date for completion of the course, unless the offender fails to make due payment of the fees for the course, fails to attend the course in accordance with the organiser’s reasonable instructions, or fails to comply with any other reasonable requirements of the organiser.
+>
+> [^F1]5 [^F1]Where a course organiser decides not to give the certificate mentioned in subsection (1) above, he shall give written notice of his decision to the offender as soon as possible, and in any event not later than fourteen days after the date specified in the order as the latest date for completion of the course.
+>
+> [^F1]6 [^F1]An offender to whom a notice is given under subsection (5) above may, within such period as may be prescribed by rules of court, apply to the supervising court for a declaration that the course organiser’s decision not to give a certificate was contrary to subsection (4) above; and if the court grants the application section 34A of this Act shall have effect as if the certificate had been duly received by the clerk of the court.
+>
+> [^F1]7 [^F1]If fourteen days after the date specified in the order as the latest date for completion of the course the course organiser has given neither the certificate mentioned in subsection (1) above nor a notice under subsection (5) above, the offender may, within such period as may be prescribed by rules of court, apply to the supervising court for a declaration that the course organiser is in default; and if the court grants the application section 34A of this Act shall have effect as if the certificate had been duly received by the clerk of the court.
+>
+> [^F1]8 [^F1]A notice under subsection (5) above shall specify the ground on which it is given, and the Secretary of State may by regulations make provision as to the form of notices under that subsection and as to the circumstances in which they are to be treated as given.
+>
+> [^F1]9 [^F1]Where the clerk of a court receives a certificate of the kind referred to in subsection (1) above, or a court grants an application under subsection (6) or (7) above, the clerk or court must send notice of that fact to the Secretary of State; and the notice must be sent in such manner and to such address, and must contain such particulars, as the Secretary of State may determine.
+>
+> **[^F1]34C [^F1] Provisions supplementary to sections 34A and 34B.**
+>
+> [^F1]1 [^F1]The Secretary of State may issue guidance to course organisers, or to any category of course organiser as to the conduct of courses approved for the purposes of section 34A of this Act; and—
+>
+> [^F1]a [^F1]course organisers shall have regard to any guidance given to them under this subsection, and
+>
+> [^F1]b [^F1]in determining for the purposes of section 34B(6) whether any instructions or requirements of an organiser were reasonable, a court shall have regard to any guidance given to him under this subsection.
+>
+> [^F1]2 [^F1]In sections 34A and 34B and this section—
+>
+> - [^F1]“[^F1]course organiser[^F1]”, in relation to a course, means the person who, in accordance with regulations made by the Secretary of State, is responsible for giving the certificates mentioned in section 34B(1) in respect of the completion of the course;
+>
+> - [^F1]“[^F1]petty sessions area[^F1]” has the same meaning as in the Magistrates’ Courts Act 1980;
+>
+> - [^F1]“[^F1]supervising court[^F1]”, in relation to an order under section 34A, means—
+>
+>   - (a) [^F1]in England and Wales, a magistrates’ court acting for the petty sessions area named in the order as the area where the offender resides or will reside;
+>   - (b) [^F1]in Scotland, the sheriff court for the district where the offender resides or will reside or, where the order is made by a stipendiary magistrate and the offender resides or will reside within his commission area, the district court for that area,
+>
+>   [^F1]and any reference to the clerk of a magistrates’ court is a reference to the clerk to the justices for the petty sessions area for which the court acts.
+>
+> [^F1]3 [^F1]Any power to make regulations under section 34B or this section—
+>
+> [^F1]a [^F1]includes power to make different provision for different cases, and to make such incidental or supplemental provision as appears to the Secretary of State to be necessary or expedient;
+>
+> [^F1]b [^F1]shall be exercisable by statutory instrument, which shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+#### [^F2]31 Experimental period for section 30.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 32 Disqualification until test is passed.
+
+For section 36 of the [^M25]Road Traffic Offenders Act 1988 there shall be substituted—
+
+> **36 Disqualification until test is passed.**
+>
+> (1) Where this subsection applies to a person the court must order him to be disqualified until he passes the appropriate driving test.
+>
+> (2) Subsection (1) above applies to a person who is disqualified under section 34 of this Act on conviction of—
+>
+> (a) manslaughter, or in Scotland culpable homicide, by the driver of a motor vehicle, or
+>
+> (b) an offence under section 1 (causing death by dangerous driving) or section 2 (dangerous driving) of the Road Traffic Act 1988.
+>
+> (3) Subsection (1) above also applies—
+>
+> (a) to a person who is disqualified under section 34 or 35 of this Act in such circumstances or for such period as the Secretary of State may by order prescribe, or
+>
+> (b) to such other persons convicted of such offences involving obligatory endorsement as may be so prescribed.
+>
+> (4) Where a person to whom subsection (1) above does not apply is convicted of an offence involving obligatory endorsement, the court may order him to be disqualified until he passes the appropriate driving test (whether or not he has previously passed any test).
+>
+> (5) In this section—
+>
+> - “appropriate driving test” means—
+>
+> (a) an extended driving test, where a person is convicted of an offence involving obligatory disqualification or is disqualified under section 35 of this Act,
+>
+> (b) a test of competence to drive, other than an extended driving test, in any other case,
+>
+> - “extended driving test” means a test of competence to drive prescribed for the purposes of this section, and
+> - “test of competence to drive” means a test prescribed by virtue of section 89(3) of the Road Traffic Act 1988.
+>
+> (6) In determining whether to make an order under subsection (4) above, the court shall have regard to the safety of road users.
+>
+> (7) Where a person is disqualified until he passes the extended driving test—
+>
+> (a) any earlier order under this section shall cease to have effect, and
+>
+> (b) a court shall not make a further order under this section while he is so disqualified.
+>
+> (8) Subject to subsection (9) below, a disqualification by virtue of an order under this section shall be deemed to have expired on production to the Secretary of State of evidence, in such form as may be prescribed by regulations under section 105 of the Road Traffic Act 1988, that the person disqualified has passed the test in question since the order was made.
+>
+> (9) A disqualification shall be deemed to have expired only in relation to vehicles of such classes as may be prescribed in relation to the test passed by regulations under that section.
+>
+> (10) Where there is issued to a person a licence on the counterpart of which are endorsed particulars of a disqualification under this section, there shall also be endorsed the particulars of any test of competence to drive that he has passed since the order of disqualification was made.
+>
+> (11) For the purposes of an order under this section, a person shall be treated as having passed a test of competence to drive other than an extended driving test if he passes a corresponding test conducted—
+>
+> (a) under the law of Northern Ireland, the Isle of Man, any of the Channel Islands, another member State, Gibraltar or a designated country or territory (as defined by section 89(11) of the Road Traffic Act 1988), or
+>
+> (b) for the purposes of obtaining a British Forces licence (as defined by section 88(8) of that Act);
+>
+> and accordingly subsections (8) to (10) above shall apply in relation to such a test as they apply in relation to a test prescribed by virtue of section 89(3) of that Act.
+>
+> (12) This section is subject to section 48 of this Act.
+>
+> (13) The power to make an order under subsection (3) above shall be exercisable by statutory instrument; and no such order shall be made unless a draft of it has been laid before and approved by resolution of each House of Parliament.
+>
+> (14) The Secretary of State shall not make an order under subsection (3) above after the end of 2001 if he has not previously made such an order.
+
+#### 33 Short periods of disqualification.
+
+In section 37 of the [^M26]Road Traffic Offenders Act 1988 (effect of order of disqualification) after subsection (1) there shall be inserted—
+
+> (1A) Where—
+>
+> (a) the disqualification is for a fixed period shorter than 56 days in respect of an offence involving obligatory endorsement, or
+>
+> (b) the order is made under section 26 of this Act,
+>
+> subsection (1) above shall not prevent the licence from again having effect at the end of the period of disqualification.
+
+#### 34 Conditional offer of fixed penalty.
+
+For sections 75 to 77 of the [^M27]Road Traffic Offenders Act 1988 (which relate to Scotland only) there shall be substituted—
+
+> **Conditional offer of fixed penalty**
+>
+> **75 Issue of conditional offer.**
+>
+> (1) Where in England and Wales—
+>
+> (a) a constable has reason to believe that a fixed penalty offence has been committed, and
+>
+> (b) no fixed penalty notice in respect of the offence has been given under section 54 of this Act or fixed to a vehicle under section 62 of this Act,
+>
+> a notice under this section may be sent to the alleged offender by or on behalf of the chief officer of police.
+>
+> (2) Where in Scotland a procurator fiscal receives a report that—
+>
+> (a) an offence specified in Schedule 3 to this Act has been committed,
+>
+> (b) an offence specified in Schedule 5 to this Act has been committed,
+>
+> (c) an offence referred to in paragraph (a) or (b) above has been committed, being an offence of causing or permitting a vehicle to be used by another person in contravention of any provision made or any restriction or prohibition imposed by or under any enactment, or
+>
+> (d) an offence of aiding, abetting, counselling, procuring or inciting the commission of an offence referred to in this subsection, has been committed,
+>
+> he may send a notice under this section to the alleged offender.
+>
+> (3) Where in Scotland, a constable—
+>
+> (a) on any occasion has reason to believe that a person he finds is committing or has on that occasion committed a fixed penalty offence, he may hand to that person,
+>
+> (b) in any case has reason to believe that a fixed penalty offence has been committed, he or another person authorised in that respect by the chief constable may send to the alleged offender,
+>
+> a notice under this section.
+>
+> (4) Subsections (2) and (3) above shall not apply where a fixed penalty notice has been fixed to a vehicle under section 62 of this Act.
+>
+> (5) A notice under this section is referred to in this section and sections 76 and 77 as a “conditional offer”.
+>
+> (6) Where a person issues a conditional offer, he must notify the justices’ clerk, or in Scotland clerk of court, specified in it of its issue and its terms; and that clerk is referred to in this section and sections 76 and 77 as “the fixed penalty clerk”.
+>
+> (7) A conditional offer must—
+>
+> (a) give such particulars of the circumstances alleged to constitute the offence to which it relates as are necessary for giving reasonable information about the alleged offence,
+>
+> (b) state the amount of the fixed penalty for that offence, and
+>
+> (c) state that proceedings against the alleged offender cannot be commenced in respect of that offence until the end of the period of twenty-eight days following the date on which the conditional offer was issued or such longer period as may be specified in the conditional offer.
+>
+> (8) A conditional offer must indicate that if the following conditions are fulfilled, that is—
+>
+> (a) within the period of twenty-eight days following the date on which the offer was issued, or such longer period as may be specified in the offer, the alleged offender—
+>
+> (i) makes payment of the fixed penalty to the fixed penalty clerk, and
+>
+> (ii) where the offence to which the offer relates is an offence involving obligatory endorsement, at the same time delivers his licence and its counterpart to that clerk, and
+>
+> (b) where his licence and its counterpart are so delivered, that clerk is satisfied on inspecting them that, if the alleged offender were convicted of the offence, he would not be liable to be disqualified under section 35 of this Act,
+>
+> any liability to conviction of the offence shall be discharged.
+>
+> (9) For the purposes of the condition set out in subsection (8)(b) above, it shall be assumed, in the case of an offence in relation to which a range of numbers is shown in the last column of Part I of Schedule 2 to this Act, that the number of penalty points to be attributed to the offence would be the lowest in the range.
+>
+> (10) The Secretary of State may by order provide for offences to become or (as the case may be) to cease to be offences in respect of which a conditional offer may be sent under subsection (2)(b) above, and may make such modifications of the provisions of this Part of this Act as appear to him to be necessary for the purpose.
+>
+> (11) An offence committed by aiding, abetting, counselling, procuring or inciting the commission of an offence which is an offence involving obligatory endorsement is itself an offence involving obligatory endorsement for the purposes of the application of this Part of this Act in Scotland.
+>
+> (12) In relation to licences which came into force before 1st June 1990, the references in subsection (8) above to the counterpart of a licence shall be disregarded.
+>
+> **76 Effect of offer and payment of penalty.**
+>
+> (1) This section applies where a conditional offer has been sent to a person under section 75 of this Act.
+>
+> (2) No proceedings shall be brought against any person for the offence to which the conditional offer relates until—
+>
+> (a) in England and Wales, the chief officer of police, or
+>
+> (b) in Scotland, the procurator fiscal or (where the conditional offer was issued under section 75(3) of this Act) the chief constable,
+>
+> receives notice in accordance with subsection (4) or (5) below.
+>
+> (3) Where the alleged offender makes payment of the fixed penalty in accordance with the conditional offer, no proceedings shall be brought against him for the offence to which the offer relates.
+>
+> (4) Where—
+>
+> (a) the alleged offender tenders payment in accordance with the conditional offer and delivers his licence and its counterpart to the fixed penalty clerk, but
+>
+> (b) it appears to the clerk, on inspecting the licence and counterpart, that the alleged offender would be liable to be disqualified under section 35 of this Act if he were convicted of the offence to which the conditional offer relates,
+>
+> then subsection (3) above shall not apply and the clerk must return the licence and its counterpart to the alleged offender together with the payment and give notice that he has done so to the person referred to in subsection (2)(a) or (b) above.
+>
+> (5) Where, on the expiry of the period of twenty-eight days following the date on which the conditional offer was made or such longer period as may be specified in the offer, the conditions specified in the offer in accordance with section 75(8)(a) of this Act have not been fulfilled, the fixed penalty clerk must notify the person referred to in subsection (2)(a) or (b) above.
+>
+> (6) In determining for the purposes of subsection (4)(b) above whether a person convicted of an offence would be liable to disqualification under section 35, it shall be assumed, in the case of an offence in relation to which a range of numbers is shown in the last column of Part I of Schedule 2 to this Act, that the number of penalty points to be attributed to the offence would be the lowest in the range.
+>
+> (7) In any proceedings a certificate that by a date specified in the certificate payment of a fixed penalty was or was not received by the fixed penalty clerk shall, if the certificate purports to be signed by that clerk, be evidence, or in Scotland sufficient evidence, of the facts stated.
+>
+> (8) In relation to licences which came into force before 1st June 1990, the references in subsection (4) above to the counterpart of a licence shall be disregarded.
+>
+> (9) In Scotland, the Secretary of State may by regulations vary the provisions of subsection (2)(b) above.
+>
+> **77 Endorsement where penalty paid.**
+>
+> (1) Where—
+>
+> (a) in pursuance of a conditional offer a person (referred to in this section as the “licence holder”) makes payment of the fixed penalty to the fixed penalty clerk and delivers his licence and its counterpart to the clerk, and
+>
+> (b) the clerk is not required by subsection (4) of section 76 of this Act to return the licence and its counterpart to him and did not, before the payment was tendered, notify the person referred to in section 76(2)(a) or (b) of this Act under subsection (5) of that section,
+>
+> the clerk must forthwith endorse the relevant particulars on the counterpart of the licence and return it to the licence holder together with the licence.
+>
+> (2) Where it appears to a fixed penalty clerk in Scotland that there is an error in an endorsement made by virtue of this section on the counterpart of a licence he may amend the endorsement so as to correct the error; and the amended endorsement shall have effect and shall be treated for all purposes as if it had been correctly made on receipt of the fixed penalty.
+>
+> (3) Subject to subsection (4) below, where a cheque tendered in payment is subsequently dishonoured—
+>
+> (a) any endorsement made by a clerk under subsection (1) above remains effective, notwithstanding that the licence holder is still liable to prosecution in respect of the alleged offence to which the endorsement relates, and
+>
+> (b) the clerk must, upon the expiry of the period specified in the conditional offer or, if the period has expired, forthwith notify the person referred to in section 76(2)(a) or (b) of this Act that no payment has been made.
+>
+> (4) When proceedings are brought against a licence holder after a notice has been given in pursuance of subsection (3)(b) above, the court—
+>
+> (a) must order the removal of the fixed penalty endorsement from the counterpart of the licence, and
+>
+> (b) may, on finding the licence holder guilty, make any competent order of endorsement or disqualification and pass any competent sentence.
+>
+> (5) The reference in subsection (1) above to the relevant particulars is to—
+>
+> (a) particulars of the offence, including the date when it was committed, and
+>
+> (b) the number of penalty points to be attributed to the offence.
+>
+> (6) The fixed penalty clerk must send notice to the Secretary of State—
+>
+> (a) of any endorsement under subsection (1) above and of the particulars endorsed,
+>
+> (b) of any amendment under subsection (2) above, and
+>
+> (c) of any order under subsection (4)(a) above.
+>
+> (7) Where the counterpart of a person’s licence is endorsed under this section he shall be treated for the purposes of sections 13(4), 28, 29 and 45 of this Act and of the Rehabilitation of Offenders Act 1974 as if—
+>
+> (a) he had been convicted of the offence,
+>
+> (b) the endorsement had been made in pursuance of an order made on his conviction by a court under section 44 of this Act, and
+>
+> (c) the particulars of the offence endorsed by virtue of subsection (5)(a) above were particulars of his conviction of that offence.
+>
+> (8) In relation to any endorsement of the counterpart of a person’s licence under this section—
+>
+> (a) the reference in section 45(4) of this Act to the order for endorsement, and
+>
+> (b) the references in section 13(4) of this Act to any order made on a person’s conviction,
+>
+> are to be read as references to the endorsement itself.
+>
+> (9) In relation to licences which came into force before 1st June 1990, the references in this section to the counterpart of a licence shall be disregarded or, as the case may require, construed as references to the licence itself.
+
+### Miscellaneous
+
+#### 35 Disabled persons’ badges.
+
+(1) Section 21 of the [^M28]Chronically Sick and Disabled Persons Act 1970 (badges for display on motor vehicles used by disabled persons) shall be amended in accordance with subsections (2) to (5) below.
+
+(2) For subsections (2) and (3) there shall be substituted—
+
+> (2) A badge may be issued to a disabled person of any prescribed description resident in the area of the issuing authority for one or more vehicles driven by him or used by him as a passenger.
+
+(3) In subsection (4), the words “and any badge” onwards shall be omitted.
+
+(4) After subsection (4) there shall be inserted—
+
+> (4A) A badge issued under this section may be displayed only in such circumstances and in such manner as may be prescribed.
+>
+> (4B) A person who drives a motor vehicle on a road (within the meaning of the Road Traffic Act 1988) at a time when a badge of a form prescribed under this section is displayed on the vehicle is guilty of an offence unless the badge is issued under this section and displayed in accordance with regulations made under it.
+>
+> (4C) A person guilty of an offence under subsection (4B) above shall be liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+(5) In subsection (5), the words “and in the case” onwards shall be omitted.
+
+(6) In section 117 of the [^M29]Road Traffic Regulation Act 1984 (wrongful use of disabled person’s badge) for subsections (1) and (2) there shall be substituted—
+
+> (1) A person who at any time acts in contravention of, or fails to comply with, any provision of an order under this Act relating to the parking of motor vehicles is also guilty of an offence under this section if at that time—
+>
+> (a) there was displayed on the motor vehicle in question a badge of a form prescribed under section 21 of the Chronically Sick and Disabled Persons Act 1970, and
+>
+> (b) he was using the vehicle in circumstances where a disabled person’s concession would be available to a disabled person’s vehicle,
+>
+> but he shall not be guilty of an offence under this section if the badge was issued under that section and displayed in accordance with regulations made under it.
+
+#### [^F3]36 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F4]37 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F5]38 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 39 Disqualification in Scotland where vehicle used to commit offence.
+
+After each of sections 223 and 436 of the [^M30]Criminal Procedure (Scotland) Act 1975 there shall be added sections numbered 223A and 436A in the following terms—
+
+> **0 Disqualification in Scotland where vehicle used to commit offence.**
+>
+> (1) Where a person is convicted of an offence (other than one triable only summarily) and the court which passes sentence is satisfied that a motor vehicle was used for the purpose of committing, or facilitating the commission of that offence, the court may order him to be disqualified for such period as the court thinks fit from holding or obtaining a licence to drive a motor vehicle granted under Part III of the Road Traffic Act 1988.
+>
+> (2) A court which makes an order under this section disqualifying a person from holding or obtaining a licence shall require him to produce any such licence held by him and its counterpart.
+>
+> (3) Any reference in this section to facilitating the commission of an offence shall include a reference to the taking of any steps after it has been committed for the purpose of disposing of any property to which it relates or of avoiding apprehension or detection.
+>
+> (4) In relation to licences which came into force before 1st June 1990, the reference in subsection (2) above to the counterpart of a licence shall be disregarded.
+
+#### 40 Power to install equipment for detection of traffic offences.
+
+(1) In Part V of the [^M31]Highways Act 1980 immediately before section 96 there shall be inserted—
+
+> **95A Power to install equipment for detection of traffic offences.**
+>
+> A highway authority may install and maintain on or near a highway structures and equipment for the detection of traffic offences.
+
+(2) In Part IV of the [^M32]Roads (Scotland) Act 1984 after section 49 there shall be inserted—
+
+> **Equipment for detection of traffic offences**
+>
+> **49A Power to install equipment for detection of traffic offences.**
+>
+> A roads authority may install and maintain on or near a road structures and equipment for the detection of traffic offences.
+
+#### 41 Variation of charges at off-street parking places.
+
+After section 35B of the [^M33]Road Traffic Regulation Act 1984 there shall be inserted—
+
+> **35C Variation of charges at off-street parking places.**
+>
+> (1) Where an order under section 35(1)(iii) of this Act makes provision as to the charges to be paid in connection with the use of off-street parking places, the authority making that order may vary those charges by notice given under this section.
+>
+> (2) The variation of any such charges by notice is not to be taken to prejudice any power to vary those charges by order under section 35 of this Act.
+>
+> (3) The Secretary of State may by regulations make provision as to the procedure to be followed by any local authority giving notice under this section.
+>
+> (4) The regulations may, in particular, make provision with respect to—
+>
+> (a) the publication, where an authority propose to give notice, of details of their proposal;
+>
+> (b) the form and manner in which notice is to be given; and
+>
+> (c) the publication of notices.
+>
+> (5) In giving any notice under this section a local authority shall comply with the regulations.
+
+#### 42 Variation of charges at designated parking places.
+
+After section 46 of the Road Traffic Regulation Act 1984 (which deals with charges at, and regulation of, parking places) there shall be inserted—
+
+> **46A Variation of charges at designated parking places.**
+>
+> (1) Where, by virtue of section 46 of this Act, any charges have been prescribed by a designation order or by an order under that section, the authority making that order may vary those charges by notice given under this section.
+>
+> (2) The variation of any such charges by notice is not to be taken to prejudice any power to vary those charges by order under section 46 of this Act.
+>
+> (3) The Secretary of State may by regulations make provision as to the procedure to be followed by any local authority giving notice under this section.
+>
+> (4) The regulations may, in particular, make provision with respect to—
+>
+> (a) the publication, where an authority propose to give notice, of details of their proposal;
+>
+> (b) the form and manner in which notice is to be given; and
+>
+> (c) the publication of notices.
+>
+> (5) In giving any notice under this section a local authority shall comply with the regulations.
+
+#### 43 Permitted and special parking areas outside London.
+
+[^F6]1 [^F6]Schedule 3 shall have effect for the purpose of making provision with respect to areas outside London corresponding to that made with respect to London, and areas within London, under sections 63 to 79 of this Act.
+
+[^F6]2 [^F6]In this section “[^F6]London[^F6]” has the same meaning as it has in Part II of this Act.
+
+#### 44 Parking attendants.
+
+(1) After section 63 of the [^M34]Road Traffic Regulation Act 1984, there shall be inserted—
+
+> **Parking attendants**
+>
+> **63A Parking attendants.**
+>
+> (1) A local authority may provide for the supervision of parking places within their area by individuals to be known as parking attendants.
+>
+> (2) Parking attendants shall also have such other functions in relation to stationary vehicles as may be conferred by or under any other enactment.
+>
+> (3) A parking attendant shall be—
+>
+> (a) an individual employed by the authority; or
+>
+> (b) where the authority have made arrangements with any person for the purposes of this section, an individual employed by that person to act as a parking attendant.
+>
+> (4) Parking attendants in Greater London shall wear such uniform as the Secretary of State may determine when exercising prescribed functions, and shall not exercise any of those functions when not in uniform.
+>
+> (5) In this section “local authority” and “parking place” have the meanings given by section 32(4) of this Act.
+
+(2) In section 35 of that Act (provisions as to use of parking places provided under section 32 or 33), subsection (9) shall be omitted.
+
+#### 45 Variable speed limits.
+
+(1) Section 84 of the Road Traffic Regulation Act 1984 (speed limits on roads other than restricted roads), shall be amended as follows.
+
+(2) For subsection (1) there shall be substituted—
+
+> (1) An order made under this subsection as respects any road may prohibit—
+>
+> (a) the driving of motor vehicles on that road at a speed exceeding that specified in the order,
+>
+> (b) the driving of motor vehicles on that road at a speed exceeding that specified in the order during periods specified in the order, or
+>
+> (c) the driving of motor vehicles on that road at a speed exceeding the speed for the time being indicated by traffic signs in accordance with the order.
+>
+> (1A) An order made by virtue of subsection (1)(c) above may—
+>
+> (a) make provision restricting the speeds that may be indicated by traffic signs or the periods during which the indications may be given, and
+>
+> (b) provide for the indications to be given only in such circumstances as may be determined by or under the order;
+>
+> but any such order must comply with regulations made under subsection (1B) below, except where the Secretary of State authorises otherwise in a particular case.
+>
+> (1B) The Secretary of State may make regulations governing the provision which may be made by orders of local authorities under subsection (1)(c) above, and any such regulations may in particular—
+>
+> (a) prescribe the circumstances in which speed limits may have effect by virtue of an order,
+>
+> (b) prescribe the speed limits which may be specified in an order, and
+>
+> (c) make transitional provision and different provision for different cases.
+
+(3) In subsection (3) for the words “under subsection (1)” there shall be substituted the words “ made by virtue of subsection (1)(a) ”.
+
+(4) At the end there shall be added—
+
+> (6) Any reference in a local Act to roads subject to a speed limit shall, unless the contrary intention appears, be treated as not including a reference to roads subject to a speed limit imposed only by virtue of subsection (1)(b) or (c) above.
+
+#### 46 Tramcars and trolley vehicles.
+
+(1) After section 141 of the [^M35]Road Traffic Regulation Act 1984 (tramcars and trolley vehicles) there shall be inserted—
+
+> **141A Tramcars and trolley vehicles: regulations.**
+>
+> (1) The Secretary of State may by regulations provide that such of the provisions mentioned in subsection (2) below as are specified in the regulations shall not apply, or shall apply with modifications—
+>
+> (a) to all tramcars or to tramcars of any specified class, or
+>
+> (b) to all trolley vehicles or to trolley vehicles of any specified class.
+>
+> (2) The provisions referred to in subsection (1) above are the provisions of sections 1 to 14, 18 and 81 to 89 of this Act.
+>
+> (3) Regulations under this section—
+>
+> (a) may make different provision for different cases,
+>
+> (b) may include such transitional provisions as appear to the Secretary of State to be necessary or expedient, and
+>
+> (c) may make such amendments to any special Act as appear to the Secretary of State to be necessary or expedient in consequence of the regulations or in consequence of the application to any tramcars or trolley vehicles of any of the provisions mentioned in subsection (2) above.
+>
+> (4) In this section—
+>
+> - “special Act” means a local Act of Parliament passed before the commencement of this section which authorises or regulates the use of tramcars or trolley vehicles;
+> - “tramcar” includes any carriage used on any road by virtue of an order under the Light Railways Act 1896; and
+> - “trolley vehicle” means a mechanically propelled vehicle adapted for use on roads without rails under power transmitted to it from some external source (whether or not there is in addition a source of power on board the vehicle).
+
+(2) After section 193 of the [^M36]Road Traffic Act 1988 (exemptions for tramcars, trolley vehicles etc) there shall be inserted—
+
+> **193A Tramcars and trolley vehicles.**
+>
+> (1) The Secretary of State may by regulations provide that such of the provisions mentioned in subsection (2) below as are specified in the regulations shall not apply, or shall apply with modifications—
+>
+> (a) to all tramcars or to tramcars of any specified class, or
+>
+> (b) to all trolley vehicles or to trolley vehicles of any specified class.
+>
+> (2) The provisions referred to in subsection (1) above are the provisions of—
+>
+> (a) sections 12, 40A to 42, 47, 48, 66, 68 to 73, 75 to 79, 83, 87 to 109, 143 to 165, 168, 170, 171, 178, 190 and 191 of this Act, and
+>
+> (b) sections 1, 2, 7, 8, 22, 25 to 29, 31, 32, 34 to 48, 96 and 97 of the Road Traffic Offenders Act 1988 (provisions requiring warning of prosecution etc and provisions connected with the licensing of drivers).
+>
+> (3) Regulations under this section—
+>
+> (a) may make different provision for different cases,
+>
+> (b) may include such transitional provisions as appear to the Secretary of State to be necessary or expedient, and
+>
+> (c) may make such amendments to any special Act as appear to the Secretary of State to be necessary or expedient in consequence of the regulations or in consequence of the application to any tramcars or trolley vehicles of any of the provisions mentioned in subsection (2) above.
+>
+> (4) In this section “special Act” means a local Act of Parliament passed before the commencement of this section which authorises or regulates the use of tramcars or trolley vehicles.
+
+#### 47 Applications for licences to drive hackney carriages etc.
+
+[^F7]1 [^F7]Part II of the [^M37][^F7]Local Government (Miscellaneous Provisions) Act 1976 (including that Part as it applies in any area at the commencement of this section) shall have effect with the insertion of the following subsection after subsection (1) of each of section 51 (licensing of drivers of private hire vehicles) and section 59 (qualifications for drivers of hackney carriages)—
+
+> [^F7]1A [^F7]For the purpose of satisfying themselves as to whether an applicant is a fit and proper person to hold a driver’s licence, a council may send to the chief officer of police for the police area in which the council is situated—
+>
+> [^F7]a [^F7]a copy of that person’s application, and
+>
+> [^F7]b [^F7]a request for the chief officer’s observations;
+>
+> [^F7]and the chief officer shall respond to the request.
+
+[^F7]2 [^F7]Where any local Act contains a provision requiring a district council to be satisfied as to the fitness of an applicant to hold a licence to drive a private hire vehicle or a hackney carriage, the council may send to the chief officer of police for the police area in which the council is situated—
+
+[^F7]a [^F7]a copy of that person’s application, and
+
+[^F7]b [^F7]a request for the chief officer’s observations;
+
+[^F7]and the chief officer shall respond to the request.
+
+[^F7][[^F8]3 [^F7]In subsection (2), the reference to a district council shall be read in relation to Wales as including a reference to a county council or county borough council.]
+
+#### 48 Minor and consequential amendments.
+
+Schedule 4 to this Act, which makes minor amendments and amendments consequential on the preceding provisions of this Act, shall have effect.
+
+#### [^F9]49 Omission of enactments not brought into force.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Part II — Traffic In London
+
+### Priority routes
+
+#### [^F10]50 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F11]51 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 52 The Traffic Director for London.
+
+(1) The Secretary of State shall appoint a person to be known as the Traffic Director for London (in this Act referred to as “the Director”).
+
+(2) Schedule 5 to this Act shall have effect with respect to the Director.
+
+(3) In addition to the specific duties imposed on him by this or any other enactment, the Director shall have the general duty—
+
+(a) of co-ordinating the introduction and maintenance of traffic management measures taken by highway authorities in relation to priority routes established under this Part of this Act; and
+
+(b) of monitoring the operation of those measures.
+
+(4) The Director shall keep under review the manner in which the London authorities exercise their functions under Part III of the [^M38]New Roads and Street Works Act 1991 in relation to priority routes or roads which, in his opinion, are likely to affect traffic using any priority route.
+
+(5) The Secretary of State shall set objectives which he expects the Director to meet in exercising his functions.
+
+(6) The Secretary of State shall publish, in such manner as he considers appropriate, any objectives which he sets under subsection (5) above.
+
+(7) The Director shall exercise his functions—
+
+(a) so as to meet any such objectives, so far as it is reasonably practicable for him to do so; and
+
+(b) in accordance with any directions which the Secretary of State may from time to time see fit to give him.
+
+(8) Any objectives set for the Director under subsection (5) above and any directions given to him under subsection (7) above may be specific or general.
+
+(9) The Secretary of State shall publish, in such manner as he considers appropriate, any directions which he gives to the Director under subsection (7) above.
+
+#### [^F12]53 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Local plans and trunk road local plans
+
+#### [^F13]54 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F14]55 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F15]56 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F16]57 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F17]58 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 59 Variation of local plans.
+
+(1) A London authority may vary their local plan, but only with the written consent of the Director.
+
+(2) The Director may give a direction to any London authority requiring them to vary their local plan in such manner as may be specified in the direction.
+
+(3) In varying their local plan, a London authority shall have regard to the Secretary of State’s traffic management guidance and to the network plan.
+
+(4) Before varying their local plan, a London authority shall consult—
+
+(a) the relevant Commissioner or, if appropriate, both Commissioners;
+
+(b) London Regional Transport;
+
+(c) such organisations representing the interests of people with a disability who may be affected by the plan as appear to the authority to be appropriate; and
+
+(d) any other London authority within whose area there is situated any road which is not a priority route but which is, in the authority’s opinion, likely to be affected by the proposed variation.
+
+(5) Where a London authority fail, within a reasonable time, to comply with any direction given under subsection (2) above, the Director may vary the local plan on their behalf.
+
+(6) Before varying a local plan on behalf of a London authority the Director shall consult—
+
+(a) that authority;
+
+(b) the relevant Commissioner or, if appropriate, both Commissioners;
+
+(c) London Regional Transport;
+
+(d) such organisations representing the interests of people with a disability who may be affected by the plan as appear to the Director to be appropriate; and
+
+(e) any other London authority within whose area there is situated any road which is not a priority route but which is, in his opinion, likely to be affected by the proposed variation.
+
+(7) Any reasonable administrative expenses incurred by the Director under subsection (5) above shall be recoverable by him from the London authority concerned as a civil debt.
+
+#### [^F18]60 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F19]61 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F20]62 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Parking in London
+
+#### [^F21]63 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 64 Charges at designated parking places.
+
+(1) In section 46 of the [^M39]Road Traffic Regulation Act 1984 (charges at, and regulation of, designated parking places), in subsection (1) after the word “made” there shall be inserted the words “ with respect to any parking place outside Greater London ”.
+
+(2) After subsection (1) of that section there shall be inserted the following subsection—
+
+> (1A) Subject to Parts I to III of Schedule 9 to this Act, where the authority by whom a designation order is made with respect to any parking place in Greater London impose charges to be paid for vehicles left in a parking place designated by the order, those charges shall be prescribed by the designation order or by a separate order made by the authority.
+
+#### 65 Contravention of certain orders relating to parking places in London not to be criminal offence.
+
+[^F22]1 [^F22]In section 47 of the Road Traffic Regulation Act 1984 (offences relating to designated parking places) the words [^F22]“ ;but this subsection does not apply in relation to any designated parking place in Greater London ”[^F22] shall be added at the end of subsection (1).
+
+[^F22]2 [^F22]In section 8 of that Act (contravention of orders under section 6 to be an offence), the following subsection shall be inserted after subsection (1)—
+
+> [^F22]1A [^F22]Subsection (1) above does not apply in relation to any order under section 6 of this Act so far as it designates any parking places.
+
+[^F22]3 [^F22]The provisions of section 11 of that Act (contravention of experimental traffic order) shall become subsection (1) of that section and the following subsection shall be inserted as subsection (2)—
+
+> [^F22]2 [^F22]This section does not apply in relation to any experimental traffic order so far as it designates any parking places in Greater London.
+
+#### 66 Parking penalties in London.
+
+[^F22]1 [^F22]Where, in the case of a stationary vehicle in a designated parking place, a parking attendant has reason to believe that a penalty charge is payable with respect to the vehicle, he may—
+
+[^F22]a [^F22]fix a penalty charge notice to the vehicle; or
+
+[^F22]b [^F22]give such a notice to the person appearing to him to be in charge of the vehicle.
+
+[^F22]2 [^F22]For the purposes of this Part of this Act, a penalty charge is payable with respect to a vehicle, by the owner of the vehicle, if—
+
+[^F22]a [^F22]the vehicle has been left—
+
+[^F22]i [^F22]otherwise than as authorised by or under any order relating to the designated parking place; or
+
+[^F22]ii [^F22]beyond the period of parking which has been paid for;
+
+[^F22]b [^F22]no parking charge payable with respect to the vehicle has been paid; or
+
+[^F22]c [^F22]there has, with respect to the vehicle, been a contravention of, or failure to comply with, any provision made by or under any order relating to the designated parking place.
+
+[^F22]3 [^F22]A penalty charge notice must state—
+
+[^F22]a [^F22]the grounds on which the parking attendant believes that a penalty charge is payable with respect to the vehicle;
+
+[^F22]b [^F22]the amount of the penalty charge which is payable;
+
+[^F22]c [^F22]that the penalty charge must be paid before the end of the period of 28 days beginning with the date of the notice;
+
+[^F22]d [^F22]that if the penalty charge is paid before the end of the period of 14 days beginning with the date of the notice, the amount of the penalty charge will be reduced by the specified proportion;
+
+[^F22]e [^F22]that, if the penalty charge is not paid before the end of the 28 day period, a notice to owner may be served by the London authority on the person appearing to them to be the owner of the vehicle;
+
+[^F22]f [^F22]the address to which payment of the penalty charge must be sent.
+
+[^F22]4 [^F22]In subsection (3)(d) above “[^F22]specified proportion[^F22]” means such proportion, applicable to all cases, as may be determined by the London authorities acting through the Joint Committee.
+
+[^F22]5 [^F22]A penalty charge notice fixed to a vehicle in accordance with this section shall not be removed or interfered with except by or under the authority of—
+
+[^F22]a [^F22]the owner, or person in charge, of the vehicle; or
+
+[^F22]b [^F22]the London authority for the place in which the vehicle in question was found.
+
+[^F22]6 [^F22]A person contravening subsection (5) above shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 2 on the standard scale.
+
+[^F22]7 [^F22]Schedule 6 to this Act shall have effect with respect to penalty charges, notices to owners and other matters supplementing the provisions of this section.
+
+#### 67 Recovery of vehicles or of proceeds of disposal.
+
+[^F22]1 [^F22]Section 101 of the [^M40][^F22]Road Traffic Regulation Act 1984 shall be amended as follows.
+
+[^F22]2 [^F22]In subsection (1) for “(5)” there shall be substituted [^F22]“ (5A) ”[^F22].
+
+[^F22]3 [^F22]In subsection (4) after the words “before a vehicle” there shall be inserted the words [^F22]“ found outside Greater London ”[^F22].
+
+[^F22]4 [^F22]After that subsection there shall be inserted—
+
+> [^F22]4A [^F22]If, before a vehicle found in Greater London is disposed of by an authority in pursuance of subsections (1) to (3) above, the vehicle is claimed by a person who satisfies the authority that he is its owner and pays—
+>
+> [^F22]a [^F22]any penalty charge payable in respect of the parking of the vehicle in the place from which it was removed; and
+>
+> [^F22]b [^F22]such sums in respect of the removal and storage of the vehicle—
+>
+> [^F22]i [^F22]as the authority may require; or
+>
+> [^F22]ii [^F22]in the case of sums payable to a competent authority which is not a local authority, as may be prescribed,
+>
+> [^F22]the authority shall permit him to remove the vehicle from their custody within such period as they may specify or, where paragraph (b)(ii) applies, as may be prescribed.
+
+[^F22]5 [^F22]In subsection (5) after the words “which a vehicle” there shall be inserted the words [^F22]“ found outside Greater London ”[^F22].
+
+[^F22]6 [^F22]After that subsection there shall be inserted—
+
+> [^F22]5A [^F22]If, before the end of the period of one year beginning with the date on which a vehicle found in Greater London is sold by an authority in pursuance of this section, any person satisfies that authority that at the time of the sale he was the owner of the vehicle, that authority shall pay him any sum by which the proceeds of sale exceed the aggregate of—
+>
+> [^F22]a [^F22]any penalty charge payable in respect of the parking of the vehicle in the place from which it was removed; and
+>
+> [^F22]b [^F22]such sums in respect of the removal, storage and disposal of the vehicle—
+>
+> [^F22]i [^F22]as the authority may require; or
+>
+> [^F22]ii [^F22]in the case of sums payable to a competent authority which is not a local authority, as may be prescribed.
+
+[^F22]7 [^F22]In subsection (6) for the words “and (5)” there shall be substituted the words [^F22]“ to (5A) ”[^F22].
+
+#### 68 Charges for removal, storage and disposal of vehicles.
+
+(1) Section 102 of the Road Traffic Regulation Act 1984 shall be amended as follows.
+
+(2) [^F23]In subsection (2)—
+
+[^F23]a [^F23]in paragraphs (b) and (c) after the words “local authority” there shall be inserted the words [^F23]“ other than a London authority ”[^F23]; and
+
+[^F23]b [^F23]after paragraph (c) there shall be added—
+
+> [^F23]and
+>
+> [^F23]d [^F23]a London authority shall be entitled to recover from any person responsible, such charges in respect of the removal, storage and disposal of a vehicle removed from a parking place designated under section 6, 9 or 45 of this Act or otherwise provided or controlled by that authority as they may require.
+
+(3) In subsection (8)—
+
+(a) in the definition of “appropriate authority”, for paragraph (b) there shall be substituted—
+
+> (b) in relation to a vehicle removed (by a person other than a constable or person acting in aid of a police force) from a place outside Greater London, which is a parking place provided or controlled by a local authority, or from a place (not being a parking place) on a road or land in the open air, means the local authority in whose area that place is,
+
+;
+
+(b) in that definition, the words following paragraph (b) shall be omitted; and
+
+(c) [^F24]at the end of that subsection there shall be added—
+
+> [^F24]and
+>
+> [^F24]“[^F24]London authority[^F24]” means any council of a London borough or the Common Council of the City of London.
+
+(4) The following subsection shall be added at the end—
+
+> (9) For the purposes of—
+>
+> (a) subsection (2)(d) above, and
+>
+> (b) paragraph (b) in the definition of “appropriate authority” in subsection (8) above,
+>
+> a parking place provided under a letting or arrangements made by a local authority in pursuance of section 33(4) of this Act shall be treated as provided by that authority.
+
+#### 69 Immobilisation of vehicles in parking places.
+
+[^F25]1 [^F25]Where, in the case of a stationary vehicle in a designated parking place, a parking attendant has reason to believe that the vehicle has been permitted to remain at rest there in any of the circumstances specified in section 66(2) (a), (b) or (c) of this Act, he or another person acting under his direction may fix an immobilisation device to the vehicle.
+
+[^F25]2 [^F25]On any occasion when an immobilisation device is fixed to a vehicle in accordance with this section, the person fixing the device shall also fix to the vehicle a notice—
+
+[^F25]a [^F25]indicating that such a device has been fixed to the vehicle and warning that no attempt should be made to drive it or otherwise put it in motion until it has been released from that device;
+
+[^F25]b [^F25]specifying the steps to be taken in order to secure its release; and
+
+[^F25]c [^F25]giving such other information as may be prescribed.
+
+[^F25]3 [^F25]A vehicle to which an immobilisation device has been fixed in accordance with this section may only be released from that device by or under the direction of a person authorised by the relevant authority to give such a direction.
+
+[^F25]4 [^F25]Subject to subsection (3) above, a vehicle to which an immobilisation device has been fixed in accordance with this section shall be released from that device on payment in any manner specified in the notice fixed to the vehicle under subsection (2) above of—
+
+[^F25]a [^F25]the penalty charge payable in respect of the parking; and
+
+[^F25]b [^F25]such charge in respect of the release as may be required by the relevant authority.
+
+[^F25]5 [^F25]A notice fixed to a vehicle in accordance with this section shall not be removed or interfered with except by or under the authority of—
+
+[^F25]a [^F25]the owner, or person in charge, of the vehicle; or
+
+[^F25]b [^F25]the relevant authority.
+
+[^F25]6 [^F25]A person contravening subsection (5) above shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 2 on the standard scale.
+
+[^F25]7 [^F25]Any person who, without being authorised to do so in accordance with this section, removes or attempts to remove an immobilisation device fixed to a vehicle in accordance with this section shall be guilty of an offence and shall be liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+[^F25]8 [^F25]In this section “[^F25]relevant authority[^F25]” means the London authority for the place in which the vehicle in question was found.
+
+#### 70 Exemptions from section 69.
+
+[^F25]1 [^F25]Section 69(1) of this Act shall not apply in relation to a vehicle if—
+
+[^F25]a [^F25]a current disabled person’s badge is displayed on the vehicle;
+
+[^F25][[^F26]aa [^F25]a current recognised badge (within the meaning given by section 21A of the Chronically Sick and Disabled Persons Act 1970) is displayed on the vehicle;]
+
+[^F25]b [^F25]not more than 15 minutes have elapsed since the end of any period for which the appropriate charge was duly paid at the time of parking; or
+
+[^F25]c [^F25]not more than 15 minutes have elapsed since the end of any unexpired time (in respect of another vehicle) which is available at the relevant parking meter at the time of parking.
+
+[^F25]2 [^F25]In any case in which section 69(1) of this Act would apply to a vehicle but for subsection (1)(a) above and the vehicle was not, at the time at which it was parked, being used—
+
+[^F25]a [^F25]in accordance with regulations under section 21 of the [^M41][^F25]Chronically Sick and Disabled Persons Act 1970; and
+
+[^F25]b [^F25]in circumstances falling within section 117(1)(b) of the [^M42][^F25]Road Traffic Regulation Act 1984 (use where a disabled person’s concession would be available),
+
+[^F25]the person in charge of the vehicle at that time shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+[^F25][[^F27]2A [^F25]In any case in which section 69(1) of this Act would apply to a vehicle but for subsection (1)(aa) above and the vehicle was not, at the time at which it was parked, being used—
+
+[^F25]a [^F25]in accordance with regulations under section 21A of the Chronically Sick and Disabled Persons Act 1970, and
+
+[^F25]b [^F25]in circumstances falling within section 117(1A)(b) of the Road Traffic Regulation Act 1984 (use where a disabled person’s concession would be available by virtue of displaying a non-GB badge),
+
+[^F25]the person in charge of the vehicle at that time shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.]
+
+[^F25]3 [^F25]In this section “[^F25]disabled person’s badge[^F25]” has the same meaning as in section 142(1) of the Road Traffic Regulation Act 1984, and “[^F25]parking meter[^F25]” has the same meaning as in section 46(2)(a) of that Act.
+
+#### 71 Representations in relation to removal or immobilisation of vehicles.
+
+[^F25]1 [^F25]The owner or person in charge of a vehicle who—
+
+[^F25]a [^F25]removes it from the custody of a London authority in accordance with subsection (4A) of section 101 of the [^M43][^F25]Road Traffic Regulation Act 1984 (ultimate disposal of vehicles abandoned and removable under that Act);
+
+[^F25]b [^F25]receives any sum in respect of the vehicle under subsection (5A) of that section;
+
+[^F25]c [^F25]is informed that the proceeds of sale of the vehicle did not exceed the aggregate amount mentioned in subsection (5A) of that section; or
+
+[^F25]d [^F25]secures its release from an immobilisation device in accordance with section 69(4) of this Act,
+
+[^F25]shall thereupon be informed of his right under this section to make representations to the relevant authority and of the effect of section 72 of this Act.
+
+[^F25]2 [^F25]The relevant authority shall give that information, or shall cause it to be given, in writing.
+
+[^F25]3 [^F25]Any person to whom subsection (1) above applies may make representations to the relevant authority on one or more of the grounds mentioned in subsection (4) below.
+
+[^F25]4 [^F25]The grounds are—
+
+[^F25]a [^F25]that there were no reasonable grounds for the parking attendant concerned to believe that the vehicle had been permitted to remain at rest in the parking place in circumstances specified in section 66(2)(a), (b) or (c) of this Act;
+
+[^F25]b [^F25]that the vehicle had been permitted to remain at rest in the parking place by a person who was in control of the vehicle without the consent of the owner;
+
+[^F25]c [^F25]that the place in which the vehicle was at rest was not a designated parking place;
+
+[^F25]d [^F25]in a case within subsection (1)(d) above, that, by virtue of an exemption given by section 70 of this Act, section 69 of this Act did not apply to the vehicle at the time in question; or
+
+[^F25]e [^F25]that the penalty or other charge in question exceeded the amount applicable in the circumstances of the case.
+
+[^F25]5 [^F25]An authority may disregard any representations which are received by them after the end of the period of 28 days beginning with the date on which the person making them is informed, under subsection (1) above, of his right to make representations.
+
+[^F25]6 [^F25]It shall be the duty of an authority to whom representations are duly made under this section, before the end of the period of 56 days beginning with the date on which they receive the representations—
+
+[^F25]a [^F25]to consider them and any supporting evidence which the person making them provides; and
+
+[^F25]b [^F25]to serve on that person notice of their decision as to whether they accept that the ground in question has been established.
+
+[^F25]7 [^F25]Where an authority serve notice under subsection (6)(b) above that they accept that a ground has been established they shall (when serving that notice) refund any sums—
+
+[^F25]a [^F25]paid under subsection (4A) of section 101 of the Act of 1984 when the vehicle was removed from the custody of the authority;
+
+[^F25]b [^F25]deducted from the proceeds of sale of the vehicle under subsection (5A) of that section; or
+
+[^F25]c [^F25]paid under section 69(4) of this Act when the vehicle was released,
+
+[^F25]except to the extent (if any) to which those sums were properly paid or deducted.
+
+[^F25]8 [^F25]Where an authority serve notice under subsection (6)(b) above that they do not accept that a ground has been established, that notice shall—
+
+[^F25]a [^F25]inform the person on whom it is served of his right to appeal to a parking adjudicator under section 72 of this Act;
+
+[^F25]b [^F25]indicate the nature of a parking adjudicator’s power to award costs against any person appealing to him under that section; and
+
+[^F25]c [^F25]describe in general terms the form and manner in which such an appeal is required to be made.
+
+[^F25]9 [^F25]Where an authority fail to comply with subsection (6) above before the end of the period of 56 days mentioned there—
+
+[^F25]a [^F25]they shall be deemed to have accepted that the ground in question has been established and to have served notice to that effect under subsection (7) above; and
+
+[^F25]b [^F25]subsection (7) above shall have effect as if it required any refund to be made immediately after the end of that period.
+
+[^F25]10 [^F25]A person who makes any representation under this section or section 72 of this Act which is false in a material particular and does so recklessly or knowing it to be false in that particular is guilty of an offence.
+
+[^F25]11 [^F25]Any person convicted of an offence under subsection (10) above shall be liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+[^F25]12 [^F25]Any notice required to be served under this section may be served by post.
+
+[^F25]13 [^F25]Where the person on whom any document is required to be served by subsection (6) above is a body corporate, the document is duly served if it is sent by post to the secretary or clerk of that body.
+
+[^F25]14 [^F25]In this section and in section 72 of this Act “[^F25]relevant authority[^F25]” has the same meaning as in section 69(8) of this Act.
+
+#### 72 Appeals to parking adjudicator in relation to decisions under section 71.
+
+[^F25]1 [^F25]Where an authority serve notice under subsection (6)(b) of section 71 of this Act that they do not accept that a ground on which representations were made under that section has been established, the person making those representations may, before—
+
+[^F25]a [^F25]the end of the period of 28 days beginning with the date of service of that notice; or
+
+[^F25]b [^F25]such longer period as a parking adjudicator may allow,
+
+[^F25]appeal to a parking adjudicator against the authority’s decision.
+
+[^F25]2 [^F25]On an appeal under this section, the parking adjudicator shall consider the representations in question and any additional representations which are made by the appellant on any of the grounds mentioned in section 71(4) of this Act and, if he concludes—
+
+[^F25]a [^F25]that any of the representations are justified; and
+
+[^F25]b [^F25]that the relevant authority would have been under the duty imposed by section 71(7) of this Act to refund any sum if they had served notice that they accepted that the ground in question had been established,
+
+[^F25]he shall direct that authority to make the necessary refund.
+
+[^F25]3 [^F25]It shall be the duty of any authority to whom such a direction is given to comply with it forthwith.
+
+#### 73 Appointment of parking adjudicators by joint committee of the [[^F28]appointing authorities].
+
+[^F25][[^F29]1 [^F25]The London local authorities and Transport for London (in this section referred to as “[^F25]the appointing authorities[^F25]”) shall establish a single joint committee under section 101(5) of the [^M44][^F25]Local Government Act 1972 (“[^F25]the Joint Committee[^F25]”) before 4th September 2000 or such later date as the Secretary of State may by order specify.
+
+[^F25]1A [^F25]For the purposes of subsection (1) above, sections 101(5) and 102 of the [^M45][^F25]Local Government Act 1972 shall have effect as if Transport for London were a local authority.]
+
+[^F25]2 [^F25]The functions conferred on the [^F25][[^F28]appointing authorities][^F25] by this section [^F30][^F25]. . . shall be discharged by the Joint Committee.
+
+[^F25]3 [^F25]The [^F25][[^F28]appointing authorities][^F25] shall—
+
+[^F25]a [^F25]with the consent of the Lord Chancellor, appoint persons to act as parking adjudicators for the purposes of this Part of this Act;
+
+[^F25]b [^F25]provide accommodation and administrative staff for the parking adjudicators; and
+
+[^F25]c [^F25]determine the places at which parking adjudicators are to sit.
+
+[^F25]4 [^F25]To be qualified for appointment as a parking adjudicator, a person must [^F25][[^F31]satisfy the judicial-appointment eligibility condition on a 5-year basis.]
+
+[^F25]5 [^F25]Each parking adjudicator shall be appointed for such term, not exceeding five years, as the [^F25][[^F28]appointing authorities][^F25] may specify in relation to his appointment.
+
+[^F25]6 [^F25]On the expiry of his term of appointment, a parking adjudicator shall be eligible for re-appointment.
+
+[^F25]7 [^F25]A parking adjudicator may be removed from office only for misconduct or on the ground that he is unable or unfit to discharge his functions but shall otherwise hold and vacate office in accordance with the terms of his appointment.
+
+[^F25]8 [^F25]The expenses of the Joint Committee incurred in the discharge of functions conferred on the [^F25][[^F28]appointing authorities][^F25] by this Act shall be defrayed by the [^F25][[^F28]appointing authorities][^F25] in such proportions as they may decide or, in default of a decision by them, as may be determined by an arbitrator nominated by the Chartered Institute of Arbitrators on the application of the Joint Committee.
+
+[^F25]9 [^F25]The costs of any reference to arbitration under subsection (8) above shall be borne by the [^F25][[^F28]appointing authorities][^F25] in equal shares.
+
+[^F25]10 [^F25]Where the Secretary of State is satisfied that there has been, or is likely to be, a failure on the part of the [^F25][[^F28]appointing authorities][^F25] to agree on the proportions in which the expenses of the Joint Committee are to be defrayed by them under subsection (8) above he may give the Joint Committee such directions as he considers appropriate in order to require it to refer the matter to arbitration under that subsection.
+
+[^F25]11 [^F25]The Secretary of State shall by regulations make provision as to the procedure to be followed in relation to proceedings before parking adjudicators.
+
+[^F25]12 [^F25]The regulations may, in particular, include provision—
+
+[^F25]a [^F25]as to the manner in which appeals to parking adjudicators are to be made or withdrawn;
+
+[^F25]b [^F25]authorising an appeal to a parking adjudicator to be disposed of on the basis of written representations unless the appellant requests an oral hearing;
+
+[^F25]c [^F25]prescribing the procedure to be followed before the hearing of an appeal by a parking adjudicator;
+
+[^F25]d [^F25]requiring any such hearing to be held in public except in prescribed circumstances;
+
+[^F25]e [^F25]as to the persons entitled to appear and be heard on behalf of the parties;
+
+[^F25]f [^F25]requiring persons to attend to give evidence and to produce documents;
+
+[^F25]g [^F25]as to evidence at the hearing;
+
+[^F25]h [^F25]as to the adjournment of hearings;
+
+[^F25]i [^F25]for the award of costs in prescribed circumstances;
+
+[^F25]j [^F25]for the settlement of costs, by taxation (and in particular by taxation in a county court) or by some other prescribed method;
+
+[^F25]k [^F25]authorising decisions of parking adjudicators to be reserved;
+
+[^F25]l [^F25]authorising or requiring parking adjudicators—
+
+[^F25]i [^F25]to revise or set aside decisions;
+
+[^F25]ii [^F25]to revoke or vary orders made by them;
+
+[^F25]m [^F25]requiring decisions of, and orders made by, parking adjudicators, to be recorded;
+
+[^F25]n [^F25]as to the proof of decisions of, and orders made by, parking adjudicators;
+
+[^F25]o [^F25]authorising the correction of clerical errors in records kept in accordance with the requirements of the regulations;
+
+[^F25]p [^F25]requiring service of—
+
+[^F25]i [^F25]notice of decisions of parking adjudicators;
+
+[^F25]ii [^F25]copies of any orders made by such adjudicators; or
+
+[^F25]iii [^F25]notice of any corrections made by parking adjudicators in their decisions or orders.
+
+[^F25]13 [^F25]Subject to any provision made by the regulations, a parking adjudicator may regulate his own procedure.
+
+[^F25]14 [^F25]If any person who is required to attend a hearing held by a parking adjudicator, or to produce any document to a parking adjudicator in accordance with any regulations under subsection (11) above, fails without reasonable excuse to do so, he shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 2 on the standard scale.
+
+[^F25]15 [^F25]Any amount which is payable under an adjudication of a parking adjudicator shall, if a county court so orders, be recoverable by the person to whom the amount is payable, as if it were payable under a county court order.
+
+[^F25]16 [^F25]Subsection (15) above does not apply to a penalty charge which remains payable following an adjudication under paragraph 5 of Schedule 6 to this Act.
+
+[^F25]17 [^F25]In accordance with such requirements as may be imposed by the Joint Committee, each parking adjudicator shall make an annual report to the Joint Committee on the discharge of his functions.
+
+[^F25]18 [^F25]The Joint Committee shall make and publish an annual report in writing to the Secretary of State on the discharge by the parking adjudicators of their functions.
+
+#### [[^F32]74 Fixing of certain parking and other charges for London.
+
+[^F25]1 [^F25]It shall be the duty—
+
+[^F25]a [^F25]of Transport for London, so far as relating to trunk roads or [^F25]GLA[^F25] roads, and
+
+[^F25]b [^F25]of the London local authorities, so far as relating to other roads,
+
+[^F25]to set the levels of additional parking charges to apply in London.
+
+[^F25]2 [^F25]Before setting the level of any charges under subsection (1) above, Transport for London must consult the London local authorities.
+
+[^F25]3 [^F25]Different levels may be set for different areas in London and for different cases or classes of case.
+
+[^F25]4 [^F25]Transport for London and the London local authorities shall submit to the Mayor of London, for his approval, the levels of additional parking charges which they propose to set under subsection (1) above.
+
+[^F25]5 [^F25]If—
+
+[^F25]a [^F25]Transport for London or, as the case may be, the London local authorities fail to discharge their duty under subsection (1) above; or
+
+[^F25]b [^F25]the Mayor of London does not approve the levels of additional parking charges proposed by the London local authorities,
+
+[^F25]the levels of additional parking charges for the roads referred to in paragraph (a) or (as the case may be) paragraph (b) of subsection (1) above shall be set by order made by the Mayor of London.
+
+[^F25]6 [^F25]Levels of additional parking charges set in accordance with this section may only come into force in accordance with section 74A below.
+
+[^F25]7 [^F25]It shall be the duty of Transport for London and the London local authorities to impose additional parking charges at the levels set in accordance with the provisions of this section.
+
+[^F25]8 [^F25]Transport for London and the London local authorities shall publish, in such manner as the Mayor of London may determine, the levels of additional parking charges which have been set in accordance with the provisions of this section.
+
+[^F25]9 [^F25]The functions conferred on London local authorities by this section or section 74A below shall be discharged by the Joint Committee.
+
+[^F25]10 [^F25]No person who represents Transport for London on the Joint Committee shall take any part in any proceedings of the Joint Committee so far as relating to the discharge by the Joint Committee of any functions under this section or section 74A below.
+
+[^F25]11 [^F25]Section 122 of the [^M46][^F25]Road Traffic Regulation Act 1984 (exercise of functions by local authorities) shall apply in relation to—
+
+[^F25]a [^F25]Transport for London,
+
+[^F25]b [^F25]the London local authorities, and
+
+[^F25]c [^F25]the Mayor of London,
+
+[^F25]and functions conferred on them by or under this section as it applies to local authorities and functions conferred on them by or under that Act.
+
+[^F25]12 [^F25]In this section “[^F25]additional parking charges[^F25]” means—
+
+[^F25]a [^F25]penalty charges;
+
+[^F25]b [^F25]charges made by London authorities for the removal, storage and disposal of vehicles; and
+
+[^F25]c [^F25]charges in respect of the release of vehicles from immobilisation devices fixed under section 69 above.]
+
+#### [[^F33]74A Additional parking charges: reserve powers of Secretary of State.
+
+[^F25]1 [^F25]Where the Mayor of London—
+
+[^F25]a [^F25]on a submission under subsection (4) of section 74 above, approves any levels of additional parking charges, or
+
+[^F25]b [^F25]sets any such levels under subsection (5) of that section,
+
+[^F25]he shall notify the Secretary of State of the levels of charges so approved or set.
+
+[^F25]2 [^F25]Where notification of any levels of charges is required to be given under subsection (1) above, the levels of charges shall not come into force until after the expiration of—
+
+[^F25]a [^F25]the period of one month beginning with the day on which the notification is given, or
+
+[^F25]b [^F25]such shorter period as the Secretary of State may allow.
+
+[^F25]3 [^F25]If, before the expiration of that period, the Secretary of State gives notice to the Mayor of London that he objects to the levels of charges on the grounds that some or all of them are or may be excessive, those levels of charges shall not come into force unless and until the objection has been withdrawn.
+
+[^F25]4 [^F25]If, at any time before the levels of charges required to be notified under subsection (1) above to the Secretary of State have come into force, the Secretary of State considers that some or all of them are excessive, he may make regulations setting the levels of charges.
+
+[^F25]5 [^F25]Levels of charges set under subsection (4) above must be no higher than those notified under subsection (1) above.
+
+[^F25]6 [^F25]Subsections (7) and (8) of section 74 above shall apply in relation to levels of charges set under subsection (4) above as if those levels of charges had been set in accordance with the provisions of that section—
+
+[^F25]a [^F25]by Transport for London, so far as relating to [^F25]GLA[^F25] roads or trunk roads, or
+
+[^F25]b [^F25]by the London local authorities, so far as relating to other roads.
+
+[^F25]7 [^F25]Regulations under subsection (4) above are without prejudice to the duties imposed on Transport for London and the London local authorities by section 74(1) above; but where the Secretary of State makes any such regulations—
+
+[^F25]a [^F25]Transport for London, if the regulations relate to [^F25]GLA[^F25] roads or trunk roads, or
+
+[^F25]b [^F25]the London local authorities, if the regulations relate to other roads,
+
+[^F25]must not make any further submission to the Mayor of London under section 74(4) above until after the expiration of the period of twelve months beginning with the day on which the regulations are made.]
+
+#### 75 Immobilisation of vehicles in London by police.
+
+In the [^M47]Road Traffic Regulation Act 1984, the following section shall be inserted after section 106—
+
+> **106A Immobilisa-tion of vehicles in London**
+>
+> (1) Sections 104 and 105 of this Act shall extend throughout Greater London if the Secretary of State makes an order to that effect.
+>
+> (2) If such an order is made, section 106 of this Act shall cease to apply in relation to Greater London when the order comes into force.
+>
+> (3) Before such an order comes into force, section 106 of this Act shall have effect as if in subsection (7) the words “or by the Traffic Director for London” were added at the end and as if the following subsection were inserted after subsection (7)—
+>
+> (7A) Before making an order under this section at the request of the Traffic Director for London, the Secretary of State shall consult the appropriate local authority.
+>
+> (4) The power of the Secretary of State to make an order under this section shall be exercisable by statutory instrument which shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+#### 76 Special parking areas.
+
+[^F34]1 [^F34]Where a London authority apply to the Secretary of State for an order to be made under this section, the Secretary of State may make an order designating the whole, or any part, of that authority’s area as a special parking area.
+
+[^F34][[^F35]1A [^F34]An application for an order under subsection (1) above may only be made—
+
+[^F34]a [^F34]by Transport for London, to the extent that the special parking area is to consist of [^F34]GLA[^F34] roads or trunk roads; or
+
+[^F34]b [^F34]by a London local authority, to the extent that the special parking area is to consist of roads other than [^F34]GLA[^F34] roads and trunk roads.]
+
+[^F34]2 [^F34]Before making an order under this section, the Secretary of State shall consult the relevant Commissioner or, if appropriate, both Commissioners.
+
+[^F34]3 [^F34]While an order under this section is in force, the following provisions shall cease to apply in relation to the special parking area designated by the order—
+
+[^F34]a [^F34]section 8 of the [^M48][^F34]Road Traffic Regulation Act 1984 (contravention of, or failure to comply with, an order under section 6 of that Act to be an offence), so far as it relates to the contravention of, or failure to comply with, any provision of such an order—
+
+[^F34]i [^F34]prohibiting or restricting the waiting of vehicles on any road; or
+
+[^F34]ii [^F34]relating to any of the matters mentioned in paragraph 7 or 8 of Schedule 1 to that Act (conditions for loading or unloading, or delivery or collecting);
+
+[^F34]b [^F34]section 11 of the Act of 1984 (contravention of, or failure to comply with, an experimental traffic order under section 9 of that Act to be an offence), so far as it relates to any contravention of, or failure to comply with, any provision of such an experimental traffic order—
+
+[^F34]i [^F34]prohibiting or restricting the waiting of vehicles on any road; or
+
+[^F34]ii [^F34]relating to any of the matters mentioned in paragraph 7 or 8 of Schedule 1 to that Act (conditions for loading or unloading, or delivery or collecting);
+
+[^F34][[^F36]c [^F34]section 16(1) of the Act of 1984 [^F37][^F34] so far as it relates to the contravention of any provision of an order or notice under section 14 of that Act—
+
+[^F34]i [^F34]prohibiting or restricting the waiting of vehicles on any road; or
+
+[^F34]ii [^F34]relating to any of the matters mentioned in paragraph 7 or 8 of Schedule 1 to that Act;
+
+[^F34]ca [^F34]section 35A(1) (contravention of parking place orders) of the Act of 1984 so far as it applies in relation to stationary vehicles;
+
+[^F34]cb [^F34]section 61(5) (prohibition of vehicles in loading areas) of the Act of 1984 so far as it applies in relation to stationary vehicles;.]
+
+[^F34]d [^F34]section 15 of the [^M49][^F34]Greater London Council (General Powers) Act 1974 (parking of vehicles on verges, central reservations and footpaths [^F34]etc.[^F34] to be an offence);
+
+[^F34]e [^F34]section 19 of the [^M50][^F34]Road Traffic Act 1988 (parking of heavy vehicles on verges, central reservations and footpaths [^F34]etc.[^F34] to be an offence);
+
+[^F34]f [^F34]section 21 of the Act of 1988 (prohibition of driving or parking on cycle tracks), so far as it makes it an offence to park a motor vehicle wholly or partly on a cycle track[^F34][[^F38];
+
+[^F34]g [^F34]section 36(1) of the Act of 1988 (failure to comply with traffic signs), so far as it makes it an offence to fail to comply with an indication given by a traffic sign of a prohibition on causing a vehicle to stop on part of a road in London demarcated by that sign as a stopping area for a bus][^F34].
+
+[^F34]4 [^F34]The Secretary of State may by order amend subsection (3) above by adding further provisions (but only in so far as they apply in relation to stationary vehicles).
+
+[^F34]5 [^F34]Before making an order under subsection (4) above, the Secretary of State shall consult—
+
+[^F34]a [^F34]the two Commissioners; and
+
+[^F34]b [^F34]such associations of London authorities (if any) as he thinks appropriate.
+
+#### [^F39]76A [ Variation of special parking areas by Mayor of London.
+
+[^F34]1 [^F34]At any time when an order under section 76 above designating the whole or any part of a London authority’s area as a special parking area is in force, the Mayor of London may by order under this subsection amend the order so as to vary the area which for the time being constitutes the special parking area.
+
+[^F34]2 [^F34]No order may be made under subsection (1) above without the consent of every London local authority which is the traffic authority for a road which the order has the effect of bringing within, or removing from, the special parking area concerned.
+
+[^F34]3 [^F34]An order under subsection (1) above must not be such as to bring within a special parking area—
+
+[^F34]a [^F34]any area specified in an order under this paragraph made by the Secretary of State; or
+
+[^F34]b [^F34]the whole or any part of a Royal Park, except with the consent of the Secretary of State.
+
+[^F34]4 [^F34]No area may be specified in an order under subsection (3)(a) above unless the Secretary of State is satisfied that it is expedient, on grounds of national security, that no part of that area should be included in a special parking area.
+
+[^F34]5 [^F34]In this section “[^F34]Royal Park[^F34]” means any park to which the [^M51][^F34]Parks Regulation Act 1872 applies (see sections 1 and 3 of the [^M52][^F34]Parks Regulation (Amendment) Act 1926).]
+
+#### 77 Application of provisions in relation to special parking areas.
+
+[^F34]1 [^F34]This section applies in relation to any vehicle which is stationary in a special parking area (but which is not in a designated parking place) in circumstances in which an offence would have been committed with respect to the vehicle but for section 76(3) above.
+
+[^F34]2 [^F34]A penalty charge shall be payable with respect to the vehicle by the owner of the vehicle.
+
+[^F34]3 [^F34]Section 66 of, and Schedule 6 to, this Act shall apply in relation to penalty charges payable by virtue of subsection (2) above, but subject to such modifications (if any) as the Secretary of State considers it appropriate to make in the order designating the special parking area in question.
+
+[^F34]4 [^F34]Where a parking attendant has reason to believe that a penalty charge is payable with respect to the vehicle by virtue of subsection (2) above, he or another person acting under his direction may fix an immobilisation device to the vehicle.
+
+[^F34]5 [^F34]Subsections (2) to (8) of section 69 of this Act shall apply in relation to a device fixed to a vehicle under subsection (4) above, but subject to such modifications (if any) as the Secretary of State considers it appropriate to make in the order designating the special parking area in question.
+
+[^F34]6 [^F34]An order under section 76 designating a special parking area may make such modifications of any provision of, or amended by, this Part of this Act as the Secretary of State considers appropriate in consequence of the provisions of section 76 or this section or of the order.
+
+### Miscellaneous
+
+#### 78 Enforcement.
+
+[^F34]1 [^F34]In this section—
+
+- [^F34]“[^F34]certificated bailiff[^F34]”, means any person authorised to act as such under subsection (6) below; and
+
+- [^F34]“[^F34]a Part II debt[^F34]” means any sum which is—
+
+  - (a) [^F34]payable under, or by virtue of, any provision of this Part of this Act; and
+  - (b) [^F34]recoverable as if it were payable under a county court order.
+
+[^F34]2 [^F34]The Lord Chancellor may by order make provision—
+
+[^F34]a [^F34]for warrants of execution in respect of Part II debts, or such class or classes of Part II debts as may be specified in the order, to be executed by certificated bailiffs;
+
+[^F34]b [^F34]as to the requirements which must be satisfied before any person takes, with a view to enforcing the payment of—
+
+[^F34]i [^F34]a Part II debt; or
+
+[^F34]ii [^F34]such class or classes of Part II debts as may be so specified,
+
+[^F34]any other step of a kind specified by the order.
+
+[^F34]3 [^F34]Any such order may make such incidental and supplemental provision (including modifications of any enactment other than this Act) as the Lord Chancellor considers appropriate in consequence of the provision made by that order under subsection (2) above.
+
+[^F34]4 [^F34]The Lord Chancellor may by regulations make provision in connection with the certification of bailiffs under this section and the execution of warrants of execution by such bailiffs.
+
+[^F34]5 [^F34]The regulations may, in particular, make provision—
+
+[^F34]a [^F34]as to the security (if any) to be required from certificated bailiffs;
+
+[^F34]b [^F34]as to the fees and expenses payable with respect to executions by certificated bailiffs; and
+
+[^F34]c [^F34]for the suspension or cancellation of certificates issued under this section and with respect to the effect of any such suspension or cancellation.
+
+[^F34]6 [^F34]For the purposes of this section, a person is a certificated bailiff if he is authorised to act as such by a certificate signed—
+
+[^F34]a [^F34]by a judge assigned to a county court district; or
+
+[^F34]b [^F34]in such circumstances as may be specified in regulations made by the Lord Chancellor, by a district judge.
+
+[^F34]7 [^F34]Any person who is not a certificated bailiff but who purports to levy a distress as such a bailiff, and any person authorising him to levy it, shall be deemed to have committed a trespass.
+
+#### 79 Application to Crown and visiting forces.
+
+[^F34]1 [^F34]Nothing in Part II of this Act applies in relation to any vehicle which—
+
+[^F34]a [^F34]at the relevant time is used or appropriated for use for naval, military or airforce purposes;
+
+[^F34]b [^F34]belongs to any visiting forces (within the meaning of the [^M53][^F34]Visiting Forces Act 1952); or
+
+[^F34]c [^F34]at the relevant time is used or appropriated for use, by any such forces.
+
+[^F34]2 [^F34]Sections 66 and 69 to 71 of this Act apply to—
+
+[^F34]a [^F34]vehicles in the public service of the Crown which are required to be registered under [^F34][[^F40]the [^M54][^F34]Vehicles Excise and Registration Act 1994][^F34] (other than those which are exempted by subsection (1)(a) above); and
+
+[^F34]b [^F34]persons in the public service of the Crown.
+
+#### [^F41]80 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 81 Minor and consequential amendments.
+
+The minor and consequential amendments set out in Schedule 7 to this Act shall have effect.
+
+#### 82 Interpretation of Part II.
+
+(1) In this Part of this Act—
+
+- “Commissioner” means the Commissioner of Police of the Metropolis or the Commissioner of Police for the City of London;
+
+- “designated parking place” means a parking place in London which is designated as a parking place under an order made under section 6, 9 or 45 of the [^M55]Road Traffic Regulation Act 1984;
+
+- “the Director” means the Traffic Director for London appointed under section 52 of this Act;
+
+- [[^F42]“GLA road” (subject to subsection (1C) below) has the same meaning as in the [^M56]Highways Act 1980 (see sections 329(1) and 14D(1) of that Act);]
+
+- [[^F43]“GLA side road” has the same meaning as in the [^M57]Road Traffic Regulation Act 1984 (see sections 124A(9) and section 142(1) of that Act;]
+
+- “immobilisation device” has the same meaning as in section 104(9) of the Road Traffic Regulation Act 1984;
+
+- “the Joint Committee” has the meaning given by section 73(1) of this Act;
+
+- “local plan” has the meaning given in section 54(1) of this Act;
+
+- “local plan timetable” has the meaning given in section 54(7)(e) of this Act;
+
+- “London” means the area comprising the areas of the London boroughs, the City of London and the Temples;
+
+- [[^F44]“London authority” means—
+
+  - (a) as respects parking, or any matter connected with or relating to parking, on a GLA road (except in a designated parking place for which a London borough council or the Common Council of the City of London is the local authority by virtue of section 45(7) of the Road Traffic Regulation Act 1984), Transport for London;
+  
+  - (b) as respects parking, or any matter connected with or relating to parking,
+  
+    - (i) in a parking place such as is referred to in paragraph (a) above;
+    - (ii) on any road other than a GLA road or a trunk road,
+  
+    any council of a London borough or the Common Council of the City of London;]
+
+- [[^F45]“London local authority” means any council of a London borough or the Common Council of the City of London;]
+
+- [[^F46]“the Mayor’s transport strategy” means the transport strategy prepared and published by the Mayor of London under section 142 of the Greater London Authority Act 1999;]
+
+- [[^F47]“Minister of the Crown” has the same meaning as in the Ministers of the [^M58]Crown Act 1975;]
+
+- “Minister’s trunk road local plan” has the meaning given in section 56(1);
+
+- “network plan” has the meaning given by section 53(1) of this Act;
+
+- “parking attendant” has the same meaning as in section 63A of the [^M59]Road Traffic Regulation Act 1984 (which is inserted by section 44 of this Act);
+
+- “penalty charge” has the same meaning as in section 66 of this Act;
+
+- “prescribed” means prescribed by regulations made by the Secretary of State;
+
+- “priority route” means a road designated by a priority route order;
+
+- “priority route order” has the meaning given in section 50(1) of this Act;
+
+- “priority route network” has the meaning given in section 50(2) of this Act;
+
+- “road” has the same meaning as in the Road Traffic Regulation Act 1984;
+
+- “the Secretary of State’s parking guidance” has the meaning given in section 63(1) of this Act;
+
+- “the Secretary of State’s traffic management guidance” has the meaning given in section 51(1) of this Act;
+
+- “trunk road” has the same meaning as in section 10 of the [^M60]Highways Act 1980;
+
+- “trunk road local plan” has the meaning given in section 55(3) of this Act;
+
+- “vehicle hiring agreement” and “vehicle-hire firm” have the same meanings as in section 66 of the [^M61]Road Traffic Offenders Act 1988 (hired vehicles).
+
+[[^F48](1A) Any functions conferred or imposed on the Greater London Authority by or under this Part of this Act shall be functions of the Authority which are exercisable by the Mayor acting on behalf of the Authority.
+
+[^F48]1B Subsection (1A) above does not apply in relation to any function expressly conferred or imposed on, or made exercisable by, the London Assembly.
+
+[^F48]1C In this Part of this Act, any reference to a GLA road includes a reference to a GLA side road.]
+
+(2) For the purposes of this Part of this Act, the owner of a vehicle shall be taken to be the person by whom the vehicle is kept.
+
+(3) In determining, for the purposes of this Part of this Act, who was the owner of a vehicle at any time, it shall be presumed that the owner was the person in whose name the vehicle was at that time registered under [[^F49]the [^M62]Vehicles Excise and Registration Act 1994].
+
+(4) Section 28 of the [^M63]Chronically Sick and Disabled Persons Act 1970 (power to define “disability” and other expressions) shall apply in relation to this Part of this Act as it applies to that Act.
+
+(5) In determining, for the purposes of any provision of this Part of this Act, whether a penalty charge has been paid before the end of a particular period, it shall be taken to be paid when it is received by the London authority concerned.
+
+(6) Any power to make an order or regulations conferred by this Part [[^F50]on a Minister of the Crown] shall be exercisable by statutory instrument.
+
+(7) Any statutory instrument made under this Part of this Act shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+## Part III — Supplementary
+
+### 83 Repeals.
+
+The enactments mentioned in Schedule 8 to this Act (which include enactments which are spent) are hereby repealed to the extent specified in the third column of that Schedule.
+
+### 84 Commencement.
+
+(1) The preceding sections of, and the Schedules to, this Act shall come into force on such day as the Secretary of State may appoint by order made by statutory instrument; and different days may be appointed for different purposes and in respect of different areas.
+
+(2) An order under subsection (1) above may make such transitional provision as appears to the Secretary of State to be necessary or expedient.
+
+### 85 Expenses.
+
+Any expenditure incurred by the Secretary of State under or by virtue of this Act shall be payable out of money provided by Parliament.
+
+### 86 Extent.
+
+Except in so far as it amends any enactment extending there, this Act does not extend to Northern Ireland.
+
+### 87 Short title.
+
+This Act may be cited as the Road Traffic Act 1991.
+
+## SCHEDULE 1 — Amendment of Schedule 1 to the Road Traffic Offenders Act 1988
+
+*Section 22.*
+
+**1** Schedule 1 to the [^M64]Road Traffic Offenders Act 1988 (procedural requirements applicable in relation to certain offences) shall be amended as follows.
+
+**2** After paragraph 1 there shall be inserted—
+
+> **1A** Section 1 also applies to—
+>
+> (a) an offence under section 16 of the Road Traffic Regulation Act 1984 consisting in the contravention of a restriction on the speed of vehicles imposed under section 14 of that Act,
+>
+> (b) an offence under subsection (4) of section 17 of that Act consisting in the contravention of a restriction on the speed of vehicles imposed under that section, and
+>
+> (c) an offence under section 88(7) or 89(1) of that Act (speeding offences).
+
+**3** In paragraph 2, at the beginning of sub-paragraph (c) there shall be inserted the word “ to ”.
+
+**4** The Table in that Schedule shall be amended as follows.
+
+**5** In the entries relating to sections 1 and 2 of the [^M65]Road Traffic Act 1988 (reckless driving offences) in column 2, for the word “reckless” there shall be substituted the word “ dangerous ”.
+
+**6** After the entry relating to section 3 of that Act there shall be inserted—
+
+> |  |  |  |
+> |---|---|---|
+> | RTA section 3A | Causing death by careless driving when under influence of drink or drugs. | Section 11 of this Act. |
+
+**7** In the entry relating to section 4 of that Act (driving a motor vehicle when unfit through drink or drugs etc) in column 2, for the words “motor vehicle” there shall be substituted the words “ mechanically propelled vehicle ”.
+
+**8** In the entry relating to section 28 of that Act (reckless cycling) in column 2, for the word “reckless” there shall be substituted the word “ dangerous ”.
+
+**9** After the entry relating to section 36 of that Act there shall be inserted—
+
+> |  |  |  |
+> |---|---|---|
+> | RTA section 40A | Using vehicle in dangerous condition etc. | Sections 11 and 12(1) of this Act. |
+> | RTA section 41A | Breach of requirement as to brakes, steering-gear or tyres. | Sections 11 and 12(1) of this Act. |
+> | RTA section 41B | Breach of requirement as to weight: goods and passenger vehicles. | Sections 11 and 12(1) of this Act. |
+
+**10** In the entry relating to section 42 of that Act, for the words in column 2 there shall be substituted the words “ Breach of other construction and use requirements ”.
+
+**11** In the entry relating to section 71 of that Act (driving goods vehicle in contravention of prohibition etc) in column 2, the word “goods” in each place where it occurs shall be omitted.
+
+**12** In the entries relating to sections 87(1) and 87(2) of that Act (driving without a licence etc) in column 2, for the word “without” there shall be substituted the words “ otherwise than in accordance with ”.
+
+**13** After the entry relating to section 87(2) of that Act there shall be inserted—
+
+> |  |  |  |
+> |---|---|---|
+> | RTA section 92(10) | Driving after making false declaration as to physical fitness. | Sections 6, 11 and 12(1) of this Act. |
+
+**14** In the entry relating to section 94 of that Act (failure to notify Secretary of State about disability etc) in column 1, for the words “Section 94” there shall be substituted the words “ Section 94(3) ”.
+
+**15** After that entry there shall be inserted—
+
+> |  |  |  |
+> |---|---|---|
+> | RTA section 94(3A) | Driving after such a failure. | Sections 6, 11 and 12(1) of this Act. |
+> | RTA section 94A | Driving after refusal of licence under section 92(3) or revocation under section 93. | Sections 6, 11 and 12(1) of this Act. |
+
+**16** In the entry relating to section 164(6) of that Act (failing to produce driving licence to constable etc) in column 2 for the words “to constable” there shall be substituted the word “ etc ”.
+
+**17** In the entry relating to section 174(1) or (6) of that Act (false statements etc), in column 1, for “(6)” there shall be substituted “ (5) ”.
+
+## SCHEDULE 2 — Amendment of Schedule 2 to the Road Traffic Offenders Act 1988
+
+*Section 26.*
+
+**1** Part I of Schedule 2 to the [^M66]Road Traffic Offenders Act 1988 (prosecution and punishment of offences) shall be amended as follows.
+
+**2** In the entry relating to section 16(1) of the [^M67]Road Traffic Regulation Act 1984 (contravention of temporary prohibition or restriction) in columns 5 to 7 there shall be inserted—
+
+> |  |  |  |
+> |---|---|---|
+> | Discretionary if committed in respect of a speed restriction. | Obligatory if committed in respect of a speed restriction. | 3-6 or 3 (fixed penalty) |
+
+**3** In the entry relating to section 17(4) of that Act (use of special road contrary to scheme or regulations), in column 7, for “3” there shall be substituted “ 3-6 or 3 (fixed penalty) if committed in respect of a speed restriction, 3 in any other case. ”
+
+**4** In the entry relating to section 89(1) of that Act (exceeding speed limit) in column 7, for “3” there shall be substituted “ 3-6 or 3 (fixed penalty) ”.
+
+**5** In the entry relating to section 1 of the [^M68]Road Traffic Act 1988 (causing death by reckless driving)—
+
+(a) in column 2 for the word “reckless” there shall be substituted the word “ dangerous ”, and
+
+(b) in column 7 for “4” there shall be substituted “ 3-11 ”.
+
+**6** In the entry relating to section 2 of that Act (reckless driving)—
+
+(a) in column 2, for the word “Reckless” there shall be substituted the word “ Dangerous ”;
+
+(b) for the words in column 5 there shall be substituted the word “ Obligatory ”; and
+
+(c) for the words in column 7 there shall be substituted “ 3-11 ”.
+
+**7** After the entry relating to section 3 of that Act there shall be inserted—
+
+> |  |  |  |  |  |  |  |
+> |---|---|---|---|---|---|---|
+> | RTA section 3A | Causing death by careless driving when under influence of drink or drugs. | On indictment. | 5 years or a fine or both. | Obligatory. | Obligatory. | 3-11 |
+
+.
+
+**8** In the entry relating to section 4(1) of that Act (driving or attempting to drive when unfit through drink or drugs) in column 7 for “4” there shall be substituted “ 3-11 ”.
+
+**9** In the entry relating to section 4(2) of that Act (being in charge of a motor vehicle when unfit to drive) in column 2, for the words “motor vehicle” there shall be substituted the words “ mechanically propelled vehicle ”.
+
+**10** In the entry relating to section 5(1)(a) of that Act (driving or attempting to drive with excess alcohol in breath, blood or urine) in column 7 for “4” there shall be substituted “ 3-11 ”.
+
+**11** In the entry relating to section 7 of that Act (failing to provide specimen for analysis or laboratory test) in column 7 for the words “4 in case” there shall be substituted the words “ 3-11 in case ”.
+
+**12** In the entry relating to section 12 of that Act (motor racing and speed trials on public ways) in column 7 for “4” there shall be substituted “ 3-11 ”.
+
+**13** After the entry relating to section 22 of that Act there shall be inserted—
+
+> |  |  |  |  |  |  |  |
+> |---|---|---|---|---|---|---|
+> | RTA section 22A. | Causing danger to road-users. | (a) Summarily. | (a) 6 months or the statutory maximum or both. |  |  |  |
+> |  |  | On indictment. | (b) 7 years or a fine or both. |  |  |  |
+
+**14** In the entry relating to section 23 of that Act (carrying passenger on motor-cycle contrary to that section), in column 7, for “1” there shall be substituted “ 3 ”.
+
+**15** In the entry relating to section 28 of that Act (dangerous cycling)—
+
+(a) in column 2 for the word “reckless” there shall be substituted the word “ dangerous ”; and
+
+(b) in column 4, for the words “Level 3” there shall be substituted the words “ Level 4 ”.
+
+**16** In the entry relating to section 29 of that Act (careless and inconsiderate cycling), in column 4, for the words “Level 1” there shall be substituted the words “ Level 3 ”.
+
+**17** For the entry relating to section 42 of that Act (contravention of construction and use regulations) there shall be substituted—
+
+> |  |  |  |  |  |  |  |
+> |---|---|---|---|---|---|---|
+> | RTA Section 40A | Using vehicle in dangerous condition etc. | Summarily. | (a) Level 5 on the standard scale if committed in respect of a goods vehicle or a vehicle adapted to carry more than eight passengers. | Discretionary. | Obligatory. | 3 |
+> |  |  |  | (b) Level 4 on the standard scale in any other case. |  |  |  |
+> | RTA section 41A | Breach of requirement as to brakes, steering-gear or tyres. | Summarily. | (a) Level 5 on the standard scale if committed in respect of a goods vehicle or a vehicle adapted to carry more than eight passengers. | Discretionary. | Obligatory. | 3 |
+> |  |  |  | (b) Level 4 on the standard scale in any other case. |  |  |  |
+> | RTA section 41B | Breach of requirement as to weight: goods and passenger vehicles. | Summarily. | Level 5 on the standard scale. |  |  |  |
+> | RTA section 42 | Breach of other construction and use requirements. | Summarily. | (a) Level 4 on the standard scale if committed in respect of a goods vehicle or a vehicle adapted to carry more than eight passengers. |  |  |  |
+> |  |  |  | (b) Level 3 on the standard scale in any other case. |  |  |  |
+
+**18** In the entries relating to section 68 and 71 of that Act, in column 2, the word “goods” in each place where it occurs shall be omitted.
+
+**19** For the entry relating to section 87(1) of that Act (driving without a licence) there shall be substituted—
+
+> |  |  |  |  |  |  |  |
+> |---|---|---|---|---|---|---|
+> | RTA section 87(1) | Driving otherwise than in accordance with a licence. | Summarily. | Level 3 on the standard scale. | Discretionary in a case where the offender’s driving would not have been in accordance with any licence that could have been granted to him. | Obligatory in the case mentioned in column 5. | 3-6 |
+
+**20** In the entry relating to section 87(2) of that Act (causing or permitting to drive without a licence), in column 2 for the word “without” there shall be substituted the words “ otherwise than in accordance with ”.
+
+**21** After the entry relating to section 92(7C) of that Act there shall be inserted—
+
+> |  |  |  |  |  |  |  |
+> |---|---|---|---|---|---|---|
+> | RTA section 92(10) | Driving after making false declaration as to physical fitness. | Summarily. | Level 4 on the standard scale. | Discretionary. | Obligatory. | 3-6 |
+
+**22** In the entry relating to section 94 of that Act (failure to notify Secretary of State about disability etc) for the words “Section 94” there shall be substituted the words “ Section 94(3) ”.
+
+**23** After that entry there shall be inserted—
+
+> |  |  |  |  |  |  |  |
+> |---|---|---|---|---|---|---|
+> | RTA section 94(3A) | Driving after such a failure. | Summarily. | Level 3 on the standard scale. | Discretionary. | Obligatory. | 3-6 |
+> | RTA section 94A | Driving after refusal of licence under section 92(3) or revocation under section 93. | Summarily. | 6 months or level 5 on the standard scale or both. | Discretionary. | Obligatory. | 3-6 |
+
+**24** In the entry relating to section 96 of that Act (driving with uncorrected defective eyesight or refusing to submit to test of eyesight) in column 7 for “2” there shall be substituted “ 3 ”.
+
+**25** In the entry relating to section 103(1)(b) of that Act (obtaining licence, or driving, while disqualified) for the words in column 7 there shall be substituted “ 6 ”.
+
+**26** In the entry relating to section 143 of that Act (using vehicle while uninsured or unsecured against third-party risks) in column 4 for the words “Level 4” there shall be substituted the words “ Level 5 ”.
+
+**27** In the entry relating to section 164 of that Act (failing to produce driving licence to constable etc) in column 2 for the words “to constable” there shall be substituted the word “ etc ”.
+
+**28** In the entry relating to section 165 of that Act (failing to give constable certain information or to produce documents) the word “constable” shall be omitted.
+
+**29** In the entry relating to section 170(4) of that Act (failing to stop after accident or give particulars or report accident)—
+
+(a) for the words in column 4 there shall be substituted “ Six months or level 5 on the standard scale or both ”; and
+
+(b) in column 7 for “8-10” there shall be substituted “ 5-10 ”.
+
+**30** In the entry relating to section 172 of that Act (failure of person keeping vehicle and others to give police information as to identity of driver etc in the case of certain offences) the following shall be inserted in columns 5 to 7—
+
+> |  |  |  |  |  |  |  |
+> |---|---|---|---|---|---|---|
+> |  |  |  |  | Discretionary, if committed otherwise than by virtue of subsection (5) or (11). | Obligatory, if committed otherwise than by virtue of subsection (5) or (11). | 3 |
+
+**31** In the entry relating to section 178 of that Act (taking etc in Scotland a motor vehicle without authority), the entries in columns 6 and 7 shall be omitted.
+
+**32** (1) Part II of Schedule 2 to the [^M69]Road Traffic Offenders Act 1988 (disqualification and endorsement in relation to manslaughter, certain offences of theft etc) shall be amended as follows.
+
+(2) In the entry relating to manslaughter or culpable homicide, in column 4 for “4” there shall be substituted “ 3-11 ”.
+
+(3) The entries in columns 3 and 4 relating to stealing or attempting to steal a motor vehicle or to section 12 or 25 of the [^M70]Theft Act 1968 shall be omitted.
+
+## [^F51] SCHEDULE 3 — [^F51] Permitted and special parking areas outside London
+
+*[^F51]Section 43.*
+
+### [^F51] Permitted parking areas
+
+**[^F51]1** [^F51]1 [^F51]Where an application for an order under this sub-paragraph is made to the Secretary of State—
+
+[^F51]a [^F51]with respect to the whole, or any part, of their area, by a county council in England [^F52][^F51]. . .;
+
+[^F51][[^F53]aa [^F51]with respect to the whole, or any part, of their area, by a county council or county borough council in Wales;]
+
+[^F51]b [^F51]with respect to the whole of their area, by a metropolitan district council;
+
+[^F51]c [^F51]with respect to the whole of their areas, by two or more metropolitan district councils acting jointly;
+
+[^F51]d [^F51]with respect to the whole, or any part, of their area, by a [^F51][[^F54]council constituted under section 2 of the Local Government [^F51]etc.[^F51] (Scotland) Act 1994][^F51] in Scotland;
+
+[^F55][^F51]e [^F51]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . or
+
+[^F51]f [^F51]with respect to the whole, or any part, of the Isles of Scilly, by the Council of the Isles of Scilly,
+
+[^F51]he may make an order designating the whole, or any part, of the area to which the application relates as a permitted parking area.
+
+[^F55][^F51]2 [^F51]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F51]3 [^F51]Before making an order under sub-paragraph (1) above, the Secretary of State shall consult the appropriate chief officer of police.
+
+[^F51]4 [^F51]While an order under sub-paragraph (1) above is in force, the following provisions shall cease to apply in relation to the permitted parking area designated by the order—
+
+[^F51]a [^F51]section 35A(1) of the [^M71][^F51]Road Traffic Regulation Act 1984 (offences), so far as it relates to the contravention of, or non-compliance with, any provision of an order made under section 35 of that Act (use of parking places) in relation to parking places provided under section 32(1)(b) of that Act (power of local authorities to provide free parking places on roads); [^F56][^F51]. . .
+
+[^F51][[^F57]ab [^F51]section 35A(1) of the Act of 1984 (offences), so far as it relates to the contravention of, or non-compliance with any other provision of any order made under section 35 of that Act (use of parking places) applying in relation to a stationary vehicle.]
+
+[^F51]b [^F51]section 47(1) of the Act of 1984 (offences) in so far as it applies in relation to any designated parking place.
+
+[^F51][[^F58]; and
+
+[^F51]c [^F51]subsections (5) and (6) of section 53 of the Act of 1984 so far as those subsections apply in relation to stationary vehicles.]
+
+[^F51]5 [^F51]The Secretary of State may by order amend sub-paragraph (4) above by adding further provisions (but only in so far as they apply in relation to stationary vehicles).
+
+[^F51]6 [^F51]Before making an order under sub-paragraph (5) above, the Secretary of State shall consult—
+
+[^F51][[^F59]a [^F51]the chief constable of the Police Service of Scotland; and]
+
+[^F51]b [^F51]such associations of local authorities (if any),
+
+[^F51]as he considers appropriate.
+
+### [^F51] Special parking areas
+
+**[^F51]2** [^F51]1 [^F51]Where an application for an order under this sub-paragraph is made to the Secretary of State—
+
+[^F51]a [^F51]with respect to the whole, or any part, of their area, by a county council in England [^F60][^F51]. . .;
+
+[^F51][[^F61]aa [^F51]with respect to the whole, or any part, of their area, by a county council or county borough council in Wales;]
+
+[^F51]b [^F51]with respect to the whole, or any part, of their area, by a metropolitan district council;
+
+[^F51]c [^F51]with respect to the whole, or any part, of their area, by a [^F51][[^F62]council constituted under section 2 of th Local Government [^F51]etc.[^F51] (Scotland) Act 1994][^F51] in Scotland; or
+
+[^F51]d [^F51]with respect to the whole, or any part, of the Isles of Scilly, by the Council of the Isles of Scilly,
+
+[^F51]he may make an order designating the whole, or any part, of the area to which the application relates as a special parking area.
+
+[^F63][^F51]2 [^F51]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F51]3 [^F51]Before making an order under sub-paragraph (1) above, the Secretary of State shall consult the appropriate chief officer of police.
+
+[^F51]4 [^F51]While an order under sub-paragraph (1) above is in force, the following provisions shall cease to apply in relation to the special parking area designated by the order—
+
+[^F51]a [^F51]section 5 of the [^M72][^F51]Road Traffic Regulation Act 1984 (contravention of a traffic regulation order under section 1 of that Act to be an offence), so far as it relates to the contravention of any provision of such an order prohibiting or restricting the waiting, or the loading and unloading, of vehicles;
+
+[^F51]b [^F51]section 11 of the Act of 1984 (contravention of, or failure to comply with, experimental traffic order under section 9 of that Act), so far as it relates to the contravention of, or failure to comply with, any provision of such an order prohibiting or restricting the waiting, or the loading and unloading, of vehicles;
+
+[^F51][[^F64]baa [^F51]section 16C of the Road Traffic Regulation Act 1984 (contravention of order under section 16A of that Act to be an offence) so far as it applies in relation to stationary vehicles;]
+
+[^F51][[^F65]ba [^F51]section 16(1) of the Act of 1984 [^F66][^F51] (contravention of temporary orders under section 14 of that Act to be an offence) so far as it relates to the contravention of any provision of an order or notice under section 14 of that Act prohibiting or restricting the waiting, or the loading and unloading, of vehicles;
+
+[^F51]bb [^F51]section 61(5) of the Act of 1984 (prohibition of vehicles in loading areas) so far as it applies in relation to stationary vehicles;.]
+
+[^F51][[^F67]bc [^F51]section 62(5) of the Roads (Scotland) Act 1984 (contravention of order under subsection (1) of that section to be an offence) so far as it applies in relation to stationary vehicles;]
+
+[^F51]c [^F51]section 129(6) of the [^M73][^F51]Roads (Scotland) Act 1984 (parking of a motor vehicle wholly or partly on a cycle track to be an offence);
+
+[^F51]d [^F51]section 19 of the [^M74][^F51]Road Traffic Act 1988 (parking of heavy vehicles on verges, central reservations and footpaths [^F51]etc.[^F51] to be an offence);
+
+[^F51]e [^F51]section 21 of the Act of 1988 (prohibition of driving or parking on cycle tracks), so far as it makes it an offence to park a motor vehicle wholly or partly on a cycle track[^F51][[^F68];
+
+[^F51]f [^F51]section 36(1) of the Act of 1988 (failure to comply with traffic signs), so far as it makes it an offence to fail to comply with an indication given by a traffic sign of a prohibition on causing a vehicle to stop on part of a road in England (but not in London) demarcated by that sign as a stopping area for a bus][^F51].
+
+[^F51][[^F69]f [^F51]section 36(1) of the Act of 1988 (drivers to comply with traffic signs), so far as it makes it an offence to fail to comply with an indication given by a traffic sign of a prohibition on causing a vehicle to stop on part of a road demarcated by that sign as a stopping area for a bus.]
+
+[^F51]5 [^F51]The Secretary of State may by order amend sub-paragraph (4) above by adding further provisions (but only in so far as they apply in relation to stationary vehicles).
+
+[^F51]6 [^F51]Before making an order under sub-paragraph (5) above, the Secretary of State shall consult—
+
+[^F51][[^F70]a [^F51]the chief constable of the Police Service of Scotland; and]
+
+[^F51]b [^F51]such associations of local authorities (if any);
+
+[^F51]as he considers appropriate.
+
+### [^F51] Control of parking in permitted and special parking areas
+
+**[^F51]3** [^F51]1 [^F51]This paragraph applies in relation to any vehicle which is stationary in a permitted parking area, or special parking area, in circumstances in which an offence would have been committed with respect to the vehicle but for paragraph 1 or (as the case may be) paragraph 2 above.
+
+[^F51]2 [^F51]A penalty charge shall be payable with respect to the vehicle, by the owner of the vehicle.
+
+[^F51]3 [^F51]An order under paragraph 1 or 2 above designating a permitted parking area, or special parking area, may—
+
+[^F51]a [^F51]provide for such provisions of Part II of this Act as the Secretary of State considers appropriate to apply, with such modifications (if any) as he considers appropriate, in relation to the permitted or special parking area in question; and
+
+[^F51]b [^F51]make such modifications of any enactment, including any provision of this Act, as the Secretary of State considers appropriate in consequence of the provisions of paragraph 1 or 2 above, this paragraph or the order.
+
+### [^F51] Orders under this Schedule
+
+**[^F51]4** [^F51]1 [^F51]Any power to make an order conferred by this Schedule shall be exercisable by statutory instrument.
+
+[^F51]2 [^F51]Any such statutory instrument shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+## SCHEDULE 4 — Minor and consequential amendments
+
+*Section 48.*
+
+### The Transport Act 1968 (c.73)
+
+**[^F71]1** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**2** In section 99(8) of that Act (inspection of records), for the words from “a certifying” to “1988” there shall be substituted the words “ an examiner appointed under section 66A of the Road Traffic Act 1988 ”.
+
+### The Chronically Sick and Disabled Persons Act 1970 (c.44)
+
+**3** In section 20(1) of the Chronically Sick and Disabled Persons Act 1970, in paragraph (b) (certain invalid carriages to be treated as not being motor vehicles for the purposes of the Road Traffic Act 1988 etc)—
+
+(a) after the words “Road Traffic Act 1988” there shall be inserted the words “ , except section 22A of that Act (causing danger to road users by interfering with motor vehicles etc), ”, and
+
+(b) at the end of the paragraph there shall be added the words “ and sections 1 to 4, 163, 170 and 181 of the Road Traffic Act 1988 shall not apply to it ”.
+
+### The Vehicles (Excise) Act 1971 (c.10)
+
+**[^F72]4** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F73]5** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Road Traffic (Foreign Vehicles) Act 1972 (c.27)
+
+**6** In section 1 of the Road Traffic (Foreign Vehicles) Act 1972 (power to prohibit driving of foreign goods vehicle) in subsection (6)(a) for sub-paragraphs (i) to (iii) there shall be substituted the words “ section 40A of the Road Traffic Act 1988 (using vehicle in dangerous condition etc) or regulations under section 41 of that Act (construction, weight, equipment etc of motor vehicles and trailers), ”.
+
+**7** In section 2(3B) of that Act (provisions supplementary to section 1) for “72(9)” there shall be substituted “ 72A ”.
+
+**8** In section 7(1) of that Act (interpretation)—
+
+(a) in the definition of “examiner”, for the words following “means” there shall be substituted the words “ an examiner appointed under section 66A of the Road Traffic Act 1988, or a constable authorised to act for the purposes of this Act by or on behalf of a chief officer of police ”, and
+
+(b) in the definition of “official testing station” for “72(8)” there shall be substituted “ 72A ”.
+
+**9** In Schedule 2 to that Act (provisions relating to vehicles and their drivers) after the entry relating to section 100 of the [^M75]Transport Act 1968 there shall be inserted the following entry—
+
+> |  |  |
+> |---|---|
+> | Section 40A of the Road Traffic Act 1988. | To create offence of using motor vehicle or trailer in dangerous condition etc. |
+
+### The International Road Haulage Permits Act 1975 (c.46)
+
+**10** In section 1(9) of the International Road Haulage Permits Act 1975 in the definition of “examiner” for the words “section 68(1)” there shall be substituted the words “ section 66A ”.
+
+### The Highways Act 1980 (c. 66)
+
+**11** In section 42 of the Highways Act 1980 (power of district councils to maintain certain highways) in subsection (2)(c)(ii) for the words “under section 84 of that Act imposing a special limit” there shall be substituted the words “ made by virtue of section 84(1)(a) of that Act imposing a speed limit ”.
+
+**12** In each of sections 90A(1) and 90B(1) of that Act (construction of road humps) at the beginning of paragraph (b) there shall be inserted the words “ (whether or not the highway is subject to such a limit) ”.
+
+**13** In section 90F(2) of that Act (interpretation) for the definition of “statutory” there shall be substituted—
+
+> “statutory speed limit” means a speed limit having effect by virtue of an enactment other than section 84(1)(b) or (c) of the Road Traffic Regulation Act 1984 (temporary and variable speed limits).
+
+### The Public Passenger Vehicles Act 1981 (c.14)
+
+**14** In section 6(1)(a) of the Public Passenger Vehicles Act 1981 (certificates of fitness etc), for the words “a certifying officer” there shall be substituted the words “ an examiner appointed under section 66A of the Road Traffic Act 1988 ”.
+
+**15** In section 10(2) of that Act (approval of type vehicle), for the words “the certifying officer” there shall be substituted the words “ an examiner appointed under section 66A of the Road Traffic Act 1988 ”.
+
+**16** (1) Section 51 of that Act (appeals to Secretary of State) shall be amended as follows.
+
+(2) In subsection (1) for the words “a certifying officer” there shall be substituted the words “ an examiner ”.
+
+(3) In subsection (4) for the words “the certifying officer” in each place where they occur there shall be substituted the words “ the examiner ”.
+
+### The Criminal Justice Act 1982 (c.48)
+
+**17** In Part II of Schedule 1 to the Criminal Justice Act 1982 (offences excluded from Secretary of State’s power to make orders concerning the early release of prisoners)—
+
+(a) in the entry relating to section 1 of the [^M76]Road Traffic Act 1988, for the word “reckless” there shall be substituted the word “ dangerous ”, and
+
+(b) after that entry there shall be inserted— “ Section 3A (causing death by careless driving when under the influence of drink or drugs). ”
+
+### The Transport Act 1982 (c.49)
+
+**18** (1) Section 9 of the Transport Act 1982 (private sector vehicle testing: the testing and surveillance functions) shall be amended as follows.
+
+(2) Under the cross-heading “Functions under the 1988 Act”—
+
+(a) for the paragraph beginning “The power of entry”, there shall be substituted— “ The power of entry, inspection and detention of vehicles under section 68, but only in relation to vehicles brought to the place of inspection in pursuance of a direction given by a vehicle examiner or a constable under subsection (3) of that section. ”,
+
+(b) in the following paragraph, after “69” there shall be inserted “ 69A, ”, and for the word “goods vehicles” there shall be substituted the word “ vehicles ”.
+
+(3) Under the cross-heading “Functions under the 1981 Act”, the paragraph beginning “Any functions under section 9” shall be omitted.
+
+**19** (1) Section 10 of that Act (private sector vehicle testing: supplementary) shall be amended as follows.
+
+(2) For subsection (3) there shall be substituted—
+
+> (3) The words “or an authorised inspector” shall be inserted—
+>
+> (a) in sections 51(1)(b) and 61(2)(a) of the 1988 Act, after the words “a vehicle examiner”, and
+>
+> (b) in section 6(1)(a) and 10(2) of the 1981 Act, after the words “Act 1988”;
+>
+> and the words “or authorised inspector” shall be inserted after the word “examiner” wherever occurring in section 69 of the 1988 Act.
+
+(3) In subsection (6) for “68(3)” there shall be substituted “ 68(1) ”, and for “(4)” there shall be substituted “ (3) ”.
+
+(4) In subsection (9), in subsection (2A) to be inserted in section 20 of the [^M77]Public Passenger Vehicles Act 1981, for the words “public service vehicle examiner” there shall be substituted the words “ an examiner appointed under section 66A of the Road Traffic Act 1988 ”.
+
+(5) In subsection (10) for the words from “certifying officer” to “goods vehicle examiner” there shall be substituted the words “ vehicle examiner ”.
+
+**20** For section 20 of that Act (substitution of new section for section 72 of the 1988 Act) there shall be substituted—
+
+> **Amendment of section 72 of 1988 Act.**
+>
+> **20** In section 72 of the 1988 Act (removal of prohibitions) after the word “constable” in each place where it occurs in subsections (1), (5) and (7), there shall be inserted the words “or authorised inspector”.
+
+**21** For section 21(4) of that Act (amendments with respect to appeals) there shall be substituted—
+
+> (4) In section 51 of that Act (appeals to the Secretary of State)—
+>
+> (a) in subsection (1) after the words “examiner” there shall be inserted the words “ or an authorised inspector ”
+>
+> (b) after subsection (1) there shall be inserted the following subsections—
+>
+> > (1A) A person aggrieved by the refusal of the prescribed testing authority to approve a vehicle as a type vehicle under section 10 of this Act or by the withdrawal by that authority under that section of such approval may appeal to the Secretary of State
+> >
+> > (1B) On any appeal under subsection (1A) above, the Secretary of State shall cause an examination of the vehicle concerned to be made by an officer of the Secretary of State appointed by him for the purpose and shall make such determination on the basis of the examination as he thinks fit.
+>
+> ; and
+>
+> (c) in subsection (4) after the words “examiner” in both places where it occurs there shall be inserted the words “ prescribed testing authority or authorised inspector concerned ”.
+
+**22** (1) Section 24 of that Act (falsification of documents) shall be amended as follows.
+
+(2) In subsection (2) for paragraph (a) there shall be substituted—
+
+(a) in subsection (4) after the words “of this Act” there shall be inserted the words “ or an authorised inspector appointed under section 8 of the Transport Act 1982 ”;
+
+(3) In subsection (4), in section 66A(2) to be inserted in the [^M78]Public Passenger Vehicles Act 1981, for the words “a certifying officer, a public service vehicle examiner” there shall be substituted the words “ an examiner appointed under section 66A of the Road Traffic Act 1988 ”.
+
+**23** In section 26 of that Act (interpretation) for the definition of “goods vehicle examiner” there shall be substituted— “ “vehicle examiner” means an examiner appointed under section 66A of the 1988 Act. ”
+
+### The Road Traffic Regulation Act 1984 (c.27)
+
+**24** In section 9 of the Road Traffic Regulation Act 1984 (experimental traffic orders) in subsection (1)(b), as substituted by the [^M79]New Roads and Street Works Act 1991, for the words “83(2) or 84” there shall be substituted the words “ or 83(2) or by virtue of section 84(1)(a) ”.
+
+**25** In section 17(2) of that Act (traffic regulation on special roads) at the end there shall be added—
+
+> (d) include provisions having effect in such places, at such times, in such manner or in such circumstances as may for the time being be indicated by traffic signs in accordance with the regulations.
+
+**26** In section 44 of that Act (control of off-street parking outside Greater London) in subsection (5) for the words “under section 84” there shall be substituted the words “ made by virtue of section 84(1)(a) ”.
+
+**27** In section 49 of that Act (supplementary provisions as to designation orders and designated parking places), after subsection (4) there shall be inserted the following subsection—
+
+> (4A) A constable, or a person acting under the instructions (whether general or specific) of the chief officer of police, may suspend the use of a parking place designated under section 45 of this Act for not more than 7 days in order to prevent or mitigate congestion or obstruction of traffic, or danger to or from traffic, in consequence of extraordinary circumstances.
+
+**28** In section 51 of that Act (parking devices), in subsection (5) the words “being not less than 2 years” shall be omitted.
+
+**29** In section 65 of that Act (powers and duties of highway authorities as to placing of traffic signs) after subsection (1) there shall be inserted—
+
+> (1A) The power to give general directions under subsection (1) above includes power to require equipment used in connection with traffic signs to be of a type approved in accordance with the directions.
+
+**30** In section 85 of that Act (traffic signs for indicating speed restrictions) in subsections (1) and (2)(a) the words “the prescribed” shall be omitted.
+
+**31** (1) Section 96 of that Act (additional powers of traffic wardens) shall be amended as follows.
+
+(2) In subsection (2) at the end of paragraph (b) there shall be inserted—
+
+> (bb) in this Act—
+>
+> (i) section 100(3) (which relates to the interim disposal of vehicles removed under section 99); and
+>
+> (ii) sections 104 and 105 (which relate to the immobilisation of illegally parked vehicles);
+
+.
+
+(3) At the end of that section there shall be added—
+
+> (4) Where an order has been made pursuant to subsection (2)(bb)(i) above, in section 100(3) of this Act the words “chief officer of the police force to which the constable belongs” shall be deemed to include a reference to a chief officer of police under whose direction a traffic warden acts.
+>
+> (5) Any order made under section 95(5) of this Act may make different provision for different cases or classes of case, or in respect of different areas.
+
+**32** At the end of section 99 of that Act (removal of vehicles illegally parked) there shall be inserted—
+
+> (6) For the purposes of this section, the suspension under section 13A or 49 of this Act of the use of a parking place is a restriction imposed under this Act.
+
+**33** In section 103 of that Act (supplementary provision as to removal of vehicles), for subsection (3) there shall be substituted—
+
+> (3) Regulations made under sections 99 to 102 of this Act may make different provision for different cases or classes of case or in respect of different areas.
+
+**34** (1) Section 104 of that Act (immobilisation of vehicles illegally parked) shall be amended as follows.
+
+(2) In subsection (3) for the word “constable” there shall be substituted the words “ person authorised to give such a direction by the chief officer of police within whose area the vehicle in question was found ”.
+
+(3) In subsection (12) there shall be added at the end “ or classes of case or in respect of different areas ”.
+
+**35** At the end of section 104 of that Act (immobilisation of vehicles illegally parked) there shall be inserted—
+
+> (12A) For the purposes of this section, the suspension under section 13A or 49 of this Act of the use of a parking place is a restriction imposed under this Act.
+
+**36** (1) Section 105 of that Act (exemptions from section 104) shall be amended as follows.
+
+(2) In subsection (6)(a), for the words from “either” to “use) of” there shall be substituted the words “ in accordance with regulations under ”.
+
+(3) In subsection (6)(b), for “117(2)(b)” there shall be substituted “ 117(1)(b) ”.
+
+**37** In paragraph 13 of Schedule 9 to that Act (consent of Secretary of State before local authority make certain orders), after sub-paragraph (1)(d)(ii) there shall be inserted—
+
+> (iii) a provision imposing a prohibition by virtue of paragraph (b) or (c) of that subsection, or
+
+.
+
+### The Roads (Scotland) Act 1984 (c. 54)
+
+**38** (1) In section 36 of the Roads (Scotland) Act 1984 (construction of road humps by roads authority) at the beginning of paragraph (b) there shall be inserted the words “ (whether or not the road is subject to such a limit) ”.
+
+(2) In section 40 of that Act (interpretation of sections 36 to 39) at the end of the definition of “statutory” there shall be added the words “ other than section 84(1)(b) or (c) of the Road Traffic Regulation Act 1984 (temporary and variable speed limits) ”.
+
+### The Police and Criminal Evidence Act 1984 (c.60)
+
+**[^F74]39** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Coroners Act 1988 (c.13)
+
+**40** In section 16 of the Coroners Act 1988 (adjournment of inquest in certain cases) in subsection (1)(a)(ii) for the words from “section” to “driving)” there shall be substituted the words “ section 1 or 3A of the Road Traffic Act 1988 (dangerous driving or careless driving when under the influence of drink or drugs) ”.
+
+**41** In section 17 of that Act (supplementary provisions) in subsections (1)(b) and (2)(b) for the words from “section” to “driving)” there shall be substituted the words “ section 1 or 3A of the Road Traffic Act 1988 (dangerous driving or careless driving when under the influence of drink or drugs) ”.
+
+### The Road Traffic Act 1988 (c.52)
+
+**42** In section 7 of the Road Traffic Act 1988 (provision of specimens for analysis)—
+
+(a) in subsection (1) for the words “section 4” there shall be substituted the words “ section 3A, 4 ”, and
+
+(b) in subsection (3)(c) for the words “section 4” there shall be substituted the words “ section 3A or 4 ”.
+
+**43** In section 10 of that Act (detention of persons affected by alcohol or a drug) in subsections (1) and (2) for the words “motor vehicle” in each place where they occur there shall be substituted the words “ mechanically propelled vehicle ”.
+
+**44** In section 11(1) of that Act (interpretation), for “4” there shall be substituted “ 3A ”.
+
+**45** In section 12 of that Act (motor racing on public ways), in subsection (2) for the words “public highway” there shall be substituted the word “ highway ”.
+
+**46** In section 13 of that Act (regulation of motoring events on public ways), in subsection (4) for the words “public highway” there shall be substituted the word “ highway ”.
+
+**47** In section 14 of that Act (seat belts: adults) in subsection (2)(b)(i) for the word “addresses” there shall be substituted the word “ addressees ”.
+
+**48** In section 22 of that Act (leaving vehicles in dangerous positions) for the words “be likely to cause danger” there shall be substituted the words “ involve a danger of injury ”.
+
+**49** In section 31 of that Act (regulation of cycle racing on public ways) for subsection (6) there shall be substituted—
+
+> (6) In this section “public way” means, in England and Wales, a highway, and in Scotland, a public road but does not include a footpath.
+
+**50** (1) Section 41 of that Act (regulation of construction, weight, equipment and use of vehicles) shall be amended as follows.
+
+(2) In subsection (2) at the end of paragraph (e) there shall be added the words “ (by means of the fixing of plates or otherwise) and the circumstances in which they are to be marked, ”.
+
+(3) In subsection (2) after paragraph (j) there shall be inserted—
+
+> (jj) speed limiters,
+
+.
+
+(4) After subsection (4) there shall be inserted—
+
+> (4A) Regulations under this section with respect to speed limiters may include provision—
+>
+> (a) as to the checking and sealing of speed limiters by persons authorised in accordance with the regulations and the making of charges by them,
+>
+> (b) imposing or providing for the imposition of conditions to be complied with by authorised persons,
+>
+> (c) as to the withdrawal of authorisations.
+
+**51** In section 44(1) of that Act (authorisation of use on roads of special vehicles not complying with regulations under section 41) for the words from “and nothing” to “prevent” there shall be substituted the words “ and sections 40A to 42 of this Act shall not apply in relation to ”.
+
+**52** (1) Section 45 of that Act (tests of satisfactory condition of vehicles) shall be amended as follows.
+
+(2) In subsection (1), for the words “prescribed statutory requirements” onwards there shall be substituted the words
+
+> following requirements are complied with, namely—
+>
+> (a) the prescribed statutory requirements relating to the construction and condition of motor vehicles or their accessories or equipment, and
+>
+> (b) the requirement that the condition of motor vehicles should not be such that their use on a road would involve a danger of injury to any person.
+
+(3) In subsection (3), for paragraph (b) there shall be substituted—
+
+> (b) examiners appointed under section 66A of this Act
+
+.
+
+**53** In section 46(a) of that Act (regulations as to authorisation of examiners), after the words “of examiners” there shall be inserted the words “ in accordance with subsection (3)(a) of that section ”.
+
+**54** (1) Section 49 of that Act (tests of satisfactory condition of goods vehicles and determination of plated weights etc) shall be amended as follows.
+
+(2) In subsection (1), for the words following paragraph (b) there shall be substituted the words
+
+> or
+>
+> (c) for the purpose of ascertaining whether the condition of the vehicle is such that its use on a road would involve a danger of injury to any person,
+>
+> or for any of those purposes.
+
+(3) In subsection (2)(b), after the word “requirements” there shall be inserted the words “ and the requirement that the condition of the vehicle is not such that its use on a road would involve a danger of injury to any person ”.
+
+(4) In subsection (4), in the definition of “goods vehicle test”, after the word “requirements” there shall be inserted the words “ , or the requirement that the condition of the vehicle is not such that its use on a road would involve a danger of injury to any person, ”.
+
+**55** (1) Section 50 of that Act (appeals against determinations) shall be amended as follows.
+
+(2) In subsection (1) for the words “an area” onwards there shall be substituted the words “ the Secretary of State ”.
+
+(3) Subsections (2) and (3) shall be omitted.
+
+**56** (1) Section 73 of that Act (provisions supplementary to sections 69 to 72) shall be amended as follows.
+
+(2) For subsection (1) there shall be substituted—
+
+> (1) Where it appears to a person giving a notice under section 69(6) or 70(2) of this Act that the vehicle concerned is an authorised vehicle, he must as soon as practicable take steps to bring the contents of the notice to the attention of—
+>
+> (a) the traffic commissioner by whom the operator’s licence was granted for the vehicle, and
+>
+> (b) the holder of the licence if he is not in charge of the vehicle at the time when the notice is given.
+>
+> (1A) Where it appears to a person giving a notice under section 69(6) or 70(2) of this Act that the vehicle concerned is used under a PSV operator’s licence, he must as soon as practicable take steps to bring the contents of the notice to the attention of—
+>
+> (a) the traffic commissioner by whom the PSV operator’s licence was granted for the vehicle, and
+>
+> (b) the holder of the licence if he is not in charge of the vehicle at the time when the notice is given.
+>
+> (1B) In a case not within subsection (1) or subsection (1A) above, a person giving a notice under section 69(6) or 70(2) of this Act must as soon as practicable take steps to bring the contents of the notice to the attention of the owner of the vehicle if he is not in charge of it at the time when the notice is given.
+>
+> (1C) A person giving a notice to the owner of a vehicle under section 72(7) of this Act must as soon as practicable take steps to bring the contents of the notice to the attention of any other person—
+>
+> (a) who was the person to whom the previous notice under section 69(6) or 70(2) was given and was then the owner of the vehicle, or
+>
+> (b) to whose attention the contents of the previous notice were brought under this section.
+
+(3) Subsection (2) shall be omitted.
+
+(4) In subsection (4) at the end there shall be added the words “ ; and “PSV operator’s licence” has the same meaning as in the Public Passenger Vehicles Act 1981 ”.
+
+**57** In subsection (1)(a) of section 74 of that Act (operator’s duty to inspect goods vehicles) after the word “whether” there shall be inserted the words
+
+> the following requirements are complied with, namely—
+>
+> (i)
+
+and for the words “are complied with” there shall be substituted the words
+
+> and
+>
+> (ii) the requirement that the condition of the vehicle is not such that its use on a road would involve a danger of injury to any person
+
+.
+
+**58** (1) Section 76 of that Act (fitting and supply of defective or unsuitable vehicle parts) shall be amended as follows.
+
+(2) In subsection (1), after the words “to the vehicle” there shall be inserted the words “ involve a danger of injury to any person or ”.
+
+(3) In subsection (2)(b)(ii), after the words “its use” there shall be inserted the words “ on a road ”, and at the end there shall be added the words “ and would not involve a danger of injury to any person. ”
+
+(4) At the end of each of subsection (3), (5)(b)(ii) and (6)(a) there shall be added the words “ or involve a danger of injury to any person ”.
+
+**59** (1) Section 79 of that Act (provisions relating to weighing of motor vehicles) shall be amended as follows.
+
+(2) In subsection (2)—
+
+(a) for “68(1)” there shall be substituted “ 66A ”;
+
+(b) for the words from “vehicles of” to “vehicles generally” there shall be substituted the words “ goods vehicles, public service vehicles, and vehicles which are not public service vehicles but are adapted to carry more than eight passengers, ”.
+
+(3) In subsection (3)—
+
+(a) for the words from “vehicles of” to “vehicles generally” there shall be substituted the words “ such vehicles ”, and
+
+(b) for the words “a certifying officer,” there shall be substituted the word “ an ”.
+
+**60** In section 84(2) of that Act (remuneration of examiners), for the words from “goods” to “73” there shall be substituted the words “ examiners appointed under section 66A ”.
+
+**61** In section 85 of that Act (interpretation of Part II)—
+
+(a) in the definition of “official testing station” for “72(8)” there shall be substituted “ 72A ”, and
+
+(b) after the definition of “prescribed” there shall be inserted—
+
+> “public service vehicle” has the same meaning as in the Public Passenger Vehicles Act 1981,
+
+.
+
+**62** In section 86 of that Act (index to Part II), in the table, after the entry for “Prescribed” there shall be inserted—
+
+> |  |  |
+> |---|---|
+> | Public service vehicle | Section 85 |
+
+and after the entry for “Type approval requirements” there shall be inserted—
+
+> |  |  |
+> |---|---|
+> | Vehicle examiner | Section 66A |
+
+.
+
+**63** In section 89 of that Act (tests of competence to drive) at the end of subsection (3)(a) there shall be inserted the words “ and section 36 of the Road Traffic Offenders Act 1988 (disqualification), ”.
+
+**64** In section 115(3) of that Act (revocation or suspension of large goods vehicle or passenger-carrying vehicle driver’s licences) for the words “subsection (1)(a) above” there shall be substituted the words “ this section or section 117 of this Act ”.
+
+**65** (1) Section 117 of that Act (disqualification on revocation of large goods vehicle or passenger-carrying vehicle driver’s licences) shall be amended as follows.
+
+(2) In subsection (1), for the words “for the purposes of that paragraph” there shall be substituted the words “ in pursuance of section 115(3) ”.
+
+(3) After subsection (2) there shall be inserted—
+
+> (2A) Regulations may make provision for the application of subsections (1) and (2) above, in such circumstances and with such modifications as may be prescribed, where a person’s large goods vehicle or passenger-carrying vehicle driver’s licence is treated as revoked by virtue of section 37(1) of the Road Traffic Offenders Act 1988 (effect of disqualification by order of a court).
+
+**66** In section 152 of that Act (duties of insurers etc: exceptions) at the end of subsection (2) there shall be added the words “ and, for the purposes of this section, “material” means of such a nature as to influence the judgment of a prudent insurer in determining whether he will take the risk and, if so, at what premium and on what conditions. ”
+
+**67** In section 163(1) of that Act (power of police to stop vehicles) for the words “motor vehicle” there shall be substituted the words “ mechanically propelled vehicle ”.
+
+**68** (1) Section 164 of that Act (power of constable to require production of driving licence etc) shall be amended as follows.
+
+(2) In subsection (1), after the word “constable” wherever it occurs there shall be inserted the words “ or vehicle examiner ”.
+
+(3) In subsection (2), for the words “Such a person” there shall be substituted the words “ A person required by a constable under subsection (1) above to produce his licence ”.
+
+(4) In subsection (3), after the word “constable” there shall be inserted the words “ or vehicle examiner ”.
+
+(5) In subsection (5) for the words “section 27 of the Road Traffic Offenders Act 1988” there shall be substituted the words “ section 26 or 27 of the Road Traffic Offenders Act 1988 or section 44 of the Powers of Criminal Courts Act 1973 or section 223A or 436A of the Criminal Procedure (Scotland) Act 1975. ”
+
+(6) In subsection (6) for the words “and (8)” there shall be substituted the words “ to (8A) ”.
+
+(7) After subsection (8) there shall be inserted—
+
+> (8A) Subsection (8) above shall apply in relation to a certificate of completion of a training course for motor cyclists as it applies in relation to a licence.
+
+(8) At the end of subsection (11) there shall be added the words “ and “vehicle examiner” means an examiner appointed under section 66A of this Act. ”
+
+**69** (1) Section 165 of that Act (powers of constables to obtain names and addresses of drivers etc) shall be amended as follows.
+
+(2) In subsection (1), after the word “constable” wherever it occurs there shall be inserted the words “ or vehicle examiner ”.
+
+(3) In subsection (5), after the word “constable” wherever it occurs there shall be inserted the words “ or vehicle examiner ”.
+
+(4) At the end of subsection (7) there shall be added the words “ and “vehicle examiner” means an examiner appointed under section 66A of this Act. ”
+
+**70** In section 166 of that Act (powers of certain officers as respects goods vehicles etc) for the words from the beginning to the end of paragraph (d) there shall be substituted the words “ A person authorised for the purpose by a traffic commissioner appointed under the Public Passenger Vehicles Act 1981, ”.
+
+**71** In section 168 of that Act (offence of failing to give name and address in relation to certain offences) in paragraph (a) for the words “motor vehicle” there shall be substituted the words “ mechanically propelled vehicle ”.
+
+**72** (1) Section 170 of that Act (duty of driver to stop, report accident and give information or documents) shall be amended as follows.
+
+(2) In subsections (1) to (3) for the words “motor vehicle” in each place where they occur there shall be substituted the words “ mechanically propelled vehicle ”.
+
+(3) In subsection (5) for the words “the vehicle” there shall be substituted the words “ a motor vehicle ”.
+
+(4) In subsection (7) for the word “five” there shall be substituted the word “ seven ”.
+
+**73** (1) Subsection (2) of section 173 of that Act (offences of forgery etc) shall be amended as follows.
+
+(2) After paragraph (c) there shall be inserted—
+
+> (cc) any seal required by regulations made under section 41 of this Act with respect to speed limiters,
+
+.
+
+(3) In paragraph (d) for the words from the beginning to “Part II of this Act)” there shall be substituted the words “ any plate containing particulars required to be marked on a vehicle by regulations under section 41 of this Act ”.
+
+(4) After paragraph (d) there shall be inserted—
+
+> (dd) any document evidencing the appointment of an examiner under section 66A of this Act,
+
+.
+
+[^F75]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6) After paragraph (l) there shall be added—
+
+> and
+>
+> (m) a certificate of the kind referred to in section 34B(1) of the Road Traffic Offenders Act 1988.
+
+**74** (1) Section 176 of that Act (power to seize documents etc) shall be amended as follows.
+
+(2) In subsection (4), for the words from “a certifying” to “68(1)” there shall be substituted the words “ an examiner appointed under section 66A ”.
+
+(3) In subsection (5)(a), for the words “for the purposes of sections 68 to 72” there shall be substituted the words “ under section 66A ”.
+
+**75** In section 177 of that Act (impersonation of, or of person employed by, authorised examiner) after the words “a person authorised” there shall be inserted the words “ in accordance with regulations made under section 41 of this Act with respect to the checking and sealing of speed limiters or a person authorised ”.
+
+**76** In section 181 of that Act (provisions as to accident inquiries) in subsections (1) and (2) for the words “motor vehicle” in each place where they occur there shall be substituted the words “ mechanically propelled vehicle ”.
+
+**77** In section 183(3) of that Act (Crown application), for the words from “68” to “1981” there shall be substituted the words “ 66A of this Act ”.
+
+**78** (1) Section 192 of that Act (interpretation) shall be amended as follows.
+
+(2) In subsection (1), in the definition of “road”—
+
+(a) after the word “road” there shall be inserted “ (a) ”, and
+
+(b) at the end there shall be inserted—
+
+> and
+>
+> (b) in relation to Scotland, means any road within the meaning of the Roads (Scotland) Act 1984 and any other way to which the public has access, and includes bridges over which a road passes,
+
+.
+
+(3) In subsection (1), in the definition of “trolley vehicle” for the words “and moved by” there shall be substituted the word “ under ”, and at the end there shall be added the words “ (whether or not there is in addition a source of power on board the vehicle) ”.
+
+(4) In subsection (2) the word “road” shall be omitted.
+
+**[^F76]79** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Road Traffic Offenders Act 1988 (c.53)
+
+**80** In section 1 of the Road Traffic Offenders Act 1988 (requirement of warning etc of prosecution of certain offences), in subsection (1) for the words “where a person” to “convicted unless” there shall be substituted the words “ a person shall not be convicted of an offence to which this section applies unless ”.
+
+**81** For subsections (4) to (6) of section 2 of that Act (requirement of warning of prosecution: supplementary) there shall be substituted—
+
+> (4) Failure to comply with the requirement of section 1(1) of this Act in relation to an offence is not a bar to the conviction of a person of that offence by virtue of the provisions of—
+>
+> (a) section 24 of this Act, or
+>
+> (b) any of the enactments mentioned in section 24(6);
+>
+> but a person is not to be convicted of an offence by virtue of any of those provisions if section 1 applies to the offence with which he was charged and the requirement of section 1(1) was not satisfied in relation to the offence charged.
+
+**82** In section 5 of that Act (exemption from Licensing Act offence) for the words “section 4” there shall be substituted the words “ section 3A, 4 ”.
+
+**83** In section 7 of that Act (duty of accused to provide licence) for the words “obligatory endorsement” there shall be substituted the words “ obligatory or discretionary disqualification ”.
+
+**84** In section 11(1) of that Act (evidence by certificate as to driver, user or owner) for the words “motor vehicle” in each place where they occur there shall be substituted the words “ mechanically propelled vehicle ”.
+
+**85** In section 12 of that Act (proof of identity of driver) after subsection (3) there shall be added—
+
+> (4) In summary proceedings in Scotland for an offence to which section 20(2) of the Road Traffic Act 1988 applies, where—
+>
+> (a) it is proved to the satisfaction of the court that a requirement under section 172(2) of the Road Traffic Act 1988 to give information as to the identity of a driver on a particular occasion to which the complaint relates has been served on the accused by post, and
+>
+> (b) a statement in writing is produced to the court, purporting to be signed by the accused, that the accused was the driver of that vehicle on that occasion,
+>
+> that statement shall be sufficient evidence that the accused was the driver of the vehicle on that occasion.
+
+**86** In section 14 of that Act (use of records kept by operators of goods vehicles) after the word “proceedings” there shall be inserted the words “ for an offence under section 40A of the Road Traffic Act 1988 or ”.
+
+**87** (1) Section 15 of that Act (use of specimens in proceedings for offences under sections 4 and 5 of the Road Traffic Act 1988) shall be amended as follows.
+
+(2) In subsection (1) for the words “section 4 or 5 of the Road Traffic Act 1988 (motor vehicles: drink and drugs)” there shall be substituted the words “ section 3A, 4 or 5 of the Road Traffic Act 1988 (driving offences connected with drink or drugs) ”, and for the words “sections 4 to 10” there shall be substituted the words “ sections 3A to 10 ”.
+
+(3) In subsection (2) after the word “cases” there shall be inserted the words “ (including cases where the specimen was not provided in connection with the alleged offence) ”.
+
+(4) For subsection (3) there shall be substituted—
+
+> (3) That assumption shall not be made if the accused proves—
+>
+> (a) that he consumed alcohol before he provided the specimen and—
+>
+> (i) in relation to an offence under section 3A, after the time of the alleged offence, and
+>
+> (ii) otherwise, after he had ceased to drive, attempt to drive or be in charge of a vehicle on a road or other public place, and
+>
+> (b) that had he not done so the proportion of alcohol in his breath, blood or urine would not have exceeded the prescribed limit and, if it is alleged that he was unfit to drive through drink, would not have been such as to impair his ability to drive properly.
+
+**88** (1) Section 17 of that Act (provisions as to proceedings for certain offences in connection with the construction and use of vehicles) shall be amended as follows.
+
+(2) In subsection (1) for the words “section 42(1) of the Road Traffic Act 1988 (contravention” there shall be substituted the words “ section 40A, 41A, 41B or 42 of the Road Traffic Act 1988 (using vehicle in dangerous condition or contravention ”.
+
+(3) In subsection (3) after the word “requirements” there shall be inserted the words “ , or so that it has ceased to be excessive, ”.
+
+**89** In section 21(3) of that Act (evidence of one witness sufficient in Scotland in relation to certain offences) for the words “or 36” there shall be substituted the words “ , 36 or 172. ”
+
+**90** (1) Section 23 of that Act (alternative verdicts in Scotland) shall be amended as follows.
+
+(2) In subsection (1)—
+
+(a) for the words “motor vehicle” there shall be substituted the words “ mechanically propelled vehicle ”; and
+
+(b) for the word “reckless” there shall be substituted the word “ dangerous ”.
+
+(3) Subsection (2) shall be omitted.
+
+**91** (1) Section 27 of that Act (production of licence) shall be amended as follows.
+
+(2) In subsection (1), for the words from “endorsement” to “Act” there shall be substituted the words “ or discretionary disqualification, and a court proposes to make an order disqualifying him or an order under section 44 of this Act, the court must, unless it has already received them, ”.
+
+(3) Subsection (2) shall be omitted.
+
+(4) In subsection (3), after the words “as required” there shall be inserted the words “ under this section or section 44 of the Powers of Criminal Courts Act 1973, or section 223A or 436A of the Criminal Procedure (Scotland) Act 1975 ”.
+
+**92** (1) Section 30 of that Act (modification of penalty points where fixed penalty also in question) shall be amended as follows.
+
+(2) In subsection (1)(a) for the words “obligatory or discretionary disqualification” there shall be substituted the words “ obligatory endorsement ”.
+
+(3) In subsection (2)—
+
+(a) the words “Subject to section 28(2) of this Act” shall be omitted,
+
+(b) in paragraph (a) for “28(1)” there shall be substituted “ 28 ”, and
+
+(c) in paragraph (b) at the end there shall be added the words “ (except so far as they have already been deducted by virtue of this paragraph) ”.
+
+(4) Subsection (3) shall be omitted.
+
+**[^F77]93** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F78]94** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**95** (1) Section 35 of that Act (disqualification for repeated offences) shall be amended as follows.
+
+(2) In subsection (1)(a) for the words “involving obligatory or discretionary disqualification” there shall be substituted the words “ to which this subsection applies ”.
+
+(3) After subsection (1) there shall be inserted—
+
+> (1A) Subsection (1) above applies to—
+>
+> (a) an offence involving discretionary disqualification and obligatory endorsement, and
+>
+> (b) an offence involving obligatory disqualification in respect of which no order is made under section 34 of this Act.
+
+(4) In subsection (2) for the words “was imposed” there shall be substituted the words “ was for a fixed period of 56 days or more and was imposed ”.
+
+(5) In subsection (3) for the words “involving obligatory of discretionary disqualification” there shall be substituted the words “ to which subsection (1) above applies ”.
+
+(6) In subsection (5) for the words following “1973” there shall be substituted the words “ or section 223A or 436A of the Criminal Procedure (Scotland) Act 1975 (offences committed by using vehicles) or a disqualification imposed in respect of an offence of stealing a motor vehicle, an offence under section 12 or 25 of the Theft Act 1968, an offence under section 178 of the Road Traffic Act 1988, or an attempt to commit such an offence ”.
+
+(7) After subsection (5) there shall be inserted—
+
+> (5A) The preceding provisions of this section shall apply in relation to a conviction of an offence committed by aiding, abetting, counselling, procuring, or inciting to the commission of, an offence involving obligatory disqualification as if the offence were an offence involving discretionary disqualification.
+
+**96** In section 37(3) of that Act (driver disqualified until test is passed entitled to provisional licence) for “36(1)” there shall be substituted “ 36 ”.
+
+**97** After section 41 of that Act there shall be inserted—
+
+> **Suspension of disqualification pending determination of applications under section 34B.**
+>
+> **41A** (1) Where a person makes an application to a court under section 34B of this Act, the court may suspend the disqualification to which the application relates pending the determination of the application.
+>
+> (2) Where a court exercises its power under subsection (1) above it must send notice of the suspension to the Secretary of State.
+>
+> (3) The notice must be sent in such manner and to such address, and must contain such particulars, as the Secretary of State may determine.
+
+**98** In section 42 of that Act (removal of disqualification) after subsection (5) there shall be inserted—
+
+> (5A) Subsection (5)(a) above shall apply only where the disqualification was imposed in respect of an offence involving obligatory endorsement; and in any other case the court must send notice of the order made under this section to the Secretary of State.
+>
+> (5B) A notice under subsection (5A) above must be sent in such manner and to such address, and must contain such particulars, as the Secretary of State may determine.
+
+**[^F79]99** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**100** (1) Section 47 of that Act (supplementary provisions as to disqualifications and endorsements) shall be amended as follows.
+
+[^F80]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) In subsection (3), for the words “any such order” there shall be substituted the words “ an order for the endorsement of a licence or the disqualification of a person ”.
+
+**101** For section 48 of that Act (exemption from disqualification and endorsement for offences against construction and use regulations) there shall be substituted—
+
+> **Exemption from disqualification and endorsement for certain construction and use offences.**
+>
+> **48** (1) Where a person is convicted of an offence under section 40A of the Road Traffic Act 1988 (using vehicle in dangerous condition etc) the court must not—
+>
+> (a) order him to be disqualified, or
+>
+> (b) order any particulars or penalty points to be endorsed on the counterpart of any licence held by him,
+>
+> if he proves that he did not know, and had no reasonable cause to suspect, that the use of the vehicle involved a danger of injury to any person.
+>
+> (2) Where a person is convicted of an offence under section 41A of the Road Traffic Act 1988 (breach of requirement as to brakes, steering-gear or tyres) the court must not—
+>
+> (a) order him to be disqualified, or
+>
+> (b) order any particulars or penalty points to be endorsed on the counterpart of any licence held by him,
+>
+> if he proves that he did not know, and had no reasonable cause to suspect, that the facts of the case were such that the offence would be committed.
+>
+> (3) In relation to licences which came into force before 1st June 1990, the references in subsections (1) and (2) above to the counterpart of a licence shall be construed as references to the licence itself.
+
+**102** For section 53 of that Act there shall be substituted—
+
+> **Amount of fixed penalty.**
+>
+> **53** (1) The fixed penalty for an offence is—
+>
+> (a) such amount as the Secretary of State may by order prescribe, or
+>
+> (b) one half of the maximum amount of the fine to which a person committing that offence would be liable on summary conviction,
+>
+> whichever is the less.
+>
+> (2) Any order made under subsection (1)(a) may make different provision for different cases or classes of case or in respect of different areas.
+
+**103** (1) Section 54 of that Act (power to give fixed penalty notices on the spot or at a police station exercisable only if offender would not if convicted be liable to disqualification under section 35) shall be amended as follows.
+
+(2) [^F81]In subsection (1), after the word “where”, there shall be inserted the words “ in England and Wales ”.
+
+(3) After subsection (9) there shall be added—
+
+> (10) In determining for the purposes of subsections (3)(b) and (5)(a) above whether a person convicted of an offence would be liable to disqualification under section 35, it shall be assumed, in the case of an offence in relation to which a range of numbers is shown in the last column of Part I of Schedule 2 to this Act, that the number of penalty points to be attributed to the offence would be the lowest in the range.
+
+**[^F82]104** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**105** In section 69(4) of that Act (references to fixed penalty clerk) after the words “of this Act” there shall be inserted the words “ (except in sections 75 to 77) ”.
+
+**106** At the end of section 86(1) of that Act (functions of traffic wardens) there shall be added the words “ unless that offence was committed whilst the vehicle concerned was stationary. ”
+
+**107** (1) Section 89 of that Act (interpretation), shall be amended as follows.
+
+(2) After the definition of “authorised person” there shall be inserted—
+
+> “chief constable” means, in Scotland in relation to any conditional offer, the chief constable for the area in which the conditional offer has been issued.
+
+(3) In the definition of “chief officer of police” for the words “or notice to owner” there shall be substituted the words “ , notice to owner or conditional offer ”.
+
+**108** In section 90 of that Act (index to Part III)—
+
+(a) in the entry relating to the expression “Conditional offer”, for the words “Section 75(4)” there shall be substituted the words “ Section 75(3) ”; and
+
+(b) at the end of the entry relating to the expression “Fixed penalty clerk” there shall be added the words “ and 75(4) ”.
+
+**109** In section 92 of that Act (persons in public service of Crown) after “16” there shall be inserted “ 20 ”.
+
+**110** In section 93(2) of that Act (persons subject to service discipline) for “4” there shall be substituted “ 3A ”.
+
+**111** (1) In subsection (1) of section 98 of that Act (interpretation), in paragraph (b) of the definition of “road”, for the words “has the same meaning as in the [^M80]Roads (Scotland) Act 1984” there shall be substituted the words “ means any road within the meaning of the Roads (Scotland) Act 1984 and any other way to which the public has access, and includes bridges over which a road passes, ”.
+
+(2) At the end of subsection (2) of that section there shall be added the word “ Act ”.
+
+**112** (1) Schedule 3 to the [^M81]Road Traffic Offenders Act 1988 (fixed penalty offences) shall be amended as follows.
+
+(2) After the entry relating to section 36 of the [^M82]Road Traffic Act 1988 there shall be inserted—
+
+> |  |  |
+> |---|---|
+> | RTA section 40A | Using vehicle in dangerous condition etc. |
+> | RTA section 41A | Breach of requirement as to brakes, steering-gear or tyres. |
+> | RTA section 41B | Breach of requirement as to weight: goods and passenger vehicles. |
+
+(3) In the entry relating to section 42 of the Road Traffic Act 1988, for the words in column 2 there shall be substituted the words “ Breach of other construction and use requirements ”.
+
+(4) In the entry relating to section 87(1) of the Road Traffic Act 1988, in column 2 for the word “without” there shall be substituted the words “ otherwise than in accordance with ”.
+
+**113** In Schedule 5 to the Road Traffic Offenders Act 1988 (conditional offer of fixed penalty in relation to certain offences in Scotland), in the entry relating to section 87(2) of the Road Traffic Act 1988, in column (2) for the word “without” there shall be substituted the words “ otherwise than in accordance with ”.
+
+### The Road Traffic (Consequential Provisions) Act 1988 (c. 54)
+
+**114** In section 8(3) of the Road Traffic (Consequential Provisions) Act 1988 (commencement) for the words from the beginning to the end of paragraph (c) there shall be substituted the words “ Paragraphs 15 to 20 of Schedule 2 to this Act ”.
+
+## [^F83]SCHEDULE 5
+
+### Status
+
+**1** The Traffic Director for London shall be a corporation sole.
+
+**2** The Director shall not be regarded as the servant or agent of the Crown or as enjoying any status, immunity or privilege of the Crown; and the Director’s property shall not be regarded as property of, or held on behalf of, the Crown.
+
+### Tenure of office
+
+**3** (1) Subject to the following provisions of this paragraph, the Director shall hold and vacate office in accordance with the terms of his appointment.
+
+(2) The Director shall be appointed for a term not exceeding five years.
+
+(3) At the end of a term of appointment the Director shall be eligible for re-appointment.
+
+(4) The Director may at any time resign his office by notice in writing addressed to the Secretary of State.
+
+(5) The Secretary of State may remove the Director from office—
+
+(a) if a bankruptcy order has been made against him, or his estate has been sequestrated or he has made a composition or arrangement with, or granted a trust deed for, his creditors; or
+
+(b) if satisfied that he is otherwise unable or unfit to discharge his functions.
+
+(6) The Director’s terms of appointment may provide for his removal from office (without assigning cause) on notice from the Secretary of State of such length as may be specified in those terms, subject, if those terms so provide, to compensation of such amount as the Secretary of State may, with the approval of the Treasury, determine.
+
+### Remuneration etc
+
+**4** (1) There shall be paid to the Director such remuneration and such travelling and other allowances as the Secretary of State may determine.
+
+(2) In the case of any such holder of the office of Director as may be determined by the Secretary of State, there shall be paid such pension, allowances or gratuities to or in respect of him, or such payments towards the provision of a pension, allowances or gratuities to or in respect of him, as may be so determined.
+
+(3) If the Secretary of State determines that there are special circumstances which make it right that a person ceasing to hold office as Director should receive compensation, there may be paid to him a sum by way of compensation of such amount as the Secretary of State may determine.
+
+(4) Sub-paragraph (3) above does not apply in the case of a person who receives compensation by virtue of paragraph 3(6) above.
+
+(5) The approval of the Treasury shall be required for the making of a determination under this paragraph.
+
+### Staff
+
+**5** (1) The Director shall act only with the approval of the Secretary of State, given with the approval of the Treasury, in determining—
+
+(a) the number of persons to be employed by him;
+
+(b) the remuneration, allowances and gratuities to be paid to or in respect of such persons; and
+
+(c) any other terms and conditions of their service.
+
+(2) Anything authorised or required by or under any enactment to be done by the Director may be done by any person employed by him who has been authorised by the Director, whether generally or specially, for that purpose.
+
+(3) Employment by the Director shall be included among the kinds of employment to which a scheme under section 1 of the [^M83]Superannuation Act 1972 may apply; and, accordingly, in Schedule 1 to that Act (in which those kinds of employment are listed) at the end of the list of “Other Bodies” there shall be inserted—
+
+> Employment by the Traffic Director for London.
+
+(4) The Director shall pay to the Treasury, at such times as the Treasury may direct, such sums as the Treasury may determine in respect of the increase in the sums payable out of money provided by Parliament under that Act attributable to sub-paragraph (3) above.
+
+(5) Where an employee of the Director who is (by reference to that employment) a participant in a scheme under section 1 of that Act, becomes a holder of the office of Director, the Treasury may determine that his term of office shall be treated for the purposes of the scheme as employment by the Director (whether or not any benefits are payable to or in respect of him by virtue of paragraph 4(2) above).
+
+### Financial provisions
+
+**6** The remuneration of the Director and any other payments made under paragraphs 3(6) or 4 above to or in respect of him shall be paid out of grants made by the Secretary of State under section 80(2) of this Act.
+
+### Accounts
+
+**7** (1) The Director shall keep accounts and shall prepare a statement of accounts in respect of each financial year.
+
+(2) The accounts shall be kept, and the statement shall be prepared, in such form as the Secretary of State may, with the approval of the Treasury, direct.
+
+(3) The accounts shall be audited by persons appointed in respect of each financial year by the Secretary of State.
+
+(4) No person shall be qualified to be appointed as auditor under this paragraph unless he is—
+
+(a) a member of a body of accountants established in the United Kingdom and for the time being recognised for the purposes of Part II of the [^M84]Companies Act 1989; or
+
+(b) a member of the Chartered Institute of Public Finance and Accountancy;
+
+but a firm may be appointed as auditor under this paragraph if each of its members is qualified to be so appointed.
+
+(5) In this paragraph, and in paragraph 8 below, “financial year” means—
+
+(a) the period beginning with the day on which the first person to hold the office of Director takes office and ending with the following 31st March; and
+
+(b) each subsequent period of twelve months ending with 31st March.
+
+### Annual report etc
+
+**8** (1) As soon as possible after the end of each financial year, the Director shall submit to the Secretary of State an annual report on the discharge in that year of his functions.
+
+(2) Each report shall contain a copy of the statement of accounts prepared and audited under paragraph 7 above in respect of that financial year.
+
+(3) The Secretary of State shall lay a copy of the Director’s annual report before each House of Parliament.
+
+(4) The Director shall provide the Secretary of State with such information relating to his property and the discharge and proposed discharge of his functions as the Secretary of State may require; and for that purpose shall—
+
+(a) permit any person authorised in that behalf by the Secretary of State to make copies of any accounts or other documents; and
+
+(b) give such explanation as may be required of any such accounts or documents.
+
+### Evidence
+
+**9** A document purporting to be duly executed under the seal of the Director or to be signed on the Director’s behalf shall be received in evidence and, unless the contrary is proved, be deemed to be so executed or signed.
+
+### Public records
+
+**10** In Schedule 1 to the [^M85]Public Records Act 1958, in Part II of the Table in paragraph 3 the following entry shall be inserted at the appropriate place— “ Traffic Director for London ”.
+
+### The Parliamentary Commissioner
+
+**11** In the [^M86]Parliamentary Commissioner Act 1967, in Schedule 2 (departments and authorities subject to investigation), the following entry shall be inserted at the appropriate place— “ Traffic Director for London. ”
+
+### Parliamentary disqualification
+
+**12** (1) In the [^M87]House of Commons Disqualification Act 1975, in Part III of Schedule 1 (other disqualifying offices), the following entry shall be inserted at the appropriate place—
+
+> Traffic Director for London.
+
+(2) The same entry shall be inserted at the appropriate place in Part III of Schedule 1 to the [^M88]Northern Ireland Assembly Disqualification Act 1975.
+
+## [^F84]SCHEDULE 6 — [^F84] Parking Penalties
+
+*[^F84]Section 66(7).*
+
+### [^F84] The notice to owner
+
+**[^F84]1** [^F84]1 [^F84]Where—
+
+[^F84]a [^F84]a penalty charge notice has been issued with respect to a vehicle under section 66 of this Act; and
+
+[^F84]b [^F84]the period of 28 days for payment of the penalty charge has expired without that charge being paid,
+
+[^F84]the London authority concerned may serve a notice (“[^F84]a notice to owner[^F84]”) on the person who appears to them to have been the owner of the vehicle when the alleged contravention occurred.
+
+[^F84]2 [^F84]A notice to owner must state—
+
+[^F84]a [^F84]the amount of the penalty charge payable;
+
+[^F84]b [^F84]the grounds on which the parking attendant who issued the penalty charge notice believed that a penalty charge was payable with respect to the vehicle;
+
+[^F84]c [^F84]that the penalty charge must be paid before the end of the period of 28 days beginning with the date on which the notice to owner is served;
+
+[^F84]d [^F84]that failure to pay the penalty charge may lead to an increased charge being payable;
+
+[^F84]e [^F84]the amount of that increased charge;
+
+[^F84]f [^F84]that the person on whom the notice is served (“[^F84]the recipient[^F84]”) may be entitled to make representations under paragraph 2 below; and
+
+[^F84]g [^F84]the effect of paragraph 5 below.
+
+[^F84]3 [^F84]The Secretary of State may prescribe additional matters which must be dealt with in any notice to owner.
+
+### [^F84] Representations against notice to owner
+
+**[^F84]2** [^F84]1 [^F84]Where it appears to the recipient that one or other of the grounds mentioned in sub-paragraph (4) below are satisfied, he may make representations to that effect to the London authority who served the notice on him.
+
+[^F84]2 [^F84]Any representations under this paragraph must be made in such form as may be specified by the London authorities, acting through the Joint Committee.
+
+[^F84]3 [^F84]The authority may disregard any such representations which are received by them after the end of the period of 28 days beginning with the date on which the notice to owner was served.
+
+[^F84]4 [^F84]The grounds are—
+
+[^F84]a [^F84]that the recipient—
+
+[^F84]i [^F84]never was the owner of the vehicle in question;
+
+[^F84]ii [^F84]had ceased to be its owner before the date on which the alleged contravention occurred; or
+
+[^F84]iii [^F84]became its owner after that date;
+
+[^F84]b [^F84]that the alleged contravention did not occur;
+
+[^F84]c [^F84]that the vehicle had been permitted to remain at rest in the parking place by a person who was in control of the vehicle without the consent of the owner;
+
+[^F84]d [^F84]that the relevant designation order is invalid;
+
+[^F84]e [^F84]that the recipient is a vehicle-hire firm and—
+
+[^F84]i [^F84]the vehicle in question was at the material time hired from that firm under a vehicle hiring agreement; and
+
+[^F84]ii [^F84]the person hiring it had signed a statement of liability acknowledging his liability in respect of any penalty charge notice fixed to the vehicle during the currency of the hiring agreement;
+
+[^F84]f [^F84]that the penalty charge exceeded the amount applicable in the circumstances of the case.
+
+[^F84]5 [^F84]Where the ground mentioned in sub-paragraph (4)(a)(ii) above is relied on in any representations made under this paragraph, those representations must include a statement of the name and address of the person to whom the vehicle was disposed of by the person making the representations (if that information is in his possession).
+
+[^F84]6 [^F84]Where the ground mentioned in sub-paragraph (4)(a)(iii) above is relied on in any representations made under this paragraph, those representations must include a statement of the name and address of the person from whom the vehicle was acquired by the person making the representations (if that information is in his possession).
+
+[^F84]7 [^F84]It shall be the duty of an authority to whom representations are duly made under this paragraph—
+
+[^F84]a [^F84]to consider them and any supporting evidence which the person making them provides; and
+
+[^F84]b [^F84]to serve on that person notice of their decision as to whether they accept that the ground in question has been established.
+
+### [^F84] Cancellation of notice to owner
+
+**[^F84]3** [^F84]1 [^F84]Where representations are made under paragraph 2 above and the London authority concerned accept that the ground in question has been established they shall—
+
+[^F84]a [^F84]cancel the notice to owner; and
+
+[^F84]b [^F84]state in the notice served under paragraph 2(7) above that the notice to owner has been cancelled.
+
+[^F84]2 [^F84]The cancellation of a notice to owner under this paragraph shall not be taken to prevent the London authority concerned serving a fresh notice to owner on another person.
+
+[^F84]3 [^F84]Where the ground that is accepted is that mentioned in paragraph 2(4)(e) above, the person hiring the vehicle shall be deemed to be its owner for the purposes of this Schedule.
+
+### [^F84] Rejection of representations against notice to owner
+
+**[^F84]4** [^F84]Where any representations are made under paragraph 2 above but the London authority concerned do not accept that a ground has been established, the notice served under paragraph 2(7) above (“[^F84]the notice of rejection[^F84]”) must—
+
+[^F84]a [^F84]state that a charge certificate may be served under paragraph 6 below unless before the end of the period of 28 days beginning with the date of service of the notice of rejection—
+
+[^F84]i [^F84]the penalty charge is paid; or
+
+[^F84]ii [^F84]the person on whom the notice is served appeals to a parking adjudicator against the penalty charge;
+
+[^F84]b [^F84]indicate the nature of a parking adjudicator’s power to award costs against any person appealing to him; and
+
+[^F84]c [^F84]describe in general terms the form and manner in which an appeal to a parking adjudicator must be made,
+
+[^F84]and may contain such other information as the authority consider appropriate.
+
+### [^F84] Adjudication by parking adjudicator
+
+**[^F84]5** [^F84]1 [^F84]Where an authority serve notice under sub-paragraph (7) of paragraph 2 above, that they do not accept that a ground on which representations were made under that paragraph has been established, the person making those representations may, before—
+
+[^F84]a [^F84]the end of the period of 28 days beginning with the date of service of that notice; or
+
+[^F84]b [^F84]such longer period as a parking adjudicator may allow,
+
+[^F84]appeal to a parking adjudicator against the authority’s decision.
+
+[^F84]2 [^F84]On an appeal under this paragraph, the parking adjudicator shall consider the representations in question and any additional representations which are made by the appellant on any of the grounds mentioned in paragraph 2(4) above and may give the London authority concerned such directions as he considers appropriate.
+
+[^F84]3 [^F84]It shall be the duty of any authority to whom a direction is given under sub-paragraph (2) above to comply with it forthwith.
+
+### [^F84] Charge certificates
+
+**[^F84]6** [^F84]1 [^F84]Where a notice to owner is served on any person and the penalty charge to which it relates is not paid before the end of the relevant period, the authority serving the notice may serve on that person a statement (a “[^F84]charge certificate[^F84]”) to the effect that the penalty charge in question is increased by 50 per cent.
+
+[^F84]2 [^F84]The relevant period, in relation to a notice to owner, is the period of 28 days beginning—
+
+[^F84]a [^F84]where no representations are made under paragraph 2 above, with the date on which the notice to owner is served;
+
+[^F84]b [^F84]where—
+
+[^F84]i [^F84]such representations are made;
+
+[^F84]ii [^F84]a notice of rejection is served by the authority concerned; and
+
+[^F84]iii [^F84]no appeal against the notice of rejection is made,
+
+[^F84]with the date on which the notice of rejection is served; or
+
+[^F84]c [^F84]where there has been an unsuccessful appeal against a notice of rejection, with the date on which notice of the adjudicator’s decision is served on the appellant.
+
+[^F84]3 [^F84]Where an appeal against a notice of rejection is made but is withdrawn before the adjudicator gives notice of his decision, the relevant period in relation to a notice to owner is the period of 14 days beginning with the date on which the appeal is withdrawn.
+
+### [^F84] Enforcement of charge certificate
+
+**[^F84]7** [^F84]Where a charge certificate has been served on any person and the increased penalty charge provided for in the certificate is not paid before the end of the period of 14 days beginning with the date on which the certificate is served, the authority concerned may, if a county court so orders, recover the increased charge as if it were payable under a county court order.
+
+### [^F84] Invalid notices
+
+**[^F84]8** [^F84]1 [^F84]This paragraph applies where—
+
+[^F84]a [^F84]a county court makes an order under paragraph 7 above;
+
+[^F84]b [^F84]the person against whom it is made makes a statutory declaration complying with sub-paragraph (2) below; and
+
+[^F84]c [^F84]that declaration is, before the end of the period of 21 days beginning with the date on which notice of the county court’s order is served on him, served on the county court which made the order.
+
+[^F84]2 [^F84]The statutory declaration must state that the person making it—
+
+[^F84]a [^F84]did not receive the notice to owner in question;
+
+[^F84]b [^F84]made representations to the London authority concerned under paragraph 2 above but did not receive a rejection notice from that authority; or
+
+[^F84]c [^F84]appealed to a parking adjudicator under paragraph 5 above against the rejection by that authority of representations made by him under paragraph 2 above but had no response to the appeal.
+
+[^F84]3 [^F84]Sub-paragraph (4) below applies where it appears to a district judge, on the application of a person on whom a charge certificate has been served, that it would be unreasonable in the circumstances of his case to insist on him serving his statutory declaration within the period of 21 days allowed for by sub-paragraph (1) above.
+
+[^F84]4 [^F84]Where this sub-paragraph applies, the district judge may allow such longer period for service of the statutory declaration as he considers appropriate.
+
+[^F84]5 [^F84]Where a statutory declaration is served under sub-paragraph (1)(c) above—
+
+[^F84]a [^F84]the order of the court shall be deemed to have been revoked;
+
+[^F84]b [^F84]the charge certificate shall be deemed to have been cancelled;
+
+[^F84]c [^F84]in the case of a declaration under sub-paragraph (2)(a) above, the notice to owner to which the charge certificate relates shall be deemed to have been cancelled; and
+
+[^F84]d [^F84]the district judge shall serve written notice of the effect of service of the declaration on the person making it and on the London authority concerned.
+
+[^F84]6 [^F84]Service of a declaration under sub-paragraph (2)(a) above shall not prevent the London authority serving a fresh notice to owner.
+
+[^F84]7 [^F84]Where a declaration has been served under sub-paragraph (2)(b) or (c) above, the London authority shall refer the case to the parking adjudicator who may give such direction as he considers appropriate.
+
+### [^F84] Offence of giving false information
+
+**[^F84]9** [^F84]1 [^F84]A person who, in response to a notice to owner served under this Schedule, makes any representation under paragraph 2 or 5(2) above which is false in a material particular and does so recklessly or knowing it to be false in that particular is guilty of an offence.
+
+[^F84]2 [^F84]Any person guilty of such an offence shall be liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+### [^F84] Service by post
+
+**[^F84]10** [^F84]Any charge certificate, or notice under this Schedule—
+
+[^F84]a [^F84]may be served by post; and
+
+[^F84]b [^F84]where the person on whom it is to be served is a body corporate, is duly served if it is sent by post to the secretary or clerk of that body.
+
+## SCHEDULE 7 — Minor and Consequential Amendments in Relation to London
+
+*Section 81.*
+
+### The Tribunals and Inquiries Act 1971 (c. 62)
+
+**[^F85]1** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Greater London Council (General Powers) Act 1974 (c. xxiv)
+
+**2** In section 15 of the Greater London Council (General Powers) Act 1974 (parking on footways etc.) in subsection (12)(b) for the words “under section 84” there shall be substituted the words “ made by virtue of section 84(1)(a) ”.
+
+### The Road Traffic Regulation Act 1984 (c. 27)
+
+**3** In section 7 of the Road Traffic Regulation Act 1984 (provisions supplementary to section 6), in subsection (6) for the words “Secretary of State for the Home Department” there shall be substituted the words “ the Commissioner of Police for any police area in which is situated any road or part of a road to which the order is to relate ”.
+
+**4** In that Act, after section 13 there shall be inserted—
+
+> **Temporary suspension**
+>
+> **Temporary suspension of provisions under s. 6 or 9 orders.**
+>
+> **13A** (1) The Commissioner of Police of the Metropolis or the Commissioner of Police for the City of London may temporarily suspend the operation of any provision of an order made under section 6 or 9 of this Act so far as that provision relates to any road or part of a road in Greater London which is within his area, in order to prevent or mitigate congestion or obstruction of traffic, or danger to or from traffic in consequence of extraordinary circumstances.
+>
+> (2) Subject to subsection (3) below, the period of suspension under subsection (1) above shall not continue for more than 7 days.
+>
+> (3) If the Secretary of State gives his consent to the period of suspension being continued for more than 7 days, the suspension shall continue until the end of such period as may be specified by the Secretary of State in giving his consent.
+
+**5** (1) Section 55 of that Act (financial provisions relating to designation orders) shall be amended as follows.
+
+(2) In subsection (1), for the words from “designated” to the end there shall be substituted the words
+
+> for which they are the local authority and which are—
+>
+> (a) in the case of the council of a London borough and the Common Council of the City of London, parking places on the highway; and
+>
+> (b) in the case of any other authority, designated parking places.
+
+(3) After subsection (3) there shall be inserted—
+
+> (3A) The council of each London borough and the Common Council of the City of London shall, after each financial year, report to the Secretary of State on any action taken by them, pursuant to subsection (2) or (3) above, in respect of any deficit or surplus in their account for the year.
+>
+> (3B) The report under subsection (3A) above shall be made as soon after the end of the financial year to which it relates as is reasonably possible.
+
+(4) In subsection (4)(c), the words from “to the council” to “City of London” shall be omitted.
+
+**6** (1) Section 105 of that Act (exemptions from provisions relating to immobilisation of vehicles) shall be amended as follows.
+
+(2) In subsection (2) after the words “of any vehicle” there shall be inserted the words “ found otherwise than in Greater London ”.
+
+(3) After subsection (2) there shall be inserted—
+
+> (2A) The exemption under subsection (1)(b) above shall not apply in the case of any vehicle found in Greater London if the meter bay in which it was found was not authorised for use as such at the time when it was left there.
+
+(4) In subsection (3) for the words “subsection (2)(a)” there shall be substituted the words “ subsections (2)(a) and (2A) ”.
+
+**7** In section 122 of that Act (exercise of functions by local authorities) there shall be added at the end—
+
+> (3) The duty imposed by subsection (1) above is subject to the provisions of Part II of the Road Traffic Act 1991.
+
+### The Local Government Act 1985 (c. 51)
+
+**8** (1) For paragraph 5 of Schedule 5 to the Local Government Act 1985 (designation of routes in London) there shall be substituted—
+
+> **5** (1) For the purpose of facilitating the movement of traffic in Greater London, the Secretary of State may by order designate a road in that area.
+>
+> (2) Before doing so, he shall consult—
+>
+> (a) the council of the London borough in which the road is;
+>
+> (b) the council of any other London borough or of any county where there is a road which he considers is likely to be affected by the designation; and
+>
+> (c) such other persons (if any) as he considers it appropriate to consult.
+>
+> (3) No council of a London borough shall exercise any power under the Highways Act 1980 or the Road Traffic Regulation Act 1984 in a way which will affect, or be likely to affect, a designated road unless the requirements of sub-paragraph (4) below have been satisfied.
+>
+> (4) The requirements are that—
+>
+> (a) the council concerned has given notice to the Director, in such manner as he may require, of its proposal to exercise the power in the way in question; and
+>
+> (b) either—
+>
+> (i) the Director has approved the proposal; or
+>
+> (ii) the period of one month beginning with the date on which he received notice of the proposal has expired without his having objected to it.
+>
+> (5) The Secretary of State may by an instrument in writing exclude any power from the application of this paragraph to the extent specified in the instrument.
+>
+> (6) Any such instrument may, in particular, exclude a power as respects—
+>
+> (a) all or any of the London boroughs;
+>
+> (b) all or any of the designated roads; or
+>
+> (c) the exercise of the power in such manner or circumstances as may be specified in the instrument.
+>
+> (7) This paragraph does not apply to the exercise of a power under section 14 or sections 32 to 38 of the 1984 Act in relation to a road which is not a designated road.
+>
+> (8) If the council of a London borough exercises any power in contravention of this paragraph, the Director may take such steps as he considers appropriate to reverse or modify the effect of the exercise of that power.
+>
+> (9) Any reasonable expenses incurred by the Director in taking any steps under sub-paragraph (8) shall be recoverable by him from the council as a civil debt.
+>
+> (10) In this paragraph—
+>
+> - “designated road” means a road designated under this paragraph; and
+> - “Director” means the Traffic Director for London.
+
+**9** (1) Paragraph 6 of that Schedule (guidance as to exercise of traffic powers) shall be amended as follows.
+
+(2) In sub-paragraph (5) for the words “summarily as a civil debt” there shall be substituted the words “ as a debt due to the Crown ”.
+
+(3) After sub-paragraph (6), there shall be inserted—
+
+> (7) Sub-paragraphs (3) to (6) above shall not apply in relation to the exercise of any power, by the council of a London borough, in complying with the duty imposed on them by section 57(1) of the Road Traffic Act 1991 (implementation of local plans).
+
+**10** In paragraph 10(6) of that Schedule (recovery of sums expended by the Secretary of State in connection with traffic control systems) for the words “summarily as a civil debt” there shall be substituted the words “ as a debt due to the Crown ”.
+
+**11** In paragraph 11 of that Schedule (recovery of sums expended by the Secretary of State to obtain information) for the words “summarily as a civil debt” there shall be substituted the words “ as a debt due to the Crown ”.
+
+### The New Roads and Street Works Act 1991 (c. 22)
+
+**12** In section 64 of the New Roads and Street Works Act 1991 (traffic-sensitive streets), after subsection (3) there shall be added—
+
+> (4) Where any council of a London borough or the Common Council of the City of London are asked by the Traffic Director for London to designate a street as a traffic-sensitive street and they decline to do so, the Director may appeal to the Secretary of State who may direct that the street be designated.
+
+## SCHEDULE 8 — Repeals
+
+*Section 83.*
+
+|  |  |  |
+|---|---|---|
+| Chapter | Short title | Extent of repeal |
+| 1970 c. 44. | The Chronically Sick and Disabled Persons Act 1970. | In section 21(4) the words “and any badge” onwards. |
+|  |  | In section 21(5) the words “and in the case” onwards. |
+| 1972 c. 27. | The Road Traffic (Foreign Vehicles) Act 1972. | In Schedule 1— the entry relating to section 8(1) of the Public Passenger Vehicles Act 1981; |
+|  |  | in the entry relating to section 68 of the Road Traffic Act 1988, the word “goods”. |
+| 1972 c. 71. | The Criminal Justice Act 1972. | Section 24(2). |
+| 1973 c. 62. | The Powers of Criminal Courts Act 1973. | In section 44(3), paragraphs (a) and (b) and the word “and” immediately preceding them. |
+| 1975 c. 46. | The International Road Haulage Permits Act 1975. | In section 1(9), the words “section 56(1) of the Road Traffic Act 1972 or”. |
+| 1981 c. 14. | The Public Passenger Vehicles Act 1981. | Section 7. |
+|  |  | Section 8(1) to (2). |
+|  |  | In section 8(3), the words “for the purposes of this Act”. |
+|  |  | Section 9. |
+|  |  | In section 9A(1), the words “with the omission of subsection (1)(b)”. |
+|  |  | Section 9A(2). |
+|  |  | Section 20(6). |
+|  |  | Section 51(2). |
+|  |  | In section 53(1), the words “certifying officers, public service vehicle examiners” and the words “public service” in the second place where they appear. Section 65(1)(f). |
+|  |  | In section 66A(1), paragraph (b) and the word “or” immediately preceding it. |
+|  |  | In section 68(4), the reference to section 9(9)(b). |
+|  |  | In section 82(1), the definition of “certifying officer”. |
+|  |  | In Schedule 7, paragraph 17(a). |
+| 1982 c. 49. | The Transport Act 1982. | In section 9, the paragraph beginning “Any functions under section 9”. |
+|  |  | Section 10(5). |
+|  |  | In section 10(8), the words from “Without prejudice” to “their functions”. |
+|  |  | Section 19. |
+|  |  | Section 21(2) and (3). |
+|  |  | Section 23(4). |
+|  |  | In Schedule 5, paragraph 21. |
+| 1984 c. 27. | The Road Traffic Regulation Act 1984. | In section 17(2), the word “or” at the end of paragraph (b). |
+|  |  | Section 35(9). |
+|  |  | In section 51(5), the words “being not less than 2 years”. |
+|  |  | In section 55(4)(c), the words from “to the Council” to “City of London”. |
+|  |  | In section 85(1), the words “the prescribed”. |
+|  |  | In section 85(2)(a), the words “the prescribed”. |
+|  |  | In section 99(2), paragraph (c) and the word “and” immediately preceding it. |
+|  |  | In section 102(2), the word “and” at the end of paragraph (b). |
+|  |  | In section 102(8), the words following paragraph (b) in the definition of “appropriate authority”, and the word “and” at the end of the definition of “person responsible”. |
+|  |  | Section 104(10). |
+|  |  | In section 105(3)(b), the words “under section 49(4) of this Act.” |
+|  |  | In section 106— |
+|  |  | subsections (2) to (4), (6) and (10); |
+|  |  | in subsection (5), the words “After the end of the experimental period”; |
+|  |  | in subsection (9), the words “except in the case of an order to which subsection (6) above applies”. |
+|  |  | In section 117(3), the definition of “disabled person’s badge”. |
+|  |  | Section 141. |
+|  |  | In Schedule 13, in paragraph 40, the words “and for” onwards. |
+| 1985 c. 67. | The Transport Act 1985. | In Part II of Schedule 2, paragraph 4(3) and (11)(b). |
+|  |  | In Schedule 7, paragraph 21(2) and (3). |
+| 1988 c. 52. | The Road Traffic Act 1988. | Section 15(10). |
+|  |  | Section 19A. |
+|  |  | In section 29, the words “In this section” to the end. |
+|  |  | Section 30(3). |
+|  |  | Section 41(3)(b) and (c). |
+|  |  | Section 48(6). |
+|  |  | Section 50(2) and (3). |
+|  |  | In section 51(1)(b), the word “goods”. |
+|  |  | In section 61(2)(a), the words from “goods” to “service”. |
+|  |  | Section 61(5). |
+|  |  | Section 67(4)(a). |
+|  |  | Section 73(2). |
+|  |  | Section 75(3)(a)(iii). |
+|  |  | In section 75(6), paragraph (c) and the word “or” immediately preceding it. |
+|  |  | Section 75(8). |
+|  |  | Section 79(2)(a). |
+|  |  | In section 86, in the table, the entry for “Goods vehicle examiner”. |
+|  |  | Section 97(7). |
+|  |  | Section 98(5). |
+|  |  | In section 105(2)(ee), the words “for any purpose of this Part of this Act”. |
+|  |  | In section 105(2)(f), the words “for the purposes of this Part of this Act”. |
+|  |  | Section 151(9)(b). |
+|  |  | In section 164(6), the words “to a constable”. |
+|  |  | In section 165(4), the words “to a constable”. |
+|  |  | In section 173(2), the word “and” at the end of paragraph (k). |
+|  |  | In section 183(3), paragraph (b) and the word “and” immediately preceding it. |
+|  |  | In section 192(2), the word “ “road””. |
+|  |  | Section 193. |
+|  |  | Schedule 4. |
+| 1988 c. 53. | The Road Traffic Offenders Act 1988. | In section 17(3), the word “goods” in each place where it occurs. |
+|  |  | Section 23(2). |
+|  |  | Section 27(2). |
+|  |  | In section 30(2), the words “Subject to section 28(2) of this Act,”. |
+|  |  | Section 30(3). |
+|  |  | Section 54(8). |
+|  |  | Section 59(6). |
+|  |  | Section 60. |
+|  |  | In Schedule 1, in the Table— |
+|  |  | in the entry relating to section 71 of the Road Traffic Act 1988, in column 2 the word “goods” in each place where it occurs; |
+|  |  | the entries relating to sections 97 and 98 of that Act. |
+|  |  | In Part I of Schedule 2— |
+|  |  | in the entries relating to sections 68 and 71 of the Road Traffic Act 1988, in column 2 the word “goods” in each place where it occurs; |
+|  |  | the entries relating to sections 97 and 98 of that Act; |
+|  |  | in the entry relating to section 165 of that Act, in column 2 the word “constable”; |
+|  |  | the entries in columns 6 and 7 relating to section 178 of that Act; |
+|  |  | in the entry relating to section 26 of the Road Traffic Offenders Act, in column 2 the words “on committal for sentence etc.” |
+|  |  | In Part II of Schedule 2, the entries in columns 3 and 4 relating to stealing or attempting to steal a motor vehicle or to section 12 or 25 of the Theft Act 1968. |
+|  |  | In Schedule 3, the entry relating to section 97 of the Road Traffic Act 1988. |
+| 1988 c. 54. | The Road Traffic (Consequential Provisions) Act 1988. | Section 6. |
+|  |  | In Part I of Schedule 2— |
+|  |  | in paragraph 1; |
+|  |  | in paragraph 3(1) the entry beginning “for “section 56(2)(a)””. |
+|  |  | paragraph 4(2); |
+|  |  | paragraph 8; |
+|  |  | paragraph 9; |
+|  |  | paragraph 10(b); |
+|  |  | paragraph 13(b)(ii); |
+|  |  | paragraph 15(b) and the word “and” immediately preceding it. |
+|  |  | Parts II, III and IV of Schedule 2. |
+|  |  | In Schedule 3— |
+|  |  | paragraph 6(3) and (5); paragraph 8(1); |
+|  |  | paragraph 8(2)(d) and the word “and” immediately preceding it; |
+|  |  | paragraph 9(1)(c) and the word “and” immediately preceding it; |
+|  |  | paragraph 9(3)(b); paragraph 11(b) and (c); |
+|  |  | paragraph 37(1) and (2). |
+|  |  | Schedule 5. |
+| 1989 c. 22. | The Road Traffic (Driver Licensing and Information Systems) Act 1989. | In Schedule 3, paragraph 21. |
+| 1991 c. 40 | The Road Traffic Act 1991. | In Schedule 4, paragraph 79. |
+
+---
+
+[^M1]: 1988 c. 52.
+[^M2]: 1988 c. 52.
+[^M3]: 1988 c. 52.
+[^M4]: 1988 c. 52.
+[^M5]: 1988 c. 52.
+[^M6]: 1981 c. 14.
+[^M7]: 1988 c. 52.
+[^M8]: 1988 c. 52.
+[^M9]: 1981 c. 14.
+[^M10]: 1981 c. 14.
+[^M11]: 1988 c. 52.
+[^M12]: 1988 c. 52.
+[^M13]: 1988 c. 52.
+[^M14]: 1988 c. 52.
+[^M15]: 1988 c. 52.
+[^M16]: 1988 c. 52.
+[^M17]: 1988 c. 52.
+[^M18]: 1988 c. 53.
+[^M19]: 1988 c. 53.
+[^M20]: 1988 c. 53.
+[^M21]: 1988 c. 53.
+[^M22]: 1988 c. 53.
+[^M23]: 1988 c. 53.
+[^F1]: S. 30 repealed (21.12.2012 for specified purposes) by Road Safety Act 2006 (c. 49), s. 61(1)(10), Sch. 7(8); S.I. 2012/2938, art. 2(2)(a)
+[^M24]: 1988 c. 53.
+[^F2]: S. 31 repealed (22.7.2004) by Statute Law (Repeals) Act 2004 (c. 14), Sch. 1 Pt. 14
+[^M25]: 1988 c. 53.
+[^M26]: 1988 c. 53.
+[^M27]: 1988 c. 53.
+[^M28]: 1970 c. 44.
+[^M29]: 1984 c. 27.
+[^F3]: S. 36 repealed (25.8.2000) by 2000 c. 6, ss. 165(4), 168(1), Sch. 12 Pt. I (with Sch. 11 paras. 1, 2)
+[^F4]: S. 37 repealed (31.3.1996) by 1995 c. 20, s. 117, Sch. 6 Pt. II para. 192, Sch. 7 Pt. II; S.I. 1996/517, art. 3(2)
+[^F5]: S. 38 repealed (25.8.2000) by 2000 c. 6, ss. 165(4), 168(1), Sch. 12 Pt. I (with Sch. 11 paras. 1,2)
+[^M30]: 1975 c. 21.
+[^M31]: 1980 c. 66.
+[^M32]: 1984 c. 54.
+[^M33]: 1984 c. 27.
+[^F6]: S. 43 repealed (E.W.) (31.3.2008) by Traffic Management Act 2004 (c. 18), s. 99(1), Sch. 12 Pt. 1; S.I. 2007/2053, arts. 1(2), 3(1)(2)(h)(ii) (with arts. 4-8) (as amended (17.3.2008) by S.I. 2008/757, arts. 3, 5); S.I. 2007/3174, art. 2, Sch.
+[^M34]: 1984 c. 27.
+[^M35]: 1984 c. 27.
+[^M36]: 1988 c. 52.
+[^F7]: S. 47 repealed (1.3.2002 for E.W., otherwise prosp.) by 1997 c. 50, ss. 134, 135(1), Sch. 9 para. 65, Sch. 10; S.I. 2002/413, art. 2(2)(b)-(d)
+[^M37]: 1976 c. 57.
+[^F8]: S. 47(3) added (1.4.1996) by 1994 c. 19, s. 22(1), Sch. 7 Pt. II para. 42 (with ss. 54(5)(7), 55(5), Sch. 17 paras. 22(1), 23(2)); S.I. 1996/396, art. 3, Sch. 1
+[^F9]: S. 49 repealed (22.7.2004) by Statute Law (Repeals) Act 2004 (c. 14), Sch. 1 Pt. 14
+[^F10]: S. 50 repealed (3.7.2000) by 1999 c. 29, ss. 294(1)(d)(2)-(8), 423, Sch. 34 Pt. VI (with Sch. 12 para. 9(1)); S.I. 2000/801, art. 2, Sch.
+[^F11]: S. 51 repealed (3.7.2000) by 1999 c. 29, ss. 294(1)(d)(2)-(8), 423, Sch. 34 Pt. VI (with Sch. 12 para. 9(1)); S.I. 2000/801, art. 2, Sch.
+[^M38]: 1991 c. 22.
+[^F12]: S. 53 repealed (3.7.2000) by 1999 c. 29, ss. 294(1)(d)(2)-(8), 423, Sch. 34 Pt. VI (with Sch. 12 para. 9(1)); S.I. 2000/801, art. 2, Sch.
+[^F13]: S. 54 repealed (3.7.2000) by 1999 c. 29, ss. 294(1)(d)(2)-(8), 423, Sch. 34 Pt. VI (with Sch. 12 para. 9(1)); S.I. 2000/801, art. 2, Sch.
+[^F14]: S. 55 repealed (3.7.2000) by 1999 c. 29, ss. 294(1)(d)(2)-(8), 423, Sch. 34 Pt. VI (with Sch. 12 para. 9(1)); S.I. 2000/801, art. 2, Sch.
+[^F15]: S. 56 repealed (3.7.2000) by 1999 c. 29, ss. 294(1)(d)(2)-(8), 423, Sch. 34 Pt. VI (with Sch. 12 para. 9(1)); S.I. 2000/801, art. 2, Sch.
+[^F16]: S. 57 repealed (3.7.2000) by 1999 c. 29, ss. 294(1)(d)(2)-(8), 423, Sch. 34 Pt. VI (with Sch. 12 para. 9(1)); S.I. 2000/801, art. 2, Sch.
+[^F17]: S. 58 repealed (3.7.2000) by 1999 c. 29, ss. 294(1)(d)(2)-(8), 423, Sch. 34 Pt. VI (with Sch. 12 para. 9(1)); S.I. 2000/801, art. 2, Sch.
+[^F18]: S. 60 repealed (3.7.2000) by 1999 c. 29, ss. 294(1)(d)(2)-(8), 423, Sch. 34 Pt. VI (with Sch. 12 para. 9(1)); S.I. 2000/801, art. 2, Sch.
+[^F19]: S. 61 repealed (3.7.2000) by 1999 c. 29, ss. 294(1)(d)(2)-(8), 423, Sch. 34 Pt. VI (with Sch. 12 para. 9(1)); S.I. 2000/801, art. 2, Sch.
+[^F20]: S. 62 repealed (3.7.2000) by 1999 c. 29, ss. 294(1)(d)(2)-(8), 423, Sch. 34 Pt. VI (with Sch. 12 para. 9(1)); S.I. 2000/801, art. 2, Sch.
+[^F21]: S. 63 repealed (3.7.2000) by 1999 c. 29, ss. 294(1)(d)(2)-(8), 423, Sch. 34 Pt. VI (with Sch. 12 para. 9(1)); S.I. 2000/801, art. 2, Sch.
+[^M39]: 1984 c. 27.
+[^F22]: Ss. 65-67 repealed (E.W.) (31.3.2008) by Traffic Management Act 2004 (c. 18), s. 99(1), Sch. 12 Pt. 1; S.I. 2007/2053, arts. 1(2), 3(1)(2)(h)(ii) (with arts. 4-8) (as amended (17.3.2008) by S.I. 2008/757, arts. 3, 5); S.I. 2007/3174, art. 2, Sch.
+[^M40]: 1984 c. 27.
+[^F23]: S. 68(2) repealed (E.W.) (31.3.2008 for W.) by Traffic Management Act 2004 (c. 18), s. 99(1), Sch. 12 Pt. 1; S.I. 2007/3174, art. 2, Sch.
+[^F24]: S. 68(3)(c) repealed (E.W.) (31.3.2008 for W.) by Traffic Management Act 2004 (c. 18), s. 99(1), Sch. 12 Pt. 1; S.I. 2007/3174, art. 2, Sch.
+[^F25]: Ss. 69-74A repealed (E.W.) (31.3.2008) by Traffic Management Act 2004 (c. 18), s. 99(1), Sch. 12 Pt. 1; S.I. 2007/2053, arts. 1(2), 3(1)(2)(h)(ii) (with arts. 4-8) (as amended (17.3.2008) by S.I. 2008/757, arts. 3, 5); S.I. 2007/3174, art. 2, Sch.
+[^F26]: S. 70(1)(aa) inserted (E.W.) (30.6.2005 for E. and 30.3.2008 for W.) by Disability Discrimination Act 2005 (c. 13), s. 20(4), Sch. 1 para. 46(2); S.I. 2005/1676, art. 3(b); S.I. 2007/3285, art. 2(b)
+[^M41]: 1970 c. 44.
+[^M42]: 1984 c. 27.
+[^F27]: S. 70(2A) inserted (E.W.) (30.6.2005 for E. and 30.3.2008 for W.) by Disability Discrimination Act 2005 (c. 13), s. 20(4), Sch. 1 para. 46(3); S.I. 2005/1676, art. 3(b); S.I. 2007/3285, art. 2(b)
+[^M43]: 1984 c. 27.
+[^F28]: Words in s. 73(2)(3)(5)(8)(10) and sidenote substituted (3.7.2000) by 1999 c. 29, s. 283(4) (with Sch. 12 para. 9(1)); S.I. 2000/801, art. 2(2)(c), Sch. Pt. III
+[^F29]: S. 73(1)(1A) substituted (3.7.2000) for s. 73(1) by 1999 c. 29, ss. 283(2) (with Sch. 12 para. 9(1)); S.I. 2000/801, art. 2(c), Sch. Pt. III
+[^M44]: 1972 c. 70.
+[^M45]: 1972 c. 70.
+[^F30]: Words in s. 73(2) repealed (3.7.2000) by 1999 c. 29, ss. 283(3), 423, Sch. 34 Pt. VI (with Sch. 12 para. 9(1)); S.I. 2000/801, art. 2(2)(c), Sch. Pt. III
+[^F31]: Words in s. 73(4) substituted (21.7.2008) by Tribunals, Courts and Enforcement Act 2007 (c. 15), s. 148, Sch. 10 para. 50(1); S.I. 2008/1653, art. 2(d) (with arts. 3, 4)
+[^F32]: Ss. 74, 74A substituted (3.7.2000) for s. 74 by 1999 c. 29, s. 284, (with Sch. 12 para. 9(1)); S.I. 2000/801, art. 2(2)(c), Sch. Pt. III
+[^M46]: 1984 c. 27.
+[^F33]: Ss. 74, 74A substituted (3.7.2000) for s. 74 by 1999 c. 29, s. 284, (with Sch. 12 para. 9(1)); S.I. 2000/801, art. 2(2)(c), Sch. Pt. III
+[^M47]: 1984 c. 27.
+[^F34]: Ss. 76-79 repealed (E.W.) (31.3.2008) by Traffic Management Act 2004 (c. 18), s. 99(1), Sch. 12 Pt. 1; S.I. 2007/2053, arts. 1(2), 3(1)(2)(h)(ii) (with arts. 4-8) (as amended (17.3.2008) by S.I. 2008/757, arts. 3, 5); S.I. 2007/3174, art. 2, Sch.
+[^F35]: S. 76(1A) inserted (3.7.2000) by 1999 c. 29, s. 285(2) (with s. 285(3), Sch. 12 para. 9(1)); S.I. 2000/801, art. 2(c), Sch.
+[^M48]: 1988 c. 53.
+[^F36]: S. 76(3)(c)-(cb) subtituted for s. 76(3)(c) (3.7.1995) by S.I. 1995/1437, art. 2
+[^F37]: i.e. the Road Traffic Regulation Act 1984 (c. 27). Section 14 was substituted by the Road Traffic (Temporary Provisions) Act 1991 (c. 26), Schedule 1. Section 35 was amended by the Road Traffic (Consequential Provisions) Act 1988 (c. 54), Schedule 1, Part I; by section 1 of the Parking Act 1989 (c. 16); and by the Road Traffic Act 1991, section 44(2), Schedule 8. Section 35A was inserted by the Parking Act 1989, section 2. Section 61(1) was amended by the Local Government Act 1985 (c. 51), Schedule 5, paragraph 4(25).
+[^M49]: 1974 c. xxiv.
+[^M50]: 1988 c. 52.
+[^F38]: S. 76(3)(g) inserted (16.4.2003) by The Road Traffic Act 1991 (Special Parking Areas) (England) Order 2003 (S.I. 2003/859), arts. 1, 2(1)
+[^F39]: S. 76A inserted (3.7.2000) by 1999 c. 29, s. 286, (with Sch. 12 para. 9(1)); S.I. 2000/801, art. 2, Sch.
+[^M51]: 1872 c. 15.
+[^M52]: 1926 c. 36.
+[^M53]: 1952 c. 67.
+[^F40]: Words in s. 79(2)(a) substituted (1.9.1994) by 1994 c. 22, ss. 63, 66(1), Sch. 3 para. 29 (with s. 57(4))
+[^M54]: 1994 c. 22.
+[^F41]: S. 80 repealed (3.7.2000) by 1999 c. 29, ss. 294(1)(d)(2)-(8), 423, Sch. 34 Pt. VI (with Sch. 12 para. 9(1)); S.I. 2000/801, art. 2(c), Sch.
+[^M55]: 1984 c. 27.
+[^F42]: Definition of “GLA Road” in s. 82(1) inserted (3.7.2000) by 1999 c. 29, s. 287(1)(3) (with Sch. 12 para. 9(1)); S.I. 2000/801, art. 2(2)(c), Sch. Pt. III
+[^M56]: 1980 c. 66.
+[^F43]: Definition of “GLA side road” in s. 82(1) inserted (3.7.2000) by 1999 c. 29, s. 287(1)(3) (with Sch. 12 para. 9(1)); S.I. 2000/801, art. 2(2)(c), Sch. Pt. III
+[^M57]: 1984 c. 27.
+[^F44]: Definition of “London authority” in s. 82(1) substituted (4.4.2001) by S.I. 2001/1353, art. 8
+[^F45]: Definition of “London local authority” in s. 82(1) inserted (3.7.2000) by 1999 c. 29, s. 287(3) (with Sch. 12 para. 9(1)); S.I. 2000/801, art. 2(2)(c), Sch. Pt. III
+[^F46]: Definition of “the Mayor's transport strategy” in s. 82(1) inserted (3.7.2000) by 1999 c. 29, s. 287(3) (with Sch. 12 para. 9(1)); S.I. 2000/801, art. 2(2)(c), Sch. Pt. III
+[^F47]: Definition of “Minister of the Crown” in s. 82(1) inserted (3.7.2000) by 1999 c. 29, s. 287(3) (with Sch. 12 para. 9(1)); S.I. 2000/801, art. 2(2)(c), Sch. Pt. III
+[^M58]: 1975 c. 26.
+[^M59]: 1984 c. 27.
+[^M60]: 1980 c. 66.
+[^M61]: 1988 c. 53.
+[^F48]: S. 82(1A)-(1C) inserted (3.7.2000) by 1999 c. 29, s. 287(3) (with Sch. 12 para. 9(1)); S.I. 2000/801, art. 2(2)(c), Sch. Pt. III
+[^F49]: Words in s. 82(3) substituted (1.9.1994) by 1994 c. 22, ss. 63, 66(1), Sch. 3 para. 29 (with s. 57(4))
+[^M62]: 1994 c. 22.
+[^M63]: 1970 c. 44.
+[^F50]: Words in s. 82(6) inserted (3.7.2000) by 1999 c. 29, s. 287(3) (with Sch. 12 para. 9(1)); S.I. 2000/801, art. 2(2)(c), Sch. Pt. III
+[^M64]: 1988 c. 53.
+[^M65]: 1988 c. 52.
+[^M66]: 1988 c. 53.
+[^M67]: 1984 c. 27.
+[^M68]: 1988 c. 52.
+[^M69]: 1988 c. 53.
+[^M70]: 1968 c. 60.
+[^F51]: Sch. 3 repealed (E.W.) (31.3.2008) by Traffic Management Act 2004 (c. 18), s. 99(1), Sch. 12 Pt. 1; S.I. 2007/2053, arts. 1(2), 3(1)(2)(h)(ii) (with arts. 4-8) (as amended (17.3.2008) by S.I. 2008/757, arts. 3, 5); S.I. 2007/3174, art. 2, Sch.
+[^F52]: Words in Sch. 3 para. 1(1)(a) repealed (1.4.1996) by 1994 c. 19, ss. 22(1), 66(8), Sch. 7 Pt. II para. 43(a), Sch. 18 (with ss. 54(5)(7), 55(5), Sch. 17 paras. 22(1), 23(2)); S.I. 1996/396, arts. 3, 4, Sch. 1, Sch. 2
+[^F53]: Sch. 3 para. 1(1)(aa) inserted (1.4.1996) by 1994 c, 19, s. 22(1), Sch. 7 Pt. II para. 43(b) (with ss. 54(5)(7), 55(5), Sch. 17 paras. 22(1), 23(2)); S.I. 1996/396, art. 3, Sch. 1
+[^F54]: Words in Sch. 3 para. 1(1)(d) substituted (S.) (1.4.1996) by 1994 c. 39, s. 180(1), Sch. 13 para. 171; S.I. 1996/323, art. 4(1)(b)(c)
+[^F55]: Sch. 3 para. 1(1)(e)(2) repealed (1.4.1996) by 1994 c. 19, ss. 22(1), 66(8), Sch. 7 Pt. II para. 43(c), Sch. 18 (with ss. 54(5)(7), 55(5), Sch. 17 paras. 22(1), 23(2)); S.I. 1996/396, arts. 3, 4, Sch. 1, Sch. 2
+[^M71]: 1984 c. 27.
+[^F56]: Words in Sch. 3 para. 1(4) omitted (E.W.) (1.4.1996) by virtue of S.I. 1996/500, art. 2(b) and omission extended to (S.) (4.10.1998) by S.I. 1998/2018, art. 2
+[^F57]: Sch. 3 para. 1(4)(ab) inserted (E.W.) (1.4.1996) by S.I. 1996/500, art. 2(2)(a) and insertion extended to (S.) (4.10.1998) by S.I. 1998/2018, art. 2
+[^F58]: Sch. 3 para. 1(4)(c) and word “and” immediately preceding inserted (E.W.) (1.4.1996) by S.I. 1996/500, art. 2(2)(c) and insertion extended to (S.) (4.10.1998) by S.I. 1998/2018, art. 2
+[^F59]: Sch. 3 para. 1(6)(a) substituted (1.4.2013) by The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602), art. 1(2), Sch. 2 para. 24
+[^F60]: Words in Sch. 3 para. 2(1)(a) repealed (1.4.1996) by 1994 c. 19, ss. 22(1), 66(8), Sch. 7 Pt. II para. 43(a), Sch. 18 (with ss. 54(5)(7), 55(5), Sch. 17 paras. 22(1), 23(2)); S.I. 1996/396, arts. 3, 4, Sch. 1, Sch. 2
+[^F61]: Sch. 3 para. 2(1)(aa) inserted (1.4.1996) by 1994 c. 19, s. 22(1), Sch. 7 Pt. II para. 43(b) (with ss. 54(5)(7), 55(5), Sch. 17 paras. 22(1), 23(2)); S.I. 1996/396, art. 3, Sch. 1
+[^F62]: Words in Sch. 3 para. 2(1)(c) substituted (1.4.1996) by 1994 c. 39, s. 180(1), Sch. 13 para. 171; S.I. 1996/323, art. 4(1)(b)(c)
+[^F63]: Sch. 3 para. 2(2) repealed (1.4.1996) by 1994 c. 19, ss. 22(1), 66(8), Sch. 7 Pt. II para. 43(c), Sch. 18 (with ss. 54(5)(7), 55(5), Sch. 17 paras. 22(1), 23(2)); S.I. 1996/396, arts. 3, 4, Sch. 1, Sch. 2
+[^M72]: 1984 c. 27.
+[^F64]: Sch. 3 para. 2(4)(baa) inserted (S.) (4.10.1999) by S.S.I. 1999/61, art. 2(2)(a)
+[^F65]: Sch. 3 para. 2(4)(ba)(bb) inserted (E.W.) (1.4.1996) by S.I. 1996/500, art. 2(3) and insertion of para. 2(4)(ba) extended to (S.) (4.10.1998) by S.I. 1998/2018, art. 2
+[^F66]: I.e. of the Road Traffic Regulation Act 1984 (c.27). Section 14 was substituted by the Road Traffic (Temporary Provisions) Act 1991 (c.26), Schedule 1.
+[^F67]: Sch. 3 para. 2(4)(bc) inserted (S.) (4.10.1999) by S.S.I. 1999/61, art. 2(2)(b)
+[^M73]: 1984 c. 54.
+[^M74]: 1988 c. 52.
+[^F68]: Sch. 3 para. 2(4)(f) inserted (16.4.2003) by The Road Traffic Act 1991 (Special Parking Areas) (England) Order 2003 (S.I. 2003/859), arts. 1, 2(2)
+[^F69]: Sch. 3 para. 2(4)(f) inserted (S.) (18.11.2003) by The Road Traffic Act 1991 (Special Parking Area) (Scotland) Order 2003 (S.S.I. 2003/508), arts. 1, 2
+[^F70]: Sch. 3 para. 2(6)(a) substituted (1.4.2013): (S.) by The Police and Fire Reform (Scotland) Act 2012 (Consequential Modifications and Savings) Order 2013 (S.S.I. 2013/119), art. 1, sch. 1 para. 13; and by The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602), art. 1(2), Sch. 2 para. 24
+[^F71]: Sch. 4 para. 1 repealed (1.1.1996) by 1995 c. 23, s. 60(2), Sch. 8 Pt. I (with ss. 54, 55); S.I. 1995/2181, art. 2
+[^F72]: Sch. 4 para. 4 repealed (1.9.1994) by 1994 c. 22, ss. 65, 66(1), Sch. 5 Pt. I (with s. 57(4))
+[^F73]: Sch. 4 para. 5 repealed (1.9.1994) by 1994 c. 22, ss. 65, 66(1), Sch. 5 Pt. I (with s. 57(4))
+[^M75]: 1968 c. 73.
+[^M76]: 1988 c. 52.
+[^M77]: 1981 c. 14.
+[^M78]: 1981 c. 14.
+[^M79]: 1991 c. 22.
+[^F74]: Sch. 4 para. 39 repealed (1.1.2006) by Serious Organised Crime and Police Act 2005 (c. 15), s. 178(8), Sch. 17 Pt. 2; S.I. 2005/3495, art. 2(1)(u)
+[^F75]: Sch. 4 para. 73(5) repealed (24.9.2007) by Road Safety Act 2006 (c. 49), s. 61(1)(10), Sch. 7(13); S.I. 2007/2472, art. 2(n)
+[^F76]: Sch. 4 para. 79 repealed (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 83, Sch. 8; S.I. 1992/1286, art. 2,Sch.
+[^F77]: Sch. 4 para. 93 repealed (1.4.2009) by Road Safety Act 2006 (c. 49), s. 61(1)(8)(10), Sch. 7(3); S.I. 2008/3164, art. 4(c)
+[^F78]: Sch. 4 para. 94 repealed (8.6.2015) by The Road Safety Act 2006 (Consequential Amendments) Order 2015 (S.I. 2015/583), art. 1(1), Sch. 1 Table 1
+[^F79]: Sch. 4 para. 99 repealed (8.6.2015) by Road Safety Act 2006 (c. 49), s. 61(1)(10), Sch. 7(4); S.I. 2015/560, art. 3(b) (with arts. 4-9)
+[^F80]: Sch. 4 para. 100(2) repealed (8.6.2015) by Road Safety Act 2006 (c. 49), s. 61(1)(10), Sch. 7(4); S.I. 2015/560, art. 3(b) (with arts. 4-9)
+[^F81]: Sch. 4 para. 103(2) omitted (30.11.2022 for S.) by virtue of Police, Crime, Sentencing and Courts Act 2022 (c. 32), ss. 97(3), 208(1); S.I. 2022/1187, reg. 4(b) (with Pt. 3)
+[^F82]: Sch. 4 para. 104 repealed (8.6.2015) by Road Safety Act 2006 (c. 49), s. 61(1)(10), Sch. 7(4); S.I. 2015/560, art. 3(b) (with arts. 4-9)
+[^M80]: 1984 c. 54.
+[^M81]: 1988 c. 53.
+[^M82]: 1988 c. 52.
+[^F83]: Sch. 5 repealed (3.7.2000) by 1999 c. 29, ss. 294(1)(d)(2)-(8), 423, Sch. 34 Pt. VI (with Sch. 12 para. 9(1))
+[^M83]: 1972 c. 11.
+[^M84]: 1989 c. 40.
+[^M85]: 1958 c. 51.
+[^M86]: 1967 c. 13.
+[^M87]: 1975 c. 24.
+[^M88]: 1975 c. 25.
+[^F84]: Sch. 6 repealed (E.W.) (31.3.2008) by Traffic Management Act 2004 (c. 18), s. 99(1), Sch. 12 Pt. 1; S.I. 2007/2053, arts. 1(2), 3(1)(2)(h)(ii) (with arts. 4-8) (as amended (17.3.2008) by S.I. 2008/757, arts. 3, 5); S.I. 2007/3174, art. 2, Sch.
+[^F85]: Sch. 7 para. 1 repealed (1.10.1992) by Tribunals and Inquiries Act 1992 (c. 53) s. 18(2), Sch. 4 Pt.I

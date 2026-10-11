@@ -1,0 +1,2102 @@
+---
+title: "Terrorism (Protection of Premises) Act 2025"
+identifier: "ukpga/2025/10"
+citation: "2025 Chapter 10"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S+N.I."
+date: 2025-04-03
+last_amended: 2026-06-15
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/2025/10"
+source_modified: 2026-06-17
+retrieved: 2026-10-11
+---
+
+# Terrorism (Protection of Premises) Act 2025
+
+**2025 Chapter 10**
+
+An Act to require persons with control of certain premises or events to take steps to reduce the vulnerability of the premises or event to, and the risk of physical harm to individuals arising from, acts of terrorism; to confer related functions on the Security Industry Authority; to limit the disclosure of information about licensed premises that is likely to be useful to a person committing or preparing an act of terrorism; and for connected purposes.
+
+[3rd April 2025]
+
+Be it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## Part 1 — Public protection requirements
+
+### Introductory
+
+#### 1 Overview (prospective)
+
+(1) This Part requires persons responsible for qualifying premises (see section 2) or a qualifying event (see section 3) to take steps to reduce—
+
+(a) the risk of physical harm to individuals arising from acts of terrorism, and
+
+(b) for larger qualifying premises and all qualifying events, their vulnerability to acts of terrorism.
+
+(2) Section 4 makes provision about the persons responsible for qualifying premises or events.
+
+(3) Sections 5 to 10 set out the requirements.
+
+(4) Sections 11 to 26 provide for the tribunal to determine certain matters and for enforcement of the requirements by the Security Industry Authority.
+
+(5) Sections 27 to 33 make general provision in relation to this Part.
+
+(6) Schedule 1 specifies uses of premises for the purposes of determining whether premises are qualifying premises.
+
+(7) Schedule 2 provides for certain premises or events to be excluded from the requirements.
+
+#### 2 Qualifying premises (prospective)
+
+(1) This section applies for the purposes of this Part.
+
+(2) Premises are “qualifying premises” if—
+
+(a) the premises consist of a building or a building and other land (and for these purposes “building” includes part of a building or a group of buildings),
+
+(b) the premises are wholly or mainly used for one or more uses specified in Schedule 1,
+
+(c) it is reasonable to expect that from time to time 200 or more individuals may be present on the premises at the same time in connection with one or more uses specified in Schedule 1, and
+
+(d) the premises are not specified or described in Part 1 of Schedule 2 (excluded premises).
+
+(3) Qualifying premises are—
+
+(a) “enhanced duty premises” if it is reasonable to expect that from time to time 800 or more individuals may be present on the premises at the same time in connection with one or more uses specified in Schedule 1;
+
+(b) “standard duty premises” in any other case.
+
+(4) Subsection (3) is subject to any provision of Schedule 1 which provides for qualifying premises to be enhanced duty premises or standard duty premises in certain cases (regardless of how they would otherwise be treated).
+
+(5) Where qualifying premises form part of other qualifying premises—
+
+(a) if the same person is responsible for two or more of the premises, those two or more premises are to be treated as one set of qualifying premises, and
+
+(b) subject to paragraph (a), this Part applies in relation to each of the qualifying premises.
+
+#### 3 Qualifying events (prospective)
+
+(1) For the purposes of this Part, an event is a “qualifying event” if—
+
+(a) the premises at which the event is to be held consist of a building, other land or a building and other land (and for these purposes “building” includes part of a building or a group of buildings),
+
+(b) the premises are not enhanced duty premises and do not form part of enhanced duty premises,
+
+(c) members of the public will have access to the premises for the purpose of attending the event,
+
+(d) it is reasonable to expect that at some point during the event 800 or more individuals may be present on the premises at the same time in connection with their use for the event,
+
+(e) measures will be in place to secure or check that members of the public who wish to access the premises for the purpose of attending the event—
+
+(i) have paid to do so,
+
+(ii) have tickets or passes allowing access, or
+
+(iii) are members or guests of a club, association or similar body, and
+
+(f) the event is not specified or described in Part 2 of Schedule 2 (excluded events).
+
+(2) Where the condition in subsection (1)(e) applies only in relation to one or more parts of the premises at which an event is to be held, for the purposes of this Part treat what is to be held at each such part of the premises as a separate event (to be held at that part).
+
+#### 4 Persons responsible for qualifying premises or events
+
+(1) For the purposes of this Part—
+
+(a) a person is responsible for qualifying premises if the person has control of the premises in connection with their relevant Schedule 1 use;
+
+(b) a person is responsible for a qualifying event if the person will have control of the premises at which the event is to be held in connection with their use for the event.
+
+(2) The “relevant Schedule 1 use” of premises means—
+
+(a) where the premises are used for only one use specified in Schedule 1, that use;
+
+(b) where the premises are used for two or more uses specified in Schedule 1, whichever of those uses is the principal use.
+
+(3) The Secretary of State may by regulations make provision for determining the use of premises which is to be treated as the principal use for the purposes of subsection (2)(b).
+
+(4) If more than one person is responsible for qualifying premises or a qualifying event—
+
+(a) references in this Part to the person responsible for the premises or event are to each such person, and
+
+(b) two or more such persons may act jointly in complying with a requirement imposed on them in relation to the premises or event by or under this Part.
+
+(5) This section is subject to any provision of Schedule 1 which specifies the person responsible for qualifying premises in certain cases.
+
+### Requirements
+
+#### 5 Public protection procedures (prospective)
+
+(1) The person responsible for qualifying premises or a qualifying event must, so far as is reasonably practicable, ensure that appropriate public protection procedures are in place to further the objective mentioned in subsection (2).
+
+(2) The objective is to reduce the risk of physical harm being caused to individuals if an act of terrorism were to occur on the premises, at the event or in the immediate vicinity of the premises or event.
+
+(3) “Public protection procedures” are procedures, to be followed by individuals working on the premises or at the event if there is reason to suspect that an act of terrorism is occurring, or is about to occur, on the premises, at the event or in the immediate vicinity of the premises or event—
+
+(a) for evacuating individuals from the premises or event;
+
+(b) for moving individuals to a place on the premises or at the event where there is less risk of physical harm being caused to them;
+
+(c) for preventing individuals entering or leaving the premises or event;
+
+(d) for providing information to individuals on the premises or at the event.
+
+#### 6 Public protection measures for enhanced duty premises and qualifying events (prospective)
+
+(1) The person responsible for enhanced duty premises or a qualifying event must—
+
+(a) assess and keep under review the public protection measures that are appropriate to further the objectives mentioned in subsection (2), and
+
+(b) so far as is reasonably practicable, ensure that such measures are in place (in addition to the procedures required by section 5).
+
+(2) The objectives are—
+
+(a) to reduce the vulnerability of the premises or event to acts of terrorism;
+
+(b) to reduce the risk of physical harm being caused to individuals if an act of terrorism were to occur on the premises, at the event or in the immediate vicinity of the premises or event.
+
+(3) “Public protection measures” are measures relating to—
+
+(a) the monitoring of the premises or event and the immediate vicinity of the premises or event;
+
+(b) the movement of individuals into, out of and within the premises or event;
+
+(c) the physical safety and security of the premises or the premises at which the event is to be held;
+
+(d) the security of information in relation to the premises or event.
+
+#### 7 Enhanced duty premises and qualifying events: documenting compliance
+
+(1) The person responsible for enhanced duty premises or a qualifying event must ensure that a document is prepared and kept up to date containing—
+
+(a) a statement of the procedures in place in pursuance of the requirements in section 5;
+
+(b) an assessment of how those procedures may be expected to reduce the risk mentioned in section 5(2);
+
+(c) a statement of the measures in place or proposed to be put in place in pursuance of the requirements in section 6;
+
+(d) an assessment of how those measures may be expected to reduce the vulnerability and risk mentioned in section 6(2);
+
+(e) such further information as the Secretary of State may by regulations specify.
+
+(2) The person must ensure that a copy of the document is provided to the Security Industry Authority—
+
+(a) as soon as is reasonably practicable after it is prepared, and
+
+(b) if it is revised, before the end of the period of 30 days beginning with the day of its revision.
+
+#### 8 Requirements to co-ordinate and co-operate (prospective)
+
+(1) Subsection (2) applies if more than one person is responsible for qualifying premises or a qualifying event.
+
+(2) Those persons must, so far as is reasonably practicable, co-ordinate with each other in complying with any requirement imposed on them by or under this Part.
+
+(3) Subsection (4) applies if qualifying premises form part of other qualifying premises.
+
+(4) The persons responsible for each of those premises must, so far as is reasonably practicable, co-ordinate with each other in complying with any requirement imposed on any of them by or under this Part.
+
+(5) Subsection (6) applies if a person (“P”) is not responsible for enhanced duty premises or a qualifying event but has control to any other extent of the premises or the premises at which the event is to be held.
+
+(6) P must, so far as is reasonably practicable, co-operate with the person responsible for the premises or event (“R”) for the purposes of R complying with a requirement imposed on R by or under this Part.
+
+(7) In this section, references to a requirement imposed by or under this Part do not include a requirement imposed by a penalty notice.
+
+#### 9 Notification requirements
+
+(1) A person who becomes responsible, or ceases to be responsible, for qualifying premises must notify the Security Industry Authority by the required time.
+
+(2) A person who becomes responsible, or ceases to be responsible, for a qualifying event must notify the Security Industry Authority by the required time.
+
+(3) The Secretary of State may by regulations—
+
+(a) specify further matters relating to qualifying premises or a qualifying event that are to be notified to the Security Industry Authority by the person responsible for the premises or event, and
+
+(b) specify the time by which any such notification must be given.
+
+(4) If—
+
+(a) information relating to qualifying premises or a qualifying event included with a notification under subsection (1) or (2) or regulations under subsection (3) ceases to be accurate, and
+
+(b) the person who gave the notification is still responsible for the premises or event,
+
+the person must notify the Security Industry Authority by the required time.
+
+(5) In relation to a notification under subsection (1), (2) or (4), the “required time” is the time specified in regulations made by the Secretary of State under this subsection.
+
+(6) The Secretary of State may by regulations make provision requiring a notification under this section (including a notification under regulations under subsection (3))—
+
+(a) to include specified information (including information identifying an individual);
+
+(b) to be in a specified form;
+
+(c) to be made in a specified manner.
+
+(7) In subsection (6) “specified” means specified in the regulations under that subsection.
+
+(8) Regulations under subsection (6) may confer a discretion on the Security Industry Authority.
+
+(9) References in this section to a person who becomes responsible for qualifying premises or a qualifying event include—
+
+(a) a person who becomes responsible by virtue of the coming into force of any provision of this Part at the same time as the coming into force of this section, and
+
+(b) a person who is responsible by virtue of any provision of this Part that came into force before the coming into force of this section.
+
+#### 10 Designating a senior individual (prospective)
+
+(1) This section applies where a person who is responsible for enhanced duty premises or a qualifying event (“R”) is not an individual.
+
+(2) R must designate an individual who is concerned in the management or control of R as having responsibility for ensuring that R complies with the requirements imposed on R by or under this Part.
+
+#### 11 Determinations by the tribunal (prospective)
+
+(1) An interested person may apply to the tribunal for a determination of any of the following matters—
+
+(a) whether premises are qualifying premises;
+
+(b) whether qualifying premises are enhanced duty premises;
+
+(c) the relevant Schedule 1 use of qualifying premises;
+
+(d) whether an event is a qualifying event;
+
+(e) the premises at which a qualifying event is to be held;
+
+(f) whether a person is responsible for qualifying premises or a qualifying event;
+
+(g) whether a person is required to co-operate with the person responsible for enhanced duty premises or a qualifying event (see section 8(5) and (6)).
+
+(2) In this section “interested person” means—
+
+(a) the Security Industry Authority, or
+
+(b) any person who has (or, in relation to an event, will have at any point during the event) control to any extent of the premises or event to which the application relates.
+
+### Investigations and enforcement
+
+#### 12 Role of the Security Industry Authority
+
+(1) The Security Industry Authority must carry out the functions relating to the requirements in sections 5 to 10 that are conferred on it by this Part, including—
+
+(a) exercising the investigatory powers in Schedule 3 for the purpose of assessing compliance with the requirements, and
+
+(b) taking such enforcement action under this Part in relation to the requirements as it considers necessary.
+
+(2) The Security Industry Authority must also—
+
+(a) prepare guidance about how it proposes to exercise its functions under this Part (including, in particular, the investigatory powers in Schedule 3),
+
+(b) provide such advice about the requirements in sections 5 to 10 to such persons as it considers appropriate, and
+
+(c) keep under review the effectiveness of the requirements in reducing—
+
+(i) the risk of physical harm to individuals arising from acts of terrorism;
+
+(ii) the vulnerability of enhanced duty premises and qualifying events to acts of terrorism.
+
+(3) In relation to the guidance prepared under subsection (2)(a), the Security Industry Authority—
+
+(a) must submit the guidance to the Secretary of State for approval,
+
+(b) must publish the guidance if it is approved by the Secretary of State,
+
+(c) must keep any published guidance under review, and
+
+(d) may from time to time prepare revised guidance (and paragraphs (a) to (c) of this subsection apply to revised guidance).
+
+(4) The Private Security Industry Act 2001 is amended as follows.
+
+(5) In section 1 (the Security Industry Authority)—
+
+(a) in subsection (2), in the words before paragraph (a), after “Authority” insert “under this Act”;
+
+(b) after subsection (2) insert—
+
+> (2A) The Authority also has the functions conferred on it by Part 1 of the Terrorism (Protection of Premises) Act 2025.
+
+;
+
+(c) in subsection (4)(a), after “under this Act” insert “or Part 1 of the Terrorism (Protection of Premises) Act 2025”;
+
+(d) in subsection (4)(b)—
+
+(i) the existing text after “relating to” becomes sub-paragraph (i), and
+
+(ii) at the end of that sub-paragraph insert
+
+> ;
+>
+> (ii) measures (existing or proposed) to reduce the risk of physical harm to individuals on premises and at events arising from acts of terrorism or to reduce the vulnerability of premises and events to acts of terrorism.
+
+(6) In section 2 (directions etc by the Secretary of State)—
+
+(a) in each of subsections (2) and (2A), after “activities” insert “under this Act”;
+
+(b) in subsection (3), in each of paragraphs (b) and (c), after “activities” insert “under this Act”.
+
+(7) Schedule 1 (the Security Industry Authority) is amended as follows.
+
+(8) In paragraph 14, in each of sub-paragraphs (1A) and (1B), after “functions” insert “under this Act”.
+
+(9) In paragraph 15, in each of sub-paragraphs (1) and (2), after “functions” insert “under this Act”.
+
+(10) In paragraph 17—
+
+(a) in sub-paragraph (1)—
+
+(i) the existing text after “the Authority shall” becomes paragraph (a),
+
+(ii) in that paragraph, after “its functions” insert “under this Act”, and
+
+(iii) at the end of that paragraph insert
+
+> ;
+>
+> (b) send to the Secretary of State a report on the carrying out of its functions under Part 1 of the Terrorism (Protection of Premises) Act 2025.
+
+;
+
+(b) in each of sub-paragraphs (3) and (4), for “such report” substitute “report under sub-paragraph (1)(a)”.
+
+#### 13 Compliance notices (prospective)
+
+(1) The Security Industry Authority may give a person a compliance notice if it has reasonable grounds to believe that the person is contravening or has contravened a relevant requirement.
+
+(2) A compliance notice is a notice requiring the person to whom it is given to comply with a specified relevant requirement within a specified period.
+
+(3) A compliance notice given to a person must—
+
+(a) state the Security Industry Authority’s reasons for giving the notice;
+
+(b) explain what may happen if the person does not comply with the notice;
+
+(c) explain how the person may appeal against the notice.
+
+(4) A compliance notice given to a person may—
+
+(a) require the person to take specified steps within a specified period in order to comply with the specified relevant requirement;
+
+(b) require the person within a specified period to provide evidence to the satisfaction of the Security Industry Authority that the person is complying or has complied with the notice.
+
+(5) Before giving a compliance notice to a person, the Security Industry Authority must give the person an opportunity to make representations about the proposed notice.
+
+(6) A person may not be given more than one compliance notice in respect of the same contravention.
+
+(7) In this section—
+
+- “relevant requirement” means a requirement imposed by any of sections 5 to 10;
+- “specified” means specified in the compliance notice.
+
+#### 14 Restriction notices (prospective)
+
+(1) The Security Industry Authority may give a person responsible for enhanced duty premises or a qualifying event a restriction notice in respect of the premises or event if it has reasonable grounds to believe that—
+
+(a) a person is contravening or has contravened a requirement in section 5 or 6 in relation to the premises or event, and
+
+(b) giving the notice is necessary to reduce the risk of physical harm to individuals arising from acts of terrorism on the premises, at the event or in the immediate vicinity of the premises or event.
+
+(2) A restriction notice is a notice requiring the person to whom it is given to comply with specified prohibitions or restrictions relating to enhanced duty premises or a qualifying event.
+
+(3) A restriction notice given to a person must—
+
+(a) state the Security Industry Authority’s reasons for giving the notice;
+
+(b) specify a period for which the notice has effect;
+
+(c) explain that the period for which the notice has effect may be varied under section 15;
+
+(d) explain what may happen if the person does not comply with the notice;
+
+(e) explain how the person may appeal against the notice.
+
+(4) The period specified under subsection (3)(b) must not exceed six months, beginning with the day on which the notice is given, unless it does so by reason of a variation under section 15.
+
+(5) The prohibitions and restrictions that may be specified in respect of enhanced duty premises include—
+
+(a) a prohibition on how the premises may be used;
+
+(b) a restriction on the times at which the premises may be used;
+
+(c) a restriction on the number of individuals who may be permitted to be present on the premises at the same time or at specified times.
+
+(6) The prohibitions and restrictions that may be specified in respect of a qualifying event include—
+
+(a) a prohibition on the event taking place;
+
+(b) a restriction on the times at which the event may take place;
+
+(c) a restriction on the number of individuals who may be permitted to be present at the event at the same time or at specified times.
+
+(7) A restriction notice may provide that a specified prohibition or restriction does not apply if specified conditions are met.
+
+(8) A restriction notice may require the person to whom it is given, within a specified period, to provide evidence to the satisfaction of the Security Industry Authority that the person is complying or has complied with the notice.
+
+(9) Before giving a restriction notice to a person, the Security Industry Authority must give the person an opportunity to make representations about the proposed notice.
+
+(10) Subsection (9) does not apply if the Security Industry Authority considers that there is an urgent need to give the restriction notice to the person.
+
+(11) In this section “specified” means specified in the restriction notice.
+
+#### 15 Variation or withdrawal of notices (prospective)
+
+(1) The Security Industry Authority may vary or withdraw a compliance notice or a restriction notice by giving notice of the variation or withdrawal to the person to whom the original notice was given.
+
+(2) A compliance notice may not be varied so as to make it more onerous.
+
+(3) A restriction notice may not be varied so as to make it more onerous, except by varying it to extend the period for which it has effect.
+
+(4) A restriction notice may be varied to extend the period for which it has effect only if—
+
+(a) the period for which it would have effect but for the variation has not expired, and
+
+(b) the Security Industry Authority has reasonable grounds to believe that its reasons for giving the original notice will continue to apply during the extended period.
+
+(5) A restriction notice may not be varied to extend the period for which it has effect by more than three months at a time.
+
+(6) Before varying a restriction notice to extend the period for which it has effect, the Security Industry Authority must give the person to whom the original notice was given an opportunity to make representations about the proposed variation.
+
+#### 16 Appeals against notices (prospective)
+
+(1) A person who is given a compliance notice or a restriction notice may appeal to the tribunal against the notice or a variation of the notice.
+
+(2) An appeal under this section must be brought before the end of the period of 28 days beginning with—
+
+(a) the day on which the notice is given, or
+
+(b) if the appeal is in respect of a variation of the notice, the day on which notice of the variation is given.
+
+(3) On an appeal under this section—
+
+(a) if the tribunal is satisfied that any of the grounds in subsection (4) applies, it may vary or cancel the notice;
+
+(b) if the tribunal is not so satisfied, it must dismiss the appeal.
+
+(4) The grounds referred to in subsection (3)(a) are that the decision to give or vary the notice was—
+
+(a) based, wholly or partly, on an error of fact;
+
+(b) wrong in law;
+
+(c) unfair or unreasonable for any other reason.
+
+(5) In determining an appeal under this section, the tribunal may—
+
+(a) review any determination of fact on which the decision to give or vary the notice was based;
+
+(b) take into account evidence which was not available to the Security Industry Authority.
+
+(6) Where an appeal in respect of a compliance notice is made under this section, the notice or variation (as the case may be) is of no effect until the appeal is determined or withdrawn unless the tribunal orders otherwise.
+
+(7) Where an appeal in respect of a restriction notice is made under this section, the tribunal may order that the notice or variation (as the case may be) is of no effect until the appeal is determined or withdrawn.
+
+### Monetary penalties
+
+#### 17 Penalty notices (prospective)
+
+(1) If the Security Industry Authority is satisfied, on the balance of probabilities, that a person is contravening or has contravened a relevant requirement, it may give a penalty notice to the person.
+
+(2) A penalty notice is a notice requiring the person to pay a penalty of a specified amount (a “non-compliance penalty”) to the Security Industry Authority within a specified period.
+
+(3) A person may not be given more than one penalty notice in respect of the same contravention.
+
+(4) A penalty notice may not require a person to pay a non-compliance penalty in respect of a single contravention of an amount greater than the maximum determined in accordance with section 18.
+
+(5) A penalty notice may not specify a period for paying a non-compliance penalty that is less than 28 days, beginning with the day on which the notice is given.
+
+(6) A penalty notice may be given to a person in respect of a contravention whether or not the person has been given a compliance notice or restriction notice in respect of the contravention.
+
+(7) A person is not liable to a non-compliance penalty in respect of any failure to comply with a notice for which the person has been convicted of an offence under this Part.
+
+(8) In this section—
+
+- “relevant requirement” means a requirement imposed by or under any of sections 5 to 10, 13 and 14 or paragraph 3 of Schedule 3;
+- “specified” means specified in the penalty notice.
+
+#### 18 Maximum amount of a non-compliance penalty
+
+(1) The maximum amount of a non-compliance penalty that may be imposed on a person by a penalty notice is—
+
+(a) in the case of a contravention of a requirement imposed by a notice under paragraph 3(1)(b) of Schedule 3 (requirement to attend and answer questions), £5,000;
+
+(b) if, in a case to which paragraph (a) does not apply, the contravention in respect of which the penalty is imposed relates to standard duty premises, £10,000;
+
+(c) if, in a case to which paragraph (a) does not apply, the contravention in respect of which the penalty is imposed relates to enhanced duty premises or a qualifying event, the amount determined in accordance with subsections (2) to (4).
+
+(2) Where the person does not have an accounting period or the person’s first accounting period has not ended, the maximum amount is £18 million.
+
+(3) In any other case, the maximum amount is whichever is the greater of—
+
+(a) £18 million, and
+
+(b) 5% of the person’s qualifying worldwide revenue for the person’s most recent complete accounting period.
+
+(4) Where the person’s most recent complete accounting period is not a period of 12 months, the amount of the person’s qualifying worldwide revenue for the period is to be adjusted as follows—
+
+(a) if the accounting period is less than a year, the amount is to be proportionately increased;
+
+(b) if the accounting period is more than a year, the amount is to be proportionately reduced.
+
+(5) The Security Industry Authority must—
+
+(a) produce a statement giving information about the amounts which it does, or does not, regard as comprising a person’s qualifying worldwide revenue for the purposes of this section;
+
+(b) keep the statement under review;
+
+(c) publish the statement (and any revised or replacement statement);
+
+(d) send a copy of the statement (and any revised or replacement statement) to the Secretary of State.
+
+(6) Before producing a statement under subsection (5) (including a revised or replacement statement), the Security Industry Authority must consult the Secretary of State.
+
+(7) The Secretary of State must lay a copy of any statement received under subsection (5)(d) before Parliament.
+
+(8) The Secretary of State may by regulations amend—
+
+(a) subsection (1)(a),
+
+(b) subsection (1)(b),
+
+(c) subsection (2), or
+
+(d) subsection (3)(a),
+
+so as to substitute a different figure for the figure for the time being specified.
+
+(9) In this section “accounting period”, in relation to a person, means a period in respect of which accounts are prepared in relation to that person.
+
+#### 19 Daily penalties
+
+(1) This section applies if a penalty notice is given to a person in respect of a contravention of a requirement imposed by a compliance notice or restriction notice.
+
+(2) The penalty notice may, in addition to requiring the person to pay a non-compliance penalty, require the person to pay daily penalties to the Security Industry Authority.
+
+(3) A “daily penalty” is a specified amount that must be paid, within a specified period, for each day on which the contravention continues after the end of the period specified for payment of the non-compliance penalty.
+
+(4) In subsection (3) “specified” means specified in the penalty notice.
+
+(5) The amount of each daily penalty must not exceed—
+
+(a) if the contravention relates to standard duty premises, £500;
+
+(b) if the contravention relates to enhanced duty premises or a qualifying event, £50,000.
+
+(6) The Secretary of State may by regulations amend subsection (5)(a) or (b) so as to substitute a different figure for the figure for the time being specified.
+
+#### 20 Determining the amount of a penalty (prospective)
+
+(1) A non-compliance penalty or daily penalty imposed on a person by a penalty notice must be of an amount that the Security Industry Authority considers to be—
+
+(a) appropriate, and
+
+(b) proportionate to the contravention in respect of which it is imposed.
+
+(2) In determining the amount of a penalty to be imposed on a person by a penalty notice, the Security Industry Authority must take into account the following matters (in addition to any other matters it considers relevant)—
+
+(a) the effects of the contravention in respect of which the penalty is imposed;
+
+(b) any action taken by the person to remedy the contravention or mitigate its effects;
+
+(c) the ability of the person to pay the penalty.
+
+#### 21 Penalty notices: contents, procedure, variation and withdrawal (prospective)
+
+(1) A penalty notice must contain the following information—
+
+(a) the reasons for giving the notice;
+
+(b) the amount of the non-compliance penalty;
+
+(c) the amount of any daily penalty;
+
+(d) how payments may be made;
+
+(e) the period within which payments must be made;
+
+(f) the rights of appeal under section 22;
+
+(g) the consequences of failing to pay the penalty.
+
+(2) Before giving a penalty notice to a person, the Security Industry Authority must give the person an opportunity to make representations about the proposed notice.
+
+(3) The Security Industry Authority may vary or withdraw a penalty notice by giving notice of the variation or withdrawal to the person to whom the notice was given.
+
+(4) A penalty notice may not be varied so as to—
+
+(a) increase the amount of the non-compliance penalty or any daily penalty,
+
+(b) shorten the period within which the non-compliance penalty or any daily penalty must be paid, or
+
+(c) require the payment of daily penalties not already provided for in the notice.
+
+#### 22 Appeals against penalties (prospective)
+
+(1) A person who is given a penalty notice may appeal to the tribunal against the notice or a variation of the notice.
+
+(2) An appeal under this section must be brought before the end of the period of 28 days, beginning with—
+
+(a) the day on which the penalty notice is given, or
+
+(b) if the appeal concerns a variation of the notice, the day on which notice of the variation is given.
+
+(3) On an appeal under this section—
+
+(a) if the tribunal is satisfied that any of the grounds in subsection (4) applies, it may vary or cancel the penalty notice;
+
+(b) if the tribunal is not so satisfied, it must dismiss the appeal.
+
+(4) The grounds referred to in subsection (3)(a) are that the decision to give or vary the notice was—
+
+(a) based, wholly or partly, on an error of fact;
+
+(b) wrong in law;
+
+(c) unfair or unreasonable for any other reason.
+
+(5) In determining an appeal under this section, the tribunal may—
+
+(a) review any determination of fact on which the decision to give or vary the notice was based;
+
+(b) take into account evidence which was not available to the Security Industry Authority.
+
+(6) Where an appeal in respect of a penalty notice is made under this section, the notice or variation (as the case may be) is of no effect until the appeal is determined or withdrawn unless the tribunal orders otherwise.
+
+#### 23 Recovery of penalties (prospective)
+
+(1) In England and Wales, a penalty is recoverable as if it were payable under an order of the High Court.
+
+(2) In Scotland, a penalty may be enforced in the same manner as an extract registered decree arbitral bearing a warrant for execution issued by the sheriff court of any sheriffdom in Scotland.
+
+(3) In Northern Ireland, a penalty is recoverable as if it were payable under an order of the High Court.
+
+(4) Where action is taken under this section for the recovery of a penalty, the penalty—
+
+(a) in relation to England and Wales, is to be treated for the purposes of section 98 of the Courts Act 2003 (register of judgments and orders etc) as if it were a judgment entered in the High Court;
+
+(b) in relation to Northern Ireland, is to be treated for the purposes of Article 116 of the Judgments Enforcement (Northern Ireland) Order 1981 (S.I. 1981/226 (N.I. 6)) (register of judgments) as if it were a judgment in respect of which an application has been accepted under Article 22 or 23(1) of that Order.
+
+(5) If the whole or any part of a penalty is not paid by the date by which it is required to be paid, the unpaid balance from time to time is to carry interest at the rate for the time being specified in section 17 of the Judgments Act 1838.
+
+(6) Where the Security Industry Authority receives an amount in respect of a penalty (including interest), it must be paid into the Consolidated Fund.
+
+(7) In this section “penalty” means a non-compliance penalty or daily penalty imposed by a penalty notice.
+
+### Offences (prospective)
+
+#### 24 Offences of failing to comply with compliance notice or restriction notice (prospective)
+
+(1) A person who is given a compliance notice in respect of a contravention which relates to enhanced duty premises or a qualifying event commits an offence if the person fails to comply with the notice.
+
+(2) A person who is given a restriction notice commits an offence if the person fails to comply with the notice.
+
+(3) It is a defence for a person (“the accused”) charged with an offence under subsection (1) or (2) to show that they took all reasonable steps to comply with the notice.
+
+(4) The accused is to be taken to have shown the fact mentioned in subsection (3) if—
+
+(a) sufficient evidence of the fact is adduced to raise an issue with respect to it, and
+
+(b) the contrary is not proved beyond reasonable doubt.
+
+(5) The accused may not rely on a defence under subsection (3) which involves a third party allegation unless the accused has—
+
+(a) given a notice to the prosecutor in accordance with subsections (7) to (10), or
+
+(b) obtained the permission of the court.
+
+(6) In subsection (5) “third party allegation” means an allegation that the failure was due to—
+
+(a) the act or omission of another person, or
+
+(b) the accused relying on information provided by another person.
+
+(7) The notice under subsection (5)(a) must give any information in the accused’s possession which identifies, or may assist in identifying, the other person mentioned in subsection (6).
+
+(8) In the case of proceedings in England and Wales or Northern Ireland, the notice under subsection (5)(a) must be given to the prosecutor no later than seven clear days before the hearing of the proceedings.
+
+(9) In the case of summary proceedings in Scotland, the notice under subsection (5)(a) must be given to the prosecutor—
+
+(a) where an intermediate diet is to be held, at or before that diet;
+
+(b) where such a diet is not to be held, no later than ten clear days before the trial diet.
+
+(10) In the case of solemn proceedings in Scotland, the notice under subsection (5)(a) must be given to the prosecutor—
+
+(a) where the proceedings are in the sheriff court, at or before the first diet;
+
+(b) where the proceedings are in the High Court, at or before the preliminary hearing.
+
+(11) A person who commits an offence under this section is liable—
+
+(a) on summary conviction in England and Wales, to imprisonment for a term not exceeding the general limit in a magistrates’ court or a fine (or both);
+
+(b) on summary conviction in Scotland, to imprisonment for a term not exceeding 12 months or a fine not exceeding the statutory maximum (or both);
+
+(c) on summary conviction in Northern Ireland, to imprisonment for a term not exceeding six months or a fine not exceeding the statutory maximum (or both);
+
+(d) on conviction on indictment, to imprisonment for a term not exceeding two years or a fine (or both).
+
+#### 25 Offence of providing false or misleading information (prospective)
+
+(1) A person commits an offence if—
+
+(a) the person provides false or misleading information to the Security Industry Authority in compliance, or purported compliance, with a requirement imposed by or under this Part, and
+
+(b) the person knows that, or is reckless as to whether, the information is false or misleading.
+
+(2) A person who commits an offence under this section is liable—
+
+(a) on summary conviction in England and Wales, to imprisonment for a term not exceeding the general limit in a magistrates’ court or a fine (or both);
+
+(b) on summary conviction in Scotland, to imprisonment for a term not exceeding 12 months or a fine not exceeding the statutory maximum (or both);
+
+(c) on summary conviction in Northern Ireland, to imprisonment for a term not exceeding six months or a fine not exceeding the statutory maximum (or both);
+
+(d) on conviction on indictment, to imprisonment for a term not exceeding two years or a fine (or both).
+
+#### 26 Liability for offence committed by a body (prospective)
+
+(1) Subsection (2) applies where a person who is not an individual (“the body”) commits an offence under—
+
+(a) section 24(1) (failure to comply with compliance notice),
+
+(b) section 24(2) (failure to comply with restriction notice), or
+
+(c) paragraph 10 of Schedule 3 (failure to comply with information notice).
+
+(2) If the offence—
+
+(a) is committed with the consent or connivance of a relevant person in relation to the body or a person purporting to act in the capacity of a relevant person in relation to the body, or
+
+(b) is attributable to neglect on the part of such a person,
+
+the person (as well as the body) commits the offence and is liable to be proceeded against and punished accordingly.
+
+(3) Subsection (4) applies where a person who is not an individual (“the body”) commits an offence under—
+
+(a) section 25 (providing false or misleading information to the Security Industry Authority),
+
+(b) paragraph 11 of Schedule 3 (obstructing an authorised inspector), or
+
+(c) paragraph 12 of Schedule 3 (pretending to be an authorised inspector).
+
+(4) If the offence is committed with the consent or connivance of a relevant person in relation to the body, or a person purporting to act in the capacity of a relevant person in relation to the body, the person (as well as the body) commits the offence and is liable to be proceeded against and punished accordingly.
+
+(5) “Relevant person” means—
+
+(a) in relation to a body corporate other than one whose affairs are managed by its members, an officer of the body or any other person who is concerned in the management or control of the body;
+
+(b) in relation to a body corporate whose affairs are managed by its members, a member or any other person who is concerned in the management or control of the body;
+
+(c) in relation to a limited partnership, a general partner or any other person who is concerned in the management or control of the limited partnership;
+
+(d) in relation to any other partnership, a partner or any other person who is concerned in the management or control of the partnership;
+
+(e) in relation to any other unincorporated association, a person who is concerned in the management or control of the association.
+
+### General
+
+#### 27 Guidance
+
+(1) The Secretary of State must publish guidance about the requirements imposed by or under this Part.
+
+(2) The Secretary of State—
+
+(a) must keep the guidance under review,
+
+(b) may from time to time revise the guidance, and
+
+(c) must publish any revised guidance.
+
+(3) Before publishing guidance under this section the Secretary of State must consult such persons as the Secretary of State considers appropriate.
+
+(4) The Secretary of State must lay any guidance published under this section before Parliament.
+
+(5) Where in any proceedings it is alleged that a person has contravened a requirement imposed by or under this Part, proof that the person acted in accordance with applicable guidance under this section may be relied on as tending to establish that there was no such contravention.
+
+#### 28 Disclosure of information (prospective)
+
+(1) Any person may disclose information to the Security Industry Authority for the purposes of the exercise by the Security Industry Authority of any of its functions under this Part.
+
+(2) The Security Industry Authority may disclose information held in connection with the exercise of any of its functions under this Part to—
+
+(a) any person for the purposes of the exercise by the Security Industry Authority of any of its functions under this Part;
+
+(b) any person with functions of a public nature for the purposes of the exercise by that person of any of those functions.
+
+(3) A disclosure of information required or authorised by this Part does not breach—
+
+(a) any obligation of confidence owed by the person disclosing the information, or
+
+(b) any other restriction on the disclosure of information (however imposed).
+
+(4) But nothing in this Part requires or authorises a disclosure of information that—
+
+(a) contravenes the data protection legislation, or
+
+(b) is prohibited by any of Parts 1 to 7 or Chapter 1 of Part 9 of the Investigatory Powers Act 2016.
+
+(5) In determining whether a disclosure would contravene the data protection legislation, the requirements imposed, and powers conferred, by this Part are to be taken into account.
+
+(6) In this section “the data protection legislation” has the same meaning as in the Data Protection Act 2018 (see section 3 of that Act).
+
+#### 29 Means of giving notices (prospective)
+
+(1) A notice under this Part may be given to a person by—
+
+(a) delivering it by hand to the person,
+
+(b) leaving it at the person’s proper address,
+
+(c) sending it by post to the person at that address, or
+
+(d) sending it to their email address.
+
+(2) A notice to a body corporate may be given in accordance with subsection (1) to any officer or, if the body’s affairs are managed by its members, to any member.
+
+(3) A notice to a limited partnership may be given in accordance with subsection (1) to any general partner.
+
+(4) A notice to any other partnership may be given in accordance with subsection (1) to any partner.
+
+(5) A notice to any other unincorporated association may be given in accordance with subsection (1) to any person who is concerned in the management or control of the association.
+
+(6) A person’s proper address is—
+
+(a) in a case where the person has specified an address in the United Kingdom as one at which the person, or someone acting on the person’s behalf, will accept service of notices or other documents, that address;
+
+(b) in any other case, the address determined in accordance with subsection (7).
+
+(7) A person’s proper address is (if subsection (6)(a) does not apply)—
+
+(a) in the case of a body corporate (including a notice given to an officer or member of the body), the address of its registered or principal office;
+
+(b) in the case of a partnership (including a notice given to a partner), the address of its principal office;
+
+(c) in the case of any other unincorporated association (including a notice given to a person who is concerned in the management or control of the association), its principal office;
+
+(d) in a case where none of paragraphs (a) to (c) apply, any address at which the person giving the notice believes, on reasonable grounds, that the notice will come to the attention of the person.
+
+(8) A person’s email address is—
+
+(a) any email address published for the time being by that person as an address for contacting that person;
+
+(b) if there is no such published address, any email address by means of which the person giving the notice believes, on reasonable grounds, that the notice will come to the attention of that person.
+
+(9) In the case of—
+
+(a) a body corporate registered outside the United Kingdom,
+
+(b) a partnership carrying on business outside the United Kingdom, or
+
+(c) any other unincorporated association with an office outside the United Kingdom,
+
+references to its principal office include references to its principal office in the United Kingdom or, if it has no principal office in the United Kingdom, any place in the United Kingdom where it carries on its business or conducts its activities.
+
+(10) A notice sent to a person by email is, unless the contrary is proved, to be treated as having been given at 9am on the working day immediately following the day on which it was sent.
+
+(11) In subsection (10) “working day” means a day other than a Saturday, a Sunday, Christmas Day, Good Friday or a bank holiday under the Banking and Financial Dealings Act 1971 in any part of the United Kingdom.
+
+#### 30 Further provision about notices
+
+(1) The Secretary of State may by regulations make further provision about notices under this Part.
+
+(2) The regulations may in particular make further provision about—
+
+(a) the form and content of notices;
+
+(b) the variation or withdrawal of notices.
+
+#### 31 Civil liability (prospective)
+
+(1) Except so far as this Part or regulations under this Part provide, nothing in this Part confers a right of action in any civil proceedings in respect of any contravention of a requirement imposed on any person by or under this Part.
+
+(2) Subsection (1) does not affect any right of action which exists apart from the provisions of this Part.
+
+#### 32 Powers to amend this Part
+
+(1) The Secretary of State may by regulations—
+
+(a) substitute a different figure, of not less than 100, for the figure which is for the time being specified in section 2(2)(c) (minimum number of individuals for premises to be qualifying premises);
+
+(b) substitute a different figure, of not less than 500, for the figure which is for the time being specified in—
+
+(i) section 2(3)(a) (definition of “enhanced duty premises”), or
+
+(ii) section 3(1)(d) (minimum number of individuals for events to be qualifying events);
+
+(c) amend section 5(3) (public protection procedures) so as to—
+
+(i) specify a further procedure, or
+
+(ii) omit, or amend the description of, a procedure for the time being specified;
+
+(d) amend section 6(3) (public protection measures) so as to—
+
+(i) specify a further measure, or
+
+(ii) omit, or amend the description of, a measure for the time being specified;
+
+(e) amend Schedule 1 so as to—
+
+(i) specify a new use (for the purposes of determining whether premises are qualifying premises),
+
+(ii) provide for qualifying premises to be standard duty premises or enhanced duty premises in certain cases (regardless of how they would otherwise be treated),
+
+(iii) specify the person responsible for qualifying premises in certain cases, or
+
+(iv) omit, or amend the description of, a use for the time being specified;
+
+(f) amend Schedule 2 so as to—
+
+(i) exclude further premises or events from the requirements imposed by or under this Part, or
+
+(ii) omit, or amend the description of, premises or an event for the time being specified.
+
+(2) The power in—
+
+(a) subsection (1)(a) or (b), so far as it confers a power to lower a figure,
+
+(b) subsection (1)(c)(i), or
+
+(c) subsection (1)(d)(i),
+
+may be exercised only if the Secretary of State considers that doing so is necessary for public protection.
+
+(3) The power in—
+
+(a) subsection (1)(a) or (b), so far as it confers a power to increase a figure,
+
+(b) subsection (1)(c)(ii), or
+
+(c) subsection (1)(d)(ii),
+
+may be exercised only if the Secretary of State considers that it is not necessary for public protection to retain the figure, procedure or measure (as the case may be) for the time being specified.
+
+(4) Before making regulations under subsection (1) the Secretary of State must consult such persons as the Secretary of State considers appropriate.
+
+#### 33 Interpretation of this Part (prospective)
+
+(1) In this Part—
+
+- “compliance notice” means a notice under section 13;
+- “contravention” includes a failure to comply;
+- “daily penalty” has the meaning given by section 19;
+- “document” includes information recorded in any form;
+- “enhanced duty premises” has the meaning given by section 2(3)(a);
+- “general partner” has the meaning given by section 3 of the Limited Partnerships Act 1907;
+- “information” includes documents, and any reference to providing information includes a reference to producing a document;
+- “non-compliance penalty” has the meaning given by section 17;
+- “officer”, in relation to a body corporate, means a director, manager, secretary or other similar officer of the body;
+- “penalty notice” has the meaning given by section 17;
+- “qualifying event” has the meaning given by section 3;
+- “qualifying premises” has the meaning given by section 2(2);
+- “relevant Schedule 1 use” has the meaning given by section 4(2);
+- “restriction notice” means a notice under section 14;
+- “standard duty premises” has the meaning given by section 2(3)(b);
+- “terrorism” has the same meaning as in the Terrorism Act 2000 (see section 1 of that Act);
+- “the tribunal” means the First-Tier Tribunal or, where determined by or under Tribunal Procedure Rules, the Upper Tribunal.
+
+(2) References in this Part to a person having control of premises is a reference to the person having control as occupier or otherwise.
+
+(3) References in this Part to acts of terrorism (however expressed) include the use or threat of action which it is reasonable to suspect may be being carried out in the course of, or in the planning or preparation of, an act of terrorism.
+
+## Part 2 — Licensing: disclosure of plans of premises
+
+### 34 Licensing: disclosure of plans of premises
+
+(1) Schedule 4 amends—
+
+(a) the Licensing Act 2003, and
+
+(b) the Licensing (Scotland) Act 2005 (asp 16),
+
+to make provision about the inclusion of plans in public registers kept under those Acts and about the disclosure of certain plans not included in those registers.
+
+(2) The Secretary of State must by regulations make provision as to the form and content of plans for the purposes of any provision of the Licensing Act 2003 or the Licensing (Scotland) Act 2005 that refers to regulations under this subsection.
+
+(3) The regulations may only include provision for the purpose of restricting the disclosure of information that the Secretary of State considers is likely to be useful to a person committing or preparing an act of terrorism.
+
+(4) The Secretary of State may by regulations specify the amount of the fee that is to accompany an application under the following provisions (which are inserted by Schedule 4)—
+
+(a) paragraph 4 of Schedule 3 to the Licensing Act 2003 (application to replace old plan of premises included in a licensing register);
+
+(b) paragraph 5 of Schedule 3 to that Act (application to replace old plan of works included in a licensing register);
+
+(c) paragraph 2 of Schedule 1A to the Licensing (Scotland) Act 2005 (application to replace old plan of premises included in a licensing register).
+
+(5) In subsection (3)—
+
+- “committing or preparing an act of terrorism” includes the use or threat of action which it is reasonable to suspect may be being carried out in the course of, or in the planning or preparation of, an act of terrorism;
+- “terrorism” has the same meaning as in the Terrorism Act 2000 (see section 1 of that Act).
+
+## Part 3 — General
+
+### 35 Regulations
+
+(1) A power to make regulations under any provision of this Act includes power to make—
+
+(a) consequential, supplementary, incidental, transitional or saving provision;
+
+(b) different provision for different purposes or areas.
+
+(2) Regulations under this Act are to be made by statutory instrument.
+
+(3) A statutory instrument containing any of the following (whether alone or with other provision) may not be made unless a draft of the instrument has been laid before and approved by a resolution of each House of Parliament—
+
+(a) regulations under section 18(8) or 19(6) which increase or decrease the maximum amount of a penalty by more than is necessary to reflect changes in the value of money;
+
+(b) regulations under section 32.
+
+(4) Any other statutory instrument containing regulations under this Act is subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(5) This section does not apply to regulations under section 37.
+
+### 36 Extent
+
+(1) Part 1 extends to England and Wales, Scotland and Northern Ireland.
+
+(2) In Part 2—
+
+(a) section 34 extends to England and Wales and Scotland;
+
+(b) Part 1 of Schedule 4 extends to England and Wales;
+
+(c) Part 2 of Schedule 4 extends to Scotland.
+
+(3) This Part extends to England and Wales, Scotland and Northern Ireland.
+
+### 37 Commencement
+
+(1) This Part comes into force on the day on which this Act is passed.
+
+(2) Parts 1 and 2 come into force—
+
+(a) for the purposes of making regulations, on the day on which this Act is passed;
+
+(b) for remaining purposes, on such day as the Secretary of State may by regulations appoint; and different days may be appointed for different purposes or areas.
+
+(3) The Secretary of State may by regulations make transitional or saving provision in connection with the coming into force of any provision of this Act.
+
+(4) The power to make regulations under subsection (3) includes power to make different provision for different purposes or areas.
+
+(5) Regulations under this section are to be made by statutory instrument.
+
+### 38 Short title
+
+This Act may be cited as the Terrorism (Protection of Premises) Act 2025.
+
+## Schedule 1 — Specified uses of premises (prospective)
+
+*Section 1*
+
+### Shops etc (prospective)
+
+**1** Use for—
+
+(a) the retail sale of goods,
+
+(b) the display of goods for sale, or
+
+(c) the provision of a service,
+
+where the sale, display or service is principally to visiting members of the public.
+
+### Food and drink (prospective)
+
+**2** Use for the sale of food or drink, where the food or drink is principally for consumption on the premises by visiting members of the public.
+
+### Entertainment and leisure activities (prospective)
+
+**3** Use (other than a use mentioned elsewhere in this Schedule) for the provision of entertainment, leisure or recreation activities of any description, where the activity is principally for the benefit of visiting members of the public.
+
+### Sports grounds (prospective)
+
+**4** (1) Use as a sports ground (but see paragraph 3 of Schedule 2).
+
+(2) “Sports ground”—
+
+(a) in relation to England and Wales and Scotland, has the meaning given by section 17(1) of the Safety of Sports Grounds Act 1975;
+
+(b) in relation to Northern Ireland, has the meaning given by Article 2(2) of the Safety of Sports Grounds (Northern Ireland) Order 2006 (S.I. 2006/313 (N.I. 2)).
+
+### Libraries, museums and galleries etc (prospective)
+
+**5** (1) Use as a library, museum or gallery where admittance is principally to visiting members of the public.
+
+(2) In this paragraph “museum or gallery” includes—
+
+(a) an archive, and
+
+(b) a site where a collection of objects or works (or a single object or work) considered to be of scientific, historic, artistic or cultural interest is exhibited outdoors or partly outdoors.
+
+### Halls etc (prospective)
+
+**6** Use as—
+
+(a) a venue for hire for events or activities,
+
+(b) an exhibition hall, or
+
+(c) a conference centre,
+
+where the events, activities, exhibits or conferences are principally for the benefit of visiting members of the public.
+
+### Visitor attractions (prospective)
+
+**7** Use as a visitor attraction of cultural, historic, touristic or educational value.
+
+### Hotels etc (prospective)
+
+**8** Use as—
+
+(a) a hotel;
+
+(b) a hostel;
+
+(c) a holiday park.
+
+### Places of worship (prospective)
+
+**9** (1) Use for—
+
+(a) communal worship, or
+
+(b) other communal religious practice,
+
+in accordance with the tenets of a particular religion or religious denomination.
+
+(2) Where the relevant Schedule 1 use of qualifying premises is the use mentioned in sub-paragraph (1), the premises are standard duty premises for the purposes of this Part (regardless of how they would otherwise be treated).
+
+### Health care (prospective)
+
+**10** (1) Use as a hospital or for the provision of health care.
+
+(2) Where the relevant Schedule 1 use of qualifying premises is use as a hospital, the person responsible for the premises for the purposes of this Part is—
+
+(a) where the hospital is operated by an NHS trust, NHS foundation trust or Health and Social Care trust, that trust;
+
+(b) where the hospital is operated by a Health Board or Special Health Board, that Board;
+
+(c) in any other case, the governing body of the hospital.
+
+(3) In this paragraph—
+
+- “Health and Social Care trust” means a Health and Social Care trust established under Article 10 of the Health and Personal Social Services (Northern Ireland) Order 1991 (S.I. 1991/194 (N.I. 1));
+
+- “Health Board” and “Special Health Board” have the same meanings as in the National Health Service (Scotland) Act 1978;
+
+- “health care” means all forms of health care provided to individuals, whether relating to physical or mental health, and including ancillary care;
+
+- “hospital”—
+
+  - in relation to England and Wales, has the meaning given by section 275 of the National Health Service Act 2006;
+  - in relation to Scotland, has the meaning given by section 108(1) of the National Health Service (Scotland) Act 1978;
+  - in relation to Northern Ireland, has the meaning given by Article 2(2) of the Health and Personal Social Services (Northern Ireland) Order 1972 (S.I. 1972/1265 (N.I. 14));
+
+- “NHS trust” and “NHS foundation trust” have the same meanings as in the National Health Service Act 2006.
+
+### Bus stations, railway stations etc (prospective)
+
+**11** (1) Use as—
+
+(a) a railway station,
+
+(b) a bus or coach station,
+
+(c) a tramway station, or
+
+(d) any other station forming part of a transport system which uses a mode of guided transport and is not a trolley vehicle system.
+
+(2) In this paragraph—
+
+- “guided transport” means transport by vehicles guided by means external to the vehicles (whether or not the vehicles are also capable of being operated in some other way);
+
+- “railway” means a system of transport employing parallel rails which—
+
+  - provides support and guidance for vehicles carried on flanged wheels, and
+  - forms a track which either is of a gauge of at least 350 millimetres or crosses a carriageway (whether or not on the same level), but does not include a tramway;
+
+- “railway station” means any land or other property which consists of premises used as, or for the purposes of, or otherwise in connection with, a railway passenger station or railway passenger terminal (including any approaches, forecourt, cycle store or car park), whether or not the land or other property is, or the premises are, also used for other purposes;
+
+- “trolley vehicle system” means a system of transport by vehicles constructed or adapted for use on roads without rails under electric power transmitted to them by overhead wires (whether or not there is in addition a source of power on board the vehicles).
+
+### Aerodromes (prospective)
+
+**12** Use for affording facilities for the landing and departure of aircraft (including those capable of descending or climbing vertically), other than use exclusively for military purposes (but see paragraph 4(a) of Schedule 2).
+
+### Childcare (prospective)
+
+**13** (1) Use for the provision of—
+
+(a) in England—
+
+(i) early years provision in respect of which a person is required to be registered under section 34 of the Childcare Act 2006,
+
+(ii) later years provision in respect of which a person is required to be registered under section 53 of that Act, or
+
+(iii) education or childcare in a maintained nursery school within the meaning of section 22 of the School Standards and Framework Act 1998;
+
+(b) in Wales—
+
+(i) day care for children within the meaning of Part 2 of the Children and Families (Wales) Measure 2010 (nawm 1), or
+
+(ii) childcare in a school in Wales within the meaning of the Education Act 1996 as it applies in relation to Wales (see section 4 of that Act);
+
+(c) in Scotland—
+
+(i) early learning and childcare within the meaning of Part 6 of the Children and Young People (Scotland) Act 2014 (asp 8) (see section 46 of that Act), or
+
+(ii) the day care of children within the meaning of Part 5 of the Public Services Reform (Scotland) Act 2010 (asp 8) (see paragraph 13 of Schedule 12 to that Act);
+
+(d) in Northern Ireland—
+
+(i) day care for children within the meaning given by Article 2(2) of the Children (Northern Ireland) Order 1995 (S.I. 1995/755 (N.I. 2)),
+
+(ii) pre-school education, within the meaning given by Article 17(8) of the Education (Northern Ireland) Order 1998 (S.I. 1998/1759 (N.I. 13)), or
+
+(iii) education in a nursery school, within the meaning given by Article 2(2) of the Education and Libraries (Northern Ireland) Order 1986 (S.I. 1986/594 (N.I. 3)).
+
+(2) In sub-paragraph (1)(a) “childcare”, “early years provision” and “later years provision” have the same meanings as in Part 3 of the Childcare Act 2006 (see section 98 of that Act).
+
+(3) Where the relevant Schedule 1 use of qualifying premises is a use mentioned in sub-paragraph (1), the premises are standard duty premises for the purposes of this Part (regardless of how they would otherwise be treated).
+
+### Primary and secondary education (prospective)
+
+**14** (1) Use for the purposes of a primary or secondary education institution.
+
+(2) In this paragraph “primary or secondary education institution” means—
+
+(a) an institution in England or Wales which is—
+
+(i) a school that has been approved under section 342 of the Education Act 1996,
+
+(ii) a maintained school within the meaning given by section 20(7) of the School Standards and Framework Act 1998,
+
+(iii) an independent school registered under section 158 of the Education Act 2002,
+
+(iv) an independent educational institution registered under section 95(1) of the Education and Skills Act 2008,
+
+(v) an Academy school within the meaning given by section 1A of the Academies Act 2010,
+
+(vi) an alternative provision Academy within the meaning given by section 1C of that Act, or
+
+(vii) a pupil referral unit or other institution at which education is provided in pursuance of arrangements made under section 19 or 19A of the Education Act 1996;
+
+(b) in Scotland, a grant-aided school, independent school or public school within the meanings given by section 135 of the Education (Scotland) Act 1980;
+
+(c) in Northern Ireland, a school within the meaning given by Article 2(2) of the Education and Libraries (Northern Ireland) Order 1986 (S.I. 1986/594 (N.I. 3)) at which full‐time education is provided for pupils of compulsory school age (whether or not full-time or part-time education is also provided for pupils under or over that age).
+
+(3) Where the relevant Schedule 1 use of qualifying premises is use for the purposes of a primary or secondary education institution—
+
+(a) the person responsible for the premises for the purposes of this Part is—
+
+(i) in a case where the institution is a pupil referral unit, the local authority by which it is maintained, and
+
+(ii) in any other case, the governing body or, where there is no governing body, the proprietor of the institution, and
+
+(b) the premises are standard duty premises for the purposes of this Part (regardless of how they would otherwise be treated).
+
+### Further education (prospective)
+
+**15** (1) Use for the provision of—
+
+(a) further education in an institution in England within the further education sector (within the meaning of section 91(3) of the Further and Higher Education Act 1992),
+
+(b) education in a 16 to 19 Academy in England,
+
+(c) education in England by an independent training provider,
+
+(d) further education for persons under 19 by a local authority in England,
+
+(e) further education in an institution in Wales within the further education sector (within the meaning of section 91(3) of the Further and Higher Education Act 1992),
+
+(f) any other post-16 education or training in Wales, the facilities for which are secured under section 31(1)(a) or (b) or 32(1)(a) or (b) of the Learning and Skills Act 2000, that is funded by the Welsh Ministers or a local authority in Wales, but that is not provided by—
+
+(i) an institution in Wales within the higher education sector (within the meaning of section 91(5) of the Further and Higher Education Act 1992), or
+
+(ii) a person who is a provider of such post-16 education or training only by reason of providing such education or training to the person’s employees,
+
+(g) further education in Scotland by a body listed in Schedule 2 to the Further and Higher Education (Scotland) Act 2005 (asp 6),
+
+(h) further education in Scotland by a college of further education which is assigned to a regional strategic body by an order made under section 7C of that Act, or
+
+(i) further education at an institution recognised under Article 8 of the Further Education (Northern Ireland) Order 1997 (S.I. 1997/1772 (N.I. 15)) or established under section 5 of the Agriculture Act (Northern Ireland) 1949 (c. 2 (N.I.)).
+
+(2) Where the relevant Schedule 1 use of qualifying premises is a use mentioned in sub-paragraph (1)—
+
+(a) the person responsible for the premises for the purposes of this Part is—
+
+(i) in a case within paragraph (a), (e), (h) or (i) of that sub-paragraph, the governing body of the institution, college or institute concerned;
+
+(ii) in a case within paragraph (b) of that sub-paragraph, the proprietor of the 16 to 19 Academy concerned;
+
+(iii) in a case within paragraph (c) of that sub-paragraph, the independent training provider concerned;
+
+(iv) in a case within paragraph (d) of that sub-paragraph, the local authority in England concerned;
+
+(v) in a case within paragraph (f) of that sub-paragraph, the person providing the education concerned;
+
+(vi) in a case within paragraph (g) of that sub-paragraph, the listed body concerned, and
+
+(b) the premises are standard duty premises for the purposes of this Part (regardless of how they would otherwise be treated).
+
+(3) In this paragraph—
+
+- “16 to 19 Academy” has the meaning given by section 1B of the Academies Act 2010;
+
+- “further education”—
+
+  - in relation to provision in England or Wales, has the same meaning as in the Education Act 1996 (see section 2 of that Act);
+  - in relation to provision in Scotland, has the same meaning as in Part 1 of the Further and Higher Education (Scotland) Act 1992 (see sections 1(3) and 6 of that Act);
+  - in relation to provision in Northern Ireland, has the meaning given by Article 3 of the Further Education (Northern Ireland) Order 1997 (S.I. 1997/1772 (N.I. 15));
+
+- “independent training provider” means a provider—
+
+  - that is a provider of post-16 education or training in England—
+  
+    - to which Chapter 3 of Part 8 of the Education and Inspections Act 2006 (inspection of further education and training etc) applies, and
+    - which is funded, wholly or partly, by the Secretary of State, a local authority in England, a combined authority established under section 103 of the Local Democracy, Economic Development and Construction Act 2009 or a combined county authority established under section 9(1) of the Levelling-up and Regeneration Act 2023, and
+  
+  - that is not—
+  
+    - an employer who only provides such education or training to its employees,
+    - a 16 to 19 Academy,
+    - a school (within the meaning of section 4(1) of the Education Act 1996),
+    - a local authority in England,
+    - an institution within the further education sector (within the meaning given by section 91(3) of the Further and Higher Education Act 1992), or
+    - a higher education provider (within the meaning given by section 83(1) of the Higher Education and Research Act 2017);
+
+- “local authority in England” has the same meaning as in the Education Act 1996 (see sections 579(1) and 581 of that Act);
+
+- “local authority in Wales” has the same meaning as in the Education Act 1996 (see section 579(1) of that Act).
+
+### Higher education (prospective)
+
+**16** (1) Use for the purposes of a higher education institution.
+
+(2) Where the relevant Schedule 1 use of qualifying premises is use for the purposes of a higher education institution the person responsible for the premises for the purposes of this Part is the governing body of the institution.
+
+(3) In this paragraph—
+
+- “governing body”—
+
+  - in relation to a higher education institution in England or Wales, has the meaning given by section 85 of the Higher Education and Research Act 2017;
+  - in relation to a higher education institution in Scotland, has the meaning given by section 35(2) of the Further and Higher Education (Scotland) Act 2005;
+  - in relation to a higher education institution in Northern Ireland, has the meaning given by Article 30(3) of the Education and Libraries (Northern Ireland) Order 1993 (S.I. 1993/2810 (N.I. 12));
+
+- “higher education institution” means—
+
+  - an institution in England or Wales which is—
+  
+    - a qualifying institution within the meaning of section 11 of the Higher Education Act 2004 (including a training provider who is a qualifying institution by virtue of that section and section 21(1) of that Act), or
+    - an institution principally concerned with the provision of education by means of courses of a description mentioned in Schedule 6 to the Education Reform Act 1988 (higher education courses);
+  
+  - a provider of higher education in England and Wales designated under section 84 of the Higher Education and Research Act 2017;
+  
+  - in Scotland, a higher education institution within the meaning of section 35(1) of the Further and Higher Education (Scotland) Act 2005 (asp 6);
+  
+  - an institution in Northern Ireland which provides higher education within the meaning given by Article 2(2) of the Further Education (Northern Ireland) Order 1997 (S.I. 1997/1772 (N.I. 15));
+
+- “training provider” means a person who provides training in England or Wales for members of the school workforce within the meaning of Part 3 of the Education Act 2005 (see section 100 of that Act);
+
+- “use for the purposes of a higher education institution” includes providing residential accommodation for students at a higher education institution where the accommodation is managed by or on behalf of the institution.
+
+### Public authorities (prospective)
+
+**17** (1) Use (other than use mentioned elsewhere in this Schedule) for the provision by a public authority of facilities or services to visiting members of the public.
+
+(2) Where the relevant Schedule 1 use of qualifying premises is the use mentioned in sub-paragraph (1), the person responsible for the premises is the public authority.
+
+(3) In this paragraph “public authority” means a person exercising functions of a public nature.
+
+### References to visiting members of the public (prospective)
+
+**18** In determining for the purposes of this Schedule whether premises are used by visiting members of the public, it is irrelevant that access to the premises may be limited (at all times or particular times) to members of the public who—
+
+(a) have paid to access the premises,
+
+(b) have tickets or passes allowing access, or
+
+(c) are members or guests of a club, association or similar body.
+
+## Schedule 2 — Excluded premises and events (prospective)
+
+*Section 1*
+
+### Part 1 — Excluded premises (prospective)
+
+#### Legislatures and devolved administrations (prospective)
+
+**1** Premises occupied for the purposes of either House of Parliament (to the extent that this Part would, but for this paragraph, apply in relation to such premises).
+
+**2** Premises occupied for the purposes of—
+
+(a) the Scottish Parliament or a part of the Scottish Administration;
+
+(b) Senedd Cymru or the Welsh Government;
+
+(c) the Northern Ireland Assembly or a Northern Ireland department.
+
+#### Parks, gardens, etc (prospective)
+
+**3** (1) Premises are within this paragraph if they meet the conditions in sub-paragraphs (2) and (3).
+
+(2) The condition in this sub-paragraph is that the premises consist of—
+
+(a) a park,
+
+(b) a garden,
+
+(c) a recreation ground,
+
+(d) a sports ground that is not a designated sports ground, or
+
+(e) other open-air premises used for recreation or leisure.
+
+(3) The condition in this sub-paragraph is that no measures are in place to secure or check that members of the public who wish to access the premises—
+
+(a) have paid to do so,
+
+(b) have tickets or passes allowing access, or
+
+(c) are members or guests of a club, association or similar body.
+
+(4) For the purposes of sub-paragraph (3) disregard measures in place in relation to—
+
+(a) particular events, if the measures do not limit public access to the premises at other times, or
+
+(b) particular facilities, if the measures do not limit public access to the premises generally.
+
+(5) Nothing in this paragraph—
+
+(a) prevents premises which do not fall within this paragraph, but form part of premises which do, being qualifying premises;
+
+(b) prevents events held at premises which fall within this paragraph, or form part of such premises, being qualifying events.
+
+(6) “Sports ground”—
+
+(a) in relation to England and Wales and Scotland, has the meaning given by section 17(1) of the Safety of Sports Grounds Act 1975 (and see section 1(4) of that Act for the meaning of “designated sports ground”);
+
+(b) in relation to Northern Ireland, has the meaning given by Article 2(2) of the Safety of Sports Grounds (Northern Ireland) Order 2006 (S.I. 2006/313 (N.I. 2)) (and see Article 3 of that Order for the meaning of “designated sports ground”).
+
+#### Transport security (prospective)
+
+**4** Premises are within this paragraph if—
+
+(a) an aerodrome security plan under section 24AE of the Aviation Security Act 1982 is in force in relation to the premises or any part of the premises,
+
+(b) the premises or any part of the premises is a relevant asset for the purposes of section 119 of the Railways Act 1993 in relation to which an instruction under that section is in force,
+
+(c) a direction under the Channel Tunnel (Security) Order 1994 (S.I. 1994/570) is in force in relation to the premises or any part of the premises,
+
+(d) a port facility security plan under Regulation (EC) No 725/2004 of the European Parliament and of the Council of 31 March 2004 on enhancing ship and port facility security is in force in relation to the premises or any part of the premises, or
+
+(e) a port security plan under the Port Security Regulations 2009 (S.I. 2009/2048) is in force in relation to the premises or any part of the premises.
+
+### Part 2 — Excluded events (prospective)
+
+#### Events to be held on certain excluded premises (prospective)
+
+**5** An event that is to be held at premises specified or described in paragraph 1, 2 or 4 of this Schedule.
+
+#### Events at places of worship, schools, etc (prospective)
+
+**6** An event that is to be held at premises wholly or mainly used for a use specified in paragraph 9, 13, 14 or 15 of Schedule 1 (worship, childcare or primary, secondary or further education).
+
+## Schedule 3 — Investigatory powers (prospective)
+
+*Section 12*
+
+### Terrorism protection investigations (prospective)
+
+**1** In this Schedule “terrorism protection investigation” means an investigation by the Security Industry Authority to determine whether a person—
+
+(a) is contravening or has contravened a requirement imposed by or under this Part, or
+
+(b) is committing or has committed an offence under this Part.
+
+### Authorised inspectors (prospective)
+
+**2** (1) The Security Industry Authority may authorise persons to—
+
+(a) exercise information gathering powers under paragraph 3;
+
+(b) exercise powers of entry and inspection under paragraph 4;
+
+(c) apply for a warrant to be issued under paragraph 5 and execute such a warrant.
+
+(2) In this Schedule “authorised inspector” means—
+
+(a) in relation to paragraph 3, a person authorised under sub-paragraph (1)(a);
+
+(b) in relation to paragraph 4, a person authorised under sub-paragraph (1)(b);
+
+(c) in relation to paragraphs 5 to 8, a person authorised under sub-paragraph (1)(c);
+
+(d) in relation to paragraph 11 or 12, a person authorised under any of sub-paragraphs (1)(a) to (1)(c).
+
+(3) A person may be authorised to exercise a power under this Schedule only if the person appears to the Security Industry Authority to be suitably qualified to exercise the power.
+
+(4) An authorisation under this paragraph—
+
+(a) must be in writing;
+
+(b) may be varied or withdrawn by the Security Industry Authority by an instrument in writing.
+
+(5) When exercising or seeking to exercise a power under this Schedule, an authorised inspector must, if asked, produce—
+
+(a) a copy of the authorisation, and
+
+(b) a copy of any instrument varying the authorisation.
+
+### Information gathering powers (prospective)
+
+**3** (1) An authorised inspector may by notice require a person—
+
+(a) to provide specified information by a specified date, or
+
+(b) to attend at a specified time and place and provide information by answering questions.
+
+(2) If a notice under sub-paragraph (1)(a) requires a person to provide information which is kept in electronic form, the notice may require it to be provided in a form in which it is visible and legible or from which it can readily be generated in a visible and legible form.
+
+(3) An authorised inspector may give a person a notice under sub-paragraph (1)(a) only if the inspector has reason to believe that—
+
+(a) the specified information is required for the purposes of a terrorism protection investigation, and
+
+(b) the person is able to provide the specified information.
+
+(4) An authorised inspector may give a person a notice under sub-paragraph (1)(b) only if the inspector has reason to believe that the person is able to provide information required for the purposes of a terrorism protection investigation.
+
+(5) A person is not required under this paragraph to provide any information which might incriminate the person (and see paragraph 13).
+
+(6) A notice under this paragraph must—
+
+(a) specify that it is a notice containing a requirement under this paragraph;
+
+(b) explain the grounds for the inspector believing the matters in sub-paragraph (3) or (4);
+
+(c) explain the consequences of failing to comply with the requirement;
+
+(d) attach evidence of the inspector’s authority to exercise the powers under this paragraph.
+
+(7) An authorised inspector may vary or withdraw a notice under this paragraph by giving notice of the variation or withdrawal to the person to whom the notice was given.
+
+(8) Information provided by a person under this paragraph is not admissible in evidence against that person in criminal proceedings except—
+
+(a) if the proceedings are for a false statement offence, or
+
+(b) if in the proceedings—
+
+(i) in giving evidence the person makes a statement inconsistent with the information, and
+
+(ii) evidence as to the information is adduced, or a question relating to it is asked, by or on behalf of the person.
+
+(9) In this paragraph—
+
+- “false statement offence” means an offence under—
+
+  - section 2 or 5 of the Perjury Act 1911 (false statements made on oath otherwise than in judicial proceedings or made otherwise than on oath),
+  - section 44(1) or (2) of the Criminal Law (Consolidation) (Scotland) Act 1995 (false statements made on oath or otherwise than on oath), or
+  - Article 10 of the Perjury (Northern Ireland) Order 1979 (S.I. 1979/1714 (N.I. 19)) (false statutory declarations and other false unsworn statements);
+
+- “specified” means specified in the notice.
+
+### Powers to enter premises without a warrant (prospective)
+
+**4** (1) An authorised inspector may enter premises and do any of the following things—
+
+(a) inspect the premises;
+
+(b) observe the carrying on of activities on the premises;
+
+(c) view any document on, or capable of being viewed using equipment on, the premises;
+
+(d) inspect any equipment or other item on the premises;
+
+(e) require any person on the premises to provide an explanation of any document or to state where it can be found;
+
+(f) take copies of any document;
+
+(g) take measurements and photographs and make recordings;
+
+(h) require any person on the premises to give the inspector any assistance that the inspector may reasonably require for the purposes of this paragraph.
+
+(2) The power under this paragraph may be exercised in respect of premises only if an authorised inspector has reason to believe that—
+
+(a) the premises are qualifying premises or premises at which a qualifying event is to be held, is being held or has been held, and
+
+(b) the exercise of the power is necessary for the purposes of a terrorism protection investigation.
+
+(3) Before exercising the power under this paragraph in relation to premises, an authorised inspector must give the occupier of the premises at least 72 hours’ notice in writing of the proposal to exercise the power.
+
+(4) When exercising the power under this paragraph in relation to premises, an authorised inspector must, if requested to do so by a person on the premises—
+
+(a) produce evidence of the inspector’s identity, and
+
+(b) explain the purpose for which the power is to be exercised;
+
+(and see paragraph 2(5) for the requirement to produce a copy of an authorisation if requested).
+
+(5) The power under this paragraph must be exercised at a reasonable hour (having regard to the way in which the premises are used).
+
+(6) The inspector may be accompanied by any person and bring anything required for any purpose for which the inspector is exercising the power under this paragraph.
+
+### Conditions for issue of warrant to enter premises (prospective)
+
+**5** (1) A justice may issue a warrant in respect of premises if satisfied on an application made by an authorised inspector that—
+
+(a) the premises are in the United Kingdom,
+
+(b) the premises are not used wholly or mainly as a private dwelling,
+
+(c) it is necessary for an authorised inspector to enter the premises for the purposes of a terrorism protection investigation, and
+
+(d) one or more of the conditions in sub-paragraph (2) are met in relation to the premises.
+
+(2) The conditions are that—
+
+(a) the premises are not qualifying premises or premises at which a qualifying event is to be held, is being held or has been held;
+
+(b) the premises are qualifying premises or premises at which a qualifying event is to be held, is being held or has been held and an inspection without a warrant has been frustrated;
+
+(c) giving notice to enter the premises would defeat the object of entry;
+
+(d) an authorised inspector requires access to the premises urgently.
+
+(3) For the purposes of sub-paragraph (2)(b), an inspection of premises without a warrant has been frustrated if—
+
+(a) an authorised inspector has given notice of the proposal to enter the premises under the power under paragraph 4, as required by paragraph 4(3), and
+
+(b) access has been denied or an authorised inspector has been prevented from doing any other thing mentioned in paragraph 4(1).
+
+(4) In this paragraph “justice” means—
+
+(a) in England and Wales, a justice of the peace;
+
+(b) in Scotland, a sheriff or summary sheriff;
+
+(c) in Northern Ireland, a lay magistrate.
+
+### Powers exercisable by warrant (prospective)
+
+**6** (1) A warrant issued under paragraph 5 in respect of premises—
+
+(a) permits any authorised inspector to enter the premises and do any other thing mentioned in paragraph 4(1), and
+
+(b) confers such additional powers as may be specified in the warrant.
+
+(2) A power of entry under a warrant issued under paragraph 5 may be exercised—
+
+(a) at the times specified in the warrant, or
+
+(b) if no times are specified in the warrant, at any time.
+
+(3) “Additional powers” means—
+
+(a) the power to enter by force (if necessary);
+
+(b) the power to seize documents, equipment or other items.
+
+(4) If the warrant specifies the additional power in sub-paragraph (3)(b)—
+
+(a) an authorised inspector may only seize a thing if it appears to the inspector that—
+
+(i) the thing is evidence of an offence under this Part, and
+
+(ii) the seizure is necessary to prevent that evidence being concealed, lost, altered or destroyed;
+
+(b) an authorised inspector who seizes a thing must, on request by any person appearing to be in charge of the premises, give a receipt for the thing seized.
+
+(5) An authorised inspector may be accompanied by any person and bring anything required for any purpose for which the inspector is exercising the power under the warrant.
+
+(6) If an authorised inspector has entered premises under a warrant issued under paragraph 5 and no person appearing to be in charge of the premises is present when the inspector is on the premises, the inspector must leave the premises as effectively secured against trespassers as the inspector found them.
+
+### Evidence of authority (prospective)
+
+**7** (1) Before exercising the power to enter premises under a warrant issued under paragraph 5 in respect of premises, an authorised inspector must—
+
+(a) produce a copy of the warrant;
+
+(b) supply the occupier (if present), or any other person appearing to the inspector to be in charge of the premises, with a copy of the warrant.
+
+(2) If requested to do so by a person on the premises, the inspector must also—
+
+(a) produce evidence of the inspector’s identity, and
+
+(b) explain the purpose for which the power is exercised;
+
+(and see paragraph 2(5) for the requirement to produce an authorisation if requested).
+
+(3) If neither the occupier nor any other person appearing to the inspector to be in charge of the premises is present, the inspector must leave a copy of the warrant in a prominent place on the premises.
+
+### Return of warrant (prospective)
+
+**8** (1) If a warrant issued under paragraph 5 is executed, the authorised inspector who executed it must return it to the court from which it was issued as soon as reasonably practicable with an endorsement summarising the exercise of the powers in paragraph 6.
+
+(2) If a warrant issued under paragraph 5 is not executed, the Security Industry Authority must return it to the court from which it was issued as soon as reasonably practicable with an endorsement stating that it was not executed.
+
+### Retention of evidence etc (prospective)
+
+**9** (1) A thing obtained under this Schedule in connection with a terrorism protection investigation may be retained by the Security Industry Authority for so long as is necessary for the purposes of the investigation.
+
+(2) But a thing may not be retained if a copy, photograph or other recording of the thing would be sufficient for the purposes of the investigation.
+
+### Offence of failing to comply with information notice (prospective)
+
+**10** (1) A person who is given a notice under paragraph 3 commits an offence if the person fails to comply with it.
+
+(2) It is a defence for a person charged with an offence under this paragraph to show that the person took all reasonable steps to comply with the notice.
+
+(3) Subsections (4) to (10) of section 24 apply to a defence under sub-paragraph (2) as they apply to a defence under subsection (3) of that section.
+
+(4) A person who commits an offence under this paragraph is liable on summary conviction—
+
+(a) in England and Wales, to a fine;
+
+(b) in Scotland, to a fine not exceeding level 5 on the standard scale;
+
+(c) in Northern Ireland, to a fine not exceeding level 5 on the standard scale.
+
+### Offence of obstructing an authorised inspector (prospective)
+
+**11** (1) A person commits an offence if the person intentionally obstructs an authorised inspector in the exercise of a power conferred by this Schedule.
+
+(2) A person who commits an offence under this paragraph is liable on summary conviction—
+
+(a) in England and Wales, to imprisonment for a term not exceeding the maximum term for summary offences or a fine (or both);
+
+(b) in Scotland, to imprisonment for a term not exceeding 12 months or a fine not exceeding level 5 on the standard scale (or both);
+
+(c) in Northern Ireland, to imprisonment for a term not exceeding six months or a fine not exceeding level 5 on the standard scale (or both).
+
+(3) In sub-paragraph (2)(a) “the maximum term for summary offences” means—
+
+(a) if the offence is committed before the time when section 281(5) of the Criminal Justice Act 2003 comes into force, six months;
+
+(b) if the offence is committed after that time, 51 weeks.
+
+### Offence of pretending to be an authorised inspector (prospective)
+
+**12** (1) A person commits an offence if the person, with intent to deceive, falsely pretends to be an authorised inspector.
+
+(2) A person who commits an offence under this paragraph is liable on summary conviction—
+
+(a) in England and Wales, to a fine;
+
+(b) in Scotland, to a fine not exceeding level 5 on the standard scale;
+
+(c) in Northern Ireland, to a fine not exceeding level 5 on the standard scale.
+
+### Saving for material subject to legal professional privilege (prospective)
+
+**13** Nothing in this Schedule confers power to—
+
+(a) require any person to provide information, or
+
+(b) copy, photograph, record or seize anything,
+
+in respect of which a claim to legal professional privilege (or in Scotland to confidentiality of communications) could be maintained in legal proceedings.
+
+### Powers of entry: Crown application (prospective)
+
+**14** (1) Paragraphs 4 to 6 apply in relation to Crown premises that are not occupied by the Crown.
+
+(2) “Crown premises” means any premises that are property—
+
+(a) belonging to His Majesty in right of the Crown or of the Duchy of Lancaster,
+
+(b) belonging to the Duchy of Cornwall,
+
+(c) belonging to a government department or held in trust for His Majesty for the purposes of a government department, or
+
+(d) belonging to an office-holder in the Scottish Administration or held in trust for His Majesty by an office-holder in the Scottish Administration for the purposes of the Scottish Administration.
+
+## Schedule 4 — Licensing: disclosure of plans of premises (prospective)
+
+*Section 34*
+
+### Part 1 — England and Wales (prospective)
+
+**1** The Licensing Act 2003 is amended as follows.
+
+**2** In section 8 (requirement to keep a register)—
+
+(a) in subsection (1)(c) after “mentioned in” insert “Part 1 of”, and
+
+(b) after subsection (1) insert—
+
+> (1A) Part 2 of Schedule 3 makes provision about the inclusion of plans of premises and plans of works in a register kept under this section.
+
+**3** In section 17(3) (list of things that must accompany an application for a premises licence) omit the “and” at the end of paragraph (b) and insert—
+
+> (ba) if that plan is not compliant with regulations under section 34(2) of the Terrorism (Protection of Premises) Act 2025, by a plan of those premises that is compliant with those regulations, and
+
+.
+
+**4** In section 29(6) (list of things that must be included in a schedule of works accompanying an application for a provisional statement) omit the “and” at the end of paragraph (b) and insert—
+
+> (ba) if those plans are not compliant with regulations under section 34(2) of the Terrorism (Protection of Premises) Act 2025, plans of those works that are compliant with those regulations, and
+
+.
+
+**5** In section 71(4) (list of things that must accompany an application for a club premises certificate) omit the “and” at the end of paragraph (b) and insert—
+
+> (ba) if that plan is not compliant with regulations under section 34(2) of the Terrorism (Protection of Premises) Act 2025, a plan of those premises that is compliant with those regulations, and
+
+.
+
+**6** (1) Schedule 3 (matters to be entered in licensing register) is amended as follows.
+
+(2) For the heading substitute “Further provision about licensing registers”.
+
+(3) After the heading insert—
+
+.
+
+(4) The existing text becomes paragraph 1.
+
+(5) At the end insert—
+
+> **Part 2 — Inclusion of plans in licensing register**
+>
+> **Plans that may be included in licensing registers**
+>
+> **2** (1) This paragraph applies where a licensing authority—
+>
+> (a) receives an application under section 17 (application for premises licence),
+>
+> (b) receives an application under section 71 (application for club premises certificate),
+>
+> (c) issues a premises licence, or
+>
+> (d) issues a club premises certificate.
+>
+> (2) The authority must not enter in the register kept by it under section 8 a plan of the premises to which the application, licence or certificate relates unless the plan complies with regulations under section 34(2) of the Terrorism (Protection of Premises) Act 2025.
+>
+> **3** (1) This paragraph applies where a licensing authority receives an application under section 29 (application for provisional statement).
+>
+> (2) The authority must not enter in the register kept by it under section 8 a plan of the works at the premises to which the application relates unless the plan complies with regulations under section 34(2) of the Terrorism (Protection of Premises) Act 2025.
+>
+> **Replacement of old plans of premises included in licensing registers**
+>
+> **4** (1) This paragraph applies where—
+>
+> (a) a licensing authority—
+>
+> (i) has received a pre-commencement application under section 17 (application for premises licence),
+>
+> (ii) has received a pre-commencement application under section 71 (application for club premises certificate),
+>
+> (iii) has issued a pre-commencement premises licence, or
+>
+> (iv) has issued a pre-commencement club premises certificate, and
+>
+> (b) the register kept by the licensing authority under section 8 contains a plan of the premises to which the application, licence or certificate relates that does not comply with regulations under section 34(2) of the Terrorism (Protection of Premises) Act 2025 (in this paragraph “the non-compliant plan”).
+>
+> (2) An interested person may apply to the authority for the non-compliant plan to be—
+>
+> (a) removed from the register, and
+>
+> (b) replaced with a modified version of the plan that complies with regulations under section 34(2) of the Terrorism (Protection of Premises) Act 2025 (in this paragraph “the compliant plan”).
+>
+> (3) An application under sub-paragraph (2) must be accompanied by—
+>
+> (a) the compliant plan, and
+>
+> (b) a fee of an amount specified by regulations under section 34(4) of the Terrorism (Protection of Premises) Act 2025.
+>
+> (4) If the authority receives an application under sub-paragraph (2) that complies with sub-paragraph (3), the authority must—
+>
+> (a) remove the non-compliant plan from the register, and
+>
+> (b) replace it with the compliant plan.
+>
+> (5) Sub-paragraphs (6) and (7) apply where the application under sub-paragraph (2) relates to—
+>
+> (a) a pre-commencement application under section 17 that was made before 27 March 2013,
+>
+> (b) a pre-commencement application under section 71 that was made before that date,
+>
+> (c) a pre-commencement premises licence that was issued before that date, or
+>
+> (d) a pre-commencement club premises certificate that was issued before that date.
+>
+> (6) In such a case sub-paragraph (4) applies only if the register containing the non-compliant plan is accessible to the public online.
+>
+> (7) If the register containing the non-compliant plan is not accessible to the public online but the interested person specifies (in the application under sub-paragraph (2)) the location of that plan in the register, the authority may remove that plan from the register and replace it with the compliant plan.
+>
+> (8) In this paragraph—
+>
+> - “interested person” means a person who holds a premises licence or club premises certificate in respect of the premises to which the plan mentioned in sub-paragraph (1)(b) relates;
+> - “pre-commencement application under section 17” means an application under section 17 made before the date on which paragraph 3 of Schedule 4 to the Terrorism (Protection of Premises) Act 2025 comes into force;
+> - “pre-commencement application under section 71” means an application under section 71 made before the date on which paragraph 5 of Schedule 4 to the Terrorism (Protection of Premises) Act 2025 comes into force;
+> - “pre-commencement premises licence” means a premises licence the application for which is a pre-commencement application under section 17;
+> - “pre-commencement club premises certificate” means a club premises certificate the application for which is a pre-commencement application under section 71.
+>
+> **Replacement of old plans of works included in licensing registers**
+>
+> **5** (1) This paragraph applies where—
+>
+> (a) a licensing authority has received a pre-commencement application under section 29 (application for provisional statement), and
+>
+> (b) the register kept by the licensing authority under section 8 contains a plan of the works at the premises to which the application relates that does not comply with regulations under section 34(2) of the Terrorism (Protection of Premises) Act 2025 (in this paragraph “the non-compliant plan”).
+>
+> (2) An interested person may apply to the authority for the non-compliant plan to be—
+>
+> (a) removed from the register, and
+>
+> (b) replaced with a modified version of the plan that complies with regulations under section 34(2) of the Terrorism (Protection of Premises) Act 2025 (in this paragraph “the compliant plan”).
+>
+> (3) An application under sub-paragraph (2) must be accompanied by—
+>
+> (a) the compliant plan, and
+>
+> (b) a fee of an amount specified by regulations under section 34(4) of the Terrorism (Protection of Premises) Act 2025.
+>
+> (4) If the authority receives an application under sub-paragraph (2) that complies with sub-paragraph (3), the authority must—
+>
+> (a) remove the non-compliant plan from the register, and
+>
+> (b) replace it with the compliant plan.
+>
+> (5) Sub-paragraphs (6) and (7) apply where the application under sub-paragraph (2) relates to a pre-commencement application under section 29 that was made before 27 March 2013.
+>
+> (6) In such a case sub-paragraph (4) applies only if the register containing the non-compliant plan is accessible to the public online.
+>
+> (7) If the register containing the non-compliant plan is not accessible to the public online but the interested person specifies (in the application under sub-paragraph (2)) the location of that plan in the register, the authority may remove that plan from the register and replace it with the compliant plan.
+>
+> (8) In this paragraph—
+>
+> - “interested person” means a person who holds a premises licence, club premises certificate or provisional statement in respect of the premises to which the plan mentioned in sub-paragraph (1)(b) relates;
+> - “pre-commencement application under section 29” means an application under section 29 made before the date on which paragraph 4 of Schedule 4 to the Terrorism (Protection of Premises) Act 2025 comes into force.
+>
+> **Disclosure of plans not included in licensing register**
+>
+> **6** (1) This paragraph applies where a licensing authority—
+>
+> (a) is prevented by paragraph 2 or 3 from entering a plan of premises or plan of works in the register kept by it under section 8,
+>
+> (b) is required by paragraph 4(4) or 5(4) to remove a plan of premises or plan of works from the register kept by it under section 8, or
+>
+> (c) has removed, under paragraph 4(7) or 5(7), a plan of premises or plan of works from the register kept by it under section 8.
+>
+> (2) The authority must not disclose the plan otherwise than in accordance with section 185 (provision of information to other licensing authorities or responsible authorities).
+
+### Part 2 — Scotland (prospective)
+
+**7** The Licensing (Scotland) Act 2005 (asp 16) is amended as follows.
+
+**8** In section 9 (Licensing Board’s duty to keep a public register) after subsection (2) insert—
+
+> (2A) Schedule 1A makes provision about the inclusion of plans of premises in a licensing register.
+
+**9** In section 20(2)(b) (list of things that must accompany an application for a premises licence) after sub-paragraph (ii) insert—
+
+> (iiza) if that layout plan is not compliant with regulations under section 34(2) of the Terrorism (Protection of Premises) Act 2025, a plan of the subject premises that is compliant with those regulations,
+
+.
+
+**10** In section 46(2) (list of things that must accompany an application for confirmation of a provisional premises licence) omit the “and” at the end of paragraph (c) and insert—
+
+> (ca) if that layout plan is not compliant with regulations under section 34(2) of the Terrorism (Protection of Premises) Act 2025, a plan of those premises that is compliant with those regulations, and
+
+.
+
+**11** After Schedule 1 insert—
+
+> **Schedule 1A — Inclusion of plans of premises in licensing register**
+>
+> *Section 9(2A)*
+>
+> **Plans that may be included in licensing registers**
+>
+> **1** (1) This paragraph applies where a Licensing Board—
+>
+> (a) receives a premises licence application,
+>
+> (b) issues a premises licence, or
+>
+> (c) receives an application for confirmation of a provisional premises licence.
+>
+> (2) The Board must not enter in the licensing register kept by it a plan of the premises to which the application or licence relates unless the plan complies with regulations under section 34(2) of the Terrorism (Protection of Premises) Act 2025.
+>
+> **Replacement of old plans included in licensing registers**
+>
+> **2** (1) This paragraph applies where—
+>
+> (a) a Licensing Board—
+>
+> (i) has received a pre-commencement premises licence application,
+>
+> (ii) has issued a pre-commencement premises licence, or
+>
+> (iii) has received a pre-commencement application for confirmation of a provisional premises licence, and
+>
+> (b) the licensing register kept by the Board contains a plan of the premises to which the application or licence relates that does not comply with regulations under section 34(2) of the Terrorism (Protection of Premises) Act 2025 (in this paragraph “the non-compliant plan”).
+>
+> (2) An interested person may apply to the Board for the non-compliant plan to be—
+>
+> (a) removed from the register, and
+>
+> (b) replaced with a modified version of the plan that complies with regulations under section 34(2) of the Terrorism (Protection of Premises) Act 2025 (in this paragraph “the compliant plan”).
+>
+> (3) An application under sub-paragraph (2) must be accompanied by—
+>
+> (a) the compliant plan, and
+>
+> (b) a fee of an amount specified in regulations under section 34(4) of the Terrorism (Protection of Premises) Act 2025.
+>
+> (4) If the Board receives an application under sub-paragraph (2) that complies with sub-paragraph (3), the Board must—
+>
+> (a) remove the non-compliant plan from the register, and
+>
+> (b) replace it with the compliant plan.
+>
+> (5) Sub-paragraphs (6) and (7) apply where the application under sub-paragraph (2) relates to—
+>
+> (a) a pre-commencement premises licence application that was made before 27 March 2013,
+>
+> (b) a pre-commencement application for confirmation of a provisional premises licence that was made before that date, or
+>
+> (c) a pre-commencement premises licence that was issued before that date.
+>
+> (6) In such a case sub-paragraph (4) applies only if the register containing the non-compliant plan is accessible to the public online.
+>
+> (7) If the register containing the non-compliant plan is not accessible to the public online but the interested person specifies (in the application under sub-paragraph (2)) the location of that plan in the register, the Board may remove that plan from the register and replace it with the compliant plan.
+>
+> (8) In this paragraph—
+>
+> - “interested person” means a person who holds a premises licence in respect of the premises to which the plan mentioned in sub-paragraph (1)(b) relates;
+> - “pre-commencement premises licence application” means a premises licence application made before the date on which paragraph 9 of Schedule 4 to the Terrorism (Protection of Premises) Act 2025 comes into force;
+> - “pre-commencement premises licence” means a premises licence the application for which was a pre-commencement premises licence application;
+> - “pre-commencement application for confirmation of a provisional premises licence” means an application under section 46(1) for confirmation of a pre-commencement premises licence.
+>
+> **Disclosure of plans not included in licensing register**
+>
+> **3** (1) This paragraph applies where a Licensing Board—
+>
+> (a) is prevented by paragraph 1 from entering a plan of premises in the licensing register kept by it,
+>
+> (b) is required by paragraph 2(4) to remove a plan of premises from the register kept by it, or
+>
+> (c) has removed, under paragraph 2(7), a plan of premises from the register kept by it.
+>
+> (2) The Board may disclose the plan to a person mentioned in sub-paragraph (3) for the purpose of facilitating the exercise of the person’s functions under this Act.
+>
+> (3) The persons are—
+>
+> (a) a Licensing Board,
+>
+> (b) a Licensing Standards Officer,
+>
+> (c) the council within whose area the premises are situated,
+>
+> (d) the relevant health board,
+>
+> (e) the chief constable,
+>
+> (f) the enforcing authority within the meaning of section 61 of the Fire (Scotland) Act 2005 (asp 5) in respect of the premises.
+>
+> (4) The Board must not disclose the plan otherwise than in accordance with sub-paragraph (2).
+>
+> (5) If the plan is disclosed in accordance with this paragraph the plan must not be further disclosed except to a person mentioned in sub-paragraph (3) for the purpose of facilitating the exercise of the person’s functions under this Act.

@@ -1,0 +1,1747 @@
+---
+title: "Business and Planning Act 2020"
+identifier: "ukpga/2020/16"
+citation: "2020 c. 16"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S+N.I."
+date: 2020-07-22
+last_amended: 2024-03-31
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/2020/16"
+source_modified: 2026-06-23
+retrieved: 2026-10-11
+---
+
+# Business and Planning Act 2020
+
+**2020 c. 16**
+
+An Act to make provision relating to the promotion of economic recovery and growth.
+
+[22nd July 2020]
+
+Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## PART 1 — Consumption of food and drink outdoors
+
+### Pavement licences
+
+#### 1 Pavement licences
+
+(1) A person whose use or proposed use of any premises in England is or includes relevant use may apply to the appropriate local authority for a licence under this section (a “pavement licence”) in respect of those premises.
+
+(2) A pavement licence in respect of any premises is a licence for the licence-holder to put removable furniture on part of a relevant highway adjacent to the premises for either or both of the purposes in subsection (3).
+
+(3) The purposes are—
+
+(a) use of the furniture by the licence-holder to sell or serve food or drink supplied from, or in connection with relevant use of, the premises;
+
+(b) use of the furniture by other persons for the purpose of consuming food or drink supplied from, or in connection with relevant use of, the premises.
+
+(4) In this group of sections “relevant use”, in relation to premises, means either or both of the following—
+
+(a) use as a public house, wine bar or other drinking establishment;
+
+(b) other use for the sale of food or drink for consumption on or off the premises.
+
+(5) In this group of sections “relevant highway” means a highway—
+
+(a) to which Part 7A of the Highways Act 1980 applies, and
+
+(b) which is not over Crown land or maintained by Network Rail.
+
+(6) In subsection (1) “appropriate local authority” means the local authority in whose area the premises referred to in that subsection are situated.
+
+#### 2 Applications
+
+(1) An application for a pavement licence made to a local authority must—
+
+(a) be made in writing and in such form as the authority may specify,
+
+(b) be sent to the authority using electronic communications in such manner as the authority may specify, and
+
+(c) be accompanied by such fee not exceeding [[^F1]the relevant amount] as the local authority may require.
+
+[[^F2](1A) In subsection (1)(c), “the relevant amount” means—
+
+(a) £350, in the case of an application which—
+
+(i) is made by a person who already holds a pavement licence, and
+
+(ii) is in respect of the premises to which that existing licence relates (whether or not it is a renewal application), and
+
+(b) £500, in any other case.
+
+(1B) The Secretary of State may by regulations amend subsection (1A)(a) or (b) so as to substitute a different amount for the amount for the time being specified there.]
+
+(2) An application for a pavement licence made to a local authority must—
+
+(a) specify the premises, the part of the relevant highway and the purpose or purposes specified in section 1(3) to which the application relates,
+
+(b) specify the days of the week on which, and the times of day between which, it is proposed to put furniture on the highway,
+
+(c) describe the type of furniture to which the application relates,
+
+(d) specify the date on which the application is made,
+
+(e) contain or be accompanied by such evidence of public liability insurance in respect of anything to be done by the licence-holder pursuant to the licence as the authority may require, and
+
+(f) contain or be accompanied by such other information or material as the local authority may require.
+
+[[^F3](2A) If the application is a renewal application—
+
+(a) subsection (2) does not apply, but
+
+(b) the application must contain or be accompanied by such information or material as the local authority may require.]
+
+(3) The local authority to which an application for a pavement licence is made must, in such manner as it considers appropriate—
+
+(a) publish the application and any information or material required by the local authority under subsection (2)(f), and
+
+(b) publicise the fact that representations relating to the application may be made to the authority during the public consultation period (and indicate when that period comes to an end).
+
+(4) In this group of sections, the “public consultation period” means the period of [[^F4]14] days beginning with the day after that on which the application is made.
+
+(5) A person who applies for a pavement licence must—
+
+(a) on the day the application is made, fix a notice of the application to the premises so that the notice is readily visible to, and can be read easily by, members of the public who are not on the premises, and
+
+(b) secure that the notice remains in place until the end of the public consultation period.
+
+(6) A notice under subsection (5) must—
+
+(a) be in such form as the local authority to which the application is made may require,
+
+(b) state that the application has been made and the date on which it was made,
+
+(c) indicate that representations relating to the application may be made to the local authority during the public consultation period (and indicate when that period comes to an end), and
+
+(d) contain such other information or material as the local authority may require.
+
+(7) For the purposes of this section an application for a pavement licence is made on the day it is sent to the local authority.
+
+(8) A person who applies for a pavement licence is to be taken to have agreed—
+
+(a) to the use of electronic communications for all purposes relating to the application, and to any licence resulting from the application, which are capable of being carried out electronically, and
+
+(b) that the applicant's address for the purposes of such communications is the address incorporated into, or otherwise logically associated with, the person's application.
+
+(9) Where a person applies for a pavement licence, the person may not make another application for a pavement licence in respect of the same premises before the end of the determination period (see section 3).
+
+[[^F5](10) For the purposes of this section, an application is a renewal application if—
+
+(a) it is made by a person who already holds a pavement licence,
+
+(b) it is in respect of the premises to which the existing licence relates, and
+
+(c) it is for a licence to begin on the expiry of the existing licence and on the same terms.]
+
+#### 3 Determination of applications
+
+(1) This section applies where an application for a pavement licence is made to a local authority in accordance with section 2.
+
+(2) Before making a determination in respect of the application, the local authority must—
+
+(a) take into account any representations made to it during the public consultation period,
+
+(b) consult the highway authority for the relevant highway to which the application relates, where the local authority is not that authority, and
+
+(c) consult such other persons as the local authority considers appropriate.
+
+(3) After the end of the public consultation period the local authority may—
+
+(a) grant a pavement licence to the applicant, or
+
+(b) reject the application.
+
+(4) A pavement licence granted to the applicant may be granted in respect of—
+
+(a) any or all of the purposes in relation to which the application is made;
+
+(b) some or all of the part of the relevant highway specified in the application.
+
+(5) A local authority may grant a pavement licence under subsection (3)(a) only if the authority considers that, taking into account any conditions subject to which it proposes to grant the licence (as to which, see section 5), nothing done by the licence-holder pursuant to the licence would have an effect specified in subsection (6).
+
+(6) The effects referred to in subsection (5) are—
+
+(a) preventing traffic, other than vehicular traffic, from—
+
+(i) entering the relevant highway at a place where such traffic could otherwise enter it (ignoring any pedestrian planning order or traffic order made in relation to the highway),
+
+(ii) passing along the relevant highway, or
+
+(iii) having normal access to premises adjoining the relevant highway,
+
+(b) preventing any use of vehicles which is permitted by a pedestrian planning order or which is not prohibited by a traffic order,
+
+(c) preventing statutory undertakers having access to any apparatus of theirs under, in, on or over the highway, or
+
+(d) preventing the operator of an electronic communications code network having access to any electronic communications apparatus kept installed for the purposes of that network under, in, on or over the highway.
+
+(7) Where a local authority is considering for any purpose of this group of sections whether furniture put on a relevant highway by a licence-holder pursuant to a pavement licence has or would have the effect referred to in subsection (6)(a), the authority must have regard in particular to—
+
+(a) the needs of disabled people, and
+
+(b) the recommended distances required for access by disabled people as set out in guidance issued by the Secretary of State.
+
+(8) In subsection (6), words and expressions which are also used in Part 7A of the Highways Act 1980 have the same meanings as in that Part of that Act.
+
+(9) If the local authority does not make a determination under subsection (3) by the end of the determination period, the licence for which the application was made is deemed to be granted by the authority to the applicant.
+
+(10) In this group of sections, the “determination period” means the period of [[^F6]14] days beginning with the first day after the public consultation period.
+
+#### 4 Duration
+
+[[^F7](1) A pavement licence may be granted by a local authority for such period as the authority may specify in the licence.
+
+(2) The period specified may not exceed two years.]
+
+(3) Where a pavement licence is deemed to be granted under section 3(9) it is [^F8]... deemed to be granted for [[^F9]two years] starting with the first day after the determination period.
+
+[^F10]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) The licence-holder may surrender a pavement licence at any time by giving notice to the local authority by which it is granted or deemed to be granted.
+
+(6) A notice under subsection (5) must be made in writing and sent using electronic communications in such manner as the local authority may specify.
+
+#### 5 Conditions
+
+(1) A pavement licence may be granted by a local authority subject to such conditions as it considers reasonable.
+
+(2) A local authority may publish conditions subject to which it proposes to grant pavement licences.
+
+(3) Where a pavement licence is deemed to be granted by a local authority under section 3(9), it is deemed to be granted subject to any conditions which are published by the local authority under subsection (2) before the day on which the application for the licence was made.
+
+(4) To the extent that a pavement licence which is granted or deemed to be granted would not by virtue of the preceding provisions of this section be subject to a no-obstruction condition or a smoke-free seating condition, it is deemed to be granted subject to such a condition.
+
+(5) A “no-obstruction condition” is a condition that anything done by the licence-holder pursuant to the licence, or any activity of other persons which is enabled by the licence, must not have an effect specified in section 3(6).
+
+(6) A “smoke-free seating condition” is a condition that, where the furniture to be put on the relevant highway consists of seating for use by persons for the purpose of consuming food or drink, the licence-holder must make reasonable provision for seating where smoking is not permitted.
+
+(7) In considering for any purposes of this group of sections whether a licence-holder has made reasonable provision for seating where smoking is not permitted, a local authority must have regard to guidance issued by the Secretary of State.
+
+(8) The Secretary of State may by regulations—
+
+(a) specify conditions for pavement licences, and
+
+(b) make provision as to whether, or the extent to which, those conditions have effect in addition to, or instead of, any other conditions to which pavement licences are subject.
+
+#### 6 Enforcement and revocation
+
+(1) If the local authority by which a pavement licence is granted or deemed to be granted considers that the licence-holder has breached any condition of the licence, the authority may—
+
+(a) revoke the licence, or
+
+(b) serve a notice on the licence-holder requiring the taking of such steps to remedy the breach as are specified in the notice within such time as is so specified.
+
+(2) If a licence-holder on whom a notice is served under subsection (1)(b) fails to comply with the notice, the local authority may—
+
+(a) revoke the notice, or
+
+(b) take the steps itself and recover the costs of doing so from the licence-holder.
+
+(3) A local authority by which a pavement licence is granted or deemed to be granted may also revoke the licence if it considers that—
+
+(a) some or all of the part of the relevant highway to which the licence relates has become unsuitable for any purpose in relation to which the licence was granted or deemed to be granted,
+
+(b) as a result of the licence—
+
+(i) there is a risk to public health or safety,
+
+(ii) anti-social behaviour or public nuisance is being caused or risks being caused, or
+
+(iii) the highway is being obstructed (other than by anything done by the licence-holder pursuant to the licence),
+
+(c) anything material stated by the licence-holder in their application was false or misleading, or
+
+(d) the licence-holder did not comply with the duty in section 2(5).
+
+[[^F11](4) A local authority by which a pavement licence is granted or deemed to be granted may, with the consent of the licence-holder, amend the licence if it considers that—
+
+(a) the condition in subsection (3)(a) or (b) is met, or
+
+(b) a no-obstruction condition of the licence is not being complied with.]
+
+#### 7 Effects
+
+(1) A pavement licence authorises the restriction, by anything done by the licence-holder pursuant to the licence, of public access to the part of the relevant highway to which the licence relates.
+
+(2) A pavement licence constitutes deemed planning permission for anything done by the licence-holder pursuant to the licence—
+
+(a) which is development requiring planning permission under Part 3 of the Town and Country Planning Act 1990, and
+
+(b) for which there would otherwise not be planning permission or deemed planning permission.
+
+(3) Anything done by the licence-holder pursuant to a pavement licence is not street trading for the purposes of—
+
+(a) Schedule 4 to the Local Government (Miscellaneous Provisions) Act 1982 (street trading),
+
+(b) Part 3 of the London Local Authorities Act 1990 (street trading), or
+
+(c) any other enactment under or by virtue of which street trading without a licence or other form of permission is unlawful.
+
+[^F12]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F12]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F12]6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7) Section 333 of the Highways Act 1980 (saving for rights and liabilities as to interference with highways) applies as if sections 1 to 6 were provisions of that Act.
+
+[^F13]8 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F13]9 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F13]10 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 7A [[^F14]Enforcement
+
+(1) The following provisions of this section apply where—
+
+(a) a person puts removable furniture on a relevant highway for a purpose specified in subsection (2), and
+
+(b) the person is not authorised to do so.
+
+(2) The purposes referred to in subsection (1)(a) are—
+
+(a) use of the furniture by the person to sell or serve food or drink supplied from, or in connection with relevant use of, premises which are adjacent to the highway and are used or proposed to be used by the person;
+
+(b) use of the furniture by other persons for the purpose of consuming food or drink supplied from, or in connection with relevant use of, such premises.
+
+(3) The local authority may by notice require the person—
+
+(a) to remove the furniture before a date specified in the notice, and
+
+(b) to refrain from putting furniture on the highway unless authorised to do so.
+
+(4) If the person leaves or puts removable furniture on the relevant highway in contravention of the notice, the local authority may—
+
+(a) remove the furniture and store it,
+
+(b) require the person to pay the authority’s reasonable costs in removing and storing the furniture, and
+
+(c) refuse to return the furniture until those reasonable costs are paid.
+
+(5) If within the period of three months beginning with the day on which the notice is given the person does not pay the reasonable costs, or does not recover the furniture, the local authority may—
+
+(a) dispose of the furniture by sale or in any other way it thinks fit, and
+
+(b) retain any proceeds of sale for any purpose it thinks fit.
+
+(6) In this section “authorised” means authorised by—
+
+(a) a pavement licence,
+
+(b) permission under Part 7A of the Highways Act 1980, or
+
+(c) permission granted under any other enactment.]
+
+#### 8 Local authority functions
+
+(1) In exercising its functions under this group of sections a local authority must have regard to any guidance issued under this section by the Secretary of State.
+
+[^F15]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 9 Interpretation
+
+(1) In sections 1 to 8 and this section—
+
+- “Crown land” means land—
+
+  - (a) belonging to Her Majesty in right of the Crown or of the Duchy of Lancaster,
+  - (b) belonging to the Duchy of Cornwall,
+  - (c) belonging to a government department, or
+  - (d) held in trust for Her Majesty for the purposes of a government department;
+
+- “determination period” has the meaning given in section 3(10);
+
+- “enactment” has the same meaning as in the Highways Act 1980 (see section 329 of that Act);
+
+- “furniture” means—
+
+  - (a) counters or stalls for selling or serving food or drink,
+  - (b) tables, counters or shelves on which food or drink can be placed,
+  - (c) chairs, benches or other forms of seating, and
+  - (d) umbrellas, barriers, heaters and other articles used in connection with the outdoor consumption of food or drink;
+
+- “licence-holder”, in relation to a pavement licence, means the person to whom the licence is granted or deemed to be granted;
+
+- “local authority” means—
+
+  - (a) a district council in England,
+  - (b) a county council in England for an area for which there is no district council,
+  - (c) a London borough council,
+  - (d) the Common Council of the City of London in its capacity as a local authority, and
+  - (e) the Council of the Isles of Scilly;
+
+- “pavement licence” is to be construed in accordance with section 1(1);
+
+- “public consultation period” has the meaning given in section 2(4);
+
+- “relevant highway” has the meaning given in section 1(5);
+
+- “relevant use” has the meaning given in section 1(4);
+
+- “smoking” has the same meaning as in Part 1 of the Health Act 2006;
+
+- “this group of sections” means sections 1 to 10.
+
+[^F16]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F16]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) Section 115A(5) of the Highways Act 1980 (references to highways to which Part 7A of that Act applies) applies for the purposes of this group of sections.
+
+(5) In reckoning the public consultation period or the determination period, no account is to be taken of—
+
+(a) Christmas Day,
+
+(b) Good Friday, or
+
+(c) a day which is a bank holiday in England under the Banking and Financial Dealings Act 1971.
+
+#### [^F17]10 Expiry of pavement licence provisions
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Alcohol licensing
+
+#### 11 Modification of premises licences to authorise off-sales for limited period
+
+(1) The Licensing Act 2003 has effect as if it were subject to the modifications in subsections (2) to (7).
+
+(2) The Act has effect as if, in Part 9 (miscellaneous and supplementary), after section 172E there were inserted—
+
+> **Modification of premises licences to authorise off-sales for limited period**
+>
+> **172F Authorisation of off-sales for limited period**
+>
+> (1) Subsection (2) applies to a premises licence if—
+>
+> (a) the licence has effect, or is capable of having effect, on the day on which this section comes into force (“day X”),
+>
+> (b) immediately before day X, it is an on-sales only licence, and
+>
+> (c) no disqualifying event has occurred in relation to the licence in the period of three years ending with day X.
+>
+> (2) The premises licence is to be treated as if, at the beginning of day X, it is varied so that it authorises off-sales during the relevant period subject to the condition that every off-sale must be made at a pre-cut off time when the licensed premises are open for the purposes of selling alcohol for consumption on the premises.
+>
+> (3) Any provisions of the premises licence on day X are suspended in so far as they are inconsistent with the authorisation granted by virtue of subsection (2) (and for so long as that authorisation has effect).
+>
+> (4) Subsection (5) applies to a premises licence if—
+>
+> (a) the licence has effect, or is capable of having effect, on day X,
+>
+> (b) immediately before day X, it authorises the sale by retail of alcohol for consumption on the licensed premises and it also authorises off-sales, and
+>
+> (c) at that time that authorisation is subject to one or more of the following—
+>
+> (i) one or more conditions relating to the time when an off-sale may be made that would prevent an off-sale during the relevant period being made at a pre-cut off time when the licensed premises are open for the purposes of selling alcohol for consumption on the premises;
+>
+> (ii) one or more conditions applicable to pre-cut off times that would prevent an off-sale during the relevant period where the alcohol is sold in an open container;
+>
+> (iii) one or more conditions applicable to pre-cut off times that would prevent an off-sale during the relevant period where it is a sale for delivery.
+>
+> (5) The premises licence is to be treated as if, at the beginning of day X, it is varied so that, in so far as and for so long as it authorises off-sales during the relevant period, it includes—
+>
+> (a) where the requirement in subsection (4)(c)(i) is met, a condition that off-sales that would otherwise have been prevented by the condition or conditions mentioned in subsection (4)(c)(i) from being made at a pre-cut off time when the licensed premises are open for the purposes of selling alcohol for consumption on the premises may be made at such a time;
+>
+> (b) where the requirement in subsection (4)(c)(ii) is met, a condition that off-sales at a pre-cut off time that would otherwise have been prevented by the condition or conditions mentioned in subsection (4)(c)(ii) from being in the form of alcohol sold in an open container may be in that form;
+>
+> (c) where the requirement in subsection (4)(c)(iii) is met, a condition that off-sales at a pre-cut off time that would otherwise have been prevented by the condition or conditions mentioned in subsection (4)(c)(iii) from being a sale for delivery may be such a sale.
+>
+> (6) For so long as a condition has effect by virtue of subsection (5)(a), (b) or (c), the conditions of the licence referred to in subsection (4)(c)(i), (ii) or (iii) (as the case may be) are suspended in so far as they prevent the matters mentioned in that provision.
+>
+> (7) The references in subsections (3) and (6) to an authorisation or condition having effect include the authorisation or condition as subsequently varied or modified in so far as it has effect in relation to the relevant period.
+>
+> (8) For the purposes of subsection (1)(c) a disqualifying event has occurred in relation to a premises licence in the three year period mentioned in that provision if, at any time during that period—
+>
+> (a) the relevant licensing authority refused to grant a premises licence in respect of the licensed premises authorising off-sales,
+>
+> (b) the relevant licensing authority refused to vary the premises licence so as to authorise off-sales, or
+>
+> (c) the premises licence was varied or modified so as to exclude off-sales from the scope of the licence.
+>
+> (9) In the case of a premises licence which is capable of having effect on day X, references in this section to what the licence authorises are to be read as references to what it would authorise were it to have effect.
+>
+> (10) In this section—
+>
+> (a) “on-sales only licence” means a premises licence which—
+>
+> (i) authorises the sale by retail of alcohol for consumption on the licensed premises, but
+>
+> (ii) does not authorise off-sales;
+>
+> (b) “off-sales” in relation to a premises licence means the sale by retail of alcohol for consumption off the licensed premises; and references to an off-sale are to be read accordingly;
+>
+> (c) “sale for delivery” in relation to a premises licence means an off-sale for delivery by or on behalf of the holder of the licence to a building which is used for residential or work purposes (or both);
+>
+> (d) “the relevant period” means the period beginning with day X and ending with—
+>
+> (i) [[^F18]31 March 2025], or
+>
+> (ii) if earlier, the revocation or expiry of the premises licence or the exclusion of off-sales from the scope of the licence.
+>
+> (11) In this section “pre-cut off time”—
+>
+> (a) in relation to licensed premises and a day, means any time between when the premises first open that day for the purposes of selling alcohol for consumption on the premises and 11pm (but this is subject to paragraph (b));
+>
+> (b) in relation to licensed premises and a day throughout which the premises are open for the purposes of selling alcohol for consumption on the premises, means any time between when the premises are first open that day for the purposes of selling alcohol for consumption on the premises and 11pm.
+>
+> (12) Where a premises licence authorises the sale by retail of alcohol for consumption in an outdoor area of the licensed premises at some, but not all, of the times when it authorises the sale by retail of alcohol for consumption elsewhere on the premises, times when the premises are not open for the purposes of selling alcohol for consumption in the outdoor area of the premises are to be regarded for the purposes of this section as times when the premises are not “open for the purposes of selling alcohol for consumption on the premises”.
+>
+> **172G Summary off-sales reviews**
+>
+> (1) A responsible authority may apply under this section to the relevant licensing authority for an off-sales review of a premises licence to which section 172F(2) or (5) applies on grounds which are relevant to one or more of the licensing objectives.
+>
+> (2) An “off-sales review” of a premises licence is a review of the licence in so far as it relates to—
+>
+> (a) in the case of a licence to which section 172F(2) applies, off-sales authorised by virtue of section 172F(2) (see subsection (5)), or
+>
+> (b) in the case of a licence to which section 172F(5) applies, the section 172F(5) condition or conditions (as the case may be) (see subsection (6)).
+>
+> (3) On receipt of such an application, the relevant licensing authority must—
+>
+> (a) within 48 hours of the time of its receipt, consider under section 172H whether it is necessary to take interim steps pending the determination of the off-sales review, and
+>
+> (b) within 28 days after the day of its receipt, review that licence in accordance with section 172I and reach a determination on that review.
+>
+> (4) In computing the period of 48 hours mentioned in subsection (3)(a) time that is not part of a working day is to be disregarded.
+>
+> (5) For the purposes of this section and sections 172H to 172J, “off-sales authorised by virtue of section 172F(2)”, in relation to a premises licence, means the sale by retail of alcohol for consumption off the licensed premises authorised by the authorisation granted by virtue of section 172F(2) (including that authorisation as subsequently varied or modified in so far as it has effect in relation to the relevant period).
+>
+> (6) For the purposes of this section and sections 172H to 172J, “section 172F(5) condition”, in relation to a premises licence, means a condition that has effect by virtue of section 172F(5)(a), (b) or (c) in relation to the licence (including such a condition as subsequently varied or modified in so far as it has effect in relation to the relevant period).
+>
+> (7) See section 172K regarding procedural requirements in relation to applications under this section, off-sales reviews and related hearings.
+>
+> **172H Interim steps pending off-sales review**
+>
+> (1) This section applies to the consideration by a relevant licensing authority on an application under section 172G whether it is necessary to take interim steps pending the determination of the off-sales review.
+>
+> (2) The consideration may take place without the holder of the premises licence having been given an opportunity to make representations to the relevant licensing authority.
+>
+> (3) In the case of a premises licence to which section 172F(2) applies, the interim steps the relevant licensing authority must consider taking are—
+>
+> (a) the modification of the conditions of the licence in so far as it relates to off-sales authorised by virtue of section 172F(2);
+>
+> (b) the exclusion of off-sales authorised by virtue of section 172F(2) from the scope of the licence;
+>
+> (c) the suspension of off-sales authorised by virtue of section 172F(2).
+>
+> (4) In the case of a premises licence to which section 172F(5) applies, the interim steps the relevant licensing authority must consider taking are—
+>
+> (a) the alteration or omission of the section 172F(5) condition or conditions (as the case may be);
+>
+> (b) the addition of one or more new conditions which relate to a section 172F(5) condition.
+>
+> (5) But the steps taken under subsection (4) may not affect any conditions of the premises licence which exist immediately before the day on which section 172F comes into force.
+>
+> (6) Where on its consideration of whether to take interim steps the relevant licensing authority does take one or more such steps—
+>
+> (a) its decision takes effect immediately or as soon after that as the authority directs, but
+>
+> (b) it must give immediate notice of its decision and of its reasons for making it to—
+>
+> (i) the holder of the premises licence,
+>
+> (ii) the applicant under section 172G, and
+>
+> (iii) (if not the applicant), the chief officer of police for the police area in which the premises are situated (or for each police area in which they are partly situated).
+>
+> (7) Subject to subsection (11), if the holder of the premises licence makes, and does not withdraw, representations against any interim steps taken by the relevant licensing authority, the authority must, within 48 hours of the time of its receipt of the representations, hold a hearing to consider those representations.
+>
+> (8) The relevant licensing authority must give advance notice of the hearing to—
+>
+> (a) the holder of the premises licence, and
+>
+> (b) the applicant under section 172G.
+>
+> (9) At the hearing, the relevant licensing authority must—
+>
+> (a) consider whether the interim steps are appropriate for the promotion of the licensing objectives, and
+>
+> (b) determine whether to withdraw or modify the steps taken.
+>
+> (10) In considering those matters the relevant licensing authority must have regard to—
+>
+> (a) any representations made by any responsible authority, and
+>
+> (b) any representations made by the holder of the premises licence.
+>
+> (11) Where the relevant licensing authority has determined under subsection (9) whether to withdraw or modify the interim steps taken, the holder of the premises licence may only make further representations under subsection (7) if there has been a material change in circumstances since the authority made its determination.
+>
+> (12) In computing the period of 48 hours mentioned in subsection (7) time that is not part of a working day is to be disregarded.
+>
+> **172I Off-sales review of premises licence following review application**
+>
+> (1) This section applies to an off-sales review of a premises licence which a relevant licensing authority has to conduct on an application under section 172G.
+>
+> (2) The relevant licensing authority must—
+>
+> (a) hold a hearing to consider the application for the review and any relevant representations, and
+>
+> (b) take such steps mentioned in subsection (3) or (4) (if any) as it considers appropriate for the promotion of the licensing objectives.
+>
+> (3) In the case of a premises licence to which section 172F(2) applies, those steps are—
+>
+> (a) the modification of the conditions of the licence in so far as it relates to off-sales authorised by virtue of section 172F(2);
+>
+> (b) the exclusion of off-sales authorised by virtue of section 172F(2) from the scope of the licence;
+>
+> (c) the suspension, for a period not exceeding three months, of off-sales authorised by virtue of section 172F(2).
+>
+> (4) In the case of a premises licence to which section 172F(5) applies, the steps referred to in subsection (2)(b) are—
+>
+> (a) the alteration or omission of the section 172F(5) condition or conditions (as the case may be);
+>
+> (b) the addition of one or more new conditions which relate to a section 172F(5) condition.
+>
+> (5) Subsection (2)(b) is subject to sections 19 to 21 (requirement to include certain conditions in premises licences).
+>
+> (6) And the steps taken under subsection (4) may not affect any conditions of the premises licence which exist immediately before the day on which section 172F comes into force.
+>
+> (7) In this section “relevant representations” means representations which—
+>
+> (a) are relevant to one or more of the licensing objectives, and
+>
+> (b) meet the requirements of subsection (8).
+>
+> (8) The requirements are—
+>
+> (a) that the representations are made by the holder of the premises licence, a responsible authority or any other person within the required period,
+>
+> (b) that they have not been withdrawn, and
+>
+> (c) if they are made by a person who is not a responsible authority, that they are not, in the opinion of the relevant licensing authority, frivolous or vexatious.
+>
+> (9) Where the relevant licensing authority determines that any representations are frivolous or vexatious, it must notify the person who made them of the reasons for that determination.
+>
+> (10) Where the authority takes a step within subsection (3)(a) or (b) or (4), it may provide that the modification or exclusion is to have effect only for a specified period (not exceeding three months).
+>
+> (11) Where a relevant licensing authority determines an off-sales review under this section it must notify the determination and its reasons for making it to—
+>
+> (a) the holder of the premises licence,
+>
+> (b) the applicant under section 172G,
+>
+> (c) (if not the applicant), the chief officer of police for the police area in which the premises are situated (or for each police area in which they are partly situated), and
+>
+> (d) any person who made relevant representations.
+>
+> (12) A decision under this section does not have effect until—
+>
+> (a) the end of the period given for appealing against the decision, or
+>
+> (b) if the decision is appealed against, the time the appeal is disposed of.
+>
+> (13) In subsection (8)(a), “the required period” means the period provided for in regulation 39A(2) of the Licensing Act 2003 (Premises licences and club premises certificates) Regulations 2005 (S.I. 2005/42) as applied with modifications by section 172K.
+>
+> (14) Section 172J makes provision about the application and review of any interim steps that have been taken under section 172H in relation to a premises licence before a decision under this section comes into effect in relation to the licence.
+>
+> **172J Interim steps pending section 172I decision coming into effect**
+>
+> (1) At the hearing to consider an application for an off-sales review under section 172G, the relevant licensing authority must review any interim steps that have been taken by it under section 172H that have effect on the date of the hearing.
+>
+> (2) In conducting the review under this section, the relevant licensing authority must—
+>
+> (a) consider whether the interim steps are appropriate for the promotion of the licensing objectives,
+>
+> (b) consider any relevant representations, and
+>
+> (c) determine whether to withdraw or modify the interim steps taken.
+>
+> (3) In the case of a premises licence to which section 172F(2) applies, the power of the relevant licensing authority on a review under this section includes a power to take any of the following interim steps—
+>
+> (a) the modification of the conditions of the licence in so far as it relates to off-sales authorised by virtue of section 172F(2);
+>
+> (b) the exclusion of off-sales authorised by virtue of section 172F(2) from the scope of the licence;
+>
+> (c) the suspension, for a period not exceeding three months, of off-sales authorised by virtue of section 172F(2).
+>
+> (4) In the case of a premises licence to which section 172F(5) applies, the power of the relevant licensing authority on a review under this section includes a power to take any of the following interim steps—
+>
+> (a) the alteration or omission of the section 172F(5) condition or conditions (as the case may be);
+>
+> (b) the addition of one or more new conditions which relate to a section 172F(5) condition.
+>
+> (5) But the steps taken under subsection (4) may not affect any conditions of the premises licence which exist immediately before the day on which section 172F comes into force.
+>
+> (6) Any interim steps taken under subsection (3) or (4) apply until—
+>
+> (a) the end of the period given for appealing against a decision made under section 172I,
+>
+> (b) if the decision under section 172I is appealed against, the time the appeal is disposed of, or
+>
+> (c) the end of a period determined by the relevant licensing authority (which may not be longer than the period of time for which such interim steps could apply under paragraph (a) or (b)).
+>
+> (7) Any interim steps taken under section 172H in relation to a premises licence cease to have effect when the decision made under section 172I comes into effect.
+>
+> (8) In subsection (2) “relevant representations” means representations which—
+>
+> (a) are relevant to one or more of the licensing objectives, and
+>
+> (b) meet the requirements of subsection (9).
+>
+> (9) The requirements are—
+>
+> (a) that the representations are made by the holder of the premises licence, a responsible authority or any other person within the required period,
+>
+> (b) that they have not been withdrawn, and
+>
+> (c) if they are made by a person who is not a responsible authority, that they are not, in the opinion of the relevant licensing authority, frivolous or vexatious.
+>
+> (10) Where the relevant licensing authority determines that any representations are frivolous or vexatious, it must notify the person who made them of the reasons for that determination.
+>
+> (11) In subsection (9)(a), “the required period” has the same meaning as in section 172I(8)(a).
+>
+> **172K Procedural requirements in relation to off-sales reviews and hearings**
+>
+> (1) The Licensing Act 2003 (Premises licences and club premises certificates) Regulations 2005 (S.I. 2005/42)—
+>
+> (a) apply in relation to an application for an off-sales review under section 172G as they apply in relation to an application for a review of a premises licence under section 53A,
+>
+> (b) apply in relation to an off-sales review under section 172G as they apply in relation to a review of a premises licence under section 53A, and
+>
+> (c) apply in relation to representations under sections 172G to 172J as they apply in relation to representations under sections 53A to 53D.
+>
+> (2) In their application by virtue of subsection (1), those Regulations have effect with—
+>
+> (a) the modifications specified in the Table, and
+>
+> (b) any other necessary modifications.
+>
+> (3) This is the Table referred to in subsection (2)(a)—
+>
+> |  |  |
+> |---|---|
+> | *Provision of S.I. 2005/42* | *Modifications* |
+> | Regulation 2(1) (interpretation) | (a) In the definition of “application”, as if for “or Part 4” there were substituted “ , Part 4 or section 172G ”. (b) In the definition of “representations”, as if for “or Part 8” there were substituted “ , Part 8 or sections 172G to 172J ”. (c) In the definition of “review”, as if after “8” there were inserted “ or sections 172G to 172J ”. |
+> | Regulation 16A (form and content of application) | As if for “Schedule 8A” there were substituted “ Schedule 8 ”. |
+> | Regulation 36A(2) (notice of the review) | As if paragraph (b), and the “and” at the end of paragraph (a), were omitted. |
+> | Regulation 39A(1) (advertisement of application for review) | As if paragraph (b) were omitted. |
+> | Regulation 39A(2) (period for making representations) | As if for “The period prescribed for the purposes of section 53A(3)(e) of the Act” there were substituted “ The period during which representations may be made by the holder of the premises licence, any responsible authority or any other person ”. |
+> | Schedule 8 (prescribed form for application) | As if—<br>- (a) in the words before Part 1, “or club premises certificate” were omitted;<br>- (b) in the words before Part 1, for “51 / apply for the review of a club premises certificate under section 87” there were substituted “ 172G ”;<br>- (c) in the words before Part 1, “(delete as applicable)” were omitted;<br>- (d) in Part 1, in the heading “or club premises” were omitted;<br>- (e) in Part 1, “or club holding club premises certificate” and “or club premises certificate” were omitted;<br>- (f) in Part 2, the text before part (C), except the heading of Part 2, were omitted;<br>- (g) in Part 2, for the heading of part (C) there were substituted “ Details of responsible authority applicant ”;<br>- (h) in Part 2, in the words after “when you have made them”, the first tick box option were omitted. |
+>
+> (4) The Licensing Act 2003 (Hearings) Regulations 2005 (S.I. 2005/44)—
+>
+> (a) apply in relation to a hearing under section 172H as they apply in relation to a hearing under section 53B, and
+>
+> (b) apply in relation to a hearing under section 172I as they apply in relation to a hearing under section 53C.
+>
+> (5) In their application by virtue of subsection (4), those Regulations have effect with—
+>
+> (a) the modifications specified in the Table, and
+>
+> (b) any other necessary modifications.
+>
+> (6) This is the Table referred to in subsection (5)(a)—
+>
+> |  |  |
+> |---|---|
+> | *Provision of S.I. 2005/44* | *Modifications* |
+> | Regulation 2 (interpretation) | As if paragraph (4) were omitted. |
+> | Regulation 13(c) (power to extend time) | As if for the words from “section 53A” to the end there were substituted “ section 172G (summary off-sales reviews) within the period specified in subsection (3)(b) of that section. ” |
+> | In row 7A and column 2 of the Table in Schedule 2 (persons to whom notice of hearing is given) | As if for “section 53C(7)” there were substituted “ section 172I(7) ”, for “chief officer of police” there were substituted there were substituted “ person ” and for “section 53A(1)” there were substituted “ section 172G ”. |
+> | In row 7A and column 3 of the Table in Schedule 3 (documents to accompany notice of hearing) | As if for “section 53C(7)” there were substituted “ section 172I(7) ”. |
+>
+> (7) Regulation 2(3A) of the Licensing Act 2003 (Licensing authority's register) (other information) Regulations (S.I. 2005/43) applies in relation to an application for an off-sales review under section 172G as it applies in relation to an application for a review under section 53A but as if for the words from “that it has been made” to the end there were substituted “ the ground or grounds for the review ”.
+>
+> **172L Sections 172F to 172K: supplementary**
+>
+> (1) In sections 172F to 172J—
+>
+> (a) “relevant licensing authority”, in relation to any licensed premises, has the same meaning as in Part 3;
+>
+> (b) “responsible authority”, in relation to any licensed premises, has the same meaning as in Part 3;
+>
+> (c) references to an authorisation granted by virtue of section 172F(2) include the condition or conditions to which that authorisation is subject.
+>
+> (2) In sections 172G to 172J—
+>
+> - “off-sales authorised by virtue of section 172F(2)”, in relation to a premises licence, has the meaning given in section 172G(5);
+> - “section 172F(5) condition”, in relation to a premises licence, has the meaning given in section 172G(6);
+> - “the relevant period” has the same meaning as in section 172F.
+>
+> (3) For the purposes of sections 172H(3)(a), 172I(3)(a) and 172J(3)(a) the conditions of a premises licence are modified if any of them is altered or omitted or any new condition is added.
+
+(3) Section 8 (requirement to keep a register) has effect as if, in subsection (1), after paragraph (b) there were inserted—
+
+> (ba) an entry noting that the provisions of section 172F may have an impact on the conditions of, and activities authorised by, a premises licence during the relevant period (within the meaning of section 172F),
+
+.
+
+(4) Section 10(4) (functions not capable of delegation by licensing committee) has effect as if—
+
+(a) in paragraph (a), after sub-paragraph (xiii) there were inserted—
+
+> (xiv) section 172G(3)(a) or 172H (determination of interim steps pending summary off-sales review),
+
+;
+
+(b) the “or” at the end of paragraph (d) were omitted;
+
+(c) after that paragraph there were inserted—
+
+> (da) any function under section 172I (off-sales review following review application), in a case where relevant representations (within the meaning of section 172I(7)) have been made, or
+
+.
+
+(5) Section 53 (supplementary provision about review) has effect as if, in subsection (2), after “licence” there were inserted “ , or under section 172G for an off-sales review of any premises licence, ”.
+
+(6) Section 57 (duty to keep and produce licence etc) has effect as if—
+
+(a) after subsection (2) there were inserted—
+
+> (2A) If the premises are being used for the sale by retail of alcohol for consumption off the licensed premises in reliance on the authorisation granted by virtue of section 172F(2), the holder of the premises licence must secure that a statement that that is the case, which also makes clear what are the off-sales authorised by virtue of section 172F(2) (within the meaning given in section 172G(5)), is kept at the premises in the custody or under the control of—
+>
+> (a) the holder of the licence, or
+>
+> (b) the person nominated for the purposes of subsection (2).
+>
+> (2B) If the premises are being used for the sale by retail of alcohol for consumption off the licensed premises in reliance on one or more section 172F(5) conditions (within the meaning given in section 172G(6)), the holder of the premises licence must secure that a statement that that is the case, and of the section 172F(5) conditions relied on, is kept at the premises in the custody or under the control of—
+>
+> (a) the holder of the licence, or
+>
+> (b) the person nominated for the purposes of subsection (2).
+
+;
+
+(b) in subsection (3)(a), after “that summary” there were inserted “ and any section 172F statement ”;
+
+(c) in subsection (4), for “subsection (2) or” there were substituted “ any of subsections (2) to ”;
+
+(d) in subsection (5)—
+
+(i) after “subsection (2),” there were inserted “ (2A) or (2B) ”;
+
+(ii) after “mandatory conditions” there were inserted “ or a section 172F statement ”;
+
+(iii) after “the list” there were inserted “ or statement ”;
+
+(e) in subsection (7), after “conditions” there were inserted “ or section 172F statement ”;
+
+(f) after subsection (11) there were inserted—
+
+> (12) In this section “section 172F statement”, in relation to licensed premises, means a statement that is required to be kept at the premises by virtue of subsection (2A) or (2B).
+
+(7) Part 1 of Schedule 5 (appeals: premises licences) has effect as if after paragraph 8B there were inserted—
+
+> **8C Summary off-sales review of premises licence**
+>
+> (1) This paragraph applies where an off-sales review of a premises licence is decided under section 172G(3)(b) (off-sales review of premises licence following review application).
+>
+> (2) An appeal may be made against that decision by—
+>
+> (a) the holder of the premises licence,
+>
+> (b) the applicant under section 172G, or
+>
+> (c) any other person who made relevant representations in relation to the application for the review.
+>
+> (3) In sub-paragraph (2) “relevant representations” has the meaning given in section 172I(7).
+>
+> **8D Review of interim steps**
+>
+> (1) This paragraph applies where a review of interim steps is decided under section 172J (review of interim steps at an off-sales review of a premises licence).
+>
+> (2) An appeal may be made against that decision by—
+>
+> (a) the holder of the premises licence,
+>
+> (b) the applicant under section 172G, or
+>
+> (c) any other person who made relevant representations in relation to the application for the review.
+>
+> (3) An appeal under this paragraph must be heard by the magistrates' court within the period of 28 days beginning with the day on which the appellant commenced the appeal (see paragraph 9(2)).
+>
+> (4) In sub-paragraph (2) “relevant representations” has the meaning given in section 172J(8).
+
+(8) In Schedule 1 to the Magistrates' Courts Fees Order 2008 (S.I. 2008/1052), the entry for fee 2.3 has effect as if after “8A(2)(b),” there were inserted “ 8C(2)(a), 8D(2)(a), ”.
+
+(9) The Overview and Scrutiny (Reference by Councillors) (Excluded Matters) (England) Order 2012 (S.I. 2012/1022) has effect as if in article 2 (interpretation), in paragraph (a)(ii) of the definition of “licensing decision”, after “decision” there were inserted “ (including an application under section 172G(1) of that Act) ”.
+
+(10) In the NHS Bodies and Local Authorities (Partnership Arrangements, Care Trusts, Public Health and Local Healthwatch) Regulations 2012 (S.I. 2012/3094), regulation 14 (responsibilities of directors of public health) has effect as if in paragraph (b)(iv) the reference to section 53C of the Licensing Act 2003 includes a reference to section 172I of that Act (representations by a responsible authority in relation to off-sales reviews of premises licences).
+
+(11) The Secretary of State may by regulations make transitional, transitory or saving provision in connection with the end of the relevant period referred to in section 172F(10)(d) of the Licensing Act 2003, as that Act has effect by virtue of subsection (2) of this section.
+
+(12) The Secretary of State may by regulations amend section 172K(3) of the Licensing Act 2003 (modifications of Licensing Act 2003 (Premises licences and club premises certificates) Regulations 2005 as applied by section 172K(1)), as that Act has effect by virtue of subsection (2) of this section.
+
+(13) Subsections (1) to (10) expire at the end of [[^F19]31 March 2025].
+
+(14) If the Secretary of State considers it reasonable to do so to mitigate an effect of coronavirus, the Secretary of State may by regulations substitute the date for the time being specified in any of the following provisions with a later date—
+
+(a) section 172F(10)(d)(i) of the Licensing Act 2003, as that Act has effect by virtue of subsection (2) of this section;
+
+(b) subsection (13) of this section.
+
+(15) In subsection (14) “coronavirus” means severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2).
+
+(16) The Secretary of State may by regulations make provision for an enactment to have effect with modifications in consequence of any provision of subsections (1) to (10).
+
+(17) Without prejudice to section 14 of the Interpretation Act 1978 (implied power to amend), regulations under subsection (16) may, in consequence of—
+
+(a) the expiry of a provision of subsections (1) to (10) under subsection (13), or
+
+(b) the exercise of a power under subsection (14),
+
+amend or revoke any regulations made by the Secretary of State under subsection (16).
+
+(18) In subsection (16) “enactment” includes an enactment comprised in subordinate legislation (within the meaning of the Interpretation Act 1978).
+
+## PART 2 — Other measures relating to business
+
+### Bounce Back Loan Scheme
+
+#### 12 Removal of powers of court in relation to unfair relationships
+
+In section 140A of the Consumer Credit Act 1974 (unfair relationships between creditors and debtors), after subsection (5) insert—
+
+> (6) An order under section 140B shall not be made in connection with a credit agreement entered into under the Bounce Back Loan Scheme.
+>
+> (7) In subsection (6) “the Bounce Back Loan Scheme” means the scheme of that name operated from 4 May 2020 by the British Business Bank plc on behalf of the Secretary of State.
+
+### Goods, passenger and public service vehicles
+
+#### 13 Certificates of temporary exemption for public service and goods vehicles
+
+(1) The Road Traffic Act 1988 is amended as follows.
+
+(2) For section 48(4) (supplementary provisions about test certificates: certificates of temporary exemption) substitute—
+
+> (4) The Secretary of State may by regulations make provision for and in connection with—
+>
+> (a) the issue of a certificate of temporary exemption in respect of a public service vehicle adapted to carry more than eight passengers, exempting that vehicle from the provisions of section 47(1) of this Act for such period as may be specified in the certificate;
+>
+> (b) the revocation of such a certificate.
+>
+> (4A) The power under subsection (4) includes power to—
+>
+> (a) make provision for a certificate of temporary exemption to be issued subject to conditions;
+>
+> (b) make different provision for different circumstances or cases;
+>
+> (c) confer functions on a person (including functions involving the exercise of a discretion).
+
+(3) For section 53(5)(b) (obligatory goods vehicle test certificates: certificates of temporary exemption) substitute—
+
+> (b) make provision for and in connection with—
+>
+> (i) the issue in respect of a vehicle of a certificate of temporary exemption exempting that vehicle from the provisions of subsection (1) or (2) above for such period as may be specified in the certificate;
+>
+> (ii) the revocation of such a certificate.
+
+(4) After section 53(5) insert—
+
+> (5A) The power under subsection (5)(b) includes power to—
+>
+> (a) make provision for a certificate of temporary exemption to be issued subject to conditions;
+>
+> (b) make different provision for different circumstances or cases;
+>
+> (c) confer functions on a person (including functions involving the exercise of a discretion).
+
+#### 14 Temporary reduction in duration of certain driving licences
+
+(1) In relation to a licence that—
+
+(a) falls within subsection (2), and
+
+(b) is granted in the period beginning with 17 April 2020 and ending with 24 March 2022,
+
+section 99(1A)(a)(ii) of the Road Traffic Act 1988 (duration of driving licences) has effect as if the reference to the period for which the licence is to remain in force were a reference to one year.
+
+(2) A licence falls within this subsection if it is a licence to drive a class of goods vehicle or passenger-carrying vehicle that is—
+
+(a) the first licence to drive that class of vehicle granted after 16 April 2020 to the applicant, and
+
+(b) granted without the Secretary of State requiring the applicant to submit a report signed by a qualified medical practitioner in support of the application.
+
+(3) But a licence does not fall within subsection (2) if in the 12 month period ending with the date the application is made for the licence—
+
+(a) the applicant was granted a licence to drive a motor vehicle under Part 3 of the Road Traffic Act 1988, and
+
+(b) a report signed by a qualified medical practitioner was submitted in support of the application for the licence mentioned in paragraph (a).
+
+#### 15 Temporary reduction in duration of certain driving licences: Northern Ireland
+
+(1) In relation to a licence that—
+
+(a) falls within subsection (2), and
+
+(b) is granted in the period beginning with 1 August 2020 and ending with 24 March 2022,
+
+Article 15(2)(a) of the 1981 Order (duration of driving licence in certain cases where applicant will not be over 65 when licence commences) has effect as if the reference to the period for which the licence is to remain in force were a reference to one year.
+
+(2) A licence falls within this subsection if—
+
+(a) it is a licence to drive a class of goods vehicle or passenger-carrying vehicle,
+
+(b) it is the first licence to drive that class of vehicle granted after 31 July 2020 to the applicant,
+
+(c) it is granted without the Department for Infrastructure in Northern Ireland requiring the applicant to submit a report signed by a qualified medical practitioner in support of the application, and
+
+(d) the applicant's age exceeds 45 years on the date on which the licence comes into force.
+
+(3) But a licence does not fall within subsection (2) if in the 12 month period ending with the date the application is made for the licence—
+
+(a) the applicant was granted a licence to drive a motor vehicle under Part 2 of the 1981 Order, and
+
+(b) a report signed by a qualified medical practitioner was submitted in support of the application for the licence mentioned in paragraph (a).
+
+(4) In this section “the 1981 Order” means the Road Traffic (Northern Ireland) Order 1981 (S.I. 1981/154 (N.I. 1)).
+
+## PART 3 — Planning
+
+### Construction working hours
+
+#### 16 Modification of conditions relating to construction working hours
+
+(1) The Town and Country Planning Act 1990 has effect as if it were subject to the modifications in subsections (2) to (4).
+
+(2) The Act has effect as if after section 74A there were inserted—
+
+> **74B Conditions relating to construction working hours**
+>
+> (1) This section applies where—
+>
+> (a) planning permission has been granted for the development of land in England, other than for the relevant development of a dwellinghouse, and
+>
+> (b) a condition has been imposed on the grant of that permission which specifies the times during which construction activities may be carried out.
+>
+> (2) This section also applies where—
+>
+> (a) planning permission has been granted for the development of land in England, other than for the relevant development of a dwellinghouse,
+>
+> (b) a condition has been imposed on the grant of that permission which requires the approval by a local planning authority of a document relating to the carrying out of the development,
+>
+> (c) the authority has approved a document of that kind, and
+>
+> (d) the document as approved (the “approved document”) specifies the times during which construction activities may be carried out.
+>
+> (3) A person with an interest in the land, or a person acting on behalf of such a person, may make an application to a local planning authority in whose area the land is situated for the condition or approved document to be modified in either or both of the ways specified in subsection (4).
+>
+> (4) Those ways are—
+>
+> (a) to allow construction activities to be carried out for a longer period on a particular day (which may be the whole of that day);
+>
+> (b) to allow construction activities to be carried out for the whole or part of a day on which they would not otherwise be allowed to be carried out.
+>
+> (5) The application must—
+>
+> (a) be made in writing and sent to the local planning authority using electronic communications in such manner as the authority may specify,
+>
+> (b) give sufficient information to enable the authority to identify the planning permission in respect of which it is made, and
+>
+> (c) give sufficient information to enable the authority to identify the condition or approved document in respect of which it is made.
+>
+> (6) The application must specify—
+>
+> (a) the date on which the application is sent,
+>
+> (b) the proposed modifications to the condition or approved document,
+>
+> (c) the date from which it is proposed the modifications should take effect,
+>
+> (d) the date at the end of which it is proposed the modifications should cease to have effect, and
+>
+> (e) the times which are specified in the condition or approved document as it has effect when the application is made as times during which construction activities may be carried out.
+>
+> (7) The date specified under subsection (6)(c) must not be earlier than the end of the period of 14 days beginning with the day after that on which the application is sent to the local planning authority.
+>
+> (8) The date specified under subsection (6)(d) must not be later than 1 April 2021.
+>
+> (9) In this section “relevant development of a dwellinghouse” means development—
+>
+> (a) of an existing dwellinghouse, or within the curtilage of an existing dwellinghouse for any purpose incidental to the enjoyment of the dwellinghouse, and
+>
+> (b) which does not involve a change of use of the dwellinghouse or a change in the number of dwellings in a building.
+>
+> (10) For the purposes of subsection (9)—
+>
+> - “dwellinghouse” does not include a building containing one or more flats or a flat contained within such a building;
+> - “flat” means a separate and self-contained set of premises constructed or adapted for use for the purpose of a dwelling and forming part of a building from some other part of which it is divided horizontally.
+>
+> **74C Effect of application under section 74B**
+>
+> (1) If a person makes an application in accordance with section 74B to a local planning authority, the authority may by notice in writing to the person—
+>
+> (a) modify the condition or approved document in accordance with the application,
+>
+> (b) refuse to modify the condition or approved document, or
+>
+> (c) make a determination about any of the matters specified in subsection (2).
+>
+> (2) Those matters are—
+>
+> (a) the modifications to be made to the condition or approved document, so far as it relates to the times during which construction activities are permitted to be carried out,
+>
+> (b) the date from which the modifications to the condition or approved document are to take effect, and
+>
+> (c) the date at the end of which the modifications to the condition or approved document are to cease to have effect.
+>
+> (3) The local planning authority may make a determination under subsection (1)(c) only if the person who made the application has agreed in writing to the terms of the determination.
+>
+> (4) A modification under subsection (2)(a) must not prohibit construction activities from being carried out at any time when they are permitted to be carried out under the condition or approved document as it had effect when the application was made.
+>
+> (5) A date determined under subsection (2)(c) must not be later than 1 April 2021.
+>
+> (6) Subsection (7) applies if the local planning authority does not give notice under subsection (1) before the end of the period of 14 days beginning with the day after that on which the application in accordance with section 74B was sent to the authority.
+>
+> (7) The condition or approved document to which the application relates is deemed to have been modified in accordance with the application.
+>
+> (8) If the local planning authority makes a determination under subsection (1)(c) about only some of the matters specified in subsection (2), the condition or approved document is deemed to have been modified in accordance with the application in respect of the other matters specified in subsection (2).
+>
+> **74D Sections 74B and 74C: supplementary**
+>
+> (1) In sections 74B and 74C and this section—
+>
+> - “approved document” has the meaning given by section 74B(2)(d);
+> - “condition” includes limitation;
+> - “construction activities”, in relation to the development of land, means activities consisting of or relating to the carrying out of the development;
+> - “development” does not include mining operations in, on, over or under land.
+>
+> (2) References in sections 74B and 74C to construction activities include references to construction activities of a particular kind.
+>
+> (3) In calculating a period of 14 days for the purposes of section 74B(7) or 74C(6), no account is to be taken of a day which, apart from this subsection, would fall within that period and is—
+>
+> (a) Christmas Day,
+>
+> (b) Good Friday, or
+>
+> (c) a day which under the Banking and Financial Dealings Act 1971 is a bank holiday in England.
+>
+> (4) References in sections 74B and 74C to a condition or approved document include a condition or approved document as previously modified under section 74C.
+>
+> (5) A person who makes an application under section 74B is to be taken to have agreed—
+>
+> (a) to the use of electronic communications for all purposes relating to the application which are capable of being carried out electronically, and
+>
+> (b) that the person's address for the purpose of such communications is the address incorporated into, or otherwise logically associated with, the person's application.
+>
+> (6) In discharging its functions under sections 74B and 74C, a local planning authority must have regard to guidance issued by the Secretary of State.
+
+(3) Section 78(1) (rights of appeal) has effect as if after paragraph (aa) there were inserted—
+
+> (ab) refuse an application under section 74B (variation of condition relating to construction working hours);
+
+.
+
+(4) Schedule 1 (local planning authorities: distribution of functions) has effect as if in paragraph 3(1) (functions which are exercisable by district planning authority, subject to exceptions) after paragraph (a) there were inserted—
+
+> (aza) applications under section 74B;
+
+.
+
+(5) Article 40 (register of applications) of the Town and Country Planning (Development Management Procedure) (England) Order 2015 (S.I. 2015/595) has effect as if after paragraph (4) there were inserted—
+
+> (4ZA) Part 2 of the register must contain, in respect of every application under section 74B of the 1990 Act (conditions relating to construction working hours) relating to the local planning register authority's area—
+>
+> (a) a copy (which may be photographic or in electronic form) of the application,
+>
+> (b) the decision, if any, of the local planning authority in respect of the application, including—
+>
+> (i) any modifications to the condition or approved document (within the meaning of that section) to which the application relates,
+>
+> (ii) the date from which those modifications take effect, and
+>
+> (iii) the date at the end of which they cease to have effect,
+>
+> (c) the date of any such decision,
+>
+> (d) the name of the local planning authority, and
+>
+> (e) the reference number, the date and effect of any decision of the Secretary of State in relation to the application on appeal.
+
+(6) Subsections (1) to (5) expire at the end of 1 April 2021.
+
+(7) If the Secretary of State considers it reasonable to do so to mitigate an effect of coronavirus, the Secretary of State may by regulations substitute the date for the time being specified in any of the following provisions with a later date—
+
+(a) section 74B(8) of the Town and Country Planning Act 1990, as that Act has effect by virtue of subsection (2) of this section;
+
+(b) section 74C(5) of that Act, as it has effect by virtue of subsection (2) of this section;
+
+(c) subsection (6) of this section.
+
+(8) In subsection (7) “coronavirus” means severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2).
+
+### Extension of certain permissions and consents
+
+#### 17 Extension of duration of certain planning permissions
+
+(1) The Town and Country Planning Act 1990 has effect as if it were subject to the modifications in subsections (2) to (4).
+
+(2) The Act has effect as if after section 93 there were inserted—
+
+> **93A Extension of certain planning permissions: automatic extension**
+>
+> (1) This section applies in relation to relevant planning permission granted or deemed to be granted—
+>
+> (a) in relation to the development of land in England, and
+>
+> (b) subject to a condition which has the effect that the development to which the permission relates must be begun not later than a time falling within the period—
+>
+> (i) beginning with the day on which section 17 of the Business and Planning Act 2020 comes into force, and
+>
+> (ii) ending with 31 December 2020.
+>
+> (2) The condition is deemed to provide instead that the development to which the relevant planning permission relates must be begun not later than 1 May 2021.
+>
+> (3) The time by which the development to which the relevant planning permission relates must be begun is not to be extended (whether by section 91(3B) or otherwise) to a later time than that for the time being provided for in subsection (2).
+>
+> (4) The reference in subsection (1) to relevant planning permission being granted, or deemed to be granted, subject to a condition which has the effect mentioned in paragraph (b) of that subsection includes a reference to the permission being subject to a condition which has that effect by virtue of being subsequently modified (whether by section 91(3B) or otherwise).
+>
+> **93B Extension of certain planning permissions: additional environmental approval**
+>
+> (1) This section applies in relation to relevant planning permission granted or deemed to be granted—
+>
+> (a) in relation to the development of land in England, and
+>
+> (b) subject to a condition which has the effect that the development to which the permission relates must be begun not later than a time falling within the period—
+>
+> (i) beginning with 23 March 2020, and
+>
+> (ii) ending with the day before that on which section 17 of the Business and Planning Act 2020 comes into force.
+>
+> (2) If an approval under this section (“an additional environmental approval”) is granted, or deemed to be granted, in relation to the relevant planning permission—
+>
+> (a) the condition is deemed to provide instead that the development to which the permission relates must be begun not later than 1 May 2021, and
+>
+> (b) the time by which the development must be begun is not to be extended (whether by section 91(3B) or otherwise) to a later time than that for the time being provided for in paragraph (a).
+>
+> (3) A person with an interest in the land or a person acting on behalf of such a person (“the applicant”) may make an application to a local planning authority in whose area the land is situated for an additional environmental approval in relation to the relevant planning permission.
+>
+> (4) The application must—
+>
+> (a) be made in writing and sent to the local planning authority using electronic communications in such manner as the authority may specify,
+>
+> (b) specify the date on which the application is sent,
+>
+> (c) give sufficient information to enable the authority to identify the relevant planning permission in respect of which it is made,
+>
+> (d) give sufficient information to enable the authority to identify the condition which would be affected by subsection (2)(a) if the additional environmental approval is granted, and
+>
+> (e) give sufficient information to enable the authority to determine whether the additional environmental approval should be granted.
+>
+> (5) The local planning authority must, by notice in writing to the applicant, grant, or refuse to grant, the additional environmental approval in relation to the relevant planning permission before the end of the period of 28 days beginning with the day after that on which the application in accordance with subsection (4) was sent.
+>
+> (6) If the local planning authority fails to do so, the additional environmental approval is deemed to be granted in relation to the relevant planning permission.
+>
+> (7) The applicant and the local planning authority may agree in writing one or more extensions to the period mentioned in subsection (5), but the period may not be extended by a total of more than 21 days.
+>
+> (8) The local planning authority is to grant the additional environmental approval in relation to the relevant planning permission if and only if—
+>
+> (a) the EIA requirement is met, and
+>
+> (b) the habitats requirement is met.
+>
+> (9) The EIA requirement is met if, at the time the local planning authority is deciding the application—
+>
+> (a) no development to which the relevant planning permission relates is EIA development (within the meaning of the Town and Country Planning (Environmental Impact Assessment) Regulations 2017 (S.I. 2017/571)), or
+>
+> (b) if any is—
+>
+> (i) a reasoned conclusion was reached and integrated, as mentioned in paragraph (1) of regulation 26 of those regulations, in relation to the permission, and
+>
+> (ii) in relation to that reasoned conclusion the authority is satisfied as mentioned in paragraph (2) of that regulation.
+>
+> (10) The habitats requirement is met where, if a decision were being taken as to whether to grant the relevant planning permission at the time the local planning authority is deciding the application—
+>
+> (a) regulation 63(1) of the Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012) would not require an assessment to be carried out first of the implications of the development to which the permission relates for a European site or a European offshore marine site, or
+>
+> (b) regulation 63(1) of those regulations would require an assessment of the kind mentioned in paragraph (a) to be carried out first, but—
+>
+> (i) an assessment of that kind was carried out before the permission was granted or deemed to be granted,
+>
+> (ii) in accordance with regulation 63(5) and (6) of those regulations, it was ascertained, in light of the assessment, that the development to which the permission relates would not adversely affect the integrity of the European site or (as the case may be) the European offshore marine site, and
+>
+> (iii) the authority is satisfied that the assessment remains up to date.
+>
+> (11) An additional environmental approval may not be granted subject to any condition.
+>
+> (12) No additional environmental approval is to be granted or deemed to be granted after 31 December 2020, unless it is granted on an appeal in respect of which the notice under section 78(3) is served on or before that date.
+>
+> (13) A person who makes an application under this section is to be taken to have agreed—
+>
+> (a) to the use of electronic communications for all purposes relating to the application which are capable of being carried out electronically, and
+>
+> (b) that the person's address for the purpose of such communications is the address incorporated into, or otherwise logically associated with, the person's application.
+>
+> (14) In discharging its functions under this section, a local planning authority must have regard to any guidance issued by the Secretary of State.
+>
+> (15) The reference in subsection (1) to relevant planning permission being granted, or deemed to be granted, subject to a condition which has the effect mentioned in paragraph (b) of that subsection includes a reference to the permission being subject to a condition which has that effect by virtue of being subsequently modified (whether under section 91(3B) or otherwise).
+>
+> (16) In this section “European site” and “European offshore marine site” have the same meaning as in the Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012).
+>
+> **93C Interpretation of sections 93A and 93B**
+>
+> In sections 93A and 93B “relevant planning permission” means any planning permission other than that which is—
+>
+> (a) granted by a development order, a local development order, a Mayoral development order or a neighbourhood development order,
+>
+> (b) granted by an enterprise zone scheme,
+>
+> (c) granted by a simplified planning zone scheme,
+>
+> (d) deemed to be granted under section 90 (development with government authorisation), or
+>
+> (e) outline planning permission (within the meaning given by section 92(1)).
+
+(3) Section 78(1) (rights of appeal) has effect as if before paragraph (b) there were inserted—
+
+> (ac) refuse an application under section 93B (extension of certain planning permissions in England: additional environmental approval);
+
+.
+
+(4) Schedule 1 (local planning authorities: distribution of functions) has effect as if in paragraph 3(1) (functions which are exercisable by district planning authority, subject to exceptions) before paragraph (aa) there were inserted—
+
+> (azb) applications for additional environmental approvals under section 93B;
+
+.
+
+(5) Article 40 (register of applications) of the Town and Country Planning (Development Management Procedure) (England) Order 2015 (S.I. 2015/595) has effect as if before paragraph (4A) there were inserted—
+
+> (4ZB) Part 2 of the register must contain, in respect of every application under section 93B of the 1990 Act (extension of certain planning permissions: additional environmental approval) relating to the local planning register authority's area—
+>
+> (a) a copy (which may be photographic or in electronic form) of the application,
+>
+> (b) the decision, if any, of the local planning authority in respect of the application,
+>
+> (c) the date of any such decision,
+>
+> (d) the name of the local planning authority, and
+>
+> (e) the reference number, the date and effect of any decision of the Secretary of State in relation to the application on appeal.
+
+(6) Subsections (1) to (5) expire at the end of 1 May 2021.
+
+(7) If the Secretary of State considers it reasonable to do so to mitigate an effect of coronavirus, the Secretary of State may by regulations substitute the date for the time being specified in any of the following provisions with a later date—
+
+(a) section 93A(1)(b)(ii) and (2) of the Town and Country Planning Act 1990, as that Act has effect by virtue of subsection (2) of this section;
+
+(b) section 93B(2)(a) and (12) of that Act, as it has effect by virtue of subsection (2) of this section;
+
+(c) subsection (6) of this section.
+
+(8) In subsection (7) “coronavirus” means severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2).
+
+(9) Where regulations under subsection (7) substitute the date for the time being specified in section 93A(2) or 93B(2)(a) with a later date, the Secretary of State may by regulations make provision requiring an approval to be granted, or deemed to be granted, in relation to a relevant planning permission for the later date to apply in relation to that permission.
+
+(10) Regulations under subsection (9) may make provision—
+
+(a) for an approval to be required only in circumstances prescribed in the regulations or in all circumstances;
+
+(b) in relation to who may apply for an approval;
+
+(c) in relation to who may grant an approval;
+
+(d) in relation to the procedure for applying for an approval or dealing with such an application;
+
+(e) in relation to the contents of an application for an approval or any evidence or information which must be supplied in support of it,
+
+(f) in relation to appeals;
+
+(g) in relation to the circumstances in which an approval must, may or may not be granted;
+
+(h) in relation to the circumstances in which an approval is to be deemed to be granted;
+
+(i) applying or corresponding to any of the provision in this section for, or in connection with, additional environmental approvals under section 93B of the Town and Country Planning Act 1990, as that Act has effect by virtue of subsection (2) of this section, with or without modifications.
+
+#### 18 Extensions in connection with outline planning permission
+
+(1) The Town and Country Planning Act 1990 has effect as if it were subject to the modifications in subsections (2) to (4).
+
+(2) The Act has effect as if before section 94 there were inserted—
+
+> **93D Outline planning permission: automatic extension of time limits for application for approval**
+>
+> (1) This section applies in relation to outline planning permission granted or deemed to be granted—
+>
+> (a) in relation to the development of land in England, and
+>
+> (b) subject to a condition which has the effect that application for approval of a reserved matter must be made not later than a time falling within the period—
+>
+> (i) beginning with 23 March 2020, and
+>
+> (ii) ending with 31 December 2020.
+>
+> (2) The condition is deemed to provide instead that application for approval of that reserved matter must be made not later than 1 May 2021.
+>
+> (3) The time by which that application for approval must be made is not to be extended to a later time than that for the time being provided for in subsection (2).
+>
+> (4) The reference in subsection (1) to outline planning permission granted, or deemed to be granted, subject to a condition which has the effect mentioned in paragraph (b) of that subsection includes a reference to the permission being subject to a condition which has that effect by virtue of being subsequently modified.
+>
+> (5) In this section “outline planning permission” and “reserved matter” have the meanings given by section 92(1).
+>
+> **93E Outline planning permission: automatic extension of certain time limits for beginning development**
+>
+> (1) This section applies in relation to outline planning permission granted or deemed to be granted—
+>
+> (a) in relation to the development of land in England, and
+>
+> (b) subject to a condition which has the effect that all or a part of the development to which the permission relates must be begun not later than a time falling within the period—
+>
+> (i) beginning with the day on which section 18 of the Business and Planning Act 2020 comes into force, and
+>
+> (ii) ending with 31 December 2020.
+>
+> (2) The condition is deemed to provide instead that the development or (as the case may be) the part of the development must be begun not later than 1 May 2021.
+>
+> (3) The time by which the development or (as the case may be) the part of the development must be begun is not to be extended to a later time than that for the time being provided for in subsection (2).
+>
+> (4) The reference in subsection (1) to outline planning permission granted, or deemed to be granted, subject to a condition which has the effect mentioned in paragraph (b) of that subsection includes a reference to the permission being subject to a condition which has that effect by virtue of being subsequently modified.
+>
+> (5) In this section “outline planning permission” has the meaning given by section 92(1).
+>
+> **93F Outline planning permission: extension of limits for beginning development with additional environmental approval**
+>
+> (1) This section applies in relation to outline planning permission granted or deemed to be granted—
+>
+> (a) in relation to the development of land in England, and
+>
+> (b) subject to a condition which has the effect that all or a part of the development to which the permission relates must be begun not later than a time falling within the period—
+>
+> (i) beginning with 23 March 2020, and
+>
+> (ii) ending with the day before that on which section 18 of the Business and Planning Act 2020 comes into force.
+>
+> (2) If an approval under this section (“an additional environmental approval”) is granted, or deemed to be granted, in relation to the outline planning permission—
+>
+> (a) the condition is deemed to provide instead that the development or (as the case may be) the part of the development must be begun not later than 1 May 2021, and
+>
+> (b) the time by which the development or (as the case may be) the part of the development must be begun is not to be extended to a later time than that for the time being provided for in paragraph (a).
+>
+> (3) A person with an interest in the land or a person acting on behalf of such a person (“the applicant”) may make an application to a local planning authority in whose area the land is situated for an additional environmental approval in relation to the outline planning permission.
+>
+> (4) The application must—
+>
+> (a) be made in writing and sent to the local planning authority using electronic communications in such manner as the authority may specify,
+>
+> (b) specify the date on which the application is sent,
+>
+> (c) give sufficient information to enable the authority to identify the outline planning permission in respect of which it is made,
+>
+> (d) give sufficient information to enable the authority to identify the condition which would be affected by subsection (2)(a) if the additional environmental approval is granted, and
+>
+> (e) give sufficient information to enable the authority to determine whether the additional environmental approval should be granted.
+>
+> (5) The local planning authority must, by notice in writing to the applicant, grant, or refuse to grant, the additional environmental approval in relation to the outline planning permission before the end of the period of 28 days beginning with the day after that on which the application in accordance with subsection (4) was sent.
+>
+> (6) If the local planning authority fails to do so, the additional environmental approval is deemed to be granted in relation to the outline planning permission.
+>
+> (7) The applicant and the local planning authority may agree in writing one or more extensions to the period mentioned in subsection (5), but the period may not be extended by a total of more than 21 days.
+>
+> (8) The local planning authority is to grant the additional environmental approval in relation to the outline planning permission if and only if—
+>
+> (a) the EIA requirement is met, and
+>
+> (b) the habitats requirement is met.
+>
+> (9) The EIA requirement is met if, at the time the local planning authority is deciding the application—
+>
+> (a) no development to which the outline planning permission relates is EIA development (within the meaning of the Town and Country Planning (Environmental Impact Assessment) Regulations 2017 (S.I. 2017/571)), or
+>
+> (b) if any is—
+>
+> (i) a reasoned conclusion was reached and integrated, as mentioned in paragraph (1) of regulation 26 of those regulations, in relation to the permission, and
+>
+> (ii) in relation to that reasoned conclusion the authority is satisfied as mentioned in paragraph (2) of that regulation.
+>
+> (10) The habitats requirement is met where, if a decision were being taken as to whether to grant the outline planning permission at the time the local planning authority is deciding the application—
+>
+> (a) regulation 63(1) of the Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012) would not require an assessment to be carried out first of the implications of the development to which the permission relates for a European site or a European offshore marine site, or
+>
+> (b) regulation 63(1) of those regulations would require an assessment of the kind mentioned in paragraph (a) to be carried out first, but—
+>
+> (i) an assessment of that kind was carried out before the permission was granted or deemed to be granted,
+>
+> (ii) in accordance with regulation 63(5) and (6) of those regulations, it was ascertained, in light of the assessment, that the development to which the permission relates would not adversely affect the integrity of the European site or (as the case may be) the European offshore marine site, and
+>
+> (iii) the authority is satisfied that the assessment remains up to date.
+>
+> (11) An additional environmental approval may not be granted subject to any condition.
+>
+> (12) No additional environmental approval is to be granted or deemed to be granted after 31 December 2020, unless it is granted on an appeal in respect of which the notice under section 78(3) is served on or before that date.
+>
+> (13) A person who makes an application under this section is to be taken to have agreed—
+>
+> (a) to the use of electronic communications for all purposes relating to the application which are capable of being carried out electronically, and
+>
+> (b) that the person's address for the purpose of such communications is the address incorporated into, or otherwise logically associated with, the person's application.
+>
+> (14) In discharging its functions under this section, a local planning authority must have regard to any guidance issued by the Secretary of State.
+>
+> (15) The reference in subsection (1) to outline planning permission being granted, or deemed to be granted, subject to a condition which has the effect mentioned in paragraph (b) of that subsection includes a reference to the permission being subject to a condition which has that effect by virtue of being subsequently modified.
+>
+> (16) In this section—
+>
+> - “European site” and “European offshore marine site” have the same meaning as in the Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012);
+> - “outline planning permission” has the meaning given by section 92(1).
+
+(3) Section 78(1) (rights of appeal) has effect as if before paragraph (b) there were inserted—
+
+> (ad) refuse an application under section 93F (outline planning permission: extension of limits for beginning development with additional environmental approval);
+
+.
+
+(4) Schedule 1 (local planning authorities: distribution of functions) has effect as if in paragraph 3(1) (functions which are exercisable by district planning authority, subject to exceptions), before paragraph (aa) there were inserted—
+
+> (azc) applications for additional environmental approvals under section 93F;
+
+.
+
+(5) Article 40 (register of applications) of the Town and Country Planning (Development Management Procedure) (England) Order 2015 (S.I. 2015/595) has effect as if before paragraph (4A) there were inserted—
+
+> (4ZC) Part 2 of the register must contain, in respect of every application under section 93F of the 1990 Act (outline planning permission: extension of limits for beginning development with additional environmental approval) relating to the local planning register authority's area—
+>
+> (a) a copy (which may be photographic or in electronic form) of the application,
+>
+> (b) the decision, if any, of the local planning authority in respect of the application,
+>
+> (c) the date of any such decision,
+>
+> (d) the name of the local planning authority, and
+>
+> (e) the reference number, the date and effect of any decision of the Secretary of State in relation to the application on appeal.
+
+(6) Subsections (1) to (5) expire at the end of 1 May 2021.
+
+(7) If the Secretary of State considers it reasonable to do so to mitigate an effect of coronavirus, the Secretary of State may by regulations substitute the date for the time being specified in any of the following provisions with a later date—
+
+(a) section 93D(1)(b)(ii) and (2) of the Town and Country Planning Act 1990, as that Act has effect by virtue of subsection (2) of this section;
+
+(b) section 93E(1)(b)(ii) and (2) of that Act, as it has effect by virtue of subsection (2) of this section;
+
+(c) section 93F(2)(a) and (12) of that Act, as it has effect by virtue of subsection (2) of this section;
+
+(d) subsection (6) of this section.
+
+(8) In subsection (7) “coronavirus” means severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2).
+
+(9) Where regulations under subsection (7) substitute the date for the time being specified in section 93D(2), 93E(2) or 93F(2)(a) with a later date, the Secretary of State may by regulations make provision requiring an approval to be granted, or deemed to be granted, in relation to an outline planning permission for the later date to apply in relation to that permission.
+
+(10) Regulations under subsection (9) may make provision—
+
+(a) for an approval to be required only in circumstances prescribed in the regulations or in all circumstances;
+
+(b) in relation to who may apply for an approval;
+
+(c) in relation to who may grant an approval;
+
+(d) in relation to the procedure for applying for an approval or dealing with such an application;
+
+(e) in relation to the contents of an application for an approval or any evidence or information which must be supplied in support of it;
+
+(f) in relation to appeals;
+
+(g) in relation to the circumstances in which an approval must, may or may not be granted;
+
+(h) in relation to the circumstances in which an approval is to be deemed to be granted;
+
+(i) applying or corresponding to any of the provision in this section for, or in connection with, additional environmental approvals under section 93F of the Town and Country Planning Act 1990, as that Act has effect by virtue of subsection (2) of this section, with or without modifications.
+
+#### 19 Extension of duration of certain listed building consent
+
+(1) The Planning (Listed Buildings and Conservation Areas) Act 1990 has effect as if after section 18 there were inserted—
+
+> **18A Extension of duration of certain listed building consent**
+>
+> (1) This section applies in relation to listed building consent granted or deemed to be granted—
+>
+> (a) in relation to a building in England, and
+>
+> (b) subject to a condition which has the effect that the works to which the consent relates must be begun not later than a time falling within the period—
+>
+> (i) beginning with 23 March 2020, and
+>
+> (ii) ending with 31 December 2020.
+>
+> (2) The condition is deemed to provide instead that the works to which the consent relates must be begun not later than 1 May 2021.
+>
+> (3) The time by which the works must be begun is not to be extended (whether by section 18(2B) or otherwise) to a later time than that for the time being provided for in subsection (2).
+>
+> (4) The reference in subsection (1) to listed building consent being granted, or deemed to be granted, subject to a condition which has the effect mentioned in paragraph (b) of that subsection includes a reference to the consent being subject to a condition which has that effect by virtue of being subsequently modified (whether under section 18(2B) or otherwise).
+
+(2) Subsection (1) expires at the end of 1 May 2021.
+
+(3) If the Secretary of State considers it reasonable to do so to mitigate an effect of coronavirus, the Secretary of State may by regulations substitute the date for the time being specified in any of the following provisions with a later date—
+
+(a) section 18A(1)(b)(ii) and (2) of the Planning (Listed Buildings and Conservation Areas) Act 1990, as that Act has effect by virtue of subsection (1) of this section;
+
+(b) subsection (2) of this section.
+
+(4) In subsection (3) “coronavirus” means severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2).
+
+### Procedure for certain planning proceedings
+
+#### 20 Procedure for certain planning proceedings
+
+(1) In section 319A(2) of the Town and Country Planning Act 1990 (determination of procedure for certain proceedings under that Act: England)—
+
+(a) for “whichever of the following ways appears” substitute “ such one or more of the following ways as appear ”, and
+
+(b) omit “most”.
+
+(2) In section 88D(2) of the Planning (Listed Buildings and Conservation Areas) Act 1990 (determination of procedure for certain proceedings under that Act: England)—
+
+(a) for “whichever of the following ways appears” substitute “ such one or more of the following ways as appear ”, and
+
+(b) omit “most”.
+
+(3) In section 21A(2) of the Planning (Hazardous Substances) Act 1990 (determination of procedure for certain proceedings under that Act: England)—
+
+(a) for “whichever of the following ways appears” substitute “ such one or more of the following ways as appear ”, and
+
+(b) omit “most”.
+
+### Electronic inspection of spatial development strategy
+
+#### 21 Mayor of London's spatial development strategy: electronic inspection
+
+(1) The Greater London Authority Act 1999 has effect as if, in section 43 (publicity and availability of strategies), after subsection (4) there were inserted—
+
+> (4A) But if a copy of the current version of the spatial development strategy is available for inspection free of charge by appropriate electronic means, subsections (3) and (4) do not apply in relation to the current version of that strategy.
+>
+> (4B) For the purposes of subsection (4A), a copy of the current version of the spatial development strategy is available for inspection “by appropriate electronic means” if arrangements have been made such that it is available for inspection by electronic means in a reasonably convenient way.
+>
+> (4C) Before making any arrangements for the purposes of subsection (4B), the Mayor must have regard to any guidance issued by the Secretary of State as to—
+>
+> (a) how a copy of the current version of the spatial development strategy should be made available by electronic means;
+>
+> (b) the arrangements (if any) that may be appropriate to mitigate the effects on a person of not being able to inspect a copy of the strategy, or finding it difficult to do so, by electronic means.
+
+(2) Subsection (1) expires at the end of [[^F20]31 December 2021].
+
+(3) If the Secretary of State considers it reasonable to do so to mitigate an effect of coronavirus, the Secretary of State may by regulations substitute the date for the time being specified in subsection (2) with a later date.
+
+(4) In subsection (3) “coronavirus” means severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2).
+
+### Local authority meetings
+
+#### 22 Power to make provision relating to local authority meetings
+
+In section 78(7) of the Coronavirus Act 2020 (meaning of local authority: England), after paragraph (r) insert—
+
+> (s) a Mayoral development corporation established under section 198 of the Localism Act 2011;
+>
+> (t) an urban development corporation established under section 135 of the Local Government, Planning and Land Act 1980;
+>
+> (u) a parish meeting constituted under section 13 of the Local Government Act 1972;
+>
+> (v) Transport for London.
+
+## PART 4 — General
+
+### 23 Regulations
+
+(1) Regulations under this Act are to be made by statutory instrument.
+
+(2) Regulations under this Act may make—
+
+(a) different provision for different purposes;
+
+(b) different provision for different areas;
+
+(c) supplementary, incidental, consequential, transitional, transitory or saving provision.
+
+(3) A statutory instrument containing regulations under section [[^F21]2(1B) or] 5(8) is subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(4) A statutory instrument containing regulations under any of sections [^F22]10, 11(12) or (14), 16 to 19 or 21 must be laid before Parliament as soon as reasonably practicable after being made.
+
+(5) A statutory instrument containing regulations made under section 11(16)—
+
+(a) if the regulations only provide for subordinate legislation (within the meaning of the Interpretation Act 1978) to have effect with modifications or to be amended or revoked, is subject to annulment in pursuance of a resolution of either House of Parliament;
+
+(b) otherwise, must be laid before Parliament as soon as reasonably practicable after being made.
+
+(6) Subsections (4) and (5)(b) do not apply if a draft of the instrument has been laid before, and approved by a resolution of, each House of Parliament.
+
+(7) Regulations contained in an instrument laid before Parliament by virtue of subsection (4) or (5)(b) cease to have effect at the end of the period of 40 days beginning with the day on which the instrument is made unless, during that period, the instrument is approved by a resolution of each House of Parliament.
+
+(8) In calculating the period of 40 days, no account is to be taken of any time during which—
+
+(a) Parliament is dissolved or prorogued, or
+
+(b) both Houses of Parliament are adjourned for more than 4 days.
+
+(9) Where regulations cease to have effect as a result of subsection (7) that does not—
+
+(a) affect anything previously done under or by virtue of the regulations, or
+
+(b) prevent the making of new regulations.
+
+### 24 Extent
+
+(1) Part 1 extends to England and Wales only.
+
+(2) In Part 2—
+
+(a) section 12 extends to England and Wales, Scotland and Northern Ireland,
+
+(b) sections 13 and 14 extend to England and Wales and Scotland only, and
+
+(c) section 15 extends to Northern Ireland only.
+
+(3) In Part 3—
+
+(a) sections 16 to 21 extend to England and Wales only, and
+
+(b) section 22 extends to England and Wales and Northern Ireland.
+
+(4) This Part extends to England and Wales, Scotland and Northern Ireland.
+
+### 25 Commencement
+
+(1) Part 1 comes into force on the day on which this Act is passed.
+
+(2) In Part 2—
+
+(a) section 12 is to be treated as having come into force on 4 May 2020, and
+
+(b) sections 13 to 15 come into force on the day on which this Act is passed.
+
+(3) In Part 3—
+
+(a) section 16 comes into force at the end of the period of 6 days beginning with the day on which this Act is passed,
+
+(b) sections 17 to 19 come into force at the end of the period of 28 days beginning with the day on which this Act is passed, and
+
+(c) sections 20 to 22 come into force on the day on which this Act is passed.
+
+(4) This Part comes into force on the day on which this Act is passed.
+
+### 26 Transitional etc provision in connection with expiry
+
+The Secretary of State may by regulations make transitional, transitory or saving provision in connection with the expiry of any provision of this Act.
+
+### 27 Short title
+
+This Act may be cited as the Business and Planning Act 2020.
+
+---
+
+[^F1]: Words in s. 2(1)(c) substituted (31.3.2024) by Levelling-up and Regeneration Act 2023 (c. 55), s. 255(9)(a), Sch. 22 para. 3(2) (with s. 247, Sch. 22 para. 18); S.I. 2024/389, reg. 2(u) (with reg. 5(1))
+[^F2]: S. 2(1A)(1B) inserted (31.3.2024) by Levelling-up and Regeneration Act 2023 (c. 55), s. 255(9)(a), Sch. 22 para. 3(3) (with s. 247, Sch. 22 para. 18); S.I. 2024/389, reg. 2(u) (with reg. 5(1))
+[^F3]: S. 2(2A) inserted (31.3.2024) by Levelling-up and Regeneration Act 2023 (c. 55), s. 255(9)(a), Sch. 22 para. 5(2) (with s. 247, Sch. 22 para. 18); S.I. 2024/389, reg. 2(u)
+[^F4]: Word in s. 2(4) substituted (31.3.2024) by Levelling-up and Regeneration Act 2023 (c. 55), s. 255(9)(a), Sch. 22 para. 6 (with s. 247, Sch. 22 para. 18); S.I. 2024/389, reg. 2(u) (with reg. 5(1))
+[^F5]: S. 2(10) inserted (31.3.2024) by Levelling-up and Regeneration Act 2023 (c. 55), s. 255(9)(a), Sch. 22 para. 5(3) (with s. 247, Sch. 22 para. 18); S.I. 2024/389, reg. 2(u)
+[^F6]: Word in s. 3(10) substituted (31.3.2024) by Levelling-up and Regeneration Act 2023 (c. 55), s. 255(9)(a), Sch. 22 para. 7 (with s. 247, Sch. 22 para. 18); S.I. 2024/389, reg. 2(u) (with reg. 5(1))
+[^F7]: S. 4(1)(2) substituted (31.3.2024) by Levelling-up and Regeneration Act 2023 (c. 55), s. 255(9)(a), Sch. 22 para. 8(2) (with s. 247, Sch. 22 para. 18); S.I. 2024/389, reg. 2(u)
+[^F8]: Words in s. 4(3) omitted (31.3.2024) by virtue of Levelling-up and Regeneration Act 2023 (c. 55), s. 255(9)(a), Sch. 22 para. 8(3)(a) (with s. 247, Sch. 22 para. 18); S.I. 2024/389, reg. 2(u)
+[^F9]: Words in s. 4(3) substituted (31.3.2024) by Levelling-up and Regeneration Act 2023 (c. 55), s. 255(9)(a), Sch. 22 para. 8(3)(b) (with s. 247, Sch. 22 para. 18); S.I. 2024/389, reg. 2(u)
+[^F10]: S. 4(4) omitted (31.3.2024) by virtue of Levelling-up and Regeneration Act 2023 (c. 55), s. 255(9)(a), Sch. 22 para. 8(4) (with s. 247, Sch. 22 para. 18); S.I. 2024/389, reg. 2(u)
+[^F11]: S. 6(4) inserted (31.3.2024) by Levelling-up and Regeneration Act 2023 (c. 55), s. 255(9)(a), Sch. 22 para. 9 (with s. 247, Sch. 22 para. 18); S.I. 2024/389, reg. 2(u)
+[^F12]: S. 7(4)-(6) omitted (31.3.2024) by virtue of Levelling-up and Regeneration Act 2023 (c. 55), s. 255(9)(a), Sch. 22 para. 10(a) (with s. 247, Sch. 22 para. 18); S.I. 2024/389, reg. 2(u) (with reg. 5(2))
+[^F13]: S. 7(8)-(10) omitted (31.3.2024) by virtue of Levelling-up and Regeneration Act 2023 (c. 55), s. 255(9)(a), Sch. 22 para. 10(b) (with s. 247, Sch. 22 para. 18); S.I. 2024/389, reg. 2(u) (with reg. 5(2))
+[^F14]: S. 7A inserted (31.3.2024) by Levelling-up and Regeneration Act 2023 (c. 55), s. 255(9)(a), Sch. 22 para. 13 (with s. 247, Sch. 22 para. 18); S.I. 2024/389, reg. 2(u)
+[^F15]: S. 8(2) omitted (31.3.2024) by virtue of Levelling-up and Regeneration Act 2023 (c. 55), s. 255(9)(a), Sch. 22 para. 14 (with s. 247, Sch. 22 para. 18); S.I. 2024/389, reg. 2(u)
+[^F16]: S. 9(2)(3) omitted (31.3.2024) by virtue of Levelling-up and Regeneration Act 2023 (c. 55), s. 255(9)(a), Sch. 22 para. 16 (with s. 247, Sch. 22 para. 18); S.I. 2024/389, reg. 2(u)
+[^F17]: S. 10 omitted (31.3.2024) by virtue of Levelling-up and Regeneration Act 2023 (c. 55), s. 255(9)(a), Sch. 22 para. 2(1) (with s. 247, Sch. 22 para. 18); S.I. 2024/389, reg. 2(u)
+[^F18]: Words in s. 11(2) substituted (28.9.2023) by virtue of The Alcohol Licensing (Coronavirus) (Regulatory Easements) (Amendment) Regulations 2023 (S.I. 2023/990), regs. 1(2), 2(2)
+[^F19]: Words in s. 11(13) substituted (28.9.2023) by The Alcohol Licensing (Coronavirus) (Regulatory Easements) (Amendment) Regulations 2023 (S.I. 2023/990), regs. 1(2), 2(1)
+[^F20]: Words in s. 21(2) substituted (15.12.2020) by The Business and Planning Act 2020 (London Spatial Development Strategy) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/1529), regs. 1(2), 2
+[^F21]: Words in s. 23(3) inserted (E.W.) (31.3.2024) by Levelling Up and Regeneration Act 2023 (c. 55), s. 255(9)(a), Sch. 22 para. 4 (with s. 247, Sch. 22 para. 18); S.I. 2024/389, reg. 2(u)
+[^F22]: Word in s. 23(4) omitted (E.W.) (31.3.2024) by virtue of Levelling Up and Regeneration Act 2023 (c. 55), s. 255(9)(a), Sch. 22 para. 2(2) (with s. 247, Sch. 22 para. 18); S.I. 2024/389, reg. 2(u)

@@ -1,0 +1,949 @@
+---
+title: "Overseas Operations (Service Personnel and Veterans) Act 2021"
+identifier: "ukpga/2021/23"
+citation: "2021 c. 23"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S+N.I."
+date: 2021-04-29
+last_amended: 2024-01-31
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/2021/23"
+source_modified: 2025-11-18
+retrieved: 2026-10-11
+---
+
+# Overseas Operations (Service Personnel and Veterans) Act 2021
+
+**2021 c. 23**
+
+An Act to make provision about legal proceedings in connection with operations of the armed forces outside the British Islands.[29th April 2021]
+
+[29th April 2021]
+
+Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## PART 1 — Restrictions on prosecution for certain offences
+
+### Presumption against prosecution
+
+#### 1 Prosecutorial decision regarding alleged conduct during overseas operations
+
+(1) Where a relevant prosecutor makes a decision to which this section applies and the conditions in subsections (3) and (4) are met, the prosecutor must, in making the decision—
+
+(a) apply the principle set out in section 2, and
+
+(b) comply with section 3.
+
+(2) This section applies to a decision of a relevant prosecutor as to—
+
+(a) whether or not proceedings should be brought against a person for a relevant offence, or
+
+(b) whether or not any proceedings against a person for a relevant offence should be continued,
+
+(but does not apply to a prosecutor's decision so far as it relates to whether or not there is sufficient evidence to justify prosecution).
+
+(3) The first condition is that the alleged conduct took place (outside the British Islands) at a time when the person was—
+
+(a) a member of the regular or reserve forces, or a member of a British overseas territory force to whom section 369(2) of the Armed Forces Act 2006 (persons subject to service law) applies, and
+
+(b) deployed on overseas operations.
+
+(4) The second condition is that the period of 5 years beginning with the day on which the alleged conduct took place has expired.
+
+(5) If the offence is alleged to have continued over a period of days, the 5 year period mentioned in subsection (4) is to be taken to begin with the last of those days.
+
+(6) In this Part “overseas operations” means any operations outside the British Islands, including peacekeeping operations and operations for dealing with terrorism, civil unrest or serious public disorder, in the course of which members of Her Majesty's forces come under attack or face the threat of attack or violent resistance.
+
+#### 2 Presumption against prosecution
+
+The principle referred to in section 1(1) is that it is to be exceptional for a relevant prosecutor making a decision to which that section applies to determine that proceedings should be brought against the person for the offence or, as the case may be, that the proceedings against the person for the offence should be continued.
+
+#### 3 Matters to be given particular weight
+
+(1) In making a decision to which section 1 applies, a relevant prosecutor must give particular weight to the matters set out in subsection (2) (so far as they tend to reduce the person's culpability or otherwise tend against prosecution).
+
+(2) Those matters are—
+
+(a) the adverse effect (or likely adverse effect) on the person of the conditions the person was exposed to during deployment on the operations mentioned in section 1(3)(b), including their experiences and responsibilities (for example, being exposed to unexpected or continuous threats, being in command of others who were so exposed, or being deployed alongside others who were killed or severely wounded in action);
+
+(b) in a case where there has been a relevant previous investigation and no compelling new evidence has become available, the public interest in finality (as regards how the person is to be dealt with) being achieved without undue delay.
+
+(3) In considering the matter in subsection (2)(a), the prosecutor must have regard to the exceptional demands and stresses to which members of Her Majesty's forces are likely to be subject while deployed on overseas operations, regardless of their length of service, rank or personal resilience.
+
+(4) In subsection (2)(a) “adverse effect”, in relation to a person, means—
+
+(a) an adverse effect on their capacity to make sound judgements or exercise self control, or
+
+(b) any other adverse effect on their mental health,
+
+and in this subsection “effect” means an effect at the time of the alleged conduct.
+
+#### 4 Section 3: supplementary
+
+(1) For the purposes of section 3(2)(b) and this section “relevant previous investigation” means an investigation into the alleged conduct which—
+
+(a) was carried out by an investigating authority,
+
+(b) has ceased to be active, and
+
+(c) either did not lead to any decision as to whether or not the person should be charged with an offence, or led to a decision that the person should not be charged with any offence.
+
+(2) For the purposes of section 3(2)(b), where there has been at least one relevant previous investigation in relation to the alleged conduct, evidence—
+
+(a) is not “new” if it has been taken into account in the relevant previous investigation (or in any of them);
+
+(b) otherwise, is “new”.
+
+### Consent to prosecution
+
+#### 5 Requirement of consent to prosecute
+
+(1) This section applies where—
+
+(a) the condition in subsection (4) is met in relation to potential proceedings against a person for a relevant offence, and
+
+(b) the period of 5 years beginning with the day on which the alleged conduct took place has expired.
+
+(2) If the offence is a service offence, no proceedings may be instituted against the person for the offence under the Armed Forces Act 2006 except with the consent of the Attorney General.
+
+(3) No proceedings may be instituted against the person for the offence—
+
+(a) where the offence is punishable with a criminal penalty by the law of England and Wales, except with the consent of the Attorney General,
+
+(b) where the offence is punishable with a criminal penalty by the law of Northern Ireland, except with the consent of the Advocate General for Northern Ireland.
+
+(4) The condition mentioned in subsection (1)(a) is that the alleged conduct took place (outside the British Islands) at a time when the person was—
+
+(a) a member of the regular or reserve forces, or a member of a British overseas territory force to whom section 369(2) of the Armed Forces Act 2006 (persons subject to service law) applies, and
+
+(b) deployed on overseas operations.
+
+(5) If the offence is alleged to have continued over a period of days, the 5 year period mentioned in subsection (1)(b) is to be taken to begin with the last of those days.
+
+### General
+
+#### 6 “Relevant offence”
+
+(1) “Relevant offence” means any of the following (but with the exceptions set out in subsections (2) to (5))—
+
+(a) an offence under section 42 of the Armed Forces Act 2006 (criminal conduct) or any provision mentioned in paragraph 1(2)(a) to (c) of Schedule 1 (provisions superseded by that section), and
+
+(b) an offence punishable with a criminal penalty by the law of any part of the United Kingdom.
+
+(2) An offence is not a “relevant offence” if it is committed against an individual who at the time when the offence is committed is—
+
+(a) a member of the regular or reserve forces,
+
+(b) a member of a British overseas territory force,
+
+(c) a Crown servant, or
+
+(d) a defence contractor.
+
+(3) A service offence is not a “relevant offence” if it is an excluded offence by virtue of Part 1 of Schedule 1.
+
+(4) An offence punishable with a criminal penalty by the law of England and Wales, or of Northern Ireland, is not a “relevant offence” if it is an excluded offence in that part of the United Kingdom by virtue of Part 2 or 5 of Schedule 1.
+
+(5) An offence punishable with a criminal penalty by the law of Scotland is not a “relevant offence” if it is an excluded offence in Scotland by virtue of Part 3 or 5 of Schedule 1.
+
+(6) An offence is not a “relevant offence” if it is an excluded offence by virtue of Part 4 of Schedule 1.
+
+#### 7 General interpretation etc
+
+(1) Where—
+
+(a) the offence mentioned in section 1(2) or 5(1)(a) is murder or any other offence one of the elements of which is causing a person's death, and
+
+(b) the death occurred after the day on which the person sustained the injury that caused it,
+
+the day (or time) of the alleged conduct is not to be taken to be different from what it would have been if the death had occurred when the injury was sustained.
+
+(2) In this Part references to the British Islands include the territorial sea adjacent to the United Kingdom and the territorial sea adjacent to any of the Channel Islands or the Isle of Man.
+
+(3) The following are “relevant prosecutors” for the purposes of this Part—
+
+(a) the Director of Service Prosecutions and any person appointed under section 365 of the Armed Forces Act 2006 (prosecuting officers);
+
+(b) in England and Wales, the Director of Public Prosecutions, a Crown Prosecutor and any person to whom the institution or taking over of proceedings for the offence mentioned in section 1(2) has been assigned under section 5(1) of the Prosecution of Offences Act 1985;
+
+(c) in Scotland, any prosecutor as defined in section 307(1) of the Criminal Procedure (Scotland) Act 1995 (other than a private prosecutor);
+
+(d) in Northern Ireland, the Director of Public Prosecutions for Northern Ireland, the Deputy Director of Public Prosecutions for Northern Ireland, a Public Prosecutor and any person to whom the institution or taking over of proceedings for the offence mentioned in section 1(2) has been assigned under section 36(2) of the Justice (Northern Ireland) Act 2002 (c. 26 (N.I.)).
+
+(4) In this Part—
+
+- “alleged conduct”, in relation to proceedings or potential proceedings for an offence, means the act or omission alleged to constitute the offence;
+
+- “British overseas territory force” means any of Her Majesty's forces that is raised under the law of a British overseas territory;
+
+- “Crown servant” means a person employed by or in the service of the Government of the United Kingdom;
+
+- “defence contractor” means a person engaged in providing goods or services for the purposes of any of Her Majesty's forces under contract (whether as, or on behalf of, a party to the contract);
+
+- “Her Majesty's forces” has the same meaning as in the Armed Forces Act 2006 (see section 374 of that Act);
+
+- “investigating authority” means—
+
+  - (a) a service police force,
+  - (aa) [[^F1]the tri-service serious crime unit,]
+  - (b) a UK police force, or
+  - (c) an overseas police force;
+
+- “overseas operations” has the meaning given by section 1(6);
+
+- “overseas police force” has the same meaning as in the Armed Forces Act 2006 (see section 375 of that Act);
+
+- “the regular forces” has the same meaning as in the Armed Forces Act 2006 (see section 374 of that Act);
+
+- “relevant offence” has the meaning given by section 6;
+
+- “relevant previous investigation” has the meaning given by section 4;
+
+- “relevant prosecutor” has the meaning given by subsection (3);
+
+- “the reserve forces” has the same meaning as in the Armed Forces Act 2006 (see section 374 of that Act);
+
+- “service offence” has the same meaning as in the Armed Forces Act 2006 (see section 50(2) of that Act);
+
+- “service police force” has the same meaning as in the Armed Forces Act 2006 (see section 375 of that Act);
+
+- [[^F2]“tri-service serious crime unit” means the unit described in section 375(1A) of the Armed Forces Act 2006;]
+
+- “UK police force” has the same meaning as in the Armed Forces Act 2006 (see section 375 of that Act).
+
+(5) Subsections (2) and (3) of section 368 of the Armed Forces Act 2006 (references to members of the regular forces) apply for the purposes of this Part as they apply for the purposes of that Act.
+
+## PART 2 — Overseas operations: limitation periods
+
+### 8 Restrictions on time limits to bring actions: England and Wales
+
+(1) Part 1 of Schedule 2 amends the Limitation Act 1980—
+
+(a) to limit the court's discretion to disapply time limits for actions in respect of personal injuries or death which relate to overseas operations of the armed forces, and
+
+(b) to specify additional factors to which a court must have regard in exercising that discretion.
+
+(2) Part 2 of Schedule 2 amends the Foreign Limitation Periods Act 1984 to modify the effect of foreign limitation law (where such law applies by reason of that Act) in respect of actions which relate to overseas operations of the armed forces.
+
+### 9 Restrictions on time limits to bring actions: Scotland
+
+(1) Part 1 of Schedule 3 amends the Prescription and Limitation (Scotland) Act 1973—
+
+(a) to limit the court's power to override time limits for actions in respect of personal injuries or death which relate to overseas operations of the armed forces, and
+
+(b) to specify factors to which a court must have regard in exercising that power.
+
+(2) Part 2 of Schedule 3 amends that Act to modify the effect of foreign limitation law (where such law applies by virtue of that Act) in respect of actions which relate to overseas operations of the armed forces.
+
+### 10 Restrictions on time limits to bring actions: Northern Ireland
+
+(1) Part 1 of Schedule 4 amends the Limitation (Northern Ireland) Order 1989 (S.I. 1989/1339 (N.I. 11))—
+
+(a) to limit the court's discretion to disapply time limits for actions in respect of personal injuries or death which relate to overseas operations of the armed forces, and
+
+(b) to specify additional factors to which a court must have regard in exercising that discretion.
+
+(2) Part 2 of Schedule 4 amends the Foreign Limitation Periods (Northern Ireland) Order 1985 (S.I. 1985/754 (N.I. 5)) to modify the effect of foreign limitation law (where such law applies by reason of that Order) in respect of actions which relate to overseas operations of the armed forces.
+
+### 11 Court's discretion to extend time in certain Human Rights Act proceedings
+
+(1) The Human Rights Act 1998 is amended as follows.
+
+(2) After section 7 insert—
+
+> **7A Limitation: overseas armed forces proceedings**
+>
+> (1) A court or tribunal exercising its discretion under section 7(5)(b) in respect of overseas armed forces proceedings must do so—
+>
+> (a) in accordance with subsection (2), and
+>
+> (b) subject to the rule in subsection (4).
+>
+> (2) The court or tribunal must have particular regard to—
+>
+> (a) the effect of the delay in bringing proceedings on the cogency of evidence adduced or likely to be adduced by the parties, with particular reference to—
+>
+> (i) the likely impact of the operational context on the ability of individuals who are (or, at the time of the events to which the proceedings relate, were) members of Her Majesty's forces to remember relevant events or actions fully or accurately, and
+>
+> (ii) the extent of dependence on the memories of such individuals, taking into account the effect of the operational context on the ability of such individuals to record, or to retain records of, relevant events or actions;
+>
+> (b) the likely impact of the proceedings on the mental health of any witness or potential witness who is (or, at the time of the events to which the proceedings relate, was) a member of Her Majesty's forces.
+>
+> (3) In subsection (2) references to “the operational context” are to the fact that the events to which the proceedings relate took place in the context of overseas operations, and include references to the exceptional demands and stresses to which members of Her Majesty's forces are subject.
+>
+> (4) The rule referred to in subsection (1)(b) is that overseas armed forces proceedings must be brought before the later of—
+>
+> (a) the end of the period of 6 years beginning with the date on which the act complained of took place;
+>
+> (b) the end of the period of 12 months beginning with the date of knowledge.
+>
+> (5) In subsection (4), the “date of knowledge” means the date on which the person bringing the proceedings first knew, or first ought to have known, both—
+>
+> (a) of the act complained of, and
+>
+> (b) that it was an act of the Ministry of Defence or the Secretary of State for Defence.
+>
+> (6) “Overseas armed forces proceedings” means proceedings—
+>
+> (a) against the Ministry of Defence or the Secretary of State for Defence, and
+>
+> (b) in connection with overseas operations.
+>
+> (7) “Overseas operations” means any operations outside the British Islands, including peacekeeping operations and operations for dealing with terrorism, civil unrest or serious public disorder, in the course of which members of Her Majesty's forces come under attack or face the threat of attack or violent resistance.
+>
+> (8) In this section the reference to the British Islands includes the territorial sea adjacent to the United Kingdom and the territorial sea adjacent to any of the Channel Islands or the Isle of Man.
+>
+> (9) In this section “Her Majesty's forces” has the same meaning as in the Armed Forces Act 2006 (see section 374 of that Act).
+
+(3) In section 22 (short title, commencement, application and extent), after subsection (4) insert—
+
+> (4A) Section 7A (limitation: overseas armed forces proceedings) applies to proceedings brought under section 7(1)(a) on or after the date on which section 7A comes into force, whenever the act in question took place.
+
+## PART 3 — General
+
+### 12 Power to make consequential provision
+
+(1) The Secretary of State or the Lord Chancellor may by regulations make provision that is consequential on any provision made by this Act.
+
+(2) Regulations under this section are to be made by statutory instrument and—
+
+(a) may include transitional or saving provision;
+
+(b) may amend, repeal or revoke any provision of or made under primary legislation.
+
+(3) The provision referred to in subsection (2)(b) does not include a provision of legislation passed or made after the end of the session of Parliament in which this Act is passed.
+
+(4) A statutory instrument containing (whether alone or with other provision) regulations under this section that amend, repeal or revoke primary legislation may not be made unless a draft of the instrument has been laid before and approved by a resolution of each House of Parliament.
+
+(5) Any other statutory instrument containing regulations under this section is subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(6) In this section “primary legislation” means—
+
+(a) an Act,
+
+(b) an Act of the Scottish Parliament, or
+
+(c) Northern Ireland legislation.
+
+### 13 Extent
+
+(1) This Act extends to England and Wales, Scotland and Northern Ireland, subject as follows.
+
+(2) Section 8 and Schedule 2 extend to England and Wales only.
+
+(3) Section 9 and Schedule 3 extend to Scotland only.
+
+(4) Section 10 and Schedule 4 extend to Northern Ireland only.
+
+### 14 Commencement and application
+
+(1) This Part comes into force on the day on which this Act is passed.
+
+(2) The other provisions of this Act come into force on such day as the Secretary of State or the Lord Chancellor may by regulations appoint.
+
+(3) Different days may be appointed for different purposes.
+
+(4) The Secretary of State or the Lord Chancellor may by regulations make transitional or saving provision in connection with the coming into force of any provision of this Act.
+
+(5) Regulations under this section are to be made by statutory instrument.
+
+(6) None of the provisions of Part 1 applies to proceedings instituted before the day on which the provision comes into force.
+
+(7) Part 1 of Schedule 2 applies to an action brought on or after the date on which that Part comes into force, whenever the cause of action accrued.
+
+(8) Part 1 of Schedule 3 applies to an action brought on or after the date on which that Part comes into force, whenever the right of action accrued.
+
+(9) Part 2 of Schedule 3 applies to an action brought on or after the date on which that Part comes into force, whenever the events to which the action relates took place.
+
+(10) Part 1 of Schedule 4 applies to an action brought on or after the date on which that Part comes into force, whenever the cause of action accrued.
+
+### 15 Short title
+
+This Act may be cited as the Overseas Operations (Service Personnel and Veterans) Act 2021.
+
+## SCHEDULE 1 — Excluded offences for the purposes of section 6
+
+*Section 6*
+
+### PART 1 — Criminal conduct etc under armed forces legislation
+
+#### Criminal conduct etc under armed forces legislation
+
+**1** (1) An offence under section 42 of the Armed Forces Act 2006 (criminal conduct) is an “excluded offence” if the corresponding civil offence is an offence referred to in any of paragraphs 2 to 14, 30 and 31.
+
+(2) In sub-paragraph (1) the reference to section 42 of the Armed Forces Act 2006 is to be taken to include a reference to—
+
+(a) section 70 of the Army Act 1955 (civil offences),
+
+(b) section 70 of the Air Force Act 1955 (civil offences), and
+
+(c) section 42 of the Naval Discipline Act 1957 (civil offences).
+
+#### Corresponding offences under law of England and Wales (including under repealed provisions)
+
+**2** An offence under any provision of the Sexual Offences Act 1956.
+
+**3** An offence under section 1 of the Indecency with Children Act 1960 (indecent conduct towards child under 14).
+
+**4** An offence under section 1(1) of the Genocide Act 1969 (genocide).
+
+**5** An offence under section 54 of the Criminal Law Act 1977 (inciting child under 16 to commit incest).
+
+**6** An offence under section 1 of the Protection of Children Act 1978 (indecent photographs of children).
+
+**7** An offence under section 160 of the Criminal Justice Act 1988 (possession of indecent photograph of a child).
+
+**8** An offence under any provision of the Sexual Offences Act 2003.
+
+**9** An offence under section 63 of the Criminal Justice and Immigration Act 2008 (possession of extreme pornographic images).
+
+**10** An offence under section 62 of the Coroners and Justice Act 2009 (possession of prohibited images of children).
+
+**[^F3]11** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**12** An offence under section 2 of the Modern Slavery Act 2015 (human trafficking) committed with a view to exploitation that consists of or includes behaviour within section 3(3) of that Act (sexual exploitation).
+
+**13** An offence at common law of outraging public decency.
+
+**14** An offence within any of paragraphs 18 to 20 (certain offences under the International Criminal Court Act 2001).
+
+**15** A reference in paragraphs 2 to 14 or paragraphs 30 and 31 to an offence (“offence A”) includes—
+
+(a) a reference to an attempt to commit offence A,
+
+(b) a reference to a conspiracy to commit offence A,
+
+(c) a reference to incitement to commit offence A,
+
+(d) a reference to an offence under Part 2 of the Serious Crime Act 2007 in relation to which offence A is the offence (or one of the offences) which the person intended or believed would be committed, and
+
+(e) a reference to aiding and abetting, counselling or procuring the commission of offence A.
+
+#### Interpretation etc
+
+**16** (1) In paragraph 1(1) the reference to the “corresponding civil offence” is—
+
+(a) in relation to an offence under section 42 of the Armed Forces Act 2006, to the corresponding offence under the law of England and Wales within the meaning of that section;
+
+(b) in relation to an offence under section 70 of the Army Act 1955 or section 70 of the Air Force Act 1955, to the corresponding civil offence within the meaning of that Act;
+
+(c) in relation to an offence under section 42 of the Naval Discipline Act 1957, to the civil offence within the meaning of that section.
+
+(2) Section 48 of the Armed Forces Act 2006 (supplementary provisions relating to ancillary service offences) applies for the purposes of sub-paragraph (1)(a) as it applies for the purposes of the provisions of that Act referred to in subsection (3)(b) of that section.
+
+### PART 2 — International Criminal Court Act 2001
+
+#### Excluded offences within this Part
+
+**17** An offence under the law of England and Wales or Northern Ireland within any of paragraphs 18 to 23 is an “excluded offence” in that part of the United Kingdom.
+
+#### England and Wales
+
+**18** An offence under section 51 of the International Criminal Court Act 2001 (genocide, crimes against humanity and war crimes).
+
+**19** An ancillary offence under the law of England and Wales in relation to an offence within paragraph 18.
+
+**20** An offence under subsection (1) of section 52 of the International Criminal Court Act 2001 (conduct ancillary to war crimes etc committed outside jurisdiction) where the act referred to in that subsection would, if committed in England and Wales, constitute—
+
+(a) an offence within paragraph 18, or
+
+(b) an offence within this paragraph.
+
+#### Northern Ireland
+
+**21** An offence under section 58 of the International Criminal Court Act 2001 (genocide, crimes against humanity and war crimes).
+
+**22** An ancillary offence under the law of Northern Ireland in relation to an offence within paragraph 21.
+
+**23** An offence under subsection (1) of section 59 of the International Criminal Court Act 2001 (conduct ancillary to war crimes etc committed outside jurisdiction) where the act referred to in that subsection would, if committed in Northern Ireland, constitute—
+
+(a) an offence within paragraph 21, or
+
+(b) an offence within this paragraph.
+
+#### Interpretation
+
+**24** In this Part of this Schedule—
+
+(a) references to an ancillary offence under the law of England and Wales are to be interpreted in accordance with section 55 of the International Criminal Court Act 2001;
+
+(b) references to an ancillary offence under the law of Northern Ireland are to be interpreted in accordance with section 62 of that Act.
+
+### PART 3 — International Criminal Court (Scotland) Act 2001
+
+**25** An offence within any of paragraphs 26 to 28 is an “excluded offence” in Scotland.
+
+**26** An offence under section 1(1) of the International Criminal Court (Scotland) Act 2001 (asp 13) (genocide, crimes against humanity and war crimes).
+
+**27** An offence under section 2(1) of that Act (conduct ancillary to war crimes etc) of engaging in conduct ancillary to an act that constitutes—
+
+(a) an offence within paragraph 26, or
+
+(b) an offence within this paragraph or paragraph 28.
+
+**28** An offence under subsection (3) of section 2 of that Act of engaging in conduct ancillary to an act committed (or intended to be committed) outside Scotland, where—
+
+(a) the offence mentioned in paragraph (a) of that subsection is an offence within paragraph 26, or
+
+(b) (as the case may be) the offence mentioned in paragraph (b) of that subsection is an offence within paragraph 27.
+
+#### Interpretation
+
+**29** In this Part of this Schedule references to an ancillary offence are to be interpreted in accordance with section 7 of the International Criminal Court (Scotland) Act 2001.
+
+### PART 4 — Other offences
+
+**30** An offence under section 134 of the Criminal Justice Act 1988 (torture) is an excluded offence.
+
+**31** An offence under section 1(1) of the Geneva Conventions Act 1957 (grave breaches of the Geneva Conventions) is an excluded offence.
+
+### PART 5 — Provisions extending jurisdiction in respect of certain sexual offences
+
+#### Section 72 of the Sexual Offences Act 2003
+
+**32** (1) Where by virtue of section 72 of the Sexual Offences Act 2003 (offences outside the United Kingdom) an act done outside the United Kingdom constitutes an offence under the law of England and Wales or Northern Ireland, that offence is an “excluded offence” in that part of the United Kingdom.
+
+(2) Where by virtue of subsection (3) of that section proceedings for an offence may be brought against a person in England and Wales or Northern Ireland in respect of an act done outside the United Kingdom, that offence is an “excluded offence” in that part of the United Kingdom.
+
+#### Article 76 of the Sexual Offences (Northern Ireland) Order 2008 (S.I. 2008/1769 (N.I. 2))
+
+**33** (1) Where by virtue of Article 76 of the Sexual Offences (Northern Ireland) Order 2008 (offences outside the United Kingdom) an act done outside the United Kingdom constitutes an offence under the law of Northern Ireland, that offence is an “excluded offence” in Northern Ireland.
+
+(2) Where by virtue of paragraph (3) of that Article proceedings for an offence may be brought against a person in Northern Ireland in respect of an act done outside the United Kingdom, that offence is an “excluded offence” in Northern Ireland.
+
+#### Section 55 of the Sexual Offences (Scotland) Act 2009 (asp 9)
+
+**34** (1) Where by virtue of section 55 of the Sexual Offences (Scotland) Act 2009 (offences committed outside the United Kingdom) an act done outside the United Kingdom constitutes an offence under the law of Scotland, that offence is an “excluded offence” in Scotland.
+
+(2) Where by virtue of subsection (2A) of that section proceedings for an offence may be brought against a person in Scotland in respect of an act done outside the United Kingdom, that offence is an “excluded offence” in relation to Scotland.
+
+#### Provisions superseded by provisions mentioned in paragraphs 32 to 34
+
+**35** Where by virtue of section 7 of the Sex Offenders Act 1997 (sexual offences committed outside the United Kingdom) an act done outside the United Kingdom constitutes an offence under the law of England and Wales or Northern Ireland, that offence is an “excluded offence” in that part of the United Kingdom.
+
+**36** Where by virtue of section 16B of the Criminal Law (Consolidation) (Scotland) Act 1995 (commission of certain sexual acts outside the United Kingdom) an act done outside the United Kingdom constitutes an offence under the law of Scotland, that offence is an “excluded offence” in Scotland.
+
+## SCHEDULE 2 — Limitation periods: England and Wales
+
+*Section 8*
+
+### PART 1 — Court's discretion to disapply time limits
+
+**1** (1) Section 33 of the Limitation Act 1980 (discretionary exclusion of time limit for actions in respect of personal injuries or death) is amended as follows.
+
+(2) After subsection (1) insert—
+
+> (1ZA) The court shall not under this section disapply any provision of section 11 in its application to an overseas armed forces action if the action was brought after the expiration of the period of six years from the section 11 relevant date (see subsection (7)).
+>
+> (1ZB) An “overseas armed forces action” means an action, or cause of action, which—
+>
+> (a) is against the Ministry of Defence, the Secretary of State for Defence, or any member of Her Majesty's forces,
+>
+> (b) is brought in connection with overseas operations (see subsection (7)), and
+>
+> (c) relates to damage that occurred outside the British Islands.
+>
+> (1ZC) In subsection (1ZB), “damage” means—
+>
+> (a) in the case of an overseas armed forces action for which a period of limitation is prescribed by section 11, the personal injuries to which the action relates;
+>
+> (b) in the case of an overseas armed forces action for which a period of limitation is prescribed by section 12(2), the death to which the action relates (and where a person sustains personal injuries outside the British Islands which are a substantial cause of their later death in any of the British Islands, or vice versa, the death is for the purposes of subsection (1ZB)(c) to be treated as occurring where the injuries were sustained).
+
+(3) After subsection (2) insert—
+
+> (2A) But where the reason why the person injured could no longer maintain an action was because of the time limit in section 11, the court may disapply section 12(1) in its application to an overseas armed forces action only if the person died within the period of six years beginning with the section 11 relevant date (ignoring, for this purpose, the reference to section 11(5) in paragraph (a) of the definition of that term).
+>
+> (2B) The court shall not under this section disapply section 12(2) in its application to an overseas armed forces action if the action was brought after the expiration of the period of six years from the section 12 relevant date (see subsection (7)).
+
+(4) After subsection (5) insert—
+
+> (5A) In acting under this section in relation to an overseas armed forces action—
+>
+> (a) when considering the factor mentioned in subsection (3)(b), the court must have particular regard to—
+>
+> (i) the likely impact of the operational context on the ability of members of Her Majesty's forces to remember relevant events or actions fully or accurately, and
+>
+> (ii) the extent of dependence on the memories of members of Her Majesty's forces, taking into account the effect of the operational context on their ability to record, or to retain records of, relevant events or actions; and
+>
+> (b) the court must also have particular regard to the likely impact of the action on the mental health of any witness or potential witness who is a member of Her Majesty's forces.
+>
+> (5B) In subsection (5A) references to “the operational context” are to the fact that the events to which the action relates took place in the context of overseas operations, and include references to the exceptional demands and stresses to which members of Her Majesty's forces are subject.
+
+(5) After subsection (6) insert—
+
+> (6A) In the application of subsection (1ZA), (2A) or (2B) to an overseas armed forces action in respect of which a limitation period has been suspended in accordance with section 1(1) of the Limitation (Enemies and War Prisoners) Act 1945, any reference to the period of six years is to be treated as a reference to the period of six years plus—
+>
+> (a) the period during which the limitation period was suspended, and
+>
+> (b) any extra period after the suspension ended during which the action could have been brought only because of an extension provided for by section 1(1) of that Act.
+
+(6) For subsection (7) substitute—
+
+> (7) In this section—
+>
+> - “the court” means the court in which the action has been brought;
+>
+> - “Her Majesty's forces” has the same meaning as in the Armed Forces Act 2006 (see section 374 of that Act);
+>
+> - “overseas operations” means any operations outside the British Islands, including peacekeeping operations and operations for dealing with terrorism, civil unrest or serious public disorder, in the course of which members of Her Majesty's forces come under attack or face the threat of attack or violent resistance;
+>
+> - “the section 11 relevant date” means the latest of the following—
+>
+>   - (a) the date from which the period of three years starts to run in accordance with section 11(4) or (5);
+>   - (b) where section 28 applies, the date from which the period of three years mentioned in subsection (1) of that section (as that subsection has effect with the modification made by subsection (6) of that section) starts to run;
+>   - (c) where section 32(1)(a) or (b) applies, the date from which the period of three years starts to run in accordance with subsection (1) of that section;
+>
+> - “the section 12 relevant date” means the latest of the following—
+>
+>   - (a) the date from which the period of three years starts to run in accordance with section 12(2);
+>   - (b) where section 28 applies, the date from which the period of three years mentioned in subsection (1) of that section (as that subsection has effect with the modification made by subsection (6) of that section) starts to run.
+
+(7) In subsection (8), after “this section” in the first place it occurs, insert
+
+> —
+>
+> (a) to the British Islands include the territorial sea adjacent to the United Kingdom and the territorial sea adjacent to any of the Channel Islands or the Isle of Man (and the reference to any of the British Islands is to be read accordingly);
+>
+> (b) to a member of Her Majesty's forces, in relation to an overseas armed forces action, include an individual who was a member of Her Majesty's forces at the time of the events to which the action relates;
+>
+> (c)
+
+.
+
+### PART 2 — Restriction of foreign limitation law
+
+**2** (1) The Foreign Limitation Periods Act 1984 is amended as follows.
+
+(2) In section 1 (application of foreign limitation law), in subsection (1)(a), after “subject to” insert “ section 1ZA and ”.
+
+(3) After section 1 insert—
+
+> **Overseas armed forces actions: restriction of foreign limitation law**
+>
+> **1ZA** (1) Subsection (3) applies where—
+>
+> (a) the law of another country relating to limitation applies by reason of section 1(1)(a) in respect of a matter for the purposes of an overseas armed forces tort action, and
+>
+> (b) the commencement condition applies in relation to that action,
+>
+> and in this section the law relating to limitation that applies for the purposes of that action is referred to as “the relevant foreign limitation law”.
+>
+> (2) The commencement condition applies in relation to an overseas armed forces tort action if the action commenced on a date which is after the end of the period of six years beginning with—
+>
+> (a) the date on which any limitation period specified in the relevant foreign limitation law began to run, or
+>
+> (b) where the relevant foreign limitation law has the effect that the action may be commenced within an indefinite period, the first date on which the action could have been commenced.
+>
+> (3) The relevant foreign limitation law is to be treated as providing the defendant with a complete defence to the action so far as relating to the matter (where that would not otherwise be the case).
+>
+> (4) An “overseas armed forces tort action” means an action—
+>
+> (a) which is an overseas armed forces action as defined in section 33(1ZB) of the Limitation Act 1980, and
+>
+> (b) which (under the law of the other country that falls to be taken into account) corresponds to—
+>
+> (i) an action to which section 11 of that Act applies (personal injuries),
+>
+> (ii) an action in respect of false imprisonment, or
+>
+> (iii) an action under the Fatal Accidents Act 1976 (death).
+>
+> (5) In the application of subsection (2) to an action in respect of which—
+>
+> (a) in accordance with the relevant foreign limitation law, a limitation period specified in that law has been suspended or interrupted for a period by reason of a person's lacking legal capacity or being under a disability, or
+>
+> (b) in accordance with the relevant foreign limitation law, a period during which a person lacks legal capacity or is under a disability has been disregarded in computing a limitation period specified in that law,
+>
+> the reference to the period of six years is to be treated as a reference to the period of six years plus the period of suspension or interruption or (as the case may be) the period that was so disregarded.
+>
+> (6) In the application of subsection (2) to an action in respect of which a limitation period specified in the relevant foreign limitation law has been suspended in accordance with section 1(1) of the Limitation (Enemies and War Prisoners) Act 1945, the reference to the period of six years is to be treated as a reference to the period of six years plus—
+>
+> (a) the period during which the limitation period was suspended, and
+>
+> (b) any extra period after the suspension ended during which the action could have been brought only because of an extension provided for by section 1(1) of that Act.
+
+(4) In section 7 (short title etc), after subsection (3) insert—
+
+> (3A) Section 1ZA (overseas armed forces actions: restriction of foreign limitation law) applies to an action commenced in England and Wales on or after the date on which that section comes into force, whenever the events to which the action relates took place.
+
+(5) In section 8 (disapplication of provisions where the law applicable to limitation is determined by other instruments), in the heading and in subsection (1), after “1,” insert “ 1ZA, ”.
+
+## SCHEDULE 3 — Limitation periods: Scotland
+
+*Section 9*
+
+### PART 1 — Court's power to override time-limits
+
+**1** (1) The Prescription and Limitation (Scotland) Act 1973 is amended as follows.
+
+(2) In section 19A (power of court to override time-limits etc), in subsection (1), after “that provision” insert “ (but see section 19AA) ”.
+
+(3) After section 19A, insert—
+
+> **Restriction of court's power to override time-limits: overseas armed forces actions**
+>
+> **19AA** (1) This section applies where the court is considering whether to exercise its power under section 19A to override time-limits in respect of an overseas armed forces action (see subsection (11)).
+>
+> (2) The court must exercise its power—
+>
+> (a) in accordance with subsection (3), and
+>
+> (b) subject to the rules in subsections (5) to (7).
+>
+> (3) The court must have particular regard to—
+>
+> (a) the effect of the delay in bringing the action on the cogency of evidence adduced or likely to be adduced by the parties, with particular reference to—
+>
+> (i) the likely impact of the operational context on the ability of members of Her Majesty's forces to remember relevant events or actions fully or accurately, and
+>
+> (ii) the extent of dependence on the memories of members of Her Majesty's forces, taking into account the effect of the operational context on their ability to record, or to retain records of, relevant events or actions; and
+>
+> (b) the likely impact of the action on the mental health of any witness or potential witness who is a member of Her Majesty's forces.
+>
+> (4) In subsection (3)(a) references to “the operational context” are to the fact that the events to which the action relates took place in the context of overseas operations, and include references to the exceptional demands and stresses to which members of Her Majesty's forces are subject.
+>
+> (5) The first rule referred to in subsection (2)(b) is that an overseas armed forces action for which a limitation period is specified in section 17 must be brought within the period of 6 years beginning with the section 17 relevant date.
+>
+> (6) The second rule referred to in subsection (2)(b) is that an overseas armed forces action for which a limitation period is specified in section 18(2) must be brought within the period of 6 years beginning with the section 18 relevant date.
+>
+> (7) The third rule referred to in subsection (2)(b) is that, in respect of an overseas armed forces action to which section 18 applies, the court may exercise its power to override section 18(4) only if the injured person in question died within the period of 6 years beginning with the section 17 relevant date.
+>
+> (8) In the application of the rule in subsection (5) or (7) to an action in respect of which (in accordance with section 17(3)) any time has been disregarded when computing the limitation period specified in section 17(2) for the purposes of section 17 or 18(4) (as the case may be), the reference to the period of 6 years is to be treated as a reference to the period of 6 years plus the period that was so disregarded.
+>
+> (9) In the application of the rule in subsection (6) to an action in respect of which (in accordance with section 18(3)) any time has been disregarded when computing the limitation period specified in section 18(2), the reference to the period of 6 years is to be treated as a reference to the period of 6 years plus the period that was so disregarded.
+>
+> (10) In the application of the rule in subsection (5) or (7) to an overseas armed forces action in respect of which a limitation period has been suspended in accordance with section 1(1) of the Limitation (Enemies and War Prisoners) Act 1945 (as modified by section 4 of that Act), any reference to the period of 6 years is to be treated as a reference to the period of 6 years plus—
+>
+> (a) the period during which the limitation period was suspended, and
+>
+> (b) any extra period after the suspension ended during which the action could have been brought only because of an extension provided for by section 1(1) of that Act.
+>
+> (11) In this section, an “overseas armed forces action” means an action which, or an action which includes a claim which—
+>
+> (a) is against the Ministry of Defence, the Secretary of State for Defence, or any member of Her Majesty's forces,
+>
+> (b) is brought in connection with overseas operations (see subsection (13)), and
+>
+> (c) relates to damage that occurred outside the British Islands.
+>
+> (12) In subsection (11), “damage” means—
+>
+> (a) in the case of an overseas armed forces action for which a limitation period is specified in section 17, the personal injuries to which the action relates;
+>
+> (b) in the case of an overseas armed forces action for which a limitation period is specified in section 18(2), the death to which the action relates (and where a person sustains personal injuries outside the British Islands which are a substantial cause of their later death in any of the British Islands, or vice versa, the death is for the purposes of subsection (11)(c) to be treated as occurring where the injuries were sustained).
+>
+> (13) In this section—
+>
+> - “Her Majesty's forces” has the same meaning as in the Armed Forces Act 2006 (see section 374 of that Act);
+> - “overseas operations” means any operations outside the British Islands, including peacekeeping operations and operations for dealing with terrorism, civil unrest or serious public disorder, in the course of which members of Her Majesty's forces come under attack or face the threat of attack or violent resistance;
+> - “the section 17 relevant date” means the date from which the period of 3 years starts to run in accordance with subsection (2) of section 17;
+> - “the section 18 relevant date” means the date from which the period of 3 years starts to run in accordance with subsection (2) of section 18.
+>
+> (14) In this section, references—
+>
+> (a) to the British Islands include the territorial sea adjacent to the United Kingdom and the territorial sea adjacent to any of the Channel Islands or the Isle of Man (and the reference to any of the British Islands is to be read accordingly);
+>
+> (b) to a member of Her Majesty's forces, in relation to an overseas armed forces action, include an individual who was a member of Her Majesty's forces at the time of the events to which the action relates.
+
+### PART 2 — Restriction of foreign limitation law
+
+**2** (1) The Prescription and Limitation (Scotland) Act 1973 is amended as follows.
+
+(2) In section 23A (private international law application)—
+
+(a) in subsection (1), after “to enforce the obligation” insert “ , subject to section 23B, ”, and
+
+(b) in subsection (4), after “This section” insert “ and section 23B ”.
+
+(3) After section 23A, insert—
+
+> **Overseas armed forces actions: restriction of foreign prescription and limitation law**
+>
+> **23B** (1) Subsection (3) applies where—
+>
+> (a) the law of a country other than Scotland relating to the extinction of an obligation or the limitation of time within which an action may be brought to enforce an obligation is to be applied by virtue of section 23A(1) in an overseas armed forces personal injuries action, and
+>
+> (b) the commencement condition applies in relation to that action,
+>
+> and in this section the law mentioned in paragraph (a) that is to be applied in that action is referred to as “the relevant foreign limitation law”.
+>
+> (2) The commencement condition applies in relation to an overseas armed forces personal injuries action if the action commenced on a date which is after the end of the period of 6 years beginning with—
+>
+> (a) the date on which any limitation period specified in the relevant foreign limitation law began to run, or
+>
+> (b) where the relevant foreign limitation law has the effect that the action may be commenced within an indefinite period, the first date on which the action could have been commenced,
+>
+> and in this section “limitation period” includes a prescriptive period (however expressed in the relevant foreign limitation law).
+>
+> (3) The relevant foreign limitation law is to be treated as providing the defender with a complete defence to the action so far as relating to the obligation (where that would not otherwise be the case).
+>
+> (4) An “overseas armed forces personal injuries action” means an action—
+>
+> (a) which is an overseas armed forces action as defined in section 19AA(11), and
+>
+> (b) which (under the substantive law of the other country that falls to be applied) corresponds to an action to which section 17 or 18 applies (actions in respect of personal injuries or death).
+>
+> (5) In the application of subsection (2) to an action in respect of which—
+>
+> (a) in accordance with the relevant foreign limitation law, a limitation period specified in that law has been suspended or interrupted for a period by reason of a person's lacking legal capacity or being under a disability, or
+>
+> (b) in accordance with the relevant foreign limitation law, a period during which a person lacks legal capacity or is under a disability has been disregarded in computing a limitation period specified in that law,
+>
+> the reference to the period of 6 years is to be treated as a reference to the period of 6 years plus the period of suspension or interruption or (as the case may be) the period that was so disregarded.
+
+## SCHEDULE 4 — Limitation periods: Northern Ireland
+
+*Section 10*
+
+### PART 1 — Court's discretion to disapply time limits
+
+**1** (1) Article 50 of the Limitation (Northern Ireland) Order 1989 (S.I. 1989/1339 (N.I. 11)) (court's power to override certain time limits) is amended as follows.
+
+(2) After paragraph (1) insert—
+
+> (1A) The court must not under this Article disapply any provision of Article 7 in its application to an overseas armed forces action if the action was brought after the expiration of the period of six years from the Article 7 relevant date (see paragraph (8)).
+>
+> (1B) An “overseas armed forces action” means an action, or cause of action, which—
+>
+> (a) is against the Ministry of Defence, the Secretary of State for Defence, or any member of Her Majesty's forces,
+>
+> (b) is brought in connection with overseas operations (see paragraph (8)), and
+>
+> (c) relates to damage that occurred outside the British Islands.
+>
+> (1C) In paragraph (1B), “damage” means—
+>
+> (a) in the case of an overseas armed forces action for which a period of limitation is fixed by Article 7, the personal injuries to which the action relates;
+>
+> (b) in the case of an overseas armed forces action for which a period of limitation is fixed by Article 9(3), the death to which the action relates (and where a person sustains personal injuries outside the British Islands which are a substantial cause of their later death in any of the British Islands, or vice versa, the death is for the purposes of paragraph (1B)(c) to be treated as occurring where the injuries were sustained).
+
+(3) After paragraph (3) insert—
+
+> (3A) But where the reason why the person injured could no longer maintain an action was because of the time limit in Article 7, the court may disapply Article 9(2) in its application to an overseas armed forces action only if the person died within the period of six years beginning with the Article 7 relevant date (ignoring, for this purpose, the reference to Article 7(5) in paragraph (a) of the definition of that term).
+>
+> (3B) The court must not under this Article disapply Article 9(3) in its application to an overseas armed forces action if the action was brought after the expiration of the period of six years from the Article 9 relevant date (see paragraph (8)).
+
+(4) After paragraph (6) insert—
+
+> (6A) In acting under this Article in relation to an overseas armed forces action—
+>
+> (a) when considering the factor mentioned in paragraph (4)(b), the court must have particular regard to—
+>
+> (i) the likely impact of the operational context on the ability of members of Her Majesty's forces to remember relevant events or actions fully or accurately, and
+>
+> (ii) the extent of dependence on the memories of members of Her Majesty's forces, taking into account the effect of the operational context on their ability to record, or to retain records of, relevant events or actions; and
+>
+> (b) the court must also have particular regard to the likely impact of the action on the mental health of any witness or potential witness who is a member of Her Majesty's forces.
+>
+> (6B) In paragraph (6A) references to “the operational context” are to the fact that the events to which the action relates took place in the context of overseas operations, and include references to the exceptional demands and stresses to which members of Her Majesty's forces are subject.
+
+(5) After paragraph (7) insert—
+
+> (7A) In the application of paragraph (1A), (3A) or (3B) to an overseas armed forces action in respect of which a limitation period has been suspended in accordance with section 1(1) of the Limitation (Enemies and War Prisoners) Act 1945, any reference to the period of six years is to be treated as a reference to the period of six years plus—
+>
+> (a) the period during which the limitation period was suspended, and
+>
+> (b) any extra period after the suspension ended during which the action could have been brought only because of an extension provided for by section 1(1) of that Act.
+
+(6) For paragraph (8) substitute—
+
+> (8) In this Article—
+>
+> - “the Article 7 relevant date” means the latest of the following—
+>
+>   - (a) the date from which the period of three years starts to run in accordance with Article 7(4) or (5);
+>   - (b) where Article 48 applies, the date from which the period of three years mentioned in paragraph (1) of that Article (as that paragraph has effect with the modification made by paragraph (5) of that Article) starts to run;
+>   - (c) where Article 71(1)(a) or (b) applies, the date from which the period of three years starts to run in accordance with paragraph (1) of that Article;
+>
+> - “the Article 9 relevant date” means the latest of the following—
+>
+>   - (a) the date from which the period of three years starts to run in accordance with Article 9(3);
+>   - (b) where Article 48 applies, the date from which the period of three years mentioned in paragraph (1) of that Article (as that paragraph has effect with the modification made by paragraph (5) of that Article) starts to run;
+>
+> - “the British Islands” means the United Kingdom, the Channel Islands and the Isle of Man;
+>
+> - “the court” means the court in which the action has been brought;
+>
+> - “Her Majesty's forces” has the same meaning as in the Armed Forces Act 2006 (see section 374 of that Act);
+>
+> - “overseas operations” means any operations outside the British Islands, including peacekeeping operations and operations for dealing with terrorism, civil unrest or serious public disorder, in the course of which members of Her Majesty's forces come under attack or face the threat of attack or violent resistance.
+
+(7) In paragraph (9), after “this Article” insert
+
+> —
+>
+> (a) to the British Islands include the territorial sea adjacent to the United Kingdom and the territorial sea adjacent to any of the Channel Islands or the Isle of Man (and the reference to any of the British Islands is to be read accordingly);
+>
+> (b) to a member of Her Majesty's forces, in relation to an overseas armed forces action, include an individual who was a member of Her Majesty's forces at the time of the events to which the action relates;
+>
+> (c)
+
+.
+
+### PART 2 — Restriction of foreign limitation law
+
+**2** (1) The Foreign Limitation Periods (Northern Ireland) Order 1985 (S.I. 1985/754 (N.I. 5)) is amended as follows.
+
+(2) In Article 3 (application of foreign limitation law), in paragraph (1)(a), after “proceedings” insert “ , subject to Article 3A ”.
+
+(3) After Article 3 insert—
+
+> **Overseas armed forces actions: restriction of foreign limitation law**
+>
+> **3A** (1) Paragraph (3) applies where—
+>
+> (a) the law of another country relating to limitation applies by reason of Article 3(1)(a) in respect of a matter for the purposes of an overseas armed forces tort action, and
+>
+> (b) the commencement condition applies in relation to that action,
+>
+> and in this Article the law relating to limitation that applies for the purposes of that action is referred to as “the relevant foreign limitation law”.
+>
+> (2) The commencement condition applies in relation to an overseas armed forces tort action if the action commenced on a date which is after the end of the period of 6 years beginning with—
+>
+> (a) the date on which any limitation period specified in the relevant foreign limitation law began to run, or
+>
+> (b) where the relevant foreign limitation law has the effect that the action may be commenced within an indefinite period, the first date on which the action could have been commenced.
+>
+> (3) The relevant foreign limitation law is to be treated as providing the defendant with a complete defence to the action so far as relating to the matter (where that would not otherwise be the case).
+>
+> (4) An “overseas armed forces tort action” means an action—
+>
+> (a) which is an overseas armed forces action as defined in Article 50(1B) of the Limitation (Northern Ireland) Order 1989, and
+>
+> (b) which (under the law of the other country that falls to be taken into account) corresponds to—
+>
+> (i) an action to which Article 7 of that Order applies (personal injuries),
+>
+> (ii) an action in respect of false imprisonment, or
+>
+> (iii) an action under the Fatal Accidents (Northern Ireland) Order 1977 (death).
+>
+> (5) In the application of paragraph (2) to an action in respect of which—
+>
+> (a) in accordance with the relevant foreign limitation law, a limitation period specified in that law has been suspended or interrupted for a period by reason of a person's lacking legal capacity or being under a disability, or
+>
+> (b) in accordance with the relevant foreign limitation law, a period during which a person lacks legal capacity or is under a disability has been disregarded in computing a limitation period specified in that law,
+>
+> the reference to the period of 6 years is to be treated as a reference to the period of 6 years plus the period of suspension or interruption or (as the case may be) the period that was so disregarded.
+>
+> (6) In the application of paragraph (2) to an action in respect of which a limitation period specified in the relevant foreign limitation law has been suspended in accordance with section 1(1) of the Limitation (Enemies and War Prisoners) Act 1945, the reference to the period of 6 years is to be treated as a reference to the period of 6 years plus—
+>
+> (a) the period during which the limitation period was suspended, and
+>
+> (b) any extra period after the suspension ended during which the action could have been brought only because of an extension provided for by section 1(1) of that Act.
+
+(4) In Article 8 (transitional provisions), after paragraph (2) insert—
+
+> (3) Article 3A (overseas armed forces actions: restriction of foreign limitation law) applies to an action commenced in Northern Ireland on or after the date on which that Article comes into force, whenever the events to which the action relates took place.
+
+(5) In Article 9 (disapplication of provisions where the law applicable to limitation is determined by other instruments), in paragraph (1), after “Articles 3” insert “ , 3A ”.
+
+---
+
+[^F1]: Words in s. 7(4) inserted (1.5.2022 for specified purposes, 5.12.2022 in so far as not already in force) by Armed Forces Act 2021 (c. 35), s. 24(1), Sch. 5 para. 52(a); S.I. 2022/471, reg. 2(e); S.I. 2022/1095, reg. 4
+[^F2]: Words in s. 7(4) inserted (1.5.2022 for specified purposes, 5.12.2022 in so far as not already in force) by Armed Forces Act 2021 (c. 35), s. 24(1), Sch. 5 para. 52(b); S.I. 2022/471, reg. 2(e); S.I. 2022/1095, reg. 4
+[^F3]: Sch. 1 para. 11 omitted (31.1.2024) by virtue of Online Safety Act 2023 (c. 50), s. 240(1), Sch. 14 para. 24; S.I. 2024/31, reg. 2

@@ -1,0 +1,379 @@
+---
+title: "Public Interest Disclosure Act 1998"
+identifier: "ukpga/1998/23"
+citation: "1998 c. 23"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S+N.I."
+date: 1998-07-02
+last_amended: 2004-04-01
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/1998/23"
+source_modified: 2017-09-30
+retrieved: 2026-10-11
+---
+
+# Public Interest Disclosure Act 1998
+
+**1998 c. 23**
+
+An Act to protect individuals who make certain disclosures of information in the public interest; to allow such individuals to bring action in respect of victimisation; and for connected purposes.
+
+[2nd July 1998]
+
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## 1 Protected disclosures.
+
+After Part IV of the [^M1]Employment Rights Act 1996 (in this Act referred to as “the 1996 Act”) there is inserted—
+
+> **Part IVA — Protected disclosures**
+>
+> **43A Meaning of “protected disclosure”.**
+>
+> In this Act a “protected disclosure” means a qualifying disclosure (as defined by section 43B) which is made by a worker in accordance with any of sections 43C to 43H.
+>
+> **43B Disclosures qualifying for protection.**
+>
+> (1) In this Part a “qualifying disclosure” means any disclosure of information which, in the reasonable belief of the worker making the disclosure, tends to show one or more of the following—
+>
+> (a) that a criminal offence has been committed, is being committed or is likely to be committed,
+>
+> (b) that a person has failed, is failing or is likely to fail to comply with any legal obligation to which he is subject,
+>
+> (c) that a miscarriage of justice has occurred, is occurring or is likely to occur,
+>
+> (d) that the health or safety of any individual has been, is being or is likely to be endangered,
+>
+> (e) that the environment has been, is being or is likely to be damaged, or
+>
+> (f) that information tending to show any matter falling within any one of the preceding paragraphs has been, is being or is likely to be deliberately concealed.
+>
+> (2) For the purposes of subsection (1), it is immaterial whether the relevant failure occurred, occurs or would occur in the United Kingdom or elsewhere, and whether the law applying to it is that of the United Kingdom or of any other country or territory.
+>
+> (3) A disclosure of information is not a qualifying disclosure if the person making the disclosure commits an offence by making it.
+>
+> (4) A disclosure of information in respect of which a claim to legal professional privilege (or, in Scotland, to confidentiality as between client and professional legal adviser) could be maintained in legal proceedings is not a qualifying disclosure if it is made by a person to whom the information had been disclosed in the course of obtaining legal advice.
+>
+> (5) In this Part “the relevant failure”, in relation to a qualifying disclosure, means the matter falling within paragraphs (a) to (f) of subsection (1).
+>
+> **43C Disclosure to employer or other responsible person.**
+>
+> (1) A qualifying disclosure is made in accordance with this section if the worker makes the disclosure in good faith—
+>
+> (a) to his employer, or
+>
+> (b) where the worker reasonably believes that the relevant failure relates solely or mainly to—
+>
+> (i) the conduct of a person other than his employer, or
+>
+> (ii) any other matter for which a person other than his employer has legal responsibility,
+>
+> to that other person.
+>
+> (2) A worker who, in accordance with a procedure whose use by him is authorised by his employer, makes a qualifying disclosure to a person other than his employer, is to be treated for the purposes of this Part as making the qualifying disclosure to his employer.
+>
+> **43D Disclosure to legal adviser.**
+>
+> A qualifying disclosure is made in accordance with this section if it is made in the course of obtaining legal advice.
+>
+> **43E Disclosure to Minister of the Crown.**
+>
+> A qualifying disclosure is made in accordance with this section if—
+>
+> (a) the worker’s employer is—
+>
+> (i) an individual appointed under any enactment by a Minister of the Crown, or
+>
+> (ii) a body any of whose members are so appointed, and
+>
+> (b) the disclosure is made in good faith to a Minister of the Crown.
+>
+> **43F Disclosure to prescribed person.**
+>
+> (1) A qualifying disclosure is made in accordance with this section if the worker—
+>
+> (a) makes the disclosure in good faith to a person prescribed by an order made by the Secretary of State for the purposes of this section, and
+>
+> (b) reasonably believes—
+>
+> (i) that the relevant failure falls within any description of matters in respect of which that person is so prescribed, and
+>
+> (ii) that the information disclosed, and any allegation contained in it, are substantially true.
+>
+> (2) An order prescribing persons for the purposes of this section may specify persons or descriptions of persons, and shall specify the descriptions of matters in respect of which each person, or persons of each description, is or are prescribed.
+>
+> **43G Disclosure in other cases.**
+>
+> (1) A qualifying disclosure is made in accordance with this section if—
+>
+> (a) the worker makes the disclosure in good faith,
+>
+> (b) he reasonably believes that the information disclosed, and any allegation contained in it, are substantially true,
+>
+> (c) he does not make the disclosure for purposes of personal gain,
+>
+> (d) any of the conditions in subsection (2) is met, and
+>
+> (e) in all the circumstances of the case, it is reasonable for him to make the disclosure.
+>
+> (2) The conditions referred to in subsection (1)(d) are—
+>
+> (a) that, at the time he makes the disclosure, the worker reasonably believes that he will be subjected to a detriment by his employer if he makes a disclosure to his employer or in accordance with section 43F,
+>
+> (b) that, in a case where no person is prescribed for the purposes of section 43F in relation to the relevant failure, the worker reasonably believes that it is likely that evidence relating to the relevant failure will be concealed or destroyed if he makes a disclosure to his employer, or
+>
+> (c) that the worker has previously made a disclosure of substantially the same information—
+>
+> (i) to his employer, or
+>
+> (ii) in accordance with section 43F.
+>
+> (3) In determining for the purposes of subsection (1)(e) whether it is reasonable for the worker to make the disclosure, regard shall be had, in particular, to—
+>
+> (a) the identity of the person to whom the disclosure is made,
+>
+> (b) the seriousness of the relevant failure,
+>
+> (c) whether the relevant failure is continuing or is likely to occur in the future,
+>
+> (d) whether the disclosure is made in breach of a duty of confidentiality owed by the employer to any other person,
+>
+> (e) in a case falling within subsection (2)(c)(i) or (ii), any action which the employer or the person to whom the previous disclosure in accordance with section 43F was made has taken or might reasonably be expected to have taken as a result of the previous disclosure, and
+>
+> (f) in a case falling within subsection (2)(c)(i), whether in making the disclosure to the employer the worker complied with any procedure whose use by him was authorised by the employer.
+>
+> (4) For the purposes of this section a subsequent disclosure may be regarded as a disclosure of substantially the same information as that disclosed by a previous disclosure as mentioned in subsection (2)(c) even though the subsequent disclosure extends to information about action taken or not taken by any person as a result of the previous disclosure.
+>
+> **43H Disclosure of exceptionally serious failure.**
+>
+> (1) A qualifying disclosure is made in accordance with this section if—
+>
+> (a) the worker makes the disclosure in good faith,
+>
+> (b) he reasonably believes that the information disclosed, and any allegation contained in it, are substantially true,
+>
+> (c) he does not make the disclosure for purposes of personal gain,
+>
+> (d) the relevant failure is of an exceptionally serious nature, and
+>
+> (e) in all the circumstances of the case, it is reasonable for him to make the disclosure.
+>
+> (2) In determining for the purposes of subsection (1)(e) whether it is reasonable for the worker to make the disclosure, regard shall be had, in particular, to the identity of the person to whom the disclosure is made.
+>
+> **43J Contractual duties of confidentiality.**
+>
+> (1) Any provision in an agreement to which this section applies is void in so far as it purports to preclude the worker from making a protected disclosure.
+>
+> (2) This section applies to any agreement between a worker and his employer (whether a worker’s contract or not), including an agreement to refrain from instituting or continuing any proceedings under this Act or any proceedings for breach of contract.
+>
+> **43K Extension of meaning of “worker” etc. for Part IVA.**
+>
+> (1) For the purposes of this Part “worker” includes an individual who is not a worker as defined by section 230(3) but who—
+>
+> (a) works or worked for a person in circumstances in which—
+>
+> (i) he is or was introduced or supplied to do that work by a third person, and
+>
+> (ii) the terms on which he is or was engaged to do the work are or were in practice substantially determined not by him but by the person for whom he works or worked, by the third person or by both of them,
+>
+> (b) contracts or contracted with a person, for the purposes of that person’s business, for the execution of work to be done in a place not under the control or management of that person and would fall within section 230(3)(b) if for “personally” in that provision there were substituted “(whether personally or otherwise)”,
+>
+> (c) works or worked as a person providing general medical services, general dental services, general ophthalmic services or pharmaceutical services in accordance with arrangements made—
+>
+> (i) by a Health Authority under section 29, 35, 38 or 41 of the National Health Service Act 1977, or
+>
+> (ii) by a Health Board under section 19, 25, 26 or 27 of the National Health Service (Scotland) Act 1978, or
+>
+> (d) is or was provided with work experience provided pursuant to a training course or programme or with training for employment (or with both) otherwise than—
+>
+> (i) under a contract of employment, or
+>
+> (ii) by an educational establishment on a course run by that establishment;
+>
+> and any reference to a worker’s contract, to employment or to a worker being “employed” shall be construed accordingly.
+>
+> (2) For the purposes of this Part “employer” includes—
+>
+> (a) in relation to a worker falling within paragraph (a) of subsection (1), the person who substantially determines or determined the terms on which he is or was engaged,
+>
+> (b) in relation to a worker falling within paragraph (c) of that subsection, the authority or board referred to in that paragraph, and
+>
+> (c) in relation to a worker falling within paragraph (d) of that subsection, the person providing the work experience or training.
+>
+> (3) In this section “educational establishment” includes any university, college, school or other educational establishment.
+>
+> **43L Other interpretative provisions.**
+>
+> (1) In this Part—
+>
+> - “qualifying disclosure” has the meaning given by section 43B;
+> - “the relevant failure”, in relation to a qualifying disclosure, has the meaning given by section 43B(5).
+>
+> (2) In determining for the purposes of this Part whether a person makes a disclosure for purposes of personal gain, there shall be disregarded any reward payable by or under any enactment.
+>
+> (3) Any reference in this Part to the disclosure of information shall have effect, in relation to any case where the person receiving the information is already aware of it, as a reference to bringing the information to his attention.
+
+## 2 Right not to suffer detriment.
+
+After section 47A of the 1996 Act there is inserted—
+
+> **47B Protected disclosures.**
+>
+> (1) A worker has the right not to be subjected to any detriment by any act, or any deliberate failure to act, by his employer done on the ground that the worker has made a protected disclosure.
+>
+> (2) Except where the worker is an employee who is dismissed in circumstances in which, by virtue of section 197, Part X does not apply to the dismissal, this section does not apply where—
+>
+> (a) the worker is an employee, and
+>
+> (b) the detriment in question amounts to dismissal (within the meaning of that Part).
+>
+> (3) For the purposes of this section, and of sections 48 and 49 so far as relating to this section, “worker”, “worker’s contract”, “employment” and “employer” have the extended meaning given by section 43K.
+
+## 3 Complaints to employment tribunal.
+
+In section 48 of the 1996 Act (complaints to employment tribunals), after subsection (1) there is inserted—
+
+> (1A) A worker may present a complaint to an employment tribunal that he has been subjected to a detriment in contravention of section 47B.
+
+## 4 Limit on amount of compensation.
+
+(1) Section 49 of the 1996 Act (remedies) is amended as follows.
+
+(2) At the beginning of subsection (2) there is inserted “ Subject to subsection (6) ”.
+
+(3) After subsection (5) there is inserted—
+
+> (6) Where—
+>
+> (a) the complaint is made under section 48(1A),
+>
+> (b) the detriment to which the worker is subjected is the termination of his worker’s contract, and
+>
+> (c) that contract is not a contract of employment,
+>
+> any compensation must not exceed the compensation that would be payable under Chapter II of Part X if the worker had been an employee and had been dismissed for the reason specified in section 103A.
+
+## 5 Unfair dismissal.
+
+After section 103 of the 1996 Act there is inserted—
+
+> **103A Protected disclosure.**
+>
+> An employee who is dismissed shall be regarded for the purposes of this Part as unfairly dismissed if the reason (or, if more than one, the principal reason) for the dismissal is that the employee made a protected disclosure.
+
+## 6 Redundancy.
+
+After subsection (6) of section 105 of the 1996 Act (redundancy) there is inserted—
+
+> (6A) This subsection applies if the reason (or, if more than one, the principal reason) for which the employee was selected for dismissal was that specified in section 103A.
+
+## 7 Exclusion of restrictions on right not to be unfairly dismissed.
+
+(1) In subsection (3) of section 108 of the 1996 Act (cases where qualifying period of employment not required), after paragraph (f) there is inserted—
+
+> (ff) section 103A applies,
+
+(2) In subsection (2) of section 109 of the 1996 Act (disapplication of upper age limit), after paragraph (f) there is inserted—
+
+> (ff) section 103A applies,
+
+.
+
+## [^F1]8 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 9 Interim relief.
+
+In sections 128(1)(b) and 129(1) of the 1996 Act (which relate to interim relief) for “or 103” there is substituted “ , 103 or 103A ”.
+
+## 10 Crown employment.
+
+In section 191 of the 1996 Act (Crown employment), in subsection (2) after paragraph (a) there is inserted—
+
+> (aa) Part IVA,
+
+.
+
+## [^F2]11 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 12 Work outside Great Britain.
+
+(1) Section 196 of the 1996 Act (employment outside Great Britain) is amended as follows.
+
+(2) After subsection (3) there is inserted—
+
+> (3A) Part IVA and section 47B do not apply to employment where under the worker’s contract he ordinarily works outside Great Britain.
+
+(3) In subsection (5), after “subsections (2)” there is inserted “ , (3A) ”.
+
+## [^F3]13 Police officers.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 14 Remedy for infringement of rights.
+
+In section 205 of the 1996 Act (remedy for infringement of certain rights) after subsection (1) there is inserted—
+
+> (1A) In relation to the right conferred by section 47B, the reference in subsection (1) to an employee has effect as a reference to a worker.
+
+## 15 Interpretative provisions of 1996 Act.
+
+(1) At the end of section 230 of the 1996 Act (employees, workers etc) there is inserted—
+
+> (6) This section has effect subject to sections 43K and 47B(3); and for the purposes of Part XIII so far as relating to Part IVA or section 47B, “worker”, “worker’s contract” and, in relation to a worker, “employer”, “employment” and “employed” have the extended meaning given by section 43K.
+
+(2) In section 235 of the 1996 Act (other definitions) after the definition of “position” there is inserted—
+
+> - “protected disclosure” has the meaning given by section 43A,
+
+.
+
+## 16 Dismissal of those taking part in unofficial industrial action.
+
+(1) In section 237 of the [^M2]Trade Union and Labour Relations (Consolidation) Act 1992 (dismissal of those taking part in unofficial industrial action), in subsection (1A) (which provides that the exclusion of the right to complain of unfair dismissal does not apply in certain cases)—
+
+(a) for “or 103” there is substituted “ , 103 or 103A ”, and
+
+(b) for “and employee representative cases)” there is substituted “ employee representative and protected disclosure cases) ”.
+
+## 17 Corresponding provision for Northern Ireland.
+
+An Order in Council under paragraph 1(1)(b) of Schedule 1 to the [^M3]Northern Ireland Act 1974 (legislation for Northern Ireland in the interim period) which states that it is made only for purposes corresponding to those of this Act—
+
+(a) shall not be subject to paragraph 1(4) and (5) of that Schedule (affirmative resolution of both Houses of Parliament), but
+
+(b) shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+## 18 Short title, interpretation, commencement and extent.
+
+(1) This Act may be cited as the Public Interest Disclosure Act 1998.
+
+(2) In this Act “the 1996 Act” means the [^M4]Employment Rights Act 1996.
+
+(3) Subject to subsection (4), this Act shall come into force on such day or days as the Secretary of State may by order made by statutory instrument appoint, and different days may be appointed for different purposes.
+
+(4) The following provisions shall come into force on the passing of this Act—
+
+(a) section 1 so far as relating to the power to make an order under section 43F of the 1996 Act,
+
+[^F4]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(c) section 17, and
+
+(d) this section.
+
+(5) This Act, except section 17, does not extend to Northern Ireland.
+
+---
+
+[^M1]: 1996 c. 18.
+[^F1]: S. 8 repealed (25.10.1999) by 1999 c. 26, s. 44, Sch. 9(11); S.I. 1999/2830, art. 2(3), Sch. 2 Pt.I
+[^F2]: S. 11 repealed (16.7.2001) by 1999 c. 26, s. 44, Sch. 9(12); S.I. 2001/1187, art. 3(b) (as amended by S.I. 2001/1461, art. 2(2))
+[^F3]: S. 13 repealed (1.4.2004) by Police Reform Act 2002 (c. 30), ss. 37(3), 108(2), Sch. 8; S.I. 2004/913, art. 2(b)(f)(vii)
+[^M2]: 1992 c. 52.
+[^M3]: 1974 c. 28.
+[^M4]: 1996 c.18.
+[^F4]: S. 18(4)(b) repealed (25.10.1999) by 1999 c.26, s. 44, Sch. 9(11); S.I. 1999/2830, art. 2(3), Sch. 2 Pt. I

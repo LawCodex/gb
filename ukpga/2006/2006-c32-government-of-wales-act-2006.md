@@ -1,0 +1,12471 @@
+---
+title: "Government of Wales Act 2006"
+identifier: "ukpga/2006/32"
+citation: "2006 c. 32"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S+N.I."
+date: 2006-07-25
+last_amended: 2026-09-16
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/2006/32"
+source_modified: 2026-09-18
+retrieved: 2026-10-11
+---
+
+# Government of Wales Act 2006
+
+**2006 c. 32**
+
+An Act to make provision about the government of Wales.
+
+[25th July 2006]
+
+Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## [[^F1]Part A1 — Permanence of the [[^F2]Senedd] and Welsh Government
+
+### A1 Permanence of the [[^F2]Senedd] and Welsh Government
+
+(1) The [[^F2]Senedd] established by Part 1 and the Welsh Government established by Part 2 are a permanent part of the United Kingdom's constitutional arrangements.
+
+(2) The purpose of this section is, with due regard to the other provisions of this Act, to signify the commitment of the Parliament and Government of the United Kingdom to the [[^F2]Senedd] and the Welsh Government.
+
+(3) In view of that commitment it is declared that the [[^F2]Senedd] and the Welsh Government are not to be abolished except on the basis of a decision of the people of Wales voting in a referendum.
+
+### A2 Recognition of Welsh law
+
+(1) The law that applies in Wales includes a body of Welsh law made by the [[^F2]Senedd] and the Welsh Ministers.
+
+(2) The purpose of this section is, with due regard to the other provisions of this Act, to recognise the ability of the [[^F2]Senedd] and the Welsh Ministers to make law forming part of the law of England and Wales.]
+
+## Part 1 — [[^F3]Senedd Cymru]
+
+### The [[^F2]Senedd]
+
+#### 1 The [[^F2]Senedd]
+
+(1) There is to be [[^F4]a parliament] for Wales to be known as [[^F5]Senedd Cymru or the Welsh Parliament (referred to in this Act as “the Senedd].
+
+[[^F6](2) There are—
+
+(a) 16 Senedd constituencies, and
+
+(b) six seats for each constituency, and
+
+the Senedd is to consist of the members for those constituencies.]
+
+[[^F7](2A) Members of the Senedd are to be known by that name or as Aelodau o'r Senedd.]
+
+(3) [[^F8]Members of the Senedd] are to be returned in accordance with the provision made by and under this Act for—
+
+(a) the holding of general elections of [[^F9]Members of the Senedd] (for the return of the entire [[^F2]Senedd]), and
+
+(b) the filling of vacancies in [[^F2]Senedd] seats.
+
+(4) The validity of any [[^F2]Senedd] proceedings is not affected by any vacancy in its membership.
+
+(5) In this Act “ [[^F2]Senedd] proceedings” means any proceedings of—
+
+(a) the [[^F2]Senedd],
+
+(b) committees of the [[^F2]Senedd], or
+
+(c) sub-committees of such committees.
+
+#### 2 [[^F10]Senedd constituencies
+
+(1) The Senedd constituencies are the constituencies specified in regulations under section 49J of the Democracy and Boundary Commission Cymru etc. Act 2013 (anaw 4).
+
+(2) Until the first set of regulations made under‍‍ that section takes effect, the reference in subsection (1) above to regulations under that section is to be read as a reference to regulations under paragraph 9 of Schedule 2 to the Senedd Cymru (Members and Elections) Act 2024 (asc 4).]
+
+### General elections
+
+#### 3 Ordinary general elections
+
+(1) The poll at an ordinary general election is to be held on the first Thursday in May in the [[^F11]fourth] calendar year following that in which the previous ordinary general election was held, [[^F12]unless—
+
+(a) subsection (1A) prevents the poll being held on that day, or
+
+(b) the day of the poll is determined by a proclamation under section 4.]
+
+[[^F13](1A) The poll is not to be held on the same date as the date of the poll at—
+
+(a) a parliamentary general election [^F14]..., [^F15]...
+
+[^F15]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(1B) Where subsection (1A) prevents the poll being held on the day specified in subsection (1), the poll is to be held on such day, subject to subsection (1A), as the Welsh Ministers may by order specify unless the day of the poll is determined by a proclamation under section 4(2) as modified by section 4(2A).]
+
+(2) If the poll is to be held on the first Thursday in May [[^F16] or on the day specified by an order under subsection (1B) ], the [[^F2]Senedd] —
+
+(a) is dissolved by virtue of this section at the beginning of the minimum period which ends with that day, and
+
+(b) must meet within the period of [[^F17]fourteen] days beginning immediately after the day of the poll.
+
+(3) In subsection (2) “the minimum period” means the period determined in accordance with an order under section 13.
+
+(4) In calculating any period of days for the purposes of subsection (2)(b), the following days are to be disregarded—
+
+(a) Saturday and Sunday,
+
+(b) any day which is a bank holiday in Wales under the Banking and Financial Dealings Act 1971 (c. 80), and
+
+(c) any day appointed for public thanksgiving or mourning.
+
+[[^F18](5) No order is to be made under subsection (1B) unless a draft of the statutory instrument containing it has been laid before, and approved by a resolution of, the [[^F2]Senedd].]
+
+#### 4 Power to vary date of ordinary general election
+
+[[^F19](1) Subject to section 3(1A), the Presiding Officer may propose, for the holding of the poll at an ordinary general election, a day which is not more than one month earlier, nor more than one month later, than the first Thursday in May.]
+
+[[^F19](2) If the Presiding Officer proposes a day under subsection (1), Her Majesty may by proclamation under the Welsh Seal—
+
+(a) dissolve the [[^F2]Senedd],
+
+(b) require the poll at the election to be held on the day proposed, and
+
+(c) require the [[^F2]Senedd] to meet within the period of [[^F20]fourteen] days beginning immediately after the day of the poll.]
+
+[[^F19](2A) Where a day is specified by an order under section 3(1B), subsection (1) applies as if the reference to the first Thursday in May were a reference to that day.]
+
+(3) In calculating any period of days for the purposes of provision made by virtue of subsection [[^F21](2)(c)], the following days are to be disregarded—
+
+(a) Saturday and Sunday,
+
+(b) Good Friday,
+
+(c) any day which is a bank holiday in Wales under the Banking and Financial Dealings Act 1971 (c. 80), and
+
+(d) any day appointed for public thanksgiving or mourning.
+
+(4) [[^F22]The Welsh Ministers may by order] make provision for—
+
+(a) any provision of, or made under, the Representation of the People Acts, or
+
+(b) any other enactment relating to the election of [[^F9]Members of the Senedd ],
+
+to have effect with such modifications or exceptions as the [[^F23]Welsh Ministers consider] appropriate in connection with the alteration of the day of the poll [[^F24] under this section ].
+
+[^F25]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6) A statutory instrument containing an order under this section is subject to annulment in pursuance of a resolution of [[^F26]the [[^F2]Senedd]].
+
+#### 5 Extraordinary general elections
+
+(1) The [[^F27]Presiding Officer] must propose a day for the holding of a poll at an extraordinary general election if subsection (2) or (3) applies.
+
+(2) This subsection applies if—
+
+(a) the [[^F2]Senedd] resolves that it should be dissolved, and
+
+(b) the resolution of the [[^F2]Senedd] is passed on a vote in which the number of [[^F9]Members of the Senedd] voting in favour of it is not less than two-thirds of the total number of [[^F2]Senedd] seats.
+
+(3) This subsection applies if any period during which the [[^F2]Senedd] is required under section 47 to nominate [[^F28]a Member of the Senedd] for appointment as the First Minister ends without such a nomination being made.
+
+(4) If the [[^F29]Presiding Officer] proposes a day under subsection (1), Her Majesty may by [[^F30]proclamation under the Welsh Seal]—
+
+(a) dissolve the [[^F2]Senedd] and require an extraordinary general election to be held,
+
+(b) require the poll at the election to be held on the day proposed, and
+
+(c) require the [[^F2]Senedd] to meet within the period of [[^F31]fourteen] days beginning immediately after the day of the poll.
+
+(5) If a poll is held under this section within the period of six months ending with the day on which the poll at the next ordinary general election would be held (disregarding section 4), that ordinary general election is not to be held.
+
+(6) But subsection (5) does not affect the year in which the subsequent ordinary general election is to be held.
+
+(7) In calculating any period of days for the purposes of subsection (4)(c), the following days are to be disregarded—
+
+(a) Saturday and Sunday,
+
+(b) Christmas Eve, Christmas Day and Good Friday,
+
+(c) any day which is a bank holiday in Wales under the Banking and Financial Dealings Act 1971 (c. 80), and
+
+(d) any day appointed for public thanksgiving or mourning.
+
+#### 6 [[^F32]Voting at general elections
+
+(1) Each person entitled to vote at a general election in a Senedd constituency may give a vote for—
+
+(a) a registered political party that has submitted a list of candidates to be Members of the Senedd for the constituency, or
+
+(b) an individual who is a candidate (“an individual candidate”) to be a Member of the Senedd for the constituency.
+
+(2) An order under section 13 must provide for the ballot paper used at a general election in a Senedd constituency to include the names of the candidates who stand nominated to be Members of the Senedd for the constituency.
+
+‍3 In this Act “registered political party” means a party registered under Part 2 of the Political Parties, Elections and Referendums Act 2000 (c. ‍41).
+
+#### 7 Candidates at general elections
+
+(1) A registered political party may submit a list of candidates to be Members of the Senedd for a particular Senedd constituency at a general election.
+
+(2) The list must be submitted to the constituency returning officer.
+
+(3) The list must not include more than eight people (but may include only one).
+
+(4) The list must not include a person—
+
+(a) who is included on another list submitted under this section (whether for the constituency or another constituency);
+
+(b) who is an individual candidate to be a Member of the Senedd (whether for the constituency or another constituency).
+
+(5) A person may not be an individual candidate to be a Member of the Senedd for a constituency if that person is—
+
+(a) included on a list submitted under this section (whether for the constituency or another constituency);
+
+(b) an individual candidate to be a Member of the Senedd for another constituency.
+
+(6) In this Act “constituency returning officer”, in relation to a Senedd constituency, means the person designated as the returning officer for the constituency in accordance with an order under section 13 (power of the Welsh Ministers to make provision about elections etc.).
+
+#### 8 Calculation of seat allocation figures
+
+(1) This section and section 9 are about the allocation, to registered political parties or individual candidates, of the seats for a Senedd constituency at a general election.
+
+(2) For each registered political party by which a list of candidates has been submitted under section 7 (candidates at general elections) for the constituency—
+
+(a) the votes given in the constituency for the party are to be added up, and
+
+(b) the number arrived at under paragraph (a) is to be divided by the seat allocation divisor.
+
+(3) On the first calculation for a party under subsection (2)(b), the seat allocation divisor for the party is one (section 9 makes provision about recalculations under that subsection with an increased divisor).
+
+(4) For each individual candidate to be a Member of the Senedd for the constituency, the votes given in the constituency for the candidate are to be added up.
+
+(5) The number arrived at—
+
+(a) in the case of a registered political party, under subsection (2)(b), or
+
+(b) in the case of an individual candidate, under subsection (4),
+
+is referred to in section 9 as the “seat allocation figure” for that party or individual candidate.
+
+#### 9 Allocation of seats
+
+(1) The first seat for a Senedd constituency is to be allocated to the registered political party or individual candidate with the highest seat allocation figure.
+
+(2) The second and subsequent seats for the constituency are to be allocated to the party or individual candidate with the highest seat allocation figure after any recalculation required by subsection (3) has been carried out.
+
+(3) This subsection requires a recalculation of the seat allocation figure for a registered political party—
+
+(a) for the first application of subsection (2), if the application of subsection (1) resulted in the allocation to the party of a seat for the constituency, or
+
+(b) for any subsequent application of subsection (2), if the previous application of that subsection resulted in the allocation to the party of a seat for the constituency,
+
+and each recalculation is to be carried out under section 8(2)(b) after adding one to the previous seat allocation divisor for that party.
+
+(4) An individual candidate already allocated a seat as a Member of the Senedd for the constituency is to be disregarded when applying subsection (2).
+
+(5) Seats for the constituency that are allocated to a party are to be filled by the candidates on the party’s list in the order in which they appear on the list.
+
+(6) Once a party’s list has been exhausted (by the application of subsection (1) or (2)), the party is to be disregarded when applying subsection (2).
+
+(7) If, on the application of subsection (1) or on an application of subsection (2), the highest seat allocation figure is the seat allocation figure for two or more parties or individual candidates (referred to in subsection (8) as the “tied seat allocation figure”), subsection (1) or (2) (as the case may be) applies to each of them.
+
+(8) But if subsection (7) would mean that more than the full number of seats for the constituency were allocated, subsection (1) or (2) is not to be applied until—
+
+(a) a recalculation of the seat allocation figure for any party with the tied seat allocation figure has been carried out under section 8(2)(b) after adding one to the number arrived at under section 8(2)(a), and
+
+(b) one has been added to the number arrived at under section 8(4) for any individual candidate with the tied seat allocation figure.
+
+(9) If, after that, the highest seat allocation figure is still the seat allocation figure for two or more parties or individual candidates (so it is still the case that more than the full number of seats for the constituency would be allocated), the constituency returning officer must decide between them by lots.]
+
+### Vacancies
+
+#### [^F33]10 Constituency vacancies
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 11 [[^F34]Vacant seats
+
+(1) This section makes provision about what is to happen if the seat of a Member of the Senedd becomes vacant.
+
+(2) If the Member was an individual candidate when returned as a Member of the Senedd, the seat remains vacant until the next general election.
+
+(3) If the Member was returned as a Member of the Senedd from a list submitted under section 7 by a registered political party, the constituency returning officer must notify to the Presiding Officer the name of the person (if any) who is to fill the vacancy.
+
+(4) A person’s name may be notified under subsection (3) only if the person—
+
+(a) is included on the list mentioned in subsection (3),
+
+(b) is willing to serve as a Member of the Senedd, and
+
+(c) is not a person to whom subsection (5) applies.
+
+(5) This subsection applies to a person if—
+
+(a) the person is not a member of the registered political party that submitted the list, and
+
+(b) the party gives notice to the constituency returning officer that the person’s name is not to be notified to the Presiding Officer as the name of the person who is to fill the vacancy.
+
+(6) But if there is more than one person who satisfies the conditions in subsection (4), the constituency returning officer may only notify the name of whichever of them was the higher, or the highest, on the list.
+
+(7) If there is no-one who satisfies the conditions in subsection (4), the seat remains vacant until the next general election.
+
+(8) A person whose name is notified under subsection (3) is to be treated as having been declared to be returned as a Member of the Senedd on the day on which notification of the person’s name is received by the Presiding Officer.
+
+(9) For the purposes of this section, a person included on the list mentioned in subsection (3)—
+
+(a) who was returned as a Member of the Senedd at the election for which the list was submitted (even if the return was void), or
+
+(b) who was subsequently returned as a Member of the Senedd under this section (even if the return was void),
+
+is treated on and after their return as not having been included on the list.]
+
+### Franchise and conduct of elections
+
+#### 12 Entitlement to vote
+
+(1) The persons entitled to vote at an election of [[^F9]Members of the Senedd] [^F35]... in [[^F36]a Senedd] constituency are those who on the day of the poll—
+
+(a) would be entitled to vote as electors at a local government election in an electoral area wholly or partly included in the [[^F2]Senedd] constituency [^F37]..., and
+
+(b) are registered in the register of local government electors at an address within the [[^F2]Senedd] constituency.
+
+[^F38]1A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F39]1B . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) But a person is not entitled as an elector—
+
+(a) to cast more than one [[^F40]vote] in the same [[^F2]Senedd] constituency at any general election, [[^F41]or]
+
+(b) to vote in more than one [[^F2]Senedd] constituency at any general election, [^F42]...
+
+[^F42]c . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 13 [[^F43]Power of the Welsh Ministers to make provision about elections etc
+
+(1) The Welsh Ministers may by order make provision that would be within the legislative competence of the [[^F2]Senedd], if included in an Act of the [[^F2]Senedd], as to—
+
+(a) the conduct of elections of [[^F9]Members of the Senedd],
+
+(b) the questioning of an election of [[^F9]Members of the Senedd] and the consequences of irregularities, and
+
+(c) the return of [[^F28]a Member of the Senedd] otherwise than at an election.
+
+(2) The provision that may be made under subsection (1)(a) includes, in particular, provision—
+
+(a) about the registration of electors,
+
+(b) for disregarding alterations in a register of electors,
+
+(c) about the limitation of the election expenses of candidates [^F44]...,
+
+(d) for the combination of polls,
+
+(e) [^F45]... and
+
+(f) for modifying section 9(7) to ensure the allocation of the correct number of seats for the [[^F46]constituency].
+
+[[^F47](2A) The Welsh Ministers must make provision, of the kind that may be made under subsection (1)(a), prohibiting the making or publishing of false or misleading statements of fact before or during an election for the purpose of affecting the return of any candidate.
+
+(2B) The provision required by subsection (2A) may include, in particular, provision—
+
+(a) about what is or is not a statement of fact;
+
+(b) prohibiting false statements only or both false and misleading statements;
+
+(c) specifying the period in which any prohibition has effect;
+
+(d) prohibiting false or misleading statements of fact relating to matters specified in the order or matters generally;
+
+(e) prohibiting false or misleading statements of fact made or published by persons or categories of person specified in the order or any person;
+
+(f) prohibiting the making or publishing of false or misleading statements knowingly or recklessly;
+
+(g) specifying exemptions or exceptions to any prohibition.]
+
+(3) The provision that may be made under subsection (1)(c) includes, in particular, provision modifying section [[^F48]11(4) to (6)].
+
+(4) An order under this section may—
+
+(a) apply or incorporate, with or without modifications or exceptions, any provision of or made under the election enactments, and
+
+(b) so far as may be necessary in consequence of any provision made by an order under this section, make modifications of any provision made by or under any enactment relating to the registration of parliamentary electors or local government electors.
+
+[[^F49](4A) For the avoidance of doubt, an order under this section may—
+
+(a) confer a power or duty on any person (including a power or duty to make subordinate legislation);
+
+(b) create criminal offences.]
+
+(5) In subsection (4)(a) “"the election enactments”” means—
+
+(a) the Representation of the People Acts,
+
+(b) the Political Parties, Elections and Referendums Act 2000,
+
+(c) [^F50]... and
+
+(d) any other enactments relating to parliamentary elections [^F51]... or local government elections.
+
+(6) No return of [[^F28]a Member of the Senedd] at an election may be questioned except by an election petition under the provisions of Part 3 of the Representation of the People Act 1983 as applied or incorporated in an order under this section.
+
+(7) No order is to be made under this section unless a draft of the statutory instrument containing it has been laid before, and approved by a resolution of, the [[^F2]Senedd].]
+
+#### 13A [[^F43]Power of the Secretary of State to make provision about the combination of polls
+
+(1) The Secretary of State may by regulations make provision for—
+
+(a) the combination of polls at ordinary general elections of [[^F9]Members of the Senedd] with polls at [[^F52]parliamentary by-elections], and
+
+(b) the combination of polls at extraordinary general elections of [[^F9]Members of the Senedd] [^F53]... with polls at [[^F54]parliamentary by-elections or parliamentary general elections].
+
+[^F55]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F56]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) The Secretary of State may not make regulations under this section without the agreement of the Welsh Ministers.
+
+(5) Regulations under this section may—
+
+(a) apply or incorporate, with or without modifications or exceptions, any provision made by or under the election enactments, and
+
+(b) modify any form contained in, or in regulations or rules made under, the Representation of the People Acts so far as may be necessary to enable it to be used both for the original purpose and in relation to elections of [[^F9]Members of the Senedd].
+
+(6) In subsection (5)(a) “"the election enactments”” has the meaning given by section 13(5).
+
+(7) No regulations are to be made under this section unless a draft of the statutory instrument containing them has been laid before, and approved by a resolution of, each House of Parliament.]
+
+#### 13B [[^F57]Power to make provision about the use of the UK digital service for absent voting applications
+
+(1) A Minister of the Crown or the Welsh Ministers may by regulations make provision about the use of the UK digital service in relation to absent voting applications.
+
+(2) The provision that may be made under subsection (1) includes, in particular, provision—
+
+(a) conferring functions on a Minister of the Crown to enable absent voting applications to be submitted through the UK digital service;
+
+(b) where such applications are, or are to be, so submitted—
+
+(i) authorising a Minister of the Crown, in prescribed circumstances, to complete applications in part for people;
+
+(ii) about how any requirement for an applicant to provide a signature in connection with an application may be satisfied;
+
+(c) about the disclosure of prescribed information or evidence through the UK digital service;
+
+(d) about the disclosure of prescribed information or evidence in connection with an absent voting application in relation to which the UK digital service is, or is to be, used.
+
+(3) Subject to subsection (4), the disclosure or other processing of information in accordance with provision made under this section does not breach—
+
+(a) any obligation of confidence owed by the person processing the information;
+
+(b) any other restriction on the processing of information (however imposed).
+
+(4) Provision made under this section does not require or authorise the disclosure or other processing of personal data that would contravene the data protection legislation (but in determining whether particular processing of data would do so, take into account the duty imposed or the powers conferred by such provision).
+
+(5) The Welsh Ministers may not make regulations under this section without the agreement of a Minister of the Crown.
+
+(6) No regulations may be made under this section by a Minister of the Crown unless a draft of a statutory instrument containing them has been laid before, and approved by a resolution of, each House of Parliament.
+
+(7) No regulations may be made under this section by the Welsh Ministers unless a draft of a statutory instrument containing them has been laid before, and approved by a resolution of, the Senedd.
+
+(8) In this section—
+
+- “absent voting application” means an application (including a partially completed application) to vote by post or proxy at an election for membership of the Senedd, or at elections for membership of the Senedd, in accordance with an order under section 13;
+- “the data protection legislation” has the same meaning as in the Data Protection Act 2018 (see section 3(9) of that Act);
+- “personal data” and “processing” have the same meaning as in the Data Protection Act 2018 (see section 3(2) and (4) of that Act);
+- “prescribed” means prescribed by regulations made under this section;
+- “the UK digital service” means a digital service provided by a Minister of the Crown for the registration of electors, and a reference to an absent voting application submitted through the UK digital service is a reference to such an application submitted using that service as an intermediary.]
+
+### Duration of membership
+
+#### 14 Term of office of [[^F9]Members of the Senedd]
+
+The term of office of [[^F28]a Member of the Senedd] —
+
+(a) begins when the [[^F58]Member of the Senedd] is declared to be returned, and
+
+(b) ends with the dissolution of the [[^F2]Senedd].
+
+#### 15 Resignation of members
+
+[[^F28]A Member of the Senedd] may at any time resign by giving notice in writing to the Presiding Officer.
+
+### Disqualification
+
+#### 16 Disqualification from being [[^F58]Member of the Senedd]
+
+[[^F59](A1) A person is disqualified from being a Member of the Senedd, and from being a candidate to be a Member of the Senedd, if that person—
+
+(a) falls within any of the categories of person specified in Part 1 of Schedule 1A, or
+
+(b) holds any of the offices specified in the Table in Part 2 of Schedule 1A.]
+
+(1) [[^F60]A person is disqualified from being a Member of the Senedd (but not from being a candidate to be a Member of the Senedd) if that person—]
+
+[[^F61](za) is a member of the House of Commons (but see sections 17A [^F62]...),]
+
+[[^F63](zb) is a member of the House of Lords (but see section 17C),
+
+[[^F64](zc) is a member of the council of a county, a county borough or a community in Wales (but see section 17D),]
+
+(zd) is a member of the Scottish Parliament,
+
+(ze) is a member of the Northern Ireland Assembly,
+
+(zf) is a member of the European Parliament, or]
+
+[^F65]a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) holds any of the offices for the time being designated by Order in Council as offices disqualifying persons from being [[^F9]Members of the Senedd],
+
+[^F66]c . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F66]d . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F66]e . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[[^F67](1A) A person returned at an election as a Member of the Senedd is not disqualified under subsection (1)(zd), (ze), (zf) or (b) at any time before the person purports to take the oath of allegiance (or make the corresponding affirmation) in compliance with section 23(1) or 55(2).]
+
+[^F68]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F69]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F68]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) An Order in Council under paragraph (b) of subsection (1)—
+
+(a) may designate particular offices or offices of any description, and
+
+(b) may designate an office by reference to any characteristic of a person holding it,
+
+and [[^F70]for the purposes of this section] “office” includes any post or employment.
+
+(6) No recommendation is to be made to Her Majesty in Council to make an Order in Council under subsection (1)(b) unless a draft of the statutory instrument containing the Order in Council has been laid before, and approved by a resolution of, the [[^F2]Senedd].
+
+#### 17 [[^F71]Relief] from disqualification
+
+[^F72]1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F72]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) The [[^F2]Senedd] may resolve that the disqualification of any person who was, or is alleged to have been, disqualified from being [[^F28]a Member of the Senedd] on a ground within section 16(1) [^F73]... is to be disregarded if it appears to the [[^F2]Senedd] —
+
+(a) that the ground has been removed, and
+
+(b) that it is proper so to resolve.
+
+(4) A resolution under subsection (3) does not—
+
+(a) affect any proceedings under Part 3 of the Representation of the People Act 1983 (c. 2) as applied by or incorporated in an order under section 13, or
+
+(b) enable the [[^F2]Senedd] to disregard any disqualification which has been established in such proceedings or in proceedings under section 19.
+
+#### 17A [[^F74]Exception from disqualification by virtue of being an MP: recently elected members
+
+(1) A person returned at an election as [[^F28]a Member of the Senedd] is not disqualified under section 16(1)(za) (disqualification by virtue of being an MP) at any time in the period of 8 days beginning with the day the person is so returned.
+
+(2) Subsection (3) applies where a person—
+
+(a) is returned at an election as [[^F28]a Member of the Senedd],
+
+(b) on being so returned is a candidate for election to the House of Commons, and
+
+(c) is subsequently returned at that election as a member of that House.
+
+(3) The person is not disqualified under section 16(1)(za) at any time in the period of 8 days beginning with the day the person is returned as a member of the House of Commons.
+
+(4) A person is a “candidate for election to the House of Commons” if the person's nomination paper for election as a member of the House of Commons has been delivered to the returning officer under rule 6 of Schedule 1 to the Representation of the People Act 1983 (parliamentary election rules).]
+
+#### [^F75]17B Exception from disqualification by virtue of being an MP: general election of [[^F9]Members of the Senedd] within 372 days
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 17C [[^F76]Exception from disqualification by virtue of being a member of the House of Lords
+
+(1) A person returned at an election as a Member of the Senedd is not disqualified under section 16(1)(zb) (disqualification by virtue of being a member of the House of Lords) at any time in the period of eight days beginning with the day the person is so returned.
+
+(2) A Member of the Senedd who becomes a member of the House of Lords is not disqualified under section 16(1)(zb) at any time before the end of the period of eight days beginning with the day the person makes and subscribes the oath required by the Parliamentary Oaths Act 1866 (c. 19) (or the corresponding affirmation).
+
+(3) A person is not disqualified from being a Member of the Senedd under section 16(1)(zb) at any time when the person—
+
+(a) has leave of absence from the House of Lords, or
+
+(b) has made an application for leave of absence which has not been withdrawn or refused.
+
+(4) A person who is on leave of absence from the House of Lords immediately before Parliament is dissolved is not disqualified from being a Member of the Senedd under section 16(1)(zb) at any time in the period—
+
+(a) beginning with the dissolution of the old Parliament, and
+
+(b) ending at the end of the period of eight days beginning with the day of the first meeting of the new Parliament.]
+
+#### 17D [[^F77]Exception from disqualification by virtue of being a councillor: recently elected members
+
+(1) A person returned at an election as a Member of the Senedd is not disqualified under section 16(1)(zc) (disqualification by virtue of being a member of the council of a county or county borough [[^F78]or community council] in Wales) at any time before the person purports to take the oath of allegiance (or make the corresponding affirmation) in compliance with section 23(1) or 55(2).
+
+(2) A Member of the Senedd who is returned at an election as a member of the council of a county or county borough [[^F79]or community council] in Wales is not disqualified under section 16(1)(zc) at any time before the person makes a declaration of acceptance of office under section 83 of the Local Government Act 1972 (c. 70).]
+
+#### [^F80]17E Exception from disqualification by virtue of being a councillor: ordinary election of councillors within 372 days
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F81]17F Exception from disqualification by virtue of being a councillor: general election of Members of the Senedd within 372 days
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 18 Effect of disqualification
+
+[[^F82](A1) If a person who is disqualified from being a candidate to be a Member of the Senedd (see section 16(A1)) is nominated as a candidate at a general election of Members of the Senedd [^F83]..., the person's nomination is void.]
+
+(1) If a person who is disqualified from being [[^F28]a Member of the Senedd] is returned as [[^F28]a Member of the Senedd], the person's return is void and the person's seat is vacant.
+
+[^F84]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) If a person who is [[^F28]a Member of the Senedd] becomes disqualified—
+
+(a) from being [[^F28]a Member of the Senedd], [^F85]...
+
+[^F85]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+the person ceases to be [[^F28]a Member of the Senedd] (so that the person's seat is vacant).
+
+(4) Subsections (1) to (3) have effect subject to any resolution of the [[^F2]Senedd] under section 17(3).
+
+(5) In addition, subsection (3) has effect subject to—
+
+[^F86]a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[[^F87](aa) section 31 of the Elections Act 2022 (disqualification of offenders for holding elective office etc);]
+
+(b) section 427 of the Insolvency Act 1986 (c. 45) (bankruptcy etc.).
+
+(6) If, in consequence of [[^F88]either of the provisions] mentioned in subsection (5), the seat of a person who is disqualified from being [[^F28]a Member of the Senedd] is not vacant, the person does not cease to be [[^F28]a Member of the Senedd] until the person's seat becomes vacant.
+
+(7) But for any period for which the person is disqualified but the person's seat is not vacant—
+
+(a) the person must not participate in any [[^F2]Senedd] proceedings, and
+
+(b) any of the person's other rights and privileges as [[^F28]a Member of the Senedd] may be withdrawn by the [[^F2]Senedd].
+
+(8) The validity of any [[^F2]Senedd] proceedings is not affected by the disqualification of any person—
+
+(a) from being [[^F28]a Member of the Senedd], [^F89]...
+
+[^F89]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 19 Judicial proceedings as to disqualification
+
+(1) Any person who claims that a person purporting to be [[^F28]a Member of the Senedd] is, or at any time since being returned as [[^F28]a Member of the Senedd] has been, disqualified from being—
+
+(a) [[^F28]a Member of the Senedd] , [^F90]...
+
+[^F90]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+may apply to the High Court for a declaration to that effect.
+
+(2) An application under subsection (1) in respect of any person may be made whether the grounds on which it is made are alleged to have subsisted at the time when the person was returned or to have arisen subsequently.
+
+(3) No declaration may be made under this section in respect of any person—
+
+(a) on grounds which subsisted when the person was returned, if an election petition is pending or has been tried in which the person's disqualification on those grounds is or was in issue, or
+
+(b) on any ground, if a resolution of the [[^F2]Senedd] under section 17(3) requires that any disqualification incurred by the person on that ground is to be disregarded.
+
+(4) On an application under this section—
+
+(a) the person in respect of whom the application is made is to be the respondent, and
+
+(b) the applicant must give such security for the costs of the proceedings as the court may direct.
+
+(5) The amount of the security may not exceed £5,000 or such other sum as the Welsh Ministers may specify by order.
+
+(6) The decision of the court on an application under this section is final.
+
+(7) A statutory instrument containing an order under subsection (5) is subject to annulment in pursuance of a resolution of the [[^F2]Senedd].
+
+### Remuneration, oaths etc.
+
+#### 20 Remuneration of [[^F9]Members of the Senedd]
+
+(1) [[^F91]Provision must be made] for the payment of salaries to [[^F9]Members of the Senedd].
+
+(2) [[^F92]Provision may be made] for the payment of allowances to [[^F9]Members of the Senedd].
+
+(3) [[^F93]Provision may be made] for the payment of pensions, gratuities or allowances to, or in respect of, any person who—
+
+(a) has ceased to be [[^F28]a Member of the Senedd], or
+
+(b) has ceased to hold office as the Presiding Officer or [[^F94]a Deputy Presiding Officer], or such other office in connection with the [[^F2]Senedd] as the [[^F2]Senedd] may determine, but continues to be [[^F28]a Member of the Senedd].
+
+(4) Such provision may, in particular, include provision for—
+
+(a) contributions or payments towards provision for such pensions, gratuities or allowances, and
+
+(b) the establishment and administration (whether by the [[^F2]Senedd] Commission or otherwise) of one or more pension schemes.
+
+(5) Sums required for the making of payments by virtue of provision under subsection (1) or (3) to or in respect of a person who holds or has held the office of Presiding Officer or Deputy Presiding Officer are to be charged on the Welsh Consolidated Fund.
+
+[[^F95](6) Provision under this section is to be made by determination made by the Board.]
+
+[[^F96](7) The [[^F2]Senedd] Commission must give effect to any determination made by the Board under this section.
+
+(8) In this section (and in sections 22, 24, 53 and 54) “the Board” means the [[^F97]Independent Remuneration Board of the Senedd] established by section 1 of the National [[^F2]Senedd] for Wales (Remuneration) Measure 2010 (nawm 4 —).]
+
+#### 21 Limit on salaries of [[^F9]Members of the Senedd]
+
+(1) The [[^F2]Senedd] must make provision to ensure that the amount of the salary payable to [[^F28]a Member of the Senedd] in accordance with section 20 is reduced if a salary is payable to the [[^F58]Member of the Senedd] —
+
+[[^F98](za) under section 4 of the Parliamentary Standards Act 2009 (salaries of members of the House of Commons),] [[^F99]or]
+
+(a) pursuant to a resolution (or combination of resolutions) of [[^F100]the House of Lords] relating to the remuneration of members of that House, [^F101]...
+
+[^F101]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) The provision made must ensure that the amount of salary is reduced—
+
+(a) to a particular proportion of what it otherwise would be or to a particular amount, or
+
+(b) by the amount of any salary payable to the [[^F58]Member of the Senedd] as mentioned in subsection [[^F102](1)(za) or (a)], by a particular proportion of that amount or by some other particular amount.
+
+(3) Provision may be made under this section by—
+
+(a) the standing orders, or
+
+(b) resolutions of the [[^F2]Senedd],
+
+and may include provision conferring functions on the [[^F2]Senedd] Commission.
+
+#### 22 Remuneration: supplementary
+
+(1) Different provision may be made under section 20 or 21 for different cases.
+
+(2) [[^F103]The [[^F2]Senedd] Commission] must ensure that information concerning—
+
+(a) the amounts paid to each [[^F58]Member of the Senedd] as salary and allowances, and
+
+(b) the total amount paid to [[^F9]Members of the Senedd] as salaries and allowances,
+
+is published for each financial year [^F104]. . . .
+
+[[^F105](3) The [[^F2]Senedd] Commission must lay before the [[^F2]Senedd] every determination made by the Board under section 20(6) as soon as is reasonably practicable after it is made.]
+
+(4) For the purposes of sections 20 and 21 a person who—
+
+(a) ceases to be [[^F28]a Member of the Senedd] when the [[^F2]Senedd] is dissolved, but
+
+(b) is nominated as a candidate at the subsequent general election,
+
+is to be treated as [[^F28]a Member of the Senedd] until the end of the day on which the poll at the election is held.
+
+(5) Where a person—
+
+(a) ceases to be [[^F28]a Member of the Senedd] when the [[^F2]Senedd] is dissolved, but
+
+(b) continues to hold office as Presiding Officer or as a member of the [[^F2]Senedd] Commission by virtue of paragraph 1(1) or (2) of Schedule 2,
+
+the fact that the person is no longer [[^F28]a Member of the Senedd] does not affect any entitlement under sections 20 and 21 in respect of the holding of office as Presiding Officer or as a member of the [[^F2]Senedd] Commission (or both) until the end of the day on which the person ceases to hold it.
+
+(6) Provision made under section 20(3) does not affect pensions or allowances in payment before the provision was made.
+
+#### 23 Oath or affirmation of allegiance
+
+(1) [[^F28]A Member of the Senedd] must take the oath of allegiance in the form set out in section 2 of the Promissory Oaths Act 1868 (c. 72) (or make the corresponding affirmation) as soon as is reasonably practicable after being returned as [[^F28]a Member of the Senedd] (whether for the first time or subsequently).
+
+(2) The standing orders must specify the person before whom the oath is to be taken (or the affirmation made).
+
+(3) Subsection (1) does not require [[^F28]a Member of the Senedd] to take the oath of allegiance (or make the corresponding affirmation) again if it has been taken (or made) by the [[^F58]Member of the Senedd] in compliance with section 55(2) since being returned (or last returned).
+
+(4) Until [[^F28]a Member of the Senedd] has taken the oath (or made the affirmation) the [[^F58]Member of the Senedd] must not do anything as [[^F28]a Member of the Senedd], other than—
+
+(a) take part in proceedings of the [[^F2]Senedd] at which [[^F9]Members of the Senedd] take the oath or make the affirmation, or
+
+(b) take part in any earlier proceedings for the election of the Presiding Officer or Deputy Presiding Officer.
+
+(5) If [[^F28]a Member of the Senedd] has not taken the oath (or made the affirmation) within—
+
+(a) the period of two months beginning with the day on which the [[^F58]Member of the Senedd] was declared to be returned, or
+
+(b) such longer period as the [[^F2]Senedd] may have allowed before the end of that period of two months,
+
+at the end of that period of two months or longer period the [[^F58]Member of the Senedd] ceases to be [[^F28]a Member of the Senedd] (so that the [[^F106]Member's] seat is vacant).
+
+(6) Until [[^F28]a Member of the Senedd] has taken the oath (or made the affirmation), no salary, allowance, gratuity or payment towards the provision of a pension, allowance or gratuity is to be paid under this Act to or in respect of the [[^F58]Member of the Senedd].
+
+(7) But subsection (6) does not affect any entitlement to payments in respect of the period before the [[^F58]Member of the Senedd] took the oath (or made the affirmation) once the [[^F58]Member of the Senedd] has done so.
+
+#### 24 Assistance to groups of [[^F9]Members of the Senedd]
+
+(1) The [[^F2]Senedd] Commission must make to (or in respect of) political groups to which [[^F9]Members of the Senedd] belong such payments [[^F107]as the Board from time to time determines] for the purpose of assisting [[^F9]Members of the Senedd] who belong to those political groups to perform their functions as [[^F9]Members of the Senedd].
+
+(2) A determination under subsection (1) may make provision—
+
+(a) for calculating the amount of any payment to (or in respect of) a political group,
+
+(b) for the conditions subject to which payments to (or in respect of) a political group are to be made, and
+
+(c) for claims for such payments to be made to the [[^F2]Senedd] Commission.
+
+(3) A determination under subsection (1) may make different provision for different political groups.
+
+(4) [^F108]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) The standing orders must include provision for determining for the purposes of this Act whether any [[^F58]Member of the Senedd] belongs to a political group and, if so, to which; and (in particular)—
+
+(a) may include provision for treating [[^F28]a Member of the Senedd] as not belonging to a political group unless a specified number of [[^F9]Members of the Senedd] belong to it, and
+
+(b) must include provision requiring the Presiding Officer to decide any questions arising under the provision included by virtue of this subsection.
+
+[[^F109](6) The [[^F2]Senedd] Commission must lay before the [[^F2]Senedd] every determination made by the Board under section 24(1) as soon as is reasonably practicable after it is made.]
+
+[[^F110](7) The [[^F2]Senedd] Commission must ensure that information concerning the sums paid under this section is published for each financial year.]
+
+### Presiding Officer and administration
+
+#### 25 Presiding Officer etc.
+
+(1) The [[^F2]Senedd] must, at its first meeting following a general election, elect from among the [[^F9]Members of the Senedd] —
+
+(a) a presiding officer (referred to in this Act as “the Presiding Officer”), and
+
+(b) a deputy presiding officer [[^F111](see subsection (1B)(a))].
+
+[[^F112](1A) The Senedd may at any time elect one additional deputy presiding officer from among the Members of the Senedd (but there may be no more than one additional deputy presiding officer at any time).
+
+(1B) In this Act, “Deputy Presiding Officer” means, unless the context requires otherwise—
+
+(a) the person elected under paragraph (b) of subsection (1);
+
+(b) a person elected under subsection (1A),
+
+but in section 23(4)(b) “Deputy Presiding Officer means only the person elected under paragraph (b) of subsection (1).]
+
+(2) The person elected under paragraph (a) of subsection (1) is to be known as the Presiding Officer or by such other title as the standing orders may provide; and the person elected under paragraph (b) of that subsection [[^F113]and a person elected under subsection (1A) are each to be known as Deputy Presiding Officer] or by such other title as the standing orders may provide.
+
+(3) The Presiding Officer holds office until the conclusion of the next election of a Presiding Officer under subsection (1).
+
+[[^F114](4) A Deputy Presiding Officer holds office until the Senedd is dissolved; but the standing orders may make provision for a Deputy Presiding Officer elected under subsection (1A) to hold office for a shorter time.]
+
+(5) But the Presiding Officer or [[^F115]a Deputy Presiding Officer]—
+
+(a) may at any time resign,
+
+(b) ceases to hold office on ceasing to be [[^F28]a Member of the Senedd] otherwise than by reason of a dissolution, and
+
+(c) may be removed from office by the [[^F2]Senedd].
+
+(6) If the Presiding Officer or the Deputy Presiding Officer [[^F116]elected under paragraph (b) of subsection (1)] ceases to hold office under subsection (5) (or dies), the [[^F2]Senedd] must elect a replacement from among the [[^F9]Members of the Senedd] [[^F117](and references in this section to a person elected under paragraph (a) or (b) of subsection (1) include a reference to a person elected under this subsection)].
+
+(7) Subject to subsection (9), the Presiding Officer and the Deputy Presiding Officer [[^F118]elected under paragraph (b) of subsection (1)] must not belong to—
+
+(a) the same political group, or
+
+(b) different political groups both of which are political groups with an executive role.
+
+[[^F119](7A) Subject to subsection (9), a Deputy Presiding Officer elected under subsection (1A) must not belong to—
+
+(a) the same political group as either the Presiding Officer or Deputy Presiding Officer elected under paragraph (b) of subsection (1), or
+
+(b) where the Presiding Officer and the Deputy Presiding Officer elected under paragraph (b) of subsection (1) both belong to political groups without an executive role, a political group without an executive role.]
+
+(8) For the purposes of this Act a political group is a political group with an executive role if the First Minister or one or more of the Welsh Ministers appointed under section 48 belong to it.
+
+(9) The [[^F2]Senedd] may resolve that [[^F120]one or both of subsections (7) and (7A) are not to apply] for so long as the resolution so provides; but if the motion for the resolution is passed on a vote it is of no effect unless at least two-thirds of the [[^F9]Members of the Senedd] voting support it.
+
+(10) The Presiding Officer's functions may be exercised by [[^F121]a Deputy Presiding Officer] if—
+
+(a) the office of Presiding Officer is vacant, or
+
+(b) the Presiding Officer is for any reason unable to act.
+
+(11) The Presiding Officer may (subject to the standing orders) authorise [[^F122]a Deputy Presiding Officer] to exercise functions of the Presiding Officer.
+
+(12) The standing orders may include provision for the Presiding Officer's functions to be exercisable by any person specified in, or determined in accordance with, the standing orders if—
+
+(a) the office of Presiding Officer is vacant or the Presiding Officer is for any reason unable to act, and
+
+[[^F123](b) the office of Deputy Presiding Officer is vacant or, for any reason, no Deputy Presiding Officer is able to act.]
+
+(13) The standing orders may include provision as to the participation (including voting) in [[^F2]Senedd] proceedings of the Presiding Officer and [[^F124]a Deputy Presiding Officer] and any person acting by virtue of subsection (12).
+
+(14) The validity of any act of a person as Presiding Officer or Deputy Presiding Officer, or of any person acting by virtue of subsection (12), is not affected by any defect in the person's appointment by the [[^F2]Senedd].
+
+(15) Subsections (10) to (12) are subject to paragraph 11 of Schedule 2.
+
+#### 26 Clerk of [[^F2]Senedd]
+
+(1) The [[^F2]Senedd] Commission must appoint a person to be the Clerk of the [[^F2]Senedd] (referred to in this Act as “the Clerk”).
+
+(2) The person appointed under subsection (1) is to be known as the Clerk of the [[^F125]Senedd, Clerc y Senedd] or by such other title as the standing orders may provide.
+
+(3) The Clerk's functions may be exercised by any other member of the staff of the [[^F2]Senedd] (or person seconded to work at the [[^F2]Senedd]) authorised by the [[^F2]Senedd] Commission if—
+
+(a) the office of Clerk is vacant, or
+
+(b) the Clerk is for any reason unable to act.
+
+(4) The Clerk may authorise any other member of the staff of the [[^F2]Senedd] (or person seconded to work at the [[^F2]Senedd]) to exercise functions on the Clerk's behalf.
+
+#### 27 A [[^F2]Senedd] Commission
+
+(1) There is to be a body corporate to be known as the [[^F126]Senedd Commission or Comisiwn y Senedd] (referred to in this Act as “the [[^F2]Senedd] Commission”).
+
+(2) The members of the [[^F2]Senedd] Commission are to be—
+
+(a) the Presiding Officer, and
+
+(b) four other [[^F9]Members of the Senedd].
+
+(3) The standing orders must make provision for the appointment of the four other [[^F9]Members of the Senedd] as members of the [[^F2]Senedd] Commission.
+
+(4) The provision included in the standing orders in compliance with subsection (3) must (so far as it is reasonably practicable to do so) secure that not more than one of the members of the [[^F2]Senedd] Commission (other than the Presiding Officer) belongs to any one political group.
+
+(5) The [[^F2]Senedd] Commission must—
+
+(a) provide to the [[^F2]Senedd], or
+
+(b) ensure that the [[^F2]Senedd] is provided with,
+
+the property, staff and services required for the [[^F2]Senedd's] purposes.
+
+(6) The [[^F2]Senedd] may give special or general directions to the [[^F2]Senedd] Commission for the purpose of, or in connection with, the exercise of the [[^F2]Senedd] Commission's functions.
+
+(7) Any property, rights or liabilities acquired or incurred in relation to matters to which the [[^F2]Senedd] would otherwise be entitled or subject are to be treated for all purposes as property, rights or liabilities of the [[^F2]Senedd] Commission.
+
+(8) For further provision about the [[^F2]Senedd] Commission see Schedule 2.
+
+### Committees
+
+#### 28 Committees and sub-committees
+
+(1) The standing orders may provide—
+
+(a) for the appointment of committees of the [[^F2]Senedd], and
+
+(b) for such committees to have [^F127]... sub-committees.
+
+(2) The members of a committee of the [[^F2]Senedd], or of a sub-committee of such a committee, may not include anyone who is not [[^F28]a Member of the Senedd] [[^F128], except the members of the Standards of Conduct Committee or a sub-committee of the Standards of Conduct Committee].
+
+(3) The standing orders must make provision about the membership, chairing and procedure of committees of the [[^F2]Senedd] and sub-committees of such committees.
+
+(4) The standing orders may include provision for excluding from the proceedings of a committee of the [[^F2]Senedd ], or a sub-committee of such a committee, [[^F28]a Member of the Senedd] who is not a member of the committee or sub-committee.
+
+(5) The validity of any proceedings of a committee of the [[^F2]Senedd], or of a sub-committee of such a committee, is not affected by—
+
+(a) any vacancy in its membership,
+
+(b) any defect in the appointment of its members or of the person who chairs it, or
+
+(c) any failure to comply with provisions of the standing orders relating to procedure.
+
+#### [^F129]29 Composition of committees
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 30 Audit Committee
+
+(1) The committees of the [[^F2]Senedd] must include one to be known as the Audit Committee or Pwyllgor Archwilio or by such other name as the [[^F2]Senedd] may determine; and, if the [[^F2]Senedd] makes such a determination, references to the committee in—
+
+(a) any enactment (including any enactment comprised in or made under this Act) or prerogative instrument, or
+
+(b) any other instrument or document,
+
+have effect accordingly.
+
+(2) The Audit Committee is to have the number of members specified by the standing orders.
+
+(3) None of the following may be a member of the Audit Committee—
+
+(a) the First Minister or any person designated to exercise the functions of the First Minister,
+
+(b) a Welsh Minister appointed under section 48,
+
+(c) the Counsel General or any person designated to exercise the functions of the Counsel General, or
+
+(d) a Deputy Welsh Minister.
+
+(4) The Audit Committee must not be chaired by [[^F28]a Member of the Senedd] who is a member of a political group with an executive role.
+
+#### 30A [[^F130]Standards of Conduct Committee
+
+(1) The committees of the Senedd must include one to be known as the Standards of Conduct Committee or Pwyllgor Safonau Ymddygiad or by such other name as the Senedd may determine; and, if the Senedd makes such a determination, references to the committee in—
+
+(a) any enactment (including any enactment comprised in or made under this Act) or prerogative instrument, or
+
+(b) any other instrument or document,
+
+have effect accordingly.
+
+(2) The Standards of Conduct Committee is to have functions relating to the standards of conduct of Members of the Senedd specified by the standing orders; and the standing orders may specify that it has other functions.
+
+(3) The Standards of Conduct Committee is to have the number of members specified by the standing orders.
+
+(4) The standing orders must provide for the membership of the Standards of Conduct Committee to include one or more lay members.
+
+(5) In this section and in section 30B, “lay member” means a member who is not a Member of the Senedd.
+
+(6) The standing orders may include provision—
+
+(a) for excluding from the proceedings of the Standards of Conduct Committee, or a sub-committee of the Committee, a member of the committee or sub-committee who is a lay member;
+
+(b) for the membership of sub-committees of the Standards of Conduct Committee, which may include provision for members of sub-committees who are not appointed by, nor members of, the Committee;
+
+(c) for sub-committees of the Standards of Conduct Committee that are composed entirely of one or more lay members for the purpose of carrying out appeals or reviews of Committee or sub-committee proceedings concerning the conduct of Members of the Senedd.‍
+
+(7) The standing orders must provide for—
+
+(a) lay members of the Committee to have the same participation and voting rights as other members of the Committee, and
+
+(b) the number of lay members and other members required for proceedings to be quorate,
+
+in Committee or sub-committee proceedings concerning the conduct of a Member of the Senedd.
+
+(8) The standing orders may provide for—
+
+(a) lay members of the Committee to have the same participation and voting rights as other members of the Committee, and
+
+(b) the number of lay members and other members required for proceedings to be quorate,
+
+in Committee or sub-committee proceedings concerning other matters, subject to subsection (9).
+
+(9) The standing orders may not allow lay members of the Committee to participate or vote as a member in Committee or sub-committee proceedings concerning the scrutiny of legislation.
+
+(10) Subsection (7) does not apply to sub-committees of the kind described in subsection (6)(c).]
+
+#### 30B [[^F130]Lay members of the Standards of Conduct Committee etc.
+
+(1) Standing orders may not provide for there to be more lay members of the Standards of Conduct Committee (“the Committee”) than members who are Members of the Senedd.
+
+(2) Lay members must be appointed by resolution of Senedd Cymru.
+
+(3) A motion for a resolution under subsection (2) may only be tabled with the consent of the Presiding Officer and in accordance with any provision made by standing orders.
+
+(4) The person who is the subject of the motion must have been selected on merit on the basis of fair and open competition in accordance with arrangements made by standing orders.
+
+(5) An appointment of a lay member is to be—
+
+(a) for a fixed term not exceeding 6 years, which may end after the expected date of the next ordinary general election of the Senedd;
+
+(b) on such other terms and conditions as may be made under arrangements made by standing orders.
+
+(6) If provision is made in standing orders for a sub-committee of the kind described in section 30A(6)(c), at least one person appointed as a lay member is to be legally qualified; but this does not require each sub-committee of that kind to include a legally qualified person.
+
+(7) A person is legally qualified for the purposes of subsection (6) if the person has a general qualification within the meaning of section 71(3)(c) of the Courts and Legal Services Act 1990 (c. 41).
+
+(8) A person is disqualified from appointment as a lay member if that person—‍
+
+(a) holds an office specified in subsection (9), or
+
+(b) has at any time held an office that is specified in any of paragraphs (a) to (h) of subsection (9).
+
+(9) The offices are—
+
+(a) Member of the Senedd;
+
+(b) member of the House of Commons;
+
+(c) member of the House of Lords;
+
+(d) member of the Scottish Parliament;
+
+(e) member of the Northern Ireland Assembly;
+
+(f) Counsel General, where the person holding the office is not also a Member of the Senedd;
+
+(g) police and crime commissioner for a police area in Wales or England;
+
+(h) member of the council of a county or county borough in Wales;
+
+(i) member of the council of a community in Wales;
+
+(j) the disqualifying offices in the second column of the table in Part 2 of Schedule 1A, except the judicial offices.
+
+(10) A person may not be appointed to serve more than 2 terms of office as a lay member (whether or not the terms of office are consecutive).
+
+(11) A person who is a lay member ceases to be a lay member if the person—
+
+(a) is a candidate in a Senedd general election when the period for notice of withdrawal of candidature ends and has not given such notice before the end of the period, or
+
+(b) becomes disqualified from appointment as a lay member under subsection (8).
+
+(12) A lay member—
+
+(a) may resign by giving notice to the Committee;
+
+(b) may be removed by resolution of the Senedd, if the number of votes cast in favour of the resolution is not less than two thirds of the total number of votes cast.
+
+(13) A motion for a resolution under subsection (12)(b) may only be tabled with the consent of the Presiding Officer and in accordance with any provision made by standing orders.
+
+(14) Standing orders must make provision for the investigation and adjudication of complaints about misconduct by lay members.
+
+(15) The Senedd Commission may pay to lay members such remuneration and allowances as the Commission may determine.
+
+(16) In this section “lay member” includes—
+
+(a) a lay member of the Committee, and
+
+(b) a lay member of a sub-committee of the Committee who is not a member of the Committee.]
+
+### Proceedings etc.
+
+#### 31 Standing orders
+
+(1) [[^F2]Senedd] proceedings are to be regulated by standing orders (referred to in this Act as “the standing orders”).
+
+(2) The standing orders must include provision for preserving order in [[^F2]Senedd] proceedings, including provision for—
+
+(a) preventing conduct which would constitute a criminal offence or contempt of court, and
+
+(b) a sub judice rule.
+
+(3) The standing orders may include provision for excluding [[^F28]a Member of the Senedd] from [[^F2]Senedd] proceedings.
+
+(4) The standing orders may include provision for withdrawing from [[^F28]a Member of the Senedd] any or all of the rights and privileges of membership of the [[^F2]Senedd].
+
+(5) The standing orders—
+
+(a) must include provision requiring the proceedings of the [[^F2]Senedd] to be held in public, and for proceedings of a committee of the [[^F2]Senedd] or a sub-committee of such a committee to be held in public except in circumstances provided for in the standing orders, and
+
+(b) may include provision as to the conditions to be complied with by members of the public attending the proceedings (including provision for excluding any member of the public who does not comply with the conditions).
+
+(6) The standing orders must include provision—
+
+(a) for reporting the proceedings of the [[^F2]Senedd], and for reporting proceedings of committees of the [[^F2]Senedd] and sub-committees of such committees which are held in public, and
+
+(b) for publishing the reports of proceedings as soon as reasonably practicable after the proceedings take place.
+
+(7) The [[^F2]Senedd] may by resolution remake or revise the standing orders; but if the motion for a resolution to remake or revise the standing orders is passed on a vote, it has no effect unless at least two-thirds of the [[^F9]Members of the Senedd] voting support it.
+
+(8) The Clerk must from time to time publish the standing orders.
+
+#### [^F131]32 Participation by UK Ministers etc.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F132]33 Consultation about UK Government's legislative programme
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 34 Participation by Counsel General
+
+(1) If not [[^F28]a Member of the Senedd] the Counsel General may participate in [[^F2]Senedd] proceedings to the extent permitted by the standing orders, but may not vote.
+
+(2) And the standing orders may in other respects provide that they are to apply to the Counsel General if not [[^F28]a Member of the Senedd ] as to [[^F28]a Member of the Senedd].
+
+(3) The Counsel General may, in any [[^F2]Senedd] proceedings, decline to answer any question or produce any document concerning the operation of the system of criminal prosecution in any particular case if considering that answering the question or producing the document—
+
+(a) might prejudice criminal proceedings in the case, or
+
+(b) would otherwise be contrary to the public interest.
+
+#### 35 Equality of treatment
+
+[[^F133](1) The [[^F2]Senedd] must, in the conduct of [[^F2]Senedd] proceedings, give effect, so far as is both appropriate in the circumstances and reasonably practicable, to the principle that the English and Welsh languages should be treated on a basis of equality.]
+
+[[^F133](1) The official languages of the [[^F2]Senedd] are English and Welsh.
+
+(1A) The official languages must, in the conduct of [[^F2]Senedd] proceedings, be treated on a basis of equality.
+
+(1B) All persons have the right to use either official language when participating in [[^F2]Senedd] proceedings.
+
+(1C) Reports of [[^F2]Senedd] proceedings must, in the case of proceedings which fall within section 1(5)(a) (proceedings of the [[^F2]Senedd]), contain a record of what was said, in the official language in which it was said, and also a full translation into the other official language.
+
+(1D) Paragraph 8 of Schedule 2 makes provision about how the [[^F2]Senedd] Commission must enable effect to be given to subsections (1) to (1C).]
+
+(2) The [[^F2]Senedd] must make appropriate arrangements with a view to securing that [[^F2]Senedd] proceedings are conducted with due regard to the principle that there should be equality of opportunity for all people.
+
+#### 36 Integrity
+
+(1) The standing orders must include provision—
+
+(a) for a register of interests of [[^F9]Members of the Senedd], and
+
+(b) for the register to be published and made available for public inspection.
+
+(2) The standing orders must require [[^F9]Members of the Senedd] to register in the register of interests registrable interests, as defined for the purposes of this subsection.
+
+(3) The standing orders must require any [[^F58]Member of the Senedd] who has—
+
+(a) a financial interest, as defined for the purposes of this subsection, or
+
+(b) any other interest, or an interest of any other kind, as so defined,
+
+in any matter to declare that interest before taking part in [[^F2]Senedd] proceedings relating to that matter.
+
+(4) The standing orders may include provision for preventing or restricting the participation in any [[^F2]Senedd] proceedings of [[^F28]a Member of the Senedd] who has an interest within subsection (2) or (3) in any matter to which the proceedings relate.
+
+(5) The standing orders must include provision prohibiting [[^F28]a Member of the Senedd] from—
+
+(a) advocating or initiating any cause or matter on behalf of any person, by any means specified in the standing orders, in consideration of any payment or benefit in kind of a description so specified, or
+
+(b) urging, in consideration of any such payment or benefit in kind, any other [[^F58]Member of the Senedd] to advocate or initiate any cause or matter on behalf of any person by any such means.
+
+[^F134]6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7) [[^F28]a Member of the Senedd ] who—
+
+(a) takes part in [[^F2]Senedd] proceedings without having complied with, or in contravention of, any provision included in the standing orders in pursuance of subsections (2) to (4), or
+
+(b) contravenes any provision included in the standing orders in pursuance of subsection (5),
+
+commits an offence.
+
+(8) A person guilty of an offence under subsection (7) is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+(9) A prosecution for an offence under subsection (7) cannot be instituted except by or with the consent of the Director of Public Prosecutions.
+
+(10) The validity of any [[^F2]Senedd] proceedings is not affected by any contravention or failure to comply with any provision included in the standing orders in pursuance of this section.
+
+(11) In this section—
+
+(a) references to [[^F28]a Member of the Senedd] [^F135]... include the Counsel General, if not [[^F28]a Member of the Senedd], and
+
+(b) “financial interest” includes a benefit in kind.
+
+### Witnesses and documents
+
+#### 37 Power to call
+
+(1) Subject as follows, the [[^F2]Senedd] may require any person—
+
+(a) to attend [[^F2]Senedd] proceedings for the purpose of giving evidence, or
+
+(b) to produce for the purposes of the [[^F2]Senedd] (or a committee of the [[^F2]Senedd] or a sub-committee of such a committee) documents in the possession, or under the control, of the person,
+
+concerning any matter relevant to the exercise by the Welsh Ministers of any of their functions[[^F136], relevant to the exercise of any of the Auditor General for Wales' functions, or relevant to the oversight and supervision of the Auditor General for Wales, or to the oversight and supervision of the exercise of any of his or her functions].
+
+(2) The [[^F2]Senedd] may not impose a requirement under subsection (1) on a person who is not involved in the exercise of functions, or the carrying on of activities, in relation to Wales [[^F137]or the Welsh zone].
+
+(3) The [[^F2]Senedd] may not impose a requirement under subsection (1) on a person who—
+
+(a) is or has been a Minister of the Crown, or
+
+(b) serves or has served in the department of a Minister of the Crown,
+
+in relation to the exercise of any functions of a Minister of the Crown.
+
+(4) The [[^F2]Senedd] —
+
+(a) may not impose a requirement under subsection (1) on a person who is a full-time judge of any court, and
+
+(b) may not impose such a requirement on a person who is not within paragraph (a) but who is or has been a member of any court or tribunal in connection with the exercise of functions as such a member.
+
+(5) Where a requirement under subsection (1) is imposed on a person who is or has been a member of the staff of the Welsh [^F138]... Government (or a person seconded to work for the Welsh [^F138]... Government) in relation to the exercise of any functions of the Welsh Ministers, the First Minister or the Counsel General, any of them may issue a direction under subsection (6).
+
+(6) A direction under this subsection is a direction—
+
+(a) that the person on whom the requirement was imposed need not comply with it, and
+
+(b) that the requirement is instead to be complied with by another person specified in the direction.
+
+[[^F139](6A) Subsection (1) applies in relation to requirements imposed on a person in connection with the discharge of the functions of the Gas and Electricity Markets Authority in relation to Wales with the omission of the words after paragraph (b).]
+
+[[^F140](6B) Subsection (1) applies in relation to things done by the Domestic Abuse Commissioner by virtue of section 7(4)(b) or (c) of the Domestic Abuse Act 2021 (functions exercisable in relation to devolved Welsh authorities etc) as it applies in relation to the exercise by the Welsh Ministers of their functions.]
+
+(7) The powers conferred by subsection (1)—
+
+(a) may be exercised by and for the purposes of the Audit Committee, and
+
+(b) may be exercised by and for the purposes of any other committee of the [[^F2]Senedd] , or any sub-committee of any committee of the [[^F2]Senedd] , if the committee or sub-committee is expressly authorised to do so by the [[^F2]Senedd] (whether by the standing orders or otherwise).
+
+(8) A person is not obliged under this section to answer any question or produce any document which the person would be entitled to refuse to answer or produce in or for the purposes of proceedings in a court in England and Wales.
+
+(9) A person acting as prosecutor in criminal proceedings is not obliged under this section to answer any question or produce any document concerning the operation of the system of criminal prosecution in any particular case if the appropriate officer—
+
+(a) considers that answering the question or producing the document might prejudice criminal proceedings in the case or would otherwise be contrary to the public interest, and
+
+(b) has authorised the person to decline to answer the question or produce the document on that ground.
+
+(10) In subsection (9) “the appropriate officer” means—
+
+(a) if the proceedings were instituted by or on behalf of the Welsh Ministers, the First Minister or the Counsel General, the Counsel General, and
+
+(b) otherwise, the Attorney General.
+
+#### 38 Notice
+
+(1) A requirement under section 37 is to be imposed on a person by the Clerk giving the person notice in writing specifying—
+
+(a) whether the requirement is imposed for the purposes of the [[^F2]Senedd] or a specified committee or sub-committee, and
+
+(b) the matters mentioned in either paragraph (a) or paragraph (b) of subsection (2).
+
+(2) Those matters are—
+
+(a) the time and place at which the person is to attend and the particular subject concerning which the person is required to give evidence;
+
+(b) the documents, or types of documents, which the person is to produce, the date by which and person to whom they are to be produced and the particular subject concerning which they are required.
+
+(3) Notice under subsection (1) is to be given—
+
+(a) in the case of an individual, by sending it in accordance with subsection (4) addressed to the person at the person's usual or last known address or, where the person has given an address for service of the notice, at that address, or
+
+(b) in any other case, by so sending it addressed to the person at the person's registered or principal office.
+
+(4) A notice is sent in accordance with this subsection if it is sent—
+
+(a) by a registered post service (within the meaning of the Postal Services Act 2000 (c. 26)), or
+
+(b) by a postal service which provides for its delivery by post to be recorded.
+
+(5) If a direction is issued under subsection (6) of section 37 in relation to a requirement imposed under subsection (1) of that section, the person or persons by whom it is issued must give notice in writing that the direction has been issued—
+
+(a) if the requirement was imposed for the purposes of the [[^F2]Senedd] , to the Presiding Officer, and
+
+(b) otherwise, to the person who chairs the committee or sub-committee for the purposes of which it was imposed.
+
+#### 39 Offences
+
+(1) A person to whom a notice under section 38(1) has been given commits an offence if the person—
+
+(a) refuses or fails without reasonable excuse to attend proceedings as required by the notice,
+
+(b) refuses or fails without reasonable excuse, when attending proceedings as required by the notice, to answer any question concerning the subjects specified in the notice,
+
+(c) refuses or fails without reasonable excuse to produce any document required to be produced by the notice, or
+
+(d) intentionally alters, suppresses, conceals or destroys any such document.
+
+(2) Subsection (1) is subject to sections 34(3) and 37(5), (6), (8) and (9).
+
+(3) If a person charged with an offence under subsection (1)(a), (b) or (c) adduces evidence of a reasonable excuse for the refusal or failure, it is for the prosecution to prove that the person did not have such an excuse.
+
+(4) A person guilty of an offence under subsection (1) is liable on summary conviction—
+
+(a) to a fine not exceeding level 5 on the standard scale,
+
+(b) to imprisonment for a term not exceeding 51 weeks, or
+
+(c) to both.
+
+(5) Where an offence under subsection (1) which has been committed by a body corporate is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of—
+
+(a) a director, manager, secretary or other similar officer of the body corporate, or
+
+(b) any person who was purporting to act in any such capacity,
+
+that person, as well as the body corporate, is guilty of that offence and liable to be proceeded against accordingly.
+
+(6) In subsection (5) “director”, in the case of a body corporate whose affairs are managed by its members, means a member of the body corporate.
+
+#### 40 General
+
+(1) The Presiding Officer or such other person as may be authorised by the standing orders may—
+
+(a) require any person giving evidence in [[^F2]Senedd] proceedings to take an oath (or make an affirmation), and
+
+(b) administer the oath (or affirmation) to the person.
+
+(2) A person commits an offence if the person—
+
+(a) is required to attend [[^F2]Senedd ] proceedings for the purpose of giving evidence by a notice under section 38(1), and
+
+(b) refuses to take an oath (or make an affirmation) when required to do so for the purposes of the [[^F2]Senedd] proceedings.
+
+(3) A person guilty of an offence under subsection (2) is liable on summary conviction—
+
+(a) to a fine not exceeding level 5 on the standard scale,
+
+(b) to imprisonment for a term not exceeding 51 weeks, or
+
+(c) to both.
+
+(4) The standing orders may provide for the payment of allowances and expenses to persons—
+
+(a) attending [[^F2]Senedd] proceedings for the purpose of giving evidence, or
+
+(b) producing for the purposes of the [[^F2]Senedd] (or a committee of the [[^F2]Senedd] or a sub-committee of such a committee) documents which they have been required or requested to produce,
+
+whether or not in pursuance of a notice under section 38(1).
+
+(5) The provision made by virtue of subsection (4) may confer functions on the [[^F2]Senedd] Commission.
+
+(6) For the purposes of sections 37 to 39 and this section—
+
+(a) a person is to be taken to comply with a requirement to produce a document if the person produces a copy of the document or an extract of the relevant part of the document,
+
+(b) “document” means anything in which information is recorded in any form, and
+
+(c) references to producing a document are to producing the information recorded in it in a visible and legible form.
+
+### Legal issues
+
+#### 41 Proceedings by or against [[^F2]Senedd] etc.
+
+(1) Proceedings by or against the [[^F2]Senedd] are to be instituted by or against the [[^F2]Senedd] Commission on behalf of the [[^F2]Senedd].
+
+(2) Proceedings by or against—
+
+(a) the Presiding Officer or [[^F141]a Deputy Presiding Officer], or
+
+(b) a member of the staff of the [[^F2]Senedd],
+
+are (unless instituted against or by the [[^F2]Senedd] Commission) to be instituted by or against the [[^F2]Senedd] Commission on behalf of the Presiding Officer, Deputy Presiding Officer or member of staff.
+
+(3) In any proceedings against the [[^F2]Senedd ] the court must not grant a mandatory, prohibiting or quashing order or an injunction, make an order for specific performance or stay the proceedings but may instead make a declaration.
+
+(4) In any proceedings against—
+
+(a) any [[^F58]Member of the Senedd],
+
+(b) the Presiding Officer or [[^F142]a Deputy Presiding Officer],
+
+(c) any member of the staff of the [[^F2]Senedd], or
+
+(d) the [[^F2]Senedd] Commission,
+
+the court must not grant a mandatory, prohibiting or quashing order or an injunction, make an order for specific performance or stay the proceedings if the effect of doing so would be to give any relief against the [[^F2]Senedd] which could not have been given in proceedings against the [[^F2]Senedd].
+
+(5) References in this section to an order include an order which is not final.
+
+#### 42 Defamation
+
+(1) For the purposes of the law of defamation—
+
+(a) any statement made in [[^F2]Senedd] proceedings, and
+
+(b) the publication under the authority of the [[^F2]Senedd] of any statement,
+
+is absolutely privileged.
+
+(2) The Welsh Ministers may by regulations make provision for and in connection with establishing in any legal proceedings that any statement or publication is absolutely privileged by virtue of subsection (1).
+
+(3) No regulations are to be made under subsection (2) unless a draft of the statutory instrument containing them has been laid before, and approved by a resolution of, the [[^F2]Senedd] .
+
+(4) In this section “statement” has the same meaning as in the Defamation Act 1996 (c. 31).
+
+#### 43 Contempt of court
+
+(1) The strict liability rule does not apply in relation to any publication—
+
+(a) made in, for the purposes of, or for purposes incidental to, [[^F2]Senedd] proceedings, or
+
+(b) to the extent that it consists of a report of [[^F2]Senedd] proceedings which either is made by or under the authority of the [[^F2]Senedd] or is fair and accurate and made in good faith.
+
+(2) In subsection (1)—
+
+- “the strict liability rule”, and
+- “publication”,
+
+have the same meaning as in the Contempt of Court Act 1981 (c. 49).
+
+#### [^F143]44 Corrupt practices
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Part 2 — [^F138]Welsh ... Government
+
+### Government
+
+#### 45 Welsh [^F138]... Government
+
+(1) There is to be a Welsh [^F138]... Government, or Llywodraeth [^F144]... Cymru, whose members are—
+
+(a) the First Minister or Prif Weinidog (see sections 46 and 47),
+
+(b) the Welsh Ministers, or Gweinidogion Cymru, appointed under section 48,
+
+(c) the Counsel General to the Welsh [^F138]... Government or Cwnsler Cyffredinol i Lywodraeth [^F144]... Cymru (see section 49) (referred to in this Act as “the Counsel General”), and
+
+(d) the Deputy Welsh Ministers or Dirprwy Weinidogion Cymru (see section 50).
+
+(2) In this Act and in any other enactment or instrument the First Minister and the Welsh Ministers appointed under section 48 are referred to collectively as the Welsh Ministers.
+
+### Ministers, staff etc.
+
+#### 46 The First Minister
+
+(1) The First Minister is to be appointed by Her Majesty after nomination in accordance with section 47.
+
+(2) The First Minister holds office at Her Majesty's pleasure.
+
+(3) The First Minister may at any time tender resignation to Her Majesty and ceases to hold office as First Minister when it is accepted.
+
+(4) A person ceases to hold office as the First Minister if another person is appointed to that office.
+
+(5) The functions of the First Minister are exercisable by a person designated by the Presiding Officer if—
+
+(a) the office of the First Minister is vacant,
+
+(b) the First Minister is for any reason unable to act, or
+
+(c) the First Minister has ceased to be [[^F28]a Member of the Senedd] [[^F145]otherwise than by reason of a dissolution].
+
+(6) A person may not be designated to exercise the functions of the First Minister unless the person is—
+
+(a) [[^F28]a Member of the Senedd], or
+
+(b) if the [[^F2]Senedd] has been dissolved, a person who ceased to be [[^F28]a Member of the Senedd] by reason of the dissolution.
+
+(7) A person may be designated to exercise the functions of the First Minister only on the recommendation of the Welsh Ministers (unless there is no-one holding office as a Welsh Minister appointed under section 48).
+
+(8) If a person is designated to exercise the functions of the First Minister, the designation continues to have effect even if the [[^F2]Senedd] is dissolved.
+
+#### 47 Choice of First Minister
+
+(1) If one of the following events occurs, the [[^F2]Senedd] must, before the end of the relevant period, nominate [[^F28]a Member of the Senedd] for appointment as First Minister.
+
+(2) The events are—
+
+(a) the holding of a poll at a general election,
+
+(b) the [[^F2]Senedd] resolving that the Welsh Ministers no longer enjoy the confidence of the [[^F2]Senedd],
+
+(c) the First Minister tendering resignation to Her Majesty,
+
+(d) the First Minister dying or becoming permanently unable to act and to tender resignation, and
+
+(e) the First Minister ceasing to be [[^F28]a Member of the Senedd ] otherwise than by reason of a dissolution.
+
+(3) The relevant period is the period of 28 days beginning with the day on which the event occurs; but—
+
+(a) if another of those events occurs within that period, the relevant period is (subject to paragraph (b)) extended to end with the period of 28 days beginning with the day on which that other event occurs, and
+
+(b) the relevant period ends if the [[^F2]Senedd] passes a resolution under section 5(2)(a) or when Her Majesty appoints a person as the First Minister.
+
+(4) The Presiding Officer must recommend to Her Majesty the appointment of the person nominated by the [[^F2]Senedd] under subsection (1).
+
+#### 48 Welsh Ministers
+
+(1) The First Minister may, with the approval of Her Majesty, appoint Welsh Ministers from among the [[^F9]Members of the Senedd].
+
+(2) A Welsh Minister appointed under this section holds office at Her Majesty's pleasure.
+
+(3) A Welsh Minister appointed under this section may be removed from office by the First Minister.
+
+(4) A Welsh Minister appointed under this section may at any time resign.
+
+(5) A Welsh Minister appointed under this section must resign if the [[^F2]Senedd] resolves that the Welsh Ministers no longer enjoy the confidence of the [[^F2]Senedd].
+
+(6) A Welsh Minister appointed under this section who resigns ceases to hold office immediately.
+
+(7) A Welsh Minister appointed under this section ceases to hold office on ceasing to be [[^F28]a Member of the Senedd] otherwise than by reason of a dissolution.
+
+#### 49 Counsel General
+
+(1) The Counsel General is to be appointed by Her Majesty on the recommendation of the First Minister.
+
+(2) The Counsel General may be removed from office by Her Majesty on the recommendation of the First Minister.
+
+(3) No recommendation for the appointment or removal of a person as the Counsel General may be made by the First Minister without the agreement of the [[^F2]Senedd].
+
+(4) The Counsel General may at any time tender resignation to Her Majesty and ceases to hold office as Counsel General when it is accepted.
+
+(5) The Counsel General ceases to hold office if [[^F28]a Member of the Senedd] is nominated under section 47(1) for appointment as First Minister.
+
+(6) The functions of the Counsel General are exercisable by a person designated by the First Minister if—
+
+(a) the office of the Counsel General is vacant, or
+
+(b) the Counsel General is for any reason unable to act.
+
+(7) But subsection (6) ceases to have effect at the end of the period of six months beginning with the day on which a person is designated under it and does not have effect again until after the office of the Counsel General has been filled, or the Counsel General has again become able to act.
+
+(8) The designation of a person under subsection (6) ceases to have effect if [[^F28]a Member of the Senedd ] is nominated under section 47(1) for appointment as First Minister.
+
+(9) A person holding office as the First Minister, a Welsh Minister appointed under section 48 or a Deputy Welsh Minister may not be appointed as the Counsel General or designated under subsection (6); and the Counsel General or a person so designated may not be appointed to any of those offices.
+
+#### 50 Deputy Welsh Ministers
+
+(1) The First Minister may, with the approval of Her Majesty, appoint Deputy Welsh Ministers from among the [[^F9]Members of the Senedd ] to assist the First Minister, a Welsh Minister appointed under section 48 or the Counsel General in the exercise of functions.
+
+(2) A Deputy Welsh Minister holds office at Her Majesty's pleasure.
+
+(3) A Deputy Welsh Minister may be removed from office by the First Minister.
+
+(4) A Deputy Welsh Minister may at any time resign.
+
+(5) A Deputy Welsh Minister must resign if the [[^F2]Senedd] resolves that the Welsh Ministers no longer enjoy the confidence of the [[^F2]Senedd].
+
+(6) A Deputy Welsh Minister who resigns ceases to hold office immediately.
+
+(7) A Deputy Welsh Minister ceases to hold office on ceasing to be [[^F28]a Member of the Senedd] otherwise than by reason of a dissolution.
+
+#### 51 Limit on number of Ministers
+
+(1) No more than [[^F146]17] persons are to hold a relevant Welsh Ministerial office at any time.
+
+(2) A relevant Welsh Ministerial office means the office of Welsh Minister appointed under section 48 or the office of Deputy Welsh Minister.
+
+[[^F147](3) The Welsh Ministers may by regulations amend subsection (1) to increase the maximum number of holders of a relevant Welsh Ministerial office—
+
+(a) from 17 to 18 or 19;
+
+(b) from 18 to 19.
+
+(4) The power in subsection (3) may not be used to lower the maximum number (including by revoking regulations made under that subsection).
+
+(5) A statutory instrument containing regulations under subsection (3) may not be made unless‍—
+
+(a) a draft of the instrument has been laid before‍ the Senedd, and
+
+(b) the number of Members of the Senedd voting in favour of a resolution of the Senedd approving the draft is at least two-thirds of the total number of Senedd seats.]
+
+#### 52 Staff
+
+(1) The Welsh Ministers may appoint persons to be members of the staff of the Welsh [^F138]... Government.
+
+(2) Service as a member of the staff of the Welsh [^F138]... Government is service in the [[^F148]civil service of the State].
+
+[[^F149](3) See Part 1 of the Constitutional Reform and Governance Act 2010 (in particular, sections 3 and 4) for provision affecting—
+
+(a) subsection (1), and
+
+(b) any other enactment about the appointment of persons as members of the staff of the Welsh [^F138]... Government.]
+
+[[^F150](4) See also section 1 of the Civil Service (Management Functions) Act 1992 under which functions conferred on the Minister for the Civil Service by section 3 of the Constitutional Reform and Governance Act 2010 may be delegated to the Welsh Ministers etc.]
+
+(5) The Welsh Ministers are to pay the salaries and expenses of the members of the staff of the Welsh [^F138]... Government.
+
+(6) Section 1(2) and (3) of the Superannuation Act 1972 (c. 11) (delegation of functions relating to civil service superannuation schemes by Minister for the Civil Service to another Minister etc. and consultation by that Minister or another Minister) have effect as if the references to a Minister of the Crown other than the Minister for the Civil Service included the Welsh Ministers.
+
+(7) The Welsh Ministers must make payments to the Minister for the Civil Service, at such times as the Minister for the Civil Service may determine, of such amounts as may be so determined in respect of—
+
+(a) the provision of pensions, allowances or gratuities by virtue of section 1 of the Superannuation Act 1972 to or in respect of persons who are or have been members of the staff of the Welsh [^F138]... Government, and
+
+(b) the expenses incurred in administering those pensions, allowances and gratuities.
+
+(8) The Welsh Ministers may make payments towards the provision of pensions, allowances or gratuities to or in respect of any person who is or has been a member of the staff of the Welsh [^F138]... Government.
+
+(9) Without prejudice to any rule of law with respect to the carrying out of functions by members of the [[^F148]civil service of the State ] under authority, the Welsh Ministers, the First Minister or the Counsel General may authorise the staff of the Welsh [^F138]... Government to carry out any function on their behalf.
+
+(10) [^F151]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Remuneration, oaths etc.
+
+#### 53 Remuneration
+
+(1) [[^F152]Provision must be made] for the payment of salaries to persons to whom this section applies.
+
+(2) [[^F153]Provision may be made] for the payment of allowances to persons to whom this section applies.
+
+(3) [[^F154]Provision may be made] for the payment of pensions, gratuities or allowances to, or in respect of, any person who has ceased to be a person to whom this section applies.
+
+(4) Such provision may, in particular, include provision for—
+
+(a) contributions or payments towards provision for such pensions, gratuities or allowances, and
+
+(b) the establishment and administration (whether by the [[^F2]Senedd] Commission or otherwise) of one or more pension schemes.
+
+(5) This section applies to—
+
+(a) the First Minister,
+
+(b) every Welsh Minister appointed under section 48,
+
+(c) the Counsel General, and
+
+(d) every Deputy Welsh Minister.
+
+(6) Sums required for the making of payments by virtue of provision under this section are payable out of the Welsh Consolidated Fund.
+
+[[^F155](7) Provision under this section is to be made by determination made by the Board.]
+
+[[^F156](8) The [[^F2]Senedd] Commission must give effect to any determination made by the Board under this section.]
+
+#### 54 Remuneration: supplementary
+
+(1) Different provision may be made under section 53 for different cases.
+
+(2) [[^F157]The [[^F2]Senedd] Commission] must ensure that information concerning—
+
+(a) the amounts paid to each person to whom section 53 applies as salary and allowances, and
+
+(b) the total amount paid to such persons as salaries and allowances,
+
+is published for each financial year [^F158]. . .
+
+[[^F159](3) The [[^F2]Senedd] Commission must lay before the [[^F2]Senedd] every determination made by the Board under section 53(7) as soon as is reasonably practicable after it is made.]
+
+(4) Provision made under section 53(3) does not affect pensions or allowances in payment before the provision was made.
+
+#### 55 Oath or affirmation
+
+(1) On appointment as the First Minister, a Welsh Minister appointed under section 48 or the Counsel General a person must take the official oath in the form set out in section 3 of the Promissory Oaths Act 1868 (c. 72) (or make the corresponding affirmation).
+
+(2) On appointment as the First Minister, a Welsh Minister appointed under section 48, the Counsel General or a Deputy Welsh Minister a person must take the oath of allegiance in the form set out in section 2 of the Promissory Oaths Act 1868 (or make the corresponding affirmation).
+
+(3) But subsection (2) does not require a person who is [[^F28]a Member of the Senedd] to take the oath of allegiance (or make the corresponding affirmation) again if it has been taken (or made) in compliance with the person's duty on the person's return (or, if returned more than once, most recent return) as [[^F28]a Member of the Senedd] .
+
+(4) An oath required by this section is to be taken (or the corresponding affirmation made)—
+
+(a) before one of the Presiding Judges for the Wales and Chester Circuit (or for any appropriate area which is specified in a direction under section 72(4) of the Courts and Legal Services Act 1990 (c. 41)), or
+
+(b) (if no such Presiding Judge is available) before another judge nominated by the Senior Presiding Judge for England and Wales.
+
+(5) Until a person who is required to take an oath (or make an affirmation) by this section in respect of any office has done so, no salary, allowance, gratuity or payment towards the provision of a pension, allowance or gratuity is to be paid under this Act to or in respect of the person as a holder of that office.
+
+(6) But subsection (5) does not affect any entitlement to payments in respect of the period before the person took the oath (or made the affirmation) once the person has done so.
+
+### Functions
+
+#### 56 Introduction
+
+(1) The persons to whom this section applies have the functions conferred or imposed on them by or by virtue of this Act or any other enactment or prerogative instrument.
+
+(2) This section applies to the Welsh Ministers, the First Minister and the Counsel General.
+
+#### 57 Exercise of functions
+
+(1) Functions may be conferred or imposed on the Welsh Ministers by that name.
+
+(2) Functions of the Welsh Ministers, the First Minister and the Counsel General are exercisable on behalf of Her Majesty.
+
+(3) Functions of the Welsh Ministers are exercisable by the First Minister or any of the Welsh Ministers appointed under section 48.
+
+(4) Any act or omission of, or in relation to, the First Minister or any of the Welsh Ministers appointed under section 48 is to be treated as an act or omission of, or in relation to, each of them.
+
+(5) But subsection (4) does not apply in relation to the exercise of functions conferred or imposed on the First Minister alone.
+
+(6) Where a function conferred or imposed on the Counsel General is (either generally or in particular circumstances) exercisable concurrently by the Welsh Ministers or the First Minister, subsection (4) applies in relation to the exercise of the function (or to its exercise in those circumstances) as if the Counsel General were included among the Welsh Ministers.
+
+#### 58 Transfer of Ministerial functions
+
+(1) Her Majesty may by Order in Council—
+
+(a) provide for the transfer to the Welsh Ministers, the First Minister or the Counsel General of any function so far as exercisable by a Minister of the Crown in relation to Wales [[^F160]or the Welsh zone],
+
+(b) direct that any function so far as so exercisable is to be exercisable by the Welsh Ministers, the First Minister or the Counsel General [[^F161]—
+
+(i) concurrently or jointly with a Minister of the Crown, or
+
+(ii) only with the agreement of, or after consultation with, a Minister of the Crown,] or
+
+(c) direct that any function so far as exercisable by a Minister of the Crown in relation to Wales [[^F162]or the Welsh zone] is to be exercisable by the Minister of the Crown only with the agreement of, or after consultation with, the Welsh Ministers, the First Minister or the Counsel General.
+
+[[^F163](1A) An Order in Council under this section may not make provision about a function of a Minister of the Crown exercisable in relation to the area of the Welsh zone beyond the seaward limit of the territorial sea unless the function is connected with fishing, fisheries or fish health.
+
+(1B) Subsection (1A) does not have effect in relation to an Order in Council to the extent that it contains provision made by virtue of paragraph 4 of Schedule 3 (functions exercisable beyond the territorial sea).]
+
+(2) An Order in Council under this section may, in particular, provide for any function exercisable by the Welsh Ministers, the First Minister or the Counsel General by virtue of an Order in Council under subsection (1)(a) or (b) to be exercisable either generally or in such circumstances as may be specified in the Order in Council, concurrently with any other of the Welsh Ministers, the First Minister or the Counsel General.
+
+[[^F164](2A) Her Majesty may by Order in Council—
+
+(a) make provision modifying (by reference to geographical extent or otherwise) a previously conferred or transferred water-related function;
+
+(b) provide for such a function to be exercisable—
+
+(i) concurrently or jointly with a Minister of the Crown or the Welsh Ministers, or
+
+(ii) only with the agreement of, or after consultation with, a Minister of the Crown or the Welsh Ministers.
+
+(2B) In subsection (2A)—
+
+- "previously conferred or transferred function” means a function exercisable by—
+
+  - (a) the Welsh Ministers, the First Minister or the Counsel General,
+  - (b) a Minister of the Crown, or
+  - (c) any authority or other body,
+
+  by virtue of provision contained in or made under this Act or any other enactment;
+
+- "water-related function” means a function exercisable in relation to water supply, water quality, water resources management, control of pollution of water resources, sewerage, rivers and other watercourses, land drainage, flood risk management or coastal protection.]
+
+(3) An Order in Council under this section may make such modifications of—
+
+(a) any enactment (including any enactment comprised in or made under this Act) or prerogative instrument, or
+
+(b) any other instrument or document,
+
+as Her Majesty considers appropriate in connection with the provision made by the Order in Council.
+
+(4) No recommendation is to be made to Her Majesty in Council to make an Order in Council under this section unless a draft of the statutory instrument containing the Order in Council—
+
+(a) has been laid before, and approved by a resolution of, each House of Parliament, and
+
+(b) has been approved by the Welsh Ministers.
+
+(5) For further provision in connection with the transfer etc. of functions by Orders in Council under this section see Schedule 3.
+
+#### 58A [[^F165]Executive ministerial functions
+
+(1) Executive ministerial functions, so far as exercisable within devolved competence, are exercisable by the Welsh Ministers.
+
+(2) Executive ministerial functions that are ancillary to a function of the Welsh Ministers exercised outside devolved competence are also exercisable by the Welsh Ministers.
+
+(3) Functions exercisable by the Welsh Ministers under subsection (1) or (2) are not exercisable by a Minister of the Crown unless they are functions to which subsection (4) applies.
+
+If they are functions to which subsection (4) applies, they are exercisable by the Welsh Ministers concurrently with any relevant Minister of the Crown.
+
+(4) This subsection applies to—
+
+(a) functions ancillary to a function of the Welsh Ministers that is exercisable concurrently or jointly with a Minister of the Crown;
+
+(b) functions ancillary to a function of a Minister of the Crown;
+
+(c) functions that are not ancillary to another function;
+
+(d) functions in relation to observing and implementing [[^F166]assimilated] obligations.
+
+(5) In this section—
+
+- “executive ministerial function” means a function of Her Majesty of a kind that is exercisable on Her behalf by a Minister of the Crown (including a function involving expenditure or other financial matters), but not a function conferred or imposed by or by virtue of any legislation or the prerogative;
+- “within devolved competence” and “outside devolved competence” are to be read in accordance with subsections (7) and (8).
+
+(6) For the purposes of this section a function is “ancillary to” another function if or to the extent that it is exercisable with a view to facilitating, or in a way that is conducive or incidental to, the exercise of the other function.
+
+(7) It is outside devolved competence—
+
+(a) to make any provision by subordinate legislation that would be outside the legislative competence of the [[^F2]Senedd] if it were included in an Act of the [[^F2]Senedd] (see section 108A), or
+
+(b) to confirm or approve any subordinate legislation containing such provision.
+
+(8) In the case of a function other than a function of making, confirming or approving subordinate legislation, it is outside devolved competence to exercise the function (or to exercise it in a particular way) if or to the extent that a provision of an Act of the [[^F2]Senedd] conferring the function (or conferring it so as to be exercisable in that way) would be outside the legislative competence of the [[^F2]Senedd].]
+
+#### [^F167]58B Implementation of EU law: general
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 59 [[^F168]Fees and charges in relation to international law]
+
+[^F169]1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F169]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F169]2A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F169]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F169]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) The power conferred by section 56 of the Finance Act 1973 (c. 51) (services provided [[^F170]in pursuance of an international obligation]) on the Minister in charge of a government department to make (with the consent of the Treasury) regulations prescribing, or providing for the determination of, fees and charges in respect of things done by the department may be exercised by the Welsh Ministers (with the consent of the Treasury) for prescribing, or providing for the determination of, fees and charges in respect of corresponding things done by the Welsh Ministers.
+
+(6) A statutory instrument containing regulations made by the Welsh Ministers in the exercise of that power is subject to annulment in pursuance of a resolution of the [[^F2]Senedd] .
+
+(7) Section 56(4) of the Finance Act 1973 does not cause the statutory instrument to be subject to annulment in pursuance of a resolution of either House of Parliament unless it contains regulations—
+
+(a) made by a Minister of the Crown or government department (whether or not jointly with the Welsh Ministers),
+
+(b) relating to an English border area, or
+
+(c) relating to a cross-border body (and not relating only to the exercise of functions, or the carrying on of activities, by the body in or with respect to [[^F171]Wales, the Welsh zone or a part of Wales or the Welsh zone]).
+
+#### 59A [[^F172]Shared powers
+
+Schedule 3A, which sets out functions of Ministers of the Crown and others that are exercisable concurrently or jointly with the Welsh Ministers, has effect.]
+
+#### 60 Promotion etc. of well-being
+
+(1) The Welsh Ministers may do anything which they consider appropriate to achieve any one or more of the following objects—
+
+(a) the promotion or improvement of the economic well-being of Wales,
+
+(b) the promotion or improvement of the social well-being of Wales, and
+
+(c) the promotion or improvement of the environmental well-being of Wales.
+
+(2) The power under subsection (1) may be exercised in relation to or for the benefit of—
+
+(a) the whole or any part of Wales, or
+
+(b) all or any persons resident or present in Wales.
+
+(3) The power under subsection (1) includes power to do anything in relation to or for the benefit of any area outside Wales, or all or any persons resident or present anywhere outside Wales, if the Welsh Ministers consider that it is likely to achieve one or more of the objects in that subsection.
+
+(4) The power under subsection (1) includes power—
+
+(a) to enter into arrangements or agreements with any person,
+
+(b) to co-operate with, or facilitate or co-ordinate the activities of, any person,
+
+(c) to exercise on behalf of any person any functions of that person, and
+
+(d) to provide staff, goods, services or accommodation to any person.
+
+#### 61 Support of culture etc.
+
+The Welsh Ministers may do anything which they consider appropriate to support—
+
+(a) archaeological remains in Wales,
+
+(b) ancient monuments in Wales,
+
+(c) buildings and places of historical or architectural interest in Wales,
+
+(d) historic wrecks in Wales,
+
+(e) arts and crafts relating to Wales,
+
+(f) museums and galleries in Wales,
+
+(g) libraries in Wales,
+
+(h) archives and historical records relating to Wales,
+
+(i) cultural activities and projects relating to Wales,
+
+(j) sport and recreational activities relating to Wales, and
+
+(k) the Welsh language.
+
+#### 62 Representations about matters affecting Wales
+
+The Welsh Ministers, the First Minister and the Counsel General may make appropriate representations about any matter affecting Wales.
+
+#### [^F173]63 Consultation about cross-border bodies
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 64 Polls for ascertaining views of the public
+
+(1) The Welsh Ministers may hold a poll in an area consisting of Wales or any part (or parts) of Wales for the purpose of ascertaining the views of those polled about whether or how any of the functions of the Welsh Ministers (other than that under section 62) should be exercised.
+
+(2) The persons entitled to vote in a poll under this section are those who—
+
+(a) would be entitled to vote as electors at a local government election in an electoral area wholly or partly included in the area in which the poll is held, and
+
+(b) are registered in the register of local government electors at an address within the area in which the poll is held.
+
+(3) The Welsh Ministers may by order make provision—
+
+(a) as to the conduct of polls (or any poll) under this section, or
+
+(b) for the combination of polls (or any poll) under this section with polls at any elections.
+
+(4) An order under subsection (3) may apply or incorporate, with or without modifications or exceptions, any provision of or made under any enactment relating to elections or referendums; and the provision which may be made under paragraph (a) of that subsection includes, in particular, provision for disregarding alterations in a register of electors.
+
+(5) A statutory instrument containing an order under subsection (3) is subject to annulment in pursuance of a resolution of the [[^F2]Senedd] .
+
+#### 65 Private bills
+
+(1) The Welsh Ministers may promote private bills in Parliament and may oppose any private bill in Parliament.
+
+(2) Subsection (1) does not cause the Welsh Ministers to have power to apply for orders under section 1 or 3 of the Transport and Works Act 1992 (c. 42) by virtue of section 20 of that Act (which gives a body with power to promote and oppose private bills power to apply for and object to such orders).
+
+#### 66 Provision of information to Treasury
+
+Where it appears to the Treasury that any information in the possession, or under the control, of the Welsh Ministers is required for the exercise of any function by the Treasury, the Treasury may require the Welsh Ministers to provide the information to the Treasury in such form as the Treasury may reasonably specify.
+
+#### 66A [[^F174]Provision of information to the Office for Budget Responsibility
+
+(1) The Office for Budget Responsibility has a right of access at any reasonable time to all information held by—
+
+(a) the Welsh Ministers, or
+
+(b) any devolved Welsh authority within paragraph (a) or (b) of section 157A(1) that is specified in regulations made by the Secretary of State,
+
+that it may reasonably require for the purpose of the performance of its duty under section 4 of the Budget Responsibility and National Audit Act 2011 (duty to examine and report on the sustainability of the public finances).
+
+(2) The Office is entitled to require from any person holding or accountable for such information any assistance or explanation that the Office reasonably thinks necessary for that purpose.
+
+(3) No regulations are to be made under subsection (1)(b) unless a draft of the statutory instrument containing them has been laid before, and approved by a resolution of, each House of Parliament.
+
+(4) This section is subject to any enactment or rule of law that operates to prohibit or restrict the disclosure of information or the giving of any assistance or explanation.]
+
+#### 67 Legal proceedings
+
+(1) Where the Counsel General considers it appropriate for the promotion or protection of the public interest, the Counsel General may institute in the Counsel General's name, defend or appear in any legal proceedings to which this section applies.
+
+(2) This section applies to legal proceedings relating to matters with respect to which any functions of the Welsh Ministers, the First Minister or the Counsel General are exercisable.
+
+#### 68 Contracts
+
+(1) The Secretary of State may by order provide that the Local Government (Contracts) Act 1997 (c. 65) applies in relation to contracts entered into by the Welsh Ministers, the First Minister or the Counsel General but subject to any appropriate modifications.
+
+(2) A statutory instrument containing an order under this section is subject to annulment in pursuance of a resolution of either House of Parliament.
+
+#### 69 Charges for documents
+
+(1) The Welsh Ministers may make a charge for supplying copies of (or of any part of) any document which they publish or make available for public inspection.
+
+(2) Subsection (1) has effect subject to any provision contained in, or made under, any enactment which makes provision for—
+
+(a) the making of charges for the inspection of documents,
+
+(b) the making of charges for supplying copies of documents (or parts of documents), or
+
+(c) the supply of copies of documents (or parts of documents) free of charge.
+
+(3) This section applies to the First Minister and the Counsel General as to the Welsh Ministers.
+
+#### 70 Financial assistance
+
+(1) [[^F175]The First Minister] may give financial assistance (whether by way of grant, loan or guarantee) to any person engaged in any activity which [[^F176]the First Minister considers] will secure, or help to secure, the attainment of any objective which [[^F177]the Minister aims] to attain in the exercise of any of [[^F178]the Minister's functions].
+
+(2) [[^F179]The First Minister] may attach conditions to the giving of financial assistance [[^F180]by the Minister]; and the conditions which may be attached include, in particular, conditions requiring the repayment of the whole or any part of a grant, or the making of any other payments, in any circumstances.
+
+[[^F181](3) This section applies in relation to the Counsel General as in relation to the First Minister.
+
+(As regards the Welsh Ministers, see section 58A.)]
+
+#### 71 Supplementary
+
+(1) The persons to whom this section applies may do anything (including the acquisition or disposal of any property or rights) which is calculated to facilitate, or is conducive or incidental to, the exercise of any of their other functions.
+
+[[^F182](2) This section applies to the First Minister and the Counsel General.
+
+(As regards the Welsh Ministers, see section 58A.)]
+
+### “Inclusive” approach to exercise of functions
+
+#### 72 Partnership Council
+
+(1) The Welsh Ministers must establish and maintain a body to be known as the Partnership Council for Wales or Cyngor Partneriaeth Cymru (“the Partnership Council”).
+
+(2) The Partnership Council is to consist of members appointed by the Welsh Ministers from among—
+
+(a) the Welsh Ministers,
+
+(b) the Deputy Welsh Ministers, and
+
+(c) the members of local authorities in Wales.
+
+(3) Before appointing members of the Partnership Council under subsection (2)(c), the Welsh Ministers must consult such associations of local authorities in Wales as they consider appropriate.
+
+(4) The Partnership Council may—
+
+(a) give advice to the Welsh Ministers about matters affecting the exercise of any of their functions,
+
+(b) make representations to the Welsh Ministers about any matters affecting, or of concern to, those involved in local government in Wales, and
+
+(c) give advice to those involved in local government in Wales.
+
+(5) For the purposes of this section the following are local authorities in Wales—
+
+(a) county councils, county borough councils and community councils in Wales,
+
+(b) National Park authorities for National Parks in Wales,
+
+(c) [[^F183]police and crime commissioners] for police areas in Wales,
+
+(d) fire and rescue authorities for areas in Wales, and
+
+(e) authorities of any description specified for the purposes of this paragraph by order made by the Welsh Ministers.
+
+(6) No order may be made under subsection (5)(e) unless the Welsh Ministers have consulted the Partnership Council.
+
+(7) A statutory instrument containing an order under subsection (5)(e) is subject to annulment in pursuance of a resolution of the [[^F2]Senedd] .
+
+#### 73 Local government scheme
+
+(1) The Welsh Ministers must make a scheme (“the local government scheme”) setting out how they propose, in the exercise of their functions, to sustain and promote local government in Wales.
+
+(2) The Welsh Ministers—
+
+(a) must keep the local government scheme under review, and
+
+(b) may from time to time remake or revise it.
+
+(3) In determining the provision to be included in the local government scheme, the Welsh Ministers must have regard to any advice which has been given, and to any representations which have been made, to them by the Partnership Council.
+
+(4) The Welsh Ministers must publish the local government scheme when they make it and whenever they remake it; and, if they revise the scheme without remaking it, they must publish either the revisions or the scheme as revised (as they consider appropriate).
+
+(5) If the Welsh Ministers publish a scheme or revisions under subsection (4) they must lay a copy of the scheme or revisions before the [[^F2]Senedd] .
+
+(6) After each financial year the Welsh Ministers must—
+
+(a) publish a report of how the proposals set out in the local government scheme were implemented in that financial year, and
+
+(b) lay a copy of the report before the [[^F2]Senedd] .
+
+#### 74 Voluntary sector scheme
+
+(1) The Welsh Ministers must make a scheme (“the voluntary sector scheme”) setting out how they propose, in the exercise of their functions, to promote the interests of relevant voluntary organisations.
+
+(2) In this section “relevant voluntary organisations” means bodies (other than local authorities or other public bodies) whose activities—
+
+(a) are carried on otherwise than for profit, and
+
+(b) directly or indirectly benefit the whole or any part of Wales (whether or not they also benefit any other area).
+
+(3) In determining the provision to be included in the voluntary sector scheme, the Welsh Ministers must consider how they intend to exercise such of their functions as relate to matters affecting, or of concern to, relevant voluntary organisations.
+
+(4) The voluntary sector scheme must specify—
+
+(a) how the Welsh Ministers propose to provide assistance to relevant voluntary organisations (whether by grants, loans, guarantees or any other means),
+
+(b) how the Welsh Ministers propose to monitor the use made of any assistance provided by them to relevant voluntary organisations, and
+
+(c) how the Welsh Ministers propose to consult relevant voluntary organisations about the exercise of such of their functions as relate to matters affecting, or of concern to, such organisations.
+
+(5) The Welsh Ministers—
+
+(a) must keep the voluntary sector scheme under review, and
+
+(b) may from time to time remake or revise it.
+
+(6) Before making, remaking or revising the voluntary sector scheme, the Welsh Ministers must consult such relevant voluntary organisations as they consider appropriate.
+
+(7) The Welsh Ministers must publish the voluntary sector scheme when they make it and whenever they remake it; and, if they revise the scheme without remaking it, they must publish either the revisions or the scheme as revised (as they consider appropriate).
+
+(8) If the Welsh Ministers publish a scheme or revisions under subsection (7) they must lay a copy of the scheme or revisions before the [[^F2]Senedd] .
+
+(9) After each financial year the Welsh Ministers must—
+
+(a) publish a report of how the proposals set out in the voluntary sector scheme were implemented in that financial year, and
+
+(b) lay a copy of the report before the [[^F2]Senedd] .
+
+#### 75 Business scheme
+
+(1) The Welsh Ministers must make a scheme (“the business scheme”) setting out how they propose, in the exercise of their functions, to take account of the interests of business.
+
+(2) The business scheme must specify how the Welsh Ministers propose—
+
+(a) to carry out consultation about the exercise of such of their functions as relate to matters affecting the interests of business, and
+
+(b) to consider the impact of the exercise of their functions on the interests of business.
+
+(3) The Welsh Ministers—
+
+(a) must keep the business scheme under review, and
+
+(b) may from time to time remake or revise it.
+
+(4) Before making, remaking or revising the business scheme, the Welsh Ministers must consult such organisations representative of business (including trade unions) and such other organisations as they consider appropriate.
+
+(5) The Welsh Ministers must publish the business scheme when they make it and whenever they remake it; and, if they revise the scheme without remaking it, they must publish either the revisions or the scheme as revised (as they consider appropriate).
+
+(6) If the Welsh Ministers publish a scheme or revisions under subsection (5) they must lay a copy of the scheme or revisions before the [[^F2]Senedd] .
+
+(7) The Welsh Ministers must—
+
+(a) within the period of two years beginning with the day on which the business scheme is first made, and
+
+(b) subsequently at intervals of no more than two years,
+
+publish a report of how the proposals set out in the business scheme have been implemented.
+
+(8) The Welsh Ministers must lay before the [[^F2]Senedd] a copy of each report published under subsection (7).
+
+#### 76 Regulatory impact assessments
+
+(1) The Welsh Ministers must make a code of practice setting out their policy on—
+
+(a) the carrying out of regulatory impact assessments in connection with relevant Welsh subordinate legislation, and
+
+(b) the carrying out of consultation in connection with regulatory impact assessments,
+
+(“the regulatory impact assessment code”).
+
+(2) For the purposes of this section—
+
+(a) a regulatory impact assessment is an assessment as to the likely costs and benefits of complying with relevant Welsh subordinate legislation, and
+
+(b) subordinate legislation is relevant Welsh subordinate legislation if it is made by the Welsh Ministers, the First Minister or the Counsel General and the statutory instrument (or a draft of the statutory instrument) containing it is required to be laid before the [[^F2]Senedd] .
+
+(3) The Welsh Ministers—
+
+(a) must keep the regulatory impact assessment code under review, and
+
+(b) may from time to time remake or revise it.
+
+(4) Before making, remaking or revising the regulatory impact assessment code, the Welsh Ministers must consult such persons as they consider appropriate.
+
+(5) The Welsh Ministers must publish the regulatory impact assessment code when they make it and whenever they remake it; and, if they revise the code without remaking it, they must publish either the revisions or the code as revised (as they consider appropriate).
+
+(6) If the Welsh Ministers publish a code or revisions under subsection (5) they must lay a copy of the code or revisions before the [[^F2]Senedd] .
+
+#### 77 Equality of opportunity
+
+(1) The Welsh Ministers must make appropriate arrangements with a view to securing that their functions are exercised with due regard to the principle that there should be equality of opportunity for all people.
+
+(2) After each financial year the Welsh Ministers must publish a report containing—
+
+(a) a statement of the arrangements made in pursuance of subsection (1) which had effect during that financial year, and
+
+(b) an assessment of how effective those arrangements were in promoting equality of opportunity,
+
+and must lay a copy of the report before the [[^F2]Senedd] .
+
+#### 78 The Welsh language
+
+(1) The Welsh Ministers must adopt a strategy [[^F184]to be known as “the Welsh language strategy” or “strategaeth y Gymraeg”] setting out how they propose to promote and facilitate the use of the Welsh language.
+
+[[^F185](1A) See Part 1 of the Welsh Language and Education (Wales) Act 2025 (asc 2) (referred to in Welsh as Deddf y Gymraeg ac Addysg (Cymru) 2025 (dsc 2)) for further requirements relating to the Welsh language strategy.]
+
+[^F186]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F186]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) The Welsh Ministers—
+
+(a) must keep under review [^F187]... the Welsh language strategy [^F187]..., and
+
+(b) may from time to time adopt a new strategy or [[^F188]revise it].
+
+(5) Before adopting or revising a strategy [^F189]..., the Welsh Ministers must [[^F190]consult the Welsh Language Commissioner and such other] persons as they consider appropriate.
+
+(6) The Welsh Ministers must publish the Welsh language strategy [^F191]... when they first adopt it and—
+
+(a) if they adopt a new strategy [^F192]... they must publish it, and
+
+(b) if they revise the Welsh language strategy [^F193]... (rather than adopting a new strategy [^F192]...) they must publish either the revisions or the strategy [^F192]or scheme as revised (as they consider appropriate).
+
+(7) If the Welsh Ministers publish a strategy [^F194]..., or revisions, under subsection (6) they must lay a copy of the strategy or scheme, or revisions, before the [[^F2]Senedd].
+
+[[^F195](8) After each financial year the Welsh Ministers must publish a report of how the proposals set out in the Welsh language strategy were implemented in that financial year and how effective their implementation has been in promoting and facilitating the use of the Welsh language and must lay a copy of the report before the [[^F2]Senedd].]
+
+[[^F196](9) For each financial year, the Welsh Ministers must publish a plan setting out how they will implement the proposals set out in the Welsh language strategy during that year.
+
+(10) The plan must be published as soon as reasonably practicable before the commencement of the financial year to which it relates.]
+
+[[^F197](11) In subsection (5), the reference to the “Welsh Language Commissioner means the commissioner appointed under section 2 of the Welsh Language (Wales) Measure 2011 (nawm 1) (referred to in Welsh as Mesur y Gymraeg (Cymru) 2011 (mccc 1)).]
+
+#### [[^F198]79 Sustainable development
+
+(1) The Welsh Ministers must, in the exercise of their functions, make appropriate arrangements to promote sustainable development.
+
+(2) After each financial year the Welsh Ministers must publish a report containing a statement of the arrangements made in pursuance of subsection (1) that had effect during that financial year and must lay a copy of the report before the [[^F2]Senedd].
+
+(3) The arrangements referred to in subsection (1) may be made by the Welsh Ministers exercising their functions under section (2) of the Well-being of Future Generations (Wales) Act 2015 (duty of Welsh public bodies to set objectives and take steps to meet them in accordance with the sustainable development principle).]
+
+### [[^F199]Assimilated] [[^F200]obligations], human rights and international obligations etc.
+
+#### 80 [[^F201]Assimilated] [[^F202]obligations]
+
+(1) [[^F203][[^F204]An assimilated] obligation] of the United Kingdom is also an obligation of the Welsh Ministers if and to the extent that the obligation could be implemented (or enabled to be implemented) or complied with by the exercise by the Welsh Ministers of any of their functions.
+
+(2) Subsection (1) does not apply in the case of [[^F205][[^F206]an assimilated] obligation] of the United Kingdom if—
+
+(a) it is an obligation to achieve a result defined by reference to a quantity (whether expressed as an amount, proportion or ratio or otherwise), and
+
+(b) the quantity relates to the United Kingdom (or to an area including the United Kingdom or to an area consisting of a part of the United Kingdom which includes [[^F207]the whole or part of Wales or of the Welsh zone]).
+
+(3) But if such [[^F208][[^F209]an assimilated] obligation] could (to any extent) be implemented (or enabled to be implemented) or complied with by the exercise by the Welsh Ministers of any of their functions, a Minister of the Crown may by order provide for the achievement by the Welsh Ministers (in the exercise of their functions) of so much of the result to be achieved under [[^F210][[^F211]the assimilated] obligation] as is specified in the order.
+
+(4) The order may specify the time by which any part of the result to be achieved by the Welsh Ministers is to be achieved.
+
+(5) No order is to be made by a Minister of the Crown under subsection (3) unless the Minister of the Crown has consulted the Welsh Ministers.
+
+(6) A statutory instrument containing an order under subsection (3) is subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(7) Where an order under subsection (3) is in force in relation to [[^F212][[^F213]an assimilated] obligation], to the extent that [[^F214][[^F215]the assimilated] obligation] involves achieving what is specified in the order it is also an obligation of the Welsh Ministers (enforceable as if it were an obligation of the Welsh Ministers under subsection (1)).
+
+[^F216]8 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F216]8A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F216]8B . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F216]8C . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F216]8D . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F216]8E . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F216]8F . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F216]8G . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F216]8H . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F216]8I . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F216]8J . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F216]8K . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F216]8L . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(9) [[^F217]Subsection (1) applies] to the First Minister and the Counsel General as to the Welsh Ministers.
+
+#### 81 Human rights
+
+(1) The Welsh Ministers have no power—
+
+(a) to make, confirm or approve any subordinate legislation, or
+
+(b) to do any other act,
+
+so far as the subordinate legislation or act is incompatible with any of the Convention rights.
+
+(2) Subsection (1) does not enable a person—
+
+(a) to bring any proceedings in a court or tribunal, or
+
+(b) to rely on any of the Convention rights in any such proceedings,
+
+in respect of an act unless that person would be a victim for the purposes of Article 34 of the Convention if proceedings were brought in the European Court of Human Rights in respect of that act.
+
+(3) Subsection (2) does not apply to the Attorney General, the Counsel General, the Advocate General for Scotland, the Advocate General for Northern Ireland or the Attorney General for Northern Ireland.
+
+(4) Subsection (1)—
+
+(a) does not apply to an act which, by virtue of subsection (2) of section 6 of the Human Rights Act 1998 (c. 42), is not unlawful under subsection (1) of that section, and
+
+(b) does not enable a court or tribunal to award in respect of any act any damages which it could not award on finding the act unlawful under that subsection.
+
+(5) Subsection (1) applies to the First Minister and the Counsel General as to the Welsh Ministers.
+
+(6) In subsection (2) “the Convention” has the same meaning as in the Human Rights Act 1998.
+
+#### 82 International obligations etc.
+
+(1) If the Secretary of State considers that any action proposed to be taken by the Welsh Ministers would be incompatible with any international obligation, the Secretary of State may by order direct that the proposed action is not to be taken.
+
+(2) If the Secretary of State considers that an action capable of being taken by the Welsh Ministers is required for the purposes of giving effect to any international obligation, the Secretary of State may by order direct the Welsh Ministers to take the action.
+
+(3) If the Secretary of State considers that any subordinate legislation made, or which could be revoked, by the Welsh Ministers is incompatible with any international obligation or the interests of defence or national security, the Secretary of State may by order revoke the legislation.
+
+(4) An order under subsection (3) may include provision for the order to have effect from a date earlier than that on which it is made; but—
+
+(a) such a provision does not affect any rights or liabilities acquired or incurred before the date on which the order is made, and
+
+(b) no person is to be guilty of an offence merely because of such a provision.
+
+(5) The Secretary of State may make an order containing provision such as is specified in subsection (6) where—
+
+(a) an international obligation is an obligation to achieve a result defined by reference to a quantity (whether expressed as an amount, proportion or ratio or otherwise), and
+
+(b) the quantity relates to the United Kingdom (or to an area including the United Kingdom or to an area consisting of a part of the United Kingdom which includes [[^F218]the whole or part of Wales or of the Welsh zone]).
+
+(6) The provision referred to in subsection (5) is provision for the achievement by the Welsh Ministers (in the exercise of their functions) of so much of the result to be achieved under the international obligation as is specified in the order.
+
+(7) The order may specify the time by which any part of the result to be achieved by the Welsh Ministers is to be achieved.
+
+(8) Where an order under subsection (5) is in force in relation to an international obligation, references to the international obligation in subsections (1) to (3) are to an obligation to achieve so much of the result to be achieved under the international obligation as is specified in the order by the time or times so specified.
+
+(9) No order is to be made by the Secretary of State under subsection (2), (3) or (5) unless the Secretary of State has consulted the Welsh Ministers.
+
+(10) An order under this section must state the reasons for making it.
+
+(11) A statutory instrument containing—
+
+(a) subject to subsection (12), an order under subsection (1), or
+
+(b) an order under subsection (5),
+
+is (unless a draft of the statutory instrument has been approved by a resolution of each House of Parliament) subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(12) A statutory instrument containing only an order under subsection (1) revoking a previous order under that subsection—
+
+(a) is not subject to annulment in pursuance of a resolution of either House of Parliament, but
+
+(b) is to be laid before Parliament.
+
+(13) No order is to be made under subsection (2) or (3) unless a draft of the statutory instrument containing it has been laid before, and approved by a resolution of, each House of Parliament.
+
+(14) Subsections (1), (2) and (3) apply to the First Minister and the Counsel General as to the Welsh Ministers; and where subsection (9) operates in relation to an order under subsection (2) or (3) relating to the First Minister or the Counsel General the reference in subsection (9) to the Welsh Ministers is to the First Minister or the Counsel General.
+
+(15) In this section “action” includes making, confirming or approving subordinate legislation and in subsection (2) also includes introducing into the [[^F2]Senedd] a proposed Assembly Measure or a Bill.
+
+### Functions: supplementary
+
+#### 83 Agency arrangements and provision of services
+
+(1) Arrangements may be made between the Welsh Ministers and any relevant authority for—
+
+(a) any functions of one of them to be exercised by the other,
+
+(b) any functions of the Welsh Ministers to be exercised by members of staff of the relevant authority,
+
+(c) any functions of the relevant authority to be exercised by members of the staff of the Welsh [^F138]... Government, or
+
+(d) the provision of administrative, professional or technical services by one of them for the other.
+
+(2) Any arrangements under paragraph (a), (b) or (c) of subsection (1) for the exercise of functions of the Welsh Ministers do not affect the responsibility of the Welsh Ministers; and such arrangements for the exercise of any functions of a relevant authority do not affect the responsibility of the relevant authority.
+
+(3) The references in subsections (1) and (2) to functions do not include functions of making, confirming or approving subordinate legislation contained in a statutory instrument.
+
+(4) In this section “relevant authority” means any Minister of the Crown or government department, any public authority (including any local authority) in England and Wales or the holder of any public office in England and Wales.
+
+(5) This section applies to the First Minister and the Counsel General as to the Welsh Ministers.
+
+#### 84 Different exercise of functions by Welsh Ministers etc.
+
+(1) This section applies where—
+
+(a) an enactment confers or imposes a function exercisable in relation to England and Wales, and
+
+(b) the function is to any extent conferred or imposed on the Welsh Ministers by the enactment or transferred to, or made exercisable by, the Welsh Ministers by or by virtue of this Act.
+
+(2) The enactment is to be taken to permit—
+
+(a) the exercise of the function by the Welsh Ministers whether or not it is exercised otherwise than by the Welsh Ministers, and
+
+(b) the exercise of the function differently by the Welsh Ministers (on the one hand) and otherwise than by the Welsh Ministers (on the other).
+
+(3) The reference in subsection (1)(a) to a function exercisable in relation to England and Wales includes a function exercisable in relation both to England and Wales and to another country or territory or other countries or territories.
+
+(4) Subsection (2) is subject to—
+
+(a) the enactment by which the function is conferred or imposed on the Welsh Ministers, or
+
+(b) any provision by or by virtue of which the function is transferred to, or made exercisable by, the Welsh Ministers.
+
+(5) Subsection (2) does not limit any power to exercise a function in relation to Wales whether or not it is exercised in relation to England, or to exercise a function differently in relation to Wales and England, where this section does not apply.
+
+(6) In this section “enactment” includes a future enactment.
+
+(7) This section applies in relation to the First Minister and the Counsel General as to the Welsh Ministers.
+
+#### 85 Construction of references to Ministers and departments
+
+(1) So far as may be necessary for the purpose or in consequence of the exercise of any functions of the Welsh Ministers, the First Minister or the Counsel General, any reference in any enactment or other document to—
+
+(a) a Minister of the Crown, or
+
+(b) a government department,
+
+(whether by name or in general terms) is to be construed as being or including a reference to the Welsh Ministers, the First Minister or the Counsel General (according to by whom the function in question is exercisable).
+
+(2) References in any enactment to property vested in or held for the purposes of a government department is to be construed as including references to property vested in or held for the purposes of the Welsh Ministers, the First Minister or the Counsel General (and in relation to property so vested or held the Welsh Ministers, the First Minister or the Counsel General are each deemed to be a government department for the purposes of any enactment).
+
+(3) In this section “enactment” includes a future enactment.
+
+#### 86 Laying of reports and statements
+
+(1) This section applies where—
+
+(a) any enactment makes provision (“provision for Parliamentary laying”) for any report or statement to be laid before Parliament or either House of Parliament,
+
+(b) the report or statement is not one which, by or by virtue of this Act, is to be made by or given to the Welsh Ministers, the First Minister, the Counsel General or the [[^F2]Senedd] Commission, and
+
+(c) the report or statement relates to matters with respect to which functions are exercisable by the Welsh Ministers, the First Minister, the Counsel General or the [[^F2]Senedd] Commission.
+
+(2) If no functions relating to the matters are exercisable by a Minister of the Crown, the provision for Parliamentary laying is to be construed as provision for the report or statement to be laid before the [[^F2]Senedd] instead of before Parliament or either House of Parliament.
+
+(3) If any are, the provision for Parliamentary laying is to be construed as provision for the report or statement to be laid before the [[^F2]Senedd] as well as before Parliament or either House of Parliament.
+
+(4) In this section—
+
+(a) references to a report or statement include any other document (except one containing subordinate legislation), and
+
+(b) “enactment” includes a future enactment.
+
+### Property, rights and liabilities
+
+#### 87 Property, rights and liabilities of Welsh Ministers etc.
+
+(1) Property, rights and liabilities may belong to—
+
+(a) the Welsh Ministers by that name,
+
+(b) the First Minister by that name, or
+
+(c) the Counsel General by that name.
+
+(2) Property and rights acquired by or transferred to the Welsh Ministers belong to, and liabilities incurred by the Welsh Ministers are liabilities of, the Welsh Ministers for the time being.
+
+(3) Property and rights acquired by or transferred to any of the Welsh Ministers appointed under section 48 belong to, and liabilities incurred by any of those Welsh Ministers are liabilities of, the Welsh Ministers for the time being.
+
+(4) Property and rights acquired by or transferred to the First Minister belong to, and liabilities incurred by the First Minister are liabilities of, the First Minister for the time being.
+
+(5) Property and rights acquired by or transferred to the Counsel General belong to, and liabilities incurred by the Counsel General are liabilities of, the Counsel General for the time being.
+
+(6) In relation to property and rights acquired by or transferred to (or belonging to), or to liabilities incurred by—
+
+(a) the Welsh Ministers or any of the Welsh Ministers appointed under section 48,
+
+(b) the First Minister, or
+
+(c) the Counsel General,
+
+references to the Welsh Ministers, the First Minister or the Counsel General in any register or other document are to be read in accordance with this section.
+
+#### 88 Transfer of Ministerial property, rights and liabilities
+
+For provision about the transfer of property, rights and liabilities of Ministers of the Crown to the Welsh Ministers etc. see Schedule 4.
+
+### Supplementary
+
+#### 89 Rights and liabilities of the Crown in different capacities
+
+(1) Rights and liabilities may arise between the Crown in right of Her Majesty's Government in the United Kingdom and the Crown in right of the Welsh [^F138]... Government by virtue of a contract, by operation of law or by virtue of an enactment as they may arise between subjects.
+
+(2) Property, rights and liabilities may be transferred between the Crown in one of those capacities and the Crown in the other capacity as they may be transferred between subjects; and they may together create, vary or extinguish any property, rights or liabilities as subjects may.
+
+(3) Proceedings in respect of—
+
+(a) any property, rights or liabilities to which the Crown in one of those capacities is entitled or subject under subsection (1) or (2), or
+
+(b) the exercise of, or failure to exercise, any function exercisable by an office-holder of the Crown in one of those capacities,
+
+may be instituted by the Crown in either capacity; and the Crown in the other capacity may be a separate party in the proceedings.
+
+(4) This section applies to the Crown in right of a devolved administration (other than the Welsh [^F138]... Government) as it applies to the Crown in right of Her Majesty's Government in the United Kingdom.
+
+(5) In this section “office-holder” means—
+
+(a) in relation to the Crown in right of Her Majesty's Government in the United Kingdom, any Minister of the Crown or other office-holder under the Crown in that capacity,
+
+(b) in relation to the Crown in right of the Welsh [^F138]... Government, the First Minister, a Welsh Minister appointed under section 48 or the Counsel General, and
+
+(c) in relation to the Crown in right of a devolved administration other than the Welsh [^F138]... Government, an office-holder in that administration;
+
+and “subject” means a person not acting on behalf of the Crown.
+
+#### 90 Documents
+
+(1) A document is validly executed by the Welsh Ministers if it is executed by the First Minister or any Welsh Minister appointed under section 48.
+
+(2) The application of the seal of the Welsh Ministers is to be authenticated by the First Minister, any Welsh Minister appointed under section 48 or any person authorised by the Welsh Ministers (whether generally or specifically) for that purpose.
+
+(3) A document purporting to be—
+
+(a) duly executed under the seal of the Welsh Ministers, or
+
+(b) signed on behalf of the Welsh Ministers,
+
+is to be received in evidence and, unless the contrary is proved, is to be taken to be so executed or signed.
+
+(4) A certificate signed by the First Minister or a Welsh Minister appointed under section 48 that any document purporting to be executed by the Welsh Ministers or signed by them or on their behalf was so executed or signed is conclusive evidence of that fact.
+
+(5) A document purporting to be signed by or on behalf of—
+
+(a) the First Minister, or
+
+(b) the Counsel General,
+
+is to be received in evidence and, unless the contrary is proved, is to be taken to be so signed.
+
+(6) A certificate signed by the First Minister or the Counsel General that any document purporting to be signed by or on behalf of the First Minister or the Counsel General was so signed is conclusive evidence of that fact.
+
+(7) The Documentary Evidence Act 1868 (c. 37) (proof of documents) has effect as if—
+
+(a) in the first column of Schedule 1 there were included a reference to the Welsh Ministers, the First Minister, a Welsh Minister appointed under section 48 and the Counsel General,
+
+(b) in the second column of that Schedule there were included in connection with that reference a reference to a member of the staff of the Welsh [^F138]... Government, and
+
+(c) in section 2 of that Act the reference to regulations issued by or under the authority of an officer mentioned in the first column of the Schedule included a reference to any document issued by or under the authority of a person or persons within paragraph (a).
+
+#### 91 Validity of acts
+
+(1) The validity of any act of a person as First Minister is not affected by any defect in the person's nomination by the [[^F2]Senedd] .
+
+(2) The validity of any act of a person as the Counsel General is not affected by any defect in the [[^F2]Senedd's] agreement to the person's appointment.
+
+#### 92 Official secrets
+
+The following are Crown servants for the purposes of the Official Secrets Act 1989 (c. 6)—
+
+(a) the First Minister and any person designated to exercise the functions of the First Minister,
+
+(b) each Welsh Minister appointed under section 48,
+
+(c) the Counsel General and any person designated to exercise the functions of the Counsel General, and
+
+(d) each Deputy Welsh Minister.
+
+## [^F219]Part 3 — [^F219] Assembly Measures
+
+### [^F219]Power
+
+#### [^F219]93 [^F219]Assembly Measures
+
+[^F219]1 [^F219] The [^F219][[^F2]Senedd][^F219] may make laws, to be known as Measures of the National [^F219][[^F2]Senedd][^F219] for Wales or Mesurau Cynulliad Cenedlaethol Cymru (referred to in this Act as “ [^F219]Assembly Measures[^F219] ”).
+
+[^F219]2 [^F219]A proposed Assembly Measure is enacted by being passed by the [^F219][[^F2]Senedd][^F219] and approved by Her Majesty in Council.
+
+[^F219]3 [^F219]The validity of an Assembly Measure is not affected by any invalidity in the [^F219][[^F2]Senedd][^F219] proceedings leading to its enactment.
+
+[^F219]4 [^F219]Every Assembly Measure is to be judicially noticed.
+
+[^F219]5 [^F219]This Part does not affect the power of the Parliament of the United Kingdom to make laws for Wales.
+
+#### [^F219]94 [^F219] Legislative competence
+
+[^F219]1 [^F219]Subject to the provisions of this Part, an Assembly Measure may make any provision that could be made by an Act of Parliament.
+
+[^F219]2 [^F219]An Assembly Measure is not law so far as any provision of the Assembly Measure is outside the [^F219][[^F2]Senedd's][^F219] legislative competence.
+
+[^F219]3 [^F219]A provision of an Assembly Measure is within the [^F219][[^F2]Senedd's][^F219] legislative competence only if it falls within subsection (4) or (5).
+
+[^F219]4 [^F219]A provision of an Assembly Measure falls within this subsection if—
+
+[^F219]a [^F219]it relates to one or more of the matters specified in Part 1 of Schedule 5 [^F219][[^F220]and does not fall within any of the exceptions specified in paragraph A1 of Part 2 of that Schedule (whether or not the exception is under a heading corresponding to the field which includes the matter).][^F219], and
+
+[^F219]b [^F219]it neither applies otherwise than in relation to Wales nor confers, imposes, modifies or removes (or gives power to confer, impose, modify or remove) functions exercisable otherwise than in relation to Wales.
+
+[^F219]5 [^F219]A provision of an Assembly Measure falls within this subsection if—
+
+[^F219]a [^F219]it provides for the enforcement of a provision (of that or any other Assembly Measure) which falls within subsection (4) or it is otherwise appropriate for making such a provision effective, or
+
+[^F219]b [^F219]it is otherwise incidental to, or consequential on, such a provision.
+
+[^F219]6 [^F219]But a provision which falls within subsection (4) or (5) is outside the [^F219][[^F2]Senedd's][^F219] legislative competence if—
+
+[^F219]a [^F219]it breaches any of the restrictions in [^F219][[^F221] paragraphs 1 to 6 of][^F219] Part 2 of Schedule 5, having regard to any exception in Part 3 of that Schedule from those restrictions,
+
+[^F219] b [^F219]it extends otherwise than only to England and Wales, or
+
+[^F219]c [^F219]it is incompatible with the Convention rights or with [^F219][[^F222]EU][^F219] law.
+
+[^F219]7 [^F219]For the purposes of this section the question whether a provision of an Assembly Measure relates to one or more of the matters specified in Part 1 of Schedule 5 [^F219][[^F223](or falls within any of the exceptions specified in paragraph A1 of Part 2 of that Schedule)][^F219] is to be determined by reference to the purpose of the provision, having regard (among other things) to its effect in all the circumstances.
+
+#### [^F219]95 [^F219][[^F36]Legislative competence: supplementary
+
+[^F219]1 [^F219]Her Majesty may by Order in Council—
+
+[^F219]a [^F219]amend Part 1 of Schedule 5 to add a matter which relates to one or more of the fields listed in that Part, or to vary or remove any matter,
+
+[^F219]b [^F219]amend that Part to add a new field or to vary or remove any field, or
+
+[^F219]c [^F219]amend Part 2 or 3 of that Schedule.
+
+[^F219]2 [^F219]An Order in Council under this section does not have effect to amend Part 1 of Schedule 5 by adding a field if, at the time when the amendment comes into force, no functions in the field are exercisable by the Welsh Ministers, the First Minister or the Counsel General.
+
+[^F219]3 [^F219]An Order in Council under this section may make such modifications of—
+
+[^F219]a [^F219]any enactment (including any enactment comprised in or made under this Act) or prerogative instrument, or
+
+[^F219]b [^F219]any other instrument or document,
+
+[^F219]as Her Majesty considers appropriate in connection with the provision made by the Order in Council.
+
+[^F219]4 [^F219]An Order in Council under this section may make provision having retrospective effect.
+
+[^F219]5 [^F219]No recommendation is to be made to Her Majesty in Council to make an Order in Council under this section unless a draft of the statutory instrument containing the Order in Council—
+
+[^F219]a [^F219]has been laid before, and approved by a resolution of, the [^F219][[^F2]Senedd][^F219], and
+
+[^F219]b [^F219]having been so approved, has been laid before, and approved by a resolution of, each House of Parliament.
+
+[^F219]6 [^F219]As soon as is reasonably practicable after the draft of an Order in Council under this section has been approved by a resolution of the [^F219][[^F2]Senedd][^F219], the First Minister must ensure that—
+
+[^F219]a [^F219]notice in writing of the resolution, and
+
+[^F219]b [^F219]a copy of the draft,
+
+[^F219]is sent to the Secretary of State.
+
+[^F219]7 [^F219]The Secretary of State must, before the end of the period of 60 days beginning immediately after the day on which notice of the [^F219][[^F2]Senedd's][^F219] resolution is received, either—
+
+[^F219]a [^F219]lay the draft before each House of Parliament, or
+
+[^F219]b [^F219]give notice in writing to the First Minister of the Secretary of State's refusal to do so and the reasons for that refusal.
+
+[^F219]8 [^F219]As soon as is reasonably practicable after the First Minister receives notice of the Secretary of State's refusal to lay the draft before each House of Parliament and the reasons for that refusal—
+
+[^F219]a [^F219]the First Minister must lay a copy of the notice before the [^F219][[^F2]Senedd][^F219], and
+
+[^F219]b [^F219]the [^F219][[^F2]Senedd][^F219] must ensure that it is published.
+
+[^F219]9 [^F219]In reckoning the period of 60 days mentioned in subsection (7) no account is to be taken of any period during which Parliament is dissolved or prorogued or both Houses are adjourned for more than four days.
+
+[^F219]10 [^F219]The amendment of Schedule 5 by an Order in Council under this section does not affect—
+
+[^F219]a [^F219]the validity of an Assembly Measure passed before the amendment comes into force, or
+
+[^F219]b [^F219]the previous or continuing operation of such an Assembly Measure.
+
+#### [^F219]96 [^F219]Scrutiny of proposed Orders in Council
+
+[^F219]The Counsel General or the Attorney General may refer to the Supreme Court for decision the question whether a matter which a proposed Order in Council under section 95 proposes to add to Part 1 of Schedule 5 relates to a field listed in that Part.
+
+### [^F219]Procedure
+
+#### [^F219]97 [^F219] Introduction of proposed Assembly Measures
+
+[^F219]1 [^F219]A proposed Assembly Measure may, subject to the standing orders, be introduced in the [^F219][[^F2]Senedd][^F219] —
+
+[^F219]a [^F219]by the First Minister, any Welsh Minister appointed under section 48, any Deputy Welsh Minister or the Counsel General, or
+
+[^F219]b [^F219]by any other [^F219][[^F58]Member of the Senedd][^F219] .
+
+[^F219]2 [^F219]The person in charge of a proposed Assembly Measure must, on or before the introduction of the proposed Assembly Measure, state that, in that person's view, its provisions would be within the [^F219][[^F2]Senedd's][^F219] legislative competence.
+
+[^F219]3 [^F219]The Presiding Officer must, on or before the introduction of a proposed Assembly Measure in the [^F219][[^F2]Senedd ][^F219] —
+
+[^F219]a [^F219]decide whether or not, in the view of the Presiding Officer, the provisions of the proposed Assembly Measure would be within the [^F219][[^F2]Senedd's][^F219] legislative competence, and
+
+[^F219]b [^F219]state that decision.
+
+[^F219]4 [^F219]A statement under this section must be made in both English and Welsh; but, subject to that, the form of the statement and the manner in which it is to be made are to be determined under the standing orders.
+
+[^F219]5 [^F219]The standing orders—
+
+[^F219]a [^F219]may provide for a statement under this section to be published, and
+
+[^F219]b [^F219]if they do so, must provide for it to be published in both English and Welsh.
+
+#### [^F219]98 [^F219] Proceedings on proposed Assembly Measures
+
+[^F219]1 [^F219]The standing orders must include provision—
+
+[^F219]a [^F219]for general debate on a proposed Assembly Measure with an opportunity for [^F219][[^F9]Members of the Senedd ][^F219] to vote on its general principles,
+
+[^F219]b [^F219]for the consideration of, and an opportunity for [^F219][[^F9]Members of the Senedd][^F219] to vote on, the details of a proposed Assembly Measure, and
+
+[^F219]c [^F219]for a final stage at which a proposed Assembly Measure can be passed or rejected.
+
+[^F219]2 [^F219]Subsection (1) does not prevent the standing orders making provision to enable the [^F219][[^F2]Senedd][^F219] to expedite proceedings in relation to a particular proposed Assembly Measure.
+
+[^F219]3 [^F219]The standing orders may make provision different from that required by subsection (1) for the procedure applicable to proposed Assembly Measures of any of the following kinds—
+
+[^F219]a [^F219]proposed Assembly Measures which restate the law,
+
+[^F219]b [^F219]proposed Assembly Measures which repeal or revoke spent enactments, and
+
+[^F219]c [^F219]private proposed Assembly Measures.
+
+[^F219]4 [^F219]The standing orders must include provision for securing that the [^F219][[^F2]Senedd][^F219] may only pass a proposed Assembly Measure containing provisions which would, if contained in a Bill for an Act of Parliament, require the consent of Her Majesty or the Duke of Cornwall if such consent has been signified in accordance with the standing orders.
+
+[^F219]5 [^F219]The standing orders must include provision for securing that the [^F219][[^F2]Senedd][^F219] may only pass a proposed Assembly Measure if the text of the proposed Assembly Measure is in both English and Welsh, unless the circumstances are such as are specified by the standing orders as any in which the text need not be in both languages.
+
+[^F219]6 [^F219]The standing orders must provide for an opportunity for the reconsideration of a proposed Assembly Measure after its passing if (and only if)—
+
+[^F219]a [^F219]the Supreme Court decides on a reference made in relation to the proposed Assembly Measure under section 99 that the proposed Assembly Measure or any provision of it would not be within the [^F219][[^F2]Senedd's][^F219] legislative competence,
+
+[^F219]b [^F219]a reference made in relation to the proposed Assembly Measure under section 99 is withdrawn following a request for withdrawal of the reference under section 100(2)(b), or
+
+[^F219]c [^F219]an order is made in relation to the proposed Assembly Measure under section 101.
+
+[^F219]7 [^F219]The standing orders must, in particular, ensure that any proposed Assembly Measure amended on reconsideration is subject to a final stage at which it can be approved or rejected.
+
+[^F219]8 [^F219]References in subsections (4), (5) and (6) of this section and sections 93(2) and 95(10) to the passing of a proposed Assembly Measure are, in the case of a proposed Assembly Measure which has been amended on reconsideration, to be read as references to its approval.
+
+#### [^F219]99 [^F219] Scrutiny of proposed Assembly Measures by Supreme Court
+
+[^F219]1 [^F219]The Counsel General or the Attorney General may refer the question whether a proposed Assembly Measure, or any provision of a proposed Assembly Measure, would be within the [^F219][[^F2]Senedd's][^F219] legislative competence to the Supreme Court for decision.
+
+[^F219]2 [^F219]Subject to subsection (3), the Counsel General or the Attorney General may make a reference in relation to a proposed Assembly Measure at any time during—
+
+[^F219]a [^F219]the period of four weeks beginning with the passing of the proposed Assembly Measure, and
+
+[^F219]b [^F219]any period of four weeks beginning with any subsequent approval of the proposed Assembly Measure in accordance with provision included in the standing orders in compliance with section 98(7).
+
+[^F219]3 [^F219]No reference may be made in relation to a proposed Assembly Measure—
+
+[^F219]a [^F219]by the Counsel General if the Counsel General has notified the Clerk that no reference is to be made in relation to it by the Counsel General, or
+
+[^F219]b [^F219]by the Attorney General if the Attorney General has notified the Clerk that no reference is to be made in relation to it by the Attorney General.
+
+[^F219]4 [^F219]But subsection (3) does not apply if the proposed Assembly Measure has been approved as mentioned in subsection (2)(b) since the notification.
+
+#### [^F219]100 [^F219]ECJ[^F219] references
+
+[^F219]1 [^F219]This section applies where—
+
+[^F219]a [^F219]a reference has been made in relation to a proposed Assembly Measure under section 99,
+
+[^F219]b [^F219]a reference for a preliminary European Court ruling has been made by the Supreme Court in connection with that reference, and
+
+[^F219]c [^F219]neither of those references has been decided or otherwise disposed of.
+
+[^F219]2 [^F219]If the [^F219][[^F2]Senedd][^F219] resolves that it wishes to reconsider the proposed Assembly Measure—
+
+[^F219]a [^F219]the Clerk must notify the Counsel General and the Attorney General of that fact, and
+
+[^F219]b [^F219]the person who made the reference in relation to the proposed Assembly Measure under section 99 must request the withdrawal of the reference.
+
+[^F219]3 [^F219] In this section “ [^F219]a reference for a preliminary European Court ruling[^F219] ” means a reference of a question to the European Court under Article 234 of the Treaty establishing the European Community, Article 41 of the Treaty establishing the European Coal and Steel Community or Article 150 of the Treaty establishing the European Atomic Energy Community.
+
+#### [^F219]101 [^F219] Power to intervene in certain cases
+
+[^F219]1 [^F219]This section applies if a proposed Assembly Measure contains provisions which the Secretary of State has reasonable grounds to believe—
+
+[^F219]a [^F219]would have an adverse effect on any matter which is not specified in Part 1 of Schedule 5 [^F219][[^F224](or falls within any of the exceptions specified in paragraph A1 of Part 2 of that Schedule)][^F219],
+
+[^F219]b [^F219]might have a serious adverse impact on water resources in England, water supply in England or the quality of water in England,
+
+[^F219]c [^F219]would have an adverse effect on the operation of the law as it applies in England, or
+
+[^F219]d [^F219]would be incompatible with any international obligation or the interests of defence or national security.
+
+[^F219]2 [^F219]The Secretary of State may make an order prohibiting the Clerk from submitting the proposed Assembly Measure for approval by Her Majesty in Council.
+
+[^F219]3 [^F219]The order must identify the proposed Assembly Measure and the provisions in question and state the reasons for making the order.
+
+[^F219]4 [^F219]The order may be made at any time during—
+
+[^F219]a [^F219]the period of four weeks beginning with the passing of the proposed Assembly Measure,
+
+[^F219]b [^F219]any period of four weeks beginning with any subsequent approval of the proposed Assembly Measure in accordance with provision included in the standing orders in compliance with section 98(7), or
+
+[^F219]c [^F219]if a reference is made in relation to the proposed Assembly Measure under section 99, the period of four weeks beginning with the reference being decided or otherwise disposed of by the Supreme Court.
+
+[^F219]5 [^F219]The Secretary of State must not make an order in relation to a proposed Assembly Measure if the Secretary of State has notified the Clerk that no order is to be made in relation to the proposed Assembly Measure.
+
+[^F219]6 [^F219]Subsection (5) does not apply if the proposed Assembly Measure has been approved as mentioned in subsection (4)(b) since the notification.
+
+[^F219]7 [^F219]An order in force under this section at a time when such approval is given ceases to have effect.
+
+[^F219]8 [^F219]A statutory instrument containing an order under this section is subject to annulment in pursuance of a resolution of either House of Parliament.
+
+#### [^F219]102 [^F219] Approval of proposed Assembly Measures
+
+[^F219]1 [^F219]It is for the Clerk to submit proposed Assembly Measures for approval by Her Majesty in Council.
+
+[^F219]2 [^F219]The Clerk may not submit a proposed Assembly Measure for approval by Her Majesty in Council at any time when—
+
+[^F219]a [^F219]the Attorney General or the Counsel General is entitled to make a reference in relation to the proposed Assembly Measure under section 99,
+
+[^F219]b [^F219]such a reference has been made but has not been decided or otherwise disposed of by the Supreme Court, or
+
+[^F219]c [^F219]an order may be made in relation to the proposed Assembly Measure under section 101.
+
+[^F219]3 [^F219]The Clerk may not submit a proposed Assembly Measure in its unamended form for approval by Her Majesty in Council if—
+
+[^F219]a [^F219]the Supreme Court has decided on a reference made in relation to the proposed Assembly Measure under section 99 that the proposed Assembly Measure or any provision of it would not be within the [^F219][[^F2]Senedd's][^F219] legislative competence, or
+
+[^F219]b [^F219]a reference made in relation to the proposed Assembly Measure under section 99 has been withdrawn following a request for withdrawal of the reference under section 100(2)(b).
+
+[^F219]4 [^F219]Once an Assembly Measure has been approved by Her Majesty in Council, the Clerk of the Privy Council must send the Order in Council approving the Assembly Measure to the Clerk.
+
+[^F219]5 [^F219]The date of the approval by Her Majesty in Council of an Assembly Measure is to be written on the Assembly Measure by the Clerk, and forms part of the Assembly Measure.
+
+[^F219]6 [^F219]The Clerk must publish the Order in Council by which an Assembly Measure is approved.
+
+[^F219]7 [^F219]The standing orders must include provision for the notification by the Clerk to the [^F219][[^F2]Senedd][^F219] of the date of the approval of an Assembly Measure by Her Majesty in Council.
+
+[^F219]8 [^F219]The validity of an Assembly Measure is not affected by any failure to comply with provision made by or by virtue of subsection (4), (5) or (7).]
+
+## Part 4 — Acts of the [[^F2]Senedd]
+
+### [^F225]...
+
+#### [^F226]103 Referendum about commencement of Assembly Act provisions
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F226]104 Proposal for referendum by Assembly
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F226]105 Commencement of Assembly Act provisions
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F226]106 Effect on Measures of commencement of Assembly Act provisions
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F226]106A Enactment of proposed Assembly Measures
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Power
+
+#### 107 Acts of the [[^F2]Senedd]
+
+(1) The [[^F2]Senedd] may make laws, to be known as Acts of [[^F227]Senedd Cymru or Deddfau Senedd Cymru (referred to in this Act as “Acts of the Senedd”)].
+
+(2) Proposed Acts of the [[^F2]Senedd] are to be known as Bills; and a Bill becomes an Act of the [[^F2]Senedd] when it has been passed by the [[^F2]Senedd] and has received Royal Assent.
+
+(3) The validity of an Act of the [[^F2]Senedd] is not affected by any invalidity in the [[^F2]Senedd] proceedings leading to its enactment.
+
+(4) Every Act of the [[^F2]Senedd] is to be judicially noticed.
+
+(5) This Part does not affect the power of the Parliament of the United Kingdom to make laws for Wales.
+
+[[^F228](6) But it is recognised that the Parliament of the United Kingdom will not normally legislate with regard to devolved matters without the consent of the [[^F2]Senedd].]
+
+#### [^F229]108 Legislative competence
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 108A [[^F229]Legislative competence
+
+(1) An Act of the [[^F2]Senedd] is not law so far as any provision of the Act is outside the [[^F2]Senedd's] legislative competence.
+
+(2) A provision is outside that competence so far as any of the following paragraphs apply—
+
+(a) it extends otherwise than only to England and Wales;
+
+(b) it applies otherwise than in relation to Wales or confers, imposes, modifies or removes (or gives power to confer, impose, modify or remove) functions exercisable otherwise than in relation to Wales;
+
+(c) it relates to reserved matters (see Schedule 7A);
+
+(d) it breaches any of the restrictions in Part 1 of Schedule 7B, having regard to any exception in Part 2 of that Schedule from those restrictions;
+
+(e) it is incompatible with the Convention rights [^F230]....
+
+(3) But subsection (2)(b) does not apply to a provision that—
+
+(a) is ancillary to a provision of any Act of the [[^F2]Senedd] or Assembly Measure or to a devolved provision of an Act of Parliament, and
+
+(b) has no greater effect otherwise than in relation to Wales, or in relation to functions exercisable otherwise than in relation to Wales, than is necessary to give effect to the purpose of that provision.
+
+(4) For this purpose, a provision of an Act of Parliament is ““devolved”” if it would be within the [[^F2]Senedd's] legislative competence if it were contained in an Act of the [[^F2]Senedd] (ignoring any requirement for consent or consultation imposed under paragraph 8, 10 or 11 of Schedule 7B or otherwise).
+
+[[^F231](4A) References in subsections (2)(b) and (3) to Wales include, in relation to a relevant provision of an Act of the Senedd, the area of the Welsh zone beyond the seaward limit of the territorial sea.
+
+A provision of an Act of the Senedd is “relevant” if it relates to fishing, fisheries or fish health.]
+
+(5) In determining what is necessary for the purposes of subsection (3), any power to make laws other than that of the [[^F2]Senedd] is disregarded.
+
+(6) The question whether a provision of an Act of the [[^F2]Senedd] relates to a reserved matter is determined by reference to the purpose of the provision, having regard (among other things) to its effect in all the circumstances.
+
+(7) For the purposes of this Act a provision is ancillary to another provision if it—
+
+(a) provides for the enforcement of the other provision or is otherwise appropriate for making that provision effective, or
+
+(b) is otherwise incidental to, or consequential on, that provision.]
+
+#### 109 Legislative competence: supplementary
+
+(1) Her Majesty may by Order in Council amend [[^F232]Schedule 7A or 7B].
+
+(2) An Order in Council under this section may make such modifications of—
+
+(a) any enactment (including any enactment comprised in or made under this Act) or prerogative instrument, or
+
+(b) any other instrument or document,
+
+as Her Majesty considers appropriate in connection with the provision made by the Order in Council.
+
+(3) An Order in Council under this section may make provision having retrospective effect.
+
+(4) No recommendation is to be made to Her Majesty in Council to make an Order in Council under this section unless a draft of the statutory instrument containing the Order in Council [[^F233] has been laid before, and approved by a resolution of, each House of Parliament and the [[^F2]Senedd] .]
+
+[[^F234](5) Any alteration of Schedule 7A or 7B, whether by virtue of the making, revocation or expiry of an Order in Council under this section or otherwise, does not (unless an enactment provides otherwise) affect—
+
+(a) the validity of an Act of the [[^F2]Senedd] passed before the alteration takes effect, or
+
+(b) the previous or continuing operation of such an Act of the [[^F2]Senedd] .]
+
+#### [^F235]109A Legislative competence: restriction relating to retained EU law
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Procedure
+
+#### 110 Introduction of Bills
+
+(1) A Bill may, subject to the standing orders, be introduced in the [[^F2]Senedd] —
+
+(a) by the First Minister, any Welsh Minister appointed under section 48 any Deputy Welsh Minister or the Counsel General, or
+
+(b) by any other [[^F58]Member of the Senedd] .
+
+(2) The person in charge of a Bill must, on or before the introduction of the Bill, state that, in that person's view, its provisions would be within the [[^F2]Senedd's] legislative competence.
+
+(3) The Presiding Officer must, on or before the introduction of a Bill in the [[^F2]Senedd] —
+
+(a) decide whether or not, in the view of the Presiding Officer, the provisions of the Bill would be within the [[^F2]Senedd's] legislative competence, and
+
+(b) state that decision.
+
+(4) A statement under this section must be made in both English and Welsh; but, subject to that, the form of the statement and the manner in which it is to be made are to be determined under the standing orders.
+
+(5) The standing orders—
+
+(a) may provide for a statement under this section to be published, and
+
+(b) if they do so, must provide for it to be published in both English and Welsh.
+
+#### 110A [[^F236]Introduction of Bills: justice impact assessment
+
+(1) The standing orders must include provision requiring the person in charge of a Bill, on or before the introduction of the Bill, to make a written statement setting out the potential impact (if any) on the justice system in England and Wales of the provisions of the Bill (a ““justice impact assessment””).
+
+(2) The form of the justice impact assessment and the manner in which it is to be made are to be determined under the standing orders.
+
+(3) The standing orders must provide for the justice impact assessment to be published.]
+
+#### 111 Proceedings on Bills
+
+(1) The standing orders must include provision—
+
+(a) for general debate on a Bill with an opportunity for [[^F9]Members of the Senedd] to vote on its general principles,
+
+(b) for the consideration of, and an opportunity for [[^F9]Members of the Senedd] to vote on, the details of a Bill, and
+
+(c) for a final stage at which a Bill can be passed or rejected.
+
+(2) Subsection (1) does not prevent the standing orders making provision to enable the [[^F2]Senedd] to expedite proceedings in relation to a particular Bill.
+
+(3) The standing orders may make provision different from that required by subsection (1) for the procedure applicable to Bills of any of the following kinds—
+
+(a) Bills which restate the law,
+
+(b) Bills which repeal or revoke spent enactments, and
+
+(c) private Bills.
+
+(4) The standing orders must include provision for securing that the [[^F2]Senedd ] may only pass a Bill containing provisions which would, if contained in a Bill for an Act of Parliament, require the consent of Her Majesty or the Duke of Cornwall if such consent has been signified in accordance with the standing orders.
+
+(5) The standing orders must include provision for securing that the [[^F2]Senedd] may only pass a Bill if the text of the Bill is in both English and Welsh, unless the circumstances are such as are specified by the standing orders as any in which the text need not be in both languages.
+
+(6) The standing orders must provide for an opportunity for the reconsideration of a Bill after its passing if (and only if)—
+
+[[^F237](za) the Supreme Court decides on a reference made in relation to the Bill under section 111B(2)(b) (reference following Presiding Officer's decision that Bill does not contain protected subject-matter) that any provision of the Bill relates to a protected subject-matter,]
+
+(a) the Supreme Court decides on a reference made in relation to the Bill under section 112 that the Bill or any provision of it would not be within the [[^F2]Senedd's] legislative competence,
+
+(b) [^F238]... or
+
+(c) an order is made in relation to the Bill under section 114.
+
+[[^F239](6A) The standing orders must provide for an opportunity for the reconsideration of a Bill after its rejection if (and only if), on a reference made in relation to the Bill under section 111B(2)(a) (reference following Presiding Officer's decision that Bill contains protected subject-matter), the Supreme Court decides that no provision that is subject to the reference relates to a protected subject-matter.]
+
+[[^F240](7) The standing orders must, in particular, ensure that—
+
+(a) any Bill amended on reconsideration in accordance with standing orders made by virtue of subsection (6)(a) [^F241]... or (c), and
+
+(b) any Bill reconsidered in accordance with standing orders made by virtue of subsection (6)(za) or (6A),
+
+is subject to a final stage at which it can be approved or rejected.]
+
+(8) References in subsections (4), (5) and (6) of this section and sections 107(2), 109(5) [[^F242], 111A(3) and (4), 111B(2)(b)] [[^F243], 116(3) and 116C (4)] to the passing of a Bill are, in the case of a Bill [[^F244]to which subsection (7)(a) or (b) applies], to be read as references to its approval.
+
+#### 111A [[^F245]Bills with protected subject-matter: super-majority requirement
+
+(1) For the purposes of this Part a provision of a Bill relates to a protected subject-matter if it would modify, or confer power to modify, any of the matters listed in subsection (2) (but not if the provision is incidental to or consequential on another provision of the Bill).
+
+(2) The matters are—
+
+(a) the name of the [[^F2]Senedd] ,
+
+(b) the persons entitled to vote as electors at an election for membership of the [[^F2]Senedd] ,
+
+(c) the system by which members of the [[^F2]Senedd] are returned,
+
+(d) the specification or number of constituencies, regions or any equivalent electoral area,
+
+(e) the number of members to be returned for each constituency, region or equivalent electoral area, and
+
+(f) the number of persons who may hold the office of Welsh Minister appointed under section 48 or the office of Deputy Welsh Minister.
+
+(3) The Presiding Officer must, after the last time when a Bill may be amended but before the decision whether to pass or reject it—
+
+(a) decide whether or not, in the view of the Presiding Officer, any provision of the Bill relates to a protected subject-matter, and
+
+(b) state that decision.
+
+(4) If the Presiding Officer decides that any provision of the Bill relates to a protected subject-matter, the Bill is not passed unless the number of [[^F9]Members of the Senedd] voting in favour of it at the final stage is at least two-thirds of the total number of [[^F2]Senedd] seats.
+
+#### 111B Scrutiny of Bills by the Supreme Court (protected subject-matter)
+
+(1) The Counsel General or the Attorney General may refer the question whether any provision of a Bill relates to a protected subject-matter to the Supreme Court for decision.
+
+(2) Subject to subsection (3), the Counsel General or the Attorney General may make a reference in relation to a Bill—
+
+(a) at any time during the period of four weeks beginning with the rejection of the Bill, if the Presiding Officer has decided under section 111A(3) that a provision of the Bill relates to a protected subject-matter, or
+
+(b) at any time during the period of four weeks beginning with the passing of the Bill, if the Presiding Officer has decided under section 111A(3) that no provision of the Bill relates to a protected subject-matter, unless the number of [[^F9]Members of the Senedd] voting in favour of the Bill at its passing is at least two-thirds of the total number of [[^F2]Senedd] seats.
+
+(3) No reference may be made in relation to a Bill—
+
+(a) by the Counsel General if the Counsel General has notified the Presiding Officer that no reference is to be made in relation to it by the Counsel General, or
+
+(b) by the Attorney General if the Attorney General has notified the Presiding Officer that no reference is to be made in relation to it by the Attorney General.
+
+(4) But subsection (3) does not apply if the Bill has, since the notification, been approved or rejected in accordance with standing orders made by virtue of section 111(7).]
+
+#### 112 Scrutiny of Bills by Supreme Court [[^F246](legislative competence)]
+
+(1) The Counsel General or the Attorney General may refer the question whether a Bill, or any provision of a Bill, would be within the [[^F2]Senedd's] legislative competence to the Supreme Court for decision.
+
+(2) Subject to subsection (3), the Counsel General or the Attorney General may make a reference in relation to a Bill at any time during—
+
+(a) the period of four weeks beginning with the passing of the Bill, and
+
+(b) any period of four weeks beginning with any [^F247]... approval of the Bill in accordance with provision included in the standing orders in compliance with section 111(7).
+
+(3) No reference may be made in relation to a Bill—
+
+(a) by the Counsel General if the Counsel General has notified the [[^F248]Presiding Officer] that no reference is to be made in relation to it by the Counsel General, or
+
+(b) by the Attorney General if the Attorney General has notified the [[^F248]Presiding Officer] that no reference is to be made in relation to it by the Attorney General.
+
+(4) But subsection (3) does not apply if the Bill has been approved as mentioned in subsection (2)(b) since the notification.
+
+#### [^F249]113 ECJ references
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 114 Power to intervene in certain cases
+
+(1) This section applies if a Bill contains provisions which the Secretary of State has reasonable grounds to believe—
+
+(a) would have an adverse effect on [[^F250]a reserved matter],
+
+[^F251]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(c) would have an adverse effect on the operation of the law as it applies in England, or
+
+(d) would be incompatible with any international obligation or the interests of defence or national security.
+
+(2) The Secretary of State may make an order prohibiting the [[^F252]Presiding Officer] from submitting the Bill for Royal Assent.
+
+(3) The order must identify the Bill and the provisions in question and state the reasons for making the order.
+
+(4) The order may be made at any time during—
+
+(a) the period of four weeks beginning with the passing of the Bill,
+
+(b) any period of four weeks beginning with any [^F253]... approval of the Bill in accordance with provision included in the standing orders in compliance with section 111(7), or
+
+(c) if a reference is made in relation to the Bill under section [[^F254]111B or] 112, the period of four weeks beginning with the reference being decided or otherwise disposed of by the Supreme Court.
+
+(5) The Secretary of State must not make an order in relation to a Bill if the Secretary of State has notified the [[^F255]Presiding Officer] that no order is to be made in relation to the Bill.
+
+(6) Subsection (5) does not apply if the Bill has been approved as mentioned in subsection (4)(b) since the notification.
+
+(7) An order in force under this section at a time when such approval is given ceases to have effect.
+
+(8) A statutory instrument containing an order under this section is subject to annulment in pursuance of a resolution of either House of Parliament.
+
+#### 115 Royal Assent
+
+(1) It is for the [[^F256]Presiding Officer] to submit Bills for Royal Assent.
+
+(2) The [[^F257]Presiding Officer] may not submit a Bill for Royal Assent at any time when—
+
+(a) the Attorney General or the Counsel General is entitled to make a reference in relation to the Bill under section [[^F258]111B or] 112,
+
+(b) such a reference has been made but has not been decided or otherwise disposed of by the Supreme Court, or
+
+(c) an order may be made in relation to the Bill under section 114.
+
+(3) The [[^F259]Presiding Officer] may not submit a Bill in its unamended form for Royal Assent if—
+
+(a) the Supreme Court has decided on a reference made in relation to the Bill under section 112 that the Bill or any provision of it would not be within the [[^F2]Senedd's] legislative competence, [^F260]...
+
+[^F260]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[[^F261](3A) The Presiding Officer may not submit a Bill for Royal Assent if the Supreme Court has decided on a reference made in relation to the Bill under section 111B(2)(b) (reference following Presiding Officer's decision that Bill does not contain protected subject-matter) that any provision of the Bill relates to a protected subject-matter unless, since the decision, the Bill has been approved in accordance with standing orders made by virtue of section 111(7).]
+
+(4) A Bill receives Royal Assent when Letters Patent under the Welsh Seal signed with Her Majesty's own hand signifying Her Assent are notified to the Clerk.
+
+[[^F262](4A) The Keeper of the Welsh Seal (*see* section 116(2)) must make arrangements to send the Letters Patent to the National Library of Wales.]
+
+(5) The date of Royal Assent is to be written on the Act of the [[^F2]Senedd] by the Clerk, and forms part of the Act.
+
+[^F263]5A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F263]5B . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F263]5C . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F263]5D . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F263]5E . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5F) The National Library of Wales must ensure that the [^F264]... Letters Patent it receives are preserved and open to public inspection at all reasonable times.
+
+(6) The standing orders must include provision for notification by the Clerk to the [[^F2]Senedd] of the date of Royal Assent to an Act of the [[^F2]Senedd] .
+
+(7) The validity of an Act of the [[^F2]Senedd] is not affected by any failure to comply with provision made by or by virtue of subsection (4), (5) or (6).
+
+#### 116 Welsh Seal [[^F265]: Letters Patent and proclamations]
+
+(1) There is to be a Welsh Seal.
+
+(2) The First Minister is to be the Keeper of the Welsh Seal.
+
+(3) Her Majesty may by Order in Council make provision as to—
+
+(a) the form and manner of preparation, and
+
+(b) the publication,
+
+of Letters Patent signed with Her Majesty's own hand signifying Her Assent to a Bill passed by the [[^F2]Senedd] [[^F266]and all royal proclamations under section 4(2) and section 5(4), which have passed under the Welsh Seal].
+
+(4) A statutory instrument containing an Order in Council under subsection (3) is subject to annulment in pursuance of a resolution of the [[^F2]Senedd] .
+
+## [[^F267]PART 4A — Taxation
+
+### CHAPTER 1 — Introductory
+
+#### 116A Overview of Part 4A
+
+(1) In this Part[[^F268]—
+
+(a) Chapter 2 confers on the [[^F2]Senedd] power to set rates of income tax to be paid by Welsh taxpayers, and
+
+(b)] Chapters 3 and 4 specify particular taxes as devolved taxes about which the [[^F2]Senedd] may make provision in the exercise of the power conferred by section 107(1).
+
+(2) The power to make provision about a devolved tax is subject to the restrictions imposed by—
+
+(a) subsection (3), and
+
+(b) the other provisions of this Part.
+
+(3) A devolved tax may not be imposed where to do so would be incompatible with any international obligations.
+
+(4) In this Act “ devolved tax ” means a tax specified in this Part as a devolved tax.
+
+#### 116B Status of officials of body that collects and manages devolved taxes
+
+(1) This section applies where an Act of the [[^F2]Senedd] establishes a body that is to be responsible for the collection and management of devolved taxes (whether or not the body is also to be responsible for local government finance or any other matter).
+
+(2) In this section “ relevant official ” means an officer or member of staff of the body mentioned in subsection (1) who has no functions other than functions relating to—
+
+(a) the collection or management of devolved taxes, or
+
+(b) local government finance.
+
+(3) If an Act of the [[^F2]Senedd] provides that service as a relevant official is service in the civil service of the State, that provision is [[^F269]not to be regarded as falling outside the [[^F2]Senedd's] legislative competence by virtue of section 108A(2)(b) or (c)].
+
+(4) In subsections (5) to (7), “ relevant civil servant ” means a relevant official whose service is service in the civil service of the State by virtue of provision of the kind mentioned in subsection (3).
+
+(5) The Welsh Ministers must pay the salaries and expenses of relevant civil servants.
+
+(6) The Welsh Ministers must make payments to the Minister for the Civil Service, at such times as the Minister for the Civil Service may determine, of such amounts as may be so determined in respect of—
+
+(a) the provision of pensions, allowances or gratuities by virtue of section 1 of the Superannuation Act 1972 or section 1 of the Public Service Pensions Act 2013 to or in respect of persons who are or have been relevant civil servants, and
+
+(b) the expenses incurred in administering those pensions, allowances and gratuities.
+
+(7) The Welsh Ministers may make payments towards the provision of pensions, allowances or gratuities to or in respect of any person who is or has been a relevant civil servant.
+
+#### 116C Power to add new devolved taxes
+
+(1) Her Majesty may by Order in Council amend this Part so as to—
+
+(a) specify, as an additional devolved tax, a tax of any description, or
+
+(b) make any other modifications of the provisions relating to devolved taxes which She considers appropriate.
+
+(2) An Order in Council under this section may make such modifications of—
+
+(a) any enactment (including any enactment comprised in or made under this Act) or prerogative instrument, or
+
+(b) any other instrument or document,
+
+as Her Majesty considers appropriate in connection with the provision made by the Order.
+
+(3) No recommendation is to be made to Her Majesty in Council to make an Order in Council under this section unless a draft of the statutory instrument containing the Order has been laid before, and approved by a resolution of, each House of Parliament and the [[^F2]Senedd] .
+
+(4) The amendment of this Part by an Order in Council under this section does not affect—
+
+(a) the validity of an Act of the [[^F2]Senedd] passed before the amendment comes into force, or
+
+(b) the previous or continuing operation of such an Act of the [[^F2]Senedd] .]
+
+### [[^F270]CHAPTER 2 — Income Tax
+
+#### 116D Power to set Welsh rates for Welsh taxpayers
+
+(1) The [[^F2]Senedd] may by resolution (a “Welsh rate resolution”) set one or more of the following—
+
+(a) a Welsh rate for the purpose of calculating the Welsh basic rate;
+
+(b) a Welsh rate for the purpose of calculating the Welsh higher rate;
+
+(c) a Welsh rate for the purpose of calculating the Welsh additional rate.
+
+[[^F271](d) a Welsh rate for the purpose of calculating the Welsh property basic rate;
+
+(e) a Welsh rate for the purpose of calculating the Welsh property higher rate;
+
+(f) a Welsh rate for the purpose of calculating the Welsh property additional rate.]
+
+(2) See section 6B of the Income Tax Act 2007 for provision about the calculation of the Welsh basic, higher and additional rates [[^F272]and the Welsh property basic, higher and additional rates,] and [[^F273]sections 11B and 11CB] of that Act for provision about the income of Welsh taxpayers charged at those rates.
+
+(3) A Welsh rate resolution applies—
+
+(a) for only one tax year, and
+
+(b) for the whole of that year.
+
+(4) Any Welsh rate specified must be a whole number or half a whole number.
+
+(5) A Welsh rate resolution—
+
+(a) must specify the tax year for which it applies,
+
+(b) must be made before the start of that tax year, and
+
+(c) must not be made more than 12 months before the start of that year.
+
+(6) If a Welsh rate resolution is cancelled before the start of the tax year for which it is to apply—
+
+(a) the Income Tax Acts have effect for that year as if the resolution had never been made, and
+
+(b) the resolution may be replaced by another Welsh rate resolution.
+
+(7) The standing orders must provide that only the First Minister or a Welsh Minister appointed under section 48 may move a motion for a Welsh rate resolution.
+
+#### 116E Welsh taxpayers
+
+(1) For any tax year, a Welsh taxpayer is an individual (T)—
+
+(a) who is resident in the UK for income tax purposes for that year (see Schedule 45 to the Finance Act 2013), and
+
+(b) who, for that year, meets condition A, B or C.
+
+(2) T meets condition A if T has a close connection with Wales (see section 116G).
+
+(3) T meets condition B if—
+
+(a) T does not have a close connection with England, Scotland or Northern Ireland (see section 116G), and
+
+(b) T spends more days of that year in Wales than in any other part of the UK (see section 116H).
+
+(4) T meets condition C if, for the whole or any part of the year, T is—
+
+(a) a member of Parliament for a constituency in Wales, [[^F274]or]
+
+[^F275]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(c) [[^F28]a Member of the Senedd].
+
+(5) Subsection (1) does not apply if T is a Scottish parliamentarian for the whole or any part of the year (see section 116F).
+
+(6) For the purposes of subsection (5) and section 116F, T is a Scottish parliamentarian if T is a member as described in [[^F276]paragraph (a) or (c)] of section 80D(4) of the Scotland Act 1998 (definition of a Scottish taxpayer).
+
+(7) In this Chapter “the UK” means the United Kingdom.
+
+#### 116F Welsh taxpayers: Scottish parliamentarians
+
+(1) An individual (T) who is a Scottish parliamentarian for the whole or any part of a tax year is a Welsh taxpayer for that tax year if—
+
+(a) T is resident in the UK for income tax purposes for that year (see Schedule 45 to the Finance Act 2013),
+
+(b) T meets condition C in section 116E for that year, and
+
+(c) T meets either of the following conditions for that year.
+
+(2) T meets the first condition if—
+
+(a) the number of days in that year on which T is a member as described in [[^F277]paragraph (a) or (c)] of section 116E(4), exceeds
+
+(b) the number of days in that year on which T is a Scottish parliamentarian.
+
+(3) T meets the second condition if—
+
+(a) the number of days in that year mentioned in paragraphs (a) and (b) of subsection (2) are the same, and
+
+(b) T meets condition A or B in section 116E for that year.
+
+#### 116G Close connection with Wales or another part of the UK
+
+(1) To find whether, for any year, T has a close connection with any part of the UK see—
+
+(a) subsection (2) (where T has only one place of residence in the UK), or
+
+(b) subsection (3) (where T has 2 or more places of residence in the UK).
+
+(2) T has a close connection with a part of the UK if in that year—
+
+(a) T has only one place of residence in the UK,
+
+(b) that place of residence is in that part of the UK, and
+
+(c) for at least part of the year, T lives at that place.
+
+(3) T has a close connection with a part of the UK if in that year—
+
+(a) T has 2 or more places of residence in the UK,
+
+(b) for at least part of the year, T's main place of residence in the UK is in that part of the UK,
+
+(c) the times in the year when T's main place of residence is in that part of the UK comprise (in aggregate) more of the year than the times when T's main place of residence is in each other part of the UK (considered separately), and
+
+(d) for at least part of the year, T lives at a place of residence in that part of the UK.
+
+(4) In this section “place” includes a place on board a vessel or other means of transport.
+
+#### 116H Days spent in Wales or another part of the UK
+
+(1) T spends more days of a year in Wales than in any other part of the UK if (and only if) the number of days in the year on which T is in Wales at the end of the day exceeds each of the following—
+
+(a) the number of days in the year on which T is in England at the end of the day;
+
+(b) the number of days in the year on which T is in Scotland at the end of the day;
+
+(c) the number of days in the year on which T is in Northern Ireland at the end of the day.
+
+(2) T is treated as not being in the UK at the end of a day if—
+
+(a) on that day T arrives in the UK as a passenger,
+
+(b) T departs from the UK on the next day, and
+
+(c) during the time between arrival and departure T does not engage in activities which are to a substantial extent unrelated to T's passage through the UK.
+
+#### 116I Supplemental powers to modify enactments
+
+(1) The Treasury may by order modify [[^F278]sections 11B and 11CB of the Income Tax Act 2007 (income charged at Welsh rates)] for the purpose of altering—
+
+(a) the definition of the income which is charged to income tax at the rates provided for under the section [[^F279]concerned], or
+
+(b) the application of the section [[^F280]concerned] in relation to a particular class of income which is so charged.
+
+(2) The Treasury may by order modify any enactment not contained in Chapter 2 of Part 2 of the Income Tax Act 2007 (rates at which income tax is charged) so that it makes provision, in relation to a Welsh taxpayer, by reference to the Welsh basic rate, the Welsh higher rate or the Welsh additional rate, instead of the basic rate, the higher rate or the additional rate.
+
+[[^F281](2A) The Treasury may by order modify any enactment not contained in Chapter 2 of Part 2 of the Income Tax Act 2007 (rates at which income tax is charged) so that it makes provision, in relation to a Welsh taxpayer, by reference to the Welsh property basic rate, the Welsh property higher rate or the Welsh property additional rate, instead of the property basic rate, the property higher rate or the property additional rate.]
+
+(3) If the Treasury consider it necessary or expedient to do so, they may by order provide that—
+
+(a) a Welsh rate set by the [[^F2]Senedd] for a tax year for the purpose of calculating the Welsh basic rate, Welsh higher rate or Welsh additional rate [[^F282]or, as the case may be, the Welsh property basic rate, the Welsh property higher rate or the Welsh property additional rate], or
+
+(b) the fact that a Welsh rate has not been set by the [[^F2]Senedd] for a tax year for any one or more of those purposes,
+
+does not require any change in the amounts repayable or deductible under PAYE regulations between the beginning of that year and such later date as may be specified in the order.
+
+(4) The Treasury may by order make such modifications of any enactment as they consider necessary or expedient in consequence of or in connection with an order under subsection (1), (2) or (3).
+
+(5) An order under this section may, to the extent that the Treasury consider it to be appropriate, take effect retrospectively from the beginning of the tax year in which the order is made.
+
+(6) No order is to be made under subsection (1), (2) or (4) unless a draft of the statutory instrument containing it has been laid before, and approved by a resolution of, the House of Commons.
+
+(7) A statutory instrument containing an order under subsection (3) is subject to annulment in pursuance of a resolution of the House of Commons.
+
+(8) The power under subsection (1) does not include power to provide that any income which is—
+
+(a) savings income, or
+
+(b) dividend income which would otherwise be charged to income tax at a rate provided for under section 13 of the Income Tax Act 2007,
+
+is income which is charged to income tax at a rate provided for under section 11B of that Act.
+
+#### 116J Reimbursement of expenses
+
+The Welsh Ministers may reimburse any Minister of the Crown or government department for administrative expenses incurred by virtue of this Chapter at any time after the passing of the Wales Act 2014 by the Minister or department.
+
+#### 116K Report by the Comptroller and Auditor General
+
+(1) The Comptroller and Auditor General must for each financial year prepare a report on the matters set out in subsection (2).
+
+(2) Those matters are—
+
+(a) the adequacy of any of HMRC's rules and procedures put in place, in consequence of the Welsh rate provisions, for the purpose of ensuring the proper assessment and collection of income tax charged at rates determined under those provisions,
+
+(b) whether the rules and procedures described in paragraph (a) are being complied with,
+
+(c) the correctness of the sums brought to account by HMRC which relate to income tax which is attributable to a Welsh rate resolution, and
+
+(d) the accuracy and fairness of the amounts which are reimbursed to HMRC under section 116J (having been identified by it as administrative expenses incurred as a result of the charging of income tax as mentioned in paragraph (a)).
+
+(3) “The Welsh rate provisions” are—
+
+(a) any provision made by or under this Chapter, and
+
+(b) any provision made by or under the Income Tax Acts relating to the Welsh basic rate, the Welsh higher rate or the Welsh additional rate [[^F283]or relating to the Welsh property basic rate, the Welsh property higher rate or the Welsh property additional rate].
+
+(4) A report under this section may also include an assessment of the economy, efficiency and effectiveness with which HMRC has used its resources in carrying out relevant functions.
+
+(5) “Relevant functions” are functions of HMRC in the performance of which HMRC incurs administrative expenses which are reimbursed to HMRC under section 116J (having been identified by it as administrative expenses incurred as a result of the charging of income tax as mentioned in subsection (2)(a)).
+
+(6) HMRC must give the Comptroller and Auditor General such information as the Comptroller and Auditor General may reasonably require for the purposes of preparing a report under this section.
+
+(7) A report prepared under this section must be laid before the [[^F2]Senedd] not later than 31 January of the financial year following that to which the report relates.
+
+(8) In this section “HMRC” means Her Majesty's Revenue and Customs.]
+
+### [[^F284]CHAPTER 3 — Tax on transactions involving interests in land
+
+#### 116L Tax on transactions involving interests in land
+
+(1) A tax which is charged on a Welsh land transaction and complies with the requirements of this section is a devolved tax.
+
+(2) In this Chapter a “ Welsh land transaction ” means an acquisition of—
+
+(a) an estate, interest, right or power in or over land in Wales;
+
+(b) the benefit of an obligation, restriction or condition affecting the value of any such estate, interest, right or power.
+
+(3) The tax may be chargeable—
+
+(a) whether or not there is any instrument effecting the transaction,
+
+(b) if there is such an instrument, regardless of where it is executed, and
+
+(c) regardless of where any party to the transaction is or is resident.
+
+(4) The tax may not be imposed on so much of a Welsh land transaction as relates to land below mean low water mark.
+
+(5) The following persons are not to be liable to pay the tax—
+
+- *Government*
+
+  - A Minister of the Crown
+  - The Welsh Ministers, the First Minister and the Counsel General
+  - The Scottish Ministers
+  - A Northern Ireland department
+
+- *Parliament etc*
+
+  - The Corporate Officer of the House of Lords
+  - The Corporate Officer of the House of Commons
+  - The [[^F2]Senedd] Commission
+  - The Scottish Parliamentary Corporate Body
+  - The Northern Ireland [[^F2]Senedd] Commission.
+
+#### 116M Duty to disclose information on Welsh land transactions to HMRC
+
+(1) [[^F285]The Welsh Revenue Authority] must provide to HMRC such of the information falling within subsection (2) as HMRC may require.
+
+(2) Information falls within this subsection if it—
+
+(a) is relevant information in relation to a Welsh land transaction, and
+
+(b) is in the possession or under the control of the person.
+
+(3) “ Relevant information ”, in relation to a Welsh land transaction, means information which—
+
+(a) corresponds to any of the particulars which would be required under Schedule 2 to the Finance Act 1931, but for section 28(3)(c) of that Act, or
+
+(b) uniquely identifies, or assists in uniquely identifying, any person who gives consideration for, or is a party to, the transaction.
+
+(4) Information is to be provided under subsection (1) in such form as HMRC may reasonably specify.
+
+(5) Information acquired by HMRC under this section is to be treated, for the purposes of the Commissioners for Revenue and Customs Act 2005, as acquired in connection with a function of theirs.
+
+(6) In this section, “ HMRC ” means Her Majesty's Revenue and Customs. ]
+
+### [[^F286]CHAPTER 4 — Tax on disposals to landfill
+
+#### 116N Tax on disposals to landfill
+
+(1) A tax charged on disposals to landfill made in Wales is a devolved tax.
+
+(2) A disposal is a disposal to landfill if—
+
+(a) it is a disposal of material as waste, and
+
+(b) it is made by way of landfill.]
+
+## Part 5 — Finance
+
+### Welsh Consolidated Fund
+
+#### 117 Welsh Consolidated Fund
+
+(1) There is to be a Welsh Consolidated Fund.
+
+(2) The Welsh Consolidated Fund is to be held with the Paymaster General.
+
+### Payments into Welsh Consolidated Fund
+
+#### 118 Grants
+
+(1) The Secretary of State must from time to time make payments into the Welsh Consolidated Fund out of money provided by Parliament of such amounts as the Secretary of State may determine.
+
+(2) Any Minister of the Crown, and any government department, may make payments to the Welsh Ministers, the First Minister or the Counsel General of such amounts as may be determined by the Minister of the Crown or those responsible in the department.
+
+#### [^F287]119 Statement of estimated payments
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 120 Destination of receipts
+
+(1) Any sum received by or on behalf of—
+
+(a) the Welsh Ministers, the First Minister or the Counsel General,
+
+(b) the [[^F2]Senedd] Commission,
+
+(c) [[^F288]the Wales Audit Office], or
+
+(d) the Public Services Ombudsman for Wales,
+
+is to be paid into the Welsh Consolidated Fund (unless it is paid out of that Fund, and subject as follows); and this subsection applies in spite of provision contained in any other enactment unless the enactment provides expressly that any such sum is not to be paid into the Welsh Consolidated Fund.
+
+(2) If and to the extent that sums received as mentioned in subsection (1) are received in connection with resources—
+
+(a) which are within a category specified by resolution of the [[^F2]Senedd] for the purposes of this subsection,
+
+(b) which accrued to a person within subsection (1), and
+
+(c) the retention of which by that person is authorised by a Budget resolution of the [[^F2]Senedd] for the financial year in which the resources accrued,
+
+the sums may be retained for use for the services and purposes specified in a Budget resolution of the [[^F2]Senedd] for the financial year in which they are received as services and purposes for which retained resources may be used.
+
+(3) The Treasury may, after consulting the Welsh Ministers, by order designate any description of sums received as mentioned in subsection (1).
+
+(4) The Welsh Ministers must make payments to the Secretary of State of sums equal to the total amount of sums of that description.
+
+(5) Payments by the Welsh Ministers under subsection (4) are to be made at such times, and by such methods, as the Treasury may from time to time determine.
+
+(6) Sums required for the making of the payments are to be charged on the Welsh Consolidated Fund.
+
+(7) A statutory instrument containing an order under subsection (3) is subject to annulment in pursuance of a resolution of the House of Commons.
+
+(8) In this Act “Budget resolution of the [[^F2]Senedd]” means a resolution on an annual Budget motion (see section 125) or a supplementary Budget motion (see section 126).
+
+### Borrowing
+
+#### 121 Borrowing by Welsh Ministers
+
+[[^F289](1) The Welsh Ministers may borrow from the Secretary of State—
+
+(a) any amounts it appears to them are required by them for the purpose of meeting a temporary excess of sums paid out of the Welsh Consolidated Fund over sums paid into that Fund,
+
+(b) any amounts it appears to them are required by them for the purpose of providing a working balance in the Welsh Consolidated Fund, and
+
+(c) any amounts which in accordance with rules determined by the Treasury are required by the Welsh Ministers to meet current expenditure because of a shortfall in receipts from devolved taxes, or from income tax charged by virtue of a Welsh rate resolution, against forecast receipts.
+
+(1A) The Welsh Ministers may, with the approval of the Treasury, borrow by way of loan [[^F290]or by the issue of bonds (but not bonds transferable by delivery)] any amounts it appears to them are required by them for the purpose of meeting capital expenditure.
+
+(1B) An amount is required for the purpose of meeting capital expenditure if the expenditure would be capital expenditure for the purposes of accounts under section 131.]
+
+(2) Amounts borrowed under this section [[^F291]from the Secretary of State] must be repaid to the Secretary of State at such times and by such methods, and interest on such sums must be paid to the Secretary of State at such rates and at such times, as the Treasury may from time to time determine.
+
+(3) Sums required for the repayment of, or the payment of interest on, amounts borrowed under this section are to be charged on the Welsh Consolidated Fund.
+
+[[^F292](4) The Secretary of State may by order made with the consent of the Treasury amend subsection (1A) so as to vary the means by which the Welsh Ministers may borrow money.
+
+(5) No order is to be made under subsection (4) unless a draft of the statutory instrument containing it has been laid before, and approved by a resolution of, the House of Commons.]
+
+#### 122 Lending by Secretary of State
+
+(1) The Treasury may issue to the Secretary of State out of the National Loans Fund such sums as the Secretary of State needs for making loans under section 121.
+
+(2) The aggregate outstanding in respect of the principal of sums borrowed under [[^F293]section 121(1)] must not exceed £500 million.
+
+(3) The Secretary of State may by order made with the consent of the Treasury substitute for the amount for the time being specified in subsection (2) such [^F294]... amount as is specified in the order.
+
+[[^F295](3A) An amount substituted under subsection (3) may be more or less than the amount for which it is substituted but may not be less than £500 million.]
+
+(4) No order is to be made under subsection (3) unless a draft of the statutory instrument containing it has been laid before, and approved by a resolution of, the House of Commons.
+
+(5) Sums received by the Secretary of State under section 121(2) must be paid into the National Loans Fund.
+
+#### 122A [[^F296]Lending for capital expenditure
+
+(1) The aggregate at any time outstanding in respect of the principal of amounts borrowed under section 121(1A) shall not exceed [[^F297]£1,100 million].
+
+(2) The Secretary of State may by order made with the consent of the Treasury substitute for the amount for the time being specified in subsection (1) such amount as may be specified in the order.
+
+(3) An amount substituted under subsection (2) may be more or less than the amount for which it is substituted but may not be less than [[^F298]£1,000 million].
+
+(4) No order is to be made under subsection (2) unless a draft of the statutory instrument containing it has been laid before, and approved by a resolution of, the House of Commons.
+
+(5) A person lending money to a member of the Welsh Government—
+
+(a) is not bound to enquire whether the member of the Welsh Government has power to borrow the money, and
+
+(b) is not to be prejudiced by the absence of any such power.
+
+(6) The Welsh Ministers may not mortgage or charge any of their property as security for money which they have borrowed under section 121(1A).
+
+This is subject to section 121(3) (charging of sums on the Welsh Consolidated Fund).
+
+(7) Security given in breach of subsection (6) is unenforceable.]
+
+#### 123 Accounts relating to loans
+
+(1) The Secretary of State must for each financial year prepare accounts in such form and manner as the Treasury may direct of—
+
+(a) loans made by the Secretary of State under section 121 or treated as made by paragraph 11(6) of Schedule 3 or paragraph 44(6) of Schedule 11, and
+
+(b) repayments and payments of interest made to the Secretary of State in respect of those loans.
+
+(2) The Secretary of State must send accounts under subsection (1) relating to a financial year to the Comptroller and Auditor General no later than five months after the end of the financial year.
+
+(3) The Comptroller and Auditor General must—
+
+(a) examine, certify and report on accounts sent under subsection (2), and
+
+(b) lay copies of the accounts, together with the report prepared under paragraph (a), before each House of Parliament.
+
+### Expenditure
+
+#### 124 Payments out of Welsh Consolidated Fund
+
+(1) A sum may only be paid out of the Welsh Consolidated Fund if—
+
+(a) it has been charged on that Fund by any enactment, or
+
+(b) its payment out is authorised or deemed to be authorised by a Budget resolution of the [[^F2]Senedd] (see sections 125 to 128) for or in connection with either of the purposes mentioned in subsection (2),
+
+and an approval to draw the payment of the sum out of the Welsh Consolidated Fund is granted by the Auditor General (see section 129).
+
+(2) Those purposes are—
+
+(a) meeting expenditure of a relevant person, and
+
+(b) meeting expenditure payable pursuant to a relevant enactment.
+
+(3) For the purposes of this section and sections 125 to 128 the relevant persons are—
+
+(a) the Welsh Ministers, the First Minister and the Counsel General,
+
+(b) the [[^F2]Senedd] Commission,
+
+(c) [[^F299]the Wales Audit Office], and
+
+(d) the Public Services Ombudsman for Wales.
+
+(4) For the purposes of this section and sections 125 to 128 a relevant enactment is an enactment which provides for payment out of the Welsh Consolidated Fund.
+
+[[^F300](4A) A sum paid out of the Welsh Consolidated Fund may not be applied for any purpose other than that for which it was charged or (as the case may be) paid out.]
+
+(5) This section does not apply to sums paid out of the Welsh Consolidated Fund by virtue of section 130.
+
+(6) Any enactment which—
+
+(a) charges the payment of sums on the Consolidated Fund or requires or authorises the payment of any sum from the Consolidated Fund, or
+
+(b) requires or authorises the payment of sums out of money provided by Parliament,
+
+does not have effect if the sums are payable by any of the relevant persons.
+
+#### 125 Annual Budget motions
+
+(1) For each financial year there is to be moved in the [[^F2]Senedd] a motion (referred to in this Act as an “annual Budget motion”) for the purpose of authorising—
+
+(a) the amount of resources which may be used in the financial year by the relevant persons, or pursuant to a relevant enactment, for the services and purposes specified in the motion,
+
+(b) the amount of resources accruing to the relevant persons in the financial year which may be retained by them to be used for the services and purposes so specified (rather than being paid into the Welsh Consolidated Fund), and
+
+(c) the amount which may be paid out of the Welsh Consolidated Fund in the financial year to the relevant persons, or for use pursuant to a relevant enactment, for the services and purposes so specified.
+
+(2) An annual Budget motion may only be moved by the First Minister or a Welsh Minister appointed under section 48.
+
+(3) An annual Budget motion must be accompanied by a written statement made by the Welsh Ministers showing—
+
+(a) the total amount of the payments which they estimate will be made for the financial year under section 118(1),
+
+(b) the total amount of the payments which they estimate will be made to the Welsh Ministers, the First Minister or the Counsel General for the financial year by Ministers of the Crown and government departments, and
+
+(c) the total amount of the payments which they estimate will be made to the Welsh Ministers, the First Minister or the Counsel General for the financial year otherwise than by a Minister of the Crown or government department.
+
+(4) In this Act a reference to the use of resources is a reference to their expenditure, consumption or reduction in value.
+
+#### 126 Supplementary Budget motions
+
+(1) For any financial year there may be moved in the [[^F2]Senedd] one or more motions (referred to in this Act as a “supplementary Budget motion”) for either or both of the purposes specified in subsections (2) and (3).
+
+(2) A supplementary Budget motion may approve a variation in any one or more of the following—
+
+(a) the amount of resources authorised to be used in the financial year by a relevant person, or pursuant to a relevant enactment, for any service or purpose,
+
+(b) the amount of resources accruing to a relevant person in the financial year and authorised to be retained by that person to be used for any service or purpose, and
+
+(c) the amount authorised to be paid out of the Welsh Consolidated Fund in the financial year to a relevant person, or for use pursuant to a relevant enactment, for any service or purpose.
+
+(3) A supplementary Budget motion may authorise any one or more of the following—
+
+(a) the amount of resources which may be used in the financial year by a relevant person, or pursuant to a relevant enactment, for a service or purpose specified in the motion,
+
+(b) the amount of resources accruing to a relevant person in the financial year which may be retained by that person to be used for a service or purpose so specified, and
+
+(c) the amount which may be paid out of the Welsh Consolidated Fund in the financial year to a relevant person, or for use pursuant to a relevant enactment, for a service or purpose so specified.
+
+(4) A supplementary Budget motion for any financial year may be expressed to have effect from a time before it is made; but that time may not be earlier than—
+
+(a) the date on which the last supplementary Budget motion for the financial year was passed, or
+
+(b) (if none has) the date on which the annual Budget motion for the financial year was passed.
+
+(5) A supplementary Budget motion may only be moved by the First Minister or a Welsh Minister appointed under section 48.
+
+#### 126A [[^F301]Inclusion in Budget motions of resources used by designated bodies
+
+(1) A Budget motion for a financial year may include information relating to resources expected to be used by any body that is a designated body in relation to a relevant person.
+
+(2) For the purposes of this section a body is a “designated” body in relation to a relevant person if—
+
+(a) it is designated in relation to the relevant person by an order made by the Welsh Ministers, or
+
+(b) it falls within a description of body designated in relation to the relevant person by such an order.
+
+(3) A body, or a description of body, may be designated in relation to a relevant person for a particular financial year or generally.
+
+(4) If the Welsh Ministers expect the use of resources by a body in a financial year to involve payments out of a relevant Consolidated Fund to or for the benefit of the body, they may not make an order under which the body would be a designated body for the year unless the Treasury have consented to the making of the order.
+
+(5) “ A relevant Consolidated Fund ” means—
+
+(a) the Consolidated Fund of the United Kingdom,
+
+(b) the Scottish Consolidated Fund, or
+
+(c) the Consolidated Fund of Northern Ireland.
+
+(6) The Welsh Ministers must, where they think it appropriate, consult the Treasury before designating a body or a description of body.
+
+(7) In determining for any purpose whether a body has a particular relationship with a relevant person (for example, whether it is controlled by, or otherwise dependent on, the person), the following must be disregarded—
+
+(a) the fact that the provisions of a Budget motion relating to the relevant person in respect of a financial year include information relating to the body, and
+
+(b) the fact that the relevant person's accounts for a financial year prepared under this or any other Act include information relating to the body.
+
+(8) An order under subsection (2) is to be made by statutory instrument.
+
+(9) A statutory instrument containing an order under that subsection is subject to annulment in pursuance of a resolution of the [[^F302]Senedd].
+
+(10) But subsection (9) does not apply if a draft of the statutory instrument containing the order has been laid before, and approved by a resolution of, the [[^F303]Senedd].]
+
+#### 127 Appropriation without Budget resolution
+
+(1) If a Budget resolution for a financial year is not passed before the beginning of the financial year, the following are deemed to have been authorised by a Budget resolution of the [[^F2]Senedd] for that year—
+
+(a) the use in the year for any service or purpose of the relevant percentage of the amount of the resources authorised to be used in the preceding financial year for the service or purpose,
+
+(b) the retention in the year for use for any service or purpose of the relevant percentage of the amount of the resources authorised to be retained in the previous financial year for use for the service or purpose, and
+
+(c) the payment out of the Welsh Consolidated Fund in the year for any service or purpose of the relevant percentage of the amount authorised to be paid out of the Fund in the previous financial year for the service or purpose.
+
+(2) “The relevant percentage” is—
+
+(a) where a Budget resolution for the financial year is not passed before the end of July in the financial year, 95%, and
+
+(b) otherwise, 75%.
+
+#### 128 Contingencies
+
+(1) This section applies where it is proposed—
+
+(a) that resources be used in any financial year by any of the relevant persons, or pursuant to a relevant enactment, otherwise than as authorised by virtue of sections 125 to 127, or
+
+(b) that amounts be paid out of the Welsh Consolidated Fund in the year to the relevant persons, or for use pursuant to a relevant enactment, otherwise than as authorised by virtue of those sections.
+
+(2) The resources may be so used, or the amounts may be so issued, only with the authority of the Welsh Ministers.
+
+(3) The Welsh Ministers may authorise the use of resources, or the payment of amounts, only if they consider that—
+
+(a) the use of the resources, or the payment of the amounts, is necessary in the public interest, and
+
+(b) it is not reasonably practicable, for reasons of urgency, for a motion to be moved under section 125 or 126 to authorise the use of the resources or the payment of the amounts.
+
+(4) The aggregate amount of resources which the Welsh Ministers may at any time authorise to be used under this section by any person, or pursuant to any enactment, in any financial year must not exceed 0.5% of—
+
+(a) the aggregate amount of the resources which, at the time, have been authorised by virtue of sections 125 and 126 to be used by that person, or pursuant to that enactment, in that financial year, or
+
+(b) (if none have) the aggregate amount of the resources which were so authorised to be used by that person, or pursuant to that enactment, in the immediately preceding financial year.
+
+(5) The aggregate amount which the Welsh Ministers may at any time authorise to be paid out of the Welsh Consolidated Fund under this section to any person, or for use pursuant to any enactment, in any financial year must not exceed 0.5% of—
+
+(a) the aggregate of the amounts which, at the time, have been authorised by virtue of sections 125 and 126 to be paid to that person, or for use pursuant to that enactment, in that financial year, or
+
+(b) (if none have) the aggregate of the amounts which were so authorised to be paid to that person, or for use pursuant to that enactment, in the immediately preceding financial year.
+
+(6) The use of resources, or the payment of amounts, authorised by the Welsh Ministers in accordance with this section is deemed to have been authorised by a Budget resolution of the [[^F2]Senedd] .
+
+(7) Where the Welsh Ministers authorise the use of resources or the payment of amounts under this section, they must, as soon as possible, lay before the [[^F2]Senedd] a report setting out—
+
+(a) the resources authorised to be used or the amounts authorised to be paid,
+
+(b) the services or purposes for which the resources were authorised to be used, or the amounts were authorised to be paid, and
+
+(c) why they considered it to be necessary to authorise the use of the resources, or the payment of the amounts, under this section.
+
+#### 129 Approvals to draw
+
+(1) The Auditor General must grant approvals to draw payments out of the Welsh Consolidated Fund from time to time at the request of the Welsh Ministers.
+
+(2) An approval to draw may only be granted if, in the Auditor General's opinion, the proposed payment out of the Welsh Consolidated Fund would comply with section 124.
+
+(3) A request for the grant of an approval to draw is to be made in any manner which the Welsh Ministers, with the approval of the Auditor General, decide to adopt.
+
+(4) Where an approval to draw is granted the Paymaster General must make the funds available to the Welsh Ministers, the First Minister, the Counsel General, the [[^F2]Senedd] Commission, [[^F304]the Wales Audit Office] or the Public Services Ombudsman for Wales (as appropriate).
+
+(5) The Paymaster General must make available to—
+
+(a) the Auditor General, and
+
+(b) the principal accounting officer for the Welsh Ministers,
+
+a daily statement regarding all the issues made out of the Welsh Consolidated Fund in respect of sums charged on that Fund and other payments out of it.
+
+(6) For the purposes of this Act the principal accounting officer for the Welsh Ministers is the Permanent Secretary to the Welsh [^F138]... Government.
+
+(7) But the Treasury may designate another member of the staff of the Welsh [^F138]... Government to be the principal accounting officer for the Welsh Ministers if and for so long as—
+
+(a) the Permanent Secretary to the Welsh [^F138]... Government is incapable of discharging the responsibilities of principal accounting officer for the Welsh Ministers, or
+
+(b) the office of Permanent Secretary to the Welsh [^F138]... Government is vacant.
+
+(8) In this section “Permanent Secretary to the Welsh [^F138]... Government” means the person appointed in accordance with section 52 to be the head of the staff of the Welsh [^F138]... Government (whether or not that person is known by the title of Permanent Secretary to the Welsh [^F138]... Government).
+
+#### 130 Payments in by mistake
+
+Where a sum is paid into the Welsh Consolidated Fund which should not or need not have been paid into the Fund, the Auditor General may grant an approval to draw a payment equal to the amount of that sum out of the Fund.
+
+#### 130A [[^F305]Financial control, accounts and audit
+
+(1) Welsh legislation must provide—
+
+(a) for proper accounts to be prepared by the First Minister, the Welsh Ministers, the Counsel General, the [[^F2]Senedd] Commission and by other persons to whom sums are paid out of the Welsh Consolidated Fund, of their expenditure and receipts,
+
+(b) for the Welsh Ministers to prepare an account of payments into and out of the Fund,
+
+(c) for the Auditor General for Wales to exercise, or ensure the exercise by other persons of, the functions mentioned in subsection (2),
+
+(d) for access by persons exercising those functions to such documents as they may reasonably require,
+
+(e) for members of the staff of the Welsh Government and [[^F2]Senedd] Commission designated for the purpose to be answerable to the [[^F2]Senedd] in respect of the expenditure and receipts of each part of the Welsh Government or [[^F2]Senedd] Commission, and
+
+(f) for the publication of [[^F2]Senedd] accounts and of reports on such accounts and for the laying of such accounts and reports before the [[^F2]Senedd] .
+
+(2) The functions referred to in subsection (1)(c) are—
+
+(a) issuing credits for the payment of sums out of the Fund;
+
+(b) examining [[^F2]Senedd] accounts (which includes determining whether sums paid out of the Fund have been paid out and applied in accordance with section 124), and certifying and reporting on them;
+
+(c) carrying out examinations into the economy, efficiency and effectiveness with which the First Minister, the Welsh Ministers, the Counsel General, the [[^F2]Senedd] Commission and other persons to whom sums are paid out of the Welsh Consolidated Fund have used their resources in discharging their functions.
+
+(3) Standing orders must provide for the consideration by the [[^F2]Senedd] of accounts and reports laid before it in pursuance of subsection (1)(f).
+
+(4) Welsh legislation may make further provision for the purpose of ensuring that devolved Welsh authorities that receive sums derived from the Fund are accountable.
+
+That provision may, in particular, include provision for a devolved Welsh authority to which subsection (1)(a) does not apply to be accountable for its expenditure and receipts in respect of functions for which it receives sums derived from the Fund.
+
+(5) Persons (other than the Auditor General for Wales) charged with the exercise of any function mentioned in subsection (2) or other like function conferred by Welsh legislation are not subject, in the exercise of that or any ancillary function, to the direction or control of any member of the Welsh Government or of the [[^F2]Senedd ] .
+
+(6) Subsection (2)(b) does not apply to accounts prepared by the Auditor General for Wales.
+
+(7) This section does not require Welsh legislation to impose any requirement that is imposed by any other legislation.
+
+(8) In this section—
+
+- “" [[^F2]Senedd ] accounts”” means any accounts prepared in pursuance of subsection (1)(a) or (b);
+- “"Welsh legislation”” means provision made by or under an Act of the [[^F2]Senedd] , and “"other legislation”” means provision made by any other enactment.]
+
+### Financial accountability of Welsh Ministers
+
+#### 131 Welsh Ministers' accounts
+
+(1) The Welsh Ministers must, for each financial year, prepare accounts in accordance with directions given to them by the Treasury.
+
+(2) The accounts must include details of the financial affairs and transactions of the Counsel General.
+
+(3) The directions which the Treasury may give under subsection (1) include directions to prepare accounts relating to financial affairs and transactions of persons other than the Welsh Ministers.
+
+(4) The directions which the Treasury may give under subsection (1) include, in particular, directions as to—
+
+(a) the financial affairs and transactions to which the accounts are to relate,
+
+(b) the information to be contained in the accounts and the manner in which it is to be presented,
+
+(c) the methods and principles in accordance with which the accounts are to be prepared, and
+
+(d) the additional information (if any) that is to accompany the accounts.
+
+(5) Any accounts which the Welsh Ministers are directed under this section to prepare for any financial year must be submitted by the Welsh Ministers to the Auditor General no later than 30th November in the following financial year.
+
+(6) The Auditor General must—
+
+(a) examine and certify any accounts submitted under this section, and
+
+(b) no later than four months after the accounts are submitted, lay before the [[^F2]Senedd] a copy of them as certified by the Auditor General together with the Auditor General's report on them.
+
+(7) In examining accounts submitted under this section, the Auditor General must, in particular, be satisfied—
+
+(a) that the expenditure to which the accounts relate has been incurred lawfully and in accordance with the authority which governs it, and
+
+(b) that money received for a particular purpose or particular purposes has not been expended otherwise than for that purpose or those purposes.
+
+(8) Where—
+
+(a) by virtue of any enactment other than this section the Welsh Ministers are under an obligation to prepare accounts dealing with any matters, and
+
+(b) it appears to the Treasury that those matters fall to be dealt with in accounts directed to be prepared under this section,
+
+the Treasury may relieve the Welsh Ministers of that obligation for or in respect of such periods as the Treasury may direct.
+
+#### 132 Account relating to Welsh Consolidated Fund
+
+(1) The Welsh Ministers must, for each financial year, prepare an account of the payments into and out of the Welsh Consolidated Fund.
+
+(2) The account must be prepared in accordance with directions given to the Welsh Ministers by the Treasury.
+
+(3) The directions which the Treasury may give under subsection (2) include, in particular, directions as to—
+
+(a) the information to be contained in the account and the manner in which it is to be presented,
+
+(b) the methods and principles in accordance with which the account is to be prepared, and
+
+(c) the additional information (if any) that is to accompany the account.
+
+(4) Any account which the Welsh Ministers are directed under this section to prepare for any financial year must be submitted by the Welsh Ministers to the Auditor General no later than 30th November in the following financial year.
+
+(5) The Auditor General must—
+
+(a) examine and certify any account submitted under this section, and
+
+(b) no later than four months after the account is submitted, lay before the [[^F2]Senedd] a copy of it as certified by the Auditor General together with the Auditor General's report on it.
+
+(6) In examining an account submitted under this section the Auditor General must, in particular, be satisfied—
+
+(a) that any payment out of the Welsh Consolidated Fund to which the account relates was paid out in compliance with section 124 or 130, and
+
+(b) that money which is required to be paid into the Welsh Consolidated Fund has been paid into that Fund.
+
+#### 133 Accounting officers for Welsh Ministers
+
+(1) The principal accounting officer for the Welsh Ministers has—
+
+(a) in relation to the accounts of the Welsh Ministers and the finances of the Welsh Ministers and the Counsel General, and
+
+(b) in relation to the performance by persons designated as accounting officers in pursuance of any provision of this Act of their responsibilities as accounting officers,
+
+the responsibilities which are from time to time specified by the Treasury.
+
+(2) The principal accounting officer for the Welsh Ministers may designate other members of the staff of the Welsh [^F138]... Government as additional accounting officers.
+
+(3) An additional accounting officer has, in relation to such of the accounts of the Welsh Ministers and the finances of the Welsh Ministers and the Counsel General as may be specified by the principal accounting officer for the Welsh Ministers, the responsibilities which are from time to time specified by the principal accounting officer for the Welsh Ministers.
+
+#### 134 Accounts of subsidiaries of Welsh Ministers
+
+(1) For the purposes of the examination by the Auditor General of any accounts of the Welsh Ministers the Auditor General—
+
+(a) has a right of access at all reasonable times to every document relating to the accounts of any subsidiary of the Welsh Ministers (whether or not the accounts of the Welsh Ministers being examined relate to the financial affairs and transactions of the subsidiary),
+
+(b) is entitled to require from any person holding or accountable for any of those documents any assistance, information or explanation which the Auditor General reasonably thinks necessary for those purposes, and
+
+(c) may require any subsidiary of the Welsh Ministers to provide the Auditor General at times specified by the Auditor General with accounts of such of the subsidiary's transactions as the Auditor General may specify.
+
+(2) The Treasury may, by directions given to a subsidiary of the Welsh Ministers, require the subsidiary to include in any accounts which the subsidiary prepares (under, for example, the law relating to companies or charities) such additional information as may be specified in the directions.
+
+(3) The inclusion of information in any accounts in compliance with such directions does not constitute a breach of any provision which prohibits, or does not authorise, the inclusion in the accounts of that information.
+
+(4) In this section “subsidiary of the Welsh Ministers” means—
+
+(a) any body corporate or other undertaking in relation to which, if the Welsh Ministers were an undertaking, the Welsh Ministers would be a parent undertaking,
+
+(b) any trust of which the Welsh Ministers are settlors, or
+
+(c) any charitable institution of which the Welsh Ministers are founders but which is neither a body corporate nor a trust.
+
+(5) For the purposes of subsection (4)(a)—
+
+- “undertaking” has the meaning given by [[^F306]section 1161(1) of the Companies Act 2006], and
+- “parent undertaking” is to be construed in accordance with [[^F307]section 1162] of that Act.
+
+#### 135 Examinations into Welsh Ministers' use of resources
+
+(1) The Auditor General may carry out examinations into the economy, efficiency and effectiveness with which the Welsh Ministers and the Counsel General have used their resources in discharging their functions.
+
+(2) Subsection (1) does not entitle the Auditor General to question the merits of the policy objectives of the Welsh Ministers or the Counsel General.
+
+(3) In determining how to exercise functions under this section the Auditor General must take into account the views of the Audit Committee as to the examinations to be carried out under this section.
+
+(4) The Auditor General may lay before the [[^F2]Senedd] a report of the results of any examination carried out under this section.
+
+#### [^F308]136 Examinations by Comptroller and Auditor General
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Financial accountability of [[^F2]Senedd] Commission
+
+#### 137 [[^F2]Senedd] Commission's accounts
+
+(1) The [[^F2]Senedd] Commission must, for each financial year, prepare accounts in accordance with directions given to it by the Treasury.
+
+(2) The directions which the Treasury may give under subsection (1) include directions to prepare accounts relating to financial affairs and transactions of persons other than the [[^F2]Senedd] Commission.
+
+(3) The directions which the Treasury may give under subsection (1) include, in particular, directions as to—
+
+(a) the financial affairs and transactions to which the accounts are to relate,
+
+(b) the information to be contained in the accounts and the manner in which it is to be presented,
+
+(c) the methods and principles in accordance with which the accounts are to be prepared, and
+
+(d) the additional information (if any) that is to accompany the accounts.
+
+(4) Any accounts which the [[^F2]Senedd] Commission is directed under this section to prepare for any financial year must be submitted by the [[^F2]Senedd] Commission to the Auditor General no later than 30th November in the following financial year.
+
+(5) The Auditor General must—
+
+(a) examine and certify any accounts submitted under this section, and
+
+(b) no later than four months after the accounts are submitted, lay before the [[^F2]Senedd] a copy of them as certified by the Auditor General together with the Auditor General's report on them.
+
+(6) In examining accounts submitted under this section the Auditor General must, in particular, be satisfied—
+
+(a) that the expenditure to which the accounts relate has been incurred lawfully and in accordance with the authority which governs it, and
+
+(b) that money received by the [[^F2]Senedd] Commission for a particular purpose or particular purposes has not been expended otherwise than for that purpose or those purposes.
+
+#### 138 Accounting officers for [[^F2]Senedd] Commission
+
+(1) For the purposes of this Act the principal accounting officer for the [[^F2]Senedd] Commission is the Clerk.
+
+(2) But the Treasury may designate another member of the staff of the [[^F2]Senedd] to be the principal accounting officer for the [[^F2]Senedd] Commission if and for so long as—
+
+(a) the Clerk is incapable of discharging the responsibilities of the principal accounting officer for the [[^F2]Senedd] Commission, or
+
+(b) the office of Clerk is vacant.
+
+(3) The principal accounting officer for the [[^F2]Senedd] Commission has—
+
+(a) in relation to the [[^F2]Senedd] Commission's accounts and finances, and
+
+(b) in relation to the performance by persons designated as accounting officers in pursuance of any provision of this Act of their responsibilities as accounting officers,
+
+the responsibilities which are from time to time specified by the Treasury.
+
+(4) The principal accounting officer for the [[^F2]Senedd] Commission may designate other members of the staff of the [[^F2]Senedd] as additional accounting officers.
+
+(5) An additional accounting officer has, in relation to such of the [[^F2]Senedd] Commission's accounts and finances as may be specified by the principal accounting officer for the [[^F2]Senedd] Commission, the responsibilities which are from time to time specified by the principal accounting officer for the [[^F2]Senedd] Commission.
+
+#### 139 Accounts of subsidiaries of [[^F2]Senedd] Commission
+
+(1) For the purposes of the examination by the Auditor General of any accounts of the [[^F2]Senedd] Commission the Auditor General—
+
+(a) has a right of access at all reasonable times to every document relating to the accounts of any subsidiary of the [[^F2]Senedd] Commission (whether or not the accounts of the [[^F2]Senedd] Commission being examined relate to the financial affairs and transactions of the subsidiary),
+
+(b) is entitled to require from any person holding or accountable for any of those documents any assistance, information or explanation which the Auditor General reasonably thinks necessary for those purposes, and
+
+(c) may require any subsidiary of the [[^F2]Senedd] Commission to provide the Auditor General at times specified by the Auditor General with accounts of such of the subsidiary's transactions as the Auditor General may specify.
+
+(2) The Treasury may, by directions given to a subsidiary of the [[^F2]Senedd] Commission, require the subsidiary to include in any accounts which the subsidiary prepares (under, for example, the law relating to companies or charities) such additional information as may be specified in the directions.
+
+(3) The inclusion of information in any accounts in compliance with such directions does not constitute a breach of any provision which prohibits, or does not authorise, the inclusion in the accounts of that information.
+
+(4) In this section “subsidiary of the [[^F2]Senedd] Commission” means—
+
+(a) any body corporate or other undertaking in relation to which the [[^F2]Senedd] Commission is a parent undertaking,
+
+(b) any trust of which the [[^F2]Senedd] Commission is settlor, or
+
+(c) any charitable institution of which the [[^F2]Senedd] Commission is founder but which is neither a body corporate nor a trust.
+
+(5) For the purposes of subsection (4)(a)—
+
+- “undertaking” has the meaning given by [[^F309]section 1161(1) of the Companies Act 2006], and
+- “parent undertaking” is to be construed in accordance with [[^F310]section 1162] of that Act.
+
+#### 140 Examinations into [[^F2]Senedd] Commission's use of resources
+
+(1) The Auditor General may carry out examinations into the economy, efficiency and effectiveness with which the [[^F2]Senedd] Commission has used its resources in discharging its functions.
+
+(2) Subsection (1) does not entitle the Auditor General to question the merits of the policy objectives of the [[^F2]Senedd] Commission.
+
+(3) In determining how to exercise functions under this section the Auditor General must take into account the views of the Audit Committee as to the examinations to be carried out under this section.
+
+(4) The Auditor General may lay before the [[^F2]Senedd] a report of the results of any examination carried out under this section.
+
+### Whole of Government of Wales accounts
+
+#### 141 Whole of government accounts: Welsh Ministers
+
+(1) This section applies in respect of a financial year for which the Treasury make arrangements with the Welsh Ministers under section 10(8) of the Government Resources and Accounts Act 2000 (c. 20) (whole of government accounts: consolidation of Welsh accounts).
+
+(2) The Welsh Ministers must prepare a set of accounts for the group of bodies which provide information to the Welsh Ministers in accordance with the arrangements under section 10(8).
+
+(3) Accounts prepared under this section may include information referring wholly or partly to activities which—
+
+(a) are not activities of bodies falling within subsection (2), but
+
+(b) appear to the Welsh Ministers to be activities of a public nature.
+
+(4) The accounts must contain such information in such form as the Treasury may direct.
+
+(5) The Treasury must exercise the power under subsection (4) with a view to ensuring that the accounts—
+
+(a) present a true and fair view, and
+
+(b) conform to generally accepted accounting practice subject to such adaptations as are necessary in the context.
+
+(6) For the purposes of subsection (5)(a) and (b) the Treasury must in particular—
+
+(a) have regard to any relevant guidance issued by the Accounting Standards Board Limited or any other body prescribed for the purposes of [[^F311]section 464 of the Companies Act 2006](accounting standards) or to international accounting standards (as defined in [[^F312]section 474 of that Act]), and
+
+(b) require the accounts to include, subject to paragraph (a), a statement of financial performance, a statement of financial position and a cash flow statement.
+
+(7) Any accounts which the Welsh Ministers are required to prepare under this section for any financial year must be submitted by the Welsh Ministers to the Auditor General no later than 30th November in the following financial year.
+
+(8) But the Welsh Ministers may by order substitute another date for the date for the time being specified in subsection (7).
+
+(9) No order may be made under subsection (7) unless the Welsh Ministers have consulted—
+
+(a) the Treasury, and
+
+(b) the Auditor General.
+
+(10) A statutory instrument containing an order under subsection (7) is subject to annulment in pursuance of a resolution of the [[^F2]Senedd].
+
+#### 142 Functions of Auditor General
+
+(1) The Auditor General must examine accounts submitted under section 141 with a view to being satisfied that they present a true and fair view.
+
+(2) Where the Auditor General has conducted an examination of accounts under subsection (1), the Auditor General must—
+
+(a) certify them and issue a report, and
+
+(b) no later than four months after the accounts are submitted, lay before the [[^F2]Senedd] a copy of them as certified by the Auditor General together with the Auditor General's report on them.
+
+(3) A person who acts as auditor for the purposes of section 10(2)(c) or (8)(c) of the Government Resources and Accounts Act 2000 (c. 20) must give the Auditor General such information and explanations as the Auditor General may reasonably require for the purposes of this section.
+
+### Treatment of accounts and audit reports etc.
+
+#### 143 Audit Committee reports
+
+(1) The Audit Committee may consider, and lay before the [[^F2]Senedd] a report on, any accounts, statement of accounts or report laid before the [[^F2]Senedd] by—
+
+(a) the Auditor General, or
+
+[^F313]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) If requested to do so by the House of Commons Committee of Public Accounts, the Audit Committee may—
+
+(a) on behalf of the Committee of Public Accounts take evidence from any of the persons mentioned in subsection (3), and
+
+(b) report to the Committee of Public Accounts and transmit to that Committee any evidence so taken.
+
+(3) The persons referred to in subsection (2)(a) are—
+
+(a) the principal accounting officer for the Welsh Ministers,
+
+(b) the principal accounting officer for the [[^F2]Senedd] Commission, and
+
+(c) additional accounting officers designated under section 133 or 138.
+
+#### 144 Publication of accounts and audit reports etc.
+
+(1) The [[^F2]Senedd] must publish a document to which this subsection applies as soon after the document is laid before the [[^F2]Senedd] as is reasonably practicable.
+
+(2) The documents to which subsection (1) applies are—
+
+(a) any accounts, statement of accounts or report laid before the [[^F2]Senedd] by the Auditor General,
+
+(b) any accounts or report laid before the [[^F2]Senedd] by the auditor appointed under [[^F314]paragraph 34 of Schedule 1 to the Public Audit (Wales) Act 2013], and
+
+(c) any report [^F315]... laid before the [[^F2]Senedd] by the Audit Committee under section 143(1) [^F315]....
+
+[[^F316](d) any estimate of income and expenses of the Wales Audit Office laid before the [[^F2]Senedd] under section 20(1) of the Public Audit (Wales) Act 2013 (including any modifications made to that estimate under section 20(4) of that Act),
+
+(e) any scheme for charging fees laid before the [[^F2]Senedd] by the Wales Audit Office under section 24(4)(c) of the Public Audit (Wales) Act 2013,
+
+(f) any annual plan laid before the [[^F2]Senedd] by the Auditor General and the chair of the Wales Audit Office under section 26 of the Public Audit (Wales) Act 2013,
+
+(g) any report laid before the [[^F2]Senedd] under paragraph 3(6) of Schedule 2 to the Public Audit (Wales) Act 2013 (reports on the exercise of the functions of the Auditor General and the Wales Audit Office).]
+
+### Auditor General for Wales
+
+#### 145 Auditor General
+
+[^F317]1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) For provision about [[^F318]the Auditor General for Wales or Archwilydd Cyffredinol Cymru (referred to in this Act as “the Auditor General”) see Schedule 8 and the Public Audit (Wales) Act 2013].
+
+(3) The Welsh Ministers must co-operate with the Auditor General where it seems to them appropriate to do so for the efficient and effective discharge of their functions in relation to Welsh NHS bodies.
+
+(4) “Welsh NHS bodies” has the meaning given by section 60 of the Public Audit (Wales) Act 2004 (c. 23).
+
+## Part 6 — Miscellaneous and supplementary
+
+### Welsh public records
+
+#### 146 Status of Welsh public records
+
+(1) Welsh public records are not public records for the purposes of the Public Records Act 1958 (c. 51).
+
+(2) But that Act has effect in relation to Welsh public records (as if they were public records for the purpose of that Act) until an order under section 147 imposes a duty to preserve them on the Welsh Ministers (or a member of the staff of the Welsh [^F138]... Government).
+
+(3) Subsection (2) applies to Welsh public records whether or not, apart from subsection (1), they would be public records for the purposes of the Public Records Act 1958.
+
+#### 147 Transfer of responsibility
+
+(1) The [[^F319]Secretary of State] may by order make provision—
+
+(a) imposing or conferring on the Welsh Ministers (or a member of the staff of the Welsh [^F138]... Government) functions relating to Welsh public records (including, in particular, functions of preserving them and of making them available for inspection by the public), and
+
+(b) imposing on persons responsible for Welsh public records duties relating to the selection of such records for permanent preservation, the safe-keeping of such records and their transfer to a place specified in, or appointed under, the order.
+
+(2) An order under this section may (in particular) make in relation to Welsh public records provision analogous to that made by the Public Records Act 1958 (c. 51) in relation to records which are public records for the purposes of that Act.
+
+(3) An order under this section may make such modifications of—
+
+(a) any enactment (including any enactment comprised in or made under this Act) or prerogative instrument, or
+
+(b) any other instrument or document,
+
+as the [[^F320]Secretary of State] considers appropriate in connection with the provision made by the order.
+
+(4) An order under this section which imposes on the Welsh Ministers (or a member of the staff of the Welsh [^F138]... Government) a duty to preserve Welsh public records, or Welsh public records of a particular description, must include provision for the [[^F320]Secretary of State] to make such arrangements as appear appropriate for the transfer of Welsh public records, or Welsh public records of that description, which are in—
+
+(a) the Public Record Office, or
+
+(b) a place of deposit appointed under the Public Records Act 1958,
+
+to a place specified in, or appointed under, the order.
+
+(5) No order is to be made under this section unless the [[^F320]Secretary of State] has consulted the Welsh Ministers.
+
+(6) No order under this section which contains provisions in the form of amendments or repeals of enactments contained in an Act is to be made unless a draft of the statutory instrument containing it has been laid before, and approved by a resolution of, each House of Parliament.
+
+(7) A statutory instrument containing an order under this section is (unless a draft of the statutory instrument has been approved by a resolution of each House of Parliament) subject to annulment in pursuance of a resolution of either House of Parliament.
+
+#### 148 Meaning of “Welsh public records”
+
+(1) The following are Welsh public records—
+
+(a) administrative and departmental records belonging to Her Majesty which are records of the Welsh [^F138]... Government,
+
+(b) administrative and departmental records of the Auditor General,
+
+[[^F321](ba) administrative and departmental records belonging to Her Majesty which are records of or held by the Welsh Revenue Authority;]
+
+(c) administrative and departmental records belonging to Her Majesty which are records of or held in any government department which is wholly or mainly concerned with Welsh affairs,
+
+(d) administrative and departmental records belonging to Her Majesty which are records of any office, commission or other body or establishment under Her Majesty's Government which is wholly or mainly concerned with Welsh affairs in a field or fields in which the Welsh Ministers have functions, or the First Minister or the Counsel General has functions,
+
+(e) administrative and departmental records of the bodies and establishments specified in subsection (2) (but not records of health service hospitals in Wales which are of the descriptions excepted from being public records for the purposes of the Public Records Act 1958 (c. 51) in the case of health service hospitals in England), and
+
+(f) any other description of records (other than records of the [[^F2]Senedd] or the [[^F2]Senedd] Commission or records of any court or tribunal or held in any department of the Senior Courts) which is specified by order made by the [[^F322]Secretary of State].
+
+(2) The bodies and establishments referred to in subsection (1)(e) are—
+
+(a) the Care Council for Wales,
+
+[[^F323](aa) the Commission for Tertiary Education and Research,]
+
+[[^F324](aa) the Citizen Voice Body for Health and Social Care, Wales,]
+
+[^F325]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(c) the Curriculum and Assessment Authority for Wales,
+
+[[^F326](ca) the Democracy and Boundary Commission Cymru,]
+
+(d) Family Practitioner Committees for localities in Wales,
+
+(e) the Further Education Funding Council for Wales,
+
+(f) the General Teaching Council for Wales,
+
+(g) health service hospitals, within the meaning of the [[^F327]National Health Service (Wales) Act 2006], in Wales,
+
+[^F328]h . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F329]i . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(j) the National Council for Education and Training for Wales,
+
+(k) National Health Service Authorities for districts or localities in Wales, or for areas in or consisting of Wales, including National Health Service trusts all of whose hospitals, establishments and facilities are situated in Wales,
+
+[[^F330](ka) the Natural Resources Body for Wales,]
+
+[[^F331](kb) the Office of Environmental Governance Wales,]
+
+(l) the Qualifications, Curriculum and Assessment Authority for Wales,
+
+[[^F332](la) Qualifications Wales,]
+
+(m) the Wales Centre for Health, and
+
+(n) the Welsh Board of Health.
+
+(3) An order under subsection (1)(f) may be made in relation to a description of records—
+
+(a) which (immediately before the order is made) are public records for the purposes of the Public Records Act 1958, or
+
+(b) which (at that time) are not public records for those purposes.
+
+(4) No order under subsection (1)(f) may be made—
+
+(a) in relation to records within paragraph (a) of subsection (3), unless the [[^F333]Secretary of State] has consulted the Welsh Ministers, and
+
+(b) in relation to records within paragraph (b) of that subsection, without the agreement of the Welsh Ministers.
+
+(5) A statutory instrument containing an order under subsection (1)(f) is subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(6) In this section “records” includes—
+
+(a) written records, and
+
+(b) records conveying information by any other means.
+
+### [[^F334]Consultation with Welsh Ministers
+
+#### 148A Renewable energy incentive schemes
+
+(1) The Secretary of State must consult the Welsh Ministers before—
+
+(a) establishing a renewable energy incentive scheme that applies in Wales, or
+
+(b) amending such a scheme as it relates to Wales.
+
+(2) Subsection (1) does not apply to amendments that appear to the Secretary of State to be minor or made only for technical or administrative reasons; and the Secretary of State is not to be taken to establish or amend a scheme by exercising a power under a scheme, other than a power that is exercisable subject to any parliamentary procedure.
+
+(3) Subsection (1) does not require the Secretary of State to consult the Welsh Ministers about any levy in connection with a renewable energy incentive scheme.
+
+(4) In this section a “"renewable energy incentive scheme”” means any scheme, whether statutory or otherwise, that provides an incentive to generate, or facilitate the generation of, electricity or heat from sources of energy other than fossil fuel or nuclear fuel. This includes provision made by or under the following so far as they relate to the generation of electricity or heat from sources of energy other than fossil fuel or nuclear fuel—
+
+(a) sections 6 to 26 of the Energy Act 2013 (contracts for difference);
+
+(b) sections 41 to 43 of the Energy Act 2008 (feed-in tariffs for small-scale generation of electricity);
+
+(c) section 100 of that Act (renewable heat incentives);
+
+(d) sections 32 to 32Z2 of the Electricity Act 1989 (renewables obligations or certificate purchase obligations).]
+
+### Miscellaneous
+
+#### 149 Resolution of devolution issues
+
+For provision about the resolution of devolution issues see Schedule 9.
+
+#### 150 Power to make consequential provision
+
+(1) The Secretary of State may by order make such provision as the Secretary of State considers appropriate in consequence of—
+
+(a) any provision made by an Assembly Measure or Act of the [[^F2]Senedd],
+
+(b) any provision of subordinate legislation made, or purporting to be made, under an Assembly Measure or Act of the [[^F2]Senedd],
+
+(c) any provision of subordinate legislation made, or purporting to be made, by the Welsh Ministers, the First Minister or the Counsel General, or
+
+(d) any provision of subordinate legislation made, or purporting to be made, by any other person (not being a Minister of the Crown) in the exercise of a function conferred or imposed by Act of Parliament where the statutory instrument (or a draft of the statutory instrument) containing the subordinate legislation is required to be laid before the [[^F2]Senedd].
+
+(2) An order under this section may make such modifications of—
+
+(a) any enactment (including any enactment comprised in or made under this Act) or prerogative instrument, or
+
+(b) any other instrument or document,
+
+as the Secretary of State considers appropriate.
+
+(3) An order under this section may not make provision with respect to matters within the legislative competence of the Scottish Parliament.
+
+(4) An order under this section may make provision having retrospective effect.
+
+(5) No order under this section which contains provisions in the form of amendments or repeals of enactments contained in an Act is to be made unless a draft of the statutory instrument containing it has been laid before, and approved by a resolution of, each House of Parliament.
+
+(6) A statutory instrument containing an order under this section is (unless a draft of the statutory instrument has been approved by a resolution of each House of Parliament) subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(7) In subsection (1) “made” includes confirmed or approved.
+
+#### 150A [[^F335][[^F336]Translation of references to Senedd Cymru etc.]
+
+[^F337]1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) Unless the context requires otherwise, a reference to the National Assembly for Wales [[^F338](or Cynulliad Cenedlaethol Cymru), the National Assembly for Wales Commission (or Comisiwn Cynulliad Cenedlaethol Cymru) or Acts of the National Assembly for Wales (or Deddfau Cynulliad Cenedlaethol Cymru) (as the case may be)], in—
+
+(a) any enactment (including any enactment comprised in or made under this Act) or prerogative instrument, or
+
+(b) any other instrument or document,
+
+is to be read as, or as including, a reference to the [[^F339]name given by Part 2 of the Senedd and Elections (Wales) Act 2020].]
+
+[[^F340](3) Unless the context requires otherwise, a reference to Senedd Cymru or the Welsh Parliament, the Senedd Commission (or Comisiwn y Senedd) or Acts of Senedd Cymru (or Deddfau Senedd Cymru) (as the case may be), in—
+
+(a) any enactment (including any enactment comprised in or made under this Act) or prerogative instrument, or
+
+(b) any other instrument or document,
+
+is to be read as including a reference to the previous name.]
+
+#### 151 Power to remedy ultra vires acts
+
+(1) Her Majesty may by Order in Council make such provision as Her Majesty considers appropriate in consequence of—
+
+(a) an Assembly Measure or Act of the [[^F2]Senedd ], or any provision of an Assembly Measure or Act of the [[^F2]Senedd], which is not, or may not be, within the [[^F2]Senedd's] legislative competence, or
+
+(b) any purported exercise by any person of a function conferred or imposed by or under an Assembly Measure or Act of the [[^F2]Senedd] which is not, or may not be, an exercise or proper exercise of that function.
+
+(2) An Order in Council under this section may make such modifications of—
+
+(a) any enactment (including any enactment comprised in or made under this Act) or prerogative instrument, or
+
+(b) any other instrument or document,
+
+as Her Majesty considers appropriate.
+
+(3) An Order in Council under this section may make provision having retrospective effect.
+
+(4) No recommendation is to be made to Her Majesty in Council to make an Order in Council under this section which contains provisions in the form of amendments or repeals of enactments contained in an Act unless a draft of the statutory instrument containing the Order in Council has been laid before, and approved by a resolution of, each House of Parliament.
+
+(5) A statutory instrument containing an Order in Council under this section is (unless a draft of the statutory instrument has been approved by a resolution of each House of Parliament) subject to annulment in pursuance of a resolution of either House of Parliament.
+
+#### [^F341]152 Intervention in case of functions relating to water etc.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 153 Power to vary retrospective decisions
+
+(1) This section applies where any court or tribunal decides—
+
+(a) that an Assembly Measure or Act of the [[^F2]Senedd], or any provision of an Assembly Measure or Act of the [[^F2]Senedd], is outside the [[^F2]Senedd's] legislative competence,
+
+(b) that any provision of subordinate legislation made, or purporting to be made, under an Assembly Measure or Act of the [[^F2]Senedd] is outside the powers under which it was, or purported to be, made, or
+
+(c) that any provision of subordinate legislation made, or purporting to be made, by the Welsh Ministers, the First Minister or the Counsel General is outside the powers under which it was, or purported to be, made.
+
+(2) The court or tribunal may make an order—
+
+(a) removing or limiting any retrospective effect of the decision, or
+
+(b) suspending the effect of the decision for any period and on any conditions to allow the defect to be corrected.
+
+(3) In determining whether to make an order under this section, the court or tribunal must (among other things) have regard to the extent to which persons who are not parties to the proceedings would otherwise be adversely affected by the decision.
+
+(4) Where a court or tribunal is considering whether to make an order under this section, it must order notice (or intimation) of that fact to be given to the persons specified in subsection (5) (unless a party to the proceedings).
+
+(5) The persons mentioned in subsection (4) are—
+
+(a) in relation to proceedings in England and Wales, the Attorney General and the Counsel General,
+
+(b) in relation to proceedings in Scotland, the Advocate General for Scotland, and
+
+(c) in relation to proceedings in Northern Ireland, the Advocate General for Northern Ireland.
+
+(6) A person to whom notice (or intimation) is given in pursuance of subsection (4) may take part as a party in the proceedings, so far as they relate to the making of the order.
+
+(7) In deciding any question as to costs or expenses, the court or tribunal may—
+
+(a) take account of any additional expense which it considers that any party to the proceedings has incurred as a result of the participation of any person in pursuance of subsection (6), and
+
+(b) award the whole or part of the additional expense as costs or expenses to the party who incurred it (whether or not it makes an order under this section and whatever the terms of any such order it does make).
+
+(8) Any power to make provision for regulating the procedure before any court or tribunal includes power to make provision for the purposes of this section including, in particular, provision for determining the manner in which and the time within which any notice (or intimation) is to be given.
+
+(9) In subsection (1) “made” includes confirmed or approved.
+
+#### 154 Interpretation of legislation
+
+(1) This section applies to—
+
+(a) any provision of an Assembly Measure, or proposed Assembly Measure, which could be read in such a way as to be outside the [[^F2]Senedd's] legislative competence,
+
+(b) any provision of an Act of the [[^F2]Senedd], or a Bill for such an Act, which could be read in such a way as to be outside the [[^F2]Senedd's] legislative competence, and
+
+(c) any provision of subordinate legislation made, or purporting to be made, under an Assembly Measure or Act of the [[^F2]Senedd] which could be read in such a way as to be outside the powers under which it was, or purported to be, made.
+
+(2) The provision is to be read as narrowly as is required for it to be within competence or within the powers, if such a reading is possible, and is to have effect accordingly.
+
+(3) In subsection (1)(c) “made” includes confirmed or approved.
+
+#### 155 Functions exercisable in relation to Wales
+
+(1) Her Majesty may by Order in Council specify functions which are to be treated for such purposes of this Act as may be specified in the Order in Council—
+
+(a) as being, or as not being, functions which are exercisable by the Welsh Ministers, the First Minister or the Counsel General, or
+
+(b) as being, or as not being, functions which are exercisable in relation to Wales [[^F342]or the Welsh zone].
+
+(2) A statutory instrument containing an Order in Council under this section is subject to annulment in pursuance of a resolution of either House of Parliament.
+
+#### 156 English and Welsh texts of legislation
+
+(1) The English and Welsh texts of—
+
+(a) any Assembly Measure or Act of the [[^F2]Senedd] which is in both English and Welsh when it is enacted, or
+
+(b) any subordinate legislation which is in both English and Welsh when it is made,
+
+are to be treated for all purposes as being of equal standing.
+
+[[^F343](1A) Subsection (1) does not apply to any legislation to which Part 2 of the Legislation (Wales) Act 2019 applies (but section 5 of that Act makes corresponding provision in relation to legislation to which that Part applies).]
+
+[^F344]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F344]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F344]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F344]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Supplementary
+
+#### 157 Orders [[^F345], regulations] and directions
+
+(1) Any power of a Minister of the Crown or the Welsh Ministers under this Act to make an order [[^F346]or regulations] is exercisable by statutory instrument.
+
+(2) Any such power and any power under this Act to make an Order in Council—
+
+(a) may be exercised so as to make different provision for different cases or classes of case or different purposes,
+
+(b) may be exercised so as to make provision which applies generally or subject to specified exemptions or exceptions or only in relation to specific cases or classes of case, and
+
+(c) includes power to make supplementary, incidental, consequential, transitory, transitional or saving provision.
+
+(3) Any power conferred by this Act to give a direction includes power to vary or revoke the direction.
+
+#### [^F347]157ZA Explanatory statements in relation to certain regulations
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 157A [[^F348]“Devolved Welsh authority”
+
+(1) In this Act “devolved Welsh authority” means—
+
+(a) a public authority that meets the conditions in subsection (2),
+
+(b) a public authority that is specified, or is of a description specified, in Schedule 9A (whether or not it meets those conditions), or
+
+(c) the governing body of an institution within the higher education sector (within the meaning of section 91(5) of the Further and Higher Education Act 1992) whose activities are carried on, or principally carried on, in Wales.
+
+(2) A public authority meets the conditions in this section if its functions—
+
+(a) are exercisable only in relation to Wales, and
+
+(b) are wholly or mainly functions that do not relate to reserved matters.
+
+(3) In determining for the purposes of this section whether functions of a public authority are exercisable only in relation to Wales, no account is taken of any function that—
+
+(a) is exercisable otherwise than in relation to Wales, and
+
+(b) could (apart from this paragraph) be conferred or imposed by provision falling within the [[^F2]Senedd's] legislative competence (by virtue of section 108A(3)).
+
+(4) Where the conditions in subsection (2) are relevant to determining whether a provision of an Act of the [[^F2]Senedd] is within the [[^F2]Senedd's] legislative competence, the time for assessing whether those conditions are met is the time when the Act is passed.
+
+(5) Her Majesty may by Order in Council amend Schedule 9A—
+
+(a) so as to remove or revise an entry, or
+
+(b) so as to add or substitute a public authority whose functions—
+
+(i) are exercisable wholly or mainly in relation to Wales, and
+
+(ii) are wholly or mainly functions that do not relate to reserved matters.
+
+(6) No recommendation is to be made to Her Majesty in Council to make an Order in Council under this section unless a draft of the statutory instrument containing the Order in Council has been laid before, and approved by a resolution of, each House of Parliament and the [[^F2]Senedd] .
+
+(7) Subsection (6) does not apply to a statutory instrument containing an Order in Council that only makes provision for—
+
+(a) the omission of an entry where the authority concerned has ceased to exist, or
+
+(b) the variation of an entry in consequence of a change of name or transfer of functions.
+
+Such an Order in Council is subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(8) In this section “"public authority”” means a body, office or holder of an office that has functions of a public nature.
+
+[[^F349](9) References in this section to Wales include, in relation to a relevant function of a public authority, the area of the Welsh zone beyond the seaward limit of the territorial sea.
+
+A function of a public authority is “relevant” if it relates to fishing, fisheries or fish health.]]
+
+#### 158 Interpretation
+
+(1) In this Act (except where the context otherwise requires)—
+
+- [^F350]...
+
+- “the Convention rights” has the same meaning as in the Human Rights Act 1998 (c. 42),
+
+- “cross-border body” means any body (including a government department) or undertaker exercising functions, or carrying on activities, in or with respect to Wales (or any part of Wales) and anywhere else,
+
+- “enactment” includes an Assembly Measure, an Act of the [[^F2]Senedd] and subordinate legislation (but see also subsection (2)),
+
+- “English border area” means a part of England adjoining Wales (but not the whole of England),
+
+- “financial year” means the twelve months ending with 31st March,
+
+- “function” means power or duty,
+
+- “government department” means any department of the Government of the United Kingdom,
+
+- “international obligations” means any international obligations of the United Kingdom other than obligations to observe and implement [^F351]... the Convention rights,
+
+- “Minister of the Crown” includes the Treasury,
+
+- “modifications” includes amendments, repeals and revocations,
+
+- [[^F352]“property” includes rights and interests of any description,]
+
+- “subordinate legislation” has the same meaning as in the Interpretation Act 1978 (c. 30) (including an instrument made under an Assembly Measure or Act of the [[^F2]Senedd]),
+
+- “tribunal” means any tribunal in which legal proceedings may be brought, [^F353]. . .
+
+- “Wales” includes the sea adjacent to Wales out as far as the seaward boundary of the territorial sea.[[^F354], and
+
+- Welsh zone” means the sea adjacent to Wales which is—
+
+  - (a) within British fishery limits (that is, the limits set by or under section 1 of the Fishery Limits Act 1976), and
+  - (b) specified in an Order in Council under section 58 or an order under subsection (3).]
+
+(2) In sections 95(3), 109(2)[[^F355], 116C(2)][[^F356], 150A(2)] and 151(2) “enactment” includes an Act of the Scottish Parliament and an instrument made under such an Act.
+
+[[^F357](3) The Secretary of State may by order determine, or make provision for determining, for the purposes of the definitions of “Wales” and the “Welsh zone”, any boundary between waters which are to be treated as parts of the sea adjacent to Wales, or sea within British fishery limits adjacent to Wales, and those which are not.]
+
+(4) An Order in Council under section 58 may include any provision that may be included in an order under subsection (3).
+
+(5) No order is to be made under subsection (3) unless a draft of the statutory instrument containing it has been laid before, and approved by a resolution of, each House of Parliament.
+
+(6) Section 13 of the National Audit Act 1983 (c. 44) (interpretation of references to the Committee of Public Accounts) applies for the purposes of this Act as for those of that Act.
+
+#### 159 Index of defined expressions
+
+In this Act the following expressions are defined or otherwise explained by the provisions indicated—
+
+|  |  |
+|---|---|
+| the 2007 election | section 161(1) |
+| Acts of the [[^F2]Senedd] | section 107(1) |
+| [[^F358]ancillary (in relation to a provision) | section 108A(7)] |
+| annual Budget motion | section 125(1) |
+| the [[^F2]Senedd] | section 1(1) |
+| [^F359] . . . | [^F359] . . . |
+| the [[^F2]Senedd] Commission | section 27(1) |
+| [[^F2]Senedd] constituency | section 2(1) |
+| [[^F2]Senedd] constituency member | section 1(2)(a) |
+| [^F360] . . . | [^F360] . . . |
+| Assembly Measures | section 93(1) |
+| [[^F58]Member of the Senedd] | section 1(3) |
+| [[^F2]Senedd] proceedings | section 1(5) |
+| [[^F2]Senedd] regional member | section 1(2)(b) |
+| [^F361] . . . | [^F361] . . . |
+| [[^F2]Senedd's] legislative competence (in relation to Assembly Measures) | section 94 |
+| the Audit Committee | section 30(1) |
+| the Auditor General | section 145(1) |
+| Budget resolution of the [[^F2]Senedd] | section 120(8) |
+| the Clerk | section 26(1) |
+| the Committee of Public Accounts | section 158(6) |
+| [^F362] . . . | [^F362] . . . |
+| [^F363] . . . | [^F363] . . . |
+| the Convention rights | section 158(1) |
+| the Counsel General | section 45(1)(c) |
+| cross-border body | section 158(1) |
+| [^F364] . . . | [^F364] . . . |
+| Deputy Welsh Minister | section 50 |
+| [[^F365]devolved tax | section 116A(4)] |
+| [[^F358]devolved Welsh authority | section 157A] |
+| [^F366] . . . | [^F366] . . . |
+| [^F367] . . . | [^F367] . . . |
+| enactment | section 158(1) and (2) |
+| English border area | section 158(1) |
+| financial year | section 158(1) |
+| the First Minister | sections 46 and 47 |
+| function | section 158(1) |
+| government department | section 158(1) |
+| the initial period | section 161(5) |
+| international obligations | section 158(1) |
+| [[^F368]Member of the Senedd | section 1(2A)] |
+| member of the staff of the [[^F2]Senedd] | paragraph 3(2) of Schedule 2 |
+| member of the staff of the Welsh [^F138] ... Government | section 52 |
+| Minister of the Crown | section 158(1) |
+| modifications | section 158(1) |
+| political group | section 24(5) |
+| political group with an executive role | section 25(8) |
+| the Presiding Officer | section 25(1)(a) |
+| the principal accounting officer for the [[^F2]Senedd] Commission | section 138(1) and (2) |
+| the principal accounting officer for the Welsh Ministers | section 129(6) and (7) |
+| [[^F358]property | section 158(1)] |
+| [^F369] . . . | [^F369] . . . |
+| registered political party | section 6(6) |
+| relevant enactment (in sections 124 to 128) | section 124(4) |
+| the relevant persons (in sections 124 to 128) | section 124(3) |
+| [[^F358]reserved matters | Schedule 7A] |
+| [[^F368]the Senedd | section 1(1)] |
+| [[^F368]the Senedd Commission | section 27(1)] |
+| the standing orders | section 31(1) |
+| [[^F368]Senedd constituency | section 2(1)] |
+| [^F370] . . . | [^F370] . . . |
+| [^F371] . . . | [^F371] . . . |
+| [[^F368]Senedd proceedings | section 1(5)] |
+| [^F372] . . . | [^F372] . . . |
+| [[^F368]Senedd's legislative competence (in relation to Acts of the Senedd) | section 108A] |
+| subordinate legislation | section 158(1) |
+| supplementary Budget motion | section 126(1) |
+| tribunal | section 158(1) |
+| use of resources | section 125(4) |
+| Wales | section 158(1), (3) and (4) |
+| Welsh [^F138] ... Government | section 45(1) |
+| Welsh Consolidated Fund | section 117 |
+| the Welsh Ministers | section 45(2) |
+| [[^F373]“Welsh zone” | section 158(1), (3) and (4)] |
+
+#### 160 Minor and consequential amendments
+
+(1) For minor and consequential amendments see Schedule 10.
+
+(2) The Secretary of State may by order make such modifications of—
+
+(a) any enactment contained in an Act passed before or in the same session as this Act, or
+
+(b) any enactment contained in an instrument made before the passing of this Act or in the session in which this Act is passed,
+
+as the Secretary of State considers appropriate in consequence of this Act.
+
+(3) No order containing provision under subsection (2)(a) is to be made unless a draft of the statutory instrument containing it has been laid before, and approved by a resolution of, each House of Parliament.
+
+(4) A statutory instrument containing an order under subsection (2) is (unless a draft of the statutory instrument has been approved by a resolution of each House of Parliament) subject to annulment in pursuance of a resolution of either House of Parliament.
+
+#### 161 Commencement
+
+(1) Subject as follows, this Act comes into force immediately after the ordinary election under section 3 of the Government of Wales Act 1998 (c. 38) held in 2007 (referred to in this Act as “the 2007 election”).
+
+(2) The following provisions come into force on the day on which this Act is passed—
+
+- paragraphs 5, 6 and 12 of Schedule 2,
+- sections 95 and 96 and Schedule 5,
+- section 109 and Schedule 7,
+- section 119 and the repeal by Schedule 12 of section 81 of the Government of Wales Act 1998,
+- section 120(3) and (7),
+- section 125 and the repeal by Schedule 12 of section 86 of the Government of Wales Act 1998,
+- sections 157 to 159,
+- section 160(2) to (4),
+- the amendment made by paragraph 61 of Schedule 10 in section 13 of the Political Parties, Elections and Referendums Act 2000 (c. 41),
+- this section,
+- section 162 and Schedule 11,
+- the repeal by Schedule 12 of section 12(1)(d) of the Government of Wales Act 1998, and
+- sections 164 to 166.
+
+(3) The following provisions come into force on 1st April 2007—
+
+- sections 117 and 118 and the repeal by Schedule 12 of section 80 of the Government of Wales Act 1998,
+- section 120(1) and (2), (4) to (6) and (8) and the repeal by Schedule 12 of section 84 of that Act,
+- sections 121 and 122 and the repeal by Schedule 12 of section 82 of that Act,
+- section 124 and the repeal by Schedule 12 of sections 85(1) and 89 of that Act,
+- section 126,
+- sections 128 and 129, and
+- the amendments in the Local Government, Planning and Land Act 1980 (c. 65), the Local Government Finance Act 1988 (c. 41) and the Housing Act 1988 (c. 50) made by Schedule 10.
+
+(4) Subject to subsections (2), (3) and (6), the following provisions come into force immediately after the end of the initial period—
+
+(a) any provision of this Act so far as relating to functions of the Welsh Ministers, the First Minister, the Counsel General or the [[^F2]Senedd] Commission,
+
+(b) any provision of this Act so far as relating to the Auditor General or the Comptroller and Auditor General,
+
+(c) any other provision consisting of an amendment made in the Government of Wales Act 1998 (c. 38) by Schedule 10, and
+
+(d) the repeal by Schedule 12 of provisions falling to be repealed in consequence of any provision within paragraph (a), (b) or (c).
+
+(5) In this Act “the initial period” means the period—
+
+(a) beginning with the day of the poll at the 2007 election, and
+
+(b) ending with the day on which the first appointment is made under section 46.
+
+(6) The repeals by Schedule 12 of each of sections 83, 88, 93(8), 97 and 101A of the Government of Wales Act 1998 (and of the other provisions of that Act so far as relating to them) come into force when the section has been complied with for the financial year ending with 31st March 2007 (and earlier financial years); and sections 123, 131, 132 and 141 do not apply for that financial year.
+
+[^F374]7 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 162 Transitional etc. provision
+
+(1) For transitional and transitory provisions and savings see Schedule 11.
+
+(2) The Secretary of State may by order make any other transitional, transitory or saving provision which may appear appropriate in consequence of, or otherwise in connection with, this Act.
+
+(3) An order under subsection (2) may, in particular, include any savings from the effect of any amendment or repeal or revocation made by this Act.
+
+(4) Nothing in Schedule 11 limits the power conferred by subsection (2); and such an order may, in particular, make modifications of that Schedule.
+
+(5) Nothing in that Schedule, or in any provision made by virtue of subsection (2), prejudices the operation of sections 16 and 17 of the Interpretation Act 1978 (c. 30).
+
+(6) No order under subsection (2) which contains provisions in the form of amendments or repeals of any provision contained in any of paragraphs 30 to 35, 50 and 51 of Schedule 11 is to be made unless a draft of the statutory instrument containing it has been laid before, and approved by a resolution of, each House of Parliament.
+
+(7) A statutory instrument containing an order under subsection (2) is (unless a draft of the statutory instrument has been approved by a resolution of each House of Parliament) subject to annulment in pursuance of a resolution of either House of Parliament.
+
+#### 163 Repeals and revocations
+
+For repeals and revocations of enactments (including some spent enactments) see Schedule 12.
+
+#### 164 Financial provision
+
+(1) There is to be paid out of money provided by Parliament—
+
+(a) any expenditure incurred by a Minister of the Crown or government department by virtue of this Act, and
+
+(b) any increase attributable to this Act in the sums payable under any other Act out of money provided by Parliament.
+
+(2) There are to be paid into the Consolidated Fund any sums received by a Minister of the Crown by virtue of this Act (other than any required to be paid into the National Loans Fund).
+
+#### 165 Extent
+
+(1) The following provisions—
+
+- section 36(7) to (9),
+- section 39, and
+- section 40(2) and (3),
+
+extend only to England and Wales.
+
+(2) The amendments, and repeals and revocations, made by this Act have the same extent as the enactments amended or repealed or revoked.
+
+#### 166 Short title
+
+This Act may be cited as the Government of Wales Act 2006.
+
+## [^F375]SCHEDULE 1 — Alteration of [[^F2]Senedd] electoral regions
+
+*Section 2*
+
+### [^F375]Introduction
+
+**[^F375]1** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F375] [[^F2]Senedd] electoral region issue
+
+**[^F375]2** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F375]Notice of Committee's proposed recommendations
+
+**[^F375]3** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F375]Local inquiries
+
+**[^F375]4** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F375]Committee's report
+
+**[^F375]5** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F375]Consideration of Committee's report by Commission
+
+**[^F375]6** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F375]Directions by Commission to Committee
+
+**[^F375]7** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F375]Commission's report
+
+**[^F375]8** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F375]Rules
+
+**[^F375]9** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F375]Orders in Council giving effect to Commission reports
+
+**[^F375]10** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F375]Interpretation: the regional electorate
+
+**[^F375]11** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F375]Interpretation: general
+
+**[^F375]12** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## [[^F376]SCHEDULE 1A — DISQUALIFICATION FROM BEING A MEMBER OF THE SENEDD OR A CANDIDATE IN AN ELECTION TO BE A MEMBER OF THE SENEDD
+
+*SECTION 16*
+
+### PART 1 — CATEGORIES OF PERSONS DISQUALIFIED
+
+#### Persons under 18 years of age
+
+**1** A person who has not attained the age of 18 before the day on which the person is nominated as a candidate for election as a Member of the Senedd.
+
+#### Citizenship
+
+**2** (1) A person who is not—
+
+(a) a British citizen,
+
+(b) a qualifying Commonwealth citizen,
+
+(c) a qualifying foreign citizen,
+
+(d) a citizen of the Republic of Ireland, or
+
+(e) a citizen of the European Union who is resident in the United Kingdom.
+
+(2) For the purposes of sub-paragraph (1), a person is a qualifying Commonwealth citizen if that person is a Commonwealth citizen who either—
+
+(a) is not a person who requires leave under the Immigration Act 1971 (c. 77) to enter or remain in the United Kingdom, or
+
+(b) is such a person but for the time being has (or is, by virtue of any enactment, to be treated as having) indefinite leave to remain within the meaning of that Act.
+
+(3) For the purposes of sub-paragraph (1), a qualifying foreign citizen is a person resident in the United Kingdom who—
+
+(a) is not a Commonwealth citizen, a citizen of the Republic of Ireland or a citizen of the European Union, and
+
+(b) either—
+
+(i) is not a person who requires leave under the Immigration Act 1971 to enter or remain in the United Kingdom, or
+
+(ii) is such a person but for the time being has (or is, by virtue of any enactment, to be treated as having) indefinite leave to remain within the meaning of that Act.
+
+(4) But a person is not a qualifying Commonwealth citizen by virtue of sub-paragraph (2)(a) or a qualifying foreign citizen by virtue of sub-paragraph (3)(b)(i) if that person does not require leave to enter or remain in the United Kingdom by virtue only of section 8 of the Immigration Act 1971 (exceptions to requirement for leave in special cases).
+
+#### Bankruptcy
+
+**3** A person in respect of whom one or more of the following orders has effect—
+
+(a) a debt relief restrictions order or interim debt relief restrictions order under Schedule 4ZB to the Insolvency Act 1986 (c. 45) or Schedule 2ZB to the Insolvency (Northern Ireland) Order 1989 (S.I. 1989/2405 (N.I. 19));
+
+(b) a bankruptcy restrictions order or an interim bankruptcy restrictions order under Schedule 4A to the Insolvency Act 1986, Part 13 of the Bankruptcy (Scotland) Act 2016 (asp 21) or Schedule 2A to the Insolvency (Northern Ireland) Order 1989.
+
+**4** A person who is disqualified from being a member of the House of Commons under section 427 of the Insolvency Act 1986 because of an award of sequestration made by a court in Scotland.
+
+#### Persons guilty of corrupt or illegal practices at elections
+
+**5** A person who is incapable of being elected to the House of Commons having been reported personally guilty or convicted of a corrupt or illegal practice under the Representation of the People Act 1983 (c. 2).
+
+**[[^F377]5A** A person who is incapable of being elected to or holding elective office in a district council in Northern Ireland under Part 10 of the Electoral Law Act (Northern Ireland) 1962 (c. 14) having been reported guilty or convicted of a corrupt or illegal practice.]
+
+#### Persons imprisoned or detained following conviction etc.
+
+**6** (1) A person found guilty of one or more offences (whether before or after the passing of this Act and whether in the United Kingdom or elsewhere), and sentenced or ordered to be imprisoned or detained indefinitely or for more than one year.
+
+(2) A person is disqualified under this paragraph only while the person is—
+
+(a) detained anywhere in the United Kingdom, the Channel Islands, the Isle of Man, or elsewhere in the European Union, in pursuance of the sentence or order, or
+
+(b) unlawfully at large at a time when the person would otherwise be so detained.
+
+#### [[^F378]Persons subject to a disqualification order
+
+**6A** A person subject to a disqualification order under section 30 of the Elections Act 2022 (disqualification of offenders for holding elective office etc).]
+
+#### Sex offenders
+
+**7** A person subject to—
+
+[[^F379](a)] the notification requirements of, or an order under, Part 2 of the Sexual Offences Act 2003 (c. 42) [[^F380] or
+
+(b) an order under Chapter 2 of Part 11 of the Sentencing Code].
+
+#### [[^F381]Persons not registered in electoral register at an address in Wales
+
+**8** A person who is not registered in the register of local government electors at an address within a Senedd constituency.]
+
+### PART 2 — OFFICES THAT DISQUALIFY THE HOLDER
+
+| Offices and bodies in respect of which there are disqualifying offices | The disqualifying offices |
+|---|---|
+| Armed forces | Members of the Royal Navy, the Royal Marines, the regular army (as defined by section 374 of the Armed Forces Act 2006 (c. 52)) or the Royal Air Force, not including—<br>- an officer on the retired or emergency list of any of the regular armed forces of the Crown,<br>- a person who holds an emergency commission in any of those forces,<br>- a person who belongs to any reserve of officers of any of those forces,<br>- a naval, army, marine or air force pensioner, or former soldier who is liable to be recalled for service, or<br>- a person who is an Admiral of the Fleet, a Field Marshal or a Marshal of the Royal Air Force and does not for the time being hold an appointment in the naval, military or air force service of the Crown |
+| Auditor General for Wales or Archwilydd Cyffredinol Cymru | The Auditor General |
+| Children’s Commissioner for Wales or Comisiynydd Plant Cymru | The Commissioner and deputy Commissioner |
+| Civil service | Members of the civil service of the State, including the civil service of Northern Ireland, the Northern Ireland Court Service, Her Majesty’s Diplomatic Service and Her Majesty’s Overseas Civil Service |
+| Civil Service Commission | The First Civil Service Commissioner and Civil Service Commissioners |
+| Commission for Equality and Human Rights | The Commissioners |
+| Commissioner for Older People in Wales or Comisiynydd Pobl Hŷn Cymru | The Commissioner and deputy Commissioner |
+| Commissioner for Public Appointments | The Commissioner |
+| Comptroller and Auditor General or Rheolwr ac Archwilydd Cyffredinol | The Comptroller and Auditor General |
+| [[^F382]Democracy and Boundary Commission Cymru or Comisiwn Democratiaeth a Ffiniau Cymru | The members, assistant commissioners and chief executive of the Commission] |
+| Electoral Commission or Comisiwn Etholiadol | The Electoral Commissioners and members of the staff of the Commission |
+| Electoral Registration Officers | Electoral registration officer for any area in Wales |
+| Future Generations Commissioner for Wales or Comisiynydd Cenedlaethau’r Dyfodol Cymru | The Commissioner |
+| Her Majesty‘s Chief Inspector of Education and Training in Wales or Prif Arolygydd Ei Mawrhydi dros Addysg a Hyfforddiant yng Nghymru | The Chief Inspector |
+| Independent Remuneration Board of the Senedd or Bwrdd Taliadau Annibynnol y Senedd | The members of the Board |
+| [^F383] ... | [^F383] ... |
+| Judicial offices | The following judicial offices—<br>- Judge of the Supreme Court;<br>- Judge of the High Court or Court of Appeal in England and Wales;<br>- Judge of the Court of Session or Temporary Judge in Scotland;<br>- Judge of the High Court or Court of Appeal in Northern Ireland;<br>- Judge of the Court Martial Appeal Court;<br>- Chairman of the Scottish Land Court;<br>- Circuit Judge in England and Wales;<br>- Sheriff principal, sheriff, summary sheriff, temporary sheriff principal, part-time sheriff or part-time summary sheriff in Scotland;<br>- County Court Judge or deputy County Court Judge in Northern Ireland;<br>- District Judge (Magistrates’ Courts) (but not Deputy District Judge (Magistrates’ Courts)) in England and Wales;<br>- District judge (magistrates’ courts) or deputy district judge (magistrates’ courts) in Northern Ireland;<br>- President of Welsh Tribunals or Llywydd Tribiwnlysoedd Cymru;<br>- Judge of the Upper Tribunal;<br>- legal member of the Upper Tribunal for Scotland;<br>- Chief or other Child Support Commissioner for Northern Ireland or deputy Child Support Commissioner for Northern Ireland;<br>- Chief or other Social Security Commissioner for Northern Ireland or deputy Social Security Commissioner for Northern Ireland |
+| Legislatures | Members of the legislature of any country or territory outside the United Kingdom |
+| Lieutenancies | Lord-lieutenant or lieutenant of any area in Wales |
+| [^F384] . . . | [^F384] . . . |
+| Parliamentary Commissioner for Administration | The Commissioner |
+| Police forces | Members of any police force maintained by—<br>- a local policing body (within the meaning given by section 101 of the Police Act 1996 (c. 16)),<br>- the Scottish Police Authority, or<br>- the Northern Ireland Policing Board,<br>and “member” in relation to a police force means a person holding office as a constable of that force |
+| Public Services Ombudsman for Wales or Ombwdsmon Gwasanaethau Cyhoeddus Cymru | The Ombudsman |
+| Returning officers for Senedd elections | The returning officer for any Senedd constituency [^F385] ... |
+| Senedd Commission | Members of the staff of the Senedd |
+| Senedd Commissioner for Standards or Comisiynydd Safonau y Senedd | The Commissioner |
+| Sheriffs | The high sheriff of any area in Wales |
+| Welsh Language Commissioner or Comisiynydd y Gymraeg | The Commissioner, the Deputy Commissioner and the members of the Advisory Panel to the Welsh Language Commissioner] |
+
+## SCHEDULE 2 — [[^F2]Senedd] Commission
+
+*Section 27*
+
+### Membership
+
+**1** (1) The Presiding Officer holds office as a member of the [[^F2]Senedd] Commission until another person is elected to the office of Presiding Officer unless the Presiding Officer ceases to be [[^F28]a Member of the Senedd] otherwise than by reason of a dissolution.
+
+(2) Any other member of the [[^F2]Senedd] Commission holds office until another [[^F58]Member of the Senedd] is appointed as a replacement unless sub-paragraph (3) applies.
+
+(3) This sub-paragraph applies if the person—
+
+(a) resigns office as a member of the [[^F2]Senedd] Commission,
+
+(b) ceases to be [[^F28]a Member of the Senedd] otherwise than by reason of a dissolution, or
+
+(c) is removed from office as a member of the [[^F2]Senedd] Commission by the [[^F2]Senedd].
+
+### Property
+
+**2** The [[^F2]Senedd] Commission may acquire, hold and dispose of property.
+
+### Staff
+
+**3** (1) The [[^F2]Senedd] Commission may appoint staff.
+
+(2) The Clerk and the other persons appointed by the [[^F2]Senedd] Commission are referred to in this Act as the members of the staff of the [[^F2]Senedd].
+
+(3) Employment as a member of the staff of the [[^F2]Senedd] is not employment under the Crown (but see paragraph 12).
+
+(4) The [[^F2]Senedd] Commission must ensure that—
+
+(a) the procedures for the recruitment and selection of persons as members of the staff of the [[^F2]Senedd] are broadly in line with those applying to the recruitment and selection of persons as members of the staff of the Welsh [^F138]... Government, and
+
+(b) the terms and conditions of employment of the members of the staff of the [[^F2]Senedd] are broadly in line with those of the members of the staff of the Welsh [^F138]... Government.
+
+(5) The [[^F2]Senedd] Commission is to pay the salaries and expenses of the members of the staff of the [[^F2]Senedd].
+
+(6) The [[^F2]Senedd] Commission may make arrangements for the payment of pensions, gratuities or allowances to or in respect of anyone who has ceased to be a member of the staff of the [[^F2]Senedd] .
+
+(7) The [[^F2]Senedd] Commission may, in particular, make contributions to, or payments towards the provision of, such pensions, gratuities or allowances.
+
+(8) In Schedule 1 to the Superannuation Act 1972 (c. 11) (employments etc. to which section 1 of the Act applies), in the appropriate place in the list of “Other Bodies” insert— “ Employment as a member of the staff of the National Assembly for Wales. ”
+
+(9) The [[^F2]Senedd] Commission must make payments to the Minister for the Civil Service, at such times as the Minister for the Civil Service may determine, of such amounts as may be so determined in respect of —
+
+(a) the provision of pensions, allowances or gratuities by virtue of section 1 of the Superannuation Act 1972 to or in respect of persons who are or have been members of the staff of the [[^F2]Senedd] , and
+
+(b) the expenses incurred in administering those pensions, allowances and gratuities.
+
+### Powers
+
+**4** (1) The [[^F2]Senedd] Commission may do anything which appears to it necessary or appropriate for the purpose of, or in connection with, the discharge of its functions.
+
+(2) That includes, in particular—
+
+(a) entering into contracts,
+
+(b) charging for goods or services,
+
+(c) investing sums not immediately required for the discharge of its functions, and
+
+(d) accepting gifts.
+
+(3) Where (by will or otherwise) any property is (by whatever words used) expressed to be given to the [[^F2]Senedd] , the gift takes effect as a gift to the [[^F2]Senedd] Commission.
+
+[[^F386](4) The Senedd Commission may—
+
+(a) provide goods or services to the public, or
+
+(b) make arrangements for the provision of goods or services to the public.
+
+(4A) The Senedd Commission may charge for goods or services provided under sub-paragraph (4).]
+
+(5) The [[^F2]Senedd] Commission may borrow sums in sterling by way of overdraft or otherwise for the purpose of meeting a temporary excess of expenditure over sums otherwise available to meet expenditure.
+
+(6) The [[^F2]Senedd] Commission—
+
+(a) may not borrow money otherwise than under sub-paragraph (5), and
+
+(b) may borrow under that sub-paragraph only in accordance with special or general directions given by the [[^F2]Senedd ] to the [[^F2]Senedd] Commission under section 27(6).
+
+(7) The Secretary of State may by order provide that the Local Government (Contracts) Act 1997 (c. 65) applies in relation to contracts entered into by the [[^F2]Senedd] Commission but subject to any appropriate modifications.
+
+(8) A statutory instrument containing an order under sub-paragraph (7) is subject to annulment in pursuance of a resolution of either House of Parliament.
+
+### Promotion of awareness of election system and devolved government
+
+**5** (1) The [[^F2]Senedd] Commission may promote public awareness of—
+
+(a) the current or any pending system for the election of [[^F9]Members of the Senedd] , and
+
+(b) the current or any pending system of devolved government in Wales.
+
+(2) For the purposes of this paragraph and paragraph 6 a system is “pending” if arrangements for giving effect to it have been made by any enactment but the arrangements are not yet in force.
+
+(3) The [[^F2]Senedd] Commission may exercise its power under sub-paragraph (1) in such manner as it thinks fit but may, in particular, do so by—
+
+(a) carrying out programmes of education or information to promote public awareness, or
+
+(b) making grants to other persons or bodies for the purpose of enabling them to carry out such programmes.
+
+(4) Any grant under sub-paragraph (3)(b) may be made subject to such conditions as the [[^F2]Senedd] Commission considers appropriate.
+
+**6** The [[^F2]Senedd] Commission may provide financial assistance to the Electoral Commission for the purpose of enabling it to carry out its functions under section 13(1) of the Political Parties, Elections and Referendums Act 2000 (c. 41) so far as relating to the promotion of public awareness of—
+
+(a) the current or any pending system for the election of [[^F9]Members of the Senedd] , and
+
+(b) the current or any pending system of devolved government in Wales.
+
+### Delegation
+
+**7** The [[^F2]Senedd] Commission may delegate any of its functions to—
+
+(a) the Presiding Officer, or
+
+(b) the Clerk.
+
+### Principles in accordance with which functions are to be exercised
+
+**8** (1) The [[^F2]Senedd] Commission must make appropriate arrangements with a view to securing that its functions are exercised with due regard to the principle that there should be equality of opportunity for all people.
+
+(2) In the exercise of the functions of the [[^F2]Senedd] Commission due regard must be had to the principle of promoting sustainable development.
+
+[[^F387](3) The [[^F2]Senedd] Commission must, in the exercise of its functions—
+
+(a) treat the official languages of the [[^F2]Senedd] on a basis of equality, and
+
+(b) make arrangements for enabling effect to be given to section 35(1), (1A), (1B) and (1C).
+
+(4) The [[^F2]Senedd] Commission must—
+
+(a) adopt, and
+
+(b) publish,
+
+a scheme, to be known as the [[^F2]Senedd] Commission's Official Languages Scheme (“ the Scheme ”), specifying the measures which it proposes to take in order to comply with its duties under sub-paragraph (3).
+
+(5) The Scheme must include (amongst other things) provision about—
+
+(a) simultaneous interpretation from one official language into the other—
+
+(i) in all [[^F2]Senedd] proceedings,
+
+(ii) in public meetings conducted on behalf of the [[^F2]Senedd] Commission, and
+
+(iii) in such other meetings connected with the functions of the [[^F2]Senedd] or the [[^F2]Senedd] Commission as may be provided for in the Scheme,
+
+(b) publication of documents in both official languages, subject to any exceptions identified in the Scheme,
+
+(c) public engagement with—
+
+(i) [[^F2]Senedd] proceedings, and
+
+(ii) other functions of the [[^F2]Senedd] and of the [[^F2]Senedd] Commission,
+
+through the medium of either of the official languages,
+
+(d) practical measures to foster and continually improve freedom of choice of official language—
+
+(i) on the part of those participating in [[^F2]Senedd] proceedings, and
+
+(ii) in relation to the functions of the [[^F2]Senedd] or the [[^F2]Senedd] Commission generally,
+
+(e) the setting of targets and timescales relating to implementation of the Scheme,
+
+(f) the allocation of responsibilities for implementing the Scheme,
+
+(g) objective means of measuring progress in implementing the Scheme, and
+
+(h) a strategy for ensuring that the staff of the [[^F2]Senedd] have, collectively, the language skills necessary to enable the Scheme to be implemented.
+
+(6) The Scheme must include provision relating to the receipt, investigation and consideration of complaints of failures to give effect to provisions of the Scheme.
+
+(7) The Scheme must identify those services provided or to be provided in the official languages and explain how those services are to be provided in accordance with paragraph 8(5).
+
+(8) The [[^F2]Senedd] Commission must, in respect of each financial year, lay before the [[^F2]Senedd] a report setting out how the Commission has, during the year in question, given effect to the Scheme.
+
+(9) The report prepared by the [[^F2]Senedd] Commission under sub-paragraph (8) must include—
+
+(a) whether and to what degree the services referred to in sub-paragraph (7) have been provided, and
+
+(b) if applicable, the reasons why the Commission has not provided any of the services referred to in sub-paragraph (7) in both official languages.
+
+(10) The [[^F2]Senedd] Commission—
+
+(a) must review the Scheme as soon as is reasonably practicable after each ordinary general election, or after an extraordinary general election to which section 5(5) applies, and
+
+(b) may, at any time, adopt a new Scheme or an amendment to the existing Scheme.
+
+(11) The [[^F2]Senedd] Commission may not adopt a Scheme, or an amendment to a Scheme, unless (whether before or after the coming into force of this paragraph)—
+
+(a) a draft of the Scheme (or of the amendment) has been—
+
+(i) published, and
+
+(ii) laid before the [[^F2]Senedd],
+
+(b) the [[^F2]Senedd] Commission has given—
+
+(i) those persons whom the [[^F2]Senedd] Commission considers it appropriate to consult in relation to the Scheme, and
+
+(ii) the [[^F2]Senedd],
+
+reasonable opportunity to make representations in relation to the draft,
+
+(c) the [[^F2]Senedd] Commission has considered any representations made about the draft Scheme (or draft amendment) by—
+
+(i) the persons consulted under sub-paragraph (b)(i), and
+
+(ii) the [[^F2]Senedd], and
+
+(d) the Scheme (or the amendment) incorporating such modifications as the [[^F2]Senedd] Commission may, having considered such representations, make, has been laid before and approved by resolution of, the [[^F2]Senedd].
+
+(12) The [[^F2]Senedd] Commission must give effect to the Scheme.]
+
+### Annual report
+
+**9** After each financial year the [[^F2]Senedd] Commission must—
+
+(a) publish a report relating to the exercise of its functions during the financial year, and
+
+(b) lay a copy of the report before the [[^F2]Senedd] .
+
+### Validity of acts
+
+**10** The validity of any act of the [[^F2]Senedd] Commission is not affected by—
+
+(a) any vacancy in its membership,
+
+(b) any defect in the appointment of any member, or
+
+(c) any lack of qualification for membership of any member.
+
+### Proceedings
+
+**11** (1) The [[^F2]Senedd] Commission may determine its own procedure.
+
+(2) The Presiding Officer is to preside at meetings of the [[^F2]Senedd] Commission but the [[^F2]Senedd] Commission may appoint another of its members to preside if—
+
+(a) the office of Presiding Officer is vacant, or
+
+(b) the Presiding Officer is for any reason unable to act.
+
+### Crown status
+
+**12** (1) Her Majesty may by Order in Council provide for the [[^F2]Senedd] Commission to be treated to any extent as a Crown body for the purposes of any enactment.
+
+(2) In particular, the Order in Council may for the purposes of any enactment provide—
+
+(a) for employment as a member of the staff of the [[^F2]Senedd] to be treated as employment by the [[^F2]Senedd] Commission as a Crown body, or
+
+(b) for land held, used or managed by the [[^F2]Senedd] Commission, or operations carried out by or on behalf of the [[^F2]Senedd] Commission, to be treated as land held, used or managed by, or operations carried out by or on behalf of, the [[^F2]Senedd] Commission as a Crown body.
+
+(3) For the purposes of this paragraph “Crown body” means a body which is a servant or agent of the Crown, and includes a government department.
+
+(4) A statutory instrument containing an Order in Council under this paragraph is subject to annulment in pursuance of—
+
+(a) a resolution of either House of Parliament, or
+
+(b) a resolution of the [[^F2]Senedd] .
+
+## SCHEDULE 3 — Transfer etc. of functions: further provisions
+
+*Section 58*
+
+### Part 1 — Functions transferable etc.
+
+#### Existing and future functions
+
+**1** (1) Subject to sub-paragraph (2), an Order in Council under section 58 may make provision about any function of a Minister of the Crown (including a function conferred or imposed after the passing of this Act).
+
+(2) Such an Order in Council may not make provision about any function conferred or imposed by any provision of this Act except section 4.
+
+#### Functions relating to culture
+
+**2** If and to the extent that any function is exercisable by a Minister of the Crown in relation to the Welsh language or any other aspect of Welsh culture it is to be regarded for the purposes of section 58 as exercisable by the Minister of the Crown in relation to Wales.
+
+#### Cross-border functions
+
+**3** (1) The power conferred by section 58 to make an Order in Council about a function so far as exercisable by a Minister of the Crown in relation to Wales includes power to make provision about a function so far as exercisable by a Minister of the Crown in relation to—
+
+(a) a cross-border body, or
+
+(b) subject to sub-paragraph (2), an English border area.
+
+(2) An Order in Council under [[^F388]section 58(1)] may only include provision about a function so far as exercisable by a Minister of the Crown in relation to an English border area if—
+
+(a) the function relates to water resources management, water supply, rivers or other watercourses, control of pollution of water resources, sewerage or land drainage, and
+
+(b) the Order in Council makes (or another such Order in Council has made) corresponding provision about the function so far as so exercisable in relation to a part of Wales adjoining England or the whole of Wales.
+
+(3) This paragraph does not affect the power conferred by section 58 to make an Order in Council about a function so far as exercisable by a Minister of the Crown in relation to the whole or any part of Wales.
+
+#### Functions exercisable beyond the territorial sea
+
+**4** (1) The power conferred by section 58(1)(c) includes power to direct that any function under—
+
+[^F389]a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) Part 4 of the Petroleum Act 1998 (c. 17) (abandonment of offshore installations),
+
+[[^F390](c) the provisions of Parts 4 and 8 of the Marine and Coastal Access Act 2009 (marine licensing and enforcement) specified in sub-paragraph (1A), or
+
+(d) regulations under section 73 of that Act (appeals),]
+
+so far as exercisable by a Minister of the Crown in relation to Welsh controlled waters is to be exercisable by the Minister of the Crown only after consultation with the Welsh Ministers.
+
+[[^F391](1A) The provisions of the Marine and Coastal Access Act 2009 mentioned in sub-paragraph (1)(c) are—
+
+(a) sections 67(1) to (5), 69(1), (3) and (4), 71(1) to (3) and 72(1) to (3) (marine licences), so far as relating to items 1 to 6 and 11 to 13 in section 66(1) of that Act (licensable marine activities);
+
+(b) section 101 (registers);
+
+(c) sections 106 and 91(7)(c) (power to take remedial action, and power to require payment of sum representing reasonable expenses of taking such action);
+
+(d) section 107 (power to test, and charge for testing, certain substances);
+
+(e) sections 235(3) and 240(1)(c) (enforcement officers).]
+
+(2) In this paragraph “Welsh controlled waters” means so much of the sea beyond the seaward boundary of the territorial sea as is adjacent to Wales.
+
+(3) The power conferred by section 58(3) includes (in particular) power to determine, or make provision for determining, for the purposes of the definition of “Welsh controlled waters” any boundary between—
+
+(a) the parts of the sea which are to be treated as adjacent to Wales, and
+
+(b) those which are not,
+
+including power to make different determinations or provision for different purposes; and an order under section 158(3) may include any provision that by virtue of this sub-paragraph may be included in an Order in Council under section 58.
+
+### Part 2 — Exercise of transferred functions
+
+#### [^F392]...
+
+**[^F392]5** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Agreement or consultation: Ministers and Parliament
+
+**6** An Order in Council under section 58 which includes provision—
+
+(a) transferring to the Welsh Ministers, the First Minister or the Counsel General any function so far as exercisable by a Minister of the Crown [^F393]..., or
+
+(b) directing that any function is to be exercisable by the Welsh Ministers, the First Minister or the Counsel General [^F393]... concurrently with the Minister of the Crown by whom it is exercisable,
+
+may provide that (either generally or to such extent as may be specified in the Order in Council) the function may be exercised by the Welsh Ministers, the First Minister or the Counsel General only with the agreement of, or after consultation with, a Minister of the Crown.
+
+**7** (1) This paragraph applies where a function is exercisable by a Minister of the Crown—
+
+(a) only with the agreement of, or after consultation with, another Minister of the Crown, or
+
+(b) only with the authorisation of Parliament or either House of Parliament.
+
+(2) If an Order in Council under section 58 includes provision transferring the function to the Welsh Ministers, the First Minister or the Counsel General it is to be exercisable free from that requirement unless the Order in Council provides otherwise.
+
+(3) If an Order in Council under that section includes provision directing that the function is to be exercisable by the Welsh Ministers, the First Minister or the Counsel General concurrently with the Minister of the Crown by whom it is exercisable, the Order in Council may provide that is to be exercisable free from that requirement.
+
+#### Agreement or consultation etc.: [[^F2]Senedd] and [[^F2]Senedd] Commission
+
+**8** (1) An Order in Council under section 58 may make provision for a function to be exercisable by the Welsh Ministers, the First Minister or the Counsel General only with the authorisation of, or after consultation with, the [[^F2]Senedd] or the [[^F2]Senedd] Commission.
+
+(2) An Order in Council under section 58 making provision for a function to be exercisable by the Welsh Ministers, the First Minister or the Counsel General may, by virtue of subsection (3) of that section, require the Welsh Ministers, the First Minister or the Counsel General—
+
+(a) to lay a report before the [[^F2]Senedd] , or
+
+(b) to send documents to the Clerk,
+
+in connection with the exercise of the function.
+
+#### Parliamentary and [[^F2]Senedd] procedure
+
+**9** (1) This paragraph applies where a function to make subordinate legislation (including a function conferred or imposed by or by virtue of this Act or an Act passed after this Act) is transferred to, or made exercisable by, the Welsh Ministers, the First Minister or the Counsel General by an Order in Council under section 58.
+
+(2) If, immediately before the coming into force of the provisions of the Order in Council relating to the function, a provision of any of the descriptions specified in sub-paragraph (3) applied to its exercise by a Minister of the Crown—
+
+(a) that provision does not apply to its exercise by the Welsh Ministers, the First Minister or the Counsel General unless the case is one to which sub-paragraph (6) applies, but
+
+(b) (whether or not the case is one to which that sub-paragraph applies) that provision has effect in relation to its exercise by the Welsh Ministers, the First Minister or the Counsel General as if any reference in it to Parliament or either House of Parliament were (or, if it is such a case, included) a reference to the [[^F2]Senedd] .
+
+(3) The descriptions of provision referred to in sub-paragraph (2) are—
+
+(a) provision requiring any instrument made in the exercise of the function, or a draft of any such instrument, to be laid before Parliament or either House of Parliament,
+
+(b) provision for the annulment or approval of any such instrument or draft by or in pursuance of a resolution of either House of Parliament or of both Houses, and
+
+(c) provision prohibiting the making of any such instrument without such approval.
+
+(4) If, immediately before the coming into force of the provisions of the Order in Council relating to the function, a provision of either of the descriptions specified in sub-paragraph (5) applied to its exercise by a Minister of the Crown—
+
+(a) that provision does not apply to its exercise by the Welsh Ministers, the First Minister or the Counsel General unless the case is one to which sub-paragraph (6) or (7) applies, but
+
+(b) (whether or not the case is one to which either of those sub-paragraphs applies) any instrument made in the exercise of the function by the Welsh Ministers, the First Minister or the Counsel General is (or, if it is such a case, is also) subject to the procedure in the [[^F2]Senedd] specified by the standing orders.
+
+(5) The descriptions of provision referred to in sub-paragraph (4) are—
+
+(a) provision for any instrument made in the exercise of the function to be a provisional order (that is, an order which requires to be confirmed by Act of Parliament), and
+
+(b) provision requiring any order (within the meaning of the Statutory Orders (Special Procedure) Act 1945 (9 & 10 Geo. 6 c. 18)) made in the exercise of the function to be subject to special parliamentary procedure.
+
+(6) This sub-paragraph applies in any case if the instrument made in the exercise of the function or (if provision specified in sub-paragraph (3)(a) or (b) applied to a draft of an instrument made in the exercise of the function) a draft of an instrument to be so made—
+
+(a) contains subordinate legislation made or to be made by a Minister of the Crown or government department (whether or not jointly with the Welsh Ministers, the First Minister or the Counsel General),
+
+(b) contains (or confirms or approves) subordinate legislation relating to an English border area, or
+
+(c) contains (or confirms or approves) subordinate legislation relating to a cross-border body (and not relating only to the exercise of functions, or the carrying on of activities, by the body in or with respect to Wales or a part of Wales).
+
+[[^F394](6A) References in sub-paragraph (6) to Wales include, in relation to a relevant function or activity of a cross-border body, the area of the Welsh zone beyond the seaward limit of the territorial sea.
+
+A function or activity of a cross-border body is “relevant” if it relates to fishing, fisheries or fish health.]
+
+(7) This sub-paragraph applies in any case if, immediately before the coming into force of the provisions of the Order in Council relating to the function, a provision of the description specified in sub-paragraph (5)(b) applied to an instrument made in exercise of the function by a Minister of the Crown and the Order in Council provided that—
+
+(a) any order made by the Welsh Ministers, the First Minister or the Counsel General in the exercise of the function, or
+
+(b) any order so made in circumstances including those of the case,
+
+is to be subject to special parliamentary procedure.
+
+(8) In this paragraph “make” includes confirm or approve and related expressions (except “made exercisable”) are to be construed accordingly; but an instrument (or draft) does not fall within sub-paragraph (6)(a) just because it contains subordinate legislation made (or to be made) by the Welsh Ministers, the First Minister or the Counsel General with the agreement of a Minister of the Crown or government department.
+
+#### Laying of reports and statements
+
+**10** (1) This paragraph applies where—
+
+(a) a function to make or receive a report or statement (including a function conferred or imposed by or by virtue of an Act passed after this Act) is transferred to, or made exercisable by, the Welsh Ministers, the First Minister or the Counsel General by an Order in Council under section 58, and
+
+(b) immediately before the coming into force of the provisions of the Order in Council relating to the function, any enactment made provision (“provision for Parliamentary laying”) for a report or statement made or received in the exercise of the function to be laid before Parliament or either House of Parliament by the person making or receiving it.
+
+(2) The provision for Parliamentary laying applies to the exercise of the function by the Welsh Ministers, the First Minister or the Counsel General as if it required the report or statement to be laid before the [[^F2]Senedd] instead of before Parliament or either House of Parliament.
+
+(3) In this paragraph references to a report or statement include any other document (except one containing subordinate legislation).
+
+#### Powers to lend money
+
+**11** (1) This paragraph applies where a power to lend money (including a power conferred by or by virtue of an Act passed after this Act) is transferred to the Welsh Ministers by an Order in Council under section 58; but subject to any provision to the contrary in the Order in Council.
+
+(2) Sub-paragraph (3) applies to any sums which, for the purpose or as a result of the exercise of the power, would be required (apart from that sub-paragraph)—
+
+(a) to be issued by the Treasury out of the National Loans Fund, or
+
+(b) to be paid into that Fund.
+
+(3) Those sums are instead—
+
+(a) to be charged on the Welsh Consolidated Fund, or
+
+(b) to be paid into that Fund.
+
+(4) The following provisions apply where—
+
+(a) the power was exercised by a Minister of the Crown before the transfer, and
+
+(b) the sums required for the exercise of the power were issued by the Treasury out of the National Loans Fund.
+
+(5) Any amount payable by way of repayment of, or of interest on, the loan is to be paid to the Welsh Ministers and into the Welsh Consolidated Fund (instead of to the Minister of the Crown and into the National Loans Fund).
+
+(6) Amounts equal to those which are to be received by the Welsh Ministers in repayment of principal are to be treated as being loans made to the Welsh Ministers by the Secretary of State on the date of the transfer.
+
+(7) Such loans are to be repaid to the Secretary of State at such times and by such methods, and interest is to be paid to the Secretary of State at such rates and at such times, as the Treasury may from time to time determine.
+
+(8) Sums required to be paid to the Secretary of State under sub-paragraph (7) are to be charged on the Welsh Consolidated Fund.
+
+(9) Sums received by the Secretary of State under sub-paragraph (7) are to be paid into the National Loans Fund.
+
+### Part 3 — Supplementary
+
+#### References to Minister of the Crown etc.
+
+**12** References in section 58 and this Schedule to a Minister of the Crown include references to—
+
+(a) two or more Ministers of the Crown acting jointly, and
+
+(b) an officer of a Minister of the Crown or of a government department,
+
+and, in relation to functions of such an officer, the references in section 58(1) and this Schedule to the Welsh Ministers include references to a member of the staff of the Welsh [^F138]... Government.
+
+#### Saving
+
+**13** An Order in Council under section 58 which includes provision—
+
+(a) transferring a function exercisable by a Minister of the Crown, or
+
+(b) directing that a function is to be exercisable only with the agreement of, or after consultation with, any of the Welsh Ministers, the First Minister or the Counsel General,
+
+does not affect the validity of anything done by or in relation to the Minister of the Crown before the coming into force of the Order in Council.
+
+## [[^F395]SCHEDULE 3A — Functions of Ministers of Crown etc exercisable concurrently or jointly with Welsh Ministers
+
+*Section 59A*
+
+### Functions exercisable concurrently with Welsh Ministers
+
+**1** (1) Functions specified in the table below, so far as exercisable in relation to Wales (or, in the case of functions under the Sea Fish (Conservation) Act 1967 or the Sea Fisheries Act 1968, the Welsh zone), are exercisable concurrently with the Welsh Ministers.
+
+(2) A function specified in the table that is exercisable subject to a requirement for the approval or consent of the Treasury or the Minister for the Civil Service is exercisable by the Welsh Ministers subject to that requirement except as noted in the table.
+
+<table>
+<tbody>
+<tr><th><i>Act</i></th><th><i>Functions</i></th></tr>
+<tr><td>Ministry of Transport Act 1919</td><td>Functions of a Minister of the Crown under section 17 (power to make advances).</td></tr>
+<tr><td rowspan="2">Industrial Organisation and Development Act 1947</td><td>Functions of the Board of Trade under section 11 (grants to the Council of Industrial Design and to design centres).</td></tr>
+<tr><td><i>Note</i> : the functions are exercisable by the Welsh Ministers free from any requirement for Treasury approval.</td></tr>
+<tr><td>Prevention of Damage by Pests Act 1949</td><td>Functions of a Minister of the Crown of carrying out research under or in connection with the Act.</td></tr>
+<tr><td>Landlord and Tenant Act 1954</td><td>Certification functions of a Minister of the Crown under—<br>- (a) section 57(1) to (6), and<br>- (b) section 58.</td></tr>
+<tr><td rowspan="2">Science and Technology Act 1965</td><td>Functions of a Minister of the Crown under section 5 (funding of scientific research), except so far as relating to [[^F396] United Kingdom Research and Innovation and] Research Councils.</td></tr>
+<tr><td><i>Note</i> : the functions are exercisable by the Welsh Ministers free from any requirement for Treasury consent.</td></tr>
+<tr><td>[^F397] . . .</td><td>[^F397] . . .</td></tr>
+<tr><td>Slaughter of Poultry Act 1967</td><td>Functions of a Minister of the Crown under section 4 (power of entry).</td></tr>
+<tr><td rowspan="3">Sea Fish (Conservation) Act 1967</td><td>Functions of a Minister of the Crown or the Marine Management Organisation under—<br>- (a) [^F398]...<br>- (b) section 4A (licensing of vessels receiving trans-shipped fish).</td></tr>
+<tr><td>Functions of a Minister of the Crown under section 15(3) (order by Ministers as to powers of British sea-fishery officers for enforcement of the Act).</td></tr>
+<tr><td><i>Note</i> : the functions under [[^F399]section] 4A are exercisable by the Welsh Ministers free from any requirement for Treasury consent.</td></tr>
+<tr><td>Sea Fisheries Act 1968</td><td>Functions of a Minister of the Crown under section 5(1) and (2)(a) (regulation of conduct of fishing operations).</td></tr>
+<tr><td rowspan="2">Transport Act 1968</td><td>Functions of a Minister of the Crown under section 57 (grants for research or development in connection with transport services, etc ).</td></tr>
+<tr><td><i>Note</i> : the functions are exercisable by the Welsh Ministers free from any requirement for Treasury approval.</td></tr>
+<tr><td rowspan="2">Local Government Grants (Social Need) Act 1969</td><td>Functions of the Secretary of State under the Act.</td></tr>
+<tr><td><i>Note</i> : the functions are exercisable by the Welsh Ministers free from any requirement for Treasury consent.</td></tr>
+<tr><td rowspan="3">Employment and Training Act 1973</td><td>Functions of the Secretary of State under section 2, except for—<br>- (a) any function of making arrangements for the principal purpose of helping all those (as distinct from a particular section of the population of Wales) without work to find employment and to help employers to fill vacancies, and<br>- (b) any function ancillary to that function.</td></tr>
+<tr><td>Functions of a Minister of the Crown under—<br>- (a) section 4 (disclosure of information),<br>- (b) section 5 (powers to appoint advisers and make payments), and<br>- (c) section 11(3) (payments in respect of injuries etc).</td></tr>
+<tr><td><i>Note</i> : the functions under sections 2 and 5(3) are exercisable by the Welsh Ministers free from any requirement for Treasury approval, and the functions under section 5(2)(b) are exercisable by the Welsh Ministers free from any requirement for the approval of the Minister for the Civil Service.</td></tr>
+<tr><td>Local Government Act 1974</td><td>Function of a Minister of the Crown of giving notice, other than a notice of discharge, under section 32(3) (non-disclosure of documents).</td></tr>
+<tr><td rowspan="2">Import of Live Fish (England and Wales) Act 1980</td><td>Functions of a Minister of the Crown under—<br>- (a) section 1 (power to limit the import etc of fish and fish eggs), and<br>- (b) section 3(2) (authorisation of act done for scientific or research purpose).</td></tr>
+<tr><td><i>Note</i> : the functions under section 1 are exercisable by the Welsh Ministers free from any requirement for Treasury consent.</td></tr>
+<tr><td>Wildlife and Country-side Act 1981</td><td>Functions of the Secretary of State under—<br>- (a) section 2(6) (power to declare period of special protection for birds), and<br>- (b) section 16 (power to grant licences).</td></tr>
+<tr><td rowspan="2">Industrial Develop-ment Act 1982</td><td>Functions of a Minister of the Crown under the Act, except for functions under sections 1, 8(5) and (7), 10, 13A, 15 and 16.</td></tr>
+<tr><td><i>Note</i> : the functions under sections 5, 7, 8 (except subsections (5) and (7)), 12 and 13 are exercisable by the Welsh Ministers free from any requirement for Treasury consent or approval.</td></tr>
+<tr><td>Inheritance Tax Act 1984</td><td>Functions of the Secretary of State under section 230 (acceptance of property in satisfaction of tax) where there is both a Welsh interest and another interest in the property to which the section applies.</td></tr>
+<tr><td>Food Act 1984</td><td>Functions of a Minister of the Crown under section 69A (information).</td></tr>
+<tr><td>Food and Environ-mental Protection Act 1985</td><td>Functions of a Minister of the Crown under—<br>- (a) section 1(1) (power to make emergency orders),<br>- (b) section 3(1) and (2) (authorisation of investigating officers and enforcement officers),<br>- (c) section 13 (powers to test and to charge for testing), and<br>- (d) section 17 (codes of practice).</td></tr>
+<tr><td rowspan="2">Local Government Finance Act 1988</td><td>Functions of the Secretary of State under section 88B (special grants) so far as they relate to police and crime commissioners.</td></tr>
+<tr><td><i>Note</i> : the functions are exercisable by the Welsh Ministers free from any requirement for Treasury consent.</td></tr>
+<tr><td rowspan="2">Road Traffic Act 1988</td><td>Functions of the Secretary of State under—<br>- (a) section 39(1) (road safety information or advice), and<br>- (b) section 40 (payments for road safety measures).</td></tr>
+<tr><td><i>Note</i> : the functions are exercisable by the Welsh Ministers free from any requirement for Treasury approval.</td></tr>
+<tr><td>Official Secrets Act 1989</td><td>Functions of the Secretary of State to prescribe persons or classes of member or employee for the purposes of paragraphs (f) and (g) of section 12(1) (meaning of ““Crown servant””), where exercisable in respect of bodies or offices in relation to which both the Welsh Ministers and a Minister of the Crown exercise functions.</td></tr>
+<tr><td rowspan="2">Town and Country Planning Act 1990</td><td>Functions of a Minister of the Crown under—<br>- (a) section 304 (grants for research and education), and<br>- (b) section 321 (local inquiries).</td></tr>
+<tr><td><i>Note</i> : the functions under section 304 are exercisable by the Welsh Ministers free from any requirement for Treasury consent.</td></tr>
+<tr><td>[^F400] . . .</td><td>[^F400] . . .</td></tr>
+<tr><td rowspan="2">Planning (Hazardous Substances) Act 1990</td><td>Functions of a Minister of the Crown under—<br>- (a) section 38(1) (contribution to compensation payable by local authority), and<br>- (b) paragraph 6(6) of the Schedule (powers of direction regarding disclosure of evidence in local inquiries).</td></tr>
+<tr><td><i>Note</i> : the functions under section 38(1) are exercisable by the Welsh Ministers free from any requirement for Treasury consent.</td></tr>
+<tr><td rowspan="2">Food Safety Act 1990</td><td>Functions of the Secretary of State under section 47 of paying remuneration and allowances.</td></tr>
+<tr><td><i>Note</i> : the functions are exercisable by the Welsh Ministers free from any requirement for Treasury approval.</td></tr>
+<tr><td rowspan="2">Social Security Act 1990</td><td>Functions of the Secretary of State under section 15 (grants for the improvement of energy efficiency in certain dwellings etc ).</td></tr>
+<tr><td><i>Note</i> : the functions are exercisable by the Welsh Ministers free from any requirement for Treasury consent.</td></tr>
+<tr><td>Transport and Works Act 1992</td><td>Functions of the Secretary of State under section 9 (schemes of national significance).</td></tr>
+<tr><td>Clean Air Act 1993</td><td>Functions of a Minister of the Crown under section 46(1) (functions in relation to Crown premises).</td></tr>
+<tr><td>Welsh Language Act 1993</td><td>Functions under—<br>- (a) section 25 (powers to give Welsh names to statutory bodies etc), and<br>- (b) section 26 (powers to prescribe Welsh forms).</td></tr>
+<tr><td rowspan="3">National Lottery etc. Act 1993</td><td>Functions of the Secretary of State under section 26(1) (directions to distributing bodies) so far as it relates to the National Lottery Charities Board and the New Opportunities Fund but excluding any power to give a direction to such bodies as to—<br>- (a) the allocation of resources to Wales (or any part of Wales) or between Wales (or any part of Wales) and any other part of the United Kingdom, or<br>- (b) conditions that apply to the whole of the United Kingdom.</td></tr>
+<tr><td>Functions of the Secretary of State under section 26(2) (directions to National Heritage Memorial Fund) but excluding any power to give a direction to the Fund as to—<br>- (a) the allocation of resources to Wales (or any part of Wales) or between Wales (or any part of Wales) and any other part of the United Kingdom, or<br>- (b) conditions that apply to the whole of the United Kingdom.</td></tr>
+<tr><td>Functions of the Secretary of State under section 26(5) (consultation) so far as it relates to concurrently exercisable functions under section 26(1) or 26(2).</td></tr>
+<tr><td>Housing Act 1996</td><td>Functions of the Secretary of State under section 185 (persons from abroad: eligibility for housing assistance).</td></tr>
+<tr><td>Human Rights Act 1998</td><td>Functions of a Minister of the Crown under section 5(2) (joinder of Minister etc as a party to proceedings) in respect of any proceedings in which a court is considering whether to make a declaration of incompatibility within the meaning of section 4 of the Human Rights Act 1998 in respect of—<br>- (a) subordinate legislation made by the [[^F2]Senedd], or<br>- (b) subordinate legislation made, in relation to Wales, by a Minister of the Crown in the exercise of a function that is exercisable by the [[^F2]Senedd].</td></tr>
+<tr><td>Pollution Prevention and Control Act 1999</td><td>Functions under section 2 (regulation of polluting activities) exercisable by the Secretary of State—<br>- (a) in relation to a cross-border body, [^F401]...<br>- (b) [^F401]...</td></tr>
+<tr><td>[[^F402]Education Act 2002]</td><td>[[^F403]Functions of the Secretary of State under section 186 (student loans), but excluding the power to make regulations in relation to loans of the description in section 186(2)(a)]</td></tr>
+</tbody>
+</table>
+
+**2** (1) The functions listed in sub-paragraph (2), so far as exercisable in relation to Welsh fishing boats beyond the seaward limit of the Welsh zone, are exercisable concurrently with the Welsh Ministers.
+
+(2) The functions are—
+
+(a) functions of a Minister of the Crown under the following provisions of the Sea Fish (Conservation) Act 1967—
+
+(i) section 1(3), (4) and (6) (size limits for fish carried by fishing boat);
+
+(ii) section 3(1), (3) and (4) (regulation of nets and other fishing gear);
+
+(iii) section 5 (power to restrict fishing for sea fish);
+
+(iv) section 15(3) (order by Ministers as to powers of British sea-fishery officers for enforcement of the Act);
+
+(b) functions of a Minister of the Crown or the Marine Management Organisation under the following provisions of the Sea Fish (Conservation) Act 1967—
+
+[^F404]i . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(ii) section 4A (licensing of vessels receiving trans-shipped fish);
+
+(c) functions of a Minister of the Crown under the following provisions of the Sea Fisheries Act 1968—
+
+(i) section 5(1) and (2)(a) (regulation of conduct of fishing operations);
+
+(ii) section 7(1)(g) and (2) (appointment of British sea-fishery officers);
+
+[^F405]d . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(e) functions of a Minister of the Crown under section 30(2) of the Fisheries Act 1981 (enforcement of Community rules).
+
+(3) Any provision of section [^F406]... 4A of the Sea Fish (Conservation) Act 1967 requiring the consent of the Treasury to the exercise of a function does not apply in relation to the exercise of the function by the Welsh Ministers by virtue of this paragraph.
+
+(4) In this paragraph “"Welsh fishing boat”” means a fishing vessel which is registered in the register maintained under section 8 of the Merchant Shipping Act 1995 and whose entry in the register specifies a port in Wales as the port to which the vessel is to be treated as belonging.
+
+**3** (1) The powers to make regulations under sections 10ZC, 10ZD and 53 of the Representation of the People Act 1983 (registration of electors), so far as they are exercisable by a Minister of the Crown to make provision about a UK digital service in relation to elections in Wales, are exercisable by the Welsh Ministers concurrently with that Minister.
+
+(2) In sub-paragraph (1)—
+
+- “"elections in Wales”” means—
+
+  - (a) an election of [[^F9]Members of the Senedd] , or
+  - (b) a local government election (within the meaning given by section 203 of the Representation of the People Act 1983) in Wales;
+
+- “"UK digital service”” means a digital service provided by a Minister of the Crown for the registration of electors.
+
+### Functions exercisable jointly with Welsh Ministers
+
+**4** Functions specified in the table below are exercisable jointly with the Welsh Ministers.
+
+<table>
+<tbody>
+<tr><th><i>Act or instrument</i></th><th><i>Functions</i></th></tr>
+<tr><td>Crime and Disorder Act 1998</td><td>Functions of the Secretary of State under section 6 in relation to strategies for combatting crime and disorder or re-offending in areas in Wales.</td></tr>
+<tr><td rowspan="3">Marine and Coastal Access Act 2009</td><td>Functions of the Secretary of State under sections 45, 46 and 47 (preparation, review and amendment of marine policy statement) in relation to a marine policy statement prepared by the Secretary of State and the Welsh Ministers acting jointly (or by the Secretary of State, the Welsh Ministers and one or more other authorities acting jointly).</td></tr>
+<tr><td>Functions of the Secretary of State under Schedule 5 (preparation or amendment of marine policy statement) that are exercisable jointly with the Welsh Ministers by virtue of paragraph 2(2)(b) of that Schedule.</td></tr>
+<tr><td>Functions of the Secretary of State under subsection (6) of section 70 (inquiries) that are exercisable jointly with the Welsh Ministers by virtue of subsection (7) of that section.</td></tr>
+<tr><td rowspan="2">Marine Strategy Regulations 2010 ( S.I. 2010/1627)</td><td>Functions of the Secretary of State under regulation 19 (directions to, and assistance from, public authorities) that are exercisable jointly with the Welsh Ministers by virtue of paragraph (5) of that regulation.</td></tr>
+<tr><td>Functions of the Secretary of State under regulation 20 (guidance) that are exercisable jointly with the Welsh Ministers by virtue of paragraph (5) of that regulation.</td></tr>
+</tbody>
+</table>
+
+### Functions exercisable concurrently or jointly with Welsh Ministers
+
+**5** Functions of the Secretary of State under section 272 of the Transport Act 2000 (financial assistance for inland waterway and sea freight) so far as they relate to—
+
+(a) the carriage of goods by an inland waterway that is partly in Wales, or
+
+(b) the carriage of goods by sea where the carriage concerned is wholly or partly by sea adjacent to Wales (within the meaning of that section),
+
+are exercisable concurrently or jointly with the Welsh Ministers.
+
+### Interpretation
+
+**6** For the purposes of the entry relating to the Inheritance Tax Act 1984 in the table in paragraph 1—
+
+(a) a Welsh interest exists where—
+
+(i) the property in question is located in Wales, or
+
+(ii) the person liable to pay tax has expressed a wish or imposed a condition on his offer of the property in satisfaction of tax that it be displayed in Wales or disposed of or transferred to a body or institution in Wales;
+
+(b) another interest exists where—
+
+(i) the property in question is located outside Wales, or
+
+(ii) the person liable to pay tax has expressed a wish or imposed a condition on his offer of the property in satisfaction of tax that it be displayed outside Wales or disposed of or transferred to a body or institution outside Wales.]
+
+## SCHEDULE 4 — Transfers of ministerial property, rights and liabilities
+
+*Section 88*
+
+### General transfer of property, rights and liabilities
+
+**1** (1) The property, rights and liabilities to which, at the coming into force of an Order in Council under section 58, a Minister of the Crown is entitled or subject in connection with any function exercisable by the Minister of the Crown and transferred by the Order in Council are transferred to and vest in the transferee of the function.
+
+(2) In this Schedule “the transferee”, in relation to a function transferred by an Order in Council under section 58, means whichever of the Welsh Ministers, the First Minister or the Counsel General may exercise the function by virtue of the Order in Council.
+
+(3) Anything (including legal proceedings) which relates to—
+
+(a) any function exercisable by a Minister of the Crown which is transferred by an Order in Council under section 58, or
+
+(b) any property, rights or liabilities transferred by sub-paragraph (1) as the result of the transfer of any such function by such an Order in Council,
+
+and which is in the process of being done by or in relation to the Minister of the Crown immediately before the coming into force of the Order in Council may be continued by or in relation to the transferee of the function.
+
+(4) Anything which was done by a Minister of the Crown for the purpose of or in connection with—
+
+(a) any function exercisable by the Minister of the Crown which is transferred by an Order in Council under section 58, or
+
+(b) any property, rights or liabilities transferred by sub-paragraph (1) as the result of the transfer of any such function by such an Order in Council,
+
+and which is in effect immediately before the coming into force of the Order in Council has effect as if done by the transferee of the function.
+
+(5) In any instruments, contracts or legal proceedings which relate to—
+
+(a) any function exercisable by a Minister of the Crown which is transferred by an Order in Council under section 58, or
+
+(b) any property, rights or liabilities transferred by sub-paragraph (1) as the result of the transfer of any such function by such an Order in Council,
+
+and which are made or commenced before the coming into force of the Order in Council, the transferee of the function is substituted for the Minister of the Crown.
+
+**2** (1) An Order in Council under section 58 may provide that all or any of the provisions of paragraph 1—
+
+(a) do not apply in relation to the transfer of functions by the Order in Council or to the property, rights and liabilities connected with the functions,
+
+(b) are to apply only in relation to the transfer of particular functions by the Order in Council or to particular property, rights or liabilities connected with the functions transferred by the Order in Council,
+
+(c) do not apply in relation to the transfer of particular functions by the Order in Council or to particular property, rights or liabilities connected with the functions transferred by the Order in Council, or
+
+(d) apply with modifications in relation to the transfer of a particular function by the Order in Council or to particular property, rights or liabilities connected with the function transferred by the Order in Council in a case where, by virtue of provision made under section 58(2), there is more than one transferee of that function.
+
+(2) Paragraph 1 does not apply to rights or liabilities relating to the employment of persons in Crown employment (as defined in section 191(3) of the Employment Rights Act 1996 (c. 18)).
+
+### Power to make specific transfers etc.
+
+**3** (1) The Secretary of State may by order provide for the transfer to the Welsh Ministers, the First Minister or the Counsel General of—
+
+(a) any specified property, rights or liabilities, or
+
+(b) property, rights or liabilities of any specified description,
+
+to which a Minister of the Crown is entitled or subject.
+
+(2) An order under sub-paragraph (1) may provide for the transfer of any property, rights or liabilities to have effect subject to exceptions or reservations specified in or determined under the order.
+
+(3) An order under sub-paragraph (1) may provide—
+
+(a) for the creation in favour of a Minister of the Crown of interests in, or rights over, property transferred to the Welsh Ministers, the First Minister or the Counsel General,
+
+(b) for the creation in favour of the Welsh Ministers, the First Minister or the Counsel General of interests in, or rights over, property retained by a Minister of the Crown, or
+
+(c) for the creation of new rights and liabilities between the Welsh Ministers, the First Minister or the Counsel General on the one hand and a Minister of the Crown on the other.
+
+(4) The Secretary of State may by order make provision for the continuation by or in relation to the Welsh Ministers, the First Minister or the Counsel General of—
+
+(a) any specified thing, or
+
+(b) anything of a specified description,
+
+commenced by or in relation to a Minister of the Crown.
+
+(5) The Secretary of State may by order make provision for—
+
+(a) any specified thing, or
+
+(b) anything of a specified description,
+
+done by a Minister of the Crown to have effect as if done by the Welsh Ministers, the First Minister or the Counsel General.
+
+(6) The Secretary of State may by order make provision for the substitution of the Welsh Ministers, the First Minister or the Counsel General for any Minister of the Crown in—
+
+(a) any specified instrument, contract or legal proceedings, or
+
+(b) any instrument, contract or legal proceedings of a specified description.
+
+(7) An order under this paragraph may be made in consequence of the making of an Order in Council under section 58 or in any other circumstances in which the Secretary of State considers it appropriate to make such an order.
+
+(8) A statutory instrument containing an order under this paragraph is subject to annulment in pursuance of a resolution of either House of Parliament.
+
+### Supplementary
+
+**4** (1) A certificate issued by the Secretary of State that any property has been transferred by—
+
+(a) paragraph 1, or
+
+(b) an order under paragraph 3,
+
+is conclusive evidence of the transfer.
+
+(2) Paragraph 1, and orders under paragraph 3, have effect in relation to property, rights or liabilities to which they apply in spite of any provision (of whatever nature) which would otherwise prevent or restrict the transfer of the property, rights or liabilities.
+
+## SCHEDULE 5 — Assembly Measures
+
+*Section 94*
+
+### Part 1 — Matters
+
+- *Field 1: agriculture, fisheries, forestry and rural development*
+
+  - *[[^F407]Matter 1.1*
+  - The red meat industry, in relation to–
+
+  - (a) increasing efficiency or productivity in the industry;
+  - (b) improving marketing in the industry;
+  - (c) improving or developing services that the industry provides or could provide to the community;
+  - (d) improving the ways in which the industry contributes to sustainable development.
+
+  - *Interpretation of this field*
+  
+  - In this field “the red meat industry” means all of the activities comprised in–
+  
+    - (a) breeding, keeping, processing, marketing and distributing cattle, sheep and pigs (alive or dead), and
+    - (b) producing, processing, marketing, manufacturing and distributing products derived to any substantial extent from those animals (apart from milk and milk products, fleece wool and hides).
+  
+  - For the purposes of this definition–“cattle” means bovine animals, including bison and buffalo;“pigs” means porcine animals, including wild boar and other feral pigs. ]
+
+- *Field 2: ancient monuments and historic buildings*
+
+  - *[[^F408]Matter 2.1*
+  - The functions of local authorities in the support, improvement and promotion of the appreciation by the public of archaeological remains, ancient monuments, buildings and places of historical or architectural interest, and historic wrecks.
+  - In this matter “local authorities” means the councils of counties and county boroughs in Wales.
+
+- *Field 3: culture*
+
+  - *[[^F409]Matter 3.1*
+  - The functions of local authorities in the support, improvement and promotion of arts and crafts, museums and galleries, libraries, archives and historical records, and cultural activities and projects.
+  - This matter does not include licensing of sale and supply of alcohol, provision of entertainment and late night refreshment.
+  - In this matter “local authorities” means the councils of counties and county boroughs in Wales.
+
+- *Field 4: economic development*
+
+- *Field 5: education and training*
+
+  - *[[^F410]Matter 5.1*
+  - Provision about the categories of school that may be maintained by [[^F411]local authorities].
+  - *Matter 5.2*
+  - Provision about the establishment and discontinuance of schools maintained by [[^F411]local authorities], their change from one category to another and their alteration in other respects.
+  - *[[^F412]Matter 5.2A*
+  - Conduct and governance of schools maintained by local authorities, including the allocation of functions, property, rights and liabilities relating to such schools.
+  - *Matter 5.2B*
+  - Securing collaboration between persons or bodies with functions relating to schools maintained by local authorities.
+  - *Matter 5.2C*
+
+  The following activities by persons or bodies with functions relating to schools maintained by local authorities—
+
+  - (a) establishment of bodies to do all or any of the following—
+  
+    - (i) carry out activities relating to education or training,
+    - (ii) exercise education functions on behalf of local authorities;
+  
+  - (b) involvement with bodies mentioned in paragraph (a).]
+
+  - *Matter 5.3*
+  
+  - Provision about the admission of pupils to schools maintained by [[^F411]local authorities].
+  
+  - *[[^F413]Matter 5.4A*
+  
+  - The regulation of—
+  
+    - (a) schools that are not maintained by [[^F411]local authorities];
+    - (b) relevant independent educational institutions.]
+  
+  - *Matter 5.5*
+  
+  - Provision about school attendance, the behaviour of pupils at school, school discipline and the exclusion of pupils from school (including the duties of parents in connection with those matters).
+  
+  - *Matter 5.6*
+  
+  - Provision about the making of arrangements for the provision of education for persons of compulsory school age who have been excluded from schools or who for any other reason would not otherwise receive suitable education.
+  
+  - *Matter 5.7*
+  
+  - Provision about entitlement to primary, secondary and further education and to training.
+  
+  - *Matter 5.8*
+  
+  - Provision about the provision of services that are intended to encourage, enable or assist people—
+  
+    - (a) to participate effectively in education or training,
+    - (b) to take advantage of opportunities for employment, or
+    - (c) to participate effectively in the life of their communities.
+  
+  - *Matter 5.9*
+  
+  - Provision about food and drink provided on school premises or provided for children at a place where they receive education or childcare.
+  
+  - *Matter 5.10*
+  
+  - [[^F414]Arrangements for persons to travel to and from the places where they receive education or training.
+  
+  - This matter applies to—
+  
+    - (a) persons receiving nursery, primary, secondary or further education or training;
+    - (b) persons described in matter 5.17 receiving higher education.]
+  
+  - [^F415] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  
+  - *[[^F416]Matter 5.11*
+  
+  - Provision for and in connection with securing the provision of facilities for post-16 education or training.
+  
+  - *Matter 5.12*
+  
+  - Provision for and in connection with the establishment and dissolution of—
+  
+    - (a) institutions concerned with the provision of further education, and
+    - (b) bodies that conduct such institutions,
+  
+    including the circumstances in which an educational institution becomes or ceases to be an institution concerned with the provision of further education.
+  
+  - Provision about—
+  
+    - (a) the conduct and functions of such institutions and bodies that conduct such institutions;
+    - (b) the property, rights and liabilities of such institutions and bodies that conduct such institutions;
+    - (c) property held by any person for the purposes of such an institution;
+    - (d) the governance and staff of such institutions.
+  
+  - *Matter 5.13*
+  
+  - Provision for and in connection with securing collaboration—
+
+  - (a) between bodies that conduct institutions concerned with the provision of further education, or
+  - (b) between one or more such bodies and other persons or bodies that have functions relating to education or training in Wales,
+
+  including, in particular, provision for and in connection with the establishment of bodies for the purpose of discharging functions on behalf of one or more persons or bodies that are party to arrangements for collaboration.
+
+  - *Matter 5.14*
+  
+  - The provision of financial resources for and in connection with—
+  
+    - (a) education or training provided by institutions concerned with the provision of further education;
+    - (b) post-16 education or training provided otherwise than by such institutions;
+    - (c) the carrying out of research relating to education or training falling within paragraph (a) or (b).
+  
+  - *Matter 5.15*
+  
+  - The inspection of—
+  
+    - (za) [[^F417]schools;
+    - (zb) relevant independent educational institutions;]
+    - (a) education or training provided by institutions concerned with the provision of further education;
+    - (b) [[^F418]pre-16 education or training, or post-16 education or training, provided otherwise than by institutions within paragraphs (za) to (a);]
+    - (c) the training of teachers and specialist teaching assistants for schools;
+    - (d) services of the kinds mentioned in matter 5.8.
+  
+  - *Matter 5.16*
+  
+  - The provision of advice and information in connection with, and the carrying out of studies in relation to
+  
+    - (a) [[^F419]pre-16 education or training;
+    - (b) post-16 education or training;
+    - (c) the training of teachers and specialist teaching assistants for schools;
+    - (d) services of the kinds mentioned in matter 5.8.]]
+
+  - *[[^F420]Matter 5.17*
+  
+  - [^F421] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ]
+  
+  - *[[^F422]Matter 5.18*
+  
+  - The provision of any of the following for children or young persons—
+  
+    - (a) facilities for social or physical training;
+    - (b) educational activities.
+  
+    - In this matter “children” and “young persons” have the same meaning as in field 15. ]
+  
+  - *Interpretation of this field*
+  
+  - Expressions used in this field and in the Education Act 1996 have the same meaning in this field as in that Act.]
+  
+  - [[^F423]In this field—
+  
+  - [[^F424]“nursery education” means education suitable for children who have not attained compulsory school age; ]
+  
+  - “post-16 education” means—
+  
+    - (a) education (other than higher education) suitable to the requirements of persons who are above compulsory school age, and
+    - (b) organised leisure-time occupation connected with such education;
+  
+  - “post-16 training” means—
+  
+    - (a) training suitable to the requirements of persons who are above compulsory school age, and
+    - (b) organised leisure-time occupation connected with such training.
+  
+  - [[^F425]“pre-16 education or training” means education or training suitable to the requirements of persons who are of or below compulsory school age;
+  
+  - “relevant independent educational institution” means an institution other than a school which—
+  
+    - (a) provides part-time education for one or more persons of compulsory school age (“part-time students”) whether or not it also provides full-time education for any person, and
+    - (b) would be an independent school but for the fact that the education provided for the part-time student or students is part-time rather than full-time.
+  
+  - For the purposes of the above definition of “relevant independent educational institution”, an institution provides “part-time” education for a person if—
+
+  - (a) it provides education for the person, and
+  - (b) the education does not amount to full-time education.]
+
+  References in this field to an institution concerned with the provision of further education are references to an educational institution, other than a school or an institution within the higher education sector (within the meaning of the Further and Higher Education Act 1992), that is conducted (whether or not exclusively) for the purpose of providing further education.]
+
+- *Field 6: environment*
+
+  - *[[^F426]Matter 6.1*
+  
+  - Preventing, reducing, collecting, managing, treating or disposing of waste.
+  
+  - This matter does not include—
+  
+    - (a) regulation of any activity in the sea;
+    - (b) regulation of the provision of postal services by a person who holds, or is required to hold, a licence from the Postal Services Commission authorising the person to convey letters from one place to another (whether or not the licence relates to the services).
+  
+  - See below for further provision about what this matter does not include.
+  
+  - *Matter 6.2*
+  
+  - Disposal of waste in the sea where the waste has been collected, managed or treated on land.
+  
+  - This matter does not include regulation of the following activities—
+  
+    - (a) depositing any substance or object in the sea or on or under the seabed from any vehicle, vessel, aircraft, marine structure or floating container;
+    - (b) depositing any explosive substance or article in the sea or on or under the seabed;
+    - (c) incinerating any substance or object on any vehicle, vessel, marine structure or floating container.
+  
+  - See below for further provision about what this matter does not include.
+  
+  - *Matter 6.3*
+  
+  - Protecting or improving the environment in relation to pollution.
+  
+  - This matter does not include—
+  
+    - (a) regulating the composition and content of fuel used in—
+    
+      - (i) a means of transport,
+      - (ii) non-road mobile machinery, or
+      - (iii) an agricultural or forestry tractor;
+    
+    - (b) obligations upon persons who supply transport fuel at or for delivery to places in the United Kingdom to produce evidence showing the supply of renewable transport fuel;
+    
+    - (c) making provision regarding the proportion of renewable energy consumed in transport, including the imposition of requirements relating to sustainability that determine whether any particular renewable energy is to be counted towards any renewable energy obligation or target;
+    
+    - (d) provision of financial support in connection with—
+    
+      - (i) the production of renewable energy for consumption in transport, or
+      - (ii) the use of that energy in transport,
+    
+      including the imposition of requirements relating to sustainability that determine whether any particular renewable energy qualifies for financial support.
+    
+    - (e) regulation of oil and gas exploration and exploitation in those parts of the territorial sea that are not relevant territorial waters.
+  
+  - See below for further provision about what this matter does not include.
+  
+  - *Matter 6.4*
+  
+  - Protecting or improving the environment in relation to nuisances.
+  
+  - This matter does not include—
+  
+    - (a) imposition of criminal or civil liability in respect of energy nuisances that consist of acts, omissions and states of affairs for which there is statutory authority, except criminal or civil liability which the Welsh Ministers have power to impose;
+    - (b) removal of relevant defences to, or relevant exclusions from, rules of law which impose civil or criminal liability in respect of energy nuisances, except those defences and exceptions which the Welsh Ministers have power to remove;
+    - (c) regulation of the emission of smoke, artificial light or noise from military premises;
+    - (d) regulation of gas activities, oil activities, and infrastructure that is necessary for carrying out any such activities;
+    - (e) regulation of oil and gas exploration and exploitation in the sea;
+    - (f) regulation of electronic communications and electronic communications networks.
+  
+  - See below for further provision about what this matter does not include.
+  
+  - *Not included in matters 6.1, 6.2, 6.3 and 6.4*
+  
+  - Matters 6.1, 6.2, 6.3 and 6.4 do not include any of the following—
+  
+    - (a) regulation concerning the control of major accident hazards involving dangerous substances (this exception is to be interpreted in accordance with Council Directive 96/82/ EC [^F427] and it relates only to activity within the scope of that Directive);
+    - (b) regulation of the decommissioning of offshore energy installations and related infrastructure.
+  
+    *Not included in matters 6.1 and 6.2*
+  
+  - Matters 6.1 and 6.2 do not include any of the following—
+  
+    - (a) regulation of decommissioned explosives that are outside the scope of the Waste Directive by virtue of [^F428]Article 2(1)(b)(v)[[^F428]Article 2(1)(e)] of the Waste Directive and are or have been—
+    
+      - (i) held on behalf of the Crown for naval, military or air force purposes or for the purposes of the department of the Secretary of State having responsibility for defence, or
+      - (ii) held by or for the purposes of visiting forces;
+    
+    - (b) regulation of radioactive material that is at military premises;
+    
+    - (c) regulation of the capture, conveyance or disposal of carbon dioxide as part of relevant carbon capture and storage.
+  
+    *Not included in matters 6.3 and 6.4*
+  
+  - Matters 6.3 and 6.4 do not include any of the following—
+  
+    - (a) regulation of the contained use of genetically modified organisms;
+    
+    - (b) regulation of the following activities in the sea—
+    
+      - (i) depositing any substance or object in the sea or on or under the seabed from any vehicle, vessel, aircraft, marine structure or floating container, or any structure on land constructed or adapted wholly or mainly for the purpose of depositing solids in the sea;
+      - (ii) scuttling any vessel or floating container;
+      - (iii) constructing, altering or improving works in or over the sea or on or under the seabed;
+      - (iv) using any vehicle, vessel, aircraft, marine structure or floating container to remove any substance or object from the seabed;
+      - (v) dredging;
+      - (vi) depositing or using any explosive substance or article in the sea or on or under the seabed;
+      - (vii) incinerating any substance or object on any vehicle, vessel, marine structure or floating container;
+    
+    - (c) marine licensing under Part 4 of the Marine and Coastal Access Act 2009[^F429].
+  
+    *Meaning of “pollution*”
+  
+  - In this field “pollution” means pollution of the air, water or land which may give rise to any environmental harm, including (but not limited to) pollution caused by light, noise, heat or vibrations or any other kind of release of energy.
+  
+  - For the purposes of this definition “air” includes (but is not limited to) air within buildings and air within other natural or man-made structures above or below ground. *Meaning of “nuisance”*
+  
+  - In this field “nuisance” means an act or omission affecting any place, or a state of affairs in any place, which may impair, or interfere with, the amenity of the environment or any legitimate use of the environment, apart from an act, omission or state of affairs that constitutes pollution. *Meaning of “relevant defence” and “relevant exclusion”*
+  
+  - In matter 6.4, in relation to a rule of law which imposes civil or criminal liability in respect of an energy nuisance (“the unlawful nuisance”)—“relevant defence” means statutory removal (however expressed, and whether conditional or not) of the civil or criminal liability in respect of an act, omission or state of affairs that is within the scope of the unlawful nuisance;“relevant exclusion” means statutory exclusion (however expressed, and whether conditional or not) of an act, omission or state of affairs from the scope of the unlawful nuisance.
+  
+  - In those definitions, a reference to the scope of the unlawful nuisance is a reference to the class of acts, omissions and states of affairs that constitutes the unlawful nuisance. *Other interpretation of this field*
+  
+  - In this field— “electricity activity” means any of the following—
+  
+    - (a) generating electricity at a generating station whose construction, extension or operation requires—
+    
+      - (i) the consent of the Secretary of State, or
+      - (ii) the authority of an order granting development consent under the Planning Act 2008 [^F430] ;
+    
+    - (b) transmitting, distributing or supplying electricity;
+  
+    and for this purpose, the reference to consent of the Secretary of State is a reference to consent under powers to regulate generation of electricity; “electronic communication” means a communication transmitted—
+  
+    - (a) by means of an electronic communications network, or
+    - (b) by other means but while in an electronic form;
+  
+    “electronic communications network” means—
+  
+    - (a) a transmission system for the conveyance, by the use of electrical, magnetic or electro-magnetic energy, of signals of any description, and
+    
+    - (b) such of the following as are used, by the person providing the system and in association with it, for the conveyance of the signals—
+    
+      - (i) apparatus comprised in the system,
+      - (ii) apparatus used for the switching or routing of the signals, and
+      - (iii) software and stored data;
+  
+    “energy nuisance” means a nuisance that relates to electricity activities, gas activities, oil activities, or infrastructure that is necessary for carrying out any such activities;“environmental harm” means any of the following—
+  
+    - (a) harm to the health of humans and other living organisms;
+    
+    - (b) harm to the quality of the environment, including—
+    
+      - (i) harm to the quality of the environment taken as a whole,
+      - (ii) harm to the quality of the air, water or land, and
+      - (iii) other impairment of, or interference with, the ecological systems of which any living organisms form part;
+    
+    - (c) offence to the senses of human beings;
+    
+    - (d) damage to property;
+    
+    - (e) impairment of, or interference with, the amenity of the environment or any legitimate use of the environment;
+  
+    “gas activity” means storing, conveying or supplying gas, except any such activity that is carried out by an individual for the domestic purposes of the individual; “marine structure” means a platform or other artificial structure at sea, other than a pipeline; “military premises” means premises which are—
+  
+    - (a) occupied on behalf of the Crown for naval, military or air force purposes or for the purposes of the department of the Secretary of State having responsibility for defence, or
+    - (b) occupied by or for the purposes of visiting forces;
+  
+    “offshore energy installation” means any of the following installations that are maintained in the sea or on the foreshore or other land intermittently covered with water, and that are not connected with dry land by a permanent structure providing access at all times and for all purposes—
+  
+    - (a) installations used for oil activities, gas activities or for the exploration or exploitation of gas or oil;
+    - (b) carbon dioxide storage installations;
+    - (c) renewable energy installations;
+  
+    “oil activity” means storing, conveying or supplying oil, except any such activity that is carried out by an individual for the domestic purposes of the individual; “relevant carbon capture and storage” means the capture and underground disposal of carbon dioxide by a method in which the carbon dioxide is captured at the place of its production and conveyed for disposal by pipeline directly from the place of production to a place of underground disposal; “relevant territorial waters” means the waters which extend seaward for three miles from the baselines from which the breadth of the territorial sea adjacent to Wales is measured; but any order made under section 104(4)(a) of the Water Resources Act 1991 [^F431] for the purposes of Part 3 of that Act in relation to an area of the territorial sea adjacent to Wales also applies for the purposes of determining what are relevant territorial waters for the purposes of this field;“sea” means (except where the context otherwise requires) the sea adjacent to Wales out as far as the seaward boundary of the territorial sea; “statutory” means arising by virtue of an Act; “visiting force” means any such body, contingent or detachment of the forces of any country as is a visiting force for the purposes of any of the provisions of the Visiting Forces Act 1952; [^F432]“Waste Directive”[^F432] means Directive 2006/12/EC of the European Parliament and of the Council of 5 April 2006 on waste, as it was originally adopted. [[^F432] “Waste Directive” means Directive 2008/98/ EC of the European Parliament and of the Council on waste. ] .
+  
+  - An order or an Order in Council made under or by virtue of section 158(3) or (4) for the purposes of that section also applies for the purpose of determining any boundary between the parts of the sea which are to be treated as adjacent to Wales for the purposes of this field and those which are not.]
+
+- *Field 7: fire and rescue services and promotion of fire safety*
+
+- *Field 8: food*
+
+- *Field 9: health and health services*
+
+  - *[[^F433]Matter 9.1*
+  
+  - Provision for and in connection with the provision of redress without recourse to civil proceedings in circumstances in which, under the law of England and Wales, qualifying liability in tort arises in connection with the provision of services (in Wales or elsewhere) as part of the health service in Wales.
+  
+  - *[[^F434]Matter 9.2*
+  
+  - Assessment of mental health and treatment of mental disorder.
+  
+  - This matter does not include any of the following—
+  
+    - (a) subjecting patients to—
+    
+      - (i) compulsory attendance at any place for the purposes of assessment or treatment,
+      - (ii) compulsory supervision, or
+      - (iii) guardianship;
+    
+    - (b) consent to assessment or treatment;
+    
+    - (c) restraint;
+    
+    - (d) detention.
+  
+  - For the purposes of this matter, “treatment of mental disorder” means treatment to alleviate, or prevent a worsening of, a mental disorder or one or more of its symptoms or manifestations; and it includes (but is not limited to) nursing, psychological intervention, habilitation, rehabilitation and care. ]
+  
+  - *Interpretation of this field*
+  
+  - In this field—
+  
+    - “the health service in Wales” means the health service continued under section 1(1) of the National Health Service (Wales) Act 2006;
+    - “illness” has the same meaning as in that Act;
+    - [[^F435]“mental disorder” means any disorder or disability of the mind, apart from dependence on alcohol or drugs;]
+    - “patient” has the same meaning as in that Act;
+    - “personal injury” includes any disease and any impairment of a person's physical or mental health;
+    - “qualifying liability in tort” means liability in tort owed in respect of or consequent upon personal injury or loss arising out of or in connection with breach of a duty of care owed to any person in connection with the diagnosis of illness or the care or treatment of any patient. ]
+
+- *Field 10: highways and transport*
+
+  - *[[^F436]Matter 10.1*
+  
+  - Provision for and in connection with—
+  
+    - (a) the making, operation and enforcement of schemes for imposing charges in respect of the use or keeping of motor vehicles on Welsh trunk roads;
+    - (b) the application of the proceeds of charges imposed under such schemes towards purposes relating to transport.
+  
+  - [^F437] . . .
+  
+  - *[[^F438]Matter 10.2*
+  
+  - Concessionary travel on the following services—
+
+  - (a) bus services;
+  - (b) Welsh services provided under a franchise agreement to which the Welsh Ministers are a party.
+
+  - Any expression which is used in paragraph (b) and the Railways Act 2005 has the meaning given in that Act.]
+  
+  - *Interpretation of this field*
+  
+  - In this field—
+  
+    - “motor vehicle” has the meaning given in section 185(1) of the Road Traffic Act 1988, except that section 189 of that Act (exception for certain pedestrian controlled vehicles and electrically assisted pedal cycles) applies as it applies for the purposes of the Road Traffic Acts;
+    - “road” has the same meaning as in the Road Traffic Regulation Act 1984;
+    - “Welsh trunk road” means a road for which the Welsh Ministers are the traffic authority (within the meaning of section 121A of the Road Traffic Regulation Act 1984). ]
+
+- *Field 11: housing*
+
+  - *[[^F439]Matter 11.1*
+  - The provision of automatic fire suppression systems in new residential premises. In this matter “new residential premises” means—
+
+  - (a) premises newly constructed for residential use;
+  - (b) premises newly converted to residential use;
+  - (c) premises converted to use as one or more new residences by subdivision of one or more existing residences; and
+  - (d) premises converted to use as one or more new residences by amalgamation of one or more existing residences.]
+
+  - *[[^F440]Matter 11.2*
+  - Social housing providers.
+  - *Matter 11.3*
+  - Relevant social housing bodies.
+  - *Matter 11.4*
+  - Tenure of rented social housing and other arrangements under which social housing is provided.
+  - *Matter 11.5*
+  - Disposals of—
+
+  - (a) social housing,
+  
+  - (b) land held or used for the purposes of, or in connection with, social housing, and
+  
+  - (c) land to which a provision of any of the following enactments applies—
+  
+    - (i) Part 2 of the Housing Act 1985;
+    - (ii) Part 5 of the Housing Act 1985;
+    - (iii) Chapter 2 of Part 1 of the Housing Act 1996;
+    - (iv) Chapter 4 of Part 1 of the Housing Act 1996;
+    - (v) Chapter 4 of Part 2 of the Housing and Regeneration Act 2008
+  
+    (insofar as the disposal does not fall within paragraph (a) or (b) of this matter).
+
+  - *Matter 11.6*
+  
+  - Provision of advice and non-financial assistance to individuals in respect of their obtaining, and living in, housing.
+  
+  - This matter includes, in particular, advice and non-financial assistance in respect of skills that are relevant to the ability to live independently, or more independently, in housing.
+  
+  - *Matter 11.7*
+  
+  - Provision by local authorities of caravan sites for use by Gypsies and Travellers.
+  
+  - *Matter 11.8*
+  
+  - Homelessness.
+  
+  - *Interpretation of this field*
+  
+  - In this field—
+  
+  - “caravan site” means—
+  
+    - (a) land on which a caravan or other mobile accommodation (apart from a tent) is stationed for the purposes of human habitation, and
+    - (b) land which is used in conjunction with land falling within paragraph (a) of this definition;
+  
+  - “local authority” means a county council or a county borough council in Wales;
+  
+  - “relevant social housing body” means a person (if, or insofar as, it is not a social housing provider) which has functions relating to—
+  
+    - (a) social housing providers, or
+    - (b) social housing;
+  
+    but such a person is a relevant social housing body only insofar as the person has functions relating to social housing providers or social housing;
+  
+  - “social housing” means any housing provided by a social housing provider;
+  
+  - “social housing provider” means—
+  
+    - (a) a local authority, and
+    
+    - (b) a person (other than a local authority) which—
+    
+      - (i) provides housing to, or
+      - (ii) has functions relating to allocation of housing to,
+    
+      people whose needs are not adequately served by the commercial housing market;
+  
+    but a local authority or such other person is a social housing provider only insofar as it provides, or has functions relating to allocation of, housing.]
+
+- *Field 12: local government*
+
+  - *[[^F441]Matter 12.1*
+  
+  - [^F442] . . .
+  
+  - Provision for and in connection with—
+  
+    - (a) the constitution of new principal areas and the abolition or alteration of existing principal areas, and
+    - (b) the establishment of councils for new principal areas and the abolition of existing principal councils.
+  
+  - *Matter 12.2*
+  
+  - Provision for and in connection with—
+  
+    - (a) the procedure for the making and coming into force of byelaws, and
+    - (b) the enforcement of byelaws.
+  
+  - “Byelaws” means those of a class which may be confirmed by the Welsh Ministers (but the provision which may be made includes provision to remove a requirement of confirmation).
+  
+  - *Matter 12.3*
+  
+  - Any of the following—
+  
+    - (a) the principles which are to govern the conduct of members of relevant authorities,
+    
+    - (b) codes of conduct for such members,
+    
+    - (c) the conferral on any person of functions relating to the promotion or maintenance of high standards of conduct of such members (including the establishment of bodies to have such functions),
+    
+    - (d) the making or handling of allegations that members (or former members) of relevant authorities have breached standards of conduct, including in particular—
+    
+      - (i) the investigation and adjudication of such allegations and reports on the outcome of investigations,
+      - (ii) the action that may be taken where breaches are found to have occurred,
+    
+    - (e) codes of conduct for employees of relevant authorities.
+  
+  - For the purposes of this matter—
+  
+    - “relevant authority” has the same meaning as in Part 3 of the Local Government Act 2000, except that other than in paragraph (d) it does not include a police authority,
+    - “member” includes a co-opted member within the meaning of that Part.
+  
+  - *Matter 12.4*
+  
+  - Provision for and in connection with strategies of county councils and county borough councils for promoting or improving the economic, social or environmental well-being of their areas or contributing to the achievement of sustainable development in the United Kingdom, including provision imposing requirements in connection with such strategies on other persons with functions of a public nature.
+  
+  - *Matter 12.5*
+  
+  - Provision for and in connection with—
+  
+    - (a) the making of arrangements by relevant Welsh authorities to secure improvement in the way in which their functions are exercised,
+    - (b) the making of arrangements by relevant Welsh authorities for the involvement in the exercise of their functions of people who are likely to be affected by, or interested in, the exercise of the functions, and
+    - (c) the assessment and inspection of the performance of relevant Welsh authorities in exercising their functions.
+  
+  - The following are “relevant Welsh authorities”—
+  
+    - (a) a county council, county borough council or community council in Wales,
+    - (b) a National Park authority for a National Park in Wales,
+    - (c) a fire and rescue authority in Wales constituted by a scheme under section 2 of the Fire and Rescue Services Act 2004 or a scheme to which section 4 of that Act applies,
+    - (d) a levying body within the meaning of section 74(1) of the Local Government Finance Act 1988 in respect of which the county council or charging authority referred to in section 74(1)(b) of that Act was a council or authority for an area in Wales,
+    - (e) a body to which section 75 of that Act applies (special levies) and which as regards the financial year beginning in 1989 had power to levy a rate by reference to property in Wales.]
+  
+  - *[[^F443]Matter 12.6*
+  
+  - This matter does not include—
+  
+    - (a) direct elections to executives of principal councils, or
+    - (b) the creation of a form of executive requiring direct elections.
+  
+  - For the purposes of this matter—
+  
+    - (a) “executive arrangements” has the same meaning as in Part 2 of the Local Government Act 2000;
+    - (b) [^F444] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+    - (c) “direct elections” means elections by local government electors (within the meaning of section 270(1) of the Local Government Act 1972).
+  
+  - Arrangements by principal councils with respect to the discharge of their functions, including executive arrangements.]
+  
+  - *[[^F445]Matter 12.7*
+  
+  - Committees of principal councils with functions of—
+  
+    - (a) review or scrutiny, or
+    - (b) making reports or recommendations.
+  
+  - This matter does not include committees under section 19 of the Police and Justice Act 2006 (crime and disorder committees).
+  
+  - [^F446] . . . ]
+  
+  - *[[^F447]Matter 12.8*
+  
+  - Areas of communities and constitution, structure, and procedures of local government institutions for communities.
+  
+  - *Matter 12.9*
+  
+  - Electoral arrangements for elected local government institutions for communities. In this matter “electoral arrangements” does not include—
+  
+    - (a) the local government franchise;
+    - (b) electoral registration and administration;
+    - (c) the voting system for the return of members in an election.
+  
+  - *Matter 12.10*
+  
+  - Conferral on local government institutions for communities of powers—
+  
+    - (a) to which this matter applies,
+    - (b) that are exercisable in relation to their areas, and
+    - (c) that are powers exercisable by principal councils in relation to principal areas.
+  
+    This matter applies to powers to do anything which the holder of the power considers likely to promote or improve the economic, social or environmental well-being of an area.
+  
+  - *Matter 12.11*
+  
+  - Grants from the Welsh Ministers to fund local government for communities.
+  
+  - *Matter 12.12*
+  
+  - Relations between different communities (and their local government institutions), or between communities (and their local government institutions) and principal councils.
+  
+  - *Matter 12.13*
+  
+  - Schemes for the accreditation of quality in local government for communities.
+  
+  - *Matter 12.14*
+  
+  - Public participation in local government for communities (apart from elections).
+  
+  - *Matter 12.15*
+  
+  - The provision of information relating to local government to the public. For the purposes of this matter “local government” means—
+  
+    - (a) local government for communities;
+    - (b) local government for counties and county boroughs.
+  
+  - *Matter 12.16*
+  
+  - Salaries, allowances, pensions and other payments for members of the following—
+  
+    - (a) local government institutions for communities;
+    - (b) county councils and county borough councils;
+    - (c) National Park authorities;
+    - (d) fire and rescue authorities constituted by schemes under section 2 of the Fire and Rescue Services Act 2004 or schemes to which section 4 of that Act apply.
+  
+  - *Matter 12.17*
+  
+  - Promoting and supporting membership of the following—
+  
+    - (a) local government institutions for communities;
+    - (b) county councils and county borough councils.
+  
+  - *[[^F448]Matter 12.18*
+  
+  - Council tax payable in respect of dwellings that are not the main residence of an individual.]
+  
+  - *Interpretation of this field*
+  
+  - In this field— “communities” means separate areas for the administration of local government, each of which is wholly within a principal area (but does not constitute the whole of a principal area); “principal area” means a county borough or a county; “principal council” means a council for a principal area. ]
+
+- *Field 13: National [[^F2]Senedd] for Wales*
+
+  - *Matter 13.1*
+  
+  - Creation of, and conferral of functions on, an office or body for and in connection with investigating complaints about the conduct of [[^F9]Members of the Senedd] and reporting on the outcome of such investigations to the [[^F2]Senedd].
+  
+  - *Matter 13.2*
+  
+  - Conferral of functions on the [[^F2]Senedd] Commission for and in connection with facilitating the exercise by the [[^F2]Senedd] of its functions (including the provision to the [[^F2]Senedd] of the property, staff and services required for the [[^F2]Senedd's] purposes).
+  
+  - *Matter 13.3*
+  
+  - Provision for and in connection with the payment of salaries, allowances, pensions and gratuities to or in respect of [[^F9]Members of the Senedd ] , the First Minister, any Welsh Minister appointed under section 48, the Counsel General and any Deputy Welsh Minister.
+  
+  - *Matter 13.4*
+  
+  - Provision for and in connection with the creation and maintenance of a register of interests of [[^F9]Members of the Senedd] and the Counsel General.
+  
+  - *Matter 13.5*
+  
+  - Provision about the meaning of Welsh words and phrases in—
+  
+    - (a) Assembly Measures,
+    - (b) subordinate legislation made under Assembly Measures, and
+    - (c) subordinate legislation not so made but made by the Welsh Ministers, the First Minister or the Counsel General.
+  
+  - *Matter 13.6*
+  
+  - Provision for and in connection with the procedures for dealing with proposed private Assembly Measures, including, in particular—
+  
+    - (a) procedures for hearing the promoters of, and objectors, to proposed private Assembly Measures,
+    - (b) the persons who may represent such promoters and objectors, and the qualifications that such persons must possess,
+    - (c) the imposition of fees for and in connection with the promotion of proposed private Assembly Measures, and
+    - (d) the assessment of costs incurred in connection with proposed private Assembly Measures.
+
+- *Field 14: public administration*
+
+  - *[[^F449]Matter 14.1* The following provision relating to the Auditor General—
+  
+    - (a) the following aspects of the Auditor General's terms of appointment—
+    - (i) the period of the appointment;
+    - (ii) salary, allowances and superannuation benefits;
+    - (iii) pensions and gratuities payable after a person has ceased to be Auditor General;
+    - (b) the number of times a person may be appointed as Auditor General;
+    - (c) restrictions on the other offices and positions which may be held by the Auditor General;
+    - (d) activities of a person who has been (but no longer is) Auditor General;
+    - (e) provision requiring the Auditor General—
+    - (i) to aim to do things efficiently and cost-effectively;
+    - (ii) to have regard, as the Auditor General considers appropriate, to the standards and principles that an expert professional provider of accounting or auditing services would be expected to follow;
+    - (f) the authorisation of persons to exercise functions of the Auditor General on the Auditor General's behalf (including during a vacancy in the office);
+    - (g) the oversight or supervision of the Auditor General or of the exercise of the Auditor General's functions;
+    - (h) the provision or use of resources for the purposes of the Auditor General's functions including (in particular)—
+    - (i) the employment and use of staff;
+    - (ii) the procurement and use of services;
+    - (iii) the holding of documents or information;
+    - (iv) the keeping of records;
+    - (i) the charging of fees or other amounts in relation to functions of—
+    - (i) the Auditor General, or
+    - (ii) auditors appointed by the Auditor General under an enactment;
+    - (j) the restatement of any law relating to the Auditor General.]
+
+- *Field 15: social welfare*
+
+  - *[[^F450]Matter 15.1*
+  
+  - Charges levied by local authorities for social care services provided or secured by them and payments in respect of individuals with needs relating to their well-being so that they, or persons looking after them, may secure social care services to meet those needs.
+  
+  - This matter does not include [[^F451] charges and payments for residential care. ] [^F452] . . . ]
+  
+  - *[[^F453]Matter 15.2*
+  
+  - Functions of public authorities relating to—
+  
+    - (a) safeguarding children from harm and neglect;
+    - (b) safeguarding and promoting the well-being of vulnerable children;
+    - (c) reducing inequalities in well-being between children or young persons.
+  
+  - This matter applies to the functions of public authorities whose pricipal functions relate to any one or more of the fields in this Part.
+  
+  - *Matter 15.3*
+  
+  - Adoption services and special guardianship support services.
+  
+  - *Matter 15.4*
+  
+  - Fostering.
+  
+  - *Matter 15.5*
+  
+  - Social care services for any of the following—
+  
+    - (a) children;
+    
+    - (b) persons who care for, or who are about to care for, children;
+    
+    - (c) young persons;
+    
+    - (d) persons formerly looked after—
+    
+      - (i) who have attained the age of 25, and
+      - (ii) who, immediately before attaining that age, have been pursuing, or intending to pursue, education or training.
+  
+  - *Matter 15.6*
+  
+  - Co-operation and arrangements to safeguard and promote the well-being of children or young persons.
+  
+  - This matter applies to co-operation by, and arrangements made by, —
+  
+    - (a) public authorities whose principal functions relate to any one or more of the fields in this part;
+    - (b) police authorities and chief officers of police for police areas in Wales;
+    - (c) the British Transport Police Authority;
+    - (d) local probation boards for areas in Wales;
+    - (e) the Secretary of State, in relation to the Secretary of State''s functions under sections 2 and 3 of the Offender Management Act 2007, or any provider of probation services under arrangements made under section 3(2) of that Act;
+    - (f) youth offending teams for areas in Wales;
+    - (g) the governors of prisons, young offender institutions or secure training centres in Wales (or, in the case of contracted out prisons, young offender institutions or secure training centres or contracted out parts of such institutions, their directors);
+    - (h) persons other than public authorities who are engaged in activities relating to the well-being of children or young persons.
+  
+  - *Matter 15.7*
+  
+  - Planning by local authorities for the discharge of their functions relating to the well-being of children or young persons.
+  
+  - *Matter 15.8*
+  
+  - Continuing, dissolving or creating an office or body concerned with safeguarding and promoting the well-being of children or young persons; the functions of such an office or body, including in particular—
+  
+    - (a) reviewing the effect on children or young persons of the exercise by any person of functions related to their well-being;
+    
+    - (b) reviewing and monitoring—
+    
+      - (i) advocacy services;
+      - (ii) arrangements for dealing with complaints and representations made by, or on behalf of, children or young persons in respect of persons with functions related to their well-being or persons providing them with social care services;
+    
+    - (c) examining cases of particular children or young persons;
+    
+    - (d) considering, and making representations about, any matter affecting the well-being of children or young persons.
+  
+  - *[[^F454]Matter 15.9*
+  
+  - Supporting the provision of care by carers and promoting the well-being of carers.
+  
+  - This matter includes (but is not limited to) social care services to help carers.
+  
+  - In this matter “carers” means individuals who provide or intend to provide a substantial amount of care on a regular basis for—
+  
+    - (a) a child with a physical or mental impairment, or
+    - (b) an individual aged 18 or over,
+  
+    but it does not include individuals who provide or intend to provide care—
+  
+    - (a) by virtue of a contract of employment or other contract with any person, or
+    - (b) as a volunteer for a body (whether or not incorporated)]
+  
+  - *[[^F455]Matter 15.10*
+  
+  - Social care services connected to mental health.
+  
+  - This matter does not include the independent mental capacity advocacy services established by Part 1 of the Mental Capacity Act 2005.]
+  
+  - *Interpretation of this field*
+  
+  - In this field—
+  
+  - [[^F456]“advocacy services” means services providing assistance (by way of representation or otherwise) in connection with the well-being of any person;]
+  
+  - “children” means persons who have not attained the age of 18;
+  
+  - “development” means physical, intellectual, emotional, social or behavioural development;
+  
+  - “health” means physical or mental health;
+  
+  - “local authorities” means the councils of counties or county boroughs in Wales;
+  
+  - “persons formerly looked after” means persons who, at any time before attaining the age of 18—
+  
+    - (a) have been in the care of a public authority, or
+    - (b) have been provided with accommodation by a public authority in order to secure their well-being;
+  
+  - “public authorities” means each public authority within the meaning of section 6 of the Human Rights Act 1998, apart from courts or tribunals;
+  
+  - “social care services” means any of the following provided in connection with the well-being of any person: residential or non-residential care services; [[^F457]information,] advice, counselling or advocacy services; financial or any other assistance;
+  
+  - “vulnerable children” means children—
+  
+    - (a) who are unlikely to achieve or maintain, or have the opportunity of achieving or maintaining, a reasonable standard of health or development without the provision for them of social care services,
+    - (b) whose health or development is likely to be significantly impaired, or further impaired, without the provision for them of social care services,
+    - (c) who have a physical or mental impairment,
+    - (d) who are in the care of a public authority, or
+    - (e) who are provided with accommodation by a public authority in order to secure their well-being;
+  
+  - “well-being ”, in relation to individuals, means well-being so far as relating to any of the following—
+  
+    - (a) health and emotional well-being;
+    - (b) protection from harm and neglect;
+    - (c) education, training and recreation;
+    - (d) the contribution made by them to society;
+    - (e) social and economic well-being;
+    - (f) securing their rights;
+  
+  - “young persons” means persons who have attained the age of 18 but not the age of 25.]
+
+- *Field 16: sport and recreation*
+
+  - *[[^F458]Matter 16.1*
+  
+  - The provision of recreational facilities and activities for children or young persons.
+  
+  - In this matter “children” and “young persons” have the same meaning as in field 15.]
+  
+  - *[[^F459]Matter 16.2*
+  
+  - The establishment and maintenance of a route (or a number of routes) for the coast to enable the public to make recreational journeys.
+  
+  - This matter does not include—
+  
+    - (a) enabling the public to make journeys by mechanically propelled vehicles (except permitted journeys by qualifying invalid carriages);
+    - (b) the creation of new highways (whether under the Highways Act 1980 or otherwise).
+  
+  - *Matter 16.3*
+  
+  - Securing public access to relevant land for the purposes of open-air recreation.
+  
+  - Land is relevant land if it—
+  
+    - (a) is at the coast,
+    - (b) can be used for the purposes of open-air recreation in association with land within paragraph (a), or
+    - (c) can be used for the purposes of open-air recreation in association with a route within matter 16.2.
+  
+  - In this matter the reference to land at the coast is not limited to coastal land within the meaning of section 3 of the Countryside and Rights of Way Act 2000.
+  
+  - *[[^F460]Matter 16.4*
+  
+  - The functions of local authorities in the support, improvement and promotion of sport and recreational activities.
+  
+  - This matter does not include licensing of sale and supply of alcohol, provision of entertainment and late night refreshment.]
+  
+  - *Interpretation of this field*
+  
+  - In this field—
+  
+    - “coast” means the coast of Wales adjacent to the sea, including the coast of any island (in the sea) comprised in Wales;
+    - “estuarial waters” means any waters within the limits of transitional waters within the meaning of the Water Framework Directive (that is to say, Directive 2000/60/ EC of the European Parliament and of the Council of 23 October 2000 establishing a framework for Community action in the field of water policy);
+    - “highway” has the same meaning as in the Highways Act 1980;
+    - [[^F461]“local authorities” means the councils of counties and county boroughs in Wales;]
+    - “public foot crossing”, in relation to a river, means a bridge over which, or tunnel through which, there is a public right of way, or a public right of access, by virtue of which the public are able to cross the river on foot;
+    - “qualifying invalid carriage” means an invalid carriage within the meaning of section 20 of the Chronically Sick and Disabled Persons Act 1970 (use of invalid carriages on highways) which complies with the prescribed requirements within the meaning of that section;
+    - “relevant upstream waters ”, in relation to a river, means the waters from the seaward limit of the estuarial waters of the river upstream to the first public foot crossing;
+    - “sea” includes the relevant upstream waters of a river;
+  
+  - and a journey by a qualifying invalid carriage is a permitted journey if the carriage is being used in accordance with the prescribed conditions within the meaning of section 20 of the Chronically Sick and Disabled Persons Act 1970.]
+
+- *Field 17: tourism*
+
+- *Field 18: town and country planning*
+
+  - *[[^F462]Matter 18.1*
+  
+  - Provision for and in connection with—
+  
+    - (a) plans of the Welsh Ministers in relation to the development and use of land in Wales, and
+    - (b) removing requirements for any such plans.
+  
+    This does not include provision about the status to be given to any such plans in connection with the decision on an application for an order granting development consent under the Planning Act 2008.
+  
+  - *Matter 18.2*
+  
+  - Provision for and in connection with the review by local planning authorities of matters which may be expected to affect—
+  
+    - (a) the development of the authorities' areas, or
+    - (b) the planning of the development of the authorities' areas.
+  
+  - *Matter 18.3*
+  
+  - Provision for and in connection with—
+  
+    - (a) plans of local planning authorities in relation to the development and use of land in their areas, and
+    - (b) removing requirements for any such plans.
+  
+  - This does not include provision about the status to be given to any such plans in connection with the decision on an application for an order granting development consent under the Planning Act 2008.
+  
+  - *Interpretation of this field*
+  
+  - In this field—
+  
+  - “local planning authority” in relation to an area means—
+  
+    - (a) a National Park authority, in relation to a National Park in Wales;
+    - (b) a county council in Wales or a county borough council, in any other case;
+  
+  - “Wales” has the meaning given by Schedule 1 to the Interpretation Act 1978.]
+
+- *Field 19: water and flood defence*
+
+- *Field 20: Welsh language*
+
+- *[[^F463]Matter 20.1*
+
+- Promoting or facilitating the use of the Welsh language; and the treatment of the Welsh and English languages on the basis of equality.
+
+- This matter does not include the use of the Welsh language in courts.
+
+- This matter does not include imposing duties on persons other than the following—
+
+  - (a) public authorities;
+  
+  - (b) persons providing services to the public under an agreement, or in accordance with arrangements, made with a public authority;
+  
+  - (c) persons providing services to the public established by an enactment;
+  
+  - (d) persons established by prerogative instrument—
+  
+    - (i) to advance learning and knowledge by teaching or research or by developing or awarding qualifications;
+    - (ii) to collect, preserve or provide access to recorded knowledge or to objects and things which further understanding;
+    - (iii) to support, improve, promote or provide access to heritage, culture, sport or recreational activities;
+    - (iv) engaged in promoting a wider knowledge and representing the interests of Wales to other countries;
+    - (v) engaged in central banking;
+  
+  - (e) persons upon whom functions of providing services to the public are conferred or imposed by an enactment;
+  
+  - (f) persons providing services to the public who receive public money amounting to £400,000 or more in a financial year;
+  
+  - (g) persons overseeing the regulation of a profession, industry or other similar sphere of activity;
+  
+  - (h) providers of social housing;
+  
+  - (i) persons providing the public with the following kinds of services or with other services which relate to any of those services—
+  
+    - (i) gas, water or electricity services (including supply or distribution);
+    - (ii) sewerage services (including disposal of sewage);
+    - (iii) postal services and post offices;
+    - (iv) telecommunications services;
+    - (v) education, training (where the provider receives public money for its provision), or career guidance, and services to encourage, enable or assist participation in education, training or career guidance;
+    - (vi) bus and railway services;
+    - (vii) services to develop or award educational or vocational qualifications;
+  
+  - (j) persons opting or agreeing to be subject to the imposition of the duties.
+
+- With regard to imposing duties in relation to paragraph (b), this matter only includes duties in respect of services to the public provided under an agreement, or in accordance with arrangements, made with a public authority.
+
+- A person who receives public money amounting to £400,000 or more in a financial year does not fall within paragraph (f) unless—
+
+  - (a) that person also received public money in a previous financial year, or
+  - (b) a decision has been made that that person will receive public money in a subsequent financial year.
+
+- With regard to imposing duties in relation to paragraph (i)—
+
+  - (a) this matter only includes duties in respect of the services and the other related services mentioned, and
+  - (b) in respect of the related services, this matter does not include the provision of related services in a shop, other than post office counter services and the sale of tickets or provision of timetables for bus and railway services.
+
+- This matter does not include imposing duties about broadcasting.
+
+- This matter does not include imposing duties on a person (other than on a Welsh language authority) unless there is a means for that person to challenge those duties, as they apply to that person, on grounds of reasonableness and proportionality.
+
+- *Matter 20.2*
+
+- Provision about or in connection with the freedom of persons wishing to use the Welsh language to do so with one another (including any limitations upon it).
+
+- *Interpretation of this field*
+
+- In this field— “broadcasting” means the commissioning, production, scheduling, transmission or distribution of programmes (including advertisements, subtitles, continuity announcements and teletext), access services, interactivity, online content and other output of a similar nature for television, radio, the internet or other online or wireless platforms; “bus service” means a scheduled service, by public service vehicle (within the meaning of section 1 of the Public Passenger Vehicles Act 1981), for the carriage of passengers at separate fares, other than a service—
+
+  - (a) for which the whole capacity of the vehicle has been purchased by a charterer for the charterer's own use or for resale;
+  - (b) which is a journey or trip organised privately by any person acting independently of the vehicle operator; or
+  - (c) on which the passengers travel together on a journey, with or without breaks and whether or not on the same day, from one or more places to one or more places and back;
+
+  “enactment” includes any future enactment; “shop” means any premises where the sale of goods is the principal trade or business carried on;“postal services” means the service of conveying letters, parcels, packets or other articles from one place to another by post and the incidental services of receiving, collecting, sorting and delivering such articles; “public authority” means each public authority within the meaning of section 6 of the Human Rights Act 1998; “public money” means—
+
+  - (a) moneys made available directly or indirectly by—
+  
+    - (i) the National [[^F2]Senedd] for Wales;
+    - (ii) the Welsh Ministers;
+    - (iii) Parliament;
+    - (iv) Ministers of the Crown; or
+    - (v) an institution of the [[^F464]European Union];
+  
+  - (b) moneys provided by virtue of any enactment;
+
+  “telecommunications service” means any service that consists of providing access to, or facilities for making use of, any system which exists (whether wholly or partly in the United Kingdom or elsewhere) for the purpose of facilitating the transmission of communications by any means involving the use of electrical, magnetic or electro-magnetic energy (including the apparatus comprised in the system), but does not include broadcasting, radio, or television; “Welsh language authority” means a person upon whom an enactment confers or imposes functions of—
+
+  - (a) imposing or enforcing on other persons duties relating to the Welsh language,
+  - (b) determining the duties relating to the Welsh language that are imposed on other persons, or
+  - (c) deciding challenges to the duties relating to the Welsh language that are imposed on other persons.]
+
+[^F465] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ]]
+
+### Part 2 — [[^F466]EXCEPTIONS TO MATTERS AND GENERAL RESTRICTIONS]
+
+#### [[^F467]Exceptions to matters
+
+**[[^F468]A1**
+
+- These are the exceptions mentioned in section 94(4)(a) and (7)—
+- *[[^F469]Culture (field 3 of Part 1)*
+
+(1) Public lending right.
+
+(2) Classification of films, and video recordings.]
+
+*[[^F470]Economic development (field 4 of Part 1)*
+
+(1) Generation of electricity at generating stations whose construction, extension or operation requires—
+
+(a) the consent of the Secretary of State, or
+
+(b) the authority of an order granting development consent under the Planning Act 2008,
+
+and for this purpose, the reference to consent of the Secretary of State is a reference to consent under powers to regulate generation of electricity.
+
+(2) Transmitting, distributing or supplying electricity.
+
+(3) Energy conservation, apart from the encouragement of energy efficiency otherwise than by prohibition or regulation.
+
+(4) Nuclear energy and nuclear installations, including—
+
+(a) nuclear safety, and
+
+(b) liability for nuclear occurrences,
+
+- but this paragraph does not include disposal of very low level radioactive waste moved from a site whose use requires a nuclear site licence under the Nuclear Installations Act 1965]
+- *Highways and transport (field 10 of Part 1)*
+
+(1) Registration of local bus services, and the application and enforcement of traffic regulation conditions in relation to those services.
+
+[[^F471](1A) Road freight transport services, including goods vehicles operating licensing.]
+
+[[^F472](2) Regulation of the use of relevant vehicles on roads, the construction and use of relevant vehicles, and conditions under which relevant vehicles may be so used, apart from—
+
+(a) regulation of use of relevant vehicles carrying animals for the purposes of protecting human, animal, fish or plant health or the environment,[^F473]. . .
+
+(b) regulation relating to matter 10.1[[^F474], and
+
+(c) regulation of the description of vehicle which may be used pursuant to learner transport arrangements (including description by reference to a vehicle's construction or equipment), but not including the setting of technical standards for construction or equipment which differ from the standards that would or might otherwise apply to that vehicle.]
+
+- For the purpose of this paragraph, “ relevant vehicles ” means motor vehicles, mobile machinery and agricultural and forestry tractors. ]
+
+(3) Road traffic offences.
+
+(4) Driver licensing.
+
+(5) Driving instruction.
+
+(6) Insurance of motor vehicles.
+
+(7) Drivers' hours.
+
+(8) Traffic regulation on special roads (apart from regulation relating to matter 10.1).
+
+(9) Pedestrian crossings.
+
+(10) Traffic signs (apart from the placing and maintenance of traffic signs within the meaning of section 177 of the Transport Act 2000 for purposes relating to matter 10.1).
+
+(11) Speed limits.
+
+(12) Public service vehicle operator licensing.
+
+(13) Provision and regulation of railway services, apart from financial assistance which—
+
+(a) does not relate to the carriage of goods,
+
+(b) is not made in connection with a railway administration order, and
+
+(c) is not made in connection with [[^F475]Regulation (EC) No 1370/2007 of the European Parliament and of the Council on public passenger transport services by rail and by road].
+
+(14) Transport security[[^F476] (apart from regulation relating to the carriage of supervising adults on vehicles used pursuant to learner transport arrangements)]
+
+[[^F477](14A) Aviation, air transport, airports and aerodromes, apart from—
+
+(a) financial assistance to providers or proposed providers of air transport services or airport facilities or services,
+
+(b) strategies by the Welsh Ministers or local or other public authorities about provision of air services, and
+
+(c) regulation of the use of aircraft carrying animals for the purpose of protecting—
+
+(i) human health, apart from the health of persons in aircraft,
+
+(ii) animal, fish or plant health, or
+
+(iii) the environment.]
+
+[[^F478](15) Shipping, apart from—
+
+(a) financial assistance for shipping services to, from or within Wales, and
+
+(b) regulation of the use of vessels carrying animals for the purposes of protecting—
+
+(i) human health, apart from the health of persons on vessels,
+
+(ii) animal, fish or plant health, or
+
+(iii) the environment.]
+
+(16) Navigational rights and freedoms, apart from regulation of works which may obstruct or endanger navigation.
+
+(17) Technical and safety standards of vessels.
+
+[[^F479](18) Harbours, docks, piers and boatslips, apart from—
+
+(a) those used or required wholly or mainly for the fishing industry, for recreation, or for communications between places in Wales (or for two or more of those purposes), and
+
+(b) regulation for the purposes of protecting human, animal, fish or plant health or the environment.
+
+(19) Carriage of dangerous goods, including transport of radioactive material.]
+
+- [[^F480] In paragraphs (2) and (14) “ learner transport arrangements ” means arrangements of the kind described in matter 5.10 which consist of the provision of motor vehicles and are made by—
+
+  - (a) public authorities (within the meaning of field 15) exercising functions relating to education or training, or
+  - (b) institutions or other bodies concerned with the provision of education or training.]
+
+- *Social welfare (field 15 of Part 1)*
+
+(1) Child support.
+
+(2) Child trust funds, apart from subscriptions to such funds by—
+
+(a) a county council or county borough council in Wales, or
+
+(b) the Welsh Ministers.
+
+(3) Tax credits.
+
+(4) Child benefit and guardian's allowance.
+
+(5) Social security.
+
+(6) Independent living funds.
+
+(7) Motability.
+
+(8) Vaccine damage payments.
+
+(9) Intercountry adoption, apart from adoption agencies and their functions, and functions of the “Central Authority” under the Hague Convention on Protection of Children and Co-operation in respect of Intercountry Adoption.
+
+(10) The Children's Commissioner established under the Children Act 2004.
+
+(11) Family law and proceedings apart from—
+
+(a) welfare advice to courts, representation and provision of information, advice and other support to children ordinarily resident in Wales and their families, and
+
+(b) Welsh family proceedings officers.
+
+(12) Welfare foods.
+
+- *[[^F481]Sport and recreation (field 16 of Part 1)*
+
+  - (1) Betting, gaming and lotteries.]
+
+- *[[^F482]Water and flood defence (field 19 of Part 1)*
+
+(1) Appointment and regulation of any water undertaker whose area is not wholly or mainly in Wales.
+
+(2) Licensing and regulation of any licensed water supplier within the meaning of the Water Industry Act 1991, apart from regulation in relation to licensed activities using the supply system of a water undertaker whose area is wholly or mainly in Wales.]]
+
+#### General restrictions]
+
+#### Functions of Ministers of the Crown
+
+**1** (1) A provision of an Assembly Measure cannot remove or modify, or confer power by subordinate legislation to remove or modify, any function of a Minister of the Crown.
+
+(2) A provision of an Assembly Measure cannot confer or impose, or confer power by subordinate legislation to confer or impose, any function on a Minister of the Crown.
+
+#### Criminal offences
+
+**2** (1) A provision of an Assembly Measure cannot create, or confer power by subordinate legislation to create, any criminal offence punishable—
+
+(a) on summary conviction, with imprisonment for a period exceeding the prescribed term or with a fine exceeding the amount specified as level 5 on the standard scale, or
+
+(b) on conviction on indictment, with a period of imprisonment exceeding two years.
+
+(2) In sub-paragraph (1) “the prescribed term” means—
+
+(a) where the offence is a summary offence, 51 weeks, and
+
+(b) where the offence is triable either way, twelve months.
+
+#### [[^F483]Police areas
+
+**[[^F484]2A** A provision of an Assembly Measure cannot make any alteration in police areas.]]
+
+#### Enactments other than this Act
+
+**3** [[^F485](1)] A provision of an Assembly Measure cannot make modifications of, or confer power by subordinate legislation to make modifications of, any of the provisions listed in the Table below—
+
+|  |  |
+|---|---|
+| *Enactment* | *Provisions protected from modification* |
+| European Communities Act 1972 (c. 68) | The whole Act |
+| Data Protection Act 1998 (c. 29) | The whole Act |
+| Government of Wales Act 1998 (c. 38) | Sections 144(7), 145, 145A and 146A(1) |
+| Human Rights Act 1998 (c. 42) | The whole Act |
+| Civil Contingencies Act 2004 (c. 36) | The whole Act |
+| Re-Use of Public Sector Information Regulations 2005 (S.I. 2005/1505) | The whole set of Regulations |
+
+[[^F486](2) Sub-paragraph (1), so far as it applies in relation to sections 145, 145A and 146A(1) of the Government of Wales Act 1998, does not apply to a provision to which sub-paragraph (3) applies.
+
+(3) This sub-paragraph applies to a provision of an Assembly Measure which—
+
+(a) is a provision relating to matter 14.1,
+
+(b) provides for the enforcement of a provision relating to matter 14.1 or is otherwise appropriate for making such a provision effective, or
+
+(c) is otherwise incidental to, or consequential on, such a provision.]
+
+**4** A provision of an Assembly Measure cannot make modifications of, or confer power by subordinate legislation to make modifications of, any provision of an Act of Parliament other than this Act which requires sums required for the repayment of, or the payment of interest on, amounts borrowed by the Welsh Ministers to be charged on the Welsh Consolidated Fund.
+
+**5** A provision of an Assembly Measure cannot make modifications of, or confer power by subordinate legislation to make modifications of, any functions of the Comptroller and Auditor General[[^F487]or the National Audit Office].
+
+#### This Act
+
+**6** (1) A provision of an Assembly Measure cannot make modifications of, or confer power by subordinate legislation to make modifications of, provisions contained in this Act.
+
+[[^F488](2) Sub-paragraph (1) does not apply to—
+
+(a) sections 20, 22, 24, 35(1), 36(1) to (5) and (7) to (11), 53, 54, 78 and 156(2) to (5); or
+
+(b) paragraph 8(3) of Schedule 2.]
+
+(3) Sub-paragraph (1) does not apply to any provision—
+
+(a) making modifications of so much of any enactment as is modified by this Act, or
+
+(b) repealing so much of any provision of this Act as amends any enactment, if the provision ceases to have effect in consequence of any provision of, or made under, an Assembly Measure.
+
+[[^F489](4) Sub-paragraph (1) does not apply in relation to any provision to which paragraph 3(3) applies.
+
+(5) But, subject to sub-paragraph (6), a provision to which paragraph 3(3) applies cannot modify, or confer power by subordinate legislation to modify, paragraph 3 of Schedule 8.
+
+(6) Sub-paragraph (5) does not prevent the conferral of functions on a committee of the [[^F2]Senedd] that—
+
+(a) does not consist of or include any of the following persons—
+
+(i) the First Minister or any person designated to exercise functions of the First Minister,
+
+(ii) a Welsh Minister appointed under section 48,
+
+(iii) the Counsel General or any person designated to exercise the functions of the Counsel General, or
+
+(iv) a Deputy Welsh Minister, and
+
+(b) is not chaired by [[^F28]a Member of the Senedd] who is a member of a political group with an executive role.]
+
+### Part 3 — [[^F490]EXCEPTIONS FROM GENERAL RESTRICTIONS IN PART 2]
+
+*[[^F491]Interpretation*
+
+6Z  In this Part “ general restrictions in Part 2 ” means paragraphs 1 to 6 of Part 2. ]
+
+#### Functions of Ministers of the Crown
+
+**7** [[^F492](1)] [[^F493]The general restrictions in Part 2 do not] prevent a provision of an Assembly Measure removing or modifying, or conferring power by subordinate legislation to remove or modify, any function of a Minister of the Crown if the Secretary of State consents to the provision.
+
+[[^F494](2) Part 2 does not prevent a provision of an Assembly Measure relating to matter 20.1 or 20.2 of Part 1, conferring or imposing, or conferring power by subordinate legislation to confer or impose, any function on a Minister of the Crown if the Secretary of State consents to the provision, but functions so conferred or imposed may not be made enforceable against Ministers of the Crown by means of criminal offences.]
+
+#### [[^F495]Police areas
+
+**7A** Part 2 does not prevent a provision of an Assembly Measure making an alteration to the boundary of a police area in Wales if the Secretary of State consents to the provision.]
+
+#### [[^F496]Comptroller and Auditor General and National Audit Office]
+
+**8** [[^F497]The general restrictions in Part 2 do not] prevent a provision of an Assembly Measure modifying, or conferring power by subordinate legislation to modify, any enactment relating to the Comptroller and Auditor General[[^F498]or the National Audit Office] if the Secretary of State consents to the provision.
+
+#### Restatement
+
+**9** Part 2 does not prevent a provision of an Assembly Measure—
+
+(a) restating the law (or restating it with such modifications as are not prevented by that Part), or
+
+(b) repealing or revoking any spent enactment,
+
+or conferring power by subordinate legislation to do so.
+
+#### Subordinate legislation
+
+**10** [[^F499]The general restrictions in Part 2 do not] prevent an Assembly Measure making modifications of, or conferring power by subordinate legislation to make modifications of, an enactment for or in connection with any of the following purposes—
+
+(a) making different provision about the document by which a power to make, confirm or approve subordinate legislation is to be exercised,
+
+(b) making provision (or no provision) for the procedure, in relation to the [[^F2]Senedd], to which legislation made in the exercise of such a power (or the instrument or other document in which it is contained) is to be subject, and
+
+(c) applying any enactment comprised in or made under an Assembly Measure relating to the documents by which such powers may be exercised.
+
+*[[^F500]Data Protection Act 1998*
+
+**11** Part 2 does not prevent an Assembly Measure making modifications of, or conferring power by subordinate legislation to make modifications of, section 31(6) of the Data Protection Act 1998 so that it applies to complaints under any Assembly Measure relating to matter 9.1 in Part 1.]
+
+## [^F501]SCHEDULE 6 — Referendums on commencement of [[^F2]Senedd] Act provisions
+
+**
+
+### [^F501]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F501]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F501]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F501]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F501]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F501]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F501]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F501]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F501]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F501]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F501]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F501]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F501]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## [^F502]SCHEDULE 7 — Acts of the [[^F2]Senedd]
+
+*Section 108*
+
+### Part 1 — Subjects
+
+#### Agriculture, forestry, animals, plants and rural development
+
+**1** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Ancient monuments and historic buildings
+
+**2** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Culture
+
+**3** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Economic development
+
+**4** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Education and training
+
+**5** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Environment
+
+**6** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Fire and rescue services and fire safety
+
+**7** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Food
+
+**8** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Health and health services
+
+**9** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Highways and transport
+
+**10** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Housing
+
+**11** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Local government
+
+**12** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### National Assembly for Wales
+
+**13** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Public administration
+
+**14** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Social welfare
+
+**15** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Sport and recreation
+
+**16** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Taxation
+
+**16A** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Tourism
+
+**17** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Town and country planning
+
+**18** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Water and flood defence
+
+**19** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Welsh language
+
+**20** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Part 2 — General restrictions
+
+#### Functions of a Minister of the Crown
+
+**1** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Enactments other than this Act
+
+**2** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**3** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**4** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**4A** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### This Act
+
+**5** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Part 3 — Exceptions from Part 2
+
+#### Functions of Ministers of the Crown
+
+**6** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Comptroller and Auditor General and National Audit Office
+
+**7** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Her Majesty's Revenue and Customs
+
+**7A** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Restatement
+
+**8** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Subordinate legislation
+
+**9** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## [[^F502]SCHEDULE 7A — Reserved matters
+
+*Section 108A*
+
+### Part 1 — General Reservations
+
+#### The Constitution
+
+**1** The following aspects of the constitution are reserved matters—
+
+(a) the Crown, including succession to the Crown and a regency;
+
+(b) the union of the nations of Wales and England;
+
+(c) the Parliament of the United Kingdom.
+
+**2** (1) Paragraph 1 does not reserve—
+
+(a) Her Majesty's executive functions,
+
+(b) functions exercisable by any person acting on behalf of the Crown, or
+
+(c) the use of the Welsh Seal.
+
+(2) Sub-paragraph (1) does not affect the reservation by paragraph 1 of the management (in accordance with any enactment regulating the use of land) of the Crown Estate.
+
+(3) Sub-paragraph (1) does not affect the reservation by paragraph 1 of the functions of the Security Service, the Secret Intelligence Service and the Government Communications Headquarters.
+
+(4) In this paragraph “"executive function”” does not include a function conferred or imposed by or by virtue of any legislation or the prerogative.
+
+**3** (1) Paragraph 1 does not reserve property belonging—
+
+(a) to Her Majesty in right of the Crown,
+
+(b) to Her Majesty in right of the Duchy of Lancaster, or
+
+(c) to the Duchy of Cornwall.
+
+(2) Paragraph 1 does not reserve property belonging to any person acting on behalf of the Crown or held in trust for Her Majesty for the purposes of any person acting on behalf of the Crown.
+
+(3) Sub-paragraphs (1) and (2) do not affect the reservation by paragraph 1 of—
+
+(a) the hereditary revenues of the Crown,
+
+(b) the royal arms and standard, or
+
+(c) the compulsory acquisition of property—
+
+(i) belonging to Her Majesty in right of the Crown;
+
+(ii) belonging to Her Majesty in right of the Duchy of Lancaster;
+
+(iii) belonging to the Duchy of Cornwall;
+
+(iv) held or used by a Minister of the Crown or government department.
+
+**4** (1) Paragraph 1 does not reserve property held by Her Majesty in Her private capacity.
+
+(2) Sub-paragraph (1) does not affect the reservation by paragraph 1 of the subject-matter of the Crown Private Estates Acts 1800 to 1873.
+
+#### Public service
+
+**5** The Civil Service of the State is a reserved matter.
+
+#### Political parties
+
+**6** The following are reserved matters—
+
+(a) the registration of political parties;
+
+(b) funding of political parties and of their members and officers;
+
+(c) accounting requirements in relation to political parties;
+
+but this is subject to paragraph 7.
+
+**7** Paragraph 6 does not reserve making payments to any political party for the purpose of assisting members of the [[^F2]Senedd] who are connected with the party to perform their [[^F2]Senedd] duties.
+
+#### Single legal jurisdiction of England and Wales
+
+**8** (1) The following are reserved matters—
+
+(a) courts (including, in particular, their creation and jurisdiction);
+
+(b) judges (including, in particular, their appointment and remuneration);
+
+(c) civil or criminal proceedings (including, in particular, bail, costs, custody pending trial, disclosure, enforcement of orders of courts, evidence, sentencing, limitation of actions, procedure, prosecutors and remedies);
+
+(d) pardons for criminal offences;
+
+(e) private international law;
+
+(f) judicial review of administrative action.
+
+(See also paragraphs 3 and 4 of Schedule 7B (restrictions on modifying private law and criminal law).)
+
+(2) The reference to prosecutors in sub-paragraph (1)(c) does not prevent an Act of the [[^F2]Senedd] from making provision about responsibility for the prosecution of devolved offences.
+
+An offence is a “devolved offence” if provision for the creation of it is within the legislative competence of the Assembly.
+
+(3) Sub-paragraph (1) does not reserve—
+
+(a) welfare advice to courts in respect of family proceedings in which the welfare of children ordinarily resident in Wales is or may be in question;
+
+(b) representation in respect of such proceedings;
+
+(c) the provision of support (including information and advice), to children ordinarily resident in Wales and their families, in respect of such proceedings;
+
+(d) Welsh family proceedings officers.
+
+#### Tribunals
+
+**9** (1) Tribunals, including—
+
+(a) their membership,
+
+(b) the appointment and remuneration of their members,
+
+(c) their functions and procedure, and
+
+(d) appeals against their decisions,
+
+are a reserved matter.
+
+(2) But this paragraph does not apply to a tribunal (a ““devolved tribunal””) all of whose functions are functions that—
+
+(a) are exercisable only in relation to Wales, and
+
+(b) do not relate to reserved matters.
+
+(3) In the case of a tribunal which has functions that do not relate to reserved matters, sub-paragraph (1) does not reserve any function of deciding an appeal or application which—
+
+(a) relates to a matter that is not a reserved matter, and
+
+(b) is not an appeal against the decision of a tribunal (other than a devolved tribunal),
+
+but it does reserve the tribunal's procedure in relation to that function.
+
+(4) In determining for the purposes of this paragraph whether functions of a tribunal are exercisable only in relation to Wales, no account is taken of any function that—
+
+(a) is exercisable otherwise than in relation to Wales, and
+
+(b) could (apart from paragraph 8 of Schedule 7B) be conferred or imposed by provision falling within the [[^F2]Senedd's] legislative competence (by virtue of section 108A(3)).
+
+[[^F503](4A) References in this paragraph to Wales include, in relation to a relevant function of a tribunal, the area of the Welsh zone beyond the seaward limit of the territorial sea.
+
+A function of a tribunal is “relevant” if it relates to fishing, fisheries or fish health.]
+
+(5) Where the question whether this paragraph applies to a particular tribunal is relevant to determining whether a provision of an Act of the [[^F2]Senedd] is within the [[^F2]Senedd's] legislative competence, the time for deciding the question is the time when the Act is passed.
+
+#### Foreign affairs etc
+
+**10** (1) International relations, regulation of international trade, and international development assistance and co-operation are reserved matters.
+
+(2) In sub-paragraph (1) “"international relations”” includes—
+
+(a) relations with territories outside the United Kingdom;
+
+(b) relations with the EU and its institutions;
+
+(c) relations with other international organisations.
+
+(3) But sub-paragraph (1) does not reserve—
+
+(a) observing and implementing international obligations [[^F504]and] obligations under the Human Rights Convention [^F505]..., or
+
+(b) assisting Ministers of the Crown in relation to any matter to which that sub-paragraph applies.
+
+(4) In this paragraph “"the Human Rights Convention”” means—
+
+(a) the Convention for the Protection of Human Rights and Fundamental Freedoms, agreed by the Council of Europe at Rome on 4th November 1950, and
+
+(b) the Protocols to the Convention,
+
+as they have effect for the time being in relation to the United Kingdom.
+
+#### Defence
+
+**11** The following are reserved matters—
+
+(a) the defence of the realm;
+
+(b) the naval, military or air forces of the Crown, including reserve forces;
+
+(c) visiting forces;
+
+(d) international headquarters and defence organisations;
+
+(e) trading with the enemy and enemy property.
+
+### Part 2 — Specific Reservations
+
+#### Preliminary
+
+**12** The matters to which any of the Sections in this Part apply are reserved matters.
+
+**13** A Section applies to any matter described or referred to in it when read with any exceptions or interpretation provisions in that Section.
+
+**14** Any exceptions or interpretation provisions in a Section relate only to that Section (so that an entry under the heading ““Exceptions”” does not affect any other Section).
+
+#### Reservations
+
+##### Head A—Financial and Economic Matters
+
+###### Section A1 — A1 Fiscal, economic and monetary policy
+
+**15** Fiscal, economic and monetary policy, including the issue and circulation of money, taxes and excise duties, government borrowing and lending, control over United Kingdom public expenditure, the exchange rate and the Bank of England.
+
+*Exceptions*
+
+- Devolved taxes, including their collection and management.
+- Local taxes to fund local authority expenditure (for example, council tax and non-domestic rates).
+
+###### Section A2 — A2 The currency
+
+**16** Coinage, legal tender and bank notes.
+
+###### Section A3 — A3 Financial services
+
+**17** Financial services, including investment business, banking and deposit-taking, collective investment schemes and insurance.
+
+###### Section A4 — A4 Financial markets
+
+**18** Financial markets, including listing and public offers of securities and investments, transfer of securities and insider dealing.
+
+###### Section A5 — A5 Dormant accounts
+
+**19** Distribution of money from dormant bank and building society accounts.
+
+##### Head B—Home Affairs
+
+###### Section B1 — B1 Elections
+
+**(A) Elections for membership of the House of Commons [^F506]...**
+
+**20** Elections for membership of the House of Commons [^F507]..., including the subject-matter of existing elections Acts so far as they apply, or may be applied, in respect of such membership.
+
+**(B) Elections for membership of the [[^F2]Senedd] and local government elections in Wales**
+
+**21** The subject-matter of sections 3(1A) and 13A of this Act (coincidence of [[^F2]Senedd] elections and reserved elections).
+
+**22** The subject-matter of section 37ZA(2) of the Representation of the People Act 1983 (coincidence of local government elections and [[^F2]Senedd] elections).
+
+**23** The combination of—
+
+(a) polls at elections or referendums that are outside the legislative competence of the [[^F2]Senedd] with polls at—
+
+(i) elections of [[^F9]Members of the Senedd],
+
+(ii) local government elections in Wales, or
+
+(iii) referendums held under Part 2 of the Local Government Act 2000 (arrangements in respect of executives etc), and
+
+(b) polls at ordinary general elections of [[^F9]Members of the Senedd ] with polls at ordinary local government elections in Wales.
+
+**24** Any digital service provided by a Minister of the Crown for the registration of electors.
+
+**25** The subject-matter of the following provisions of the Political Parties, Elections and Referendums Act 2000 in relation to elections of [[^F9]Members of the Senedd] and local government elections in Wales—
+
+in Part 1 (Electoral Commission)—
+
+(a) section 1, except in relation to—
+
+(i) financing the Commission,
+
+(ii) preparation, laying and publication by it of reports about the performance of its functions, and
+
+(iii) provision by it of copies of regulations made by it or notice of the alteration or revocation of such regulations;
+
+(b) sections 2 to 4 and 6(1)(e) and (f) (and (g) to the extent that it relates to the law mentioned in those paragraphs);
+
+(c) sections 12 and 21;
+
+Parts 2 to 4A (registration of parties, accounting, donations, loans etc);
+
+section 140A (gifts received by unincorporated associations);
+
+in Part 10 (miscellaneous and general)—
+
+(a) section 149, except in relation to the register kept under section 89;
+
+(b) sections 155 and 156 except in relation to Parts 5 and 6;
+
+(c) sections 157 and 159 to 163.
+
+**26** The subject-matter of Parts 5 and 6 of the Political Parties, Elections and Referendums Act 2000 (expenditure in connection with elections) where a limit applies to expenditure in relation to a period determined by reference to both—
+
+(a) the date of the poll for an election of [[^F9]Members of the Senedd ] or a local government election in Wales, and
+
+(b) the date of the poll at an election for membership of the House of Commons [^F508]....
+
+**27** The subject-matter of sections 145 to 148 and 150 to 154 of the Political Parties, Elections and Referendums Act 2000 (enforcement and offences) as they apply for the purposes of any provision, so far as the subject-matter of the provision is reserved by paragraph 25 or 26.
+
+*Interpretation*
+
+- “"Existing elections Acts”” means—
+
+  - (a) the Representation of the People Act 1983,
+  - (b) the Representation of the People Act 1985,
+  - (c) the Parliamentary Constituencies Act 1986,
+  - (d) the Representation of the People Act 2000,
+  - (e) the Political Parties, Elections and Referendums Act 2000,
+  - (f) [^F509]...
+  - (g) the Electoral Administration Act 2006, and
+  - (h) the Electoral Registration and Administration Act 2013.
+
+- “"Local government elections in Wales”” includes mayoral elections in Wales.
+
+###### Section B2 — B2 Nationality and immigration
+
+**28** Nationality.
+
+**29** Immigration, including asylum and the status and capacity of persons in the United Kingdom who are not British citizens.
+
+**[^F510]30** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**31** Travel documents.
+
+###### Section B3 — B3 National security and official secrets
+
+**32** National security.
+
+**33** Special powers, and other special provisions, for dealing with terrorism.
+
+**34** The subject-matter of the Official Secrets Acts 1911 to 1989.
+
+###### Section B4 — B4 Interception of communications, communications data and surveillance
+
+**35** Interception of communications.
+
+**36** Communications data.
+
+**37** Covert surveillance by persons exercising public functions.
+
+**38** Use of surveillance systems.
+
+*Interpretation*
+
+“"Covert surveillance”” includes the use of covert human intelligence sources.
+
+###### Section B5 — B5 Crime, public order and policing
+
+**39** The prevention, detection and investigation of crime.
+
+**40** The maintenance of public order.
+
+**41** Policing.
+
+**42** Police and crime commissioners.
+
+*Exception*
+
+Powers of entry, search and seizure relating to the detection or investigation of an offence of a kind provision for the creation of which is within the [[^F2]Senedd's] legislative competence.
+
+###### Section B6 — B6 Anti-social behaviour
+
+**43** The subject-matter of Parts 1 to 4 and 6 of the Anti-social Behaviour, Crime and Policing Act 2014.
+
+**44** Dangerous dogs and dogs dangerously out of control.
+
+###### Section B7 — B7 Modern Slavery
+
+**45** The subject-matter of the Modern Slavery Act 2015.
+
+###### Section B8 — B8 Prostitution
+
+**46** Prostitution.
+
+###### Section B9 — B9 Emergency powers
+
+**47** Emergency powers.
+
+###### Section B10 — B10 Extradition
+
+**48** Extradition.
+
+###### Section B11 — B11 Rehabilitation of offenders
+
+**49** The subject-matter of the Rehabilitation of Offenders Act 1974.
+
+###### Section B12 — B12 Criminal records
+
+**50** Criminal records, including disclosure and barring.
+
+###### Section B13 — B13 Dangerous items
+
+**51** The subject-matter of the Firearms Acts 1968 to 1997.
+
+**52** The subject-matter of the Poisons Act 1972.
+
+**53** Knives.
+
+*Interpretation*
+
+“"Knives”” includes—
+
+- (a) knife blades and razor blades;
+- (b) axes;
+- (c) swords.
+
+###### Section B14 — B14 Misuse of and dealing in drugs or psychoactive substances
+
+**54** Misuse of and dealing in drugs or psychoactive substances.
+
+*Interpretation*
+
+“"Psychoactive substances”” has the meaning given in section 2 of the Psychoactive Substances Act [[^F511]2016].
+
+###### Section B15 — B15 Private security
+
+**55** Private security.
+
+###### Section B16 — B16 Entertainment and late night refreshment.
+
+**56** Classification of films and video recordings (including video games).
+
+**57** Licensing of—
+
+(a) the provision of entertainment, and
+
+(b) late night refreshment.
+
+###### Section B17 — B17 Alcohol
+
+**58** The sale and supply of alcohol.
+
+###### Section B18 — B18 Betting, gaming and lotteries
+
+**59** Betting, gaming and lotteries.
+
+*Exception*
+
+In the case of a betting premises licence under the Gambling Act 2005, other than one in respect of a track, the number of gaming machines authorised for which the maximum charge for use is more than £10 (or whether such machines are authorised).
+
+###### Section B19 — B19 Hunting
+
+**60** Hunting with dogs.
+
+###### Section B20 — B20 Scientific and educational procedures on live animals
+
+**61** Procedures on live animals for scientific or educational purposes.
+
+###### Section B21 — B21 Lieutenancies
+
+**62** Lieutenancies.
+
+###### Section B22 — B22 Charities and fund-raising
+
+**63** Charities.
+
+**64** Raising funds for charitable, benevolent or philanthropic purposes.
+
+*Interpretation*
+
+“"Funds”” includes property other than money.
+
+##### Head C—Trade and Industry
+
+###### Section C1 — C1 Business associations and business names
+
+**65** The creation, operation, regulation and dissolution of types of business association.
+
+**66** The regulation of the name under which an individual or business association carries on business.
+
+*Exception*
+
+The creation, operation, regulation and dissolution of particular public bodies, or public bodies of a particular type, established by or under any enactment.
+
+*Interpretation*
+
+- “"Business association”” means any entity, whether or not a legal person, that is not an individual (including a body corporate, partnership or other unincorporated association) and is established for the purpose of carrying on any kind of business, whether or not for profit.
+- “"Business”” includes the provision of benefits to the members of an association.
+
+###### Section C2 — C2 Insolvency and winding up
+
+**67** Insolvency.
+
+**68** Winding up solvent business associations.
+
+*Interpretation*
+
+“"Business association”” has the same meaning as in Section C1.
+
+###### Section C3 — C3 Competition
+
+**69** Regulation of anti-competitive practices and agreements; abuse of dominant position; monopolies and mergers.
+
+###### Section C4 — C4 Intellectual property
+
+**70** Intellectual property.
+
+*Exception*
+
+Plant varieties and seeds.
+
+###### Section C5 — C5 Import and export control
+
+**71** Prohibition and regulation of imports and exports
+
+*Exceptions*
+
+- Prohibition and regulation of movement into and out of Wales of food, plants, animals and related things for the purposes of—
+
+  - (a) protecting human, animal or plant health, animal welfare or the environment, or
+  - (b) observing or implementing obligations under the Common Agricultural Policy.
+
+- Prohibition and regulation of movement into and out of Wales of animal feeding stuffs, fertilisers or pesticides (or things treated by virtue of an enactment as pesticides) for the purposes of protecting human, animal or plant health or the environment.
+
+- But prohibition and regulation for the purposes of protecting endangered species of plants and animals is not excepted.
+
+*Interpretation*
+
+- “"Food”” has the same meaning as it has in Regulation (EC) No. 178/2002 of the European Parliament and of the Council of 28 January 2002 laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety.
+- “"Plants”” includes plant parts and derivatives and goods appearing to contain plant parts or derivatives (and the reference to endangered species of plants includes a reference to parts and derivatives of such species, and to goods appearing to contain parts or derivatives of such species).
+- “"Animals”” includes animal parts and derivatives and goods appearing to contain animal parts or derivatives (and the reference to endangered species of animals includes a reference to parts and derivatives of such species, and to goods appearing to contain parts or derivatives of such species).
+
+###### Section C6 — C6 Consumer protection
+
+**72** Regulation of—
+
+(a) the sale and supply of goods and services to consumers,
+
+(b) guarantees in relation to such goods and services,
+
+(c) hire-purchase, including the subject-matter of Part 3 of the Hire-Purchase Act 1964 (title to motor vehicles on hire-purchase or conditional sale),
+
+(d) trade descriptions,
+
+(e) advertising and price indications,
+
+(f) auctions and mock auctions of goods and services, and
+
+(g) hallmarking and gun barrel proofing.
+
+**73** Safety of, and liability for, services supplied to consumers.
+
+**74** The regulation of—
+
+(a) estate agents,
+
+(b) timeshares, and
+
+(c) [[^F512]linked travel arrangements within the meaning of the Package Travel and Linked Travel Arrangements Regulations 2018 (S.I. 2018/634)] and package holidays.
+
+**75** The regulation of—
+
+(a) unsolicited goods and services, and
+
+(b) trading schemes.
+
+**76** The subject-matter of Part 8 of the Enterprise Act 2002 (enforcement of certain consumer legislation).
+
+*Exceptions*
+
+- Food, food products and food contact materials.
+- Agricultural and horticultural produce, animals and animal products, seeds, animal feeding stuffs, fertilisers and pesticides (including anything treated as if it were a pesticide by virtue of an enactment).
+
+*Interpretation*
+
+- “"Food”” has the same meaning as in Section C5.
+- “"Food contact materials”” means materials and articles to which Regulation (EC) No. 1935/2004 of the European Parliament and of the Council of 27 October 2004 on materials and articles intended to come into contact with food and repealing Directives 80/590/EEC and 89/109/EEC applies.
+- “"Food products”” means residues, contaminants and anything used in the process of producing food which does not remain in the food.
+
+###### Section C7 — C7 Product standards, safety and liability
+
+**[[^F513]77** The subject matter of all technical standards and requirements in relation to products that had effect immediately before [[^F514]IP completion day] in pursuance of an obligation under EU law.]
+
+**78** The national accreditation body and the accreditation of bodies that certify or assess conformity to technical standards in relation to products or environmental management systems.
+
+**79** Product safety and liability.
+
+**80** Product labelling.
+
+*Exceptions*
+
+- Food, food products and food contact materials.
+- Agricultural and horticultural produce, animals and animal products, seeds, animal feeding stuffs, fertilisers and pesticides (including anything treated as if it were a pesticide by virtue of an enactment).
+
+*Interpretation*
+
+- “"Food”” has the same meaning as in Section C5.
+- “"Food contact materials”” and “"food products”” have the same meaning as in Section C6.
+- “"National accreditation body”” means the body appointed for the purposes of Article 4(1) of Regulation (EC) No. 765/2008 of the European Parliament and of the Council of 9 July 2008 setting out the requirements for accreditation and market surveillance relating to the marketing of products and repealing Regulation (EEC) No. 339/93.
+
+###### Section C8 — C8 Weights and measures
+
+**81** Units and standards of weight and measurement.
+
+**82** Regulation of trade so far as involving weighing, measuring and quantities.
+
+###### Section C9 — C9 Telecommunications and wireless telegraphy
+
+**83** Telecommunications and wireless telegraphy (including electromagnetic disturbance).
+
+**84** Internet services.
+
+**85** Electronic encryption.
+
+###### Section C10 — C10 Post
+
+**86** Postal services, post offices, the original holding company and any Post Office company.
+
+*Exception*
+
+Financial assistance for the provision of services (other than postal services and services relating to money or postal orders) to be provided from public post offices.
+
+*Interpretation*
+
+“"The original holding company”” and “"Post Office company”” have the same meaning as in Part 1 of the Postal Services Act 2011.
+
+###### Section C11 — C11 [[^F515]United Kingdom Research and Innovation and] Research Councils
+
+**87** [[^F516]United Kingdom Research and Innovation (“UKRI”), and] Research Councils within the meaning of the Science and Technology Act 1965, and the subject-matter of section 5 of that Act (funding of scientific research) so far as relating to [[^F517]UKRI and] those Councils.
+
+**88** The [^F518]... subject-matter of section 10 of [[^F519]the Higher Education Act 2004] (research in arts and humanities) so far as relating to [[^F520]UKRI].
+
+###### Section C12 — C12 Industrial development
+
+**89** The subject-matter of—
+
+(a) section 1 of the Industrial Development Act 1982 (assisted areas),
+
+(b) section 8(5) and (7) of that Act (limits on financial assistance to industry), and
+
+(c) section 13A of that Act (grants for improvement of electronic communications networks and services etc),
+
+and the Industrial Development Advisory Board.
+
+###### Section C13 — C13 Protection of trading and economic interests
+
+**90** The subject-matter of—
+
+(a) Part 2 of the Industry Act 1975 (powers in relation to transfer of control of important manufacturing undertakings), and
+
+(b) the Protection of Trading Interests Act 1980.
+
+###### Section C14 — C14 Assistance in connection with exports of goods and services etc
+
+**91** The Export Credits Guarantee Department.
+
+###### Section C15 — C15 Water and sewerage
+
+**92** Appointment and regulation of a water or sewerage undertaker whose area is not wholly or mainly in Wales.
+
+**93** Licensing and regulation of a water supply or sewerage licensee.
+
+*Exceptions*
+
+- Regulation of a water supply licensee in relation to licensed activities that use the supply system of a water undertaker whose area is wholly or mainly in Wales.
+- Regulation of a sewerage licensee in relation to licensed activities that use the sewerage system of a sewerage undertaker whose area is wholly or mainly in Wales.
+
+*Interpretation*
+
+- “"Sewerage licensee”” and “"water supply licensee”” have the same meaning as in the Water Industry Act 1991.
+- “"Supply system of a water undertaker”” has the meaning given in section 17B of that Act.
+- “"Sewerage system of a sewerage undertaker”” has the meaning given in section 17BA of that Act.
+
+###### Section C16 — C16 Pubs Code Adjudicator and the Pubs Code
+
+**94** The subject-matter of Part 4 of the Small Business, Enterprise and Employment Act 2015.
+
+###### Section C17 — C17 Sunday trading
+
+**95** Sunday trading.
+
+###### [[^F521]C18 Distortive or harmful subsidies
+
+Regulation of the provision of subsidies which are or may be distortive or harmful by a public authority to persons supplying goods or services in the course of a business.
+
+- “Public authority” means a person who exercises functions of a public nature.
+- “Subsidy” includes assistance provided to a person directly or indirectly by way of income or price support, grant, loan, guarantee, indemnity, the provision of goods or services and any other kind of assistance, whether financial or otherwise and whether actual or contingent.
+- A subsidy is provided “by a public authority” if it is provided by that authority directly or indirectly.
+- A subsidy is “distortive or harmful” if it distorts competition between, or otherwise causes harm or injury to, persons supplying goods or services in the course of a business, whether or not those persons are established in the United Kingdom.]
+
+##### Head D—Energy
+
+###### Section D1 — D1 Electricity
+
+**96** Generation, transmission, distribution and supply of electricity.
+
+###### Section D2 — D2 Oil and gas
+
+**97** Oil and gas, including—
+
+(a) the ownership of, exploration for and exploitation of deposits of oil and natural gas,
+
+(b) pipelines and offshore installations,
+
+(c) marine licensing and the regulation of works that may obstruct or endanger navigation, so far as relating to oil and gas exploration and exploitation,
+
+(d) restrictions on navigation, fishing and other activities to ensure safe operation of offshore activities,
+
+(e) liquefaction and regasification of gas,
+
+(f) the manufacture or production of gas, and
+
+(g) the conveyance, shipping and supply of gas.
+
+*Exceptions*
+
+- The granting and regulation of licences to search and bore for and get petroleum that, at the time of the grant of the licence, is within the Welsh onshore area, except for any consideration payable for such licences.
+- Access to land for the purpose of searching or boring for or getting petroleum under such a licence.
+- Marine licensing and the regulation of works that may obstruct or endanger navigation, so far as relating to searching or boring for or getting petroleum under such a licence.
+
+*Interpretation*
+
+- “"Petroleum”” means petroleum within the meaning given by section 1 of the Petroleum Act 1998 in its natural state in strata.
+- “"Welsh onshore area”” means the area of Wales that is within the baselines established by any Order in Council under section 1(1)(b) of the Territorial Sea Act 1987 (extension of territorial sea).
+
+###### Section D3 — D3 Coal
+
+**98** Coal, including—
+
+(a) the ownership and exploitation of coal,
+
+(b) deep and opencast coal mining,
+
+(c) subsidence relating to coal mining, and
+
+(d) water discharge from coal mines.
+
+*Exception*
+
+Land restoration.
+
+###### Section D4 — D4 Nuclear energy
+
+**99** Nuclear energy and nuclear installations, including—
+
+(a) nuclear safety, security and safeguards, and
+
+(b) liability for nuclear occurrences.
+
+**100** The Office for Nuclear Regulation.
+
+###### Section D5 — D5 Heat and cooling
+
+**101** Production, distribution and supply of heat and cooling.
+
+*Exceptions*
+
+- Heat and cooling networks, but not the regulation of them.
+- Schemes providing incentives to generate or produce, or to facilitate the generation or production of, heat or cooling from sources of energy other than fossil fuel or nuclear fuel.
+
+*Interpretation*
+
+“"Heat and cooling network”” means a system or network by which steam, hot water or chilled liquid is distributed from a central source for supplying heat or cooling to various consumers or premises.
+
+###### Section D6 — D6 Energy conservation
+
+**102** Energy conservation.
+
+*Exception*
+
+The encouragement of energy efficiency otherwise than by prohibition or regulation.
+
+##### Head E—Transport
+
+###### Section E1 — E1 Road transport
+
+**103** Road freight transport services in the United Kingdom (including goods vehicles operator licensing).
+
+**104** Regulation of the construction and equipment of motor vehicles and trailers, and regulation of the use of motor vehicles and trailers on roads.
+
+**105** Road traffic offences.
+
+**106** Driver licensing (including training, testing and certification).
+
+**107** Driving instruction.
+
+**108** Drivers' hours.
+
+**109** Traffic regulation on special roads, other than regulation relating to speed limits or traffic signs.
+
+**110** Exemptions from speed limits.
+
+**111** The application of traffic signs or pedestrian crossings to vehicles being used for a purpose that gives rise to an exemption from speed limits in Wales.
+
+**112** International road transport services for passengers or goods.
+
+**113** Public service vehicle operator licensing.
+
+**114** Documents relating to vehicles and drivers for the purposes of travel abroad and vehicles brought temporarily into Wales by persons resident outside the United Kingdom.
+
+**115** Vehicle insurance and vehicle registration.
+
+**116** The subject-matter of Parts 2 and 3 of the Severn Bridges Act 1992 so far as relating to the second Severn crossing.
+
+*Exceptions*
+
+- The subject-matter of Part 6 of the Traffic Management Act 2004 (civil enforcement of traffic contraventions).
+- Regulation relating to trunk road charging schemes.
+- Regulation relating to the descriptions of motor vehicles and trailers that may be used under arrangements for persons to travel to and from the places where they receive education or training, unless the regulation is the setting of technical standards for construction or equipment of motor vehicles or trailers which differ from the standards that would or might otherwise apply to them.
+- Regulation of the carriage of animals in motor vehicles or trailers for the purposes of protecting human, animal or plant health, animal welfare or the environment.
+- Licensing of taxis, taxi drivers, private hire vehicles, private hire vehicle drivers and private hire vehicle operators (but not enforcement by means of penalty points).
+
+*Interpretation*
+
+- “"Second Severn crossing”” means the bridge referred to as the new bridge in the Severn Bridges Act 1992.
+- “"Trunk road charging schemes”” means schemes for imposing charges in respect of the use or keeping of vehicles on trunk roads in Wales (other than schemes in relation to the second Severn crossing).
+
+###### Section E2 — E2 Rail transport
+
+**117** Railway services.
+
+**118** The subject-matter of the Channel Tunnel Act 1987.
+
+*Exception*
+
+Financial assistance so far as relating to railway services; but this exception does not apply in relation to—
+
+- (a) financial assistance relating to the carriage of goods,
+- (b) financial assistance made in connection with a railway administration order, or
+- (c) financial assistance made in connection with [[^F522]the Public Service Obligations in Transport Regulations 2023].
+
+*Interpretation*
+
+“"Railway services”” has the meaning given by section 82 of the Railways Act 1993 (excluding the wider meaning of ““railway”” given by section 81(2) of that Act).
+
+###### Section E3 — E3 Marine and waterway transport etc
+
+**119** Navigational rights and freedoms.
+
+**120** Shipping and technical and safety standards of vessels that are not ships (whether or not capable of navigation), including the subject-matter of—
+
+(a) section 2 of the Protection of Wrecks Act 1973 (prohibition on approaching dangerous wrecks),
+
+(b) the Dangerous Vessels Act 1985, and
+
+(c) the Merchant Shipping Act 1995.
+
+**121** Reserved trust ports and harbours not wholly in Wales.
+
+**122** Pilotage other than devolved pilotage.
+
+**123** Coastguard services and maritime search and rescue.
+
+**124** Hovercraft.
+
+*Exceptions*
+
+- The reference to navigational rights and freedoms does not reserve the regulation of works that may obstruct or endanger navigation apart from works in relation to, or for constructing, reserved trust ports or harbours not wholly in Wales.
+- The reference to maritime search and rescue does not reserve participation by Welsh fire and rescue authorities in maritime search and rescue responses.
+- Financial assistance for shipping services to, from or within Wales.
+- Regulation of the carriage of animals on vessels for the purposes of protecting human, animal or plant health, animal welfare or the environment.
+
+*Interpretation*
+
+- “"Devolved pilotage”” means pilotage that —
+
+  - (a) relates to a harbour wholly in Wales that is not a reserved trust port, and
+  - (b) is provided in a pilotage jurisdiction that does not extend beyond Wales.
+
+- “"Pilotage jurisdiction”” means an area in relation to which the duty of a competent harbour authority under section 2(1) of the Pilotage Act 1987 is exercisable.
+
+- “"Reserved trust port”” has the meaning given by section 32 of the Wales Act 2017.
+
+###### Section E4 — E4 Air transport
+
+**125** Aviation, air transport, airports and aerodromes.
+
+*Exceptions*
+
+- Financial assistance to providers or proposed providers of air transport services or airport facilities or services.
+- Strategies by the Welsh Ministers or local or other public authorities about provision of air services.
+- Regulation of the carriage of animals on aircraft for the purposes of protecting human, animal or plant health, animal welfare or the environment.
+
+###### Section E5 — E5 Transport security
+
+**126** Transport security.
+
+*Exception*
+
+Regulation of transport security relating to the carriage of adults who supervise persons travelling to and from the places where they receive education or training.
+
+###### Section E6 — E6 Other matters
+
+**127** Technical specifications for public passenger transport for disabled persons, including the subject-matter of—
+
+(a) section 125(7) and (8) of the Transport Act 1985 (Secretary of State's guidance and consultation with the Disabled Persons Transport Advisory Committee), and
+
+(b) Part 12 of the Equality Act 2010 (disabled persons: transport).
+
+**128** Technical specifications for fuel or other energy sources or processes for use in road, rail, marine, waterway or air transport.
+
+**129** Carriage of dangerous goods (including transport of radioactive material).
+
+*Interpretation*
+
+“"Radioactive material”” means any material having a specific activity in excess of—
+
+- (a) 0.1 kilobecquerels per kilogram, or
+- (b) such other specific activity (not exceeding 70 kilobecquerels per kilogram) as may be specified in regulations made by the Secretary of State.
+
+##### Head F—Social Security, Child Support, Pensions and Compensation
+
+###### Section F1 — F1 Social security schemes
+
+**130** Social security schemes supported from public funds.
+
+**131** Requiring persons—
+
+(a) to establish and administer, or make payments to or in respect of, social security schemes, and
+
+(b) to keep records and supply information in connection with social security schemes.
+
+*Exceptions*
+
+- The provision by a local authority of financial assistance to or in respect of an individual in respect of costs of meeting his or her needs for care or support that the authority would otherwise meet in some other way (for example, by providing accommodation, facilities or services).
+- The deferral of payment due to a local authority from an individual in respect of costs of, or financial assistance for, meeting that or another individual's needs for care or support.
+
+*Interpretation*
+
+- “"Social security schemes”” means schemes providing financial assistance for social security purposes to or in respect of individuals, including, in particular, providing such assistance to or in respect of individuals—
+
+  - (a) who qualify by reason of old age, survivorship, disability, sickness, incapacity, injury, unemployment, maternity or the care of children or others needing care,
+  - (b) who qualify by reason of low income, or
+  - (c) in relation to their housing costs.
+
+- “"Payments to or in respect of social security schemes”” includes national insurance contributions.
+
+###### Section F2 — F2 Child Support
+
+**132** Child support maintenance.
+
+**133** Collection and enforcement of—
+
+(a) periodical payments, other than child support maintenance, that are payable for the benefit of a child (““other maintenance””), and
+
+(b) periodical payments, other than child support maintenance or other maintenance, that are—
+
+(i) payable to or for the benefit of any person, and
+
+(ii) collected or enforced where child support maintenance or other maintenance is also collected.
+
+###### Section F3 — F3 Occupational and Personal Pensions
+
+**134** Occupational and personal pensions.
+
+*Exception*
+
+Occupational and personal pension schemes for or in respect of—
+
+- (a) [[^F9]Members of the Senedd] , the First Minister, Welsh Ministers appointed under section 48, the Counsel General and Deputy Welsh Ministers, and
+- (b) members of local authorities,
+
+but pensions regulation in relation to such schemes is not excepted.
+
+*Interpretation*
+
+- “"Local authority”” includes a fire and rescue authority, a National Park authority and a conservation board for an area of outstanding natural beauty.
+- “"Occupational and personal pensions”” includes pension protection.
+- “"Pension”” includes gratuities and allowances.
+- “"Pensions regulation”” means the regulation of occupational and personal pensions, including regulation in respect of members, employers, trustees or managers.
+
+###### Section F4 — F4 Public sector compensation
+
+**135** Compensation for or in respect of public sector workers in respect of—
+
+(a) incapacity or death as a result of injury or illness,
+
+(b) loss of office or employment, or
+
+(c) loss or diminution of emoluments.
+
+**136** Regulation of amounts payable, or paid, to or in respect of public sector workers in consequence of leaving office or employment (including requirements that such amounts be repaid).
+
+*Exception*
+
+Schemes for the payment of compensation, and regulation of amounts as mentioned in paragraph 136, for or in respect of—
+
+- (a) [[^F9]Members of the Senedd] , the First Minister, Welsh Ministers appointed under section 48, the Counsel General and Deputy Welsh Ministers, and
+- (b) members of local authorities.
+
+*Interpretation*
+
+- “"Compensation”” includes pensions, grants, allowances, supplements and gratuities.
+- “"Local authority”” includes a fire and rescue authority, a National Park authority and a conservation board for an area of outstanding natural beauty.
+- “"Public sector worker”” means a person holding office or employed in the public sector.
+
+###### Section F5 — F5 Armed forces compensation etc
+
+**137** Compensation for or in respect of members of the naval, military or air forces of the Crown (including reserve forces) in respect of—
+
+(a) injury, illness or death in consequence of or whilst in service,
+
+(b) ceasing to be a member of the forces, or
+
+(c) loss or diminution of emoluments.
+
+**138** Regulation of amounts payable, or paid, to or in respect of members of the naval, military or air forces of the Crown (including reserve forces) in consequence of ceasing to be a member of the forces (including requirements that such amounts be repaid).
+
+**139** The subject-matter of any scheme under the Personal Injuries (Emergency Provisions) Act 1939, sections 3 to 5 and 7 of the Pensions (Navy, Army, Air Force and Mercantile Marine) Act 1939 or section 1 of the Polish Resettlement Act 1947.
+
+*Interpretation*
+
+“"Compensation”” includes pensions, grants, allowances, supplements and gratuities.
+
+##### Head G—Professions
+
+###### Section G1 — G1 Architects, auditors, health professionals and veterinary surgeons
+
+**140** Regulation of—
+
+(a) the profession of architect,
+
+(b) the profession of auditor,
+
+(c) health professions, and
+
+(d) the profession of veterinary surgeon.
+
+*Exceptions*
+
+- Regulation of the social care profession.
+- Regulation of the social work profession.
+
+*Interpretation*
+
+“"Health professions”” means—
+
+- (a) the professions regulated by the following—
+
+  - the Medical Act 1983;
+  - the Dentists Act 1984;
+  - the Opticians Act 1989;
+  - the Osteopaths Act 1993;
+  - the Chiropractors Act 1994;
+  - the Nursing and Midwifery Order 2001 (S.I. 2002/253);
+  - the Health and Social Work Professions Order 2001 (S.I. 2002/254);
+  - the Pharmacy Order 2010 (S.I. 2010/231);
+
+- (b) any other profession concerned with the physical or mental health of individuals.
+
+##### Head H—Employment
+
+###### Section H1 — H1 Employment and industrial relations
+
+**141** Employment rights and duties and industrial relations, including the subject-matter of—
+
+(a) the Employers' Liability (Compulsory Insurance) Act 1969,
+
+(b) the Employment Agencies Act 1973,
+
+(c) the Pneumoconiosis etc (Workers' Compensation) Act 1979,
+
+(d) the Trade Union and Labour Relations (Consolidation) Act 1992,
+
+(e) the Employment Tribunals Act 1996,
+
+(f) the Employment Rights Act 1996,
+
+(g) the National Minimum Wage Act 1998,
+
+(h) the Working Time Regulations 1998 (S.I. 1998/1833),
+
+(i) the Employment Relations Act 1999,
+
+(j) the Transnational Information and Consultation of Employees Regulations 1999 (S.I. 1999/3323),
+
+(k) the Employment Act 2002,
+
+(l) the Gangmasters (Licensing) Act 2004,
+
+(m) the Employment Relations Act 2004,
+
+(n) the Work and Families Act 2006,
+
+(o) the Transfer of Undertakings (Protection of Employment) Regulations 2006 (S.I. 2006/246),
+
+(p) the Agency Workers Regulations 2010 (S.I. 2010/93), and
+
+(q) Part 2 of the Enterprise and Regulatory Reform Act 2013.
+
+*Exception*
+
+The subject-matter of the Agricultural Sector (Wales) Act 2014.
+
+###### Section H2 — H2 Industrial training boards
+
+**142** The following boards—
+
+(a) the Construction Industry Training Board;
+
+(b) the Engineering Construction Industry Training Board;
+
+(c) the Film Industry Training Board for England and Wales.
+
+###### Section H3 — H3 Job search and support
+
+**143** Arrangements for assisting persons to select, train for, obtain and retain employment, and to obtain suitable employees.
+
+*Exceptions*
+
+- Education.
+- Vocational, social and physical training.
+- Careers services.
+
+*Interpretation*
+
+- “"Employment”” includes—
+
+  - (a) work on a person's own account, and
+  - (b) employment of a disabled person (including work on the disabled person's own account) under special conditions;
+
+  and ““disabled person”” here has the same meaning as it has in the Equality Act 2010 as at the principal appointed day.
+
+- “"Employees”” includes partners and other business associates.
+
+##### Head J—Health, Safety and Medicines
+
+###### Section J1 — J1 Abortion
+
+**144** Abortion.
+
+###### Section J2 — J2 Xenotransplantation
+
+**145** Xenotransplantation.
+
+###### Section J3 — J3 Embryology, surrogacy and genetics
+
+**146** Human genetics, human fertilisation, human embryology and surrogacy arrangements.
+
+###### Section J4 — J4 Medicines, medical supplies, biological substances etc
+
+**147** Medicinal products, including manufacture, authorisations for use and regulation of prices.
+
+**148** Regulation of prices of other medical supplies.
+
+**149** Standards for, and testing of, biological substances (that is, substances the purity or potency of which cannot be adequately tested by chemical means).
+
+**150** Veterinary medicinal products, including manufacture, authorisations for use and regulation of prices.
+
+**151** Specified feed additives.
+
+**152** Animal feeding stuffs, in relation to—
+
+(a) the incorporation in them of veterinary medicinal products or specified feed additives;
+
+(b) matters arising in consequence of such incorporation.
+
+**153** Vaccine damage payments.
+
+*Interpretation*
+
+- “"Medical supplies”” has the same meaning as in section 260 of the National Health Service Act 2006.
+- “"Medicinal products”” has the same meaning as in the Human Medicines Regulations 2012 (S.I. 2012/1916).
+- “"Specified feed additives”” has the same meaning as in Schedule 5 to the Veterinary Medicines Regulations 2013 (S.I. 2013/2033).
+- “"Veterinary medicinal products”” has the same meaning as in those Regulations.
+
+###### Section J5 — J5 Welfare foods
+
+**154** Schemes established by regulations under section 13 of the Social Security Act 1988 (benefits under schemes for improving nutrition: pregnant women, mothers and children).
+
+###### Section J6 — J6 Health and safety
+
+**155** The subject-matter of Part 1 of the Health and Safety at Work etc. Act 1974.
+
+**156** The Health and Safety Executive and the Employment Medical Advisory Service.
+
+**157** Protection of the public from radiation.
+
+*Interpretation*
+
+For the purposes of the reservation of the subject-matter of Part I of the Health and Safety at Work etc. Act 1974—
+
+- (a) ““work”” and ““at work”” in that Part are to be taken to have the meaning they have on the principal appointed day;
+
+- (b) that subject-matter includes—
+
+  - (i) process fire precautions,
+  - (ii) fire precautions in relation to petroleum and petroleum spirit, and
+  - (iii) fire safety on ships and hovercraft, in mines and on offshore installations,
+
+  but does not include any other aspect of fire safety.
+
+##### Head K—Media, Culture and Sport
+
+###### Section K1 — K1 Media
+
+**158** Broadcasting and other media.
+
+**159** The British Broadcasting Corporation.
+
+###### Section K2 — K2 Public lending right
+
+**160** Public lending right.
+
+###### Section K3 — K3 Government Indemnity Scheme
+
+**161** Government indemnities for objects on loan.
+
+###### Section K4 — K4 Property accepted in satisfaction of tax
+
+**162** Payments to Her Majesty's Revenue and Customs in respect of property accepted in satisfaction of tax and the disposal of such property.
+
+###### Section K5 — K5 Sports grounds
+
+**163** Safety of sports grounds.
+
+##### Head L—Justice
+
+###### Section L1 — L1 The legal profession, legal services and claims management services
+
+**164** The legal profession and legal services.
+
+**165** Claims management services.
+
+###### Section L2 — L2 Legal aid
+
+**166** Legal aid.
+
+###### Section L3 — L3 Coroners
+
+**167** The subject-matter of Part 1 of the Coroners and Justice Act 2009.
+
+###### Section L4 — L4 Arbitration
+
+**168** Arbitration.
+
+###### Section L5 — L5 Mental capacity
+
+**169** The subject-matter of the Mental Capacity Act 2005.
+
+###### Section L6 — L6 Personal data
+
+**170** Protection of personal data.
+
+###### Section L7 — L7 Information rights
+
+**171** Public access to information held by a public authority.
+
+*Exception*
+
+Public access to information held by—
+
+- (a) the [[^F2]Senedd] ,
+- (b) the [[^F2]Senedd] Commission,
+- (c) the Welsh Government, or
+- (d) any Welsh public authority,
+
+unless supplied by a Minister of the Crown or government department and held in confidence.
+
+*Interpretation*
+
+- ““Public authority”” and ““held by a public authority””—
+
+  - (a) in relation to environmental information, have the same meaning as in the Environmental Information Regulations 2004 (S.I. 2004/3391);
+  - (b) otherwise, have the meaning given by section 3 of the Freedom of Information Act 2000.
+
+- “"Welsh public authority”” has the meaning given by section 83 of that Act, but does not include a reserved authority within the meaning given by paragraph 8 of Schedule 7B to this Act.
+
+###### Section L8 — L8 Public sector information
+
+**172** The subject-matter of—
+
+(a) the INSPIRE Regulations 2009 (S.I. 2009/3157);
+
+(b) the Re-use of Public Sector Information Regulations 2015 (S.I. 2015/1415).
+
+###### Section L9 — L9 Public records
+
+**173** The subject-matter of the Public Records Act 1958.
+
+###### Section L10 — L10 Compensation for persons affected by crime and miscarriages of justice
+
+**174** Compensation for—
+
+(a) persons affected by crime;
+
+(b) miscarriages of justice.
+
+###### Section L11 — Section L11 Prisons and offender management
+
+**175** (1) Prisons and other institutions for the detention of persons charged with or convicted of offences (““relevant institutions””).
+
+(2) The management of—
+
+(a) persons charged with or convicted of offences (whether or not detained in a relevant institution);
+
+(b) other persons required to be detained in a relevant institution.
+
+(3) This reservation includes probation, escort functions, transfers of persons between relevant institutions and the subject-matter of—
+
+(a) sections 47 to 49 of the Mental Health Act 1983 (transfer to hospital of prisoners) and the provisions of that Act relating to persons who are restricted patients within the meaning given by section 79 of that Act;
+
+(b) sections 37 to 42 of the Crime and Disorder Act 1998 (youth justice).
+
+*Exceptions*
+
+- Accommodation provided by or on behalf of a local authority for the purpose of restricting the liberty of children or young persons.
+- The provision of health care, social care, education, training or libraries.
+
+*Interpretation*
+
+- The reference to conviction in sub-paragraph (2) includes a finding in criminal proceedings that a person has committed an offence or done the act or made the omission charged.
+- “"Escort functions”” includes functions of the kind mentioned in section 80(1) of the Criminal Justice Act 1991.
+- “"Probation”” includes matters of the kind mentioned in section 1(1)(a) to (f) of the Offender Management Act 2007.
+
+###### Section L12 — L12 Family relationships and children
+
+**176** Marriage, civil partnership and cohabitation.
+
+**177** Parenthood, parental responsibility, child arrangements and adoption.
+
+**178** Proceedings and orders under Part 4 or 5 of the Children Act 1989 or otherwise relating to the care or supervision of children.
+
+**179** Civil remedies in respect of domestic violence, domestic abuse and female genital mutilation.
+
+*Exceptions*
+
+- Services and facilities relating to adoption, adoption agencies and their functions, other than functions of the Central Authority under the Hague Convention on Protection of Children and Co-operation in Respect of Intercountry Adoption.
+- Parental discipline.
+
+*Interpretation*
+
+“"Child arrangements”” includes the subject-matter of Part 2 of the Children Act 1989.
+
+###### Section L13 — L13 Gender recognition
+
+**180** Gender recognition.
+
+###### Section L14 — L14 Registration of births, deaths and places of worship
+
+**181** Registration of births and deaths and of places of worship.
+
+##### Head M—Land and Agricultural Assets
+
+###### Section M1 — M1 Registration of land
+
+**182** Registration of—
+
+(a) estates, interests and charges in or over land, and
+
+(b) associated actions, proceedings, writs and orders.
+
+*Exception*
+
+Fees for the registration of local land charges.
+
+###### Section M2 — M2 Registration of agricultural charges and debentures
+
+**183** The subject-matter of sections 9 and 14 of, and the Schedule to, the Agricultural Credits Act 1928.
+
+###### Section M3 — M3 Development and buildings
+
+**184** Planning (including the subject-matter of Parts 2 to 8 of the Planning Act 2008) but only in relation to—
+
+(a) relevant nationally significant infrastructure projects,
+
+(b) overhead electric lines other than devolved associated lines, and
+
+(c) railways other than railways that start, end and remain in Wales,
+
+except this does not affect the reservation of the subject-matter of sections 14 and 16 of the Harbours Act 1964 by paragraph 121.
+
+**185** Compensation in respect of—
+
+(a) the interference with rights in land by exercise of a statutory power;
+
+(b) depreciation in the value of land as a result of works or land provided or used in the exercise of a statutory power.
+
+**186** The regulation of—
+
+(a) the design and construction of buildings,
+
+(b) the demolition of buildings, and
+
+(c) services, fittings and equipment provided in or in connection with buildings,
+
+but only in relation to specified Crown land and specified undertaker land.
+
+*Interpretation*
+
+- “"Devolved associated line”” means an overhead line that—
+
+  - (a) is associated with a generating station that is or (when constructed or extended) is expected to be—
+  
+    - (i) in Wales or the Welsh zone, but
+    - (ii) not within section 15(3A) or (3B) of the Planning Act 2008, and
+  
+  - (b) has or will (when installed) have a nominal voltage no greater than 132 kilovolts.
+
+- “"Railway”” has the meaning given by section 67(1) of the Transport and Works Act 1992.
+
+- “"Relevant nationally significant infrastructure project”” means a project falling within paragraph (a), (c), (g) or (j) of section 14(1) of the Planning Act 2008.
+
+- “"Specified Crown land”” means land—
+
+  - (a) belonging to Her Majesty in right of the Crown;
+  - (b) belonging to Her Majesty in right of the Duchy of Lancaster;
+  - (c) belonging to the Duchy of Cornwall;
+  - (d) held or used by a Minister of the Crown or a government department.
+
+- “"Specified undertaker land”” means land held or used by a statutory undertaker in the exercise of a statutory power that relates to a matter in paragraph 96, 97(f) and (g), 99, 117, 121 or 125.
+
+##### Head N—Miscellaneous
+
+###### Section N1 — N1 Equal opportunities
+
+**187** Equal opportunities.
+
+*Exceptions*
+
+- The encouragement (other than by prohibition or regulation) of equal opportunities, and in particular of the observance of the equal opportunity requirements.
+
+- Imposing duties on any devolved Welsh authority to make arrangements with a view to securing that its functions are carried out with due regard to the need to meet the equal opportunity requirements.
+
+- Equal opportunities so far as relating to the inclusion of persons with particular protected characteristics in non-executive posts on boards of devolved Welsh authorities.
+
+- Equal opportunities in relation to the functions of any devolved Welsh authority, other than a function that relates to the inclusion of persons in non-executive posts on boards of devolved Welsh authorities.The provision falling within this exception does not include any modification of the Equality Act 2010, or of any subordinate legislation made under that Act, but does include—
+
+  - (a) provision that supplements or is otherwise additional to provision made by that Act;
+  - (b) in particular, provision imposing a requirement to take action which that Act does not prohibit;
+  - (c) provision that reproduces or applies an enactment contained in that Act, with or without modification, without affecting the enactment as it applies for the purposes of that Act.
+
+*Interpretation*
+
+- “"Board”” includes any other equivalent management body.
+- “"Equal opportunities”” means the prevention, elimination or regulation of discrimination between persons on grounds of sex or marital status, on racial grounds, or on grounds of disability, age, sexual orientation or social origin, or of other personal attributes, including beliefs or opinions, such as religious beliefs or political opinions, but not including language.
+- “"Equal opportunity requirements”” means the requirements of the law for the time being relating to equal opportunities.
+- “"Non-executive post””, in relation to an authority, means any position the holder of which is not an employee of the authority.
+- “"Protected characteristic”” has the same meaning as in the Equality Act 2010.
+- The references to the Equality Act 2010 and any subordinate legislation made under that Act are to be read as references to those enactments, as at the principal appointed day, but treating any provision of them that is not yet in force on that day as if it were in force.
+
+###### Section N2 — N2 Control of weapons
+
+**188** Control of nuclear, biological and chemical weapons and other weapons of mass destruction.
+
+###### Section N3 — N3 Ordnance Survey
+
+**189** Ordnance Survey.
+
+###### Section N4 — N4 Time
+
+**190** Timescales, time zones, the subject-matter of the Summer Time Act 1972, units of time, the calendar, bank holidays and the date of Easter.
+
+*Exception*
+
+The computation of periods of time.
+
+###### Section N5 — N5 Outer space
+
+**191** Activities connected with outer space.
+
+###### Section N6 — N6 Antarctica
+
+**192** Activities connected with Antarctica.
+
+*Interpretation*
+
+“"Antarctica”” has the meaning given in section 1 of the Antarctic Act 1994.
+
+###### Section N7 — N7 Deep sea bed mining
+
+**193** Activities for the purposes of deep sea bed mining operations.
+
+*Interpretation*
+
+“"Deep sea bed mining operations”” has the meaning given in section 17 of the Deep Sea Mining Act 1981.
+
+### Part 3 — General Provisions
+
+#### Devolved Welsh authorities etc
+
+**194** (1) This Schedule does not reserve—
+
+(a) the constitution of an authority that has reserved functions,
+
+(b) conferring or imposing (or giving power to confer or impose) accounting or public procurement functions on such an authority,
+
+(c) modifying or removing (or giving power to modify or remove) any accounting or public procurement functions of such an authority, or
+
+(d) conferring, imposing, modifying or removing (or giving power to confer, impose, modify or remove) functions specifically exercisable in relation to such an authority,
+
+if the authority is a devolved Welsh authority.
+
+(2) For the purposes of this paragraph—
+
+(a) “"authority”” means a body, office or holder of an office that has functions of a public nature (but does not include a court);
+
+(b) ““reserved functions”” are functions that relate to reserved matters;
+
+(c) the constitution of an authority includes the authority's establishment and dissolution, its assets and liabilities and its funding and receipts;
+
+(d) a function specifically exercisable in relation to an authority does not include a function specifically exercisable in relation to a particular reserved function of the authority.
+
+(3) Where the question whether an authority is a devolved Welsh authority is relevant to determining whether a provision of an Act of the [[^F2]Senedd] is within the [[^F2]Senedd's] legislative competence, the time for deciding the question is the time when the Act is passed.
+
+**195** (1) Paragraph 1 of this Schedule does not reserve an authority if—
+
+(a) its functions are exercisable only in relation to Wales, or
+
+(b) it is a devolved Welsh authority (whether or not its functions are exercisable only in relation to Wales),
+
+and it has no reserved functions.
+
+(2) In this paragraph “"authority”” and “"reserved functions”” have the same meaning as in paragraph 194.
+
+(3) In determining for the purposes of this paragraph whether functions of an authority are exercisable only in relation to Wales, no account is taken of any function that—
+
+(a) is exercisable otherwise than in relation to Wales, and
+
+(b) could (apart from paragraph 8 of Schedule 7B) be conferred or imposed by provision falling within the [[^F2]Senedd's] legislative competence (by virtue of section 108A(3)).
+
+[[^F523](3A) References in this paragraph to Wales include, in relation to a relevant function of an authority, the area of the Welsh zone beyond the seaward limit of the territorial sea.
+
+A function of an authority is “relevant” if it relates to fishing, fisheries or fish health.]
+
+(4) Where the conditions in sub-paragraph (1) are relevant to determining whether a provision of an Act of the [[^F2]Senedd] is within the [[^F2]Senedd's] legislative competence, the time for assessing whether those conditions are met is the time when the Act is passed.
+
+**196** Paragraph 194 applies in relation to a devolved tribunal (within the meaning of paragraph 9(2)) as it applies in relation to a devolved Welsh authority.
+
+#### Particular authorities
+
+**197** (1) The reservation of an authority to which this paragraph applies has effect to reserve—
+
+(a) its constitution, including its establishment and dissolution, its assets and liabilities and its funding and receipts;
+
+(b) conferring or imposing (or giving power to confer or impose) functions on it;
+
+(c) modifying or removing (or giving power to modify or remove) any of its functions;
+
+(d) conferring, imposing, modifying or removing (or giving power to confer, impose, modify or remove) functions specifically exercisable in relation to it.
+
+(2) This paragraph applies to—
+
+(a) a body reserved by name by Part 2 of this Schedule;
+
+(b) any of the companies reserved by Section C10 of that Part;
+
+(c) each of the councils reserved by Section C11 of that Part;
+
+(d) a police and crime commissioner;
+
+(e) the Commission for Equality and Human Rights.
+
+(3) This paragraph is subject to paragraphs 198 and 199.
+
+#### Welsh language functions
+
+**198** (1) This Schedule does not reserve—
+
+(a) conferring or imposing (or giving power to confer or impose) a Welsh language function on a person other than a court;
+
+(b) modifying or removing (or giving power to modify or remove) any Welsh language function of a person other than a court.
+
+(2) “"Welsh language function”” means a function in relation to the Welsh language.
+
+#### Council tax precepts
+
+**199** This Schedule does not reserve council tax precepts.
+
+#### Interpretation of Schedule
+
+**200** (1) References in this Schedule to the subject-matter of any enactment are to be read as references to the subject-matter of that enactment as it has effect on the principal appointed day or, if it ceased to have effect at any time within the period ending with that day and beginning with the passing of the Wales Act 2017, as it had effect immediately before that time.
+
+(2) For the purposes of sub-paragraph (1), any provision of an enactment that is not yet in force on the principal appointed day is treated as if it were in force on that day.
+
+(3) In this Schedule “"the principal appointed day”” has the same meaning as in section 71 of the Wales Act 2017.]
+
+## [[^F524]SCHEDULE 7B — General restrictions
+
+*Section 108A*
+
+### Part 1 — General restrictions
+
+#### The law on reserved matters
+
+**1** (1) A provision of an Act of the [[^F2]Senedd] cannot make modifications of, or confer power by subordinate legislation to make modifications of, the law on reserved matters.
+
+(2) “"The law on reserved matters”” means—
+
+(a) any enactment the subject-matter of which is a reserved matter and which is comprised in an Act of Parliament or subordinate legislation under an Act of Parliament, and
+
+(b) any rule of law which is not contained in an enactment and the subject-matter of which is a reserved matter,
+
+and in this sub-paragraph “"Act of Parliament”” does not include this Act.
+
+**2** (1) Paragraph 1 does not apply to a modification that—
+
+(a) is ancillary to a provision made (whether by the Act in question or another enactment) which does not relate to reserved matters, and
+
+(b) has no greater effect on reserved matters than is necessary to give effect to the purpose of that provision.
+
+(2) In determining what is necessary for the purposes of this paragraph, any power to make laws other than the power of the [[^F2]Senedd] is disregarded.
+
+#### Private law
+
+**3** (1) A provision of an Act of the [[^F2]Senedd] cannot make modifications of, or confer power by subordinate legislation to make modifications of, the private law.
+
+(2) “"The private law”” means the law of contract, agency, bailment, tort, unjust enrichment and restitution, property, trusts and succession.
+
+(3) In sub-paragraph (2) the reference to the law of property does not include intellectual property rights relating to plant varieties or seeds but does include the compulsory acquisition of property.
+
+(4) Sub-paragraph (1) does not apply to a modification that has a purpose (other than modification of the private law) which does not relate to a reserved matter.
+
+#### Criminal law
+
+**4** (1) A provision of an Act of the [[^F2]Senedd] cannot—
+
+(a) make modifications of, or confer power by subordinate legislation to make modifications of, an offence in a listed category;
+
+(b) create, or confer power by subordinate legislation to create, an offence in a listed category.
+
+(2) The listed categories of offences are—
+
+(a) treason and related offences;
+
+(b) homicide offences (including offences relating to suicide) and other offences against the person (including offences involving violence or threats of violence) that are triable only on indictment;
+
+(c) sexual offences (including offences relating to indecent or pornographic images);
+
+(d) offences of a kind dealt with by the Perjury Act 1911.
+
+(3) A provision of an Act of the [[^F2]Senedd] cannot make modifications of, or confer power by subordinate legislation to make modifications of, the law about—
+
+(a) criminal responsibility and capacity,
+
+(b) the meaning of intention, recklessness, dishonesty and other mental elements of offences,
+
+(c) inchoate and secondary criminal liability, or
+
+(d) sentences and other orders and disposals in respect of defendants in criminal proceedings, or otherwise in respect of criminal conduct, and their effect and operation.
+
+(4) For the purposes of this paragraph, a modification of the law relating to defences to an offence is a modification of the offence.
+
+(5) This paragraph does not affect the reservation, by virtue of Schedule 7A, of the creation or modification of offences in relation to reserved matters.
+
+(See also paragraph 8 of that Schedule (single legal jurisdiction of England and Wales).)
+
+#### Enactments other than this Act
+
+**5** (1) A provision of an Act of the [[^F2]Senedd] cannot make modifications of, or confer power by subordinate legislation to make modifications of, any of the provisions listed in the table below—
+
+|  |  |
+|---|---|
+| *Enactment* | *Provisions protected from modification* |
+| [^F525] . . . | [^F525] . . . |
+| Government of Wales Act 1998 | Section 144(7). |
+| Human Rights Act 1998 | The whole Act. |
+| Civil Contingencies Act 2004 | The whole Act. |
+| Energy Act 2008 | Section 100 and regulations under that section. |
+| [[^F526]The European Union (Withdrawal) Act 2018] | [[^F526]The whole Act] [[^F527]other than any excluded provision] . |
+| [[^F528]The United Kingdom Internal Market Act 2020 | The whole Act] |
+
+[[^F529](1A) For the purposes of the entry in the table in sub-paragraph (1) for the European Union (Withdrawal) Act 2018, the following are excluded provisions of that Act—
+
+(a) section 1B(3) and (4),
+
+(b) sections 8A to 8C,
+
+(c) section 10(3) and (4),
+
+(d) sections 13A and 13B,
+
+(e) sections 15A to 15C,
+
+(f) Parts 1A to 1C of Schedule 2, and
+
+(g) paragraphs 8A to 8G of Schedule 7.]
+
+(2) A provision of an Act of the [[^F2]Senedd] cannot, unless it is an oversight provision, make modifications of—
+
+(a) section 146A(1) of the Government of Wales Act 1998, or
+
+(b) sections 2(1) to (3), 3(2) to (4) or 6(2) and (3) of the Public Audit (Wales) Act 2013 (anaw 3),
+
+or confer power by subordinate legislation to do so.
+
+(3) A provision of an Act of the [[^F2]Senedd] cannot, unless it is an oversight provision and also a non-governmental committee provision—
+
+(a) make modifications of section 8(1) of the Public Audit (Wales) Act 2013 so far as that section relates to the Auditor General's exercise of functions free from the direction or control of the [[^F2]Senedd] or Welsh Government, or
+
+(b) confer power by subordinate legislation to do so.
+
+(4) An ““oversight provision”” is a provision of an Act of the [[^F2]Senedd] that—
+
+(a) relates to the oversight or supervision of the Auditor General or of the exercise of the Auditor General's functions, or
+
+(b) is ancillary to a provision falling within paragraph (a).
+
+(5) A ““non-governmental committee provision”” is a provision conferring functions on a committee of the [[^F2]Senedd] that—
+
+(a) does not consist of or include members of the Welsh Government, and
+
+(b) is not chaired by [[^F28]a Member of the Senedd] who is a member of a political group with an executive role,
+
+or a provision conferring power by subordinate legislation to do so.
+
+(6) A person designated under section 46(5) to exercise the functions of the First Minister is treated as a member of the Welsh Government for the purposes of sub-paragraph (5)(a).
+
+**6** A provision of an Act of the [[^F2]Senedd] cannot make modifications of, or confer power by subordinate legislation to make modifications of, any provision of an Act of Parliament other than this Act which requires sums required for the repayment of, or the payment of interest on, amounts borrowed by the Welsh Ministers to be charged on the Welsh Consolidated Fund.
+
+#### This Act
+
+**7** (1) A provision of an Act of the [[^F2]Senedd] cannot make modifications of, or confer power by subordinate legislation to make modifications of, provisions contained in this Act.
+
+(2) Sub-paragraph (1) does not apply to—
+
+(a) the following provisions in Part 1 (the [[^F2]Senedd])—
+
+(i) in section 1(1), the words from [[^F530]“Senedd Cymru”] to the end;
+
+(ii) section 1(2) to (5);
+
+(iii) section 2;
+
+(iv) section 3(1), (1B) and (2) to (4);
+
+(v) sections 4 to 20;
+
+(vi) section 22;
+
+(vii) section 23(2), (6) and (7);
+
+(viii) section 24;
+
+(ix) section 25(1)(b) and (2) to (15);
+
+(x) section 26(2) to (4);
+
+(xi) in section 27(1), the words from [[^F531]“the Senedd Commission”] to the end;
+
+(xii) section 27(2) to (4), (6) and (7);
+
+(xiii) section 28;
+
+(xiv) section 30;
+
+(xv) section 34(1) and (2);
+
+(xvi) sections 35 and 36;
+
+(xvii) sections 38 to 43;
+
+[^F532]xviii . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(xix) paragraphs 1, 2, 3(1), (2) and (4) to (7), 4 and 7 to 11 of Schedule 2;
+
+(b) the following provisions in Part 2 (the Welsh Government)—
+
+(i) sections [[^F533]51,] 53 and 54;
+
+(ii) sections 60 and 61;
+
+(iii) sections 72 to 75;
+
+(iv) sections 77 to 79;
+
+(v) section 91;
+
+(c) the following provisions in Part 4 (Acts of the [[^F2]Senedd])—
+
+(i) in section 107(1), the words from [[^F534]“Acts of Senedd Cymru”] to the end;
+
+(ii) section 110;
+
+(iii) section 111(1)(a) and (b), (2), (3) and (5);
+
+(d) the following provisions in Part 5 (finance)—
+
+(i) section 120(2);
+
+(ii) sections 125 to 130;
+
+(iii) sections 131 to 135;
+
+(iv) sections 137 to 143;
+
+(v) any provision of Schedule 8;
+
+(e) the following provisions in Part 6 (miscellaneous and supplementary)—
+
+(i) sections 146 to 148;
+
+[^F535]ii . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) Sub-paragraph (1) does not apply to any provision—
+
+(a) making modifications of so much of any enactment as is modified by this Act, or
+
+(b) repealing so much of any provision of this Act as amends any enactment, if the provision ceases to have effect in consequence of any provision of, or made under, an Act of the [[^F2]Senedd].
+
+(4) Sub-paragraph (1) does not apply to any provision that is consequential on or incidental to provision made by virtue of—
+
+(a) sub-paragraph (2)(a)(i) (change of name of the [[^F2]Senedd]),
+
+(b) sub-paragraph (2)(a)(xi) (change of name of the [[^F2]Senedd] Commission), or
+
+(c) sub-paragraph (2)(c)(i) (change of name of Acts of the [[^F2]Senedd]).
+
+(5) Sub-paragraph (1), so far as it applies in relation to a provision of Part 5 not listed in sub-paragraph (2)(d), or section 159, does not apply to a provision of an Act of the [[^F2]Senedd] if the provision is incidental to, or consequential on, a provision of an Act of the [[^F2]Senedd] relating to budgetary procedures or devolved taxes.
+
+(6) In sub-paragraph (5) ““budgetary procedures”” are procedures for a financial year relating to—
+
+(a) the authorisation of the amount of resources that may be used or retained in that year by relevant persons or pursuant to a relevant enactment,
+
+(b) the authorisation of the amount that may be paid out of the Welsh Consolidated Fund in that year to relevant persons or for use pursuant to a relevant enactment, or
+
+(c) the scrutiny of the use of the amounts so authorised under paragraph (a) or (b) or of the exercise of borrowing powers by the Welsh Ministers.
+
+(7) In sub-paragraph (6)—
+
+(a) the reference to the use of resources is a reference to their expenditure, consumption or reduction in value;
+
+(b) “"relevant persons”” means—
+
+(i) the Welsh Ministers,
+
+(ii) the First Minister,
+
+(iii) the Counsel General,
+
+(iv) the [[^F2]Senedd] Commission,
+
+(v) the Wales Audit Office, and
+
+(vi) the Public Service Ombudsman for Wales;
+
+(c) “"relevant enactment”” means an enactment that provides for payment out of the Welsh Consolidated Fund.
+
+(8) Sub-paragraph (1) does not apply in relation to a provision to which paragraph 5(3) applies.
+
+#### Ministers of the Crown, government departments and other reserved authorities
+
+**8** (1) A provision of an Act of the [[^F2]Senedd] cannot—
+
+(a) confer or impose, or confer power by subordinate legislation to confer or impose, any function on a reserved authority,
+
+(b) make modifications of, or confer power by subordinate legislation to make modifications of, the constitution of a reserved authority, including modifications relating to its assets and liabilities and its funding and receipts, or
+
+(c) confer, impose, modify or remove, or confer power by subordinate legislation to confer, impose, modify or remove, functions specifically exercisable in relation to a reserved authority,
+
+unless the appropriate Minister consents to the provision.
+
+(2) Sub-paragraph (1) is subject to the exceptions in paragraph 9.
+
+(3) In this paragraph “"reserved authority”” means—
+
+(a) a Minister of the Crown or government department;
+
+(b) any other public authority apart from a devolved Welsh authority.
+
+(4) In this paragraph “"public authority”” means a body, office or holder of an office that has functions of a public nature.
+
+(5) In this paragraph the “"appropriate Minister”” means—
+
+(a) where the authority in question is Her Majesty's Revenue and Customs, the Treasury;
+
+(b) otherwise, the Secretary of State.
+
+**9** (1) This paragraph contains exceptions to paragraph 8.
+
+(2) Paragraph 8(1)(a) does not apply in relation to—
+
+(a) the Electoral Commission;
+
+(b) the Food Standards Agency;
+
+(c) the Water Services Regulation Authority;
+
+(d) the Joint Committee on Vaccination and Immunisation;
+
+(e) the Human Tissue Authority;
+
+(f) the NHS Business Services Authority or Awdurdod Gwasanaethau Busnes y GIG;
+
+(g) NHS Blood and Transplant or Gwaed a Thrawsblaniadau'r GIG;
+
+(h) the Open University [[^F536];
+
+(i) the Controller of Plant Variety Rights].
+
+(3) Paragraph 8(1)(a) does not apply to the conferral or imposition on the traffic commissioners of a function relating to—
+
+(a) the registration of local bus services, or
+
+(b) the application and enforcement of traffic regulation conditions in relation to those services.
+
+(4) Paragraph 8(1)(a) does not apply to—
+
+(a) the conferral or imposition on a court of a devolved function [^F537]...;
+
+(b) the conferral or imposition on a tribunal of a function involving, or connected with, making a decision in relation to a matter that is not a reserved matter.
+
+[[^F538](4A) In sub-paragraph (4)(a), a “devolved function” is a function involving deciding an application or an appeal in relation to a matter that is not a reserved matter, but this does not include the function of deciding an appeal from a court or from a tribunal to which paragraph 9 of Schedule 7A applies (tribunals other than devolved tribunals).]
+
+(5) Paragraph 8(1)(c) does not apply to a provision to which paragraph 8(1)(a) applies or would apply but for sub-paragraph (2) of this paragraph.
+
+(6) Paragraph 8(1) does not apply in relation to—
+
+(a) a water or sewerage undertaker;
+
+(b) the Consumer Council for Water;
+
+(c) the Chief Inspector of Drinking Water for Wales or any other person appointed by the Welsh Ministers under section 86 of the Water Industry Act 1991 (assessors for the enforcement of water quality);
+
+[[^F539](d) an electoral registration officer (within the meaning of section 8 of the Representation of the People Act 1983).]
+
+(7) Paragraph 8(1) does not apply in relation to the funding of police and crime commissioners through council tax precepts.
+
+[[^F540](8) Paragraph 8(1)(c) does not apply to a provision of an Act of the Senedd which removes, or confers power by subordinate legislation to remove, a function specifically exercisable in relation to a Minister of the Crown where that function is the giving of consent by the Welsh Ministers and that function—
+
+(a) exists to any extent by virtue of regulations made under sections 8 to 8C of the European Union (Withdrawal) Act 2018; or
+
+(b) is conferred by, or by regulations made under—
+
+(i) the European Union (Withdrawal Agreement) Act 2020;
+
+(ii) the Direct Payments to Farmers (Legislative Continuity) Act 2020;
+
+(iii) the Coronavirus Act 2020;
+
+(iv) the Agriculture Act 2020;
+
+(v) the Fisheries Act 2020; [^F541]...
+
+(vi) an Act of Parliament resulting from the Trade Bill that was introduced into the House of Commons on 19th March 2020 [[^F542]; [^F543]...
+
+(vii) the Environment Act 2021]; [^F544]...
+
+[[^F545](viii) the Procurement Act 2023.] [^F546]...
+
+[[^F547](viii) Chapter 1 of Part 3 or Part 6 of the Levelling-up and Regeneration Act 2023] [[^F548];
+
+(ix) the Animal Welfare (Livestock Exports) Act 2024] [[^F549]; or
+
+(x) the Product Regulation and Metrology Act 2025.]
+
+(9) Paragraph 8(1)(c) does not apply to a provision of an Act of the Senedd which removes, or confers power by subordinate legislation to remove, a function specifically exercisable in relation to a Minister of the Crown where that function is the seeking of consent, or consultation, by the Welsh Ministers, in relation to the exercise by the Welsh Ministers of a function that is to any extent exercisable concurrently with a Minister of the Crown, and is conferred by, or by regulations made under—
+
+(a) the European Union (Withdrawal Agreement) Act 2020;
+
+(b) the Fisheries Act 2020; [^F550]...
+
+(c) an Act of Parliament resulting from the Trade Bill that was introduced into the House of Commons on 19th March 2020] [[^F551]; or
+
+[^F552]d . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .]
+
+**10** (1) A provision of an Act of the [[^F2]Senedd] cannot remove or modify, or confer power by subordinate legislation to remove or modify, any function of a public authority other than a devolved Welsh authority, unless the appropriate Minister consents to the provision.
+
+(2) This paragraph does not apply in relation to—
+
+(a) a Minister of the Crown (as to which, see paragraph 11);
+
+(b) the Electoral Commission;
+
+(c) the Food Standards Agency;
+
+(d) the Water Services Regulation Authority;
+
+(e) a water or sewerage undertaker;
+
+(f) the Consumer Council for Water;
+
+(g) the Chief Inspector of Drinking Water for Wales or any other person appointed by the Welsh Ministers under section 86 of the Water Industry Act 1991 (assessors for the enforcement of water quality);
+
+(h) the Joint Committee on Vaccination and Immunisation;
+
+(i) the Human Tissue Authority;
+
+(j) the NHS Business Services Authority or Awdurdod Gwasanaethau Busnes y GIG;
+
+(k) NHS Blood and Transplant or Gwaed a Thrawsblaniadau'r GIG;
+
+(l) the Open University;
+
+[[^F553](m) an electoral registration officer (within the meaning of section 8 of the Representation of the People Act 1983)];
+
+[[^F554](n) the Controller of Plant Variety Rights.]
+
+(3) This paragraph does not apply to the removal or modification of a function of the traffic commissioners relating to—
+
+(a) the registration of local bus services, or
+
+(b) the application and enforcement of traffic regulation conditions in relation to those services.
+
+(4) This paragraph does not apply to—
+
+(a) the removal or modification of a devolved function [^F555]... of a court;
+
+(b) the removal or modification of a function of a tribunal involving, or connected with, making a decision in relation to a matter that is not a reserved matter.
+
+(5) This paragraph does not apply in relation to the funding of police and crime commissioners through council tax precepts.
+
+(6) In this paragraph “"public authority”” and “"appropriate Minister”” have the same meaning as in paragraph 8.
+
+[[^F556](7) In this paragraph “devolved function” has the same meaning as in paragraph 9(4A).]
+
+**11** (1) A provision of an Act of the [[^F2]Senedd] cannot remove or modify, or confer power by subordinate legislation to remove or modify—
+
+(a) any function of a Minister of the Crown that relates to a qualified devolved function,
+
+(b) any function of a Minister of the Crown exercisable in relation to the Welsh language,
+
+(c) any function of a Minister of the Crown exercisable in relation to water supply, water quality, water resources management, control of pollution of water resources, sewerage, rivers and other watercourses, land drainage, flood risk management or coastal protection,
+
+(d) any function of a Minister of the Crown under Chapter 1 of Part 3, or section 58, of the Marine and Coastal Access Act 2009,
+
+(e) any power of the Secretary of State under section 6 of the Railways Act 2005 (financial assistance relating to railway services etc), or
+
+(f) any function of the Treasury under section 138(2) or 141(4),
+
+unless the appropriate Minister consents to the provision.
+
+(2) A provision of an Act of the [[^F2]Senedd] cannot remove or modify, or confer power by subordinate legislation to remove or modify, any function of a Minister of the Crown not falling within sub-paragraph (1) unless the Welsh Ministers have consulted the appropriate Minister about the provision.
+
+[[^F557](2A) Where sub-paragraph (1)(a) does not apply by virtue of sub-paragraph (6) or (7), a provision of an Act of the Senedd cannot remove, or confer power by subordinate legislation to remove, any function unless the Welsh Ministers have consulted the appropriate Minister about the provision.]
+
+(3) In this paragraph “"qualified devolved function”” means a function that—
+
+(a) is conferred or imposed on or transferred to the Welsh Ministers, the First Minister or the Counsel General by any Act (whenever passed) or by an instrument made under any Act (whenever made), and
+
+(b) is to any extent exercisable—
+
+(i) concurrently or jointly with a Minister of the Crown, or
+
+(ii) only with the consent or agreement of, or after consultation with, a Minister of the Crown.
+
+(4) For the purposes of sub-paragraph (1)(a)—
+
+(a) the functions of a Minister of the Crown that ““relate to”” qualified devolved functions within sub-paragraph (3)(b)(i) are the qualified devolved functions so far as exercisable by the Minister;
+
+(b) the functions of a Minister of the Crown that ““relate to”” qualified devolved functions within sub-paragraph (3)(b)(ii) are those concerning consent or agreement to, or consultation about, the exercise of the qualified devolved functions.
+
+(5) In this paragraph “"appropriate Minister”” has the same meaning as in paragraph 8.
+
+[[^F558](6) Sub-paragraph (1)(a) does not apply to a provision of an Act of the Senedd which removes, or confers power by subordinate legislation to remove, any function of a Minister of the Crown that is to any extent exercisable concurrently where that function—
+
+(a) exists to any extent by virtue of regulations made under sections 8 to 8C of the European Union (Withdrawal) Act 2018; or
+
+(b) is conferred by, or by regulations made under—
+
+[[^F559](ai) section 79 of the New Roads and Street Works Act 1991;]
+
+(i) the European Union (Withdrawal Agreement) Act 2020;
+
+(ii) the Direct Payments to Farmers (Legislative Continuity) Act 2020;
+
+(iii) the Coronavirus Act 2020;
+
+(iv) the Agriculture Act 2020;
+
+(v) the Fisheries Act 2020; [^F560]...
+
+(vi) an Act of Parliament resulting from the Trade Bill that was introduced into the House of Commons on 19th March 2020 [[^F561]; [^F562]...
+
+(vii) the Environment Act 2021] [[^F563]; [^F564]...
+
+(viii) section 28 of the Commercial Rent (Coronavirus) Act 2022] [[^F565]; [^F566]...
+
+(ix) the Professional Qualifications Act 2022] [[^F567]; [^F568]...]
+
+[^F569][[^F570]x . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F571]...
+
+(xi) Chapter 1 of Part 3 or Part 6 of the Levelling-up and Regeneration Act 2023] [[^F572], [^F573]...
+
+(xii) the Procurement Act 2023] [[^F574]; [^F575]...
+
+(xiii) the Animal Welfare (Livestock Exports) Act 2024] [[^F576]; or
+
+(xiv) section 243 of the Crime and Policing Act 2026.]
+
+(7) Sub-paragraph (1)(a) does not apply to a provision of an Act of the Senedd which removes, or confers power by subordinate legislation to remove, any function of a Minister of the Crown, where that function concerns consent or agreement to, or consultation about, the exercise of a function that is to any extent exercisable concurrently with a Minister of the Crown and is conferred by, or by regulations made under—
+
+(a) the European Union (Withdrawal Agreement) Act 2020; or
+
+(b) the Fisheries Act 2020; or
+
+(c) an Act of Parliament resulting from the Trade Bill that was introduced into the House of Commons on 19th March 2020.
+
+(8) Sub-paragraphs (6) and (7) do not have effect in relation to a function of a Minister of the Crown to regulate British fishing boats in the Welsh zone.
+
+(9) In sub-paragraph (8), the reference to British fishing boats does not include Welsh fishing boats; and “British fishing boat” and “Welsh fishing boat” have the same meaning as in section 52 of the Fisheries Act 2020.]
+
+**12** (1) In any enactment (whenever passed or made) not contained in this Act —
+
+(a) a reference to provision within the legislative competence of the [[^F2]Senedd] does not include provision that could be made in an Act of the [[^F2]Senedd] only with the consent of a Minister of the Crown (under paragraph 8, 10 or 11 or otherwise);
+
+(b) a reference to provision outside that competence includes provision that could be made in an Act of the [[^F2]Senedd] only with such consent.
+
+(2) But paragraph 11(2) is to be ignored for the purposes of any such references.
+
+### Part 2 — General exceptions from Part 1
+
+#### Restatement
+
+**13** (1) Part 1 does not prevent an Act of the [[^F2]Senedd] —
+
+(a) restating the law (or restating it with such modifications as are not prevented by that Part), or
+
+(b) repealing or revoking any spent enactment,
+
+or conferring power by subordinate legislation to do so.
+
+(2) For the purposes of paragraph 1, the law on reserved matters includes any restatement in an Act of the [[^F2]Senedd] or an Assembly Measure, or subordinate legislation under such an Act or Measure, of the law on reserved matters if the subject-matter of the restatement is a reserved matter.
+
+#### Subordinate legislation
+
+**14** Part 1 does not prevent an Act of the [[^F2]Senedd] making modifications of, or conferring power by subordinate legislation to make modifications of, an enactment for or in connection with any of the following purposes—
+
+(a) making different provision about the document by which a power to make, confirm or approve subordinate legislation is to be exercised;
+
+(b) making provision (or no provision) for the procedure, in relation to the [[^F2]Senedd] , to which legislation made in the exercise of such a power (or the instrument or other document in which it is contained) is to be subject;
+
+(c) applying any enactment comprised in or made under an Act of the [[^F2]Senedd] relating to the documents by which such powers may be exercised.]
+
+## SCHEDULE 8 — Auditor General for Wales
+
+*Section 145*
+
+### Appointment
+
+**[^F577]1** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Tenure
+
+**[^F578]2** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Independence and status
+
+**[^F579]3** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Corporation sole
+
+**[^F580]4** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Documents
+
+**[^F581]5** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Remuneration
+
+**[^F582]6** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Staff
+
+**[^F583]7** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Exercise of functions by staff etc.
+
+**[^F584]8** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Special finance provisions
+
+**[^F585]9** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Borrowing
+
+**[^F586]10** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Fees
+
+**[^F587]11** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Estimates
+
+**[^F588]12** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Accounts
+
+**[^F589]13** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Auditor
+
+**[^F590]14** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Audit of accounts
+
+**[^F591]15** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Accounting officer
+
+**[^F592]16** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Access to documents
+
+**17** (1) The Auditor General has a right of access at all reasonable times to every document relating to a relevant person which appears to the Auditor General necessary—
+
+(a) for the purposes of the Auditor General's examination of any auditable accounts,
+
+(b) for the purposes of undertaking studies under section 145A (studies for improving economy etc. in services provided by relevant bodies) or 145C (studies relating to registered social landlords) of the Government of Wales Act 1998 (c. 38), or
+
+(c) for the purposes of carrying out, in accordance with any provision made by or by virtue of this or any other [[^F593]enactment], other examinations or studies into the economy, efficiency and effectiveness with which a person has used resources in discharging the person's functions.
+
+(2) The documents relating to a relevant person to which the right conferred by sub-paragraph (1) applies include (in particular)—
+
+(a) a document which is in the possession, or under the control, of a person who has received financial assistance from the relevant person by means of a grant, loan or guarantee or as a result of the taking of an interest in any property or body corporate,
+
+(b) a document which is in the possession, or under the control, of a person who has supplied goods or services to the relevant person in pursuance of a contract to which the relevant person was party or has supplied goods or services in pursuance of a relevant sub-contract, and
+
+(c) a document of a description specified in an order made by the Welsh Ministers.
+
+(3) The Auditor General may require a person whom the Auditor General thinks has information of the kind mentioned in sub-paragraph (4)—
+
+(a) to give the Auditor General any assistance, information and explanation which the Auditor General thinks necessary for any of the purposes mentioned in sub-paragraph (1),
+
+(b) to attend before the Auditor General in person to give the assistance, information or explanation, or to produce any document which is in the possession, or under the control, of the person and to which the right conferred by that sub-paragraph applies, or
+
+(c) to provide any facility which the Auditor General may reasonably require for any of the purposes mentioned in that sub-paragraph.
+
+(4) The information referred to in sub-paragraph (3) is information which relates to—
+
+(a) a relevant person,
+
+(b) a document to which the right conferred by sub-paragraph (1) applies, or
+
+(c) a person who possesses or controls such a document.
+
+(5) The Auditor General may, for the purposes of an examination of any auditable accounts, require a relevant person to provide the Auditor General, at times specified by the Auditor General, with accounts of such of the person's transactions as the Auditor General may specify.
+
+(6) For the purposes of sub-paragraph (2)(b), a contract is a relevant sub-contract if its performance fulfils, or contributes to the fulfilment of, an obligation to supply goods or services to the relevant person in another contract.
+
+(7) In this paragraph “auditable accounts” means any accounts or statement of accounts falling to be examined by the Auditor General in accordance with any provision made by or by virtue of this or any other [[^F594]enactment][[^F595], apart from accounts that fall to be examined under Part 2 of the Public Audit (Wales) Act 2004].
+
+(8) In this paragraph “relevant person” means—
+
+(a) in a case within paragraph (a) of sub-paragraph (1) relating to any accounts which the Welsh Ministers are directed to prepare under section 131, the Welsh Ministers, the Counsel General and any person to whose financial affairs and transactions the accounts are to relate by virtue of subsection (3) of that section,
+
+(b) in a case within that paragraph relating to any accounts which the [[^F2]Senedd] Commission is directed to prepare under section 137, the [[^F2]Senedd] Commission and any person to whose financial affairs and transactions the accounts are to relate by virtue of subsection (2) of that section,
+
+[[^F596](ba) in a case within that paragraph relating to any accounts which the Public Services Ombudsman for Wales is directed to prepare under paragraph 16 of Schedule 1 to [[^F597]the Public Services Ombudsman (Wales) Act 2019], the Ombudsman and any person to whose financial affairs and transactions the accounts are to relate by virtue of sub-paragraph (1A) of that paragraph,]
+
+(c) in a case within that paragraph relating to any other auditable accounts, the person by whom the accounts are prepared, and
+
+(d) in any other case, a person to whom the study or examination relates.
+
+(9) No order may be made under sub-paragraph (2)(c) unless the Welsh Ministers have consulted—
+
+(a) the Treasury, and
+
+(b) the Auditor General.
+
+(10) A statutory instrument containing an order under sub-paragraph (2)(c) is subject to annulment in pursuance of a resolution of the [[^F2]Senedd].
+
+### Other powers
+
+**18** (1) Where—
+
+(a) the Welsh Ministers are entitled to appoint the auditor of the accounts of any person (other than the Auditor General), and
+
+(b) the Auditor General would not otherwise be eligible to be appointed as auditor of those accounts,
+
+the Welsh Ministers may [[^F598], having first consulted the Wales Audit Office,] appoint the Auditor General to be auditor of those accounts.
+
+(2) If in such a case the auditor is to be appointed annually, the Welsh Ministers may appoint the Auditor General—
+
+(a) for a year,
+
+(b) for two or more years, or
+
+(c) indefinitely until further exercise of the power of appointment.
+
+(3) The Auditor General may—
+
+(a) examine, certify or report on a person's accounts, or
+
+(b) carry out examinations into the economy, efficiency and effectiveness with which a person has used resources in discharging the person's functions,
+
+if provision is made for the Auditor General to do so by an agreement entered into by the person with either the Welsh Ministers or a Minister of the Crown.
+
+[[^F599](3A) But before entering into an agreement under sub-paragraph (3), the Welsh Ministers or a Minister of the Crown (as the case may be) must consult the Wales Audit Office.]
+
+(4) In determining how to exercise functions under paragraph (b) of sub-paragraph (3) the Auditor General must take into account the Audit Committee's views as to the examinations which the Auditor General should carry out under that paragraph.
+
+(5) If an Order in Council under section 58 transfers a function of preparing accounts to the Welsh Ministers, the Secretary of State may by order provide for the transfer to the Auditor General of any function of the Comptroller and Auditor General in relation to those accounts.
+
+(6) An order under sub-paragraph (5) may make such modifications of—
+
+(a) any enactment (including any enactment comprised in or made under this Act) or prerogative instrument, or
+
+(b) any other instrument or document,
+
+as the Secretary of State considers appropriate in connection with the provision made by the order.
+
+(7) An Order in Council under section 58 may include any provision that may be included in an order under sub-paragraph (5).
+
+(8) If the Treasury designate the Welsh Ministers in respect of a financial year for the purposes of section 10 of the Government Resources and Accounts Act 2000 (c. 20) (whole of government accounts), the Auditor General must carry out the audit required by subsection (2)(c) of that section.
+
+(9) Where the Treasury make arrangements with the Welsh Ministers under subsection (8) of that section, the Auditor General must carry out the audit required by paragraph (c) of that subsection.
+
+(10) No order under sub-paragraph (5) which contains provisions in the form of amendments or repeals of enactments contained in an Act is to be made unless a draft of the statutory instrument containing it has been laid before, and approved by a resolution of, each House of Parliament.
+
+(11) A statutory instrument containing an order under sub-paragraph (5) is (unless a draft of the statutory instrument has been approved by a resolution of each House of Parliament) subject to annulment in pursuance of a resolution of either House of Parliament.
+
+### Reports in public interest
+
+**19** (1) If the Auditor General thinks that it would be in the public interest to bring to the public's attention a matter coming to the Auditor General's notice in the course of an examination or study to which sub-paragraph (2) applies, the Auditor General may prepare a report on that matter.
+
+(2) This sub-paragraph applies to—
+
+(a) an examination of auditable accounts (other than accounts falling to be examined under paragraph 18(3)(a)), and
+
+(b) an examination or study under section 135 or 140 of this Act, section 145 of the Government of Wales Act 1998 (c. 38) (examinations into use of resources by body specified in Schedule 17 to that Act) or section 145A of that Act (studies for improving economy etc. in services provided by relevant bodies), except one undertaken at the request of the body or bodies to which it relates.
+
+(3) The Auditor General must, as soon as practicable after preparing a report under sub-paragraph (1), lay the report before the [[^F2]Senedd] .
+
+(4) In this paragraph “auditable accounts” has the same meaning as in paragraph 17.
+
+### Certification of claims, returns etc.
+
+**20** (1) The Auditor General must, if so required by a relevant body, make arrangements for—
+
+(a) certifying any claim or return in respect of a grant made or subsidy paid to that body by the Welsh Ministers, any Minister of the Crown or any public authority,
+
+(b) certifying any account submitted by that body to the Welsh Ministers, any Minister of the Crown or any public authority with a view to obtaining payment under a contract between that body and the Welsh Ministers, the Minister of the Crown or the public authority,
+
+(c) certifying that body's calculation under paragraph 5(6)(a) of Schedule 8 to the Local Government Finance Act 1988 (c. 41) of the amount of its non-domestic rating contribution for a financial year, and for certifying the amount calculated, or
+
+(d) certifying any return by that body which, by or under any enactment, is required or authorised to be certified by the body's auditor or under arrangements made by the Auditor General.
+
+(2) In this paragraph—
+
+- “public authority” means a body established by or under [[^F222]EU] Treaties or any enactment, and
+
+- “relevant body” means at any time—
+
+  - (a) a body whose accounts, or statements of accounts, are auditable accounts within the meaning of paragraph 17(7), or
+  - (b) a body which at that time is a local government body in Wales (within the meaning given in section 12(1) of the Public Audit (Wales) Act 2004 (c. 23)).
+
+### Ancillary powers
+
+**[^F600]21** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 9 — Devolution issues
+
+*Section 149*
+
+### Part 1 — Preliminary
+
+**1** (1) In this Schedule “devolution issue” means—
+
+(a) a question whether an Assembly Measure or Act of the [[^F2]Senedd], or any provision of an Assembly Measure or Act of the [[^F2]Senedd], is within the [[^F2]Senedd's] legislative competence,
+
+(b) a question whether any function (being a function which any person has purported, or is proposing, to exercise) is exercisable by the Welsh Ministers, the First Minister or the Counsel General,
+
+(c) a question whether the purported or proposed exercise of a function by the Welsh Ministers, the First Minister or the Counsel General is, or would be, within the powers of the Welsh Ministers, the First Minister or the Counsel General (including a question whether a purported or proposed exercise of a function is, or would be, outside those powers by virtue of section 80(8) or 81(1)),
+
+(d) a question whether there has been any failure to comply with a duty imposed on the Welsh Ministers, the First Minister or the Counsel General (including any obligation imposed by virtue of section 80(1) or (7)), or
+
+(e) a question of whether a failure to act by the Welsh Ministers, the First Minister or the Counsel General is incompatible with any of the Convention rights.
+
+(2) In this Schedule “civil proceedings” means proceedings other than criminal proceedings.
+
+**2** A devolution issue is not to be taken to arise in any proceedings merely because of any contention of a party to the proceedings which appears to the court or tribunal before which the proceedings take place to be frivolous or vexatious.
+
+### Part 2 — Proceedings in England and Wales
+
+#### Application of Part 2
+
+**3** This Part applies in relation to devolution issues in proceedings in England and Wales.
+
+#### Institution of proceedings
+
+**4** (1) Proceedings for the determination of a devolution issue may be instituted by the Attorney General or the Counsel General.
+
+(2) The Counsel General may defend any such proceedings instituted by the Attorney General.
+
+(3) This paragraph does not limit any power to institute or defend proceedings exercisable apart from this paragraph by any person.
+
+#### Notice of devolution issue
+
+**5** (1) A court or tribunal must order notice of any devolution issue which arises in any proceedings before it to be given to the Attorney General and the Counsel General (unless a party to the proceedings).
+
+(2) A person to whom notice is given in pursuance of sub-paragraph (1) may take part as a party in the proceedings, so far as they relate to a devolution issue.
+
+#### Reference of devolution issue to High Court or Court of Appeal
+
+**6** A magistrates' court may refer any devolution issue which arises in civil proceedings before it to the High Court.
+
+**7** (1) A court may refer any devolution issue which arises in civil proceedings before it to the Court of Appeal.
+
+(2) Sub-paragraph (1) does not apply—
+
+(a) to a magistrates' court, the Court of Appeal or the Supreme Court, or
+
+(b) to the High Court if the devolution issue arises in proceedings on a reference under paragraph 6.
+
+**8** A tribunal from which there is no appeal must refer any devolution issue which arises in proceedings before it to the Court of Appeal; and any other tribunal may make such a reference.
+
+**9** A court, other than the Court of Appeal or the Supreme Court, may refer any devolution issue which arises in criminal proceedings before it to—
+
+(a) the High Court if the proceedings are summary proceedings, or
+
+(b) the Court of Appeal if the proceedings are proceedings on indictment.
+
+#### References from Court of Appeal to Supreme Court
+
+**10** The Court of Appeal may refer any devolution issue which arises in proceedings before it (otherwise than on a reference under paragraph 7, 8 or 9) to the Supreme Court.
+
+#### Appeals from superior courts to Supreme Court
+
+**11** An appeal against a determination of a devolution issue by the High Court or the Court of Appeal on a reference under paragraph 6, 7, 8 or 9 lies to the Supreme Court but only—
+
+(a) with permission of the court from which the appeal lies, or
+
+(b) failing such permission, with permission of the Supreme Court.
+
+### Part 3 — Proceedings in Scotland
+
+#### Application of Part 3
+
+**12** This Part applies in relation to devolution issues in proceedings in Scotland.
+
+#### Institution of proceedings
+
+**13** (1) Proceedings for the determination of a devolution issue may be instituted by the Advocate General for Scotland.
+
+(2) The Counsel General may defend any such proceedings instituted by the Advocate General for Scotland.
+
+(3) This paragraph does not limit any power to institute or defend proceedings exercisable apart from this paragraph by any person.
+
+#### Intimation of devolution issue
+
+**14** (1) A court or tribunal must order intimation of any devolution issue which arises in any proceedings before it to be given to the Advocate General for Scotland and the Counsel General (unless a party to the proceedings).
+
+(2) A person to whom notice is given in pursuance of sub-paragraph (1) may take part as a party in the proceedings, so far as they relate to a devolution issue.
+
+#### Reference of devolution issue to higher court
+
+**15** A court, other than any court consisting of three or more judges of the Court of Session or the Supreme Court, may refer any devolution issue which arises in civil proceedings before it to the Inner House of the Court of Session.
+
+**16** A tribunal from which there is no appeal must refer any devolution issue which arises in proceedings before it to the Inner House of the Court of Session; and any other tribunal may make such a reference.
+
+**17** A court, other than any court consisting of two or more judges of the High Court of Justiciary, may refer any devolution issue which arises in criminal proceedings before it to the High Court of Justiciary.
+
+#### References from superior courts to Supreme Court
+
+**18** Any court consisting of three or more judges of the Court of Session may refer any devolution issue which arises in proceedings before it (otherwise than on a reference under paragraph 15 or 16) to the Supreme Court.
+
+**19** Any court consisting of two or more judges of the High Court of Justiciary may refer any devolution issue which arises in proceedings before it (otherwise than on a reference under paragraph 17) to the Supreme Court.
+
+#### Appeals from superior courts to Supreme Court
+
+**20** An appeal against a determination of a devolution issue by the Inner House of the Court of Session on a reference under paragraph 15 or 16 lies to the Supreme Court.
+
+**21** An appeal against a determination of a devolution issue by—
+
+(a) a court consisting of two or more judges of the High Court of Justiciary (whether in the ordinary course of proceedings or on a reference under paragraph 17), or
+
+(b) a court consisting of three or more judges of the Court of Session from which there is no appeal to the Supreme Court apart from this paragraph,
+
+lies to the Supreme Court, but only with permission of the court from which the appeal lies or, failing such permission, with permission of the Supreme Court.
+
+### Part 4 — Proceedings in Northern Ireland
+
+#### Application of Part 4
+
+**22** This Part applies in relation to devolution issues in proceedings in Northern Ireland.
+
+#### Institution of proceedings
+
+**23** (1) Proceedings for the determination of a devolution issue may be instituted by the Advocate General for Northern Ireland.
+
+(2) The Counsel General may defend any such proceedings instituted by the Advocate General for Northern Ireland.
+
+(3) This paragraph does not limit any power to institute or defend proceedings exercisable apart from this paragraph by any person.
+
+#### Notice of devolution issue
+
+**24** (1) A court or tribunal must order notice of any devolution issue which arises in any proceedings before it to be given to the Advocate General for Northern Ireland and the Counsel General (unless a party to the proceedings).
+
+(2) A person to whom notice is given in pursuance of sub-paragraph (1) may take part as a party in the proceedings, so far as they relate to a devolution issue.
+
+#### Reference of devolution issue to Court of Appeal
+
+**25** A court, other than the Court of Appeal in Northern Ireland or the Supreme Court, may refer any devolution issue which arises in any proceedings before it to the Court of Appeal in Northern Ireland.
+
+**26** A tribunal from which there is no appeal must refer any devolution issue which arises in proceedings before it to the Court of Appeal in Northern Ireland; and any other tribunal may make such a reference.
+
+#### References from Court of Appeal to Supreme Court
+
+**27** The Court of Appeal in Northern Ireland may refer any devolution issue which arises in proceedings before it (otherwise than on a reference under paragraph 25 or 26) to the Supreme Court.
+
+#### Appeals from Court of Appeal to Supreme Court
+
+**28** An appeal against a determination of a devolution issue by the Court of Appeal in Northern Ireland on a reference under paragraph 25 or 26 lies to the Supreme Court but only—
+
+(a) with permission of the Court of Appeal in Northern Ireland, or
+
+(b) failing such permission, with permission of the Supreme Court.
+
+### Part 5 — General
+
+#### Direct references to Supreme Court
+
+**29** (1) The relevant officer may require any court or tribunal to refer to the Supreme Court any devolution issue which has arisen in any proceedings before it to which that person is a party.
+
+(2) In sub-paragraph (1) “the relevant officer” means—
+
+(a) in relation to proceedings in England and Wales, the Attorney General or the Counsel General,
+
+(b) in relation to proceedings in Scotland, the Advocate General for Scotland, and
+
+(c) in relation to proceedings in Northern Ireland, the Advocate General for Northern Ireland.
+
+**30** (1) The Attorney General or the Counsel General may refer to the Supreme Court any devolution issue which is not the subject of proceedings.
+
+(2) Where a reference is made under sub-paragraph (1) by the Attorney General in relation to a devolution issue which relates to the proposed exercise of a function by the Welsh Ministers, the First Minister or the Counsel General—
+
+(a) the Attorney General must notify the Counsel General of that fact, and
+
+(b) the function must not be exercised by the Welsh Ministers, the First Minister or the Counsel General in the manner proposed during the period beginning with the receipt of the notification and ending with the reference being decided or otherwise disposed of.
+
+#### Costs
+
+**31** (1) A court or tribunal before which any proceedings take place may take account of any additional expense of the kind mentioned in sub-paragraph (3) in deciding any question as to costs or expenses.
+
+(2) In deciding any such question the court or tribunal may award the whole or part of the additional expense as costs or expenses to the party who incurred it (whatever the decision on the devolution issue).
+
+(3) The additional expense is any additional expense which the court or tribunal considers that any party to the proceedings has incurred as a result of the participation of any person in pursuance of paragraph 5, 14 or 24.
+
+#### Procedure of courts and tribunals
+
+**32** Any power to make provision for regulating the procedure before any court or tribunal includes power to make provision for the purposes of this Schedule including, in particular, provision—
+
+(a) for prescribing the stage in the proceedings at which a devolution issue is to be raised or referred,
+
+(b) for the staying or sisting of proceedings for the purpose of any proceedings under this Schedule, and
+
+(c) for determining the manner in which and the time within which any notice or intimation is to be given.
+
+#### References to be for decision
+
+**33** Any function conferred by this Schedule to refer a devolution issue to a court is to be construed as a function of referring the issue to the court for decision.
+
+## [[^F601]SCHEDULE 9A — Devolved Welsh authorities
+
+*Section 157A*
+
+- The Adjudication Panel for Wales or Panel Dyfarnu Cymru.
+- An admission appeal panel, constituted in accordance with regulations under section 94(5) or 95(3) of the School Standards and Framework Act 1998, for schools in Wales.
+- The advisory committee for Wales established under section 5 of the Food Standards Act 1999.
+- The Advisory Panel on Substance Misuse or Panel Cynghori ar Gamddefnyddio Sylweddau.
+- The Advisory Panel to the Welsh Language Commissioner or Panel Cynghori Comisiynydd y Gymraeg.
+- The Agricultural Advisory Panel for Wales or Panel Cynghori ar Amaethyddiaeth Cymru.
+- The Agricultural Land Tribunal for Wales or Tribiwnlys Tir Amaethyddol Cymru.
+- The All-Wales Medicines Strategy Group or Gr?p Strategaeth Meddyginiaethau Cymru Gyfan.
+- The Arts Council for Wales or Cyngor Celfyddydau Cymru.
+- The [[^F2]Senedd] Commission or Comisiwn y Cynulliad.
+- The Auditor General for Wales or Archwilydd Cyffredinol Cymru.
+- The Board of Community Health Councils in Wales or Bwrdd Cynghorau Iechyd Cymuned Cymru.
+- The Children's Commissioner for Wales or Comisiynydd Plant Cymru.
+- [[^F602]The Commission for Tertiary Education and Research or Comisiwn Addysg Drydyddol ac Ymchwil.]
+- The Commissioner for Older People in Wales or Comisiynydd Pobl Hyn Cymru.
+- A Community Health Council in Wales.
+- The Counsel General or Cwnsler Cyffredinol.
+- A county council, county borough council or community council in Wales.
+- [[^F603]The Democracy and Boundary Commission Cymru or Comisiwn Democratiaeth a Ffiniau Cymru.]
+- [[^F604]The Education Tribunal for Wales or Tribiwnlys Addysg Cymru.]
+- The Education Workforce Council or Cyngor y Gweithlu Addysg.
+- An exclusion appeal panel, constituted in accordance with regulations under section 52 of the Education Act 2002, for schools in Wales.
+- A fire and rescue authority constituted by a scheme under section 2 of the Fire and Rescue Services Act 2004, or a scheme to which section 4 of that Act applies, for an area in Wales.
+- The First Minister or Prif Weinidog.
+- The Flood and Coastal Erosion Committee or Pwyllgor Llifogydd ac Erydu Arfordirol.
+- The Future Generations Commissioner for Wales or Comisiynydd Cenedlaethau'r Dyfodol Cymru.
+- The governing body of an educational establishment maintained by a Welsh local authority (within the meaning of section 162 of the Education and Inspections Act 2006).
+- The governing body of an institution in Wales within the further education sector (within the meaning of section 91(3) of the Further and Higher Education Act 1992).
+- Her Majesty's Chief Inspector of Education and Training in Wales or Prif Arolygydd Ei Mawrhydi dros Addysg a Hyfforddiant yng Nghymru.
+- [^F605]...
+- Hybu Cig Cymru or Meat Promotion Wales.
+- The Independent Groundwater Complaints Administrator.
+- [[^F606]The Independent Remuneration Board of the Senedd or Bwrdd Taliadau Annibynnol y Senedd. ]
+- [^F607]...
+- A joint planning board constituted under section 2(1B) of the Town and Country Planning Act 1990.
+- [^F608]...
+- A Local Health Board established under section 11 of the National Health Service (Wales) Act 2006.
+- The Mental Health Review Tribunal for Wales.
+- [^F609]...
+- [^F610]...
+- The National Independent Safeguarding Board or Bwrdd Diogelu Annibynnol Cenedlaethol.
+- The National Library of Wales or Llyfrgell Genedlaethol Cymru.
+- The National Museum of Wales or Amgueddfa Genedlaethol Cymru.
+- A National Park authority established by an order under section 63 of the Environment Act 1995 for an area in Wales.
+- The Natural Resources Body for Wales or Corff Adnoddau Naturiol Cymru.
+- An NHS Trust established under section 18 of the National Health Service (Wales) Act 2006.
+- A panel constituted under regulation 9 of the Independent Review of Determinations (Adoption) (Wales) Regulations 2006.
+- A panel established under regulation 21 of the Social Services Complaints Procedure (Wales) Regulations 2005.
+- The person appointed by the Welsh Ministers under section 3 of the Local Government and Housing Act 1989.
+- The Public Services Ombudsman for Wales or Ombwdsmon Gwasanaethau Cyhoeddus Cymru.
+- Qualifications Wales or Cymwysterau Cymru.
+- A regulated institution within the meaning of the Higher Education (Wales) Act 2015 (ignoring section 26 of that Act) other than an institution within the higher education sector (within the meaning of section 91(5) of the Further and Higher Education Act 1992).
+- A rent assessment committee constituted in accordance with Schedule 10 to the Rent Act 1977 (including a leasehold valuation tribunal and a residential property tribunal).
+- The Royal Commission on the Ancient and Historical Monuments of Wales or Comisiwn Brenhinol Henebion Cymru.
+- [[^F611]The Senedd Commissioner for Standards or Comisiynydd Safonau y Senedd.]
+- Social Care Wales or Gofal Cymdeithasol Cymru.
+- [^F612]...
+- The Sports Council for Wales or Cyngor Chwaraeon Cymru.
+- A strategic planning panel established for an area in Wales by regulations under section 60D of the Planning and Compulsory Purchase Act 2004.
+- A tribunal constituted in accordance with Schedule 3 to the Education Act 2005 (registration of inspectors in Wales: tribunals hearing appeals under section 27).
+- The Valuation Tribunal for Wales or Tribiwnlys Prisio Cymru.
+- The Wales Audit Office or Swyddfa Archwilio Cymru.
+- The Welsh Dental Committee or Pwyllgor Deintyddol Cymru.
+- The Welsh Language Commissioner or Comisiynydd y Gymraeg.
+- The Welsh Language Partnership Council or Gyngor Partneriaeth y Gymraeg.
+- The Welsh Language Tribunal or Tribiwnlys y Gymraeg.
+- The Welsh Medical Committee or Pwyllgor Meddygol Cymru.
+- The Welsh Ministers or Gweinidogion Cymru.
+- The Welsh Nursing and Midwifery Committee or Pwyllgor Nyrsio a Bydwreigiaeth Cymru.
+- The Welsh Optometric Committee or Pwyllgor Optegol Cymru.
+- The Welsh Pharmaceutical Committee or Pwyllgor Fferyllol Cymru.
+- The Welsh Revenue Authority or Awdurdod Cyllid Cymru.
+- The Welsh Scientific Advisory Committee or Pwyllgor Ymgynghorol Gwyddonol Cymru.
+- The Welsh Therapies Advisory Committee or Pwyllgor Cynghorol Therapïau Cymru.]
+
+## SCHEDULE 10 — Minor and consequential amendments
+
+*Section 160*
+
+### [^F613]...
+
+**[^F613]1** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F613]2** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F613]3** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Laying of Documents before Parliament (Interpretation) Act 1948 (c. 59)
+
+**4** In section 1 of the Laying of Documents before Parliament (Interpretation) Act 1948 (meaning of references to laying before Parliament), after subsection (1) insert—
+
+> (1A) A reference in any enactment to laying any document before the National Assembly for Wales is (unless the contrary intention appears) to be construed as a reference to the taking, during any time when that Assembly is not dissolved, of such action as is specified in the standing orders of that Assembly as constituting the laying of a document before that Assembly, even if the action so specified consists (wholly or partly) of action capable of being taken when that Assembly is in recess.
+
+### Defamation Act 1952 (c. 66)
+
+**5** In section 10 of the Defamation Act 1952 (limitation on privilege at elections), after “local government authority” insert “ , to the National Assembly for Wales, ”.
+
+### Defamation Act (Northern Ireland) 1955 (c. 11 (N.I.))
+
+**6** In section 10(1) of the Defamation Act (Northern Ireland) 1955 (limitation on privilege at elections), after “Scottish Parliament” insert “ or to the National Assembly for Wales ”.
+
+### Public Records Act 1958 (c. 51)
+
+**7** In the First Schedule to the Public Records Act 1958 (definition of “public records”), in the following provisions, for “the Government of Wales Act 1998” substitute “ the Government of Wales Act 2006 ”
+
+(a) paragraph 2(2)(e),
+
+(b) paragraph 5,
+
+(c) paragraph 6, and
+
+(d) paragraph 7(1).
+
+### Parliamentary Commissioner Act 1967 (c. 13)
+
+**8** In Schedule 2 to the Parliamentary Commissioner Act 1967 (departments etc. subject to investigation), in the Note relating to the Environment Agency and the Note relating to the Forestry Commission, for “the Government of Wales Act 1998” substitute “ the Government of Wales Act 2006 ”.
+
+### Pensions (Increase) Act 1971 (c. 56)
+
+**9** In Part 2 of Schedule 2 to the Pensions (Increase) Act 1971 (official pensions), in paragraph 38B, for “section 18(2)(b) of the Government of Wales Act 1998” substitute “ section 20(4)(b) or section 53(4)(b) of the Government of Wales Act 2006 ”.
+
+### Local Government Act 1974 (c. 7)
+
+**10** In section 27(1) of the Local Government Act 1974 (provisions relating to complaints)—
+
+(a) in paragraph (a), after “including” insert “ the Welsh Ministers, the National Assembly for Wales Commission or the ”, and
+
+(b) in paragraph (b), for “National Assembly for Wales” (in both places) substitute “ Welsh Ministers ”.
+
+### Interpretation Act 1978 (c. 30)
+
+**[^F614]11** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Local Government, Planning and Land Act 1980 (c. 65)
+
+**12** In paragraph 5 of Schedule 31 to the Local Government, Planning and Land Act 1980 (financial provisions relating to urban development corporations: guarantees), for sub-paragraph (3) substitute—
+
+> (3) Any sums required for fulfilling a guarantee under this paragraph shall be charged on and issued out of—
+>
+> (a) the Consolidated Fund, if required by the Treasury, or
+>
+> (b) the Welsh Consolidated Fund, if required by the Welsh Ministers.
+
+### Mental Health Act 1983 (c. 20)
+
+**[^F615]13** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### National Audit Act 1983 (c. 44)
+
+**[^F616]14** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F617]15** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F618]16** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F619]17** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Insolvency Act 1986 (c. 45)
+
+**[^F620]18** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Public Order Act 1986 (c. 64)
+
+**19** In section 26(1) of the Public Order Act 1986 (saving for reports of parliamentary proceedings), after “Scottish Parliament” insert “ or in the National Assembly for Wales ”.
+
+### Finance Act 1987 (c. 16)
+
+**20** In section 55(1)(c) of the Finance Act 1987 (exemption from stamp duty for the National Assembly for Wales), for “National Assembly for Wales” substitute “ Welsh Ministers, the First Minister for Wales, the Counsel General to the Welsh [^F138]... Government or the National Assembly for Wales Commission ”.
+
+### Local Government Finance Act 1988 (c. 41)
+
+**21** In Schedule 8 to the Local Government Finance Act 1988 (non-domestic rating: pooling), after paragraph 15 insert—
+
+> **Source of payments by Welsh Ministers**
+>
+> **16** Sums required for the making of payments by the Welsh Ministers under this Part of this Schedule are to be charged on the Welsh Consolidated Fund.
+
+### Copyright, Designs and Patents Act 1988 (c. 48)
+
+**22** The Copyright, Designs and Patents Act 1988 is amended as follows.
+
+**23** In section 12(9) (duration of copyright in literary, dramatic, musical or artistic works), for “166B” substitute “ 166D ”.
+
+**24** In section 49 (public records), for “the Government of Wales Act 1998” substitute “ the Government of Wales Act 2006 ”.
+
+**25** In section 153(2) (qualification for copyright protection), for “166B” substitute “ 166D ”.
+
+**26** (1) Section 163 (Crown copyright) is amended as follows.
+
+(2) Omit subsection (1A).
+
+(3) In subsection (6), for “166B” substitute “ 166D ”.
+
+**27** (1) Section 164 (copyright in Acts and Measures) is amended as follows.
+
+(2) In subsection (1), after “Scottish Parliament,” insert “ Measure of the National Assembly for Wales, Act of the National Assembly for Wales, ”.
+
+(3) In subsection (2), for the words after “subsists” substitute—
+
+> (a) in the case of an Act or a Measure of the General Synod of the Church of England, until the end of the period of 50 years from the end of the calendar year in which Royal Assent was given, and
+>
+> (b) in the case of a Measure of the National Assembly for Wales, until the end of the period of 50 years from the end of the calendar year in which the Measure was approved by Her Majesty in Council.
+
+**28** After section 166B insert—
+
+> **Copyright in proposed Measures of the National Assembly for Wales**
+>
+> **166C** (1) Copyright in every proposed Assembly Measure introduced into the National Assembly for Wales belongs to the National Assembly for Wales Commission.
+>
+> (2) Copyright under this section subsists from the time when the text of the proposed Assembly Measure is handed in to the Assembly for introduction—
+>
+> (a) until the proposed Assembly Measure is approved by Her Majesty in Council, or
+>
+> (b) if the proposed Assembly Measure is not approved by Her Majesty in Council, until it is withdrawn or rejected or no further proceedings of the Assembly may be taken in respect of it.
+>
+> (3) References in this Part to Parliamentary copyright (except in section 165) include copyright under this section; and, except as mentioned above, the provisions of this Part apply in relation to copyright under this section as to other Parliamentary copyright.
+>
+> (4) No other copyright, or right in the nature of copyright, subsists in a proposed Assembly Measure after copyright has once subsisted under this section; but without prejudice to the subsequent operation of this section in relation to a proposed Assembly Measure which, not having been approved by Her Majesty in Council, is later reintroduced into the Assembly.
+>
+> **Copyright in Bills of the National Assembly for Wales**
+>
+> **166D** (1) Copyright in every Bill introduced into the National Assembly for Wales belongs to the National Assembly for Wales Commission.
+>
+> (2) Copyright under this section subsists from the time when the text of the Bill is handed in to the Assembly for introduction—
+>
+> (a) until the Bill receives Royal Assent, or
+>
+> (b) if the Bill does not receive Royal Assent, until it is withdrawn or rejected or no further proceedings of the Assembly may be taken in respect of it.
+>
+> (3) References in this Part to Parliamentary copyright (except in section 165) include copyright under this section; and, except as mentioned above, the provisions of this Part apply in relation to copyright under this section as to other Parliamentary copyright.
+>
+> (4) No other copyright, or right in the nature of copyright, subsists in a Bill after copyright has once subsisted under this section; but without prejudice to the subsequent operation of this section in relation to a Bill which, not having received Royal Assent, is later reintroduced into the Assembly.
+
+**29** (1) Section 178 (minor definitions) is amended as follows.
+
+(2) In the definition of “the Crown”, after “the Scottish Administration” insert “ , of the Welsh [^F138]... Government ”.
+
+(3) In the definition of “parliamentary proceedings”, after “European Parliament” insert “ and Assembly proceedings within the meaning of section 1(5) of the Government of Wales Act 2006 ”.
+
+**30** In section 179 (index of defined expressions), in column 2 of the entry for “Parliamentary copyright”, for “and 166B(3)” substitute “ 166B(3) 166C(3) and 166D(3) ”.
+
+**31** (1) Section 263(1) (Part 3: minor definitions) is amended as follows.
+
+(2) In the definition of “the Crown”, insert at the end “ and the Crown in right of the Welsh [^F138]... Government ”.
+
+(3) In the definition of “government department”, insert at the end “ and any part of the Welsh[^F138]... Government ”.
+
+**32** In paragraph 10(1) of Schedule 2 (public records), for “the Government of Wales Act 1998” substitute “ the Government of Wales Act 2006 ”.
+
+### [^F621]...
+
+**[^F621]33** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Official Secrets Act 1989 (c. 6)
+
+**34** In section 12 of the Official Secrets Act 1989 (meaning of “Crown servant” and “government contractor”)—
+
+(a) in subsection (1), after paragraph (aa) insert—
+
+> (ab) the First Minister for Wales, a Welsh Minister appointed under section 48 of the Government of Wales Act 2006, the Counsel General to the Welsh [^F138]... Government or a Deputy Welsh Minister;
+
+, and
+
+(b) in subsection (2), in paragraph (a), after “(a)” insert “ , (ab) ” and omit paragraph (aa).
+
+### Town and Country Planning Act 1990 (c. 8)
+
+**35** In section 321B of the Town and Country Planning Act 1990 (planning inquiries relating to Wales: national security)—
+
+(a) in subsection (2), for “National [[^F2]Assembly] for Wales” substitute “ Welsh [^F138]... Government ”, and
+
+(b) omit subsection (5).
+
+### Planning (Listed Buildings and Conservation Areas) Act 1990 (c. 9)
+
+**[^F622]36** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Planning (Hazardous Substances) Act 1990 (c. 10)
+
+**37** In paragraph 8 of the Schedule to the Planning (Hazardous Substances) Act 1990 (local inquiries relating to Wales: national security)—
+
+(a) in sub-paragraph (2), for “National [[^F2]Assembly] for Wales” substitute “ Welsh [^F138]... Government ”, and
+
+(b) omit sub-paragraph (5).
+
+### Tribunals and Inquiries Act 1992 (c. 53)
+
+**38** In section 16(1) of the Tribunals and Inquiries Act 1992 (interpretation), in the definition of “Minister”, for “National [[^F2]Assembly] for Wales” substitute “ Welsh Ministers ”.
+
+### Value Added Tax Act 1994 (c. 23)
+
+**39** In section 41(6) of the Value Added Tax Act 1994 (meaning of “Government department”), for “National [[^F2]Assembly] for Wales” substitute “ Welsh [^F138]... Government ”.
+
+### Defamation Act 1996 (c. 31)
+
+**40** In paragraph 11(1)(c) of Schedule 1 to the Defamation Act 1996 (qualified privilege: accurate reports of proceedings of inquiries etc.), after “Scottish Executive” insert “ , the Welsh Ministers or the Counsel General to the Welsh [^F138]... Government ”.
+
+### Government of Wales Act 1998 (c. 38)
+
+**41** The Government of Wales Act 1998 is amended as follows.
+
+**42** (1) Section 28 (reform of other Welsh public bodies) is amended as follows.
+
+(2) For “ [[^F2]Assembly] ” (in each place) substitute “ Welsh Ministers ”.
+
+(3) In subsection (2), for “considers” substitute “ consider ”.
+
+(4) After subsection (7) insert—
+
+> (7A) A statutory instrument containing an order under this section is subject to annulment in pursuance of a resolution of the [[^F2]Assembly] .
+
+**43** (1) Section 104 (Her Majesty's Chief Inspector of Education and Training in Wales) is amended as follows.
+
+(2) For “ [[^F2]Assembly] ” (in each place) substitute “ Welsh Ministers ”.
+
+(3) In subsection (2)—
+
+(a) for “it”, in the first place, substitute “ they ”, and
+
+(b) for “it considers” substitute “ they consider ”.
+
+(4) In subsection (3), for “it considers” (in both places) substitute “ they consider ”.
+
+(5) In subsection (4), for “it is” substitute “ they are ”.
+
+(6) In subsection (4A)—
+
+(a) for “it”, in the first and third places, substitute “ them ”, and
+
+(b) for “it is” substitute “ they are ”.
+
+(7) In subsection (4B), for “it gives its” substitute “ they give their ”.
+
+(8) Omit subsection (5).
+
+**[^F623]44** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**45** (1) Section 144 (power of Secretary of State by order to make provision about accounts etc. of bodies specified in Schedule 17) is amended as follows.
+
+(2) In subsection (1), for “Secretary of State” substitute “ Welsh Ministers ”.
+
+(3) In subsection (3)—
+
+(a) for paragraph (a) substitute—
+
+> (a) the Permanent Secretary to the Welsh [^F138]... Government to designate accounting officers and to specify their responsibilities,
+
+, and
+
+(b) in paragraph (d), for “ [[^F2]Assembly] (or, before the first ordinary election, by the Secretary of State)” substitute “ Welsh Ministers ”.
+
+(4) For subsection (4) substitute—
+
+> (4) The Welsh Ministers may by order make provision for the Permanent Secretary to the Welsh [^F138]... Government to designate accounting officers of any body specified in Part 3 of Schedule 17 and to specify their responsibilities.
+>
+> (4A) An order under subsection (1) or (4) may not remove or restrict any function of the Comptroller and Auditor General.
+
+(5) After subsection (5) insert—
+
+> (5A) A statutory instrument containing an order under subsection (1) or (4), other than an order to which subsection (5B) applies, is subject to annulment in pursuance of a resolution of the [[^F2]Assembly] .
+>
+> (5B) No order to which this subsection applies may be made unless a draft of the statutory instrument containing it has been laid before, and approved by a resolution of, the [[^F2]Assembly] .
+>
+> (5C) Subsection (5B) applies to an order under subsection (1) or (4) which contains provisions in the form of amendments or repeals of enactments contained in an Act of Parliament, [[^F2]Assembly] Measure or Act of the [[^F2]Assembly] .
+
+(6) Omit subsection (6).
+
+(7) In subsection (8)—
+
+(a) for “Secretary of State” substitute “ Welsh Ministers ”, and
+
+(b) in paragraph (a), after “other than” insert “ the National [[^F2]Assembly] for Wales Commission, ”.
+
+(8) After that subsection insert—
+
+> (8ZA) No order under subsection (8) may be made unless a draft of the statutory instrument containing it has been laid before, and approved by a resolution of, the [[^F2]Assembly] .
+
+(9) Omit subsection (8A).
+
+(10) In subsection (9), before the word “and” at the end of paragraph (b) insert—
+
+> (ba) “Permanent Secretary to the Welsh [^F138]... Government” means the person appointed in accordance with section 52 of the Government of Wales Act 2006 to be the head of the staff of the Welsh [^F138]... Government (whether or not that person is known by the title of Permanent Secretary to the Welsh [^F138]... Government),
+
+.
+
+**46** (1) Section 145 (examinations by Auditor General into discharge of functions by bodies and offices specified in Schedule 17) is amended as follows.
+
+(2) In subsection (3), omit “(or, before the first ordinary election, the views of the Secretary of State)”.
+
+(3) In subsection (7), for “section 96(3)(b)” substitute “ paragraph 18(3)(b) of Schedule 8 to the Government of Wales Act 2006 (agreement between a person and the Welsh Ministers etc. to permit the Auditor General to carry out an examination into the discharge of functions by that person) ”.
+
+**47** In section 145A(5) (studies by Auditor General into discharge of functions by relevant bodies: meaning of “relevant body”), for paragraph (a) substitute—
+
+> (a) a person who prepares accounts or statements of accounts falling to be examined by the Auditor General for Wales in accordance with any provision made by or under this or any other Act;
+
+.
+
+**48** (1) Section 145C (studies by Auditor General into discharge of functions by registered social landlords) is amended as follows.
+
+(2) In subsection (1), for “ [[^F2]Assembly] ” substitute “ Welsh Ministers ”.
+
+(3) In subsection (3), for “ [[^F2]Assembly] ” substitute “ Welsh Ministers ”.
+
+(4) In subsection (6), for “section 95(3)(a) or (b)” substitute “ paragraph 17(3)(a) or (b) of Schedule 8 to the Government of Wales Act 2006 (requirement to give assistance, information or explanation to the Auditor General for Wales) ”.
+
+(5) In subsection (8), for “ [[^F2]Assembly] ” substitute “ Welsh Ministers ”.
+
+**49** In section 146(4) (power of Secretary of State by order to transfer etc. functions from the Comptroller and Auditor General to the Auditor General), for “22” substitute “ 58 of the Government of Wales Act 2006 ”.
+
+**50** (1) Section 146A (transfer etc. of supervisory functions from the [[^F2]Assembly] to the Auditor General) is amended as follows.
+
+(2) In subsection (1)—
+
+(a) for “ [[^F2]Assembly] ” substitute “ Welsh Ministers ”, and
+
+(b) for “its” (in both places) substitute “ their ”.
+
+(3) In subsection (3), for “ [[^F2]Assembly] ” substitute “ Welsh Ministers ”.
+
+(4) After subsection (5) insert—
+
+> (6) No order under subsection (1) may be made unless a draft of the statutory instrument containing it has been laid before, and approved by resolution of, the [[^F2]Assembly] .
+
+(5) In the heading, for “ [[^F2]Assembly] ” substitute “ Welsh Ministers ”.
+
+**[^F624]51** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**52** In section 151(2) (power to make consequential amendments), for “22” substitute “ 58 of the Government of Wales Act 2006 ”.
+
+**53** (1) Section 154 (orders and directions) is amended as follows.
+
+(2) In subsection (1), for “ [[^F2]Assembly] ” substitute “ Welsh Ministers ”.
+
+(3) In subsection (3)—
+
+(a) omit paragraph (a), and
+
+(b) in paragraph (b)—
+
+(i) omit “96(5), 117,”, and
+
+(ii) omit “144(1) or (4),”.
+
+(4) Omit subsection (4).
+
+(5) In subsection (6)—
+
+(a) in paragraph (a)—
+
+(i) omit from “3” to “118(1)(f),”,
+
+(ii) omit “144(1) or (4),”, and
+
+(iii) omit “or paragraph 17(9) of Schedule 9”, and
+
+(b) omit paragraph (b).
+
+(6) Omit subsection (7).
+
+**54** (1) Section 155 (interpretation) is amended as follows.
+
+(2) In subsection (1), insert the following definitions in the appropriate places—
+
+> - “the [[^F2]Assembly] ” means the National [[^F2]Assembly] for Wales,
+
+,
+
+> “Audit Committee” has the meaning given by section 30 of the Government of Wales Act 2006,
+
+,
+
+> “cross-border body” means any body (including a government department) or undertaker exercising functions, or carrying on activities, in or with respect to Wales (or any part of Wales) and anywhere else,
+
+, and
+
+> “English border area” means a part of England adjoining Wales (but not the whole of England),
+
+.
+
+(3) In that subsection, omit the definitions of “Community law” and “delegate”.
+
+(4) In that subsection, for the definition of “Wales” substitute—
+
+> “Wales” has the same meaning as in the Government of Wales Act 2006;
+
+.
+
+(5) Omit subsection (2).
+
+(6) In subsection (3), omit the words from “; and the” to the end.
+
+**[^F625]55** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Human Rights Act 1998 (c. 42)
+
+**56** (1) Section 21(1) of the Human Rights Act 1998 (interpretation) is amended as follows.
+
+(2) In the definition of “primary legislation”, for “National [[^F2]Assembly] for Wales” substitute “ Welsh Ministers, the First Minister for Wales, the Counsel General to the Welsh [^F138]... Government, ”.
+
+(3) In the definition of “subordinate legislation”, after paragraph (b) insert—
+
+> (ba) Measure of the National [[^F2]Assembly] for Wales;
+>
+> (bb) Act of the National [[^F2]Assembly] for Wales;
+
+.
+
+(4) In paragraph (h) of that definition, after “Executive” insert “ , Welsh Ministers, the First Minister for Wales, the Counsel General to the Welsh [^F138]... Government, ”.
+
+### Government Resources and Accounts Act 2000 (c. 20)
+
+**57** In section 10 of the Government Resources and Accounts Act 2000 (designation of body by Treasury for purposes of preparing whole of government accounts), in—
+
+(a) subsection (7) (duty to consult with [[^F2]Assembly] ), and
+
+(b) subsection (8) (power to make arrangements with [[^F2]Assembly] ),
+
+for “National [[^F2]Assembly ] for Wales” substitute “ Welsh Ministers ”.
+
+### Political Parties, Elections and Referendums Act 2000 (c. 41)
+
+**58** The Political Parties, Elections and Referendums Act 2000 is amended as follows.
+
+**59** In section 8(3)(b) (functions exercisable only on recommendation of Electoral Commission), for “11 of the Government of Wales Act 1998” substitute “ 13 of the Government of Wales Act 2006 ”.
+
+**60** In section 10(6) (bodies to which Electoral Commission may give advice and assistance), after paragraph (c) insert—
+
+> (ca) the National [[^F2]Assembly] for Wales Commission;
+
+.
+
+**61** In section 13 (power of Electoral Commission to promote public awareness of electoral and democratic systems), after subsection (11) insert—
+
+> (12) Subsection (6) shall not apply to the expenditure incurred by the Commission to the extent that it is, or is to be, met under paragraph 6 of Schedule 2 to the Government of Wales Act 2006.
+
+### Finance Act 2003 (c. 14)
+
+**62** The Finance Act 2003 is amended as follows.
+
+**63** In section 61(3) (stamp duty land tax: compliance with planning obligations), for the entry relating to the National [[^F2]Assembly] for Wales substitute— “ The Welsh Ministers, the First Minister for Wales and the Counsel General to the Welsh [^F138]... Government ”.
+
+**64** In section 66(4) (stamp duty land tax: transfers involving public bodies)—
+
+(a) for the entry relating to the National [[^F2]Assembly] for Wales substitute— “ The Welsh Ministers, the First Minister for Wales and the Counsel General to the Welsh [^F138]... Government ”, and
+
+(b) after the entry relating to the Northern Ireland Assembly Commission insert— “ The National [[^F2]Assembly] for Wales Commission ”.
+
+**65** In section 107(2) (stamp duty land tax: Crown application)—
+
+(a) after the entry relating to a Northern Ireland department insert— “ The Welsh Ministers, the First Minister for Wales and the Counsel General to the Welsh [^F138]... Government ”, and
+
+(b) for the entry relating to the National [[^F2]Assembly] for Wales substitute— “ The National [[^F2]Assembly] for Wales Commission ”.
+
+### [^F626]...
+
+**[^F626]66** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Public Services Ombudsman (Wales) Act 2005 (c. 10)
+
+**67** The Public Services Ombudsman (Wales) Act 2005 is amended as follows.
+
+**68** In section 7(3)(b) (relevant action: Welsh health service bodies), for “ [[^F2]Assembly] ” substitute “ Welsh Ministers ”.
+
+**69** In section 8(2) (exclusion from investigation for matters not relating to Wales: exception for [[^F2]Assembly] ), for “ [[^F2]Assembly] ” substitute “ Welsh [^F138]... Government ”.
+
+**70** In section 9(1)(b) (exclusion from investigation of matters: right of appeal to [[^F2]Assembly] ), for “or the [[^F2]Assembly] ” substitute “ , the Welsh Ministers, the First Minister for Wales or the Counsel General to the Welsh [^F138]... Government ”.
+
+**71** (1) Section 10 (other excluded matters) is amended as follows.
+
+(2) For “ [[^F2]Assembly] ” (in both places) substitute “ Welsh Ministers ”.
+
+(3) After subsection (3) insert—
+
+> (3A) No order is to be made under subsection (2) unless a draft of the statutory instrument containing it has been laid before, and approved by a resolution of, the [[^F2]Assembly] .
+
+**72** In section 12 (decisions not to investigate etc.), omit subsection (9).
+
+**73** (1) Section 16 (reports of investigations) is amended as follows.
+
+(2) In subsection (2)(f)—
+
+(a) for “ [[^F2]Assembly] First Secretary” substitute “ First Minister for Wales ”, and
+
+(b) for “ [[^F2]Assembly] ” substitute “ Welsh [^F138]... Government ”.
+
+(3) Omit subsection (9).
+
+**74** In section 21 (reports: alternative procedure), omit subsection (11).
+
+**75** In section 23 (special reports: supplementary), omit subsection (6).
+
+**76** (1) Section 24 (special reports relating to the [[^F2]Assembly] ) is amended as follows.
+
+(2) In subsection (1), for “ [[^F2]Assembly] ” substitute “ Welsh [^F138]... Government or the National [[^F2]Assembly] for Wales Commission ”.
+
+(3) In subsection (2)—
+
+(a) for “ [[^F2]Assembly] First Secretary” substitute “ relevant person ”, and
+
+(b) omit paragraph (b).
+
+(4) After that subsection insert—
+
+> (2A) In subsection (2) “the relevant person” means—
+>
+> (a) if the complaint was made in respect of the Welsh [^F138]... Government, the First Minister for Wales, and
+>
+> (b) if the complaint was made in respect of the National [[^F2]Assembly] for Wales Commission, a member of that Commission.
+
+(5) Omit subsection (3).
+
+(6) In the side-note, for “ [[^F2]Assembly] ” substitute “ Welsh [^F138]... Government etc. ”.
+
+**[^F627]77** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**78** (1) Section 28 (listed authorities) is amended as follows.
+
+(2) In subsections (2) and (4), for “ [[^F2]Assembly] ” substitute “ Welsh Ministers ”.
+
+(3) After subsection (4) insert—
+
+> (4A) No order is to be made under subsection (2) unless a draft of the statutory instrument containing it has been laid before, and approved by a resolution of, the [[^F2]Assembly] .
+
+**79** (1) Section 29 (restrictions on power to amend Schedule 3) is amended as follows.
+
+(2) In subsection (1), for “ [[^F2]Assembly] ” substitute “ Welsh [^F138]... Government or the National [[^F2]Assembly] for Wales Commission ”.
+
+(3) In subsection (2)(b), for “ [[^F2]Assembly] has” substitute “ Welsh Ministers have, or the First Minister for Wales or the Counsel General to the Welsh [^F138]... Government has, ”.
+
+(4) In subsection (3)—
+
+(a) in paragraphs (a) and (b), for “ [[^F2]Assembly] ” substitute “ Welsh Ministers, the First Minister for Wales, the Counsel General to the Welsh [^F138]... Government ”, and
+
+(b) in paragraph (c), for “directly from payments made by the [[^F2]Assembly] or other listed authorities” substitute “ out of the Welsh Consolidated Fund or is met directly from payments made by other listed authorities ”.
+
+(5) In subsection (5)—
+
+(a) in paragraph (a), for “ [[^F2]Assembly] ” substitute “ Welsh Ministers ”, and
+
+(b) in paragraph (b), for “directly or indirectly from payments made by the [[^F2]Assembly] or other listed authorities” substitute “ out of the Welsh Consolidated Fund or directly or indirectly from payments made by other listed authorities ”.
+
+**80** (1) Section 30 (provisions in orders adding persons to Schedule 3) is amended as follows.
+
+(2) In subsection (1)—
+
+(a) for “ [[^F2]Assembly] proposes” substitute “ Welsh Ministers propose ”, and
+
+(b) for “it must” substitute “ they must ”.
+
+(3) In subsection (2), for “ [[^F2]Assembly] has” substitute “ Welsh Ministers have, or the First Minister for Wales or the Counsel General to the Welsh [^F138]... Government has, ”.
+
+(4) In subsection (3)—
+
+(a) in paragraph (a), for “ [[^F2]Assembly] has” substitute “ Welsh Ministers have, or the First Minister for Wales or the Counsel General to the Welsh [^F138]... Government has, ”, and
+
+(b) in paragraph (b), for “ [[^F2]Assembly] ” substitute “ Welsh Ministers ”.
+
+**81** In section 40 (commencement), for “ [[^F2]Assembly] ” substitute “ Welsh Ministers ”.
+
+**82** (1) Section 41 (interpretation) is amended as follows.
+
+(2) In subsection (1)—
+
+(a) omit the definition of “ [[^F2]Assembly] Cabinet”,
+
+(b) in the definition of “relevant tribunal”, for “ [[^F2]Assembly] ” substitute “ Welsh Ministers ”,
+
+(c) in the definition of “social landlord in Wales”—
+
+(i) in paragraph (a), for “ [[^F2]Assembly] ” substitute “ Welsh Ministers ” and after “section by” insert “ the [[^F2]Assembly] constituted by the Government of Wales Act 1998, ”, and
+
+(ii) in paragraph (b), for “or the [[^F2]Assembly] ” substitute “ , the Assembly constituted by the Government of Wales Act 1998 or the Welsh Ministers ”, and
+
+(d) in the definition of “Welsh health service body”, for “ [[^F2]Assembly] ” substitute “ Welsh Ministers ”.
+
+(3) In subsection (2), for “ [[^F2]Assembly] ” (in both places) substitute “ Welsh Ministers ”.
+
+(4) After that subsection insert—
+
+> (2A) A statutory instrument containing an order under subsection (1) is subject to annulment in pursuance of a resolution of the [[^F2]Assembly] .
+
+(5) In subsection (3), for “ [[^F2]Assembly] ” substitute “ Welsh Ministers ”.
+
+(6) In subsection (4)—
+
+(a) for “ [[^F2]Assembly] ” substitute “ Welsh Ministers ”, and
+
+(b) for “it thinks” substitute “ they think ”.
+
+(7) After that subsection insert—
+
+> (4A) No order is to be made under subsection (3) unless a draft of the statutory instrument containing it has been laid before, and approved by a resolution of, the [[^F2]Assembly] .
+
+**83** (1) Section 42 (former health care providers and social landlords) is amended as follows.
+
+(2) In subsection (1), for “ [[^F2]Assembly] ” substitute “ Welsh Ministers ”.
+
+(3) In subsection (4)(a)—
+
+(a) in sub-paragraph (i), for “ [[^F2]Assembly] ” substitute “ Welsh Ministers ” and after “section by” insert “ the [[^F2]Assembly] constituted by the Government of Wales Act 1998, ”, and
+
+(b) in sub-paragraph (ii), for “or the [[^F2]Assembly] ” substitute “ , the [[^F2]Assembly] constituted by the Government of Wales Act 1998 or the Welsh Ministers ”.
+
+(4) After subsection (5) insert—
+
+> (6) No regulations are to be made under this section unless a draft of the statutory instrument containing them has been laid before, and approved by a resolution of, the [[^F2]Assembly] .
+
+**84** (1) Section 43 (consequential and transitional provision) is amended as follows.
+
+(2) In subsection (1)—
+
+(a) for “ [[^F2]Assembly] ” substitute “ Welsh Ministers ”, and
+
+(b) for “it thinks” substitute “ they think ”.
+
+(3) After subsection (3) insert—
+
+> (4) No order is to be made under subsection (1) unless a draft of the statutory instrument containing it has been laid before, and approved by a resolution of, the [[^F2]Assembly] .
+
+**85** (1) Section 44 (orders, regulations and directions) is amended as follows.
+
+(2) In subsections (1) and (2), for “ [[^F2]Assembly] ” substitute “ Welsh Ministers ”.
+
+(3) Omit subsection (3).
+
+**86** (1) Schedule 1 (Public Service Ombudsman for Wales: appointment etc.) is amended as follows.
+
+(2) For paragraph 1 (appointment) substitute—
+
+> **1** The Ombudsman is to be appointed by Her Majesty on the nomination of the [[^F2]Assembly] .
+
+(3) In paragraph 3 (term of office)—
+
+(a) in sub-paragraph (3), for paragraph (b) substitute—
+
+> (b) on Her Majesty being satisfied that the person is incapable for medical reasons of performing the duties of the office.
+
+,
+
+(b) in sub-paragraph (4), for the words following “Ombudsman” substitute “ on the making of a recommendation, on the ground of the person's misbehaviour, that Her Majesty should do so. ”, and
+
+(c) for sub-paragraph (5) substitute—
+
+> (5) A recommendation for the removal of a person from office as the Ombudsman may not be made unless—
+>
+> (a) the [[^F2]Assembly] has resolved that the recommendation should be made, and
+>
+> (b) the resolution of the [[^F2]Assembly] is passed on a vote in which the number of [[^F9]Members of the Assembly] voting in favour of it is not less than two-thirds of the total number of [[^F2]Assembly] seats.
+
+(4) In paragraph 4 (acting Public Service Ombudsman for Wales), for sub-paragraphs (1) and (2) substitute—
+
+> (1) If the office of the Ombudsman becomes vacant, Her Majesty may, on the nomination of the [[^F2]Assembly] , appoint a person to act as the Ombudsman.
+
+(5) In paragraph 5(1)(d) (disqualification from being Ombudsman or acting Ombudsman), for “section 12(1)(ca) of the Government of Wales Act 1998 (c. 38)” substitute “ section 16(1)(d) of the Government of Wales Act 2006 ”.
+
+(6) In paragraph 7(3) (exceptions from disqualifications applying to former Ombudsman or acting Ombudsman)—
+
+(a) in paragraph (a), after “ [[^F2]Assembly] ” insert “ or the National [[^F2] Assembly] for Wales Commission ”, and
+
+(b) in paragraph (b), for “ [[^F2]Assembly] First Secretary or [[^F2]Assembly] Secretary” substitute “ First Minister for Wales, Welsh Minister appointed under section 48 of the Government of Wales Act 2006, Counsel General to the Welsh [^F138]... Government or Deputy Welsh Minister ”.
+
+(7) In paragraph 9 (remuneration etc.), after sub-paragraph (5) insert—
+
+> (6) Sums required for the making of payments under sub-paragraphs (1), (2) and (5) are to be charged on the Welsh Consolidated Fund.
+
+(8) For paragraph 10 (expenses) substitute—
+
+> **Special financial provisions**
+>
+> **10** (1) Any sums payable by the Ombudsman in consequence of a breach, in the performance of any of the Ombudsman's functions, of any contractual or other duty are to be charged on the Welsh Consolidated Fund.
+>
+> (2) And sub-paragraph (1) applies whether the breach occurs by reason of an act or omission of—
+>
+> (a) the Ombudsman,
+>
+> (b) a member of the Ombudsman's staff, or
+>
+> (c) any other person acting on the Ombudsman's behalf or assisting the Ombudsman in the exercise of functions.
+>
+> (3) The Ombudsman may retain income derived from fees charged by virtue of sections 12(6), 16(6), 21(8) and 23(2) (rather than pay it into the Welsh Consolidated Fund) for use in connection with the exercise of the functions conferred or imposed by this Act.
+
+(9) In paragraph 11(5) (payments by [[^F2]Assembly] to Minister for the Civil Service in respect of superannuation benefits for Ombudsman's staff)—
+
+(a) for “ [[^F2]Assembly] ” substitute “ Ombudsman ”, and
+
+(b) for “he” (in both places) substitute “ the Minister ”.
+
+(10) In paragraph 13 (delegation), for sub-paragraph (4) substitute—
+
+> (4) No arrangements may be made between the Ombudsman, on the one hand, and the Welsh Ministers (or the First Minister for Wales or the Counsel General to the Welsh [^F138]... Government), on the other, for—
+>
+> (a) any functions of one of them to be exercised by the other,
+>
+> (b) any functions of the Welsh Ministers (or the First Minister for Wales or the Counsel General to the Welsh [^F138]... Government) to be exercised by members of staff of the Ombudsman,
+>
+> (c) any functions of the Ombudsman to be exercised by members of the staff of the Welsh [^F138]... Government, or
+>
+> (d) the provision of administrative, professional or technical services by one of them for the other.
+
+(11) In paragraph 14(3) (duty to send copy of extraordinary report to listed authorities other than the [[^F2]Assembly] )—
+
+(a) after “time” insert “ send a copy to the Welsh [^F138]... Government and ”, and
+
+(b) for “than the [[^F2]Assembly] ” substitute “ than the Welsh [^F138]... Government ”.
+
+(12) In paragraph 15 (estimates)—
+
+(a) in sub-paragraph (2), for the words following “estimate” substitute “ at least five months before the beginning of the financial year to which it relates to the committee or committees of the [[^F2]Assembly] specified in the standing orders of the [[^F2]Assembly] . ”,
+
+(b) in sub-paragraph (3)—
+
+(i) for “ [[^F2]Assembly] Cabinet” substitute “ committee or committees ”,
+
+(ii) omit “to it”, and
+
+(iii) for “it thinks” substitute “ thought ”, and
+
+(c) for sub-paragraph (4) substitute—
+
+> (4) Before laying before the [[^F2]Assembly] with modifications an estimate submitted in accordance with sub-paragraph (2), the committee or committees must—
+>
+> (a) consult the Ombudsman, and
+>
+> (b) take into account any representations which the Ombudsman may make.
+
+(13) In paragraph 18 (accounting officer)—
+
+(a) for “Treasury” (in each place) substitute “ Audit Committee ”, and
+
+(b) in sub-paragraph (6)(a), for “ [[^F2]Assembly] Cabinet” substitute “ Welsh Ministers ”.
+
+**87** In paragraph 1 of Schedule 2 (excluded matters), for “ [[^F2]Assembly] ” substitute “ Welsh Ministers, the First Minister for Wales, the Counsel General to the Welsh [^F138]... Government ”.
+
+**88** In Schedule 3 (listed authorities), under the heading “Government of Wales”, for the entry relating to the [[^F2]Assembly] substitute—
+
+> The Welsh [^F138]... Government.
+>
+> The National [[^F2]Assembly] for Wales Commission.
+
+### Inquiries Act 2005 (c. 12)
+
+**89** The Inquiries Act 2005 is amended as follows.
+
+**90** In section 1(2) (“Ministers” who may cause inquiries to be held), after paragraph (b) insert—
+
+> (ba) the Welsh Ministers;
+
+, and omit the words following paragraph (c).
+
+**91** (1) Section 27 (United Kingdom inquiries) is amended as follows.
+
+(2) In subsection (3)(b), for “National [[^F2]Assembly] for Wales” substitute “ Welsh Ministers ”.
+
+(3) In subsection (7), in the definitions of “the relevant administration” and “Welsh matter”, for “National [[^F2]Assembly] for Wales has” substitute “ Welsh Ministers have ”.
+
+**92** In section 28(4) (Scottish inquiries), for “National [[^F2]Assembly ] for Wales” substitute “ Welsh Ministers ”.
+
+**93** (1) Section 29 (Welsh inquiries) is amended as follows.
+
+(2) In subsection (1), for “National [[^F2]Assembly] for Wales is” substitute “ Welsh Ministers are ”.
+
+(3) In subsection (5), for “National [[^F2]Assembly] for Wales has” substitute “ Welsh Ministers have ”.
+
+**94** In section 30(5) (Northern Ireland inquiries), for “National [[^F2]Assembly] for Wales” substitute “ Welsh Ministers ”.
+
+**95** (1) Section 41 (rules) is amended as follows.
+
+(2) In subsection (3)(c)—
+
+(a) for “National [[^F2]Assembly] for Wales” substitute “ Welsh Ministers ”, and
+
+(b) for “that [[^F2]Assembly] is” substitute “ they are ”.
+
+(3) In subsection (4)(a), for “National [[^F2]Assembly] for Wales” substitute “ Welsh Ministers ”.
+
+(4) In subsection (5), after paragraph (a) insert—
+
+> (aa) if made by the Welsh Ministers, in pursuance of a resolution of the National [[^F2]Assembly] for Wales;
+
+.
+
+**96** In section 43(1) (interpretation), in the definition of “the relevant Parliament or [[^F2]Assembly] ”, for “National [[^F2]Assembly] for Wales is responsible, that [[^F2]Assembly] ” substitute “ Welsh Ministers are responsible, the National [[^F2]Assembly] for Wales ”.
+
+**97** In section 51(2) (commencement), for “National [[^F2]Assembly] for Wales” substitute “ Welsh Ministers ”.
+
+## SCHEDULE 11 — Transitional provisions
+
+*Section 162*
+
+### Alteration of [[^F2]Senedd] electoral regions
+
+**[^F628]1** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 2007 election to be election to Assembly constituted by this Act
+
+**2** The 2007 election is an election to the Assembly constituted by this Act (and not that constituted by the Government of Wales Act 1998 (c. 38)).
+
+### [^F629]...
+
+**[^F629]3** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F629]...
+
+**[^F629]4** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F629]...
+
+**[^F629]5** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F629]6** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F629]...
+
+**[^F629]7** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Election orders
+
+**8** An order under section 11 of the Government of Wales Act 1998 which is in force immediately before the commencement of the repeal of that section by this Act has effect after that time as if made under section 13 of this Act.
+
+### [^F630]...
+
+**[^F630]9** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Disqualification Orders
+
+**10** An Order in Council under section 12(1)(b) of the Government of Wales Act 1998 (c. 38) which is in force immediately before the commencement of the repeal of that provision by this Act has effect after that time as if made under section 16(1)(b) of this Act.
+
+### [^F631]...
+
+**[^F631]11** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Remuneration of Assembly members etc.
+
+**12** (1) This paragraph has effect in relation to a determination under section 16 of the Government of Wales Act 1998 which is in force immediately before the commencement of the repeal of that section by this Act.
+
+(2) So far as relating to the Assembly First Secretary elected under that Act and the Assembly Secretaries appointed under that Act, the determination has effect after that time as if made under section 53, and applies—
+
+(a) in relation to the First Minister as it applied before that time in relation to the Assembly First Secretary elected under that Act, and
+
+(b) in relation to the Welsh Ministers appointed under section 48 of this Act as it applied before that time in relation to the Assembly Secretaries appointed under that Act.
+
+(3) Otherwise, the determination has effect after that time as if made under section 20, and applies—
+
+(a) in relation to the Presiding Officer as it applied before that time in relation to the presiding officer elected under the Government of Wales Act 1998,
+
+(b) in relation to the Deputy Presiding Officer as it applied before that time in relation to the deputy presiding officer elected under that Act,
+
+(c) in relation to the leader of the largest political group without an executive role as it applied before that time in relation to the leader of the largest political party not represented on the executive committee constituted by that Act, and
+
+(d) in relation to any other Assembly member as it applied before that time in relation to members of the Assembly constituted by that Act.
+
+(4) For the purposes of sub-paragraph (3)(c) a political group is the largest political group without an executive role if—
+
+(a) it is not a political group with an executive role, and
+
+(b) more Assembly members belong to it than to each other political group which is not a political group with an executive role.
+
+(5) This paragraph has effect in relation to determinations under section 18 of the Government of Wales Act 1998 (c. 38) as it has effect in relation to determinations under section 16 of that Act, but as if references in this paragraph to members of, or office-holders in connection with, the Assembly (as constituted by the Government of Wales Act 1998 or this Act) were references to persons who have ceased to be such members or office-holders.
+
+**13** An order under section 17 of the Government of Wales Act 1998 which is in force immediately before the commencement of the repeal of that section by this Act has effect after that time as if made under section 21.
+
+### [^F632]...
+
+**[^F632]14** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F632]...
+
+**[^F632]15** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F632]...
+
+**[^F632]16** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F632]...
+
+**[^F632]17** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F632]...
+
+**[^F632]18** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F632]...
+
+**[^F632]19** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Standing orders
+
+**20** (1) The Secretary of State must, no later than 31st March 2007, make the standing orders which are to have effect in relation to the proceedings of the Assembly following the 2007 election.
+
+(2) The standing orders made under this paragraph—
+
+(a) must include provision as to the matters which this Act requires to be covered by the standing orders, and
+
+(b) may include provision as to the matters which this Act provides may be so covered.
+
+(3) In making standing orders made under this paragraph the Secretary of State must give effect to any relevant Assembly proposals (but subject to sub-paragraph (5)).
+
+(4) For this purpose proposals are relevant Assembly proposals if—
+
+(a) they are proposals for the inclusion in the standing orders made under this paragraph of provision relating to any matters which must or may be covered by them,
+
+(b) they are made by the Assembly constituted by the Government of Wales Act 1998 by a resolution passed by that Assembly,
+
+(c) where the motion for the resolution is passed on a vote, at least two-thirds of the members of the Assembly voting support it,
+
+(d) the proposals are made in both English and Welsh, and
+
+(e) a copy of the proposals are sent to the Secretary of State no later than 28th February 2007.
+
+(5) The Secretary of State may make modifications of any relevant Assembly proposals—
+
+(a) in order to give full effect to what appears to the Secretary of State to be the policy contained in the proposals, or
+
+(b) in consequence of other provision to be included in the standing orders made under this paragraph.
+
+(6) The Secretary of State must publish the standing orders made under this paragraph as soon as reasonably practicable after they are made and must do so in both English and Welsh.
+
+(7) The standing orders made under this paragraph have effect (subject to any revisions made by the Assembly under section 31) unless and until they are remade by the Assembly under that section.
+
+### Witnesses and documents: penalties
+
+**21** In relation to an offence committed before the coming into force of section 281(5) of the Criminal Justice Act 2003 (c. 44) the references in section 39(4)(b) and 40(3)(b) to 51 weeks are to three months.
+
+### [^F633]...
+
+**[^F633]22** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F633]23** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F633]24** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F633]25** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Saving for existing instruments conferring or imposing functions
+
+**26** (1) Any provision of an Order in Council under section 22 of the Government of Wales Act 1998 (whether included by virtue of that section or any other enactment apart from section 155(2) of that Act) which is in force immediately before the commencement of the repeal of that section by this Act continues to have effect after the commencement of that repeal as if it were a provision of an Order in Council under section 58.
+
+(2) Accordingly—
+
+(a) the reference in paragraph 7(2) of Schedule 3 to an Order in Council under section 58 of this Act which includes provision transferring a function to the Welsh Ministers, the First Minister or the Counsel General includes a reference to an Order in Council under section 22 of the Government of Wales Act 1998 which includes provision having that effect by virtue of this Schedule, and
+
+(b) the reference in paragraph 18(5) of Schedule 8 to an Order in Council under section 58 transferring a function of preparing accounts to the Welsh Ministers includes a reference to an Order in Council under section 22 of the Government of Wales Act 1998 which makes provision having that effect by virtue of this Schedule.
+
+(3) Any provision which—
+
+(a) is included in an Order in Council under section 22 of the Government of Wales Act 1998 by virtue of section 155(2) of that Act (meaning of “Wales”), and
+
+(b) is in force at the time when this Act is passed,
+
+is to be treated after that time as if it were also contained in an order under subsection (3) of section 158 of this Act (having effect for the purposes of the definition of “Wales” in subsection (1) of that section).
+
+**27** Orders under section 27 of the Government of Wales Act 1998 which are in force immediately before the commencement of the repeal of that section by this Act continue to have effect despite the commencement of that repeal.
+
+**28** [^F634]1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) Regulations made under section 56 of the Finance Act 1973 (c. 51) by virtue of subsection (4) of that section which are in force immediately before the commencement of the repeal of that subsection by this Act continue to have effect after the commencement of that repeal as if made by virtue of subsection (5) of section 59 of this Act.
+
+### [^F635]...
+
+**[^F635]29** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Transfer of Assembly functions
+
+**30** (1) Subject to paragraph 31, the relevant Assembly functions are transferred to the Welsh Ministers immediately after the end of the initial period.
+
+(2) “The relevant Assembly functions” means functions exercisable by the Assembly constituted by the Government of Wales Act 1998 (c. 38)—
+
+(a) immediately before the end of the initial period, by virtue of an Order in Council under section 22 of the Government of Wales Act 1998,
+
+(b) immediately before the end of that period, as a result of a designation made under section 2(2) of the European Communities Act 1972 (c. 68) by virtue of subsection (1) of section 29 of the Government of Wales Act 1998,
+
+(c) immediately before the end of that period, as a result of having been conferred or imposed on it by an enactment contained in an Act, other than an enactment contained in the Government of Wales Act 1998, or by a prerogative instrument, or
+
+(d) immediately before the end of that period, as a result of having been conferred or imposed on it by subordinate legislation (including subordinate legislation made under the Government of Wales Act 1998).
+
+(3) For the purposes of this paragraph a function is “exercisable” at any time even if the enactment transferring, conferring or imposing it has not come into force at that time.
+
+**31** (1) Her Majesty may by Order in Council provide for—
+
+(a) the transfer of any of the relevant Assembly functions to—
+
+(i) the First Minister, or
+
+(ii) the Counsel General,
+
+(b) the transfer of any of the relevant Assembly functions, other than functions of making, confirming or approving subordinate legislation, to the Assembly Commission, or
+
+(c) any of the relevant Assembly functions, other than functions of making, confirming or approving subordinate legislation, to be functions of the Assembly.
+
+(2) Her Majesty may by Order in Council provide for any relevant Assembly function that is a function of making, confirming or approving subordinate legislation in relation to any matter not to be transferred to the Welsh Ministers and, unless the Assembly already has power to pass Assembly Measures in relation to that matter, amend Part 1 of Schedule 5 to enable the Assembly to have instead power to pass Assembly Measures in relation to that matter—
+
+(a) in the same terms as the relevant Assembly function, or
+
+(b) in terms differing from those terms to such extent as appears appropriate.
+
+(3) Her Majesty may by Order in Council—
+
+(a) direct that any function transferred by paragraph 30 is to be exercisable by any one or more of the First Minister, the Counsel General, the Assembly Commission and the Assembly concurrently with the Welsh Ministers,
+
+(b) direct that any function in relation to which provision is made by virtue of sub-paragraph (1) for it to be transferred to, or continue to be a function of, any person or body is to be exercisable by any other person or body specified in that sub-paragraph concurrently with that person or body, or
+
+(c) direct that any function transferred by paragraph 30, or transferred to the First Minister or the Counsel General by virtue of sub-paragraph (1), is to be exercisable by the Welsh Ministers, the First Minister or the Counsel General only with the agreement of, or after consultation with, the Assembly Commission.
+
+(4) An Order in Council under sub-paragraph (1), (2) or (3) may make such modifications of—
+
+(a) any enactment (including any enactment comprised in or made under this Act) or prerogative instrument, or
+
+(b) any other instrument or document,
+
+as Her Majesty considers appropriate in connection with the provision made by the Order in Council.
+
+(5) No recommendation is to be made to Her Majesty in Council to make an Order in Council under sub-paragraph (1) or (3) in relation to a function which has already been transferred to the Welsh Ministers, the First Minister or the Counsel General without the consent of those persons or that person to the recommendation.
+
+(6) No recommendation is to be made to Her Majesty in Council to make an Order in Council under sub-paragraph (2) unless a draft of the statutory instrument containing the Order in Council has been laid before, and approved by a resolution of, the Assembly constituted by the Government of Wales Act 1998 (c. 38); and a statutory instrument containing an Order in Council under that sub-paragraph is subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(7) No recommendation is to be made to Her Majesty in Council to make an Order in Council under sub-paragraph (1) or (3) unless a draft of the statutory instrument containing the Order in Council has been laid before, and approved by a resolution of, each House of Parliament.
+
+(8) But sub-paragraph (7) does not apply if the Assembly constituted by the Government of Wales Act 1998 or the Assembly constituted by this Act has resolved that a recommendation should be made to Her Majesty in Council to make the Order in Council.
+
+**32** (1) This paragraph applies so far as may be necessary for the purpose or in consequence of the exercise of any functions of—
+
+(a) the Welsh Ministers,
+
+(b) the First Minister,
+
+(c) the Counsel General,
+
+(d) the Assembly Commission, or
+
+(e) the Assembly constituted by this Act,
+
+which are made exercisable by them by or by virtue of paragraph 30 or 31.
+
+(2) Any relevant reference to the Assembly constituted by the Government of Wales Act 1998 (c. 38) is to be construed as being or including a reference to—
+
+(a) the Welsh Ministers,
+
+(b) the First Minister,
+
+(c) the Counsel General,
+
+(d) the Assembly Commission, or
+
+(e) the Assembly constituted by this Act,
+
+(according to by whom the function in question is, or is to be, exercised).
+
+(3) In sub-paragraph (2) “relevant reference to the Assembly constituted by the Government of Wales Act 1998” means—
+
+(a) a reference in any enactment, prerogative instrument or other document to that Assembly, or
+
+(b) a reference in any enactment or other document which, immediately before the commencement of the repeal by this Act of section 43 of the Government of Wales Act 1998, had effect as a reference to that Assembly.
+
+### Functions transferred by Order in Council under section 22 of the Government of Wales Act 1998: Parliamentary and Assembly procedure
+
+**33** (1) This paragraph applies where—
+
+(a) a function to make subordinate legislation was transferred to, or made exercisable by, the Assembly constituted by the Government of Wales Act 1998 by an Order in Council under section 22 of that Act, and
+
+(b) the function has been transferred to, or made exercisable by, the Welsh Ministers, the First Minister or the Counsel General by or by virtue of paragraph 30 or 31.
+
+(2) If, immediately before the coming into force of the provisions of the Order in Council relating to the function, a provision of any of the descriptions specified in sub-paragraph (3) applied to its exercise by a Minister of the Crown—
+
+(a) that provision does not apply to its exercise by the Welsh Ministers, the First Minister or the Counsel General unless the case is one to which sub-paragraph (6) applies, but
+
+(b) (whether or not the case is one to which that sub-paragraph applies) that provision has effect in relation to its exercise by the Welsh Ministers, the First Minister or the Counsel General as if any reference in it to Parliament or either House of Parliament were (or, if it is such a case, included) a reference to the Assembly.
+
+(3) The descriptions of provision referred to in sub-paragraph (2) are—
+
+(a) provision requiring any instrument made in the exercise of the function, or a draft of any such instrument, to be laid before Parliament or either House of Parliament,
+
+(b) provision for the annulment or approval of any such instrument or draft by or in pursuance of a resolution of either House of Parliament or of each House, and
+
+(c) provision prohibiting the making of any such instrument without such approval.
+
+(4) If, immediately before the coming into force of the provisions of the Order in Council relating to the function, a provision of either of the descriptions specified in sub-paragraph (5) applied to its exercise by a Minister of the Crown—
+
+(a) that provision does not apply to its exercise by the Welsh Ministers, the First Minister or the Counsel General unless the case is one to which sub-paragraph (6) or (7) applies, but
+
+(b) (whether or not the case is one to which either of those sub-paragraphs applies) any instrument made in the exercise of the function by the Welsh Ministers, the First Minister or the Counsel General is (or, if it is such a case, is also) subject to the procedure in the Assembly specified by the standing orders.
+
+(5) The descriptions of provision referred to in sub-paragraph (4) are—
+
+(a) provision for any instrument made in the exercise of the function to be a provisional order (that is, an order which requires to be confirmed by Act of Parliament), and
+
+(b) provision requiring any order (within the meaning of the Statutory Orders (Special Procedure) Act 1945 (9 & 10 Geo. 6 c. 18)) made in the exercise of the function to be subject to special parliamentary procedure.
+
+(6) This sub-paragraph applies in any case if the instrument made in the exercise of the function or (if provision specified in sub-paragraph (3)(a) or (b) applied to a draft of an instrument made in the exercise of the function) a draft of an instrument to be so made—
+
+(a) contains subordinate legislation made or to be made by a Minister of the Crown or government department (whether or not jointly with the Welsh Ministers, the First Minister or the Counsel General),
+
+(b) contains (or confirms or approves) subordinate legislation relating to an English border area, or
+
+(c) contains (or confirms or approves) subordinate legislation relating to a cross-border body (and not relating only to the exercise of functions, or the carrying on of activities, by the body in or with respect to Wales or a part of Wales).
+
+[[^F636](6A) References in sub-paragraph (6) to Wales include, in relation to a relevant function or activity of a cross-border body, the area of the Welsh zone beyond the seaward limit of the territorial sea.
+
+A function or activity of a cross-border body is “relevant” if it relates to fishing, fisheries or fish health.]
+
+(7) This sub-paragraph applies in any case if, immediately before the coming into force of the provisions of the Order in Council relating to the function, a provision of the description specified in sub-paragraph (5)(b) applied to an instrument made in exercise of the function by a Minister of the Crown and the Order in Council provided that—
+
+(a) any order made by the Assembly constituted by the Government of Wales Act 1998 (c. 38) in the exercise of the function, or
+
+(b) any order so made in circumstances including those of the case,
+
+is to be subject to special parliamentary procedure.
+
+(8) In this paragraph “make” includes confirm or approve and related expressions (except “made exercisable”) are to be construed accordingly; but an instrument (or draft) does not fall within sub-paragraph (6)(a) just because it contains subordinate legislation made (or to be made) by the Welsh Ministers, the First Minister or the Counsel General with the agreement of a Minister of the Crown or government department.
+
+### Functions conferred or imposed by pre-commencement enactment: Parliamentary and Assembly procedure
+
+**34** (1) This paragraph applies where—
+
+(a) a function to make subordinate legislation was conferred or imposed on the Assembly constituted by the Government of Wales Act 1998 (c. 38) by a pre-commencement enactment (“the Welsh function”),
+
+(b) the Welsh function has been transferred to the Welsh Ministers, the First Minister or the Counsel General by or by virtue of paragraph 30 or 31, and
+
+(c) when the Welsh function was transferred, a Minister of the Crown had the same or substantially the same function exercisable in relation to England (“the corresponding function”).
+
+(2) If, immediately after the transfer of the Welsh function, a provision of any of the descriptions specified in sub-paragraph (4)—
+
+(a) applied to the exercise of the corresponding function by the Minister of the Crown, but
+
+(b) did not apply to the exercise of the Welsh function by the Welsh Ministers, the First Minister or the Counsel General,
+
+the provision applies to any exercise of the Welsh function by the Welsh Ministers, the First Minister or the Counsel General as if any reference in it to Parliament or either House of Parliament were a reference to the Assembly.
+
+(3) [[^F637]Subject to sub-paragraphs (4A) and (4B),] If, immediately after the transfer of the Welsh function, a provision of any of the descriptions specified in sub-paragraph (4) applied to both—
+
+(a) the exercise of the corresponding function by the Minister of the Crown, and
+
+(b) the exercise of the Welsh function by the Welsh Ministers, the First Minister or the Counsel General,
+
+the provision applies to any exercise of the Welsh function by the Welsh Ministers, the First Minister or the Counsel General as if any reference in it to Parliament or either House of Parliament were a reference both to the Assembly and to Parliament or either House of Parliament.
+
+(4) The descriptions of provision referred to in sub-paragraphs (2) and (3) are—
+
+(a) provision requiring any instrument made in the exercise of the function, or a draft of any such instrument, to be laid before Parliament or either House of Parliament,
+
+(b) provision for the annulment or approval of any such instrument or draft by or in pursuance of a resolution of either House of Parliament or of both Houses, and
+
+(c) provision prohibiting the making of any such instrument without such approval.
+
+[[^F638](4A) Section 1(5) of the Travel Concessions (Eligibility) Act 2002 (parliamentary procedure) applies to an order made by the Welsh Ministers under section 1(4) of that Act (order changing minimum age for the purposes of eligibility for travel concessions) as if the reference to either House of Parliament were a reference to the Assembly.
+
+(4B) Section 268(13) of the Enterprise Act 2002 (parliamentary procedure) applies to an order made by the Welsh Ministers under section 268(1) of that Act (order in relation to disqualification from office) as if the reference to each House of Parliament were a reference to the Assembly.]
+
+(5) If, immediately after the transfer of the Welsh function, a provision of either of the descriptions specified in sub-paragraph (7)—
+
+(a) applied to the exercise of the corresponding function by the Minister of the Crown, but
+
+(b) did not apply to the exercise of the Welsh function by the Welsh Ministers, the First Minister or the Counsel General,
+
+an instrument made in any exercise of the Welsh function by the Welsh Ministers, the First Minister or the Counsel General is subject to the procedure in the Assembly specified by the standing orders.
+
+(6) If, immediately after the transfer of the Welsh function, a provision of either of the descriptions specified in sub-paragraph (7) applied to both—
+
+(a) the exercise of the corresponding function by the Minister of the Crown, and
+
+(b) the exercise of the Welsh function by the Welsh Ministers, the First Minister or the Counsel General,
+
+the instrument made in any exercise of the Welsh function by the Welsh Ministers, the First Minister or the Counsel General is subject to that provision and to the procedure in the Assembly specified by the standing orders.
+
+(7) The descriptions of provision referred to in sub-paragraphs (5) and (6) are—
+
+(a) provision for any instrument made in the exercise of the function to be a provisional order (that is, an order which requires to be confirmed by Act of Parliament), and
+
+(b) provision requiring any order (within the meaning of the Statutory Orders (Special Procedure) Act 1945 (9 & 10 Geo. 6 c. 18)) made in the exercise of the function to be subject to special parliamentary procedure.
+
+(8) In this paragraph—
+
+- “make” includes confirm or approve and related expressions are to be construed accordingly, and
+- “pre-commencement enactment” means an enactment contained in an Act passed or subordinate legislation made before the end of the initial period.
+
+(9) This paragraph does not apply if the Welsh function was transferred as a result of the operation of paragraph 30(2)(b) (see paragraph 28 and section 59).
+
+**35** (1) This paragraph applies where—
+
+(a) a function to make subordinate legislation was conferred or imposed on the Assembly constituted by the Government of Wales Act 1998 (c. 38) by a pre-commencement enactment,
+
+(b) the function has been transferred to the Welsh Ministers, the First Minister or the Counsel General by or by virtue of paragraph 30 or 31, and
+
+(c) when the function was transferred, no Minister of the Crown had the same or substantially the same function exercisable in relation to England.
+
+(2) No procedure for scrutiny by the Assembly applies to any instrument made in the exercise of the function, or a draft of any such instrument, unless the function is specified in Table 1 or Table 2.
+
+(3) No subordinate legislation is to be made by the Welsh Ministers, the First Minister or the Counsel General in the exercise of any function specified in Table 1 unless a draft of the statutory instrument containing it has been laid before, and approved by a resolution of, the Assembly.
+
+|  |  |
+|---|---|
+| *Function* | *Description* |
+| [^F639] . . . | [^F639] . . . |
+| Section 45D of the School Standards and Framework Act 1998 (c. 31). | Power to repeal school funding provisions. |
+| Section 8(3) of the Care Standards Act 2000 (c. 14). | Power to confer functions in relation to Part 2 services in Wales. |
+| Section 72B(2) of that Act. | Power to amend list of persons reviewable by Commissioner. |
+| Section 73(5A) of that Act. | Power to amend list of arrangements reviewable by Commissioner. |
+| Section 76(4) of that Act. | Power to confer further functions on Commissioner. |
+| Section 78(1A) of that Act. | Power to provide that person aged 18 or over is a child for the purposes of Part 5. |
+| Section 78(6) of that Act. | Power to make provision about persons to whom Part 5 applies. |
+| Paragraph 2 of Schedule 2 to that Act. | Power to make provision about the appointment etc. of Commissioner. |
+| Section 68(1) of the Local Government Act 2000 (c. 22), if exercised to amend or repeal any enactment contained in an Act. | Power to confer functions on Public Services Ombudsman for Wales. |
+| Section 68(3) of that Act, if exercised to amend or repeal any enactment contained in an Act. | Power to make provision relating to Ombudsman's functions and expenses. |
+| [^F640] . . . | [^F640] . . . |
+| [^F641] . . . | [^F641] . . . |
+| Section 3(4) of the Health (Wales) Act 2003 (c. 4). | Power to transfer functions of Wales Centre for Health to Welsh Minister. |
+| Section 4(1) of that Act. | Power to establish Health Professions Wales ( HPW ). |
+| Section 4(3) of that Act. | Power to provide for HPW to carry out Welsh Ministers' functions. |
+| Section 5(8) of that Act. | Power to abolish HPW. |
+| Section 83(2) of the Local Government Act 2003 (c. 26). | Power to make fire authorities in Wales major precepting authorities. |
+| Section 92(2) of that Act. | Power to repeal section 24(3) of the Housing Act 1985 (c. 68). |
+| Section 23(9) of the Anti-social Behaviour Act 2003 (c. 38). | Power to apply to Wales provisions about penalty notices in cases of truancy. |
+| Section 75(1) of the Health and Social Care (Community Health and Standards) Act 2003 (c. 43), if exercised to amend or repeal any part of the text of an Act. | Power to require prescribed persons to provide explanation of documents etc. |
+| [^F642] . . . | [^F642] . . . |
+| [^F643]Section 33(3)(a)(ii) of the Higher Education Act 2004 (c. 8). | [^F643]Power to require institutions' plans to include provision relating to promotion of higher education. |
+| Section 12(2) of the Public Audit (Wales) Act 2004 (c. 23). | Power to add to definition of “local government body in Wales”. |
+| Section 39(1) of that Act, if exercised so as to include a declaration that a contravention is an offence. | Power to make provision about publication etc. of accounts. |
+| Section 46(2) of that Act. | Power to apply sections 47 to 49 to other local government bodies. |
+| Section 47(5) of that Act. | Power to shorten period within which body must publish information. |
+| Section 62(1) of the Education Act 2005 (c. 18), if exercised to amend or repeal an enactment. | Power to change inspection framework for Wales. |
+| Section 103(3) of that Act. | Power to repeal certain provisions in the Education Act 2002 (c. 32). |
+| Section 124(1) of that Act, if exercised to amend or repeal an enactment. | Power to make consequential etc. provision. |
+| [^F644] . . . | [^F644] . . . |
+| [[^F645]Section 4(1) of the Commissioner for Older People (Wales) Act 2006. | Power to amend Schedule 2 to that Act.] |
+| [[^F646]Section 6(5) of that Act. | Power to confer power on the Commissioner to require prescribed persons to provide information for the purposes of his functions under section 5.] |
+| [[^F647]Section 7(1) of that Act. | Power to amend Schedule 3 to that Act.] |
+| [[^F648]Section 16(4) of that Act. | Power to apply the joint working provisions in section 16 to persons other than the Ombudsmen specified in that section.] |
+| [[^F649]Section 17(8) of that Act. | Power to amend subsection 17(6), which specifies persons with whom the Commissioner may work collaboratively under section 17.] |
+| [[^F650]Section 18(10) of that Act. | Power to amend the definition of “permitted person” in section 18(9).] |
+| [[^F651]Section 27(2) of that Act. | Power to amend the definition of “family health service provider in Wales” and “independent provider in Wales”.] |
+
+(4) A statutory instrument containing subordinate legislation made by the Welsh Ministers, the First Minister or the Counsel General in the exercise of any function specified in Table 2 is (unless a draft of the statutory instrument has been laid before, and approved by a resolution of, the Assembly) subject to annulment in pursuance of a resolution of the Assembly.
+
+|  |  |
+|---|---|
+| *Function* | *Description* |
+| [^F652] . . . | [^F652] . . . |
+| [^F653] . . . | [^F653] . . . |
+| [^F654] . . . | [^F654] . . . |
+| [^F655] . . . | [^F655] . . . |
+| [^F656] . . . | [^F656] . . . |
+| [^F657] . . . | [^F657] . . . |
+| [^F658] . . . | [^F658] . . . |
+| [^F659] . . . | [^F659] . . . |
+| [^F660] . . . | [^F660] . . . |
+| [^F661] . . . | [^F661] . . . |
+| [^F662] . . . | [^F662] . . . |
+| [^F663] . . . | [^F663] . . . |
+| [^F664] . . . | [^F664] . . . |
+| [[^F665]Section 97D of the School Standards and Framework Act 1998. | Power to make provision about the admission of children looked after by local authorities in Wales to maintained schools in Wales.] |
+| [^F664] . . . | [^F664] . . . |
+| Paragraph 13B(1) of Schedule 26 to that Act. | Power to prescribe period within which nursery inspection report must be made. |
+| Section 73(5) of the Care Standards Act 2000 (c. 14). | Power to confer power on the Commissioner to require information. |
+| Section 74(1) of that Act. | Power to provide for examination by Commissioner of particular cases. |
+| Section 76(1) of that Act. | Power to confer power on Commissioner to assist children. |
+| Paragraph 6(4) of Schedule 2 to that Act. | Power to specify the financial years of Commissioner. |
+| Paragraph 8 of that Schedule. | Power to require Commissioner to make reports to Assembly. |
+| Paragraph 17 of that Schedule. | Power to add Commissioner to the Superannuation Act 1972 (c. 11). |
+| [^F666] . . . | [^F666] . . . |
+| Section 128(4)(b) and (c) of [[^F667]the Learning and Skills Act 2000 (c. 21)] . | Power about statement of proposed action. |
+| Section 68(1) of the Local Government Act 2000 (c. 22), unless exercised to amend or repeal any enactment contained in an Act. | Power to confer functions on Public Services Ombudsman for Wales. |
+| Section 68(3) of that Act, unless exercised to amend or repeal any enactment contained in an Act. | Power to make provision relating to Ombudsman's functions and expenses. |
+| [^F664] . . . | [^F664] . . . |
+| [[^F668]Section 113A(1) of the Transport Act 2000. | Power to modify the application of sections 108 to 111 of that Act in relation to local transport authorities whose areas are in Wales.] |
+| [^F664] . . . | [^F664] . . . |
+| [^F669] . . . | [^F669] . . . |
+| [^F670] . . . | [^F670] . . . |
+| [^F671] . . . | [^F671] . . . |
+| [^F664] . . . | [^F664] . . . |
+| Section 197 of [[^F672]the Education Act 2002 (c. 32)] . | Power relating to partnership agreements and statements. |
+| Section 198 of that Act. | Power relating to transition from primary to secondary school. |
+| Section 207(4) of that Act. | Power relating to adjustments between [[^F673]local authorities] . |
+| Section 3(3) of the Health (Wales) Act 2003 (c. 4). | Power to make provision about functions of Wales Centre for Health. |
+| Section 4(4) of that Act. | Power to make provision for HPW to make arrangements about functions. |
+| Section 4(7) of that Act. | Power to make provision about constitution of HPW. |
+| Section 5(1) of that Act. | Power to permit HPW to charge for services. |
+| Section 5(2) of that Act. | Power to transfer property etc. and personnel to HPW. |
+| Section 5(7) of that Act. | Power to make provision about accounts and audit of HPW. |
+| Section 5(9) of that Act. | Power to transfer property etc. and staff from HPW. |
+| Paragraph 10 of Schedule 2 to that Act. | Power to make provision about Wales Centre for Health. |
+| Paragraph 27 of Schedule 2 to that Act. | Power to make provision about accounts and audit of Centre. |
+| Section 29(1) of the Waste and Emissions Trading Act 2003 (c. 33) | Power to require Welsh local authority to have waste management strategy. |
+| Section 30(1) of that Act. | Power to require Welsh local authority to provide information about waste. |
+| Section 75(1) of the Health and Social Care (Community Health and Standards) Act 2003 (c. 43), unless exercised to amend or repeal any part of the text of an Act. | Power to require prescribed persons to provide explanation of documents etc. |
+| [^F664] . . . | [^F664] . . . |
+| [^F674]Section 62(4) of the Planning and Compulsory Purchase Act 2004 (c. 5). | [^F674]Power to prescribe form and content of local development plan. |
+| [^F674]Section 63(3)(a) of that Act. | [^F674]Power to prescribe persons to be included in community involvement scheme. |
+| [^F674]Section 63(7) of that Act. | [^F674]Power to prescribe requirements in relation to that scheme and local development plan. |
+| [^F674]Section 69(1) of that Act. | [^F674]Power to prescribe times for review of local development plan. |
+| [^F674]Section 69(3) of that Act. | [^F674]Power to prescribe form of, and publication requirements for, review. |
+| [^F674]Section 76(2) of that Act. | [^F674]Power to prescribe information to be contained in annual monitoring report. |
+| [^F674]Section 76(3) of that Act. | [^F674]Power to prescribe timing, form and content of report. |
+| [^F674]Section 77 of that Act. | [^F674]Power to make provision about functions conferred by Part 6. |
+| [^F675]Section 30(1)(b) of the Higher Education Act 2004 (c. 8). | [^F675]Power to designate “relevant authority”. |
+| [^F675]Section 38(2) of that Act. | [^F675]Power to prescribe maximum period during which relevant authority can refuse to approve institution's new plan. |
+| [^F664] . . . | [^F664] . . . |
+| Section 39(1) of [[^F676]the Public Audit (Wales) Act 2004 (c. 23)] , unless exercised so as to include a declaration that a contravention is an offence. | Power to make provision about publication etc. of accounts. |
+| Section 52(2)(c) of that Act. | Power to specify documents to which right of access applies. |
+| [^F677]Section 26(2)(f) of the Children Act 2004 (c. 31). | [^F677]Power to make provision about implementation of children and young people's plans. |
+| [^F677]Section 26(4) of that Act. | [^F677]Power to require approval of such plans. |
+| Section 22(1) of the Education Act 2005 (c. 18). | Power to establish panel to advise on Chief Inspector's functions. |
+| Section 25(2) of that Act. | Power to prescribe categories of persons who may be registered inspectors. |
+| Section 25(3)(b) of that Act. | Power to prescribe fees for applications for registration. |
+| Section 36(2) of that Act. | Power to make provision as to timing of inspections and reports. |
+| Section 38(3)(e) and (4)(b) and (c) of that Act. | Power to make provision relating to destination of reports about maintained schools. |
+| Section 39(2)(a), (3), (5) and (7)(b) of that Act. | Power to make provision relating to statement prepared by appropriate authority for school. |
+| Section 40(3)(a) of that Act. | Power to make provision relating to statement prepared by [[^F678]local authority] . |
+| Section 41(4)(b) and (c) of that Act. | Power to make provision relating to destination of reports about non-maintained schools. |
+| Section 42(2)(a), (3), (4) and (5)(b) of that Act. | Power to make provision relating to statement prepared by proprietor of school. |
+| Section 52(5) of that Act. | Power to make provision about provision of inspection services by [[^F679]local authorities] . |
+| Section 55(4) of that Act. | Power to prescribe intervals at which careers services are inspected. |
+| Section 56(3) of that Act. | Power to prescribe intervals at which related services are inspected. |
+| Section 57(7)(a), (b) and (c) of that Act. | Power to require a person inspected to prepare written statement in response. |
+| Section 57(9) of that Act. | Power to make provision about inspection reports. |
+| Section 62(1) of that Act, unless exercised to amend or repeal an enactment. | Power to change inspection framework for Wales. |
+| [^F680] . . . | [^F680] . . . |
+| Section 124(1) of that Act, unless exercised to amend or repeal an enactment. | Power to make consequential etc. provision. |
+| Paragraph 2 of Schedule 3 to that Act. | Power to make provision about appeals to, and procedure of, tribunals. |
+| Paragraph 3(2)(b) of Schedule 4 to that Act. | Power to prescribe persons who may not be members of inspection team. |
+| Paragraph 4(3) of Schedule 4 to that Act. | Power to waive fees for applications to be on the list of inspection team members. |
+| Paragraph 6(b) of Schedule 4 to that Act. | Power to make provisions about meetings between inspectors and pupils. |
+| [[^F681]Section 8(1) of the Transport (Wales) Act 2006. | Power to establish the Public Transport Users` Committee for Wales or Pwyllgor Defnyddwyr Trafnidiaeth Gyhoeddus Cymru.] |
+| [[^F682]Section 8(2) of that Act. | Power to change the name of a body established under section 8(1) of that Act.] |
+| [[^F683]Section 8(6) of that Act | Power to make provision for the transfer of staff, property, rights and liabilities, from the Committee to any other person.] |
+| [[^F684]Section 9(3) of that Act. | Power to change or transfer functions of the Public Transport Users` Committee for Wales.] |
+| [[^F685]Section 8(1) of the Commissioner for Older People (Wales) Act 2006. | Power to confer power on the Commissioner to give assistance to certain persons to make complaints in respect of matters specified in section 8.] |
+| [[^F686]Section 10(1) of that Act. | Power to make regulations allowing the Commissioner to examine cases of particular persons who are, or have been, older people in Wales.] |
+| [[^F687]Section 14(1) of that Act. | Power to confer additional functions on the Commissioner.] |
+| [[^F688]Section 15(1) of that Act. | Power to make regulations providing for the Commissioner to make reports following the discharge of any of his functions.] |
+| [[^F689]Section 21(2) of that Act. | Power to prescribe certain functions for the purpose of preventing the Commissioner from being authorised and required to exercise those functions.] |
+| [[^F690]Paragraph 2 of Schedule 1 to that Act. | Power to make provision as to the appointment of the Commissioner and as to the terms of office of the Commissioner.] |
+| [[^F691]Article 16(4) of the National Assembly for Wales (Representation of the People) Order 2007. | Power to specify the apportionment of the costs of combined polls at an Assembly general election and an ordinary local government election.] |
+
+(5) In this paragraph—
+
+- “make” includes confirm or approve and related expressions are to be construed accordingly, and
+- “pre-commencement enactment” means an enactment contained in an Act passed or subordinate legislation made before the end of the initial period.
+
+(6) This paragraph does not apply if the function was transferred as a result of the operation of paragraph 30(2)(b) (see paragraph 28 and section 59).
+
+### [^F692]...
+
+**[^F692]35A** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Transfers of Assembly functions: laying of reports and statements
+
+**36** (1) This paragraph applies where—
+
+(a) a function to make or receive a report or statement was transferred to, or made exercisable by, the Assembly constituted by the Government of Wales Act 1998 (c. 38) by an Order in Council under section 22 of that Act,
+
+(b) the function has been transferred to, or made exercisable by, the Welsh Ministers, the First Minister, the Counsel General or the Assembly Commission by or by virtue of paragraph 30 or 31, and
+
+(c) immediately before the transfer of the function to that Assembly, any enactment made provision (“provision for Parliamentary laying”) for a report or statement made or received in the exercise of the function to be laid before Parliament or either House of Parliament by the person making or receiving it.
+
+(2) The provision for Parliamentary laying applies to the exercise of the function by the Welsh Ministers, the First Minister, the Counsel General or the Assembly Commission as if it required the report or statement to be laid before the Assembly instead of before Parliament or either House of Parliament.
+
+(3) In this paragraph and paragraph 37 references to a report or statement include any other document (except one containing subordinate legislation).
+
+**37** (1) This paragraph applies where—
+
+(a) a function to make or receive a report or statement was conferred or imposed on the Assembly constituted by the Government of Wales Act 1998 by a pre-commencement enactment,
+
+(b) the function has been transferred to the Welsh Ministers, the First Minister, the Counsel General or the Assembly Commission by or by virtue of paragraph 30 or 31, and
+
+(c) immediately before the transfer, any enactment made provision for a report or statement made or received in the exercise of the function (or the matter contained in such a report or statement) to be published by that Assembly.
+
+(2) A copy of the report or statement must be laid before the Assembly after it has been made or received.
+
+(3) In this paragraph “pre-commencement enactment” means an enactment contained in an Act passed or subordinate legislation made before the end of the initial period.
+
+### Transfers of Assembly functions: property, rights and liabilities
+
+**38** (1) In paragraphs 39 and 40 “transferred function” means a function—
+
+(a) which is conferred or imposed on the Welsh Ministers, the First Minister or the Counsel General by a provision of this Act which re-enacts (with or without modifications) a provision of the Government of Wales Act 1998 (c. 38) which conferred or imposed the same or substantially the same function on the Assembly constituted by that Act,
+
+(b) which is transferred to a person or body other than the Assembly by or by virtue of paragraph 30 or 31, or
+
+(c) which is conferred or imposed on the Welsh Ministers, the First Minister or the Counsel General by a provision of any Act in consequence of the amendment of that Act by or under this Act.
+
+(2) In paragraphs 39 and 40 “the transferee”, in relation to a transferred function, means—
+
+(a) in the case of a function within paragraph (a) or (c) of sub-paragraph (1), the person or body on whom the function is conferred or imposed, and
+
+(b) in the case of a function within paragraph (b) of that sub-paragraph, the person or body to whom the function is transferred.
+
+(3) In paragraph 39 “transfer time”, in relation to a transferred function, means the time when the function first becomes exercisable by the transferee of the transferred function.
+
+**39** (1) The property, rights and liabilities to which the Assembly constituted by the Government of Wales Act 1998 is entitled or subject in connection with any transferred function are transferred to and vest in the transferee of the function.
+
+(2) Anything (including legal proceedings) which relates to—
+
+(a) any transferred function, or
+
+(b) any property, rights or liabilities transferred by sub-paragraph (1) in connection with any transferred function,
+
+and which is in the process of being done by or in relation to the Assembly constituted by the Government of Wales Act 1998 immediately before the transfer time may be continued by or in relation to the transferee of the transferred function.
+
+(3) Anything which was done by or in relation to the Assembly constituted by the Government of Wales Act 1998 for the purpose of or in connection with—
+
+(a) any transferred function, or
+
+(b) any property, rights or liabilities transferred by sub-paragraph (1) in connection with any transferred function,
+
+and which is in effect immediately before the transfer time has effect as if done by or in relation to the transferee of the transferred function.
+
+(4) In any instruments, contracts or legal proceedings which relate to—
+
+(a) any transferred function, or
+
+(b) any property, rights or liabilities transferred by sub-paragraph (1) in connection with any transferred function,
+
+and which are made or commenced before the transfer time, the transferee of the transferred function is substituted for the Assembly constituted by the Government of Wales Act 1998.
+
+**40** (1) Her Majesty may by Order in Council provide that all or any of the provisions of paragraph 39—
+
+(a) do not apply in relation to particular transferred functions or to the property, rights and liabilities connected with the particular transferred functions or particular property, rights and liabilities so connected,
+
+(b) are to apply only in relation to particular transferred functions or to particular property, rights or liabilities connected with transferred functions, or
+
+(c) apply with modifications in relation to particular transferred functions or to the property, rights and liabilities connected with the particular transferred functions or particular property, rights and liabilities so connected.
+
+(2) Paragraph 39 does not apply in relation to rights and liabilities under a contract of employment of a member of the staff of the Assembly constituted by the Government of Wales Act 1998 (c. 38).
+
+(3) No recommendation is to be made to Her Majesty in Council to make an Order in Council under this paragraph unless a draft of the statutory instrument containing the Order in Council has been laid before and approved by a resolution of—
+
+(a) each House of Parliament, and
+
+(b) the Assembly constituted by the Government of Wales Act 1998 or the Assembly constituted by this Act.
+
+**41** (1) The Secretary of State may by order provide for the transfer to the Welsh Ministers, the First Minister, the Counsel General or the Assembly Commission of—
+
+(a) any specified property, rights or liabilities, or
+
+(b) property, rights or liabilities of any specified description,
+
+to which the Assembly constituted by the Government of Wales Act 1998 is entitled or subject or to which that Assembly was entitled or subject immediately before the end of the initial period.
+
+(2) An order under sub-paragraph (1) may provide for the transfer of any property, rights or liabilities to have effect subject to exceptions or reservations specified in or determined under the order.
+
+(3) An order under sub-paragraph (1) may provide—
+
+(a) for the creation in favour of the Assembly Commission of interests in, or rights over, property transferred to the Welsh Ministers, the First Minister or the Counsel General,
+
+(b) for the creation in favour of the Welsh Ministers, the First Minister or the Counsel General of interests in, or rights over, property transferred to the Assembly Commission, or
+
+(c) for the creation of new rights and liabilities between the Welsh Ministers, the First Minister or the Counsel General on the one hand and the Assembly Commission on the other.
+
+(4) The Secretary of State may by order make provision for the continuation by or in relation to the Welsh Ministers, the First Minister, the Counsel General, or the Assembly Commission of—
+
+(a) any specified thing, or
+
+(b) anything of a specified description,
+
+commenced by or in relation to the Assembly constituted by the Government of Wales Act 1998 (c. 38).
+
+(5) The Secretary of State may by order make provision for—
+
+(a) any specified thing, or
+
+(b) anything of a specified description,
+
+done by or in relation to the Assembly constituted by the Government of Wales Act 1998 to have effect as if done by or in relation to the Welsh Ministers, the First Minister, the Counsel General or the Assembly Commission.
+
+(6) The Secretary of State may by order make provision for the substitution of the Welsh Ministers, the First Minister, the Counsel General or the Assembly Commission for the Assembly constituted by the Government of Wales Act 1998 in—
+
+(a) any specified instrument, contract or legal proceedings, or
+
+(b) any instrument, contract or legal proceedings of a specified description.
+
+(7) An order under this paragraph may be made in consequence of provision made by this Act or in any other circumstances in which the Secretary of State considers it appropriate to make such an order.
+
+(8) An order under this paragraph may not provide for the transfer of rights and liabilities under a contract of employment of a member of the staff of the Assembly constituted by the Government of Wales Act 1998.
+
+(9) A statutory instrument containing an order under this paragraph is subject to annulment in pursuance of a resolution of either House of Parliament.
+
+**42** (1) A certificate issued by the Secretary of State that any property has been transferred by—
+
+(a) paragraph 39, or
+
+(b) an order under paragraph 41,
+
+is conclusive evidence of the transfer.
+
+(2) Paragraph 39, and orders under paragraph 41, have effect in relation to property, rights or liabilities to which they apply in spite of any provision (of whatever nature) which would otherwise prevent, penalise or restrict the transfer of the property, rights or liabilities.
+
+(3) A right of pre-emption, right of return or other similar right does not operate or become exercisable as a result of any transfer of property or rights by virtue of paragraph 39 or an order under paragraph 41.
+
+(4) Any such right has effect in the case of any such transfer as if the transferee were the same person in law as the transferor and no transfer of the property or rights had taken place.
+
+(5) Such compensation as is just is to be paid to any person in respect of any such right which would, apart from sub-paragraph (3), have operated in favour of or become exercisable by that person but which, in consequence of the operation of that sub-paragraph, cannot subsequently operate in favour of or become exercisable by that person.
+
+(6) Any compensation payable by virtue of sub-paragraph (5) is to be paid by the transferor or by the transferee or by both.
+
+(7) The Secretary of State may by order make provision for the determination of disputes as to—
+
+(a) whether compensation is payable under sub-paragraph (5),
+
+(b) how much compensation is payable, and
+
+(c) the person to whom or by whom it is to be paid.
+
+(8) A statutory instrument containing an order under this paragraph is subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(9) Sub-paragraphs (2) to (8) apply in relation to the creation of rights or interests, or the doing of anything else, in relation to property as they apply in relation to a transfer of property; and references to the transferor and transferee are to be read accordingly.
+
+(10) In this paragraph “right of return” means any right under a provision for the return or reversion of property in specified circumstances.
+
+### [[^F693]Criminal Liability of the Assembly
+
+**42A** (1) —(1) In this paragraph, “ criminal liability of the Assembly ” means criminal liability incurred by the Assembly constituted by the Government of Wales Act 1998.
+
+(2) To the extent that any criminal liability of the Assembly is connected with property, rights and other liabilities transferred to the Assembly Commission by the National Assembly for Wales (Transfer of Property, Rights and Liabilities) Order 2007, that criminal liability is transferred to the Assembly Commission.
+
+(3) Subject to sub-paragraph (2), the criminal liability of the Assembly is transferred to the Welsh [^F138]... Government.
+
+(4) Paragraph 39(2) to (4) applies in relation to criminal liability transferred by this paragraph as it applies to a liability transferred by paragraph 39; and in that application of paragraph 39(2) to (4)—
+
+- “ transfer time ” means the time immediately after the end of the initial period;
+- “ transferee of the transferred function ” means the Assembly Commission or, as the case may be, the Welsh [^F138]... Government. ]
+
+### Staff of the Assembly
+
+**43** (1) Subject as follows, at the end of the initial period the members of the staff of the Assembly constituted by the Government of Wales Act 1998 (c. 38) (“relevant employees”) are to be taken to have been appointed as members of the staff of the Welsh [^F138]... Government.
+
+(2) But the Secretary of State may by order make a scheme (“a transfer scheme”) for the transfer to the Assembly Commission of [[^F694]the rights, powers, duties and liabilities of the Assembly constituted by the Government of Wales Act 1998 in respect of] listed relevant employees under [[^F695]or in connection with] their contracts of employment at the end of the initial period.
+
+(3) A relevant employee is a listed relevant employee if the relevant employee is named in, or is of a description of relevant employees specified in, a list produced by the Secretary of State; and the Secretary of State—
+
+(a) may at any time amend the list, and
+
+(b) must make the list (and any amendments of it) available to such persons, and in such manner, as appear appropriate.
+
+(4) The transfer by a transfer scheme of [[^F696]the rights, powers, duties and liabilities of the Assembly constituted by the Government of Wales Act 1998 in respect of] a relevant employee under [[^F697]or in connection with] the relevant employee's contract of employment does not break the continuity of the relevant employee's employment and accordingly—
+
+(a) the relevant employee is not to be regarded for the purposes of Part 11 of the Employment Rights Act 1996 (c. 18) (redundancy) as having been dismissed by virtue of the transfer, and
+
+(b) the relevant employee's period of employment with the Assembly constituted by the Government of Wales Act 1998 counts as a period of employment with the Assembly Commission for the purposes of the Employment Rights Act 1996.
+
+(5) A transfer scheme transferring [[^F698]the rights, powers, duties and liabilities of the Assembly constituted by the Government of Wales Act 1998 in respect of] a relevant employee under [[^F699]or in connection with] the relevant employee's contract of employment must provide for the terms and conditions of the relevant employee's employment with the Assembly Commission (taken as a whole) to be no less favourable to the relevant employee than the terms and conditions on which the relevant employee is employed immediately before the transfer.
+
+(6) A transfer scheme must provide that, if a listed relevant employee informs the Assembly constituted by the Government of Wales Act 1998 or the Assembly Commission that the relevant employee objects to becoming employed by the Assembly Commission—
+
+(a) the transfer scheme does not operate to transfer [[^F700]any rights, powers, duties and liabilities of the Assembly constituted by the Government of Wales Act 1998 in respect of][[^F701]or in connection with] the relevant employee's contract of employment, and
+
+(b) the relevant employee's contract of employment is terminated [[^F702]immediately before the end of] the initial period, but
+
+(c) the relevant employee is not, by virtue of that termination, to be treated for any purpose as having been dismissed.
+
+(7) Anything (including legal proceedings) which relates to [[^F703]any rights, powers, duties or liabilities] transferred by a transfer scheme which is in the process of being done by or in relation to the Assembly constituted by the Government of Wales Act 1998 (c. 38) immediately before they are transferred may be continued by or in relation to the Assembly Commission.
+
+(8) Anything which was done by or in relation to the Assembly constituted by the Government of Wales Act 1998 for the purpose of or in connection with [[^F704]any rights, powers, duties or liabilities] transferred by a transfer scheme which is in effect immediately before they are transferred has effect as if done by or in relation to the Assembly Commission.
+
+(9) In any instruments, contracts or legal proceedings which relate to [[^F705]any rights, powers, duties or liabilities] transferred by a transfer scheme and which are made or commenced immediately before they are transferred, the Assembly Commission is substituted for the Assembly constituted by the Government of Wales Act 1998.
+
+(10) Before making an order under sub-paragraph (2) the Secretary of State must consult the Assembly constituted by the Government of Wales Act 1998.
+
+(11) A statutory instrument containing an order under sub-paragraph (2) is subject to annulment in pursuance of a resolution of either House of Parliament.
+
+### Powers to lend money
+
+**44** (1) This paragraph applies where—
+
+(a) a power to lend money was transferred to the Assembly constituted by the Government of Wales Act 1998 by an Order in Council under section 22 of that Act, and
+
+(b) the power has been transferred to the Welsh Ministers by paragraph 30.
+
+(2) Sub-paragraph (3) applies to any sums which, for the purpose or as a result of the exercise of the power, would be required (apart from that sub-paragraph)—
+
+(a) to be issued by the Treasury out of the National Loans Fund, or
+
+(b) to be paid into that Fund.
+
+(3) Those sums are instead—
+
+(a) to be charged on the Welsh Consolidated Fund, or
+
+(b) to be paid into that Fund.
+
+(4) The following provisions apply where—
+
+(a) the power was exercised by a Minister of the Crown before its transfer to the Assembly constituted by the Government of Wales Act 1998 (c. 38) or by that Assembly after its transfer, and
+
+(b) the sums required for the exercise of the power were issued by the Treasury out of the National Loans Fund.
+
+(5) Any amount payable by way of repayment of, or of interest on, the loan is to be paid to the Welsh Ministers and into the Welsh Consolidated Fund (instead of to the Minister of the Crown and into the National Loans Fund).
+
+(6) Amounts equal to those which are to be received by the Welsh Ministers in repayment of principal are to be treated as being loans made to the Welsh Ministers by the Secretary of State on the date of the transfer of the power to the Welsh Ministers.
+
+(7) Such loans are to be repaid to the Secretary of State at such times and by such methods, and interest is to be paid to the Secretary of State at such rates and at such times, as the Treasury may from time to time determine.
+
+(8) Sums required to be paid to the Secretary of State under sub-paragraph (7) are to be charged on the Welsh Consolidated Fund.
+
+(9) Sums received by the Secretary of State under sub-paragraph (7) are to be paid into the National Loans Fund.
+
+(10) Her Majesty may by Order in Council disapply this paragraph (in whole or in part) in relation to any power to lend money.
+
+(11) No recommendation is to be made to Her Majesty in Council to make an Order in Council under sub-paragraph (10) unless a draft of the statutory instrument containing the Order in Council has been laid before, and approved by a resolution of, each House of Parliament.
+
+### Local government scheme
+
+**45** (1) Any scheme under section 113(1) of the Government of Wales Act 1998 which is in force immediately before the commencement of the repeal of that provision by this Act has effect after that time (with appropriate modifications) as if made under section 73.
+
+(2) Sub-paragraph (1) does not give rise to any obligation under section 73(4) to publish the scheme.
+
+(3) Section 73(6) does not apply in relation to the financial year ending with 31st March 2007.
+
+(4) But if the Assembly constituted by the Government of Wales Act 1998 has not complied with the duty imposed by paragraph 9 of Schedule 11 to that Act in relation to that financial year before the commencement of the repeal of that paragraph by this Act, that duty becomes a duty of the Welsh Ministers on the commencement of that repeal.
+
+(5) In relation to the financial year ending with 31st March 2008, the reference in section 73(6)(a) to the proposals set out in the local government scheme includes those set out in a scheme under section 113(1) of the Government of Wales Act 1998.
+
+### Voluntary sector scheme
+
+**46** (1) Any scheme under section 114(1) of the Government of Wales Act 1998 (c. 38) which is in force immediately before the commencement of the repeal of that provision by this Act has effect after that time (with appropriate modifications) as if made under section 74.
+
+(2) Sub-paragraph (1) does not give rise to any obligation under section 74(7) to publish the scheme.
+
+(3) Section 74(9) does not apply in relation to the financial year ending with 31st March 2007.
+
+(4) But if the Assembly constituted by the Government of Wales Act 1998 has not complied with the duty imposed by subsection (9) of section 114 of that Act in relation to that financial year before the commencement of the repeal of that subsection by this Act, that duty becomes a duty of the Welsh Ministers on the commencement of that repeal.
+
+(5) In relation to the financial year ending with 31st March 2008, the reference in section 74(9)(a) to the proposals set out in the voluntary sector scheme includes those set out in a scheme under section 114(1) of the Government of Wales Act 1998.
+
+### Equality of opportunity arrangements
+
+**47** (1) Any arrangements under section 120(1) of the Government of Wales Act 1998 which are in force immediately before the commencement of the repeal of that provision by this Act have effect after that time (with appropriate modifications) as if made under section 77.
+
+(2) Section 77(2) does not apply in relation to the financial year ending with 31st March 2007.
+
+(3) But if the Assembly constituted by the Government of Wales Act 1998 has not complied with the duty imposed by subsection (2) of section 120 of that Act in relation to that financial year before the commencement of the repeal of that subsection by this Act, that duty becomes a duty of the Welsh Ministers on the commencement of that repeal.
+
+(4) In relation to the financial year ending with 31st March 2008, the references in subsection (2) of section 77 to the arrangements made in pursuance of subsection (1) of that section include those made in pursuance of section 120(1) of the Government of Wales Act 1998.
+
+### Welsh language strategy and scheme
+
+**48** (1) The National Action Plan for a Bilingual Wales (or Iaith Pawb) as it stands immediately before the coming into force of section 78 has effect after that time (with appropriate modifications) as if it were a strategy adopted under subsection (1) of that section.
+
+[^F706]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) [[^F707]Sub-paragraph (1) does] not give rise to any obligation under section 78(6).
+
+(4) Section 78(8) does not apply in relation to the financial year ending with 31st March 2007.
+
+### Sustainable development scheme
+
+**49** (1) Any scheme under section 121(1) of the Government of Wales Act 1998 (c. 38) which is in force immediately before the commencement of the repeal of that provision by this Act has effect after that time (with appropriate modifications) as if made under section 79.
+
+(2) Sub-paragraph (1) does not give rise to any obligation under section 79(4) to publish the scheme.
+
+(3) Section 79(6) does not apply in relation to the financial year ending with 31st March 2007.
+
+(4) But if the Assembly constituted by the Government of Wales Act 1998 has not complied with the duty imposed by subsection (6) of section 121 of that Act in relation to that financial year before the commencement of the repeal of that subsection by this Act, that duty becomes a duty of the Welsh Ministers on the commencement of that repeal.
+
+(5) In relation to the financial year ending with 31st March 2008, the reference in section 79(6)(a) to the proposals set out in the sustainable development scheme includes those set out in a scheme under section 121(1) of the Government of Wales Act 1998.
+
+(6) Section 79(7) has effect as if 2008 were the year following that in which an ordinary general election is held.
+
+### [^F708]...
+
+**[^F708]50** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F708]51** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Assembly Measures: criminal penalties
+
+**52** (1) No term of imprisonment of more than six months is to be imposed on conviction of a summary offence created by or by virtue of an Assembly Measure if the offence is committed before the coming into force of section 281(5) of the Criminal Justice Act 2003 (c. 44).
+
+(2) No term of imprisonment of more than six months is to be imposed on summary conviction of an offence triable either way created by or by virtue of an Assembly Measure if the offence is committed before [[^F709]2 May 2022].
+
+### [^F710]...
+
+**[^F710]53** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F710]53A** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F710]53B** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F711]...
+
+**[^F711]54** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F711]...
+
+**[^F711]55** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F711]...
+
+**[^F711]56** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Borrowing
+
+**57** (1) Until the end of the initial period section 121(1) has effect with the substitution of a reference to the Assembly constituted by the Government of Wales Act 1998 for the reference to the Welsh Ministers.
+
+(2) For the purpose of section 122(2) the aggregate amount which, immediately before 1st April 2007, is outstanding in respect of the principal of—
+
+(a) loans made under section 82 of the Government of Wales Act 1998, and
+
+(b) any other loans issued out of the National Loans Fund which the Assembly constituted by the Government of Wales Act 1998 is liable to repay,
+
+is treated as outstanding in respect of the principal of sums borrowed under section 121.
+
+### [^F712]...
+
+**[^F712]58** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F712]59** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F712]...
+
+**[^F712]60** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F712]...
+
+**[^F712]61** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F712]...
+
+**[^F712]62** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F712]...
+
+**[^F712]63** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [[^F713]Preparation of Assembly's annual accounts for financial year ending 31st March 2007
+
+**63A** The function of the Assembly constituted by the Government of Wales Act 1998 under section 97 of that Act of preparing accounts of that Assembly for the financial year ending with 31st March 2007 shall transfer to the Welsh Ministers at the end of the initial period.
+
+### Preparation of whole of government accounts for year ending 31st March 2007
+
+**63B** The function of the Assembly constituted by the Government of Wales Act 1998 under section 101A of that Act of preparing whole of government accounts for the financial year ending with 31st March 2007 shall transfer to the Welsh Ministers at the end of the initial period.]
+
+### [^F714]...
+
+**[^F714]64** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [[^F715]Auditor General's staff
+
+**64A** The members of staff employed by the Auditor General immediately before the commencement of the repeal of section 92 of the Government of Wales Act 1998 are to be taken after that time to have been appointed to that employment under paragraph 7 of Schedule 8.
+
+### [^F716]...
+
+**[^F716]64B** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F717]64C** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Audit Committee reports
+
+**64D** The reference in section 143(1) (Audit Committee reports) to any accounts, statement of accounts or report laid before the Assembly includes any accounts, statement of accounts or report laid before the Assembly constituted by the Government of Wales Act 1998.
+
+### Examinations into use of resources by the 1998 Assembly
+
+**64E** (1) Notwithstanding the repeal of section 100 of the Government of Wales Act 1998 (examination into Assembly's use of resources) the Auditor General may carry out, or continue to carry out, examinations into the economy, efficiency and effectiveness with which the Assembly constituted by that Act used its resources in discharging its functions.
+
+(2) Section 135 of this Act applies to an examination carried out pursuant to sub-paragraph (1) as it applies to an examination of the kind mentioned in subsection (1) of that section.
+
+### [^F718]...
+
+**[^F718]64F** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F719]...
+
+**[^F719]64G** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .]
+
+### [^F720]...
+
+**[^F720]65** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F721]...
+
+**[^F721]66** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F721]67** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 12 — Repeals and revocations
+
+*Section 163*
+
+|  |  |
+|---|---|
+| *Short title or title* | *Extent of repeal or revocation* |
+| Copyright, Designs and Patents Act 1988 (c. 48) | Section 163(1A). |
+| Official Secrets Act 1989 (c. 6) | Section 12(2)(aa). |
+| Town and Country Planning Act 1990 (c. 8) | Section 321B(5). |
+| Planning (Listed Buildings and Conservation Areas) Act 1990 (c. 9) | In Schedule 3, paragraph 8(5). |
+| Planning (Hazardous Substances) Act 1990 (c. 10) | In the Schedule, paragraph 8(5). |
+| Government of Wales Act 1998 (c. 38) | Sections 1 to 26. Section 27(1) to (5) and (8) to (10). Sections 29 to 103. Section 104(5). Sections 106 to 124. Section 144(6) and (8A). In section 145(3), the words “(or, before the first ordinary election, the views of the Secretary of State)”. In section 154—<br>- (a) in subsection (3), paragraph (a) and, in paragraph (b), the words “96(5), 117,” and the words “144(1) or (4),”,<br>- (b) subsection (4),<br>- (c) in subsection (6), in paragraph (a), the words from “3” to “118(1)(f),”, the words “144(1) or (4),” and the words “or paragraph 17(9) of Schedule 9” and paragraph (b) and the word “and” preceding it, and<br>- (d) subsection (7). In section 155—<br>- (a) in subsection (1), the definitions of “Community law” and “delegate”,<br>- (b) subsection (2), and<br>- (c) in subsection (3), the words from “; and the” to the end. Section 156. Schedules 1 to 3. Schedule 5. Schedule 8. Schedule 11. In Schedule 12—<br>- (a) paragraph 2,<br>- (b) paragraph 7,<br>- (c) paragraph 8(2)(a), (3) and (4),<br>- (d) paragraph 12,<br>- (e) paragraph 13,<br>- (f) paragraph 15,<br>- (g) paragraph 17(3)(a),<br>- (h) paragraph 28, and<br>- (i) paragraph 30 |
+| Northern Ireland Act 1998 (c. 47) | In Schedule 13, paragraph 8(2) to (4). |
+| Pollution Prevention and Control Act 1999 (c. 24) | In Schedule 2, paragraph 20. |
+| Care Standards Act 2000 (c. 14) | In Schedule 1, paragraph 27(a). |
+| Government Resources and Accounts Act 2000 (c. 20) | In Schedule 1, paragraphs 22, 23(a) and 24. |
+| Learning and Skills Act 2000 (c. 21) | In Schedule 9, paragraph 93. |
+| Political Parties, Elections and Referendums Act 2000 (c. 41) | In Schedule 3, paragraphs 8 to 16. In Schedule 21, paragraph 12. |
+| House of Commons (Removal of Clergy Disqualification) Act 2001 (c. 13) | In Schedule 1, paragraph 3. |
+| European Parliamentary Elections Act 2002 (c. 24) | In Schedule 3, paragraph 6. |
+| Justice (Northern Ireland) Act 2002 (c. 26) | In Schedule 7, paragraphs 3, 6 and 9. |
+| Health (Wales) Act 2003 (c. 4) | In Schedule 3, paragraph 10. |
+| Local Government Act 2003 (c. 26) | In Schedule 7, paragraph 67. |
+| Criminal Justice Act 2003 (c. 44) | In Schedule 26, paragraph 50. |
+| Copyright and Related Rights Regulations 2003 (S.I. 2003/2498) | In Schedule 1, paragraph 11(a). |
+| Planning and Compulsory Purchase Act 2004 (c. 5) | Section 60(7). |
+| Public Audit (Wales) Act 2004 (c. 23) | Section 2. Sections 6 to 11. Section 65(2). In Schedule 2, paragraphs 43 and 45. |
+| Local Authorities (Capital Finance) (Consequential, Transitional and Saving Provisions) Order 2004 (S.I. 2004/533) | Article 6. |
+| Companies Act 1985 (Inter—national Accounting Standards and Other Accounting Amendments) Regulations 2004 (S.I. 2004/2947) | In Schedule 7, paragraph 13. |
+| Constitutional Reform Act 2005 (c. 4) | In Schedule 9, paragraphs 87 to 92. |
+| Public Services Ombudsman (Wales) Act 2005 (c. 10) | Section 12(9). Section 16(9). Section 21(11). Section 23(6). In section 24—<br>- (a) in subsection (2), paragraph (b) and the word “and” preceding it, andsubsection (3).<br>- (b) In section 41(1), the definition of “Assembly Cabinet”. Section 44(3). In Schedule 1, in paragraph 15(3), the words “to it”. In Schedule 6, paragraphs 62 to 64. |
+| Inquiries Act 2005 (c. 12) | In section 1(2), the words following paragraph (c). |
+
+---
+
+[^F1]: Pt. A1 inserted (31.3.2017) by Wales Act 2017 (c. 4), ss. 1, 71(2)(a) (with Sch. 7 paras. 1, 6)
+[^F2]: Words in Act substituted (6.5.2020) by Senedd and Elections (Wales) Act 2020 (anaw 1), s. 42(2), Sch. 1 para. 2(19) (with Sch. 1 para. 2(11)-(14))
+[^F3]: Words in Pt. 1 heading substituted (6.5.2020) by Senedd and Elections (Wales) Act 2020 (anaw 1), s. 42(2), Sch. 1 para. 2(2)
+[^F4]: Words in s. 1(1) substituted (6.5.2020) by Senedd and Elections (Wales) Act 2020 (anaw 1), s. 42(2), Sch. 1 para. 2(3)(a)
+[^F5]: Words in s. 1(1) substituted (6.5.2020) by Senedd and Elections (Wales) Act 2020 (anaw 1), ss. 2, 42(2)
+[^F6]: S. 1(2) substituted (24.8.2024) by Senedd Cymru (Members and Elections) Act 2024 (asc 4), ss. 1, 25(2)(a) (with s. 24(1))
+[^F7]: S. 1(2A) inserted (6.5.2020) by Senedd and Elections (Wales) Act 2020 (anaw 1), ss. 4, 42(2)
+[^F8]: Words in s. 1(3) substituted (6.5.2020) by Senedd and Elections (Wales) Act 2020 (anaw 1), s. 42(2), Sch. 1 para. 2(3)(b)
+[^F9]: Words in Act substituted (6.5.2020) by Senedd and Elections (Wales) Act 2020 (anaw 1), s. 42(2), Sch. 1 para. 2(17) (with Sch. 1 para. 2(11)(12)(14))
+[^F10]: S. 2 substituted (24.8.2024) by Senedd Cymru (Members and Elections) Act 2024 (asc 4), ss. 2(1), 25(2)(a) (with s. 24(1))
+[^F11]: Word in s. 3(1) substituted (coming into force on the day after the day of the poll for the first general election held after 7.11.2025) by Senedd Cymru (Members and Elections) Act 2024 (asc 4), ss. 3(1), 25(3) (with s. 24(3)(4))
+[^F12]: Words in s. 3(1) substituted (1.4.2018) by Wales Act 2017 (c. 4), ss. 6(2), 71(4) (with Sch. 7 paras. 1, 6); S.I. 2017/1179, reg. 3(b)
+[^F13]: S. 3(1A)(1B) inserted (1.4.2018) by Wales Act 2017 (c. 4), ss. 6(3), 71(4) (with Sch. 7 paras. 1, 6); S.I. 2017/1179, reg. 3(b)
+[^F14]: Words in s. 3(1A)(a) omitted (24.3.2022) by virtue of Dissolution and Calling of Parliament Act 2022 (c. 11), s. 6(3), Sch. para. 19
+[^F15]: S. 3(1A)(b) and word omitted (31.12.2020) by virtue of European Union (Withdrawal) Act 2018 (c. 16), s. 25(4), Sch. 3 para. 28 (with s. 19, Sch. 8 para. 37); S.I. 2020/1622, reg. 3(l) (with regs. 10, 22)
+[^F16]: Words in s. 3(2) inserted (1.4.2018) by Wales Act 2017 (c. 4), ss. 6(4), 71(4) (with Sch. 7 paras. 1, 6); S.I. 2017/1179, reg. 3(b)
+[^F17]: Word in s. 3(2)(b) substituted (coming into force on the day of the first Senedd election at which the poll is held on or after 5.4.2021) by Senedd and Elections (Wales) Act 2020 (anaw 1), ss. 36(1), 42(5)
+[^F18]: S. 3(5) inserted (1.4.2018) by Wales Act 2017 (c. 4), ss. 6(5), 71(4) (with Sch. 7 paras. 1, 6); S.I. 2017/1179, reg. 3(b)
+[^F19]: S. 4(1)-(2A) substituted for s. 4(1)(2) (1.4.2018) by Wales Act 2017 (c. 4), ss. 6(7), 71(4) (with Sch. 7 paras. 1, 6); S.I. 2017/1179, reg. 3(b)
+[^F20]: Word in s. 4(2)(c) substituted (coming into force on the day of the first Senedd election at which the poll is held on or after 5.4.2021) by Senedd and Elections (Wales) Act 2020 (anaw 1), ss. 36(2), 42(5)
+[^F21]: Word in s. 4(3) substituted (1.4.2018) by Wales Act 2017 (c. 4), ss. 6(8), 71(4) (with Sch. 7 paras. 1, 6); S.I. 2017/1179, reg. 3(b)
+[^F22]: Words in s. 4(4) substituted (1.4.2018) by Wales Act 2017 (c. 4), ss. 6(9)(a), 71(4) (with Sch. 7 paras. 1, 6); S.I. 2017/1179, reg. 3(b)
+[^F23]: Words in s. 4(4) substituted (1.4.2018) by Wales Act 2017 (c. 4), ss. 6(9)(b), 71(4) (with Sch. 7 paras. 1, 6); S.I. 2017/1179, reg. 3(b)
+[^F24]: Words in s. 4(4) inserted (1.4.2018) by Wales Act 2017 (c. 4), ss. 6(9)(c), 71(4) (with Sch. 7 paras. 1, 6); S.I. 2017/1179, reg. 3(b)
+[^F25]: S. 4(5) omitted (1.4.2018) by virtue of Wales Act 2017 (c. 4), ss. 6(10), 71(4) (with Sch. 7 paras. 1, 6); S.I. 2017/1179, reg. 3(b)
+[^F26]: Words in s. 4(6) substituted (1.4.2018) by Wales Act 2017 (c. 4), ss. 6(11), 71(4) (with Sch. 7 paras. 1, 6); S.I. 2017/1179, reg. 3(b)
+[^F27]: Words in s. 5(1) substituted (1.4.2018) by Wales Act 2017 (c. 4), ss. 6(13), 71(4) (with Sch. 7 paras. 1, 6); S.I. 2017/1179, reg. 3(b)
+[^F28]: Words in Act substituted (6.5.2020) by Senedd and Elections (Wales) Act 2020 (anaw 1), s. 42(2), Sch. 1 para. 2(15) (with Sch. 1 para. 2(11)(12)(14))
+[^F29]: Words in s. 5(4) substituted (1.4.2018) by Wales Act 2017 (c. 4), ss. 6(14)(a), 71(4) (with Sch. 7 paras. 1, 6); S.I. 2017/1179, reg. 3(b)
+[^F30]: Words in s. 5(4) substituted (1.4.2018) by Wales Act 2017 (c. 4), ss. 6(14)(b), 71(4) (with Sch. 7 paras. 1, 6); S.I. 2017/1179, reg. 3(b)
+[^F31]: Word in s. 5(4)(c) substituted (coming into force on the day of the first Senedd election at which the poll is held on or after 5.4.2021) by Senedd and Elections (Wales) Act 2020 (anaw 1), ss. 36(3), 42(5)
+[^F32]: Ss. 6-9 substituted (24.8.2024) by Senedd Cymru (Members and Elections) Act 2024 (asc 4), ss. 8, 25(2)(b) (with s. 24(1))
+[^F33]: S. 10 omitted (24.8.2024) by virtue of Senedd Cymru (Members and Elections) Act 2024 (asc 4), ss. 9(2), 25(2)(b) (with s. 24(1))
+[^F34]: S. 11 substituted (24.8.2024) by Senedd Cymru (Members and Elections) Act 2024 (asc 4), ss. 9(3), 25(2)(b) (with s. 24(1))
+[^F35]: Words in s. 12(1) omitted (24.8.2024) by virtue of Senedd Cymru (Members and Elections) Act 2024 (asc 4), ss. 10(2)(a), 25(2)(b) (with s. 24(1))
+[^F36]: Words in Act substituted (6.5.2020) by Senedd and Elections (Wales) Act 2020 (anaw 1), s. 42(2), Sch. 1 para. 2(18) (with Sch. 1 para. 2(11)-(14))
+[^F37]: Words in s. 12(1)(a) omitted (5.5.2022) by virtue of Local Government and Elections (Wales) Act 2021 (asc 1), ss. 2(2)(a), 175(5)
+[^F38]: S. 12(1A) omitted (5.5.2022) by virtue of Local Government and Elections (Wales) Act 2021 (asc 1), ss. 2(2)(b), 175(5)
+[^F39]: S. 12(1B) omitted (5.5.2022) by virtue of Local Government and Elections (Wales) Act 2021 (asc 1), ss. 2(2)(c), 175(5)
+[^F40]: Word in s. 12(2)(a) substituted (24.8.2024) by Senedd Cymru (Members and Elections) Act 2024 (asc 4), ss. 10(2)(b)(i), 25(2)(b) (with s. 24(1))
+[^F41]: Word in s. 12(2) inserted (24.8.2024) by Senedd Cymru (Members and Elections) Act 2024 (asc 4), ss. 10(2)(b)(ii), 25(2)(b) (with s. 24(1))
+[^F42]: S. 12(2)(c) and word omitted (24.8.2024) by virtue of Senedd Cymru (Members and Elections) Act 2024 (asc 4), ss. 10(2)(b)(iii), 25(2)(b) (with s. 24(1))
+[^F43]: Ss. 13, 13A substituted for s. 13 (1.4.2018) by Wales Act 2017 (c. 4), ss. 5(1), 71(4) (with Sch. 7 paras. 1, 6); S.I. 2017/1179, reg. 3(b)
+[^F44]: Words in s. 13(2)(c) omitted (27.6.2026) by virtue of Senedd Cymru (Member Accountability and Elections) Act 2026 (asc 9), ss. 24(2), 26(2)
+[^F45]: S. 13(2)(e) omitted (24.8.2024) by virtue of Senedd Cymru (Members and Elections) Act 2024 (asc 4), ss. 10(3)(a)(i), 25(2)(b) (with s. 24(1))
+[^F46]: Word in s. 13(2)(f) substituted (24.8.2024) by Senedd Cymru (Members and Elections) Act 2024 (asc 4), ss. 10(3)(a)(ii), 25(2)(b) (with s. 24(1))
+[^F47]: S. 13(2A)(2B) inserted (27.6.2026) by Senedd Cymru (Member Accountability and Elections) Act 2026 (asc 9), ss. 24(3), 26(2)
+[^F48]: Words in s. 13(3) substituted (24.8.2024) by Senedd Cymru (Members and Elections) Act 2024 (asc 4), ss. 10(3)(b), 25(2)(b) (with s. 24(1))
+[^F49]: S. 13(4A) inserted (27.6.2026) by Senedd Cymru (Member Accountability and Elections) Act 2026 (asc 9), ss. 24(4), 26(2)
+[^F50]: S. 13(5)(c) omitted (31.12.2020) by virtue of European Union (Withdrawal) Act 2018 (c. 16), s. 25(4), Sch. 3 para. 29(a) (with s. 19, Sch. 8 para. 37); S.I. 2020/1622, reg. 3(l) (with regs. 10, 22)
+[^F51]: Words in s. 13(5)(d) omitted (31.12.2020) by virtue of European Union (Withdrawal) Act 2018 (c. 16), s. 25(4), Sch. 3 para. 29(b) (with s. 19, Sch. 8 para. 37); S.I. 2020/1622, reg. 3(l) (with regs. 10, 22)
+[^F52]: Words in s. 13A(1)(a) substituted (24.3.2022) by Dissolution and Calling of Parliament Act 2022 (c. 11), s. 6(3), Sch. para. 20(a)(i)
+[^F53]: Words in s. 13A(1)(b) omitted (24.8.2024) by virtue of Senedd Cymru (Members and Elections) Act 2024 (asc 4), ss. 10(4), 25(2)(b) (with s. 24(1))
+[^F54]: Words in s. 13A(1)(b) substituted (24.3.2022) by Dissolution and Calling of Parliament Act 2022 (c. 11), s. 6(3), Sch. para. 20(a)(ii)
+[^F55]: S. 13A(2) omitted (24.3.2022) by virtue of Dissolution and Calling of Parliament Act 2022 (c. 11), s. 6(3), Sch. para. 20(b)
+[^F56]: S. 13A(3) omitted (24.3.2022) by virtue of Dissolution and Calling of Parliament Act 2022 (c. 11), s. 6(3), Sch. para. 20(b)
+[^F57]: S. 13B inserted (27.10.2025) by Absent Voting (Elections in Scotland and Wales) Act 2025 (c. 27), ss. 3, 4(1)
+[^F58]: Words in Act substituted (6.5.2020) by Senedd and Elections (Wales) Act 2020 (anaw 1), s. 42(2), Sch. 1 para. 2(16) (with Sch. 1 para. 2(11)(12)(14))
+[^F59]: S. 16(A1) inserted (15.1.2020 with effect for the purposes of a Senedd election at which the poll is held on or after 5.4.2021) by Senedd and Elections (Wales) Act 2020 (anaw 1), ss. 29(2), 42(1)(c)
+[^F60]: Words in s. 16(1) substituted (15.1.2020 with effect for the purposes of a Senedd election at which the poll is held on or after 5.4.2021) by Senedd and Elections (Wales) Act 2020 (anaw 1), ss. 29(3)(a), 42(1)(c)
+[^F61]: S. 16(1)(za) inserted (17.2.2015) by Wales Act 2014 (c. 29), ss. 3(1), 29(2)(a)
+[^F62]: Words in s. 16(1)(za) omitted (with effect in accordance with s. 61(7) of the amending Act) by virtue of Elections and Elected Bodies (Wales) Act 2024 (asc 5), ss. 61(2)(a), 72(1)(b)
+[^F63]: S. 16(1)(zb)-(zf) inserted (15.1.2020 with effect for the purposes of a Senedd election at which the poll is held on or after 5.4.2021) by Senedd and Elections (Wales) Act 2020 (anaw 1), ss. 29(3)(b), 42(1)(c)
+[^F64]: S. 16(1)(zc) substituted (with effect in accordance with s. 61(7) of the amending Act) by Elections and Elected Bodies (Wales) Act 2024 (asc 5), ss. 61(2)(b), 72(1)(b)
+[^F65]: S. 16(1)(a) omitted (15.1.2020 with effect for the purposes of a Senedd election at which the poll is held on or after 5.4.2021) by virtue of Senedd and Elections (Wales) Act 2020 (anaw 1), ss. 29(3)(c), 42(1)(c)
+[^F66]: S. 16(1)(c)-(e) omitted (15.1.2020 with effect for the purposes of a Senedd election at which the poll is held on or after 5.4.2021) by virtue of Senedd and Elections (Wales) Act 2020 (anaw 1), ss. 29(3)(d), 42(1)(c)
+[^F67]: S. 16(1A) inserted (15.1.2020 with effect for the purposes of a Senedd election at which the poll is held on or after 5.4.2021) by Senedd and Elections (Wales) Act 2020 (anaw 1), ss. 29(4), 42(1)(c)
+[^F68]: S. 16(2)-(4) omitted (15.1.2020 with effect for the purposes of a Senedd election at which the poll is held on or after 5.4.2021) by virtue of Senedd and Elections (Wales) Act 2020 (anaw 1), ss. 29(5), 42(1)(c)
+[^F69]: S. 16(2)-(4) omitted (15.1.2020 with effect for the purposes of a Senedd election at which the poll is held on or after 5.4.2021) by virtue of Senedd and Elections (Wales) Act 2020 (anaw 1), ss. 29(5), 42(1)(c); and s. 16(3) in so far as it is still in force amended (31.12.2020) by virtue of European Union (Withdrawal) Act 2018 (c. 16), s. 25(4), Sch. 3 para. 31 (with s. 19, Sch. 8 para. 37); S.I. 2020/1622, reg. 3(l) (with regs. 10, 22)
+[^F70]: Words in s. 16(5) substituted (15.1.2020 with effect for the purposes of a Senedd election at which the poll is held on or after 5.4.2021) by Senedd and Elections (Wales) Act 2020 (anaw 1), ss. 29(6), 42(1)(c)
+[^F71]: Words in s. 17 heading substituted (15.1.2020 with effect for the purposes of a Senedd election at which the poll is held on or after 5.4.2021) by Senedd and Elections (Wales) Act 2020 (anaw 1), ss. 30(4), 42(1)(c)
+[^F72]: S. 17(1)(2) omitted (15.1.2020 with effect for the purposes of a Senedd election at which the poll is held on or after 5.4.2021) by virtue of Senedd and Elections (Wales) Act 2020 (anaw 1), ss. 30(2), 42(1)(c)
+[^F73]: Words in s. 17(3) omitted (15.1.2020 with effect for the purposes of a Senedd election at which the poll is held on or after 5.4.2021) by virtue of Senedd and Elections (Wales) Act 2020 (anaw 1), ss. 30(3), 42(1)(c)
+[^F74]: Ss. 17A, 17B inserted (17.2.2015) by Wales Act 2014 (c. 29), ss. 3(2), 29(2)(a)
+[^F75]: S. 17B omitted (with effect in accordance with s. 61(7) of the amending Act) by virtue of Elections and Elected Bodies (Wales) Act 2024 (asc 5), ss. 61(3), 72(1)(b)
+[^F76]: S. 17C inserted (15.1.2020 with effect for the purposes of a Senedd election at which the poll is held on or after 5.4.2021) by Senedd and Elections (Wales) Act 2020 (anaw 1), ss. 32, 42(1)(c)
+[^F77]: Ss. 17D-17F inserted (15.1.2020 with effect for the purposes of a Senedd election at which the poll is held on or after 5.4.2021) by Senedd and Elections (Wales) Act 2020 (anaw 1), ss. 33, 42(1)(c)
+[^F78]: Words in s. 17D(1) inserted (with effect in accordance with s. 61(7) of the amending Act) by Elections and Elected Bodies (Wales) Act 2024 (asc 5), ss. 61(4)(a), 72(1)(b)
+[^F79]: Words in s. 17D(2) inserted (with effect in accordance with s. 61(7) of the amending Act) by Elections and Elected Bodies (Wales) Act 2024 (asc 5), ss. 61(4)(b), 72(1)(b)
+[^F80]: S. 17E omitted (with effect in accordance with s. 61(7) of the amending Act) by virtue of Elections and Elected Bodies (Wales) Act 2024 (asc 5), ss. 61(5), 72(1)(b)
+[^F81]: S. 17F omitted (with effect in accordance with s. 61(7) of the amending Act) by virtue of Elections and Elected Bodies (Wales) Act 2024 (asc 5), ss. 61(6), 72(1)(b)
+[^F82]: S. 18(A1) inserted (15.1.2020 with effect for the purposes of a Senedd election at which the poll is held on or after 5.4.2021) by Senedd and Elections (Wales) Act 2020 (anaw 1), ss. 34(2), 42(1)(c)
+[^F83]: Words in s. 18(A1) omitted (24.8.2024) by virtue of Senedd Cymru (Members and Elections) Act 2024 (asc 4), ss. 10(5), 25(2)(b) (with s. 24(1))
+[^F84]: S. 18(2) omitted (15.1.2020 with effect for the purposes of a Senedd election at which the poll is held on or after 5.4.2021) by virtue of Senedd and Elections (Wales) Act 2020 (anaw 1), ss. 34(3), 42(1)(c)
+[^F85]: S. 18(3)(b) and word omitted (15.1.2020 with effect for the purposes of a Senedd election at which the poll is held on or after 5.4.2021) by virtue of Senedd and Elections (Wales) Act 2020 (anaw 1), ss. 34(4), 42(1)(c)
+[^F86]: S. 18(5)(a) omitted (28.4.2013) by virtue of Mental Health (Discrimination) Act 2013 (c. 8), s. 4(1), Sch. para. 5(1)(a)
+[^F87]: S. 18(5)(aa) inserted (1.11.2023) by Elections Act 2022 (c. 37), s. 67(1), Sch. 10 para. 7(2)(a); S.I. 2023/1145, reg. 3(k)
+[^F88]: Words in s. 18(6) substituted (1.11.2023) by Elections Act 2022 (c. 37), s. 67(1), Sch. 10 para. 7(2)(b); S.I. 2023/1145, reg. 3(k)
+[^F89]: S. 18(8)(b) and word omitted (15.1.2020 with effect for the purposes of a Senedd election at which the poll is held on or after 5.4.2021) by virtue of Senedd and Elections (Wales) Act 2020 (anaw 1), ss. 34(5), 42(1)(c)
+[^F90]: S. 19(1)(b) and word omitted (15.1.2020 with effect for the purposes of a Senedd election at which the poll is held on or after 5.4.2021) by virtue of Senedd and Elections (Wales) Act 2020 (anaw 1), ss. 34(6), 42(1)(c)
+[^F91]: Words in s. 20(1) substituted (24.9.2010) by National Assembly for Wales (Remuneration) Measure 2010 (nawm 4), ss. 16, 20(3)(4), Sch. 3 para. 1 (with s. 19) (the amending provision coming into force the day after notice under s. 20(3)(4) of the amending Measure was laid before the Assembly on 23.9.2010)
+[^F92]: Words in s. 20(2) substituted (24.9.2010) by National Assembly for Wales (Remuneration) Measure 2010 (nawm 4), ss. 16, 20(3)(4), Sch. 3 para. 2 (with s. 19) (the amending provision coming into force the day after notice under s. 20(3)(4) of the amending Measure was laid before the Assembly on 23.9.2010)
+[^F93]: Words in s. 20(3) substituted (24.9.2010) by National Assembly for Wales (Remuneration) Measure 2010 (nawm 4), ss. 16, 20(3)(4), Sch. 3 para. 3 (with s. 19) (the amending provision coming into force the day after notice under s. 20(3)(4) of the amending Measure was laid before the Assembly on 23.9.2010)
+[^F94]: Words in s. 20(3)(b) substituted (coming into force on the day after the day of the poll for the first general election held after 6.4.2026) by Senedd Cymru (Members and Elections) Act 2024 (asc 4), ss. 4(2), 25(4)
+[^F95]: S. 20(6) substituted (24.9.2010) by National Assembly for Wales (Remuneration) Measure 2010 (nawm 4), ss. 16, 20(3)(4), Sch. 3 para. 4 (with s. 19) (the amending provision coming into force the day after notice under s. 20(3)(4) of the amending Measure was laid before the Assembly on 23.9.2010)
+[^F96]: S. 20(7)(8) inserted (24.9.2010) by National Assembly for Wales (Remuneration) Measure 2010 (nawm 4), ss. 16, 20(3)(4), Sch. 3 para. 5 (with s. 19) (the amending provision coming into force the day after notice under s. 20(3)(4) of the amending Measure was laid before the Assembly on 23.9.2010)
+[^F97]: Words in s. 20(8) substituted (6.5.2020) by Senedd and Elections (Wales) Act 2020 (anaw 1), s. 42(2), Sch. 1 para. 2(4)
+[^F98]: S. 21(1)(za) inserted (24.5.2011) by Constitutional Reform and Governance Act 2010 (c. 25), s. 52, Sch. 5 para. 12(2)(a); S.I. 2011/1274, art. 2(b)
+[^F99]: Word in s. 21(1)(za) inserted (31.12.2020) by European Union (Withdrawal) Act 2018 (c. 16), s. 25(4), Sch. 3 para. 32(2)(a) (with s. 19, Sch. 8 para. 37); S.I. 2020/1622, reg. 3(l) (with reg. 10)
+[^F100]: Words in s. 21(1)(a) substituted (24.5.2011) by Constitutional Reform and Governance Act 2010 (c. 25), s. 52, Sch. 5 para. 12(2)(b); S.I. 2011/1274, art. 2(b)
+[^F101]: S. 21(1)(b) and word omitted (31.12.2020) by virtue of European Union (Withdrawal) Act 2018 (c. 16), s. 25(4), Sch. 3 para. 32(2)(b) (with s. 19, Sch. 8 para. 37); S.I. 2020/1622, reg. 3(l) (with regs. 10, 22)
+[^F102]: Words in s. 21(2)(b) substituted (31.12.2020) by European Union (Withdrawal) Act 2018 (c. 16), s. 25(4), Sch. 3 para. 32(3) (with s. 19, Sch. 8 para. 37); S.I. 2020/1622, reg. 3(l) (with reg. 10)
+[^F103]: Words in s. 22(2) substituted (24.9.2010) by National Assembly for Wales (Remuneration) Measure 2010 (nawm 4), ss. 16, 20(3)(4), Sch. 3 para. 6 (with s. 19) (the amending provision coming into force the day after notice under s. 20(3)(4) of the amending Measure was laid before the Assembly on 23.9.2010)
+[^F104]: Words in s. 22(2) omitted (24.9.2010) by virtue of National Assembly for Wales (Remuneration) Measure 2010 (nawm 4), ss. 16, 20(3)(4), Sch. 3 para. 6 (the amending provision coming into force the day after notice under s. 20(3)(4) of the amending Measure was laid before the Assembly on 23.9.2010)
+[^F105]: S. 22(3) substituted (24.9.2010) by National Assembly for Wales (Remuneration) Measure 2010 (nawm 4), ss. 16, 20(3)(4), Sch. 3 para. 7 (with s. 19) (the amending provision coming into force the day after notice under s. 20(3)(4) of the amending Measure was laid before the Assembly on 23.9.2010)
+[^F106]: Word in s. 23(5) substituted (6.5.2020) by Senedd and Elections (Wales) Act 2020 (anaw 1), s. 42(2), Sch. 1 para. 2(5)
+[^F107]: Words in s. 24(1) substituted (24.9.2010) by virtue of National Assembly for Wales (Remuneration) Measure 2010 (nawm 4), ss. 16, 20(3)(4), Sch. 3 para. 8 (with s. 19) (the amending provision coming into force the day after notice under s. 20(3)(4) of the amending Measure was laid before the Assembly on 23.9.2010)
+[^F108]: S. 24(4) omitted (24.9.2010) by virtue of National Assembly for Wales (Remuneration) Measure 2010 (nawm 4), ss. 16, 20(3)(4), Sch. 3 para. 9 (with s. 19) (the amending provision coming into force the day after notice under s. 20(3)(4) of the amending Measure was laid before the Assembly on 23.9.2010)
+[^F109]: S. 24(6) substituted (24.9.2010) by National Assembly for Wales (Remuneration) Measure 2010 (nawm 4), ss. 16, 20(3)(4), Sch. 3 para. 10 (with s. 19) (the amending provision coming into force the day after notice under s. 20(3)(4) of the amending Measure was laid before the Assembly on 23.9.2010)
+[^F110]: S. 24(7) inserted (24.9.2010) by National Assembly for Wales (Remuneration) Measure 2010 (nawm 4), ss. 16, 20(3)(4), Sch. 3 para. 11 (with s. 19) (the amending provision coming into force the day after notice under s. 20(3)(4) of the amending Measure was laid before the Assembly on 23.9.2010)
+[^F111]: Words in s. 25(1)(b) substituted (coming into force on the day after the day of the poll for the first general election held after 6.4.2026) by Senedd Cymru (Members and Elections) Act 2024 (asc 4), ss. 4(1)(a), 25(4)
+[^F112]: S. 25(1A)(1B) inserted (coming into force on the day after the day of the poll for the first general election held after 6.4.2026) by Senedd Cymru (Members and Elections) Act 2024 (asc 4), ss. 4(1)(b), 25(4)
+[^F113]: Words in s. 25(2) substituted (coming into force on the day after the day of the poll for the first general election held after 6.4.2026) by Senedd Cymru (Members and Elections) Act 2024 (asc 4), ss. 4(1)(c), 25(4)
+[^F114]: S. 25(4) substituted (coming into force on the day after the day of the poll for the first general election held after 6.4.2026) by Senedd Cymru (Members and Elections) Act 2024 (asc 4), ss. 4(1)(d), 25(4)
+[^F115]: Words in s. 25(5) substituted (coming into force on the day after the day of the poll for the first general election held after 6.4.2026) by Senedd Cymru (Members and Elections) Act 2024 (asc 4), ss. 4(1)(e), 25(4)
+[^F116]: Words in s. 25(6) inserted (coming into force on the day after the day of the poll for the first general election held after 6.4.2026) by Senedd Cymru (Members and Elections) Act 2024 (asc 4), ss. 4(1)(f)(i), 25(4)
+[^F117]: Words in s. 25(6) inserted (coming into force on the day after the day of the poll for the first general election held after 6.4.2026) by Senedd Cymru (Members and Elections) Act 2024 (asc 4), ss. 4(1)(f)(ii), 25(4)
+[^F118]: Words in s. 25(7) inserted (coming into force on the day after the day of the poll for the first general election held after 6.4.2026) by Senedd Cymru (Members and Elections) Act 2024 (asc 4), ss. 4(1)(g), 25(4)
+[^F119]: S. 25(7A) inserted (coming into force on the day after the day of the poll for the first general election held after 6.4.2026) by Senedd Cymru (Members and Elections) Act 2024 (asc 4), ss. 4(1)(h), 25(4)
+[^F120]: Words in s. 25(9) substituted (coming into force on the day after the day of the poll for the first general election held after 6.4.2026) by Senedd Cymru (Members and Elections) Act 2024 (asc 4), ss. 4(1)(i), 25(4)
+[^F121]: Words in s. 25(10) substituted (coming into force on the day after the day of the poll for the first general election held after 6.4.2026) by Senedd Cymru (Members and Elections) Act 2024 (asc 4), ss. 4(1)(j), 25(4)
+[^F122]: Words in s. 25(11) substituted (coming into force on the day after the day of the poll for the first general election held after 6.4.2026) by Senedd Cymru (Members and Elections) Act 2024 (asc 4), ss. 4(1)(k), 25(4)
+[^F123]: S. 25(12)(b) substituted (coming into force on the day after the day of the poll for the first general election held after 6.4.2026) by Senedd Cymru (Members and Elections) Act 2024 (asc 4), ss. 4(1)(l), 25(4)
+[^F124]: Words in s. 25(13) substituted (coming into force on the day after the day of the poll for the first general election held after 6.4.2026) by Senedd Cymru (Members and Elections) Act 2024 (asc 4), ss. 4(1)(m), 25(4)
+[^F125]: Words in s. 26(2) substituted (6.5.2020) by Senedd and Elections (Wales) Act 2020 (anaw 1), ss. 5, 42(2)
+[^F126]: Words in s. 27(1) substituted (6.5.2020) by Senedd and Elections (Wales) Act 2020 (anaw 1), ss. 6, 42(2)
+[^F127]: Words in s. 28(1)(b) omitted (28.4.2026) by virtue of Senedd Cymru (Member Accountability and Elections) Act 2026 (asc 9), ss. 18(2)(a), 26(1)
+[^F128]: Words in s. 28(2) inserted (28.4.2026) by Senedd Cymru (Member Accountability and Elections) Act 2026 (asc 9), ss. 18(2)(b), 26(1)
+[^F129]: S. 29 omitted (31.3.2017) by virtue of Wales Act 2017 (c. 4), ss. 14, 71(2)(b) (with Sch. 7 paras. 1, 6)
+[^F130]: Ss. 30A, 30B inserted (28.4.2026) by Senedd Cymru (Member Accountability and Elections) Act 2026 (asc 9), ss. 18(3), 26(1) (with temp. modifications until 7.11.2027 in s. 18(4))
+[^F131]: S. 32 omitted (31.3.2017) by virtue of Wales Act 2017 (c. 4), ss. 15(a), 71(2)(b) (with Sch. 7 paras. 1, 6)
+[^F132]: S. 33 omitted (31.3.2017) by virtue of Wales Act 2017 (c. 4), ss. 15(b), 71(2)(b) (with Sch. 7 paras. 1, 6)
+[^F133]: S. 35(1)-(1D) substituted for s. 35(1) (13.11.2012) by National Assembly for Wales (Official Languages) Act 2012 (anaw 1), ss. 1, 3(b)
+[^F134]: S. 36(6) omitted (24.8.2024) by virtue of Senedd Cymru (Members and Elections) Act 2024 (asc 4), ss. 10(6)(a), 25(2)(b) (with s. 24(1))
+[^F135]: Words in s. 36(11)(a) omitted (24.8.2024) by virtue of Senedd Cymru (Members and Elections) Act 2024 (asc 4), ss. 10(6)(b), 25(2)(b) (with s. 24(1))
+[^F136]: Words in s. 37(1) inserted (1.4.2014) by Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 71 (with Sch. 3 para. 3); S.I. 2013/1466, art. 3(1)
+[^F137]: Words in s. 37(2) inserted (12.11.2009 for certain purposes and 12.1.2010 in so far as not already in force) by Marine and Coastal Access Act 2009 (c. 23), ss. 43, 324, Sch. 4 Pt. 2 para. 6(2); S.I. 2009/3345, art. 2, Sch. para. 7
+[^F138]: Words in Act omitted (17.2.2015) by virtue of Wales Act 2014 (c. 29), s. 4(2)(a) (with s. 4(3))
+[^F139]: S. 37(6A) inserted (1.4.2018) by Wales Act 2017 (c. 4), ss. 66(1), 71(4) (with Sch. 7 paras. 1, 6); S.I. 2017/1179, reg. 3(m)
+[^F140]: S. 37(6B) inserted (1.11.2021) by Domestic Abuse Act 2021 (c. 17), ss. 21(3), 90(6); S.I. 2021/1038, reg. 3(b)
+[^F141]: Words in s. 41(2)(a) substituted (coming into force on the day after the day of the poll for the first general election held after 6.4.2026) by Senedd Cymru (Members and Elections) Act 2024 (asc 4), ss. 4(3)(a), 25(4)
+[^F142]: Words in s. 41(4)(b) substituted (coming into force on the day after the day of the poll for the first general election held after 6.4.2026) by Senedd Cymru (Members and Elections) Act 2024 (asc 4), ss. 4(3)(b), 25(4)
+[^F143]: S. 44 repealed (1.7.2011) by Bribery Act 2010 (c. 23), s. 19(1), Sch. 2 (with ss. 16, 19(5)); S.I. 2011/1418, art. 2
+[^F144]: Words in s. 45(1) omitted (17.2.2015) by virtue of Wales Act 2014 (c. 29), ss. 4(2)(b), 29(2)(a) (with s. 4(3))
+[^F145]: Words in s. 46(5)(c) inserted (17.2.2015) by Wales Act 2014 (c. 29), ss. 5, 29(2)(a)
+[^F146]: Word in s. 51(1) substituted (coming into force on the day after the day of the poll for the first general election held after 6.4.2026) by Senedd Cymru (Members and Elections) Act 2024 (asc 4), ss. 5(a), 25(4)
+[^F147]: S. 51(3)-(5) inserted (coming into force on the day after the day of the poll for the first general election held after 6.4.2026) by Senedd Cymru (Members and Elections) Act 2024 (asc 4), ss. 5(b), 25(4)
+[^F148]: Words in s. 52(2)(9) substituted (11.11.2010) by Constitutional Reform and Governance Act 2010 (c. 25), ss. 19, 52(2), Sch. 2 para. 15(2); S.I. 2010/2703, art. 2(a)
+[^F149]: S. 52(3) substituted (11.11.2010) by Constitutional Reform and Governance Act 2010 (c. 25), ss. 19, 52(2), Sch. 2 para. 15(3); S.I. 2010/2703, art. 2(a)
+[^F150]: S. 52(4) substituted (11.11.2010) by Constitutional Reform and Governance Act 2010 (c. 25), ss. 19, 52(2), Sch. 2 para. 15(4); S.I. 2010/2703, art. 2(a)
+[^F151]: S. 52(10) omitted (11.11.2010) by virtue of Constitutional Reform and Governance Act 2010 (c. 25), ss. 19, 52(2), Sch. 2 para. 15(5); S.I. 2010/2703, art. 2(a)
+[^F152]: Words in s. 53(1) substituted (24.9.2010) by National Assembly for Wales (Remuneration) Measure 2010 (nawm 4), ss. 16, 20(3)(4), Sch. 3 para. 12 (with s. 19) (the amending provision coming into force the day after notice under s. 20(3)(4) of the amending Measure was laid before the Assembly on 23.9.2010)
+[^F153]: Words in s. 53(2) substituted (24.9.2010) by National Assembly for Wales (Remuneration) Measure 2010 (nawm 4), ss. 16, 20(3)(4), Sch. 3 para. 13 (with s. 19) (the amending provision coming into force the day after notice under s. 20(3)(4) of the amending Measure was laid before the Assembly on 23.9.2010)
+[^F154]: Words in s. 53(3) substituted (24.9.2010) by National Assembly for Wales (Remuneration) Measure 2010 (nawm 4), ss. 16, 20(3)(4), Sch. 3 para. 14 (with s. 19) (the amending provision coming into force the day after notice under s. 20(3)(4) of the amending Measure was laid before the Assembly on 23.9.2010)
+[^F155]: S. 53(7) substituted (24.9.2010) by National Assembly for Wales (Remuneration) Measure 2010 (nawm 4), ss. 16, 20(3)(4), Sch. 3 para. 15 (with s. 19) (the amending provision coming into force the day after notice under s. 20(3)(4) of the amending Measure was laid before the Assembly on 23.9.2010)
+[^F156]: S. 53(8) inserted (24.9.2010) by National Assembly for Wales (Remuneration) Measure 2010 (nawm 4), ss. 16, 20(3)(4), Sch. 3 para. 16 (with s. 19) (the amending provision coming into force the day after notice under s. 20(3)(4) of the amending Measure was laid before the Assembly on 23.9.2010)
+[^F157]: Words in s. 54(2) substituted (24.9.2010) by virtue of National Assembly for Wales (Remuneration) Measure 2010 (nawm 4), ss. 16, 20(3)(4), Sch. 3 para. 17 (with s. 19) (the amending provision coming into force the day after notice under s. 20(3)(4) of the amending Measure was laid before the Assembly on 23.9.2010)
+[^F158]: Words in s. 54(2) omitted (24.9.2010) by virtue of National Assembly for Wales (Remuneration) Measure 2010 (nawm 4), ss. 16, 20(3)(4), Sch. 3 para. 17 (with s. 19) (the amending provision coming into force the day after notice under s. 20(3)(4) of the amending Measure was laid before the Assembly on 23.9.2010)
+[^F159]: S. 54(3) substituted (24.9.2010) by National Assembly for Wales (Remuneration) Measure 2010 (nawm 4), ss. 16, 20(3)(4), Sch. 3 para. 18 (with s. 19) (the amending provision coming into force the day after notice under s. 20(3)(4) of the amending Measure was laid before the Assembly on 23.9.2010)
+[^F160]: Words in s. 58(1)(a) inserted (12.11.2009 for certain purposes and 12.1.2010 in so far as not already in force) by Marine and Coastal Access Act 2009 (c. 23), ss. 43, 324, Sch. 4 Pt. 2 para. 6(3)(a); S.I. 2009/3345, art. 2, Sch. para. 7
+[^F161]: Words in s. 58(1)(b) substituted (8.1.2018) by Wales Act 2017 (c. 4), ss. 21(1), 71(4) (with Sch. 7 paras. 1, 6); S.I. 2017/893, reg. 2
+[^F162]: Words in s. 58(1)(c) inserted (12.11.2009 for certain purposes and 12.1.2010 in so far as not already in force) by Marine and Coastal Access Act 2009 (c. 23), ss. 43, 324, Sch. 4 Pt. 2 para. 6(3)(b); S.I. 2009/3345, art. 2, Sch. para. 7
+[^F163]: S. 58(1A)(1B) inserted (12.11.2009 for certain purposes and 12.1.2010 in so far as not already in force) by Marine and Coastal Access Act 2009 (c. 23), ss. 43, 324, Sch. 4 Pt. 2 para. 6(3)(c); S.I. 2009/3345, art. 2, Sch. para. 7
+[^F164]: S. 58(2A)(2B) inserted (8.1.2018) by Wales Act 2017 (c. 4), ss. 49, 71(4) (with Sch. 7 paras. 1, 6, 7); S.I. 2017/893, reg. 2
+[^F165]: S. 58A inserted (1.4.2018) by Wales Act 2017 (c. 4), ss. 19(1), 71(4) (with Sch. 7 paras. 1, 6); S.I. 2017/1179, reg. 3(e)
+[^F166]: Word in s. 58A(4)(d) substituted (1.1.2024) by Retained EU Law (Revocation and Reform) Act 2023 (c. 28), s. 22(3), Sch. 2 para. 5(2) (with s. 22(6)); S.I. 2023/1363, reg. 3(e)
+[^F167]: S. 58B omitted (31.12.2020) by virtue of European Union (Withdrawal) Act 2018 (c. 16), s. 25(4), Sch. 3 para. 34 (with s. 19, Sch. 8 para. 37); S.I. 2020/1622, reg. 3(l) (with regs. 10, 22)
+[^F168]: S. 59 heading substituted (31.12.2020) by European Union (Withdrawal) Act 2018 (c. 16), s. 25(4), Sch. 3 para. 35(2) (with s. 19, Sch. 8 para. 37); S.I. 2020/1622, reg. 3(l) (with reg. 10)
+[^F169]: S. 59(1)-(4) omitted (31.12.2020) by virtue of European Union (Withdrawal) Act 2018 (c. 16), s. 25(4), Sch. 3 para. 35(3) (with s. 19, Sch. 8 para. 37); S.I. 2020/1622, reg. 3(l) (with regs. 10, 22)
+[^F170]: Words in s. 59(5) substituted (31.12.2020) by European Union (Withdrawal) Act 2018 (c. 16), s. 25(4), Sch. 3 para. 35(4) (with s. 19, Sch. 8 para. 37); S.I. 2020/1622, reg. 3(l) (with reg. 10)
+[^F171]: Words in s. 59(7)(c) substituted (12.11.2009 for certain purposes and 12.1.2010 in so far as not already in force) by Marine and Coastal Access Act 2009 (c. 23), ss. 43, 324, Sch. 4 Pt. 2 para. 6(4)(b); S.I. 2009/3345, art. 2, Sch. para. 7
+[^F172]: S. 59A inserted (8.1.2018) by Wales Act 2017 (c. 4), ss. 21(3), 71(4) (with Sch. 7 paras. 1, 6); S.I. 2017/893, reg. 2
+[^F173]: S. 63 omitted (1.4.2018) by virtue of Wales Act 2017 (c. 4), ss. 22, 71(4) (with Sch. 7 paras. 1, 6); S.I. 2017/1179, reg. 3(e)
+[^F174]: S. 66A inserted (1.4.2018) by Wales Act 2017 (c. 4), ss. 65, 71(4) (with Sch. 7 paras. 1, 6); S.I. 2017/1179, reg. 3(m)
+[^F175]: Words in s. 70(1) substituted (1.4.2018) by Wales Act 2017 (c. 4), ss. 19(2)(a)(i), 71(4) (with Sch. 7 paras. 1, 6); S.I. 2017/1179, reg. 3(e)
+[^F176]: Words in s. 70(1) substituted (1.4.2018) by Wales Act 2017 (c. 4), ss. 19(2)(a)(ii), 71(4) (with Sch. 7 paras. 1, 6); S.I. 2017/1179, reg. 3(e)
+[^F177]: Words in s. 70(1) substituted (1.4.2018) by Wales Act 2017 (c. 4), ss. 19(2)(a)(iii), 71(4) (with Sch. 7 paras. 1, 6); S.I. 2017/1179, reg. 3(e)
+[^F178]: Words in s. 70(1) substituted (1.4.2018) by Wales Act 2017 (c. 4), ss. 19(2)(a)(iv), 71(4) (with Sch. 7 paras. 1, 6); S.I. 2017/1179, reg. 3(e)
+[^F179]: Words in s. 70(2) substituted (1.4.2018) by Wales Act 2017 (c. 4), ss. 19(2)(b)(i), 71(4) (with Sch. 7 paras. 1, 6); S.I. 2017/1179, reg. 3(e)
+[^F180]: Words in s. 70(2) substituted (1.4.2018) by Wales Act 2017 (c. 4), ss. 19(2)(b)(ii), 71(4) (with Sch. 7 paras. 1, 6); S.I. 2017/1179, reg. 3(e)
+[^F181]: S. 70(3) substituted (1.4.2018) by Wales Act 2017 (c. 4), ss. 19(2)(c), 71(4) (with Sch. 7 paras. 1, 6); S.I. 2017/1179, reg. 3(e)
+[^F182]: S. 71(2) substituted (1.4.2018) by Wales Act 2017 (c. 4), ss. 19(3), 71(4) (with Sch. 7 paras. 1, 6); S.I. 2017/1179, reg. 3(e)
+[^F183]: Words in s. 72(5)(c) substituted (22.11.2012) by Police Reform and Social Responsibility Act 2011 (c. 13), s. 157(1), Sch. 16 para. 352; S.I. 2012/2892, art. 2(i)
+[^F184]: Words in s. 78(1) substituted (7.9.2025) by Welsh Language and Education (Wales) Act 2025 (asc 2), ss. 1(5)(a), 56(2)
+[^F185]: S. 78(1A) inserted (7.9.2025) by Welsh Language and Education (Wales) Act 2025 (asc 2), ss. 1(5)(b), 56(2)
+[^F186]: S. 78(2)(3) omitted (31.3.2016) by virtue of The Welsh Language (Wales) Measure 2011 (Consequential Provisions) Order 2016 (S.I. 2016/409), arts. 1(2), 2(a)(i)
+[^F187]: Words in s. 78(4)(a) omitted (31.3.2016) by virtue of The Welsh Language (Wales) Measure 2011 (Consequential Provisions) Order 2016 (S.I. 2016/409), arts. 1(2), 2(a)(ii)
+[^F188]: Words in s. 78(4)(b) substituted (31.3.2016) by The Welsh Language (Wales) Measure 2011 (Consequential Provisions) Order 2016 (S.I. 2016/409), arts. 1(2), 2(a)(iii)
+[^F189]: Words in s. 78(5) omitted (31.3.2016) by virtue of The Welsh Language (Wales) Measure 2011 (Consequential Provisions) Order 2016 (S.I. 2016/409), arts. 1(2), 2(a)(iv)
+[^F190]: Words in s. 78(5) substituted (7.9.2025) by Welsh Language and Education (Wales) Act 2025 (asc 2), ss. 1(5)(c), 56(2)
+[^F191]: Words in s. 78(6) omitted (31.3.2016) by virtue of The Welsh Language (Wales) Measure 2011 (Consequential Provisions) Order 2016 (S.I. 2016/409), arts. 1(2), 2(a)(v)
+[^F192]: Words in s. 78(6) omitted (31.3.2016) by virtue of The Welsh Language (Wales) Measure 2011 (Consequential Provisions) Order 2016 (S.I. 2016/409), arts. 1(2), 2(a)(iv)
+[^F193]: Words in s. 78(6)(b) omitted (31.3.2016) by virtue of The Welsh Language (Wales) Measure 2011 (Consequential Provisions) Order 2016 (S.I. 2016/409), arts. 1(2), 2(a)(vi)
+[^F194]: Words in s. 78(7) omitted (31.3.2016) by virtue of The Welsh Language (Wales) Measure 2011 (Consequential Provisions) Order 2016 (S.I. 2016/409), arts. 1(2), 2(a)(iv)
+[^F195]: S. 78(8) substituted (31.3.2016) by The Welsh Language (Wales) Measure 2011 (Consequential Provisions) Order 2016 (S.I. 2016/409), arts. 1(2), 2(a)(vii)
+[^F196]: S. 78(9)(10) inserted (5.2.2012) by Welsh Language (Wales) Measure 2011 (nawm 1), ss. 148(2), 156(2); S.I. 2012/223, art. 2(a)
+[^F197]: S. 78(11) inserted (7.9.2025) by Welsh Language and Education (Wales) Act 2025 (asc 2), ss. 1(5)(d), 56(2)
+[^F198]: S. 79 substituted (1.4.2016) by Well-being of Future Generations (Wales) Act 2015 (anaw 2), ss. 16, 56(2); S.I. 2016/86, art. 3
+[^F199]: Word in s. 80 cross-heading substituted (1.1.2024) by Retained EU Law (Revocation and Reform) Act 2023 (c. 28), s. 22(3), Sch. 2 para. 5(3) (with s. 22(6)); S.I. 2023/1363, reg. 3(e)
+[^F200]: Word in s. 80 cross-heading substituted (31.3.2022) by The European Union (Withdrawal) Act 2018 (Repeal of EU Restrictions in Devolution Legislation, etc.) Regulations 2022 (S.I. 2022/357), regs. 1(1), 4(2)
+[^F201]: Word in s. 80 heading heading substituted (1.1.2024) by Retained EU Law (Revocation and Reform) Act 2023 (c. 28), s. 22(3), Sch. 2 para. 5(4)(a) (with s. 22(6)); S.I. 2023/1363, reg. 3(e)
+[^F202]: Word in s. 80 heading heading substituted (31.3.2022) by The European Union (Withdrawal) Act 2018 (Repeal of EU Restrictions in Devolution Legislation, etc.) Regulations 2022 (S.I. 2022/357), regs. 1(1), 4(3)(a)
+[^F203]: Words in s. 80(1) substituted (31.12.2020) by European Union (Withdrawal) Act 2018 (c. 16), s. 25(4), Sch. 3 para. 37(3) (with s. 19, Sch. 8 para. 37); S.I. 2020/1622, reg. 3(l) (with reg. 10)
+[^F204]: Words in s. 80(1) substituted (1.1.2024) by Retained EU Law (Revocation and Reform) Act 2023 (c. 28), s. 22(3), Sch. 2 para. 5(4)(b) (with s. 22(6)); S.I. 2023/1363, reg. 3(e)
+[^F205]: Words in s. 80(2) substituted (31.12.2020) by European Union (Withdrawal) Act 2018 (c. 16), s. 25(4), Sch. 3 para. 37(4) (with s. 19, Sch. 8 para. 37); S.I. 2020/1622, reg. 3(l) (with reg. 10)
+[^F206]: Words in s. 80(2) substituted (1.1.2024) by Retained EU Law (Revocation and Reform) Act 2023 (c. 28), s. 22(3), Sch. 2 para. 5(4)(c) (with s. 22(6)); S.I. 2023/1363, reg. 3(e)
+[^F207]: Words in s. 80(2)(b) substituted (12.11.2009 for certain purposes and 12.1.2010 in so far as not already in force) by Marine and Coastal Access Act 2009 (c. 23), ss. 43, 324, Sch. 4 Pt. 2 para. 6(5); S.I. 2009/3345, art. 2, Sch. para. 7
+[^F208]: Words in s. 80(3) substituted (31.12.2020) by European Union (Withdrawal) Act 2018 (c. 16), s. 25(4), Sch. 3 para. 37(5)(a) (with s. 19, Sch. 8 para. 37); S.I. 2020/1622, reg. 3(l) (with reg. 10)
+[^F209]: Words in s. 80(3) substituted (1.1.2024) by Retained EU Law (Revocation and Reform) Act 2023 (c. 28), s. 22(3), Sch. 2 para. 5(4)(d)(i) (with s. 22(6)); S.I. 2023/1363, reg. 3(e)
+[^F210]: Words in s. 80(3) substituted (31.12.2020) by European Union (Withdrawal) Act 2018 (c. 16), s. 25(4), Sch. 3 para. 37(5)(b) (with s. 19, Sch. 8 para. 37); S.I. 2020/1622, reg. 3(l) (with reg. 10)
+[^F211]: Words in s. 80(3) substituted (1.1.2024) by Retained EU Law (Revocation and Reform) Act 2023 (c. 28), s. 22(3), Sch. 2 para. 5(4)(d)(ii) (with s. 22(6)); S.I. 2023/1363, reg. 3(e)
+[^F212]: Words in s. 80(7) substituted (31.12.2020) by European Union (Withdrawal) Act 2018 (c. 16), s. 25(4), Sch. 3 para. 37(6)(a) (with s. 19, Sch. 8 para. 37); S.I. 2020/1622, reg. 3(l) (with reg. 10)
+[^F213]: Words in s. 80(7) substituted (1.1.2024) by Retained EU Law (Revocation and Reform) Act 2023 (c. 28), s. 22(3), Sch. 2 para. 5(4)(e)(i) (with s. 22(6)); S.I. 2023/1363, reg. 3(e)
+[^F214]: Words in s. 80(7) substituted (31.12.2020) by European Union (Withdrawal) Act 2018 (c. 16), s. 25(4), Sch. 3 para. 37(6)(b) (with s. 19, Sch. 8 para. 37); S.I. 2020/1622, reg. 3(l) (with reg. 10)
+[^F215]: Words in s. 80(7) substituted (1.1.2024) by Retained EU Law (Revocation and Reform) Act 2023 (c. 28), s. 22(3), Sch. 2 para. 5(4)(e)(ii) (with s. 22(6)); S.I. 2023/1363, reg. 3(e)
+[^F216]: S. 80(8)-(8L) omitted (31.3.2022) by virtue of The European Union (Withdrawal) Act 2018 (Repeal of EU Restrictions in Devolution Legislation, etc.) Regulations 2022 (S.I. 2022/357), regs. 1(1), 4(3)(b)
+[^F217]: Words in s. 80(9) substituted (31.3.2022) by The European Union (Withdrawal) Act 2018 (Repeal of EU Restrictions in Devolution Legislation, etc.) Regulations 2022 (S.I. 2022/357), regs. 1(1), 4(3)(c)
+[^F218]: Words in s. 82(5)(b) substituted (12.11.2009 for certain purposes and 12.1.2010 in so far as not already in force) by Marine and Coastal Access Act 2009 (c. 23), ss. 43, 324, Sch. 4 Pt. 2 para. 6(6); S.I. 2009/3345, art. 2, Sch. para. 7
+[^F219]: Pt. 3 ceases to have effect (5.5.2011) by virtue of Government of Wales Act 2006 (c. 32), s. 106(1)(1) (with ss. 106(2), 106A) (as amended (5.5.2011) by S.I. 2011/1011, art. 4; see S.I. 2011/1011, arts. 2, 3 for date of commencement of the Assembly Act provisions)
+[^F220]: Words in s. 94(4)(a) inserted (19.11.2009) by The National Assembly for Wales (Legislative Competence) (Exceptions to Matters) Order 2009 (S.I. 2009/3006), art. 2(2)
+[^F221]: Words in s. 94(6)(a) inserted (19.11.2009) by The National Assembly for Wales (Legislative Competence) (Exceptions to Matters) Order 2009 (S.I. 2009/3006), art. 2(3)
+[^F222]: Words in Act substituted (22.4.2011) by The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043), arts. 2, 3-6
+[^F223]: Words in s. 94(7) inserted (19.11.2009) by The National Assembly for Wales (Legislative Competence) (Exceptions to Matters) Order 2009 (S.I. 2009/3006), art. 2(4)
+[^F224]: Words in s. 101(1)(a) inserted (19.11.2009) by The National Assembly for Wales (Legislative Competence) (Exceptions to Matters) Order 2009 (S.I. 2009/3006), art. 2(5)
+[^F225]: S. 103 cross-heading omitted (1.4.2018) by virtue of Wales Act 2017 (c. 4), s. 71(4), Sch. 6 para. 2 (with Sch. 7 paras. 1, 6); S.I. 2017/1179, reg. 3(q)
+[^F226]: Ss. 103-106A and cross-heading omitted (1.4.2018) by virtue of Wales Act 2017 (c. 4), s. 71(4), Sch. 6 para. 2 (with Sch. 7 paras. 1, 4, 5, 6); S.I. 2017/1179, reg. 3(q)
+[^F227]: Words in s. 107(1) substituted (6.5.2020) by Senedd and Elections (Wales) Act 2020 (anaw 1), ss. 3, 42(2)
+[^F228]: S. 107(6) inserted (31.3.2017) by Wales Act 2017 (c. 4), ss. 2, 71(2)(a) (with Sch. 7 paras. 1, 6)
+[^F229]: S. 108A substituted for s.108 (1.4.2018) by Wales Act 2017 (c. 4), ss. 3(1), 71(3) (with Sch. 7 paras. 1, 2, 6); S.I. 2017/1179, reg. 2
+[^F230]: Words in s. 108A(2)(e) omitted (31.3.2022) by virtue of The European Union (Withdrawal) Act 2018 (Repeal of EU Restrictions in Devolution Legislation, etc.) Regulations 2022 (S.I. 2022/357), regs. 1(1), 4(4)
+[^F231]: S. 108A(4A) inserted (23.1.2021) by Fisheries Act 2020 (c. 22), ss. 45(2), 54(2) (with Sch. 4 para. 31)
+[^F232]: Words in s. 109(1) substituted (1.4.2018) by Wales Act 2017 (c. 4), s. 71(4), Sch. 6 para. 3(2) (with Sch. 7 paras. 1, 6); S.I. 2017/1179, reg. 3(q)
+[^F233]: Words in s. 109(4) substituted for s. 109(4)(a)(b) (1.4.2018) by Wales Act 2017 (c. 4), s. 71(4), Sch. 6 para. 3(3) (with Sch. 7 paras. 1, 6); S.I. 2017/1179, reg. 3(q)
+[^F234]: S. 109(5) substituted (1.4.2018) by Wales Act 2017 (c. 4), s. 71(4), Sch. 6 para. 3(4) (with Sch. 7 paras. 1, 6); S.I. 2017/1179, reg. 3(q)
+[^F235]: S. 109A omitted (31.3.2022) by virtue of The European Union (Withdrawal) Act 2018 (Repeal of EU Restrictions in Devolution Legislation, etc.) Regulations 2022 (S.I. 2022/357), regs. 1(1), 4(5)
+[^F236]: S. 110A inserted (1.4.2018) by Wales Act 2017 (c. 4), ss. 11, 71(4) (with Sch. 7 paras. 1, 6); S.I. 2017/1179, reg. 3(c)
+[^F237]: S. 111(6)(za) inserted (31.3.2017 for specified purposes, 1.4.2018 in so far as not already in force) by Wales Act 2017 (c. 4), ss. 10(2), 71(2)(c) (with Sch. 7 paras. 1, 6); S.I. 2017/1179, reg. 3(c)
+[^F238]: S. 111(6)(b) omitted (31.12.2020) by virtue of European Union (Withdrawal) Act 2018 (c. 16), s. 25(4), Sch. 3 para. 38(a) (with s. 19, Sch. 8 para. 37); S.I. 2020/1622, reg. 3(l) (with regs. 10, 14, 22)
+[^F239]: S. 111(6A) inserted (31.3.2017 for specified purposes, 1.4.2018 in so far as not already in force) by Wales Act 2017 (c. 4), ss. 10(3), 71(2)(c) (with Sch. 7 paras. 1, 6); S.I. 2017/1179, reg. 3(c)
+[^F240]: S. 111(7) substituted (31.3.2017 for specified purposes, 1.4.2018 in so far as not already in force) by Wales Act 2017 (c. 4), ss. 10(4), 71(2)(c) (with Sch. 7 paras. 1, 6); S.I. 2017/1179, reg. 3(c)
+[^F241]: Word in s. 111(7)(a) omitted (31.12.2020) by virtue of European Union (Withdrawal) Act 2018 (c. 16), s. 25(4), Sch. 3 para. 38(b) (with s. 19, Sch. 8 para. 37); S.I. 2020/1622, reg. 3(l) (with regs. 10, 14, 22)
+[^F242]: Words in s. 111(8) inserted (31.3.2017 for specified purposes, 1.4.2018 in so far as not already in force) by Wales Act 2017 (c. 4), ss. 10(5)(a), 71(2)(c) (with Sch. 7 paras. 1, 6); S.I. 2017/1179, reg. 3(c)
+[^F243]: Words in s. 111(8) substituted (17.2.2015) by Wales Act 2014 (c. 29), ss. 6(4), 29(2)(b)(3)
+[^F244]: Words in s. 111(8) substituted (31.3.2017 for specified purposes, 1.4.2018 in so far as not already in force) by Wales Act 2017 (c. 4), ss. 10(5)(b), 71(2)(c) (with Sch. 7 paras. 1, 6); S.I. 2017/1179, reg. 3(c)
+[^F245]: Ss. 111A, 111B inserted (31.3.2017 for specified purposes, 1.4.2018 in so far as not already in force) by Wales Act 2017 (c. 4), ss. 9, 71(2)(c) (with Sch. 7 paras. 1, 6); S.I. 2017/1179, reg. 3(c)
+[^F246]: Words in s. 112 heading inserted (31.3.2017 for specified purposes, 1.4.2018 in so far as not already in force) by Wales Act 2017 (c. 4), ss. 10(6)(a), 71(2)(c) (with Sch. 7 paras. 1, 6); S.I. 2017/1179, reg. 3(c)
+[^F247]: Word in s. 112(2)(b) omitted (31.3.2017 for specified purposes, 1.4.2018 in so far as not already in force) by virtue of Wales Act 2017 (c. 4), ss. 10(6)(b), 71(2)(c) (with Sch. 7 paras. 1, 6); S.I. 2017/1179, reg. 3(c)
+[^F248]: Words in s. 112(3)(a)(b) substituted (1.4.2018) by Wales Act 2017 (c. 4), ss. 12(2)(a), 71(4) (with Sch. 7 paras. 1, 6); S.I. 2017/1179, reg. 3(c)
+[^F249]: S. 113 omitted (31.12.2020) by virtue of European Union (Withdrawal) Act 2018 (c. 16), s. 25(4), Sch. 3 para. 39 (with s. 19, Sch. 8 para. 37); S.I. 2020/1622, reg. 3(l) (with regs. 10, 14, 22)
+[^F250]: Words in s. 114(1)(a) substituted (1.4.2018) by Wales Act 2017 (c. 4), s. 71(4), Sch. 6 para. 4 (with Sch. 7 paras. 1, 6); S.I. 2017/1179, reg. 3(q)
+[^F251]: S. 114(1)(b) omitted (1.4.2018) by virtue of Wales Act 2017 (c. 4), ss. 52(1)(a), 71(4) (with Sch. 7 paras. 1, 6); S.I. 2017/1179, reg. 3(k)
+[^F252]: Words in s. 114(2) substituted (1.4.2018) by Wales Act 2017 (c. 4), ss. 12(2)(c), 71(4) (with Sch. 7 paras. 1, 6); S.I. 2017/1179, reg. 3(c)
+[^F253]: Word in s. 114(4)(b) omitted (31.3.2017 for specified purposes, 1.4.2018 in so far as not already in force) by virtue of Wales Act 2017 (c. 4), ss. 10(7)(a), 71(2)(c) (with Sch. 7 paras. 1, 6); S.I. 2017/1179, reg. 3(c)
+[^F254]: Words in s. 114(4)(c) inserted (31.3.2017 for specified purposes, 1.4.2018 in so far as not already in force) by Wales Act 2017 (c. 4), ss. 10(7)(b), 71(2)(c) (with Sch. 7 paras. 1, 6); S.I. 2017/1179, reg. 3(c)
+[^F255]: Words in s. 114(5) substituted (1.4.2018) by Wales Act 2017 (c. 4), ss. 12(2)(c), 71(4) (with Sch. 7 paras. 1, 6); S.I. 2017/1179, reg. 3(c)
+[^F256]: Words in s. 115(1) substituted (1.4.2018) by Wales Act 2017 (c. 4), ss. 12(1), 71(4) (with Sch. 7 paras. 1, 6); S.I. 2017/1179, reg. 3(c)
+[^F257]: Words in s. 115(2) substituted (1.4.2018) by Wales Act 2017 (c. 4), ss. 12(1), 71(4) (with Sch. 7 paras. 1, 6); S.I. 2017/1179, reg. 3(c)
+[^F258]: Words in s. 115(2)(a) inserted (31.3.2017 for specified purposes, 1.4.2018 in so far as not already in force) by Wales Act 2017 (c. 4), ss. 10(8)(a), 71(2)(c) (with Sch. 7 paras. 1, 6); S.I. 2017/1179, reg. 3(c)
+[^F259]: Words in s. 115(3) substituted (1.4.2018) by Wales Act 2017 (c. 4), ss. 12(1), 71(4) (with Sch. 7 paras. 1, 6); S.I. 2017/1179, reg. 3(c)
+[^F260]: S. 115(3)(b) and word omitted (31.12.2020) by virtue of European Union (Withdrawal) Act 2018 (c. 16), s. 25(4), Sch. 3 para. 40 (with s. 19, Sch. 8 para. 37); S.I. 2020/1622, reg. 3(l) (with regs. 10, 14, 22)
+[^F261]: S. 115(3A) inserted (31.3.2017 for specified purposes, 1.4.2018 in so far as not already in force) by Wales Act 2017 (c. 4), ss. 10(8)(b), 71(2)(c) (with Sch. 7 paras. 1, 6); S.I. 2017/1179, reg. 3(c)
+[^F262]: S. 115(4A) inserted (5.5.2011) by The Government of Wales Act 2006 (Commencement of Assembly Act Provisions, Transitional and Saving Provisions and Modifications) Order 2011 (S.I. 2011/1011), art. 5(2)
+[^F263]: S. 115(5A)-(5E) omitted (1.1.2026) by virtue of Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3), s. 9(4), Sch. 3 para. 6(a); S.I. 2025/1160, art. 2(e)
+[^F264]: Words in s. 115(5F) omitted (1.1.2026) by virtue of Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3), s. 9(4), Sch. 3 para. 6(b); S.I. 2025/1160, art. 2(e)
+[^F265]: Words in s. 116 heading substituted (1.4.2018) by Wales Act 2017 (c. 4), s. 71(4), Sch. 6 para. 5(2) (with Sch. 7 paras. 1, 6); S.I. 2017/1179, reg. 3(q)
+[^F266]: Words in s. 116(3) inserted (1.4.2018) by Wales Act 2017 (c. 4), s. 71(4), Sch. 6 para. 5(3) (with Sch. 7 paras. 1, 6); S.I. 2017/1179, reg. 3(q)
+[^F267]: Pt. 4A inserted (17.2.2015) by Wales Act 2014 (c. 29), ss. 6(2), 29(2)(b)(3)
+[^F268]: Words in s. 116A(1) inserted (with effect in accordance with s. 14(3)-(5) of the amending Act) by Wales Act 2014 (c. 29), ss. 8(2), 14(2), 29(4); S.I. 2018/892, art. 3 (with arts. 5, 6, 8)
+[^F269]: Words in s. 116B(3) substituted (1.4.2018) by Wales Act 2017 (c. 4), s. 71(4), Sch. 6 para. 6 (with Sch. 7 paras. 1, 6); S.I. 2017/1179, reg. 3(q)
+[^F270]: Pt. 4A Ch. 2 inserted (with effect in accordance with s. 14(3)-(5) of the amending Act) by Wales Act 2014 (c. 29), ss. 8(3), 14(2), 29(4); S.I. 2018/892, art. 3 (with arts. 5, 6, 8)
+[^F271]: S. 116D(1)(d)-(f) inserted (16.9.2026 for the tax year 2027-28 and subsequent tax years) by Finance Act 2026 (c. 11), Sch. 2 para. 4(2); S.I. 2026/1023, reg. 2
+[^F272]: Words in s. 116D(2) inserted (16.9.2026 for the tax year 2027-28 and subsequent tax years) by Finance Act 2026 (c. 11), Sch. 2 para. 4(3)(a); S.I. 2026/1023, reg. 2
+[^F273]: Words in s. 116D(2) substituted (16.9.2026 for the tax year 2027-28 and subsequent tax years) by Finance Act 2026 (c. 11), Sch. 2 para. 4(3)(b); S.I. 2026/1023, reg. 2
+[^F274]: Word in s. 116E(4)(a) inserted (with effect in relation to the tax year 2020-21 and subsequent tax years in accordance with reg. 15 of the commencing S.I.) by European Union (Withdrawal) Act 2018 (c. 16), s. 25(4), Sch. 3 para. 41(2)(a) (with s. 19, Sch. 8 para. 37); S.I. 2020/1622, reg. 3(l) (with reg. 10)
+[^F275]: S. 116E(4)(b) omitted (with effect in relation to the tax year 2020-21 and subsequent tax years in accordance with reg. 15 of the commencing S.I.) by virtue of European Union (Withdrawal) Act 2018 (c. 16), s. 25(4), Sch. 3 para. 41(2)(b) (with s. 19, Sch. 8 para. 37); S.I. 2020/1622, reg. 3(l) (with regs. 10, 22)
+[^F276]: Words in s. 116E(6) substituted (with effect in relation to the tax year 2020-21 and subsequent tax years in accordance with reg. 15 of the commencing S.I.) by European Union (Withdrawal) Act 2018 (c. 16), s. 25(4), Sch. 3 para. 41(3) (with s. 19, Sch. 8 para. 37); S.I. 2020/1622, reg. 3(l) (with reg. 10)
+[^F277]: Words in s. 116F(2)(a) substituted (with effect in relation to the tax year 2020-21 and subsequent tax years in accordance with reg. 15 of the commencing S.I.) by European Union (Withdrawal) Act 2018 (c. 16), s. 25(4), Sch. 3 para. 42 (with s. 19, Sch. 8 para. 37); S.I. 2020/1622, reg. 3(l) (with reg. 10)
+[^F278]: Words in s. 116I(1) substituted (16.9.2026 for the tax year 2027-28 and subsequent tax years) by Finance Act 2026 (c. 11), Sch. 2 para. 5(2)(a); S.I. 2026/1023, reg. 2
+[^F279]: Word in s. 116I(1)(a) inserted (16.9.2026 for the tax year 2027-28 and subsequent tax years) by Finance Act 2026 (c. 11), Sch. 2 para. 5(2)(b); S.I. 2026/1023, reg. 2
+[^F280]: Word in s. 116I(1)(b) inserted (16.9.2026 for the tax year 2027-28 and subsequent tax years) by Finance Act 2026 (c. 11), Sch. 2 para. 5(2)(b); S.I. 2026/1023, reg. 2
+[^F281]: S. 116I(2A) inserted (16.9.2026 for the tax year 2027-28 and subsequent tax years) by Finance Act 2026 (c. 11), Sch. 2 para. 5(3); S.I. 2026/1023, reg. 2
+[^F282]: Words in s. 116I(3)(a) inserted (16.9.2026 for the tax year 2027-28 and subsequent tax years) by Finance Act 2026 (c. 11), Sch. 2 para. 5(4); S.I. 2026/1023, reg. 2
+[^F283]: Words in s. 116K(3)(b) inserted (16.9.2026 for the tax year 2027-28 and subsequent tax years) by Finance Act 2026 (c. 11), Sch. 2 para. 6; S.I. 2026/1023, reg. 2
+[^F284]: Pt. 4A Ch. 3 inserted (17.2.2015) by Wales Act 2014 (c. 29), ss. 15(1), 29(2)(b)(3) (with s. 15(2))
+[^F285]: Words in s. 116M(1) substituted (1.4.2018) by Wales Act 2017 (c. 4), s. 71(4), Sch. 6 para. 7 (with Sch. 7 paras. 1, 6); S.I. 2017/1179, reg. 3(q)
+[^F286]: Pt. 4A Ch. 4 inserted (17.2.2015) by Wales Act 2014 (c. 29), ss. 18(1), 29(2)(b)(3)
+[^F287]: S. 119 omitted (1.4.2018) by virtue of Wales Act 2017 (c. 4), ss. 13(1), 71(4) (with Sch. 7 paras. 1, 6); S.I. 2017/1179, reg. 3(d)
+[^F288]: Words in s. 120(1)(c) substituted (1.4.2014) by Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 72 (with Sch. 3 para. 3); S.I. 2013/1466, art. 3(1)
+[^F289]: S. 121(1)-(1B) substituted for s. 121(1) (1.1.2017) by Wales Act 2014 (c. 29), ss. 20(3), 29(5)(a); S.I. 2016/1264, art. 2
+[^F290]: Words in s. 121(1A) inserted (1.12.2018) by The Government of Wales Act 2006 (Variation of Borrowing Power) Order 2018 (S.I. 2018/1266), arts. 1, 2
+[^F291]: Words in s. 121(2) inserted (1.1.2017) by Wales Act 2014 (c. 29), ss. 20(4), 29(5)(a); S.I. 2016/1264, art. 2
+[^F292]: S. 121(4)(5) inserted (1.1.2017) by Wales Act 2014 (c. 29), ss. 20(5), 29(5)(a); S.I. 2016/1264, art. 2
+[^F293]: Words in s. 122(2) substituted (1.1.2017) by Wales Act 2014 (c. 29), ss. 20(7), 29(5)(a); S.I. 2016/1264, art. 2
+[^F294]: Word in s. 122(3) omitted (1.1.2017) by virtue of Wales Act 2014 (c. 29), ss. 20(8), 29(5)(a); S.I. 2016/1264, art. 2
+[^F295]: S. 122(3A) inserted (1.1.2017) by Wales Act 2014 (c. 29), ss. 20(9), 29(5)(a); S.I. 2016/1264, art. 2
+[^F296]: S. 122A inserted (1.1.2017) by Wales Act 2014 (c. 29), ss. 20(10), 29(5)(a); S.I. 2016/1264, art. 2
+[^F297]: Sum in s. 122A(1) substituted (16.7.2026) by The Government of Wales Act 2006 (Increase of Capital Borrowing Limits) Order 2026 (S.I. 2026/825), arts. 1(2), 2
+[^F298]: Sum in s. 122A(3) substituted (31.3.2017) by Wales Act 2017 (c. 4), ss. 18, 71(2)(d) (with Sch. 7 paras. 1, 6)
+[^F299]: Words in s. 124(3)(c) substituted (1.4.2014) by Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 73 (with Sch. 3 para. 3); S.I. 2013/1466, art. 3(1)
+[^F300]: S. 124(4A) inserted (1.4.2018) by Wales Act 2017 (c. 4), ss. 13(2), 71(4) (with Sch. 7 paras. 1, 6); S.I. 2017/1179, reg. 3(d)
+[^F301]: S. 126A inserted (11.11.2010) by Constitutional Reform and Governance Act 2010 (c. 25), ss. 44(2), 52(2); S.I. 2010/2703, art. 2(c)
+[^F302]: Word in s. 126A(9) substituted (6.5.2020) by Senedd and Elections (Wales) Act 2020 (anaw 1), s. 42(2), Sch. 1 para. 2(6)(a)
+[^F303]: Word in s. 126A(10) substituted (6.5.2020) by Senedd and Elections (Wales) Act 2020 (anaw 1), s. 42(2), Sch. 1 para. 2(6)(b)
+[^F304]: Words in s. 129(4) substituted (1.4.2014) by Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 74 (with Sch. 3 para. 3); S.I. 2013/1466, art. 3(1)
+[^F305]: S. 130A inserted (1.4.2018) by Wales Act 2017 (c. 4), ss. 13(3), 71(4) (with Sch. 7 paras. 1, 6); S.I. 2017/1179, reg. 3(d)
+[^F306]: Words in s. 134(5) substituted (6.4.2008) by The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948), art. 3(1), Sch. 1 para. 243(2) (with arts. 6, 11, 12)
+[^F307]: Words in s. 134(5) substituted (6.4.2008) by The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948), art. 3(1), Sch. 1 para. 243(2) (with arts. 6, 11, 12)
+[^F308]: S. 136 omitted (1.4.2018) by virtue of Wales Act 2017 (c. 4), ss. 13(4), 71(4) (with Sch. 7 paras. 1, 6); S.I. 2017/1179, reg. 3(d)
+[^F309]: Words in s. 139(5) substituted (6.4.2008) by The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948), art. 3(1), Sch. 1 para. 243(3) (with arts. 6, 11, 12)
+[^F310]: Words in s. 139(5) substituted (6.4.2008) by The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948), art. 3(1), Sch. 1 para. 243(3) (with arts. 6, 11, 12)
+[^F311]: Words in s. 141(6)(a) substituted (6.4.2008) by The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948), art. 3(1), Sch. 1 para. 243(4) (with arts. 6, 11, 12)
+[^F312]: Words in s. 141(6)(a) substituted (1.10.2009) by The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941), art. 2(1), Sch. 1 para. 256 (with art. 10)
+[^F313]: S. 143(1)(b) omitted (1.4.2014) by virtue of Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 75 (with Sch. 3 para. 3); S.I. 2013/1466, art. 3(1)
+[^F314]: Words in s. 144(2)(b) substituted (1.4.2014) by Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 76(2) (with Sch. 3 para. 3); S.I. 2013/1466, art. 3(1)
+[^F315]: Words in s. 144(2)(c) omitted (1.4.2014) by virtue of Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 76(3) (with Sch. 3 para. 3); S.I. 2013/1466, art. 3(1)
+[^F316]: S. 144(2)(d)-(g) inserted (1.4.2014) by Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 76(4) (with Sch. 3 para. 3); S.I. 2013/1466, art. 3(1)
+[^F317]: S. 145(1) omitted (1.4.2014) by virtue of Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 77(2) (with Sch. 3 para. 3); S.I. 2013/1466, art. 3(1)
+[^F318]: Words in s. 145(2) substituted (1.4.2014) by virtue of Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 77(3) (with Sch. 3 para. 3); S.I. 2013/1466, art. 3(1)
+[^F319]: Words in s. 147(1) substituted (9.12.2015) by The Transfer of Functions (Information and Public Records) Order 2015 (S.I. 2015/1897), art. 1(2), Sch. para. 4(a)
+[^F320]: Words in s. 147(3)-(5) substituted (9.12.2015) by The Transfer of Functions (Information and Public Records) Order 2015 (S.I. 2015/1897), art. 1(2), Sch. para. 4(a)
+[^F321]: S. 148(1)(ba) inserted (18.10.2017) by Tax Collection and Management (Wales) Act 2016 (anaw 6), ss. 34, 194(2); S.I. 2017/954, art. 2
+[^F322]: Words in s. 148(1)(f) substituted (9.12.2015) by The Transfer of Functions (Information and Public Records) Order 2015 (S.I. 2015/1897), art. 1(2), Sch. para. 4(b)
+[^F323]: S. 148(2)(aa) inserted (4.9.2023) by Tertiary Education and Research (Wales) Act 2022 (asc 1), s. 148(2), Sch. 4 para. 20(2)(a) (with s. 19); S.I. 2023/919, art. 2(ii)(x)
+[^F324]: S. 148(2)(aa) inserted (1.4.2023) by Health and Social Care (Quality and Engagement) (Wales) Act 2020 (asc 1), s. 29(2), Sch. 3 para. 9; S.I. 2023/370, art. 3(1)(t)
+[^F325]: S. 148(2)(b) omitted (1.4.2013) by virtue of The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755), art. 1(2), Sch. 2 para. 437(2) (with Sch. 7)
+[^F326]: S. 148(2)(ca) inserted (25.6.2024) by Senedd Cymru (Members and Elections) Act 2024 (asc 4), s. 25(1)(a), Sch. 1 para. 40(a)
+[^F327]: Words in s. 148(2)(g) substituted (1.3.2007) by virtue of National Health Service (Consequential Provisions) Act 2006 (c. 43), ss. 2, 8(2), Sch. 1 para. 303 (with Sch. 3 Pt. 1)
+[^F328]: S. 148(2)(h) omitted (1.8.2024) by virtue of Tertiary Education and Research (Wales) Act 2022 (asc 1), s. 148(2), Sch. 4 para. 20(2)(b) (with s. 19); S.I. 2024/806, art. 2(k)(xii) (with art. 28)
+[^F329]: S. 148(2)(i) omitted (25.6.2024) by virtue of Senedd Cymru (Members and Elections) Act 2024 (asc 4), s. 25(1)(a), Sch. 1 para. 40(b)
+[^F330]: S. 148(2)(ka) inserted (1.4.2013) by The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755), art. 1(2), Sch. 2 para. 437(3) (with Sch. 7)
+[^F331]: S. 148(kb) inserted (27.6.2026) by Environment (Principles, Governance and Biodiversity Targets) (Wales) Act 2026 (asc 4), s. 46(2)(g), Sch. 4 para. 2
+[^F332]: S. 148(2)(la) inserted (21.9.2015) by Qualifications Wales Act 2015 (anaw 5), s. 60(2), Sch. 4 para. 7; S.I. 2015/1687, art. 2 (with arts. 3-12)
+[^F333]: Words in s. 148(4)(a) substituted (9.12.2015) by The Transfer of Functions (Information and Public Records) Order 2015 (S.I. 2015/1897), art. 1(2), Sch. para. 4(b)
+[^F334]: S. 148A and cross-heading inserted (1.4.2018) by Wales Act 2017 (c. 4), ss. 55(1), 71(4) (with Sch. 7 paras. 1, 6); S.I. 2017/1179, reg. 3(l)
+[^F335]: S. 150A inserted (31.3.2017) by Wales Act 2017 (c. 4), ss. 16(1), 71(2)(c) (with Sch. 7 paras. 1, 6)
+[^F336]: Words in s. 150A heading substituted (6.5.2020) by Senedd and Elections (Wales) Act 2020 (anaw 1), s. 42(2), Sch. 1 para. 2(7)(a)
+[^F337]: S. 150A(1) omitted (6.5.2020) by virtue of Senedd and Elections (Wales) Act 2020 (anaw 1), s. 42(2), Sch. 1 para. 2(7)(b)
+[^F338]: Words in s. 150A(2) substituted (6.5.2020) by Senedd and Elections (Wales) Act 2020 (anaw 1), s. 42(2), Sch. 1 para. 2(7)(c)(i)
+[^F339]: Words in s. 150A(2) substituted (6.5.2020) by Senedd and Elections (Wales) Act 2020 (anaw 1), s. 42(2), Sch. 1 para. 2(7)(c)(ii)
+[^F340]: S. 150A(3) inserted (6.5.2020) by Senedd and Elections (Wales) Act 2020 (anaw 1), s. 42(2), Sch. 1 para. 2(7)(d)
+[^F341]: S. 152 omitted (1.4.2018) by virtue of Wales Act 2017 (c. 4), ss. 52(1)(b), 71(4) (with Sch. 7 paras. 1, 6); S.I. 2017/1179, reg. 3(k)
+[^F342]: Words in s. 155(1)(b) inserted (12.11.2009 for certain purposes and 12.1.2010 in so far as not already in force) by Marine and Coastal Access Act 2009 (c. 23), ss. 43, 324, Sch. 4 Pt. 2 para. 6(7); S.I. 2009/3345, art. 2, Sch. para. 7
+[^F343]: S. 156(1A) inserted (11.9.2019) by Legislation (Wales) Act 2019 (anaw 4), s. 44(1)(e), Sch. 2 para. 2(2)(a)
+[^F344]: S. 156(2)-(5) omitted (11.9.2019) by virtue of Legislation (Wales) Act 2019 (anaw 4), s. 44(1)(e), Sch. 2 para. 2(2)(b)
+[^F345]: Word in s. 157 heading inserted (1.4.2018) by Wales Act 2017 (c. 4), s. 71(4), Sch. 6 para. 8(2) (with Sch. 7 paras. 1, 6); S.I. 2017/1179, reg. 3(q)
+[^F346]: Words in s. 157(1) inserted (1.4.2018) by Wales Act 2017 (c. 4), s. 71(4), Sch. 6 para. 8(3) (with Sch. 7 paras. 1, 6); S.I. 2017/1179, reg. 3(q)
+[^F347]: S. 157ZA omitted (31.3.2022) by virtue of The European Union (Withdrawal) Act 2018 (Repeal of EU Restrictions in Devolution Legislation, etc.) Regulations 2022 (S.I. 2022/357), regs. 1(1), 4(6)
+[^F348]: S. 157A inserted (1.4.2018) by Wales Act 2017 (c. 4), ss. 4(1), 71(4) (with Sch. 7 paras. 1, 6); S.I. 2017/1179, reg. 3(a)
+[^F349]: S. 157A(9) inserted (23.1.2021) by Fisheries Act 2020 (c. 22), ss. 45(3), 54(2) (with Sch. 4 para. 31)
+[^F350]: Words in s. 158(1) omitted (31.12.2020) by virtue of European Union (Withdrawal) Act 2018 (c. 16), s. 25(4), Sch. 3 para. 44(a) (with s. 19, Sch. 8 para. 37); S.I. 2020/1622, reg. 3(l) (with regs. 10, 22)
+[^F351]: Word in s. 158(1) omitted (31.12.2020) by virtue of European Union (Withdrawal) Act 2018 (c. 16), s. 25(4), Sch. 3 para. 44(b) (with s. 19, Sch. 8 para. 37); S.I. 2020/1622, reg. 3(l) (with regs. 10, 22)
+[^F352]: Words in s. 158(1) inserted (1.4.2018) by Wales Act 2017 (c. 4), s. 71(4), Sch. 6 para. 9 (with Sch. 7 paras. 1, 6); S.I. 2017/1179, reg. 3(q)
+[^F353]: Word in s. 158(1) repealed (12.1.2010) by Marine and Coastal Access Act 2009 (c. 23), ss. 321, 324, Sch. 22 Pt. 1; S.I. 2009/3345, art. 2, Sch. para. 27
+[^F354]: S. 158(1): definition of "Welsh Zone" and preceding word inserted (12.11.2009 for certain purposes and 12.1.2010 in so far as not already in force) by Marine and Coastal Access Act 2009 (c. 23), ss. 43(2), 324; S.I. 2009/3345, art. 2, Sch. para. 7
+[^F355]: Word in s. 158(2) inserted (17.2.2015) by Wales Act 2014 (c. 29), ss. 6(5), 29(2)(b)(3)
+[^F356]: Word in s. 158(2) inserted (31.3.2017) by Wales Act 2017 (c. 4), ss. 16(2), 71(2)(c) (with Sch. 7 paras. 1, 6)
+[^F357]: S. 158(3) substituted (12.11.2009 for certain purposes and 12.1.2010 in so far as not already in force) by Marine and Coastal Access Act 2009 (c. 23), ss. 43(3), 324; S.I. 2009/3345, art. 2, Sch. para. 7
+[^F358]: Words in s. 159 inserted (1.4.2018) by Wales Act 2017 (c. 4), s. 71(4), Sch. 6 para. 10(4) (with Sch. 7 paras. 1, 6); S.I. 2017/1179, reg. 3(q)
+[^F359]: Words in s. 159 omitted (1.4.2018) by virtue of Wales Act 2017 (c. 4), s. 71(4), Sch. 6 para. 10(2) (with Sch. 7 paras. 1, 6); S.I. 2017/1179, reg. 3(q)
+[^F360]: Words in s. 159 omitted (6.5.2020) by virtue of Senedd and Elections (Wales) Act 2020 (anaw 1), s. 42(2), Sch. 1 para. 2(8)(a)
+[^F361]: Words in s. 159 omitted (6.5.2020) by virtue of Senedd and Elections (Wales) Act 2020 (anaw 1), s. 42(2), Sch. 1 para. 2(8)(b)
+[^F362]: Words in s. 159 omitted (31.12.2020) by virtue of European Union (Withdrawal) Act 2018 (c. 16), s. 25(4), Sch. 3 para. 45 (with s. 19, Sch. 8 para. 37); S.I. 2020/1622, reg. 3(l) (with regs. 10, 22)
+[^F363]: Words in s. 159 omitted (24.8.2024) by virtue of Senedd Cymru (Members and Elections) Act 2024 (asc 4), ss. 10(7)(a), 25(2)(b) (with s. 24(1))
+[^F364]: Words in s. 159 omitted (coming into force on the day after the day of the poll for the first general election held after 6.4.2026) by virtue of Senedd Cymru (Members and Elections) Act 2024 (asc 4), ss. 4(4), 25(4)
+[^F365]: Words in s. 159 inserted (17.2.2015) by Wales Act 2014 (c. 29), ss. 6(6), 29(2)(b)(3)
+[^F366]: Words in s. 159 omitted (24.8.2024) by virtue of Senedd Cymru (Members and Elections) Act 2024 (asc 4), ss. 10(7)(b), 25(2)(b) (with s. 24(1))
+[^F367]: Words in s. 159 omitted (24.8.2024) by virtue of Senedd Cymru (Members and Elections) Act 2024 (asc 4), ss. 10(7)(c), 25(2)(b) (with s. 24(1))
+[^F368]: Words in s. 159 inserted (6.5.2020) by Senedd and Elections (Wales) Act 2020 (anaw 1), s. 42(2), Sch. 1 para. 2(8)(c)
+[^F369]: Words in s. 159 omitted (24.8.2024) by virtue of Senedd Cymru (Members and Elections) Act 2024 (asc 4), ss. 10(7)(d), 25(2)(b) (with s. 24(1))
+[^F370]: Words in s. 159 omitted (24.8.2024) by virtue of Senedd Cymru (Members and Elections) Act 2024 (asc 4), ss. 10(7)(e), 25(2)(b) (with s. 24(1))
+[^F371]: Words in s. 159 omitted (24.8.2024) by virtue of Senedd Cymru (Members and Elections) Act 2024 (asc 4), ss. 10(7)(f), 25(2)(b) (with s. 24(1))
+[^F372]: Words in s. 159 omitted (24.8.2024) by virtue of Senedd Cymru (Members and Elections) Act 2024 (asc 4), ss. 10(7)(g), 25(2)(b) (with s. 24(1))
+[^F373]: S. 159: entry in index inserted (12.11.2009 for certain purposes and 12.1.2010 in so far as not already in force) by Marine and Coastal Access Act 2009 (c. 23), ss. 43, 324, Sch. 4 Pt. 2 para. 6(8); S.I. 2009/3345, art. 2, Sch. para. 7
+[^F374]: S. 161(7) omitted (1.4.2018) by virtue of Wales Act 2017 (c. 4), s. 71(4), Sch. 6 para. 11 (with Sch. 7 paras. 1, 6); S.I. 2017/1179, reg. 3(q)
+[^F375]: Sch. 1 repealed (16.2.2011) by Parliamentary Voting System and Constituencies Act 2011 (c. 1), ss. 13(2)(b), 19(1), Schs. 12
+[^F376]: Sch. 1A inserted (15.1.2020 with effect for the purposes of a Senedd election at which the poll is held on or after 5.4.2021) by Senedd and Elections (Wales) Act 2020 (anaw 1), s. 42(1)(c), Sch. 3
+[^F377]: Sch. 1A para. 5A inserted (9.11.2024) by Elections and Elected Bodies (Wales) Act 2024 (asc 5), ss. 63, 72(2)(d)
+[^F378]: Sch. 1A para. 6A inserted (1.11.2023) by Elections Act 2022 (c. 37), s. 67(1), Sch. 10 para. 7(3); S.I. 2023/1145, reg. 3(k)
+[^F379]: Words in Sch. 1A para. 7 renumbered as Sch. 1A para. 7(a) (1.12.2020) by Sentencing Act 2020 (c. 17), s. 416(1), Sch. 24 para. 256(a) (with Sch. 27); S.I. 2020/1236, reg. 2
+[^F380]: Sch. 1A para. 7(b) and word inserted (1.12.2020) by Sentencing Act 2020 (c. 17), s. 416(1), Sch. 24 para. 256(b) (with Sch. 27); S.I. 2020/1236, reg. 2
+[^F381]: Sch. 1A para. 8 inserted (24.8.2024) by Senedd Cymru (Members and Elections) Act 2024 (asc 4), ss. 6, 25(2)(a) (with s. 24(2))
+[^F382]: Words in Sch. 1A Pt. 2 Table inserted (25.6.2024) by virtue of Senedd Cymru (Members and Elections) Act 2024 (asc 4), ss. 16(3), 25(1)(a)
+[^F383]: Words in Sch. 1A Pt. 2 Table omitted (1.4.2025) by virtue of Elections and Elected Bodies (Wales) Act 2024 (asc 5), s. 72(4), Sch. 1 para. 12; S.I. 2024/1337, art. 3(e)
+[^F384]: Words in Sch. 1A Pt. 2 Table omitted (25.6.2024) by virtue of Senedd Cymru (Members and Elections) Act 2024 (asc 4), s. 25(1)(a), Sch. 1 para. 41
+[^F385]: Words in Sch. 1A Pt. 2 Table omitted (24.8.2024) by virtue of Senedd Cymru (Members and Elections) Act 2024 (asc 4), ss. 10(8), 25(2)(b) (with s. 24(1))
+[^F386]: Sch. 2 para. 4(4)(4A) substituted for Sch. 2 para. 4(4) (15.1.2020) by Senedd and Elections (Wales) Act 2020 (anaw 1), ss. 37, 42(1)(d)
+[^F387]: Sch. 2 para. 8(3)-(12) substituted for Sch. 2 para. 8(3) (13.11.2012) by National Assembly for Wales (Official Languages) Act 2012 (anaw 1), ss. 2, 3(b)
+[^F388]: Words in Sch. 3 para. 3(2) substituted (1.4.2018) by Wales Act 2017 (c. 4), s. 71(4), Sch. 6 para. 12 (with Sch. 7 paras. 1, 6); S.I. 2017/1179, reg. 3(q)
+[^F389]: Sch. 3 para. 4(1)(a) repealed (6.4.2011) by Marine and Coastal Access Act 2009 (c. 23), s. 324(3), Sch. 8 para. 3(2)(a), Sch. 22 Pt. 2 (with s. 111); S.I. 2011/556, art. 3(2)(a)(d)
+[^F390]: Sch. 3 para. 4(1)(c)(d) inserted (6.4.2011) by Marine and Coastal Access Act 2009 (c. 23), s. 324(3), Sch. 8 para. 3(2)(b) (with s. 111); S.I. 2011/556, art. 3(2)(a)
+[^F391]: Sch. 3 para. 4(1A) inserted (6.4.2011) by Marine and Coastal Access Act 2009 (c. 23), s. 324(3), Sch. 8 para. 3(3) (with s. 111); S.I. 2011/556, art. 3(2)(a)
+[^F392]: Sch. 3 para. 5 and cross-heading omitted (31.12.2020) by virtue of European Union (Withdrawal) Act 2018 (c. 16), s. 25(4), Sch. 3 para. 46 (with s. 19, Sch. 8 para. 37); S.I. 2020/1622, reg. 3(l) (with regs. 10, 22)
+[^F393]: Words in Sch. 3 para. 6(a)(b) omitted (8.1.2018) by virtue of Wales Act 2017 (c. 4), ss. 21(2), 71(4) (with Sch. 7 paras. 1, 6); S.I. 2017/893, reg. 2
+[^F394]: Sch. 3 para. 9(6A) inserted (23.1.2021) by Fisheries Act 2020 (c. 22), ss. 45(4), 54(2) (with Sch. 4 para. 31)
+[^F395]: Sch. 3A inserted (8.1.2018) by Wales Act 2017 (c. 4), s. 71(4), Sch. 4 (with Sch. 7 paras. 1, 6); S.I. 2017/893, reg. 2
+[^F396]: Words in Sch. 3A para. 1(2) inserted (1.4.2018) by Higher Education and Research Act 2017 (c. 29), s. 124(5), Sch. 12 para. 22(2); S.I. 2018/241, reg. 2(t)
+[^F397]: Words in Sch. 3A para. 1(2) omitted (10.9.2025) by virtue of Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3), s. 9(2)(d), Sch. 1 para. 3
+[^F398]: Words in Sch. 3A para. 1(2) omitted (31.12.2020) by virtue of Fisheries Act 2020 (c. 22), s. 54(3)(b), Sch. 4 para. 10(2)(a)(i) (with Sch. 4 para. 31)
+[^F399]: Word in Sch. 3A para. 1(2) substituted (31.12.2020) by Fisheries Act 2020 (c. 22), s. 54(3)(b), Sch. 4 para. 10(2)(a)(ii) (with Sch. 4 para. 31)
+[^F400]: Words in Sch. 3A para. 1 omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 183 (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F401]: Words in Sch. 3A para. 1 omitted (24.5.2018) by virtue of The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644), art. 1(1), Sch. 2 para. 2(a)
+[^F402]: Words in Sch. 3A para. 1 inserted (24.5.2018) by The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644), art. 1(1), Sch. 2 para. 2(b)
+[^F403]: Words in Sch. 3A para. 1 inserted (24.5.2018) by The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644), art. 1(1), Sch. 2 para. 2(c)
+[^F404]: Sch. 3A para. 2(2)(b)(i) omitted (31.12.2020) by virtue of Fisheries Act 2020 (c. 22), s. 54(3)(b), Sch. 4 para. 10(2)(b) (with Sch. 4 para. 31)
+[^F405]: Sch. 3A para. 2(2)(d) omitted (23.11.2020) by virtue of Fisheries Act 2020 (c. 22), s. 54(1)(c), Sch. 6 para. 4(2)(b) (with Sch. 4 para. 31)
+[^F406]: Words in Sch. 3A para. 2(3) omitted (31.12.2020) by virtue of Fisheries Act 2020 (c. 22), s. 54(3)(b), Sch. 4 para. 10(2)(c) (with Sch. 4 para. 31)
+[^F407]: Sch. 5 Pt. 1 Field 1: Matter 1.1 inserted (9.7.2009) by The National Assembly for Wales (Legislative Competence) (Agriculture and Rural Development) Order 2009 (S.I. 2009/1758), art. 2
+[^F408]: Sch. 5 Pt. 1 Field 2: words inserted (13.4.2010) by The National Assembly for Wales (Legislative Competence) (Culture and Other Fields) Order 2010 (S.I. 2010/1212), arts. 1, 2(2)
+[^F409]: Sch. 5 Pt. 1 Field 3: words inserted (13.4.2010) by The National Assembly for Wales (Legislative Competence) (Culture and Other Fields) Order 2010 (S.I. 2010/1212), arts. 1, 2(3)
+[^F410]: Sch. 5 Pt. 1 Field 5: Matters 5.1-5.10 and "Interpretation of this field" words inserted by The National Assembly for Wales (Legislative Competence) (Conversion of Framework Powers) Order 2007 (S.I. 2007/910), art. 3 (with art. 2), the amending provision coming into force immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) - see art. 1(2) of the amending Order and s. 161(5) of this Act.
+[^F411]: Words in Sch. 5 Pt. 1 Field 5 substituted (5.5.2010) by The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158), arts. 1, 5(1), Sch. 2 para. 59(2)
+[^F412]: Sch. 5 Pt. 1 Field 5: words inserted (13.4.2010) by The National Assembly for Wales (Legislative Competence) (Education) Order 2010 (S.I. 2010/1209), arts. 1, 2 (with art. 3)
+[^F413]: Sch. 5 Pt. 1: Matter 5.4A inserted (26.1.2009) by Education and Skills Act 2008 (c. 25), ss. 149, 173(2)(a)
+[^F414]: Sch. 5 Pt. 1 Field 5 Matter 5.10: words substituted (10.4.2008) by The National Assembly for Wales (Legislative Competence) (Education and Training) Order 2008 (S.I. 2008/1036), art. 2(2)
+[^F415]: Sch. 5 Pt. 1 Field 5: words in Matter 5.10 omitted (11.12.2008) by virtue of The National Assembly for Wales (Legislative Competence) (Social Welfare and Other Fields) Order 2008 (S.I. 2008/3132), art. 6(a)
+[^F416]: Sch. 5 Pt. 1 Field 5: Matters 5.11-5.16 inserted (23.12.2007) by Further Education and Training Act 2007 (c. 25), ss. 27, 32(2)
+[^F417]: Words in Sch. 5 Pt. 1 inserted (26.1.2009) by Education and Skills Act 2008 (c. 25), ss. 149, 173
+[^F418]: Sch. 5 Pt. 1 Field 5: words in Matter 5.16 substituted (26.1.2009) by Education and Skills Act 2008 (c. 25), ss. 149, 173
+[^F419]: Words in Sch. 5 Pt. 1 substituted (26.1.2009) by Education and Skills Act 2008 (c. 25), ss. 149, 173
+[^F420]: Sch. 5 Pt. 1 Field 5: Matter 5.17 inserted (10.4.2008) by The National Assembly for Wales (Legislative Competence) (Education and Training) Order 2008 (S.I. 2008/1036), art. 2(3)
+[^F421]: Sch. 5 Pt. 1 Field 5: words in Matter 5.17 omitted (11.12.2008) by virtue of The National Assembly for Wales (Legislative Competence) (Social Welfare and Other Fields) Order 2008 (S.I. 2008/3132), art. 6(b)
+[^F422]: Sch. 5 Pt. 1 Field 5: Matter 5.18 inserted (11.12.2008) by The National Assembly for Wales (Legislative Competence) (Social Welfare and Other Fields) Order 2008 (S.I. 2008/3132), art. 2
+[^F423]: Sch. 5 Pt. 1 Field 5: words inserted (23.12.2007) by Further Education and Training Act 2007 (c. 25), ss. 27, 32(2)
+[^F424]: Sch. 5 Pt. 1 Field 5: definition inserted (10.4.2008) by The National Assembly for Wales (Legislative Competence) (Education and Training) Order 2008 (S.I. 2008/1036), art. 2(4)
+[^F425]: Sch. 5 Pt. 1: definition inserted (26.1.2009) by Education and Skills Act 2008 (c. 25), ss. 149, 173
+[^F426]: Sch. 5 Pt. 1 Field 6: words inserted (11.2.2010) by The National Assembly for Wales (Legislative Competence) (Environment) Order 2010 (S.I. 2010/248), arts. 1(2), 2
+[^F427]: O.J. No. L10, 14.1.1997, pp. 13-33. The scope of the Directive was extended by Directive 2003/105/EC of the European Parliament and of the Council (O.J. No. L345, 31.12.2003, pp 97-105). There have been other amendments which are not relevant to this Order.
+[^F428]: Words in Sch. 5 Pt. 1 substituted (29.3.2011) by The Waste (England and Wales) Regulations 2011 (S.I. 2011/988), Sch. 4 para. 7(2)(a) (with regs. 2, 47(2))
+[^F429]: 2009 c.23.
+[^F430]: 2008 c. 29. See Part 4 for the requirement for development consent.
+[^F431]: 1991 c. 57.
+[^F432]: Words in Sch. 5 Pt. 1 substituted (29.3.2011) by The Waste (England and Wales) Regulations 2011 (S.I. 2011/988), Sch. 4 para. 7(2)(b) (with regs. 2, 47(2))
+[^F433]: Sch. 5 Pt. 1 Field 9: Matter 9.1 inserted by The National Assembly for Wales (Legislative Competence) (Conversion of Framework Powers) Order 2007 (S.I. 2007/910), art. 3 (with art. 2), the amending provision coming into force immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) - see Government of Wales Act 2006, s. 161(5)
+[^F434]: Sch. 5 Pt. 1 Field 9: Matter 9.2 inserted (11.2.2010) by The National Assembly for Wales (Legislative Competence) (Health and Health Services and Social Welfare) Order 2010 (S.I. 2010/236), arts. 1(2), 2(2)
+[^F435]: Sch. 5 Pt. 1 Field 9: definition of "mental disorder" inserted (11.2.2010) by The National Assembly for Wales (Legislative Competence) (Health and Health Services and Social Welfare) Order 2010 (S.I. 2010/236), arts. 1(2), 2(3)
+[^F436]: Sch. 5 Pt. 1 Field 10: Matter 10.1 inserted (26.1.2009) by Local Transport Act 2008 (c. 26), ss. 122, 134(2)
+[^F437]: Sch. 5 Pt. 1 Field 10: words in Matter 10.1 repealed (19.11.2009) by The National Assembly for Wales (Legislative Competence) (Exceptions to Matters) Order 2009 (S.I. 2009/3006), art. 2(7)
+[^F438]: Sch. 5 Pt. 1 Field 10: words inserted (13.4.2010) by The National Assembly for Wales (Legislative Competence) (Transport) Order 2010 (S.I. 2010/1208), arts. 1(2), 2
+[^F439]: Sch. 5 Pt. 1 Field 11: words inserted (13.4.2010) by The National Assembly for Wales (Legislative Competence) (Housing) (Fire Safety) Order 2010 (S.I. 2010/1210), arts. 1, 2
+[^F440]: Sch. 5 Pt. 1 Field 11: Matters 11.2-11.8 and "Interpretation of this field" with relevant text inserted (22.7.2010) by The National Assembly for Wales (Legislative Competence) (Housing and Local Government) Order 2010 (S.I. 2010/1838), arts. 1(2), 2(2)
+[^F441]: Sch. 5 Pt. 1 Field 12: Matters 12.1-12.5 inserted (30.12.2007) by Local Government and Public Involvement in Health Act 2007 (c. 28), ss. 235, 245(2), Sch. 17 para. 2
+[^F442]: Sch. 5 Pt. 1 Field 12: words omitted (13.4.2010) by virtue of The National Assembly for Wales (Legislative Competence) (Local Government) Order 2010 (S.I. 2010/1211), arts. 1, 2(2)
+[^F443]: Sch. 5 Pt. 1Field 12: Matter 12.6 inserted (12.1.2010) by Local Democracy, Economic Development and Construction Act 2009 (c. 20), ss. 33(2)(3), 148(2)(a)(ii)
+[^F444]: Sch. 5 Pt. 1 Field 12: words omitted (13.4.2010) by virtue of The National Assembly for Wales (Legislative Competence) (Local Government) Order 2010 (S.I. 2010/1211), arts. 1, 2(3)
+[^F445]: Sch. 5 Pt. 1 Field 12: Matter 12.7 inserted (12.1.2010) by Local Democracy, Economic Development and Construction Act 2009 (c. 20), ss. 33(2)(3), 148(2)(a)(ii)
+[^F446]: Sch. 5 Pt. 1 Field 12: words omitted (13.4.2010) by virtue of The National Assembly for Wales (Legislative Competence) (Local Government) Order 2010 (S.I. 2010/1211), arts. 1, 2(4)
+[^F447]: Sch. 5 Pt. 1 Field 12: words inserted (13.4.2010) by The National Assembly for Wales (Legislative Competence) (Local Government) Order 2010 (S.I. 2010/1211), arts. 1, 2(5)
+[^F448]: Sch. 5 Pt. 1 Field 12: Matter 12.18 inserted (22.7.2010) by The National Assembly for Wales (Legislative Competence) (Housing and Local Government) Order 2010 (S.I. 2010/1838), arts. 1(2), 3(2)
+[^F449]: Words in Sch. 5 Pt. 1 inserted (22.5.2011) by Budget Responsibility and National Audit Act 2011 (c. 4), s. 29, Sch. 6 para. 3
+[^F450]: Sch. 5 Pt. 1 Field 15: Matter 15.1 inserted (10.7.2008) by The National Assembly for Wales (Legislative Competence) (Social Welfare) Order 2008 (S.I. 2008/1785), art. 2
+[^F451]: Sch. 5 Pt. 1 Field 15: words inserted (11.12.2008) by The National Assembly for Wales (Legislative Competence) (Social Welfare and Other Fields) Order 2008 (S.I. 2008/3132), art. 3(a)
+[^F452]: Sch. 5 Pt. 1 Field 15: words omitted (11.12.2008) by virtue of The National Assembly for Wales (Legislative Competence) (Social Welfare and Other Fields) Order 2008 (S.I. 2008/3132), art. 3(a)
+[^F453]: Sch. 5 Pt. 1 Field 15: Matters 15.2-15.8 inserted (11.12.2008) by The National Assembly for Wales (Legislative Competence) (Social Welfare and Other Fields) Order 2008 (S.I. 2008/3132), art. 3(b)
+[^F454]: Sch. 5 Pt. 1 Field 15: Matter 15.9 inserted (18.11.2009) by The National Assembly for Wales (Legislative Competence) (Social Welfare) Order 2009 (S.I. 2009/3010), art. 2
+[^F455]: Sch. 5 Pt. 1 Field 15: Matter 15.10 inserted (11.2.2010) by The National Assembly for Wales (Legislative Competence) (Health and Health Services and Social Welfare) Order 2010 (S.I. 2010/236), arts. 1(2), 3(2)
+[^F456]: Sch. 5 Pt. 1 Field 15: definition of "advocacy services" inserted (11.2.2010) by The National Assembly for Wales (Legislative Competence) (Health and Health Services and Social Welfare) Order 2010 (S.I. 2010/236), arts. 1(2), 3(3)
+[^F457]: Sch. 5 Pt. 1 Field 15: word inserted (18.11.2009) by The National Assembly for Wales (Legislative Competence) (Social Welfare) Order 2009 (S.I. 2009/3010), art. 2
+[^F458]: Sch. 5 Pt. 1 Field 16: Matter 16.1 inserted (11.12.2008) by The National Assembly for Wales (Legislative Competence) (Social Welfare and Other Fields) Order 2008 (S.I. 2008/3132), art. 4
+[^F459]: Sch. 5 Pt. 1 Field 16: Matters 16.2, 16.3 and Interpretation inserted (12.1.2010) by Marine and Coastal Access Act 2009 (c. 23), ss. 310, 324(2)(d) (with s. 308)
+[^F460]: Sch. 5 Pt. 1 Field 16: words inserted (13.4.2010) by The National Assembly for Wales (Legislative Competence) (Culture and Other Fields) Order 2010 (S.I. 2010/1212), arts. 1, 2(4)(a)
+[^F461]: Sch. 5 Pt. 1 Field 16: words inserted (13.4.2010) by The National Assembly for Wales (Legislative Competence) (Culture and Other Fields) Order 2010 (S.I. 2010/1212), arts. 1, 2(4)(b)
+[^F462]: Sch. 5 Pt. 1: Matters 18.1-18.3 inserted (26.1.2009) by Planning Act 2008 (c. 29), ss. 202, 241(6) (with s. 226)
+[^F463]: Sch. 5 Pt. 1 Field 20: Matter 20.1 inserted (11.2.2010) by The National Assembly for Wales (Legislative Competence) (Welsh Language) Order 2010 (S.I. 2010/245), arts. 1(2), 3(2)
+[^F464]: Words in Act substituted (22.4.2011) by The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043), arts. 2, 3-6
+[^F465]: Sch. 5 Pt. 1: "Exceptions to Matters" repealed (19.11.2009) by The National Assembly for Wales (Legislative Competence) (Exceptions to Matters) Order 2009 (S.I. 2009/3006), art. 2(7)
+[^F466]: Sch. 5 Pt. 2: heading substituted (19.11.2009) by The National Assembly for Wales (Legislative Competence) (Exceptions to Matters) Order 2009 (S.I. 2009/3006), art. 2(8)
+[^F467]: Sch. 5 Pt. 2: para. A1 and headings preceding/after said para. inserted (19.11.2009) by The National Assembly for Wales (Legislative Competence) (Exceptions to Matters) Order 2009 (S.I. 2009/3006), art. 2(9)
+[^F468]: Sch. 5 Pt. 2 para. A1 and headings preceding/after said para. inserted (19.11.2009) by The National Assembly for Wales (Legislative Competence) (Exceptions to Matters) Order 2009 (S.I. 2009/3006), art. 2(9)
+[^F469]: Sch. 5 Pt. 2 para. A1: heading and following text inserted (13.4.2010) by virtue of The National Assembly for Wales (Legislative Competence) (Culture and Other Fields) Order 2010 (S.I. 2010/1212), arts. 1, 3(2)
+[^F470]: Sch. 5 Pt. 2 para. A1: words inserted (11.2.2010) by The National Assembly for Wales (Legislative Competence) (Environment) Order 2010 (S.I. 2010/248), arts. 1(2), 3(2)
+[^F471]: Sch. 5 Pt. 2 para. A1: words inserted (11.2.2010) by The National Assembly for Wales (Legislative Competence) (Environment) Order 2010 (S.I. 2010/248), arts. 1(2), 3(3)(a)
+[^F472]: Sch. 5 Pt. 2 para. A1: words substituted (11.2.2010) by The National Assembly for Wales (Legislative Competence) (Environment) Order 2010 (S.I. 2010/248), arts. 1(2), 3(3)(b)
+[^F473]: Word in Sch. 5 Pt. 2 para. A1(2) omitted (13.4.2010) by virtue of The National Assembly for Wales (Legislative Competence) (Transport) Order 2010 (S.I. 2010/1208), arts. 1(2), 3(2)(a)
+[^F474]: Sch. 5 Pt. 2 para. A1(2)(c) and word inserted (13.4.2010) by The National Assembly for Wales (Legislative Competence) (Transport) Order 2010 (S.I. 2010/1208), arts. 1(2), 3(2)(b)
+[^F475]: Words in Sch. 5 Pt. 2 para. A1(13)(c) substituted (13.4.2010) by The National Assembly for Wales (Legislative Competence) (Transport) Order 2010 (S.I. 2010/1208), arts. 1(2), 4(2)
+[^F476]: Words in Sch. 5 Pt. 2 para. A1(14) inserted (13.4.2010) by The National Assembly for Wales (Legislative Competence) (Transport) Order 2010 (S.I. 2010/1208), arts. 1(2), 3(3)
+[^F477]: Sch. 5 Pt. 2 para. A1: words inserted (11.2.2010) by The National Assembly for Wales (Legislative Competence) (Environment) Order 2010 (S.I. 2010/248), arts. 1(2), 3(3)(c)
+[^F478]: Sch. 5 Pt. 2 para. A1: words substituted (11.2.2010) by The National Assembly for Wales (Legislative Competence) (Environment) Order 2010 (S.I. 2010/248), arts. 1(2), 3(3)(d)
+[^F479]: Sch. 5 Pt. 2 para. A1: words substituted (11.2.2010) by The National Assembly for Wales (Legislative Competence) (Environment) Order 2010 (S.I. 2010/248), arts. 1(2), 3(3)(e)
+[^F480]: Words in Sch. 5 Pt. 2 para. A1(19) inserted (13.4.2010) by The National Assembly for Wales (Legislative Competence) (Transport) Order 2010 (S.I. 2010/1208), arts. 1(2), 3(4)
+[^F481]: Sch. 5 Pt. 2 para. A1: heading and following text inserted (13.4.2010) by virtue of The National Assembly for Wales (Legislative Competence) (Culture and Other Fields) Order 2010 (S.I. 2010/1212), arts. 1, 3(3)
+[^F482]: Sch. 5 Pt. 2 para. A1: words inserted (11.2.2010) by The National Assembly for Wales (Legislative Competence) (Environment) Order 2010 (S.I. 2010/248), arts. 1(2), 3(4)
+[^F483]: Sch. 5 Pt. 2 para. 2A and cross-heading inserted (30.12.2007) by Local Government and Public Involvement in Health Act 2007 (c. 28), ss. 235, 245(2), Sch. 17 para. 3
+[^F484]: Sch. 5 Pt. 2 para. 2A and cross-heading inserted (30.12.2007) by Local Government and Public Involvement in Health Act 2007 (c. 28), ss. 235, 245(2), Sch. 17 para. 3
+[^F485]: Sch. 5 para. 3(1): Sch. 5 para. 3 renumbered as Sch. 5 para. 3(1) (22.5.2011) by Budget Responsibility and National Audit Act 2011 (c. 4), s. 29, Sch. 6 para. 4(2)(a)
+[^F486]: Sch. 5 para. 3(2), (3) inserted (22.5.2011) by Budget Responsibility and National Audit Act 2011 (c. 4), s. 29, Sch. 6 para. 4(2)(b)
+[^F487]: Words in Sch. 5 para. 5 inserted (1.4.2012) by Budget Responsibility and National Audit Act 2011 (c. 4), s. 29, Sch. 5 para. 27(1); S.I. 2011/2576, art. 5
+[^F488]: Sch. 5 Pt. 2 para. 6(2) substituted (11.2.2010) by The National Assembly for Wales (Legislative Competence) (Welsh Language) Order 2010 (S.I. 2010/245), arts. 1(2), 4(2)
+[^F489]: Sch. 5 para. 6(4)-(6) inserted (22.5.2011) by Budget Responsibility and National Audit Act 2011 (c. 4), s. 29, Sch. 6 para. 4(3)
+[^F490]: Sch. 5 Pt. 3: heading substituted (19.11.2009) by The National Assembly for Wales (Legislative Competence) (Exceptions to Matters) Order 2009 (S.I. 2009/3006), art. 2(10)
+[^F491]: Sch. 5 Pt. 3 para. 6Z and cross-heading inserted (19.11.2009) by The National Assembly for Wales (Legislative Competence) (Exceptions to Matters) Order 2009 (S.I. 2009/3006), art. 2(11)
+[^F492]: Sch. 5 Pt. 3 para. 7 renumbered as para. 7(1) (11.2.2010) by The National Assembly for Wales (Legislative Competence) (Welsh Language) Order 2010 (S.I. 2010/245), arts. 1(2), 5(2)
+[^F493]: Sch. 5 Pt. 3: words substituted (19.11.2009) in each place by The National Assembly for Wales (Legislative Competence) (Exceptions to Matters) Order 2009 (S.I. 2009/3006), art. 2(12)
+[^F494]: Sch. 5 Pt. 3 para. 7(2) inserted (11.2.2010) by The National Assembly for Wales (Legislative Competence) (Welsh Language) Order 2010 (S.I. 2010/245), arts. 1(2), 5(2)
+[^F495]: Sch. 5 Pt. 3 para. 7A and cross-heading inserted (30.12.2007) by Local Government and Public Involvement in Health Act 2007 (c. 28), ss. 235, 245(2), Sch. 17 para. 4
+[^F496]: Sch. 5 para. 8 heading substituted (1.4.2012) by Budget Responsibility and National Audit Act 2011 (c. 4), s. 29, Sch. 5 para. 27(2); S.I. 2011/2576, art. 5 Text here
+[^F497]: Sch. 5 Pt. 3: words substituted (19.11.2009) in each place by The National Assembly for Wales (Legislative Competence) (Exceptions to Matters) Order 2009 (S.I. 2009/3006), art. 2(12)
+[^F498]: Words in Sch. 5 para. 8 inserted (1.4.2012) by Budget Responsibility and National Audit Act 2011 (c. 4), s. 29, Sch. 5 para. 27(1); S.I. 2011/2576, art. 5
+[^F499]: Sch. 5 Pt. 3: words substituted (19.11.2009) in each place by The National Assembly for Wales (Legislative Competence) (Exceptions to Matters) Order 2009 (S.I. 2009/3006), art. 2(12)
+[^F500]: Sch. 5 para. 11 and cross-heading inserted by The National Assembly for Wales (Legislative Competence) (Conversion of Framework Powers) Order 2007 (S.I. 2007/910), art. 4 (with art. 2), the amending provision coming into force immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) - see art. 2(1) of the amending Order and s. 161(5) of this Act
+[^F501]: Sch. 6 omitted (1.4.2018) by virtue of Wales Act 2017 (c. 4), s. 71(4), Sch. 6 para. 13 (with Sch. 7 paras. 1, 6); S.I. 2017/1179, reg. 3(q)
+[^F502]: Schs. 7A, 7B substituted for Sch. 7 (1.4.2018) by Wales Act 2017 (c. 4), s. 71(3), Sch. 1 (with Sch. 7 paras. 1, 2, 6); S.I. 2017/1179, reg. 2
+[^F503]: Sch. 7A para. 9(4A) inserted (23.1.2021) by Fisheries Act 2020 (c. 22), ss. 45(5)(a), 54(2) (with Sch. 4 para. 31)
+[^F504]: Word in Sch. 7A para. 10(3)(a) substituted for comma (11.3.2021) by The Government of Wales Act 2006 (Amendment) Order 2021 (S.I. 2021/290), arts. 1(1), 2(2)(a)
+[^F505]: Words in Sch. 7A para. 10(3)(a) omitted (11.3.2021) by virtue of The Government of Wales Act 2006 (Amendment) Order 2021 (S.I. 2021/290), arts. 1(1), 2(2)(b)
+[^F506]: Words in Sch. 7A para. 20 heading omitted (11.3.2021) by virtue of The Government of Wales Act 2006 (Amendment) Order 2021 (S.I. 2021/290), arts. 1(1), 2(3)
+[^F507]: Words in Sch. 7A para. 20 omitted (11.3.2021) by virtue of The Government of Wales Act 2006 (Amendment) Order 2021 (S.I. 2021/290), arts. 1(1), 2(4)
+[^F508]: Words in Sch. 7A para. 26(b) omitted (11.3.2021) by virtue of The Government of Wales Act 2006 (Amendment) Order 2021 (S.I. 2021/290), arts. 1(1), 2(5)
+[^F509]: Words in Sch. 7A omitted (11.3.2021) by virtue of The Government of Wales Act 2006 (Amendment) Order 2021 (S.I. 2021/290), arts. 1(1), 2(6)
+[^F510]: Sch. 7A para. 30 omitted (11.3.2021) by virtue of The Government of Wales Act 2006 (Amendment) Order 2021 (S.I. 2021/290), arts. 1(1), 2(7)
+[^F511]: Word in Sch. 7A substituted (11.3.2021) by The Government of Wales Act 2006 (Amendment) Order 2021 (S.I. 2021/290), arts. 1(1), 2(8)
+[^F512]: Words in Sch. 7A para. 74(c) substituted (1.7.2018) by The Package Travel and Linked Travel Arrangements Regulations 2018 (S.I. 2018/634), regs. 1(3), 38(4) (with regs. 3, 38(15))
+[^F513]: Sch. 7A Section C7 para. 77 substituted (31.12.2020) by European Union (Withdrawal) Act 2018 (c. 16), s. 25(4), Sch. 3 para. 47 (with s. 19, Sch. 8 para. 37); S.I. 2020/1622, reg. 3(l) (with reg. 10)
+[^F514]: Words in Sch. 7A Section C7 para. 77 substituted (31.12.2020) by European Union (Withdrawal Agreement) Act 2020 (c. 1), s. 42(7), Sch. 5 para. 30 (with s. 38(3)); S.I. 2020/1622, reg. 5(j) (with reg. 10)
+[^F515]: Words in Sch. 7A Section C11 heading inserted (1.4.2018) by Higher Education and Research Act 2017 (c. 29), s. 124(5), Sch. 12 para. 24(2); S.I. 2018/241, reg. 2(t)
+[^F516]: Words in Sch. 7A Section C11 para. 87 inserted (1.4.2018) by Higher Education and Research Act 2017 (c. 29), s. 124(5), Sch. 12 para. 24(3)(a); S.I. 2018/241, reg. 2(t)
+[^F517]: Words in Sch. 7A Section C11 para. 87 inserted (1.4.2018) by Higher Education and Research Act 2017 (c. 29), s. 124(5), Sch. 12 para. 24(3)(b); S.I. 2018/241, reg. 2(t)
+[^F518]: Words in Sch. 7A Section C11 para. 88 omitted (31.10.2018) by virtue of Higher Education and Research Act 2017 (c. 29), s. 124(5), Sch. 12 para. 24(4)(a); S.I. 2018/1054, reg. 2(d)(ix)
+[^F519]: Words in Sch. 7A Section C11 para. 88 substituted (1.4.2018) by Higher Education and Research Act 2017 (c. 29), s. 124(5), Sch. 12 para. 24(4)(b); S.I. 2018/241, reg. 2(t)
+[^F520]: Word in Sch. 7A Section C11 para. 88 substituted (1.4.2018) by Higher Education and Research Act 2017 (c. 29), s. 124(5), Sch. 12 para. 24(4)(c); S.I. 2018/241, reg. 2(t)
+[^F521]: Sch. 7A Pt. 2 Section C18 inserted (31.12.2020) by United Kingdom Internal Market Act 2020 (c. 27), ss. 52(3), 59(3) (with s. 55(2)); S.I. 2020/1621, reg. 2(i)
+[^F522]: Words in Sch. 7A substituted (25.12.2023) by The Public Service Obligations in Transport Regulations 2023 (S.I. 2023/1369), reg. 1(1), Sch. 3 para. 2(2) (with reg. 28)
+[^F523]: Sch. 7A para. 195(3A) inserted (23.1.2021) by Fisheries Act 2020 (c. 22), ss. 45(5)(b), 54(2) (with Sch. 4 para. 31)
+[^F524]: Schs. 7A, 7B substituted for Sch. 7 (1.4.2018) by Wales Act 2017 (c. 4), s. 71(3), Sch. 2 (with Sch. 7 paras. 1, 2, 6); S.I. 2017/1179, reg. 2
+[^F525]: Sch. 7B para. 5(1) table entry omitted (31.12.2020) by virtue of European Union (Withdrawal) Act 2018 (c. 16), s. 25(4), Sch. 3 para. 48(a) (with s. 19, Sch. 8 para. 37); S.I. 2020/1622, reg. 3(l) (with regs. 10, 22)
+[^F526]: Sch. 7B para. 5(1) table entry inserted (26.6.2018) by European Union (Withdrawal) Act 2018 (c. 16), s. 25(1)(b), Sch. 3 para. 48(b) (with s. 19, Sch. 8 para. 37)
+[^F527]: Words in Sch. 7B para. 5(1) table inserted (23.1.2020) by European Union (Withdrawal Agreement) Act 2020 (c. 1), s. 42(6)(e)(vi), Sch. 5 para. 31(2) (with s. 38(3))
+[^F528]: Sch. 7B para. 5(1) table entry inserted (31.12.2020) by United Kingdom Internal Market Act 2020 (c. 27), ss. 54(2), 59(3) (with s. 55(2)); S.I. 2020/1621, reg. 2(k)
+[^F529]: Sch. 7B para. 5(1A) inserted (23.1.2020) by European Union (Withdrawal Agreement) Act 2020 (c. 1), s. 42(6)(e)(vi), Sch. 5 para. 31(3) (with s. 38(3))
+[^F530]: Words in Sch. 7B para. 7(2)(a)(i) substituted (6.5.2020) by Senedd and Elections (Wales) Act 2020 (anaw 1), s. 42(2), Sch. 1 para. 2(9)(a)(i)
+[^F531]: Words in Sch. 7B para. 7(2)(a)(xi) substituted (6.5.2020) by Senedd and Elections (Wales) Act 2020 (anaw 1), s. 42(2), Sch. 1 para. 2(9)(a)(ii)
+[^F532]: Sch. 7B para. 7(2)(a)(xviii) omitted (11.3.2021) by virtue of The Government of Wales Act 2006 (Amendment) Order 2021 (S.I. 2021/290), arts. 1(1), 3(2)(a)
+[^F533]: Word in Sch. 7B para. 7(2)(b)(i) inserted (11.3.2021) by The Government of Wales Act 2006 (Amendment) Order 2021 (S.I. 2021/290), arts. 1(1), 3(2)(b)
+[^F534]: Words in Sch. 7B para. 7(2)(c)(i) substituted (6.5.2020) by Senedd and Elections (Wales) Act 2020 (anaw 1), s. 42(2), Sch. 1 para. 2(9)(b)
+[^F535]: Sch. 7B para. 7(2)(e)(ii) omitted (11.9.2019) by virtue of Legislation (Wales) Act 2019 (anaw 4), s. 44(1)(e), Sch. 2 para. 2(3)
+[^F536]: Sch. 7B para. 9(2)(i) inserted (11.3.2021) by The Government of Wales Act 2006 (Amendment) Order 2021 (S.I. 2021/290), arts. 1(1), 4(2)
+[^F537]: Words in Sch. 7B para. 9(4)(a) omitted (11.3.2021) by virtue of The Government of Wales Act 2006 (Amendment) Order 2021 (S.I. 2021/290), arts. 1(1), 4(3)
+[^F538]: Sch. 7B para. 9(4A) inserted (11.3.2021) by The Government of Wales Act 2006 (Amendment) Order 2021 (S.I. 2021/290), arts. 1(1), 4(4)
+[^F539]: Sch. 7B para. 9(6)(d) inserted (18.12.2019) by The Government of Wales Act 2006 (Amendment) Order 2019 (S.I. 2019/1506), arts. 1(2), 2(2)
+[^F540]: Sch. 7B para. 9(8)(9) inserted (11.3.2021) by The Government of Wales Act 2006 (Amendment) Order 2021 (S.I. 2021/290), arts. 1(1), 4(5)
+[^F541]: Word in Sch. 7B para. 9(8)(b)(v) omitted (9.11.2021) by virtue of Environment Act 2021 (c. 30), ss. 141(2)(a), 147(1)(b) (with s. 144)
+[^F542]: Sch. 7B para. 9(8)(b)(vii) and word inserted (9.11.2021) by Environment Act 2021 (c. 30), ss. 141(2)(b), 147(1)(b) (with s. 144)
+[^F543]: Word in Sch. 7B para. 9(8)(b)(vi) omitted (26.12.2023) by virtue of Levelling-up and Regeneration Act 2023 (c. 55), ss. 239(2)(a), 255(9)(b) (with s. 247)
+[^F544]: Word in Sch. 7B para. 9(8)(b)(viii) omitted (21.7.2025) by virtue of Product Regulation and Metrology Act 2025 (c. 20), ss. 10(6)(a), 15(2)
+[^F545]: Sch. 7B para. 9(8)(b)(viii) and word inserted (24.2.2025) by Procurement Act 2023 (c. 54), ss. 118(b), 127(2); S.I. 2024/716, Sch. (as amended by S.I. 2024/959, regs. 1(2), 2(7)(a))
+[^F546]: Word in Sch. 7B para. 9(8)(b)(vii) omitted (20.5.2024) by virtue of Animal Welfare (Livestock Exports) Act 2024 (c. 11), ss. 6(2)(a), 7(3)
+[^F547]: Sch. 7B para. 9(8)(b)(viii) and word inserted (26.12.2023) by Levelling-up and Regeneration Act 2023 (c. 55), ss. 239(2)(b), 255(9)(b) (with s. 247)
+[^F548]: Sch. 7B para. 9(8)(b)(ix) and semicolon inserted (20.5.2024) by Animal Welfare (Livestock Exports) Act 2024 (c. 11), ss. 6(2)(b), 7(3)
+[^F549]: Sch. 7B para. 9(8)(b)(x) and word inserted (21.7.2025) by Product Regulation and Metrology Act 2025 (c. 20), ss. 10(6)(b), 15(2)
+[^F550]: Word in Sch. 7B para. 9(9)(b) omitted (23.3.2023) by virtue of Trade (Australia and New Zealand) Act 2023 (c. 9), s. 4(2), Sch. 1 para. 9(2)(a)
+[^F551]: Sch. 7B para. 9(9)(d) and word inserted (23.3.2023) by Trade (Australia and New Zealand) Act 2023 (c. 9), s. 4(2), Sch. 1 para. 9(2)(b)
+[^F552]: Sch. 7B para. 9(9)(d) repealed (24.2.2025) by Procurement Act 2023 (c. 54), s. 127(2), Sch. 11 para. 1(a) (as substituted by 2023 c. 55, ss. 239(4)(b), 255(9)(b)); S.I. 2024/716, Sch. (as amended by S.I. 2024/959, regs. 1(2), 2(7)(a))
+[^F553]: Sch. 7B para. 10(2)(m) inserted (18.12.2019) by The Government of Wales Act 2006 (Amendment) Order 2019 (S.I. 2019/1506), arts. 1(2), 2(3)
+[^F554]: Sch. 7B para. 10(2)(n) inserted (11.3.2021) by The Government of Wales Act 2006 (Amendment) Order 2021 (S.I. 2021/290), arts. 1(1), 5(2)
+[^F555]: Words in Sch. 7B para. 10(4)(a) omitted (11.3.2021) by virtue of The Government of Wales Act 2006 (Amendment) Order 2021 (S.I. 2021/290), arts. 1(1), 5(3)
+[^F556]: Sch. 7B para. 10(7) inserted (11.3.2021) by The Government of Wales Act 2006 (Amendment) Order 2021 (S.I. 2021/290), arts. 1(1), 5(4)
+[^F557]: Sch. 7B para. 11(2A) inserted (11.3.2021) by The Government of Wales Act 2006 (Amendment) Order 2021 (S.I. 2021/290), arts. 1(1), 6(2)
+[^F558]: Sch. 7B para. 11(6)-(9) inserted (11.3.2021) by The Government of Wales Act 2006 (Amendment) Order 2021 (S.I. 2021/290), arts. 1(1), 6(3)
+[^F559]: Sch. 7B para. 11(6)(b)(ai) inserted (19.6.2025 for specified purposes) by Data (Use and Access) Act 2025 (c. 18), ss. 57(8), 142(1)(2)(h) (with s. 60(1))
+[^F560]: Word in Sch. 7B para. 11(6)(b)(v) omitted (9.11.2021) by virtue of Environment Act 2021 (c. 30), ss. 141(3)(a), 147(1)(b) (with s. 144)
+[^F561]: Sch. 7B para. 11(6)(b)(vii) and word inserted (9.11.2021) by Environment Act 2021 (c. 30), ss. 141(3)(b), 147(1)(b) (with s. 144)
+[^F562]: Word in Sch. 7B para. 11(6)(b)(vi) omitted (24.3.2022) by virtue of Commercial Rent (Coronavirus) Act 2022 (c. 12), ss. 29(3)(a), 31(4) (with s. 30)
+[^F563]: Sch. 7B para. 11(6)(b)(viii) and word inserted (24.3.2022) by Commercial Rent (Coronavirus) Act 2022 (c. 12), ss. 29(3)(b), 31(4) (with s. 30)
+[^F564]: Word in Sch. 7B para. 11(6)(b)(vii) omitted (28.4.2022) by virtue of Professional Qualifications Act 2022 (c. 20), ss. 16(7)(a), 21(1)(f) (with s. 12)
+[^F565]: Sch. 7B para. 11(6)(b)(ix) and word inserted (28.4.2022) by Professional Qualifications Act 2022 (c. 20), ss. 16(7)(b), 21(1)(f) (with s. 12)
+[^F566]: Word in Sch. 7B para. 11(6)(b)(viii) omitted (23.3.2023) by virtue of Trade (Australia and New Zealand) Act 2023 (c. 9), s. 4(2), Sch. 1 para. 9(3)(a)
+[^F567]: Sch. 7B para. 11(6)(b)(ix) and word inserted (23.3.2023) by virtue of Trade (Australia and New Zealand) Act 2023 (c. 9), s. 4(2), Sch. 1 para. 9(3)(b)
+[^F568]: Word in Sch. 7B para. 11(6)(b)(ix) omitted (26.12.2023) by virtue of Levelling-up and Regeneration Act 2023 (c. 55), ss. 239(3)(a), 255(9)(b) (with s. 247)
+[^F569]: Sch. 7B para. 11(6)(b)(x) repealed (24.2.2025) by Procurement Act 2023 (c. 54), s. 127(2), Sch. 11 para. 1(b) (as substituted by 2023 c. 55, ss. 239(4)(b), 255(9)(b)); S.I. 2024/716, Sch. (as amended by S.I. 2024/959, regs. 1(2), 2(7)(a))
+[^F570]: Sch. 7B para. 11(6)(b)(x)(xi) substituted for (ix) (26.12.2023) by Levelling-up and Regeneration Act 2023 (c. 55), ss. 239(3)(b), 255(9)(b) (with s. 247)
+[^F571]: Word in Sch. 7B para. 11(6)(b)(x) omitted (24.2.2025) by virtue of Procurement Act 2023 (c. 54), ss. 118(c), 127(2) (as substituted by 2023 c. 55, ss. 239(4)(a), 255(9)(b)); S.I. 2024/716, Sch. (as amended by S.I. 2024/959, regs. 1(2), 2(7)(a))
+[^F572]: Sch. 7B para. 11(6)(b)(xii) and word inserted (24.2.2025) by Procurement Act 2023 (c. 54), ss. 118(d), 127(2) (as substituted by 2023 c. 55, ss. 239(4)(a), 255(9)(b)); S.I. 2024/716, Sch. (as amended by S.I. 2024/959, regs. 1(2), 2(7)(a))
+[^F573]: Word in Sch. 7B para. 11(6)(b)(xi) omitted (20.5.2024) by virtue of Animal Welfare (Livestock Exports) Act 2024 (c. 11), ss. 6(3)(a), 7(3)
+[^F574]: Sch. 7B para. 11(6)(b)(xiii) and word inserted (20.5.2024) by Animal Welfare (Livestock Exports) Act 2024 (c. 11), ss. 6(3)(b), 7(3)
+[^F575]: Word in Sch. 7B para. 11(6)(b)(xii) omitted (29.4.2026) by virtue of Crime and Policing Act 2026 (c. 20), ss. 244(6)(a), 255(2)(k)
+[^F576]: Sch. 7B para. 11(6)(b)(xiv) and word inserted (29.4.2026) by Crime and Policing Act 2026 (c. 20), ss. 244(6)(b), 255(2)(k)
+[^F577]: Sch. 8 para. 1 omitted (1.4.2014) by virtue of Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 79(2) (with Sch. 3 paras. 3, 13); S.I. 2013/1466, art. 3(1)
+[^F578]: Sch. 8 para. 2 omitted (1.4.2014) by virtue of Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 79(2) (with Sch. 3 paras. 3, 13); S.I. 2013/1466, art. 3(1)
+[^F579]: Sch. 8 para. 3 omitted (1.4.2014) by virtue of Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 79(2) (with Sch. 3 paras. 3, 13); S.I. 2013/1466, art. 3(1)
+[^F580]: Sch. 8 para. 4 omitted (1.4.2014) by virtue of Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 79(2) (with Sch. 3 paras. 3, 13); S.I. 2013/1466, art. 3(1)
+[^F581]: Sch. 8 para. 5 omitted (1.4.2014) by virtue of Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 79(2) (with Sch. 3 paras. 3, 13); S.I. 2013/1466, art. 3(1)
+[^F582]: Sch. 8 para. 6 omitted (1.4.2014) by virtue of Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 79(2) (with Sch. 3 paras. 3, 13); S.I. 2013/1466, art. 3(1)
+[^F583]: Sch. 8 para. 7 omitted (1.4.2014) by virtue of Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 79(2) (with Sch. 3 paras. 3, 13); S.I. 2013/1466, art. 3(1)
+[^F584]: Sch. 8 para. 8 omitted (1.4.2014) by virtue of Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 79(2) (with Sch. 3 paras. 3, 13); S.I. 2013/1466, art. 3(1)
+[^F585]: Sch. 8 para. 9 omitted (1.4.2014) by virtue of Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 79(2) (with Sch. 3 paras. 3, 13); S.I. 2013/1466, art. 3(1)
+[^F586]: Sch. 8 para. 10 omitted (1.4.2014) by virtue of Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 79(2) (with Sch. 3 paras. 3, 13); S.I. 2013/1466, art. 3(1)
+[^F587]: Sch. 8 para. 11 omitted (1.4.2014) by virtue of Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 79(2) (with Sch. 3 paras. 3, 13); S.I. 2013/1466, art. 3(1)
+[^F588]: Sch. 8 para. 12 omitted (4.7.2013) by virtue of Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 79(2) (with Sch. 3 paras. 3, 13); S.I. 2013/1466, art. 2(x)
+[^F589]: Sch. 8 para. 13 omitted (1.4.2014) by virtue of Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 79(2) (with Sch. 3 paras. 3, 13); S.I. 2013/1466, art. 3(1)
+[^F590]: Sch. 8 para. 14 omitted (1.4.2014) by virtue of Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 79(2) (with Sch. 3 paras. 3, 13); S.I. 2013/1466, art. 3(1)
+[^F591]: Sch. 8 para. 15 omitted (1.4.2014) by virtue of Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 79(2) (with Sch. 3 paras. 3, 13); S.I. 2013/1466, art. 3(1)
+[^F592]: Sch. 8 para. 16 omitted (1.4.2014) by virtue of Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 79(2) (with Sch. 3 paras. 3, 13); S.I. 2013/1466, art. 3(1)
+[^F593]: Word in Sch. 8 para. 17(1)(c) substituted (1.4.2014) by Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 79(3) (with Sch. 3 para. 3); S.I. 2013/1466, art. 3(1)
+[^F594]: Word in Sch. 8 para. 17(7) substituted (1.4.2014) by Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 79(4)(a) (with Sch. 3 para. 3); S.I. 2013/1466, art. 3(1)
+[^F595]: Words in Sch. 8 para. 17(7) inserted (1.4.2014) by Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 79(4)(b) (with Sch. 3 para. 3); S.I. 2013/1466, art. 3(1)
+[^F596]: Sch. 8 para. 17(8)(ba) inserted (11.11.2010) by Constitutional Reform and Governance Act 2010 (c. 25), ss. 44(6), 52(2); S.I. 2010/2703, art. 2(c)
+[^F597]: Words in Sch. 8 para. 17(8)(ba) substituted (23.7.2019) by Public Services Ombudsman (Wales) Act 2019 (anaw 3), s. 77(1), Sch. 5 para. 24; S.I. 2019/1096, reg. 2
+[^F598]: Words in Sch. 8 para. 18(1) inserted (1.4.2014) by Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 79(5)(a) (with Sch. 3 para. 3); S.I. 2013/1466, art. 3(1)
+[^F599]: Sch. 8 para. 18(3A) inserted (1.4.2014) by Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 79(5)(b) (with Sch. 3 para. 3); S.I. 2013/1466, art. 3(1)
+[^F600]: Sch. 8 para. 21 omitted (1.4.2014) by virtue of Public Audit (Wales) Act 2013 (anaw 3), s. 35(2), Sch. 4 para. 79(6) (with Sch. 3 para. 3); S.I. 2013/1466, art. 3(1)
+[^F601]: Sch. 9A inserted (1.4.2018) by Wales Act 2017 (c. 4), s. 71(4), Sch. 3 (with Sch. 7 paras. 1, 6); S.I. 2017/1179, reg. 3(o)
+[^F602]: Words in Sch. 9A inserted (7.11.2024) by The Government of Wales Act 2006 (Devolved Welsh Authorities) (Amendment) Order 2024 (S.I. 2024/1206), arts. 1(1), 2(b)
+[^F603]: Words in Sch. 9A inserted (8.1.2026) by The Government of Wales Act 2006 (Devolved Welsh Authorities) (Amendment) Order 2025 (S.I. 2025/1297), arts. 1(3), 2(c)
+[^F604]: Words in Sch. 9A inserted (7.11.2023) by The Government of Wales Act 2006 (Schedule 9A – Devolved Welsh Authorities) (Amendment) Order 2023 (S.I. 2023/1095), arts. 1(2), 2(b)
+[^F605]: Words in Sch. 9A omitted (7.11.2024) by The Government of Wales Act 2006 (Devolved Welsh Authorities) (Amendment) Order 2024 (S.I. 2024/1206), arts. 1(1), 2(a)
+[^F606]: Words in Sch. 9A inserted (6.5.2020) by Senedd and Elections (Wales) Act 2020 (anaw 1), s. 42(2), Sch. 1 para. 2(10)(c)
+[^F607]: Words in Sch. 9A omitted (8.1.2026) by virtue of The Government of Wales Act 2006 (Devolved Welsh Authorities) (Amendment) Order 2025 (S.I. 2025/1297), arts. 1(3), 2(a)
+[^F608]: Words in Sch. 9A omitted (8.1.2026) by virtue of The Government of Wales Act 2006 (Devolved Welsh Authorities) (Amendment) Order 2025 (S.I. 2025/1297), arts. 1(3), 2(b)
+[^F609]: Words in Sch. 9A omitted (6.5.2020) by virtue of Senedd and Elections (Wales) Act 2020 (anaw 1), s. 42(2), Sch. 1 para. 2(10)(a)
+[^F610]: Words in Sch. 9A omitted (6.5.2020) by virtue of Senedd and Elections (Wales) Act 2020 (anaw 1), s. 42(2), Sch. 1 para. 2(10)(b)
+[^F611]: Words in Sch. 9A inserted (6.5.2020) by Senedd and Elections (Wales) Act 2020 (anaw 1), s. 42(2), Sch. 1 para. 2(10)(d)
+[^F612]: Words in Sch. 9A omitted (7.11.2023) by virtue of The Government of Wales Act 2006 (Schedule 9A – Devolved Welsh Authorities) (Amendment) Order 2023 (S.I. 2023/1095), arts. 1(2), 2(a)
+[^F613]: Sch. 10 paras. 1-3 and cross-heading omitted (1.1.2026) by virtue of Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3), s. 9(4), Sch. 3 para. 6(c); S.I. 2025/1160, art. 2(e)
+[^F614]: Sch. 10 para. 11 omitted (11.9.2019) by virtue of Legislation (Wales) Act 2019 (anaw 4), s. 44(1)(e), Sch. 2 para. 2(4)
+[^F615]: Sch. 10 para. 13 omitted (28.4.2013) by virtue of Mental Health (Discrimination) Act 2013 (c. 8), s. 4(1), Sch. para. 5(2)
+[^F616]: Sch. 10 para. 14 omitted (1.4.2018) by virtue of Wales Act 2017 (c. 4), s. 71(4), Sch. 6 para. 14 (with Sch. 7 paras. 1, 6); S.I. 2017/1179, reg. 3(q)
+[^F617]: Sch. 10 para. 15 omitted (1.4.2018) by virtue of Wales Act 2017 (c. 4), s. 71(4), Sch. 6 para. 14 (with Sch. 7 paras. 1, 6); S.I. 2017/1179, reg. 3(q)
+[^F618]: Sch. 10 para. 16 omitted (1.4.2018) by virtue of Wales Act 2017 (c. 4), s. 71(4), Sch. 6 para. 14 (with Sch. 7 paras. 1, 6); S.I. 2017/1179, reg. 3(q)
+[^F619]: Sch. 10 para. 17 omitted (1.4.2018) by virtue of Wales Act 2017 (c. 4), s. 71(4), Sch. 6 para. 14 (with Sch. 7 paras. 1, 6); S.I. 2017/1179, reg. 3(q)
+[^F620]: Sch. 10 para. 18 and cross-heading omitted (15.1.2020 with effect for the purposes of a Assembly election at which the poll is held on or after 5.4.2021) by virtue of Senedd and Elections (Wales) Act 2020 (anaw 1), ss. 35(2), 42(1)(c)
+[^F621]: Sch. 10 para. 33 and cross-heading omitted (10.9.2025) by virtue of Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3), s. 9(2)(d), Sch. 1 para. 12
+[^F622]: Sch. 10 para. 36 omitted (4.11.2024) by virtue of Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 184 (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F623]: Sch. 10 para. 44 omitted (10.9.2025) by virtue of Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3), s. 9(2)(d), Sch. 1 para. 57(a)
+[^F624]: Sch. 10 para. 51 omitted (10.9.2025) by virtue of Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3), s. 9(2)(d), Sch. 1 para. 57(b)
+[^F625]: Sch. 10 para. 55 omitted (10.9.2025) by virtue of Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3), s. 9(2)(d), Sch. 1 para. 57(c)
+[^F626]: Sch. 10 para. 66 and cross-heading omitted (6.9.2015 for specified purposes, 4.12.2020 in so far as not already in force) by virtue of Planning (Wales) Act 2015 (anaw 4), s. 58(2)(b)(4)(b), Sch. 2 para. 29; S.I. 2020/1216, reg. 2(b)
+[^F627]: Sch. 10 para. 77 omitted (1.11.2014) by virtue of Social Services and Well-being (Wales) Act 2014 (anaw 4), s. 199(2), Sch. 3 para. 35; S.I. 2014/2718, art. 2(b)
+[^F628]: Sch. 11 para. 1 repealed (16.2.2011) by Parliamentary Voting System and Constituencies Act 2011 (c. 1), ss. 13(2)(c), 19(1), Schs. 12
+[^F629]: Sch. 11 paras. 3-7 and cross-headings omitted (10.9.2025) by virtue of Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3), s. 9(2)(d), Sch. 1 para. 58(a)
+[^F630]: Sch. 11 para. 9 and cross-heading omitted (10.9.2025) by virtue of Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3), s. 9(2)(d), Sch. 1 para. 58(b)
+[^F631]: Sch. 11 para. 11 and cross-heading omitted (10.9.2025) by virtue of Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3), s. 9(2)(d), Sch. 1 para. 58(c)
+[^F632]: Sch. 11 paras. 14-19 and cross-headings omitted (10.9.2025) by virtue of Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3), s. 9(2)(d), Sch. 1 para. 58(d)
+[^F633]: Sch. 11 paras. 22-25 and cross-heading omitted (10.9.2025) by virtue of Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3), s. 9(2)(d), Sch. 1 para. 58(e)
+[^F634]: Sch. 11 para. 28(1) omitted (10.9.2025) by virtue of Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3), s. 9(2)(d), Sch. 1 para. 58(f)
+[^F635]: Sch. 11 para. 29 and cross-heading omitted (10.9.2025) by virtue of Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3), s. 9(2)(d), Sch. 1 para. 58(g)
+[^F636]: Sch. 11 para. 33(6A) inserted (23.1.2021) by Fisheries Act 2020 (c. 22), ss. 45(6), 54(2) (with Sch. 4 para. 31)
+[^F637]: Words in Sch. 11 para. 34(3) inserted (2.5.2007) by The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388), arts. 1(3), 4, Sch. 2 para. 3(a)
+[^F638]: Sch. 11 para. 34(4A)(4B) inserted (2.5.2007) by The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388), arts. 1(3), 4, Sch. 2 para. 3(b)
+[^F639]: Words in Sch. 11 para. 35(3) Table 1 omitted (18.10.2023) by virtue of Environment (Wales) Act 2016 (anaw 3), s. 88(3)(b), Sch. 2 para. 16; S.I. 2023/1096, art. 2(e)
+[^F640]: Sch. 11 para. 35(3) Table 1: entry omitted (5.5.2022) by virtue of Local Government and Elections (Wales) Act 2021 (asc 1), s. 175(7), Sch. 8 para. 7; S.I. 2022/98, art. 2(b) (with art. 3)
+[^F641]: Words in Sch. 11 para. 35(3) Table 1 omitted (25.6.2024) by virtue of Senedd Cymru (Members and Elections) Act 2024 (asc 4), s. 25(1)(a), Sch. 1 para. 42
+[^F642]: Words in Sch. 11 para. 35(3) Table 1 omitted (10.9.2025) by virtue of Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3), s. 9(2)(d), Sch. 1 para. 58(h)(ii)
+[^F643]: Words in Sch. 11 para. 35(3) Table 1 omitted (1.9.2015) by virtue of Higher Education (Wales) Act 2015 (anaw 1), s. 59(2), Sch. para. 23(a); S.I. 2015/1327, art. 5(s)(v)
+[^F644]: Sch. 11 para. 35(3) Table 1: entry omitted (21.1.2021) by virtue of Local Government and Elections (Wales) Act 2021 (asc 1), s. 175(1)(e), Sch. 9 para. 50
+[^F645]: Sch. 11 para. 35(3) Table 1: entry inserted (2.5.2007) by The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388), arts. 1(3), 4, Sch. 2 para. 4
+[^F646]: Sch. 11 para. 35(3) Table 1: entry inserted (2.5.2007) by The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388), arts. 1(3), 4, Sch. 2 para. 4
+[^F647]: Sch. 11 para. 35(3) Table 1: entry inserted (2.5.2007) by The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388), arts. 1(3), 4, Sch. 2 para. 4
+[^F648]: Sch. 11 para. 35(3) Table 1: entry inserted (2.5.2007) by The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388), arts. 1(3), 4, Sch. 2 para. 4
+[^F649]: Sch. 11 para. 35(3) Table 1: entry inserted (2.5.2007) by The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388), arts. 1(3), 4, Sch. 2 para. 4
+[^F650]: Sch. 11 para. 35(3) Table 1: entry inserted (2.5.2007) by The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388), arts. 1(3), 4, Sch. 2 para. 4
+[^F651]: Sch. 11 para. 35(3) Table 1: entry inserted (2.5.2007) by The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388), arts. 1(3), 4, Sch. 2 para. 4
+[^F652]: Sch. 11 para. 35(4) Table 2: entry omitted (1.3.2007) by virtue of Health Service (Consequential Provisions) Act 2006 (c. 43), ss. 2, 8(2), Sch. 1 para. 304(a) (with Sch. 3 Pt. 1)
+[^F653]: Sch. 11 para. 35(4) Table 2: entry omitted (1.3.2007) by virtue of Health Service (Consequential Provisions) Act 2006 (c. 43), ss. 2, 8(2), Sch. 1 para. 304(a) (with Sch. 3 Pt. 1)
+[^F654]: Sch. 11 para. 35(4) Table 2: entry omitted (1.3.2007) by virtue of Health Service (Consequential Provisions) Act 2006 (c. 43), ss. 2, 8(2), Sch. 1 para. 304(a) (with Sch. 3 Pt. 1)
+[^F655]: Sch. 11 para. 35(4) Table 2: entry omitted (1.3.2007) by virtue of Health Service (Consequential Provisions) Act 2006 (c. 43), ss. 2, 8(2), Sch. 1 para. 304(a) (with Sch. 3 Pt. 1)
+[^F656]: Sch. 11 para. 35(4) Table 2: entry omitted (1.3.2007) by virtue of Health Service (Consequential Provisions) Act 2006 (c. 43), ss. 2, 8(2), Sch. 1 para. 304(a) (with Sch. 3 Pt. 1)
+[^F657]: Sch. 11 para. 35(4) Table 2: entry omitted (1.3.2007) by virtue of Health Service (Consequential Provisions) Act 2006 (c. 43), ss. 2, 8(2), Sch. 1 para. 304(a) (with Sch. 3 Pt. 1)
+[^F658]: Sch. 11 para. 35(4) Table 2: entry omitted (1.3.2007) by virtue of Health Service (Consequential Provisions) Act 2006 (c. 43), ss. 2, 8(2), Sch. 1 para. 304(a) (with Sch. 3 Pt. 1)
+[^F659]: Sch. 11 para. 35(4) Table 2: entry omitted (1.3.2007) by virtue of Health Service (Consequential Provisions) Act 2006 (c. 43), ss. 2, 8(2), Sch. 1 para. 304(a) (with Sch. 3 Pt. 1)
+[^F660]: Sch. 11 para. 35(4) Table 2: entry omitted (1.3.2007) by virtue of Health Service (Consequential Provisions) Act 2006 (c. 43), ss. 2, 8(2), Sch. 1 para. 304(a) (with Sch. 3 Pt. 1)
+[^F661]: Sch. 11 para. 35(4) Table 2: entry omitted (1.3.2007) by virtue of Health Service (Consequential Provisions) Act 2006 (c. 43), ss. 2, 8(2), Sch. 1 para. 304(a) (with Sch. 3 Pt. 1)
+[^F662]: Sch. 11 para. 35(4) Table 2: entry omitted (1.3.2007) by virtue of Health Service (Consequential Provisions) Act 2006 (c. 43), ss. 2, 8(2), Sch. 1 para. 304(a) (with Sch. 3 Pt. 1)
+[^F663]: Sch. 11 para. 35(4) Table 2: entry omitted (1.3.2007) by virtue of Health Service (Consequential Provisions) Act 2006 (c. 43), ss. 2, 8(2), Sch. 1 para. 304(a) (with Sch. 3 Pt. 1)
+[^F664]: Words in Sch. 11 para. 35(3) Table 2 omitted (10.9.2025) by virtue of Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3), s. 9(2)(d), Sch. 1 para. 58(i)
+[^F665]: Sch. 11 para. 35(4) Table 2: entry inserted (2.5.2007) by The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388), arts. 1(3), 4, Sch. 2 para. 5
+[^F666]: Words in Sch. 11 para. 35(4) Table 2 omitted (1.4.2026) by virtue of Tertiary Education and Research (Wales) Act 2022 (asc 1), s. 148(2), Sch. 4 para. 20(3)(a) (with s. 19); W.S.I. 2026/62, art. 2(ww)(xxxix)
+[^F667]: Words in Sch. 11 para. 35(4) Table 2 substituted (1.4.2026) by Tertiary Education and Research (Wales) Act 2022 (asc 1), s. 148(2), Sch. 4 para. 20(3)(b) (with s. 19); W.S.I. 2026/62, art. 2(ww)(xxxix)
+[^F668]: Sch. 11 para. 35(4) Table 2: entry inserted (2.5.2007) by The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388), arts. 1(3), 4, Sch. 2 para. 5
+[^F669]: Sch. 11 para. 35(4) Table 2: entry omitted (1.3.2007) by virtue of Health Service (Consequential Provisions) Act 2006 (c. 43), ss. 2, 8(2), Sch. 1 para. 304(b) (with Sch. 3 Pt. 1)
+[^F670]: Sch. 11 para. 35(4) Table 2: entry omitted (7.12.2009) by virtue of Learning and Skills (Wales) Measure 2009 (nawm 1), ss. 47, 49, Sch. para. 22(a)(b); S.I. 2009/3174, art. 2(1)(r)
+[^F671]: Sch. 11 para. 35(4) Table 2: entry omitted (7.12.2009) by virtue of Learning and Skills (Wales) Measure 2009 (nawm 1), ss. 47, 49, Sch. para. 22(a)(b); S.I. 2009/3174, art. 2(1)(r)
+[^F672]: Words in Sch. 11 para. 35(3) Table 2 substituted (10.9.2025) by virtue of Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3), s. 9(2)(d), Sch. 1 para. 58(i)(vii)
+[^F673]: Sch. 11 para. 35(4): Table 2 words substituted (5.5.2010) by The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158), arts. 1, 5(1), Sch. 2 para. 59(3)(a)
+[^F674]: Words in Sch. 11 para. 35(4) omitted (6.9.2015) by virtue of Planning (Wales) Act 2015 (anaw 4), s. 58(2)(a), Sch. 7 para. 2
+[^F675]: Words in Sch. 11 para. 35(4) Table 2 omitted (1.9.2015) by virtue of Higher Education (Wales) Act 2015 (anaw 1), s. 59(2), Sch. para. 23(b); S.I. 2015/1327, art. 5(s)(v)
+[^F676]: Words in Sch. 11 para. 35(3) Table 2 substituted (10.9.2025) by virtue of Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3), s. 9(2)(d), Sch. 1 para. 58(i)(x)
+[^F677]: Words in Sch. 11 para. 35(4) repealed (1.4.2016) by Well-being of Future Generations (Wales) Act 2015 (anaw 2), s. 56(2), Sch. 4 para. 18; S.I. 2016/86, art. 3
+[^F678]: Sch. 11 para. 35(4): Table 2 words substituted (5.5.2010) by The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158), arts. 1, 5(1), Sch. 2 para. 59(3)(b)
+[^F679]: Sch. 11 para. 35(4): Table 2 words substituted (5.5.2010) by The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158), arts. 1, 5(1), Sch. 2 para. 59(3)(c)
+[^F680]: Words in Sch. 11 para. 35(4) Table 2 omitted (1.4.2026) by virtue of Tertiary Education and Research (Wales) Act 2022 (asc 1), s. 148(2), Sch. 4 para. 20(3)(c) (with s. 19); W.S.I. 2026/62, art. 2(ww)(xxxix)
+[^F681]: Sch. 11 para. 35(4) Table 2: entry inserted (2.5.2007) by The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388), arts. 1(3), 4, Sch. 2 para. 5
+[^F682]: Sch. 11 para. 35(4) Table 2: entry inserted (2.5.2007) by The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388), arts. 1(3), 4, Sch. 2 para. 5
+[^F683]: Sch. 11 para. 35(4) Table 2: entry inserted (2.5.2007) by The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388), art. 4, Sch. 2 para. 5
+[^F684]: Sch. 11 para. 35(4) Table 2: entry inserted (2.5.2007) by The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388), art. 4, Sch. 2 para. 5
+[^F685]: Sch. 11 para. 35(4) Table 2: entry inserted (2.5.2007) by The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388), art. 4, Sch. 2 para. 5
+[^F686]: Sch. 11 para. 35(4) Table 2: entry inserted (2.5.2007) by The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388), arts. 1(3), 4, Sch. 2 para. 5
+[^F687]: Sch. 11 para. 35(4) Table 2: entry inserted (2.5.2007) by The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388), arts. 1(3), 4, Sch. 2 para. 5
+[^F688]: Sch. 11 para. 35(4) Table 2: entry inserted (2.5.2007) by The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388), arts. 1(3), 4, Sch. 2 para. 5
+[^F689]: Sch. 11 para. 35(4) Table 2: entry inserted (2.5.2007) by The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388), arts. 1(3), 4, Sch. 2 para. 5
+[^F690]: Sch. 11 para. 35(4) Table 2: entry inserted (2.5.2007) by The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388), arts. 1(3), 4, Sch. 2 para. 5
+[^F691]: Sch. 11 para. 35(4) Table 2: entry inserted (2.5.2007) by The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388), arts. 1(3), 4, Sch. 2 para. 5
+[^F692]: Sch. 11 para. 35A and cross-heading omitted (31.12.2020) by virtue of European Union (Withdrawal) Act 2018 (c. 16), s. 25(4), Sch. 3 para. 49 (with s. 19, Sch. 8 para. 37); S.I. 2020/1622, reg. 3(l) (with regs. 10, 22)
+[^F693]: Sch. 11 para. 42A and preceding cross-heading inserted by The Government of Wales Act 2006 (Transitional Provisions) Order 2007 (S.I. 2007/1270), art. 2(3), the amending provision coming into force immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) - see art. 1(2) of the amending Order and s. 161(5) of this Act
+[^F694]: Words in Sch. 11 para. 43(2) substituted by The National Assembly for Wales (Transfer of staff to Assembly Commission Scheme) Order 2007 (S.I. 2007/1169), arts. 1(2), 2(a), the amending S.I. coming into force immediately after "the 2007 election" (which was held on 3.5.2007)
+[^F695]: Words in Sch. 11 para. 43(2) inserted by The National Assembly for Wales (Transfer of staff to Assembly Commission Scheme) Order 2007 (S.I. 2007/1169), arts. 1(2), 2(a), the amending S.I. coming into force immediately after "the 2007 election" (which was held on 3.5.2007)
+[^F696]: Words in Sch. 11 para. 43(4) substituted by The National Assembly for Wales (Transfer of staff to Assembly Commission Scheme) Order 2007 (S.I. 2007/1169), arts. 1(2), 2(b), the amending S.I. coming into force immediately after "the 2007 election" (which was held on 3.5.2007)
+[^F697]: Words in Sch. 11 para. 43(4) inserted by The National Assembly for Wales (Transfer of staff to Assembly Commission Scheme) Order 2007 (S.I. 2007/1169), arts. 1(2), 2(b), the amending S.I. coming into force immediately after "the 2007 election" (which was held on 3.5.2007)
+[^F698]: Words in Sch. 11 para. 43(5) substituted by The National Assembly for Wales (Transfer of staff to Assembly Commission Scheme) Order 2007 (S.I. 2007/1169), arts. 1(2), 2(c), the amending S.I. coming into force immediately after "the 2007 election" (which was held on 3.5.2007)
+[^F699]: Words in Sch. 11 para. 43(5) inserted by The National Assembly for Wales (Transfer of staff to Assembly Commission Scheme) Order 2007 (S.I. 2007/1169), arts. 1(2), 2(c), the amending S.I. coming into force immediately after "the 2007 election" (which was held on 3.5.2007)
+[^F700]: Words in Sch. 11 para. 43(6)(a) substituted by The National Assembly for Wales (Transfer of staff to Assembly Commission Scheme) Order 2007 (S.I. 2007/1169), arts. 1(2), 2(d), the amending S.I. coming into force immediately after "the 2007 election" (which was held on 3.5.2007)
+[^F701]: Words in Sch. 11 para. 43(6)(a) inserted by virtue of The National Assembly for Wales (Transfer of staff to Assembly Commission Scheme) Order 2007 (S.I. 2007/1169), arts. 1(2), 2(d), the amending S.I. coming into force immediately after "the 2007 election" (which was held on 3.5.2007)
+[^F702]: Words in Sch. 11 para. 43(6)(b) substituted by The National Assembly for Wales (Transfer of staff to Assembly Commission Scheme) Order 2007 (S.I. 2007/1169), arts. 1(2), 2(e), the amending S.I. coming into force immediately after "the 2007 election" (which was held on 3.5.2007)
+[^F703]: Words in Sch. 11 para. 43(7) substituted by The National Assembly for Wales (Transfer of staff to Assembly Commission Scheme) Order 2007 (S.I. 2007/1169), arts. 1(2), 2(f), the amending S.I. coming into force immediately after "the 2007 election" (which was held on 3.5.2007)
+[^F704]: Words in Sch. 11 para. 43(8) substituted by The National Assembly for Wales (Transfer of staff to Assembly Commission Scheme) Order 2007 (S.I. 2007/1169), arts. 1(2), 2(g), the amending S.I. coming into force immediately after "the 2007 election" (which was held on 3.5.2007)
+[^F705]: Words in Sch. 11 para. 43(9) substituted by The National Assembly for Wales (Transfer of staff to Assembly Commission Scheme) Order 2007 (S.I. 2007/1169), arts. 1(2), 2(h), the amending S.I. coming into force immediately after "the 2007 election" (which was held on 3.5.2007)
+[^F706]: Sch. 11 para. 48(2) omitted (31.3.2016) by virtue of The Welsh Language (Wales) Measure 2011 (Consequential Provisions) Order 2016 (S.I. 2016/409), arts. 1(2), 2(b)(i)
+[^F707]: Words in Sch. 11 para. 48(3) substituted (31.3.2016) by The Welsh Language (Wales) Measure 2011 (Consequential Provisions) Order 2016 (S.I. 2016/409), arts. 1(2), 2(b)(ii)
+[^F708]: Sch. 11 paras. 50, 51 and cross-heading omitted (10.9.2025) by virtue of Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3), s. 9(2)(d), Sch. 1 para. 58(j)
+[^F709]: Words in Sch. 11 para. 52(2) substituted (28.4.2022) by The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500), regs. 1(2), 5(1), Sch. Pt. 1
+[^F710]: Sch. 11 paras. 53, 53A, 53B and cross-heading omitted (10.9.2025) by virtue of Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3), s. 9(2)(d), Sch. 1 para. 58(k)
+[^F711]: Sch. 11 paras. 54-56 and cross-headings omitted (10.9.2025) by virtue of Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3), s. 9(2)(d), Sch. 1 para. 58(l)
+[^F712]: Sch. 11 paras. 58-63 and cross-headings omitted (10.9.2025) by virtue of Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3), s. 9(2)(d), Sch. 1 para. 58(l)
+[^F713]: Sch. 11 paras. 63A, 63B and cross-headings inserted (1.4.2007) by The Government of Wales Act 2006 (Transitional Provisions) (Finance) Order 2007 (S.I. 2007/726), art. 6
+[^F714]: Sch. 11 para. 64 and cross-heading omitted (10.9.2025) by virtue of Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3), s. 9(2)(d), Sch. 1 para. 58(m)
+[^F715]: Sch. 11 paras. 64A-64G and cross-headings inserted (1.4.2007) by The Government of Wales Act 2006 (Transitional Provisions) (Finance) Order 2007 (S.I. 2007/726), art. 7
+[^F716]: Sch. 11 para. 64B and cross-heading omitted (10.9.2025) by virtue of Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3), s. 9(2)(d), Sch. 1 para. 58(m)
+[^F717]: Sch. 11 para. 64C omitted (10.9.2025) by virtue of Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3), s. 9(2)(d), Sch. 1 para. 58(m)
+[^F718]: Sch. 11 para. 64F and cross-heading omitted (10.9.2025) by virtue of Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3), s. 9(2)(d), Sch. 1 para. 58(m)
+[^F719]: Sch. 11 para. 64G and cross-heading omitted (10.9.2025) by virtue of Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3), s. 9(2)(d), Sch. 1 para. 58(m)
+[^F720]: Sch. 11 para. 65 and cross-heading omitted (10.9.2025) by virtue of Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3), s. 9(2)(d), Sch. 1 para. 58(n)
+[^F721]: Sch. 11 paras. 66, 67 and cross-heading omitted (10.9.2025) by virtue of Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3), s. 9(2)(d), Sch. 1 para. 58(o)

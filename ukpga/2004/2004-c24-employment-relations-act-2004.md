@@ -1,0 +1,2740 @@
+---
+title: "Employment Relations Act 2004"
+identifier: "ukpga/2004/24"
+citation: "2004 c. 24"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S+N.I."
+date: 2004-09-16
+last_amended: 2026-04-07
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/2004/24"
+source_modified: 2026-04-27
+retrieved: 2026-10-11
+---
+
+# Employment Relations Act 2004
+
+**2004 c. 24**
+
+An Act to amend the law relating to the recognition of trade unions and the taking of industrial action; to make provision about means of voting in ballots under the Trade Union and Labour Relations (Consolidation) Act 1992; to amend provisions of that Act relating to rights of members and non-members of trade unions and to make other provision about rights of trade union members, employees and workers; to make further provision concerning the enforcement of legislation relating to minimum wages; to make further provision about proceedings before and appeals from the Certification Officer; to make further provision about the amalgamation of trade unions; to make provision facilitating the administration of trade unions and the carrying out by them of their functions; and for connected purposes.
+
+[16th September 2004]
+
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## Part 1 — Union recognition
+
+### 1 Application for decision on whether proposed bargaining unit is appropriate
+
+(1) In paragraph 11(2) of Schedule A1 to the 1992 Act (application to CAC where employer fails to respond to or rejects request for recognition), for paragraph (a) substitute—
+
+> (a) whether the proposed bargaining unit is appropriate;
+
+.
+
+(2) In paragraph 12(2) of that Schedule (application to CAC where negotiations with employer fail), for paragraph (a) substitute—
+
+> (a) whether the proposed bargaining unit is appropriate;
+
+.
+
+### 2 Power of the CAC to end period for agreement on bargaining unit
+
+(1) Paragraph 18 of Schedule A1 to the 1992 Act (appropriate bargaining unit) is amended as follows.
+
+(2) In sub-paragraph (2), after “is” insert “ (subject to any notice under sub-paragraph (3), (4) or (5)) ”.
+
+(3) After that sub-paragraph add—
+
+> (3) If, during the appropriate period, the CAC concludes that there is no reasonable prospect of the parties' agreeing an appropriate bargaining unit before the time when (apart from this sub-paragraph) the appropriate period would end, the CAC may, by a notice given to the parties, declare that the appropriate period ends with the date of the notice.
+>
+> (4) If, during the appropriate period, the parties apply to the CAC for a declaration that the appropriate period is to end with a date (specified in the application) which is earlier than the date with which it would otherwise end, the CAC may, by a notice given to the parties, declare that the appropriate period ends with the specified date.
+>
+> (5) If the CAC has declared under sub-paragraph (4) that the appropriate period ends with a specified date, it may before that date by a notice given to the parties specify a later date with which the appropriate period ends.
+>
+> (6) A notice under sub-paragraph (3) must contain reasons for reaching the conclusion mentioned in that sub-paragraph.
+>
+> (7) A notice under sub-paragraph (5) must contain reasons for the extension of the appropriate period.
+
+### 3 Duty of employer to supply information to union
+
+After paragraph 18 of Schedule A1 to the 1992 Act insert—
+
+> **18A**
+>
+> (1) This paragraph applies if the CAC accepts an application under paragraph 11(2) or 12(2).
+>
+> (2) Within 5 working days starting with the day after that on which the CAC gives the employer notice of acceptance of the application, the employer must supply the following information to the union (or unions) and the CAC—
+>
+> (a) a list of the categories of worker in the proposed bargaining unit,
+>
+> (b) a list of the workplaces at which the workers in the proposed bargaining unit work, and
+>
+> (c) the number of workers the employer reasonably believes to be in each category at each workplace.
+>
+> (3) The lists and numbers supplied under this paragraph must be as accurate as is reasonably practicable in the light of the information in the possession of the employer at the time when he complies with sub-paragraph (2).
+>
+> (4) The lists and numbers supplied to the union (or unions) and to the CAC must be the same.
+>
+> (5) For the purposes of this paragraph, the workplace at which a worker works is—
+>
+> (a) if the person works at or from a single set of premises, those premises, and
+>
+> (b) in any other case, the premises with which the worker’s employment has the closest connection.
+
+### 4 Determination of appropriate bargaining unit
+
+For paragraph 19 of Schedule A1 to the 1992 Act substitute—
+
+> **19**
+>
+> (1) This paragraph applies if—
+>
+> (a) the CAC accepts an application under paragraph 11(2) or 12(2),
+>
+> (b) the parties have not agreed an appropriate bargaining unit at the end of the appropriate period (defined by paragraph 18), and
+>
+> (c) at the end of that period either no request under paragraph 19A(1)(b) has been made or such a request has been made but the condition in paragraph 19A(1)(c) has not been met.
+>
+> (2) Within the decision period, the CAC must decide whether the proposed bargaining unit is appropriate.
+>
+> (3) If the CAC decides that the proposed bargaining unit is not appropriate, it must also decide within the decision period a bargaining unit which is appropriate.
+>
+> (4) The decision period is—
+>
+> (a) the period of 10 working days starting with the day after that with which the appropriate period ends, or
+>
+> (b) such longer period (so starting) as the CAC may specify to the parties by notice containing reasons for the extension.
+>
+> **19A**
+>
+> (1) This paragraph applies if—
+>
+> (a) the CAC accepts an application under paragraph 11(2) or 12(2),
+>
+> (b) during the appropriate period (defined by paragraph 18), the CAC is requested by the union (or unions) to make a decision under this paragraph, and
+>
+> (c) the CAC is, either at the time the request is made or at a later time during the appropriate period, of the opinion that the employer has failed to comply with the duty imposed by paragraph 18A.
+>
+> (2) Within the decision period, the CAC must decide whether the proposed bargaining unit is appropriate.
+>
+> (3) If the CAC decides that the proposed bargaining unit is not appropriate, it must also decide within the decision period a bargaining unit which is appropriate.
+>
+> (4) The decision period is—
+>
+> (a) the period of 10 working days starting with the day after the day on which the request is made, or
+>
+> (b) such longer period (so starting) as the CAC may specify to the parties by notice containing reasons for the extension.
+>
+> **19B**
+>
+> (1) This paragraph applies if the CAC has to decide whether a bargaining unit is appropriate for the purposes of paragraph 19(2) or (3) or 19A(2) or (3).
+>
+> (2) The CAC must take these matters into account—
+>
+> (a) the need for the unit to be compatible with effective management;
+>
+> (b) the matters listed in sub-paragraph (3), so far as they do not conflict with that need.
+>
+> (3) The matters are—
+>
+> (a) the views of the employer and of the union (or unions);
+>
+> (b) existing national and local bargaining arrangements;
+>
+> (c) the desirability of avoiding small fragmented bargaining units within an undertaking;
+>
+> (d) the characteristics of workers falling within the bargaining unit under consideration and of any other employees of the employer whom the CAC considers relevant;
+>
+> (e) the location of workers.
+>
+> (4) In taking an employer’s views into account for the purpose of deciding whether the proposed bargaining unit is appropriate, the CAC must take into account any view the employer has about any other bargaining unit that he considers would be appropriate.
+>
+> (5) The CAC must give notice of its decision to the parties.
+
+### 5 Union communications with workers after acceptance of application
+
+(1) After paragraph 19B of Schedule A1 to the 1992 Act (which is inserted by section 4) insert—
+
+> **Union communications with workers after acceptance of application**
+>
+> **19C** (1) This paragraph applies if the CAC accepts an application under paragraph 11(2) or 12(2) or (4).
+>
+> (2) The union (or unions) may apply to the CAC for the appointment of a suitable independent person to handle communications during the initial period between the union (or unions) and the relevant workers.
+>
+> (3) In the case of an application under paragraph 11(2) or 12(2), the relevant workers are—
+>
+> (a) in relation to any time before an appropriate bargaining unit is agreed by the parties or decided by the CAC, those falling within the proposed bargaining unit, and
+>
+> (b) in relation to any time after an appropriate bargaining unit is so agreed or decided, those falling within the bargaining unit agreed or decided upon.
+>
+> (4) In the case of an application under paragraph 12(4), the relevant workers are those falling within the bargaining unit agreed by the parties.
+>
+> (5) The initial period is the period starting with the day on which the CAC informs the parties under sub-paragraph (7)(b) and ending with the first day on which any of the following occurs—
+>
+> (a) the application under paragraph 11 or 12 is withdrawn;
+>
+> (b) the CAC gives notice to the union (or unions) of a decision under paragraph 20 that the application is invalid;
+>
+> (c) the CAC notifies the union (or unions) of a declaration issued under paragraph 19F(5) or 22(2);
+>
+> (d) the CAC informs the union (or unions) under paragraph 25(9) of the name of the person appointed to conduct a ballot.
+>
+> (6) A person is a suitable independent person if—
+>
+> (a) he satisfies such conditions as may be specified for the purposes of paragraph 25(7)(a) by an order under that provision, or is himself specified for those purposes by such an order, and
+>
+> (b) there are no grounds for believing either that he will carry out any functions arising from his appointment otherwise than competently or that his independence in relation to those functions might reasonably be called into question.
+>
+> (7) On an application under sub-paragraph (2) the CAC must as soon as reasonably practicable—
+>
+> (a) make such an appointment as is mentioned in that sub-paragraph, and
+>
+> (b) inform the parties of the name of the person appointed and the date of his appointment.
+>
+> (8) The person appointed by the CAC is referred to in paragraphs 19D and 19E as “the appointed person”.
+>
+> **19D** (1) An employer who is informed by the CAC under paragraph 19C(7)(b) must comply with the following duties (so far as it is reasonable to expect him to do so).
+>
+> (2) The duties are—
+>
+> (a) to give to the CAC, within the period of 10 working days starting with the day after that on which the employer is informed under paragraph 19C(7)(b), the names and home addresses of the relevant workers;
+>
+> (b) if the relevant workers change as a result of an appropriate bargaining unit being agreed by the parties or decided by the CAC, to give to the CAC, within the period of 10 working days starting with the day after that on which the bargaining unit is agreed or the CAC’s decision is notified to the employer, the names and home addresses of those who are now the relevant workers;
+>
+> (c) to give to the CAC, as soon as reasonably practicable, the name and home address of any worker who joins the bargaining unit after the employer has complied with paragraph (a) or (b);
+>
+> (d) to inform the CAC, as soon as reasonably practicable, of any worker whose name has been given to the CAC under paragraph (a), (b) or (c) and who ceases to be a relevant worker (otherwise than by reason of a change mentioned in paragraph (b)).
+>
+> (3) Nothing in sub-paragraph (2) requires the employer to give information to the CAC after the end of the initial period.
+>
+> (4) As soon as reasonably practicable after the CAC receives any information under sub-paragraph (2), it must pass it on to the appointed person.
+>
+> **19E** (1) During the initial period, the appointed person must if asked to do so by the union (or unions) send to any worker—
+>
+> (a) whose name and home address have been passed on to him under paragraph 19D(4), and
+>
+> (b) who is (so far as the appointed person is aware) still a relevant worker,
+>
+> any information supplied by the union (or unions) to the appointed person.
+>
+> (2) The costs of the appointed person shall be borne—
+>
+> (a) if the application under paragraph 19C was made by one union, by the union, and
+>
+> (b) if that application was made by more than one union, by the unions in such proportions as they jointly indicate to the appointed person or, in the absence of such an indication, in equal shares.
+>
+> (3) The appointed person may send to the union (or each of the unions) a demand stating his costs and the amount of those costs to be borne by the recipient.
+>
+> (4) In such a case the recipient must pay the amount stated to the person sending the demand and must do so within the period of 15 working days starting with the day after that on which the demand is received.
+>
+> (5) In England and Wales, if the amount stated is not paid in accordance with sub-paragraph (4) it shall, if a county court so orders, be recoverable by execution issued from that court or otherwise as if it were payable under an order of that court.
+>
+> (6) Where an amount is recoverable under sub-paragraph (5) execution may be carried out, to the same extent and in the same manner as if the union were a body corporate, against any property held in trust for the union other than protected property as defined in section 23(2).
+>
+> (7) References to the costs of the appointed person are to—
+>
+> (a) the costs wholly, exclusively and necessarily incurred by the appointed person in connection with handling during the initial period communications between the union (or unions) and the relevant workers,
+>
+> (b) such reasonable amount as the appointed person charges for his services, and
+>
+> (c) such other costs as the union (or unions) agree.
+>
+> **19F** (1) If the CAC is satisfied that the employer has failed to fulfil a duty mentioned in paragraph 19D(2), and the initial period has not yet ended, the CAC may order the employer—
+>
+> (a) to take such steps to remedy the failure as the CAC considers reasonable and specifies in the order, and
+>
+> (b) to do so within such period as the CAC considers reasonable and specifies in the order;
+>
+> and in this paragraph a “remedial order” means an order under this sub-paragraph.
+>
+> (2) If the CAC is satisfied that the employer has failed to comply with a remedial order and the initial period has not yet ended, the CAC must as soon as reasonably practicable notify the employer and the union (or unions) that it is satisfied that the employer has failed to comply.
+>
+> (3) A remedial order and a notice under sub-paragraph (2) must draw the recipient’s attention to the effect of sub-paragraphs (4) and (5).
+>
+> (4) Sub-paragraph (5) applies if—
+>
+> (a) the CAC is satisfied that the employer has failed to comply with a remedial order,
+>
+> (b) the parties have agreed an appropriate bargaining unit or the CAC has decided an appropriate bargaining unit,
+>
+> (c) in the case of an application under paragraph 11(2) or 12(2), the CAC, if required to do so, has decided under paragraph 20 that the application is not invalid, and
+>
+> (d) the initial period has not yet ended.
+>
+> (5) The CAC may issue a declaration that the union is (or unions are) recognised as entitled to conduct collective bargaining on behalf of the workers constituting the bargaining unit.
+
+(2) In each of paragraphs 22(1)(a) and 23(1)(a) of Schedule A1 to the 1992 Act (procedure when CAC proceeds with an application in accordance with paragraph 20 or 21), after “or 21” insert “ (and makes no declaration under paragraph 19F(5)) ”.
+
+(3) In paragraph 26 of that Schedule (duties of employer where ballot on union recognition is to be held), in sub-paragraph (4)(c), for “(a) or (b) but” substitute “ 19D or paragraph (a) or (b) of this sub-paragraph and ”.
+
+(4) In that paragraph, after sub-paragraph (4E) (which is inserted by section 9) insert—
+
+> (4F) Sub-paragraph (4)(a) does not apply to names and addresses that the employer has already given to the CAC under paragraph 19D.
+>
+> (4G) Where (because of sub-paragraph (4F)) the employer does not have to comply with sub-paragraph (4)(a), the reference in sub-paragraph (4)(b) to the time when the employer complied with sub-paragraph (4)(a) is to be read as a reference to the time when the employer is informed under paragraph 25(9).
+>
+> (4H) If—
+>
+> (a) a person was appointed on an application under paragraph 19C, and
+>
+> (b) the person appointed to conduct the ballot is not that person,
+>
+> the CAC must, as soon as is reasonably practicable, pass on to the person appointed to conduct the ballot the names and addresses given to it under paragraph 19D.
+
+(5) In that paragraph, in sub-paragraph (6) for “given under sub-paragraph (5)” substitute “ passed on to him under paragraph 19D or this paragraph ”.
+
+### 6 Circumstances in which the CAC must arrange a ballot
+
+(1) In paragraph 22(4) of Schedule A1 to the 1992 Act (qualifying conditions requiring the CAC to hold a ballot of workers in bargaining unit), for paragraph (b) substitute—
+
+> (b) the CAC has evidence, which it considers to be credible, from a significant number of the union members within the bargaining unit that they do not want the union (or unions) to conduct collective bargaining on their behalf;
+
+.
+
+(2) In paragraph 87(4) of that Schedule (qualifying conditions requiring the CAC to hold a ballot of workers in new bargaining unit), for paragraph (b) substitute—
+
+> (b) the CAC has evidence, which it considers to be credible, from a significant number of the union members within the new bargaining unit that they do not want the union (or unions) to conduct collective bargaining on their behalf;
+
+.
+
+### 7 Power of the CAC to extend notification period
+
+In paragraph 24 of Schedule A1 to the 1992 Act (notification to halt arrangements for ballot), for sub-paragraph (5) substitute—
+
+> (5) The notification period is, in relation to notification by the union (or unions)—
+>
+> (a) the period of 10 working days starting with the day on which the union (or last of the unions) receives the CAC’s notice under paragraph 22(3) or 23(2), or
+>
+> (b) such longer period so starting as the CAC may specify to the parties by notice.
+>
+> (6) The notification period is, in relation to notification by the union (or unions) and the employer—
+>
+> (a) the period of 10 working days starting with the day on which the last of the parties receives the CAC’s notice under paragraph 22(3) or 23(2), or
+>
+> (b) such longer period so starting as the CAC may specify to the parties by notice.
+>
+> (7) The CAC may give a notice under sub-paragraph (5)(b) or (6)(b) only if the parties have applied jointly to it for the giving of such a notice.
+
+### 8 Postal votes for workers absent from ballot at workplace
+
+(1) In paragraph 25 of Schedule A1 to the 1992 Act (recognition ballots), after sub-paragraph (6) insert—
+
+> (6A) If the CAC decides that the ballot must (in whole or in part) be conducted at a workplace (or workplaces), it may require arrangements to be made for workers—
+>
+> (a) who (but for the arrangements) would be prevented by the CAC’s decision from voting by post, and
+>
+> (b) who are unable, for reasons relating to those workers as individuals, to cast their votes in the ballot at the workplace (or at any of them),
+>
+> to be given the opportunity (if they request it far enough in advance of the ballot for this to be practicable) to vote by post; and the CAC’s imposing such a requirement is not to be treated for the purposes of sub-paragraph (6) as a decision that the ballot be conducted as mentioned in sub-paragraph (4)(c).
+
+(2) In paragraph 117 of that Schedule (derecognition ballots), after sub-paragraph (8) insert—
+
+> (8A) If the CAC decides that the ballot must (in whole or in part) be conducted at a workplace (or workplaces), it may require arrangements to be made for workers—
+>
+> (a) who (but for the arrangements) would be prevented by the CAC’s decision from voting by post, and
+>
+> (b) who are unable, for reasons relating to those workers as individuals, to cast their votes in the ballot at the workplace (or at any of them),
+>
+> to be given the opportunity (if they request it far enough in advance of the ballot for this to be practicable) to vote by post; and the CAC’s imposing such a requirement is not to be treated for the purposes of sub-paragraph (8) as a decision that the ballot be conducted as mentioned in sub-paragraph (6)(c).
+
+### 9 Additional duties on employers informed of ballots
+
+(1) Paragraph 26 of Schedule A1 to the 1992 Act (duties of employer informed of requirement to arrange ballot on recognition etc) is amended in accordance with subsections (2) to (4).
+
+(2) In sub-paragraph (1) for “three” substitute “ five ”.
+
+(3) After sub-paragraph (4) insert—
+
+> (4A) The fourth duty is to refrain from making any offer to any or all of the workers constituting the bargaining unit which—
+>
+> (a) has or is likely to have the effect of inducing any or all of them not to attend any relevant meeting between the union (or unions) and the workers constituting the bargaining unit, and
+>
+> (b) is not reasonable in the circumstances.
+>
+> (4B) The fifth duty is to refrain from taking or threatening to take any action against a worker solely or mainly on the grounds that he—
+>
+> (a) attended or took part in any relevant meeting between the union (or unions) and the workers constituting the bargaining unit, or
+>
+> (b) indicated his intention to attend or take part in such a meeting.
+>
+> (4C) A meeting is a relevant meeting in relation to a worker for the purposes of sub-paragraphs (4A) and (4B) if—
+>
+> (a) it is organised in accordance with any agreement reached concerning the second duty or as a result of a step ordered to be taken under paragraph 27 to remedy a failure to comply with that duty, and
+>
+> (b) it is one which the employer is, by such an agreement or order as is mentioned in paragraph (a), required to permit the worker to attend.
+>
+> (4D) Without prejudice to the generality of the second duty imposed by this paragraph, an employer is to be taken to have failed to comply with that duty if—
+>
+> (a) he refuses a request for a meeting between the union (or unions) and any or all of the workers constituting the bargaining unit to be held in the absence of the employer or any representative of his (other than one who has been invited to attend the meeting) and it is not reasonable in the circumstances for him to do so,
+>
+> (b) he or a representative of his attends such a meeting without having been invited to do so,
+>
+> (c) he seeks to record or otherwise be informed of the proceedings at any such meeting and it is not reasonable in the circumstances for him to do so, or
+>
+> (d) he refuses to give an undertaking that he will not seek to record or otherwise be informed of the proceedings at any such meeting unless it is reasonable in the circumstances for him to do either of those things.
+>
+> (4E) The fourth and fifth duties do not confer any rights on a worker; but that does not affect any other right which a worker may have.
+
+(4) For sub-paragraph (8) substitute—
+
+> (8) Each of the powers specified in sub-paragraph (9) shall be taken to include power to issue Codes of Practice—
+>
+> (a) about reasonable access for the purposes of sub-paragraph (3), and
+>
+> (b) about the fourth duty imposed by this paragraph.
+>
+> (9) The powers are—
+>
+> (a) the power of ACAS under section 199(1);
+>
+> (b) the power of the Secretary of State under section 203(1)(a).
+
+(5) In paragraph 27(1) of that Schedule (remedial order in case of employer’s failure to comply with duties under paragraph 26) for “three duties imposed” substitute “ duties imposed on him ”.
+
+(6) Paragraph 118 of that Schedule (duties of employer informed of requirement to arrange ballot on derecognition etc) is amended in accordance with subsections (7) to (9).
+
+(7) In sub-paragraph (1) for “three” substitute “ five ”.
+
+(8) After sub-paragraph (4) insert—
+
+> (4A) The fourth duty is to refrain from making any offer to any or all of the workers constituting the bargaining unit which—
+>
+> (a) has or is likely to have the effect of inducing any or all of them not to attend any relevant meeting between the union (or unions) and the workers constituting the bargaining unit, and
+>
+> (b) is not reasonable in the circumstances.
+>
+> (4B) The fifth duty is to refrain from taking or threatening to take any action against a worker solely or mainly on the grounds that he—
+>
+> (a) attended or took part in any relevant meeting between the union (or unions) and the workers constituting the bargaining unit, or
+>
+> (b) indicated his intention to attend or take part in such a meeting.
+>
+> (4C) A meeting is a relevant meeting in relation to a worker for the purposes of sub-paragraph (4A) and (4B) if—
+>
+> (a) it is organised in accordance with any agreement reached concerning the second duty or as a result of a step ordered to be taken under paragraph 119 to remedy a failure to comply with that duty, and
+>
+> (b) it is one which the employer is, by such an agreement or order as is mentioned in paragraph (a), required to permit the worker to attend.
+>
+> (4D) Without prejudice to the generality of the second duty imposed by this paragraph, an employer is to be taken to have failed to comply with that duty if—
+>
+> (a) he refuses a request for a meeting between the union (or unions) and any or all of the workers constituting the bargaining unit to be held in the absence of the employer or any representative of his (other than one who has been invited to attend the meeting) and it is not reasonable in the circumstances for him to do so,
+>
+> (b) he or a representative of his attends such a meeting without having been invited to do so,
+>
+> (c) he seeks to record or otherwise be informed of the proceedings at any such meeting and it is not reasonable in the circumstances for him to do so, or
+>
+> (d) he refuses to give an undertaking that he will not seek to record or otherwise be informed of the proceedings at any such meeting unless it is reasonable in the circumstances for him to do either of those things.
+>
+> (4E) The fourth and fifth duties do not confer any rights on a worker; but that does not affect any other right which a worker may have.
+
+(9) For sub-paragraph (8) substitute—
+
+> (8) Each of the powers specified in sub-paragraph (9) shall be taken to include power to issue Codes of Practice—
+>
+> (a) about reasonable access for the purposes of sub-paragraph (3), and
+>
+> (b) about the fourth duty imposed by this paragraph.
+>
+> (9) The powers are—
+>
+> (a) the power of ACAS under section 199(1);
+>
+> (b) the power of the Secretary of State under section 203(1)(a).
+
+(10) In paragraph 119(1) of that Schedule (remedial order in case of employer’s failure to comply with duties under paragraph 118) for “three duties imposed” substitute “ duties imposed on him ”.
+
+### 10 Unfair practices in relation to recognition ballots
+
+(1) After paragraph 27 of Schedule A1 to the 1992 Act insert—
+
+> **27A**
+>
+> (1) Each of the parties informed by the CAC under paragraph 25(9) must refrain from using any unfair practice.
+>
+> (2) A party uses an unfair practice if, with a view to influencing the result of the ballot, the party—
+>
+> (a) offers to pay money or give money’s worth to a worker entitled to vote in the ballot in return for the worker’s agreement to vote in a particular way or to abstain from voting,
+>
+> (b) makes an outcome-specific offer to a worker entitled to vote in the ballot,
+>
+> (c) coerces or attempts to coerce a worker entitled to vote in the ballot to disclose—
+>
+> (i) whether he intends to vote or to abstain from voting in the ballot, or
+>
+> (ii) how he intends to vote, or how he has voted, in the ballot,
+>
+> (d) dismisses or threatens to dismiss a worker,
+>
+> (e) takes or threatens to take disciplinary action against a worker,
+>
+> (f) subjects or threatens to subject a worker to any other detriment, or
+>
+> (g) uses or attempts to use undue influence on a worker entitled to vote in the ballot.
+>
+> (3) For the purposes of sub-paragraph (2)(b) an “outcome-specific offer” is an offer to pay money or give money’s worth which—
+>
+> (a) is conditional on the issuing by the CAC of a declaration that—
+>
+> (i) the union is (or unions are) recognised as entitled to conduct collective bargaining on behalf of the bargaining unit, or
+>
+> (ii) the union is (or unions are) not entitled to be so recognised, and
+>
+> (b) is not conditional on anything which is done or occurs as a result of the declaration in question.
+>
+> (4) The duty imposed by this paragraph does not confer any rights on a worker; but that does not affect any other right which a worker may have.
+>
+> (5) Each of the following powers shall be taken to include power to issue Codes of Practice about unfair practices for the purposes of this paragraph—
+>
+> (a) the power of ACAS under section 199(1);
+>
+> (b) the power of the Secretary of State under section 203(1)(a).
+>
+> **27B**
+>
+> (1) A party may complain to the CAC that another party has failed to comply with paragraph 27A.
+>
+> (2) A complaint under sub-paragraph (1) must be made on or before the first working day after—
+>
+> (a) the date of the ballot, or
+>
+> (b) if votes may be cast in the ballot on more than one day, the last of those days.
+>
+> (3) Within the decision period the CAC must decide whether the complaint is well-founded.
+>
+> (4) A complaint is well-founded if—
+>
+> (a) the CAC finds that the party complained against used an unfair practice, and
+>
+> (b) the CAC is satisfied that the use of that practice changed or was likely to change, in the case of a worker entitled to vote in the ballot—
+>
+> (i) his intention to vote or to abstain from voting,
+>
+> (ii) his intention to vote in a particular way, or
+>
+> (iii) how he voted.
+>
+> (5) The decision period is—
+>
+> (a) the period of 10 working days starting with the day after that on which the complaint under sub-paragraph (1) was received by the CAC, or
+>
+> (b) such longer period (so starting) as the CAC may specify to the parties by a notice containing reasons for the extension.
+>
+> (6) If, at the beginning of the decision period, the ballot has not begun, the CAC may by notice to the parties and the qualified independent person postpone the date on which it is to begin until a date which falls after the end of the decision period.
+>
+> **27C**
+>
+> (1) This paragraph applies if the CAC decides that a complaint under paragraph 27B is well-founded.
+>
+> (2) The CAC must, as soon as is reasonably practicable, issue a declaration to that effect.
+>
+> (3) The CAC may do either or both of the following—
+>
+> (a) order the party concerned to take any action specified in the order within such period as may be so specified, or
+>
+> (b) give notice to the employer and to the union (or unions) that it intends to arrange for the holding of a secret ballot in which the workers constituting the bargaining unit are asked whether they want the union (or unions) to conduct collective bargaining on their behalf.
+>
+> (4) The CAC may give an order or a notice under sub-paragraph (3) either at the same time as it issues the declaration under sub-paragraph (2) or at any other time before it acts under paragraph 29.
+>
+> (5) The action specified in an order under sub-paragraph (3)(a) shall be such as the CAC considers reasonable in order to mitigate the effect of the failure of the party concerned to comply with the duty imposed by paragraph 27A.
+>
+> (6) The CAC may give more than one order under sub-paragraph (3)(a).
+>
+> **27D**
+>
+> (1) This paragraph applies if the CAC issues a declaration under paragraph 27C(2) and the declaration states that the unfair practice used consisted of or included—
+>
+> (a) the use of violence, or
+>
+> (b) the dismissal of a union official.
+>
+> (2) This paragraph also applies if the CAC has made an order under paragraph 27C(3)(a) and—
+>
+> (a) it is satisfied that the party subject to the order has failed to comply with it, or
+>
+> (b) it makes another declaration under paragraph 27C(2) in relation to a complaint against that party.
+>
+> (3) If the party concerned is the employer, the CAC may issue a declaration that the union is (or unions are) recognised as entitled to conduct collective bargaining on behalf of the bargaining unit.
+>
+> (4) If the party concerned is a union, the CAC may issue a declaration that the union is (or unions are) not entitled to be so recognised.
+>
+> (5) The powers conferred by this paragraph are in addition to those conferred by paragraph 27C(3).
+>
+> **27E**
+>
+> (1) This paragraph applies if the CAC issues a declaration that a complaint under paragraph 27B is well-founded and—
+>
+> (a) gives a notice under paragraph 27C(3)(b), or
+>
+> (b) issues a declaration under paragraph 27D.
+>
+> (2) If the ballot in connection with which the complaint was made has not been held, the CAC shall take steps to cancel it.
+>
+> (3) If that ballot is held, it shall have no effect.
+>
+> **27F**
+>
+> (1) This paragraph applies if the CAC gives a notice under paragraph 27C(3)(b).
+>
+> (2) Paragraphs 24 to 29 apply in relation to that notice as they apply in relation to a notice given under paragraph 22(3) or 23(2) but with the modifications specified in sub-paragraphs (3) to (6).
+>
+> (3) In each of sub-paragraphs (5)(a) and (6)(a) of paragraph 24 for “10 working days” substitute “ 5 working days ”.
+>
+> (4) An employer’s duty under paragraph (a) of paragraph 26(4) is limited to—
+>
+> (a) giving the CAC the names and home addresses of any workers in the bargaining unit which have not previously been given to it in accordance with that duty;
+>
+> (b) giving the CAC the names and home addresses of those workers who have joined the bargaining unit since he last gave the CAC information in accordance with that duty;
+>
+> (c) informing the CAC of any change to the name or home address of a worker whose name and home address have previously been given to the CAC in accordance with that duty; and
+>
+> (d) informing the CAC of any worker whose name had previously been given to it in accordance with that duty who has ceased to be within the bargaining unit.
+>
+> (5) Any order given under paragraph 27(1) or 27C(3)(a) for the purposes of the cancelled or ineffectual ballot shall have effect (to the extent that the CAC specifies in a notice to the parties) as if it were made for the purposes of the ballot to which the notice under paragraph 27C(3)(b) relates.
+>
+> (6) The gross costs of the ballot shall be borne by such of the parties and in such proportions as the CAC may determine and, accordingly, sub-paragraphs (2) and (3) of paragraph 28 shall be omitted and the reference in sub-paragraph (4) of that paragraph to the employer and the union (or each of the unions) shall be construed as a reference to the party or parties which bear the costs in accordance with the CAC’s determination.
+
+(2) In paragraph 29 of that Schedule (duties of the CAC when informed of result of ballot), after sub-paragraph (1) insert—
+
+> (1A) The duty in sub-paragraph (1) does not apply if the CAC gives a notice under paragraph 27C(3)(b).
+
+### 11 Application where agreement does not cover pay, hours and holidays
+
+In each of paragraphs 35(2)(b) and 44(2)(b) of Schedule A1 to the 1992 Act (application neither inadmissible nor invalid by reason of existing agreement if the agreement does not include certain matters) for “pay, hours or holidays” substitute “ all of the following: pay, hours and holidays (“the core topics”) ”.
+
+### 12 Employer’s notice to end bargaining arrangements
+
+(1) Paragraph 99 of Schedule A1 to the 1992 Act (employer’s notice to bring bargaining arrangements to an end on grounds that fewer than 21 workers employed) is amended in accordance with subsections (2) and (3).
+
+(2) In sub-paragraph (3) (notice must comply with certain requirements), before paragraph (a) insert—
+
+> (za) is not invalidated by paragraph 99A,
+
+.
+
+(3) In sub-paragraph (7)(a), for “100” substitute “ 99A ”.
+
+(4) After paragraph 99 of that Schedule insert—
+
+> **99A**
+>
+> (1) A notice given for the purposes of paragraph 99(2) (“the notice in question”) is invalidated by this paragraph if—
+>
+> (a) a relevant application was made, or an earlier notice under paragraph 99(2) was given, within the period of 3 years prior to the date when the notice in question was given,
+>
+> (b) the relevant application, or that earlier notice, and the notice in question relate to the same bargaining unit, and
+>
+> (c) the CAC accepted the relevant application or (as the case may be) decided under paragraph 100 that the earlier notice under paragraph 99(2) complied with paragraph 99(3).
+>
+> (2) A relevant application is an application made to the CAC—
+>
+> (a) by the employer under paragraph 106, 107 or 128, or
+>
+> (b) by a worker (or workers) under paragraph 112.
+
+(5) In paragraph 100(1) of that Schedule (the CAC must decide whether notice complies with paragraph 99(3)), at the beginning insert “ If an employer gives notice for the purposes of paragraph 99(2), ”.
+
+(6) In paragraph 101 of that Schedule (union’s application to challenge employer’s notice under paragraph 99), omit sub-paragraphs (4) and (5).
+
+(7) In paragraph 103 of that Schedule, after sub-paragraph (3) insert—
+
+> (3A) Sub-paragraph (3) does not prevent the notice from being treated for the purposes of the provisions mentioned in sub-paragraph (3B) as having been given.
+>
+> (3B) Those provisions are—
+>
+> (a) paragraphs 109(1), 113(1) and 130(1);
+>
+> (b) paragraph 99A(1) in its application to a later notice given for the purposes of paragraph 99(2).
+
+(8) In sub-paragraph (1) of each of paragraphs 109, 113 and 130 of that Schedule (bar on applications for ending bargaining arrangements if relevant application made within previous 3 years)—
+
+(a) in paragraph (a), after “was made” insert “ , or a notice under paragraph 99(2) was given, ”;
+
+(b) in paragraph (b), after “the relevant application” insert “ , or notice under paragraph 99(2), ”; and
+
+(c) in paragraph (c), at the end insert “ or (as the case may be) decided under paragraph 100 that the notice complied with paragraph 99(3) ”.
+
+(9) In sub-paragraph (2) of each of those paragraphs (meaning of “relevant application”), omit paragraph (a).
+
+### 13 Unfair practices in relation to derecognition ballots
+
+(1) After paragraph 119 of Schedule A1 to the 1992 Act insert—
+
+> **119A**
+>
+> (1) Each of the parties informed by the CAC under paragraph 117(11) must refrain from using any unfair practice.
+>
+> (2) A party uses an unfair practice if, with a view to influencing the result of the ballot, the party—
+>
+> (a) offers to pay money or give money’s worth to a worker entitled to vote in the ballot in return for the worker’s agreement to vote in a particular way or to abstain from voting,
+>
+> (b) makes an outcome-specific offer to a worker entitled to vote in the ballot,
+>
+> (c) coerces or attempts to coerce a worker entitled to vote in the ballot to disclose—
+>
+> (i) whether he intends to vote or to abstain from voting in the ballot, or
+>
+> (ii) how he intends to vote, or how he has voted, in the ballot,
+>
+> (d) dismisses or threatens to dismiss a worker,
+>
+> (e) takes or threatens to take disciplinary action against a worker,
+>
+> (f) subjects or threatens to subject a worker to any other detriment, or
+>
+> (g) uses or attempts to use undue influence on a worker entitled to vote in the ballot.
+>
+> (3) For the purposes of sub-paragraph (2)(b) an “outcome-specific offer” is an offer to pay money or give money’s worth which—
+>
+> (a) is conditional on—
+>
+> (i) the issuing by the CAC of a declaration that the bargaining arrangements are to cease to have effect, or
+>
+> (ii) the refusal by the CAC of an application under paragraph 106, 107 or 112, and
+>
+> (b) is not conditional on anything which is done or occurs as a result of that declaration or, as the case may be, of that refusal.
+>
+> (4) The duty imposed by this paragraph does not confer any rights on a worker; but that does not affect any other right which a worker may have.
+>
+> (5) Each of the following powers shall be taken to include power to issue Codes of Practice about unfair practices for the purposes of this paragraph—
+>
+> (a) the power of ACAS under section 199(1);
+>
+> (b) the power of the Secretary of State under section 203(1)(a).
+>
+> **119B**
+>
+> (1) A party may complain to the CAC that another party has failed to comply with paragraph 119A.
+>
+> (2) A complaint under sub-paragraph (1) must be made on or before the first working day after—
+>
+> (a) the date of the ballot, or
+>
+> (b) if votes may be cast in the ballot on more than one day, the last of those days.
+>
+> (3) Within the decision period the CAC must decide whether the complaint is well-founded.
+>
+> (4) A complaint is well-founded if—
+>
+> (a) the CAC finds that the party complained against used an unfair practice, and
+>
+> (b) the CAC is satisfied that the use of that practice changed or was likely to change, in the case of a worker entitled to vote in the ballot—
+>
+> (i) his intention to vote or to abstain from voting,
+>
+> (ii) his intention to vote in a particular way, or
+>
+> (iii) how he voted.
+>
+> (5) The decision period is—
+>
+> (a) the period of 10 working days starting with the day after that on which the complaint under sub-paragraph (1) was received by the CAC, or
+>
+> (b) such longer period (so starting) as the CAC may specify to the parties by a notice containing reasons for the extension.
+>
+> (6) If, at the beginning of the decision period, the ballot has not begun, the CAC may by notice to the parties and the qualified independent person postpone the date on which it is to begin until a date which falls after the end of the decision period.
+>
+> **119C**
+>
+> (1) This paragraph applies if the CAC decides that a complaint under paragraph 119B is well-founded.
+>
+> (2) The CAC must, as soon as is reasonably practicable, issue a declaration to that effect.
+>
+> (3) The CAC may do either or both of the following—
+>
+> (a) order the party concerned to take any action specified in the order within such period as may be so specified, or
+>
+> (b) make arrangements for the holding of a secret ballot in which the workers constituting the bargaining unit are asked whether the bargaining arrangements should be ended.
+>
+> (4) The CAC may give an order or make arrangements under sub-paragraph (3) either at the same time as it issues the declaration under sub-paragraph (2) or at any other time before it acts under paragraph 121.
+>
+> (5) The action specified in an order under sub-paragraph (3)(a) shall be such as the CAC considers reasonable in order to mitigate the effect of the failure of the party complained against to comply with the duty imposed by paragraph 119A.
+>
+> (6) The CAC may give more than one order under sub-paragraph (3)(a).
+>
+> **119D**
+>
+> (1) This paragraph applies if the CAC issues a declaration under paragraph 119C(2) and the declaration states that the unfair practice used consisted of or included—
+>
+> (a) the use of violence, or
+>
+> (b) the dismissal of a union official.
+>
+> (2) This paragraph also applies if the CAC has made an order under paragraph 119C(3)(a) and—
+>
+> (a) it is satisfied that the party subject to the order has failed to comply with it, or
+>
+> (b) it makes another declaration under paragraph 119C(2) in relation to a complaint against that party.
+>
+> (3) If the party concerned is the employer, the CAC may refuse the employer’s application under paragraph 106 or 107.
+>
+> (4) If the party concerned is a union, the CAC may issue a declaration that the bargaining arrangements are to cease to have effect on a date specified by the CAC in the declaration.
+>
+> (5) If a declaration is issued under sub-paragraph (4) the bargaining arrangements shall cease to have effect accordingly.
+>
+> (6) The powers conferred by this paragraph are in addition to those conferred by paragraph 119C(3).
+>
+> **119E**
+>
+> (1) This paragraph applies if the CAC issues a declaration that a complaint under paragraph 119B is well-founded and—
+>
+> (a) makes arrangements under paragraph 119C(3)(b),
+>
+> (b) refuses under paragraph 119D(3) or 119H(6) an application under paragraph 106, 107 or 112, or
+>
+> (c) issues a declaration under paragraph 119D(4) or 119H(5).
+>
+> (2) If the ballot in connection with which the complaint was made has not been held, the CAC shall take steps to cancel it.
+>
+> (3) If that ballot is held, it shall have no effect.
+>
+> **119F**
+>
+> (1) This paragraph applies if the CAC makes arrangements under paragraph 119C(3)(b).
+>
+> (2) Paragraphs 117(4) to (11) and 118 to 121 apply in relation to those arrangements as they apply in relation to arrangements made under paragraph 117(3) but with the modifications specified in sub-paragraphs (3) to (5).
+>
+> (3) An employer’s duty under paragraph (a) of paragraph 118(4) is limited to—
+>
+> (a) giving the CAC the names and home addresses of any workers in the bargaining unit which have not previously been given to it in accordance with that duty;
+>
+> (b) giving the CAC the names and home addresses of those workers who have joined the bargaining unit since he last gave the CAC information in accordance with that duty;
+>
+> (c) informing the CAC of any change to the name or home address of a worker whose name and home address have previously been given to the CAC in accordance with that duty; and
+>
+> (d) informing the CAC of any worker whose name had previously been given to it in accordance with that duty who has ceased to be within the bargaining unit.
+>
+> (4) Any order given under paragraph 119(1) or 119C(3)(a) for the purposes of the cancelled or ineffectual ballot shall have effect (to the extent that the CAC specifies in a notice to the parties) as if it were made for the purposes of the ballot for which arrangements are made under paragraph 119C(3)(b).
+>
+> (5) The gross costs of the ballot shall be borne by such of the parties and in such proportions as the CAC may determine and, accordingly, sub-paragraphs (2) and (3) of paragraph 120 shall be omitted and the reference in sub-paragraph (4) of that paragraph to the employer and the union (or each of the unions) shall be construed as a reference to the party or parties which bear the costs in accordance with the CAC’s determination.
+>
+> **119G**
+>
+> (1) Paragraphs 119A to 119C, 119E and 119F apply in relation to an application under paragraph 112 as they apply in relation to an application under paragraph 106 or 107 but with the modifications specified in this paragraph.
+>
+> (2) References in those paragraphs (and, accordingly, in paragraph 119H(3)) to a party shall be read as including references to the applicant worker or workers; but this is subject to sub-paragraph (3).
+>
+> (3) The reference in paragraph 119A(1) to a party informed under paragraph 117(11) shall be read as including a reference to the applicant worker or workers.
+>
+> **119H**
+>
+> (1) This paragraph applies in relation to an application under paragraph 112 in the cases specified in sub-paragraphs (2) and (3).
+>
+> (2) The first case is where the CAC issues a declaration under paragraph 119C(2) and the declaration states that the unfair practice used consisted of or included—
+>
+> (a) the use of violence, or
+>
+> (b) the dismissal of a union official.
+>
+> (3) The second case is where the CAC has made an order under paragraph 119C(3)(a) and—
+>
+> (a) it is satisfied that the party subject to the order has failed to comply with it, or
+>
+> (b) it makes another declaration under paragraph 119C(2) in relation to a complaint against that party.
+>
+> (4) If the party concerned is the employer, the CAC may order him to refrain from further campaigning in relation to the ballot.
+>
+> (5) If the party concerned is a union, the CAC may issue a declaration that the bargaining arrangements are to cease to have effect on a date specified by the CAC in the declaration.
+>
+> (6) If the party concerned is the applicant worker (or any of the applicant workers), the CAC may refuse the application under paragraph 112.
+>
+> (7) If a declaration is issued under sub-paragraph (5) the bargaining arrangements shall cease to have effect accordingly.
+>
+> (8) The powers conferred by this paragraph are in addition to those conferred by paragraph 119C(3).
+>
+> **119I**
+>
+> (1) This paragraph applies if—
+>
+> (a) a ballot has been arranged in consequence of an application under paragraph 112,
+>
+> (b) the CAC has given the employer an order under paragraph 119(1), 119C(3) or 119H(4), and
+>
+> (c) the ballot for the purposes of which the order was made (or any other ballot for the purposes of which it has effect) has not been held.
+>
+> (2) The applicant worker (or each of the applicant workers) and the union (or each of the unions) is entitled to enforce obedience to the order.
+>
+> (3) The order may be enforced—
+>
+> (a) in England and Wales, in the same way as an order of the county court;
+>
+> (b) in Scotland, in the same way as an order of the sheriff.
+
+(2) In paragraph 121 of that Schedule (duties of the CAC when informed of result of ballot), after sub-paragraph (1) insert—
+
+> (1A) The duty in sub-paragraph (1) does not apply if the CAC makes arrangements under paragraph 119C(3)(b).
+
+### 14 Appeals against demands for costs
+
+In Part 9 of Schedule A1 to the 1992 Act, before paragraph 166 (and before the cross-heading immediately preceding that paragraph) insert—
+
+> **165A Rights of appeal against demands for costs**
+>
+> (1) This paragraph applies where a demand has been made under paragraph 19E(3), 28(4) or 120(4).
+>
+> (2) The recipient of the demand may appeal against the demand within 4 weeks starting with the day after receipt of the demand.
+>
+> (3) An appeal under this paragraph lies to an employment tribunal.
+>
+> (4) On an appeal under this paragraph against a demand under paragraph 19E(3), the tribunal shall dismiss the appeal unless it is shown that—
+>
+> (a) the amount specified in the demand as the costs of the appointed person is too great, or
+>
+> (b) the amount specified in the demand as the amount of those costs to be borne by the recipient is too great.
+>
+> (5) On an appeal under this paragraph against a demand under paragraph 28(4) or paragraph 120(4), the tribunal shall dismiss the appeal unless it is shown that—
+>
+> (a) the amount specified in the demand as the gross costs of the ballot is too great, or
+>
+> (b) the amount specified in the demand as the amount of the gross costs to be borne by the recipient is too great.
+>
+> (6) If an appeal is allowed, the tribunal shall rectify the demand and the demand shall have effect as if it had originally been made as so rectified.
+>
+> (7) If a person has appealed under this paragraph against a demand and the appeal has not been withdrawn or finally determined, the demand—
+>
+> (a) is not enforceable until the appeal has been withdrawn or finally determined, but
+>
+> (b) as from the withdrawal or final determination of the appeal shall be enforceable as if paragraph (a) had not had effect.
+
+### 15 Power to amend Schedule A1 to the 1992 Act
+
+(1) Paragraph 166 of Schedule A1 to the 1992 Act (power of Secretary of State to amend that Schedule) is amended as follows.
+
+(2) For sub-paragraphs (1) and (2) substitute—
+
+> (1) This paragraph applies if the CAC represents to the Secretary of State that a provision of this Schedule has an unsatisfactory effect and should be amended.
+>
+> (2) The Secretary of State, with a view to rectifying the effect—
+>
+> (a) may amend the provision by exercising (if applicable) any of the powers conferred on him by paragraphs 7(6), 29(5), 121(6), 166A, 166B, 169A, 169B and 171A, or
+>
+> (b) may amend the provision by order in such other way as he thinks fit.
+>
+> (2A) The Secretary of State need not proceed in a way proposed by the CAC (if it proposes one).
+>
+> (2B) Nothing in this paragraph prevents the Secretary of State from exercising any of the powers mentioned in sub-paragraph (2)(a) in the absence of a representation from the CAC.
+
+(3) In sub-paragraph (3), for “this paragraph” substitute “ sub-paragraph (2)(b) ”.
+
+### 16 Means of communicating with workers
+
+After paragraph 166 of Schedule A1 to the 1992 Act insert—
+
+> **166A**
+>
+> (1) This paragraph applies in relation to any provision of paragraph 19D(2), 26(4) or 118(4) which requires the employer to give to the CAC a worker’s home address.
+>
+> (2) The Secretary of State may by order provide that the employer must give to the CAC (in addition to the worker’s home address) an address of a specified kind for the worker.
+>
+> (3) In this paragraph “address” includes any address or number to which information may be sent by any means.
+>
+> (4) An order under this paragraph may—
+>
+> (a) amend this Schedule;
+>
+> (b) include supplementary or incidental provision (including, in particular, provision amending paragraph 19E(1)(a), 26(6)(a) or 118(6)(a));
+>
+> (c) make different provision for different cases or circumstances.
+>
+> (5) An order under this paragraph shall be made by statutory instrument.
+>
+> (6) No such order shall be made unless a draft of it has been laid before Parliament and approved by a resolution of each House of Parliament.
+
+### 17 Unfair practices: power to make provision about periods before notice of ballot
+
+After paragraph 166A of Schedule A1 to the 1992 Act (which is inserted by section 16) insert—
+
+> **166B**
+>
+> (1) The Secretary of State may by order provide that, during any period beginning and ending with the occurrence of specified events, employers and unions to which the order applies are prohibited from using such practices as are specified as unfair practices in relation to an application under this Schedule of a specified description.
+>
+> (2) An order under this paragraph may make provision about the consequences of a contravention of any prohibition imposed by the order (including provision modifying the effect of any provision of this Schedule in the event of such a contravention).
+>
+> (3) An order under this paragraph may confer functions on the CAC.
+>
+> (4) An order under this paragraph may contain provision extending for the purposes of the order either or both of the following powers to issue Codes of Practice—
+>
+> (a) the power of ACAS under section 199(1);
+>
+> (b) the power of the Secretary of State under section 203(1)(a).
+>
+> (5) An order under this paragraph may—
+>
+> (a) include supplementary or incidental provisions (including provision amending this Schedule), and
+>
+> (b) make different provision for different cases or circumstances.
+>
+> (6) An order under this paragraph shall be made by statutory instrument.
+>
+> (7) No such order shall be made unless a draft of it has been laid before and approved by a resolution of each House of Parliament.
+>
+> (8) In this paragraph “specified” means specified in an order under this paragraph.
+
+### 18 Power to make provision about effect of amalgamations etc.
+
+After paragraph 169 of Schedule A1 to the 1992 Act insert—
+
+> **169A Effect of union amalgamations and transfers of engagements**
+>
+> (1) The Secretary of State may by order make provision for any case where—
+>
+> (a) an application has been made, a declaration has been issued, or any other thing has been done under or for the purposes of this Schedule by, to or in relation to a union, or
+>
+> (b) anything has been done in consequence of anything so done,
+>
+> and the union amalgamates or transfers all or any of its engagements.
+>
+> (2) An order under this paragraph may, in particular, make provision for cases where an amalgamated union, or union to which engagements are transferred, does not have a certificate of independence.
+>
+> **169B Effect of change of identity of employer**
+>
+> (1) The Secretary of State may by order make provision for any case where—
+>
+> (a) an application has been made, a declaration has been issued, or any other thing has been done under or for the purposes of this Schedule in relation to a group of workers, or
+>
+> (b) anything has been done in consequence of anything so done,
+>
+> and the person who was the employer of the workers constituting that group at the time the thing was done is no longer the employer of all of the workers constituting that group (whether as a result of a transfer of the whole or part of an undertaking or business or otherwise).
+>
+> (2) In this paragraph “group” includes two or more groups taken together.
+>
+> **169C Orders under paragraphs 169A and 169B: supplementary**
+>
+> (1) An order under paragraph 169A or 169B may—
+>
+> (a) amend this Schedule;
+>
+> (b) include supplementary, incidental, saving or transitional provisions;
+>
+> (c) make different provision for different cases or circumstances.
+>
+> (2) An order under paragraph 169A or 169B shall be made by statutory instrument.
+>
+> (3) No such order shall be made unless a draft of it has been laid before Parliament and approved by a resolution of each House of Parliament.
+
+### 19 Information about union membership and employment in bargaining unit
+
+After paragraph 170 of Schedule A1 to the 1992 Act insert—
+
+> **170A Supply of information to CAC**
+>
+> (1) The CAC may, if it considers it necessary to do so to enable or assist it to exercise any of its functions under this Schedule, exercise any or all of the powers conferred in sub-paragraphs (2) to (4).
+>
+> (2) The CAC may require an employer to supply the CAC case manager, within such period as the CAC may specify, with specified information concerning either or both of the following—
+>
+> (a) the workers in a specified bargaining unit who work for the employer;
+>
+> (b) the likelihood of a majority of those workers being in favour of the conduct by a specified union (or specified unions) of collective bargaining on their behalf.
+>
+> (3) The CAC may require a union to supply the CAC case manager, within such period as the CAC may specify, with specified information concerning either or both of the following—
+>
+> (a) the workers in a specified bargaining unit who are members of the union;
+>
+> (b) the likelihood of a majority of the workers in a specified bargaining unit being in favour of the conduct by the union (or by it and other specified unions) of collective bargaining on their behalf.
+>
+> (4) The CAC may require an applicant worker to supply the CAC case manager, within such period as the CAC may specify, with specified information concerning the likelihood of a majority of the workers in his bargaining unit being in favour of having bargaining arrangements ended.
+>
+> (5) The recipient of a requirement under this paragraph must, within the specified period, supply the CAC case manager with such of the specified information as is in the recipient’s possession.
+>
+> (6) From the information supplied to him under this paragraph, the CAC case manager must prepare a report and submit it to the CAC.
+>
+> (7) If an employer, a union or a worker fails to comply with sub-paragraph (5), the report under sub-paragraph (6) must mention that failure; and the CAC may draw an inference against the party concerned.
+>
+> (8) The CAC must give a copy of the report under sub-paragraph (6) to the employer, to the union (or unions) and, in the case of an application under paragraph 112 or 137, to the applicant worker (or applicant workers).
+>
+> (9) In this paragraph—
+>
+> - “applicant worker” means a worker who—
+>
+>   - (a) falls within a bargaining unit (“his bargaining unit”) and
+>   - (b) has made an application under paragraph 112 or 137 to have bargaining arrangements ended;
+>
+> - “the CAC case manager” means the member of the staff provided to the CAC by ACAS who is named in the requirement (but the CAC may, by notice given to the recipient of a requirement under this paragraph, change the member of that staff who is to be the CAC case manager for the purposes of that requirement);
+>
+> - “collective bargaining” is to be construed in accordance with paragraph 3; and
+>
+> - “specified” means specified in a requirement under this paragraph.
+
+### 20 “Pay” and other matters subject to collective bargaining
+
+After paragraph 171 of Schedule A1 to the 1992 Act insert—
+
+> **171A “Pay” and other matters subject to collective bargaining**
+>
+> (1) In this Schedule “pay” does not include terms relating to a person’s membership of or rights under, or his employer’s contributions to—
+>
+> (a) an occupational pension scheme (as defined by section 1 of the Pension Schemes Act 1993), or
+>
+> (b) a personal pension scheme (as so defined).
+>
+> (2) The Secretary of State may by order amend sub-paragraph (1).
+>
+> (3) The Secretary of State may by order—
+>
+> (a) amend paragraph 3(3), 54(4) or 94(6)(b) by adding specified matters relating to pensions to the matters there specified to which negotiations may relate;
+>
+> (b) amend paragraph 35(2)(b) or 44(2)(b) by adding specified matters relating to pensions to the core topics there specified.
+>
+> (4) An order under this paragraph may—
+>
+> (a) include supplementary, incidental, saving or transitional provisions including provision amending this Schedule, and
+>
+> (b) make different provision for different cases.
+>
+> (5) An order under this paragraph may make provision deeming—
+>
+> (a) the matters to which any pre-commencement declaration of recognition relates, and
+>
+> (b) the matters to which any pre-commencement method of collective bargaining relates,
+>
+> to include matters to which a post-commencement declaration of recognition or method of collective bargaining could relate.
+>
+> (6) In sub-paragraph (5)—
+>
+> - “pre-commencement declaration of recognition” means a declaration of recognition issued by the CAC before the coming into force of the order,
+> - “pre-commencement method of collective bargaining” means a method of collective bargaining specified by the CAC before the coming into force of the order,
+> - and references to a post-commencement declaration of recognition or method of collective bargaining shall be construed accordingly.
+>
+> (7) An order under this paragraph shall be made by statutory instrument; and no such order shall be made unless a draft of it has been laid before Parliament and approved by a resolution of each House of Parliament.
+
+### 21 Information required by ACAS for ballots and ascertaining union membership
+
+After section 210 of the 1992 Act insert—
+
+> **210A Information required by ACAS for purposes of settling recognition disputes**
+>
+> (1) This section applies where ACAS is exercising its functions under section 210 with a view to bringing about a settlement of a recognition dispute.
+>
+> (2) The parties to the recognition dispute may jointly request ACAS or a person nominated by ACAS to do either or both of the following—
+>
+> (a) hold a ballot of the workers involved in the dispute;
+>
+> (b) ascertain the union membership of the workers involved in the dispute.
+>
+> (3) In the following provisions of this section references to ACAS include references to a person nominated by ACAS; and anything done by such a person under this section shall be regarded as done in the exercise of the functions of ACAS mentioned in subsection (1).
+>
+> (4) At any time after ACAS has received a request under subsection (2), it may require any party to the recognition dispute—
+>
+> (a) to supply ACAS with specified information concerning the workers involved in the dispute, and
+>
+> (b) to do so within such period as it may specify.
+>
+> (5) ACAS may impose a requirement under subsection (4) only if it considers that it is necessary to do so—
+>
+> (a) for the exercise of the functions mentioned in subsection (1); and
+>
+> (b) in order to enable or assist it to comply with the request.
+>
+> (6) The recipient of a requirement under this section must, within the specified period, supply ACAS with such of the specified information as is in the recipient’s possession.
+>
+> (7) A request under subsection (2) may be withdrawn by any party to the recognition dispute at any time and, if it is withdrawn, ACAS shall take no further steps to hold the ballot or to ascertain the union membership of the workers involved in the dispute.
+>
+> (8) If a party to a recognition dispute fails to comply with subsection (6), ACAS shall take no further steps to hold the ballot or to ascertain the union membership of the workers involved in the dispute.
+>
+> (9) Nothing in this section requires ACAS to comply with a request under subsection (2).
+>
+> (10) In this section—
+>
+> - “party”, in relation to a recognition dispute, means each of the employers, employers' associations and trade unions involved in the dispute;
+> - “a recognition dispute” means a trade dispute between employers and workers which is connected wholly or partly with the recognition by employers or employers' associations of the right of a trade union to represent workers in negotiations, consultations or other procedures relating to any of the matters mentioned in paragraphs (a) to (f) of section 218(1);
+> - “specified” means specified in a requirement under this section; and
+> - “workers” has the meaning given in section 218(5).
+
+## Part 2 — Law relating to industrial action
+
+### 22 Information about employees to be balloted on industrial action
+
+(1) Section 226A of the 1992 Act (notice of ballot and sample voting paper for employers) is amended as follows.
+
+(2) In subsection (1)(b) for “subsection (3)” substitute “ subsection (2F) ”.
+
+(3) For subsection (2)(c) substitute—
+
+> (c) containing—
+>
+> (i) the lists mentioned in subsection (2A) and the figures mentioned in subsection (2B), together with an explanation of how those figures were arrived at, or
+>
+> (ii) where some or all of the employees concerned are employees from whose wages the employer makes deductions representing payments to the union, either those lists and figures and that explanation or the information mentioned in subsection (2C).
+
+(4) After subsection (2) insert—
+
+> (2A) The lists are—
+>
+> (a) a list of the categories of employee to which the employees concerned belong, and
+>
+> (b) a list of the workplaces at which the employees concerned work.
+>
+> (2B) The figures are—
+>
+> (a) the total number of employees concerned,
+>
+> (b) the number of the employees concerned in each of the categories in the list mentioned in subsection (2A)(a), and
+>
+> (c) the number of the employees concerned who work at each workplace in the list mentioned in subsection (2A)(b).
+>
+> (2C) The information referred to in subsection (2)(c)(ii) is such information as will enable the employer readily to deduce—
+>
+> (a) the total number of employees concerned,
+>
+> (b) the categories of employee to which the employees concerned belong and the number of the employees concerned in each of those categories, and
+>
+> (c) the workplaces at which the employees concerned work and the number of them who work at each of those workplaces.
+>
+> (2D) The lists and figures supplied under this section, or the information mentioned in subsection (2C) that is so supplied, must be as accurate as is reasonably practicable in the light of the information in the possession of the union at the time when it complies with subsection (1)(a).
+>
+> (2E) For the purposes of subsection (2D) information is in the possession of the union if it is held, for union purposes—
+>
+> (a) in a document, whether in electronic form or any other form, and
+>
+> (b) in the possession or under the control of an officer or employee of the union.
+>
+> (2F) The sample voting paper referred to in paragraph (b) of subsection (1) is—
+>
+> (a) a sample of the form of voting paper which is to be sent to the employees concerned, or
+>
+> (b) where the employees concerned are not all to be sent the same form of voting paper, a sample of each form of voting paper which is to be sent to any of them.
+>
+> (2G) Nothing in this section requires a union to supply an employer with the names of the employees concerned.
+>
+> (2H) In this section references to the “employees concerned” are references to those employees of the employer in question who the union reasonably believes will be entitled to vote in the ballot.
+>
+> (2I) For the purposes of this section, the workplace at which an employee works is—
+>
+> (a) in relation to an employee who works at or from a single set of premises, those premises, and
+>
+> (b) in relation to any other employee, the premises with which his employment has the closest connection.
+
+(5) Omit subsections (3) to (3B).
+
+(6) In subsection (5) for “subsection (3)” substitute “ subsection (2F) ”.
+
+### 23 Entitlement to vote in ballot on industrial action
+
+In section 227(1) of the 1992 Act (entitlement to vote in ballot on industrial action) after “induced” insert “ by the union ”.
+
+### 24 Inducement of members not accorded entitlement to vote
+
+(1) In section 232B of the 1992 Act (small accidental failures to comply with certain provisions in relation to industrial action ballot to be disregarded)—
+
+(a) in subsection (1), at the end add “ for all purposes (including, in particular, those of section 232A(c)) ”; and
+
+(b) in subsection (2), for “230(2A)” substitute “ 230(2B) ”.
+
+[^F1]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 25 Information about employees to be contained in notice of industrial action
+
+(1) Section 234A of the 1992 Act (notice to employers of industrial action) is amended as follows.
+
+(2) In subsection (3)—
+
+(a) for paragraph (a) substitute—
+
+> (a) contains—
+>
+> (i) the lists mentioned in subsection (3A) and the figures mentioned in subsection (3B), together with an explanation of how those figures were arrived at, or
+>
+> (ii) where some or all of the affected employees are employees from whose wages the employer makes deductions representing payments to the union, either those lists and figures and that explanation or the information mentioned in subsection (3C), and
+
+;
+
+(b) omit paragraph (c) and the word “and” immediately preceding it.
+
+(3) After subsection (3) insert—
+
+> (3A) The lists referred to in subsection (3)(a) are—
+>
+> (a) a list of the categories of employee to which the affected employees belong, and
+>
+> (b) a list of the workplaces at which the affected employees work.
+>
+> (3B) The figures referred to in subsection (3)(a) are—
+>
+> (a) the total number of the affected employees,
+>
+> (b) the number of the affected employees in each of the categories in the list mentioned in subsection (3A)(a), and
+>
+> (c) the number of the affected employees who work at each workplace in the list mentioned in subsection (3A)(b).
+>
+> (3C) The information referred to in subsection (3)(a)(ii) is such information as will enable the employer readily to deduce—
+>
+> (a) the total number of the affected employees,
+>
+> (b) the categories of employee to which the affected employees belong and the number of the affected employees in each of those categories, and
+>
+> (c) the workplaces at which the affected employees work and the number of them who work at each of those workplaces.
+>
+> (3D) The lists and figures supplied under this section, or the information mentioned in subsection (3C) that is so supplied, must be as accurate as is reasonably practicable in the light of the information in the possession of the union at the time when it complies with subsection (1).
+>
+> (3E) For the purposes of subsection (3D) information is in the possession of the union if it is held, for union purposes—
+>
+> (a) in a document, whether in electronic form or any other form, and
+>
+> (b) in the possession or under the control of an officer or employee of the union.
+>
+> (3F) Nothing in this section requires a union to supply an employer with the names of the affected employees.
+
+(4) In subsection (5), for “is one of the affected employees” substitute “ falls within a notified category of employee and the workplace at which he works is a notified workplace ”.
+
+(5) For subsection (5A) substitute—
+
+> (5B) In subsection (5)—
+>
+> (a) a “notified category of employee” means—
+>
+> (i) a category of employee that is listed in the notice, or
+>
+> (ii) where the notice contains the information mentioned in subsection (3C), a category of employee that the employer (at the time he receives the notice) can readily deduce from the notice is a category of employee to which some or all of the affected employees belong, and
+>
+> (b) a “notified workplace” means—
+>
+> (i) a workplace that is listed in the notice, or
+>
+> (ii) where the notice contains the information mentioned in subsection (3C), a workplace that the employer (at the time he receives the notice) can readily deduce from the notice is the workplace at which some or all of the affected employees work.
+>
+> (5C) In this section references to the “affected employees” are references to those employees of the employer who the union reasonably believes will be induced by the union, or have been so induced, to take part or continue to take part in the industrial action.
+>
+> (5D) For the purposes of this section, the workplace at which an employee works is—
+>
+> (a) in relation to an employee who works at or from a single set of premises, those premises, and
+>
+> (b) in relation to any other employee, the premises with which his employment has the closest connection.
+
+(6) In subsection (8), after “, (5)” insert “ , (5C) ”.
+
+### [^F2]26 Dismissal where employees taking protected industrial action locked out
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F3]27 Date of dismissal
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F4]28 Dismissal after end of protected period
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Part 3 — Rights of trade union members, workers and employees
+
+### Inducements and detriments in respect of membership etc. of independent trade union
+
+#### 29 Inducements relating to union membership or activities
+
+After section 145 of the 1992 Act insert—
+
+> **Inducements**
+>
+> **145A Inducements relating to union membership or activities**
+>
+> (1) A worker has the right not to have an offer made to him by his employer for the sole or main purpose of inducing the worker—
+>
+> (a) not to be or seek to become a member of an independent trade union,
+>
+> (b) not to take part, at an appropriate time, in the activities of an independent trade union,
+>
+> (c) not to make use, at an appropriate time, of trade union services, or
+>
+> (d) to be or become a member of any trade union or of a particular trade union or of one of a number of particular trade unions.
+>
+> (2) In subsection (1) “an appropriate time” means—
+>
+> (a) a time outside the worker’s working hours, or
+>
+> (b) a time within his working hours at which, in accordance with arrangements agreed with or consent given by his employer, it is permissible for him to take part in the activities of a trade union or (as the case may be) make use of trade union services.
+>
+> (3) In subsection (2) “working hours”, in relation to a worker, means any time when, in accordance with his contract of employment (or other contract personally to do work or perform services), he is required to be at work.
+>
+> (4) In subsections (1) and (2)—
+>
+> (a) “trade union services” means services made available to the worker by an independent trade union by virtue of his membership of the union, and
+>
+> (b) references to a worker’s “making use” of trade union services include his consenting to the raising of a matter on his behalf by an independent trade union of which he is a member.
+>
+> (5) A worker or former worker may present a complaint to an employment tribunal on the ground that his employer has made him an offer in contravention of this section.
+>
+> **145B Inducements relating to collective bargaining**
+>
+> (1) A worker who is a member of an independent trade union which is recognised, or seeking to be recognised, by his employer has the right not to have an offer made to him by his employer if—
+>
+> (a) acceptance of the offer, together with other workers' acceptance of offers which the employer also makes to them, would have the prohibited result, and
+>
+> (b) the employer’s sole or main purpose in making the offers is to achieve that result.
+>
+> (2) The prohibited result is that the workers' terms of employment, or any of those terms, will not (or will no longer) be determined by collective agreement negotiated by or on behalf of the union.
+>
+> (3) It is immaterial for the purposes of subsection (1) whether the offers are made to the workers simultaneously.
+>
+> (4) Having terms of employment determined by collective agreement shall not be regarded for the purposes of section 145A (or section 146 or 152) as making use of a trade union service.
+>
+> (5) A worker or former worker may present a complaint to an employment tribunal on the ground that his employer has made him an offer in contravention of this section.
+>
+> **145C Time limit for proceedings**
+>
+> An employment tribunal shall not consider a complaint under section 145A or 145B unless it is presented—
+>
+> (a) before the end of the period of three months beginning with the date when the offer was made or, where the offer is part of a series of similar offers to the complainant, the date when the last of them was made, or
+>
+> (b) where the tribunal is satisfied that it was not reasonably practicable for the complaint to be presented before the end of that period, within such further period as it considers reasonable.
+>
+> **145D Consideration of complaint**
+>
+> (1) On a complaint under section 145A it shall be for the employer to show what was his sole or main purpose in making the offer.
+>
+> (2) On a complaint under section 145B it shall be for the employer to show what was his sole or main purpose in making the offers.
+>
+> (3) On a complaint under section 145A or 145B, in determining any question whether the employer made the offer (or offers) or the purpose for which he did so, no account shall be taken of any pressure which was exercised on him by calling, organising, procuring or financing a strike or other industrial action, or by threatening to do so; and that question shall be determined as if no such pressure had been exercised.
+>
+> (4) In determining whether an employer’s sole or main purpose in making offers was the purpose mentioned in section 145B(1), the matters taken into account must include any evidence—
+>
+> (a) that when the offers were made the employer had recently changed or sought to change, or did not wish to use, arrangements agreed with the union for collective bargaining,
+>
+> (b) that when the offers were made the employer did not wish to enter into arrangements proposed by the union for collective bargaining, or
+>
+> (c) that the offers were made only to particular workers, and were made with the sole or main purpose of rewarding those particular workers for their high level of performance or of retaining them because of their special value to the employer.
+>
+> **145E Remedies**
+>
+> (1) Subsections (2) and (3) apply where the employment tribunal finds that a complaint under section 145A or 145B is well-founded.
+>
+> (2) The tribunal—
+>
+> (a) shall make a declaration to that effect, and
+>
+> (b) shall make an award to be paid by the employer to the complainant in respect of the offer complained of.
+>
+> (3) The amount of the award shall be £2,500 (subject to any adjustment of the award that may fall to be made under Part 3 of the Employment Act 2002).
+>
+> (4) Where an offer made in contravention of section 145A or 145B is accepted—
+>
+> (a) if the acceptance results in the worker’s agreeing to vary his terms of employment, the employer cannot enforce the agreement to vary, or recover any sum paid or other asset transferred by him under the agreement to vary;
+>
+> (b) if as a result of the acceptance the worker’s terms of employment are varied, nothing in section 145A or 145B makes the variation unenforceable by either party.
+>
+> (5) Nothing in this section or sections 145A and 145B prejudices any right conferred by section 146 or 149.
+>
+> (6) In ascertaining any amount of compensation under section 149, no reduction shall be made on the ground—
+>
+> (a) that the complainant caused or contributed to his loss, or to the act or failure complained of, by accepting or not accepting an offer made in contravention of section 145A or 145B, or
+>
+> (b) that the complainant has received or is entitled to an award under this section.
+>
+> **145F Interpretation and other supplementary provisions**
+>
+> (1) References in sections 145A to 145E to being or becoming a member of a trade union include references—
+>
+> (a) to being or becoming a member of a particular branch or section of that union, and
+>
+> (b) to being or becoming a member of one of a number of particular branches or sections of that union.
+>
+> (2) References in those sections—
+>
+> (a) to taking part in the activities of a trade union, and
+>
+> (b) to services made available by a trade union by virtue of membership of the union,
+>
+> shall be construed in accordance with subsection (1).
+>
+> (3) In sections 145A to 145E—
+>
+> - “worker” means an individual who works, or normally works, as mentioned in paragraphs (a) to (c) of section 296(1), and
+>
+> - “employer” means—
+>
+>   - (a) in relation to a worker, the person for whom he works;
+>   - (b) in relation to a former worker, the person for whom he worked.
+>
+> (4) The remedy of a person for infringement of the right conferred on him by section 145A or 145B is by way of a complaint to an employment tribunal in accordance with this Part, and not otherwise.
+
+#### 30 Extension of protection against detriment for union membership etc.
+
+(1) Section 146 of the 1992 Act (action short of dismissal on grounds related to union membership or activities) is amended in accordance with subsections (2) to (6).
+
+(2) For “An employee” in each of subsections (1) and (3), and “an employee” in each of subsections (2) and (4), substitute “ A worker ” and “ a worker ” respectively.
+
+(3) In subsection (2)—
+
+(a) for “employee's” substitute “ worker's ”; and
+
+(b) after “contract of employment” insert “ (or other contract personally to do work or perform services) ”.
+
+(4) In subsection (3), for “his contract of employment” substitute “ a contract of employment ”.
+
+(5) In subsection (5), for “An employee” substitute “ A worker or former worker ”.
+
+(6) For subsection (6) substitute—
+
+> (5A) This section does not apply where—
+>
+> (a) the worker is an employee; and
+>
+> (b) the detriment in question amounts to dismissal.
+
+(7) In the sidenote to section 146 of the 1992 Act, and in the cross-heading immediately preceding it, for “Action short of dismissal” substitute “ Detriment ”.
+
+(8) In section 151 of the 1992 Act (interpretation of sections 146 to 150 and supplementary provision), after subsection (1A) (which is inserted by section 31) insert—
+
+> (1B) In sections 146 to 150—
+>
+> “worker” means an individual who works, or normally works, as mentioned in paragraphs (a) to (c) of section 296(1), and
+>
+> “employer” means—
+>
+> (a) in relation to a worker, the person for whom he works;
+>
+> (b) in relation to a former worker, the person for whom he worked.
+
+(9) In subsection (2) of that section, for “an employee” substitute “ a person ”.
+
+(10) In the sidenote to section 152 of the 1992 Act, and in the cross-heading immediately preceding it, after “Dismissal” insert “ of employee ”.
+
+#### 31 Detriment for use of union services or refusal of inducement
+
+(1) Section 146 of the 1992 Act (action short of dismissal on grounds related to union membership or activities) is also amended in accordance with subsections (2) to (4).
+
+(2) In subsection (1), omit “or” at the end of paragraph (b) and after that paragraph insert—
+
+> (ba) preventing or deterring him from making use of trade union services at an appropriate time, or penalising him for doing so, or
+
+.
+
+(3) In subsection (2)—
+
+(a) for “(1)(b)” substitute “ (1) ”; and
+
+(b) in paragraph (b), after “the activities of a trade union” insert “ or (as the case may be) make use of trade union services ”.
+
+(4) After subsection (2) insert—
+
+> (2A) In this section—
+>
+> (a) “trade union services” means services made available to the worker by an independent trade union by virtue of his membership of the union, and
+>
+> (b) references to a worker’s “making use” of trade union services include his consenting to the raising of a matter on his behalf by an independent trade union of which he is a member.
+>
+> (2B) If an independent trade union of which a worker is a member raises a matter on his behalf (with or without his consent), penalising the worker for that is to be treated as penalising him as mentioned in subsection (1)(ba).
+>
+> (2C) A worker also has the right not to be subjected to any detriment as an individual by any act, or any deliberate failure to act, by his employer if the act or failure takes place because of the worker’s failure to accept an offer made in contravention of section 145A or 145B.
+>
+> (2D) For the purposes of subsection (2C), not conferring a benefit that, if the offer had been accepted by the worker, would have been conferred on him under the resulting agreement shall be taken to be subjecting him to a detriment as an individual (and to be a deliberate failure to act).
+
+(5) In section 148 of the 1992 Act (consideration of complaint under section 146), omit subsections (3) to (5).
+
+(6) In section 151 of the 1992 Act, in subsection (1) (references in sections 146 to 150 to being etc. a member of a union to include being etc. a member of a branch or section) omit “; and references to taking part in the activities of a trade union shall be similarly construed”.
+
+(7) After that subsection insert—
+
+> (1A) References in those sections—
+>
+> (a) to taking part in the activities of a trade union, and
+>
+> (b) to services made available by a trade union by virtue of membership of the union,
+>
+> shall be construed in accordance with subsection (1).
+
+(8) Omit section 17 of the Employment Relations Act 1999 (c. 26) (which is superseded by this section and section 32).
+
+#### 32 Dismissal for use of union services or refusal of inducement
+
+(1) Section 152 of the 1992 Act (dismissal on grounds related to union membership or activities) is amended as follows.
+
+(2) In subsection (1), omit “or” at the end of each of paragraphs (a) and (b) and after paragraph (b) insert—
+
+> (ba) had made use, or proposed to make use, of trade union services at an appropriate time,
+>
+> (bb) had failed to accept an offer made in contravention of section 145A or 145B, or
+
+.
+
+(3) In subsection (2)—
+
+(a) for “(1)(b)” substitute “ (1) ”; and
+
+(b) in paragraph (b), after “the activities of a trade union” insert “ or (as the case may be) make use of trade union services ”.
+
+(4) After subsection (2) insert—
+
+> (2A) In this section—
+>
+> (a) “trade union services” means services made available to the employee by an independent trade union by virtue of his membership of the union, and
+>
+> (b) references to an employee’s “making use” of trade union services include his consenting to the raising of a matter on his behalf by an independent trade union of which he is a member.
+>
+> (2B) Where the reason or one of the reasons for the dismissal was that an independent trade union (with or without the employee’s consent) raised a matter on behalf of the employee as one of its members, the reason shall be treated as falling within subsection (1)(ba).
+
+(5) In subsection (4) (references to being etc. a member of a union to include being etc. a member of a branch or section) omit “; and references to taking part in the activities of a trade union shall be similarly construed”.
+
+(6) After that subsection add—
+
+> (5) References in this section—
+>
+> (a) to taking part in the activities of a trade union, and
+>
+> (b) to services made available by a trade union by virtue of membership of the union,
+>
+> shall be construed in accordance with subsection (4).
+
+### Exclusion and expulsion from trade unions
+
+#### 33 Exclusion or expulsion from trade union attributable to conduct
+
+(1) Section 174 of the 1992 Act (right not to be excluded or expelled from trade union) is amended as follows.
+
+(2) In subsection (2)(d) for “his conduct” substitute “ conduct of his (other than excluded conduct) and the conduct to which it is wholly or mainly attributable is not protected conduct ”.
+
+(3) For subsection (4) substitute—
+
+> (4) For the purposes of subsection (2)(d) “excluded conduct”, in relation to an individual, means—
+>
+> (a) conduct which consists in his being or ceasing to be, or having been or ceased to be, a member of another trade union,
+>
+> (b) conduct which consists in his being or ceasing to be, or having been or ceased to be, employed by a particular employer or at a particular place, or
+>
+> (c) conduct to which section 65 (conduct for which an individual may not be disciplined by a union) applies or would apply if the references in that section to the trade union which is relevant for the purposes of that section were references to any trade union.
+>
+> (4A) For the purposes of subsection (2)(d) “protected conduct” is conduct which consists in the individual’s being or ceasing to be, or having been or ceased to be, a member of a political party.
+>
+> (4B) Conduct which consists of activities undertaken by an individual as a member of a political party is not conduct falling within subsection (4A).
+
+(4) In section 176 of that Act (remedies for infringement of right not to be excluded or expelled), after subsection (1) insert—
+
+> (1A) If a tribunal makes a declaration under subsection (1) and it appears to the tribunal that the exclusion or expulsion was mainly attributable to conduct falling within section 174(4A) it shall make a declaration to that effect.
+>
+> (1B) If a tribunal makes a declaration under subsection (1A) and it appears to the tribunal that the other conduct to which the exclusion or expulsion was attributable consisted wholly or mainly of conduct of the complainant which was contrary to—
+>
+> (a) a rule of the union, or
+>
+> (b) an objective of the union,
+>
+> it shall make a declaration to that effect.
+>
+> (1C) For the purposes of subsection (1B), it is immaterial whether the complainant was a member of the union at the time of the conduct contrary to the rule or objective.
+>
+> (1D) A declaration by virtue of subsection (1B)(b) shall not be made unless the union shows that, at the time of the conduct of the complainant which was contrary to the objective in question, it was reasonably practicable for that objective to be ascertained—
+>
+> (a) if the complainant was not at that time a member of the union, by a member of the general public, and
+>
+> (b) if he was at that time a member of the union, by a member of the union.
+
+(5) In subsection (3)(a) of that section, after “declaration” insert “ under subsection (1) ”.
+
+(6) After subsection (6) of that section insert—
+
+> (6A) If on the date on which the application was made the applicant had not been admitted or re-admitted to the union, the award shall not be less than £5,900.
+>
+> (6B) Subsection (6A) does not apply in a case where the tribunal which made the declaration under subsection (1) also made declarations under subsections (1A) and (1B).
+
+(7) In sections 174 and 176 of the 1992 Act references to the conduct of an individual include references to conduct which took place before the coming into force of this section.
+
+#### 34 Applications no longer to be made to Employment Appeal Tribunal
+
+(1) Section 67 of the 1992 Act (compensation for infringement of right not to be unjustifiably disciplined) is amended in accordance with subsections (2) to (6).
+
+(2) In subsection (1) after “application” insert “ to an employment tribunal ”.
+
+(3) Omit subsections (2) and (4).
+
+(4) In subsections (5) and (7) omit “Employment Appeal Tribunal or”.
+
+(5) In subsection (8) omit the words after paragraph (b).
+
+(6) After that subsection insert—
+
+> (8A) If on the date on which the application was made—
+>
+> (a) the determination infringing the applicant’s right not to be unjustifiably disciplined has not been revoked, or
+>
+> (b) the union has failed to take all the steps necessary for securing the reversal of anything done for the purpose of giving effect to the determination,
+>
+> the amount of compensation shall be not less than the amount for the time being specified in section 176(6A).
+
+(7) Section 176 of the 1992 Act (remedies for exclusion or expulsion from trade union) is also amended in accordance with subsections (8) to (11).
+
+(8) In subsection (2)—
+
+(a) after “an application” insert “ to an employment tribunal ”; and
+
+(b) omit the second sentence.
+
+(9) In subsection (4) omit “or the Employment Appeal Tribunal”.
+
+(10) In subsection (5) omit “or Employment Appeal Tribunal”.
+
+(11) In subsection (6) omit the words after paragraph (b).
+
+### Other rights of workers and employees
+
+#### 35 Disapplication of qualifying period and upper age limit for unfair dismissal
+
+For section 154 of the 1992 Act substitute—
+
+> **154 Disapplication of qualifying period and upper age limit for unfair dismissal**
+>
+> Sections 108(1) and 109(1) of the Employment Rights Act 1996 (qualifying period and upper age limit for unfair dismissal protection) do not apply to a dismissal which by virtue of section 152 or 153 is regarded as unfair for the purposes of Part 10 of that Act.
+
+#### 36 National security: powers of employment tribunals
+
+For subsection (6) of section 10 of the Employment Tribunals Act 1996 (c. 17)(procedure regulations in relation to cases involving issues of national security) substitute—
+
+> (6) Employment tribunal procedure regulations may enable a tribunal, if it considers it expedient in the interests of national security, to do in relation to particular proceedings before it anything of a kind which, by virtue of subsection (5), employment tribunal procedure regulations may enable a Minister of the Crown to direct a tribunal to do in relation to particular Crown employment proceedings.
+
+#### 37 Role of companion at disciplinary or grievance hearing
+
+(1) For subsection (2) of section 10 of the Employment Relations Act 1999 (c. 26) duty of employers to permit workers to be accompanied at disciplinary and grievance hearings) substitute—
+
+> (2A) Where this section applies, the employer must permit the worker to be accompanied at the hearing by one companion who—
+>
+> (a) is chosen by the worker; and
+>
+> (b) is within subsection (3).
+>
+> (2B) The employer must permit the worker’s companion to—
+>
+> (a) address the hearing in order to do any or all of the following—
+>
+> (i) put the worker’s case;
+>
+> (ii) sum up that case;
+>
+> (iii) respond on the worker’s behalf to any view expressed at the hearing;
+>
+> (b) confer with the worker during the hearing.
+>
+> (2C) Subsection (2B) does not require the employer to permit the worker’s companion to—
+>
+> (a) answer questions on behalf of the worker;
+>
+> (b) address the hearing if the worker indicates at it that he does not wish his companion to do so; or
+>
+> (c) use the powers conferred by that subsection in a way that prevents the employer from explaining his case or prevents any other person at the hearing from making his contribution to it.
+
+(2) In section 11(1) of that Act (complaint to employment tribunal), for “10(2)” substitute “ 10(2A), (2B) ”.
+
+(3) In section 12 of that Act (right not to be subjected to a detriment or dismissal)—
+
+(a) in subsections (1)(a) and (3)(a) for “10(2)” substitute “ 10(2A), (2B) ”; and
+
+(b) after subsection (6) add—
+
+> (7) References in this section to a worker having accompanied or sought to accompany another worker include references to his having exercised or sought to exercise any of the powers conferred by section 10(2A) or (2B).
+
+#### 38 Extension of jurisdiction of Employment Appeal Tribunal
+
+In section 21(1) of the Employment Tribunals Act 1996 (c. 17) (proceedings from which appeal lies to Employment Appeal Tribunal), for paragraphs (ff) and (g) substitute—
+
+> (g) this Act,
+>
+> (ga) the National Minimum Wage Act 1998,
+>
+> (gb) the Employment Relations Act 1999,
+
+.
+
+#### 39 Ways in which provision conferring rights on individuals may be made
+
+(1) Section 23 of the Employment Relations Act 1999 (c. 26) (power to confer on individuals of a specified description rights conferred by certain enactments) is amended as follows.
+
+(2) In subsection (5) (ways in which that power may be exercised) omit the words from “, whether” to the end.
+
+(3) After that subsection insert—
+
+> (5A) The ways in which an order under this section may make provision include, in particular—
+>
+> (a) amending any enactment;
+>
+> (b) excluding or applying (whether with or without amendment) any enactment.
+>
+> (5B) In subsection (5A) “enactment” includes an enactment comprised in subordinate legislation made under an Act.
+
+#### 40 Protection of employees in respect of jury service
+
+(1) In Part 5 of the Employment Rights Act 1996 (c. 18) (protection from suffering detriment in employment), before section 44 (but after the cross-heading immediately preceding that section) insert—
+
+> **43M Jury service**
+>
+> (1) An employee has the right not to be subjected to any detriment by any act, or any deliberate failure to act, by his employer on the ground that the employee—
+>
+> (a) has been summoned under the Juries Act 1974, the Coroners Act 1988, the Court of Session Act 1988 or the Criminal Procedure (Scotland) Act 1995 to attend for service as a juror, or
+>
+> (b) has been absent from work because he attended at any place in pursuance of being so summoned.
+>
+> (2) This section does not apply where the detriment in question amounts to dismissal within the meaning of Part 10.
+>
+> (3) For the purposes of this section, an employee is not to be regarded as having been subjected to a detriment by a failure to pay remuneration in respect of a relevant period unless under his contract of employment he is entitled to be paid that remuneration.
+>
+> (4) In subsection (3) “a relevant period” means any period during which the employee is absent from work because of his attendance at any place in pursuance of being summoned as mentioned in subsection (1)(a).
+
+(2) In section 48(1) of that Act (application to employment tribunal), after “section” insert “ 43M, ”.
+
+(3) After section 98A of that Act insert—
+
+> **98B Jury service**
+>
+> (1) An employee who is dismissed shall be regarded for the purposes of this Part as unfairly dismissed if the reason (or, if more than one, the principal reason) for the dismissal is that the employee—
+>
+> (a) has been summoned under the Juries Act 1974, the Coroners Act 1988, the Court of Session Act 1988 or the Criminal Procedure (Scotland) Act 1995 to attend for service as a juror, or
+>
+> (b) has been absent from work because he attended at any place in pursuance of being so summoned.
+>
+> (2) Subsection (1) does not apply in relation to an employee who is dismissed if the employer shows—
+>
+> (a) that the circumstances were such that the employee’s absence in pursuance of being so summoned was likely to cause substantial injury to the employer’s undertaking,
+>
+> (b) that the employer brought those circumstances to the attention of the employee,
+>
+> (c) that the employee refused or failed to apply to the appropriate officer for excusal from or a deferral of the obligation to attend in pursuance of being so summoned, and
+>
+> (d) that the refusal or failure was not reasonable.
+>
+> (3) In paragraph (c) of subsection (2) “the appropriate officer” means—
+>
+> (a) in the case of a person who has been summoned under the Juries Act 1974, the officer designated for the purposes of section 8, 9 or, as the case may be, 9A of that Act;
+>
+> (b) in the case of a person who has been summoned under the Coroners Act 1988, a person who is the appropriate officer for the purposes of any rules made under subsection (1) of section 32 of that Act by virtue of subsection (2) of that section;
+>
+> (c) in the case of a person who has been summoned under the Court of Session Act 1988, either—
+>
+> (i) the clerk of court issuing the citation to attend for jury service; or
+>
+> (ii) the clerk of the court before which the person is cited to attend for jury service;
+>
+> (d) in the case of a person who has been summoned under the Criminal Procedure (Scotland) Act 1995, either—
+>
+> (i) the clerk of court issuing the citation to attend for jury service; or
+>
+> (ii) the clerk of the court before which the person has been cited to attend for jury service;
+>
+> and references in that paragraph to a refusal or failure to apply include references to a refusal or failure to give a notice under section 1(2)(b) of the Law Reform (Miscellaneous Provisions) (Scotland) Act 1980.
+
+(4) In section 105 of that Act (redundancy), for subsection (1)(c) substitute—
+
+> (c) it is shown that any of subsections (2A) to (7F) applies.
+
+(5) In that section, before subsection (3) insert—
+
+> (2A) This subsection applies if the reason (or, if more than one, the principal reason) for which the employee was selected for dismissal was one of those specified in subsection (1) of section 98B (unless the case is one to which subsection (2) of that section applies).
+
+(6) In section 108(3) of that Act (exceptions to one year qualifying period of continuous employment for claims of unfair dismissal), before paragraph (b) insert—
+
+> (aa) subsection (1) of section 98B (read with subsection (2) of that section) applies,
+
+.
+
+(7) In section 109(2) of that Act (exceptions to upper age limit for claims of unfair dismissal), before paragraph (b) insert—
+
+> (aa) subsection (1) of section 98B (read with subsection (2) of that section) applies,
+
+.
+
+(8) In section 237(1A)(a) of the 1992 Act (cases where employee may complain of unfair dismissal despite participation in unofficial industrial action)—
+
+(a) after “section” insert “ 98B, ”; and
+
+(b) after “(dismissal in” insert “ jury service, ”.
+
+(9) In section 238(2A)(a) of the 1992 Act (cases where employment tribunal to determine whether dismissal of an employee is unfair despite limitation in subsection (2) of that section)—
+
+(a) after “section” insert “ 98B, ”; and
+
+(b) after “(dismissal in” insert “ jury service, ”.
+
+#### 41 Flexible working
+
+(1) In section 237(1A)(a) of the 1992 Act (cases where employee may complain of unfair dismissal despite participation in unofficial industrial action)—
+
+(a) for “or 103A” substitute “ , 103A or 104C ”; and
+
+(b) for “and protected disclosure” substitute “ , protected disclosure and flexible working ”.
+
+(2) In section 238(2A)(a) of that Act (cases where employment tribunal to determine whether dismissal of an employee is unfair despite limitation in subsection (2) of that section)—
+
+(a) for “or 103” substitute “ , 103 or 104C ”; and
+
+(b) for “and employee representative” substitute “ , employee representative and flexible working ”.
+
+(3) In section 48(1) of the Employment Rights Act 1996 (c. 18) (complaints to employment tribunals), for “47D” substitute “ 47E ”.
+
+(4) After subsection (7B) of section 105 of that Act (redundancy) insert—
+
+> (7BA) This subsection applies if the reason (or, if more than one, the principal reason) for which the employee was selected for dismissal was one of those specified in section 104C.
+
+(5) In section 108(3) of that Act (exceptions to one year qualifying period of continuous employment for claims for unfair dismissal), after paragraph (gh) insert—
+
+> (gi) section 104C applies,
+
+.
+
+(6) In section 109(2) of that Act (exceptions to upper age limit for claims for unfair dismissal), after paragraph (gh) insert—
+
+> (gi) section 104C applies,
+
+.
+
+(7) In sections 194(2) and 195(2) of that Act (provisions of the Act which have effect in relation to employment as a member of the staff of the House of Lords or the House of Commons), in paragraph (c) for “and 47D” substitute “ , 47D and 47E ”.
+
+(8) In section 199(2) of that Act (provisions of the Act not applicable to share fishermen) for “47D” substitute “ 47E ”.
+
+#### 42 Information and consultation: Great Britain
+
+(1) The Secretary of State may make regulations for the purpose of conferring on employees of an employer to whom the regulations apply, or on representatives of those employees, rights—
+
+(a) to be informed by the employer about prescribed matters;
+
+(b) to be consulted by the employer about prescribed matters.
+
+(2) Regulations made under subsection (1) must make provision as to the employers to whom the regulations apply which may include provision—
+
+(a) applying the regulations by reference to factors including the number of employees in the United Kingdom in the employer’s undertaking;
+
+(b) as to the method by which the number of employees in an employer’s undertaking is to be calculated; and
+
+(c) applying the regulations to different descriptions of employer with effect from different dates.
+
+(3) Regulations made under subsection (1) may make provision—
+
+(a) as to the circumstances in which the rights mentioned in subsection (1) arise and the extent of those rights;
+
+(b) for and about the initiation and conduct of negotiations between employers to whom the regulations apply and their employees for the purposes of reaching an agreement satisfying prescribed conditions about the provision of information to the employees, and consultation of them (whether that provision or consultation is to be direct or through representatives);
+
+(c) about the representatives the employees may have for the purposes of the regulations and the method by which those representatives are to be selected;
+
+(d) as to the resolution of disputes and the enforcement of obligations imposed by the regulations or by an agreement of the kind mentioned in paragraph (b).
+
+(4) Regulations made under subsection (1) may—
+
+(a) confer jurisdiction (including exclusive jurisdiction) on employment tribunals and on the Employment Appeal Tribunal;
+
+(b) confer functions on the Central Arbitration Committee;
+
+(c) require or authorise the holding of ballots;
+
+(d) amend, apply with or without modifications, or make provision similar to any provision of the Employment Rights Act 1996 (c. 18) (including, in particular, Parts 5, 10 and 13), the Employment Tribunals Act 1996 (c. 17) or the 1992 Act;
+
+(e) include supplemental, incidental, consequential and transitional provision, including provision amending any enactment;
+
+(f) make different provision for different cases or circumstances.
+
+[^F5]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6) Nothing in subsections [[^F6](2) to (4)] prejudices the generality of this section.
+
+(7) Regulations under this section shall be made by statutory instrument.
+
+(8) No such regulations may be made unless a draft of the regulations has been laid before Parliament and approved by a resolution of each House of Parliament.
+
+(9) In this section “prescribed” means prescribed by regulations under this section.
+
+#### 43 Information and consultation: Northern Ireland
+
+(1) The Department for Employment and Learning may make regulations for the purpose of conferring on employees of an employer to whom the regulations apply, or on representatives of those employees, rights—
+
+(a) to be informed by the employer about prescribed matters;
+
+(b) to be consulted by the employer about prescribed matters.
+
+(2) Regulations made under subsection (1) must make provision as to the employers to whom the regulations apply which may include provision—
+
+(a) applying the regulations by reference to factors including the number of employees in the United Kingdom in the employer’s undertaking;
+
+(b) as to the method by which the number of employees in an employer’s undertaking is to be calculated; and
+
+(c) applying the regulations to different descriptions of employer with effect from different dates.
+
+(3) Regulations made under subsection (1) may make provision—
+
+(a) as to the circumstances in which the rights mentioned in subsection (1) arise and the extent of those rights;
+
+(b) for and about the initiation and conduct of negotiations between employers to whom the regulations apply and their employees for the purposes of reaching an agreement satisfying prescribed conditions about the provision of information to the employees, and consultation of them (whether that provision or consultation is to be direct or through representatives);
+
+(c) about the representatives the employees may have for the purposes of the regulations and the method by which those representatives are to be selected;
+
+(d) as to the resolution of disputes and the enforcement of obligations imposed by the regulations or by an agreement of the kind mentioned in paragraph (b).
+
+(4) Regulations made under subsection (1) may—
+
+(a) confer jurisdiction (including exclusive jurisdiction) on industrial tribunals and on the High Court;
+
+(b) confer functions on the Industrial Court;
+
+(c) require or authorise the holding of ballots;
+
+(d) amend, apply with or without modifications, or make provision similar to any provision of—
+
+(i) the Industrial Relations (Northern Ireland) Order 1992 (S.I. 1992/807 (N.I. 5));
+
+(ii) the Trade Union and Labour Relations (Northern Ireland) Order 1995 (S.I. 1995/1980 (N.I. 12));
+
+(iii) the Employment Rights (Northern Ireland) Order 1996 (S.I. 1996/1919 (N.I. 16))(including, in particular, Parts 6, 11 and 15); or
+
+(iv) the Industrial Tribunals (Northern Ireland) Order 1996 (S.I. 1996/1921 (N.I. 18));
+
+(e) include supplemental, incidental, consequential and transitional provision, including provision amending any enactment;
+
+(f) make different provision for different cases or circumstances.
+
+[^F7]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6) Nothing in subsections [[^F8](2) to (4)] prejudices the generality of this section.
+
+(7) Power to make regulations under this section is exercisable by statutory rule for the purposes of the Statutory Rules (Northern Ireland) Order 1979 (S.I. 1979/1573 (N.I. 12)).
+
+(8) No regulations under this section may be made unless a draft of the regulations has been laid before and approved by a resolution of the Northern Ireland Assembly.
+
+(9) In this section—
+
+- “enactment” includes—
+
+  - (a) a provision of an Act;
+  - (b) a provision of, or of any instrument made under, Northern Ireland legislation; and
+  - (c) a provision of subordinate legislation;
+
+- “the Industrial Court” means the Industrial Court constituted under Article 91 of the Industrial Relations (Northern Ireland) Order 1992 (S.I. 1992/807 (N.I. 5));
+
+- “industrial tribunals” has the meaning given by section 42(5) of the Interpretation Act (Northern Ireland) 1954 (c. 33 (N.I.)); and
+
+- “prescribed” means prescribed by regulations under this section.
+
+## Part 4 — Enforcement of minimum wage legislation
+
+### 44 Information supplied by worker and employer
+
+After section 16 of the National Minimum Wage Act 1998 (c. 39) insert—
+
+> **16A Disclosure of information by officers**
+>
+> (1) Subsection (2) applies to information obtained for the purposes of the relevant legislation by an enforcement officer so far as that information relates to an identifiable worker or agency worker.
+>
+> (2) In order to enable or assist him to act for the purposes of the relevant legislation, the enforcement officer may disclose all or any of the information to the worker or, as the case may be, agency worker concerned.
+>
+> (3) Subsection (4) applies to information obtained for the purposes of the relevant legislation by an enforcement officer so far as that information relates to an identifiable employer or person who is the agent or the principal for the purposes of section 34 below.
+>
+> (4) In order to enable or assist him to act for the purposes of the relevant legislation, the officer may disclose all or any of the information to the employer, the agent or, as the case may be, the principal concerned.
+>
+> (5) In this section—
+>
+> - “agency worker” shall be construed in accordance with section 34 below;
+>
+> - “enforcement officer” means—
+>
+>   - (a) an officer acting for the purposes of this Act, whether by virtue of paragraph (a) or (b) of section 13(1) above;
+>   - (b) an officer acting for the purposes of the Agricultural Wages Act 1948; or
+>   - (c) an officer acting for the purposes of the Agricultural Wages (Regulation) (Northern Ireland) Order 1977;
+>
+> - “the relevant legislation” means—
+>
+>   - (a) in relation to an enforcement officer acting for the purposes of this Act, this Act;
+>   - (b) in relation to an enforcement officer acting for the purposes of the Agricultural Wages Act 1948, that Act; and
+>   - (c) in relation to an enforcement officer acting for the purposes of the Agricultural Wages (Regulation) (Northern Ireland) Order 1977, that Order.
+
+### [^F9]45 Enforcement notices
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F10]46 Withdrawal and replacement of, and appeals against, notices
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F11]47 Enforcement officers for agricultural wages legislation
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Part 5 — The Certification Officer
+
+### 48 Striking out by Certification Officer of applications or complaints
+
+After section 256 of the 1992 Act, insert—
+
+> **256ZA Striking out**
+>
+> (1) At any stage of proceedings on an application or complaint made to the Certification Officer, he may—
+>
+> (a) order the application or complaint, or any response, to be struck out on the grounds that it is scandalous, vexatious, has no reasonable prospect of success or is otherwise misconceived,
+>
+> (b) order anything in the application or complaint, or in any response, to be amended or struck out on those grounds, or
+>
+> (c) order the application or complaint, or any response, to be struck out on the grounds that the manner in which the proceedings have been conducted by or on behalf of the applicant or complainant or (as the case may be) respondent has been scandalous, vexatious, or unreasonable.
+>
+> (2) The Certification Officer may order an application or complaint made to him to be struck out for excessive delay in proceeding with it.
+>
+> (3) An order under this section may be made on the Certification Officer’s own initiative and may also be made—
+>
+> (a) if the order sought is to strike out an application or complaint, or to amend or strike out anything in an application or complaint, on an application by the respondent, or
+>
+> (b) if the order sought is to strike out any response, or to amend or strike out anything in any response, on an application by the person who made the application or complaint mentioned in subsection (1).
+>
+> (4) Before making an order under this section, the Certification Officer shall send notice to the party against whom it is proposed that the order should be made giving him an opportunity to show cause why the order should not be made.
+>
+> (5) Subsection (4) shall not be taken to require the Certification Officer to send a notice under that subsection if the party against whom it is proposed that the order under this section should be made has been given an opportunity to show cause orally why the order should not be made.
+>
+> (6) Nothing in this section prevents the Certification Officer from making further provision under section 256(1) about the striking out of proceedings on any application or complaint made to him.
+>
+> (7) An appeal lies to the Employment Appeal Tribunal on any question of law arising from a decision of the Certification Officer under this section.
+>
+> (8) In this section—
+>
+> - “response” means any response made by a trade union or other body in the exercise of a right to be heard, or to make representations, in response to the application or complaint;
+> - “respondent” means any trade union, or other body, that has such a right.
+
+### 49 Restriction of proceedings orders: proceedings before Certification Officer
+
+(1) Section 33 of the Employment Tribunals Act 1996 (c. 17) (restriction of proceedings orders) is amended in accordance with subsections (2) to (7).
+
+(2) In subsection (1)(a), after “whether”, where it first occurs, insert “ before the Certification Officer, ”.
+
+(3) In subsection (1)(b), after “whether” insert “ before the Certification Officer, ”.
+
+(4) In subsection (2)(a), after “instituted” insert “ before the Certification Officer, ”.
+
+(5) In subsection (2)(b), after “him”, where it first occurs, insert “ before the Certification Officer, ”.
+
+(6) In subsection (2)(c), after “proceedings” insert “ before the Certification Officer, ”.
+
+(7) In subsection (4)—
+
+(a) after “proceedings”, where it first occurs, insert “ before the Certification Officer, ”; and
+
+(b) for “the process of the tribunal in question” substitute “ process ”.
+
+(8) In section 42 of that Act (interpretation), in subsection (1), after the definition of “appointed member” insert—
+
+> “Certification Officer” shall be construed in accordance with section 254 of the Trade Union and Labour Relations (Consolidation) Act 1992,
+
+.
+
+(9) In section 256A of the 1992 Act (power of Certification Officer to refuse to entertain applications and complaints made by vexatious litigants), in subsection (4) (definition of “vexatious litigant” for the purposes of that section) omit paragraph (a).
+
+### 50 Amalgamations: approval, listing and certification
+
+(1) In section 98 of the 1992 Act (approval of instrument of amalgamation or transfer) for subsection (2) substitute—
+
+> (2) If the Certification Officer is satisfied—
+>
+> (a) that an instrument of amalgamation complies with the requirements of any regulations in force under this Chapter, and
+>
+> (b) that he is not prevented from approving the instrument of amalgamation by subsection (3),
+>
+> he shall approve the instrument.
+>
+> (3) The Certification Officer shall not approve an instrument of amalgamation if it appears to him that the proposed name of the amalgamated union is the same as the name under which another organisation—
+>
+> (a) was on 30th September 1971 registered as a trade union under the Trade Union Acts 1871 to 1964,
+>
+> (b) was at any time registered as a trade union or employers' association under the Industrial Relations Act 1971, or
+>
+> (c) is for the time being entered in the list of trade unions or in the list of employers' associations,
+>
+> or if the proposed name is one so nearly resembling any such name as to be likely to deceive the public.
+>
+> (4) Subsection (3) does not apply if the proposed name is the name of one of the amalgamating unions.
+>
+> (5) If the Certification Officer is satisfied that an instrument of transfer complies with the requirements of any regulations in force under this Chapter, he shall approve the instrument.
+
+(2) After section 101 of that Act insert—
+
+> **101A Listing and certification after amalgamation**
+>
+> (1) Subsection (2) applies if when an instrument of amalgamation is registered by the Certification Officer under this Chapter each of the amalgamating unions is entered in the list of trade unions.
+>
+> (2) The Certification Officer shall—
+>
+> (a) enter, with effect from the amalgamation date, the name of the amalgamated union in the list of trade unions, and
+>
+> (b) remove, with effect from that date, the names of the amalgamating unions from that list.
+>
+> (3) Subsection (4) applies if when an instrument of amalgamation is registered by the Certification Officer under this Chapter each of the amalgamating unions has a certificate of independence which is in force.
+>
+> (4) The Certification Officer shall issue to the amalgamated trade union, with effect from the amalgamation date, a certificate that the union is independent.
+>
+> (5) In this section “the amalgamation date” means the date on which the instrument of amalgamation takes effect.
+>
+> **101B Supply of information by amalgamated union**
+>
+> (1) If an instrument of amalgamation is registered under this Chapter by the Certification Officer and the amalgamated union is entered in the list of trade unions in accordance with section 101A, that union shall send to him, in such manner and form as he may require—
+>
+> (a) a copy of the rules of the union,
+>
+> (b) a list of its officers, and
+>
+> (c) the address of its head or main office.
+>
+> (2) The information required to be sent under subsection (1) must be accompanied by any fee prescribed for the purpose under section 108.
+>
+> (3) The information must be sent—
+>
+> (a) before the end of the period of six weeks beginning with the date on which the instrument of amalgamation takes effect, or
+>
+> (b) if the Certification Officer considers that it is not reasonably practicable for the amalgamated union to send it in that period, before the end of such longer period, beginning with that date, as he may specify to the amalgamated union.
+>
+> (4) If any of subsections (1) to (3) are not complied with by the amalgamated union, the Certification Officer shall remove its name from the list of trade unions.
+
+(3) In section 133(2) of the 1992 Act (modifications of Chapter 7 of Part 1 in its application to amalgamations of unincorporated employers' associations)—
+
+(a) omit “and” at the end of paragraph (b) and after that paragraph insert—
+
+> (ba) as if the references in sections 101A and 101B to the list of trade unions were to the list of employers' associations, and
+
+; and
+
+(b) in paragraph (c), after “101(3)” insert “ , 101A(3) and (4) ”.
+
+(4) In section 298 of that Act (definitions for the purposes of the Act) at the appropriate place insert—
+
+> “certificate of independence” means a certificate issued under—
+>
+> (a) section 6(6), or
+>
+> (b) section 101A(4);
+
+(5) In section 299 of that Act (index of defined terms), at the appropriate place insert—
+
+> |  |  |
+> |---|---|
+> | certificate of independence | section 298. |
+
+(6) In each of paragraphs 6, 35(4)(a), 44(4)(a), 60(4), 134(1)(b) and 138 of Schedule A1 to that Act (requirements for union to be independent) for the words “under section 6 that it is independent” substitute “ of independence ”.
+
+### 51 Restriction of grounds of appeal from Certification Officer
+
+(1) In section 9 of the 1992 Act (appeal against decision of Certification Officer relating to the list of trade unions or a certificate of independence)—
+
+(a) at the end of each of subsections (1) and (2), insert “ on any appealable question ”;
+
+(b) omit subsection (3); and
+
+(c) in subsection (4), for “The rights of appeal conferred by this section extend to any question of fact or law” substitute “ For the purposes of this section, an appealable question is any question of law ”.
+
+(2) In section 126 of the 1992 Act (appeal against decision of Certification Officer relating to the list of employers' associations)—
+
+(a) at the end of subsection (1), insert “ on any appealable question ”;
+
+(b) omit subsection (2); and
+
+(c) in subsection (3), for “The right of appeal conferred by this section extend to any question of fact or law” substitute “ For the purposes of this section, an appealable question is any question of law ”.
+
+## Part 6 — Miscellaneous
+
+### 52 Additional case in which election for president of union not required
+
+(1) Section 46 of the 1992 Act (requirement to hold elections for certain positions in trade unions) is amended as follows.
+
+(2) In subsection (2), omit the words after paragraph (d).
+
+(3) After subsection (4) insert—
+
+> (4A) This Chapter also does not apply to the position of president if—
+>
+> (a) the holder of that position was elected or appointed to it in accordance with the rules of the union,
+>
+> (b) at the time of his election or appointment as president he held a position mentioned in paragraph (a), (b) or (d) of subsection (2) by virtue of having been elected to it at a qualifying election,
+>
+> (c) it is no more than five years since—
+>
+> (i) he was elected, or re-elected, to the position mentioned in paragraph (b) which he held at the time of his election or appointment as president, or
+>
+> (ii) he was elected to another position of a kind mentioned in that paragraph at a qualifying election held after his election or appointment as president of the union, and
+>
+> (d) he has, at all times since his election or appointment as president, held a position mentioned in paragraph (a), (b) or (d) of subsection (2) by virtue of having been elected to it at a qualifying election.
+
+(4) In subsection (5), at the beginning, insert “ In subsection (4) ”.
+
+(5) After subsection (5) insert—
+
+> (5A) In subsection (4A) “qualifying election” means an election satisfying the requirements of this Chapter.
+>
+> (5B) The “requirements of this Chapter” referred to in subsections (1) and (5A) are those set out in sections 47 to 52 below.
+
+### 53 Removal of rule preventing appointment of body corporate as auditor
+
+(1) In section 34(5) of the 1992 Act (persons not to act as auditor of a trade union), omit paragraph (c).
+
+(2) In section 36 of that Act (auditor’s report), after subsection (1) insert—
+
+> (1A) The report shall state the names of, and be signed by, the auditor or auditors.
+
+(3) After subsection (4) of that section add—
+
+> (5) Any reference in this section to signature by an auditor is, where the office of auditor is held by a body corporate or partnership, to signature in the name of the body corporate or partnership by an individual authorised to sign on its behalf.
+
+(4) In section 37 of that Act (rights of auditors), after subsection (3) add—
+
+> (4) In the case of an auditor which is a body corporate or partnership, its right to attend or be heard at a meeting is exercisable by an individual authorised by it to act as its representative at the meeting.
+
+### 54 Means of voting in ballots and elections
+
+(1) The Secretary of State may by order provide, in relation to any description of ballot or election authorised or required by the 1992 Act, that any ballot or election of that description is to be conducted by such one or more permissible means as the responsible person determines.
+
+(2) A “permissible means” is a means of voting that the order provides is permissible for that description of ballot or election.
+
+(3) “The responsible person” is a person specified, or of a description specified, by the order.
+
+(4) An order under this section may—
+
+(a) include provision about the determinations that may be made by the responsible person, including provision requiring specified factors to be taken into account, or specified criteria to be applied, in making a determination;
+
+(b) allow the determination of different means of voting for voters in different circumstances;
+
+(c) allow a determination to be such that voters have a choice of means of voting.
+
+(5) The means that an order specifies as permissible means must, in the case of any description of ballot or election, include (or consist of) postal voting.
+
+(6) An order under this section may—
+
+(a) include supplemental, incidental and consequential provisions;
+
+(b) make different provision for different cases or circumstances.
+
+(7) An order under this section may—
+
+(a) modify the provisions of the 1992 Act;
+
+(b) exclude or apply (with or without modifications) any provision of that Act;
+
+(c) make provision as respects any ballot or election conducted by specified means which is similar to any provision of that Act relating to ballots or elections.
+
+(8) The power to make an order under this section is exercisable by statutory instrument.
+
+(9) No order may be made under this section unless a draft of the order has been laid before Parliament and approved by a resolution of each House.
+
+(10) The Secretary of State shall not make an order under this section which provides that a means of voting is permissible for a description of ballot or election unless he considers—
+
+(a) that a ballot or election of that description conducted by that means could, if particular conditions were satisfied, meet the required standard; and
+
+(b) that, in relation to any ballot or election of that description held after the order comes into force, the responsible person will not be permitted to determine that that means must or may be used by any voters unless he has taken specified factors into account or applied specified criteria.
+
+(11) In specifying in an order under this section factors to be taken into account or criteria to be applied by the responsible person, the Secretary of State must have regard to the need for ballots and elections to meet the required standard.
+
+(12) For the purposes of subsections (10) and (11) a ballot or election meets “the required standard” if it is such that—
+
+(a) those entitled to vote have an opportunity to do so;
+
+(b) votes cast are secret;
+
+(c) the risk of any unfairness or malpractice is minimised.
+
+(13) In this section “specified” means specified in an order under this section.
+
+### 55 Provision of money for trade union modernisation
+
+(1) Before section 117 of the 1992 Act (and before the cross-heading immediately preceding that section) insert—
+
+> **Union modernisation**
+>
+> **116A Provision of money for union modernisation**
+>
+> (1) The Secretary of State may provide money to a trade union to enable or assist it to do any or all of the following—
+>
+> (a) improve the carrying out of any of its existing functions;
+>
+> (b) prepare to carry out any new function;
+>
+> (c) increase the range of services it offers to persons who are or may become members of it;
+>
+> (d) prepare for an amalgamation or the transfer of any or all of its engagements;
+>
+> (e) ballot its members (whether as a result of a requirement imposed by this Act or otherwise).
+>
+> (2) No money shall be provided to a trade union under this section unless at the time when the money is provided the union has a certificate of independence.
+>
+> (3) Money may be provided in such a way as the Secretary of State thinks fit (whether as grants or otherwise) and on such terms as he thinks fit (whether as to repayment or otherwise).
+>
+> (4) If money is provided to a trade union under this section, the terms on which it is so provided shall be deemed to include a prohibition (“a political fund prohibition”) on any of it being added to the political fund of the union.
+>
+> (5) If a political fund prohibition is contravened, the Secretary of State—
+>
+> (a) is entitled to recover from the trade union as a debt due to him an amount equal to the amount of money added to the union’s political fund in contravention of the prohibition (whether or not that money continues to form part of the political fund); and
+>
+> (b) must take such steps as are reasonably practicable to recover that amount.
+>
+> (6) An amount recoverable under subsection (5) is a liability of the trade union’s political fund.
+>
+> (7) Subsection (5) does not prevent money provided to a trade union under this section from being provided on terms containing further sanctions for a contravention of the political fund prohibition.
+
+(2) In section 118 of that Act (federated trade unions), after subsection (7) add—
+
+> (8) In the application of section 116A to a federated trade union, subsection (2) of that section shall be omitted.
+
+## Part 7 — Supplementary provisions
+
+### 56 Meaning of “the 1992 Act”
+
+In this Act “the 1992 Act” means the Trade Union and Labour Relations (Consolidation) Act 1992 (c. 52).
+
+### 57 Minor and consequential amendments and repeals
+
+(1) Schedule 1 (which makes minor and consequential amendments) has effect.
+
+(2) The enactments specified in Schedule 2 are hereby repealed to the extent specified there.
+
+### 58 Corresponding provision for Northern Ireland
+
+An Order in Council under paragraph 1(1) of the Schedule to the Northern Ireland Act 2000 (c. 1) (legislation for Northern Ireland during suspension of devolved government) which contains a statement that it is made only for purposes corresponding to those of this Act (other than sections 43 to 46)—
+
+(a) shall not be subject to paragraph 2 of that Schedule (affirmative resolution of both Houses of Parliament), but
+
+(b) shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+### 59 Citation, commencement and extent
+
+(1) This Act may be cited as the Employment Relations Act 2004.
+
+(2) This section and sections 42, 43, 56 and 58 shall come into force on the day on which this Act is passed.
+
+(3) The other provisions of this Act shall not come into force until such day as the Secretary of State may by order made by statutory instrument appoint, and different days may be appointed for different purposes.
+
+(4) An order under subsection (3) may contain such transitional provisions and savings as the Secretary of State considers necessary or expedient in connection with the coming into force of any of the provisions of this Act.
+
+(5) Subject to subsections (6) and (7), this Act extends to England and Wales and to Scotland.
+
+(6) Any amendment by this Act of an enactment (including an enactment contained in Northern Ireland legislation) has the same extent as the enactment amended.
+
+(7) Sections 43 and 58 extend to Northern Ireland only.
+
+## SCHEDULE 1 — Minor and consequential amendments
+
+*Section 57(1)*
+
+### Agricultural Wages Act 1948
+
+**[^F12]1** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Agricultural Wages (Regulation) (Northern Ireland) Order 1977
+
+**2** In Article 11A of the Agricultural Wages (Regulation) (Northern Ireland) Order 1977 (S.I. 1977/2151 (N.I. 22)) (disclosure of information obtained by officers acting for the purposes of the 1998 Act), after paragraph (5) add—
+
+> (6) Nothing in this Article prevents a disclosure in accordance with section 16A of the National Minimum Wage Act 1998.
+
+### The 1992 Act
+
+**3** In section 19 of the 1992 Act (application of certain provisions relating to friendly societies to trade unions), omit subsection (4).
+
+**4** In section 41(3) of the 1992 Act (date of next re-examination of superannuation scheme where exemption revoked by Certification Officer), for “(1)(b)” substitute “ (2) ”.
+
+**5** In section 54(3) of the 1992 Act (time limit for applications under section 55 or 56 of that Act), for “No such application” substitute “ Where an election has been held, no application under those sections with respect to that election ”.
+
+**6** In section 82 of the 1992 Act (rules as to a union’s political fund), for subsection (4) substitute—
+
+> (4A) Where an order has been made under this section, any person who is a member of the union and was a member at the time it was made is entitled to enforce obedience to the order as if he had made the complaint on which it was made.
+>
+> (4B) An order made by the Certification Officer under this section may be enforced—
+>
+> (a) in England and Wales, in the same way as an order of the county court;
+>
+> (b) in Scotland, in the same way as an order of the sheriff.
+
+**7** In section 103 of the 1992 Act (complaints as regards passing of resolution on amalgamation or transfer of engagements), in subsection (8), for “application” substitute “ complaint ”.
+
+**8** In section 146 of the 1992 Act (action short of dismissal on grounds related to union membership or activities), in each of subsections (1), (3) and (4), for “the purpose” substitute “ the sole or main purpose ”.
+
+**9** In section 148 of the 1992 Act (consideration of complaint), in subsection (1), for “the purpose” substitute “ what was the sole or main purpose ”.
+
+**10** In section 150 of the 1992 Act (awards against third parties), in subsection (1)(a), for “the purpose” substitute “ the sole or main purpose ”.
+
+**11** (1) Section 155 of the 1992 Act (matters to be disregarded in assessing contributory fault) is amended as follows.
+
+(2) In subsection (2), omit the word “or” at the end of paragraph (b) and at the end of paragraph (c) insert
+
+> , or
+>
+> (d) not to make use of services made available by any trade union or by a particular trade union or by one of a number of particular trade unions.
+
+(3) After that subsection insert—
+
+> (2A) Conduct or action of the complainant shall be disregarded in so far as it constitutes acceptance of or failure to accept an offer made in contravention of section 145A or 145B.
+
+**12** In section 161(3) of the 1992 Act (application for interim relief), for “section 152(1)(a) or (b)” substitute “ section 152(1)(a), (b) or (ba), or on section 152(1)(bb) otherwise than in relation to an offer made in contravention of section 145A(1)(d), ”.
+
+**[^F13]13** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F14]14** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**15** In section 263A of the 1992 Act (proceedings of the Central Arbitration Committee under Schedule A1), after subsection (7) add—
+
+> (8) The reference in subsection (1) to the Committee’s functions under Schedule A1 does not include a reference to its functions under paragraph 166 of that Schedule.
+
+**16** (1) Section 284 of the 1992 Act (share fishermen) is amended as follows.
+
+(2) After “the employee” insert “ (or, in the case of sections 145A to 151, the worker) ”.
+
+(3) For “sections 146 to 151 (action short of dismissal)” substitute “ sections 145A to 151 (inducements and detriment) ”.
+
+**17** (1) Section 285 of the 1992 Act (employment outside Great Britain) is amended as follows.
+
+(2) In subsection (1), for “sections 146 to 151 (action short of dismissal)” substitute “ sections 145A to 151 (inducements and detriment) ”.
+
+(3) After that subsection insert—
+
+> (1A) Sections 145A to 151 do not apply to employment where under his contract personally to do work or perform services a worker who is not an employee works outside Great Britain.
+
+(4) In subsection (2)—
+
+(a) for “subsection (1)” substitute “ subsections (1) and (1A) ”; and
+
+(b) in paragraph (c), after “as the case may be,” insert “ the worker or ”.
+
+**18** In section 286(1) of the 1992 Act (provisions that may be disapplied in relation to prescribed descriptions of employment), for “sections 146 to 151 (action short of dismissal)” substitute “ sections 145A to 151 (inducements and detriment) ”.
+
+**19** In section 288(1)(b) of the 1992 Act (provisions restricting rights to bring proceedings to be void), omit sub-paragraph (ii) and the word “or” immediately preceding it.
+
+**20** (1) Section 292 of the 1992 Act (death of employee or employer) is amended as follows.
+
+(2) Omit subsection (1)(a).
+
+(3) After subsection (1) insert—
+
+> (1A) This section also has effect in relation to sections 145A to 151 so far as those sections confer rights on workers or make provision in connection therewith.
+
+(4) In subsections (2) to (4), after “employee”, wherever occurring, insert “ or worker ”.
+
+(5) In subsection (4), after “subsection (1)” insert “ or (1A) ”.
+
+**21** In section 296 of the 1992 Act (meaning of “worker” and related expressions), in subsection (3), for “section 68(11)” substitute “ sections 68(4), 145F(3) and 151(1B) ”.
+
+**22** In section 299 of the 1992 Act (index of defined expressions), omit the entry relating to “place of work (in Part V)”.
+
+**23** (1) Schedule A1 to the 1992 Act (union recognition) is amended as follows.
+
+(2) In paragraph 2 (interpretation of Part 1), after sub-paragraph (3) insert—
+
+> (3A) References to an appropriate bargaining unit’s being decided by the CAC are to a bargaining unit’s being decided by the CAC to be appropriate under paragraph 19(2) or (3) or 19A(2) or (3).
+
+(3) In paragraph 16(1) (point after which application may not be withdrawn), in paragraph (a), after “paragraph” insert “ 19F(5) or ”.
+
+(4) In paragraph 17(3) (final event before which notice to cease consideration of application may be given)—
+
+(a) in paragraph (a), after “paragraph” insert “ 19F(5) or ”; and
+
+(b) in the words after paragraph (b), for “24(5)” substitute “ 24(6) ”.
+
+(5) In each of paragraphs 20(1)(b) and 21(1)(b) (application of paragraphs 20 and 21), after “appropriate period” insert “ (defined by paragraph 18) ”.
+
+(6) In paragraph 28 (costs of a recognition ballot), after sub-paragraph (6) insert—
+
+> (6A) Where an amount is recoverable from a union under sub-paragraph (6) execution may be carried out, to the same extent and in the same manner as if the union were a body corporate, against any property held in trust for the union other than protected property as defined in section 23(2).
+
+(7) In paragraph 32 (procedure where method of collective bargaining not carried out), in sub-paragraph (2), for “parties” substitute “ employer or the union (or unions) ”.
+
+(8) In paragraph 37 (applications by more than one union under paragraph 11 or 12), in sub-paragraph (3)(b), for “11(4)” substitute “ 12(4) ”.
+
+(9) In paragraph 38 (admissibility of other relevant applications), in sub-paragraph (1)(d), for “22(2), 27(2),” substitute “ 19F(5), 22(2), 27(2), 27D(3), 27D(4), ”.
+
+(10) In paragraph 40 (bar on further application after declaration by the CAC of non-entitlement to recognition), in sub-paragraph (1)—
+
+(a) after “under paragraph” insert “ 27D(4) or ”; and
+
+(b) for “held” substitute “ arranged ”.
+
+(11) In paragraph 41 (bar on further application after declaration by the CAC of end of bargaining arrangements), in sub-paragraph (1)—
+
+(a) after “under paragraph” insert “ 119D(4), 119H(5) or ”; and
+
+(b) for “held” substitute “ arranged ”.
+
+(12) In paragraph 46 (invalidity of application where worker falls within another relevant bargaining unit), in sub-paragraph (1)(d), for “22(2), 27(2),” substitute “ 19F(5), 22(2), 27(2), 27D(3), 27D(4), ”.
+
+(13) In paragraph 48 (invalidity of application after declaration by the CAC of non-entitlement to recognition), in sub-paragraph (1)—
+
+(a) after “under paragraph” insert “ 27D(4) or ”; and
+
+(b) for “held” substitute “ arranged ”.
+
+(14) In paragraph 49 (invalidity of application after declaration by the CAC of end of bargaining arrangements), in sub-paragraph (1)—
+
+(a) after “under paragraph” insert “ 119D(4), 119H(5) or ”; and
+
+(b) for “held” substitute “ arranged ”.
+
+(15) In paragraph 51 (competing applications), in sub-paragraph (2)(b), after “19” insert “ or 19A ”.
+
+(16) In paragraph 52 (agreements for recognition), in sub-paragraph (3)—
+
+(a) in paragraph (f), after “paragraph”, where it first occurs, insert “ 19F(5) or ”; and
+
+(b) in paragraph (h), for “24(5)” substitute “ 24(6) ”.
+
+(17) In paragraph 83 (duties of the CAC where it decides new unit contains at least one worker falling within a statutory outside bargaining unit), in sub-paragraph (8), for “(1)(a)” substitute “ (2)(a) ”.
+
+(18) In paragraph 89(5) (application of paragraphs 26 to 29), for the words from “but as if” onwards substitute
+
+> but as if—
+>
+> (a) references to the bargaining unit were references to the new unit, and
+>
+> (b) paragraph 26(4F) to (4H), and the references in paragraph 26(4) and (6) to paragraph 19D, were omitted.
+
+(19) In paragraph 89(8) (effect of declaration of entitlement to recognition), after “27(2)” insert “ or 27D(3) ”.
+
+(20) In paragraph 89, after sub-paragraph (8) add—
+
+> (9) Paragraphs (a) and (b) of sub-paragraph (7) also apply if the CAC issues a declaration under paragraph 27D(4).
+
+(21) In paragraph 93 (withdrawal of applications), in sub-paragraph (1)(c), for “83(1)” substitute “ 83(2) ”.
+
+(22) In paragraph 119 (remedial orders) omit sub-paragraph (3).
+
+(23) In paragraph 120 (costs of a derecognition ballot), after sub-paragraph (6) insert—
+
+> (6A) Where an amount is recoverable from a union under sub-paragraph (6) execution may be carried out, to the same extent and in the same manner as if the union were a body corporate, against any property held in trust for the union other than protected property as defined in section 23(2).
+
+(24) In paragraph 122(1) (first case in which Part 5 applies), in paragraph (a), for “22(2)” substitute “ 19F(5), 22(2), 27(2) or 27D(3) ”.
+
+(25) In paragraph 123(1) (second case in which Part 5 applies), in paragraph (a), for “22(2)” substitute “ 19F(5), 22(2), 27(2) or 27D(3) ”.
+
+(26) In paragraph 133(2) (ballot on de-recognition under Part 5 of that Schedule)—
+
+(a) in paragraph (a), for “reference in paragraph 119(2)(a)” substitute “ references in paragraphs 119(2)(a) and 119D(3) ”; and
+
+(b) in paragraph (b), for “reference in paragraph 121(4)” substitute “ references in paragraphs 119A(3)(a)(ii), 119E(1)(b) and 121(4) ”.
+
+(27) In paragraph 147(2) (ballot on de-recognition under Part 6 of that Schedule)—
+
+(a) in paragraph (a), for “reference in paragraph 119(3)(a)” substitute “ references in paragraphs 119H(1) and 119I(1)(a) ”; and
+
+(b) in paragraph (b), for “reference in paragraph 121(4)” substitute “ references in paragraphs 119A(3)(a)(ii), 119E(1)(b) and 121(4) ”.
+
+### Employment Tribunals Act 1996
+
+**24** In section 10(1) of the Employment Tribunals Act 1996 (c. 17) (action taken for purpose of safeguarding national security), for paragraph (a) substitute—
+
+> (a) section 145A, 145B or 146 of the Trade Union and Labour Relations (Consolidation) Act 1992 (inducements and detriments in respect of trade union membership etc.),
+
+.
+
+**25** In section 18 of that Act (conciliation), in subsection (1)(b), after “138,” insert “ 145A, 145B, ”.
+
+**26** In section 30(2) of that Act (matters which may be included in procedural rules for Employment Appeal Tribunal) omit paragraph (e).
+
+**27** In section 36 of that Act (enforcement of decisions of Employment Appeal Tribunal) omit subsections (1) to (3).
+
+### Employment Rights Act 1996
+
+**28** In section 92 of the Employment Rights Act 1996 (c. 18) (right to written statement of reasons for dismissal), in subsection (6), for paragraph (c) substitute—
+
+> (c) in relation to an employee who is employed under a limited-term contract which terminates by virtue of the limiting event without being renewed under the same contract, means the date on which the termination takes effect.
+
+**29** In section 95(1) of that Act (circumstances in which employee is dismissed), omit “and section 96”.
+
+**30** In section 98(6)(b) of that Act (provisions to which provision about determination of fairness of dismissal is subject), for “and 238” substitute “ , 238 and 238A ”.
+
+**31** In section 104(4)(c) of that Act (assertion of statutory right), after “86,” insert “ 145A, 145B, ”.
+
+**32** In section 108(3) of that Act (exceptions to one year qualifying period of continuous employment for claims for unfair dismissal), for paragraph (b) substitute—
+
+> (b) subsection (1) of section 99 (read with any regulations made under that section) applies,
+
+.
+
+**33** In section 109(2) of that Act (exceptions to upper age limit for claims for unfair dismissal), for paragraph (b) substitute—
+
+> (b) subsection (1) of section 99 (read with any regulations made under that section) applies,
+
+.
+
+**34** (1) Section 191 of that Act (application to the Crown) is amended as follows.
+
+(2) In subsection (4), omit the word “and” at the end of paragraph (d) and after that paragraph insert—
+
+> (da) the reference in section 98B(2)(a) to the employer’s undertaking shall be construed as a reference to the national interest, and
+
+.
+
+(3) In that subsection, in paragraph (e), for “references”, where it first occurs, substitute “ any other reference ”.
+
+**35** In subsection (2) of section 192 of that Act (provisions applicable to service as a member of the armed forces on the commencement of that section)—
+
+(a) in paragraph (aa), after “sections”, where it first occurs, insert “ 43M, ”; and
+
+(b) in paragraph (e), after “sections” insert “ 98B(2) and (3), ”.
+
+**36** (1) Section 194 of that Act (provisions of the Act which have effect in relation to employment as a member of the staff of the House of Lords) is amended as follows.
+
+(2) In subsection (2), in paragraph (c), after “sections”, where it first occurs, insert “ 43M, ”.
+
+(3) After that subsection insert—
+
+> (2A) For the purposes of the application of section 98B(2) in relation to a relevant member of the House of Lords staff, the reference to the employer’s undertaking shall be construed as a reference to the national interest or, if the case so requires, the interests of the House of Lords.
+
+(4) In subsection (3) for “the provisions” substitute “ the other provisions ”.
+
+**37** (1) Section 195 of that Act (provisions of the Act which have effect in relation to employment as a member of the staff of the House of Commons) is amended as follows.
+
+(2) In subsection (2), in paragraph (c), after “sections”, where it first occurs, insert “ 43M, ”.
+
+(3) After that subsection insert—
+
+> (2A) For the purposes of the application of section 98B(2) in relation to a relevant member of the House of Commons staff, the reference to the employer’s undertaking shall be construed as a reference to the national interest or, if the case so requires, the interests of the House of Commons.
+
+(4) In subsection (3)(d), after “undertaking” insert “ (other than in section 98B) ”.
+
+**38** In section 200 of that Act (application of certain provisions of the Act to police officers), in subsection (1), after “sections”, in the second place where it occurs, insert “ 43M, ”.
+
+**39** (1) Section 202 of that Act (restrictions on disclosure of information: national security) is amended as follows.
+
+(2) In subsection (2)(b), after “sections”, where it first occurs, insert “ 43M, ”.
+
+(3) In subsection (2)(g)—
+
+(a) in sub-paragraph (i), after “section”, where it first occurs, insert “ 98B, ”; and
+
+(b) in sub-paragraph (ii), for “(2),” substitute “ (2A), ”.
+
+### National Minimum Wage Act 1998
+
+**[^F15]40** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F16]41** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Employment Relations Act 1999
+
+**42** (1) Section 34 of the Employment Relations Act 1999 (c. 26) (indexation of amounts) is amended as follows.
+
+(2) In subsection (1), for paragraph (f) substitute—
+
+> (ea) section 145E(3) of the Trade Union and Labour Relations (Consolidation) Act 1992 (unlawful inducements: amount of award);
+>
+> (f) section 156(1) of that Act (unfair dismissal: minimum basic award);
+
+.
+
+(3) In subsection (1)(g), for “176(6)” substitute “ 176(6A) ”.
+
+(4) In subsection (3)(b), after “(c),” insert “ (ea), ”.
+
+### Employment Act 2002
+
+**43** In each of Schedules 3, 4 and 5 to the Employment Act 2002 (c. 22) (tribunal jurisdictions to which sections 31, 32 and 38 apply), for the entry relating to section 146 of the 1992 Act substitute— “ Section 145A of the Trade Union and Labour Relations (Consolidation) Act 1992 (inducements relating to union membership or activities) Section 145B of that Act (inducements relating to collective bargaining) Section 146 of that Act (detriment in relation to union membership and activities) ”.
+
+## SCHEDULE 2 — Repeals
+
+*Section 57(2)*
+
+|  |  |
+|---|---|
+| *Short title and chapter* | *Extent of repeal* |
+| Agricultural Wages Act 1948 (c. 47) | Section 12(1) and (2). |
+| Trade Union and Labour Relations (Consolidation) Act 1992 (c. 52) | Section 9(3). Section 19(4). Section 34(5)(c). In section 46(2), the words after paragraph (d). In section 62, the word “and” at the end of subsection (2)(b). In section 67, subsections (2) and (4), in subsections (5) and (7) the words “Employment Appeal Tribunal or” and in subsection (8) the words after paragraph (b). Section 126(2). In section 133, the word “and” at the end of subsection (2)(b). In section 146, the word “or” at the end of subsection (1)(b). In section 148, subsections (3) to (5). In section 151(1), the words from “; and references” to the end. In section 152, in subsection (1), the word “or” at the end of each of paragraphs (a) and (b) and, in subsection (4), the words from “; and references” to the end. In section 155, the word “or” at the end of subsection (2)(b). In section 176, in subsection (2) the second sentence, in subsection (4) the words “or the Employment Appeal Tribunal”, in subsection (5) the words “or Employment Appeal Tribunal” and in subsection (6) the words after paragraph (b). In section 226A, subsections (3) to (3B). In section 234A(3), paragraph (c) and the word “and” immediately preceding it. Section 256A(4)(a). In section 288(1)(b), sub-paragraph (ii) and the word “or” immediately preceding it. Section 292(1)(a). In section 299, the entry relating to “place of work (in Part V)”. In Schedule A1, paragraphs 101(4) and (5), 109(2)(a), 113(2)(a), 119(3) and 130(2)(a). |
+| Employment Tribunals Act 1996 (c. 17) | Section 30(2)(e). Section 36(1) to (3). |
+| Employment Rights Act 1996 (c. 18) | In section 95(1), the words “and section 96”. In section 191, the word “and” at the end of subsection (4)(d). |
+| Employment Relations Act 1999 (c. 26) | Section 17. In section 23(5) the words from “, whether” to the end. |
+| Employment Act 2002 (c. 22) | Section 41. |
+
+---
+
+[^F1]: S. 24(2) omitted (1.3.2017) by Trade Union Act 2016 (c. 15), s. 25(1), Sch. 4 para. 21(c); S.I. 2017/139, reg. 2(n)(iii)
+[^F2]: S. 26 omitted (18.2.2026) by virtue of Employment Rights Act 2025 (c. 36), ss. 77(5)(a), 159(3); S.I. 2026/3, reg. 3(8) (with Sch. 2 para. 11)
+[^F3]: S. 27 omitted (18.2.2026) by virtue of Employment Rights Act 2025 (c. 36), ss. 77(5)(b), 159(3); S.I. 2026/3, reg. 3(8) (with Sch. 2 para. 11)
+[^F4]: S. 28 omitted (18.2.2026) by virtue of Employment Rights Act 2025 (c. 36), ss. 77(5)(c), 159(3); S.I. 2026/3, reg. 3(8) (with Sch. 2 para. 11)
+[^F5]: S. 42(5) omitted (31.12.2020) by virtue of The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535), reg. 1(1), Sch. 1 para. 6(a) (with Sch. 1 para. 22); 2020 c. 1, Sch. 5 para. 1(1)
+[^F6]: Words in s. 42(6) substituted (31.12.2020) by The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535), reg. 1(1), Sch. 1 para. 6(b) (with Sch. 1 para. 22); 2020 c. 1, Sch. 5 para. 1(1)
+[^F7]: S. 43(5) omitted (31.12.2020) by virtue of The Employment Rights (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/537), reg. 1(1), Sch. para. 4(2) (with Sch. para. 11); 2020 c. 1, Sch. 5 para. 1(1)
+[^F8]: Words in s. 43(6) substituted (31.12.2020) by The Employment Rights (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/537), reg. 1(1), Sch. para. 4(3) (with Sch. para. 11); 2020 c. 1, Sch. 5 para. 1(1)
+[^F9]: S. 45 repealed (6.4.2009) by Employment Act 2008 (c. 24), s. 22(1)(a), Sch. Pt. 2; S.I. 2009/603, art. 2 (with art. 3 Sch.)
+[^F10]: S. 46 repealed (6.4.2009) by Employment Act 2008 (c. 24), s. 22(1)(a), Sch. Pt. 2; S.I. 2009/603, art. 2 (with art. 3 Sch.)
+[^F11]: S. 47 repealed (1.10.2013 for E.) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 20 para. 2; S.I. 2013/1455, art. 3(b), Sch. 2 (with art. 4(2)(4)) (as amended (7.9.2013) by S.I. 2013/2271, art. 2)
+[^F12]: Sch. 1 para. 1 repealed (1.10.2013 for E.) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 20 para. 2; S.I. 2013/1455, art. 3(b), Sch. 2 (with art. 4(2)(4)) (as amended (7.9.2013) by S.I. 2013/2271, art. 2)
+[^F13]: Sch. 1 para. 13 omitted (18.2.2026) by virtue of Employment Rights Act 2025 (c. 36), ss. 77(5)(d), 159(3); S.I. 2026/3, reg. 3(8) (with Sch. 2 para. 11)
+[^F14]: Sch. 1 para. 14 omitted (1.3.2017) by Trade Union Act 2016 (c. 15), s. 25(1), Sch. 4 para. 21(c); S.I. 2017/139, reg. 2(n)(iii)
+[^F15]: Sch. 1 para. 40 omitted (7.4.2026) by virtue of Employment Rights Act 2025 (c. 36), s. 159(3), Sch. 10 para. 75 (with s. 147 Sch. 11); S.I. 2026/323, reg. 4(1)(55)(e)
+[^F16]: Sch. 1 para. 41 omitted (7.4.2026) by virtue of Employment Rights Act 2025 (c. 36), s. 159(3), Sch. 10 para. 75 (with s. 147 Sch. 11); S.I. 2026/323, reg. 4(1)(55)(e)

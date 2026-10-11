@@ -1,0 +1,1038 @@
+---
+title: "Disability Rights Commission Act 1999"
+identifier: "ukpga/1999/17"
+citation: "1999 c.17"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S+N.I."
+date: 1999-07-27
+last_amended: 2007-10-01
+version: revised
+status: repealed
+source: "https://www.legislation.gov.uk/ukpga/1999/17"
+source_modified: 2016-08-11
+retrieved: 2026-10-11
+---
+
+# Disability Rights Commission Act 1999
+
+**1999 c.17**
+
+[^F1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 1 The Disability Rights Commission.
+
+(1) There shall be a body known as the Disability Rights Commission (referred to in this Act as “the Commission”).
+
+(2) The Secretary of State shall pay to the Commission such sums as he thinks fit to enable it to meet its expenses.
+
+(3) Schedule 1 (the Commission’s constitution and related matters) has effect.
+
+(4) [^F2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 2 General functions.
+
+(1) The Commission shall have the following duties—
+
+(a) to work towards the elimination of discrimination against [[^F3]and harassment of] disabled persons;
+
+(b) to promote the equalisation of opportunities for disabled persons;
+
+(c) to take such steps as it considers appropriate with a view to encouraging good practice in the treatment of disabled persons; and
+
+(d) to keep under review the working of the [^M1]Disability Discrimination Act 1995 (referred to in this Act as “the 1995 Act”) and this Act.
+
+(2) The Commission may, for any purpose connected with the performance of its functions—
+
+(a) make proposals or give other advice to any Minister of the Crown as to any aspect of the law or a proposed change to the law;
+
+(b) make proposals or give other advice to any Government agency or other public authority as to the practical application of any law;
+
+(c) undertake, or arrange for or support (whether financially or otherwise), the carrying out of research or the provision of advice or information.
+
+Nothing in this subsection is to be regarded as limiting the Commission’s powers.
+
+(3) The Commission shall make proposals or give other advice under subsection (2)(a) on any matter specified in a request from a Minister of the Crown.
+
+(4) The Commission may make charges for facilities or services made available by it for any purpose.
+
+(5) In this section—
+
+- “disabled persons” includes persons who have had a disability;
+- “discrimination” means anything which is discrimination for the purposes of any provision of [[^F4];Part 2, 3 or 4] of the 1995 Act; and
+- [[^F5]“harassment” means anything which is harassment for the purposes of any provision of Part 2 [[^F6], 3 or 4] of the 1995 Act;]
+- “the law” includes Community law and the international obligations of the United Kingdom.
+
+## 3 Formal investigations.
+
+(1) The Commission may decide to conduct a formal investigation for any purpose connected with the performance of its duties under section 2(1).
+
+(2) The Commission shall conduct a formal investigation if directed to do so by the Secretary of State for any such purpose.
+
+(3) The Commission may at any time decide to stop or to suspend the conduct of a formal investigation; but any such decision requires the approval of the Secretary of State if the investigation is being conducted in pursuance of a direction under subsection (2).
+
+(4) The Commission may, as respects any formal investigation which it has decided or been directed to conduct—
+
+(a) nominate one or more commissioners, with or without one or more additional commissioners appointed for the purposes of the investigation, to conduct the investigation on its behalf; and
+
+(b) authorise those persons to exercise such of its functions in relation to the investigation (which may include drawing up or revising terms of reference) as it may determine.
+
+(5) Schedule 2 (appointment and tenure of office of additional commissioners) and Schedule 3 (so far as relating to the conduct of formal investigations) have effect.
+
+## 4 Non-discrimination notices.
+
+(1) If in the course of a formal investigation the Commission is satisfied that a person has committed or is committing an unlawful act, it may serve on him a notice (referred to in this Act as a non-discrimination notice) which—
+
+(a) gives details of the unlawful act which the Commission has found that he has committed or is committing; and
+
+(b) requires him not to commit any further unlawful acts of the same kind (and, if the finding is that he is committing an unlawful act, to cease doing so).
+
+(2) The notice may include recommendations to the person concerned as to action which the Commission considers he could reasonably be expected to take with a view to complying with the requirement mentioned in subsection (1)(b).
+
+(3) The notice may require the person concerned—
+
+(a) to propose an adequate action plan (subject to and in accordance with Part III of Schedule 3) with a view to securing compliance with the requirement mentioned in subsection (1)(b); and
+
+(b) once an action plan proposed by him has become final, to take any action which—
+
+(i) is specified in the plan; and
+
+(ii) he has not already taken,
+
+at the time or times specified in the plan.
+
+(4) For the purposes of subsection (3)—
+
+(a) an action plan is a document drawn up by the person concerned specifying action (including action he has already taken) intended to change anything in his practices, policies, procedures or other arrangements which—
+
+(i) caused or contributed to the commission of the unlawful act concerned; or
+
+(ii) is liable to cause or contribute to a failure to comply with the requirement mentioned in subsection (1)(b); and
+
+(b) an action plan is adequate if the action specified in it would be sufficient to ensure, within a reasonable time, that he is not prevented from complying with that requirement by anything in his practices, policies, procedures or other arrangements;
+
+and the action specified in an action plan may include ceasing an activity or taking continuing action over a period.
+
+(5) In this section “unlawful act” means an act which is unlawful [^F7]. . . for the purposes of any provision of [[^F8]Part 2, 3 or 4] of the 1995 Act or any other unlawful act of a description prescribed for the purposes of this section.
+
+(6) Schedule 3 (so far as relating to non-discrimination notices and action plans) has effect.
+
+## 5 Agreements in lieu of enforcement action.
+
+(1) If the Commission has reason to believe that a person has committed or is committing an unlawful act, it may (subject to section 3(3)) enter into an agreement in writing under this section with that person on the assumption that that belief is well founded (whether or not that person admits that he committed or is committing the act in question).
+
+(2) An agreement under this section is one by which—
+
+(a) the Commission undertakes not to take any relevant enforcement action in relation to the unlawful act in question; and
+
+(b) the person concerned undertakes—
+
+(i) not to commit any further unlawful acts of the same kind (and, where appropriate, to cease committing the unlawful act in question); and
+
+(ii) to take such action (which may include ceasing an activity or taking continuing action over any period) as may be specified in the agreement.
+
+(3) Those undertakings are binding on the parties to the agreement; but undertakings under subsection (2)(b) are enforceable by the Commission only as provided by subsection (8).
+
+(4) For the purposes of subsection (2)(a), “relevant enforcement action” means—
+
+(a) beginning a formal investigation into the commission by the person concerned of the unlawful act in question;
+
+(b) if such an investigation has begun (whether or not the investigation is confined to that matter), taking any further steps in the investigation of that matter; and
+
+(c) taking any steps, or further steps, with a view to the issue of a non-discrimination notice based on the commission of the unlawful act in question.
+
+(5) The action specified in an undertaking under subsection (2)(b)(ii) must be action intended to change anything in the practices, policies, procedures or other arrangements of the person concerned which—
+
+(a) caused or contributed to the commission of the unlawful act in question; or
+
+(b) is liable to cause or contribute to a failure to comply with his undertaking under subsection (2)(b)(i).
+
+(6) An agreement under this section—
+
+(a) may include terms providing for incidental or supplementary matters (including the termination of the agreement, or the right of either party to terminate it, in certain circumstances); and
+
+(b) may be varied or revoked by agreement of the parties.
+
+(7) An agreement under this section may not include any provisions other than terms mentioned in subsections (2) and (6)(a) unless their inclusion is authorised by regulations made by the Secretary of State for the purposes of this section; but any provisions so authorised are not enforceable by the Commission under subsection (8).
+
+(8) The Commission may apply to a county court or by summary application to the sheriff for an order under this subsection if—
+
+(a) the other party to an agreement under this section has failed to comply with any undertaking under subsection (2)(b); or
+
+(b) the Commission has reasonable cause to believe that he intends not to comply with any such undertaking.
+
+(9) An order under subsection (8) is an order requiring the other party to comply with the undertaking or with such directions for the same purpose as are contained in the order.
+
+(10) Nothing in this section affects the Commission’s powers to settle or compromise legal proceedings of any description.
+
+(11) In this section “unlawful act” means an act which is unlawful [^F9]. . . for the purposes of any provision of [[^F10]Part 2, 3 or 4] of the 1995 Act or any other unlawful act of a description prescribed for the purposes of this section.
+
+(12) Schedule 3 (so far as relating to agreements under this section) has effect.
+
+## 6 Persistent discrimination.
+
+(1) This section applies during the period of five years beginning on the date on which—
+
+(a) a non-discrimination notice served on a person,
+
+[[^F11](b) a finding in proceedings under [[^F12]section 17A], 25, 28I, 28K, 28L, 28N or 28V of the 1995 Act [[^F13], or in proceedings under provision made under section 31AE of that Act,] that a person has committed an act which is unlawful discrimination for the purposes of any provision of Part 2, [[^F14];3 or 4] of that Act, or
+
+(c) a finding by a court or tribunal in any other proceedings that a person has committed an unlawful act of a description prescribed under subsection (4),]
+
+has become final.
+
+(2) If during that period it appears to the Commission that unless restrained the person concerned is likely to do one or more unlawful acts, the Commission may apply to a county court for an injunction, or to the sheriff for interdict, restraining him from doing so.
+
+(3) The court, if satisfied that the application is well-founded, may grant the injunction or interdict in the terms applied for or in more limited terms.
+
+(4) In this section “unlawful act” means an act which is unlawful discrimination [[^F15]or harassment] for the purposes of any provision of [[^F16];Part 2, 3 or 4] of the 1995 Act or any other unlawful act of a description prescribed for the purposes of this section.
+
+(5) A finding [[^F17]of a court or tribunal] becomes final for the purposes of this section when an appeal against it is dismissed, withdrawn or abandoned or when the time for appealing expires without an appeal having been brought.
+
+## 7 Assistance in relation to proceedings.
+
+(1) This section applies to—
+
+(a) proceedings which an individual has brought or proposes to bring under [[^F18]section 17A][[^F19], 25, 28I, 28K, 28L, 28N or 28V] of the 1995 Act ([[^F20]or under provision made under section 31AE of that Act] complaints and claims about unlawful discrimination [[^F21]or harassment] under Parts II [[^F19]to 4]); and
+
+[[^F22](aa) proceedings of any description to the extent that the question whether it is unreasonable for a landlord to withhold consent to the making of a relevant improvement to a dwelling house falls to be considered in the proceedings;]
+
+[[^F23](ab) proceedings in Scotland of any description to the extent that the question whether—
+
+(i) it is unreasonable for a landlord to withhold consent to the carrying out of work in relation to a house (within the meaning of the Housing (Scotland) Act 2006 (asp 01)) in Scotland for the purpose of making the house suitable for the accommodation, welfare or employment of any disabled person who occupies, or intends to occupy, the house as a sole or main residence, or
+
+(ii) any condition imposed by a landlord on consenting to the carrying out of any such work is unreasonable,
+
+falls to be considered in the proceedings,]
+
+(b) proceedings of a description prescribed for the purposes of this subsection, being proceedings in which an individual who has or has had a disability relies or proposes to rely on a matter relating to that disability.
+
+(2) Where the individual concerned applies to the Commission for assistance in relation to any proceedings to which this section applies, the Commission may grant the application on any of the following grounds—
+
+(a) that the case raises a question of principle;
+
+(b) that it is unreasonable to expect the applicant to deal with the case unaided (because of its complexity, because of the applicant’s position in relation to another party or for some other reason);
+
+(c) that there is some other special consideration which makes it appropriate for the Commission to provide assistance.
+
+(3) If the Commission grants an application, it may—
+
+(a) provide or arrange for the provision of legal advice;
+
+(b) arrange for legal or other representation (which may include any assistance usually given by a solicitor or counsel);
+
+(c) seek to procure the settlement of any dispute;
+
+(d) provide or arrange for the provision of any other assistance which it thinks appropriate.
+
+(4) Subsection (3)(b) does not affect the law and practice as to who may represent a person in relation to any proceedings.
+
+[[^F24](4A) A relevant improvement is an improvement (within the meaning of section 49G(9) of the 1995 Act) to premises which, having regard to the disability which a disabled person who lawfully occupies or is intended lawfully to occupy the premises has, is likely to facilitate his enjoyment of the premises.]
+
+(5) The Commission may authorise any employee of the Commission to exercise such of its functions under this section as it may determine.
+
+## 8 Recovery of expenses of providing assistance.
+
+(1) This section applies where—
+
+(a) the Commission has given an individual assistance under section 7 in relation to any proceedings; and
+
+(b) any costs or expenses (however described) have become payable to him by another person in respect of the matter in connection with which the assistance is given.
+
+(2) A sum equal to any expenses incurred by the Commission in providing the assistance shall be a first charge for the benefit of the Commission on the costs or expenses concerned.
+
+(3) It is immaterial for the purposes of this section whether the costs or expenses concerned are payable by virtue of a decision of a court or tribunal, an agreement arrived at to avoid proceedings or to bring them to an end, or otherwise.
+
+(4) The charge created by this section is subject to—
+
+(a) any charge [[^F25]imposed by section 10(7) of the Access to Justice Act 1999 and any provision in, or made under, Part I of that Act for the payment of any sum to the Legal Services Commission]; and
+
+(b) any charge or obligation for payment in priority to other debts under the [^M2]Legal Aid (Scotland) Act 1986 and any provision in that Act for payment of any sum into the Scottish Legal Aid Fund.
+
+(5) Provision may be made by regulations made by the Secretary of State for the determination of the expenses of the Commission in cases where this section applies.
+
+## 9 Codes of practice.
+
+(1) The following section shall be inserted at the beginning of Part VII of the 1995 Act (supplemental)—
+
+> **53A Codes of practice.**
+>
+> (1) The Disability Rights Commission may prepare and issue codes of practice giving practical guidance—
+>
+> (a) to employers, service providers or other persons to whom provisions of Part II or Part III apply on how to avoid discrimination or on any other matter relating to the operation of those provisions in relation to them; or
+>
+> (b) to any persons on any other matter, with a view to—
+>
+> (i) promoting the equalisation of opportunities for disabled persons and persons who have had a disability, or
+>
+> (ii) encouraging good practice regarding the treatment of such persons,
+>
+> in any field of activity regulated by any provision of Part II or Part III.
+>
+> (2) The Commission shall, when requested to do so by the Secretary of State, prepare a code of practice dealing with the matters specified in the request.
+>
+> (3) In preparing a code of practice the Commission shall carry out such consultations as it considers appropriate (which shall include the publication for public consultation of proposals relating to the code).
+>
+> (4) The Commission may not issue a code of practice unless—
+>
+> (a) a draft of it has been submitted to and approved by the Secretary of State and laid by him before both Houses of Parliament; and
+>
+> (b) the 40 day period has elapsed without either House resolving not to approve the draft.
+>
+> (5) If the Secretary of State does not approve a draft code of practice submitted to him he shall give the Commission a written statement of his reasons.
+>
+> (6) A code of practice issued by the Commission—
+>
+> (a) shall come into effect on such day as the Secretary of State may by order appoint;
+>
+> (b) may be revised in whole or part, and re-issued, by the Commission; and
+>
+> (c) may be revoked by an order made by the Secretary of State at the request of the Commission.
+>
+> (7) Where the Commission proposes to revise a code of practice—
+>
+> (a) it shall comply with subsection (3) in relation to the revisions; and
+>
+> (b) the other provisions of this section apply to the revised code of practice as they apply to a new code of practice.
+>
+> (8) Failure to observe any provision of a code of practice does not of itself make a person liable to any proceedings, but any provision of a code which appears to a court or tribunal to be relevant to any question arising in any proceedings under Part II or Part III shall be taken into account in determining that question.
+>
+> (9) In this section—
+>
+> - “code of practice” means a code of practice under this section;
+> - “discrimination” means anything which is unlawful discrimination for the purposes of any provision of Part II or Part III; and
+> - “40 day period” has the same meaning in relation to a draft code of practice as it has in section 3 in relation to draft guidance.
+
+(2) The Commission may treat any consultation undertaken by the National Disability Council under section 52(2) of the 1995 Act as being as effective for the purposes of section 53A(3) of that Act as if it had been undertaken by the Commission.
+
+(3) Nothing in this section affects the Commission’s powers apart from this section to give practical guidance on matters connected with its functions.
+
+## 10 Conciliation of disputes under Part III of the 1995 Act.
+
+For section 28 of the 1995 Act (arrangements by the Secretary of State with a view to the settlement of disputes under Part III) there shall be substituted the following section—
+
+> **28 Conciliation of disputes.**
+>
+> (1) The Commission may make arrangements with any other person for the provision of conciliation services by, or by persons appointed by, that person in relation to disputes arising under this Part.
+>
+> (2) In deciding what arrangements (if any) to make, the Commission shall have regard to the desirability of securing, so far as reasonably practicable, that conciliation services are available for all disputes arising under this Part which the parties may wish to refer to conciliation.
+>
+> (3) No member or employee of the Commission may provide conciliation services in relation to disputes arising under this Part.
+>
+> (4) The Commission shall ensure that any arrangements under this section include appropriate safeguards to prevent the disclosure to members or employees of the Commission of information obtained by a person in connection with the provision of conciliation services in pursuance of the arrangements.
+>
+> (5) Subsection (4) does not apply to information relating to a dispute which is disclosed with the consent of the parties to that dispute.
+>
+> (6) Subsection (4) does not apply to information which—
+>
+> (a) is not identifiable with a particular dispute or a particular person; and
+>
+> (b) is reasonably required by the Commission for the purpose of monitoring the operation of the arrangements concerned.
+>
+> (7) Anything communicated to a person while providing conciliation services in pursuance of any arrangements under this section is not admissible in evidence in any proceedings except with the consent of the person who communicated it to that person.
+>
+> (8) In this section “conciliation services” means advice and assistance provided by a conciliator to the parties to a dispute with a view to promoting its settlement otherwise than through the courts.
+
+## 11 Procedure for amending s.7(1) of the 1995 Act.
+
+[^F26]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 12 Regulations.
+
+(1) Any power under this Act to make regulations is exercisable by statutory instrument.
+
+(2) Any such regulations may make—
+
+(a) different provision for different cases or areas;
+
+(b) provision enabling a person to exercise a discretion in dealing with any matter; and
+
+(c) incidental, supplemental, consequential or transitional provision.
+
+(3) A statutory instrument containing any such regulations shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+## 13 Interpretation.
+
+(1) In this Act—
+
+- “Commission” means the Disability Rights Commission;
+- “final”, in relation to a non-discrimination notice, has the meaning given by paragraph 11 of Schedule 3;
+- “formal investigation” means an investigation under section 3;
+- “non-discrimination notice” means a notice under section 4;
+- “notice” means notice in writing;
+- “prescribed” means prescribed in regulations made by the Secretary of State; and
+- “the 1995 Act” means the [^M3]Disability Discrimination Act 1995.
+
+(2) Expressions used in this Act which are defined for the purposes of the 1995 Act have the same meaning in this Act as in that Act.
+
+## 14 Consequential amendments and repeals.
+
+(1) Schedule 4 (minor and consequential amendments) has effect.
+
+(2) The enactments mentioned in Schedule 5 are repealed to the extent specified.
+
+## 15 Crown application.
+
+This Act binds the Crown (but does not affect Her Majesty in her private capacity or in right of Her Duchy of Lancaster or the Duke of Cornwall).
+
+## 16 Short title, commencement and extent.
+
+(1) This Act may be cited as the Disability Rights Commission Act 1999.
+
+(2) This Act (apart from this section) shall come into force on such day as the Secretary of State may by order made by statutory instrument appoint; and different days may be appointed for different purposes.
+
+(3) An order under subsection (2) may contain transitional provisions and savings relating to the provisions brought into force by the order.
+
+[[^F27](3A) Section 7(1)(aa) and (4A) extend only to England and Wales.]
+
+(4) The following provisions extend to Northern Ireland—
+
+(a) section 14(1), in relation to paragraphs 1, 2 and 4 of Schedule 4; and
+
+(b) section 14(2), in relation to the repeal of words in the [^M4]House of Commons Disqualification Act 1975, the [^M5]Northern Ireland Assembly Disqualification Act 1975 and section 70(7) of the 1995 Act.
+
+(5) Except as mentioned in subsection (4), this Act does not extend to Northern Ireland.
+
+## SCHEDULE 1 — Constitution etc
+
+*Section 1(3).*
+
+### Status
+
+**1** (1) The Commission is a body corporate.
+
+(2) The Commission is not the servant or agent of the Crown, it does not enjoy any status, immunity or privilege of the Crown and its property is not to be regarded as property of or as held on behalf of the Crown.
+
+### Membership
+
+**2** (1) The Commission shall consist of not less than 10 and not more than 15 commissioners appointed by the Secretary of State.
+
+[[^F28](1) One of the commissioners shall be a person who appears to the Secretary of State to have special knowledge of Scotland.]
+
+(2) The Secretary of State may appoint as a commissioner a person who is not disabled and has not had a disability only if satisfied that after the appointment more than half of the commissioners will be disabled persons or persons who have had a disability.
+
+(3) Sub-paragraph (2) shall not apply in respect of the first three appointments under this paragraph.
+
+### Tenure of office of commissioners
+
+**3** (1) A commissioner shall hold and vacate office in accordance with the terms of his appointment.
+
+(2) A person shall not be appointed a commissioner for less than two or more than five years; but a person who has served as a commissioner may be reappointed.
+
+**4** A commissioner may resign by notice in writing to the Secretary of State.
+
+**5** The Secretary of State may terminate the appointment of a commissioner if satisfied that—
+
+(a) without the consent of the chairman he has failed to attend meetings of the Commission during a continuous period of six months beginning not earlier than nine months before the termination;
+
+(b) he has become bankrupt, has had his estate sequestrated or has made a composition or arrangement with, or granted a trust deed for, his creditors; or
+
+(c) he is otherwise unable or unfit to carry out his functions as a commissioner.
+
+### Tenure of office of chairman and deputy chairmen
+
+**6** (1) The Secretary of State shall appoint one commissioner as chairman of the Commission and either one or two other commissioners as deputy chairmen.
+
+(2) The Secretary of State shall exercise his powers of appointment under this paragraph with a view to securing that at least one of the persons holding office as chairman or deputy chairman is a disabled person or a person who has had a disability.
+
+**7** A person appointed as chairman or deputy chairman—
+
+(a) shall hold and vacate that office in accordance with the terms of his appointment,
+
+(b) may resign that office by notice in writing to the Secretary of State, and
+
+(c) shall cease to hold that office if he ceases to be a commissioner.
+
+### Remuneration, pensions etc. of commissioners
+
+**8** The Commission may—
+
+(a) pay to any commissioner such remuneration or expenses; and
+
+(b) pay, or make provision for the payment of, such sums by way of pensions, allowances or gratuities to or in respect of any commissioner,
+
+as the Secretary of State may determine.
+
+**9** If the Secretary of State determines that there are special circumstances which make it right that a person who has ceased to be a commissioner should receive compensation, the Secretary of State may direct the Commission to pay that person such sum by way of compensation as the Secretary of State may determine.
+
+### Staff
+
+**10** (1) The Commission shall have—
+
+(a) a chief executive appointed by the Commission, subject to the approval of the Secretary of State; and
+
+(b) such other employees as the Commission may appoint, subject to the approval of the Secretary of State as to numbers and terms and conditions of service.
+
+(2) The first appointment of a chief executive shall be made by the Secretary of State.
+
+**11** (1) Employment with the Commission shall be included among the kinds of employment to which a scheme under section 1 of the [^M6]Superannuation Act 1972 may apply, and accordingly in Schedule 1 to that Act (in which those kinds of employment are listed) at the end of the list of Royal Commissions and other Commissions there shall be inserted—
+
+> Disability Rights Commission.
+
+(2) The Commission shall pay to the Minister for the Civil Service, at such times as he may direct, such sums as he may determine in respect of the increase attributable to sub-paragraph (1) in the sums payable out of money provided by Parliament under that Act.
+
+### Proceedings etc.
+
+**12** (1) The Commission may regulate its own procedure (including quorum).
+
+(2) The quorum for meetings of the Commission shall in the first instance be determined by a meeting of the Commission attended by at least five commissioners.
+
+**13** The validity of any proceedings of the Commission is not affected by a vacancy among the commissioners or by a defect in the appointment of a commissioner.
+
+### Delegation
+
+**14** (1) The Commission may authorise any committee of the Commission or any commissioner to exercise such of its functions (other than functions relating to the conduct of a formal investigation) as it may determine.
+
+(2) This paragraph does not affect any power of the Commission to authorise its employees to do anything on its behalf.
+
+### Accounts
+
+**15** (1) The Commission shall—
+
+(a) keep proper accounts and proper records in relation to the accounts,
+
+(b) prepare a statement of accounts in respect of each accounting year, and
+
+(c) send copies of the statement to the Secretary of State and the Comptroller and Auditor General not later than the 31st August following the end of the accounting year to which it relates.
+
+(2) The Comptroller and Auditor General shall examine, certify and report on the statement of accounts and shall lay copies of the statement and of his report before each House of Parliament.
+
+(3) The Commission’s accounting year is the twelve months ending with 31st March.
+
+(4) The Commission’s first accounting year shall be the period of not more than 12 months beginning with the Commission’s establishment and ending with 31st March.
+
+### Annual reports
+
+**16** (1) As soon as practicable after the end of each accounting year the Commission shall submit to the Secretary of State a report on its activities during that year.
+
+(2) The report shall include (among other things)—
+
+(a) a report on anything done by the Commission, in the performance of its functions under section 2(1)(a) to (c), jointly or otherwise in co-operation with any other organisation;
+
+(b) a general survey of developments in matters within the scope of the Commission’s functions; and
+
+(c) proposals for the Commission’s activities in the current year.
+
+(3) The Secretary of State shall lay a copy of the report before Parliament and arrange for such further publication of it as he considers appropriate.
+
+### List of consultees
+
+**17** (1) The Commission shall maintain a list of the organisations it has consulted generally for the purposes of any of its functions.
+
+(2) An organisation may be removed from the list if it has not been consulted generally in the 12 months preceding its removal.
+
+(3) For the purposes of sub-paragraphs (1) and (2), consultation is general unless it relates only—
+
+(a) to an investigation to which paragraph 3 of Schedule 3 applies,
+
+(b) to assistance under section 7, or
+
+(c) otherwise to a particular individual or individuals.
+
+(4) The Commission shall make the list available to the public in whatever way it considers appropriate (subject to any charge it may impose).
+
+## SCHEDULE 2 — Additional commissioners
+
+*Section 3(5).*
+
+**1** (1) The Commission may, with the approval of the Secretary of State, appoint one or more individuals as additional commissioners for the purposes of a formal investigation.
+
+(2) An additional commissioner is not the servant or agent of the Crown.
+
+**2** (1) An additional commissioner shall hold and vacate office in accordance with the terms of his appointment (and may be re-appointed).
+
+(2) The Commission may not alter the terms of appointment of an additional commissioner except with his consent and the approval of the Secretary of State.
+
+**3** The Commission may—
+
+(a) pay such remuneration or expenses to any additional commissioner as the Secretary of State may determine, and
+
+(b) pay, or make provision for the payment of, such sums by way of pensions, allowances or gratuities to or in respect of any additional commissioner as the Secretary of State may determine.
+
+**4** (1) An additional commissioner may resign by notice in writing to the Commission.
+
+(2) The Commission may, with the approval of the Secretary of State, terminate the appointment of an additional commissioner if satisfied that—
+
+(a) without reasonable excuse he has failed to carry out his duties during a continuous period of three months beginning not earlier than six months before the termination;
+
+(b) he has become bankrupt, has had his estate sequestrated or has made a composition or arrangement with, or granted a trust deed for, his creditors; or
+
+(c) he is otherwise unable or unfit to carry out his duties.
+
+(3) The appointment of an additional commissioner shall otherwise terminate at the conclusion of the investigation for which he was appointed.
+
+**5** If the Secretary of State determines that there are special circumstances which make it right that a person who has ceased to be an additional commissioner should receive compensation, the Secretary of State may direct the Commission to pay that person such sum by way of compensation as the Secretary of State may determine.
+
+## SCHEDULE 3 — Formal investigations and non-discrimination notices
+
+*Sections 3(5), 4(6) and 5(12).*
+
+### Part I — Conduct of formal investigations
+
+#### Introductory
+
+**1** (1) This Part of this Schedule applies to a formal investigation which the Commission has decided or has been directed to conduct.
+
+(2) Any subsequent action required or authorised by this Part of this Schedule (or by Part IV of this Schedule) to be taken by the Commission in relation to the conduct of a formal investigation may be taken, so far as they are authorised to do so, by persons nominated under section 3(4) for the purposes of the investigation.
+
+#### Terms of reference and preliminary notices
+
+**2** (1) The Commission shall not take any steps in the conduct of a formal investigation until—
+
+(a) terms of reference for the investigation have been drawn up; and
+
+(b) notice of the holding of the investigation and the terms of reference has been served or published as required by sub-paragraph (3) or (4).
+
+(2) The terms of reference for the investigation shall be drawn up (and may be revised)—
+
+(a) if the investigation is held at the direction of the Secretary of State, by the Secretary of State after consulting the Commission; and
+
+(b) in any other case, by the Commission.
+
+(3) Where the terms of reference confine the investigation to activities of one or more named persons, notice of the holding of the investigation and the terms of reference shall be served on each of those persons.
+
+(4) Where the terms of reference do not confine the investigation to activities of one or more named persons, notice of the holding of the investigation and the terms of reference shall be published in such manner as appears to the Commission appropriate to bring it to the attention of persons likely to be affected by it.
+
+(5) If the terms of reference are revised, this paragraph applies again in relation to the revised investigation and its terms of reference.
+
+#### Investigation of unlawful acts etc.
+
+**3** (1) This paragraph applies where the Commission proposes to investigate in the course of a formal investigation (whether or not the investigation has already begun) whether—
+
+(a) a person has committed or is committing any unlawful act;
+
+(b) any requirement imposed by a non-discrimination notice served on a person (including a requirement to take action specified in an action plan) has been or is being complied with;
+
+(c) any undertaking given by a person in an agreement made with the Commission under section 5 is being or has been complied with.
+
+(2) The Commission may not investigate any such matter unless the terms of reference of the investigation confine it to the activities of one or more named persons (and the person concerned is one of those persons).
+
+(3) The Commission may not investigate whether a person has committed or is committing any unlawful act unless—
+
+(a) it has reason to believe that the person concerned may have committed or may be committing the act in question, or
+
+(b) that matter is to be investigated in the course of a formal investigation into his compliance with any requirement or undertaking mentioned in sub-paragraph (1)(b) or (c).
+
+(4) The Commission shall serve a notice on the person concerned offering him the opportunity to make written and oral representations about the matters being investigated.
+
+(5) If the Commission is investigating whether the person concerned has committed or is committing any unlawful act (otherwise than in the course of a formal investigation into his compliance with any requirement or undertaking mentioned in sub-paragraph (1)(b) or (c)) the Commission shall include in the notice required by sub-paragraph (4) a statement informing that person that the Commission has reason to believe that he may have committed or may be committing any unlawful act.
+
+(6) The Commission shall not make any findings in relation to any matter mentioned in sub-paragraph (1) without giving the person concerned or his representative a reasonable opportunity to make written and oral representations.
+
+(7) The Commission may refuse to receive oral representations made on behalf of the person concerned by a person (not being counsel or a solicitor) to whom the Commission reasonably objects as being unsuitable.
+
+(8) If the Commission refuses to receive oral representations from a person under sub-paragraph (7), it shall give reasons in writing for its objection.
+
+(9) A notice required by sub-paragraph (4) may be included in a notice required by paragraph 2(3).
+
+(10) In this paragraph “unlawful act” means an act which is unlawful [^F29]. . . for the purposes of any provision of [[^F30]Part 2, 3 or 4] of the 1995 Act or any other unlawful act of a description prescribed for the purposes of this paragraph.
+
+#### Power to obtain information
+
+**4** (1) For the purposes of a formal investigation the Commission may serve a notice on any person requiring him—
+
+(a) to give such written information as may be described in the notice; or
+
+(b) to attend and give oral information about any matter specified in the notice, and to produce all documents in his possession or control relating to any such matter.
+
+(2) A notice under this paragraph may only be served on the written authority of the Secretary of State unless the terms of reference confine the investigation to the activities of one or more named persons and the person being served is one of those persons.
+
+(3) A person may not be required by a notice under this paragraph—
+
+(a) to give information, or produce a document, which he could not be compelled to give in evidence, or produce, in civil proceedings before the High Court or the Court of Session; or
+
+(b) to attend at any place unless the necessary expenses of his journey to and from that place are paid or tendered to him.
+
+**5** (1) The Commission may apply to a county court or by summary application to the sheriff for an order under this paragraph if—
+
+(a) a person has been served with a notice under paragraph 4; and
+
+(b) he fails to comply with it or the Commission has reasonable cause to believe that he intends not to comply with it.
+
+(2) An order under this paragraph is an order requiring the person concerned to comply with the notice or with such directions for the same purpose as may be contained in the order.
+
+#### Recommendations
+
+**6** (1) The Commission may make recommendations in the light of its findings in a formal investigation.
+
+(2) The recommendations may be—
+
+(a) recommendations to any person for changes in his policies or procedures, or as to any other matter, with a view to promoting the equalisation of opportunities for disabled persons or persons who have had a disability, or
+
+(b) recommendations to the Secretary of State, for changes in the law or otherwise.
+
+(3) The Commission may make such recommendations before the conclusion of the investigation concerned.
+
+#### Reports
+
+**7** (1) The Commission shall prepare a report of its findings in any formal investigation.
+
+(2) The Commission shall exclude from such a report any matter which relates to an individual’s private affairs or any person’s business interests if—
+
+(a) publication of that matter might, in the Commission’s opinion, prejudicially affect that individual or person, and
+
+(b) its exclusion is consistent with the Commission’s duties and the object of the report.
+
+(3) The report of an investigation carried out at the direction of the Secretary of State shall be published by the Secretary of State or, if the Secretary of State so directs, by the Commission.
+
+(4) The report of any other investigation shall be published by the Commission.
+
+(5) Nothing in this paragraph affects the Commission’s power to issue a non-discrimination notice before a report is prepared or published.
+
+### Part II — Non-discrimination notices
+
+#### Procedure for issuing and appealing against non-discrimination notices
+
+**8** (1) The Commission shall not issue a non-discrimination notice addressed to any person unless it has complied with the requirements of this paragraph.
+
+(2) The Commission shall serve on the person concerned a notice—
+
+(a) informing him that the Commission is considering issuing a non-discrimination notice and of the grounds for doing so,
+
+(b) offering him the opportunity to make written and oral representations.
+
+(3) The Commission shall give the person concerned or his representative the opportunity of making oral and written representations within a period specified in the notice of not less than 28 days.
+
+(4) The Commission may refuse to receive oral representations made on behalf of the person concerned by a person (not being counsel or a solicitor) to whom the Commission reasonably objects as being unsuitable.
+
+(5) If the Commission refuses to receive oral representations from a person under sub-paragraph (4), it shall give reasons in writing for its objection.
+
+**9** On issuing a non-discrimination notice, the Commission shall serve a copy on the person to whom it is addressed.
+
+#### Appeal against non-discrimination notice
+
+**10** (1) A person on whom a non-discrimination notice is served may, within the period of six weeks beginning on the day after the day on which the notice is served on him, appeal against any requirement imposed by the notice under section 4(1)(b) or (3).
+
+(2) An appeal under this paragraph lies—
+
+(a) to an employment tribunal, so far as the requirement relates to acts within the tribunal’s jurisdiction; and
+
+(b) to a county court or a sheriff court, so far as the requirement relates to acts which are not within the jurisdiction of an employment tribunal.
+
+(3) The court or tribunal may quash or, in Scotland, recall any requirement appealed against—
+
+(a) if it considers the requirement to be unreasonable; or
+
+(b) in the case of a requirement imposed under section 4(1)(b), if it considers that the Commission’s finding that the person concerned had committed or is committing the unlawful act in question was based on an incorrect finding of fact.
+
+(4) On quashing or recalling a requirement, the court or tribunal may direct that the non-discrimination notice shall have effect with such modifications as it considers appropriate.
+
+(5) The modifications which may be included in such a direction include—
+
+(a) the substitution of a requirement in different terms; and
+
+(b) in the case of a requirement imposed under section 4(1)(b), modifications to the details given under section 4(1)(a) so far as necessary to describe any unlawful act on which the requirement could properly have been based.
+
+(6) Sub-paragraph (1) does not apply to any modifications contained in a direction under sub-paragraph (4).
+
+(7) If the court or tribunal allows an appeal under this paragraph without quashing or recalling the whole of the non-discrimination notice, the Commission may by notice to the person concerned vary the non-discrimination notice—
+
+(a) by revoking or altering any recommendation included in pursuance of the Commission’s power under section 4(2); or
+
+(b) by making new recommendations in pursuance of that power.
+
+**11** For the purposes of this Act a non-discrimination notice becomes final when—
+
+(a) an appeal under paragraph 10 is dismissed, withdrawn or abandoned or the time for appealing expires without an appeal having been brought; or
+
+(b) an appeal under that paragraph is allowed without the whole notice being quashed or, in Scotland, recalled.
+
+#### Enforcement of non-discrimination notice
+
+**12** (1) This paragraph applies during the period of five years beginning on the date on which a non-discrimination notice served on a person has become final.
+
+(2) During that period the Commission may apply to a county court or by summary application to the sheriff for an order under this paragraph, if—
+
+(a) it appears to the Commission that the person concerned has failed to comply with any requirement imposed by the notice under section 4(1)(b); or
+
+(b) the Commission has reasonable cause to believe that he intends not to comply with any such requirement.
+
+(3) An order under this paragraph is an order requiring the person concerned to comply with the requirement or with such directions for the same purpose as are contained in the order.
+
+#### Register of non-discrimination notices
+
+**13** (1) The Commission shall maintain a register of non-discrimination notices which have become final.
+
+(2) The Commission shall, in the case of notices which impose a requirement to propose an action plan, note on the register the date on which any action plan proposed by the person concerned has become final.
+
+(3) The Commission shall arrange for—
+
+(a) the register to be available for inspection at all reasonable times, and
+
+(b) certified copies of any entry to be provided if required by any person.
+
+(4) The Commission shall publish those arrangements in such manner as it considers appropriate to bring them to the attention of persons likely to be interested.
+
+### Part III — Action plans
+
+#### Introductory
+
+**14** (1) This Part of this Schedule applies where a person (“P”) has been served with a non-discrimination notice which has become final and includes a requirement for him to propose an action plan.
+
+(2) In this Part “adequate” in relation to a proposed action plan means adequate (as defined in section 4(4)(b)) for the purposes of the requirement mentioned in section 4(1)(b).
+
+#### The first proposed action plan
+
+**15** (1) P must serve his proposed action plan on the Commission within such period as may be specified in the non-discrimination notice.
+
+(2) If P fails to do so, the Commission may apply to a county court or by way of summary application to the sheriff for an order directing him to serve his proposed action plan within such period as the order may specify.
+
+(3) If P serves a proposed action plan on the Commission in response to the non-discrimination notice, or to an order under sub-paragraph (2), the action plan shall become final at the end of the prescribed period, unless the Commission has given notice to P under paragraph 16.
+
+#### Revision of first proposed action plan at invitation of Commission
+
+**16** (1) If the Commission considers that a proposed action plan served on it is not an adequate action plan, the Commission may give notice to P—
+
+(a) stating its view that the plan is not adequate; and
+
+(b) inviting him to serve on the Commission a revised action plan which is adequate, within such period as may be specified in the notice.
+
+(2) A notice under this paragraph may include recommendations as to action which the Commission considers might be included in an adequate action plan.
+
+(3) If P serves a revised proposed action plan on the Commission in response to a notice under this paragraph, it shall supersede the previous proposed action plan and become final at the end of the prescribed period, unless the Commission has applied for an order under paragraph 17.
+
+(4) If P does not serve a revised action plan in response to a notice under this paragraph, the action plan previously served on the Commission shall become final at the end of the prescribed period, unless the Commission has applied for an order under paragraph 17.
+
+#### Action by Commission as respects inadequate action plan
+
+**17** (1) If the Commission considers that a proposed action plan served on it is not an adequate action plan it may apply to the county court or by way of summary application to the sheriff for an order under this paragraph.
+
+(2) The Commission may not make an application under this paragraph in relation to the first proposed action plan served on it by P (even where it was served in compliance with an order of the court under paragraph 15(2)) unless—
+
+(a) a notice under paragraph 16 has been served on P in relation to that proposed action plan; and
+
+(b) P has not served a revised action plan on the Commission in response to it within the period specified in the notice under paragraph 16(1)(b).
+
+(3) An order under this paragraph is an order—
+
+(a) declaring that the proposed action plan in question is not an adequate action plan;
+
+(b) requiring P to revise his proposals and serve on the Commission an adequate action plan within such period as the order may specify; and
+
+(c) containing such directions (if any) as the court considers appropriate as to the action which should be specified in the adequate action plan required by the order.
+
+(4) If on an application under this paragraph the court does not make an order, the proposed action plan in question shall become final at the end of the prescribed period.
+
+**18** (1) This paragraph applies where an order of the court under paragraph 17 (“the order”) requires P to serve an adequate action plan on the Commission.
+
+(2) If, in response to the order, P serves an action plan on the Commission, that action plan shall become final at the end of the prescribed period unless the Commission has applied to a county court or, in Scotland, to the sheriff to enforce the order on the ground that the plan does not comply with the order (and any directions under paragraph 17(3)(c)).
+
+(3) Where an application is made as mentioned in sub-paragraph (2)—
+
+(a) if the Commission withdraws its application, the action plan in question shall become final at the end of the prescribed period;
+
+(b) if the court considers that the action plan in question complies with the order, that action plan shall become final at the end of the prescribed period.
+
+#### Variation of action plans
+
+**19** An action plan which has become final may be varied by agreement in writing between the Commission and P.
+
+#### Enforcement of action plans
+
+**20** (1) This paragraph applies during the period of five years beginning on the date on which an action plan drawn up by P becomes final.
+
+(2) If during that period the Commission considers that P has failed to comply with the requirement under section 4(3)(b) to carry out any action specified in the action plan, the Commission may apply to a county court or by summary application to the sheriff for an order under this paragraph.
+
+(3) An order under this paragraph is an order requiring P to comply with that requirement or with such directions for the same purpose as are contained in the order.
+
+#### Power to obtain information
+
+**21** (1) For the purposes of determining whether—
+
+(a) an action plan proposed by P is an adequate action plan; or
+
+(b) P has complied or is complying with the requirement to take the action specified in an action plan which has become final,
+
+the Commission may serve a notice on any person requiring him to give such information in writing, or copies of documents in his possession or control, relating to those matters as may be described in the notice.
+
+(2) A person may not be required by a notice under this paragraph to give information, or produce a document, which he could not be compelled to give in evidence or produce in civil proceedings before the High Court or the Court of Session.
+
+(3) The Commission may apply to a county court or by summary application to the sheriff for an order under this sub-paragraph if a person has been served with a notice under this paragraph and fails to comply with it.
+
+(4) An order under sub-paragraph (3) is an order requiring the person concerned to comply with the notice or with such directions for the same purpose as may be contained in the order.
+
+### Part IV — Supplementary
+
+#### Restriction on disclosure of information
+
+**22** (1) No information given to the Commission by any person (“the informant”) in connection with—
+
+(a) a formal investigation; or
+
+(b) the exercise of any of its functions in relation to non-discrimination notices, action plans and agreements under section 5,
+
+shall be disclosed by the Commission or by any person who is or has been a commissioner, an additional commissioner or an employee of the Commission.
+
+(2) Sub-paragraph (1) does not apply to any disclosure made—
+
+(a) on the order of a court,
+
+(b) with the informant’s consent,
+
+(c) in the form of a summary or other general statement published by the Commission which does not identify the informant or any other person to whom the information relates,
+
+(d) in a report of the investigation published by the Commission,
+
+(e) to a commissioner, an additional commissioner or an employee of the Commission, or, so far as is necessary for the proper performance of the Commission’s functions, to other persons, or
+
+(f) for the purpose of any civil proceedings to which the Commission is a party, or of any criminal proceedings.
+
+(3) A person who discloses information contrary to sub-paragraph (1) is guilty of an offence and liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+#### Enforcement of court orders
+
+**23** (1) This paragraph applies to any order made by a county court or the sheriff under section 5(8) or under any provision of this Schedule.
+
+(2) Section 55 of the [^M7]County Courts Act 1984 (penalty for failure to give evidence) shall have effect in relation to a failure to comply with an order made by a county court to which this paragraph applies with the following modifications—
+
+(a) for subsection (1) there shall be substituted—
+
+> (1) Any person who fails without reasonable excuse to comply with an order made by a county court under section 5(8) of or any provision of Schedule 3 to the Disability Rights Commission Act 1999 shall forfeit such fine as the judge may direct.
+
+;
+
+(b) subsection (3) shall be omitted (but without prejudice to the operation of paragraph 4(3)(b) of this Schedule); and
+
+(c) in subsection (4), for the words “the party injured by the refusal or neglect” there shall be substituted the words “ the Disability Rights Commission for expenses incurred or wasted in consequence of the failure to comply with the order concerned ”.
+
+(3) Where the sheriff finds a person to be in contempt of court in respect of the failure of a person to comply with an order made by the sheriff to which this paragraph applies—
+
+(a) notwithstanding section 15 of the [^M8]Contempt of Court Act 1981, the sheriff shall not commit the person to prison; and
+
+(b) the sheriff may grant decree in favour of the Commission for such amount of any fine imposed for the contempt as appears to the sheriff to be appropriate in respect of the expense incurred or wasted by the Commission (including the expenses of any proceedings under this Schedule) in consequence of the failure to comply with the order.
+
+(4) If the Commission applies to a county court or, in Scotland, to the sheriff to enforce an order to which this paragraph applies, the court may modify the order.
+
+#### Offences
+
+**24** (1) A person who—
+
+(a) deliberately alters, suppresses, conceals or destroys a document to which a notice under paragraph 4 or 21, or an order under paragraph 5 or 21(3), relates; or
+
+(b) in complying with—
+
+(i) a notice under paragraph 4 or 21;
+
+(ii) a non-discrimination notice;
+
+(iii) an agreement under section 5; or
+
+(iv) an order of a court under section 5(8) or under any provision of this Schedule,
+
+makes any statement which he knows to be false or misleading in a material particular or recklessly makes a statement which is false or misleading in a material particular,
+
+is guilty of an offence and liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+(2) Proceedings for an offence under this paragraph may (without prejudice to any jurisdiction exercisable apart from this sub-paragraph) be instituted—
+
+(a) against any person at any place at which he has an office or other place of business;
+
+(b) against an individual at any place where he resides, or at which he is for the time being.
+
+#### Service of notices
+
+**25** (1) Any notice required or authorised by any provision of this Schedule to be served on a person may be served by delivering it to him, by leaving it at his proper address or by sending it by post to him at that address.
+
+(2) Any such notice may—
+
+(a) in the case of a body corporate, be served on the secretary or clerk of that body;
+
+(b) in the case of a partnership, be served on any partner or a person having control or management of the partnership business;
+
+(c) in the case of an unincorporated association (other than a partnership), may be served on any member of its governing body.
+
+(3) For the purposes of this paragraph and section 7 of the [^M9]Interpretation Act 1978 (service of documents) in its application to this paragraph, the proper address of any person is—
+
+(a) in the case of a body corporate, its secretary or clerk, the address of its registered or principal office in the United Kingdom;
+
+(b) in the case of an unincorporated association (other than a partnership) or a member of its governing body, its principal office in the United Kingdom;
+
+(c) in any other case, his usual or last-known address (whether of his residence or of a place where he carries on business or is employed).
+
+#### Regulations
+
+**26** The Secretary of State may make regulations making provision—
+
+(a) supplementing Part I or II of this Schedule in connection with any matter concerned with the conduct of formal investigations or the procedure for issuing non-discrimination notices; or
+
+(b) amending Part III of this Schedule in relation to the procedures for finalising action plans.
+
+## SCHEDULE 4 — Minor and consequential amendments
+
+*Section 14(1).*
+
+### House of Commons Disqualification Act 1975 (c. 24)
+
+**1** In Part II of Schedule 1 to the House of Commons Disqualification Act 1975 (bodies whose members are disqualified) there shall be inserted at the appropriate place the words “ The Disability Rights Commission. ”
+
+### Northern Ireland Assembly Disqualification Act 1975 (c. 25)
+
+**2** In Part II of Schedule 1 to the Northern Ireland Assembly Disqualification Act 1975 (bodies whose members are disqualified) there shall be inserted at the appropriate place the words “ The Disability Rights Commission. ”
+
+### Disability Discrimination Act 1995 (c. 50)
+
+**3** (1) The Disability Discrimination Act 1995 shall be amended as follows.
+
+(2) [^F31]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) In Schedule 3 (enforcement and procedure under Parts II and III), in paragraph 6(2), for the words from “a person” to “approached” there shall be substituted “ the dispute concerned is referred for conciliation in pursuance of arrangements under section 28 ”.
+
+### Scotland Act 1998 (c. 46)
+
+**4** In Part III of Schedule 5 to the Scotland Act 1998 (reserved bodies), in paragraph 3(2)(c), for the words “the National Disability Council” there shall be substituted “ the Disability Rights Commission ”.
+
+## SCHEDULE 5 — Repeals
+
+*Section 14(2).*
+
+|  |  |  |
+|---|---|---|
+| Chapter | Short title | Extent of repeal |
+| 1975 c. 24. | House of Commons Disqualification Act 1975. | In Part II of Schedule 1, the entry relating to the National Disability Council. |
+| 1975 c. 25. | Northern Ireland Assembly Disqualification Act 1975. | In Part II of Schedule 1, the entry relating to the National Disability Council. |
+| 1995 c. 50. | Disability Discrimination Act 1995. | Sections 50 to 54 In section 70(7), the words “The National Disability Council”. Schedule 5. |
+
+---
+
+[^F1]: Act repealed (1.10.2007) by Equality Act 2006 (c. 3), ss. 40, 91, 93, Sch. 3 para. 59, Sch. 4 (with s. 92); S.I. 2007/2603, art. 2(b)(c) (subject to art. 3, as amended by S.I. 2007/2602, art. 4(2))
+[^F2]: S. 1(4) repealed (22.7.2004) by Statute Law (Repeals) Act 2004 (c. 14), s. 1(1), {Sch. 1 Pt. 5 Group 3}
+[^F3]: Words in s. 2(1)(a) inserted (1.10.2004) by The Disability Discrimination Act 1995 (Amendment) Regulations 2003 (S.I. 2003/1673), reg. 30(a)(i)
+[^M1]: 1995 c. 50.
+[^F4]: Words in s. 2(5) substituted (4.12.2006) by Disability Discrimination Act 2005 (c. 13), ss. 19(1), 20(3)-(6), Sch. 1 para. 50(2)(a); S.I. 2005/2774, art. 4(f)
+[^F5]: S. 2(5): definition of "harassment" inserted (1.10.2004) by The Disability Discrimination Act 1995 (Amendment) Regulations 2003 (S.I. 2003/1673), reg. 30(a)(ii)
+[^F6]: Words in s. 2(5) substituted (4.12.2006) by Disability Discrimination Act 2005 (c. 13), ss. 19(1), 20(3)-(6), Sch. 1 para. 50(2)(b); S.I. 2005/2774, art. 4(f)
+[^F7]: Word in s. 4(5) omitted (1.10.2004) by virtue of The Disability Discrimination Act 1995 (Amendment) Regulations 2003 (S.I. 2003/1673), reg. 30(b)
+[^F8]: Words in s. 4(5) substituted (4.12.2006) by Disability Discrimination Act 2005 (c. 13), ss. 19(1), 20(3)-(6), Sch. 1 para. 50(3); S.I. 2005/2774, art. 4(f)
+[^F9]: Word in s. 5(11) omitted (1.10.2004) by virtue of The Disability Discrimination Act 1995 (Amendment) Regulations 2003 (S.I. 2003/1673), reg. 30(c)
+[^F10]: Words in s. 5(11) substituted (4.12.2006) by Disability Discrimination Act 2005 (c. 13), ss. 19(1), 20(3)-(6), Sch. 1 para. 50(3); S.I. 2005/2774, art. 4(f)
+[^F11]: S. 6(1)(b)(c) substituted (1.9.2002) by 2001 c. 10, ss. 35, 43(3), Sch. 7 para. 5 (with s. 43(13)); S.I. 2002/2217, art. 3, Sch. 1 Pt. 1
+[^F12]: Words in s. 6(1)(b) substituted (1.10.2004) by The Disability Discrimination Act 1995 (Amendment) Regulations 2003 (S.I. 2003/1673), reg. 30(d)(i)
+[^F13]: Words in s. 6(1)(b) inserted (1.9.2007) by Disability Discrimination Act 2005 (c. 13), ss. 19(1), 20(3)-(6), Sch. 1 para. 50(4)(a); S.I. 2007/1555, art. 3(b)
+[^F14]: Words in s. 6(1)(b) substituted (4.12.2006) by Disability Discrimination Act 2005 (c. 13), ss. 19(1), 20(3)-(6), Sch. 1 para. 50(4)(b); S.I. 2005/2774, art. 4(f)
+[^F15]: Words in s. 6(4) inserted (1.10.2004) by The Disability Discrimination Act 1995 (Amendment) Regulations 2003 (S.I. 2003/1673), reg. 30(d)(ii)
+[^F16]: Words in s. 6(4) substituted (4.12.2006) by Disability Discrimination Act 2005 (c. 13), ss. 19(1), 20(3)-(6), Sch. 1 para. 50(3); S.I. 2005/2774, art. 4(f)
+[^F17]: Words in s. 6(5) repealed (1.9.2002) by 2001 c. 10, ss. 35, 42(6), 43(3), Sch. 7 para. 7, Sch. 9 (with s. 43(13)); S.I. 2002/2217, art. 3, Sch. 1 Pt. 1
+[^F18]: Words in s. 7(1)(a) substituted (1.10.2004) by The Disability Discrimination Act 1995 (Amendment) Regulations 2003 (S.I. 2003/1673), reg. 30(e)(i)
+[^F19]: Words in s. 7(1)(a) substituted (1.9.2002) by 2001 c. 10, ss. 35, 43(3), Sch. 7 para. 8(a)(b) (with s. 43(13)); S.I. 2002/2217, art. 3, Sch. 1 Pt. 1
+[^F20]: Words in s. 7(1)(a) inserted (1.9.2007) by Disability Discrimination Act 2005 (c. 13), ss. 19(1), 20(3)-(6), Sch. 1 para. 50(5); S.I. 2007/1555, art. 3(b)
+[^F21]: Words in s. 7(1)(a) inserted (1.10.2004) by The Disability Discrimination Act 1995 (Amendment) Regulations 2003 (S.I. 2003/1673), reg. 30(e)(ii)
+[^F22]: S. 7(1)(aa) inserted (E.W.) (4.12.2006) by Disability Discrimination Act 2005 (c. 13), ss. 16(3)(a), 20(3)-(6); S.I. 2005/2774, art. 4(d)
+[^F23]: S. 7(1)(ab) inserted (4.12.2006) by Equality Act 2006 (c. 3), ss. 43(3), 93 (with s. 92); S.I. 2006/1082, art. 3
+[^F24]: S. 7(4A) inserted (E.W.) (4.12.2006) by Disability Discrimination Act 2005 (c. 13), ss. 16(3)(b), 20(3)-(6); S.I. 2005/2774, art. 4(d)
+[^F25]: Words in s. 8(4)(a) substituted (1.4.2000) by 1999 c. 22, s. 24, Sch. 4 para. 56 (with Sch. 14 para. 7(2)); S.I. 2000/774, art. 2(a)(ii)(iii) (subject to arts. 3, 4)
+[^M2]: 1986 c. 47.
+[^F26]: S. 11 repealed (5.12.2005) by Disability Discrimination Act 2005 (c. 13), ss. 19(1), (2), 20(3)-(6), Sch. 1 para. 50(6), {Sch. 2}; 2005/2774, {art. 3(k)(ii)}
+[^M3]: 1995 c. 50.
+[^F27]: S. 16(3A) inserted (4.12.2006) by Disability Discrimination Act 2005 (c. 13), ss. 19(1), 20(3)-(6), Sch. 1 para. 50(7); S.I. 2005/2774, art. 4(f)
+[^M4]: 1975 c. 24.
+[^M5]: 1975 c. 25.
+[^F28]: Sch. 1 para. 2(1A) inserted (S.) (1.6.2000) by S.I. 2000/1458, art. 2 (with art. 3)
+[^M6]: 1972 c. 11.
+[^F29]: Word in Sch. 3 para. 3(10) omitted (1.10.2004) by virtue of The Disability Discrimination Act 1995 (Amendment) Regulations 2003 (S.I. 2003/1673), reg. 30(f)
+[^F30]: Words in Sch. 3 para. 3(10) substituted (4.12.2006) by Disability Discrimination Act 2005 (c. 13), ss. 19(1), 20(3)-(6), Sch. 1 para. 50(3); S.I. 2005/2774, art. 4(f)
+[^M7]: 1984 c. 28.
+[^M8]: 1981 c. 49.
+[^M9]: 1978 c. 30.
+[^F31]: Sch. 4 para. 3(2) repealed (5.12.2005) by Disability Discrimination Act 2005 (c. 13), ss. 19(2), 20(3)-(6), Sch. 2; S.I. 2005/2774, art. 3(k)(ii)

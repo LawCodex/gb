@@ -1,0 +1,528 @@
+---
+title: "London Olympic Games and Paralympic Games (Amendment) Act 2011"
+identifier: "ukpga/2011/22"
+citation: "2011 c. 22"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S+N.I."
+date: 2011-12-14
+last_amended: 2014-12-02
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/2011/22"
+source_modified: 2017-12-01
+retrieved: 2026-10-11
+---
+
+# London Olympic Games and Paralympic Games (Amendment) Act 2011
+
+**2011 c. 22**
+
+An Act to amend the London Olympic Games and Paralympic Games Act 2006.
+
+[14th December 2011]
+
+Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## Advertising and trading
+
+### 1 Removal of infringing articles
+
+(1) In section 21 of the London Olympic Games and Paralympic Games Act 2006 (offence of contravening advertising regulations), omit subsection (4).
+
+(2) In section 22 of that Act (contravention of advertising regulations: power of entry), in subsection (5)—
+
+(a) after paragraph (b) insert “ or ”, and
+
+(b) omit paragraph (d) and the preceding “or”.
+
+[^F1]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) In subsection (10) of that section—
+
+[^F2]a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) in paragraph (b) of the definition of “infringing article”, after “thing” insert “ , or an animal, ”.
+
+(5) In section 28 of that Act (contravention of trading regulations: power of entry), in subsection (2)—
+
+(a) after paragraph (b) insert “ or ”, and
+
+(b) omit paragraph (d) and the preceding “or”.
+
+(6) Omit subsection (3) of that section.
+
+[^F3]7 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(8) In subsection (8) of that section—
+
+[^F4]a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) in each of paragraphs (a) and (b) of the definition of “infringing article”, after “article” insert “ or animal ”.
+
+[^F5]9 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(10) In section 37 of that Act (Scotland), omit—
+
+(a) subsection (6), and
+
+(b) subsection (11).
+
+(11) At the end of that section insert—
+
+> (12) In section 22, subsection (6) has effect as if there were substituted for it—
+>
+> > (6) An article that is held by a constable (having been removed by or delivered to the constable) shall be returned when retention is no longer justified by a matter specified in subsection (5)(a) to (c), unless—
+> >
+> > (a) in the case of a perishable article, the article has ceased to be usable for trade, or
+> >
+> > (b) the court orders the article to be forfeited under Part 2 of the Proceeds of Crime (Scotland) Act 1995.
+> >
+> > (6A) Subject to subsection (6), the article shall be treated as if acquired by the constable in the course of the investigation of an offence.
+> >
+> > (6B) An article that is held by an enforcement officer (having been removed by or delivered to the officer) shall be dealt with in accordance with sections 31A to 31E.
+>
+> (13) In section 28, subsection (4) has effect as if there were substituted for it—
+>
+> > (4) An article that is held by a constable (having been removed by or delivered to the constable) shall be returned when retention is no longer justified by a matter specified in subsection (2)(a) to (c), unless—
+> >
+> > (a) in the case of a perishable article, the article has ceased to be usable for trade, or
+> >
+> > (b) the court orders the article to be forfeited under Part 2 of the Proceeds of Crime (Scotland) Act 1995.
+> >
+> > (4A) Subject to subsection (4), the article shall be treated as if acquired by the constable in the course of the investigation of an offence.
+> >
+> > (4B) An article that is held by an enforcement officer (having been removed by or delivered to the officer) shall be dealt with in accordance with sections 31A to 31E.
+>
+> (14) In sections 31A, 31B and 31D, the references to a magistrates' court are to be read as if they were references to the sheriff.
+>
+> (15) Section 31A has effect as if—
+>
+> (a) in subsection (4), “before the end of the relevant period” and “at the end of that period” were omitted,
+>
+> (b) in subsections (5) and (6), “before the end of the relevant period” were omitted,
+>
+> (c) in subsection (6), in paragraph (b), for “section 143 of the Powers of Criminal Courts (Sentencing) Act 2000” there were substituted “ Part 2 of the Proceeds of Crime (Scotland) Act 1995 ”,
+>
+> (d) in that subsection, paragraph (c) were omitted,
+>
+> (e) in subsection (8), “or (6)(c)” were omitted, and
+>
+> (f) subsection (10) were omitted.
+>
+> (16) Section 31E has effect as if subsections (5) to (10) were omitted.
+
+(12) In section 38 of that Act (Northern Ireland), omit paragraph (g).
+
+### 2 Regulations: Parliamentary procedure and public notice
+
+(1) In section 20 of the London Olympic Games and Paralympic Games Act 2006 (supplementary provision about advertising regulations), after subsection (2) insert—
+
+> (2A) But if, in relation to regulations under section 19 other than the first regulations, the Secretary of State considers that by reason of urgency it is necessary that they be made without being approved in draft—
+>
+> (a) subsection (2)(b) does not apply to the regulations, and
+>
+> (b) the regulations are instead subject to annulment in pursuance of a resolution of either House of Parliament.
+
+[^F6]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) In section 26 of that Act (supplementary provision about trading regulations), after subsection (2) insert—
+
+> (2A) But if, in relation to regulations under section 25 other than the first regulations, the Secretary of State considers that by reason of urgency it is necessary that they be made without being approved in draft—
+>
+> (a) subsection (2)(b) does not apply to the regulations, and
+>
+> (b) the regulations are instead subject to annulment in pursuance of a resolution of either House of Parliament.
+
+[^F7]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) In section 37 of that Act (Scotland), in subsection (8)(b), after “references”, in the first place it appears, insert “ (other than in sections 20 and 26) ”.
+
+(6) After subsection (9) of that section insert—
+
+> (9A) Sections 20 and 26 are to have effect as if, in each case, for subsections (2) and (2A) there were substituted—
+>
+> > (2) Regulations under that section are subject to the affirmative procedure.
+> >
+> > (2A) But if, in relation to regulations under that section other than the first regulations, the Scottish Ministers consider that by reason of urgency it is necessary that they be made without being approved in draft—
+> >
+> > (a) subsection (2) does not apply to the regulations, and
+> >
+> > (b) the regulations are instead subject to the negative procedure.”
+
+## Ticket touting
+
+### 3 Increase of maximum fine
+
+(1) In section 31(6) of the London Olympic Games and Paralympic Games Act 2006 (penalty for ticket touting offence), for “level 5 on the standard scale” substitute “ £20,000 ”.
+
+(2) Subsection (1) applies only where the offence under section 31(1) of that Act is committed after the commencement of this section.
+
+## Traffic
+
+### 4 Orders and notices relating to temporary prohibitions etc. on roads
+
+(1) Section 14 of the London Olympic Games and Paralympic Games Act 2006 (the title to which becomes “ Traffic regulation orders and notices ”) is amended as follows.
+
+(2) In subsection (2), after “an order” insert “ under section 1, 6 or 9 of that Act ”.
+
+(3) After subsection (5) insert—
+
+> (5A) For the purposes of subsections (1) and (4), so far as applying to the power to make an order under section 14 of the Road Traffic Regulation Act 1984, that section has effect as if in subsection (1)—
+>
+> (a) after “prohibited” there were inserted “ for either of the purposes mentioned in section 14(2) of the London Olympic Games and Paralympic Games Act 2006 ”, and
+>
+> (b) paragraphs (a) to (c) were omitted.
+
+(4) After subsection (5A) insert—
+
+> (5B) A traffic authority may issue a notice under section 14 of the Road Traffic Regulation Act 1984 in relation to any road.
+>
+> (5C) For the purposes of subsection (5B), that section has effect as if in subsection (2)—
+>
+> (a) after “that it is” there were inserted “ necessary or expedient for either of the purposes mentioned in section 14(2) of the London Olympic Games and Paralympic Games Act 2006 ”, and
+>
+> (b) paragraphs (a) and (b) were omitted.
+
+(5) In subsection (6), for “that Act” substitute “ the Road Traffic Regulation Act 1984 ”.
+
+(6) At the end insert—
+
+> (7) For the purposes of subsections (5A) and (5C), section 14 of that Act has effect as if, in subsection (7)(b), for the words “for either of the reasons or for the purpose mentioned in subsection (1) above” there were substituted “ for either of the purposes mentioned in section 14(2) of the London Olympic Games and Paralympic Games Act 2006 ”.
+
+### 5 Enforcement of traffic regulation orders and notices
+
+(1) Section 15 of the London Olympic Games and Paralympic Games Act 2006 (the title to which becomes “ Traffic regulation orders and notices: enforcement ”) is amended as follows.
+
+(2) In subsection (2), after “an order made by virtue of section 14(1) or (4)” insert “ , or of a notice issued by virtue of section 14(5B), ”.
+
+(3) After that subsection insert—
+
+> (2A) The reference in subsection (2) to Schedule 7 to that Act is to be read as a reference to that Schedule as it would have effect if, at the end of paragraph 8(2), there were inserted “or a notice under section 14 of that Act”.
+
+(4) For subsection (3) substitute—
+
+> (3) In the application of Part 6 of that Act to a contravention of an order made by virtue of section 14(1) or (4), or of a notice issued by virtue of section 14(5B), Schedule 9 to that Act (levels of charges) shall have effect as if for Parts 2 and 3 there were substituted the Parts 2 and 3 set out in section 15A.
+
+(5) In subsection (4), at the end insert “ or of a notice issued by virtue of section 14(5B) ”.
+
+(6) After section 15 of that Act insert—
+
+> **15A Section 15: supplemental**
+>
+> The Parts 2 and 3 of Schedule 9 to the Traffic Management Act 2004 referred to in section 15(3) are as follows—
+>
+> > **Part 2 — Charges applicable in Greater London**
+> >
+> > **2**
+> >
+> > (1) It is the duty of the Olympic Delivery Authority (referred to in this Schedule as “the Authority”) to set the levels of charges applicable in Greater London, so far as relating to—
+> >
+> > (a) contraventions on or adjacent to roads, or
+> >
+> > (b) parking places provided or authorised by the Authority, Transport for London or the London local authorities.
+> >
+> > (2) Different levels of charges may be set for different areas in Greater London and for different cases or classes of case.
+> >
+> > (3) Before setting the level of any charges, the Authority must consult—
+> >
+> > (a) Transport for London, and
+> >
+> > (b) the London local authorities.
+> >
+> > **3**
+> >
+> > (1) The Authority must submit to the Secretary of State for approval the levels of charges that it proposes to set.
+> >
+> > (2) If—
+> >
+> > (a) the Authority fails to discharge its duty under paragraph 2, or
+> >
+> > (b) the Secretary of State does not approve the levels of charges proposed by the Authority,
+> >
+> > the levels of charges must be set by the Secretary of State.
+> >
+> > **4**
+> >
+> > The Authority must publish, in such manner as the Secretary of State may determine, the levels of charges set in accordance with this Part of this Schedule.
+> >
+> > **Part 3 — Charges applicable outside Greater London**
+> >
+> > **5**
+> >
+> > (1) It is the duty of the Authority to set the levels of charges applicable outside Greater London.
+> >
+> > (2) Different levels of charges may be set for different civil enforcement areas, for different parts of a civil enforcement area and for different cases or classes of case.
+> >
+> > **6**
+> >
+> > (1) The Authority must submit to the Secretary of State for approval the levels of charges that it proposes to set.
+> >
+> > (2) If—
+> >
+> > (a) the Authority fails to discharge its duty under paragraph 5, or
+> >
+> > (b) the Secretary of State does not approve the levels of charges proposed by the Authority,
+> >
+> > the levels of charges must be set by the Secretary of State.
+> >
+> > **7**
+> >
+> > The Authority must publish, in such manner as the Secretary of State may determine, the levels of charges set in accordance with this Part of this Schedule.
+
+### 6 Road closures or restrictions
+
+(1) Section 16 of the London Olympic Games and Paralympic Games Act 2006 (the title to which becomes “ Road closures or restrictions ”) is amended as follows.
+
+(2) In subsection (1)(a), after “ “a London Olympic event” insert “ (within the meaning of the London Olympic Games and Paralympic Games Act 2006) ”.
+
+(3) In subsection (2), for “a closure” substitute “ an order made ”.
+
+(4) At the end insert—
+
+> (3) Part 6 of the Traffic Management Act 2004 (civil enforcement) shall apply in relation to a contravention of an order made under section 16A as applied by this section as it applies in relation to the contraventions specified in Schedule 7 to that Act.
+>
+> (4) In the application of Part 6 of that Act to a contravention of an order made under section 16A as so applied, Schedule 9 to that Act (levels of charges) shall have effect as if for Parts 2 and 3 there were substituted the Parts 2 and 3 set out in section 15A.
+
+### 7 Enforcement of moving traffic contraventions in Greater London
+
+(1) After section 16 of the London Olympic Games and Paralympic Games Act 2006 insert—
+
+> **16A Enforcement of moving traffic contraventions in Greater London**
+>
+> (1) The provisions of the London Local Authorities and Transport for London Act 2003 (“the 2003 Act”) referred to in subsection (2) apply in relation to an Olympic traffic contravention as they apply in relation to a contravention of a prescribed order within the meaning of section 4 of that Act.
+>
+> (2) The provisions of the 2003 Act are—
+>
+> (a) section 4 (penalty charges for road traffic contraventions),
+>
+> (b) section 6 (limitation on service of penalty charge notice),
+>
+> (c) section 7 (disapplication of offences),
+>
+> (d) Schedule 1 (penalty charge notices: representations etc.), and
+>
+> (e) Schedule 2 (penalty charge notices: financial provisions),
+>
+> and section 2 of that Act (interpretation) so far as it relates to any of those provisions.
+>
+> (3) An “Olympic traffic contravention” is a contravention of any of the following that applies to a road in Greater London—
+>
+> (a) an order made by virtue of section 14(1) or (4),
+>
+> (b) a notice issued by virtue of section 14(5B), or
+>
+> (c) an order made under section 16A of the Road Traffic Regulation Act 1984 (road closures or restrictions for certain events) as applied by section 16 of this Act.
+>
+> (4) But a contravention of an order or notice referred to in subsection (3) is not an Olympic traffic contravention in so far as Part 6 of the Traffic Management Act 2004 applies in relation to it by virtue of section 15 or 16.
+>
+> (5) For the purposes of this section, section 4 of the 2003 Act has effect as if—
+>
+> (a) in subsection (10) (power to set level of discount for early payment of penalty charge), for “the borough councils and Transport for London acting through the Joint Committee” there were substituted “ the Olympic Delivery Authority ”, and
+>
+> (b) for subsection (13) there were substituted the subsection (13) set out in section 16B(1).
+>
+> (6) For the purposes of this section, section 7 of the 2003 Act has effect as if after subsection (3) there were inserted the subsections (3A) and (3B) set out in section 16B(2).
+>
+> (7) The Secretary of State may direct the enforcement authority for a road in Greater London to exercise its power under section 4(2) or 6(6) of the 2003 Act in respect of an Olympic traffic contravention.
+>
+> (8) Where the enforcement authority is Transport for London, the Secretary of State may give a direction under subsection (7) only with the consent of the Mayor of London.
+>
+> (9) If an enforcement authority for a road fails to comply with a direction under subsection (7), the Olympic Delivery Authority may, with the consent of the Secretary of State, act as the enforcement authority for that road.
+>
+> (10) If the Authority acts as the enforcement authority for a road by virtue of subsection (9), it may recover from the enforcement authority, as if it were a debt, the reasonable cost of acting.
+>
+> (11) In this section, “enforcement authority” means whichever of Transport for London or the relevant borough council under the 2003 Act is for the time being entitled to exercise the power under section 4(2) of that Act.
+>
+> (12) For the purposes of this section, the provisions of the 2003 Act referred to in subsection (2) are to be treated as being fully in force.
+>
+> **16B Section 16A: supplemental**
+>
+> (1) The subsection (13) of section 4 of the London Local Authorities and Transport for London Act 2003 (“the 2003 Act”) referred to in section 16A(5)(b) is as follows—
+>
+> > (13) For the purposes of subsection (12), Part 2 of that Schedule has effect as it would if there were substituted for it the Part 2 set out as follows—
+> >
+> > > **Part 2 — Charges applicable in Greater London**
+> > >
+> > > **2**
+> > >
+> > > (1) It is the duty of the Olympic Delivery Authority (“the Authority”) to set the levels of charges applicable to Olympic traffic contraventions (within the meaning of section 16A of the London Olympic Games and Paralympic Games Act 2006).
+> > >
+> > > (2) Different levels of charges may be set for different areas in Greater London and for different cases or classes of case.
+> > >
+> > > (3) Before setting the level of any charges the Authority must consult—
+> > >
+> > > (a) Transport for London, and
+> > >
+> > > (b) the London local authorities.
+> > >
+> > > **3**
+> > >
+> > > (1) The Authority must submit to the Secretary of State for approval the levels of charges that it proposes to set.
+> > >
+> > > (2) If—
+> > >
+> > > (a) the Authority fails to discharge its duty under paragraph 2, or
+> > >
+> > > (b) the Secretary of State does not approve the levels of charges proposed by the Authority,
+> > >
+> > > the levels of charges must be set by the Secretary of State.
+> > >
+> > > **4**
+> > >
+> > > The Authority must publish, in such manner as the Secretary of State may determine, the levels of charges set in accordance with this Part of this Schedule.”
+>
+> (2) The subsections (3A) and (3B) of section 7 of the 2003 Act referred to in section 16A(6) are as follows—
+>
+> > (3A) Section 16 of the Act of 1984 shall apply in respect of a road to which this section applies as if after subsection (1) there were inserted—
+> >
+> > > (1A) Subsection (1) does not apply in relation to any person who acts in contravention of or fails to comply with a restriction or prohibition imposed under section 14 of this Act if as a result a penalty charge is payable under section 4(5) of the London Local Authorities and Transport for London Act 2003.
+> >
+> > (3B) Section 16C of the Act of 1984 shall apply in respect of a road to which this section applies as if after subsection (1) there were inserted—
+> >
+> > > (1A) Subsection (1) does not apply in relation to any person who acts in contravention of or fails to comply with an order under section 16A of this Act if as a result a penalty charge is payable under section 4(5) of the London Local Authorities and Transport for London Act 2003.””
+
+(2) Consultation undertaken before the commencement of subsection (1) (including consultation undertaken before the passing of this Act) is as effective for the purposes of paragraph 2(3) of Schedule 9 to the Traffic Management Act 2004 as modified in accordance with that subsection as consultation undertaken after that commencement.
+
+### 8 Enforcement of bus lane contraventions outside Greater London
+
+After section 16B of the London Olympic Games and Paralympic Games Act 2006 insert—
+
+> **16C Enforcement of bus lane contraventions outside Greater London**
+>
+> (1) Section 144 of the Transport Act 2000 (civil penalties for bus lane contraventions) and the Bus Lane Regulations apply in relation to an Olympic bus lane contravention as they apply in relation to a bus lane contravention within the meaning of that section.
+>
+> (2) The references in subsection (1) to that section are to be read as references to that section as it would have effect if, at the end of the definition of “traffic regulation order” in subsection (14), there were inserted “or a notice under section 14 of that Act”.
+>
+> (3) An “Olympic bus lane contravention” is a contravention of any of the following so far as relating to the use of an area of road outside Greater London which is or forms part of a bus lane—
+>
+> (a) an order made by virtue of section 14(1) or (4),
+>
+> (b) a notice issued by virtue of section 14(5B), or
+>
+> (c) an order made under section 16A of the Road Traffic Regulation Act 1984 (road closures or restrictions for certain events) as applied by section 16 of this Act.
+>
+> (4) But a contravention of an order or notice referred to in subsection (3) is not an Olympic bus lane contravention in so far as Part 6 of the Traffic Management Act 2004 applies in relation to it by virtue of section 15 or 16.
+>
+> (5) For the purposes of this section, section 144 of the Transport Act 2000 has effect as if subsection (9) were omitted except so far as necessary for the purpose of authorising regulation 4 of the Bus Lane Regulations as modified by subsection (6) of this section.
+>
+> (6) For the purposes of this section, the Bus Lane Regulations have effect as if for regulation 4 there were substituted the regulation 4 set out in section 16D.
+>
+> (7) The Secretary of State may direct the approved local authority for a road outside Greater London to exercise its powers under the Bus Lane Regulations in respect of an Olympic bus lane contravention.
+>
+> (8) If an approved local authority for a road fails to comply with a direction under subsection (7), the Olympic Delivery Authority may, with the consent of the Secretary of State, act as the approved local authority for that road.
+>
+> (9) If the Authority acts as the approved local authority for a road by virtue of subsection (8), it may recover from the approved local authority, as if it were a debt, the reasonable cost of acting.
+>
+> (10) In this section—
+>
+> - “approved local authority” and “bus lane” each have the same meaning as in section 144 of the Transport Act 2000, and
+> - “the Bus Lane Regulations” means the Bus Lane Contraventions (Penalty Charges, Adjudication and Enforcement) (England) Regulations 2005 (S.I. 2005/2757).
+>
+> **16D Section 16C: supplemental**
+>
+> The regulation 4 of the Bus Lane Contraventions (Penalty Charges, Adjudication and Enforcement) (England) Regulations 2005 (S.I. 2005/2757) referred to in section 16C(6) is as follows—
+>
+> > **4 Level of penalty charges**
+> >
+> > (1) It is the duty of the Olympic Delivery Authority (“the Authority”) to set the levels of charges applicable to Olympic bus lane contraventions (within the meaning of section 16C of the London Olympic Games and Paralympic Games Act 2006).
+> >
+> > (2) Different levels of charges may be set for the areas of different approved local authorities, for different parts of the area of an approved local authority and for different cases or classes of case.
+> >
+> > (3) The Authority must submit to the Secretary of State for approval the levels of charges that it proposes to set.
+> >
+> > (4) If—
+> >
+> > (a) the Authority fails to discharge its duty under paragraph (1); or
+> >
+> > (b) the Secretary of State does not approve the levels of charges proposed by the Authority,
+> >
+> > the levels of charges must be set by the Secretary of State.
+> >
+> > (5) The Authority must publish, in such manner as the Secretary of State may determine, the levels of charges set in accordance with this regulation.
+> >
+> > (6) In the circumstances described in regulation 8(5)(f), an authority must accept a sum equivalent to one half of the level of charge set in accordance with this regulation in full payment of a penalty charge.
+> >
+> > (7) In the circumstances described in regulation 8(5)(k), an authority may increase a penalty charge to a sum equivalent to one and a half times the level of charge set in accordance with this regulation.
+
+### 9 Goods vehicle operator licences
+
+After section 16D of the London Olympic Games and Paralympic Games Act 2006, insert—
+
+> **16E Goods vehicle operator licences: waiver of procedural requirements**
+>
+> (1) This section applies in a case where, on an application to vary an operator's licence under section 17 of the Goods Vehicles (Licensing of Operators) Act 1995 (“the 1995 Act”), a traffic commissioner is satisfied that—
+>
+> (a) the variation applied for has a connection with the London Olympics,
+>
+> (b) there would not, but for this section, be sufficient time to dispose of the application before the beginning of the London Olympics period, and
+>
+> (c) the circumstances in which the application is being made are such that, but for this section, it could not have been made in sufficient time to be disposed of before the beginning of that period.
+>
+> (2) The traffic commissioner may direct—
+>
+> (a) that subsection (3) is to apply in relation to the application, and
+>
+> (b) if the traffic commissioner proposes to hold an inquiry under section 35 of the 1995 Act in relation to the application, that subsection (4) is to apply in relation to the inquiry.
+>
+> (3) If the traffic commissioner gives the direction under subsection (2)(a), the following provisions of the 1995 Act do not apply in relation to the application—
+>
+> (a) section 17(3) (publication of notice by traffic commissioner);
+>
+> (b) section 18 (publication of notice by operator).
+>
+> (4) If the traffic commissioner gives the direction under subsection (2)(b), Schedule 4 to the Goods Vehicles (Licensing of Operators) Regulations 1995 (S.I. 1995/2869), in its application to the inquiry, has effect as if for sub-paragraph (3) of paragraph 1 there were substituted—
+>
+> > (3) The traffic commissioner may abridge the periods referred to in sub-paragraphs (1) and (2).
+>
+> (5) Section 23 of the 1995 Act (conditions as to use of operating centres) applies in relation to the licence as if the application were an application of which notice has been published under section 17(3) of that Act.
+>
+> (6) Such variations as are made to the licence on the application, including by the attachment of conditions under section 21 or 23 of the 1995 Act (road safety and operating centres), have effect only during the London Olympics period.
+>
+> (7) Subsection (3)(a) does not affect the liability incurred in respect of the application under regulation 3 of the Goods Vehicles (Licensing of Operators) (Fees) Regulations 1995 (S.I. 1995/3000) (which requires payment of a fee on an application for variation for which publication is required by section 17(3) of the 1995 Act).
+>
+> (8) The power to give a direction under subsection (2) includes power to vary or revoke the direction.
+>
+> (9) In exercising functions under this section, the traffic commissioner must act under the general directions of, and have regard to guidance given by, the senior traffic commissioner.
+>
+> (10) In this section, “operator's licence” has the same meaning as in the 1995 Act (see section 2(1) of that Act).
+
+## Supplementary
+
+### 10 Commencement and duration, extent and application, and short title
+
+(1) The preceding provisions of this Act come into force at the end of the period of two months beginning with the day on which this Act is passed.
+
+(2) Sections 4 to 9 are repealed at the end of the London Olympics period within the meaning of the London Olympic Games and Paralympic Games Act 2006 (see section 1 of that Act).
+
+(3) Subsection (2) does not affect any liability incurred, or prevent any liability arising, by virtue of a provision of that Act in respect of a contravention to which a penalty charge is applicable; and a penalty charge may be imposed in respect of the contravention as if sections 4 to 8 had not been repealed.
+
+(4) Nothing in subsection (3) affects section 16 of the Interpretation Act 1978 (general savings on repeal).
+
+(5) Sections 1, 2 and 9 extend to England and Wales and Scotland.
+
+(6) Section 3 and this section extend to England and Wales, Scotland and Northern Ireland.
+
+(7) Sections 4 to 8 extend to England and Wales only.
+
+(8) Section 3 applies in respect of anything done whether in the United Kingdom or elsewhere.
+
+(9) Sections 4 to 8 apply only in relation to—
+
+(a) places in England, and
+
+(b) things done in or in respect of England.
+
+(10) This Act may be cited as the London Olympic Games and Paralympic Games (Amendment) Act 2011.
+
+---
+
+[^F1]: S. 1(3) omitted (2.12.2014) by virtue of The Olympic Delivery Authority (Dissolution) Order 2014 (S.I. 2014/3184), art. 1(2), Sch. para. 17(a)
+[^F2]: S. 1(4)(a) omitted (2.12.2014) by virtue of The Olympic Delivery Authority (Dissolution) Order 2014 (S.I. 2014/3184), art. 1(2), Sch. para. 17(a)
+[^F3]: S. 1(7) omitted (2.12.2014) by virtue of The Olympic Delivery Authority (Dissolution) Order 2014 (S.I. 2014/3184), art. 1(2), Sch. para. 17(a)
+[^F4]: S. 1(8)(a) omitted (2.12.2014) by virtue of The Olympic Delivery Authority (Dissolution) Order 2014 (S.I. 2014/3184), art. 1(2), Sch. para. 17(a)
+[^F5]: S. 1(9) omitted (2.12.2014) by virtue of The Olympic Delivery Authority (Dissolution) Order 2014 (S.I. 2014/3184), art. 1(2), Sch. para. 17(a)
+[^F6]: S. 2(2) omitted (2.12.2014) by virtue of The Olympic Delivery Authority (Dissolution) Order 2014 (S.I. 2014/3184), art. 1(2), Sch. para. 17(b)
+[^F7]: S. 2(4) omitted (2.12.2014) by virtue of The Olympic Delivery Authority (Dissolution) Order 2014 (S.I. 2014/3184), art. 1(2), Sch. para. 17(b)

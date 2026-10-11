@@ -1,0 +1,374 @@
+---
+title: "Road Traffic (Driving Instruction by Disabled Persons) Act 1993"
+identifier: "ukpga/1993/31"
+citation: "1993 c. 31"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S"
+date: 1993-07-20
+last_amended: 2015-06-08
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/1993/31"
+source_modified: 2016-02-13
+retrieved: 2026-10-11
+---
+
+# Road Traffic (Driving Instruction by Disabled Persons) Act 1993
+
+**1993 c. 31**
+
+An Act to make provision for enabling persons with certain physical disabilities to be authorised, in certain circumstances, to give paid instruction in the driving of motor cars; and for purposes connected therewith.
+
+[20th July 1993]
+
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## [^F1]1 Registration of disabled persons as driving instructors.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 2 Licences allowing disabled persons to give instruction so as to obtain practical experience.
+
+(1) In subsection (1) of section 129 of the [^M1]Road Traffic Act 1988 (licences to acquire experience with a view to undergoing the practical part of the examination for instructors)—
+
+(a) after the word “undergoing” there shall be inserted the words
+
+> either—
+>
+> (a)
+
+; and
+
+(b) after the words “of this Act” there shall be inserted the words
+
+> , or
+>
+> (b) such part of any examination prescribed for the purposes of section 125A(6)(a) of this Act,
+
+.
+
+(2) For subsection (2) of that section there shall be substituted—
+
+> (2) Subject to subsection (3) below, where a person applies to the Registrar in the manner determined by the Secretary of State, accompanied by particulars so determined, and the Registrar is satisfied either—
+>
+> (a) that the applicant has passed the other parts of the examination referred to in subsection (1)(a) above and that the conditions set out in section 125(3)(b) to (e) of this Act are fulfilled in his case, or
+>
+> (b) that the applicant has passed the other parts of the examination referred to in subsection (1)(b) above and that—
+>
+> (i) he holds a current disabled person’s limited driving licence and a current emergency control certificate, and
+>
+> (ii) the conditions referred to in subsection (6)(b) and the condition set out in subsection (6)(c) of section 125A of this Act are fulfilled in his case,
+>
+> the Registrar must, on payment of such fee, if any, as may be prescribed by regulations, grant to the applicant a licence to give paid instruction in the driving of a motor car.
+
+(3) In subsection (5) of that section, for the words “and shall” there shall be substituted the words “ and, subject to subsection (5A) below, shall ”.
+
+[^F2]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 3 Assessment of disabled person’s ability to control a motor car in an emergency.
+
+The following sections shall be inserted in the [^M2]Road Traffic Act 1988, after section 133—
+
+> **Disabled persons: emergency control certificates, etc**
+>
+> **133A Assessment of disabled person’s ability to control a motor car in an emergency.**
+>
+> (1) This section applies to any person who, by or under any provision of this Part of this Act,—
+>
+> (a) is authorised to apply to undergo an emergency control assessment, or
+>
+> (b) is required by the Registrar to submit himself for an emergency control assessment.
+>
+> (2) An emergency control assessment is an assessment of whether the person being assessed would be able either—
+>
+> (a) to take control of a motor car of a class covered by his disabled person’s limited driving licence without any modifications, or
+>
+> (b) to take control of a motor car of a class covered by his disabled person’s limited driving licence only with appropriate modifications of such a motor car,
+>
+> if an emergency arose while he was giving, in such a motor car, instruction in the driving of an appropriate motor car.
+>
+> (3) Where a person is authorised to apply to undergo an emergency control assessment, for the application to be duly made, it must be made to the Secretary of State and must include—
+>
+> (a) a declaration by the person making the application, in such form as the Secretary of State may require, stating every relevant disability or prospective disability from which the person is suffering or has at any time (or, if a period is prescribed by regulations, has during that period) suffered; and
+>
+> (b) such other particulars as the Secretary of State may require.
+>
+> (4) Where a person is required to submit himself for an emergency control assessment he must furnish to the Secretary of State such particulars as the Secretary of State may require.
+>
+> (5) An emergency control assessment—
+>
+> (a) shall be conducted by a person appointed by the Secretary of State (in this section referred to as “the assessor”); and
+>
+> (b) shall consist of such practical tests and other means of assessment as the Secretary of State may determine.
+>
+> (6) On completing an emergency control assessment of a person, the assessor shall grant him an emergency control certificate if he is satisfied either—
+>
+> (a) that, in the circumstances mentioned in subsection (2) above, that person would be able to take control of a motor car of a class covered by his disabled person’s limited driving licence without any modifications, or
+>
+> (b) that, in the circumstances mentioned in subsection (2) above, that person would be able to take control of a motor car of a class covered by his disabled person’s limited driving licence only with appropriate modifications of such a motor car;
+>
+> but if the assessor is not so satisfied, he shall refuse to grant a certificate to that person.
+>
+> (7) An emergency control certificate granted to any person—
+>
+> (a) shall specify the class of motor car covered by his disabled person’s limited driving licence in relation to which the assessor is satisfied as mentioned in subsection (6)(a) or (b) above, specifying, in a case falling within paragraph (b) the modifications that are appropriate; and
+>
+> (b) may include a recommendation that that person should undergo a further emergency control assessment after the end of such period as is specified in the certificate;
+>
+> and shall otherwise be in such form as the Secretary of State may determine.
+>
+> (8) Different modifications for different classes of motor car may be specified under subsection (7)(a) above.
+>
+> (9) The assessor who has assessed any person under this section—
+>
+> (a) if he grants an emergency control certificate, shall—
+>
+> (i) give or send the certificate to that person, and
+>
+> (ii) send a copy of the certificate to the Registrar; and
+>
+> (b) if he refuses to grant such a certificate, shall—
+>
+> (i) give notice in writing to that person of his decision and of the reasons for it, and
+>
+> (ii) send a copy of the notice to the Registrar.
+>
+> **133B Further assessments.**
+>
+> (1) A person who has undergone an emergency control assessment may not apply to undergo a further assessment until after the end of—
+>
+> (a) the period of six months beginning with the date of his most recent previous assessment, or
+>
+> (b) such other period as may be prescribed by regulations,
+>
+> unless, by virtue of section 125B(6)(a) of this Act or subsection (2) below, he is required by the Registrar to submit himself for a further assessment.
+>
+> (2) A person whose name is not on the register but who holds a current emergency control certificate shall, if at any time required to do so by the Registrar, submit himself for a further emergency control assessment on the day (within such period as may be prescribed by regulations) and at the place specified by the Registrar.
+>
+> (3) In considering whether to exercise, in respect of any person, his power under subsection (2) above, the Registrar shall have regard to any recommendation included in that person’s current emergency control certificate as to the period after the end of which he should undergo a further emergency control assessment.
+>
+> (4) A person who—
+>
+> (a) holds a current emergency control certificate, but
+>
+> (b) wishes to undergo a further emergency control assessment with a view to establishing his ability to control any class of motor car not specified in his current certificate,
+>
+> may, with the consent of the Registrar and subject to subsection (1) above, apply to undergo a further assessment; but a person applying to undergo a further assessment under this subsection shall not be required to make the declaration required by section 133A(3)(a) of this Act.
+>
+> (5) An application made under subsection (4) above for the consent of the Registrar shall be made in such manner and be accompanied by such particulars as the Registrar may require.
+>
+> (6) If, as a result of undergoing a further emergency control assessment, a person is granted a fresh emergency control certificate the grant of that certificate shall, with effect from the date on which it is notified as taking effect, revoke the previous certificate.
+>
+> (7) If, in the case of an emergency control assessment conducted in respect of a person who holds a current emergency control certificate, the assessor is not satisfied as to either of the matters specified in paragraphs (a) and (b) of section 133A(6), he shall revoke the certificate.
+>
+> (8) Where a person’s emergency control certificate is revoked under subsection (7) above the assessor shall—
+>
+> (a) serve notice in writing on him specifying—
+>
+> (i) the grounds for the revocation, and
+>
+> (ii) the date, not being earlier than the date of service of the notice, on which the revocation is to take effect, and
+>
+> (b) send a copy of the notice to the Registrar.
+>
+> (9) In this section “assessor” has the same meaning as in section 133A of this Act.
+
+## 4 Duty to disclose further disability.
+
+The following section shall be inserted in the [^M3]Road Traffic Act 1988, after the section 133B inserted by section 3 above—
+
+> **133C Duty to disclose further disability.**
+>
+> (1) This section applies to—
+>
+> (a) registered disabled instructors, and
+>
+> (b) persons who hold licences under section 129 of this Act granted by virtue of subsection (2)(b) of that section.
+>
+> (2) If at any time a person to whom this section applies becomes aware—
+>
+> (a) that he is suffering from a relevant or prospective disability which he has not previously disclosed to the Secretary of State under section 125A(3) or 133A(3) or (4) of this Act, or
+>
+> (b) that a relevant or prospective disability from which he has at any time suffered (and which has been previously so disclosed) has become more acute since his current emergency control certificate was granted,
+>
+> he must forthwith notify the Registrar in writing of the nature and extent of his disability.
+>
+> (3) Subsection (2) above does not require a person to notify the Registrar if—
+>
+> (a) the disability is one from which he has not previously suffered, and
+>
+> (b) he has reasonable grounds for believing that the duration of the disability will not extend beyond the period of three months beginning with the date on which he first becomes aware that he suffers from it.
+>
+> (4) A person who fails without reasonable excuse to notify the Registrar as required by subsection (2) above is guilty of an offence.
+
+## 5 Offences relating to giving by disabled person of paid driving instruction.
+
+The following section shall be inserted in the Road Traffic Act 1988, after the section 133C inserted by section 4 above—
+
+> **133D Offences relating to giving by disabled person of paid driving instruction.**
+>
+> (1) This section applies to—
+>
+> (a) registered disabled instructors, and
+>
+> (b) persons who hold licences under section 129 of this Act granted by virtue of subsection (2)(b) of that section.
+>
+> (2) No person to whom this section applies shall give paid instruction in the driving of a motor car unless he is the holder of a current emergency control certificate.
+>
+> (3) No person to whom this section applies shall give, in any unauthorised motor car, paid instruction in the driving of a motor car.
+>
+> (4) Where instruction is given in contravention of this section—
+>
+> (a) the person by whom it is given, and
+>
+> (b) if that person is employed by another to give that instruction, that other, as well as that person,
+>
+> is guilty of an offence.
+>
+> (5) In subsection (3) above “unauthorised motor car”, in relation to any person, means a motor car other than one which falls within the class of motor car specified in his current emergency control certificate and, where modifications are specified in that certificate, is modified in accordance with the specification.
+
+## 6 Amendments of enactments.
+
+The Schedule to this Act (which makes amendments supplementary to or consequential on this Act) shall have effect.
+
+## 7 Short title, commencement and extent.
+
+(1) This Act may be cited as the Road Traffic (Driving Instruction by Disabled Persons) Act 1993.
+
+(2) This Act shall come into force on such day as the Secretary of State may by order appoint.
+
+(3) This Act does not extend to Northern Ireland.
+
+## SCHEDULE — Related and Consequential Amendments
+
+*Section 6.*
+
+### Preliminary
+
+**1** In this Schedule—
+
+- “the principal Act” means the [^M4]Road Traffic Act 1988;
+- “the Offenders Act” means the [^M5]Road Traffic Offenders Act 1988.
+
+### Road Traffic Act 1988 (c.52)
+
+**2** (1) Section 123 of the principal Act (driving instruction for payment to be given only by registered or licensed persons) shall be amended in accordance with this paragraph.
+
+(2) In subsection (7), after the word “licence” (in both places) there shall be inserted the words “ or certificate ”.
+
+(3) For subsection (8) there shall be substituted—
+
+> (8) In this Part of this Act—
+>
+> - “paid instruction”, in relation to instruction in the driving of a motor car, shall be construed in accordance with subsection (3) above; and
+> - “provisional licence” has the same meaning as in Part III of this Act.
+
+**3** In section 125 of the principal Act (registration of approved instructors), for subsection (9) there shall be substituted—
+
+> (9) Subsections (2) to (8) above do not apply in relation to an application by a person to have his name entered in the register as that of a disabled instructor and to his entry in the register as such.
+
+**4** In section 126 of the principal Act (duration of registration), after subsection (3), there shall be inserted the following subsection—
+
+> (4) Where a registered disabled instructor whose name has been removed from the register under subsection (1) above applies under section 125A(1) of this Act for his name to be entered again in the register as that of a disabled instructor, he shall be required again to pass the examination mentioned in section 125A(6)(a) of this Act unless the application is made before the end of the period of one year beginning with the end of the period of four years mentioned in subsection (1) above.
+
+**5** (1) Section 127 of the principal Act (extension of duration of registration) shall be amended in accordance with this paragraph.
+
+(2) In subsection (2), for the word “following” there shall be substituted the word “ relevant ”.
+
+(3) In subsection (3), for the words “Those conditions are” there shall be substituted the words “ Except in the case of a registered disabled instructor, the relevant conditions are ”.
+
+[^F3]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) For subsection (4) there shall be substituted the following—
+
+> (4) The retention of a person’s name under this section shall be subject—
+>
+> (a) in the case of its retention by virtue of subsection (3) above, to the condition mentioned in section 125(5) of this Act, and
+>
+> (b) in the case of its retention by virtue of subsection (3A) above, to the condition mentioned in section 125B(6) of this Act.
+
+**6** (1) Section 128 of the principal Act (removal of names from register) shall be amended in accordance with this paragraph.
+
+(2) In subsection (1), for the word “following” there shall be substituted the word “ relevant ”.
+
+(3) In subsection (2), for the words “Those conditions are” there shall be substituted the words “ Except in the case of a registered disabled instructor, the relevant conditions are ”.
+
+[^F4]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F4]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**7** (1) Section 130 of the principal Act (revocation of licences granted for the giving of instruction so as to obtain practical experience) shall be amended in accordance with this paragraph.
+
+(2) In subsection (1)(b), for the words “conditions mentioned in subsection (2) below” there shall be substituted the words “ relevant conditions ”.
+
+(3) In subsection (2), for the words “The conditions referred to in subsection (1)(b) above are” there shall be substituted the words “ Except in the case of a licence granted by virtue of subsection (2)(b) of section 129 of this Act, the relevant conditions are ”.
+
+[^F5]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**8** In section 142 of the principal Act (index of expressions used in Part V) the following entries shall be inserted in the table at the appropriate places—
+
+> |  |  |
+> |---|---|
+> | Appropriate motor car | Section 125A(8) |
+
+> |  |  |
+> |---|---|
+> | Disability, prospective disability and relevant disability | Section 125A(8) |
+
+> |  |  |
+> |---|---|
+> | Disabled person’s limited driving licence | Section 125A(8) |
+
+> |  |  |
+> |---|---|
+> | Emergency control assessment and emergency control certificate | Section 125A(8) |
+
+> |  |  |
+> |---|---|
+> | Paid instruction | Section 123(8) |
+
+> |  |  |
+> |---|---|
+> | Provisional licence | Section 123(8) |
+
+> |  |  |
+> |---|---|
+> | Registered disabled instructor | Section 125A(8) |
+
+**9** In section 173 of the principal Act (forgery of documents), in subsection (2)(g), after the word “any” there shall be inserted the words “ certificate under section 133A or any ”.
+
+**10** In section 174 of the principal Act (making false statements, and withholding information, in connection with the purposes mentioned in that section), in subsection (1), the following paragraph shall be inserted after paragraph (d)—
+
+> (dd) of obtaining the grant to any person of a certificate under section 133A of this Act, or
+
+.
+
+### Road Traffic Offenders Act 1988 (c.53)
+
+**11** In Schedule 2 to the Offenders Act, in Part I (prosecution and punishment of offences) after the [^M6]entry for section 123(6) of [^M7]the principal Act (in that Schedule referred to as “RTA”) there shall be inserted—
+
+> |  |  |  |  |  |  |  |
+> |---|---|---|---|---|---|---|
+> | RTA section 125A(4) | Failure, on application for registration as disabled driving instructor, to notify Registrar of onset of, or deterioration in, relevant or prospective disability. | Summarily. | Level 3 on the standard scale. |  |  |  |
+> | RTA section 133C(4) | Failure by registered or licensed disabled driving instructor to notify Registrar of onset of, or deterioration in, relevant or prospective disability. | Summarily. | Level 3 on the standard scale. |  |  |  |
+> | RTA section 133D | Giving of paid driving instruction by disabled persons or their employers without emergency control certificate or in unauthorised motor car. | Summarily. | Level 3 on the standard scale. |  |  |  |
+
+.
+
+---
+
+[^F1]: S. 1 omitted (26.3.2015 for specified purposes, 8.6.2015 in so far as not already in force) by virtue of Deregulation Act 2015 (c. 20), s. 115(2)(e), Sch. 2 para. 30(2); S.I. 2015/994, art. 7(a) (with Sch. Pt. 3)
+[^M1]: 1988 c. 52.
+[^F2]: S. 2(4) omitted (26.3.2015 for specified purposes, 8.6.2015 in so far as not already in force) by virtue of Deregulation Act 2015 (c. 20), s. 115(2)(e), Sch. 2 para. 30(3); S.I. 2015/994, art. 7(a) (with Sch. Pt. 3)
+[^M2]: 1988 c. 52.
+[^M3]: 1988 c. 52.
+[^M4]: 1988 c. 52.
+[^M5]: 1988 c. 53.
+[^F3]: Sch. para. 5(4) omitted (26.3.2015 for specified purposes, 8.6.2015 in so far as not already in force) by virtue of Deregulation Act 2015 (c. 20), s. 115(2)(e), Sch. 2 para. 30(4)(a); S.I. 2015/994, art. 7(a) (with Sch. Pt. 3)
+[^F4]: Sch. paras. 6(4) (5) omitted (26.3.2015 for specified purposes, 8.6.2015 in so far as not already in force) by virtue of Deregulation Act 2015 (c. 20), s. 115(2)(e), Sch. 2 para. 30(4)(b); S.I. 2015/994, art. 7(a) (with Sch. Pt. 3)
+[^F5]: Sch. para. 7(4) omitted (26.3.2015 for specified purposes, 8.6.2015 in so far as not already in force) by virtue of Deregulation Act 2015 (c. 20), s. 115(2)(e), Sch. 2 para. 30(4)(c); S.I. 2015/994, art. 7(a) (with Sch. Pt. 3)
+[^M6]: 1988 c. 53.
+[^M7]: 1988 c. 53.

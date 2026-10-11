@@ -1,0 +1,15946 @@
+---
+title: "Police, Crime, Sentencing and Courts Act 2022"
+identifier: "ukpga/2022/32"
+citation: "2022 Chapter 32"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S+N.I."
+date: 2022-04-28
+last_amended: 2026-10-01
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/2022/32"
+source_modified: 2026-10-05
+retrieved: 2026-10-11
+---
+
+# Police, Crime, Sentencing and Courts Act 2022
+
+**2022 Chapter 32**
+
+An Act to make provision about the police and other emergency workers; to make provision about collaboration between authorities to prevent and reduce serious violence; to make provision about offensive weapons homicide reviews; to make provision for new offences and for the modification of existing offences; to make provision about the powers of the police and other authorities for the purposes of preventing, detecting, investigating or prosecuting crime or investigating other matters; to make provision about the maintenance of public order; to make provision about the removal, storage and disposal of vehicles; to make provision in connection with driving offences; to make provision about cautions; to make provision about bail and remand; to make provision about sentencing, detention, release, management and rehabilitation of offenders; to make provision about secure 16 to 19 Academies; to make provision for and in connection with procedures before courts and tribunals; and for connected purposes.
+
+[28th April 2022]
+
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## PART 1 — Protection of the police etc
+
+### Police covenant report
+
+#### 1 Police covenant report
+
+(1) The Secretary of State must in each financial year—
+
+(a) prepare a police covenant report, and
+
+(b) lay a copy of the report before Parliament.
+
+(2) A police covenant report is a report about—
+
+(a) the health and well-being of members and former members of the police workforce,
+
+(b) the physical protection of such persons,
+
+(c) the support required by members of their families, and
+
+(d) any other matter in relation to members or former members of the police workforce, or a particular description of such persons, that the Secretary of State considers appropriate,
+
+so far as these matters relate to the fact that the persons concerned are members or former members of the police workforce.
+
+(3) In preparing a police covenant report the Secretary of State must have regard in particular to—
+
+(a) the obligations of and sacrifices made by members of the police workforce, and
+
+(b) the principle that it is desirable to remove any disadvantage for members or former members of the police workforce arising from their membership or former membership.
+
+(4) In preparing a police covenant report the Secretary of State must ensure that the views of—
+
+(a) any relevant government department, and
+
+(b) anyone else the Secretary of State considers appropriate,
+
+are sought in relation to the matters to be covered by the report.
+
+(5) A police covenant report must set out in full or summarise any views obtained under subsection (4).
+
+(6) The Secretary of State may not include in a police covenant report a summary under subsection (5) unless the person whose views are summarised has approved the summary.
+
+(7) A police covenant report must state whether, in the Secretary of State’s opinion, in respect of any matter covered by the report, members or former members of the police workforce, or a particular description of such persons, are at a disadvantage when compared with other persons or such descriptions of other persons as the Secretary of State considers appropriate.
+
+(8) Where the Secretary of State’s opinion is that there is any such disadvantage as mentioned in subsection (7), the report must set out the Secretary of State’s response to that.
+
+(9) In this section—
+
+- “financial year” means—
+
+  - the period which begins with the day on which this section comes into force and ends with the following 31 March, and
+  - each successive period of 12 months;
+
+- “members of the police workforce” means—
+
+  - members of police forces in England and Wales,
+  - special constables appointed under section 27 of the Police Act 1996,
+  - staff appointed by the chief officer of police of a police force in England and Wales,
+  - persons designated as community support volunteers or policing support volunteers under section 38 of the Police Reform Act 2002,
+  - staff appointed by a local policing body if, or to the extent that, they are employed to assist a police force in England and Wales,
+  - persons providing services, in pursuance of contractual arrangements (but without being employed by the chief officer of a police force in England and Wales or a local policing body), to assist a police force in England and Wales in relation to the discharge of its chief officer’s functions,
+  - constables of the British Transport Police Force,
+  - special constables of the British Transport Police Force appointed under section 25 of the Railways and Transport Safety Act 2003,
+  - employees of the British Transport Police Authority appointed under section 27 of that Act and under the direction and control of the chief constable of the British Transport Police Force,
+  - persons designated as community support volunteers or policing support volunteers under section 38 of the Police Reform Act 2002 as applied by section 28 of the Railways and Transport Safety Act 2003,
+  - members of the Civil Nuclear Constabulary,
+  - employees of the Civil Nuclear Police Authority employed under paragraph 6 of Schedule 10 to the Energy Act 2004 if, or to the extent that, they are employed to assist the Civil Nuclear Constabulary,
+  - members of the Ministry of Defence Police and other persons under the direction and control of the Chief Constable of the Ministry of Defence Police, and
+  - National Crime Agency officers;
+
+- “former members of the police workforce” means persons who have ceased to be members of the police workforce;
+
+- “relevant government department”, in relation to a matter to be covered by a police covenant report, means a department of the Government of the United Kingdom (apart from the Home Office) which the Secretary of State considers has functions relevant to that matter.
+
+(10) The reference in subsection (2) to members of the families of members and former members of the police workforce is a reference to such descriptions of persons connected with members or former members of the police workforce as the Secretary of State considers should be covered by a police covenant report.
+
+### Offences against emergency workers
+
+#### 2 Increase in penalty for assault on emergency worker
+
+(1) In section 1 of the Assaults on Emergency Workers (Offences) Act 2018 (offence of common assault, or battery, committed against emergency worker), in subsection (2)(b) (penalty for conviction on indictment), for “12 months” substitute “2 years”.
+
+(2) Subsection (1) applies only in relation to offences committed on or after the day on which this section comes into force.
+
+#### 3 Required life sentence for manslaughter of emergency worker
+
+(1) The Sentencing Code is amended in accordance with subsections (2) to (15).
+
+(2) In section 177 (youth rehabilitation orders), in subsection (3)(b)(i), after “258” insert “or 258A”.
+
+(3) In section 221 (overview of Part 10), in subsection (2)(b), for “section 258” substitute “sections 258 and 258A”.
+
+(4) In section 249 (sentence of detention under section 250), in subsection (2)(a), for “section 258” substitute “sections 258 and 258A”.
+
+(5) In section 255 (extended sentence of detention), in subsection (1)(d), after “258(2)” insert “or 258A(2)”.
+
+(6) After section 258 insert—
+
+> **258A Required sentence of detention for life for manslaughter of emergency worker**
+>
+> (1) This section applies where—
+>
+> (a) a person aged under 18 is convicted of a relevant offence,
+>
+> (b) the offence was committed—
+>
+> (i) when the person was aged 16 or over, and
+>
+> (ii) on or after the relevant commencement date, and
+>
+> (c) the offence was committed against an emergency worker acting in the exercise of functions as such a worker.
+>
+> (2) The court must impose a sentence of detention for life under section 250 unless the court is of the opinion that there are exceptional circumstances which—
+>
+> (a) relate to the offence or the offender, and
+>
+> (b) justify not doing so.
+>
+> (3) For the purposes of subsection (1)(c) the circumstances in which an offence is to be taken as committed against a person acting in the exercise of functions as an emergency worker include circumstances where the offence takes place at a time when the person is not at work but is carrying out functions which, if done in work time, would have been in the exercise of functions as an emergency worker.
+>
+> (4) In this section “relevant offence” means the offence of manslaughter, but does not include—
+>
+> (a) manslaughter by gross negligence, or
+>
+> (b) manslaughter mentioned in section 2(3) or 4(1) of the Homicide Act 1957 or section 54(7) of the Coroners and Justice Act 2009 (partial defences to murder).
+>
+> (5) In this section—
+>
+> - “emergency worker” has the meaning given by section 68;
+> - “relevant commencement date” means the date on which section 3 of the Police, Crime, Sentencing and Courts Act 2022 (required life sentence for manslaughter of emergency worker) comes into force.
+>
+> (6) An offence the sentence for which is imposed under this section is not to be regarded as an offence the sentence for which is fixed by law.
+>
+> (7) Where an offence is found to have been committed over a period of 2 or more days, or at some time during a period of 2 or more days, it must be taken for the purposes of subsection (1)(b) to have been committed on the last of those days.
+
+(7) In section 267 (extended sentence of detention in a young offender institution), in subsection (1)(d), for “or 274” substitute “, 274 or 274A”.
+
+(8) In section 272 (offences other than murder), in subsection (2)(b), for “or 274” substitute “, 274 or 274A”.
+
+(9) After section 274 insert—
+
+> **274A Required sentence of custody for life for manslaughter of emergency worker**
+>
+> (1) This section applies where—
+>
+> (a) a person aged 18 or over but under 21 is convicted of a relevant offence,
+>
+> (b) the offence was committed—
+>
+> (i) when the person was aged 16 or over, and
+>
+> (ii) on or after the relevant commencement date, and
+>
+> (c) the offence was committed against an emergency worker acting in the exercise of functions as such a worker.
+>
+> (2) The court must impose a sentence of custody for life under section 272 unless the court is of the opinion that there are exceptional circumstances which—
+>
+> (a) relate to the offence or the offender, and
+>
+> (b) justify not doing so.
+>
+> (3) For the purposes of subsection (1)(c) the circumstances in which an offence is to be taken as committed against a person acting in the exercise of functions as an emergency worker include circumstances where the offence takes place at a time when the person is not at work but is carrying out functions which, if done in work time, would have been in the exercise of functions as an emergency worker.
+>
+> (4) In this section “relevant offence” means the offence of manslaughter, but does not include—
+>
+> (a) manslaughter by gross negligence, or
+>
+> (b) manslaughter mentioned in section 2(3) or 4(1) of the Homicide Act 1957 or section 54(7) of the Coroners and Justice Act 2009 (partial defences to murder).
+>
+> (5) In this section—
+>
+> - “emergency worker” has the meaning given by section 68;
+> - “relevant commencement date” means the date on which section 3 of the Police, Crime, Sentencing and Courts Act 2022 (required life sentence for manslaughter of emergency worker) comes into force.
+>
+> (6) An offence the sentence for which is imposed under this section is not to be regarded as an offence the sentence for which is fixed by law.
+>
+> (7) Where an offence is found to have been committed over a period of 2 or more days, or at some time during a period of 2 or more days, it must be taken for the purposes of subsection (1)(b) to have been committed on the last of those days.
+
+(10) In section 280 (extended sentence of imprisonment), in subsection (1)(d), for “or 285” substitute “, 285 or 285A”.
+
+(11) After section 285 insert—
+
+> **285A Required life sentence for manslaughter of emergency worker**
+>
+> (1) This section applies where—
+>
+> (a) a person aged 21 or over is convicted of a relevant offence,
+>
+> (b) the offence was committed—
+>
+> (i) when the person was aged 16 or over, and
+>
+> (ii) on or after the relevant commencement date, and
+>
+> (c) the offence was committed against an emergency worker acting in the exercise of functions as such a worker.
+>
+> (2) The court must impose a sentence of imprisonment for life unless the court is of the opinion that there are exceptional circumstances which—
+>
+> (a) relate to the offence or the offender, and
+>
+> (b) justify not doing so.
+>
+> (3) For the purposes of subsection (1)(c) the circumstances in which an offence is to be taken as committed against a person acting in the exercise of functions as an emergency worker include circumstances where the offence takes place at a time when the person is not at work but is carrying out functions which, if done in work time, would have been in the exercise of functions as an emergency worker.
+>
+> (4) In this section “relevant offence” means the offence of manslaughter, but does not include—
+>
+> (a) manslaughter by gross negligence, or
+>
+> (b) manslaughter mentioned in section 2(3) or 4(1) of the Homicide Act 1957 or section 54(7) of the Coroners and Justice Act 2009 (partial defences to murder).
+>
+> (5) In this section—
+>
+> - “emergency worker” has the meaning given by section 68;
+> - “relevant commencement date” means the date on which section 3 of the Police, Crime, Sentencing and Courts Act 2022 (required life sentence for manslaughter of emergency worker) comes into force.
+>
+> (6) An offence the sentence for which is imposed under this section is not to be regarded as an offence the sentence for which is fixed by law.
+>
+> (7) Where an offence is found to have been committed over a period of 2 or more days, or at some time during a period of 2 or more days, it must be taken for the purposes of subsection (1)(b) to have been committed on the last of those days.
+
+(12) In section 329 (conversion of sentence of detention to sentence of imprisonment), in subsection (7)(a), after “258” insert “or 258A”.
+
+(13) In section 399 (mandatory sentences), in paragraph (b)(i)—
+
+(a) for “258, 274 or 285” substitute “258, 258A, 274, 274A, 285 or 285A”;
+
+(b) omit “dangerous”.
+
+(14) In section 417 (commencement of Schedule 22), in subsection (3)(d), for “and 274” substitute “, 274 and 274A”.
+
+(15) In Schedule 22 (amendments of the Sentencing Code etc)—
+
+(a) after paragraph 59 insert—
+
+> **59A** In section 285A (required life sentence for manslaughter of emergency worker), in subsection (1)(a), for “21” substitute “18”.
+
+;
+
+(b) in paragraph 73(a)(ii), after “274” insert “, 274A”;
+
+(c) in paragraph 101(2), after “274,” insert “274A,”.
+
+(16) In section 37 of the Mental Health Act 1983 (powers of courts to order hospital admission or guardianship)—
+
+(a) in subsection (1A)—
+
+(i) after “258,” insert “258A,”;
+
+(ii) after “274,” insert “274A,”;
+
+(iii) for “or 285” substitute “, 285 or 285A”;
+
+(b) in subsection (1B)—
+
+(i) in paragraph (a), after “258” insert “or 258A”;
+
+(ii) in paragraph (b), for “or 274” substitute “, 274 or 274A”;
+
+(iii) in paragraph (c), for “or 285” substitute “, 285 or 285A”.
+
+### Special constables and Police Federations
+
+#### 4 Special constables and Police Federations: amendments to the Police Act 1996
+
+(1) The Police Act 1996 is amended as follows.
+
+(2) In section 51 (regulations for special constables), in subsection (2), after paragraph (c) insert—
+
+> (ca) the treatment as occasions of police duty of attendance at meetings of the Police Federations and of any body recognised by the Secretary of State for the purposes of section 64;
+
+.
+
+(3) Section 59 (Police Federations) is amended as set out in subsections (4) to (7).
+
+(4) For subsection (1) substitute—
+
+> (1) There shall continue to be a Police Federation for England and Wales for the purpose of representing members of the police forces in England and Wales, and special constables appointed for a police area in England and Wales, in all matters affecting their welfare and efficiency, except for—
+>
+> (a) questions of promotion affecting individuals, and
+>
+> (b) (subject to subsection (2)) questions of discipline affecting individuals.
+
+(5) After subsection (1A) insert—
+
+> (1B) There shall continue to be a Police Federation for Scotland for the purpose of representing constables of the Police Service of Scotland in all matters affecting their welfare and efficiency, except for—
+>
+> (a) questions of promotion affecting individuals, and
+>
+> (b) (subject to subsection (2A)) questions of discipline affecting individuals.
+
+(6) For subsection (2) substitute—
+
+> (2) The Police Federation for England and Wales may—
+>
+> (a) represent a member of a police force at any proceedings brought under regulations made in accordance with section 50(3) above, or on an appeal from any such proceedings;
+>
+> (b) represent a special constable at any proceedings brought under regulations made in accordance with section 51(2A) above, or on an appeal from any such proceedings.
+>
+> (2A) The Police Federation for Scotland may represent a constable of the Police Service of Scotland at any proceedings brought under regulations made in accordance with section 48 of the Police and Fire Reform (Scotland) Act 2012 (asp 8) in so far as relating to the matters described in section 52 of that Act, or on an appeal from any such proceedings.
+
+(7) For subsection (3) substitute—
+
+> (3) Except on an appeal to a police appeals tribunal or as provided in regulations made in accordance with section 84—
+>
+> (a) a member of a police force in England and Wales may only be represented under subsection (2)(a) by another member of a police force or a special constable;
+>
+> (b) a special constable appointed for a police area in England and Wales may only be represented under subsection (2)(b) by another special constable or a member of a police force;
+>
+> (c) a constable of the Police Service of Scotland may only be represented under subsection (2A) by another constable of the Police Service of Scotland.
+
+(8) In section 60 (regulations for Police Federations), in subsection (2), in paragraph (e), for the words from the beginning to “requiring” substitute “about the pay, pension or allowances and other conditions of service for any member of a police force or special constable who is the secretary or officer of a Police Federation (including provision which applies existing regulations with modifications), and may require”.
+
+### Police driving standards
+
+#### 5 Meaning of dangerous driving: constables etc
+
+(1) Section 2A of the Road Traffic Act 1988 (meaning of dangerous driving) is amended in accordance with subsections (2) to (4).
+
+(2) In subsection (1), after paragraph (b) insert “But this subsection does not apply where subsection (1B) applies.”
+
+(3) After subsection (1) insert—
+
+> (1A) Subsection (1B) applies where a designated person—
+>
+> (a) is driving for police purposes (subject to subsections (1E) and (1F)), and
+>
+> (b) has undertaken prescribed training.
+>
+> (1B) For the purposes of sections 1, 1A and 2 above, the designated person is to be regarded as driving dangerously if (and, subject to subsection (2) below, only if)—
+>
+> (a) the way the person drives falls far below what would be expected of a competent and careful constable who has undertaken the same prescribed training, and
+>
+> (b) it would be obvious to such a competent and careful constable that driving in that way would be dangerous.
+>
+> (1C) In subsections (1A) and (1B) “designated person” means—
+>
+> (a) a constable,
+>
+> (b) a member of staff appointed by the chief officer of police of a police force in England and Wales,
+>
+> (c) a member of staff appointed by a local policing body and employed to assist a police force in England and Wales,
+>
+> (d) a member of staff appointed by the Scottish Police Authority under section 26(1) of the Police and Fire Reform (Scotland) Act 2012 (asp 8),
+>
+> (e) an employee of the British Transport Police Authority appointed under section 27 of the Railways and Transport Safety Act 2003,
+>
+> (f) a person employed or engaged by—
+>
+> (i) a chief officer of police,
+>
+> (ii) the British Transport Police Authority,
+>
+> (iii) the Civil Nuclear Police Authority,
+>
+> (iv) the chief constable for the Ministry of Defence Police, or
+>
+> (v) the Scottish Police Authority,
+>
+> to train a person within any of paragraphs (a) to (e) to drive for police purposes,
+>
+> (g) a person employed or engaged by a person within paragraph (f)(i) to (v) to train another person to carry out training of the kind mentioned in that paragraph,
+>
+> (h) a National Crime Agency officer, or
+>
+> (i) a person engaged by the National Crime Agency—
+>
+> (i) to train a National Crime Agency officer to drive for law enforcement purposes, or
+>
+> (ii) to train another person to carry out training of the kind mentioned in sub-paragraph (i).
+>
+> (1D) In subsection (1C)(a) “constable” does not include a port constable within the meaning of section 7 of the Marine Navigation Act 2013 or a person appointed to act as a constable under provision made by virtue of section 16 of the Harbours Act 1964.
+>
+> (1E) In the case of a National Crime Agency officer, the reference in subsection (1A)(a) to driving for police purposes is to be read as a reference to driving for law enforcement purposes.
+>
+> (1F) In the case of a person within paragraph (i) of subsection (1C), the reference in subsection (1A)(a) to driving for police purposes is to be read as a reference to driving for the purpose of the training mentioned in that paragraph.
+
+(4) In subsection (3)—
+
+(a) after “(1)” insert “, (1B)”, and
+
+(b) after “driver” insert “or constable (as the case may be)”.
+
+(5) The amendments made by this section have effect only in relation to driving occurring after this section comes into force.
+
+#### 6 Meaning of careless driving: constables etc
+
+(1) Section 3ZA of the Road Traffic Act 1988 (meaning of careless driving) is amended in accordance with subsections (2) to (4).
+
+(2) In subsection (2), after “driver.” insert “But this subsection does not apply where subsection (2B) applies.”
+
+(3) After subsection (2) insert—
+
+> (2A) Subsection (2B) applies where a designated person—
+>
+> (a) is driving for police purposes (subject to subsections (2E) and (2F)), and
+>
+> (b) has undertaken prescribed training.
+>
+> (2B) The designated person is to be regarded as driving without due care and attention if (and only if) the way the person drives falls below what would be expected of a competent and careful constable who has undertaken the same prescribed training.
+>
+> (2C) In subsections (2A) and (2B) “designated person” means—
+>
+> (a) a constable,
+>
+> (b) a member of staff appointed by the chief officer of police of a police force in England and Wales,
+>
+> (c) a member of staff appointed by a local policing body and employed to assist a police force in England and Wales,
+>
+> (d) a member of staff appointed by the Scottish Police Authority under section 26(1) of the Police and Fire Reform (Scotland) Act 2012 (asp 8),
+>
+> (e) an employee of the British Transport Police Authority appointed under section 27 of the Railways and Transport Safety Act 2003,
+>
+> (f) a person employed or engaged by—
+>
+> (i) a chief officer of police,
+>
+> (ii) the British Transport Police Authority,
+>
+> (iii) the Civil Nuclear Police Authority,
+>
+> (iv) the chief constable for the Ministry of Defence Police, or
+>
+> (v) the Scottish Police Authority,
+>
+> to train a person within any of paragraphs (a) to (e) to drive for police purposes,
+>
+> (g) a person employed or engaged by a person within paragraph (f)(i) to (v) to train another person to carry out training of the kind mentioned in that paragraph,
+>
+> (h) a National Crime Agency officer, or
+>
+> (i) a person engaged by the National Crime Agency—
+>
+> (i) to train a National Crime Agency officer to drive for law enforcement purposes, or
+>
+> (ii) to train another person to carry out training of the kind mentioned in sub-paragraph (i).
+>
+> (2D) In subsection (2C)(a) “constable” does not include a port constable within the meaning of section 7 of the Marine Navigation Act 2013 or a person appointed to act as a constable under provision made by virtue of section 16 of the Harbours Act 1964.
+>
+> (2E) In the case of a National Crime Agency officer, the reference in subsection (2A)(a) to driving for police purposes is to be read as a reference to driving for law enforcement purposes.
+>
+> (2F) In the case of a person within paragraph (i) of subsection (2C), the reference in subsection (2A)(a) to driving for police purposes is to be read as a reference to driving for the purpose of the training mentioned in that paragraph.
+
+(4) In subsection (3)—
+
+(a) after “(2)” insert “or (2B)”, and
+
+(b) after “driver” insert “or constable (as the case may be)”.
+
+(5) The amendments made by this section have effect only in relation to driving occurring after this section comes into force.
+
+#### 7 Regulations relating to sections 5 and 6
+
+In section 195 of the Road Traffic Act 1988 (provisions as to regulations), after subsection (6) insert—
+
+> (7) Regulations prescribing training for the purposes of section 2A(1A)(b) or 3ZA(2A)(b) may make different provision for different persons or areas.
+
+## PART 2 — Prevention, investigation and prosecution of crime
+
+### CHAPTER 1 — Functions relating to serious violence
+
+#### Functions relating to serious violence
+
+##### 8 Duties to collaborate and plan to prevent and reduce serious violence
+
+(1) The specified authorities for a local government area must collaborate with each other to prevent and reduce serious violence in the area.
+
+(2) The duty imposed on the specified authorities for a local government area by subsection (1) includes a duty to plan together to exercise their functions so as to prevent and reduce serious violence in the area.
+
+(3) In particular, the specified authorities for a local government area must—
+
+(a) identify the kinds of serious violence that occur in the area,
+
+(b) identify the causes of serious violence in the area, so far as it is possible to do so, and
+
+(c) prepare and implement a strategy for exercising their functions to prevent and reduce serious violence in the area.
+
+(4) In preparing a strategy under this section for a local government area, the specified authorities for the area must ensure that the following are consulted—
+
+(a) each educational authority for the area;
+
+(b) each prison authority for the area;
+
+(c) each youth custody authority for the area.
+
+(5) A strategy under this section for a local government area may specify an action to be carried out by—
+
+(a) an educational authority for the area,
+
+(b) a prison authority for the area, or
+
+(c) a youth custody authority for the area.
+
+See section 15 for further provision about the duties of such authorities in relation to such actions.
+
+(6) In preparing a strategy under this section for a local government area, the specified authorities for the area may invite participation from—
+
+(a) in the case of a strategy for a local government area in England, a person of a description for the time being prescribed by order of the Secretary of State under section 5(3) of the Crime and Disorder Act 1998;
+
+(b) in the case of a strategy for a local government area in Wales, a person of a description for the time being prescribed by order of the Welsh Ministers under section 5(3) of that Act.
+
+(7) Once a strategy has been prepared under this section for a local government area, the specified authorities for the area must—
+
+(a) publish the strategy,
+
+(b) keep the strategy under review, and
+
+(c) from time to time prepare and implement a revised strategy.
+
+(8) A strategy under this section must not include any material that the specified authorities consider—
+
+(a) might jeopardise the safety of any person,
+
+(b) might prejudice the prevention or detection of crime or the investigation or prosecution of an offence, or
+
+(c) might compromise the security of, or good order or discipline within, an institution of a kind mentioned in the first column of a table in Schedule 2.
+
+(9) A strategy under this section may cover an area that is wider than a local government area if it is also prepared in the exercise of the powers in section 9.
+
+(10) The Secretary of State may by regulations make further provision for or in connection with the publication and dissemination of a strategy under this section.
+
+(11) References in subsections (4) to (10) to a strategy under this section include a revised strategy.
+
+(12) This section does not affect any power of a specified authority to collaborate or plan apart from this section.
+
+(13) For provisions about the interpretation of this section, see—
+
+(a) section 11 and Schedule 1 (specified authorities and local government areas);
+
+(b) section 12 and Schedule 2 (educational, prison and youth custody authorities);
+
+(c) section 13 (preventing and reducing serious violence).
+
+##### 9 Powers to collaborate and plan to prevent and reduce serious violence
+
+(1) Two or more specified authorities may collaborate with each other to prevent and reduce serious violence in a relevant area.
+
+(2) The power conferred on specified authorities by subsection (1) includes a power to plan together to exercise their functions so as to prevent and reduce serious violence in a relevant area.
+
+(3) In particular, the specified authorities may—
+
+(a) identify the kinds of serious violence that occur in a relevant area,
+
+(b) identify the causes of serious violence in the area, and
+
+(c) prepare and implement a strategy for exercising their functions to prevent and reduce serious violence in the area.
+
+(4) In preparing a strategy under this section for a relevant area, the specified authorities preparing the strategy must ensure that the following are consulted—
+
+(a) every other specified authority for the area;
+
+(b) each educational authority for the area;
+
+(c) each prison authority for the area;
+
+(d) each youth custody authority for the area.
+
+(5) A strategy under this section for a relevant area may specify actions to be carried out by—
+
+(a) an educational authority for the area,
+
+(b) a prison authority for the area, or
+
+(c) a youth custody authority for the area.
+
+See section 15 for further provision about the duties of such authorities in relation to such actions.
+
+(6) In preparing a strategy under this section for a relevant area, the specified authorities for the area may invite participation from—
+
+(a) in the case of a strategy for a relevant area in England, an eligible person for the time being prescribed by order of the Secretary of State under section 5(3) of the Crime and Disorder Act 1998;
+
+(b) in the case of a strategy for a relevant area in Wales, an eligible person for the time being prescribed by order of the Welsh Ministers under section 5(3) of that Act;
+
+(c) in the case of a strategy for a relevant area partly in England and partly in Wales, an eligible person for the time being prescribed by order of the Secretary of State or the Welsh Ministers under section 5(3) of that Act.
+
+(7) For the purposes of subsection (6), an eligible person is—
+
+(a) where a person is prescribed in terms of a description which includes a connection to a local government area, a person of that description with such a connection to a local government area all or part of which coincides with or falls within the relevant area, or
+
+(b) a person prescribed in terms that do not refer to a connection with a local government area.
+
+In this subsection “local government area” has the same meaning as in section 5 of the Crime and Disorder Act 1998 (see subsection (4) of that section).
+
+(8) Once a strategy has been prepared under this section for a relevant area, the specified authorities for the area—
+
+(a) must publish the strategy,
+
+(b) may keep the strategy under review, and
+
+(c) may from time to time prepare and implement a revised strategy.
+
+(9) A strategy under this section must not include any material that the specified authorities consider—
+
+(a) might jeopardise the safety of any person,
+
+(b) might prejudice the prevention or detection of crime or the investigation or prosecution of an offence, or
+
+(c) might compromise the security of, or good order or discipline within, an institution of a kind mentioned in the first column of a table in Schedule 2.
+
+(10) The Secretary of State may by regulations make further provision for or in connection with the publication and dissemination of a strategy under this section.
+
+(11) References in subsections (4) to (10) to a strategy under this section include a revised strategy.
+
+(12) This section does not affect any power of a specified authority to collaborate or plan apart from this section.
+
+(13) In this Chapter “relevant area”, in relation to a specified authority, educational authority, prison authority or youth custody authority means an area made up of—
+
+(a) all or part of a local government area for which it is a specified authority, educational authority, prison authority or youth custody authority, and
+
+(b) all or part of one or more other local government areas (regardless of whether, in the case of a specified authority or educational authority, it is also a specified authority or educational authority for the other area or areas).
+
+(14) For further provisions about the interpretation of this section, see—
+
+(a) section 11 and Schedule 1 (specified authorities and local government areas);
+
+(b) section 12 and Schedule 2 (educational, prison and youth custody authorities);
+
+(c) section 13 (preventing and reducing serious violence).
+
+##### 10 Power to authorise collaboration etc. with other persons
+
+(1) The Secretary of State may by regulations—
+
+(a) confer powers on a specified authority to collaborate with a prescribed person to prevent and reduce serious violence in a prescribed area;
+
+(b) confer powers on a prescribed person to collaborate with a specified authority to prevent and reduce serious violence in a prescribed area.
+
+(2) The Secretary of State may by regulations authorise the disclosure of information—
+
+(a) by a prescribed person to any person listed in subsection (3) for the purposes of preventing and reducing serious violence in a prescribed area;
+
+(b) by any person listed in subsection (3) to a prescribed person for such purposes.
+
+(3) Those persons are—
+
+(a) a specified authority;
+
+(b) a local policing body;
+
+(c) an educational authority;
+
+(d) a prison authority;
+
+(e) a youth custody authority.
+
+(4) Regulations under subsection (2) may provide that a disclosure under the regulations does not breach—
+
+(a) any obligation of confidence owed by the person making the disclosure, or
+
+(b) any other restriction on the disclosure of information (however imposed).
+
+(5) But if regulations under subsection (2) contain provision under subsection (4)(b), they must provide that they do not authorise a disclosure of information that—
+
+(a) would contravene the data protection legislation (but in determining whether a disclosure would do so, any power conferred by the regulations is to be taken into account), or
+
+(b) is prohibited by any of Parts 1 to 7 or Chapter 1 of Part 9 of the Investigatory Powers Act 2016.
+
+(6) Regulations under subsection (2) must not authorise—
+
+(a) the disclosure of patient information, or
+
+(b) the disclosure of personal information by a specified authority which is a health or social care authority.
+
+(7) This section does not affect any power to collaborate or to disclose information apart from regulations under this section.
+
+(8) In this section, “prescribed” means prescribed, or of a description prescribed, in regulations under this section.
+
+(9) Regulations under this section may, in particular, prescribe persons by reference to the fact that they have been invited under section 8(6) or 9(6) to participate in the preparation of a strategy under section 8 or 9.
+
+(10) In this Chapter—
+
+- “the data protection legislation” has the same meaning as in the Data Protection Act 2018 (see section 3 of that Act);
+
+- “health or social care authority” means a specified authority which is listed in the first column of the table headed “Health and social care” in Schedule 1;
+
+- “patient information” means personal information (however recorded) which relates to—
+
+  - the physical or mental health or condition of an individual,
+  - the diagnosis of an individual’s condition, or
+  - an individual’s care or treatment,
+
+  or is (to any extent) derived directly or indirectly from information relating to any of those matters;
+
+- “personal information” means information which is in a form that identifies any individual or enables any individual to be identified (either by itself or in combination with other information).
+
+##### 11 Specified authorities and local government areas
+
+(1) In this Chapter “specified authority” means a person listed in the first column of a table in Schedule 1.
+
+(2) Subsection (3) applies to a specified authority listed in Schedule 1 in terms that refer to the exercise of particular functions or to a particular capacity that it has.
+
+(3) References in this Chapter to the authority’s functions are to those functions or its functions when acting in that capacity.
+
+(4) In this Chapter “local government area” means—
+
+(a) in relation to England, a district, a London borough, the City of London or the Isles of Scilly;
+
+(b) in relation to Wales, a county or county borough.
+
+(5) For the purposes of this Chapter the Inner Temple and the Middle Temple form part of the City of London.
+
+(6) For the purposes of this Chapter a specified authority listed in a table in Schedule 1 is an authority for the local government area or (as the case may be) each local government area listed in the corresponding entry in the second column of the table.
+
+(7) The Secretary of State may by regulations amend Schedule 1 by adding, modifying or removing a reference to a specified authority or a local government area.
+
+##### 12 Educational, prison and youth custody authorities
+
+(1) In this Chapter—
+
+- “educational authority” means a person listed in the first column of the first table in Schedule 2;
+- “prison authority” means a person listed in the first column of the second table in Schedule 2;
+- “youth custody authority” means a person listed in the first column of the third table in Schedule 2.
+
+(2) For the purposes of this Chapter an educational authority, prison authority or a youth custody authority listed in a table in Schedule 2 is an authority for the local government area or (as the case may be) each local government area listed in the corresponding entry in the second column of the table.
+
+(3) The Secretary of State may by regulations amend Schedule 2 by adding, modifying or removing an entry in a table in that Schedule.
+
+##### 13 Preventing and reducing serious violence
+
+(1) In this Chapter—
+
+(a) references to preventing serious violence in an area are to preventing people from becoming involved in serious violence in the area, and
+
+(b) references to reducing serious violence in an area are to reducing instances of serious violence in the area.
+
+(2) The reference in subsection (1)(a) to becoming involved in serious violence includes becoming a victim of serious violence.
+
+(3) In this Chapter “violence”—
+
+(a) includes, in particular—
+
+(i) domestic abuse within the meaning of the Domestic Abuse Act 2021 (see section 1 of that Act),
+
+(ii) sexual offences,
+
+(iii) violence against property, and
+
+(iv) threats of violence;
+
+(b) does not include terrorism (within the meaning of the Terrorism Act 2000 (see section 1(1) to (4) of that Act)).
+
+(4) In subsection (3)(a)(ii), “sexual offence” means an offence under the law of England and Wales which is for the time being specified in Schedule 3 to the Sexual Offences Act 2003, other than the offence specified in paragraph 14 of that Schedule (fraudulent evasion of excise duty).
+
+(5) In determining for the purposes of subsection (4) whether an offence is specified in Schedule 3 to the Sexual Offences Act 2003, any limitation in that Schedule referring to the circumstances of a particular case (including the sentence imposed) is to be disregarded.
+
+(6) In considering whether violence in an area amounts to serious violence for the purposes of this Chapter, account must be taken in particular of the following factors—
+
+(a) the maximum penalty which could be imposed for the offence (if any) involved in the violence,
+
+(b) the impact of the violence on any victim,
+
+(c) the prevalence of the violence in the area, and
+
+(d) the impact of the violence on the community in the area.
+
+#### Exercise of functions
+
+##### 14 Involvement of local policing bodies
+
+(1) A local policing body for a police area may assist a specified authority in the exercise of—
+
+(a) the authority’s functions under or in accordance with section 8 in relation to a local government area which coincides with or falls within the police area, or
+
+(b) the authority’s functions under or in accordance with section 9 in relation to a relevant area which, or any part of which, coincides with or falls within the police area.
+
+(2) A local policing body for a police area may—
+
+(a) monitor the exercise by specified authorities of their functions under or in accordance with section 8 in relation to a local government area which coincides with or falls within the police area, or
+
+(b) monitor the exercise by specified authorities of their functions under or in accordance with section 9 in relation to a relevant area which, or any part of which, coincides with or falls within the police area.
+
+(3) A local policing body may report its findings under subsection (2) to the Secretary of State.
+
+(4) The Secretary of State may by regulations make provision conferring functions on a local policing body for a police area for the purposes of subsection (1).
+
+(5) Provision under subsection (4) may include provision—
+
+(a) for a local policing body to provide funding to a specified authority,
+
+(b) for a local policing body to arrange for meetings to be held for the purpose of assisting the exercise by specified authorities of their functions under or in accordance with section 8 or 9,
+
+(c) for the local policing body or a representative of the body to chair the meetings, and
+
+(d) for such descriptions and numbers of persons as the local policing body may specify to be required to attend the meetings.
+
+(6) If a local policing body acts under subsection (1) or (2), or under regulations under subsection (4), in relation to the exercise by a specified authority of its functions under or in accordance with section 8 or 9, the authority must co-operate with the body.
+
+(7) References in this Chapter (however expressed) to a specified authority exercising functions in accordance with section 8 or 9 are to the authority exercising functions conferred on it apart from this Chapter in accordance with the section in question.
+
+##### 15 Involvement of educational, prison and youth custody authorities
+
+(1) An educational, prison or youth custody authority (a “relevant authority”) for a local government area and a specified authority for that area may collaborate with each other to prevent and reduce serious violence in that area.
+
+(2) A relevant authority for a relevant area and a specified authority for that area may collaborate with each other to prevent and reduce serious violence in that area.
+
+(3) A relevant authority and a specified authority must collaborate with each other as mentioned in subsection (1) or (2) if either the relevant authority or the specified authority requests the other to do so.
+
+(4) A relevant authority must carry out any actions which are specified under section 8(5) or 9(5) as actions to be carried out by the authority.
+
+(5) A relevant authority for a local government area—
+
+(a) may collaborate with another relevant authority for that area to prevent and reduce serious violence in that area, and
+
+(b) must collaborate with another relevant authority for that area for those purposes if requested by that other relevant authority to do so.
+
+(6) A relevant authority (“RA1”) may collaborate with another relevant authority (“RA2”) to prevent and reduce serious violence in an area which is made up of—
+
+(a) all or part of the local government area for which RA1 is a relevant authority, and
+
+(b) all or part of the local government area for which RA2 is a relevant authority.
+
+(7) A relevant authority is not subject to a duty in subsection (3), (4) or (5)(b), and a specified authority is not subject to a duty in subsection (3), if or to the extent that compliance with the duty—
+
+(a) would be incompatible with any other duty of the authority imposed by an enactment (other than subsection (5)(b)),
+
+(b) would otherwise have an adverse effect on the exercise of the authority’s functions,
+
+(c) would be disproportionate to the need to prevent and reduce serious violence in the area to which the duty relates, or
+
+(d) would mean that the authority incurred unreasonable costs.
+
+(8) In determining whether subsection (7) applies to an authority, the cumulative effect of complying with duties under this section must be taken into account.
+
+(9) Subsection (7) or (8) does not apply in relation to the duty of a relevant authority to collaborate with a specified authority under subsection (3) to the extent that it relates to—
+
+(a) the exercise by the specified authority of its function under subsection (3)(a) or (b) of section 8 of identifying the kinds or causes of serious violence in an area or its function of preparing a strategy under subsection (3)(c) of that section, or
+
+(b) the exercise by the specified authority of its function under subsection (3)(a) or (b) of section 9 of identifying the kinds or causes of serious violence in an area or its function of preparing a strategy under subsection (3)(c) of that section.
+
+(10) This section does not affect any power to collaborate apart from this section.
+
+(11) In this section “enactment” includes—
+
+(a) an enactment comprised in subordinate legislation within the meaning of the Interpretation Act 1978, and
+
+(b) an enactment comprised in, or in an instrument made under, a Measure or Act of Senedd Cymru.
+
+##### 16 Disclosure of information
+
+(1) A person listed in subsection (2) may disclose information that it holds for the purposes of its functions to another person listed in that subsection for the purposes of the exercise by the other person of its functions under or in accordance with this Chapter.
+
+(2) Those persons are—
+
+(a) a specified authority;
+
+(b) a local policing body;
+
+(c) an educational authority;
+
+(d) a prison authority;
+
+(e) a youth custody authority.
+
+(3) A disclosure of information authorised by this section does not breach—
+
+(a) any obligation of confidence owed by the person making the disclosure, or
+
+(b) any other restriction on the disclosure of information (however imposed).
+
+(4) But this section does not authorise—
+
+(a) the disclosure of patient information,
+
+(b) the disclosure of personal information by a specified authority which is a health or social care authority,
+
+(c) a disclosure of information that would contravene the data protection legislation (but in determining whether a disclosure would do so, the power conferred by this section is to be taken into account), or
+
+(d) a disclosure of information that is prohibited by any of Parts 1 to 7 or Chapter 1 of Part 9 of the Investigatory Powers Act 2016.
+
+(5) Subsection (6) applies if—
+
+(a) a disclosure of information under this section is also permitted by regulations under section 6(2) of the Crime and Disorder Act 1998 or by section 115 of that Act (but is not also a disclosure under section 17A of that Act), and
+
+(b) a condition or limitation applies to a disclosure under those regulations or section 115 of that Act by virtue of such regulations.
+
+(6) The condition or limitation does not apply to the disclosure of information under this section.
+
+(7) This section does not otherwise affect any power to disclose information apart from this section.
+
+##### 17 Supply of information to local policing bodies
+
+(1) A local policing body may, for the purposes of enabling or assisting it to exercise its functions under section 14 in relation to an area, request any person listed in subsection (2) to supply it with such information as may be specified in the request.
+
+(2) Those persons are—
+
+(a) a specified authority for that area;
+
+(b) an educational authority for that area;
+
+(c) a prison authority for that area;
+
+(d) a youth custody authority for that area.
+
+(3) Information requested under subsection (1) must be information that is held by the person to whom the request is made and that relates to—
+
+(a) the person to whom the request was made,
+
+(b) a function of the person to whom the request was made, or
+
+(c) a person in respect of whom a function is exercisable by the person requested to supply the information.
+
+(4) Subject to subsection (6), a person who is requested to supply information under subsection (1) must comply with the request.
+
+(5) A disclosure of information required by subsection (4) does not breach—
+
+(a) any obligation of confidence owed by the person making the disclosure, or
+
+(b) any other restriction on the disclosure of information (however imposed).
+
+(6) But subsection (4) does not require—
+
+(a) the disclosure of patient information,
+
+(b) the disclosure of personal information by a specified authority which is a health or social care authority,
+
+(c) a disclosure of information that would contravene the data protection legislation (but in determining whether a disclosure would do so, the duty imposed by that subsection is to be taken into account), or
+
+(d) a disclosure of information that is prohibited by any of Parts 1 to 7 or Chapter 1 of Part 9 of the Investigatory Powers Act 2016.
+
+(7) Information supplied to a local policing body under this section may be used by the body only for the purpose of enabling or assisting it to exercise its functions under section 14.
+
+##### 18 Directions
+
+(1) Subsection (2) applies if the Secretary of State is satisfied that—
+
+(a) a specified authority has failed to discharge a duty imposed on it by section 8, 14(6), 15(3) or 17(4), or
+
+(b) an educational authority, prison authority or youth custody authority has failed to discharge a duty imposed on it by section 15(3), (4) or (5)(b) or 17(4).
+
+(2) The Secretary of State may give directions to the authority for the purpose of securing compliance with the duty.
+
+(3) A direction under subsection (2) may be enforced, on an application made on behalf of the Secretary of State, by a mandatory order.
+
+(4) The Secretary of State must obtain the consent of the Welsh Ministers before giving a direction under this section to a devolved Welsh authority within the meaning of the Government of Wales Act 2006 (see section 157A of that Act).
+
+(5) This section does not apply in relation to—
+
+(a) a provider of probation services if that provider is the Secretary of State,
+
+(b) the governor of a prison, young offender institution or secure training centre, or
+
+(c) the principal of a directly managed secure college as defined in paragraph 27 of Schedule 10 to the Criminal Justice and Courts Act 2015.
+
+##### 19 Guidance
+
+(1) A person listed in subsection (2) must have regard to guidance issued by the Secretary of State—
+
+(a) in exercising any function conferred by or by virtue of this Chapter, or
+
+(b) in exercising any function in accordance with this Chapter.
+
+(2) Those persons are—
+
+(a) a specified authority;
+
+(b) a person prescribed in regulations under section 10;
+
+(c) a local policing body;
+
+(d) an educational authority;
+
+(e) a prison authority;
+
+(f) a youth custody authority.
+
+(3) The Secretary of State must consult the Welsh Ministers before issuing guidance relating to the exercise of functions as mentioned in subsection (1) by a devolved Welsh authority within the meaning of the Government of Wales Act 2006 (see section 157A of that Act).
+
+(4) After issuing guidance under this section, the Secretary of State must lay a copy of the guidance before Parliament.
+
+#### Amendments to the Crime and Disorder Act 1998 etc
+
+##### 20 Amendments to the Crime and Disorder Act 1998
+
+(1) The Crime and Disorder Act 1998 is amended as follows.
+
+(2) In section 5A (combination agreements: further provision)—
+
+(a) in subsection (2), after paragraph (c) insert—
+
+> (d) preventing people from becoming involved in serious violence;
+>
+> (e) reducing instances of serious violence.
+
+, and
+
+(b) after subsection (9) insert—
+
+> (10) References in this section to serious violence and to becoming involved in serious violence are to be construed in accordance with section 18.
+
+(3) Section 6 (formulation and implementation of strategies) is amended in accordance with subsections (4) to (7).
+
+(4) In subsection (1), at the end of paragraph (c) insert
+
+> ; and
+>
+> (d) a strategy for—
+>
+> (i) preventing people from becoming involved in serious violence in the area, and
+>
+> (ii) reducing instances of serious violence in the area.
+
+(5) In subsection (6)—
+
+(a) omit the “or” at the end of paragraph (a), and
+
+(b) after paragraph (b) insert—
+
+> (c) the prevention of people becoming involved in serious violence of a particular description; or
+>
+> (d) the reduction of instances of serious violence of a particular description.
+
+(6) In subsection (9), at the end of paragraph (a) insert “and strategies for preventing people from becoming involved in and reducing instances of serious violence in areas in Wales”.
+
+(7) After subsection (9) insert—
+
+> (10) The Secretary of State must consult the Welsh Ministers before making regulations under this section if and to extent that the regulations—
+>
+> (a) relate to a strategy within subsection (1)(d), and
+>
+> (b) make provision that applies in relation to a devolved Welsh authority within the meaning of the Government of Wales Act 2006 (see section 157A of that Act).
+>
+> (11) References in this section to serious violence and to becoming involved in serious violence are to be construed in accordance with section 18.
+
+(8) Section 17 (duty to consider crime and disorder implications) is amended in accordance with subsections (9) to (11).
+
+(9) In subsection (1), at the end of paragraph (c) insert
+
+> ; and
+>
+> (d) serious violence in its area.
+
+(10) After subsection (1) insert—
+
+> (1A) The duty imposed on an authority by subsection (1) to do all it reasonably can to prevent serious violence in its area is a duty on the authority to do all it reasonably can to—
+>
+> (a) prevent people from becoming involved in serious violence in its area, and
+>
+> (b) reduce instances of serious violence in its area.
+
+(11) After subsection (5) insert—
+
+> (6) References in this section to serious violence and to becoming involved in serious violence are to be construed in accordance with section 18.
+
+(12) In section 18 (interpretation of Chapter 1)—
+
+(a) in subsection (1), at the appropriate place insert—
+
+> - “violence”—
+>
+>   - includes, in particular—
+>   
+>     - domestic abuse within the meaning of the Domestic Abuse Act 2021 (see section 1 of that Act),
+>     - sexual offences,
+>     - violence against property, and
+>     - threats of violence;
+>   
+>   - does not include terrorism (within the meaning of the Terrorism Act 2000 (see section 1(1) to (4) of that Act)).
+
+, and
+
+(b) after that subsection insert—
+
+> (1A) In the definition of “violence” in subsection (1) “sexual offence” means an offence under the law of England and Wales which is for the time being specified in Schedule 3 to the Sexual Offences Act 2003, other than the offence specified in paragraph 14 of that Schedule (fraudulent evasion of excise duty).
+>
+> (1B) In determining for the purposes of subsection (1A) whether an offence is specified in Schedule 3 to the Sexual Offences Act 2003, any limitation in that Schedule referring to the circumstances of a particular case (including the sentence imposed) is to be disregarded.
+>
+> (1C) References in this Chapter to becoming involved in serious violence include becoming a victim of serious violence.
+>
+> (1D) In considering whether violence in an area amounts to serious violence for the purposes of this Chapter account must be taken in particular of the following factors—
+>
+> (a) the maximum penalty which could be imposed for the offence (if any) involved in the violence,
+>
+> (b) the impact of the violence on any victim,
+>
+> (c) the prevalence of the violence in the area, and
+>
+> (d) the impact of the violence on the community in the area.
+
+##### 21 Amendment to the Police and Justice Act 2006
+
+In section 19(11) of the Police and Justice Act 2006 (local authority scrutiny of crime and disorder matters: interpretation), in the definition of “local crime and disorder matter”—
+
+(a) omit the “or” at the end of paragraph (a), and
+
+(b) at the end of paragraph (b) insert
+
+> or
+>
+> - serious violence (within the meaning of Chapter 1 of Part 1 of the Crime and Disorder Act 1998),
+
+.
+
+#### General
+
+##### 22 Regulations
+
+(1) Regulations under this Chapter are to be made by statutory instrument.
+
+(2) Regulations under this Chapter—
+
+(a) may make different provision for different purposes or areas;
+
+(b) may make consequential, supplementary, incidental, transitional, transitory or saving provision.
+
+(3) The Secretary of State must consult the Welsh Ministers before making regulations under this Chapter if and to extent that the regulations make provision that applies in relation to a devolved Welsh authority within the meaning of the Government of Wales Act 2006 (see section 157A of that Act).
+
+(4) A statutory instrument containing regulations under this Chapter may not be made unless a draft of the instrument has been laid before and approved by a resolution of each House of Parliament.
+
+(5) Subsection (4) does not apply to a statutory instrument containing only one or more of the following—
+
+(a) regulations under section 8(10);
+
+(b) regulations under section 9(10);
+
+(c) regulations under section 11(7) which make provision for the removal of an entry in Schedule 1 where the authority concerned has ceased to exist;
+
+(d) regulations under section 11(7) which make provision for the modification of an entry in Schedule 1 in consequence of a change of name or transfer of functions;
+
+(e) regulations under section 12(3) which make provision for the removal of an entry in Schedule 2 where the authority concerned has ceased to exist;
+
+(f) regulations under section 12(3) which make provision for the modification of an entry in Schedule 2 in consequence of a change of name or transfer of functions;
+
+(g) regulations under section 14(4).
+
+(6) A statutory instrument within subsection (5) is subject to annulment in pursuance of a resolution of either House of Parliament.
+
+##### 23 Index of defined expressions
+
+In this Chapter an expression listed in the first column of the table has the meaning given by, or is to be interpreted in accordance with, the corresponding provision listed in the second column.
+
+| Expression | Provision |
+|---|---|
+| the data protection legislation | section 10(10) |
+| educational authority | section 12(1) and Schedule 2 |
+| educational authority for a local government area | section 12(2) and Schedule 2 |
+| educational authority for a relevant area | section 9(13) |
+| health or social care authority | section 10(9) |
+| local government area | section 11(4) |
+| patient information | section 10(9) |
+| personal information | section 10(9) |
+| preventing serious violence | section 13(1) and (2) |
+| prison authority | section 12(1) and Schedule 2 |
+| prison authority for a local government area | section 12(2) and Schedule 2 |
+| prison authority for a relevant area | section 9(13) |
+| reducing serious violence | section 13(1) |
+| relevant area | section 9(13) |
+| serious violence | section 13(6) |
+| specified authority | section 11(1) and Schedule 1 |
+| specified authority for a local government area | section 11(6) and Schedule 1 |
+| specified authority for a relevant area | section 9(13) |
+| violence | section 13(3) |
+| youth custody authority | section 12(1) and Schedule 2 |
+| youth custody authority for a local government area | section 12(2) and Schedule 2 |
+| youth custody authority for a relevant area | section 9(13) |
+
+### CHAPTER 2 — Offensive weapons homicide reviews
+
+#### 24 Duty to arrange a review
+
+(1) Where a review partner considers that—
+
+(a) the death of a person was, or is likely to have been, a qualifying homicide,
+
+(b) the death occurred, or is likely to have occurred, in England or Wales,
+
+(c) such other conditions as the Secretary of State may specify by regulations are satisfied, including, for example, conditions relating to—
+
+(i) the circumstances of or relating to the death,
+
+(ii) the circumstances or history of the person who died, or
+
+(iii) the circumstances or history of other persons with a connection to the death, and
+
+(d) the review partner is one of the relevant review partners in respect of the death (see section 25),
+
+the review partner must join with the other relevant review partners in respect of the death in arranging for there to be a review under this section of the person’s death.
+
+(2) Subsection (1) is subject to subsections (3) to (5) and section 26.
+
+(3) If the review partner considers, on further information, that any of the conditions mentioned in subsection (1)(a) to (c) is not satisfied in the case of the person’s death, the review partner ceases to be under a duty to arrange for there to be a review under this section of the death (and a review may accordingly be discontinued).
+
+(4) If the review partner considers, on further information, that the condition mentioned in subsection (1)(d) is not satisfied in the case of the person’s death, the review partner ceases to be under a duty to arrange for there to be a review under this section of the death, except where such a review of the death has already started to take place under arrangements made by the review partner and other review partners.
+
+(5) Subsection (1) does not require a review partner to arrange for there to be a review under this section of a person’s death if such a review of the death has already taken place, or started to take place, under arrangements made by other review partners.
+
+(6) For the purposes of this section, the homicide of a person is a qualifying homicide if—
+
+(a) the person was aged 18 or over, and
+
+(b) the death, or the events surrounding it, involved the use of an offensive weapon.
+
+(7) The Secretary of State may by regulations—
+
+(a) amend this section so as to alter the meaning of “qualifying homicide”, and
+
+(b) make such consequential amendments of this Chapter as appear to the Secretary of State to be appropriate.
+
+(8) In this section “offensive weapon” has the same meaning as in section 1 of the Prevention of Crime Act 1953.
+
+#### 25 Relevant review partners
+
+(1) The Secretary of State may by regulations make provision for identifying which review partners are to be the relevant review partners in respect of a person’s death.
+
+(2) The regulations may provide that the relevant review partners in respect of a person’s death are—
+
+(a) a chief officer of police for a police area in England or Wales of a description specified in the regulations,
+
+(b) a local authority of a description specified in the regulations or, in a case of a description specified in the regulations, a county council and a district council of a description specified in the regulations, and
+
+(c) [[^F1]an integrated care board] or a local health board of a description specified in the regulations.
+
+(3) The regulations may, in particular, provide that, in a case of a description specified in the regulations, the relevant review partners in respect of a person’s death are—
+
+(a) the chief officer of police for the police area in England or Wales in which the death occurred or is likely to have occurred,
+
+(b) the local authority in whose area the death occurred or is likely to have occurred or, if the death occurred or is likely to have occurred within the area of a district council whose area is within the area of a county council, both of those local authorities, and
+
+(c) the [[^F2]integrated care board] or the local health board in whose area the death occurred or is likely to have occurred.
+
+(4) The regulations may include provision for identifying the relevant review partners in respect of a person’s death by reference to other matters, including—
+
+(a) the last known place of residence of the person who died;
+
+(b) an earlier place of residence of the person who died;
+
+(c) the place of residence of the person who caused or is likely to have caused, or of any of the persons who caused or are likely to have caused, the person’s death;
+
+(d) the police area in England or Wales of the police force that is investigating or has investigated the person’s death.
+
+(5) The regulations may—
+
+(a) provide for a group of review partners to agree with another group of review partners to be the relevant review partners in respect of a person’s death instead of that other group;
+
+(b) provide for review partners of a description specified in the regulations to agree between them which of them is a relevant review partner in respect of a person’s death;
+
+(c) provide for the Secretary of State to give a direction specifying which review partners are the relevant review partners in respect of a person’s death.
+
+#### 26 Relationship with other review requirements
+
+(1) The duty in section 24(1) does not apply in relation to a death if—
+
+(a) a child death review must or may be arranged in relation to the death (see section 16M(1) and (2) of the Children Act 2004),
+
+(b) the death may be the subject of a [[^F3]domestic abuse related death review or] domestic homicide review (see [[^F4]sections 8A and] 9 of the Domestic Violence, Crime and Victims Act 2004), or
+
+(c) a safeguarding adults review must or may be established in relation to the death (see section 44(1) and (4) of the Care Act 2014).
+
+(2) The Secretary of State may by regulations make provision about the duty in section 24(1) not applying in the case of a death which may or must be investigated under arrangements made by NHS bodies with respect to deaths caused by persons who are receiving or have received any health services relating to mental health.
+
+(3) The duty in section 24(1) does not apply in relation to a death if regulations under section 135(4)(a) of the Social Services and Well-being (Wales) Act 2014 (anaw 4) require a Safeguarding Board to undertake a review of the death.
+
+(4) The Secretary of State may by regulations make provision about the duty in section 24(1) not applying in the case of a death, caused by a person who is receiving or has received any health services relating to mental health, where there may be a review of, or investigation into, the provision of that health care under section 70 of the Health and Social Care (Community Health and Standards) Act 2003.
+
+#### 27 Notification of Secretary of State
+
+(1) If a review partner becomes aware of qualifying circumstances in relation to a person’s death, the review partner must notify the Secretary of State before the end of the notification period of one of the following—
+
+(a) that the review partner is under a duty to arrange for there to be a review under section 24 of the person’s death,
+
+(b) that the review partner is not under that duty in respect of the death, or
+
+(c) that the review partner has not been able to take a decision on the matter.
+
+(2) Subsection (1) does not apply if, when the review partner becomes aware of qualifying circumstances in relation to a person’s death, the review partner is also aware that no duty in section 24(1) arises in respect of the death because of section 24(5) or 26.
+
+(3) If a review partner gives a notification under subsection (1)(c), the review partner must notify the Secretary of State of the review partner’s decision on the matter once it has been taken.
+
+(4) Where a review partner—
+
+(a) notifies the Secretary of State that the review partner is under a duty to arrange a review under section 24 of a death, but
+
+(b) before the review starts to take place, decides that the review partner is not under that duty in respect of that death (see section 24(3) and (4)),
+
+the review partner must notify the Secretary of State of that decision.
+
+(5) Where a review under section 24 of a death is discontinued because the review partner considers that a condition mentioned in section 24(1)(a) to (c) is not satisfied in relation to the death (see section 24(3)), the review partner must notify the Secretary of State.
+
+(6) Where a review partner—
+
+(a) notifies the Secretary of State that the review partner is not under a duty to arrange a review under section 24 of a death, but
+
+(b) afterwards decides that the review partner is under that duty in respect of that death,
+
+the review partner must notify the Secretary of State of that decision.
+
+(7) For the purposes of this section, a review partner becomes aware of qualifying circumstances in relation to a person’s death if the review partner becomes aware of such facts as make it likely that—
+
+(a) the conditions mentioned in section 24(1)(a) and (b) are satisfied in relation to the death, and
+
+(b) the review partner is one of the relevant review partners in respect of the death.
+
+(8) In this section “the notification period”, in relation to notification by a review partner, means the period of one month beginning with the day on which the review partner becomes aware of qualifying circumstances in relation to the death in question.
+
+#### 28 Conduct of review
+
+(1) Where a review under section 24 of a person’s death takes place, the review partners that arranged it must co-operate in and contribute to the carrying out of the review.
+
+(2) The purposes of a review under section 24 are—
+
+(a) to identify the lessons to be learnt from the death, and
+
+(b) to consider whether it would be appropriate for anyone to take action in respect of those lessons learned.
+
+(3) Where the review partners consider that it would be appropriate for a person to take action as mentioned in subsection (2)(b), they must inform that person.
+
+(4) The review partners must prepare a report on the review and send it to the Secretary of State.
+
+(5) The report must include—
+
+(a) the findings of the review,
+
+(b) any conclusions drawn by the review partners, and
+
+(c) recommendations made in light of those findings and conclusions (including those referred to in subsection (3)).
+
+(6) The review partners must not include in the report sent to the Secretary of State material that they consider—
+
+(a) might jeopardise the safety of any person, or
+
+(b) might prejudice the investigation or prosecution of an offence.
+
+(7) The Secretary of State must publish, or make arrangements for the publication of, the report, unless the Secretary of State considers it inappropriate for the report to be published.
+
+(8) If the Secretary of State considers it inappropriate for the report to be published, the Secretary of State must publish, or make arrangements for the publication of, so much of the contents of the report as the Secretary of State considers appropriate to be published.
+
+#### 29 Information
+
+(1) A review partner may request a person to provide information specified in the request to the review partner or another review partner.
+
+(2) A review partner may make a request to a person under this section only if the conditions in subsections (3) and (4) are satisfied.
+
+(3) The condition in this subsection is that the request is made for the purpose of enabling or assisting the performance of functions conferred on a review partner by sections 24 to 28.
+
+(4) The condition in this subsection is that the request is made to a person whose functions or activities are considered by the review partner to be such that the person is likely to have information that would enable or assist the performance of functions conferred on a review partner by sections 24 to 28.
+
+(5) The person to whom a request under this section is made must comply with the request.
+
+(6) The review partner that made the request may enforce the duty under subsection (5) against the person by making an application to the High Court or the county court for an injunction.
+
+(7) A review partner may provide information to another review partner for the purpose of enabling or assisting the performance of functions under sections 24 to 28.
+
+#### 30 Information: supplementary
+
+(1) A person may not be required under section 29 to disclose information that the person could not be compelled to disclose in proceedings before the High Court.
+
+(2) A disclosure of information required or authorised by sections 27 to 29 does not breach—
+
+(a) any obligation of confidence owed by the person making the disclosure, or
+
+(b) any other restriction on the disclosure of information (however imposed).
+
+(3) But sections 27 to 29 do not require or authorise a disclosure of information that—
+
+(a) would contravene the data protection legislation (but in determining whether a disclosure would do so, the duty imposed or power conferred by the section in question is to be taken into account), or
+
+(b) is prohibited by any of Parts 1 to 7 or Chapter 1 of Part 9 of the Investigatory Powers Act 2016.
+
+(4) Sections 27 to 29 do not affect any duty or power to disclose information apart from those sections.
+
+(5) In this section “data protection legislation” has the same meaning as in the Data Protection Act 2018 (see section 3(9) of that Act).
+
+#### 31 Delegating functions
+
+(1) The Secretary of State may by regulations make provision enabling the relevant review partners in respect of a person’s death to act jointly to appoint—
+
+(a) one of themselves, or
+
+(b) another person,
+
+to carry out on their behalf, in relation to the person’s death, one or more of the functions specified in the regulations.
+
+(2) Regulations under subsection (1) may specify some or all of the functions of a review partner under section 28 or 29 relating to a review under section 24 or a report on the review.
+
+(3) The Secretary of State may by regulations make provision enabling—
+
+(a) a county council, and
+
+(b) a district council for an area that is within the area of the county council,
+
+to agree that one of them carry out on behalf of the other one or more of the functions specified in the regulations.
+
+(4) Regulations under subsection (3) may specify some or all of the functions of a review partner under sections 24 to 29.
+
+#### 32 Guidance
+
+(1) Review partners must have regard to any guidance issued by the Secretary of State in connection with functions conferred on them under sections 24 to 31.
+
+(2) Before issuing guidance under this section, the Secretary of State must consult—
+
+(a) persons appearing to the Secretary of State to represent review partners,
+
+(b) the Welsh Ministers, so far as the proposed guidance relates to a devolved Welsh authority, and
+
+(c) such other persons as the Secretary of State considers appropriate.
+
+(3) After issuing guidance under this section, the Secretary of State must lay a copy of the guidance before Parliament.
+
+#### 33 Power to pay grant: local health boards
+
+Section 31(2) to (5) of the Local Government Act 2003 (power of the Secretary of State to pay grant to local authorities in Wales) applies in relation to local health boards in Wales and expenditure incurred or to be incurred by those local health boards in the exercise of their functions under this Chapter as it applies in relation to local authorities in Wales and expenditure incurred or to be incurred by those local authorities.
+
+#### 34 Piloting
+
+(1) The Secretary of State may exercise the power in section 208(1) so as to bring sections 24 to 30, 32 and 33 into force—
+
+(a) for all purposes, and
+
+(b) in relation to the whole of England and Wales,
+
+only if the conditions in subsections (2) and (3) are met.
+
+(2) The condition in this subsection is that regulations under section 208(1) have brought some or all of sections 24 to 30, 32 and 33 into force only—
+
+(a) for one or more specified purposes, or
+
+(b) in relation to one or more specified areas.
+
+(3) The condition in this subsection is that the Secretary of State has laid before Parliament a report on the operation of some or all of the provisions of sections 24 to 31—
+
+(a) for one or more of those purposes, or
+
+(b) in relation to one or more of those areas.
+
+(4) Regulations under section 208(1) which bring any provision of sections 24 to 30, 32 and 33 into force only for a specified purpose or in relation to a specified area may—
+
+(a) provide for that provision to be in force for that purpose or in relation to that area for a specified period;
+
+(b) make transitional or saving provision in connection with that provision ceasing to be in force at the end of the specified period.
+
+(5) Regulations containing provision by virtue of subsection (4)(a) may be amended by subsequent regulations under section 208(1) so as to continue any provision of sections 24 to 30, 32 and 33 in force—
+
+(a) for the specified purpose, or
+
+(b) in relation to the specified area,
+
+for a further specified period.
+
+(6) In this section “specified” means specified in regulations under section 208(1).
+
+#### 35 Regulations
+
+(1) Regulations under this Chapter are to be made by statutory instrument.
+
+(2) Regulations under this Chapter—
+
+(a) may make different provision for different purposes and different provision for different areas;
+
+(b) may make consequential, supplementary, incidental, transitional, transitory or saving provision.
+
+(3) A statutory instrument containing regulations under this Chapter may not be made unless a draft of the instrument has been laid before and approved by a resolution of each House of Parliament.
+
+(4) Subsection (3) does not apply to a statutory instrument containing only regulations under section 26(2) or (4).
+
+(5) A statutory instrument within subsection (4) is subject to annulment in pursuance of a resolution of either House of Parliament.
+
+#### 36 Interpretation
+
+(1) In this Chapter—
+
+- [^F5]...
+
+- “devolved Welsh authority” has the meaning given in section 157A of the Government of Wales Act 2006;
+
+- [[^F6]“integrated care board” means a body established under section 14Z25 of the National Health Service Act 2006;]
+
+- “local authority” means—
+
+  - in relation to England—
+  
+    - a county council,
+    - a district council,
+    - a London borough council,
+    - the Common Council of the City of London in its capacity as a local authority, or
+    - the Council of the Isles of Scilly;
+  
+  - in relation to Wales—
+  
+    - a county council, or
+    - a county borough council;
+
+- “local health board” means a local health board established under section 11 of the National Health Service (Wales) Act 2006;
+
+- “NHS body” has the same meaning as in the National Health Service Act 2006 (see section 275 of that Act);
+
+- “review partner” means—
+
+  - a chief officer of police for a police area in England or Wales,
+  - a local authority,
+  - [[^F7]an integrated care board, or]
+  - a local health board;
+
+- “relevant review partner” has the meaning given by section 25.
+
+(2) The Secretary of State may by regulations—
+
+(a) amend the definition of “review partner”, and
+
+(b) make such consequential amendments of this Chapter as appear to the Secretary of State to be appropriate.
+
+(3) Before making regulations under subsection (2), the Secretary of State must consult—
+
+(a) such persons as appear to the Secretary of State to represent review partners,
+
+(b) the Welsh Ministers, so far as the proposed regulations relate to a devolved Welsh authority, and
+
+(c) such other persons as the Secretary of State considers appropriate.
+
+### CHAPTER 3 — Extraction of information from electronic devices
+
+#### 37 Extraction of information from electronic devices: investigations of crime etc
+
+(1) An authorised person may extract information stored on an electronic device from that device if—
+
+(a) a user of the device has voluntarily provided the device to an authorised person, and
+
+(b) that user has agreed to the extraction of information from the device by an authorised person.
+
+(2) The power in subsection (1) may be exercised only for the purposes of—
+
+(a) preventing, detecting, investigating or prosecuting crime,
+
+(b) helping to locate a missing person, or
+
+(c) protecting a child or an at-risk adult from neglect or physical, mental or emotional harm.
+
+(3) The reference in subsection (2) to crime is a reference to—
+
+(a) conduct which constitutes one or more criminal offences in any part of the United Kingdom, or
+
+(b) conduct which, if it took place in any part of the United Kingdom, would constitute one or more criminal offences.
+
+(4) For the purposes of subsection (2) an adult is an at-risk adult if the authorised person reasonably believes that the adult—
+
+(a) is experiencing, or at risk of, neglect or physical, mental or emotional harm, and
+
+(b) is unable to protect themselves against the neglect or harm or the risk of it.
+
+(5) An authorised person may exercise the power in subsection (1) only if—
+
+(a) in a case where the authorised person proposes to exercise the power for a purpose within subsection (2)(a), the authorised person reasonably believes that information stored on the electronic device is relevant to a reasonable line of enquiry which is being, or is to be, pursued by an authorised person,
+
+(b) in a case where the authorised person proposes to exercise the power for a purpose within subsection (2)(b) or (c), the authorised person reasonably believes that information stored on the electronic device is relevant to that purpose, and
+
+(c) in any case, the authorised person is satisfied that exercise of the power is necessary and proportionate to achieve the purpose within subsection (2) for which the person proposes to exercise the power.
+
+(6) Subsection (7) applies if the authorised person thinks that, in exercising the power, there is a risk of obtaining information other than—
+
+(a) information necessary for a purpose within subsection (2) for which the authorised person may exercise the power, or
+
+(b) information necessary for a purpose within subsection (2) of section 41 (investigations of death) for which the authorised person may exercise the power in subsection (1) of that section.
+
+(7) The authorised person must, to be satisfied that the exercise of the power in subsection (1) is proportionate, be satisfied that—
+
+(a) there are no other means of obtaining the information sought by the authorised person which avoid that risk, or
+
+(b) there are such other means, but it is not reasonably practicable to use them.
+
+(8) Subsection (9) applies if the authorised person thinks that, in exercising the power in subsection (1), there is a risk of obtaining confidential information.
+
+(9) The authorised person must, to be satisfied that the exercise of the power is proportionate—
+
+(a) have regard to the matters in subsection (10), and
+
+(b) be satisfied that—
+
+(i) there are no other means of obtaining the information sought by the authorised person which avoid that risk, or
+
+(ii) there are such other means, but it is not reasonably practicable to use them.
+
+(10) The matters referred to in subsection (9)(a) are—
+
+(a) the amount of confidential information likely to be stored on the device, and
+
+(b) the potential relevance of the confidential information to—
+
+(i) a purpose within subsection (2) for which the authorised person may exercise the power, or
+
+(ii) a purpose within subsection (2) of section 41 for which the authorised person may exercise the power in subsection (1) of that section.
+
+(11) An authorised person must have regard to the code of practice for the time being in force under section 42 in exercising, or deciding whether to exercise, the power in subsection (1).
+
+(12) This section does not affect any power relating to the extraction or production of information, or any power to seize any item or obtain any information, conferred by an enactment or rule of law.
+
+(13) In this Chapter—
+
+- “adult” means a person aged 18 or over;
+
+- “authorised person” has the meaning given by subsection (1) of section 44 (subject to subsections (2) and (3) of that section);
+
+- “child” means a person aged under 18;
+
+- “confidential information” has the meaning given by section 43;
+
+- “criminal offence” includes—
+
+  - a service offence within the meaning of the Armed Forces Act 2006, and
+  - an SDA offence within the meaning of the Armed Forces Act 2006 (Transitional Provisions etc) Order 2009 (S.I. 2009/1059);
+
+- “electronic device” means any device on which information is capable of being stored electronically and includes any component of such a device;
+
+- “enactment” includes—
+
+  - an enactment contained in subordinate legislation within the meaning of the Interpretation Act 1978,
+  - an enactment contained in, or in an instrument made under, an Act of the Scottish Parliament,
+  - an enactment contained in, or in an instrument made under, an Act or Measure of Senedd Cymru, and
+  - an enactment contained in, or in an instrument made under, Northern Ireland legislation;
+
+- “information” includes moving or still images and sounds;
+
+- “user”, in relation to an electronic device, means a person who ordinarily uses the device.
+
+(14) References in this Chapter to the extraction of information include its reproduction in any form.
+
+(15) This section is subject to sections 38 (children, and adults without capacity), 39 (requirements for voluntary provision and agreement) and 40 (persons who have died etc).
+
+#### 38 Application of section 37 to children and adults without capacity
+
+(1) A child is not to be treated for the purposes of section 37(1) as being capable of—
+
+(a) voluntarily providing an electronic device to an authorised person for those purposes, or
+
+(b) agreeing for those purposes to the extraction of information from the device by an authorised person.
+
+(2) If a child is a user of an electronic device, a person who is not a user of the device but is listed in subsection (3) may—
+
+(a) voluntarily provide the device to an authorised person for the purposes of section 37(1), and
+
+(b) agree for those purposes to the extraction of information from the device by an authorised person.
+
+(3) The persons mentioned in subsection (2) are—
+
+(a) a parent or guardian of the child or, if the child is in the care of a relevant authority or voluntary organisation, a person representing that authority or organisation, or
+
+(b) if no person within paragraph (a) is available, any responsible person who is aged 18 or over other than a relevant authorised person.
+
+(4) Before exercising the power under section 37(1) by virtue of subsection (2), an authorised person must, so far as it is reasonably practicable to do so—
+
+(a) ascertain the views of the child, and
+
+(b) have regard to any views so ascertained, taking account of the child’s age and maturity.
+
+(5) If an authorised person (“A”) exercises the power under section 37(1) as a result of action taken under subsection (2) by a person within subsection (3)(b), A must, unless A considers that it is not appropriate to do so, inform a person within subsection (3)(a) that A has exercised the power.
+
+(6) An adult without capacity is not to be treated for the purposes of section 37(1) as being capable of—
+
+(a) voluntarily providing an electronic device to an authorised person for those purposes, or
+
+(b) agreeing for those purposes to the extraction of information from the device by an authorised person.
+
+(7) If a user of an electronic device is an adult without capacity, a person who is not a user of the device but is listed in subsection (8) may—
+
+(a) voluntarily provide the device to an authorised person for the purposes of section 37(1), and
+
+(b) agree for those purposes to the extraction of information from the device by an authorised person.
+
+(8) The persons mentioned in subsection (7) are—
+
+(a) a parent or guardian of the adult without capacity or, if the adult without capacity is in the care of a relevant authority or voluntary organisation, a person representing that authority or organisation,
+
+(b) a registered social worker,
+
+(c) a person who, under a power of attorney, may make decisions for the purposes of subsection (7)(a) and (b) on behalf of the adult without capacity,
+
+(d) a deputy appointed under section 16 of the Mental Capacity Act 2005 or section 113 of the Mental Capacity Act (Northern Ireland) 2016 who may make decisions for the purposes of subsection (7)(a) and (b) on behalf of the adult without capacity by virtue of that appointment,
+
+(e) a person authorised under an intervention order under section 53 of the Adults with Incapacity (Scotland) Act 2000 (asp 4) who may make decisions for the purposes of subsection (7)(a) and (b) on behalf of the adult without capacity by virtue of that authorisation, or
+
+(f) if no person within any of paragraphs (a) to (e) is available, any responsible person who is aged 18 or over other than a relevant authorised person.
+
+(9) Nothing in this section prevents any other user of an electronic device who is not a child or an adult without capacity from—
+
+(a) voluntarily providing the device to an authorised person for the purposes of section 37(1), or
+
+(b) agreeing for those purposes to the extraction of information from the device by an authorised person.
+
+(10) For the purposes of this Chapter a person is an adult without capacity if—
+
+(a) in relation to England and Wales, the person is an adult who, within the meaning of the Mental Capacity Act 2005, lacks capacity to do the things mentioned in section 37(1)(a) and (b);
+
+(b) in relation to Scotland, the person is an adult (within the meaning of this Chapter) who is incapable within the meaning of the Adults with Incapacity (Scotland) Act 2000 in relation to the matters mentioned in section 37(1)(a) and (b);
+
+(c) in relation to Northern Ireland, the person is an adult who, within the meaning of the Mental Capacity Act (Northern Ireland) 2016, lacks capacity to do the things mentioned in section 37(1)(a) and (b).
+
+(11) In this Chapter—
+
+- “local authority”—
+
+  - in relation to England, means a county council, a district council for an area for which there is no county council, a London borough council or the Common Council of the City of London in its capacity as a local authority;
+  - in relation to Wales, means a county council or a county borough council;
+  - in relation to Scotland, means a council constituted under section 2 of the Local Government etc (Scotland) Act 1994;
+
+- “registered social worker” means a person registered as a social worker in a register maintained by—
+
+  - Social Work England,
+  - the Care Council for Wales,
+  - the Scottish Social Services Council, or
+  - the Northern Ireland Social Care Council;
+
+- “relevant authorised person”, in relation to the extraction of information from an electronic device for a particular purpose, means an authorised person who may extract the information from the device for that purpose;
+
+- “relevant authority”—
+
+  - in relation to England and Wales and Scotland, means a local authority;
+  - in relation to Northern Ireland, means an authority within the meaning of the Children (Northern Ireland) Order 1995 (S.I. 1995/755 (N.I. 2));
+
+- “voluntary organisation”—
+
+  - in relation to England and Wales, has the same meaning as in the Children Act 1989;
+  - in relation to Scotland, has the same meaning as in Part 2 of the Children (Scotland) Act 1995;
+  - in relation to Northern Ireland, has the same meaning as in the Children (Northern Ireland) Order 1995.
+
+(12) This section is subject to section 39 (requirements for voluntary provision and agreement).
+
+#### 39 Requirements for voluntary provision and agreement
+
+(1) A person (“P”) is to be treated for the purposes of section 37 or 38 as having—
+
+(a) voluntarily provided an electronic device to an authorised person, and
+
+(b) agreed to the extraction of information from the device by an authorised person,
+
+only if the requirements of this section have been met.
+
+(2) An authorised person must not have placed undue pressure on P to provide the device or agree to the extraction of information from it.
+
+(3) An authorised person must have given P notice in writing—
+
+(a) specifying or describing the information that is sought,
+
+(b) specifying the reason why the information is sought,
+
+(c) specifying how the information will be dealt with once it has been extracted,
+
+(d) stating that P may refuse to provide the device or agree to the extraction of information from it, and
+
+(e) stating that the investigation or enquiry for the purposes of which the information is sought will not be brought to an end merely because P refuses to provide the device or agree to the extraction of information from it.
+
+(4) Subject to subsection (5), P must have confirmed in writing that P has—
+
+(a) voluntarily provided the device to an authorised person, and
+
+(b) agreed to the extraction of information from the device by an authorised person.
+
+(5) If P was unable to provide that confirmation in writing as a result of P’s physical impairment or lack of literacy skills—
+
+(a) P must have given that confirmation orally, and
+
+(b) an authorised person must have recorded P’s confirmation in writing.
+
+(6) If P’s confirmation was given in writing and in hard copy form, the authorised person must have given P a copy of that confirmation (in hard copy or electronic form).
+
+(7) If P’s confirmation was given orally, the authorised person must have given P a copy of the record of that confirmation (in hard copy or electronic form).
+
+#### 40 Application of section 37 where user has died etc
+
+(1) If any of conditions A to C is met, an authorised person may exercise the power in section 37(1) to extract information stored on an electronic device from that device even though—
+
+(a) the device has not been voluntarily provided to an authorised person by a user of the device, or
+
+(b) no user of the device has agreed to the extraction of information from the device by an authorised person.
+
+(2) Condition A is that—
+
+(a) a person who was a user of the electronic device has died, and
+
+(b) the person was a user of the device immediately before their death.
+
+(3) Condition B is that—
+
+(a) a user of the electronic device is a child or an adult without capacity, and
+
+(b) an authorised person reasonably believes that the user’s life is at risk or there is a risk of serious harm to the user.
+
+(4) Condition C is that—
+
+(a) a person who was a user of the electronic device is missing,
+
+(b) the person was a user of the device immediately before they went missing, and
+
+(c) an authorised person reasonably believes that the person’s life is at risk or there is a risk of serious harm to the person.
+
+(5) The exercise of the power in subsection (1) of section 37 by virtue of this section is subject to that section.
+
+#### 41 Extraction of information from electronic devices: investigations of death
+
+(1) An authorised person may extract information stored on an electronic device from that device if—
+
+(a) a person who was a user of the electronic device has died, and
+
+(b) the person was a user of the device immediately before their death.
+
+(2) The power in subsection (1) may be exercised only for the purposes of—
+
+(a) an investigation into the person’s death under Chapter 1 of Part 1 of the Coroners and Justice Act 2009,
+
+(b) an inquest into the person’s death under the Coroners Act (Northern Ireland) 1959, or
+
+(c) an investigation into the person’s death by the Lord Advocate.
+
+(3) References in subsection (2) to the exercise of the power in subsection (1) for the purposes of an investigation or inquest include references to the exercise of that power for the purposes of determining whether an investigation should be conducted or an inquest should be held.
+
+(4) An authorised person may exercise the power in subsection (1) only if—
+
+(a) the authorised person reasonably believes that information stored on the electronic device is relevant to a purpose within subsection (2), and
+
+(b) the authorised person is satisfied that exercise of the power is necessary and proportionate to achieve that purpose.
+
+(5) Subsection (6) applies if the authorised person thinks that, in exercising the power, there is a risk of obtaining information other than—
+
+(a) information necessary for a purpose within subsection (2), or
+
+(b) information necessary for a purpose within section 37(2).
+
+(6) The authorised person must, to be satisfied that the exercise of the power is proportionate, be satisfied that—
+
+(a) there are no other means of obtaining the information sought by the authorised person which avoid that risk, or
+
+(b) there are such other means, but it is not reasonably practicable to use them.
+
+(7) Subsection (8) applies if the authorised person thinks that, in exercising the power in subsection (1), there is a risk of obtaining confidential information.
+
+(8) The authorised person must, to be satisfied that the exercise of the power is proportionate—
+
+(a) have regard to the matters in subsection (9), and
+
+(b) be satisfied that—
+
+(i) there are no other means of obtaining the information sought by the authorised person which avoid that risk, or
+
+(ii) there are such other means, but it is not reasonably practicable to use them.
+
+(9) The matters referred to in subsection (8)(a) are—
+
+(a) the amount of confidential information likely to be stored on the device, and
+
+(b) the potential relevance of the confidential information to a purpose within subsection (2) or section 37(2).
+
+(10) An authorised person must have regard to the code of practice for the time being in force under section 42 in exercising, or deciding whether to exercise, the power in subsection (1).
+
+(11) This section does not affect any power relating to the extraction or production of information, or any power to seize any item or obtain any information, conferred by an enactment or rule of law.
+
+#### 42 Code of practice about the extraction of information
+
+(1) The Secretary of State must prepare a code of practice containing guidance about the exercise of the powers in sections 37(1) and 41(1).
+
+(2) The code may make different provision for different purposes or areas.
+
+(3) In preparing the code, the Secretary of State must consult—
+
+(a) [[^F8]the Information Commission],
+
+(b) the Scottish Ministers,
+
+(c) the Department of Justice in Northern Ireland,
+
+(d) the Commissioner for Victims and Witnesses,
+
+(e) the Domestic Abuse Commissioner,
+
+(f) the Commission for Victims and Survivors for Northern Ireland, and
+
+(g) such other persons as the Secretary of State considers appropriate.
+
+(4) Subsection (3)(f) does not apply on or after the day appointed under Article 4(4) of the Victims and Survivors (Northern Ireland) Order 2006 (S.I. 2006/2953 (N.I. 17)) (power to revoke Article 4).
+
+(5) After preparing the code, the Secretary of State must lay it before Parliament and publish it.
+
+(6) The code is to be brought into force by regulations made by statutory instrument.
+
+(7) A statutory instrument containing regulations under subsection (6) is subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(8) After the code has come into force the Secretary of State may from time to time revise it.
+
+(9) A failure on the part of an authorised person to act in accordance with the code does not of itself render the person liable to any criminal or civil proceedings.
+
+(10) But the code is admissible in evidence in criminal or civil proceedings and a court may take into account a failure to act in accordance with it in determining a question in the proceedings.
+
+(11) References in subsections (2) to (10) to the code include a revised code, subject to subsection (12).
+
+(12) The duty to consult in subsection (3) does not apply in relation to the preparation of a revised code if the Secretary of State considers that the proposed revisions are insubstantial.
+
+#### 43 Confidential information
+
+(1) In this Chapter “confidential information” means information which constitutes or may constitute—
+
+(a) confidential journalistic material within the meaning of the Investigatory Powers Act 2016 (see section 264(6) and (7) of that Act), or
+
+(b) protected material.
+
+(2) In subsection (1)(b) “protected material”—
+
+(a) in relation to England and Wales means—
+
+(i) items subject to legal privilege, within the meaning of the Police and Criminal Evidence Act 1984 (see section 10 of that Act),
+
+(ii) material falling within section 11(1)(a) of that Act (certain personal records held in confidence), or
+
+(iii) material to which section 14(2) of that Act applies (other material acquired in the course of a trade etc that is held in confidence);
+
+(b) in relation to Scotland means—
+
+(i) items in respect of which a claim to confidentiality of communications could be maintained in legal proceedings, or
+
+(ii) other material of a kind mentioned in paragraph (a)(ii) or (iii) of this subsection;
+
+(c) in relation to Northern Ireland, means—
+
+(i) items subject to legal privilege, within the meaning of the Police and Criminal Evidence (Northern Ireland) Order 1989 (S.I. 1989/1341 (N.I. 12)) (see Article 12 of that Order),
+
+(ii) material falling with Article 13(1)(a) of that Order (certain personal records held in confidence), or
+
+(iii) material to which Article 16(2) of that Order applies (other material acquired in the course of a trade etc that is held in confidence).
+
+#### 44 Authorised persons
+
+(1) Subject to subsections (2) and (3), in this Chapter “authorised person” means a person listed in Schedule 3.
+
+(2) The power in subsection (1) of section 37 may be exercised for a purpose mentioned in subsection (2)(b) or (c) of that section only by a person listed in Part 1 or 2 of Schedule 3.
+
+(3) The power in section 41(1) may be exercised only by a person listed in Part 1 of Schedule 3.
+
+(4) The Secretary of State may by regulations made by statutory instrument amend Schedule 3—
+
+(a) so as to add a reference to a person;
+
+(b) so as to remove a reference to a person;
+
+(c) so as to modify a description of a person mentioned in that Schedule.
+
+(5) Regulations under subsection (4) may contain transitional, transitory or saving provision.
+
+(6) The Secretary of State must consult the Scottish Ministers before making regulations under subsection (4) if and so far as the regulations make provision that would be within the legislative competence of the Scottish Parliament if it were contained in an Act of that Parliament.
+
+(7) The Secretary of State must consult the Department of Justice in Northern Ireland before making regulations under subsection (4) if and so far as the regulations make provision that, if it were contained in an Act of the Northern Ireland Assembly—
+
+(a) would be within the legislative competence of that Assembly, and
+
+(b) would not require the consent of the Secretary of State.
+
+(8) Subject to subsection (9), a statutory instrument containing regulations under subsection (4)(a) (whether alone or with other provision) may not be made unless a draft of the instrument has been laid before and approved by a resolution of each House of Parliament.
+
+(9) Subsection (8) does not apply to a statutory instrument containing regulations which—
+
+(a) remove a reference to a person from Part 1 of Schedule 3 and add a reference to that person to Part 2 or 3 of that Schedule, or
+
+(b) remove a reference to a person from Part 2 of that Schedule and add a reference to that person to Part 3 of that Schedule.
+
+(10) A statutory instrument containing—
+
+(a) regulations under subsection (4)(a) to which subsection (9) applies, or
+
+(b) regulations under subsection (4)(b) or (c),
+
+and which is not a statutory instrument to which subsection (8) applies is subject to annulment in pursuance of a resolution of either House of Parliament.
+
+### [[^F9]Chapter 3A — Requests for information relating to victims
+
+#### 44A Requests for information relating to victims
+
+(1) A victim information request must be made in accordance with this Chapter.
+
+(2) In this Chapter, a “victim information request” means a request by an authorised person to another person to provide information which relates to a third person who the authorised person has reason to believe is or may be—
+
+(a) a victim, or
+
+(b) at risk of being a victim.
+
+(3) A victim information request may be made only if the authorised person—
+
+(a) has reason to believe that the person to whom the request is made holds the information sought,
+
+(b) has reason to believe that the information sought is relevant to a reasonable line of enquiry which is being pursued, or is to be pursued, by the authorised person or another authorised person, and
+
+(c) is satisfied that the request is necessary and proportionate to achieve the purpose of preventing, detecting, investigating or prosecuting crime.
+
+(4) A counselling information request may be made only if the authorised person has reason to believe that the information sought is likely to have substantial probative value to a reasonable line of enquiry which is being pursued, or is to be pursued, by the authorised person or another authorised person.
+
+(5) For the purposes of subsection (4), a “counselling information request” means a victim information request to a person who provides counselling services of a description specified in regulations made by the Secretary of State by statutory instrument.
+
+(6) The reference in subsection (3)(c) to crime is a reference to―
+
+(a) conduct which constitutes one or more criminal offences in England and Wales, or
+
+(b) conduct which, if it took place in England and Wales, would constitute one or more criminal offences.
+
+(7) Subsection (8) applies if the authorised person thinks that, in making the request, there is a risk of obtaining information other than information necessary to achieve a purpose within subsection (3)(c).
+
+(8) The authorised person must, to be satisfied that the request is proportionate, be satisfied that—
+
+(a) there are no other means of obtaining the information sought, or
+
+(b) there are such other means, but it is not reasonably practicable to use them.
+
+(9) In making a victim information request or deciding whether to make such a request (including giving notice under section 44B or deciding whether to give such notice) an authorised person must have regard to the code of practice for the time being in force under section 44D.
+
+(10) In this section “victim” has the meaning given by section 1 of the Victims and Prisoners Act 2024.
+
+(11) This section is subject to sections 44B (notice requirements for victim information requests) and 44C (content of victim information requests).
+
+(12) A statutory instrument containing regulations under subsection (5) is subject to annulment in pursuance of a resolution of either House of Parliament.
+
+#### 44B Notice requirements for victim information requests
+
+(1) The authorised person must (subject to subsection (5)) give notice of a victim information request to the person to whom the information sought relates (“V”).
+
+(2) Notice under this section must be in writing—
+
+(a) specifying or describing the information sought by the victim information request,
+
+(b) specifying the reason why the information is sought, and
+
+(c) specifying how the information will be dealt with once it has been obtained.
+
+(3) Notice under this section must be given—
+
+(a) on or before the date on which the victim information request is made, or
+
+(b) if that is not reasonably practicable, as soon as is reasonably practicable after that date.
+
+(4) If V is a child or an adult without capacity, notice under this section is given to V by giving it to—
+
+(a) a parent or guardian of V or, if V is in the care of a relevant authority or voluntary organisation, a person representing that authority or organisation, or
+
+(b) if no person described in paragraph (a) is available, any adult who the authorised person considers appropriate.
+
+(5) The authorised person need not give notice under this section, or specify a particular matter when giving notice, if the authorised person considers that doing so―
+
+(a) is not reasonably practicable in the circumstances,
+
+(b) might interfere with the investigation or enquiry for which the information is sought or any other investigation or enquiry which is being pursued, or is to be pursued, by the authorised person or another authorised person, or
+
+(c) might risk causing serious harm to V or another person.
+
+(6) In this section―
+
+- “adult” means a person aged 18 or over;
+
+- “adult without capacity” means an adult who, within the meaning of the Mental Capacity Act 2005, lacks capacity in relation to a notice under this section;
+
+- “child” means a person aged under 18;
+
+- “harm” includes physical, mental or emotional harm and economic loss;
+
+- “relevant authority”—
+
+  - in relation to England, means a county council, a district council for an area for which there is no county council, a London borough council or the Common Council of the City of London in its capacity as a local authority;
+  - in relation to Wales, means a county council or a county borough council;
+
+- “voluntary organisation” means a body (other than a public authority) whose activities are not carried on for profit.
+
+#### 44C Content of victim information requests
+
+(1) A victim information request must be in writing―
+
+(a) specifying or describing the information sought,
+
+(b) specifying the reason why the information is sought, and
+
+(c) specifying how the information will be dealt with once it has been obtained.
+
+(2) The authorised person need not specify the matters mentioned in subsection (1)(b) or (c) if the authorised person considers that doing so―
+
+(a) is not reasonably practicable in the circumstances,
+
+(b) might interfere with the investigation or enquiry for which the information is sought or any other investigation or enquiry which is being pursued, or is to be pursued, by the authorised person or another authorised person, or
+
+(c) might risk causing serious harm to the person to whom the information sought relates or another person.
+
+#### 44D Code of practice
+
+(1) The Secretary of State must prepare a code of practice for authorised persons about victim information requests and compliance with this Chapter.
+
+(2) The code must in particular—
+
+(a) provide that an authorised person must, when considering whether they are satisfied as required by paragraph (c) of section 44A(3) in relation to a counselling information request, start from the presumption that the request is not necessary and proportionate to achieve a purpose in that paragraph, and
+
+(b) set out the steps that must be taken by an authorised person when deciding whether that presumption is rebutted.
+
+(3) For the purposes of subsection (2), a “counselling information request” has the meaning given by section 44A(5).
+
+(4) The code may make different provision for different purposes or areas.
+
+(5) In preparing the code, the Secretary of State must consult―
+
+(a) [[^F10]the Information Commission],
+
+(b) the Commissioner for Victims and Witnesses,
+
+(c) the Domestic Abuse Commissioner, and
+
+(d) such other persons as the Secretary of State considers appropriate.
+
+(6) After preparing the code, the Secretary of State must lay it before Parliament and publish it.
+
+(7) The code is to be brought into force by regulations made by statutory instrument.
+
+(8) A statutory instrument containing regulations under subsection (7) is subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(9) After the code has come into force the Secretary of State may from time to time revise it.
+
+(10) A failure on the part of an authorised person to act in accordance with the code does not of itself render the person liable to any criminal or civil proceedings.
+
+(11) But the code is admissible in evidence in criminal or civil proceedings and a court may take into account a failure to act in accordance with it in determining a question in the proceedings.
+
+(12) References in subsections (2) to (11) to the code include a revised code, subject to subsection (13).
+
+(13) The duty to consult in subsection (5) does not apply in relation to the preparation of a revised code if the Secretary of State considers that the proposed revisions are insubstantial.
+
+#### 44E Authorised persons
+
+(1) In this Chapter, each of the following is an “authorised person”—
+
+(a) a constable of a police force in England and Wales;
+
+(b) a member of staff appointed by the chief officer of police of a police force in England and Wales;
+
+(c) an employee of the Common Council of the City of London who is under the direction and control of a chief officer of police;
+
+(d) a constable of the British Transport Police Force;
+
+(e) an employee of the British Transport Police Authority appointed under section 27 of the Railways and Transport Safety Act 2003;
+
+(f) a constable of the Ministry of Defence police;
+
+(g) a National Crime Agency officer;
+
+(h) a person designated by the Director General of the Independent Office for Police Conduct under paragraph 19(2) of Schedule 3 to the Police Reform Act 2002;
+
+(i) a person who has been engaged to provide services consisting of or including the obtaining of information for the purposes of the exercise of functions by a person mentioned in any of paragraphs (a) to (h).
+
+(2) The Secretary of State may by regulations made by statutory instrument amend subsection (1)—
+
+(a) so as to add a reference to a person;
+
+(b) so as to remove a reference to a person;
+
+(c) so as to modify a description of a person mentioned.
+
+(3) Regulations under subsection (2) may contain transitional, transitory or saving provision.
+
+(4) A statutory instrument containing regulations under subsection (2)(a) or (b) (whether alone or with other provision) may not be made unless a draft of the instrument has been laid before and approved by a resolution of each House of Parliament.
+
+(5) Any other statutory instrument containing regulations under this section is subject to annulment in pursuance of a resolution of either House of Parliament.]
+
+#### 44F [[^F11]Application of this Chapter to service police etc
+
+(1) This Chapter applies in relation to a person mentioned in subsection (2) as it applies in relation to an authorised person, with the modifications specified in subsections (3) and (4).
+
+(2) The persons are—
+
+(a) a member of the Royal Navy Police, the Royal Military Police or the Royal Air Force Police;
+
+(b) a person designated by the Service Police Complaints Commissioner under regulation 36(2) of the Service Police (Complaints etc) Regulations 2023 (S.I. 2023/624);
+
+(c) a person who has been engaged to provide services consisting of or including the obtaining of information for the purposes of the exercise of functions by a person mentioned in paragraph (a) or (b).
+
+(3) Section 44A applies as if for subsection (6) there were substituted—
+
+> (6) The reference in subsection (3)(c) to crime is a reference to conduct which constitutes one or more—
+>
+> (a) service offences within the meaning of the Armed Forces Act 2006, or
+>
+> (b) SDA offences within the meaning of the Armed Forces Act 2006 (Transitional Provisions etc) Order 2009 (S.I. 2009/1059).
+
+(4) Section 44B applies as if, in subsection (6)—
+
+(a) for the definition of “adult without capacity” there were substituted—
+
+> - “adult without capacity”—
+>
+>   - in relation to England and Wales, means an adult who, within the meaning of the Mental Capacity Act 2005, lacks capacity in relation to a notice under this section;
+>   - in relation to Scotland, means an adult (within the meaning of this section) who is incapable, within the meaning of the Adults with Incapacity (Scotland) Act 2000, in relation to a notice under this section;
+>   - in relation to Northern Ireland, means an adult who, within the meaning of the Mental Capacity Act (Northern Ireland) 2016, lacks capacity in relation to a notice under this section;
+
+;
+
+(b) for the definition of “relevant authority” there were substituted—
+
+> - “relevant authority”—
+>
+>   - in relation to England, means a county council, a district council for an area for which there is no county council, a London borough council or the Common Council of the City of London in its capacity as a local authority;
+>   - in relation to Wales, means a county council or a county borough council;
+>   - in relation to Scotland, means a council constituted under section 2 of the Local Government etc (Scotland) Act 1994;
+>   - in relation to Northern Ireland, means an authority within the meaning of the Children (Northern Ireland) Order 1995 (S.I. 1995/755 (N.I. 2));
+
+;
+
+(c) for the definition of “voluntary organisation” there were substituted—
+
+> - “voluntary organisation”—
+>
+>   - in relation to England and Wales, has the same meaning as in the Children Act 1989;
+>   - in relation to Scotland, has the same meaning as in Part 2 of the Children (Scotland) Act 1995;
+>   - in relation to Northern Ireland, has the same meaning as in the Children (Northern Ireland) Order 1995.]
+
+### CHAPTER 4 — Other provisions
+
+#### Pre-charge bail
+
+##### 45 Pre-charge bail
+
+(1) Schedule 4 contains amendments relating to pre-charge bail.
+
+(2) In that Schedule—
+
+(a) Part 1 makes provision relating to the grant of pre-charge bail,
+
+(b) Part 2 makes provision about the factors to be taken into account in determining whether to grant pre-charge bail,
+
+(c) Part 3 makes provision requiring the views of alleged victims to be sought in relation to the grant or variation of pre-charge bail subject to conditions,
+
+(d) Part 4 makes provision relating to limits on periods of pre-charge bail,
+
+(e) Part 5 makes provision about the determination of a period of police detention following a person’s arrest for breach of pre-charge bail, and
+
+(f) Part 6 makes provision for guidance about pre-charge bail.
+
+(3) An amendment made by Schedule 4—
+
+(a) applies in relation to a person arrested for an offence only if the person was arrested for the offence after the coming into force of that amendment,
+
+(b) applies in relation to a person arrested under section 46A of the Police and Criminal Evidence Act 1984 (failure to answer to police bail etc) only if the person was arrested after the coming into force of that amendment for the offence for which the person was originally released on bail, and
+
+(c) applies in relation to a person arrested under section 24A of the Criminal Justice Act 2003 (failure to comply with conditional caution) only if the person was arrested after the coming into force of that amendment for the offence in respect of which the caution was given.
+
+#### Sexual offences
+
+##### 46 Arranging or facilitating commission of a child sex offence
+
+(1) Section 14 of the Sexual Offences Act 2003 (arranging or facilitating commission of a child sex offence) is amended in accordance with subsections (2) and (3).
+
+(2) In subsection (1), in paragraph (b), for “9” substitute “5”.
+
+(3) In subsection (4), for paragraphs (a) and (b) substitute “to the penalty to which the person would be liable on conviction of the offence within subsection (1)(b)”.
+
+##### 47 Positions of trust
+
+(1) The Sexual Offences Act 2003 is amended as follows.
+
+(2) After section 22 insert—
+
+> **22A Further positions of trust**
+>
+> (1) For the purposes of sections 16 to 19, a person (A) is in a position of trust in relation to another person (B) if—
+>
+> (a) A coaches, teaches, trains, supervises or instructs B, on a regular basis, in a sport or a religion, and
+>
+> (b) A knows that they coach, teach, train, supervise or instruct B, on a regular basis, in that sport or religion.
+>
+> (2) In subsection (1)—
+>
+> - “sport” includes—
+>
+>   - any game in which physical skill is the predominant factor, and
+>   - any form of physical recreation which is also engaged in for purposes of competition or display;
+>
+> - “religion” includes—
+>
+>   - a religion which involves belief in more than one god, and
+>   - a religion which does not involve belief in a god.
+>
+> (3) This section does not apply where a person (A) is in a position of trust in relation to another person (B) by virtue of circumstances within section 21.
+>
+> (4) The Secretary of State may by regulations amend subsections (1) and (2) to add or remove an activity in which a person may be coached, taught, trained, supervised or instructed.
+
+(3) In section 138(2) (orders and regulations) after “section 21,” insert “22A,”.
+
+##### 48 Voyeurism: breast-feeding
+
+(1) Section 67A of the Sexual Offences Act 2003 (voyeurism: additional offences) is amended as follows.
+
+(2) After subsection (2) insert—
+
+> (2A) A person (A) commits an offence if—
+>
+> (a) A operates equipment,
+>
+> (b) A does so with the intention of enabling A or another person (C), for a purpose mentioned in subsection (3), to observe another (B) while B is breast-feeding a child, and
+>
+> (c) A does so—
+>
+> (i) without B’s consent, and
+>
+> (ii) without reasonably believing that B consents.
+>
+> (2B) A person (A) commits an offence if—
+>
+> (a) A records an image of another (B) while B is breast-feeding a child,
+>
+> (b) A does so with the intention that A or another person (C) will look at the image for a purpose mentioned in subsection (3), and
+>
+> (c) A does so—
+>
+> (i) without B’s consent, and
+>
+> (ii) without reasonably believing that B consents.
+
+(3) In subsection (3), for “and (2)” substitute “to (2B)”.
+
+(4) After subsection (3) insert—
+
+> (3A) In this section a reference to B breast-feeding a child includes B re-arranging B’s clothing—
+>
+> (a) in the course of preparing to breast-feed the child, or
+>
+> (b) having just finished breast-feeding the child.
+>
+> (3B) It is irrelevant for the purposes of subsections (2A) and (2B)—
+>
+> (a) whether or not B is in a public place while B is breast-feeding the child,
+>
+> (b) whether or not B’s breasts are exposed while B is breast-feeding the child, and
+>
+> (c) what part of B’s body—
+>
+> (i) is, or is intended by A to be, visible in the recorded image, or
+>
+> (ii) is intended by A to be observed.
+
+#### Domestic abuse
+
+##### 49 Time limit for prosecution of common assault or battery in domestic abuse cases
+
+After section 39 of the Criminal Justice Act 1988 insert—
+
+> **39A Time limit for prosecution of common assault or battery in domestic abuse cases**
+>
+> (1) This section applies to proceedings for an offence of common assault or battery where—
+>
+> (a) the alleged behaviour of the accused amounts to domestic abuse, and
+>
+> (b) the condition in subsection (2) or (3) is met.
+>
+> (2) The condition in this subsection is that—
+>
+> (a) the complainant has made a witness statement with a view to its possible admission as evidence in the proceedings, and
+>
+> (b) the complainant has provided the statement to—
+>
+> (i) a constable of a police force, or
+>
+> (ii) a person authorised by a constable of a police force to receive the statement.
+>
+> (3) The condition in this subsection is that—
+>
+> (a) the complainant has been interviewed by—
+>
+> (i) a constable of a police force, or
+>
+> (ii) a person authorised by a constable of a police force to interview the complainant, and
+>
+> (b) a video recording of the interview has been made with a view to its possible admission as the complainant’s evidence in chief in the proceedings.
+>
+> (4) Proceedings to which this section applies may be commenced at any time which is both—
+>
+> (a) within two years from the date of the offence to which the proceedings relate, and
+>
+> (b) within six months from the first date on which either of the conditions in subsection (2) or (3) was met.
+>
+> (5) This section has effect despite section 127(1) of the Magistrates’ Court Act 1980 (limitation of time).
+>
+> (6) In this section—
+>
+> - “domestic abuse” has the meaning given by section 1 of the Domestic Abuse Act 2021;
+> - “police force” has the meaning given by section 3(3) of the Prosecution of Offences Act 1985;
+> - “video recording” has the meaning given by section 63(1) of the Youth Justice and Criminal Evidence Act 1999;
+> - “witness statement” means a written statement that satisfies the conditions in section 9(2)(a) and (b) of the Criminal Justice Act 1967.
+>
+> (7) This section does not apply in relation to an offence committed before the coming into force of section 49 of the Police, Crime, Sentencing and Courts Act 2022.
+
+#### Criminal damage to memorials
+
+##### 50 Criminal damage to memorials: mode of trial
+
+(1) In Schedule 2 to the Magistrates’ Courts Act 1980 (offences for which the value involved is relevant to the mode of trial), in paragraph 1 (offences under section 1 of the Criminal Damage Act 1971), in the first column, for the words from “any offence” to the end substitute
+
+> |  |
+> |---|
+> | —<br>- any offence committed by destroying or damaging property by fire, and<br>- any offence committed by destroying or damaging a memorial (see section 22(11A) to (11D)). |
+
+(2) In section 22 of that Act, after subsection (11) insert—
+
+> (11A) In paragraph 1 of Schedule 2 “memorial” means—
+>
+> (a) a building or other structure, or any other thing, erected or installed on land (or in or on any building or other structure on land), or
+>
+> (b) a garden or any other thing planted or grown on land,
+>
+> which has a commemorative purpose.
+>
+> (11B) For the purposes of that paragraph, any moveable thing (such as a bunch of flowers) which—
+>
+> (a) is left in, on or at a memorial within the meaning of subsection (11A), and
+>
+> (b) has (or can reasonably be assumed to have) a commemorative purpose,
+>
+> is also to be regarded as a memorial.
+>
+> (11C) For the purposes of subsections (11A) and (11B)—
+>
+> (a) references to a building or a structure include a reference to part of a building or part of a structure (as the case may be), and
+>
+> (b) something has a commemorative purpose if at least one of its purposes is to commemorate—
+>
+> (i) one or more individuals or animals (or a particular description of individuals or animals), or
+>
+> (ii) an event or a series of events (such as an armed conflict).
+>
+> (11D) It is immaterial for the purposes of subsection (11C)(b)(i) whether or not any individuals or animals concerned are or were (at any material time)—
+>
+> (a) living or deceased, or
+>
+> (b) capable of being identified.
+
+(3) The amendments made by this section do not apply in relation to offences committed before it comes into force.
+
+#### Overseas production orders
+
+##### 51 Overseas production orders
+
+Schedule 5 contains amendments to the Crime (Overseas Production Orders) Act 2019.
+
+#### Amendments to the Police and Criminal Evidence Act 1984 etc
+
+##### 52 Power to photograph certain persons at a police station
+
+(1) The Police and Criminal Evidence Act 1984 is amended as follows.
+
+(2) In section 64A (photographing of suspects etc.), after subsection (1B) insert—
+
+> (1C) A person to whom subsection (1) or (1A) does not apply may be photographed at a police station without the appropriate consent if that person falls within subsection (1D), (1F) or (1H).
+>
+> (1D) A person falls within this subsection if (before or after the coming into force of this subsection) that person has been—
+>
+> (a) arrested for a recordable offence and released,
+>
+> (b) charged with a recordable offence, or
+>
+> (c) informed that they will be reported for such an offence,
+>
+> and either of the conditions in subsection (1E) is met in relation to that person.
+>
+> (1E) The conditions referred to in subsection (1D) are—
+>
+> (a) that the person has not been photographed in the course of the investigation of the offence by the police, or
+>
+> (b) that the person has been so photographed but—
+>
+> (i) any photograph taken on such a previous occasion is unavailable or inadequate, and
+>
+> (ii) a constable considers that taking a further photograph is necessary to assist in the prevention or detection of crime.
+>
+> (1F) A person falls within this subsection if (before or after the coming into force of this subsection) that person has been—
+>
+> (a) convicted of a recordable offence, or
+>
+> (b) given a caution in respect of a recordable offence which, at the time of the caution they have admitted,
+>
+> and either of the conditions in subsection (1G) is met in relation to that person.
+>
+> (1G) The conditions referred to in subsection (1F) are—
+>
+> (a) that the person has not been photographed since being convicted or cautioned, or
+>
+> (b) that the person has been so photographed but—
+>
+> (i) any photograph taken on such a previous occasion is unavailable or inadequate, and
+>
+> (ii) a constable considers that taking a further photograph is necessary to assist in the prevention or detection of crime.
+>
+> (1H) A person falls within this subsection if—
+>
+> (a) under the law in force in a country or territory outside England and Wales the person has been convicted of an offence under that law (whether before or after the coming into force of this subsection and whether or not they have been punished for it),
+>
+> (b) the act constituting the offence would constitute a qualifying offence if done in England and Wales (whether or not it constituted such an offence when the person was convicted), and
+>
+> (c) either of the conditions in subsection (1I) is met in relation to that person.
+>
+> (1I) The conditions referred to in subsection (1H) are—
+>
+> (a) that the person has not been photographed on a previous occasion by virtue of being a person falling within subsection (1H), or
+>
+> (b) that the person has been so photographed but—
+>
+> (i) any photograph taken on such a previous occasion is unavailable or inadequate, and
+>
+> (ii) a constable considers that taking a further photograph is necessary to assist in the prevention or detection of crime.
+>
+> (1J) A person who falls within subsection (1F) or (1H) may be photographed under subsection (1C) only with the authorisation of an officer of at least the rank of inspector.
+>
+> (1K) An officer may only give an authorisation under subsection (1J) if the officer is satisfied that taking the photograph is necessary to assist in the prevention or detection of crime.
+>
+> (1L) In subsections (1E), (1G) and (1I)—
+>
+> (a) references to a photograph being unavailable include references to a photograph being lost or destroyed, and
+>
+> (b) references to a photograph being inadequate include references to a photograph being—
+>
+> (i) unclear,
+>
+> (ii) an incomplete photograph of the subject, or
+>
+> (iii) no longer an accurate representation of the subject’s appearance.
+>
+> (1M) In subsections (1E), (1G), (1I) and (1K) references to crime include references to any conduct which—
+>
+> (a) constitutes one or more criminal offences (whether under the law of a part of the United Kingdom or of a country or territory outside the United Kingdom), or
+>
+> (b) is, or corresponds to, any conduct which, if it all took place in any one part of the United Kingdom, would constitute one or more criminal offences.
+
+(3) Schedule 2A (fingerprinting and samples: power to require attendance at police station) is amended in accordance with subsections (4) to (8).
+
+(4) In the heading of the Schedule, for “and samples” substitute “, samples and photographs”.
+
+(5) After Part 3 insert—
+
+> **PART 3A — Photographs**
+>
+> **14A Persons arrested and released**
+>
+> (1) A constable may require a person who falls within section 64A(1D)(a) to attend a police station to be photographed under section 64A(1C).
+>
+> (2) The power under sub-paragraph (1) may not be exercised in a case where section 64A(1E)(b) applies (photograph taken on a previous occasion unavailable or inadequate) after the end of the period of six months beginning with the day on which the appropriate officer was informed that section 64(1E)(b)(i) applied.
+>
+> (3) In sub-paragraph (2) the “appropriate officer” means the officer investigating the offence for which the person was arrested.
+>
+> **14B Persons charged etc.**
+>
+> (1) A constable may require a person who falls within section 64A(1D)(b) or (c) to attend a police station to be photographed under section 64A(1C).
+>
+> (2) The power under sub-paragraph (1) may not be exercised after the end of the period of six months beginning with—
+>
+> (a) in a case where section 64A(1E)(a) applies (photograph not previously taken), the day on which the person was charged or informed that they would be reported, or
+>
+> (b) in a case where section 64A(1E)(b) applies (photograph taken on a previous occasion unavailable or inadequate), the day on which the appropriate officer was informed that section 64A(1E)(b)(i) applied.
+>
+> (3) In sub-paragraph (2)(b) the “appropriate officer” means the officer investigating the offence for which the person was charged or informed that they would be reported.
+>
+> **14C Persons convicted of an offence etc. in England and Wales**
+>
+> (1) A constable may require a person who falls within section 64A(1F) to attend a police station to be photographed under section 64A(1C).
+>
+> (2) Where section 64A(1G)(a) applies (photographs not previously taken), the power under sub-paragraph (1) may not be exercised after the end of the period of two years beginning with—
+>
+> (a) the day on which the person was convicted or cautioned, or
+>
+> (b) if later, the day on which this Part comes into force.
+>
+> (3) Where section 64A(1G)(b) applies (photograph taken on previous occasion unavailable or inadequate), the power under sub-paragraph (1) may not be exercised after the end of the period of two years beginning with—
+>
+> (a) the day on which an appropriate officer was informed that section 64A(1G)(b)(i) applied, or
+>
+> (b) if later, the day on which this Part comes into force.
+>
+> (4) In sub-paragraph (3)(a), “appropriate officer” means an officer of the police force which investigated the offence in question.
+>
+> (5) Sub-paragraphs (2) and (3) do not apply where the offence is a qualifying offence (whether or not it was such an offence at the time of the conviction or caution).
+>
+> **14D Persons convicted of an offence etc. outside England and Wales**
+>
+> A constable may require a person falling within section 64A(1H) to attend at a police station to be photographed under section 64A(1C).
+>
+> **14E Multiple exercise of power**
+>
+> (1) Where a photograph is taken of a person under section 64A on two occasions in relation to any offence, the person may not under this Schedule be required to attend a police station to be photographed under that section in relation to that offence on a subsequent occasion without the authorisation of an officer of at least the rank of inspector.
+>
+> (2) Where an authorisation is given under sub-paragraph (1)—
+>
+> (a) the fact of the authorisation, and
+>
+> (b) the reasons for giving it,
+>
+> must be recorded as soon as practicable after it has been given.
+
+(6) In the italic heading before paragraph 15 (requirement to have power to take fingerprints or sample), for “or sample” substitute “, sample or photograph”.
+
+(7) In paragraph 15—
+
+(a) for “or a sample” substitute “, a sample or a photograph”, and
+
+(b) for “or sample”, in both places it occurs, substitute “, sample or photograph”.
+
+(8) In paragraph 16(2) (date and time of attendance), for “or sample” substitute “, sample or photograph”.
+
+##### 53 Power to specify date of attendance at police station for fingerprinting etc
+
+(1) Paragraph 16 of Schedule 2A to the Police and Criminal Evidence Act 1984 (attendance at police station for fingerprinting and taking of samples: date and time of attendance) is amended as follows.
+
+(2) For sub-paragraph (1) substitute—
+
+> (1) A requirement under this Schedule—
+>
+> (a) must direct the person to attend the police station on a specified date, and
+>
+> (b) may either direct the person to attend the police station at a specified time on that date or direct the person to attend the police station between specified times on that date.
+
+(3) In sub-paragraph (2), for “period or time or times of day” substitute “date, time or times”.
+
+(4) Omit sub-paragraphs (3) and (4).
+
+(5) In sub-paragraph (5), for “any period within which, or date or time at which,” substitute “any date, time at which or times between which”.
+
+(6) The amendments made by this section apply only in relation to a requirement to attend a police station given under Schedule 2A to the Police and Criminal Evidence Act 1984 after the coming into force of this section.
+
+##### 54 PACE etc powers for food crime officers
+
+(1) In the Police and Criminal Evidence Act 1984, after section 114B insert—
+
+> **114C Power to apply Act to food crime officers**
+>
+> (1) The Secretary of State may by regulations apply any provision of this Act which relates to investigations of offences conducted by police officers to investigations of offences conducted by food crime officers.
+>
+> (2) The regulations may apply provisions of this Act with any modifications specified in the regulations.
+>
+> (3) In this section “food crime officer” means an officer of the Food Standards Agency who—
+>
+> (a) is acting for the purposes of the performance by the Food Standards Agency of its functions under the Food Standards Act 1999 or any other enactment (including functions relating to the investigation of offences), and
+>
+> (b) is authorised (whether generally or specifically) by the Secretary of State for the purposes of this section.
+>
+> (4) The investigations for the purposes of which provisions of this Act may be applied by regulations under this section include investigations of offences committed, or suspected of having been committed, before the coming into force of the regulations or of this section.
+>
+> (5) Regulations under this section are to be made by statutory instrument.
+>
+> (6) Regulations under this section may make—
+>
+> (a) different provision for different purposes;
+>
+> (b) provision which applies generally or for particular purposes;
+>
+> (c) incidental, supplementary, consequential, transitional or transitory provision or savings.
+>
+> (7) A statutory instrument containing regulations under this section is subject to annulment in pursuance of a resolution of either House of Parliament.
+>
+> (8) In this section “enactment” includes—
+>
+> (a) an enactment comprised in subordinate legislation within the meaning of the Interpretation Act 1978, and
+>
+> (b) an enactment comprised in, or in an instrument made under, a Measure or Act of Senedd Cymru.
+
+(2) In the Criminal Justice and Public Order Act 1994, after section 39 insert—
+
+> **39A Power to apply sections 36 and 37 in relation to food crime officers**
+>
+> (1) The Secretary of State may by regulations provide for any provision of section 36 or 37 that applies in relation to a constable to apply in relation to a food crime officer.
+>
+> (2) Regulations under subsection (1) may apply any provision of section 36 or 37 with any modifications specified in the regulations.
+>
+> (3) Regulations under subsection (1) may not apply a provision of section 36 or 37 in relation to a failure or refusal which occurred before the regulations come into force.
+>
+> (4) Regulations under subsection (1) are to be made by statutory instrument.
+>
+> (5) Regulations under subsection (1) may make—
+>
+> (a) different provision for different purposes;
+>
+> (b) provision which applies generally or for particular purposes;
+>
+> (c) incidental, supplementary, consequential, transitional or transitory provision or savings.
+>
+> (6) A statutory instrument containing regulations under subsection (1) is subject to annulment in pursuance of a resolution of either House of Parliament.
+>
+> (7) In this section “food crime officer” has the meaning given by section 114C of the Police and Criminal Evidence Act 1984 (PACE powers for food crime officers).
+
+(3) In the Food Standards Act 1999, after section 25 insert—
+
+> **25A Obstruction of food crime officers**
+>
+> (1) A person commits an offence if the person—
+>
+> (a) intentionally obstructs a food crime officer who is acting in the exercise of functions conferred on the officer by virtue of section 114C of the Police and Criminal Evidence Act 1984 (PACE powers for food crime officers),
+>
+> (b) fails without reasonable excuse to comply with any requirement made of the person by such a food crime officer who is so acting, or
+>
+> (c) in purported compliance with such a requirement provides information which the person knows to be false or misleading in any material particular or recklessly provides information which is false or misleading in any material particular.
+>
+> (2) A person guilty of an offence under this section is liable on summary conviction to imprisonment for a term not exceeding 3 months or to a fine, or to both.
+>
+> (3) In this section “food crime officer” has the meaning given by section 114C of the Police and Criminal Evidence Act 1984 (PACE powers for food crime officers).
+
+(4) In the Police Reform Act 2002—
+
+(a) in section 10 (general functions of the Director General)—
+
+(i) in subsection (1), at the end of paragraph (ga) insert
+
+> ; and
+>
+> (gb) to carry out such corresponding functions in relation to officers of the Food Standards Agency acting in the exercise of functions conferred on them by virtue of—
+>
+> (i) section 114C of the Police and Criminal Evidence Act 1984 (PACE powers for food crime officers), or
+>
+> (ii) section 39A of the Criminal Justice and Public Order Act 1994 (powers for food crime officers: inferences from silence).
+
+, and
+
+(ii) in subsection (3), after paragraph (bd) insert—
+
+> (be) any regulations under section 26E of this Act (food crime officers);
+
+, and
+
+(b) after section 26D insert—
+
+> **26E Food crime officers**
+>
+> (1) The Secretary of State may make regulations conferring functions on the Director General in relation to officers of the Food Standards Agency (the “Agency”) acting in the exercise of functions conferred on them by virtue of—
+>
+> (a) section 114C of the Police and Criminal Evidence Act 1984 (PACE powers for food crime officers), or
+>
+> (b) section 39A of the Criminal Justice and Public Order Act 1994 (powers for food crime officers: inferences from silence).
+>
+> (2) Regulations under this section may, in particular—
+>
+> (a) apply (with or without modifications), or make provision similar to, any provision of or made under this Part;
+>
+> (b) make provision for payment by the Agency to, or in respect of, the Office or in respect of the Director General.
+>
+> (3) The Director General and the Parliamentary Commissioner for Administration may jointly investigate a matter in relation to which—
+>
+> (a) the Director General has functions by virtue of this section, and
+>
+> (b) the Parliamentary Commissioner for Administration has functions by virtue of the Parliamentary Commissioner Act 1967.
+>
+> (4) An officer of the Agency may disclose information to the Director General or to a person acting on the Director General’s behalf, for the purposes of the exercise by the Director General or by any person acting on the Director General’s behalf, of an Agency complaints function.
+>
+> (5) The Director General and the Parliamentary Commissioner for Administration may disclose information to each other for the purposes of the exercise of a function—
+>
+> (a) by virtue of this section, or
+>
+> (b) under the Parliamentary Commissioner Act 1967.
+>
+> (6) Regulations under this section may, in particular, make—
+>
+> (a) further provision about the disclosure of information under subsection (4) or (5);
+>
+> (b) provision about the further disclosure of information that has been so disclosed.
+>
+> (7) A disclosure of information authorised by this section does not breach—
+>
+> (a) any obligation of confidence owed by the person making the disclosure, or
+>
+> (b) any other restriction on the disclosure of information (however imposed).
+>
+> (8) But this section does not authorise a disclosure of information that—
+>
+> (a) would contravene the data protection legislation (but in determining whether a disclosure would do so, the power conferred by this section is to be taken into account), or
+>
+> (b) is prohibited by any of Parts 1 to 7 or Chapter 1 of Part 9 of the Investigatory Powers Act 2016.
+>
+> (9) In this section—
+>
+> - “Agency complaints function” means a function in relation to the exercise of functions by officers of the Agency;
+> - “data protection legislation” has the same meaning as in the Data Protection Act 2018 (see section 3 of that Act).
+
+(5) The amendments made by subsections (1) to (3) and any regulations made under provision inserted by subsections (1) and (2) bind the Crown.
+
+(6) No contravention by the Crown of section 25A of the Food Standards Act 1999 (as inserted by subsection (3)) makes the Crown criminally liable; but the High Court may declare unlawful any act or omission of the Crown which constitutes such a contravention.
+
+(7) That section applies to persons in the public service of the Crown as it applies to other persons.
+
+(8) If the Secretary of State certifies that it appears requisite or expedient in the interests of national security that any powers of entry conferred by regulations made under provision inserted by subsection (1) should not be exercisable in relation to any Crown premises specified in the certificate, those powers shall not be exercisable in relation to those premises.
+
+(9) In this section “Crown premises” means premises held or used by or on behalf of the Crown.
+
+(10) Nothing in this section affects Her Majesty in her private capacity; and this subsection is to be interpreted as if section 38(3) of the Crown Proceedings Act 1947 (references to Her Majesty in her private capacity) were contained in this Act.
+
+#### Search for material relating to human remains
+
+##### 55 Entry and search of premises for human remains or material relating to human remains
+
+(1) On an application made by a constable, a justice of the peace may issue a warrant authorising a constable to enter and search premises if the justice of the peace is satisfied that the following conditions are met.
+
+(2) The first condition is that there are reasonable grounds for believing that there is material on the premises mentioned in subsection (5) that consists of, or may relate to the location of, relevant human remains.
+
+(3) The second condition is that there are reasonable grounds for believing that the material does not consist of or include—
+
+(a) items subject to legal privilege,
+
+(b) excluded material, or
+
+(c) special procedure material.
+
+(4) The third condition is that there are reasonable grounds for believing, in relation to each set of premises specified in the application—
+
+(a) that it is not practicable to communicate with any person entitled to grant entry to the premises,
+
+(b) that it is practicable to communicate with a person entitled to grant entry to the premises but it is not practicable to communicate with any person entitled to grant access to the material,
+
+(c) that entry to the premises will not be granted unless a warrant is produced, or
+
+(d) that the purpose of a search may be frustrated or seriously prejudiced unless a constable arriving at the premises can secure immediate entry to them.
+
+(5) The premises referred to in subsection (2) are—
+
+(a) one or more sets of premises specified in the application (in which case the application is for a “specific premises warrant”), or
+
+(b) any premises occupied or controlled by a person specified in the application, including such sets of premises as are so specified (in which case the application is for an “all premises warrant”).
+
+(6) If the application is for an all premises warrant, the justice of the peace must also be satisfied—
+
+(a) that there are reasonable grounds for believing that it is necessary to search premises occupied or controlled by the person in question which are not specified in the application in order to find the material referred to in subsection (2), and
+
+(b) that it is not reasonably practicable to specify in the application all the premises which the person occupies or controls and which might need to be searched.
+
+(7) The warrant may authorise entry to and search of premises on more than one occasion if, on the application, the justice of the peace is satisfied that it is necessary to authorise multiple entries in order to achieve the purpose for which the justice of the peace issues the warrant.
+
+(8) If the warrant authorises multiple entries, the number of entries authorised may be unlimited, or limited to a maximum.
+
+(9) A constable may—
+
+(a) seize and retain anything for which a search has been authorised under subsection (1), and
+
+(b) if necessary, use reasonable force in the exercise of a power conferred by a warrant issued under this section.
+
+(10) The power to issue a warrant conferred by this section is in addition to any such power otherwise conferred.
+
+(11) In this section, section 56 and Schedule 6 “relevant human remains” means the body or any other human remains of—
+
+(a) a person who the constable making the application reasonably believes to have died in England and Wales but whose death has not been registered under section 15 of the Births and Deaths Registration Act 1953,
+
+(b) a person whose death has been registered under that Act following an investigation under section 1(5) of the Coroners and Justice Act 2009, or
+
+(c) a person in respect of whom a declaration has been made under section 2 of the Presumption of Death Act 2013.
+
+(12) In this section, section 56 and Schedule 6 the following expressions have the same meaning as in the Police and Criminal Evidence Act 1984—
+
+(a) “items subject to legal privilege” (see section 10 of that Act);
+
+(b) “excluded material” (see section 11 of that Act);
+
+(c) “special procedure material” (see section 14 of that Act);
+
+(d) “premises” (see section 23 of that Act).
+
+##### 56 Special procedure for access to material relating to human remains
+
+(1) Schedule 6 makes provision for a constable to obtain access to excluded material or special procedure material that consists of, or relates to the location of, relevant human remains.
+
+(2) Section 4 of the Summary Jurisdiction (Process) Act 1881 (which includes provision for the execution of process of English and Welsh courts in Scotland) and section 29 of the Petty Sessions (Ireland) Act 1851 (which makes equivalent provision for execution in Northern Ireland) apply to any process issued by a judge under Schedule 6 to this Act as they apply to process issued by a magistrates’ court under the Magistrates’ Courts Act 1980.
+
+##### 57 Additional seizure powers
+
+In Part 1 of Schedule 1 to the Criminal Justice and Police Act 2001 (powers of seizure to which section 50 of that Act applies), at the end insert—
+
+> **73U Police, Crime, Sentencing and Courts Act 2022**
+>
+> Each of the powers of seizure conferred by section 55(9)(a) of, and paragraph 11(a) of Schedule 6 to, the Police, Crime, Sentencing and Courts Act 2022 (seizure in connection with human remains or material relating to human remains).
+
+#### Prisoner custody officers
+
+##### 58 Functions of prisoner custody officers in relation to live link hearings
+
+(1) The Criminal Justice Act 1991 is amended as follows.
+
+(2) Section 80 (arrangements for the provision of prisoner escorts) is amended in accordance with subsections (3) to (5).
+
+(3) In subsection (1), after paragraph (b) insert—
+
+> (ba) the custody of prisoners at a police station for any purpose connected with their participation in a preliminary, sentencing or enforcement hearing through a live audio link or live video link;
+
+.
+
+(4) After subsection (1A) insert—
+
+> (1B) Subsection (1)(ba) applies in relation to prisoners whether the hearing is yet to take place, is taking place or has taken place.
+
+(5) In subsection (4), at the appropriate place insert—
+
+> - “enforcement hearing”, “live audio link”, “live video link”, “preliminary hearing” and “sentencing hearing” each has the meaning given in section 56(1) of the Criminal Justice Act 2003;
+
+.
+
+(6) Section 82 (powers and duties of prisoner custody officers) is amended in accordance with subsections (7) and (8).
+
+(7) After subsection (4) insert—
+
+> (4A) Subsections (4B) and (4C) apply if a prisoner custody officer acting in pursuance of prisoner escort arrangements is at a police station for the purposes of exercising functions under section 80(1)(ba) (custody of prisoners in relation to live link proceedings) in relation to a prisoner.
+>
+> (4B) It is the prisoner custody officer’s duty to give effect to—
+>
+> (a) any order of the Crown Court under section 142 of the Powers of Criminal Courts (Sentencing) Act 2000 in relation to the prisoner, or
+>
+> (b) any order of a magistrates’ court under section 80 of the 1980 Act in relation to the prisoner.
+>
+> (4C) The fact that the prisoner custody officer is exercising, or may exercise, functions under section 80(1)(ba) in relation to the prisoner does not prevent a constable from exercising any powers in relation to the prisoner that are otherwise available to the constable.
+
+(8) In subsection (5) for “and (4)” substitute “, (4) and (4B)”.
+
+#### Proceeds of crime
+
+##### 59 Proceeds of crime: account freezing orders
+
+(1) In section 303Z1 of the Proceeds of Crime Act 2002 (application for account freezing order)—
+
+(a) omit subsections (5A) and (5B), and
+
+(b) in subsection (6), at the appropriate place insert—
+
+> - “relevant financial institution” means—
+>
+>   - a bank,
+>   - a building society,
+>   - an electronic money institution, or
+>   - a payment institution.
+
+(2) In section 316(1) of that Act (general interpretation), in the definition of “relevant financial institution”, after “303Z1” insert “(6)”.
+
+(3) In section 48 of the Financial Services Act 2021 (extent)—
+
+(a) in subsection (1), for “subsections (2) and (3)” substitute “subsection (2)”, and
+
+(b) omit subsection (3).
+
+(4) In paragraph 14 of Schedule 12 to that Act (forfeiture of money: electronic money institutions and payment institutions) omit sub-paragraphs (3) and (4).
+
+#### Non-criminal hate incidents
+
+##### 60 Code of practice relating to non-criminal hate incidents
+
+(1) The Secretary of State may issue a code of practice about the processing by a relevant person of personal data relating to a hate incident.
+
+(2) In this section “hate incident” means an incident or alleged incident which involves or is alleged to involve an act by a person (“the alleged perpetrator”) which is perceived by a person other than the alleged perpetrator to be motivated (wholly or partly) by hostility or prejudice towards persons with a particular characteristic.
+
+(3) The provision that may be made by a code of practice under this section includes, in particular, provision about—
+
+(a) whether and how personal data relating to a hate incident should be recorded;
+
+(b) the persons who are to process such personal data;
+
+(c) the circumstances in which a data subject should be notified of the processing of such personal data;
+
+(d) the retention of such personal data, including the period for which it should be retained and the circumstances in which and the procedures by which that period might be changed;
+
+(e) the consideration by a relevant person of requests by the data subject relating to such personal data.
+
+(4) But a code of practice under this section must not make provision about—
+
+(a) the processing of personal data for the purposes of a criminal investigation, or
+
+(b) the processing of personal data relating to the alleged perpetrator of a hate incident at any time after they have been charged with an offence relating to the hate incident.
+
+(5) A code of practice under this section may make different provision for different purposes.
+
+(6) A relevant person must have regard to the code of practice that is for the time being in force under this section in processing personal data relating to a hate incident.
+
+(7) In this section—
+
+- “data subject” has the meaning given by section 3(5) of the Data Protection Act 2018;
+- “personal data” has the meaning given by section 3(2) of that Act;
+- “processing” has the meaning given by section 3(4) of that Act.
+
+(8) In this section “relevant person” means—
+
+(a) a member of a police force in England and Wales,
+
+(b) a special constable appointed under section 27 of the Police Act 1996,
+
+(c) a member of staff appointed by the chief officer of police of a police force in England and Wales,
+
+(d) a person designated as a community support volunteer or a policing support volunteer under section 38 of the Police Reform Act 2002,
+
+(e) an employee of the Common Council of the City of London who is under the direction and control of a chief officer of police,
+
+(f) a constable of the British Transport Police Force,
+
+(g) a special constable of the British Transport Police Force appointed under section 25 of the Railways and Transport Safety Act 2003,
+
+(h) an employee of the British Transport Police Authority appointed under section 27 of that Act,
+
+(i) a person designated as a community support volunteer or a policing support volunteer under section 38 of the Police Reform Act 2002 as applied by section 28 of the Railways and Transport Safety Act 2003, or
+
+(j) a National Crime Agency officer.
+
+##### 61 Further provision about a code of practice under section 60
+
+(1) The Secretary of State may not issue a code of practice under section 60 unless a draft of the code has been laid before and approved by a resolution of each House of Parliament.
+
+(2) The Secretary of State may from time to time revise and reissue a code of practice under section 60.
+
+(3) Before reissuing a code of practice the Secretary of State must lay a draft of the code as proposed to be reissued before Parliament.
+
+(4) If, within the 40-day period, either House of Parliament resolves not to approve the code of practice laid under subsection (3)—
+
+(a) the code is not to be reissued, and
+
+(b) the Secretary of State may prepare another code.
+
+(5) If no such resolution is passed within the 40-day period, the Secretary of State may reissue the code of practice.
+
+(6) In this section “the 40-day period” means—
+
+(a) the period of 40 days beginning with the day on which the draft is laid before Parliament, or
+
+(b) if the draft is not laid before each House on the same day, the period of 40 days beginning with the later of the days on which it is laid before Parliament.
+
+(7) In calculating the 40-day period no account is to be taken of any period during which Parliament is dissolved or prorogued or during which both Houses of Parliament are adjourned for more than 4 days.
+
+#### Offences relating to hares etc
+
+##### 62 Increase in penalty for offences related to game etc
+
+(1) Section 1 of the Night Poaching Act 1828 (taking or destroying game or rabbits by night or entering land for that purpose) is amended in accordance with subsections (2) to (4).
+
+(2) The existing text becomes subsection (1).
+
+(3) In that subsection—
+
+(a) after “conviction” insert “to imprisonment for a term not exceeding 51 weeks,”, and
+
+(b) for “not exceeding level 3 on the standard scale” substitute “or to both”.
+
+(4) After that subsection insert—
+
+> (2) In relation to an offence committed before the coming into force of section 281(5) of the Criminal Justice Act 2003 (alteration of penalties for certain summary offences: England and Wales), the reference in subsection (1) to 51 weeks is to be read as a reference to 6 months.
+
+(5) Section 30 of the Game Act 1831 (trespass in daytime in search of game etc) is amended in accordance with subsections (6) to (8).
+
+(6) The existing text becomes subsection (1).
+
+(7) In that subsection—
+
+(a) for the words from “conviction”, in the first place it occurs, to “seem meet”, in the second place it occurs, substitute “summary conviction, be liable to imprisonment for a term not exceeding 51 weeks, to a fine or to both”, and
+
+(b) for “each of the two offences” substitute “the offence”.
+
+(8) After that subsection insert—
+
+> (2) In relation to an offence committed before the coming into force of section 281(5) of the Criminal Justice Act 2003 (alteration of penalties for certain summary offences: England and Wales), the reference in subsection (1) to 51 weeks is to be read as a reference to 6 months.
+
+(9) In section 4A of the Game Laws (Amendment) Act 1960 (forfeiture of vehicles), in subsection (1), omit “as one of five or more persons liable under that section”.
+
+(10) The amendments made by this section have effect only in relation to offences committed on or after the day on which this section comes into force.
+
+##### 63 Trespass with intent to search for or to pursue hares with dogs etc
+
+(1) A person commits an offence if they trespass on land with the intention of—
+
+(a) using a dog to search for or to pursue a hare,
+
+(b) facilitating or encouraging the use of a dog to search for or to pursue a hare, or
+
+(c) enabling another person to observe the use of a dog to search for or to pursue a hare.
+
+(2) It is a defence for a person charged with an offence under subsection (1) to prove that they had a reasonable excuse for the trespass mentioned in that subsection.
+
+(3) A person guilty of an offence under subsection (1) is liable on summary conviction to imprisonment for a term not exceeding 51 weeks, to a fine or to both.
+
+(4) In relation to an offence committed before the coming into force of section 281(5) of the Criminal Justice Act 2003 (alteration of penalties for certain summary offences: England and Wales), the reference in subsection (3) to 51 weeks is to be read as a reference to 6 months.
+
+##### 64 Being equipped for searching for or pursuing hares with dogs etc
+
+(1) A person commits an offence if they have an article with them in a place other than a dwelling with the intention that it will be used in the course of or in connection with the commission by any person of an offence under section 63 (trespass with intent to search for or to pursue hares with dogs etc).
+
+(2) Where a person is charged with an offence under subsection (1), proof that the person had with them any article made or adapted for use in committing an offence under section 63 is evidence that the person had it with them with the intention that it would be used in the course of or in connection with the commission by any person of an offence under that section.
+
+(3) A person guilty of an offence under subsection (1) is liable on summary conviction to imprisonment for a term not exceeding 51 weeks, to a fine or to both.
+
+(4) In relation to an offence committed before the coming into force of section 281(5) of the Criminal Justice Act 2003 (alteration of penalties for certain summary offences: England and Wales), the reference in subsection (3) to 51 weeks is to be read as a reference to 6 months.
+
+(5) In this section—
+
+- “article” includes a vehicle and, except in subsection (2), an animal;
+
+- “dwelling” means—
+
+  - a building or structure which is used as a dwelling, or
+  - a part of a building or structure, if the part is used as a dwelling,
+
+  and includes any yard, garden, garage or outhouse belonging to and used with a dwelling.
+
+##### 65 Recovery order on conviction for certain offences involving dogs
+
+(1) This section applies where—
+
+(a) a person is convicted of an offence within subsection (5) which was committed on or after the day on which this section comes into force,
+
+(b) a dog was used in or was present at the commission of the offence, and
+
+(c) the dog was lawfully seized and detained in connection with the offence.
+
+(2) The court may make an order (a “recovery order”) requiring the offender to pay all the expenses incurred by reason of the dog’s seizure and detention.
+
+(3) Any sum required to be paid under subsection (2) is to be treated for the purposes of enforcement as if it were a fine imposed on conviction.
+
+(4) Where a recovery order is available for an offence, the court may make such an order whether or not it deals with the offender in any other way for the offence.
+
+(5) The following offences are within this subsection—
+
+(a) an offence under section 1 of the Night Poaching Act 1828 (taking or destroying game or rabbits by night or entering land for that purpose);
+
+(b) an offence under section 30 of the Game Act 1831 (trespass in daytime in search of game etc);
+
+(c) an offence under section 63 (trespass with intent to search for or to pursue hares with dogs etc);
+
+(d) an offence under section 64 (being equipped for searching for or pursuing hares with dogs etc).
+
+##### 66 Disqualification order on conviction for certain offences involving dogs
+
+(1) This section applies where—
+
+(a) a person is convicted of an offence within subsection (9) which was committed on or after the day on which this section comes into force, and
+
+(b) a dog was used in or was present at the commission of the offence.
+
+(2) The court may make an order (a “disqualification order”) disqualifying the offender, for such period as the court thinks fit, from—
+
+(a) owning dogs,
+
+(b) keeping dogs, or
+
+(c) both.
+
+(3) The disqualification order may specify a period during which the offender may not make an application under section 68 to terminate the order.
+
+(4) The court may, where it appears to the court that the offender owns or keeps a dog, suspend the operation of the disqualification order for such period as it thinks necessary for enabling alternative arrangements to be made in respect of the dog.
+
+(5) Where a court makes a disqualification order, it must—
+
+(a) give its reasons for making the order in open court, and
+
+(b) cause them to be entered in the register of its proceedings.
+
+(6) A person who breaches a disqualification order commits an offence.
+
+(7) A person guilty of an offence under subsection (6) is liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+(8) Where a disqualification order is available for an offence, the court may make such an order whether or not it deals with the offender in any other way for the offence.
+
+(9) The following offences are within this subsection—
+
+(a) an offence under section 1 of the Night Poaching Act 1828 (taking or destroying game or rabbits by night or entering land for that purpose);
+
+(b) an offence under section 30 of the Game Act 1831 (trespass in daytime in search of game etc);
+
+(c) an offence under section 63 (trespass with intent to search for or to pursue hares with dogs etc);
+
+(d) an offence under section 64 (being equipped for searching for or pursuing hares with dogs etc).
+
+(10) In section 171 of the Sentencing Code (offences relating to animals), after subsection (2) insert—
+
+> (3) See section 66 of the Police, Crime, Sentencing and Courts Act 2022 (disqualification order on conviction for certain offences involving dogs) for orders relating to disqualification in the case of offences involving dogs under that Act, the Night Poaching Act 1828 and the Game Act 1831.
+
+##### 67 Seizure and disposal of dogs in connection with disqualification order
+
+(1) Where, on a court making a disqualification order, it appears to the court that the person to whom the order applies owns or keeps a dog contrary to the order, the court may order that the dog be taken into possession.
+
+(2) Where a person is convicted of an offence under section 66(6) by reason of owning or keeping a dog in breach of a disqualification order, the court by which the person is convicted may order that all dogs owned or kept in breach of the order be taken into possession.
+
+(3) An order under subsection (1) or (2), so far as relating to any dog owned by the person to whom the disqualification order applies, must make provision for disposal of the dog.
+
+(4) Any dog taken into possession in pursuance of an order under subsection (1) or (2) that is not owned by the person subject to the disqualification order is to be dealt with in such manner as an appropriate court may order.
+
+(5) But an order under subsection (4) may not provide for the dog to be—
+
+(a) destroyed, or
+
+(b) disposed of for the purposes of vivisection.
+
+(6) A court may not make an order for disposal of the dog under subsection (4) unless—
+
+(a) it has given the owner of the dog an opportunity to be heard, or
+
+(b) it is satisfied that it is not reasonably practicable to communicate with the owner.
+
+(7) Where a court makes an order under subsection (4) for the disposal of the dog, the owner of the dog may appeal against the order to the Crown Court.
+
+(8) In this section—
+
+- “appropriate court” means—
+
+  - the magistrates’ court which made the order under subsection (1) or (2), or
+  - another magistrates’ court acting for the same local justice area as that court;
+
+- “disqualification order” has the same meaning as in section 66.
+
+(9) In this section references to disposing of a dog do not include—
+
+(a) destroying it, or
+
+(b) disposing of it for the purposes of vivisection.
+
+##### 68 Termination of disqualification order
+
+(1) A person who is subject to a disqualification order may apply to an appropriate court for the order to be terminated.
+
+(2) No application under subsection (1) may be made—
+
+(a) before the end of the period of one year beginning with the date on which the disqualification order was made,
+
+(b) where a previous application under that subsection has been made in relation to the same order, before the end of the period of one year beginning with the date on which the previous application was determined, or
+
+(c) before the end of any period specified under section 66(3), or subsection (5), in relation to the order.
+
+(3) On an application under subsection (1), the court may—
+
+(a) terminate the disqualification order,
+
+(b) vary the order so as to make it less onerous, or
+
+(c) refuse the application.
+
+(4) When determining an application under subsection (1), the court is to have regard to—
+
+(a) the character of the applicant,
+
+(b) the applicant’s conduct since the disqualification order was made, and
+
+(c) any other relevant circumstances.
+
+(5) Where the court refuses an application under subsection (1) or varies a disqualification order on such an application, it may specify a period during which the applicant may not make a further application under that subsection in relation to the order concerned.
+
+(6) The court may order an applicant to pay all or part of the costs of an application.
+
+(7) In this section—
+
+- “appropriate court” means—
+
+  - the magistrates’ court which made the disqualification order, or
+  - another magistrates’ court acting for the same local justice area as that court;
+
+- “disqualification order” has the same meaning as in section 66.
+
+##### 69 Section 67: supplementary
+
+(1) The court by which an order under section 67 is made may—
+
+(a) appoint a person to carry out, or arrange for the carrying out of, the order;
+
+(b) require any person who has possession of a dog to which the order applies to deliver it up to enable the order to be carried out;
+
+(c) give directions with respect to the carrying out of the order;
+
+(d) confer additional powers (including power to enter premises where a dog to which the order applies is being kept) for the purpose of, or in connection with, the carrying out of the order;
+
+(e) order the person who committed the offence in relation to which the order was made, or another person, to reimburse the expenses of carrying out the order.
+
+(2) A person who fails to comply with a requirement imposed under subsection (1)(b) commits an offence.
+
+(3) A person guilty of an offence under subsection (2) is liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+(4) Directions under subsection (1)(c) may—
+
+(a) specify the manner in which a dog is to be disposed of, or
+
+(b) delegate the decision about the manner in which a dog is to be disposed of to a person appointed under subsection (1)(a).
+
+(5) In determining how to exercise its powers under section 67 and this section the court is to have regard (amongst other things) to—
+
+(a) the desirability of protecting the value of any dog to which the order under section 67 applies, and
+
+(b) the desirability of avoiding increasing any expenses which a person may be ordered to reimburse.
+
+(6) In determining how to exercise a power delegated under subsection (4)(b), a person is to have regard, amongst other things, to the things mentioned in subsection (5)(a) and (b).
+
+(7) If the owner of a dog ordered to be disposed of under section 67 is subject to a liability by virtue of subsection (1)(e), any amount to which the owner is entitled as a result of sale of the dog may be reduced by an amount equal to that liability.
+
+(8) Any sum ordered to be paid under subsection (1)(e) is to be treated for the purposes of enforcement as if it were a fine imposed on conviction.
+
+(9) In this section references to disposing of a dog do not include—
+
+(a) destroying it, or
+
+(b) disposing of it for the purposes of vivisection.
+
+##### 70 Disqualification orders: appeals
+
+(1) Nothing may be done under an order under section 66 or 67 with respect to a dog unless—
+
+(a) the period for giving notice of appeal against the order has expired,
+
+(b) the period for giving notice of appeal against the conviction on which the order was made has expired, and
+
+(c) if the order or conviction is the subject of an appeal, the appeal has been determined or withdrawn.
+
+(2) Where the effect of an order is suspended under subsection (1)—
+
+(a) no requirement imposed or directions given in connection with the order have effect, but
+
+(b) the court may give directions about how any dog to which the order applies is to be dealt with during the suspension.
+
+(3) Directions under subsection (2)(b) may, in particular—
+
+(a) authorise the dog to be taken into possession;
+
+(b) authorise the dog to be cared for either on the premises where it was being kept when it was taken into possession or at some other place;
+
+(c) appoint a person to carry out, or arrange for the carrying out of, the directions;
+
+(d) require any person who has possession of the dog to deliver it up for the purposes of the directions;
+
+(e) confer additional powers (including power to enter premises where the dog is being kept) for the purpose of, or in connection with, the carrying out of the directions;
+
+(f) provide for the recovery of any expenses in relation to the removal or care of the dog which are incurred in carrying out the directions.
+
+(4) A person who fails to comply with a requirement imposed under subsection (3)(d) commits an offence.
+
+(5) A person guilty an offence under subsection (4) is liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+(6) Any sum directed to be paid under subsection (3)(f) is to be treated for the purposes of enforcement as if it were a fine imposed on conviction.
+
+#### Administering a substance with intent to cause harm
+
+##### 71 Administering a substance with intent to cause harm
+
+(1) The Secretary of State must, before the end of the relevant period—
+
+(a) prepare and publish a report—
+
+(i) about the nature and prevalence of the conduct described in subsection (2), and
+
+(ii) setting out any steps Her Majesty’s Government has taken or intends to take in relation to the matters referred to in sub-paragraph (i), and
+
+(b) lay the report before Parliament.
+
+(2) The conduct referred to in subsection (1)(a)(i) is a person intentionally administering a substance to, or causing a substance to be taken by, another person—
+
+(a) without the consent of that other person, and
+
+(b) with the intention of causing harm (whether or not amounting to an offence) to that other person.
+
+(3) In subsection (1), the “relevant period” means the period of 12 months beginning with the day on which this Act is passed.
+
+#### Offences motivated by hostility based on sex or gender
+
+##### 72 Response to Law Commission report on hate crime laws
+
+(1) The Secretary of State must, before the end of the period of 12 months beginning with the day on which this Act is passed—
+
+(a) prepare and publish a response to Recommendation 8 of the Law Commission report on hate crime (adding sex or gender as a protected characteristic for the purposes of aggravated offences and enhanced sentencing), and
+
+(b) lay the response before Parliament.
+
+(2) In this section “the Law Commission report on hate crime” means the Law Commission report “Hate Crime Laws” that was published on 7 December 2021.
+
+## PART 3 — Public order
+
+### Public processions and public assemblies
+
+#### 73 Imposing conditions on public processions
+
+(1) Section 12 of the Public Order Act 1986 (imposing conditions on public processions) is amended as follows.
+
+(2) In subsection (1)—
+
+(a) for the “or” at the end of paragraph (a) substitute—
+
+> (aa) in the case of a procession in England and Wales, the noise generated by persons taking part in the procession may result in serious disruption to the activities of an organisation which are carried on in the vicinity of the procession,
+>
+> (ab) in the case of a procession in England and Wales—
+>
+> (i) the noise generated by persons taking part in the procession may have a relevant impact on persons in the vicinity of the procession, and
+>
+> (ii) that impact may be significant, or
+
+, and
+
+(b) in the words following paragraph (b), after “disruption” insert “, impact”.
+
+(3) After subsection (2) insert—
+
+> (2A) For the purposes of subsection (1)(a), the cases in which a public procession in England and Wales may result in serious disruption to the life of the community include, in particular, where—
+>
+> (a) it may result in a significant delay to the delivery of a time-sensitive product to consumers of that product, or
+>
+> (b) it may result in a prolonged disruption of access to any essential goods or any essential service, including, in particular, access to—
+>
+> (i) the supply of money, food, water, energy or fuel,
+>
+> (ii) a system of communication,
+>
+> (iii) a place of worship,
+>
+> (iv) a transport facility,
+>
+> (v) an educational institution, or
+>
+> (vi) a service relating to health.
+>
+> (2B) In subsection (2A)(a) “time-sensitive product” means a product whose value or use to its consumers may be significantly reduced by a delay in the supply of the product to them.
+>
+> (2C) For the purposes of subsection (1)(aa), the cases in which the noise generated by persons taking part in a public procession may result in serious disruption to the activities of an organisation which are carried on in the vicinity of the procession include, in particular, where it may result in persons connected with the organisation not being reasonably able, for a prolonged period of time, to carry on in that vicinity the activities or any one of them.
+>
+> (2D) For the purposes of subsection (1)(ab)(i), the noise generated by persons taking part in a public procession may have a relevant impact on persons in the vicinity of the procession if—
+>
+> (a) it may result in the intimidation or harassment of persons of reasonable firmness with the characteristics of persons likely to be in the vicinity, or
+>
+> (b) it may cause such persons to suffer alarm or distress.
+>
+> (2E) In considering for the purposes of subsection (1)(ab)(ii) whether the noise generated by persons taking part in a public procession may have a significant impact on persons in the vicinity of the procession, the senior police officer must have regard to—
+>
+> (a) the likely number of persons of the kind mentioned in paragraph (a) of subsection (2D) who may experience an impact of the kind mentioned in paragraph (a) or (b) of that subsection,
+>
+> (b) the likely duration of that impact on such persons, and
+>
+> (c) the likely intensity of that impact on such persons.
+
+(4) After subsection (11) insert—
+
+> (12) The Secretary of State may by regulations amend any of subsections (2A) to (2C) for the purposes of making provision about the meaning for the purposes of this section of—
+>
+> (a) serious disruption to the activities of an organisation which are carried on in the vicinity of a public procession, or
+>
+> (b) serious disruption to the life of the community.
+>
+> (13) Regulations under subsection (12) may, in particular, amend any of those subsections for the purposes of—
+>
+> (a) defining any aspect of an expression mentioned in subsection (12)(a) or (b) for the purposes of this section;
+>
+> (b) giving examples of cases in which a public procession is or is not to be treated as resulting in—
+>
+> (i) serious disruption to the activities of an organisation which are carried on in the vicinity of the procession, or
+>
+> (ii) serious disruption to the life of the community.
+>
+> (14) Regulations under subsection (12)—
+>
+> (a) are to be made by statutory instrument;
+>
+> (b) may apply only in relation to public processions in England and Wales;
+>
+> (c) may make incidental, supplementary, consequential, transitional, transitory or saving provision, including provision which makes consequential amendments to this Part.
+>
+> (15) A statutory instrument containing regulations under subsection (12) may not be made unless a draft of the instrument has been laid before and approved by a resolution of each House of Parliament.
+
+(5) The Secretary of State must, before the end of the period of 2 years beginning with the day on which this section comes into force—
+
+(a) prepare and publish a report on the operation of the amendments to section 12 of the Public Order Act 1986 made by this section, and
+
+(b) lay the report before Parliament.
+
+#### 74 Imposing conditions on public assemblies
+
+(1) Section 14 of the Public Order Act 1986 (imposing conditions on public assemblies) is amended as follows.
+
+(2) In subsection (1)—
+
+(a) for “If” substitute “Subsection (1A) applies if”,
+
+(b) for the “or” at the end of paragraph (a) substitute—
+
+> (aa) in the case of an assembly in England and Wales, the noise generated by persons taking part in the assembly may result in serious disruption to the activities of an organisation which are carried on in the vicinity of the assembly,
+>
+> (ab) in the case of an assembly in England and Wales—
+>
+> (i) the noise generated by persons taking part in the assembly may have a relevant impact on persons in the vicinity of the assembly, and
+>
+> (ii) that impact may be significant, or
+
+, and
+
+(c) omit the words after paragraph (b).
+
+(3) After subsection (1) insert—
+
+> (1A) The senior police officer may give directions imposing on the persons organising or taking part in the assembly—
+>
+> (a) in the case of an assembly in England and Wales, such conditions as appear to the officer necessary to prevent the disorder, damage, disruption, impact or intimidation mentioned in subsection (1);
+>
+> (b) in the case of an assembly in Scotland, such conditions as to the place at which the assembly may be (or continue to be) held, its maximum duration, or the maximum number of persons who may constitute it, as appear to the officer necessary to prevent the disorder, damage, disruption or intimidation mentioned in subsection (1)(a) or (b).
+
+(4) In subsection (2), for “subsection (1)” substitute “this section”.
+
+(5) After subsection (2) insert—
+
+> (2A) For the purposes of subsection (1)(a), the cases in which a public assembly in England and Wales may result in serious disruption to the life of the community include, in particular, where—
+>
+> (a) it may result in a significant delay to the supply of a time-sensitive product to consumers of that product, or
+>
+> (b) it may result in a prolonged disruption of access to any essential goods or any essential service, including, in particular, access to—
+>
+> (i) the supply of money, food, water, energy or fuel,
+>
+> (ii) a system of communication,
+>
+> (iii) a place of worship,
+>
+> (iv) a transport facility,
+>
+> (v) an educational institution, or
+>
+> (vi) a service relating to health.
+>
+> (2B) In subsection (2A)(a) “time-sensitive product” means a product whose value or use to its consumers may be significantly reduced by a delay in the supply of the product to them.
+>
+> (2C) For the purposes of subsection (1)(aa), the cases in which the noise generated by persons taking part in a public assembly may result in serious disruption to the activities of an organisation which are carried on in the vicinity of the assembly include, in particular, where it may result in persons connected with the organisation not being reasonably able, for a prolonged period of time, to carry on in that vicinity the activities or any one of them.
+>
+> (2D) For the purposes of subsection (1)(ab)(i), the noise generated by persons taking part in an assembly may have a relevant impact on persons in the vicinity of the assembly if—
+>
+> (a) it may result in the intimidation or harassment of persons of reasonable firmness with the characteristics of persons likely to be in the vicinity, or
+>
+> (b) it may cause such persons to suffer alarm or distress.
+>
+> (2E) In considering for the purposes of subsection (1)(ab)(ii) whether the noise generated by persons taking part in an assembly may have a significant impact on persons in the vicinity of the assembly, the senior police officer must have regard to—
+>
+> (a) the likely number of persons of the kind mentioned in paragraph (a) of subsection (2D) who may experience an impact of the kind mentioned in paragraph (a) or (b) of that subsection,
+>
+> (b) the likely duration of that impact on such persons, and
+>
+> (c) the likely intensity of that impact on such persons.
+
+(6) After subsection (10A) (as inserted by section 75(11)) insert—
+
+> (11) The Secretary of State may by regulations amend any of subsections (2A) to (2C) for the purposes of making provision about the meaning for the purposes of this section of—
+>
+> (a) serious disruption to the activities of an organisation which are carried on in the vicinity of a public assembly, or
+>
+> (b) serious disruption to the life of the community.
+>
+> (12) Regulations under subsection (11) may, in particular, amend any of those subsections for the purposes of—
+>
+> (a) defining any aspect of an expression mentioned in subsection (11)(a) or (b) for the purposes of this section;
+>
+> (b) giving examples of cases in which a public assembly is or is not to be treated as resulting in—
+>
+> (i) serious disruption to the activities of an organisation which are carried on in the vicinity of the assembly, or
+>
+> (ii) serious disruption to the life of the community.
+>
+> (13) Regulations under subsection (11)—
+>
+> (a) are to be made by statutory instrument;
+>
+> (b) may apply only in relation to public assemblies in England and Wales;
+>
+> (c) may make incidental, supplementary, consequential, transitional, transitory or saving provision, including provision which makes consequential amendments to this Part.
+>
+> (14) A statutory instrument containing regulations under subsection (11) may not be made unless a draft of the instrument has been laid before and approved by a resolution of each House of Parliament.
+
+(7) The Secretary of State must, before the end of the period of 2 years beginning with the day on which this section comes into force—
+
+(a) prepare and publish a report on the operation of the amendments to section 14 of the Public Order Act 1986 made by this section, and
+
+(b) lay the report before Parliament.
+
+#### 75 Offences under sections 12 and 14 of the Public Order Act 1986
+
+(1) The Public Order Act 1986 is amended as follows.
+
+(2) Section 12 (imposing conditions on public processions) is amended in accordance with subsections (3) to (6).
+
+(3) In subsection (4)—
+
+(a) for “A person” substitute “Subject to subsection (5A), a person”, and
+
+(b) omit “knowingly”.
+
+(4) In subsection (5)—
+
+(a) for “A person” substitute “Subject to subsection (5A), a person”, and
+
+(b) omit “knowingly”.
+
+(5) After subsection (5) insert—
+
+> (5A) A person is guilty of an offence under subsection (4) or (5) only if—
+>
+> (a) in the case of a public procession in England and Wales, at the time the person fails to comply with the condition the person knows or ought to know that the condition has been imposed;
+>
+> (b) in the case of a public procession in Scotland, the person knowingly fails to comply with the condition.
+
+(6) For subsections (8) to (10) substitute—
+
+> (8) A person guilty of an offence under subsection (4) is liable on summary conviction—
+>
+> (a) in the case of a public procession in England and Wales, to imprisonment for a term not exceeding 51 weeks or a fine not exceeding level 4 on the standard scale or both;
+>
+> (b) in the case of a public procession in Scotland, to imprisonment for a term not exceeding 3 months or a fine not exceeding level 4 on the standard scale or both.
+>
+> (9) A person guilty of an offence under subsection (5) is liable on summary conviction—
+>
+> (a) in the case of a public procession in England and Wales, to a fine not exceeding level 4 on the standard scale;
+>
+> (b) in the case of a public procession in Scotland, to a fine not exceeding level 3 on the standard scale.
+>
+> (10) A person guilty of an offence under subsection (6) is liable on summary conviction—
+>
+> (a) in the case of a public procession in England and Wales, to imprisonment for a term not exceeding 51 weeks or a fine not exceeding level 4 on the standard scale or both;
+>
+> (b) in the case of a public procession in Scotland, to imprisonment for a term not exceeding 3 months or a fine not exceeding level 4 on the standard scale or both.
+>
+> (10A) In relation to an offence committed before the coming into force of section 281(5) of the Criminal Justice Act 2003 (alteration of penalties for certain summary offences: England and Wales), the references in subsections (8)(a) and to (10)(a) to 51 weeks are to be read as references to 6 months.
+
+(7) Section 14 (imposing conditions on public assemblies) is amended in accordance with subsections (8) to (11).
+
+(8) In subsection (4)—
+
+(a) for “A person” substitute “Subject to subsection (5A), a person”, and
+
+(b) omit “knowingly”.
+
+(9) In subsection (5)—
+
+(a) for “A person” substitute “Subject to subsection (5A), a person”, and
+
+(b) omit “knowingly”.
+
+(10) After subsection (5) insert—
+
+> (5A) A person is guilty of an offence under subsection (4) or (5) only if—
+>
+> (a) in the case of a public assembly in England and Wales, at the time the person fails to comply with the condition the person knows or ought to know that the condition has been imposed;
+>
+> (b) in the case of a public assembly in Scotland, the person knowingly fails to comply with the condition.
+
+(11) For subsections (8) to (10) substitute—
+
+> (8) A person guilty of an offence under subsection (4) is liable on summary conviction—
+>
+> (a) in the case of a public assembly in England and Wales, to imprisonment for a term not exceeding 51 weeks or a fine not exceeding level 4 on the standard scale or both;
+>
+> (b) in the case of a public assembly in Scotland, to imprisonment for a term not exceeding 3 months or a fine not exceeding level 4 on the standard scale or both.
+>
+> (9) A person guilty of an offence under subsection (5) is liable on summary conviction—
+>
+> (a) in the case of a public assembly in England and Wales, to a fine not exceeding level 4 on the standard scale;
+>
+> (b) in the case of a public assembly in Scotland, to a fine not exceeding level 3 on the standard scale.
+>
+> (10) A person guilty of an offence under subsection (6) is liable on summary conviction—
+>
+> (a) in the case of a public assembly in England and Wales, to imprisonment for a term not exceeding 51 weeks or a fine not exceeding level 4 on the standard scale or both;
+>
+> (b) in the case of a public assembly in Scotland, to imprisonment for a term not exceeding 3 months or a fine not exceeding level 4 on the standard scale or both.
+>
+> (10A) In relation to an offence committed before the coming into force of section 281(5) of the Criminal Justice Act 2003 (alteration of penalties for certain summary offences: England and Wales), the references in subsections (8)(a) and to (10)(a) to 51 weeks are to be read as references to 6 months.
+
+(12) Subsections (6) and (11) apply only in relation to offences committed on or after the day on which this section comes into force.
+
+### Palace of Westminster, Parliament Square etc
+
+#### 76 Obstruction of vehicular access to Parliament
+
+(1) Part 3 of the Police Reform and Social Responsibility Act 2011 (Parliament Square etc) is amended as follows.
+
+(2) In section 142A (other controlled areas in vicinity of the Palace of Westminster)—
+
+(a) in subsection (1)—
+
+(i) in paragraph (a), after sub-paragraph (i) insert—
+
+> (ia) Canon Row,
+>
+> (ib) Parliament Street,
+>
+> (ic) Derby Gate,
+>
+> (id) Parliament Square,
+
+, and
+
+(ii) after paragraph (a) insert—
+
+> (aa) so much of the highway in the postal district SW1 known as Victoria Embankment as lies between the highway in that district known as Bridge Street and the highway in that district known as Richmond Terrace,
+
+, and
+
+(b) after subsection (1) insert—
+
+> (1A) A reference to a highway in subsection (1)(a) or (aa) includes any land immediately adjoining that highway and to which the public have or are permitted access.
+
+(3) In section 143 (prohibited activities in controlled area of Parliament Square or in Palace of Westminster controlled area)—
+
+(a) in subsection (2), after paragraph (e) insert—
+
+> (f) obstructing, by the use of any item or otherwise, the passage of a vehicle of any description into or out of an entrance into or exit from the Parliamentary Estate, where that entrance or exit is within, or adjoins, the Palace of Westminster controlled area.
+
+,
+
+(b) in subsection (3)(b) for “relevant authority” substitute “relevant person”,
+
+(c) after subsection (4) insert—
+
+> (4A) In subsection (2)(f) the reference to obstructing the passage of a vehicle includes making the passage of a vehicle more difficult.
+
+,
+
+(d) in subsection (5)—
+
+(i) in the words before paragraph (a), for ““relevant authority”” substitute ““relevant person””,
+
+(ii) omit “or” at the end of paragraph (b), and
+
+(iii) after paragraph (c) insert—
+
+> (d) a relevant member of the House of Lords staff, or
+>
+> (e) a relevant member of the House of Commons staff
+
+, and
+
+(e) after subsection (5) insert—
+
+> (5A) In subsection (5)—
+>
+> - “relevant member of the House of Lords staff” has the meaning given by section 194(6) of the Employment Rights Act 1996;
+> - “relevant member of the House of Commons staff” has the meaning given by section 195(5) of that Act.
+
+(4) Subsection (2) does not affect—
+
+(a) any direction given under section 143(1) of the Police Reform and Social Responsibility Act 2011 before the day on which this section came into force,
+
+(b) any order made under section 146(1)(b) of that Act before that day, or
+
+(c) any authorisation given under section 147 of that Act before that day.
+
+(5) Any such direction, order or authorisation applies in relation to the Palace of Westminster controlled area as defined by section 142A(1) of that Act as it had effect immediately before that day.
+
+#### 77 Power to specify other areas as controlled areas
+
+After section 149 of the Police Reform and Social Responsibility Act 2011 insert—
+
+> **149A Power to specify other areas as controlled areas**
+>
+> (1) The Secretary of State may by regulations provide for any provision of sections 143 to 148 and 149(3) to apply, with or without modifications, in relation to an area specified in the regulations.
+>
+> (2) An area may be specified in regulations under subsection (1) by description, by reference to a map or plan or in any other way.
+>
+> (3) Regulations under subsection (1) may be made only if—
+>
+> (a) either House of Parliament is, or is proposed to be, located somewhere other than the Palace of Westminster as a result of the Parliamentary building works or for any other reason, and
+>
+> (b) as a result of that relocation, or proposed relocation, the Secretary of State considers that it is reasonably necessary for activities which are prohibited in relation to the controlled area of Parliament Square or the Palace of Westminster controlled area to be prohibited in relation to the area specified in the regulations.
+>
+> (4) In subsection (3)(a) “the Parliamentary building works” has the meaning given by section 1(1) of the Parliamentary Buildings (Restoration and Renewal) Act 2019.
+>
+> (5) The Secretary of State may by regulations make provision for any other enactment, or any instrument made under an enactment, to have effect with modifications in consequence of regulations under subsection (1).
+
+### Public nuisance
+
+#### 78 Intentionally or recklessly causing public nuisance
+
+(1) A person commits an offence if—
+
+(a) the person—
+
+(i) does an act, or
+
+(ii) omits to do an act that they are required to do by any enactment or rule of law,
+
+(b) the person’s act or omission—
+
+(i) creates a risk of, or causes, serious harm to the public or a section of the public, or
+
+(ii) obstructs the public or a section of the public in the exercise or enjoyment of a right that may be exercised or enjoyed by the public at large, and
+
+(c) the person intends that their act or omission will have a consequence mentioned in paragraph (b) or is reckless as to whether it will have such a consequence.
+
+(2) In subsection (1)(b)(i) “serious harm” means—
+
+(a) death, personal injury or disease,
+
+(b) loss of, or damage to, property, or
+
+(c) serious distress, serious annoyance, serious inconvenience or serious loss of amenity.
+
+(3) It is a defence for a person charged with an offence under subsection (1) to prove that they had a reasonable excuse for the act or omission mentioned in paragraph (a) of that subsection.
+
+(4) A person guilty of an offence under subsection (1) is liable—
+
+(a) on summary conviction, to imprisonment for a term not exceeding [[^F12]the general limit in a magistrates’ court], to a fine or to both;
+
+(b) on conviction on indictment, to imprisonment for a term not exceeding 10 years, to a fine or to both.
+
+(5) In relation to an offence committed before the coming into force of paragraph 24(2) of Schedule 22 to the Sentencing Act 2020 (increase in magistrates’ court power to impose imprisonment) the reference in subsection (4)(a) to [[^F13]the general limit in a magistrates’ court] is to be read as a reference to 6 months.
+
+(6) The common law offence of public nuisance is abolished.
+
+(7) Subsections (1) to (6) do not apply in relation to—
+
+(a) any act or omission which occurred before the coming into force of those subsections, or
+
+(b) any act or omission which began before the coming into force of those subsections and continues after their coming into force.
+
+(8) This section does not affect—
+
+(a) the liability of any person for an offence other than the common law offence of public nuisance,
+
+(b) the civil liability of any person for the tort of public nuisance, or
+
+(c) the ability to take any action under any enactment against a person for any act or omission within subsection (1).
+
+(9) In this section “enactment” includes an enactment comprised in subordinate legislation within the meaning of the Interpretation Act 1978.
+
+### One-person protests
+
+#### 79 Imposing conditions on one-person protests
+
+(1) After section 14 of the Public Order Act 1986 insert—
+
+> **14ZA Imposing conditions on one-person protests**
+>
+> (1) Subsection (2) applies if the senior police officer, having regard to the time or place at which and the circumstances in which any one-person protest in England and Wales is being carried on or is intended to be carried on, reasonably believes—
+>
+> (a) that the noise generated by the person carrying on the protest may result in serious disruption to the activities of an organisation which are carried on in the vicinity of the protest, or
+>
+> (b) that—
+>
+> (i) the noise generated by the person carrying on the protest may have a relevant impact on persons in the vicinity of the protest, and
+>
+> (ii) that impact may be significant.
+>
+> (2) The senior police officer may give directions imposing on the person organising or carrying on the protest such conditions as appear to the officer necessary to prevent such disruption or impact.
+>
+> (3) Where the one-person protest is moving, or is intended to move, from place to place—
+>
+> (a) the senior police officer must also have regard under subsection (1) to its route or proposed route, and
+>
+> (b) the conditions which may be imposed under subsection (2) include conditions as to the route of the protest or prohibiting the person carrying on the protest from entering any public place specified in the direction while the person is carrying it on.
+>
+> (4) In this section “one-person protest” means a protest which, at any one time, is carried on by one person in a public place.
+>
+> (5) In this section “the senior police officer” means—
+>
+> (a) in relation to a one-person protest being held or to a one-person protest intended to be held in a case where a person is in a place with a view to carrying on such a protest, the most senior in rank of the police officers present at the scene, and
+>
+> (b) in relation to a one-person protest intended to be held in a case where paragraph (a) does not apply, the chief officer of police.
+>
+> (6) For the purposes of subsection (1)(a), the cases in which the noise generated by a person taking part in a one-person protest may result in serious disruption to the activities of an organisation which are carried on in the vicinity of the protest include, in particular, where it may result in persons connected with the organisation not being reasonably able, for a prolonged period of time, to carry on in that vicinity the activities or any one of them.
+>
+> (7) For the purposes of subsection (1)(b)(i), the noise generated by a person carrying on a one-person protest may have a relevant impact on persons in the vicinity of the protest if—
+>
+> (a) it may result in the intimidation or harassment of persons of reasonable firmness with the characteristics of persons likely to be in the vicinity, or
+>
+> (b) it may cause such persons to suffer alarm or distress.
+>
+> (8) In considering for the purposes of subsection (1)(b)(ii) whether the noise generated by a person carrying on a one-person protest may have a significant impact on persons in the vicinity of the protest, the senior police officer must have regard to—
+>
+> (a) the likely number of persons of the kind mentioned in paragraph (a) of subsection (7) who may experience an impact of the kind mentioned in paragraph (a) or (b) of that subsection,
+>
+> (b) the likely duration of that impact on such persons, and
+>
+> (c) the likely intensity of that impact on such persons.
+>
+> (9) A direction given by a chief officer of police by virtue of subsection (5)(b) must be given in writing.
+>
+> (10) A person (“P”) is guilty of an offence if—
+>
+> (a) P organises or carries on a one-person protest,
+>
+> (b) P fails to comply with a condition imposed under this section, and
+>
+> (c) at the time P fails to comply with the condition, P knows or ought to know that the condition has been imposed.
+>
+> (11) It is a defence for a person charged with an offence under subsection (10) to prove that the failure arose from circumstances beyond the person’s control.
+>
+> (12) A person who incites another to commit an offence under subsection (10) is guilty of an offence.
+>
+> (13) A person guilty of an offence under subsection (10) is liable on summary conviction to a fine not exceeding level 4 on the standard scale.
+>
+> (14) A person guilty of an offence under subsection (12) is liable on summary conviction to imprisonment for a term not exceeding 51 weeks or a fine not exceeding level 4 on the standard scale or both.
+>
+> (15) In relation to an offence committed before the coming into force of section 281(5) of the Criminal Justice Act 2003 (alteration of penalties for certain summary offences: England and Wales), the reference in subsection (14) to 51 weeks is to be read as a reference to 6 months.
+>
+> (16) The Secretary of State may by regulations amend subsection (6) for the purposes of making provision about the meaning for the purposes of this section of serious disruption to the activities of an organisation which are carried on in the vicinity of a one-person protest.
+>
+> (17) Regulations under subsection (16) may, in particular, amend that subsection for the purposes of—
+>
+> (a) defining any aspect of that expression for the purposes of this section;
+>
+> (b) giving examples of cases in which a one-person protest is or is not to be treated as resulting in serious disruption to the activities of an organisation which are carried on in the vicinity of the protest.
+>
+> (18) Regulations under subsection (16)—
+>
+> (a) are to be made by statutory instrument;
+>
+> (b) may make incidental, supplementary, consequential, transitional, transitory or saving provision, including provision which makes consequential amendments to this Part.
+>
+> (19) A statutory instrument containing regulations under subsection (16) may not be made unless a draft of the instrument has been laid before and approved by a resolution of each House of Parliament.
+
+(2) The Secretary of State must, before the end of the period of 2 years beginning with the day on which this section comes into force—
+
+(a) prepare and publish a report on the operation of section 14ZA of the Public Order Act 1986, and
+
+(b) lay the report before Parliament.
+
+### Wilful obstruction of highway
+
+#### 80 Wilful obstruction of highway
+
+(1) Section 137 of the Highways Act 1980 (penalty for wilful obstruction) is amended as follows.
+
+(2) In subsection (1)—
+
+(a) after “liable to” insert “imprisonment for a term not exceeding 51 weeks or”;
+
+(b) for “not exceeding level 3 on the standard scale” substitute “or both”.
+
+(3) After subsection (1) insert—
+
+> (1A) In relation to an offence committed before the coming into force of section 281(5) of the Criminal Justice Act 2003 (alteration of penalties for certain summary offences: England and Wales), the reference in subsection (1) to 51 weeks is to be read as a reference to 6 months.
+>
+> (1B) For the purposes of this section it does not matter whether free passage along the highway in question has already been temporarily restricted or temporarily prohibited (whether by a constable, a traffic authority or otherwise).
+>
+> (1C) In subsection (1B), “traffic authority” has the same meaning as in the Road Traffic Regulation Act 1984 (see section 121A of that Act).
+
+### Repeal of the Vagrancy Act 1824 etc
+
+#### 81 Repeal of the Vagrancy Act 1824 etc
+
+(1) The Vagrancy Act 1824 is repealed.
+
+(2) Subsections (3) to (7) contain amendments and repeals in consequence of subsection (1).
+
+(3) The following are repealed—
+
+(a) the Vagrancy Act 1935;
+
+(b) section 2(3)(c) of the House to House Collections Act 1939 (licences);
+
+(c) section 20 of the Criminal Justice Act 1967 (power of magistrates’ court to commit on bail for sentence);
+
+(d) in the Criminal Justice Act 1982—
+
+(i) section 70 and the italic heading immediately before that section (vagrancy offences), and
+
+(ii) paragraph 1 of Schedule 14 and the italic heading immediately before that paragraph (minor and consequential amendments);
+
+(e) section 43(5) of the Mental Health Act 1983 (power of magistrates’ courts to commit for restriction order);
+
+(f) section 26(5) of the Criminal Justice Act 1991 (alteration of certain penalties);
+
+(g) in the Criminal Justice Act 2003—
+
+(i) paragraphs 1 and 2 of Schedule 25 and the italic heading immediately before those paragraphs (summary offences no longer punishable with imprisonment), and
+
+(ii) paragraphs 145 and 146 of Schedule 32 and the italic heading immediately before those paragraphs (amendments relating to sentencing);
+
+(h) paragraph 18 of Schedule 8 to the Serious Organised Crime and Police Act 2005 (powers of accredited persons).
+
+(4) In section 81 of the Public Health Acts Amendment Act 1907 (extending definition of public place and street for certain purposes), omit the words from “shall”, in the first place it occurs, to “public place, and”.
+
+(5) In section 48(2) of the Forestry Act 1967 (powers of entry and enforcement), omit “or against the Vagrancy Act 1824”.
+
+(6) In the Police Reform Act 2002—
+
+(a) in Schedule 3C (powers of community support officers and community support volunteers)—
+
+(i) omit paragraph 3(3)(b),
+
+(ii) omit paragraph 7(3),
+
+(iii) in paragraph 7(4), omit “or (3)”, and
+
+(iv) in paragraph 7(7)(a), omit “or (3)”, and
+
+(b) in Schedule 5 (powers exercisable by accredited persons), omit paragraph 2(3)(aa).
+
+(7) In the Sentencing Code—
+
+(a) in section 20(1) (committal in certain cases where offender committed in respect of another offence)—
+
+(i) at the end of paragraph (e), insert “or”, and
+
+(ii) omit paragraph (g) (and the “or” immediately before it), and
+
+(b) omit section 24(1)(f) (further powers to commit offender to the Crown Court to be dealt with).
+
+(8) The amendments and repeals made by this section do not apply in relation to an offence committed before this section comes into force.
+
+### Expedited public spaces protection orders
+
+#### 82 Expedited public spaces protection orders
+
+(1) The Anti-social Behaviour, Crime and Policing Act 2014 is amended as follows.
+
+(2) After section 59 insert—
+
+> **59A Power to make expedited public spaces protection orders**
+>
+> (1) A local authority may make an expedited public spaces protection order (an “expedited order”) in relation to a public place within the local authority’s area if satisfied on reasonable grounds that three conditions are met.
+>
+> (2) The first condition is that the public place is in the vicinity of—
+>
+> (a) a school in the local authority’s area, or
+>
+> (b) a site in the local authority’s area where, or from which—
+>
+> (i) vaccines are provided to members of the public by, or pursuant to arrangements with, an NHS body, or
+>
+> (ii) test and trace services are provided.
+>
+> The reference in paragraph (b)(i) to arrangements includes arrangements made by the NHS body in the exercise of functions of another person by virtue of any provision of the National Health Service Act 2006.
+>
+> (3) The second condition is that activities carried on, or likely to be carried on, in the public place by one or more individuals in the course of a protest or demonstration have had, or are likely to have, the effect of—
+>
+> (a) harassing or intimidating members of staff or volunteers at the school or site,
+>
+> (b) harassing or intimidating persons using the services of the school or site,
+>
+> (c) impeding the provision of services by staff or volunteers at the school or site, or
+>
+> (d) impeding access by persons seeking to use the services of the school or site.
+>
+> (4) The third condition is that the effect or likely effect mentioned in subsection (3)—
+>
+> (a) is, or is likely to be, of a persistent or continuing nature,
+>
+> (b) is, or is likely to be, such as to make the activities unreasonable, and
+>
+> (c) justifies the restrictions imposed by the order.
+>
+> (5) An expedited order is an order that identifies the public place referred to in subsection (1) (“the restricted area”) and—
+>
+> (a) prohibits specified things being done in the restricted area,
+>
+> (b) requires specified things to be done by persons carrying on specified activities in that area, or
+>
+> (c) does both of those things.
+>
+> (6) The only prohibitions or requirements that may be imposed are ones that are reasonable to impose in order—
+>
+> (a) to prevent the harassment, intimidation or impediment referred to in subsection (3) from continuing, occurring or recurring, or
+>
+> (b) to reduce that harassment, intimidation or impediment or to reduce the risk of its continuance, occurrence or recurrence.
+>
+> (7) A prohibition or requirement may be framed—
+>
+> (a) so as to apply to all persons, or only to persons in specified categories, or to all persons except those in specified categories;
+>
+> (b) so as to apply at all times, or only at specified times, or at all times except those specified;
+>
+> (c) so as to apply in all circumstances, or only in specified circumstances, or in all circumstances except those specified.
+>
+> (8) An expedited order must—
+>
+> (a) identify the activities referred to in subsection (3);
+>
+> (b) explain the effect of section 63 (where it applies) and section 67;
+>
+> (c) specify the period for which the order has effect.
+>
+> (9) An expedited order may not be made in relation to a public place if that place (or any part of it) is or has been the subject of an expedited order (“the earlier order”), unless the period specified in subsection (11) has expired.
+>
+> (10) In subsection (9) the second reference to “an expedited order” is to be read as including a reference to a public spaces protection order (made after the day on which this section comes into force) which neither prohibited nor required anything that could not have been prohibited or required by an expedited order.
+>
+> (11) The period specified in this subsection is the period of a year beginning with the day on which the earlier order ceased to have effect.
+>
+> (12) An expedited order must be published in accordance with regulations made by the Secretary of State.
+>
+> (13) For the purposes of subsection (2), a public place that is coextensive with, includes, or is wholly or partly within, a school or site is regarded as being “in the vicinity of” that school or site.
+>
+> (14) In this section references to a “school” are to be read as including a 16 to 19 Academy.
+>
+> (15) In this section “test and trace services” means—
+>
+> (a) in relation to England, services of the programme known as NHS Test and Trace;
+>
+> (b) in relation to Wales, services of the programme known as Test, Trace, Protect.
+
+(3) After section 60 insert—
+
+> **60A Duration of expedited orders**
+>
+> (1) An expedited order may not have effect for a period of more than 6 months.
+>
+> (2) Subject to subsection (1), the local authority that made an expedited order may, before the time when the order is due to expire, extend the period for which the order has effect if satisfied on reasonable grounds that doing so is necessary to prevent—
+>
+> (a) occurrence or recurrence after that time of the activities identified in the order, or
+>
+> (b) an increase in the frequency or seriousness of those activities after that time.
+>
+> (3) Where a local authority has made an expedited order, the authority may, at any time before the order is due to expire, reduce the period for which the order is to have effect if satisfied on reasonable grounds that the reduced period will be sufficient having regard to the degree of risk of an occurrence, recurrence or increase such as is mentioned in subsection (2)(a) or (b).
+>
+> (4) An extension or reduction under this section of the period for which an order has effect must be published in accordance with regulations made by the Secretary of State.
+>
+> (5) An expedited order may be extended or reduced under this section more than once.
+
+(4) After section 72 insert—
+
+> **72A Expedited orders: Convention rights and consents**
+>
+> (1) A local authority, in deciding—
+>
+> (a) whether to make an expedited order (under section 59A) and if so what it should include,
+>
+> (b) whether to extend or reduce the period for which an expedited order has effect (under section 60A) and if so by how much,
+>
+> (c) whether to vary an expedited order (under section 61) and if so how, or
+>
+> (d) whether to discharge an expedited order (under section 61),
+>
+> must have particular regard to the rights of freedom of expression and freedom of assembly set out in articles 10 and 11 of the Convention.
+>
+> (2) In subsection (1) “Convention” has the meaning given by section 21(1) of the Human Rights Act 1998.
+>
+> (3) A local authority must obtain the necessary consents before—
+>
+> (a) making an expedited order,
+>
+> (b) extending or reducing the period for which an expedited order has effect, or
+>
+> (c) varying or discharging an expedited order.
+>
+> (4) If the order referred to in subsection (3) was made, or is proposed to be made, in reliance on section 59A(2)(a), “the necessary consents” means the consent of—
+>
+> (a) the chief officer of police for the police area that includes the restricted area, and
+>
+> (b) a person authorised (whether in specific or general terms) by the appropriate authority for the school or 16 to 19 Academy.
+>
+> (5) If the order referred to in subsection (3) was made, or is proposed to be made, in reliance on section 59A(2)(b), “the necessary consents” means the consent of—
+>
+> (a) the chief officer of police for the police area that includes the restricted area, and
+>
+> (b) a person authorised by the appropriate NHS authority.
+>
+> (6) In this section—
+>
+> - “appropriate authority” means—
+>
+>   - in relation to a school maintained by a local authority, the governing body;
+>   - in relation to any other school or a 16 to 19 Academy, the proprietor;
+>
+> - “appropriate NHS authority” means—
+>
+>   - if the order was made, or is proposed to be made, in reliance on sub-paragraph (i) of section 59A(2)(b), the NHS body mentioned in that sub-paragraph;
+>   - if the order was made, or is proposed to be made, in reliance on sub-paragraph (ii) of section 59A(2)(b) and the site is in England, the UK Health Security Agency;
+>   - if the order was made, or is proposed to be made, in reliance on that sub-paragraph and the site is in Wales, the Local Health Board for the area in which the site is located.
+>
+> (7) In this section “proprietor”, in relation to a school or a 16 to 19 Academy, has the meaning given in section 579(1) of the Education Act 1996.
+>
+> **72B Consultation and notifications after making expedited order**
+>
+> (1) A local authority must carry out the necessary consultation as soon as reasonably practicable after making an expedited order.
+>
+> (2) In subsection (1) “necessary consultation” means consulting with the following about the terms and effects of the order—
+>
+> (a) the chief officer of police, and the local policing body, for the police area that includes the restricted area;
+>
+> (b) whatever community representatives the local authority thinks it appropriate to consult;
+>
+> (c) the owner or occupier of land within the restricted area.
+>
+> (3) A local authority must carry out the necessary notification (if any) as soon as reasonably practicable after—
+>
+> (a) making an expedited order,
+>
+> (b) extending or reducing the period for which an expedited order has effect, or
+>
+> (c) varying or discharging an expedited order.
+>
+> (4) In subsection (3) “necessary notification” means notifying the following of the extension, reduction, variation or discharge—
+>
+> (a) the parish council or community council (if any) for the area that includes the restricted area;
+>
+> (b) in the case of an expedited order made by a district council in England, the county council (if any) for the area that includes the restricted area;
+>
+> (c) the owner or occupier of land within the restricted area.
+>
+> (5) The requirement to notify the owner or occupier of land within the restricted area—
+>
+> (a) does not apply to land that is owned or occupied by the local authority;
+>
+> (b) applies only if, and to the extent that, it is reasonably practicable to notify the owner or occupier of the land.
+
+(5) Schedule 7 contains amendments relating to subsections (1) to (4).
+
+## PART 4 — Unauthorised encampments
+
+### 83 Offence relating to residing on land without consent in or with a vehicle
+
+(1) At the beginning of Part 5 of the Criminal Justice and Public Order Act 1994, before the italic heading before section 61, insert—
+
+> **Residing on land without consent in or with a vehicle**
+>
+> **60C Offence relating to residing on land without consent in or with a vehicle**
+>
+> (1) Subsection (2) applies where—
+>
+> (a) a person aged 18 or over (“P”) is residing, or intending to reside, on land without the consent of the occupier of the land,
+>
+> (b) P has, or intends to have, at least one vehicle with them on the land,
+>
+> (c) one or more of the conditions mentioned in subsection (4) is satisfied, and
+>
+> (d) the occupier, a representative of the occupier or a constable requests P to do either or both of the following—
+>
+> (i) leave the land;
+>
+> (ii) remove from the land property that is in P’s possession or under P’s control.
+>
+> (2) P commits an offence if—
+>
+> (a) P fails to comply with the request as soon as reasonably practicable, or
+>
+> (b) P—
+>
+> (i) enters (or having left, re-enters) the land within the prohibited period with the intention of residing there without the consent of the occupier of the land, and
+>
+> (ii) has, or intends to have, at least one vehicle with them on the land.
+>
+> (3) The prohibited period is the period of 12 months beginning with the day on which the request was made.
+>
+> (4) The conditions are—
+>
+> (a) in a case where P is residing on the land, significant damage or significant disruption has been caused or is likely to be caused as a result of P’s residence;
+>
+> (b) in a case where P is not yet residing on the land, it is likely that significant damage or significant disruption would be caused as a result of P’s residence if P were to reside on the land;
+>
+> (c) that significant damage or significant disruption has been caused or is likely to be caused as a result of conduct carried on, or likely to be carried on, by P while P is on the land;
+>
+> (d) that significant distress has been caused or is likely to be caused as a result of offensive conduct carried on, or likely to be carried on, by P while P is on the land.
+>
+> (5) A person guilty of an offence under this section is liable on summary conviction to imprisonment for a term not exceeding three months or a fine not exceeding level 4 on the standard scale, or both.
+>
+> (6) In proceedings for an offence under this section it is a defence for the accused to show that the accused had a reasonable excuse for—
+>
+> (a) failing to comply as soon as reasonably practicable with the request mentioned in subsection (1)(d), or
+>
+> (b) after receiving such a request, entering (or re-entering) the land with the intention of residing there without the consent of the occupier of the land.
+>
+> (7) In its application to common land, this section has effect—
+>
+> (a) in a case where the common land is land to which the public has access and the occupier cannot be identified, as if references to the occupier were references to the local authority in relation to the common land;
+>
+> (b) in a case where P’s residence or intended residence without the consent of the occupier is, or would be, an infringement of the commoners’ rights and—
+>
+> (i) the occupier is aware of P’s residence or intended residence and had an opportunity to consent to it, or
+>
+> (ii) if sub-paragraph (i) does not apply, any one or more of the commoners took reasonable steps to try to inform the occupier of P’s residence or intended residence and provide an opportunity to consent to it,
+>
+> as if in subsection (1)(d) after “a constable” there were inserted “or the commoners or any of them or their representative”.
+>
+> (8) In this section--
+>
+> - “common land” and “commoner” have the same meaning as in section 61;
+>
+> - “damage” includes—
+>
+>   - damage to the land;
+>   - damage to any property on the land not belonging to P;
+>   - damage to the environment (including excessive noise, smells, litter or deposits of waste);
+>
+> - “disruption” includes interference with—
+>
+>   - a person’s ability to access any services or facilities located on the land or otherwise make lawful use of the land, or
+>   - a supply of water, energy or fuel;
+>
+> - “land” does not include buildings other than—
+>
+>   - agricultural buildings within the meaning of paragraphs 3 to 8 of Schedule 5 to the Local Government Finance Act 1988, or
+>   - scheduled monuments within the meaning of the Ancient Monuments and Archaeological Areas Act 1979;
+>
+> - “the local authority”, in relation to common land, has the same meaning as in section 61;
+>
+> - “occupier” means the person entitled to possession of the land by virtue of an estate or interest held by the person;
+>
+> - “offensive conduct” means—
+>
+>   - the use of threatening, abusive or insulting words or behaviour, or disorderly behaviour, or
+>   - the display of any writing, sign, or other visible representation that is threatening, abusive or insulting;
+>
+> - “vehicle” includes—
+>
+>   - any vehicle, whether or not it is in a fit state for use on roads, and includes any chassis or body, with or without wheels, appearing to have formed part of such a vehicle, and any load carried by, and anything attached to, such a vehicle, and
+>   - a caravan as defined in section 29(1) of the Caravan Sites and Control of Development Act 1960.
+>
+> (9) For the purposes of this section a person is to be considered as residing or having the intention to reside in a place even if that residence or intended residence is temporary, and a person may be regarded as residing or having an intention to reside in a place notwithstanding that the person has a home elsewhere.
+>
+> **60D Offence under section 60C: seizure of property etc**
+>
+> (1) If a constable reasonably suspects that an offence has been committed under section 60C, the constable may seize and remove any relevant property that appears to the constable—
+>
+> (a) to belong to the person who the constable suspects has committed the offence (“P”);
+>
+> (b) to be in P’s possession; or
+>
+> (c) to be under P’s control.
+>
+> (2) “Relevant property” means—
+>
+> (a) a vehicle (wherever located) which, for the purposes of section 60C(1)(b) (in the case of an offence under section 60C(2)(a)) or for the purposes of section 60C(2)(b)(ii) (in the case of an offence under section 60C(2)(b)), the constable suspects P had or intended to have with them, or
+>
+> (b) any other property that is on the relevant land.
+>
+> (3) The “relevant land” is the land in respect of which a request under section 60C(1)(d) is made.
+>
+> (4) The relevant chief officer of police may retain any property that has been seized under subsection (1) until the end of the period of three months beginning with the day of the seizure (“the relevant period”).
+>
+> (5) But the relevant chief officer of police ceases to be entitled to retain the property if before the end of the relevant period a custody officer gives written notice to P that P is not to be prosecuted for the offence under section 60C in relation to which the property was seized.
+>
+> (And see subsection (10)).
+>
+> (6) Subsection (7) applies where before the end of the relevant period proceedings for an offence under section 60C are commenced against P.
+>
+> (7) Where this subsection applies the relevant chief officer of police may retain the property seized until the conclusion of proceedings relating to the offence (including any appeal) (but see subsection (10)).
+>
+> (8) Where a chief officer of police ceases to be entitled to retain property under this section the chief officer must, subject to any order for forfeiture under section 60E, return it to the person whom the chief officer believes to be its owner.
+>
+> (9) If a chief officer of police cannot after reasonable inquiry identify a person for the purposes of subsection (8)—
+>
+> (a) the chief officer must apply to a magistrates’ court for directions, and
+>
+> (b) the court must make an order about the treatment of the property.
+>
+> (10) If at any time a person other than P satisfies a chief officer of police that property that is retained by the chief officer under this section—
+>
+> (a) belongs to the person at that time, and
+>
+> (b) belonged to them at the time of the suspected offence under section 60C,
+>
+> the chief officer must return the property to the person.
+>
+> (11) Subsection (10) does not apply in relation to a vehicle belonging to a person other than P if the chief officer of police reasonably believes that the vehicle was, with the consent of the other person, in P’s possession or under P’s control at the time of the suspected offence under section 60C.
+>
+> (12) For the purposes of subsection (6), proceedings are commenced when—
+>
+> (a) a written charge is issued under section 29(1) of the Criminal Justice Act 2003,
+>
+> (b) a person is charged under Part 4 of the Police and Criminal Evidence Act 1984, or
+>
+> (c) an information is laid under section 1 of the Magistrates’ Courts Act 1980.
+>
+> (13) For the purposes of this section—
+>
+> (a) the relevant chief officer of police is the chief officer of the police force for the area in which the property was seized, and
+>
+> (b) “vehicle” has the same meaning as in section 60C.
+>
+> **60E Offence under section 60C: forfeiture**
+>
+> (1) A court that convicts a person of an offence under section 60C may order any property to which subsection (2) applies to be forfeited and dealt with in a manner specified in the order.
+>
+> (2) This subsection applies to any property that—
+>
+> (a) was seized under section 60D(1), and
+>
+> (b) is retained by a chief officer of police under that section.
+>
+> (3) Before making an order for the forfeiture of property the court must—
+>
+> (a) permit anyone who claims to be its owner or to have an interest in it to make representations, and
+>
+> (b) consider its value and the likely consequences of forfeiture.
+
+(2) In the heading to Part 5 of the Criminal Justice and Public Order Act 1994, after “Order:” insert “Unauthorised encampments and ”.
+
+### 84 Amendments to existing powers
+
+(1) The Criminal Justice and Public Order Act 1994 is amended as follows.
+
+(2) Section 61 (power to remove trespassers on land) is amended in accordance with subsections (3) to (7).
+
+(3) In subsection (1)—
+
+(a) in paragraph (a), after “persons” insert
+
+> —
+>
+> (i) in the case of persons trespassing on land in England and Wales, has caused damage, disruption or distress (see subsection (10));
+>
+> (ii) in the case of persons trespassing on land in Scotland,
+
+, and
+
+(b) at the beginning of paragraph (b) insert “in either case,”.
+
+(4) In subsection (4)(b) for “period of three months beginning with the day on which the direction was given” substitute “prohibited period”.
+
+(5) After subsection (4) insert—
+
+> (4ZA) The prohibited period is—
+>
+> (a) in the case of a person trespassing on land in England and Wales, the period of twelve months beginning with the day on which the direction was given;
+>
+> (b) in the case of a person trespassing on land in Scotland, the period of three months beginning with the day on which the direction was given.
+
+(6) In subsection (9), in the definition of “land”, in paragraph (b)—
+
+(a) in the words before sub-paragraph (i), after “land” insert “in Scotland”, and
+
+(b) omit sub-paragraph (i) (together with the final “or”).
+
+(7) After subsection (9) insert—
+
+> (10) For the purposes of subsection (1)(a)(i)—
+>
+> - “damage” includes—
+>
+>   - damage to the land;
+>   - damage to any property on the land not belonging to the persons trespassing;
+>   - damage to the environment (including excessive noise, smells, litter or deposits of waste);
+>
+> - “disruption” includes an interference with—
+>
+>   - a person’s ability to access any services or facilities located on the land or otherwise make lawful use of the land, or
+>   - a supply of water, energy or fuel;
+>
+> - “distress” means distress caused by—
+>
+>   - the use of threatening, abusive or insulting words or behaviour, or disorderly behaviour, or
+>   - the display of any writing, sign, or other visible representation that is threatening, abusive or insulting.
+
+(8) In section 62 (powers to seize property related to offence under section 61)—
+
+(a) in subsection (1)(b) for “period of three months beginning with the day on which the direction was given” substitute “prohibited period”, and
+
+(b) after subsection (1) insert—
+
+> (1A) The prohibited period is—
+>
+> (a) in the case of a person trespassing on land in England and Wales, the period of twelve months beginning with the day on which the direction was given;
+>
+> (a) in the case of a person trespassing on land in Scotland, the period of three months beginning with the day on which the direction was given.
+
+(9) In section 62B(2) (failure to comply with direction under section 62A: offences) for “3” substitute “twelve”.
+
+(10) In section 62C(2) (failure to comply with direction under section 62A: seizure) for “3” substitute “twelve”.
+
+(11) In section 68(5) (offence of aggravated trespass), for paragraph (a) substitute—
+
+> (a) a highway unless it is a footpath, bridleway or byway open to all traffic within the meaning of Part 3 of the Wildlife and Countryside Act 1981, is a restricted byway within the meaning of Part 2 of the Countryside and Rights of Way Act 2000 or is a cycle track under the Highways Act 1980 or the Cycle Tracks Act 1984;
+>
+> (aa) a road within the meaning of the Roads (Scotland) Act 1984 unless it falls within the definitions in section 151(2)(a)(ii) or (b) (footpaths and cycle tracks) of that Act or is a bridleway within the meaning of section 47 of the Countryside (Scotland) Act 1967; or
+
+.
+
+(12) The amendments made by subsections (4), (5), (8), (9) and (10) do not apply in relation to a direction given under section 61 or 62A of the Criminal Justice and Public Order Act 1994 before the coming into force of this section.
+
+### 85 Guidance on exercise of police powers in respect of trespassers on land etc
+
+After section 62E of the Criminal Justice and Public Order Act 1994 insert—
+
+> **62F Guidance**
+>
+> (1) The Secretary of State must issue guidance relating to the exercise of—
+>
+> (a) the functions of police officers in England and Wales, and
+>
+> (b) the functions of constables in England and Wales,
+>
+> under the provisions mentioned in subsection (2).
+>
+> (2) Those provisions are—
+>
+> (a) sections 60C to 62E, and
+>
+> (b) regulations under section 67 relating to vehicles seized under section 62(1) or section 62C(3).
+>
+> (3) Police officers in England and Wales and constables in England and Wales must have regard to the guidance when exercising any of those functions conferred on them.
+>
+> (4) The Secretary of State may from time to time revise the guidance.
+>
+> (5) The Secretary of State must arrange for the guidance and any revised guidance issued under this section to be published in such manner as the Secretary of State considers appropriate.
+>
+> (6) The Secretary of State must lay before Parliament a copy of any guidance or revised guidance published under subsection (5).
+
+## PART 5 — Road traffic
+
+### Road traffic offences
+
+#### 86 Causing death by dangerous driving or careless driving when under the influence of drink or drugs: increased penalties
+
+(1) Part 1 of Schedule 2 to the Road Traffic Offenders Act 1988 (prosecution and punishment of offences: offences under the Traffic Acts) is amended as follows.
+
+(2) In the entry relating to section 1 of the Road Traffic Act 1988 (causing death by dangerous driving), in column (4) (punishment), for “14 years” substitute “Imprisonment for life”.
+
+(3) In the entry relating to section 3A of the Road Traffic Act 1988 (causing death by careless driving when under influence of drink or drugs), in column (4) (punishment), for “14 years” substitute “Imprisonment for life”.
+
+(4) Section 34 of the Road Traffic Offenders Act 1988 (disqualification for certain offences) is amended as follows.
+
+(5) In subsection (3), in the words after paragraph (d)—
+
+(a) after “the offence” insert “(“the new offence”)”;
+
+(b) for “three years” substitute “the period specified in subsection (3A)”.
+
+(6) After subsection (3) insert—
+
+> (3A) The period is—
+>
+> (a) six years, where—
+>
+> (i) an offence of which the person was convicted within the ten years mentioned in subsection (3) falls within paragraph (aa) of that subsection, and
+>
+> (ii) the new offence also falls within that paragraph;
+>
+> (b) in any other case (but subject to subsection (4ZA)), three years.
+
+(7) In subsection (4)—
+
+(a) in the words before paragraph (a), after “(3) above” insert “and subsection (4ZA) below”;
+
+(b) in paragraph (a)—
+
+(i) omit sub-paragraph (ii) (and the “or” after it);
+
+(ii) in sub-paragraph (iia), for “that Act” substitute “the Road Traffic Act 1988”;
+
+(iii) omit sub-paragraph (iii) (and the “or” before it, but not the “and” after it).
+
+(8) After subsection (4) insert—
+
+> (4ZA) Subsection (1) shall apply as if the reference to twelve months were a reference to five years in relation to a person convicted of—
+>
+> (a) an offence under section 1 of the Road Traffic Act 1988 (causing death by dangerous driving), or
+>
+> (b) an offence under section 3A of that Act (causing death by careless driving when under the influence of drink or drugs),
+>
+> but this is subject to subsection (3) in cases within paragraph (a) of subsection (3A).
+
+(9) A provision of this section does not apply in relation to offences committed before the provision comes into force.
+
+#### 87 Causing serious injury by careless, or inconsiderate, driving
+
+(1) In the Road Traffic Act 1988, after section 2B (causing death by careless, or inconsiderate, driving) insert—
+
+> **2C Causing serious injury by careless, or inconsiderate, driving**
+>
+> (1) A person who causes serious injury to another person by driving a mechanically propelled vehicle on a road or other public place without due care and attention, or without reasonable consideration for other persons using the road or place, is guilty of an offence.
+>
+> (2) In this section “serious injury” means—
+>
+> (a) in England and Wales, physical harm which amounts to grievous bodily harm for the purposes of the Offences against the Person Act 1861, and
+>
+> (b) in Scotland, severe physical injury.
+
+(2) In section 3ZA of that Act (meaning of careless, or inconsiderate, driving), in subsection (1), after “sections 2B” insert “, 2C”.
+
+(3) In Part 1 of Schedule 2 to the Road Traffic Offenders Act 1988 (prosecution and punishment of offences: offences under the Traffic Acts), after the entry relating to section 2B of the Road Traffic Act 1988 insert—
+
+> <table>
+> <tbody>
+> <tr><td rowspan="3">RTA section 2C</td><td rowspan="3">Causing serious injury by careless, or inconsiderate, driving</td><td>(a) Summarily</td><td>(a) On conviction in England and Wales: 12 months or a fine or both</td><td rowspan="3">Obligatory</td><td rowspan="3">Obligatory</td><td rowspan="3">3-11</td></tr>
+> <tr><td>On conviction in Scotland: 12 months or the statutory maximum or both</td></tr>
+> <tr><td>(b) On indictment</td><td>(b) 2 years or a fine or both</td></tr>
+> </tbody>
+> </table>
+
+(4) In the entries in Part 1 of Schedule 2 to the Road Traffic Offenders Act 1988 relating to an offence under section 2C of the Road Traffic Act 1988 (causing serious injury by careless, or inconsiderate, driving), in relation to an offence committed before paragraph 24(2) of Schedule 22 to the Sentencing Act 2020 comes into force, the reference in column (4) (punishment) to 12 months on summary conviction in England and Wales is to be read as a reference to 6 months.
+
+#### 88 Road traffic offences: minor and consequential amendments
+
+Schedule 8 contains amendments relating to sections 86 and 87.
+
+### Courses offered as an alternative to prosecution
+
+#### 89 Courses offered as alternative to prosecution: fees etc
+
+(1) After section 90F of the Road Traffic Offenders Act 1988 insert—
+
+> **PART 3B — Courses offered as alternative to prosecution**
+>
+> **90G Power to charge fees: England and Wales**
+>
+> (1) A policing body may charge a fee for enrolment on an approved course offered as an alternative to prosecution in England and Wales for a specified fixed penalty offence.
+>
+> (2) A fee may be set at a level that exceeds the cost of an approved course and related administrative expenses, but any excess must be used for the purpose of promoting road safety.
+>
+> (3) The Secretary of State may by regulations make further provision about—
+>
+> (a) how fees, or components of fees, are to be calculated;
+>
+> (b) the level of fees or components of fees;
+>
+> (c) the use of fee income.
+>
+> (4) The regulations may include provision as to the amount, or maximum amount, of a fee or component of a fee.
+>
+> (5) In this section—
+>
+> - “approved course” means a course approved (whether before or after this section comes into force) by a body specified in regulations under subsection (6);
+>
+> - “fixed penalty offence” means an offence that is a fixed penalty offence for the purposes of Part 3 (see section 51);
+>
+> - “policing body” means—
+>
+>   - a local policing body, or
+>   - the British Transport Police Authority;
+>
+> - “promoting road safety” includes the prevention, detection or enforcement of offences relating to vehicles;
+>
+> - “prosecution”, in relation to an offence, includes any alternative way of being dealt with for the offence (other than attending an approved course);
+>
+> - “specified fixed penalty offence” means an offence specified under subsection (6).
+>
+> (6) The Secretary of State may by regulations—
+>
+> (a) specify fixed penalty offences for the purposes of this section;
+>
+> (b) specify a body to approve courses for the purposes of this section.
+>
+> (7) Nothing in this section limits any power to charge fees apart from this section.
+>
+> **90H Power to prevent courses being offered for repeat offences: England and Wales**
+>
+> (1) The Secretary of State may by regulations prohibit a chief officer from offering an approved course to a person as an alternative to prosecution in England and Wales for a specified fixed penalty offence where—
+>
+> (a) there is a course fee, and
+>
+> (b) the person has, within a period specified in the regulations, satisfactorily completed a similar approved course in respect of an earlier specified fixed penalty offence.
+>
+> (2) The regulations must include provision for the purpose of identifying what counts as a “similar” course; and that provision may, in particular, confer power on a person to determine what courses count as similar.
+>
+> (3) In this section “chief officer” means—
+>
+> (a) a chief officer of police of a police force in England and Wales, or
+>
+> (b) the Chief Constable of the British Transport Police Force.
+>
+> (4) In this section the following terms have the meaning given by section 90G(5)—
+>
+> - “approved course”;
+> - “prosecution”;
+> - “specified fixed penalty offence”.
+>
+> **90I Further provision about regulations under this Part**
+>
+> (1) A power to make regulations under this Part is exercisable by statutory instrument.
+>
+> (2) A statutory instrument containing regulations made by the Secretary of State under this Part is subject to annulment in pursuance of a resolution of either House of Parliament.
+>
+> (3) Regulations under this Part may include—
+>
+> (a) incidental or supplementary provision;
+>
+> (b) different provision for different purposes.
+
+(2) After Article 91F of the Road Traffic Offenders (Northern Ireland) Order 1996 (S.I. 1996/1320 (N.I. 10)) insert—
+
+> **PART 4B — Courses offered as alternative to prosecution**
+>
+> **91G Power to charge fees**
+>
+> (1) The Chief Constable may charge a fee for enrolment on an approved course offered as an alternative to prosecution for a specified fixed penalty offence.
+>
+> (2) A fee may be set at a level that exceeds the cost of an approved course and related administrative expenses, but any excess must be used for the purpose of promoting road safety.
+>
+> (3) The power in paragraph (1) may be exercised only with the approval in writing of the Policing Board.
+>
+> Such approval may be given—
+>
+> (a) generally or specifically, and
+>
+> (b) subject to conditions.
+>
+> (4) The Department of Justice may by regulations make further provision about—
+>
+> (a) how fees, or components of fees, are to be calculated;
+>
+> (b) the level of fees or components of fees;
+>
+> (c) the use of fee income.
+>
+> (5) The regulations may include provision as to the amount, or maximum amount, of a fee or component of a fee.
+>
+> (6) In this Article—
+>
+> - “approved course” means a course approved (whether before or after this Article comes into operation) by a body specified in regulations under paragraph (7);
+> - “fixed penalty offence” means an offence that is a fixed penalty offence for the purposes of Part 4 (see Article 57);
+> - “promoting road safety” includes the prevention, detection or enforcement of offences relating to vehicles;
+> - “prosecution”, in relation to an offence, includes any alternative way of being dealt with for the offence (other than attending an approved course);
+> - “specified fixed penalty offence” means an offence specified under paragraph (7).
+>
+> (7) The Department of Justice may by regulations—
+>
+> (a) specify fixed penalty offences for the purposes of this Article;
+>
+> (b) specify a body to approve courses for the purposes of this Article.
+>
+> (8) Nothing in this Article limits any power to charge fees apart from this Article.
+>
+> **91H Power to prevent courses being offered for repeat offences**
+>
+> (1) The Department of Justice may by regulations prohibit the Chief Constable from offering an approved course to a person as an alternative to prosecution for a specified fixed penalty offence where—
+>
+> (a) there is a course fee, and
+>
+> (b) the person has, within a period specified in the regulations, satisfactorily completed a similar approved course in respect of an earlier specified fixed penalty offence.
+>
+> (2) The regulations must include provision for the purpose of identifying what counts as a “similar” course; and that provision may, in particular, confer power on a person to determine what courses count as similar.
+>
+> (3) In this Article the following terms have the meaning given by Article 91G(6)—
+>
+> - “approved course”;
+> - “prosecution”;
+> - “specified fixed penalty offence”.
+>
+> **91I Further provision about regulations under this Part**
+>
+> (1) Regulations under this Part are subject to negative resolution.
+>
+> (2) Regulations under Article 91G(4) may be made only with the consent of the Department of Finance.
+>
+> (3) Regulations under this Part may include such incidental or supplementary provision as appears to the Department of Justice to be necessary or expedient.
+
+(3) The Secretary of State may by regulations amend Part 3B of the Road Traffic Offenders Act 1988 for the purpose of making provision corresponding or similar to section 90G or 90H of that Act in relation to courses offered as an alternative to prosecution in Scotland for a fixed penalty offence.
+
+(4) In subsection (3) “fixed penalty offence” means an offence that is a fixed penalty offence for the purposes of Part 3 of the Road Traffic Offenders Act 1988 (see section 51 of that Act).
+
+(5) The Secretary of State must consult the Lord Advocate before making regulations under subsection (3).
+
+(6) The power to make regulations under subsection (3) is exercisable by statutory instrument.
+
+(7) A statutory instrument containing regulations under subsection (3) may not be made unless a draft of the instrument has been laid before and approved by a resolution of each House of Parliament.
+
+### Removal etc of abandoned vehicles
+
+#### 90 Charges for removal, storage and disposal of vehicles
+
+(1) Section 102 of the Road Traffic Regulation Act 1984 (charges for removal, storage and disposal of vehicles), as it forms part of the law of England and Wales, is amended as follows.
+
+(2) In subsection (2), for the words before paragraph (a) substitute “In any such case (but subject in the case of a local authority to subsection (2A))—”.
+
+(3) For subsection (2A) substitute—
+
+> (2A) In the case of a vehicle removed, on any ground mentioned in subsection (1), from an area that is a civil enforcement area for parking contraventions—
+>
+> (a) subsection (2) does not apply to the recovery of charges by a local authority, but
+>
+> (b) the enforcement authority is entitled to recover from any person responsible such charges in respect of the removal, storage and disposal of the vehicle as they may require in accordance with Schedule 9 to the Traffic Management Act 2004.
+
+### Surrender of driving licences
+
+#### 91 Production of licence to the court
+
+(1) The Road Traffic Offenders Act 1988 is amended as follows.
+
+(2) In section 7 (trial: duty of accused to provide licence to the court)—
+
+(a) for subsection (1) substitute—
+
+> (1) Where—
+>
+> (a) a person who is the holder of a licence is prosecuted for an offence involving obligatory or discretionary disqualification,
+>
+> (b) there is a hearing, and
+>
+> (c) the person attends the hearing,
+>
+> the person must bring the licence to the hearing.
+
+;
+
+(b) omit subsections (1A), (1B), (1C) and (2).
+
+(3) In section 27 (sentence: production of licence to the court)—
+
+(a) for subsection (1) substitute—
+
+> (1) Where—
+>
+> (a) a person who is the holder of a licence is convicted of an offence involving obligatory or discretionary disqualification, and
+>
+> (b) a court proposes to make, or makes, an order disqualifying the person,
+>
+> the court may require the licence to be produced to it.
+
+;
+
+(b) in subsection (3)(b), at the beginning insert “unless the licence is already treated as being revoked under section 37(1),”.
+
+#### 92 Surrender of licence to Secretary of State where disqualified
+
+(1) After section 37 of the Road Traffic Offenders Act 1988 insert—
+
+> **37A Surrender of licence to Secretary of State where disqualified**
+>
+> (1) This section applies where—
+>
+> (a) a person who is the holder of a licence is disqualified by an order of a court, and
+>
+> (b) the Secretary of State is not already in receipt of the licence.
+>
+> (2) The Secretary of State may serve on the person a notice in writing requiring the person to surrender the licence to the Secretary of State at such address as the Secretary of State may determine, before the end of the period of 28 days beginning with the date on which the notice is served.
+>
+> (3) A notice under subsection (2) may be served on a person—
+>
+> (a) by delivering it to the person,
+>
+> (b) by leaving it at the person’s proper address, or
+>
+> (c) by sending it to the person by post.
+>
+> (4) A person who, without reasonable excuse, fails to comply with a notice under subsection (2) is guilty of an offence.
+>
+> (5) For the purposes of—
+>
+> (a) subsection (3), and
+>
+> (b) section 7 of the Interpretation Act 1978 in its application to subsection (3),
+>
+> a person’s “proper address” is the person’s latest address as known to the Secretary of State.
+
+(2) In Part 1 of Schedule 2 to the Road Traffic Offenders Act 1988 (prosecution and punishment of offences), before the entry relating to section 62 of that Act, insert—
+
+> |  |  |  |  |
+> |---|---|---|---|
+> | Section 37A (4) of this Act | Failure to surrender licence to Secretary of State | Summarily | Level 3 on the standard scale |
+
+#### 93 Removal of requirement to surrender licence where fixed penalty notice
+
+(1) The Road Traffic Offenders Act 1988 is amended as follows.
+
+(2) In section 52 (fixed penalty notices), after subsection (2) insert—
+
+> (2A) A fixed penalty notice must give details of the identification information (as defined in section 69(3D)) that may be required under section 69 where the notice relates to an offence involving obligatory endorsement.
+
+(3) In section 54 (notices on-the-spot etc)—
+
+(a) in subsection (3)—
+
+(i) omit “, and” at the end of paragraph (a);
+
+(ii) omit paragraph (b);
+
+(b) omit subsections (4), (5), (5A), (5B), (6), (7) and (9).
+
+(4) In section 69 (payment of penalties)—
+
+(a) in subsection (2), after “method” insert “and subject to subsection (2A)”;
+
+(b) after that subsection, insert—
+
+> (2A) Where a person has been given a fixed penalty notice under section 54 in respect of an offence involving obligatory endorsement, payment of the penalty may be made as mentioned in subsection (2) only if the letter also contains identification information.
+
+;
+
+(c) after subsection (3), insert—
+
+> (3A) Subsection (3B) applies where—
+>
+> (a) a person has been given a fixed penalty notice under section 54 in respect of an offence involving obligatory endorsement, and
+>
+> (b) a method of payment other than that mentioned in subsection (2) is used.
+>
+> (3B) The penalty is treated as having been paid to the fixed penalty clerk or the Secretary of State in accordance with this Part only if the person—
+>
+> (a) fulfils the identification requirements, and
+>
+> (b) makes payment of the penalty to the clerk or the Secretary of State.
+>
+> (3C) A person fulfils the identification requirements if—
+>
+> (a) the person provides the clerk or the Secretary of State with identification information, or
+>
+> (b) the clerk or the Secretary of State is otherwise satisfied of the person’s identity.
+>
+> (3D) In this section “identification information” means—
+>
+> (a) the person’s name and date of birth, and
+>
+> (b) if the person is the holder of a licence, the licence number.
+
+#### 94 Removal of requirement to deliver up licence where conditional offer
+
+(1) The Road Traffic Offenders Act 1988 is amended as follows.
+
+(2) In section 75 (issue of conditional offer)—
+
+(a) in subsection (7), after paragraph (b) (but before the “and” immediately after it) insert—
+
+> (ba) give details of the identification information that may be required where the conditional offer relates to an offence involving obligatory endorsement,
+
+;
+
+(b) in subsection (8A)(a), for sub-paragraph (ii) substitute—
+
+> (ii) where the conditional offer relates to an offence involving obligatory endorsement, fulfils the identification requirements,
+
+;
+
+(c) after subsection (8A) insert—
+
+> (8B) For the purposes of subsection (8A)(a)(ii), an alleged offender fulfils the identification requirements if—
+>
+> (a) the alleged offender provides the appropriate person with identification information, or
+>
+> (b) the appropriate person is otherwise satisfied of the alleged offender’s identity.
+>
+> (8C) In this section “identification information” means—
+>
+> (a) the alleged offender’s name and date of birth, and
+>
+> (b) if the alleged offender is the holder of a licence, the licence number.
+
+(3) In section 76 (effect of offer and payment of penalty)—
+
+(a) in subsection (2), for “makes payment of the fixed penalty in accordance with the conditional offer” substitute “has fulfilled the conditions specified in the conditional offer under section 75(8A)(a)”;
+
+(b) in subsection (3)(b), omit the words from “together” to “his licence”;
+
+(c) in subsection (4), for the words from “requirements” to “fulfilled” substitute “alleged offender has not fulfilled the conditions specified in the conditional offer under section 75(8A)(a)”.
+
+(4) In section 77A (endorsement of driving records where penalty paid)—
+
+(a) for subsection (1)(a) substitute—
+
+> (a) a conditional offer has been issued to a person (“the alleged offender”) under section 75(1), (2) or (3),
+
+;
+
+(b) in subsection (1)(b), for “76” substitute “76(2)”;
+
+(c) in subsection (1), in the words after paragraph (b), omit “together with any licence delivered under paragraph (a) above”;
+
+(d) in subsection (2), in the words before paragraph (a), omit “and return any licence delivered to him under this section to the alleged offender”;
+
+(e) for subsection (2)(b) substitute—
+
+> (b) in a case where—
+>
+> (i) a conditional offer is issued to a person (“the alleged offender”) under section 75(1A) or (3B), and
+>
+> (ii) proceedings against the alleged offender are excluded by section 76(2).
+
+#### 95 Surrender of licences and test certificates by new drivers
+
+Schedule 9 contains amendments to the Road Traffic (New Drivers) Act 1995 which make provision about the surrender of driving licences and test certificates in the case of new drivers.
+
+#### 96 Minor and consequential amendments
+
+Schedule 10 contains minor and consequential amendments.
+
+### Fixed penalty notices in Scotland
+
+#### 97 Power to issue fixed penalty notices on-the-spot in Scotland
+
+(1) In section 54(1) of the Road Traffic Offenders Act 1988 (notices on-the-spot etc.), omit “in England and Wales”.
+
+(2) In section 75(4) of that Act (issue of conditional offer: restrictions), after “notice” insert “in respect of the offence has been given under section 54 of this Act or”.
+
+(3) Paragraph 103(2) of Schedule 4 to the Road Traffic Act 1991 (amendment to section 54 of the Road Traffic Offenders Act 1988 which is superseded by provision made by this section) is omitted.
+
+## PART 6 — Cautions
+
+### Introductory (prospective)
+
+#### 98 Diversionary and community cautions (prospective)
+
+(1) This Part makes provision for cautions known as—
+
+(a) diversionary cautions, and
+
+(b) community cautions.
+
+(2) A diversionary caution may, in accordance with this Part, be given by an authorised person to a person aged 18 or over in respect of an offence.
+
+(3) A community caution may, in accordance with this Part, be given by an authorised person to a person aged 18 or over in respect of an offence other than an excluded offence.
+
+(4) Diversionary and community cautions must have one or more conditions attached to them.
+
+(5) Breach of a condition may, in accordance with this Part, result in—
+
+(a) prosecution for the offence, in the case of a diversionary caution, or
+
+(b) a financial penalty, in the case of a community caution.
+
+(6) In this Part “excluded offence” means—
+
+(a) an indictable-only offence;
+
+(b) an offence triable either way which is prescribed in regulations, or
+
+(c) a summary offence which is prescribed in regulations.
+
+(7) In this Part “authorised person”, in relation to a diversionary or community caution, means—
+
+(a) a constable,
+
+(b) an investigating officer, or
+
+(c) a person authorised by a prosecution authority for purposes relating to cautions of that kind.
+
+### Diversionary cautions (prospective)
+
+#### 99 Giving a diversionary caution (prospective)
+
+(1) An authorised person may give a diversionary caution to a person aged 18 or over (“the offender”) in respect of an offence if the following requirements are met.
+
+(2) The requirements are that—
+
+(a) an authorised person or a prosecution authority decides—
+
+(i) that there is sufficient evidence to charge the offender with the offence, and
+
+(ii) that a diversionary caution should be given to the offender in respect of the offence;
+
+(b) the offender admits having committed the offence;
+
+(c) the offender consents to being given the caution;
+
+(d) an authorised person—
+
+(i) explains the effect of the caution to the offender, and
+
+(ii) in particular, warns the offender that failure to comply with any of the conditions attached to the caution may result in prosecution for the offence;
+
+(e) the offender signs a document which contains—
+
+(i) details of the offence,
+
+(ii) the offender’s admission to having committed the offence,
+
+(iii) the offender’s consent to being given the caution, and
+
+(iv) the conditions attached to the caution.
+
+(3) But if the offence is an indictable-only offence, the authorised person may not give a diversionary caution to the offender except—
+
+(a) in exceptional circumstances relating to the person or the offence, and
+
+(b) with the consent of the Director of Public Prosecutions.
+
+(4) A diversionary caution may not be given in respect of an offence committed before the coming into force of this section.
+
+(5) The power to give a diversionary caution under subsection (1) is also subject to regulations under section 117 (restrictions on multiple use of cautions).
+
+#### 100 Deciding on the conditions (prospective)
+
+(1) The conditions attached to a diversionary caution are to be decided upon by—
+
+(a) an authorised person, or
+
+(b) in a case where a prosecution authority has taken the decision that the caution should be given, the prosecution authority.
+
+(2) The conditions which may be attached to a diversionary caution are those authorised by—
+
+(a) section 101 (rehabilitation and reparation conditions),
+
+(b) section 102 (financial penalty conditions), and
+
+(c) section 103 (conditions relating to certain foreign offenders).
+
+(3) When deciding what conditions to attach to a diversionary caution the authorised person or prosecution authority must—
+
+(a) make reasonable efforts, or ensure that reasonable efforts are or have been made, to obtain the views of any victim or victims of the offence, and
+
+(b) take those views into account.
+
+(4) The views referred to in subsection (3) include in particular views as to whether the offender should carry out any of the actions listed in the community remedy document.
+
+(5) Where it is the view of the victim or all the victims that the offender should carry out a particular action listed in the community remedy document, the authorised person or prosecution authority must attach that as a condition unless it seems to the authorised person or prosecution authority—
+
+(a) the action is not one that can be attached as a condition to a diversionary caution, or
+
+(b) it would be inappropriate to do so.
+
+#### 101 Rehabilitation and reparation conditions (prospective)
+
+(1) Conditions with one or both of the objects in subsection (2) may be attached to a diversionary caution.
+
+(2) The objects are—
+
+(a) facilitating the rehabilitation of the offender;
+
+(b) ensuring that the offender makes reparation for the offence.
+
+(3) The conditions which may be attached to a diversionary caution for the objects referred to in subsection (2) include—
+
+(a) restrictive conditions,
+
+(b) unpaid work conditions, and
+
+(c) attendance conditions.
+
+(4) A restrictive condition is a condition requiring the offender—
+
+(a) not to meet or communicate with specified individuals;
+
+(b) not to be in, or go to, specified addresses, places or areas in the United Kingdom;
+
+(c) not to carry out or participate in specified activities;
+
+(d) not to engage in specified conduct (which may include conduct constituting a criminal offence).
+
+(5) An unpaid work condition is a condition requiring the offender to carry out unpaid work of a specified description for a specified number of hours, which may not exceed 20.
+
+(6) An attendance condition is a condition requiring the offender to attend a specified place—
+
+(a) for a specified purpose, and
+
+(b) for a specified number of hours, which may not exceed 20 where the condition only has the object referred to in subsection (2)(b).
+
+(7) Where an attendance condition requires the offender to attend somewhere for the purpose of participating in any education or training, or receiving any other service, the attendance condition may also require the offender to pay for the reasonable cost of the provision of the education, training or service to the offender.
+
+(8) Regulations may amend subsection (5) or (6)(b) (or both) so as to substitute a different number of hours.
+
+(9) A condition authorised by this section may—
+
+(a) contain further details as to how it must be complied with (including the times at or between which something must or must not be done);
+
+(b) provide for those details to be supplied, after the giving of the caution, by a specified person or a person of a specified description.
+
+(10) A condition authorised by this section may not require a person to remain at their own or anyone else’s residence for any period of time.
+
+(11) In this section “specified” means specified in the caution.
+
+#### 102 Financial penalty conditions (prospective)
+
+(1) A condition requiring the offender to pay a financial penalty may be attached to a diversionary caution with the object of punishing the offender.
+
+(2) The condition must specify—
+
+(a) the amount of the financial penalty,
+
+(b) the person to whom the financial penalty must be paid,
+
+(c) how it must or may be paid, and
+
+(d) the date on or before which it must be paid.
+
+(3) The amount specified under subsection (2)(a) must not exceed an amount prescribed in regulations.
+
+(4) Where the person specified under subsection (2)(b) is not the designated officer for a magistrates’ court, once the penalty is paid to that person they must give it to such an officer.
+
+(5) The date specified under subsection (2)(d) must be the last day of the period of 28 days beginning with the day on which the caution is given.
+
+#### 103 Foreign offenders’ conditions (prospective)
+
+(1) Where a diversionary caution is given to a relevant foreign offender, a condition with one or both of the objects in subsection (2) may be attached to it.
+
+(2) The objects are—
+
+(a) bringing about the departure of the relevant foreign offender from the United Kingdom;
+
+(b) ensuring that the relevant foreign offender does not return to the United Kingdom for a period of time.
+
+(3) If a diversionary caution has a condition with the object referred to in subsection (2)(b), the expiry of the period does not of itself give rise to any right on the part of the offender to return to the United Kingdom.
+
+(4) In this section “relevant foreign offender” means—
+
+[[^F14](za) an offender who has limited leave to enter or remain in the United Kingdom (within the meaning of the Immigration Act 1971),]
+
+(a) an offender directions for whose removal from the United Kingdom have been, or may be, given under Schedule 2 to the Immigration Act 1971 or section 10 of the Immigration and Asylum Act 1999, or
+
+(b) an offender against whom a deportation order under section 5 of the Immigration Act 1971 is in force.
+
+#### 104 Variation of conditions (prospective)
+
+An authorised person or prosecution authority may, with the consent of the offender, vary the conditions attached to a diversionary caution by—
+
+(a) varying or omitting any of the conditions;
+
+(b) adding a condition.
+
+#### 105 Effect of diversionary caution (prospective)
+
+(1) Where a diversionary caution is given, criminal proceedings may be instituted against the offender for the offence in respect of which the caution was given if, but only if, the offender fails without reasonable excuse to comply with any of the conditions attached to the caution.
+
+(2) The document mentioned in section 99(2)(e) is admissible in such proceedings.
+
+(3) Where such proceedings are instituted, the diversionary caution ceases to have effect.
+
+#### 106 Arrest for failure to comply (prospective)
+
+(1) If a constable has reasonable grounds for believing that the offender has failed without reasonable excuse to comply with any of the conditions attached to a diversionary caution, the constable may arrest the offender without warrant.
+
+(2) A person arrested under this section must be—
+
+(a) charged with the offence in question, or
+
+(b) released without charge.
+
+(3) A person released without charge under subsection (2)(b) must be—
+
+(a) released on bail if—
+
+(i) the release is to enable a decision to be made as to whether the offender should be charged with the offence, and
+
+(ii) the pre-conditions for bail are satisfied, or
+
+(b) in any other case, released without bail (with or without any variation in the conditions attached to the caution).
+
+(4) Subsection (2) also applies in the case of—
+
+(a) a person who, having been released on bail under subsection (3)(a), returns to a police station to answer bail or is otherwise in police detention at a police station;
+
+(b) a person who, having been released on bail under section 30A of the 1984 Act (bail elsewhere than at police station) as applied by section 107 below, attends at a police station to answer bail or is otherwise in police detention at a police station;
+
+(c) a person who is arrested under section 30D or 46A of the 1984 Act (power of arrest for failure to answer to police bail) as applied by section 107 below.
+
+(5) Where a person is released on bail under subsection (3)(a), the custody officer must inform the person that the release is to enable a decision to be made as to whether the person should be charged with the offence in question.
+
+(6) A person arrested under this section, or any other person in whose case subsection (2) applies, may be kept in police detention—
+
+(a) to enable the person to be dealt with in accordance with that subsection, or
+
+(b) where applicable, to enable the power under section 47(4A) of the 1984 Act (power of custody officer to appoint a different or additional time for answering to police bail), as applied by section 107 below, to be exercised.
+
+If the person is not in a fit state to be dealt with in that way, or to enable that power to be exercised, they may be kept in police detention until they are.
+
+(7) The power under subsection (6)(a) includes power to keep the person in police detention if it is necessary to do so for the purpose of investigating whether the person has failed, without reasonable excuse, to comply with any of the conditions attached to the diversionary caution.
+
+(8) Subsections (2) and (3) must be complied with as soon as practicable after the person arrested arrives at the police station or, in the case of a person arrested at the police station, as soon as practicable after the arrest.
+
+(9) Subsection (2) does not require a person who—
+
+(a) falls within subsection (4)(a) or (b), and
+
+(b) is in police detention in relation to a matter other than the diversionary caution,
+
+to be released if the person is liable to be kept in detention in relation to that other matter.
+
+(10) In subsection (3)(a)(ii), the reference to the pre-conditions for bail is to be read in accordance with section 50A of the 1984 Act.
+
+#### 107 Application of Police and Criminal Evidence Act 1984 (prospective)
+
+(1) In the case of a person arrested under section 106, the provisions of the 1984 Act specified in subsection (2) apply, with the modifications specified in subsection (3) and with such further modifications as are necessary, as they apply in the case of a person arrested for an offence.
+
+(2) The provisions are—
+
+(a) section 30 (arrest elsewhere than at police station);
+
+(b) sections 30A to 30D (bail elsewhere than at police station);
+
+(c) section 31 (arrest for further offence);
+
+(d) section 34(1) to (5E) (limitations on police detention);
+
+(e) section 36 (custody officers at police stations);
+
+(f) section 37(4) to (6C) (record of grounds for detention);
+
+(g) section 38 (duties of custody officer after charge);
+
+(h) section 39 (responsibilities in relation to persons detained);
+
+(i) section 55A (x-rays and ultrasound scans).
+
+(3) The modifications are—
+
+(a) in section 30CA, omit subsections (4A) to (4D);
+
+(b) in section 30CA, in subsection (5), in paragraph (a) of the definition of “relevant officer”, for the reference to being involved in the investigation of the relevant offence substitute a reference to being involved—
+
+(i) in the investigation of the offence in respect of which the person was given the diversionary caution, or
+
+(ii) in investigating whether the person has failed, without reasonable excuse, to comply with any of the conditions attached to the diversionary caution;
+
+(c) in section 36(5) and (7), for the references to being involved in the investigation of an offence for which the person is in police detention substitute references to being involved—
+
+(i) in the investigation of the offence in respect of which the person was given the diversionary caution, or
+
+(ii) in investigating whether the person has failed, without reasonable excuse, to comply with any of the conditions attached to the diversionary caution;
+
+(d) in section 38(1)(a)(iii) and (iv), for “arrested for” substitute “charged with”;
+
+(e) in section 39(2) and (3), for the references to an offence substitute references to a failure to comply with conditions attached to the diversionary caution.
+
+(4) Section 40 of the 1984 Act (review of police detention) applies to a person in police detention by virtue of section 106 above as it applies to a person in police detention in connection with the investigation of an offence, but with the following modifications—
+
+(a) omit subsections (8) and (8A);
+
+(b) in subsection (9), for the reference to section 37(9) or 37D(5) substitute a reference to the second sentence of section 106(6) above.
+
+(5) The following provisions of the 1984 Act apply to a person released on bail under section 106(3)(a) above as they apply to a person released on bail under section 37 of that Act—
+
+(a) section 46A (power of arrest for failure to answer to police bail);
+
+(b) section 47 (bail after arrest), except subsections (4D) and (4E).
+
+(6) Section 54 of the 1984 Act (searches of detained persons) applies in the case of a person who falls within section 106(4) above and is detained in a police station under that section as it applies in the case of a person who falls within section 34(7) of that Act and is detained at a police station under section 37.
+
+(7) Section 54A of the 1984 Act (searches and examination to ascertain identity) applies with the following modifications in the case of a person who is detained in a police station under section 106 above—
+
+(a) in subsections (1)(a) and (12), after “as a person involved in the commission of an offence” insert “or as having failed to comply with any of the conditions attached to the person’s diversionary caution”;
+
+(b) in subsection (9)(a), after “the investigation of an offence” insert “, the investigation of whether the person in question has failed to comply with any of the conditions attached to the person’s diversionary caution”.
+
+### Community cautions (prospective)
+
+#### 108 Giving a community caution (prospective)
+
+(1) An authorised person may give a community caution to a person aged 18 or over (“the offender”) in respect of an offence, other than an excluded offence, if the following requirements are met.
+
+(2) The requirements are that—
+
+(a) an authorised person or a prosecution authority decides that—
+
+(i) there is sufficient evidence to charge the offender with the offence, and
+
+(ii) a community caution should be given to the offender in respect of the offence;
+
+(b) the offender admits to having committed the offence;
+
+(c) the offender consents to being given the caution;
+
+(d) an authorised person—
+
+(i) explains the effect of the caution to the offender, and
+
+(ii) in particular, warns the offender of the effect of failure to comply with any of the conditions attached to the caution;
+
+(e) the offender signs a document which contains—
+
+(i) details of the offence,
+
+(ii) the offender’s admission to having committed the offence,
+
+(iii) the offender’s consent to being given the caution, and
+
+(iv) the conditions attached to the caution.
+
+(3) A community caution may not be given in respect of an offence committed before the coming into force of this section.
+
+(4) The power to give a community caution under subsection (1) is also subject to regulations under section 117 (restrictions on multiple use of cautions).
+
+#### 109 Deciding on the conditions (prospective)
+
+(1) The conditions attached to a community caution are to be decided upon by—
+
+(a) an authorised person, or
+
+(b) in a case where a prosecution authority has taken the decision that the caution should be given, the prosecution authority.
+
+(2) The conditions which may be attached to a community caution are those authorised by—
+
+(a) section 110 (rehabilitation and reparation conditions), and
+
+(b) section 111 (financial penalty conditions).
+
+(3) When deciding what conditions to attach to a community caution the authorised person or prosecution authority must—
+
+(a) make reasonable efforts, or ensure that reasonable efforts are or have been made, to obtain the views of any victim or victims of the offence, and
+
+(b) take those views into account.
+
+(4) The views referred to in subsection (3) include in particular views as to whether the offender should carry out any of the actions listed in the community remedy document.
+
+(5) Where it is the view of the victim or all the victims that the offender should carry out a particular action listed in the community remedy document, the authorised person or prosecution authority must attach that as a condition unless it seems to the authorised person or prosecution authority—
+
+(a) the action is not one that can be attached as a condition to a community caution, or
+
+(b) it would be inappropriate to do so.
+
+#### 110 Rehabilitation and reparation conditions (prospective)
+
+(1) Conditions with one or both of the objects in subsection (2) may be attached to a community caution.
+
+(2) The objects are—
+
+(a) facilitating the rehabilitation of the offender;
+
+(b) ensuring that the offender makes reparation for the offence.
+
+(3) The conditions which may be attached to a community caution for the objects referred to in subsection (2) include—
+
+(a) restrictive conditions,
+
+(b) unpaid work conditions, and
+
+(c) attendance conditions.
+
+(4) A restrictive condition is a condition requiring the offender—
+
+(a) not to meet or communicate with specified individuals;
+
+(b) not to be in or go to specified addresses, places or areas in the United Kingdom;
+
+(c) not to carry out or participate in specified activities;
+
+(d) not to engage in specified conduct (which may include conduct constituting a criminal offence).
+
+(5) An unpaid work condition is a condition requiring the offender to carry out unpaid work of a specified description for a specified number of hours, which may not exceed 10.
+
+(6) An attendance condition is a condition requiring the offender to attend a specified place—
+
+(a) for a specified purpose, and
+
+(b) for a specified number of hours, which may not exceed 10 where the condition only has the object referred to in subsection (2)(b).
+
+(7) Where an attendance condition requires the offender to attend somewhere for the purpose of participating in any education or training, or receiving any other service, the attendance condition may also require the offender to pay for the reasonable cost of the provision of the education, training or service to the offender.
+
+(8) Regulations may amend subsection (5) or (6)(b) (or both) so as to substitute a different number of hours.
+
+(9) A condition authorised by this section may—
+
+(a) contain further details as to how it must be complied with (including the times at or between which something must or must not be done);
+
+(b) provide for those details to be supplied, after the giving of the caution, by a specified person or a person of a specified description.
+
+(10) A condition authorised by this section may not require a person to remain at their own or anyone else’s residence for any period of time.
+
+(11) In this section “specified” means specified in the caution.
+
+#### 111 Financial penalty conditions (prospective)
+
+(1) A condition requiring the offender to pay a financial penalty may be attached to a community caution with the object of punishing the offender.
+
+(2) The condition must specify—
+
+(a) the amount of the financial penalty,
+
+(b) the person to whom the financial penalty must be paid,
+
+(c) how it must or may be paid,
+
+(d) the date on or before which the penalty must be paid, and
+
+(e) the consequences of non-payment.
+
+(3) The amount specified under subsection (2)(a) must not exceed an amount prescribed in regulations.
+
+(4) Where the person specified under subsection (2)(b) is not the designated officer for a magistrates’ court, once the penalty is paid to that person they must give it to such an officer.
+
+(5) The date specified under subsection (2)(d) must be the last day of the period of 28 days beginning with the day on which the caution is given.
+
+(6) If the financial penalty is not paid on or before the date specified under subsection (2)(d), the amount of the penalty required to be paid by the condition is increased by 50%.
+
+(7) Where subsection (6) applies, if the increased penalty is not paid within the period of 21 days beginning with the day after the date specified under subsection (2)(d), the amount of the increased penalty may be registered under section 112 for enforcement against the offender as a fine.
+
+#### 112 Enforcement of financial penalties: registration (prospective)
+
+(1) The chief officer of police may, in respect of any amount registrable under section 111(7), issue a certificate (“a registration certificate”)—
+
+(a) giving particulars of the financial penalty,
+
+(b) stating that the amount is registrable for enforcement against the offender as a fine, and
+
+(c) stating the name and last known address of the offender.
+
+(2) The chief officer of police issuing a registration certificate must cause it to be sent to the designated officer for the local justice area in which the offender appears to the chief officer to reside.
+
+(3) The designated officer for a local justice area in receipt of a registration certificate must—
+
+(a) register the amount for enforcement as a fine in that area by entering it in the register of a magistrates’ court acting for that area, or
+
+(b) if it appears to the designated officer that the offender does not reside in that area, cause the certificate to be sent to the person appearing to the officer to be the designated officer for the local justice area in which the offender resides.
+
+(4) A designated officer registering an amount under this section for enforcement as a fine must give the offender notice of the registration which—
+
+(a) specifies the amount registered, and
+
+(b) gives the information with respect to the financial penalty, and the authority for registration, that was included in the registration certificate.
+
+(5) If an amount is registered in a magistrates’ court as a result of this section, any enactment referring (in whatever terms) to a fine imposed, or other sum adjudged to be paid, on conviction by such a court applies as if the registered amount were a fine imposed by that court on the conviction of the offender on the date on which the amount was registered.
+
+#### 113 Enforcement of financial penalties: court proceedings (prospective)
+
+(1) This section applies where, in any proceedings for the enforcement of an amount registered under this section, the person against whom the proceedings are taken claims—
+
+(a) not to be the person to whom the community caution was given,
+
+(b) to have paid the amount that was required to be paid, or
+
+(c) to have a reasonable excuse for not paying.
+
+(2) The court may adjourn the proceedings, on one or more occasions, for the purpose of allowing the claim to be investigated, but must not adjourn for more than 28 days in total.
+
+(3) The court must accept a claim under subsection (1)(a) or (b) unless it is shown, on the balance of probabilities, that the claim is unfounded.
+
+(4) Where a court accepts a claim under subsection (1)(b), the condition of the caution by virtue of which the amount is required to be paid ceases to have effect.
+
+(5) In the case of a claim under subsection (1)(c), the court must accept the claim so far as relating to the facts claimed (leaving aside any question as to the reasonableness of the excuse), unless it is shown, on the balance of probabilities, that the claim so far as relating to those facts is unfounded.
+
+(6) Where a court accepts a claim under subsection (1)(c), the court may order that the condition of the caution by virtue of which the amount is required to be paid—
+
+(a) ceases to have effect, or
+
+(b) is varied so as to reduce the amount payable or to extend the time for payment (or both).
+
+#### 114 Variation of conditions (prospective)
+
+(1) An authorised person or prosecution authority may, with the consent of the offender, vary the conditions attached to a community caution by—
+
+(a) varying or omitting any of the conditions;
+
+(b) adding a condition.
+
+(2) See also section 115(2) (addition of financial penalty).
+
+#### 115 Effect of community caution (prospective)
+
+(1) Where a community caution is given, criminal proceedings may not be instituted against the offender for the offence in respect of which the caution was given.
+
+(2) If the offender fails without reasonable excuse to comply with any condition imposed under section 110, an authorised person or prosecution authority may—
+
+(a) rescind the condition, and
+
+(b) attach a condition imposing a financial penalty (or further such condition) under section 111.
+
+### General
+
+#### 116 Code of practice
+
+(1) The Secretary of State must prepare a code of practice in relation to diversionary and community cautions.
+
+(2) The code may, in particular, include provision as to—
+
+(a) the circumstances in which diversionary and community cautions may be given;
+
+(b) the procedure to be followed in connection with the giving of diversionary and community cautions;
+
+(c) the conditions which may be attached to diversionary and community cautions and the time for which they may have effect;
+
+(d) the category of constable or investigating officer by whom diversionary and community cautions may be given;
+
+(e) the persons whom a prosecution authority may authorise as authorised persons for the purposes of this Part;
+
+(f) the form which diversionary and community cautions are to take and the manner in which they are to be given and recorded;
+
+(g) the places where diversionary and community cautions may be given;
+
+(h) the provision which may be made in a condition under section 102(2)(b) or 111(2)(b);
+
+(i) the monitoring of compliance with conditions attached to diversionary and community cautions;
+
+(j) the exercise of the power of arrest conferred by section 106(1);
+
+(k) who is to decide how a person should be dealt with under section 106(2) and (3).
+
+(3) After preparing a draft of the code the Secretary of State—
+
+(a) must publish the draft,
+
+(b) must consider any representations made to the Secretary of State about the draft, and
+
+(c) may amend the draft accordingly,
+
+but may not publish or amend the draft without the consent of the Attorney General.
+
+(4) After complying with subsection (3) the Secretary of State must lay the code before each House of Parliament.
+
+(5) After complying with subsection (4) the Secretary of State may bring the code into force by regulations.
+
+(6) The Secretary of State may from time to time revise a code of practice brought into force under this section.
+
+(7) Subsections (3) to (6) apply (with appropriate modifications) to a revised code as they apply to the original code.
+
+#### 117 Restriction on multiple cautions (prospective)
+
+(1) Regulations may prohibit the giving of a diversionary or community caution to a person in respect of an offence where the person has already been given one or more cautions.
+
+(2) A prohibition under subsection (1) may in particular be framed by reference to—
+
+(a) the kinds of caution previously given to the person;
+
+(b) the number of times any kind of caution has been given to the person;
+
+(c) the period preceding the commission of the offence within which any kind of caution has been given to the person;
+
+(d) the offence or description of offences in respect of which any kind of caution has been given to the person.
+
+(3) For the purposes of this section “caution” means—
+
+(a) a diversionary or community caution;
+
+(b) a conditional caution under Part 3 of the Criminal Justice Act 2003 given before the coming into force of section 118;
+
+(c) any other caution given to the person before the coming into force of that section in respect of an offence where—
+
+(i) the person admitted having committed the offence,
+
+(ii) the person was aged 18 or over when the caution was given, and
+
+(iii) the caution was given by a constable or other person authorised to give the caution.
+
+#### 118 Abolition of other cautions and out-of-court disposals (prospective)
+
+(1) No caution other than a diversionary or community caution may be given to a person aged 18 or over who admits to having committed an offence.
+
+(2) In the Criminal Justice Act 2003, omit Part 3 (conditional cautions).
+
+(3) In the Criminal Justice and Police Act 2001, omit Chapter 1 of Part 1 (on-the-spot penalties for disorderly behaviour).
+
+(4) Subsections (2) and (3) do not affect the continuing operation of the provisions repealed by those subsections in relation to offences committed before the day on which this section comes into force.
+
+### Supplementary (prospective)
+
+#### 119 Consequential amendments relating to Part 6 (prospective)
+
+Schedule 11 contains consequential amendments.
+
+#### 120 Regulations under Part 6 (prospective)
+
+(1) Regulations under this Part are to be made by the Secretary of State by statutory instrument.
+
+(2) Regulations under this Part may make—
+
+(a) different provision for different purposes;
+
+(b) consequential, supplementary, incidental, transitional and transitory provision and savings.
+
+(3) A statutory instrument containing the regulations specified in subsection (4) (with or without other provision) may not be made unless a draft of the instrument has been laid before, and approved by resolution of, each House of Parliament.
+
+(4) The regulations referred to in subsection (3) are—
+
+(a) regulations under section 98(6)(b) or (c) (excluded offences);
+
+(b) regulations under section 101(8) or 110(8);
+
+(c) the first regulations under section 102(3) or 111(3) (maximum amount of financial penalty);
+
+(d) any other regulations under section 102(3) or 111(3) which increase or decrease the maximum amount of a financial penalty by more than is necessary to reflect changes in the value of money;
+
+(e) regulations under section 116(5) (commencement of code);
+
+(f) regulations under section 117 (restriction on multiple cautions).
+
+(5) A statutory instrument containing regulations under this Part to which subsection (3) does not apply is subject to annulment in pursuance of a resolution of either House of Parliament.
+
+#### 121 Interpretation of Part 6 (prospective)
+
+In this Part—
+
+- “the 1984 Act” means the Police and Criminal Evidence Act 1984;
+
+- “authorised person” has the meaning given by section 98(7);
+
+- “community remedy document” means the community remedy document (as revised from time to time) published under section 101 of the Anti-social Behaviour, Crime and Policing Act 2014 for the police area where the offence in question was committed;
+
+- “excluded offence” has the meaning given by section 98(6);
+
+- “indictable-only offence” means an offence which, if committed by an adult, is triable only on indictment;
+
+- “investigating officer” means—
+
+  - an officer of Revenue and Customs appointed in accordance with section 2(1) of the Commissioners for Revenue and Customs Act 2005, or
+  - a person designated as a policing support officer or a policing support volunteer under section 38 of the Police Reform Act 2002;
+
+- “police detention” has the same meaning as in the 1984 Act (see section 118(2) of that Act);
+
+- “prosecution authority” means—
+
+  - the Attorney General;
+  - the Director of Public Prosecutions;
+  - the Director of the Serious Fraud Office;
+  - the Secretary of State;
+  - a person prescribed in regulations;
+
+- “victim”, in relation to an offence, means the particular person who appears to have been affected, or principally affected, by the offence.
+
+## PART 7 — Sentencing and release
+
+### CHAPTER 1 — Custodial sentences
+
+#### Penalties for offences involving children or vulnerable adults
+
+##### 122 Penalty for cruelty to children
+
+(1) In section 1 of the Children and Young Persons Act 1933 (cruelty to persons under 16), in subsection (1)(a) (penalty on conviction on indictment), for “ten” substitute “14”.
+
+(2) Subsection (1) applies only in relation to offences committed on or after the day on which this section comes into force.
+
+##### 123 Penalty for causing or allowing a child or vulnerable adult to die or suffer serious physical harm
+
+(1) Section 5 of the Domestic Violence, Crime and Victims Act 2004 (causing or allowing a child or vulnerable adult to die or suffer serious harm) is amended in accordance with subsections (2) and (3).
+
+(2) In subsection (7) (penalty in the case of a person’s death), for the words “liable on conviction on indictment” substitute
+
+> liable—
+>
+> (a) on conviction on indictment in England and Wales, to imprisonment for life or to a fine, or to both;
+>
+> (b) on conviction on indictment in Northern Ireland,
+
+.
+
+(3) In subsection (8) (penalty in the case of serious physical harm), for the words “liable on conviction on indictment” substitute
+
+> liable—
+>
+> (a) on conviction on indictment in England and Wales, to imprisonment for a term not exceeding 14 years or to a fine, or to both;
+>
+> (b) on conviction on indictment in Northern Ireland,
+
+.
+
+(4) Subsections (2) and (3) apply only in relation to offences where the unlawful act to which the offence relates is an act that occurs, or so much of such an act as occurs, on or after the day on which this section comes into force.
+
+(5) In Schedule 19 to the Sentencing Code (list of certain specified offences carrying maximum sentence on indictment of imprisonment for life), after paragraph 20 insert—
+
+> **20A Domestic Violence, Crime and Victims Act 2004**
+>
+> (1) An offence under section 5 of the Domestic Violence, Crime and Victims Act 2004 that meets the conditions in sub-paragraph (2).
+>
+> (2) The conditions are that—
+>
+> (a) the unlawful act to which the offence relates was an act that occurred, or so much of an act as occurred, on or after the day on which section 123 of the Police, Crime, Sentencing and Courts Act 2022 came into force, and
+>
+> (b) the offender is liable on conviction on indictment to imprisonment for life.
+
+#### Minimum sentences for particular offences
+
+##### 124 Minimum sentences for particular offences
+
+(1) The Sentencing Code is amended in accordance with subsections (2) to (8).
+
+(2) In section 312 (minimum sentence for offences of threatening with weapon or bladed article)—
+
+(a) in subsection (2), for “The court” substitute “If the offence was committed before the day on which section 124 of the Police, Crime, Sentencing and Courts Act 2022 came into force, the court”, and
+
+(b) after subsection (2) insert—
+
+> (2A) If the offence was committed on or after the day on which section 124 of the Police, Crime, Sentencing and Courts Act 2022 came into force, the court must impose an appropriate custodial sentence unless the court is of the opinion that there are exceptional circumstances which—
+>
+> (a) relate to the offence or to the offender, and
+>
+> (b) justify not doing so.
+
+(3) In section 313 (minimum sentence of 7 years for third class A drug trafficking offence)—
+
+(a) in subsection (2), for “The court” substitute “If the index offence was committed before the day on which section 124 of the Police, Crime, Sentencing and Courts Act 2022 came into force, the court”,
+
+(b) after subsection (2) insert—
+
+> (2A) If the index offence was committed on or after the day on which section 124 of the Police, Crime, Sentencing and Courts Act 2022 came into force, the court must impose an appropriate custodial sentence for a term of at least 7 years unless the court is of the opinion that there are exceptional circumstances which—
+>
+> (a) relate to any of the offences or to the offender, and
+>
+> (b) justify not doing so.
+
+, and
+
+(c) in subsection (4)(b), after “subsection (2)” insert “or (2A)”.
+
+(4) In section 314 (minimum sentence of 3 years for third domestic burglary)—
+
+(a) in subsection (2), for “The court” substitute “If the index offence was committed before the day on which section 124 of the Police, Crime, Sentencing and Courts Act 2022 came into force, the court”,
+
+(b) after subsection (2) insert—
+
+> (2A) If the index offence was committed on or after the day on which section 124 of the Police, Crime, Sentencing and Courts Act 2022 came into force, the court must impose an appropriate custodial sentence for a term of at least 3 years unless the court is of the opinion that there are exceptional circumstances which—
+>
+> (a) relate to any of the offences or to the offender, and
+>
+> (b) justify not doing so.
+
+, and
+
+(c) in subsection (4)(b), after “subsection (2)” insert “or (2A)”.
+
+(5) In section 315 (minimum sentence for repeat offence involving weapon or bladed article)—
+
+(a) in subsection (2), for “The court” substitute “If the index offence was committed before the day on which section 124 of the Police, Crime, Sentencing and Courts Act 2022 came into force, the court”,
+
+(b) after subsection (2) insert—
+
+> (2A) If the index offence was committed on or after the day on which section 124 of the Police, Crime, Sentencing and Courts Act 2022 came into force, the court must impose an appropriate custodial sentence unless the court is of the opinion that there are exceptional circumstances which—
+>
+> (a) relate to the offence, to the previous offence or to the offender, and
+>
+> (b) justify not doing so.
+
+, and
+
+(c) in subsection (3), for “subsection (2)” substitute “subsections (2) and (2A)”.
+
+(6) In section 316(1)(a) (appeals where previous conviction set aside), after “subsection (2)” insert “or (2A)”.
+
+(7) In section 320 (determination of day when offence committed), after “311,” insert “312,”.
+
+(8) In section 399(c) (mandatory sentence requirements)—
+
+(a) in sub-paragraph (ii), after “312(2)” insert “or (2A)”,
+
+(b) in sub-paragraph (iii), after “313(2)” insert “or (2A)”,
+
+(c) in sub-paragraph (iv), after “314(2)” insert “or (2A)”, and
+
+(d) in sub-paragraph (v), after “315(2)” insert “or (2A)”.
+
+(9) In Schedule 22 to the Sentencing Act 2020—
+
+(a) in paragraph 66 (amendments of section 313 of the Code), after paragraph (a) insert—
+
+> (aa) in subsection (2A), for “an appropriate custodial sentence” substitute “a sentence of imprisonment”;
+
+, and
+
+(b) in paragraph 67 (amendments of section 314 of the Code), after paragraph (a) insert—
+
+> (aa) in subsection (2A), for “an appropriate custodial sentence” substitute “a sentence of imprisonment”;
+
+.
+
+(10) Schedule 12 contains amendments which are consequential on this section.
+
+(11) An amendment made by Schedule 12, so far as it has effect—
+
+(a) in relation to dealing with a person for an offence, or
+
+(b) in relation to a sentence passed for an offence,
+
+has effect only where the person committed the offence on or after the day on which the Schedule came into force.
+
+(12) For the purposes of subsection (11), where an offence is found to have been committed—
+
+(a) over a period of 2 or more days, or
+
+(b) at some time during a period of 2 or more days,
+
+it is to be taken to have been committed on the last of those days.
+
+#### Life sentences: time to be served
+
+##### 125 Whole life order as starting point for premeditated child murder
+
+In Schedule 21 to the Sentencing Code (minimum terms in mandatory life sentences), in paragraph 2(2), after paragraph (b) insert—
+
+> (ba) the murder of a child involving a substantial degree of premeditation or planning, where the offence was committed on or after the day on which section 125 of the Police, Crime, Sentencing and Courts Act 2022 came into force,
+
+.
+
+##### 126 Whole life orders for young adult offenders in exceptional cases
+
+(1) The Sentencing Code is amended as follows.
+
+(2) In section 321 (orders to be made on passing life sentence)—
+
+(a) in subsection (3)(a), for the words from “the offender” to “committed” substitute “the case is within subsection (3A) or (3B)”;
+
+(b) after subsection (3) insert—
+
+> (3A) A case is within this subsection if the offender was aged 21 or over when the offence was committed.
+>
+> (3B) A case is within this subsection if—
+>
+> (a) the offence was committed on or after the day on which section 126 of the Police, Crime, Sentencing and Courts Act 2022 came into force, and
+>
+> (b) the offender was aged 18 or over but under 21 when the offence was committed.
+>
+> (3C) In a case within subsection (3B), the court may arrive at the opinion set out in subsection (3)(b) only if it considers that the seriousness of the offence, or combination of offences, is exceptionally high even by the standard of offences which would normally result in a whole life order in a case within subsection (3A).
+
+(3) In section 322 (further provision about mandatory life sentences), in subsection (3)(a), after “321(3)” insert “or (3C)”.
+
+##### 127 Starting points for murder committed when under 18
+
+In Schedule 21 to the Sentencing Code (minimum terms in mandatory life sentences), for paragraph 6 substitute—
+
+> **5A** (1) This paragraph applies if—
+>
+> (a) the offender was aged under 18 when the offence was committed, and
+>
+> (b) the offender was convicted of the offence on or after the day on which section 127 of the Police, Crime, Sentencing and Courts Act 2022 came into force.
+>
+> (2) The appropriate starting point, in determining the minimum term, is the period given in the entry in column 2, 3 or 4 of the following table that corresponds to—
+>
+> (a) the age of the offender when the offence was committed, as set out in column 1, and
+>
+> (b) the provision of this Schedule that would have supplied the appropriate starting point had the offender been aged 18 when the offence was committed, as set out in the headings to columns 2, 3 and 4.
+>
+> | **Age of offender when offence committed** | **Starting point supplied by paragraph 3(1) had offender been 18** | **Starting point supplied by paragraph 4(1) had offender been 18** | **Starting point supplied by paragraph 5 had offender been 18** |
+> |---|---|---|---|
+> | 1 | 2 | 3 | 4 |
+> | *17* | 27 years | 23 years | 14 years |
+> | *15 or 16* | 20 years | 17 years | 10 years |
+> | *14 or under* | 15 years | 13 years | 8 years |
+>
+> **6** (1) This paragraph applies if—
+>
+> (a) the offender was aged under 18 when the offence was committed, and
+>
+> (b) the offender was convicted of the offence before the day on which section 127 of the Police, Crime, Sentencing and Courts Act 2022 came into force.
+>
+> (2) The appropriate starting point, in determining the minimum term, is 12 years.
+
+##### 128 Sentences of detention during Her Majesty’s pleasure: review of minimum term
+
+(1) Before the italic heading above section 28 of the Crime (Sentences) Act 1997 insert—
+
+> **Sentence of detention during Her Majesty’s pleasure: review of minimum term**
+>
+> **27A Sentence of detention during Her Majesty’s pleasure imposed on a person under 18: application for minimum term review**
+>
+> (1) This section applies to a person who—
+>
+> (a) is serving a DHMP sentence, and
+>
+> (b) was under the age of 18 when sentenced;
+>
+> and such a person is referred to in this section as a “relevant young offender”.
+>
+> (2) A relevant young offender may make an application for a minimum term review to the Secretary of State after serving half of the minimum term.
+>
+> (3) An “application for a minimum term review” is an application made by a relevant young offender for a reduction in the minimum term.
+>
+> (4) Where a relevant young offender has made an application for a minimum term review under this section, the offender may only make a further such application if—
+>
+> (a) the period of 2 years beginning with the day on which the previous application was determined has expired, and
+>
+> (b) the offender is under the age of 18 on the day on which the further application is made.
+>
+> (5) Where the Secretary of State receives an application under this section, the Secretary of State must—
+>
+> (a) consider the application, and
+>
+> (b) unless the Secretary of State forms the view that the application is frivolous or vexatious, refer it to the High Court.
+>
+> (6) Where the Secretary of State decides not to refer the application to the High Court, the Secretary of State must give notice of that decision, and the reasons for it, to the relevant young offender.
+>
+> (7) If the relevant young offender makes representations or provides further evidence in support of the application before the end of the period of 4 weeks beginning with the day on which the notice under subsection (6) is given, the Secretary of State must consider the representations or evidence and—
+>
+> (a) if the Secretary of State is no longer of the view mentioned in subsection (5)(b), refer the application to the High Court, or
+>
+> (b) give notice to the offender confirming the decision not to refer the application.
+>
+> (8) In this section—
+>
+> - “DHMP sentence” means a sentence of detention during Her Majesty’s pleasure imposed (whether before or after this section comes into force) under a provision listed in column 1 of the table in subsection (9);
+>
+> - “minimum term”, in relation to a person serving a DHMP sentence, means the part of the sentence specified—
+>
+>   - in the minimum term order made in respect of the sentence, or
+>   - where one or more reduction orders have been made under section 27B in respect of the sentence, in the most recent of those orders;
+>
+> - “minimum term order”, in relation to a DHMP sentence, means the order made under the provision listed in column 2 of the table in subsection (9) that corresponds to the entry in column 1 that relates to the sentence.
+>
+> (9) The table is as follows—
+>
+> | Provision under which DHMP sentence imposed | Provision under which minimum term order made |
+> |---|---|
+> | Section 259 of the Sentencing Code | Section 322 of the Sentencing Code |
+> | Section 90 of the Powers of Criminal Courts (Sentencing) Act 2000 | Section 82A of the Powers of Criminal Courts (Sentencing) Act 2000 or section 269 of the Criminal Justice Act 2003 |
+> | Section 218 of the Armed Forces Act 2006 | Section 269 of the Criminal Justice Act 2003 or section 322 of the Sentencing Code. |
+>
+> (10) For the purposes of subsection (4), an application for a minimum term review is determined—
+>
+> (a) when the court makes a reduction order or a decision confirming the minimum term (see section 27B), or
+>
+> (b) in a case where the application is not referred to the court, when the Secretary of State gives the relevant young offender notice in relation to the application under subsection (6).
+>
+> (11) There is no right for any person who is serving a DHMP sentence to request a review of the minimum term other than that conferred by this section.
+>
+> **27B Power of High Court to reduce minimum term**
+>
+> (1) This section applies where the Secretary of State refers an application for a minimum term review made by a relevant young offender under section 27A to the High Court.
+>
+> (2) The court may—
+>
+> (a) make a reduction order in relation to relevant young offender, or
+>
+> (b) confirm the minimum term in respect of the offender’s DHMP sentence,
+>
+> and a decision of the court under this subsection is final.
+>
+> (3) A reduction order is an order that the relevant young offender’s minimum term is to be reduced to such part of the offender’s DHMP sentence as the court considers appropriate and is specified in the reduction order.
+>
+> (4) In deciding whether to make a reduction order, the court must, in particular, take into account any evidence—
+>
+> (a) that the relevant young offender’s rehabilitation has been exceptional;
+>
+> (b) that the continued detention or imprisonment of the offender for the remainder of the minimum term is likely to give rise to a serious risk to the welfare or continued rehabilitation of the offender which cannot be eliminated or mitigated to a significant degree.
+>
+> (5) In this section “DHMP sentence”, “minimum term” and “relevant young offender” have the same meaning as in section 27A.
+
+(2) In section 28 of that Act (duty to release certain life prisoners), in subsection (1A), for the words from “the part of” to the end substitute—
+
+> (a) the part of the sentence specified in the minimum term order, or
+>
+> (b) in a case where one or more reduction orders has been made in relation to the prisoner (see section 27B), the part of the sentence specified in the most recent of those orders.
+
+(3) A pre-commencement application—
+
+(a) is to be treated for the purposes of subsection (4) of section 27A of the Crime (Sentences) Act 1997 as if it was made under that section if, at the time the relevant young offender made the application, they had served at least half of the minimum term;
+
+(b) if not determined before the day on which this section comes into force, is to be dealt with in the manner in which it would have been dealt with immediately before this section comes into force.
+
+(4) In this section—
+
+- “minimum term”, in relation to a relevant young offender, means the part of the offender’s DHMP sentence specified in the minimum term order made in respect of the sentence (and for these purposes “DHMP sentence” and “minimum term order” have same meanings as in that section 27A);
+- “pre-commencement application” means an application by a relevant young offender for a review of the minimum term that was made to the Secretary of State before the day on which this section comes into force;
+- “relevant young offender” has the same meaning as in section 27A of the Crime (Sentences) Act 1997.
+
+##### 129 Life sentence not fixed by law: minimum term
+
+(1) In section 323 of the Sentencing Code (minimum term order for life sentence not fixed by law)—
+
+(a) after subsection (1) insert—
+
+> (1A) The starting point, in determining the minimum term, is the relevant portion of the notional determinate sentence.
+>
+> (1B) The “notional determinate sentence”, in relation to a life sentence, is the custodial sentence that the court would have imposed if the court had not imposed the life sentence.
+>
+> (1C) The “relevant portion” of the notional determinate sentence is—
+>
+> (a) where that sentence is within section 247A(2A) of the Criminal Justice Act 2003 (terrorist prisoners not entitled to early release), the term that the court would have determined as the appropriate custodial term (within the meaning given by subsection (8) of that section);
+>
+> (b) where that sentence is a sentence under section 252A, 254, 265, 266, 278 or 279 (and is not within paragraph (a)), two-thirds of the term that the court would have determined as the appropriate custodial term under that section;
+>
+> (c) where that sentence is any other custodial sentence, two-thirds of the term of the sentence.
+
+;
+
+(b) in subsection (2)—
+
+(i) for the words before paragraph (a), substitute “The minimum term must be the starting point adjusted as the court considers appropriate, taking into account—”;
+
+(ii) omit paragraph (b) (but not the final “and”).
+
+(2) In section 261A(3) of the Armed Forces Act 2006 (life sentences: further provision), before paragraph (a) insert—
+
+> (za) subsection (1C)(b) has effect as if for “section 252A, 254, 265, 266, 278 or 279” there were substituted—
+>
+> (i) section 224A or 224B of the Armed Forces Act 2006, or
+>
+> (ii) section 254, 266, 278 or 279 passed as a result of section 219A, 219ZA or 221A of that Act,
+
+.
+
+(3) In the Sentencing Act 2020—
+
+(a) in section 61 (sentencing guidelines for life sentences etc)—
+
+(i) for subsection (6), for the words from “the notional” to “made under” substitute “the notional determinate sentence within the meaning of”;
+
+(ii) omit subsection (7);
+
+(b) omit the following (which concern the commencement of paragraph 85 of Schedule 22)—
+
+(i) section 407(1)(b)(ii) (but not the final “or”);
+
+(ii) section 417(8);
+
+(c) in Schedule 22 (prospective amendments of the Sentencing Code)—
+
+(i) in paragraph 68A (amendments of section 323 of the Sentencing Code in relation to prospective abolition of detention in young offender institution), before sub-paragraph (a) insert—
+
+> (za) in subsection (1C)(b), omit “265, 266,
+
+;
+
+(ii) omit paragraph 85 (prospective amendments of section 323);
+
+(d) in paragraph 20A of Schedule 26 (amendments of section 261A of Armed Forces Act 2006 in relation to prospective abolition of detention in young offender institution), before sub-paragraph (a) insert—
+
+> (za) in paragraph (za)—
+>
+> (i) in the words before sub-paragraph (i), omit “265, 266,”;
+>
+> (ii) in sub-paragraph (ii), omit “266,”.
+
+#### Release on licence
+
+##### 130 Increase in requisite custodial period for certain violent or sexual offenders
+
+(1) The Criminal Justice Act 2003 is amended in accordance with subsections (2) to (8).
+
+(2) In section 244 (general duty to release prisoners)—
+
+(a) in the heading, at the end insert “not subject to special provision for release”;
+
+(b) in subsection (1), after “243A,” insert “244ZA,”.
+
+(3) After section 244 insert—
+
+> **244ZA Release on licence of certain violent or sexual offenders**
+>
+> (1) As soon as a fixed-term prisoner to whom this section applies has served the requisite custodial period for the purposes of this section, it is the duty of the Secretary of State to release the prisoner on licence under this section.
+>
+> (2) This section applies to a prisoner who—
+>
+> (a) is serving a fixed-term sentence within subsection (4), (5) or (6),
+>
+> (b) is not a prisoner to whom section 244A, 246A or 247A applies, and
+>
+> (c) has not been released on licence (provision for the release of persons recalled under section 254 being made by sections 255B and 255C).
+>
+> (3) Subsection (1) does not apply if—
+>
+> (a) the prisoner’s case has been referred to the Board under section 244ZB, or
+>
+> (b) a notice given to the prisoner under subsection (4) of that section is in force.
+>
+> (4) A fixed-term sentence is within this subsection if it—
+>
+> (a) is a sentence of—
+>
+> (i) imprisonment, or
+>
+> (ii) detention under section 96 of the PCC(S)A 2000 or section 262 of the Sentencing Code,
+>
+> (b) is for a term of 7 years or more,
+>
+> (c) was imposed on or after 1 April 2020, and
+>
+> (d) was imposed in respect of an offence—
+>
+> (i) that is specified in Part 1 or 2 of Schedule 15, and
+>
+> (ii) for which a sentence of life imprisonment could have been imposed (in the case of an offender aged 21 or over) at the time when the actual sentence was imposed.
+>
+> (5) A fixed-term sentence is within this subsection if it—
+>
+> (a) is a sentence of imprisonment or a sentence of detention under section 262 of the Sentencing Code,
+>
+> (b) is for a term of at least 4 years but less than 7 years,
+>
+> (c) was imposed on or after the day on which section 130 of the Police, Crime, Sentencing and Courts Act 2022 came into force, and
+>
+> (d) was imposed in respect of an offence within subsection (7).
+>
+> (6) A fixed-term sentence is within this subsection if it—
+>
+> (a) is a sentence of detention under section 250 of the Sentencing Code,
+>
+> (b) is for a term of 7 years or more,
+>
+> (c) was imposed on or after the day on which section 130 of the Police, Crime, Sentencing and Courts Act 2022 came into force, and
+>
+> (d) was imposed in respect of an offence within subsection (7).
+>
+> (7) An offence is within this subsection if—
+>
+> (a) it is specified in any of the following paragraphs of Part 1 of Schedule 15—
+>
+> (i) paragraph 1 (manslaughter);
+>
+> (ii) paragraph 4 (soliciting murder);
+>
+> (iii) paragraph 6 (wounding with intent to cause grievous bodily harm);
+>
+> (iv) paragraph 64 (ancillary offences), so far as it relates to an offence listed in paragraph 1, 4 or 6;
+>
+> (v) paragraph 65 (inchoate offences in relation to murder), or
+>
+> (b) it is an offence—
+>
+> (i) that is specified in Part 2 of that Schedule (sexual offences), and
+>
+> (ii) for which a sentence of life imprisonment could have been imposed (in the case of an offender aged 21 or over) at the time when the actual sentence was imposed.
+>
+> (8) For the purposes of this section “the requisite custodial period” means—
+>
+> (a) in relation to a prisoner serving one sentence, two-thirds of the prisoner’s sentence, and
+>
+> (b) in relation to a prisoner serving two or more concurrent or consecutive sentences, the period determined under sections 263(2) and 264(2B) or (2E).
+
+(4) In section 260(5) (powers and duties of Secretary of State that continue to apply to prisoner removed from prison pending deportation), after “244,” insert “244ZA,”.
+
+(5) In section 261(5)(b) (application of release provisions to returning deported prisoner), after “244,” insert “244ZA,”.
+
+[^F15]6 [^F15]In section 264(6) (consecutive terms of imprisonment: meaning of custodial period), after paragraph (ca) (inserted by section 131) (but before the final “and”), insert—
+
+> [^F15]cb [^F15]in relation to a sentence in respect of which section 244ZA applies to the offender, two-thirds of the sentence,
+
+[^F15].
+
+(7) In section 268(1A) (meaning of “requisite custodial period” in Chapter 6 of Part 12), in paragraph (d), for “or section 244” substitute “, 244 or 244ZA”.
+
+(8) In Schedule 15 (specified offences for certain purposes to do with release of offenders)—
+
+(a) in the heading, for “section” substitute “sections 244ZA and”;
+
+(b) in the shoulder reference, for “Section” substitute “Sections 244ZA and”.
+
+(9) The Release of Prisoners (Alteration of Relevant Proportion of Sentence) Order 2020 (S.I. 2020/158) is revoked.
+
+##### 131 Increase in requisite custodial period for certain other offenders of particular concern
+
+(1) The Criminal Justice Act 2003 is amended as follows.
+
+(2) In section 244A(6) (release on licence of prisoners serving sentence under section 278 of the Sentencing Code etc: interpretation), in the definition of “the requisite custodial period”—
+
+(a) in paragraph (a), after “one sentence” insert “imposed before the day on which section 131 of the Police, Crime, Sentencing and Courts Act 2022 came into force”;
+
+(b) after that paragraph (but before the final “and”) insert—
+
+> - (aa) in relation to a person serving one sentence imposed on or after that day, two-thirds of the appropriate custodial term,
+
+.
+
+(3) In section 264(6) (consecutive terms of imprisonment: meaning of custodial period)—
+
+(a) in paragraph (c), after “Code” insert “before the day on which section 131 of the Police, Crime, Sentencing and Courts Act 2022 came into force”;
+
+(b) after that paragraph (but before the final “and”) insert—
+
+> (ca) in relation to a sentence imposed under section 265 or 278 of the Sentencing Code on or after the day on which section 131 of the Police, Crime, Sentencing and Courts Act 2022 came into force, two-thirds of the appropriate custodial term determined by the court under that section,
+
+.
+
+##### 132 Power to refer high-risk offenders to Parole Board in place of automatic release
+
+(1) The Criminal Justice Act 2003 is amended in accordance with subsections (2) to (10).
+
+(2) In section 243A (release of prisoners serving sentences of less than 12 months), after subsection (2) insert—
+
+> (2A) Subsection (2) does not apply if—
+>
+> (a) the prisoner’s case has been referred to the Board under section 244ZB, or
+>
+> (b) a notice given to the prisoner under subsection (4) of that section is in force.
+
+(3) In section 244 (general duty to release prisoners), after subsection (1) insert—
+
+> (1ZA) Subsection (1) does not apply if—
+>
+> (a) the prisoner’s case has been referred to the Board under section 244ZB, or
+>
+> (b) a notice given to the prisoner under subsection (4) of that section is in force.
+
+(4) After section 244 insert—
+
+> **244ZB Referral of high-risk offenders to Parole Board in place of automatic release**
+>
+> (1) This section applies to a prisoner who—
+>
+> (a) would (but for anything done under this section and ignoring any possibility of release under section 246 or 248) be, or become, entitled to be released on licence under section 243A(2), 244(1) or 244ZA(1), and
+>
+> (b) is (or will be) aged 18 or over on the first day on which the prisoner would be so entitled.
+>
+> (2) For the purposes of this section, the Secretary of State is of the requisite opinion if the Secretary of State believes on reasonable grounds that the prisoner would, if released, pose a significant risk to members of the public of serious harm occasioned by the commission of any of the following offences—
+>
+> (a) murder;
+>
+> (b) specified offences, within the meaning of section 306 of the Sentencing Code.
+>
+> (3) If the Secretary of State is of the requisite opinion, the Secretary of State may refer the prisoner’s case to the Board.
+>
+> (4) Before referring the prisoner’s case to the Board, the Secretary of State must notify the prisoner in writing of the Secretary of State’s intention to do so (and the reference may be made only if the notice is in force).
+>
+> (5) A notice given under subsection (4) must take effect before the prisoner becomes entitled as mentioned in subsection (1)(a).
+>
+> (6) A notice given under subsection (4) must explain—
+>
+> (a) the effect of the notice (including its effect under section 243A(2A), 244(1ZA) or 244ZA(3)),
+>
+> (b) why the Secretary of State is of the requisite opinion, and
+>
+> (c) the prisoner’s right to make representations (see subsection (12)).
+>
+> (7) A notice given under subsection (4)—
+>
+> (a) takes effect at whichever is the earlier of—
+>
+> (i) the time when it is received by the prisoner, and
+>
+> (ii) the time when it would ordinarily be received by the prisoner, and
+>
+> (b) remains in force until—
+>
+> (i) the Secretary of State refers the prisoner’s case to the Board under this section, or
+>
+> (ii) the notice is revoked.
+>
+> (8) The Secretary of State—
+>
+> (a) may revoke a notice given under subsection (4), and
+>
+> (b) must do so if the Secretary of State is no longer of the requisite opinion.
+>
+> (9) If a notice given under subsection (4) is in force and the prisoner would but for the notice have become entitled as mentioned in subsection (1)(a)—
+>
+> (a) the prisoner may apply to the High Court on the ground that the prisoner’s release has been delayed by the notice for longer than is reasonably necessary in order for the Secretary of State to complete the referral of the prisoner’s case to the Board, and
+>
+> (b) the High Court, if satisfied that that ground is made out, must by order revoke the notice.
+>
+> (10) At any time before the Board disposes of a reference under this section, the Secretary of State—
+>
+> (a) may rescind the reference, and
+>
+> (b) must do so if the Secretary of State is no longer of the requisite opinion.
+>
+> (11) If the reference is rescinded, the prisoner is no longer to be treated as one whose case has been referred to the Board under this section (but this does not have the effect of reviving the notice under subsection (4)).
+>
+> (12) The prisoner may make representations to the Secretary of State about the referral, or proposed referral, of the prisoner’s case at any time after being notified under subsection (4) and before the Board disposes of any ensuing reference under this section.
+>
+> But the Secretary of State is not required to delay the referral of the prisoner’s case in order to give an opportunity for such representations to be made.
+>
+> **244ZC Proceedings following reference under section 244ZB**
+>
+> (1) This section applies to a prisoner whose case has been referred to the Parole Board under section 244ZB.
+>
+> (2) If, in disposing of that reference or any subsequent reference of the prisoner’s case to the Board under this subsection, the Board does not direct the prisoner’s release, it is the duty of the Secretary of State to refer the prisoner’s case to the Board again no later than the first anniversary of the disposal.
+>
+> (3) It is the duty of the Secretary of State to release the prisoner on licence as soon as—
+>
+> (a) the prisoner has served the requisite custodial period, and
+>
+> (b) the Board has directed the release of the prisoner under this section.
+>
+> (4) The Board must not give a direction under subsection (3) in disposing of the reference under section 244ZB unless the Board is satisfied that it is no longer necessary for the protection of the public that the prisoner should be confined.
+>
+> (5) The Board must not subsequently give a direction under subsection (3) unless—
+>
+> (a) the Secretary of State has referred the prisoner’s case to the Board under subsection (2), and
+>
+> (b) the Board is satisfied that it is no longer necessary for the protection of the public that the prisoner should be confined.
+>
+> (6) For the purposes of this section, the “requisite custodial period” means the period ending with the day on which the prisoner would have become entitled as mentioned in section 244ZB(1)(a).
+
+(5) In section 246(4) (exceptions from power to release early subject to curfew), after paragraph (f) insert—
+
+> (fa) the prisoner’s case has been referred to the Board under section 244ZB,
+>
+> (fb) a notice given to the prisoner under subsection (4) of that section is in force,
+
+.
+
+(6) [^F16]In section 255A(2) (duty to consider suitability for automatic release following recall of certain prisoners) (as amended by the Counter-Terrorism and Sentencing Act 2021), for “or a serious terrorism prisoner” substitute [^F16]“, a serious terrorism prisoner or a prisoner whose case was referred to the Board under section 244ZB”[^F16].
+
+(7) [^F16]In section 255C(1) (prisoners whose release after recall is not automatic), for the words from “who” to the end substitute
+
+> [^F16]—
+>
+> [^F16]a [^F16]whose suitability for automatic release does not have to be considered under section 255A(2), or
+>
+> [^F16]b [^F16]who is not considered suitable for automatic release.
+
+(8) In section 260(5) (powers and duties of Secretary of State that continue to apply to prisoner removed from prison pending deportation), after “244,” insert “244ZB,”.
+
+(9) In section 261(5)(b) (application of release provisions to returning deported prisoner), after “244,” insert “244ZC,”.
+
+(10) In section 268(1A) (meaning of “requisite custodial period” in Chapter 6 of Part 12), after paragraph (c) insert—
+
+> (ca) in relation to a prisoner whose case has been referred to the Parole Board under section 244ZB, the requisite custodial period for the purposes of section 244ZC;
+
+.
+
+(11) In Schedule 1 to the Crime (Sentences) Act 1997—
+
+(a) in paragraph 8(2)(a) (provisions relating to release continuing to apply to prisoner transferred from England and Wales to Scotland), for “, 244,” substitute “to”;
+
+(b) in paragraph 9(2)(a) (provisions relating to release continuing to apply to prisoner transferred from England and Wales to Northern Ireland), for “, 244,” substitute “to”.
+
+(12) In section 128 of the Legal Aid, Sentencing and Punishment of Offenders Act 2012 (power to alter test for release on licence at direction of Parole Board)—
+
+(a) in subsection (2), after paragraph (b) insert—
+
+> (bza) a prisoner whose case has been referred to the Parole Board under section 244ZB of the Criminal Justice Act 2003 (power to refer to Parole Board in place of automatic release),
+
+;
+
+(b) in subsection (3), before paragraph (ab) insert—
+
+> (aaa) amend section 244ZC of the Criminal Justice Act 2003 (proceedings following reference under section 244ZB of that Act),
+
+.
+
+##### 133 Power to make provision for reconsideration and setting aside of Parole Board decisions
+
+In section 239 of the Criminal Justice Act 2003 (the Parole Board), after subsection (5) insert—
+
+> (5A) Rules under subsection (5) may, in particular, make provision—
+>
+> (a) requiring or permitting the Board to make provisional decisions;
+>
+> (b) about the circumstances—
+>
+> (i) in which the Board must or may reconsider such decisions;
+>
+> (ii) in which such decisions become final;
+>
+> (c) conferring power on the Board to set aside a decision or direction that is within subsection (5B),
+>
+> and any such provision may relate to cases referred to the Board under this Chapter or under Chapter 2 of Part 2 of the 1997 Act.
+>
+> (5B) The following are within this subsection—
+>
+> (a) a direction given by the Board for, or a decision made by it not to direct, the release of a prisoner which the Board determines it would not have given or made but for an error of law or fact, or
+>
+> (b) a direction given by the Board for the release of a prisoner which the Board determines it would not have given if—
+>
+> (i) information that was not available to the Board when the direction was given had been so available, or
+>
+> (ii) a change in circumstances relating to the prisoner that occurred after the direction was given had occurred before it was given.
+>
+> (5C) Provision made by virtue of subsection (5A)(c)—
+>
+> (a) may not confer power on the Board to set aside a direction for the release of a prisoner at any time when the prisoner has already been released pursuant to that direction, but
+>
+> (b) may make provision for the suspension of any requirement under this Chapter or under Chapter 2 of Part 2 of the 1997 Act for the Secretary of State to give effect to a direction of the Board to release a prisoner, pending consideration by the Board as to whether to set it aside.
+
+##### 134 Responsibility for setting licence conditions for fixed-term prisoners
+
+(1) Section 250 of the Criminal Justice Act 2003 (licence conditions for fixed-term prisoners) is amended in accordance with subsections (2) and (3).
+
+(2) For subsections (5A) to (5B) substitute—
+
+> (5A) The Secretary of State must not—
+>
+> (a) include a condition referred to in subsection (4)(b)(ii) in a licence within subsection (5B), either on release or subsequently, or
+>
+> (b) vary or cancel any such condition included in such a licence,
+>
+> unless the Board directs the Secretary of State to do so (and must, if the Board so directs, include, vary or cancel such a condition).
+>
+> (5B) A licence is within this subsection if it is granted to a relevant prisoner—
+>
+> (a) on their initial release in a case where that release is at the direction of the Board, or
+>
+> (b) on their release after recall to prison in a case where that release is at the direction of the Board (see sections 255B(5), 255C(5) and 256A(5)).
+>
+> (5C) In subsection (5B), “relevant prisoner” means a prisoner to whom section 244ZC, 244A, 246A, 247 or 247A applies (or applied) for the purposes of their initial release.
+
+(3) Omit subsection (9).
+
+(4) Subsection (5) applies to any condition of a licence that is in force immediately before commencement if—
+
+(a) the inclusion of the condition required a direction of the Board, but
+
+(b) no such direction was given.
+
+(5) The condition is to be treated, for the purposes of any time after commencement, as it if was included in the licence at the direction of the Board.
+
+(6) Nothing in this section except subsection (5) affects the validity of any condition included in a licence before commencement.
+
+(7) In this section—
+
+- “the Board” means the Parole Board;
+- “commencement” means the coming into force of this section;
+- “licence” means a licence under Chapter 6 of Part 12 of the Criminal Justice Act 2003.
+
+##### 135 Repeal of uncommenced provision for establishment of recall adjudicators
+
+In the Criminal Justice and Courts Act 2015, omit the following (which make provision for recall adjudicators that has not been commenced)—
+
+(a) sections 8 to 10, and
+
+(b) Schedule 3.
+
+##### 136 Release at direction of Parole Board after recall: fixed-term prisoners
+
+(1) The Criminal Justice Act 2003 is amended as follows.
+
+(2) In section 255B (automatic release), after subsection (4) insert—
+
+> (4A) The Board must not give a direction for P’s release on a reference under subsection (4) unless the Board is satisfied that it is not necessary for the protection of the public that P should remain in prison until the end of the period mentioned in subsection (1)(b).
+
+(3) In section 255C (fixed-term prisoners not suitable for automatic release), after subsection (4) insert—
+
+> (4A) The Board must not give a direction for P’s release on a reference under subsection (4) unless the Board is satisfied that it is not necessary for the protection of the public that P should remain in prison.
+
+(4) Omit section 256 (power of Board to fix date for future release).
+
+(5) In section 256A (further review)—
+
+(a) for subsection (1) substitute—
+
+> (1) This section applies to a person if—
+>
+> (a) there has been a previous reference of the person’s case to the Board under section 255C(4) or this section, and
+>
+> (b) the person has not been released.
+>
+> (1A) The Secretary of State must refer the person’s case back to the Board not later than the first anniversary of the most recent determination by the Board not to release the person (the “review date”).
+>
+> (1B) Subsection (1A) does not apply where the review date is 13 months or less before the date on which the person is required to be released by the Secretary of State.
+
+;
+
+(b) in subsection (2), for “that anniversary” substitute “the review date”;
+
+(c) in subsection (3), for “a person’s” substitute “the person’s”;
+
+(d) for subsections (4) and (5) substitute—
+
+> (4) The Board must not give a direction for a person’s release on a reference under subsection (1A) or (2) unless the Board is satisfied that it is not necessary for the protection of the public that the person should remain in prison.
+>
+> (5) Where on a reference under subsection (1A) or (2) the Board directs a person’s release on licence under this Chapter, the Secretary of State must give effect to the direction.
+
+(6) After section 256A insert—
+
+> **256AZA Release after recall where further sentence being served**
+>
+> (1) This section applies where a person (“the offender”) is serving two or more terms of imprisonment.
+>
+> (2) Nothing in sections 255A to 256A requires the Secretary of State to release the offender in respect of any of the terms unless and until the Secretary of State is required to release the offender in respect of each of the others.
+>
+> (3) Nothing in sections 255A to 256A requires the Secretary of State to refer the offender’s case to the Board in respect of any of the terms unless and until the Secretary of State is required either—
+>
+> (a) to refer the offender’s case to the Board, or
+>
+> (b) to release the offender,
+>
+> in respect of each of the others.
+>
+> (4) If the offender is released on licence under section 255B, 255C or 256A, the offender is to be on licence—
+>
+> (a) until the last date on which the offender is required to be on licence in respect of any of the terms, and
+>
+> (b) subject to such conditions as are required by this Chapter in respect of any of the sentences.
+>
+> (5) This section applies to a determinate sentence of detention under any of the following provisions as it applies to a term of imprisonment—
+>
+> (a) section 91 or 96 of the PCC(S)A 2000;
+>
+> (b) section 250, 252A, 254, 262, 265, 266 or 268A of the Sentencing Code;
+>
+> (c) section 226A, 226B, 227, 228 or 236A of this Act.
+
+(7) In Schedule 20A (application of Chapter 6 of Part 12 of the 2003 Act to pre-4 April 2005 cases), omit paragraph 6(5) (certain determinations to be treated as made under section 256(1)).
+
+##### 137 Power to change test for release of fixed-term prisoners following recall
+
+(1) The Criminal Justice Act 2003 is amended as follows.
+
+(2) After section 256AZA insert—
+
+> **256AZB Power to change test for release following recall**
+>
+> (1) The Secretary of State may by order change—
+>
+> (a) the test to be applied by the Secretary of State in deciding under section 255A whether a person is suitable for automatic release;
+>
+> (b) the test to be applied by the Secretary of State in deciding whether to release a person under section 255B(2) or 255C(2);
+>
+> (c) the test to be applied by the Board in deciding whether to give a direction for a person’s release when determining a reference under section 255B(4), 255C(4) or 256A(1A) or (2).
+>
+> (2) An order under subsection (1) may in particular—
+>
+> (a) apply to a person recalled before the day on which the order comes into force (as well as to a person recalled on or after that day);
+>
+> (b) amend this Chapter.
+
+(3) In section 330(5)(a) (orders subject to affirmative procedure), at the appropriate place insert—
+
+> - section 256AZB,
+
+.
+
+##### 138 Imprisonment for public protection etc: duty to refer person released on licence to Parole Board
+
+(1) Section 31A of the Crime (Sentences) Act 1997 (imprisonment or detention for public protection: termination of licences) is amended in accordance with subsections (2) to (6).
+
+(2) In subsection (2)(a), after “Chapter” insert “(whether or not the prisoner has subsequently been recalled to prison under section 32)”.
+
+(3) For subsection (3) substitute—
+
+> (3) Where—
+>
+> (a) the prisoner has been released on licence under this Chapter (whether or not the prisoner has subsequently been recalled to prison under section 32);
+>
+> (b) the qualifying period has expired; and
+>
+> (c) if the Secretary of State has made a previous reference of the prisoner’s case under this subsection, the period of twelve months beginning with the day of the disposal of that reference has expired,
+>
+> the Secretary of State must refer the prisoner’s case to the Parole Board under this subsection.
+
+(4) In subsection (4)—
+
+(a) in the words before paragraph (a), for “an application” substitute “a reference”, and
+
+(b) in paragraph (b), for “application” substitute “reference”.
+
+(5) After subsection (4) insert—
+
+> (4A) A reference under subsection (3) must be made, and a reference under that subsection must be determined by the Parole Board under subsection (4), even if at the time of the reference or determination the prisoner is in prison having been recalled under section 32.
+>
+> (4B) If at the time of the determination the prisoner is in prison having been recalled under section 32—
+>
+> (a) subsection (2) does not apply, and
+>
+> (b) subsection (4)(a) has effect as if it required the Parole Board—
+>
+> (i) to determine whether it is satisfied that it is not necessary for the protection of the public for the prisoner, when released, to be released on licence in respect of the preventative sentence or sentences, and
+>
+> (ii) if it is so satisfied, to direct the Secretary of State accordingly.
+>
+> (4C) Where the Parole Board gives a direction under subsection (4B)(b)(ii)—
+>
+> (a) if at any time the Board directs the prisoner’s release under section 28, that section has effect in relation to the prisoner as if, in subsection (5), for “to release him on licence” there were substituted “to release the prisoner unconditionally”, and
+>
+> (b) if at any time the Board directs the prisoner’s release under section 32, that section has effect in relation to the prisoner as if, in subsection (5), for “immediate release on licence” there were substituted “immediate unconditional release”.
+
+(6) In subsection (5), in the definition of “the qualifying period”, after “on licence” insert “(whether or not the prisoner has subsequently been recalled to prison under section 32)”.
+
+(7) Subsection (8) applies to an application made by a person under section 31A(3) of the Crime (Sentences) Act 1997 before this section comes into force.
+
+(8) If the application has not been determined when this section comes into force, subsections (4) to (4C) of section 31A of the Crime (Sentences) Act 1997 apply in relation to it as if it were a reference of the person’s case by the Secretary of State to the Parole Board under subsection (3) of that section.
+
+(9) Subsection (10) applies if a person remains on licence under Chapter 2 of Part 2 of the Crime (Sentences) Act 1997, or remains subject to release on licence under that Chapter, following—
+
+(a) the disposal before this section comes into force of the person’s application to the Parole Board under section 31A(3) of that Act, or
+
+(b) the disposal under subsection (4) of section 31A of that Act, as it has effect by virtue of subsection (8) of this section, of the person’s application to the Parole Board under subsection (3) of that section.
+
+(10) Subsection (3) of section 31A of the Crime (Sentences) Act 1997 applies in relation to the person as if the application had been a reference of the person’s case by the Secretary of State to the Parole Board under that subsection.
+
+##### 139 Release at direction of Parole Board: timing
+
+(1) In the Crime (Sentences) Act 1997—
+
+(a) in section 32(5) (duty to release life prisoner after recall), omit “immediate”;
+
+(b) after section 32ZA insert—
+
+> **Release at the direction of Parole Board**
+>
+> **32ZB Release at direction of Parole Board: timing**
+>
+> (1) This section applies where the Parole Board directs the release of a life prisoner under section 28 or 32.
+>
+> (2) The Secretary of State must give effect to the direction of the Parole Board as soon as is reasonably practicable in all the circumstances including, in particular, the need to make arrangements in connection with any conditions that are to be included in the life prisoner’s licence under this Chapter.
+>
+> (3) The duty under subsection (2) is subject to provision made pursuant to section 239(5C)(b) of the Criminal Justice Act 2003 (provision in Parole Board rules in relation to setting aside of release directions).
+
+(2) In the Criminal Justice Act 2003—
+
+(a) in section 255B(5) (automatic release after recall), omit “immediate”;
+
+(b) in section 255C(5) (release after recall of fixed-term prisoner not suitable for automatic release), omit “immediate”;
+
+(c) after section 256AZB insert—
+
+> **Release at the direction of the Board**
+>
+> **256AZC Release at direction of Parole Board: timing**
+>
+> (1) This section applies where the Board directs the release of a person on licence under this Chapter.
+>
+> (2) The Secretary of State must give effect to the direction of the Parole Board as soon as is reasonably practicable in all the circumstances including, in particular, the need to make arrangements in connection with any conditions that are to be included in the person’s licence under this Chapter.
+>
+> (3) The duty under subsection (2) is subject to provision made pursuant to section 239(5C)(b).
+
+#### Driving disqualification: extension in connection with custodial sentence
+
+##### 140 Extension of driving disqualification where custodial sentence imposed: England and Wales
+
+(1) In section 35A(4) of the Road Traffic Offenders Act 1988 (extension of driving disqualification period where custodial sentence also imposed)—
+
+(a) in paragraph (e), after “custodial sentence,” insert “but the sentence is not within section 247A(2A) of the Criminal Justice Act 2003 (sentences for terrorist offenders in respect of which no early release possible),”;
+
+(b) in paragraph (f), after “custodial sentence,” insert “but the sentence is not within section 247A(2A) of the Criminal Justice Act 2003,”;
+
+(c) after paragraph (f) insert—
+
+> (fza) in a case that would fall within paragraph (e) or (f) but for the fact that the custodial sentence falls within section 247A(2A) of the Criminal Justice Act 2003, a period equal to the term imposed under section 266(a) or 279(a) or (as the case may be) section 254(a) of the Sentencing Code;
+
+;
+
+(d) in paragraph (fa)—
+
+(i) after “under section” insert “252A,”;
+
+(ii) for “half” substitute “two-thirds”;
+
+(iii) after “pursuant to section” insert “252A(4)(a),”;
+
+(e) after paragraph (fa) insert—
+
+> (fb) in the case of a sentence under section 268A or 282A of that Code (serious terrorism sentences), a period equal to the term imposed by the court pursuant to section 268C(2) or 282C(2) of that Code;
+>
+> (fc) in the case of a sentence in respect of which section 244ZA of the Criminal Justice Act 2003 applies to the offender, a period equal to two-thirds of the sentence;
+>
+> (fd) in any other case where section 247A of the Criminal Justice Act 2003 applies to the offender in respect of the custodial sentence, a period equal to two-thirds of the sentence;
+
+.
+
+(2) In section 166 of the Sentencing Code (extension of driving disqualification period where custodial sentence also imposed)—
+
+(a) in the table in subsection (5)—
+
+(i) in entries 3 and 5, in the third column, for “half” substitute “two-thirds of”;
+
+(ii) after entry 6A insert—
+
+> |  |  |  |
+> |---|---|---|
+> | 6B | a custodial sentence in respect of which section 244ZA of the Criminal Justice Act 2003 applies to the offender | two-thirds of the sentence |
+> | 6C | a custodial sentence not within any of the preceding entries in respect of which section 247A of the Criminal Justice Act 2003 applies to the offender | two-thirds of the sentence |
+
+;
+
+(b) after subsection (5) insert—
+
+> (5A) In the case of a sentence specified in entry 2, 4 or 6 of column 2 in the table which is within section 247A(2A) of the Criminal Justice Act 2003, the corresponding entry in column 3 of the table is to be read with the omission of “two-thirds of”.
+
+(3) The amendments made by subsection (2)(a)(i) do not have effect in relation to an offender who—
+
+(a) is sentenced before the coming into force of section 107 (increase in requisite custodial period for certain offenders of particular concern), and
+
+(b) on being sentenced, will be a prisoner to whom section 244A of the Criminal Justice Act 2003 (release on licence of prisoners serving sentence under 278 of the Sentencing Code etc) applies.
+
+(4) In the Sentencing Act 2020—
+
+(a) in section 417 (commencement of prospective amendments), in subsection (3)(a), after “40,” insert “40A,”;
+
+(b) in Schedule 22, after paragraph 40 (prospective amendment of section 166(5) of the Sentencing Code) insert—
+
+> **40A** In section 166(5A) (adaptation of disqualification period in certain terrorist cases), in paragraph (a), omit “, 4”;
+
+(c) also in Schedule 22, in paragraph 102 (prospective amendment of section 35A of the Road Traffic Offenders Act 1988)—
+
+(i) in the words before sub-paragraph (a), omit “as amended by paragraph 102(2) of Schedule 24”;
+
+(ii) after sub-paragraph (a) insert—
+
+> (aa) in paragraph (fza) omit “266(a) or”;
+
+;
+
+(iii) at the end insert—
+
+> (c) in paragraph (fb) omit “268A or” and “268C(2) or”.
+
+(5) In Schedule 22 to the Coroners and Justice Act 2009, omit paragraph 34 (power to make transitional provision in relation to section 35A of the Road Traffic Offenders Act 1988).
+
+##### 141 Increase in driving disqualification periods under certain existing orders: England and Wales
+
+(1) Subsection (2) applies where—
+
+(a) a driving disqualification order was made in accordance with an extended disqualification provision,
+
+(b) the custodial sentence as a result of which the extended disqualification provision applied was imposed before the day on which section 140 came into force,
+
+(c) section 244ZA (inserted by section 130) or 247A of the Criminal Justice Act 2003 applies to the offender in respect of the sentence (the offender, in particular, not having been released in respect of the sentence), and
+
+(d) the appropriate extension period for the purposes of the order would have been longer had the sentence been imposed on the day on which section 140 came into force.
+
+(2) The order has effect, on and after the day on which section 140 comes into force, as if the period of disqualification included an appropriate extension period of such length as it would have included had the custodial sentence been imposed on that day.
+
+(3) For the purposes of this section, the “extended disqualification provisions” are—
+
+(a) section 35A of the Road Traffic Offenders Act 1988,
+
+(b) section 147A of the Powers of Criminal Courts (Sentencing) Act 2000, and
+
+(c) section 166 of the Sentencing Code,
+
+and “appropriate extension period”, “driving disqualification order” and “custodial sentence” are to be read in accordance with the extended disqualification provision concerned.
+
+(4) In the application of this section before section 130 comes into force, the reference in subsection (1)(c) to section 244ZA of the Criminal Justice Act 2003 is to be read as a reference to section 244 of that Act as modified by the Release of Prisoners (Alteration of Relevant Proportion of Sentence) Order 2020 (S.I. 2020/158).
+
+(5) In the application of this section in relation to a custodial sentence imposed under a provision repealed by the Sentencing Act 2020, the references to the sentence in subsections (1)(d) and (2) are to be read as referring to an equivalent sentence imposed under the corresponding provision of the Sentencing Code.
+
+##### 142 Extension of driving disqualification where custodial sentence imposed: Scotland
+
+(1) Section 35C of the Road Traffic Offenders Act 1988 (extension of driving disqualification period where custodial sentence also imposed) is amended in accordance with subsections (2) to (5).
+
+(2) In subsection (4)—
+
+(a) after paragraph (a) insert—
+
+> (aa) in the case of a person serving a serious terrorism sentence, a period equal to the appropriate custodial term;
+>
+> (ab) in the case of a person serving an extended sentence that falls within section 1AB(2A) of the Prisoners and Criminal Proceedings (Scotland) Act 1993 (“the 1993 Act”), a period equal to the custodial term;
+>
+> (ac) in the case of a person serving an extended sentence in respect of which section 1AB(3) to (5) of the 1993 Act applies to the person, a period equal to two-thirds of the custodial term;
+
+;
+
+(b) omit paragraph (b);
+
+(c) in paragraph (c)—
+
+(i) for “an” substitute “any other”;
+
+(ii) for “confinement” substitute “custodial”;
+
+(d) after paragraph (c) insert—
+
+> (ca) in the case of a person serving a sentence imposed under section 205ZC of the Criminal Procedure (Scotland) Act 1995 (“the 1995 Act”), a period equal to two-thirds of the appropriate custodial term;
+>
+> (cb) in the case of a person serving any other sentence of imprisonment in respect of which section 1AB of the 1993 Act applies to the person, a period equal to two-thirds of the sentence;
+
+.
+
+(3) In subsection (7), for the words from “a different” to the end substitute “a reference in section 1(1) or (3) or 1AB(3)(a) of the 1993 Act to a particular proportion of a prisoner’s sentence to be construed as a reference to some other proportion (“the new proportion”) specified in the order”.
+
+(4) In subsection (8), for “(4)(b) and (c)” substitute “(4)(ac), (c), (ca), (cb) or (d)”.
+
+(5) In subsection (10)—
+
+(a) in the definition of “amending order”, for “section 7 of the 2007 Act” substitute “section 27(2)(b) of the 1993 Act”;
+
+(b) after that definition insert—
+
+> - “appropriate custodial term”—
+>
+>   - in relation to a serious terrorism sentence, means the term imposed under subsection (5)(a) or (as the case may be) (7)(a) of section 205ZA of the 1995 Act;
+>   - in relation to a sentence imposed under section 205ZC of the 1995 Act, means the term imposed under subsection (3)(a) or (as the case may be) (4)(a) of that section;
+
+;
+
+(c) in the definition of “confinement term”—
+
+(i) for “confinement” substitute “custodial”;
+
+(ii) for “Criminal Procedure (Scotland) Act 1995 (“the 1995 Act”)” substitute “1995 Act”;
+
+(d) omit the definitions of “custody and community prisoner” and “custody part”;
+
+(e) in the definition of “life prisoner”, for “section 4 of the 2007 Act” substitute “section 2(1) of the 1993 Act”;
+
+(f) for the definition of “punishment part” substitute—
+
+> - “punishment part”, in relation to a life sentence, means the punishment part of the sentence as specified in an order mentioned in section 2(2) of the 1993 Act;
+
+;
+
+(g) in the definition of “sentence of imprisonment”, in paragraph (b), after “205,” insert “205ZA(7), 205ZC(4),”;
+
+(h) after the definition of “sentence of imprisonment” insert—
+
+> - “serious terrorism sentence” means a sentence imposed under section 205ZA of the 1995 Act;
+
+.
+
+(6) Section 248D of the Criminal Procedure (Scotland) Act 1995 (extension of driving disqualification period where custodial sentence also imposed) is amended in accordance with subsections (7) to (10).
+
+(7) In subsection (4)—
+
+(a) after paragraph (a) insert—
+
+> (aa) in the case of a person serving a serious terrorism sentence, a period equal to the appropriate custodial term;
+>
+> (ab) in the case of a person serving an extended sentence that falls within section 1AB(2A) of the Prisoners and Criminal Proceedings (Scotland) Act 1993 (“the 1993 Act”), a period equal to the custodial term;
+>
+> (ac) in the case of a person serving an extended sentence in respect of which section 1AB(3) to (5) of the 1993 Act applies to the person, a period equal to two-thirds of the custodial term;
+
+;
+
+(b) omit paragraph (b);
+
+(c) in paragraph (c)—
+
+(i) for “an” substitute “any other”;
+
+(ii) for “confinement” substitute “custodial”;
+
+(d) after paragraph (c) insert—
+
+> (ca) in the case of a person serving a sentence imposed under section 205ZC of the Criminal Procedure (Scotland) Act 1995 (“the 1995 Act”), a period equal to two-thirds of the appropriate custodial term;
+>
+> (cb) in the case of a person serving any other sentence of imprisonment in respect of which section 1AB of the 1993 Act applies to the person, a period equal to two-thirds of the sentence;
+
+.
+
+(8) In subsection (7), for the words from “a different” to the end substitute “a reference in section 1(1) or (3), 1AA(1) or 1AB(3)(a) of the 1993 Act to a particular proportion of a prisoner’s sentence to be construed as a reference to some other proportion (“the new proportion”) specified in the order”.
+
+(9) In subsection (8), for “(4)(b) and (c)” substitute “(4)(ac), (c), (ca), (cb) or (d)”.
+
+(10) In subsection (10)—
+
+(a) in the definition of “amending order”, for “section 7 of the 2007 Act” substitute “section 27(2)(b) of the 1993 Act”;
+
+(b) after that definition insert—
+
+> - “appropriate custodial term”—
+>
+>   - in relation to a serious terrorism sentence, means the term imposed under subsection (5)(a) or (as the case may be) (7)(a) of section 205ZA of the 1995 Act;
+>   - in relation to a sentence imposed under section 205ZC of the 1995 Act, means the term imposed under subsection (3)(a) or (as the case may be) (4)(a) of that section;
+
+;
+
+(c) in the definition of “confinement term”—
+
+(i) for “confinement” substitute “custodial”;
+
+(ii) for “Criminal Procedure (Scotland) Act 1995 (“the 1995 Act”)” substitute “1995 Act”;
+
+(d) omit the definitions of “custody and community prisoner” and “custody part”;
+
+(e) in the definition of “life prisoner”, for “section 4 of the 2007 Act” substitute “section 2(1) of the 1993 Act”;
+
+(f) for the definition of “punishment part” substitute—
+
+> - “punishment part”, in relation to a life sentence, means the punishment part of the sentence as specified in an order mentioned in section 2(2) of the 1993 Act;
+
+;
+
+(g) in the definition of “sentence of imprisonment”, in paragraph (b), after “205,” insert “205ZA(7), 205ZC(4),”;
+
+(h) after the definition of “sentence of imprisonment” insert—
+
+> - “serious terrorism sentence” means a sentence imposed under section 205ZA of the 1995 Act;
+
+.
+
+(11) In Schedule 22 to the Coroners and Justice Act 2009, omit paragraphs 35 and 36 (powers to make transitional provision in relation to section 35C of the Road Traffic Offenders Act 1988).
+
+##### 143 Increase in driving disqualification periods under certain existing orders: Scotland
+
+(1) Subsection (2) applies where—
+
+(a) a driving disqualification order was made in accordance with an extended disqualification provision,
+
+(b) the sentence of imprisonment as a result of which the extended disqualification provision applied was imposed before the day on which section 142 came into force,
+
+(c) section 1AB of the Prisoners and Criminal Proceedings (Scotland) Act 1993 applies to the offender in respect of the sentence (the offender, in particular, not having been released in respect of the sentence), and
+
+(d) the appropriate extension period for the purposes of the order would have been longer had the sentence been imposed on the day on which section 142 came into force.
+
+(2) The order has effect, on and after the day on which section 142 comes into force, as if the period of disqualification included an appropriate extension period of such length as it would have included had the sentence of imprisonment been imposed on that day.
+
+(3) In this section—
+
+- “driving disqualification order” means an order under—
+
+  - section 34 or 35 of the Road Traffic Offenders Act 1988 (“the 1988 Act”), or
+  - section 248 or 248A of the Criminal Procedure (Scotland) Act 1995 (“the 1995 Act”);
+
+- “an extended disqualification provision” means—
+
+  - section 35C of the 1988 Act (in the case of an order under section 34 or 35 of that Act), or
+  - section 248D of the 1995 Act (in the case of an order under section 248 or 248A of the 1995 Act);
+
+- “appropriate extension period” and “sentence of imprisonment” are to be read in accordance with the extended disqualification provision concerned.
+
+#### Minor amendments
+
+##### 144 Calculation of period before release or Parole Board referral where multiple sentences being served
+
+(1) In the Crime (Sentences) Act 1997—
+
+(a) in section 28(7) (time of Parole Board referral), omit paragraph (c) (and the “and” immediately before it);
+
+(b) before section 34 insert—
+
+> **33A Life prisoners also serving fixed-term sentence**
+>
+> (1) This section applies where a life prisoner is also serving one or more sentences by virtue of which the fixed-term provisions apply to the offender.
+>
+> (2) Nothing in this Chapter requires the Secretary of State to release the prisoner unless the Secretary of State is also required by the fixed-term provisions to release the prisoner.
+>
+> (3) Nothing in this Chapter requires the Secretary of State to refer the prisoner’s case to the Parole Board unless the Secretary of State is also required by the fixed-term provisions to—
+>
+> (a) refer the prisoner’s case to the Board, or
+>
+> (b) release the prisoner.
+>
+> (4) Subsection (3) does not apply to a reference by the Secretary of State under section 31A(3).
+>
+> (5) The fact that the prisoner is serving a life sentence is to be ignored in determining, for the purposes of subsections (2) and (3), what the fixed-term provisions require.
+>
+> (6) In this section “the fixed-term provisions” means Chapter 6 of Part 12 of the Criminal Justice Act 2003.
+
+;
+
+(c) in section 34 (interpretation), omit subsection (4).
+
+(2) The Criminal Justice Act 2003 is amended in accordance with subsections (3) to (11).
+
+(3) In section 243A(3) (requisite custodial period before release in short sentence), for “264(2)” substitute “264(2B) or (2E)”.
+
+(4) In section 244(3)(d) (usual requisite custodial period before release), for “264(2)” substitute “264(2B) or (2E)”.
+
+(5) In section 244A(6) (periods before release or referral in sentences for offenders of particular concern), in paragraph (b) of the definition of “requisite custodial period”, for “264(2)” substitute “264(2D)”.
+
+(6) In section 246A(8) (periods before release or referral in extended sentences), in paragraph (b) of the definition of “requisite custodial period”, for “264(2)” substitute “264(2B), (2D) or (2E)”.
+
+(7) In section 247(7) (periods before release in old extended sentences), in paragraph (b) of the definition of “requisite custodial period”, for “264(2)” substitute “264(2B) or (2E)”.
+
+(8) In section 247A(8) (release of terrorist prisoners: definitions), in paragraph (c) of the definition of “requisite custodial period”, for “264(2)” substitute “264(2B), (2D) or (2E)”.
+
+(9) In section 263 (release in case of concurrent sentences), in subsection (2), after paragraph (a) insert—
+
+> (aza) nothing in this Chapter requires the Secretary of State to refer the offender’s case to the Board in respect of any of the terms unless and until the Secretary of State is required either—
+>
+> (i) to refer the offender’s case to the Board, or
+>
+> (ii) to release the offender,
+>
+> in respect of each of the others,
+
+.
+
+(10) In section 264 (release in case of consecutive sentences)—
+
+(a) for subsection (2) substitute—
+
+> (2A) Subsection (2B) applies if each of the terms of imprisonment is subject to initial automatic release.
+>
+> (2B) Nothing in this Chapter requires the Secretary of State to release the offender until the offender has served a period equal to the aggregate of the length of the minimum custodial periods in each of the terms.
+>
+> (2C) Subsections (2D) and (2E) apply if at least one of the terms of imprisonment is subject to initial Parole Board referral.
+>
+> (2D) Nothing in this Chapter requires the Secretary of State to refer the offender’s case to the Board until the offender has served a period equal to the aggregate length of the minimum custodial periods in each of the terms.
+>
+> (2E) Nothing in this Chapter requires the Secretary of State to release the offender until—
+>
+> (a) the Board has directed the release of the offender, or
+>
+> (b) the offender has served a period equal to the aggregate length of—
+>
+> (i) the minimum custodial periods in each of the terms (if any) that is subject to initial automatic release, and
+>
+> (ii) the maximum custodial periods in each of the terms that is subject to initial Parole Board referral.
+>
+> (2F) For the purposes of subsections (2A) to (2E)—
+>
+> (a) a term of imprisonment is “subject to initial automatic release” if it is a sentence in respect of which—
+>
+> (i) section 243A(1), 244(1), 244ZA(1), 246A(2) or 247 applies to the offender, or
+>
+> (ii) section 247A applies, but subsections (3) to (5) of that section do not apply, to the offender;
+>
+> (b) a term of imprisonment is “subject to initial Parole Board referral” if it is a sentence in respect of which—
+>
+> (i) section 244ZC, 244A, 246A(3) to (7) or 247A(3) to (5) applies to the offender, or
+>
+> (ii) a notice under section 244ZB(4) is in force.
+
+;
+
+(b) in subsections (6) and (6A), in the words before paragraph (a), before “custodial” insert “minimum”;
+
+(c) after subsection (6A) insert—
+
+> (6B) In this section “maximum custodial period” means—
+>
+> (a) in relation to a sentence imposed under section 226A, 226B, 227, 228 or 236A of this Act or section 252A, 254, 265, 266, 278 or 279 of the Sentencing Code, the “appropriate custodial term” determined by the court under that section;
+>
+> (b) in relation to any other sentence, the term of the sentence.
+
+(11) After section 267B insert—
+
+> **267C Fixed-term prisoners also serving life sentence**
+>
+> (1) This section applies where a fixed-term prisoner is also serving one or more sentences by virtue of which the life sentence provisions apply to the offender.
+>
+> (2) Nothing in this Chapter requires the Secretary of State to release the prisoner unless the Secretary of State is also required by the life sentence provisions to release the prisoner.
+>
+> (3) Nothing in this Chapter requires the Secretary of State to refer the prisoner’s case to the Board unless the Secretary of State is also required by the life sentence provisions to—
+>
+> (a) refer the prisoner’s case to the Board, or
+>
+> (b) release the prisoner.
+>
+> (4) The reference in subsection (3)(a) to a requirement of the Secretary of State to refer a prisoner’s case to the Board does not include a requirement to do so under section 31A(3) of the 1997 Act.
+>
+> (5) The fact that the prisoner is also serving a fixed-term sentence is to be ignored in determining, for the purposes of subsections (2) and (3), what the life sentence provisions require.
+>
+> (6) In this section “the life sentence provisions” means Chapter 2 of Part 2 of the 1997 Act.
+
+(12) In section 11 of the Criminal Justice and Courts Act 2015 (release on licence of life prisoners), omit subsections (1) and (4).
+
+##### 145 Application of release provisions to repatriated prisoners
+
+(1) In the Schedule to the Repatriation of Prisoners Act 1984, in paragraph 2 (application of early release provisions) as it applies in relation to prisoners repatriated to England and Wales—
+
+(a) omit sub-paragraphs (3) and (3A);
+
+(b) for sub-paragraphs (3B) to (3F) (inserted by the Counter-Terrorism and Sentencing Act 2021) substitute—
+
+> (3ZA) The Secretary of State may specify in the warrant that the prisoner is to be treated for the purposes of the enactments relating to release on licence as if the sentence to be served by the prisoner was imposed in respect of—
+>
+> (a) a particular offence under the law of England and Wales,
+>
+> (b) such an offence carried out in a certain manner or in certain circumstances, or
+>
+> (c) such an offence in relation to which certain findings were made by the court before which the prisoner was convicted or sentenced for the offence;
+>
+> and if that is done those enactments have effect accordingly.
+>
+> (3ZB) An offence may be specified under sub-paragraph (3ZA) only if it corresponds to the offence in respect of which the prisoner is required to be detained in the country or territory from which the prisoner is transferred (“the overseas offence”).
+>
+> (3ZC) A specification under sub-paragraph (3ZA)(b) may be made only if, in the opinion of the Secretary of State, findings made by the court before which the prisoner was convicted or sentenced for the overseas offence show that the overseas offence was committed in the manner or circumstances to be specified (or in a corresponding manner or corresponding circumstances).
+>
+> (3ZD) A finding may be specified under sub-paragraph (3ZA)(c) only if, in the opinion of the Secretary of State, findings made by the court before which the prisoner was convicted or sentenced for the overseas offence show that the finding to be specified could properly have been made by a court in England and Wales dealing with the prisoner.
+>
+> (3ZE) Sub-paragraph (3ZA) does not result in the enactments relating to release on licence applying in a way in which they could not apply in relation to a sentence imposed in respect of the offence specified under that sub-paragraph—
+>
+> (a) that was committed at the same time as the overseas offence was committed, or
+>
+> (b) in respect of which a conviction was made, or sentence passed, at the same time as occurred in respect of the overseas offence.
+>
+> (3ZF) The Secretary of State may amend a warrant (whether issued before or after sub-paragraph (3ZA) comes into force and whether or not the transfer it authorised has taken place) so as to specify the matters there referred to.
+
+;
+
+(c) in sub-paragraph (4), in the definition of “the enactments relating to release on licence”, for “and Chapter 6 of Part 12 of the Criminal Justice Act 2003” substitute “, Chapter 6 of Part 12 of the Criminal Justice Act 2003 and section 28 of the Offender Management Act 2007”.
+
+(2) The repeal by subsection (1)(b) of sub-paragraphs (3B) to (3F) of the amended paragraph does not affect the continued operation of the enactments relating to release on licence (within the meaning of that paragraph as amended by subsection (1)) in relation to a warrant issued or amended in accordance with those sub-paragraphs before their repeal.
+
+(3) In Schedule 26 to the Criminal Justice and Immigration Act 2008, the following provisions (which contain superseded amendments of or in connection with the paragraph amended by subsection (1)) are repealed—
+
+(a) paragraph 19(4) and (5), and
+
+(b) paragraph 33(2) and (3).
+
+##### 146 Sentences and offences in respect of which polygraph condition may be imposed
+
+In section 28 of the Offender Management Act 2007 (application of polygraph condition)—
+
+(a) in subsection (3), for paragraphs (a) to (g) substitute—
+
+> (a) a life sentence within the meaning of Chapter 2 of Part 2 of the Crime (Sentences) Act 1997 (see section 34(2) of that Act), or
+>
+> (b) a fixed-term sentence within the meaning of Chapter 6 of Part 12 of the Criminal Justice Act 2003 (see section 237 of that Act) of a term of 12 months or more.
+
+;
+
+(b) in subsection (4), for the words from “means—” to the end substitute
+
+> means an offence specified in any one or more of—
+>
+> (a) Schedule 3 to the Sexual Offences Act 2003 (sexual offences attracting notification requirements),
+>
+> (b) Part 2 of Schedule 15 to the Criminal Justice Act 2003 (sexual offences under the law of England and Wales specified for certain purposes),
+>
+> (c) paragraphs 1 to 21 of Schedule 16 to that Act (sexual offences under the law of Scotland specified for certain purposes), as that Schedule had effect immediately before its repeal on 14 July 2008, and
+>
+> (d) Part 2 of Schedule 17 to that Act (sexual offences under the law of Northern Ireland specified for certain purposes), as that Schedule had effect immediately before its repeal on 14 July 2008.
+
+;
+
+(c) after subsection (4) insert—
+
+> (4ZA) In determining for the purposes of subsection (4) whether an offence is specified in Schedule 3 to the Sexual Offences Act 2003, any limitation in that Schedule referring to the circumstances of a particular case (including the sentence imposed) is to be disregarded.
+
+;
+
+(d) in subsection (4A) (inserted by the Counter-Terrorism and Sentencing Act 2021), omit paragraph (b) (but not the final “or”);
+
+(e) in subsection (4B) (also so inserted), omit paragraph (a);
+
+(f) after subsection (4B) insert—
+
+> (4C) A sentence in respect of a service offence is to be treated for the purposes of this section as if it were a sentence in respect of the corresponding offence.
+>
+> (4D) In subsection (4C)—
+>
+> (a) “service offence” means an offence under—
+>
+> (i) section 42 of the Armed Forces Act 2006,
+>
+> (ii) section 70 of the Army Act 1955 or the Air Force Act 1955, or
+>
+> (iii) section 42 of the Naval Discipline Act 1957;
+>
+> (b) “corresponding offence” means—
+>
+> (i) in relation to an offence under section 42 of the Armed Forces Act 2006, the corresponding offence under the law of England and Wales within the meaning of that section;
+>
+> (ii) in relation to an offence under section 70 of the Army Act 1955 or the Air Force Act 1955, the corresponding civil offence within the meaning of that Act;
+>
+> (iii) in relation to an offence under section 42 of the Naval Discipline Act 1957, the civil offence within the meaning of that section.
+>
+> (4E) Section 48 of the Armed Forces Act 2006 (supplementary provisions relating to ancillary service offences) applies for the purposes of subsection (4D)(b)(i) above as it applies for the purposes of the provisions of that Act referred to in subsection (3)(b) of that section.
+
+##### 147 Minor amendments to do with weapons-related offences
+
+(1) In Schedule 15 to the Criminal Justice Act 2003 (specified offences for certain purposes to do with release of offenders)—
+
+(a) after paragraph 60 insert—
+
+> **60A** An offence under section 47 of the Anti-Terrorism, Crime and Security Act 2001 (use etc of nuclear weapons).
+>
+> **60B** An offence under section 50 of that Act (assisting or inducing certain weapons-related acts overseas).
+
+;
+
+(b) omit paragraphs 163 and 164;
+
+(c) in paragraph 165, for “that Act” substitute “the Anti-Terrorism, Crime and Security Act 2001”.
+
+(2) In Schedule 18 to the Sentencing Code (specified offences for certain sentencing purposes)—
+
+(a) after paragraph 23 insert—
+
+> **23A Anti-Terrorism, Crime and Security Act 2001**
+>
+> An offence under either of the following provisions of the Anti-Terrorism, Crime and Security Act 2001—
+>
+> (a) section 47 (use etc of nuclear weapons);
+>
+> (b) section 50 (assisting or inducing certain weapons-related acts overseas).
+
+;
+
+(b) for paragraph 42 substitute—
+
+> **42** An offence under section 113 of the Anti-Terrorism, Crime and Security Act 2001 (use of noxious substance or thing to cause harm or intimidate).
+
+##### 148 Application of provision about minimum terms to service offences
+
+In section 261A of the Armed Forces Act 2006 (life sentences imposed by Court Martial), at the end insert—
+
+> (5) Schedule 21, as it applies in relation to a sentence passed by the Court Martial, has effect as if a reference to murder included reference to an offence under section 42 as respects which the corresponding offence under the law of England and Wales is murder.
+
+### CHAPTER 2 — Community sentences
+
+#### Community and suspended sentence orders
+
+##### 149 Supervision by responsible officer (prospective)
+
+(1) The Sentencing Code is amended as follows.
+
+(2) In section 215 (community order: duty of offender to keep in touch with responsible officer)—
+
+(a) after subsection (1) insert—
+
+> (1A) In a case where the offender was convicted on or after the day on which section 149 of the Police, Crime, Sentencing and Courts Act 2022 came into force, the responsible officer may from time to time give the offender an instruction to attend an appointment (with the responsible officer or with another person) for the purposes of—
+>
+> (a) the rehabilitation of the offender, or
+>
+> (b) the protection of the public.
+>
+> (1B) The offender must comply with any instruction given by the responsible officer under subsection (1A).
+
+;
+
+(b) in subsection (2), at the beginning insert “In the case of any community order (whenever the offender was convicted)”;
+
+(c) after subsection (2) insert—
+
+> (2A) The powers under subsections (1A) and (2) to give instructions apply even if all the requirements of the community order have been complied with.
+
+;
+
+[^F17]d . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) In section 301 (suspended sentence order: duty of offender to keep in touch with responsible officer)—
+
+(a) after subsection (1) insert—
+
+> (1A) In a case where the offender was convicted on or after the day on which section 149 of the Police, Crime, Sentencing and Courts Act 2022 came into force, the responsible officer may from time to time give the offender an instruction to attend an appointment (with the responsible officer or with another person) for the purposes of—
+>
+> (a) the rehabilitation of the offender, or
+>
+> (b) the protection of the public.
+>
+> (1B) The offender must comply with any instruction given by the responsible officer under subsection (1A).
+
+;
+
+(b) in subsection (2), at the beginning insert “In the case of any suspended sentence order (whenever the offender was convicted)”;
+
+(c) after subsection (2) insert—
+
+> (2A) The powers under subsections (1A) and (2) to give instructions apply even if all the community requirements of the suspended sentence order have been complied with.
+
+;
+
+[^F18]d . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### 150 Increases in maximum daily curfew hours and curfew requirement period
+
+(1) Paragraph 9 of Schedule 9 to the Sentencing Code (community orders and suspended sentence orders: curfew requirement) is amended in accordance with subsections (2) to (5).
+
+(2) In sub-paragraph (4)—
+
+(a) omit the “and” at the end of paragraph (a);
+
+(b) in paragraph (b), for “16 hours” substitute “the relevant number of hours”;
+
+(c) at the end insert
+
+> , and
+>
+> (c) not more than 112 hours in any period of 7 days beginning with the day of the week on which the requirement first takes effect.
+
+(3) After sub-paragraph (4) insert—
+
+> (4A) In sub-paragraph (4) “the relevant number of hours” means—
+>
+> (a) in relation to a relevant order in respect of an offence of which the offender was convicted before the day on which section 150 of the Police, Crime, Sentencing and Courts Act 2022 came into force, 16 hours, and
+>
+> (b) in relation to a relevant order in respect of an offence of which the offender was convicted on or after that day, 20 hours.
+
+(4) In sub-paragraph (5), for the words “the period of 12 months” substitute “the relevant period”.
+
+(5) After sub-paragraph (5) insert—
+
+> (6) In sub-paragraph (5) “the relevant period” means—
+>
+> (a) in relation to a relevant order in respect of an offence of which the offender was convicted before the day on which section 150 of the Police, Crime, Sentencing and Courts Act 2022 came into force, the period of 12 months, and
+>
+> (b) in relation to a relevant order in respect of an offence of which the offender was convicted on or after that day, the period of 2 years.
+
+(6) In paragraph 13 of Schedule 23 to the Sentencing Act 2020 (powers to amend limits in community requirements)—
+
+(a) in sub-paragraph (1)(b), after “9(4)” insert “or (4A)”;
+
+(b) in sub-paragraph (2)(a), for “9(5)” substitute “9(6)”.
+
+(7) The Criminal Justice Act 2003 is amended in accordance with subsections (8) and (9).
+
+[^F19]8 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(9) In Schedule 31 (default orders: modification of provisions relating to community orders), in paragraph 3—
+
+(a) after sub-paragraph (1) insert—
+
+> (1A) Any reference to an offence of which the offender was convicted before, on or after a day is to be read as a reference to a default made by a person before, on or after that day.
+
+;
+
+(b) in sub-paragraph (2)—
+
+(i) for “sub-paragraph (4)” substitute “sub-paragraph (4A)”;
+
+(ii) for “(4A)” substitute “(4B)”.
+
+##### 151 Power for responsible officer to vary curfew requirements etc
+
+(1) The Sentencing Code is amended as follows.
+
+(2) In Part 5 of Schedule 9 (community orders and suspended sentence orders: curfew requirements), after paragraph 10 insert—
+
+> **10A Power of responsible officer to vary curfew requirement**
+>
+> (1) This paragraph applies where—
+>
+> (a) a relevant order is in force,
+>
+> (b) the order is in respect of an offence of which the offender was convicted on or after the day on which section 151 of the Police, Crime, Sentencing and Courts Act 2022 came into force,
+>
+> (c) the order includes a curfew requirement imposed under paragraph 9, and
+>
+> (d) the responsible officer considers that the variation condition is met.
+>
+> (2) The variation condition is met if, having regard to a change in the offender’s circumstances since the relevant order was made, it is appropriate to—
+>
+> (a) vary the start time of any of the curfew periods;
+>
+> (b) vary the relevant place in relation to any of those periods.
+>
+> (3) The responsible officer may, with the consent of the offender, give the offender notice (a “variation notice”) specifying—
+>
+> (a) the new start time of such of the curfew periods as are specified in the notice;
+>
+> (b) the new relevant place for such of the curfew periods as are so specified.
+>
+> (4) The effect of a variation notice is to vary the relevant order as specified in the notice, with effect from the date so specified.
+>
+> (5) A variation notice may specify different variations of the start time, or of the relevant place, for different days.
+>
+> (6) Before giving a variation notice containing provision pursuant to sub-paragraph (3)(b), the responsible officer must obtain and consider information about each place proposed to be specified in the notice.
+>
+> (7) That information must include information as to the attitude of persons likely to be affected by the offender’s enforced presence there.
+>
+> (8) A variation notice must not—
+>
+> (a) vary the length of any of the offender’s curfew periods;
+>
+> (b) in a case where the relevant order includes a residence requirement under paragraph 13, vary the relevant place in a way that is inconsistent with that requirement;
+>
+> (c) make any variation prohibited by sub-paragraph (9).
+>
+> (9) A variation is prohibited by this sub-paragraph if—
+>
+> (a) the relevant order concerned includes an electronic compliance monitoring requirement imposed under paragraph 10(3) (a “monitoring requirement”), and
+>
+> (b) the responsible officer considers that, if the court had made the relevant order imposing the curfew requirement as varied by the variation, the court—
+>
+> (i) would not have imposed the monitoring requirement, or
+>
+> (ii) would have imposed a different monitoring requirement.
+>
+> (10) The responsible officer must give the appropriate court—
+>
+> (a) a copy of a variation notice given under this paragraph, and
+>
+> (b) evidence of the offender’s consent to the notice.
+>
+> (11) In this paragraph—
+>
+> (a) “appropriate court”—
+>
+> (i) in relation to a community order, has the same meaning as in Schedule 10 (see paragraph 1 of that Schedule);
+>
+> (ii) in relation to a suspended sentence order, has the same meaning as in Schedule 16 (see paragraph 1 of that Schedule);
+>
+> (b) “curfew periods”, in relation to a relevant order, means the periods specified in the order under paragraph 9(2)(a);
+>
+> (c) “relevant place”, in relation to a curfew period, means the place specified under paragraph 9(2)(b) at which the offender is required to remain for that period;
+>
+> (d) “start time”, in relation to a curfew period, means the time at which the period is required to start pursuant to the relevant order.
+
+(3) In paragraph 16 of Schedule 10 (amendment of community order because of change of residence), after sub-paragraph (2) insert—
+
+> (3) If the permission is given by the responsible officer—
+>
+> (a) the officer must give notice to the appropriate court of the permission, and
+>
+> (b) the court must amend the order as set out in sub-paragraph (2).
+
+(4) After paragraph 17 of that Schedule insert—
+
+> **17A Amendment because of variation of curfew requirement by responsible officer**
+>
+> (1) This paragraph applies where at any time the responsible officer gives—
+>
+> (a) a copy of a variation notice in relation to a community order, and
+>
+> (b) evidence of the offender’s consent to the notice,
+>
+> to the appropriate court under paragraph 10A of Schedule 9.
+>
+> (2) The appropriate court must amend the order to reflect the effect of the variation notice.
+
+(5) In paragraph 23 of Schedule 16 (amendment of suspended sentence order) because of change of residence), after sub-paragraph (2) insert—
+
+> (3) If the permission is given by the responsible officer—
+>
+> (a) the officer must give notice to the appropriate court of the permission, and
+>
+> (b) the court must amend the suspended sentence order as set out in sub-paragraph (2).
+
+(6) After paragraph 24 of that Schedule insert—
+
+> **24A Amendment because of variation of curfew requirement by responsible officer**
+>
+> (1) This paragraph applies where at any time the responsible officer gives—
+>
+> (a) a copy of a variation notice in relation to a suspended sentence order, and
+>
+> (b) evidence of the offender’s consent to the notice,
+>
+> to the appropriate court under paragraph 10A of Schedule 9.
+>
+> (2) The appropriate court must amend the order to reflect the effect of the variation notice.
+
+##### 152 Removal of attendance centre requirements for adults
+
+(1) The Sentencing Code is amended in accordance with subsections (2) to (4).
+
+(2) In section 207(3) (community orders: availability of attendance centre requirement), for the words from “the offender” to the end substitute
+
+> —
+>
+> (a) the offender was convicted of the offence before the day on which section 152 of the Police, Crime, Sentencing and Courts Act 2022 came into force, and
+>
+> (b) the offender was aged under 25 when convicted of the offence.
+
+(3) In section 291(3) (suspended sentence orders: availability of attendance centre requirement), for the words from “the offender” to the end substitute
+
+> —
+>
+> (a) the offender was convicted of the offence before the day on which section 152 of the Police, Crime, Sentencing and Courts Act 2022 came into force, and
+>
+> (b) the offender was aged under 25 when convicted of the offence.
+
+(4) In Schedule 9 (community orders and suspended sentence orders: requirements), in the heading to Part 13, after “Attendance centre requirement” insert “: offenders convicted before the day on which section 152 of the Police, Crime, Sentencing and Courts Act 2022 came into force”.
+
+(5) Schedule 13 contains related amendments.
+
+##### 153 Special procedures relating to review and breach
+
+Schedule 14 makes provision for, and in relation to, the powers of courts—
+
+(a) to review community and suspended sentence orders, and
+
+(b) to commit an offender to custody for breach of a community or suspended sentence order.
+
+##### 154 Drug testing requirement
+
+Schedule 15 amends the Sentencing Code to make provision for a drug testing requirement in community orders and suspended sentence orders.
+
+#### Unpaid work requirements
+
+##### 155 Duty to consult on unpaid work requirements
+
+After section 10 of the Offender Management Act 2007 insert—
+
+> **10A Duty to consult on unpaid work requirements**
+>
+> (1) Each provider of probation services must, in each calendar year, consult the prescribed persons about the work to be performed by persons who—
+>
+> (a) are subject to unpaid work requirements, and
+>
+> (b) are supervised by that provider.
+>
+> (2) In this section “prescribed person” means a person, or a person of a description, prescribed by regulations made by the Secretary of State.
+>
+> (3) In this section “unpaid work requirement” means an unpaid work requirement as defined by—
+>
+> (a) paragraph 10(1) of Schedule 6 to the Sentencing Code (youth rehabilitation orders),
+>
+> (b) paragraph 1(1) of Schedule 9 to the Sentencing Code (community orders and suspended sentence orders), or
+>
+> (c) paragraph 3A(1) of Schedule A1 to the Children Act 1989 (enforcement orders).
+>
+> (4) For the purposes of this section a person is supervised by a provider of probation services if an officer of that provider has functions relating to the person’s compliance with an unpaid work requirement.
+
+### CHAPTER 3 — Assaults on those providing a public service etc
+
+#### 156 Assaults on those providing a public service etc
+
+In the Sentencing Act 2020, after section 68 insert—
+
+> **68A Assaults on those providing a public service etc**
+>
+> (1) This section applies where—
+>
+> (a) a court is considering the seriousness of an offence listed in subsection (3), and
+>
+> (b) the offence is not aggravated under section 67(2).
+>
+> (2) If the offence was committed against a person providing a public service, performing a public duty or providing services to the public, the court—
+>
+> (a) must treat that fact as an aggravating factor, and
+>
+> (b) must state in open court that the offence is so aggravated.
+>
+> (3) The offences referred to in subsection (1) are—
+>
+> (a) an offence of common assault or battery, except where section 1 of the Assaults on Emergency Workers (Offences) Act 2018 applies;
+>
+> (b) an offence under any of the following provisions of the Offences against the Person Act 1861—
+>
+> (i) section 16 (threats to kill);
+>
+> (ii) section 18 (wounding with intent to cause grievous bodily harm);
+>
+> (iii) section 20 (malicious wounding);
+>
+> (iv) section 47 (assault occasioning actual bodily harm);
+>
+> (c) an inchoate offence in relation to any of the preceding offences.
+>
+> (4) In this section—
+>
+> (a) a reference to providing services to the public includes a reference to providing goods or facilities to the public;
+>
+> (b) a reference to the public includes a reference to a section of the public.
+>
+> (5) Nothing in this section prevents a court from treating the fact that an offence was committed against a person providing a public service, performing a public duty or providing services to the public as an aggravating factor in relation to offences not listed in subsection (3).
+>
+> (6) This section has effect in relation to a person who is convicted of the offence on or after the date on which section 156 of the Police, Crime, Sentencing and Courts Act 2022 comes into force.
+
+## PART 8 — Youth justice
+
+### Youth remand
+
+#### 157 Youth remand
+
+(1) The Legal Aid, Sentencing and Punishment of Offenders Act 2012 is amended as follows.
+
+(2) In section 91 (remands of children otherwise than on bail), after subsection (4) insert—
+
+> (4A) Before deciding whether to remand a child to youth detention accommodation in accordance with section 102 the court must consider the interests and welfare of the child.
+
+(3) In section 98 (first set of conditions for a remand to youth detention accommodation)—
+
+(a) in subsection (1), after paragraph (a) insert—
+
+> (aa) the sentencing condition (see subsection (2A)),
+
+;
+
+(b) after subsection (2) insert—
+
+> (2A) The sentencing condition is that it appears to the court that it is very likely that the child will be sentenced to a custodial sentence for the offence mentioned in section 91(1) or one or more of those offences.
+
+;
+
+(c) in subsection (4), at the end (after paragraph (b)) insert “, and that the risks posed by the child cannot be managed safely in the community”.
+
+(4) In section 99 (second set of conditions for a remand to youth detention accommodation)—
+
+(a) in subsection (3), for “there is a real prospect” substitute “it is very likely”;
+
+(b) in subsection (5)(a)—
+
+(i) after “recent” insert “and significant”;
+
+(ii) after “remand” insert “, and it appears to the court that the history is relevant in all the circumstances of the case”;
+
+(c) in subsection (6)—
+
+(i) after “recent” insert “and significant”;
+
+(ii) after “remand” insert “, and this appears to the court relevant in all the circumstances of the case”;
+
+(d) in subsection (7), at the end (after paragraph (b)) insert “, and that the risks posed by the child cannot be managed safely in the community”.
+
+(5) In section 100 (first set of conditions for a remand to youth detention accommodation: extradition cases)—
+
+(a) in subsection (1), after paragraph (a) insert—
+
+> (aa) the sentencing condition (see subsection (2A)),
+
+;
+
+(b) after subsection (2) insert—
+
+> (2A) The sentencing condition is that it appears to the court that, if the child were convicted in England and Wales of an offence equivalent to the offence to which the extradition proceedings relate or one or more of those offences, it is very likely that the child would be sentenced to a custodial sentence for that offence or those offences.
+
+;
+
+(c) in subsection (4), at the end (after paragraph (b)) insert “, and that the risks posed by the child cannot be managed safely in the community”.
+
+(6) In section 101 (second set of conditions for a remand to youth detention accommodation: extradition cases)—
+
+(a) in subsection (3), for “there would be a real prospect” substitute “it is very likely”;
+
+(b) in subsection (5)(a)—
+
+(i) after “recent” insert “and significant”;
+
+(ii) after “remand,” insert “and it appears to the court that the history is relevant in all the circumstances of the case,”;
+
+(c) in subsection (6)—
+
+(i) after “recent” insert “and significant”;
+
+(ii) after “remand” insert “, and this appears to the court relevant in all the circumstances of the case”;
+
+(d) in subsection (7), at the end (after paragraph (b)) insert “, and that the risks posed by the child cannot be managed safely in the community”.
+
+(7) In section 102 (remands to youth detention accommodation)—
+
+(a) in subsection (4), before paragraph (a) insert—
+
+> (za) state in open court that it has considered subsections (3) and (4A) of section 91,
+
+;
+
+(b) in subsection (5), before paragraph (a) insert—
+
+> (za) is given in writing to—
+>
+> (i) the child,
+>
+> (ii) any legal representative of the child, and
+>
+> (iii) any youth offending team which appears to the court to have functions in relation to the child,
+
+.
+
+### Detention and training orders
+
+#### 158 Discretion as to length of term
+
+In section 236(1) of the Sentencing Code (term of detention and training order), for “4, 6, 8, 10, 12, 18 or 24 months” substitute “at least 4 months but must not exceed 24 months”.
+
+#### 159 Consecutive detention and training order and sentence of detention: effect of early release decision
+
+(1) In section 237 of the Sentencing Code (making of detention and training order where offender subject to other order or sentence of detention), omit subsection (5).
+
+(2) In section 241 of that Code (period of detention and training), after subsection (5) insert—
+
+> (5A) Where the offender is also subject to a sentence of any of the following kinds that is to take effect, by virtue of an order to which subsection (7) applies, when the offender would otherwise be released for supervision—
+>
+> (a) a sentence of detention under section 250 or 252A,
+>
+> (b) a sentence of detention under section 209 or 224A of the Armed Forces Act 2006, or
+>
+> (c) an extended sentence of detention under section 254 (including one passed as a result of section 221A of the Armed Forces Act 2006),
+>
+> subsection (4) is to be read as if, instead of conferring a power to release the offender, it conferred a power to determine that the Secretary of State would, but for the sentence concerned, have released the offender.
+
+(3) In section 264AA of the Criminal Justice Act 2003 (consecutive terms: detention and training orders), after subsection (1) insert—
+
+> (1A) In a case where the detention and training order was made on or after the day on which section 159 of the Police, Crime, Sentencing and Courts Act 2022 came into force, section 246(1)(a) is to be read as if, instead of conferring a power to release the offender, it conferred a power to determine that the Secretary of State would, but for the detention and training order, have directed the offender’s release under that section.
+
+#### 160 Detention and training orders: time to count as served
+
+Schedule 16 makes provision in relation to the treatment of time spent remanded in custody or on bail as time served in relation to detention and training orders.
+
+### Youth rehabilitation orders
+
+#### 161 Youth rehabilitation orders
+
+(1) Schedule 17 contains amendments to provisions of the Criminal Justice and Immigration Act 2008 and the Sentencing Act 2020 which relate to youth rehabilitation orders.
+
+(2) In the following provisions of this section, “the relevant YRO provisions” means—
+
+(a) Parts 2 and 3 of Schedule 17, and
+
+(b) subsection (1) of this section so far as relating to those Parts.
+
+(3) Regulations under section 208(1) which bring any of the relevant YRO provisions into force only for a specified purpose or in relation to a specified area may—
+
+(a) provide for that provision to be in force for that purpose or in relation to that area for a specified period, and
+
+(b) make transitional or saving provision in connection with that provision ceasing to be in force at the end of the specified period.
+
+(4) Regulations containing provision by virtue of subsection (3)(a) may be amended by subsequent regulations under section 208(1) so as to continue any of the relevant YRO provisions in force for the specified purpose or in relation to the specified area for a further specified period.
+
+(5) Accordingly, the reference to section 419(1) of the Sentencing Act 2020, as applied by section 206, to the coming into force of an amendment is to be read as including a reference to the continuing in force of an amendment by reason of subsection (4).
+
+(6) In subsections (3) and (4), “specified” means specified in regulations under section 208(1).
+
+(7) Subsection (8) applies if—
+
+(a) the Secretary of State has made regulations under section 208(1) which make provision permitted by subsection (3), and
+
+(b) the Secretary of State subsequently makes regulations under section 208(1) which bring any of the relevant YRO provisions into force without making provision permitted by subsection (3).
+
+(8) The regulations mentioned in subsection (7)(b) may—
+
+(a) provide that those provisions are to come into force with the amendments specified in the regulations;
+
+(b) make amendments to the Criminal Justice and Immigration Act 2008 or the Sentencing Act 2020 in consequence of the amendments made by paragraph (a).
+
+(9) A statutory instrument containing regulations under section 208(1) which make provision permitted by subsection (8) (whether alone or with other provision) may not be made unless a draft of the instrument has been laid before and approved by a resolution of each House of Parliament.
+
+### Abolition of reparation orders
+
+#### 162 Abolition of reparation orders
+
+In section 110(1) of the Sentencing Code (availability of reparation order), before paragraph (a) insert—
+
+> (za) the offender is convicted of the offence before the day on which section 162 of the Police, Crime, Sentencing and Courts Act 2022 comes into force,
+
+.
+
+## PART 9 — Secure children's homes and secure 16 to 19 Academies
+
+### 163 Temporary release from secure children’s homes
+
+(1) This section applies to a person who is detained in a secure children’s home in pursuance of—
+
+(a) a sentence of detention,
+
+(b) a detention and training order or a further detention order,
+
+(c) a detention order under Schedule 5A to the Policing and Crime Act 2009 (breach of gang injunction), or
+
+(d) a detention order under Schedule 2 to the Anti-social Behaviour, Crime and Policing Act 2014 (breach of anti-social behaviour injunction).
+
+(2) The Secretary of State or the manager of the home may temporarily release a person to whom this section applies.
+
+(3) A temporary release under this section may be granted subject to conditions.
+
+(4) A person who is temporarily released under this section may be recalled at any time by the Secretary of State or the manager of the home (irrespective of which of those granted the release).
+
+(5) A manager of a secure children’s home must have regard to any guidance issued by the Secretary of State about the use of powers of temporary release under this section.
+
+(6) In this section—
+
+- “detention and training order” has the same meaning as in the Sentencing Code (see section 233 of that Code) and includes an order made under section 100 of the Powers of Criminal Courts (Sentencing) Act 2000 or section 211 of the Armed Forces Act 2006;
+
+- “further detention order” has the same meaning as in Schedule 12 to the Sentencing Code (see paragraph 1 of that Schedule) and includes an order made under section 104(3) of the Powers of Criminal Courts (Sentencing) Act 2000 and a further detention order made by virtue of section 213 of the Armed Forces Act 2006;
+
+- “manager”—
+
+  - in relation to a secure children’s home in England, means the person who is registered under Part 2 of the Care Standards Act 2000 as the manager of the home or, in a case where no such person is registered, the person who is registered under that Part as the person who carries on the home;
+  - in relation to a secure children’s home in Wales, means the person who is designated as the responsible individual in respect of the home for the purposes of Part 1 of the Regulation and Inspection of Social Care (Wales) Act 2016;
+
+- “secure children’s home”—
+
+  - in relation to England, means a children’s home, within the meaning of section 1 of the Care Standards Act 2000, which provides accommodation for the purposes of restricting liberty;
+  - in relation to Wales, means residential premises which provide a secure accommodation service within the meaning of Part 1 of the Regulation and Inspection of Social Care (Wales) Act 2016 (anaw 2).
+
+(7) In section 49 of the Prison Act 1952 (persons unlawfully at large), after subsection (4) insert—
+
+> (4ZA) For the purposes of this section a person who, after being temporarily released in pursuance of section 163 of the Police, Crime, Sentencing and Courts Act 2022 (temporary release from a secure children’s home), is at large at any time during the period for which they are liable to be detained pursuant to their sentence shall be deemed to be unlawfully at large if the period for which they were temporarily released has expired or if they have been recalled under that section.
+
+### 164 Secure 16 to 19 Academies
+
+(1) In section 1B of the Academies Act 2010 (16 to 19 Academies), at the end insert—
+
+> (4) A 16 to 19 Academy may provide secure accommodation for its students, but only if it is approved to do so by the Secretary of State.
+>
+> (5) “Secure accommodation” means accommodation that is provided for the purpose of restricting liberty.
+>
+> (6) The Secretary of State may grant approval under subsection (4) subject to conditions.
+>
+> (7) A 16 to 19 Academy which provides secure accommodation for its students is to be known as a secure 16 to 19 Academy.
+
+(2) In section 12 of that Act (charitable and trust corporation status of Academy proprietors etc), at the end insert—
+
+> (5) The setting up, establishment and running of a secure 16 to 19 Academy is to be treated as a charitable purpose that falls within the description in section 3(1)(b) of the Charities Act 2011 (advancement of education) for the purposes of—
+>
+> (a) this section,
+>
+> (b) the Charities Act 2011, and
+>
+> (c) any other enactment that applies (in whatever way) the definition of “charitable purpose” in section 2 of that Act.
+>
+> (6) But subsection (5) is to be disregarded in determining, in accordance with section 3(1)(m) of the Charities Act 2011, whether a purpose may be regarded as analogous to, or within the spirit of, a purpose falling within paragraph (b) of section 3(1) of that Act.
+
+(3) In section 248(1) of the Sentencing Code (meaning of “youth detention accommodation”), after paragraph (b) insert—
+
+> (ba) a secure 16 to 19 Academy,
+
+.
+
+(4) In the Children’s Homes (England) Regulations 2015 (S.I. 2015/541)—
+
+(a) in regulation 2 (interpretation), in paragraph (1), in the definition of “secure children’s home”—
+
+(i) after “means” insert
+
+> —
+>
+> - 
+
+;
+
+(ii) at the end insert
+
+> ; or
+>
+> - a secure 16 to 19 Academy (see section 1B(4) to (7) of the Academies Act 2010);
+
+;
+
+(b) in regulation 3 (excepted establishments)—
+
+(i) in paragraph (1)(b), for “as” substitute “other than a secure 16 to 19 Academy, as those terms are”;
+
+(ii) omit paragraph (1A).
+
+## PART 10 — Management of offenders
+
+### CHAPTER 1 — Serious violence reduction orders
+
+#### 165 Serious violence reduction orders
+
+(1) In Part 11 of the Sentencing Code (behaviour orders) after Chapter 1 insert—
+
+> **CHAPTER 1A — Serious violence reduction orders**
+>
+> **342A Power to make serious violence reduction order**
+>
+> (1) This section applies where—
+>
+> (a) a person aged 18 or over (“the offender”) is convicted of an offence which was committed on or after the first appointed day, and
+>
+> (b) the prosecution makes an application to the court for a serious violence reduction order to be made in respect of the offender.
+>
+> (2) Subject to subsection (6), the court may make a serious violence reduction order in respect of the offender if—
+>
+> (a) the condition in subsection (3) or (4) is met, and
+>
+> (b) the condition in subsection (5) is met.
+>
+> (3) The condition in this subsection is that the court is satisfied on the balance of probabilities that—
+>
+> (a) a bladed article or offensive weapon was used by the offender in the commission of the offence, or
+>
+> (b) the offender had a bladed article or offensive weapon with them when the offence was committed.
+>
+> (4) The condition in this subsection is that the court is satisfied on the balance of probabilities that—
+>
+> (a) a bladed article or offensive weapon was used by another person in the commission of the offence and the offender knew or ought to have known that this would be the case, or
+>
+> (b) another person who committed the offence had a bladed article or offensive weapon with them when the offence was committed and the offender knew or ought to have known that this would be the case.
+>
+> (5) The condition in this subsection is that the court considers it necessary to make a serious violence reduction order in respect of the offender to—
+>
+> (a) protect the public in England and Wales from the risk of harm involving a bladed article or offensive weapon,
+>
+> (b) protect any particular members of the public in England and Wales (including the offender) from such risk, or
+>
+> (c) prevent the offender from committing an offence involving a bladed article or offensive weapon.
+>
+> (6) The court may make a serious violence reduction order in respect of the offender only if it—
+>
+> (a) does so in addition to dealing with the offender for the offence, and
+>
+> (b) does not make an order for absolute discharge under section 79 in respect of the offence.
+>
+> (7) For the purpose of deciding whether to make a serious violence reduction order the court may consider evidence led by the prosecution and evidence led by the offender.
+>
+> (8) It does not matter whether the evidence would have been admissible in the proceedings in which the offender was convicted.
+>
+> (9) The court may adjourn any proceedings on an application for a serious violence reduction order even after sentencing the offender.
+>
+> (10) If the offender does not appear for any adjourned proceedings the court may—
+>
+> (a) further adjourn the proceedings,
+>
+> (b) issue a warrant for the offender’s arrest, or
+>
+> (c) hear the proceedings in the offender’s absence.
+>
+> (11) The court may not act under subsection (10)(b) unless it is satisfied that the offender has had adequate notice of the time and place of the adjourned proceedings.
+>
+> (12) The court may not act under subsection (10)(c) unless it is satisfied that the offender—
+>
+> (a) has had adequate notice of the time and place of the adjourned proceedings, and
+>
+> (b) has been informed that if the offender does not appear for those proceedings the court may hear the proceedings in the offender’s absence.
+>
+> (13) On making a serious violence reduction order the court must in ordinary language explain to the offender—
+>
+> (a) the effects of the order, and
+>
+> (b) the powers that a constable has in respect of the offender under section 342E while the order is in effect.
+>
+> (14) In subsection (1)(a) “the first appointed day” means the first day appointed by regulations under section 208(1) of the Police, Crime, Sentencing and Courts Act 2022 for the coming into force to any extent of section 165 of that Act.
+>
+> (15) In subsection (4) the references to the offence include references to any offence arising out of the same facts as the offence.
+>
+> **342B Meaning of “serious violence reduction order”**
+>
+> (1) In this Chapter, “serious violence reduction order” means an order made in respect of an offender that imposes on the offender—
+>
+> (a) the requirements specified in subsections (2) and (4), and
+>
+> (b) the requirements and prohibitions, if any, specified in regulations made by the Secretary of State for the purposes of this section.
+>
+> (2) The offender must be required to notify the information in subsection (3) to the police within the period of 3 days beginning with the day on which the order takes effect.
+>
+> (3) That information is—
+>
+> (a) the offender’s name on the day that the notification is given and, where the offender uses one or more other names on that day, each of those names,
+>
+> (b) the offender’s home address on that day, and
+>
+> (c) the address of any other premises at which, on that day, the offender regularly resides or stays.
+>
+> (4) The offender must be required to notify the information mentioned in subsection (5) to the police within the period of 3 days beginning with the day on which the offender—
+>
+> (a) uses a name which has not been previously notified to the police in accordance with the order,
+>
+> (b) changes their home address, or
+>
+> (c) decides to live for a period of one month or more at any premises the address of which has not been previously notified to the police in accordance with the order.
+>
+> (5) That information is—
+>
+> (a) in a case within subsection (4)(a), the name which has not previously been notified,
+>
+> (b) in a case within subsection (4)(b), the new home address, and
+>
+> (c) in a case within subsection (4)(c), the address of the premises at which the offender has decided to live.
+>
+> (6) A serious violence reduction order must provide that the offender gives a notification of the kind mentioned in subsection (2) or (4) by—
+>
+> (a) attending at a police station in a police area in which the offender lives, and
+>
+> (b) giving an oral notification to a police officer, or to any person authorised for the purpose by the officer in charge of the station.
+>
+> (7) The Secretary of State may make regulations under subsection (1)(b) only if—
+>
+> (a) the Secretary of State has laid a report before Parliament under section 166(3) of the Police, Crime, Sentencing and Courts Act 2022 (report to be laid after piloting of serious violence reduction orders), and
+>
+> (b) the Secretary of State considers that it is appropriate to make the regulations for the purpose of assisting constables to exercise the powers conferred by section 342E.
+>
+> (8) Regulations under subsection (1)(b) are subject to the affirmative resolution procedure.
+>
+> (9) In this section, “home address”, in relation to the offender, means—
+>
+> (a) the address of the offender’s sole or main residence, or
+>
+> (b) if the offender has no such residence, the address or location of a place where the offender can regularly be found and, if there is more than one such place, such one of those places as the offender may select.
+>
+> **342C Serious violence reduction orders: additional requirements etc**
+>
+> (1) A serious violence reduction order may impose on the offender any requirement or prohibition specified in regulations made by the Secretary of State for the purposes of this section if the condition in subsection (2) is met.
+>
+> (2) The condition in this subsection is that the court considers it appropriate for the order to impose the requirement or prohibition on the offender for the purpose of assisting constables to exercise the powers conferred by section 342E in respect of the offender.
+>
+> (3) Regulations under this section may be made only after the Secretary of State has laid a report before Parliament under section 166(3) of the Police, Crime, Sentencing and Courts Act 2022 (report to be laid after piloting of serious violence reduction orders).
+>
+> (4) Regulations under this section are subject to the affirmative resolution procedure.
+>
+> **342D Duration of serious violence reduction orders**
+>
+> (1) A serious violence reduction order takes effect on the day it is made, subject to subsections (3) and (4).
+>
+> (2) A serious violence reduction order must specify the period for which it has effect, which must be a fixed period of not less than 6 months and not more than 2 years.
+>
+> (3) Subsection (4) applies in relation to a serious violence reduction order if—
+>
+> (a) the offender has been remanded in or committed to custody by an order of a court, or
+>
+> (b) a custodial sentence has been imposed on the offender or the offender is serving or otherwise subject to a such a sentence.
+>
+> (4) The order may provide that it does not take effect until the offender is released from custody or ceases to be subject to a custodial sentence.
+>
+> (5) Where a court makes a serious violence reduction order and the offender is already subject to such an order, the earlier order ceases to have effect.
+>
+> **342E Serious violence reduction orders: powers of constables**
+>
+> (1) This section applies where a serious violence reduction order is in effect.
+>
+> (2) A constable may search the offender for the purpose of ascertaining whether the offender has a bladed article or an offensive weapon with them.
+>
+> (3) A constable may detain the offender for the purpose of carrying out the search.
+>
+> (4) A constable may seize anything that the constable finds in the course of the search if the constable reasonably suspects it to be a bladed article or an offensive weapon.
+>
+> (5) The powers in this section may be exercised only while the offender is in a public place.
+>
+> (6) A constable may use reasonable force, if necessary, for the purpose of exercising a power conferred by this section.
+>
+> (7) The powers conferred on a constable by this section are additional to powers which the constable has at common law or by virtue of any other enactment and does not affect those powers.
+>
+> **342F Retention and disposal of things seized under section 342E**
+>
+> (1) Any thing seized by a constable under section 342E may be retained in accordance with regulations made by the Secretary of State under this section.
+>
+> (2) The Secretary of State may by regulations make provision—
+>
+> (a) regulating the retention and safekeeping of things seized by a constable under section 342E, and
+>
+> (b) regulating the disposal and destruction of such things in such circumstances as the regulations may prescribed.
+>
+> (3) Regulations under this section are subject to the negative resolution procedure.
+>
+> **342G Offences relating to a serious violence reduction order**
+>
+> (1) Where a serious violence reduction order is in effect, the offender commits an offence if the offender—
+>
+> (a) fails without reasonable excuse to do anything the offender is required to do by the order,
+>
+> (b) without reasonable excuse does anything the offender is prohibited from doing by the order,
+>
+> (c) notifies to the police, in purported compliance with the order, any information which the offender knows to be false,
+>
+> (d) tells a constable that they are not subject to a serious violence reduction order, or
+>
+> (e) intentionally obstructs a constable in the exercise of any power conferred by section 342E.
+>
+> (2) A person guilty of an offence under this section is liable—
+>
+> (a) on summary conviction, to imprisonment for a term not exceeding 12 months, or a fine, or both;
+>
+> (b) on conviction on indictment, to imprisonment for a term not exceeding 2 years, or a fine, or both.
+>
+> (3) In relation to an offence committed before the coming into force of paragraph 24(2) of Schedule 22 (maximum sentence that may be imposed on summary conviction of offence triable either way) the reference in subsection (2)(a) to 12 months is to be read as a reference to 6 months.
+>
+> (4) If a person is convicted of an offence under this section, an order for conditional discharge under section 80 is not available to the court by or before which the person is convicted.
+>
+> **342H Variation, renewal or discharge of serious violence reduction order**
+>
+> (1) A person within subsection (2) may apply to the appropriate court for an order varying, renewing or discharging a serious violence reduction order.
+>
+> (2) Those persons are—
+>
+> (a) the offender;
+>
+> (b) the chief officer of police for the police area in which the offender lives;
+>
+> (c) the chief officer of police for the police area in which the offender committed the offence on the basis of which the order was made;
+>
+> (d) a chief officer of police who believes that the offender is in, or is intending to come to, the chief officer’s police area;
+>
+> (e) where the offence on the basis of which the order was made is an offence to which this paragraph applies, the chief constable of the British Transport Police Force.
+>
+> (3) Paragraph (e) of subsection (2) applies to an offence which—
+>
+> (a) was committed at, or in relation to, a place within section 31(1)(a) to (f) of the Railways and Transport Safety Act 2003 (jurisdiction of British Transport Police Force), or
+>
+> (b) otherwise related to a railway within the meaning given by section 67 of the Transport and Works Act 1992 or a tramway within the meaning given by that section.
+>
+> (4) An application under this section must be made in accordance with rules of court.
+>
+> (5) Before making a decision on an application under this section, the court must hear—
+>
+> (a) the person making the application, and
+>
+> (b) any other person within subsection (2) who wishes to be heard.
+>
+> (6) Subject to subsection (7), on an application under this section the court may make such order varying, renewing or discharging the serious violence reduction order as it thinks appropriate.
+>
+> (7) The court may renew a serious violence reduction order, or vary such an order so as to lengthen its duration, only if it considers that to do so is necessary—
+>
+> (a) to protect the public in England and Wales from the risk of harm involving a bladed article or offensive weapon,
+>
+> (b) to protect any particular members of the public in England and Wales (including the offender) from such risk, or
+>
+> (c) to prevent the offender from committing an offence involving a bladed article or offensive weapon.
+>
+> (8) On making an order under this section varying or renewing a serious violence reduction order, the court must in ordinary language explain to the offender—
+>
+> (a) the effects of the serious violence reduction order (as varied or renewed), and
+>
+> (b) the powers that a constable has in respect of the offender under section 342E while the serious violence reduction order is in effect.
+>
+> (9) In this section the “appropriate court” means—
+>
+> (a) where the Crown Court or the Court of Appeal made the serious violence reduction order, the Crown Court;
+>
+> (b) where a magistrates’ court made the serious violence reduction order and the application is made by the offender or the chief constable of the British Transport Police Force—
+>
+> (i) that magistrates’ court, or
+>
+> (ii) a magistrates’ court for the area in which the offender lives;
+>
+> (c) where a magistrates’ court made the serious violence reduction order and the application is made by a chief officer of police—
+>
+> (i) that magistrates’ court,
+>
+> (ii) a magistrates’ court for the area in which the offender lives, or
+>
+> (iii) a magistrates’ court acting for a local justice area that includes any part of the chief officer’s police area.
+>
+> **342I Appeal against serious violence reduction order etc**
+>
+> (1) An appeal against the making of a serious violence reduction order may be brought by the offender as if the order were a sentence passed on the offender for an offence.
+>
+> (2) Where an application is made under section 342H for an order varying, renewing or discharging a serious violence reduction order—
+>
+> (a) the person who made the application may appeal against a refusal to make an order under that section;
+>
+> (b) the offender may appeal against the making of an order under that section which was made on the application of a chief officer of police or the chief constable of the British Transport Police Force;
+>
+> (c) a chief officer of police within subsection (2) of that section may appeal against the making of an order under that section which was made on the application of the offender;
+>
+> (d) where the offence on the basis of which the serious violence reduction order was made is an offence to which this paragraph applies, the chief constable of the British Transport Police Force may appeal against the making of an order under that section which was made on the application of the offender.
+>
+> (3) Paragraph (d) of subsection (2) applies to an offence which—
+>
+> (a) was committed at, or in relation to, a place within section 31(1)(a) to (f) of the Railways and Transport Safety Act 2003 (jurisdiction of British Transport Police Force), or
+>
+> (b) otherwise related to a railway within the meaning given by section 67 of the Transport and Works Act 1992 or a tramway within the meaning given by that section.
+>
+> (4) An appeal under subsection (2)—
+>
+> (a) is to be made to the Court of Appeal if the application under section 342H was made to the Crown Court;
+>
+> (b) is to be made to the Crown Court in any other case.
+>
+> (5) On an appeal under subsection (2) to the Crown Court, the court may make—
+>
+> (a) such orders as may be necessary to give effect to its determination of the appeal, and
+>
+> (b) such incidental and consequential orders as appear to it to be appropriate.
+>
+> **342J Guidance**
+>
+> (1) The Secretary of State may issue guidance to—
+>
+> (a) constables,
+>
+> (b) chief officers of police, and
+>
+> (c) the chief constable of the British Transport Police Force,
+>
+> in relation to serious violence reduction orders.
+>
+> (2) The guidance may in particular include—
+>
+> (a) guidance about the exercise by constables, chief officers of police and the chief constable of the British Transport Police Force of their functions under this Chapter,
+>
+> (b) guidance about identifying offenders in respect of whom it may be appropriate for applications for serious violence reduction orders to be made, and
+>
+> (c) guidance about providing assistance to prosecutors in connection with applications for serious violence reduction orders.
+>
+> (3) The Secretary of State may revise any guidance issued under this section.
+>
+> (4) The Secretary of State must arrange for any guidance issued under this section to be published.
+>
+> (5) A constable, chief officer of police or the chief constable of the British Transport Police Force must have regard to any guidance issued under this section.
+>
+> **342K Guidance: Parliamentary procedure**
+>
+> (1) Before issuing guidance under section 342J, the Secretary of State must lay a draft of the guidance before Parliament.
+>
+> (2) If, within the 40-day period, either House of Parliament resolves not to approve the draft guidance, the guidance may not be issued.
+>
+> (3) If no such resolution is made within that period, the Secretary of State may issue the guidance.
+>
+> (4) In this section “the 40-day period”, in relation to draft guidance, means the period of 40 days beginning with the day on which the draft is laid before Parliament (or, if it is not laid before each House on the same day, the later of the days on which it is laid).
+>
+> (5) In calculating the 40-day period, no account is to be taken of any period during which—
+>
+> (a) Parliament is dissolved or prorogued, or
+>
+> (b) both Houses are adjourned for more than 4 days.
+>
+> **342L Serious violence reduction orders: interpretation**
+>
+> In this Chapter—
+>
+> - “bladed article” means an article to which section 139 of the Criminal Justice Act 1988 applies;
+>
+> - “custodial sentence” includes a pre-Code custodial sentence (see section 222(4));
+>
+> - “harm” includes physical and psychological harm;
+>
+> - “offensive weapon” has the same meaning as in section 1(4) of the Prevention of Crime Act 1953;
+>
+> - “public place” means—
+>
+>   - any place to which the public or any section of the public has access, on payment or otherwise, as of right or by virtue of express or implied permission, or
+>   - any other place to which people have ready access but which is not a dwelling;
+>
+> - “the offender”, in relation to a serious violence reduction order, means the offender in respect of whom the order or the application for the order has been made.
+
+(2) In section 80(3) of the Sentencing Code (list of circumstances where an order for conditional discharge is not available) after paragraph (d) insert—
+
+> (da) section 342G(4) (offences relating to a serious violence reduction order);
+
+.
+
+(3) In section 3(2) of the Prosecution of Offences Act 1985 (functions of the Director of Public Prosecutions) after paragraph (fg) insert—
+
+> (fh) to have the conduct of applications for orders under section 342A of the Sentencing Code (serious violence reduction orders);
+
+.
+
+#### 166 Serious violence reduction orders: piloting
+
+(1) The Secretary of State may exercise the power in section 208(1) so as to bring section 165 into force—
+
+(a) for all purposes, and
+
+(b) in relation to the whole of England and Wales,
+
+only if the conditions in subsections (2) and (3) are met.
+
+(2) The condition in this subsection is that regulations under section 208(1) have brought section 165 into force only—
+
+(a) for one or more specified purposes, or
+
+(b) in relation to one or more specified areas.
+
+(3) The condition in this subsection is that the Secretary of State has laid before Parliament a report on the operation of Chapter 1A of Part 11 of the Sentencing Code (inserted by section 165)—
+
+(a) for one or more of those purposes, or
+
+(b) in relation to one or more of those areas.
+
+(4) A report under subsection (3) must in particular include—
+
+(a) information about the number of offenders in respect of whom serious violence reduction orders have been made;
+
+(b) information about the offences that were the basis for applications as a result of which serious violence reduction orders were made;
+
+(c) information about the exercise by constables of the powers in section 342E of the Sentencing Code (serious violence reduction orders: powers of constables);
+
+(d) an assessment of the impact of the operation of Chapter 1A of Part 11 of the Sentencing Code on people with protected characteristics (within the meaning of the Equality Act 2010);
+
+(e) an initial assessment of the impact of serious violence reduction orders on the reoffending rates of offenders in respect of whom such orders have been made;
+
+(f) an assessment of the impact on offenders of being subject to a serious violence reduction order;
+
+(g) information about the number of offences committed under section 342G of the Sentencing Code (offences relating to a serious violence reduction order) and the number of suspected offences under that section that have been investigated.
+
+(5) Regulations under section 208(1) which bring section 165 into force only for a specified purpose or in relation to a specified area may—
+
+(a) provide for section 165 to be in force for that purpose or in relation to that area for a specified period;
+
+(b) make transitional or saving provision in connection with section 165 ceasing to be in force at the end of the specified period.
+
+(6) Regulations containing provision by virtue of subsection (5)(a) may be amended by subsequent regulations under section 208(1) so as to continue section 165 in force—
+
+(a) for the specified purpose, or
+
+(b) in relation to the specified area,
+
+for a further specified period.
+
+(7) Accordingly, the reference in section 419(1) of the Sentencing Act 2020, as applied by section 206, to the coming into force of an amendment is to be read as including a reference to the continuing in force of an amendment by reason of subsection (6).
+
+(8) In this section—
+
+- “serious violence reduction order” has the same meaning as in Chapter 1A of Part 11 of the Sentencing Code (see section 342B of the Sentencing Code);
+- “specified” means specified in regulations under section 208(1).
+
+### CHAPTER 2 — Knife crime prevention orders
+
+#### 167 Knife crime prevention order on conviction: adjournment of proceedings
+
+(1) In section 19 of the Offensive Weapons Act 2019 (knife crime prevention orders made on conviction), after subsection (9) insert—
+
+> (9A) The court may adjourn any proceedings on an application for a knife crime prevention order even after sentencing the defendant.
+>
+> (9B) If the defendant does not appear for any adjourned proceedings the court may—
+>
+> (a) further adjourn the proceedings,
+>
+> (b) issue a warrant for the defendant’s arrest, or
+>
+> (c) hear the proceedings in the defendant’s absence.
+>
+> (9C) The court may not act under subsection (9B)(b) unless it is satisfied that the defendant has had adequate notice of the time and place of the adjourned proceedings.
+>
+> (9D) The court may not act under subsection (9B)(c) unless it is satisfied that the defendant—
+>
+> (a) has had adequate notice of the time and place of the adjourned proceedings, and
+>
+> (b) has been informed that if the defendant does not appear for those proceedings the court may hear the proceedings in the defendant’s absence.
+
+(2) Regulations under section 208(1) which bring subsection (1) into force only for a specified purpose or in relation to a specified area may—
+
+(a) provide for that provision to be in force for that purpose or in relation to that area for a specified period;
+
+(b) make transitional or saving provision in relation to that provision ceasing to be in force at the end of the specified period.
+
+(3) Regulations containing provision by virtue of subsection (2)(a) may be amended by subsequent regulations under section 208(1) so as to continue subsection (1) in force for the specified purpose or in relation to the specified area for a further specified period.
+
+(4) In this section “specified” means specified in regulations under section 208(1).
+
+### CHAPTER 3 — Management of sex offenders
+
+#### Notification requirements
+
+##### 168 Locations for sexual offender notification
+
+(1) Section 87 of the Sexual Offences Act 2003 (method of notification and related matters) is amended as follows.
+
+(2) For paragraph (a) of subsection (1) substitute—
+
+> (a) attending at the police station in the person’s local police area that is for the time being specified in a document published for that local police area under this section or, if there is more than one such police station, at any one of them, and
+
+.
+
+(3) After subsection (2) insert—
+
+> (2A) The chief officer of police for each police area must publish, in such manner as the chief officer thinks fit, a document containing the name and address of each police station in that area at which a person may give a notification under section 83(1), 84(1) or 85(1).
+>
+> (2B) A chief officer of police must keep under review a document published by the chief officer under this section and may from time to time publish a revised version of the document in such manner as the chief officer thinks fit.
+
+##### 169 Offences outside the United Kingdom: notification requirements
+
+(1) The Sexual Offences Act 2003 is amended as follows.
+
+(2) After section 96 insert—
+
+> **Offences outside the United Kingdom: notification requirements**
+>
+> **96ZA Offences outside the United Kingdom: notification requirements**
+>
+> (1) Where this section applies to a person (“P”), P is subject to the notification requirements of this Part for the notification period set out in section 82.
+>
+> This is subject to sections 96ZB (young offenders: parental notices) and 96ZC (modifications of notification requirements).
+>
+> (2) This section applies to P if P has been given a notice under subsection (3) and that notice has not been cancelled.
+>
+> (3) A constable may give a notice to P if—
+>
+> (a) the conditions in subsections (6), (7) and (8) are met in respect of P, and
+>
+> (b) an officer of at least the rank of inspector has authorised the giving of the notice to P.
+>
+> (4) A notice given to P under subsection (3) must be given to P in person and must contain details of—
+>
+> (a) the notifications that P is required to give under this Part,
+>
+> (b) when those notifications must be given, and
+>
+> (c) where those notifications may be given.
+>
+> (5) A notice given under subsection (3) may be cancelled by a constable giving notice in writing to P in person but such a cancellation must be authorised by an officer of at least the rank of inspector.
+>
+> (6) The first condition is that under the law in force in a country outside the United Kingdom—
+>
+> (a) P has been convicted of a relevant offence (whether or not P has been punished for it),
+>
+> (b) a court exercising jurisdiction under that law has made in respect of a relevant offence a finding equivalent to a finding that P is not guilty by reason of insanity,
+>
+> (c) such a court has made in respect of a relevant offence a finding equivalent to a finding that P is under a disability and did the act charged against P in respect of the offence, or
+>
+> (d) P has been cautioned in respect of a relevant offence.
+>
+> (7) The second condition is that—
+>
+> (a) the first condition is met because of a conviction, finding or caution which occurred on or after 1 September 1997,
+>
+> (b) the first condition is met because of a conviction or finding which occurred before that date, but P was dealt with in respect of the offence or finding on or after that date, or has yet to be dealt with in respect of it, or
+>
+> (c) the first condition is met because of a conviction or finding which occurred before that date, but on that date P was, in respect of the offence or finding, subject under the law in force in the country concerned to detention, supervision or any other disposal equivalent to any of those mentioned in section 81(3) (read with sections 81(6) and 131).
+>
+> (8) The third condition is that the period set out in section 82 (as it would have effect as modified by section 96ZC(2) and (3) if this section applied to P) in respect of the relevant offence has not expired.
+>
+> (9) In this section and section 96ZC “relevant offence” means an act which—
+>
+> (a) constituted an offence under the law in force in the country concerned, and
+>
+> (b) would have constituted an offence listed in Schedule 3 (other than at paragraph 60) if it had been done in any part of the United Kingdom.
+>
+> (10) For the purposes of subsection (9)(a), an act punishable under the law in force in a country outside the United Kingdom constitutes an offence under that law however it is described in that law.
+>
+> **96ZB Young offenders: parental notices**
+>
+> (1) Where the person (“P”) given a notice under section 96ZA is under 18 a constable may also give a notice (a “parental notice”) to a person (“the parent”) with parental responsibility for P.
+>
+> (2) Subsections (3)(b) to (5) of section 96ZA apply to the giving of a parental notice as if references to P were references to the parent.
+>
+> (3) If a parental notice has been given to the parent and has not been cancelled or ceased to have effect—
+>
+> (a) the obligations that would (apart from this subsection) be imposed by virtue of section 96ZA on P are to be treated instead as obligations on the parent, and
+>
+> (b) the parent must ensure that P attends with them at the police station when a notification under this Part is being given.
+>
+> (4) The parental notice ceases to have effect when P reaches the age of 18.
+>
+> (5) If a parental notice is to be given, section 96ZA(4)(a) has effect in relation to the notice given to P as if the reference to the notifications that P is required to give under this Part were a reference to—
+>
+> (a) the notifications that the parent is required to give under this Part, and
+>
+> (b) the notifications (if any) that P is required to give under this Part once the parental notice ceases to have effect.
+>
+> **96ZC Modifications of notification requirements**
+>
+> (1) The application of this Part to a person (“P”) to whom section 96ZA applies in respect of a conviction, finding or caution is subject to the modifications set out in this section.
+>
+> (2) References to the “relevant date”—
+>
+> (a) in a case where P is within section 96ZA(6)(a), are to the date of the conviction,
+>
+> (b) in a case where P is within section 96ZA(6)(b) or (c), are to the date of the finding, and
+>
+> (c) in a case where P is within section 96ZA(6)(d), are to the date of the caution.
+>
+> (3) In section 82—
+>
+> (a) references, except in the Table, to a person (or relevant offender) within any provision of section 80 are to be read as references to P;
+>
+> (b) the reference in the Table to section 80(1)(d) is to be read as a reference to section 96ZA(6)(d);
+>
+> (c) references to an order of any description are to be read as references to any corresponding disposal made in relation to P in respect of an offence or finding by reference to which a notice has been given to P under section 96ZA;
+>
+> (d) the reference to offences listed in Schedule 3 is to be read as a reference to relevant offences (see section 96ZA(9)).
+>
+> (4) Section 83 has effect as if after subsection (1) there were inserted—
+>
+> > (1A) In the case of a relevant offender who is subject to the notification requirements of this Part by virtue of a notice being given to the relevant offender under section 96ZA, the reference in subsection (1) to the period of 3 days beginning with the relevant date (or if later the commencement of this Part) is to be read as a reference to the period of 3 days beginning with the day on which the notice was given to the relevant offender.
+>
+> (5) Section 83(4) has effect as if—
+>
+> (a) for the words “Where a notification order is made” there were substituted “Where a relevant offender is subject to the notification requirements of this Part by virtue of a notice given under section 96ZA”, and
+>
+> (b) in paragraph (a) for the words “the order was made” there were substituted “the notice was given to the relevant offender”.
+>
+> **96ZD Appeal against the issue of a notice under section 96ZA or 96ZB**
+>
+> (1) A person (“P”) may appeal to a magistrates’ court against the decision to give them a notice under section 96ZA.
+>
+> (2) The grounds for bringing an appeal under subsection (1) include—
+>
+> (a) that one or more of the conditions for the giving of the notice were not met in respect of P at the time the notice was given;
+>
+> (b) that the conviction, finding or caution by reason of which P was given the notice falls within subsection (3).
+>
+> (3) A conviction, finding or caution falls within this subsection if—
+>
+> (a) any investigations or proceedings leading to it were conducted in a way which contravened any of the Convention rights (within the meaning of section 1 of the Human Rights Act 1998) which P would have had if those investigations or proceedings had taken place in the United Kingdom, and
+>
+> (b) that contravention was such that the conviction, finding or caution cannot be safely relied on for the purposes of meeting the condition in section 96ZA(6).
+>
+> (4) A person (“the parent”) may appeal to a magistrates’ court against the decision to give them a parental notice under section 96ZB.
+>
+> (5) The grounds for bringing an appeal under subsection (4) include—
+>
+> (a) that one or more of the conditions for the giving of a notice under section 96ZA to the person (“P”) for whom the parent has parental responsibility were not met in respect of P at the time the notice under section 96ZA was given;
+>
+> (b) that the conviction, finding or caution by reason of which P was given a notice under section 96ZA falls within subsection (3);
+>
+> (c) that one or more of the requirements for giving the parent a parental notice under section 96ZB were not met at the time the parental notice was given.
+>
+> (6) On an appeal under subsection (1) or (4) a magistrates’ court may cancel or confirm the notice which is the subject of the appeal.
+
+(3) In section 91(1)(a) (offences relating to notification) for “or 89(2)(b)” substitute “, 89(2)(b) or 96ZB(3)(b)”.
+
+(4) In section 91A(3) (review of indefinite notification requirements) for paragraph (c) substitute—
+
+> (c) a notice given under section 96ZA.
+
+(5) Omit sections 97 to 103 (notification orders) and section 103G(6) and (7) (notification order made on application for sexual harm prevention order or interim sexual harm prevention order).
+
+(6) In section 133(1) (general interpretation), in the definition of “relevant date” for “98, 100” substitute “, 96ZC”.
+
+(7) Subsection (5) does not affect—
+
+(a) the validity or effect of any order made under section 97 or 100 of the Sexual Offences Act 2003 before the coming into force of this section or the application of Part 2 of that Act to any person in respect of whom such an order was so made;
+
+(b) in respect of an application made under section 97(1) or section 100(2) of that Act before the coming into force of this section—
+
+(i) the determination of such an application, or
+
+(ii) the validity and effect of any order made on such an application or the application of Part 2 of that Act to any person in respect of whom such an order was so made.
+
+(8) The amendments made by subsections (4) and (6) do not apply in respect of any order to which, or any person to whom, subsection (7) applies.
+
+##### 170 Notification orders: Scotland
+
+(1) The Sexual Offences Act 2003 is amended as follows.
+
+(2) In section 97 (notification orders: applications and grounds)—
+
+(a) in subsection (1), in the words before paragraph (a)—
+
+(i) for the words from “A chief officer of police” to “police area” substitute “The chief constable of the Police Service of Scotland (“the chief constable”) may by application to any sheriff”, and
+
+(ii) omit “(“the defendant”)”,
+
+(b) in subsection (1)(a)—
+
+(i) for “him” substitute “the chief constable”, and
+
+(ii) for “defendant” substitute “person”,
+
+(c) in subsection (1)(b)—
+
+(i) for “defendant”, in both places it occurs, substitute “person”,
+
+(ii) for “his police area”, in both places it occurs, substitute “Scotland”, and
+
+(iii) for “chief officer” substitute “chief constable”,
+
+(d) in subsection (2)—
+
+(i) for “he”, in each place it occurs, substitute “the person”, and
+
+(ii) in paragraph (c), for “him” substitute “the person”,
+
+(e) in subsection (5) for “court” substitute “sheriff”, and
+
+(f) after subsection (5) insert—
+
+> (5A) A record of evidence must be kept on any application for an order under this section.
+>
+> (5B) The clerk of the court by which a notification order under this section is made must cause a copy of the order as so made to be—
+>
+> (a) given to the person named in the order,
+>
+> (b) sent to the person by registered post, or
+>
+> (c) sent to the person by the recorded delivery service,
+>
+> and where a copy of the order is so sent to the person, an acknowledgement or certificate of delivery issued by the Post Office is sufficient evidence of the delivery of the copy on the day specified in the acknowledgement or certificate.
+
+(3) In section 98 (notification orders: effect)—
+
+(a) in subsections (1)(a) and (3)(a) and (c) for “defendant” substitute “person in respect of whom the order has effect”, and
+
+(b) in subsection (1)(b) for “defendant” substitute “person”.
+
+(4) In section 99 (sections 97 and 98: relevant offences), in subsections (3) and (4), for “defendant” substitute “person in respect of whom the order is sought”.
+
+(5) In section 100 (interim notification orders)—
+
+(a) in subsection (2)—
+
+(i) in paragraph (a), omit “the complaint containing”, and
+
+(ii) in paragraph (b), for “by complaint to the court to which that application has been made” substitute “by further application to the sheriff to whom the main application has been made”,
+
+(b) in subsection (5)—
+
+(i) in paragraph (a), for “defendant” substitute “person in respect of whom the order has effect”, and
+
+(ii) in paragraph (b), for “defendant” substitute “person”,
+
+(c) in subsection (7)—
+
+(i) for “defendant” substitute “person in respect of whom the order has effect”, and
+
+(ii) for “complaint” substitute “application”, and
+
+(d) after subsection (7) insert—
+
+> (7A) A record of evidence must be kept on any application for an order under this section.
+>
+> (7B) The clerk of the court by which an interim notification order is made, varied, renewed or discharged under this section must cause a copy of, as the case may be—
+>
+> (a) the order as so made, varied or renewed, or
+>
+> (b) the interlocutor by which discharge is effected,
+>
+> to be given to the person named in the order or to be sent to the person in accordance with subsection (7C).
+>
+> (7C) A copy of the order may be sent to the person named in the order—
+>
+> (a) by registered post, or
+>
+> (b) by the recorded delivery service,
+>
+> and where a copy of the order is so sent to the person, an acknowledgement or certificate of delivery issued by the Post Office is sufficient evidence of the delivery of the copy on the day specified in the acknowledgement or certificate.
+
+(6) Omit sections 101 (notification orders and interim notification orders: appeals in England and Wales) and 103 (sections 97 to 100: Scotland).
+
+#### Sexual harm prevention orders and sexual risk orders
+
+##### 171 Applications by British Transport Police and Ministry of Defence Police
+
+(1) The Sexual Offences Act 2003 is amended as follows.
+
+(2) Section 103A (sexual harm prevention orders: applications and grounds) is amended in accordance with subsections (3) to (6).
+
+(3) In subsection (4), for the words before paragraph (a) substitute “A person mentioned in subsection (4A) (“the applicant”) may by complaint to a magistrates’ court apply for a sexual harm prevention order in respect of a person if it appears to the applicant that—”.
+
+(4) After subsection (4) insert—
+
+> (4A) Those persons are—
+>
+> (a) a chief officer of police;
+>
+> (b) the Director General of the National Crime Agency (“the Director General”);
+>
+> (c) the chief constable of the British Transport Police Force;
+>
+> (d) the chief constable of the Ministry of Defence Police.
+
+(5) For subsection (7) substitute—
+
+> (7) If the Director General, the chief constable of the British Transport Police Force or the chief constable of the Ministry of Defence Police makes an application under subsection (4), that person must as soon as practicable notify the chief officer of police for a relevant police area of that application.
+
+(6) In subsection (9)(b)—
+
+(a) in the words before sub-paragraph (i), after “the Director General” insert “, the chief constable of the British Transport Police Force or the chief constable of the Ministry of Defence Police”, and
+
+(b) in sub-paragraph (ii), for “Director General” substitute “applicant”.
+
+(7) In section 103F (interim sexual harm prevention orders), after subsection (6) (inserted by section 173 of this Act) insert—
+
+> (7) If the Director General of the National Crime Agency, the chief constable of the British Transport Police Force or the chief constable of the Ministry of Defence Police makes an application under this section, that person must as soon as practicable notify the chief officer of police for a relevant police area of that application.
+>
+> (8) In subsection (7), “relevant police area” has the same meaning as in section 103A (sexual harm prevention orders: applications and grounds) (see section 103A(9)).
+
+(8) In section 103J(1) (sexual harm prevention orders and interim sexual harm prevention orders: guidance) for “chief officers of police and to the Director General of the National Crime Agency” substitute “chief officers of police, the Director General of the National Crime Agency, the chief constable of the British Transport Police Force and the chief constable of the Ministry of Defence Police”.
+
+(9) Section 122A (sexual risk orders: applications, grounds and effect) is amended in accordance with subsections (10) and (11).
+
+(10) For subsection (1) substitute—
+
+> (1) A person mentioned in subsection (1A) (“the applicant”) may by complaint to a magistrates’ court apply for an order under this section (a “sexual risk order”) in respect of a person (“the defendant”) if it appears to the applicant that the condition in subsection (2) is met.
+>
+> (1A) Those persons are—
+>
+> (a) a chief officer of police;
+>
+> (b) the Director General of the National Crime Agency (“the Director General”);
+>
+> (c) the chief constable of the British Transport Police Force;
+>
+> (d) the chief constable of the Ministry of Defence Police.
+
+(11) For subsection (5) substitute—
+
+> (5) If the Director General, the chief constable of the British Transport Police Force or the chief constable of the Ministry of Defence Police makes an application under subsection (1), that person must as soon as practicable notify the chief officer of police for a relevant police area of that application.
+
+(12) In section 122B(3)(b) (interpretation of section 122A)—
+
+(a) after “Agency” insert “, the chief constable of the British Transport Police Force or the chief constable for the Ministry of Defence Police”, and
+
+(b) in sub-paragraph (ii), for “Director General” substitute “applicant”.
+
+(13) In section 122E (interim sexual risk orders), after subsection (6) (inserted by section 173 of this Act) insert—
+
+> (7) If the Director General of the National Crime Agency, the chief constable of the British Transport Police Force or the chief constable of the Ministry of Defence Police makes an application under this section, that person must as soon as practicable notify the chief officer of police for a relevant police area of that application.
+>
+> (8) In subsection (7), “relevant police area” has the same meaning as in section 122A (sexual risk orders: applications, grounds and effect) (see section 122B(3)).
+
+(14) In section 122J(1) (sexual risk orders and interim sexual risk orders: guidance) for “chief officers of police and to the Director General of the National Crime Agency” substitute “chief officers of police, the Director General of the National Crime Agency, the chief constable of the British Transport Police Force and the chief constable of the Ministry of Defence Police”.
+
+##### 172 List of countries
+
+(1) The Secretary of State may—
+
+(a) prepare a list of countries and territories outside the United Kingdom in which the Secretary of State considers children are at a high risk of sexual abuse or sexual exploitation from United Kingdom nationals or United Kingdom residents, or
+
+(b) direct a relevant person to prepare a list of countries and territories outside the United Kingdom in which the relevant person considers children are at a high risk of sexual abuse or sexual exploitation from United Kingdom nationals or United Kingdom residents.
+
+(2) If a list is prepared by the Secretary of State, the Secretary of State must lay the list before Parliament.
+
+(3) If a list is prepared by a relevant person—
+
+(a) the relevant person must submit the list to the Secretary of State, and
+
+(b) the Secretary of State must lay the list before Parliament.
+
+(4) As soon as reasonably practicable after a list has been laid before Parliament, the person who prepared the list must publish it.
+
+(5) A list published under subsection (4) has effect for the purposes of—
+
+(a) section 346 of the Sentencing Code (exercise of power to make sexual harm prevention order),
+
+(b) section 350 of the Sentencing Code (sexual harm prevention orders: variations, renewals and discharges),
+
+(c) section 103A of the Sexual Offences Act 2003 (sexual harm prevention orders: applications and grounds),
+
+(d) section 103E of that Act (sexual harm prevention orders: variations, renewals and discharges),
+
+(e) section 103F of that Act (interim sexual harm prevention orders),
+
+(f) section 122A of that Act (sexual risk orders: applications, grounds and effect),
+
+(g) section 122D of that Act (sexual risk orders: variations, renewals and discharges),
+
+(h) section 122E of that Act (interim sexual risk orders),
+
+(i) section 136ZG of that Act (variation of sexual harm prevention order made in Scotland by court in England and Wales),
+
+(j) section 136ZH of that Act (variation of sexual offences prevention order or foreign travel order by court in England and Wales), and
+
+(k) section 136ZI of that Act (variation of sexual risk order made in Scotland by court in England and Wales).
+
+(6) If a list has been published, the person who prepared it must keep it under review and may, from time to time, prepare a revised list (but see subsections (7) and (8)).
+
+(7) If the function under subsection (6) is for the time being exercisable by the Secretary of State, the Secretary of State may direct a relevant person to exercise that function.
+
+(8) If the function under subsection (6) is for the time being exercisable by a relevant person, the Secretary of State may direct that the function is to be exercisable by another relevant person or by the Secretary of State.
+
+(9) A list published under this section may at any time be withdrawn by the Secretary of State.
+
+(10) Subsections (2) to (9) apply to a revised list as they apply to a list prepared under subsection (1).
+
+(11) In this section—
+
+- “child” means a person under 18;
+
+- “relevant person” means a person whose statutory functions relate to—
+
+  - the prevention or detection of crime, or
+  - other law enforcement purposes;
+
+- “United Kingdom national” means—
+
+  - a British citizen, a British overseas territories citizen, a British National (Overseas) or a British Overseas citizen,
+  - a person who under the British Nationality Act 1981 is a British subject, or
+  - a British protected person within the meaning of that Act;
+
+- “United Kingdom resident” means an individual who is resident in the United Kingdom.
+
+##### 173 Requirement for courts and certain persons to have regard to the list of countries
+
+(1) In section 346 of the Sentencing Code (exercise of power to make sexual harm prevention order)—
+
+(a) the existing text becomes subsection (1), and
+
+(b) after that subsection insert—
+
+> (2) If a list has been published under section 172 of the Police, Crime, Sentencing and Courts Act 2022 (list of countries where children are at a high risk of sexual abuse or sexual exploitation) and has not been withdrawn, the court must have regard to the list in considering—
+>
+> (a) whether a sexual harm prevention order is necessary for the purpose of protecting children generally, or any particular children, from sexual harm from the offender outside the United Kingdom, and
+>
+> (b) in particular, whether a prohibition on foreign travel (see section 348) is necessary for that purpose.
+
+(2) In section 350 of the Sentencing Code (sexual harm prevention orders: variations, renewals and discharges)—
+
+(a) after subsection (3) insert—
+
+> (3A) If a list has been published under section 172 of the Police, Crime, Sentencing and Courts Act 2022 (list of countries where children are at high risk of sexual abuse or sexual exploitation) and has not been withdrawn, a person mentioned in subsection (2)(b) or (c) must have regard to the list in considering—
+>
+> (a) whether to apply for an order varying or renewing a sexual harm prevention order for the purpose of protecting children generally, or any particular children, from sexual harm from the offender outside the United Kingdom, and
+>
+> (b) in particular, whether to apply for an order imposing, varying or renewing a prohibition on foreign travel for that purpose.
+
+, and
+
+(b) after subsection (6A) (inserted by section 175) insert—
+
+> (6B) If a list has been published under section 172 of the Police, Crime, Sentencing and Courts Act 2022 and has not been withdrawn, the court must have regard to the list in considering—
+>
+> (a) whether an order varying or renewing the sexual harm prevention order is necessary for the purpose of protecting children generally, or any particular children, from sexual harm from the offender outside the United Kingdom, and
+>
+> (b) in particular, whether an order imposing, varying or renewing a prohibition on foreign travel is necessary for that purpose.
+
+(3) The Sexual Offences Act 2003 is amended as follows.
+
+(4) In section 103A (sexual harm prevention orders: applications and grounds)—
+
+(a) after subsection (3) insert—
+
+> (3A) If a list has been published under section 172 of the Police, Crime, Sentencing and Courts Act 2022 (list of countries where children are at high risk of sexual abuse or sexual exploitation) and has not been withdrawn, the court must have regard to the list in considering—
+>
+> (a) whether a sexual harm prevention order is necessary for the purpose of protecting children generally, or any particular children, from sexual harm from the defendant outside the United Kingdom, and
+>
+> (b) in particular, whether a prohibition on foreign travel (see section 103D) is necessary for that purpose.
+
+, and
+
+(b) after subsection (4A) (inserted by section 171) insert—
+
+> (4B) If a list has been published under section 172 of the Police, Crime, Sentencing and Courts Act 2022 and has not been withdrawn, a person mentioned in subsection (4A) must have regard to the list in considering—
+>
+> (a) whether a person has since the appropriate date acted in such a way as to give reasonable cause to believe that it is necessary for a sexual harm prevention order to be made for the purpose of protecting children generally, or any particular children, from sexual harm from that person outside the United Kingdom, and
+>
+> (b) whether to apply for a prohibition on foreign travel (see section 103D) to be included in any such order for that purpose.
+
+(5) In section 103E (sexual harm prevention orders: variations, renewals and discharges)—
+
+(a) after subsection (2) insert—
+
+> (2A) If a list has been published under section 172 of the Police, Crime, Sentencing and Courts Act 2022 (list of countries where children are at high risk of sexual abuse or sexual exploitation) and has not been withdrawn, a person mentioned in subsection (2)(b) to (d) must have regard to the list in considering—
+>
+> (a) whether to apply for an order varying or renewing a sexual harm prevention order for the purpose of protecting children generally, or any particular children, from sexual harm from the defendant outside the United Kingdom, and
+>
+> (b) in particular, whether to apply for an order imposing, varying or renewing a prohibition on foreign travel for that purpose.
+
+,
+
+(b) after subsection (5A) (inserted by section 175) insert—
+
+> (5B) If a list has been published under section 172 of the Police, Crime, Sentencing and Courts Act 2022 and has not been withdrawn, the court must have regard to the list in considering—
+>
+> (a) whether any order varying or renewing the sexual harm prevention order is necessary for the purpose of protecting children generally, or any particular children, from sexual harm from the defendant outside the United Kingdom, and
+>
+> (b) in particular, whether an order imposing, varying or renewing a prohibition on foreign travel is necessary for that purpose.
+
+, and
+
+(c) in subsection (6), for “subsection (5)” substitute “subsections (2A), (5) and (5B)”.
+
+(6) In section 103F (interim sexual harm prevention orders)—
+
+(a) after subsection (2) insert—
+
+> (2A) If a list has been published under section 172 of the Police, Crime, Sentencing and Courts Act 2022 (list of countries where children are at high risk of sexual abuse or sexual exploitation) and has not been withdrawn, a person who has made, or is considering making, an application under section 103A(4) must have regard to the list in considering—
+>
+> (a) whether to apply for an interim sexual harm prevention order for the purpose of protecting children generally, or any particular children, from sexual harm from the defendant outside the United Kingdom, and
+>
+> (b) in particular, whether to apply for a prohibition on foreign travel to be included in any such order for that purpose.
+
+,
+
+(b) after subsection (3) insert—
+
+> (3A) If a list has been published under section 172 of the Police, Crime, Sentencing and Courts Act 2022 and has not been withdrawn, the court must have regard to the list in considering—
+>
+> (a) whether to make an interim sexual harm prevention order for the purpose of protecting children generally, or any particular children, from sexual harm from the defendant outside the United Kingdom, and
+>
+> (b) in particular, whether to include in any such order a prohibition on foreign travel for that purpose.
+
+, and
+
+(c) after subsection (5) insert—
+
+> (6) Subsections (2A) and (3A) apply in relation to an application for the variation or renewal of an interim sexual harm prevention order as they apply in relation to an application for such an order.
+
+(7) In section 122A (sexual risk orders: applications, grounds and effect)—
+
+(a) after subsection (2) insert—
+
+> (2A) If a list has been published under section 172 of the Police, Crime, Sentencing and Courts Act 2022 (list of countries where children are at high risk of sexual abuse or sexual exploitation) and has not been withdrawn, a person mentioned in subsection (1A) must have regard to the list in considering—
+>
+> (a) whether as a result of the act mentioned in subsection (2) there is reasonable cause to believe that it is necessary for a sexual risk order to be made for the purpose of protecting children generally, or any particular children, from harm from the defendant outside the United Kingdom, and
+>
+> (b) whether to apply for a prohibition on foreign travel (see section 122C) to be included in any such order for that purpose.
+
+, and
+
+(b) after subsection (6) insert—
+
+> (6A) If a list has been published under section 172 of the Police, Crime, Sentencing and Courts Act 2022 and has not been withdrawn, the court must have regard to the list in considering—
+>
+> (a) whether a sexual risk order is necessary for the purpose of protecting children generally, or any particular children, from harm from the defendant outside the United Kingdom, and
+>
+> (b) in particular, whether a prohibition on foreign travel (see section 122C) is necessary for that purpose.
+
+(8) In section 122D (sexual risk order: variations, renewals and discharges),
+
+(a) after subsection (2) insert—
+
+> (2A) If a list has been published under section 172 of the Police, Crime, Sentencing and Courts Act 2022 (list of countries where children are at high risk of sexual abuse or sexual exploitation) and has not been withdrawn, a person mentioned in subsection (2)(b) to (d) must have regard to the list in considering—
+>
+> (a) whether to apply for an order varying or renewing a sexual risk order for the purpose of protecting children generally, or any particular children, from harm from the defendant outside the United Kingdom, and
+>
+> (b) in particular, whether to apply for an order imposing, varying or renewing a prohibition on foreign travel for that purpose.
+
+,
+
+(b) in subsection (3) for “the application” substitute “an application made under this section”, and
+
+(c) after subsection (4A) (inserted by section 176) insert—
+
+> (4B) If a list has been published under section 172 of the Police, Crime, Sentencing and Courts Act 2022 and has not been withdrawn, the court must have regard to the list in considering—
+>
+> (a) whether any order varying or renewing the sexual risk order is necessary for the purposes of protecting children generally, or any particular children, from harm from the defendant outside the United Kingdom, and
+>
+> (b) in particular, whether an order imposing, varying or renewing a prohibition on foreign travel is necessary for that purpose.
+
+(9) In section 122E (interim sexual risk orders)—
+
+(a) after subsection (2) insert—
+
+> (2A) If a list has been published under section 172 of the Police, Crime, Sentencing and Courts Act 2022 (list of countries where children are at high risk of sexual abuse or sexual exploitation) and has not been withdrawn, a person who has made, or is considering making, an application for a sexual risk order must have regard to the list in considering—
+>
+> (a) whether to apply for an interim sexual risk order for the purpose of protecting children generally, or any particular children, from harm from the defendant outside the United Kingdom, and
+>
+> (b) in particular, whether to apply for a prohibition on foreign travel to be included in any such order for that purpose.
+
+,
+
+(b) after subsection (3) insert—
+
+> (3A) If a list has been published under section 172 of the Police, Crime, Sentencing and Courts Act 2022 and has not been withdrawn, the court must have regard to the list in considering—
+>
+> (a) whether to make an interim sexual risk order for the purpose of protecting children generally, or any particular children, from harm from the defendant outside the United Kingdom, and
+>
+> (b) in particular, whether to include a prohibition on foreign travel in any such order for that purpose.
+
+, and
+
+(c) after subsection (5) insert—
+
+> (6) Subsections (2A) and (3A) apply in relation to an application for the variation or renewal of an interim sexual risk order as they apply in relation to an application for such an order.
+
+##### 174 Standard of proof
+
+(1) The Sexual Offences Act 2003 is amended as follows.
+
+(2) In section 103A(3) (sexual harm prevention orders: applications and grounds)—
+
+(a) omit “and” at the end of paragraph (a), and
+
+(b) for paragraph (b) substitute—
+
+> (b) the court is satisfied on the balance of probabilities that since the appropriate date the defendant has acted in one or more of the ways alleged by the person making the application, and
+>
+> (c) the court is satisfied that the defendant having acted in such a way makes it necessary to make a sexual harm prevention order, for the purpose of—
+>
+> (i) protecting the public or any particular members of the public from sexual harm from the defendant, or
+>
+> (ii) protecting children or vulnerable adults generally, or any particular children or vulnerable adults, from sexual harm from the defendant outside the United Kingdom.
+
+(3) In section 122A (sexual risk orders: applications, grounds and effect), for subsection (6) substitute—
+
+> (6) On an application under subsection (1), the court may make a sexual risk order if—
+>
+> (a) the court is satisfied on the balance of probabilities that the defendant has, whether before or after the commencement of this Part, done one or more of the acts of a sexual nature alleged by the person making the application, and
+>
+> (b) the court is satisfied that as a result of the defendant acting in such a way it is necessary to make such an order for the purpose of—
+>
+> (i) protecting the public or any particular members of the public from harm from the defendant, or
+>
+> (ii) protecting children or vulnerable adults generally, or any particular children or vulnerable adults, from harm from the defendant outside the United Kingdom.
+
+##### 175 Sexual harm prevention orders: power to impose positive requirements
+
+(1) The Sentencing Code is amended in accordance with subsections (2) to (6).
+
+(2) In section 343 (sexual harm prevention order)—
+
+(a) for subsection (1) substitute—
+
+> (1) In this Code a “sexual harm prevention order” means an order made under this Chapter in respect of an offender.
+>
+> (1A) A sexual harm prevention order may—
+>
+> (a) prohibit the offender from doing anything described in the order;
+>
+> (b) require the offender to do anything described in the order.
+
+,
+
+(b) in subsection (2), after “prohibitions” insert “or requirements”, and
+
+(c) after subsection (2) insert—
+
+> (3) The prohibitions or requirements which are imposed on the offender by a sexual harm prevention order must, so far as practicable, be such as to avoid—
+>
+> (a) any conflict with the offender’s religious beliefs,
+>
+> (b) any interference with the times, if any, at which the offender normally works or attends any educational establishment, and
+>
+> (c) any conflict with any other court order or injunction to which the offender may be subject (but see section 349).
+
+(3) In section 347 (sexual harm prevention order: matters to be specified)—
+
+(a) in subsection (1)(a), after “prohibitions” insert “and requirements”,
+
+(b) in subsection (1)(b)—
+
+(i) after “each prohibition” insert “or requirement”, and
+
+(ii) for ““prohibition period”” substitute ““specified period””,
+
+(c) in subsection (2)—
+
+(i) in the words before paragraph (a), for “prohibition period” substitute “specified period”, and
+
+(ii) in paragraph (b), after “prohibition” insert “or requirement”, and
+
+(d) in subsection (3), after “prohibitions”, in both places it occurs, insert “or requirements”.
+
+(4) After section 347 insert—
+
+> **347A Sexual harm prevention orders: requirements included in order etc.**
+>
+> (1) A sexual harm prevention order that imposes a requirement to do something on an offender must specify a person who is to be responsible for supervising compliance with the requirement.
+>
+> The person may be an individual or an organisation.
+>
+> (2) Before including such a requirement in a sexual harm prevention order, the court must receive evidence about its suitability and enforceability from—
+>
+> (a) the individual to be specified under subsection (1), if an individual is to be specified;
+>
+> (b) an individual representing the organisation to be specified under subsection (1), if an organisation is to be specified.
+>
+> (3) Subsections (1) and (2) do not apply in relation to electronic monitoring requirements (see instead section 348A(5) and (6)).
+>
+> (4) It is the duty of a person specified under subsection (1)—
+>
+> (a) to make any necessary arrangements in connection with the requirements for which the person has responsibility (“the relevant requirements”);
+>
+> (b) to promote the offender’s compliance with the relevant requirements;
+>
+> (c) if the person considers that—
+>
+> (i) the offender has complied with all the relevant requirements, or
+>
+> (ii) the offender has failed to comply with a relevant requirement,
+>
+> to inform the appropriate chief officer of police.
+>
+> (5) In subsection (4)(c) the “appropriate chief officer of police means—
+>
+> (a) the chief officer of police for the police area in which it appears to the person specified under subsection (1) that the offender lives, or
+>
+> (b) if it appears to that person that the offender lives in more than one police area, whichever of the chief officers of police of those areas the person thinks it is most appropriate to inform.
+>
+> (6) An offender subject to a requirement imposed by a sexual harm prevention order must—
+>
+> (a) keep in touch with the person specified under subsection (1) in relation to that requirement, in accordance with any instructions given by that person from time to time, and
+>
+> (b) notify that person of any change of the offender’s home address.
+>
+> These obligations have effect as requirements of the order.
+>
+> (7) In this section “home address”, in relation to an offender, means—
+>
+> (a) the address of the offender’s sole or main residence in the United Kingdom, or
+>
+> (b) where the offender has no such residence, the address or location of a place in the United Kingdom where the offender can regularly be found and, if there is more than one such place, such one of those places as the offender may select.
+
+(5) In section 350 (sexual harm prevention orders: variations, renewals and discharges)—
+
+(a) in subsection (6)—
+
+(i) in the words before paragraph (a), after “prohibitions” insert “or requirements”, and
+
+(ii) in the words after paragraph (b), after “prohibitions” insert “and requirements”,
+
+(b) after subsection (6) insert—
+
+> (6A) Any additional prohibitions or requirements that are imposed on the offender must, so far as practicable, be such as to avoid—
+>
+> (a) any conflict with the offender’s religious beliefs,
+>
+> (b) any interference with the times, if any, at which the offender normally works or attends any educational establishment, and
+>
+> (c) any conflict with any other court order or injunction to which the offender may be subject.
+
+, and
+
+(c) in subsection (8), after “other prohibitions” insert “or requirements”.
+
+(6) In section 354 (offence: breach of sexual harm prevention order)—
+
+(a) for subsection (1) substitute—
+
+> (1) A person commits an offence if, without reasonable excuse, the person—
+>
+> (a) does anything that the person is prohibited from doing by a sexual harm prevention order, or
+>
+> (b) fails to do something that the person is required to do by a sexual harm prevention order.
+
+,
+
+(b) in subsection (2), for “doing anything prohibited by such an order” substitute “breaching such an order”, and
+
+(c) omit subsection (3).
+
+(7) In paragraph 98 of Schedule 22 to the Sentencing Act 2020 (amendment of section 354 of the Sentencing Code), in the substituted subsection (2) for “doing anything prohibited by such an order” substitute “breaching such an order”.
+
+(8) The Sexual Offences Act 2003 is amended as follows.
+
+(9) In section 103C (sexual harm prevention orders: effect)—
+
+(a) for subsection (1) substitute—
+
+> (1) A sexual harm prevention order may—
+>
+> (a) prohibit the defendant from doing anything described in the order;
+>
+> (b) require the defendant to do anything described in the order.
+
+,
+
+(b) in subsection (2), after “prohibition” insert “or requirement”,
+
+(c) in subsection (3), after “prohibitions”, in both places it occurs, insert “or requirements”,
+
+(d) in subsection (4), after “prohibitions” insert “or requirements”, and
+
+(e) after subsection (4) insert—
+
+> (4A) The prohibitions or requirements which are imposed on the defendant by a sexual harm prevention order must, so far as practicable, be such as to avoid—
+>
+> (a) any conflict with the defendant’s religious beliefs,
+>
+> (b) any interference with the times, if any, at which the defendant normally works or attends any educational establishment, and
+>
+> (c) any conflict with any other court order or injunction to which the defendant may be subject (but see subsection (6)).
+
+(10) After section 103C insert—
+
+> **103CA SHPOs: requirements included in order etc.**
+>
+> (1) A sexual harm prevention order that imposes a requirement to do something on a defendant must specify a person who is to be responsible for supervising compliance with the requirement.
+>
+> The person may be an individual or an organisation.
+>
+> (2) Before including such a requirement in a sexual harm prevention order, the court must receive evidence about its suitability and enforceability from—
+>
+> (a) the individual to be specified under subsection (1), if an individual is to be specified;
+>
+> (b) an individual representing the organisation to be specified under subsection (1), if an organisation is to be specified.
+>
+> (3) Subsections (1) and (2) do not apply in relation to electronic monitoring requirements (see instead section 103FA(5) and (6)).
+>
+> (4) It is the duty of a person specified under subsection (1)—
+>
+> (a) to make any necessary arrangements in connection with the requirements for which the person has responsibility (“the relevant requirements”);
+>
+> (b) to promote the defendant’s compliance with the relevant requirements;
+>
+> (c) if the person considers that—
+>
+> (i) the defendant has complied with all the relevant requirements, or
+>
+> (ii) the defendant has failed to comply with a relevant requirement,
+>
+> to inform the appropriate chief officer of police.
+>
+> (5) In subsection (4)(c) the “appropriate chief officer of police means—
+>
+> (a) the chief officer of police for the police area in which it appears to the person specified under subsection (1) that the defendant resides, or
+>
+> (b) if it appears to that person that the defendant resides in more than one police area, whichever of the chief officers of police of those areas the person thinks it is most appropriate to inform.
+>
+> (6) A defendant subject to a requirement imposed by a sexual harm prevention order must—
+>
+> (a) keep in touch with the person specified under subsection (1) in relation to that requirement, in accordance with any instructions given by that person from time to time, and
+>
+> (b) notify that person of any change of the defendant’s home address.
+>
+> These obligations have effect as requirements of the order.
+
+(11) In section 103E (sexual harm prevention orders: variations, renewals and discharges)—
+
+(a) in subsection (5)—
+
+(i) in the words before paragraph (a), after “prohibitions” insert “or requirements”, and
+
+(ii) in the words after paragraph (b), after “prohibitions” insert “and requirements”,
+
+(b) after subsection (5) insert—
+
+> (5A) Any additional prohibitions or requirements that are imposed on the defendant must, so far as practicable, be such as to avoid—
+>
+> (a) any conflict with the defendant’s religious beliefs,
+>
+> (b) any interference with the times, if any, at which the defendant normally works or attends any educational establishment, and
+>
+> (c) any conflict with any other court order or injunction to which the defendant may be subject.
+
+, and
+
+(c) in subsection (8), after “prohibitions” insert “or requirements”.
+
+(12) In section 103F(3) (interim sexual harm prevention orders), for the words from “, prohibiting the defendant” to the end of the subsection substitute “—
+
+(a) prohibiting the defendant from doing anything described in the order;
+
+(b) requiring the defendant to do anything described in the order.”
+
+(13) In section 103I (offence: breach of sexual harm prevention order or interim sexual harm prevention order)—
+
+(a) before subsection (1) insert—
+
+> (A1) A person who, without reasonable excuse—
+>
+> (a) does anything that the person is prohibited from doing by a sexual harm prevention order or an interim sexual harm prevention order, or
+>
+> (b) fails to do something that the person is required to do by a sexual harm prevention order or an interim sexual harm prevention order,
+>
+> commits an offence.
+
+,
+
+(b) in subsection (1), omit paragraphs (a) and (b), and
+
+(c) omit subsection (2).
+
+##### 176 Sexual risk orders: power to impose positive requirements
+
+(1) The Sexual Offences Act 2003 is amended as follows.
+
+(2) In section 122A (sexual risk orders: applications, grounds and effect)—
+
+(a) for subsection (7) substitute—
+
+> (7) A sexual risk order may—
+>
+> (a) prohibit the defendant from doing anything described in the order;
+>
+> (b) require the defendant to do anything described in the order.
+
+,
+
+(b) in subsection (8), for the words from “may specify” to the end of the subsection substitute
+
+> —
+>
+> (a) has effect for a fixed period (not less than 2 years) specified in the order or until further order, and
+>
+> (b) may specify different periods for different prohibitions or requirements.
+
+,
+
+(c) in subsection (9), after “prohibitions” insert “or requirements”, and
+
+(d) after subsection (9) insert—
+
+> (9A) The prohibitions or requirements which are imposed on the defendant by a sexual risk order must, so far as practicable, be such as to avoid—
+>
+> (a) any conflict with the defendant’s religious beliefs,
+>
+> (b) any interference with the times, if any, at which the defendant normally works or attends any educational establishment, and
+>
+> (c) any conflict with any other court order or injunction to which the defendant may be subject (but see subsection (10)).
+
+(3) After section 122B insert—
+
+> **122BA Sexual risk orders: requirements included in order etc.**
+>
+> (1) A sexual risk order that imposes a requirement to do something on a defendant must specify a person who is to be responsible for supervising compliance with the requirement.
+>
+> The person may be an individual or an organisation.
+>
+> (2) Before including such a requirement in a sexual risk order, the court must receive evidence about its suitability and enforceability from—
+>
+> (a) the individual to be specified under subsection (1), if an individual is to be specified;
+>
+> (b) an individual representing the organisation to be specified under subsection (1), if an organisation is to be specified.
+>
+> (3) Subsections (1) and (2) do not apply in relation to electronic monitoring requirements (see instead section 122EA(5) and (6)).
+>
+> (4) It is the duty of a person specified under subsection (1)—
+>
+> (a) to make any necessary arrangements in connection with the requirements for which the person has responsibility (“the relevant requirements”);
+>
+> (b) to promote the defendant’s compliance with the relevant requirements;
+>
+> (c) if the person considers that—
+>
+> (i) the defendant has complied with all the relevant requirements, or
+>
+> (ii) the defendant has failed to comply with a relevant requirement,
+>
+> to inform the appropriate chief officer of police.
+>
+> (5) In subsection (4)(c) the “appropriate chief officer of police means—
+>
+> (a) the chief officer of police for the police area in which it appears to the person specified under subsection (1) that the defendant resides, or
+>
+> (b) if it appears to that person that the defendant resides in more than one police area, whichever of the chief officers of police of those areas the person thinks it is most appropriate to inform.
+>
+> (6) A defendant subject to a requirement imposed by a sexual risk order must—
+>
+> (a) keep in touch with the person specified under subsection (1) in relation to that requirement, in accordance with any instructions given by that person from time to time, and
+>
+> (b) notify that person of any change of the defendant’s home address.
+>
+> These obligations have effect as requirements of the order.
+
+(4) In section 122D (sexual risk orders: variations, renewals and discharges)—
+
+(a) in subsection (4)—
+
+(i) in the words before paragraph (a), after “prohibitions” insert “or requirements”, and
+
+(ii) in the words after paragraph (b), after “prohibitions” insert “and requirements”, and
+
+(b) after that subsection, insert—
+
+> (4A) Any additional prohibitions or requirements that are imposed on the defendant must, so far as practicable, be such as to avoid—
+>
+> (a) any conflict with the defendant’s religious beliefs,
+>
+> (b) any interference with the times, if any, at which the defendant normally works or attends any educational establishment, and
+>
+> (c) any conflict with any other court order or injunction to which the defendant may be subject.
+
+(5) In section 122E(3) (interim sexual risk orders), for the words from “, prohibiting the defendant” to the end of the subsection substitute “—
+
+(a) prohibiting the defendant from doing anything described in the order;
+
+(b) requiring the defendant to do anything described in the order.”
+
+(6) In section 122H (offence: breach of sexual risk order or interim sexual risk order etc)—
+
+(a) before subsection (1) insert—
+
+> (A1) A person who, without reasonable excuse—
+>
+> (a) does anything that the person is prohibited from doing by a sexual risk order or an interim sexual risk order, or
+>
+> (b) fails to do something that the person is required to do by a sexual risk order or an interim sexual risk order,
+>
+> commits an offence.
+
+,
+
+(b) in subsection (1), omit paragraphs (a) and (b), and
+
+(c) omit subsection (2).
+
+##### 177 Positive requirements: further amendments
+
+(1) In section 351 of the Sentencing Code (variation of sexual harm prevention order by court in Northern Ireland)—
+
+(a) in subsection (6), in the words before paragraph (a), after “prohibitions” insert “or requirements”, and
+
+(b) in subsection (7), in the words before paragraph (a), after “prohibitions” insert “and requirements”.
+
+(2) In section 113 of the Sexual Offences Act 2003 (offence: breach of SOPO or interim SOPO etc), for subsection (1ZA) substitute—
+
+> (1ZA) A person commits an offence if, without reasonable excuse, the person—
+>
+> (a) contravenes a prohibition imposed by—
+>
+> (i) a sexual harm prevention order,
+>
+> (ii) an order under Chapter 2 of Part 11 of the Sentencing Code (sexual harm prevention order on conviction), or
+>
+> (iii) an interim sexual harm prevention order,
+>
+> other than a prohibition on foreign travel, or
+>
+> (b) fails to comply with a requirement imposed by—
+>
+> (i) a sexual harm prevention order,
+>
+> (ii) an order under Chapter 2 of Part 11 of the Sentencing Code (sexual harm prevention order on conviction), or
+>
+> (iii) an interim sexual harm prevention order.
+
+(3) In section 128 of the Sexual Offences Act 2003 (offence: breach of RSHO or interim RSHO etc)—
+
+(a) in subsection (1) omit paragraphs (c) and (d), and
+
+(b) after subsection (1) insert—
+
+> (1A) A person who, without reasonable excuse—
+>
+> (a) does anything that the person is prohibited from doing by a sexual risk order or an interim sexual risk order, or
+>
+> (b) fails to do something that the person is required to do by a sexual risk order or an interim sexual risk order,
+>
+> commits an offence.
+
+(4) In section 136ZA(2) of the Sexual Offences Act 2003 (application of orders throughout the United Kingdom), after “prohibitions” insert “or requirements”.
+
+(5) In section 136ZC of the Sexual Offences Act 2003 (variation of sexual harm prevention order by court in Northern Ireland)—
+
+(a) in subsection (5), in the words before paragraph (a), after “prohibitions” insert “or requirements”, and
+
+(b) in subsection (6), in the words before paragraph (a), after “prohibitions” insert “and requirements”.
+
+(6) In section 136ZD of the Sexual Offences Act 2003 (variation of sexual risk order by court in Northern Ireland)—
+
+(a) in subsection (4), in the words before paragraph (a), after “prohibitions” insert “or requirements”, and
+
+(b) in subsection (5), in the words before paragraph (a), after “prohibitions” insert “and requirements”.
+
+(7) In section 37 of the Abusive Behaviour and Sexual Harm (Scotland) Act 2016 (asp 22) (breach of orders equivalent to orders in Chapters 3 and 4: offence)—
+
+(a) after subsection (1) insert—
+
+> (1A) A person commits an offence if, without reasonable excuse, the person fails to do something which the person is required to do by an equivalent order from elsewhere in the United Kingdom.
+
+,
+
+(b) in each of subsections (2) and (3), after “subsection (1)” insert “or (1A)”, and
+
+(c) in subsection (4), after “prohibitions” insert “or requirements”.
+
+##### 178 Electronic monitoring requirements (prospective)
+
+(1) The Sentencing Code is amended in accordance with subsections (2) to (5).
+
+(2) In section 343 (sexual harm prevention order), after subsection (3) (inserted by section 175 of this Act) insert—
+
+> (4) A sexual harm prevention order may require the offender to submit to electronic monitoring of the offender’s compliance with the prohibitions and requirements imposed by the order (see section 348A for further provision about such a requirement).
+
+(3) In section 347 (sexual harm prevention orders: matters to be specified)—
+
+(a) in subsection (1), in the words after paragraph (b), after “United Kingdom” insert “and section 348A for further matters to be included in the case of an electronic monitoring requirement”, and
+
+(b) in subsection (2), in the words after paragraph (b), after “travel)” insert “and section 348A(8) (electronic monitoring requirements)”.
+
+(4) After section 348 insert—
+
+> **348A Sexual harm prevention orders: electronic monitoring requirements**
+>
+> (1) Subsections (2) and (3) apply for the purpose of determining whether a court may impose, under section 343(4), an electronic monitoring requirement on the offender in a sexual harm prevention order.
+>
+> (2) If there is a person (other than the offender) without whose co-operation it would be impracticable to secure the monitoring in question, the requirement may not be imposed without that person’s consent.
+>
+> (3) The court may impose the requirement only if—
+>
+> (a) it has been notified by the Secretary of State that electronic monitoring arrangements are available in the relevant area, and
+>
+> (b) it is satisfied that the necessary provision can be made under the arrangements currently available.
+>
+> (4) In subsection (3)(a) “the relevant area” means—
+>
+> (a) the local justice area in which it appears to the court that the offender resides or will reside, and
+>
+> (b) in a case where it is proposed to include in the order—
+>
+> (i) a requirement that the offender must remain, for specified periods, at a specified place, or
+>
+> (ii) a provision prohibiting the offender from entering a specified place or area,
+>
+> the local justice area in which the place or area proposed to be specified is situated.
+>
+> “Specified” means specified in the sexual harm prevention order under which the electronic monitoring requirement is imposed.
+>
+> (5) A sexual harm prevention order that includes an electronic monitoring requirement must specify the person who is to be responsible for the monitoring.
+>
+> (6) The person specified under subsection (5) (“the responsible person”) must be of a description specified in regulations made by the Secretary of State.
+>
+> (7) Where a sexual harm prevention order imposes an electronic monitoring requirement on the offender, the offender must (among other things)—
+>
+> (a) submit, as required from time to time by the responsible person, to—
+>
+> (i) being fitted with, or the installation of, any necessary apparatus, and
+>
+> (ii) the inspection or repair of any apparatus fitted or installed for the purposes of the monitoring,
+>
+> (b) not interfere with, or with the working of, any apparatus fitted or installed for the purposes of the monitoring, and
+>
+> (c) take any steps required by the responsible person for the purpose of keeping in working order any apparatus fitted or installed for the purpose of the monitoring.
+>
+> These obligations have effect as requirements of the sexual harm prevention order under which the electronic monitoring requirement is imposed.
+>
+> (8) A sexual harm prevention order may not provide for an electronic monitoring requirement to have effect for more than 12 months.
+>
+> (9) Subsection (8) does not prevent an electronic monitoring requirement from being extended for a further period (of no more than 12 months each time) under section 350.
+>
+> **348B Data from electronic monitoring: code of practice**
+>
+> (1) The Secretary of State must issue a code of practice relating to the processing of data gathered in the course of electronic monitoring of offenders under electronic monitoring requirements imposed by sexual harm prevention orders.
+>
+> (2) A failure to observe a code issued under this section does not of itself make a person liable to any criminal or civil proceedings.
+
+(5) In section 350 (sexual harm prevention orders: variations, renewals, discharges), after subsection (6B) (inserted by section 173 of this Act) insert—
+
+> (6C) Section 348A (electronic monitoring requirements) applies in relation to—
+>
+> (a) the variation of an order to require the defendant to submit to electronic monitoring of the defendant’s compliance with the prohibitions and requirements imposed by the order, or
+>
+> (b) the renewal of an order to continue such a requirement,
+>
+> as it applies in relation to the making of a sexual harm prevention order, subject to subsection (6D).
+>
+> (6D) In its application to the variation or renewal of an order, section 348A(4)(b) has effect as if—
+>
+> (a) the reference to a case where it is proposed to include in the order a requirement or provision mentioned in sub-paragraph (i) or (ii) included a case where the order already includes such a requirement or provision, and
+>
+> (b) the reference to the local justice area in which the place or area proposed to be specified is situated included the local justice area in which the place or area already specified is situated.
+
+(6) The Sexual Offences Act 2003 is amended in accordance with subsections (7) to (16).
+
+(7) In section 103C (sexual harm prevention orders: effect)—
+
+(a) in subsection (2), for “section 103D(1)” substitute “sections 103D(1) and 103FA(8)”, and
+
+(b) after subsection (4A) (inserted by section 175 of this Act) insert—
+
+> (4B) A sexual harm prevention order may require the defendant to submit to electronic monitoring of the defendant’s compliance with the prohibitions and requirements imposed by the order (see section 103FA for further provision about such a requirement).
+
+(8) In section 103E (sexual harm prevention orders: variations, renewals and discharges) after subsection (5B) (inserted by section 173 of this Act) insert—
+
+> (5C) Section 103FA (electronic monitoring requirements) applies in relation to—
+>
+> (a) the variation of an order to require the defendant to submit to electronic monitoring of the defendant’s compliance with the prohibitions and requirements imposed by the order, or
+>
+> (b) the renewal of an order to continue such a requirement,
+>
+> as it applies in relation to the making of a sexual harm prevention order, subject to subsection (5D).
+>
+> (5D) In its application to the variation or renewal of an order, section 103FA(4)(b) has effect as if—
+>
+> (a) the reference to a case where it is proposed to include in the order a requirement or provision mentioned in sub-paragraph (i) or (ii) included a case where the order already includes such a requirement or provision, and
+>
+> (b) the reference to the local justice area in which the place or area proposed to be specified is situated included the local justice area in which the place or area already specified is situated.
+
+(9) In section 103F (interim sexual harm prevention orders)—
+
+(a) after subsection (3A) (inserted by section 173 of this Act) insert—
+
+> (3B) An interim sexual harm prevention order may require the defendant to submit to electronic monitoring of the defendant’s compliance with the prohibitions and requirements imposed by the order (see section 103FA for further provision about such a requirement).
+
+, and
+
+(b) in subsection (4) for “Such an order” substitute “An interim sexual harm prevention order”.
+
+(10) After section 103F insert—
+
+> **103FA SHPOs and interim SHPOs: electronic monitoring requirements**
+>
+> (1) Subsections (2) and (3) apply for the purpose of determining whether a court may impose, under section 103C(4B) or section 103F(3B), an electronic monitoring requirement on the defendant in a sexual harm prevention order or interim sexual harm prevention order.
+>
+> (2) If there is a person (other than the defendant) without whose co-operation it would be impracticable to secure the monitoring in question, the requirement may not be imposed without that person’s consent.
+>
+> (3) The court may impose the requirement only if—
+>
+> (a) it has been notified by the Secretary of State that electronic monitoring arrangements are available in the relevant area, and
+>
+> (b) it is satisfied that the necessary provision can be made under the arrangements currently available.
+>
+> (4) In subsection (3)(a) “the relevant area” means—
+>
+> (a) the local justice area in which it appears to the court that the defendant resides or will reside, and
+>
+> (b) in a case where it is proposed to include in the order—
+>
+> (i) a requirement that the defendant must remain, for specified periods, at a specified place, or
+>
+> (ii) a provision prohibiting the defendant from entering a specified place or area,
+>
+> the local justice area in which the place or area proposed to be specified is situated.
+>
+> “Specified” means specified in the sexual harm prevention order or interim sexual harm prevention order under which the electronic monitoring requirement is imposed.
+>
+> (5) A sexual harm prevention order or interim sexual harm prevention order that includes an electronic monitoring requirement must specify the person who is to be responsible for the monitoring.
+>
+> (6) The person specified under subsection (5) (“the responsible person”) must be of a description specified in regulations made by the Secretary of State.
+>
+> (7) Where a sexual harm prevention order or interim sexual harm prevention order imposes an electronic monitoring requirement on the defendant, the defendant must (among other things)—
+>
+> (a) submit, as required from time to time by the responsible person, to—
+>
+> (i) being fitted with, or the installation of, any necessary apparatus, and
+>
+> (ii) the inspection or repair of any apparatus fitted or installed for the purposes of the monitoring,
+>
+> (b) not interfere with, or with the working of, any apparatus fitted or installed for the purposes of the monitoring, and
+>
+> (c) take any steps required by the responsible person for the purpose of keeping in working order any apparatus fitted or installed for the purpose of the monitoring.
+>
+> These obligations have effect as requirements of the sexual harm prevention order or interim sexual harm prevention order under which the electronic monitoring requirement is imposed.
+>
+> (8) A sexual harm prevention order or an interim sexual harm prevention order may not provide for an electronic monitoring requirement to have effect for more than 12 months.
+>
+> (9) Subsection (8) does not prevent an electronic monitoring requirement from being extended for a further period (of no more than 12 months each time) under section 103E.
+>
+> **103FB Data from electronic monitoring: code of practice**
+>
+> (1) The Secretary of State must issue a code of practice relating to the processing of data gathered in the course of electronic monitoring of defendants under electronic monitoring requirements imposed by—
+>
+> (a) sexual harm prevention orders,
+>
+> (b) relevant Scottish orders within the meaning of section 136ZG that have been renewed or varied as mentioned in subsection (11) of that section (variation etc by court in England and Wales to impose electronic monitoring requirement), and
+>
+> (c) sexual offences prevention orders that have been renewed or varied as mentioned in section 136ZH(10) (variation etc by court in England and Wales to impose electronic monitoring requirement).
+>
+> (2) A failure to observe a code issued under this section does not of itself make a person liable to any criminal or civil proceedings.
+
+(11) In section 122A (sexual risk orders: applications, grounds and effect)—
+
+(a) after subsection (8) insert—
+
+> (8A) Subsection (8) is subject to section 122C(1) (duration of prohibitions on foreign travel) and section 122EA(8) (duration of electronic monitoring requirements).
+
+, and
+
+(b) after subsection (9A) (as inserted by section 176 of this Act) insert—
+
+> (9B) A sexual risk order may require the defendant to submit to electronic monitoring of the defendant’s compliance with the prohibitions and requirements imposed by the order (see section 122EA for further provision about such a requirement).
+
+(12) In section 122D (sexual risk orders: variations, renewals and discharges) after subsection (4B) (inserted by section 173 of this Act) insert—
+
+> (4C) Section 122EA (electronic monitoring requirements) applies in relation to—
+>
+> (a) the variation of an order to require the defendant to submit to electronic monitoring of the defendant’s compliance with the prohibitions and requirements imposed by the order, or
+>
+> (b) the renewal of an order to continue such a requirement,
+>
+> as it applies in relation to the making of a sexual risk order, subject to subsection (4D).
+>
+> (4D) In its application to the variation or renewal of an order, section 122EA(4)(b) has effect as if—
+>
+> (a) the reference to a case where it is proposed to include in the order a requirement or provision mentioned in sub-paragraph (i) or (ii) included a case where the order already includes such a requirement or provision, and
+>
+> (b) the reference to the local justice area in which the place or area proposed to be specified is situated included the local justice area in which the place or area already specified is situated.
+
+(13) In section 122E (interim sexual risk orders)—
+
+(a) after subsection (3A) (inserted by section 173 of this Act) insert—
+
+> (3B) An interim sexual risk order may require the defendant to submit to electronic monitoring of the defendant’s compliance with the prohibitions and requirements imposed by the order (see section 122EA for further provision about such a requirement).
+
+, and
+
+(b) in subsection (4) for “Such an order” substitute “An interim sexual risk order”.
+
+(14) After section 122E insert—
+
+> **122EA Sexual risk orders and interim sexual risk orders: electronic monitoring requirements**
+>
+> (1) Subsections (2) and (3) apply for the purpose of determining whether a court may impose, under section 122A(9B) or section 122E(3B), an electronic monitoring requirement on the defendant in a sexual risk order or interim sexual risk order.
+>
+> (2) If there is a person (other than the defendant) without whose co-operation it would be impracticable to secure the monitoring in question, the requirement may not be imposed without that person’s consent.
+>
+> (3) The court may impose the requirement only if—
+>
+> (a) it has been notified by the Secretary of State that electronic monitoring arrangements are available in the relevant area, and
+>
+> (b) it is satisfied that the necessary provision can be made under the arrangements currently available.
+>
+> (4) In subsection (3)(a) “the relevant area” means—
+>
+> (a) the local justice area in which it appears to the court that the defendant resides or will reside, and
+>
+> (b) in a case where it is proposed to include in the order—
+>
+> (i) a requirement that the defendant must remain, for specified periods, at a specified place, or
+>
+> (ii) a provision prohibiting the defendant from entering a specified place or area,
+>
+> the local justice area in which the place or area proposed to be specified is situated.
+>
+> “Specified” means specified in the sexual risk order or interim sexual risk order under which the electronic monitoring requirement is imposed.
+>
+> (5) A sexual risk order or interim sexual risk order that includes an electronic monitoring requirement must specify the person who is to be responsible for the monitoring.
+>
+> (6) The person specified under subsection (5) (“the responsible person”) must be of a description specified in regulations made by the Secretary of State.
+>
+> (7) Where a sexual risk order or interim sexual risk order imposes an electronic monitoring requirement on the defendant, the defendant must (among other things)—
+>
+> (a) submit, as required from time to time by the responsible person, to—
+>
+> (i) being fitted with, or the installation of, any necessary apparatus, and
+>
+> (ii) the inspection or repair of any apparatus fitted or installed for the purposes of the monitoring,
+>
+> (b) not interfere with, or with the working of, any apparatus fitted or installed for the purposes of the monitoring, and
+>
+> (c) take any steps required by the responsible person for the purpose of keeping in working order any apparatus fitted or installed for the purpose of the monitoring.
+>
+> These obligations have effect as requirements of the sexual risk order or interim sexual risk order under which the electronic monitoring requirement is imposed.
+>
+> (8) A sexual risk order or an interim sexual risk order may not provide for an electronic monitoring requirement to have effect for more than 12 months.
+>
+> (9) Subsection (8) does not prevent an electronic monitoring requirement from being extended for a further period (of no more than 12 months each time) under section 122D.
+>
+> **122EB Data from electronic monitoring: code of practice**
+>
+> (1) The Secretary of State must issue a code of practice relating to the processing of data gathered in the course of electronic monitoring of defendants under electronic monitoring requirements imposed by—
+>
+> (a) sexual risk orders,
+>
+> (b) relevant Scottish orders within the meaning of section 136ZI that have been renewed or varied as mentioned in subsection (11) of that section (variation etc by court in England and Wales to impose electronic monitoring requirement), and
+>
+> (c) risk of sexual harm orders that have been renewed or varied as mentioned in section 136ZJ(7) (variation etc by court in England and Wales to impose electronic monitoring requirement).
+>
+> (2) A failure to observe a code issued under this section does not of itself make a person liable to any criminal or civil proceedings.
+
+(15) In section 136ZA, after subsection (2) insert—
+
+> (3) A requirement that is imposed by a relevant order and that relates to the electronic monitoring of a person’s compliance with the prohibitions or requirements imposed by the order is to be treated for the purposes of subsection (2) as a requirement that is expressly confined to a particular locality.
+
+(16) In section 138(3), after “containing” insert “only regulations under section 103FA(6) or section 122EA(6) or”.
+
+##### 179 Positive requirements and electronic monitoring requirements: service courts
+
+In section 137(3) of the Sexual Offences Act 2003 (service courts: sexual harm prevention orders)—
+
+(a) in paragraph (a)—
+
+(i) after “103A(3)” insert “and (4)”, and
+
+(ii) for the words from “and 103J” to “Sentencing Code” substitute “, 103FA(3)(a), (4) and (6) and 103J of this Act, and sections 348A(3)(a), (4) and (6) and 355 to 357 of the Sentencing Code”,
+
+(b) in paragraph (b), in the words before sub-paragraph (i)—
+
+(i) for “103A(1) and (2)” substitute “103A(1), (2) and (3A), and
+
+(ii) for the words from “and 103G” to “Sentencing Code” substitute “, 103FA(1), (2), (3)(b) and (5) to (9), 103FB and 103G to 103I of this Act, and sections 343 to 348, 348A(1), (2), (3)(b) and (5) to (9), 348B to 354 and 358 of the Sentencing Code”,
+
+(c) in paragraph (b)(i), after “paragraphs” insert “(ba), (bb)”,
+
+(d) after paragraph (b) insert—
+
+> (ba) if section 103CA applies to the defendant at a time when the defendant is a person subject to service law or a civilian subject to service discipline, the reference in section 103CA(4)(c) (requirements included in order: report on compliance) to the appropriate chief officer of police is to be read as a reference to a Provost Marshal;
+>
+> (bb) if section 347A applies to the defendant at a time when the defendant is a person subject to service law or a civilian subject to service discipline, the reference in section 347A(4)(c) of the Sentencing Code (requirements included in order: report on compliance) to the appropriate chief office of police is to be read as a reference to a Provost Marshal;
+
+,
+
+(e) in paragraph (c), for “Provost Martial”, in both places it occurs, substitute “Provost Marshal”, and
+
+(f) in paragraph (c), after sub-paragraph (i) insert—
+
+> (ia) the reference in section 103E(2A) to a person mentioned in subsection (2)(b) to (d) is to be read as a reference to a Provost Marshal;
+>
+> (ib) the reference in section 350(3A) of the Sentencing Code to a person mentioned in subsection (2)(b) or (c) is to be read as a reference to a Provost Marshal;
+
+.
+
+#### Orders made in different parts of the United Kingdom
+
+##### 180 Enforcement of requirements of orders made in Scotland or Northern Ireland
+
+(1) The Sexual Offences Act 2003 is amended as follows.
+
+(2) In section 103I (offence: breach of SHPO or interim SHPO etc), after subsection (1) insert—
+
+> (1A) A person who, without reasonable excuse, fails to do something that the person is required to do by a sexual offences prevention order or an interim sexual offences prevention order commits an offence.
+>
+> (1B) A person who, without reasonable excuse—
+>
+> (a) does anything that the person is prohibited from doing by a relevant Scottish order, or
+>
+> (b) fails to do something that the person is required to do by a relevant Scottish order,
+>
+> commits an offence.
+>
+> (1C) In subsection (1B) “relevant Scottish order” means—
+>
+> (a) a sexual harm prevention order made under section 11 or 12 of the Abusive Behaviour and Sexual Harm (Scotland) Act 2016 (asp 22), or
+>
+> (b) an interim sexual harm prevention order made under section 21 of that Act.
+
+(3) In section 113 (offence: breach of SOPO or interim SOPO etc), after subsection (1ZA) insert—
+
+> (1ZB) A person commits an offence if, without reasonable excuse, the person—
+>
+> (a) contravenes a prohibition imposed by a relevant Scottish order other than a prohibition on foreign travel, or
+>
+> (b) fails to comply with a requirement imposed by a relevant Scottish order.
+>
+> (1ZC) In subsection (1ZB)—
+>
+> - “prohibition on foreign travel” has the meaning given by section 17(2) of the Abusive Behaviour and Sexual Harm (Scotland) Act 2016 (asp 22);
+>
+> - “relevant Scottish order” means—
+>
+>   - a sexual harm prevention order made under section 11 or 12 of the Abusive Behaviour and Sexual Harm (Scotland) Act 2016, or
+>   - an interim sexual harm prevention order made under section 21 of that Act.
+
+(4) In section 122(1) (offence: breach of foreign travel order)—
+
+(a) omit the “or” at the end of paragraph (a), and
+
+(b) at the end of paragraph (b) insert
+
+> , or
+>
+> (c) he contravenes a prohibition on foreign travel imposed by a sexual harm prevention order made under section 11 or 12 of the Abusive Behaviour and Sexual Harm (Scotland) Act 2016 (asp 22).
+
+(5) In section 122H (offence: breach of sexual risk order or interim sexual risk order etc)—
+
+(a) in subsection (1) omit paragraphs (e) and (f), and
+
+(b) after subsection (1) insert—
+
+> (1A) A person who, without reasonable excuse, does anything that the person is required to do by a risk of sexual harm order that has been renewed or varied as mentioned in section 136ZJ(7) commits an offence.
+>
+> (1B) A person who, without reasonable excuse—
+>
+> (a) does anything that the person is prohibited from doing by a relevant Scottish order, or
+>
+> (b) fails to do something that the person is required to do by a relevant Scottish order,
+>
+> commits an offence.
+>
+> (1C) In subsection (1B) “relevant Scottish order” means—
+>
+> (a) a sexual risk order made under section 27 of the Abusive Behaviour and Sexual Harm (Scotland) Act 2016 (asp 22), or
+>
+> (b) an interim sexual risk order made under section 31 of that Act.
+
+(6) In section 128 (offence: breach of risk of sexual harm order or interim risk of sexual harm order etc)—
+
+(a) in subsection (1) omit paragraphs (e) and (f), and
+
+(b) after subsection (1A) (inserted by section 177) insert—
+
+> (1B) A person who, without reasonable excuse—
+>
+> (a) does anything that the person is prohibited from doing by a relevant Scottish order, or
+>
+> (b) fails to do something that the person is required to do by a relevant Scottish order,
+>
+> commits an offence.
+>
+> (1C) In subsection (1B) “relevant Scottish order” means—
+>
+> (a) a sexual risk order made under section 27 of the Abusive Behaviour and Sexual Harm (Scotland) Act 2016 (asp 22), or
+>
+> (b) an interim sexual risk order made under section 31 of that Act.
+
+(7) In section 136ZA (application of orders throughout the United Kingdom) in subsection (1)—
+
+(a) after paragraph (i) insert—
+
+> (ia) a sexual harm prevention order made under section 11 or 12 of the Abusive Behaviour and Sexual Harm (Scotland) Act 2016 (asp 22);
+>
+> (ib) an interim sexual harm prevention order made under section 21 of that Act;
+>
+> (ic) a sexual risk order made under section 27 of that Act;
+>
+> (id) an interim sexual risk order made under section 31 of that Act.
+
+, and
+
+(b) omit paragraphs (j) and (k).
+
+##### 181 Effect of conviction for breach of Scottish order etc
+
+(1) In section 122I of the Sexual Offences Act 2003 (effect of conviction etc of an offence under section 122H etc)—
+
+(a) in subsection (2), omit paragraph (b),
+
+(b) after subsection (2) insert—
+
+> (2A) This section also applies to a person (“the defendant”) who—
+>
+> (a) is convicted of an offence mentioned in subsection (2B),
+>
+> (b) is acquitted of such an offence by reason of the special defence set out in section 51A of the Criminal Procedure (Scotland) Act 1995, or
+>
+> (c) is found, in respect of such an offence, to be unfit for trial under section 53F of that Act in a case where the court determines that the defendant has done the act constituting the offence.
+>
+> (2B) Those offences are—
+>
+> (a) an offence under section 34 of the Abusive Behaviour and Sexual Harm (Scotland) Act 2016 (asp 22) (breach of sexual risk order or interim sexual risk order in Scotland);
+>
+> (b) an offence under section 37 of that Act (breach of equivalent orders) in respect of a breach of an order made under section 122A, 122E, 123 or 126 of this Act.
+
+,
+
+(c) in subsection (6)—
+
+(i) in paragraph (a), for “or caution” substitute “, caution or acquittal”,
+
+(ii) in that paragraph, after “subsection (1)” insert “or (2A)”,
+
+(iii) in paragraph (b), for “or caution” substitute “, caution or acquittal”, and
+
+(iv) in that paragraph, after “subsection (1)” insert “or (2A)”,
+
+(d) after subsection (6) insert—
+
+> (6A) In subsection (6) “sexual risk order” and “interim sexual risk order” include orders under sections 27 and 31 (respectively) of the Abusive Behaviour and Sexual Harm (Scotland) Act 2016.
+
+, and
+
+(e) omit subsection (7).
+
+(2) In section 129 of the Sexual Offences Act 2003 (effect of conviction etc of an offence under section 128 etc)—
+
+(a) in subsection (1A), omit paragraph (b),
+
+(b) after subsection (1A) insert—
+
+> (1B) This section also applies to a person (“the defendant”) who—
+>
+> (a) is convicted of an offence mentioned in subsection (1C),
+>
+> (b) is acquitted of such an offence by reason of the special defence set out in section 51A of the Criminal Procedure (Scotland) Act 1995, or
+>
+> (c) is found, in respect of such an offence, to be unfit for trial under section 53F of that Act in a case where the court determines that the defendant has done the act constituting the offence.
+>
+> (1C) Those offences are—
+>
+> (a) an offence under section 34 of the Abusive Behaviour and Sexual Harm (Scotland) Act 2016 (asp 22) (breach of sexual risk order or interim sexual risk order in Scotland);
+>
+> (b) an offence under section 37 of that Act (breach of equivalent orders) in respect of a breach of an order made under section 122A, 122E, 123 or 126 of this Act.
+
+,
+
+(c) in subsection (5)—
+
+(i) in paragraph (a), for “or caution” substitute “, caution or acquittal”,
+
+(ii) in that paragraph, after “subsection (1)” insert “or (1B)”,
+
+(iii) in paragraph (b), for “or caution” substitute “, caution or acquittal”, and
+
+(iv) in that paragraph, after “subsection (1)” insert “or (1B)”,
+
+(d) after subsection (5) insert—
+
+> (5A) In subsection (5) “sexual risk order” and “interim sexual risk order” include orders under sections 27 and 31 (respectively) of the Abusive Behaviour and Sexual Harm (Scotland) Act 2016.
+
+, and
+
+(e) omit subsection (6).
+
+##### 182 Orders superseding, or superseded by, Scottish orders
+
+(1) In section 349(2) of the Sentencing Code (making of sexual harm prevention order: effect on other orders)—
+
+(a) omit the “or” at the end of paragraph (a), and
+
+(b) at the end of paragraph (b) insert
+
+> , or
+>
+> (c) a sexual harm prevention order made under section 11 or 12 of the Abusive Behaviour and Sexual Harm (Scotland) Act 2016 (asp 22),
+
+.
+
+(2) Section 136ZB of the Sexual Offences Act 2003 (order ceases to have effect when new order made) is amended as follows.
+
+(3) In subsection (1), in the table—
+
+(a) in the entry relating to a sexual harm prevention order, in the second column, after “—foreign travel order” insert—
+
+> |  |
+> |---|
+> | - sexual harm prevention order made under section 11 or 12 of the Abusive Behaviour and Sexual Harm (Scotland) Act 2016 (asp 22). |
+
+, and
+
+(b) in the entry relating to a sexual risk order, in the second column, after “—foreign travel order” insert—
+
+> |  |
+> |---|
+> | - sexual risk order made under section 27 of the Abusive Behaviour and Sexual Harm (Scotland) Act 2016. |
+
+(4) In subsection (2)—
+
+(a) in the words before the table—
+
+(i) omit “or Scotland”, and
+
+(ii) after “England and Wales” insert “or Scotland”, and
+
+(b) in the table—
+
+(i) in the entry relating to a sexual offences prevention order, in the second column, after “—in the case of a sexual harm prevention order containing a prohibition on foreign travel, each of its other prohibitions” insert—
+
+> |  |
+> |---|
+> | - sexual harm prevention order made under section 11 or 12 of the Abusive Behaviour and Sexual Harm (Scotland) Act 2016 not containing a prohibition on foreign travel;<br>- in the case of a sexual harm prevention order made under section 11 or 12 of that Act containing a prohibition on foreign travel, each of its other prohibitions. |
+
+,
+
+(ii) in the entry relating to a foreign travel order, in the second column, after “—prohibition on foreign travel contained in a sexual harm prevention order” insert—
+
+> |  |
+> |---|
+> | - prohibition on foreign travel contained in a sexual harm prevention order made under section 11 or 12 of the Abusive Behaviour and Sexual Harm (Scotland) Act 2016. |
+
+, and
+
+(iii) in the entry relating to a risk of sexual harm order, in the second column, after “—in the case of a sexual risk order containing a prohibition on foreign travel, each of its other prohibitions” insert—
+
+> |  |
+> |---|
+> | - sexual risk order made under section 27 of the Abusive Behaviour and Sexual Harm (Scotland) Act 2016 not containing a prohibition on foreign travel;<br>- in the case of a sexual risk order made under section 27 of that Act containing a prohibition on foreign travel, each of its other prohibitions. |
+
+(5) After subsection (2) insert—
+
+> (2ZA) Where a court in Scotland makes an order listed in the first column of the following Table in relation to a person who is already subject to an order or prohibition listed opposite it in the second column, the earlier order or prohibition ceases to have effect (even though it was made or imposed by a court in England and Wales or Northern Ireland) unless the court orders otherwise.
+>
+> | New order | Earlier order or prohibition |
+> |---|---|
+> | Sexual harm prevention order made under section 11 or 12 of the Abusive Behaviour and Sexual Harm (Scotland) Act 2016 | - sexual harm prevention order;<br>- sexual offences prevention order;<br>- foreign travel order. |
+> | Sexual risk order made under section 27 of the Abusive Behaviour and Sexual Harm (Scotland) Act 2016 | - sexual risk order;<br>- risk of sexual harm order;<br>- foreign travel order. |
+
+(6) In subsection (2A), after “subsection (2)” insert “or subsection (2ZA)”.
+
+(7) In subsection (3), omit paragraph (b).
+
+##### 183 Variation etc of order by court in another part of the United Kingdom
+
+(1) Schedule 18 contains amendments enabling a court in one part of the United Kingdom to vary, renew or discharge an order made in another.
+
+(2) In that Schedule—
+
+(a) Part 1 enables a court in Northern Ireland to renew or discharge orders made in England and Wales and to vary, renew or discharge orders made in Scotland;
+
+(b) Part 2 enables a court in Scotland to vary, renew or discharge orders made in England and Wales or Northern Ireland;
+
+(c) Part 3 enables a court in England and Wales to vary, renew or discharge orders made in Scotland or Northern Ireland.
+
+### CHAPTER 4 — Management of terrorist offenders
+
+#### 184 Terrorist offenders released on licence: arrest without warrant pending recall decision
+
+(1) After section 43A of the Terrorism Act 2000 insert—
+
+> **Offenders released on licence: powers in connection with protecting public from risk of terrorism**
+>
+> **43B Terrorist offenders released on licence: arrest without warrant pending recall decision**
+>
+> (1) Subject to subsection (2), a constable may arrest without warrant a terrorist offender who has been released on licence if the constable—
+>
+> (a) has reasonable grounds for suspecting that the offender has breached a condition of their licence, and
+>
+> (b) reasonably considers that it is necessary, for purposes connected with protecting members of the public from a risk of terrorism, to detain the offender until a recall decision is made.
+>
+> (2) A terrorist offender who is detained under this section must (unless recalled or otherwise detained under any other power) be released—
+>
+> (a) if a recall decision is made not to revoke the offender’s licence (and accordingly the offender is not recalled to prison), as soon as practicable after that decision is made, or
+>
+> (b) if a recall decision has not been made by the end of the relevant period, at the end of that period.
+>
+> (3) Part 1 of Schedule 8 makes provision that applies where a terrorist offender is arrested under this section.
+>
+> (4) In this section “terrorist offender” means—
+>
+> (a) an offender to whom a restricted release provision applies or would apply but for the fact that the offender has been released on licence;
+>
+> (b) a life prisoner within the meaning of Chapter 2 of Part 2 of the Crime (Sentences) Act 1997 (see section 34 of that Act) who is serving a sentence for an offence within section 247A(2) of the Criminal Justice Act 2003;
+>
+> (c) a life prisoner within the meaning of Part 1 of the Prisoners and Criminal Proceedings (Scotland) Act 1993 (see section 27 of that Act) who is serving a sentence, or is subject to an order for lifelong restriction, for an offence within section 1AB(2) of that Act;
+>
+> (d) a life prisoner within the meaning of the Life Sentences (Northern Ireland) Order 2001 (S.I. 2001/2564 (N.I. 2)) (see Article 2 of that Order) who is serving a sentence for an offence within Article 20A(2) of the Criminal Justice (Northern Ireland) Order 2008 (S.I. 2008/1216 (N.I. 1)).
+>
+> (5) For the purposes of this section—
+>
+> (a) a reference to an offender who has been released on licence includes an offender who —
+>
+> (i) has been released temporarily pursuant to rules made under section 47(5) of the Prison Act 1952 or section 13(1)(c) of the Prison Act (Northern Ireland) 1953 (c. 18 (N.I.)), or
+>
+> (ii) has been released temporarily on licence pursuant to rules made under section 39(6) of the Prisons (Scotland) Act 1989;
+>
+> (b) a reference to a condition of an offender’s licence includes a condition to which an offender’s temporary release is subject;
+>
+> (c) a reference to revocation of an offender’s licence includes recall of an offender from temporary release.
+>
+> (6) In this section—
+>
+> - “prison” includes any place where a person is liable to be detained;
+>
+> - “recall decision”, in relation to a terrorist offender who has been released on licence, means a decision by any person with the power to revoke the offender’s licence and recall the offender to prison whether or not to exercise that power;
+>
+> - the “relevant period” means—
+>
+>   - in relation to a terrorist offender who has been released on licence under the law of England and Wales, the period of 6 hours beginning with the time of the arrest under this section;
+>   - in relation to a terrorist offender who has been released on licence under the law of Scotland or Northern Ireland, the period of 12 hours beginning with the time of the arrest under this section;
+>
+> - “restricted release provision” means—
+>
+>   - section 247A of the Criminal Justice Act 2003;
+>   - section 1AB of the Prisoners and Criminal Proceedings (Scotland) Act 1993;
+>   - Article 20A of the Criminal Justice (Northern Ireland) Order 2008.
+>
+> (7) A person who has the powers of a constable in one part of the United Kingdom may exercise the power under subsection (1) in any part of the United Kingdom.
+
+(2) In Schedule 8 to the Terrorism Act 2000 (detention)—
+
+(a) in the shoulder reference, for “Section 41” substitute “Sections 41 and 43B”;
+
+(b) in the heading for Part 1, after “41” insert “or 43B”;
+
+(c) in paragraph 1, in sub-paragraphs (1), (2) and (4), after “41” insert “or 43B”;
+
+(d) in paragraph 2, before sub-paragraph (1) insert—
+
+> (A1) This paragraph applies in the case of a person detained under Schedule 7 or section 41.
+
+;
+
+(e) in paragraph 6—
+
+(i) in sub-paragraph (1), for the words from “Subject to” to “section 41” substitute “A person detained under Schedule 7 or section 41 or 43B”;
+
+(ii) after sub-paragraph (1) insert—
+
+> (1A) In the case of a person detained under Schedule 7 or section 41, sub-paragraph (1) is subject to paragraph 8.
+
+;
+
+(f) in paragraph 7—
+
+(i) in sub-paragraph (1), for the words from “Subject to” to “section 41” substitute “A person detained under Schedule 7 or section 41 or 43B”;
+
+(ii) after sub-paragraph (1) insert—
+
+> (1A) Sub-paragraph (1) is subject—
+>
+> (a) in the case of a person detained under Schedule 7 or section 41, to paragraphs 8 and 9, and
+>
+> (b) in the case of a person detained under section 43B, to paragraph 9.
+
+;
+
+(g) in paragraph 8, before sub-paragraph (1) insert—
+
+> (A1) This paragraph does not apply in the case of a person detained under section 43B (except for the purposes of paragraph 9(3)(a)).
+
+;
+
+(h) after paragraph 13 insert—
+
+> **13A** No fingerprint, intimate sample or non-intimate sample may be taken from a person detained under section 43B.
+
+;
+
+(i) in paragraph 16—
+
+(i) in sub-paragraph (1), after “41” insert “or 43B”;
+
+(ii) in sub-paragraphs (4) and (7), at the beginning insert “Where a person is detained under Schedule 7 or section 41,”;
+
+(j) in paragraph 18, in sub-paragraphs (1) and (2), after “41” insert “or 43B”.
+
+#### 185 Power to search terrorist offenders released on licence
+
+After section 43B of the Terrorism Act 2000 insert—
+
+> **43C Power to search terrorist offenders released on licence**
+>
+> (1) A constable may stop and search a terrorist offender who is within subsection (2) if the constable is satisfied that it is necessary to do so for purposes connected with protecting members of the public from a risk of terrorism.
+>
+> (2) A terrorist offender is within this subsection if—
+>
+> (a) the offender has been released on licence (and not recalled), and
+>
+> (b) the offender’s licence includes a search condition.
+>
+> (3) The power in subsection (1) may be exercised in any place to which the constable lawfully has access (whether or not it is a place to which the public has access).
+>
+> (4) Subsection (5) applies if a constable, in exercising the power in subsection (1) to stop a terrorist offender, stops a vehicle (see section 116(2)).
+>
+> (5) The constable may search the vehicle and anything in or on it for purposes connected with protecting members of the public from a risk of terrorism.
+>
+> (6) Nothing in subsection (5) confers a power to search any person, but the power to search in that subsection is in addition to the power in subsection (1) to search a terrorist offender.
+>
+> (7) The power in subsection (1) to search a terrorist offender includes power to search anything carried by the offender.
+>
+> (8) Subsection (5) of section 43B applies for the purposes of this section as it applies for the purposes of that section.
+>
+> (9) In this section—
+>
+> - “search condition” means a condition requiring the offender to submit to a search of their person under this section;
+> - “terrorist offender” has the same meaning as in section 43B.
+>
+> (10) A person who has the powers of a constable in one part of the United Kingdom may exercise a power under this section in any part of the United Kingdom.
+
+#### 186 Search of premises of offender released on licence for purposes connected with protection from risk of terrorism
+
+After section 43C of the Terrorism Act 2000 insert—
+
+> **43D Search of premises of offender released on licence for purposes connected with protection from risk of terrorism**
+>
+> (1) A justice may issue a warrant under this section if, on the application of a senior police officer of the relevant force, the justice is satisfied that the requirements in subsection (2) are met.
+>
+> (2) The requirements are—
+>
+> (a) that the person specified in the application is a relevant offender who has been released on licence (and not recalled),
+>
+> (b) that there are reasonable grounds for believing that the person resides, or may regularly be found, at premises (whether residential or otherwise) specified in the application,
+>
+> (c) that it is necessary, for purposes connected with protecting members of the public from a risk of terrorism, for a constable to enter and search premises specified in the application, and
+>
+> (d) the occupier of the premises is unlikely to consent to a constable entering or searching the premises specified in the application.
+>
+> (3) A warrant under this section must specify each set of premises to which it relates (which are to be premises in relation to which the requirements in subsection (2)(b) to (d) are met).
+>
+> (4) A warrant under this section is a warrant that authorises a constable of the relevant force, for the purposes referred to in subsection (2)(c)—
+>
+> (a) to enter the premises to which it relates, and
+>
+> (b) to search the premises or, if the premises are multiple occupancy premises, the relevant parts of the premises.
+>
+> (5) A warrant under this section may—
+>
+> (a) authorise the constable executing it to use reasonable force if necessary to enter and search the premises;
+>
+> (b) authorise entry to, and search of, the premises on more than one occasion (whether on a certain number of occasions or without limit), so far as the justice who issues the warrant is satisfied that such authorisation is necessary for the purposes referred to in subsection (2)(c).
+>
+> (6) For the purposes of subsection (4)—
+>
+> (a) “multiple occupancy premises” are premises at which two or more individuals who are not members of the same household reside;
+>
+> (b) the reference to the “relevant parts” of multiple occupancy premises is to those parts of the premises to which the constable has reasonable grounds for believing that the person to whom the warrant relates has access.
+>
+> (7) Subsection (5) of section 43B applies for the purposes of this section as it applies for the purposes of that section.
+>
+> (8) In this section “relevant offender” means—
+>
+> (a) a prisoner to whom Chapter 6 of Part 12 of the Criminal Justice Act 2003 applies (release of fixed-term prisoners);
+>
+> (b) a life prisoner within the meaning of Chapter 2 of Part 2 of the Crime (Sentences) Act 1997 (see section 34 of that Act);
+>
+> (c) a short-term prisoner, long-term prisoner or life prisoner within the meaning of Part 1 of the Prisoners and Criminal Proceedings (Scotland) Act 1993 (see section 27 of that Act);
+>
+> (d) a fixed-term prisoner within the meaning of Chapter 4 of Part 2 of the Criminal Justice (Northern Ireland) Order 2008 (S.I. 2008/1216 (N.I. 1)) (see Article 16 of that Order);
+>
+> (e) a life prisoner within the meaning of the Life Sentences (Northern Ireland) Order 2001 (S.I. 2001/2564 (N.I. 2)) (see Article 2 of that Order).
+>
+> (9) In this section—
+>
+> - “justice” means—
+>
+>   - a justice of the peace in England and Wales,
+>   - a sheriff or summary sheriff in Scotland, or
+>   - a lay magistrate in Northern Ireland;
+>
+> - “relevant force” means—
+>
+>   - if the premises specified in the application for the warrant are in England or Wales, the police force maintained for the police area in which those premises are situated,
+>   - if those premises are in Scotland, the Police Service of Scotland, or
+>   - if those premises are in Northern Ireland, the Police Service of Northern Ireland;
+>
+> - “senior police officer” means a constable of the rank of superintendent or above.
+
+#### 187 Powers of seizure and retention
+
+After section 43D of the Terrorism Act 2000 insert—
+
+> **43E Seizure and retention of items found in search under section 43C or 43D**
+>
+> (1) This section applies where a constable carries out—
+>
+> (a) a search of a terrorist offender under section 43C(1),
+>
+> (b) a search of a vehicle, or anything in or on a vehicle, under section 43C(5), or
+>
+> (c) a search of premises further to a warrant issued under section 43D.
+>
+> (2) A constable may seize anything that the constable finds in the course of the search if—
+>
+> (a) the constable reasonably suspects that—
+>
+> (i) the thing is or contains evidence in relation to an offence, and
+>
+> (ii) it is necessary to seize it in order to prevent it being concealed, lost, damaged, altered or destroyed, or
+>
+> (b) the constable reasonably believes that it is necessary to do so for the purpose of ascertaining—
+>
+> (i) whether the offender has breached a condition of the offender’s licence, and
+>
+> (ii) if so, whether the breach affects the risk of terrorism to which members of the public are exposed.
+>
+> (3) Anything seized under subsection (2) may be—
+>
+> (a) subjected to tests;
+>
+> (b) retained for as long as is necessary in all the circumstances (but see subsection (5)).
+>
+> (4) In particular (and regardless of the ground on which the thing was seized)—
+>
+> (a) if a constable has reasonable grounds for believing that the thing is or contains evidence in relation to an offence, it may be retained—
+>
+> (i) for use as evidence at a trial for an offence, or
+>
+> (ii) for forensic examination or for investigation in connection with an offence;
+>
+> (b) if a constable has reasonable grounds for believing that the thing has been obtained in consequence of the commission of an offence, it may be retained in order to establish its lawful owner.
+>
+> (5) Anything seized under subsection (2)(b) that is not retained as mentioned in subsection (4)(a) or (b) may be retained for a maximum period of 7 days beginning with the day after the day on which the thing is seized.
+>
+> (6) Nothing may be retained for either of the purposes mentioned in subsection (4)(a) if a photograph or copy would be sufficient for that purpose.
+>
+> (7) In this section “offender” means—
+>
+> (a) in relation to a search under section 43C, the terrorist offender to whom the search relates;
+>
+> (b) in relation to a search under section 43D, the relevant offender in relation to whom the warrant authorising the search was issued.
+>
+> (8) Nothing in this section affects any power of a court to make an order under section 1 of the Police (Property) Act 1897.
+
+#### 188 Sections 184 to 187: consequential provision
+
+Schedule 19 makes provision that is consequential on sections 184 to 187.
+
+#### 189 Arrangements for assessing etc risks posed by certain offenders
+
+(1) Section 325 of the Criminal Justice Act 2003 (arrangements for assessing etc risks posed by certain offenders) is amended in accordance with subsections (2) to (6).
+
+(2) In subsection (1), in the definition of “relevant sexual or violent offender”, for “has the meaning” substitute “and “relevant terrorist offender” have the meanings”.
+
+(3) In subsection (2)—
+
+(a) for the “and” at the end of paragraph (a) substitute—
+
+> (aa) relevant terrorist offenders,
+
+(b) at the end of paragraph (b) insert
+
+> , and
+>
+> (c) other persons who have committed offences (wherever committed) and are considered by the responsible authority to be persons who may be at risk of involvement in terrorism-related activity.
+
+(4) For subsection (4) substitute—
+
+> (4) A person to whom subsection (4A) applies may, for the purpose described in subsection (2), disclose information to another person to whom subsection (4A) applies.
+>
+> (4A) This subsection applies to—
+>
+> (a) the responsible authority,
+>
+> (b) a person specified in subsection (6), and
+>
+> (c) a person who the responsible authority considers may contribute to the achievement of the purpose described in subsection (2).
+>
+> (4B) A disclosure under subsection (4) does not breach—
+>
+> (a) any obligation of confidence owed by the person making the disclosure, or
+>
+> (b) any other restriction on the disclosure of information (however imposed).
+>
+> (4C) But subsection (4) does not authorise a disclosure of information that—
+>
+> (a) would contravene the data protection legislation (but in determining whether it would do so, the power in that subsection is to be taken into account), or
+>
+> (b) would be prohibited by any of Parts 1 to 7 or Chapter 1 of Part 9 of the Investigatory Powers Act 2016.
+>
+> (4D) Subsection (4E) applies if a person who may disclose or receive information by virtue of subsection (4) would not otherwise be a competent authority for the purposes of Part 3 of the Data Protection Act 2018 (law enforcement processing) in relation to the processing by that person of personal data by virtue of that subsection.
+>
+> (4E) The person is to be treated as a competent authority for the purposes of that Part in relation to the processing by that person of personal data by virtue of subsection (4).
+>
+> (4F) But subsection (4E) does not apply to an intelligence service within the meaning of Part 4 of the Data Protection Act 2018 (see section 82(2) of that Act).
+>
+> (4G) Subsections (4) to (4F) do not affect any power to disclose information apart from that conferred by subsection (4).
+
+(5) In subsection (6), in the opening words, after “(3)” insert “, (4A)(b)”.
+
+(6) In subsection (9), at the appropriate places insert—
+
+> - “the data protection legislation” has the same meaning as in the Data Protection Act 2018 (see section 3 of that Act);
+
+;
+
+> - “involvement in terrorism-related activity” has the same meaning as in the Terrorism Prevention and Investigation Measures Act 2011 (see section 4 of that Act);
+
+;
+
+> - “personal data” has the same meaning as in the Data Protection Act 2018 (see section 3(2) of that Act);
+
+;
+
+> - “processing” has the same meaning as in the Data Protection Act 2018 (see section 3(4) of that Act);
+
+.
+
+(7) Section 327 of the Criminal Justice Act 2003 (interpretation of section 325) is amended in accordance with subsections (8) to (10).
+
+(8) In subsection (3)—
+
+(a) in paragraph (a)—
+
+(i) for “is” substitute “has been”, and
+
+(ii) after “specified in” insert “Part 1 or 2 of”, and
+
+(b) in paragraph (b)—
+
+(i) in the words before sub-paragraph (i), for “is” substitute “was”,
+
+(ii) in sub-paragraph (i), for “for a term of 12 months or more” substitute “that is not for a term of less than 12 months”, and
+
+(iii) after sub-paragraph (v) insert—
+
+> (va) a sentence of custody for life under section 93 or 94 of the Powers of Criminal Courts (Sentencing) Act 2000 or under section 272 or 275 of the Sentencing Code,
+
+.
+
+(9) In subsection (4)(a), after “specified in” insert “Part 1 or 2 of”.
+
+(10) After subsection (4A) insert—
+
+> (4B) For the purposes of section 325, a person is a relevant terrorist offender if the person falls within one or both of subsections (4C) and (4D).
+>
+> (4C) A person falls within this subsection if the person is subject to the notification requirements of Part 4 of the Counter-Terrorism Act 2008.
+>
+> (4D) A person falls within this subsection if the person has been convicted of and sentenced for a relevant terrorist offence, or otherwise dealt within in relation to such an offence, as described in—
+>
+> (a) paragraph (a) or (b) of section 45(1) of the Counter-Terrorism Act 2008,
+>
+> (b) paragraph (a) or (b) of section 45(2) of that Act,
+>
+> (c) paragraph (a) or (b) of section 45(3) of that Act, or
+>
+> (d) paragraph (a) or (b) of paragraph 5(1) of Schedule 6 to that Act.
+>
+> (4E) For the purposes of subsection (4D)—
+>
+> (a) any reference in the Counter-Terrorism Act 2008 to an offence to which Part 4 of that Act applies is to be read as if it were a reference to a relevant terrorist offence, and
+>
+> (b) any reference in that Act to a hospital order is to be read as if it included a guardianship order within the meaning of the Mental Health Act 1983 or the Mental Health (Northern Ireland) Order 1986 (S.I. 1986/595 (N.I. 4)).
+>
+> (4F) In subsections (4D) and (4E) “relevant terrorist offence” means—
+>
+> (a) an offence specified in Part 1 or 2 of Schedule 19ZA (terrorism offences punishable with imprisonment for life or for more than two years),
+>
+> (b) a service offence as respects which the corresponding civil offence is so specified, or
+>
+> (c) an offence which was determined to have a terrorist connection (see subsection (4G));
+>
+> and in paragraph (b) “service offence” and “corresponding civil offence” have the same meanings as in the Counter-Terrorism Act 2008 (see section 95 of that Act).
+>
+> (4G) For the purposes of subsection (4F)(c), an offence was determined to have a terrorist connection if it was—
+>
+> (a) determined to have a terrorist connection under—
+>
+> (i) section 69 of the Sentencing Code (including as applied by section 238(6) of the Armed Forces Act 2006),
+>
+> (ii) section 30 of the Counter-Terrorism Act 2008 (in the case of an offender sentenced in England and Wales before the Sentencing Code applied, or an offender sentenced in Northern Ireland but now capable of posing a risk in an area in England and Wales), or
+>
+> (iii) section 32 of that Act (in the case of a person sentenced for a service offence before the Sentencing Code applied), or
+>
+> (b) proved to have been aggravated by reason of having a terrorist connection under section 31 of the Counter-Terrorism Act 2008 (in the case of an offender sentenced in Scotland but now capable of posing a risk in an area in England and Wales).
+
+### CHAPTER 5 — Football banning orders
+
+#### 190 Football banning orders: relevant offences
+
+(1) The Football Spectators Act 1989 is amended as follows.
+
+(2) Schedule 1 (football banning orders: relevant offences) is amended in accordance with subsections (3) to (7).
+
+(3) In paragraph 1(c) (certain offences under the Public Order Act 1986 committed at premises)—
+
+(a) after “any offence under section” insert “4,”, and
+
+(b) before “harassment” insert “fear or provocation of violence, or”.
+
+(4) In paragraph 1(k) (certain offences under the Public Order Act 1986 committed on a journey to or from a football match)—
+
+(a) after “any offence under section” insert “4,”, and
+
+(b) before “harassment” insert “fear or provocation of violence, or”.
+
+(5) In paragraph 1(q) (certain offences under the Public Order Act 1986 which the court declares to be related to a football match)—
+
+(a) after “any offence under section” insert “4,”,
+
+(b) before “harassment” insert “fear or provocation of violence, or”, and
+
+(c) omit “or any provision of Part 3 or 3A of that Act (hatred by reference to race etc)”.
+
+(6) In paragraph 1, after paragraph (u) insert—
+
+> (v) any offence under any provision of Part 3 or 3A of the Public Order Act 1986 (hatred by reference to race etc)—
+>
+> (i) which does not fall within paragraph (c) or (k), and
+>
+> (ii) as respects which the court makes a declaration that the offence related to a football match, to a football organisation or to a person whom the accused knew or believed to have a prescribed connection with a football organisation,
+>
+> (w) any offence under section 31 of the Crime and Disorder Act 1998 (racially or religiously aggravated public order offences) as respects which the court makes a declaration that the offence related to a football match, to a football organisation or to a person whom the accused knew or believed to have a prescribed connection with a football organisation,
+>
+> (x) any offence under section 1 of the Malicious Communications Act 1988 (offence of sending letter, electronic communication or article with intent to cause distress or anxiety)—
+>
+> (i) which does not fall within paragraph (d), (e), (m), (n), (r) or (s),
+>
+> (ii) as respects which the court has stated that the offence is aggravated by hostility of any of the types mentioned in section 66(1) of the Sentencing Code (racial hostility etc), and
+>
+> (iii) as respects which the court makes a declaration that the offence related to a football match, to a football organisation or to a person whom the accused knew or believed to have a prescribed connection with a football organisation,
+>
+> (y) any offence under section 127(1) of the Communications Act 2003 (improper use of public telecommunications network)—
+>
+> (i) which does not fall within paragraph (d), (e), (m), (n), (r) or (s),
+>
+> (ii) as respects which the court has stated that the offence is aggravated by hostility of any of the types mentioned in section 66(1) of the Sentencing Code (racial hostility etc), and
+>
+> (iii) as respects which the court makes a declaration that the offence related to a football match, to a football organisation or to a person whom the accused knew or believed to have a prescribed connection with a football organisation.
+
+(7) In paragraph 4—
+
+(a) the words from “In this Schedule” to “Part II of this Act.” become sub-paragraph (1),
+
+(b) after sub-paragraph (1) insert—
+
+> (1A) In this Schedule “football organisation” means an organisation which is a regulated football organisation for the purposes of Part 2 of this Act.
+
+, and
+
+(c) after sub-paragraph (2) insert—
+
+> (3) The provision that may be made by an order made by the Secretary of State for the purposes of this Schedule includes provision that a person has a prescribed connection with a football organisation where—
+>
+> (a) the person has had a connection of a prescribed kind with a football organisation in the past, or
+>
+> (b) the person will or may have a connection of a prescribed kind with a football organisation in the future.
+
+(8) In section 14 (main definitions), after subsection (2) insert—
+
+> (2A) “Regulated football organisation” means an organisation (whether in the United Kingdom or elsewhere) which—
+>
+> (a) relates to association football, and
+>
+> (b) is a prescribed organisation or an organisation of a prescribed description.
+
+(9) Section 23 (further provision about, and appeals against, declarations of relevance) is amended in accordance with subsections (10) and (11).
+
+(10) In subsection (1), for the words from “related to football matches” to the end of the subsection substitute
+
+> —
+>
+> (a) related to football matches,
+>
+> (b) related to a particular football match or to particular football matches,
+>
+> (c) related to a football organisation, or
+>
+> (d) related to a person whom the defendant knew or believed to have a prescribed connection with a football organisation,
+>
+> as the case may be.
+
+(11) In subsection (5), for the words from “related to football matches” to the end of the subsection substitute
+
+> —
+>
+> (a) related to football matches,
+>
+> (b) related to one or more particular football matches,
+>
+> (c) related to a football organisation, or
+>
+> (d) related to a person whom the defendant knew or believed to have a prescribed connection with a football organisation.
+
+(12) This section does not apply in relation to an offence committed before the day appointed by regulations under section 208(1) for its coming into force (so far as it has not previously been commenced by section 208(4)(y)).
+
+#### 191 Football banning orders: power to amend list of relevant offences
+
+(1) In section 14 of the Football Spectators Act 1989 (main definitions), after subsection (8) insert—
+
+> (9) The Secretary of State may by regulations amend paragraph 1 of Schedule 1 so as to add, modify or remove a reference to an offence or a description of offence.
+>
+> (10) Regulations under subsection (9) may make consequential amendments to this Act.
+>
+> (11) A statutory instrument containing regulations under subsection (9) may not be made unless a draft of the instrument has been laid before and approved by a resolution of each House of Parliament.
+
+(2) Section 22A of that Act (other interpretation, etc) is amended in accordance with subsections (3) and (4).
+
+(3) In subsection (3), after “order” insert “or regulations”.
+
+(4) After subsection (3) insert—
+
+> (3A) An order or regulations under this Part—
+>
+> (a) may make different provision for different purposes;
+>
+> (b) may make consequential, supplementary, incidental, transitional, transitory or saving provision.
+
+#### 192 Football banning orders: requirement to make order on conviction etc
+
+(1) In section 14A of the Football Spectators Act 1989 (banning order made on conviction of an offence), for subsections (2) and (3) substitute—
+
+> (2) The court must make a banning order in respect of the offender unless the court considers that there are particular circumstances relating to the offence or to the offender which would make it unjust in all the circumstances to do so.
+>
+> (3) Where the court does not make a banning order it must state in open court the reasons for not doing so.
+
+(2) Section 22 of that Act (banning orders arising out of offences outside England and Wales) is amended in accordance with subsections (3) and (4).
+
+(3) In subsection (4), for the words following paragraph (b) substitute—
+
+> must make a banning order in relation to the person, unless subsection (5) applies.
+
+(4) For subsections (5) and (5A) substitute—
+
+> (5) This subsection applies if—
+>
+> (a) it appears to the court that the conviction of the corresponding offence in a country outside England and Wales is the subject of proceedings in a court of law in that country questioning the conviction, or
+>
+> (b) the court considers that there are particular circumstances relating to the corresponding offence or to the person which would make it unjust in all the circumstances to make a banning order.
+>
+> (5A) Where the court does not make a banning order on the ground mentioned in subsection (5)(b) it must state in open court the reasons for not doing so.
+
+(5) This section does not apply in relation to an offence committed before the day appointed by regulations under section 208(1) for its coming into force.
+
+## PART 11 — Rehabilitation of offenders
+
+### 193 Rehabilitation of offenders
+
+(1) The Rehabilitation of Offenders Act 1974, as it forms part of the law of England and Wales, is amended as follows.
+
+(2) Section 5 (rehabilitation periods for particular sentences) is amended in accordance with subsections (3) to (12).
+
+(3) In subsection (1) (sentences excluded from rehabilitation)—
+
+(a) for paragraph (b) substitute—
+
+> (b) any of the following sentences, where the sentence is imposed for an offence specified in Schedule 18 to the Sentencing Code (serious violent, sexual and terrorism offences) or a service offence as respects which the corresponding offence is so specified—
+>
+> (i) a sentence of imprisonment for a term exceeding 4 years;
+>
+> (ii) a sentence of youth custody for such a term;
+>
+> (iii) a sentence of detention in a young offender institution for such a term;
+>
+> (iv) a sentence of corrective training for such a term;
+>
+> (v) a sentence of detention under section 91 of the Powers of Criminal Courts (Sentencing) Act 2000 for such a term;
+>
+> (vi) a sentence of detention under section 250 or 252A of the Sentencing Code for such a term;
+>
+> (vii) a sentence of detention under section 209 or 224B of the Armed Forces Act 2006 for such a term;
+>
+> (viii) a sentence of detention under section 205ZC(5) or 208 of the Criminal Procedure (Scotland) Act 1995 for such a term;
+
+, and
+
+(b) in paragraph (d) omit the words from “or a sentence of detention” to the end of that paragraph (including the “and” at the end of that paragraph).
+
+(4) After subsection (1) insert—
+
+> (1ZA) In subsection (1)(b)—
+>
+> (a) “service offence” means an offence under—
+>
+> (i) section 42 of the Armed Forces Act 2006,
+>
+> (ii) section 70 of the Army Act 1955 or Air Force Act 1955, or
+>
+> (iii) section 42 of the Naval Discipline Act 1957, and
+>
+> (b) “corresponding offence” means—
+>
+> (i) in relation to an offence under section 42 of the Armed Forces Act 2006, the corresponding offence under the law of England and Wales within the meaning of that section;
+>
+> (ii) in relation to an offence under section 70 of the Army Act 1955 or the Air Force Act 1955, the corresponding civil offence within the meaning of that Act;
+>
+> (iii) in relation to an offence under section 42 of the Naval Discipline Act 1957, the civil offence within the meaning of that section.
+>
+> (1ZB) Section 48 of the Armed Forces Act 2006 (supplementary provisions relating to ancillary service offences) applies for the purposes of subsection (1ZA)(b)(i) as it applies for the purposes of the provisions of that Act referred to in subsection (3)(b) of that section.
+
+(5) In subsection (2) (rehabilitation periods), in the words before paragraph (a), for “(3) and” substitute “(2A) to”.
+
+(6) In the table in subsection (2)(b) (rehabilitation periods)—
+
+(a) for the three rows relating to custodial sentences substitute—
+
+> |  |  |  |
+> |---|---|---|
+> | A custodial sentence of more than 4 years | The end of the period of 7 years beginning with the day on which the sentence (including any licence period) is completed | The end of the period of 42 months beginning with the day on which the sentence (including any licence period) is completed |
+> | A custodial sentence of more than 1 year and up to, or consisting of, 4 years | The end of the period of 4 years beginning with the day on which the sentence (including any licence period) is completed | The end of the period of 2 years beginning with the day on which the sentence (including any licence period) is completed |
+> | A custodial sentence of 1 year or less | The end of the period of 12 months beginning with the day on which the sentence (including any licence period) is completed | The end of the period of 6 months beginning with the day on which the sentence (including any licence period) is completed |
+
+;
+
+(b) omit the row relating to a community or youth rehabilitation order.
+
+(7) After subsection (2) (and after the table in subsection (2)(b)) insert—
+
+> (2A) Subsection (2B) applies where provision is made by or under a relevant order for the order to have effect—
+>
+> (a) until further order,
+>
+> (b) until the occurrence of a specified event, or
+>
+> (c) otherwise for an indefinite period.
+>
+> (2B) The rehabilitation period for the order is the period—
+>
+> (a) beginning with the date of the conviction in respect of which the order is imposed, and
+>
+> (b) ending when the order ceases to have effect.
+
+(8) For subsection (3) (rehabilitation period for community etc order which does not provide for the last day on which the order has effect) substitute—
+
+> (3) The rehabilitation period for a relevant order which is not otherwise dealt with in the Table or under subsections (2A) and (2B) is the period of 24 months beginning with the date of conviction.
+
+(9) In subsection (4)(b) (rehabilitation period for other sentences), for “subsection (3)” substitute “any of subsections (2A) to (3)”.
+
+(10) In subsection (7), in the words before paragraph (a), for “For” substitute “Subject to subsection (7A), for”.
+
+(11) After subsection (7) insert—
+
+> (7A) Subsection (7)(a) or (b) does not apply for the purposes of determining whether a sentence is excluded from rehabilitation by virtue of subsection (1)(b).
+>
+> (7B) For the purposes of this section, a sentence imposed as mentioned in subsection (7)(f) for an offence—
+>
+> (a) under the law of Scotland, Northern Ireland or a country or territory outside the United Kingdom, and
+>
+> (b) which would have constituted an offence specified in Schedule 18 to the Sentencing Code if it had been committed in England and Wales,
+>
+> is to be treated as a sentence for an offence specified in that Schedule (and for this purpose an act punishable under the law in force in a country or territory outside the United Kingdom constitutes an offence under that law, however it is described in that law).
+
+(12) In subsection (8) (interpretation), in the definition of “relevant order”—
+
+(a) before paragraph (a) insert—
+
+> - (za) a community or youth rehabilitation order,
+
+, and
+
+(b) for paragraph (g) substitute—
+
+> - any order which—
+>
+>   - imposes a disqualification, disability, prohibition, penalty, requirement or restriction, or
+>   - is otherwise intended to regulate the behaviour of the person convicted,
+>
+>   and is not otherwise dealt with in the Table,
+
+.
+
+(13) In section 6(5) (the rehabilitation period applicable to a conviction), for the words from “by virtue of” to “or other penalty” substitute “to an order within paragraph (g) of the definition of “relevant order” in section 5(8) above”.
+
+(14) In section 7(1)(d) (limitations on rehabilitation under the Act), for “or other penalty” substitute “, penalty, requirement, restriction or other regulation of the person’s behaviour”.
+
+(15) In paragraph 5(b) of Schedule 2 (protection for spent cautions), after “prohibition” insert “, requirement”.
+
+(16) This section applies in relation to convictions before the day on which this section comes into force (“the commencement day”) as well as in relation to convictions on or after that day.
+
+(17) The Rehabilitation of Offenders Act 1974 (“the 1974 Act”) applies in relation to convictions before the commencement day as if the amendments made by this section had always had effect.
+
+(18) Where by virtue of subsection (17)—
+
+(a) a person would, before the commencement day, have been treated for the purposes of the 1974 Act as a rehabilitated person in respect of a conviction, or
+
+(b) a conviction would, before that day, have been treated for the purposes of that Act as spent,
+
+the person or conviction concerned is (subject to any order made by virtue of section 4(4) or 7(4) of that Act) to be so treated on and after that day.
+
+## PART 12 — Disregards and pardons for certain historical offences
+
+### 194 Disregard of certain convictions or cautions
+
+(1) The Protection of Freedoms Act 2012 is amended in accordance with subsections (2) to (10).
+
+(2) Section 92 (power of Secretary of State to disregard convictions or cautions) is amended in accordance with subsections (3) to (5).
+
+(3) In subsection (1) for the words from “under” to the end of paragraph (c) substitute “in circumstances where the conduct constituting the offence was sexual activity between persons of the same sex”.
+
+(4) In subsection (3)—
+
+(a) in paragraph (a)—
+
+(i) for the first “the” substitute “any”,
+
+(ii) for “conduct constituting the offence consented to it and” substitute “sexual activity”, and
+
+(iii) omit the second “and”, and
+
+(b) for paragraph (b) substitute—
+
+> (b) the offence has been repealed or, in the case of an offence at common law, abolished by enactment (whether or not it has been re-enacted or replaced), and
+>
+> (c) the sexual activity would not, if occurring in the same circumstances at the point of decision, constitute an offence.
+
+(5) After subsection (6) insert—
+
+> (7) In this section “sexual activity” includes—
+>
+> (a) any physical or affectionate activity which is of a type characteristic of people involved in an intimate personal relationship, and
+>
+> (b) conduct intended to lead to sexual activity.
+
+(6) In section 93(3) (applications to the Secretary of State), for the words from “the matters” to the end substitute
+
+> —
+>
+> (a) whether a conviction or caution is of a kind mentioned in section 92(1);
+>
+> (b) the matters mentioned in condition A in that section.
+
+(7) In section 94 (procedure for decisions by the Secretary of State)—
+
+(a) in subsection (1)—
+
+(i) after “considering” insert “whether a conviction or caution is of a kind mentioned in section 92(1) or”, and
+
+(ii) for “section 92” substitute “that section”,
+
+(b) in subsection (2)—
+
+(i) after “deciding” insert “whether a conviction or caution is of a kind mentioned in section 92(1) or”, and
+
+(ii) for “section 92” substitute “that section”,
+
+(c) after subsection (2) insert—
+
+> (2A) If the Secretary of State refuses an application on the basis that the caution or conviction is not of a kind mentioned in section 92(1), the Secretary of State must—
+>
+> (a) record the decision in writing, and
+>
+> (b) give notice of it to the applicant.
+
+(8) In section 99 (appeal against refusal to disregard convictions or cautions)—
+
+(a) in subsection (1)(a) after “Secretary of State” insert “refuses an application on the basis mentioned in section 94(2A) or”,
+
+(b) in subsection (3), for the words from “that it” to the end substitute
+
+> —
+>
+> (a) that the conviction or caution is of a kind mentioned in section 92(1), it must make an order to that effect;
+>
+> (b) that it appears as mentioned in condition A of that section, it must make an order to that effect.
+
+, and
+
+(c) in subsection (5), after “subsection (3)” insert “(b)”.
+
+(9) In section 100(1) (advisers)—
+
+(a) for the second “Secretary of State” substitute
+
+> Secretary of State—
+>
+> (a) the caution or conviction is of a kind mentioned in section 92(1), or
+
+,
+
+(b) the remaining text becomes paragraph (b), and
+
+(c) in that paragraph for “section 92” substitute “that section”.
+
+(10) In section 101—
+
+(a) in subsection (1)—
+
+(i) in paragraph (a) of the definition of “conviction”, after “proceedings” insert “(including anything that under section 376(1) and (2) of the Armed Forces Act 2006 is to be treated as a conviction for the purposes of that Act)”,
+
+(ii) at the end of the definition of “sentence” insert “(including anything that under section 376(1) and (3) of the Armed Forces Act 2006 is to be treated as a sentence for the purposes of that Act),”,
+
+(iii) at the end of paragraph (a) of the definition of “service disciplinary proceedings” omit “or”,
+
+(iv) after paragraph (b) of the definition of “service disciplinary proceedings” insert
+
+> , or
+>
+> (c) in respect of a service offence (whether or not before a court but excepting proceedings before a civilian court within the meaning of the Armed Forces Act 2006);
+
+and for the purposes of paragraph (c) “service offence” means a service offence within the meaning of the Armed Forces Act 2006, or an SDA offence within the meaning of the Armed Forces Act 2006 (Transitional Provisions etc) Order 2009 (SI 2009/1059).”, and
+
+(v) in the appropriate place insert—
+
+> - “enactment” includes an enactment contained in subordinate legislation (within the meaning of the Interpretation Act 1978),
+
+,
+
+(b) omit subsections (3) and (4),
+
+(c) in subsection (5) for paragraphs (a) and (b) substitute “a reference to an inchoate or ancillary offence relating to the offence.”,
+
+(d) in subsection (6)—
+
+(i) for the first “or incitement” substitute “, incitement, encouraging or assisting”, and
+
+(ii) for the second “or incitement” substitute “, incitement, encouraging or assisting”,
+
+(e) after subsection (6) insert—
+
+> (6A) For the purposes of section 92, an inchoate or ancillary offence is to be treated as repealed or abolished to the extent that the offence to which it relates is repealed or abolished.
+>
+> (6B) A reference to an inchoate or ancillary offence in relation to an offence is a reference to an offence of—
+>
+> (a) attempting, conspiracy or incitement to commit the offence,
+>
+> (b) encouraging or assisting the commission of the offence, or
+>
+> (c) aiding, abetting, counselling or procuring the commission of the offence.
+>
+> (6C) For the purposes of section 92, an offence under an enactment mentioned in subsection (6D) is to be treated as repealed to the extent that the conduct constituting the offence under the enactment—
+>
+> (a) was punishable by reference to an offence under the law of England and Wales which has been repealed or abolished, or
+>
+> (b) if the conduct was not punishable by the law of England and Wales, was punishable by reference to equivalent conduct constituting an offence under the law of England and Wales which has been repealed or abolished.
+>
+> (6D) The enactments are—
+>
+> (a) section 45 of the Naval Discipline Act 1866,
+>
+> (b) section 41 of the Army Act 1881,
+>
+> (c) section 41 of the Air Force Act 1917,
+>
+> (d) section 70 of the Army Act 1955,
+>
+> (e) section 70 of the Air Force Act 1955,
+>
+> (f) section 42 of the Naval Discipline Act 1957, and
+>
+> (g) section 42 of the Armed Forces Act 2006.
+
+, and
+
+(f) in subsection (7) for “(5) and (6)” substitute “(5), (6) and (6B)”.
+
+(11) Nothing in this section affects the disregard of a conviction or caution that was disregarded before this section comes into force.
+
+### 195 Pardons for certain convictions or cautions
+
+(1) The Policing and Crime Act 2017 is amended in accordance with subsections (2) to (13).
+
+(2) Section 164 (posthumous pardons for convictions etc. of certain abolished offences) is amended in accordance with subsections (3) to (10).
+
+(3) Before subsection (1) insert—
+
+> (A1) Subsection (1) applies in relation to a person—
+>
+> (a) who was convicted of, or cautioned for, an offence in circumstances where the conduct constituting the offence was sexual activity between persons of the same sex, and
+>
+> (b) who died before the end of the period of twelve months beginning with—
+>
+> (i) the day on which section 194 of the Police, Crime, Sentencing and Courts Act 2022 comes into force, or
+>
+> (ii) if later, the day on which the offence referred to in paragraph (a) became an abolished offence (see subsection (1A)).
+
+(4) For subsection (1) substitute—
+
+> (1) The person is pardoned for the offence if—
+>
+> (a) any other person involved in the sexual activity was aged 16 or over, and
+>
+> (b) the offence has become an abolished offence.
+>
+> (1A) An offence becomes an abolished offence at the point at which conditions A and B are first met.
+>
+> (1B) Condition A is that the offence has been repealed or, in the case of an offence at common law, abolished by enactment (whether or not it was re-enacted or replaced).
+>
+> (1C) Condition B is that the sexual activity referred to in subsection (A1)(a) would not, if occurring in the same circumstances, constitute an offence.
+
+(5) Omit subsections (2) to (6).
+
+(6) In subsection (7)—
+
+(a) for “subsection (8)” substitute “subsections (8) and (8A)”, and
+
+(b) at the end of paragraph (b) insert “(but as if the reference in subsections (6A) and (6C) to section 92 were a reference to this section)”.
+
+(7) In subsection (8) (as amended by section 19 of the Armed Forces Act 2021)—
+
+(a) omit paragraph (ba),
+
+(b) at the end of paragraph (c) omit “or”,
+
+(c) after paragraph (c) (but before paragraph (d) inserted by section 19(3)(d) of the Armed Forces Act 2021) insert—
+
+> (ca) the Mutiny Act 1878, the Marine Mutiny Act 1878, any Act previously in force corresponding to either of those Acts or any relevant Articles of War, or
+
+.
+
+(8) After subsection (8) insert—
+
+> (8A) Section 101(6D) of the 2012 Act is to be read, in its application to this section by virtue of subsection (7) of this section, as if the enactments listed in that subsection included—
+>
+> (a) Article 2 of Section 20 of the Articles of War of 1749 (offences triable by courts martial outside Great Britain),
+>
+> (b) section 38 of the Naval Discipline Act 1860,
+>
+> (c) section 38 of the Naval Discipline Act 1861,
+>
+> (d) section 41 of the Naval Discipline Act 1864,
+>
+> (e) Article 93 of Section 2 of the Articles of War of 1876 (offences not specified in Marine Mutiny Act or Articles of War),
+>
+> (f) section 41 of the Army Discipline and Regulation Act 1879, and
+>
+> (g) any provision corresponding to the provision mentioned in paragraphs (a) or (e), contained in other relevant Articles of War.
+
+(9) In subsection (10) (inserted by section 19 of the Armed Forces Act 2021) insert in the appropriate place—
+
+> - “sexual activity” includes—
+>
+>   - any physical or affectionate activity which is of a type characteristic of people involved in an intimate personal relationship, and
+>   - conduct intended to lead to sexual activity.
+
+(10) After subsection (10) insert—
+
+> (11) Subsection (1) does not apply in relation to an offence for which the person has previously been pardoned under this section or section 165.
+
+(11) In section 165(1) (other pardons for convictions etc. of certain abolished offences) after “offence” insert “in the circumstances”.
+
+(12) Omit section 166 (power to provide disregards and pardons for additional abolished offences).
+
+(13) In section 167 (sections 164 to 166: supplementary)—
+
+(a) in the opening words of subsection (1) omit “, or under regulations under 166,”, and
+
+(b) in subsection (2)—
+
+(i) for “sections 164 to 166” substitute “section 164 or 165”, and
+
+(ii) omit “or regulations under section 166”.
+
+(14) Nothing in this section affects a pardon for a conviction or caution which took effect before this section comes into force.
+
+(15) In section 19 of the Armed Forces Act 2021 (posthumous pardons in relation to certain abolished offences), omit subsection (2) and paragraphs (b) and (c) of subsection (3).
+
+## PART 13 — Procedures in courts and tribunals
+
+### Juries
+
+#### 196 British Sign Language interpreters for deaf jurors
+
+(1) The Juries Act 1974 is amended as follows.
+
+(2) After section 9B insert—
+
+> **9C British Sign Language interpreters for deaf jurors**
+>
+> (1) For the purpose of section 9B(2), in determining whether or not a person who is deaf should act as a juror, the judge must consider whether the assistance of a British Sign Language interpreter would enable that person to be capable of acting effectively as a juror.
+>
+> (2) Where the judge considers that the assistance of a British Sign Language interpreter would enable the person to be capable of acting effectively as a juror, the judge may appoint one or more interpreters to provide that assistance, and affirm the summons.
+>
+> (3) An interpreter appointed under subsection (2) may remain with the jury in the course of their deliberations in proceedings before a court for the purpose of enabling the person the interpreter is assisting to act effectively as a juror.
+>
+> (4) The interpreter must not interfere in or influence the deliberations of the jury (see section 20I as to the offence).
+
+(3) After section 20G insert—
+
+> **20H Application of certain provisions to British Sign Language interpreters**
+>
+> (1) Section 12(1) and (2) (challenge for cause) apply to an interpreter appointed under section 9C(2) as those provisions apply to jurors.
+>
+> (2) Section 15A (surrender of electronic communications devices) applies to an interpreter appointed under section 9C(2) as it applies to members of a jury.
+>
+> (3) Section 20A (offence of research by jurors) applies to an interpreter appointed under section 9C(2) as it applies to members of a jury with the modification that the reference to “the trial period” in subsection (5), in relation to an interpreter, is the period—
+>
+> (a) beginning when the interpreter is appointed under section 9C(2), and
+>
+> (b) ending when the judge discharges the jury or, if earlier, when the judge discharges the interpreter.
+>
+> (4) Section 20B (offence of sharing research with other jurors) applies to an interpreter appointed under section 9C(2) as it applies to members of a jury, but the references in section 20B to “section 20A” and “the trial period” are to be read as references to “section 20A” and “the trial period” as modified by subsection (3) of this section.
+>
+> (5) In the following provisions of section 20F (exceptions to offence of disclosing jury deliberations), the references to the conduct of a juror include the conduct of an interpreter appointed under section 9C(2)—
+>
+> (a) subsection (1)(b)(ii);
+>
+> (b) subsection (4)(b);
+>
+> (c) subsection (5).
+>
+> **20I Offence: interpreters interfering in or influencing jury deliberations**
+>
+> (1) It is an offence for an interpreter appointed under section 9C(2) intentionally to interfere in or influence the deliberations of the jury in proceedings before a court.
+>
+> (2) A person guilty of an offence under this section is liable, on conviction on indictment, to imprisonment for a term not exceeding 2 years or a fine (or both).
+>
+> (3) Proceedings for an offence under this section may only be instituted by or with the consent of the Attorney General.
+
+(4) In section 22(A1) (offences which do not affect contempt of court at common law) for “or 20C” substitute “, 20C or 20I”.
+
+#### 197 Continuation of criminal trial on death or discharge of a juror
+
+In section 16 of the Juries Act 1974 (continuation of criminal trial on death or discharge of juror)—
+
+(a) in subsection (1) for “subsections (2) and (3)” substitute “subsection (3)”, and
+
+(b) omit subsection (2) (trials for offences punishable with death).
+
+### Transmission and recording of court and tribunal proceedings
+
+#### 198 Remote observation and recording of court and tribunal proceedings
+
+(1) In the Courts Act 2003, after section 85 insert—
+
+> **PART 7ZA — Transmission and recording of court and tribunal proceedings**
+>
+> **Remote observation and recording**
+>
+> **85A Remote observation and recording of proceedings by direction of a court or tribunal**
+>
+> (1) This section applies (subject to subsections (12) and (13)) to proceedings in any court; and in this section “court” has the same meaning as in the Contempt of Court Act 1981 (see section 19 of that Act).
+>
+> (2) If the proceedings are specified under subsection (8)(a), the court may direct that images or sounds of the proceedings are to be transmitted electronically for the purpose of enabling persons not taking part in the proceedings to watch or listen to the proceedings.
+>
+> (3) A direction under subsection (2) may authorise only the following types of transmission—
+>
+> (a) transmission to designated live-streaming premises, or
+>
+> (b) transmission to which individuals are given access only having first identified themselves to the court (or to a person acting on behalf of the court).
+>
+> (4) In subsection (3)(a), “designated live-streaming premises” means premises that are designated by the Lord Chancellor as premises that are made available for members of the public to watch or listen to proceedings in accordance with directions under subsection (2).
+>
+> (5) A direction under subsection (2) may include further provision about—
+>
+> (a) the manner of transmission, or
+>
+> (b) the persons who are to be able to watch or listen to the transmission (including provision making that ability subject to conditions, or aimed at preventing persons who are not meant to watch or listen from being able to do so).
+>
+> (6) If images or sounds of the proceedings are transmitted electronically (whether under a direction under subsection (2) or any other power), the court may direct that a recording of the transmission is to be made, in the manner specified in the direction, for the purpose of enabling the court to keep a record of the proceedings.
+>
+> (7) A direction under subsection (2) or (6)—
+>
+> (a) may relate to the whole, or to part, of the proceedings concerned, and
+>
+> (b) may be varied or revoked.
+>
+> (8) The Lord Chancellor may by regulations—
+>
+> (a) specify proceedings (by reference to their type, the court in which they take place, or any other circumstance) in relation to which directions under subsection (2) may be made;
+>
+> (b) specify matters of which the court must be satisfied before deciding to make such a direction;
+>
+> (c) specify matters that the court must take into account when deciding whether, and on what terms, to make such a direction;
+>
+> (d) require directions under subsection (2) to include certain provision under subsection (5).
+>
+> (9) Before making regulations under subsection (8), the Lord Chancellor must determine whether the function of giving or withholding concurrence to the regulations would most appropriately be exercised by—
+>
+> (a) the Lord Chief Justice of England and Wales,
+>
+> (b) the Senior President of Tribunals, or
+>
+> (c) both of them.
+>
+> (10) Regulations under subsection (8) may be made only with the concurrence of the Lord Chief Justice of England and Wales, the Senior President of Tribunals, or both of them, as determined under subsection (9).
+>
+> (11) Regulations under subsection (8) may make different provision for different purposes.
+>
+> (12) This section does not apply to proceedings in the Supreme Court.
+>
+> (13) This section does not apply to proceedings if provision regulating the procedure to be followed in those proceedings could be made by—
+>
+> (a) an Act of the Scottish Parliament,
+>
+> (b) an Act of Senedd Cymru (including one passed with the consent of a Minister of the Crown within the meaning of section 158(1) of the Government of Wales Act 2006), or
+>
+> (c) an Act of the Northern Ireland Assembly passed without the consent of the Secretary of State.
+
+(2) In section 41 of the Criminal Justice Act 1925 (prohibition of photography etc in court)—
+
+(a) after subsection (1) insert—
+
+> (1ZA) Subsection (1) does not apply to anything done in accordance with a direction under section 85A of the Courts Act 2003 (remote observation and recording of court and tribunal proceedings).
+
+;
+
+(b) in subsection (1A), after “provide for” insert “further”.
+
+(3) In section 29 of the Criminal Justice Act (Northern Ireland) 1945 (c. 15 (N.I.)) (prohibition of photography etc in court), after subsection (1) insert—
+
+> (1A) Subsection (1) does not apply to anything done in accordance with a direction under section 85A of the Courts Act 2003 (remote observation and recording of court and tribunal proceedings).
+
+(4) In section 9 of the Contempt of Court Act 1981 (prohibition of tape recording etc), after subsection (4) insert—
+
+> (4A) This section does not apply to anything done in accordance with a direction under section 85A of the Courts Act 2003 (remote observation and recording of court and tribunal proceedings).
+
+(5) In section 108(3) of the Courts Act 2003 (regulations and orders under that Act subject to affirmative procedure), after paragraph (c) insert—
+
+> (ca) regulations under section 85A(8) (provision about directions for remote observation of court and tribunal proceedings);
+
+.
+
+#### 199 Offence of recording or transmission in relation to remote proceedings
+
+In the Courts Act 2003, after section 85A (inserted by section 198) insert—
+
+> **Offence of recording or transmission**
+>
+> **85B Offence of recording or transmission in relation to remote proceedings**
+>
+> (1) It is an offence for a person to make, or attempt to make—
+>
+> (a) an unauthorised recording, or
+>
+> (b) an unauthorised transmission,
+>
+> of an image or sound within subsection (2) or (3).
+>
+> (2) An image or sound is within this subsection if it is an image or sound of court proceedings that is being transmitted to the place where the recording or transmission referred to in subsection (1) is made or attempted to be made.
+>
+> (3) An image or sound is within this subsection if it is an image or sound of a person while that person is remotely attending court proceedings.
+>
+> (4) A person is remotely attending court proceedings at any time when the person—
+>
+> (a) is not in the same place as any member of the court, and
+>
+> (b) is taking part in, watching or listening to the proceedings by way of a transmission.
+>
+> (5) For the purposes of this section a recording or transmission is “unauthorised” unless it is—
+>
+> (a) authorised (generally or specifically) by the court in which the proceedings concerned are being conducted, or
+>
+> (b) authorised (generally or specifically) by the Lord Chancellor.
+>
+> (6) It is a defence for a person charged with an offence under subsection (1) to prove that, at the time of the actual or attempted recording or transmission, the person—
+>
+> (a) was not in designated live-streaming premises, and
+>
+> (b) did not know that the image or sound concerned was of a sort within subsection (2) or (3).
+>
+> (7) In subsection (6)(a), “designated live-streaming premises” has the meaning given by section 85A(4).
+>
+> (8) A person guilty of an offence under subsection (1) is liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+>
+> (9) Conduct that amounts to an offence under subsection (1) is also a contempt of court.
+>
+> But a person cannot, in respect of the same conduct, be both convicted of the offence and punished for the contempt.
+>
+> (10) For the purposes of this section it does not matter whether a person making, or attempting to make, a recording or transmission intends the recording or transmission, or anything comprised in it, to be seen or heard by any other person.
+>
+> (11) This section does not apply to proceedings in the Supreme Court.
+>
+> (12) This section does not apply to court proceedings if provision regulating the procedure to be followed in those proceedings could be made by—
+>
+> (a) an Act of the Scottish Parliament,
+>
+> (b) an Act of Senedd Cymru (including one passed with the consent of a Minister of the Crown within the meaning of section 158(1) of the Government of Wales Act 2006), or
+>
+> (c) an Act of the Northern Ireland Assembly passed without the consent of the Secretary of State.
+>
+> (13) In this section—
+>
+> - “court” has the same meaning as in the Contempt of Court Act 1981 (see section 19 of that Act);
+>
+> - “court proceedings” means proceedings in any court;
+>
+> - “recording” means a recording on any medium—
+>
+>   - of a single image, a moving image or any sound, or
+>   - from which a single image, a moving image or any sound may be produced or reproduced;
+>
+> - “transmission” means any transmission by electronic means of a single image, a moving image or any sound (and “transmitted” is to be construed accordingly).
+
+#### 200 Expansion of use of video and audio links in criminal proceedings
+
+(1) In the Criminal Justice Act 2003, for section 51 substitute—
+
+> **51 Directions for live links in criminal proceedings**
+>
+> (1) The court may, by a direction, require or permit a person to take part in eligible criminal proceedings through—
+>
+> (a) a live audio link, or
+>
+> (b) a live video link.
+>
+> (2) A direction under this section may be given in relation to a member of a jury only if the direction requires all members of the jury to take part through a live video link while present at the same place.
+>
+> (3) In this Part “eligible criminal proceedings” means—
+>
+> (a) a preliminary hearing (see section 56(1)),
+>
+> (b) a summary trial,
+>
+> (c) a criminal appeal to the Crown Court and any proceedings that are preliminary or incidental to such an appeal,
+>
+> (d) a trial on indictment or any other trial in the Crown Court for an offence,
+>
+> (e) proceedings under section 4A or 5 of the Criminal Procedure (Insanity) Act 1964,
+>
+> (f) proceedings under Part 3 of the Mental Health Act 1983,
+>
+> (g) proceedings under—
+>
+> (i) section 11 of the Powers of Criminal Courts (Sentencing) Act 2000, or
+>
+> (ii) section 81(1)(g) of the Senior Courts Act 1981 or section 16 of this Act in respect of a person who has been remanded by a magistrates’ court on adjourning a case under that section of the 2000 Act,
+>
+> (h) an appeal to the criminal division of the Court of Appeal and any proceedings that are preliminary or incidental to such an appeal,
+>
+> (i) a reference to the Court of Appeal by the Attorney General under Part 4 of the Criminal Justice Act 1988 and any proceedings that are preliminary or incidental to such a reference,
+>
+> (j) the hearing of a reference under section 9 or 11 of the Criminal Appeal Act 1995 and any proceedings that are preliminary or incidental to such a hearing,
+>
+> (k) a hearing before a magistrates’ court or the Crown Court which is held after the defendant has entered a plea of guilty,
+>
+> (l) a hearing under section 142(1) or (2) of the Magistrates’ Courts Act 1980,
+>
+> (m) a hearing before the Court of Appeal under section 80 of this Act and any proceedings that are preliminary or incidental to such a hearing,
+>
+> (n) any hearing following conviction held for the purpose of making a decision about bail in respect of the person convicted,
+>
+> (o) a sentencing hearing (see section 56(1)), or
+>
+> (p) an enforcement hearing (see section 56(1)).
+>
+> (4) The court may not give a direction under this section unless—
+>
+> (a) the court is satisfied that it is in the interests of justice for the person to whom the direction relates to take part in the proceedings in accordance with the direction through the live audio link or live video link,
+>
+> (b) the parties to the proceedings have been given the opportunity to make representations, and
+>
+> (c) if so required by section 52(9), the relevant youth offending team has been given the opportunity to make representations.
+>
+> (5) In deciding whether to give a direction under this section, the court must consider—
+>
+> (a) any guidance given by the Lord Chief Justice, and
+>
+> (b) all the circumstances of the case.
+>
+> (6) Those circumstances include in particular—
+>
+> (a) the availability of the person to whom the direction would relate,
+>
+> (b) any need for that person to attend in person,
+>
+> (c) the views of that person,
+>
+> (d) the suitability of the facilities at the place where that person would take part in the proceedings in accordance with the direction,
+>
+> (e) whether that person would be able to take part in the proceedings effectively if the person took part in accordance with the direction,
+>
+> (f) in the case of a direction relating to a witness—
+>
+> (i) the importance of the witness’s evidence to the proceedings, and
+>
+> (ii) whether the direction might tend to inhibit any party to the proceedings from effectively testing the witness’s evidence, and
+>
+> (g) the arrangements that would or could be put in place for members of the public to see or hear the proceedings as conducted in accordance with the direction.
+
+(2) In the Crime and Disorder Act 1998, omit Part 3A (live links in preliminary, sentencing and enforcement hearings).
+
+(3) Schedule 20 makes further provision in connection with the provision made by subsections (1) and (2).
+
+#### 201 Repeal of temporary provision
+
+(1) In the Coronavirus Act 2020, sections 53 and 54 and Schedules 23 and 24 (which make temporary modifications that are superseded by the provision made by section 200) are repealed.
+
+(2) In the Coronavirus Act 2020, section 55 and Schedule 25 (which make temporary modifications that are superseded by the provision made by sections 198 and 199) are repealed.
+
+#### 202 Expedited procedure for initial regulations about remote observation of proceedings
+
+(1) This section applies in relation to the first regulations made under section 85A(8) of the Courts Act 2003 (as inserted by section 198(1)).
+
+(2) The regulations may be made without a draft of the instrument containing them having been laid before and approved by a resolution of each House of Parliament (notwithstanding section 108(3) of the Courts Act 2003).
+
+(3) If regulations are made in reliance on subsection (2), the statutory instrument containing them must be laid before Parliament after being made.
+
+(4) Regulations contained in a statutory instrument laid before Parliament under subsection (3) cease to have effect at the end of the period of 28 days beginning with the day on which the instrument is made unless, during that period, the instrument is approved by a resolution of each House of Parliament.
+
+(5) In calculating the period of 28 days, no account is to be taken of any whole days that fall within a period during which—
+
+(a) Parliament is dissolved or prorogued, or
+
+(b) either House of Parliament is adjourned for more than four days.
+
+(6) If regulations cease to have effect as a result of subsection (4), that does not—
+
+(a) affect the validity of anything previously done under or by virtue of the regulations, or
+
+(b) prevent the making of new regulations.
+
+## PART 14 — Final provisions
+
+### 203 Financial provision
+
+There is to be paid out of money provided by Parliament—
+
+(a) any expenditure incurred under or by virtue of this Act by a Minister of the Crown, government department or other public authority, and
+
+(b) any increase attributable to this Act in the sums payable under any other Act out of money so provided.
+
+### 204 Minor amendments arising out of sentencing consolidation
+
+Schedule 21 makes minor amendments to the Sentencing Act 2020 and other enactments in connection with the consolidation that led to that Act.
+
+### 205 Power to make consequential provision
+
+(1) The Secretary of State may by regulations made by statutory instrument make provision that is consequential on this Act.
+
+(2) Regulations under subsection (1) may, in particular, amend, repeal or revoke any enactment passed or made before, or in the same Session as, this Act.
+
+(3) In subsection (2) “enactment” includes—
+
+(a) an enactment contained in subordinate legislation within the meaning of the Interpretation Act 1978,
+
+(b) an enactment contained in, or in an instrument made under, an Act or Measure of Senedd Cymru,
+
+(c) an enactment contained in, or in an instrument made under, an Act of the Scottish Parliament, and
+
+(d) an enactment contained in, or in an instrument made under, Northern Ireland legislation.
+
+(4) Regulations under subsection (1)—
+
+(a) may make different provision for different purposes;
+
+(b) may make transitional, transitory or saving provision.
+
+(5) A statutory instrument containing (whether alone or with any other provision) regulations under subsection (1) which amend, repeal or revoke primary legislation may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, each House of Parliament.
+
+(6) Any other statutory instrument containing regulations under subsection (1) is subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(7) In this section “primary legislation” means—
+
+(a) an Act of Parliament,
+
+(b) an Act or Measure of Senedd Cymru,
+
+(c) an Act of the Scottish Parliament, or
+
+(d) Northern Ireland legislation.
+
+### 206 Power to state effect in Sentencing Act 2020 of commencement of amendments made by this Act
+
+The power in section 419(1) of the Sentencing Act 2020 (power to state effect of commencement provisions) applies in relation to any amendment or repeal made by or under this Act of that Act as it applies in relation to an amendment or repeal made by Schedule 22 to that Act.
+
+### 207 Extent
+
+(1) This Act extends to England and Wales only, subject to the following provisions of this section.
+
+(2) The following provisions extend to England and Wales, Scotland and Northern Ireland—
+
+(a) section 1;
+
+(b) sections 37 to 44 (and Schedule 3);
+
+(c) section 56(2);
+
+(d) section 202;
+
+(e) this Part, other than section 204 (and Schedule 21).
+
+(3) Sections 89(3) to (7), 141 and 143 extend to England and Wales and Scotland.
+
+(4) Section 161 extends to England and Wales and Northern Ireland.
+
+(5) A provision of this Act which amends, repeals or revokes an enactment has the same extent within the United Kingdom as the enactment amended, repealed or revoked, subject to subsections (6) to (9).
+
+(6) The following provisions extend to England and Wales only—
+
+(a) section 54;
+
+(b) sections 79, 81 and 83;
+
+(c) section 85;
+
+(d) section 90;
+
+(e) section 165;
+
+(f) sections 168 and 169;
+
+(g) section 193;
+
+(h) in Schedule 11, the amendments to the Rehabilitation of Offenders Act 1974 and the Police Act 1997.
+
+(7) Sections 198 and 199 extend to England and Wales, Scotland and Northern Ireland.
+
+(8) In Schedule 18—
+
+(a) paragraphs 4 and 6 extend to England and Wales, Scotland and Northern Ireland, and
+
+(b) paragraph 5 extends to England and Wales and Scotland only.
+
+(9) Section 170 extends to Scotland only.
+
+(10) Nothing in the preceding provisions of this section limits the extent within the United Kingdom of any provision made, or inserted, by or under this Act so far as it is applied (by whatever words) by or under the Armed Forces Act 2006.
+
+(11) Subsections (1) and (2) of section 384 of the Armed Forces Act 2006 (extent outside the United Kingdom) apply to the armed forces provisions as those subsections apply to the provisions of that Act.
+
+(12) The following are “armed forces provisions”—
+
+(a) a provision made, or inserted, by or under this Act so far as it is applied (by whatever words) by or under the Armed Forces Act 2006;
+
+(b) an amendment, modification or repeal made by or under this Act of—
+
+(i) a provision of or made under the Armed Forces Act 2006,
+
+(ii) a provision that amends, modifies or repeals a provision of, or made under, that Act, or
+
+(iii) any other provision, so far as the provision is applied (by whatever words) by or under that Act.
+
+### 208 Commencement
+
+(1) Except as provided by subsections (4) and (5), this Act comes into force on such day as the Secretary of State may by regulations made by statutory instrument appoint.
+
+(2) Regulations under subsection (1) may appoint different days for different purposes or areas.
+
+(3) Subsection (1) is subject to sections 34, 161 and 166.
+
+(4) The following provisions of this Act come into force on the day on which this Act is passed—
+
+(a) section 4 for the purposes of making regulations;
+
+(b) sections 8 to 12 (and Schedules 1 and 2) for the purposes of making regulations;
+
+(c) section 13;
+
+(d) section 14 for the purposes of making regulations;
+
+(e) section 19 for the purposes of issuing guidance;
+
+(f) section 20 for the purposes of making regulations;
+
+(g) sections 22 and 23;
+
+(h) sections 24 to 26 for the purposes of making regulations;
+
+(i) section 31;
+
+(j) section 32 for the purposes of issuing guidance;
+
+(k) sections 34 to 36;
+
+(l) section 71;
+
+(m) section 72;
+
+(n) section 82 for the purposes of making regulations;
+
+(o) section 90 for the purposes of making regulations;
+
+(p) section 132;
+
+(q) sections 140 to 143;
+
+(r) section 161(1) so far as relating to Part 2 of Schedule 17 (and that Part of that Schedule) for the purposes of making regulations;
+
+(s) section 161(2) to (9);
+
+(t) sections 163 and 164;
+
+(u) section 165 for the purposes of issuing guidance and making regulations;
+
+(v) section 166;
+
+(w) section 167(2) to (4);
+
+(x) section 189;
+
+(y) section 190 for the purposes of making an order;
+
+(z) section 191;
+
+(aa) sections 198 and 199;
+
+(ab) section 202;
+
+(ac) this Part other than section 204 and Schedule 21.
+
+(5) The following provisions of this Act come into force at the end of the period of two months beginning with the day on which this Act is passed—
+
+(a) section 2;
+
+(b) section 3;
+
+(c) sections 47 and 50;
+
+(d) section 51 (and Schedule 5);
+
+(e) sections 52 and 53;
+
+(f) section 54;
+
+(g) section 58;
+
+(h) section 59;
+
+(i) sections 83 to 88 (and Schedule 8);
+
+(j) sections 122 and 123;
+
+(k) section 124 (and Schedule 12);
+
+(l) sections 125 to 128;
+
+(m) sections 130 and 131;
+
+(n) section 135;
+
+(o) section 138;
+
+(p) sections 144 to 148;
+
+(q) sections 150 and 151;
+
+(r) section 153 (and Schedule 14);
+
+(s) section 154 (and Schedule 15);
+
+(t) sections 157 to 160 (and Schedule 16);
+
+(u) section 161(1) so far as relating to Parts 1, 4 and 5 of Schedule 17 (and those Parts of that Schedule);
+
+(v) section 162;
+
+(w) sections 184 to 188 (and Schedule 19);
+
+(x) sections 196 and 197;
+
+(y) section 200 (and Schedule 20);
+
+(z) section 201(1);
+
+(aa) section 204 (and Schedule 21).
+
+(6) The Secretary of State may by regulations made by statutory instrument make transitional, transitory or saving provision in connection with the coming into force of any provision of this Act.
+
+### 209 Short title
+
+This Act may be cited as the Police, Crime, Sentencing and Courts Act 2022.
+
+## SCHEDULE 1 — Specified authorities and local government areas
+
+*Section 11*
+
+| Specified authority | Local government area |
+|---|---|
+| A district council | The district |
+| A county council in England for an area for which there are no district councils | The district which coincides with the council’s area or, if there is no such district, each district within the council’s area |
+| Any other county council in England | Each district which falls within the council’s area |
+| A London borough council | The London borough |
+| The Common Council of the City of London in its capacity as a local authority | The City of London |
+| The Council of the Isles of Scilly | The Isles of Scilly |
+| A county council in Wales | The county |
+| A county borough council in Wales | The county borough |
+
+| Specified authority | Local government area |
+|---|---|
+| A provider of probation services within the meaning given by section 3(6) of the Offender Management Act 2007 | Each local government area in which the provider operates |
+| A youth offending team established under section 39 of the Crime and Disorder Act 1998 | Each local government area which is, or which falls within, the area of each local authority which established the team |
+
+| Specified authority | Local government area |
+|---|---|
+| [[^F20]An integrated care board established under section 14Z25] of the National Health Service Act 2006 | Each local government area which, or any part of which, coincides with or falls within [[^F21]the board’s] area |
+| A Local Health Board established under section 11 of the National Health Service (Wales) Act 2006 | Each local government area which, or any part of which, coincides with or falls within the Board’s area |
+
+| Specified authority | Local government area |
+|---|---|
+| A chief officer of police for a police area in England and Wales | Each local government area which coincides with or falls within the police area |
+
+| Specified authority | Local government area |
+|---|---|
+| A fire and rescue authority constituted by a scheme under section 2 of the Fire and Rescue Services Act 2004 or a scheme to which section 4 of that Act applies | Each local government area which, or any part of which, coincides with or falls within the authority’s area |
+| A fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004 | Each local government area which, or any part of which, coincides with or falls within the authority’s area |
+| A metropolitan county fire and rescue authority | Each district which falls within the authority’s area |
+| The London Fire Commissioner | Each London borough and the City of London |
+
+## SCHEDULE 2 — Educational, prison and youth custody authorities
+
+*Section 12*
+
+| Educational authority | Local government area |
+|---|---|
+| The governing body of—<br>- a community, foundation or voluntary school, or<br>- a community or foundation special school,<br>other than a school which is used wholly for the purpose of providing education for children who are under compulsory school age | Each local government area in which the school is located |
+| The proprietor (within the meaning given by section 579(1) of the Education Act 1996) of—<br>- an Academy school,<br>- a 16 to 19 Academy, or<br>- an alternative provision Academy | Each local government area in which the Academy is located |
+| The proprietor (within the meaning given by section 579(1) of the Education Act 1996) of any school that has been approved under section 342 of the Education Act 1996, other than a school which is used wholly for the purpose of providing education for children who are under compulsory school age | Each local government area in which the school is located |
+| The proprietor (within the meaning given by section 138(1) of the Education and Skills Act 2008) of any other independent educational institution registered under section 95(1) of that Act | Each local government area in which the educational institution is located |
+| The proprietor (within the meaning given by section 579(1) of the Education Act 1996) of any other independent school registered under section 158 of the Education Act 2002 | Each local government area in which the school is located |
+| The governing body of an educational establishment maintained by a local authority in Wales | Each local government area in which the educational establishment is located |
+| The management committee of a pupil referral unit | Each local government area in which the pupil referral unit is located |
+| Any other provider of education or training to which Chapter 3 of Part 8 of the Education and Inspections Act 2006 applies, other than a provider that—<br>- is registered under the register maintained by the Office for Students under section 3 of the Higher Education and Research Act 2017, and<br>- is not an institution within the further education sector as defined by section 91(3) of the Further and Higher Education Act 1992. | Each local government area in which education or training is provided by that provider |
+
+| Prison authority | Local government area |
+|---|---|
+| The governor of a prison in England and Wales (or, in the case of a contracted out prison within the meaning given by section 84(4) of the Criminal Justice Act 1991, its director) | The local government area in which the prison is located |
+
+| Youth custody authority | Local government area |
+|---|---|
+| The governor of a young offender institution (or, in the case of a contracted out young offender institution within the meaning given by sections 84(4) and 92(1) of the Criminal Justice Act 1991, its director) | The local government area in which the young offender institution is located |
+| The governor of a secure training centre (or, in the case of a contracted out secure training centre within the meaning given by section 15 of the Criminal Justice and Public Order Act 1994, its director) | The local government area in which the secure training centre is located |
+| The principal of a secure college | The local government area in which the secure college is located |
+| The manager of a secure children’s home, within the meaning given by section 102(11) of the Legal Aid, Sentencing and Punishment of Offenders Act 2012, which is used to accommodate children remanded or sentenced to custody after being charged with or convicted of an offence | The local government area in which the secure children’s home is located |
+
+## SCHEDULE 3 — Extraction of information from electronic devices: authorised persons
+
+*Section 44*
+
+### PART 1 — Authorised persons in relation to all purposes within section 37 or 41
+
+- A constable of a police force in England and Wales.
+- A member of staff appointed by the chief officer of police of a police force in England and Wales.
+- An employee of the Common Council of the City of London who is under the direction and control of a chief officer of police.
+- A constable within the meaning of Part 1 of the Police and Fire Reform (Scotland) Act 2012 (asp 8) (see section 99 of that Act).
+- A member of staff appointed by the Scottish Police Authority under section 26(1) of the Police and Fire Reform (Scotland) Act 2012.
+- A police officer within the meaning of the Police (Northern Ireland) Act 2000 (see section 77(1) of that Act).
+- A constable of the British Transport Police Force.
+- An employee of the British Transport Police Authority appointed under section 27 of the Railways and Transport Safety Act 2003.
+- A constable of the Ministry of Defence police.
+- A National Crime Agency officer.
+- [[^F22]A member of the Royal Navy Police, the Royal Military Police or the Royal Air Force Police.]
+- A person who has been engaged to provide services consisting of or including the extraction of information from electronic devices for the purposes of the exercise of functions by a person listed in this Part of this Schedule.
+
+### PART 2 — Authorised persons in relation to all purposes within section 37
+
+- [^F23]...
+- A person appointed as an immigration officer under paragraph 1 of Schedule 2 to the Immigration Act 1971.
+- A person who is an enforcement officer by virtue of section 15 of the Gangmasters (Licensing) Act 2004.
+- [[^F24]A person who is an enforcement officer for the purposes of Part 5 of the Employment Rights Act 2025.]
+- A person who has been engaged to provide services consisting of or including the extraction of information from electronic devices for the purposes of the exercise of functions by a person listed in this Part of this Schedule.
+
+### PART 3 — Authorised persons in relation to the prevention of crime etc only
+
+- An officer of Revenue and Customs.
+- A person designated as a general customs official or a customs revenue official under the Borders, Citizenship and Immigration Act 2009 (see sections 3 and 11 of that Act).
+- [[^F25]An officer of the department of the Secretary of State for Business and Trade.
+- An officer of the department of the Secretary of State for Energy Security and Net Zero.
+- An officer of the department of the Secretary of State for Science, Innovation and Technology.]
+- A member of the Serious Fraud Office.
+- A person appointed by the Financial Conduct Authority under the Financial Services and Markets Act 2000 to conduct an investigation.
+- An officer of the Competition and Markets Authority.
+- A person who is authorised by the Food Standards Agency to act in matters arising under or by virtue of the Food Safety Act 1990.
+- A person who is authorised for the purposes of Part 6 of the Social Security Administration Act 1992.
+- An inspector appointed under section 15 of the Child Support Act 1991.
+- A person designated by the Director General of the Independent Office for Police Conduct under paragraph 19(2) of Schedule 3 to the Police Reform Act 2002.
+- The Police Investigations and Review Commissioner.
+- A person designated by the Police Investigations and Review Commissioner under paragraph 7B(1) of Schedule 4 to the Police, Public Order and Criminal Justice (Scotland) Act 2006 (asp 10).
+- An officer appointed by the Police Ombudsman for Northern Ireland under section 56(1) or (1A) of the Police (Northern Ireland) Act 1998.
+- A person who is an enforcement officer by virtue of section 303 of the Gambling Act 2005.
+- A person who has been engaged to provide services consisting of or including the extraction of information from electronic devices for the purposes of the exercise of functions by a person listed in this Part of this Schedule.
+
+## SCHEDULE 4 — Pre-charge bail
+
+*Section 45*
+
+### PART 1 — Grant of pre-charge bail
+
+#### Amendments to the Police and Criminal Evidence Act 1984 (c. 60)
+
+**1** The Police and Criminal Evidence Act 1984 is amended as follows.
+
+**2** (1) Section 30A (release of a person arrested elsewhere than at a police station) is amended as follows.
+
+(2) For subsection (1) substitute—
+
+> (1) If subsection (1A) applies, a constable may release on bail a person who is arrested or taken into custody in the circumstances mentioned in section 30(1).
+
+(3) In subsection (1A)(b), for “a police officer of the rank of inspector or above” substitute “a custody officer”.
+
+(4) Before subsection (2) insert—
+
+> (1C) If subsection (1A) does not apply, a constable may release without bail a person who is arrested or taken into custody in the circumstances mentioned in section 30(1).
+
+(5) In subsection (2), after “subsection (1)” insert “or (1C)”.
+
+**3** (1) Section 34 (limitations on police detention) is amended as follows.
+
+(2) For subsection (5) substitute—
+
+> (5) A person whose release is ordered under subsection (2) must be released on bail if subsection (5A) applies.
+
+(3) After subsection (5A) insert—
+
+> (5AA) A person whose release is ordered under subsection (2) must be released without bail if subsection (5A) does not apply.
+
+(4) In subsection (5B)(a), after “subsection (5)” insert “or (5AA)”.
+
+**4** In section 36 (custody officers at police stations), after subsection (7B) insert—
+
+> (7C) The reference to a custody officer in section 30A(1A)(b) includes a reference to an officer other than a custody officer who is performing the functions of a custody officer by virtue of subsection (4) above.
+
+**5** (1) Section 37 (duties of custody officer before charge) is amended as follows.
+
+(2) For subsection (2) substitute—
+
+> (2) If—
+>
+> (a) the custody officer (“C”) determines that C does not have such evidence before C, and
+>
+> (b) the pre-conditions for bail are satisfied,
+>
+> the person arrested must be released on bail (subject to subsection (3)).
+
+(3) After subsection (2) insert—
+
+> (2A) If—
+>
+> (a) the custody officer (“C”) determines that C does not have such evidence before C, and
+>
+> (b) the pre-conditions for bail are not satisfied,
+>
+> the person arrested must be released without bail (subject to subsection (3)).
+
+(4) In subsection (6A)(a), after “subsection (2)” insert “or (2A)”.
+
+(5) In subsection (7), for paragraphs (b) and (c) (including the “or” at the end of paragraph (c)) substitute—
+
+> (b) shall be released—
+>
+> (i) without charge, and
+>
+> (ii) if the pre-conditions for bail are satisfied, on bail,
+>
+> but not for the purpose mentioned in paragraph (a),
+>
+> (c) shall be released—
+>
+> (i) without charge, and
+>
+> (ii) if the pre-conditions for bail are not satisfied, without bail, or
+
+.
+
+(6) In subsection (8A)(b), for “(c)” substitute “(b)”.
+
+**6** (1) Section 37CA (breach of bail following release under section 37(7)(c)) is amended as follows.
+
+(2) In the section heading, for “section 37(7)(c)” substitute “section 37(7)(b)”.
+
+(3) In subsection (1), for “section 37(7)(c)” substitute “section 37(7)(b)”.
+
+(4) In subsection (2), for paragraph (b) substitute—
+
+> (b) shall be released—
+>
+> (i) without charge, and
+>
+> (ii) if the pre-conditions for bail are satisfied, on bail, or
+>
+> (c) shall be released—
+>
+> (i) without charge, and
+>
+> (ii) if the pre-conditions for bail are not satisfied, without bail.
+
+**7** In section 37D(4A) (release on bail under section 37: further provision), for “section 37(7)(c)” substitute “section 37(7)(b)”.
+
+**8** In section 41(7) (release following period of detention without charge), for paragraphs (a) and (b) substitute—
+
+> (a) on bail, if the pre-conditions for bail are satisfied, or
+>
+> (b) without bail, if those pre-conditions are not satisfied.
+
+**9** In section 42(10) (release following continued detention without charge), for paragraphs (a) and (b) and the words following those paragraphs substitute—
+
+> (a) on bail, if the pre-conditions for bail are satisfied, or
+>
+> (b) without bail, if those pre-conditions are not satisfied,
+>
+> subject to subsection (10A).
+
+**10** (1) Section 43 (warrants of further detention) is amended as follows.
+
+(2) In subsection (15), for paragraphs (a) and (b) substitute—
+
+> (a) on bail, if the pre-conditions for bail are satisfied, or
+>
+> (b) without bail, if those pre-conditions are not satisfied.
+
+(3) In subsection (18), for paragraphs (a) and (b) substitute—
+
+> (a) on bail, if the pre-conditions for bail are satisfied, or
+>
+> (b) without bail, if those pre-conditions are not satisfied.
+
+**11** In section 44(7) (release following extension of warrants of further detention), for paragraphs (a) and (b) substitute—
+
+> (a) on bail, if the pre-conditions for bail are satisfied, or
+>
+> (b) without bail, if those pre-conditions are not satisfied.
+
+**12** (1) Section 47ZC (applicable bail period: conditions A to D) is amended as follows.
+
+(2) In subsection (3)(a), for “section 37(7)(c)” substitute “section 37(7)(b)”.
+
+(3) In subsection (4)(a), for “section 37(7)(c)” substitute “section 37(7)(b)”.
+
+**13** In section 50A (interpretation of references to pre-conditions for bail), for paragraph (b) substitute—
+
+> (b) that the custody officer has considered any representations made by the person or the person’s legal representative.
+
+#### Amendments to the Criminal Justice Act 2003 (c. 44)
+
+**14** The Criminal Justice Act 2003 is amended as follows.
+
+**15** (1) Section 24A (arrest for failure to comply with conditions attached to conditional caution) is amended as follows.
+
+(2) In subsection (2), for paragraphs (b) and (c) substitute—
+
+> (b) released without charge and on bail if—
+>
+> (i) the release is to enable a decision to be made as to whether the person should be charged with the offence, and
+>
+> (ii) the pre-conditions for bail are satisfied, or
+>
+> (c) released without charge and without bail (with or without any variation in the conditions attached to the caution) if paragraph (b) does not apply.
+
+(3) In subsection (3)(a), for “subsection (2)(c)” substitute “subsection (2)(b)”.
+
+(4) In subsection (4), for “subsection (2)(c)” substitute “subsection (2)(b)”.
+
+**6** In section 24B(5) (application of PACE provisions), for “section 24A(2)(c)” substitute “section 24A(2)(b)”.
+
+### PART 2 — Factors to be taken into account in deciding whether to grant pre-charge bail
+
+**17** In section 30A of the Police and Criminal Evidence Act 1984 (release of person arrested elsewhere than at police station), after subsection (1A) insert—
+
+> (1B) In determining whether releasing the person on bail is necessary and proportionate in all the circumstances, the constable must have regard in particular to—
+>
+> (a) the need to secure that the person surrenders to custody,
+>
+> (b) the need to prevent offending by the person,
+>
+> (c) the need to safeguard victims of crime and witnesses, taking into account any vulnerabilities of any alleged victim of, or alleged witness to, the offence for which the person was arrested where these vulnerabilities have been identified by the constable,
+>
+> (d) the need to safeguard the person, taking into account any vulnerabilities of the person where these vulnerabilities have been identified by the constable, and
+>
+> (e) the need to manage risks to the public.
+
+**18** (1) Section 50A of the Police and Criminal Evidence Act 1984 (interpretation of references to pre-conditions for bail) is amended as follows.
+
+(2) The existing text becomes subsection (1).
+
+(3) After that subsection insert—
+
+> (2) In determining whether releasing the person on bail is necessary and proportionate in all the circumstances, the custody officer must have regard in particular to—
+>
+> (a) the need to secure that the person surrenders to custody,
+>
+> (b) the need to prevent offending by the person,
+>
+> (c) the need to safeguard victims of crime and witnesses, taking into account any vulnerabilities of any alleged victim of, or alleged witness to, the offence for which the person was arrested where these vulnerabilities have been identified by the custody officer,
+>
+> (d) the need to safeguard the person, taking into account any vulnerabilities of the person where these vulnerabilities have been identified by the custody officer, and
+>
+> (e) the need to manage risks to the public.
+
+### PART 3 — Duty to seek views of alleged victims
+
+#### Amendments to the Bail Act 1976 (c. 63)
+
+**19** In section 3A of the Bail Act 1976 (conditions of bail in case of police bail), after subsection (6) insert—
+
+> (7) For further provision about the grant of bail by a custody officer under Part 4 of the Police and Criminal Evidence Act 1984 or the variation by a custody officer of the conditions of bail granted under that Part, see section 47ZZA of that Act.
+
+#### Amendments to the Police and Criminal Evidence Act 1984 (c. 60)
+
+**20** The Police and Criminal Evidence Act 1984 is amended as follows.
+
+**21** (1) Section 30CA (bail under section 30A: variation of conditions by police) is amended as follows.
+
+(2) After subsection (4) insert—
+
+> (4A) If it is reasonably practicable to do so, the investigating officer must seek the views of the alleged victim (if any) of the relevant offence on—
+>
+> (a) whether any of the conditions that are relevant conditions should be varied under subsection (1), and
+>
+> (b) if so, what variations should be made to those conditions.
+>
+> (4B) The investigating officer must inform the relevant officer of any views obtained under subsection (4A).
+>
+> (4C) If any of the conditions which are relevant conditions are varied under subsection (1), the investigating officer must, if it is reasonably practicable to do so, notify the alleged victim of the variations.
+>
+> (4D) If the alleged victim of the relevant offence appears to the investigating officer to be vulnerable, subsections (4A) and (4C) apply as if references to the alleged victim of the offence were to a person appearing to the officer to represent the alleged victim.
+
+(3) For subsection (5) substitute—
+
+> (5) In this section—
+>
+> - “investigating officer”, in relation to the relevant offence, means the constable or other person in charge of the investigation of the offence;
+>
+> - “relevant condition”, in relation to the relevant offence and an alleged victim of that offence, means a condition that relates to the safeguarding of the alleged victim;
+>
+> - “relevant offence” means the offence for which the person making the request under subsection (1) was under arrest when granted bail under section 30A(1);
+>
+> - “relevant officer”, in relation to a designated police station, means a custody officer but, in relation to any other police station—
+>
+>   - means a constable who is not involved in the investigation of the relevant offence, if such a constable is readily available, and
+>   
+>   - if no such constable is readily available—
+>   
+>     - means a constable other than the one who granted bail to the person, if such a constable is readily available, and
+>     - if no such constable is readily available, means the constable who granted bail.
+>
+> (6) For the purposes of this section a person (“P”) is an alleged victim of an offence if—
+>
+> (a) an allegation has been made to a constable or other person involved in the investigation of the offence that P has suffered physical, mental or emotional harm, or economic loss, which was directly caused by the offence, and
+>
+> (b) P is an individual.
+>
+> (7) For the purposes of this section an alleged victim of an offence is vulnerable if the alleged victim—
+>
+> (a) was aged under 18 at the time of the offence, or
+>
+> (b) may have difficulty understanding a communication from an investigating officer under this section, or communicating effectively in response to it, by reason of—
+>
+> (i) a physical disability or disorder,
+>
+> (ii) a mental disorder within the meaning of the Mental Health Act 1983, or
+>
+> (iii) a significant impairment of intelligence and social functioning.
+
+**22** After section 47 insert—
+
+> **Duty to seek views of alleged victims on conditions of pre-charge bail**
+>
+> **47ZZA** (1) Subsections (2) to (5) apply if—
+>
+> (a) a person has been arrested for an offence, and
+>
+> (b) a custody officer proposes to release the person on bail under this Part (except section 37C(2)(b) or 37CA(2)(b)).
+>
+> (2) If it is reasonably practicable to do so, the investigating officer must seek the views of the alleged victim (if any) of the offence on—
+>
+> (a) whether relevant conditions should be imposed on the person’s bail, and
+>
+> (b) if so, what relevant conditions should be imposed.
+>
+> (3) In this section “relevant condition”, in relation to an offence and an alleged victim of that offence, means a condition that relates to the safeguarding of the alleged victim.
+>
+> (4) The investigating officer must inform the custody officer of any views obtained under subsection (2).
+>
+> (5) If the person is granted bail subject to relevant conditions, the investigating officer must, if it is reasonably practicable to do so, notify the alleged victim of the offence of those conditions.
+>
+> (6) If the alleged victim of the offence appears to the investigating officer to be vulnerable, subsections (2) and (5) apply as if references to the alleged victim of the offence were to a person appearing to the officer to represent the alleged victim.
+>
+> (7) Subsections (8) to (11) apply if—
+>
+> (a) a person has been arrested for an offence,
+>
+> (b) the person has been released on bail under this Part subject to conditions, and
+>
+> (c) the person requests a custody officer to vary the conditions under section 3A(8) of the Bail Act 1976.
+>
+> (8) If it is reasonably practicable to do so, the investigating officer must seek the views of the alleged victim (if any) of the offence on—
+>
+> (a) whether any of the conditions that are relevant conditions should be varied, and
+>
+> (b) if so, what variations should be made to those conditions.
+>
+> (9) The investigating officer must inform the custody officer of any views obtained under subsection (8).
+>
+> (10) If any of the conditions which are relevant conditions are varied, the investigating officer must, if it is reasonably practicable to do so, notify the alleged victim of the variations.
+>
+> (11) If the alleged victim of the offence appears to the investigating officer to be vulnerable, subsections (8) and (10) apply as if references to the alleged victim of the offence were to a person appearing to the officer to represent the alleged victim.
+>
+> (12) In this section “investigating officer”, in relation to an offence, means the constable or other person in charge of the investigation of the offence.
+>
+> (13) For the purposes of this section a person (“P”) is an alleged victim of an offence if—
+>
+> (a) an allegation has been made to a constable or other person involved in the investigation of the offence that P has suffered physical, mental or emotional harm, or economic loss, which was directly caused by the offence, and
+>
+> (b) P is an individual.
+>
+> (14) For the purposes of this section an alleged victim of an offence is vulnerable if the alleged victim—
+>
+> (a) was aged under 18 at the time of the offence, or
+>
+> (b) may have difficulty understanding a communication from an investigating officer under this section, or communicating effectively in response to it, by reason of—
+>
+> (i) a physical disability or disorder,
+>
+> (ii) a mental disorder within the meaning of the Mental Health Act 1983, or
+>
+> (iii) a significant impairment of intelligence and social functioning.
+
+#### Amendments to the Criminal Justice Act 2003 (c. 44)
+
+**23** In section 24B(3) of the Criminal Justice Act 2003 (arrest for failure to comply with conditions of conditional caution: application of PACE provisions)—
+
+(a) before paragraph (a) insert—
+
+> (za) in section 30CA, omit subsections (4A) to (4D)
+
+, and
+
+(b) in paragraph (a), for the words from “in section 30CA(5)(a)” to “provision” substitute “in section 30CA(5), in paragraph (a) of the definition of “relevant officer”, for the reference to being involved in the investigation of the relevant offence”.
+
+### PART 4 — Limits on period of bail without charge
+
+**24** The Police and Criminal Evidence Act 1984 is amended as follows.
+
+**25** In section 30B(8) (notice of release under section 30A: bail end date), for “28 days” substitute “3 months”.
+
+**26** (1) Section 47ZB (applicable bail period: initial limit) is amended as follows.
+
+(2) In subsection (1)—
+
+(a) in paragraph (a)—
+
+(i) for “SFO case” substitute “FCA case, HMRC case, NCA case or SFO case”, and
+
+(ii) for “3 months” substitute “6 months”, and
+
+(b) in paragraph (b)—
+
+(i) for “in an FCA case or any other case” substitute “in any other case”, and
+
+(ii) for “28 days” substitute “3 months”.
+
+(3) In subsection (4)—
+
+(a) in paragraph (b)(ii), for “a senior officer” substitute “a member of staff of that Authority who is of the description designated for the purposes of this sub-paragraph by the Chief Executive of that Authority”,
+
+(b) after paragraph (b) insert—
+
+> (ba) an “HMRC case” is a case in which—
+>
+> (i) the relevant offence in relation to the person is being investigated by an officer of Revenue and Customs, and
+>
+> (ii) an officer of Revenue and Customs confirms that sub-paragraph (i) applies,
+>
+> (bb) an “NCA case” is a case in which—
+>
+> (i) the relevant offence in relation to the person is being investigated by the National Crime Agency, and
+>
+> (ii) a National Crime Agency officer confirms that sub-paragraph (i) applies,
+
+,
+
+(c) in paragraph (c)(ii), for “a senior officer” substitute “a member of the Serious Fraud Office”, and
+
+(d) omit paragraph (d) and the “and” preceding that paragraph.
+
+**27** In section 47ZC (applicable bail period: conditions A to D in sections 47ZD to 47ZG), in subsection (6)—
+
+(a) in paragraph (a), for “senior officer” substitute “relevant officer”,
+
+(b) after paragraph (a) insert—
+
+> (aa) in relation to a condition which falls to be considered by virtue of section 47ZDA, the senior officer in question;
+>
+> (ab) in relation to a condition which falls to be considered by virtue of section 47ZDB, the appropriate decision-maker in question,
+
+, and
+
+(c) in paragraph (b), for “appropriate decision-maker” substitute “qualifying police officer”.
+
+**28** (1) Section 47ZD (applicable bail period: extension of initial limit in standard cases) is amended as follows.
+
+(2) In subsection (1)(c), for “senior officer” substitute “relevant officer”.
+
+(3) In subsection (2)—
+
+(a) for “senior officer” substitute “relevant officer”, and
+
+(b) for “3 months” substitute “6 months”.
+
+(4) In subsections (3) to (5), for “senior officer” substitute “relevant officer”.
+
+(5) After subsection (5) insert—
+
+> (6) For the purposes of this Part “relevant officer” means a police officer of the rank of inspector or above.
+
+**29** After section 47ZD insert—
+
+> **Applicable bail period: further extension of limit in standard cases**
+>
+> **47ZDA** (1) This section applies in relation to a person if—
+>
+> (a) a relevant officer has authorised an extension of the applicable bail period in relation to the person under section 47ZD,
+>
+> (b) that period has not ended, and
+>
+> (c) a senior officer is satisfied that conditions A to D are met in relation to the person.
+>
+> (2) The senior officer may authorise the applicable bail period in relation to the person to be extended so that it ends at the end of the period of 9 months beginning with the person’s bail start date.
+>
+> (3) Before determining whether to give an authorisation under subsection (2) in relation to a person, the senior officer must arrange for the person or the person’s legal representative to be informed that a determination is to be made.
+>
+> (4) In determining whether to give an authorisation under subsection (2) in relation to a person, the senior officer must consider any representations made by the person or the person’s legal representative.
+>
+> (5) The senior officer must arrange for the person or the person’s legal representative to be informed whether an authorisation under subsection (2) has been given in relation to the person.
+>
+> (6) For the purposes of this Part “senior officer” means a police officer of the rank of superintendent or above.
+>
+> **Applicable bail period: extension of limit in non-standard cases**
+>
+> **47ZDB** (1) This section applies in relation to a person if—
+>
+> (a) the applicable bail period in relation to a person is the period mentioned in section 47ZB(1)(a),
+>
+> (b) that period has not ended, and
+>
+> (c) an appropriate decision-maker is satisfied that conditions A to D are met in relation to the person.
+>
+> (2) The appropriate decision-maker may authorise the applicable bail period in relation to the person to be extended so that it ends at the end of the period of 12 months beginning with the person’s bail start date.
+>
+> (3) Before determining whether to give an authorisation under subsection (2) in relation to a person, the appropriate decision-maker must arrange for the person or the person’s legal representative to be informed that a determination is to be made.
+>
+> (4) In determining whether to give an authorisation under subsection (2) in relation to a person, the appropriate decision-maker must consider any representations made by the person or the person’s legal representative.
+>
+> (5) The appropriate decision-maker must arrange for the person or the person’s legal representative to be informed whether an authorisation under subsection (2) has been given in relation to the person.
+>
+> (6) For the purposes of this Part “appropriate decision-maker” means—
+>
+> (a) in an FCA case, a member of staff of the Financial Conduct Authority who is of the description designated for the purposes of this section by the Chief Executive of that Authority,
+>
+> (b) in an HMRC case, an officer of Revenue and Customs of a grade that is equivalent to the rank of superintendent or above,
+>
+> (c) in an NCA case, a National Crime Agency officer of a grade that is equivalent to the rank of superintendent or above, and
+>
+> (d) in an SFO case, a member of the Serious Fraud Office who is of the Senior Civil Service.
+
+**30** (1) Section 47ZE (applicable bail period: extension of limit in designated cases) is amended as follows.
+
+(2) In subsection (1), for paragraphs (a) and (b) substitute “a senior officer has authorised an extension of the applicable bail period in relation to the person under section 47ZDA.”
+
+(3) In subsection (2), for “A qualifying prosecutor” substitute “The Director of Public Prosecutions”.
+
+(4) In subsection (3)—
+
+(a) for “an appropriate decision-maker” substitute “a qualifying police officer”,
+
+(b) for “the decision maker” substitute “the officer”, and
+
+(c) for “6 months” substitute “12 months”.
+
+(5) Omit subsection (4).
+
+(6) In subsection (5)—
+
+(a) in paragraph (a), for “appropriate decision-maker” substitute “qualifying police officer”, and
+
+(b) for paragraph (b) substitute—
+
+> (b) the qualifying police officer must consult the Director of Public Prosecutions.
+
+(7) In subsections (6) and (7), for “appropriate decision-maker” substitute “qualifying police officer”.
+
+(8) In subsection (9) omit the definition of “qualifying prosecutor” and the “and” immediately before that definition.
+
+**31** (1) Section 47ZF (applicable bail period: first extension of limit by court) is amended as follows.
+
+(2) In subsection (1)—
+
+(a) omit paragraph (a),
+
+(b) in paragraph (b), for “section 47ZD” substitute “section 47ZDA”,
+
+(c) after paragraph (b) (but before the “or” at the end of that paragraph) insert—
+
+> (ba) an appropriate decision-maker has authorised an extension of the applicable bail period in relation to the person under section 47ZDB,
+
+, and
+
+(d) in paragraph (c), for “an appropriate decision-maker” substitute “a qualifying police officer”.
+
+(3) In subsection (4)—
+
+(a) in paragraph (a)—
+
+(i) for “subsection (1)(a) or (b)” substitute “subsection (1)(b)”, and
+
+(ii) for “6 months” substitute “12 months”, and
+
+(b) in paragraph (b)—
+
+(i) for “subsection (1)(c)” substitute “subsection (1)(ba) or (c)”, and
+
+(ii) for “9 months” substitute “18 months”.
+
+(4) In subsection (6)—
+
+(a) in paragraph (a)—
+
+(i) for “subsection (1)(a) or (b)” substitute “subsection (1)(b)”, and
+
+(ii) for “9 months” substitute “18 months”, and
+
+(b) in paragraph (b)—
+
+(i) for “subsection (1)(c)” substitute “subsection (1)(ba) or (c)”, and
+
+(ii) for “12 months” substitute “24 months”.
+
+(5) In subsection (8), after paragraph (b) insert—
+
+> (ba) an officer of Revenue and Customs,
+>
+> (bb) a National Crime Agency officer,
+
+.
+
+**32** In section 47ZI (sections 47ZF to 47ZH: proceedings in magistrates’ court), in each of subsections (2)(a) and (3)(a), for “12 months” substitute “24 months”.
+
+**33** In section 47ZM(2) (applicable bail period: special case of release on bail under section 30A), for “28 days”, in both places, substitute “3 months”.
+
+### PART 5 — Police detention after arrest for breach of pre-charge bail etc
+
+**34** The Police and Criminal Evidence Act 1984 is amended as follows.
+
+**35** In section 41 (limits on period of detention without charge), after subsection (12) insert—
+
+> (13) Section 47(6) and (6A) makes further provision about the calculation of a period of police detention for the purposes of this Part.
+
+**36** In section 47 (bail after arrest), after subsection (6) insert—
+
+> (6A) Where a person has been arrested under section 46A above (other than in a case within subsection (1ZA) or (1ZB) of that section) the period of 3 hours beginning with the time at which the person arrives at a police station following the arrest is not to be included as part of any period of police detention which falls to be calculated in relation to the person under this Part of this Act.
+
+### PART 6 — Guidance on pre-charge bail
+
+**37** In the Police and Criminal Evidence Act 1984, after section 50A insert—
+
+> **Guidance from the College of Policing on pre-charge bail**
+>
+> **50B** (1) The College of Policing may, with the approval of the Secretary of State, issue guidance on bail that is granted to a person under Part 3 or this Part (“pre-charge bail”).
+>
+> (2) Guidance on pre-charge bail may in particular cover—
+>
+> (a) the exercise of powers to release a person on pre-charge bail;
+>
+> (b) the exercise of powers to impose or vary conditions of pre-charge bail;
+>
+> (c) the exercise of powers to arrest a person—
+>
+> (i) for failing to answer pre-charge bail, or
+>
+> (ii) for breaching any conditions of pre-charge bail;
+>
+> (d) the exercise of powers to extend the period of pre-charge bail;
+>
+> (e) the duty to seek the views of alleged victims about conditions of pre-charge bail.
+>
+> (3) The College of Policing may, with the approval of the Secretary of State, from time to time revise the whole or any part of its guidance on pre-charge bail.
+>
+> (4) Before issuing or revising guidance on pre-charge bail, the College of Policing must consult—
+>
+> (a) the National Police Chiefs’ Council,
+>
+> (b) such persons as appear to the College to represent the views of local policing bodies, and
+>
+> (c) such other persons as the College thinks fit.
+>
+> (5) The Secretary of State must lay before Parliament any guidance on pre-charge bail issued by the College of Policing, and any revision of such guidance.
+>
+> (6) The Secretary of State is not required by subsection (5) to lay before Parliament, or may exclude from what is laid, anything the publication of which, in the opinion of the Secretary of State—
+>
+> (a) could prejudice the prevention or detection of crime or the apprehension or prosecution of offenders, or
+>
+> (b) could jeopardise the safety of any person.
+>
+> (7) A person who exercises functions relating to pre-charge bail must have regard to the guidance.
+>
+> (8) But subsection (7) does not apply to—
+>
+> (a) a member of the Serious Fraud Office,
+>
+> (b) a member of staff of the Financial Conduct Authority,
+>
+> (c) an officer of Revenue and Customs, or
+>
+> (d) a National Crime Agency officer.
+>
+> (9) A failure on the part of a person to whom subsection (7) applies to comply with the guidance does not of itself render the person liable to any criminal or civil proceedings.
+>
+> (10) But guidance on pre-charge bail is admissible in evidence in criminal or civil proceedings and a court may take into account a failure to comply with it in determining a question in the proceedings.
+
+## SCHEDULE 5 — Overseas production orders
+
+*Section 51*
+
+**1** The Crime (Overseas Production Orders) Act 2019 is amended as follows.
+
+**2** (1) Section 3 (meaning of “electronic data” and “excepted electronic data”) is amended as follows.
+
+(2) In subsection (4), at the end insert “, other than communications data to which subsection (4A) applies”.
+
+(3) After subsection (4) insert—
+
+> (4A) This subsection applies to communications data which is comprised in, included as part of, attached to or logically associated with electronic data which, apart from this subsection, may be specified or described in the application for the overseas production order.
+
+**3** In section 5(3) (content of order: requirements fulfilled by reference to part only of data sought) for “4(5) or (7)” substitute “4(5), (6) or (7)”.
+
+**4** (1) Section 9 (restrictions on service of order) is amended as follows.
+
+(2) In subsection (2), after “the Secretary of State” insert “or a prescribed person”.
+
+(3) In subsection (3), after “the Lord Advocate” insert “or a prescribed person”.
+
+(4) In subsection (4)—
+
+(a) for “The Secretary of State or, as the case may be, the Lord Advocate” substitute “A person”, and
+
+(b) for “the Secretary of State or the Lord Advocate” substitute “that person”.
+
+(5) After subsection (4) insert—
+
+> (5) In this section “prescribed person”—
+>
+> (a) in relation to an overseas production order made in England and Wales or Northern Ireland, means a person prescribed by regulations made by the Secretary of State;
+>
+> (b) in relation to an overseas production order made in Scotland, means a person prescribed by regulations made by the Lord Advocate.
+
+**5** (1) Section 14 (means of service) is amended as follows.
+
+(2) In subsection (3)(d)—
+
+(a) in sub-paragraph (i), after “the Secretary of State” insert “or a prescribed person”, and
+
+(b) in sub-paragraph (ii), after “the Lord Advocate” insert “or a prescribed person”.
+
+(3) After subsection (5) insert—
+
+> (6) In this section “prescribed person”—
+>
+> (a) in relation to an order, notice or other document made or issued in England and Wales or Northern Ireland, means a person prescribed by regulations made by the Secretary of State;
+>
+> (b) in relation to an order, notice or other document made or issued in Scotland, means a person prescribed by regulations made by the Lord Advocate.
+
+**6** In section 15(3) (modifications of section 9 in the case of an order made on application by the service police)—
+
+(a) in paragraph (g)—
+
+(i) omit the “and” at the end of sub-paragraph (i), and
+
+(ii) at the end of sub-paragraph (ii) insert
+
+> , and
+>
+> (iii) subsection (5) defined “prescribed person” as a person prescribed by regulations made by the Secretary of State;
+
+, and
+
+(b) for paragraph (h) substitute—
+
+> (h) section 14 is to be read as if—
+>
+> (i) the reference in subsection (1)(c) to a court in England and Wales, Scotland or Northern Ireland included the Court Martial,
+>
+> (ii) subsection (3)(d) referred only to arrangements made by the Secretary of State or a prescribed person, and
+>
+> (iii) subsection (6) defined “prescribed person” as a person prescribed by regulations made by the Secretary of State.
+
+**7** (1) Section 17 (regulations) is amended as follows.
+
+(2) In subsection (2), for “or 4(1)(b)” substitute “, 4(1)(b), 9(5) or 14(6)”.
+
+(3) After subsection (5) insert—
+
+> (6) Regulations made by the Lord Advocate under section 9(5) or 14(6) are subject to the negative procedure (see section 28 of the Interpretation and Legislative Reform (Scotland) Act 2010 (asp 10)).
+
+## SCHEDULE 6 — Special procedure for access to material relating to human remains
+
+*Section 56*
+
+### Making of orders by judge
+
+**1** (1) On an application made by a constable, a judge may make an order under paragraph 2 if the judge is satisfied that the following conditions are met.
+
+(2) The first condition is that there are reasonable grounds for believing that material that consists of, or may relate to the location of, relevant human remains—
+
+(a) is in the possession or control of a person specified in the application, or
+
+(b) is on premises occupied or controlled by a person specified in the application.
+
+(3) The second condition is that there are reasonable grounds for believing that the material consists of or includes excluded material or special procedure material.
+
+(4) The third condition is that there are reasonable grounds for believing that the material does not consist of or include items subject to legal privilege.
+
+(5) The fourth condition is that other methods of obtaining the material—
+
+(a) have been tried without success, or
+
+(b) have not been tried because it appeared that they were bound to fail.
+
+(6) The fifth condition is that it is in the public interest, having regard—
+
+(a) to the need to ensure that human remains are located and disposed of in a lawful manner, and
+
+(b) to the circumstances under which the person in possession of the material holds it,
+
+that the material should be produced or access to it should be given.
+
+**2** (1) An order under this paragraph is an order that, before the end of the relevant period, the person specified in the application must—
+
+(a) produce the material to a constable for the constable to take it away, or
+
+(b) give a constable access to it.
+
+(2) In sub-paragraph (1) “the relevant period” means 7 days from the date of the order or such longer period as the order may specify.
+
+**3** Where the material consists of information stored in any electronic form—
+
+(a) an order under paragraph 2(1)(a) has effect as an order to produce the material in a form in which it can be taken away and in which it is visible and legible or from which it can readily be produced in a visible or legible form, and
+
+(b) an order under paragraph 2(1)(b) has effect as an order to give a constable access to the material in a form in which it is visible and legible.
+
+**4** For the purposes of sections 21 and 22 of the Police and Criminal Evidence Act 1984, material produced in pursuance of an order under paragraph 2(1)(a) is to be treated as if it were material seized by a constable.
+
+### Notices of applications for orders
+
+**5** (1) An application for an order under paragraph 2 that relates to material that consists of or includes journalistic material is to be made inter partes.
+
+(2) Notice of an application for an order under paragraph 2 that relates to such material may be served on a person—
+
+(a) by delivering it to the person,
+
+(b) by leaving it at the person’s proper address, or
+
+(c) by sending it by post to the person in a registered letter or by a recorded delivery service.
+
+(3) Notice of an application for an order under paragraph 2 that relates to such material may be served—
+
+(a) on a body corporate, by serving it on the body’s secretary or clerk or other similar officer;
+
+(b) on a partnership, by serving it on one of the partners.
+
+(4) For the purposes of sub-paragraph (2), and of section 7 of the Interpretation Act 1978 in its application to that sub-paragraph, the proper address of a person—
+
+(a) in the case of a secretary or clerk or other similar officer of a body corporate, is that of the registered or principal office of that body;
+
+(b) in the case of a partner of a firm is that of the principal office of the firm;
+
+(c) in any other case is the last known address of the person to be served.
+
+**6** (1) Where notice of an application for an order under paragraph 2 has been served on a person, the person must not conceal, destroy, alter or dispose of the material to which the application relates until sub-paragraph (2) applies except—
+
+(a) with the leave of a judge, or
+
+(b) with the written permission of a constable.
+
+(2) This paragraph applies when—
+
+(a) the application is dismissed or abandoned, or
+
+(b) the person has complied with an order under paragraph 2 made on the application.
+
+### Failure to comply with order
+
+**7** (1) If a person fails to comply with an order under paragraph 2, a judge may deal with the person as if the person had committed a contempt of the Crown Court.
+
+(2) Any enactment relating to contempt of the Crown Court has effect in relation to such a failure as if it were such a contempt.
+
+### Issue of warrants by judge
+
+**8** (1) On an application made by a constable, a judge may issue a warrant authorising a constable to enter and search premises if the judge is satisfied that the conditions in this paragraph are met.
+
+(2) The first condition is that there are reasonable grounds for believing that there is material on the premises mentioned in sub-paragraph (5) below that consists of, or may relate to the location of, relevant human remains.
+
+(3) The second condition is that each of the conditions set out in paragraph 1(3) to (6) is met in relation to the material.
+
+(4) The third condition is that there are reasonable grounds for believing, in relation to each set of premises specified in the application—
+
+(a) that it is not practicable to communicate with any person entitled to grant entry to the premises,
+
+(b) that it is practicable to communicate with a person entitled to grant entry to the premises but it is not practicable to communicate with any person entitled to grant access to the material,
+
+(c) that the material on the premises contains information which—
+
+(i) is subject to a restriction on disclosure or an obligation of secrecy contained in any enactment, including an enactment contained in an Act passed after this Act, and
+
+(ii) is likely to be disclosed in breach of it if a warrant is not issued, or
+
+(d) that service of notice of an application for an order under paragraph 2 may seriously prejudice the purpose of the search.
+
+(5) The premises referred to in sub-paragraph (2) are—
+
+(a) one or more sets of premises specified in the application (in which case the application is for a “specific premises warrant”), or
+
+(b) any premises occupied or controlled by a person specified in the application, including such sets of premises as are so specified (in which case the application is for an “all premises warrant”).
+
+**9** If the application is for an all premises warrant, the judge must also be satisfied—
+
+(a) that there are reasonable grounds for believing that it is necessary to search premises occupied or controlled by the person in question which are not specified in the application, as well as those which are, in order to find the material in question, and
+
+(b) that it is not reasonably practicable to specify in the application all the premises which the person occupies or controls and which might need to be searched.
+
+**10** (1) The warrant may authorise entry to and search of premises on more than one occasion if, on the application, the judge is satisfied that it is necessary to authorise multiple entries in order to achieve the purpose for which the judge issues the warrant.
+
+(2) If the warrant authorises multiple entries, the number of entries authorised may be unlimited, or limited to a maximum.
+
+**11** A constable may—
+
+(a) seize and retain anything for which a search has been authorised under paragraph 8, and
+
+(b) if necessary, use reasonable force in the exercise of a power conferred by a warrant issued under that paragraph.
+
+### Procedural rules
+
+**12** Criminal Procedure Rules may make provision about proceedings under this Schedule, other than proceedings for an order under paragraph 2 that relates to material that consists of or includes journalistic material.
+
+### Costs
+
+**13** The costs of any application under this Schedule and of anything done or to be done in pursuance of an order made under it shall be in the discretion of the judge.
+
+### Interpretation
+
+**14** In this Schedule—
+
+- “journalistic material” has the same meaning as in the Police and Criminal Evidence Act 1984 (see section 13 of that Act);
+- “judge” means a Circuit judge, a qualifying judge advocate (within the meaning of the Senior Courts Act 1981) or a District Judge (Magistrates’ Courts).
+
+## SCHEDULE 7 — Expedited public spaces protection orders
+
+*Section 82*
+
+**1** The Anti-social Behaviour, Crime and Policing Act 2014 is amended as follows.
+
+**2** In the heading of Chapter 2 of Part 4, at the end insert “and expedited orders”.
+
+**3** In the italic heading before section 59, at the end insert “and expedited orders”.
+
+**4** In the heading of section 59 (power to make orders), before “orders” insert “public spaces protection”.
+
+**5** In the heading of section 60 (duration of orders), after “of” insert “public spaces protection”.
+
+**6** (1) Section 61 (variation and discharge of orders) is amended as follows.
+
+(2) In subsection (1), in the words before paragraph (a), after “protection order” insert “or expedited order”.
+
+(3) In subsection (2), for “make a variation under subsection (1)(a)” substitute “under subsection (1)(a) make a variation to a public spaces protection order”.
+
+(4) After subsection (2) insert—
+
+> (2A) A local authority may under subsection (1)(a) make a variation to an expedited order that results in the order applying to an area to which it did not previously apply only if the conditions in section 59A(2) to (4) are met as regards that area.
+
+(5) In subsection (3), after “59(5)” insert “or 59A(6) (as the case may be)”.
+
+(6) In subsection (4), after “order” insert “or expedited order”.
+
+**7** (1) Section 62 (premises etc to which alcohol prohibition does not apply) is amended as follows.
+
+(2) In subsection (1), in the words before paragraph (a), after “order” insert “or expedited order”.
+
+(3) In subsection (2), in the words before paragraph (a), after “order” insert “or an expedited order”.
+
+**8** In section 63 (consumption of alcohol in breach of prohibition order), in subsection (1)—
+
+(a) in paragraph (a), after “order” insert “or an expedited order”;
+
+(b) in the words after paragraph (b) omit “public spaces protection”.
+
+**9** (1) Section 64 (orders restricting public right of way over highway) is amended as follows.
+
+(2) In subsection (1), in the words before paragraph (a), after “order” insert “or expedited order”.
+
+(3) After subsection (1) insert—
+
+> (1A) Before making a public spaces protection order that restricts the public right of way over a highway, a local authority must take the prior consultation steps (see subsection (2)).
+>
+> (1B) A local authority may not make an expedited order that restricts the public right of way over a highway unless it—
+>
+> (a) takes the prior consultation steps before making the order, or
+>
+> (b) takes the subsequent consultation steps (see subsection (2A)) as soon as reasonably practicable after making the order.
+
+(4) In subsection (2), for the words from “Before” to “must” substitute “To take the “prior consultation steps” in relation to an order means to”.
+
+(5) After subsection (2) insert—
+
+> (2A) To take the “subsequent consultation steps” in relation to an expedited order means to—
+>
+> (a) notify potentially affected persons of the order,
+>
+> (b) invite those persons to make representations within a specified period about the terms and effects of the order,
+>
+> (c) inform those persons how they can see a copy of the order, and
+>
+> (d) consider any representations made.
+>
+> The definition of “potentially affected persons” in subsection (2) applies to this subsection as if the reference there to “the proposed order” were to “the order”.
+
+(6) After subsection (3) insert—
+
+> (3B) Where a local authority proposes to make an expedited order restricting the public right of way over a highway that is also within the area of another local authority it must, if it thinks appropriate to do so, consult that other authority before, or as soon as reasonably practicable after, making the order.
+
+(7) In subsections (4), (5), (6), (7) and (8), after “order” insert “or expedited order”.
+
+**10** In section 65 (categories of highway over which public right of way may not be restricted), in subsection (1), in the words before paragraph (a), after “order” insert “or an expedited order”.
+
+**11** (1) Section 66 (challenging validity of orders) is amended as follows.
+
+(2) In subsections (1) and (6), after “public spaces protection order”, in each place it occurs, insert “or an expedited order”.
+
+(3) In subsection (7), in the words before paragraph (a)—
+
+(a) after “order”, in the first place it occurs, insert “or an expedited order”;
+
+(b) for “a public spaces protection”, in the second place it occurs, substitute “such an”.
+
+**12** (1) Section 67 (offence of failing to comply with order) is amended as follows.
+
+(2) In subsections (1) and (4), after “order”, in each place it occurs, insert “or an expedited order”.
+
+(3) In subsection (3), after “order” insert “or expedited order”.
+
+**13** (1) Section 68 (fixed penalty notices) is amended as follows.
+
+(2) In subsection (1), at the end insert “or an expedited order”.
+
+(3) In subsection (3), at the end insert “or expedited order”.
+
+**14** In section 70 (byelaws), after “protection order” insert “or an expedited order”.
+
+**15** (1) Section 71 (bodies other than local authorities with statutory functions in relation to land) is amended as follows.
+
+(2) In subsections (3) to (5), after “public spaces protection order”, in each place it occurs, insert “or an expedited order”.
+
+(3) In subsection (6)—
+
+(a) in paragraph (a), after “order” insert “or expedited order”;
+
+(b) in paragraph (b)(i), after “order” insert “, or an expedited order,”.
+
+**16** In the heading of section 72 (Convention rights, consultation, publicity and notification), at the beginning insert “Public spaces protection orders:”
+
+**17** (1) Section 74 (interpretation of Chapter 2 of Part 4) is amended as follows.
+
+(2) In subsection (1)—
+
+(a) at the appropriate places insert—
+
+> - “16 to 19 Academy” has the meaning given by section 1B of the Academies Act 2010;
+
+;
+
+> - “expedited order” has the meaning given by section 59A(1);
+
+;
+
+> - “Local Health Board” means a Local Health Board established under section 11 of the National Health Service (Wales) Act 2006;
+
+;
+
+> - “NHS body” has the meaning given in section 275 of the National Health Service Act 2006;
+
+;
+
+> - “school” has the meaning given by section 4 of the Education Act 1996.
+
+;
+
+(b) for the definition of “restricted area” substitute—
+
+> - “restricted area”—
+>
+>   - in relation to a public spaces protection order, has the meaning given by section 59(4);
+>   - in relation to an expedited order, has the meaning given by section 59A(5).
+
+(3) After subsection (2) insert—
+
+> (3) For the purposes of this Chapter, an expedited order “regulates” an activity if the activity is—
+>
+> (a) prohibited by virtue of section 59A(5)(a), or
+>
+> (b) subjected to requirements by virtue of section 59A(5)(b),
+>
+> whether or not for all persons and at all times.
+
+## SCHEDULE 8 — Road traffic offences: minor and consequential amendments
+
+*Section 88*
+
+### Road Traffic Act 1988 (c. 52)
+
+**1** (1) The Road Traffic Act 1988 is amended as follows.
+
+(2) In section 12E (effect of motor race order), in the table in subsection (3)—
+
+(a) after the entry relating to section 2B of the Road Traffic Act 1988 (causing death by careless, or inconsiderate, driving), insert—
+
+> |  |  |
+> |---|---|
+> | Section 2C | Causing serious injury by careless, or inconsiderate, driving |
+
+(b) in the entry relating to section 3ZB (causing death by driving: unlicensed, disqualified or uninsured drivers), in the second column omit “, disqualified”, and
+
+(c) after the entry relating to section 3ZB insert—
+
+> |  |  |
+> |---|---|
+> | Section 3ZC | Causing death by driving: disqualified drivers |
+> | Section 3ZD | Causing serious injury by driving: disqualified drivers |
+
+(3) In section 12H (races and trials of speed in Scotland: further provision), in subsection (3), after “2B” insert “, 2C”.
+
+(4) In section 13A(1) (disapplication of sections 1 to 3 for authorised motoring events), after “2B” insert “, 2C”.
+
+### Road Traffic Offenders Act 1988 (c. 55)
+
+**2** (1) The Road Traffic Offenders Act 1988 is amended as follows.
+
+(2) In section 24 (alternative verdicts: general), in subsection (1), in the table—
+
+(a) in the entry relating to section 1A of the Road Traffic Act 1988 (causing serious injury by dangerous driving), in the second column, after “Section 2 (dangerous driving)” insert “Section 2C (causing serious injury by careless, or inconsiderate, driving)”, and
+
+(b) after the entry relating to section 2B of that Act (causing death by careless, or inconsiderate, driving), insert—
+
+> |  |  |
+> |---|---|
+> | Section 2C (causing serious injury by careless, or inconsiderate, driving) | Section 3 (careless, and inconsiderate, driving |
+
+(3) In Schedule 1 (offences to which sections 1, 6, 11 and 12(1) apply), in the table after paragraph 4, after the entry relating to section 2B of the Road Traffic Act 1988 (causing death by careless, or inconsiderate, driving) insert—
+
+> |  |  |  |
+> |---|---|---|
+> | RTA section 2C | Causing serious injury by careless, or inconsiderate, driving | Sections 11 and 12(1) of this Act |
+
+### Crime (International Co-operation) Act 2003 (c. 32)
+
+**3** In paragraph 3 of Schedule 3 to the Crime (International Co-operation) Act 2003 (application of duty to give notice of driving disqualification to Republic of Ireland), after sub-paragraph (ba) insert—
+
+> (bb) section 2C (causing serious injury by careless, or inconsiderate, driving),
+
+.
+
+### Armed Forces Act 2006 (c. 52)
+
+**4** In paragraph 12(aj) of Schedule 2 to the Armed Forces Act 2006 (road traffic offences in relation to which duty to notify service police of possible corresponding service offence arises)—
+
+(a) after “1A,” insert “2C,”, and
+
+(b) after “injury by dangerous driving,” insert “causing serious injury by careless, or inconsiderate, driving,”.
+
+## SCHEDULE 9 — Surrender of licences and test certificates by new drivers
+
+*Section 95*
+
+**1** The Road Traffic (New Drivers) Act 1995 is amended as follows.
+
+**2** (1) Section 2 (surrender of licences) is amended as follows.
+
+(2) For the heading substitute “Persons to whom section 3(1) applies”.
+
+(3) Before subsection (1), insert—
+
+> (A1) Section 3(1) (revocation of licences) applies to a person who—
+>
+> (a) is the holder of a licence, and
+>
+> (b) satisfies the conditions in subsection (1) or (3).
+
+(4) In subsection (1)—
+
+(a) for “Subsection (2) applies where—” substitute “A person satisfies the conditions in this subsection if—”;
+
+(b) omit paragraph (a);
+
+(c) in paragraph (b), for “he” substitute “the person”;
+
+(d) after paragraph (d), insert—
+
+> (da) the Secretary of State is required under section 44A(2) of that Act to endorse the person’s driving record with particulars of the offence and the penalty points to be attributed to it;
+
+;
+
+(e) in paragraph (e)—
+
+(i) after “person’s” insert “driving record or”;
+
+(ii) omit “, or that date has been shown by other evidence in the proceedings”;
+
+(f) in paragraph (f), for “court” substitute “Secretary of State”.
+
+(5) Omit subsection (2).
+
+(6) In subsection (3)—
+
+(a) for “Subsection (4) applies where—” substitute “A person satisfies the conditions in this subsection if—”;
+
+(b) for paragraph (a), substitute—
+
+> (a) the person has been given a fixed penalty notice under section 54 of the Road Traffic Offenders Act 1988 or a conditional offer has been issued to the person under section 75 of that Act;
+
+;
+
+(c) for paragraph (c), substitute—
+
+> (c) the Secretary of State is required under section 57A(5) or 77A(2) of that Act to endorse the person’s driving record with particulars of the offence and the penalty points to be attributed to it;
+
+;
+
+(d) in paragraph (d), for “appropriate person” substitute “Secretary of State”;
+
+(e) in paragraph (e), after the first “the” insert “person’s driving record or”;
+
+(f) in paragraph (f), for “appropriate person” substitute “Secretary of State”.
+
+(7) Omit subsection (4).
+
+(8) Omit subsection (7).
+
+**3** (1) Section 3 (revocation of licences) is amended as follows.
+
+(2) For subsection (1) substitute—
+
+> (1) The Secretary of State must, in the case of a person to whom this subsection applies (see section 2), by notice served on the person revoke the person’s licence.
+
+(3) Omit subsection (1ZA).
+
+(4) In subsection (1A)—
+
+(a) in the words before paragraph (a), omit “or (1ZA)”;
+
+(b) in paragraph (b), at the beginning insert “if the Secretary of State is already in receipt of it,”.
+
+(5) In subsection (1B), omit “or (1ZA)”.
+
+**4** After section 3 insert—
+
+> **Surrender of licences**
+>
+> **3A** (1) Where—
+>
+> (a) the Secretary of State is required under section 3(1) or (1B) to serve a notice on a person revoking the person’s licence, and
+>
+> (b) the Secretary of State is not already in receipt of the licence,
+>
+> the notice may also require the person to surrender the licence to the Secretary of State before the end of the period of 28 days beginning with the date on which the notice is served.
+>
+> (2) A person who, without reasonable excuse, fails to comply with a requirement imposed under subsection (1)—
+>
+> (a) is guilty of an offence, and
+>
+> (b) is liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+>
+> (3) Where the Secretary of State receives a Northern Ireland licence pursuant to a requirement to surrender it imposed under subsection (1), the Secretary of State must send it to the licensing authority in Northern Ireland.
+
+**5** In section 9, for subsection (5) (interpretation: address for sending licences, test certificates etc) substitute—
+
+> (5) Any requirement under any provision of this Act that—
+>
+> (a) a licence, a test certificate or a notice must be sent to the Secretary of State, or
+>
+> (b) a licence or a test certificate must be surrendered to the Secretary of State,
+>
+> is a requirement that the licence, test certificate or notice must be sent, or the licence or test certificate must be surrendered, to the Secretary of State at such address as the Secretary of State may determine.
+
+**6** (1) Schedule 1 (newly qualified drivers holding test certificates) is amended as follows.
+
+(2) Omit—
+
+(a) paragraph 1(2A);
+
+(b) paragraph 2(1);
+
+(c) paragraph 3 and the heading before it;
+
+(d) paragraph 4 and the italic heading before it.
+
+(3) In paragraph 5—
+
+(a) for sub-paragraph (1) substitute—
+
+> (1) Where—
+>
+> (a) there is a person to whom this Part of this Schedule applies,
+>
+> (b) the person satisfies the conditions in section 2(1)(b) to (da) and (f) or (3)(a) to (d) and (f),
+>
+> (c) the Secretary of State is satisfied that the person has been issued with a test certificate, and
+>
+> (d) the person’s driving record, licence or test certificate shows the date on which the person became a qualified driver,
+>
+> the Secretary of State must by notice served on the person revoke the person’s test certificate and this sub-paragraph applies to the person instead of section 3(1).
+
+;
+
+(b) omit sub-paragraph (1ZA);
+
+(c) in sub-paragraph (1A)—
+
+(i) omit “or (1ZA)”;
+
+(ii) after “with” insert “, if the Secretary of State is already in receipt of it,”;
+
+(d) in sub-paragraph (1B), omit “or (1ZA)”.
+
+(4) After paragraph 5 insert—
+
+> **Surrender of test certificate**
+>
+> **5A** (1) Where—
+>
+> (a) the Secretary of State is required under paragraph 5(1) or (1B) to serve a notice on a person revoking the person’s test certificate, and
+>
+> (b) the Secretary of State is not already in receipt of the test certificate,
+>
+> the notice may also require the person to surrender the test certificate to the Secretary of State before the end of the period of 28 days beginning with the date on which the notice is served.
+>
+> (2) A person who, without reasonable excuse, fails to comply with a requirement imposed under sub-paragraph (1)—
+>
+> (a) is guilty of an offence, and
+>
+> (b) is liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+>
+> (3) Where the Secretary of State receives a Northern Ireland test certificate pursuant to a requirement to surrender it imposed under sub-paragraph (1), the Secretary of State must send it to the licensing authority in Northern Ireland.
+
+(5) In paragraph 6(1), omit “or (1ZA)”.
+
+(6) Omit paragraph 7 and the italic heading before it.
+
+(7) In paragraph 8—
+
+(a) for sub-paragraph (1) substitute—
+
+> (1) Where—
+>
+> (a) there is a person to whom this Part of this Schedule applies,
+>
+> (b) the person satisfies the conditions in section 2(1)(b) to (da) and (f) or (3)(a) to (d) and (f),
+>
+> (c) the Secretary of State is satisfied that the person has been issued with a test certificate, and
+>
+> (d) the person’s driving record, licence or test certificate shows the date on which the person became a qualified driver,
+>
+> the Secretary of State must by notice served on the person revoke the person’s licence and test certificate and this sub-paragraph applies to the person instead of section 3(1).
+
+;
+
+(b) omit sub-paragraph (1ZA);
+
+(c) in sub-paragraph (1A)—
+
+(i) omit “or (1ZA)”, and
+
+(ii) for “the Northern Ireland licence and the Northern Ireland test certificate” substitute
+
+> —
+>
+> (a) if the Secretary of State is already in receipt of it, the Northern Ireland licence, and
+>
+> (b) if the Secretary of State is already in receipt of it, the Northern Ireland test certificate.
+
+;
+
+(d) in sub-paragraph (1B), omit “or (1ZA)”.
+
+(8) After paragraph 8 insert—
+
+> **Surrender of licence and test certificate**
+>
+> **8A** (1) Where—
+>
+> (a) the Secretary of State is required under paragraph 8(1) or (1B) to serve a notice on a person revoking the person’s licence and test certificate, and
+>
+> (b) the Secretary of State is not already in receipt of the licence or test certificate,
+>
+> the notice may also require the person to surrender the licence, or test certificate, or both (as the case may be) to the Secretary of State before the end of the period of 28 days beginning with the date on which the notice is served.
+>
+> (2) A person who, without reasonable excuse, fails to comply with a requirement imposed under sub-paragraph (1)—
+>
+> (a) is guilty of an offence, and
+>
+> (b) is liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+>
+> (3) Where the Secretary of State receives a Northern Ireland licence or a Northern Ireland test certificate pursuant to a requirement to surrender it imposed under sub-paragraph (1), the Secretary of State must send it to the licensing authority in Northern Ireland.
+
+(9) In paragraph 9(1), omit “or (1ZA)”.
+
+(10) In paragraph 10(a), omit “or (1ZA)” in both places.
+
+## SCHEDULE 10 — Surrender of licences: minor and consequential amendments
+
+*Section 96*
+
+### PART 1 — Amendments to the Road Traffic Offenders Act 1988
+
+**1** The Road Traffic Offenders Act 1988 is amended as follows.
+
+**2** (1) Section 2 (requirement of warning etc: supplementary) is amended as follows.
+
+(2) In subsection (2)—
+
+(a) omit “, or” at the end of paragraph (a);
+
+(b) omit paragraph (b).
+
+**3** (1) Section 26 (interim disqualification) is amended as follows.
+
+(2) In subsection (8), omit “has not caused it to be delivered, or has not posted it, in accordance with section 7 of this Act and”.
+
+(3) In subsection (9)—
+
+(a) omit “, or” at the end of paragraph (a);
+
+(b) omit paragraph (b).
+
+**4** (1) Section 27 (production of licence) is amended as follows.
+
+(2) In subsection (3), omit “has not caused it to be delivered, or posted it, in accordance with section 7 of this Act and”.
+
+(3) Omit subsection (4) (which has already been repealed as it extends to Scotland).
+
+(4) Omit subsections (4A) and (5).
+
+**5** (1) Section 47 (supplementary provisions as to disqualifications and endorsements) is amended as follows.
+
+(2) In subsection (2), omit “a court orders the endorsement of a person’s driving record it may, and where”.
+
+(3) Omit subsection (2A).
+
+**6** Omit section 56 (licence receipts).
+
+**7** (1) Section 57A (endorsement of driving records without hearings) is amended as follows.
+
+(2) In subsection (3)—
+
+(a) after “penalty is made” insert “in accordance with this Part”;
+
+(b) omit “and return to that person any licence surrendered by him under section 54 of this Act”.
+
+(3) In subsection (4), omit “and return to that person any licence surrendered by him under section 54 of this Act”.
+
+(4) In subsection (5)(b), after “him” insert “in accordance with this Part”.
+
+**8** (1) Section 61A (fixed penalty notice mistakenly given: exclusion of fixed penalty procedures) is amended as follows.
+
+(2) In subsection (3), omit “and send the chief officer of police any licence sent to him under section 54(7) of this Act”.
+
+**9** (1) Section 69 (payment of penalty) is amended as follows.
+
+(2) In subsection (1), omit “or authorised person”.
+
+**10** (1) Section 70 (registration certificates) is amended as follows.
+
+(2) In subsection (2A)(a), omit “or given by an authorised person”.
+
+(3) In subsection (3A)(a), omit “or given by an authorised person”.
+
+**11** (1) Section 79 (statements by constables) is amended as follows.
+
+(2) In subsection (1), omit “or a notice under section 54(5) of this Act”.
+
+(3) In subsection (6)—
+
+(a) omit “, and” at the end of paragraph (a);
+
+(b) omit paragraph (b).
+
+**12** In section 80 (certificates about payment)—
+
+(a) in the heading, after “payment” insert “etc”;
+
+(b) after paragraph (b) insert
+
+> , or
+>
+> (c) that the identification requirements specified in section 69(3C) or 75(8B) have been fulfilled,
+
+;
+
+(c) in the words after paragraph (b), for “it” substitute “the penalty”.
+
+**13** (1) In section 84(a) (regulations), omit “54(5), 56,”.
+
+(2) The reference in sub-paragraph (1) of this paragraph to section 84(a) is to be read as a reference to section 84(1)(a), if the condition in sub-paragraph (3) is met.
+
+(3) The condition is that section 16(3) of the Domestic Violence, Crime and Victims Act 2004 (which amends section 84) comes into force before the repeal of section 54(5) of the Road Traffic Offenders Act 1988 made by section 93(3)(b) of this Act.
+
+**14** (1) Section 89 (interpretation) is amended as follows.
+
+(2) In subsection (1), omit the definition of “authorised person”.
+
+(3) In subsection (1), in the definition of “chief officer of police”, omit “(except in the definition of “authorised person”)”.
+
+**15** (1) Section 90 (index to Part 3) is amended as follows.
+
+(2) In the table, omit the entry for “authorised person”.
+
+**16** In section 91ZA(1) (application to Northern Ireland licence holders), after paragraph (c) insert—
+
+> (ca) section 37A,
+
+.
+
+**17** In section 91A(1) (application to Community licence holders)—
+
+(a) omit “and (9)(b),”;
+
+(b) for “and 27” substitute “, 27 and 37A”.
+
+**18** (1) Schedule 1 (offences to which sections 1, 6, 11 and 12(1) apply) is amended as follows.
+
+(2) In paragraph 2(a), after “section” insert “37A or”.
+
+(3) In paragraph 2(d)—
+
+(a) after “under” insert “section 3A(2) or”;
+
+(b) for “3(5)” substitute “5A(2) or 8A(2)”.
+
+**19** In Part 1 of Schedule 2 (prosecution and punishment of offences), in the entry relating to section 27 of the Road Traffic Offenders Act 1988, for the words in column 2 (general nature of offence) substitute—
+
+> |  |  |  |  |
+> |---|---|---|---|
+> |  | Failing to produce licence to court when required to do so. |  |  |
+
+### PART 2 — Amendments to other Acts
+
+#### Road Traffic Act 1988 (c. 52)
+
+**20** The Road Traffic Act 1988 is amended as follows.
+
+**21** In section 93 (revocation of licence because of disability or prospective disability), omit subsection (4).
+
+**22** In section 99 (duration of licences), omit subsection (6).
+
+**23** (1) Section 164 (power of constables to require production of driving licence and in certain cases statement of date of birth) is amended as follows.
+
+(2) After subsection (5), insert—
+
+> (5A) If a person is required to surrender the person’s licence or test certificate to the Secretary of State under—
+>
+> (a) section 37A of the Road Traffic Offenders Act 1988, or
+>
+> (b) section 3A of, or paragraph 5A or 8A of Schedule 1 to, the Road Traffic (New Drivers) Act 1995,
+>
+> and fails to do so, a constable or vehicle examiner may require the person to produce the licence or test certificate and, upon its being produced, may seize it and deliver it to the Secretary of State.
+>
+> (5B) In subsection (5A), “test certificate” has the same meaning as in Schedule 1 to the Road Traffic (New Drivers) Act 1995.
+
+(3) In subsection (6), for “(7) to” substitute “(8) and”.
+
+(4) Omit subsection (7).
+
+**24** In section 166 (powers of certain officers as respects goods vehicles and passenger-carrying vehicles), for “164(1) or (3)” substitute “164(1), (3) or (5A)”.
+
+#### Crime (International Co-operation) Act 2003 (c. 32)
+
+**25** In section 63 of the Crime (International Co-operation) Act 2003 (production of licence: Great Britain), omit subsection (3).
+
+### PART 3 — Consequential repeals of amending enactments
+
+#### Road Traffic (New Drivers) Act 1995 (c. 13)
+
+**26** In Schedule 2 to the Road Traffic (New Drivers) Act 1995, omit paragraph 4 (which amends section 47 of the Road Traffic Offenders Act 1988).
+
+#### Access to Justice Act 1999 (c. 22)
+
+**27** In Schedule 13 to the Access to Justice Act 1999, omit—
+
+(a) paragraph 141 (which amends section 7 of the Road Traffic Offenders Act 1988);
+
+(b) paragraph 144 (which amends section 27 of that Act);
+
+(c) paragraph 173 (which amends paragraph 3 of Schedule 1 to the Road Traffic (New Drivers) Act 1995).
+
+#### Police Reform Act 2002 (c. 30)
+
+**28** In section 76 of the Police Reform Act 2002, omit subsection (2) (which amends section 54 of the Road Traffic Offenders Act 1988).
+
+#### Courts Act 2003 (c. 39)
+
+**29** In Schedule 8 to the Courts Act 2003, omit—
+
+(a) paragraph 310 (which amends section 7 of the Road Traffic Offenders Act 1988);
+
+(b) paragraph 313 (which amends section 27 of that Act);
+
+(c) paragraph 365 (which amends paragraph 3 of Schedule 1 to the Road Traffic (New Drivers) Act 1995).
+
+#### Road Safety Act 2006 (c. 49)
+
+**30** The Road Safety Act 2006 is amended as follows.
+
+**31** In section 10, omit—
+
+(a) subsections (5) and (6) (which amend section 54 of the Road Traffic Offenders Act 1988);
+
+(b) subsections (10) and (11) (which amend section 57A of that Act).
+
+**32** In Schedule 1, omit—
+
+(a) paragraph 3(8) (which amends section 54 of the Road Traffic Offenders Act 1988);
+
+(b) paragraph 4 (which amends section 56 of that Act);
+
+(c) paragraph 18(5) (which amends section 79 of that Act);
+
+(d) paragraph 25 (which amends section 2 of the Road Traffic (New Drivers) Act 1995);
+
+(e) paragraph 26(3) and (4) (which amend section 3 of that Act);
+
+(f) paragraph 27(2), (3), (4), (5)(a) and (b), (6), (7), (8)(a) and (b), (9) and (10) (which amend Schedule 1 to that Act).
+
+**33** In Schedule 2, omit paragraph 25(2)(b) (which amends section 76 of the Road Traffic Offenders Act 1988).
+
+**34** In Schedule 3, omit—
+
+(a) paragraph 5(3) and (4) (which amend section 93 of the Road Traffic Act 1988);
+
+(b) paragraph 9(5) (which amends section 99 of that Act);
+
+(c) paragraph 26(6) (which amends section 164 of that Act);
+
+(d) paragraph 32(3) and (4) (which amend section 26 of the Road Traffic Offenders Act 1988);
+
+(e) paragraph 33(5) (which amends section 27 of that Act);
+
+(f) paragraph 44(3) (which amends section 47 of that Act);
+
+(g) paragraph 46 (which amends section 56 of that Act);
+
+(h) paragraph 49(3) (which amends section 61A of that Act);
+
+(i) paragraph 54 (which amends section 77A of that Act);
+
+(j) paragraph 67(2), (3)(a) and (b) and (4) (which amend section 2 of the Road Traffic (New Drivers) Act 1995);
+
+(k) paragraph 68 (which amends section 3 of that Act);
+
+(l) paragraph 70 (which amends Schedule 1 to that Act).
+
+#### Criminal Justice and Courts Act 2015 (c. 2)
+
+**35** In Schedule 11 to the Criminal Justice and Courts Act 2015, omit—
+
+(a) paragraph 9 (which amends section 7 of the Road Traffic Offenders Act 1988);
+
+(b) paragraph 11 (which amends section 27 of that Act).
+
+## SCHEDULE 11 — Cautions: consequential amendments (prospective)
+
+*Section 119*
+
+### Rehabilitation of Offenders Act 1974 (c. 53) (prospective)
+
+**1** The Rehabilitation of Offenders Act 1974 is amended as follows.
+
+**2** In section 8A (protection afforded to spent cautions), in subsection (2)—
+
+(a) for paragraph (a) substitute—
+
+> (aa) a diversionary caution under Part 6 of the Police, Crime, Sentencing and Courts Act 2022;
+>
+> (ab) a community caution under that Part of that Act;
+>
+> (ac) a caution given under section 22 of the Criminal Justice Act 2003 (conditional cautions) in respect of an offence committed before the coming into force of section 118 of the Police, Crime, Sentencing and Courts Act 2022;
+>
+> (ad) a caution given under section 66A of the Crime and Disorder Act 1998 (conditional cautions for children and young persons);
+
+;
+
+(b) in paragraph (d), for “(a) or” substitute “(aa) to”.
+
+**3** (1) Schedule 2 (protection for spent cautions) is amended as follows.
+
+(2) In paragraph 1(1)(a), for the words from “conditional” to “section 8A(2)(a))” substitute “caution referred to in section 8A(2)(aa), (ac) or (ad)”.
+
+(3) In paragraph 2(1)(f), for “conditional caution” substitute “caution referred to in section 8A(2)(aa) to (ad)”.
+
+### Bail Act 1976 (c. 63) (prospective)
+
+**4** The Bail Act 1976 is amended as follows.
+
+**5** In section 3A (conditions of bail in case of police bail), in subsection (1), for “Part 3 of the Criminal Justice Act 2003” substitute “Part 6 of the Police, Crime, Sentencing and Courts Act 2022”.
+
+**6** In section 5A (supplementary provision in case of police bail), in subsection (1), for “Part 3 of the Criminal Justice Act 2003” substitute “Part 6 of the Police, Crime, Sentencing and Courts Act 2022”.
+
+**7** Paragraphs 5 and 6 do not affect the operation of the Bail Act 1976 in relation to bail granted under Part 3 of the Criminal Justice Act 2003 in relation to offences committed before the day on which section 118(2) comes into force.
+
+### Matrimonial and Family Proceedings Act 1984 (c. 42) (prospective)
+
+**8** In section 31R of the Matrimonial and Family Proceedings Act 1984 (prohibition of cross-examination in person: victims of offences), in subsection (5), in paragraph (a) of the definition of “caution”, for sub-paragraph (i) substitute—
+
+> (i) a diversionary caution or community caution given under Part 6 of the Police, Crime, Sentencing and Courts Act 2022,
+>
+> (ia) a caution given under section 22 of the Criminal Justice Act 2003 (conditional cautions) in respect of an offence committed before the coming into force of section 118 of the Police, Crime, Sentencing and Courts Act 2022,
+
+.
+
+### Police Act 1997 (c. 50) (prospective)
+
+**9** The Police Act 1997 is amended as follows.
+
+**10** (1) Section 112 (criminal conviction certificates) is amended as follows.
+
+(2) In subsection (2), in paragraphs (a) and (b), for “conditional” substitute “relevant”.
+
+(3) In subsection (3)—
+
+(a) in the definition of “central records” for “conditional” substitute “relevant”;
+
+(b) omit the definition of “conditional caution”;
+
+(c) at the end insert—
+
+> - “relevant caution” means—
+>
+>   - a diversionary caution given under Part 6 of the Police, Crime, Sentencing and Courts Act 2022,
+>   - a caution given under section 22 of the Criminal Justice Act 2003 (conditional cautions) in respect of an offence committed before the coming into force of section 118 of the Police, Crime, Sentencing and Courts Act 2022, or
+>   - a caution given under section 66A of the Crime and Disorder Act 1998,
+>
+>   other than one that is spent for the purposes of Schedule 2 to the Rehabilitation of Offenders Act 1974;
+
+.
+
+**11** (1) Section 116A (up-dating certificates) is amended as follows.
+
+(2) In subsection (10), in paragraph (a), for “conditional cautions” substitute “relevant cautions”.
+
+(3) In subsection (11), after the definition of “exempted question” insert—
+
+> - “relevant caution” has the same meaning as in section 112;
+
+.
+
+### Police and Criminal Evidence Act 1984 (c. 60) (prospective)
+
+**12** The Police and Criminal Evidence Act 1984 is amended as follows.
+
+**13** In section 34 (limitation on police detention), in subsection (5E)—
+
+(a) for “includes” substitute “means”;
+
+(b) for paragraph (a) substitute—
+
+> (a) a diversionary or community caution under Part 6 of the Police, Crime, Sentencing and Courts Act 2022;
+
+.
+
+**14** In section 37B (consultation with DPP), in subsection (7), for “section 17 of the Criminal Justice and Courts Act 2015” substitute “any restriction on the giving of the caution under Part 6 of the Police, Crime, Sentencing and Courts Act 2022”.
+
+**15** In section 60B (notification of decision not to prosecute person interviewed), in subsection (4)—
+
+(a) for “includes” substitute “means”;
+
+(b) for paragraph (a) substitute—
+
+> (a) a diversionary or community caution under Part 6 of the Police, Crime, Sentencing and Courts Act 2022;
+
+.
+
+**16** In section 63B (testing for presence of Class A drugs), in subsection (7)(aa), for “conditional caution under Part 3 of the Criminal Justice Act 2003” substitute “diversionary caution under Part 6 of the Police, Crime, Sentencing and Courts Act 2022”.
+
+**17** Omit section 63L (which relates to persons given a penalty notice).
+
+**18** In section 64A (photographing of suspects), in subsection (1B)—
+
+(a) after paragraph (ca) insert—
+
+> (cb) given a diversionary or community caution under Part 6 of the Police, Crime, Sentencing and Courts Act 2022;
+
+;
+
+(b) in paragraph (d), omit the words from “a penalty notice” to “2001,”;
+
+(c) after paragraph (e) insert “or”;
+
+(d) omit paragraph (g) (and the “or” immediately before it).
+
+**19** Paragraphs 13 to 18 do not affect the operation of the Police and Criminal Evidence Act 1984 in relation to conditional cautions given under Part 3 of the Criminal Justice Act 2003, or penalty notices given under section 2 of the Criminal Justice and Police Act 2001, in relation to offences committed before the day on which section 118(2) and (3) come into force.
+
+### Crime and Disorder Act 1998 (c. 37) (prospective)
+
+**20** The Crime and Disorder Act 1998 is amended as follows.
+
+**21** In section 66E (failure to comply with conditions), for subsections (4) and (5) substitute—
+
+> (4) If a constable has reasonable grounds for believing that the offender has failed without reasonable excuse to comply with any of the conditions attached to a youth conditional caution, the constable may arrest the offender without warrant.
+>
+> (5) Sections 106(2) to (10) and 107 of the Police, Crime, Sentencing and Courts Act 2022 apply in relation to a person arrested under subsection (4) above.
+
+**22** In section 66G (code of practice), in subsection (2)—
+
+(a) in paragraph (j), for the words from “conferred by” to the end substitute “under section 66E(4)”;
+
+(b) in paragraph (k), for “section 24A(2) of that Act” substitute “section 106(2) and (3) of the Police, Crime, Sentencing and Courts Act 2022”.
+
+### Police Reform Act 2002 (c. 30) (prospective)
+
+**23** The Police Reform Act 2002 is amended as follows.
+
+**24** In section 43 (railways safety accreditation scheme)—
+
+(a) in subsection (6), omit “Subject to subsection (7)”;
+
+(b) omit subsection (7).
+
+**25** In Schedule 5 (powers exercisable by accredited persons), omit the following—
+
+(a) paragraph 1(2)(aa) and (2A);
+
+(b) paragraph 4 and the preceding italic heading;
+
+(c) paragraph 9A and the preceding italic heading.
+
+**26** Omit Schedule 5A (powers exercisable by accredited inspectors).
+
+### Licensing Act 2003 (c. 17) (prospective)
+
+**27** In section 147A of the Licensing Act 2003 (persistently selling alcohol to children), in subsection (7), omit paragraph (c) and the preceding “or”.
+
+### Courts Act 2003 (c. 39) (prospective)
+
+**28** The Courts Act 2003 is amended as follows.
+
+**29** In section 85EA (prohibition of cross-examination in person: victims of offences), in subsection (5), in paragraph (a) of the definition of “caution”, for sub-paragraph (i) substitute—
+
+> (i) a diversionary caution or community caution given under Part 6 of the Police, Crime, Sentencing and Courts Act 2022,
+>
+> (ia) a caution given under section 22 of the Criminal Justice Act 2003 (conditional cautions) in respect of an offence committed before the coming into force of section 118 of the Police, Crime, Sentencing and Courts Act 2022,
+
+.
+
+**30** In Schedule 5 (collection of fines), in paragraph 3(1)(b), for sub-paragraph (ii) substitute—
+
+> (ii) section 112 of the Police, Crime, Sentencing and Courts Act 2022, or
+
+.
+
+### Criminal Justice Act 2003 (c. 44) (prospective)
+
+**31** In section 330 of the Criminal Justice Act 2003 (orders and rules), in subsection (5)—
+
+(a) in paragraph (a), omit “section 25(5)”;
+
+(b) omit paragraph (aa).
+
+### Offender Management Act 2007 (c. 21) (prospective)
+
+**32** (1) Section 1 of the Offender Management Act 2007 (meaning of “the probation purposes”) is amended as follows.
+
+(2) In subsection (1)—
+
+(a) in paragraph (b)—
+
+(i) for “conditional cautions”, in the first place, substitute “diversionary or community cautions”;
+
+(ii) for “conditional cautions”, in the second place, substitute “them”;
+
+(b) in paragraph (e), for “conditional cautions” substitute “diversionary or community cautions”.
+
+(3) In subsection (4), omit the definition of “conditional caution”.
+
+(4) In subsection (5), for “conditional cautions” substitute “diversionary or community cautions”.
+
+### Anti-social Behaviour, Crime and Policing Act 2014 (c. 12) (prospective)
+
+**33** The Anti-social Behaviour, Crime and Policing Act 2014 is amended as follows.
+
+**34** In section 101 (community remedy document), in subsection (9), in the definition of “out of court disposal process”, for “conditional caution” substitute “diversionary caution, community caution”.
+
+**35** (1) Section 102 (out-of-court disposals) is amended as follows.
+
+(2) In subsection (2)—
+
+(a) after paragraph (b) insert—
+
+> (ba) a person authorised by a prosecution authority under section 98(7) of the Police, Crime, Sentencing and Courts Act 2022 for purposes relating to diversionary or community cautions;
+
+;
+
+(b) in paragraph (c), omit “section 22 of the Criminal Justice Act 2003 (conditional cautions) or”.
+
+(3) In subsection (6)—
+
+(a) in the definition of “caution”, for the words from “includes” to “2003” substitute “means a diversionary or community caution given under Part 6 of the Police, Crime, Sentencing and Courts Act 2022”;
+
+(b) for the definition of “investigating officer” and “relevant prosecutor” substitute—
+
+> - “investigating officer” has the meaning given by section 121 of the Police, Crime, Sentencing and Courts Act 2022;
+> - “relevant prosecutor” has the meaning given by section 66H of the Crime and Disorder Act 1998;
+
+.
+
+**36** Paragraphs 34 and 35 do not affect the operation of sections 101 and 102 of the Anti-social Behaviour, Crime and Policing Act 2014 in relation to conditional cautions given under Part 3 of the Criminal Justice Act 2003 in respect of offences committed before the day on which section 118(2) comes into force.
+
+### Criminal Justice and Courts Act 2015 (c. 2) (prospective)
+
+**37** In the Criminal Justice and Courts Act 2015, omit sections 17 and 18 (restrictions on use of cautions).
+
+### Other consequential repeals (prospective)
+
+**38** (1) Omit the following (which make amendments to Part 3 of the Criminal Justice Act 2003, which is repealed by section 118(2) above)—
+
+(a) paragraph 129 of Schedule 4 to the Commissioners for Revenue and Customs Act 2005;
+
+(b) sections 17 and 18 of the Police and Justice Act 2006;
+
+(c) paragraphs 60 to 62 of Schedule 26 to the Criminal Justice and Immigration Act 2008;
+
+(d) sections 133 and 134 of the Legal Aid, Sentencing and Punishment of Offenders Act 2012;
+
+(e) section 103(1) of the Anti-social Behaviour, Crime and Policing Act 2014;
+
+(f) sections 60, 64(8) and 66(10) of, and paragraph 16(2) of Schedule 12 to, the Policing and Crime Act 2017;
+
+(g) paragraphs 14 to 16 and 23 of Schedule 4 to this Act.
+
+(2) Sub-paragraph (1) does not affect the continuing operation of the repealed provisions in relation to cautions given under Part 3 of the Criminal Justice Act 2003 in respect of offences committed before the day on which section 118(2) comes into force.
+
+**39** (1) Omit the following (which make amendments to Chapter 1 of Part 1 of the Criminal Justice and Police Act 2001, which is repealed by section 118(3) above)—
+
+(a) section 15 of the Domestic Violence, Crime and Victims Act 2004;
+
+(b) section 132 of, and Schedule 23 to, the Legal Aid, Sentencing and Punishment of Offenders Act 2012.
+
+(2) Sub-paragraph (1) does not affect the continuing operation of the repealed provisions in relation to penalty notices given under Chapter 1 of Part 1 of the Criminal Justice and Police Act 2001 in respect of offences committed before the day on which section 118(3) comes into force.
+
+## SCHEDULE 12 — Minimum sentences for particular offences: consequential amendments
+
+*Section 124*
+
+### Mental Health Act 1983 (c. 20)
+
+**1** In section 37 of the Mental Health Act 1983 (power to order hospital admission or guardianship), in subsection (1B)(d), for “312(2), 313(2), 314(2) or 315(2)” substitute “312(2A), 313(2A), 314(2A) or 315(2A)”.
+
+### Armed Forces Act 2006 (c. 52)
+
+**2** The Armed Forces Act 2006 is amended as follows.
+
+**3** In section 225(2) (third drug trafficking offence)—
+
+(a) for “section 313(2)” substitute “section 313(2A)”,
+
+(b) for “particular circumstances” substitute “exceptional circumstances”, and
+
+(c) for paragraph (b) substitute—
+
+> (b) justify not doing so.
+
+**4** In section 226(2) (third domestic burglary)—
+
+(a) for “section 314(2)” substitute “section 314(2A)”,
+
+(b) for “particular circumstances” substitute “exceptional circumstances”, and
+
+(c) for paragraph (b) substitute—
+
+> (b) justify not doing so.
+
+**5** (1) Section 227A (offences of threatening with a weapon in public or on school premises) is amended as follows.
+
+(2) In subsection (1A)—
+
+(a) for “particular circumstances” substitute “exceptional circumstances”, and
+
+(b) for paragraph (b) substitute—
+
+> (b) justify not doing so.
+
+(3) Sub-paragraph (2) has effect only if this Schedule comes into force before the coming into force of paragraph 16(a) of Schedule 26 to the Sentencing Act 2020 (which omits subsection (1A) of section 227A of the Armed Forces Act 2006).
+
+(4) In subsection (2)—
+
+(a) for “particular circumstances” substitute “exceptional circumstances”, and
+
+(b) for paragraph (b) substitute—
+
+> (b) justify not doing so.
+
+**6** In section 237 (duty to have regard to purposes of sentencing etc), in subsection (3)—
+
+(a) in paragraph (bc), for “section 313(2)” substitute “section 313(2A)”, and
+
+(b) in paragraph (bd), for “section 314(2)” substitute “section 314(2A)”.
+
+**7** (1) Section 239 (reduction in sentences for guilty pleas) is amended as follows.
+
+(2) In subsection (4), for “section 313(2) or 314(2)” substitute “section 313(2A) or 314(2A)”.
+
+(3) In subsection (5), for “section 313(2) or 314(2)”, in both places it occurs, substitute “section 313(2A) or 314(2A)”.
+
+**8** In section 260 (discretionary custodial sentences: general restrictions), in subsection (1)—
+
+(a) in paragraph (e), for “section 313(2)” substitute “section 313(2A)”, and
+
+(b) in paragraph (f), for “section 314(2)” substitute “section 314(2A)”.
+
+**9** In section 273 (review of unduly lenient sentence by Court Martial Appeal Court), in subsection (6)(b)—
+
+(a) in sub-paragraph (iv), for “section 313(2)” substitute “section 313(2A)”, and
+
+(b) in sub-paragraph (v), for “section 314(2)” substitute “section 314(2A)”.
+
+## SCHEDULE 13 — Removal of attendance centre requirements for adults: related amendments
+
+*Section 152*
+
+### Powers of Criminal Courts (Sentencing) Act 2000 (c. 6)
+
+**1** The Powers of Criminal Courts (Sentencing) Act 2000 is amended as follows.
+
+**2** (1) Section 60 (attendance centre orders) is amended as follows (but see sub-paragraph (4)).
+
+(2) In subsection (1)—
+
+(a) in paragraph (b), for “21” substitute “18”;
+
+(b) omit paragraph (c) and the word “or” before it.
+
+(3) In subsection (4)(b), for the words from “16 or over” to the end, substitute “16 or 17”.
+
+(4) Sub-paragraphs (1) to (3) have no effect if paragraph 102 of Schedule 32 to the Criminal Justice Act 2003 (which confines the effect of section 60 to persons aged under 16) is in force when this paragraph comes into force.
+
+**3** In Schedule 5 (further provision about attendance centre orders), in paragraph 7(1), omit “or (c)”.
+
+### Criminal Justice Act 2003 (c. 44)
+
+**4** The Criminal Justice Act 2003 (the “2003 Act”) is amended as follows.
+
+**5** (1) Section 221 (provision of attendance centres) is amended as follows.
+
+(2) In subsection (2), omit “aged under 25”.
+
+(3) After subsection (3) insert—
+
+> (4) In this section “relevant order” means—
+>
+> (a) an order under section 177(1) (community order) or 189(1) (suspended sentence order);
+>
+> (b) a relevant order within the meaning given by section 397 of the Sentencing Code, made in respect of an offence of which the offender was convicted before the day on which paragraph 5 of Schedule 13 to the Police, Crime, Sentencing and Courts Act 2022 came into force.
+
+**6** (1) In section 300(2) (power to impose attendance centre requirement on fine defaulter)—
+
+(a) if the relevant amendment is not in force when this paragraph comes into force, in paragraph (c) for “under 25” substitute “under 18”;
+
+(b) if the relevant amendment is in force when this paragraph comes into force, omit paragraph (c) and the word “or” before it.
+
+(2) In sub-paragraph (1) the “relevant amendment” means paragraph 2(3)(a)(i) of Schedule 26 to the Criminal Justice and Immigration Act 2008 (which confines the application of section 300(2) of the 2003 Act to those over 18).
+
+**7** If paragraph 102 of Schedule 32 is not in force when this paragraph comes into force, in sub-paragraph (2)(b) of that paragraph 102 (amendment of section 61(1)(b) of the Powers of Criminal Courts (Sentencing) Act 2000), for “21” substitute “18”.
+
+### Sentencing Code
+
+**8** The Sentencing Code is amended as follows.
+
+**9** (1) Schedule 11 (transfer of community orders to Scotland or Northern Ireland) is amended as follows.
+
+(2) In paragraph 12(2)—
+
+(a) at the end of paragraph (g) insert “, where such a requirement is available (see section 207(3))”;
+
+(b) at the end of paragraph (h) insert “, where such a requirement is available (see section 207(4))”.
+
+(3) In paragraph 25(3), omit paragraph (b) (but not the “or” at the end of that paragraph).
+
+**10** (1) Schedule 17 (transfer of suspended sentence orders to Scotland or Northern Ireland) is amended as follows.
+
+(2) In paragraph 9(2)—
+
+(a) at the end of paragraph (g) insert “, where such a requirement is available (see section 291(3))”;
+
+(b) at the end of paragraph (h) insert “, where such a requirement is available (see section 291(4))”.
+
+(3) In paragraph 32—
+
+(a) in sub-paragraph (2), omit paragraph (b) (but not the “or” at the end of that paragraph);
+
+(b) in sub-paragraph (5)—
+
+(i) at the end of paragraph (g) insert “, where such a requirement is available (see section 291(3))”;
+
+(ii) at the end of paragraph (h) insert “, where such a requirement is available (see section 291(4))”.
+
+## SCHEDULE 14 — Community and suspended sentence orders: special procedures relating to review and breach
+
+*Section 153*
+
+### PART 1 — Amendments to the Sentencing Code
+
+#### Introductory
+
+**1** The Sentencing Code is amended as specified in this Part of this Schedule.
+
+#### Orders that qualify for special procedures
+
+**2** After section 395 insert—
+
+> **Community and suspended sentence orders qualifying for special procedures**
+>
+> **395A** (1) A community order or suspended sentence order qualifies for special procedures for the purposes of a relevant provision if the order—
+>
+> (a) is of a description specified in regulations for the purposes of that provision, and
+>
+> (b) is made within a period, or after a time, so specified.
+>
+> (2) In subsection (1) “relevant provision” means—
+>
+> (a) section 217A;
+>
+> (b) section 293A;
+>
+> (c) paragraphs 10(5)(ba) and 11(2)(ba) of Schedule 10;
+>
+> (d) paragraph 13(1)(da) of Schedule 16.
+>
+> (3) A description specified under subsection (1)(a) may, among other things, be framed by reference to—
+>
+> (a) the courts by which the orders are made (for example, courts sitting in particular places or areas);
+>
+> (b) the persons who are subject to the orders (for example, persons of a particular sex);
+>
+> (c) the offences to which the orders relate.
+>
+> (4) Where regulations under subsection (1)(a) specify a description of community or suspended sentence order for the first time, they must under subsection (1)(b) specify, in relation to that description of order, a period of 18 months beginning with the day on which the regulations come into force.
+>
+> (5) Regulations under this section are to be made by the Secretary of State.
+>
+> (6) Regulations under this section are subject to—
+>
+> (a) the negative resolution procedure, where under subsection (1)(b) the regulations specify a period, and
+>
+> (b) the affirmative resolution procedure, in any other case.
+
+#### Review of community orders
+
+**3** (1) Section 211 (power of Crown Court to direct magistrates’ court supervision) is amended as follows.
+
+(2) The existing provision becomes subsection (1).
+
+(3) After that subsection insert—
+
+> (2) Subsection (1) does not apply to a community order that qualifies for special procedures for the purposes of section 217A.
+
+**4** In section 217 (power to provide for court review of community orders), after subsection (2) insert—
+
+> (2A) Regulations under this section may not make provision in respect of community orders which for the purposes of section 217A qualify for special procedures.
+
+**5** After section 217 insert—
+
+> **Review of community order qualifying for special procedures**
+>
+> **217A** (1) A community order that—
+>
+> (a) imposes one or more community order requirements, and
+>
+> (b) qualifies for special procedures for the purposes of this section,
+>
+> may make provision for the order to be reviewed periodically (“provision for review”).
+>
+> (2) Where a community order contains provision for review under this section, it must—
+>
+> (a) specify the intervals at which the order is to be reviewed,
+>
+> (b) provide for each review to be made, subject to section 217B, at a hearing held for the purpose by the responsible court (a “review hearing”),
+>
+> (c) require the offender to attend each review hearing, and
+>
+> (d) provide for a report by an officer of a provider of probation services on the offender’s progress in complying with the community order requirements of the order (a “progress report”) to be made to the responsible court before each review.
+>
+> (3) In this section “the responsible court”, in relation to a community order, means the court by which the order is made.
+>
+> (4) For more about community orders that qualify for special procedures, see section 395A.
+>
+> **Powers on review**
+>
+> **217B** (1) This section applies where a review hearing is held on a review of a community order by virtue of section 217A.
+>
+> (2) The court may, after considering the progress report, amend—
+>
+> (a) the community order requirements of the order, or
+>
+> (b) any provision of the order which relates to those requirements.
+>
+> (3) But the court—
+>
+> (a) may not amend the community order requirements of the order so as to impose a requirement of a different kind unless the offender expresses willingness to comply with that requirement,
+>
+> (b) may not amend—
+>
+> (i) a mental health treatment requirement,
+>
+> (ii) a drug rehabilitation requirement, or
+>
+> (iii) an alcohol treatment requirement,
+>
+> unless the offender expresses willingness to comply with the requirement as amended, and
+>
+> (c) except with the consent of the offender, may not amend the order while an appeal against the order is pending.
+>
+> (4) For the purposes of subsection (3)(a)—
+>
+> (a) a community order requirement of a kind within any entry in the table in section 201 is of the same kind as any other community requirement within that entry, and
+>
+> (b) an electronic compliance monitoring requirement is a requirement of the same kind as any requirement within that table to which it relates.
+>
+> (5) If the court is of the opinion that the offender has without reasonable excuse breached a community order requirement of the order, the court may adjourn the hearing so that the court can deal with the case forthwith under paragraph 10 or 11 of Schedule 10 (powers of court to deal with offender on breach of requirement).
+>
+> (6) For some powers available where the court is of the opinion referred to in subsection (5) but does not deal with the case forthwith, see paragraph 9A of Schedule 10.
+>
+> (7) In this section—
+>
+> - “review hearing”, and
+> - “progress report”,
+>
+> have the same meanings as in section 217A.
+>
+> **Alteration of review arrangements**
+>
+> **217C** (1) Subsections (2) and (3) apply where a court—
+>
+> (a) considers the progress report relating to a review under section 217A (the “current review”), and
+>
+> (b) forms the opinion that the offender’s progress in complying with the community order requirements of the community order is satisfactory.
+>
+> (2) If the court forms that opinion before a review hearing is held at the current review—
+>
+> (a) it may order that no review hearing is to be held at the current review, and
+>
+> (b) it may amend the community order so as to provide for each subsequent review to be held without a review hearing.
+>
+> (3) If a review hearing is held at the current review, the court may at the hearing amend the community order so as to provide for each subsequent review to be held without a review hearing.
+>
+> (4) If at a review held without a review hearing the court—
+>
+> (a) considers the progress report, and
+>
+> (b) forms the opinion that the offender’s progress under the order is no longer satisfactory,
+>
+> it may require the offender to attend a hearing of the court at a specified time and place.
+>
+> (5) At a review hearing the court may amend the community order so as to vary the intervals specified under section 217A(2)(a).
+>
+> (6) The functions of a court under this section that are exercisable in relation to a review without a hearing are to be exercised—
+>
+> (a) where the court is the Crown Court, by a judge of the court, and
+>
+> (b) where the court is a magistrates’ court, by a justice of the peace.
+>
+> (7) In this section—
+>
+> - “review hearing”, and
+> - “progress report”,
+>
+> have the same meanings as in section 217A.
+
+#### Review of suspended sentence orders
+
+**6** In section 293 (review of suspended sentence orders), at the end insert—
+
+> (7) Nothing in this section applies in relation to suspended sentence orders which qualify for special procedures for the purposes of section 293A.
+
+**7** After section 293 insert—
+
+> **Review of suspended sentence order qualifying for special procedures**
+>
+> **293A** (1) A suspended sentence order that—
+>
+> (a) imposes one or more community requirements, and
+>
+> (b) qualifies for special procedures for the purposes of this section,
+>
+> may make provision for the order to be reviewed periodically (“provision for review”).
+>
+> (2) Where a suspended sentence order contains provision for review under this section, it must—
+>
+> (a) specify the intervals at which the order is to be reviewed,
+>
+> (b) provide for each review to be made, subject to section 294, at a hearing held for the purpose by the responsible court (a “review hearing”),
+>
+> (c) require the offender to attend each review hearing, and
+>
+> (d) provide for a report by an officer of a provider of probation services on the offender’s progress in complying with the community requirements of the order (a “progress report”) to be made to the responsible court before each review.
+>
+> (3) In this section “the responsible court”, in relation to a suspended sentence order, means the court by which the order is made.
+>
+> (4) For more about suspended sentence orders that qualify for special procedures, see section 395A.
+
+**8** (1) Section 294 (review hearings) is amended as follows.
+
+(2) In subsection (1), after “293” insert “or 293A”.
+
+(3) In subsection (5), after “the case” insert “forthwith”.
+
+(4) After subsection (5) insert—
+
+> (5A) For some powers available where the court is of the opinion referred to in subsection (5) but does not deal with the case forthwith, see paragraph 9A of Schedule 16.
+
+(5) In subsection (6), after “293(2)” insert “(or, as the case may be, section 293A(2))”.
+
+**9** (1) Section 295 (alteration of review arrangements) is amended as follows.
+
+(2) In subsection (1), after “a review” insert “under section 293 or 293A”.
+
+(3) In subsection (5), after “293(2)(a)” insert “or 293A(2)(a)”.
+
+(4) In subsection (7), after “293(2)” insert “(or, as the case may be, section 293A(2))”.
+
+**10** (1) Section 297 (power to direct magistrates’ court supervision) is amended as follows.
+
+(2) The existing provision becomes subsection (1).
+
+(3) After that subsection insert—
+
+> (2) Subsection (1) does not apply to a suspended sentence order that qualifies for special procedures for the purposes of section 293A.
+
+#### Review of drug rehabilitation requirements
+
+**11** In Schedule 9 (community orders and suspended sentence orders: community requirements), in paragraph 21 (review of drug rehabilitation requirements), at the end insert—
+
+> (7) Nothing in this paragraph or paragraph 22 applies in relation to—
+>
+> (a) a community order that qualifies for special procedures for the purposes of section 217A, or
+>
+> (b) a suspended sentence order that qualifies for special procedures for the purposes of section 293A.
+
+#### Breach of community order: power to commit to custody
+
+**12** (1) Schedule 10 (breach etc of community order) is amended as follows.
+
+(2) In paragraph 1 (interpretation), in the definition of “appropriate court” in sub-paragraph (1)—
+
+(a) after paragraph (a) insert—
+
+> (aa) if the community order qualifies for special procedures for the purposes of section 217A, the court that made the order;
+
+;
+
+(b) in paragraph (b), after the second “order” insert “and does not fall within paragraph (aa)”.
+
+(3) In paragraph 8 (issue of summons or warrant by justice of the peace), in sub-paragraph (3)—
+
+(a) in paragraph (a), omit the final “or”;
+
+(b) after paragraph (a) insert—
+
+> (aa) in the case of a community order that qualifies for special procedures for the purposes of section 217A, before the court that made the order, or
+
+.
+
+(4) After paragraph 9 insert—
+
+> **Issue of summons or warrant after review hearing**
+>
+> **9A** (1) This paragraph applies where—
+>
+> (a) a community order is in force,
+>
+> (b) on a review hearing under section 217B a magistrates’ court or the Crown Court (“the court”) is of the opinion that the offender has without reasonable excuse breached a community order requirement of the order, and
+>
+> (c) the court does not deal with the case forthwith by virtue of section 217B(5).
+>
+> (2) The court may at any time—
+>
+> (a) issue a summons requiring the offender to appear at the place and time specified in it, or
+>
+> (b) issue a warrant for the offender’s arrest.
+>
+> (3) A summons or warrant issued under this paragraph must direct the offender to appear or be brought before the court which issued it.
+>
+> (4) Where—
+>
+> (a) a summons is issued under this paragraph, and
+>
+> (b) the offender does not appear in answer to the summons,
+>
+> the court may issue a warrant for the arrest of the offender.
+
+(5) In paragraph 10—
+
+(a) in sub-paragraph (1), after “paragraph 8” insert “or 9A or by virtue of section 217B(5)”;
+
+(b) in sub-paragraph (5), after paragraph (b) insert—
+
+> (ba) if the community order qualifies for special procedures for the purposes of this paragraph, by ordering the offender to be committed to prison for such period not exceeding 28 days as the court considers appropriate (but see also paragraph 13A);
+
+.
+
+(6) In paragraph 11—
+
+(a) in sub-paragraph (1)(a)—
+
+(i) after “paragraph 9” insert “or 9A”;
+
+(ii) after “10(3)” insert “or section 217B(5)”;
+
+(b) in sub-paragraph (2), after paragraph (b) insert—
+
+> (ba) if the community order qualifies for special procedures for the purposes of this paragraph, by ordering the offender to be committed to prison for such period not exceeding 28 days as the court considers appropriate (but see also paragraph 13A);
+
+.
+
+(7) After paragraph 13 insert—
+
+> **Power under paragraphs 10 and 11 to commit to prison: further provision**
+>
+> **13A** (1) In the case of a person under the age of 21—
+>
+> (a) an order under paragraph 10(5)(ba) or 11(2)(ba) must be for committal to a young offender institution instead of to prison, but
+>
+> (b) the Secretary of State may from time to time direct that a person committed to a young offender institution by such an order is to be detained in a prison or remand centre instead.
+>
+> (2) A person committed to prison or a young offender institution by an order under paragraph 10(5)(ba) or 11(2)(ba) is to be regarded as being in legal custody.
+>
+> (3) No more than three orders under paragraph 10(5)(ba) or 11(2)(ba) may be made in relation to the same community order.
+
+(8) In paragraph 14 (revocation etc of community order subject to magistrates’ court supervision), in sub-paragraph (2)—
+
+(a) in paragraph (a), omit the final “and”;
+
+(b) after paragraph (a) insert—
+
+> (aa) if the community order qualifies for special procedures for the purposes of section 217A, the court that made the order, and
+
+.
+
+#### Breach of suspended sentence order: power to commit to custody
+
+**13** (1) Schedule 16 (breach etc of suspended sentence order) is amended as follows.
+
+(2) In paragraph 4—
+
+(a) in sub-paragraph (1)(a), after “293(1)” insert “or 293A(1)”;
+
+(b) in sub-paragraph (2)(a), after “293(4)” insert “or 293A(3)”.
+
+(3) After paragraph 9 insert—
+
+> **Issue of summons or warrant after review hearing in special procedure cases**
+>
+> **9A** (1) This paragraph applies where—
+>
+> (a) a suspended sentence order is subject to review in accordance with section 293A(1),
+>
+> (b) on a review hearing under section 294(5) a magistrates’ court or the Crown Court (“the court”) is of the opinion that the offender has without reasonable excuse breached a community requirement of the order, and
+>
+> (c) the court does not deal with the case forthwith under section 294(5).
+>
+> (2) The court may at any time—
+>
+> (a) issue a summons requiring the offender to appear at the place and time specified in it, or
+>
+> (b) issue a warrant for the offender’s arrest.
+>
+> (3) A summons or warrant issued under this paragraph must direct the offender to appear or be brought before the court which issued it.
+>
+> (4) Where—
+>
+> (a) a summons is issued under this paragraph, and
+>
+> (b) the offender does not appear in answer to the summons,
+>
+> the court may issue a warrant for the arrest of the offender.
+
+(4) In paragraph 10, in sub-paragraph (1)(a)(i), after “8” insert “or 9A”.
+
+(5) In paragraph 12, in sub-paragraph (2)(a)(i), after “9” insert “or 9A”.
+
+(6) In paragraph 13, in sub-paragraph (1), after paragraph (d) insert—
+
+> (da) in a case where the suspended sentence order qualifies for special procedures for the purposes of this paragraph, the court is dealing with the case by virtue of paragraph 10 or 12(2) and the offender is aged 18 or over, the court may order the offender to be committed to prison for such period not exceeding 28 days as the court considers appropriate (but see also paragraph 13A);
+
+.
+
+(7) In paragraph 14 (duty to make activation order where not unjust), in sub-paragraph (2)—
+
+(a) in paragraph (a), omit the final “and”;
+
+(b) after paragraph (b) insert
+
+> , and
+>
+> (c) in a case where the suspended sentence order qualifies for special procedures for the purposes of paragraph 13(1)(da), the court is dealing with the case by virtue of paragraph 10 or 12(2) and the offender is aged 18 or over, the possibility of making an order under paragraph 13(1)(da).
+
+(8) After paragraph 16 insert—
+
+> **Power under paragraph 13(1)(da) to commit to prison: further provision**
+>
+> **16A** (1) In the case of an offender under the age of 21—
+>
+> (a) an order under paragraph 13(1)(da) must be for committal to a young offender institution instead of to prison, but
+>
+> (b) the Secretary of State may from time to time direct that a person committed to a young offender institution by such an order is to be detained in a prison or remand centre instead.
+>
+> (2) A person committed to prison or a young offender institution by an order under paragraph 13(1)(da) is to be regarded as being in legal custody.
+>
+> (3) No more than three orders under paragraph 13(1)(da) may be made in relation to the same suspended sentence order.
+
+### PART 2 — Prospective amendments
+
+#### Prospective amendments relating to abolition of detention in a young offender institution
+
+**14** (1) Schedule 22 of the Sentencing Act 2020 (prospective amendments) is amended as follows.
+
+(2) In paragraph 21 (powers to imprison for breach of community order)—
+
+(a) in sub-paragraph (2)(a), in the inserted paragraph (d), after sub-paragraph (i) insert—
+
+> (ia) the order does not qualify for special procedures for the purposes of paragraph (ba);
+
+;
+
+(b) in sub-paragraph (3)(a), in the inserted paragraph (d), before sub-paragraph (i) insert—
+
+> (ai) the community order does not qualify for special procedures for the purposes of paragraph (ba),
+
+.
+
+(3) After paragraph 75 insert—
+
+> **75A** In paragraph 13A of Schedule 10 (detention following breach of community order)—
+>
+> (a) omit sub-paragraph (1);
+>
+> (b) in sub-paragraph (2), omit “or a young offender institution”.
+
+(4) After paragraph 78 insert—
+
+> **78A** In paragraph 16A of Schedule 16 (detention following breach of suspended sentence order)—
+>
+> (a) omit sub-paragraph (1);
+>
+> (b) in sub-paragraph (2), omit “or a young offender institution”.
+
+## SCHEDULE 15 — Community and suspended sentence orders: drug testing requirement
+
+*Section 154*
+
+**1** The Sentencing Code is amended as follows.
+
+**2** In section 201 (community order: community order requirements table), after the entry in the table relating to the drug rehabilitation requirement, insert—
+
+> |  |  |  |
+> |---|---|---|
+> | drug testing requirement | Part 10A | section 207(3A) |
+
+.
+
+**3** In section 207 (community order: availability of particular requirements), after subsection (3) insert—
+
+> (3A) A drug testing requirement is not an available requirement if the offender was convicted of the offence before the day on which section 154 of the Police, Crime, Sentencing and Courts Act 2022 came into force.
+
+**4** In section 287 (suspended sentence order: community requirements table), after the entry in the table relating to the drug rehabilitation requirement, insert—
+
+> |  |  |  |
+> |---|---|---|
+> | drug testing requirement | Part 10A | section 291(3A) |
+
+.
+
+**5** In section 291 (suspended sentence order: availability of particular requirements), after subsection (3) insert—
+
+> (3A) A drug testing requirement is not an available requirement if the offender was convicted of the offence before the day on which section 154 of the Police, Crime, Sentencing and Courts Act 2022 came into force.
+
+**6** In Schedule 9 (community orders and suspended sentence orders: requirements), after Part 10 insert—
+
+> **PART 10A — Drug testing requirement**
+>
+> **Requirement**
+>
+> **22A** (1) In this Code, “drug testing requirement”, in relation to a relevant order, means a requirement that during a period specified in the order, the offender must, for the purpose of ascertaining whether there is any drug or psychoactive substance in the offender’s body during that period, provide samples in accordance with directions given by the responsible officer.
+>
+> (2) The order—
+>
+> (a) must provide that if the offender provides samples to a person other than the responsible officer, the results of the tests carried out on the samples are to be communicated to the responsible officer;
+>
+> (b) may make provision about the provision of samples by virtue of sub-paragraph (1).
+>
+> (3) The power of the responsible officer to give directions by virtue of sub-paragraph (1) about the provision of samples—
+>
+> (a) is a power to give directions as to—
+>
+> (i) the type of samples to be provided, and
+>
+> (ii) the times at which, or circumstances in which, they are to be provided,
+>
+> (b) is subject to any provision made by the order, and
+>
+> (c) is to be exercised in accordance with guidance issued by the Secretary of State.
+>
+> (4) The Secretary of State may revise any guidance issued under sub-paragraph (3)(c).
+>
+> (5) In this paragraph and paragraph 22B—
+>
+> - “drug” means a controlled drug as defined by section 2 of the Misuse of Drugs Act 1971;
+> - “psychoactive substance” has the meaning given by section 2(1) of the Psychoactive Substances Act 2016.
+>
+> **Restrictions on imposing drug testing requirement**
+>
+> **22B** (1) A court may not impose a drug testing requirement unless the following conditions are met—
+>
+> (a) the misuse condition, and
+>
+> (b) the availability of arrangements condition.
+>
+> (2) The misuse condition is that the court is satisfied that the offender’s misuse of a drug or psychoactive substance—
+>
+> (a) caused or contributed to the offence to which the order relates or an associated offence, or
+>
+> (b) is likely to cause or contribute to the commission of further offences by the offender.
+>
+> (3) The availability of arrangements condition is that the court has been notified by the Secretary of State that arrangements for implementing drug testing requirements are available in the offender’s home local justice area (and the notice has not been withdrawn).
+
+## SCHEDULE 16 — Detention and training orders: time to count as served
+
+*Section 160*
+
+### PART 1 — Detention and training orders made under Sentencing Code
+
+#### Criminal Justice Act 2003 (c. 44)
+
+**1** The Criminal Justice Act 2003 is amended as follows.
+
+**2** (1) Section 240ZA (time remanded in custody to count as time served: terms of imprisonment and detention) is amended as follows.
+
+(2) In the heading, for “and detention” substitute “or detention and detention and training orders”.
+
+(3) After subsection (1) insert—
+
+> (1A) This section also applies where—
+>
+> (a) a court, on or after the day on which Schedule 16 to the Police, Crime, Sentencing and Courts Act 2022 came into force, makes a detention and training order in respect of an offender for an offence, and
+>
+> (b) the offender concerned has been remanded in custody in connection with the offence or a related offence.
+>
+> (1B) In this section any reference to a “sentence”, in relation to an offender, is to—
+>
+> (a) a term of imprisonment being served by the offender as mentioned in subsection (1)(a), or
+>
+> (b) a detention and training order made in respect of the offender as mentioned in subsection (1A)(a).
+
+(4) In subsection (2), for “that purpose” substitute “the purposes of subsection (1)(b) or (1A)(b)”.
+
+(5) For subsection (9) substitute—
+
+> (8A) Subsection (9) applies in relation to an offender who is sentenced to two or more consecutive sentences or sentences which are wholly or partly concurrent if—
+>
+> (a) the sentences were imposed on the same occasion, or
+>
+> (b) where they were imposed on different occasions, the offender has not been released during the period beginning with the first and ending with the last of those occasions.
+>
+> (9) For the purposes of subsections (3) and (5), the sentences are to be treated as a single sentence.
+
+**3** (1) Section 240A (time remanded on bail to count towards time served: terms of imprisonment and detention) is amended as follows.
+
+(2) In the heading, for “and detention” substitute “or detention and detention and training orders”.
+
+(3) After subsection (3ZA) insert—
+
+> (3ZAA) Subsection (3ZB) also applies where—
+>
+> (a) a court, on or after the day on which Schedule 16 to the Police, Crime, Sentencing and Courts Act 2022 came into force, makes a detention and training order in respect of an offender for an offence, and
+>
+> (b) the court has made a declaration under section 325 of the Sentencing Code specifying a credit period in relation to the order.
+>
+> (3ZAB) In this section any reference to a “sentence”, in relation to an offender, is to—
+>
+> (a) a term of imprisonment being served by the offender as mentioned in subsection (3ZA)(a), or
+>
+> (b) a detention and training order made in respect of the offender as mentioned in subsection (3ZAA)(a).
+
+(4) In subsection (9)(b), omit the words from “and, in paragraph (b)” to the end.
+
+**4** In section 242 (interpretation), at the end insert—
+
+> (3) In sections 240ZA and 240A, “detention and training order” has the meaning given by section 233 of the Sentencing Code.
+
+#### Sentencing Act 2020 (c. 17)
+
+**5** The Sentencing Act 2020 is amended as follows.
+
+**6** Omit sections 239 and 240 (effect on term of detention and training order of period on remand etc).
+
+**7** In section 244 (offender subject concurrently to detention and training order and sentence of detention in a young offender institution), in subsection (2)(c), at the beginning insert “with the exception of sections 240ZA and 240A,”.
+
+**8** In section 245 (offender subject concurrently to detention and training order and other sentence of detention), in subsection (2)(c), at the beginning insert “with the exception of sections 240ZA and 240A,”.
+
+**9** In section 325 (time on bail under certain conditions: declaration by court), in subsection (5)—
+
+(a) omit the “or” at the end of paragraph (b);
+
+(b) at the end of paragraph (c) insert
+
+> , or
+>
+> (d) makes a detention and training order.
+
+**10** In section 327 (period in custody awaiting extradition: declaration by court), in subsection (2)—
+
+(a) omit the “or” at the end of paragraph (b);
+
+(b) at the end of paragraph (c) insert
+
+> , or
+>
+> (d) a detention and training order.
+
+**11** In Schedule 27 (transitional provision), omit paragraph 14 (and the italic heading above it).
+
+#### Other enactments
+
+**12** In Schedule 2 to the Criminal Appeal Act 1968 (procedural and other provisions applicable on order for retrial), in paragraph 2(4), for “and detention” substitute “or detention and detention and training orders”.
+
+**13** In Schedule 7 to the International Criminal Court Act 2001 (domestic provisions not applicable to ICC prisoners), in paragraph 2(1)(d), for “and detention” substitute “or detention and detention and training orders”.
+
+### PART 2 — Detention and training orders made under Armed Forces Act 2006
+
+**14** The Armed Forces Act 2006 is amended as follows.
+
+**15** In section 213 (application of provisions relating to civilian detention and training orders)—
+
+(a) in subsection (2)(a), for “sections 237 to 240” substitute “sections 237 and 238”;
+
+(b) omit subsection (3).
+
+**16** After section 213 insert—
+
+> **Period in service custody: effect on term of detention and training order**
+>
+> **213A** (1) Subsection (2) applies where—
+>
+> (a) the Court Martial or the Service Civilian Court proposes to make an order under section 211 in respect of an offence, and
+>
+> (b) the offender has been kept in service custody in connection with the offence or any other offence the charge for which was founded on the same facts or evidence.
+>
+> (2) In determining the term of the order under section 211, the court must take account of the period for which the offender was kept in service custody.
+>
+> (3) If the court proposes to make two or more orders under section 211 in respect of two or more offences—
+>
+> (a) subsection (2) does not apply, but
+>
+> (b) in determining the total term of those orders, the court must take account of the total period for which the offender has been kept in service custody in connection with—
+>
+> (i) any of those offences, or
+>
+> (ii) any other offence the charge for which was founded on the same facts or evidence.
+>
+> (4) A period of service custody may be taken account of under this section only once.
+>
+> **Period of custody awaiting extradition: effect on term of detention and training order**
+>
+> **213B** (1) This section applies where—
+>
+> (a) the Court Martial or the Service Civilian Court proposes to make an order under section 211 in respect of an offence,
+>
+> (b) the offender was tried for the offence, or is to be sentenced—
+>
+> (i) after having been extradited to the United Kingdom, and
+>
+> (ii) without having first been restored or had an opportunity of leaving the United Kingdom, and
+>
+> (c) the offender was kept in custody for any period while awaiting extradition to the United Kingdom.
+>
+> (2) The court must—
+>
+> (a) specify in open court the number of days for which the offender was kept in custody while awaiting extradition, and
+>
+> (b) take account of those days in determining the term of the order.
+
+## SCHEDULE 17 — Youth rehabilitation orders
+
+*Section 161*
+
+### PART 1 — Electronic monitoring: general requirements
+
+**1** In Part 17 of Schedule 6 to the Sentencing Code (electronic monitoring requirement) after paragraph 43 insert—
+
+> **Electronic monitoring: general**
+>
+> **43A** Where a youth rehabilitation order made on or after the day on which paragraph 1 of Schedule 17 to the Police, Crime, Sentencing and Courts Act 2022 came into force imposes an electronic monitoring requirement, the offender must (in particular)—
+>
+> (a) submit, as required from time to time by the responsible officer or the person responsible for the monitoring, to—
+>
+> (i) being fitted with, or installation of, any necessary apparatus, and
+>
+> (ii) inspection or repair of any apparatus fitted or installed for the purposes of the monitoring,
+>
+> (b) not interfere with, or with the working of, any apparatus fitted or installed for the purposes of the monitoring, and
+>
+> (c) take any steps required by the responsible officer, or the person responsible for the monitoring, for the purpose of keeping in working order any apparatus fitted or installed for the purposes of the monitoring.
+
+### PART 2 — Electronic whereabouts monitoring requirements
+
+#### Criminal Justice and Immigration Act 2008 (c. 4)
+
+**2** (1) Section 39 of the Criminal Justice and Immigration Act 2008 (youth default orders) is amended as follows.
+
+(2) In subsection (4)(a), for “electronic monitoring requirement” substitute “electronic compliance monitoring requirement”.
+
+(3) In subsection (6)—
+
+(a) in paragraph (a), after “198(3) to (5),” insert “198A,”,
+
+(b) in paragraph (b), for “, 7 and 17” substitute “and 7”, and
+
+(c) after that paragraph insert—
+
+> (ba) Part 17 of that Schedule (electronic monitoring requirements), so far as it applies to electronic compliance monitoring requirements,
+
+.
+
+#### Sentencing Code
+
+**3** The Sentencing Code is amended as follows.
+
+**4** (1) Section 174 (youth rehabilitation requirements table) is amended as follows.
+
+(2) The existing text becomes subsection (1).
+
+(3) In that subsection, in the table—
+
+(a) in the entry relating to electronic monitoring requirements, for “electronic monitoring requirement” substitute “electronic compliance monitoring requirement”, and
+
+(b) after that entry insert—
+
+> |  |  |  |
+> |---|---|---|
+> | electronic whereabouts monitoring requirement | Part 17 | section 185(5) |
+
+.
+
+(4) After that subsection insert—
+
+> (2) See section 198A for provision about an electronic monitoring requirement imposed by a youth rehabilitation order made in respect of an offence of which the offender was convicted before the day on which paragraph 4 of Schedule 17 to the Police, Crime, Sentencing and Courts Act 2022 first came into force to any extent (ignoring, for these purposes, the coming into force of Part 2 of that Schedule for the purposes of making regulations).
+
+**5** In section 175(1)(c) (meaning of youth rehabilitation order with intensive supervision and surveillance), for “electronic monitoring requirement” substitute “electronic compliance monitoring requirement”.
+
+**6** (1) Section 185 (youth rehabilitation order: availability of particular requirements) is amended as follows.
+
+(2) In the italic heading before subsection (4), for “requirement” substitute “requirements”.
+
+(3) In subsection (4), for “electronic monitoring requirement” substitute “electronic compliance monitoring requirement”.
+
+(4) After subsection (4) insert—
+
+> (5) An electronic whereabouts monitoring requirement is not available for a youth rehabilitation order in respect of an offence unless the offender was convicted of the offence on or after the day on which paragraph 6 of Schedule 17 to the Police, Crime, Sentencing and Courts Act 2022 first came into force to any extent (ignoring, for these purposes, the coming into force of Part 2 of that Schedule for the purposes of making regulations).
+
+**7** In section 190 (provision of copies of youth rehabilitation order and related documents), in the table in subsection (3)—
+
+(a) in the entry relating to an electronic monitoring requirement, in the first column, for “An electronic monitoring requirement” substitute “An electronic compliance monitoring requirement”, and
+
+(b) after that entry insert—
+
+> <table>
+> <tbody>
+> <tr><td rowspan="2">An electronic whereabouts monitoring requirement</td><td>Any person who by virtue of paragraph 46 of Schedule 6 will be responsible for the electronic monitoring</td></tr>
+> <tr><td>Any person without whose consent the requirement could not be included in the order.</td></tr>
+> </tbody>
+> </table>
+
+**8** After section 198 insert—
+
+> **Electronic monitoring requirement previously imposed**
+>
+> **198A** (1) This section applies where an electronic monitoring requirement was imposed by a youth rehabilitation order in respect of an offence of which the offender was convicted before the day on which paragraph 4 of Schedule 17 to the Police, Crime, Sentencing and Courts Act 2022 first came into force to any extent (ignoring, for these purposes, the coming into force of Part 2 of that Schedule for the purposes of making regulations).
+>
+> (2) In this section “electronic monitoring requirement” has the meaning given by paragraph 41 of Schedule 6 as it had effect before the day mentioned in subsection (1).
+>
+> (3) The electronic monitoring requirement is not affected by the renaming of electronic monitoring requirements as electronic compliance monitoring requirements by that Act.
+>
+> (4) This Chapter applies in relation to the youth rehabilitation order as if any reference to an electronic compliance monitoring requirement were to an electronic monitoring requirement.
+
+**9** In section 395 (data from electronic monitoring: code of practice), after “electronic monitoring of offenders under” insert
+
+> —
+>
+> (a) electronic compliance monitoring requirements and electronic whereabouts monitoring requirements imposed by youth rehabilitation orders, and
+>
+> (b)
+
+.
+
+**10** In paragraph 19(3) of Schedule 6 (requirements where court imposes curfew requirement), for “electronic monitoring requirement” substitute “electronic compliance monitoring requirement”.
+
+**11** In paragraph 21 of Schedule 6 (requirements where court imposes exclusion requirement), for “electronic monitoring requirement” substitute “electronic compliance monitoring requirement”.
+
+**12** (1) Part 17 of Schedule 6 (electronic monitoring) is amended as follows.
+
+(2) In the Part heading, omit “requirement”.
+
+(3) For the italic heading before paragraph 41 substitute “Electronic compliance monitoring requirement”.
+
+(4) In paragraph 41, for “electronic monitoring requirement” substitute “electronic compliance monitoring requirement”.
+
+(5) In the italic heading before paragraph 42, at the end insert “: electronic compliance monitoring requirement”.
+
+(6) In paragraph 42(1), for “electronic monitoring requirement” substitute “electronic compliance monitoring requirement”.
+
+(7) In the italic heading before paragraph 43, at the end insert “: electronic compliance monitoring requirement”.
+
+(8) In paragraph 43(1), for “electronic monitoring requirement” substitute “electronic compliance monitoring requirement”.
+
+(9) In the italic heading before paragraph 43A (inserted by Part 1 of this Schedule), for “Electronic monitoring” substitute “Electronic compliance monitoring requirement”.
+
+(10) In paragraph 43A(1), for “electronic monitoring requirement” substitute “electronic compliance monitoring requirement”.
+
+(11) For the italic heading before paragraph 44 substitute “Restrictions on imposing electronic compliance monitoring requirement”.
+
+(12) In paragraph 44—
+
+(a) in sub-paragraph (1)(a), for “electronic monitoring requirement” substitute “electronic compliance monitoring requirement”, and
+
+(b) in sub-paragraph (2), in the opening words, for “electronic monitoring requirement” substitute “electronic compliance monitoring requirement”.
+
+(13) After paragraph 44 insert—
+
+> **Electronic whereabouts monitoring requirement**
+>
+> **45** In this Code “electronic whereabouts monitoring requirement”, in relation to a youth rehabilitation order, means a requirement to submit to electronic monitoring of the offender’s whereabouts (otherwise than for the purpose of monitoring the offender’s compliance with any other requirement included in the order) during a period specified in the order.
+>
+> **Person responsible for electronic monitoring: electronic whereabouts monitoring order**
+>
+> **46** (1) A youth rehabilitation order which imposes an electronic whereabouts monitoring requirement must include provision for making a person responsible for the monitoring.
+>
+> (2) The person who is made responsible for the monitoring must be of a description specified in regulations made by the Secretary of State.
+>
+> **Electronic whereabouts monitoring requirement: general**
+>
+> **47** Where a youth rehabilitation order imposes an electronic whereabouts monitoring requirement, the offender must (in particular)—
+>
+> (a) submit, as required from time to time by the responsible officer or the person responsible for the monitoring, to—
+>
+> (i) being fitted with, or installation of, any necessary apparatus, and
+>
+> (ii) inspection or repair of any apparatus fitted or installed for the purposes of the monitoring,
+>
+> (b) not interfere with, or with the working of, any apparatus fitted or installed for the purposes of the monitoring, and
+>
+> (c) take any steps required by the responsible officer, or the person responsible for the monitoring, for the purpose of keeping in working order any apparatus fitted or installed for the purposes of the monitoring.
+>
+> **Restrictions on imposing electronic whereabouts monitoring requirement**
+>
+> **48** (1) Where—
+>
+> (a) it is proposed to include an electronic whereabouts monitoring requirement in a youth rehabilitation order, but
+>
+> (b) there is a person (other than the offender) without whose co-operation it will not be practicable to secure the monitoring,
+>
+> the requirement may not be included in the order without that person’s consent.
+>
+> (2) A court may not include an electronic whereabouts monitoring requirement in a youth rehabilitation order in respect of an offender unless—
+>
+> (a) the court has been notified by the Secretary of State that electronic monitoring arrangements are available in the local justice area proposed to be specified in the order (and the notice has not been withdrawn),
+>
+> (b) the court is satisfied that—
+>
+> (i) the offender can be fitted with any necessary apparatus under the arrangements currently available, and
+>
+> (ii) any other necessary provision can be made under those arrangements, and
+>
+> (c) the court is satisfied that arrangements are generally operational throughout England and Wales (even if not always operational everywhere there) under which the offender’s whereabouts can be electronically monitored.
+
+**13** (1) Schedule 7 (breach, revocation or amendment of youth rehabilitation order) is amended as follows.
+
+(2) In paragraph 1(2)(b) (interpretation), for “electronic monitoring requirement” substitute “electronic compliance monitoring requirement”.
+
+(3) In paragraph 27(6) (persons to whom copy of order amending or revoking youth rehabilitation order must be given)—
+
+(a) in the entry relating to an electronic monitoring requirement, in the first column, for “An electronic monitoring requirement” substitute “An electronic compliance monitoring requirement”, and
+
+(b) after that entry insert—
+
+> <table>
+> <tbody>
+> <tr><td rowspan="2">An electronic whereabouts monitoring requirement</td><td>Any person who by virtue of paragraph 46 of Schedule 6 will be responsible for the electronic monitoring</td></tr>
+> <tr><td>Any person without whose consent the requirement could not be included in the order.</td></tr>
+> </tbody>
+> </table>
+
+**14** (1) Schedule 8 (transfer of youth rehabilitation orders to Northern Ireland) is amended as follows.
+
+(2) In paragraph 5(2) (meaning of “locally based requirement”)—
+
+(a) in paragraph (i), for “an electronic monitoring requirement” substitute “an electronic compliance monitoring requirement”, and
+
+(b) after that paragraph insert—
+
+> (j) an electronic whereabouts monitoring requirement.
+
+(3) In paragraph 7 (further provisions where offender resides or will reside in Northern Ireland), in sub-paragraph (c)—
+
+(a) in paragraph (vi), for “electronic monitoring” substitute “electronic compliance monitoring”;
+
+(b) at the end insert—
+
+> (vii) paragraph 48(2) (availability of requirements for electronic whereabouts monitoring;
+
+.
+
+(4) In paragraph 11(4) (persons to whom copy of youth rehabilitation order or amending order must be given)—
+
+(a) in the entry relating to an electronic monitoring requirement, in the first column, for “An electronic monitoring requirement” substitute “An electronic compliance monitoring requirement”, and
+
+(b) after that entry insert—
+
+> <table>
+> <tbody>
+> <tr><td rowspan="2">An electronic whereabouts monitoring requirement</td><td>Any person who by virtue of paragraph 46 of Schedule 6 will be responsible for the electronic monitoring</td></tr>
+> <tr><td>Any person without whose consent the requirement could not be included in the order.</td></tr>
+> </tbody>
+> </table>
+
+### PART 3 — Intensive supervision and surveillance
+
+**15** The Sentencing Code is amended as follows.
+
+**16** In section 175(1) (youth rehabilitation order with intensive supervision and surveillance)—
+
+(a) omit the “and” at the end of paragraph (b), and
+
+(b) at the end of paragraph (c) insert
+
+> , and
+>
+> (d) in relation to an order made on or after the day on which paragraph 16 of Schedule 17 to the Police, Crime, Sentencing and Courts Act 2022 first came into force to any extent, an electronic whereabouts monitoring requirement, unless paragraph 48 of Schedule 6 prevents such a requirement from being imposed.
+
+**17** (1) Paragraph 2 of Schedule 6 (extended activity requirement) is amended as follows.
+
+(2) In sub-paragraph (2), for “180” substitute “the relevant number”.
+
+(3) After sub-paragraph (2) insert—
+
+> (2A) In sub-paragraph (2) “the relevant number” means—
+>
+> (a) in relation to a youth rehabilitation order in respect of an offence of which the offender was convicted before the day on which paragraph 17 of Schedule 17 to the Police, Crime, Sentencing and Courts Act 2022 first came into force to any extent, 180 days, and
+>
+> (b) in relation to a youth rehabilitation order in respect of an offence of which the offender was convicted on or after that day, 365 days.
+
+### PART 4 — Curfew requirements and education requirements
+
+#### Introductory
+
+**18** The Sentencing Act 2020 is amended as follows.
+
+#### Curfew requirement
+
+**19** (1) Paragraph 18 of Schedule 6 (curfew requirement) is amended as follows.
+
+(2) In sub-paragraph (4)—
+
+(a) omit the “and” at the end of paragraph (a),
+
+(b) in paragraph (b), for “16 hours” substitute “the relevant number of hours”, and
+
+(c) at the end insert
+
+> , and
+>
+> (c) not more than 112 hours in any period of 7 days beginning with the day of the week on which the requirement first takes effect.
+
+(3) After sub-paragraph (4) insert—
+
+> (4A) In sub-paragraph (4)(b), “the relevant number of hours”—
+>
+> (a) in relation to a youth rehabilitation order in respect of an offence of which the offender was convicted before the day on which paragraph 19 of Schedule 17 to the Police, Crime, Sentencing and Courts Act 2022 came into force, means 16 hours, and
+>
+> (b) in relation to a youth rehabilitation order in respect of an offence of which the offender was convicted on or after that day, means 20 hours.
+
+**20** In paragraph 9(1) of Schedule 23 (powers to amend limits in youth rehabilitation orders)—
+
+(a) in the words before paragraph (a), for “either” substitute “any”, and
+
+(b) in paragraph (b), for “18(4)” substitute “18(4) or (4A)”.
+
+#### Education requirement
+
+**21** (1) Paragraph 39 of Schedule 6 (education requirement) is amended as follows.
+
+(2) In sub-paragraph (4), for “by the time the offender ceases to be of compulsory school age” substitute “by the relevant time”.
+
+(3) After sub-paragraph (4) insert—
+
+> (4A) In sub-paragraph (4) “the relevant time” in relation to a youth rehabilitation order made in respect of—
+>
+> (a) an offence of which the offender was convicted before the day on which paragraph 21 of Schedule 17 to the Police, Crime, Sentencing and Courts Act 2022 came into force, or
+>
+> (b) an offender who, when the order was made, was not resident in England within the meaning of Part 1 of the Education and Skills Act 2008 (duty to participate in education or training after compulsory school age),
+>
+> means the time the offender ceases to be of compulsory school age.
+>
+> (4B) In sub-paragraph (4) “the relevant time” in relation to a youth rehabilitation order made in respect of—
+>
+> (a) an offence of which the offender was convicted on or after the day on which paragraph 21 of Schedule 17 to the Police, Crime, Sentencing and Courts Act 2022 came into force, and
+>
+> (b) an offender who, when the order was made, was resident in England within the meaning of Part 1 of the Education and Skills Act 2008 (duty to participate in education or training after compulsory school age),
+>
+> means the time at which the offender ceases to be a person to whom that Part applies or, if later, ceases to be of compulsory school age.
+
+### PART 5 — The responsible officer
+
+#### Criminal Justice and Immigration Act 2008 (c. 4)
+
+**22** (1) The Criminal Justice and Immigration Act 2008 is amended as follows.
+
+(2) In section 4(1) (meaning of “the responsible officer”), omit paragraph (a).
+
+(3) In section 5 (responsible officer and offender: duties in relation to the other), omit subsection (2).
+
+#### Sentencing Code
+
+**23** (1) The Sentencing Code is amended as follows.
+
+(2) In section 191 (the responsible officer)—
+
+(a) in subsection (1), omit “(2),”;
+
+(b) omit subsection (2).
+
+(3) In section 192 (obligations of responsible officer), omit subsection (3).
+
+## SCHEDULE 18 — Variation etc of order by court in another part of the United Kingdom
+
+*Section 183*
+
+### PART 1 — Variation etc of order made in England and Wales or Scotland by court in Northern Ireland
+
+#### Amendments of the Sexual Offences Act 2003 (c. 42)
+
+**1** (1) Section 136ZC of the Sexual Offences Act 2003 (variation of sexual harm prevention order by court in Northern Ireland) is amended as follows.
+
+(2) In the heading, after “Variation” insert “, renewal or discharge”.
+
+(3) In subsection (2), in the words after paragraph (b), after “varying” insert “, renewing or discharging”.
+
+(4) In subsection (4)—
+
+(a) for “subsections (5) and (6)” substitute “subsections (4A) to (6B)”, and
+
+(b) after “varying” insert “, renewing or discharging”.
+
+(5) After subsection (4) insert—
+
+> (4A) In determining the application the court must have regard to—
+>
+> (a) the time for which the defendant is likely to remain in Northern Ireland, and
+>
+> (b) whether—
+>
+> (i) in the case of a sexual harm prevention order made by a court in England and Wales, the defendant is likely to return to, or to visit, England and Wales, or
+>
+> (ii) in the case of a sexual harm prevention order made by a court in Scotland, the defendant is likely to return to, or to visit, Scotland.
+
+(6) In subsection (5), in the words before paragraph (a)—
+
+(a) after “An order may be” insert “renewed, or”, and
+
+(b) for “only” substitute “, only”.
+
+(7) In subsection (6), in the words before paragraph (a), after “An order as” insert “renewed or”.
+
+(8) After subsection (6) insert—
+
+> (6A) The court must not discharge a sexual harm prevention order made by a court in England and Wales before the end of 5 years beginning with the day on which the order was made without the consent of the defendant and the Chief Constable.
+>
+> (6B) The court must not discharge a sexual harm prevention order made by a court in Scotland, or vary such an order so as to remove a prohibition or requirement, unless the order or, as the case may be, the prohibition or requirement is no longer necessary for the purpose of—
+>
+> (a) protecting the public, or any particular members of the public, from sexual harm from the defendant, or
+>
+> (b) protecting children or vulnerable adults generally, or any particular children or vulnerable adults, from sexual harm from the defendant outside the United Kingdom.
+
+(9) In subsection (9)—
+
+(a) in the definition of “the appropriate court”, for paragraphs (a) and (b) substitute—
+
+> - where the sexual harm prevention order was made—
+>
+>   - in England and Wales, by the Crown Court, otherwise than on appeal from a magistrates’ court, or by the Court of Appeal, or
+>   - in Scotland, by the High Court of Justiciary otherwise than on appeal,
+>
+>   the Crown Court (in Northern Ireland);
+>
+> - where the defendant is aged 18 or over and the sexual harm prevention order was made—
+>
+>   - in England and Wales, by a magistrates’ court or by the Crown Court on appeal from a magistrates’ court, or
+>   - in Scotland, by the High Court of Justiciary on appeal, by the Court of Session, by the Sheriff Appeal Court or by a sheriff,
+>
+>   any court of summary jurisdiction in Northern Ireland;
+
+, and
+
+(b) at the appropriate place insert—
+
+> - “the defendant”, in relation to a sexual harm prevention order made under section 11 or 12 of the Abusive Behaviour and Sexual Harm (Scotland) Act 2016 (asp 22), means the person against whom the order has effect;
+
+;
+
+> - “sexual harm prevention order” includes a sexual harm prevention order made under section 11 or 12 of the Abusive Behaviour and Sexual Harm (Scotland) Act 2016.
+
+**2** (1) Section 136ZD of the Sexual Offences Act 2003 (variation of sexual risk order by court in Northern Ireland) is amended as follows.
+
+(2) In the heading, after “Variation” insert “, renewal or discharge”.
+
+(3) In subsection (2), in the words after paragraph (b), after “varying” insert “, renewing or discharging”.
+
+(4) In subsection (3)—
+
+(a) for “subsections (4) and (5)” substitute “subsections (3A) to (5B)”, and
+
+(b) after “varying” insert “, renewing or discharging”.
+
+(5) After subsection (3) insert—
+
+> (3A) In determining the application the court must have regard to—
+>
+> (a) the time for which the defendant is likely to remain in Northern Ireland, and
+>
+> (b) whether—
+>
+> (i) in the case of a sexual risk order made by a court in England and Wales, the defendant is likely to return to, or to visit, England and Wales, or
+>
+> (ii) in the case of a sexual risk order made by a court in Scotland, the defendant is likely to return to, or to visit, Scotland.
+
+(6) In subsection (4), in the words before paragraph (a)—
+
+(a) after “An order may be” insert “renewed, or”, and
+
+(b) for “only” substitute “, only”.
+
+(7) In subsection (5), in the words before paragraph (a), after “An order as” insert “renewed or”.
+
+(8) After subsection (5) insert—
+
+> (5A) The court must not discharge a sexual risk order made by a court in England and Wales before the end of 2 years beginning with the day on which the order was made without the consent of the defendant and the Chief Constable.
+>
+> (5B) The court must not discharge a sexual risk order made by a court in Scotland, or vary such an order so as to remove a prohibition or requirement, unless the order or, as the case may be, the prohibition or requirement is no longer necessary for the purpose of—
+>
+> (a) protecting the public, or any particular members of the public, from harm from the defendant, or
+>
+> (b) protecting children or vulnerable adults generally, or any particular children or vulnerable adults, from harm from the defendant outside the United Kingdom.
+
+(9) In subsection (8), at the appropriate place insert—
+
+> - “the defendant”, in relation to a sexual risk order made under section 27 of the Abusive Behaviour and Sexual Harm (Scotland) Act 2016 (asp 22), means the person against whom the order has effect;
+
+;
+
+> - “sexual risk order” includes a sexual risk order made under section 27 of the Abusive Behaviour and Sexual Harm (Scotland) Act 2016.
+
+#### Amendments of the Sentencing Code
+
+**3** (1) Section 351 of the Sentencing Code (variation of sexual harm prevention order by court in Northern Ireland) is amended as follows.
+
+(2) In the heading, after “Variation” insert “, renewal or discharge”.
+
+(3) In subsection (2), in the words after paragraph (b), after “varying” insert “, renewing or discharging”.
+
+(4) In subsection (5), in the words after paragraph (b)—
+
+(a) after “varying” insert “, renewing or discharging”, and
+
+(b) for “subsections (6) and (7)” substitute “subsections (5A) to (7A)”.
+
+(5) After subsection (5) insert—
+
+> (5A) In determining the application the court must have regard to—
+>
+> (a) the time for which the defendant is likely to remain in Northern Ireland, and
+>
+> (b) whether the defendant is likely to return to, or to visit, England and Wales.
+
+(6) In subsection (6), in the words before paragraph (a)—
+
+(a) after “An order may be” insert “renewed, or”, and
+
+(b) for “only” substitute “, only”.
+
+(7) In subsection (7), in the words before paragraph (a), after “An order as” insert “renewed or”.
+
+(8) After subsection (7) insert—
+
+> (7A) The court must not discharge an order before the end of the period of 5 years beginning with the day on which the order was made without the consent of the defendant and the Chief Constable of the Police Service of Northern Ireland.
+
+### PART 2 — Variation of order by court in Scotland
+
+#### Amendments of the Sexual Offences Act 2003 (c. 42)
+
+**4** After section 136ZD of the Sexual Offences Act 2003 insert—
+
+> **Variation, renewal or discharge of sexual harm prevention order etc by court in Scotland**
+>
+> **136ZE** (1) This section applies where a relevant order has been made in respect of a person who now—
+>
+> (a) is residing in Scotland, or
+>
+> (b) is in or is intending to come to Scotland.
+>
+> (2) In this section “relevant order” means—
+>
+> (a) a sexual harm prevention order,
+>
+> (b) a sexual offences prevention order, or
+>
+> (c) a foreign travel order.
+>
+> (3) An application may be made to the appropriate sheriff in Scotland—
+>
+> (a) by the defendant, or
+>
+> (b) by the chief constable,
+>
+> for an order varying, renewing or discharging the relevant order.
+>
+> (4) Subject to subsections (5) to (12), on the application the court, after hearing the person making the application and the other person mentioned in subsection (3) (if that person wishes to be heard), may make any order varying, renewing or discharging the relevant order that the appropriate sheriff considers appropriate.
+>
+> (5) In determining the application the court must have regard to—
+>
+> (a) the time for which the defendant is likely to remain in Scotland, and
+>
+> (b) whether—
+>
+> (i) in the case of a sexual harm prevention order, the defendant is likely to return to, or to visit, England and Wales, or
+>
+> (ii) in the case of a sexual offences prevention order or foreign travel order, the defendant is likely to return to, or to visit, Northern Ireland.
+>
+> (6) A sexual harm prevention order may be renewed, or varied under this section so as to impose additional prohibitions or requirements on the defendant, only if it is necessary to do so for the purpose of—
+>
+> (a) protecting the public in Scotland, or any particular members of the public in Scotland, from sexual harm from the defendant, or
+>
+> (b) protecting children or vulnerable adults generally, or any particular children or vulnerable adults, from sexual harm from the defendant outside the United Kingdom.
+>
+> (7) A sexual harm prevention order as renewed or varied under this section may contain only such prohibitions and requirements as are necessary for the purpose of—
+>
+> (a) protecting the public or any particular members of the public from sexual harm from the defendant, or
+>
+> (b) protecting children or vulnerable adults generally, or any particular children or vulnerable adults, from sexual harm from the defendant outside the United Kingdom.
+>
+> (8) A sexual offences prevention order may be renewed, or varied under this section so as to impose additional prohibitions or requirements on the defendant, only if it is necessary to do so for the purpose of protecting the public in Scotland, or any particular members of the public in Scotland, from serious sexual harm from the defendant.
+>
+> (9) A sexual offences prevention order as renewed or varied under this section may contain only such prohibitions and requirements as are necessary for the purpose of protecting the public or any particular members of the public from serious sexual harm from the defendant.
+>
+> (10) A foreign travel order may be renewed, or varied under this section so as to impose additional prohibitions on the defendant, only if it is necessary to do so for the purpose of protecting children generally or any child from serious sexual harm from the defendant outside the United Kingdom.
+>
+> (11) A foreign travel order as renewed or varied under this section may contain only such prohibitions as are necessary for the purpose mentioned in subsection (10).
+>
+> (12) The court must not discharge a sexual harm prevention order or a sexual offences prevention order before the end of 5 years beginning with the day on which the order was made without the consent of the defendant and the chief constable.
+>
+> (13) The defendant may appeal against the making of an order under this section, or the refusal to make such an order, as if it were a decision constituting final judgment in civil proceedings within the meaning of the Courts Reform (Scotland) Act 2014 (asp 18).
+>
+> (14) In this section—
+>
+> - “the appropriate sheriff” means—
+>
+>   - in any case, a sheriff in whose sheriffdom the defendant resides, or
+>   
+>   - in a case where the application is made by the chief constable—
+>   
+>     - a sheriff in whose sheriffdom the defendant is believed by the chief constable to be, or
+>     - a sheriff to whose sheriffdom the defendant is believed by the chief constable to be intending to come;
+>
+> - “the chief constable” means the chief constable of the Police Service of Scotland;
+>
+> - “child” means a person under 18;
+>
+> - “serious sexual harm”, in relation to the renewal or variation of a sexual offences prevention order, means serious physical or psychological harm caused by the defendant committing one or more of the offences listed in Schedule 3;
+>
+> - “serious sexual harm”, in relation to the renewal or variation of a foreign travel order, means serious physical or psychological harm caused by the defendant doing, outside the United Kingdom, anything which would constitute an offence listed in Schedule 3 if done in any part of the United Kingdom;
+>
+> - “sexual harm” and “vulnerable adult”, in relation to the renewal or variation of a sexual harm prevention order, have the meanings given by section 103B(1).
+>
+> **Variation, renewal or discharge of sexual risk order etc by court in Scotland**
+>
+> **136ZF** (1) This section applies where a relevant order has been made in respect of a person who now—
+>
+> (a) is residing in Scotland, or
+>
+> (b) is in or is intending to come to Scotland.
+>
+> (2) In this section “relevant order” means—
+>
+> (a) a sexual risk order, or
+>
+> (b) a risk of sexual harm order.
+>
+> (3) An application may be made to the appropriate sheriff in Scotland—
+>
+> (a) by the defendant, or
+>
+> (b) by the chief constable,
+>
+> for an order varying, renewing or discharging the relevant order.
+>
+> (4) Subject to subsections (5) to (10), on the application the court, after hearing the person making the application and the other person mentioned in subsection (3) (if that person wishes to be heard), may make any order varying, renewing or discharging the relevant order that the appropriate sheriff considers appropriate.
+>
+> (5) In determining the application the court must have regard to—
+>
+> (a) the time for which the defendant is likely to remain in Scotland, and
+>
+> (b) whether—
+>
+> (i) in the case of a sexual risk order, the defendant is likely to return to, or to visit, England and Wales, or
+>
+> (ii) in the case of a risk of sexual harm order, the defendant is likely to return to, or to visit, Northern Ireland.
+>
+> (6) A sexual risk order may be renewed, or varied under this section so as to impose additional prohibitions or requirements on the defendant, only if it is necessary to do so for the purpose of—
+>
+> (a) protecting the public in Scotland, or any particular members of the public in Scotland, from harm from the defendant, or
+>
+> (b) protecting children or vulnerable adults generally, or any particular children or vulnerable adults, from harm from the defendant outside the United Kingdom.
+>
+> (7) A sexual risk order as renewed or varied under this section may contain only such prohibitions and requirements as are necessary for the purpose of—
+>
+> (a) protecting the public or any particular members of the public from harm from the defendant, or
+>
+> (b) protecting children or vulnerable adults generally, or any particular children or vulnerable adults, from harm from the defendant outside the United Kingdom.
+>
+> (8) A risk of sexual harm order may be renewed, or varied under this section so as to impose additional prohibitions on the defendant, only if it is necessary to do so for the purpose of protecting children generally or any child from physical or psychological harm from the defendant doing acts within section 123(3).
+>
+> (9) A risk of sexual harm order as renewed or varied under this section may contain only such prohibitions as are necessary for the purpose mentioned in subsection (8).
+>
+> (10) The court must not discharge a relevant order before the end of 2 years beginning with the day on which the order was made without the consent of the defendant and the chief constable.
+>
+> (11) The defendant may appeal against the making of an order under this section, or the refusal to make such an order, as if it were a decision constituting final judgment in civil proceedings within the meaning of the Courts Reform (Scotland) Act 2014 (asp 18).
+>
+> (12) In this section—
+>
+> - “the appropriate sheriff” means—
+>
+>   - in any case, a sheriff in whose sheriffdom the defendant resides, or
+>   
+>   - in a case where the application is made by the chief constable—
+>   
+>     - a sheriff in whose sheriffdom the defendant is believed by the chief constable to be, or
+>     - a sheriff to whose sheriffdom the defendant is believed by the chief constable to be intending to come;
+>
+> - “the chief constable” means the chief constable of the Police Service of Scotland;
+>
+> - “child”—
+>
+>   - in relation to the renewal or variation of a sexual risk order, means a person under 18;
+>   - in relation to the renewal or variation of a risk of sexual harm order, means a person under 16;
+>
+> - “harm” and “vulnerable adult”, in relation to the renewal or variation of a sexual risk order, have the meanings given by section 122B(1).
+
+#### Amendments of the Sentencing Code
+
+**5** After section 351 of the Sentencing Code insert—
+
+> **Variation, renewal or discharge of sexual harm prevention order by court in Scotland**
+>
+> **351A** (1) This section applies where a sexual harm prevention order has been made in respect of an offender who—
+>
+> (a) is residing in Scotland, or
+>
+> (b) is in or intends to come to Scotland.
+>
+> (2) An application may be made to the appropriate sheriff in Scotland—
+>
+> (a) by the offender, or
+>
+> (b) by the chief constable,
+>
+> for an order varying, renewing or discharging the sexual harm prevention order.
+>
+> (3) Subsection (4) applies where an application under subsection (2) is made.
+>
+> (4) After hearing—
+>
+> (a) the person making the application, and
+>
+> (b) the other person mentioned in subsection (2) (if that person wishes to be heard),
+>
+> the sheriff may make any order varying, renewing or discharging the sexual harm prevention order that the sheriff considers appropriate.
+>
+> This is subject to subsections (5) to (8).
+>
+> (5) In determining the application the court must have regard to—
+>
+> (a) the time for which the defendant is likely to remain in Scotland, and
+>
+> (b) whether the defendant is likely to return to, or to visit, England and Wales.
+>
+> (6) An order may be renewed, or varied so as to impose additional prohibitions or requirements on the offender, only if it is necessary to do so for the purpose of—
+>
+> (a) protecting the public in Scotland, or any particular members of the public in Scotland, from sexual harm from the offender, or
+>
+> (b) protecting children or vulnerable adults generally, or any particular children or vulnerable adults, from sexual harm from the offender outside the United Kingdom.
+>
+> (7) An order as renewed or varied under this section may contain only such prohibitions and requirements as are necessary for the purpose of—
+>
+> (a) protecting the public or any particular members of the public from sexual harm from the offender, or
+>
+> (b) protecting children or vulnerable adults generally, or any particular children or vulnerable adults, from sexual harm from the offender outside the United Kingdom.
+>
+> (8) The court must not discharge an order before the end of the period of 5 years beginning with the day on which the order was made without the consent of the defendant and the chief constable.
+>
+> (9) The offender may appeal against the making of an order under this section, or the refusal to make such an order, as if it were a decision constituting final judgment in civil proceedings within the meaning of the Courts Reform (Scotland) Act 2014 (asp 18).
+>
+> (10) In this section—
+>
+> - “the appropriate sheriff” means—
+>
+>   - in any case, a sheriff in whose sheriffdom the offender resides, or
+>   
+>   - in a case where the application is made by the chief constable—
+>   
+>     - a sheriff in whose sheriffdom the offender is believed by the chief constable to be, or
+>     - a sheriff to whose sheriffdom the offender is believed by the chief constable to be intending to come;
+>
+> - “the chief constable” means the chief constable of the Police Service of Scotland.
+
+### PART 3 — Variation of order by court in England and Wales
+
+**6** After section 136ZF of the Sexual Offences Act 2003 (inserted by paragraph 4) insert—
+
+> **Variation, renewal or discharge of sexual harm prevention order made in Scotland by court in England and Wales**
+>
+> **136ZG** (1) This section applies where a relevant Scottish order has been made in respect of a person (“the defendant”) who now—
+>
+> (a) is residing in England and Wales, or
+>
+> (b) is in or is intending to come to England and Wales.
+>
+> (2) In this section “relevant Scottish order” means a sexual harm prevention order made under section 11 or 12 of the Abusive Behaviour and Sexual Harm (Scotland) Act 2016 (asp 22).
+>
+> (3) A person within subsection (4) may by complaint to the appropriate court apply for an order varying, renewing or discharging the relevant order.
+>
+> (4) Those persons are—
+>
+> (a) the defendant;
+>
+> (b) the chief officer of police for the area in which the defendant resides;
+>
+> (c) a chief officer of police who believes that the defendant is in, or is intending to come to, that officer’s police area.
+>
+> (5) If a list has been published under section 172 of the Police, Crime, Sentencing and Courts Act 2022 (list of countries where children are at high risk of sexual abuse or sexual exploitation) and has not been withdrawn, a person mentioned in subsection (4)(b) or (c) must have regard to the list in considering—
+>
+> (a) whether to apply for an order varying or renewing the relevant Scottish order for the purpose of protecting children generally, or any particular children, from sexual harm from the defendant outside the United Kingdom, and
+>
+> (b) in particular, whether to apply for an order imposing, varying or renewing a prohibition on foreign travel for that purpose.
+>
+> (6) Subject to subsections (7) to (14), on an application under this section the court, after hearing the person making the application and (if they wish to be heard) the other persons mentioned in subsection (4), may make any order varying, renewing or discharging the relevant Scottish order that the court considers appropriate.
+>
+> (7) In determining the application the court must have regard to—
+>
+> (a) the time for which the defendant is likely to remain in England and Wales, and
+>
+> (b) whether the defendant is likely to return to, or to visit, Scotland.
+>
+> (8) A relevant Scottish order may be renewed, or varied under this section so as to impose additional prohibitions or requirements on the defendant, only if it is necessary to do so for the purpose of—
+>
+> (a) protecting the public in England and Wales, or any particular members of the public in England and Wales, from sexual harm from the defendant, or
+>
+> (b) protecting children or vulnerable adults generally, or any particular children or vulnerable adults, from sexual harm from the defendant outside the United Kingdom.
+>
+> (9) A relevant Scottish order as renewed or varied under this section may contain only such prohibitions and requirements as are necessary for the purpose of—
+>
+> (a) protecting the public or any particular members of the public from sexual harm from the defendant, or
+>
+> (b) protecting children or vulnerable adults generally, or any particular children or vulnerable adults, from sexual harm from the defendant outside the United Kingdom.
+>
+> (10) If a list has been published under section 172 of the Police, Crime, Sentencing and Courts Act 2022 and has not been withdrawn, the court must have regard to the list in considering—
+>
+> (a) whether any order varying or renewing the relevant Scottish order is necessary for the purpose of protecting children generally, or any particular children, from sexual harm from the defendant outside the United Kingdom, and
+>
+> (b) in particular, whether an order imposing, varying or renewing a prohibition on foreign travel is necessary for that purpose.
+>
+> (11) A relevant Scottish order may be renewed or varied under this section so as to require the defendant to submit to electronic monitoring of the defendant’s compliance with the prohibitions and requirements imposed by the order.
+>
+> (12) Section 103FA (electronic monitoring requirements) applies in relation to—
+>
+> (a) the variation under this section of a relevant Scottish order to require the defendant to submit to electronic monitoring of the defendant’s compliance with the prohibitions and requirements imposed by the order, or
+>
+> (b) the renewal of an order to continue such a requirement,
+>
+> as it applies in relation to the making of a sexual harm prevention order, subject to subsection (13).
+>
+> (13) In its application to the variation or renewal of a relevant Scottish order, section 103FA has effect as if—
+>
+> (a) the reference in subsection (4)(b) to a case where it is proposed to include in the order a requirement or provision mentioned in sub-paragraph (i) or (ii) included a case where the order already includes such a requirement or provision,
+>
+> (b) the reference in subsection (4)(b) to the local justice area in which the place or area proposed to be specified is situated included the local justice area in which the place or area already specified is situated, and
+>
+> (c) the reference in subsection (9) to section 103E were to this section.
+>
+> (14) The court must not discharge a relevant Scottish order, or vary such an order so as to remove a prohibition or requirement, unless the order or, as the case may be, the prohibition or requirement is no longer necessary for the purpose of—
+>
+> (a) protecting the public, or any particular members of the public, from sexual harm from the defendant, or
+>
+> (b) protecting children or vulnerable adults generally, or any particular children or vulnerable adults, from sexual harm from the defendant outside the United Kingdom.
+>
+> (15) In this section—
+>
+> - “adult magistrates’ court” means a magistrates’ court that is not a youth court;
+>
+> - “the appropriate court” means—
+>
+>   - where the defendant is aged 18 or over, an adult magistrates’ court for the area in which the defendant resides or, where the application is made by a chief officer of police, any adult magistrates’ court acting for a local justice area that includes any part of the chief officer’s police area;
+>   - where the defendant is under the age of 18, a youth court for the area in which the defendant resides or, where the application is made by a chief officer of police, any youth court acting for a local justice area that includes any part of the chief officer’s police area;
+>
+> - “child” means a person under 18;
+>
+> - “prohibition on foreign travel” includes a prohibition on foreign travel within the meaning of Chapter 3 of Part 2 of the Abusive Behaviour and Sexual Harm (Scotland) Act 2016 (see sections 17 and 25 of that Act);
+>
+> - “sexual harm” and “vulnerable adult” have the same meanings as in Chapter 3 of Part 2 of the Abusive Behaviour and Sexual Harm (Scotland) Act 2016 (see sections 10 and 25 of that Act).
+>
+> **Variation, renewal or discharge of sexual offences prevention order or foreign travel order by court in England and Wales**
+>
+> **136ZH** (1) This section applies where a relevant order has been made in respect of a person who now—
+>
+> (a) is residing in England and Wales, or
+>
+> (b) is in or is intending to come to England and Wales.
+>
+> (2) In this section “relevant order” means—
+>
+> (a) a sexual offences prevention order, or
+>
+> (b) a foreign travel order.
+>
+> (3) A person within subsection (4) may by complaint to the appropriate court apply for an order varying, renewing or discharging the relevant order.
+>
+> (4) Those persons are—
+>
+> (a) the defendant;
+>
+> (b) the chief officer of police for the area in which the defendant resides;
+>
+> (c) a chief officer of police who believes that the defendant is in, or is intending to come to, that officer’s police area.
+>
+> (5) If—
+>
+> (a) this section applies in relation to a person because that person is subject to a foreign travel order, and
+>
+> (b) a list has been published under section 172 of the Police, Crime, Sentencing and Courts Act 2022 (list of countries where children are at high risk of sexual abuse or sexual exploitation) and has not been withdrawn,
+>
+> a person mentioned in subsection (4)(b) or (c) must have regard to the list in considering whether to apply for an order varying or renewing the foreign travel order.
+>
+> (6) Subject to subsections (7) to (16), on an application under this section the court, after hearing the person making the application and (if they wish to be heard) the other persons mentioned in subsection (4), may make any order varying, renewing or discharging the relevant order that the court considers appropriate.
+>
+> (7) In determining the application the court must have regard to—
+>
+> (a) the time for which the defendant is likely to remain in England and Wales, and
+>
+> (b) whether the defendant is likely to return to, or to visit, Northern Ireland.
+>
+> (8) A sexual offences prevention order may be renewed, or varied under this section so as to impose additional prohibitions or requirements on the defendant, only if it is necessary to do so for the purpose of protecting the public in England and Wales, or any particular members of the public in England and Wales, from serious sexual harm from the defendant.
+>
+> (9) A sexual offences prevention order as renewed or varied under this section may contain only such prohibitions and requirements as are necessary for the purpose of protecting the public or any particular members of the public from serious sexual harm from the defendant.
+>
+> (10) A sexual offences prevention order may be renewed or varied under this section so as to require the defendant to submit to electronic monitoring of the defendant’s compliance with the prohibitions and requirements imposed by the order.
+>
+> (11) Section 103FA (electronic monitoring requirements) applies in relation to—
+>
+> (a) the variation under this section of a sexual offences prevention order to require the defendant to submit to electronic monitoring of the defendant’s compliance with the prohibitions and requirements imposed by the order, or
+>
+> (b) the renewal of an order to continue such a requirement,
+>
+> as it applies in relation to the making of a sexual harm prevention order, subject to subsection (12).
+>
+> (12) In its application to the variation or renewal of a sexual offences prevention order, section 103FA has effect as if—
+>
+> (a) the reference in subsection (4)(b) to a case where it is proposed to include in the order a requirement or provision mentioned in sub-paragraph (i) or (ii) included a case where the order already includes such a requirement or provision,
+>
+> (b) the reference in subsection (4)(b) to the local justice area in which the place or area proposed to be specified is situated included the local justice area in which the place or area already specified is situated, and
+>
+> (c) the reference in subsection (9) to section 103E were to this section.
+>
+> (13) The court must not discharge a sexual offences prevention order before the end of 5 years beginning with the day on which the order was made without the consent of the defendant and—
+>
+> (a) where the application under this section is made by a chief officer of police, that chief officer, or
+>
+> (b) in any other case, the chief officer of police for the area in which the defendant resides.
+>
+> (14) A foreign travel order may be renewed, or varied under this section so as to impose additional prohibitions on the defendant, only if it is necessary to do so for the purpose of protecting children generally or any child from serious sexual harm from the defendant outside the United Kingdom.
+>
+> (15) A foreign travel order as renewed or varied under this section may contain only such prohibitions as are necessary for the purpose mentioned in subsection (14).
+>
+> (16) If a list has been published under section 172 of the Police, Crime, Sentencing and Courts Act 2022 and has not been withdrawn, the court must have regard to the list in considering whether to renew or vary a foreign travel order under this section.
+>
+> (17) In this section—
+>
+> - “adult magistrates’ court” means a magistrates’ court that is not a youth court;
+>
+> - “the appropriate court” means—
+>
+>   - where the defendant is aged 18 or over, an adult magistrates’ court for the area in which the defendant resides or, where the application is made by a chief officer of police, any adult magistrates’ court acting for a local justice area that includes any part of the chief officer’s police area;
+>   - where the defendant is under the age of 18, a youth court for the area in which the defendant resides or, where the application is made by a chief officer of police, any youth court acting for a local justice area that includes any part of the chief officer’s police area;
+>
+> - “child” means a person under 18;
+>
+> - “serious sexual harm”—
+>
+>   - in relation to the renewal or variation of a sexual offences prevention order, means serious physical or psychological harm caused by the defendant committing one or more of the offences listed in Schedule 3;
+>   - in relation to the renewal or variation of a foreign travel order, means serious physical or psychological harm caused by the defendant doing, outside the United Kingdom, anything which would constitute an offence listed in Schedule 3 if done in any part of the United Kingdom.
+>
+> **Variation, renewal or discharge of sexual risk order made in Scotland by court in England and Wales**
+>
+> **136ZI** (1) This section applies where a relevant Scottish order has been made in respect of a person (“the defendant”) who now—
+>
+> (a) is residing in England and Wales, or
+>
+> (b) is in or is intending to come to England and Wales.
+>
+> (2) In this section “relevant Scottish order” means a sexual risk order made under section 27 of the Abusive Behaviour and Sexual Harm (Scotland) Act 2016 (asp 22).
+>
+> (3) A person within subsection (4) may by complaint to the appropriate court apply for an order varying, renewing or discharging the relevant Scottish order.
+>
+> (4) Those persons are—
+>
+> (a) the defendant;
+>
+> (b) the chief officer of police for the area in which the defendant resides;
+>
+> (c) a chief officer of police who believes that the defendant is in, or is intending to come to, that officer‘s police area.
+>
+> (5) If a list has been published under section 172 of the Police, Crime, Sentencing and Courts Act 2022 (list of countries where children are at high risk of sexual abuse or sexual exploitation) and has not been withdrawn, a person mentioned in subsection (4)(b) or (c) must have regard to the list in considering—
+>
+> (a) whether to apply for an order varying or renewing the relevant Scottish order for the purpose of protecting children generally, or any particular children, from sexual harm from the defendant outside the United Kingdom, and
+>
+> (b) in particular, whether to apply for an order imposing, varying or renewing a prohibition on foreign travel for that purpose.
+>
+> (6) Subject to subsections (7) to (14), on the application the court, after hearing the person making the application and (if they wish to be heard) the other persons mentioned in subsection (4), may make any order varying, renewing or discharging the relevant Scottish order that the court considers appropriate.
+>
+> (7) In determining the application the court must have regard to—
+>
+> (a) the time for which the defendant is likely to remain in England and Wales, and
+>
+> (b) whether the defendant is likely to return to, or to visit, Scotland.
+>
+> (8) A relevant Scottish order may be renewed, or varied under this section so as to impose additional prohibitions or requirements on the defendant, only if it is necessary to do so for the purpose of—
+>
+> (a) protecting the public in England and Wales, or any particular members of the public in England and Wales, from harm from the defendant, or
+>
+> (b) protecting children or vulnerable adults generally, or any particular children or vulnerable adults, from harm from the defendant outside the United Kingdom.
+>
+> (9) A relevant Scottish order as renewed or varied under this section may contain only such prohibitions and requirements as are necessary for the purpose of—
+>
+> (a) protecting the public or any particular members of the public from harm from the defendant, or
+>
+> (b) protecting children or vulnerable adults generally, or any particular children or vulnerable adults, from harm from the defendant outside the United Kingdom.
+>
+> (10) If a list has been published under section 172 of the Police, Crime, Sentencing and Courts Act 2022 and has not been withdrawn, the court must have regard to the list in considering—
+>
+> (a) whether any order varying or renewing the relevant Scottish order is necessary for the purpose of protecting children generally, or any particular children, from sexual harm from the defendant outside the United Kingdom, and
+>
+> (b) in particular, whether an order imposing, varying or renewing a prohibition on foreign travel is necessary for that purpose.
+>
+> (11) A relevant Scottish order may be renewed or varied under this section so as to require the defendant to submit to electronic monitoring of the defendant’s compliance with the prohibitions and requirements imposed by the order.
+>
+> (12) Section 122EA (electronic monitoring requirements) applies in relation to—
+>
+> (a) the variation under this section of a relevant Scottish order to require the defendant to submit to electronic monitoring of the defendant’s compliance with the prohibitions and requirements imposed by the order, or
+>
+> (b) the renewal of an order to continue such a requirement,
+>
+> as it applies in relation to the making of a sexual risk order, subject to subsection (13).
+>
+> (13) In its application to the variation or renewal of a relevant Scottish order, section 122EA has effect as if—
+>
+> (a) the reference in subsection (4)(b) to a case where it is proposed to include in the order a requirement or provision mentioned in sub-paragraph (i) or (ii) included a case where the order already includes such a requirement or provision,
+>
+> (b) the reference in subsection (4)(b) to the local justice area in which the place or area proposed to be specified is situated included the local justice area in which the place or area already specified is situated, and
+>
+> (c) the reference in subsection (9) to section 122D were to this section.
+>
+> (14) The court must not discharge a relevant Scottish order, or vary such an order so as to remove a prohibition or requirement, unless the order or, as the case may be, the prohibition or requirement is no longer necessary for the purpose of—
+>
+> (a) protecting the public, or any particular members of the public, from harm from the defendant, or
+>
+> (b) protecting children or vulnerable adults generally, or any particular children or vulnerable adults, from harm from the defendant outside the United Kingdom.
+>
+> (15) In this section—
+>
+> - “adult magistrates’ court” means a magistrates’ court that is not a youth court;
+>
+> - “the appropriate court” means—
+>
+>   - where the defendant is aged 18 or over, an adult magistrates’ court for the area in which the defendant resides or, where the application is made by a chief officer of police, any adult magistrates’ court acting for a local justice area that includes any part of the chief officer’s police area;
+>   - where the defendant is under the age of 18, a youth court for the area in which the defendant resides or, where the application is made by a chief officer of police, any youth court acting for a local justice area that includes any part of the chief officer’s police area;
+>
+> - “child” means a person under 18;
+>
+> - “harm” and “vulnerable adult” have the same meanings as in Chapter 4 of Part 2 of the Abusive Behaviour and Sexual Harm (Scotland) Act 2016 (see sections 26 and 36 of that Act);
+>
+> - “prohibition on foreign travel” includes a prohibition on foreign travel within the meaning of Chapter 4 of Part 2 of the Abusive Behaviour and Sexual Harm (Scotland) Act 2016 (see sections 29 and 36 of that Act).
+>
+> **Variation, renewal or discharge of risk of sexual harm order by court in England and Wales**
+>
+> **136ZJ** (1) This section applies where a risk of sexual harm order has been made in respect of a person who now—
+>
+> (a) is residing in England and Wales, or
+>
+> (b) is in or is intending to come to England and Wales.
+>
+> (2) A person within subsection (3) may by complaint to the appropriate court apply for an order varying, renewing or discharging the order.
+>
+> (3) Those persons are—
+>
+> (a) the defendant;
+>
+> (b) the chief officer of police for the area in which the defendant resides;
+>
+> (c) a chief officer of police who believes that the defendant is in, or is intending to come to, that officer’s police area.
+>
+> (4) Subject to subsections (5) to (10), on the application the court, after hearing the person making the application and (if they wish to be heard) the other persons mentioned in subsection (3), may make any order varying, renewing or discharging the risk of sexual harm order that the court considers appropriate.
+>
+> (5) A risk of sexual harm order may be renewed, or varied under this section so as to impose—
+>
+> (a) additional prohibitions on the defendant, or
+>
+> (b) requirements of the kind mentioned in subsection (7) on the defendant,
+>
+> only if it is necessary to do so for the purpose of protecting children generally or any child from physical or psychological harm, caused by the defendant doing acts within section 123(3).
+>
+> (6) A risk of sexual harm order as renewed or varied under this section may contain only—
+>
+> (a) such prohibitions as are necessary for the purpose mentioned in subsection (5), and
+>
+> (b) such requirements of the kind mentioned in subsection (7) as are necessary for that purpose.
+>
+> (7) A risk of sexual harm order may be renewed or varied under this section so as to require the defendant to submit to electronic monitoring of the defendant’s compliance with the prohibitions imposed by the order.
+>
+> (8) Section 122EA (electronic monitoring requirements) applies in relation to—
+>
+> (a) the variation under this section of a risk of sexual harm order to require the defendant to submit to electronic monitoring of the defendant’s compliance with the prohibitions imposed by the order, or
+>
+> (b) the renewal of an order to continue such a requirement,
+>
+> as it applies in relation to the making of a sexual harm prevention order, subject to subsection (9).
+>
+> (9) In its application to the variation or renewal of a risk of sexual harm order, section 122EA has effect as if—
+>
+> (a) subsection (4)(b)(i) were omitted,
+>
+> (b) the reference in subsection (4)(b) to a case where it is proposed to include in the order a provision mentioned in sub-paragraph (ii) included a case where the order already includes such a provision,
+>
+> (c) the reference in subsection (4)(b) to the local justice area in which the place or area proposed to be specified is situated included the local justice area in which the place or area already specified is situated, and
+>
+> (d) the reference in subsection (9) to section 122D were to this section.
+>
+> (10) The court must not discharge a risk of sexual harm order before the end of 2 years beginning with the day on which the order was made without the consent of the defendant and—
+>
+> (a) where the application under this section is made by a chief officer of police, that chief officer, or
+>
+> (b) in any other case, the chief officer of police for the area in which the defendant resides.
+>
+> (11) In this section—
+>
+> - “adult magistrates’ court” means a magistrates’ court that is not a youth court;
+>
+> - “the appropriate court” means—
+>
+>   - where the defendant is aged 18 or over, an adult magistrates’ court for the area in which the defendant resides or, where the application is made by a chief officer of police, any adult magistrates’ court acting for a local justice area that includes any part of the chief officer’s police area;
+>   - where the defendant is under the age of 18, a youth court for the area in which the defendant resides or, where the application is made by a chief officer of police, any youth court acting for a local justice area that includes any part of the chief officer’s police area;
+>
+> - “child” means a person under 16.
+
+## SCHEDULE 19 — Management of terrorist offenders: provision consequential on sections 184 to 187
+
+*Section 188*
+
+### Police and Criminal Evidence Act 1984 (c. 60)
+
+**1** (1) The Police and Criminal Evidence Act 1984 is amended as follows.
+
+(2) In section 51(b), after “section 41” insert “or 43B”.
+
+(3) In section 65(1), in the definition of “the terrorism provisions”, for “section 41” substitute “sections 41 and 43B”.
+
+(4) In section 118(2)(a), after “section 41” insert “or 43B”.
+
+### Criminal Justice and Police Act 2001 (c. 16)
+
+**2** (1) Schedule 1 to the Criminal Justice and Police Act 2001 is amended as follows.
+
+(2) In Part 1, after paragraph 69B insert—
+
+> **69C** The power of seizure conferred by section 43E(2) of the Terrorism Act 2000 (seizure on the occasion of a search necessary for purposes connected with protecting members of the public from a risk of terrorism).
+
+(3) In Part 2, after paragraph 82A insert—
+
+> **82B** The power of seizure conferred by section 43E(2) of the Terrorism Act 2000 (seizure on the occasion of a search necessary for purposes connected with protecting members of the public from a risk of terrorism).
+
+### Counter-Terrorism Act 2008 (c. 28)
+
+**3** In section 1(1) of the Counter-Terrorism Act 2008, after paragraph (bb) insert—
+
+> (bc) section 43C(1) of that Act (search of terrorist offender released on licence);
+>
+> (bd) section 43C(5) of that Act (search of vehicle in connection with search of terrorist offender released on licence);
+>
+> (be) section 43D of that Act (search of premises of offender released on licence for purposes connected with protection from risk of terrorism);
+
+.
+
+### Police and Criminal Evidence (Northern Ireland) Order 1989 (S.I. 1989/1341 (N.I. 12))
+
+**4** (1) The Police and Criminal Evidence (Northern Ireland) Order 1989 is amended as follows.
+
+(2) In Article 2—
+
+(a) in paragraph (2), in the definition of “the terrorism provisions”, for “section 41” substitute “sections 41 and 43B”;
+
+(b) in paragraph (3)(a), after “section 41” insert “or 43B”.
+
+(3) In Article 51(b), after “section 41” insert “or 43B”.
+
+### Criminal Justice (Scotland) Act 2016 (asp 1)
+
+**5** In section 59 of the Criminal Justice (Scotland) Act 2016—
+
+(a) in the heading, for “terrorism offences” substitute “cases involving terrorism”;
+
+(b) in subsection (1), after “41(1)” insert “or 43B(1)”.
+
+## SCHEDULE 20 — Further provision about video and audio links in criminal proceedings
+
+*Section 200*
+
+### Criminal Justice Act 2003
+
+**1** (1) The Criminal Justice Act 2003 is amended as follows.
+
+(2) For section 52 substitute—
+
+> **Further provision about the giving, variation and rescission of live-link directions**
+>
+> **52** (1) The power conferred by section 51 includes power to give—
+>
+> (a) a direction that is applicable to several, or all, of the persons taking part in particular eligible criminal proceedings;
+>
+> (b) a direction that is applicable to a particular person in respect of only some aspects of particular eligible criminal proceedings (such as giving evidence or attending the proceedings when not giving evidence);
+>
+> (c) a direction requiring or permitting a person who is outside England and Wales (whether in the United Kingdom or elsewhere) to take part in eligible criminal proceedings through a live audio link or a live video link.
+>
+> (2) The court may vary or rescind a direction under section 51 at any time before or during the eligible criminal proceedings to which it relates (but this does not affect the court’s power to give a further direction under that section in relation to the proceedings).
+>
+> (3) A direction under section 51 may not be rescinded unless—
+>
+> (a) the court is satisfied that it is in the interests of justice for the direction to be rescinded,
+>
+> (b) the parties to the proceedings have been given the opportunity to make representations, and
+>
+> (c) if so required by subsection (9), the relevant youth offending team has been given the opportunity to make representations.
+>
+> (4) In relation to the variation of a direction given under section 51—
+>
+> (a) so far as the effect of the variation would be to allow a person to take part in eligible criminal proceedings through a live audio link or a live video link, or to alter (without removing) a person’s ability to do so, sections 51(4) and 53(1) to (3) apply as they apply to the giving of a direction;
+>
+> (b) so far as the effect of the variation would be to remove a person’s ability to take part in eligible criminal proceedings through a live audio link or a live video link, subsection (3) applies as it applies to the rescission of a direction.
+>
+> (5) Section 51(5) and (6) applies in relation to the variation or rescission of a direction given under section 51 as it applies to the giving of a direction under that section.
+>
+> (6) A direction under section 51 may be given, varied or rescinded—
+>
+> (a) on an application by a party to the proceedings, or
+>
+> (b) of the court’s own motion.
+>
+> But a party may not apply for a variation or rescission unless there has been a material change of circumstances since the direction was given or last varied.
+>
+> (7) The court must state in open court its reasons for refusing an application for the giving, variation or rescission of a direction under section 51 and, if it is a magistrates’ court, must cause them to be entered in the register of its proceedings.
+>
+> (8) If a hearing takes place in relation to the giving, variation or rescission of a direction under section 51, the court may require or permit a person to take part in that hearing through—
+>
+> (a) a live audio link, or
+>
+> (b) a live video link.
+>
+> (9) The requirement referred to in section 51(4)(c) and subsection (3)(c) arises in a case where—
+>
+> (a) the defendant is a party to the proceedings, and
+>
+> (b) either—
+>
+> (i) the defendant has not attained the age of 18 years, or
+>
+> (ii) the defendant has attained the age of 18 years but the court is dealing with the case as if the defendant had not attained that age.
+>
+> **Further provision about the effect of live-link directions**
+>
+> **52A** (1) A person who takes part in eligible criminal proceedings in accordance with a direction under section 51 is to be treated as complying with any requirement (however imposed or expressed) for that person to attend or appear before court, or to surrender to the custody of the court, for the purposes of that participation in those proceedings.
+>
+> (2) A person who takes part in eligible criminal proceedings in accordance with a direction under section 51 is to be treated as present in court for the purposes of those proceedings.
+>
+> (3) If eligible criminal proceedings are conducted with one or more persons taking part in accordance with a direction under section 51, the proceedings are to be regarded as taking place—
+>
+> (a) if at least one member of the court is taking part in the proceedings while in a courtroom, in that courtroom (or, if more than one courtroom falls within this paragraph, such of them as the court directs),
+>
+> (b) if no member of the court, but at least one other person, is taking part in the proceedings while in a courtroom, in that courtroom (or, if more than one courtroom falls within this paragraph, such of them as the court directs), or
+>
+> (c) if no person is taking part in the proceedings while in a courtroom, at such place as the court directs (being a place where the court could lawfully sit for the purposes of those proceedings).
+>
+> (4) In subsection (3), “courtroom” includes any place where proceedings of the sort in question might ordinarily be held (if no person were taking part in the proceedings in accordance with a direction under section 51).
+>
+> (5) A statement made on oath by a witness outside the United Kingdom and given in evidence through a live audio link or a live video link in accordance with a direction under section 51 is to be treated for the purposes of section 1 of the Perjury Act 1911 as having been made in the proceedings in which it is given in evidence.
+
+(3) In section 53—
+
+(a) for the heading substitute “Further provision about live links in magistrates’ courts”;
+
+(b) in subsection (1)—
+
+(i) in the words before paragraph (a), for “This section applies” substitute “Subsections (2) and (3) apply”;
+
+(ii) in paragraph (a), for “for evidence to be given through a live link in proceedings before the court” substitute “requiring or permitting a person to take part in proceedings before the court through a live audio link or a live video link”;
+
+(iii) in paragraph (b), for “receiving such evidence” substitute “such participation”;
+
+(c) after subsection (3) insert—
+
+> (4) The following functions of a magistrates’ court may be discharged by a single justice—
+>
+> (a) giving a direction under section 51 or varying such a direction under section 52(2);
+>
+> (b) rescinding under section 52(2) a direction given under section 51 before the eligible criminal proceedings concerned begin;
+>
+> (c) requiring or permitting, under section 52(8), a person to take part by live audio link or live video link in a hearing about a matter within paragraph (a) or (b).
+
+(4) In section 54(1), for “a live link” substitute “a live audio link or a live video link by a witness (including the defendant)”.
+
+(5) In section 55—
+
+(a) in subsection (2)—
+
+(i) in paragraph (a), for “51 or 52” substitute “52(6)”;
+
+(ii) in paragraph (b), for “live links” substitute “live audio links and live video links”;
+
+(b) in subsection (3)—
+
+(i) in paragraph (a), omit “uncontested”;
+
+(ii) in paragraph (b), for “51” substitute “52(6)”;
+
+(iii) in paragraph (c), for “51 or 52” substitute “52(6)”.
+
+(6) In section 56—
+
+(a) in subsection (1)—
+
+(i) omit the definition of “legal representative”;
+
+(ii) before the definition of “local justice area” insert—
+
+> - “bail” includes remand to local authority accommodation in accordance with Chapter 3 of Part 3 of the Legal Aid, Sentencing and Punishment of Offenders Act 2012,
+>
+> - “defendant” includes the person accused or convicted of an offence and, in the case of an enforcement hearing, the person liable to pay the sum or financial penalty concerned,
+>
+> - “eligible criminal proceedings” has the meaning given in section 51(3),
+>
+> - “enforcement hearing” means a hearing relating to collection, discharge, satisfaction or enforcement of—
+>
+>   - a sum that has been adjudged to be paid on conviction for an offence by a magistrates’ court or the Crown Court, or
+>   - a financial penalty that is enforceable in accordance with section 85(6) and (7) of the Criminal Justice and Immigration Act 2008 as if it were such a sum (including a hearing to determine whether a financial penalty is so enforceable),
+>
+> - “live audio link”, in relation to a person (P) taking part in proceedings, means a live telephone link or other arrangement which—
+>
+>   - enables P to hear all other persons taking part in the proceedings who are not in the same location as P, and
+>   - enables all other persons taking part in the proceedings who are not in the same location as P to hear P,
+>
+> - “live video link”, in relation to a person (P) taking part in proceedings, means a live television link or other arrangement which—
+>
+>   - enables P to see and hear all other persons taking part in the proceedings who are not in the same location as P, and
+>   - enables all other persons taking part in the proceedings who are not in the same location as P to see and hear P,
+
+;
+
+(iii) after the definition of “local justice area” insert—
+
+> - “preliminary hearing” means a hearing in proceedings for an offence held before the start of the trial (within the meaning of subsection (11A) or (11B) of section 22 of the Prosecution of Offences Act 1985), including, in the case of proceedings in the Crown Court, a preparatory hearing held under—
+>
+>   - section 7 of the Criminal Justice Act 1987 (cases of serious or complex fraud), or
+>   - section 29 of the Criminal Procedure and Investigations Act 1996 (other serious, complex or lengthy cases),
+>
+> - “relevant youth offending team” means the youth offending team (established under section 39 of the Crime and Disorder Act 1998) whose functions are exercisable in relation to the defendant concerned,
+>
+> - “sentencing hearing” means any hearing following conviction for an offence which is held for the purpose of—
+>
+>   - proceedings (in a magistrates’ court) relating to committal to the Crown Court for sentencing,
+>   
+>   - sentencing the offender or determining how the court should deal with the offender in respect of the offence (including reviewing, amending or revoking such a sentence or determination), or
+>   
+>   - determining—
+>   
+>     - how the offender has complied with a sentence given in respect of the offence, or
+>     - how the offender should be dealt with in respect of compliance with such a sentence,
+>   
+>     and here “sentence” includes any way in which a court has determined that the offender should be dealt with in respect of the offence,
+
+;
+
+(b) after subsection (1) insert—
+
+> (1A) In this Part, reference to taking part in proceedings means taking part in whatever capacity, including hearing the proceedings as a member of the court.
+>
+> (1B) In the application of this Part in relation to a witness, a reference to taking part in proceedings includes attending those proceedings for a purpose preliminary or incidental to the giving of evidence.
+
+;
+
+(c) omit subsections (2) and (3);
+
+(d) for subsection (4) substitute—
+
+> (4) The following matters are to be disregarded for the purposes of the definitions of “live audio link” and “live video link” in subsection (1)—
+>
+> (a) the extent (if any) to which a person is unable to see or hear by reason of any impairment of eyesight or hearing;
+>
+> (b) the effect of any direction or order which provides for one person taking part in proceedings to be prevented by means of a screen or other arrangement from seeing another person taking part in the proceedings.
+
+### Extradition Act 2003
+
+**2** (1) The Extradition Act 2003 is amended as follows.
+
+(2) In section 206A—
+
+(a) in the heading, omit “certain”;
+
+(b) in subsection (1)—
+
+(i) in paragraph (a), omit the words from “other” to “56,”;
+
+(ii) in paragraph (b), omit the words from “, other” to the end;
+
+(c) in subsection (2)—
+
+(i) for the words from “the person” to “during the hearing,” substitute “it is in the interests of justice to do so,”;
+
+(ii) omit “at any time before the hearing”;
+
+(d) for subsection (3) substitute—
+
+> (3) A live link direction is a direction requiring a person to take part in the hearing (in whatever capacity) through a live link.
+
+;
+
+(e) omit subsection (5);
+
+(f) for subsection (6) substitute—
+
+> (6) A person who takes part in the hearing through a live link is to be treated as present in court for the purposes of the hearing.
+
+(3) In section 206C—
+
+(a) omit subsections (4) and (5);
+
+(b) in subsection (6)—
+
+(i) in the opening words, for “, while absent from the place where the hearing is being held,” substitute “(P)”;
+
+(ii) in paragraph (a), for the words from “the appropriate” to the end substitute “all other persons taking part in the hearing who are not in the same location as P, and”;
+
+(iii) in paragraph (b), for the words from “the judge” to the end substitute “all other persons taking part in the hearing who are not in the same location as P.”;
+
+(iv) omit the words after paragraph (b);
+
+(c) after subsection (6) insert—
+
+> (7) For the purposes of subsection (6) the following matters are to be disregarded—
+>
+> (a) the extent (if any) to which a person is unable to see or hear by reason of any impairment of eyesight or hearing;
+>
+> (b) the effect of any direction or order which provides for one person taking part in a hearing to be prevented by means of a screen or other arrangement from seeing another person taking part in the hearing.
+
+### Consequential amendments of other enactments
+
+**3** (1) The Criminal Appeal Act 1968 is amended as follows.
+
+(2) In section 22, omit subsections (4) to (6).
+
+(3) In section 23, omit subsection (5).
+
+(4) In section 31—
+
+(a) in subsection (1), after paragraph (a) insert—
+
+> (aza) the powers under sections 51 and 52 of the Criminal Justice Act 2003 as they are exercisable in relation to appeals to the criminal division of the Court of Appeal and preliminary and incidental proceedings;
+
+;
+
+(b) in subsection (2), omit paragraph (ca).
+
+(5) In section 31A—
+
+(a) in the heading, omit “under Part 1”;
+
+(b) in subsection (2), omit paragraph (aa);
+
+(c) after subsection (2) insert—
+
+> (2A) The registrar may exercise the powers under sections 51 and 52 of the Criminal Justice Act 2003 as they are exercisable in relation to appeals to the criminal division of the Court of Appeal and preliminary and incidental proceedings.
+
+;
+
+(d) in subsection (4), after “subsection (2)” insert “or (2A)”.
+
+**4** (1) The Police and Criminal Evidence Act 1984 is amended as follows.
+
+(2) In section 46ZA(3)—
+
+(a) in paragraph (b)—
+
+(i) for the words from “proceedings” to “person” substitute “the proceedings referred to in section 47(3)(b)(i)”;
+
+(ii) for “that section” substitute “those proceedings”;
+
+(b) in paragraph (d), for “such a direction” substitute “a direction of the sort referred to in section 47(3)(b)(ii)”.
+
+(3) In section 46A(1ZA)(b), for the word from “proceedings” to the end substitute “the proceedings referred to in sub-paragraph (i) of that provision”.
+
+(4) In section 47(3)(b), for sub-paragraphs (i) and (ii) substitute—
+
+> (i) proceedings held for the purposes of section 51 of the Criminal Justice Act 2003 (directions for live links in criminal proceedings) so far as that section applies to preliminary hearings (within the meaning of that section), and
+>
+> (ii) any such hearing in relation to which a direction under that section is given requiring or permitting the person on bail to take part through a live audio link or a live video link (within the meaning of that section);
+
+.
+
+**5** In section 32 of the Criminal Justice Act 1988—
+
+(a) in the heading, at the end insert “when witness abroad: service courts”;
+
+(b) before subsection (1) insert—
+
+> (A1) This section applies only so far as provided by an order under paragraph 8 of Schedule 13.
+
+**6** (1) The Youth Justice and Criminal Evidence Act 1999 is amended as follows.
+
+(2) In Part 2, in the heading of Chapter 1A, at the end insert “: service courts”.
+
+(3) In section 33A (use of live links for evidence of the accused), in subsection (1), for the words from “any” to the end substitute “proceedings in a service court against a person for an offence, if and so far as provided by an order under section 61(1).”
+
+**7** (1) In section 29 of the Crime (International Co-operation) Act 2003—
+
+(a) in the heading, for “television” substitute “video or audio”;
+
+(b) in subsection (1), for the words from “section 32(1A)” to “apply” substitute “section 51 of the Criminal Justice Act 2003 (live links in criminal proceedings) to apply in relation to witnesses who are outside the United Kingdom”.
+
+(2) The Evidence Through Television Links (England and Wales) Order 2013 (S.I. 2013/1598) is revoked.
+
+**8** In the Sentencing Code, omit section 391.
+
+**9** In section 26 of the Domestic Abuse Act 2021 (breach of domestic abuse protection notice), for subsection (8) substitute—
+
+> (8) The requirement in subsection (2) to bring a person before the court is satisfied if the person appears before the court through a live video link or live audio link (within the meaning given by section 56 of the Criminal Justice Act 2003).
+
+## SCHEDULE 21 — Minor amendments in relation to the sentencing consolidation
+
+*Section 204*
+
+### PART 1 — Amendments to the Sentencing Act 2020
+
+**1** The Sentencing Act 2020 is amended as follows.
+
+**2** In section 108(4), for “Part” substitute “Chapter”.
+
+**3** In the table in section 122(1) (standard scale of fines for summary offences)—
+
+(a) in the heading of the second column, for “1 October 1992” substitute “1 May 1984”;
+
+(b) between the second and third columns, insert—
+
+> | Offence committed on or after 1 May 1984 and before 1 October 1992 |
+> |---|
+> | £50 |
+> | £100 |
+> | £400 |
+> | £1,000 |
+> | £2,000 |
+
+**[^F26]4** [^F26]In section 166(7), for “paragraph” substitute [^F26]“entry”[^F26].
+
+**5** In section 293(2)(d), for “(“a progress report”) substitute “(a “progress report”)”.
+
+**6** In section 414(6), in each of paragraphs (a) and (b), for “by the Armed Forces Act 2006” substitute “by or under the Armed Forces Act 2006”.
+
+**7** (1) Schedule 5 is amended as follows.
+
+(2) In paragraph 7(2)(b), after “before a youth court” insert “or, if the offender is aged 18 or over, a magistrates’ court other than a youth court.”
+
+(3) In paragraph 9—
+
+(a) in sub-paragraph (1), after “a youth court” insert “or other magistrates’ court”;
+
+(b) in sub-paragraph (6), for “youth court” substitute “magistrates’ court”.
+
+**8** In Schedule 16, in paragraph 11(4)(b), for first “by” substitute “be”.
+
+**9** In Schedule 21, in paragraph 4(1)—
+
+(a) omit the word “and” at the end of paragraph (b);
+
+(b) at the end of paragraph (c) insert “and”.
+
+**10** (1) Schedule 22 is amended as follows.
+
+(2) In paragraph 27—
+
+(a) in sub-paragraph (1)(b), in the inserted paragraph (aa), after “Schedule 22” insert “to the Sentencing Act 2020”.
+
+(b) in sub-paragraph (3), after “Schedule 22” insert “to the Sentencing Act 2020”.
+
+(3) In paragraph 34, in the opening words, for “omit” substitute “in”.
+
+(4) In paragraph 43—
+
+(a) the words from “, in subsection (2)” to the end become sub-paragraph (a);
+
+(b) after that sub-paragraph insert—
+
+> (b) in subsection (3), at the beginning insert “If the offender was aged 21 or over when convicted,
+
+.
+
+**11** In Schedule 24, omit paragraph 154(f).
+
+### PART 2 — Amendments to other enactments
+
+#### Criminal Justice Act 2003 (c. 44)
+
+**12** In section 237(1B) of the Criminal Justice Act 2003, after paragraph (a) insert—
+
+> (aa) references to a sentence of detention under section 262 of the Sentencing Code include a sentence of detention in a young offender institution under section 210B of the Armed Forces Act 2006;
+
+.
+
+#### Counter-Terrorism and Sentencing Act 2021 (c. 11)
+
+**13** In Schedule 13 to the Counter-Terrorism and Sentencing Act 2021, omit paragraph 44.
+
+---
+
+[^F1]: Words in s. 25(2)(c) substituted (1.7.2022) by Health and Care Act 2022 (c. 31), s. 186(6), Sch. 4 para. 241(2); S.I. 2022/734, reg. 2(a), Sch. (with regs. 13, 29, 30)
+[^F2]: Words in s. 25(3)(c) substituted (1.7.2022) by Health and Care Act 2022 (c. 31), s. 186(6), Sch. 4 para. 241(3); S.I. 2022/734, reg. 2(a), Sch. (with regs. 13, 29, 30)
+[^F3]: Words in s. 26(1)(b) inserted (15.9.2026) by Victims and Prisoners Act 2024 (c. 21), ss. 19(5)(a), 81(2) (with s. 32); S.I. 2026/1009, reg. 2
+[^F4]: Words in s. 26(1)(b) substituted (15.9.2026) by Victims and Prisoners Act 2024 (c. 21), ss. 19(5)(b), 81(2) (with s. 32); S.I. 2026/1009, reg. 2
+[^F5]: Words in s. 36(1) omitted (1.7.2022) by virtue of Health and Care Act 2022 (c. 31), s. 186(6), Sch. 4 para. 242(a); S.I. 2022/734, reg. 2(a), Sch. (with regs. 13, 29, 30)
+[^F6]: Words in s. 36(1) inserted (1.7.2022) by Health and Care Act 2022 (c. 31), s. 186(6), Sch. 4 para. 242(b); S.I. 2022/734, reg. 2(a), Sch. (with regs. 13, 29, 30)
+[^F7]: Words in s. 36(1) substituted (1.7.2022) by Health and Care Act 2022 (c. 31), s. 186(6), Sch. 4 para. 242(c); S.I. 2022/734, reg. 2(a), Sch. (with regs. 13, 29, 30)
+[^F8]: Words in s. 42(3)(a) substituted (30.9.2026) by The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386), reg. 1(2), Sch. 2 para. 25(a); S.I. 2026/1015, reg. 2(c)
+[^F9]: Pt. 2 Ch. 3A inserted (12.1.2026) by Victims and Prisoners Act 2024 (c. 21), ss. 28, 81(2) (with s. 32); S.I. 2025/1168, reg. 3(a)
+[^F10]: Words in s. 44D(5)(a) substituted (30.9.2026) by The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386), reg. 1(2), Sch. 2 para. 25(b); S.I. 2026/1015, reg. 2(c)
+[^F11]: S. 44F inserted (12.1.2026) by Victims and Prisoners Act 2024 (c. 21), ss. 29, 81(2) (with s. 32); S.I. 2025/1168, reg. 3(b)
+[^F12]: Words in s. 78(4)(a) substituted (7.2.2023 at 12.00 p.m.) by The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149), regs. 1(2), 2(1), Sch. Pt. 1
+[^F13]: Words in s. 78(5) substituted (7.2.2023 at 12.00 p.m.) by The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149), regs. 1(2), 2(1), Sch. Pt. 1
+[^F14]: S. 103(4)(za) inserted (29.6.2026) by Crime and Policing Act 2026 (c. 20), ss. 188(2), 255(1); S.I. 2026/689, reg. 2(1)(v)
+[^F15]: S. 130(6) omitted (1.10.2026 except in relation to sentences for excluded offences listed in Sch.) by virtue of Sentencing Act 2026 (c. 2), ss. 23(11)(c), 49(1) (with s. 23(12)-(15)); S.I. 2026/953, regs. 2(a), 5, Sch.
+[^F16]: S. 132(6)(7) omitted (for specified purposes and otherwise coming into force in accordance with reg. 4 of the commencing S.I.) by virtue of Sentencing Act 2026 (c. 2), ss. 33(13)(e), 49(1) (with s. 33(14)); S.I. 2026/86, regs. 3(b)(iv), 4
+[^F17]: S. 149(2)(d) omitted (29.6.2026) by virtue of Crime and Policing Act 2026 (c. 20), ss. 192(6), 255(3)(g)
+[^F18]: S. 149(3)(d) omitted (29.6.2026) by virtue of Crime and Policing Act 2026 (c. 20), ss. 192(6), 255(3)(g)
+[^F19]: S. 150(8) omitted (11.5.2026) by virtue of Sentencing Act 2026 (c. 2), s. 49(1), Sch. 5 para. 16 (with s. 34(4)(5)); S.I. 2026/402, reg. 2(b)
+[^F20]: Words in Sch. 1 Table substituted (1.7.2022) by Health and Care Act 2022 (c. 31), s. 186(6), Sch. 4 para. 243(a); S.I. 2022/734, reg. 2(a), Sch. (with regs. 13, 29, 30)
+[^F21]: Words in Sch. 1 Table substituted (1.7.2022) by Health and Care Act 2022 (c. 31), s. 186(6), Sch. 4 para. 243(b); S.I. 2022/734, reg. 2(a), Sch. (with regs. 13, 29, 30)
+[^F22]: Words in Sch. 3 Pt. 1 inserted (26.5.2023) by The Police, Crime, Sentencing and Courts Act 2022 (Extraction of information from electronic devices) (Amendment of Schedule 3) Regulations 2023 (S.I. 2023/575), regs. 1(1), 2(2)
+[^F23]: Words in Sch. 3 Pt. 2 omitted (26.5.2023) by virtue of The Police, Crime, Sentencing and Courts Act 2022 (Extraction of information from electronic devices) (Amendment of Schedule 3) Regulations 2023 (S.I. 2023/575), regs. 1(1), 2(3)
+[^F24]: Words in Sch. 3 Pt. 2 inserted (7.4.2026) by Employment Rights Act 2025 (c. 36), s. 159(3), Sch. 10 para. 92 (with s. 147, Sch. 11); S.I. 2026/323, reg. 4(1)(55)(e)
+[^F25]: Words in Sch. 3 Pt. 3 substituted (3.5.2023) by The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424), art. 1(2), Sch. para. 22 (with art. 17)
+[^F26]: Sch. 21 para. 4 omitted (1.10.2026 except in relation to sentences for excluded offences listed in Sch.) by virtue of Sentencing Act 2026 (c. 2), ss. 24(6)(b), 49(1) (with s. 24(7)); S.I. 2026/953, regs. 2(c), 5, Sch.

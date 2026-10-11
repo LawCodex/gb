@@ -1,0 +1,474 @@
+---
+title: "Employment Act 2008"
+identifier: "ukpga/2008/24"
+citation: "2008 c. 24"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S+N.I."
+date: 2008-11-13
+last_amended: 2026-04-07
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/2008/24"
+source_modified: 2026-05-14
+retrieved: 2026-10-11
+---
+
+# Employment Act 2008
+
+**2008 c. 24**
+
+An Act to make provision about the procedure for the resolution of employment disputes; to provide for compensation for financial loss in cases of unlawful underpayment or non-payment; to make provision about the enforcement of minimum wages legislation and the application of the national minimum wage to Cadet Force Adult Volunteers and voluntary workers; to make provision about the enforcement of offences under the Employment Agencies Act 1973; to make provision about the right of trade unions to expel or exclude members on the grounds of membership of a political party; and for connected purposes.
+
+[13th November 2008]
+
+Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## Dispute resolution
+
+### 1 Statutory dispute resolution procedures
+
+In the Employment Act 2002 (c. 22), sections 29 to 33 and Schedules 2 to 4 (which make provision for statutory dispute resolution procedures) are repealed.
+
+### 2 Procedural fairness
+
+In the Employment Rights Act 1996 (c. 18), section 98A (procedural fairness) is repealed.
+
+### 3 Non-compliance with statutory Codes of Practice
+
+(1) The Trade Union and Labour Relations (Consolidation) Act 1992 (c. 52) is amended as specified in subsections (2) and (3).
+
+(2) After section 207 there is inserted—
+
+> **207A Effect of failure to comply with Code: adjustment of awards**
+>
+> (1) This section applies to proceedings before an employment tribunal relating to a claim by an employee under any of the jurisdictions listed in Schedule A2.
+>
+> (2) If, in the case of proceedings to which this section applies, it appears to the employment tribunal that—
+>
+> (a) the claim to which the proceedings relate concerns a matter to which a relevant Code of Practice applies,
+>
+> (b) the employer has failed to comply with that Code in relation to that matter, and
+>
+> (c) that failure was unreasonable,
+>
+> the employment tribunal may, if it considers it just and equitable in all the circumstances to do so, increase any award it makes to the employee by no more than 25%.
+>
+> (3) If, in the case of proceedings to which this section applies, it appears to the employment tribunal that—
+>
+> (a) the claim to which the proceedings relate concerns a matter to which a relevant Code of Practice applies,
+>
+> (b) the employee has failed to comply with that Code in relation to that matter, and
+>
+> (c) that failure was unreasonable,
+>
+> the employment tribunal may, if it considers it just and equitable in all the circumstances to do so, reduce any award it makes to the employee by no more than 25%.
+>
+> (4) In subsections (2) and (3), “relevant Code of Practice” means a Code of Practice issued under this Chapter which relates exclusively or primarily to procedure for the resolution of disputes.
+>
+> (5) Where an award falls to be adjusted under this section and under section 38 of the Employment Act 2002, the adjustment under this section shall be made before the adjustment under that section.
+>
+> (6) The Secretary of State may by order amend Schedule A2 for the purpose of—
+>
+> (a) adding a jurisdiction to the list in that Schedule, or
+>
+> (b) removing a jurisdiction from that list.
+>
+> (7) The power of the Secretary of State to make an order under subsection (6) includes power to make such incidental, supplementary, consequential or transitional provision as the Secretary of State thinks fit.
+>
+> (8) An order under subsection (6) shall be made by statutory instrument.
+>
+> (9) No order shall be made under subsection (6) unless a draft of the statutory instrument containing it has been laid before Parliament and approved by a resolution of each House.
+
+(3) After Schedule A1 there is inserted—
+
+> **SCHEDULE A2 — Tribunal jurisdictions to which section 207A applies**
+>
+> *Section 207A*
+>
+> - Section 2 of the Equal Pay Act 1970 (c. 41) (equality clauses)
+> - Section 63 of the Sex Discrimination Act 1975 (c. 65) (discrimination in the employment field)
+> - Section 54 of the Race Relations Act 1976 (c. 74) (discrimination in the employment field)
+> - Section 145A of this Act (inducements relating to union membership or activities)
+> - Section 145B of this Act (inducements relating to collective bargaining)
+> - Section 146 of this Act (detriment in relation to union membership and activities)
+> - Paragraph 156 of Schedule A1 to this Act (detriment in relation to union recognition rights)
+> - Section 17A of the Disability Discrimination Act 1995 (c. 50) (discrimination in the employment field)
+> - Section 23 of the Employment Rights Act 1996 (c. 18) (unauthorised deductions and payments)
+> - Section 48 of that Act (detriment in employment)
+> - Section 111 of that Act (unfair dismissal)
+> - Section 163 of that Act (redundancy payments)
+> - Section 24 of the National Minimum Wage Act 1998 (c. 39) (detriment in relation to national minimum wage)
+> - The Employment Tribunal Extension of Jurisdiction (England and Wales) Order 1994 (SI 1994/1623) (breach of employment contract and termination)
+> - The Employment Tribunal Extension of Jurisdiction (Scotland) Order 1994 (SI 1994/1624) (corresponding provision for Scotland)
+> - Regulation 30 of the Working Time Regulations 1998 (SI 1998/1833) (breach of regulations)
+> - Regulation 32 of the Transnational Information and Consultation of Employees Regulations 1999 (SI 1999/3323) (detriment relating to European Works Councils)
+> - Regulation 28 of the Employment Equality (Sexual Orientation) Regulations 2003 (SI 2003/1660) (discrimination in the employment field)
+> - Regulation 28 of the Employment Equality (Religion or Belief) Regulations 2003 (SI 2003/1661) (discrimination in the employment field)
+> - Regulation 45 of the European Public Limited-Liability Company Regulations 2004 (SI 2004/2326) (detriment in employment)
+> - Regulation 33 of the Information and Consultation of Employees Regulations 2004 (SI 2004/3426) (detriment in employment)
+> - Paragraph 8 of the Schedule to the Occupational and Personal Pension Schemes (Consultation by Employers and Miscellaneous Amendment) Regulations 2006 (SI 2006/349) (detriment in employment)
+> - Regulation 36 of the Employment Equality (Age) Regulations 2006 (SI 2006/1031) (discrimination in the employment field)
+> - Regulation 34 of the European Cooperative Society (Involvement of Employees) Regulations 2006 (SI 2006/2059) (detriment in relation to involvement in a European Cooperative Society)
+> - Regulation 17 of the Cross-border Railway Services (Working Time) Regulations 2008 (SI 2008/1660) (breach of regulations).
+
+(4) In section 124A of the Employment Rights Act 1996 (c. 18) (adjustments under the Employment Act 2002), in paragraph (a), for the words from “section 31” to “procedures)” there is substituted “ section 207A of the Trade Union and Labour Relations (Consolidation) Act 1992 (effect of failure to comply with Code: adjustment of awards) ”.
+
+### 4 Determination of proceedings without hearing
+
+In the Employment Tribunals Act 1996 (c. 17), in section 7 (employment tribunal procedure regulations), after subsection (3A) there is inserted—
+
+> (3AA) Employment tribunal procedure regulations under subsection (3A) may only authorise the determination of proceedings without any hearing in circumstances where—
+>
+> (a) all the parties to the proceedings consent in writing to the determination without a hearing, or
+>
+> (b) the person (or, where more than one, each of the persons) against whom the proceedings are brought—
+>
+> (i) has presented no response in the proceedings, or
+>
+> (ii) does not contest the case.
+>
+> (3AB) For the purposes of subsection (3AA)(b), a person does not present a response in the proceedings if he presents a response but, in accordance with provision made by the regulations, it is not accepted.
+
+### 5 Conciliation before bringing of proceedings
+
+[^F1]1 [^F1]In the Employment Tribunals Act 1996, section 18 (conciliation) is amended as follows.
+
+[^F1]2 [^F1]In subsection (3), for the words from “shall act” to the end there is substituted [^F1]“ may endeavour to promote a settlement between the parties without proceedings being instituted ”[^F1].
+
+[^F1]3 [^F1]For subsection (5) there is substituted—
+
+> [^F1]5 [^F1]Where a conciliation officer acts pursuant to subsection (3) in a case where the person claiming as specified in paragraph (a) of that subsection has ceased to be employed by the employer and the proceedings which he claims could be brought by him are proceedings under section 111 of the Employment Rights Act 1996, the conciliation officer may in particular—
+>
+> [^F1]a [^F1]seek to promote the reinstatement or re-engagement of that person by the employer, or by a successor of the employer or by an associated employer, on terms appearing to the conciliation officer to be equitable, or
+>
+> [^F1]b [^F1]where the person does not wish to be reinstated or re-engaged, or where reinstatement or re-engagement is not practicable, seek to promote agreement between them as to a sum by way of compensation to be paid by the employer to that person.
+
+### 6 Conciliation after bringing of proceedings
+
+(1) In the Employment Tribunals Act 1996 (c. 17), in section 18 (conciliation), subsection (2A) is repealed.
+
+(2) In that Act, in section 19 (conciliation procedure), subsection (2) is repealed.
+
+### 7 Compensation for financial loss
+
+(1) In the Employment Rights Act 1996 (c. 18), in section 24 (determination of complaints relating to deductions from wages or payments to employer)—
+
+(a) the existing provision becomes subsection (1), and
+
+(b) after that provision there is inserted—
+
+> (2) Where a tribunal makes a declaration under subsection (1), it may order the employer to pay to the worker (in addition to any amount ordered to be paid under that subsection) such amount as the tribunal considers appropriate in all the circumstances to compensate the worker for any financial loss sustained by him which is attributable to the matter complained of.
+
+(2) In that Act, in section 163 (determination of questions relating to redundancy payments), at the end there is inserted—
+
+> (5) Where a tribunal determines under subsection (1) that an employee has a right to a redundancy payment it may order the employer to pay to the worker such amount as the tribunal considers appropriate in all the circumstances to compensate the worker for any financial loss sustained by him which is attributable to the non-payment of the redundancy payment.
+
+## National minimum wage etc
+
+### 8 Arrears payable in cases of non-compliance
+
+(1) In the National Minimum Wage Act 1998 (c. 39), section 17 (which makes provision for the additional remuneration to which a worker is entitled in cases of non-compliance) is amended as specified in subsections (2) to (5).
+
+(2) In subsection (1), after “shall” there is inserted “ at any time (“the time of determination”) ”.
+
+(3) In that subsection, for “the amount described in subsection (2) below” there is substituted
+
+> whichever is the higher of—
+>
+> (a) the amount described in subsection (2) below, and
+>
+> (b) the amount described in subsection (4) below.
+
+(4) In subsection (2), for “That amount” there is substituted “ The amount referred to in subsection (1)(a) above ”.
+
+(5) After subsection (3) there is inserted—
+
+> (4) The amount referred to in subsection (1)(b) above is the amount determined by the formula—
+>
+> (A)/(R1) × R2 where— A is the amount described in subsection (2) above, R1 is the rate of national minimum wage which was payable in respect of the worker during the pay reference period, and R2 is the rate of national minimum wage which would have been payable in respect of the worker during that period had the rate payable in respect of him during that period been determined by reference to regulations under section 1 and 3 above in force at the time of determination.
+>
+> (5) Subsection (1) above ceases to apply to a worker in relation to any pay reference period when he is at any time paid the additional remuneration for that period to which he is at that time entitled under that subsection.
+>
+> (6) Where any additional remuneration is paid to the worker under this section in relation to the pay reference period but subsection (1) above has not ceased to apply in relation to him, the amounts described in subsections (2) and (4) above shall be regarded as reduced by the amount of that remuneration.
+
+[^F2]6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7) Nothing in subsections (2) to (5) affects section 17 of the National Minimum Wage Act 1998 (c. 39) as it has effect for the purposes of—
+
+(a) the Agricultural Wages (Scotland) Act 1949 (c. 30), or
+
+(b) the Agricultural Wages (Regulation) (Northern Ireland) Order 1977 (SI 1977/2151) (N.I.22).
+
+(8) The amendments made by this section apply in relation to a pay reference period (within the meaning of the National Minimum Wage Act 1998) ending before, as well as after, this section comes into force.
+
+### 9 Notices of underpayment
+
+[^F3]1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F3]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) In the National Minimum Wage Act 1998, in section 51 (regulations and orders), in subsections (6) and (7)(a), the words “21 or” are repealed.
+
+(4) In the Employment Tribunals Act 1996 (c. 17), in section 4 (composition of employment tribunal), in subsection (3)(cd), for “section 19 or 22” there is substituted “ section 19C ”.
+
+(5) In the Commissioners for Revenue and Customs Act 2005 (c. 11), in section 44 (payment into Consolidated Fund), subsection (2)(f) is repealed.
+
+[^F4]6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7) Nothing in this section (or Part 2 of the Schedule) affects any provision of the National Minimum Wage Act 1998 as that provision has effect for the purposes of—
+
+(a) the Agricultural Wages (Scotland) Act 1949 (c. 30), or
+
+(b) the Agricultural Wages (Regulation) (Northern Ireland) Order 1977 (SI 1977/2151) (N.I.22).
+
+### 10 Powers of officers to take copies of records
+
+(1) In the National Minimum Wage Act 1998, section 14 (powers of officers) is amended as specified in subsections (2) and (3).
+
+(2) In subsection (1)(a), the words “any material part of” are repealed.
+
+(3) After subsection (3) there is inserted—
+
+> (3A) The power of an officer to copy records under subsection (1)(a) includes a power to remove such records from the place where they are produced to him in order to copy them; but such records must be returned as soon as reasonably practicable to the relevant person by whom they are produced.
+
+(4) Nothing in this section (or Part 3 of the Schedule) affects section 14 of the National Minimum Wage Act 1998 as it has effect for the purposes of—
+
+(a) the Agricultural Wages (Scotland) Act 1949, or
+
+(b) the Agricultural Wages (Regulation) (Northern Ireland) Order 1977 (SI 1977/2151) (N.I.22).
+
+### 11 Offences: mode of trial and penalties
+
+(1) In the National Minimum Wage Act 1998, in section 31 (offences), in subsection (9), for the words from “on summary conviction” to the end there is substituted—
+
+> (a) on conviction on indictment, to a fine, or
+>
+> (b) on summary conviction, to a fine not exceeding the statutory maximum
+
+.
+
+(2) In that Act, in section 33 (proceedings for offences), subsections (2) to (5) are repealed.
+
+(3) Nothing in this section (or Part 4 of the Schedule) affects section 31 or 33 of the National Minimum Wage Act 1998 (c. 39) as it has effect for the purposes of—
+
+(a) the Agricultural Wages (Scotland) Act 1949 (c. 30), or
+
+(b) the Agricultural Wages (Regulation) (Northern Ireland) Order 1977 (SI 1977/2151) (N.I.22).
+
+### 12 Powers to investigate criminal offences
+
+(1) In the Finance Act 2007 (c. 11), in section 84 (criminal investigations: powers of Revenue and Customs), in subsection (3), for “13 to” there is substituted “ 14, ”.
+
+(2) In the Criminal Law (Consolidation) (Scotland) Act 1995 (c. 39), in section 23A (investigation of offences by Revenue and Customs), in subsection (2)(b), for “13 to” there is substituted “ 14, ”.
+
+### 13 Cadet Force Adult Volunteers
+
+In the National Minimum Wage Act 1998, after section 37 there is inserted—
+
+> **37A Cadet Force Adult Volunteers**
+>
+> (1) A person (not being a person to whom section 37(1) above applies) who—
+>
+> (a) is a member of any of the forces specified in subsection (2) below, and
+>
+> (b) assists the activities of those forces otherwise than in the course of Crown employment,
+>
+> does not qualify for the national minimum wage in respect of anything done by him in so assisting those activities.
+>
+> (2) The forces referred to in subsection (1) above are—
+>
+> (a) the Combined Cadet Force;
+>
+> (b) the Sea Cadet Corps;
+>
+> (c) the Army Cadet Force;
+>
+> (d) the Air Training Corps.
+
+### 14 Voluntary workers
+
+In the National Minimum Wage Act 1998, in section 44 (voluntary workers), after subsection (1) there is inserted—
+
+> (1A) For the purposes of subsection (1)(a) above, expenses which—
+>
+> (a) are incurred in order to enable the worker to perform his duties,
+>
+> (b) are reasonably so incurred, and
+>
+> (c) are not accommodation expenses,
+>
+> are to be regarded as actually incurred in the performance of his duties.
+
+## Employment agencies
+
+### 15 Offences: mode of trial and penalties
+
+In the Employment Agencies Act 1973 (c. 35), in each of sections 3B, 5(2) and 6(2), for the words from “on summary conviction” to the end there is substituted—
+
+> (a) on conviction on indictment, to a fine;
+>
+> (b) on summary conviction, to a fine not exceeding the statutory maximum.
+
+### [^F5]16 Enforcement powers
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 17 Offences by partnerships in Scotland
+
+In the Employment Agencies Act 1973 (c. 35), in section 11 (offences by bodies corporate)—
+
+(a) the existing provision becomes subsection (1), and
+
+(b) after that subsection there is inserted—
+
+> (2) Where an offence under this Act committed by a partnership in Scotland is proved to have been committed with the consent or connivance of, or to have been attributable to any neglect on the part of, a partner or a person purporting to act as a partner, he, as well as the partnership, shall be guilty of the offence and shall be liable to be proceeded against and punished accordingly.
+
+## Miscellaneous
+
+### [^F6]18 Employment agencies and national minimum wage legislation: information
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 19 Exclusion or expulsion from trade union for membership of political party
+
+(1) The Trade Union and Labour Relations (Consolidation) Act 1992 (c. 52) is amended as follows.
+
+(2) In section 174 (right not to be excluded or expelled from union) after subsection (4B), there is inserted—
+
+> (4C) Conduct which consists in an individual's being or having been a member of a political party is not conduct falling within subsection (4A) if membership of that political party is contrary to—
+>
+> (a) a rule of the trade union, or
+>
+> (b) an objective of the trade union.
+>
+> (4D) For the purposes of subsection (4C)(b) in the case of conduct consisting in an individual's being a member of a political party, an objective is to be disregarded—
+>
+> (a) in relation to an exclusion, if it is not reasonably practicable for the objective to be ascertained by a person working in the same trade, industry or profession as the individual;
+>
+> (b) in relation to an expulsion, if it is not reasonably practicable for the objective to be ascertained by a member of the union.
+>
+> (4E) For the purposes of subsection (4C)(b) in the case of conduct consisting in an individual's having been a member of a political party, an objective is to be disregarded—
+>
+> (a) in relation to an exclusion, if at the time of the conduct it was not reasonably practicable for the objective to be ascertained by a person working in the same trade, industry or profession as the individual;
+>
+> (b) in relation to an expulsion, if at the time of the conduct it was not reasonably practicable for the objective to be ascertained by a member of the union.
+>
+> (4F) Where the exclusion or expulsion of an individual from a trade union is wholly or mainly attributable to conduct which consists of an individual's being or having been a member of a political party but which by virtue of subsection (4C) is not conduct falling within subsection (4A), the exclusion or expulsion is not permitted by virtue of subsection (2)(d) if any one or more of the conditions in subsection (4G) apply.
+>
+> (4G) Those conditions are—
+>
+> (a) the decision to exclude or expel is taken otherwise than in accordance with the union's rules;
+>
+> (b) the decision to exclude or expel is taken unfairly;
+>
+> (c) the individual would lose his livelihood or suffer other exceptional hardship by reason of not being, or ceasing to be, a member of the union.
+>
+> (4H) For the purposes of subsection (4G)(b) a decision to exclude or expel an individual is taken unfairly if (and only if)—
+>
+> (a) before the decision is taken the individual is not given—
+>
+> (i) notice of the proposal to exclude or expel him and the reasons for that proposal, and
+>
+> (ii) a fair opportunity to make representations in respect of that proposal, or
+>
+> (b) representations made by the individual in respect of that proposal are not considered fairly.
+
+(3) In section 176 (remedies), in subsection (1D)(a), for “a member of the general public” substitute “ a person working in the same trade, industry or profession as the complainant ”.
+
+## General
+
+### 20 Repeals
+
+The Schedule contains repeals.
+
+### 21 Extent
+
+An amendment or repeal effected by this Act has the same extent as the enactment (or the relevant part of the enactment) to which it relates.
+
+### 22 Commencement
+
+(1) The provisions of this Act come into force as follows—
+
+(a) sections 1 to 9 and Parts 1 and 2 of the Schedule come into force on such day as the Secretary of State may by order appoint;
+
+(b) section 10 and Part 3 of the Schedule come into force at the end of the period of two months beginning with the day on which this Act is passed;
+
+(c) sections 11 and 12 and Part 4 of the Schedule come into force on such day as the Secretary of State may by order appoint;
+
+(d) sections 13 and 14 come into force at the end of the period of two months beginning with the day on which this Act is passed;
+
+(e) sections 15 to 17 and Part 5 of the Schedule come into force on 6 April 2009;
+
+(f) sections 18 and 19 come into force on such day as the Secretary of State may by order appoint;
+
+(g) the remaining provisions of this Act come into force on the day on which this Act is passed.
+
+(2) An order under subsection (1) is to be made by statutory instrument.
+
+(3) An order under subsection (1) may—
+
+(a) appoint different days for different purposes;
+
+(b) contain transitional provision, or savings.
+
+### 23 Short title
+
+This Act may be cited as the Employment Act 2008.
+
+## SCHEDULE — Repeals
+
+*Section 20*
+
+### Part 1 — Repeals relating to sections 1 to 7
+
+|  |  |
+|---|---|
+| *Short title and chapter* | *Extent of repeal* |
+| Employment Tribunals Act 1996 (c. 17) | Section 18(2A). Section 19(2). |
+| Employment Rights Act 1996 (c. 18) | Section 98A. In section 112(5)(a), “or 98A(1)”. In section 120(1A)(a), “or 98A(1)”. |
+| Employment Act 2002 (c. 22) | Section 24(2) and (4). Sections 29 to 33. Section 34(2). In section 40, the definition of “statutory procedure”. In section 51(4), “30, 31, 32, 33 or”. Schedules 2 to 4. |
+
+### Part 2 — Repeals relating to section 9
+
+|  |  |
+|---|---|
+| *Short title and chapter* | *Extent of repeal* |
+| National Minimum Wage Act 1998 (c. 39) | In section 51(6) and (7)(a), “21 or”. |
+| National Minimum Wage (Enforcement Notices) Act 2003 (c. 8) | The whole Act. |
+| Employment Relations Act 2004 (c. 24) | Sections 45 and 46. |
+| Commissioners for Revenue and Customs Act 2005 (c. 11) | Section 44(2)(f). |
+| Tribunals, Courts and Enforcement Act 2007 (c. 15) | In Schedule 13, paragraph 128. |
+
+### Part 3 — Repeals relating to section 10
+
+|  |  |
+|---|---|
+| *Short title and chapter* | *Extent of repeal* |
+| National Minimum Wage Act 1998 (c. 39) | In section 14(1)(a), “any material part of”. |
+
+### Part 4 — Repeals relating to section 11
+
+|  |  |
+|---|---|
+| *Short title and chapter* | *Extent of repeal* |
+| National Minimum Wage Act 1998 (c. 39) | Section 33(2) to (5). |
+
+### Part 5 — Repeals relating to sections 15 and 16
+
+|  |  |
+|---|---|
+| *Short title and chapter* | *Extent of repeal* |
+| Employment Agencies Act 1973 (c. 35) | In section 9—<br>- (a) in subsection (1), paragraph (d) and the preceding “and”;<br>- (b) in subsection (4)(a), “subsection (1) of”. In section 11A, in each of subsections (1) and (3), “3B, 5(2), 6(2),”. |
+| Employment Relations Act 1999 (c. 26) | In Schedule 7, paragraph 4(2)(b) and the preceding “and”. |
+
+---
+
+[^F1]: S. 5 omitted (E.W.S.) (6.4.2014) by virtue of Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 1 para. 12; S.I. 2014/253, art. 3(f)
+[^F2]: S. 8(6) repealed (1.10.2013) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 20 para. 2; S.I. 2013/1455, art. 3(b), Sch. 2 (with art. 4(2)(4)) (as amended (7.9.2013) by S.I. 2013/2271, art. 2)
+[^F3]: S. 9(1)(2) omitted (7.4.2026) by virtue of Employment Rights Act 2025 (c. 36), s. 159(3), Sch. 10 para. 81(a) (with s. 147 Sch. 11); S.I. 2026/323, reg. 4(1)(55)(e)
+[^F4]: S. 9(6) repealed (1.10.2013) by Enterprise and Regulatory Reform Act 2013 (c. 24), s. 103(3), Sch. 20 para. 2; S.I. 2013/1455, art. 3(b), Sch. 2 (with art. 4(2)(4)) (as amended (7.9.2013) by S.I. 2013/2271, art. 2)
+[^F5]: S. 16 omitted (7.4.2026) by virtue of Employment Rights Act 2025 (c. 36), s. 159(3), Sch. 10 para. 81(b) (with s. 147 Sch. 11); S.I. 2026/323, reg. 4(1)(55)(e)
+[^F6]: S. 18 omitted (7.4.2026) by virtue of Employment Rights Act 2025 (c. 36), s. 159(3), Sch. 10 para. 81(c) (with s. 147 Sch. 11); S.I. 2026/323, reg. 4(1)(55)(e)

@@ -1,0 +1,4500 @@
+---
+title: "Children (Scotland) Act 1995"
+identifier: "ukpga/1995/36"
+citation: "1995 c. 36"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S+N.I."
+date: 1995-07-19
+last_amended: 2025-09-21
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/1995/36"
+source_modified: 2025-09-22
+retrieved: 2026-10-11
+---
+
+# Children (Scotland) Act 1995
+
+**1995 c. 36**
+
+An Act to reform the law of Scotland relating to children, to the adoption of children and to young persons who as children have been looked after by a local authority; to make new provision as respects the relationship between parent and child and guardian and child in the law of Scotland; to make provision as respects residential establishments for children and certain other residential establishments; and for connected purposes.
+
+[19th July 1995]
+
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## Part I — Parents, Children and Guardians
+
+### Parental responsibilities and parental rights
+
+#### 1 Parental responsibilities.
+
+(1) Subject to section 3(1)(b) [[^F1], and (d)] and (3) of this Act, a parent has in relation to his child the responsibility—
+
+(a) to safeguard and promote the child’s health, development and welfare;
+
+(b) to provide, in a manner appropriate to the stage of development of the child—
+
+(i) direction;
+
+(ii) guidance,
+
+to the child;
+
+(c) if the child is not living with the parent, to maintain personal relations and direct contact with the child on a regular basis; and
+
+(d) to act as the child’s legal representative,
+
+but only in so far as compliance with this section is practicable and in the interests of the child.
+
+(2) “Child” means for the purposes of—
+
+(a) paragraphs (a), (b)(i), (c) and (d) of subsection (1) above, a person under the age of sixteen years;
+
+(b) paragraph (b)(ii) of that subsection, a person under the age of eighteen years.
+
+(3) The responsibilities mentioned in paragraphs (a) to (d) of subsection (1) above are in this Act referred to as “parental responsibilities”; and the child, or any person acting on his behalf, shall have title to sue, or to defend, in any proceedings as respects those responsibilities.
+
+(4) The parental responsibilities supersede any analogous duties imposed on a parent at common law; but this section is without prejudice to any other duty so imposed on him or to any duty imposed on him by, under or by virtue of any other provision of this Act or of any other enactment.
+
+#### 2 Parental rights.
+
+(1) Subject to section 3(1)(b) [[^F2], and (d)] and (3) of this Act, a parent, in order to enable him to fulfil his parental responsibilities in relation to his child, has the right—
+
+(a) to have the child living with him or otherwise to regulate the child’s residence;
+
+(b) to control, direct or guide, in a manner appropriate to the stage of development of the child, the child’s upbringing;
+
+(c) if the child is not living with him, to maintain personal relations and direct contact with the child on a regular basis; and
+
+(d) to act as the child’s legal representative.
+
+(2) Subject to subsection (3) below, where two or more persons have a parental right as respects a child, each of them may exercise that right without the consent of the other or, as the case may be, of any of the others, unless any decree or deed conferring the right, or regulating its exercise, otherwise provides.
+
+(3) Without prejudice to any court order, no person shall be entitled to remove a child habitually resident in Scotland from, or to retain any such child outwith, the United Kingdom without the consent of a person described in subsection (6) below.
+
+(4) The rights mentioned in paragraphs (a) to (d) of subsection (1) above are in this Act referred to as “parental rights”; and a parent, or any person acting on his behalf, shall have title to sue, or to defend, in any proceedings as respects those rights.
+
+(5) The parental rights supersede any analogous rights enjoyed by a parent at common law; but this section is without prejudice to any other right so enjoyed by him or to any right enjoyed by him by, under or by virtue of any other provision of this Act or of any other enactment.
+
+(6) The description of a person referred to in subsection (3) above is a person (whether or not a parent of the child) who for the time being has and is exercising in relation to him a right mentioned in paragraph (a) or (c) of subsection (1) above; except that, where both the child’s parents are persons so described, the consent required for his removal or retention shall be that of them both.
+
+(7) In this section, “child” means a person under the age of sixteen years.
+
+#### 3 Provisions relating both to parental responsibilities and to parental rights.
+
+(1) Notwithstanding section 1(1) of the [^M1]Law Reform (Parent and Child) (Scotland) Act 1986 (provision for disregarding whether a person’s parents are not, or have not been, married to one another in establishing the legal relationship between him and any other person)—
+
+(a) a child’s mother has parental responsibilities and parental rights in relation to him whether or not she is or has been married to [[^F3]or in a civil partnership with] his father; and
+
+(b) without prejudice to any arrangements which may be made under subsection (5) below and subject to any agreement which may be made under section 4 of this Act, his father has such responsibilities and rights in relation to him only if
+
+[[^F4](i)] married to [[^F5]or in a civil partnership with] the mother at the time of the child’s conception or subsequently, [[^F6]or
+
+(ii) where not married to [[^F7]or in a civil partnership with] the mother at that time or subsequently, the father is registered as the child's father under any of the enactments mentioned in subsection (1A).]
+
+[[^F8](c) without prejudice to any arrangements which may be made under subsection (5) below, where a child has a parent by virtue of section 42 of the Human Fertilisation and Embryology Act 2008, that parent has parental responsibilities and parental rights in relation to the child;
+
+(d) without prejudice to any arrangements which may be made under subsection (5) below and subject to any agreement which may be made under section 4A(1) of this Act, where a child has a parent by virtue of section 43 of the Human Fertilisation and Embryology Act 2008, that parent has parental responsibilities and parental rights in relation to the child if she is registered as a parent of the child under any of the enactments mentioned in subsection (3A).]
+
+[[^F9](1A) Those enactments are—
+
+(a) section 18(1)(a), (b)(i) and (c) and (2)(b) of the Registration of Births, Deaths and Marriages (Scotland) Act 1965 (c. 49);
+
+(b) sections 10(1)(a) to (e) and 10A(1)(a) to (e) of the Births and Deaths Registration Act 1953 (c. 20); and
+
+(c) article 14(3)(a) to (e) of the Births and Deaths Registration (Northern Ireland) Order 1976 (S.I. 1976/1041).]
+
+(2) For the purposes of subsection (1)(b) above, the father shall be regarded as having [[^F10]been—
+
+(a) married to the mother at any time when he was a party to a purported marriage with her which was—
+
+(i) voidable; or
+
+(ii) void but believed by them (whether by error of fact or law) in good faith at that time to be valid;
+
+(b) in a civil partnership with the mother at any time when he was a party to a purported civil partnership with her which was—
+
+(i) voidable; or
+
+(ii) void but believed by them (whether by error of fact or law) in good faith at that time to be valid.]
+
+(3) Subsection (1) above is without prejudice to any order made under section 11 of this Act or section 3(1) of the said Act of 1986 (provision analogous to the said section 11 but repealed by this Act) or to any other order, disposal or resolution affecting parental responsibilities or parental rights; and nothing in subsection (1) above or in this Part of this Act shall affect any other—
+
+(a) enactment (including any other provision of this Act or of that Act); or
+
+(b) rule of law,
+
+by, under or by virtue of which a person may have imposed on him (or be relieved of) parental responsibilities or may be granted (or be deprived of) parental rights.
+
+[[^F11](3A) Those enactments are—
+
+(a) paragraphs (a), (b) and (d) of section 18B(1) and section 18B(3)(a) of the Registration of Births, Deaths and Marriages (Scotland) Act 1965;
+
+(b) paragraphs (a), (b) and (c) of section 10(1B) and of section 10A(1B) of the Births and Deaths Registration Act 1953;
+
+(c) sub-paragraphs (a), (b) and (c) of Article 14ZA(3) of the Births and Deaths Registration (Northern Ireland) Order 1976.]
+
+(4) The fact that a person has parental responsibilities or parental rights in relation to a child shall not entitle that person to act in any way which would be incompatible with any court order relating to the child or the child’s property, or with any [[^F12]compulsory supervision order or interim compulsory supervision order (as defined in sections 83 and 86 respectively of the Children’s Hearings (Scotland) Act 2011 (asp 1)) that is in force in relation to the child.].
+
+(5) Without prejudice to [[^F13]sections 4(1) and 4A(1)] of this Act, a person who has parental responsibilities or parental rights in relation to a child shall not abdicate those responsibilities or rights to anyone else but may arrange for some or all of them to be fulfilled or exercised on his behalf; and without prejudice to that generality any such arrangement may be made with a person who already has parental responsibilities or parental rights in relation to the child concerned.
+
+(6) The making of an arrangement under subsection (5) above shall not affect any liability arising from a failure to fulfil parental responsibilities; and where any arrangements so made are such that the child is a foster child for the purposes of the [^M2]Foster Children (Scotland) Act 1984, those arrangements are subject to the provisions of that Act.
+
+#### 4 Acquisition of parental rights and responsibilities by natural father.
+
+(1) Where a child’s mother has not been deprived of some or all of the parental responsibilities and parental rights in relation to him and, by virtue of subsection (1)(b) of section 3 of this Act, his father has no parental responsibilities or parental rights in relation to him, the father and mother, whatever age they may be, may by agreement provide that, as from the appropriate date, the father shall have the parental responsibilities and parental rights which (in the absence of any order under section 11 of this Act affecting those responsibilities and rights) he would have if married to the mother.
+
+(2) No agreement under subsection (1) above shall have effect unless—
+
+(a) in a form prescribed by the Secretary of State; and
+
+(b) registered in the Books of Council and Session while the mother still has the parental responsibilities and parental rights which she had when the agreement was made.
+
+(3) The date on which such registration as is mentioned in subsection (2)(b) above takes place shall be the “appropriate date” for the purposes of subsection (1) above.
+
+(4) An agreement which has effect by virtue of subsection (2) above shall, subject only to section 11(11) of this Act, be irrevocable.
+
+#### 4A [[^F14]Acquisition of parental responsibilities and parental rights by second female parent by agreement with mother
+
+(1) Where—
+
+(a) a child's mother has not been deprived of some or all of the parental responsibilities and parental rights in relation to the child; and
+
+(b) the child has a parent by virtue of section 43 of the Human Fertilisation and Embryology Act 2008 and that parent is not registered as such under any of the enactments mentioned in section 3(3A),
+
+the mother and the other parent may by agreement provide that, as from the appropriate date, the other parent shall have the parental responsibilities and rights (in the absence of any order under section 11 of this Act affecting responsibilities and rights) as if the other parent were treated as a parent by virtue of section 42 of that Act of 2008.
+
+(2) Section 4(2), (3) and (4) applies in relation to an agreement under subsection (1) of this section as it applies in relation to an agreement under subsection (1) of section 4.]
+
+#### 5 Care or control of child by person without parental responsibilities or parental rights.
+
+(1) Subject to subsection (2) below, it shall be the responsibility of a person who has attained the age of sixteen years and who has care or control of a child under that age, but in relation to him either has no parental responsibilities or parental rights or does not have the parental responsibility mentioned in section 1(1)(a) of this Act, to do what is reasonable in all the circumstances to safeguard the child’s health, development and welfare; and in fulfilling his responsibility under this section the person may in particular, even though he does not have the parental right mentioned in section 2(1)(d) of this Act, give consent to any surgical, medical or dental treatment or procedure where—
+
+(a) the child is not able to give such consent on his own behalf; and
+
+(b) it is not within the knowledge of the person that a parent of the child would refuse to give the consent in question.
+
+(2) Nothing in this section shall apply to a person in so far as he has care or control of a child in a school (“school” having the meaning given by section 135(1) of the [^M3]Education (Scotland) Act 1980).
+
+#### 6 Views of children.
+
+(1) A person shall [[^F15]comply with subsections (1A) and (1D)], in reaching any major decision which involves—
+
+(a) his fulfilling a parental responsibility or the responsibility mentioned in section 5(1) of this Act; or
+
+(b) his exercising a parental right or giving consent by virtue of that section
+
+[^F16]....
+
+[[^F17](1A) The person must—
+
+(a) give the child an opportunity to express the child's views in—
+
+(i) the manner that the child prefers, or
+
+(ii) a manner that is suitable to the child if the child has not indicated a preference or it would not be reasonable in the circumstances to accommodate the child's preference, and
+
+(b) have regard to any views expressed by the child, taking into account the child's age and maturity.
+
+(1B) But the person is not required to comply with subsection (1A) if the person is satisfied that—
+
+(a) the child is not capable of forming a view, or
+
+(b) the location of the child is not known.
+
+(1C) In considering whether the child is capable of forming a view, the person is to start with the presumption that the child is.
+
+(1D) The person must, so far as is practicable, have regard to the views of any other person who has parental responsibilities or parental rights in relation to the child.]
+
+(2) A transaction entered into in good faith by a third party and a person acting as legal representative of a child shall not be challengeable on the ground only that the child, or a person with parental responsibilities or parental rights in relation to the child, was not consulted or that due regard was not given to his views before the transaction was entered into.
+
+### Guardianship
+
+#### 7 Appointment of guardians.
+
+(1) A child’s parent may appoint a person to be guardian of the child in the event of the parent’s death; but—
+
+(a) such appointment shall be of no effect unless—
+
+(i) in writing and signed by the parent; and
+
+(ii) the parent, at the time of death, was entitled to act as legal representative of the child (or would have been so entitled if he had survived until after the birth of the child); and
+
+(b) any parental responsibilities or parental rights (or the right to appoint a further guardian under this section) which a surviving parent has in relation to the child shall subsist with those which, by, under or by virtue of this Part of this Act, the appointee so has.
+
+(2) A guardian of a child may appoint a person to take his place as guardian in the event of the guardian’s death; but such appointment shall be of no effect unless in writing and signed by the person making it.
+
+(3) An appointment as guardian shall not take effect until accepted, either expressly or impliedly by acts which are not consistent with any other intention.
+
+(4) If two or more persons are appointed as guardians, any one or more of them shall, unless the appointment expressly provides otherwise, be entitled to accept office even if both or all of them do not accept office.
+
+(5) Subject to any order under section 11 or 86 of this Act, a person appointed as a child’s guardian under this section shall have, in respect of the child, the responsibilities imposed, and the rights conferred, on a parent by sections 1 and 2 of this Act respectively; and sections 1 and 2 of this Act shall apply in relation to a guardian as they apply in relation to a parent.
+
+(6) Without prejudice to the generality of subsection (1) of section 6 of this Act, a decision as to the appointment of a guardian under subsection (1) or (2) above shall be regarded for the purposes of that section (or of that section as applied by subsection (5) above) as a major decision which involves exercising a parental right.
+
+#### 8 Revocation and other termination of appointment.
+
+(1) An appointment made under section 7(1) or (2) of this Act revokes an earlier such appointment (including one made in an unrevoked will or codicil) made by the same person in respect of the same child, unless it is clear (whether as a result of an express provision in the later appointment or by any necessary implication) that the purpose of the later appointment is to appoint an additional guardian.
+
+(2) Subject to subsections (3) and (4) below, the revocation of an appointment made under section 7(1) or (2) of this Act (including one made in an unrevoked will or codicil) shall not take effect unless the revocation is in writing and is signed by the person making the revocation.
+
+(3) An appointment under section 7(1) or (2) of this Act (other than one made in a will or codicil) is revoked if, with the intention of revoking the appointment, the person who made it—
+
+(a) destroys the document by which it was made; or
+
+(b) has some other person destroy that document in his presence.
+
+(4) For the avoidance of doubt, an appointment made under section 7(1) or (2) of this Act in a will or codicil is revoked if the will or codicil is revoked.
+
+(5) Once an appointment of a guardian has taken effect under section 7 of this Act, then, unless the terms of the appointment provide for earlier termination, it shall terminate only by virtue of—
+
+(a) the child concerned attaining the age of eighteen years;
+
+(b) the death of the child or the guardian; or
+
+(c) the termination of the appointment by a court order under section 11 of this Act.
+
+### Administration of child’s property
+
+#### 9 Safeguarding of child’s property.
+
+(1) Subject to section 13 of this Act, this section applies where—
+
+(a) property is owned by or due to a child;
+
+(b) the property is held by a person other than a parent or guardian of the child; and
+
+(c) but for this section, the property would be required to be transferred to a parent having parental responsibilities in relation to the child or to a guardian for administration by that parent or guardian on behalf of the child.
+
+(2) Subject to subsection (4) below, where this section applies and the person holding the property is an executor or trustee, then—
+
+(a) if the value of the property exceeds £20,000, he shall; or
+
+(b) if that value is not less than £5,000 and does not exceed £20,000, he may,
+
+apply to the Accountant of Court for a direction as to the administration of the property.
+
+(3) Subject to subsection (4) below, where this section applies and the person holding the property is a person other than an executor or trustee, then, if the value of the property is not less than £5,000, that person may apply to the Accountant of Court for a direction as to the administration of the property.
+
+(4) Where the parent or guardian mentioned in subsection (1)(c) above has been appointed a trustee under a trust deed to administer the property concerned, subsections (2) and (3) above shall not apply, and the person holding the property shall transfer it to the parent or guardian.
+
+(5) On receipt of an application under subsection (2) or (3) above, the Accountant of Court may do one, or (in so far as the context admits) more than one, of the following—
+
+(a) apply to the court for the appointment of a judicial factor (whether or not the parent or guardian mentioned in subsection (1)(c) above) to administer all or part of the property concerned and in the event of the court making such an appointment shall direct that the property, or as the case may be part, concerned be transferred to the factor;
+
+(b) direct that all or part of the property concerned be transferred to himself;
+
+(c) direct that all or, in a case where the parent or guardian so mentioned has not been appointed by virtue of paragraph (a) above, part of the property concerned be transferred to the parent or guardian,
+
+to be administered on behalf of the child.
+
+(6) A direction under subsection (5)(c) above may include such conditions as the Accountant of Court considers appropriate, including in particular a condition—
+
+(a) that in relation to the property concerned no capital expenditure shall be incurred without his approval; or
+
+(b) that there shall be exhibited annually to him the securities and bank books which represent the capital of the estate.
+
+(7) A person who has applied under subsection (2) or (3) above for a direction shall not thereafter transfer the property concerned except in accordance with a direction under subsection (5) above.
+
+(8) The Secretary of State may from time to time prescribe a variation in any sum referred to in subsections (2) and (3) above.
+
+(9) In this section “child” means a person under the age of sixteen years who is habitually resident in Scotland.
+
+#### 10 Obligations and rights of person administering child’s property.
+
+(1) A person acting as a child’s legal representative in relation to the administration of the child’s property—
+
+(a) shall be required to act as a reasonable and prudent person would act on his own behalf; and
+
+(b) subject to any order made under section 11 of this Act, shall be entitled to do anything which the child, if of full age and capacity, could do in relation to that property;
+
+and subject to subsection (2) below, on ceasing to act as legal representative, shall be liable to account to the child for his intromissions with the child’s property.
+
+(2) No liability shall be incurred by virtue of subsection (1) above in respect of funds which have been used in the proper discharge of the person’s responsibility to safeguard and promote the child’s health, development and welfare.
+
+### Court Orders
+
+#### 11 Court orders relating to parental responsibilities etc.
+
+(1) In the relevant circumstances in proceedings in the Court of Session or sheriff court, whether those proceedings are or are not independent of any other action, an order may be made under this subsection in relation to—
+
+(a) parental responsibilities;
+
+(b) parental rights;
+
+(c) guardianship; or
+
+(d) subject to section 14(1) and (2) of this Act, the administration of a child’s property.
+
+[^F18]1A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) The court may make such order under subsection (1) above as it thinks fit; and without prejudice to the generality of that subsection may in particular so make any of the following orders—
+
+(a) an order depriving a person of some or all of his parental responsibilities or parental rights in relation to a child;
+
+(b) an order—
+
+(i) imposing upon a person (provided he is at least sixteen years of age or is a parent of the child) such responsibilities; and
+
+(ii) giving that person such rights;
+
+(c) an order regulating the arrangements as to—
+
+(i) with whom; or
+
+(ii) if with different persons alternately or periodically, with whom during what periods,
+
+a child under the age of sixteen years is to live (any such order being known as a “residence order”);
+
+(d) an order regulating the arrangements for maintaining personal relations and direct contact between a child under that age and a person with whom the child is not, or will not be, living (any such order being known as a “contact order”);
+
+(e) an order regulating any specific question which has arisen, or may arise, in connection with any of the matters mentioned in paragraphs (a) to (d) of subsection (1) of this section (any such order being known as a “specific issue order”);
+
+(f) an interdict prohibiting the taking of any step of a kind specified in the interdict in the fulfillment of parental responsibilities or the exercise of parental rights relating to a child or in the administration of a child’s property;
+
+(g) an order appointing a judicial factor to manage a child’s property or remitting the matter to the Accountant of Court to report on suitable arrangements for the future management of the property; or
+
+(h) an order appointing or removing a person as guardian of the child.
+
+[[^F19](2A) An order doing any of the things mentioned in subsection (2) is to be regarded as an order in relation to at least one of the matters mentioned in subsection (1).]
+
+(3) The relevant circumstances mentioned in subsection (1) above are—
+
+(a) that application for an order under that subsection is made by a person who—
+
+(i) not having, and never having had, parental responsibilities or parental rights in relation to the child, claims an interest;
+
+(ii) has parental responsibilities or parental rights in relation to the child;
+
+[^F20]iii . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[[^F21](aa) that application for a contact order is made with the leave of the court by a person whose parental responsibilities or parental rights in relation to the child were extinguished on the making of an adoption order;
+
+(ab) that application for an order under subsection (1) above [^F22]... is made by a person who has had, but for a reason other than is mentioned in subsection (4) below, no longer has, parental responsibilities or parental rights in relation to the child;]
+
+(b) that although no [[^F23]application for an order under subsection (1) above] has been made, the court (even if it declines to make any other order) considers it should make such an order.
+
+(4) The reasons referred to in [[^F24](3)(ab)] above are that the parental responsibilities or parental rights have been—
+
+(a) extinguished on the making of an adoption order; [[^F25] or]
+
+[^F26]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(c) extinguished by virtue of [[^F27]section 55(1) of the Human Fertilisation and Embryology Act 2008 (parental orders: supplementary provision)] on the making of a parental order under [[^F28]section 54 [[^F29]or 54A] of that Act]; [^F30]. . .
+
+[^F30]d . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) In subsection (3)(a) [[^F31]and (ab)] above “person” includes (without prejudice to the generality of that subsection) the child concerned; but it does not include a local authority.
+
+(6) In [[^F32]subsections (3)(aa) and (4)] above—
+
+[^F33]. . . “adoption order” [[^F34]has the meaning given by section 119 of the Adoption and Children (Scotland) Act 2007 (asp 4)].
+
+(7) Subject to subsection (8) below, in considering whether or not to make an order under subsection (1) above and what order to make, the court—
+
+(a) shall regard the welfare of the child concerned as its paramount consideration and shall not make any such order unless it considers that it would be better for the child that the order be made than that none should be made at all; and
+
+(b) taking account of the child’s age and maturity, shall so far as practicable—
+
+(i) give him an opportunity to indicate whether he wishes to express his views;
+
+(ii) if he does so wish, give him an opportunity to express them; and
+
+(iii) have regard to such views as he may express.
+
+[[^F35](7A) In carrying out the duties imposed by subsection (7)(a) above, the court shall have regard in particular to the matters mentioned in subsection (7B) below.
+
+(7B) Those matters are—
+
+(a) the need to protect the child from—
+
+(i) any abuse; or
+
+(ii) the risk of any abuse,
+
+which affects, or might affect, the child;
+
+(b) the effect such abuse, or the risk of such abuse, might have on the child;
+
+(c) the ability of a person—
+
+(i) who has carried out abuse which affects or might affect the child; or
+
+(ii) who might carry out such abuse,
+
+to care for, or otherwise meet the needs of, the child; and
+
+(d) the effect any abuse, or the risk of any abuse, might have on the carrying out of responsibilities in connection with the welfare of the child by a person who has (or, by virtue of an order under subsection (1), would have) those responsibilities.
+
+(7C) In subsection (7B) above—
+
+- “abuse” includes —
+
+  - (a) violence, harassment, threatening conduct and any other conduct giving rise, or likely to give rise, to physical or mental injury, fear, alarm or distress;
+  - (b) abuse of a person other than the child; and
+  - (c) domestic abuse;
+
+- “conduct” includes—
+
+  - (a) speech; and
+  - (b) presence in a specified place or area.
+
+(7D) Where—
+
+(a) the court is considering making an order under subsection (1) above; and
+
+(b) in pursuance of the order two or more relevant persons would have to co-operate with one another as respects matters affecting the child,
+
+the court shall consider whether it would be appropriate to make the order.
+
+(7E) In subsection (7D) above, “relevant person”, in relation to a child, means—
+
+(a) a person having parental responsibilities or parental rights in respect of the child; or
+
+(b) where a parent of the child does not have parental responsibilities or parental rights in respect of the child, a parent of the child.]
+
+(8) The court shall, notwithstanding subsection (7) above, endeavour to ensure that any order which it makes, or any determination by it not to make an order, does not adversely affect the position of a person who has, in good faith and for value, acquired any property of the child concerned, or any right or interest in such property.
+
+(9) Nothing in paragraph (b) of subsection (7) above requires a child to be legally represented, if he does not wish to be, in proceedings in the course of which the court implements that paragraph.
+
+(10) Without prejudice to the generality of paragraph (b) of subsection (7) above, a child twelve years of age or more shall be presumed to be of sufficient age and maturity to form a view for the purposes both of that paragraph and of subsection (9) above.
+
+(11) An order under subsection (1) above shall have the effect of depriving a person of a parental responsibility or parental right only in so far as the order expressly so provides and only to the extent necessary to give effect to the order; but in making any such order as is mentioned in paragraph (a) or (b) of subsection (2) above the court may revoke any agreement which, in relation to the child concerned, has effect by virtue of section 4(2) [[^F36]or 4A(2)] of this Act.
+
+(12) Where the court makes a residence order which requires that a child live with a person who, immediately before the order is made does not have in relation to the child all the parental responsibilities mentioned in paragraphs (a), (b) and (d) of section 1(1), and the parental rights mentioned in paragraphs (b) and (d) of section 2(1), of this Act (those which he does not so have being in this subsection referred to as the “relevant responsibilities and rights”) that person shall, subject to the provisions of the order or of any other order made under subsection (1) above, have the relevant responsibilities and rights while the residence order remains in force.
+
+(13) Any reference in this section to an order includes a reference to an interim order or to an order varying or discharging an order.
+
+#### 11A [[^F37]Restriction on making of orders under section 11
+
+(1) Subsection (2) applies where a permanence order (as defined in section 80(2) of the Adoption and Children (Scotland) Act 2007 (asp 4)) is in force in respect of a child.
+
+(2) The court may not, under subsection (1) of section 11 of this Act, make an order such as is mentioned in any of paragraphs (a) to (e) of subsection (2) of that section.]
+
+#### 12 Restrictions on decrees for divorce, separation or annulment affecting children.
+
+(1) In any action for
+
+[[^F38](a)] divorce, judicial separation or declarator of nullity of marriage,[[^F39] or
+
+(b) dissolution or declarator of nullity of a civil partnership or separation of civil partners,]
+
+the court shall, where this section applies, consider (in the light of such information as is before the court as to the arrangements which have been, or are proposed to be, made for the upbringing of each child by virtue of which it applies) whether to exercise with respect to him the powers conferred by section 11 [[^F40]of this Act or section 62 of the Children's Hearings (Scotland) Act 2011] .
+
+(2) Where, in any case to which this section applies, the court is of the opinion that—
+
+(a) the circumstances of the case require, or are likely to require, it to exercise any power under section 11 [[^F41]of this Act or section 62 of the Children's Hearings (Scotland) Act 2011] with respect to the child concerned;
+
+(b) it is not in a position to exercise that power without giving further consideration to the case; and
+
+(c) there are exceptional circumstances which make it desirable in the interests of that child that it should not grant decree in the action until it is in a position to exercise such a power,
+
+it shall postpone its decision on the granting of decree in the action until it is in such a position.
+
+(3) This section applies where a child of the family has not reached the age of sixteen years at the date when the question first arises as to whether the court should give such consideration as is mentioned in subsection (1) above.
+
+[[^F42](4) In this section “child of the family”, in relation to the parties to a marriage or civil partnership, means a child—
+
+(a) of both of them; or
+
+(b) who has been treated by both of them as a child of their family, not being a child who is placed with them as foster parents by a local authority or voluntary organisation.]
+
+#### 13 Awards of damages to children.
+
+(1) Where in any court proceedings a sum of money becomes payable to, or for the benefit of, a child under the age of sixteen years, the court may make such order relating to the payment and management of the sum for the benefit of the child as it thinks fit.
+
+(2) Without prejudice to the generality of subsection (1) above, the court may in an order under this section—
+
+(a) appoint a judicial factor to invest, apply or otherwise deal with the money for the benefit of the child concerned;
+
+(b) order the money to be paid—
+
+(i) to the sheriff clerk or the Accountant of Court; or
+
+(ii) to a parent or guardian of that child,
+
+to be invested, applied or otherwise dealt with, under the directions of the court, for the benefit of that child; or
+
+(c) order the money to be paid directly to that child.
+
+(3) Where payment is made to a person in accordance with an order under this section, a receipt given by him shall be a sufficient discharge of the obligation to make the payment.
+
+### Jurisdiction and choice of law
+
+#### 14 Jurisdiction and choice of law in relation to certain matters.
+
+(1) The Court of Session shall have jurisdiction to entertain an application for an order relating to the administration of a child’s property if the child is habitually resident in, or the property is situated in, Scotland.
+
+(2) A sheriff shall have jurisdiction to entertain such an application if the child is habitually resident in, or the property is situated in, the sheriffdom.
+
+(3) Subject to subsection (4) below, any question arising under this Part of this Act—
+
+(a) concerning—
+
+(i) parental responsibilities or parental rights; or
+
+(ii) the responsibilities or rights of a guardian,
+
+in relation to a child shall, in so far as it is not also a question such as is mentioned in paragraph (b) below, be determined by the law of the place of the child’s habitual residence at the time when the question arises;
+
+(b) concerning the immediate protection of a child shall be determined by the law of the place where the child is when the question arises; and
+
+(c) as to whether a person is validly appointed or constituted guardian of a child shall be determined by the law of the place of the child’s habitual residence on the date when the appointment was made (the date of death of the testator being taken to be the date of appointment where an appointment was made by will), or the event constituting the guardianship occurred.
+
+(4) Nothing in any provision of law in accordance with which, under subsection (3) above, a question which arises in relation to an application for, or the making of, an order under subsection (1) of section 11 of this Act falls to be determined, shall affect the application of subsection (7) of that section.
+
+[^F43]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Interpretation
+
+#### 15 Interpretation of Part I.
+
+(1) In this Part of this Act—
+
+- “child” means, where the expression is not otherwise defined, a person under the age of eighteen years;
+- “contact order” has the meaning given by section 11(2)(d) of this Act;
+- “parent”, in relation to any person, means, subject to Part IV of the [^M4]Adoption (Scotland) Act 1978 and sections 27 to 30 of the [^M5]Human Fertilisation and Embryology Act 1990 [[^F44]and Part 2 of the Human Fertilisation and Embryology Act 2008] and any regulations made under [[^F45]section 55(1) of that Act of 2008][[^F46]and Chapter 3 of Part 1 of the Adoption and Children (Scotland) Act 2007 (asp 4)], someone, of whatever age, who is that person’s genetic father or mother;
+- “parental responsibilities” has the meaning given by section 1(3) of this Act;
+- “parental rights” has the meaning given by section 2(4) of this Act;
+- “residence order” has the meaning given by section 11(2)(c) of this Act;
+- “specific issue order” has the meaning given by section 11(2)(e) of this Act; and
+- “transaction” has the meaning given by section 9 of the [^M6]Age of Legal Capacity (Scotland) Act 1991 (except that, for the purposes of subsection (5)(b) below, paragraph (d) of the definition in question shall be disregarded).
+
+(2) No provision in this Part of this Act shall affect any legal proceedings commenced, or any application made to a court, before that provision comes into effect; except that where, before section 11 of this Act comes into force, there has been final decree in a cause in which, as respects a child, an order for custody or access, or an order which is analogous to any such order as is mentioned in subsection (2) of that section, has been made, any application on or after the date on which the section does come into force for variation or recall of the order shall proceed as if the order had been made under that section.
+
+(3) In subsection (2) above, the reference to final decree is to a decree or interlocutor which, taken by itself or along with previous interlocutors, disposes of the whole subject matter of the cause.
+
+(4) Any reference in this Part of this Act to a person—
+
+(a) having parental rights or responsibilities;
+
+(b) acting as a legal representative; or
+
+(c) being appointed a guardian,
+
+is to a natural person only.
+
+(5) Any reference in this Part of this Act to a person acting as the legal representative of a child is a reference to that person, in the interests of the child—
+
+(a) administering any property belonging to the child; and
+
+(b) acting in, or giving consent to, any transaction where the child is incapable of so acting or consenting on his own behalf.
+
+(6) Where a child has legal capacity to sue, or to defend, in any civil proceedings, he may nevertheless consent to be represented in those proceedings by any person who, had the child lacked that capacity, would have had the responsibility to act as his legal representative.
+
+[[^F47](7) No provision in this Part of this Act shall permit a person to give a consent to the storage of gametes under the Human Fertilisation and Embryology Act 1990 on behalf of a child.]
+
+## Part II — Promotion of Children’s Welfare by Local Authorities and by Children’s Hearings etc.
+
+### Chapter 1 — Support for Children and Their Families
+
+#### Introductory
+
+##### 16 Welfare of child and consideration of his views.
+
+(1) Where under or by virtue of this Part of this Act, [^F48]... a court determines, any matter with respect to a child the welfare of that child throughout his childhood shall be [^F49]... its paramount consideration.
+
+[[^F50](1A) When considering the child's welfare, the court is to have regard to any risk of prejudice to the child's welfare that delay in proceedings would pose.]
+
+(2) In the circumstances mentioned in subsection (4) below, [^F51]... the sheriff, taking account of the age and maturity of the child concerned, shall so far as practicable—
+
+(a) give him an opportunity to indicate whether he wishes to express his views;
+
+(b) if he does so wish, give him an opportunity to express them; and
+
+(c) have regard to such views as he may express;
+
+and without prejudice to the generality of this subsection a child twelve years of age or more shall be presumed to be of sufficient age and maturity to form a view.
+
+(3) In the circumstances mentioned in subsection [[^F52](4) ] of this section, no [^F53]... order so mentioned shall be made with respect to the child concerned unless [^F54]... the sheriff considers, that it would be better for the child that the [^F53]... order be made than that none should be made at all.
+
+[[^F55](4) The circumstances to which subsection (2) refers are that the sheriff is considering whether to make, vary or discharge an exclusion order.]
+
+(5) If, for the purpose of protecting members of the public from serious harm (whether or not physical harm)—
+
+[^F56]a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) a court considers it necessary to make a determination under or by virtue of [[^F57]Chapter 1 or 3] of this Part of this Act which (but for this paragraph) would not be consistent with its affording such paramountcy, it may make that determination.
+
+##### 17 Duty of local authority to child looked after by them.
+
+(1) Where a child is looked after by a local authority they shall, in such manner as the Secretary of State may prescribe—
+
+(a) safeguard and promote his welfare (which shall, in the exercise of their duty to him be their paramount concern);
+
+(b) make such use of services available for children cared for by their own parents as appear to the authority reasonable in his case; [^F58]...
+
+(c) take such steps to promote, on a regular basis, personal relations and direct contact between the child and any person with parental responsibilities in relation to him as appear to them to be, having regard to their duty to him under paragraph (a) above, both practicable and appropriate [[^F59]; and
+
+(d) take such steps to promote, on a regular basis, personal relations and direct contact between the child and any person mentioned in subsection (1A) as appear to them to be appropriate having regard to their duty to the child under paragraph (a).]
+
+[[^F60](1A) The persons referred to in subsection (1)(d) are—
+
+(a) a sibling of the child, and
+
+(b) any other person with whom the child has lived and with whom the child has an ongoing relationship with the character of a relationship between siblings.
+
+(1B) For the purposes of subsection (1A), two people are siblings if they have at least one parent in common.]
+
+(2) The duty under paragraph (a) of subsection (1) above includes, without prejudice to that paragraph’s generality, the duty of providing advice and assistance with a view to preparing the child for when he is no longer looked after by a local authority.
+
+(3) Before making any decision with respect to a child whom they are looking after, or proposing to look after, a local authority shall, so far as is reasonably practicable, ascertain the views of—
+
+(a) the child;
+
+(b) his parents;
+
+(c) any person who is not a parent of his but who has parental rights in relation to him; [^F61]...
+
+[[^F62](ca) any person mentioned in subsection (1A); and]
+
+(d) any other person whose views the authority consider to be relevant,
+
+regarding the matter to be decided.
+
+(4) In making any such decision a local authority shall have regard so far as practicable—
+
+(a) to the views (if he wishes to express them) of the child concerned, taking account of his age and maturity;
+
+(b) to such views of any person mentioned in subsection (3)(b) to (d) above as they have been able to ascertain; and
+
+(c) to the child’s religious persuasion, racial origin and cultural and linguistic background.
+
+(5) If, for the purpose of protecting members of the public from serious harm (whether or not physical harm) a local authority consider it necessary to exercise, in a manner which (but for this paragraph) would not be consistent with their duties under this section, their powers with respect to a child whom they are looking after, they may do so.
+
+(6) Any reference in this Chapter of this Part to a child who is “looked after” by a local authority, is to a child—
+
+(a) for whom they are providing accommodation under section 25 of this Act;
+
+[[^F63](b) who is subject to a compulsory supervision order or an interim compulsory supervision order and in respect of whom they are the implementation authority (within the meaning of the Children's Hearings (Scotland) Act 2011);]
+
+[^F64]c . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(d) who is subject to an order in accordance with which, by virtue of regulations made under section 33(1) of this Act [[^F65]or section 190 of the Children’s Hearings (Scotland) Act 2011 (asp 1) (effect of Orders made outwith Scotland)], they have [[^F66]responsibilities as respects the child ] [[^F67]; or
+
+(e) in respect of whom a permanence order has, on an application by them under section 80 of the Adoption and Children (Scotland) Act 2007 (asp 4), been made and has not ceased to have effect.]
+
+(7) Regulations made by the Secretary of State under subsection (1) above may, without prejudice to the generality of that subsection, include—
+
+(a) provision as to the circumstances in which the child may be cared for by the child’s own parents; and
+
+(b) procedures which shall be followed in the event of the child’s death.
+
+##### 17A [[^F68]Detained children to be treated as looked after children
+
+(1) This section applies where a child is detained in secure accommodation by virtue of section 51(1)(a), 205(2), 208(1) or, as the case may be, 216(7) of the Criminal Procedure (Scotland) Act 1995.
+
+(2) The relevant local authority in relation to the child has the same duties towards the child as it would have by virtue of sections 17, 29, 30 and 31 if the child were looked after by that local authority.
+
+(3) In subsection (2), the “relevant local authority”, in relation to a child, has the same meaning as in section 201 of the Children’s Hearings (Scotland) Act 2011]
+
+##### 18 Duty of persons with parental responsibilities to notify change of address to local authority looking after child.
+
+(1) Where a child is being looked after by a local authority, each natural person who has parental responsibilities in relation to the child shall, without unreasonable delay, inform that authority whenever the person changes his address.
+
+(2) A person who knowingly fails to comply with the requirement imposed by subsection (1) above shall be liable on summary conviction to a fine of level 1 on the standard scale; but in any proceedings under this section it shall be a defence that—
+
+(a) the change was to the same address as that to which another person who at that time had parental responsibilities in relation to the child was changing; and
+
+(b) the accused had reasonable cause to believe that the other person had informed the authority of the change of address of them both.
+
+#### Provision of services
+
+##### [^F69]19 Local authority plans for services for children.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### 20 Publication of information about services for children.
+
+(1) A local authority shall, within such period after the coming into force of this section as the Secretary of State may direct, and thereafter from time to time, prepare and publish information—
+
+(a) about relevant services which are provided by them for or in respect of children (including, without prejudice to that generality, services for or in respect of disabled children or children otherwise affected by disability) in their area or by any other local authority for those children; and
+
+(b) where they consider it appropriate, about services which are provided by voluntary organisations and by other persons for those children, being services which the authority have power to provide and which, were they to do so, they would provide as relevant services.
+
+[[^F70](2) In subsection (1) above, “relevant services” means services provided by a local authority under or by virtue of—
+
+(a) this Part of this Act;
+
+(b) the Children's Hearings (Scotland) Act 2011;
+
+(c) Part 12 or 13 of the Children and Young People (Scotland) Act 2014; or
+
+(d) any of the enactments mentioned in section 5(1B)(a) to (n), (r) or (t) of the Social Work (Scotland) Act 1968.]
+
+##### 21 Co-operation between authorities.
+
+(1) Where it appears to a local authority that an appropriate person could, by doing certain things, help in the exercise of any of their functions under this Part of this Act, they may, specifying what those things are, request the help of that person.
+
+(2) For the purposes of subsection (1) above, persons who are appropriate are—
+
+(a) any other local authority;
+
+(b) a health board constituted under section 2 of the [^M7]National Health Service (Scotland) Act 1978;
+
+(c) a national health service trust established under section 12A of that Act; and
+
+(d) any person authorised by the Secretary of State for the purposes of this section;
+
+and an appropriate person receiving such a request shall comply with it provided that it is compatible with their own statutory or other duties and obligations and (in the case of a person not a natural person) does not unduly prejudice the discharge of any of their functions.
+
+##### 22 Promotion of welfare of children in need.
+
+(1) A local authority shall—
+
+(a) safeguard and promote the welfare of children in their area who are in need; and
+
+(b) so far as is consistent with that duty, promote the upbringing of such children by their families,
+
+by providing a range and level of services appropriate to the children’s needs.
+
+(2) In providing services under subsection (1) above, a local authority shall have regard so far as practicable to each child’s religious persuasion, racial origin and cultural and linguistic background.
+
+(3) Without prejudice to the generality of subsection (1) above—
+
+(a) a service may be provided under that subsection—
+
+(i) for a particular child;
+
+(ii) if provided with a view to safeguarding or promoting his welfare, for his family; or
+
+(iii) if provided with such a view, for any other member of his family; and
+
+(b) the services mentioned in that subsection may include giving assistance in kind or, in exceptional circumstances, in cash.
+
+(4) Assistance such as is mentioned in subsection (3)(b) above may be given unconditionally or subject to conditions as to the repayment, in whole or in part, of it or of its value; but before giving it, or imposing such conditions, the local authority shall have regard to the means of the child concerned and of his parents and no condition shall require repayment by a person at any time when in receipt of—
+
+[[^F71](za) universal credit under Part 1 of the Welfare Reform Act 2012;]
+
+(a) income supportor [[^F72]working families’ tax credit] payable under the [^M8]Social Security Contributions and Benefits Act 1992;
+
+[^F73][aa any element of child tax credit other than the family element or working tax credit;] or
+
+(b) an income-based jobseeker’s allowance payable under the [^M9]Jobseekers Act 1995[[^F74]; or
+
+(c) an income-related allowance under Part 1 of the Welfare Reform Act 2007 (employment and support allowance).]
+
+##### 23 Children affected by disability.
+
+(1) Without prejudice to the generality of subsection (1) of section 22 of this Act, services provided by a local authority under that subsection shall be designed—
+
+(a) to minimise the effect on any—
+
+(i) disabled child who is within the authority’s area, of his disability; and
+
+(ii) child who is within that area and is affected adversely by the disability of any other person in his family, of that other person’s disability; and
+
+(b) to give those children the opportunity to lead lives which are as normal as possible.
+
+(2) For the purposes of this Chapter of this Part a person is disabled if he is chronically sick or disabled or [[^F75]has a mental disorder (as defined in section 328(1) of the Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13))].
+
+(3) Where requested to do so by [[^F76]—
+
+(a)] a child’s parent or guardian [[^F77]; or
+
+(b) a mental health officer (as defined in section 329 of the Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13)) who—
+
+(i) has responsibility under that Act or the Criminal Procedure (Scotland) Act 1995 (c. 46) for a child’s case; and
+
+(ii) makes the request for the purposes of either of those Acts,]
+
+a local authority shall, for the purpose of facilitating the discharge of such duties as the authority may have under section 22(1) of this Act (whether or not by virtue of subsection (1) above) as respects the child, carry out an assessment of the child, or of any other person in the child’s family, to determine the needs of the child in so far as attributable to his disability or to that of the other person.
+
+[[^F78](4) In determining the needs of a child under subsection (3) above, the local authority shall take account—
+
+[[^F79](a) if an adult carer provides, or intends to provide, care for the child, of the care provided by that carer,
+
+(aa) if a young carer provides, or intends to provide, care for the child, of the care provided by that carer,]
+
+(b) in so far as it is reasonable and practicable to do so, of—
+
+(i) the views of the parent or guardian of the child, and the child; [^F80]...
+
+[^F80]ii . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+provided that the parent, guardian, [[^F81]or child] in question has a wish, or as the case may be, a capacity, to express a view.]
+
+[[^F82](5) In subsection (4)(a) and (aa), the reference to the care provided by a carer means—
+
+(a) in the case of an adult carer who has an adult carer support plan, the information about that care set out in that plan,
+
+(b) in the case of a young carer who has a young carer statement, the information about that care set out in that statement.
+
+(6) In—
+
+(a) determining the needs of a child under subsection (3),
+
+(b) deciding whether to provide any services under section 22(1), and
+
+(c) deciding how any such services are to be provided,
+
+a local authority must take account of the views of the carer, in so far as it is reasonable and practicable to do so.
+
+(7) In this section—
+
+- “adult carer” and “adult carer support plan” have the meanings given by the Carers (Scotland) Act 2016,
+- “young carer” and “young carer statement” have the meanings given by the Carers (Scotland) Act 2016.]
+
+##### 23A [[^F83]Sections 17, 22 and 26A: consideration of wellbeing
+
+(1) This section applies where a local authority is exercising a function under or by virtue of section 17, 22 or 26A of this Act.
+
+(2) The local authority must have regard to the general principle that functions should be exercised in relation to children and young people in a way which is designed to safeguard, support and promote their wellbeing.
+
+(3) For the purpose of subsection (2) above, the local authority is to assess the wellbeing of a child or young person by reference to the extent to which the matters listed in section 96(2) of the 2014 Act are or, as the case may be, would be satisfied in relation to the child or young person.
+
+(4) In assessing the wellbeing of a child or young person as mentioned in subsection (3) above, a local authority is to have regard to the guidance issued under section 96(3) of the 2014 Act.
+
+(5) In this section, “the 2014 Act” means the Children and Young People (Scotland) Act 2014.]
+
+##### [^F84]24 Assessment of ability of carers to provide care for disabled children.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### [^F85]24A Duty of local authority to provide information to carer of disabled child
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### 25 Provision of accommodation for children, etc.
+
+(1) A local authority shall provide accommodation for any child who, residing or having been found within their area, appears to them to require such provision because—
+
+(a) no-one has parental responsibility for him;
+
+(b) he is lost or abandoned; or
+
+(c) the person who has been caring for him is prevented, whether or not permanently and for whatever reason, from providing him with suitable accommodation or care.
+
+(2) Without prejudice to subsection (1) above, a local authority may provide accommodation for any child within their area if they consider that to do so would safeguard or promote his welfare.
+
+(3) A local authority may provide accommodation for any person within their area who is at least eighteen years of age but not yet twenty-one, if they consider that to do so would safeguard or promote his welfare.
+
+(4) A local authority providing accommodation under subsection (1) above for a child who is ordinarily resident in the area of another local authority shall notify the other authority, in writing, that such provision is being made; and the other authority may at any time take over the provision of accommodation for the child.
+
+(5) Before providing a child with accommodation under this section, a local authority shall have regard, so far as practicable, to his views (if he wishes to express them), taking account of his age and maturity; and without prejudice to the generality of this subsection a child twelve years of age or more shall be presumed to be of sufficient age and maturity to form a view.
+
+(6) Subject to subsection (7) below—
+
+(a) a local authority shall not provide accommodation under this section for a child if any person who—
+
+(i) has parental responsibilities in relation to him and the parental rights mentioned in section 2(1)(a) and (b) of this Act; and
+
+(ii) is willing and able either to provide, or to arrange to have provided, accommodation for him,
+
+objects; and
+
+(b) any such person may at any time remove the child from accommodation which has been provided by the local authority under this section.
+
+(7) Paragraph (a) of subsection (6) above does not apply—
+
+(a) as respects any child who, being at least sixteen years of age, agrees to be provided with accommodation under this section; or
+
+(b) where a residence order has been made in favour of one or more persons and that person has, or as the case may be those persons have, agreed that the child should be looked after in accommodation provided by, or on behalf of, the local authority;
+
+and paragraph (b) of that subsection does not apply where accommodation has been provided for a continuous period of at least six months (whether by a single local authority or, by virtue of subsection (4) above, by more than one local authority), unless the person removing the child has given the local authority for the time being making such provision at least fourteen days’ notice in writing of his intention to remove the child.
+
+(8) In this Part of this Act, accommodation means, except where the context otherwise requires, accommodation provided for a continuous period of more than twenty-four hours.
+
+##### 26 Manner of provision of accommodation to child looked after by local authority.
+
+(1) A local authority may provide accommodation for a child looked after by them by—
+
+(a) placing him with—
+
+(i) a family (other than such family as is mentioned in paragraph (a) or (b) of the definition of that expression in section 93(1) of this Act);
+
+(ii) a relative of his; or
+
+(iii) any other suitable person
+
+[^F86]. . . ;
+
+(b) maintaining him in a residential establishment; or
+
+(c) making such other arrangements as appear to them to be appropriate, including (without prejudice to the generality of this paragraph) making use of such services as are referred to in section 17(1)(b) of this Act.
+
+(2) A local authority may arrange for a child whom they are looking after—
+
+(a) to be placed, under subsection (1)(a) above, with a person in England and Wales or in Northern Ireland; or
+
+(b) to be maintained in any accommodation in which—
+
+(i) [^F87]a local authority in England and Wales could maintain him by virtue of section 23(2)(b) to (e) of the [^M10][^F87]Children Act 1989; or
+
+[[^F87]a local authority in England and Wales could place the child in a placement falling within section 22C(6)(c) of the Children Act 1989;]
+
+(ii) an authority within the meaning of the [^M11]Children (Northern Ireland) Order 1995 could maintain him by virtue of [[^F88]Article 27(2)(aa)] of that Order.
+
+##### 26A [[^F89]Provision of continuing care: looked after children
+
+(1) This section applies where an eligible person ceases to be looked after by a local authority.
+
+(2) An “eligible person” is a person who—
+
+(a) is at least sixteen years of age, and
+
+(b) is not yet such higher age as may be specified.
+
+(3) Subject to subsection (5) below, the local authority must provide the person with continuing care.
+
+(4) “Continuing care” means the same accommodation and other assistance as was being provided for the person by the authority, in pursuance of this Chapter of this Part, immediately before the person ceased to be looked after.
+
+(5) The duty to provide continuing care does not apply if—
+
+(a) the accommodation the person was in immediately before ceasing to be looked after was secure accommodation,
+
+(b) the accommodation the person was in immediately before ceasing to be looked after was a care placement and the carer has indicated to the authority that the carer is unable or unwilling to continue to provide the placement, or
+
+(c) the local authority considers that providing the care would significantly adversely affect the welfare of the person.
+
+(6) A local authority's duty to provide continuing care lasts, subject to subsection (7) below, until the expiry of such period as may be specified.
+
+(7) The duty to provide continuing care ceases if—
+
+(a) the person leaves the accommodation of the person's own volition,
+
+(b) the accommodation ceases to be available, or
+
+(c) the local authority considers that continuing to provide the care would significantly adversely affect the welfare of the person.
+
+(8) For the purposes of subsection (7)(b) above, the situations in which accommodation ceases to be available include—
+
+(a) in the case of a care placement, where the carer indicates to the authority that the carer is unable or unwilling to continue to provide the placement,
+
+(b) in the case of a residential establishment provided by the local authority, where the authority closes the establishment,
+
+(c) in the case of a residential establishment provided under arrangements made by the local authority, where the arrangements come to an end.
+
+(9) The Scottish Ministers may by order—
+
+(a) make provision about when or how a local authority is to consider whether subsection (5)(c) or (7)(c) above is the case,
+
+(b) modify subsection (5) above so as to add, remove or vary a situation in which the duty to provide continuing care does not apply,
+
+(c) modify subsection (7) or (8) above so as to add, remove or vary a situation in which the duty to provide continuing care ceases.
+
+(10) If a local authority becomes aware that a person who is being provided with continuing care has died, the local authority must as soon as reasonably practicable notify—
+
+(a) the Scottish Ministers, and
+
+(b) Social Care and Social Work Improvement Scotland.
+
+(11) An order under this section—
+
+(a) may make different provision for different purposes,
+
+(b) is subject to the affirmative procedure.
+
+(12) Before making an order under this section, the Scottish Ministers must consult—
+
+(a) each local authority, and
+
+(b) such other persons as they consider appropriate.
+
+(13) In this section—
+
+- “carer”, in relation to a care placement, means the family or persons with whom the placement is made,
+- “care placement” means a placement such as is mentioned in section 26(1)(a) of this Act,
+- “specified” means specified by order made the Scottish Ministers.]
+
+##### 27 Day care for pre-school and other children.
+
+(1) Each local authority shall provide such day care for children in need within their area who—
+
+(a) are aged five or under; and
+
+(b) have not yet commenced attendance at a school,
+
+as is appropriate; and they may provide such day care for children within their area who satisfy the conditions mentioned in paragraphs (a) and (b) but are not in need.
+
+[[^F90](1A) A local authority must, at least once every two years—
+
+(a) consult such persons as appear to be representative of parents of children in need within their area who satisfy the conditions mentioned in paragraphs (a) and (b) of subsection (1) above about how they should provide day care for such children in pursuance of that subsection; and
+
+(b) after having had regard to the views expressed, prepare and publish their plans for how they intend to provide day care for such children in pursuance of that subsection.
+
+(1B) A local authority must, at least once every two years—
+
+(a) consult such persons as appear to be representative of parents of children within their area who satisfy the conditions mentioned in paragraphs (a) and (b) of subsection (1) above but are not in need about whether and if so how they should provide day care for such children under that subsection; and
+
+(b) after having had regard to the views expressed, prepare and publish their plans in relation to the provision of day care for such children under that subsection.]
+
+(2) A local authority may provide facilities (including training, advice, guidance and counselling) for those—
+
+(a) caring for children in day care; or
+
+(b) who at any time accompany such children while they are in day care.
+
+(3) Each local authority shall provide for children in need within their area who are in attendance at a school such care—
+
+(a) outside school hours; or
+
+(b) during school holidays,
+
+as is appropriate; and they may provide such care for children within their area who are in such attendance but are not in need.
+
+[[^F91](3A) A local authority must, at least once every two years—
+
+(a) consult such persons as appear to be representative of parents of children in need within their area who are in attendance at a school about how they should provide appropriate care for such children in pursuance of subsection (3) above; and
+
+(b) after having had regard to the views expressed, prepare and publish their plans for how they intend to provide appropriate care for such children in pursuance of that subsection.
+
+(3B) A local authority must, at least once every two years—
+
+(a) consult such persons as appear to be representative of parents of children within their area who are in attendance at a school but are not in need about whether and if so how they should provide appropriate care for such children under subsection (3) above; and
+
+(b) after having had regard to the views expressed, prepare and publish plans in relation to the provision of appropriate care for such children in their area under that subsection.
+
+(3C) The Scottish Ministers may by order modify subsection (1A), (1B), (3A) or (3B) above so as to vary the regularity within which a local authority must consult and plan in pursuance of that subsection.
+
+(3D) An order made under subsection (3C) above is subject to the negative procedure.]
+
+(4) In this section—
+
+- “day care” means any form of care provided for children during the day, whether or not it is provided on a regular basis; and
+- “school” has the meaning given by section 135(1) of the [^M12]Education (Scotland) Act 1980.
+
+##### 28 Removal of power to arrange for emigration of children.
+
+Section 23 of the [^M13]Social Work (Scotland) Act 1968 (which provides a power for local authorities and voluntary associations, with the consent of the Secretary of State, to make arrangements for the emigration of children in their care) shall cease to have effect.
+
+#### Advice and assistance for young persons formerly looked after by local authorities
+
+##### 29 After-care.
+
+(1) A local authority shall, unless they are satisfied that his welfare does not require it, advise, guide and assist any person in their area [[^F92]who is at least sixteen] but not yet nineteen years of age who, [[^F93]either—
+
+(a) was (on his sixteenth birthday or at any subsequent time) but is no longer looked after by a local authority; or
+
+(b) is of such other description of person formerly but no longer looked after by a local authority as the Scottish Ministers may specify by order.]
+
+[[^F94](1A) An order made under subsection (1)(b) above is subject to the affirmative procedure.]
+
+(2) If a person within the area of a local authority is at least nineteen, but is less than [[^F95]twenty-six], years of age and is otherwise a person such as is described in subsection (1) above, he may by application to the authority request that they provide him with advice, guidance and assistance; [^F96]...
+
+[[^F97](2A) Subsections (1) and (2) above do not apply to a person during any period when the person is being provided with continuing care under section 26A of this Act.]
+
+(3) [[^F98]Subject to section 73(2) of the Regulation of Care (Scotland) Act 2001 (asp 8),] assistance given under subsection (1) [[^F99]above or (5A) or (5B) below] may include assistance in kind or in cash.
+
+(4) Where a person—
+
+(a) [[^F100]who is at least sixteen years of] age ceases to be looked after by a local authority; or
+
+(b) described in subsection (1) above is being provided with advice, guidance or assistance by a local authority,
+
+they shall, if he proposes to reside in the area of another local authority, inform that other local authority accordingly provided that he consents to their doing so.
+
+[[^F101](5) It is the duty of each local authority, in relation to any person to whom they have a duty under subsection (1) above or who makes an application under subsection (2) above, to carry out an assessment of the person’s needs.
+
+[[^F102](5A) After carrying out an assessment under subsection (5) above in pursuance of an application made by a person under subsection (2) above, the local authority—
+
+(a) must, if satisfied that the person has any eligible needs which cannot be met other than by taking action under this subsection, provide the person with such advice, guidance and assistance as it considers necessary for the purposes of meeting those needs; and
+
+(b) may otherwise provide such advice, guidance and assistance as it considers appropriate having regard to the person's welfare.
+
+(5B) A local authority may (but is not required to) continue to provide advice, guidance and assistance to a person in pursuance of subsection (5A) after the person reaches the age of twenty-six.]
+
+(6) Each local authority shall establish a procedure for considering representations (including complaints) made to them by any person mentioned in subsection (1) or (2) above about the discharge of their functions under the provisions of subsections (1) to [[^F103](5B)] above.
+
+(7) In subsection (1) above, the reference to having been “looked after by a local authority” shall be construed as including having been looked after by a local authority in England and Wales; and subsection (4) of section 105 of the Children Act 1989 (c.41) (construction of references to a child looked after by a local authority) shall apply for the purposes of this subsection as it applies for the purposes of that Act (“local authority in England and Wales” being construed in accordance with subsection (1) of that section).]
+
+[[^F104](8) For the purposes of subsection (5A)(a) above, a person has “eligible needs” if the person needs care, attention or support of such type as the Scottish Ministers may by order specify.
+
+(9) An order made under subsection (8) is subject to the affirmative procedure.
+
+(10) If a local authority becomes aware that a person who is being provided with advice, guidance or assistance by them under this section has died, the local authority must as soon as reasonably practicable notify—
+
+(a) the Scottish Ministers; and
+
+(b) Social Care and Social Work Improvement Scotland.]
+
+##### 30 Financial assistance towards expenses of education or training and removal of power to guarantee indentures etc.
+
+(1) Without prejudice to section 12 of the [^M14]Social Work (Scotland) Act 1968 (general social welfare services of local authorities), a local authority may make—
+
+(a) grants to any relevant person in their area to enable him to meet expenses connected with his receiving education or training; and
+
+(b) contributions to the accommodation and maintenance of any such person in any place near where he may be—
+
+(i) employed, or seeking employment; or
+
+(ii) receiving education or training.
+
+(2) [[^F105]A] person is a relevant person for the purposes of subsection (1) above if—
+
+(a) he is [[^F106]at least sixteen years of ] age but not yet [[^F107]twenty-six] years of age; and
+
+[[^F108](b) he either—
+
+(i) was (on his sixteenth birthday or at any subsequent time) but is no longer looked after by a local authority; or
+
+(ii) is of such other description of person formerly but no longer looked after by a local authority as the Scottish Ministers may specify by order.
+
+(2A) An order made under subsection (2)(b)(ii) above is subject to the affirmative procedure.]
+
+[^F109]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F109]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Miscellaneous and General
+
+##### 31 Review of case of child looked after by local authority.
+
+(1) Without prejudice to their duty under section 17(1)(a) of this Act, it shall be the duty of a local authority who are looking after a child to review his case at such intervals as may be prescribed by the Secretary of State.
+
+(2) The Secretary of State may prescribe—
+
+(a) different intervals in respect of the first such review and in respect of subsequent reviews;
+
+(b) the manner in which cases are to be reviewed under this section;
+
+(c) the considerations to which the local authority are to have regard in reviewing cases under this section.
+
+##### 32 Removal of child from residential establishment.
+
+A local authority, notwithstanding any agreement made in connection with the placing of a child in a residential establishment under this Chapter, or Chapter 4, of this Part of this Act by them—
+
+(a) may, at any time; and
+
+(b) shall, if requested to do so by the person responsible for the establishment,
+
+remove a child so placed.
+
+##### 33 Effect of orders etc. made in different parts of the United Kingdom.
+
+(1) The Secretary of State may make regulations providing for a prescribed order which is made by a court in England and Wales or in Northern Ireland, if that order appears to him to correspond generally to an order of a kind which may be made under this Part of this Act [^F110][^F111]..., to have effect in prescribed circumstances and for prescribed purposes of the law of Scotland as if it were an order of that kind [^F112][^F111]....
+
+(2) The Secretary of State may make regulations providing—
+
+(a) for a prescribed order made under this Part of this Act by a court in Scotland; [^F113]...
+
+[^F114][^F115]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+if that order [^F116][^F117]... appears to him to correspond generally to an order of a kind which may be made under any provision of law in force in England and Wales or in Northern Ireland, to have effect in prescribed circumstances and for prescribed purposes of the law of England and Wales, or as the case may be of Northern Ireland, as if it were an order of that kind.
+
+(3) Regulations under subsection (1) or (2)(a) above may provide for the order given effect for prescribed purposes to cease to have effect for those purposes, or for the purposes of the law of the place where the order was made, if prescribed conditions are satisfied.
+
+[^F118][^F119]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) Regulations under this section may modify any provision of—
+
+(a) the [^M15]Social Work (Scotland) Act 1968 or this Act in any application which the Acts may respectively have, by virtue of the regulations, in relation to an order made otherwise than in Scotland;
+
+(b) the [^M16]Children Act 1989 or the [^M17]Children and Young Persons Act 1969 [[^F120]or sections 63 to 67 of and Schedules 6 and 7 to the Powers of Criminal Courts (Sentencing) Act 2000] in any application which those Acts may respectively have, by virtue of the regulations, in relation to an order prescribed under subsection (2)(a) above [^F121][^F122]...; or
+
+(c) the [^M18]Children (Northern Ireland) Order 1995 or the [^M19]Children and Young Persons Act (Northern Ireland) 1968 in any application which they may respectively have, by virtue of the regulations, in relation to an order so prescribed [^F123][^F122]....
+
+##### 33A [[^F124]Regulation of cross-border placements
+
+(1) The Scottish Ministers may by regulations make provision in relation to cross-border placements.
+
+(2) Regulations under subsection (1) may in particular include provision—
+
+(a) requiring specified persons to provide or share specified information,
+
+(b) requiring specified persons to provide, or make arrangements for the provision of, any services which are needed to support a child who is the subject of a cross-border placement,
+
+(c) requiring specified persons to meet the costs incurred in relation to, or as a consequence of, a cross-border placement,
+
+(d) requiring a cross-border placement to be kept under review,
+
+(e) in connection with the safeguarding and promotion of the welfare of a child who is the subject of a cross-border placement.
+
+(3) Regulations under subsection (1)—
+
+(a) may modify any enactment in its application by virtue of the regulations to a cross-border placement, including—
+
+(i) the Social Work (Scotland) Act 1968,
+
+(ii) this Act,
+
+(b) may make any incidental, supplementary, consequential, transitional, transitory or saving provision that the Scottish Ministers consider appropriate for the purposes of, in connection with or for giving full effect to the regulations,
+
+(c) are subject to the affirmative procedure.
+
+(4) In this section, “cross-border placement” means the placement of a child in a residential establishment in Scotland where—
+
+(a) the child was, immediately before the placement, resident in England, Wales or Northern Ireland, and
+
+(b) the placement is authorised under the law in England and Wales or, as the case may be, in Northern Ireland by virtue of—
+
+(i) an order made by a court in England and Wales or in Northern Ireland,
+
+(ii) any provision made by or under an Act of Parliament, an Act of Senedd Cymru, or Northern Ireland legislation (as defined by section 98(1) of the Northern Ireland Act 1998), whenever passed or made.]
+
+##### [^F125]34 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### 35 Welfare of children in accommodation provided for purposes of school attendance.
+
+After section 125 of the [^M20]Education (Scotland) Act 1980 there shall be inserted—
+
+> **Children and young persons in accommodation**
+>
+> **125A Welfare of children and young persons in accommodation provided for purposes of school attendance.**
+>
+> Where, for the purposes of his being in attendance at a school, a child or young person is provided with residential accommodation, in a place in or outwith that school, by—
+>
+> (a) an education authority, the board of management of a self-governing school or the managers of a grant-aided or independent school; or
+>
+> (b) by any other person in pursuance of arrangements made by any such authority, board of management or managers,
+>
+> the authority, board of management or managers in question shall have the duty to safeguard and promote the welfare of the child or young person while he is so accommodated; and the powers of inspection exercisable by virtue of section 66(1) of this Act shall include the power to inspect the place to determine whether his welfare is adequately safeguarded and promoted there.
+
+.
+
+##### 36 Welfare of certain children in hospitals and nursing homes etc.
+
+(1) Where a child is provided with residential accommodation by a person mentioned in subsection (3) below and it appears to the person that the child either—
+
+(a) has had no parental contact for a continuous period of three months or more; or
+
+(b) is likely to have no parental contact for a period which, taken with any immediately preceding period in which the child has had no such contact, will constitute a continuous period of three months or more,
+
+the person shall (whether or not the child has been, or will be, so accommodated throughout the continuous period) so notify the local authority in whose area the accommodation is provided.
+
+(2) A local authority receiving notification under subsection (1) above shall—
+
+(a) take such steps as are reasonably practicable to enable them to determine whether the child’s welfare is adequately safeguarded and promoted while he is so accommodated; and
+
+(b) consider the extent to which (if at all) they should exercise any of their functions under this Act with respect to the child.
+
+(3) The persons are—
+
+(a) any health board constituted under section 2 of the [^M21]National Health Service (Scotland) Act 1978;
+
+(b) any national health service trust established under section 12A of that Act;
+
+[[^F126](c) any person providing—
+
+(i) an independent hospital;
+
+(ii) a private psychiatric hospital;
+
+(iii) an independent clinic; or
+
+(iv) an independent medical agency,
+
+within the meaning given to those expressions by section 10F(2) of the National Health Service (Scotland) Act 1978 (c.29); and]
+
+(d) any person providing a care home service (as defined by [[^F127]paragraph 2 of schedule 12 to the Public Services Reform (Scotland) Act 2010] (asp 8)).
+
+(4) For the purposes of subsection (1) above, a child has parental contact only when in the presence of a person having parental responsibilities in relation to him.
+
+(5) A person duly authorised by a local authority may in the area of that authority, at all reasonable times, enter for the purposes of subsection (2) above or of determining whether there has been compliance with subsection (1) above any such place as is mentioned in sub-paragraph (i) or (ii) of subsection (3)(c) above and may for those purposes inspect any records or registers relating to that place; and subsections (2A) to (2D) and (4) of section 6 of the [^M22]Social Work (Scotland) Act 1968 (exercise of powers of entry and inspection) [[^F128](as in force immediately prior to their repeal by section 8 of the Joint Inspection of Children's Services and Inspection of Social Work Services (Scotland) Act 2006)] shall apply in respect of a person so authorised as they [[^F129]applied] in respect of a person duly authorised under subsection (1) of that section.
+
+##### [^F130]37 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### 38 Short-term refuges for children at risk of harm.
+
+(1) Where a child appears—
+
+(a) to a local authority to be at risk of harm, they may at the child’s request—
+
+(i) provide him with refuge in a residential establishment both controlled or managed by them and designated by them for the purposes of this paragraph; or
+
+(ii) arrange for a person whose household is approved by virtue of section 5(3)(b) of the [^M23]Social Work (Scotland) Act 1968 (provision for securing that persons are not placed in any household unless the household has prescribed approval) and is designated by them for the purposes of this paragraph, to provide him with refuge in that household,
+
+for a period which does not exceed the relevant period;
+
+(b) to a person who [[^F131]provides a care home service (as defined by [[^F132]paragraph 2 of schedule 12 to the Public Services Reform (Scotland) Act 2010] (asp 8))], or to any person for the time being employed in the management of [[^F133]the accomodation in question], to be at risk of harm, the person to whom the child so appears may at the child’s request provide him with refuge, for a period which does not exceed the relevant period, in the [[^F134]accommodation] but shall do so only if and to the extent that the local authority within whose area the [[^F134]accommodation] is situated have given their approval to the use of the [[^F134]accommodation] (or a part of the [[^F134]accommodation]) for the purposes of this paragraph.
+
+(2) The Secretary of State may by regulations make provision as to—
+
+(a) designation, for the purposes of paragraph (a) of subsection (1) above, of establishments and households;
+
+(b) application for, the giving of and the withdrawal of, approval under paragraph (b) of subsection (1) above;
+
+(c) requirements (if any) which must be complied with while any such approval remains in force;
+
+(d) the performance by a person mentioned in the said paragraph (b) of anything to be done by him under that paragraph;
+
+(e) the performance by a local authority of their functions under this section; and
+
+(f) the giving, to such persons or classes of person as may be specified in the regulations, of notice as to the whereabouts of a child provided with refuge under this section,
+
+and regulations made under this subsection may include such incidental and supplementary provisions as he thinks fit.
+
+(3) While a child is being provided with refuge under, and in accordance with regulations made under, this section, none of the enactments mentioned in subsection (4) below shall apply in relation to him unless the commencement of the period of refuge has followed within two days of the termination of a prior period of refuge so provided to him by any person.
+
+(4) The enactments are—
+
+(a) section 89 of this Act and, so far as it applies in relation to anything done in Scotland, [[^F135]section 171 of the Children's Hearings (Scotland) Act 2011]; and
+
+(b) section 32(3) of the [^M24]Children and Young Persons Act 1969 (compelling, persuading, inciting or assisting any person to be absent from detention etc.), so far as it applies in relation to anything done in Scotland.
+
+(5) References in this section to the relevant period shall be construed as references either to a period which does not exceed seven days or, in such exceptional circumstances as the Secretary of State may prescribe, to a period which does not exceed fourteen days.
+
+(6) A child who is provided with refuge for a period by virtue of such arrangements as are mentioned in subsection (1)(a) above shall not be regarded as a foster child for the purposes of the [^M25]Foster Children (Scotland) Act 1984 by reason only of such provision.
+
+### Chapter 2 — Children’s Hearings
+
+#### Constitution of children’s hearings
+
+##### [^F136]39 Formation of children’s panel and children’s hearings.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Qualifications, employment and duties of reporters
+
+##### [^F136]40 Qualification and employment of reporters.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Safeguards for children
+
+##### [^F136]41 Safeguarding child’s interests in proceedings.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Conduct of proceedings at and in connection with children’s hearing
+
+##### [^F136]42 Power of Secretary of State to make rules governing procedure at children’s hearing etc.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### [^F136]43 Privacy of proceedings at and right to attend children’s hearing.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### 44 Prohibition of publication of proceedings at children’s hearing.
+
+[^F137][[^F138]1 No person shall publish any matter in respect of proceedings before a sheriff on an application under section 76(1) of this Act which is intended to, or is likely to, identify—
+
+(a) the child concerned in, or any other child connected (in any way) with, the proceedings; or
+
+(b) any address or school as being that of any such child.]
+
+(2) Any person who contravenes subsection (1) above shall be guilty of an offence and shall be liable on summary conviction to a fine not exceeding level 4 on the standard scale in respect of each such contravention.
+
+(3) It shall be a defence in proceedings for an offence under this section for the accused to prove that he did not know, and had no reason to suspect, that the published matter was intended, or was likely, to identify the child or, as the case may be, the address or school.
+
+(4) In this section “to publish” includes, without prejudice to the generality of that expression,—
+
+(a) to publish matter in a programme service, as defined by section 201 of the [^M26]Broadcasting Act 1990 (definition of programme service); and
+
+(b) to cause matter to be published.
+
+(5) The requirements of subsection (1) above may, in the interests of justice, be dispensed with by—
+
+(a) the sheriff in any proceedings before him;
+
+[^F139][^F140]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F139][^F140]c . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+to such extent as the sheriff [^F141][^F142]... considers appropriate.
+
+[^F143][[^F144]6 The requirements of subsection (1) do not apply in relation to the publication by or on behalf of a local authority or an adoption agency (within the meaning of the Adoption and Children (Scotland) Act 2007 (asp 4)) of information about a child for the purposes of making arrangements in relation to the child under this Act or that Act.]
+
+##### [^F136]45 Attendance of child and relevant person at children’s hearing.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### [^F136]46 Power to exclude relevant person from children’s hearing.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### [^F136]47 Presumption and determination of age.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Transfer etc. of cases
+
+##### [^F136]48 Transfer of case to another children’s hearing.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### [^F145]49 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### [^F136]50 Treatment of child’s case on remission by court.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Appeals
+
+##### [^F136]51 Appeal against decision of children’s hearing or sheriff.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Chapter 3 — Protection and supervision of Children
+
+#### Children requiring compulsory measures of supervision
+
+##### [^F136]52 Children requiring compulsory measures of supervision.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Preliminary and investigatory measures
+
+##### [^F136]53 Provision of information to the Principal Reporter.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### [^F136]54 Reference to the Principal Reporter by court.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### [^F136]55 Child assessment orders.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### [^F136]56 Initial investigation by the Principal Reporter.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Measures for the emergency protection of children
+
+##### [^F136]57 Child protection orders.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### [^F136]58 Directions in relation to contact and exercise of parental responsibilities and parental rights.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### [^F136]59 Initial hearing of case of child subject to child protection order.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### [^F136]60 Duration, recall or variation of child protection order.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### [^F136]61 Emergency protection of children where child protection order not available.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### [^F136]62 Regulations in respect of emergency child protection measures.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Children arrested by the police
+
+##### [^F136]63 Review of case of child arrested by police.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Business meeting preparatory to children’s hearing
+
+##### [^F136]64 Business meeting preparatory to children’s hearing.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Referral to, and disposal of case by, children’s hearing
+
+##### [^F136]65 Referral to, and proceedings at, children’s hearing.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### [^F136]66 Warrant to keep child where children’s hearing unable to dispose of case.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### [^F136]67 Warrant for further detention of child.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### [^F136]68 Application to sheriff to establish grounds of referral.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### [^F136]68A [[^F146]Restrictions on evidence in certain cases involving sexual abuse
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### [^F136]68B Exceptions to restrictions under section 68A
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .]
+
+##### [^F136]69 Continuation or disposal of referral by children’s hearing.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### [^F136][^F147]70 Disposal of referral by children’s hearing: supervision requirements, including residence in secure accommodation.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### [^F136]71 Duties of local authority with respect to supervision requirements.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### [^F136]71A [[^F148]Enforcement of local authorities' duties under section 71
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .]
+
+##### [^F136]72 Transfer of child subject to supervision requirement in case of necessity.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### [^F136]73 Duration and review of supervision requirement.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### [^F136][^F149]74 Further provision as respects children subject to supervision requirements.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### 75 Powers of Secretary of State with respect to secure accommodation.
+
+(1) The Secretary of State may by regulations make provision with respect to the placing in secure accommodation of any child—
+
+[^F150]a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) who is not subject to a [[^F151]compulsory supervision order, interim compulsory supervision order, medical examination order or warrant to secure attendance (all within the meaning of the Children's Hearings (Scotland) Act 2011)] but who is being looked after by a local authority in pursuance of such enactments as may be specified in the regulations.
+
+(2) Regulations under subsection (1) above may—
+
+(a) specify the circumstances in which a child may be so placed under the regulations;
+
+(b) make provision to enable a child who has been so placed or any relevant person to require that the child’s case be brought before a children’s hearing within a shorter period than would apply under regulations made under subsection (3) below; and
+
+(c) specify different circumstances for different cases or classes of case.
+
+[[^F152](2A) In subsection (2), “relevant person” has the meaning given by section 200 of the Children's Hearings (Scotland) Act 2011 and includes a person deemed to be a relevant person by virtue of section 81(3), 160(4)(b) or 164(6) of that Act.]
+
+(3) Subject to subsection (4) below and without prejudice to subsection (2)(b) above, the Secretary of State may prescribe—
+
+(a) the maximum period during which a child may be kept under this Act in secure accommodation without the authority of a children’s hearing or of the sheriff;
+
+(b) the period within which a children’s hearing shall be arranged to consider the case of a child placed in secure accommodation by virtue of regulations made under this section (and different periods may be so prescribed in respect of different cases or classes of case).
+
+[[^F153](4) A child may not be kept in secure accommodation by virtue of regulations made under this section for a period exceeding 66 days from the day when the child was first taken to the secure accommodation.]
+
+[^F154]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6) The Secretary of State may by regulations make provision for the procedures to be applied in placing children in secure accommodation; and without prejudice to the generality of this subsection, such regulations may—
+
+(a) specify the duties of the Principal Reporter in relation to the placing of children in secure accommodation;
+
+(b) make provision for the referral of cases to a children’s hearing for review; and
+
+(c) make provision for any person with parental responsibilities in relation to the child to be informed of the placing of the child in secure accommodation.
+
+#### [[^F155]Parenting orders
+
+##### [^F156]75A Requirement on Principal Reporter to consider application for parenting order
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .]
+
+#### [[^F157]Failure to provide education for excluded pupils
+
+##### [^F156]75B Failure to provide education for excluded pupils: reference to Scottish Ministers
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .]
+
+#### Exclusion orders
+
+##### 76 Exclusion orders.
+
+(1) Subject to subsections (3) to (9) below, where on the application of a local authority the sheriff is satisfied, in relation to a child, that the conditions mentioned in subsection (2) below are met, he may grant an order under this section (to be known as “an exclusion order”) excluding from the child’s family home any person named in the order (in this Part of this Act referred to as the “named person”).
+
+(2) The conditions are—
+
+(a) that the child has suffered, is suffering, or is likely to suffer, significant harm as a result of any conduct, or any threatened or reasonably apprehended conduct, of the named person;
+
+(b) that the making of an exclusion order against the named person—
+
+(i) is necessary for the protection of the child, irrespective of whether the child is for the time being residing in the family home; and
+
+(ii) would better safeguard the child’s welfare than the removal of the child from the family home; and
+
+(c) that, if an order is made, there will be a person specified in the application who is capable of taking responsibility for the provision of appropriate care for the child and any other member of the family who requires such care and who is, or will be, residing in the family home (in this section, sections 77 to 79and section 91(3)(f) of this Act referred to as an “appropriate person”).
+
+(3) No application under subsection (1) above for an exclusion order shall be finally determined under this section unless—
+
+(a) the named person has been afforded an opportunity of being heard by, or represented before, the sheriff; and
+
+(b) the sheriff has considered any views expressed by any person on whom notice of the application has been served in accordance with rules making such provision as is mentioned in section 91(3)(d) of this Act.
+
+(4) Where, on an application under subsection (1) above, the sheriff—
+
+(a) is satisfied as mentioned in that subsection; but
+
+(b) the conditions mentioned in paragraphs (a) and (b) of subsection (3) above for the final determination of the application are not fulfilled,
+
+he may grant an interim order, which shall have effect as an exclusion order pending a hearing by the sheriff under subsection (5) below held within such period as may be specified in rules made by virtue of section 91(3)(e) of this Act.
+
+(5) The sheriff shall conduct a hearing under this subsection within such period as may be specified in rules made by virtue of section 91(3)(e) of this Act, and, if satisfied at that hearing as mentioned in subsection (1) above, he may, before finally determining the application, confirm or vary the interim order, or any term or condition on which it was granted, or may recall such order.
+
+(6) Where the conditions mentioned in paragraphs (a) and (b) of subsection (3) above have been fulfilled, the sheriff may, at any point prior to the final determination of the application, grant an interim order.
+
+(7) An order under subsection (5) or (6) above shall have effect as an exclusion order pending the final determination of the application.
+
+(8) Where—
+
+(a) an application is made under subsection (1) above; and
+
+(b) the sheriff considers that the conditions for making a child protection order under [[^F158]Part 5 of the Children's Hearings (Scotland) Act 2011] are satisfied,
+
+he may make [[^F159]a child protection order] as if the application had been duly made by the local authority under that [[^F160]Part] rather than under this section.
+
+(9) The sheriff shall not make an exclusion order if it appears to him that to do so would be unjustifiable or unreasonable, having regard to—
+
+(a) all the circumstances of the case, including without prejudice to the generality of this subsection the matters specified in subsection (10) below; and
+
+(b) any requirement such as is specified in subsection (11) below and the likely consequences in the light of that requirement of the exclusion of the named person from the family home.
+
+(10) The matters referred to in subsection (9)(a) above are—
+
+(a) the conduct of the members of the child’s family (whether in relation to each other or otherwise);
+
+(b) the respective needs and financial resources of the members of that family;
+
+(c) the extent (if any) to which—
+
+(i) the family home; and
+
+(ii) any relevant item in that home,
+
+is used in connection with a trade, business or profession by any member of the family.
+
+(11) The requirement referred to in subsection (9)(b) above is a requirement that the named person (whether alone or with any other person) must reside in the family home, where that home—
+
+[[^F161](a) is on or comprised in a lease constituting a 1991 Act tenancy within the meaning of the Agricultural Holdings (Scotland) Act 2003 (asp 11) or in a lease constituting a short limited duration tenancy [[^F162], a limited duration tenancy, a modern limited duration tenancy or a repairing tenancy] (within the meaning of that Act); or]
+
+(b) is let, or is a home in respect of which possession is given, to the named person (whether alone or with any other person) by an employer as an incident of employment.
+
+(12) In this Part of this Act—
+
+- “caravan” has the meaning given to it by section 29(1) of the [^M27]Caravan Sites and Control of Development Act 1960;
+- “exclusion order”, includes an interim order granted under subsection (4) above and such an order confirmed or varied under subsection (5) above and an interim order granted under subsection (6) above; except that in subsection (3) above and in section 79 of this Act, it does not include an interim order granted under subsection (4) above;
+- “family” has the meaning given in section 93(1) of this Act;
+- “family home” means any house, caravan, houseboat or other structure which is used as a family residence and in which the child ordinarily resides with any person described in subsection (13) below and the expression includes any garden or other ground or building attached to and usually occupied with, or otherwise required for the amenity or convenience of, the house, caravan, houseboat or other structure.
+
+(13) The description of person referred to in the definition of “family home” in subsection (12) above, is a person who has parental responsibilities in relation to the child, or who ordinarily (and other than by reason only of his employment) has charge of, or control over him.
+
+##### 77 Effect of, and orders etc. ancillary to, exclusion order.
+
+(1) An exclusion order shall, in respect of the home to which it relates, have the effect of suspending the named person’s rights of occupancy (if any) and shall prevent him from entering the home, except with the express permission of the local authority which applied for the order.
+
+(2) The sheriff, on the application of the local authority, may, if and in so far as he thinks fit, when making an exclusion order do any of the things mentioned in subsection (3) below.
+
+(3) The things referred to in subsection (2) above are—
+
+(a) grant a warrant for the summary ejection of the named person from the home;
+
+(b) grant an interdict prohibiting the named person from entering the home without the express permission of the local authority;
+
+(c) grant an interdict prohibiting the removal by the named person of any relevant item specified in the interdict from the home, except either—
+
+(i) with the written consent of the local authority, or of an appropriate person; or
+
+(ii) by virtue of a subsequent order of the sheriff;
+
+(d) grant an interdict prohibiting the named person from entering or remaining in a specified area in the vicinity of the home;
+
+(e) grant an interdict prohibiting the taking by the named person of any step of a kind specified in the interdict in relation to the child;
+
+(f) make an order regulating the contact between the child and the named person,
+
+and the sheriff may make any other order which he considers is necessary for the proper enforcement of a remedy granted by virtue of paragraph (a), (b) or (c) of this subsection.
+
+(4) No warrant, interdict or order (except an interdict granted by virtue of paragraph (b) of subsection (3) above) shall be granted or made under subsection (2) above if the named person satisfies the sheriff that it is unnecessary to do so.
+
+(5) Where the sheriff grants a warrant of summary ejection under subsection (2) above in the absence of the named person, he may give directions as to the preservation of any of that person’s goods and effects which remain in the family home.
+
+(6) The sheriff may make an order of the kind specified in subsection (3)(f) above irrespective of whether there has been an application for such an order.
+
+(7) On the application of either the named person or the local authority, the sheriff may make the exclusion order, or any remedy granted under subsection (2) above, subject to such terms and conditions as he considers appropriate.
+
+(8) In this Part of this Act references to a “relevant item” are references to any item within the home which both—
+
+(a) is owned or hired by any member of the family concerned or an appropriate person or is being acquired by any such member or person under a hire purchase agreement or conditional sale agreement; and
+
+(b) is reasonably necessary to enable the home to be used as a family residence,
+
+but does not include any such vehicle, caravan or houseboat or such other structure so used as is mentioned in the definition of “family home” in section 76(12) of this Act.
+
+##### 78 Powers of arrest etc. in relation to exclusion order.
+
+(1) The sheriff may, whether or not on an application such as is mentioned in subsection (2) below, attach a power of arrest to any interdict granted under section 77(2) of this Act by virtue of subsection (3) of that section.
+
+(2) A local authority may at any time while an exclusion order has effect apply for such attachment of a power of arrest as is mentioned in subsection (1) above.
+
+(3) A power of arrest attached to an interdict by virtue of subsection (1) above shall not have effect until such interdict, together with the attached power of arrest, is served on the named person.
+
+(4) If, by virtue of subsection (1) above, a power of arrest is attached to an interdict, the local authority shall, as soon as possible after the interdict, together with the attached power of arrest, is served on the named person, ensure that there is delivered [[^F163]to the chief constable of the Police Service of Scotland] —
+
+[^F164]a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F164]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+a copy of the application for the interdict and of the interlocutor granting the interdict together with a certificate of service of the interdict and, where the application to attach the power of arrest was made after the interdict was granted, a copy of that application and of the interlocutor above granting it and a certificate of service of the interdict together with the attached power of arrest.
+
+(5) Where any interdict to which a power of arrest is attached by virtue of subsection (1) above is varied or recalled, the person who applied for the variation or recall shall ensure that there is delivered to [[^F165]the chief constable of the Police Service of Scotland] a copy of the application for such variation or recall and of the interlocutor granting the variation or recall.
+
+(6) A constable may arrest without warrant the named person if he has reasonable cause for suspecting that person to be in breach of an interdict to which a power of arrest has been attached by virtue of subsection (1) above.
+
+(7) Where a person has been arrested under subsection (6) above, the constable in charge of a police station may—
+
+(a) if satisfied there is no likelihood of that person further breaching the interdict to which the power of arrest was attached under subsection (1) above, liberate him unconditionally; or
+
+(b) refuse to liberate that person.
+
+(8) Such a refusal to liberate an arrested person as is mentioned in subsection (7)(b) above, and the detention of that person until his appearance in court by virtue of either subsection (11) below, or any provision of the [[^F166]Criminal Procedure (Scotland) Act 1995], shall not subject that constable to any claim whatsoever.
+
+(9) Where a person has been liberated under subsection (7)(a) above, the facts and circumstances which gave rise to the arrest shall be reported to the procurator fiscal forthwith.
+
+(10) Subsections (11) to (13) below apply only where—
+
+(a) the arrested person has not been released under subsection (7)(a) above; [^F167]...
+
+[^F167]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(11) A person arrested under subsection (6) above shall wherever practicable be brought before the sheriff sitting as a court of summary criminal jurisdiction for the district in which he was arrested not later than in the course of the first day after the arrest, such day not being a Saturday, a Sunday or a court holiday prescribed for that court under [[^F168]section 8 of the said Act of 1995], on which the sheriff is not sitting for the disposal of criminal business.
+
+[^F169]12 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[[^F170](12A) Subsection (13) applies where—
+
+(a) a person is brought before the sheriff under subsection (11) above; and
+
+(b) the procurator fiscal has decided that no criminal proceedings are to be taken in respect of the facts and circumstances which gave rise to the arrest.]
+
+(13) Where [[^F171]this subsection applies] —
+
+(a) the procurator fiscal shall present to the court a petition containing—
+
+(i) a statement of the particulars of the person arrested under subsection (6) above;
+
+(ii) a statement of the facts and circumstances which gave rise to that arrest; and
+
+(iii) a request that the person be detained for a further period not exceeding two days;
+
+(b) the sheriff, if it appears to him that—
+
+(i) the statement referred to in paragraph (a)(ii) above discloses a*prima facie* breach of interdict by the arrested person;
+
+(ii) proceedings for breach of interdict will be taken; and
+
+(iii) there is a substantial risk of violence by the arrested person against any member of the family, or an appropriate person, resident in the family home,
+
+may order the arrested person to be detained for a period not exceeding two days; and
+
+(c) the sheriff shall, in any case in which paragraph (b) above does not apply, order the release of the arrested person from custody (unless that person is in custody in respect of some other matter);
+
+and in computing the period of two days referred to in paragraphs (a) and (b) above, no account shall be taken of a Saturday, a Sunday or any holiday in the court in which proceedings for breach of interdict will require to be raised.
+
+[[^F172](13A) Subsection (14) applies where—
+
+(a) a person has been liberated under subsection (7)(a) above; or
+
+(b) the following conditions are met—
+
+(i) a person is to be brought before the sheriff under subsection (11) above; and
+
+(ii) the procurator fiscal has decided that no criminal proceedings are to be taken in respect of the facts and circumstances which gave rise to the arrest.]
+
+(14) [[^F173]Where this subsection applies], the procurator fiscal shall at the earliest opportunity, and, [[^F174]where the conditions in subsection (13A)(b) above are met, before the] person is brought before the sheriff, take all reasonable steps to intimate to—
+
+(i) the local authority which made the application for the interdict;
+
+(ii) an appropriate person who will reside in, or who remains in residence in, the family home mentioned in the order; and
+
+(iii) any solicitor who acted for the appropriate person when the interdict was granted or to any other solicitor who the procurator fiscal has reason to believe acts for the time being for that person,
+
+that he has decided that no criminal proceedings should be taken in respect of the facts and circumstances which gave rise to the arrest of the named person.
+
+##### 79 Duration, variation and recall of exclusion order.
+
+(1) Subject to subsection (2) below, an exclusion order shall cease to have effect on a date six months after being made.
+
+(2) An exclusion order shall cease to have effect on a date prior to the date mentioned in subsection (1) above where—
+
+(a) the order contains a direction by the sheriff that it shall cease to have effect on that prior date;
+
+(b) the sheriff, on an application under subsection (3) below, recalls the order before the date so mentioned; or
+
+(c) any permission given by a third party to the spouse or partner of the named person, or to an appropriate person, to occupy the home to which the order relates is withdrawn.
+
+(3) The sheriff may, on the application of the local authority, the named person, an appropriate person or the spouse or partner of the named person, if that spouse or partner is not excluded from the family home and is not an appropriate person, vary or recall an exclusion order and any warrant, interdict, order or direction granted or made under section 77 of this Act.
+
+(4) For the purposes of this section, partners are persons who live together in a family home as if they were husband and wife.
+
+##### 80 Exclusion orders: supplementary provisions.
+
+(1) The Secretary of State may make regulations with respect to the powers, duties and functions of local authorities in relation to exclusion orders.
+
+(2) An application for an exclusion order, or under section 79(3) of this Act for the variation or recall of such an order or of any thing done under section 77(2) of this Act, shall be made to the sheriff for the sheriffdom within which the family home is situated.
+
+#### Offences in connection with orders etc. for protection of children
+
+##### [^F175]81 Offences in connection with orders etc. for protection of children.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Fugitive children and harbouring
+
+##### [^F175][^F176]82 Recovery of certain fugitive children.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### [^F175][^F177]83 Harbouring.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Implementation of authorisations etc.
+
+##### [^F175]84 Implementation of authorisations etc.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### New evidence: review of establishment of grounds of referral
+
+##### [^F175]85 Application for review of establishment of grounds of referral.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Chapter 4 — Parental Responsibilities Orders, etc.
+
+#### Parental responsibilities orders
+
+##### 86 Parental responsibilities order: general.
+
+[^F178]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### 86A [[^F179]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F180]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .]
+
+##### 87 Further provision as respects parental responsibilities orders.
+
+[^F181]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### 88 Parental contact.
+
+[^F182]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### 89 Offences in relation to parental responsibilities orders.
+
+[^F183]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Miscellaneous
+
+##### [^F184]90 Consent of child to certain procedures.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### 91 Procedural rules in relation to certain applications etc.
+
+(1) All proceedings to which this section applies are civil proceedings for the purposes of section 32 of the [^M28]Sheriff Courts (Scotland) Act 1971 (power of Court of Session to regulate civil procedure in the sheriff court).
+
+(2) Any reference in this Part of this Act to regulation or prescription by rules in relation to any proceedings to which this section applies shall be construed, unless the context otherwise requires, as a reference to regulation or prescription by rules made under the said section 32.
+
+(3) Without prejudice to the generality of the said section 32, rules may make provision as to—
+
+[^F185]a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F185]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F185]c . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(d) the persons to whom notice of an application for an exclusion order or, under section 79(3) of this Act, for the recall or variation of such an order or of anything done under section 77(2) of this Act shall be given;
+
+(e) the period within which a hearing shall be held under subsection (5) of section 76 of this Act after the granting of an order under subsection (4) of that section;
+
+(f) the service of any exclusion order on the named person and the appropriate person within such period as may be specified in the rules.
+
+(4) In relation to any proceedings to which this section applies, rules may permit a party to such proceedings, in such circumstances as may be specified in the rules, to be represented by a person who is neither an advocate nor a solicitor.
+
+(5) This section applies to any application made to the sheriff, and any other proceeding before the sheriff (whether on appeal or otherwise), under any provision of this Part of this Act.
+
+##### [^F186]92 Legal aid in respect of certain proceedings.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Interpretation of Part II
+
+##### 93 Interpretation of Part II.
+
+(1) In this Part of this Act, unless the context otherwise requires,—
+
+- “accommodation” shall be construed in accordance with section 25(8) of this Act;
+
+- [^F187][^F188]...
+
+- [^F187][^F188]...
+
+- [^F187][^F188]...
+
+- “children’s hearing” shall be construed in accordance with [^F189][[^F190]section 5 of the Children's Hearings (Scotland) Act 2011];
+
+- [^F187][^F188]...
+
+- “constable” means a constable of [[^F191]the Police Service of Scotland];
+
+- “contact order” has the meaning given by section 11(2)(d) of this Act;
+
+- “disabled” has the meaning given by section 23(2) of this Act;
+
+- [^F187][^F188]...
+
+- “exclusion order” has the meaning given by section 76(12) of this Act;
+
+- “family”, in relation to a child, includes—
+
+  - (a) any person who has parental responsibility for the child; and
+  - (b) any other person with whom the child has been living;
+
+- “local authority” means a council constituted under section 2 of the [^M29]Local Government etc. (Scotland) Act 1994;
+
+- [^F187][^F188]...
+
+- “parental responsibilities” has the meaning given by section 1(3) of this Act;
+
+- [^F192]. . .
+
+- “parental rights” has the meaning given by section 2(4) of this Act;
+
+- [^F187][^F188]...
+
+- [^F187][^F188]...
+
+- [^F187][^F188]...
+
+- “residence order” has the meaning given by section 11(2)(c) of this Act;
+
+- “residential establishment”—
+
+  - (a) in relation to a place in Scotland, means an establishment (whether managed by a local authority, by a voluntary organisation or by any other person) which provides residential accommodation for children for the purposes of this Act or the [^M30]Social Work (Scotland) Act 1968; [[^F193]or the Children’s Hearings (Scotland) Act 2011;]
+  - (b) in relation to a place in England and Wales, means a community home, voluntary home or [[^F194]private] children’s home (within the meaning of the Children Act 1989); and
+  - (c) in relation to a place in Northern Ireland, means
+  - (i) [[^F195]a private children’s home within the meaning of the Children (Northern Ireland) Order 1995 (S.I. 1995/755),
+  - (ii) an authority home provided under Part VII of that Order, or
+  - (iii) a voluntary home provided under Part VIII of that Order,]
+
+- “school age” shall be construed in accordance with section 31 of the [^M31]Education (Scotland) Act 1980;
+
+- iii “secure accommodation” means accommodation provided [[^F196]for the purpose of restricting the liberty of children which—
+
+  - in Scotland, is provided in a residential establishment approved in accordance with regulations made under section 78(2) of the Public Services Reform (Scotland) Act 2010 (asp 8),
+  
+  - in England, is provided in a children’s home (within the meaning of the Care Standards Act 2000 (c.14) (“the 2000 Act”)) in respect of which a person is registered under Part 2 of that Act, except that before the coming into force of section 107(2) of the Health and Social Care (Community Health Standards) Act 2003 (c.43), “secure accommodation” means accommodation in relation to England which—
+  
+    - is provided in a children’s home (within the meaning of the 2000 Act) in respect of which a person is registered under Part 2 of that Act, and
+    - is approved by the Secretary of State for the purpose of restricting the liberty of children,
+  
+  - in Wales, is provided in a children’s home (within the meaning of the 2000 Act) in respect of which a person is registered under Part 2 of that Act,]
+
+- [^F188]...
+
+- “voluntary organisation” means a body (other than a public or local authority) whose activities are not carried on for profit; and
+
+- [^F188]...
+
+(2) For the purposes of—
+
+(a) Chapter 1 and this Chapter (except this section) of this Part [^F197][[^F198]and section 44], “child” means a person under the age of eighteen years; and
+
+(b) [^F199][[^F200]Chapter 2 (except section 44) and Chapter] 3 [^F201]... of this Part—
+
+- [^F202]“[^F202]child[^F202]” means—
+
+  - (i) [^F202]a child who has not attained the age of sixteen years;
+  - (ii) [^F202]a child over the age of sixteen years who has not attained the age of eighteen years and in respect of whom a supervision requirement is in force; or
+  - (iii) [^F202]a child whose case has been referred to a children’s hearing by virtue of section 33 of this Act;
+
+  [^F202]and for the purposes of the application of those Chapters to a person who has failed to attend school regularly without reasonable excuse includes a person who is over sixteen years of age but is not over school age; and
+
+  [[^F202]“child” means—
+
+  - (i) in relation to section 75, a person under the age of 18 years,
+  - (ii) in relation to any other section, a person under the age of 16 years;]
+
+- [^F203][^F204]...
+
+(3) Where, in the course of any proceedings under Chapter 2 or 3 of this Part, a child ceases to be a child within the meaning of subsection (2) above the provisions of those Chapters of this Part and of any statutory instrument made under those provisions, shall continue to apply to him as if he had not so ceased to be a child.
+
+(4) Any reference in this Part of this Act to a child—
+
+(a) being “in need”, is to his being in need of care and attention because—
+
+(i) he is unlikely to achieve or maintain, or to have the opportunity of achieving or maintaining, a reasonable standard of health or development unless there are provided for him, under or by virtue of this Part, services by a local authority;
+
+(ii) his health or development is likely significantly to be impaired, or further impaired, unless such services are so provided;
+
+(iii) he is disabled; or
+
+(iv) he is affected adversely by the disability of any other person in his family;
+
+(b) who is “looked after” by a local authority, shall be construed in accordance with section 17(6) of this Act.
+
+(5) Any reference to any proceedings under this Part of this Act, whether on an application or on appeal, being heard by the sheriff, shall be construed as a reference to such proceedings being heard by the sheriff in chambers.
+
+## Part III — Adoption
+
+### 94 Approval of adoption society for specific services.
+
+[^F205]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 95 Welfare of child paramount consideration.
+
+[^F206]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 96 Duty of adoption agency to consider alternatives to adoption.
+
+[^F207]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 97 Adoption by person married to natural parent.
+
+[^F208]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 98 Further amendments of the 1978 Act; and interpretation of Part III.
+
+[^F209]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Part IV — General and Supplemental
+
+### 99 Registration of births by persons who are themselves children.
+
+(1) In paragraph (a) of section 14(1) of the [^M32]Registration of Births, Deaths and Marriages (Scotland) Act 1965 (duty of father and mother to give information of particulars of birth), for the words “father or mother of the child” substitute “ child’s father or mother (whether or not they have attained the age of sixteen years) ”.
+
+(2) Where, at any time after the coming into force of the [^M33]Age of Legal Capacity (Scotland) Act 1991 but before the coming into force of subsection (1) above, a person mentioned in the said paragraph (a) who had not at that time attained the age of sixteen years purported to fulfill the duty mentioned in the said section 14(1), he shall be presumed to have had legal capacity to fulfill that duty.
+
+(3) In section 18 of the said Act of 1965 (registration of birth of child born out of wedlock), after subsection (2) add—
+
+> (3) A person under the age of sixteen years has legal capacity—
+>
+> (a) to make a request, declaration or statutory declaration under subsection (1) or (2)(b) above if, in the opinion of the registrar; or
+>
+> (b) to make an application under subsection (2)(c) above if, in the opinion of the sheriff,
+>
+> that person understands the nature of the request or, as the case may be, of the declaration, statutory declaration or application; and without prejudice to the generality of this subsection a person twelve years of age or more shall be presumed to be of sufficient age and maturity to have such understanding.
+
+.
+
+(4) Where, at any time after the coming into force of the [^M34]Age of Legal Capacity (Scotland) Act 1991 but before the coming into force of subsection (3) above, a person who had not at that time attained the age of sixteen years made a request, declaration, statutory declaration or application mentioned in subsection (1) or (2) of the said section 18 in relation to a child in respect of whose birth an entry was consequently made under the said subsection (1) in a register of births, or as the case may be under the said subsection (2) in the Register of Corrections etc., the person shall be presumed to have had legal capacity to make the request, declaration, statutory declaration, or application in question.
+
+### 100 Inquiries into matters affecting children.
+
+After section 6A of the [^M35]Social Work (Scotland) Act 1968 there shall be inserted—
+
+> **6B Local authority inquiries into matters affecting children.**
+>
+> (1) Without prejudice to section 6A(1) of this Act, a local authority may cause an inquiry to be held into their functions under this Act, or any of the enactments mentioned in section 5(1B) of this Act, in so far as those functions relate to children.
+>
+> (2) The local authority may, before an inquiry under this section is commenced, direct that it be held in private; but where no such direction is given, the person holding the inquiry may if he thinks fit hold it, or any part of it, in private.
+>
+> (3) Subsections (2) to (6) of section 210 of the [^M36]Local Government (Scotland) Act 1973 (powers in relation to local inquiries) shall apply in relation to an inquiry under this section as they apply in relation to a local inquiry under that section, so however that, for the purposes of the application, any reference in those subsections to a Minister shall be construed as a reference to the local authority and any reference to an officer of his Department as a reference to an officer of that authority.
+>
+> (4) The expenses incurred by a local authority in relation to an inquiry under this section (including such reasonable sum as the authority may determine for the services of any of their officers engaged in the inquiry) shall, unless the authority are of the opinion that those expenses should be defrayed in whole or in part by them, be paid by such party to the inquiry as they may direct; and the authority may certify the amount of the expenses so incurred.
+>
+> (5) Any sum certified under subsection (4) above and to be defrayed in accordance with a direction under that subsection shall be a debt due by the party directed and shall be recoverable accordingly.
+>
+> (6) The local authority may make an award as to the expenses of the parties at the inquiry and as to the parties by whom such expenses shall be paid.
+
+.
+
+### 101 Panel for curatorsad litem, reporting officers and safeguarders.
+
+[[^F210](1) The Scottish Ministers may by regulations make provision for the establishment of one or more of each of the following—
+
+(a) a panel of persons from which curators ad litem may be appointed [[^F211]by virtue of section 108 of the Adoption and Children (Scotland) Act 2007 (asp 4)] [^F212]...;
+
+(b) a panel of persons from which reporting officers may be appointed under either of those sections; [^F213]...
+
+[^F213]c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) Regulations under subsection (1) above may provide, without prejudice to generality of that subsection—
+
+(a) for the appointment, qualifications and training of persons who may be appointed to [[^F214]those panels]; and
+
+(b) for the management and organisation of persons available for appointment from [[^F214]those panels].
+
+[[^F215](3) Regulations under subsection (1) above may provide—
+
+(a) for the defrayment by local authorities of expenses incurred by members of any panel established by virtue of that subsection; and
+
+(b) for the payment by local authorities of fees and allowances for such members.
+
+[^F216]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .]
+
+### 101A [[^F217]Register for child welfare reporters
+
+(1) A court may only appoint as a child welfare reporter a person who is included on the register maintained in accordance with subsection (2).
+
+(2) The Scottish Ministers must establish and maintain a register of persons who may be appointed to act as a child welfare reporter.
+
+(3) The Scottish Ministers may by regulations make provision for or in connection with—
+
+(a) the requirements that a person must satisfy in order to be included, and remain, on the register (including requirements as to training and qualifications),
+
+(b) the processes for including a person on, and removing a person from, the register (including appeal rights),
+
+(c) the process for how, and by whom, a registered person is to be selected as the appointed child welfare reporter in a case,
+
+(d) the remuneration by the Scottish Ministers of child welfare reporters, including expenses and outlays,
+
+(e) the operation and management of the register.
+
+(4) Before making, revising or revoking regulations under subsection (3), the Scottish Ministers must consult persons with lived experience of—
+
+(a) domestic abuse,
+
+(b) court-ordered contact.
+
+(5) Regulations under subsection (3) are subject to the negative procedure.]
+
+### 101B [[^F218]Register of curators ad litem for the purposes of section 11D
+
+(1) The Scottish Ministers must establish and maintain a register of persons who may be appointed to act as a curator ad litem in accordance with section 11D.
+
+(2) The Scottish Ministers may by regulations make provision for or in connection with—
+
+(a) the requirements that a person must satisfy in order to be included, and remain, on the register (including requirements as to training and qualifications),
+
+(b) the processes for including a person on, and removing a person from, the register (including appeal rights),
+
+(c) the process for how, and by whom, a registered person is to be selected as the appointed curator ad litem in a case,
+
+(d) the remuneration by the Scottish Ministers of curators ad litem appointed in accordance with section 11D, including expenses and outlays (such as counsel's fees),
+
+(e) the operation and management of the register.
+
+(3) Regulations under subsection (2) are subject to the negative procedure.]
+
+### 101C [[^F219]Contact services: regulation
+
+(1) The Scottish Ministers may by regulations make provision about the regulation of a contact service provided in relation to the requirements of a contact order.
+
+(2) Regulations under subsection (1) may in particular—
+
+(a) make provision for the minimum standards to be met by contact service providers, including qualifications and training of staff,
+
+(b) make provision for the registration of contact service providers that meet those minimum standards and, for those that do not, the refusal of registration or removal from the register (including appeal rights),
+
+(c) make provision for minimum standards to be met by contact centres (including standards in respect of accommodation),
+
+(d) make provision for the registration of contact centres that meet those minimum standards and, for those that do not, the refusal of registration or removal from the register (including appeal rights),
+
+(e) make provision about the conditions on which a regulated contact service provider may, in accordance with the regulations, provide a contact service at a place that is not registered as a contact centre (including conditions about the minimum standards for accommodation at a place if it is to be used for that purpose),
+
+(f) appoint a person or persons for the purposes of administering the registration of contact service providers and contact centres,
+
+(g) confer functions on the appointed person or persons,
+
+(h) determine the fees payable in connection with the registration of a contact service provider or contact centre.
+
+(3) Functions conferred by virtue of subsection (2)(g) may include—
+
+(a) inspecting contact centres, regulated contact service providers and contact service providers applying for registration,
+
+(b) having risk assessments of contact centres undertaken by persons trained in undertaking such assessments,
+
+(c) issuing reports on the inspection of contact centres, regulated contact service providers and contact service providers applying for registration,
+
+(d) issuing reports on any failure, or possible failure, by a contact service provider to comply with the provider's duties under the Equality Act 2010, and in particular any duty to make reasonable adjustments to premises in order to facilitate their use by disabled people,
+
+(e) refusing to register contact service providers and contact centres, and removing from a register regulated contact service providers and contact centres, that do not meet the minimum standards.
+
+(4) Regulations under subsection (1)—
+
+(a) may make such modifications to other enactments as the Scottish Ministers consider appropriate for the purposes of, or in connection with, or for giving full effect to the regulations,
+
+(b) are subject to the affirmative procedure.
+
+(5) In this section—
+
+- “contact centre” means a place that is used for the provision of a contact service,
+
+- “contact service” means the facilitation of contact between a child and a person with whom the child is not, or will not be, living (including the handover of the child to that person),
+
+- “enactment” includes an enactment comprised in, or in an instrument made under, an Act of the Scottish Parliament,
+
+- “regulated contact service” means a contact service that—
+
+  - (a) is provided by a regulated contact service provider, and
+  
+  - (b) is either—
+  
+    - (i) provided at a place that is registered as a contact centre in accordance with regulations under subsection (1), or
+    - (ii) provided in circumstances in which the provider may, in accordance with regulations under subsection (1), provide the service at a place that is not registered as a contact centre,
+
+- “regulated contact service provider” means an organisation that is registered in accordance with regulations under subsection (1) to provide contact services.]
+
+### 102 Removal of duty to report on operation of Children Act 1975.
+
+Section 105 of the [^M37]Children Act 1975 (which among other things provides that every five years there shall be laid before Parliament by the Secretary of State a report on the operation of such sections of that Act as are for the time being in force) shall cease to have effect.
+
+### 103 Interpretation, rules, regulations and Parliamentary control.
+
+(1) Any reference in this Act, or in any enactment amended by this Act, to a person having, or to there being vested in him, parental responsibilities or parental rights shall, unless the context otherwise requires, be construed as a reference to his having, or to there being so vested, any of those rights or as the case may be responsibilities.
+
+(2) Any reference in this Act to something being “prescribed” is, unless the context otherwise requires, a reference to its being prescribed by regulations; and any power conferred by this Act on the Secretary of State or the Lord Advocate to make rules or regulations shall be exercisable by statutory instrument which shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(3) Rules or regulations made under this Act—
+
+(a) may make different provision for different cases or classes of case; and
+
+(b) may exclude certain cases or classes of case.
+
+### 104 Financial provision.
+
+There shall be paid out of money provided by Parliament—
+
+(a) any expenses of the Secretary of State incurred in consequence of the provisions of this Act; and
+
+(b) any increase attributable to this Act in the sums payable out of money so provided under any other enactment.
+
+### 105 Extent, short title, minor and consequential amendments, repeals and commencement.
+
+(1) This Act, which subject to subsections (8) to (10) below extends to Scotland only—
+
+(a) may be cited as the Children (Scotland) Act 1995; and
+
+(b) except for subsections (1), (2) and (6) to (10) of this section, shall come into force on such day as the Secretary of State may by order made by statutory instrument appoint;
+
+and different days may be appointed under paragraph (b) above for different purposes.
+
+(2) An order under subsection (1)(b) above may contain such transitional and consequential provisions and savings as appear to the Secretary of State to be necessary or expedient in connection with the provisions brought into force.
+
+(3) The transitional provisions and savings contained in Schedule 3 to this Act shall have effect but are without prejudice to sections 16 and 17 of the [^M38]Interpretation Act 1978 (effect of repeals).
+
+(4) Schedule 4 to this Act, which contains minor amendments and amendments consequential upon the provisions of this Act, shall have effect.
+
+(5) The enactments mentioned in Schedule 5 to this Act (which include spent provisions) are hereby repealed to the extent specified in the third column of that Schedule.
+
+(6) The Secretary of State may by order made by statutory instrument make such further amendments or repeals, in such enactments as may be specified in the order, as appear to him to be necessary or expedient in consequence of any provision of this Act.
+
+(7) A statutory instrument containing an order under subsection (6) above shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(8) Sections 18, 26(2), 33, 44, [^F220][^F221]..., 93 and 104 of this Act and this section extend to England and Wales, and those sections and this section [^F221]... also extend to Northern Ireland; but—
+
+(a) subsection (4) of this section so extends—
+
+(i) to England and Wales, only in so far as it relates to paragraphs 8, 10, 19, 31, 37, 41(1), (2) and (7) to (9), 48 to 52, 54 and 55 of Schedule 4; and
+
+(ii) to Northern Ireland, only in so far as it relates to paragraphs 31, 37, 41(1), (2) and (7) to (9), 54, 55 and 58 of that Schedule; and
+
+(b) subsection (5) of this section so extends—
+
+(i) to England and Wales, only in so far as it relates to the entries in Schedule 5 in respect of Part V of the [^M39]Social Work (Scotland) Act 1968, the [^M40]Maintenance Orders (Reciprocal Enforcement) Act 1972, section 35(4)(c) of the [^M41]Family Law Act 1986, the [^M42]Children Act 1989, the [^M43]Child Support Act 1991 and the [^M44]Education Act 1993; and
+
+(ii) to Northern Ireland, only in so far as it relates to the entries in that Schedule in respect of Part V of the Social Work (Scotland) Act 1968, the Maintenance Orders (Reciprocal Enforcement) Act 1972 and section 35(4)(c) of the Family Law Act 1986.
+
+(9) This section, so far as it relates to the repeal of Part V of the Social Work (Scotland) 1968, also extends to the Channel Islands.
+
+[^F222][^F223]10 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## [^F224]SCHEDULE 1 — Children’s Panels
+
+*Section 39(2).*
+
+### [^F224] Appointment
+
+**[^F224]1** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F224]2** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F224] Children’s Panel Advisory Committees
+
+**[^F224]3** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F224]4** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F224]5** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F224]6** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F224]7** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F224] Joint Advisory Committees
+
+**[^F224]8** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F224] Recruitment and training of panel members
+
+**[^F224]9** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F224]10** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F224] Expenses of panel members
+
+**[^F224]11** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F224] Publication of list of members of children’s panel
+
+**[^F224]12** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## [^F225][^F225]SCHEDULE 2
+
+**1** The [^M45]Adoption (Scotland) Act 1978 shall be amended in accordance with this Schedule.
+
+**2** In section 1(2) (facilities to be provided as part of adoption service)—
+
+(a) paragraph (a) shall cease to have effect; and
+
+(b) for paragraph (c) substitute—
+
+> (bb) counselling and assistance (but, without prejudice to sections 51 to 51B, not assistance in cash) to children who have been adopted and to persons who have adopted a child; and
+>
+> (c) counselling for other persons if they have problems relating to adoption.
+
+.
+
+### . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F226]3**
+
+**4** Section 8 (direction where adoption society inactive or defunct) shall cease to have effect.
+
+**5** In section 9 (regulations relating to an adoption agency’s exercise of its functions)—
+
+[^F227]a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) after subsection (3) insert—
+
+> (3A) Regulations under this section may make provision—
+>
+> (a) as to the determination by an adoption agency of whether, as regards a child for whose adoption it proposes to make arrangements, any such agreement as is mentioned in sections 16(1)(b)(i) and 18(1)(a) is likely to be forthcoming and as to a period by the end of which, if they have determined that the agreement is unlikely to be forthcoming and if no application has been made for an adoption order in relation to the child, application for an order under section 18(1) shall require to be made in relation to him; and
+>
+> (b) where the case of a child for whose adoption an adoption agency proposes to make arrangements is referred under section 73(4)(c)(ii) or (iii) of the Children (Scotland) Act 1995 to the Principal Reporter (within the meaning of Part II of that Act), as to circumstances in which and, on the occurrence of such circumstances, a period by the end of which, if no application has been made for an adoption order in relation to the child, application for an order under section 18(1) shall require to be made in relation to him.
+
+.
+
+**6** In section 11(3) (offence of receiving child illegally placed for adoption), for paragraph (c) substitute—
+
+> (c) both receives a child placed with him in contravention of subsection (1) and knows that the placement is with a view to his adopting the child,
+
+.
+
+**7** In section 12 (adoption orders)—
+
+(a) in subsection (1)—
+
+(i) for the words “rights and duties relating” substitute “ responsibilities and parental rights in relation ”; and
+
+(ii) at the end add—
+
+> ; except that an adoption order may be made in relation to a person who has attained the age of 18 years if the application for it was made before such attainment.
+
+;
+
+(b) in subsection (2), for the words “rights and duties” substitute “ responsibilities and parental rights ”;
+
+(c) in subsection (3)—
+
+(i) in paragraph (a), for the words “right or duty” substitute “ responsibility or parental right ”; and
+
+(ii) in paragraph (b)(ii), for the words “rights and duties” substitute “ responsibilities and parental rights ”; and
+
+(d) at the end add—
+
+> (9) Where a court making an adoption order in relation to a child who is subject to a supervision requirement is satisfied that, in consequence of its doing so, compulsory measures of supervision in respect of the child are no longer necessary, it may determine that the child shall forthwith cease to be subject to that requirement.
+
+.
+
+**8** In section 14 (adoption by married couple)—
+
+(a) in subsection (1), the words from “subject” to “certain cases)” shall cease to have effect; and
+
+(b) in subsection (2), after paragraph (b) add—
+
+> , or
+>
+> (c) both of them were habitually resident in any of the places mentioned in paragraph (a) above throughout the period of one year which ends with the date of their application
+
+.
+
+**9** In section 15 (adoption by one person)—
+
+(a) in subsection (1), the words from “subject” to “certain cases)” shall cease to have effect; and
+
+(b) in subsection (2), after paragraph (b) add—
+
+> , or
+>
+> (c) he was habitually resident in any of the places mentioned in paragraph (a) above throughout the period of one year which ends with the date of his application
+
+.
+
+**10** In section 16 (provision for parental agreement to adoption order)—
+
+(a) for subsection (2) substitute—
+
+> (2) The grounds mentioned in subsection (1)(b)(ii) are, that the parent or guardian—
+>
+> (a) is not known, cannot be found or is incapable of giving agreement;
+>
+> (b) is withholding agreement unreasonably;
+>
+> (c) has persistently failed, without reasonable cause, to fulfil one or other of the following parental responsibilities in relation to the child—
+>
+> (i) the responsibility to safeguard and promote the child’s health, development and welfare; or
+>
+> (ii) if the child is not living with him, the responsibility to maintain personal relations and direct contact with the child on a regular basis;
+>
+> (d) has seriously ill-treated the child, whose reintegration into the same household as the parent or guardian is, because of the serious ill-treatment or for other reasons, unlikely.
+
+; and
+
+(b) subsection (5) shall cease to have effect.
+
+**11** In section 18 (making and effect of orders freeing for adoption)—
+
+(a) in subsection (1), after the word “agency” insert “ which is a local authority ”;
+
+(b) for subsection (5) substitute—
+
+> (5) On the making of an order under this section, the parental responsibilities and parental rights in relation to the child are transferred to the adoption agency.
+
+;
+
+(c) for subsection (7) substitute—
+
+> (7) Before making an order under this section in the case of a child whose father is not, and has not been, married to the mother and does not have any parental responsibilities or parental rights in relation to the child, the court shall satisfy itself in relation to any person claiming to be the father that—
+>
+> (a) he has no intention of applying for, or, if he did so apply, it is likely that he would be refused, an order under section 11 of the Children (Scotland) 1995 Act (orders in relation to parental responsibilities and parental rights); and
+>
+> (b) he has no intention of entering into an agreement with the mother under section 4(1) of that Act (acquisition by natural father by agreement of such responsibilties and rights), or, if he has such an intention, that no agreement under that subsection is likely to be made.
+
+; and
+
+(d) at the end add—
+
+> (9) Where a court making an order under this section in relation to a child who is subject to a supervision requirement is satisfied that, in consequence of its doing so, compulsory measures of supervision in respect of the child are no longer necessary, it may determine that the child shall forthwith cease to be subject to that requirement.
+
+.
+
+**12** In section 19 (progress reports)—
+
+(a) in subsection (1)—
+
+(i) for the words “(”the former parent”)” substitute “ (in this section and in section 20 referred to as the “relevant parent”) ”; and
+
+(ii) for the words “did not do so” substitute—
+
+> either—
+>
+> (a) did not do so; or
+>
+> (b) having done so, subsequently by written notice under this subsection to the adoption agency to which the parental responsibilities and parental rights have been transferred, has withdrawn such declaration.
+
+;
+
+(b) in subsection (2)—
+
+(i) for the words “in which the parental rights and duties were vested” substitute “ to which the parental responsibilities and parental rights were transferred ”; and
+
+(ii) for the word “former”, in both places where it occurs, substitute “ relevant ”;
+
+(c) in subsection (3)—
+
+(i) for the word “former”, wherever it occurs, substitute “ relevant ”; and
+
+(ii) for the words “have his home with a person with whom he has been placed for adoption” substitute “ be placed with a person with a view to his being adopted by that person ”; and
+
+(d) in subsection (4)—
+
+(i) for the words “the former” substitute “ the relevant ”;
+
+(ii) after paragraph (b) add— “ but a declaration under this subsection may be withdrawn in the same way as may a declaration under subsection (6) of section 18, in which event the agency shall no longer be so released ”; and
+
+(iii) for the words “that former” substitute “ that relevant ”.
+
+**13** In section 20 (revocation of order under section 18)—
+
+(a) in subsection (1)—
+
+(i) for the word “former” substitute “ relevant ”; and
+
+(ii) for the words “rights and duties” substitute “ responsibilities and parental rights ”;
+
+(b) after subsection (1) insert—
+
+> (1A) The adoption agency, at any time after the making of the order under section 18 when the conditions mentioned in paragraphs (a) and (b) of subsection (1) above are satisfied, may apply to the court which made the order for a further order revoking it.
+
+;
+
+(c) in subsection (2)—
+
+(i) for the words “the application” substitute “ an application under subsection (1) or (1A) ”; and
+
+(ii) for the words “rights and duties” substitute “ responsibilities and parental rights ”;
+
+(d) for subsection (3) substitute—
+
+> (3) Where an order freeing a child for adoption is revoked under this section, the court shall, by an order under section 11 of the Children (Scotland) Act 1995 determine on whom are to be imposed the parental responsibilities, and to whom are to be given the parental rights, in relation to the child.
+
+;
+
+(e) in subsection (4)—
+
+(i) for the words “if the application” substitute “ if an application under subsection (1) ”; and
+
+(ii) in paragraph (a), for the word “former” substitute “ relevant ”; and
+
+(f) in subsection (5), for the word “former” substitute “ relevant ”.
+
+**14** In section 21 (variation of order under section 18 so as to substitute one adoption agency for another)—
+
+(a) in subsection (1)—
+
+(i) for the words “rights and duties” substitute “ responsibilities and parental rights ”; and
+
+(ii) for the words “in which they are vested under” substitute “ to which they are transferred by virtue of ”; and
+
+(b) in subsection (3)—
+
+(i) for the words “rights and duties” substitute “ responsibilities and parental rights ”; and
+
+(ii) for the words “vested in” substitute “ been transferred to ”.
+
+**15** After section 22 insert—
+
+> **Children subject to supervision requirements.**
+>
+> **22A** (1) An approved adoption society shall refer the case of a child who is subject to a supervision requirement to the Principal Reporter where it is satisfied that the best interests of the child would be served by its placing the child for adoption and it intends so to place him.
+>
+> (2) On a case being referred to him under subsection (1), the Principal Reporter shall arrange for a children’s hearing to review the supervision requirement in question and shall make any arrangements incidental to that review.
+>
+> (3) Subsections (9), (13) and (14) of section 73 of the Children (Scotland) Act 1995 (which provide, respectively, for acting on the review of a supervision requirement, a report by a children’s hearing and consideration of that report) shall apply in relation to a children’s hearing arranged under this section as those subsections apply in relation to one arranged by virtue of subsection (4)(c)(iii) of that section.
+>
+> (4) In this section “Principal Reporter” has the same meaning as in Part II of the Children (Scotland) Act 1995.
+
+.
+
+**16** In section 24 (restrictions on making adoption orders), for subsection (2) substitute—
+
+> (2) The court may make an adoption order in relation to a child even where it is found that the applicants have, as respects the child, contravened section 51.
+>
+> (3) In considering whether to make an adoption order or an order under section 18(1), the court shall regard the welfare of the child concerned as its paramount consideration and shall not make the order in question unless it considers that it would be better for the child that it should do so than that it should not.
+
+.
+
+**17** In section 25(1) (making of interim order and preconditions for so doing)—
+
+(a) for the words “of sections 16(1) and 22(1) are complied with” substitute—
+
+> —
+>
+> (a) of section 16(1); and
+>
+> (b) in a case where the child was not placed with the applicant by an adoption agency, of section 22(1),
+>
+> are complied with
+
+; and
+
+(b) for the words “vesting the custody of the child in” substitute “ giving parental responsibilities and parental rights to ”.
+
+**18** After section 25 insert—
+
+> **Timetable for resolving question as to whether agreement to adoption order etc. should be dispensed with.**
+>
+> **25A** In proceedings in which the question arises as to whether the court is satisfied as is mentioned in section 16(1)(b)(ii) or 18(1)(b), the court shall, with a view to determining the question without delay—
+>
+> (a) draw up a timetable specifying periods within which certain steps must be taken in relation to those proceedings; and
+>
+> (b) give such directions as it considers appropriate for the purpose of ensuring, so far as is reasonably practicable, that the timetable is adhered to.
+
+.
+
+**19** In section 27 (restrictions on removal of a child by a parent or guardian who has agreed to an adoption order or to an order freeing the child for adoption)—
+
+(a) for subsections (1) and (2), substitute—
+
+> (1) Where—
+>
+> (a) an adoption agency has placed a child with a person with a view to his being adopted by the person; and
+>
+> (b) the consent of each parent or guardian of the child has been duly obtained to that placement (whether or not in knowledge of the identity of the person),
+>
+> any such parent or guardian shall not be entitled to remove the child from the care and possession of the person without the leave either of the adoption agency or of the court.
+>
+> (2) The reference in subsection (1) to consent having been duly obtained is to its having been obtained in accordance with such regulations as may be made by the Secretary of State for the purposes of this section.
+
+; and
+
+(b) in subsection (3), for the words “contravenes subsection (1) or (2)” substitute “ removes a child in contravention of subsection (1) ”.
+
+**20** In section 28 (restriction on removal of child from care and possession of applicant for adoption order etc.)—
+
+(a) in subsection (4), for the words from “, in terms of” to the end substitute “ under or by virtue of Chapter 2 or 3 of Part II of the Children (Scotland) Act 1995 ”; and
+
+(b) in subsection (5), the words “or of a voluntary organisation” and “ or the organisation ” shall cease to have effect.
+
+**21** Sections 32 to 37 (protected children) shall cease to have effect.
+
+**22** In section 45(5) (restrictions as to persons to whom information contained in the Adopted Children Register or in certain other registers or books may be provided, including a restriction as to the minimum age which an adopted person must be for it to be provided to him), for the word “17” substitute “ 16 ”.
+
+**23** In section 49(1) (adoption of children abroad), for the words “vesting in him the parental rights and duties relating” substitute “ transferring to him the parental responsibilities and parental rights in relation ”.
+
+**24** In section 51 (prohibition on certain payments)—
+
+(a) in subsection (1), after the word “section” insert “ and of section 51A(3) ”;
+
+(b) in subsection (2), for the words “the court may order any child in respect of whom the offence was committed” substitute “ without prejudice to any power which the court has to make any other order in relation to the child as respects whom the offence was committed, it may order him ”;
+
+(c) in subsection (5)—
+
+(i) at the beginning insert “ Subject to section 51B, ”; and
+
+(ii) at the end add “ (including any such payment made by virtue of section 51B) ”; and
+
+(d) subsections (6)(a) and (7) to (11) shall cease to have effect.
+
+**25** After section 51 insert—
+
+> **Adoption allowances schemes.**
+>
+> **51A** (1) Subject to subsection (2), an adoption agency which is—
+>
+> (a) a local authority shall, within such period after the coming into force of this section as the Secretary of State may by order direct;
+>
+> (b) an approved adoption society may,
+>
+> prepare a scheme (in this section and in section 51B referred to as an “adoption allowances scheme”) for the payment by the agency of allowances to any person who has adopted, or intends to adopt, a child in any case where arrangements for the adoption were made, or as the case may be are to be made, by the agency.
+>
+> (2) The Secretary of State may make regulations as respects adoption allowances schemes; and without prejudice to the generality of this subsection such regulations may in particular make provision as to—
+>
+> (a) the procedure to be followed by an agency in determining whether a person should be paid an allowance;
+>
+> (b) the circumstances in which an allowance may be paid;
+>
+> (c) the factors to be taken into account in determining the amount of an allowance;
+>
+> (d) the procedure for review, variation and termination of allowances;
+>
+> (e) the information about allowances which is to be supplied by an agency to a person who intends to adopt a child; and
+>
+> (f) the procedure to be followed by an agency in drawing up, in making alterations to, or in revoking and replacing, an adoption allowances scheme.
+>
+> (3) Section 51(1) shall not apply to any payment made in accordance with an adoption allowances scheme (including any such payment made by virtue of section 51B).
+>
+> **Transitional provisions as respects adoption allowances.**
+>
+> **51B** After the coming into force of section 51A—
+>
+> (a) no scheme for the payment of allowances shall be submissible under subsection (5) of section 51; and
+>
+> (b) a scheme which has been approved under that subsection of that section shall forthwith be revoked under subsection (6)(b) of that section, so however that where a person was before its revocation receiving payments made in accordance with that scheme he may continue to receive payments so made which, had there been no revocation, would have fallen to be made to him or he may agree to receive, instead of the continued payments, payments made in accordance with an adoption allowances scheme.
+
+.
+
+**26** In section 58 (curators*ad litem* and reporting officers), in subsection (2)(c), for the words “rights and duties relating” substitute “ responsibilities and parental rights in relation ”.
+
+**27** In section 59(4) (disapplication of provisions regarding rules), for the words “, 11 and 32 to 37” substitute “ and 11 ”.
+
+**28** In section 60(3) (affirmative procedure for certain orders), the words “or 51(9)” shall cease to have effect.
+
+**29** In section 65 (interpretation)—
+
+(a) in subsection (1)—
+
+(i) in the definition of “adoption order”, in each of paragraphs (b) and (c), for the words “and 30 to 32” substitute “ 30 and 31 ”;
+
+(ii) after the definition of “child” insert—
+
+> “compulsory measures of supervision” has the same meaning as in Part II of the Children (Scotland) Act 1995;
+
+;
+
+(iii) in the definition of “guardian”, paragraph (b) shall cease to have effect;
+
+(iv) in the definition of “local authority”, the words “, 35(1)” shall cease to have effect;
+
+(v) after the definition of “overseas adoption” insert—
+
+> “parent” means, irrespective of whether or not they are, or have been, married to each other—
+>
+> (a) the mother of the child, where she has parental responsibilities or parental rights in relation to him;
+>
+> (b) the father of the child where he has such responsibilities or rights; and
+>
+> (c) both of his parents, where both have such responsibilities or rights;
+>
+> “parental responsibilities” and “parental rights” have the meanings respectively given by sections 1(3) and 2(4) of the Children (Scotland) Act 1995 (analogous expressions being construed accordingly);
+
+;
+
+(vi) in the definition of “relative” for the words from “and any person” to the end substitute “ where he is not a parent within the meaning of this Act, and any person who would be a relative within the meaning of this definition if the father were such a parent; ” and
+
+(vii) after the definition of “specified order” insert—
+
+> “supervision requirement” has the same meaning as in Part II of the Children (Scotland) Act 1995;
+
+;
+
+(b) in subsection (3), for the words “44 of the Social Work (Scotland) Act 1968” substitute “ 70 of the Children (Scotland) Act 1995 ”; and
+
+(c) after subsection (5) add—
+
+> (6) Any reference in this Act to a child being in, received into or kept in, care (whether or not such care is expressed as being the care of a local authority and except where the context otherwise requires) shall be taken to be a reference to his being looked after by a local authority and shall be construed in accordance with section 17(6) of the Children (Scotland) Act 1995; and any reference to the authority in whose care a child is, shall be construed accordingly.
+
+.
+
+## SCHEDULE 3 — Transitional Provisions And Savings
+
+*Section 105(3).*
+
+**1** Where, immediately before the day appointed for the coming into force of section 25 of this Act, a child is by virtue of section 15 of the 1968 Act (duty of local authority to provide for orphans, deserted children etc.) in the care of a local authority, the child shall on and after that day be treated as if he had been provided with accommodation under (and within the meaning of) subsection (1) of the said section 25.
+
+**2** Sections 29 and 30 of this Act shall apply in respect of a person who, at the time when he ceased to be of school age (as defined in section 31 of the [^M46]Education (Scotland) Act 1980) or at any subsequent time, was—
+
+(a) in the care of a local authority by virtue of the said section 15 or of section 16 of the 1968 Act (assumption of parental rights and powers); or
+
+(b) subject to a supervision requirement (within the meaning of section 44(1) of the 1968 Act),
+
+as they apply in respect of a person who at such time was looked after (within the meaning of Part II of this Act) by a local authority.
+
+**3** Where the parental rights in respect of a child have, by a resolution under the said section 16 or under section 16A of the 1968 Act (duty of local authority in cases of necessity to assume parental rights and powers vested in a voluntary organisation), vested in a local authority and immediately before the day appointed for the coming into force of section 86 of this Act those rights remain so vested, the resolution shall on and after that day have effect as if it were a parental responsibilities order transferring the appropriate parental rights and responsibilities (as defined in subsection (3) of the said section 86) relating to the child to the authority; and any access order made under section 17B of the 1968 Act in relation to the child (with any order made under section 17C of that Act as respects the access order) being (in either case) an order which immediately before that day remains undischarged, shall on and after that day have effect as if it were an order made under section 88(3) of this Act as respects the child.
+
+**4** Where the parental rights in respect of a child have, by a resolution under the said section 16, vested in a voluntary organisation (as defined in section 93 of this Act) and immediately before the day mentioned in paragraph 3 above those rights remain so vested, the resolution shall, notwithstanding the repeal by this Act of the said section 16, continue to have effect until one of the following occurs—
+
+(a) the child attains the age of eighteen years;
+
+(b) the resolution is rescinded by the local authority because it appears to them that their doing so would promote the child’s welfare;
+
+(c) the period of six months commencing with that day expires;
+
+(d) an order is made by virtue of section 11(2)(b), or under section 86(1), of this Act in relation to the child;
+
+[[^F228](e) the making of an adoption order (as defined in section 28(1) of the Adoption and Children (Scotland) Act 2007 (asp 4)) in respect of the child;
+
+(f) the making of a permanence order (as defined in subsection (2) of section 80 of that Act) which includes provision such as is mentioned in paragraph (c) of that subsection in respect of the child.]
+
+**5** Where the circumstance by virtue of which a resolution under the said section 16 ceases to have effect is that mentioned in sub-paragraph (c) of paragraph 4 above, the appropriate parental rights and responsibilities (defined as mentioned in paragraph 3 above) in relation to the child shall transfer forthwith to the local authority in whose area he resides; and for the purposes of sections 86(6) and 87 to 89 of this Act the transfer shall be deemed effected by a parental responsibilities order applied for by that authority.
+
+**6** While a resolution continues to have effect by virtue of paragraph 4 above, sections 17(3A) and (6) to (10), 17A, 17B, 17D, 17E and 20(3) of the 1968 Act (together with the code of practice last published under subsection (5) of the said section 17E) shall continue to have effect in relation to the child in question notwithstanding the repeal by this Act of those sections.
+
+**7** Where an order made under—
+
+(a) section 10 (power of court in actions of divorce etc. to commit care of child to local authority) or 12 (power of court to provide for supervision of child) of the [^M47]Matrimonial Proceedings (Children) Act 1958;
+
+(b) section 11 of the [^M48]Guardianship Act 1973 (orders relating to care and custody of children); or
+
+(c) section 26 of the [^M49]Adoption (Scotland) Act 1978 (provision for supervision or care where adoption order refused),
+
+committed the care of the child to, or as the case may be placed the child under the supervision of, a local authority and immediately before the repeal by this Act of the section in question (the “relevant repeal”) that order remained undischarged, the order shall continue to have effect notwithstanding the relevant repeal until one of the following occurs—
+
+(i) the period of six months commencing with the date of the relevant repeal expires;
+
+(ii) the Court of Session direct, or the sheriff directs, that the order be discharged; or
+
+(iii) there is an event in consequence of which, but for the provisions (apart from this paragraph) of this Act, the order would have fallen to be discharged.
+
+**8** (1) Where relevant proceedings in relation to a child have been commenced and on the relevant date have not been concluded, the provisions of Part III of the 1968 Act shall continue to apply to those proceedings until the proceedings are concluded, notwithstanding the repeal of any of those provisions by this Act.
+
+(2) For the purposes of this paragraph, “relevant proceedings” means any proceedings at a children’s hearing under Part III of the 1968 Act, any application to the sheriff under that Part for a warrant or under section 42(2)(c) of that Act to establish any ground of referral, and any appeal under section 49 or 50 of that Act; and a reference to the commencement, or to the conclusion, of such proceedings shall be construed in accordance with sub-paragraph (3) or, as the case may be, (4) below.
+
+(3) Relevant proceedings are commenced when one of the following occurs—
+
+(a) a children’s hearing is arranged under section 37(4) or section 39(3) of the 1968 Act;
+
+(b) an application under section 42(2)(c) of that Act is lodged;
+
+(c) an appeal to the sheriff under section 49 of that Act is lodged;
+
+(d) an application under section 50(2) of that Act is made.
+
+(4) Relevant proceedings are concluded when one of the following occurs—
+
+(a) the sheriff discharges the referral under section 42(5) of the 1968 Act;
+
+(b) a children’s hearing discharge the referral under section 43(2) of that Act;
+
+(c) the period of three weeks after a children’s hearing make a supervision requirement under section 44 of that Act or on remission to them under section 49(5) of that Act, expires provided that no appeal has been lodged within that period against that decision under section 49 of that Act;
+
+(d) subject, as respects a decision under section 49(5)(b) of that Act, to head (c) above, the period of twenty eight days after the sheriff has disposed of an appeal under section 49(4), (5) or (6) of that Act expires provided that no application has been made within that period to him to state a case under section 50(2) of that Act;
+
+(e) the period of twenty eight days after the sheriff has disposed of a case remitted to him under section 50(3) expires provided that no further application under the said section 50(2) has been made.
+
+**9** Where a child has been taken to a place of safety, or is being detained in such a place, in accordance with section 37(2) of the 1968 Act before the relevant date, and the first lawful day for the purposes of subsection (4) of that section is on or after that date, the child’s case shall be proceeded with as if that day had been before the relevant date.
+
+**10** (1) Where on the relevant date a child is subject to a supervision requirement imposed under section 44 of the 1968 Act, he shall be treated as if the requirement had been imposed under section 70 of this Act; and in calculating any period of time for the purposes of section 73 of this Act, that requirement shall be deemed to have been imposed on the day on which the requirement was imposed under the said section 44 or, as the case may be, was last reviewed or varied under the said Act of 1968.
+
+(2) Where any relevant proceedings are concluded as mentioned in paragraph 8(4)(c) above, a supervision requirement imposed under section 44 of the 1968 Act shall have effect as if it were made under section 70 of this Act.
+
+(3) Where before the relevant date, or in any relevant proceedings, the sheriff has in relation to a supervision requirement made an order under section 49(6) of the 1968 Act, that order shall have effect in relation to the supervision requirement deemed to have been made under section 70 of this Act as it would have had effect in relation to the supervision requirement made under section 44 of the 1968 Act.
+
+**11** In this Schedule—
+
+- “the 1968 Act” means the [^M50]Social Work (Scotland) Act 1968;
+- “the relevant date” means the date on which the repeal of Part III of the 1968 Act by this Act takes effect; and
+- “relevant proceedings” shall be construed in accordance with paragraph 8(2) above.
+
+## SCHEDULE 4 — Minor and Consequential Amendments
+
+*Section 105(4).*
+
+### Lands Clauses Consolidation (Scotland) Act 1845 (c.19)
+
+**1** (1) The Lands Clauses Consolidation (Scotland) Act 1845 shall be amended in accordance with this paragraph.
+
+(2) In section 7 (which makes provision for certain persons to have full power to sell and convey land)—
+
+(a) after the word “husbands,” insert “ persons who, within the meaning of Part I of the Children (Scotland) Act 1995, are entitled to act as the legal representatives of a child, ”;
+
+(b) after the words “guardians for” the words “persons under a legal disability by reason of nonage” shall cease to have effect; and
+
+(c) after the word “whether”, the words “persons under legal disability by reason of nonage” shall cease to have effect;
+
+(d) after the word “such” where it appears for the sixth time, insert “ legal representatives, ”; and
+
+(e) after the word “such” where it appears for the seventh time, the words “persons under legal disability by reason of nonage” shall cease to have effect.
+
+(3) In section 67 (certain payments to persons under a disability to be deposited with the Bank)—
+
+(a) after the word “husband,” insert “ a person who, within the meaning of Part I of the Children (Scotland) Act 1995, is entitled to act as a legal representative of a child ”; and
+
+(b) the words “persons under legal disability by reason of nonage” shall cease to have effect.
+
+(4) In section 69 (nomination of trustees to whom certain payments of under £200 may be paid)—
+
+(a) the words “legal disability by reason of nonage” shall cease to have effect; and
+
+(b) after the word “husbands,” insert “ legal representatives of a child (within the meaning of Part I of the Children (Scotland) Act 1995), ”.
+
+(5) In section 70 (sums of under £20 to be paid to certain persons), after the word “husbands,” insert “ legal representatives of a child (within the meaning of Part I of the Children (Scotland) Act 1995), ”.
+
+### Judicial Factors (Scotland) Act 1849 (c.51)
+
+**2** (1) The Judicial Factors (Scotland) Act 1849 shall be amended in accordance with this paragraph.
+
+(2) In section 1 (interpretation), the words from “the word ”Guardian” to” “years;” shall cease to have effect.
+
+(3) In section 10 (duty of accountant to supervise judicial factors and others), for the words “guardians and tutors” substitute “ , tutors ”.
+
+(4) Section 25(2) (guardians to be subject to the provisions of the Act), shall cease to have effect.
+
+(5) In section 27 (limitation by court of amount of caution), the words “guardians and” shall cease to have effect.
+
+(6) In section 31 (power of court to remove tutors etc.), the word “guardian” shall cease to have effect.
+
+(7) In section 32 (provisions of the Act not to alter existing powers, rights and duties of offices), the word “guardian,” shall cease to have effect.
+
+(8) In section 33 (power of accountant to obtain information from banks), the words “guardians or” shall cease to have effect.
+
+(9) In section 34 (petitions for discharge of office), in both places where it occurs, the word “guardian,” shall cease to have effect.
+
+(10) In section 34A (act of sederunt to provide for other forms of discharge), for the words “, death or coming of age” substitute “ or death ”.
+
+(11) In section 36 (records held by accountant to be open to inspection), the word “guardianships,” shall cease to have effect.
+
+(12) In section 37 (accumulation of interest on accounts), the word “guardian,” shall cease to have effect.
+
+(13) In section 40 (act of sederunt to regulate*inter alia* application of the Act to offices other than judicial factors), in both places where it occurs, the word “guardians,” shall cease to have effect.
+
+### Improvement of Land Act 1864 (c.114)
+
+**3** In section 24 of the Improvement of Land Act 1864 (representation of persons under disability in certain applications etc.), for the words from the beginning to “feoffee” where it last occurs substitute “ Any person entitled to act as the legal representative of a person under legal disability by reason of non-age or mental incapacity shall be entitled to act on behalf of that person for the purposes of this Act; and any trustee, judicial factor, executor or administrator shall, subject to any other enactment, have the same rights and powers for the purposes of this Act as if the property vested in or administered by him had been vested in him in his own right; but no such legal representative ”.
+
+### Judicial Factors (Scotland) Act 1880 (c.4)
+
+**4** In section 3 of the Judicial Factors (Scotland) Act 1880 (interpretation), in the definition of “judicial factor”—
+
+(a) for the word “*absentis*,” substitute “ absentis and ”; and
+
+(b) the words from “and” to “required,” shall cease to have effect.
+
+### Heritable Securities (Scotland) Act 1894 (c.44)
+
+**5** In section 13 of the Heritable Securities (Scotland) Act 1894 (persons to have powers conferred by Act where person subject to legal disability), for the words “and trustees” substitute
+
+> and—
+>
+> (a) any person entitled, within the meaning of Part I of the Children (Scotland) Act 1995, to act as the legal representative of a child; and
+>
+> (b) trustees
+
+.
+
+### Trusts (Scotland) Act 1921 (c.58)
+
+**6** In section 2 of the Trusts (Scotland) Act 1921 (interpretation)—
+
+(a) in the definition of “trustee” the words “(including a father or mother acting as guardian of a child under the age of 16 years)” shall cease to have effect; and
+
+(b) after the definition of “trustee” insert—
+
+> “curator” and “tutor” shall have respectively the meanings assigned to these expressions by section 1 of the Judicial Factors Act 1849;
+>
+> “guardian” shall not include any person who, within the meaning of Part I of the Children (Scotland) Act 1995, is entitled to act as the legal representative of a child;
+
+.
+
+### Children and Young Persons (Scotland) Act 1937 (c. 37)
+
+**7** (1) The Children and Young Persons (Scotland) Act 1937 shall be amended in accordance with this paragraph.
+
+(2) In section 12 (cruelty to persons under sixteen)—
+
+(a) in subsection (1), for the words from “has the custody” to “that age” substitute “ who has parental responsibilities in relation to a child or to a young person under that age or has charge or care of a child or such a young person, ”;
+
+(b) in subsection (2)(a), after the words “young person” insert “ or the legal guardian of a child or young person ”; and
+
+(c) in subsection (4), for the words from “of whom” to “or care” substitute “ and he had parental responsibilities in relation to, or charge or care of, that child or young person ”.
+
+(3) In section 15 (causing or allowing persons under sixteen to be used for begging), in each of subsections (1) and (2), for the words “the custody” substitute “ parental responsibilities in relation to, or having ”.
+
+(4) In section 22 (exposing children under seven to risk of burning), for the words from “having the custody” to “seven years” substitute “ and who has parental responsibilities in relation to a child under the age of seven years or charge or care of such a child ”.
+
+(5) In section 27 (interpretation)—
+
+(a) the first paragraph shall cease to have effect; and
+
+(b) in the second paragraph, for the words “the custody of” substitute “ parental responsibilities in relation to ”.
+
+(6) In section 110(1) (interpretation)—
+
+(a) after the definition of “local authority” insert—
+
+> “parental responsibilities” has the same meaning as in section 1(3) of the Children (Scotland) Act 1995 and includes the responsibilities which a father would have as a parent but for the operation of section 3(1)(b) of that Act;
+
+;
+
+(b) for the definition of “Place of Safety”, substitute
+
+> “place of safety” has the meaning give by section 93(1) of the Children (Scotland) Act 1995;
+
+; and
+
+(c) for the definition of “Residential establishment” substitute
+
+> “residential establishment” has the meaning given by the said section 93(1);
+
+.
+
+### Mines and Quarries Act 1954 (c. 70)
+
+**8** In section 182(1) of the Mines and Quarries Act 1954 (interpretation), in the definition of “parent”, for the words from “means” to “and includes” substitute “ means a parent of a young person or any person who is not a parent of his but who has parental responsibility for him (within the meaning of the [^M51]Children Act 1989) or who has parental responsibilities in relation to him (within the meaning of section 1(3) of the Children (Scotland) Act 1995), and includes ”.
+
+### Matrimonial Proceedings (Children) Act 1958 (c. 40)
+
+**9** In section 11(1) of the Matrimonial Proceedings (Children) Act 1958 (reports as to arrangements for future care and upbringing of children), for the words from the beginning to “the court may” substitute “ Where the court is considering any question relating to the care and upbringing of a child, it may ”.
+
+### Factories Act 1961 (c. 34)
+
+**10** In section 176(1) of the Factories Act 1961 (interpretation)—
+
+[^F229]a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) in the definition of “parent”, for the words from “means” to “and includes” substitute “ means a parent of a child or young person or any person who is not a parent of his but who has parental responsibility for him (within the meaning of the Children Act 1989) or who has parental responsibilities in relation to him (within the meaning of section 1(3) of the Children (Scotland) Act 1995), and includes ”.
+
+### Education (Scotland) Act 1962 (c. 47)
+
+**11** In section 145(33) of the Education (Scotland) Act 1962 (interpretation), for the words “the actual custody of” substitute “ parental responsibilities (within the meaning of section 1(3) of the Children (Scotland) Act 1995) in relation to, or has the care of, ”.
+
+### Registration of Births, Deaths and Marriages (Scotland) Act 1965 (c. 49)
+
+**12** (1) The Registration of Births, Deaths and Marriages (Scotland) Act 1965 shall be amended in accordance with this paragraph.
+
+(2) In section 20(3)(a) (re-registration of birth of person under sixteen), for sub-paragraphs (i) and (ii) substitute “ , by any person (whether or not he has himself attained the age of sixteen years) having parental responsibilities in relation to that person; ”.
+
+(3) In section 43 (recording of baptismal name or change of name or surname)—
+
+(a) in subsection (3), the words from “In this” to the end shall cease to have effect;
+
+(b) in subsections (6)(a) and (7), for the words “the parent or guardian” substitute “ the qualified applicant ”;
+
+(c) after subsection (9) insert—
+
+> (9A) In this section “qualified applicant” means—
+>
+> (a) where only one parent has parental responsibilities in relation to the child, that parent;
+>
+> (b) where both parents have such responsibilities in relation to the child, both parents; and
+>
+> (c) where neither parent has such responsibilities, any other person who has such responsibilities.
+>
+> (9B) A person may be a qualified applicant for the purposes of this section whether or not he has attained the age of sixteen years
+
+; and
+
+(d) subsection (10) shall cease to have effect.
+
+(4) In section 53(3)(c) (offence of failure by parent to give information concerning birth), after the word “fails” insert “ without reasonable excuse ”.
+
+(5) In section 56(1) (interpretation), after the definition of “parentage” insert—
+
+> “parental responsibilities” has the meaning given in section 1(3) of the Children (Scotland) Act 1995;
+
+**13** Where, at any time after the coming into force of the [^M52]Age of Legal Capacity (Scotland) Act 1991 but before the coming into force of—
+
+(a) sub-paragraph (2) of paragraph 12 of this Schedule, a person’s mother or father, who had not at that time attained the age of sixteen years, purported to apply under section 20(3)(a) of that Act to re-register the person’s birth, the mother, or as the case may be the father, shall be presumed to have had legal capacity to make the application; or
+
+(b) sub-paragraph (3)(c) of that paragraph, a person who had not at that time attained the age of sixteen years purported to make an application under any provision of section 43 of that Act (“making an application” including for the purposes of this sub-paragraph, without prejudice to the generality of that expression, signing and delivering a certificate in accordance with subsection (3) of that section) the person shall be presumed to have had legal capacity to make the application.
+
+### Law Reform (Miscellaneous Provisions)(Scotland) Act 1966 (c.19)
+
+**14** In section 8 of the Law Reform (Miscellaneous Provisions)(Scotland) Act 1966 (variation and recall of certain orders in respect of maintenance, custody etc.)—
+
+(a) in subsection (1), after paragraph (c) insert—
+
+> (cc) an order under section 11 of the Children (Scotland) Act 1995 (orders in respect of parental responsibilities etc.) or under any earlier enactment relating to the custody, care or supervision of a child, or access to a child;
+
+; and
+
+(b) in subsection (6), in the definition of “sheriff”, in paragraph (a), for the words “or (c)” substitute “ , (c) or (cc) ”.
+
+### Social Work (Scotland) Act 1968 (c.49)
+
+**15** (1) The Social Work (Scotland) Act 1968 shall be amended in accordance with this paragraph.
+
+(2) In section 1(1) (duty of local authority to implement statutory duties not falling on other authorities), after the word “Act” insert “ or Part II of the Children (Scotland) Act 1995 ”.
+
+(3) In section 4 (arrangements for provision of assistance to local authorities by other bodies), after “1984” insert “ or Part II of the Children (Scotland) Act 1995 ”.
+
+(4) In section 5 (powers of the Secretary of State in relation to certain functions of local authorities)—
+
+(a) in subsection (1) after the word “Act” insert “ and Part II of the Children (Scotland) Act 1995 ”;
+
+(b) in subsection (1B)—
+
+(i) before paragraph (o), the word “and” shall cease to have effect; and
+
+(ii) at the end add
+
+> ; and
+>
+> (p) Part II of the Children (Scotland) Act 1995.
+
+;
+
+(c) in subsection (2), in paragraph (c) for the words “and (o)” substitute “ , (o) and (p) ”; and
+
+(d) for subsection (3) substitute—
+
+> (3) Without prejudice to the generality of subsection (2) above, regulations under this section may make such provision as is mentioned in subsection (4) of this section as regards—
+>
+> (a) the boarding out of persons other than children by local authorities and voluntary organisations, whether under any enactment or otherwise; and
+>
+> (b) the placing of children under paragraph (a), or the making of arrangements in respect of children under paragraph (c), of section 26(1) of the Children (Scotland) Act 1995, by local authorities.
+>
+> (4) The provision referred to in subsection (3) of this section is—
+>
+> (a) for the recording—
+>
+> (i) by local authorities and voluntary organisations, of information relating to those with whom persons are so boarded out, or who are willing to have persons so boarded out with them; and
+>
+> (ii) by local authorities, of information relating to those with whom children are so placed or with whom such arrangements are made or who are willing to have children so placed with them or to enter into such arrangements;
+>
+> (b) for securing that—
+>
+> (i) persons are not so boarded out in any household unless it is for the time being approved by such local authority or voluntary organisation as may be prescribed by the regulations; and
+>
+> (ii) children are not so placed or, in accordance with such arrangements, provided with accommodation, in any household unless it is for the time being approved by the local authority placing the child or as the case may be making the arrangements;
+>
+> (c) for securing that, where possible, the person with whom a child is so placed or with whom such arrangements are made is either of the same religious persuasion as the child or gives an undertaking that the child shall be brought up in that persuasion;
+>
+> (d) for securing—
+>
+> (i) that a person who is, and the place in which he is, so boarded out by a local authority or voluntary organisation is supervised and inspected by that authority or organisation; and
+>
+> (ii) that a child who is, and the place in which he is, so placed or, in accordance with such arrangements, provided with accommodation, by a local authority is supervised and inspected by that authority,
+>
+> and that he shall be removed from the place in question if his welfare appears to require it.
+>
+> (5) In subsections (3) and (4) of this section, “child” has the same meaning as in Chapters 2 and 3 of Part II of the Children (Scotland) Act 1995.
+
+(5) In section 5B (requirement to establish complaints procedures)—
+
+(a) in subsection (4), in paragraph (b), for the words “rights in respect of” substitute “ responsibilities and parental rights (within the meaning of section 1(3) and section 2(4) respectively of the Children (Scotland) Act 1995) in relation to ”; and
+
+(b) in subsection (5), at the end of the definition of “child”, the words from “ and ” to the end of the subsection shall cease to have effect.
+
+(6) [^F230]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7) For subsection (1) of section 6A (power of the Secretary of State to hold inquiries), substitute—
+
+> (1) Without prejudice to section 6B(1) of this Act, the Secretary of State may cause an inquiry to be held into—
+>
+> (a) the functions of a local authority under this Act or any of the enactments mentioned in section 5(1B) of this Act;
+>
+> (b) the functions of an adoption society, within the meaning of section 65 of the [^M53]Adoption (Scotland) Act 1978;
+>
+> (c) the functions of a voluntary organisation in so far as those functions relate to establishments to which sections 61 to 68 of this Act apply;
+>
+> (d) the detention of a child under—
+>
+> (i) section 57 of the [^M54]Children and Young Persons (Scotland) Act 1937; or
+>
+> (ii) section 206 or 413 of the [^M55]Criminal Procedure (Scotland) Act 1975; or
+>
+> (e) the functions of the Principal Reporter under Part III of the [^M56]Local Government (Scotland) Act 1994, the Children (Scotland) Act 1995 or any other enactment.
+
+(8) In section 9 (powers of the Secretary of State with regard to training etc.), in subsections (1) and (2), after the word “Act” insert “ or Part II of the Children (Scotland) Act 1995 ”.
+
+(9) In section 10(1) (making of grants and loans for social work), for the words “and (l)” substitute “ , (l) and (p) ”.
+
+(10) In section 11(1) (local authority authorised by Secretary of State to purchase compulsorily land), in subsection (1), after the word “Act” insert “ or Part II of the Children (Scotland) Act 1995 ”.
+
+(11) In section 12 (general social welfare services of local authorities), for the words from “be given” in subsection (1) to “a person” in subsection (2)(b) substitute—
+
+> , subject to subsections (3) to (5) of this section, be given in kind or in cash to, or in respect of, any relevant person.
+>
+> (2) A person is a relevant person for the purposes of this section if, not being less than eighteen years of age, he is
+
+.
+
+[^F231]12 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(13) In section 29 (power of local authority to defray expenses of parents etc. visiting persons accommodated by a local authority or attending certain funerals)—
+
+(a) in subsection (1)—
+
+(i) for the words from “a person” to “respect” substitute—
+
+> —
+>
+> (a) a person, other than a child, in the care of the authority or receiving assistance from the authority; or
+>
+> (b) a child who is being looked after by the authority,
+>
+> in respect
+
+;
+
+(ii) after the words “visiting the person” insert “ or child ”; and
+
+(iii) for the words “the person”, where they occur for the second time, substitute “ him ”;
+
+[^F232]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F232]c . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(14) Part III (children in need of compulsory measures of care) shall cease to have effect, with the exception of subsections (1) and (3) of section 31 and the amendments provided for by the said subsection (3) and contained in Schedule 2 to that Act.
+
+(15) In section 59(1) (provision and maintenance of residential and other establishments) after the word “Act,”, where it occurs for the second time, insert “ or under Part II of the Children (Scotland) Act 1995, ”
+
+[^F233]16 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(17) In section 78 (duty to make contributions in respect of children in care etc.)—
+
+(a) in subsection (1)—
+
+(i) for the words “has been received into care under Part II of this Act” substitute “ is being looked after by a local authority ”; and
+
+(ii) in paragraph (a), for the words “his father and mother” substitute “ any natural person who has parental responsibilities (within the meaning of section 1(3) of the Children (Scotland) Act 1995) in relation to him ”; and
+
+(b) for subsection (2) substitute—
+
+> (2) This Part of this Act applies to any supervision requirement which, under paragraph (a) of section 70(3) of the Children (Scotland) Act 1995, requires the child concerned to reside in a place or places other than his own home.
+
+.
+
+(18) In section 78A (recovery of contributions), in subsection (2)(a), for the words “in their care or under their supervision” substitute “ looked after by them ”.
+
+(19) In section 79 (recipients of contributions)—
+
+(a) in subsection (1), for the words “in the care or under the supervision of” substitute “ looked after by ”; and
+
+(b) in subsection (2), for the words “having the care or supervision of” substitute “ looking after ”.
+
+(20) In section 80 (enforcement of duty to make contributions)—
+
+(a) in subsection (1), for the words from “received” to “requirement” substitute “ looked after by a local authority ”;
+
+(b) in subsection (4), for paragraphs (a) and (b) substitute “ throughout the period during which he is looked after by a local authority ”;
+
+(c) in subsection (5), for the words “is the maintainable child’s father or mother” substitute “ , being a natural person, has parental responsibilities (within the meaning of section 1(3) of the Children (Scotland) Act 1995) in relation to the maintainable child ”; and
+
+(d) in subsection (7), for the words “having the care or supervision of” substitute “ looking after ”.
+
+(21) In section 82(1) (recovery of arrears of contributions), for the words “having the care or supervision of” substitute “ looking after ”.
+
+(22) In section 83(2) (variation of trusts where person in whose care a child has been residing is for the time being residing in England, Wales or Northern Ireland), for the words “having the care or supervision of” substitute “ looking after ”.
+
+(23) After section 83 insert—
+
+> **References in this Part of this Act to child being looked after.**
+>
+> **83A** In this Part of this Act, references to a child being looked after by a local authority shall be construed in accordance with section 17(6) of the Children (Scotland) Act 1995.
+
+.
+
+(24) In section 86 (adjustments between local authorities as regards certain expenditure)—
+
+(a) in subsection (1)—
+
+(i) in paragraph (a), after the word “Act” insert “ , or under section 25 of the Children (Scotland) Act 1995, ”; and
+
+(ii) in paragraph (b), for the words from “of services” to “Act”, where it occurs for the second time, substitute “ , or under or by virtue of Part II of the said Act of 1995, of services and facilities for a person ordinarily so resident (including, in the case of a child, any expenses incurred after he has ceased to be a child, and, in the event of another local authority taking over, under section 25(4) of that Act, the provision of accommodation for him, ” ); and
+
+(b) in subsection (3), after the words “1989” insert “ or provided with accommodation under paragraph (a) of, or by virtue of paragraph (c) of, section 26(1) of the Children (Scotland) Act 1995 ”.
+
+(25) In section 87 (charges which may be made for services and accommodation), in each of subsections (1) and (1A), after the words “1984” there shall be inserted “ or under or by virtue of Part II of the Children (Scotland) Act 1995 ”.
+
+(26) Section 88 (duty of parents to notify change of address) shall cease to have effect.
+
+(27) In section 90(1) (power to make regulations, orders or rules), the words “(other than orders under section 52 and 58 and Part V of this Act)”) shall cease to have effect.
+
+(28) In section 94(1) (interpretation)—
+
+(a) the definition of “children’s panel” and of “children’s hearing” shall cease to have effect;
+
+(b) the definition of “compulsory measures of care” shall cease to have effect;
+
+(c) in the definition of “establishment”, after the word “Act,” insert “ or of Part II of the Children (Scotland) Act 1995, ”;
+
+(d) the definition of “guardian” shall cease to have effect;
+
+(e) for the definition of “parent” substitute—
+
+> “parent” means either parent or both parents, except that where the child was born out of wedlock and the parents have not subsequently married each other it means the natural mother but not the natural father;
+
+;
+
+(f) the definition of “place of safety” shall cease to have effect;
+
+(g) in the definition of “prescribed”—
+
+(i) in paragraph (a), for the words “sections 3 and 36” substitute “ section 3 ”; and
+
+(ii) paragraph (b) shall cease to have effect;
+
+(h) in the definition of “residential establishment”, after the word “Act” insert “ or of Part II of the Children (Scotland) Act 1995 ”;
+
+(i) the definition of “school age” shall cease to have effect;
+
+(j) in the definition of “supervision requirement”, for the words “section 44(1) of this Act” substitute “ section 70(1) of the Children (Scotland) Act 1995 ”.
+
+(k) for the definition of “training school” substitute—
+
+> “training school” has the meaning assigned to it by section 180(1) of the Children and Young Persons Act (Northern Ireland) 1968;
+
+)
+
+(29) In section 97 (provisions of the Act which extend to England and Wales)—
+
+(a) subsection (1), the words “section 44(1) (except head (b)) and (1A)”, “section 58” and “Part V” shall cease to have effect; and
+
+(b) subsections (2) and (3) shall cease to have effect.
+
+(30) In Schedule 2 (general adaptations of Part IV of [^M57]Children and Young Persons (Scotland) Act 1937), for paragraph 1 substitute—
+
+> **1** Any reference to a child or to a young person shall be construed as a reference to a child as defined in section 93(2)(b) of the Children (Scotland) Act 1995.
+
+.
+
+### Children and Young Persons Act 1969 (c. 54)
+
+**16** In Schedule 5 to the Children and Young Persons Act 1969, paragraphs 57 and 65(1) (which relate to the provision of accommodation for children outside Scotland) shall cease to have effect.
+
+### Chronically Sick and Disabled Persons Act 1970 (c. 44)
+
+**17** (1) The Chronically Sick and Disabled Persons Act 1970 shall be amended in accordance with this paragraph.
+
+(2) In section 18(2) (information as to accommodation of younger with older persons), for the words “having functions under the Social Work (Scotland) Act 1968” substitute “ , in respect of their functions both under the Social Work (Scotland) Act 1968 and under the Children (Scotland) Act 1995, ”.
+
+(3) In section 29(2) (modifications of provisions of the Act in their application to Scotland)—
+
+(a) in paragraph (a), at the end add “ except that in the case of persons under eighteen years of age such references shall instead be construed as references to duties to disabled children (within the meaning of Chapter 1 of Part II of the Children (Scotland) Act 1995) ”; and
+
+(b) for paragraph (b) substitute—
+
+> (b) any references to services provided under arrangements made by a local authority under the said section 29 shall be construed as references to services for—
+>
+> (i) such chronically sick or disabled, or such mentally disordered, persons provided by virtue of the said section 12; or
+>
+> (ii) such disabled children provided under section 23(1) of the said Act of 1995,
+>
+> by a local authority;
+
+.
+
+### Sheriff Courts (Scotland) Act 1971 (c. 58)
+
+**18** (1) The Sheriff Courts (Scotland) Act 1971 shall be amended in accordance with this paragraph.
+
+(2) In section 32(1) (power of Court of Session to regulate civil procedure in the sheriff court), after paragraph (i) insert—
+
+> (j) permitting a person who is not an advocate or solicitor and is not represented by an advocate or solicitor to transmit, whether orally or in writing, the views of a child to the sheriff for the purposes of any enactment which makes provision (however expressed) for the sheriff to have regard to those views.
+
+.
+
+(3) In section 37(2A) (remit to Court of Session), for the words “the custody” substitute “ parental responsibilities or parental rights (within the meaning of sections 1(3) and 2(4) respectively of the Children (Scotland) Act 1995) in relation to a child or the ”.
+
+### Employment of Children Act 1973 (c. 24)
+
+**19** [^F234]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Domicile and Matrimonial Proceedings Act 1973 (c. 45)
+
+**20** (1) The Domicile and Matrimonial Proceedings Act 1973 shall be amended in accordance with this paragraph.
+
+(2) In section 10 (ancillary and collateral orders)—
+
+(a) in subsection (1)—
+
+(i) for the words from the beginning to “in connection with” substitute “ Where after the commencement of this Act an application is competently made to the Court of Session or to a sheriff court for the making, or the variation or recall, of an order which is ancillary or collateral to ”;
+
+(ii) the words “as respects the person or property in question” shall cease to have effect; and
+
+(b) after subsection (1) insert—
+
+> (1A) For the purposes of subsection (1) above, references to an application for the making, or the variation or recall, of an order are references to the making, or the variation or recall, of an order relating to children, aliment, financial provision on divorce, judicial separation, nullity of marriage or expenses.
+
+.
+
+(3) In paragraph 11 of Schedule 3 (sisting of consistorial action)—
+
+(a) in sub-paragraph (1), in the definition of “the relevant order”, for the words from “made” to the end substitute “ relating to aliment or children ”; and
+
+(b) in sub-paragraph (3), for the words “custody of a child, and the education of a child” substitute “ arrangements to be made as to with whom a child is to live, contact with a child, and any other matter relating to parental responsibilities within the meaning of section 1(3) of the Children (Scotland) Act 1995 or parental rights within the meaning of section 2(4) of that Act ”.
+
+### Land Compensation (Scotland) Act 1973 (c.56)
+
+**21** (1) The Land Compensation (Scotland) Act 1973 shall be amended in accordance with this paragraph.
+
+(2) In section 35(3) (disturbance payments where modification of dwelling required for disabled person), in paragraph (a), after “1968” insert “ or section 23 of the Children (Scotland) Act 1995 ”.
+
+(3) In section 80(1) (interpretation), in the definition of “disabled person”—
+
+(a) after “means” insert
+
+> —
+>
+> (a)
+
+; and
+
+(b) after “1972” insert
+
+> ; and
+>
+> (b) a child in need within the meaning of section 93(4)(a)(iii) of the Children (Scotland) Act 1995
+
+.
+
+### Local Government (Scotland) Act 1973 (c. 65)
+
+**22** (1) The Local Government (Scotland) Act 1973 shall be amended in accordance with this paragraph.
+
+(2) In section 56(9) (enactments exempted from repeal by virtue of that section), for paragraph (d) substitute—
+
+> (d) paragraphs 3 and 8 of Schedule 1 to the Children (Scotland) Act 1995 (Children’s Panel Advisory Committees and joint advisory committees);
+
+.
+
+(3) In Schedule 25, paragraph 41 shall cease to have effect.
+
+(4) In Schedule 27, paragraphs 185 and 187 shall cease to have effect.
+
+### Rehabilitation of Offenders Act 1974 (c. 53)
+
+**23** (1) The Rehabilitation of Offenders Act 1974 shall be amended in accordance with this paragraph.
+
+[^F235]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F235]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) In section 7(2) (limitations on rehabilitation)—
+
+(a) for paragraph (c) substitute—
+
+> (c) in any proceedings relating to parental responsibilities or parental rights (within the meaning of section 1(3) and section 2(4) respectively of the Children (Scotland) Act 1995), guardianship, adoption or the provision by any person of accommodation, care or schooling for children under the age of 18 years;
+>
+> (cc) in any proceedings under Part II of the Children (Scotland) Act 1995;
+
+;
+
+(b) paragraph (e) shall cease to have effect; and
+
+(c) the words from “In the application” to the end shall cease to have effect.
+
+### Criminal Procedure (Scotland) Act 1975 (c. 21)
+
+**[^F236]24** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Local Government (Scotland) Act 1975 (c. 30)
+
+**[^F237]25** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Children Act 1975 (c. 72)
+
+**26** (1) The Children Act 1975 shall be amended in accordance with this paragraph.
+
+(2) Sections 47 to 49 shall cease to have effect.
+
+(3) In section 50 (payments towards maintenance for children), for the words from “custody” to “authority” substitute “ a child under the age of sixteen is residing with and being cared for (other than as a foster child) by a person other than a parent of the child, a council constituted under section 2 of the [^M58]Local Government (Scotland) Act 1994 ”.
+
+(4) In section 51 (restriction on removal of child where applicant has provided home for three years)—
+
+(a) in subsection (1), for the words “custody of” substitute “ a residence order in relation to ”;
+
+(b) for subsection (2) substitute—
+
+> (2) In any case where subsection (1) applies, and the child—
+>
+> (a) was being looked after by a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994 before he began to have his home with the applicant, and
+>
+> (b) continues to be looked after by such a council,
+>
+> the council by whom the child is being looked after shall not remove him from the applicant’s care and possession except—
+>
+> (i) with the applicant’s consent;
+>
+> (ii) with the leave of the court; or
+>
+> (iii) in accordance with an order made, or authority or warrant granted, under Chapter 2 or 3 of Part II of the Children (Scotland) Act 1995.
+
+; and
+
+(c) at the end add—
+
+> (5) In this section “looked after” and “residence order” have the meanings given respectively by section 17(6) and section 11(2)(c) of the Children (Scotland) Act 1995; and “residence order” shall have the same meaning in sections 52 and 53 of this Act.
+
+.
+
+(5) In section 52 (return of child taken away in breach of section 51), for the words “custody of” substitute “ a residence order in relation to ”.
+
+(6) Section 53 (custody order on application for adoption in Scotland) shall cease to have effect.
+
+(7) In section 55 (interpretation and extent), for the words “sections 47 to 54”, in both places where they occur, substitute “ sections 50 to 53 ”.
+
+(8) Sections 73 to 84, 89, 99, 100, 102 and 103 shall cease to have effect.
+
+(9) Section 107 (interpretation), except in so far as subsection (1) defines “adoption society”, “child” and “voluntary organisation”, shall cease to have effect.
+
+(10) In Schedule 3 (minor and consequential amendments), paragraph 52 to 57 shall cease to have effect.
+
+### Sexual Offences (Scotland) Act 1976 (c. 67)
+
+**[^F238]27** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Education (Scotland) Act 1980 (c. 44)
+
+**28** (1) The Education (Scotland) Act 1980 shall be amended in accordance with this paragraph.
+
+(2) In section 36(3) (referral to reporter of case of irregular school attendance), for the words from “may” to the end substitute “ , where no requirement arises under section 53(1) of the Children (Scotland) Act 1995 to give information about the child to the Principal Reporter, may under this subsection provide the Principal Reporter with such information. ”.
+
+(3) In section 44—
+
+(a) subsection (1) (referral by court to Principal Reporter of case involving offence against section 35) shall cease to have effect; and
+
+(b) in subsection (2) (powers of court where no referral to Principal Reporter), for the words “subsection (1) above, make a direction” substitute “ section 54(1) of the Children (Scotland) Act 1995, refer the matter to the Principal Reporter ”.
+
+(4) [^F239]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) In section 135(1) (interpretation)—
+
+(a) in the definition of “parent”, for the words “the actual custody of” substitute “ parental responsibilities (within the meaning of section 1(3) of the Children (Scotland) Act 1995) in relation to, or has care of ”.
+
+(b) the definition of “reporter of the appropriate local authority” shall cease to have effect;
+
+(c) for the definition of “residential establishment” substitute—
+
+> “residential establishment” has the meaning given by paragraph (a) of the definition of that expression in section 93(1) of the Children (Scotland) Act 1995;
+
+; and
+
+(d) for the definition of “supervision requirement” substitute—
+
+> “supervision requirement” has the meaning given by section 70(1) of the said Act of 1995;
+
+.
+
+### Criminal Justice (Scotland) Act 1980 (c. 62)
+
+**[^F240]29** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Matrimonial Homes (Family Protection) (Scotland) Act 1981 (c. 59)
+
+**30** In section 22 of the Matrimonial Homes (Family Protection) (Scotland) Act 1981 (interpretation), in the definition of “child”, for the word “accepted” substitute “ treated ”.
+
+### Civil Jurisdiction and Judgments Act 1982 (c. 27)
+
+**31** In Schedule 9 to the Civil Jurisdiction and Judgments Act 1982 (excluded proceedings), after paragraph 2 insert—
+
+> **2A** Proceedings relating to parental responsibilities within the meaning of section 1(3) of the Children (Scotland) Act 1995 or parental rights within the meaning of section 2(4) of that Act.
+
+.
+
+### Health and Social Services and Social Security Adjudications Act 1983 (c. 41)
+
+**32** In Schedule 2 to the Health and Social Services and Social Security Adjudications Act 1983, paragraphs 4 to 6 and 8 (which amend provisions of the Social Work (Scotland) Act 1968 repealed by this Act) shall cease to have effect.
+
+### Mental Health (Scotland) Act 1984 (c. 36)
+
+**33** [^F241]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Child Abduction Act 1984 (c. 37)
+
+**34** In section 6 of the Child Abduction Act 1984 (offence in Scotland of person connected with a child taking or sending that child out of United Kingdom)—
+
+(a) in subsection (1)(a)(i), after the word “person” insert “ or naming any person as the person with whom the child is to live ”;
+
+(b) in subsection (2)(b), after the words “to him” insert “ or naming him as the person with whom the child is to live ”; and
+
+(c) in subsection (3)(a)(i)(b), for the word “(whether” substitute “ or who is named as the person with whom the child is to live (whether the award is made, or the person so named is named ”.
+
+### Foster Children (Scotland) Act 1984 (c.56)
+
+**35** (1) The Foster Children (Scotland) Act 1984 shall be amended in accordance with this paragraph.
+
+(2) In section 2 (exceptions to definition of “foster child”)—
+
+(a) in subsection (1), for the words “in the care of a local authority or a voluntary organisation” substitute “ being looked after by a local authority ”;
+
+(b) in subsection (3), the words “within the meaning of the Social Work (Scotland) Act 1968” shall cease to have effect;
+
+(c) in subsection (5), the words “; or (b) while he is a protected child within the meaning of section 32 of the said Act of 1978” shall cease to have effect; and
+
+(d) after subsection (5) add—
+
+> (6) The reference in subsection (1) above to a child being looked after by a local authority shall be construed as if it were a reference to which section 17(6) of the Children (Scotland) Act 1995 applies.
+
+.
+
+(3) In section 3(4) (saving for [^M59]Social Work (Scotland) Act 1968), for the words “the Social Work (Scotland) Act 1968” substitute “ Part II of the Children (Scotland) Act 1995 ”.
+
+(4) In section 7(1) (persons disqualified from keeping foster children)—
+
+(a) in paragraph (b), after the word “1968” insert “ or under section 70 of the Children (Scotland) Act 1995 ”; and
+
+(b) after paragraph (d) insert—
+
+> (dd) his parental rights and parental responsibilities (within the meaning of the Children (Scotland) Act 1995) have been transferred, by an order under section 86(1) of that Act, to a local authority;
+
+.
+
+(5) In section 12 (removal of foster children on complaint of local authority), for subsection (5) substitute—
+
+> (5) For the purposes of section 25 of the Children (Scotland) Act 1995 (and for the reason mentioned in subsection (1)(c) of that section) a child removed under this section shall be regarded as requiring accommodation.
+
+.
+
+[^F242]6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7) In section 21(1) (interpretation)—
+
+(a) in the definition of “residential establishment”, after the word “1968” insert “ or of Part II of the Children (Scotland) Act 1995 ”; and
+
+(b) for the definition of “supervision requirement”, substitute—
+
+> “supervision requirement” has the meaning given by section 70(1) of the Children (Scotland) Act 1995;
+
+.
+
+### Family Law (Scotland) Act 1985 (c. 37)
+
+**36** In section 2 of the Family Law (Scotland) Act 1985 (actions for aliment)—
+
+(a) in subsection (2), for paragraph (c) substitute—
+
+> (c) concerning parental responsibilities or parental rights (within the meaning of sections 1(3) and 2(4) respectively of the Children (Scotland) Act 1995) or guardianship in relation to children;
+
+; and
+
+(b) in subsection (4)(c), for sub-paragraph (iii) substitute—
+
+> (iii) a person with whom the child lives or who is seeking a residence order (within the meaning of section 11(2)(c) of the Children (Scotland) Act 1995) in respect of the child.
+
+.
+
+### Child Abduction and Custody Act 1985 (c. 60)
+
+**37** (1) The Child Abduction and Custody Act 1985 shall be amended in accordance with this paragraph.
+
+(2) In section 9 (suspension of court’s powers in cases of wrongful removal), for paragraph (d) substitute—
+
+> (d) making, varying or discharging an order under section 86 of the Children (Scotland) Act 1995;
+
+.
+
+(3) In section 20 (further provision as regards suspension of court’s powers)—
+
+(a) for paragraph (d) substitute—
+
+> (d) in the case of proceedings for, or for the variation or discharge of, a parental responsibilities order under section 86 of the Children (Scotland) Act 1995, make, vary or discharge any such order;
+
+; and
+
+(b) in subsection (5), for the words “within the meaning of Part III of [^M60]the Social Work (Scotland) Act 1968” substitute “ (as defined in section 93(1) of the Children (Scotland) Act 1995) ”.
+
+(4) In section 25 (termination of existing custody orders etc.), subsection (6) shall cease to have effect.
+
+(5) In section 27(4) (interpretation), after the word “Wales” insert “ or Scotland ”.
+
+(6) In Schedule 3 (custody orders)—
+
+(a) in paragraph 5—
+
+(i) for the words “custody, care or control of a child or” substitute “ residence, custody, care or control of a child or contact with, or ”;
+
+(ii) in sub-paragraph (iii), for the words “tutory or curatory” substitute “ guardianship ”;
+
+(iii) in sub-paragraph (iv), for the words “16(8), 16A(3) or 18(3) of the Social Work (Scotland) Act 1968” substitute “ 86 of the Children (Scotland) Act 1995 ”; and
+
+(iv) for sub-paragraph (v), substitute—
+
+> (v) an order made, or warrant or authorisation granted, under or by virtue of Chapter 2 or 3 of Part II of the Children (Scotland) Act 1995 to remove the child to a place of safety or to secure accommodation, to keep him at such a place or in such accommodation, or to prevent his removal from a place where he is being accommodated (or an order varying or discharging any order, warrant or authorisation so made or granted);
+
+;
+
+(b) for paragraph 6 substitute—
+
+> **6** A supervision requirement made by a children’s hearing under section 70 of the Children (Scotland) Act 1995 (whether or not continued under section 73 of that Act) or made by the sheriff under section 51(5)(c)(iii) of that Act and any order made by a court in England and Wales or in Northern Ireland if it is an order which, by virtue of section 33(1) of that Act, has effect as if it were such a supervision requirement.
+
+; and
+
+(c) paragraph 7 shall cease to have effect.
+
+### Law Reform (Parent and Child) (Scotland) Act 1986 (c. 9)
+
+**38** (1) The Law Reform (Parent and Child) (Scotland) Act 1986 shall be amended in accordance with this paragraph.
+
+(2) In section 1 (legal equality of children), for subsection (3) substitute—
+
+> (3) Subsection (1) above is subject to subsection (4) below, to section 9(1) of this Act and to section 3(1)(b) of the Children (Scotland) Act 1995 (parental responsibilities and parental rights of natural father).
+
+.
+
+(3) In section 6(2) (consent to taking of sample of blood), for the words from “guardian” to “custody or” substitute “ any person having parental responsibilities (within the meaning of section 1(3) of the Children (Scotland) Act 1995) in relation to him or having ”.
+
+### Disabled Persons (Services, Consultation and Representation) Act 1986 (c. 33)
+
+**39** (1) The Disabled Persons (Services, Consultation and Representation) Act 1986 shall be amended in accordance with this paragraph.
+
+(2) In section 1(3) (regulations with respect to appointment of authorised representatives of disabled persons)—
+
+(a) in paragraph (a), for the words from the beginning to “appoint” substitute—
+
+> may provide for—
+>
+> (i) any person who has parental responsibilities in relation to a disabled person under the age of sixteen (“parental responsibilities” having the meaning given by section 1(3) of the Children (Scotland) Act 1995); or
+>
+> (ii) any other person who is entitled to act as the disabled person’s legal representative (as defined in section 15(5) of the Children (Scotland) Act 1995),
+>
+> to appoint
+
+; and
+
+(b) in paragraph (b), for the words “in the care of” substitute “ looked after by. ”
+
+(3) In section 2 (rights of certain authorised representatives of disabled persons)—
+
+(a) in subsection (3)(a), for the words “the words ”the parent or guardian of” shall be inserted after the words ”if so requested by”;” substitute“ for the words “ by the disabled person ” there shall be substituted the words “ by any person appointed by virtue of regulations made under section 1(3)(a)(i) or (ii) of this Act ”;” and
+
+(b) in subsection (5), after paragraph (bb) insert—
+
+> (bc) in Scotland, in accommodation provided by or on behalf of a local authority under Chapter 1 of Part II of the Children (Scotland) Act 1995, or
+
+.
+
+(4) In section 13(8)(b) (limitation on requirement for assessment of needs)—
+
+(a) for the words “his parent” substitute “ any person having parental responsibilities in relation to him ”; and
+
+(b) after the word “request” insert “ (“parental responsibilities” having the meaning given in section 1(3) of the Children (Scotland) Act 1995) ”.
+
+(5) In section 16 (interpretation)—
+
+(a) in the definition of “disabled person”, for paragraph (b) substitute—
+
+> (b) in relation to Scotland, means—
+>
+> (i) in the case of a person aged eighteen or over, one chronically sick or disabled or one suffering from mental disorder (being, in either case, a relevant person for the purposes of section 12 of the Social Work (Scotland) Act 1968; and
+>
+> (ii) in any other case, a disabled child (“disabled child” being construed in accordance with Chapter 1 of Part II of the Children (Scotland) Act 1995);
+
+;
+
+(b) in the definition of “guardian”, paragraph (b) shall cease to have effect;
+
+(c) in the definition of “the welfare enactments”, in paragraph (b), for the words “and sections 7 and 8 of the 1984 Act”, substitute “ , sections 7 and 8 of the 1984 Act and Chapter 1 of Part II of the Children (Scotland) Act 1995 ”.
+
+(d) the existing provisions as so amended shall be subsection (1) of the section and at the end of the section there shall be added—
+
+> (2A) In this Act as it applies in relation to Scotland, any reference to a child who is looked after by a local authority shall be construed in accordance with section 17(6) of the Children (Scotland) Act 1995.
+
+)
+
+### Legal Aid (Scotland) Act 1986 (c. 47)
+
+**40** In section 41 of the Legal Aid (Scotland) Act 1986 (interpretation)—
+
+(a) in the definition of “legal aid”, for the words “Part III of the Social Work (Scotland Act 1968” substitute “ Chapter 2 or Chapter 3 of Part II of the Children (Scotland) Act 1995 ” and
+
+(b) in the definition of “person”, the existing words from “does” to the end shall be paragraph (a) and after that paragraph there shall be added—
+
+> ; and
+>
+> (b) includes a person under the age of sixteen years.
+
+.
+
+### Family Law Act 1986 (c. 55)
+
+**41** (1) The Family Law Act 1986 shall be amended in accordance with this paragraph.
+
+(2) In section 1(1)(b) (meaning of “custody order”)—
+
+(a) for the words “custody, care or control of a child” substitute “ residence, custody, care or control of a child, contact with or ”; and
+
+(b) in sub-paragraph (iv), for the words “for the custody of” substitute “ giving parental responsibilities and parental rights in relation to ”.
+
+(3) In section 13 (jurisdiction ancillary to matrimonial proceedings)—
+
+(a) in subsection (2), for the words “under section 9(1) of the [^M61]Matrimonial Proceedings (Children) Act 1958” substitute “ in those proceedings ”; and
+
+(b) in subsection (4), for the words “under section 9(1) of the Matrimonial Proceedings (Children) Act 1958” substitute “ in matrimonial proceedings where the court has refused to grant the principal remedy sought in the proceedings ”.
+
+(4) In section 15 (duration, variation and recall of orders)—
+
+(a) in subsection (1)(b), for the words “for the custody of” substitute “ relating to the parental responsibilities or parental rights in relation to ”; and
+
+(b) in subsection (4), for the words from the beginning to “above” substitute “ Where, by virtue of subsection (1) above, a child is to live with a different person ”.
+
+(5) In section 17 (orders for delivery of child)—
+
+(a) in subsection (3), for the words from “is the child” to “other party” substitute “ , although not a child of both parties to the marriage, is a child of the family of those parties ”; and
+
+(b) at the end of the section add—
+
+> (4) In subsection (3) above, “child of the family” means any child who has been treated by both parties as a child of their family, except a child who has been placed with those parties as foster parents by a local authority or a voluntary organisation.
+
+.
+
+(6) For section 26 (recognition: special Scottish rule), substitute—
+
+> **Recognition: special Scottish rule.**
+>
+> **26** An order relating to parental responsibilities or parental rights in relation to a child which is made outside the United Kingdom shall be recognised in Scotland if the order was made in the country where the child was habitually resident.
+
+.
+
+(7) In section 33(3) (power to order disclosure of child’s whereabouts), for the words “for the custody of” substitute “ relating to parental responsibilities or parental rights in relation to ”.
+
+(8) In section 35(3) (power to restrict removal of child from jurisdiction), for the words “whose custody” substitute “ whose care ”.
+
+(9) In section 42 (interpretation)—
+
+(a) in subsection (1), before the definition of “part of the United Kingdom” insert—
+
+> “parental responsibilities” and “parental rights” have the meanings respectively given by sections 1(3) and 2(4) of the Children (Scotland) Act 1995;
+
+; and
+
+(b) in subsection (4)(b), for the words from “of one of the parties” to the end substitute “ who has been treated by both parties as a child of their family, except a child who has been placed with those parties as foster parents by a local authority or a voluntary organisation; ”.
+
+### Housing (Scotland) Act 1987 (c. 26)
+
+**[^F243]42** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Criminal Justice (Scotland) Act 1987 (c. 41)
+
+**43** In section 49(4)(b) of the Criminal Justice (Scotland) Act 1987 (right to have someone informed when detained), for the words “actual custody” substitute “ care ”.
+
+### Civil Evidence (Scotland) Act 1988 (c. 32)
+
+**44** In paragraph (a) of the definition of “civil proceedings” in section 9 of the Civil Evidence (Scotland) Act 1988 (interpretation)—
+
+(a) the words “under section 42 of the Social Work (Scotland) Act 1968” shall cease to have effect;
+
+(b) after the word “application” where it first occurs insert “ under section 65(7) or (9) of the Children (Scotland) Act 1995 ”;
+
+(c) after the word “established,” insert “ or of an application for a review of such a finding under section 85 of that Act ”;
+
+(d) after the word “application” where it occurs for the second time insert “ or, as the case may be, the review ”; and
+
+(e) for the words “32(2)(g)” substitute “ 52(2)(i) ”.
+
+### Court of Session Act 1988 (c. 36)
+
+**45** In section 5 of the Court of Session Act 1988 (power to regulate procedure etc. by act of sederunt), after paragraph (e) insert—
+
+> (ee) to permit a person who is not an advocate or solicitor and is not represented by an advocate or solicitor to transmit, whether orally or in writing, the views of a child to the Court for the purposes of any enactment which makes provision (however expressed) for the Court to have regard to those views;
+
+.
+
+### School Boards (Scotland) Act 1988 (c. 47)
+
+**46** [^F244]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Self-Governing Schools etc. (Scotland) Act 1989 (c. 39)
+
+**47** In section 80(1) of the Self-Governing Schools etc. (Scotland) Act 1989 (interpretation), in the definition of “parent”, for the words “the actual custody” substitute “ parental responsibilities (within the meaning of section 1(3) of the Children (Scotland) Act 1995) in relation to him or has care ”.
+
+### Children Act 1989 (c. 41)
+
+**48** (1) The Children Act 1989 shall be amended in accordance with this paragraph.
+
+(2) In section 31(7)(b)(iii) (restriction on applications for care and supervision orders), for the words “the Social Work (Scotland) Act 1968” substitute “ Part II of the Children (Scotland) Act 1995 ”.
+
+(3) In section 51(7) (enactments which do not apply where a child is granted refuge), for paragraph (b) substitute—
+
+> (b) sections 82 (recovery of certain fugitive children) and 83 (harbouring) of the Children (Scotland) Act 1995, so far as they apply in relation to anything done in England and Wales;
+
+.
+
+[[^F245](4) In section 79(e) (application of Part X to Scotland), for the words from “in whom” to “vested” substitute “ having parental responsibilities (within the meaning of section 1(3) of the Children (Scotland) Act 1995) relating to the child ”.]
+
+(5) In Schedule 8 (privately fostered children), in paragraph 3(b), for the words “the Social Work (Scotland) Act 1968” substitute “ Part II of the Children (Scotland) Act 1995 ”.
+
+### Local Government and Housing Act 1989 (c. 42)
+
+**49** (1) The Local Government and Housing Act 1989 shall be amended in accordance with this paragraph.
+
+(2) In section 14(5) (restriction of effect of provisions of that section in relation to certain committees), for paragraph (d) substitute—
+
+> (d) a Children’s Panel Advisory Committee formed under paragraph 3, or a joint advisory committee formed under paragraph 8, of Schedule 1 to the Children (Scotland) Act 1995;
+
+.
+
+### Access to Health Records Act 1990 (c. 23)
+
+**50** (1) The Access to Health Records Act 1990 shall be amended in accordance with this paragraph.
+
+(2) In section 3(1) (right of access to health records), for paragraphs (c) and (d) substitute—
+
+> (cc) where the patient is a child, a person having parental responsibility for him;
+
+.
+
+(3) In section 4 (cases where right of access may be wholly excluded)—
+
+(a) in subsection (1), for paragraphs (a) and (b) substitute “ the patient is a child ”; and
+
+(b) in subsection (2), for the words “(1)(c) or (d)” substitute “ (1)(cc) ”.
+
+(4) In section 5(3) (access to records not to be given where record compiled on basis that access would not be available to particular applicant), for the words “(1)(c), (d), (e) or (f)” substitute “ (1)(cc), (e) or (f) ”.
+
+(5) In section 11 (interpretation), for the definition of “parental responsibility” substitute—
+
+> “parental responsibility”, in the application of this Act—
+>
+> (a) to England and Wales, has the same meaning as in the [^M62]Children Act 1989; and
+>
+> (b) to Scotland, shall be construed as a reference to “parental responsibilities” within the meaning given by section 1(3) of the Children (Scotland) Act 1995.
+
+.
+
+### Horses (Protective Headgear for Young Riders) Act 1990 (c. 25)
+
+**51** In section 1(2)(a)(ii) (application), of the Horses (Protective Headgear for Young Riders) Act 1990, for the word “custody” substitute “ parental responsibilities (within the meaning given by section 1(3) of the Children (Scotland) Act 1995) in relation to, or has ”.
+
+### Child Support Act 1991 (c. 48)
+
+**52** (1) The Child Support Act 1991 shall be amended in accordance with this paragraph.
+
+(2) In section 3(4)(d) (interpretation), for the words from “having” to the end substitute “ with whom a child is to live by virtue of a residence order under section 11 of the Children (Scotland) Act 1995. ”.
+
+(3) In section 5(1) (supplemental provisions as respects child support maintenance), the words “(or, in Scotland, parental rights over)”, in both places where they occur, shall cease to have effect.
+
+(4) In section 54 (interpretation)—
+
+(a) for the definition of “parental responsibility” substitute—
+
+> “parental responsibility”, in the application of this Act—
+>
+> (a) to England and Wales, has the same meaning as in the [^M63]Children Act 1989; and
+>
+> (b) to Scotland, shall be construed as a reference to “parental responsibilities” within the meaning given by section 1(3) of the Children (Scotland) Act 1995;
+
+; and
+
+(b) the definition of “parental rights” shall cease to have effect.
+
+### Age of Legal Capacity (Scotland) Act 1991 (c. 50)
+
+**53** (1) The Age of Legal Capacity (Scotland) Act 1991 shall be amended in accordance with this paragraph.
+
+(2) In section 1(3) (age of legal capacity)—
+
+(a) in sub-paragraph (i) of paragraph (f), for the words “who has no guardian or whose guardian” substitute “ in relation to whom there is no person entitled to act as his legal representative (within the meaning of Part I of the Children (Scotland) Act 1995), or where there is such a person ”; and
+
+(b) in paragraph (g), for sub-paragraphs (i) and (ii) substitute “ exercising parental responsibilities and parental rights (within the meaning of sections 1(3) and 2(4) respectively of the Children (Scotland) Act 1995) in relation to any child of his. ”.
+
+(3) In section 2 (exceptions to the general rule), after subsection (4) insert—
+
+> (4A) A person under the age of sixteen years shall have legal capacity to instruct a solicitor, in connection with any civil matter, where that person has a general understanding of what it means to do so; and without prejudice to the generality of this subsection a person twelve years of age or more shall be presumed to be of sufficient age and maturity to have such understanding.
+>
+> (4B) A person who by virtue of subsection (4A) above has legal capacity to instruct a solicitor shall also have legal capacity to sue, or to defend, in any civil proceedings.
+>
+> (4C) Subsections (4A) and (4B) above are without prejudice to any question of legal capacity arising in connection with any criminal matter.
+
+.
+
+(4) In section 5(1) (construction of references to “tutor”)—
+
+(a) the words “or tutory” shall cease to have effect; and
+
+(b) for the words from “the guardian”, where they first appear, to the end substitute “ a person entitled to act as a child’s legal representative (within the meaning of Part I of the Children (Scotland) Act 1995), and any reference to the tutory of such a child shall be construed as a reference to the entitlement to act as a child’s legal representative enjoyed by a person by, under or by virtue of the said Part I. ”.
+
+(5) In section 5(2) (restriction on appointment of guardian to person under sixteen), for the words from “section 3” to the end substitute “ section 7 of the Children (Scotland) Act 1995. ”.
+
+### Armed Forces Act 1991 (c. 62)
+
+**54** (1) The Armed Forces Act 1991 shall be amended in accordance with this paragraph.
+
+(2) In paragraph (f) of section 17(4) (persons to whom notice of an application for an assessment order must be given)—
+
+(a) after the word “order” insert
+
+> —
+>
+> (i)
+
+; and
+
+(b) at the end insert
+
+> ; or
+>
+> (ii) under section 88 of the Children (Scotland) Act 1995
+
+.
+
+(3) In paragraph (f) of section 18(7) (persons who may apply for variation etc. of assessment order)—
+
+(a) after the word “order” insert
+
+> —
+>
+> (i)
+
+; and
+
+(b) at the end insert
+
+> ; or
+>
+> (ii) under section 88 of the Children (Scotland) Act 1995
+
+.
+
+(4) In section 21(4) (which makes provision in relation to a child returned to the United Kingdom under a protection order under that Act) for the words “ [^M64]Social Work (Scotland) Act 1968” substitute “ Children (Scotland) Act 1995 ”.
+
+(5) In section 23(1) (interpretation)—
+
+(a) in the definition of “contact order”—
+
+(i) after the word “meaning” insert
+
+> —
+>
+> (a) except in relation to an order made in Scotland,
+
+; and
+
+(ii) at the end, add
+
+> ; and
+>
+> (b) in relation to an order there made, given by section 11(2)(d) of the Children (Scotland) Act 1995.
+
+; and
+
+(b) in the definition of “parental responsibility”—
+
+(i) after the word “responsibility” insert
+
+> —
+>
+> (a) except in relation to Scotland,
+
+; and
+
+(ii) at the end add
+
+> ; and
+>
+> (b) in relation to Scotland, shall be construed as a reference to “parental responsibilities” within the meaning given by section 1(3) of the Children (Scotland) Act 1995;
+
+.
+
+### Tribunals and Inquiries Act 1992 (c. 53)
+
+**55** In paragraph 61 in column 2 of Schedule 1 to the Tribunals and Inquiries Act 1992 (which specifies certain tribunals in relation to social work in Scotland)—
+
+(a) in sub-paragraph (a), for the words “Social Work (Scotland) Act 1968 (c.49)” substitute “ Children (Scotland) Act 1995 (c.36) ”; and
+
+(b) in sub-paragraph (b), for the words “that Act” substitute “ the Social Work (Scotland) Act 1968 (c.49) ”.
+
+### Prisoners and Criminal Proceedings (Scotland) Act 1993 (c. 9)
+
+**56** (1) The Prisoners and Criminal Proceedings (Scotland) Act 1993 shall be amended in accordance with this paragraph.
+
+(2) In paragraph 8 of Schedule 3 (which provides for the definition of certain expressions in relation to the admission of documentary evidence in criminal proceedings), in the definition of “criminal proceedings”—
+
+(a) the words “under section 42 of the Social Work (Scotland) Act 1968” shall cease to have effect;
+
+(b) after the word “application” where it appears for the first time insert “ under section 65(7) or (9) of the Children (Scotland) Act 1995 ”;
+
+(c) after the word “established” insert “ or for a review of such a finding under section 85 of that Act ”; and
+
+(d) after the word “application” where it appears for the second time insert “ or, as the case may be, the review ”.
+
+(3) In paragraph 1 of Schedule 6 (which provides for the definition of certain expressions in relation to transitional provisions), in the definition of “existing child detainee”, for the words “section 30 of the Social Work (Scotland) Act 1968” substitute “ section 93(2)(b) of the Children (Scotland) Act 1995 ”.
+
+### Local Government etc. (Scotland) Act 1994 (c. 39)
+
+**57** (1) The Local Government etc. (Scotland) Act 1994 shall be amended in accordance with this paragraph.
+
+(2) In section 128 (establishment of Scottish Children’s Reporter Administration)—
+
+(a) in subsection (3), for the words from “the 1968 Act” to the end substitute “ the Children (Scotland) Act 1995 and any other enactment conferring functions upon him ”; and
+
+(b) in subsection (8), for the words from “the 1968 Act” to the end substitue “ the Children (Scotland) Act 1995 and any other enactment conferring functions upon him ”.
+
+(3) In section 130 (annual reports by Principal Reporter) in sub-paragraph (i) of paragraph (a) of subsection (1), for the words “the 1968 Act and the Criminal Procedure (Scotland) Act 1975” substitute “ the Children (Scotland) Act 1995 and any other enactment (except this Act) conferring functions upon him ”.
+
+(4) In section 132 (duty of Administration to provide accommodation for children’s hearings), for the words “section 34 of the 1968 Act” substitute “ section 39 of the Children (Scotland) Act 1995 ”.
+
+### Children (Northern Ireland) Order 1995 (SI 1995/755 (N.I.2))
+
+**58** In Article 70(7) of the Children (Northern Ireland) Order 1995 (enactments not to apply where child given refuge), in sub-paragraph (c), for the words “section 71 of the Social Work (Scotland) Act 1968” substitute “ section 83 of the Children (Scotland) Act 1995 ”.
+
+### Civil Evidence (Family Mediation)(Scotland) Act 1995 (c. 6)
+
+**59** In section 2 of the Civil Evidence (Family Mediation) (Scotland) Act 1995 (which provides for exceptions to the general inadmissibility of evidence concerning family mediation), in paragraph (d)(ii)—
+
+(a) for the words “Part III of the Social Work (Scotland) Act 1968” substitute “ Chapter 2 or 3 of Part II of the Children (Scotland) Act 1995 ”; and
+
+(b) after the word “hearing” insert—
+
+> , before a sheriff or before a justice of the peace;
+>
+> (iia) on any appeal arising from such proceedings as are mentioned in sub-paragraph (ii) above
+
+.
+
+### Criminal Justice (Scotland) Act 1995 (c. 20)
+
+**60** In section 20 of the Criminal Justice (Scotland) Act 1995 (construction of sections relating to the admissibility of certain evidence)—
+
+(a) in subsection (3), in the definition of “criminal proceedings”—
+
+(i) for the words from “under” to “application” where it appears for the first substitute “ of an application made under Chapter 3 of Part II of the Children (Scotland) Act 1995 ”; and
+
+(ii) after the word “child” insert “ or for a review of such a finding ”; and
+
+(b) in subsection (5), after the word “1968” insert “ or by virtue of Chapter 3 of Part II of the Children (Scotland) Act 1995 ”.
+
+## SCHEDULE 5 — Repeals
+
+*Section 105(5).*
+
+|  |  |  |
+|---|---|---|
+| Chapter | Short title | Extent of repeal |
+| 8 & 9 Vict. c.19. | Lands Clauses Consolidation (Scotland) Act 1845. | In section 7, the words “persons under legal disability by reason of nonage” in each place where they occur. |
+|  |  | In section 67, the words “persons under legal disability by reason of nonage”. |
+|  |  | In section 69, the words “persons under legal disability by reason of nonage”. |
+| 12 & 13 Vict. c.51. | Judicial Factors Act 1849. | In section 1, the words from “the word ”Guardian”” to “years;”. |
+|  |  | Section 25(2) |
+|  |  | In section 27, the words “guardians and”. |
+|  |  | In section 31, the word “guardian,”. |
+|  |  | In section 32, the word “guardian,”. |
+|  |  | In section 33, the words “guardians or”. |
+|  |  | In section 34, in both places where it occurs, the word “guardian,”. |
+|  |  | In section 36, the word “guardianships,”. |
+|  |  | In section 37, the word “guardian,” |
+|  |  | In section 40, the word “guardians,” in both places where it occurs. |
+| 27 & 28 Vict. c.114. | Improvement of Land Act 1864. | In section 18, the words from “nor shall they” to the end. |
+|  |  | In section 21, the words from “or if the landowner” to “minors”; and the words “or circumstance” in both places where they occur. |
+| 43 & 44 Vict. c.4. | Judicial Factors (Scotland) Act 1880. | In section 3, in the definition of “judicial factor”, the words from “and” to “required”. |
+| 7 Edw.7 c.51. | Sheriff Courts (Scotland) Act 1907. | Section 5(2C). |
+|  |  | Section 38C. |
+| 11 & 12 Geo.5 c.58. | Trusts (Scotland) Act 1921. | In section 2, in the definition of “trustee”, the words from “guardian” to “years)”. |
+| 1 Edw.8 & 1 Geo.6 c.37. | Children and Young Persons (Scotland) Act 1937. | In section 27, the first paragraph. |
+| 1 & 2 Geo.6 c.73. | Nursing Homes Registration (Scotland) Act 1938. | In section 4(1)(b)(iii), the words “custody or”. |
+| 14 & 15 Geo.6 c.65. | Reserve and Auxiliary Forces (Protection of Civil Interests) Act 1951. | In section 8(1)(d), the words from “or any order” to the end. |
+| 6 & 7 Eliz.2 c.40. | Matrimonial Proceedings (Children) Act 1958. | Sections 8 to 10. |
+|  |  | Section 12. |
+| 1965 c.49. | Registration of Births, Deaths and Marriages (Scotland) Act 1965. | In section 43, in subsection (3) the words from “In this” to the end; and subsection (10). |
+| 1968 c.49. | Social Work (Scotland) Act 1968. | In section 5(1B), before paragraph (o), the word “and”. |
+|  |  | In section 5B(5), the words from “and” at the end of the definition of child to the end of the subsection. |
+|  |  | Section 6(1)(b)(ii). |
+|  |  | Sections 15 to 26. |
+|  |  | Part III, except section 31(1) and (3). |
+|  |  | Part V. |
+|  |  | Section 88. |
+|  |  | In section 90(1), the words “(other than orders under sections 52 and 58 and Part V of this Act)”. |
+|  |  | In section 94(1), the definition of “children’s panel” and of “children’s hearing”; the definitions of “compulsory measures of care”, “guardian” and “place of safety”; in the definition of “prescribed”, paragraph (b); and the definition of “school age”. |
+|  |  | In section 97, in subsection (1), the words “section 44(1) (except head (b)) and (1A)”, “section 58” and “Part V”; and subsections (2) and (3). |
+| 1969 c.54. | Children and Young Persons Act 1969. | In Schedule 5, paragraphs 57 and 65(1). |
+| 1972 c.18. | Maintenance Orders (Reciprocal Enforcement) Act 1972. | Section 4(3). |
+| 1972 c. 24. | Social Work (Scotland) Act 1972. | The whole Act. |
+| 1973 c.29. | Guardianship Act 1973. | The whole Act. |
+| 1973 c. 65 | Local Government (Scotland) Act 1973. | In Schedule 25, paragraph 41. |
+|  |  | In Schedule 27, paragraphs 185 and 187. |
+| 1974 c.53. | Rehabilitation of Offenders Act 1974. | Section 5(10A). |
+|  |  | In section 7(2), paragraph (e); and the words from “In the application” to the end. |
+| 1975 c.21. | Criminal Procedure (Scotland) Act 1975. | Section 14. |
+|  |  | In section 168(c), the word “female”. |
+|  |  | In section 177, the words “provided by a local authority under Part IV of the Social Work (Scotland) Act 1968”. |
+|  |  | In section 296, in subsection (3), the words from “and the child” to the end; and subsection (4). |
+|  |  | Section 323. |
+|  |  | In section 364(c), the word “female”. |
+|  |  | In section 378, the words “provided by a local authority under Part IV of the Social Work (Scotland) Act 1968”. |
+|  |  | In section 413, in subsection (3), the definitions of “care” and of “the 1968 Act”; in subsection (4), the words “within the meaning of the 1968 Act”; in subsection (5), the words “(within the meaning of the 1968 Act)”; and in subsection (6A), the words “within the meaning of the 1968 Act”. |
+|  |  | In Schedule 9, paragraphs 43 and 44. |
+| 1975 c.72. | Children Act 1975. | Sections 47 to 49. |
+|  |  | Section 53. |
+|  |  | Sections 73 to 84. |
+|  |  | Sections 99 and 100. |
+|  |  | Section 102. |
+|  |  | Section 103. |
+|  |  | Section 105. |
+|  |  | Section 107, except the definitions, in subsection (1), of “adoption society”, “child” and “voluntary organisation”. |
+|  |  | In Schedule 3, paragraphs 52 to 57. |
+| 1978 c.28. | Adoption (Scotland) Act 1978. | In section 1(2), paragraph (a). |
+|  |  | In section 2, paragraph (d). |
+|  |  | In section 3(3)(a), the words “including in particular its ability to make provision for children who are free for adoption”. |
+|  |  | Section 8. |
+|  |  | In section 12, in subsection (3)(b), the words “or by”; and in subsection (4) the word “— (a)” and paragraph (b). |
+|  |  | In section 14(1), the words from “subject” to “certain cases)”. |
+|  |  | In section 15, in subsection (1), the words from “Subject” to “certain cases)”; and in subsection (3), the word “natural” wherever it occurs. |
+|  |  | In section 16, subsection (5). |
+|  |  | Section 26. |
+|  |  | In section 28(5), the words “or of a voluntary organisation” and “or the organisation”. |
+|  |  | Sections 32 to 37. |
+|  |  | In section 51, subsections (6)(a) and (7) to (11). |
+|  |  | In section 60(3), the words “or 51(9)”. |
+|  |  | In section 65(1), in the definition of “guardian”, paragraph (b), and in the definition of “local authority”, the words “, 35(1)”. |
+|  |  | In Schedule 3, paragraphs 13, 14 and 15. |
+| 1980 c.44. | Education (Scotland) Act 1980. | Section 44(1). |
+|  |  | In section 65B(6), paragraph (a). |
+|  |  | In section 135(1), the definition of “reporter of the appropriate local authority”. |
+| 1980 c.62. | Criminal Justice (Scotland) Act 1980. | In Schedule 7, paragraph 21. |
+| 1983 c.33. | Solvent Abuse (Scotland) Act 1983. | The whole Act. |
+| 1983 c.41. | Health and Social Services and Social Security Adjudications Act 1983. | Section 7. |
+|  |  | Section 8(1) and (4). |
+|  |  | In Schedule 2, paragraphs 4 to 6 and 8. |
+| 1984 c.15. | Law Reform (Husband and Wife) (Scotland) Act 1984. | Section 3(2). |
+| 1984 c.36. | Mental Health (Scotland) Act 1984. | In section 10(1)(a), sub-paragraph (i); and the word “or” immediately following that sub-paragraph. |
+|  |  | Section 55(4). |
+| 1984 c.56. | Foster Children (Scotland) Act 1984. | In section 2, in subsection (3), the words “within the meaning of the Social Work (Scotland) Act 1968”; and in subsection (5), the words “; or (b) while he is a protected child within the meaning of section 32 of the said Act of 1978.”. |
+| 1985 c.37. | Family Law (Scotland) Act 1985. | In section 21, the words from “or an order” to “child”. |
+| 1985 c.60. | Child Abduction and Custody Act 1985. | In section 25, subsection (6). |
+|  |  | In Schedule 3, paragraph 7. |
+| 1986 c.9. | Law Reform (Parent and Child) (Scotland) Act 1986. | Sections 2 to 4. |
+|  |  | In section 8, the definitions of “child” and “parental rights”. |
+|  |  | In Schedule 1, paragraph 3. |
+| 1986 c.33. | Disabled Persons (Services, Consultation and Representation) Act 1986. | In section 16, in the definition of “guardian”, paragraph (b). |
+| 1986 c.55. | Family Law Act 1986. | In section 15(4), the words from “under section” to “1973”. |
+|  |  | In section 17, in subsection (1), the words “Subject to subsection (2) below”; and subsection (2). |
+|  |  | In section 35(4)(c), the words “custody or”. |
+| 1988 c.32 | Civil Evidence (Scotland) Act 1988. | In section 9, in the definition of “civil proceedings”, in paragraph (a), the words “under section 42 of the Social Work (Scotland) Act 1968”. |
+| 1988 c.36. | Court of Session Act 1988. | Section 20. |
+| 1989 c.41. | Children Act 1989. | In Schedule 13, paragraph 13. |
+| 1989 c.42. | Local Government and Housing Act 1989. | In Schedule 11, paragraph 15. |
+| 1991 c.48. | Child Support Act 1991. | In section 5(1), the words “(or, in Scotland, parental rights over)” in both places where they occur. |
+|  |  | In section 54, the definition of “parental rights”. |
+| 1991 c.50. | Age of Legal Capacity (Scotland) Act 1991. | In section 5(1), the words “or tutory”. |
+|  |  | In section 9, the definition of “parental rights”. |
+|  |  | In Schedule 1, paragraphs 3 to 5 and 7 to 15. |
+| 1993 c.9 | Prisoners and Criminal Proceedings (Scotland) Act 1993. | In paragraph 8 of Schedule 3, the definition of “criminal proceedings”, the words “under section 42 of the Social Work (Scotland) Act 1968”. |
+| 1993 c.35. | Education Act 1993. | In Schedule 19, paragraph 36. |
+| 1994 c.39. | Local Government etc. (Scotland) Act 1994. | Section 139. |
+|  |  | In Schedule 13, paragraphs 76(6) and (10) to (25); 92(14)(b)(iii); 100(6)(b)(iv); 103; and 161(7)(c). |
+
+---
+
+[^F1]: Words in s. 1(1) inserted (6.4.2009 for certain purposes, otherwise 1.9.2009) by Human Fertilisation and Embryology Act 2008 (c. 22), ss. 56, 68, Sch. 6 para. 48; S.I. 2009/479, art. 6(1)(e)(2) (as amended by S.I. 2009/2232, art. 3)
+[^F2]: Words in s. 2(1) inserted (6.4.2009 for certain purposes, otherwise 1.9.2009) by Human Fertilisation and Embryology Act 2008 (c. 22), ss. 56, 68, Sch. 6 para. 49; S.I. 2009/479, art. 6(1)(e)(2) (as amended by S.I. 2009/2232, art. 3)
+[^M1]: 1986 c.9.
+[^F3]: Words in s. 3(1)(a) inserted (1.6.2021) by Civil Partnership (Scotland) Act 2020 (asp 15), s. 16, sch. 2 para. 4(2)(a); S.S.I. 2021/23, reg. 2, sch. (with reg. 3)
+[^F4]: Words in s. 3(1)(b) renumbered as s. 3(1)(b)(i) (4.5.2006) by virtue of Family Law (Scotland) Act 2006 (asp 2), ss. 23(2)(a), 46(2); S.S.I. 2006/212, art. 2 (subject to arts. 3-13)
+[^F5]: Words in s. 3(1)(b)(i) inserted (1.6.2021) by Civil Partnership (Scotland) Act 2020 (asp 15), s. 16, sch. 2 para. 4(2)(b)(i); S.S.I. 2021/23, reg. 2, sch. (with reg. 3)
+[^F6]: S. 3(1)(b)(ii) inserted (4.5.2006) Family Law (Scotland) Act 2006 (asp 2), ss. 23(2)(b), 46(2) (with s. 23(4)); S.S.I. 2006/212, art. 2 (subject to arts. 3-13)
+[^F7]: Words in s. 3(1)(b)(ii) inserted (1.6.2021) by Civil Partnership (Scotland) Act 2020 (asp 15), s. 16, sch. 2 para. 4(2)(b)(ii); S.S.I. 2021/23, reg. 2, sch. (with reg. 3)
+[^F8]: S. 3(1)(c)(d) inserted (6.4.2009 for certain purposes, otherwise 1.9.2009) by Human Fertilisation and Embryology Act 2008 (c. 22), ss. 56, 68, Sch. 6 para. 50(2); S.I. 2009/479, art. 6(1)(e)(2) (as amended by S.I. 2009/2232, art. 3)
+[^F9]: S. 3(1A) inserted (4.5.2006) by Family Law (Scotland) Act 2006 (asp 2), ss. 23(3), 46(2); S.S.I. 2006/212, art. 2 (subject to arts. 3-13)
+[^F10]: Words in s. 3(2) substituted (1.6.2021) by Civil Partnership (Scotland) Act 2020 (asp 15), s. 16, sch. 2 para. 4(2)(c); S.S.I. 2021/23, reg. 2, sch. (with reg. 3)
+[^F11]: S. 3(3A) inserted (6.4.2009 for certain purposes, otherwise 1.9.2009) by Human Fertilisation and Embryology Act 2008 (c. 22), ss. 56, 68, Sch. 6 para. 50(3); S.I. 2009/479, art. 6(1)(e)(2) (as amended by S.I. 2009/2232, art. 3)
+[^F12]: Words in s. 3(4) substituted (24.6.2013) by The Childrens Hearings (Scotland) Act 2011 (Modification of Primary Legislation) Order 2013 (S.S.I. 2013/211), art. 1, sch. 1 para. 9(2)
+[^F13]: Words in s. 3(5) substituted (6.4.2009 for certain purposes, otherwise 1.9.2009) by Human Fertilisation and Embryology Act 2008 (c. 22), ss. 56, 68, Sch. 6 para. 50(4); S.I. 2009/479, art. 6(1)(e)(2) (as amended by S.I. 2009/2232, art. 3)
+[^M2]: 1984 c. 56.
+[^F14]: S. 4A inserted (6.4.2009 for certain purposes, otherwise 1.9.2009) by Human Fertilisation and Embryology Act 2008 (c. 22), ss. 56, 68, Sch. 6 para. 51; S.I. 2009/479, art. 6(1)(e)(2) (as amended by S.I. 2009/2232, art. 3)
+[^M3]: 1980 c. 44.
+[^F15]: Words in s. 6(1) inserted (21.9.2025) by Children (Scotland) Act 2020 (asp 16), ss. 1(2)(a)(i), 34(2); S.S.I. 2025/157, reg. 3 (with reg. 4)
+[^F16]: Words in s. 6(1) repealed (21.9.2025) by Children (Scotland) Act 2020 (asp 16), ss. 1(2)(a)(ii), 34(2); S.S.I. 2025/157, reg. 3 (with reg. 4)
+[^F17]: S. 6(1A)-(1D) inserted (21.9.2025) by Children (Scotland) Act 2020 (asp 16), ss. 1(2)(b), 34(2); S.S.I. 2025/157, reg. 3 (with reg. 4)
+[^F18]: S. 11(1A) repealed (1.3.2005) by The European Communities (Matrimonial and Parental Responsibility Jurisdiction and Judgments) (Scotland) Regulations 2005 (S.S.I. 2005/42), reg. 9 (with reg. 6)
+[^F19]: S. 11(2A) inserted (17.1.2021) by Children (Scotland) Act 2020 (asp 16), ss. 15(2), 34(2); S.S.I. 2020/412, reg. 2(1)(a) (with reg. 3)
+[^F20]: S. 11(3)(a)(iii) repealed (28.9.2009) by Adoption and Children (Scotland) Act 2007 (asp 4), ss. 107(a), 121(2); S.S.I. 2009/267, arts. 1(2), 2 (with arts. 3-21)
+[^F21]: S. 11(3)(aa)(ab) inserted (28.9.2009) by Adoption and Children (Scotland) Act 2007 (asp 4), ss. 107(b), 121(2); S.S.I. 2009/267, arts. 1(2), 2 (with arts. 3-21)
+[^F22]: Words in s. 11(3)(ab) repealed (15.1.2016) by The Adoption and Children (Scotland) Act 2007 (Amendment of the Children (Scotland) Act 1995) Order 2016 (S.S.I. 2016/21), arts. 1, 2(a)
+[^F23]: Words in s. 11(3)(b) inserted (28.9.2009) by Adoption and Children (Scotland) Act 2007 (asp 4), ss. 107(c), 121(2); S.S.I. 2009/267, arts. 1(2), 2 (with arts. 3-21)
+[^F24]: Words in s. 11(4) substituted (28.9.2009) by Adoption and Children (Scotland) Act 2007 (asp 4), ss. 120(1), 121(2), Sch. 2 para. 9(2)(a)(i); S.S.I. 2009/267, arts. 1(2), 2 (with arts. 3-21)
+[^F25]: Word in s. 11(4) inserted (28.9.2009) by Adoption and Children (Scotland) Act 2007 (asp 4), ss. 120(1), 121(2), Sch. 2 para. 9(2)(a)(ii); S.S.I. 2009/267, arts. 1(2), 2 (with arts. 3-21)
+[^F26]: S. 11(4)(b) repealed (28.9.2009) by Adoption and Children (Scotland) Act 2007 (asp 4), ss. 120(2), 121(2), Sch. 3; S.S.I. 2009/267, arts. 1(2), 2 (with arts. 3-21)
+[^F27]: Words in s. 11(4)(c) substituted (6.4.2009 for certain purposes, otherwise 6.4.2010) by Human Fertilisation and Embryology Act 2008 (c. 22), ss. 56, 68, Sch. 6 para. 52(2)(a); S.I. 2009/479, art. 6(1)(e) (as amended by S.I. 2009/2232, art. 3); S.I. 2010/987, art. 2(g)
+[^F28]: Words in s. 11(4)(c) substituted (6.4.2009 for certain purposes, otherwise 6.4.2010) by Human Fertilisation and Embryology Act 2008 (c. 22), ss. 56, 68, Sch. 6 para. 52(2)(b); S.I. 2009/479, art. 6(1)(e) (as amended by S.I. 2009/2232, art. 3); S.I. 2010/987, art. 2(g)
+[^F29]: Words in s. 11(4)(c) inserted (3.1.2019) by The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413), art. 1(1), Sch. 1 para. 9
+[^F30]: S. 11(4)(d) and preceding word repealed (28.9.2009) by Adoption and Children (Scotland) Act 2007 (asp 4), ss. 120(2), 121(2), Sch. 3; S.S.I. 2009/267, arts. 1(2), 2 (with arts. 3-21)
+[^F31]: Words in s. 11(5) inserted (28.9.2009) by Adoption and Children (Scotland) Act 2007 (asp 4), ss. 120(1), 121(2), Sch. 2 para. 9(2)(b); S.S.I. 2009/267, arts. 1(2), 2 (with arts. 3-21)
+[^F32]: Words in s. 11(6) substituted (15.1.2016) by The Adoption and Children (Scotland) Act 2007 (Amendment of the Children (Scotland) Act 1995) Order 2016 (S.S.I. 2016/21), arts. 1, 2(b)
+[^F33]: Words in s. 11(6) repealed (28.9.2009) by Adoption and Children (Scotland) Act 2007 (asp 4), ss. 120(2), 121(2), Sch. 3; S.S.I. 2009/267, arts. 1(2), 2 (with arts. 3-21)
+[^F34]: Words in s. 11(6) substituted (28.9.2009) by Adoption and Children (Scotland) Act 2007 (asp 4), ss. 120(1), 121(2), Sch. 2 para. 9(2)(c); S.S.I. 2009/267, arts. 1(2), 2 (with arts. 3-21)
+[^F35]: S. 11(7A)-(7E) inserted (4.5.2006) by Family Law (Scotland) Act 2006 (asp 2), ss. 24, 46(2); S.S.I. 2006/212, art. 2 (subject to arts. 3-13)
+[^F36]: Words in s. 11(11) inserted (6.4.2009 for certain purposes, otherwise 1.9.2009) by Human Fertilisation and Embryology Act 2008 (c. 22), ss. 56, 68, Sch. 6 para. 52(3); S.I. 2009/479, art. 6(1)(e)(2) (as amended by S.I. 2009/2232, art. 3)
+[^F37]: S. 11A inserted (28.9.2009) by Adoption and Children (Scotland) Act 2007 (asp 4), ss. 103, 121(2); S.S.I. 2009/267, arts. 1(2), 2 (with arts. 3-21)
+[^F38]: Words in s. 12(1) renumbered as s. 12(1)(a) (5.12.2005) by virtue of Civil Partnership Act 2004 (c. 33), ss. 261(2), 263, Sch. 28 para. 60(2); S.S.I. 2005/604, art. 2(c)
+[^F39]: S. 12(1)(b) and preceding word inserted (5.12.2005) by Civil Partnership Act 2004 (c. 33), ss. 261(2), 263, Sch. 28 para. 60(2); S.S.I. 2005/604, art. 2(c)
+[^F40]: Words in s. 12(1) substituted (24.6.2013) by Children’s Hearings (Scotland) Act 2011 (asp 1), s. 206(2), sch. 5 para. 2(2)(a) (with s. 186); S.S.I. 2013/195, arts. 2, 3
+[^F41]: Words in s. 12(2)(a) substituted (24.6.2013) by Children’s Hearings (Scotland) Act 2011 (asp 1), s. 206(2), sch. 5 para. 2(2)(b) (with s. 186); S.S.I. 2013/195, arts. 2, 3
+[^F42]: S. 12(4) substituted (1.6.2021) by Civil Partnership (Scotland) Act 2020 (asp 15), s. 16, sch. 2 para. 4(3); S.S.I. 2021/23, reg. 2, sch. (with reg. 3)
+[^F43]: S. 14(5) omitted (31.12.2020) by virtue of The Jurisdiction and Judgments (Family, Civil Partnership and Marriage (Same Sex Couples)) (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/104), reg. 1, sch. 1 para. 3 (with reg. 6) (as amended by S.S.I. 2020/441, regs. 1(2)(a), 16); 2020 c. 1, Sch. 5 para. 1(1)
+[^M4]: 1978 c.28.
+[^M5]: 1990 c.37.
+[^F44]: S. 15(1): words in the definition of "parent" inserted (6.4.2009 for certain purposes, otherwise 1.9.2009) by Human Fertilisation and Embryology Act 2008 (c. 22), ss. 56, 68, Sch. 6 para. 54(a); S.I. 2009/479, art. 6(1)(e)(2) (as amended by S.I. 2009/2232, art. 3)
+[^F45]: S. 15(1): words in the definition of "parent" substituted (6.4.2009 for certain purposes, otherwise 6.4.2010) by Human Fertilisation and Embryology Act 2008 (c. 22), ss. 56, 68, Sch. 6 para. 54(b); S.I. 2009/479, art. 6(1)(e) (as amended by S.I. 2009/2232, art. 3); S.I. 2010/987, art. 2(g)
+[^F46]: S. 15(1), in the definition of "parent": words inserted (28.9.2009) after "30" [semble in the second place where "30" appeared when the amending Act was enacted] by Adoption and Children (Scotland) Act 2007 (asp 4), ss. 120(1), 121(2), Sch. 2 para. 9(3); S.S.I. 2009/267, arts. 1(2), 2 (with arts. 3-21)
+[^M6]: 1991 c.50.
+[^F47]: S. 15(7) inserted (1.10.2009) by Human Fertilisation and Embryology Act 2008 (c. 22), ss. 65, 68, Sch. 7 para. 17; S.I. 2009/2232, art. 2
+[^F48]: Words in s. 16(1) repealed (24.6.2013) by Children’s Hearings (Scotland) Act 2011 (asp 1), s. 206(2), sch. 5 para. 2(3)(a)(i) (with s. 186); S.S.I. 2013/195, arts. 2, 3
+[^F49]: Words in s. 16(1) repealed (24.6.2013) by Children’s Hearings (Scotland) Act 2011 (asp 1), s. 206(2), sch. 5 para. 2(3)(a)(ii) (with s. 186); S.S.I. 2013/195, arts. 2, 3
+[^F50]: S. 16(1A) inserted (22.6.2025) by Children (Scotland) Act 2020 (asp 16), ss. 30(3), 34(2); S.S.I. 2025/157, reg. 2
+[^F51]: Words in s. 16(2) repealed (24.6.2013) by Children’s Hearings (Scotland) Act 2011 (asp 1), s. 206(2), sch. 5 para. 2(3)(b) (with s. 186); S.S.I. 2013/195, arts. 2, 3
+[^F52]: Word in s. 16(3) substituted (24.6.2013) by Children’s Hearings (Scotland) Act 2011 (asp 1), s. 206(2), sch. 5 para. 2(3)(c)(i) (with s. 186); S.S.I. 2013/195, arts. 2, 3
+[^F53]: Words in s. 16(3) repealed (24.6.2013) by Children’s Hearings (Scotland) Act 2011 (asp 1), s. 206(2), sch. 5 para. 2(3)(c)(ii) (with s. 186); S.S.I. 2013/195, arts. 2, 3
+[^F54]: Words in s. 16(3) repealed (24.6.2013) by Children’s Hearings (Scotland) Act 2011 (asp 1), s. 206(2), sch. 5 para. 2(3)(c)(iii) (with s. 186); S.S.I. 2013/195, arts. 2, 3
+[^F55]: S. 16(4) substituted (24.6.2013) by Children’s Hearings (Scotland) Act 2011 (asp 1), s. 206(2), sch. 5 para. 2(3)(d) (with s. 186); S.S.I. 2013/195, arts. 2, 3
+[^F56]: S. 16(5)(a) repealed (24.6.2013) by Children’s Hearings (Scotland) Act 2011 (asp 1), s. 206(2), sch. 5 para. 2(3)(e)(i) (with s. 186); S.S.I. 2013/195, arts. 2, 3
+[^F57]: Words in s. 16(5)(b) substituted (24.6.2013) by Children’s Hearings (Scotland) Act 2011 (asp 1), s. 206(2), sch. 5 para. 2(3)(e)(ii) (with s. 186); S.S.I. 2013/195, arts. 2, 3
+[^F58]: Word in s. 17(1) repealed (26.7.2021) by Children (Scotland) Act 2020 (asp 16), ss. 13(2)(a)(i), 34(2); S.S.I. 2020/412, reg. 2(2)(a)
+[^F59]: S. 17(1)(d) and word inserted (26.7.2021) by Children (Scotland) Act 2020 (asp 16), ss. 13(2)(a)(ii), 34(2); S.S.I. 2020/412, reg. 2(2)(a)
+[^F60]: S. 17(1A)(1B) inserted (26.7.2021) by Children (Scotland) Act 2020 (asp 16), ss. 13(2)(b), 34(2); S.S.I. 2020/412, reg. 2(2)(a)
+[^F61]: Word in s. 17(3) repealed (26.7.2021) by Children (Scotland) Act 2020 (asp 16), ss. 13(2)(c)(i), 34(2); S.S.I. 2020/412, reg. 2(2)(a)
+[^F62]: S. 17(3)(ca) inserted (26.7.2021) by Children (Scotland) Act 2020 (asp 16), ss. 13(2)(c)(ii), 34(2); S.S.I. 2020/412, reg. 2(2)(a)
+[^F63]: S. 17(6)(b) substituted (24.6.2013) by Children’s Hearings (Scotland) Act 2011 (asp 1), s. 206(2), sch. 5 para. 2(4)(a) (with s. 186); S.S.I. 2013/195, arts. 2, 3
+[^F64]: S. 17(6)(c) repealed (24.6.2013) by Children’s Hearings (Scotland) Act 2011 (asp 1), s. 206(2), sch. 5 para. 2(4)(b) (with s. 186); S.S.I. 2013/195, arts. 2, 3
+[^F65]: Words in s. 17(6)(d) inserted (24.6.2013) by The Childrens Hearings (Scotland) Act 2011 (Modification of Primary Legislation) Order 2013 (S.S.I. 2013/211), art. 1, sch. 1 para. 9(3)
+[^F66]: Words in s. 17(6)(d) substituted (24.6.2013) by Children’s Hearings (Scotland) Act 2011 (asp 1), s. 206(2), sch. 5 para. 2(4)(c) (with s. 186); S.S.I. 2013/195, arts. 2, 3
+[^F67]: S. 17(6)(e) and word inserted (28.9.2009) by Adoption and Children (Scotland) Act 2007 (asp 4), ss. 120(1), 121(2), Sch. 2 para. 9(4)(b); S.S.I. 2009/267, arts. 1(2), 2 (with arts. 3-21)
+[^F68]: S. 17A inserted (28.8.2024) by Children (Care and Justice) (Scotland) Act 2024 (asp 5), ss. 24(2), 38(3); S.S.I. 2024/211, reg. 2(h) (with reg. 3)
+[^F69]: S. 19 repealed (1.4.2017) by Children and Young People (Scotland) Act 2014 (asp 8), s. 102(3), sch. 5 para. 4(2); S.S.I. 2016/254, art. 3(3)(c)
+[^F70]: S. 20(2) substituted (1.4.2017) by Children and Young People (Scotland) Act 2014 (asp 8), s. 102(3), sch. 5 para. 4(3); S.S.I. 2016/254, art. 3(3)(c)
+[^M7]: 1978 c. 29.
+[^F71]: S. 22(4)(za) inserted (29.4.2013) by The Welfare Reform (Consequential Amendments) (Scotland) (No. 2) Regulations 2013 (S.S.I. 2013/137), regs. 1, 5
+[^F72]: Words in s. 22 substituted (5.10.1999) by 1999 c. 10, ss. 1(2), 20, Sch. 1 paras. 1, 6(j)
+[^M8]: 1992 c.4.
+[^F73]: S. 22(4)(aa) inserted (6.4.2003) by 2002 c. 21, ss. 47, 61, Sch. 3 para. 50; S.I. 2003/962, art. 2(3)(d)(iii) (subject to arts 3, 4)
+[^M9]: 1995 c. 18.
+[^F74]: S. 22(4)(c) and word inserted (27.10.2008) by Welfare Reform Act 2007 (c. 5), ss. 28, 70, Sch. 3 para. 14; S.I 2008/787, {art. 2(4)(f)}
+[^F75]: Words in s. 23(2) substituted (5.10.2005) by Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13), ss. 331(1), 333(3), Sch. 4 para. 7; S.S.I. 2005/161, art. 3 (as amended by S.S.I. 2005/375, art. 2)
+[^F76]: Word in s. 23(3) become s. 23(3)(a) (5.10.2005) by virtue of Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13), ss. 227(2)(a), 333(3); S.S.I. 2005/161, art. 3 (as amended by S.S.I. 2005/375, art. 2)
+[^F77]: S. 23(3)(b) and preceding word inserted (5.10.2005) by Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13), ss. 227(2)(b), 333(3); S.S.I. 2005/161, art. 3 (as amended by S.S.I. 2005/375, art. 2)
+[^F78]: S. 23(4) inserted (1.9.2002) by 2002 asp 5, s. 10; S.S.I. 2002/170, art. 2(4)
+[^F79]: S. 23(4)(a)(aa) substituted for s. 23(4)(a) (1.4.2018) by Carers (Scotland) Act 2016 (asp 9), ss. 30(6)(a), 45(2); S.S.I. 2017/152, reg. 4
+[^F80]: S. 23(4)(b)(ii) and word repealed (1.4.2018) by Carers (Scotland) Act 2016 (asp 9), ss. 30(6)(b)(i), 45(2); S.S.I. 2017/152, reg. 4
+[^F81]: Words in s. 23(4)(b) substituted (1.4.2018) by Carers (Scotland) Act 2016 (asp 9), ss. 30(6)(b)(ii), 45(2); S.S.I. 2017/152, reg. 4
+[^F82]: S. 23(5)-(7) inserted (1.4.2018) by Carers (Scotland) Act 2016 (asp 9), ss. 30(7), 45(2); S.S.I. 2017/152, reg. 4
+[^F83]: S. 23A inserted (S.) (31.8.2016) by Children and Young People (Scotland) Act 2014 (asp 8), ss. 95, 102(3); S.S.I. 2016/60, art. 2(b)
+[^F84]: S. 24 repealed (1.4.2018) by Carers (Scotland) Act 2016 (asp 9), s. 45(2), sch. para. 2(2); S.S.I. 2017/152, reg. 4
+[^F85]: S. 24A repealed (1.4.2018) by Carers (Scotland) Act 2016 (asp 9), s. 45(2), sch. para. 2(2); S.S.I. 2017/152, reg. 4
+[^F86]: Words in s. 26(1)(a) repealed (28.9.2009) by Adoption and Children (Scotland) Act 2007 (asp 4), ss. 120(2), 121(2), Sch. 3; S.S.I. 2009/267, arts. 1(2), 2 (with arts. 3-21)
+[^F87]: S. 26(2)(b)(i) substituted (1.4.2011 for E.) by Children and Young Persons Act 2008 (c. 23), s. 44(4), Sch. 1 para. 9; S.I. 2010/2981, art. 4(a)
+[^M10]: 1989 c.41.
+[^M11]: S.I. 1995/755 (N.I.2)
+[^F88]: Words in s. 26(2)(b)(ii) substituted (N.I.) (1.11.2024) by Adoption and Children Act (Northern Ireland) 2022 (c. 18), s. 160(1), Sch. 3 para. 45; S.R. 2024/186, art. 2(b)(i)
+[^F89]: S. 26A inserted (1.8.2014 for specified purposes, 1.4.2015 in so far as not already in force) by Children and Young People (Scotland) Act 2014 (asp 8), ss. 67(1), 102(3); S.S.I. 2014/131, art. 2(2)(3), sch.; S.S.I. 2015/61, art. 2(1)(2), sch.
+[^F90]: S. 27(1A)(1B) inserted (1.8.2014) by Children and Young People (Scotland) Act 2014 (asp 8), ss. 55(2), 102(3); S.S.I. 2014/131, art. 2(2)(3), sch.
+[^F91]: S. 27(3A)-(3D) inserted (1.8.2014) by Children and Young People (Scotland) Act 2014 (asp 8), ss. 55(3), 102(3); S.S.I. 2014/131, art. 2(2)(3), sch.
+[^M12]: 1980 c.44.
+[^M13]: 1968 c.49.
+[^F92]: Words in s. 29(1) substituted (1.8.2014 for specified purposes, 1.4.2015 in so far as not already in force) by Children and Young People (Scotland) Act 2014 (asp 8), ss. 66(2)(a)(i), 102(3); S.S.I. 2014/131, art. 2(2)(3), sch.; S.S.I. 2015/61, art. 2(1)(2), sch.
+[^F93]: Words in s. 29(1) substituted (1.8.2014 for specified purposes, 1.4.2015 in so far as not already in force) by Children and Young People (Scotland) Act 2014 (asp 8), ss. 66(2)(a)(ii), 102(3); S.S.I. 2014/131, art. 2(2)(3), sch.; S.S.I. 2015/61, art. 2(1)(2), sch.
+[^F94]: S. 29(1A) inserted (1.8.2014 for specified purposes, 1.4.2015 in so far as not already in force) by Children and Young People (Scotland) Act 2014 (asp 8), ss. 66(2)(b), 102(3); S.S.I. 2014/131, art. 2(2)(3), sch.; S.S.I. 2015/61, art. 2(1)(2), sch.
+[^F95]: Word in s. 29(2) substituted (1.8.2014 for specified purposes, 1.4.2015 in so far as not already in force) by Children and Young People (Scotland) Act 2014 (asp 8), ss. 66(2)(c)(i), 102(3); S.S.I. 2014/131, art. 2(2)(3), sch.; S.S.I. 2015/61, art. 2(1)(2), sch.
+[^F96]: Words in s. 29(2) repealed (1.8.2014 for specified purposes, 1.4.2015 in so far as not already in force) by Children and Young People (Scotland) Act 2014 (asp 8), ss. 66(2)(c)(ii), 102(3); S.S.I. 2014/131, art. 2(2)(3), sch.; S.S.I. 2015/61, art. 2(1)(2), sch.
+[^F97]: S. 29(2A) inserted (1.4.2015) by Children and Young People (Scotland) Act 2014 (asp 8), ss. 67(2), 102(3); S.S.I. 2015/61, art. 2(1)(2), sch.
+[^F98]: Words in s. 29(3) inserted (5.12.2003) by 2001 asp 8, ss. 73(1)(a), 81(2); S.S.I. 2003/596, art. 3(1)
+[^F99]: Words in s. 29(3) substituted (1.8.2014 for specified purposes, 1.4.2015 in so far as not already in force) by Children and Young People (Scotland) Act 2014 (asp 8), ss. 66(2)(d), 102(3); S.S.I. 2014/131, art. 2(2)(3), sch.; S.S.I. 2015/61, art. 2(1)(2), sch.
+[^F100]: Words in s. 29(4) substituted (1.8.2014 for specified purposes, 1.4.2015 in so far as not already in force) by Children and Young People (Scotland) Act 2014 (asp 8), ss. 66(2)(e), 102(3); S.S.I. 2014/131, art. 2(2)(3), sch.; S.S.I. 2015/61, art. 2(1)(2), sch.
+[^F101]: S. 29(5)-(7) inserted (1.4.2004) by 2001 asp 8, ss. 73(1)(b), 81(2); S.S.I. 2003/596, art. 3(2)
+[^F102]: S. 29(5A)(5B) inserted (1.8.2014 for specified purposes, 1.4.2015 in so far as not already in force) by Children and Young People (Scotland) Act 2014 (asp 8), ss. 66(2)(f), 102(3); S.S.I. 2014/131, art. 2(2)(3), sch.; S.S.I. 2015/61, art. 2(1)(2), sch.
+[^F103]: Word in s. 29(6) substituted (1.8.2014 for specified purposes, 1.4.2015 in so far as not already in force) by Children and Young People (Scotland) Act 2014 (asp 8), ss. 66(2)(g), 102(3); S.S.I. 2014/131, art. 2(2)(3), sch.; S.S.I. 2015/61, art. 2(1)(2), sch.
+[^F104]: S. 29(8)-(10) inserted (1.8.2014 for specified purposes, 1.4.2015 in so far as not already in force) by Children and Young People (Scotland) Act 2014 (asp 8), ss. 66(2)(h), 102(3); S.S.I. 2014/131, art. 2(2)(3), sch.; S.S.I. 2015/61, art. 2(1)(2), sch.
+[^M14]: 1968 c.49.
+[^F105]: Word in s. 30(2) substituted (1.8.2014 for specified purposes, 1.4.2015 in so far as not already in force) by Children and Young People (Scotland) Act 2014 (asp 8), ss. 66(3)(a)(i), 102(3); S.S.I. 2014/131, art. 2(2)(3), sch.; S.S.I. 2015/61, art. 2(1)(2), sch.
+[^F106]: Words in s. 30(2)(a) substituted (1.8.2014 for specified purposes, 1.4.2015 in so far as not already in force) by Children and Young People (Scotland) Act 2014 (asp 8), s. 66(3)(a)(ii)(A), 102(3); S.S.I. 2014/131, art. 2(2)(3), sch.; S.S.I. 2015/61, art. 2(1)(2), sch.
+[^F107]: Word in s. 30(2)(a) substituted (1.8.2014 for specified purposes, 1.4.2015 in so far as not already in force) by Children and Young People (Scotland) Act 2014 (asp 8), s. 66(3)(a)(ii)(B), 102(3); S.S.I. 2014/131, art. 2(2)(3), sch.; S.S.I. 2015/61, art. 2(1)(2), sch.
+[^F108]: S. 30(2)(b)(2A) substituted for s. 30(2)(b) (1.8.2014 for specified purposes, 1.4.2015 in so far as not already in force) by Children and Young People (Scotland) Act 2014 (asp 8), ss. 66(3)(a)(iii), 102(3); S.S.I. 2014/131, art. 2(2)(3), sch.; S.S.I. 2015/61, art. 2(1)(2), sch.
+[^F109]: S. 30(3)(4) omitted (1.8.2014 for specified purposes, 1.4.2015 in so far as not already in force) by virtue of Children and Young People (Scotland) Act 2014 (asp 8), ss. 66(3)(b), 102(3); S.S.I. 2014/131, art. 2(2)(3), sch.; S.S.I. 2015/61, art. 2(1)(2), sch.
+[^F110]: Words in s. 33(1) repealed (S.) (24.6.2013) by Children’s Hearings (Scotland) Act 2011 (asp 1), s. 206(2), sch. 5 para. 2(6)(a)(i) (with s. 186); S.S.I. 2013/195, arts. 2, 3
+[^F111]: Words in s. 33(1) repealed (24.6.2013) by The Children’s Hearings (Scotland) Act 2011 (Consequential and Transitional Provisions and Savings) Order 2013 (S.I. 2013/1465), art. 1(2), Sch. 2 Pt. 2
+[^F112]: Words in s. 33(1) repealed (S.) (24.6.2013) by Children’s Hearings (Scotland) Act 2011 (asp 1), s. 206(2), sch. 5 para. 2(6)(a)(ii) (with s. 186); S.S.I. 2013/195, arts. 2, 3
+[^F113]: Word in s. 33(2) repealed (24.6.2013) by The Children’s Hearings (Scotland) Act 2011 (Consequential and Transitional Provisions and Savings) Order 2013 (S.I. 2013/1465), art. 1(2), Sch. 1 Pt. 3
+[^F114]: S. 33(2)(b) repealed (S.) (24.6.2013) by Children’s Hearings (Scotland) Act 2011 (asp 1), s. 206(2), sch. 5 para. 2(6)(b)(i) (with s. 186); S.S.I. 2013/195, arts. 2, 3
+[^F115]: s. 33(2)(b) repealed (24.6.2013) by The Children’s Hearings (Scotland) Act 2011 (Consequential and Transitional Provisions and Savings) Order 2013 (S.I. 2013/1465), art. 1(2), Sch. 2 Pt. 2
+[^F116]: Words in s. 33(2) repealed (S.) (24.6.2013) by Children’s Hearings (Scotland) Act 2011 (asp 1), s. 206(2), sch. 5 para. 2(6)(b)(ii) (with s. 186); S.S.I. 2013/195, arts. 2, 3
+[^F117]: Words in s. 33(2) repealed (24.6.2013) by The Children’s Hearings (Scotland) Act 2011 (Consequential and Transitional Provisions and Savings) Order 2013 (S.I. 2013/1465), art. 1(2), Sch. 2 Pt. 2
+[^F118]: S. 33(4) repealed (S.) (24.6.2013) by Children’s Hearings (Scotland) Act 2011 (asp 1), s. 206(2), sch. 5 para. 2(6)(c) (with s. 186); S.S.I. 2013/195, arts. 2, 3
+[^F119]: S. 33(4) repealed (24.6.2013) by The Children’s Hearings (Scotland) Act 2011 (Consequential and Transitional Provisions and Savings) Order 2013 (S.I. 2013/1465), art. 1(2), Sch. 2 Pt. 2
+[^M15]: 1968 c.49.
+[^M16]: 1989 c.41.
+[^M17]: 1969 c.54
+[^F120]: Words in s. 33(5)(b) inserted (25.8.2000) by 2000 c. 6, ss. 165(1), 168(1), Sch. 9 para. 175
+[^F121]: Words in s. 33(5)(b) repealed (S.) (24.6.2013) by Children’s Hearings (Scotland) Act 2011 (asp 1), s. 206(2), sch. 5 para. 2(6)(d) (with s. 186); S.S.I. 2013/195, arts. 2, 3
+[^F122]: Words in s. 33(5)(b)(c) repealed (24.6.2013) by The Children’s Hearings (Scotland) Act 2011 (Consequential and Transitional Provisions and Savings) Order 2013 (S.I. 2013/1465), art. 1(2), Sch. 2 Pt. 2
+[^M18]: S.I. 1995/755 (N.I.2)
+[^M19]: 1968 c.34 (N.I.)
+[^F123]: Words in s. 33(5)(c) repealed (S.) (24.6.2013) by Children’s Hearings (Scotland) Act 2011 (asp 1), s. 206(2), sch. 5 para. 2(6)(e) (with s. 186); S.S.I. 2013/195, arts. 2, 3
+[^F124]: S. 33A inserted (1.9.2025) by Children (Care and Justice) (Scotland) Act 2024 (asp 5), ss. 30(2), 38(3); S.S.I. 2025/115, reg. 2(2)(d)
+[^F125]: S. 34 repealed (1.4.2002) by 2001 asp 8, s. 80(1), Sch. 4; S.S.I. 2002/162, art. 2(g)(i) (subject to arts. 3-13)
+[^M20]: 1980 c.44.
+[^M21]: 1978 c.29.
+[^F126]: S. 36(3)(c) substituted (1.4.2011) by The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) Order 2011 (S.S.I. 2011/211), art. 1, sch. 2 para. 4
+[^F127]: Words in s. 36(3)(d) substituted (1.4.2011) by The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) Order 2011 (S.S.I. 2011/211), art. 1, sch. 1 para. 6(a)
+[^M22]: 1968 c.49.
+[^F128]: Words in s. 36(5) inserted (23.2.2006) by Joint Inspection of Childrens Services and Inspection of Social Work Services (Scotland) Act 2006 (asp 3), ss. 8(1)(a), 10(2)
+[^F129]: Words in s. 36(5) substituted (23.2.2006) by Joint Inspection of Childrens Services and Inspection of Social Work Services (Scotland) Act 2006 (asp 3), ss. 8(1)(b), 10(2)
+[^F130]: S. 37 repealed (1.4.2002) by 2001 asp 8, s. 80(1), Sch. 4; S.S.I. 2002/162, art. 2(g)(i) (subject to arts. 3-13)
+[^M23]: 1968 c.49.
+[^F131]: Words in s. 38(1)(b) substituted (1.4.2002) by 2001 asp 8, s. 79, Sch. 3 para. 19(3)(a); S.S.I. 2002/162, art. 2(f)(h) (subject to arts. 3-13)
+[^F132]: Words in s. 38(1)(b) substituted (1.4.2011) by The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) Order 2011 (S.S.I. 2011/211), art. 1, sch. 1 para. 6(b)
+[^F133]: Words in s. 38(1)(b) substituted (1.4.2002) by 2001 asp 8, s. 79, Sch. 3 para. 19(3)(b); S.S.I. 2002/162, art. 2(f)(h) (subject to arts. 3-13)
+[^F134]: Word in s. 38(1)(b) substituted (1.4.2002) by 2001 asp 8, s. 79, Sch. 3 para. 19(3)(c); S.S.I. 2002/162, art. 2(f)(h) (subject to arts. 3-13)
+[^F135]: Words in s. 38(4) substituted (24.6.2013) by Children’s Hearings (Scotland) Act 2011 (asp 1), s. 206(2), sch. 5 para. 2(7) (with s. 186); S.S.I. 2013/195, arts. 2, 3
+[^M24]: 1969 c.54.
+[^M25]: 1984 c.56.
+[^F136]: Ss. 39-43, 45-74 repealed (S.) (24.6.2013) by Children’s Hearings (Scotland) Act 2011 (asp 1), s. 206(2), sch. 6 (with s. 186) (as amended to exclude s. 44 from the range of repealed provisions (30.9.2015) by Children and Young People (Scotland) Act 2014 (asp 8), s. 102(3), Sch. 5 para. 12(10)(a); S.S.I. 2015/317, art. 2, Sch.) (with savings and transitional provisions in S.S.I. 2013/150, arts. 13-18, 25, 28-30); S.S.I. 2013/195, arts. 2, 3(e)(ii)
+[^F137]: S. 44(1) substituted (S.) (30.9.2015) by Children and Young People (Scotland) Act 2014 (asp 8), s. 102(3), sch. 5 para. 4(4)(a); S.S.I. 2015/317, art. 2, sch. (with art. 3)
+[^F138]: S. 44(1) substituted (E.W.N.I.) (30.9.2015) by The Children and Young People (Scotland) Act 2014 (Consequential and Saving Provisions) Order 2015 (S.I. 2015/907), arts. 1(3), 2(2)(a) (with art. 4)
+[^M26]: 1990 c.42.
+[^F139]: S. 44(5)(b)(c) omitted (E.W.N.I.) (30.9.2015) by virtue of The Children and Young People (Scotland) Act 2014 (Consequential and Saving Provisions) Order 2015 (S.I. 2015/907), arts. 1(3), 2(2)(b)(i) (with art. 4)
+[^F140]: S. 44(5)(b)(c) omitted (S.) (30.9.2015) by virtue of Children and Young People (Scotland) Act 2014 (asp 8), s. 102(3), sch. 5 para. 4(4)(b)(i); S.S.I. 2015/317, art. 2, sch. (with art. 3); S.S.I. 2015/317, art. 2, sch. (with art. 3)
+[^F141]: Words in s. 44(5) omitted (S.) (30.9.2015) by virtue of Children and Young People (Scotland) Act 2014 (asp 8), s. 102(3), sch. 5 para. 4(4)(b)(ii); S.S.I. 2015/317, art. 2, sch. (with art. 3)
+[^F142]: Words in s. 44(5) omitted (E.W.N.I.) (30.9.2015) by virtue of The Children and Young People (Scotland) Act 2014 (Consequential and Saving Provisions) Order 2015 (S.I. 2015/907), arts. 1(3), 2(2)(b)(ii) (with art. 4)
+[^F143]: S. 44(6) inserted (S.) (7.4.2008) by Adoption and Children (Scotland) Act 2007 (asp 4), ss. 120(1), 121(2), Sch. 2 para. 9(5); S.S.I. 2008/130, art. 2, Sch.
+[^F144]: S. 44(6) inserted (E.W.N.I.) (15.7.2011) by The Adoption and Children (Scotland) Act 2007 (Consequential Modifications) Order 2011 (S.I. 2011/1740), art. 1(2), Sch. 2 para. 3(2)
+[^F145]: S. 49 repealed (1.4.1996) by 1995 c. 40, ss. 6, 7(2), Sch. 5 (with Sch. 3 paras. 1, 3, 16, 17)
+[^F146]: Ss. 68A, 68B inserted (S.) (1.4.2005) by Vulnerable Witnesses (Scotland) Act 2004 (asp 3), ss. 23, 25; S.S.I. 2005/168, art. 2, Sch. (with art. 4)
+[^F147]: S. 70(4) repealed (E.W.) (24.6.2013) by The Children’s Hearings (Scotland) Act 2011 (Consequential and Transitional Provisions and Savings) Order 2013 (S.I. 2013/1465), arts. 1(2), 20 (with art. 4(1))
+[^F148]: S. 71A inserted (31.1.2005) by Antisocial Behaviour etc. (Scotland) Act 2004 (asp 8), ss. 136(3), 145(2); S.S.I. 2004/420, art. 3, Sch. 4
+[^F149]: S. 74 repealed (24.6.2013) by The Children’s Hearings (Scotland) Act 2011 (Consequential and Transitional Provisions and Savings) Order 2013 (S.I. 2013/1465), art. 1(2), Sch. 2 Pt. 2
+[^F150]: S. 75(1)(a) and word repealed (24.6.2013) by Children’s Hearings (Scotland) Act 2011 (asp 1), s. 206(2), sch. 6 (with s. 186); S.S.I. 2013/195, arts. 2, 3
+[^F151]: Words in s. 75(1)(b) substituted (12.6.2013 for specified purposes, 24.6.2013 in so far as not already in force) by Children’s Hearings (Scotland) Act 2011 (asp 1), s. 206(2), sch. 5 para. 2(8)(a) (with s. 186); S.S.I. 2013/190, art. 2; S.S.I. 2013/195, arts. 2, 3
+[^F152]: S. 75(2A) inserted (12.6.2013 for specified purposes, 24.6.2013 in so far as not already in force) by Children’s Hearings (Scotland) Act 2011 (asp 1), s. 206(2), sch. 5 para. 2(8)(b) (with s. 186); S.S.I. 2013/190, art. 2; S.S.I. 2013/195, arts. 2, 3
+[^F153]: S. 75(4) substituted (12.6.2013 for specified purposes, 24.6.2013 in so far as not already in force) by Children’s Hearings (Scotland) Act 2011 (asp 1), s. 206(2), sch. 5 para. 2(8)(c) (with s. 186); S.S.I. 2013/190, art. 2; S.S.I. 2013/195, arts. 2, 3
+[^F154]: S. 75(5) repealed (24.6.2013) by Children’s Hearings (Scotland) Act 2011 (asp 1), s. 206(2), sch. 6 (with s. 186); S.S.I. 2013/195, arts. 2, 3
+[^F155]: S. 75A and cross-heading inserted (4.4.2005) by Antisocial Behaviour etc. (Scotland) Act 2004 (asp 8), ss. 116, 145(2); S.S.I. 2004/420, art. 3, Sch. 5
+[^F156]: Ss. 75A, 75B repealed (24.6.2013) by Children’s Hearings (Scotland) Act 2011 (asp 1), s. 206(2), sch. 6 (with s. 186); S.S.I. 2013/195, arts. 2, 3
+[^F157]: S. 75B and cross-heading inserted (31.1.2005) by Antisocial Behaviour etc. (Scotland) Act 2004 (asp 8), ss. 137(3), 145(2); S.S.I. 2004/420, art. 3, Sch. 4
+[^F158]: Words in s. 76(8)(b) substituted (24.6.2013) by Children’s Hearings (Scotland) Act 2011 (asp 1), s. 206(2), sch. 5 para. 2(9)(a) (with s. 186); S.S.I. 2013/195, arts. 2, 3
+[^F159]: Words in s. 76(8) substituted (24.6.2013) by Children’s Hearings (Scotland) Act 2011 (asp 1), s. 206(2), sch. 5 para. 2(9)(b)(i) (with s. 186); S.S.I. 2013/195, arts. 2, 3
+[^F160]: Word in s. 76(8) inserted (24.6.2013) by Children’s Hearings (Scotland) Act 2011 (asp 1), s. 206(2), sch. 5 para. 2(9)(b)(ii) (with s. 186); S.S.I. 2013/195, arts. 2, 3
+[^F161]: S. 76(11)(a) substituted (27.11.2003) by The Agricultural Holdings (Consequential Amendments) (Scotland) Order 2003 (S.S.I. 2003/583), arts. 1, 2, Sch. para. 12
+[^F162]: Words in s. 76(11)(a) substituted (30.11.2017) by Land Reform (Scotland) Act 2016 (asp 18), s. 130(1), sch. 2 para. 5(2) (with s. 128); S.S.I. 2017/299, reg. 2, sch. (with reg. 10)
+[^M27]: 1960 c.62.
+[^F163]: Words in s. 78(4) inserted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), sch. 7 para. 11(2)(a)(ii); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F164]: S. 78(4)(a)(b) repealed (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), sch. 7 para. 11(2)(a)(i); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F165]: Words in s. 78(5) substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), sch. 7 para. 11(2)(b); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F166]: Words in s. 78(8) substituted (1.4.1996) by 1995 c. 40, ss. 5, 7(2), Sch. 4 para. 97(7)(a)
+[^F167]: S. 78(10)(b) and word omitted (25.1.2018) by virtue of The Criminal Justice (Scotland) Act 2016 (Modification of Part 1 and Ancillary Provision) Regulations 2017 (S.S.I. 2017/453), reg. 1, sch. para. 2(a)
+[^F168]: Words in s. 78(11) substituted (1.4.1996) by 1995 c. 40, ss. 5, 7(2), Sch. 4 para. 97(7)(b)
+[^F169]: S. 78(12) repealed (25.1.2018) by The Criminal Justice (Scotland) Act 2016 (Modification of Part 1 and Ancillary Provision) Regulations 2017 (S.S.I. 2017/453), reg. 1, sch. para. 2(b)
+[^F170]: S. 78(12A) inserted (25.1.2018) by The Criminal Justice (Scotland) Act 2016 (Modification of Part 1 and Ancillary Provision) Regulations 2017 (S.S.I. 2017/453), reg. 1, sch. para. 2(c)
+[^F171]: Words in s. 78(13) substituted (25.1.2018) by The Criminal Justice (Scotland) Act 2016 (Modification of Part 1 and Ancillary Provision) Regulations 2017 (S.S.I. 2017/453), reg. 1, sch. para. 2(d)
+[^F172]: S. 78(13A) inserted (25.1.2018) by The Criminal Justice (Scotland) Act 2016 (Modification of Part 1 and Ancillary Provision) Regulations 2017 (S.S.I. 2017/453), reg. 1, sch. para. 2(e)
+[^F173]: Words in s. 78(14) substituted (25.1.2018) by The Criminal Justice (Scotland) Act 2016 (Modification of Part 1 and Ancillary Provision) Regulations 2017 (S.S.I. 2017/453), reg. 1, sch. para. 2(f)(i)
+[^F174]: Words in s. 78(14) substituted (25.1.2018) by The Criminal Justice (Scotland) Act 2016 (Modification of Part 1 and Ancillary Provision) Regulations 2017 (S.S.I. 2017/453), reg. 1, sch. para. 2(f)(ii)
+[^F175]: Ss. 81-85 repealed (S.) (24.6.2013) by Children’s Hearings (Scotland) Act 2011 (asp 1), s. 206(2), sch. 6 (with s. 186) (with savings and transitional provisions in S.S.I. 2013/150, art. 19); S.S.I. 2013/195, arts. 2, 3
+[^F176]: S. 82 repealed (24.6.2013) by The Children’s Hearings (Scotland) Act 2011 (Consequential and Transitional Provisions and Savings) Order 2013 (S.I. 2013/1465), art. 1(2), Sch. 2 Pt. 2
+[^F177]: S. 83 repealed (24.6.2013) by The Children’s Hearings (Scotland) Act 2011 (Consequential and Transitional Provisions and Savings) Order 2013 (S.I. 2013/1465), art. 1(2), Sch. 2 Pt. 2
+[^F178]: Ss. 86-89 repealed (28.9.2009) by Adoption and Children (Scotland) Act 2007 (asp 4), ss. 120(2), 121(2), Sch. 3; S.S.I. 2009/267, arts. 1(2), 2 (with arts. 3-21)
+[^F179]: S. 86A added (1.3.2005 with application in accordance with reg. 7 of the amending S.S.I.) by The European Communities (Matrimonial and Parental Responsibility Jurisdiction and Judgments) (Scotland) Regulations 2005 (S.S.I. 2005/42), reg. 5(3) (with reg. 6)
+[^F180]: Ss. 86-89 repealed (28.9.2009) by Adoption and Children (Scotland) Act 2007 (asp 4), ss. 120(2), 121(2), Sch. 3; S.S.I. 2009/267, arts. 1(2), 2 (with arts. 3-21)
+[^F181]: Ss. 86-89 repealed (28.9.2009) by Adoption and Children (Scotland) Act 2007 (asp 4), ss. 120(2), 121(2), Sch. 3; S.S.I. 2009/267, arts. 1(2), 2 (with arts. 3-21)
+[^F182]: Ss. 86-89 repealed (28.9.2009) by Adoption and Children (Scotland) Act 2007 (asp 4), ss. 120(2), 121(2), Sch. 3; S.S.I. 2009/267, arts. 1(2), 2 (with arts. 3-21)
+[^F183]: Ss. 86-89 repealed (28.9.2009) by Adoption and Children (Scotland) Act 2007 (asp 4), ss. 120(2), 121(2), Sch. 3; S.S.I. 2009/267, arts. 1(2), 2 (with arts. 3-21)
+[^F184]: S. 90 repealed (24.6.2013) by Children’s Hearings (Scotland) Act 2011 (asp 1), s. 206(2), sch. 6 (with s. 186); S.S.I. 2013/195, arts. 2, 3
+[^M28]: 1971 c.58.
+[^F185]: S. 91(3)(a)-(c) repealed (24.6.2013) by Children’s Hearings (Scotland) Act 2011 (asp 1), s. 206(2), sch. 6 (with s. 186); S.S.I. 2013/195, arts. 2, 3
+[^F186]: S. 92 repealed (24.6.2013) by Children’s Hearings (Scotland) Act 2011 (asp 1), s. 206(2), sch. 6 (with s. 186); S.S.I. 2013/195, arts. 2, 3
+[^F187]: Words in s. 93(1) repealed (24.6.2013) by The Children’s Hearings (Scotland) Act 2011 (Consequential and Transitional Provisions and Savings) Order 2013 (S.I. 2013/1465), art. 1(2), Sch. 2 Pt. 2
+[^F188]: Words in s. 93(1) repealed (24.6.2013) by Children’s Hearings (Scotland) Act 2011 (asp 1), s. 206(2), sch. 6 (with s. 186); S.S.I. 2013/195, arts. 2, 3
+[^F189]: Words in s. 93(1) substituted (24.6.2013) by The Children’s Hearings (Scotland) Act 2011 (Consequential and Transitional Provisions and Savings) Order 2013 (S.I. 2013/1465), art. 1(2), Sch. 2 Pt. 1
+[^F190]: Words in s. 93(1) substituted (24.6.2013 for specified purposes) by Children’s Hearings (Scotland) Act 2011 (asp 1), s. 206(2), sch. 5 para. 2(10) (with s. 186); S.S.I. 2013/195, arts. 2, 3(d)
+[^F191]: Words in s. 93(1) substituted (S.) (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), sch. 7 para. 11(3); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^M29]: 1994 c.39.
+[^F192]: S. 93(1): definition of "parental responsibility order" repealed (S.) (28.9.2009) by Adoption and Children (Scotland) Act 2007 (asp 4), ss. 120(2), 121(2), Sch. 3; S.S.I. 2009/267, arts. 1(2), 2 (with arts. 3-21)
+[^M30]: 1968 c.49.
+[^F193]: Words in s. 93(1) inserted (24.6.2013) by The Children’s Hearings (Scotland) Act 2011 (Consequential and Transitional Provisions and Savings) Order 2013 (S.I. 2013/1465), art. 1(2), Sch. 1 para. 5
+[^F194]: Word in the definition of "residential establishment" in s. 93 substituted (1.4.2002 for E. and otherwise prosp.) by 2000 c. 14, ss. 116, 122, Sch. 4 para. 23(a); S.I. 2001/4150, art. 3(3)(a) (subject to transitional provisions in art. 4)
+[^F195]: Words in s. 93(1) substituted (S.) (24.6.2013) by The Childrens Hearings (Scotland) Act 2011 (Modification of Primary Legislation) Order 2013 (S.S.I. 2013/211), art. 1, sch. 1 para. 9(4)(a)
+[^M31]: 1980 c.44.
+[^F196]: Words in s. 93(1) substituted (24.6.2013) by The Childrens Hearings (Scotland) Act 2011 (Modification of Primary Legislation) Order 2013 (S.S.I. 2013/211), art. 1, sch. 1 para. 9(4)(b)
+[^F197]: Words in s. 93(2)(a) inserted (E.W.N.I.) (30.9.2015) by The Children and Young People (Scotland) Act 2014 (Consequential and Saving Provisions) Order 2015 (S.I. 2015/907), arts. 1(3), 2(3)(a) (with art. 4)
+[^F198]: Words in s. 93(2)(a) inserted (S.) (27.6.2003) by Criminal Justice (Scotland) Act 2003 (asp 7), ss. 52(b)(i), 89; S.S.I. 2003/288, art. 2, Sch.
+[^F199]: Words in s. 93(2)(b) substituted (E.W.N.I.) (30.9.2015) by The Children and Young People (Scotland) Act 2014 (Consequential and Saving Provisions) Order 2015 (S.I. 2015/907), arts. 1(3), 2(3)(b) (with art. 4)
+[^F200]: Words in s. 93(2)(b) substituted (S.) (27.6.2003) by Criminal Justice (Scotland) Act 2003 (asp 7), ss. 52(b)(ii), 89; S.S.I. 2003/288, art. 2, Sch.
+[^F201]: Words in s. 93(2)(b) repealed (S.) (24.6.2013) by The Childrens Hearings (Scotland) Act 2011 (Modification of Primary Legislation) Order 2013 (S.S.I. 2013/211), art. 1, sch. 2
+[^F202]: Words in s. 93(2)(b) substituted (S.) (24.6.2013) by Children’s Hearings (Scotland) Act 2011 (asp 1), s. 206(2), sch. 5 para. 2(11) (with s. 186); S.S.I. 2013/195, arts. 2, 3
+[^F203]: Words in s. 93(2)(b) repealed (24.6.2013) by The Children’s Hearings (Scotland) Act 2011 (Consequential and Transitional Provisions and Savings) Order 2013 (S.I. 2013/1465), art. 1(2), Sch. 2 Pt. 2
+[^F204]: Words in s. 93(2)(b) repealed (S.) (24.6.2013) by Children’s Hearings (Scotland) Act 2011 (asp 1), s. 206(2), sch. 6 (with s. 186); S.S.I. 2013/195, arts. 2, 3
+[^F205]: Ss. 94-98 repealed (28.9.2009) by Adoption and Children (Scotland) Act 2007 (asp 4), ss. 120(2), 121(2), Sch. 3; S.S.I. 2009/267, arts. 1(2), 2 (with arts. 3-21)
+[^F206]: Ss. 94-98 repealed (28.9.2009) by Adoption and Children (Scotland) Act 2007 (asp 4), ss. 120(2), 121(2), Sch. 3; S.S.I. 2009/267, arts. 1(2), 2 (with arts. 3-21)
+[^F207]: Ss. 94-98 repealed (28.9.2009) by Adoption and Children (Scotland) Act 2007 (asp 4), ss. 120(2), 121(2), Sch. 3; S.S.I. 2009/267, arts. 1(2), 2 (with arts. 3-21)
+[^F208]: Ss. 94-98 repealed (28.9.2009) by Adoption and Children (Scotland) Act 2007 (asp 4), ss. 120(2), 121(2), Sch. 3; S.S.I. 2009/267, arts. 1(2), 2 (with arts. 3-21)
+[^F209]: Ss. 94-98 repealed (28.9.2009) by Adoption and Children (Scotland) Act 2007 (asp 4), ss. 120(2), 121(2), Sch. 3; S.S.I. 2009/267, arts. 1(2), 2 (with arts. 3-21)
+[^M32]: 1965 c.49.
+[^M33]: 1991 c.50.
+[^M34]: 1991 c.50.
+[^M35]: 1968 c.49.
+[^M36]: 1973 c.45.
+[^F210]: S. 101(1) substituted (19.7.2001) by 2001 asp 8, ss. 75(a), 81(2)
+[^F211]: Words in s. 101(1)(a) substituted (28.9.2009) by Adoption and Children (Scotland) Act 2007 (asp 4), ss. 120(1), 121(2), Sch. 2 para. 9(9); S.S.I. 2009/267, arts. 1(2), 2 (with arts. 3-21)
+[^F212]: Words in s. 101(1)(a) repealed (24.6.2013) by Children’s Hearings (Scotland) Act 2011 (asp 1), s. 206(2), sch. 6 (with s. 186); S.S.I. 2013/195, arts. 2, 3
+[^F213]: S. 101(1)(c) and word repealed (24.6.2013) by Children’s Hearings (Scotland) Act 2011 (asp 1), s. 206(2), sch. 6 (with s. 186); S.S.I. 2013/195, arts. 2, 3
+[^F214]: Words in s. 101(2)(a)(b) substituted (19.7.2001) by virtue of 2001 asp 8, ss. 75(b), 81(2)
+[^F215]: S. 101: subsections (3) and (4) substituted for subsection (3) (19.7.2001) by 2001 asp 8, ss. 75(c), 81(2)
+[^F216]: S. 101(4) repealed (24.6.2013) by Children’s Hearings (Scotland) Act 2011 (asp 1), s. 206(2), sch. 6 (with s. 186); S.S.I. 2013/195, arts. 2, 3
+[^F217]: S. 101A inserted (25.10.2021 for specified purposes) by Children (Scotland) Act 2020 (asp 16), ss. 9(2), 34(2); S.S.I. 2021/339, reg. 2(b)
+[^F218]: S. 101B inserted (25.10.2021 for specified purposes) by Children (Scotland) Act 2020 (asp 16), ss. 17(3), 34(2); S.S.I. 2021/339, reg. 2(d)
+[^F219]: S. 101C inserted (25.10.2021) by Children (Scotland) Act 2020 (asp 16), ss. 10(3), 34(2); S.S.I. 2021/339, reg. 2(c)
+[^M37]: 1975 c.42.
+[^M38]: 1978 c.30.
+[^F220]: Words in s. 105(8) repealed (S.) (24.6.2013) by Children’s Hearings (Scotland) Act 2011 (asp 1), s. 206(2), sch. 6 (with s. 186) (as amended (30.9.2015) by virtue of Children and Young People (Scotland) Act 2014 (asp 8), s. 102(3), Sch. 5 para. 12(10)(b); S.S.I. 2015/317, art. 2, Sch.); S.S.I. 2013/195, arts. 2, 3(e)(iii)
+[^F221]: Words in s. 105(8) repealed (24.6.2013) by The Children’s Hearings (Scotland) Act 2011 (Consequential and Transitional Provisions and Savings) Order 2013 (S.I. 2013/1465), art. 1(2), Sch. 2 Pt. 2
+[^M39]: 1968 c.49.
+[^M40]: 1972 c.18.
+[^M41]: 1986 c.55.
+[^M42]: 1989 c.41.
+[^M43]: 1991 c.48.
+[^M44]: 1993 c.35.
+[^F222]: S. 105(10) repealed (S.) (24.6.2013) by Children’s Hearings (Scotland) Act 2011 (asp 1), s. 206(2), sch. 6 (with s. 186); S.S.I. 2013/195, arts. 2, 3
+[^F223]: S. 105(10) repealed (24.6.2013) by The Children’s Hearings (Scotland) Act 2011 (Consequential and Transitional Provisions and Savings) Order 2013 (S.I. 2013/1465), art. 1(2), Sch. 2 Pt. 2
+[^F224]: Sch. 1 repealed (24.6.2013) by Children’s Hearings (Scotland) Act 2011 (asp 1), s. 206(2), sch. 6 (with s. 186); S.S.I. 2013/195, arts. 2, 3
+[^F225]: Sch. 2 repealed (28.9.2009) by Adoption and Children (Scotland) Act 2007 (asp 4), ss. 120(2), 121(2), Sch. 3; S.S.I. 2009/267, arts. 1(2), 2 (with arts. 3-21)
+[^M45]: 1978 c.28.
+[^F226]: Sch. 2 para. 3 repealed (1.4.2004) by 2001 asp 8, ss. 80(1), 81(2), Sch. 4; S.S.I. 2004/100, art. 2(f)(g) (with arts. 3, 4 (as amended by S.S.I. 2004/377, art. 2))
+[^F227]: Sch. 2 para. 5(a) repealed (1.4.2004) by 2001 asp 8, ss. 80(1), 81(2), Sch. 4; S.S.I. 2004/100, art. 2(f)(g) (with arts. 3, 4 (as amended by S.S.I. 2004/377, art. 2))
+[^M46]: 1980 c.44.
+[^F228]: Sch. 3 para. 4(e)(f) substituted (28.9.2009) for Sch. 3 para. 4(e) by Adoption and Children (Scotland) Act 2007 (asp 4), ss. 120(1), 121(2), Sch. 2 para. 9(10); S.S.I. 2009/267, arts. 1(2), 2 (with arts. 3-21)
+[^M47]: 1958 c.40.
+[^M48]: 1973 c.29.
+[^M49]: 1978 c.21.
+[^M50]: 1968 c.49.
+[^M51]: 1989 c.41.
+[^F229]: Sch. 4 para. 10(a) repealed (1.9.1997) by 1996 c. 56, s. 582(2), Sch. 38 Pt. II (with Sch. 39); S.I. 1997/1623, art. 2(2)
+[^M52]: 1991 c.50.
+[^F230]: Sch. 4 para. 15(6) repealed (23.2.2006) by Joint Inspection of Childrens Services and Inspection of Social Work Services (Scotland) Act 2006 (asp 3), ss. 8(4)(f), 10(2)
+[^M53]: 1978 c.28.
+[^M54]: 1937 c.37.
+[^M55]: 1975 c.21.
+[^M56]: 1994 c.39.
+[^F231]: Sch. 4 para. 15(12) repealed (4.4.2019) by Burial and Cremation (Scotland) Act 2016 (asp 20), s. 112(2), sch. 2 (with s. 111); S.S.I. 2018/380, reg. 2, sch. (with reg. 8)
+[^F232]: Sch. 4 para. 15(13)(b)(c) repealed (4.4.2019) by Burial and Cremation (Scotland) Act 2016 (asp 20), s. 112(2), sch. 2 (with s. 111); S.S.I. 2018/380, reg. 2, sch. (with reg. 8)
+[^F233]: Sch. 4 para. 15(16) repealed (1.4.2002) by 2001 asp 8, s. 80(1), Sch. 4; S.S.I. 2002/162, art. 2 (g)(i) (subject to arts. 3-13)
+[^M57]: 1937 c.37.
+[^F234]: Sch. 4 para. 16 repealed (21.7.2008) by Statute Law (Repeals) Act 2008 (c. 12), s. 1(1), Sch. 1 Pt. 11
+[^F235]: Sch. 4 para. 23(2) (3) repealed (24.6.2013) by Children’s Hearings (Scotland) Act 2011 (asp 1), s. 206(2), sch. 6 (with s. 186); S.S.I. 2013/195, arts. 2, 3
+[^F236]: Sch. 4 para. 24 repealed (1.4.1996) by 1995 c. 40, ss. 6, 7(2), Sch. 5 (with Sch. 3 paras. 1, 3, 16, 17)
+[^F237]: Sch. 4 para. 25 repealed (23.10.2002) by 2002 asp 11, s. 25, Sch. 6 para. 16; S.S.I. 2002/467, art. 2
+[^M58]: 1994 c. 39.
+[^F238]: Sch. 4 para. 27 repealed (1.4.1996) by 1995 c. 40, ss. 6, 7(2), Sch. 5 (with Sch. 3 paras. 1, 3, 16, 17)
+[^F239]: Sch. 4 para. 28(4) repealed (14.11.2005) by Education (Additional Support for Learning) (Scotland) Act 2004 (asp 4), ss. 33, 35(1), Sch. 3 para. 9; S.S.I. 2005/564, art. 2
+[^F240]: Sch. 4 para. 29 repealed (1.4.1996) by 1995 c. 40, ss. 6, 7(2), Sch. 5 (with Sch. 3 paras. 1, 3, 16, 17)
+[^F241]: Sch. 4 para. 33 repealed (5.10.2005) by Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13), ss. 331(2), 333(3), Sch. 5 Pt. 1; S.S.I. 2005/161, art. 3 (as amended by S.S.I. 2005/375, art. 2)
+[^M59]: 1968 c. 49.
+[^F242]: Sch. 4 para. 35(6) repealed (1.8.1997) by 1997 c. 48, s. 62(1)(2), Sch. 1 para. 17, Sch. 3; S.I. 1997/1712, art. 3
+[^M60]: 1968 c.49.
+[^M61]: 6 & 7 Eliz. c.40.
+[^F243]: Sch. 4 para. 42 repealed (1.4.2002) by 2001 asp 8, s. 80(1), Sch. 4; S.S.I. 2002/162, art. 2(g)(i) (subject to arts. 3-13) and repealed (30.9.2002) by 2001 asp 10, s. 112, Sch. 10 para. 23; S.S.I. 2002/321, art. 2, Sch. (subject to arts 3-5)
+[^F244]: Sch. 4 para. 46 repealed (1.8.2007) by Scottish Schools (Parental Involvement) Act 2006 (asp 8), ss. 23, 24(2), {Sch. }; S.S.I. 2007/31, art. 2(b), Sch. 2
+[^F245]: Sch. 4 para. 48(4) repealed (S.) (1.4.2002) by 2001 asp 8, s. 80(1), Sch. 4; S.S.I. 2002/162, art. 2(g)(i)
+[^M62]: 1989 c.41.
+[^M63]: 1968 c. 34 (N.I.)
+[^M64]: 1968 c. 49.

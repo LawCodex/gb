@@ -1,0 +1,4142 @@
+---
+title: "Land Registration Act 2002"
+identifier: "ukpga/2002/9"
+citation: "2002 c. 9"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W"
+date: 2002-02-26
+last_amended: 2026-10-01
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/2002/9"
+source_modified: 2026-10-05
+retrieved: 2026-10-11
+---
+
+# Land Registration Act 2002
+
+**2002 c. 9**
+
+An Act to make provision about land registration; and for connected purposes.
+
+[26th February 2002]
+
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## Part 1 — Preliminary
+
+### 1 Register of title
+
+(1) There is to continue to be a register of title kept by the registrar.
+
+(2) Rules may make provision about how the register is to be kept and may, in particular, make provision about—
+
+(a) the information to be included in the register,
+
+(b) the form in which information included in the register is to be kept, and
+
+(c) the arrangement of that information.
+
+### 2 Scope of title registration
+
+This Act makes provision about the registration of title to—
+
+(a) unregistered legal estates which are interests of any of the following kinds—
+
+(i) an estate in land,
+
+(ii) a rentcharge,
+
+(iii) a franchise,
+
+(iv) a profit a prendre in gross, and
+
+(v) any other interest or charge which subsists for the benefit of, or is a charge on, an interest the title to which is registered; and
+
+(b) interests capable of subsisting at law which are created by a disposition of an interest the title to which is registered.
+
+## Part 2 — First registration of title
+
+### Chapter 1 — First registration
+
+#### Voluntary registration
+
+##### 3 When title may be registered
+
+(1) This section applies to any unregistered legal estate which is an interest of any of the following kinds—
+
+(a) an estate in land,
+
+(b) a rentcharge,
+
+(c) a franchise, and
+
+(d) a profit a prendre in gross.
+
+(2) Subject to the following provisions, a person may apply to the registrar to be registered as the proprietor of an unregistered legal estate to which this section applies if—
+
+(a) the estate is vested in him, or
+
+(b) he is entitled to require the estate to be vested in him.
+
+(3) Subject to subsection (4), an application under subsection (2) in respect of a leasehold estate may only be made if the estate was granted for a term of which more than seven years are unexpired.
+
+(4) In the case of an estate in land, subsection (3) does not apply if the right to possession under the lease is discontinuous.
+
+[[^F1](4A) A person may not make an application under subsection (2) in respect of a leasehold estate in land under a relevant social housing tenancy.]
+
+(5) A person may not make an application under subsection (2)(a) in respect of a leasehold estate vested in him as a mortgagee where there is a subsisting right of redemption.
+
+(6) A person may not make an application under subsection (2)(b) if his entitlement is as a person who has contracted to buy under a contract.
+
+(7) If a person holds in the same right both—
+
+(a) a lease in possession, and
+
+(b) a lease to take effect in possession on, or within a month of, the end of the lease in possession,
+
+then, to the extent that they relate to the same land, they are to be treated for the purposes of this section as creating one continuous term.
+
+#### Compulsory registration
+
+##### 4 When title must be registered
+
+(1) The requirement of registration applies on the occurrence of any of the following events—
+
+(a) the transfer of a qualifying estate—
+
+(i) for valuable or other consideration, by way of gift or in pursuance of an order of any court, [^F2]. . .
+
+(ii) by means of an assent (including a vesting assent);[[^F3] or
+
+(iii) giving effect to a partition of land subject to a trust of land;]
+
+[[^F4](aa) the transfer of a qualifying estate—
+
+(i) by a deed that appoints, or by virtue of [[^F5]section 334 of the Charities Act 2011] has effect as if it appointed, a new trustee or is made in consequence of the appointment of a new trustee, or
+
+(ii) by a vesting order under section 44 of the Trustee Act 1925 that is consequential on the appointment of a new trustee;]
+
+(b) the transfer of an unregistered legal estate in land in circumstances where section 171A of the Housing Act 1985 (c. 68) applies (disposal by landlord which leads to a person no longer being a secure tenant);
+
+(c) the grant out of a qualifying estate of an estate in land—
+
+(i) for a term of years absolute of more than seven years from the date of the grant, and
+
+(ii) for valuable or other consideration, by way of gift or in pursuance of an order of any court;
+
+(d) the grant out of a qualifying estate of an estate in land for a term of years absolute to take effect in possession after the end of the period of three months beginning with the date of the grant;
+
+(e) the grant of a lease in pursuance of Part 5 of the Housing Act 1985 (the right to buy) out of an unregistered legal estate in land;
+
+(f) the grant of a lease out of an unregistered legal estate in land in such circumstances as are mentioned in paragraph (b);
+
+(g) the creation of a protected first legal mortgage of a qualifying estate.
+
+(2) For the purposes of subsection (1), a qualifying estate is an unregistered legal estate which is—
+
+(a) a freehold estate in land, or
+
+(b) a leasehold estate in land for a term which, at the time of the transfer, grant or creation, has more than seven years to run.
+
+(3) In subsection (1)(a), the reference to transfer does not include transfer by operation of law.
+
+(4) Subsection (1)(a) does not apply to—
+
+(a) the assignment of a mortgage term, or
+
+(b) the assignment or surrender of a lease to the owner of the immediate reversion where the term is to merge in that reversion.
+
+(5) Subsection (1)(c) does not apply to the grant of an estate to a person as a mortgagee.
+
+[[^F6](5A) Subsection (1) does not apply to the transfer or grant of a leasehold estate in land under a relevant social housing tenancy.]
+
+(6) For the purposes of subsection (1)(a) and (c), if the estate transferred or granted has a negative value, it is to be regarded as transferred or granted for valuable or other consideration.
+
+(7) In subsection (1)(a) and (c), references to transfer or grant by way of gift include transfer or grant for the purpose of—
+
+(a) constituting a trust under which the settlor does not retain the whole of the beneficial interest, or
+
+(b) uniting the bare legal title and the beneficial interest in property held under a trust under which the settlor did not, on constitution, retain the whole of the beneficial interest.
+
+(8) For the purposes of subsection (1)(g)—
+
+(a) a legal mortgage is protected if it takes effect on its creation as a mortgage to be protected by the deposit of documents relating to the mortgaged estate, and
+
+(b) a first legal mortgage is one which, on its creation, ranks in priority ahead of any other mortgages then affecting the mortgaged estate.
+
+(9) In this section—
+
+- “land” does not include mines and minerals held apart from the surface;
+- “vesting assent” has the same meaning as in the Settled Land Act 1925 (c. 18).
+
+##### 5 Power to extend section 4
+
+(1) The [[^F7]Secretary of State] may by order—
+
+(a) amend section 4 so as to add to the events on the occurrence of which the requirement of registration applies such relevant event as he may specify in the order, and
+
+(b) make such consequential amendments of any provision of, or having effect under, any Act as he thinks appropriate.
+
+(2) For the purposes of subsection (1)(a), a relevant event is an event relating to an unregistered legal estate which is an interest of any of the following kinds—
+
+(a) an estate in land,
+
+(b) a rentcharge,
+
+(c) a franchise, and
+
+(d) a profit a prendre in gross.
+
+(3) The power conferred by subsection (1) may not be exercised so as to require the title to an estate granted to a person as a mortgagee to be registered.
+
+(4) Before making an order under this section the [[^F8]Secretary of State] must consult such persons as he considers appropriate.
+
+##### 6 Duty to apply for registration of title
+
+(1) If the requirement of registration applies, the responsible estate owner, or his successor in title, must, before the end of the period for registration, apply to the registrar to be registered as the proprietor of the registrable estate.
+
+(2) If the requirement of registration applies because of section 4(1)(g)—
+
+(a) the registrable estate is the estate charged by the mortgage, and
+
+(b) the responsible estate owner is the owner of that estate.
+
+(3) If the requirement of registration applies otherwise than because of section 4(1)(g)—
+
+(a) the registrable estate is the estate which is transferred or granted, and
+
+(b) the responsible estate owner is the transferee or grantee of that estate.
+
+(4) The period for registration is 2 months beginning with the date on which the relevant event occurs, or such longer period as the registrar may provide under subsection (5).
+
+(5) If on the application of any interested person the registrar is satisfied that there is good reason for doing so, he may by order provide that the period for registration ends on such later date as he may specify in the order.
+
+(6) Rules may make provision enabling the mortgagee under any mortgage falling within section 4(1)(g) to require the estate charged by the mortgage to be registered whether or not the mortgagor consents.
+
+##### 7 Effect of non-compliance with section 6
+
+(1) If the requirement of registration is not complied with, the transfer, grant or creation becomes void as regards the transfer, grant or creation of a legal estate.
+
+(2) On the application of subsection (1)—
+
+(a) in a case falling within section 4(1)(a) or (b), the title to the legal estate reverts to the transferor who holds it on a bare trust for the transferee,
+
+[[^F9](aa) in a case fallling within section 4(1)(aa), the title to the legal estate reverts to the person in whom it was vested immediately before the transfer, ]and
+
+(b) in a case falling within section 4(1)(c) to (g), the grant or creation has effect as a contract made for valuable consideration to grant or create the legal estate concerned.
+
+(3) If an order under section 6(5) is made in a case where subsection (1) has already applied, that application of the subsection is to be treated as not having occurred.
+
+(4) The possibility of reverter under subsection (1) is to be disregarded for the purposes of determining whether a fee simple is a fee simple absolute.
+
+##### 8 Liability for making good void transfers etc
+
+If a legal estate is retransferred, regranted or recreated because of a failure to comply with the requirement of registration, the transferee, grantee or, as the case may be, the mortgagor—
+
+(a) is liable to the other party for all the proper costs of and incidental to the retransfer, regrant or recreation of the legal estate, and
+
+(b) is liable to indemnify the other party in respect of any other liability reasonably incurred by him because of the failure to comply with the requirement of registration.
+
+#### Classes of title
+
+##### 9 Titles to freehold estates
+
+(1) In the case of an application for registration under this Chapter of a freehold estate, the classes of title with which the applicant may be registered as proprietor are—
+
+(a) absolute title,
+
+(b) qualified title, and
+
+(c) possessory title;
+
+and the following provisions deal with when each of the classes of title is available.
+
+(2) A person may be registered with absolute title if the registrar is of the opinion that the person’s title to the estate is such as a willing buyer could properly be advised by a competent professional adviser to accept.
+
+(3) In applying subsection (2), the registrar may disregard the fact that a person’s title appears to him to be open to objection if he is of the opinion that the defect will not cause the holding under the title to be disturbed.
+
+(4) A person may be registered with qualified title if the registrar is of the opinion that the person’s title to the estate has been established only for a limited period or subject to certain reservations which cannot be disregarded under subsection (3).
+
+(5) A person may be registered with possessory title if the registrar is of the opinion—
+
+(a) that the person is in actual possession of the land, or in receipt of the rents and profits of the land, by virtue of the estate, and
+
+(b) that there is no other class of title with which he may be registered.
+
+##### 10 Titles to leasehold estates
+
+(1) In the case of an application for registration under this Chapter of a leasehold estate, the classes of title with which the applicant may be registered as proprietor are—
+
+(a) absolute title,
+
+(b) good leasehold title,
+
+(c) qualified title, and
+
+(d) possessory title;
+
+and the following provisions deal with when each of the classes of title is available.
+
+(2) A person may be registered with absolute title if—
+
+(a) the registrar is of the opinion that the person’s title to the estate is such as a willing buyer could properly be advised by a competent professional adviser to accept, and
+
+(b) the registrar approves the lessor’s title to grant the lease.
+
+(3) A person may be registered with good leasehold title if the registrar is of the opinion that the person’s title to the estate is such as a willing buyer could properly be advised by a competent professional adviser to accept.
+
+(4) In applying subsection (2) or (3), the registrar may disregard the fact that a person’s title appears to him to be open to objection if he is of the opinion that the defect will not cause the holding under the title to be disturbed.
+
+(5) A person may be registered with qualified title if the registrar is of the opinion that the person’s title to the estate, or the lessor’s title to the reversion, has been established only for a limited period or subject to certain reservations which cannot be disregarded under subsection (4).
+
+(6) A person may be registered with possessory title if the registrar is of the opinion—
+
+(a) that the person is in actual possession of the land, or in receipt of the rents and profits of the land, by virtue of the estate, and
+
+(b) that there is no other class of title with which he may be registered.
+
+#### Effect of first registration
+
+##### 11 Freehold estates
+
+(1) This section is concerned with the registration of a person under this Chapter as the proprietor of a freehold estate.
+
+(2) Registration with absolute title has the effect described in subsections (3) to (5).
+
+(3) The estate is vested in the proprietor together with all interests subsisting for the benefit of the estate.
+
+(4) The estate is vested in the proprietor subject only to the following interests affecting the estate at the time of registration—
+
+(a) interests which are the subject of an entry in the register in relation to the estate,
+
+(b) unregistered interests which fall within any of the paragraphs of Schedule 1, and
+
+(c) interests acquired under the Limitation Act 1980 (c. 58) of which the proprietor has notice.
+
+(5) If the proprietor is not entitled to the estate for his own benefit, or not entitled solely for his own benefit, then, as between himself and the persons beneficially entitled to the estate, the estate is vested in him subject to such of their interests as he has notice of.
+
+(6) Registration with qualified title has the same effect as registration with absolute title, except that it does not affect the enforcement of any estate, right or interest which appears from the register to be excepted from the effect of registration.
+
+(7) Registration with possessory title has the same effect as registration with absolute title, except that it does not affect the enforcement of any estate, right or interest adverse to, or in derogation of, the proprietor’s title subsisting at the time of registration or then capable of arising.
+
+##### 12 Leasehold estates
+
+(1) This section is concerned with the registration of a person under this Chapter as the proprietor of a leasehold estate.
+
+(2) Registration with absolute title has the effect described in subsections (3) to (5).
+
+(3) The estate is vested in the proprietor together with all interests subsisting for the benefit of the estate.
+
+(4) The estate is vested subject only to the following interests affecting the estate at the time of registration—
+
+(a) implied and express covenants, obligations and liabilities incident to the estate,
+
+(b) interests which are the subject of an entry in the register in relation to the estate,
+
+(c) unregistered interests which fall within any of the paragraphs of Schedule 1, and
+
+(d) interests acquired under the Limitation Act 1980 (c. 58) of which the proprietor has notice.
+
+(5) If the proprietor is not entitled to the estate for his own benefit, or not entitled solely for his own benefit, then, as between himself and the persons beneficially entitled to the estate, the estate is vested in him subject to such of their interests as he has notice of.
+
+(6) Registration with good leasehold title has the same effect as registration with absolute title, except that it does not affect the enforcement of any estate, right or interest affecting, or in derogation of, the title of the lessor to grant the lease.
+
+(7) Registration with qualified title has the same effect as registration with absolute title except that it does not affect the enforcement of any estate, right or interest which appears from the register to be excepted from the effect of registration.
+
+(8) Registration with possessory title has the same effect as registration with absolute title, except that it does not affect the enforcement of any estate, right or interest adverse to, or in derogation of, the proprietor’s title subsisting at the time of registration or then capable of arising.
+
+#### Dependent estates
+
+##### 13 Appurtenant rights and charges
+
+Rules may—
+
+(a) make provision for the registration of the proprietor of a registered estate as the proprietor of an unregistered legal estate which subsists for the benefit of the registered estate;
+
+(b) make provision for the registration of a person as the proprietor of an unregistered legal estate which is a charge on a registered estate.
+
+#### Supplementary
+
+##### 14 Rules about first registration
+
+Rules may—
+
+(a) make provision about the making of applications for registration under this Chapter;
+
+(b) make provision about the functions of the registrar following the making of such an application, including provision about—
+
+(i) the examination of title, and
+
+(ii) the entries to be made in the register where such an application is approved;
+
+(c) make provision about the effect of any entry made in the register in pursuance of such an application.
+
+### Chapter 2 — Cautions against first registration
+
+#### 15 Right to lodge
+
+(1) Subject to subsection (3), a person may lodge a caution against the registration of title to an unregistered legal estate if he claims to be—
+
+(a) the owner of a qualifying estate, or
+
+(b) entitled to an interest affecting a qualifying estate.
+
+(2) For the purposes of subsection (1), a qualifying estate is a legal estate which—
+
+(a) relates to land to which the caution relates, and
+
+(b) is an interest of any of the following kinds—
+
+(i) an estate in land,
+
+(ii) a rentcharge,
+
+(iii) a franchise, and
+
+(iv) a profit a prendre in gross.
+
+(3) No caution may be lodged under subsection (1)—
+
+(a) in the case of paragraph (a), by virtue of ownership of—
+
+(i) a freehold estate in land, or
+
+(ii) a leasehold estate in land granted for a term of which more than seven years are unexpired;
+
+(b) in the case of paragraph (b), by virtue of entitlement to such a leasehold estate as is mentioned in paragraph (a)(ii) of this subsection.
+
+(4) The right under subsection (1) is exercisable by application to the registrar.
+
+#### 16 Effect
+
+(1) Where an application for registration under this Part relates to a legal estate which is the subject of a caution against first registration, the registrar must give the cautioner notice of the application and of his right to object to it.
+
+(2) The registrar may not determine an application to which subsection (1) applies before the end of such period as rules may provide, unless the cautioner has exercised his right to object to the application or given the registrar notice that he does not intend to do so.
+
+(3) Except as provided by this section, a caution against first registration has no effect and, in particular, has no effect on the validity or priority of any interest of the cautioner in the legal estate to which the caution relates.
+
+(4) For the purposes of subsection (1), notice given by a person acting on behalf of an applicant for registration under this Part is to be treated as given by the registrar if—
+
+(a) the person is of a description provided by rules, and
+
+(b) notice is given in such circumstances as rules may provide.
+
+#### 17 Withdrawal
+
+The cautioner may withdraw a caution against first registration by application to the registrar.
+
+#### 18 Cancellation
+
+(1) A person may apply to the registrar for cancellation of a caution against first registration if he is—
+
+(a) the owner of the legal estate to which the caution relates, or
+
+(b) a person of such other description as rules may provide.
+
+(2) Subject to rules, no application under subsection (1)(a) may be made by a person who—
+
+(a) consented in such manner as rules may provide to the lodging of the caution, or
+
+(b) derives title to the legal estate by operation of law from a person who did so.
+
+(3) Where an application is made under subsection (1), the registrar must give the cautioner notice of the application and of the effect of subsection (4).
+
+(4) If the cautioner does not exercise his right to object to the application before the end of such period as rules may provide, the registrar must cancel the caution.
+
+#### 19 Cautions register
+
+(1) The registrar must keep a register of cautions against first registration.
+
+(2) Rules may make provision about how the cautions register is to be kept and may, in particular, make provision about—
+
+(a) the information to be included in the register,
+
+(b) the form in which information included in the register is to be kept, and
+
+(c) the arrangement of that information.
+
+#### 20 Alteration of register by court
+
+(1) The court may make an order for alteration of the cautions register for the purpose of—
+
+(a) correcting a mistake, or
+
+(b) bringing the register up to date.
+
+(2) An order under subsection (1) has effect when served on the registrar to impose a duty on him to give effect to it.
+
+(3) Rules may make provision about—
+
+(a) the circumstances in which there is a duty to exercise the power under subsection (1),
+
+(b) the form of an order under that subsection, and
+
+(c) service of such an order.
+
+#### 21 Alteration of register by registrar
+
+(1) The registrar may alter the cautions register for the purpose of—
+
+(a) correcting a mistake, or
+
+(b) bringing the register up to date.
+
+(2) Rules may make provision about—
+
+(a) the circumstances in which there is a duty to exercise the power under subsection (1),
+
+(b) how the cautions register is to be altered in exercise of that power,
+
+(c) applications for the exercise of that power, and
+
+(d) procedure in relation to the exercise of that power, whether on application or otherwise.
+
+(3) Where an alteration is made under this section, the registrar may pay such amount as he thinks fit in respect of any costs reasonably incurred by a person in connection with the alteration.
+
+#### 22 Supplementary
+
+In this Chapter, “the cautioner”, in relation to a caution against first registration, means the person who lodged the caution, or such other person as rules may provide.
+
+## Part 3 — Dispositions of registered land
+
+### Powers of disposition
+
+#### 23 Owner’s powers
+
+(1) Owner’s powers in relation to a registered estate consist of—
+
+(a) power to make a disposition of any kind permitted by the general law in relation to an interest of that description, other than a mortgage by demise or sub-demise, and
+
+(b) power to charge the estate at law with the payment of money.
+
+(2) Owner’s powers in relation to a registered charge consist of—
+
+(a) power to make a disposition of any kind permitted by the general law in relation to an interest of that description, other than a legal sub-mortgage, and
+
+(b) power to charge at law with the payment of money indebtedness secured by the registered charge.
+
+(3) In subsection (2)(a), “legal sub-mortgage” means—
+
+(a) a transfer by way of mortgage,
+
+(b) a sub-mortgage by sub-demise, and
+
+(c) a charge by way of legal mortgage.
+
+#### 24 Right to exercise owner’s powers
+
+A person is entitled to exercise owner’s powers in relation to a registered estate or charge if he is—
+
+(a) the registered proprietor, or
+
+(b) entitled to be registered as the proprietor.
+
+#### 25 Mode of exercise
+
+(1) A registrable disposition of a registered estate or charge only has effect if it complies with such requirements as to form and content as rules may provide.
+
+(2) Rules may apply subsection (1) to any other kind of disposition which depends for its effect on registration.
+
+#### 26 Protection of disponees
+
+(1) Subject to subsection (2), a person’s right to exercise owner’s powers in relation to a registered estate or charge is to be taken to be free from any limitation affecting the validity of a disposition.
+
+(2) Subsection (1) does not apply to a limitation—
+
+(a) reflected by an entry in the register, or
+
+(b) imposed by, or under, this Act.
+
+(3) This section has effect only for the purpose of preventing the title of a disponee being questioned (and so does not affect the lawfulness of a disposition).
+
+### Registrable dispositions
+
+#### 27 Dispositions required to be registered
+
+(1) If a disposition of a registered estate or registered charge is required to be completed by registration, it does not operate at law until the relevant registration requirements are met.
+
+(2) In the case of a registered estate, the following are the dispositions which are required to be completed by registration—
+
+(a) a transfer,
+
+(b) where the registered estate is an estate in land, the grant of a term of years absolute—
+
+(i) for a term of more than seven years from the date of the grant,
+
+(ii) to take effect in possession after the end of the period of three months beginning with the date of the grant,
+
+(iii) under which the right to possession is discontinuous,
+
+(iv) in pursuance of Part 5 of the Housing Act 1985 (c. 68) (the right to buy), or
+
+(v) in circumstances where section 171A of that Act applies (disposal by landlord which leads to a person no longer being a secure tenant),
+
+(c) where the registered estate is a franchise or manor, the grant of a lease,
+
+[^F10]d the express grant or reservation of an interest of a kind falling within section 1(2)(a) of the Law of Property Act 1925 (c. 20), other than one which is capable of being registered under [[^F10]Part 1 of the Commons Act 2006],
+
+(e) the express grant or reservation of an interest of a kind falling within section 1(2)(b) or (e) of the Law of Property Act 1925, and
+
+(f) the grant of a legal charge.
+
+(3) In the case of a registered charge, the following are the dispositions which are required to be completed by registration—
+
+(a) a transfer, and
+
+(b) the grant of a sub-charge.
+
+(4) Schedule 2 to this Act (which deals with the relevant registration requirements) has effect.
+
+(5) This section applies to dispositions by operation of law as it applies to other dispositions, but with the exception of the following—
+
+(a) a transfer on the death or bankruptcy of an individual proprietor,
+
+(b) a transfer on the dissolution of a corporate proprietor, and
+
+(c) the creation of a legal charge which is a local land charge.
+
+[[^F11](5A) This section does not apply to—
+
+(a) the grant of a term of years absolute under a relevant social housing tenancy, or
+
+(b) the express grant of an interest falling within section 1(2) of the Law of Property Act 1925, where the interest is created for the benefit of a leasehold estate in land under a relevant social housing tenancy.]
+
+(6) Rules may make provision about applications to the registrar for the purpose of meeting registration requirements under this section.
+
+(7) In subsection (2)(d), the reference to express grant does not include grant as a result of the operation of section 62 of the Law of Property Act 1925 (c. 20).
+
+### Effect of dispositions on priority
+
+#### 28 Basic rule
+
+(1) Except as provided by sections 29 and 30, the priority of an interest affecting a registered estate or charge is not affected by a disposition of the estate or charge.
+
+(2) It makes no difference for the purposes of this section whether the interest or disposition is registered.
+
+#### 29 Effect of registered dispositions: estates
+
+(1) If a registrable disposition of a registered estate is made for valuable consideration, completion of the disposition by registration has the effect of postponing to the interest under the disposition any interest affecting the estate immediately before the disposition whose priority is not protected at the time of registration.
+
+(2) For the purposes of subsection (1), the priority of an interest is protected—
+
+(a) in any case, if the interest—
+
+(i) is a registered charge or the subject of a notice in the register,
+
+(ii) falls within any of the paragraphs of Schedule 3, or
+
+(iii) appears from the register to be excepted from the effect of registration, and
+
+(b) in the case of a disposition of a leasehold estate, if the burden of the interest is incident to the estate.
+
+(3) Subsection (2)(a)(ii) does not apply to an interest which has been the subject of a notice in the register at any time since the coming into force of this section.
+
+(4) Where the grant of a leasehold estate in land out of a registered estate does not involve a registrable disposition, this section has effect as if—
+
+(a) the grant involved such a disposition, and
+
+(b) the disposition were registered at the time of the grant.
+
+#### 30 Effect of registered dispositions: charges
+
+(1) If a registrable disposition of a registered charge is made for valuable consideration, completion of the disposition by registration has the effect of postponing to the interest under the disposition any interest affecting the charge immediately before the disposition whose priority is not protected at the time of registration.
+
+(2) For the purposes of subsection (1), the priority of an interest is protected—
+
+(a) in any case, if the interest—
+
+(i) is a registered charge or the subject of a notice in the register,
+
+(ii) falls within any of the paragraphs of Schedule 3, or
+
+(iii) appears from the register to be excepted from the effect of registration, and
+
+(b) in the case of a disposition of a charge which relates to a leasehold estate, if the burden of the interest is incident to the estate.
+
+(3) Subsection (2)(a)(ii) does not apply to an interest which has been the subject of a notice in the register at any time since the coming into force of this section.
+
+#### 31 Inland Revenue charges
+
+The effect of a disposition of a registered estate or charge on a charge under section 237 of the Inheritance Tax Act 1984 (c. 51) (charge for unpaid tax) is to be determined, not in accordance with sections 28 to 30 above, but in accordance with sections 237(6) and 238 of that Act (under which a purchaser in good faith for money or money’s worth takes free from the charge in the absence of registration).
+
+## Part 4 — Notices and restrictions
+
+### Notices
+
+#### 32 Nature and effect
+
+(1) A notice is an entry in the register in respect of the burden of an interest affecting a registered estate or charge.
+
+(2) The entry of a notice is to be made in relation to the registered estate or charge affected by the interest concerned.
+
+(3) The fact that an interest is the subject of a notice does not necessarily mean that the interest is valid, but does mean that the priority of the interest, if valid, is protected for the purposes of sections 29 and 30.
+
+#### 33 Excluded interests
+
+No notice may be entered in the register in respect of any of the following—
+
+(a) an interest under—
+
+(i) a trust of land, or
+
+(ii) a settlement under the Settled Land Act 1925 (c. 18),
+
+(b) a leasehold estate in land which—
+
+(i) is granted for a term of years of three years or less from the date of the grant, and
+
+(ii) is not required to be registered,
+
+[[^F12](ba) an interest under a relevant social housing tenancy,]
+
+(c) a restrictive covenant made between a lessor and lessee, so far as relating to the demised premises,
+
+[^F13]d an interest which is capable of being registered under [[^F13]Part 1 of the Commons Act 2006], and
+
+(e) an interest in any coal or coal mine, the rights attached to any such interest and the rights of any person under section 38, 49 or 51 of the Coal Industry Act 1994 (c. 21).
+
+#### 34 Entry on application
+
+(1) A person who claims to be entitled to the benefit of an interest affecting a registered estate or charge may, if the interest is not excluded by section 33, apply to the registrar for the entry in the register of a notice in respect of the interest.
+
+(2) Subject to rules, an application under this section may be for—
+
+(a) an agreed notice, or
+
+(b) a unilateral notice.
+
+(3) The registrar may only approve an application for an agreed notice if—
+
+(a) the applicant is the relevant registered proprietor, or a person entitled to be registered as such proprietor,
+
+(b) the relevant registered proprietor, or a person entitled to be registered as such proprietor, consents to the entry of the notice, or
+
+(c) the registrar is satisfied as to the validity of the applicant’s claim.
+
+(4) In subsection (3), references to the relevant registered proprietor are to the proprietor of the registered estate or charge affected by the interest to which the application relates.
+
+#### 35 Unilateral notices
+
+(1) If the registrar enters a notice in the register in pursuance of an application under section 34(2)(b) (“a unilateral notice”), he must give notice of the entry to—
+
+(a) the proprietor of the registered estate or charge to which it relates, and
+
+(b) such other persons as rules may provide.
+
+(2) A unilateral notice must—
+
+(a) indicate that it is such a notice, and
+
+(b) identify who is the beneficiary of the notice.
+
+(3) The person shown in the register as the beneficiary of a unilateral notice, or such other person as rules may provide, may apply to the registrar for the removal of the notice from the register.
+
+#### 36 Cancellation of unilateral notices
+
+(1) A person may apply to the registrar for the cancellation of a unilateral notice if he is—
+
+(a) the registered proprietor of the estate or charge to which the notice relates, or
+
+(b) a person entitled to be registered as the proprietor of that estate or charge.
+
+(2) Where an application is made under subsection (1), the registrar must give the beneficiary of the notice notice of the application and of the effect of subsection (3).
+
+(3) If the beneficiary of the notice does not exercise his right to object to the application before the end of such period as rules may provide, the registrar must cancel the notice.
+
+(4) In this section—
+
+- “beneficiary”, in relation to a unilateral notice, means the person shown in the register as the beneficiary of the notice, or such other person as rules may provide;
+- “unilateral notice” means a notice entered in the register in pursuance of an application under section 34(2)(b).
+
+#### 37 Unregistered interests
+
+(1) If it appears to the registrar that a registered estate is subject to an unregistered interest which—
+
+(a) falls within any of the paragraphs of Schedule 1, and
+
+(b) is not excluded by section 33,
+
+he may enter a notice in the register in respect of the interest.
+
+(2) The registrar must give notice of an entry under this section to such persons as rules may provide.
+
+#### 38 Registrable dispositions
+
+Where a person is entered in the register as the proprietor of an interest under a disposition falling within section 27(2)(b) to (e), the registrar must also enter a notice in the register in respect of that interest.
+
+#### 39 Supplementary
+
+Rules may make provision about the form and content of notices in the register.
+
+### Restrictions
+
+#### 40 Nature
+
+(1) A restriction is an entry in the register regulating the circumstances in which a disposition of a registered estate or charge may be the subject of an entry in the register.
+
+(2) A restriction may, in particular—
+
+(a) prohibit the making of an entry in respect of any disposition, or a disposition of a kind specified in the restriction;
+
+(b) prohibit the making of an entry—
+
+(i) indefinitely,
+
+(ii) for a period specified in the restriction, or
+
+(iii) until the occurrence of an event so specified.
+
+(3) Without prejudice to the generality of subsection (2)(b)(iii), the events which may be specified include—
+
+(a) the giving of notice,
+
+(b) the obtaining of consent, and
+
+(c) the making of an order by the court or registrar.
+
+(4) The entry of a restriction is to be made in relation to the registered estate or charge to which it relates.
+
+#### 41 Effect
+
+(1) Where a restriction is entered in the register, no entry in respect of a disposition to which the restriction applies may be made in the register otherwise than in accordance with the terms of the restriction, subject to any order under subsection (2).
+
+(2) The registrar may by order—
+
+(a) disapply a restriction in relation to a disposition specified in the order or dispositions of a kind so specified, or
+
+(b) provide that a restriction has effect, in relation to a disposition specified in the order or dispositions of a kind so specified, with modifications so specified.
+
+(3) The power under subsection (2) is exercisable only on the application of a person who appears to the registrar to have a sufficient interest in the restriction.
+
+#### 42 Power of registrar to enter
+
+(1) The registrar may enter a restriction in the register if it appears to him that it is necessary or desirable to do so for the purpose of—
+
+(a) preventing invalidity or unlawfulness in relation to dispositions of a registered estate or charge,
+
+(b) securing that interests which are capable of being overreached on a disposition of a registered estate or charge are overreached, or
+
+(c) protecting a right or claim in relation to a registered estate or charge.
+
+(2) No restriction may be entered under subsection (1)(c) for the purpose of protecting the priority of an interest which is, or could be, the subject of a notice.
+
+(3) The registrar must give notice of any entry made under this section to the proprietor of the registered estate or charge concerned, except where the entry is made in pursuance of an application under section 43.
+
+(4) For the purposes of subsection (1)(c), a person entitled to the benefit of a charging order relating to an interest under a trust shall be treated as having a right or claim in relation to the trust property.
+
+#### 43 Applications
+
+(1) A person may apply to the registrar for the entry of a restriction under section 42(1) if—
+
+(a) he is the relevant registered proprietor, or a person entitled to be registered as such proprietor,
+
+(b) the relevant registered proprietor, or a person entitled to be registered as such proprietor, consents to the application, or
+
+(c) he otherwise has a sufficient interest in the making of the entry.
+
+(2) Rules may—
+
+(a) require the making of an application under subsection (1) in such circumstances, and by such person, as the rules may provide;
+
+(b) make provision about the form of consent for the purposes of subsection (1)(b);
+
+(c) provide for classes of person to be regarded as included in subsection (1)(c);
+
+(d) specify standard forms of restriction.
+
+(3) If an application under subsection (1) is made for the entry of a restriction which is not in a form specified under subsection (2)(d), the registrar may only approve the application if it appears to him—
+
+(a) that the terms of the proposed restriction are reasonable, and
+
+(b) that applying the proposed restriction would—
+
+(i) be straightforward, and
+
+(ii) not place an unreasonable burden on him.
+
+(4) In subsection (1), references to the relevant registered proprietor are to the proprietor of the registered estate or charge to which the application relates.
+
+#### 44 Obligatory restrictions
+
+(1) If the registrar enters two or more persons in the register as the proprietor of a registered estate in land, he must also enter in the register such restrictions as rules may provide for the purpose of securing that interests which are capable of being overreached on a disposition of the estate are overreached.
+
+(2) Where under any enactment the registrar is required to enter a restriction without application, the form of the restriction shall be such as rules may provide.
+
+#### 45 Notifiable applications
+
+(1) Where an application under section 43(1) is notifiable, the registrar must give notice of the application, and of the right to object to it, to—
+
+(a) the proprietor of the registered estate or charge to which it relates, and
+
+(b) such other persons as rules may provide.
+
+(2) The registrar may not determine an application to which subsection (1) applies before the end of such period as rules may provide, unless the person, or each of the persons, notified under that subsection has exercised his right to object to the application or given the registrar notice that he does not intend to do so.
+
+(3) For the purposes of this section, an application under section 43(1) is notifiable unless it is—
+
+(a) made by or with the consent of the proprietor of the registered estate or charge to which the application relates, or a person entitled to be registered as such proprietor,
+
+(b) made in pursuance of rules under section 43(2)(a), or
+
+(c) an application for the entry of a restriction reflecting a limitation under an order of the court or registrar, or an undertaking given in place of such an order.
+
+#### 46 Power of court to order entry
+
+(1) If it appears to the court that it is necessary or desirable to do so for the purpose of protecting a right or claim in relation to a registered estate or charge, it may make an order requiring the registrar to enter a restriction in the register.
+
+(2) No order under this section may be made for the purpose of protecting the priority of an interest which is, or could be, the subject of a notice.
+
+(3) The court may include in an order under this section a direction that an entry made in pursuance of the order is to have overriding priority.
+
+(4) If an order under this section includes a direction under subsection (3), the registrar must make such entry in the register as rules may provide.
+
+(5) The court may make the exercise of its power under subsection (3) subject to such terms and conditions as it thinks fit.
+
+#### 47 Withdrawal
+
+A person may apply to the registrar for the withdrawal of a restriction if—
+
+(a) the restriction was entered in such circumstances as rules may provide, and
+
+(b) he is of such a description as rules may provide.
+
+## Part 5 — Charges
+
+### Relative priority
+
+#### 48 Registered charges
+
+(1) Registered charges on the same registered estate, or on the same registered charge, are to be taken to rank as between themselves in the order shown in the register.
+
+(2) Rules may make provision about—
+
+(a) how the priority of registered charges as between themselves is to be shown in the register, and
+
+(b) applications for registration of the priority of registered charges as between themselves.
+
+#### 49 Tacking and further advances
+
+(1) The proprietor of a registered charge may make a further advance on the security of the charge ranking in priority to a subsequent charge if he has not received from the subsequent chargee notice of the creation of the subsequent charge.
+
+(2) Notice given for the purposes of subsection (1) shall be treated as received at the time when, in accordance with rules, it ought to have been received.
+
+(3) The proprietor of a registered charge may also make a further advance on the security of the charge ranking in priority to a subsequent charge if—
+
+(a) the advance is made in pursuance of an obligation, and
+
+(b) at the time of the creation of the subsequent charge the obligation was entered in the register in accordance with rules.
+
+(4) The proprietor of a registered charge may also make a further advance on the security of the charge ranking in priority to a subsequent charge if—
+
+(a) the parties to the prior charge have agreed a maximum amount for which the charge is security, and
+
+(b) at the time of the creation of the subsequent charge the agreement was entered in the register in accordance with rules.
+
+(5) Rules may—
+
+(a) disapply subsection (4) in relation to charges of a description specified in the rules, or
+
+(b) provide for the application of that subsection to be subject, in the case of charges of a description so specified, to compliance with such conditions as may be so specified.
+
+(6) Except as provided by this section, tacking in relation to a charge over registered land is only possible with the agreement of the subsequent chargee.
+
+#### 50 Overriding statutory charges: duty of notification
+
+If the registrar enters a person in the register as the proprietor of a charge which—
+
+(a) is created by or under an enactment, and
+
+(b) has effect to postpone a charge which at the time of registration of the statutory charge is—
+
+(i) entered in the register, or
+
+(ii) the basis for an entry in the register,
+
+he must in accordance with rules give notice of the creation of the statutory charge to such person as rules may provide.
+
+### Powers as chargee
+
+#### 51 Effect of completion by registration
+
+On completion of the relevant registration requirements, a charge created by means of a registrable disposition of a registered estate has effect, if it would not otherwise do so, as a charge by deed by way of legal mortgage.
+
+#### 52 Protection of disponees
+
+(1) Subject to any entry in the register to the contrary, the proprietor of a registered charge is to be taken to have, in relation to the property subject to the charge, the powers of disposition conferred by law on the owner of a legal mortgage.
+
+(2) Subsection (1) has effect only for the purpose of preventing the title of a disponee being questioned (and so does not affect the lawfulness of a disposition).
+
+#### 53 Powers as sub-chargee
+
+The registered proprietor of a sub-charge has, in relation to the property subject to the principal charge or any intermediate charge, the same powers as the sub-chargor.
+
+### Realisation of security
+
+#### 54 Proceeds of sale: chargee’s duty
+
+For the purposes of section 105 of the Law of Property Act 1925 (c. 20) (mortgagee’s duties in relation to application of proceeds of sale), in its application to the proceeds of sale of registered land, a person shall be taken to have notice of anything in the register immediately before the disposition on sale.
+
+#### 55 Local land charges
+
+A charge over registered land which is a local land charge may only be realised if the title to the charge is registered.
+
+### Miscellaneous
+
+#### 56 Receipt in case of joint proprietors
+
+Where a charge is registered in the name of two or more proprietors, a valid receipt for the money secured by the charge may be given by—
+
+(a) the registered proprietors,
+
+(b) the survivors or survivor of the registered proprietors, or
+
+(c) the personal representative of the last survivor of the registered proprietors.
+
+#### 57 Entry of right of consolidation
+
+Rules may make provision about entry in the register of a right of consolidation in relation to a registered charge.
+
+## Part 6 — Registration: general
+
+### Registration as proprietor
+
+#### 58 Conclusiveness
+
+(1) If, on the entry of a person in the register as the proprietor of a legal estate, the legal estate would not otherwise be vested in him, it shall be deemed to be vested in him as a result of the registration.
+
+(2) Subsection (1) does not apply where the entry is made in pursuance of a registrable disposition in relation to which some other registration requirement remains to be met.
+
+#### 59 Dependent estates
+
+(1) The entry of a person in the register as the proprietor of a legal estate which subsists for the benefit of a registered estate must be made in relation to the registered estate.
+
+(2) The entry of a person in the register as the proprietor of a charge on a registered estate must be made in relation to that estate.
+
+(3) The entry of a person in the register as the proprietor of a sub-charge on a registered charge must be made in relation to that charge.
+
+### Boundaries
+
+#### 60 Boundaries
+
+(1) The boundary of a registered estate as shown for the purposes of the register is a general boundary, unless shown as determined under this section.
+
+(2) A general boundary does not determine the exact line of the boundary.
+
+(3) Rules may make provision enabling or requiring the exact line of the boundary of a registered estate to be determined and may, in particular, make provision about—
+
+(a) the circumstances in which the exact line of a boundary may or must be determined,
+
+(b) how the exact line of a boundary may be determined,
+
+(c) procedure in relation to applications for determination, and
+
+(d) the recording of the fact of determination in the register or the index maintained under section 68.
+
+(4) Rules under this section must provide for applications for determination to be made to the registrar.
+
+#### 61 Accretion and diluvion
+
+(1) The fact that a registered estate in land is shown in the register as having a particular boundary does not affect the operation of accretion or diluvion.
+
+(2) An agreement about the operation of accretion or diluvion in relation to a registered estate in land has effect only if registered in accordance with rules.
+
+### Quality of title
+
+#### 62 Power to upgrade title
+
+(1) Where the title to a freehold estate is entered in the register as possessory or qualified, the registrar may enter it as absolute if he is satisfied as to the title to the estate.
+
+(2) Where the title to a leasehold estate is entered in the register as good leasehold, the registrar may enter it as absolute if he is satisfied as to the superior title.
+
+(3) Where the title to a leasehold estate is entered in the register as possessory or qualified the registrar may—
+
+(a) enter it as good leasehold if he is satisfied as to the title to the estate, and
+
+(b) enter it as absolute if he is satisfied both as to the title to the estate and as to the superior title.
+
+(4) Where the title to a freehold estate in land has been entered in the register as possessory for at least twelve years, the registrar may enter it as absolute if he is satisfied that the proprietor is in possession of the land.
+
+(5) Where the title to a leasehold estate in land has been entered in the register as possessory for at least twelve years, the registrar may enter it as good leasehold if he is satisfied that the proprietor is in possession of the land.
+
+(6) None of the powers under subsections (1) to (5) is exercisable if there is outstanding any claim adverse to the title of the registered proprietor which is made by virtue of an estate, right or interest whose enforceability is preserved by virtue of the existing entry about the class of title.
+
+(7) The only persons who may apply to the registrar for the exercise of any of the powers under subsections (1) to (5) are—
+
+(a) the proprietor of the estate to which the application relates,
+
+(b) a person entitled to be registered as the proprietor of that estate,
+
+(c) the proprietor of a registered charge affecting that estate, and
+
+(d) a person interested in a registered estate which derives from that estate.
+
+(8) In determining for the purposes of this section whether he is satisfied as to any title, the registrar is to apply the same standards as those which apply under section 9 or 10 to first registration of title.
+
+(9) The [[^F14]Secretary of State] may by order amend subsection (4) or (5) by substituting for the number of years for the time being specified in that subsection such number of years as the order may provide.
+
+#### 63 Effect of upgrading title
+
+(1) On the title to a registered freehold or leasehold estate being entered under section 62 as absolute, the proprietor ceases to hold the estate subject to any estate, right or interest whose enforceability was preserved by virtue of the previous entry about the class of title.
+
+(2) Subsection (1) also applies on the title to a registered leasehold estate being entered under section 62 as good leasehold, except that the entry does not affect or prejudice the enforcement of any estate, right or interest affecting, or in derogation of, the title of the lessor to grant the lease.
+
+#### 64 Use of register to record defects in title
+
+(1) If it appears to the registrar that a right to determine a registered estate in land is exercisable, he may enter the fact in the register.
+
+(2) Rules may make provision about entries under subsection (1) and may, in particular, make provision about—
+
+(a) the circumstances in which there is a duty to exercise the power conferred by that subsection,
+
+(b) how entries under that subsection are to be made, and
+
+(c) the removal of such entries.
+
+### Alteration of register
+
+#### 65 Alteration of register
+
+Schedule 4 (which makes provision about alteration of the register) has effect.
+
+### Information etc.
+
+#### 66 Inspection of the registers etc
+
+(1) Any person may inspect and make copies of, or of any part of—
+
+(a) the register of title,
+
+(b) any document kept by the registrar which is referred to in the register of title,
+
+(c) any other document kept by the registrar which relates to an application to him, or
+
+(d) the register of cautions against first registration.
+
+(2) The right under subsection (1) is subject to rules which may, in particular—
+
+(a) provide for exceptions to the right, and
+
+(b) impose conditions on its exercise, including conditions requiring the payment of fees.
+
+#### 67 Official copies of the registers etc
+
+(1) An official copy of, or of a part of—
+
+(a) the register of title,
+
+(b) any document which is referred to in the register of title and kept by the registrar,
+
+(c) any other document kept by the registrar which relates to an application to him, or
+
+(d) the register of cautions against first registration,
+
+is admissible in evidence to the same extent as the original.
+
+(2) A person who relies on an official copy in which there is a mistake is not liable for loss suffered by another by reason of the mistake.
+
+(3) Rules may make provision for the issue of official copies and may, in particular, make provision about—
+
+(a) the form of official copies,
+
+(b) who may issue official copies,
+
+(c) applications for official copies, and
+
+(d) the conditions to be met by applicants for official copies, including conditions requiring the payment of fees.
+
+#### 68 Index
+
+(1) The registrar must keep an index for the purpose of enabling the following matters to be ascertained in relation to any parcel of land—
+
+(a) whether any registered estate relates to the land,
+
+(b) how any registered estate which relates to the land is identified for the purposes of the register,
+
+(c) whether the land is affected by any, and, if so what, caution against first registration, and
+
+(d) such other matters as rules may provide.
+
+(2) Rules may—
+
+(a) make provision about how the index is to be kept and may, in particular, make provision about—
+
+(i) the information to be included in the index,
+
+(ii) the form in which information included in the index is to be kept, and
+
+(iii) the arrangement of that information;
+
+(b) make provision about official searches of the index.
+
+#### 69 Historical information
+
+(1) The registrar may on application provide information about the history of a registered title.
+
+(2) Rules may make provision about applications for the exercise of the power conferred by subsection (1).
+
+(3) The registrar may—
+
+(a) arrange for the provision of information about the history of registered titles, and
+
+(b) authorise anyone who has the function of providing information under paragraph (a) to have access on such terms as the registrar thinks fit to any relevant information kept by him.
+
+#### 70 Official searches
+
+Rules may make provision for official searches of the register, including searches of pending applications for first registration, and may, in particular, make provision about—
+
+(a) the form of applications for searches,
+
+(b) the manner in which such applications may be made,
+
+(c) the form of official search certificates, and
+
+(d) the manner in which such certificates may be issued.
+
+### Applications
+
+#### 71 Duty to disclose unregistered interests
+
+Where rules so provide—
+
+(a) a person applying for registration under Chapter 1 of Part 2 must provide to the registrar such information as the rules may provide about any interest affecting the estate to which the application relates which—
+
+(i) falls within any of the paragraphs of Schedule 1, and
+
+(ii) is of a description specified by the rules;
+
+(b) a person applying to register a registrable disposition of a registered estate must provide to the registrar such information as the rules may provide about any unregistered interest affecting the estate which—
+
+(i) falls within any of the paragraphs of Schedule 3, and
+
+(ii) is of description specified by the rules.
+
+#### 72 Priority protection
+
+(1) For the purposes of this section, an application for an entry in the register is protected if—
+
+(a) it is one to which a priority period relates, and
+
+(b) it is made before the end of that period.
+
+(2) Where an application for an entry in the register is protected, any entry made in the register during the priority period relating to the application is postponed to any entry made in pursuance of it.
+
+(3) Subsection (2) does not apply if—
+
+(a) the earlier entry was made in pursuance of a protected application, and
+
+(b) the priority period relating to that application ranks ahead of the one relating to the application for the other entry.
+
+(4) Subsection (2) does not apply if the earlier entry is one to which a direction under section 46(3) applies.
+
+(5) The registrar may defer dealing with an application for an entry in the register if it appears to him that subsection (2) might apply to the entry were he to make it.
+
+(6) Rules may—
+
+(a) make provision for priority periods in connection with—
+
+(i) official searches of the register, including searches of pending applications for first registration, or
+
+(ii) the noting in the register of a contract for the making of a registrable disposition of a registered estate or charge;
+
+(b) make provision for the keeping of records in relation to priority periods and the inspection of such records.
+
+(7) Rules under subsection (6)(a) may, in particular, make provision about—
+
+(a) the commencement and length of a priority period,
+
+(b) the applications for registration to which such a period relates,
+
+(c) the order in which competing priority periods rank, and
+
+(d) the application of subsections (2) and (3) in cases where more than one priority period relates to the same application.
+
+#### 73 Objections
+
+(1) Subject to subsections (2) and (3), anyone may object to an application to the registrar.
+
+(2) In the case of an application under section 18, only the person who lodged the caution to which the application relates, or such other person as rules may provide, may object.
+
+(3) In the case of an application under section 36, only the person shown in the register as the beneficiary of the notice to which the application relates, or such other person as rules may provide, may object.
+
+(4) The right to object under this section is subject to rules.
+
+(5) Where an objection is made under this section, the registrar—
+
+(a) must give notice of the objection to the applicant, and
+
+(b) may not determine the application until the objection has been disposed of.
+
+(6) Subsection (5) does not apply if the objection is one which the registrar is satisfied is groundless.
+
+(7) If it is not possible to dispose by agreement of an objection to which subsection (5) applies, the registrar must refer the matter to the [[^F15]First-tier Tribunal].
+
+(8) Rules may make provision about references under subsection (7).
+
+#### 74 Effective date of registration
+
+An entry made in the register in pursuance of—
+
+(a) an application for registration of an unregistered legal estate, or
+
+(b) an application for registration in relation to a disposition required to be completed by registration,
+
+has effect from the time of the making of the application.
+
+### Proceedings before the registrar
+
+#### 75 Production of documents
+
+(1) The registrar may require a person to produce a document for the purposes of proceedings before him.
+
+(2) The power under subsection (1) is subject to rules.
+
+(3) A requirement under subsection (1) shall be enforceable as an order of the court.
+
+(4) A person aggrieved by a requirement under subsection (1) may appeal to [[^F16]the county court], which may make any order which appears appropriate.
+
+#### 76 Costs
+
+(1) The registrar may make orders about costs in relation to proceedings before him.
+
+(2) The power under subsection (1) is subject to rules which may, in particular, make provision about—
+
+(a) who may be required to pay costs,
+
+(b) whose costs a person may be required to pay,
+
+(c) the kind of costs which a person may be required to pay, and
+
+(d) the assessment of costs.
+
+(3) Without prejudice to the generality of subsection (2), rules under that subsection may include provision about—
+
+(a) costs of the registrar, and
+
+(b) liability for costs thrown away as the result of neglect or delay by a legal representative of a party to proceedings.
+
+(4) An order under subsection (1) shall be enforceable as an order of the court.
+
+(5) A person aggrieved by an order under subsection (1) may appeal to [[^F17]the county court], which may make any order which appears appropriate.
+
+### Miscellaneous
+
+#### 77 Duty to act reasonably
+
+(1) A person must not exercise any of the following rights without reasonable cause—
+
+(a) the right to lodge a caution under section 15,
+
+(b) the right to apply for the entry of a notice or restriction, and
+
+(c) the right to object to an application to the registrar.
+
+(2) The duty under this section is owed to any person who suffers damage in consequence of its breach.
+
+#### 78 Notice of trust not to affect registrar
+
+The registrar shall not be affected with notice of a trust.
+
+## Part 7 — Special cases
+
+### The Crown
+
+#### 79 Voluntary registration of demesne land
+
+(1) Her Majesty may grant an estate in fee simple absolute in possession out of demesne land to Herself.
+
+(2) The grant of an estate under subsection (1) is to be regarded as not having been made unless an application under section 3 is made in respect of the estate before the end of the period for registration.
+
+(3) The period for registration is two months beginning with the date of the grant, or such longer period as the registrar may provide under subsection (4).
+
+(4) If on the application of Her Majesty the registrar is satisfied that there is a good reason for doing so, he may by order provide that the period for registration ends on such later date as he may specify in the order.
+
+(5) If an order under subsection (4) is made in a case where subsection (2) has already applied, that application of the subsection is to be treated as not having occurred.
+
+#### 80 Compulsory registration of grants out of demesne land
+
+(1) Section 4(1) shall apply as if the following were included among the events listed—
+
+(a) the grant by Her Majesty out of demesne land of an estate in fee simple absolute in possession, otherwise than under section 79;
+
+(b) the grant by Her Majesty out of demesne land of an estate in land—
+
+(i) for a term of years absolute of more than seven years from the date of the grant, and
+
+(ii) for valuable or other consideration, by way of gift or in pursuance of an order of any court.
+
+(2) In subsection (1)(b)(ii), the reference to grant by way of gift includes grant for the purpose of constituting a trust under which Her Majesty does not retain the whole of the beneficial interest.
+
+(3) Subsection (1) does not apply to the grant of an estate in mines and minerals held apart from the surface.
+
+(4) The [[^F18]Secretary of State] may by order—
+
+(a) amend this section so as to add to the events in subsection (1) such events relating to demesne land as he may specify in the order, and
+
+(b) make such consequential amendments of any provision of, or having effect under, any Act as he thinks appropriate.
+
+(5) In its application by virtue of subsection (1), section 7 has effect with the substitution for subsection (2) of—
+
+> (2) On the application of subsection (1), the grant has effect as a contract made for valuable consideration to grant the legal estate concerned
+
+.
+
+#### 81 Demesne land: cautions against first registration
+
+(1) Section 15 shall apply as if demesne land were held by Her Majesty for an unregistered estate in fee simple absolute in possession.
+
+(2) The provisions of this Act relating to cautions against first registration shall, in relation to cautions lodged by virtue of subsection (1), have effect subject to such modifications as rules may provide.
+
+#### 82 Escheat etc
+
+(1) Rules may make provision about—
+
+(a) the determination of a registered freehold estate in land, and
+
+(b) the registration of an unregistered freehold legal estate in land in respect of land to which a former registered freehold estate in land related.
+
+(2) Rules under this section may, in particular—
+
+(a) make provision for determination to be dependent on the meeting of such registration requirements as the rules may specify;
+
+(b) make provision for entries relating to a freehold estate in land to continue in the register, notwithstanding determination, for such time as the rules may provide;
+
+(c) make provision for the making in the register in relation to a former freehold estate in land of such entries as the rules may provide;
+
+(d) make provision imposing requirements to be met in connection with an application for the registration of such an unregistered estate as is mentioned in subsection (1)(b).
+
+#### 83 Crown and Duchy land: representation
+
+(1) With respect to a Crown or Duchy interest, the appropriate authority—
+
+(a) may represent the owner of the interest for all purposes of this Act,
+
+(b) is entitled to receive such notice as that person is entitled to receive under this Act, and
+
+(c) may make such applications and do such other acts as that person is entitled to make or do under this Act.
+
+(2) In this section—
+
+- “the appropriate authority” means—
+
+  - (a) in relation to an interest belonging to Her Majesty in right of the Crown and forming part of the Crown Estate, the Crown Estate Commissioners;
+  - (b) in relation to any other interest belonging to Her Majesty in right of the Crown, the government department having the management of the interest or, if there is no such department, such person as Her Majesty may appoint in writing under the Royal Sign Manual;
+  - (c) in relation to an interest belonging to Her Majesty in right of the Duchy of Lancaster, the Chancellor of the Duchy;
+  - (d) in relation to an interest belonging to the Duchy of Cornwall, such person as the Duke of Cornwall, or the possessor for the time being of the Duchy of Cornwall, appoints;
+  - (e) in relation to an interest belonging to a government department, or held in trust for Her Majesty for the purposes of a government department, that department;
+
+- “Crown interest” means an interest belonging to Her Majesty in right of the Crown, or belonging to a government department, or held in trust for Her Majesty for the purposes of a government department;
+
+- “Duchy interest” means an interest belonging to Her Majesty in right of the Duchy of Lancaster, or belonging to the Duchy of Cornwall;
+
+- “interest” means any estate, interest or charge in or over land and any right or claim in relation to land.
+
+#### 84 Disapplication of requirements relating to Duchy land
+
+Nothing in any enactment relating to the Duchy of Lancaster or the Duchy of Cornwall shall have effect to impose any requirement with respect to formalities or enrolment in relation to a disposition by a registered proprietor.
+
+#### 85 Bona vacantia
+
+Rules may make provision about how the passing of a registered estate or charge as bona vacantia is to be dealt with for the purposes of this Act.
+
+### [[^F19]Overseas entities
+
+#### 85A Overseas entities
+
+Schedule 4A is about the ownership of registered land by overseas entities and about registrable dispositions made by them.]
+
+### Pending actions etc.
+
+#### 86 Bankruptcy
+
+(1) In this Act, references to an interest affecting an estate or charge do not include a [[^F20]bankruptcy application,] petition in bankruptcy or bankruptcy order.
+
+(2) As soon as practicable after registration of a [[^F21]bankruptcy application or] petition in bankruptcy as a pending action under the Land Charges Act 1972 (c. 61), the registrar must enter in the register in relation to any registered estate or charge which appears to him to be affected a notice in respect of the pending action.
+
+(3) Unless cancelled by the registrar in such manner as rules may provide, a notice entered under subsection (2) continues in force until—
+
+(a) a restriction is entered in the register under subsection (4), or
+
+(b) the trustee in bankruptcy is registered as proprietor.
+
+(4) As soon as practicable after registration of a bankruptcy order under the Land Charges Act 1972, the registrar must, in relation to any registered estate or charge which appears to him to be affected by the order, enter in the register a restriction reflecting the effect of the Insolvency Act 1986 (c. 45).
+
+(5) Where the proprietor of a registered estate or charge is [[^F22]made] bankrupt, the title of his trustee in bankruptcy is void as against a person to whom a registrable disposition of the estate or charge is made if—
+
+(a) the disposition is made for valuable consideration,
+
+(b) the person to whom the disposition is made acts in good faith, and
+
+(c) at the time of the disposition—
+
+(i) no notice or restriction is entered under this section in relation to the registered estate or charge, and
+
+(ii) the person to whom the disposition is made has no notice of [[^F23]the bankruptcy application or petition] or the adjudication.
+
+(6) Subsection (5) only applies if the relevant registration requirements are met in relation to the disposition, but, when they are met, has effect as from the date of the disposition.
+
+(7) Nothing in this section requires a person to whom a registrable disposition is made to make any search under the Land Charges Act 1972.
+
+#### 87 Pending land actions, writs, orders and deeds of arrangement
+
+(1) Subject to the following provisions, references in this Act to an interest affecting an estate or charge include—
+
+(a) a pending land action within the meaning of the Land Charges Act 1972,
+
+(b) a writ or order of the kind mentioned in section 6(1)(a) of that Act (writ or order affecting land issued or made by any court for the purposes of enforcing a judgment or recognisance),[[^F24]and]
+
+(c) an order appointing a receiver or sequestrator, [^F25]...
+
+[^F25]d . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) No notice may be entered in the register in respect of—
+
+(a) an order appointing a receiver or sequestrator,[^F26]...
+
+[^F26]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) None of the matters mentioned in subsection (1) shall be capable of falling within paragraph 2 of Schedule 1 or 3.
+
+(4) In its application to any of the matters mentioned in subsection (1), this Act shall have effect subject to such modifications as rules may provide.
+
+[^F27]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Miscellaneous
+
+#### 88 Incorporeal hereditaments
+
+In its application to—
+
+(a) rentcharges,
+
+(b) franchises,
+
+(c) profits a prendre in gross, or
+
+(d) manors,
+
+this Act shall have effect subject to such modification as rules may provide.
+
+#### 89 Settlements
+
+(1) Rules may make provision for the purposes of this Act in relation to the application to registered land of the enactments relating to settlements under the Settled Land Act 1925 (c. 18).
+
+(2) Rules under this section may include provision modifying any of those enactments in its application to registered land.
+
+(3) In this section, “registered land” means an interest the title to which is, or is required to be, registered.
+
+#### 90 PPP leases relating to transport in London
+
+(1) No application for registration under section 3 may be made in respect of a leasehold estate in land under a PPP lease.
+
+(2) The requirement of registration does not apply on the grant or transfer of a leasehold estate in land under a PPP lease.
+
+(3) For the purposes of section 27, the following are not dispositions requiring to be completed by registration—
+
+(a) the grant of a term of years absolute under a PPP lease;
+
+(b) the express grant of an interest falling within section 1(2) of the Law of Property Act 1925 (c. 20), where the interest is created for the benefit of a leasehold estate in land under a PPP lease.
+
+(4) No notice may be entered in the register in respect of an interest under a PPP lease.
+
+(5) Schedules 1 and 3 have effect as if they included a paragraph referring to a PPP lease.
+
+(6) In this section, “PPP lease” has the meaning given by section 218 of the Greater London Authority Act 1999 (c. 29) (which makes provision about leases created for public-private partnerships relating to transport in London).
+
+## Part 8 — Electronic conveyancing
+
+### 91 Electronic dispositions: formalities
+
+(1) This section applies to a document in electronic form where—
+
+(a) the document purports to effect a disposition which falls within subsection (2), and
+
+(b) the conditions in subsection (3) are met.
+
+(2) A disposition falls within this subsection if it is—
+
+(a) a disposition of a registered estate or charge,
+
+(b) a disposition of an interest which is the subject of a notice in the register, or
+
+(c) a disposition which triggers the requirement of registration,
+
+which is of a kind specified by rules.
+
+(3) The conditions referred to above are that—
+
+(a) the document makes provision for the time and date when it takes effect,
+
+(b) the document has the electronic signature of each person by whom it purports to be authenticated,
+
+(c) each electronic signature is certified, and
+
+(d) such other conditions as rules may provide are met.
+
+(4) A document to which this section applies is to be regarded as—
+
+(a) in writing, and
+
+(b) signed by each individual, and sealed by each corporation, whose electronic signature it has.
+
+(5) A document to which this section applies is to be regarded for the purposes of any enactment as a deed.
+
+(6) If a document to which this section applies is authenticated by a person as agent, it is to be regarded for the purposes of any enactment as authenticated by him under the written authority of his principal.
+
+(7) If notice of an assignment made by means of a document to which this section applies is given in electronic form in accordance with rules, it is to be regarded for the purposes of any enactment as given in writing.
+
+(8) The right conferred by section 75 of the Law of Property Act 1925 (c. 20) (purchaser’s right to have the execution of a conveyance attested) does not apply to a document to which this section applies.
+
+[[^F28](9) In relation to the execution of a document by a company in accordance with section 44(2) of the Companies Act 2006 (signature on behalf of the company)—
+
+(a) subsection (4) above has effect in relation to paragraph (a) of that provision (signature by two authorised signatories) but not paragraph (b) (signature by director in presence of witness);
+
+(b) the other provisions of section 44 apply accordingly (the references to a document purporting to be signed in accordance with subsection (2) of that section being read as references to its purporting to be authenticated in accordance with this section);
+
+(c) where subsection (4) above has effect in relation to a person signing on behalf of more than one company, the requirement of subsection (6) of that section is treated as met if the document specifies the different capacities in which the person signs. ]
+
+[[^F29](9A) If subsection (3) of section 53 of the Co-operative and Community Benefit Societies Act 2014 (execution of documents) applies to a document because of subsection (4) above, subsection (5) of that section (presumption of due execution) shall have effect in relation to the document with the substitution of “ authenticated ” for “signed”. ]
+
+(10) In this section, references to an electronic signature and to the certification of such a signature are to be read in accordance with section 7(2) and (3) of the Electronic Communications Act 2000 (c. 7).
+
+### 92 Land registry network
+
+(1) The registrar may provide, or arrange for the provision of, an electronic communications network for use for such purposes as he thinks fit relating to registration or the carrying on of transactions which—
+
+(a) involve registration, and
+
+(b) are capable of being effected electronically.
+
+(2) Schedule 5 (which makes provision in connection with a network provided under subsection (1) and transactions carried on by means of such a network) has effect.
+
+### 93 Power to require simultaneous registration
+
+(1) This section applies to a disposition of—
+
+(a) a registered estate or charge, or
+
+(b) an interest which is the subject of a notice in the register,
+
+where the disposition is of a description specified by rules.
+
+(2) A disposition to which this section applies, or a contract to make such a disposition, only has effect if it is made by means of a document in electronic form and if, when the document purports to take effect—
+
+(a) it is electronically communicated to the registrar, and
+
+(b) the relevant registration requirements are met.
+
+(3) For the purposes of subsection (2)(b), the relevant registration requirements are—
+
+(a) in the case of a registrable disposition, the requirements under Schedule 2, and
+
+(b) in the case of any other disposition, or a contract, such requirements as rules may provide.
+
+(4) Section 27(1) does not apply to a disposition to which this section applies.
+
+(5) Before making rules under this section the [[^F30]Secretary of State] must consult such persons as he considers appropriate.
+
+(6) In this section, “disposition”, in relation to a registered charge, includes postponement.
+
+### 94 Electronic settlement
+
+The registrar may take such steps as he thinks fit for the purpose of securing the provision of a system of electronic settlement in relation to transactions involving registration.
+
+### 95 Supplementary
+
+Rules may—
+
+(a) make provision about the communication of documents in electronic form to the registrar;
+
+(b) make provision about the electronic storage of documents communicated to the registrar in electronic form.
+
+## Part 9 — Adverse possession
+
+### 96 Disapplication of periods of limitation
+
+(1) No period of limitation under section 15 of the Limitation Act 1980 (c. 58) (time limits in relation to recovery of land) shall run against any person, other than a chargee, in relation to an estate in land or rentcharge the title to which is registered.
+
+(2) No period of limitation under section 16 of that Act (time limits in relation to redemption of land) shall run against any person in relation to such an estate in land or rentcharge.
+
+(3) Accordingly, section 17 of that Act (extinction of title on expiry of time limit) does not operate to extinguish the title of any person where, by virtue of this section, a period of limitation does not run against him.
+
+### 97 Registration of adverse possessor
+
+Schedule 6 (which makes provision about the registration of an adverse possessor of an estate in land or rentcharge) has effect.
+
+### 98 Defences
+
+(1) A person has a defence to an action for possession of land if—
+
+(a) on the day immediately preceding that on which the action was brought he was entitled to make an application under paragraph 1 of Schedule 6 to be registered as the proprietor of an estate in the land, and
+
+(b) had he made such an application on that day, the condition in paragraph 5(4) of that Schedule would have been satisfied.
+
+(2) A judgment for possession of land ceases to be enforceable at the end of the period of two years beginning with the date of the judgment if the proceedings in which the judgment is given were commenced against a person who was at that time entitled to make an application under paragraph 1 of Schedule 6.
+
+(3) A person has a defence to an action for possession of land if on the day immediately preceding that on which the action was brought he was entitled to make an application under paragraph 6 of Schedule 6 to be registered as the proprietor of an estate in the land.
+
+(4) A judgment for possession of land ceases to be enforceable at the end of the period of two years beginning with the date of the judgment if, at the end of that period, the person against whom the judgment was given is entitled to make an application under paragraph 6 of Schedule 6 to be registered as the proprietor of an estate in the land.
+
+(5) Where in any proceedings a court determines that—
+
+(a) a person is entitled to a defence under this section, or
+
+(b) a judgment for possession has ceased to be enforceable against a person by virtue of subsection (4),
+
+the court must order the registrar to register him as the proprietor of the estate in relation to which he is entitled to make an application under Schedule 6.
+
+(6) The defences under this section are additional to any other defences a person may have.
+
+(7) Rules may make provision to prohibit the recovery of rent due under a rentcharge from a person who has been in adverse possession of the rentcharge.
+
+## Part 10 — Land registry
+
+### Administration
+
+#### 99 The land registry
+
+(1) There is to continue to be an office called Her Majesty’s Land Registry which is to deal with the business of registration under this Act.
+
+(2) The land registry is to consist of—
+
+(a) the Chief Land Registrar, who is its head, and
+
+(b) the staff appointed by him;
+
+and references in this Act to a member of the land registry are to be read accordingly.
+
+(3) The [[^F31]Secretary of State] shall appoint a person to be the Chief Land Registrar.
+
+(4) Schedule 7 (which makes further provision about the land registry) has effect.
+
+#### 100 Conduct of business
+
+(1) Any function of the registrar may be carried out by any member of the land registry who is authorised for the purpose by the registrar.
+
+(2) The [[^F32]Secretary of State] may by regulations make provision about the carrying out of functions during any vacancy in the office of registrar.
+
+[[^F33](2A) Subsections (1) and (2) apply to all functions of the registrar, whether or not conferred by this Act.]
+
+(3) The [[^F34]Secretary of State] may by order designate a particular office of the land registry as the proper office for the receipt of applications or a specified description of application.
+
+(4) The registrar may prepare and publish such forms and directions as he considers necessary or desirable for facilitating the conduct of the business of registration under this Act.
+
+#### 101 Annual report
+
+(1) The registrar must make an annual report on the business of the land registry to the [[^F35]Secretary of State].
+
+(2) The registrar must publish every report under this section and may do so in such manner as he thinks fit.
+
+(3) The [[^F36]Secretary of State] must lay copies of every report under this section before Parliament.
+
+### Fees and indemnities
+
+#### 102 Fee orders
+
+The [[^F37]Secretary of State] may with the advice and assistance of the body referred to in section 127(2) (the Rule Committee), and the consent of the Treasury, by order—
+
+(a) prescribe fees to be paid in respect of dealings with the land registry, except under section 69(3)(b) or 105;
+
+(b) make provision about the payment of prescribed fees.
+
+#### 103 Indemnities
+
+Schedule 8 (which makes provision for the payment of indemnities by the registrar) has effect.
+
+### Miscellaneous
+
+#### 104 General information about land
+
+The registrar may publish information about land in England and Wales if it appears to him to be information in which there is legitimate public interest.
+
+#### 105 [[^F38]Services relating to land or other property]
+
+(1) The registrar may provide, or arrange for the provision of[[^F39]—
+
+(a) consultancy or advisory services about land or other property in England and Wales or elsewhere,
+
+(b) information services about land or other property in England and Wales, or
+
+(c) services relating to documents or registers which relate to land or other property in England and Wales.]
+
+(2) The terms on which services are provided under this section by the registrar, in particular terms as to payment, shall be such as he thinks fit.
+
+#### 106 Incidental powers: companies
+
+(1) If the registrar considers it expedient to do so in connection with his functions under section 69(3)(a), 92(1), 94 or 105(1) or paragraph 10 of Schedule 5, [[^F40]or under the Local Land Charges Act 1975,]he may—
+
+(a) form, or participate in the formation of, a company, or
+
+(b) purchase, or invest in, a company.
+
+(2) In this section—
+
+- “company” means a company [[^F41]as defined in section 1(1) of the Companies Act 2006];
+- “invest” means invest in any way (whether by acquiring assets, securities or rights or otherwise).
+
+(3) This section is without prejudice to any powers of the registrar exercisable otherwise than by virtue of this section.
+
+## Part 11 — Adjudication
+
+### [^F42]107 The adjudicator
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 108 Jurisdiction
+
+(1) The [[^F43]First-tier Tribunal] has the following functions—
+
+(a) determining matters referred to [[^F44]it] under section 73(7), and
+
+(b) determining appeals under paragraph 4 of Schedule 5.
+
+(2) Also, the [[^F45]First-tier Tribunal] may, on application, make any order which the High Court could make for the rectification or setting aside of a document which—
+
+(a) effects a qualifying disposition of a registered estate or charge,
+
+(b) is a contract to make such a disposition, or
+
+(c) effects a transfer of an interest which is the subject of a notice in the register.
+
+(3) For the purposes of subsection (2)(a), a qualifying disposition is—
+
+(a) a registrable disposition, or
+
+(b) a disposition which creates an interest which may be the subject of a notice in the register.
+
+(4) The general law about the effect of an order of the High Court for the rectification or setting aside of a document shall apply to an order under this section.
+
+[[^F46](5) The Lord Chancellor may require the registrar to make payments towards expenses of the Lord Chancellor in support of the functions conferred on the First-tier Tribunal by this section.]
+
+### [^F47]109 Procedure
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 110 Functions in relation to disputes
+
+(1) In proceedings on a reference under section 73(7), the [[^F48]First-tier Tribunal] may, instead of deciding a matter [^F49]..., direct a party to the proceedings to commence proceedings within a specified time in the court for the purpose of obtaining the court’s decision on the matter.
+
+(2) [[^F50]Tribunal Procedure Rules] may make provision about the reference under subsection (1) of matters to the court and may, in particular, make provision about—
+
+(a) adjournment of the proceedings before the [[^F51]First-tier Tribunal] pending the outcome of the proceedings before the court, and
+
+(b) the powers of the [[^F52]First-tier Tribunal] in the event of failure to comply with a direction under subsection (1).
+
+(3) [[^F53]Tribunal Procedure Rules] may make provision about the functions of the [[^F54]First-tier Tribunal] in consequence of a decision on a reference under section 73(7) and may, in particular, make provision enabling the [[^F54]First-tier Tribunal] to determine, or give directions about the determination of—
+
+(a) the application to which the reference relates, or
+
+(b) such other present or future application to the registrar as [[^F55]Tribunal Procedure Rules] may provide.
+
+(4) If, in the case of a reference under section 73(7) relating to an application under paragraph 1 of Schedule 6, the [[^F56]First-tier Tribunal] determines that it would be unconscionable because of an equity by estoppel for the registered proprietor to seek to dispossess the applicant, but that the circumstances are not such that the applicant ought to be registered as proprietor, the [[^F56]First-tier Tribunal]—
+
+(a) must determine how the equity due to the applicant is to be satisfied, and
+
+(b) may for that purpose make any order that the High Court could make in the exercise of its equitable jurisdiction.
+
+### 111 Appeals
+
+[[^F57](1) Subject to this section, a person aggrieved by a decision of the First-tier Tribunal under this Act may appeal to the Upper Tribunal.
+
+(2) An appeal may not be brought under subsection (1) on a point of law (as to which see instead section 11 of the Tribunals, Courts and Enforcement Act 2007 (right of appeal to Upper Tribunal)).
+
+(2A) An appeal may not be brought under subsection (1) in the case of a decision under paragraph 4 of Schedule 5 (but this does not prevent an appeal on a point of law under section 11 of the Tribunals, Courts and Enforcement Act 2007).
+
+(2B) An appeal may not be brought under subsection (1) if the decision is set aside under section 9 of the Tribunals, Courts and Enforcement Act 2007 (review of decision of First-tier Tribunal).
+
+(2C) An appeal may be brought under subsection (1) only if, on an application made by the person concerned, the First-tier Tribunal or Upper Tribunal has given its permission for the appeal to be brought.]
+
+(3) If on an appeal under this section [[^F58]or under section 11 of the Tribunals, Courts and Enforcement Act 2007] relating to an application under paragraph 1 of Schedule 6 the [[^F59]Upper Tribunal] determines that it would be unconscionable because of an equity by estoppel for the registered proprietor to seek to dispossess the applicant, but that the circumstances are not such that the applicant ought to be registered as proprietor, the [[^F59]Upper Tribunal] must determine how the equity due to the applicant is to be satisfied.
+
+[[^F60](4) In any case where the Upper Tribunal is determining an appeal under subsection (1), section 12(2) to (4) of the Tribunals, Courts and Enforcement Act 2007 (proceedings on appeal to the Upper Tribunal) apply.]
+
+### 112 Enforcement of orders etc
+
+A requirement of the [[^F61]First-tier Tribunal] shall be enforceable as an order of the court.
+
+### [^F62]113 Fees
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F63]114 Supplementary
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Part 12 — Miscellaneous and general
+
+### Miscellaneous
+
+#### 115 Rights of pre-emption
+
+(1) A right of pre-emption in relation to registered land has effect from the time of creation as an interest capable of binding successors in title (subject to the rules about the effect of dispositions on priority).
+
+(2) This section has effect in relation to rights of pre-emption created on or after the day on which this section comes into force.
+
+#### 116 Proprietary estoppel and mere equities
+
+It is hereby declared for the avoidance of doubt that, in relation to registered land, each of the following—
+
+(a) an equity by estoppel, and
+
+(b) a mere equity,
+
+has effect from the time the equity arises as an interest capable of binding successors in title (subject to the rules about the effect of dispositions on priority).
+
+#### 117 Reduction in unregistered interests with automatic protection
+
+(1) Paragraphs 10 to 14 of Schedules 1 and 3 shall cease to have effect at the end of the period of ten years beginning with the day on which those Schedules come into force.
+
+(2) If made before the end of the period mentioned in subsection (1), no fee may be charged for—
+
+(a) an application to lodge a caution against first registration by virtue of an interest falling within any of paragraphs 10 to 14 of Schedule 1, or
+
+(b) an application for the entry in the register of a notice in respect of an interest falling within any of paragraphs 10 to 14 of Schedule 3.
+
+#### 118 Power to reduce qualifying term
+
+(1) The [[^F64]Secretary of State] may by order substitute for the term specified in any of the following provisions—
+
+(a) section 3(3),
+
+(b) section 4(1)(c)(i) and (2)(b),
+
+(c) section 15(3)(a)(ii),
+
+(d) section 27(2)(b)(i),
+
+(e) section 80(1)(b)(i),
+
+(f) paragraph 1 of Schedule 1,
+
+(g) paragraphs 4(1), 5(1) and 6(1) of Schedule 2, and
+
+(h) paragraph 1 of Schedule 3,
+
+such shorter term as he thinks fit.
+
+(2) An order under this section may contain such transitional provision as the [[^F64]Secretary of State] thinks fit.
+
+(3) Before making an order under this section, the [[^F64]Secretary of State] must consult such persons as he considers appropriate.
+
+#### 119 Power to deregister manors
+
+On the application of the proprietor of a registered manor, the registrar may remove the title to the manor from the register.
+
+#### 120 Conclusiveness of filed copies etc
+
+(1) This section applies where—
+
+(a) a disposition relates to land to which a registered estate relates, and
+
+(b) an entry in the register relating to the registered estate refers to a document kept by the registrar which is not an original.
+
+(2) As between the parties to the disposition, the document kept by the registrar is to be taken—
+
+(a) to be correct, and
+
+(b) to contain all the material parts of the original document.
+
+(3) No party to the disposition may require production of the original document.
+
+(4) No party to the disposition is to be affected by any provision of the original document which is not contained in the document kept by the registrar.
+
+#### 121 [[^F65]Forwarding of applications to registrar of companies
+
+(1) The [[^F66]Secretary of State] may by rules make provision about the transmission by the registrar to the registrar of companies of applications under—
+
+(a) Part 25 of the Companies Act 2006 (registration of charges over property of companies registered in the United Kingdom), or
+
+(b) regulations under section 1052 of that Act (registration of charges over property in the United Kingdom of overseas companies).
+
+(2) In subsection (1) “ the registrar of companies ” has the same meaning as in the Companies Acts (see section 1060 of the Companies Act 2006). ]
+
+#### 122 Repeal of Land Registry Act 1862
+
+(1) The Land Registry Act 1862 (c. 53) shall cease to have effect.
+
+(2) The registrar shall have custody of records of title made under that Act.
+
+(3) The registrar may discharge his duty under subsection (2) by keeping the relevant information in electronic form.
+
+(4) The registrar may on application provide a copy of any information included in a record of title made under that Act.
+
+(5) Rules may make provision about applications for the exercise of the power conferred by subsection (4).
+
+### Offences etc.
+
+#### 123 Suppression of information
+
+(1) A person commits an offence if in the course of proceedings relating to registration under this Act he suppresses information with the intention of—
+
+(a) concealing a person’s right or claim, or
+
+(b) substantiating a false claim.
+
+(2) A person guilty of an offence under this section is liable—
+
+(a) on conviction on indictment, to imprisonment for a term not exceeding two years or to a fine;
+
+(b) on summary conviction, to imprisonment for a term not exceeding six months or to a fine not exceeding the statutory maximum, or to both.
+
+#### 124 Improper alteration of the registers
+
+(1) A person commits an offence if he dishonestly induces another—
+
+(a) to change the register of title or cautions register, or
+
+(b) to authorise the making of such a change.
+
+(2) A person commits an offence if he intentionally or recklessly makes an unauthorised change in the register of title or cautions register.
+
+(3) A person guilty of an offence under this section is liable—
+
+(a) on conviction on indictment, to imprisonment for a term not exceeding 2 years or to a fine;
+
+(b) on summary conviction, to imprisonment for a term not exceeding six months or to a fine not exceeding the statutory maximum, or to both.
+
+(4) In this section, references to changing the register of title include changing a document referred to in it.
+
+#### 125 Privilege against self-incrimination
+
+(1) The privilege against self-incrimination, so far as relating to offences under this Act, shall not entitle a person to refuse to answer any question or produce any document or thing in any legal proceedings other than criminal proceedings.
+
+(2) No evidence obtained under subsection (1) shall be admissible in any criminal proceedings under this Act against the person from whom it was obtained or that person’s spouse [[^F67]or civil partner] .
+
+### Land registration rules
+
+#### 126 Miscellaneous and general powers
+
+Schedule 10 (which contains miscellaneous and general land registration rule-making powers) has effect.
+
+#### 127 Exercise of powers
+
+(1) Power to make land registration rules is exercisable by the [[^F68]Secretary of State] with the advice and assistance of the Rule Committee.
+
+(2) The Rule Committee is a body consisting of—
+
+(a) a judge of the [[^F69]Business and Property Division] of the High Court nominated by the [[^F70]Lord Chief Justice, or a judicial office holder (as defined in section 109(4) of the Constitutional Reform Act 2005) nominated by him, after consulting the Lord Chancellor],
+
+(b) the registrar,
+
+(c) a person nominated by the General Council of the Bar,
+
+(d) a person nominated by the Council of the Law Society,
+
+(e) a person nominated by the Council of Mortgage Lenders,
+
+(f) a person nominated by the Council of Licensed Conveyancers,
+
+(g) a person nominated by the Royal Institution of Chartered Surveyors,
+
+(h) a person with experience in, and knowledge of, consumer affairs [[^F71]nominated by the [[^F72]Secretary of State]], and
+
+(i) any person nominated under subsection (3).
+
+(3) The [[^F73]Secretary of State] may nominate to be a member of the Rule Committee any person who appears to him to have qualifications or experience which would be of value to the committee in considering any matter with which it is concerned.
+
+### Supplementary
+
+#### 128 Rules, regulations and orders
+
+(1) Any power of the Lord Chancellor [[^F74]or the Secretary of State] to make rules, regulations or orders under this Act includes power to make different provision for different cases.
+
+(2) Any power of the Lord Chancellor [[^F75]or the Secretary of State] to make rules, regulations or orders under this Act is exercisable by statutory instrument.
+
+(3) A statutory instrument containing—
+
+(a) regulations under section 100(2), or
+
+(b) an order under section 100(3), 102 or 113,
+
+is to be laid before Parliament after being made.
+
+(4) A statutory instrument containing—
+
+(a) land registration rules,
+
+(b) rules under [[^F76]section 121, [^F77]...],
+
+[^F78]c . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(d) an order under section 5(1), 62(9), 80(4), 118(1) or 130, [[^F79], or
+
+(e) regulations under paragraph 3(3) or 5(2) of Schedule 4A.]
+
+is subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(5) Rules under section 93 or paragraph 1, 2 or 3 of Schedule 5 shall not be made unless a draft of the rules has been laid before and approved by resolution of each House of Parliament.
+
+#### 129 Crown application
+
+This Act binds the Crown.
+
+#### 130 Application to internal waters
+
+This Act applies to land covered by internal waters of the United Kingdom which are—
+
+(a) within England or Wales, or
+
+(b) adjacent to England or Wales and specified for the purposes of this section by order made by the [[^F80]Secretary of State].
+
+#### 131 “Proprietor in possession”
+
+(1) For the purposes of this Act, land is in the possession of the proprietor of a registered estate in land if it is physically in his possession, or in that of a person who is entitled to be registered as the proprietor of the registered estate.
+
+(2) In the case of the following relationships, land which is (or is treated as being) in the possession of the second-mentioned person is to be treated for the purposes of subsection (1) as in the possession of the first-mentioned person—
+
+(a) landlord and tenant;
+
+(b) mortgagor and mortgagee;
+
+(c) licensor and licensee;
+
+(d) trustee and beneficiary.
+
+(3) In subsection (1), the reference to entitlement does not include entitlement under Schedule 6.
+
+#### 132 General interpretation
+
+(1) In this Act—
+
+- [^F81]...
+
+- [[^F82] “ assured tenancy ” has the same meaning as in Part 1 of the Housing Act 1988; ]
+
+- “caution against first registration” means a caution lodged under section 15;
+
+- “cautions register” means the register kept under section 19(1);
+
+- “charge” means any mortgage, charge or lien for securing money or money’s worth;
+
+- “demesne land” means land belonging to Her Majesty in right of the Crown which is not held for an estate in fee simple absolute in possession;
+
+- [[^F82]“dwelling-house” has the same meaning as in Part 1 of the Housing Act 1988;]
+
+- [[^F82]“flexible tenancy” has the meaning given by section 107A of the Housing Act 1985;]
+
+- “land” includes—
+
+  - (a) buildings and other structures,
+  - (b) land covered with water, and
+  - (c) mines and minerals, whether or not held with the surface;
+
+- “land registration rules” means any rules under this Act, other than rules under section 93, Part 11, section 121 or paragraph 1, 2 or 3 of Schedule 5;
+
+- “legal estate” has the same meaning as in the Law of Property Act 1925 (c. 20);
+
+- “legal mortgage” has the same meaning as in the Law of Property Act 1925;
+
+- [[^F82] “long tenancy ” means a tenancy granted for a term certain of more than 21 years, whether or not it is (or may become) terminable before the end of that term by notice given by the tenant or by re-entry or forfeiture; ]
+
+- “mines and minerals” includes any strata or seam of minerals or substances in or under any land, and powers of working and getting any such minerals or substances;
+
+- “registrar” means the Chief Land Registrar;
+
+- “register” means the register of title, except in the context of cautions against first registration;
+
+- “registered” means entered in the register;
+
+- “registered charge” means a charge the title to which is entered in the register;
+
+- “registered estate” means a legal estate the title to which is entered in the register, other than a registered charge;
+
+- “registered land” means a registered estate or registered charge;
+
+- “registrable disposition” means a disposition which is required to be completed by registration under section 27;
+
+- [[^F82] “relevant social housing tenancy ” means—
+
+  (a) a flexible tenancy, or
+
+  (b) an assured tenancy of a dwelling-house in England granted by a private registered provider of social housing, other than a long tenancy or a shared ownership lease;]
+
+- “requirement of registration” means the requirement of registration under section 4;
+
+- [[^F82]“ shared ownership lease ” means a lease of a dwelling-house—
+
+  (a) granted on payment of a premium calculated by reference to a percentage of the value of the dwelling-house or of the cost of providing it, or
+
+  (b) under which the lessee (or the lessee's personal representatives) will or may be entitled to a sum calculated by reference, directly or indirectly, to the value of the dwelling-house;]
+
+- “sub-charge” means a charge under section 23(2)(b);
+
+- “term of years absolute” has the same meaning as in the Law of Property Act 1925 (c. 20);
+
+- “valuable consideration” does not include marriage consideration or a nominal consideration in money.
+
+(2) In subsection (1), in the definition of “demesne land”, the reference to land belonging to Her Majesty does not include land in relation to which a freehold estate in land has determined, but in relation to which there has been no act of entry or management by the Crown.
+
+(3) In this Act—
+
+(a) references to the court are to the High Court or [[^F83]the county court],
+
+(b) references to an interest affecting an estate or charge are to an adverse right affecting the title to the estate or charge, and
+
+(c) references to the right to object to an application to the registrar are to the right under section 73.
+
+### Final provisions
+
+#### 133 Minor and consequential amendments
+
+Schedule 11 (which makes minor and consequential amendments) has effect.
+
+#### 134 Transition
+
+(1) The [[^F84]Secretary of State] may by order make such transitional provisions and savings as he thinks fit in connection with the coming into force of any of the provisions of this Act.
+
+(2) Schedule 12 (which makes transitional provisions and savings) has effect.
+
+(3) Nothing in Schedule 12 affects the power to make transitional provisions and savings under subsection (1); and an order under that subsection may modify any provision made by that Schedule.
+
+#### 135 Repeals
+
+The enactments specified in Schedule 13 (which include certain provisions which are already spent) are hereby repealed to the extent specified there.
+
+#### 136 Short title, commencement and extent
+
+(1) This Act may be cited as the Land Registration Act 2002.
+
+(2) This Act shall come into force on such day as the Lord Chancellor may by order appoint, and different days may be so appointed for different purposes.
+
+(3) Subject to subsection (4), this Act extends to England and Wales only.
+
+(4) Any amendment or repeal by this Act of an existing enactment, other than—
+
+(a) section 37 of the Requisitioned Land and War Works Act 1945 (c. 43), and
+
+(b) Schedule 2A to the Building Societies Act 1986 (c. 53),
+
+has the same extent as the enactment amended or repealed.
+
+## SCHEDULE 1 — Unregistered interests which override first registration
+
+*Sections 11 and 12*
+
+### Leasehold estates in land
+
+**1** A leasehold estate in land granted for a term not exceeding seven years from the date of the grant, except for a lease the grant of which falls within section 4(1) (d), (e) or (f).
+
+### [[^F85]Relevant social housing tenancies
+
+**1A** A leasehold estate in land under a relevant social housing tenancy.]
+
+### Interests of persons in actual occupation
+
+**2** An interest belonging to a person in actual occupation, so far as relating to land of which he is in actual occupation, except for an interest under a settlement under the Settled Land Act 1925 (c. 18).
+
+### Easements and profits a prendre
+
+**3** A legal easement or profit a prendre.
+
+### Customary and public rights
+
+**4** A customary right.
+
+**5** A public right.
+
+### Local land charges
+
+**6** A local land charge.
+
+### Mines and minerals
+
+**7** An interest in any coal or coal mine, the rights attached to any such interest and the rights of any person under section 38, 49 or 51 of the Coal Industry Act 1994 (c. 21).
+
+**8** In the case of land to which title was registered before 1898, rights to mines and minerals (and incidental rights) created before 1898.
+
+**9** In the case of land to which title was registered between 1898 and 1925 inclusive, rights to mines and minerals (and incidental rights) created before the date of registration of the title.
+
+### [[^F86] Miscellaneous
+
+**10** A franchise.
+
+**[[^F87]11** A manorial right.]
+
+**[[^F88]12** A right to rent which was reserved to the Crown on the granting of any freehold estate (whether or not the right is still vested in the Crown).]
+
+**[[^F89]13** A non-statutory right in respect of an embankment or sea or river wall.]
+
+**[[^F90]14** A right to payment in lieu of tithe.
+
+**[[^F91]16** A right in respect of the repair of a church chancel.]]]
+
+## SCHEDULE 2 — Registrable dispositions: registration requirements
+
+*Section 27*
+
+### Part 1 — Registered estates
+
+#### Introductory
+
+**1** This Part deals with the registration requirements relating to those dispositions of registered estates which are required to be completed by registration.
+
+#### Transfer
+
+**2** (1) In the case of a transfer of whole or part, the transferee, or his successor in title, must be entered in the register as the proprietor.
+
+(2) In the case of a transfer of part, such details of the transfer as rules may provide must be entered in the register in relation to the registered estate out of which the transfer is made.
+
+#### Lease of estate in land
+
+**3** (1) This paragraph applies to a disposition consisting of the grant out of an estate in land of a term of years absolute.
+
+(2) In the case of a disposition to which this paragraph applies—
+
+(a) the grantee, or his successor in title, must be entered in the register as the proprietor of the lease, and
+
+(b) a notice in respect of the lease must be entered in the register.
+
+#### Lease of franchise or manor
+
+**4** (1) This paragraph applies to a disposition consisting of the grant out of a franchise or manor of a lease for a term of more than seven years from the date of the grant.
+
+(2) In the case of a disposition to which this paragraph applies—
+
+(a) the grantee, or his successor in title, must be entered in the register as the proprietor of the lease, and
+
+(b) a notice in respect of the lease must be entered in the register.
+
+**5** (1) This paragraph applies to a disposition consisting of the grant out of a franchise or manor of a lease for a term not exceeding seven years from the date of the grant.
+
+(2) In the case of a disposition to which this paragraph applies, a notice in respect of the lease must be entered in the register.
+
+#### Creation of independently registrable legal interest
+
+**6** (1) This paragraph applies to a disposition consisting of the creation of a legal rentcharge or profit a prendre in gross, other than one created for, or for an interest equivalent to, a term of years absolute not exceeding seven years from the date of creation.
+
+(2) In the case of a disposition to which this paragraph applies—
+
+(a) the grantee, or his successor in title, must be entered in the register as the proprietor of the interest created, and
+
+(b) a notice in respect of the interest created must be entered in the register.
+
+(3) In sub-paragraph (1), the reference to a legal rentcharge or profit a prendre in gross is to one falling within section 1(2) of the Law of Property Act 1925 (c. 20).
+
+#### Creation of other legal interest
+
+**7** (1) This paragraph applies to a disposition which—
+
+(a) consists of the creation of an interest of a kind falling within section 1(2)(a), (b) or (e) of the Law of Property Act 1925, and
+
+(b) is not a disposition to which paragraph 4, 5 or 6 applies.
+
+(2) In the case of a disposition to which this paragraph applies—
+
+(a) a notice in respect of the interest created must be entered in the register, and
+
+(b) if the interest is created for the benefit of a registered estate, the proprietor of the registered estate must be entered in the register as its proprietor.
+
+(3) Rules may provide for sub-paragraph (2) to have effect with modifications in relation to a right of entry over or in respect of a term of years absolute.
+
+#### Creation of legal charge
+
+**8** In the case of the creation of a charge, the chargee, or his successor in title, must be entered in the register as the proprietor of the charge.
+
+### Part 2 — Registered charges
+
+#### Introductory
+
+**9** This Part deals with the registration requirements relating to those dispositions of registered charges which are required to be completed by registration.
+
+#### Transfer
+
+**10** In the case of a transfer, the transferee, or his successor in title, must be entered in the register as the proprietor.
+
+#### Creation of sub-charge
+
+**11** In the case of the creation of a sub-charge, the sub-chargee, or his successor in title, must be entered in the register as the proprietor of the sub-charge.
+
+## SCHEDULE 3 — Unregistered interests which override registered dispositions
+
+*Sections 29 and 30*
+
+### Leasehold estates in land
+
+**1** A leasehold estate in land granted for a term not exceeding seven years from the date of the grant, except for—
+
+(a) a lease the grant of which falls within section 4(1)(d), (e) or (f);
+
+(b) a lease the grant of which constitutes a registrable disposition.
+
+### [[^F92]Relevant social housing tenancies
+
+**1A** A leasehold estate in land under a relevant social housing tenancy.]
+
+### Interests of persons in actual occupation
+
+**2** An interest belonging at the time of the disposition to a person in actual occupation, so far as relating to land of which he is in actual occupation, except for—
+
+(a) an interest under a settlement under the Settled Land Act 1925 (c. 18);
+
+(b) an interest of a person of whom inquiry was made before the disposition and who failed to disclose the right when he could reasonably have been expected to do so;
+
+(c) an interest—
+
+(i) which belongs to a person whose occupation would not have been obvious on a reasonably careful inspection of the land at the time of the disposition, and
+
+(ii) of which the person to whom the disposition is made does not have actual knowledge at that time;
+
+(d) a leasehold estate in land granted to take effect in possession after the end of the period of three months beginning with the date of the grant and which has not taken effect in possession at the time of the disposition.
+
+### Easements and profits a prendre
+
+**3** [^F93]1 A legal easement or profit a prendre, except for an easement, or a profit a prendre which is not registered under [[^F93]Part 1 of the Commons Act 2006], which at the time of the disposition—
+
+(a) is not within the actual knowledge of the person to whom the disposition is made, and
+
+(b) would not have been obvious on a reasonably careful inspection of the land over which the easement or profit is exercisable.
+
+(2) The exception in sub-paragraph (1) does not apply if the person entitled to the easement or profit proves that it has been exercised in the period of one year ending with the day of the disposition.
+
+### Customary and public rights
+
+**4** A customary right.
+
+**5** A public right.
+
+### Local land charges
+
+**6** A local land charge.
+
+### Mines and minerals
+
+**7** An interest in any coal or coal mine, the rights attached to any such interest and the rights of any person under section 38, 49 or 51 of the Coal Industry Act 1994 (c. 21).
+
+**8** In the case of land to which title was registered before 1898, rights to mines and minerals (and incidental rights) created before 1898.
+
+**9** In the case of land to which title was registered between 1898 and 1925 inclusive, rights to mines and minerals (and incidental rights) created before the date of registration of the title.
+
+### [[^F94] Miscellaneous
+
+**10** A franchise.
+
+**[[^F95]11** A manorial right.]
+
+**[[^F96]12** A right to rent which was reserved to the Crown on the granting of any freehold estate (whether or not the right is still vested in the Crown).]
+
+**[[^F97]13** A non-statutory right in respect of an embankment or sea or river wall.]
+
+**[[^F98]14** A right to payment in lieu of tithe.
+
+**[[^F99]16** A right in respect of the repair of a church chancel.]]]
+
+## SCHEDULE 4 — Alteration of the register
+
+*Section 65*
+
+### Introductory
+
+**1** In this Schedule, references to rectification, in relation to alteration of the register, are to alteration which—
+
+(a) involves the correction of a mistake, and
+
+(b) prejudicially affects the title of a registered proprietor.
+
+### Alteration pursuant to a court order
+
+**2** (1) The court may make an order for alteration of the register for the purpose of—
+
+(a) correcting a mistake,
+
+(b) bringing the register up to date, or
+
+(c) giving effect to any estate, right or interest excepted from the effect of registration.
+
+(2) An order under this paragraph has effect when served on the registrar to impose a duty on him to give effect to it.
+
+**3** (1) This paragraph applies to the power under paragraph 2, so far as relating to rectification.
+
+(2) If alteration affects the title of the proprietor of a registered estate in land, no order may be made under paragraph 2 without the proprietor’s consent in relation to land in his possession unless—
+
+(a) he has by fraud or lack of proper care caused or substantially contributed to the mistake, or
+
+(b) it would for any other reason be unjust for the alteration not to be made.
+
+(3) If in any proceedings the court has power to make an order under paragraph 2, it must do so, unless there are exceptional circumstances which justify its not doing so.
+
+(4) In sub-paragraph (2), the reference to the title of the proprietor of a registered estate in land includes his title to any registered estate which subsists for the benefit of the estate in land.
+
+**4** Rules may—
+
+(a) make provision about the circumstances in which there is a duty to exercise the power under paragraph 2, so far as not relating to rectification;
+
+(b) make provision about the form of an order under paragraph 2;
+
+(c) make provision about service of such an order.
+
+### Alteration otherwise than pursuant to a court order
+
+**5** The registrar may alter the register for the purpose of—
+
+(a) correcting a mistake,
+
+(b) bringing the register up to date,
+
+(c) giving effect to any estate, right or interest excepted from the effect of registration, or
+
+(d) removing a superfluous entry.
+
+**6** (1) This paragraph applies to the power under paragraph 5, so far as relating to rectification.
+
+(2) No alteration affecting the title of the proprietor of a registered estate in land may be made under paragraph 5 without the proprietor’s consent in relation to land in his possession unless—
+
+(a) he has by fraud or lack of proper care caused or substantially contributed to the mistake, or
+
+(b) it would for any other reason be unjust for the alteration not to be made.
+
+(3) If on an application for alteration under paragraph 5 the registrar has power to make the alteration, the application must be approved, unless there are exceptional circumstances which justify not making the alteration.
+
+(4) In sub-paragraph (2), the reference to the title of the proprietor of a registered estate in land includes his title to any registered estate which subsists for the benefit of the estate in land.
+
+**7** Rules may—
+
+(a) make provision about the circumstances in which there is a duty to exercise the power under paragraph 5, so far as not relating to rectification;
+
+(b) make provision about how the register is to be altered in exercise of that power;
+
+(c) make provision about applications for alteration under that paragraph, including provision requiring the making of such applications;
+
+(d) make provision about procedure in relation to the exercise of that power, whether on application or otherwise.
+
+### Rectification and derivative interests
+
+**8** The powers under this Schedule to alter the register, so far as relating to rectification, extend to changing for the future the priority of any interest affecting the registered estate or charge concerned.
+
+### Costs in non-rectification cases
+
+**9** (1) If the register is altered under this Schedule in a case not involving rectification, the registrar may pay such amount as he thinks fit in respect of any costs or expenses reasonably incurred by a person in connection with the alteration which have been incurred with the consent of the registrar.
+
+(2) The registrar may make a payment under sub-paragraph (1) notwithstanding the absence of consent if—
+
+(a) it appears to him—
+
+(i) that the costs or expenses had to be incurred urgently, and
+
+(ii) that it was not reasonably practicable to apply for his consent, or
+
+(b) he has subsequently approved the incurring of the costs or expenses.
+
+## [[^F100]SCHEDULE 4A — Overseas entities
+
+*Section 85A*
+
+### Meaning of “qualifying estate”
+
+**1** In this Schedule “qualifying estate” means—
+
+(a) a freehold estate in land, or
+
+(b) a leasehold estate in land granted for a term of more than seven years from the date of grant.
+
+### Registration
+
+**2** No application may be made to register an overseas entity as the proprietor of a qualifying estate unless, at the time of the application, the entity—
+
+(a) is a registered overseas entity, or
+
+(b) is an exempt overseas entity.
+
+### Restrictions on disposal
+
+**3** (1) The registrar must enter a restriction in the register in relation to a qualifying estate if satisfied that—
+
+(a) an overseas entity is registered as the proprietor of the estate, and
+
+(b) the entity became registered as the proprietor in pursuance of an application made on or after 1 January 1999.
+
+(2) The restriction must prohibit the registration of any disposition within section 27(2)(a), (b)(i) or (f) unless—
+
+(a) the entity is a registered overseas entity, or is an exempt overseas entity, at the time of the disposition,
+
+(b) the disposition is made in pursuance of a statutory obligation or court order, or occurs by operation of law,
+
+(c) the disposition is made in pursuance of a contract made before the restriction is entered in the register,
+
+(d) the disposition is made in the exercise of a power of sale or leasing conferred on the proprietor of a registered charge or a receiver appointed by such a proprietor,
+
+(e) the Secretary of State gives consent under paragraph 5 to the registration of the disposition, or
+
+(f) the disposition is made by a specified insolvency practitioner in specified circumstances.
+
+(3) In sub-paragraph (2), in paragraph (f)—
+
+- “specified circumstances” means circumstances specified in regulations made by the Secretary of State for the purposes of that paragraph;
+- “specified insolvency practitioner” means an insolvency practitioner of a description specified in regulations made by the Secretary of State for the purposes of that paragraph.
+
+### Registrable dispositions by overseas entity entitled to be registered (but not registered)
+
+**4** (1) This paragraph applies where—
+
+(a) an overseas entity is entitled to be registered as the proprietor of a qualifying estate,
+
+(b) the overseas entity became entitled to be registered as the proprietor of that estate on or after the day on which this paragraph comes into force, and
+
+(c) the entity makes a registrable disposition within section 27(2)(a), (b)(i) or (f).
+
+(2) The disposition must not be registered unless—
+
+(a) the entity is a registered overseas entity, or is an exempt overseas entity, at the time of the disposition,
+
+(b) the disposition is made in pursuance of a statutory obligation or court order, or occurs by operation of law,
+
+(c) the disposition is made in pursuance of a contract made before the overseas entity became entitled to be registered,
+
+(d) the disposition is made in the exercise of a power of sale or leasing conferred on the proprietor of a registered charge or a receiver appointed by such a proprietor,
+
+(e) the Secretary of State gives consent under paragraph 5 to the registration of the disposition, or
+
+(f) the disposition is made by a specified insolvency practitioner in specified circumstances.
+
+(3) In sub-paragraph (2)(f) “specified circumstances” and “specified insolvency practitioner” have the meanings given by paragraph 3(3).
+
+### Consent to registration of dispositions that cannot otherwise be registered
+
+**5** (1) The Secretary of State may consent to the registration of a disposition that would otherwise be prohibited by a restriction entered under paragraph 3, or by paragraph 4, if satisfied—
+
+(a) that at the time of the disposition the person to whom it was made did not know, and could not reasonably have been expected to know, of the prohibition, and
+
+(b) that in all the circumstances it would be unjust for the disposition not to be registered.
+
+(2) The Secretary of State may by regulations make provision in connection with applications for consent, and the giving of consent, under sub-paragraph (1).
+
+(3) The regulations may, for example, make provision about—
+
+(a) who may apply;
+
+(b) evidence;
+
+(c) time limits.
+
+### Making dispositions that cannot be registered
+
+**6** (1) An overseas entity must not make a registrable disposition of a qualifying estate if, disregarding the possibility of consent under paragraph 5, the registration of the disposition is prohibited by—
+
+(a) a restriction entered under paragraph 3, or
+
+(b) paragraph 4.
+
+(2) If an overseas entity breaches sub-paragraph (1) an offence is committed by—
+
+(a) the entity, and
+
+(b) every officer of the entity who is in default.
+
+(3) Nothing in this paragraph affects the validity of a disposition made in breach of sub-paragraph (1).
+
+(4) Sections 1121 to 1123 of the Companies Act 2006 (liability of officers in default: interpretation etc.) apply for the purposes of this paragraph as they apply for the purposes of provisions of the Companies Acts.
+
+(5) In those sections as applied, a reference to an officer includes a person in accordance with whose directions or instructions the board of directors or equivalent management body of an overseas entity are accustomed to act.
+
+(6) A person is not to be regarded as falling within sub-paragraph (5) by reason only that the board of directors or equivalent management body acts on advice given by the person in a professional capacity.
+
+(7) A person guilty of an offence under this paragraph is liable—
+
+(a) on summary conviction, to imprisonment for a term not exceeding the maximum summary term for either-way offences or a fine (or both);
+
+(b) on conviction on indictment, to imprisonment for a term not exceeding 5 years or a fine (or both).
+
+(8) In sub-paragraph (7)(a) “the maximum summary term for either-way offences” means—
+
+(a) in relation to an offence committed before the time when paragraph 24(2) of Schedule 22 to the Sentencing Act 2020 comes into force, 6 months;
+
+(b) in relation to an offence committed after that time, 12 months.
+
+(9) Proceedings for an offence under this may only be brought by or with the consent the Secretary of State or the Director of Public Prosecutions.
+
+### Interpretation etc.
+
+**7** In this Schedule—
+
+- “exempt overseas entity” means an overseas entity of a description specified in regulations under section 34(6) of the Economic Crime (Transparency and Enforcement) Act 2022;
+- “overseas entity” has the meaning given by section 2 of the Economic Crime (Transparency and Enforcement) Act 2022;
+- “qualifying estate” has the meaning given by paragraph 1;
+- “register of overseas entities” means the register kept under section 3 of the Economic Crime (Transparency and Enforcement) Act 2022;
+- “registered overseas entity” means an overseas entity that is registered in the register of overseas entities (but see paragraph 8).
+
+**[[^F101]8** (1) For the purpose of this Schedule, an overseas entity that has failed to comply with any of the following duties is not to be treated as being a “registered overseas entity” until it remedies the failure.
+
+(2) The duties are—
+
+(a) the duty to deliver to the registrar of companies the documents required by section 7 of the Economic Crime (Transparency and Enforcement) Act 2022 (updating duty);
+
+(b) the duty to provide information to the registrar of companies in accordance with a notice under section 1092A of the Companies Act 2006 (power of registrar to require information).
+
+(3) For the purposes of this paragraph the failure is remedied when the documents are delivered, or the information is provided, to the registrar of companies.]]
+
+## SCHEDULE 5 — Land registry network
+
+*Section 92*
+
+### Access to network
+
+**1** (1) A person who is not a member of the land registry may only have access to a land registry network under authority conferred by means of an agreement with the registrar.
+
+(2) An agreement for the purposes of sub-paragraph (1) (“network access agreement”) may authorise access for—
+
+(a) the communication, posting or retrieval of information,
+
+(b) the making of changes to the register of title or cautions register,
+
+(c) the issue of official search certificates,
+
+(d) the issue of official copies, or
+
+(e) such other conveyancing purposes as the registrar thinks fit.
+
+(3) Rules may regulate the use of network access agreements to confer authority to carry out functions of the registrar.
+
+(4) The registrar must, on application, enter into a network access agreement with the applicant if the applicant meets such criteria as rules may provide.
+
+### Terms of access
+
+**2** (1) The terms on which access to a land registry network is authorised shall be such as the registrar thinks fit, subject to sub-paragraphs (3) and (4), and may, in particular, include charges for access.
+
+(2) The power under sub-paragraph (1) may be used, not only for the purpose of regulating the use of the network, but also for—
+
+(a) securing that the person granted access uses the network to carry on such qualifying transactions as may be specified in, or under, the agreement,
+
+(b) such other purpose relating to the carrying on of qualifying transactions as rules may provide, or
+
+(c) enabling network transactions to be monitored.
+
+(3) It shall be a condition of a network access agreement which enables the person granted access to use the network to carry on qualifying transactions that he must comply with any rules for the time being in force under paragraph 5.
+
+(4) Rules may regulate the terms on which access to a land registry network is authorised.
+
+### Termination of access
+
+**3** (1) The person granted access by a network access agreement may terminate the agreement at any time by notice to the registrar.
+
+(2) Rules may make provision about the termination of a network access agreement by the registrar and may, in particular, make provision about—
+
+(a) the grounds of termination,
+
+(b) the procedure to be followed in relation to termination, and
+
+(c) the suspension of termination pending appeal.
+
+(3) Without prejudice to the generality of sub-paragraph (2)(a), rules under that provision may authorise the registrar to terminate a network access agreement if the person granted access—
+
+(a) fails to comply with the terms of the agreement,
+
+(b) ceases to be a person with whom the registrar would be required to enter into a network access agreement conferring the authority which the agreement confers, or
+
+(c) does not meet such conditions as the rules may provide.
+
+### Appeals
+
+**4** (1) A person who is aggrieved by a decision of the registrar with respect to entry into, or termination of, a network access agreement may appeal against the decision to the [[^F102]First-tier Tribunal].
+
+(2) On determining an appeal under this paragraph, the [[^F103]First-tier Tribunal] may give such directions as [[^F104]the tribunal] considers appropriate to give effect to [[^F105]its] determination.
+
+[^F106]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Network transaction rules
+
+**5** (1) Rules may make provision about how to go about network transactions.
+
+(2) Rules under sub-paragraph (1) may, in particular, make provision about dealings with the land registry, including provision about—
+
+(a) the procedure to be followed, and
+
+(b) the supply of information (including information about unregistered interests).
+
+### Overriding nature of network access obligations
+
+**6** To the extent that an obligation not owed under a network access agreement conflicts with an obligation owed under such an agreement by the person granted access, the obligation not owed under the agreement is discharged.
+
+### Do-it-yourself conveyancing
+
+**7** (1) If there is a land registry network, the registrar has a duty to provide such assistance as he thinks appropriate for the purpose of enabling persons engaged in qualifying transactions who wish to do their own conveyancing to do so by means of the network.
+
+(2) The duty under sub-paragraph (1) does not extend to the provision of legal advice.
+
+### Presumption of authority
+
+**8** Where—
+
+(a) a person who is authorised under a network access agreement to do so uses the network for the making of a disposition or contract, and
+
+(b) the document which purports to effect the disposition or to be the contract—
+
+(i) purports to be authenticated by him as agent, and
+
+(ii) contains a statement to the effect that he is acting under the authority of his principal,
+
+he shall be deemed, in favour of any other party, to be so acting.
+
+### Management of network transactions
+
+**9** (1) The registrar may use monitoring information for the purpose of managing network transactions and may, in particular, disclose such information to persons authorised to use the network, and authorise the further disclosure of information so disclosed, if he considers it is necessary or desirable to do so.
+
+(2) The registrar may delegate his functions under sub-paragraph (1), subject to such conditions as he thinks fit.
+
+(3) In sub-paragraph (1), “monitoring information” means information provided in pursuance of provision in a network access agreement included under paragraph 2(2)(c).
+
+### Supplementary
+
+**10** The registrar may provide, or arrange for the provision of, education and training in relation to the use of a land registry network.
+
+**11** (1) Power to make rules under paragraph 1, 2 or 3 is exercisable by the [[^F107]Secretary of State].
+
+(2) Before making such rules, the [[^F107]Secretary of State] must consult such persons as he considers appropriate.
+
+(3) In making rules under paragraph 1 or 3(2)(a), the [[^F107]Secretary of State] must have regard, in particular, to the need to secure—
+
+(a) the confidentiality of private information kept on the network,
+
+(b) competence in relation to the use of the network (in particular for the purpose of making changes), and
+
+(c) the adequate insurance of potential liabilities in connection with use of the network.
+
+**12** In this Schedule—
+
+- “land registry network” means a network provided under section 92(1);
+
+- “network access agreement” has the meaning given by paragraph 1(2);
+
+- “network transaction” means a transaction carried on by means of a land registry network;
+
+- “qualifying transaction” means a transaction which—
+
+  - (a) involves registration, and
+  - (b) is capable of being effected electronically.
+
+## SCHEDULE 6 — Registration of adverse possessor
+
+*Section 97*
+
+### Right to apply for registration
+
+**1** (1) [^F108]... A person may apply to the registrar to be registered as the proprietor of a registered estate in land if he has been in adverse possession of the estate for the period of ten years ending on the date of the application.
+
+(2) [^F109]... A person may also apply to the registrar to be registered as the proprietor of a registered estate in land if—
+
+(a) he has in the period of six months ending on the date of the application ceased to be in adverse possession of the estate because of eviction by the registered proprietor, or a person claiming under the registered proprietor,
+
+(b) on the day before his eviction he was entitled to make an application under sub-paragraph (1), and
+
+(c) the eviction was not pursuant to a judgment for possession.
+
+(3) However, a person may not make an application under this paragraph if—
+
+(a) he is a defendant in proceedings which involve asserting a right to possession of the land, or
+
+(b) judgment for possession of the land has been given against him in the last two years.
+
+(4) For the purposes of sub-paragraph (1), the estate need not have been registered throughout the period of adverse possession.
+
+### Notification of application
+
+**2** (1) The registrar must give notice of an application under paragraph 1 to—
+
+(a) the proprietor of the estate to which the application relates,
+
+(b) the proprietor of any registered charge on the estate,
+
+(c) where the estate is leasehold, the proprietor of any superior registered estate,
+
+(d) any person who is registered in accordance with rules as a person to be notified under this paragraph, and
+
+(e) such other persons as rules may provide.
+
+(2) Notice under this paragraph shall include notice of the effect of paragraph 4.
+
+### Treatment of application
+
+**3** (1) A person given notice under paragraph 2 may require that the application to which the notice relates be dealt with under paragraph 5.
+
+(2) The right under this paragraph is exercisable by notice to the registrar given before the end of such period as rules may provide.
+
+**4** If an application under paragraph 1 is not required to be dealt with under paragraph 5, the applicant is entitled to be entered in the register as the new proprietor of the estate.
+
+**5** (1) If an application under paragraph 1 is required to be dealt with under this paragraph, the applicant is only entitled to be registered as the new proprietor of the estate if any of the following conditions is met.
+
+(2) The first condition is that—
+
+(a) it would be unconscionable because of an equity by estoppel for the registered proprietor to seek to dispossess the applicant, and
+
+(b) the circumstances are such that the applicant ought to be registered as the proprietor.
+
+(3) The second condition is that the applicant is for some other reason entitled to be registered as the proprietor of the estate.
+
+(4) The third condition is that—
+
+(a) the land to which the application relates is adjacent to land belonging to the applicant,
+
+(b) the exact line of the boundary between the two has not been determined under rules under section 60,
+
+(c) for at least ten years of the period of adverse possession ending on the date of the application, the applicant (or any predecessor in title) reasonably believed that the land to which the application relates belonged to him, and
+
+(d) the estate to which the application relates was registered more than one year prior to the date of the application.
+
+(5) In relation to an application under paragraph 1(2), this paragraph has effect as if the reference in sub-paragraph (4)(c) to the date of the application were to the day before the date of the applicant’s eviction.
+
+### Right to make further application for registration
+
+**6** (1) Where a person’s application under paragraph 1 is rejected, he may make a further application to be registered as the proprietor of the estate if he is in adverse possession of the estate from the date of the application until the last day of the period of two years beginning with the date of its rejection.
+
+[^F110]1A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) However, a person may not make an application under this paragraph if—
+
+(a) he is a defendant in proceedings which involve asserting a right to possession of the land,
+
+(b) judgment for possession of the land has been given against him in the last two years, or
+
+(c) he has been evicted from the land pursuant to a judgment for possession.
+
+**7** If a person makes an application under paragraph 6, he is entitled to be entered in the register as the new proprietor of the estate.
+
+### Restriction on applications
+
+**8** (1) No one may apply under this Schedule to be registered as the proprietor of an estate in land during, or before the end of twelve months after the end of, any period in which the existing registered proprietor is for the purposes of the Limitation (Enemies and War Prisoners) Act 1945 (8 & 9 Geo. 6 c. 16)—
+
+(a) an enemy, or
+
+(b) detained in enemy territory.
+
+(2) No-one may apply under this Schedule to be registered as the proprietor of an estate in land during any period in which the existing registered proprietor is—
+
+(a) unable because of mental disability to make decisions about issues of the kind to which such an application would give rise, or
+
+(b) unable to communicate such decisions because of mental disability or physical impairment.
+
+(3) For the purposes of sub-paragraph (2), “mental disability” means a disability or disorder of the mind or brain, whether permanent or temporary, which results in an impairment or disturbance of mental functioning.
+
+(4) Where it appears to the registrar that sub-paragraph (1) or (2) applies in relation to an estate in land, he may include a note to that effect in the register.
+
+### Effect of registration
+
+**9** (1) Where a person is registered as the proprietor of an estate in land in pursuance of an application under this Schedule, the title by virtue of adverse possession which he had at the time of the application is extinguished.
+
+(2) Subject to sub-paragraph (3), the registration of a person under this Schedule as the proprietor of an estate in land does not affect the priority of any interest affecting the estate.
+
+(3) Subject to sub-paragraph (4), where a person is registered under this Schedule as the proprietor of an estate, the estate is vested in him free of any registered charge affecting the estate immediately before his registration.
+
+(4) Sub-paragraph (3) does not apply where registration as proprietor is in pursuance of an application determined by reference to whether any of the conditions in paragraph 5 applies.
+
+### Apportionment and discharge of charges
+
+**10** (1) Where—
+
+(a) a registered estate continues to be subject to a charge notwithstanding the registration of a person under this Schedule as the proprietor, and
+
+(b) the charge affects property other than the estate,
+
+the proprietor of the estate may require the chargee to apportion the amount secured by the charge at that time between the estate and the other property on the basis of their respective values.
+
+(2) The person requiring the apportionment is entitled to a discharge of his estate from the charge on payment of—
+
+(a) the amount apportioned to the estate, and
+
+(b) the costs incurred by the chargee as a result of the apportionment.
+
+(3) On a discharge under this paragraph, the liability of the chargor to the chargee is reduced by the amount apportioned to the estate.
+
+(4) Rules may make provision about apportionment under this paragraph, in particular, provision about—
+
+(a) procedure,
+
+(b) valuation,
+
+(c) calculation of costs payable under sub-paragraph (2)(b), and
+
+(d) payment of the costs of the chargor.
+
+### Meaning of “adverse possession”
+
+**11** (1) A person is in adverse possession of an estate in land for the purposes of this Schedule if, but for section 96, a period of limitation under section 15 of the Limitation Act 1980 (c. 58) would run in his favour in relation to the estate.
+
+(2) A person is also to be regarded for those purposes as having been in adverse possession of an estate in land—
+
+(a) where he is the successor in title to an estate in the land, during any period of adverse possession by a predecessor in title to that estate, or
+
+(b) during any period of adverse possession by another person which comes between, and is continuous with, periods of adverse possession of his own.
+
+(3) In determining whether for the purposes of this paragraph a period of limitation would run under section 15 of the Limitation Act 1980, there are to be disregarded—
+
+(a) the commencement of any legal proceedings, and
+
+(b) paragraph 6 of Schedule 1 to that Act.
+
+### Trusts
+
+**12** A person is not to be regarded as being in adverse possession of an estate for the purposes of this Schedule at any time when the estate is subject to a trust, unless the interest of each of the beneficiaries in the estate is an interest in possession.
+
+### Crown foreshore
+
+**13** (1) Where—
+
+(a) a person is in adverse possession of an estate in land,
+
+(b) the estate belongs to Her Majesty in right of the Crown or the Duchy of Lancaster or to the Duchy of Cornwall, and
+
+(c) the land consists of foreshore,
+
+paragraph 1(1) is to have effect as if the reference to ten years were to sixty years.
+
+(2) For the purposes of sub-paragraph (1), land is to be treated as foreshore if it has been foreshore at any time in the previous ten years.
+
+(3) In this paragraph, “foreshore” means the shore and bed of the sea and of any tidal water, below the line of the medium high tide between the spring and neap tides.
+
+### Rentcharges
+
+**14** Rules must make provision to apply the preceding provisions of this Schedule to registered rentcharges, subject to such modifications and exceptions as the rules may provide.
+
+### Procedure
+
+**15** Rules may make provision about the procedure to be followed pursuant to an application under this Schedule.
+
+### Extension of time limits because of mediation in certain cross-border disputes
+
+**[^F111]16** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 7 — The land registry
+
+*Section 99*
+
+### Holding of office by Chief Land Registrar
+
+**1** (1) The registrar may at any time resign his office by written notice to the [[^F112]Secretary of State].
+
+(2) The [[^F112]Secretary of State] may remove the registrar from office if he is unable or unfit to discharge the functions of office.
+
+(3) Subject to the above, a person appointed to be the registrar is to hold and vacate office in accordance with the terms of his appointment and, on ceasing to hold office, is eligible for reappointment.
+
+### Remuneration etc. of Chief Land Registrar
+
+**2** (1) The [[^F113]Secretary of State] shall pay the registrar such remuneration, and such travelling and other allowances, as the [[^F113]Secretary of State] may determine.
+
+(2) The [[^F113]Secretary of State] shall—
+
+(a) pay such pension, allowances or gratuities as he may determine to or in respect of a person who is or has been the registrar, or
+
+(b) make such payments as he may determine towards provision for the payment of a pension, allowances or gratuities to or in respect of such a person.
+
+(3) If, when a person ceases to be the registrar, the [[^F113]Secretary of State] determines that there are special circumstances which make it right that the person should receive compensation, the [[^F113]Secretary of State] may pay to the person by way of compensation a sum of such amount as he may determine.
+
+### Staff
+
+**3** (1) The registrar may appoint such staff as he thinks fit.
+
+(2) The terms and conditions of appointments under this paragraph shall be such as the registrar, with the approval of the Minister for the Civil Service, thinks fit.
+
+### Indemnity for members
+
+**4** No member of the land registry is to be liable in damages for anything done or omitted in the discharge or purported discharge of any function relating to land registration [[^F114]or local land charges ], unless it is shown that the act or omission was in bad faith.
+
+### Seal
+
+**5** The land registry is to continue to have a seal and any document purporting to be sealed with it is to be admissible in evidence without any further or other proof.
+
+### Documentary evidence
+
+**6** The Documentary Evidence Act 1868 (c. 37) has effect as if—
+
+(a) the registrar were included in the first column of the Schedule to that Act,
+
+(b) the registrar and any person authorised to act on his behalf were mentioned in the second column of that Schedule, and
+
+(c) the regulations referred to in that Act included any form or direction issued by the registrar or by any such person.
+
+### Parliamentary disqualification
+
+**7** In Part 3 of Schedule 1 to the House of Commons Disqualification Act 1975 (c. 24) (other disqualifying offices), there is inserted at the appropriate place—
+
+> Chief Land Registrar.
+
+;
+
+and a corresponding amendment is made in Part 3 of Schedule 1 to the Northern Ireland Assembly Disqualification Act 1975 (c. 25).
+
+## SCHEDULE 8 — Indemnities
+
+*Section 103*
+
+### Entitlement
+
+**1** (1) A person is entitled to be indemnified by the registrar if he suffers loss by reason of—
+
+(a) rectification of the register,
+
+(b) a mistake whose correction would involve rectification of the register,
+
+(c) a mistake in an official search,
+
+(d) a mistake in an official copy,
+
+(e) a mistake in a document kept by the registrar which is not an original and is referred to in the register,
+
+(f) the loss or destruction of a document lodged at the registry for inspection or safe custody,
+
+(g) a mistake in the cautions register, or
+
+(h) failure by the registrar to perform his duty under section 50.
+
+(2) For the purposes of sub-paragraph (1)(a)—
+
+(a) any person who suffers loss by reason of the change of title under section 62 is to be regarded as having suffered loss by reason of rectification of the register, and
+
+(b) the proprietor of a registered estate or charge claiming in good faith under a forged disposition is, where the register is rectified, to be regarded as having suffered loss by reason of such rectification as if the disposition had not been forged.
+
+(3) No indemnity under sub-paragraph (1)(b) is payable until a decision has been made about whether to alter the register for the purpose of correcting the mistake; and the loss suffered by reason of the mistake is to be determined in the light of that decision.
+
+### Mines and minerals
+
+**2** No indemnity is payable under this Schedule on account of—
+
+(a) any mines or minerals, or
+
+(b) the existence of any right to work or get mines or minerals,
+
+unless it is noted in the register that the title to the registered estate concerned includes the mines or minerals.
+
+### Costs
+
+**3** (1) In respect of loss consisting of costs or expenses incurred by the claimant in relation to the matter, an indemnity under this Schedule is payable only on account of costs or expenses reasonably incurred by the claimant with the consent of the registrar.
+
+(2) The requirement of consent does not apply where—
+
+(a) the costs or expenses must be incurred by the claimant urgently, and
+
+(b) it is not reasonably practicable to apply for the registrar’s consent.
+
+(3) If the registrar approves the incurring of costs or expenses after they have been incurred, they shall be treated for the purposes of this paragraph as having been incurred with his consent.
+
+**4** (1) If no indemnity is payable to a claimant under this Schedule, the registrar may pay such amount as he thinks fit in respect of any costs or expenses reasonably incurred by the claimant in connection with the claim which have been incurred with the consent of the registrar.
+
+(2) The registrar may make a payment under sub-paragraph (1) notwithstanding the absence of consent if—
+
+(a) it appears to him—
+
+(i) that the costs or expenses had to be incurred urgently, and
+
+(ii) that it was not reasonably practicable to apply for his consent, or
+
+(b) he has subsequently approved the incurring of the costs or expenses.
+
+### Claimant’s fraud or lack of care
+
+**5** (1) No indemnity is payable under this Schedule on account of any loss suffered by a claimant—
+
+(a) wholly or partly as a result of his own fraud, or
+
+(b) wholly as a result of his own lack of proper care.
+
+(2) Where any loss is suffered by a claimant partly as a result of his own lack of proper care, any indemnity payable to him is to be reduced to such extent as is fair having regard to his share in the responsibility for the loss.
+
+(3) For the purposes of this paragraph any fraud or lack of care on the part of a person from whom the claimant derives title (otherwise than under a disposition for valuable consideration which is registered or protected by an entry in the register) is to be treated as if it were fraud or lack of care on the part of the claimant.
+
+### Valuation of estates etc.
+
+**6** Where an indemnity is payable in respect of the loss of an estate, interest or charge, the value of the estate, interest or charge for the purposes of the indemnity is to be regarded as not exceeding—
+
+(a) in the case of an indemnity under paragraph 1(1)(a), its value immediately before rectification of the register (but as if there were to be no rectification), and
+
+(b) in the case of an indemnity under paragraph 1(1)(b), its value at the time when the mistake which caused the loss was made.
+
+### Determination of indemnity by court
+
+**7** (1) A person may apply to the court for the determination of any question as to—
+
+(a) whether he is entitled to an indemnity under this Schedule, or
+
+(b) the amount of such an indemnity.
+
+(2) Paragraph 3(1) does not apply to the costs of an application to the court under this paragraph or of any legal proceedings arising out of such an application.
+
+### Time limits
+
+**8** For the purposes of the Limitation Act 1980 (c. 58)—
+
+(a) a liability to pay an indemnity under this Schedule is a simple contract debt, and
+
+(b) the cause of action arises at the time when the claimant knows, or but for his own default might have known, of the existence of his claim.
+
+### Interest
+
+**9** Rules may make provision about the payment of interest on an indemnity under this Schedule, including—
+
+(a) the circumstances in which interest is payable, and
+
+(b) the periods for and rates at which it is payable.
+
+### Recovery of indemnity by registrar
+
+**10** (1) Where an indemnity under this Schedule is paid to a claimant in respect of any loss, the registrar is entitled (without prejudice to any other rights he may have)—
+
+(a) to recover the amount paid from any person who caused or substantially contributed to the loss by his fraud, or
+
+(b) for the purpose of recovering the amount paid, to enforce the rights of action referred to in sub-paragraph (2).
+
+(2) Those rights of action are—
+
+(a) any right of action (of whatever nature and however arising) which the claimant would have been entitled to enforce had the indemnity not been paid, and
+
+(b) where the register has been rectified, any right of action (of whatever nature and however arising) which the person in whose favour the register has been rectified would have been entitled to enforce had it not been rectified.
+
+(3) References in this paragraph to an indemnity include interest paid on an indemnity under rules under paragraph 9.
+
+### Interpretation
+
+**11** (1) For the purposes of this Schedule, references to a mistake in something include anything mistakenly omitted from it as well as anything mistakenly included in it.
+
+(2) In this Schedule, references to rectification of the register are to alteration of the register which—
+
+(a) involves the correction of a mistake, and
+
+(b) prejudicially affects the title of a registered proprietor.
+
+## [^F115]SCHEDULE 9 — The adjudicator
+
+*Section 107*
+
+### [^F115]Holding of office
+
+**[^F115]1** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F115]Remuneration
+
+**[^F115]2** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F115]Staff
+
+**[^F115]3** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F115]Conduct of business
+
+**[^F115]4** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F115]5** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F115]Finances
+
+**[^F115]6** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F115]7** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F115]Application of Tribunals and Inquiries Act 1992
+
+**[^F115]8** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F115]Parliamentary disqualification
+
+**[^F115]9** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 10 — Miscellaneous and general powers
+
+*Section 126*
+
+### Part 1 — Miscellaneous
+
+#### Dealings with estates subject to compulsory first registration
+
+**1** (1) Rules may make provision—
+
+(a) applying this Act to a pre-registration dealing with a registrable legal estate as if the dealing had taken place after the date of first registration of the estate, and
+
+(b) about the date on which registration of the dealing is effective.
+
+(2) For the purposes of sub-paragraph (1)—
+
+(a) a legal estate is registrable if a person is subject to a duty under section 6 to make an application to be registered as the proprietor of it, and
+
+(b) a pre-registration dealing is one which takes place before the making of such an application.
+
+#### Regulation of title matters between sellers and buyers
+
+**2** (1) Rules may make provision about the obligations with respect to—
+
+(a) proof of title, or
+
+(b) perfection of title,
+
+of the seller under a contract for the transfer, or other disposition, for valuable consideration of a registered estate or charge.
+
+(2) Rules under this paragraph may be expressed to have effect notwithstanding any stipulation to the contrary.
+
+#### Implied covenants
+
+**3** Rules may—
+
+(a) make provision about the form of provisions extending or limiting any covenant implied by virtue of Part 1 of the Law of Property (Miscellaneous Provisions) Act 1994 (c. 36) (implied covenants for title) on a registrable disposition;
+
+(b) make provision about the application of section 77 of the Law of Property Act 1925 (c. 20) (implied covenants in conveyance subject to rents) to transfers of registered estates;
+
+(c) make provision about reference in the register to implied covenants, including provision for the state of the register to be conclusive in relation to whether covenants have been implied.
+
+#### Land certificates
+
+**4** Rules may make provision about—
+
+(a) when a certificate of registration of title to a legal estate may be issued,
+
+(b) the form and content of such a certificate, and
+
+(c) when such a certificate must be produced or surrendered to the registrar.
+
+### Part 2 — General
+
+#### Notice
+
+**5** (1) Rules may make provision about the form, content and service of notice under this Act.
+
+(2) Rules under this paragraph about the service of notice may, in particular—
+
+(a) make provision requiring the supply of an address for service and about the entry of addresses for service in the register;
+
+(b) make provision about—
+
+(i) the time for service,
+
+(ii) the mode of service, and
+
+(iii) when service is to be regarded as having taken place.
+
+#### Applications
+
+**6** Rules may—
+
+(a) make provision about the form and content of applications under this Act;
+
+(b) make provision requiring applications under this Act to be supported by such evidence as the rules may provide;
+
+(c) make provision about when an application under this Act is to be taken as made;
+
+(d) make provision about the order in which competing applications are to be taken to rank;
+
+(e) make provision for an alteration made by the registrar for the purpose of correcting a mistake in an application or accompanying document to have effect in such circumstances as the rules may provide as if made by the applicant or other interested party or parties.
+
+#### Statutory statements
+
+**7** Rules may make provision about the form of any statement required under an enactment to be included in an instrument effecting a registrable disposition or a disposition which triggers the requirement of registration.
+
+#### Residual power
+
+**8** Rules may make any other provision which it is expedient to make for the purposes of carrying this Act into effect, whether similar or not to any provision which may be made under the other powers to make land registration rules.
+
+## SCHEDULE 11 — Minor and consequential amendments
+
+*Section 133*
+
+### Settled Land Act 1925 (c. 18)
+
+**1** Section 119(3) of the Settled Land Act 1925 ceases to have effect.
+
+### Law of Property Act 1925 (c. 20)
+
+**2** (1) The Law of Property Act 1925 is amended as follows.
+
+(2) In section 44, after subsection (4) there is inserted—
+
+> (4A) Subsections (2) and (4) of this section do not apply to a contract to grant a term of years if the grant will be an event within section 4(1) of the Land Registration Act 2002 (events which trigger compulsory first registration of title).
+
+(3) In that section, in subsection (5), for “the last three preceding subsections” there is substituted “ subsections (2) to (4) of this section ”.
+
+(4) In that section, at the end there is inserted—
+
+> (12) Nothing in this section applies in relation to registered land or to a term of years to be derived out of registered land.
+
+(5) In section 84(8), the words from “, but” to the end are omitted.
+
+(6) In section 85(3), for the words from the beginning to the second “or” there is substituted “ Subsection (2) does not apply to registered land, but, subject to that, this section applies whether or not the land is registered land and whether or not ”.
+
+(7) In section 86(3), for the words from the beginning to the second “or” there is substituted “ Subsection (2) does not apply to registered land, but, subject to that, this section applies whether or not the land is registered land and whether or not ”.
+
+(8) In section 87, at the end there is inserted—
+
+> (4) Subsection (1) of this section shall not be taken to be affected by section 23(1)(a) of the Land Registration Act 2002 (under which owner’s powers in relation to a registered estate do not include power to mortgage by demise or sub-demise).
+
+(9) In section 94(4), for the words from “registered” to the end there is substituted “ on registered land ”.
+
+(10) In section 97, for “Land Registration Act 1925” there is substituted “ Land Registration Act 2002 ”.
+
+(11) In section 115(10), for the words from “charge” to the end there is substituted “ registered charge (within the meaning of the Land Registration Act 2002) ”.
+
+(12) In section 125(2), for the words from “(not being” to “1925)” there is substituted “ (not being registered land) ”.
+
+(13) In section 205(1)(xxii)—
+
+(a) for “Land Registration Act 1925” there is substituted “ Land Registration Act 2002; ”, and
+
+(b) the words from “, and” to the end are omitted.
+
+### Administration of Estates Act 1925 (c. 23)
+
+**3** In section 43(2) of the Administration of Estates Act 1925, for “Land Registration Act 1925” there is substituted “ Land Registration Act 2002 ”.
+
+### Requisitioned Land and War Works Act 1945 (c. 43)
+
+**4** (1) Section 37 of the Requisitioned Land and War Works Act 1945 is amended as follows.
+
+(2) In subsection (2), for “Land Registration Act 1925” there is substituted “ Land Registration Act 2002 ”.
+
+(3) Subsection (3) ceases to have effect.
+
+### Law of Property (Joint Tenants) Act 1964 (c. 63)
+
+**5** In section 3 of the Law of Property (Joint Tenants) Act 1964, for the words from “any land” to the end there is substituted “ registered land ”.
+
+### Gas Act 1965 (c. 36)
+
+**6** (1) The Gas Act 1965 is amended as follows.
+
+(2) In section 12(3), for “Land Registration Act 1925” there is substituted “ Land Registration Act 2002 ”.
+
+(3) In sections 12(4) and 13(6), for the words from “be deemed” to the end there is substituted—
+
+> (a) for the purposes of the Land Charges Act 1925, be deemed to be a charge affecting land falling within Class D(iii), and
+>
+> (b) for the purposes of the Land Registration Act 2002, be deemed to be an equitable easement.
+
+### Commons Registration Act 1965 (c. 64)
+
+**7** (1) The Commons Registration Act 1965 is amended as follows.
+
+(2) In sections 1(1), (2) and (3), 4(3) and 8(1), for “under the Land Registration Acts 1925 and 1936” there is substituted “ in the register of title ”.
+
+(3) In section 9, for “the Land Registration Acts 1925 and 1936” there is substituted “ in the register of title ”.
+
+(4) In section 12 (in both places), for “under the Land Registration Acts 1925 and 1936” there is substituted “ in the register of title ”.
+
+(5) In section 22, in subsection (1), there is inserted at the appropriate place—
+
+> “register of title” means the register kept under section 1 of the Land Registration Act 2002;
+
+.
+
+(6) In that section, in subsection (2), for “under the Land Registration Acts 1925 and 1936” there is substituted “ in the register of title ”.
+
+### Leasehold Reform Act 1967 (c. 88)
+
+**8** (1) The Leasehold Reform Act 1967 is amended as follows.
+
+(2) In section 5(5)—
+
+(a) for “an overriding interest within the meaning of the Land Registration Act 1925” there is substituted “ regarded for the purposes of the Land Registration Act 2002 as an interest falling within any of the paragraphs of Schedule 1 or 3 to that Act ”, and
+
+(b) for “or caution under the Land Registration Act 1925” there is substituted “ under the Land Registration Act 2002 ”.
+
+(3) In Schedule 4, in paragraph 1(3)—
+
+(a) for paragraph (a) there is substituted—
+
+> (a) the covenant may be the subject of a notice in the register of title kept under the Land Registration Act 2002, if apart from this subsection it would not be capable of being the subject of such a notice; and
+
+,
+
+and
+
+(b) in paragraph (b), for “notice of the covenant has been so registered, the covenant” there is substituted “ a notice in respect of the covenant has been entered in that register, it ”.
+
+### Law of Property Act 1969 (c. 59)
+
+**9** In section 24(1) of the Law of Property Act 1969, for “Land Registration Act 1925” there is substituted “ Land Registration Act 2002 ”.
+
+### Land Charges Act 1972 (c. 61)
+
+**10** (1) The Land Charges Act 1972 is amended as follows.
+
+(2) In section 14(1), for the words from “Land Registration” to the end there is substituted “ Land Registration Act 2002 ”.
+
+(3) In section 14(3)—
+
+(a) for the words from “section 123A” to “register)” there is substituted “ section 7 of the Land Registration Act 2002 (effect of failure to comply with requirement of registration) ”, and
+
+(b) for “that section” there is substituted “ section 6 of that Act ”.
+
+(4) In section 17(1), in the definition of “registered land”, for “Land Registration Act 1925” there is substituted “ Land Registration Act 2002 ”.
+
+### Consumer Credit Act 1974 (c. 39)
+
+**11** In section 177(1) and (6) of the Consumer Credit Act 1974, for “Land Registration Act 1925” there is substituted “ Land Registration Act 2002 ”.
+
+### Solicitors Act 1974 (c. 47)
+
+**12** (1) The Solicitors Act 1974 is amended as follows.
+
+(2) In sections 22(1) and 56(1)(f), for “Land Registration Act 1925” there is substituted “ Land Registration Act 2002 ”.
+
+(3) Section 75(b) ceases to have effect.
+
+### Local Land Charges Act 1975 (c. 76)
+
+**13** In section 10(3)(b)(ii) of the Local Land Charges Act 1975, for “under the Land Registration Act 1925” there is substituted “ in the register of title kept under the Land Registration Act 2002 ”.
+
+### Rent Act 1977 (c. 42)
+
+**14** In section 136(b) of the Rent Act 1977, for the words from “charge” to the end there is substituted “ registered charge (within the meaning of the Land Registration Act 2002) ”.
+
+### Charging Orders Act 1979 (c. 53)
+
+**15** In section 3(2) and (6) of the Charging Orders Act 1979, for “Land Registration Act 1925” there is substituted “ Land Registration Act 2002 ”.
+
+### Highways Act 1980 (c. 66)
+
+**16** Section 251(5) of the Highways Act 1980 ceases to have effect.
+
+### Inheritance Tax Act 1984 (c. 51)
+
+**17** In section 238(3) of the Inheritance Tax Act 1984, for paragraph (a) there is substituted—
+
+> (a) in relation to registered land—
+>
+> (i) if the disposition is required to be completed by registration, the time of registration, and
+>
+> (ii) otherwise, the time of completion,
+
+.
+
+### Housing Act 1985 (c. 68)
+
+**18** (1) The Housing Act 1985 is amended as follows.
+
+(2) In section 37(5), for the words from “and” to the end there is substituted—
+
+> (5A) Where the Chief Land Registrar approves an application for registration of—
+>
+> (a) a disposition of registered land, or
+>
+> (b) the disponee’s title under a disposition of unregistered land,
+>
+> and the instrument effecting the disposition contains a covenant of the kind mentioned in subsection (1), he must enter in the register a restriction reflecting the limitation imposed by the covenant
+
+.
+
+(3) In section 154(5), for “Land Registration Acts 1925 to 1971” there is substituted “ Land Registration Act 2002 ”.
+
+(4) In section 157(7), for the words from “the appropriate” to the end there is substituted “ a restriction in the register of title reflecting the limitation ”.
+
+(5) In section 165(6), for “section 83 of the Land Registration Act 1925” there is substituted “ Schedule 8 to the Land Registration Act 2002 ”.
+
+(6) In Schedule 9A, in paragraph 2(2), for the words from the beginning to “the disponor” there is substituted “ Where on a qualifying disposal the disponor’s title to the dwelling-house is not registered, the disponor ”.
+
+(7) In that Schedule, for paragraph 4 there is substituted—
+
+> **4** (1) This paragraph applies where the Chief Land Registrar approves an application for registration of—
+>
+> (a) a disposition of registered land, or
+>
+> (b) the disponee’s title under a disposition of unregistered land,
+>
+> and the instrument effecting the disposition contains the statement required by paragraph 1.
+>
+> (2) The Chief Land Registrar must enter in the register—
+>
+> (a) a notice in respect of the rights of qualifying persons under this Part in relation to dwelling-houses comprised in the disposal, and
+>
+> (b) a restriction reflecting the limitation under section 171D(2) on subsequent disposal.
+
+(8) In that Schedule, for paragraph 5(2) there is substituted—
+
+> (2) If the landlord’s title is registered, the landlord shall apply for the entry in the register of—
+>
+> (a) a notice in respect of the rights of the qualifying person or persons under the provisions of this Part, and
+>
+> (b) a restriction reflecting the limitation under section 171D(2) on subsequent disposal.
+
+(9) In that Schedule, paragraph 5(3) ceases to have effect.
+
+(10) In that Schedule, in paragraph 6, for sub-paragraph (1) there is substituted—
+
+> (1) The rights of a qualifying person under this Part in relation to the qualifying dwelling house shall not be regarded as falling within Schedule 3 to the Land Registration Act 2002 (and so are liable to be postponed under section 29 of that Act, unless protected by means of a notice in the register).
+
+(11) In that Schedule, in paragraph 9(2), for “Land Registration Acts 1925 to 1986” there is substituted “ Land Registration Act 2002 ”.
+
+(12) In Schedule 17, in paragraph 2(2), for “Land Registration Acts 1925 to 1971” there is substituted “ Land Registration Act 2002 ”.
+
+(13) In Schedule 20, in paragraph 17(2), for “Land Registration Acts 1925 to 1986” there is substituted “ Land Registration Act 2002 ”.
+
+### Building Societies Act 1986 (c. 53)
+
+**19** (1) In Schedule 2A to the Building Societies Act 1986, paragraph 1 is amended as follows.
+
+(2) In sub-paragraph (2), for “charge or incumbrance registered under the Land Registration Act 1925” there is substituted “ registered charge (within the meaning of the Land Registration Act 2002) ”.
+
+(3) Sub-paragraph (4) ceases to have effect.
+
+(4) In sub-paragraph (5), the definition of “registered land” and the preceding “and” cease to have effect.
+
+### Landlord and Tenant Act 1987 (c. 31)
+
+**20** In sections 24(8) and (9), 28(5), 30(6) and 34(9) of the Landlord and Tenant Act 1987, for “Land Registration Act 1925” there is substituted “ Land Registration Act 2002 ”.
+
+### Diplomatic and Consular Premises Act 1987 (c. 46)
+
+**21** (1) The Diplomatic and Consular Premises Act 1987 is amended as follows.
+
+(2) In section 5, after the definition of the expression “diplomatic premises” there is inserted—
+
+> “land” includes buildings and other structures, land covered with water and any estate, interest, easement, servitude or right in or over land,
+
+.
+
+(3) In Schedule 1, in paragraph 1—
+
+(a) before the definition of the expression “the registrar” there is inserted—
+
+> “registered land” has the same meaning as in the Land Registration Act 2002;
+
+,
+
+and
+
+(b) the words from “and expressions” to the end are omitted.
+
+### [[^F116]Criminal Justice Act 1988 (c. 33)
+
+**22** (1) The Criminal Justice Act 1988 is amended as follows.
+
+(2) In section 77(12)—
+
+(a) for “Land Registration Act 1925” there is substituted “ Land Registration Act 2002 ”, and
+
+(b) in paragraph (a), at the end there is inserted “ , except that no notice may be entered in the register of title under the Land Registration Act 2002 in respect of such orders ”.
+
+(3) In section 79(1) and (4), for “Land Registration Act 1925” there is substituted “ Land Registration Act 2002 ”.]
+
+### Housing Act 1988 (c. 50)
+
+**23** (1) The Housing Act 1988 is amended as follows.
+
+(2) In section 81, in subsection (9)(c), for “Land Registration Acts 1925 to 1986” there is substituted “ Land Registration Act 2002 ”.
+
+(3) In that section, for subsection (10) there is substituted—
+
+> (10) Where the Chief Land Registrar approves an application for registration of—
+>
+> (a) a disposition of registered land, or
+>
+> (b) the approved person’s title under a disposition of unregistered land,
+>
+> and the instrument effecting the disposition contains the statement required by subsection (1) above, he shall enter in the register a restriction reflecting the limitation under this section on subsequent disposal.
+
+(4) In section 90(4), for “Land Registration Act 1925” there is substituted “ Land Registration Act 2002 ”.
+
+(5) In section 133, in subsection (8)—
+
+(a) for the words “conveyance, grant or assignment” there is substituted “ transfer or grant ”,
+
+(b) for the words “section 123 of the Land Registration Act 1925” there is substituted “ section 4 of the Land Registration Act 2002 ”, and
+
+(c) in paragraph (c), for “Land Registration Acts 1925 to 1986” there is substituted “ Land Registration Act 2002 ”.
+
+(6) In that section, for subsection (9) there is substituted—
+
+> (9) Where the Chief Land Registrar approves an application for registration of—
+>
+> (a) a disposition of registered land, or
+>
+> (b) a person’s title under a disposition of unregistered land,
+>
+> and the instrument effecting the original disposal contains the statement required by subsection (3)(d) above, he shall enter in the register a restriction reflecting the limitation under this section on subsequent disposal.
+
+### Local Government and Housing Act 1989 (c. 42)
+
+**24** (1) Section 173 of the Local Government and Housing Act 1989 is amended as follows.
+
+(2) In subsection (8)—
+
+(a) for the words “conveyance, grant or assignment” there is substituted “ transfer or grant ”,
+
+(b) for the words “section 123 of the Land Registration Act 1925” there is substituted “ section 4 of the Land Registration Act 2002 ”, and
+
+(c) in paragraph (c), for “Land Registration Acts 1925 to 1986” there is substituted “ Land Registration Act 2002 ”.
+
+(3) For subsection (9) there is substituted—
+
+> (9) Where the Chief Land Registrar approves an application for registration of—
+>
+> (a) a disposition of registered land, or
+>
+> (b) a person’s title under a disposition of unregistered land,
+>
+> and the instrument effecting the initial transfer contains the statement required by subsection (3) above, he shall enter in the register a restriction reflecting the limitation under this section on subsequent disposal.
+
+### Water Resources Act 1991 (c. 57)
+
+**25** (1) Section 158 of the Water Resources Act 1991 is amended as follows.
+
+(2) In subsection (5)—
+
+(a) for paragraphs (a) and (b) there is substituted—
+
+> (a) the agreement may be the subject of a notice in the register of title under the Land Registration Act 2002 as if it were an interest affecting the registered land;
+>
+> (b) the provisions of sections 28 to 30 of that Act (effect of dispositions of registered land on priority of adverse interests) shall apply as if the agreement were such an interest;
+
+,
+
+and
+
+(b) in paragraph (c), for “where notice of the agreement has been so registered,” there is substituted “ subject to the provisions of those sections, ”.
+
+(3) In subsection (6), for “Land Registration Act 1925” there is substituted “ Land Registration Act 2002 ”.
+
+### Access to Neighbouring Land Act 1992 (c. 23)
+
+**26** (1) The Access to Neighbouring Land Act 1992 is amended as follows.
+
+(2) In section 4(1), for “Land Registration Act 1925” there is substituted “ Land Registration Act 2002 ”.
+
+(3) In section 5, in subsection (4)—
+
+(a) in paragraph (b), for “notice or caution under the Land Registration Act 1925” there is substituted “ notice under the Land Registration Act 2002 ”, and
+
+(b) for “entry, notice or caution” there is substituted “ entry or notice ”.
+
+(4) In that section, for subsection (5) there is substituted—
+
+> (5) The rights conferred on a person by or under an access order shall not be capable of falling within paragraph 2 of Schedule 1 or 3 to the Land Registration Act 2002 (overriding status of interest of person in actual occupation).
+
+(5) In that section, in subsection (6), for “Land Registration Act 1925” there is substituted “ Land Registration Act 2002 ”.
+
+### Further and Higher Education Act 1992 (c. 13)
+
+**27** In Schedule 5 to the Further and Higher Education Act 1992, in paragraph 6(1)—
+
+(a) for “Land Registration Acts 1925 to 1986” there is substituted “ Land Registration Act 2002 ”, and
+
+(b) for “those Acts” there is substituted “ that Act ”.
+
+### Judicial Pensions and Retirement Act 1993 (c. 8)
+
+**28** In Schedule 5 to the Judicial Pensions and Retirement Act 1993, there is inserted at the end— “Adjudicator to Her Majesty’s Land Registry”
+
+### Charities Act 1993 (c. 10)
+
+**[^F117]29** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Leasehold Reform, Housing and Urban Development Act 1993 (c. 28)
+
+**30** (1) The Leasehold Reform, Housing and Urban Development Act 1993 is amended as follows.
+
+(2) In sections 34(10) and 57(11), for the words from “rules” to the end there is substituted “ land registration rules under the Land Registration Act 2002 ”.
+
+(3) In section 97, in subsection (1)—
+
+(a) for “an overriding interest within the meaning of the Land Registration Act 1925” there is substituted “ capable of falling within paragraph 2 of Schedule 1 or 3 to the Land Registration Act 2002 ”, and
+
+(b) for “or caution under the Land Registration Act 1925” there is substituted “ under the Land Registration Act 2002 ”.
+
+(4) In that section, in subsection (2), for “Land Registration Act 1925” there is substituted “ Land Registration Act 2002 ”.
+
+### Law of Property (Miscellaneous Provisions) Act 1994 (c. 36)
+
+**31** (1) The Law of Property (Miscellaneous Provisions) Act 1994 is amended as follows.
+
+(2) In section 6 (cases in which there is no liability under covenants implied by virtue of Part 1 of that Act), at the end there is inserted—
+
+> (4) Moreover, where the disposition is of an interest the title to which is registered under the Land Registration Act 2002, that person is not liable under any of those covenants for anything (not falling within subsection (1) or (2)) which at the time of the disposition was entered in relation to that interest in the register of title under that Act.
+
+(3) In section 17(3)—
+
+(a) in paragraph (c), for the words from “any” to the end there is substituted “ the Adjudicator to Her Majesty’s Land Registry ”, and
+
+(b) for “section 144 of the Land Registration Act 1925” there is substituted “ the Land Registration Act 2002 ”.
+
+### [[^F118]Drug Trafficking Act 1994 (c. 37)
+
+**32** (1) The Drug Trafficking Act 1994 is amended as follows.
+
+(2) In section 26(12)—
+
+(a) for “Land Registration Act 1925” there is substituted “ Land Registration Act 2002 ”, and
+
+(b) in paragraph (a), at the end there is inserted “ , except that no notice may be entered in the register of title under the Land Registration Act 2002 in respect of such orders ”.
+
+(3) In section 28(1) and (4), for “Land Registration Act 1925” there is substituted “ Land Registration Act 2002 ”.]
+
+### Landlord and Tenant (Covenants) Act 1995 (c. 30)
+
+**33** (1) The Landlord and Tenant (Covenants) Act 1995 is amended as follows.
+
+(2) In sections 3(6) and 15(5)(b), for “Land Registration Act 1925” there is substituted “ Land Registration Act 2002 ”.
+
+(3) In section 20, in subsection (2), for the words from “rules” to the end there is substituted “ land registration rules under the Land Registration Act 2002 ”.
+
+(4) In that section, in subsection (6)—
+
+(a) for “an overriding interest within the meaning of the Land Registration Act 1925” there is substituted “ capable of falling within paragraph 2 of Schedule 1 or 3 to the Land Registration Act 2002 ”, and
+
+(b) for “or caution under the Land Registration Act 1925” there is substituted “ under the Land Registration Act 2002 ”.
+
+### Family Law Act 1996 (c. 27)
+
+**34** (1) The Family Law Act 1996 is amended as follows.
+
+(2) In section 31(10)—
+
+(a) for “Land Registration Act 1925” there is substituted “ Land Registration Act 2002 ”, and
+
+(b) for paragraph (b) there is substituted—
+
+> (b) a spouse’s matrimonial home rights are not to be capable of falling within paragraph 2 of Schedule 1 or 3 to that Act.
+
+(3) In Schedule 4, in paragraph 4(6), for “section 144 of the Land Registration Act 1925” there is substituted “ by land registration rules under the Land Registration Act 2002 ”.
+
+### Housing Act 1996 (c. 52)
+
+**35** In section 13(5) of the Housing Act 1996, for the words from “if” to the end there is substituted “ if the first disposal involves registration under the Land Registration Act 2002, the Chief Land Registrar shall enter in the register of title a restriction reflecting the limitation ”.
+
+### Education Act 1996 (c. 56)
+
+**36** In Schedule 7 to the Education Act 1996, in paragraph 11—
+
+(a) in sub-paragraph (a), for “Land Registration Acts 1925 to 1986” there is substituted “ Land Registration Act 2002 ”, and
+
+(b) in sub-paragraphs (b) and (c), for “those Acts” there is substituted “ that Act ”.
+
+### School Standards and Framework Act 1998 (c. 31)
+
+**37** In Schedule 22 to the School Standards and Framework Act 1998, in paragraph 9(1)—
+
+(a) in paragraph (a), for “Land Registration Acts 1925 to 1986” there is substituted “ Land Registration Act 2002 ”, and
+
+(b) in paragraphs (b) and (c), for “those Acts” there is substituted “ that Act ”.
+
+### Terrorism Act 2000 (c. 11)
+
+**38** In Schedule 4 to the Terrorism Act 2000, in paragraph 8(1)—
+
+(a) for “Land Registration Act 1925” there is substituted “ Land Registration Act 2002 ”, and
+
+(b) in paragraph (a), at the end there is inserted “ , except that no notice may be entered in the register of title under the Land Registration Act 2002 in respect of such orders ”.
+
+### Finance Act 2000 (c. 17)
+
+**39** In section 128 of the Finance Act 2000—
+
+(a) in subsection (2), for the words from “rule” to the end there is substituted “ land registration rules under the Land Registration Act 2002 ”, and
+
+(b) in subsection (8)(a), for “Land Registration Act 1925” there is substituted “ Land Registration Act 2002 ”.
+
+### International Criminal Court Act 2001 (c. 17)
+
+**40** In Schedule 6 to the International Criminal Court Act 2001, in paragraph 7(1)—
+
+(a) for “Land Registration Act 1925” there is substituted “ Land Registration Act 2002 ”, and
+
+(b) in paragraph (a), at the end there is inserted “ , except that no notice may be entered in the register of title under the Land Registration Act 2002 in respect of such orders ”.
+
+## SCHEDULE 12 — Transition
+
+*Section 134*
+
+### Existing entries in the register
+
+**1** Nothing in the repeals made by this Act affects the validity of any entry in the register.
+
+**2** (1) This Act applies to notices entered under the Land Registration Act 1925 (c. 21) as it applies to notices entered in pursuance of an application under section 34(2)(a).
+
+(2) This Act applies to restrictions and inhibitions entered under the Land Registration Act 1925 as it applies to restrictions entered under this Act.
+
+(3) Notwithstanding their repeal by this Act, sections 55 and 56 of the Land Registration Act 1925 shall continue to have effect so far as relating to cautions against dealings lodged under that Act.
+
+(4) Rules may make provision about cautions against dealings entered under the Land Registration Act 1925.
+
+(5) In this paragraph, references to the Land Registration Act 1925 include a reference to any enactment replaced (directly or indirectly) by that Act.
+
+**3** An entry in the register which, immediately before the repeal of section 144(1)(xi) of the Land Registration Act 1925, operated by virtue of rule 239 of the Land Registration Rules (S.I. 1925/1093) as a caution under section 54 of that Act shall continue to operate as such a caution.
+
+### Existing cautions against first registration
+
+**4** Notwithstanding the repeal of section 56(3) of the Land Registration Act 1925, that provision shall continue to have effect in relation to cautions against first registration lodged under that Act, or any enactment replaced (directly or indirectly) by that Act.
+
+### Pending applications
+
+**5** Notwithstanding the repeal of the Land Registration Act 1925, that Act shall continue to have effect in relation to an application for the entry in the register of a notice, restriction, inhibition or caution against dealings which is pending immediately before the repeal of the provision under which the application is made.
+
+**6** Notwithstanding the repeal of section 53 of the Land Registration Act 1925, subsections (1) and (2) of that section shall continue to have effect in relation to an application to lodge a caution against first registration which is pending immediately before the repeal of those provisions.
+
+### Former overriding interests
+
+**7** For the period of three years beginning with the day on which Schedule 1 comes into force, it has effect with the insertion after paragraph 14 of—
+
+> **15** A right acquired under the Limitation Act 1980 before the coming into force of this Schedule.
+
+**8** Schedule 3 has effect with the insertion after paragraph 2 of—
+
+> **2A** (1) An interest which, immediately before the coming into force of this Schedule, was an overriding interest under section 70(1)(g) of the Land Registration Act 1925 by virtue of a person’s receipt of rents and profits, except for an interest of a person of whom inquiry was made before the disposition and who failed to disclose the right when he could reasonably have been expected to do so.
+>
+> (2) Sub-paragraph (1) does not apply to an interest if at any time since the coming into force of this Schedule it has been an interest which, had the Land Registration Act 1925 (c. 21) continued in force, would not have been an overriding interest under section 70(1)(g) of that Act by virtue of a person’s receipt of rents and profits.
+
+**9** (1) This paragraph applies to an easement or profit a prendre which was an overriding interest in relation to a registered estate immediately before the coming into force of Schedule 3, but which would not fall within paragraph 3 of that Schedule if created after the coming into force of that Schedule.
+
+(2) In relation to an interest to which this paragraph applies, Schedule 3 has effect as if the interest were not excluded from paragraph 3.
+
+**10** For the period of three years beginning with the day on which Schedule 3 comes into force, paragraph 3 of the Schedule has effect with the omission of the exception.
+
+**11** For the period of three years beginning with the day on which Schedule 3 comes into force, it has effect with the insertion after paragraph 14 of—
+
+> **15** A right under paragraph 18(1) of Schedule 12.
+
+**12** Paragraph 1 of each of Schedules 1 and 3 shall be taken to include an interest which immediately before the coming into force of the Schedule was an overriding interest under section 70(1)(k) of the Land Registration Act 1925.
+
+**13** Paragraph 6 of each of Schedules 1 and 3 shall be taken to include an interest which immediately before the coming into force of the Schedule was an overriding interest under section 70(1)(i) of the Land Registration Act 1925 and whose status as such was preserved by section 19(3) of the Local Land Charges Act 1975 (c. 76) (transitional provision in relation to change in definition of “local land charge”).
+
+### Cautions against first registration
+
+**14** (1) For the period of two years beginning with the day on which section 15 comes into force, it has effect with the following omissions—
+
+(a) in subsection (1), the words “Subject to subsection (3),”, and
+
+(b) subsection (3).
+
+(2) Any caution lodged by virtue of sub-paragraph (1) which is in force immediately before the end of the period mentioned in that sub-paragraph shall cease to have effect at the end of that period, except in relation to applications for registration made before the end of that period.
+
+(3) This paragraph does not apply to section 15 as applied by section 81.
+
+**15** (1) As applied by section 81, section 15 has effect for the period of ten years beginning with the day on which it comes into force, or such longer period as rules may provide, with the omission of subsection (3)(a)(i).
+
+(2) Any caution lodged by virtue of sub-paragraph (1) which is in force immediately before the end of the period mentioned in that sub-paragraph shall cease to have effect at the end of that period, except in relation to applications for registration made before the end of that period.
+
+**16** This Act shall apply as if the definition of “caution against first registration” in section 132 included cautions lodged under section 53 of the Land Registration Act 1925 (c. 21).
+
+### Applications under section 34 or 43 by cautioners
+
+**17** Where a caution under section 54 of the Land Registration Act 1925 is lodged in respect of a person’s estate, right, interest or claim, he may only make an application under section 34 or 43 above in respect of that estate, right, interest or claim if he also applies to the registrar for the withdrawal of the caution.
+
+### Adverse possession
+
+**18** (1) Where a registered estate in land is held in trust for a person by virtue of section 75(1) of the Land Registration Act 1925 immediately before the coming into force of section 97, he is entitled to be registered as the proprietor of the estate.
+
+(2) A person has a defence to any action for the possession of land (in addition to any other defence he may have) if he is entitled under this paragraph to be registered as the proprietor of an estate in the land.
+
+(3) Where in an action for possession of land a court determines that a person is entitled to a defence under this paragraph, the court must order the registrar to register him as the proprietor of the estate in relation to which he is entitled under this paragraph to be registered.
+
+(4) Entitlement under this paragraph shall be disregarded for the purposes of section 131(1).
+
+(5) Rules may make transitional provision for cases where a rentcharge is held in trust under section 75(1) of the Land Registration Act 1925 immediately before the coming into force of section 97.
+
+### Indemnities
+
+**19** (1) Schedule 8 applies in relation to claims made before the commencement of that Schedule which have not been settled by agreement or finally determined by that time (as well as to claims for indemnity made after the commencement of that Schedule).
+
+(2) But paragraph 3(1) of that Schedule does not apply in relation to costs and expenses incurred in respect of proceedings, negotiations or other matters begun before 27 April 1997.
+
+### Implied indemnity covenants on transfers of pre-1996 leases
+
+**20** (1) On a disposition of a registered leasehold estate by way of transfer, the following covenants are implied in the instrument effecting the disposition, unless the contrary intention is expressed—
+
+(a) in the case of a transfer of the whole of the land comprised in the registered lease, the covenant in sub-paragraph (2), and
+
+(b) in the case of a transfer of part of the land comprised in the lease—
+
+(i) the covenant in sub-paragraph (3), and
+
+(ii) where the transferor continues to hold land under the lease, the covenant in sub-paragraph (4).
+
+(2) The transferee covenants with the transferor that during the residue of the term granted by the registered lease the transferee and the persons deriving title under him will—
+
+(a) pay the rent reserved by the lease,
+
+(b) comply with the covenants and conditions contained in the lease, and
+
+(c) keep the transferor and the persons deriving title under him indemnified against all actions, expenses and claims on account of any failure to comply with paragraphs (a) and (b).
+
+(3) The transferee covenants with the transferor that during the residue of the term granted by the registered lease the transferee and the persons deriving title under him will—
+
+(a) where the rent reserved by the lease is apportioned, pay the rent apportioned to the part transferred,
+
+(b) comply with the covenants and conditions contained in the lease so far as affecting the part transferred, and
+
+(c) keep the transferor and the persons deriving title under him indemnified against all actions, expenses and claims on account of any failure to comply with paragraphs (a) and (b).
+
+(4) The transferor covenants with the transferee that during the residue of the term granted by the registered lease the transferor and the persons deriving title under him will—
+
+(a) where the rent reserved by the lease is apportioned, pay the rent apportioned to the part retained,
+
+(b) comply with the covenants and conditions contained in the lease so far as affecting the part retained, and
+
+(c) keep the transferee and the persons deriving title under him indemnified against all actions, expenses and claims on account of any failure to comply with paragraphs (a) and (b).
+
+(5) This paragraph does not apply to a lease which is a new tenancy for the purposes of section 1 of the Landlord and Tenant (Covenants) Act 1995 (c. 30).
+
+## SCHEDULE 13 — Repeals
+
+*Section 135*
+
+|  |  |
+|---|---|
+| *Short title and chapter* | *Extent of repeal* |
+| Land Registry Act 1862 (c. 53). | The whole Act. |
+| Settled Land Act 1925 (c. 18). | Section 119(3). |
+| Law of Property Act 1925 (c. 20). | In section 84(8), the words from “, but” to the end. In section 205(1)(xxii), the words from “, and” to the end. |
+| Land Registration Act 1925 (c. 21). | The whole Act. |
+| Law of Property (Amendment) Act 1926 (c. 11). | Section 5. |
+| Land Registration Act 1936 (c. 26). | The whole Act. |
+| Requisitioned Land and War Works Act 1945 (c. 43). | Section 37(3). |
+| Mental Health Act 1959 (c. 72). | In Schedule 7, the entry relating to the Land Registration Act 1925. |
+| Charities Act 1960 (c. 58). | In Schedule 6, the entry relating to the Land Registration Act 1925. |
+| Civil Evidence Act 1968 (c. 64). | In the Schedule, the entry relating to the Land Registration Act 1925. |
+| Post Office Act 1969 (c. 48). | In Schedule 4, paragraph 27. |
+| Law of Property Act 1969 (c. 59). | Section 28(7). |
+| Land Registration and Land Charges Act 1971 (c. 54). | The whole Act. |
+| Superannuation Act 1972 (c. 11). | In Schedule 6, paragraph 16. |
+| Local Government Act 1972 (c. 70). | In Schedule 29, paragraph 26. |
+| Solicitors Act 1974 (c. 47). | Section 75(b). |
+| Finance Act 1975 (c. 7). | In Schedule 12, paragraph 5. |
+| Local Land Charges Act 1975 (c. 76). | Section 19(3). In Schedule 1, the entry relating to the Land Registration Act 1925. |
+| Endowments and Glebe Measure 1976 ( No. 4). | In Schedule 5, paragraph 1. |
+| Administration of Justice Act 1977 (c. 38). | Sections 24 and 26. |
+| Charging Orders Act 1979 (c. 53). | Section 3(3). Section 7(4). |
+| Limitation Act 1980 (c. 58). | In section 17, paragraph (b) and the preceding “and”. |
+| Highways Act 1980 (c. 66). | Section 251(5). |
+| Matrimonial Homes and Property Act 1981 (c. 24). | Section 4. |
+| Administration of Justice Act 1982 (c. 53). | Sections 66 and 67 and Schedule 5. |
+| Mental Health Act 1983 (c. 20). | In Schedule 4, paragraph 6. |
+| Capital Transfer Tax Act 1984 (c. 51). | In Schedule 8, paragraph 1. |
+| Administration of Justice Act 1985 (c. 61). | In section 34, in subsection (1), paragraph (b) and the preceding “and” and, in subsection (2), paragraph (b). In Schedule 2, paragraph 37(b). |
+| Insolvency Act 1985 (c. 65). | In Schedule 8, paragraph 5. |
+| Housing Act 1985 (c. 68). | Section 36(3). Section 154(1), (6) and (7). Section 156(3). Section 168(5). In Schedule 9A, paragraphs 2(1), 3 and 5(3). |
+| Land Registration Act 1986 (c. 26). | Sections 1 to 4. |
+| Insolvency Act 1986 (c. 45). | In Schedule 14, the entry relating to the Land Registration Act 1925. |
+| Building Societies Act 1986 (c. 53). | In Schedule 2A, in paragraph 1, sub-paragraph (4) and, in sub-paragraph (5), the definition of “registered land” and the preceding “and”. In Schedule 18, paragraph 2. In Schedule 21, paragraph 9(b). |
+| Patronage (Benefices) Measure 1986 (No. 3). | Section 6. |
+| Landlord and Tenant Act 1987 (c. 31). | Section 28(6). In Schedule 4, paragraphs 1 and 2. |
+| Diplomatic and Consular Premises Act 1987 (c. 46). | In Schedule 1, in paragraph 1, the words from “and expressions” to the end. |
+| Land Registration Act 1988 (c. 3). | The whole Act. |
+| Criminal Justice Act 1988 (c. 33). | Section 77(13). In Schedule 15, paragraphs 6 and 7. |
+| Housing Act 1988 (c. 50). | In Schedule 11, paragraph 2(3). |
+| Finance Act 1989 (c. 26). | Sections 178(2)(e) and 179(1)(a)(iv). |
+| Courts and Legal Services Act 1990 (c. 41). | In Schedule 10, paragraph 3. In Schedule 17, paragraph 2. |
+| Access to Neighbouring Land Act 1992 (c. 23). | Section 5(2) and (3). |
+| Leasehold Reform, Housing and Urban Development Act 1993 (c. 28). | Section 97(3). In Schedule 21, paragraph 1. |
+| Coal Industry Act 1994 (c. 21). | In Schedule 9, paragraph 1. |
+| Law of Property (Miscellaneous Provisions) Act 1994 (c. 36). | In Schedule 1, paragraph 2. |
+| Drug Trafficking Act 1994 (c. 37). | Section 26(13). In Schedule 1, paragraph 1. |
+| Family Law Act 1996 (c. 27). | Section 31(11). In Schedule 8, paragraph 45. |
+| Trusts of Land and Appointment of Trustees Act 1996 (c. 47). | In Schedule 3, paragraph 5. |
+| Housing Act 1996 (c. 52). | Section 11(4). |
+| Housing Grants, Construction and Regeneration Act 1996 (c. 53). | Section 138(3). |
+| Land Registration Act 1997 (c. 2). | Sections 1 to 3 and 5(4) and (5). In Schedule 1, paragraphs 1 to 6. |
+| Greater London Authority Act 1999 (c. 29). | Section 219. |
+| Terrorism Act 2000 (c. 11). | In Schedule 4, paragraph 8(2) and (3). |
+| Trustee Act 2000 (c. 29). | In Schedule 2, paragraph 26. |
+| International Criminal Court Act 2001 (c. 17). | In Schedule 6, paragraph 7(2). |
+
+---
+
+[^F1]: S. 3(4A) inserted (1.4.2012) by Localism Act 2011 (c. 20), ss. 157(2), 240(2); S.I. 2012/628, art. 6(a) (with arts. 9, 11, 14, 15, 17)
+[^F2]: Word preceding s. 4(1)(a)(ii) omitted (6.4.2009) by virtue of The Land Registration Act 2002 (Amendment) Order 2008 (S.I. 2008/2872), art. 2(2)
+[^F3]: S. 4(a)(iii) and preceding word inserted (6.4.2009) by The Land Registration Act 2002 (Amendment) Order 2008 (S.I. 2008/2872), art. 2(2)
+[^F4]: S. 4(1)(aa) inserted (6.4.2009) by The Land Registration Act 2002 (Amendment) Order 2008 (S.I. 2008/2872), art. 2(3)
+[^F5]: Words in s. 4(1)(aa) substituted (14.3.2012) by Charities Act 2011 (c. 25), s. 355, Sch. 7 para. 94 (with s. 20(2), Sch. 8)
+[^F6]: S. 4(5A) inserted (1.4.2012) by Localism Act 2011 (c. 20), ss. 157(3), 240(2); S.I. 2012/628, art. 6(a) (with arts. 9, 11, 14, 15, 17)
+[^F7]: Words in s. 5(1) substituted (9.11.2011) by The Transfer of Functions (Her Majesty's Land Registry, the Meteorological Office and Ordnance Survey) Order 2011 (S.I. 2011/2436), art. 1(2), Sch. 2 para. 4(2)
+[^F8]: Words in s. 5(4) substituted (9.11.2011) by The Transfer of Functions (Her Majesty's Land Registry, the Meteorological Office and Ordnance Survey) Order 2011 (S.I. 2011/2436), art. 1(2), Sch. 2 para. 4(2)
+[^F9]: S. 7(2)(aa) inserted (6.4.2009) by The Land Registration Act 2002 (Amendment) Order 2008 (S.I. 2008/2872), art. 3
+[^F10]: Words in s. 27(2)(d) substituted (31.10.2011 for E. in relation to the pilot areas, 12.11.2014 for E. for specified purposes, 15.12.2014 for E. for specified purposes) by Commons Act 2006 (c. 26), s. 56, Sch. 5 para. 8(2) (with s. 60); S.I. 2011/2460, art. 2(b); S.I. 2014/3026, art. 3(1)(h) (with art. 5)
+[^F11]: S. 27(5A) inserted (1.4.2012) by Localism Act 2011 (c. 20), ss. 157(4), 240(2); S.I. 2012/628, art. 6(a) (with arts. 9, 11, 14, 15, 17)
+[^F12]: S. 33(ba) inserted (1.4.2012) by Localism Act 2011 (c. 20), ss. 157(5), 240(2); S.I. 2012/628, art. 6(a) (with arts. 9, 11, 14, 15, 17)
+[^F13]: Words in s. 33(d) substituted (31.10.2011 for E. in relation to the pilot areas, 12.11.2014 for E. for specified purposes, 15.12.2014 for E. for specified purposes) by Commons Act 2006 (c. 26), s. 56, Sch. 5 para. 8(3) (with s. 60); S.I. 2011/2460, art. 2(b); S.I. 2014/3026, art. 3(1)(h) (with art. 5)
+[^F14]: Words in s. 62(9) substituted (9.11.2011) by The Transfer of Functions (Her Majesty's Land Registry, the Meteorological Office and Ordnance Survey) Order 2011 (S.I. 2011/2436), art. 1(2), Sch. 2 para. 4(2)
+[^F15]: Words in s. 73(7) substituted (1.7.2013) by The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036), art. 1, Sch. 1 para. 226 (with Sch. 3)
+[^F16]: Words in s. 75(4) substituted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 9 para. 52; S.I. 2014/954, art. 2(c) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F17]: Words in s. 76(5) substituted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 9 para. 52; S.I. 2014/954, art. 2(c) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F18]: Words in s. 80(4) substituted (9.11.2011) by The Transfer of Functions (Her Majesty's Land Registry, the Meteorological Office and Ordnance Survey) Order 2011 (S.I. 2011/2436), art. 1(2), Sch. 2 para. 4(2)
+[^F19]: S. 85A and cross-heading inserted (5.9.2022) by Economic Crime (Transparency and Enforcement) Act 2022 (c. 10), s. 69(1), Sch. 3 para. 2; S.I. 2022/876, reg. 4(c)
+[^F20]: Words in s. 86(1) inserted (6.4.2016) by The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481), reg. 1, Sch. 1 para. 15(2)(a)
+[^F21]: Words in s. 86(2) inserted (6.4.2016) by The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481), reg. 1, Sch. 1 para. 15(2)(b)
+[^F22]: Word in s. 86(5) substituted (6.4.2016) by The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481), reg. 1, Sch. 1 para. 15(2)(c)(i)
+[^F23]: Words in s. 86(5)(c)(ii) substituted (6.4.2016) by The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481), reg. 1, Sch. 1 para. 15(2)(c)(ii)
+[^F24]: Word in s. 87(1)(b) inserted (1.10.2015) by Deregulation Act 2015 (c. 20), s. 115(7), Sch. 6 para. 2(16)(a) (with Sch. 6 para. 3); S.I. 2015/1732, art. 2(e)(i)
+[^F25]: S. 87(1)(d) and word omitted (1.10.2015) by virtue of Deregulation Act 2015 (c. 20), s. 115(7), Sch. 6 para. 2(16)(b) (with Sch. 6 para. 3); S.I. 2015/1732, art. 2(e)(i)
+[^F26]: S. 87(2)(b) and word omitted (1.10.2015) by virtue of Deregulation Act 2015 (c. 20), s. 115(7), Sch. 6 para. 2(16)(c) (with Sch. 6 para. 3); S.I. 2015/1732, art. 2(e)(i)
+[^F27]: S. 87(5) omitted (1.10.2015) by virtue of Deregulation Act 2015 (c. 20), s. 115(7), Sch. 6 para. 2(16)(d) (with Sch. 6 para. 3); S.I. 2015/1732, art. 2(e)(i)
+[^F28]: S. 91(9) substituted (6.4.2008) by The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948) , arts. 2(2) , 3(1)(b) , Sch. 1 para. 224 (with arts. 6 , 11 , 12 )
+[^F29]: S. 91(9A) substituted (1.8.2014) by Co-operative and Community Benefit Societies Act 2014 (c. 14) , s. 154 , Sch. 4 para. 80 (with Sch. 5 )
+[^F30]: Words in s. 93(5) substituted (9.11.2011) by The Transfer of Functions (Her Majesty's Land Registry, the Meteorological Office and Ordnance Survey) Order 2011 (S.I. 2011/2436), art. 1(2), Sch. 2 para. 4(2)
+[^F31]: Words in s. 99(3) substituted (9.11.2011) by The Transfer of Functions (Her Majesty's Land Registry, the Meteorological Office and Ordnance Survey) Order 2011 (S.I. 2011/2436), art. 1(2), Sch. 2 para. 4(2)
+[^F32]: Words in s. 100(2) substituted (9.11.2011) by The Transfer of Functions (Her Majesty's Land Registry, the Meteorological Office and Ordnance Survey) Order 2011 (S.I. 2011/2436), art. 1(2), Sch. 2 para. 4(2)
+[^F33]: S. 100(2A) inserted (12.4.2015) by Infrastructure Act 2015 (c. 7), s. 57(5)(e), Sch. 5 para. 18
+[^F34]: Words in s. 100(3) substituted (9.11.2011) by The Transfer of Functions (Her Majesty's Land Registry, the Meteorological Office and Ordnance Survey) Order 2011 (S.I. 2011/2436), art. 1(2), Sch. 2 para. 4(2)
+[^F35]: Words in s. 101(1) substituted (9.11.2011) by The Transfer of Functions (Her Majesty's Land Registry, the Meteorological Office and Ordnance Survey) Order 2011 (S.I. 2011/2436), art. 1(2), Sch. 2 para. 4(2)
+[^F36]: Words in s. 101(3) substituted (9.11.2011) by The Transfer of Functions (Her Majesty's Land Registry, the Meteorological Office and Ordnance Survey) Order 2011 (S.I. 2011/2436), art. 1(2), Sch. 2 para. 4(2)
+[^F37]: Words in s. 102 substituted (9.11.2011) by The Transfer of Functions (Her Majesty's Land Registry, the Meteorological Office and Ordnance Survey) Order 2011 (S.I. 2011/2436), art. 1(2), Sch. 2 para. 4(2)
+[^F38]: S. 105 heading substituted (12.4.2015) by Infrastructure Act 2015 (c. 7), ss. 35(2), 57(5)(e)
+[^F39]: Words in s. 105(1)(a)-(c) substituted (12.4.2015) by Infrastructure Act 2015 (c. 7), ss. 35(1), 57(5)(e)
+[^F40]: Words in s. 106(1) inserted (12.4.2015) by Infrastructure Act 2015 (c. 7), s. 57(5)(e), Sch. 5 para. 19
+[^F41]: S. 106(2): words in definition of "company" substituted (1.10.2009) by The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941), art. 2(1), Sch. 1 para. 193(2) (with art. 10)
+[^F42]: S. 107 omitted (1.7.2013) by virtue of The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036), art. 1, Sch. 1 para. 227 (with Sch. 3)
+[^F43]: Words in s. 108(1) substituted (1.7.2013) by The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036), art. 1, Sch. 1 para. 228(a) (with Sch. 3)
+[^F44]: Word in s. 108(1)(a) substituted (1.7.2013) by The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036), art. 1, Sch. 1 para. 228(b) (with Sch. 3)
+[^F45]: Words in s. 108(2) substituted (1.7.2013) by The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036), art. 1, Sch. 1 para. 228(c) (with Sch. 3)
+[^F46]: S. 108(5) inserted (1.7.2013) by The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036), art. 1, Sch. 1 para. 228(d) (with Sch. 3)
+[^F47]: S. 109 omitted (1.7.2013) by virtue of The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036), art. 1, Sch. 1 para. 229 (with Sch. 3)
+[^F48]: Words in s. 110(1) substituted (1.7.2013) by The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036), art. 1, Sch. 1 para. 230(a) (with Sch. 3)
+[^F49]: Word in s. 110(1) omitted (1.7.2013) by virtue of The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036), art. 1, Sch. 1 para. 230(a) (with Sch. 3)
+[^F50]: Words in s. 110(2) substituted (1.7.2013) by The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036), art. 1, Sch. 1 para. 230(b)(i) (with Sch. 3)
+[^F51]: Words in s. 110(2)(a) substituted (1.7.2013) by The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036), art. 1, Sch. 1 para. 230(b)(ii) (with Sch. 3)
+[^F52]: Words in s. 110(2)(b) substituted (1.7.2013) by The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036), art. 1, Sch. 1 para. 230(b)(ii) (with Sch. 3)
+[^F53]: Words in s. 110(3) substituted (1.7.2013) by The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036), art. 1, Sch. 1 para. 230(c)(i) (with Sch. 3)
+[^F54]: Words in s. 110(3) substituted (1.7.2013) by The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036), art. 1, Sch. 1 para. 230(c)(ii) (with Sch. 3)
+[^F55]: Words in s. 110(3) substituted (1.7.2013) by The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036), art. 1, Sch. 1 para. 230(c)(iii) (with Sch. 3)
+[^F56]: Words in s. 110(4) substituted (1.7.2013) by The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036), art. 1, Sch. 1 para. 230(d) (with Sch. 3)
+[^F57]: S. 111(1)-(2C) substituted for s. 111(1)(2) (1.7.2013) by The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036) , art. 1 , Sch. 1 para. 231(a) (with Sch. 3 )
+[^F58]: Words in s. 111(3) inserted (1.7.2013) by The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036) , art. 1 , Sch. 1 para. 231(b)(i) (with Sch. 3 )
+[^F59]: Words in s. 111(3) substituted (1.7.2013) by The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036) , art. 1 , Sch. 1 para. 231(b)(ii) (with Sch. 3 )
+[^F60]: S. 111(4) inserted (1.7.2013) by The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036) , art. 1 , Sch. 1 para. 231(c) (with Sch. 3 )
+[^F61]: Words in s. 112 substituted (1.7.2013) by The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036), art. 1, Sch. 1 para. 232 (with Sch. 3)
+[^F62]: S. 113 omitted (1.7.2013) by virtue of The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036), art. 1, Sch. 1 para. 233 (with Sch. 3)
+[^F63]: S. 114 omitted (1.7.2013) by virtue of The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036), art. 1, Sch. 1 para. 234 (with Sch. 3)
+[^F64]: Words in s. 118 substituted (9.11.2011) by The Transfer of Functions (Her Majesty's Land Registry, the Meteorological Office and Ordnance Survey) Order 2011 (S.I. 2011/2436), art. 1(2), Sch. 2 para. 4(2)
+[^F65]: S. 121 substituted (1.10.2009) by The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941), art. 2(1), Sch. 1 para. 193(3) (with art. 10)
+[^F66]: Words in s. 121(1) substituted (9.11.2011) by The Transfer of Functions (Her Majesty's Land Registry, the Meteorological Office and Ordnance Survey) Order 2011 (S.I. 2011/2436), art. 1(2), Sch. 2 para. 4(2)
+[^F67]: Words in s. 125(2) inserted (5.12.2005) by Civil Partnership Act 2004 (c. 33), ss. 261(1), 263, Sch. 27 para. 167; S.I. 2005/3175, art. 2(2)
+[^F68]: Words in s. 127(1) substituted (9.11.2011) by The Transfer of Functions (Her Majesty's Land Registry, the Meteorological Office and Ordnance Survey) Order 2011 (S.I. 2011/2436), art. 1(2), Sch. 2 para. 4(2)
+[^F69]: Words in s. 127(2)(a) substituted (1.10.2026) by The Senior Courts (Transfer, Amendment and Consequential Provision) Order 2026 (S.I. 2026/723), art. 1(2), Sch. 1 para. 21
+[^F70]: Words in s. 127(2)(a) substituted (3.4.2006) by Constitutional Reform Act 2005 (c. 4), ss. 15, 148, Sch. 4 para. 302(2); S.I. 2006/1014, art. 2, Sch.
+[^F71]: Words in s. 127(2)(h) inserted (3.4.2006) by Constitutional Reform Act 2005 (c. 4), ss. 15, 148, Sch. 4 para. 302(3); S.I. 2006/1014, art. 2, Sch.
+[^F72]: Words in s. 127(2)(h) substituted (12.4.2015) by Infrastructure Act 2015 (c. 7), ss. 36(1), 57(5)(e) (with s. 36(2))
+[^F73]: Words in s. 127(3) substituted (9.11.2011) by The Transfer of Functions (Her Majesty's Land Registry, the Meteorological Office and Ordnance Survey) Order 2011 (S.I. 2011/2436), art. 1(2), Sch. 2 para. 4(2)
+[^F74]: Words in s. 128(1) inserted (9.11.2011) by The Transfer of Functions (Her Majesty's Land Registry, the Meteorological Office and Ordnance Survey) Order 2011 (S.I. 2011/2436), art. 1(2), Sch. 2 para. 4(3)
+[^F75]: Words in s. 128(2) inserted (9.11.2011) by The Transfer of Functions (Her Majesty's Land Registry, the Meteorological Office and Ordnance Survey) Order 2011 (S.I. 2011/2436), art. 1(2), Sch. 2 para. 4(3)
+[^F76]: Words in s. 128(4)(b) substituted (1.7.2013) by The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036), art. 1, Sch. 1 para. 235(a) (with Sch. 3)
+[^F77]: Word in s. 128(4)(b) omitted (5.9.2022) by virtue of Economic Crime (Transparency and Enforcement) Act 2022 (c. 10), s. 69(1), Sch. 3 para. 4(a); S.I. 2022/876, reg. 4(c)
+[^F78]: S. 128(4)(c) omitted (1.7.2013) by virtue of The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036), art. 1, Sch. 1 para. 235(b) (with Sch. 3)
+[^F79]: S. 128(4)(e) and word inserted (5.9.2022) by Economic Crime (Transparency and Enforcement) Act 2022 (c. 10), s. 69(1), Sch. 3 para. 4(b); S.I. 2022/876, reg. 4(c)
+[^F80]: Words in s. 130(b) substituted (9.11.2011) by The Transfer of Functions (Her Majesty's Land Registry, the Meteorological Office and Ordnance Survey) Order 2011 (S.I. 2011/2436), art. 1(2), Sch. 2 para. 4(2)
+[^F81]: Words in s. 132(1) omitted (1.7.2013) by virtue of The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036), art. 1, Sch. 1 para. 236 (with Sch. 3)
+[^F82]: Words in s. 132(1) inserted (1.4.2012) by Localism Act 2011 (c. 20), ss. 157(6), 240(2); S.I. 2012/628, art. 6(a) (with arts. 9, 11, 14, 15, 17)
+[^F83]: Words in s. 132(3)(a) substituted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 9 para. 52; S.I. 2014/954, art. 2(c) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F84]: Words in s. 134(1) substituted (9.11.2011) by The Transfer of Functions (Her Majesty's Land Registry, the Meteorological Office and Ordnance Survey) Order 2011 (S.I. 2011/2436), art. 1(2), Sch. 2 para. 4(2)
+[^F85]: Sch.1 para. 1A and cross-heading inserted (1.4.2012) by Localism Act 2011 (c. 20), ss. 157(7), 240(2); S.I. 2012/628, art. 6(a) (with arts. 9, 11, 14, 15, 17)
+[^F86]: Sch. 1 paras. 10-14 shall cease to have effect (coming into force in accordance with s. 117(1) of 2002 c. 9) by virtue of 2002 c. 9, ss. 117(1), 136(2) (with ss. 117(2), 129)
+[^F87]: Sch. 1 paras. 10-14 shall cease to have effect at the end of ten years beginning with the day on which Schs. 1 and 3 of the Act come into force by virtue of 2002 c. 9, ss. 117(1), 136(2) (with ss. 117(2), 129)
+[^F88]: Sch. 1 paras. 10-14 shall cease to have effect at the end of ten years beginning with the day on which Schs. 1 and 3 of the Act come into force by virtue of 2002 c. 9, ss. 117(1), 136(2) (with ss. 117(2), 129)
+[^F89]: Sch. 1 paras. 10-14 shall cease to have effect at the end of ten years beginning with the day on which Schs. 1 and 3 of the Act come into force by virtue of 2002 c. 9, ss. 117(1), 136(2) (with ss. 117(2), 129)
+[^F90]: Sch. 1 paras. 10-14 shall cease to have effect at the end of ten years beginning with the day on which Schs. 1 and 3 of the Act come into force by virtue of 2002 c. 9, ss. 117(1), 136(2) (with ss. 117(2), 129)
+[^F91]: Sch. 1 para. 16 inserted (temp. from 13.10.2003 - 13.10.2013) by The Land Registration Act 2002 (Transitional Provisions) (No 2) Order 2003 (S.I. 2003/2431), art. 2(1)
+[^F92]: Sch. 3 para. 1A and cross-heading inserted (1.4.2012) by Localism Act 2011 (c. 20), ss. 157(8), 240(2); S.I. 2012/628, art. 6(a) (with arts. 9, 11, 14, 15, 17)
+[^F93]: Words in Sch. 3 para. 3(1) substituted (31.10.2011 for E. in relation to the pilot areas, 12.11.2014 for E. for specified purposes, 15.12.2014 for E. for specified purposes) by Commons Act 2006 (c. 26), s. 56, Sch. 5 para. 8(4) (with s. 60); S.I. 2011/2460, art. 2(b); S.I. 2014/3026, art. 3(1)(h) (with art. 5)
+[^F94]: Sch. 3 paras. 10-14 shall cease to have effect at the end of ten years beginning with the day on which Schs. 1 and 3 of the Act come into force by virtue of 2002 c. 9, ss. 117(1), 136(2) (with ss. 117(2), 129)
+[^F95]: Sch. 3 paras. 10-14 shall cease to have effect at the end of ten years beginning with the day on which Schs. 1 and 3 of the Act come into force by virtue of 2002 c. 9, ss. 117(1), 136(2) (with ss. 117(2), 129)
+[^F96]: Sch. 3 paras. 10-14 shall cease to have effect at the end of ten years beginning with the day on which Schs. 1 and 3 of the Act come into force by virtue of 2002 c. 9, ss. 117(1), 136(2) (with ss. 117(2), 129)
+[^F97]: Sch. 3 paras. 10-14 shall cease to have effect at the end of ten years beginning with the day on which Schs. 1 and 3 of the Act come into force by virtue of 2002 c. 9, ss. 117(1), 136(2) (with ss. 117(2), 129)
+[^F98]: Sch. 3 paras. 10-14 shall cease to have effect at the end of ten years beginning with the day on which Schs. 1 and 3 of the Act come into force by virtue of 2002 c. 9, ss. 117(1), 136(2) (with ss. 117(2), 129)
+[^F99]: Sch. 3 para. 16 inserted (temp. from 13.10.2003 - 13.10.2013) by The Land Registration Act 2002 (Transitional Provisions) (No 2) Order 2003 (S.I. 2003/2431), art. 2(2)
+[^F100]: Sch. 4A inserted (5.9.2022) by Economic Crime (Transparency and Enforcement) Act 2022 (c. 10), s. 69(1), Sch. 3 para. 3; S.I. 2022/876, reg. 4(c)
+[^F101]: Sch. 4A para. 8 substituted (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by Economic Crime and Corporate Transparency Act 2023 (c. 56), ss. 177(1), 219(1)(2)(b); S.I. 2024/269, reg. 2(z60)
+[^F102]: Words in Sch. 5 para. 4(1) substituted (1.7.2013) by The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036), art. 1, Sch. 1 para. 237(a) (with Sch. 3)
+[^F103]: Words in Sch. 5 para. 4(2) substituted (1.7.2013) by The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036), art. 1, Sch. 1 para. 237(b)(i) (with Sch. 3)
+[^F104]: Words in Sch. 5 para. 4(2) substituted (1.7.2013) by The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036), art. 1, Sch. 1 para. 237(b)(ii) (with Sch. 3)
+[^F105]: Word in Sch. 5 para. 4(2) substituted (1.7.2013) by The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036), art. 1, Sch. 1 para. 237(b)(iii) (with Sch. 3)
+[^F106]: Sch. 5 para. 4(3) omitted (1.7.2013) by virtue of The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036), art. 1, Sch. 1 para. 237(c) (with Sch. 3)
+[^F107]: Words in Sch. 5 para. 11 substituted (9.11.2011) by The Transfer of Functions (Her Majesty's Land Registry, the Meteorological Office and Ordnance Survey) Order 2011 (S.I. 2011/2436), art. 1(2), Sch. 2 para. 4(2)
+[^F108]: Words in Sch. 6 para. 1(1) omitted (31.12.2020) by virtue of The Cross-Border Mediation (EU Directive) (EU Exit) Regulations 2019 (S.I. 2019/469), reg. 1(1), Sch. 1 para. 16(2)(a) (with reg. 5) (as amended by S.I. 2020/1493, regs. 1(1), 4(5)(6)); 2020 c. 1, Sch. 5 para. 1(1)
+[^F109]: Words in Sch. 6 para. 1(2) omitted (31.12.2020) by virtue of The Cross-Border Mediation (EU Directive) (EU Exit) Regulations 2019 (S.I. 2019/469), reg. 1(1), Sch. 1 para. 16(2)(b) (with reg. 5) (as amended by S.I. 2020/1493, regs. 1(1), 4(5)(6)); 2020 c. 1, Sch. 5 para. 1(1)
+[^F110]: Sch. 6 para. 6(1A) omitted (31.12.2020) by virtue of The Cross-Border Mediation (EU Directive) (EU Exit) Regulations 2019 (S.I. 2019/469), reg. 1(1), Sch. 1 para. 16(2)(c) (with reg. 5) (as amended by S.I. 2020/1493, regs. 1(1), 4(5)(6)); 2020 c. 1, Sch. 5 para. 1(1)
+[^F111]: Sch. 6 para. 16 omitted (31.12.2020) by virtue of The Cross-Border Mediation (EU Directive) (EU Exit) Regulations 2019 (S.I. 2019/469), reg. 1(1), Sch. 1 para. 16(2)(d) (with reg. 5) (as amended by S.I. 2020/1493, regs. 1(1), 4(5)(6)); 2020 c. 1, Sch. 5 para. 1(1)
+[^F112]: Words in Sch. 7 para. 1(1)(2) substituted (9.11.2011) by The Transfer of Functions (Her Majesty's Land Registry, the Meteorological Office and Ordnance Survey) Order 2011 (S.I. 2011/2436), art. 1(2), Sch. 2 para. 4(2)
+[^F113]: Words in Sch. 7 para. 2 substituted (9.11.2011) by The Transfer of Functions (Her Majesty's Land Registry, the Meteorological Office and Ordnance Survey) Order 2011 (S.I. 2011/2436), art. 1(2), Sch. 2 para. 4(2)
+[^F114]: Words in Sch. 7 para. 4 inserted (12.4.2015) by Infrastructure Act 2015 (c. 7), s. 57(5)(e), Sch. 5 para. 20
+[^F115]: Sch. 9 omitted (1.7.2013) by virtue of The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036), art. 1, Sch. 1 para. 238 (with Sch. 3)
+[^F116]: Sch. 11 para. 22 repealed (prosp.) by 2002 c. 29, ss. 457, 458(1), Sch. 12
+[^F117]: Sch. 11 para. 29 repealed (14.3.2012) by Charities Act 2011 (c. 25), s. 355, Sch. 10 (with s. 20(2), Sch. 8)
+[^F118]: Sch. 11 para. 32 repealed (prosp.) by 2002 c. 29, ss. 457, 458(1), Sch. 12

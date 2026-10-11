@@ -1,0 +1,278 @@
+---
+title: "Local Government (Contracts) Act 1997"
+identifier: "ukpga/1997/65"
+citation: "1997 c. 65"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S"
+date: 1997-11-27
+last_amended: 2015-04-01
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/1997/65"
+source_modified: 2024-05-17
+retrieved: 2026-10-11
+---
+
+# Local Government (Contracts) Act 1997
+
+**1997 c. 65**
+
+An Act to make provision about the powers of local authorities (including probation committees and the Receiver for the Metropolitan Police District) to enter into contracts; to enable expenditure of local authorities making administrative arrangements for magistrates’ courts to be treated for some purposes as not being capital expenditure; and for connected purposes.
+
+[27th November 1997]
+
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## Contracts for provision of assets or services
+
+### 1 Functions to include power to enter into contracts.
+
+(1) Every statutory provision conferring or imposing a function on a local authority confers power on the local authority to enter into a contract with another person for the provision or making available of assets or services, or both, (whether or not together with goods) for the purposes of, or in connection with, the discharge of the function by the local authority.
+
+(2) Where—
+
+(a) a local authority enters into a contract such as is mentioned in subsection (1) (“the provision contract”) under any statutory provision, and
+
+(b) in connection with the provision contract, a person (“the financier”) makes a loan to, or provides any other form of finance for, a party to the provision contract other than the local authority,
+
+the statutory provision also confers power on the local authority to enter into a contract with the financier, or any insurer of or trustee for the financier, in connection with the provision contract.
+
+(3) The following are local authorities for the purposes of this Act—
+
+(a) any authority with respect to the finances of which [^F1]Part IV of the [^M1][^F1]Local Government and Housing Act 1989 [[^F1]Chapter 1 of Part 1 of the Local Government Act 2003 (capital finance)] has effect at the time in question,
+
+(b) any probation committee,
+
+(c) the Receiver for the Metropolitan Police District, and
+
+(d) any local authority or joint board as defined in section 235(1) of the [^M2]Local Government (Scotland) Act 1973.
+
+(4) In this Act “assets” means assets of any description (whether tangible or intangible), including (in particular) land, buildings, roads, works, plant, machinery, vehicles, vessels, apparatus, equipment and computer software.
+
+(5) Regulations may be made amending subsection (4).
+
+## Certified contracts
+
+### 2 Certified contracts to be intra vires.
+
+(1) Where a local authority has entered into a contract, the contract shall, if it is a certified contract, have effect (and be deemed always to have had effect) as if the local authority had had power to enter into it (and had exercised that power properly in entering into it).
+
+(2) For the purposes of this Act a contract entered into by a local authority is a certified contract if (and, subject to subsections (3) and (4), only if) the certification requirements have been satisfied by the local authority with respect to the contract and they were so satisfied before the end of the certification period.
+
+(3) A contract entered into by a local authority shall be treated as a certified contract during the certification period if the contract provides that the certification requirements are intended to be satisfied by the local authority with respect to the contract before the end of that period.
+
+(4) Where a local authority has entered into a contract which is a certified contract (“the existing contract”) and the existing contract is replaced by a contract entered into by it with a person or persons not identical with the person or persons with whom it entered into the existing contract, the replacement contract is also a certified contract if—
+
+(a) the period for which it operates or is intended to operate ends at the same time as the period for which the existing contract was to operate, and
+
+(b) apart from that, its provisions are the same as those of the existing contract.
+
+(5) In this Act “the certification period”, in relation to a contract entered into by a local authority, means the period of six weeks beginning with the day on which the local authority entered into the contract.
+
+(6) Subsection (1) is subject to section 5 (special provisions about judicial reviews and audit reviews).
+
+(7) The application of subsection (1) in relation to a contract entered into by a local authority does not affect any claim for damages made by a person who is not (and has never been) a party to the contract in respect of a breach by the local authority of any duty to do, or not to do, something before entering into the contract (including, in particular, any such duty imposed by a statutory provision for giving effect to any [[^F2]EU] obligation relating to public procurement or by section 17(1) of the [^M3]Local Government Act 1988).
+
+### 3 The certification requirements.
+
+(1) In this Act “the certification requirements”, in relation to a contract entered into by a local authority, means the requirements specified in subsections (2) to (4).
+
+(2) The requirement specified in this subsection is that the local authority must have issued a certificate (whether before or after the contract is entered into)—
+
+(a) including details of the period for which the contract operates or is to operate,
+
+(b) describing the purpose of the contract,
+
+(c) containing a statement that the contract is or is to be a contract falling within section 4(3) or (4),
+
+(d) stating that the local authority had or has power to enter into the contract and specifying the statutory provision, or each of the statutory provisions, conferring the power,
+
+(e) stating that a copy of the certificate has been or is to be given to each person to whom a copy is required to be given by regulations,
+
+(f) dealing in a manner prescribed by regulations with any matters required by regulations to be dealt with in certificates under this section, and
+
+(g) confirming that the local authority has complied with or is to comply with any requirement imposed by regulations with respect to the issue of certificates under this section.
+
+(3) The requirement specified in this subsection is that the local authority must have secured that the certificate is signed by any person who is required by regulations to sign it.
+
+(4) The requirement specified in this subsection is that the local authority must have obtained consent to the issue of a certificate under this section from each of the persons with whom the local authority has entered, or is to enter, into the contract.
+
+### 4 Certified contracts: supplementary.
+
+(1) Where the certification requirements have been satisfied in relation to a contract by a local authority, the certificate which has been issued shall have effect (and be deemed always to have had effect) as if the local authority had had power to issue it (and had exercised that power properly in issuing it); and a certificate which has been so issued is not invalidated by reason that anything in the certificate is inaccurate or untrue.
+
+(2) Where the certification requirements have been satisfied in relation to a contract by a local authority within section 1(3)(a) or (d), the local authority shall secure that throughout the period for which the contract operates—
+
+(a) a copy of the certificate which has been issued is open to inspection by members of the public at all reasonable times without payment, and
+
+(b) members of the public are afforded facilities for obtaining copies of that certificate on payment of a reasonable fee.
+
+(3) A contract entered into by a local authority falls within this subsection if—
+
+(a) it is entered into with another person for the provision or making available of services (whether or not together with assets or goods) for the purposes of, or in connection with, the discharge by the local authority of any of its functions, and
+
+(b) it operates, or is intended to operate, for a period of at least five years.
+
+(4) A contract entered into by a local authority falls within this subsection if it is entered into, in connection with a contract falling within subsection (3), with—
+
+(a) a person who, in connection with that contract, makes a loan to, or provides any other form of finance for, a party to that contract other than the local authority, or
+
+(b) any insurer of or trustee for such a person.
+
+(5) Regulations may be made amending subsection (3) or (4).
+
+### 5 Special provision for judicial reviews and audit reviews.
+
+(1) Section 2(1) does not apply for the purposes of determining any question arising on—
+
+(a) an application for judicial review, or
+
+(b) an audit review,
+
+as to whether a local authority had power to enter into a contract (or exercised any power properly in entering into a contract).
+
+(2) Section 2(1) has effect subject to any determination or order made in relation to a certified contract on—
+
+(a) an application for judicial review, or
+
+(b) an audit review.
+
+(3) Where, on an application for judicial review or an audit review relating to a certified contract entered into by a local authority, a court—
+
+(a) is of the opinion that the local authority did not have power to enter into the contract (or exercised any power improperly in entering into it), but
+
+(b) (having regard in particular to the likely consequences for the financial position of the local authority, and for the provision of services to the public, of a decision that the contract should not have effect) considers that the contract should have effect,
+
+the court may determine that the contract has (and always has had) effect as if the local authority had had power to enter into it (and had exercised that power properly in entering into it).
+
+(4) In this section and sections 6 and 7 references to an application for judicial review include any appeal (or further appeal) against a determination or order made on such an application.
+
+### 6 Relevant discharge terms.
+
+(1) No determination or order made in relation to a certified contract on—
+
+(a) an application for judicial review, or
+
+(b) an audit review,
+
+shall affect the enforceability of any relevant discharge terms relating to the contract.
+
+(2) In this section and section 7 “relevant discharge terms”, in relation to a contract entered into by a local authority, means terms—
+
+(a) which have been agreed by the local authority and any person with whom the local authority entered into the contract,
+
+(b) which either form part of the contract or constitute or form part of another agreement entered into by them not later than the day on which the contract was entered into, and
+
+(c) which provide for a consequence mentioned in subsection (3) to ensue in the event of the making of a determination or order in relation to the contract on an application for judicial review or an audit review.
+
+(3) Those consequences are—
+
+(a) the payment of compensatory damages (measured by reference to loss incurred or loss of profits or to any other circumstances) by one of the parties to the other,
+
+(b) the adjustment between the parties of rights and liabilities relating to any assets or goods provided or made available under the contract, or
+
+(c) both of those things.
+
+(4) Where a local authority has agreed relevant discharge terms with any person with whom it has entered into a contract and the contract is a certified contract, the relevant discharge terms shall have effect (and be deemed always to have had effect) as if the local authority had had power to agree them (and had exercised that power properly in agreeing them).
+
+### 7 Absence of relevant discharge terms.
+
+(1) Subsection (2) applies where—
+
+(a) the result of a determination or order made by a court on an application for judicial review or an audit review is that a certified contract does not have effect, and
+
+(b) there are no relevant discharge terms having effect between the local authority and a person who is a party to the contract.
+
+(2) That person shall be entitled to be paid by the local authority such sums (if any) as he would have been entitled to be paid by the local authority if the contract—
+
+(a) had had effect until the time when the determination or order was made, but
+
+(b) had been terminated at that time by acceptance by him of a repudiatory breach by the local authority.
+
+(3) For the purposes of this section the circumstances in which there are no relevant discharge terms having effect between the local authority and a person who is a party to the contract include (as well as circumstances in which no such terms have been agreed) circumstances in which the result of a determination or order of a court, made (despite section 6(4)) on an application for judicial review or an audit review, is that such terms do not have effect.
+
+### 8 Audit reviews.
+
+(1) In this Act “an audit review” means—
+
+(a) an application or appeal under [[^F3]section 28 of the Local Audit and Accountability Act 2014] [[^F4]or section 32 of the Public Audit (Wales) Act 2004] (application by auditor, or appeal by person objecting to accounts, for declaration as to unlawful item of account),
+
+[^F5]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F5]c . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(d) consideration by the Controller of Audit of whether to make a special report to the Accounts Commission for Scotland under section 102(3) of the [^M4]Local Government (Scotland) Act 1973 (reports to Commission by Controller of Audit),
+
+(e) consideration by the Accounts Commission for Scotland of whether to send a special report to the Secretary of State under section 103(3) of that Act (action by Commission on reports by Controller of Audit), or
+
+(f) consideration by the Court of Session of a case stated under section 103(2)(c) of that Act (Commission may state case on a question of law for opinion of Court of Session),
+
+or any appeal (or further appeal) against a decision made on an application referred to in paragraph (a) or on an appeal referred to in [[^F6]that paragraph] .
+
+[^F7]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 9 Contracting out of functions in connection with certified contracts.
+
+(1) An authorisation given by virtue of an order under section 70 of the [^M5]Deregulation and Contracting Out Act 1994 (authorisation by local authority of exercise by another person of functions of authority for period not exceeding ten years) may specify that it is to be for a period exceeding ten years if it is given in connection with a certified contract.
+
+(2) But an authorisation given in connection with a certified contract may not by virtue of subsection (1) specify that it is to be for a period exceeding the shorter of—
+
+(a) the period for which the contract is to operate, and
+
+(b) forty years.
+
+(3) For the purposes of this section an authorisation is given in connection with a certified contract if—
+
+(a) the authority by which it is given is a local authority for the purposes of this Act,
+
+(b) the authority and the authorised person are parties to the contract, and
+
+(c) the authorisation is given to enable the authorised person to perform or better perform his obligations under the contract.
+
+## Grants relating to expenditure in respect of magistrates’ courts
+
+### [^F8]10 Power to treat expenditure as not being capital expenditure.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Supplementary
+
+### 11 Regulations.
+
+(1) Any power to make regulations under this Act is exercisable by the Secretary of State by statutory instrument and may be exercised so as to make different provision for different purposes or for different cases (including different provision for different areas).
+
+(2) No regulations shall be made under section 4(5) unless a draft of the statutory instrument containing them has been laid before and approved by a resolution of each House of Parliament.
+
+(3) Subject to that, a statutory instrument containing regulations under this Act shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+### 12 Short title, commencement and extent.
+
+(1) This Act may be cited as the Local Government (Contracts) Act 1997.
+
+(2) Sections 2 to 9 shall not come into force until a day appointed by the Secretary of State by order made by statutory instrument; and different days may be appointed for different provisions or purposes.
+
+(3) Sections 1 to 9 apply to any contract which a local authority enters into after 12th June 1997; but in relation to a contract entered into before the day on which section 2 comes into force “the certification period” means the period of six weeks beginning with that day.
+
+[^F9]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) This Act does not extend to Northern Ireland.
+
+---
+
+[^F1]: Words in s. 1(3)(a) substituted (27.11.2003 for W. for the purpose of and in relation to financial years beginning on or after 1.4.2004 and 1.4.2004 for E.) by Local Government Act 2003 (c. 26), s. 128(6), Sch. 7 para. 64; S.I. 2003/3034, art. 2, Sch. 1 Pt. 1; S.I. 2003/2938, art. 7(a) (with art. 8, Sch.)
+[^M1]: 1989 c. 42.
+[^M2]: 1973 c. 65.
+[^F2]: Words in Act substituted (22.4.2011) by The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043), arts. 2, 3, 6 (with art. 3(2)(3), 4(2), 6(4)(5))
+[^M3]: 1988 c. 9.
+[^F3]: Words in s. 8(1)(a) substituted (1.4.2015) by Local Audit and Accountability Act 2014 (c. 2), s. 49(1), Sch. 12 para. 35(2)(a); S.I. 2015/841, art. 3(x)
+[^F4]: Words in s. 8(1)(a) inserted (1.4.2005) by Public Audit (Wales) Act 2004 (c. 23), s. 73, Sch. 2 para. 20(a); S.I. 2005/558, art. 2, Sch. 1
+[^F5]: S. 8(1)(b)(c) omitted (1.4.2015) by virtue of Local Audit and Accountability Act 2014 (c. 2), s. 49(1), Sch. 12 para. 35(2)(b); S.I. 2015/841, art. 3(x); S.I. 2015/841, art. 3(x)
+[^M4]: 1973 c. 65.
+[^F6]: Words in s. 8(1) substituted (1.4.2015) by Local Audit and Accountability Act 2014 (c. 2), s. 49(1), Sch. 12 para. 35(2)(c); S.I. 2015/841, art. 3(x)
+[^F7]: S. 8(2) omitted (1.4.2015) by virtue of Local Audit and Accountability Act 2014 (c. 2), s. 49(1), Sch. 12 para. 35(3); S.I. 2015/841, art. 3(x)
+[^M5]: 1994 c. 40.
+[^F8]: S. 10 repealed (1.4.2005) by Courts Act 2003 (c. 39), s. 110(1), Sch. 10; S.I. 2005/910, art. 3(aa)
+[^F9]: S. 12(4) repealed (1.4.2005) by Courts Act 2003 (c. 39), s. 110(1), Sch. 10; S.I. 2005/910, art. 3(aa)

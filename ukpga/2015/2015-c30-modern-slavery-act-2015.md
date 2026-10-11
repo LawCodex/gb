@@ -1,0 +1,3503 @@
+---
+title: "Modern Slavery Act 2015"
+identifier: "ukpga/2015/30"
+citation: "2015 c. 30"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S+N.I."
+date: 2015-03-26
+last_amended: 2026-09-29
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/2015/30"
+source_modified: 2026-09-29
+retrieved: 2026-10-11
+---
+
+# Modern Slavery Act 2015
+
+**2015 c. 30**
+
+An Act to make provision about slavery, servitude and forced or compulsory labour and about human trafficking, including provision for the protection of victims; to make provision for an Independent Anti-slavery Commissioner; and for connected purposes.
+
+[26th March 2015]
+
+Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## PART 1 — Offences
+
+### Offences
+
+#### 1 Slavery, servitude and forced or compulsory labour
+
+(1) A person commits an offence if—
+
+(a) the person holds another person in slavery or servitude and the circumstances are such that the person knows or ought to know that the other person is held in slavery or servitude, or
+
+(b) the person requires another person to perform forced or compulsory labour and the circumstances are such that the person knows or ought to know that the other person is being required to perform forced or compulsory labour.
+
+(2) In subsection (1) the references to holding a person in slavery or servitude or requiring a person to perform forced or compulsory labour are to be construed in accordance with Article 4 of the Human Rights Convention.
+
+(3) In determining whether a person is being held in slavery or servitude or required to perform forced or compulsory labour, regard may be had to all the circumstances.
+
+(4) For example, regard may be had—
+
+(a) to any of the person's personal circumstances (such as the person being a child, the person's family relationships, and any mental or physical illness) which may make the person more vulnerable than other persons;
+
+(b) to any work or services provided by the person, including work or services provided in circumstances which constitute exploitation within section 3(3) to (6).
+
+(5) The consent of a person (whether an adult or a child) to any of the acts alleged to constitute holding the person in slavery or servitude, or requiring the person to perform forced or compulsory labour, does not preclude a determination that the person is being held in slavery or servitude, or required to perform forced or compulsory labour.
+
+#### 2 Human trafficking
+
+(1) A person commits an offence if the person arranges or facilitates the travel of another person (“V”) with a view to V being exploited.
+
+(2) It is irrelevant whether V consents to the travel (whether V is an adult or a child).
+
+(3) A person may in particular arrange or facilitate V's travel by recruiting V, transporting or transferring V, harbouring or receiving V, or transferring or exchanging control over V.
+
+(4) A person arranges or facilitates V's travel with a view to V being exploited only if—
+
+(a) the person intends to exploit V (in any part of the world) during or after the travel, or
+
+(b) the person knows or ought to know that another person is likely to exploit V (in any part of the world) during or after the travel.
+
+(5) “Travel” means—
+
+(a) arriving in, or entering, any country,
+
+(b) departing from any country,
+
+(c) travelling within any country.
+
+(6) A person who is a UK national commits an offence under this section regardless of—
+
+(a) where the arranging or facilitating takes place, or
+
+(b) where the travel takes place.
+
+(7) A person who is not a UK national commits an offence under this section if—
+
+(a) any part of the arranging or facilitating takes place in the United Kingdom, or
+
+(b) the travel consists of arrival in or entry into, departure from, or travel within, the United Kingdom.
+
+#### 3 Meaning of exploitation
+
+(1) For the purposes of section 2 a person is exploited only if one or more of the following subsections apply in relation to the person.
+
+(2) The person is the victim of behaviour—
+
+(a) which involves the commission of an offence under section 1, or
+
+(b) which would involve the commission of an offence under that section if it took place in England and Wales.
+
+(3) Something is done to or in respect of the person—
+
+(a) which involves the commission of an offence under—
+
+(i) section 1(1)(a) of the Protection of Children Act 1978 (indecent photographs of children), or
+
+(ii) Part 1 of the Sexual Offences Act 2003 (sexual offences), as it has effect in England and Wales, or
+
+(b) which would involve the commission of such an offence if it were done in England and Wales.
+
+(4) The person is encouraged, required or expected to do anything—
+
+(a) which involves the commission, by him or her or another person, of an offence under section 32 or 33 of the Human Tissue Act 2004 (prohibition of commercial dealings in organs and restrictions on use of live donors) as it has effect in England and Wales, or
+
+(b) which would involve the commission of such an offence, by him or her or another person, if it were done in England and Wales.
+
+(5) The person is subjected to force, threats or deception designed to induce him or her—
+
+(a) to provide services of any kind,
+
+(b) to provide another person with benefits of any kind, or
+
+(c) to enable another person to acquire benefits of any kind.
+
+(6) Another person uses or attempts to use the person for a purpose within paragraph (a), (b) or (c) of subsection (5), having chosen him or her for that purpose on the grounds that—
+
+(a) he or she is a child, is mentally or physically ill or disabled, or has a family relationship with a particular person, and
+
+(b) an adult, or a person without the illness, disability, or family relationship, would be likely to refuse to be used for that purpose.
+
+#### 4 Committing offence with intent to commit offence under section 2
+
+A person commits an offence under this section if the person commits any offence with the intention of committing an offence under section 2 (including an offence committed by aiding, abetting, counselling or procuring an offence under that section).
+
+### Penalties and sentencing
+
+#### 5 Penalties
+
+(1) A person guilty of an offence under section 1 or 2 is liable—
+
+(a) on conviction on indictment, to imprisonment for life;
+
+(b) on summary conviction, to imprisonment for a term not exceeding [[^F1]the general limit in a magistrates’ court] or a fine or both.
+
+(2) A person guilty of an offence under section 4 is liable (unless subsection (3) applies)—
+
+(a) on conviction on indictment, to imprisonment for a term not exceeding 10 years;
+
+(b) on summary conviction, to imprisonment for a term not exceeding [[^F2]the general limit in a magistrates’ court] or a fine or both.
+
+(3) Where the offence under section 4 is committed by kidnapping or false imprisonment, a person guilty of that offence is liable, on conviction on indictment, to imprisonment for life.
+
+(4) In relation to an offence committed before [[^F3]2 May 2022], the references in subsections (1)(b) and (2)(b) to [[^F4]the general limit in a magistrates’ court] are to be read as references to 6 months.
+
+#### 6 Sentencing
+
+(1) The Criminal Justice Act 2003 is amended as follows.
+
+(2) In Part 1 of Schedule 15 (specified offences for purposes of Chapter 5 of Part 12 - violent offences), after paragraph 63F insert—
+
+> **63G**
+>
+> An offence under section 1 of the Modern Slavery Act 2015 (slavery, servitude and forced or compulsory labour).
+>
+> **63H**
+>
+> An offence under section 2 of that Act (human trafficking) which is not within Part 2 of this Schedule.
+
+(3) In Part 2 of Schedule 15 (specified offences for purposes of Chapter 5 of Part 12 - sexual offences), after paragraph 152 insert—
+
+> **152A**
+>
+> An offence under section 2 of the Modern Slavery Act 2015 (human trafficking) committed with a view to exploitation that consists of or includes behaviour within section 3(3) of that Act (sexual exploitation).
+
+[^F5]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 7 Confiscation of assets
+
+(1) Schedule 2 to the Proceeds of Crime Act 2002 (criminal lifestyle offences in England and Wales) is amended as follows.
+
+(2) After paragraph 3 insert—
+
+> **3A Slavery etc**
+>
+> An offence under section 1 of the Modern Slavery Act 2015 (slavery, servitude and forced or compulsory labour).
+
+(3) In paragraph 4 (people trafficking)—
+
+(a) omit sub-paragraphs (2) and (3);
+
+(b) at the end insert—
+
+> (4) An offence under section 2 of the Modern Slavery Act 2015 (human trafficking).
+
+#### 8 Power to make slavery and trafficking reparation orders
+
+(1) The court may make a slavery and trafficking reparation order against a person if—
+
+(a) the person has been convicted of an offence under section 1, 2 or 4, and
+
+(b) a confiscation order is made against the person in respect of the offence.
+
+(2) The court may also make a slavery and trafficking reparation order against a person if—
+
+(a) by virtue of section 28 of the Proceeds of Crime Act 2002 (defendants who abscond during proceedings) a confiscation order has been made against a person in respect of an offence under section 1, 2 or 4, and
+
+(b) the person is later convicted of the offence.
+
+(3) The court may make a slavery and trafficking reparation order against the person in addition to dealing with the person in any other way (subject to section 10(1)).
+
+(4) In a case within subsection (1) the court may make a slavery and trafficking reparation order against the person even if the person has been sentenced for the offence before the confiscation order is made.
+
+(5) In determining whether to make a slavery and trafficking reparation order against the person the court must have regard to the person's means.
+
+(6) If the court considers that—
+
+(a) it would be appropriate both to impose a fine and to make a slavery and trafficking reparation order, but
+
+(b) the person has insufficient means to pay both an appropriate fine and appropriate compensation under such an order,
+
+the court must give preference to compensation (although it may impose a fine as well).
+
+(7) In any case in which the court has power to make a slavery and trafficking reparation order it must—
+
+(a) consider whether to make such an order (whether or not an application for such an order is made), and
+
+(b) if it does not make an order, give reasons.
+
+(8) In this section—
+
+(a) “the court” means—
+
+(i) the Crown Court, or
+
+(ii) any magistrates' court that has power to make a confiscation order by virtue of an order under section 97 of the Serious Organised Crime and Police Act 2005 (confiscation orders by magistrates' courts);
+
+(b) “confiscation order” means a confiscation order under section 6 of the Proceeds of Crime Act 2002;
+
+(c) a confiscation order is made in respect of an offence if the offence is the offence (or one of the offences) concerned for the purposes of Part 2 of that Act.
+
+#### 9 Effect of slavery and trafficking reparation orders
+
+(1) A slavery and trafficking reparation order is an order requiring the person against whom it is made to pay compensation to the victim of a relevant offence for any harm resulting from that offence.
+
+(2) “Relevant offence” means—
+
+(a) the offence under section 1, 2 or 4 of which the person is convicted;
+
+(b) any other offence under section 1, 2 or 4 which is taken into consideration in determining the person's sentence.
+
+(3) The amount of the compensation is to be such amount as the court considers appropriate having regard to any evidence and to any representations made by or on behalf of the person or the prosecutor, but subject to subsection (4).
+
+(4) The amount of the compensation payable under the slavery and trafficking reparation order (or if more than one order is made in the same proceedings, the total amount of the compensation payable under those orders) must not exceed the amount the person is required to pay under the confiscation order.
+
+(5) In determining the amount to be paid by the person under a slavery and trafficking reparation order the court must have regard to the person's means.
+
+(6) In subsection (4) “the confiscation order” means the confiscation order within section 8(1)(b) or (2)(a) (as the case may be).
+
+#### 10 Slavery and trafficking reparation orders: supplementary provision
+
+(1) A slavery and trafficking reparation order and a compensation order under [[^F6]Chapter 2 of Part 7 of the Sentencing Code] may not both be made in respect of the same offence.
+
+(2) Where the court makes a slavery and trafficking reparation order as mentioned in section 8(4), for the purposes of the following provisions the person's sentence is to be regarded as imposed or made on the day on which the order is made—
+
+(a) section 18(2) of the Criminal Appeal Act 1968 (time limit for notice of appeal or application for leave to appeal);
+
+(b) paragraph 1 of Schedule 3 to the Criminal Justice Act 1988 (time limit for notice of application for leave to refer a case under section 36 of that Act).
+
+(3) [[^F7]Sections 141, 143 and 144 of the Sentencing Code] (appeals, review etc of compensation orders) apply to slavery and trafficking reparation orders as if—
+
+(a) references to a compensation order were references to a slavery and trafficking reparation order;
+
+(b) references to the court of trial were references to the court (within the meaning of section 8 above);
+
+(c) references to injury, loss or damage were references to harm;
+
+[[^F8](d) the reference in section 143(5)(b)(iii) to a slavery and trafficking reparation order under section 8 above were to a compensation order under Chapter 2 of Part 7 of the Sentencing Code.]
+
+[^F9]e . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) If under section 21 or 22 of the Proceeds of Crime Act 2002 the court varies a confiscation order so as to increase the amount required to be paid under that order, it may also vary any slavery and trafficking reparation order made by virtue of the confiscation order so as to increase the amount required to be paid under the slavery and trafficking reparation order.
+
+(5) If under section 23 or 29 of that Act the court varies a confiscation order so as to reduce the amount required to be paid under that order, it may also—
+
+(a) vary any relevant slavery and trafficking reparation order so as to reduce the amount which remains to be paid under that order;
+
+(b) discharge any relevant slavery and trafficking reparation order.
+
+(6) If under section [[^F10]24A] [[^F11]or 25A] of that Act the court [[^F12]provisionally discharges or (as the case may be)] discharges a confiscation order, it may also discharge any relevant slavery and trafficking reparation order.
+
+(7) For the purposes of subsections (5) and (6) a slavery and trafficking reparation order is relevant if it is made by virtue of the confiscation order and some or all of the amount required to be paid under it has not been paid.
+
+(8) If on an appeal under section [[^F13]67E(1) or (2) or 67G(1)] of the Proceeds of Crime Act 2002 the Court of Appeal—
+
+(a) quashes a confiscation order, it must also quash any slavery and trafficking reparation order made by virtue of the confiscation order;
+
+(b) varies a confiscation order, it may also vary any slavery and trafficking reparation order made by virtue of the confiscation order;
+
+(c) makes a confiscation order, it may make any slavery and trafficking reparation order that could have been made under section 8 above by virtue of the confiscation order.
+
+(9) If on an appeal under section [[^F14]67E(6) or 67G(5)] of that Act the Supreme Court—
+
+(a) quashes a confiscation order, it must also quash any slavery and trafficking reparation order made by virtue of the confiscation order;
+
+(b) varies a confiscation order, it may also vary any slavery and trafficking reparation order made by virtue of the confiscation order.
+
+(10) For the purposes of this section—
+
+(a) a slavery and trafficking reparation order made under section 8(1) is made by virtue of the confiscation order within section 8(1)(b);
+
+(b) a slavery and trafficking reparation order made under section 8(2) is made by virtue of the confiscation order within section 8(2)(a).
+
+#### 11 Forfeiture of land vehicle, ship or aircraft
+
+(1) This section applies if a person is convicted on indictment of an offence under section 2.
+
+(2) The court may order the forfeiture of a land vehicle used or intended to be used in connection with the offence if the convicted person—
+
+(a) owned the vehicle at the time the offence was committed,
+
+(b) was at that time a director, secretary or manager of a company which owned the vehicle,
+
+(c) was at that time in possession of the vehicle under a hire-purchase agreement,
+
+(d) was at that time a director, secretary or manager of a company which was in possession of the vehicle under a hire-purchase agreement, or
+
+(e) was driving the vehicle in the course of the commission of the offence.
+
+(3) The court may order the forfeiture of a ship or aircraft used or intended to be used in connection with the offence if the convicted person—
+
+(a) owned the ship or aircraft at the time the offence was committed,
+
+(b) was at that time a director, secretary or manager of a company which owned the ship or aircraft,
+
+(c) was at that time in possession of the ship or aircraft under a hire-purchase agreement,
+
+(d) was at that time a director, secretary or manager of a company which was in possession of the ship or aircraft under a hire-purchase agreement,
+
+(e) was at that time a charterer of the ship or aircraft, or
+
+(f) committed the offence while acting as captain of the ship or aircraft.
+
+(4) But where subsection (3)(a) or (b) does not apply to the convicted person, forfeiture of a ship or aircraft may be ordered only if subsection (5) applies or—
+
+(a) in the case of a ship other than a hovercraft, its gross tonnage is less than 500 tons;
+
+(b) in the case of an aircraft, the maximum weight at which it may take off in accordance with its certificate of airworthiness is less than 5,700 kilogrammes.
+
+(5) This subsection applies where a person who, at the time the offence was committed—
+
+(a) owned the ship or aircraft, or
+
+(b) was a director, secretary or manager of a company which owned it,
+
+knew or ought to have known of the intention to use it in the course of the commission of an offence under section 2.
+
+(6) Where a person who claims to have an interest in a land vehicle, ship or aircraft applies to a court to make representations about its forfeiture, the court may not order its forfeiture without giving the person an opportunity to make representations.
+
+### Supplementary
+
+#### [^F15]11A Enforcement by Gangmasters and Labour Abuse Authority
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 12 Detention of land vehicle, ship or aircraft
+
+(1) If a person (“P”) has been arrested for an offence under section 2, a constable or senior immigration officer may detain a relevant land vehicle, ship or aircraft.
+
+(2) A land vehicle, ship or aircraft is relevant if the constable or officer has reasonable grounds to believe that an order for its forfeiture could be made under section 11 if P were convicted of the offence.
+
+(3) The land vehicle, ship or aircraft may be detained—
+
+(a) until a decision is taken as to whether or not to charge P with the offence,
+
+(b) if P has been charged, until P is acquitted, the charge against P is dismissed or the proceedings are discontinued, or
+
+(c) if P has been charged and convicted, until the court decides whether or not to order forfeiture of the vehicle, ship or aircraft.
+
+(4) A person (other than P) may apply to the court for the release of the land vehicle, ship or aircraft on the grounds that the person—
+
+(a) owns the vehicle, ship or aircraft,
+
+(b) was, immediately before the detention of the vehicle, ship or aircraft, in possession of it under a hire-purchase agreement, or
+
+(c) is a charterer of the ship or aircraft.
+
+(5) The court to which an application is made under subsection (4) may, if satisfactory security or surety is tendered, release the land vehicle, ship or aircraft on condition that it is made available to the court if—
+
+(a) P is convicted, and
+
+(b) an order for its forfeiture is made under section 11.
+
+(6) In this section, “the court” means—
+
+(a) if P has not been charged, or P has been charged but proceedings for the offence have not begun to be heard, a magistrates' court;
+
+(b) if P has been charged and proceedings for the offence have begun to be heard, the court hearing the proceedings.
+
+(7) In this section, “senior immigration officer” means an immigration officer not below the rank of chief immigration officer.
+
+#### 13 Interpretation of Part 1
+
+(1) In this Part—
+
+- “captain” means master (of a ship) or commander (of an aircraft);
+
+- “confiscation order” has the meaning given by section 8(8);
+
+- “the Human Rights Convention” means the Convention for the Protection of Human Rights and Fundamental Freedoms agreed by the Council of Europe at Rome on 4th November 1950;
+
+- “land vehicle” means any vehicle other than a ship or aircraft;
+
+- “ship” includes every description of vessel (including a hovercraft) used in navigation;
+
+- “slavery and trafficking reparation order” means an order made under section 8;
+
+- “UK national” means—
+
+  - (a) a British citizen,
+  - (b) a person who is a British subject by virtue of Part 4 of the British Nationality Act 1981 and who has a right of abode in the United Kingdom, or
+  - (c) a person who is a British overseas territories citizen by virtue of a connection with Gibraltar.
+
+(2) In sections 8 and 10, references to provisions of the Proceeds of Crime Act 2002 include references to those provisions as amended or otherwise modified by virtue of an order (whenever made) under section 97 of the Serious Organised Crime and Police Act 2005 (confiscation orders by magistrates' courts).
+
+(3) In sections 11 and 12, a reference to being an owner of a vehicle, ship or aircraft includes a reference to being any of a number of persons who jointly own it.
+
+## PART 2 — Prevention orders
+
+### Slavery and trafficking prevention orders
+
+#### 14 Slavery and trafficking prevention orders on sentencing
+
+(1) A court may make a slavery and trafficking prevention order against a person (“the defendant”) where it deals with the defendant in respect of—
+
+(a) a conviction for a slavery or human trafficking offence,
+
+(b) a finding that the defendant is not guilty of a slavery or human trafficking offence by reason of insanity, or
+
+(c) a finding that the defendant is under a disability and has done the act charged against the defendant in respect of a slavery or human trafficking offence.
+
+(2) The court may make the order only if it is satisfied that—
+
+(a) there is a risk that the defendant may commit a slavery or human trafficking offence, and
+
+(b) it is necessary to make the order for the purpose of protecting persons generally, or particular persons, from the physical or psychological harm which would be likely to occur if the defendant committed such an offence.
+
+(3) A “slavery or human trafficking offence” means an offence listed in Schedule 1.
+
+(4) The Secretary of State may by regulations amend Schedule 1.
+
+(5) For the purposes of this section, convictions and findings include those taking place before this section comes into force.
+
+#### 15 Slavery and trafficking prevention orders on application
+
+(1) A magistrates' court may make a slavery and trafficking prevention order against a person (“the defendant”) on an application by—
+
+(a) a chief officer of police,
+
+(b) an immigration officer, [^F16]...
+
+(c) the Director General of the National Crime Agency (“the Director General”) [[^F17], or
+
+[[^F18](ca) if it appears that an offence under this Part which is a labour market offence has been, is being or may be committed, the Secretary of State.]]
+
+(2) The court may make the order only if it is satisfied that—
+
+(a) the defendant is a relevant offender (see section 16), and
+
+(b) since the defendant first became a relevant offender, the defendant has acted in a way which means that the condition in subsection (3) is met.
+
+(3) The condition is that—
+
+(a) there is a risk that the defendant may commit a slavery or human trafficking offence, and
+
+(b) it is necessary to make the order for the purpose of protecting persons generally, or particular persons, from the physical or psychological harm which would be likely to occur if the defendant committed such an offence.
+
+(4) A chief officer of police may make an application under this section only in respect of a person—
+
+(a) who lives in the chief officer's police area, or
+
+(b) who the chief officer believes is in that area or is intending to come to it.
+
+(5) An application under this section is to be made by complaint, and may be made to any magistrates' court acting for a local justice area that includes—
+
+(a) any part of a relevant police area, or
+
+(b) any place where it is alleged that the defendant acted in a way mentioned in subsection (2)(b).
+
+(6) Where the defendant is under 18, a reference in this section to a magistrates' court is to be taken as referring to a youth court (subject to any rules of court made under section 32).
+
+(7) Where an immigration officer [[^F19], the Director General or the [[^F20]Secretary of State]] makes an application under this section, the officer [[^F21], the Director General or [[^F22]the Secretary of State]] must give notice of the application to the chief officer of police for a relevant police area.
+
+(8) In this section “relevant police area” means—
+
+(a) where the applicant is a chief officer of police, the officer's police area;
+
+(b) where the applicant is an immigration officer [[^F23], the Director General or the [[^F24]Secretary of State]], the police area where the defendant lives or a police area which the officer [[^F25], the Director General or [[^F26]the Secretary of State]] believes the defendant is in or is intending to come to.
+
+(9) The acts of the defendant which may be relied on for the purposes of subsection (2)(b) include acts taking place before this section comes into force.
+
+#### 16 Meaning of “relevant offender”
+
+(1) A person is a “relevant offender” for the purposes of section 15 if subsection (2) or (3) applies to the person.
+
+(2) This subsection applies to a person if—
+
+(a) the person has been convicted of a slavery or human trafficking offence,
+
+(b) a court has made a finding that the person is not guilty of a slavery or human trafficking offence by reason of insanity,
+
+(c) a court has made a finding that the person is under a disability and has done the act charged against the person in respect of a slavery or human trafficking offence, or
+
+(d) the person has been cautioned in respect of a slavery or human trafficking offence.
+
+(3) This subsection applies to a person if, under the law of a country outside the United Kingdom—
+
+(a) the person has been convicted of an equivalent offence (whether or not the person has been punished for it),
+
+(b) a court has made, in relation to an equivalent offence, a finding equivalent to a finding that the person is not guilty by reason of insanity,
+
+(c) a court has made, in relation to an equivalent offence, a finding equivalent to a finding that the person is under a disability and has done the act charged against the person, or
+
+(d) the person has been cautioned in respect of an equivalent offence.
+
+(4) An “equivalent offence” means an act which—
+
+(a) constituted an offence under the law of the country concerned, and
+
+(b) would have constituted a slavery or human trafficking offence under the law of England and Wales if it had been done in England and Wales, or by a UK national, or as regards the United Kingdom.
+
+(5) For the purposes of subsection (4) an act punishable under the law of a country outside the United Kingdom constitutes an offence under that law, however it is described in that law.
+
+(6) On an application under section 15 where subsection (3) is alleged to apply to the defendant, the condition in subsection (4)(b) is to be taken as met unless—
+
+(a) not later than provided by rules of court, the defendant serves on the applicant a notice which states that in the defendant's opinion the condition is not met, shows the grounds for that opinion, and requires the applicant to prove that the condition is met, or
+
+(b) the court permits the defendant to require the applicant to prove that the condition is met without service of such a notice.
+
+(7) References in this section to convictions, findings and cautions include those taking place before this section comes into force.
+
+#### 17 Effect of slavery and trafficking prevention orders
+
+(1) A slavery and trafficking prevention order is an order prohibiting the defendant from doing anything described in the order.
+
+(2) The only prohibitions that may be included in the order are those which the court is satisfied are necessary for the purpose of protecting persons generally, or particular persons, from the physical or psychological harm which would be likely to occur if the defendant committed a slavery or human trafficking offence.
+
+(3) The order may prohibit the defendant from doing things in any part of the United Kingdom, and anywhere outside the United Kingdom.
+
+(4) Subject to section 18(1), a prohibition contained in a slavery and trafficking prevention order has effect—
+
+(a) for a fixed period, specified in the order, of at least 5 years, or
+
+(b) until further order.
+
+(5) A slavery and trafficking prevention order—
+
+(a) may specify that some of its prohibitions have effect until further order and some for a fixed period;
+
+(b) may specify different periods for different prohibitions.
+
+(6) If a court makes a slavery and trafficking prevention order in relation to a person who is already subject to such an order (whether made by that court or another), the earlier order ceases to have effect.
+
+#### 18 Prohibitions on foreign travel
+
+(1) A prohibition on foreign travel contained in a slavery and trafficking prevention order must be for a fixed period of not more than 5 years.
+
+(2) A “prohibition on foreign travel” means—
+
+(a) a prohibition on travelling to any country outside the United Kingdom named or described in the order,
+
+(b) a prohibition on travelling to any country outside the United Kingdom other than a country named or described in the order, or
+
+(c) a prohibition on travelling to any country outside the United Kingdom.
+
+(3) Subsection (1) does not prevent a prohibition on foreign travel from being extended for a further period (of no more than 5 years each time) under section 20.
+
+(4) A slavery and trafficking prevention order that contains a prohibition within subsection (2)(c) must require the defendant to surrender all of the defendant's passports at a police station specified in the order—
+
+(a) on or before the date when the prohibition takes effect, or
+
+(b) within a period specified in the order.
+
+(5) Any passports surrendered must be returned as soon as reasonably practicable after the person ceases to be subject to a slavery and trafficking prevention order containing a prohibition within subsection (2)(c).
+
+(6) Subsection (5) does not apply in relation to—
+
+(a) a passport issued by or on behalf of the authorities of a country outside the United Kingdom if the passport has been returned to those authorities;
+
+(b) a passport issued by or on behalf of an international organisation if the passport has been returned to that organisation.
+
+#### 19 Requirement to provide name and address
+
+(1) A slavery and trafficking prevention order may (as well as imposing prohibitions on the defendant) require the defendant to comply with subsections (3) to (6).
+
+(2) It may do so only if the court is satisfied that the requirement is necessary for the purpose of protecting persons generally, or particular persons, from the physical or psychological harm which would be likely to occur if the defendant committed a slavery or human trafficking offence.
+
+(3) Before the end of the period of 3 days beginning with the day on which a slavery and trafficking prevention order requiring the defendant to comply with subsections (3) to (6) is first served the defendant must, in the way specified in the order, notify the person specified in the order of the relevant matters.
+
+(4) The relevant matters are—
+
+(a) the defendant's name and, where the defendant uses one or more other names, each of those names, and
+
+(b) the defendant's home address.
+
+(5) If while the defendant is subject to the order the defendant—
+
+(a) uses a name which has not been notified under the order, or
+
+(b) changes home address,
+
+the defendant must, in the way specified in the order, notify the person specified in the order of the new name or the new home address.
+
+(6) The notification must be given before the end of the period of 3 days beginning with the day on which the defendant uses the name or changes home address.
+
+(7) Where the order requires the defendant to notify the Director General of the National Crime Agency[[^F27], an immigration officer or the [[^F28]Secretary of State]], the Director General[[^F29], the officer or [[^F30]the Secretary of State]] must give details of any notification to the chief officer of police for each relevant police area.
+
+(8) “Relevant police area” means—
+
+(a) where the defendant notifies a new name, the police area where the defendant lives;
+
+(b) where the defendant notifies a change of home address, the police area where the defendant lives and (if different) the police area where the defendant lived before the change of home address.
+
+#### 20 Variation, renewal and discharge
+
+(1) A person within subsection (2) may apply to the appropriate court for an order varying, renewing or discharging a slavery and trafficking prevention order.
+
+(2) The persons are—
+
+(a) the defendant;
+
+(b) the chief officer of police for the area in which the defendant lives;
+
+(c) a chief officer of police who believes that the defendant is in, or is intending to come to, that officer's police area;
+
+(d) where the order was made on an application under section 15 by a chief officer of police, that officer;
+
+(e) where the order was made on an application under section 15 by an immigration officer, an immigration officer;
+
+(f) where the order was made on an application under section 15 by the Director General of the National Crime Agency (“the Director General”), the Director General;
+
+[[^F31](g) where the order was made on an application under section 15 by [[^F32]the Secretary of State, the Secretary of State].]
+
+(3) On the application the court, after hearing—
+
+(a) the person making the application, and
+
+(b) the other persons mentioned in subsection (2) (if they wish to be heard),
+
+may make any order varying, renewing or discharging the slavery and trafficking prevention order that the court considers appropriate.
+
+(4) An order may be renewed, or varied so as to impose additional prohibitions on the defendant or require the defendant to comply with section 19(3) to (6), only if the court is satisfied that—
+
+(a) there is a risk that the defendant may commit a slavery or human trafficking offence, and
+
+(b) it is necessary to renew or vary the order for the purpose of protecting persons generally, or particular persons, from the physical or psychological harm which would be likely to occur if the defendant committed such an offence.
+
+(5) Any renewed or varied order—
+
+(a) may contain only those prohibitions which the court is satisfied are necessary for that purpose,
+
+(b) may require the defendant to comply with section 19(3) to (6) only if the court is satisfied that the requirement is necessary for that purpose.
+
+(6) The court must not discharge an order before the end of 5 years beginning with the day on which the order was made, without the consent of—
+
+(a) the defendant and the chief officer of police for the area in which the defendant lives, or
+
+(b) where the application is made by a chief officer of police, the defendant and that chief officer.
+
+(7) Subsection (6) does not apply to an order containing a prohibition on foreign travel and no other prohibitions.
+
+(8) An application under this section may be made—
+
+(a) where the appropriate court is the Crown Court, in accordance with rules of court;
+
+(b) in any other case, by complaint.
+
+(9) Where an immigration officer[[^F33], the Director General or the [[^F34]Secretary of State]] makes an application under this section, the officer[[^F35], the Director General or [[^F36]the Secretary of State]] must give notice of the application to the chief officer of police for—
+
+(a) the police area where the defendant lives, or
+
+(b) a police area which the immigration officer[[^F35], the Director General or [[^F36]the Secretary of State]] believes the defendant is in or is intending to come to.
+
+(10) In this section “the appropriate court” means—
+
+(a) where the Crown Court or the Court of Appeal made the slavery and trafficking prevention order, the Crown Court;
+
+(b) where an adult magistrates' court made the order—
+
+(i) that court,
+
+(ii) an adult magistrates' court for the area in which the defendant lives, or
+
+(iii) where the application is made by a chief officer of police, any adult magistrates' court acting for a local justice area that includes any part of the chief officer's police area;
+
+(c) where a youth court made the order and the defendant is under 18—
+
+(i) that court,
+
+(ii) a youth court for the area in which the defendant lives, or
+
+(iii) where the application is made by a chief officer of police, any youth court acting for a local justice area that includes any part of the chief officer's police area;
+
+(d) where a youth court made the order and the defendant is 18 or over—
+
+(i) an adult magistrates' court for the area in which the defendant lives, or
+
+(ii) where the application is made by a chief officer of police, any adult magistrates' court acting for a local justice area that includes any part of the chief officer's police area.
+
+#### 21 Interim slavery and trafficking prevention orders
+
+(1) This section applies where an application under section 15 (“the main application”) has not been determined.
+
+(2) An application for an interim slavery and trafficking prevention order—
+
+(a) may be made by the complaint by which the main application is made, or
+
+(b) if the main application has been made, may be made by the person who has made that application, by complaint to the court to which that application has been made.
+
+(3) The court may, if it considers it just to do so, make an interim slavery and trafficking prevention order.
+
+(4) An interim slavery and trafficking prevention order is an order which prohibits the defendant from doing anything described in the order.
+
+(5) The order may prohibit the defendant from doing things in any part of the United Kingdom, and anywhere outside the United Kingdom.
+
+(6) The order may (as well as imposing prohibitions on the defendant) require the defendant to comply with subsections (3) to (6) of section 19.
+
+If it does, those subsections apply as if references to a slavery and trafficking prevention order were to an interim slavery and trafficking prevention order.
+
+(7) The order—
+
+(a) has effect only for a fixed period, specified in the order;
+
+(b) ceases to have effect, if it has not already done so, on the determination of the main application.
+
+(8) The applicant or the defendant may by complaint apply to the court that made the interim slavery and trafficking prevention order for the order to be varied, renewed or discharged.
+
+#### 22 Appeals
+
+(1) A defendant may appeal against the making of a slavery and trafficking prevention order—
+
+(a) where the order was made under section 14(1)(a), as if the order were a sentence passed on the defendant for the offence;
+
+(b) where the order was made under section 14(1)(b) or (c), as if the defendant had been convicted of the offence and the order were a sentence passed on the defendant for the offence;
+
+(c) where the order was made on an application under section 15, to the Crown Court.
+
+(2) A defendant may appeal to the Crown Court against the making of an interim slavery and trafficking prevention order.
+
+(3) A defendant may appeal against the making of an order under section 20, or the refusal to make such an order—
+
+(a) where the application for such an order was made to the Crown Court, to the Court of Appeal;
+
+(b) in any other case, to the Crown Court.
+
+(4) On an appeal under subsection (1)(c), (2) or (3)(b), the Crown Court may make such orders as may be necessary to give effect to its determination of the appeal, and may also make such incidental or consequential orders as appear to it to be just.
+
+(5) Any order made by the Crown Court on an appeal under subsection (1)(c) or (2) is for the purposes of section 20(10) or 21(8) (respectively) to be treated as if it were an order of the court from which the appeal was brought.
+
+(6) Subsection (5) does not apply to an order directing that an application be re-heard by a magistrates' court.
+
+### Slavery and trafficking risk orders
+
+#### 23 Slavery and trafficking risk orders
+
+(1) A magistrates' court may make a slavery and trafficking risk order against a person (“the defendant”) on an application by—
+
+(a) a chief officer of police,
+
+(b) an immigration officer, [^F37]...
+
+(c) the Director General of the National Crime Agency (“the Director General”) [[^F38], or
+
+[[^F39](d) if it appears that an offence under this Part which is a labour market offence has been, is being or may be committed, the Secretary of State.]]
+
+(2) The court may make the order only if it is satisfied that the defendant has acted in a way which means that—
+
+(a) there is a risk that the defendant will commit a slavery or human trafficking offence, and
+
+(b) it is necessary to make the order for the purpose of protecting persons generally, or particular persons, from the physical or psychological harm which would be likely to occur if the defendant committed such an offence.
+
+(3) A chief officer of police may make an application under this section only in respect of a person—
+
+(a) who lives in the chief officer's police area, or
+
+(b) who the chief officer believes is in that area or is intending to come to it.
+
+(4) An application under this section is to be made by complaint, and may be made to any magistrates' court acting for a local justice area that includes—
+
+(a) any part of a relevant police area, or
+
+(b) any place where it is alleged that the person acted in a way mentioned in subsection (2).
+
+(5) Where the defendant is under 18, a reference in this section to a magistrates' court is to be taken as referring to a youth court (subject to any rules of court made under section 32).
+
+(6) Where an immigration officer [[^F40], the Director General or the [[^F41]Secretary of State]] makes an application under this section, the officer [[^F42], the Director General or [[^F43]the Secretary of State]] must give notice of the application to the chief officer of police for a relevant police area.
+
+(7) “Relevant police area” means—
+
+(a) where the applicant is a chief officer of police, the officer's police area;
+
+(b) where the applicant is an immigration officer [[^F44], the Director General or the [[^F45]Secretary of State]], the police area where the defendant lives or a police area which the officer [[^F46], the Director General or [[^F47]the Secretary of State]] believes the defendant is in or is intending to come to.
+
+(8) The acts of the defendant which may be relied on for the purposes of subsection (2) include acts taking place before this section comes into force.
+
+#### 24 Effect of slavery and trafficking risk orders
+
+(1) A slavery and trafficking risk order is an order which prohibits the defendant from doing anything described in the order.
+
+(2) The only prohibitions that may be included in the order are those which the court is satisfied are necessary for the purpose of protecting persons generally, or particular persons, from the physical or psychological harm which would be likely to occur if the defendant committed a slavery or human trafficking offence.
+
+(3) The order may prohibit the defendant from doing things in any part of the United Kingdom, and anywhere outside the United Kingdom.
+
+(4) Subject to section 25(1), a prohibition contained in a slavery and trafficking risk order has effect—
+
+(a) for a fixed period, specified in the order, of at least 2 years, or
+
+(b) until further order.
+
+(5) A slavery and trafficking risk order—
+
+(a) may specify that some of its prohibitions have effect until further order and some for a fixed period;
+
+(b) may specify different periods for different prohibitions.
+
+(6) Where a court makes a slavery and trafficking risk order in relation to a person who is already subject to such an order (whether made by that court or another), the earlier order ceases to have effect.
+
+#### 25 Prohibitions on foreign travel
+
+(1) A prohibition on foreign travel contained in a slavery and trafficking risk order must be for a fixed period of not more than 5 years.
+
+(2) A “prohibition on foreign travel” means—
+
+(a) a prohibition on travelling to any country outside the United Kingdom named or described in the order,
+
+(b) a prohibition on travelling to any country outside the United Kingdom other than a country named or described in the order, or
+
+(c) a prohibition on travelling to any country outside the United Kingdom.
+
+(3) Subsection (1) does not prevent a prohibition on foreign travel from being extended for a further period (of no more than 5 years each time) under section 27.
+
+(4) A slavery and trafficking risk order that contains a prohibition within subsection (2)(c) must require the defendant to surrender all of the defendant's passports at a police station specified in the order—
+
+(a) on or before the date when the prohibition takes effect, or
+
+(b) within a period specified in the order.
+
+(5) Any passports surrendered must be returned as soon as reasonably practicable after the person ceases to be subject to a slavery and trafficking risk order containing a prohibition within subsection (2)(c).
+
+(6) Subsection (5) does not apply in relation to—
+
+(a) a passport issued by or on behalf of the authorities of a country outside the United Kingdom if the passport has been returned to those authorities;
+
+(b) a passport issued by or on behalf of an international organisation if the passport has been returned to that organisation.
+
+#### 26 Requirement to provide name and address
+
+(1) A slavery and trafficking risk order may (as well as imposing prohibitions on the defendant) require the defendant to comply with subsections (3) to (6).
+
+(2) It may do so only if the court is satisfied that the requirement is necessary for the purpose of protecting persons generally, or particular persons, from the physical or psychological harm which would be likely to occur if the defendant committed a slavery or human trafficking offence.
+
+(3) Before the end of the period of 3 days beginning with the day on which a slavery and trafficking risk order requiring the defendant to comply with subsections (3) to (6) is first served the defendant must, in the way specified in the order, notify the person specified in the order of the relevant matters.
+
+(4) The relevant matters are—
+
+(a) the defendant's name and, where the defendant uses one or more other names, each of those names, and
+
+(b) the defendant's home address.
+
+(5) If while the defendant is subject to the order the defendant—
+
+(a) uses a name which has not been notified under the order, or
+
+(b) changes home address,
+
+the defendant must, in the way specified in the order, notify the person specified in the order of the new name or the new home address.
+
+(6) The notification must be given before the end of the period of 3 days beginning with the day on which the defendant uses the name or changes home address.
+
+(7) Where the order requires the defendant to notify the Director General of the National Crime Agency [[^F48], an immigration officer or the [[^F49]Secretary of State]], the Director General [[^F50], the officer or [[^F51]the Secretary of State]] must give details of any notification to the chief officer of police for each relevant police area.
+
+(8) “Relevant police area” means—
+
+(a) where the defendant notifies a new name, the police area where the defendant lives;
+
+(b) where the defendant notifies a change of home address, the police area where the defendant lives and (if different) the police area where the defendant lived before the change of home address.
+
+#### 27 Variation, renewal and discharge
+
+(1) A person within subsection (2) may by complaint to the appropriate court apply for an order varying, renewing or discharging a slavery and trafficking risk order.
+
+(2) The persons are—
+
+(a) the defendant;
+
+(b) the chief officer of police for the area in which the defendant lives;
+
+(c) a chief officer of police who believes that the defendant is in, or is intending to come to, that officer's police area;
+
+(d) where the order was made on an application by a chief officer of police, that officer;
+
+(e) where the order was made on an application by an immigration officer, an immigration officer;
+
+(f) where the order was made on an application by the Director General of the National Crime Agency (“the Director General”), the Director General;
+
+[[^F52](g) where the order was made on an application by [[^F53]the Secretary of State, the Secretary of State].]
+
+(3) On the application the court, after hearing—
+
+(a) the person making the application, and
+
+(b) the other persons mentioned in subsection (2) (if they wish to be heard),
+
+may make any order varying, renewing or discharging the slavery and trafficking risk order that the court considers appropriate.
+
+(4) An order may be renewed, or varied so as to impose additional prohibitions on the defendant or require the defendant to comply with section 26(3) to (6), only if the court is satisfied that—
+
+(a) there is a risk that the defendant may commit a slavery or human trafficking offence, and
+
+(b) it is necessary to renew or vary the order for the purpose of protecting persons generally, or particular persons, from the physical or psychological harm which would be likely to occur if the defendant committed such an offence.
+
+(5) Any renewed or varied order—
+
+(a) may contain only those prohibitions which the court is satisfied are necessary for that purpose;
+
+(b) may require the defendant to comply with section 26(3) to (6) only if the court is satisfied that the requirement is necessary for that purpose.
+
+(6) The court must not discharge an order before the end of 2 years beginning with the day on which the order was made, without the consent of—
+
+(a) the defendant and the chief officer of police for the area in which the defendant lives, or
+
+(b) where the application is made by a chief officer of police, the defendant and that chief officer.
+
+(7) Where an immigration officer [[^F54], the Director General or the [[^F55]Secretary of State]] makes an application under this section, the officer [[^F56], the Director General or [[^F57]the Secretary of State]] must give notice of the application to the chief officer of police for—
+
+(a) the police area where the defendant lives, or
+
+(b) a police area which the immigration officer [[^F56], the Director General or [[^F57]the Secretary of State]] believes the defendant is in or is intending to come to.
+
+(8) In this section “the appropriate court” means—
+
+(a) where an adult magistrates' court made the slavery and trafficking risk order—
+
+(i) that court,
+
+(ii) any adult magistrates' court for the area in which the defendant lives, or
+
+(iii) where the application is made by a chief officer of police, any adult magistrates' court acting for a local justice area that includes any part of the chief officer's police area;
+
+(b) where a youth court made the order and the defendant is under 18—
+
+(i) that court,
+
+(ii) a youth court for the area in which the defendant lives, or
+
+(iii) where the application is made by a chief officer of police, any youth court acting for a local justice area that includes any part of the chief officer's police area;
+
+(c) where a youth court made the order and the defendant is 18 or over—
+
+(i) an adult magistrates' court for the area in which the defendant lives, or
+
+(ii) where the application is made by a chief officer of police, any adult magistrates' court acting for a local justice area that includes any part of the chief officer's police area.
+
+#### 28 Interim slavery and trafficking risk orders
+
+(1) This section applies where an application for a slavery and trafficking risk order (“the main application”) has not been determined.
+
+(2) An application for an interim slavery and trafficking risk order—
+
+(a) may be made by the complaint by which the main application is made, or
+
+(b) if the main application has been made, may be made by the person who has made that application, by complaint to the court to which that application has been made.
+
+(3) The court may, if it considers it just to do so, make an interim slavery and trafficking risk order.
+
+(4) An interim slavery and trafficking risk order is an order which prohibits the defendant from doing anything described in the order.
+
+(5) The order may prohibit the defendant from doing things in any part of the United Kingdom, and anywhere outside the United Kingdom.
+
+(6) The order may (as well as imposing prohibitions on the defendant) require the defendant to comply with subsections (3) to (6) of section 26.
+
+If it does, those subsections apply as if references to a slavery and trafficking risk order were to an interim slavery and trafficking risk order.
+
+(7) The order—
+
+(a) has effect only for a fixed period, specified in the order;
+
+(b) ceases to have effect, if it has not already done so, on the determination of the main application.
+
+(8) The applicant or the defendant may by complaint apply to the court that made the interim slavery and trafficking risk order for the order to be varied, renewed or discharged.
+
+#### 29 Appeals
+
+(1) A defendant may appeal to the Crown Court—
+
+(a) against the making of a slavery and trafficking risk order;
+
+(b) against the making of an interim slavery and trafficking risk order;
+
+(c) against the making of an order under section 27, or the refusal to make such an order.
+
+(2) The Crown Court may make such orders as may be necessary to give effect to its determination of the appeal, and may also make such incidental or consequential orders as appear to it to be just.
+
+(3) An order made by the Crown Court on an appeal against the making of a slavery and trafficking risk order or an interim slavery and trafficking risk order is to be treated for the purposes of section 27(8) or 28(8) (respectively) as if it were an order of the court from which the appeal was brought.
+
+(4) Subsection (3) does not apply to an order directing that an application be re-heard by a magistrates' court.
+
+### Offences and supplementary provision
+
+#### 30 Offences
+
+(1) A person who, without reasonable excuse, does anything that the person is prohibited from doing by—
+
+(a) a slavery and trafficking prevention order,
+
+(b) an interim slavery and trafficking prevention order,
+
+(c) a slavery and trafficking risk order,
+
+(d) an interim slavery and trafficking risk order,
+
+(e) a slavery and trafficking prevention order under Schedule 3 to the Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015 (c. 2 (N.I.)),[^F58]...
+
+(f) an interim slavery and trafficking prevention order under that Schedule to that Act,
+
+[[^F59](g) a trafficking and exploitation prevention order under section 17 or 18 of the Human Trafficking and Exploitation (Scotland) Act 2015 (asp 12);
+
+(h) an interim trafficking and exploitation prevention order under section 24 of that Act;
+
+(i) a trafficking and exploitation risk order under section 26 of that Act; or
+
+(j) an interim trafficking and exploitation risk order under section 30 of that Act;]
+
+commits an offence.
+
+(2) A person commits an offence if, without reasonable excuse, the person fails to comply with a requirement imposed under—
+
+(a) section 18(4) or 25(4) (requirement to surrender passports), or
+
+(b) section 19(1), 21(6), 26(1) or 28(6) (requirement to provide name and address).
+
+(3) A person guilty of an offence under this section is liable—
+
+(a) on conviction on indictment, to imprisonment for a term not exceeding 5 years;
+
+(b) on summary conviction, to imprisonment for a term not exceeding [[^F60]the general limit in a magistrates’ court] or a fine or both.
+
+(4) Where a person is convicted of an offence under this section, it is not open to the court by or before which the person is convicted to make an order for conditional discharge in respect of the offence.
+
+#### [^F61]30A Enforcement by Gangmasters and Labour Abuse Authority
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 31 Cross-border enforcement
+
+(1) The Secretary of State may by regulations amend section 30(1) so as to add to or remove from the list of orders in that section any relevant UK order.
+
+(2) “Relevant UK order” means an order under the law of Scotland or Northern Ireland which appears to the Secretary of State to be equivalent or similar to—
+
+(a) a slavery and trafficking prevention order,
+
+(b) an interim slavery and trafficking prevention order,
+
+(c) a slavery and trafficking risk order, or
+
+(d) an interim slavery and trafficking risk order.
+
+#### 32 Rules of court
+
+(1) Rules of court may provide for a youth court to give permission for an application under section 15 or 23 against a person aged 18 or over to be made to the youth court if—
+
+(a) an application to the youth court has been made, or is to be made, under that section against a person aged under 18, and
+
+(b) the youth court thinks that it would be in the interests of justice for the applications to be heard together.
+
+(2) Rules of court may, in relation to a person reaching the age of 18 after proceedings against that person by virtue of this Part have begun—
+
+(a) prescribe circumstances in which the proceedings may or must remain in the youth court;
+
+(b) make provision for the transfer of the proceedings from the youth court to an adult magistrates' court (including provision applying sections 21 and 28 with modifications).
+
+#### 33 Guidance to chief officers of police etc
+
+(1) The Secretary of State must issue guidance to chief officers of police, immigration officers [[^F62]and the Director General of the National Crime Agency] in relation to the exercise by them of their powers under this Part.
+
+(2) The Secretary of State may, from time to time, revise the guidance issued under subsection (1).
+
+(3) The Secretary of State must arrange for any guidance issued or revised under this section to be published in a way the Secretary of State considers appropriate.
+
+#### 34 Interpretation of Part 2
+
+(1) In this Part—
+
+- “adult magistrates court” means a magistrates' court that is not a youth court;
+- “cautioned” means cautioned after the person concerned has admitted the offence;
+- “interim slavery and trafficking prevention order” means an order made under section 21 (except in section 30(1)(f));
+- “interim slavery and trafficking risk order” means an order made under section 28;
+- [[^F63]“labour market offence” has the same meaning as in Part 5 of the Employment Rights Act 2025;]
+- “slavery or human trafficking offence” means an offence listed in Schedule 1;
+- “slavery and trafficking prevention order” means an order made under section 14 or 15 (except in section 30(1)(e));
+- “slavery and trafficking risk order” means an order made under section 23.
+
+(2) In this Part “passport” means—
+
+(a) a United Kingdom passport within the meaning of the Immigration Act 1971;
+
+(b) a passport issued by or on behalf of the authorities of a country outside the United Kingdom, or by or on behalf of an international organisation;
+
+(c) a document that can be used (in some or all circumstances) instead of a passport.
+
+(3) In this Part a reference to a conviction includes a conviction for an offence in respect of which an order for conditional discharge is made, despite—
+
+(a) [[^F64]section 82(2) of the Sentencing Code] (conviction with conditional discharge deemed not to be a conviction);
+
+(b) article 6(1) of the Criminal Justice (Northern Ireland) Order 1996 (S.I. 1996/3160 (N.I. 24)) (equivalent provision for Northern Ireland).
+
+(4) Subsection (3) applies only to convictions after this Part comes into force.
+
+(5) In this Part a reference to a conviction includes a finding of a court in summary proceedings that the accused did the act charged, where the court makes an order under—
+
+(a) section 37(3) of the Mental Health Act 1983,
+
+(b) section 58(3) of the Criminal Procedure (Scotland) Act 1995, or
+
+(c) article 44(4) of the Mental Health (Northern Ireland) Order 1986 (S.I. 1986/595 (N.I. 4)),
+
+(hospital and guardianship orders).
+
+(6) In relation to an offence under the law of Scotland, a reference in this Part to a person being found not guilty by reason of insanity is to be treated as a reference to a person being acquitted by reason of the special defence in section 51A of the Criminal Procedure (Scotland) Act 1995.
+
+(7) In this Part, a reference to a finding that a person is under a disability and has done the act charged against the person in respect of an offence includes a finding that a person is insane or unfit to be tried and has done the act charged against the person in respect of an offence.
+
+(8) Section 127 of the Magistrates' Courts Act 1980 (time limits) does not apply to a complaint under any provision of this Part.
+
+(9) A person's age is to be treated for the purposes of this Part as being that which it appears to the court to be after considering any available evidence.
+
+## PART 3 — Maritime enforcement
+
+### 35 Enforcement powers in relation to ships: England and Wales
+
+(1) An English and Welsh constable or an enforcement officer may exercise the powers set out in Part 1 of Schedule 2 (“Part 1 powers”) in relation to—
+
+(a) a United Kingdom ship in England and Wales waters, foreign waters or international waters,
+
+(b) a ship without nationality in England and Wales waters or international waters,
+
+(c) a foreign ship in England and Wales waters, or
+
+(d) a ship, registered under the law of a relevant territory, in England and Wales waters.
+
+(2) But Part 1 powers may be exercised only—
+
+(a) for the purpose of preventing, detecting, investigating or prosecuting an offence under section 1 or 2, and
+
+(b) in accordance with the rest of this section.
+
+(3) The authority of the Secretary of State is required before an English and Welsh constable or an enforcement officer may exercise Part 1 powers in relation to a United Kingdom ship in foreign waters.
+
+(4) Authority for the purposes of subsection (3) may be given only if the State or relevant territory in whose waters the powers would be exercised consents to the exercise of the powers.
+
+(5) The authority of the Secretary of State is required before an English and Welsh constable or an enforcement officer may exercise Part 1 powers in relation to a foreign ship, or a ship registered under the law of a relevant territory, within the territorial sea adjacent to the United Kingdom.
+
+(6) Authority for the purposes of subsection (5) may be given in relation to a foreign ship only if—
+
+(a) the home state has requested the assistance of the United Kingdom for the purpose mentioned in subsection (2)(a),
+
+(b) the home state has authorised the United Kingdom to act for that purpose, or
+
+(c) the Convention otherwise permits the exercise of Part 1 powers in relation to the ship.
+
+(7) In giving authority for the purposes of subsection (5) in relation to a foreign ship the Secretary of State must give effect to any conditions or limitations that the home state imposes as part of a request or authorisation of the kind mentioned in subsection (6)(a) or (b) (if the authority is given as a result of that request or authorisation).
+
+### 36 Enforcement powers in relation to ships: Scotland
+
+(1) A Scottish constable or an enforcement officer may exercise the powers set out in Part 2 of Schedule 2 (“Part 2 powers”) in relation to—
+
+(a) a United Kingdom ship in Scotland waters, foreign waters or international waters,
+
+(b) a ship without nationality in Scotland waters or international waters,
+
+(c) a foreign ship in Scotland waters, or
+
+(d) a ship, registered under the law of a relevant territory, in Scotland waters.
+
+(2) But Part 2 powers may be exercised only—
+
+(a) for the purpose of preventing, detecting or investigating a listed offence, and
+
+(b) in accordance with the rest of this section.
+
+(3) The authority of the Secretary of State is required before a Scottish constable or an enforcement officer may exercise Part 2 powers in relation to a United Kingdom ship in foreign waters.
+
+(4) Authority for the purposes of subsection (3) may be given only if the State or relevant territory in whose waters the powers would be exercised consents to the exercise of the powers.
+
+(5) The authority of the Secretary of State is required before a Scottish constable or an enforcement officer may exercise Part 2 powers in relation to a foreign ship, or a ship registered under the law of a relevant territory, within the territorial sea adjacent to the United Kingdom.
+
+(6) Authority for the purposes of subsection (5) may be given in relation to a foreign ship only if—
+
+(a) the home state has requested the assistance of the United Kingdom for the purpose mentioned in subsection (2)(a),
+
+(b) the home state has authorised the United Kingdom to act for that purpose, or
+
+(c) the Convention otherwise permits the exercise of Part 2 powers in relation to the ship.
+
+(7) In giving authority for the purposes of subsection (5) in relation to a foreign ship the Secretary of State must give effect to any conditions or limitations that the home state imposes as part of a request or authorisation of the kind mentioned in subsection (6)(a) or (b) (if the authority is given as a result of that request or authorisation).
+
+(8) For the purposes of subsection (2)(a), “listed offence” means an offence under—
+
+[[^F65](a) section 1 of the Human Trafficking and Exploitation (Scotland) Act 2015 (asp 12) (offence of human trafficking);]
+
+[[^F65](b) section 4 of that Act (slavery, servitude and forced or compulsory labour).]
+
+### 37 Enforcement powers in relation to ships: Northern Ireland
+
+(1) A Northern Ireland constable or an enforcement officer may exercise the powers set out in Part 3 of Schedule 2 (“Part 3 powers”) in relation to—
+
+(a) a United Kingdom ship in Northern Ireland waters, foreign waters or international waters,
+
+(b) a ship without nationality in Northern Ireland waters or international waters,
+
+(c) a foreign ship in Northern Ireland waters, or
+
+(d) a ship, registered under the law of a relevant territory, in Northern Ireland waters.
+
+(2) But Part 3 powers may be exercised only—
+
+(a) for the purpose of preventing, detecting, investigating or prosecuting a listed offence, and
+
+(b) in accordance with the rest of this section.
+
+(3) The authority of the Chief Constable of the Police Service of Northern Ireland is required before an enforcement officer may exercise any Part 3 powers.
+
+(4) The authority of the Secretary of State is required before a Northern Ireland constable or an enforcement officer may exercise Part 3 powers in relation to a United Kingdom ship in foreign waters.
+
+(5) Authority for the purposes of subsection (4) may be given only if the State or relevant territory in whose waters the powers would be exercised consents to the exercise of the powers.
+
+(6) The authority of the Secretary of State is required before a Northern Ireland constable or an enforcement officer may exercise Part 3 powers in relation to a foreign ship, or a ship registered under the law of a relevant territory, within the territorial sea adjacent to the United Kingdom.
+
+(7) Authority for the purposes of subsection (6) may be given in relation to a foreign ship only if—
+
+(a) the home state has requested the assistance of the United Kingdom for the purpose mentioned in subsection (2)(a),
+
+(b) the home state has authorised the United Kingdom to act for that purpose, or
+
+(c) the Convention otherwise permits the exercise of Part 3 powers in relation to the ship.
+
+(8) In giving authority for the purposes of subsection (6) in relation to a foreign ship the Secretary of State must give effect to any conditions or limitations that the home state imposes as part of a request or authorisation of the kind mentioned in subsection (7)(a) or (b) (if the authority is given as a result of that request or authorisation).
+
+(9) For the purposes of subsection (2)(a), “listed offence” means an offence under—
+
+(a) section 1 of the Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015 (c. 2 (N.I.)) (slavery, servitude and forced or compulsory labour);
+
+(b) section 2 of that Act (human trafficking).
+
+### 38 Hot pursuit of ships in United Kingdom waters (prospective)
+
+(1) An English and Welsh constable or an enforcement officer may exercise Part 1 powers in relation to a ship in Scotland waters or in Northern Ireland waters if—
+
+(a) the ship is pursued there,
+
+(b) immediately before the pursuit of the ship, the ship was in relevant waters, and
+
+(c) the condition in subsection (10) is met.
+
+(2) Part 1 powers may be exercised under subsection (1) only—
+
+(a) for the purpose mentioned in subsection (2)(a) of section 35, and
+
+(b) (if relevant) in accordance with subsections (5) to (7) of that section.
+
+(3) For the purposes of subsection (1)(b), “relevant waters” are—
+
+(a) in the case of a United Kingdom ship or a ship without nationality, England and Wales waters or international waters;
+
+(b) in the case of a foreign ship or a ship registered under the law of a relevant territory, England and Wales waters.
+
+(4) A Scottish constable or an enforcement officer may exercise Part 2 powers in relation to a ship in England and Wales waters or in Northern Ireland waters if—
+
+(a) the ship is pursued there,
+
+(b) immediately before the pursuit of the ship, the ship was in relevant waters, and
+
+(c) the condition in subsection (10) is met.
+
+(5) Part 2 powers may be exercised under subsection (4) only—
+
+(a) for the purpose mentioned in subsection (2)(a) of section 36, and
+
+(b) (if relevant) in accordance with subsections (5) to (7) of that section.
+
+(6) For the purposes of subsection (4)(b), “relevant waters” are—
+
+(a) in the case of a United Kingdom ship or a ship without nationality, Scotland waters or international waters;
+
+(b) in the case of a foreign ship or a ship registered under the law of a relevant territory, Scotland waters.
+
+(7) A Northern Ireland constable or an enforcement officer may exercise Part 3 powers in relation to a ship in England and Wales waters or in Scotland waters if—
+
+(a) the ship is pursued there,
+
+(b) immediately before the pursuit of the ship, the ship was in relevant waters, and
+
+(c) the condition in subsection (10) is met.
+
+(8) Part 3 powers may be exercised under subsection (7) only—
+
+(a) for the purpose mentioned in subsection (2)(a) of section 37, and
+
+(b) (if relevant) in accordance with subsections (6) to (8) of that section.
+
+(9) For the purposes of subsection (7)(b), “relevant waters” are—
+
+(a) in the case of a United Kingdom ship or a ship without nationality, Northern Ireland waters or international waters;
+
+(b) in the case of a foreign ship or a ship registered under the law of a relevant territory, Northern Ireland waters.
+
+(10) The condition referred to in subsection (1)(c), (4)(c) and (7)(c) is that—
+
+(a) before the pursuit of the ship, a signal is given for it to stop, and
+
+(b) the pursuit of the ship is not interrupted.
+
+(11) The signal referred to in subsection (10)(a) must be given in such a way as to be audible or visible from the ship.
+
+(12) For the purposes of subsection (10)(b), pursuit is not interrupted by reason only of the fact that—
+
+(a) the method of carrying out the pursuit, or
+
+(b) the identity of the ship or aircraft carrying out the pursuit,
+
+changes during the course of the pursuit.
+
+(13) Nothing in this Part affects any right of hot pursuit that a constable or an enforcement officer may have under international law.
+
+### 39 Interpretation of Part 3
+
+(1) In this Part—
+
+- “the Convention” means the United Nations Convention on the Law of the Sea 1982 (Cmnd 8941) and any modifications of that Convention agreed after the passing of this Act that have entered into force in relation to the United Kingdom;
+
+- “enforcement officer” means—
+
+  - (a) a designated customs official, within the meaning of Part 1 of the Borders, Citizenship and Immigration Act 2009 (see section 14(6) of that Act),
+  - (b) a person who is a commissioned officer of any of Her Majesty's ships, or
+  - (c) a person in command or charge of any aircraft or hovercraft of the Royal Navy, the Army or the Royal Air Force;
+
+- “England and Wales waters” means the sea and other waters within the seaward limits of the territorial sea adjacent to England and Wales;
+
+- “English and Welsh constable” means only a person who is—
+
+  - (a) a member of a police force in England and Wales,
+  - (b) a member of the British Transport Police Force,
+  - (c) a port constable, within the meaning of section 7 of the Marine Navigation Act 2013, or a person appointed to act as a constable under provision made by virtue of section 16 of the Harbours Act 1964, or
+  - (d) a National Crime Agency officer having the powers and privileges of a constable in England and Wales under the Crime and Courts Act 2013;
+
+- “foreign ship” means a ship which—
+
+  - (a) is registered in a State other than the United Kingdom, or
+  - (b) is not so registered but is entitled to fly the flag of a State other than the United Kingdom;
+
+- “foreign waters” means the sea and other waters within the seaward limits of the territorial sea adjacent to any relevant territory or State other than the United Kingdom;
+
+- “home state”, in relation to a foreign ship, means—
+
+  - (a) the State in which the ship is registered, or
+  - (b) the State whose flag the ship is otherwise entitled to fly;
+
+- “international waters” means waters beyond the territorial sea of the United Kingdom or of any other State or relevant territory;
+
+- “Northern Ireland constable” means a member of the Police Service of Northern Ireland or the Police Service of Northern Ireland Reserve;
+
+- “Northern Ireland waters” means the sea and other waters within the seaward limits of the territorial sea adjacent to Northern Ireland;
+
+- “Part 1 powers” means the powers set out in Part 1 of Schedule 2;
+
+- “Part 2 powers” means the powers set out in Part 2 of that Schedule;
+
+- “Part 3 powers” means the powers set out in Part 3 of that Schedule;
+
+- “relevant territory” means—
+
+  - (a) the Isle of Man;
+  - (b) any of the Channel Islands;
+  - (c) a British overseas territory;
+
+- “Scottish constable” means only a person who is—
+
+  - (a) a constable, within the meaning of section 99 of the Police and Fire Reform (Scotland) Act 2012 (asp 8), or
+  - (b) a National Crime Agency officer having the powers and privileges of a constable in Scotland under the Crime and Courts Act 2013;
+
+- “Scotland waters” means the sea and other waters within the seaward limits of the territorial sea adjacent to Scotland;
+
+- “ship” includes every description of vessel (including a hovercraft) used in navigation;
+
+- “ship without nationality” means a ship which—
+
+  - (a) is not registered in, or otherwise entitled to fly the flag of, any State or relevant territory, or
+  - (b) sails under the flags of two or more States or relevant territories, or under the flags of a State and relevant territory, using them according to convenience;
+
+- “United Kingdom ship” means a ship which—
+
+  - (a) is registered under Part 2 of the Merchant Shipping Act 1995,
+  - (b) is a Government ship within the meaning of that Act,
+  - (c) is not registered in any State or relevant territory but is wholly owned by persons each of whom has a United Kingdom connection, or
+  - (d) is registered under an Order in Council under section 1 of the Hovercraft Act 1968.
+
+(2) For the purposes of paragraph (c) of the definition of “United Kingdom ship” in subsection (1), a person has a “United Kingdom connection” if the person is—
+
+(a) a British citizen, a British overseas territories citizen or a British Overseas citizen,
+
+(b) an individual who is habitually resident in the United Kingdom, or
+
+(c) a body corporate which is established under the law of a part of the United Kingdom and has its principal place of business in the United Kingdom.
+
+## PART 4 — The Independent Anti-slavery Commissioner
+
+### 40 The Independent Anti-slavery Commissioner
+
+(1) The Secretary of State must, after consulting the Scottish Ministers and the Department of Justice in Northern Ireland, appoint a person as the Independent Anti-slavery Commissioner (in this Part “the Commissioner”).
+
+(2) The Commissioner is to hold office in accordance with the terms of the Commissioner's appointment.
+
+(3) The Secretary of State may pay in respect of the Commissioner any expenses, remuneration or allowances that the Secretary of State may determine.
+
+(4) The Secretary of State—
+
+(a) must before the beginning of each financial year specify a maximum sum which the Commissioner may spend that year,
+
+(b) may permit that to be exceeded for a specified purpose, and
+
+(c) subject to paragraphs (a) and (b), must defray the Commissioner's expenditure for each financial year.
+
+(5) In this Part, “financial year” means—
+
+(a) the period beginning with the day on which the first Commissioner takes office and ending with the following 31 March, and
+
+(b) each successive period of 12 months.
+
+(6) The Commissioner may appoint staff.
+
+(7) In Part 3 of Schedule 1 to the House of Commons Disqualification Act 1975 (offices disqualifying for membership: other disqualifying offices) at the appropriate place insert— “ Independent Anti-slavery Commissioner ”.
+
+(8) In Part 3 of Schedule 1 to the Northern Ireland Assembly Disqualification Act 1975 (offices disqualifying for membership: other disqualifying offices) at the appropriate place insert—
+
+> “Independent Anti-slavery Commissioner
+
+.
+
+(9) In Part 6 of Schedule 1 to the Freedom of Information Act 2000 (other public bodies and offices: general) at the appropriate place insert— “ The Independent Anti-slavery Commissioner ”.
+
+### 41 General functions of Commissioner
+
+(1) The Commissioner must encourage good practice in—
+
+(a) the prevention, detection, investigation and prosecution of slavery and human trafficking offences;
+
+(b) the identification of victims of those offences.
+
+(2) For the purposes of this section a slavery and human trafficking offence is an offence under—
+
+(a) section 1, 2 or 4 of this Act,
+
+(b) section 1, 2 or 4 of the Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015 (c. 2 (N.I.)) (equivalent offences in Northern Ireland),
+
+[[^F66](c) section 1 or 4 of the Human Trafficking and Exploitation (Scotland) Act 2015 (asp 12) (equivalent offences in Scotland).]
+
+(3) The things that the Commissioner may do in pursuance of subsection (1) include—
+
+(a) making reports on any permitted matter to the Secretary of State, the Scottish Ministers and the Department of Justice in Northern Ireland;
+
+(b) making recommendations to any public authority about the exercise of its functions;
+
+(c) undertaking or supporting (financially or otherwise) the carrying out of research;
+
+(d) providing information, education or training;
+
+(e) consulting public authorities (including the Commissioner for Victims and Witnesses), voluntary organisations and other persons;
+
+(f) co-operating with or working jointly with public authorities (including the Commissioner for Victims and Witnesses), voluntary organisations and other persons, in the United Kingdom or internationally.
+
+(4) The matters to which the Commissioner may have regard in pursuance of subsection (1) include the provision of assistance and support to victims of slavery and human trafficking offences.
+
+(5) In subsection (3)(a) “permitted matter” means a matter which—
+
+(a) the Secretary of State, the Scottish Ministers or the Department of Justice in Northern Ireland have asked the Commissioner to report on, or
+
+(b) the current strategic plan, approved by the Secretary of State under section 42(6), states is a matter the Commissioner proposes to report on.
+
+(6) The Commissioner must (after ascertaining whether the Secretary of State, the Scottish Ministers, the Lord Advocate or the Department of Justice in Northern Ireland wish to exercise the powers conferred by subsections (7) to (10)) publish each report made under subsection (3)(a).
+
+(7) The Secretary of State may direct the Commissioner to omit from any report before publication any material whose publication the Secretary of State thinks—
+
+(a) would be against the interests of national security,
+
+(b) might jeopardise the safety of any person in England and Wales, or
+
+(c) might prejudice the investigation or prosecution of an offence under the law of England and Wales.
+
+(8) The Scottish Ministers may direct the Commissioner to omit from any report before publication any material whose publication the Scottish Ministers think—
+
+(a) might jeopardise the safety of any person in Scotland, or
+
+(b) might prejudice the investigation of an offence under the law of Scotland.
+
+(9) The Lord Advocate may direct the Commissioner to omit from any report before publication any material whose publication the Lord Advocate thinks might prejudice the prosecution of an offence under the law of Scotland.
+
+(10) The Department of Justice in Northern Ireland may direct the Commissioner to omit from any report before publication any material whose publication the department thinks—
+
+(a) might jeopardise the safety of any person in Northern Ireland, or
+
+(b) might prejudice the investigation or prosecution of an offence under the law of Northern Ireland.
+
+(11) If the Secretary of State, the Scottish Ministers or the Department of Justice in Northern Ireland lay before Parliament, the Scottish Parliament or the Northern Ireland Assembly a report made by the Commissioner under subsection (3)(a), they must lay the report as it is published by the Commissioner under subsection (6).
+
+### 42 Strategic plans and annual reports
+
+(1) The Commissioner must, as soon as reasonably practicable after the Commissioner's appointment, prepare a strategic plan and submit it to the Secretary of State for approval.
+
+(2) The Commissioner must, before the end of the period to which a strategic plan relates (“the current period”), prepare a strategic plan for a period immediately following the current period and submit it to the Secretary of State for approval.
+
+(3) The Commissioner may at any time prepare a revised strategic plan and submit it to the Secretary of State for approval.
+
+(4) A strategic plan is a plan setting out how the Commissioner proposes to exercise the Commissioner's functions in the period to which the plan relates, which must be not less than one year and not more than three years.
+
+(5) A strategic plan must in particular—
+
+(a) state the Commissioner's objectives and priorities for the period to which the plan relates;
+
+(b) state any matters on which the Commissioner proposes to report under section 41(3)(a) during that period;
+
+(c) state any other activities the Commissioner proposes to undertake during that period in the exercise of the Commissioner's functions.
+
+(6) The Secretary of State may approve a strategic plan either without modifications or with modifications agreed with the Commissioner.
+
+(7) The Secretary of State must—
+
+(a) before approving a strategic plan, consult the Scottish Ministers and the Department of Justice in Northern Ireland, and
+
+(b) after approving a strategic plan, send a copy of the plan to the Scottish Ministers and the Department of Justice in Northern Ireland.
+
+(8) As soon as reasonably practicable after the end of each financial year the Commissioner must submit to the Secretary of State, the Scottish Ministers and the Department of Justice in Northern Ireland an annual report on the exercise of the Commissioner's functions during the year.
+
+(9) An annual report must include—
+
+(a) an assessment of the extent to which the Commissioner's objectives and priorities have been met in that year;
+
+(b) a statement of the matters on which the Commissioner has reported under section 41(3)(a) during the year;
+
+(c) a statement of the other activities the Commissioner has undertaken during the year in the exercise of the Commissioner's functions.
+
+(10) The Secretary of State must lay before Parliament—
+
+(a) any strategic plan the Secretary of State approves, and
+
+(b) any annual report the Secretary of State receives,
+
+and must do so as soon as reasonably practicable after approving the plan or receiving the report.
+
+(11) The Scottish Ministers must lay before the Scottish Parliament—
+
+(a) any strategic plan the Secretary of State approves, and
+
+(b) any annual report they receive,
+
+and must do so as soon as reasonably practicable after receiving the plan or the report.
+
+(12) The Department of Justice in Northern Ireland must lay before the Northern Ireland Assembly—
+
+(a) any strategic plan the Secretary of State approves, and
+
+(b) any annual report it receives,
+
+and must do so as soon as reasonably practicable after receiving the plan or the report.
+
+(13) An annual report laid under any of subsections (10) to (12) must not contain material removed from the report under any of subsections (14) to (17).
+
+(14) The Secretary of State may remove from an annual report any material whose publication the Secretary of State thinks—
+
+(a) would be against the interests of national security,
+
+(b) might jeopardise the safety of any person in England and Wales, or
+
+(c) might prejudice the investigation or prosecution of an offence under the law of England and Wales.
+
+(15) The Scottish Ministers may remove from an annual report any material whose publication the Scottish Ministers think—
+
+(a) might jeopardise the safety of any person in Scotland, or
+
+(b) might prejudice the investigation of an offence under the law of Scotland.
+
+(16) The Lord Advocate may remove from an annual report any material whose publication the Lord Advocate thinks might prejudice the prosecution of an offence under the law of Scotland.
+
+(17) The Department of Justice in Northern Ireland may remove from an annual report any material whose publication the department thinks—
+
+(a) might jeopardise the safety of any person in Northern Ireland, or
+
+(b) might prejudice the investigation or prosecution of an offence under the law of Northern Ireland.
+
+### 43 Duty to co-operate with Commissioner
+
+(1) The Commissioner may request a specified public authority to co-operate with the Commissioner in any way that the Commissioner considers necessary for the purposes of the Commissioner's functions.
+
+(2) A specified public authority must so far as reasonably practicable comply with a request made to it under this section.
+
+(3) A public authority which discloses information to the Commissioner in pursuance of subsection (2) does not breach any obligation of confidence owed by the public authority in relation to that information; but this does not apply in relation to patient information.
+
+(4) “Patient information” means information (however recorded) which—
+
+(a) relates to the physical or mental health or condition of an individual, to the diagnosis of an individual's condition or to an individual's care or treatment, or is to any extent derived directly or indirectly from such information, and
+
+(b) identifies the individual or enables the individual to be identified (either by itself or in combination with other information).
+
+(5) Except as provided by subsection (3), subsection (2) does not require or authorise any disclosure of information which contravenes a restriction on the disclosure of information (however imposed).
+
+(6) In this section “specified public authority” means a public authority listed in Schedule 3.
+
+(7) The Scottish Ministers may by regulations amend that Schedule so as to—
+
+(a) add or remove a public authority having only functions which are exercisable in or as regards Scotland (a “Scottish public authority”);
+
+(b) amend an entry relating to a Scottish public authority.
+
+(8) The Department of Justice in Northern Ireland may by regulations amend that Schedule so as to—
+
+(a) add or remove a public authority having only functions which are exercisable in or as regards Northern Ireland (a “Northern Irish public authority”);
+
+(b) amend an entry relating to a Northern Irish public authority.
+
+(9) The Secretary of State may by regulations amend that Schedule so as to—
+
+(a) add or remove a public authority which is not a Scottish public authority or a Northern Irish public authority;
+
+(b) amend an entry relating to a public authority which is not a Scottish public authority or a Northern Irish public authority.
+
+(10) Regulations under subsection (7), (8) or (9) which add a public authority to Schedule 3 may contain provision modifying the application of this section in relation to that authority.
+
+### 44 Restriction on exercise of functions
+
+(1) The Commissioner must not exercise any function in relation to an individual case.
+
+(2) Subsection (1) does not prevent the Commissioner considering individual cases and drawing conclusions about them for the purpose of, or in the context of, considering a general issue.
+
+## PART 5 — Protection of victims
+
+### 45 Defence for slavery or trafficking victims who commit an offence
+
+(1) A person is not guilty of an offence if—
+
+(a) the person is aged 18 or over when the person does the act which constitutes the offence,
+
+(b) the person does that act because the person is compelled to do it,
+
+(c) the compulsion is attributable to slavery or to relevant exploitation, and
+
+(d) a reasonable person in the same situation as the person and having the person's relevant characteristics would have no realistic alternative to doing that act.
+
+(2) A person may be compelled to do something by another person or by the person's circumstances.
+
+(3) Compulsion is attributable to slavery or to relevant exploitation only if—
+
+(a) it is, or is part of, conduct which constitutes an offence under section 1 or conduct which constitutes relevant exploitation, or
+
+(b) it is a direct consequence of a person being, or having been, a victim of slavery or a victim of relevant exploitation.
+
+(4) A person is not guilty of an offence if—
+
+(a) the person is under the age of 18 when the person does the act which constitutes the offence,
+
+(b) the person does that act as a direct consequence of the person being, or having been, a victim of slavery or a victim of relevant exploitation, and
+
+(c) a reasonable person in the same situation as the person and having the person's relevant characteristics would do that act.
+
+(5) For the purposes of this section—
+
+- “relevant characteristics” means age, sex and any physical or mental illness or disability;
+- “relevant exploitation” is exploitation (within the meaning of section 3) that is attributable to the exploited person being, or having been, a victim of human trafficking.
+
+(6) In this section references to an act include an omission.
+
+(7) Subsections (1) and (4) do not apply to an offence listed in Schedule 4.
+
+(8) The Secretary of State may by regulations amend Schedule 4.
+
+### 46 Special measures for witnesses in criminal proceedings
+
+(1) The Youth Justice and Criminal Evidence Act 1999 is amended as follows.
+
+(2) In section 17(4) (witnesses eligible for assistance on grounds of fear or distress about testifying) for “section 4 of the Asylum and Immigration (Treatment of Claimants, etc.) Act 2004” substitute “ section 1 or 2 of the Modern Slavery Act 2015 ”.
+
+(3) In section 25(4)(a) (offences where court may direct evidence to be given in private) for “section 4 of the Asylum and Immigration (Treatment of Claimants, etc.) Act 2004” substitute “ section 1 or 2 of the Modern Slavery Act 2015 ”.
+
+(4) In section 33(6)(d) (offences where certain witnesses presumed to be under 18) for “section 4 of the Asylum and Immigration (Treatment of Claimants, etc.) Act 2004” substitute “ section 1 or 2 of the Modern Slavery Act 2015 ”.
+
+### 47 Civil legal aid for victims of slavery
+
+(1) Schedule 1 to the Legal Aid, Sentencing and Punishment of Offenders Act 2012 (availability of civil legal services) is amended as follows.
+
+(2) In Part 1 (services), after paragraph 32 insert—
+
+> **32A Victims of slavery, servitude or forced or compulsory labour**
+>
+> (1) Civil legal services provided to an individual in relation to an application by the individual for leave to enter, or to remain in, the United Kingdom where—
+>
+> (a) there has been a conclusive determination that the individual is a victim of slavery, servitude or forced or compulsory labour, or
+>
+> (b) there are reasonable grounds to believe that the individual is such a victim and there has not been a conclusive determination that the individual is not such a victim.
+>
+> (2) Civil legal services provided in relation to a claim under employment law arising in connection with the conduct by virtue of which an individual who is a victim of slavery, servitude or forced or compulsory labour is such a victim, but only where—
+>
+> (a) the services are provided to the individual, or
+>
+> (b) the individual has died and the services are provided to the individual's personal representative.
+>
+> (3) Civil legal services provided in relation to a claim for damages arising in connection with the conduct by virtue of which an individual who is a victim of slavery, servitude or forced or compulsory labour is such a victim, but only where—
+>
+> (a) the services are provided to the individual, or
+>
+> (b) the individual has died and the services are provided to the individual's personal representative.
+>
+> (4) Sub-paragraph (1) is subject to the exclusions in Parts 2 and 3 of this Schedule.
+>
+> (5) Sub-paragraphs (2) and (3) are subject to—
+>
+> (a) the exclusions in Part 2 of this Schedule, with the exception of paragraphs 1, 2, 3, 4, 5, 6 and 8 of that Part, and
+>
+> (b) the exclusion in Part 3 of this Schedule.
+>
+> (6) For the purposes of sub-paragraph (1)(b) there are reasonable grounds to believe that an individual is a victim of slavery, servitude or forced or compulsory labour if a competent authority has determined that there are such grounds.
+>
+> (7) For the purposes of sub-paragraph (1) there is a conclusive determination that an individual is or is not a victim of slavery, servitude or forced or compulsory labour when a competent authority concludes that the individual is or is not such a victim.
+>
+> (8) For the purposes of this paragraph “slavery”, “servitude” and “forced or compulsory labour” have the same meaning as they have for the purposes of article 4 of the Human Rights Convention.
+>
+> (9) The “Human Rights Convention” means the Convention for the Protection of Human Rights and Fundamental Freedoms, agreed by the Council of Europe at Rome on 4 November 1950, as it has effect for the time being in relation to the United Kingdom.
+>
+> (10) The definitions of “competent authority”, “employment”, “employment law” and “personal representative” in paragraph 32(8) also apply for the purposes of this paragraph.
+
+(3) In Part 3 (advocacy: exclusion and exceptions), in paragraph 13 for “or 32(1)” substitute “ , 32(1) or 32A(1) ”.
+
+### 48 Independent child trafficking advocates
+
+(1) The Secretary of State must make such arrangements as the Secretary of State considers reasonable to enable persons (“independent child trafficking advocates”) to be available to represent and support children who there are reasonable grounds to believe may be victims of human trafficking.
+
+(2) In making arrangements under subsection (1) the Secretary of State must have regard to the principle that, so far as practicable, a child should be represented and supported by someone who is independent of any person who will be responsible for making decisions about the child.
+
+(3) The arrangements may include provision for payments to be made to, or in relation to, persons carrying out functions in accordance with the arrangements.
+
+(4) A person appointed as an independent child trafficking advocate for a child must promote the child's well-being and act in the child's best interests.
+
+(5) The advocate may (where appropriate) assist the child to obtain legal or other advice, assistance and representation, including (where necessary) by appointing and instructing legal representatives to act on the child's behalf.
+
+(6) The Secretary of State must make regulations about independent child trafficking advocates, and the regulations must in particular make provision—
+
+(a) about the circumstances in which, and any conditions subject to which, a person may act as an independent child trafficking advocate;
+
+(b) for the appointment of a person as an independent child trafficking advocate to be subject to approval in accordance with the regulations;
+
+(c) requiring an independent child trafficking advocate to be appointed for a child as soon as reasonably practicable, where there are reasonable grounds to believe a child may be a victim of human trafficking;
+
+(d) about the functions of independent child trafficking advocates;
+
+(e) requiring public authorities which provide services or take decisions in relation to a child for whom an independent child trafficking advocate has been appointed to—
+
+(i) recognise, and pay due regard to, the advocate's functions, and
+
+(ii) provide the advocate with access to such information relating to the child as will enable the advocate to carry out those functions effectively (so far as the authority may do so without contravening a restriction on disclosure of the information).
+
+(7) The Secretary of State must, no later than 9 months after the day on which this Act is passed, lay before Parliament a report on the steps the Secretary of State proposes to take in relation to the powers conferred by this section.
+
+### 49 Guidance about identifying and supporting victims
+
+(1) The Secretary of State must issue guidance to such public authorities and other persons as the Secretary of State considers appropriate about—
+
+(a) the sorts of things which indicate that a person may be a victim of slavery or human trafficking;
+
+(b) arrangements for providing assistance and support to persons who there are reasonable grounds to believe [[^F67]are] victims of slavery or human trafficking [[^F68]or who are such victims];
+
+(c) arrangements for determining whether there are reasonable grounds to believe that a person [[^F69]is] a victim of slavery or human trafficking.
+
+[[^F70](d) arrangements for determining whether a person is a victim of slavery or human trafficking.]
+
+[[^F71](1A) Guidance issued under subsection (1) must, in particular, provide that the determination mentioned in paragraph (d) is to be made on the balance of probabilities.]
+
+(2) The Secretary of State may, from time to time, revise the guidance issued under subsection (1).
+
+(3) The Secretary of State must arrange for any guidance issued or revised under this section to be published in a way the Secretary of State considers appropriate.
+
+(4) If the Secretary of State makes regulations under section 50, the references in subsection (1) to “arrangements” include arrangements under the regulations.
+
+### 50 Regulations about identifying and supporting victims (prospective)
+
+(1) The Secretary of State may make regulations providing for assistance and support to be provided to persons—
+
+(a) who there are reasonable grounds to believe [[^F72]are] victims of slavery or human trafficking;
+
+(b) who are victims of slavery or human trafficking.
+
+(2) The Secretary of State may make regulations providing for public authorities to determine (for the purposes of regulations under subsection (1) or other purposes specified in the regulations) whether—
+
+(a) there are reasonable grounds to believe that a person [[^F73]is] a victim of slavery or human trafficking;
+
+(b) a person is a victim of slavery or human trafficking.
+
+(3) Regulations under subsection (2) may in particular make provision about the public authorities who may make such determinations, and the criteria and procedure for doing so.
+
+[[^F74](4) If regulations under subsection (2) make provision for determining whether a person is a victim of slavery or human trafficking (as mentioned in paragraph (b) of that subsection), they must provide that the determination is to be made on the balance of probabilities.]
+
+### 50A [[^F75]Identified potential victims etc: assistance and support
+
+(1) The Secretary of State must secure that any necessary assistance and support is available to an identified potential victim (within the meaning given by section 61 of the Nationality and Borders Act 2022 (the “2022 Act”)) during the recovery period.
+
+(2) For the purposes of this section, assistance and support is “necessary” if the Secretary of State considers that it is necessary for the purpose of assisting the person receiving it in their recovery from any physical, psychological or social harm arising from the conduct which resulted in the positive reasonable grounds decision in question.
+
+(3) Subsection (4) applies where a further RG decision, within the meaning given by section 62 of the 2022 Act, is made in relation to a person.
+
+(4) If the Secretary of State determines that it is appropriate to do so, the Secretary of State must secure that any necessary assistance and support is available to the person during the period—
+
+(a) beginning with the day on which the further RG decision is made, and
+
+(b) ending with whichever of the following is the later—
+
+(i) the day on which the conclusive grounds decision is made in relation to the further RG decision;
+
+(ii) the end of the period of 30 days beginning with the day mentioned in paragraph (a).
+
+(5) Any duty under subsection (1) or (4) ceases to apply in relation to a person in respect of whom a determination is made under section 63(2) of the 2022 Act (disqualification from protection).
+
+(6) In this section, a reference to assistance and support is to assistance and support provided in accordance with—
+
+(a) arrangements referred to in section 49(1)(b), or
+
+(b) regulations made under section 50.
+
+(7) In this section—
+
+- “conclusive grounds decision” has the same meaning as in Part 5 of the 2022 Act (see section 69 of that Act);
+- “recovery period” has the same meaning as in section 61 of that Act.]
+
+### 51 Presumption about age
+
+(1) This section applies where—
+
+(a) a public authority with functions under relevant arrangements has reasonable grounds to believe that a person [[^F76]is] a victim of human trafficking, and
+
+(b) the authority is not certain of the person's age but has reasonable grounds to believe that the person may be under 18.
+
+(2) Until an assessment of the person's age is carried out by a local authority or the person's age is otherwise determined, the public authority must assume for the purposes of its functions under relevant arrangements that the person is under 18.
+
+(3) “Relevant arrangements” means arrangements for providing assistance and support to persons who are, or who there are reasonable grounds to believe [[^F77]are], victims of human trafficking, as set out in—
+
+(a) guidance issued under section 49(1)(b);
+
+(b) any regulations made under section 50(1).
+
+(4) “Local authority” has the same meaning as in the Children Act 1989 (see section 105 of that Act).
+
+### 52 Duty to notify Secretary of State about suspected victims of slavery or human trafficking
+
+(1) If a public authority to which this section applies has reasonable grounds to believe that a person may be a victim of slavery or human trafficking it must notify—
+
+(a) the Secretary of State, or
+
+(b) if regulations made by the Secretary of State require it to notify a public authority other than the Secretary of State, that public authority.
+
+(2) The Secretary of State may by regulations make provision about the information to be included in a notification.
+
+(3) Regulations under subsection (2) must provide that a notification relating to a person aged 18 or over may not include information that—
+
+(a) identifies the person, or
+
+(b) enables the person to be identified (either by itself or in combination with other information),
+
+unless the person consents to the inclusion of the information.
+
+(4) Regulations under subsection (2)—
+
+(a) may provide that a public authority which includes information in a notification in accordance with the regulations does not breach any obligation of confidence owed by the public authority in relation to that information;
+
+(b) may not require or authorise the inclusion of information which contravenes any other restriction on the disclosure of information (however imposed).
+
+(5) This section applies to—
+
+(a) a chief officer of police for a police area,
+
+(b) the chief constable of the British Transport Police Force,
+
+(c) the National Crime Agency,
+
+(d) a county council,
+
+(e) a county borough council,
+
+(f) a district council,
+
+(g) a London borough council,
+
+(h) the Greater London Authority,
+
+(i) the Common Council of the City of London,
+
+(j) the Council of the Isles of Scilly,
+
+[^F78]k . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6) The Secretary of State may by regulations amend subsection (5) so as to—
+
+(a) add or remove a public authority;
+
+(b) amend the entry for a public authority.
+
+### 53 Overseas domestic workers
+
+(1) Immigration rules must make provision for leave to remain in the United Kingdom to be granted to an overseas domestic worker—
+
+(a) who has been determined to be a victim of slavery or human trafficking, and
+
+(b) in relation to whom such other requirements are met as may be provided for by the rules.
+
+(2) Immigration rules must make provision as to the conditions on which such leave is to be granted, and must in particular provide—
+
+(a) that the leave is to be for the purpose of working as a domestic worker in a private household;
+
+(b) for a person who has such leave to be able to change employer (subject to paragraph (a)).
+
+(3) Immigration rules may specify a maximum period for which a person may have leave to remain in the United Kingdom by virtue of subsection (1).
+
+If they do so, the specified maximum period must not be less than 6 months.
+
+(4) For the purposes of this section an overseas domestic worker has been determined to be a victim of slavery or human trafficking if a public authority has determined that he or she is such a victim—
+
+(a) under regulations made under section 50(2)(b), or
+
+(b) where no such regulations apply, under arrangements identified in the immigration rules.
+
+(5) The Secretary of State must issue guidance to persons having functions under the Immigration Acts about the exercise of those functions in relation to an overseas domestic worker who may be a victim of slavery or human trafficking.
+
+(6) The guidance must provide for a period during which no enforcement action should be taken against such an overseas domestic worker in respect of his or her—
+
+(a) remaining in the United Kingdom beyond the time limited by his or her leave to enter or remain, or
+
+(b) breaching a condition of that leave relating to his or her employment,
+
+if he or she did so because of the matters relied on as slavery or human trafficking.
+
+(7) In this section—
+
+- “enforcement action” has the meaning given by section 24A of the Immigration Act 1971;
+
+- “immigration rules” has the same meaning as in that Act;
+
+- “overseas domestic worker” means a person who, under the immigration rules, has (or last had) leave to enter or remain in the United Kingdom as—
+
+  - (a) a domestic worker in a private household, or
+  - (b) a private servant in a diplomatic household.
+
+## PART 6 — Transparency in supply chains etc
+
+### 54 Transparency in supply chains etc
+
+(1) A commercial organisation within subsection (2) must prepare a slavery and human trafficking statement for each financial year of the organisation.
+
+(2) A commercial organisation is within this subsection if it—
+
+(a) supplies goods or services, and
+
+(b) has a total turnover of not less than an amount prescribed by regulations made by the Secretary of State.
+
+(3) For the purposes of subsection (2)(b), an organisation's total turnover is to be determined in accordance with regulations made by the Secretary of State.
+
+(4) A slavery and human trafficking statement for a financial year is—
+
+(a) a statement of the steps the organisation has taken during the financial year to ensure that slavery and human trafficking is not taking place—
+
+(i) in any of its supply chains, and
+
+(ii) in any part of its own business, or
+
+(b) a statement that the organisation has taken no such steps.
+
+(5) An organisation's slavery and human trafficking statement may include information about—
+
+(a) the organisation's structure, its business and its supply chains;
+
+(b) its policies in relation to slavery and human trafficking;
+
+(c) its due diligence processes in relation to slavery and human trafficking in its business and supply chains;
+
+(d) the parts of its business and supply chains where there is a risk of slavery and human trafficking taking place, and the steps it has taken to assess and manage that risk;
+
+(e) its effectiveness in ensuring that slavery and human trafficking is not taking place in its business or supply chains, measured against such performance indicators as it considers appropriate;
+
+(f) the training about slavery and human trafficking available to its staff.
+
+(6) A slavery and human trafficking statement—
+
+(a) if the organisation is a body corporate other than a limited liability partnership, must be approved by the board of directors (or equivalent management body) and signed by a director (or equivalent);
+
+(b) if the organisation is a limited liability partnership, must be approved by the members and signed by a designated member;
+
+(c) if the organisation is a limited partnership registered under the Limited Partnerships Act 1907, must be signed by a general partner;
+
+(d) if the organisation is any other kind of partnership, must be signed by a partner.
+
+(7) If the organisation has a website, it must—
+
+(a) publish the slavery and human trafficking statement on that website, and
+
+(b) include a link to the slavery and human trafficking statement in a prominent place on that website's homepage.
+
+(8) If the organisation does not have a website, it must provide a copy of the slavery and human trafficking statement to anyone who makes a written request for one, and must do so before the end of the period of 30 days beginning with the day on which the request is received.
+
+(9) The Secretary of State—
+
+(a) may issue guidance about the duties imposed on commercial organisations by this section;
+
+(b) must publish any such guidance in a way the Secretary of State considers appropriate.
+
+(10) The guidance may in particular include further provision about the kind of information which may be included in a slavery and human trafficking statement.
+
+(11) The duties imposed on commercial organisations by this section are enforceable by the Secretary of State bringing civil proceedings in the High Court for an injunction or, in Scotland, for specific performance of a statutory duty under section 45 of the Court of Session Act 1988.
+
+(12) For the purposes of this section—
+
+- “commercial organisation” means—
+
+  - (a) a body corporate (wherever incorporated) which carries on a business, or part of a business, in any part of the United Kingdom, or
+  - (b) a partnership (wherever formed) which carries on a business, or part of a business, in any part of the United Kingdom,
+
+  and for this purpose “business” includes a trade or profession;
+
+- “partnership” means—
+
+  - (a) a partnership within the Partnership Act 1890,
+  - (b) a limited partnership registered under the Limited Partnerships Act 1907, or
+  - (c) a firm, or an entity of a similar character, formed under the law of a country outside the United Kingdom;
+
+- “slavery and human trafficking” means—
+
+  - (a) conduct which constitutes an offence under any of the following—
+  
+    - (i) section 1, 2 or 4 of this Act,
+    - (ii) section 1, 2 or 4 of the Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015 (c. 2 (N.I.)) (equivalent offences in Northern Ireland),
+    - (iii) [[^F79]section 1 or 4 of the Human Trafficking and Exploitation (Scotland) Act 2015 (asp 12) (equivalent offences in Scotland), or]
+  
+  - (b) conduct which would constitute an offence in a part of the United Kingdom under any of those provisions if the conduct took place in that part of the United Kingdom.
+
+## PART 7 — Miscellaneous and general
+
+### Miscellaneous
+
+#### [^F80]54A Gangmasters and Labour Abuse Authority: information gateways
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F81]55 Gangmasters Licensing Authority
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### General
+
+#### 56 Interpretation
+
+[[^F82](A1) For the purposes of sections 48 to 53 (identification and protection of victims), “victim of slavery” and “victim of human trafficking” have the meanings given in regulations made by the Secretary of State under section 69 of the Nationality and Borders Act 2022.]
+
+(1) For the purposes of [[^F83]any other provision of] this Act a person is a victim of slavery if he or she is a victim of—
+
+(a) conduct which constitutes an offence under section 1, or
+
+(b) conduct which would have constituted an offence under that section if that section had been in force when the conduct occurred.
+
+(2) For the purposes of [[^F84]any other provision of] this Act a person is a victim of human trafficking if he or she is the victim of—
+
+(a) conduct which constitutes an offence under section 2, or would constitute an offence under that section if the person responsible for the conduct were a UK national, or
+
+(b) conduct which would have been within paragraph (a) if section 2 had been in force when the conduct occurred.
+
+(3) In this Act—
+
+- “child” means a person under the age of 18;
+- “country” includes territory or other part of the world;
+- “immigration officer” means a person appointed as an immigration officer under paragraph 1 of Schedule 2 to the Immigration Act 1971;
+- “public authority” means any public authority within the meaning of section 6 of the Human Rights Act 1998, other than a court or tribunal;
+- “UK national” has the meaning given by section 13.
+
+#### 57 Consequential provision
+
+(1) Schedule 5 contains minor and consequential amendments.
+
+(2) The Secretary of State may by regulations make whatever provision the Secretary of State thinks appropriate in consequence of this Act.
+
+(3) The provision which may be made by regulations under subsection (2) includes provision amending, repealing or revoking any provision of an Act or subordinate legislation (including an Act passed or subordinate legislation made in the same session as this Act).
+
+#### 58 Regulations
+
+(1) Any power of the Secretary of State to make regulations under this Act is exercisable by statutory instrument.
+
+(2) A statutory instrument containing regulations made by the Secretary of State under this Act is subject to annulment in pursuance of a resolution of either House of Parliament, unless—
+
+(a) it contains only regulations under section 61 (commencement), or
+
+(b) it contains regulations to which subsection (4) applies.
+
+(3) A statutory instrument containing regulations to which subsection (4) applies may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, each House of Parliament.
+
+(4) This section applies to—
+
+(a) regulations under section 14(4) (power to amend Schedule 1);
+
+(b) regulations under section 31(1) (power to amend section 30);
+
+(c) regulations under section 43(9) which remove a public authority from Schedule 3, other than in consequence of the authority having ceased to exist;
+
+(d) regulations under section 43(9) which contain the provision mentioned in section 43(10) (power to modify section 43);
+
+(e) regulations under section 45(8) (power to amend Schedule 4);
+
+(f) regulations under section 48(6) (independent child trafficking advocates);
+
+(g) regulations under section 50 (identifying and supporting victims);
+
+(h) regulations under section 52(6) which remove a public authority from section 52(5), other than in consequence of the authority having ceased to exist;
+
+(i) regulations under section 54(2) (minimum turnover for application of section 54);
+
+(j) the first regulations under section 54(3) (definition of turnover for purposes of section 54);
+
+[^F85]ja . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(k) regulations under section 57(2) (consequential provision) which amend, or repeal any provision of, an Act.
+
+(5) Regulations made by the Scottish Ministers under section 43(7)—
+
+(a) are subject to the affirmative procedure if they contain—
+
+(i) provision removing a public authority from Schedule 3, other than in consequence of the authority having ceased to exist, or
+
+(ii) the provision mentioned in section 43(10) (power to modify section 43);
+
+(b) otherwise, are subject to the negative procedure.
+
+(6) The power of the Department of Justice in Northern Ireland to make regulations under section 43(8) is exercisable by statutory rule for the purposes of the Statutory Rules (Northern Ireland) Order 1979 (S.I. 1979/1573 (N.I. 12)).
+
+(7) Regulations made by the Department of Justice in Northern Ireland under section 43(8) are subject to negative resolution (within the meaning of section 41(6) of the Interpretation (Northern Ireland) Act 1954 (c. 33 (N.I.))), unless they are regulations to which subsection (9) applies.
+
+(8) The Department of Justice in Northern Ireland may not make regulations to which subsection (9) applies unless a draft of the regulations has been laid before, and approved by a resolution of, the Northern Ireland Assembly.
+
+(9) This subsection applies to regulations under section 43(8) which contain—
+
+(a) provision removing a public authority from Schedule 3, other than in consequence of the authority having ceased to exist, or
+
+(b) the provision mentioned in section 43(10) (power to modify section 43).
+
+(10) Regulations made under this Act may—
+
+(a) make different provision for different purposes;
+
+(b) include saving, transitional, transitory, supplementary or consequential provision.
+
+(11) This section (apart from subsection (10)) does not apply to regulations under paragraph 5 of Schedule 2.
+
+#### 59 Financial provisions
+
+There is to be paid out of money provided by Parliament—
+
+(a) any expenditure incurred under or by virtue of this Act by the Secretary of State;
+
+(b) any increase attributable to this Act in the sums payable under any other Act out of money so provided.
+
+#### 60 Extent
+
+(1) Parts 1, 2 and 5 (except for section 53) [^F86]... extend to England and Wales only, subject to subsection (4).
+
+(2) Part 3 extends as follows—
+
+(a) section 35 extends to England and Wales only;
+
+(b) section 36 extends to Scotland only;
+
+(c) section 37 extends to Northern Ireland only;
+
+(d) sections 38 and 39, and Schedule 2, extend to England and Wales, Scotland and Northern Ireland.
+
+(3) Part 4, section 53 in Part 5 and Parts 6 and 7 [^F87]... extend to England and Wales, Scotland and Northern Ireland, subject to subsections (4) and (5).
+
+(4) An amendment or repeal made by this Act has the same extent as the provision amended or repealed.
+
+(5) But the amendments and repeals made by the following provisions of Schedule 5 extend to England and Wales only—
+
+(a) paragraph 2,
+
+(b) paragraph 5(2),
+
+(c) paragraph 6,
+
+(d) paragraph 8,
+
+(e) paragraph 21.
+
+(6) Her Majesty may by Order in Council provide for any of the provisions of this Act to extend, with or without modifications, to any of the Channel Islands or to the Isle of Man.
+
+#### 61 Commencement
+
+(1) This Act comes into force on whatever day or days the Secretary of State appoints by regulations, subject to subsections (2) and (3).
+
+(2) Section 48(7) comes into force at the end of the period of 2 months beginning with the day on which this Act is passed.
+
+(3) This Part, other than section 57(1) and Schedule 5, comes into force on the day on which this Act is passed.
+
+(4) Before making regulations bringing into force any of the provisions of Part 3, the Secretary of State must consult—
+
+(a) the Scottish Ministers, so far as the provisions extend to Scotland;
+
+(b) the Department of Justice in Northern Ireland, so far as the provisions extend to Northern Ireland.
+
+(5) The Secretary of State may not make regulations under subsection (1) bringing into force section 48(1) to (6) (or any part of it) before the end of the period of 9 months beginning with the day on which this Act is passed.
+
+(6) After the end of that period—
+
+(a) if a resolution is passed by each House of Parliament that section 48(1) to (6) (or any part of it) should come into force, the Secretary of State must make regulations under subsection (1) bringing into force that section (or that part of it);
+
+(b) the Secretary of State may not make regulations under subsection (1) bringing into force section 48(1) to (6) (or any part of it) unless required to do so by paragraph (a).
+
+(7) Regulations made by virtue of subsection (6)(a) must bring into force section 48(1) to (6) (or the part of it specified in the resolutions) before the end of the period of one month beginning with the day on which the resolutions are passed (or, if they are passed on different days, the day on which the later of them is passed).
+
+(8) The Secretary of State may by regulations make whatever saving, transitory or transitional provision the Secretary of State thinks appropriate in connection with the coming into force of any provision of this Act.
+
+#### 62 Short title
+
+This Act may be cited as the Modern Slavery Act 2015.
+
+## SCHEDULE 1 — Slavery and human trafficking offences
+
+*Section 14*
+
+### Nationality, Immigration and Asylum Act 2002 (c. 41)
+
+**1** An offence under section 145 of the Nationality, Immigration and Asylum Act 2002 (trafficking for prostitution).
+
+### Sexual Offences Act 2003 (c. 42)
+
+**2** (1) An offence under section 57, 58, 58A, 59 or 59A of the Sexual Offences Act 2003 (trafficking for sexual exploitation).
+
+(2) An offence under section 62 of that Act (committing offence with intent to commit relevant sexual offence), where the relevant sexual offence the person in question intended to commit was an offence under section 57, 58, 58A, 59 or 59A of that Act.
+
+### Criminal Justice (Scotland) Act 2003 (asp 7)
+
+**3** An offence under section 22 of the Criminal Justice (Scotland) Act 2003 (traffic in prostitution etc).
+
+### Asylum and Immigration (Treatment of Claimants, etc.) Act 2004 (c. 19)
+
+**4** An offence under section 4 of the Asylum and Immigration (Treatment of Claimants, etc.) Act 2004 (trafficking for exploitation).
+
+### Coroners and Justice Act 2009 (c. 25)
+
+**5** An offence under section 71 of the Coroners and Justice Act 2009 (slavery, servitude and forced or compulsory labour).
+
+### Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)
+
+**6** An offence under section 47 of the Criminal Justice and Licensing (Scotland) Act 2010 (slavery, servitude and forced or compulsory labour).
+
+### Modern Slavery Act 2015 (c. 30)
+
+**7** An offence under section 1, 2 or 4 of this Act.
+
+### Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015 (c. 2 (N.I.))
+
+**8** An offence under section 1, 2 or 4 of the Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015 (slavery, servitude and forced or compulsory labour; human trafficking).
+
+### [[^F88]Human Trafficking and Exploitation (Scotland) Act 2015 (asp 12)
+
+**8A** (1) An offence under section 1 or 4 of the Human Trafficking and Exploitation (Scotland) Act 2015 (human trafficking; slavery, servitude and forced or compulsory labour).
+
+(2) An offence aggravated by a connection with human trafficking activity in accordance with section 5 of that Act (general aggravation of offence).]
+
+### Ancillary offences
+
+**9** (1) An offence of attempting or conspiring to commit an offence listed in this Schedule.
+
+(2) An offence committed by aiding, abetting, counselling, procuring or inciting the commission of an offence listed in this Schedule.
+
+(3) An offence under Part 2 of the Serious Crime Act 2007 (encouraging or assisting) where the offence (or one of the offences) which the person in question intends or believes would be committed is an offence listed in this Schedule.
+
+## SCHEDULE 2 — Enforcement powers in relation to ships
+
+*Sections 35, 36 and 37*
+
+### PART 1 — England and Wales
+
+#### Introductory
+
+**1** (1) This Part of this Schedule sets out the powers exercisable by English and Welsh constables and enforcement officers under sections 35 and 38(1).
+
+(2) In this Part of this Schedule—
+
+- “items subject to legal privilege” has the same meaning as in the Police and Criminal Evidence Act 1984 (see section 10 of that Act);
+- “the ship” means the ship in relation to which the powers set out in this Part of this Schedule are exercised.
+
+#### Power to stop, board, divert and detain
+
+**2** (1) This paragraph applies if an English and Welsh constable or an enforcement officer has reasonable grounds to suspect that—
+
+(a) an offence under section 1 or 2 is being, or has been, committed on the ship, or
+
+(b) the ship is otherwise being used in connection with the commission of an offence under either of those sections.
+
+(2) The constable or enforcement officer may—
+
+(a) stop the ship;
+
+(b) board the ship;
+
+(c) require the ship to be taken to a port (in England and Wales or elsewhere) and detained there.
+
+(3) Except as provided by sub-paragraph (5), authority of the Secretary of State is required before a constable or an enforcement officer may exercise the power conferred by sub-paragraph (2)(c) to require the ship to be taken to a port outside the United Kingdom.
+
+(4) Authority for the purposes of sub-paragraph (3) may be given only if the State or relevant territory in which the port is located is willing to receive the ship.
+
+(5) If the constable or enforcement officer is acting under authority given for the purposes of section 35(5), the constable or enforcement officer may require the ship to be taken to—
+
+(a) a port in the home state or relevant territory in question, or
+
+(b) if the home state or relevant territory requests, any other State or relevant territory willing to receive the ship.
+
+(6) The constable or enforcement officer may require the master of the ship, or any member of its crew, to take such action as is necessary for the purposes of sub-paragraph (2) or (5).
+
+(7) A constable or an enforcement officer must give notice in writing to the master of any ship detained under this paragraph.
+
+(8) The notice must state that the ship is to be detained until the notice is withdrawn by the giving of a further notice in writing signed by a constable or an enforcement officer.
+
+#### Power to search and obtain information
+
+**3** (1) This paragraph applies if an English and Welsh constable or an enforcement officer has reasonable grounds to suspect that there is evidence on the ship (other than items subject to legal privilege) relating—
+
+(a) to an offence under section 1 or 2, or
+
+(b) to an offence that is connected with an offence under either of those sections.
+
+(2) The constable or enforcement officer may search—
+
+(a) the ship;
+
+(b) anyone on the ship;
+
+(c) anything on the ship (including cargo).
+
+(3) The constable or enforcement officer may require a person on the ship to give information about himself or herself or about anything on the ship.
+
+(4) The power to search conferred by sub-paragraph (2)—
+
+(a) is only a power to search to the extent that it is reasonably required for the purpose of discovering evidence of the kind mentioned in sub-paragraph (1), and
+
+(b) in the case of a search of a person, does not authorise a constable or an enforcement officer to require the person to remove any clothing in public other than an outer coat, jacket or gloves.
+
+(5) In exercising a power conferred by sub-paragraph (2) or (3) a constable or an enforcement officer may—
+
+(a) open any containers;
+
+(b) require the production of documents, books or records relating to the ship or anything on it (but not including anything the constable or enforcement officer has reasonable grounds to believe to be an item subject to legal privilege);
+
+(c) make photographs or copies of anything the production of which the constable or enforcement officer has power to require.
+
+(6) The power in sub-paragraph (5)(b) to require the production of documents, books or records includes, in relation to documents, books or records kept in electronic form, power to require the provision of the documents, books or records in a form in which they are legible and can be taken away.
+
+(7) Sub-paragraph (5) is without prejudice to the generality of the powers conferred by sub-paragraphs (2) and (3).
+
+#### Power of arrest and seizure
+
+**4** (1) This paragraph applies if an English and Welsh constable or an enforcement officer has reasonable grounds to suspect that an offence under section 1 or 2 has been, or is being, committed on the ship.
+
+(2) The constable or enforcement officer may arrest without warrant anyone whom the constable or officer has reasonable grounds for suspecting to be guilty of the offence.
+
+(3) The constable or enforcement officer may seize and detain anything found on the ship which appears to the constable or officer to be evidence of the offence (but not including anything that the constable or officer has reasonable grounds to believe to be an item subject to legal privilege).
+
+#### Code of practice
+
+**5** (1) The Secretary of State must prepare and issue a code in respect of the practice to be followed by English and Welsh constables and enforcement officers when arresting a person under the power conferred by paragraph 4.
+
+(2) The code must in particular provide guidance as to the information to be given to the person at the time of arrest (whether about procedural rights or other matters).
+
+(3) A failure of a constable or an enforcement officer to comply with any provision of the code does not of itself render the constable or officer liable to any criminal or civil proceedings.
+
+(4) The code—
+
+(a) is admissible in evidence in criminal and civil proceedings, and
+
+(b) may be taken into account by a court or tribunal in any case in which it appears to the court or tribunal to be relevant.
+
+(5) The Secretary of State may at any time revise the whole or any part of the code.
+
+(6) The code, or any revision of the code, does not come into operation until the Secretary of State so provides in regulations.
+
+(7) Regulations under this paragraph are to be made by statutory instrument.
+
+(8) An instrument containing regulations under this paragraph that bring the code into operation may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, each House of Parliament.
+
+(9) An instrument containing regulations under this paragraph that bring a revision of the code into operation must be laid before Parliament (if the regulations are made without a draft having been laid and approved as mentioned in sub-paragraph (8)).
+
+(10) Where an instrument, or a draft of an instrument, is laid, the code or revision of the code to which it relates must also be laid.
+
+#### Assistants
+
+**6** (1) An English and Welsh constable or an enforcement officer may—
+
+(a) be accompanied by other persons, and
+
+(b) take equipment or materials,
+
+to assist the constable or officer in the exercise of powers under this Part of this Schedule.
+
+(2) A person accompanying a constable or an enforcement officer under sub-paragraph (1) may perform any of the constable's or officer's functions under this Part of this Schedule, but only under the constable's or officer's supervision.
+
+#### Reasonable force
+
+**7** An English and Welsh constable or an enforcement officer may use reasonable force, if necessary, in the performance of functions under this Part of this Schedule.
+
+#### Evidence of authority
+
+**8** An English and Welsh constable or an enforcement officer must produce evidence of the constable's or officer's authority if asked to do so.
+
+#### Protection of constables and enforcement officers
+
+**9** An English and Welsh constable or an enforcement officer is not liable in any criminal or civil proceedings for anything done in the purported performance of functions under this Part of this Schedule if the court is satisfied that—
+
+(a) the act was done in good faith, and
+
+(b) there were reasonable grounds for doing it.
+
+#### Offences
+
+**10** (1) A person commits an offence under the law of England and Wales if the person—
+
+(a) intentionally obstructs a constable or an enforcement officer in the performance of functions under this Part of this Schedule, or
+
+(b) fails without reasonable excuse to comply with a requirement made by a constable or an enforcement officer in the performance of those functions.
+
+(2) A person who provides information in response to a requirement made by a constable or an enforcement officer in the performance of functions under this Part of this Schedule commits an offence under the law of England and Wales if—
+
+(a) the information is false in a material particular, and the person either knows it is or is reckless as to whether it is, or
+
+(b) the person intentionally fails to disclose any material particular.
+
+(3) A person guilty of an offence under this paragraph is liable on summary conviction to a fine.
+
+### PART 2 — Scotland
+
+#### Introductory
+
+**11** (1) This Part of this Schedule sets out the powers exercisable by Scottish constables and enforcement officers under sections 36 and 38(4).
+
+(2) In this Part of this Schedule—
+
+- “items subject to legal privilege” has the same meaning as in Chapter 3 of Part 8 of the Proceeds of Crime Act 2002 (see section 412 of that Act);
+- “listed offence” has the meaning given by section 36(8);
+- “the ship” means the ship in relation to which the powers set out in this Part of this Schedule are exercised.
+
+#### Power to stop, board, divert and detain
+
+**12** (1) This paragraph applies if a Scottish constable or an enforcement officer has reasonable grounds to suspect that—
+
+(a) a listed offence is being, or has been, committed on the ship, or
+
+(b) the ship is otherwise being used in connection with the commission of a listed offence.
+
+(2) The constable or enforcement officer may—
+
+(a) stop the ship;
+
+(b) board the ship;
+
+(c) require the ship to be taken to a port (in Scotland or elsewhere) and detained there.
+
+(3) Except as provided by sub-paragraph (5), authority of the Secretary of State is required before a constable or an enforcement officer may exercise the power conferred by sub-paragraph (2)(c) to require the ship to be taken to a port outside the United Kingdom.
+
+(4) Authority for the purposes of sub-paragraph (3) may be given only if the State or relevant territory in which the port is located is willing to receive the ship.
+
+(5) If the constable or enforcement officer is acting under authority given for the purposes of section 36(5), the constable or officer may require the ship to be taken to—
+
+(a) a port in the home state or relevant territory in question, or
+
+(b) if the home state or relevant territory requests, any other State or relevant territory willing to receive the ship.
+
+(6) The constable or enforcement officer may require the master of the ship, or any member of its crew, to take such action as is necessary for the purposes of sub-paragraph (2) or (5).
+
+(7) A constable or an enforcement officer must give notice in writing to the master of any ship detained under this paragraph.
+
+(8) The notice must state that the ship is to be detained until the notice is withdrawn by the giving of a further notice in writing signed by a constable or an enforcement officer.
+
+#### Power to search and obtain information
+
+**13** (1) This paragraph applies if a Scottish constable or an enforcement officer has reasonable grounds to suspect that there is evidence on the ship (other than items subject to legal privilege) relating—
+
+(a) to a listed offence, or
+
+(b) to an offence that is connected with a listed offence.
+
+(2) The constable or enforcement officer may search—
+
+(a) the ship;
+
+(b) anyone on the ship;
+
+(c) anything on the ship (including cargo).
+
+(3) The constable or enforcement officer may require a person on the ship to give information about himself or herself.
+
+(4) The power to search conferred by sub-paragraph (2)—
+
+(a) is only a power to search to the extent that it is reasonably required for the purpose of discovering evidence of the kind mentioned in sub-paragraph (1), and
+
+(b) in the case of a search of a person, does not authorise a constable or an enforcement officer to require the person to remove any clothing in public other than an outer coat, jacket or gloves.
+
+(5) In exercising a power conferred by sub-paragraph (2) or (3) a constable or an enforcement officer may—
+
+(a) open any containers;
+
+(b) require the production of documents, books or records relating to the ship or anything on it (but not including anything the constable or officer has reasonable grounds to believe to be an item subject to legal privilege);
+
+(c) make photographs or copies of anything the production of which the constable or officer has power to require.
+
+(6) The power in sub-paragraph (5)(b) to require the production of documents, books or records includes, in relation to documents, books or records kept in electronic form, power to require the provision of the documents, books or records in a form in which they are legible and can be taken away.
+
+(7) Sub-paragraph (5) is without prejudice to the generality of the powers conferred by sub-paragraphs (2) and (3).
+
+#### Power of arrest and seizure
+
+**14** (1) This paragraph applies if a Scottish constable or an enforcement officer has reasonable grounds to suspect that a listed offence has been, or is being, committed on the ship.
+
+(2) The constable or enforcement officer may arrest without warrant anyone whom the constable or officer has reasonable grounds for suspecting to be guilty of the offence.
+
+(3) The constable or enforcement officer may seize and detain anything found on the ship which appears to the constable or officer to be evidence of the offence (but not including anything that the constable or officer has reasonable grounds to believe to be an item subject to legal privilege).
+
+#### Assistants
+
+**15** (1) A Scottish constable or an enforcement officer may—
+
+(a) be accompanied by other persons, and
+
+(b) take equipment or materials,
+
+to assist the constable or officer in the exercise of powers under this Part of this Schedule.
+
+(2) A person accompanying a constable or an enforcement officer under sub-paragraph (1) may perform any of the constable's or officer's functions under this Part of this Schedule, but only under the constable's or officer's supervision.
+
+#### Reasonable force
+
+**16** A Scottish constable or an enforcement officer may use reasonable force, if necessary, in the performance of functions under this Part of this Schedule.
+
+#### Evidence of authority
+
+**17** A Scottish constable or an enforcement officer must produce evidence of the constable's or officer's authority if asked to do so.
+
+#### Offences
+
+**18** (1) A person commits an offence under the law of Scotland if the person—
+
+(a) intentionally obstructs a constable or an enforcement officer in the performance of functions under this Part of this Schedule, or
+
+(b) fails without reasonable excuse to comply with a requirement made by a constable or an enforcement officer in the performance of those functions.
+
+(2) A person who provides information in response to a requirement made by a Scottish constable or an enforcement officer in the performance of functions under this Part of this Schedule commits an offence under the law of Scotland if—
+
+(a) the information is false in a material particular, and the person either knows it is or is reckless as to whether it is, or
+
+(b) the person intentionally fails to disclose any material particular.
+
+(3) A person guilty of an offence under this paragraph is liable—
+
+(a) on summary conviction, to a fine not exceeding the statutory maximum;
+
+(b) on conviction on indictment, to a fine.
+
+### PART 3 — Northern Ireland
+
+#### Introductory
+
+**19** (1) This Part of this Schedule sets out the powers exercisable by Northern Ireland constables and enforcement officers under sections 37 and 38(7).
+
+(2) In this Part of this Schedule—
+
+- “items subject to legal privilege” has the same meaning as in the Police and Criminal Evidence (Northern Ireland) Order 1989 (1989/1341 (N.I. 12)) (see Article 12 of that Order);
+- “listed offence” has the meaning given by section 37(9);
+- “the ship” means the ship in relation to which the powers set out in this Part of this Schedule are exercised.
+
+#### Power to stop, board, divert and detain
+
+**20** (1) This paragraph applies if a Northern Ireland constable or an enforcement officer has reasonable grounds to suspect that—
+
+(a) a listed offence is being, or has been, committed on the ship, or
+
+(b) the ship is otherwise being used in connection with the commission of a listed offence.
+
+(2) The constable or enforcement officer may—
+
+(a) stop the ship;
+
+(b) board the ship;
+
+(c) require the ship to be taken to a port (in Northern Ireland or elsewhere) and detained there.
+
+(3) Except as provided by sub-paragraph (5), authority of the Secretary of State is required before a constable or an enforcement officer may exercise the power conferred by sub-paragraph (2)(c) to require the ship to be taken to a port outside the United Kingdom.
+
+(4) Authority for the purposes of sub-paragraph (3) may be given only if the State or relevant territory in which the port is located is willing to receive the ship.
+
+(5) If the constable or enforcement officer is acting under authority given for the purposes of section 37(6), the constable or officer may require the ship to be taken to—
+
+(a) a port in the home state or relevant territory in question, or
+
+(b) if the home state or relevant territory requests, any other State or relevant territory willing to receive the ship.
+
+(6) The constable or enforcement officer may require the master of the ship, or any member of its crew, to take such action as is necessary for the purposes of sub-paragraph (2) or (5).
+
+(7) A constable or an enforcement officer must give notice in writing to the master of any ship detained under this paragraph.
+
+(8) The notice must state that the ship is to be detained until the notice is withdrawn by the giving of a further notice in writing signed by a constable or an enforcement officer.
+
+#### Power to search and obtain information
+
+**21** (1) This paragraph applies if a Northern Ireland constable or an enforcement officer has reasonable grounds to suspect that there is evidence on the ship (other than items subject to legal privilege) relating—
+
+(a) to a listed offence, or
+
+(b) to an offence that is connected with a listed offence.
+
+(2) The constable or enforcement officer may search—
+
+(a) the ship;
+
+(b) anyone on the ship;
+
+(c) anything on the ship (including cargo).
+
+(3) The constable or enforcement officer may require a person on the ship to give information about himself or herself or about anything on the ship.
+
+(4) The power to search conferred by sub-paragraph (2)—
+
+(a) is only a power to search to the extent that it is reasonably required for the purpose of discovering evidence of the kind mentioned in sub-paragraph (1), and
+
+(b) in the case of a search of a person, does not authorise a constable or an enforcement officer to require the person to remove any clothing in public other than an outer coat, jacket or gloves.
+
+(5) In exercising a power conferred by sub-paragraph (2) or (3) a constable or an enforcement officer may—
+
+(a) open any containers;
+
+(b) require the production of documents, books or records relating to the ship or anything on it (but not including anything the constable or officer has reasonable grounds to believe to be an item subject to legal privilege);
+
+(c) make photographs or copies of anything the production of which the constable or officer has power to require.
+
+(6) The power in sub-paragraph (5)(b) to require the production of documents, books or records includes, in relation to documents, books or records kept in electronic form, power to require the provision of the documents, books or records in a form in which they are legible and can be taken away.
+
+(7) Sub-paragraph (5) is without prejudice to the generality of the powers conferred by sub-paragraphs (2) and (3).
+
+#### Power of arrest and seizure
+
+**22** (1) This paragraph applies if a Northern Ireland constable or an enforcement officer has reasonable grounds to suspect that a listed offence has been, or is being, committed on the ship.
+
+(2) The constable or enforcement officer may arrest without warrant anyone whom the constable or officer has reasonable grounds for suspecting to be guilty of the offence.
+
+(3) The constable or enforcement officer may seize and detain anything found on the ship which appears to the constable or officer to be evidence of the offence (but not including anything that the constable or officer has reasonable grounds to believe to be an item subject to legal privilege).
+
+#### Code of practice
+
+**23** (1) The Department of Justice in Northern Ireland must prepare and issue a code in respect of the practice to be followed by Northern Ireland constables and enforcement officers when arresting a person under the power conferred by paragraph 22.
+
+(2) The code must in particular provide guidance as to the information to be given to the person at the time of arrest (whether about procedural rights or other matters).
+
+(3) A failure of a constable or an enforcement officer to comply with any provision of the code does not of itself render the constable or officer liable to any criminal or civil proceedings.
+
+(4) The code—
+
+(a) is admissible in evidence in criminal and civil proceedings, and
+
+(b) may be taken into account by a court or tribunal in any case in which it appears to the court or tribunal to be relevant.
+
+(5) The Department of Justice may at any time revise the whole or any part of the code.
+
+(6) The code, or any revision of the code, does not come into operation until the Department of Justice—
+
+(a) lays a draft of the code, or revised code, before the Northern Ireland Assembly, and
+
+(b) provides by order for the code, or revised code, to come into operation.
+
+(7) An order bringing the code into operation may contain such transitional provisions or savings as appear to the Department of Justice to be necessary or expedient.
+
+(8) An order under this paragraph is subject to negative resolution (within the meaning of section 41(6) of the Interpretation Act (Northern Ireland) 1954 (c. 33 (N.I.))).
+
+(9) The power of the Department of Justice to make an order under this paragraph is exercisable by statutory rule for the purposes of the Statutory Rules (Northern Ireland) Order 1979 (S.I. 1979/1573 (N.I. 12)).
+
+#### Assistants
+
+**24** (1) A Northern Ireland constable or an enforcement officer may—
+
+(a) be accompanied by other persons, and
+
+(b) take equipment or materials,
+
+to assist the constable or officer in the exercise of powers under this Part of this Schedule.
+
+(2) A person accompanying a constable or an enforcement officer under sub-paragraph (1) may perform any of the constable's or officer's functions under this Part of this Schedule, but only under the constable's or officer's supervision.
+
+#### Reasonable force
+
+**25** A Northern Ireland constable or an enforcement officer may use reasonable force, if necessary, in the performance of functions under this Part of this Schedule.
+
+#### Evidence of authority
+
+**26** A Northern Ireland constable or an enforcement officer must produce evidence of the constable's or officer's authority if asked to do so.
+
+#### Protection of constables and enforcement officers
+
+**27** A Northern Ireland constable or an enforcement officer is not liable in any criminal or civil proceedings for anything done in the purported performance of functions under this Part of this Schedule if the court is satisfied that—
+
+(a) the act was done in good faith, and
+
+(b) there were reasonable grounds for doing it.
+
+#### Offences
+
+**28** (1) A person commits an offence under the law of Northern Ireland if the person—
+
+(a) intentionally obstructs a constable or an enforcement officer in the performance of functions under this Part of this Schedule, or
+
+(b) fails without reasonable excuse to comply with a requirement made by a constable or an enforcement officer in the performance of those functions.
+
+(2) A person who provides information in response to a requirement made by a Northern Ireland constable or an enforcement officer in the performance of functions under this Part of this Schedule commits an offence under the law of Northern Ireland if—
+
+(a) the information is false in a material particular, and the person either knows it is or is reckless as to whether it is, or
+
+(b) the person intentionally fails to disclose any material particular.
+
+(3) A person guilty of an offence under this paragraph is liable—
+
+(a) on summary conviction, to a fine not exceeding the statutory maximum;
+
+(b) on conviction on indictment, to imprisonment for a term not exceeding 2 years or to a fine, or to both.
+
+## SCHEDULE 3 — Public authorities under a duty to co-operate with the Commissioner
+
+*Section 43*
+
+### Law enforcement and border security
+
+- A chief officer of police for a police area in England and Wales.
+- The chief constable of the British Transport Police Force.
+- The National Crime Agency.
+- An immigration officer or other official of the Secretary of State exercising functions in relation to immigration or asylum.
+- A designated customs official (within the meaning of Part 1 of the Borders, Citizenship and Immigration Act 2009).
+
+### Local government
+
+- A county council in England or Wales.
+- A county borough council in Wales.
+- A district council in England.
+- A London borough council.
+- The Greater London Authority.
+- The Common Council of the City of London.
+- The Council of the Isles of Scilly.
+
+### Health bodies
+
+- A National Health Service trust established under section 25 of the National Health Service Act 2006 or section 18 of the National Health Service (Wales) Act 2006.
+- An NHS foundation trust within the meaning given by section 30 of the National Health Service Act 2006.
+- A Local Health Board established under section 11 of the National Health Service (Wales) Act 2006.
+
+### [^F89]...
+
+- [^F90]...
+- [^F91] ...
+
+### [[^F92]Northern Irish public authority
+
+- Law enforcement
+
+  - The Chief Constable of the Police Service of Northern Ireland
+  - The Probation Board for Northern Ireland
+
+- Northern Ireland Departments
+
+  - The Department of Justice for Northern Ireland
+
+  Health bodies
+
+  - [^F93]...
+  - The Belfast Health and Social Care Trust
+  - The Northern Health and Social Care Trust
+  - The South Eastern Health and Social Care Trust
+  - The Southern Health and Social Care Trust
+  - The Western Health and Social Care Trust]
+
+## SCHEDULE 4 — Offences to which defence in section 45 does not apply
+
+*Section 45*
+
+### Common law offences
+
+**1** False imprisonment.
+
+**2** Kidnapping.
+
+**3** Manslaughter.
+
+**4** Murder.
+
+**5** Perverting the course of justice.
+
+**6** Piracy.
+
+### Offences against the Person Act 1861 (c. 100)
+
+**7** An offence under any of the following provisions of the Offences Against the Person Act 1861—
+
+- section 4 (soliciting murder)
+- section 16 (threats to kill)
+- section 18 (wounding with intent to cause grievous bodily harm)
+- section 20 (malicious wounding)
+- section 21 (attempting to choke, suffocate or strangle in order to commit or assist in committing an indictable offence)
+- section 22 (using drugs etc to commit or assist in the committing of an indictable offence)
+- section 23 (maliciously administering poison etc so as to endanger life or inflict grievous bodily harm)
+- section 27 (abandoning children)
+- section 28 (causing bodily injury by explosives)
+- section 29 (using explosives with intent to do grievous bodily harm)
+- section 30 (placing explosives with intent to do bodily injury)
+- section 31 (setting spring guns etc with intent to do grievous bodily harm)
+- section 32 (endangering safety of railway passengers)
+- section 35 (injuring persons by furious driving)
+- section 37 (assaulting officer preserving wreck)
+- section 38 (assault with intent to resist arrest).
+
+### Explosive Substances Act 1883 (c. 3)
+
+**8** An offence under any of the following provisions of the Explosive Substances Act 1883—
+
+- section 2 (causing explosion likely to endanger life or property)
+- section 3 (attempt to cause explosion, or making or keeping explosive with intent to endanger life or property)
+- section 4 (making or possession of explosives under suspicious circumstances).
+
+### Infant Life (Preservation) Act 1929 (c. 34)
+
+**9** An offence under section 1 of the Infant Life (Preservation) Act 1929 (child destruction).
+
+### Children and Young Persons Act 1933 (c. 12)
+
+**10** An offence under section 1 of the Children and Young Persons Act 1933 (cruelty to children).
+
+### Public Order Act 1936 (1 Edw. 8 & 1 Geo. 6 c. 6)
+
+**11** An offence under section 2 of the Public Order Act 1936 (control etc of quasi-military organisation).
+
+### Infanticide Act 1938 (c. 36)
+
+**12** An offence under section 1 of the Infanticide Act 1938 (infanticide).
+
+### Firearms Act 1968 (c. 27)
+
+**13** An offence under any of the following provisions of the Firearms Act 1968—
+
+- section 5 (possession of prohibited firearms)
+- section 16 (possession of firearm with intent to endanger life)
+- section 16A (possession of firearm with intent to cause fear of violence)
+- section 17(1) (use of firearm to resist arrest)
+- section 17(2) (possession of firearm at time of committing or being arrested for specified offence)
+- section 18 (carrying firearm with criminal intent).
+
+### Theft Act 1968 (c. 60)
+
+**14** An offence under any of the following provisions of the Theft Act 1968—
+
+- section 8 (robbery or assault with intent to rob)
+- section 9 (burglary), where the offence is committed with intent to inflict grievous bodily harm on a person, or to do unlawful damage to a building or anything in it
+- section 10 (aggravated burglary)
+- section 12A (aggravated vehicle-taking), where the offence involves an accident which causes the death of any person
+- section 21 (blackmail).
+
+### Criminal Damage Act 1971 (c. 48)
+
+**15** The following offences under the Criminal Damage Act 1971—
+
+- an offence of arson under section 1
+- an offence under section 1(2) (destroying or damaging property) other than an offence of arson.
+
+### Immigration Act 1971 (c. 77)
+
+**16** An offence under section 25 of the Immigration Act 1971 (assisting unlawful immigration to member state [[^F94]or the United Kingdom]).
+
+### Customs and Excise Management Act 1979 (c. 2)
+
+**17** An offence under section 170 of the Customs and Excise Management Act 1979 (penalty for fraudulent evasion of duty etc) in relation to goods prohibited to be imported under section 42 of the Customs Consolidation Act 1876 (indecent or obscene articles).
+
+### Taking of Hostages Act 1982 (c. 28)
+
+**18** An offence under section 1 of the Taking of Hostages Act 1982 (hostage-taking).
+
+### Aviation Security Act 1982 (c. 36)
+
+**19** An offence under any of the following provisions of the Aviation Security Act 1982—
+
+- section 1 (hijacking)
+- section 2 (destroying, damaging or endangering safety of aircraft)
+- section 3 (other acts endangering or likely to endanger safety of aircraft)
+- section 4 (offences in relation to certain dangerous articles).
+
+### Mental Health Act 1983 (c. 20)
+
+**20** An offence under section 127 of the Mental Health Act 1983 (ill-treatment of patients).
+
+### Child Abduction Act 1984 (c. 37)
+
+**21** An offence under any of the following provisions of the Child Abduction Act 1984—
+
+- section 1 (abduction of child by parent etc)
+- section 2 (abduction of child by other persons).
+
+### Public Order Act 1986 (c. 64)
+
+**22** An offence under any of the following provisions of the Public Order Act 1986—
+
+- section 1 (riot)
+- section 2 (violent disorder).
+
+### Criminal Justice Act 1988 (c. 33)
+
+**23** An offence under section 134 of the Criminal Justice Act 1988 (torture).
+
+### Road Traffic Act 1988 (c. 52)
+
+**24** An offence under any of the following provisions of the Road Traffic Act 1988—
+
+- section 1 (causing death by dangerous driving)
+- section 3A (causing death by careless driving when under the influence of drink or drugs).
+
+### Aviation and Maritime Security Act 1990 (c. 31)
+
+**25** An offence under any of the following provisions of the Aviation and Maritime Security Act 1990—
+
+- section 1 (endangering safety at aerodromes)
+- section 9 (hijacking of ships)
+- section 10 (seizing or exercising control of fixed platforms)
+- section 11 (destroying fixed platforms or endangering their safety)
+- section 12 (other acts endangering or likely to endanger safe navigation)
+- section 13 (offences involving threats).
+
+### Channel Tunnel (Security) Order 1994 (S.I. 1994/570)
+
+**26** An offence under Part 2 of the Channel Tunnel (Security) Order 1994 (SI 1994/570) (offences relating to Channel Tunnel trains and the tunnel system).
+
+### Protection from Harassment Act 1997 (c. 40)
+
+**27** An offence under any of the following provisions of the Protection from Harassment Act 1997—
+
+- section 4 (putting people in fear of violence)
+- section 4A (stalking involving fear of violence or serious alarm or distress).
+
+### Crime and Disorder Act 1998 (c. 37)
+
+**28** An offence under any of the following provisions of the Crime and Disorder Act 1998 —
+
+- section 29 (racially or religiously aggravated assaults)
+- section 31(1)(a) or (b) (racially or religiously aggravated offences under section 4 or 4A of the Public Order Act 1986).
+
+### Terrorism Act 2000 (c. 11)
+
+**29** An offence under any of the following provisions of the Terrorism Act 2000—
+
+- [[^F95]section 11 (membership of a proscribed organisation)
+- section 12 (support of a proscribed organisation)
+- section 15 (fund-raising for terrorism)
+- section 16 (use and possession of property for terrorism)
+- section 17 (funding arrangements)
+- section 17A (insurance against payments made in response to terrorist demands)
+- section 18 (money laundering)
+- section 19 (disclosure of information: duty)
+- section 21A (failure to disclose: regulated sector)
+- section 38B (information about acts of terrorism)
+- section 39 (disclosure of information prejudicial to investigation)]
+- section 54 (weapons training)
+- section 56 (directing terrorist organisation)
+- section 57 (possession of article for terrorist purposes)
+- [[^F96]section 58 (collection of information)
+- section 58A (eliciting, publishing or communicating information about members of armed forces etc)
+- section 58B (entering or remaining in a designated area)]
+- section 59 (inciting terrorism overseas).
+
+### International Criminal Court Act 2001 (c. 17)
+
+**30** An offence under any of the following provisions of the International Criminal Court Act 2001—
+
+- section 51 (genocide, crimes against humanity and war crimes)
+- section 52 (ancillary conduct).
+
+### Anti-terrorism, Crime and Security Act 2001 (c. 24)
+
+**31** An offence under any of the following provisions of the Anti-terrorism, Crime and Security Act 2001—
+
+- section 47 (use of nuclear weapons)
+- section 50 (assisting or inducing certain weapons-related acts overseas)
+- [[^F97]section 67 (security of pathogens and toxins)
+- section 79 (disclosures relating to nuclear security)]
+- section 113 (use of noxious substance or thing to cause harm or intimidate).
+
+### Female Genital Mutilation Act 2003 (c. 31)
+
+**32** An offence under any of the following provisions of the Female Genital Mutilation Act 2003—
+
+- section 1 (female genital mutilation)
+- section 2 (assisting a girl to mutilate her own genitalia)
+- section 3 (assisting a non-UK person to mutilate overseas a girl's genitalia).
+
+### Sexual Offences Act 2003 (c. 42)
+
+**33** An offence under any of the following provisions of the Sexual Offences Act 2003—
+
+- section 1 (rape)
+- section 2 (assault by penetration)
+- section 3 (sexual assault)
+- section 4 (causing person to engage in sexual activity without consent)
+- section 5 (rape of child under 13)
+- section 6 (assault of child under 13 by penetration)
+- section 7 (sexual assault of child under 13)
+- section 8 (causing or inciting child under 13 to engage in sexual activity)
+- section 9 (sexual activity with a child)
+- section 10 (causing or inciting a child to engage in sexual activity)
+- section 13 (child sex offences committed by children or young persons)
+- section 14 (arranging or facilitating commission of child sex offence)
+- section 15 (meeting a child following sexual grooming)
+- section 16 (abuse of position of trust: sexual activity with a child)
+- section 17 (abuse of position of trust: causing or inciting a child to engage in sexual activity)
+- section 18 (abuse of position of trust: sexual activity in presence of child)
+- section 19 (abuse of position of trust: causing a child to watch a sexual act)
+- section 25 (sexual activity with a child family member)
+- section 26 (inciting a child family member to engage in sexual activity)
+- section 30 (sexual activity with a person with a mental disorder impeding choice)
+- section 31 (causing or inciting a person with a mental disorder impeding choice to engage in sexual activity)
+- section 32 (engaging in sexual activity in the presence of a person with a mental disorder impeding choice)
+- section 33 (causing a person with a mental disorder impeding choice to watch a sexual act)
+- section 34 (inducement, threat or deception to procure sexual activity with a person with a mental disorder)
+- section 35 (causing a person with a mental disorder to engage in or agree to engage in sexual activity by inducement, threat or deception)
+- section 36 (engaging in sexual activity in the presence, procured by inducement, threat or deception, of a person with a mental disorder)
+- section 37 (causing a person with a mental disorder to watch a sexual act by inducement, threat or deception)
+- section 38 (care workers: sexual activity with a person with a mental disorder)
+- section 39 (care workers: causing or inciting sexual activity)
+- section 40 (care workers: sexual activity in the presence of a person with a mental disorder)
+- section 41 (care workers: causing a person with a mental disorder to watch a sexual act)
+- section 47 (paying for sexual services of a child)
+- section 48 (causing or inciting child prostitution or pornography)
+- section 49 (controlling a child prostitute or a child involved in pornography)
+- section 50 (arranging or facilitating child prostitution or pornography)
+- section 61 (administering a substance with intent)
+- section 62 (committing offence with intent to commit sexual offence)
+- section 63 (trespass with intent to commit sexual offence)
+- section 64 (sex with an adult relative: penetration)
+- section 65 (sex with an adult relative: consenting to penetration)
+- section 66 (exposure)
+- [[^F98]section 66A (sending etc photograph or film of genitals)
+- section 66B(2) (sharing intimate photograph or film with intent to cause alarm, distress or humiliation)
+- section 66B(3) (sharing intimate photograph or film for purpose of obtaining sexual gratification)]
+- section 67 (voyeurism)
+- [[^F99]section 67A (voyeurism: additional offences)]
+- section 70 ([[^F100]sexual activity with] a corpse).
+
+### Domestic Violence, Crime and Victims Act 2004 (c. 28)
+
+**34** An offence under section 5 of the Domestic Violence, Crime and Victims Act 2004 (causing or allowing a child or vulnerable adult to die or suffer serious physical harm).
+
+### Terrorism Act 2006 (c. 11)
+
+**35** An offence under any of the following provisions of the Terrorism Act 2006—
+
+- [[^F101]section 1 (encouragement of terrorism)
+- section 2 (dissemination of terrorist publications)]
+- section 5 (preparation of terrorist acts)
+- section 6 (training for terrorism)
+- [[^F102]section 8 (attendance at a place used for terrorist training)]
+- section 9 (making or possession of radioactive device or material)
+- section 10 (use of radioactive device or material for terrorist purposes)
+- section 11 (terrorist threats relating to radioactive devices etc).
+
+### [[^F103]Counter-Terrorism Act 2008 (c.28)
+
+**35ZA** An offence under section 54 of the Counter-Terrorism Act 2008 (offences relating to notification).
+
+### Terrorism Prevention and Investigation Measures Act 2011 (c. 23)
+
+**35ZB** An offence under section 23 of the Terrorism Prevention and Investigation Measures Act 2011 (contravention of terrorism prevention and investigation measures notice).
+
+### Counter-Terrorism and Security Act 2015 (c. 6)
+
+**35ZC** An offence under section 10 of the Counter-Terrorism and Security Act 2015 (breach of temporary exclusion order or notice).]
+
+### [[^F104]Serious Crime Act 2015
+
+**35A** An offence under section 75A of the Serious Crime Act 2015 (strangulation or suffocation).]
+
+### Modern Slavery Act 2015 (c. 30)
+
+**36** An offence under any of the following provisions of the Modern Slavery Act 2015—
+
+- section 1 (slavery, servitude and forced or compulsory labour)
+- section 2 (human trafficking).
+
+**[[^F105]36A** An offence under any of the following provisions of Schedule 4 to the Space Industry Act 2018—
+
+- paragraph 1 (hijacking of spacecraft)
+- paragraph 2 (destroying, damaging or endangering safety of spacecraft)
+- paragraph 3 (other acts endangering or likely to endanger safety of spacecraft)
+- paragraph 4 (endangering safety at spaceports)
+- paragraph 5 (offences in relation to certain dangerous articles).]
+
+### [[^F106]Health and Care Act 2022
+
+**36B** An offence under any of the following provisions of the Health and Care Act 2022—
+
+(a) section 136 (virginity testing);
+
+(b) section 137 (offering to carry out virginity testing);
+
+(c) section 138 (aiding or abetting etc a person to carry out virginity testing);
+
+(d) section 148 (carrying out hymenoplasty);
+
+(e) section 149 (offering to carry out hymenoplasty);
+
+(f) section 150 (aiding or abetting etc a person to carry out hymenoplasty).]
+
+### [[^F107]National Security Act 2023
+
+**36C** An offence under any of the following provisions of the National Security Act 2023—
+
+- section 1 (obtaining or disclosing protected information);
+- section 2 (obtaining or disclosing trade secrets);
+- section 3 (assisting a foreign intelligence service);
+- section 4 (entering a prohibited place for a purpose prejudicial to the UK);
+- section 12 (sabotage);
+- section 13 (foreign interference: general);
+- section 17 (obtaining material benefits from a foreign intelligence service);
+- section 18 (preparatory conduct).]
+
+### Ancillary offences
+
+**37** (1) An offence of attempting or conspiring to commit an offence listed in this Schedule.
+
+(2) An offence committed by aiding, abetting, counselling or procuring an offence listed in this Schedule.
+
+(3) An offence under Part 2 of the Serious Crime Act 2007 (encouraging or assisting) where the offence (or one of the offences) which the person in question intends or believes would be committed is an offence listed in this Schedule.
+
+## [^F108]SCHEDULE 4A — Information gateways: specified persons
+
+*Section 54A*
+
+### [^F108]Authorities with functions in connection with the labour market etc
+
+#### [^F108]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F108]Law enforcement and border security
+
+#### [^F108]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F108]Local government
+
+#### [^F108]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F108]Health bodies
+
+#### [^F108]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F108]Other
+
+#### [^F108]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 5 — Minor and consequential amendments
+
+*Section 57*
+
+### PART 1 — Amendments relating to offences
+
+#### Children and Young Persons Act 1933 (c. 12)
+
+**1** (1) Schedule 1 to the Children and Young Persons Act 1933 (offences against children and young persons to which special provisions of the Act apply) is amended as follows.
+
+(2) In the first entry relating to the Sexual Offences Act 2003 omit “59A to”.
+
+(3) Omit the entry relating to the Asylum and Immigration (Treatment of Claimants, etc.) Act 2004.
+
+(4) After that entry insert— “ An offence against a child or young person under section 2 of the Modern Slavery Act 2015 (human trafficking), or any attempt to commit such an offence. ”
+
+#### Immigration Act 1971 (c. 77)
+
+**2** In section 25C of the Immigration Act 1971 (forfeiture of vehicle, ship or aircraft) in subsections (9)(b), (10)(b) and (11) for the words from “a passenger” to the end substitute “ the victim of conduct which constitutes an offence under section 2 of the Modern Slavery Act 2015 (human trafficking). ”
+
+#### Police and Criminal Evidence Act 1984 (c. 60)
+
+**3** In section 65A(2) of the Police and Criminal Evidence Act 1984 (questioning and treatment of persons by police: meaning of “qualifying offence”) after paragraph (r) insert—
+
+> (s) an offence under section 2 of the Modern Slavery Act 2015 (human trafficking).
+
+#### Sexual Offences (Amendment) Act 1992 (c. 34)
+
+**4** In section 2(1) of the Sexual Offences (Amendment) Act 1992 (offences under law of England and Wales to which the Act applies)—
+
+(a) after paragraph (da) insert—
+
+> (db) any offence under section 2 of the Modern Slavery Act 2015 (human trafficking);
+
+;
+
+(b) in paragraph (e) for “(da)” substitute “ (db) ”.
+
+#### Sexual Offences Act 2003 (c. 42)
+
+**5** (1) The Sexual Offences Act 2003 is amended as follows.
+
+(2) Omit sections 59A to 60C (trafficking for sexual exploitation; forfeiture and detention).
+
+(3) In Schedule 5 (relevant offences for purposes of notification and orders) after paragraph 63A insert—
+
+> **63B** An offence under section 2 of the Modern Slavery Act 2015 (human trafficking).
+
+(4) In Schedule 6, omit paragraphs 31(2)(b) and 46(2).
+
+#### Asylum and Immigration (Treatment of Claimants, etc.) Act 2004 (c. 19)
+
+**6** (1) The Asylum and Immigration (Treatment of Claimants, etc.) Act 2004 is amended as follows.
+
+(2) Omit section 4 (trafficking people for exploitation).
+
+(3) In section 5 (section 4 - supplementary provision) omit subsections (3) to (7) and (11).
+
+(4) In section 14(2) (immigration officers' power of arrest)—
+
+(a) omit paragraphs (n) and (p);
+
+(b) after paragraph (q) insert—
+
+> (r) an offence under section 2 of the Modern Slavery Act 2015.
+
+#### Serious Crime Act 2007 (c. 27)
+
+**7** (1) Part 1 of Schedule 1 to the Serious Crime Act 2007 (serious offences: England and Wales) is amended as follows.
+
+(2) After paragraph 1 insert—
+
+> **Slavery etc**
+>
+> **1A** An offence under section 1 of the Modern Slavery Act 2015 (slavery, servitude and forced or compulsory labour).
+
+(3) In paragraph 2, at the end insert—
+
+> (4) An offence under section 2 of the Modern Slavery Act 2015.
+
+#### Coroners and Justice Act 2009 (c. 25)
+
+**8** Omit section 71 of the Coroners and Justice Act 2009 (slavery, servitude and forced or compulsory labour).
+
+#### Protection of Freedoms Act 2012 (c. 9)
+
+**9** (1) The Protection of Freedoms Act 2012 is amended as follows.
+
+(2) Omit sections 109 and 110.
+
+(3) In Schedule 9, omit paragraphs 136, 138, 140(2) and (3) and 141.
+
+#### Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)
+
+**10** In Part 1 of Schedule 1 to the Legal Aid, Sentencing and Punishment of Offenders Act 2012, in paragraph 32(8) (civil legal services for trafficking victims: definitions), in the definition of “exploitation” for the words from “section” to the end substitute “ section 3 of the Modern Slavery Act 2015 (meaning of exploitation for purposes of human trafficking offence in section 2 of that Act); ”.
+
+### PART 2 — Amendments relating to slavery and trafficking reparation orders
+
+#### Administration of Justice Act 1970 (c. 31)
+
+**11** (1) The Administration of Justice Act 1970 is amended as follows.
+
+(2) In section 41(8) (enforcement of orders for compensation etc) for “or 13A” substitute “ , [[^F109]12B or 12C] ”.
+
+(3) In Part 1 of Schedule 9 (enforcement of orders for compensation etc) after paragraph [[^F110]12B] insert—
+
+> **[[^F111]12C]** Where under section 8 of the Modern Slavery Act 2015 a court makes a slavery and trafficking reparation order.
+
+#### Criminal Justice Act 1991 (c. 53)
+
+**12** (1) Section 24 of the Criminal Justice Act 1991 (recovery of fines by deduction from certain benefits) is amended as follows.
+
+(2) In subsection (1), for “or unlawful profit order” substitute “ , an unlawful profit order or a slavery and trafficking reparation order ”.
+
+(3) In subsection (3)(b), for “or unlawful profit order” substitute “ , an unlawful profit order or a slavery and trafficking reparation order ”.
+
+(4) In subsection (4), after the definition of “prescribed” insert—
+
+> “slavery and trafficking reparation order” means an order under section 8 of the Modern Slavery Act 2015;
+
+.
+
+#### Social Security (Recovery of Benefits) Act 1997 (c. 27)
+
+**13** In paragraph 2 of Schedule 1 to the Social Security (Recovery of Benefits) Act 1997 (exempted payments), for “2000 or” substitute “ 2000, section 8 of the Modern Slavery Act 2015, ”.
+
+#### Powers of Criminal Courts (Sentencing) Act 2000 (c. 6)
+
+**[^F112]14** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Proceeds of Crime Act 2002 (c. 29)
+
+**[[^F113]15** In section 13(3A) of the Proceeds of Crime Act 2002 (effect of confiscation order on court’s other powers), after paragraph (c) insert—
+
+> (d) a slavery and trafficking reparation order under section 8 of the Modern Slavery Act 2015.]
+
+**[^F114]16** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F114]17** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F114]18** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F114]19** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F115]20** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**21** In section 308 of the Proceeds of Crime Act 2002 (general exceptions to concept of recoverable property) after subsection (4) insert—
+
+> (4A) If—
+>
+> (a) a payment is made to a person in pursuance of a slavery and trafficking reparation order under section 8 of the Modern Slavery Act 2015, and
+>
+> (b) apart from this subsection, the sum received would be recoverable property,
+>
+> the property ceases to be recoverable.
+
+**22** In Schedule 11 to the Proceeds of Crime Act 2002 (amendments), omit paragraph 37(3).
+
+#### Courts Act 2003 (c. 39)
+
+**23** (1) Schedule 5 to the Courts Act 2003 (collection of fines and other sums imposed on conviction) is amended as follows.
+
+(2) In paragraph 2(2)—
+
+(a) omit the “and” at the end of the definition of “a sum required to be paid by a compensation order”;
+
+(b) after the definition of “a sum required to be paid by an unlawful profit order” insert—
+
+> “a sum required to be paid by a slavery and trafficking reparation order” means any sum required to be paid by an order made under section 8 of the Modern Slavery Act 2015.
+
+(3) In paragraph 7A(1) for “or an unlawful profit order” substitute “ , an unlawful profit order or a slavery and trafficking reparation order ”.
+
+(4) In paragraph 13(1)(aa)—
+
+(a) for “or a sum” substitute “ , a sum ”;
+
+(b) after “unlawful profit order” insert “ or a sum required to be paid by a slavery and trafficking reparation order ”;
+
+(c) in sub-paragraph (i) for “or the” substitute “ , the ”;
+
+(d) in that sub-paragraph after “unlawful profit order” insert “ or the amount required to be paid by the slavery and trafficking reparation order ”.
+
+#### Criminal Justice Act 2003 (c. 44)
+
+**[^F116]24** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F117]25** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Health and Social Care (Community Health and Standards) Act 2003 (c. 43)
+
+**26** In paragraph 1 of Schedule 10 to the Health and Social Care (Community Health and Standards) Act 2003 (recovery of NHS charges: exempted payments)—
+
+(a) omit “or” at the end of sub-paragraph (b);
+
+(b) at the end of sub-paragraph (c) insert
+
+> or
+>
+> (d) section 8 of the Modern Slavery Act 2015 (slavery and trafficking reparation orders).
+
+#### Prevention of Social Housing Fraud Act 2013 (c. 3)
+
+**27** (1) The Prevention of Social Housing Fraud Act 2013 is amended as follows.
+
+(2) In section 4(12)(d) (application of Powers of Criminal Courts (Sentencing) Act 2000 to unlawful profit orders)—
+
+(a) for the words from “133(3)(c)” to “confiscation order or” substitute “ 133(3)(c)(ii) to an unlawful profit order under section 4 were to ”;
+
+(b) omit the second “(or both)”.
+
+(3) In the Schedule (amendments), omit paragraphs 2, 5(2)(a) and (3), 9, 26 and 30(2).
+
+---
+
+[^F1]: Words in s. 5(1)(b) substituted (7.2.2023 at 12.00 p.m.) by The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149), regs. 1(2), 2(1), Sch. Pt. 1 table
+[^F2]: Words in s. 5(2)(b) substituted (7.2.2023 at 12.00 p.m.) by The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149), regs. 1(2), 2(1), Sch. Pt. 1 table
+[^F3]: Words in s. 5(4) substituted (28.4.2022) by The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500), regs. 1(2), 5(1), Sch. Pt. 1
+[^F4]: Words in s. 5(4) substituted (7.2.2023 at 12.00 p.m.) by The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149), regs. 1(2), 2(1), Sch. Pt. 1 table
+[^F5]: S. 6(4) repealed (1.12.2020) by Sentencing Act 2020 (c. 17), s. 416(1), Sch. 28 (with ss. 413(4)(5), 416(7), Sch. 27); S.I. 2020/1236, reg. 2
+[^F6]: Words in s. 10(1) substituted (1.12.2020) by Sentencing Act 2020 (c. 17), s. 416(1), Sch. 24 para. 293(2) (with Sch. 24 para. 447, Sch. 27); S.I. 2020/1236, reg. 2
+[^F7]: Words in s. 10(3) substituted (1.12.2020) by Sentencing Act 2020 (c. 17), s. 416(1), Sch. 24 para. 293(3)(a) (with Sch. 24 para. 447, Sch. 27); S.I. 2020/1236, reg. 2
+[^F8]: S. 10(3)(d) substituted (1.12.2020) by Sentencing Act 2020 (c. 17), s. 416(1), Sch. 24 para. 293(3)(b) (with Sch. 24 para. 447, Sch. 27); S.I. 2020/1236, reg. 2
+[^F9]: S. 10(3)(e) omitted (1.12.2020) by virtue of Sentencing Act 2020 (c. 17), s. 416(1), Sch. 24 para. 293(3)(c) (with Sch. 24 para. 447, Sch. 27); S.I. 2020/1236, reg. 2
+[^F10]: Word in s. 10(6) substituted (29.6.2026) by Crime and Policing Act 2026 (c. 20), s. 255(1), Sch. 21 para. 43(a)(i); S.I. 2026/689, reg. 2(1)(z12)
+[^F11]: Words in s. 10(6) inserted (17.3.2016) by The Modern Slavery Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/244), regs. 1(1), 28
+[^F12]: Words in s. 10(6) inserted (29.6.2026) by Crime and Policing Act 2026 (c. 20), s. 255(1), Sch. 21 para. 43(a)(ii); S.I. 2026/689, reg. 2(1)(z12)
+[^F13]: Words in s. 10(8) substituted (29.6.2026) by Crime and Policing Act 2026 (c. 20), s. 255(1), Sch. 21 para. 43(b); S.I. 2026/689, reg. 2(1)(z12)
+[^F14]: Words in s. 10(9) substituted (29.6.2026) by Crime and Policing Act 2026 (c. 20), s. 255(1), Sch. 21 para. 43(c); S.I. 2026/689, reg. 2(1)(z12)
+[^F15]: S. 11A omitted (7.4.2026) by virtue of Employment Rights Act 2025 (c. 36), s. 159(3), Sch. 10 para. 47 (with s. 147, Sch. 11); S.I. 2026/323, reg. 4(1)(55)(a)
+[^F16]: Word in s. 15(1) omitted (12.7.2016) by virtue of Immigration Act 2016 (c. 19), s. 94(1), Sch. 2 para. 10(2)(a); S.I. 2016/603, reg. 3(t)
+[^F17]: S. 15(1)(d) and word inserted (12.7.2016) by Immigration Act 2016 (c. 19), s. 94(1), Sch. 2 para. 10(2)(b); S.I. 2016/603, reg. 3(t)
+[^F18]: S. 15(1)(ca) substituted for s. 15(1)(d) (7.4.2026) by Employment Rights Act 2025 (c. 36), s. 159(3), Sch. 10 para. 48(2) (with s. 147, Sch. 11); S.I. 2026/323, reg. 4(1)(55)(a)
+[^F19]: Words in s. 15(7) substituted (12.7.2016) by Immigration Act 2016 (c. 19), s. 94(1), Sch. 2 para. 10(3)(a); S.I. 2016/603, reg. 3(t)
+[^F20]: Words in s. 15(7) substituted (7.4.2026) by Employment Rights Act 2025 (c. 36), s. 159(3), Sch. 10 para. 48(3)(a) (with s. 147, Sch. 11); S.I. 2026/323, reg. 4(1)(55)(a)
+[^F21]: Words in s. 15(7) substituted (12.7.2016) by Immigration Act 2016 (c. 19), s. 94(1), Sch. 2 para. 10(3)(b); S.I. 2016/603, reg. 3(t)
+[^F22]: Words in s. 15(7) substituted (7.4.2026) by Employment Rights Act 2025 (c. 36), s. 159(3), Sch. 10 para. 48(3)(b) (with s. 147, Sch. 11); S.I. 2026/323, reg. 4(1)(55)(a)
+[^F23]: Words in s. 15(8)(b) substituted (12.7.2016) by Immigration Act 2016 (c. 19), s. 94(1), Sch. 2 para. 10(4)(a); S.I. 2016/603, reg. 3(t)
+[^F24]: Words in s. 15(8)(b) substituted (7.4.2026) by Employment Rights Act 2025 (c. 36), s. 159(3), Sch. 10 para. 48(4)(a) (with s. 147, Sch. 11); S.I. 2026/323, reg. 4(1)(55)(a)
+[^F25]: Words in s. 15(8)(b) substituted (12.7.2016) by Immigration Act 2016 (c. 19), s. 94(1), Sch. 2 para. 10(4)(b); S.I. 2016/603, reg. 3(t)
+[^F26]: Words in s. 15(8)(b) substituted (7.4.2026) by Employment Rights Act 2025 (c. 36), s. 159(3), Sch. 10 para. 48(4)(b) (with s. 147, Sch. 11); S.I. 2026/323, reg. 4(1)(55)(a)
+[^F27]: Words in s. 19(7) substituted (12.7.2016) by Immigration Act 2016 (c. 19), s. 94(1), Sch. 2 para. 11(a); S.I. 2016/603, reg. 3(t)
+[^F28]: Words in s. 19(7) substituted (7.4.2026) by Employment Rights Act 2025 (c. 36), s. 159(3), Sch. 10 para. 49(a) (with s. 147, Sch. 11); S.I. 2026/323, reg. 4(1)(55)(a)
+[^F29]: Words in s. 19(7) substituted (12.7.2016) by Immigration Act 2016 (c. 19), s. 94(1), Sch. 2 para. 11(b); S.I. 2016/603, reg. 3(t)
+[^F30]: Words in s. 19(7) substituted (7.4.2026) by Employment Rights Act 2025 (c. 36), s. 159(3), Sch. 10 para. 49(b) (with s. 147, Sch. 11); S.I. 2026/323, reg. 4(1)(55)(a)
+[^F31]: S. 20(2)(g) inserted (12.7.2016) by Immigration Act 2016 (c. 19), s. 94(1), Sch. 2 para. 12(2); S.I. 2016/603, reg. 3(t)
+[^F32]: Words in s. 20(2)(g) substituted (7.4.2026) by Employment Rights Act 2025 (c. 36), s. 159(3), Sch. 10 para. 50(2) (with s. 147, Sch. 11); S.I. 2026/323, reg. 4(1)(55)(a)
+[^F33]: Words in s. 20(9) substituted (12.7.2016) by Immigration Act 2016 (c. 19), s. 94(1), Sch. 2 para. 12(3)(a); S.I. 2016/603, reg. 3(t)
+[^F34]: Words in s. 20(9) substituted (7.4.2026) by Employment Rights Act 2025 (c. 36), s. 159(3), Sch. 10 para. 50(3)(a) (with s. 147, Sch. 11); S.I. 2026/323, reg. 4(1)(55)(a)
+[^F35]: Words in s. 20(9) substituted (12.7.2016) by Immigration Act 2016 (c. 19), s. 94(1), Sch. 2 para. 12(3)(b); S.I. 2016/603, reg. 3(t)
+[^F36]: Words in s. 20(9) substituted (7.4.2026) by Employment Rights Act 2025 (c. 36), s. 159(3), Sch. 10 para. 50(3)(b) (with s. 147, Sch. 11); S.I. 2026/323, reg. 4(1)(55)(a)
+[^F37]: Word in s. 23(1) omitted (12.7.2016) by virtue of Immigration Act 2016 (c. 19), s. 94(1), Sch. 2 para. 13(2)(a); S.I. 2016/603, reg. 3(t)
+[^F38]: S. 23(1)(d) and word inserted (12.7.2016) by Immigration Act 2016 (c. 19), s. 94(1), Sch. 2 para. 13(2)(b); S.I. 2016/603, reg. 3(t)
+[^F39]: S. 23(1)(ca) substituted for s. 23(1)(d) (7.4.2026) by Employment Rights Act 2025 (c. 36), s. 159(3), Sch. 10 para. 51(2) (with s. 147, Sch. 11); S.I. 2026/323, reg. 4(1)(55)(a)
+[^F40]: Words in s. 23(6) substituted (12.7.2016) by Immigration Act 2016 (c. 19), s. 94(1), Sch. 2 para. 13(3)(a); S.I. 2016/603, reg. 3(t)
+[^F41]: Words in s. 23(6) substituted (7.4.2026) by Employment Rights Act 2025 (c. 36), s. 159(3), Sch. 10 para. 51(3)(a) (with s. 147, Sch. 11); S.I. 2026/323, reg. 4(1)(55)(a)
+[^F42]: Words in s. 23(6) substituted (12.7.2016) by Immigration Act 2016 (c. 19), s. 94(1), Sch. 2 para. 13(3)(b); S.I. 2016/603, reg. 3(t)
+[^F43]: Words in s. 23(6) substituted (7.4.2026) by Employment Rights Act 2025 (c. 36), s. 159(3), Sch. 10 para. 51(3)(b) (with s. 147, Sch. 11); S.I. 2026/323, reg. 4(1)(55)(a)
+[^F44]: Words in s. 23(7)(b) substituted (12.7.2016) by Immigration Act 2016 (c. 19), s. 94(1), Sch. 2 para. 13(4)(a); S.I. 2016/603, reg. 3(t)
+[^F45]: Words in s. 23(7)(b) substituted (7.4.2026) by Employment Rights Act 2025 (c. 36), s. 159(3), Sch. 10 para. 51(4)(a) (with s. 147, Sch. 11); S.I. 2026/323, reg. 4(1)(55)(a)
+[^F46]: Words in s. 23(7)(b) substituted (12.7.2016) by Immigration Act 2016 (c. 19), s. 94(1), Sch. 2 para. 13(4)(b); S.I. 2016/603, reg. 3(t)
+[^F47]: Words in s. 23(7)(b) substituted (7.4.2026) by Employment Rights Act 2025 (c. 36), s. 159(3), Sch. 10 para. 51(4)(b) (with s. 147, Sch. 11); S.I. 2026/323, reg. 4(1)(55)(a)
+[^F48]: Words in s. 26(7) substituted (12.7.2016) by Immigration Act 2016 (c. 19), s. 94(1), Sch. 2 para. 14(a); S.I. 2016/603, reg. 3(t)
+[^F49]: Words in s. 26(7) substituted (7.4.2026) by Employment Rights Act 2025 (c. 36), s. 159(3), Sch. 10 para. 52(a) (with s. 147, Sch. 11); S.I. 2026/323, reg. 4(1)(55)(a)
+[^F50]: Words in s. 26(7) substituted (12.7.2016) by Immigration Act 2016 (c. 19), s. 94(1), Sch. 2 para. 14(b); S.I. 2016/603, reg. 3(t)
+[^F51]: Words in s. 26(7) substituted (7.4.2026) by Employment Rights Act 2025 (c. 36), s. 159(3), Sch. 10 para. 52(b) (with s. 147, Sch. 11); S.I. 2026/323, reg. 4(1)(55)(a)
+[^F52]: S. 27(2)(g) inserted (12.7.2016) by Immigration Act 2016 (c. 19), s. 94(1), Sch. 2 para. 15(2); S.I. 2016/603, reg. 3(t)
+[^F53]: Words in s. 27(2)(g) substituted (7.4.2026) by Employment Rights Act 2025 (c. 36), s. 159(3), Sch. 10 para. 53(2) (with s. 147, Sch. 11); S.I. 2026/323, reg. 4(1)(55)(a)
+[^F54]: Words in s. 27(7) substituted (12.7.2016) by Immigration Act 2016 (c. 19), s. 94(1), Sch. 2 para. 15(3)(a); S.I. 2016/603, reg. 3(t)
+[^F55]: Words in s. 27(7) substituted (7.4.2026) by Employment Rights Act 2025 (c. 36), s. 159(3), Sch. 10 para. 53(3)(a) (with s. 147, Sch. 11); S.I. 2026/323, reg. 4(1)(55)(a)
+[^F56]: Words in s. 27(7) substituted (12.7.2016) by Immigration Act 2016 (c. 19), s. 94(1), Sch. 2 para. 15(3)(b); S.I. 2016/603, reg. 3(t)
+[^F57]: Words in s. 27(7) substituted (7.4.2026) by Employment Rights Act 2025 (c. 36), s. 159(3), Sch. 10 para. 53(3)(b) (with s. 147, Sch. 11); S.I. 2026/323, reg. 4(1)(55)(a)
+[^F58]: Word in s. 30(1)(e) omitted (17.12.2016) by virtue of The Human Trafficking and Exploitation (Scotland) Act 2015 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1031), art. 1(1), Sch. para. 3(2)(a)
+[^F59]: S. 30(1)(g)-(j) inserted (17.12.2016) by The Human Trafficking and Exploitation (Scotland) Act 2015 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1031), art. 1(1), Sch. para. 3(2)(b)
+[^F60]: Words in s. 30(3)(b) substituted (29.6.2026) by Victims and Courts Act 2026 (c. 19), ss. 15(1), 18(2) (with s. 15(2))
+[^F61]: S. 30A omitted (7.4.2026) by virtue of Employment Rights Act 2025 (c. 36), s. 159(3), Sch. 10 para. 54 (with s. 147, Sch. 11); S.I. 2026/323, reg. 4(1)(55)(a)
+[^F62]: Words in s. 33(1) substituted (7.4.2026) by Employment Rights Act 2025 (c. 36), s. 159(3), Sch. 10 para. 55 (with s. 147, Sch. 11); S.I. 2026/323, reg. 4(1)(55)(a)
+[^F63]: Words in s. 34(1) inserted (7.4.2026) by Employment Rights Act 2025 (c. 36), s. 159(3), Sch. 10 para. 56 (with s. 147, Sch. 11); S.I. 2026/323, reg. 4(1)(55)(a)
+[^F64]: Words in s. 34(3)(a) substituted (1.12.2020) by Sentencing Act 2020 (c. 17), s. 416(1), Sch. 24 para. 294 (with Sch. 24 para. 447, Sch. 27); S.I. 2020/1236, reg. 2
+[^F65]: S. 36(8)(a)(b) substituted for s. 36(8)(a)-(c) (17.12.2016) by The Human Trafficking and Exploitation (Scotland) Act 2015 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1031), art. 1(1), Sch. para. 3(3) (with art. 4(4))
+[^F66]: S. 41(2)(c) substituted for s. 41(c)-(e) (17.12.2016) by The Human Trafficking and Exploitation (Scotland) Act 2015 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1031), art. 1(1), Sch. para. 3(4)
+[^F67]: Word in s. 49(1)(b) substituted (30.1.2023) by Nationality and Borders Act 2022 (c. 36), ss. 60(3)(a)(i), 87(1); S.I. 2023/33, reg. 3(a)
+[^F68]: Words in s. 49(1)(b) inserted (30.1.2023) by Nationality and Borders Act 2022 (c. 36), ss. 60(3)(a)(ii), 87(1); S.I. 2023/33, reg. 3(a)
+[^F69]: Word in s. 49(1)(c) substituted (30.1.2023) by Nationality and Borders Act 2022 (c. 36), ss. 60(3)(b), 87(1); S.I. 2023/33, reg. 3(a)
+[^F70]: S. 49(1)(d) inserted (30.1.2023) by Nationality and Borders Act 2022 (c. 36), ss. 60(3)(c), 87(1); S.I. 2023/33, reg. 3(a)
+[^F71]: S. 49(1A) inserted (30.1.2023) by Nationality and Borders Act 2022 (c. 36), ss. 60(4), 87(1); S.I. 2023/33, reg. 3(a)
+[^F72]: Word in s. 50(1)(a) substituted (30.1.2023) by Nationality and Borders Act 2022 (c. 36), ss. 60(5)(a), 87(1); S.I. 2023/33, reg. 3(a)
+[^F73]: Word in s. 50(2)(a) substituted (30.1.2023) by Nationality and Borders Act 2022 (c. 36), ss. 60(5)(b), 87(1); S.I. 2023/33, reg. 3(a)
+[^F74]: S. 50(4) inserted (30.1.2023) by Nationality and Borders Act 2022 (c. 36), ss. 60(5)(c), 87(1); S.I. 2023/33, reg. 3(a)
+[^F75]: S. 50A inserted (30.1.2023) by Nationality and Borders Act 2022 (c. 36), ss. 64, 87(1); S.I. 2023/33, reg. 3(e)
+[^F76]: Word in s. 51(1)(a) substituted (30.1.2023) by Nationality and Borders Act 2022 (c. 36), ss. 60(6)(a), 87(1); S.I. 2023/33, reg. 3(a)
+[^F77]: Word in s. 51(3) substituted (30.1.2023) by Nationality and Borders Act 2022 (c. 36), ss. 60(6)(b), 87(1); S.I. 2023/33, reg. 3(a)
+[^F78]: S. 52(5)(k) omitted (7.4.2026) by virtue of Employment Rights Act 2025 (c. 36), s. 159(3), Sch. 10 para. 84(2) (with s. 147, Sch. 11); S.I. 2026/323, reg. 4(1)(55)(e)
+[^F79]: Words in s. 54(12) substituted (17.12.2016) by The Human Trafficking and Exploitation (Scotland) Act 2015 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1031), art. 1(1), Sch. para. 3(5)
+[^F80]: S. 54A omitted (7.4.2026) by virtue of Employment Rights Act 2025 (c. 36), s. 159(3), Sch. 10 para. 84(3) (with s. 147, Sch. 11); S.I. 2026/323, reg. 4(1)(55)(e)
+[^F81]: S. 55 omitted (12.7.2016) by virtue of Immigration Act 2016 (c. 19), s. 94(1), Sch. 3 para. 31; S.I. 2016/603, reg. 3(u)
+[^F82]: S. 56(A1) inserted (30.1.2023) by Nationality and Borders Act 2022 (c. 36), ss. 60(7)(a), 87(1); S.I. 2023/33, reg. 3(a)
+[^F83]: Words in s. 56(1) inserted (30.1.2023) by Nationality and Borders Act 2022 (c. 36), ss. 60(7)(b), 87(1); S.I. 2023/33, reg. 3(a)
+[^F84]: Words in s. 56(2) inserted (30.1.2023) by Nationality and Borders Act 2022 (c. 36), ss. 60(7)(b), 87(1); S.I. 2023/33, reg. 3(a)
+[^F85]: S. 58(4)(ja) omitted (7.4.2026) by virtue of Employment Rights Act 2025 (c. 36), s. 159(3), Sch. 10 para. 84(4) (with s. 147, Sch. 11); S.I. 2026/323, reg. 4(1)(55)(e)
+[^F86]: Words in s. 60(1) omitted (7.4.2026) by virtue of Employment Rights Act 2025 (c. 36), s. 159(3), Sch. 10 para. 84(5)(a) (with s. 147, Sch. 11); S.I. 2026/323, reg. 4(1)(55)(e)
+[^F87]: Words in s. 60(3) omitted (7.4.2026) by virtue of Employment Rights Act 2025 (c. 36), s. 159(3), Sch. 10 para. 84(5)(b) (with s. 147, Sch. 11); S.I. 2026/323, reg. 4(1)(55)(e)
+[^F88]: Sch. 1 para. 8A and cross-heading inserted (17.12.2016) by The Human Trafficking and Exploitation (Scotland) Act 2015 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1031), art. 1(1), Sch. para. 3(6)
+[^F89]: Word in Sch. 3 omitted (7.4.2026) by virtue of Employment Rights Act 2025 (c. 36), s. 159(3), Sch. 10 para. 84(6)(c) (with s. 147, Sch. 11); S.I. 2026/323, reg. 4(1)(55)(e)
+[^F90]: Words in Sch. 3 omitted (7.4.2026) by virtue of Employment Rights Act 2025 (c. 36), s. 159(3), Sch. 10 para. 84(6)(a) (with s. 147, Sch. 11); S.I. 2026/323, reg. 4(1)(55)(e)
+[^F91]: Words in Sch. 3 omitted (7.4.2026) by virtue of Employment Rights Act 2025 (c. 36), s. 159(3), Sch. 10 para. 84(6)(b) (with s. 147, Sch. 11); S.I. 2026/323, reg. 4(1)(55)(e)
+[^F92]: Words in Sch. 3 inserted (N.I.) (1.4.2016) by The Modern Slavery Act 2015 (Duty to co-operate with Commissioner) (Northern Irish public authority) Regulations (Northern Ireland) 2016 (S.R. 2016/48), regs. 1, 2
+[^F93]: Words in Sch. 3 omitted (N.I.) (1.4.2022) by Health and Social Care Act (Northern Ireland) 2022 (c. 3 (N.I.)), s. 8(1)(b), Sch. 1 para. 246; S.R. 2022/102, art. 2(b); and words omitted (E.W.S.) (30.11.2022) by virtue of The Health and Social Care Act (Northern Ireland) 2022 (Consequential Amendments) Order 2022 (S.I. 2022/1174), arts. 1(2), 19
+[^F94]: Words in Sch. 4 para. 16 inserted (31.12.2020) by The Immigration, Nationality and Asylum (EU Exit) Regulations 2019 (S.I. 2019/745), regs. 1(2), 22; 2020 c. 1, Sch. 5 para. 1(1)
+[^F95]: Words in Sch. 4 para. 29 inserted (29.6.2026) by Crime and Policing Act 2026 (c. 20), ss. 237(2)(a), 255(3)(j) (with s. 237(6))
+[^F96]: Words in Sch. 4 para. 29 inserted (29.6.2026) by Crime and Policing Act 2026 (c. 20), ss. 237(2)(b), 255(3)(j) (with s. 237(6))
+[^F97]: Words in Sch. 4 para. 31 inserted (29.6.2026) by Crime and Policing Act 2026 (c. 20), ss. 237(3), 255(3)(j) (with s. 237(6))
+[^F98]: Words in Sch. 4 para. 33 inserted (31.1.2024) by Online Safety Act 2023 (c. 50), s. 240(1), Sch. 14 para. 19; S.I. 2024/31, reg. 2
+[^F99]: Words in Sch. 4 para. 33 inserted (E.W.) (12.4.2019) by Voyeurism (Offences) Act 2019 (c. 2), ss. 1(7), 2(2)
+[^F100]: Words in Sch. 4 para. 33 substituted (29.9.2026) by Crime and Policing Act 2026 (c. 20), ss. 115(2), 255(1); S.I. 2026/960, reg. 3(a)
+[^F101]: Words in Sch. 4 para. 35 inserted (29.6.2026) by Crime and Policing Act 2026 (c. 20), ss. 237(4)(a), 255(3)(j) (with s. 237(6))
+[^F102]: Words in Sch. 4 para. 35 inserted (29.6.2026) by Crime and Policing Act 2026 (c. 20), ss. 237(4)(b), 255(3)(j) (with s. 237(6))
+[^F103]: Sch. 4 paras. 35ZA-35ZC inserted (29.6.2026) by Crime and Policing Act 2026 (c. 20), ss. 237(5), 255(3)(j) (with s. 237(6))
+[^F104]: Sch. 4 para. 35A and cross-heading inserted (7.6.2022) by Domestic Abuse Act 2021 (c. 17), s. 90(6), Sch. 2 para. 11; S.I. 2022/553, regs. 1(2), 3(b)
+[^F105]: Sch. 4 para. 36A inserted (29.7.2021) by Space Industry Act 2018 (c. 5), s. 70(1), Sch. 12 para. 33; S.I. 2021/817, reg. 2, Sch. para. 117 (with reg. 3)
+[^F106]: Sch. 4 para. 36B and cross-heading inserted (1.7.2022) by Health and Care Act 2022 (c. 31), s. 186(6), Sch. 16 para. 9; S.I. 2022/734, reg. 2(a), Sch. (with regs. 13, 29, 30)
+[^F107]: Sch. 4 para. 36C and cross-heading inserted (20.12.2023) by National Security Act 2023 (c. 32), s. 100(1), Sch. 18 para. 9 (with s. 97); S.I. 2023/1272, reg. 2(f)
+[^F108]: Sch. 4A omitted (7.4.2026) by virtue of Employment Rights Act 2025 (c. 36), s. 159(3), Sch. 10 para. 84(7) (with s. 147, Sch. 11); S.I. 2026/323, reg. 4(1)(55)(e)
+[^F109]: Words in Sch. 5 para. 11(2) substituted (17.3.2016) by The Modern Slavery Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/244), regs. 1(1), 25(a)
+[^F110]: Word in Sch. 5 para. 11(3) substituted (17.3.2016) by The Modern Slavery Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/244), regs. 1(1), 25(b)(i)
+[^F111]: Word in Sch. 5 para. 11(3) substituted (17.3.2016) by The Modern Slavery Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/244), regs. 1(1), 25(b)(ii)
+[^F112]: Sch. 5 para. 14 repealed (1.12.2020) by Sentencing Act 2020 (c. 17), s. 416(1), Sch. 28 (with ss. 413(4)(5), 416(7), Sch. 27); S.I. 2020/1236, reg. 2
+[^F113]: Sch. 5 para. 15 substituted (17.3.2016) by The Modern Slavery Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/244), regs. 1(1), 26
+[^F114]: Sch. 5 paras. 16-19 omitted (29.6.2026) by virtue of Crime and Policing Act 2026 (c. 20), s. 255(1), Sch. 21 para. 44; S.I. 2026/689, reg. 2(1)(z12)
+[^F115]: Sch. 5 para. 20 omitted (17.3.2016) by virtue of The Modern Slavery Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/244), regs. 1(1), 27
+[^F116]: Sch. 5 para. 24 repealed (1.12.2020) by Sentencing Act 2020 (c. 17), s. 416(1), Sch. 28 (with ss. 413(4)(5), 416(7), Sch. 27); S.I. 2020/1236, reg. 2
+[^F117]: Sch. 5 para. 25 repealed (1.12.2020) by Sentencing Act 2020 (c. 17), s. 416(1), Sch. 28 (with ss. 413(5), 416(7), Sch. 27); S.I. 2020/1236, reg. 2

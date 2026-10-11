@@ -1,0 +1,1103 @@
+---
+title: "Supply and Appropriation (Main Estimates) Act 2023"
+identifier: "ukpga/2023/31"
+citation: "2023 Chapter 31"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S+N.I."
+date: 2023-07-11
+last_amended: 2025-03-11
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/2023/31"
+source_modified: 2025-05-23
+retrieved: 2026-10-11
+---
+
+# Supply and Appropriation (Main Estimates) Act 2023
+
+**2023 Chapter 31**
+
+An Act to authorise the use of resources for the year ending with 31 March 2024; to authorise both the issue of sums out of the Consolidated Fund and the application of income for that year; and to appropriate the supply authorised for that year by this Act and by the Supply and Appropriation (Anticipation and Adjustments) Act 2023.
+
+[11th July 2023]
+
+Whereas the Commons of the United Kingdom in Parliament assembled have resolved to authorise the use of resources and the issue of sums out of the Consolidated Fund towards making good the supply which they have granted to His Majesty in this Session of Parliament:—
+
+Be it therefore enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## 1 Main authorisation for use of resources for 2023-24
+
+(1) The amount up to which there is authorisation for the use of resources for the year ending with 31 March 2024 is increased by £509,887,984,000.
+
+(2) Of the amount authorised by subsection (1)—
+
+(a) £410,735,035,000 is authorised for use for current purposes, and
+
+(b) £99,152,949,000 is authorised for use for capital purposes.
+
+## 2 Main authorisation for issue of money out of Consolidated Fund in 2023-24
+
+The amount up to which the Treasury has authorisation—
+
+(a) to issue money out of the Consolidated Fund, and
+
+(b) to apply it in the year ending with 31 March 2024 for expenditure authorised by Parliament,
+
+is increased by £446,117,926,000.
+
+## 3 Appropriation of resources authorised for use for year 2023-24
+
+(1) The aggregate of the following (which is £973,629,331,000) is appropriated for the year ending with 31 March 2024 in accordance with subsections (2) to (4)—
+
+(a) the amount of resources the use of which for that year is authorised by section 1(1) of the Supply and Appropriation (Anticipation and Adjustments) Act 2023, and
+
+(b) the amount of resources the use of which for that year is authorised by section 1(1).
+
+(2) The amount of resources which is—
+
+(a) set out in each of the Scheduled Estimates, and
+
+(b) identified in that Estimate as a net amount authorised subject to a particular Departmental Expenditure Limit,
+
+is appropriated by this Act for use, for current or for capital purposes (according to how it is identified in the Estimate), in respect of any relevant DEL matter.
+
+(3) The amount of resources which is—
+
+(a) set out in each of the Scheduled Estimates, and
+
+(b) identified in that Estimate as a net amount of Annually Managed Expenditure,
+
+is appropriated by this Act for use, for current or for capital purposes (according to how it is identified in the Estimate), in respect of any relevant AME matter.
+
+(4) The amount of resources which is—
+
+(a) set out in each of the Scheduled Estimates, and
+
+(b) identified in that Estimate as a net amount of Non-Budget Expenditure,
+
+is appropriated by this Act for use, for current or for capital purposes (according to how it is identified in the Estimate), in respect of any relevant NBE matter.
+
+(5) Section 5(4) applies (instead of subsections (2) to (4)) to any amount of resources set out in a Scheduled Estimate if it is identified in that Estimate as representing the amount of an estimated surplus.
+
+## 4 Appropriation of money authorised for issue in year 2023-24
+
+(1) The aggregate of the following (which is £820,671,897,000) is appropriated for the year ending with 31 March 2024 in accordance with subsection (2)—
+
+(a) the amount of money the issue of which out of the Consolidated Fund is authorised by section 1(3) of the Supply and Appropriation (Anticipation and Adjustments) Act 2023, and
+
+(b) the amount of money the issue of which out of that Fund is authorised by section 2.
+
+(2) The amount of money which is set out in each of the Scheduled Estimates and identified in that Estimate as a net cash requirement is appropriated for expenditure—
+
+(a) on any use of resources that has been authorised by Parliament in relation to the department or other person to which the Estimate relates, or in relation to the service to which it relates, or
+
+(b) for any other purpose specified in that Estimate as a purpose for which that money may be applied.
+
+(3) Section 5(4) applies (instead of subsection (2) of this section) to any amount of money set out in a Scheduled Estimate if it is identified in that Estimate as representing the amount of an estimated surplus.
+
+## 5 Appropriation and other use of income
+
+(1) Subsections (2) to (4) make provision (instead of imposing limits on appropriations in aid under section 2 of the Government Resources and Accounts Act 2000) about the use of income arising for the year ending with 31 March 2024 from matters specified in the Scheduled Estimates as matters from which income may arise.
+
+(2) Income specified in a Scheduled Estimate may be appropriated for use for current or capital purposes (according to the nature of the income)—
+
+(a) where the matters from which the income may arise are specified in relation to a particular Departmental Expenditure Limit, in respect of relevant DEL matters,
+
+(b) where the matters from which the income may arise are specified in relation to an amount of Annually Managed Expenditure, in respect of relevant AME matters, and
+
+(c) where the matters from which the income may arise are specified in relation to an amount of Non-Budget Expenditure, in respect of relevant NBE matters.
+
+(3) This section authorises an appropriation of income to the extent only that the appropriation is made in accordance with any applicable rules about the appropriation of income that have been—
+
+(a) issued by the Treasury; and
+
+(b) laid before the House of Commons before the passing of this Act.
+
+(4) Where an amount specified in a Scheduled Estimate is identified as representing the amount of an estimated surplus, appropriations of income in respect of any matter are authorised by this section to the extent only that—
+
+(a) they are consistent, in the opinion of the Treasury, with financial planning that is calculated to produce a surplus of at least that amount, or
+
+(b) they are authorised by a direction given by the Treasury for the purpose of anticipating a proposal for the reduction or elimination of the estimated surplus by a subsequent Act relating to financial supply and appropriation.
+
+(5) All amounts of money received in the year ending with 31 March 2024 in respect of any matter whatever by a department or other person to whom a Scheduled Estimate relates, or in respect of any service to which a Scheduled Estimate relates, must be paid into the Consolidated Fund, unless—
+
+(a) the appropriation for any other use of those amounts, or of the accrued amounts in respect of which they are received, is authorised by this section or any other enactment, or
+
+(b) they are dealt with in some other manner in accordance with any other enactment or in consequence of the exercise of a power conferred by any other enactment.
+
+(6) Where the Treasury determine that there has been or is likely to be a contravention of this section, the Treasury may give the person appearing to them to be responsible for the contravention whatever directions the Treasury think fit for rectifying the situation.
+
+(7) A direction by the Treasury under this section may be revoked or varied by a subsequent direction.
+
+## 6 Operation from beginning of financial year
+
+The appropriations and other provision made by sections 3 to 5 are to be treated as having had effect from the beginning of 1 April 2023.
+
+## 7 Interpretation
+
+(1) In this Act—
+
+- “estimated surplus” is to be read in accordance with subsection (2);
+- “income” includes capital amounts but only to the extent that they have accrued in respect of actual or anticipated capital receipts or the acquisition of a capital asset;
+- “relevant AME matter”, in relation to an amount of Annually Managed Expenditure specified in a Scheduled Estimate, means a matter in relation to which that amount is identified as Annually Managed Expenditure;
+- “relevant DEL matter”, in relation to a Departmental Expenditure Limit specified in a Scheduled Estimate, means a matter expenditure relating to which is identified in that Estimate as to be included in the expenditure which is to be subject to that limit;
+- “relevant NBE matter”, in relation to an amount of Non-Budget Expenditure specified in a Scheduled Estimate, means a matter in relation to which that amount is identified as Non-Budget Expenditure;
+- “Scheduled Estimates” means the Estimates set out in the Schedule to this Act (being the relevant part of Part 1 of each of the main Estimates as agreed by the House of Commons for the year ending 31 March 2024).
+
+(2) References in this Act to an amount identified in a Scheduled Estimate as representing the amount of an estimated surplus are references to an amount preceded by a minus sign.
+
+(3) In relation to a Scheduled Estimate for a body listed in subsection (4)—
+
+(a) the reference in section 3(2)(b) to a net amount authorised subject to a particular Departmental Expenditure Limit is to be read as a reference to a net requirement identified in that Estimate as “Departmental Expenditure Limit equivalent”;
+
+(b) references in this Act to a “relevant DEL matter” are to be read as references to a matter expenditure relating to which is identified in the Estimate as to be included in the expenditure which is subject to a net requirement mentioned in paragraph (a);
+
+(c) the reference in section 5(2)(a) to matters specified in relation to a particular Departmental Expenditure Limit is to be read as a reference to matters specified in the Estimate as matters from which income may arise.
+
+(4) The bodies are—
+
+(a) the House of Commons: Administration;
+
+(b) the National Audit Office;
+
+(c) the Parliamentary Works Grant.
+
+## 8 Short title
+
+This Act may be cited as the Supply and Appropriation (Main Estimates) Act 2023.
+
+## Schedule — Appropriations for financial year 2023-24
+
+*Section 7*
+
+<table>
+<thead>
+<tr><th rowspan="2">Estimate</th><th>Net resources authorised for current purposes</th><th>Net resources authorised for capital purposes</th><th>Net Cash Requirement</th></tr>
+<tr><th>(£)</th><th>(£)</th><th>(£)</th></tr>
+</thead>
+<tbody>
+<tr><th colspan="4">Department of Health and Social Care</th></tr>
+<tr><td>Departmental Expenditure Limit</td><td>151,017,513,000</td><td>12,087,800,000</td><td></td></tr>
+<tr><td>Annually Managed Expenditure</td><td>10,880,000,000</td><td>105,600,000</td><td></td></tr>
+<tr><td>Non-budget Expenditure</td><td>0</td><td></td><td></td></tr>
+<tr><td>Net Cash Requirement</td><td></td><td></td><td>169,253,661,000</td></tr>
+<tr><td>Total</td><td>161,897,513,000</td><td>12,193,400,000</td><td>169,253,661,000</td></tr>
+<tr><td colspan="4"><b>Departmental Expenditure Limit</b><br>- Expenditure arising from:<br><br> Revenue (administration and programme) and capital expenditure of the Department of Health and Social Care and other designated bodies, including NHS England (including Integrated Care Boards), NHS Providers, Special Health Authorities, Executive Non-Departmental Public Bodies, the UK Health Security Agency and the Medicines and Healthcare products Regulatory Agency.<br><br> Health and social service expenditure to and on behalf of the NHS including the settlement of claims for personal injury and clinical negligence, local authorities and other national bodies.<br><br> Local government services, prison health services, medical, scientific and technical services, services for disabled persons, education and training, grants to voluntary organisations and other bodies, information services, breast implant registry, Healthy Start programme, health promotion activities, research and development and expenditure incurred in relation to Life sciences.<br><br> Governmental response to the coronavirus Covid-19 pandemic. This includes, but is not exhaustive: NHS Test and Trace, personal protective equipment, Covid-19 medicines, treatments and equipment and the supply, distribution and deployment of Covid-19 vaccines and associated activities.<br><br> Non-Departmental Public Bodies expenditure on health and social care protection, training and regulation functions.<br><br> Expenditure to charitable trusts and companies providing financial support and other relief to persons who contracted HIV and Hepatitis C through receiving NHS treatment.<br><br> Forming, investing in or providing loans or guarantees to companies that will provide facilities or services to the NHS.<br><br> Services provided to or on behalf of devolved governments and other government departments.<br><br> Medical treatment given to people from the United Kingdom in the European Economic Area and other countries.<br><br> Subsidies and grants to public corporations and local authorities, payments to local authorities for use in local area agreements. Official Development Assistance projects and activities. Subscriptions to international organisations and international and commercial facilitation relating to healthcare.<br><br> Payments for services incurred by other government departments, including expenditure on behalf of the Department for Work and Pensions.<br><br> Associated depreciation and any other non-cash costs (including provisions, impairments and impairment of receivables).<br><br> Expenditure incurred in relation to the Covid-19 Vaccine Taskforce.<br><br>- Income arising from:<br><br> Charges for accommodation, sales of goods and services, income generation schemes. Local authorities under joint financing arrangements. Fines and penalty notices. Medical and dental education levy.<br><br> Licensing of software, use of NHS logo, settlement of legal claims, dividends and interest from loans and investments, intellectual property, research and development, prescription fraud charges, NHS prescriptions, dental and ophthalmic fraud charges.<br><br> Recoveries from patients in respect of incorrect claims for eligibility for including NHS treatment and general ophthalmic services. Payments from manufacturers or suppliers of medicinal products to control the cost of health service medicines and purchasing and supply agency arrangements.<br><br> Sales of medicines, vaccines, antivenoms, antitoxins and equipment, premiums applied to the sale of stock.<br><br> Income from the Scottish Government, the Welsh Government, Northern Ireland, Channel Islands and Isle of Man for services provided for devolved or reserved work.<br><br> Provision of policy and advice to other countries and care trusts. Maintenance of the National Joint Registry, conference and meeting events, prison health services, contributions to substance misuse funding, use of radio communication bandwidth.<br><br> Income secured by counter fraud services from all sources.<br><br> Administration income from seconded officers, cost of legal proceedings, staff telephone calls, European fast stream programme. Recoveries and income from other government departments, recoveries and income from ALBs (including capital and grants), special health authorities and NHS bodies. Selling services into wider markets and open government, payment by commercial tenants in DHSC buildings and compensation income.<br><br> Licence fees and royalties, sales of publications, contributions by members of the public, insurance claims and social exclusion programmes. Other European Economic Area countries for NHS treatment of their residents. Income collected for the immigration health surcharge. Sales of subsidised dried milk. Income from the European Union.<br><br> Contributions from the mobile phone industry, charitable contributions, refunds from voluntary organisations. Contributions to local authority grant schemes. Contributions and refunds towards communication campaigns contracts. Penalty charges, interest and dividends on trading fund loans.<br><br> Income collected on behalf of health innovation and education clusters.<br><br> Income received from the sale of capital assets. Income received from the disposal of financial assets.<br><br> Income associated with the acquisition of assets.<br><br> Income arising from Governmental response to the coronavirus Covid-19 pandemic.<br><br> Income arising from activities in relation to the Covid-19 Vaccine Taskforce and Covid-19 Antiviral Taskforce. <b>Annually Managed Expenditure</b><br>- Expenditure arising from:<br><br> Revenue and capital expenditure for hospital financing under Credit Guarantee Finance.<br><br> Provisions and other non-cash costs, of the Department of Health and Social Care and other designated bodies, including NHS England (including Integrated Care Boards), NHS Providers, Special Health Authorities, Executive Non-Departmental Public Bodies, the UK Health Security Agency and the Medicines and Healthcare products Regulatory Agency.<br><br> Governmental response to the coronavirus Covid-19 pandemic.</td></tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr><th rowspan="2">Estimate</th><th>Net resources authorised for current purposes</th><th>Net resources authorised for capital purposes</th><th>Net Cash Requirement</th></tr>
+<tr><th>(£)</th><th>(£)</th><th>(£)</th></tr>
+</thead>
+<tbody>
+<tr><th colspan="4">Department for Education</th></tr>
+<tr><td>Departmental Expenditure Limit</td><td>85,993,287,000</td><td>7,037,910,000</td><td></td></tr>
+<tr><td>Annually Managed Expenditure</td><td>-4,431,618,000</td><td>34,428,688,000</td><td></td></tr>
+<tr><td>Non-budget Expenditure</td><td>0</td><td></td><td></td></tr>
+<tr><td>Net Cash Requirement</td><td></td><td></td><td>110,017,577,000</td></tr>
+<tr><td>Total</td><td>81,561,669,000</td><td>41,466,598,000</td><td>110,017,577,000</td></tr>
+<tr><td colspan="4"><b>Departmental Expenditure Limit</b><br>- Expenditure arising from:<br><br> Centrally managed spend, grants and/or loans to primary, secondary, tertiary and international education, apprenticeships and wider skills institutions, including the purchase, development, protection and disposal of land and buildings in support of these sectors.<br><br> The provision of financial and other support for students and trainees including grants, allowances, access funds, loans and their repayment. Loans to students and support for students through Local Authorities. The cost of sales of the student loan debt and the cost of servicing the sold student loan debt.<br><br> Reimbursement of fees for qualifying European Union students, post graduate awards, mandatory student awards, childcare and transport support and loans.<br><br> Children's services, including early years, childcare and safeguarding, welfare and young people's services and expenditure incurred in relation to historical child migrants.<br><br> Curriculum, qualifications, and the inspection regime.<br><br> Schools Workforce development and reform.<br><br> Expenditure associated with social mobility policy.<br><br> Expenditure relating to the regulation of the social work profession and expenditure related to the regulation of the teaching profession.<br><br> Administering the Teachers' Pension Scheme (England and Wales), pension costs for voluntary services overseas (VSO) participants.<br><br> Education-related payments, grants, and loans to organisations in the public, private and other sectors, including employers, community, voluntary and business support organisations, to individuals and other government departments, local authorities and the Devolved Administrations, including expenditure relating to insolvency resulting in either a restructuring solution, education administration or closure.<br><br> Expenditure relates primarily to England, but in some cases includes supporting activities in other parts of the United Kingdom and abroad.<br><br> The costs of the Department, its Executive Agencies, and arm's length bodies (ALBs): the Children's Commissioner, Aggregator Vehicle plc, Located Ltd, Institute for Apprenticeships, Office for Students, Social Work England, Student Loans Company Ltd, UK Commissioner for Employment and Skills, Construction Industry Training Board, Engineering Construction Industry Training Board and Oak National Academy together with residual costs from ALBs being closed.<br><br> Loan and lease interest payable and the efficient management and discharge of liabilities falling to the Department.<br><br> Capital, recurrent payments and loans and associated non-cash items, including the impairment cost for student loans.<br><br> Expenditure relating to delivery of Government Guarantee funded policies should they be required.<br><br> Activities relating to the sale of income contingent student loans, including purchase of retention notes as financial instruments and repayments against the asset because of UK Government Investment activity.<br><br> Expenditure relating to the provision of education in support of the wider Grenfell recovery efforts.<br><br> Expenditure relating to delivery of teacher assessments and student qualifications including support to other government departments and Devolved Administrations.<br><br> Expenditure relating to policy innovation and development, and leadership of the cross-government policy profession.<br><br> Governmental response to recovery following the coronavirus Covid-19 pandemic including the secondment and loan of staff to and from the Department in support of the response, including loans and recoveries to support its ALBs.<br><br> Acting as the Agent for other government departments in relation to payments and assurance made in relation to Covid-19 and the pandemic.<br><br> Expenditure and support to other central government departments in respect of EU Exit.<br><br> Revenue and capital expenditure to support the reclassification of FE colleges, sixth form colleges and designated institutions in England to central government, including capital loans and loan interest, grants, recoveries and impairments.<br><br>- Income arising from:<br><br> Administration and programme income in support of its objectives including:<br><br> The sale of goods and services and royalty receipts by the department including publications, its Executive Agencies, its ALBs, and other partner organisations. Sale of research publications. Receipts from other government departments, the Devolved Administrations, and other sources (including the EU) in connection with a range of educational, training, youth support, student finance provision, children and family programmes with common objectives, and initiatives in the UK and overseas.<br><br> Early Intervention Foundation receipts.<br><br> Interest receivable relating to Aggregator Vehicle plc.<br><br> Receipts from other government departments including charges for accommodation and property rental income from departmental properties and from its ALBs, the European School at Culham, sales receipts and profits from departmental or ALB properties, equipment, or other assets (including some repayment of proceeds of sale).<br><br> Income relating to the regulation of the teaching and social work profession.<br><br> Income relating to insolvency as a result of education administration.<br><br> Sales receipts, and rental income streams from sites originally purchased for academies and free schools that are not required by the school, penalty income for missed delivery dates in construction contracts, repayments of grant overpaid in previous years or where required conditions of grant retention have not been met, repayments of loans issued to academies, receipts associated with the closure of departmental ALBs.<br><br> International receipts, Music Manifesto Champion receipts, income from providing shared services, the receipt of administration fees collected by the Teachers' Pension Scheme (England and Wales).<br><br> Receipts from servicing sold student loan debt. Receipts from asset sales repayment and default recoveries by banks in respect of career development loans, receipts for student support, student loan interest receivable, repayment of working capital loans, receipts from the European Social Fund to cover departmental programmes, and sponsorship funding.<br><br> Activities relating to the sale of income contingent student loans, including purchase of retention notes as financial instruments and repayments against the asset because of UK Government Investment activity.<br><br> The general administration receipts of the Department, its executive agencies, its ALBs, and other partner organisations, including: the recovery of salaries and associated costs for seconded staff, the disposal of surplus assets, charges for accommodation, sale of goods and services, and interest from bank accounts and exchange rate gains and losses.<br><br> Income relating to delivery of teacher assessments and student qualifications including receipts from other government departments and Devolved Administrations.<br><br> Income relating to policy innovation and development, and leadership of the cross-government policy profession.<br><br> Income and support to other central government departments relating to support for EU Exit.<br><br> Acting as the Agent for other government departments in relation to income and assurance made in relation to Covid-19 and the pandemic.<br><br> Governmental response to recovery following the Covid-19 pandemic including the secondment and loan of staff to and from the Department in support of the response, including loans and recoveries to support its ALBs.<br><br> Income to support the reclassification of FE colleges, sixth form colleges and designated institutions in England to central government, including capital repayments and loan interest, grant income, recoveries, and impairments. <b>Annually Managed Expenditure</b><br>- Expenditure arising from:<br><br> Take up and maintenance of Departmental, Executive Agencies' and ALBs' provisions and associated non-cash items including bad debts, impairments, tax and pension costs for the Department, Executive Agencies and its ALBs, including academies, and payment of corporation tax.<br><br> The provision of financial and other support for students and trainees including grants, allowances, access funds, loans and their repayment, the resource consequences of loans to students, support for students through local authorities, the cost of sales of the student loan debt, and education maintenance allowances and loans.<br><br> Governmental response to recovery following the Covid-19 pandemic including the secondment and loan of staff to and from the Department in support of the response, including loans and recoveries to support its ALBs.<br><br> Acting as the Agent for other government departments in relation to payments and assurance made in relation to Covid-19 and the pandemic.<br><br> Revenue and capital expenditure to support the reclassification of FE colleges, sixth form colleges and designated institutions in England to central government, including non-cash items for provisions, interest, impairment and other expenditure associated with loans.<br><br>- Income arising from:<br><br> Repayment of student loans, including of principal and interest.<br><br> Receipts and levies from the Construction Industry Training Board and the Engineering Construction Industry Training Board.<br><br> Receipts from asset sales.<br><br> Activities relating to the sale of income contingent student loans, including purchase of retention notes as financial instruments and repayments against the asset because of UK Government Investment activity.<br><br> Governmental response to recovery following the coronavirus Covid-19 pandemic including the secondment and loan of staff to and from the Department in support of the response, including loans and recoveries to support its ALBs.<br><br> Acting as the Agent for other government departments in relation to payments and assurance made in relation to Covid-19 and the pandemic.<br><br> Income to support the reclassification of FE colleges, sixth form colleges and designated institutions in England to central government, including non-cash items for provisions, interest, impairment and other expenditure associated with loans.</td></tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr><th rowspan="2">Estimate</th><th>Net resources authorised for current purposes</th><th>Net resources authorised for capital purposes</th><th>Net Cash Requirement</th></tr>
+<tr><th>(£)</th><th>(£)</th><th>(£)</th></tr>
+</thead>
+<tbody>
+<tr><th colspan="4">Home Office</th></tr>
+<tr><td>Departmental Expenditure Limit</td><td>14,607,973,000</td><td>931,299,000</td><td></td></tr>
+<tr><td>Annually Managed Expenditure</td><td>2,717,720,000</td><td>0</td><td></td></tr>
+<tr><td>Non-budget Expenditure</td><td>0</td><td></td><td></td></tr>
+<tr><td>Net Cash Requirement</td><td></td><td></td><td>18,600,000,000</td></tr>
+<tr><td>Total</td><td>17,325,693,000</td><td>931,299,000</td><td>18,600,000,000</td></tr>
+<tr><td colspan="4"><b>Departmental Expenditure Limit</b><br>- Expenditure arising from:<br><br> Control of immigration and nationality; refugees (including the provision of loans) and Voluntary and Community Sector refugee organisations; support for asylum seekers; work permits.<br><br> Safeguarding children and vulnerable adults including reducing and preventing child trafficking and modern slavery; registration of forensic practitioners; grants to, and other expenditure on behalf of associated entities.<br><br> Securing the UK border and for controlling migration of people and goods at ports and airports across the UK and overseas.<br><br> Identity management; passports.<br><br> Emergency planning and services; counter-terrorism and intelligence.<br><br> Responsibility for the fire and rescue services; financial support to Local Authorities and Fire and Rescue Authorities; emergency assistance; improvement, transformation and efficiency; intervention action and capacity building in local authorities; Private Finance Initiative Special Grant.<br><br> Police resource and capital expenditure; crime reduction and prevention; firearms compensation and related matters; other services related to crime; tackling drug abuse.<br><br> Expenditure arising from the programme to reform the proceeds of crime and terrorism financing “suspicious activity reporting” regime.<br><br> Immigration Health Surcharge and Immigration Skills Charge.<br><br> Net spending by Arm's Length Bodies (Independent Office for Police Conduct, Security Industry Authority, Office of the Immigration Services Commissioner, College of Policing, Gangmasters Labour Abuse Authority and the Disclosure and Barring Service). Payments of grant and grant-in-aid to other organisations promoting Home Office objectives; support to local authorities including Area Based Grants; payments to other Government departments; the administration and operation of the department; and other non-cash items.<br><br>- Income arising from:<br><br> Control of immigration and nationality; additional or special immigration services; work permits; fees, fines and penalties arising from relevant Home Office legislation.<br><br> Identity management and data protection; passports and certificates.<br><br> Emergency planning and services; counter-terrorism work, and intelligence.<br><br> Responsibility for and inspections of crown premises and emergency services.<br><br> Cyber-crime. Contributions for Police IT services.<br><br> Issue of licences and certificates; crime reduction and prevention; proceeds of crime; training and advisory services.<br><br> Immigration Health Surcharge and Immigration Skills Charge.<br><br> Contributions towards grant programmes from third parties, other Government departments and the Devolved Administrations, the European Union, other Governments; the administration and operation of the department (including the sale and hire of assets). <b>Annually Managed Expenditure</b><br>- Expenditure arising from:<br><br> Police Forces and Fire and Rescue Services pensions; and other non-cash items.</td></tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr><th rowspan="2">Estimate</th><th>Net resources authorised for current purposes</th><th>Net resources authorised for capital purposes</th><th>Net Cash Requirement</th></tr>
+<tr><th>(£)</th><th>(£)</th><th>(£)</th></tr>
+</thead>
+<tbody>
+<tr><th colspan="4">National Crime Agency</th></tr>
+<tr><td>Departmental Expenditure Limit</td><td>633,600,000</td><td>105,871,000</td><td></td></tr>
+<tr><td>Annually Managed Expenditure</td><td>50,000,000</td><td>350,000</td><td></td></tr>
+<tr><td>Non-budget Expenditure</td><td>0</td><td></td><td></td></tr>
+<tr><td>Net Cash Requirement</td><td></td><td></td><td>840,000,000</td></tr>
+<tr><td>Total</td><td>683,600,000</td><td>106,221,000</td><td>840,000,000</td></tr>
+<tr><td colspan="4"><b>Departmental Expenditure Limit</b><br>- Expenditure arising from:<br><br> UK and overseas activity including but not limited to:<br><br> Principal function - Crime Reduction:<br><br> Securing that efficient and effective activities to combat serious and organised crime are carried out including by:<br><br> Investigating, prosecuting, preventing and disrupting people engaged in serious and organised crime.<br><br> Other expenditure related to tackling crime to support the objectives of the National Crime Agency.<br><br> Payment of grants to partners to promote and deliver National Crime Agency objectives; and the administration and operation of the department, its enabling functions and non-cash items.<br><br> Expenditure including: fees to Counsel and outside accountants, witness expenses, use of information technology to improve presentation of evidence, other investigation, prosecution and litigation costs, defendants' costs, and damages ordered by the court to be paid by the NCA, including payments made as a result of asset recovery activity to individuals, charities, companies, other Government Departments, the Devolved Administrations, the European Union and other Governments. All other costs associated with asset recovery through Criminal and Civil courts and the holding and safeguarding of third party assets.<br><br> Work relating to protection of witnesses and victims or potential victims of crime.<br><br> Principal function - Criminal Intelligence:<br><br> Gathering, storing, processing, analysing, and disseminating information that is relevant to any of the following:<br><br> Intelligence activities to combat serious and organised crime, activities to combat any other kind of crime and exploitation proceeds investigations, exploitation proceeds orders and applications for such orders.<br><br> NCA's response to the Serious and Organised Crime Strategy:<br><br> Pursue: prosecute and disrupt people engaged in serious and organised criminality.<br><br> Prevent: prevent people from engaging in serious and organised crime.<br><br> Protect: increase protection against serious and organised crime.<br><br> Prepare: reduce the impact of this criminality where it takes place.<br><br> Work on research and development to increase knowledge and the furtherance of the NCA's strategy and the law enforcement family.<br><br> For provision of training to both internal and external parties.<br><br> Activity to ensure the effective operation of the organisation after exiting the European Union including but not limited to contingency planning, amending information systems, implementation of new systems and processes and surge staff to new deployments as required.<br><br> Expenditure to support, protect and enable the NCA and its officers and national and local government and law enforcement organisations during the Covid-19 pandemic or other new threats.<br><br> Work in support of HM Government plans for negotiation and implementation of new deals with other countries after exiting the European Union.<br><br> Expenditure on goods and services to enable the reduction of the carbon footprint of the organisation.<br><br> The receipt or deployment of resources or people to other government departments to mitigate industrial action.<br><br>- Income arising from:<br><br> UK and overseas activity including but not limited to:<br><br> Training and accreditation fees;<br><br> Cyber Crime Prevention;<br><br> Asset Recovery Incentivisation Scheme;<br><br> Safeguarding children;<br><br> External contributions towards the NCA's own and also NCA led and managed crime reduction activities and grant programmes, from third parties including other Government departments, the Devolved Administrations, the European Union and other Governments. The administration and operation of the department (including the sale and hire of assets, charges such as the use of intellectual property, insurance claims and legal costs recovered).<br><br> External contributions for the provision of information to third parties.<br><br> Recovery of income awarded to the NCA in court or by negotiation with third parties, receipts of service provided by the NCA and receipts from any asset recovery activity, including the recovery of VAT expenditure where approved to do so.<br><br> From providing assistance to other law enforcement and government bodies.<br><br> Recovery of expenditure incurred by NCA enabling capability functions that established IT, recruitment of staff, financial and other enabling requirements from third parties who provide the agency with funds to deliver specific and mutually agreed objectives.<br><br> Income relating to costs incurred to ensure the effective operation of the organisation after exiting the European Union including but not limited to contingency planning, amending information systems, implementation of new systems and processes and surging staff to new deployments as required.<br><br> Recovery of costs incurred for work in support of HM Government plans for a negotiation and implementation of new deals with other countries after exiting the European Union.<br><br> Funds from other Government departments to enable the organisation to reduce its carbon footprint.<br><br> Income relating to costs and pressures in relation to Covid-19 or other new threats.<br><br> The receipt or deployment of resources or people to other government departments to mitigate industrial action. <b>Annually Managed Expenditure</b><br>- Expenditure arising from:<br><br> Pension and all other provisions and other non-cash items.</td></tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr><th rowspan="2">Estimate</th><th>Net resources authorised for current purposes</th><th>Net resources authorised for capital purposes</th><th>Net Cash Requirement</th></tr>
+<tr><th>(£)</th><th>(£)</th><th>(£)</th></tr>
+</thead>
+<tbody>
+<tr><th colspan="4">Ministry of Justice</th></tr>
+<tr><td>Departmental Expenditure Limit</td><td>10,725,504,000</td><td>2,307,501,000</td><td></td></tr>
+<tr><td>Annually Managed Expenditure</td><td>481,568,000</td><td>23,303,000</td><td></td></tr>
+<tr><td>Non-budget Expenditure</td><td>0</td><td></td><td></td></tr>
+<tr><td>Net Cash Requirement</td><td></td><td></td><td>12,432,382,000</td></tr>
+<tr><td>Total</td><td>11,207,072,000</td><td>2,330,804,000</td><td>12,432,382,000</td></tr>
+<tr><td colspan="4"><b>Departmental Expenditure Limit</b><br>- Expenditure arising from:<br><br> Administration of the Ministry of Justice, its Agencies, Arm's Length Bodies (ALBs) and associated offices including the Office of the Accountant General; administration of judicial pay and of the Judicial Pensions Scheme.<br><br> Policy and activities relating to the justice system including: civil, family and criminal justice; administrative justice (e.g. tribunals policy work), legal aid and legal support; support for victims and witnesses; miscarriages of justice; judicial and legal services policy.<br><br> Policy and activities related to coroner, burial and cremation services including the administration of the Children's Funeral Fund.<br><br> Policy and activities relating to sentencing and offender reform, including prison, probation and youth justice; reducing reoffending; support for youth, women and vulnerable offenders; commissioning of prison, probation, and youth custody services including safety and security.<br><br> Policy and activities relating to human rights, both domestic and in relation to the UK's international obligations; management of the Government's constitutional relationship with the Crown Dependencies; European and international business in the justice field including costs arising from the UK's exit from the European Union.<br><br> Payments in respect of public inquests and inquiries; fee refund schemes; grants and other payments to Police and Crime Commissioners, local authorities, other justice system partners, support providers and public sector bodies.<br><br> Compensation to judicial office holders, including payments in lieu of pension where these cannot be met by the Judicial Pensions Scheme.<br><br> Expenditure by the following Executive Agencies: His Majesty's Prison and Probation Service; His Majesty's Courts and Tribunals Service including the Court of Protection; the Office of the Public Guardian; the Criminal Injuries Compensation Authority and the Legal Aid Agency, including costs paid from central funds.<br><br> Net expenditure by the following executive ALBs: Criminal Cases Review Commission; Children and Family Court Advisory and Support Service; Independent Monitoring Authority for the Citizens' Rights Agreements, Judicial Appointments Commission; Legal Services Board; Office for Legal Complaints; Parole Board; Youth Justice Board; Oasis Restore Trust and Gov Facility Services Limited.<br><br> Expenditure of advisory ALBs on inspectorates, monitoring boards, lay observers, the UK National Preventive Mechanism, the Prisons and Probation Ombudsman, Judicial Appointments and Conduct Ombudsman; support for the judiciary and other monitoring and advisory activities; the Law Commission, the Office of the Official Solicitor and the Public Trustee; the Sentencing Council for England and Wales and the Victims' Commissioner.<br><br> Capital, depreciation and other non-cash costs falling in DEL.<br><br>- Income arising from:<br><br> Income related to the activities of His Majesty's Courts and Tribunals Service, including Civil and Family Court fee income; Tribunals fee income; Probate fee income.<br><br> Fine income, including retention of legacy criminal court charging income; receipts relating to the asset recovery incentive scheme; receipts from the Victims Surcharge; receipts retained in relation to the costs of fine enforcement and pre-1990 loan charge debt payments.<br><br> Income related to the activities of His Majesty's Prison and Probation Service, including share of gross profits from sales and services; prisoners' earnings and contributions related to damage to property; receipts from external organisations, subsidies and sales; receipts from local authorities for secure remand places.<br><br> Fees charged by the Public Trustee, Office of the Public Guardian and Court of Protection.<br><br> Income related to the activities of the Legal Aid Agency including client contributions, recoveries, interest and grants from other third parties.<br><br> Repayment of criminal injuries compensation; contributions from other Government Departments towards the costs of inquests and inquiries.<br><br> Recoveries from the Debt Management Office for the cost of administering funds in court; from investment managers for the cost of administering the Lord Chancellor's Strategic Investment Board; for research and recommendation work undertaken by the Law Commission; recoveries by the Office of the Official Solicitor.<br><br> Legal services regulation; judicial superannuation contributions and receipts from the Judicial Pensions Scheme supply estimate for administrative costs.<br><br> Receipts from: the European Commission; Royal Licences; Crown Office fees; Design 102 activities; the New Deal Scheme and wider markets initiatives; the Scottish Government, Northern Ireland Executive and the Welsh Government; National Insurance Fund and Scottish Criminal Injuries Compensation Appeals Panel; the Education and Skills Funding Agency; the Heritage Lottery Fund and Sport England.<br><br> The general administration receipts of the Department and its executive agencies, including the recovery of salaries, the disposal of capital assets, charges for accommodation, sale of goods and services, and interest from bank accounts; other charges and receipts received from other Government Departments. <b>Annually Managed Expenditure</b><br>- Expenditure arising from:<br><br> Maintenance of Departmental, Executive Agencies and ALBs' provisions and other non-cash items including bad debts, impairments, tax and pension costs and corporation tax.<br><br> Additional Universal Credit expenditure associated with the early release of prisoners.</td></tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr><th rowspan="2">Estimate</th><th>Net resources authorised for current purposes</th><th>Net resources authorised for capital purposes</th><th>Net Cash Requirement</th></tr>
+<tr><th>(£)</th><th>(£)</th><th>(£)</th></tr>
+</thead>
+<tbody>
+<tr><th colspan="4">Crown Prosecution Service</th></tr>
+<tr><td>Departmental Expenditure Limit</td><td>773,584,000</td><td>28,800,000</td><td></td></tr>
+<tr><td>Annually Managed Expenditure</td><td>5,950,000</td><td>2,859,000</td><td></td></tr>
+<tr><td>Non-budget Expenditure</td><td>0</td><td></td><td></td></tr>
+<tr><td>Net Cash Requirement</td><td></td><td></td><td>783,791,000</td></tr>
+<tr><td>Total</td><td>779,534,000</td><td>31,659,000</td><td>783,791,000</td></tr>
+<tr><td colspan="4"><b>Departmental Expenditure Limit</b><br>- Expenditure arising from:<br><br> Administrative, operational, and capital costs incurred by the CPS in prosecuting criminal cases in England and Wales. These costs include prosecution costs, costs of confiscating the proceeds of crime and capacity building in the Criminal Justice System along with staff costs, the hire of agents, support of voluntary sector organisations within the Criminal Justice System and associated depreciation and any non-cash costs falling in DEL.<br><br>- Income arising from:<br><br> The CPS has two main sources of income, Costs awarded to CPS in court and the Asset Recovery Incentivisation Scheme. Additional to this we receive income from the following sources, revenue from contract with customers, refund of expenditure for seconded staff, collaborative working with partner organisations and other administrative income. <b>Annually Managed Expenditure</b><br>- Expenditure arising from:<br><br> Write-offs and changes in allowance for irrecoverable debts, provisions and other non-cash costs falling in AME.</td></tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr><th rowspan="2">Estimate</th><th>Net resources authorised for current purposes</th><th>Net resources authorised for capital purposes</th><th>Net Cash Requirement</th></tr>
+<tr><th>(£)</th><th>(£)</th><th>(£)</th></tr>
+</thead>
+<tbody>
+<tr><th colspan="4">Serious Fraud Office</th></tr>
+<tr><td>Departmental Expenditure Limit</td><td>58,299,000</td><td>2,900,000</td><td></td></tr>
+<tr><td>Annually Managed Expenditure</td><td>0</td><td>0</td><td></td></tr>
+<tr><td>Non-budget Expenditure</td><td>0</td><td></td><td></td></tr>
+<tr><td>Net Cash Requirement</td><td></td><td></td><td>58,474,000</td></tr>
+<tr><td>Total</td><td>58,299,000</td><td>2,900,000</td><td>58,474,000</td></tr>
+<tr><td colspan="4"><b>Departmental Expenditure Limit</b><br>- Expenditure arising from:<br><br> Administration of The Serious Fraud Office (SFO) including staff costs, capital and operational costs, fees to counsel and outside accountants, witness expenses, use of information technology to analyse and review documents and improve the presentation of evidence, other investigation, prosecution and litigation costs, defendants' costs and damages ordered to be paid by the SFO.<br><br> Providing advice and assistance to support the United Kingdom's exit from the EU: payments made as a result of asset recovery schemes and deferred prosecution agreements and associated non-cash costs falling in DEL.<br><br>- Income arising from:<br><br> Recovery of income awarded to the SFO in court; receipts for services provided by the SFO and receipts from any asset recovery schemes or deferred prosecution agreements.</td></tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr><th rowspan="2">Estimate</th><th>Net resources authorised for current purposes</th><th>Net resources authorised for capital purposes</th><th>Net Cash Requirement</th></tr>
+<tr><th>(£)</th><th>(£)</th><th>(£)</th></tr>
+</thead>
+<tbody>
+<tr><th colspan="4">HM Procurator General and Treasury Solicitor</th></tr>
+<tr><td>Departmental Expenditure Limit</td><td>11,703,000</td><td>2,000,000</td><td></td></tr>
+<tr><td>Annually Managed Expenditure</td><td>0</td><td>0</td><td></td></tr>
+<tr><td>Non-budget Expenditure</td><td>0</td><td></td><td></td></tr>
+<tr><td>Net Cash Requirement</td><td></td><td></td><td>15,301,000</td></tr>
+<tr><td>Total</td><td>11,703,000</td><td>2,000,000</td><td>15,301,000</td></tr>
+<tr><td colspan="4"><b>Departmental Expenditure Limit</b><br>- Expenditure arising from:<br><br> Administration of HM Procurator General and Treasury Solicitor's Department comprising the Government Legal Department, the Attorney General's Office and HM Crown Prosecution Service Inspectorate and costs and fees for providing legal and other services, and non-cash items in DEL. Includes programme costs associated with continuing work on EU Exit Transition.<br><br>- Income arising from:<br><br> Recovery of costs from other government departments and associated bodies including costs recovered for legal and administrative services provided and receipts from secondments of staff; favourable costs awarded; cost awards made by the courts in favour of the Attorney General; charges for Bona Vacantia work; recovery of costs from tenants in jointly occupied buildings; income in relation to the Government Legal Service operation; subscription services; photocopying services; receipts from sales of fixed assets and non-capital items; rent and rate rebates; recovery of old debts; receipts from staff; income from ICT services and other administrative income.</td></tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr><th rowspan="2">Estimate</th><th>Net resources authorised for current purposes</th><th>Net resources authorised for capital purposes</th><th>Net Cash Requirement</th></tr>
+<tr><th>(£)</th><th>(£)</th><th>(£)</th></tr>
+</thead>
+<tbody>
+<tr><th colspan="4">Ministry of Defence</th></tr>
+<tr><td>Departmental Expenditure Limit</td><td>41,010,971,000</td><td>18,337,938,000</td><td></td></tr>
+<tr><td>Annually Managed Expenditure</td><td>1,928,087,000</td><td>0</td><td></td></tr>
+<tr><td>Non-budget Expenditure</td><td>0</td><td></td><td></td></tr>
+<tr><td>Net Cash Requirement</td><td></td><td></td><td>50,542,727,000</td></tr>
+<tr><td>Total</td><td>42,939,058,000</td><td>18,337,938,000</td><td>50,542,727,000</td></tr>
+<tr><td colspan="4"><b>Departmental Expenditure Limit</b><br>- Expenditure arising from:<br><br> Ongoing military commitments, including identifying and countering the threat of terrorist attack on the UK Mainland and maintaining the integrity of UK waters and airspace. Contributing to the community, including through the administration of cadet forces, costs of assistance to other Government Departments and civil agencies. Defence engagement and delivery of agreed goods in support of wider British interests. Delivering military capability, including the full costs of front line troops including attributed costs of logistical, infrastructure and personnel support costs. Research on the equipment and non-equipment programme. Provision of financial interventions to the private and charitable sector in support of delivery of departmental outputs. To support Ministers and Parliament. Undertake strategic management and corporate services. Pensions and other payments/allowances for disablement or death arising out of war or service in the Armed Forces after 2 September 1939. Awards to surviving members of British groups held prisoner by the Japanese during the Second World War (Far Eastern Prisoners of War) or their surviving spouse. Pensions and other payments in respect of service in the Armed Forces at other times, excluding claims under the Armed Forces Compensation Scheme and Armed Forces pension scheme.<br><br> Personnel costs of the Armed Forces and their Reserves, Cadet forces. Personnel costs of Defence Ministers, civilian staff employed by the Ministry of Defence and contractors working on Defence contracts. Procurement of Defence assets including the development and production of equipment and weapon systems for the Armed Forces. Support to the nuclear warhead and fissile material programme.<br><br> Research by contract. Wider procurement services including those on repayment terms, purchases for sale abroad, purchases for gifting abroad, contractor costs including on redundancy.<br><br> The repair, maintenance, stores, support and supply services for Defence including associated capital facilities and works, plant and machinery.<br><br> Movements of Defence assets including the contracting for vehicles (to include chartering of ships, trains and planes), and the wider logistic services for the Armed Forces and supporting groups.<br><br> Land and buildings facilities management and works services. Services provided by other Government Departments. Sundry services, subscriptions, grants, including support to Armed Forces charities and other payments, assistance to Foreign and Commonwealth Governments for defence-related purposes.<br><br> UK youth community projects. Spending on, including set-up costs and loans to, Trading Funds Arm's Length Bodies and other Designated Defence Bodies.<br><br> In support of Military operations over and above the costs of maintaining the units involved at their normal state of readiness. The net additional programme costs for early warning, crisis management, conflict resolution, humanitarian efforts, peace-making, peace-keeping and peace-building activities in other parts of the world. The net additional costs of associated strengthening of international regional systems through, but not exclusive of, capacity-building and other stabilisation activities.<br><br> Personnel costs of the Armed Forces and their Reserves includes provision for Regular Naval and Marine Services to a number not exceeding 39,550; provision for the Regular Army Service to a number not exceeding 102,250; provision for Regular Air Force Service to a number not exceeding 36,500; and provision for Officers, Men and Women in the Reserve Forces not exceeding the numbers specified in respect of each Reserve Force for the purposes of Parts 1, 3, 4 and 5 of the Reserve Forces Act 1996 in House of Commons paper No. 1036 of Session 2022-23.<br><br>- Income arising from:<br><br> Provision of services to Foreign Governments and Other Government Departments. Payments for services provided by Trading Funds, Arm's Length Bodies and other designated Defence Bodies. Dividends, interest and loan repayments from Trading Funds, Arm's Length Bodies and other designated Defence Bodies. Sale of assets. Recovery of costs from personnel. Rent for use of Ministry of Defence property and miscellaneous receipts. <b>Annually Managed Expenditure</b><br>- Expenditure arising from:<br><br> The creation and revaluation of provisions; impairments due to the revaluation of assets, unforeseen obsolescence and losses caused by catastrophic events. Bad debts and foreign exchange gains and losses.<br><br> Costs associated with decommissioning.</td></tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr><th rowspan="2">Estimate</th><th>Net resources authorised for current purposes</th><th>Net resources authorised for capital purposes</th><th>Net Cash Requirement</th></tr>
+<tr><th>(£)</th><th>(£)</th><th>(£)</th></tr>
+</thead>
+<tbody>
+<tr><th colspan="4">Security and Intelligence Agencies</th></tr>
+<tr><td>Departmental Expenditure Limit</td><td>3,518,390,000</td><td>1,283,019,000</td><td></td></tr>
+<tr><td>Annually Managed Expenditure</td><td>38,277,000</td><td>2,221,000</td><td></td></tr>
+<tr><td>Non-budget Expenditure</td><td>0</td><td></td><td></td></tr>
+<tr><td>Net Cash Requirement</td><td></td><td></td><td>4,328,245,000</td></tr>
+<tr><td>Total</td><td>3,556,667,000</td><td>1,285,240,000</td><td>4,328,245,000</td></tr>
+<tr><td colspan="4"><b>Departmental Expenditure Limit</b><br>- Expenditure arising from:<br><br> Administration and operational costs, research and development works, equipment and other payments, and associated depreciation and any other non-cash costs falling in DEL.<br><br>- Income arising from:<br><br> The sale of services to other government departments, the recovery of costs of staff on loan, recovery from staff for miscellaneous items and certain other services. The sale of fixed assets, freehold interest and land. <b>Annually Managed Expenditure</b><br>- Expenditure arising from:<br><br> Provisions and other non-cash items.</td></tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr><th rowspan="2">Estimate</th><th>Net resources authorised for current purposes</th><th>Net resources authorised for capital purposes</th><th>Net Cash Requirement</th></tr>
+<tr><th>(£)</th><th>(£)</th><th>(£)</th></tr>
+</thead>
+<tbody>
+<tr><th colspan="4">Foreign, Commonwealth and Development Office</th></tr>
+<tr><td>Departmental Expenditure Limit</td><td>7,743,984,000</td><td>3,640,820,000</td><td></td></tr>
+<tr><td>Annually Managed Expenditure</td><td>418,768,000</td><td>280,000,000</td><td></td></tr>
+<tr><td>Non-budget Expenditure</td><td>0</td><td></td><td></td></tr>
+<tr><td>Net Cash Requirement</td><td></td><td></td><td>11,366,055,000</td></tr>
+<tr><td>Total</td><td>8,162,752,000</td><td>3,920,820,000</td><td>11,366,055,000</td></tr>
+<tr><td colspan="4"><b>Departmental Expenditure Limit</b><br>- Expenditure arising from:<br><br> Development and humanitarian assistance under the International Development Act 2002 through financial and technical assistance to governments, institutions, voluntary agencies and individuals for activities including: strengthening global peace, security and governance; strengthening resilience and response to crisis; promoting global prosperity; tackling extreme poverty and helping the world's most vulnerable; delivering value for money and delivery efficiency in FCDO; continued assistance to UK Overseas Territories; costs relating to investments in public corporations and shareholdings in private sector companies.<br><br> Wilton Park Executive Agency; the British Council; BBC World Service; spending by ALBs: Commonwealth Scholarship Commission (CSC) on scholarships to individuals from Commonwealth countries; Independent Commission for Aid Impact (ICAI), an advisory ALB which provides independent scrutiny of UK Aid in order to promote the delivery of value for money for British taxpayers and the maximisation of the impact of aid; Westminster Foundation for Democracy; Great Britain-China Centre and the Marshall Aid Commemoration Commission.<br><br> Diplomacy; hospitality and facilities; international organisations; information services; scholarships and sponsored visits; consular assistance; special payments and assistance; programmes supporting foreign policy objectives including human rights, good governance, international security, the fight against the illicit drug trade and promoting our prosperity.<br><br> Governmental response to the coronavirus Covid-19 pandemic.<br><br> Conflict prevention, early warning, crisis management, conflict resolution/peace-making, peace-keeping and peace-building activity and associated strengthening of international and regional systems and capacity.<br><br> Operational and legal costs, related capital expenditure, administration costs and associated depreciation and other non-cash costs falling in DEL.<br><br>- Income arising from:<br><br> Capital repayments and receipt of interest on development assistance and budget support loans; management fees relating to loan guarantees; refunds of payments made under UK guarantees to the European Investment Bank; recoveries from other government departments; recovery of advances from procurement agents.<br><br> Receipts for seconded officers and country based staff; rental income; recoveries from staff for use of official vehicles; refund of rental and rates payments; rent uplifts and sub-letting; abatements and settlement of legal cases; the sale of information material; sales of surplus property, material and equipment; legalisation fees collected at both home and abroad; telephone and postage recoveries; medical scheme recoveries, bank interest and sundry receipts; repayment by locally engaged staff of loans for car purchase and medical and other assistance.<br><br> Other Government Departments for the FCDO platform; grants; receipts from overseas governments and other third parties in respect of programme funds and receipts from overseas governments in respect of bilateral country and sector programmes.<br><br> Visa and passport services provided at consular offices; repayments of sums advanced to distressed British Nationals.<br><br> Wilton Park Executive Agency receipts from customers for running costs, sales and rents; Hospitality Section, Conference and Visits Group; Lancaster House receipts.<br><br> Income from debentures/shares issued to FCDO by CDC Group plc and other private sector entities; and other income in relation to capital assets; interest and dividends from public corporations; sales into wider markets, use of assets and sponsorships. <b>Annually Managed Expenditure</b><br>- Expenditure arising from:<br><br> Non-cash movements in provisions including contributions to International Finance Facility for Immunisation (IFFIm) and Advanced Market Commitments (AMC); change in fair value of financial instruments and other non-cash costs falling in AME; the re-capitalisation of CDC Group plc.<br><br> The refund of certain taxes and duties paid by certain foreign and commonwealth governments.<br><br>- Income arising from:<br><br> Non-cash accounting adjustments on the loan portfolio.</td></tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr><th rowspan="2">Estimate</th><th>Net resources authorised for current purposes</th><th>Net resources authorised for capital purposes</th><th>Net Cash Requirement</th></tr>
+<tr><th>(£)</th><th>(£)</th><th>(£)</th></tr>
+</thead>
+<tbody>
+<tr><th colspan="4">Department for Levelling Up, Housing and Communities</th></tr>
+<tr><td>Departmental Expenditure Limit - Housing and Communities</td><td>3,030,829,000</td><td>7,193,948,000</td><td></td></tr>
+<tr><td>Departmental Expenditure Limit - Local Government</td><td>14,624,638,000</td><td>0</td><td></td></tr>
+<tr><td>Annually Managed Expenditure</td><td>19,875,251,000</td><td>0</td><td></td></tr>
+<tr><td>Non-budget Expenditure</td><td>0</td><td></td><td></td></tr>
+<tr><td>Net Cash Requirement</td><td></td><td></td><td>31,469,777,000</td></tr>
+<tr><td>Total</td><td>37,530,718,000</td><td>7,193,948,000</td><td>31,469,777,000</td></tr>
+<tr><td colspan="4"><b>Departmental Expenditure Limit - Housing and Communities</b><br>- Expenditure arising from:<br><br> Increasing the supply of affordable housing and supporting home ownership and diversifying the housing market; policies and activities regulating and helping people access the housing market, whether they are renting or looking to buy; policies to improve housing quality; supporting infrastructure and planning programmes including policy; buying, remediating and selling land for housing and economic development; preventing homelessness, and supporting people to stay in their homes and supporting those already homeless.<br><br> Supporting local economies across the United Kingdom to boost productivity and deliver inclusive growth for all our communities, cultural institutions and society in general; economic growth and devolving powers and responsibilities at a local level; European Union (EU) structural funds; UK Holocaust Memorial project.<br><br> Supporting local authorities and communities; bringing them together; emergency assistance and financial support to local authorities and communities; encouraging race, gender and faith equality; helping support troubled families and victims of domestic violence and child sexual exploitation; tackling extremism and promoting cohesive communities; Gypsy and Traveller policy.<br><br> Supporting effective local government to deliver public services to local people, driving efficiencies and transformation; encouraging action at neighbourhood level; legacy and historic programmes previously run by the Department including payments to the Valuation Office Agency; research and development programmes; supporting the effective functioning of the local audit system.<br><br> Responsibility for keeping the Grenfell Tower site safe and secure until a decision is made about its future. Supporting residents and victims of the Grenfell fire and engaging with the Grenfell Tower Memorial Commission.<br><br> Delivery of the Building Safety portfolio through supporting and monitoring the rectification of safety issues relating to buildings and enforcement by local regulators; reviewing the current building safety system and implementing changes to that system as they are required; delivery of energy performance of buildings regime. UK-wide delivery of insurance products to rectify building safety issues and a National Regulator for Construction Products, and the delivery of a new Building Safety Regulator for England along with training and recruitment of local regulators.<br><br> Exiting the EU and net spending by Arm's Length Bodies (ALBs) and public corporations, including Homes England.<br><br> Expenditure relating to any of the above areas in the form of: equity investment, or making loans through advances of principal (financial transactions); using a payment by results mechanism; the creation of liabilities and expenditure related to a financial guarantee or similar financial instrument given by the Department; providing grant funding to charities; providing funding through endowments as laid out in Managing Public Money; social investment models; purchase and management of exchange rate contracts to hedge exposure risk; financial transactions devolved to and delivered by local authorities.<br><br> Administration of the Department for Levelling Up, Housing and Communities, its ALBs, and associated offices, ensuring that they deliver on the Department's objectives.<br><br> Administration and operation of the Department in connection with maintaining the integrity of the Union, and sustaining a flourishing democracy.<br><br>- Income arising from:<br><br> Increasing the supply of affordable housing and supporting home ownership and diversifying the housing market; policies and activities regulating and helping people access the housing market, buying and selling land for housing and economic development; capital pooled housing receipts; planning programmes and policy.<br><br> Supporting local economies across the country to boost productivity and deliver inclusive growth for all our communities and economic growth; EU structural funds and European Regional Development Fund programme; city deals.<br><br> Supporting effective local government to deliver public services to local people, driving efficiencies and transformation; supporting local authorities; disabled facilities grant; legacy and historic programmes previously run by the Department; research and development programmes.<br><br> Exiting the EU and net spending by ALBs and public corporations, including Homes England.<br><br> Delivery of the Building Safety portfolio and energy performance regime.<br><br> Income relating to any of the above areas in the form of: equity investment, or making loans through advances of principal (financial transactions); using a payment by results mechanism; fees and charges including by ALBs; creation of liabilities and expenditure related to a financial guarantee or similar financial instrument given by the Department; purchase and management of exchange rate contracts to hedge exposure risk; financial transactions devolved to and delivered by local authorities.<br><br> Administration of the Department for Levelling Up, Housing and Communities, its ALBs, and associated offices, ensuring that they deliver on the Department's objectives and any activities listed in the expenditure section.<br><br> Philanthropic donations towards the construction and management of the Holocaust Memorial and Learning Centre.<br><br> Deposits forfeited by candidates in an election.<br><br> Insurance schemes. <b>Departmental Expenditure Limit - Local Government</b><br>- Expenditure arising from:<br><br> Supporting effective local government to deliver public services to local people.<br><br> Financial support to local authorities and specified bodies including grant payments; including revenue support grant, business rates retention including transitional relief; business rate relief measures and Covid-19 measures.<br><br> Supporting social care and independent living; local government devolved powers. <b>Annually Managed Expenditure</b><br>- Expenditure arising from:<br><br> Debt payments relating to housing stock; charges on financial products' repayments of excess contributions made by local authorities; provision for future liabilities, impairments, and exchange rate movements including on financial instruments (including guarantees); business rates retention; hedging.<br><br> Supporting effective local government to deliver public services to local people and net spending by our ALBs and other public bodies not classified as ALBs and setting up of new Development Corporations.<br><br> Movements arising from pension schemes of the Department and its ALBs; other public bodies not classified as ALBs.<br><br> Supporting communities to respond and recover from Covid-19.<br><br>- Income arising from:<br><br> Supporting effective local government to deliver public services to local people.</td></tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr><th rowspan="2">Estimate</th><th>Net resources authorised for current purposes</th><th>Net resources authorised for capital purposes</th><th>Net Cash Requirement</th></tr>
+<tr><th>(£)</th><th>(£)</th><th>(£)</th></tr>
+</thead>
+<tbody>
+<tr><th colspan="4">Department for Culture, Media and Sport</th></tr>
+<tr><td>Departmental Expenditure Limit</td><td>1,685,570,000</td><td>662,345,000</td><td></td></tr>
+<tr><td>Annually Managed Expenditure</td><td>4,374,043,000</td><td>1,209,267,000</td><td></td></tr>
+<tr><td>Non-budget Expenditure</td><td>0</td><td></td><td></td></tr>
+<tr><td>Net Cash Requirement</td><td></td><td></td><td>6,017,267,000</td></tr>
+<tr><td>Total</td><td>6,059,613,000</td><td>1,871,612,000</td><td>6,017,267,000</td></tr>
+<tr><td colspan="4"><b>Departmental Expenditure Limit</b><br>- Expenditure arising from:<br><br> Administration, operating and legal costs of the Department and grants to other government departments. Net spending and sponsorship of Arm's Length Bodies (ALBs), sponsored bodies and associated offices.<br><br> Delivery of Covid-19 response activities for Culture, Media and Sport sectors, including loan book management and insurance schemes.<br><br> Research, development and surveys. Funding for UK membership of various international organisations.<br><br> The closure or restructure of organisations and legal cases. Management of overseas development funding for cultural protection.<br><br> Support for the cultural and heritage sectors, libraries, archive institutions, UK City of Culture programme and the wider visitor economy. The Government Indemnity Scheme, Blythe House programme and legacy relating to Unboxed: Creativity in the UK. Royal Palaces, Royal Parks, national heritage and historic buildings, ancient monuments and sites, Listed Places of Worship schemes, memorials and ceremonial occasions, Government Art Collection.<br><br> Promoting trade, inward investment and global engagement.<br><br> Investment in elite and community/grassroots sport and facilities. Delivery of 2012 Olympic and Paralympic games legacy, Commonwealth Games 2022 legacy and related programmes. Bidding for and staging of major sporting events.<br><br> Expenditure associated with ensuring that commercial gambling is socially responsible and that the National Lottery and society lotteries are effectively regulated.<br><br> Sponsorship of and support for the creative industries. Support for broadcasting, radio, journalism, gambling, film and video licensing, the Gambling Commission and regulatory regimes and schemes.<br><br> Building a stronger civil society through a range of public, private and civil society partners, and increasing and improving services, facilities and positive activities for young people; ensuring a robust legal and regulatory framework for charities; maximising sustainable income streams, and providing support into civil society.<br><br> Associated non-cash costs in DEL.<br><br>- Income arising from:<br><br> Proceeds from the sale of properties, assets and the early release of office leases, fees and charges for licences and receipts from concessionaires and sponsors, fees for provision of corporate and technology services, repayment of grants, fees charged for Subject Access Requests and data protection enquiries and repayment of loan principal and related interest.<br><br> Other government departments, ALBs, devolved administrations, local authorities, and the private sector.<br><br> Covid-19 response activities for Culture, Media and Sport sectors.<br><br> Government Art Collection, recovery of commemorative and ceremonial costs, recovery of costs for repairs to listed buildings.<br><br> Cultural objects of significance received under the Cultural Gifts scheme and passed to the Acceptance in Lieu panel.<br><br> The National Lottery Distribution Fund, National Lottery operator's licence fees and recoveries from the issue of licensing certificates.<br><br> The legacy of the Olympic and Paralympic Games 2012, Commonwealth Games 2022, Unboxed:<br><br> Creativity in the UK and related programmes.<br><br> Voluntary donations to fund a new Queen's Award for Voluntary Service operating system. <b>Annually Managed Expenditure</b><br>- Expenditure arising from:<br><br> Funding the BBC, Channel Four, S4C and regulators sponsored by the department.<br><br> Provisions, impairments and other AME expenditure from DCMS and its sponsored bodies.<br><br> National Lottery grants made by the Lottery Distributing Bodies.<br><br> Associated AME non-cash costs.</td></tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr><th rowspan="2">Estimate</th><th>Net resources authorised for current purposes</th><th>Net resources authorised for capital purposes</th><th>Net Cash Requirement</th></tr>
+<tr><th>(£)</th><th>(£)</th><th>(£)</th></tr>
+</thead>
+<tbody>
+<tr><th colspan="4">Department for Science, Innovation and Technology</th></tr>
+<tr><td>Departmental Expenditure Limit</td><td>563,233,000</td><td>13,082,582,000</td><td></td></tr>
+<tr><td>Annually Managed Expenditure</td><td>11,025,853,000</td><td>2,480,000,000</td><td></td></tr>
+<tr><td>Non-budget Expenditure</td><td>0</td><td></td><td></td></tr>
+<tr><td>Net Cash Requirement</td><td></td><td></td><td>16,497,582,000</td></tr>
+<tr><td>Total</td><td>11,589,086,000</td><td>15,562,582,000</td><td>16,497,582,000</td></tr>
+<tr><td colspan="4"><b>Departmental Expenditure Limit</b><br>- Expenditure arising from:<br><br> Activities of the Geospatial Commission.<br><br> Increasing science and research excellence in the United Kingdom and maximising its contribution to society.<br><br> Support for space related programmes.<br><br> The payment of subscriptions and contributions to international organisations and fulfilment of international treaty obligations.<br><br> Support for the activities of the Position, Navigation and Timing (PNT) Office.<br><br> Making payments to local authorities in respect of Local Area Agreements and New Burdens responsibilities.<br><br> Activities of UK Government Investments on behalf of the Department.<br><br> The efficient management and discharge of liabilities falling to the Department and its partner organisations.<br><br> The management of the Government's shareholder interest in the portfolio of commercial businesses wholly or partly owned by Government; providing financial assistance to public corporations, and trading funds.<br><br> Specialist support services, staff management and development; legal costs; other departmental administration and non-cash costs; payments towards the United Kingdom Atomic Energy Authority Combined Pension Scheme deficit; exchange risk and other guarantee losses; publicity, promotion, publications, knowledge sharing initiatives and departmental research and development; surveys, monitoring, statistics, advice and consultancies; management of asset sales; contributions to fund cross government initiatives and grants to other government departments; payments to HM Treasury towards the cost of Infrastructure UK.<br><br> Expenditure arising from the UK's departure from the European Union.<br><br> Governmental response to the coronavirus Covid-19 pandemic.<br><br> Grants to local authorities.<br><br> Funding organisations supporting departmental objectives, including the department's executive agencies and arm's length bodies and their subsidiaries and associated offices.<br><br> Support for high-risk projects with potential for transformative change through the Advanced Research and Invention Agency (ARIA), including set up costs.<br><br> Management of overseas development funding for digital development.<br><br> Delivery and sponsorship of digital infrastructure and telecommunications, including Building Digital UK delivery.<br><br> Sponsorship and support of the digital economy including developing a pro-innovation regulatory regime for AI.<br><br> The enablement of the use of secure digital identity products across the UK economy. The delivery of certain elements of the National Cyber Security Strategy and responsibilities concerning the security and resilience of the UK telecoms sector, the UK Network and Information Systems Regulations.<br><br> Development of policy and legislation to establish a new pro-competition regulatory regime for digital markets.<br><br> International activity to further the government's digital policy objectives.<br><br> The development of, and initiatives to increase UK contribution to the development of technical digital standards. Tackling harmful content online, counter misinformation and disinformation.<br><br> Development and implementation of policy, including economic security policy, in relation to digital and emerging technologies.<br><br> Development of data policy for the economy, science, research as well as society and security, including the National Data Strategy. Work to enable trustworthy data innovation in the public and private sector.<br><br>- Income arising from:<br><br> Receipts from other Government Departments, arm's length bodies and devolved administrations.<br><br> Receipts from statutory regulators in respect of expenses related to levies from industry.<br><br> Receipts from licences and levies; dividends; equity withdrawals; interest on loans and loan repayments from the Ordnance Survey, Met Office, UK Intellectual Property Office and National Physical Laboratory.<br><br> Income from investments; receipts from financial investments made by UK Research and Innovation; repayment of loans and investments; repayment of capital grants; repayments of grants and contributions; receipts from asset sales.<br><br> European Fast Stream receipts; repayment of working capital loans; receipts from outside organisations in respect of advertising and publicity activities and materials; sale of research publications; receipts from the European Social Fund to cover departmental programmes; sponsorship funding.<br><br> Receipts and profit from the sale of surplus land, buildings and equipment; rental income and repayments including from three domestic properties on the estate of the European School of Culture at Culham, Oxfordshire and from the National Physical Laboratory. Receipts associated with the closure of Partner Organisations.<br><br> Receipts from LifeArc/MRC Technology, the Ufi Charitable Trust, and subsidiaries and shares in joint ventures of UK Research and Innovation, and other partner organisations, the public weather service and mapping services.<br><br> General administration receipts of the Department, its executive agencies, its arm's length bodies, and other partner organisations, including: the recovery of salaries and associated costs for seconded staff; sale of goods and services; HMRC receipts arising from the Research and Development Expenditure Credit; and interest from bank accounts and exchange rate gains and losses.<br><br> Income relating to legal services, consultancy, publications, public enquiries, information, central services; occupancy charge; administrative and professional services; EU receipts; refund of input VAT not claimed in previous years on departmental expenditure; fees for services provided for energy resilience purposes; interest payments; non-cash income.<br><br> Activities of UK Government Investments on behalf of the Department.<br><br> Contributions from other organisations to cover the cost of activities they have agreed to fund in total or in part.<br><br> Proceeds from the sale of properties, assets and the early release of office leases, fees and charges for licences and receipts from concessionaires and sponsors, fees for provision of corporate and technology services, repayment of grants, fees charged for Subject Access Requests and data protection enquiries and repayment of loan principal and related interest. Fees charged to data controllers under data protection legislation and regulations. Fines and penalties collected by the ICO under legislation that it regulates.<br><br> Receipts from local authorities, and the private sector.<br><br> The sale of radio spectrum and contributions from other government departments toward the costs of joint schemes. <b>Annually Managed Expenditure</b><br>- Expenditure arising from:<br><br> The efficient management and discharge of liabilities falling to the Department and its partner organisations.<br><br> Bad debts, impairments and provisions; other non-cash items.<br><br> Departmental administration; financial guarantee schemes; regional investment and programmes; enterprise for small and medium firms; provision of support for business, including support for specific industries; support for innovation and research activity; miscellaneous programmes.<br><br> Governmental response to the coronavirus Covid-19 pandemic.<br><br> The management of asset sales.<br><br> Payment of corporation tax.<br><br> Contributions to partner organisations' pension schemes, such as the Research Councils' Pension Scheme.<br><br> Activities of UK Government Investments on behalf of the Department.<br><br> The expenditure of The NESTA Trust.<br><br> Impairment of loans and investments; Exchange rate gains and losses.</td></tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr><th rowspan="2">Estimate</th><th>Net resources authorised for current purposes</th><th>Net resources authorised for capital purposes</th><th>Net Cash Requirement</th></tr>
+<tr><th>(£)</th><th>(£)</th><th>(£)</th></tr>
+</thead>
+<tbody>
+<tr><th colspan="4">Department for Transport</th></tr>
+<tr><td>Departmental Expenditure Limit</td><td>17,026,697,000</td><td>20,705,191,000</td><td></td></tr>
+<tr><td>Annually Managed Expenditure</td><td>4,993,737,000</td><td>82,986,000</td><td></td></tr>
+<tr><td>Non-budget Expenditure</td><td>0</td><td></td><td></td></tr>
+<tr><td>Net Cash Requirement</td><td></td><td></td><td>34,826,944,000</td></tr>
+<tr><td>Total</td><td>22,020,434,000</td><td>20,788,177,000</td><td>34,826,944,000</td></tr>
+<tr><td colspan="4"><b>Departmental Expenditure Limit</b><br>- Expenditure arising from:<br><br> Improving transport connections across the United Kingdom. Support of transport-related activities including roads; vehicles and driving; rail; shipping and maritime; mountain rescue; ports; sustainable travel; aviation; search and rescue; local transport; transport security and safety; and highway services.<br><br> Net spending by arm's length bodies. Grants to Transport for London and local authorities in respect of local transport programmes. Support for other minor transport services; use of European funding for transport-related schemes; administrative costs and associated other non-cash items falling in DEL. Smart-ticketing and related technology. Work to support the government's new relationship with the EU under the Trade and Cooperation Agreement and associated workstreams. Grants to Transport for the North and Statutory Bodies. Loans for Shimmer Relocation Assistance Scheme and transport-related activities.<br><br> Governmental response to the coronavirus Covid-19 pandemic. The Public Sector Decarbonisation Scheme. Financial assistance under the UK Internal Markets Act 2020 in any area of the United Kingdom.<br><br> Losses and special payments relating to the administration of the Department for Transport and its associated agencies. Rail reform.<br><br>- Income arising from:<br><br> Sales of assets; loan repayments; interest receivable and European grants for transport-related activities including roads; vehicles and driving; rail; shipping and maritime; mountain rescue; ports; sustainable travel; aviation; search and rescue; local transport; transport security and safety; highway services.<br><br> Shipping and maritime income including, but not limited to registration fees. Contributions from other organisations to cover the cost of activities they have agreed to fund in total or in part. Dividend income from shareholdings. Public Sector Decarbonisation Scheme. Fees for use of clean air zones central services. <b>Annually Managed Expenditure</b><br>- Expenditure arising from:<br><br> Grant and pension provisions and associated non-cash costs incurred by the Department for Transport and its associated agencies in respect of transport-related activities including roads; vehicle and driving; rail; sustainable travel; aviation; local transport; transport security and safety; and highway services.<br><br> Shipping and maritime activities. Other costs incurred by the Department for Transport and its associated agencies in respect of transport-related activities including Payments to General Lighthouse Authorities.<br><br> Net spending by arm's length bodies. Governmental response to the coronavirus Covid-19 pandemic.<br><br>- Income arising from:<br><br> Loan repayments and other income for transport-related activities. Dividends and interest receivable.</td></tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr><th rowspan="2">Estimate</th><th>Net resources authorised for current purposes</th><th>Net resources authorised for capital purposes</th><th>Net Cash Requirement</th></tr>
+<tr><th>(£)</th><th>(£)</th><th>(£)</th></tr>
+</thead>
+<tbody>
+<tr><th colspan="4">Department for Energy Security and Net Zero</th></tr>
+<tr><td>Departmental Expenditure Limit</td><td>3,066,194,000</td><td>5,913,633,000</td><td></td></tr>
+<tr><td>Annually Managed Expenditure</td><td>42,461,720,000</td><td>118,099,000</td><td></td></tr>
+<tr><td>Non-budget Expenditure</td><td>0</td><td></td><td></td></tr>
+<tr><td>Net Cash Requirement</td><td></td><td></td><td>18,260,644,000</td></tr>
+<tr><td>Total</td><td>45,527,914,000</td><td>6,031,732,000</td><td>18,260,644,000</td></tr>
+<tr><td colspan="4"><b>Departmental Expenditure Limit</b><br>- Expenditure arising from:<br><br> The provision of support for business, including support for specific industries, small and medium businesses, regional programmes, programmes to promote research and development, innovation and standards, best practice and sustainable development.<br><br> Support for business and other non-domestic energy bills.<br><br> Support for consumer and household energy bills.<br><br> The Energy Security Strategy, to enable or encourage the supply of energy, including acquisition, and making available or enabling access at government expense to, energy or related infrastructure.<br><br> Support for energy-related activities including regulation, civil emergency planning, energy resilience measures, environmental remediation and support and facilitation for new and sustainable or more efficient, or less carbon intensive energy sources, technologies, transmission and storage, security and non-proliferation.<br><br> Respond to fuel poverty needs.<br><br> Measures to improve energy efficiency, security and environmental practice; payments to energy companies to reduce the impact of government policies on bills.<br><br> Work towards international agreement on climate change; promote and support actions to reduce national and global greenhouse gas emissions; climate modelling and risk assessment.<br><br> Safety, environment and social impact programmes relating to nuclear sites in Central and Eastern Europe and the former Soviet Union and other countries where future G8 Global Partnership related initiatives may be pursued.<br><br> Inspections and compliance in accordance with regulatory requirements and recovery of expenditure through cost sharing arrangements.<br><br> The efficient management and discharge of liabilities falling to the Department and its partner organisations, including nuclear waste management and decommissioning, and liabilities in respect of former shipbuilding industry and former coal industry employees.<br><br> The management of the Government's shareholder interest in the portfolio of commercial businesses wholly or partly owned by Government; providing financial assistance to public corporations, and trading funds.<br><br> The payment of subscriptions and contributions to international organisations and fulfilment of international treaty obligations.<br><br> Making payments to local authorities in respect of Local Area Agreements and New Burdens responsibilities.<br><br> Activities of UK Government Investments on behalf of the Department.<br><br> Specialist support services, staff management and development; other departmental administration and non-cash costs; payments towards the United Kingdom Atomic Energy Authority Combined Pension Scheme deficit; exchange risk and other guarantee losses; publicity, promotion, publications, knowledge sharing initiatives and departmental research and development; surveys, monitoring, statistics, advice and consultancies; management of asset sales; contributions to fund cross government initiatives; payments to HM Treasury towards the cost of Infrastructure UK.<br><br> Expenditure arising from the UK's departure from the European Union.<br><br> Governmental response to the coronavirus Covid-19 pandemic.<br><br> Grants to local authorities.<br><br> Funding organisations supporting departmental objectives, including the department's executive agencies and arm's length bodies and their subsidiaries.<br><br>- Income arising from:<br><br> The Energy Security Strategy, to enable or encourage the supply of energy, including acquisition, and making available or enabling access at government expense to, energy or related infrastructure.<br><br> Receipts from other Government Departments and devolved administrations.<br><br> Receipts from statutory regulators in respect of expenses related to levies from industry.<br><br> Receipts from licences and levies; dividends; equity withdrawals; interest on loans and loan repayments.<br><br> Income from investments; repayment of loans and investments; repayment of capital grants; repayments of grants and contributions; receipts from asset sales.<br><br> European Fast Stream receipts; repayment of working capital loans; receipts from outside organisations (including the EU) in respect of advertising and publicity activities and materials; sale of research publications; receipts from the European Social Fund to cover departmental programmes; sponsorship funding.<br><br> Receipts and profit from the sale of surplus land, buildings and equipment; rental income and repayments.<br><br> Receipts associated with the closure of partner organisations.<br><br> Receipts from partner organisations. Commercial loan recoveries in relation to UK Coal Production Limited.<br><br> General administration receipts of the Department, its executive agencies, its arm's length bodies, and other partner organisations, including: the recovery of salaries and associated costs for seconded staff; sale of goods and services; HMRC receipts arising from the Research and Development Expenditure Credit; and interest from bank accounts and exchange rate gains and losses.<br><br> Income relating to legal services, consultancy, publications, public enquiries, information, central services; occupancy charge; administrative and professional services; EU receipts; refund of input VAT not claimed in previous years on departmental expenditure; fees for services provided for energy resilience purposes; interest payments; non-cash income.<br><br> Activities of UK Government Investments on behalf of the Department.<br><br> Contributions from other organisations to cover the cost of activities they have agreed to fund in total or in part.<br><br> Government carbon offsetting scheme receipts.<br><br> Receipt and retention of financial securities relating to the decommissioning of renewable devices such as offshore wind.<br><br> Receipts relating to the oil and gas industries (including petroleum licensing and levy receipts).<br><br> Receipts relating to the Nuclear Decommissioning Authority. <b>Annually Managed Expenditure</b><br>- Expenditure arising from:<br><br> Support for consumer and household, business and other non-domestic energy bills.<br><br> The Energy Security Strategy, to enable or encourage the supply of energy, including acquisition, and making available or enabling access at government expense to, energy or related infrastructure.<br><br> The efficient management and discharge of liabilities falling to the Department and its partner organisations, including nuclear waste management and decommissioning and liabilities in respect of former shipbuilding industry and former coal industry employees.<br><br> Bad debts, impairments and provisions; other non-cash items.<br><br> Departmental administration; support for innovation and research activity; miscellaneous programmes.<br><br> Governmental response to the coronavirus Covid-19 pandemic.<br><br> The management of asset sales.<br><br> Payment of corporation tax.<br><br> Activities of UK Government Investments on behalf of the Department.<br><br> Renewable Heat Incentive including Renewable Heat Premium Payments.<br><br> Impairment of loans and investments; Exchange rate gains and losses.<br><br> Efficient discharge of liabilities relating to contracts for difference for the supply of electricity.</td></tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr><th rowspan="2">Estimate</th><th>Net resources authorised for current purposes</th><th>Net resources authorised for capital purposes</th><th>Net Cash Requirement</th></tr>
+<tr><th>(£)</th><th>(£)</th><th>(£)</th></tr>
+</thead>
+<tbody>
+<tr><th colspan="4">Department for Environment, Food and Rural Affairs</th></tr>
+<tr><td>Departmental Expenditure Limit</td><td>4,790,070,000</td><td>2,823,109,000</td><td></td></tr>
+<tr><td>Annually Managed Expenditure</td><td>2,665,085,000</td><td>110,355,000</td><td></td></tr>
+<tr><td>Non-budget Expenditure</td><td>10,000,000</td><td></td><td></td></tr>
+<tr><td>Net Cash Requirement</td><td></td><td></td><td>7,991,237,000</td></tr>
+<tr><td>Total</td><td>7,465,155,000</td><td>2,933,464,000</td><td>7,991,237,000</td></tr>
+<tr><td colspan="4"><b>Departmental Expenditure Limit</b><br>- Expenditure arising from:<br><br> Expenditure by Natural England and the Environment Agency. Represent forestry interests, encourage good forestry practice, sustainable forest management and conduct forest research. International policy, research, standard-setting and monitoring to support sustainable forestry. Land grants, countryside access and rights of way. Policy on commons, national parks and town and village greens. Environmental protection and conservation, maintain air and ozone quality, increase UK's environmental decontamination capabilities, deliver social, environmental and economic programmes; Maintain water quality and a resilient supply, support for management of inland waterways and obligations under the Water Act 2003 and Water Act 2014. Support terrestrial, marine, waterway environments and protection of water bodies. Fair charges for supply of water and provision of sewerage services to customers.<br><br> Support protection of species, wildlife management, habitat protection and conservation. Support national and global biodiversity, geodiversity and research. Support for rural and regional development.<br><br> Better waste management. Promotion and support for sustainable development, consumption and production. Supporting development of farming and cost-sharing initiatives, payments, losses and penalties relating to the administration of European Union (EU) schemes including disallowance.<br><br> Compensation payments to producers and support for agriculture. Championing hygienic production, marketing, delivery and processing in the agriculture, fisheries and food industries. Support bee and fish conservation and health, UK's responsibilities under the Convention on International Trade in Endangered Species (CITES) and fishing industry. Support keeping, movement tracing, trade with Northern Ireland, the EU and Internationally, health and welfare of animals, animal products and by-products, and marketing. Support a sustainable, secure and healthy food supply; food labelling and composition policy.<br><br> Flood risk management and development implications, land drainage and sewerage. Exotic and endemic animal and plant disease policy portfolio and eradication. Regulatory systems for chemicals, veterinary medicines and pesticides. Radioactive waste management, justifying authority for new nuclear power, pollution emergency response services, emergency response/contingency services, noise mapping and manage other environmental risks. Consultation on town, urban and country developments. Climate modelling, risk assessment and adaptation.<br><br> Costs associated with ongoing repatriation of functions and funds following exit from the EU and ongoing responses to the Covid-19 pandemic. Specialist support services; legacy and residual delivery body costs; subsidies to support delivery bodies; staff management and development; other departmental administration and non-cash costs; publicity, promotion; awareness and publications; knowledge-sharing initiatives; research and development; surveys; monitoring; statistics; advice and consultancies; funding through Area-Based Grants; subscriptions and contributions to international organisations; international policy-making; working with the EU; licensing, approvals and certification; inspections; compliance and enforcement in accordance with regulatory requirements. Voted loans in relation to National Museums.<br><br>- Income arising from:<br><br> Devolved administrations, overseas Governments and European Commission; delivery body funding contributions; provision of employee and financial shared services to other public sector bodies; surveys; receipts from sale of carcasses and vaccines; income from licensing; regulatory income; approvals; investments; interest gained; donations and bequests; commercial activities; certification; publications; public inquiries; information; inspections; registrations; supervision and extensification; administration of grant; waste disposal; recovery of costs incurred for Covid-19 waste water testing; capital loan schemes; commissioned surveys; research; studies and provision of advice; rental income and repayments; income from sale of electricity generated on Defra group sites; occupancy charge; administrative training and professional services; pension and redundancy contributions and knowledge-sharing initiatives. <b>Annually Managed Expenditure</b><br>- Expenditure arising from:<br><br> Levy collection; publicity, promotion, awareness and publications; research and development; market and supply chain analysis and support; packaging recovery support; licensing, approvals and certification. Specialist support services; staff management and development; delivery body funding contributions; surveys; monitoring; statistics; advice and consultancies; provision for future liabilities; bad debts; depreciation; revaluations and impairment losses; legacy and residual delivery body costs. Promotion of affordable insurance in relation to flood risk. Non-cash financing charges relating to reservoir operating agreement financial liabilities. <b>Non-Budget Expenditure</b><br>- Expenditure arising from:<br><br> Payments to devolved administrations.<br><br>- Income arising from:<br><br> Funding contributions to support delivery bodies.</td></tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr><th rowspan="2">Estimate</th><th>Net resources authorised for current purposes</th><th>Net resources authorised for capital purposes</th><th>Net Cash Requirement</th></tr>
+<tr><th>(£)</th><th>(£)</th><th>(£)</th></tr>
+</thead>
+<tbody>
+<tr><th colspan="4">Department for Business and Trade</th></tr>
+<tr><td>Departmental Expenditure Limit</td><td>1,605,278,000</td><td>1,053,891,000</td><td></td></tr>
+<tr><td>Annually Managed Expenditure</td><td>97,223,000</td><td>1,707,150,000</td><td></td></tr>
+<tr><td>Non-budget Expenditure</td><td>0</td><td></td><td></td></tr>
+<tr><td>Net Cash Requirement</td><td></td><td></td><td>4,292,494,000</td></tr>
+<tr><td>Total</td><td>1,702,501,000</td><td>2,761,041,000</td><td>4,292,494,000</td></tr>
+<tr><td colspan="4"><b>Departmental Expenditure Limit</b><br>- Expenditure arising from:<br><br> Trade development and promotion, outward and inward investment, the formulation and implementation of trade policy and remedies, contribution to the cross government GREAT campaign, Support Trade Remedies Authority as an arm's length body; including grants, associated capital and other related expenditure and non-cash items, developing trade relationships and supporting supply chain management and resilience, and commencing, pursuing and defending UK trade disputes and UK's present and future relationship with the World Trade Organization (WTO).<br><br> Administration of the Department for Business and Trade, including continued administration of ex-Department for International Trade, and associated offices; publicity, promotion and publications; communications; purchase, acquisition, hire, lease and rent of land, buildings, plant, equipment, machinery, vehicles and capital assets; digital and IT; special payments, and domestic legal proceedings.<br><br> Funding to provide compensation to Group Litigation Order (GLO) claimants who have suffered detriment arising from the errors in the Post Office Horizon IT system or the other matters identified in the relevant High Court judgments.<br><br> The promotion of enterprise, innovation and increased productivity delivered through international trade and investment, regional investment and delivering regulatory reform, and measures to combat international bribery and corruption.<br><br> The provision of support for business, including support for specific industries, small and medium businesses, regional programmes, programmes to promote research and development, innovation and standards, best practice and sustainable development.<br><br> The provision of financial solutions to accelerate private sector investment and address market failures through the British Business Bank, and other similar intervention mechanisms.<br><br> The promotion of strong, fair and competitive markets at home and abroad; measures to protect investors and consumers including from unsafe products and unfair practices; support for employment relations programmes and measures to promote a skilled and flexible labour market.<br><br> The efficient management and discharge of specific costs falling to the Department and its partner organisations relating to outstanding personal injury claims against Thomas Cook.<br><br> The management of the Government's shareholder interest in the portfolio of commercial businesses wholly or partly owned by Government; providing financial assistance to public corporations, and trading funds.<br><br> The management of miscellaneous programmes including payments in respect of claims for the restitution of the property of victims of Nazi persecution.<br><br> The payment of subscriptions and contributions to international organisations and fulfilment of international treaty obligations.<br><br> Increasing science and research excellence in the United Kingdom and maximising its contribution to society.<br><br> Making payments to local authorities in respect of Local Area Agreements and New Burdens responsibilities.<br><br> Activities of UK Government Investments on behalf of the Department.<br><br> Inspections and compliance in accordance with EU regulatory requirements and recovery of expenditure through cost sharing arrangements.<br><br> Expenditure arising from the UK's departure from the European Union. Governmental response to the coronavirus Covid-19 pandemic and Inquiry. Grants to local authorities.<br><br> Funding organisations supporting departmental objectives, including the department's executive agencies and arm's length bodies and their subsidiaries.<br><br> Developing, implementing and enforcing trade sanctions.<br><br> Regulating military and other sensitive exports such as dual-use items done through a licensing system, ensuring UK exports are consistent with our national and international obligations and standards.<br><br>- Income arising from:<br><br> The sale of goods and services relating to trade development and promotion, outward and inward investment, the formulation and implementation of trade policy, contribution to the cross government GREAT campaign; including sponsorship; asset sales; insurance claims; recovery of costs incurred on behalf of others; recovery of overpayment; capital grant in kind, income from grant programmes.<br><br> Receipts from other Government Departments and devolved administrations; the Advisory, Conciliation and Arbitration Service; the Insolvency Service.<br><br> General administration receipts of the Department, its executive agencies, its arm's length bodies, and other partner organisations, including: the recovery of salaries and associated costs for seconded staff; sale of goods and services.<br><br> Activities of UK Government Investments on behalf of the Department.<br><br> Proceeds of Crime income generated in criminal enforcement.<br><br> Receipts from statutory regulators in respect of expenses related to levies from industry.<br><br> Receipts from licences and levies; Launch Investment receipts; Capital Venture Funds receipts; premium income and other receipts from Financial Guarantee schemes, and of dividends; equity withdrawals; interest on loans and loan repayments from the Land Registry. Income from investments; receipts from financial investments made by the British Business Bank; repayment of loans and investments; repayment of capital grants; repayments of grants and contributions; receipts from asset sales.<br><br> Receipts and profit from the sale of surplus land, buildings and equipment; rental income and repayments including from three domestic properties on the estate of the European School of Culture at Culham, Oxfordshire and from the National Physical Laboratory.<br><br> Receipts associated with the closure of partner organisations.<br><br> Income relating to legal services and legal proceedings, consultancy, publications, public enquiries, information, central services; occupancy charge; administrative and professional services; EU receipts; refund of input VAT not claimed in previous years on departmental expenditure; interest payments; non-cash income.<br><br> Contributions from other organisations to cover the cost of activities they have agreed to fund in total or in part.<br><br> Receipts from other Government Departments and devolved administrations; the Advisory, Conciliation and Arbitration Service and the Insolvency Service.<br><br> General administration receipts of the Department, its executive agencies, its arm's length bodies, and other partner organisations, including: the recovery of salaries and associated costs for seconded staff; sale of goods and services.<br><br> Activities of UK Government Investments on behalf of the Department.<br><br> Proceeds of Crime income generated in criminal enforcement. <b>Annually Managed Expenditure</b><br>- Expenditure arising from:<br><br> Depreciation, impairments, amortisation, revaluation, provisions, bad debts and other non-cash items.<br><br> Departmental administration; financial guarantee schemes; regional investment and programmes; enterprise for small and medium firms; provision of support for business, including support for specific industries; miscellaneous programmes.<br><br> The management of asset sales.<br><br> Payment of corporation tax.<br><br> The provision of repayable credit facilities for Post Office Ltd; contributions to partner organisations' pension schemes; and the provision of parental leave schemes.<br><br> Activities of UK Government Investments on behalf of the Department.<br><br> Impairment of loans and investments; Exchange rate gains and losses.<br><br> The Redundancy Payments Service.<br><br>- Income arising from:<br><br> Receipts from asset sales.<br><br> Refund of input VAT not claimed in previous years on departmental expenditure; interest payments; repayments of grants and contributions; non-cash income.<br><br> Activities of UK Government Investments on behalf of the Department.<br><br> Receipt of interest on loans and loan repayments from Post Office Ltd.<br><br> Dividends from shares held by Postal Services Holding Ltd in Royal Mail.</td></tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr><th rowspan="2">Estimate</th><th>Net resources authorised for current purposes</th><th>Net resources authorised for capital purposes</th><th>Net Cash Requirement</th></tr>
+<tr><th>(£)</th><th>(£)</th><th>(£)</th></tr>
+</thead>
+<tbody>
+<tr><th colspan="4">HM Land Registry</th></tr>
+<tr><td>Departmental Expenditure Limit</td><td>424,270,000</td><td>60,200,000</td><td></td></tr>
+<tr><td>Annually Managed Expenditure</td><td>19,000,000</td><td>0</td><td></td></tr>
+<tr><td>Non-budget Expenditure</td><td>0</td><td></td><td></td></tr>
+<tr><td>Net Cash Requirement</td><td></td><td></td><td>484,470,000</td></tr>
+<tr><td>Total</td><td>443,270,000</td><td>60,200,000</td><td>484,470,000</td></tr>
+<tr><td colspan="4"><b>Departmental Expenditure Limit</b><br>- Expenditure arising from:<br><br> Support and operational costs, transformation, technology, equipment, other payments, associated depreciation and any other non-cash costs falling in DEL. Governmental response to the Covid-19 pandemic. The disposal, sale or donation of capital assets.<br><br>- Income arising from:<br><br> The disposal, sale or donation of capital assets. Cost recoveries. Interest receivable. Receipt of VAT refunds. <b>Annually Managed Expenditure</b><br>- Expenditure arising from:<br><br> Provisions and other non-cash items. Governmental response to the Covid-19 pandemic.</td></tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr><th rowspan="2">Estimate</th><th>Net resources authorised for current purposes</th><th>Net resources authorised for capital purposes</th><th>Net Cash Requirement</th></tr>
+<tr><th>(£)</th><th>(£)</th><th>(£)</th></tr>
+</thead>
+<tbody>
+<tr><th colspan="4">Department for Work and Pensions</th></tr>
+<tr><td>Departmental Expenditure Limit</td><td>8,766,394,000</td><td>747,395,000</td><td></td></tr>
+<tr><td>Annually Managed Expenditure</td><td>130,590,997,000</td><td>333,030,000</td><td></td></tr>
+<tr><td>Non-budget Expenditure</td><td>4,733,219,000</td><td></td><td></td></tr>
+<tr><td>Net Cash Requirement</td><td></td><td></td><td>145,288,956,000</td></tr>
+<tr><td>Total</td><td>144,090,610,000</td><td>1,080,425,000</td><td>145,288,956,000</td></tr>
+<tr><td colspan="4"><b>Departmental Expenditure Limit</b><br>- Expenditure arising from:<br><br> Payments relating to the administration and operating costs of the Department to enable the Department to fulfil its obligations to all its client groups as well as supporting the Governmental response to the ongoing and longer-term impacts of the increased costs of living.<br><br> Expenditure promoting the Department's aims and objectives in other organisations including Government Departments, Local Authorities, Devolved Administrations and Crown and Executive Non-Departmental Public Bodies, including the Health and Safety Executive, Remploy Pension Scheme Trustees Ltd, the Money and Pensions Service including the provision of money and debt advice and the Department's pensions and advisory arm's length bodies and private, public and voluntary organisations.<br><br> Administrative costs associated with the Department's contribution to cross-government programmes.<br><br> The costs incurred from activity to support the detection and minimisation of fraud and error in the benefit system and the collection of debt arising from overpayments of benefit and on behalf of other public and private sector bodies.<br><br> Costs associated with providing training and employment projects assisted by the European Union (EU) through the European Social Fund and expenditure relating to exiting the EU.<br><br> Information Technology, employee and financial services to other public sector bodies and data technology services. Policy, research, and publicity supporting the Department's activities. The UK's subscription to the International Labour Organisation and international educational programmes.<br><br> Assistance and advice on employment and labour market issues to international organisations and measures and assistance to promote financial and digital inclusion.<br><br> Employment and training programmes. Payment of appropriate grants, loans, compensation, benefits, and allowances.<br><br> Assisting people to make plans for their retirement, including research into pensions, provision of pension guidance, private pension industry regulatory work, programmes, and measures to help improve independence and social inclusion for older people.<br><br> Provision for general levy payments to arm's length bodies.<br><br> Subsidies to housing, billing, levying and local authorities for administration and payment of Housing Benefit and other locally delivered support.<br><br> Depreciation and any other non-cash costs falling in DEL including losses, special payments and write offs.<br><br>- Income arising from:<br><br> The administration of the Department and its Crown and Executive Non-Departmental Public Bodies in delivering their statutory responsibilities, in accordance with the prevailing legislation and regulations.<br><br> This includes receipts from staff, outward secondments, sale of capital assets and non-capital items, the recovery of court costs, services carried out on behalf of public and private sector bodies and members of the public, EU activity, levy funded bodies and other associated income.<br><br> Receipts in respect of recoveries of payments and income from other government departments and devolved administrations in respect of services the Department provides.<br><br> Donations and bequests. <b>Annually Managed Expenditure</b><br>- Expenditure arising from:<br><br> The payment of pensions, social security and other benefits, grants, loans, allowances and payments to people of working age, pensioners, and people with disabilities and their carers, in accordance with the prevailing legislation and regulations, including the Governmental response to the ongoing and longer term impacts of the increased costs of living.<br><br> Costs and payments associated with the collapse of private pension schemes.<br><br> Other losses, special payments and write offs together with provisions and other non-cash costs falling in AME.<br><br>- Income arising from:<br><br> Income arising from interest, receipts in respect of benefits paid in lieu, recoveries of benefit payments and advances. <b>Non-Budget Expenditure</b><br>- Expenditure arising from:<br><br> Payment of the Grant to the Social Fund to fund Regulated, Discretionary and Winter Fuel payments.<br><br> Other relevant non-budget expenditure.</td></tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr><th rowspan="2">Estimate</th><th>Net resources authorised for current purposes</th><th>Net resources authorised for capital purposes</th><th>Net Cash Requirement</th></tr>
+<tr><th>(£)</th><th>(£)</th><th>(£)</th></tr>
+</thead>
+<tbody>
+<tr><th colspan="4">HM Revenue and Customs</th></tr>
+<tr><td>Departmental Expenditure Limit</td><td>6,141,983,000</td><td>627,148,000</td><td></td></tr>
+<tr><td>Annually Managed Expenditure</td><td>14,365,675,000</td><td>109,000</td><td></td></tr>
+<tr><td>Non-budget Expenditure</td><td>0</td><td></td><td></td></tr>
+<tr><td>Net Cash Requirement</td><td></td><td></td><td>20,538,784,000</td></tr>
+<tr><td>Total</td><td>20,507,658,000</td><td>627,257,000</td><td>20,538,784,000</td></tr>
+<tr><td colspan="4"><b>Departmental Expenditure Limit</b><br>- Expenditure arising from:<br><br> Administration in management, collection and payment of a range of taxes, tax credits, benefits, reliefs, refunds, duties, levies, statutory payments, allowances, loans, entitlements, regulatory and verification schemes.<br><br> Delivering policies held by other government departments, assistance to devolved administrations and public bodies.<br><br> Law enforcement, criminal investigation and provision of resources to independent investigatory bodies including the Adjudicator's Office. Payments for the HMRC National Museum and grants to the voluntary and community sector.<br><br> International Tax Cooperation Agreements, customs controls, overseas tax administration, Official Development Assistance and support of projects abroad.<br><br> Providing shared services, Revenue and Customs Digital Technology Services Limited, services provided to third parties and provision of trade information.<br><br> Administration of the National Insurance Funds for Great Britain and Northern Ireland.<br><br> European Union transition and implementation of trade agreements.<br><br> Governmental response to the Covid-19 pandemic.<br><br> Payments to assist with Cost of Living.<br><br> Non-cash items falling in DEL.<br><br> Valuations, administration, setting and maintaining of assessments, advice, property services, payments of Local Authority Rates on behalf of accredited foreign countries and non-cash items incurred by the Valuation Office Agency. All activities, including ensuring that systems are maintained and updated as necessary, to enable the integrity of the lists for current use and preparing for any possible future revaluations and reforms to council tax and non-domestic rate systems.<br><br>- Income arising from:<br><br> Tax reliefs, entitlements, levies, regulatory and verification schemes.<br><br> Recovery of costs associated with debt collection and other law costs, overpayments, insurance and compensation claims, staff costs, apprenticeships funding, valuation and other services, transaction fees and excess cash receipts, and other services.<br><br> Services provided to the Valuation Office Agency, Revenue and Customs Digital Technology Services Limited, other government departments, devolved administrations, other bodies and international parties and providing shared services.<br><br> Charges made for attendance of officers, international commitments, travel expenses, use of cars and rent, and other services.<br><br> Sales of assets, information, publications, statistical services, certificates and other services.<br><br> The Asset Recovery Incentivisation Scheme and other receipts. Recovery of administration costs of the National Insurance Funds, collection of National Insurance contributions.<br><br> Income arising from contributions to programmes conducted on behalf of government.<br><br> Governmental response to the Covid-19 pandemic.<br><br> Recoveries of income from other government departments (including grants).<br><br> Non-cash items falling in DEL.<br><br> Valuations, administration, setting and maintaining of assessments, advice, property services, payments of Local Authority Rates on behalf of accredited foreign countries and non-cash items incurred by the Valuation Office Agency. <b>Annually Managed Expenditure</b><br>- Expenditure arising from:<br><br> Tax credits, benefits, reliefs, refunds, duties, levies, allowances and entitlements.<br><br> Remittance of irrecoverable debts, losses on asset revaluation and exchange rate movements. Incentive payments for filing, transitional payments to charities, provisions movements and payments that add capacity to debt recovery.<br><br> Governmental response to the Covid-19 pandemic.<br><br> Non-cash items falling in AME.<br><br> Payments of Rates on behalf of accredited Commonwealth and foreign countries and certain international organisations and non-cash items.<br><br>- Income arising from:<br><br> Payments of Rates by accredited Commonwealth and foreign countries and certain international organisations, refunds from local authorities.</td></tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr><th rowspan="2">Estimate</th><th>Net resources authorised for current purposes</th><th>Net resources authorised for capital purposes</th><th>Net Cash Requirement</th></tr>
+<tr><th>(£)</th><th>(£)</th><th>(£)</th></tr>
+</thead>
+<tbody>
+<tr><th colspan="4">HM Treasury</th></tr>
+<tr><td>Departmental Expenditure Limit</td><td>351,430,000</td><td>8,092,000</td><td></td></tr>
+<tr><td>Annually Managed Expenditure</td><td>15,919,326,000</td><td>50,077,415,000</td><td></td></tr>
+<tr><td>Non-budget Expenditure</td><td>0</td><td></td><td></td></tr>
+<tr><td>Net Cash Requirement</td><td></td><td></td><td>57,574,861,000</td></tr>
+<tr><td>Total</td><td>16,270,756,000</td><td>50,085,507,000</td><td>57,574,861,000</td></tr>
+<tr><td colspan="4"><b>Departmental Expenditure Limit</b><br>- Expenditure arising from:<br><br> Core Treasury functions covering economic and financial matters, including promoting and supporting the financial services sector, illegal money lending, a financial sanctions regime, consumer credit, legal claims, and the provision of guarantees. Assistance and compensation to institutions, businesses, and individuals. The purchase of investments, honours and dignities, gilt administration compensation payments and business support measures. The administration costs of the department, depreciation, and other non-cash items.<br><br> Funding for the Department's executive agencies, the UK Debt Management Office (DMO), the National Infrastructure Commission (NIC) and the Government Internal Audit Agency (GIAA). Costs associated with the closure of the Office of Tax Simplification.<br><br> Spending on Treasury related bodies including the Office for Budget Responsibility (OBR), the UK Infrastructure Bank (UKIB), IUK Investments Limited, IUK Investments Holdings Limited, HMT UK Sovereign SUKUK plc, the Royal Mint Advisory Committee on the design of Coins, Medals, Seals and Decorations, UK Government Investments Limited (UKGI), UK Asset Resolution Limited (UKAR) and European Bank for Reconstruction and Development (EBRD).<br><br>- Income arising from:<br><br> Assistance to institutions, businesses, and individuals, including fees and charges for the provision of guarantees, loan repayments, loan interest and fees, dividends, the sale of shares and debt royalties, financial regulators, insurance sponsorship and supervision responsibilities.<br><br> Recoveries in respect of Honours and Dignities and the administration of the Treasury, including rent from tenants and recharges for work and training, work of the Government Finance Function and Government Economic and Social Research Team, the sale of assets and redundant capital items.<br><br> The administration of Pool Re and other related bodies.<br><br> DMO, GIAA, NIC and UKGI for services provided to other government departments and organisations. <b>Annually Managed Expenditure</b><br>- Expenditure arising from:<br><br> Spending by HM Treasury on costs related to investment in, and financial assistance to, financial institutions and non-financial organisations, businesses, and individuals. Includes credit easing, provision of guarantees, loans, compensation, warranties and indemnities and Infrastructure finance. Movements in the value of the Bank of England Asset Purchase Facility Fund (APF) derivative and payments to the APF.<br><br> The production costs of UK coinage, including manufacture, purchase of metal, storage, and distribution.<br><br> Help to Buy ISA. Administration of the Equitable Life Payments Scheme and the creation and use of provisions. The Royal Household, UKAR, Help to Buy (HMT) Limited, Reclaim Fund Ltd (RFL), Pool Reinsurance Company Ltd (Pool Re) and the UKIB. Costs associated with the UK exiting the European Union (EU) as per the Withdrawal Agreement.<br><br>- Income arising from:<br><br> Transactions with financial institutions and public and private organisations, businesses and individuals including interest, fees and charges, dividends, loan repayments, sale of shares and other assets. The Mortgage Guarantee Scheme (MGS).<br><br> The EU as agreed in the Withdrawal Agreement. Repayment of the UK's paid in capital from the European Investment Bank (EIB).</td></tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr><th rowspan="2">Estimate</th><th>Net resources authorised for current purposes</th><th>Net resources authorised for capital purposes</th><th>Net Cash Requirement</th></tr>
+<tr><th>(£)</th><th>(£)</th><th>(£)</th></tr>
+</thead>
+<tbody>
+<tr><th colspan="4">Cabinet Office</th></tr>
+<tr><td>Departmental Expenditure Limit</td><td>949,832,000</td><td>365,836,000</td><td></td></tr>
+<tr><td>Annually Managed Expenditure</td><td>270,468,000</td><td>0</td><td></td></tr>
+<tr><td>Non-budget Expenditure</td><td>0</td><td></td><td></td></tr>
+<tr><td>Net Cash Requirement</td><td></td><td></td><td>1,477,078,000</td></tr>
+<tr><td>Total</td><td>1,220,300,000</td><td>365,836,000</td><td>1,477,078,000</td></tr>
+<tr><td colspan="4"><b>Departmental Expenditure Limit</b><br>- Expenditure arising from:<br><br> Administration and operation of the department in connection with the following functions:<br><br> Seize the opportunities of Brexit, through creating the world's most effective border to increase UK prosperity and enhance security. Secure a safe, prosperous and resilient UK by coordinating national security and crisis response, realising strategic advantage through science and technology, and the implementation of the Integrated Review. Advance equality of opportunity across the UK. Increase the efficiency, effectiveness and accountability of government through modernising and reforming the work of the Government Functions. Support the design and implementation of the Government's and Prime Minister's priorities.<br><br> Activities of the Government Property Agency, Civil Service Commission, Registrar of Consultant Lobbyists and Commission for Equality and Human Rights.<br><br> Governance of the Principal Civil Service Pension Scheme and the Royal Mail Statutory Pension Scheme.<br><br> Expertise in infrastructure financing, delivery and assurance of major projects to support more effective management and delivery across government.<br><br> Payments of grant and grant-in-aid to organisations promoting Cabinet Office objectives, supporting not-for-profit bodies associated with the public service, payments to and relating to former Prime Ministers and Deputy Prime Ministers, reimbursement of Lord Lieutenants' expenses, expenses in connection with honours, losses and special payments.<br><br> Underwriting of the Official Receiver, appointed as Liquidator, services provided to other government departments and apprenticeship training for staff.<br><br> Payment of recovered fraud into the Consolidated Fund, disbursement of fraud recovery and the Asset Recovery Incentivisation Scheme (ARIS) payments to government departments and public bodies, return of seized funds and assets, fraud debt management, expenditure consequential to action by Cabinet Office against fraud occurring in any government department and public body.<br><br> Expenditure on non-current assets, depreciation, impairments, notional audit fee, doubtful debts, bad debt write-offs and associated non-cash items in DEL.<br><br>- Income arising from:<br><br> Royalties, dividends, interest receivable, income from the European Union (EU), rental income, sales of goods and services, rebates from suppliers, refunds, cost recoveries, training courses, expert and transactional services carried out on behalf of other public sector bodies, shared services income, cost sharing arrangements, contributions to programmes conducted on behalf of government, sale of contractual rights, framework establishment and management fee income, recoverable management costs of the Principal Civil Service Pension Scheme and income from employers participating in the Principal Civil Service Pension Scheme to cover administration of the scheme, secondment and loan receipts, receipts from staff, repayment of grants and subsidies, income from services provided to other government departments, notional grant income relating to apprenticeship training for staff, repayment of loan principal and related interest, sale or use of rights and assets, capital grant income, capital grant-in-kind income on receipt of donated assets, capital receipts and income on disposal of donated assets.<br><br> Recovery of fraudulently obtained funds and assets through use of civil recovery and criminal powers, participation in the Asset Recovery Incentivisation Scheme (ARIS), fraud debt management, interest on seized funds.<br><br> Activities of the Government Property Agency, Registrar of Consultant Lobbyists and Commission for Equality and Human Rights. <b>Annually Managed Expenditure</b><br>- Expenditure arising from:<br><br> Provisions for early departures, dilapidations, onerous contracts, revaluation of assets, expected credit losses, and depreciation on donated assets, impairments and associated non-cash items in AME.</td></tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr><th rowspan="2">Estimate</th><th>Net resources authorised for current purposes</th><th>Net resources authorised for capital purposes</th><th>Net Cash Requirement</th></tr>
+<tr><th>(£)</th><th>(£)</th><th>(£)</th></tr>
+</thead>
+<tbody>
+<tr><th colspan="4">Scotland Office and Office of the Advocate General</th></tr>
+<tr><td>Departmental Expenditure Limit</td><td>13,568,000</td><td>450,000</td><td></td></tr>
+<tr><td>Annually Managed Expenditure</td><td>0</td><td>0</td><td></td></tr>
+<tr><td>Non-budget Expenditure</td><td>45,252,526,000</td><td></td><td></td></tr>
+<tr><td>Net Cash Requirement</td><td></td><td></td><td>45,266,317,000</td></tr>
+<tr><td>Total</td><td>45,266,094,000</td><td>450,000</td><td>45,266,317,000</td></tr>
+<tr><td colspan="4"><b>Departmental Expenditure Limit</b><br>- Expenditure arising from:<br><br> Administration costs in supporting the Secretary of State for Scotland and the Advocate General for Scotland; providing advice on policy and legislation; Boundary Commission for Scotland; capital, and associated non-cash costs.<br><br>- Income arising from:<br><br> Rental income; receipts from legal services provided to other government departments; receipts from other government departments and other miscellaneous receipts. <b>Non-Budget Expenditure</b><br>- Expenditure arising from:<br><br> Payments to the Scottish Consolidated Fund.</td></tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr><th rowspan="2">Estimate</th><th>Net resources authorised for current purposes</th><th>Net resources authorised for capital purposes</th><th>Net Cash Requirement</th></tr>
+<tr><th>(£)</th><th>(£)</th><th>(£)</th></tr>
+</thead>
+<tbody>
+<tr><th colspan="4">Wales Office</th></tr>
+<tr><td>Departmental Expenditure Limit</td><td>5,778,000</td><td>30,000</td><td></td></tr>
+<tr><td>Annually Managed Expenditure</td><td>0</td><td>0</td><td></td></tr>
+<tr><td>Non-budget Expenditure</td><td>21,424,831,000</td><td></td><td></td></tr>
+<tr><td>Net Cash Requirement</td><td></td><td></td><td>21,430,502,000</td></tr>
+<tr><td>Total</td><td>21,430,609,000</td><td>30,000</td><td>21,430,502,000</td></tr>
+<tr><td colspan="4"><b>Departmental Expenditure Limit</b><br>- Expenditure arising from:<br><br> Administration costs for the Wales Office; Lord Lieutenants' expenditure; capital, and associated non-cash costs; other non-cash costs. <b>Non-Budget Expenditure</b><br>- Expenditure arising from:<br><br> Payments of a grant to the Welsh Consolidated Fund.</td></tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr><th rowspan="2">Estimate</th><th>Net resources authorised for current purposes</th><th>Net resources authorised for capital purposes</th><th>Net Cash Requirement</th></tr>
+<tr><th>(£)</th><th>(£)</th><th>(£)</th></tr>
+</thead>
+<tbody>
+<tr><th colspan="4">Northern Ireland Office</th></tr>
+<tr><td>Departmental Expenditure Limit</td><td>41,449,000</td><td>3,305,000</td><td></td></tr>
+<tr><td>Annually Managed Expenditure</td><td>1,000</td><td>0</td><td></td></tr>
+<tr><td>Non-budget Expenditure</td><td>22,359,952,000</td><td></td><td></td></tr>
+<tr><td>Net Cash Requirement</td><td></td><td></td><td>22,715,671,000</td></tr>
+<tr><td>Total</td><td>22,401,402,000</td><td>3,305,000</td><td>22,715,671,000</td></tr>
+<tr><td colspan="4"><b>Departmental Expenditure Limit</b><br>- Expenditure arising from:<br><br> Overseeing the effective operation of the devolution settlement in Northern Ireland and representing the interests of Northern Ireland within the UK Government. Expenditure on administrative services, Head of State related costs, VIP visits to Northern Ireland, Northern Ireland Human Rights Commission and Commissions or Reviews arising from the Belfast/Good Friday Agreement, the Northern Ireland Act 1998, the Northern Ireland Act 2000, the Northern Ireland Act 2009, political development and inquiries, the Electoral Office for Northern Ireland, elections and boundary reviews, legal services, security, victims of the Troubles including the work of the Independent Commission for the Location of Victims' Remains, Parades Commission for Northern Ireland, Civil Service Commissioners for Northern Ireland, the Independent Reporting Commission, compensation schemes under the Justice and Security (Northern Ireland) Act 2007 and Terrorism Act 2000 and certain other grants. Expenditure arising from the Stormont House Agreement, the Fresh Start Agreement, New Decade New Approach and New Deal for Northern Ireland. Expenditure on arrangements for the running of Hillsborough Castle. This will include associated depreciation and any other non-cash costs falling in DEL.<br><br>- Income arising from:<br><br> Recoupment of electoral expenses, receipts from the use of video conferencing facilities, fees and costs recovered or received for work done for other departments, freedom of information receipts, data protection act receipts, recovery of compensation paid, recoupment of grant funding, costs and fees awarded in favour of the Crown. Fees and costs recovered or received for the use of the NIO estate.<br><br> Contributions from third parties to fund grant programmes and monies from other departments to fund projects in Northern Ireland. <b>Annually Managed Expenditure</b><br>- Expenditure arising from:<br><br> Provisions. <b>Non-Budget Expenditure</b><br>- Expenditure arising from:<br><br> Providing appropriate funding to the Northern Ireland Consolidated Fund for the delivery of transferred public services as defined by the Northern Ireland Act 1998, Northern Ireland Act 2000 and the Northern Ireland Act 2009. Grants to the Northern Ireland Consolidated Fund and transfers of EU funds.</td></tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr><th rowspan="2">Estimate</th><th>Net resources authorised for current purposes</th><th>Net resources authorised for capital purposes</th><th>Net Cash Requirement</th></tr>
+<tr><th>(£)</th><th>(£)</th><th>(£)</th></tr>
+</thead>
+<tbody>
+<tr><th colspan="4">National Savings and Investments</th></tr>
+<tr><td>Departmental Expenditure Limit</td><td>250,753,000</td><td>9,460,000</td><td></td></tr>
+<tr><td>Annually Managed Expenditure</td><td>700,000</td><td>0</td><td></td></tr>
+<tr><td>Non-budget Expenditure</td><td>0</td><td></td><td></td></tr>
+<tr><td>Net Cash Requirement</td><td></td><td></td><td>259,917,000</td></tr>
+<tr><td>Total</td><td>251,453,000</td><td>9,460,000</td><td>259,917,000</td></tr>
+<tr><td colspan="4"><b>Departmental Expenditure Limit</b><br>- Expenditure arising from:<br><br> Cost of delivery of National Savings and Investments operations, and leveraged activities with other bodies including administration, operational research and development works, transformation activity, other payments and non-cash items. Other payments including payments in respect of recovered losses, and expenditure on capital items.<br><br>- Income arising from:<br><br> The leveraging of National Savings and Investments core infrastructure and capabilities and associated contracts including rent receipts and other receipts such as loss recovery payments. The sale of assets resulting in some capital income being used as sale proceeds. <b>Annually Managed Expenditure</b><br>- Expenditure arising from:<br><br> Non-cash movements in provisions including changes to fair value of National Savings and Investments' properties.</td></tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr><th rowspan="2">Estimate</th><th>Net resources authorised for current purposes</th><th>Net resources authorised for capital purposes</th><th>Net Cash Requirement</th></tr>
+<tr><th>(£)</th><th>(£)</th><th>(£)</th></tr>
+</thead>
+<tbody>
+<tr><th colspan="4">Charity Commission</th></tr>
+<tr><td>Departmental Expenditure Limit</td><td>31,304,000</td><td>3,000,000</td><td></td></tr>
+<tr><td>Annually Managed Expenditure</td><td>0</td><td>0</td><td></td></tr>
+<tr><td>Non-budget Expenditure</td><td>0</td><td></td><td></td></tr>
+<tr><td>Net Cash Requirement</td><td></td><td></td><td>31,987,000</td></tr>
+<tr><td>Total</td><td>31,304,000</td><td>3,000,000</td><td>31,987,000</td></tr>
+<tr><td colspan="4"><b>Departmental Expenditure Limit</b><br>- Expenditure arising from:<br><br> Revenue and Capital expenditure in relation to the registration and regulation of charities. Expenditure in connection with depreciation and other non-cash items in DEL.<br><br>- Income arising from:<br><br> Providing services, in both the UK and abroad, relating to our knowledge and expertise in the field of registration and regulation of charities. Shared working approaches with other Government Departments.</td></tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr><th rowspan="2">Estimate</th><th>Net resources authorised for current purposes</th><th>Net resources authorised for capital purposes</th><th>Net Cash Requirement</th></tr>
+<tr><th>(£)</th><th>(£)</th><th>(£)</th></tr>
+</thead>
+<tbody>
+<tr><th colspan="4">Competition and Markets Authority</th></tr>
+<tr><td>Departmental Expenditure Limit</td><td>136,662,000</td><td>7,993,000</td><td></td></tr>
+<tr><td>Annually Managed Expenditure</td><td>15,000,000</td><td>1,000,000</td><td></td></tr>
+<tr><td>Non-budget Expenditure</td><td>0</td><td></td><td></td></tr>
+<tr><td>Net Cash Requirement</td><td></td><td></td><td>136,242,000</td></tr>
+<tr><td>Total</td><td>151,662,000</td><td>8,993,000</td><td>136,242,000</td></tr>
+<tr><td colspan="4"><b>Departmental Expenditure Limit</b><br>- Expenditure arising from:<br><br> Advancing and safeguarding the economic interests of UK consumers, businesses and the economy; enforcing competition and consumer law, including payment for information; analysing and monitoring markets; merger control; advocacy; information, education and advice; costs in respect of reactive and proactive litigation; providing expert, independent, trusted advice and economic analysis to support the four nations to trade effectively within the UK Internal Market; providing advice to public authorities and report on the effective operation of the subsidy control regime; operationalising and preparing for the new regulatory regime to implement and enforce a new pro-competition regime for digital markets; administrative and operational costs, associated depreciation and any other non-cash items falling in DEL. Supporting the Government's Places for Growth programme by increasing presence in Edinburgh, Belfast and Cardiff, and establishing new offices in Manchester and Darlington.<br><br>- Income arising from:<br><br> Recovery of legal costs; contributions from other departments towards the costs of market studies; payments from the Home Office under the asset recovery incentivisation scheme; fine income permitted for offset against litigation spend; payments for information and publications; income from office space rental and other property related income, including compensation from the landlord; fees for common services provided to other organisations; recoveries of salaries of staff on loan or seconded to outside bodies; sale of plant and machinery; recoveries in connection with private telephone calls, postal and bank charges. <b>Annually Managed Expenditure</b><br>- Expenditure arising from:<br><br> Provisions and other non-cash costs.</td></tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr><th rowspan="2">Estimate</th><th>Net resources authorised for current purposes</th><th>Net resources authorised for capital purposes</th><th>Net Cash Requirement</th></tr>
+<tr><th>(£)</th><th>(£)</th><th>(£)</th></tr>
+</thead>
+<tbody>
+<tr><th colspan="4">The Statistics Board</th></tr>
+<tr><td>Departmental Expenditure Limit</td><td>348,452,000</td><td>23,827,000</td><td></td></tr>
+<tr><td>Annually Managed Expenditure</td><td>-2,000,000</td><td>0</td><td></td></tr>
+<tr><td>Non-budget Expenditure</td><td>0</td><td></td><td></td></tr>
+<tr><td>Net Cash Requirement</td><td></td><td></td><td>353,762,000</td></tr>
+<tr><td>Total</td><td>346,452,000</td><td>23,827,000</td><td>353,762,000</td></tr>
+<tr><td colspan="4"><b>Departmental Expenditure Limit</b><br>- Expenditure arising from:<br><br> The collection, preparation and dissemination of economic, social, labour market and other statistics; undertaking and commissioning statistical research, and assisting statistical research by providing access to data; promoting and safeguarding the quality of official statistics, monitoring the production and publication of official statistics; conducting a programme of assessment of existing and candidate National Statistics against the Code of Practice for Official Statistics; providing analysis of statistics to enhance understanding; coordinating the design, collection, preparation, supply, quality management of the UK's European statistics, provision of business support and IT services and associated non-cash items.<br><br> Undertaking of various roles in an international context.<br><br>- Income arising from:<br><br> Provision of social surveys and the provision of other services (statistical and corporate); provision of statistical related IT platforms to other public sector organisations; recovery costs of shared projects; sales of statistical data supply services, analyses and publications; research grants or funding for Statistical Research; receipts from EU and other overseas contracts; rental income; recovery of Apprenticeship Levy; the provision of business support services and through the sale of fixed assets. <b>Annually Managed Expenditure</b><br>- Expenditure arising from:<br><br> Creation of provision in respect of onerous contracts; early departure costs; and other provisions and associated non-cash items.</td></tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr><th rowspan="2">Estimate</th><th>Net resources authorised for current purposes</th><th>Net resources authorised for capital purposes</th><th>Net Cash Requirement</th></tr>
+<tr><th>(£)</th><th>(£)</th><th>(£)</th></tr>
+</thead>
+<tbody>
+<tr><th colspan="4">Office for Standards in Education, Children's Services and Skills</th></tr>
+<tr><td>Departmental Expenditure Limit</td><td>155,778,000</td><td>4,200,000</td><td></td></tr>
+<tr><td>Annually Managed Expenditure</td><td>-18,000</td><td>0</td><td></td></tr>
+<tr><td>Non-budget Expenditure</td><td>0</td><td></td><td></td></tr>
+<tr><td>Net Cash Requirement</td><td></td><td></td><td>153,879,000</td></tr>
+<tr><td>Total</td><td>155,760,000</td><td>4,200,000</td><td>153,879,000</td></tr>
+<tr><td colspan="4"><b>Departmental Expenditure Limit</b><br>- Expenditure arising from:<br><br> Promoting improvement in the quality of education, skills, care, and support for children and young people through independent inspection, regulation and reporting. Sharing research findings and good practice through mechanisms including publications, seminars, conferences and collaboration with and support to other regulators.<br><br> Governmental emergency responses including (but not limited to) advice and support, and the deployment or secondment of staff to and from Ofsted in support of the response.<br><br> This includes related administrative and operational costs, capital expenditure, and associated depreciation and other non-cash costs falling within DEL.<br><br>- Income arising from:<br><br> The registration of childcare providers, inspection for the care and support of children and young people, some maintained schools, independent schools and further education colleges, publicly funded adult education and training and accreditation of online education providers.<br><br> Transactions with departmental and other government bodies: receipts for inspection and other related activity undertaken on behalf of other Government departments, and overseas government bodies (where clearance has been provided by the relevant UK Government department).<br><br> Miscellaneous asset sales and recovery of costs, property charges made to minor occupiers, and receipts for goods and services provided by Ofsted. <b>Annually Managed Expenditure</b><br>- Expenditure arising from:<br><br> Provisions and other non-cash items in AME.</td></tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr><th rowspan="2">Estimate</th><th>Net resources authorised for current purposes</th><th>Net resources authorised for capital purposes</th><th>Net Cash Requirement</th></tr>
+<tr><th>(£)</th><th>(£)</th><th>(£)</th></tr>
+</thead>
+<tbody>
+<tr><th colspan="4">Office of Qualifications and Examinations Regulation</th></tr>
+<tr><td>Departmental Expenditure Limit</td><td>29,822,000</td><td>637,000</td><td></td></tr>
+<tr><td>Annually Managed Expenditure</td><td>0</td><td>0</td><td></td></tr>
+<tr><td>Non-budget Expenditure</td><td>0</td><td></td><td></td></tr>
+<tr><td>Net Cash Requirement</td><td></td><td></td><td>29,751,000</td></tr>
+<tr><td>Total</td><td>29,822,000</td><td>637,000</td><td>29,751,000</td></tr>
+<tr><td colspan="4"><b>Departmental Expenditure Limit</b><br>- Expenditure arising from:<br><br> The regulation of the validity of general, vocational and other qualifications throughout their lifecycle; promoting public confidence in regulated qualifications; continuing delivery of vocational and technical education reforms; monitoring and evaluating reformed qualifications; and evaluating the validity of National Assessments.<br><br> Conducting relevant investigation, research and analysis, and undertaking engagement and consultation with stakeholders to provide assurance that regulated qualifications are fit-for-purpose and support good educational and training outcomes.<br><br> Exploring, investigating and acknowledging opportunities for innovation, including the use of artificial intelligence to improve the quality of marking in high-stakes qualifications.<br><br> Developing the skills and capabilities of our people, and developing and investing in our digital systems to secure efficiency and value for money.<br><br>- Income arising from:<br><br> The Department for Education to support ongoing reform programmes, and, where required, to enable Ofqual to take on new reform programmes as they arise.<br><br> The recovery of costs associated with the monetary penalties imposed on awarding organisations for breaches of Ofqual's regulations.<br><br> The recovery of costs associated with the provision of data and analysis to regulatory counterparts and to other Government departments; for provision of support relating to IT/digital development, including developments to the register of qualifications; and income from the disposal of hardware as part of ongoing IT refresh. Receipts relating to the recovery of salaries and associated costs for seconded staff.<br><br> Receipts relating to the recovery of building-related costs.</td></tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr><th rowspan="2">Estimate</th><th>Net resources authorised for current purposes</th><th>Net resources authorised for capital purposes</th><th>Net Cash Requirement</th></tr>
+<tr><th>(£)</th><th>(£)</th><th>(£)</th></tr>
+</thead>
+<tbody>
+<tr><th colspan="4">Food Standards Agency</th></tr>
+<tr><td>Departmental Expenditure Limit</td><td>115,569,000</td><td>14,130,000</td><td></td></tr>
+<tr><td>Annually Managed Expenditure</td><td>9,603,000</td><td>0</td><td></td></tr>
+<tr><td>Non-budget Expenditure</td><td>0</td><td></td><td></td></tr>
+<tr><td>Net Cash Requirement</td><td></td><td></td><td>124,347,000</td></tr>
+<tr><td>Total</td><td>125,172,000</td><td>14,130,000</td><td>124,347,000</td></tr>
+<tr><td colspan="4"><b>Departmental Expenditure Limit</b><br>- Expenditure arising from:<br><br> Delivering the FSA's statutory purpose of protecting public health and consumers' wider interests in relation to food. The five-year strategy, published in April 2022, said that the FSA would continue to work to ensure that consumers have food you can trust. By this we mean a food system in which food is safe, food is what it says it is and food is healthier and more sustainable. All of the FSA's work contributes to this strategic mission and vision, and to deliver the above FSA will pursue activities incurring costs associated with: managing research and evidence gathering, food incidents, investigations, prosecutions, combating food fraud and crime, deploying the risk analysis process for food and animal feed safety issues, product authorisations, policy development, enforcement and management of regulated products; inspections, meat hygiene and official controls; controls on primary production; animal health and welfare monitoring, surveillance and enforcement; supporting local authorities and port health authorities to deliver food and/or feed law official controls; support to public analyst laboratories; regulatory reform, developing new regulatory frameworks and reviewing retained European Union (EU) law; international and border activity on official controls; support for trade negotiations, market access and related activities with EU and non-EU countries; engaging internationally to influence key priorities; Windsor Framework activity on food safety and standards; collaboration with or on behalf of UK, international public bodies; Government's wider aims to ensure that food is healthier and more sustainable including working with devolved governments; digital and data services for food businesses, local authorities and consumers; information and communication services to food businesses and consumers; FSA's annual report on food standards; advice and education, marketing and publications; accrediting third party auditors; staff and overhead costs; debt recovery, payments of penalties and interest, funding for depreciation, audit fees and other non-cash items.<br><br>- Income arising from:<br><br> Meat official controls and other official activities, including enforcement and export related activities; wine standards and other food-related activities concerning international market access; risk assessments, evidence and research, testing, sampling, food crime - Proceeds of Crime Act (POCA) activities, receipt of court costs and fees; enforcement and surveillance work for, and recharge of expenditure relating to work done in collaboration with or on behalf of UK, EU and non-EU countries' public bodies; assessments/consultations on radioactive discharges; staff loans and secondments; sub-letting of accommodation and associated services; disposal of fixed assets; and income arising from capital grants in kind. <b>Annually Managed Expenditure</b><br>- Expenditure arising from:<br><br> Creation, adjustment and utilisation of provisions relating to pensions, early exits and retirements, bad debts, onerous leases, personal injury and legal claims; revaluations and write off of bad debts; and other non-cash items.</td></tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr><th rowspan="2">Estimate</th><th>Net resources authorised for current purposes</th><th>Net resources authorised for capital purposes</th><th>Net Cash Requirement</th></tr>
+<tr><th>(£)</th><th>(£)</th><th>(£)</th></tr>
+</thead>
+<tbody>
+<tr><th colspan="4">The National Archives</th></tr>
+<tr><td>Departmental Expenditure Limit</td><td>46,822,000</td><td>4,300,000</td><td></td></tr>
+<tr><td>Annually Managed Expenditure</td><td>0</td><td>0</td><td></td></tr>
+<tr><td>Non-budget Expenditure</td><td>0</td><td></td><td></td></tr>
+<tr><td>Net Cash Requirement</td><td></td><td></td><td>43,801,000</td></tr>
+<tr><td>Total</td><td>46,822,000</td><td>4,300,000</td><td>43,801,000</td></tr>
+<tr><td colspan="4"><b>Departmental Expenditure Limit</b><br>- Expenditure arising from:<br><br> Ensuring the UK public record - past and future - remains authentic, available and accessible to all including; providing leadership and support to the archive sector across England and Wales; leading on policy and best practice in knowledge and information management for the public sector; setting standards and driving forward the public sector information re-use agenda; official publishing services for the whole of government including publishing all UK legislation and making it accessible online; managing Crown and Parliamentary copyright; administration of The National Archives and other non-cash items.<br><br>- Income arising from:<br><br> Sale of copies of documents; sale of publications and other items and services; professional fees; fees receivable from service providers; sale of non-current assets; grants received to carry out specific projects; reproduction fees and royalties for the publication of images; Crown copyright fees and royalties; fees for the management of third parties' copyright; fees for the management of the Office of the King's Printer for Scotland; income from contractual arrangements for official publishing and partnerships to make historical records electronically accessible; sales and recovery of costs for goods/services provided to other government departments; public bodies and the general public; and donations from the public in support of the work of The National Archives.</td></tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr><th rowspan="2">Estimate</th><th>Net resources authorised for current purposes</th><th>Net resources authorised for capital purposes</th><th>Net Cash Requirement</th></tr>
+<tr><th>(£)</th><th>(£)</th><th>(£)</th></tr>
+</thead>
+<tbody>
+<tr><th colspan="4">United Kingdom Supreme Court</th></tr>
+<tr><td>Departmental Expenditure Limit</td><td>4,773,000</td><td>3,254,000</td><td></td></tr>
+<tr><td>Annually Managed Expenditure</td><td>1,000,000</td><td>0</td><td></td></tr>
+<tr><td>Non-budget Expenditure</td><td>0</td><td></td><td></td></tr>
+<tr><td>Net Cash Requirement</td><td></td><td></td><td>6,577,000</td></tr>
+<tr><td>Total</td><td>5,773,000</td><td>3,254,000</td><td>6,577,000</td></tr>
+<tr><td colspan="4"><b>Departmental Expenditure Limit</b><br>- Expenditure arising from:<br><br> Operation of the UK Supreme Court (UKSC), Judicial Committee of the Privy Council (JCPC). Education and outreach activities of the UKSC, JCPC and the United Kingdom's legal and constitutional system, costs associated with Wider Market Initiatives, cost of running selection commissions for the appointment of the Justices and maintenance of links with apex courts in other countries. The modernisation of the UKSC and JCPC systems and processes to improve court users' experience, increase transparency and public trust and bolster the UKSC's reputation as a world leading Court.<br><br>- Income arising from:<br><br> Court fees and receipts, contributions from the devolved government and court services in England and Wales, Scotland, and Northern Ireland, to contribute to the cost of the administration of justice in the UK Supreme Court and Judicial Committee of the Privy Council, receipts of VAT refunds on contracted out services and receipts from Wider Market Initiatives, recovery of staff costs for staff on loan or seconded to outside bodies, payments for information and publications, postal and bank charge recoveries, receipts from shop sales, and any other miscellaneous income. <b>Annually Managed Expenditure</b><br>- Expenditure arising from:<br><br> Diminution in value of assets.</td></tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr><th rowspan="2">Estimate</th><th>Net resources authorised for current purposes</th><th>Net resources authorised for capital purposes</th><th>Net Cash Requirement</th></tr>
+<tr><th>(£)</th><th>(£)</th><th>(£)</th></tr>
+</thead>
+<tbody>
+<tr><th colspan="4">Government Actuary's Department</th></tr>
+<tr><td>Departmental Expenditure Limit</td><td>235,000</td><td>9,850,000</td><td></td></tr>
+<tr><td>Annually Managed Expenditure</td><td>30,000</td><td>370,000</td><td></td></tr>
+<tr><td>Non-budget Expenditure</td><td>0</td><td></td><td></td></tr>
+<tr><td>Net Cash Requirement</td><td></td><td></td><td>8,503,000</td></tr>
+<tr><td>Total</td><td>265,000</td><td>10,220,000</td><td>8,503,000</td></tr>
+<tr><td colspan="4"><b>Departmental Expenditure Limit</b><br>- Expenditure arising from:<br><br> Administration costs incurred in providing actuarial and specialist analysis, advice and assurance to Government and other clients, principally in the public sector, and associated non-cash items.<br><br>- Income arising from:<br><br> Receipts for providing actuarial and specialist analysis, advice and assurance in a range of areas, including employer-sponsored pension arrangements and other employee benefits, social insurance, health care financing arrangements, risk management and strategic investment, asset/liability considerations, pension and insurance regulation etc. as well as accommodation and facilities management services. <b>Annually Managed Expenditure</b><br>- Expenditure arising from:<br><br> The setting up and use of provisions and other associated non-cash items.</td></tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr><th rowspan="2">Estimate</th><th>Net resources authorised for current purposes</th><th>Net resources authorised for capital purposes</th><th>Net Cash Requirement</th></tr>
+<tr><th>(£)</th><th>(£)</th><th>(£)</th></tr>
+</thead>
+<tbody>
+<tr><th colspan="4">Office of Gas and Electricity Markets</th></tr>
+<tr><td>Departmental Expenditure Limit</td><td>24,123,000</td><td>2,500,000</td><td></td></tr>
+<tr><td>Annually Managed Expenditure</td><td>0</td><td>0</td><td></td></tr>
+<tr><td>Non-budget Expenditure</td><td>0</td><td></td><td></td></tr>
+<tr><td>Net Cash Requirement</td><td></td><td></td><td>41,857,000</td></tr>
+<tr><td>Total</td><td>24,123,000</td><td>2,500,000</td><td>41,857,000</td></tr>
+<tr><td colspan="4"><b>Departmental Expenditure Limit</b><br>- Expenditure arising from:<br><br> Administrative and operational costs; development and administration of licensed regimes and industry processes; payments to other government departments; co-operation with international regulators; services to other government and energy related organisations; administration and payments made under the Green Gas Support Scheme; administration of energy efficiency, offshore transmission and other environmental schemes; regulation of and participation in the Smart Meter programme; payments in relation to legal costs arising from regulatory duties; adjustments to provisions; depreciation and other non-cash items in DEL. Notional expenditure relating to the Supplier of Last Resort (SoLR) levy.<br><br>- Income arising from:<br><br> Gas and electricity licence fees; receipts in respect of the administration of the Offshore Tender regime; income from fees and charges levied under the Gas Act 1986 and the Electricity Act 1989, as amended by the Utilities Act 2000; income from fees and charges levied under the Green Gas Support Scheme; bank interest, receipts in respect of letting, disposal, vacation or occupation of accommodation; income from services to other government and energy related organisations; bank interest and other cost recovery receipts. Notional income relating to the Supplier of Last Resort (SoLR) levy.</td></tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr><th rowspan="2">Estimate</th><th>Net resources authorised for current purposes</th><th>Net resources authorised for capital purposes</th><th>Net Cash Requirement</th></tr>
+<tr><th>(£)</th><th>(£)</th><th>(£)</th></tr>
+</thead>
+<tbody>
+<tr><th colspan="4">Office of Rail and Road</th></tr>
+<tr><td>Departmental Expenditure Limit</td><td>1,000</td><td>720,000</td><td></td></tr>
+<tr><td>Annually Managed Expenditure</td><td>0</td><td>0</td><td></td></tr>
+<tr><td>Non-budget Expenditure</td><td>0</td><td></td><td></td></tr>
+<tr><td>Net Cash Requirement</td><td></td><td></td><td>2,000,000</td></tr>
+<tr><td>Total</td><td>1,000</td><td>720,000</td><td>2,000,000</td></tr>
+<tr><td colspan="4"><b>Departmental Expenditure Limit</b><br>- Expenditure arising from:<br><br> Administration of ORR, its support establishments, all associates of non-cash items and all activities as the combined economic and safety regulator including health and safety matters, the regulation of access to railways, the regulation of HS1 stations, the promotion of rail services, efficiencies and economy for those providing railway services, protecting the interests of railway services and railway users, payment of the apprenticeship levy, sponsorship of the Rail Ombudsman and providing advice on the future funding framework for Transport for London.<br><br> All activities as highways monitor with responsibility for monitoring and enforcing the performance and efficiency of National Highways' delivery of the government's roads investment strategy and its management and operation of the strategic road network. Support for activities as highways monitor.<br><br> Acting as the appeal body, controlling the network statement, monitoring the competitive situation of rail services, and overseeing the efficient management and fair and non-discriminatory use of rail infrastructure for Northern Ireland and for the infrastructure manager of Core Valley's Lines.<br><br>- Income arising from:<br><br> Regulatory licences, concession agreements, levies, subscription fees, charges for courses and officers loaned to other organisations, income from High Speed 1 Limited; Channel Tunnel Intergovernmental Commission; Channel Tunnel Authority; NIR Networks Limited, Amey Keolis Infrastructure/Selwaith Amey Keolis Limited, Transport for Wales, and government grants.<br><br> Income from recovery actions in connection with the successful legal cases. Charges for rental, administrative and other services, and other activities to other government departments, executive and non-executive non-departmental public bodies. Overhead recharges. Grant funding from the Department for Transport in respect of the monitoring and enforcing the performance of National Highways including its delivery of the government's road investment strategy and its management and operation of the strategic road network, and for providing advice on the future funding framework for Transport for London.</td></tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr><th rowspan="2">Estimate</th><th>Net resources authorised for current purposes</th><th>Net resources authorised for capital purposes</th><th>Net Cash Requirement</th></tr>
+<tr><th>(£)</th><th>(£)</th><th>(£)</th></tr>
+</thead>
+<tbody>
+<tr><th colspan="4">Water Services Regulation Authority</th></tr>
+<tr><td>Departmental Expenditure Limit</td><td>160,000</td><td>860,000</td><td></td></tr>
+<tr><td>Annually Managed Expenditure</td><td>0</td><td>0</td><td></td></tr>
+<tr><td>Non-budget Expenditure</td><td>0</td><td></td><td></td></tr>
+<tr><td>Net Cash Requirement</td><td></td><td></td><td>11,020,000</td></tr>
+<tr><td>Total</td><td>160,000</td><td>860,000</td><td>11,020,000</td></tr>
+<tr><td colspan="4"><b>Departmental Expenditure Limit</b><br>- Expenditure arising from:<br><br> Regulation of, and the application of competition law to, the water and sewerage industry in England and Wales. Administration and operation costs of the department, including depreciation, pension payments, provisions and other non-cash items. Payments in relation to legal costs arising from carrying out legal functions including regulatory and/or competition functions.<br><br>- Income arising from:<br><br> Regulatory licence fees and otherwise recovering Ofwat's costs and expenses associated with the regulation of, and being a competition authority in relation to, the water and sewerage industry in England and Wales.<br><br> Contributions towards former Director Generals' pension payments.<br><br> Recovery in respect of administration and operation costs of the department, including salary recovery for staff on loan or seconded, contributions relating to participants' share of collaborative projects, sale of fixed assets and any other miscellaneous cost recovery receipts.</td></tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr><th rowspan="2">Estimate</th><th>Net resources authorised for current purposes</th><th>Net resources authorised for capital purposes</th><th>Net Cash Requirement</th></tr>
+<tr><th>(£)</th><th>(£)</th><th>(£)</th></tr>
+</thead>
+<tbody>
+<tr><th colspan="4">Export Credits Guarantee Department</th></tr>
+<tr><td>Departmental Expenditure Limit</td><td>1,000</td><td>3,540,000</td><td></td></tr>
+<tr><td>Annually Managed Expenditure</td><td>1,633,343,000</td><td>2,035,967,000</td><td></td></tr>
+<tr><td>Non-budget Expenditure</td><td>0</td><td></td><td></td></tr>
+<tr><td>Net Cash Requirement</td><td></td><td></td><td>2,672,890,000</td></tr>
+<tr><td>Total</td><td>1,633,344,000</td><td>2,039,507,000</td><td>2,672,890,000</td></tr>
+<tr><td colspan="4"><b>Departmental Expenditure Limit</b><br>- Expenditure arising from:<br><br> The running of ECGD's operational activity (operating costs of the Department), including Governmental response to the coronavirus Covid-19 pandemic.<br><br>- Income arising from:<br><br> Some underwriting activity, notional income in respect of the Apprenticeship Levy and sponsorship income raised to defray specific marketing costs. <b>Annually Managed Expenditure</b><br>- Expenditure arising from:<br><br> Arrangements made by ECGD for supporting or developing UK exports, for insuring UK investments overseas and for transaction and portfolio management, and expenditure arising from the creation and increase in provisions related to ECGD's operational activities.<br><br>- Income arising from:<br><br> Arrangements made by ECGD for supporting or developing UK exports, for insuring UK investments overseas for transaction and portfolio management, and income arising from the release of and decrease in provisions related to ECGD's operational activities.</td></tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr><th rowspan="2">Estimate</th><th>Net resources authorised for current purposes</th><th>Net resources authorised for capital purposes</th><th>Net Cash Requirement</th></tr>
+<tr><th>(£)</th><th>(£)</th><th>(£)</th></tr>
+</thead>
+<tbody>
+<tr><th colspan="4">Office of the Parliamentary Commissioner for Administration and the Health Service Commissioner for England</th></tr>
+<tr><td>Departmental Expenditure Limit</td><td>41,620,000</td><td>11,748,000</td><td></td></tr>
+<tr><td>Annually Managed Expenditure</td><td>783,000</td><td>380,000</td><td></td></tr>
+<tr><td>Non-budget Expenditure</td><td>0</td><td></td><td></td></tr>
+<tr><td>Net Cash Requirement</td><td></td><td></td><td>42,665,000</td></tr>
+<tr><td>Total</td><td>42,403,000</td><td>12,128,000</td><td>42,665,000</td></tr>
+<tr><td colspan="4"><b>Departmental Expenditure Limit</b><br>- Expenditure arising from:<br><br> Operational and administration costs, capital expenditure, and associated depreciation and other non- cash costs falling in DEL.<br><br>- Income arising from:<br><br> Monies received from the recovery of costs or miscellaneous income not classified elsewhere. <b>Annually Managed Expenditure</b><br>- Expenditure arising from:<br><br> Use of provisions, including provisions for onerous leases, early departure, legal costs and dilapidations.</td></tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr><th rowspan="2">Estimate</th><th>Net resources authorised for current purposes</th><th>Net resources authorised for capital purposes</th><th>Net Cash Requirement</th></tr>
+<tr><th>(£)</th><th>(£)</th><th>(£)</th></tr>
+</thead>
+<tbody>
+<tr><th colspan="4">House of Lords</th></tr>
+<tr><td>Departmental Expenditure Limit</td><td>165,775,000</td><td>36,471,000</td><td></td></tr>
+<tr><td>Annually Managed Expenditure</td><td>1,000</td><td>0</td><td></td></tr>
+<tr><td>Non-budget Expenditure</td><td>0</td><td></td><td></td></tr>
+<tr><td>Net Cash Requirement</td><td></td><td></td><td>184,517,000</td></tr>
+<tr><td>Total</td><td>165,776,000</td><td>36,471,000</td><td>184,517,000</td></tr>
+<tr><td colspan="4"><b>Departmental Expenditure Limit</b><br>- Expenditure arising from:<br><br> Members' expenses and allowances; administrative and accommodation costs, including staff salaries and pensions; security; stationery; printing; financial assistance to opposition parties; grants and grants-in-aid to Parliamentary bodies and organisations who promote the House of Lords' objectives; and associated depreciation and any other non-cash costs falling in DEL.<br><br>- Income arising from:<br><br> Catering and retail sales; rental income; reproductions of works of art; pension scheme related income; fees; income from the sale of assets; other charges and receipts in connection with parliamentary activities. <b>Annually Managed Expenditure</b><br>- Expenditure arising from:<br><br> Pensions; administrative and accommodation costs; and provisions and other non-cash costs falling in AME.</td></tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr><th rowspan="2">Estimate</th><th>Net resources authorised for current purposes</th><th>Net resources authorised for capital purposes</th><th>Net Cash Requirement</th></tr>
+<tr><th>(£)</th><th>(£)</th><th>(£)</th></tr>
+</thead>
+<tbody>
+<tr><th colspan="4">House of Commons: Members</th></tr>
+<tr><td>Departmental Expenditure Limit</td><td>19,351,000</td><td>0</td><td></td></tr>
+<tr><td>Annually Managed Expenditure</td><td>0</td><td>0</td><td></td></tr>
+<tr><td>Non-budget Expenditure</td><td>0</td><td></td><td></td></tr>
+<tr><td>Net Cash Requirement</td><td></td><td></td><td>19,330,000</td></tr>
+<tr><td>Total</td><td>19,351,000</td><td>0</td><td>19,330,000</td></tr>
+<tr><td colspan="4"><b>Departmental Expenditure Limit</b><br>- Expenditure arising from:<br><br> The House of Commons Members' Estimate is to cover expenditure arising from: financial assistance to Opposition parties to support them in the discharge of their Parliamentary or representative functions; the Exchequer contribution to the Parliamentary Contributory Pension Fund (PCPF); payroll costs of Members appointed to specific parliamentary duties, and other non-cash costs.</td></tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr><th rowspan="2">Estimate</th><th>Net resources authorised for current purposes</th><th>Net resources authorised for capital purposes</th><th>Net Cash Requirement</th></tr>
+<tr><th>(£)</th><th>(£)</th><th>(£)</th></tr>
+</thead>
+<tbody>
+<tr><th colspan="4">Crown Estate Office</th></tr>
+<tr><td>Departmental Expenditure Limit</td><td>0</td><td>0</td><td></td></tr>
+<tr><td>Annually Managed Expenditure</td><td>2,366,000</td><td>0</td><td></td></tr>
+<tr><td>Non-budget Expenditure</td><td>0</td><td></td><td></td></tr>
+<tr><td>Net Cash Requirement</td><td></td><td></td><td>2,357,000</td></tr>
+<tr><td>Total</td><td>2,366,000</td><td>0</td><td>2,357,000</td></tr>
+<tr><td colspan="4"><b>Annually Managed Expenditure</b><br>- Expenditure arising from:<br><br> A contribution to the salary and administrative costs of the Crown Estate Commissioners and associated non-cash items.</td></tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr><th rowspan="2">Estimate</th><th>Net resources authorised for current purposes</th><th>Net resources authorised for capital purposes</th><th>Net Cash Requirement</th></tr>
+<tr><th>(£)</th><th>(£)</th><th>(£)</th></tr>
+</thead>
+<tbody>
+<tr><th colspan="4">Armed Forces Pension and Compensation Schemes</th></tr>
+<tr><td>Departmental Expenditure Limit</td><td>0</td><td>0</td><td></td></tr>
+<tr><td>Annually Managed Expenditure</td><td>5,077,658,000</td><td>0</td><td></td></tr>
+<tr><td>Non-budget Expenditure</td><td>0</td><td></td><td></td></tr>
+<tr><td>Net Cash Requirement</td><td></td><td></td><td>2,021,967,000</td></tr>
+<tr><td>Total</td><td>5,077,658,000</td><td>0</td><td>2,021,967,000</td></tr>
+<tr><td colspan="4"><b>Annually Managed Expenditure</b><br>- Expenditure arising from:<br><br> Payment of pensions, lump sum benefits, transfers out and associated non-cash items to persons covered by the scheme. Provision is also made for payment of those benefits outside the scheme: Short Service Gratuities, Resettlement Grants and Criminal Injuries Compensation Overseas.<br><br>- Income arising from:<br><br> MOD employer contributions (Superannuation Contributions Adjusted for Past Experience), Transfers In from other schemes and purchases of added years.</td></tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr><th rowspan="2">Estimate</th><th>Net resources authorised for current purposes</th><th>Net resources authorised for capital purposes</th><th>Net Cash Requirement</th></tr>
+<tr><th>(£)</th><th>(£)</th><th>(£)</th></tr>
+</thead>
+<tbody>
+<tr><th colspan="4">Foreign, Commonwealth and Development Office: Overseas Superannuation</th></tr>
+<tr><td>Departmental Expenditure Limit</td><td>0</td><td>0</td><td></td></tr>
+<tr><td>Annually Managed Expenditure</td><td>26,000,000</td><td>0</td><td></td></tr>
+<tr><td>Non-budget Expenditure</td><td>0</td><td></td><td></td></tr>
+<tr><td>Net Cash Requirement</td><td></td><td></td><td>42,000,000</td></tr>
+<tr><td>Total</td><td>26,000,000</td><td>0</td><td>42,000,000</td></tr>
+<tr><td colspan="4"><b>Annually Managed Expenditure</b><br>- Expenditure arising from:<br><br> Pension and superannuation payments, grants and compensation payments, etc. in respect of overseas services; pensions for beneficiaries of certain former overseas pension funds for which the UK assumed responsibility; pensions for beneficiaries and former beneficiaries of the Gibraltar Social Insurance Fund; contributions to pension funds guaranteed by the UK; refund of contributions made by overseas governments; war service credit; and associated non-cash items such as adjustments to pension scheme liabilities like interest on outstanding scheme liabilities.</td></tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr><th rowspan="2">Estimate</th><th>Net resources authorised for current purposes</th><th>Net resources authorised for capital purposes</th><th>Net Cash Requirement</th></tr>
+<tr><th>(£)</th><th>(£)</th><th>(£)</th></tr>
+</thead>
+<tbody>
+<tr><th colspan="4">National Health Service Pension Scheme</th></tr>
+<tr><td>Departmental Expenditure Limit</td><td>0</td><td>0</td><td></td></tr>
+<tr><td>Annually Managed Expenditure</td><td>17,964,134,000</td><td>0</td><td></td></tr>
+<tr><td>Non-budget Expenditure</td><td>0</td><td></td><td></td></tr>
+<tr><td>Net Cash Requirement</td><td></td><td></td><td>-4,073,888,000</td></tr>
+<tr><td>Total</td><td>17,964,134,000</td><td>0</td><td>-4,073,888,000</td></tr>
+<tr><td colspan="4"><b>Annually Managed Expenditure</b><br>- Expenditure arising from:<br><br> Pensions, allowances, gratuities, transfers to alternative pension arrangements, refunds of contributions, compensation for early retirement, to or in respect of persons engaged in health services or in other approved employment and other cash and non-cash items.<br><br>- Income arising from:<br><br> Pension contributions, inward transfer values, employer contributions relating to the Compensation for Premature Retirement Scheme, cost of scheme administration levy, from or in respect of persons engaged in health services or in other approved employment.</td></tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr><th rowspan="2">Estimate</th><th>Net resources authorised for current purposes</th><th>Net resources authorised for capital purposes</th><th>Net Cash Requirement</th></tr>
+<tr><th>(£)</th><th>(£)</th><th>(£)</th></tr>
+</thead>
+<tbody>
+<tr><th colspan="4">Teachers' Pension Scheme (England and Wales)</th></tr>
+<tr><td>Departmental Expenditure Limit</td><td>0</td><td>0</td><td></td></tr>
+<tr><td>Annually Managed Expenditure</td><td>10,978,953,000</td><td>0</td><td></td></tr>
+<tr><td>Non-budget Expenditure</td><td>0</td><td></td><td></td></tr>
+<tr><td>Net Cash Requirement</td><td></td><td></td><td>2,388,184,000</td></tr>
+<tr><td>Total</td><td>10,978,953,000</td><td>0</td><td>2,388,184,000</td></tr>
+<tr><td colspan="4"><b>Annually Managed Expenditure</b><br>- Expenditure arising from:<br><br> Superannuation allowances and gratuities, and other related expenditure, in respect of teachers and the widows, widowers, children and dependants of deceased teachers, and for premature retirement and compensation payments made to members of the Teachers' Pension Scheme and on behalf of their employers, the cost of paying the Department for Education to administer the scheme; and associated non-cash items.<br><br>- Income arising from:<br><br> Receipts from employers' and employees' superannuation contributions; transfer values received; deductions from returns of contributions towards payment in lieu of graduated national insurance contributions equivalent premiums; recovery of contributions equivalent premiums from the state pension scheme; amounts received from employers of teachers' scheme members in reimbursement of the cost of premature retirement compensation payments on their behalf by Capita; receipt of administration charge from employers for the specific purpose of meeting the costs of administering the scheme.</td></tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr><th rowspan="2">Estimate</th><th>Net resources authorised for current purposes</th><th>Net resources authorised for capital purposes</th><th>Net Cash Requirement</th></tr>
+<tr><th>(£)</th><th>(£)</th><th>(£)</th></tr>
+</thead>
+<tbody>
+<tr><th colspan="4">UK Atomic Energy Authority Pension Schemes</th></tr>
+<tr><td>Departmental Expenditure Limit</td><td>0</td><td>0</td><td></td></tr>
+<tr><td>Annually Managed Expenditure</td><td>246,600,000</td><td>0</td><td></td></tr>
+<tr><td>Non-budget Expenditure</td><td>0</td><td></td><td></td></tr>
+<tr><td>Net Cash Requirement</td><td></td><td></td><td>257,400,000</td></tr>
+<tr><td>Total</td><td>246,600,000</td><td>0</td><td>257,400,000</td></tr>
+<tr><td colspan="4"><b>Annually Managed Expenditure</b><br>- Expenditure arising from:<br><br> Payments of pensions etc. to members of the United Kingdom Atomic Energy Authority pension schemes, related expenditure and non-cash items.<br><br>- Income arising from:<br><br> Receipts of employees' and employers' contributions and inward transfers.</td></tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr><th rowspan="2">Estimate</th><th>Net resources authorised for current purposes</th><th>Net resources authorised for capital purposes</th><th>Net Cash Requirement</th></tr>
+<tr><th>(£)</th><th>(£)</th><th>(£)</th></tr>
+</thead>
+<tbody>
+<tr><th colspan="4">Ministry of Justice: Judicial Pensions Scheme</th></tr>
+<tr><td>Departmental Expenditure Limit</td><td>0</td><td>0</td><td></td></tr>
+<tr><td>Annually Managed Expenditure</td><td>188,935,000</td><td>0</td><td></td></tr>
+<tr><td>Non-budget Expenditure</td><td>0</td><td></td><td></td></tr>
+<tr><td>Net Cash Requirement</td><td></td><td></td><td>-105,576,000</td></tr>
+<tr><td>Total</td><td>188,935,000</td><td>0</td><td>-105,576,000</td></tr>
+<tr><td colspan="4"><b>Annually Managed Expenditure</b><br>- Expenditure arising from:<br><br> Pensions etc, in respect of members of the Judicial Pensions Scheme, and for other related services.<br><br>- Income arising from:<br><br> Accruing Superannuation Liability Charges (ASLCs); and scheme members' pension contributions.</td></tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr><th rowspan="2">Estimate</th><th>Net resources authorised for current purposes</th><th>Net resources authorised for capital purposes</th><th>Net Cash Requirement</th></tr>
+<tr><th>(£)</th><th>(£)</th><th>(£)</th></tr>
+</thead>
+<tbody>
+<tr><th colspan="4">Cabinet Office: Civil Superannuation</th></tr>
+<tr><td>Departmental Expenditure Limit</td><td>0</td><td>0</td><td></td></tr>
+<tr><td>Annually Managed Expenditure</td><td>9,961,000,000</td><td>0</td><td></td></tr>
+<tr><td>Non-budget Expenditure</td><td>0</td><td></td><td></td></tr>
+<tr><td>Net Cash Requirement</td><td></td><td></td><td>1,002,500,000</td></tr>
+<tr><td>Total</td><td>9,961,000,000</td><td>0</td><td>1,002,500,000</td></tr>
+<tr><td colspan="4"><b>Annually Managed Expenditure</b><br>- Expenditure arising from:<br><br> The superannuation of civil servants; pensions etc., and other pensions and non-recurrent payments, for other related services and related non-cash items.<br><br>- Income arising from:<br><br> Charges received from departments and others on account of the cost of pension cover provided for their staff. Periodical contributions for widows', widowers', and dependants' benefits. Other superannuation contributions, transfer values and bulk transfer receipts.</td></tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr><th rowspan="2">Estimate</th><th>Net resources authorised for current purposes</th><th>Net resources authorised for capital purposes</th><th>Net Cash Requirement</th></tr>
+<tr><th>(£)</th><th>(£)</th><th>(£)</th></tr>
+</thead>
+<tbody>
+<tr><th colspan="4">Royal Mail Statutory Pension Scheme</th></tr>
+<tr><td>Departmental Expenditure Limit</td><td>0</td><td>0</td><td></td></tr>
+<tr><td>Annually Managed Expenditure</td><td>1,279,000,000</td><td>0</td><td></td></tr>
+<tr><td>Non-budget Expenditure</td><td>0</td><td></td><td></td></tr>
+<tr><td>Net Cash Requirement</td><td></td><td></td><td>1,692,000,000</td></tr>
+<tr><td>Total</td><td>1,279,000,000</td><td>0</td><td>1,692,000,000</td></tr>
+<tr><td colspan="4"><b>Annually Managed Expenditure</b><br>- Expenditure arising from:<br><br> Payment of pensions etc to members of the Royal Mail Statutory Pension Scheme, related expenditure and non-cash items.</td></tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr><th rowspan="2">Estimate</th><th>Net resources authorised for current purposes</th><th>Net resources authorised for capital purposes</th><th>Net Cash Requirement</th></tr>
+<tr><th>(£)</th><th>(£)</th><th>(£)</th></tr>
+</thead>
+<tbody>
+<tr><th colspan="4">House of Commons: Administration</th></tr>
+<tr><td>Departmental Expenditure Limit equivalent</td><td>401,026,000</td><td>150,892,000</td><td></td></tr>
+<tr><td>Annually Managed Expenditure</td><td>0</td><td>0</td><td></td></tr>
+<tr><td>Non-budget Expenditure</td><td>0</td><td></td><td></td></tr>
+<tr><td>Net Cash Requirement</td><td></td><td></td><td>492,433,000</td></tr>
+<tr><td>Total</td><td>401,026,000</td><td>150,892,000</td><td>492,433,000</td></tr>
+<tr><td colspan="4"><b>Departmental Expenditure Limit equivalent</b><br>- Expenditure arising from:<br><br> General administration of the House of Commons and activities undertaken to meet Parliament's objectives, associated commercial activities; grants to organisations who promote the House of Commons' objectives and other non-cash costs.<br><br>- Income arising from:<br><br> Rental, fees and charges in connection with activities within Parliament.</td></tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr><th rowspan="2">Estimate</th><th>Net resources authorised for current purposes</th><th>Net resources authorised for capital purposes</th><th>Net Cash Requirement</th></tr>
+<tr><th>(£)</th><th>(£)</th><th>(£)</th></tr>
+</thead>
+<tbody>
+<tr><th colspan="4">Parliamentary Works Grant</th></tr>
+<tr><td>Departmental Expenditure Limit equivalent</td><td>85,500,000</td><td>100,000</td><td></td></tr>
+<tr><td>Annually Managed Expenditure</td><td>0</td><td>0</td><td></td></tr>
+<tr><td>Non-budget Expenditure</td><td>0</td><td></td><td></td></tr>
+<tr><td>Net Cash Requirement</td><td></td><td></td><td>85,600,000</td></tr>
+<tr><td>Total</td><td>85,500,000</td><td>100,000</td><td>85,600,000</td></tr>
+<tr><td colspan="4"><b>Departmental Expenditure Limit equivalent</b><br>- Expenditure arising from:<br><br> Paying of a grant to the Delivery Authority to support its activities and operations in delivering the restoration and renewal programme of the Palace of Westminster and related works on behalf of the Houses of Parliament, including all necessary costs incurred and the audit costs associated with both this Estimate and the Delivery Authority.<br><br>- Income arising from:<br><br> Any income arising from the sale of goods and services or the secondment of staff in furthering the delivery of the restoration and renewal programme.</td></tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr><th rowspan="2">Estimate</th><th>Net resources authorised for current purposes</th><th>Net resources authorised for capital purposes</th><th>Net Cash Requirement</th></tr>
+<tr><th>(£)</th><th>(£)</th><th>(£)</th></tr>
+</thead>
+<tbody>
+<tr><th colspan="4">National Audit Office</th></tr>
+<tr><td>Departmental Expenditure Limit equivalent</td><td>91,100,000</td><td>3,700,000</td><td></td></tr>
+<tr><td>Annually Managed Expenditure</td><td>0</td><td>0</td><td></td></tr>
+<tr><td>Non-budget Expenditure</td><td>0</td><td></td><td></td></tr>
+<tr><td>Net Cash Requirement</td><td></td><td></td><td>91,234,000</td></tr>
+<tr><td>Total</td><td>91,100,000</td><td>3,700,000</td><td>91,234,000</td></tr>
+<tr><td colspan="4"><b>Departmental Expenditure Limit equivalent</b><br>- Expenditure arising from:<br><br> Expenditure and associated non-cash items incurred in the provision of independent assurance and information to Parliament on the proper accounting for central government expenditure, revenue, assets and liabilities, including compliance with laws and regulations, and in the economy, efficiency and effectiveness with which central government resources have been used; and the provision of independent assurance and information and advice to a wide range of other public, international, and overseas bodies and to members of the public.<br><br>- Income arising from:<br><br> The provision of audit and assurance services to a range of organisations, including international and overseas bodies, and income from the rental of surplus office space, income arising from the disposal of assets and miscellaneous receipts.</td></tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr><th rowspan="2">Estimate</th><th>Net resources authorised for current purposes</th><th>Net resources authorised for capital purposes</th><th>Net Cash Requirement</th></tr>
+<tr><th>(£)</th><th>(£)</th><th>(£)</th></tr>
+</thead>
+<tbody>
+<tr><th colspan="4">The Electoral Commission</th></tr>
+<tr><td>Departmental Expenditure Limit</td><td>28,755,000</td><td>2,005,000</td><td></td></tr>
+<tr><td>Annually Managed Expenditure</td><td>50,000</td><td>100,000</td><td></td></tr>
+<tr><td>Non-budget Expenditure</td><td>0</td><td></td><td></td></tr>
+<tr><td>Net Cash Requirement</td><td></td><td></td><td>29,133,000</td></tr>
+<tr><td>Total</td><td>28,805,000</td><td>2,105,000</td><td>29,133,000</td></tr>
+<tr><td colspan="4"><b>Departmental Expenditure Limit</b><br>- Expenditure arising from:<br><br> Registration of political parties, recognised third parties and permitted participants; regulation and reporting of the income and expenditure of political parties, candidates, third parties and permitted participants; making grants to eligible parties for policy development; reviewing and advising on the administration and law of elections and encouraging best practice; providing guidance, and reporting, on the conduct of elections and referendums; determining standards of performance for those administering electoral registration, elections and referendums, and collecting information in relation to those standards and to expenditure on elections and campaigning; conducting certain referendums and promoting public awareness of electoral systems.<br><br>- Income arising from:<br><br> Registration and re-registration of political parties; providing guidance, and reporting, on the conduct of elections and referendums; determining standards of performance for those administering electoral registration, elections and referendums, and collecting information in relation to those standards and to expenditure on elections and campaigning; conducting certain referendums and promoting public awareness of electoral systems, including Devolved Administrations; and any other non-cash items. <b>Annually Managed Expenditure</b><br>- Expenditure arising from:<br><br> Provisions, impairments and other non-cash costs arising in AME. Provisions include early departures, obligations under office and other leases, pension and tax and national insurance on benefits in kind.</td></tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr><th rowspan="2">Estimate</th><th>Net resources authorised for current purposes</th><th>Net resources authorised for capital purposes</th><th>Net Cash Requirement</th></tr>
+<tr><th>(£)</th><th>(£)</th><th>(£)</th></tr>
+</thead>
+<tbody>
+<tr><th colspan="4">Independent Parliamentary Standards Authority</th></tr>
+<tr><td>Departmental Expenditure Limit</td><td>250,389,000</td><td>250,000</td><td></td></tr>
+<tr><td>Annually Managed Expenditure</td><td>150,000</td><td>0</td><td></td></tr>
+<tr><td>Non-budget Expenditure</td><td>0</td><td></td><td></td></tr>
+<tr><td>Net Cash Requirement</td><td></td><td></td><td>250,112,000</td></tr>
+<tr><td>Total</td><td>250,539,000</td><td>250,000</td><td>250,112,000</td></tr>
+<tr><td colspan="4"><b>Departmental Expenditure Limit</b><br>- Expenditure arising from:<br><br> Operation and administration of the Independent Parliamentary Standards Authority (IPSA), and all activities connected to its purpose. Determination and operation of a business costs and expenses scheme for Members of Parliament, payment of: the salaries, business costs and expenses of Members of Parliament and their staff. Determination of policy for the administration and salaries and pensions for Members of Parliament. Conducting reviews and investigations carried out under the auspices of the Office of the Compliance Officer. Depreciation and other non-cash costs. The reimbursement of travel and subsistence costs for meeting attendance of IPSA appointed managers of the UK MEP Pension Scheme.<br><br>- Income arising from:<br><br> Funding received from the House to cover the costs of interns employed by some MPs. Miscellaneous repayments made under the MPs' Scheme of Business Costs and Expenses. <b>Annually Managed Expenditure</b><br>- Expenditure arising from:<br><br> Provisions and impairments.</td></tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr><th rowspan="2">Estimate</th><th>Net resources authorised for current purposes</th><th>Net resources authorised for capital purposes</th><th>Net Cash Requirement</th></tr>
+<tr><th>(£)</th><th>(£)</th><th>(£)</th></tr>
+</thead>
+<tbody>
+<tr><th colspan="4">The Local Government Boundary Commission for England</th></tr>
+<tr><td>Departmental Expenditure Limit</td><td>2,633,000</td><td>50,000</td><td></td></tr>
+<tr><td>Annually Managed Expenditure</td><td>10,000</td><td>0</td><td></td></tr>
+<tr><td>Non-budget Expenditure</td><td>0</td><td></td><td></td></tr>
+<tr><td>Net Cash Requirement</td><td></td><td></td><td>2,599,000</td></tr>
+<tr><td>Total</td><td>2,643,000</td><td>50,000</td><td>2,599,000</td></tr>
+<tr><td colspan="4"><b>Departmental Expenditure Limit</b><br>- Expenditure arising from:<br><br> Administration and operational cost and associated non-cash items, planning for and carrying out the functions and duties imposed on it by, or by virtue of, the Local Government and Public Involvement in Health Act 2007, the Local Democracy, Economic Development and Construction Act 2009 and the Greater London Authority Act 1999: these functions and duties include undertaking electoral reviews of local authorities in England and implementing any changes by Order; undertaking reviews of the administrative boundaries of local authorities in England and making recommendations to the Secretary of State for any changes; providing advice, at their request, to the Secretary of State on any proposals they receive from local authorities for a change to unitary status; undertaking reviews of the constituencies of the Greater London Assembly and implementing any changes by Order; altering the boundaries of district council or London borough wards and county council divisions as a consequence of the outcome of community governance reviews conducted by local authorities in England; and making Orders to implement proposals from local authorities wishing to move to elections by thirds or by halves. <b>Annually Managed Expenditure</b><br>- Expenditure arising from:<br><br> Provision.</td></tr>
+</tbody>
+</table>

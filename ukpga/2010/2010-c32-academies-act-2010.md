@@ -1,0 +1,1568 @@
+---
+title: "Academies Act 2010"
+identifier: "ukpga/2010/32"
+citation: "2010 c. 32"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W"
+date: 2010-07-27
+last_amended: 2026-09-01
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/2010/32"
+source_modified: 2026-09-04
+retrieved: 2026-10-11
+---
+
+# Academies Act 2010
+
+**2010 c. 32**
+
+An Act to make provision about Academies.
+
+[27th July 2010]
+
+Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^F1]
+
+## Academy arrangements
+
+### 1 Academy arrangements
+
+(1) The Secretary of State may enter into Academy arrangements with any person (“the other party”).
+
+(2) “Academy arrangements” are arrangements that take the form of—
+
+(a) an Academy agreement, or
+
+(b) arrangements for Academy financial assistance.
+
+(3) An Academy agreement is an agreement between the Secretary of State and the other party under which—
+
+(a) the other party gives the undertakings in subsection (5), and
+
+(b) the Secretary of State agrees to make payments to the other party in consideration of those undertakings.
+
+(4) Academy financial assistance is financial assistance given by the Secretary of State under section 14 of EA 2002 on terms that require the other party to give the undertakings in subsection (5).
+
+[[^F2](5) The undertakings are—
+
+(a) to establish and maintain an educational institution in England which meets the requirements of any of the following—
+
+(i) section 1A (Academy schools);
+
+(ii) section 1B (16 to 19 Academies);
+
+(iii) section 1C (alternative provision Academies);
+
+(b) to carry on, or provide for the carrying on, of the institution.]
+
+[^F3]6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F4]7 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F4]8 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F5]9 Academy arrangements must include terms imposed for the purpose of securing that no charge is made in respect of—
+
+(a) admission to, or attendance at, the [[^F5] institution ], or
+
+(b) (subject to any exceptions specified in the terms) education provided at the [[^F5]institution].
+
+[^F6]10 [[^F6]An educational institution] to which Academy arrangements relate is to be known as an Academy.
+
+### 1A [[^F1]Academy schools
+
+(1) An educational institution meets the requirements of this section if—
+
+(a) it is an independent school,
+
+(b) it has a curriculum satisfying the requirements of section 78 of EA 2002 (balanced and broadly based curriculum),
+
+(c) it provides education for pupils of different abilities,
+
+(d) it provides education for pupils who are wholly or mainly drawn from the area in which it is situated, and
+
+(e) it is not an alternative provision Academy (see section 1C).
+
+(2) An educational institution also meets the requirements of this section if—
+
+(a) it is an independent school, and
+
+(b) it is specially organised to make special educational provision for pupils with special educational needs.
+
+(3) An Academy which meets the requirements of this section is to be known as an Academy school.
+
+### 1B 16 to 19 Academies
+
+(1) An educational institution meets the requirements of this section if it is principally concerned with providing full-time or part-time education suitable to the requirements of persons over compulsory school age but under 19.
+
+(2) “ Education ” includes vocational, social, physical and recreational training.
+
+(3) An Academy which meets the requirements of this section is to be known as a 16 to 19 Academy.
+
+[[^F7](4) A 16 to 19 Academy may provide secure accommodation for its students, but only if it is approved to do so by the Secretary of State.
+
+(5) “Secure accommodation” means accommodation that is provided for the purpose of restricting liberty.
+
+(6) The Secretary of State may grant approval under subsection (4) subject to conditions.
+
+(7) A 16 to 19 Academy which provides secure accommodation for its students is to be known as a secure 16 to 19 Academy.]
+
+### 1C Alternative provision Academies
+
+(1) An educational institution meets the requirements of this section if—
+
+(a) it is principally concerned with providing full-time or part-time education for children of compulsory school age who, by reason of illness, exclusion from school or otherwise, may not otherwise receive suitable education for any period,
+
+(b) it provides education for children of different abilities, and
+
+(c) it provides education for children who are wholly or mainly drawn from the area in which it is situated.
+
+(2) “ Suitable education ”, in relation to a child, means efficient education suitable to the child's age, ability and aptitude and to any special educational needs the child may have.
+
+(3) An Academy which meets the requirements of this section is to be known as an alternative provision Academy.
+
+### 1D Alternative provision Academies: powers to apply provisions with modifications
+
+(1) Regulations may provide for a statutory provision relating to maintained schools or a description of maintained school, or to pupil referral units, to apply in relation to alternative provision Academies, or a description of alternative provision Academy, with or without modifications.
+
+(2) Regulations may provide for a statutory provision relating to Academies, Academy schools or 16 to 19 Academies—
+
+(a) to apply in relation to alternative provision Academies, or a description of alternative provision Academy, with or without modifications;
+
+(b) not to apply in relation to alternative provision Academies or a description of alternative provision Academy.
+
+(3) Regulations may provide for a statutory provision relating to alternative provision Academies or a description of alternative provision Academy—
+
+(a) to apply in relation to a description of alternative provision Academy, with modifications;
+
+(b) not to apply in relation to a description of alternative provision Academy.
+
+(4) “ Statutory provision ” means a provision made by or under this or any other Act, whenever passed or made. ]
+
+### 2 Payments under Academy agreements
+
+(1) Payments under an Academy agreement may be in respect of capital or current expenditure.
+
+(2) So far as payments under an Academy agreement relate to current expenditure, the agreement must provide for them to continue (subject to other requirements of the agreement being fulfilled)—
+
+(a) for at least 7 years, or
+
+(b) indefinitely, but terminable by the Secretary of State giving at least 7 years' written notice.
+
+[[^F8](2A) Subsection (2) applies to an Academy agreement in respect of a secure 16 to 19 Academy as though the references to 7 years were references to 2 years.]
+
+(3) If an Academy agreement makes provision for payments in respect of capital expenditure, the agreement may provide for the repayment to the Secretary of State, in circumstances specified in the agreement, of sums determined in accordance with the agreement.
+
+(4) An Academy agreement may provide for indemnifying a person, in the event of the Secretary of State terminating the agreement, for expenditure—
+
+(a) incurred by the person in carrying out the undertakings under the agreement, or
+
+(b) incurred by the person (otherwise than by virtue of subsection (3)) in consequence of the termination of the agreement.
+
+[^F9]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6) Where a local authority fails to secure satisfactory provision for pupils with low incidence special educational needs or disabilities, the Secretary of State may make alternative arrangements.
+
+## [[^F10]Provision to be included in Academy agreements]
+
+### 2A [[^F11]Academy agreements: provision about failing schools
+
+(1) An Academy agreement in respect of an Academy school or an alternative provision Academy must include provision allowing the Secretary of State to terminate the agreement if—
+
+(a) special measures are required to be taken in relation to the Academy, or
+
+(b) the Academy requires significant improvement.
+
+(2) The Academy agreement must require the Secretary of State, before terminating the agreement on one of those grounds, to give the proprietor an opportunity to make representations.
+
+(3) For the purposes of this section special measures are required to be taken in relation to an Academy, or an Academy requires significant improvement, if the Chief Inspector has given notice under section 13(3)(a) of the Education Act 2005.
+
+### 2B Academy agreements: provision about coasting schools
+
+(1) An Academy agreement in respect of an Academy school or an alternative provision Academy must include provision allowing the Secretary of State to terminate the agreement if—
+
+(a) the Academy is coasting, and
+
+(b) the Secretary of State has notified the proprietor that it is coasting.
+
+(2) The Academy agreement must require the Secretary of State, before terminating the agreement on that ground, to give the proprietor a termination warning notice.
+
+(3) A termination warning notice is a notice requiring the proprietor—
+
+(a) to take specified action to improve the Academy by a specified date, and
+
+(b) to respond to the Secretary of State by making representations, or by agreeing to take that action, by a specified date.
+
+(4) The Academy agreement must provide that the power to terminate the agreement on the ground that the Academy is coasting is available only if the proprietor has failed to comply with a termination warning notice (whether by failing to take specified action, or to respond, on time).
+
+(5) The Secretary of State may by regulations provide that this section does not apply in relation to an Academy of a description specified in the regulations.
+
+(6) “ Coasting ”, in relation to an Academy to which this section applies, has the meaning given by regulations under subsection (3) of section 60B of the Education and Inspections Act 2006 in relation to a school to which that section applies.
+
+### 2C Sections 2A and 2B supplementary - new agreements
+
+(1) An Academy agreement may include further provision about—
+
+(a) the procedure for terminating the agreement in accordance with the provision required by section 2A or 2B;
+
+(b) the consequences of terminating the agreement in accordance with that provision.
+
+(2) This section does not apply to agreements made before [[^F12]18 April 2016] (but see section 2D).
+
+### 2D Sections 2A and 2B: supplementary - old agreements
+
+(1) An old Academy agreement is to be treated as if it included the new termination powers.
+
+(2) A provision of an old Academy agreement that relates to the procedure for terminating the agreement does not apply to the new termination powers.
+
+(3) Subsections (4) and (5) apply where an old Academy agreement—
+
+(a) contains provision about the consequences of terminating the agreement (“relevant provision”), and
+
+(b) the relevant provision is expressed in a way that is capable of covering termination in accordance with the new termination powers.
+
+(4) The relevant provision applies to termination in accordance with the new termination powers.
+
+(5) If the relevant provision sets out different consequences depending on whether the agreement is terminated on the ground that the proprietor has breached the Agreement or on other grounds, termination in accordance with the new termination powers is to be treated as termination on the grounds of breach by the proprietor.
+
+(6) In this section—
+
+- “ new termination powers ”, in relation to an Academy agreement, means the powers to terminate in accordance with the provision required by sections 2A and 2B;
+- “ old Academy agreement ” means an Academy agreement made before [[^F13]18 April 2016]. ]
+
+### 2E [[^F14]Provision about staff member for looked after and previously looked after pupils
+
+(1) An Academy agreement must include provision requiring the proprietor of the Academy—
+
+(a) to designate a member of staff at the Academy (the “designated person”) as having responsibility for promoting the educational achievement of relevant pupils at the Academy,
+
+(b) to ensure that the designated person undertakes appropriate training and has regard to any guidance issued by the Secretary of State, and
+
+(c) in complying with provision included in the agreement by virtue of paragraph (a) or (b), to have regard to any guidance issued by the Secretary of State.
+
+(2) An Academy agreement made before the day on which section 6 of the Children and Social Work Act 2017 (which inserts this section) comes fully into force is to be treated as if it included the provision required by subsection (1).
+
+(3) The Secretary of State may by regulations—
+
+(a) require an Academy agreement to include provision requiring the proprietor of the Academy—
+
+(i) to ensure that a designated person has qualifications or experience (or both) prescribed by the regulations, and
+
+(ii) in complying with provision included in the agreement by virtue of sub-paragraph (i), to have regard to any guidance issued by the Secretary of State;
+
+(b) provide that an Academy agreement made before the day on which the regulations come into force is to be treated as if it included any provision required under paragraph (a).
+
+(4) In this section—
+
+- “pupil”—
+
+  - (a) in relation to an Academy school or an alternative provision Academy, means a registered pupil at the Academy;
+  - (b) in relation to a 16 to 19 Academy, means a person receiving education at the Academy;
+
+- “relevant pupil”, in relation to Academy, means a pupil at the Academy who—
+
+  - (a) is looked after by a local authority,
+  
+  - (b) was looked after by a local authority but has ceased to be so looked after as a result of a relevant order, or
+  
+  - (c) appears to the proprietor of the Academy—
+  
+    - (i) to have been in state care in a place outside England and Wales because he or she would not otherwise have been cared for adequately, and
+    - (ii) to have ceased to be in that state care as a result of being adopted;
+
+- “relevant order” means—
+
+  - (a) a child arrangements order (within the meaning given by section 8(1) of the Children Act 1989) which includes arrangements relating to—
+  
+    - (i) with whom a child is to live, or
+    - (ii) when a child is to live with any person,
+  
+  - (b) a special guardianship order (within the meaning given by section 14A(1) of the Children Act 1989), or
+  
+  - (c) an adoption order (within the meaning given by section 72(1) of the Adoption Act 1976 or section 46(1) of the Adoption and Children Act 2002).
+
+(5) For the purposes of this section a person is “looked after by a local authority” if the person is looked after by a local authority for the purposes of the Children Act 1989 or Part 6 of the Social Services and Well-being (Wales) Act 2014 (anaw 4).
+
+(6) For the purposes of this section a person is in “state care” if he or she is in the care of, or accommodated by—
+
+(a) a public authority,
+
+(b) a religious organisation, or
+
+(c) any other organisation the sole or main purpose of which is to benefit society.
+
+(7) For the purposes of section 569 of EA 1996 (as applied by section 17(4)), regulations under subsection (3)(b) are to be treated as if the statutory instrument containing them fell within subsection (2A) of that section (regulations subject to affirmative procedure).]
+
+## Conversion of schools into Academies
+
+### 3 Application for Academy order
+
+(1) The governing body of a maintained school in England may apply to the Secretary of State for an Academy order to be made in respect of the school.
+
+(2) In the case of a foundation or voluntary school that has a foundation, this is subject to subsections (3) and (4).
+
+(3) The governing body of a foundation or voluntary school that has a foundation must consult the foundation before making an application under this section.
+
+(4) The governing body of a foundation or voluntary school that has a foundation may make an application under this section only with the consent of—
+
+(a) the trustees of the school, and
+
+(b) the person or persons by whom the foundation governors are appointed.
+
+(5) Expressions used in subsections (2) to (4) and SSFA 1998 have the same meaning as in that Act.
+
+[[^F15](6) In the case of a federated school, references in this section to the governing body include references to members of the governing body who—
+
+(a) together make up a proportion of the total number of members that is specified in, or determined in accordance with, regulations, and
+
+(b) consist of or include members of any prescribed description.]
+
+### 4 Academy orders
+
+[^F16]A1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(1) The Secretary of State may make an Academy order in respect of a maintained school in England if—
+
+(a) [[^F17]an application in respect of the school is made] under section 3, or
+
+(b) the school is eligible for intervention (within the meaning of Part 4 of EIA 2006) [^F18]....
+
+[[^F19](1A) Before making an Academy order under subsection (1)(b) in respect of a foundation or voluntary school that has a foundation, the Secretary of State must consult—
+
+(a) the trustees of the school,
+
+(b) the person or persons by whom the foundation governors are appointed, and
+
+(c) in the case of a school which has a religious character, the appropriate religious body.]
+
+(2) An Academy order in respect of a school is an order for the purpose of enabling the school to be converted into an Academy.
+
+(3) A maintained school is “converted into” an Academy if Academy arrangements are entered into in relation to the school or [[^F20]an educational institution] that replaces it.
+
+(4) If an Academy order is made in respect of a school, the Secretary of State must give a copy of the order to—
+
+(a) the governing body and head teacher of the school,[^F21]...
+
+(b) the local authority,[[^F22] and
+
+(c) in the case of a foundation or voluntary school that has a foundation—
+
+(i) the trustees of the school,
+
+(ii) the person or persons by whom the foundation governors are appointed, and
+
+(iii) in the case of a school which has a religious character, the appropriate religious body.]
+
+(5) If, after an application has been made under section 3, the Secretary of State decides not to make an Academy order in respect of a school, the Secretary of State must inform the following of the decision and the reasons for it—
+
+(a) the governing body and head teacher of the school, [^F23]...
+
+(b) the local authority,[[^F24] and
+
+(c) in the case of a foundation or voluntary school that has a foundation—
+
+(i) the trustees of the school,
+
+(ii) the person or persons by whom the foundation governors are appointed, and
+
+(iii) in the case of a school which has a religious character, the appropriate religious body.]
+
+(6) Despite section 568(1) of EA 1996 (orders to be made by statutory instrument) (as applied by section 17(4) of this Act) the power of the Secretary of State to make an Academy order is not required to be exercised by statutory instrument.
+
+(7) An Academy order may include incidental, consequential, supplemental and transitional provision.
+
+[[^F25](8) In this section, “ the appropriate religious body ”, in relation to a school, means—
+
+(a) in the case of a Church of England school or a Roman Catholic school, the appropriate diocesan authority;
+
+(b) in any other case, such body or person representing the specified religion or religious denomination as is prescribed under section 88F(3)(e) of SSFA 1998.
+
+(9) In the case of a school in relation to which there is more than one religion or religious denomination specified, references to “the appropriate religious body” are to be read as references to both or all of the bodies concerned.
+
+(10) In subsections (8) and (9), “ specified ” means specified in the order under section 69(3) of SSFA 1998 relating to the school.
+
+(11) Expressions used in this section and SSFA 1998 have the same meaning as in that Act. ]
+
+### 5 [[^F26]Consultation about conversion: schools not eligible for intervention
+
+(1) Before a maintained school in England is converted into an Academy, the school's governing body must consult such persons as they think appropriate about whether the conversion should take place.
+
+(2) But this section does not apply if an Academy order under [[^F27]section 4(1)(b)] has effect in respect of the school.
+
+(3) Consultation for the purposes of this section may be carried out before or after an Academy order, or an application for an Academy order, has been made in respect of the school.
+
+(4) In the case of a federated school, the reference in subsection (1) to the governing body includes a reference to any members of the governing body.]
+
+### [^F28]5A Consultation about identity of Academy sponsor in certain cases
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 5B [[^F29]Duty to facilitate conversion
+
+(1) Where an Academy order under [[^F30]section 4(1)(b)] has effect in respect of a school, the governing body of the school and the local authority must take all reasonable steps to facilitate the conversion of the school into an Academy.
+
+(2) Where the Secretary of State notifies the governing body or local authority that the Secretary of State is minded to enter into Academy arrangements with a specified person, their duty under subsection (1) includes a duty to take all reasonable steps to facilitate the making of Academy arrangements with that person.]
+
+### 5C [[^F31]Power to give directions to do with conversion
+
+(1) Where an Academy order under [[^F32]section 4(1)(b)] has effect in respect of a school, the Secretary of State may direct the governing body of the school or the local authority to take specified steps for the purpose of facilitating the conversion of the school into an Academy.
+
+(2) A direction may, in particular, require the governing body or local authority to prepare a draft of a scheme under section 8 or Part 1 of Schedule 1.
+
+(3) A direction may specify the period within which any steps must be taken.]
+
+### 5D [[^F33]Power to revoke Academy orders under [[^F34]section 4(1)(b)]
+
+(1) The Secretary of State may by order revoke an Academy order under [[^F35]section 4(1)(b)].
+
+(2) If an Academy order is revoked the Secretary of State must give a copy of the order to everyone to whom a copy of the Academy order was given under section 4(4).
+
+(3) Despite section 568(1) of EA 1996 (orders to be made by statutory instrument) (as applied by section 17(4) of this Act) the power of the Secretary of State to make an order under this section is not required to be exercised by statutory instrument.]
+
+### 5E [[^F36]Duty to communicate information about plans to improve school
+
+(1) Before a maintained school in England which is causing concern is converted into an Academy, the proposed proprietor of the Academy must communicate to the registered parents of registered pupils at the school information about the proposed proprietor's plans to improve the school.
+
+(2) For the purposes of subsection (1)—
+
+(a) the “proposed proprietor of the Academy” is the person with whom the Secretary of State proposes to enter or has entered into Academy arrangements in respect of the school;
+
+(b) a school is “causing concern” if it is eligible for intervention within the meaning of Part 4 of EIA 2006.]
+
+### 6 Effect of Academy order
+
+(1) This section applies if an Academy order has effect in respect of a school.
+
+(2) The local authority must cease to maintain the school on the date (“the conversion date”) on which the school, or [[^F37] an educational institution ] that replaces it, opens as an Academy (“the Academy”).
+
+[[^F38](2A) Subsection (2) does not prohibit the local authority from providing financial or other assistance in respect of the Academy, including by—
+
+(a) making payments in respect of some (but not all) of the expenses of maintaining the Academy,
+
+(b) providing premises, goods or services for the Academy, or
+
+(c) making premises, goods or services available to be used for the purposes of the Academy.]
+
+(3) If the school is a selective school [[^F39] and is to be converted into an Academy school ], [[^F40] section 1A(1)(c) ] (requirement to provide education for pupils of different abilities) does not apply in relation to any Academy arrangements to be entered into in relation to the school or [[^F41]an educational institution] that replaces it.
+
+(4) For this purpose a school is a “selective school” if its admission arrangements make provision for selection of pupils by ability, and—
+
+(a) its admission arrangements are permitted to do so by section 100 of SSFA 1998 (permitted selection: pre-existing arrangements), or
+
+(b) the school is designated under section 104 of SSFA 1998 (designation of grammar schools).
+
+Section 99(5) of SSFA 1998 applies for the purposes of this subsection as it applies for the purposes of Chapter 2 of Part 3 of SSFA 1998.
+
+(5) [[^F42] If the Academy is an Academy school,] the relevant independent school standards are to be treated as met in relation to [[^F43]it] on the conversion date.
+
+(6) “The relevant independent school standards” are the independent school standards (as defined in section 157(2) of EA 2002) that are applicable to the Academy on the conversion date.
+
+(7) Subsection (8) applies if the school—
+
+[[^F44](a)] is a foundation or voluntary school which is designated by order under section 69(3) of SSFA 1998 as a school having a particular religious character [[^F45], and
+
+(b) is to be converted into an Academy school.]
+
+(8) The Academy is to be treated, on the conversion date, as designated by order under section 69(3) of SSFA 1998 as an independent school having that religious character.
+
+(9) Nothing in any of the following provisions applies in a case where a local authority cease to maintain a school as a result of an Academy order—
+
+- section 30 of SSFA 1998 (notice to discontinue school);
+- sections 15 to 17 of EIA 2006 (procedure for discontinuance of schools).
+
+### 7 Transfer of school surpluses
+
+(1) This section applies if—
+
+(a) an Academy order has effect in respect of a school,
+
+(b) the order was made following an application under section 3, and
+
+(c) the school is to be converted into an Academy.
+
+(2) The local authority must determine—
+
+(a) whether, immediately before the conversion date, the school has a surplus, and
+
+(b) if so, the amount of the surplus.
+
+(3) The local authority must pay any amount determined under subsection (2)(b) to the proprietor of the Academy, subject to the provisions of regulations under subsection (4).
+
+(4) Regulations may make provision in connection with the determination and payment of the amount of a surplus under this section.
+
+(5) Regulations under subsection (4) may in particular include provision—
+
+(a) requiring the local authority to inform the proprietor of the determinations under subsection (2);
+
+(b) authorising the proprietor to apply to the Secretary of State for a review of those determinations;
+
+(c) about the procedure for, and the Secretary of State's powers on, any such review;
+
+(d) about the effect of any such review on the amount required to be paid by the local authority to the proprietor (including provision requiring repayment of sums by the proprietor or the payment of additional sums by the local authority);
+
+(e) about the time limits for doing anything required or permitted to be done under this section or the regulations.
+
+(6) For the purposes of this section—
+
+(a) a school has a surplus immediately before the conversion date if, at that time, there is an amount made available [[^F46] in respect of the school ] by a local authority to the school's governing body (under section 50 of SSFA 1998 or otherwise) that has not been spent by the governing body or the head teacher;
+
+(b) the amount of the surplus is that amount.
+
+[[^F47]This subsection is subject to subsection (9).]
+
+(7) For the purposes of subsection (6), the amount which, immediately before the conversion date, has been made available [[^F48]in respect of a school to the school's] governing body must be calculated taking into account any relevant redetermination for the funding period in which the conversion date falls.
+
+(8) In subsection (7)—
+
+- “funding period” has the meaning given by section 45(1B) of SSFA 1998;
+- “relevant redetermination” means a redetermination of the school's budget share which is required in accordance with regulations under section 47 of that Act.
+
+[[^F49](9) If the school is a federated school, the questions of —
+
+(a) whether the school has a surplus, and
+
+(b) if so, the amount of the surplus,
+
+are to be determined in accordance with regulations.]
+
+### 8 [[^F50]Transfer schemes: other property, rights and liabilities]
+
+(1) This section applies if—
+
+(a) an Academy order has effect in respect of a school, and
+
+(b) the school is to be converted into an Academy.
+
+[[^F51](2) The Secretary of State may make a scheme (a “transfer scheme”) in relation to—
+
+(a) property used or held for the purposes of the school by a local authority or the school's governing body, and
+
+(b) rights and liabilities (including rights and liabilities in relation to staff) of the local authority or the governing body which were acquired or incurred for the purposes of the school.]
+
+(3) A [[^F52]transfer scheme] may not make provision in relation to—
+
+(a) land, or rights or liabilities in respect of land (see Schedule 1), or
+
+(b) property or rights to which section 7 applies.
+
+(4) A [[^F52]transfer scheme] may provide for the transfer of property, rights and liabilities to [[^F53]a person concerned with the running of the Academy].
+
+(5) A [[^F52]transfer scheme] may—
+
+(a) create rights, or impose liabilities, in relation to property, rights or liabilities transferred by virtue of the scheme;
+
+(b) provide for anything done by or in relation to the current owner in connection with any property, rights or liabilities transferred by the scheme to be treated as done, or to be continued, by or in relation to the transferee;
+
+(c) apportion property, rights and liabilities;
+
+(d) make provision about the continuation of legal proceedings.
+
+(6) The things that may be transferred by a [[^F52]transfer scheme ] include—
+
+(a) property, rights and liabilities that could not otherwise be transferred;
+
+(b) property acquired, and rights and liabilities arising, after the making of the scheme.
+
+(7) A transfer by virtue of a [[^F52]transfer scheme] does not affect the validity of anything done by or in relation to the current owner before the transfer takes effect.
+
+(8) A [[^F52]transfer scheme] may include incidental, consequential, supplemental and transitional provision.
+
+(9) In this section “ the current owner ” means the person by whom the property is held, or in whom the rights or liabilities are vested, immediately before the transfer to be effected by a [[^F52]transfer scheme] takes effect.
+
+(10) A transfer made by virtue of a [[^F52]transfer scheme] is binding on all persons even if, apart from this subsection, it would have required the consent or concurrence of any person.
+
+## [[^F54]16 to 19 Academies designated as having a religious character
+
+### 8A Designation of 16 to 19 Academy as having a religious character
+
+(1) The Secretary of State may by order designate a 16 to 19 Academy as having a religious character.
+
+(2) The Secretary of State may designate an Academy under this section only if the proprietor of the Academy is a qualifying Academy proprietor within the meaning given by section 12(2).
+
+(3) The order must specify the religion or religious denomination in relation to which the Academy is designated.
+
+(4) The Secretary of State may make regulations about the procedure to be followed in connection with—
+
+(a) the designation of an Academy in an order under this section, and
+
+(b) the inclusion in such an order of the specification required by subsection (3).
+
+(5) Despite section 568(3) of EA 1996 (orders to be made by statutory instrument subject to the negative procedure), as applied by section 17(4) of this Act, a statutory instrument containing an order under this section is not subject to annulment in pursuance of a resolution of either House of Parliament.
+
+### 8B Constitution of Academy proprietor, collective worship and religious education
+
+(1) The articles of association of the proprietor of an Academy designated under section 8A must provide for a majority of the directors of the proprietor to be persons appointed for the purposes of securing, so far as practicable, that—
+
+(a) the character of the designated Academy reflects the tenets of the religion or religious denomination in relation to which the Academy is designated, and
+
+(b) in a case where there is a trust deed affecting the designated Academy, the Academy is conducted in accordance with it.
+
+(2) The proprietor of an Academy designated under section 8A may (accordingly) conduct the Academy in a way that secures that the character of the Academy reflects the tenets of the religion or religious denomination in relation to which the Academy is designated (and, in particular, in a way that is in accordance with any trust deed affecting the Academy).
+
+(3) The proprietor of an Academy designated under section 8A must ensure that at an appropriate time on at least one day in each week during which the Academy is open an act of collective worship is held at the Academy which pupils at the Academy may attend.
+
+(4) The act of collective worship must—
+
+(a) be in such form as to comply with the provisions of any trust deed affecting the Academy, and
+
+(b) reflect the traditions and practices of the religion or religious denomination in relation to which the Academy is designated.
+
+(5) The proprietor of an Academy designated under section 8A must ensure that religious education is provided at the Academy for all pupils who wish to receive it.
+
+(6) The proprietor of an Academy is to be treated as complying with subsection (5) if religious education is provided at a time or times at which it is convenient for the majority of full-time pupils to attend.
+
+(7) For the purposes of this section religious education may take the form of a course of lectures or classes, or of single lectures or classes provided on a regular basis, and may include a course of study leading to an examination or the award of a qualification.
+
+(8) The form and content of religious education provided under this section—
+
+(a) must be in accordance with the provisions of any trust deed affecting the Academy, and
+
+(b) must not be contrary to the traditions of the religion or religious denomination in relation to which the Academy is designated,
+
+but is otherwise to be determined from time to time by the proprietor of the Academy.
+
+(9) Notwithstanding section 17(4), in this section—
+
+(a) “pupil” means a person receiving education at the 16 to 19 Academy;
+
+(b) “trust deed” includes any instrument (other than the articles or memorandum of association) regulating the constitution of the proprietor of the Academy or the maintenance, management or conduct of the Academy.]
+
+## Academies: other provisions
+
+### 9 [[^F55]Impact: new and expanded educational institutions
+
+(1) This section applies if the Secretary of State is deciding whether to enter into Academy arrangements in relation to—
+
+(a) a new educational institution, or
+
+(b) an existing educational institution that, if the arrangements are entered into, will provide education for pupils of a wider range of ages.
+
+[[^F56]except where the institution, if the arrangements are entered into, is to be a secure 16 to 19 Academy.]
+
+(2) The Secretary of State must take into account what the impact of entering into the arrangements would be likely to be on maintained schools, Academies, institutions within the further education sector and alternative provision in the area in which the institution is proposed to be, or is, situated.
+
+(3) An educational institution is not new for the purposes of this section if—
+
+(a) it replaces one or more maintained schools, Academies or sixth form colleges that have been or are to be discontinued, and
+
+(b) it provides education for persons of the same range of ages as the institution it replaces (or, as the case may be, the institutions it replaces, taken together).
+
+(4) “Alternative provision” means educational provision for which a local authority has made arrangements under section 19 of EA 1996 (exceptional provision of education in pupil referral units or elsewhere).]
+
+### 10 [[^F57]Consultation: new and expanded educational institutions
+
+(1) This section applies before a person enters into Academy arrangements with the Secretary of State in relation to—
+
+(a) a new educational institution, [^F58]... or
+
+(b) an existing educational institution that, if the arrangements are entered into, will provide education for pupils of a wider range of ages.
+
+(2) The person must carry out a consultation on the question of whether the arrangements should be entered into.
+
+[[^F59](2A) But where the educational institution, if the arrangements are entered into, is to be a secure 16 to 19 Academy—
+
+(a) the person is not required to carry out a consultation on that question, and
+
+(b) they must instead carry out a consultation on the question of how they should cooperate with potential local partners in connection with the establishment and carrying on of the Academy.
+
+(2B) “Potential local partners” in subsection (2A)(b) means—
+
+(a) persons exercising functions of a public nature, and
+
+(b) so far as not falling within paragraph (a), proprietors of educational institutions,
+
+with whom the person carrying out the consultation thinks it appropriate to cooperate.]
+
+(3) [[^F60]A consultation under this section] must seek the views of such persons as the person carrying it out thinks appropriate.
+
+(4) Section 9(3) (when educational institution not new) applies for the purposes of this section.]
+
+### 10A [[^F61]Charges at boarding Academies
+
+(1) This section applies where—
+
+(a) a registered pupil at [[^F62] an Academy school or an alternative provision Academy ] is provided with board and lodging at the Academy, and
+
+(b) the local authority for the pupil's area is satisfied that either condition A or condition B is met.
+
+(2) Condition A is that education suitable to the pupil's age, ability and aptitude, and to any special educational needs the pupil may have, cannot otherwise be provided for the pupil.
+
+(3) Condition B is that payment of the full amount of the charges in respect of the board and lodging would involve financial hardship to the pupil's parent.
+
+(4) If the authority is satisfied that condition A is met, the authority must pay the full amount of the charges in respect of the board and lodging to the proprietor of the Academy.
+
+(5) If the authority is satisfied that condition B is met, the authority must pay to the proprietor of the Academy so much of the charges in respect of the board and lodging as, in the opinion of the authority, is needed to avoid financial hardship to the pupil's parent.
+
+(6) The proprietor of the Academy must remit the charges that would otherwise be payable by the pupil's parent, to the extent that it receives a payment from the local authority in respect of those charges under subsection (4) or (5).]
+
+### 11 Annual reports
+
+(1) For each academic year the Secretary of State must prepare and publish a report containing information on—
+
+(a) Academy arrangements entered into during the year, and
+
+(b) the performance of Academies during the year (see subsection (2)).
+
+(2) The report must include information relating to the performance of Academies which has been provided to the Secretary of State pursuant to—
+
+(a) regulations made under section 537 of EA 1996 (power of Secretary of State to require information);
+
+(b) Academy arrangements.
+
+(3) The first report under this section must relate to the academic year beginning 1 August 2010.
+
+(4) The Secretary of State must lay before Parliament a copy of each report under this section.
+
+(5) In this section “academic year” means a period of 12 months beginning on 1 August.
+
+### 12 Charitable [[^F63]and trust corporation] status of Academy proprietors etc
+
+(1) A qualifying Academy proprietor is a charity.
+
+[[^F64](1A) In the definition of “trust corporation” in the provisions listed in subsection (1B), the reference to a corporation appointed by the court in any particular case to be a trustee includes a reference to a qualifying Academy proprietor.
+
+(1B) The provisions are—
+
+(a) section 117(1)(xxx) of the Settled Land Act 1925;
+
+(b) paragraph (18) of section 68(1) of the Trustee Act 1925;
+
+(c) section 205(1)(xxviii) of the Law of Property Act 1925;
+
+(d) section 55(1)(xxvi) of the Administration of Estates Act 1925;
+
+(e) section 128 of the Senior Courts Act 1981.]
+
+(2) A “qualifying Academy proprietor” is a company—
+
+(a) which is limited by guarantee,
+
+(b) whose registered office is situated in England and Wales,
+
+(c) which in pursuance of Academy arrangements is the proprietor of an Academy, and
+
+(d) whose object as expressed in its articles or memorandum of association (or each of whose objects as so expressed) is a charitable purpose.
+
+(3) Expressions used in subsection (2) and in the Companies Act 2006 have the same meaning in that subsection as in that Act.
+
+[^F65]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[[^F66](5) The setting up, establishment and running of a secure 16 to 19 Academy is to be treated as a charitable purpose that falls within the description in section 3(1)(b) of the Charities Act 2011 (advancement of education) for the purposes of—
+
+(a) this section,
+
+(b) the Charities Act 2011, and
+
+(c) any other enactment that applies (in whatever way) the definition of “charitable purpose” in section 2 of that Act.
+
+(6) But subsection (5) is to be disregarded in determining, in accordance with section 3(1)(m) of the Charities Act 2011, whether a purpose may be regarded as analogous to, or within the spirit of, a purpose falling within paragraph (b) of section 3(1) of that Act.]
+
+### 13 Academies: land
+
+Schedule 1 (Academies: land) has effect.
+
+### 14 Academies: amendments
+
+Schedule 2 (Academies: amendments) has effect.
+
+## General
+
+### 15 Transitional provisions
+
+(1) This section applies to references in a provision of an Act or any other instrument or document, in relation to times on and after the commencement date.
+
+(2) But it does not apply to references in sections 1 to 8 or this section, and is subject to any contrary provision made by or under this or any other Act.
+
+(3) A reference to Academy arrangements is to be read as including a reference to an agreement under section 482 of EA 1996.
+
+(4) A reference to an Academy is to be read as including a reference to a city technology college and a city college for the technology of the arts.
+
+(5) A reference to an agreement under section 482 of EA 1996 is to be read as being or (according to context) including a reference to Academy arrangements.
+
+(6) If an agreement under section 482 of EA 1996 has effect immediately before the commencement date in relation to a school which is known as an Academy, the agreement is to be treated as an Academy agreement under section 1 of this Act.
+
+(7) Subsections (8) and (9) apply if an agreement under section 482 of EA 1996 has effect immediately before the commencement date in relation to a school which is known as a city technology college or a city college for the technology of the arts.
+
+(8) If the proprietor of the school and the Secretary of State agree—
+
+(a) the agreement under section 482 of EA 1996 is to be treated as an Academy agreement under section 1 of this Act, and
+
+(b) the school is accordingly to be known as an Academy.
+
+(9) In any other case, the continued operation of the agreement under section 482 of EA 1996 is not affected by the repeal by this Act of—
+
+(a) section 482(1) to (5) of EA 1996, or
+
+(b) section 68 of EA 2002.
+
+(10) In this section “the commencement date” means the date on which section 1 comes into force.
+
+### 16 Pre-commencement applications etc
+
+(1) Subsection (2) applies if, before the commencement date, the governing body of a maintained school in England make an application to the Secretary of State which, if it had been made on or after that date, would have been an application under section 3.
+
+(2) The application is to be treated as an application under that section.
+
+(3) Subsection (4) applies if, before the commencement date—
+
+(a) steps are taken by the governing body of a foundation or voluntary school that has a foundation, and
+
+(b) if section 3 had been in force, those steps would have satisfied the requirement of section 3(3) (consultation of foundation).
+
+(4) The steps are to be treated as satisfying that requirement.
+
+(5) Subsection (6) applies if, before the commencement date—
+
+(a) consent to an application by a governing body is given, and
+
+(b) if section 3 had been in force, the consent would have satisfied any requirement of section 3(4) (consent of trustees and persons appointing foundation governors).
+
+(6) The consent is to be treated as satisfying that requirement.
+
+(7) In this section “the commencement date” means the date on which section 3 comes into force.
+
+### 17 Interpretation of Act
+
+(1) In this Act—
+
+- “EA 1996” means the Education Act 1996;
+- “SSFA 1998” means the School Standards and Framework Act 1998;
+- “EA 2002” means the Education Act 2002;
+- “EA 2005” means the Education Act 2005;
+- “EIA 2006” means the Education and Inspections Act 2006;
+- “ASCLA 2009” means the Apprenticeships, Skills, Children and Learning Act 2009;
+- “CSFA 2010” means the Children, Schools and Families Act 2010.
+
+(2) In this Act—
+
+- “the Academy”, in a case in which an Academy order is made, has the meaning given by section 6(2);
+
+- “the conversion date” has the meaning given by section 6(2);
+
+- [[^F67]“federated school” has the meaning given by section 24(2) of EA 2002;]
+
+- “the local authority” in relation to a maintained school, means the authority by which the school is maintained;
+
+- “maintained school” means—
+
+  - (a) a community, foundation or voluntary school, or
+  - (b) a community or foundation special school.
+
+(3) Section 4(3) (when a maintained school is “converted into” an Academy) applies for the purposes of this Act.
+
+(4) EA 1996 and sections 1 to 13, 15 and 16 of this Act are to be read as if those sections were contained in EA 1996.
+
+(5) Unless the context otherwise requires, a reference in this Act to—
+
+(a) a community, foundation or voluntary school, or
+
+(b) a community or foundation special school,
+
+is to such a school within the meaning of SSFA 1998.
+
+### 18 Extent
+
+(1) This Act extends to England and Wales only, subject to subsection (2).
+
+(2) An amendment or repeal made by this Act has the same extent as the provision to which it relates.
+
+### 19 Commencement
+
+(1) Sections 15 to 20 come into force on the day on which this Act is passed.
+
+(2) The other provisions of this Act come into force on whatever day or days the Secretary of State appoints by order made by statutory instrument.
+
+(3) An order under subsection (2)—
+
+(a) may make different provision for different purposes or different areas;
+
+(b) may make incidental, consequential, supplemental, transitional or transitory provision or savings.
+
+### 20 Short title
+
+(1) This Act may be cited as the Academies Act 2010.
+
+(2) This Act is to be included in the list of Education Acts set out in section 578 of EA 1996.
+
+## [[^F68]SCHEDULE 1 — ACADEMIES: LAND
+
+*Section 13*
+
+### Part 1 — Land held by a local authority
+
+#### Transfer scheme where land ceases to be used for purposes of a school or 16 to 19 Academy
+
+**1** (1) The Secretary of State may make a scheme in relation to land if the requirements in sub-paragraph (2) are met.
+
+(2) The requirements are as follows—
+
+(a) a local authority holds a freehold or leasehold interest in the land when the scheme is made;
+
+(b) at any time in the period of eight years ending with the day on which the scheme is made the land was used wholly or mainly for the purposes of a school or a 16 to 19 Academy;
+
+(c) at the time the scheme is made the land is no longer used for the purposes of the school or 16 to 19 Academy mentioned in paragraph (b) or the Secretary of State thinks it is about to be no longer so used.
+
+(3) The scheme must meet the requirements in paragraph 3(1).
+
+#### Transfer scheme following proposals for establishment of new Academy
+
+**2** (1) The Secretary of State may make a scheme in relation to land if the requirements in sub-paragraph (2) are met.
+
+(2) The requirements are as follows—
+
+(a) a local authority holds a freehold or leasehold interest in the land when the scheme is made;
+
+(b) the land forms the whole or part of a site specified in a notification given to the Secretary of State under section 6A of EIA 2006, or a notice published under section 7 of that Act, (proposals for new schools) as a possible site for a new school;
+
+(c) before making the scheme, the Secretary of State consulted the authority.
+
+(3) The scheme must meet the requirements in paragraph 3(1).
+
+#### Transfer schemes under paragraphs 1 and 2: general
+
+**3** (1) These requirements must be met as regards a scheme under paragraph 1 or 2—
+
+(a) the scheme must provide for a transfer of the land or such part of it as is specified in the scheme;
+
+(b) the scheme must specify whether the transfer is the transfer of a freehold or leasehold interest in the land or the grant of a lease in respect of the land (see paragraph 22(4));
+
+(c) the transfer must be to a person who is specified in the scheme and is concerned with the running of an Academy;
+
+(d) the transfer must be made to the transferee for the purposes of the Academy;
+
+(e) in the case of a scheme under paragraph 2, the Academy must have been the subject of proposals under section 6A or 7 of EIA 2006;
+
+(f) the scheme must make provision about the transfer to the transferee of any right or liability held by the local authority as holder of the land or specified part concerned.
+
+(2) In sub-paragraph (1) the reference to a right or liability—
+
+(a) includes a reference to a right or liability as a trustee, but
+
+(b) excludes a reference to a liability in respect of the principal of or interest on a loan.
+
+(3) A scheme may include incidental, consequential, supplemental and transitional provision.
+
+(4) A scheme under paragraph 1 must be so expressed that it does not come into force while the land concerned is used for the purposes of the school or 16 to 19 Academy mentioned in paragraph 1(2)(b).
+
+(5) A scheme comes into force—
+
+(a) on the day it specifies for it to come into force, or
+
+(b) on the day it otherwise identifies as the day for it to come into force.
+
+(6) When a scheme comes into force it has effect to transfer (in accordance with its provisions) the land, rights and liabilities to which it applies.
+
+(7) A transfer made by virtue of a scheme is binding on all persons even if, apart from this sub-paragraph, it would have required the consent or concurrence of any person.
+
+#### Restriction on disposal of land held by local authority for purposes of a school or 16 to 19 Academy
+
+**4** (1) Sub-paragraph (2) applies if—
+
+(a) a freehold or leasehold interest in land is held by a local authority,
+
+(b) the authority proposes to make a disposal in respect of the land, and
+
+(c) at any time in the period of eight years ending with the day on which the disposal is proposed to be made, the land was used wholly or mainly for the purposes of a school or a 16 to 19 Academy.
+
+(2) Unless the Secretary of State consents, the authority must not make the disposal.
+
+(3) Sub-paragraph (2) does not apply to a disposal made in pursuance of a contract made, or option granted, before 26 July 2002.
+
+(4) A disposal is not invalid only because it is made in contravention of sub-paragraph (2).
+
+(5) A person acquiring land, or entering into a contract to acquire it, is not to be concerned to enquire whether the consent required by sub-paragraph (2) has been given.
+
+**5** (1) This paragraph applies if a local authority has made a disposal in contravention of paragraph 4(2).
+
+(2) In a case where the authority has made a disposal within the meaning of this Schedule because it has granted an option (see paragraph 22(5)(d)), the Secretary of State may by notice served on the option holder repudiate the option at any time before it is exercised.
+
+(3) In a case where the authority has made a disposal within the meaning of this Schedule because it has entered into a contract to dispose of land (see paragraph 22(5)(c)), the Secretary of State may by notice served on the other party to the contract repudiate it at any time before a conveyance of the land is executed.
+
+(4) A repudiation under sub-paragraph (2) or (3) has effect—
+
+(a) when the notice is served, and
+
+(b) as if the repudiation were made by the authority.
+
+(5) In a case where the land has been transferred (whether or not in pursuance of an option or contract falling within sub-paragraph (2) or (3)) the Secretary of State may purchase the land compulsorily.
+
+(6) The Acquisition of Land Act 1981 applies in relation to the compulsory purchase of land under sub-paragraph (5).
+
+(7) On completion of a compulsory purchase of land under sub-paragraph (5) the Secretary of State must transfer it to a person concerned with the running of an Academy.
+
+(8) If the Secretary of State acquires land by compulsory purchase under sub-paragraph (5), the Secretary of State is entitled to recover from the authority an amount equal to the aggregate of—
+
+(a) the compensation agreed or awarded in respect of the purchase,
+
+(b) any interest payable by the Secretary of State in respect of the compensation, and
+
+(c) the costs and expenses incurred by the Secretary of State in connection with the making of the compulsory purchase order.
+
+(9) The authority must provide the Secretary of State with such information as the Secretary of State may require it to provide in connection with a compulsory purchase under sub-paragraph (5).
+
+#### Restriction on appropriation of land held by local authority for purposes of a school or 16 to 19 Academy
+
+**6** (1) Sub-paragraph (2) applies if—
+
+(a) a freehold or leasehold interest in land is held by a local authority,
+
+(b) the authority proposes to make an appropriation of the land under section 122 of the Local Government Act 1972, and
+
+(c) at any time in the period of eight years ending with the day on which the appropriation is proposed to be made the land was used wholly or mainly for the purposes of a school or a 16 to 19 Academy.
+
+(2) Unless the Secretary of State consents, the authority must not make the appropriation.
+
+**7** (1) This paragraph applies if a local authority has made an appropriation in contravention of paragraph 6(2).
+
+(2) The Secretary of State may purchase the land concerned compulsorily.
+
+(3) Sub-paragraphs (6) to (9) of paragraph 5 apply to a compulsory purchase of land under sub-paragraph (2) as they apply to a compulsory purchase of land under paragraph 5(5).
+
+#### Class consents
+
+**8** For the purposes of paragraphs 4(2) and 6(2), the consent of the Secretary of State—
+
+(a) may be given in relation to a particular case or class of case, and
+
+(b) may be given subject to conditions.
+
+#### Duty to inform Secretary of State on proposed change of use of land used for purposes of a school or 16 to 19 Academy
+
+**9** (1) Sub-paragraph (2) applies if—
+
+(a) a freehold or leasehold interest in land is held by a local authority,
+
+(b) the authority proposes to change the use of the land in such a way that (were the change made) the land would cease to be capable of use wholly or mainly for the purposes of a school or a 16 to 19 Academy, and
+
+(c) at any time in the period of eight years ending with the date of the proposed change of use the land was used wholly or mainly for the purposes of a school or a 16 to 19 Academy.
+
+(2) The authority must inform the Secretary of State of the proposal.
+
+### Part 2 — Land held by a governing body, a foundation body or trustees
+
+#### Power of Secretary of State to make direction where Academy order made
+
+**10** (1) This paragraph applies where—
+
+(a) an Academy order has effect in respect of—
+
+(i) a voluntary school,
+
+(ii) a foundation school, or
+
+(iii) a foundation special school, and
+
+(b) the school is to be converted into an [[^F69] Academy school ].
+
+(2) The Secretary of State may make one or more of the directions listed in sub-paragraph (3) in respect of publicly funded land which is held for the purposes of the school by—
+
+(a) the governing body of the school,
+
+(b) the foundation body of the school, or
+
+(c) the trustees of the school.
+
+(3) The directions are—
+
+(a) that the land or any part of the land be transferred to such local authority as the Secretary of State may specify, subject to the payment by that authority of such sum by way of consideration (if any) as the Secretary of State determines to be appropriate;
+
+(b) that the governing body, the foundation body or the trustees, as the case may be, pay, either to the Secretary of State or to such local authority as the Secretary of State may specify, the whole or any part of the value, as at the date of the direction, of the whole or any part of the land;
+
+(c) that the land or any part of the land be transferred to a person concerned with the running of the [[^F70] Academy school ], subject to the payment by that person or the Secretary of State of such sum by way of consideration (if any) as the Secretary of State determines to be appropriate.
+
+(4) Unless otherwise specified in the direction, any transfer of land pursuant to sub-paragraph (3) is to take place on the conversion date.
+
+#### Power of Secretary of State to make direction on discontinuance of foundation, voluntary or foundation special school
+
+**11** (1) This paragraph applies where the Secretary of State has received an application under sub-paragraph (2), (3) or (4ZA) of paragraph 5 of Schedule 22 to SSFA 1998 (application in respect of land held by governing body, foundation body or trustees on discontinuance of school).
+
+(2) The Secretary of State may direct that the land or any part of the land to which the application relates be transferred to a person concerned with the running of an Academy, subject to the payment by that person or the Secretary of State of such sum by way of consideration (if any) as the Secretary of State determines to be appropriate.
+
+#### Power of Secretary of State to make direction on proposed disposal of school land
+
+**12** (1) This paragraph applies where the Secretary of State has received a notice under any of the following paragraphs of Schedule 22 to SSFA 1998—
+
+(a) paragraph A1A(4) (notice by governing body of intention to dispose of publicly funded land);
+
+(b) paragraph A7A(4) (notice by foundation body of intention to dispose of publicly funded land);
+
+(c) paragraph A13A(6) (notice by trustees of intention to dispose of publicly funded land);
+
+(d) paragraph A23(4)(b) (notice by local authority of intention to apply for transfer order in respect of publicly funded land).
+
+(2) The Secretary of State may direct that the land or any part of the land to which the notice relates be transferred to a person concerned with the running of an Academy, subject to the payment by that person or the Secretary of State of such sum by way of consideration (if any) as the Secretary of State determines to be appropriate.
+
+#### Transfer of land and other property on dissolution of governing body
+
+**13** (1) This paragraph applies where a governing body of a school are to be dissolved by virtue of paragraph 5(2)(a)(iv) of Schedule 1 to EA 2002 (dissolution of governing body on conversion date following Academy order).
+
+(2) Where a governing body are so dissolved, the following are transferred as provided in sub-paragraph (3)—
+
+(a) all publicly funded land which is held by the governing body for the purposes of the school and which is not transferred on the conversion date (pursuant to a direction under paragraph 10 or otherwise);
+
+(b) all other property of the governing body which is used or held for the purposes of the school;
+
+(c) all rights and liabilities of the governing body (including rights and liabilities in relation to staff) which were acquired or incurred for the purposes of the school.
+
+(3) The land, other property, rights and liabilities are, on the conversion date, transferred to, and by virtue of this Act vest in—
+
+(a) the local authority that maintained the school, or
+
+(b) such person concerned with the running of an [[^F71] Academy school ] as the Secretary of State directs before the conversion date.
+
+(4) Sub-paragraph (2) does not apply to—
+
+(a) any land for which provision has been made for payment under paragraph 10(3)(b),
+
+(b) any land or other property which is held by the governing body on trust for the purposes of the school,
+
+(c) any property or rights to which section 7 (transfer of school surpluses) applies, or
+
+(d) unless the Secretary of State otherwise directs before the conversion date, any liabilities of the governing body in respect of a loan made to the governing body.
+
+(5) Subject to sub-paragraphs (6) and (7), a governing body who are to be dissolved as mentioned in sub-paragraph (1) may transfer any land or other property which is held by them on trust for the purposes of the school to any person to hold such land or other property on trust for purposes connected with the provision of education in schools.
+
+(6) Sub-paragraph (5) does not apply to land in respect of which a direction has been made under paragraph 10(3) (a) or (c).
+
+(7) Sub-paragraph (5) does not apply to land or other property held by a governing body on trust for the purposes of the school in a case where any other persons (“other trustees”) also hold land or other property on trust for the purposes of the school.
+
+(8) In a case mentioned in sub-paragraph (7), the land or other property held on trust by the governing body is, on the conversion date, transferred to, and by virtue of this Act vests in, the other trustees.
+
+(9) If any doubt or dispute arises as to the persons to whom land or other property is transferred under sub-paragraph (8), it is to be treated as so transferred to such persons as the Secretary of State directs.
+
+### Part 3 — Land held for the purposes of an Academy
+
+#### Notice in relation to certain land held for the purposes of an Academy
+
+**14** (1) This paragraph applies to land—
+
+(a) that is held for the purposes of an Academy, and
+
+(b) that has been acquired or enhanced in value wholly or partly by payments made by or on behalf of—
+
+(i) a local authority, or
+
+(ii) the Secretary of State.
+
+This is subject to sub-paragraph (2).
+
+(2) If a leasehold interest in land is held for the purposes of a new Academy, this paragraph does not apply to—
+
+(a) that or any other leasehold interest in the land, or
+
+(b) a freehold interest in the land.
+
+(3) An Academy is a new Academy for the purposes of sub-paragraph (2) if, by virtue of section 9(1)(a) (new educational institutions), the duty in section 9(2) (impact on other schools etc) applied when the Secretary of State was deciding whether to enter into Academy arrangements in relation to it.
+
+(4) In the case of land to which this paragraph applies that has been acquired or enhanced in value wholly or partly by payments made by or on behalf of a local authority, the authority may serve a notice under sub-paragraph (6).
+
+(5) In the case of land to which this paragraph applies that has been acquired or enhanced in value wholly or partly by payments made by or on behalf of the Secretary of State, the Secretary of State may serve a notice under sub-paragraph (6).
+
+(6) A notice under this sub-paragraph is a notice that the land is publicly funded land for the purposes of this Schedule.
+
+(7) A notice under sub-paragraph (6) must be served—
+
+(a) on the person holding the land (subject to sub-paragraph (8)),
+
+(b) within the period of six months beginning with the date on which the payments were made, or, if there is more than one such date, the latest of those dates.
+
+(8) Where the land is vested in the official custodian for charities in trust for a charity, a notice under sub-paragraph (6) must be served—
+
+(a) on the charity, if the charity is a corporate charity;
+
+(b) on the persons having the general control and management of the administration of the charity, in any other case.
+
+#### Power of Secretary of State to make direction on educational institution ceasing to be an Academy
+
+**15** (1) This paragraph applies if—
+
+(a) an educational institution ceases to be an Academy, and
+
+(b) immediately before it does so, publicly funded land is held by a person for the purposes of the Academy.
+
+(2) Sub-paragraph (1)(a) applies whether or not, on the educational institution ceasing to be an Academy, it simultaneously ceases to function as an educational institution.
+
+(3) The Secretary of State may make one or more of the following directions—
+
+(a) a direction that the land or any part of the land be transferred to such local authority as the Secretary of State may specify, subject to the payment by that authority of such sum by way of consideration (if any) as the Secretary of State determines to be appropriate;
+
+(b) a direction that the person holding the land pay, either to the Secretary of State or to such local authority as the Secretary of State may specify, the whole or any part of the value, as at the date of the direction, of the whole or any part of the land;
+
+(c) a direction that the land or any part of the land be transferred to a person concerned with the running of an Academy, subject to the payment by that person or the Secretary of State of such sum by way of consideration (if any) as the Secretary of State determines to be appropriate;
+
+(d) a direction that the land or any part of the land be transferred to the governing body, foundation body or trustees of a school, subject to the payment by that body or trustees (as the case may be) or the Secretary of State of such sum by way of consideration (if any) as the Secretary of State determines to be appropriate.
+
+#### Termination of occupation by Academy of land held by trustees: notice of termination and power of Secretary of State to make direction
+
+**16** (1) This paragraph applies if—
+
+(a) land has been held for the purposes of a maintained school by the trustees of the school,
+
+(b) the land is held by the trustees for the purposes of an Academy, and
+
+(c) the termination of the Academy's occupation of the land would have the result that it was not reasonably practicable for the Academy to continue to be conducted at its existing site.
+
+(2) A notice given by the trustees to the Academy proprietor that purports to terminate the Academy's occupation of the land is not effective unless—
+
+(a) the period of notice is reasonable, having regard to the length of time that it would take to terminate the Academy arrangements, and in any event is not less than two years, and
+
+(b) a copy of the notice is given to the Secretary of State and the local authority by which the school was maintained at the same time as the notice is given to the proprietor.
+
+(3) Where the trustees give, at the same (or substantially the same) time, notices purporting to terminate an Academy's occupation of two or more pieces of land held by the trustees for the purposes of the Academy, then for the purpose of determining whether sub-paragraph (1)(c) applies in relation to any of those pieces of land, regard may be had to the combined effect of terminating the Academy's occupation of both or all of them.
+
+(4) If a question arises as to whether the termination of an Academy's occupation of any land would have the result mentioned in sub-paragraph (1)(c) (including a question as to whether sub-paragraph (3) applies in any particular circumstances), it is to be determined by the Secretary of State.
+
+(5) Sub-paragraph (6) applies where a notice that is effective to terminate an Academy's occupation of land relates to publicly funded land.
+
+(6) The Secretary of State may make one or more of the following directions—
+
+(a) a direction that the land or any part of the land be transferred to such local authority as the Secretary of State may specify, subject to the payment by that authority of such sum by way of consideration (if any) as the Secretary of State determines to be appropriate;
+
+(b) a direction that the trustees pay, either to the Secretary of State or to such local authority as the Secretary of State may specify, the whole or any part of the value, as at the date of the direction, of the whole or any part of the land;
+
+(c) a direction that the land or any part of the land be transferred to a person concerned with the running of an Academy, subject to the payment by that person or the Secretary of State of such sum by way of consideration (if any) as the Secretary of State determines to be appropriate;
+
+(d) a direction that the land or any part of the land be transferred to the governing body, foundation body or trustees of a school, subject to the payment by that body or trustees (as the case may be) or the Secretary of State of such sum by way of consideration (if any) as the Secretary of State determines to be appropriate.
+
+#### Power of Secretary of State to make direction on proposed disposal of Academy land
+
+**17** (1) This paragraph applies to a disposal of publicly funded land that is held by a person (“P”) for the purposes of an Academy.
+
+(2) P must give the Secretary of State notice of P's intention to dispose of the land.
+
+(3) In determining whether, and how, to give notice to the Secretary of State under sub-paragraph (2), P must have regard to any guidance given from time to time by the Secretary of State.
+
+(4) On receipt of the notice, the Secretary of State must—
+
+(a) decide whether to make a direction under sub-paragraph (7) in respect of the land specified in the notice, and
+
+(b) notify P of that decision.
+
+(5) P may not dispose of the land until P has been notified of the Secretary of State's decision.
+
+(6) If the Secretary of State decides to make a direction in respect of the land, P may not dispose of the land except in accordance with the direction.
+
+(7) The Secretary of State may make one or more of the following directions—
+
+(a) a direction that the land or any part of the land be transferred to such local authority as the Secretary of State may specify, subject to the payment by that local authority of such sum by way of consideration (if any) as the Secretary of State determines to be appropriate;
+
+(b) a direction that P pay, either to the Secretary of State or to such local authority as the Secretary of State may specify, the whole or any part of the value, as at the date of the direction, of the whole or any part of the land;
+
+(c) a direction that the land or any part of the land be transferred to a person concerned with the running of an Academy, subject to the payment by that person or the Secretary of State of such sum by way of consideration (if any) as the Secretary of State determines to be appropriate;
+
+(d) in the case of playing field land, a direction that the disposal is not to be made.
+
+(8) In this paragraph—
+
+(a) “playing field land” means land in the open air which is provided for the purposes of physical education or recreation, other than any land falling within a description prescribed under section 77(7) of SSFA 1998;
+
+(b) references to a disposal of land include references to a change of use of the land in cases where the land is no longer to be used for the purposes of an Academy.
+
+### Part 4 — General
+
+#### Directions under this Schedule: general
+
+**18** (1) Where a transfer pursuant to a direction under this Schedule relates to registered land, it is the duty of the transferor—
+
+(a) to execute any such instrument under the Land Registration Act 2002,
+
+(b) to deliver any such certificate under that Act, and
+
+(c) to do such other things under that Act,
+
+as the transferor would be required to execute, deliver or do in the case of a transfer by agreement between the transferor and the transferee.
+
+(2) A direction under this Schedule may include such incidental, consequential, supplemental and transitional provision as the Secretary of State thinks is appropriate for giving it full effect.
+
+#### Disapplication of rule against perpetuities
+
+**19** (1) Where—
+
+(a) land is transferred for no consideration for the purposes of an Academy, and
+
+(b) the person who transferred the land is granted an option to make a re-acquisition of the land (subject to whatever conditions),
+
+the rule against perpetuities does not apply to the option.
+
+(2) Sub-paragraph (1) does not apply to an option granted before 26 July 2002.
+
+#### Disapplication of other Acts
+
+**20** (1) Where a lease is granted or transferred to a person for the purposes of an Academy on or after 26 July 2002, section 153 of the Law of Property Act 1925 (enlargement of leases granted for no rent etc) does not apply to permit that person to enlarge the term under the lease.
+
+(2) Subsections (2) and (2A) of section 123 of the Local Government Act 1972 (disposals of land by principal councils) do not apply to a disposal of land to a person for the purposes of an Academy.
+
+#### Regulations
+
+**21** (1) The Secretary of State may make regulations containing such incidental, consequential, supplemental and transitional provisions as the Secretary of State thinks are appropriate in consequence of this Schedule or for giving it full effect.
+
+(2) Regulations under sub-paragraph (1) about transfer schemes may in particular include provision—
+
+(a) requiring a person to be appointed by the Secretary of State in connection with the proposed making of a scheme;
+
+(b) requiring the appointed person to identify the land, rights and liabilities to be transferred by or under a scheme;
+
+(c) requiring a transferor under a scheme to provide the appointed person with such documents as may be required in order to identify the land, rights and liabilities to be transferred by or under the scheme;
+
+(d) requiring a transferor under a scheme to execute such instruments, deliver such certificates and do any other such things as are required by the Land Registration Act 2002 in order to transfer the land;
+
+(e) treating a transferor under a scheme as having given acknowledgement in writing of the rights to production of documents.
+
+(3) Regulations under sub-paragraph (1) about land held by a local authority may in particular include provision—
+
+(a) that consent under paragraph 4 (proposed disposal of school land) is to be sought in a specified way;
+
+(b) that information is to be given under paragraph 9 (duty to inform Secretary of State of proposed change of use of school land) in a specified way.
+
+(4) Regulations under sub-paragraph (1) about the transfer of land, other property and rights and liabilities under paragraph 13 (transfer of land and other property on dissolution of governing body) may in particular include provision about the production of documents, execution of instruments, delivery of certificates and any other related matters.
+
+#### Interpretation
+
+**22** (1) A dwelling-house used for occupation by a person employed to work at an educational institution is to be treated for the purposes of this Schedule as used for the purposes of the educational institution.
+
+(2) In this Schedule—
+
+- “foundation body”, in relation to a school, has the same meaning as in SSFA 1998 (see section 21(4) of that Act);
+- “trustees”, in relation to a school, means any person (other than the governing body) holding property on trust for the purposes of the school.
+
+(3) In this Schedule, “publicly funded land” means—
+
+(a) in relation to land held by a governing body, land falling within any of paragraphs (a) to (i) of paragraph A1(1) of Schedule 22 to SSFA 1998 (disposals of school land on discontinuance etc);
+
+(b) in relation to land held by a foundation body, land falling within any of paragraphs (a) to (h) of paragraph A7(1) of that Schedule;
+
+(c) in relation to land held by trustees, other than land held for the purposes of an Academy, land falling within sub-paragraph (1), (2) or (3) of paragraph A13 of that Schedule;
+
+(d) in relation to land held for the purposes of an Academy—
+
+(i) land acquired from a governing body, foundation body or trustees that was, at the time of the acquisition, publicly funded land within the meaning of paragraph (a), (b) or (c);
+
+(ii) land held by trustees for the purposes of an Academy which was previously held by the trustees for the purposes of a maintained school and which, at the time it was held for the purposes of a maintained school, was publicly funded land within the meaning of paragraph (c);
+
+(iii) land acquired from a local authority;
+
+(iv) land in relation to which a notice has been served under paragraph 14;
+
+(v) land acquired from a person concerned with the running of an Academy that was, at the time of the acquisition, publicly funded land within the meaning of sub-paragraphs (i) to (iv) or this sub-paragraph.
+
+(4) References in this Schedule to a transfer or disposal of land are to the transfer or disposal of a freehold or leasehold interest in the land or to the grant of a lease in respect of the land.
+
+(5) References in this Schedule to a disposal of land include references to—
+
+(a) a compulsory disposal,
+
+(b) in the case of any premises held under a tenancy to which Part 2 of the Landlord and Tenant Act 1954 applies, the termination of the tenancy under that Part,
+
+(c) entering into a contract to dispose of land, and
+
+(d) granting an option to acquire a freehold or leasehold interest in land.
+
+(6) Where—
+
+(a) a person (A) holds a freehold or leasehold interest in land from which a leasehold interest has been granted to another person (B), and
+
+(b) B is concerned with the running of an Academy,
+
+for the purposes of this Schedule both A and B are to be treated as holding land for the purposes of an Academy.
+
+(7) References in this Schedule to a lease include references to a sub-lease.]
+
+## SCHEDULE 2 — Academies: amendments
+
+*Section 14*
+
+### Education Act 1996 (c. 56)
+
+**1** EA 1996 is amended as follows.
+
+**2** In section 337(b) (special schools not maintained by local authorities) after “approved under section 342” insert “ or is an Academy ”.
+
+**3** In section 349(1) (variation of trust deeds etc by order) after “imposed by” insert “ — (a) ” and after “section 342” insert “, or
+
+> (b) Academy arrangements.
+
+**4** In section 482 (Academies) omit subsections (1) to (5).
+
+**5** Section 483 (financial provisions) is repealed.
+
+**6** In section 579(1) (general interpretation of Act) before the definition of “assist” insert—
+
+> “Academy” means a school to which Academy arrangements relate;
+>
+> “Academy arrangements” has the meaning given by section 1 of the Academies Act 2010;
+>
+> “Academy order” means an order under section 4 of that Act;
+
+.
+
+**7** In section 580 (index)—
+
+(a) in the entry for “Academy” for “section 482” substitute “ section 579(1) ”;
+
+(b) after that entry insert—
+
+> |  |  |
+> |---|---|
+> | Academy arrangements | Section 579(1) |
+> | Academy order | Section 579(1) |
+
+**8** In Schedule 35A (Academies: land) omit paragraphs 1, 8 to 10 and 11(a) to (e).
+
+### School Standards and Framework Act 1998 (c. 31)
+
+**9** In section 82(1) of SSFA 1998 (modification of trust deeds etc by order) for “or the Education and Inspections Act 2006” substitute “ , the Education and Inspections Act 2006 or the Academies Act 2010 ”.
+
+### Freedom of Information Act 2000 (c. 36)
+
+**10** In Part 4 of Schedule 1 to the Freedom of Information Act 2000 (public authorities: maintained schools and other educational institutions) after paragraph 52 insert—
+
+> **52A** (1) The proprietor of an Academy, in respect of information held for the purposes of the proprietor's functions under Academy arrangements.
+>
+> (2) In sub-paragraph (1)—
+>
+> - “Academy arrangements” has the meaning given by section 1 of the Academies Act 2010;
+> - “proprietor” has the meaning given by section 579(1) of the Education Act 1996.
+
+### Education Act 2002 (c. 32)
+
+**11** EA 2002 is amended as follows.
+
+**12** In section 65 (Academies) omit subsection (2).
+
+**13** Section 67 (conversion of city academies into Academies) is repealed.
+
+**14** Section 68 (city colleges) is repealed.
+
+**15** In Schedule 1 (incorporation and powers of governing bodies) in paragraph 5(2)(a) (dissolution of governing body) omit the “or” after sub-paragraph (ii) and after sub-paragraph (iii) insert
+
+> , or
+>
+> (iv) the date on which a local authority are required to cease to maintain the school under section 6(2) of the Academies Act 2010;
+
+.
+
+### Education Act 2005 (c. 18)
+
+**16** EA 2005 is amended as follows.
+
+**17** In section 5 (duty to inspect certain schools at prescribed intervals) in subsection (4) for paragraph (d) (and the “or” after it) substitute—
+
+> (d) an Academy in respect of which notice of termination of Academy arrangements has been given, or
+
+.
+
+**18** In section 110 (supply of information: free school lunches etc) in subsection (7)(c) for “an agreement under section 482 of that Act (Academies, etc)” substitute “ Academy arrangements ”.
+
+### Education and Inspections Act 2006 (c. 40)
+
+**19** EIA 2006 is amended as follows.
+
+**20** In section 28(3) (exceptions to restriction on discontinuing maintained school) omit the “and” after paragraph (a) and after paragraph (b) insert
+
+> , and
+>
+> (c) section 6(2) of the Academies Act 2010 (requirement to cease to maintain school in respect of which Academy order has effect).
+
+**21** In section 69 (power of Secretary of State to provide for governing body to consist of interim executive members) after subsection (3) insert—
+
+> (4) Subsection (2) does not apply if an Academy order has effect in respect of the school.
+
+**[^F72]22** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)
+
+**23** ASCLA 2009 is amended as follows.
+
+**24** In Chapter 4 of Part 3 (the YPLA: Academy arrangements) for “Academy arrangements” wherever occurring (including in the heading to the Chapter) substitute “ Academy agency arrangements ”.
+
+**25** In section 77 (Academy arrangements) in subsection (4)(a) for “an agreement under section 482(1) of the Education Act 1996” substitute “ Academy arrangements ”.
+
+### Children, Schools and Families Act 2010 (c. 26)
+
+**26** (1) Section 5 of CSFA 2010 (power of governing bodies to form company to establish Academy, etc) is amended as follows.
+
+(2) In subsection (1)—
+
+(a) in paragraph (a) for the words from “an agreement” to “an Academy)” substitute “ Academy arrangements ”;
+
+(b) in paragraph (b) for “an agreement under that section” substitute “ Academy arrangements ”.
+
+(3) In subsection (2)(b) for “an agreement under section 482 of EA 1996” substitute “ Academy arrangements ”.
+
+---
+
+[^F1]: Ss. 1A-1D inserted (1.2.2012 for specified purposes, 1.4.2012 in so far as not already in force) by Education Act 2011 (c. 21), ss. 53(7), 82(3); S.I. 2012/84, art. 3; S.I. 2012/924, art. 2
+[^F2]: S. 1(5) substituted (1.2.2012 for specified purposes, 1.4.2012 in so far as not already in force) by Education Act 2011 (c. 21), ss. 53(2), 82(3); S.I. 2012/84, art. 3; S.I. 2012/924, art. 2
+[^F3]: S. 1(6) omitted (1.2.2012 for specified purposes, 1.4.2012 in so far as not already in force) by virtue of Education Act 2011 (c. 21), ss. 53(3), 82(3); S.I. 2012/84, art. 3; S.I. 2012/924, art. 2
+[^F4]: S. 1(7)(8) omitted (1.9.2014) by virtue of Children and Families Act 2014 (c. 6), s. 139(6), Sch. 3 para. 95; S.I. 2014/889, art. 7(a)
+[^F5]: Words in s. 1(9) substituted (1.2.2012 for specified purposes, 1.4.2012 in so far as not already in force) by Education Act 2011 (c. 21), ss. 53(5), 82(3); S.I. 2012/84, art. 3; S.I. 2012/924, art. 2
+[^F6]: Words in s. 1(10) substituted (1.2.2012 for specified purposes, 1.4.2012 in so far as not already in force) by Education Act 2011 (c. 21), ss. 53(6), 82(3); S.I. 2012/84, art. 3; S.I. 2012/924, art. 2
+[^F7]: S. 1B(4)-(7) inserted (28.4.2022) by Police, Crime, Sentencing and Courts Act 2022 (c. 32), ss. 164(1), 208(4)(t)
+[^F8]: S. 2(2A) inserted (12.4.2026) by Secure 16 to 19 Academies Act 2026 (c. 5), ss. 1(2), 2(2)
+[^F9]: S. 2(5) omitted (1.2.2012) by virtue of Education Act 2011 (c. 21), s. 82(3), Sch. 15 para. 3; S.I. 2012/84, art. 3
+[^F10]: Cross-heading inserted (1.9.2018) by Children and Social Work Act 2017 (c. 16), ss. 6(2), 70(2); S.I. 2018/497, reg. 4(a)
+[^F11]: Ss. 2A-2D inserted (18.4.2016) by Education and Adoption Act 2016 (c. 6), ss. 14, 19(2); S.I. 2016/466, reg. 2
+[^F12]: Words in s. 2C(2) substituted (18.4.2016) by The Education and Adoption Act 2016 (Commencement, Transitional Provisions and Savings) Regulations 2016 (S.I. 2016/466), reg. 3(1)
+[^F13]: Words in s. 2D(6) substituted (18.4.2016) by The Education and Adoption Act 2016 (Commencement, Transitional Provisions and Savings) Regulations 2016 (S.I. 2016/466), reg. 3(2)
+[^F14]: S. 2E inserted (1.9.2018) by Children and Social Work Act 2017 (c. 16), ss. 6(1), 70(2); S.I. 2018/497, reg. 4(a)
+[^F15]: S. 3(6) inserted (1.4.2012) by Education Act 2011 (c. 21), ss. 57(2), 82(3); S.I. 2012/924, art. 2
+[^F16]: S. 4(A1) omitted (29.6.2026) by virtue of Children’s Wellbeing and Schools Act 2026 (c. 21), ss. 58(2)(a), 78(2)(h) (with s. 58(9))
+[^F17]: Words in s. 4(1)(a) substituted (1.4.2012) by Education Act 2011 (c. 21), ss. 57(3), 82(3); S.I. 2012/924, art. 2
+[^F18]: Words in s. 4(1)(b) omitted (29.6.2026) by virtue of Children’s Wellbeing and Schools Act 2026 (c. 21), ss. 58(2)(a), 78(2)(h) (with s. 58(9))
+[^F19]: S. 4(1A) inserted (1.2.2012) by Education Act 2011 (c. 21), ss. 55(2), 82(3); S.I. 2012/84, art. 3
+[^F20]: Words in s. 4(3) substituted (1.4.2012) by Education Act 2011 (c. 21), s. 82(3), Sch. 13 para. 2; S.I. 2012/924, art. 2
+[^F21]: Word in s. 4(4)(a) omitted (1.2.2012) by virtue of Education Act 2011 (c. 21), ss. 55(3)(a), 82(3); S.I. 2012/84, art. 3
+[^F22]: S. 4(4)(c) inserted (1.2.2012) by Education Act 2011 (c. 21), ss. 55(3)(b), 82(3); S.I. 2012/84, art. 3
+[^F23]: Word in s. 4(5)(a) omitted (1.2.2012) by virtue of Education Act 2011 (c. 21), ss. 55(4)(a), 82(3); S.I. 2012/84, art. 3
+[^F24]: S. 4(5)(c) inserted (1.2.2012) by Education Act 2011 (c. 21), ss. 55(4)(b), 82(3); S.I. 2012/84, art. 3
+[^F25]: S. 4(8)-(11) inserted (1.2.2012) by Education Act 2011 (c. 21), ss. 55(5), 82(3); S.I. 2012/84, art. 3
+[^F26]: S. 5 substituted (18.4.2016) by Education and Adoption Act 2016 (c. 6), ss. 8, 19(2); S.I. 2016/466, reg. 2
+[^F27]: Words in s. 5(2) substituted (29.6.2026) by Children’s Wellbeing and Schools Act 2026 (c. 21), ss. 58(3), 78(2)(h) (with s. 58(9))
+[^F28]: S. 5A omitted (29.6.2026) by virtue of Children’s Wellbeing and Schools Act 2026 (c. 21), ss. 58(4), 78(2)(h) (with s. 58(9))
+[^F29]: S. 5B inserted (18.4.2016) by Education and Adoption Act 2016 (c. 6), ss. 10, 19(2); S.I. 2016/466, reg. 2
+[^F30]: Words in s. 5B(1) substituted (29.6.2026) by Children’s Wellbeing and Schools Act 2026 (c. 21), ss. 58(5), 78(2)(h) (with s. 58(9))
+[^F31]: S. 5C inserted (18.4.2016) by Education and Adoption Act 2016 (c. 6), ss. 11, 19(2); S.I. 2016/466, reg. 2
+[^F32]: Words in s. 5C(1) substituted (29.6.2026) by Children’s Wellbeing and Schools Act 2026 (c. 21), ss. 58(6), 78(2)(h) (with s. 58(9))
+[^F33]: S. 5D inserted (18.4.2016) by Education and Adoption Act 2016 (c. 6), ss. 12, 19(2); S.I. 2016/466, reg. 2
+[^F34]: Words in s. 5D heading substituted (29.6.2026) by Children’s Wellbeing and Schools Act 2026 (c. 21), ss. 58(7)(a), 78(2)(h) (with s. 58(9))
+[^F35]: Words in s. 5D(1) substituted (29.6.2026) by Children’s Wellbeing and Schools Act 2026 (c. 21), ss. 58(7)(b), 78(2)(h) (with s. 58(9))
+[^F36]: S. 5E inserted (18.4.2016) by Education and Adoption Act 2016 (c. 6), ss. 13, 19(2); S.I. 2016/466, reg. 2
+[^F37]: Words in s. 6(2) substituted (1.4.2012) by Education Act 2011 (c. 21), s. 82(3), Sch. 13 para. 3(2); S.I. 2012/924, art. 2
+[^F38]: S. 6(2A) inserted (15.11.2011) by Education Act 2011 (c. 21), ss. 58, 82(1)(e)
+[^F39]: Words in s. 6(3) inserted (1.4.2012) by Education Act 2011 (c. 21), s. 82(3), Sch. 13 para. 3(3)(a); S.I. 2012/924, art. 2
+[^F40]: Words in s. 6(3) substituted (1.4.2012) by Education Act 2011 (c. 21), s. 82(3), Sch. 13 para. 3(3)(b); S.I. 2012/924, art. 2
+[^F41]: Words in s. 6(3) substituted (1.4.2012) by Education Act 2011 (c. 21), s. 82(3), Sch. 13 para. 3(3)(c); S.I. 2012/924, art. 2
+[^F42]: Words in s. 6(5) inserted (1.4.2012) by Education Act 2011 (c. 21), s. 82(3), Sch. 13 para. 3(4)(a); S.I. 2012/924, art. 2
+[^F43]: Word in s. 6(5) substituted (1.4.2012) by Education Act 2011 (c. 21), s. 82(3), Sch. 13 para. 3(4)(b); S.I. 2012/924, art. 2
+[^F44]: Word in s. 6(7) inserted (1.4.2012) by Education Act 2011 (c. 21), s. 82(3), Sch. 13 para. 3(5); S.I. 2012/924, art. 2
+[^F45]: S. 6(7)(b) inserted (1.4.2012) by Education Act 2011 (c. 21), s. 82(3), Sch. 13 para. 3(5); S.I. 2012/924, art. 2
+[^F46]: Words in s. 7(6)(a) inserted (1.4.2012) by Education Act 2011 (c. 21), ss. 57(4)(a), 82(3); S.I. 2012/924, art. 2
+[^F47]: Words in s. 7(6) inserted (1.4.2012) by Education Act 2011 (c. 21), ss. 57(4)(b), 82(3); S.I. 2012/924, art. 2
+[^F48]: Words in s. 7(7) substituted (1.4.2012) by Education Act 2011 (c. 21), ss. 57(4)(c), 82(3); S.I. 2012/924, art. 2
+[^F49]: S. 7(9) inserted (1.4.2012) by Education Act 2011 (c. 21), ss. 57(4)(d), 82(3); S.I. 2012/924, art. 2
+[^F50]: S. 8 heading substituted (1.2.2012) by Education Act 2011 (c. 21) , ss. 59(5) , 82(3) ; S.I. 2012/84 , art. 3
+[^F51]: S. 8(2) substituted (1.2.2012) by Education Act 2011 (c. 21) , ss. 59(2) , 82(3) ; S.I. 2012/84 , art. 3
+[^F52]: Words in s. 8(3)-(10) substituted (1.2.2012) by Education Act 2011 (c. 21) , ss. 59(3) , 82(3) ; S.I. 2012/84 , art. 3
+[^F53]: Words in s. 8(4) substituted (1.2.2012) by Education Act 2011 (c. 21) , ss. 59(4) , 82(3) ; S.I. 2012/84 , art. 3
+[^F54]: Ss. 8A, 8B and cross-heading inserted (28.6.2022) by Skills and Post-16 Education Act 2022 (c. 21), ss. 31, 36(2)
+[^F55]: S. 9 substituted (1.2.2012) by Education Act 2011 (c. 21), ss. 60(1), 82(3); S.I. 2012/84, art. 3
+[^F56]: Words in s. 9(1) inserted (12.4.2026) by Secure 16 to 19 Academies Act 2026 (c. 5), ss. 1(3), 2(2)
+[^F57]: S. 10 substituted (1.2.2012) by Education Act 2011 (c. 21), ss. 60(2), 82(3); S.I. 2012/84, art. 3
+[^F58]: Words in s. 10(1)(a) omitted (1.9.2026) by virtue of Children’s Wellbeing and Schools Act 2026 (c. 21), ss. 65(5), 78(5) (with s. 69(2)); S.I. 2026/803, reg. 5(c)
+[^F59]: S. 10(2A)(2B) inserted (12.4.2026) by Secure 16 to 19 Academies Act 2026 (c. 5), ss. 1(4)(a), 2(2)
+[^F60]: Words in s. 10(3) substituted (12.4.2026) by Secure 16 to 19 Academies Act 2026 (c. 5), ss. 1(4)(b), 2(2)
+[^F61]: S. 10A inserted (15.1.2012) by Education Act 2011 (c. 21), ss. 61, 82(2)(e)
+[^F62]: Words in s. 10A(1)(a) substituted (1.4.2012) by Education Act 2011 (c. 21), s. 82(3), Sch. 13 para. 4; S.I. 2012/924, art. 2
+[^F63]: Words in s. 12 heading inserted (1.2.2012) by Education Act 2011 (c. 21), s. 82(3), Sch. 14 para. 20(3); S.I. 2012/84, art. 3 (with art. 5)
+[^F64]: S. 12(1A)-(1B) inserted (1.2.2012) by Education Act 2011 (c. 21), s. 82(3), Sch. 14 para. 20(2); S.I. 2012/84, art. 3 (with art. 5)
+[^F65]: S. 12(4) repealed (14.3.2012) by Charities Act 2011 (c. 25), s. 355, Sch. 10 (with s. 20(2), Sch. 8)
+[^F66]: S. 12(5)(6) inserted (28.4.2022) by Police, Crime, Sentencing and Courts Act 2022 (c. 32), ss. 164(2), 208(4)(t)
+[^F67]: Words in s. 17(2) inserted (1.4.2012) by Education Act 2011 (c. 21), ss. 57(5), 82(3); S.I. 2012/924, art. 2
+[^F68]: Sch. 1 substituted (1.2.2012) by Education Act 2011 (c. 21), s. 82(3), Sch. 14 para. 1; S.I. 2012/84, art. 3 (with art. 5)
+[^F69]: Words in Sch. 1 para. 10(1)(b) substituted (1.4.2012) by Education Act 2011 (c. 21), s. 82(3), Sch. 13 para. 5(2)(a); S.I. 2012/924, art. 2
+[^F70]: Words in Sch. 1 para. 10(3)(c) substituted (1.4.2012) by Education Act 2011 (c. 21), s. 82(3), Sch. 13 para. 5(2)(b); S.I. 2012/924, art. 2
+[^F71]: Words in Sch. 1 para. 13(3)(b) substituted (1.4.2012) by Education Act 2011 (c. 21), s. 82(3), Sch. 13 para. 5(3); S.I. 2012/924, art. 2
+[^F72]: Sch. 2 para. 22 omitted (1.2.2012) by virtue of Education Act 2011 (c. 21), s. 82(3), Sch. 11 para. 11; S.I. 2012/84, art. 3 (with art. 4)

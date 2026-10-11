@@ -1,0 +1,1249 @@
+---
+title: "Commissioner for Older People (Wales) Act 2006"
+identifier: "ukpga/2006/30"
+citation: "2006 c. 30"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+N.I."
+date: 2005-07-25
+last_amended: 2026-09-30
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/2006/30"
+source_modified: 2026-10-02
+retrieved: 2026-10-11
+---
+
+# Commissioner for Older People (Wales) Act 2006
+
+**2006 c. 30**
+
+An Act to establish and make provision about the office of Commissioner for Older People in Wales; to make provision about the functions of the Commissioner for Older People in Wales; and for connected purposes.
+
+[25th July 2005]
+
+Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## Establishment
+
+### 1 The Commissioner for Older People in Wales
+
+(1) There is to be a Commissioner for Older People in Wales or Comisiynydd Pobl Hŷn Cymru (in this Act referred to as “the Commissioner”).
+
+(2) Schedule 1 makes further provision about the Commissioner.
+
+## Functions
+
+### 2 General functions
+
+(1) The Commissioner may—
+
+(a) promote awareness of the interests of older people in Wales and of the need to safeguard those interests;
+
+(b) promote the provision of opportunities for, and the elimination of discrimination against, older people in Wales;
+
+(c) encourage best practice in the treatment of older people in Wales;
+
+(d) keep under review the adequacy and effectiveness of law affecting the interests of older people in Wales.
+
+(2) The powers conferred by subsection (1) are exercisable only in relation to fields in which [[^F1]functions are exercisable by the Welsh Ministers, the First Minister for Wales or the Counsel General to the Welsh Assembly Government][^F1].
+
+(3) The Commissioner may consider, and make representations to the [[^F2]Welsh Ministers, the First Minister for Wales or the Counsel General to the Welsh Assembly Government][^F2] about, any matter relating to the interests of older people in Wales.
+
+### 3 Review of discharge of functions
+
+(1) For the purpose of safeguarding and promoting the interests of older people in Wales, the Commissioner may review the effect on them of—
+
+(a) the discharge or proposed discharge of a function of the [[^F3]Welsh Ministers, the First Minister for Wales or the Counsel General to the Welsh Assembly Government][^F3], including the making or proposed making of subordinate legislation;
+
+(b) a failure by the [[^F3]Welsh Ministers, the First Minister for Wales or the Counsel General to the Welsh Assembly Government][^F3] to discharge a function;
+
+(c) the discharge or proposed discharge in relation to Wales of a relevant function of a person mentioned in Schedule 2;
+
+(d) a failure by such a person to discharge a relevant function in relation to Wales.
+
+(2) A relevant function is—
+
+(a) in the case of a person who is a family health service provider in Wales, a function dischargeable in relation to the provision of any of the family health services which the person has entered into a contract, undertaken, or made arrangements, to provide;
+
+(b) in the case of a person who is an independent provider in Wales, a function dischargeable in relation to the provision of any of the independently provided services which the person has made arrangements to provide;
+
+(c) in the case of any other person mentioned in Schedule 2, any function of the person.
+
+(3) “Subordinate legislation” has the same meaning as in the Interpretation Act 1978 (c. 30).
+
+(4) The references in subsection (1) to the discharge of a function, or a failure to do so, include the discharge of a function, or a failure to do so, at a time before this section comes into force.
+
+### 4 Power to amend Schedule 2
+
+(1) The [[^F4]Welsh Ministers][^F4] may by order amend Schedule 2 by—
+
+(a) adding a person;
+
+(b) omitting a person;
+
+(c) changing the description of a person.
+
+(2) An order under subsection (1) may add a person to Schedule 2 only if—
+
+(a) the person has functions dischargeable in relation to Wales,
+
+(b) some or all of the person's functions are in a field in which [[^F5]functions are exercisable by the Welsh Ministers, the First Minister for Wales or the Counsel General to the Welsh Assembly Government][^F5],
+
+(c) the person is established by or under an enactment or by virtue of Her Majesty's prerogative or in any other way by a Minister of the Crown, a government department, the [[^F6]Welsh Ministers, the First Minister for Wales, the Counsel General to the Welsh Assembly Government][^F6] or another person mentioned in Schedule 2, and
+
+(d) at least half of the person's expenditure on the discharge of its functions in relation to Wales is met directly from payments made by the [[^F7]Welsh Ministers][^F7].
+
+(3) But an order under subsection (1) may add a person to Schedule 2 even if the person does not satisfy the condition in subsection (2)(d), if the Secretary of State consents.
+
+(4) An order under subsection (1) may not add to Schedule 2 a person whose sole or main activity is—
+
+(a) the investigation of complaints by members of the public about the actions of any person, or
+
+(b) the supervision or review of, or of steps taken following, such an investigation.
+
+(5) An order under subsection (1) must make provision about which of the functions of a person mentioned in Schedule 2 and specified in the order are to be relevant functions for the purposes of section 3.
+
+(6) The provision that may be made by virtue of subsection (5) includes provision amending section 3.
+
+(7) But a function may be specified as a relevant function by virtue of subsection (5) only if it is in a field in which [[^F8]functions are exercisable by the Welsh Ministers, the First Minister for Wales or the Counsel General to the Welsh Assembly Government][^F8].
+
+### 5 Review of arrangements
+
+(1) The Commissioner may review—
+
+(a) any arrangements mentioned in subsection (2), and
+
+(b) the operation of any such arrangements,
+
+for the purpose of ascertaining whether, and to what extent, the arrangements are effective in safeguarding and promoting the interests of relevant older people in Wales.
+
+(2) The arrangements are—
+
+(a) advocacy arrangements;
+
+(b) complaints arrangements;
+
+(c) whistle-blowing arrangements.
+
+(3) The Commissioner may also assess the effect on relevant older people in Wales of a person's failure to make any such arrangements.
+
+(4) Advocacy arrangements are arrangements made by a person for making persons available—
+
+(a) to represent the views and wishes of relevant older people in Wales;
+
+(b) to provide relevant older people in Wales with advice and support of a prescribed kind.
+
+(5) Complaints arrangements are arrangements made by a person falling within section 6(3) for dealing with complaints or representations which are made—
+
+(a) by or on behalf of a relevant older person in Wales, and
+
+(b) in respect of relevant services provided to relevant older people in Wales by or on behalf of the person who has made the arrangements.
+
+(6) Whistle-blowing arrangements are arrangements made by a person falling within section 6(3) for ensuring that proper action is taken in response to a disclosure of potentially adverse information.
+
+(7) Information is potentially adverse if it may tend to show that, in the course of, or in connection with, the provision of relevant services, any of the following has occurred—
+
+(a) a criminal offence has been committed;
+
+(b) a person has failed to comply with a legal obligation to which he is subject;
+
+(c) the health or safety of a person has been endangered;
+
+(d) the dignity of a person has been violated;
+
+(e) information tending to show a matter falling within any of paragraphs (a) to (d) has been deliberately concealed.
+
+### 6 Review of arrangements: supplementary
+
+(1) This section applies for the purposes of section 5.
+
+(2) Relevant older people in Wales are older people—
+
+(a) to or in respect of whom regulated services in Wales are provided, or
+
+(b) to or in respect of whom relevant services (within the meaning of subsection (4)) are provided by or on behalf of, or under arrangements with, a person mentioned in Schedule 3.
+
+(3) The persons falling within this subsection are—
+
+(a) the [[^F9]Welsh Ministers][^F9];
+
+[[^F10](aa) the First Minister for Wales;
+
+(ab) the Counsel General to the Welsh Assembly Government;]
+
+[^F10]b a person providing regulated services in Wales;
+
+(c) a person mentioned in Schedule 3;
+
+(d) a person providing services in Wales on behalf of, or under arrangements with, a person mentioned in Schedule 3.
+
+(4) A relevant service is—
+
+[[^F11](a) in the case of the Welsh Ministers, the First Minister for Wales or the Counsel General to the Welsh Assembly Government, any service which they provide;]
+
+[^F11]b in the case of a person providing regulated services in Wales, any of those services;
+
+(c) in the case of a person who is a family health service provider in Wales, any of the family health services which the person provides;
+
+(d) in the case of a person who is an independent provider in Wales, any of the independently provided services which the person provides;
+
+(e) in the case of any other person mentioned in Schedule 3, any service the person provides;
+
+(f) in the case of a person falling within subsection (3)(d), any service which—
+
+(i) the person provides in Wales on behalf of, or under arrangements with, a person mentioned in Schedule 3; and
+
+(ii) would, if provided by the person mentioned in Schedule 3, be a relevant service falling within paragraphs (c) to (e).
+
+(5) Regulations may confer power on the Commissioner to require prescribed persons to provide any information which the Commissioner thinks it necessary or expedient to have for either or both of the following purposes—
+
+(a) the purposes of his functions under section 5;
+
+(b) the purposes of determining whether a recommendation made in a report following the discharge of his functions under section 5 has been complied with.
+
+### 7 Power to amend Schedule 3
+
+(1) The [[^F12]Welsh Ministers][^F12] may by order amend Schedule 3 by—
+
+(a) adding a person;
+
+(b) omitting a person;
+
+(c) changing the description of a person.
+
+(2) An order under subsection (1) may add a person to Schedule 3 only if—
+
+(a) the person provides a service in Wales,
+
+(b) the service is in a field in which [[^F13]functions are exercisable by the Welsh Ministers, the First Minister for Wales or the Counsel General to the Welsh Assembly Government][^F13],
+
+(c) the person is established by or under an enactment or by virtue of Her Majesty's prerogative or in any other way by a Minister of the Crown, a government department, the [[^F14]Welsh Ministers, the First Minister for Wales, the Counsel General to the Welsh Assembly Government][^F14] or another person mentioned in Schedule 3, and
+
+(d) at least half of the person's expenditure on the discharge of its functions in relation to Wales is met directly from payments made by the [[^F15]Welsh Ministers][^F15].
+
+(3) But an order under subsection (1) may add a person to Schedule 3 even if the person does not satisfy the condition in subsection (2)(d), if the Secretary of State consents.
+
+(4) An order under subsection (1) may not add to Schedule 3 a person whose sole or main activity is—
+
+(a) the investigation of complaints by members of the public about the actions of any person, or
+
+(b) the supervision or review of, or of steps taken following, such an investigation.
+
+(5) An order under subsection (1) must make provision about which of the services provided by a person mentioned in Schedule 3 and specified in the order are to be relevant services for the purposes of section 5.
+
+(6) The provision that may be made by virtue of subsection (5) includes provision amending section 6.
+
+(7) But a service may be specified as a relevant service by virtue of subsection (5) only if—
+
+(a) the person provides the service in Wales, and
+
+(b) the service is in a field in which [[^F16]functions are exercisable by the Welsh Ministers, the First Minister for Wales or the Counsel General to the Welsh Assembly Government][^F16].
+
+### 8 Assistance
+
+(1) Regulations may confer power on the Commissioner to give assistance to a person who is or has been an older person in Wales—
+
+(a) in making a complaint or representation to or in respect of the [[^F17]Welsh Ministers, the First Minister for Wales or the Counsel General to the Welsh Assembly Government][^F17];
+
+(b) in making a complaint or representation to or in respect of a person providing regulated services in Wales, in respect of the provision of those services;
+
+(c) in making a complaint or representation to or in respect of a person mentioned in Schedule 3, in relation to anything done or omitted to be done by that person the effect of which is subject to review under section 3;
+
+(d) in making a complaint or representation to or in respect of a person providing services on behalf of or under arrangements with a person mentioned in Schedule 3, in respect of the provision of a relevant service;
+
+(e) in any procedure, proceedings or prospective proceedings of a prescribed description.
+
+(2) The reference in subsection (1) to a person who has been an older person in Wales includes a person who has ceased to be an older person in Wales before this section comes into force.
+
+(3) A description of procedure or proceedings may be prescribed by virtue of subsection (1)(e) only if it relates to—
+
+(a) anything the effect of which is subject to review under section 3,
+
+(b) the provision of regulated services in Wales, or
+
+(c) the provision of a relevant service on behalf of, or under arrangements with, a person mentioned in Schedule 3.
+
+(4) Assistance includes—
+
+(a) financial assistance;
+
+(b) arranging for a person to provide representation or give advice or assistance.
+
+(5) The regulations may provide for assistance to be given on conditions including (in the case of financial assistance) conditions requiring repayment in prescribed circumstances.
+
+(6) In subsections (1)(d) and (3)(c) “relevant service” means a service which is a relevant service for the purposes of section 5 by virtue of section 6(4)(f).
+
+### 9 Research and educational activities
+
+(1) The Commissioner may, in connection with any of his functions—
+
+(a) undertake or commission research;
+
+(b) give assistance to another to undertake or commission research;
+
+(c) carry out or commission the carrying out of educational activities;
+
+(d) give assistance to another to carry out or commission the carrying out of educational activities.
+
+(2) In this section “assistance” includes financial assistance.
+
+### 10 Examination of cases
+
+(1) Regulations may make provision for the examination by the Commissioner of the cases of particular persons who are or have been older people in Wales, in connection with the Commissioner's functions under this Act.
+
+(2) The reference in subsection (1) to the Commissioner's functions under this Act does not include his powers under sections 2(3) and 9, to the extent that they are exercised in relation to a field in which [[^F18]neither the Welsh Minsters, the First Minister for Wales nor the Counsel General to the Welsh Assembly Government have functions.[^F18]]
+
+(3) The reference in subsection (1) to persons who have been older people in Wales includes people who have ceased to be older people in Wales before this section comes into force.
+
+(4) The regulations may include provision about—
+
+(a) the types of cases which may be examined;
+
+(b) the circumstances in which an examination may be made;
+
+(c) the procedure for conducting an examination, including provision about the representation of parties.
+
+(5) The regulations may make provision—
+
+(a) requiring persons to provide the Commissioner with information, or
+
+(b) requiring persons who hold or are accountable for information to provide the Commissioner with explanations or other assistance,
+
+for either or both the purposes mentioned in subsection (6).
+
+(6) The purposes are—
+
+(a) the purposes of an examination;
+
+(b) the purposes of determining whether a recommendation made in a report following an examination has been complied with.
+
+(7) For the purposes mentioned in subsection (6), the Commissioner has the same powers as the High Court in respect of—
+
+(a) the attendance and examination of witnesses (including the administration of oaths and affirmations and the examination of witnesses abroad), and
+
+(b) the provision of information.
+
+(8) No person is to be compelled for the purposes mentioned in subsection (6) to give any evidence or provide any information which he could not be compelled to give or provide in civil proceedings before the High Court.
+
+(9) The regulations may make provision for the payment by the Commissioner of sums in respect of expenses or allowances to persons who attend or provide information, explanations or other assistance for either of the purposes mentioned in subsection (6).
+
+### 11 Obstruction and contempt
+
+(1) If the Commissioner is satisfied that the condition in subsection (2) is met in relation to a person, he may issue a certificate to that effect to the High Court.
+
+(2) The condition is that the person—
+
+(a) without lawful excuse, has obstructed the Commissioner or a member of his staff in the discharge of any of his functions under regulations made under section 10,
+
+(b) without lawful excuse, has failed to comply with a requirement to provide information which was imposed in the exercise of a power conferred by regulations made under section 6(5) or 10(5), or
+
+(c) has done an act or made an omission in relation to an examination under regulations made under section 10 which, if the examination were proceedings in the High Court, would constitute contempt of court.
+
+(3) If the Commissioner issues a certificate under subsection (1)—
+
+(a) the High Court may inquire into the matter, and
+
+(b) if the High Court is satisfied that the condition in subsection (2) is met in relation to the person, it may deal with him in any manner in which it could have dealt with him if he had committed contempt in relation to the High Court.
+
+### 12 Guidance
+
+(1) The Commissioner may issue guidance on best practice in connection with any matter relating to the interests of older people in Wales.
+
+(2) Guidance under subsection (1) may be issued to—
+
+(a) the [[^F19]Welsh Ministers, the First Minister for Wales or the Counsel General to the Welsh Assembly Government][^F19];
+
+(b) persons mentioned in Schedule 2;
+
+(c) persons providing regulated services in Wales.
+
+(3) Before issuing guidance under subsection (1) the Commissioner must consult such persons as he thinks appropriate.
+
+(4) Where guidance issued under this section is applicable to a person mentioned in subsection (2), that person must have regard to the guidance in discharging his functions.
+
+(5) In discharging his functions in respect of a person mentioned in subsection (2), the Commissioner may have regard to the extent to which the person has complied with any guidance issued under this section which is applicable to that person.
+
+### 13 Power of entry and of interviewing
+
+(1) The Commissioner or a person authorised by him may, for the purposes of a function of the Commissioner under section 3 or 5—
+
+(a) enter any premises, other than a private dwelling, for the purpose of interviewing an older person accommodated or cared for there;
+
+(b) interview the older person, if the older person consents.
+
+(2) The interview must be conducted—
+
+(a) if the older person requires another person to be present, in that other person's presence; and
+
+(b) otherwise in the presence of others only to the extent that the older person and the Commissioner have consented to their being present.
+
+(3) The powers conferred by subsection (1) are exercisable at any reasonable time.
+
+### 14 Further supplementary functions
+
+(1) Regulations may, for any purpose connected with the Commissioner's functions, confer further functions on him.
+
+(2) The reference in subsection (1) to the Commissioner's functions does not include—
+
+(a) his powers under sections 2(3) and 9, to the extent that they are exercised in a field in which [[^F20]neither the Welsh Minsters, the First Minister for Wales nor the Counsel General to the Welsh Assembly Government have functions;[^F20]]
+
+(b) his powers under section 13.
+
+(3) Regulations under subsection (1) may, for the purposes of a function conferred on the Commissioner by the regulations, confer power on the Commissioner or a person authorised by him—
+
+(a) to enter any premises, other than a private dwelling, for the purpose of interviewing an older person accommodated or cared for there;
+
+(b) to interview the older person, if the older person consents.
+
+(4) Where regulations under subsection (1) confer power to interview an older person, the interview must be conducted—
+
+(a) if the older person requires another person to be present, in that other person's presence; and
+
+(b) otherwise in the presence of others only to the extent that the older person and the Commissioner have consented to their being present.
+
+### 15 Reports following discharge of particular functions
+
+(1) Regulations may make provision about the making by the Commissioner of reports following the discharge of any of his functions.
+
+(2) The reference in subsection (1) to the Commissioner's functions does not include his powers under sections 2(3) and 9, to the extent that they are exercised in a field in which [[^F21]neither the Welsh Minsters, the First Minister for Wales nor the Counsel General to the Welsh Assembly Government have functions.][^F21]
+
+(3) The regulations may in particular—
+
+(a) specify the contents of a report and the persons to whom copies of a report must be sent;
+
+(b) provide that the Commissioner may make a joint report with the Children's Commissioner for Wales where they have discharged their respective functions under this Act and the Care Standards Act 2000 (c. 14) in relation to the same matters;
+
+(c) make provision about the publication of a report;
+
+(d) specify any further action which the Commissioner is required or permitted to take after making a report.
+
+[[^F22](e) provide that the Commissioner may make a joint report with the Welsh Language Commissioner where they have discharged their respective functions under this Act and the Welsh Language (Wales) Measure 2011 in relation to the same matters.]
+
+(4) Subject to subsection (5), a report made by the Commissioner under the regulations must not—
+
+(a) mention the name of any person, or
+
+(b) include any particulars which, in the opinion of the Commissioner, are likely to identify any person and which, in his opinion, can be omitted without impairing the effectiveness of the report.
+
+(5) Subsection (4) does not apply if, after taking account of the interests of any persons he thinks appropriate, the Commissioner considers it to be in the public interest to include that information in the report.
+
+## Working with other ombudsmen
+
+### 16 Working jointly with the Public Services Ombudsman for Wales
+
+(1) This section applies where it appears to the Commissioner that—
+
+(a) he is entitled to examine a particular case under regulations made under section 10; and
+
+(b) the case is one which could also be the subject of an investigation by the Public Services Ombudsman for Wales.
+
+(2) Where the Commissioner considers it appropriate, he must—
+
+(a) inform the Ombudsman about the case; and
+
+(b) consult him in relation to it.
+
+(3) Where the Commissioner consults the Ombudsman under this section he and the Ombudsman may—
+
+(a) co-operate with each other in relation to the case;
+
+(b) conduct a joint examination of the case;
+
+(c) prepare and publish a joint report in relation to the examination.
+
+(4) The [[^F23]Welsh Ministers][^F23] may by order provide that this section is also to apply where it appears to the Commissioner that a case could be the subject of an investigation by a person who is specified in the order as if references in this section to the Public Services Ombudsman for Wales were references to that person.
+
+(5) Before making an order under subsection (4), the [[^F24]Welsh Ministers][^F24] must consult the Commissioner and any other persons [[^F25]they think][^F25] appropriate.
+
+### 17 Working collaboratively with other ombudsmen
+
+(1) This section applies where it appears to the Commissioner that a case which he is—
+
+(a) examining in accordance with regulations made under section 10, or
+
+(b) considering whether to examine in accordance with such regulations,
+
+relates to or raises a matter which could be the subject of an investigation by another ombudsman (the “connected matter”).
+
+(2) Where the Commissioner considers it appropriate, he [[^F26]may (as respects the Welsh Language Commissioner) or must (as respects another Ombudsman) ] inform the other ombudsman about the connected matter.
+
+(3) Where the Commissioner considers that the case also relates to or raises a matter which he is entitled to examine himself (the “older people matter”), he [[^F27]may (as respects the Welsh Language Commissioner) or must (as respects another Ombudsman)] also if he considers it appropriate—
+
+(a) inform the other ombudsman about the Commissioner's proposals for the investigation of the case; and
+
+(b) consult the other ombudsman about those proposals.
+
+(4) Where the Commissioner and the other ombudsman consider that they are entitled to investigate, respectively, the older people matter and the connected matter they may—
+
+(a) co-operate with each other in the separate investigation of each of those matters;
+
+(b) act together in the investigation of those matters; and
+
+(c) prepare and publish a joint report containing their respective conclusions in relation to the matters they have each investigated.
+
+(5) Where the Commissioner considers—
+
+(a) that the case is not one which relates to or raises a matter that he is entitled to examine himself, and
+
+(b) that it is appropriate to do so,
+
+he [[^F28]may (as respects the Welsh Language Commissioner) or must (as respects another Ombudsman)] inform the person whose case it is, or another person interested in it that he thinks fit, about how to secure the referral of the connected matter to the other ombudsman.
+
+(6) In this section “other ombudsman” means—
+
+(a) the Public Services Ombudsman for Wales;
+
+(b) the Children's Commissioner for Wales.
+
+[[^F29](c) the Welsh Language Commissioner.]
+
+(7) In this section “investigation” includes examination and inquiry, and cognate expressions are to be construed accordingly.
+
+(8) The [[^F30]Welsh Ministers][^F30] may by order amend subsection (6) by—
+
+(a) adding a person;
+
+(b) omitting a person;
+
+(c) changing the description of a person.
+
+(9) Before making an order under subsection (8), the [[^F31]Welsh Ministers][^F31] must consult the Commissioner and any other persons [[^F32]they think][^F32] appropriate.
+
+## Disclosure of information etc.
+
+### 18 Power to disclose information
+
+(1) This section applies to—
+
+(a) information obtained by the Commissioner in the discharge of any of his functions;
+
+(b) information obtained by the Commissioner from the Public Services Ombudsman for Wales by virtue of section [[^F33]34V] of the Public Services Ombudsman (Wales) Act 2005 (c. 10) (working jointly with the Commissioner for Older People in Wales) [[^F34]or section 66 of the Public Services Ombudsman (Wales) Act 2019 (working jointly with specified persons) ];
+
+(c) information obtained by the Commissioner from another ombudsman by virtue of any provision in an enactment relating to that ombudsman which corresponds to any provision of section 17;
+
+(d) information obtained by the Commissioner from the [[^F35]Information Commission] by virtue of section 76 of the Freedom of Information Act 2000 (c. 36) (disclosure between [[^F35]Information Commission] and ombudsmen).
+
+(2) Information to which this section applies must not be disclosed except where its disclosure is authorised by subsection (3).
+
+(3) The Commissioner may disclose information to which this section applies—
+
+(a) for the purpose of the discharge of any of his functions;
+
+(b) if he is satisfied that the condition in subsection (4) is met and the disclosure is to a permitted person;
+
+(c) for the purpose of proceedings for an offence of perjury alleged to have been committed in the course of an examination by the Commissioner under regulations made under section 10;
+
+(d) for the purpose of an inquiry with a view to the taking of proceedings mentioned in paragraph (c);
+
+(e) for the purpose of proceedings under section 11;
+
+(f) if the information is to the effect that a person is likely to constitute a threat to the health or safety of one or more persons and the disclosure is to a person to whom the Commissioner thinks it should be disclosed in the public interest;
+
+(g) if the information is information to which subsection (6) applies and the disclosure is to the [[^F36]Information Commission];
+
+(h) if the information was obtained by the Commissioner more than 70 years before the date of the disclosure and the disclosure is to a person to whom the Commissioner thinks it should be disclosed in the public interest.
+
+(4) The condition is that the disclosure is—
+
+(a) appropriate for the purpose of the discharge by the permitted person of any of his functions; and
+
+(b) in the public interest.
+
+(5) In determining for the purpose of this section whether disclosure of information is in the public interest, the Commissioner must take into account the interests of—
+
+(a) any person to whom the information relates; and
+
+(b) such other persons he thinks appropriate.
+
+(6) This subsection applies to information if it appears to the Commissioner to relate to—
+
+(a) a matter in respect of which the [[^F37]Information Commission] could exercise a power conferred by an enactment mentioned in subsection (7); or
+
+(b) the commission of an offence mentioned in subsection (8).
+
+(7) The enactments are—
+
+[[^F38](a) sections 142 to 154, 160 to 164 or 174 to 176 of, or Schedule 15 to, the Data Protection Act 2018 (certain provisions relating to enforcement);]
+
+(b) section 48 of the Freedom of Information Act 2000 (c. 36) (practice recommendations); and
+
+(c) Part 4 of that Act (enforcement).
+
+[[^F39](8) The offences are those under—
+
+(a) a provision of the Data Protection Act 2018 other than paragraph 15 of Schedule 15 (obstruction of execution of warrant etc); or
+
+(b) section 77 of the Freedom of Information Act 2000 (offence of altering etc records with intent to prevent disclosure).]
+
+(9) In this section—
+
+- “other ombudsman” has the same meaning as in section 17;
+
+- “permitted person” means—
+
+  - (a) the [[^F40]Welsh Ministers];
+  - (aa) [[^F41]the First Minister for Wales;
+  - (ab) the Counsel General to the Welsh Assembly Government;]
+  - (b) the Public Services Ombudsman for Wales;
+  - (c) the Children's Commissioner for Wales;
+  - (d) the Children's Commissioner;
+  - (e) the Commissioner for Children and Young People for Northern Ireland;
+  - (f) a housing ombudsman appointed in accordance with a scheme approved under section 51 of the Housing Act 1996 (c. 52);
+  - (g) a council for a county or county borough in Wales;
+  - (h) a council for a county or district in England;
+  - (i) a council for a London borough;
+  - (j) a chief of police of a police force for a police area;
+  - (k) the chief constable of the British Transport Police Force.
+
+(10) The [[^F42]Welsh Ministers] may by order amend the definition of “permitted person” in subsection (9) by—
+
+(a) adding a person;
+
+(b) omitting a person;
+
+(c) changing a description of a person.
+
+### 19 Protection against defamation
+
+(1) For the purposes of the law of defamation, the following are absolutely privileged—
+
+(a) the publication of a matter by the Commissioner in a report made under regulations made under section 15 or paragraph 8 of Schedule 1;
+
+(b) the publication in communications between the Commissioner and the Public Services Ombudsman for Wales or another ombudsman of a matter which the Commissioner is permitted to disclose to that ombudsman by virtue of subsection (3)(a) of section 18;
+
+(c) the publication in communications from the Commissioner to a person mentioned in subsection (3) of a matter in connection with an examination by the Commissioner into a case under regulations made under section 10.
+
+(2) For the purposes of the law of defamation, the publication in communications from a person mentioned in subsection (3) to the Commissioner of a matter in connection with an examination by the Commissioner into a case under regulations made under section 10 has qualified privilege.
+
+(3) The persons referred to in subsections (1)(c) and (2) are—
+
+(a) the person whose case is being examined;
+
+(b) a person whose conduct is the subject of the examination;
+
+(c) a person with whom the Commissioner is communicating for the purpose of obtaining information about the case; and
+
+(d) a person acting on behalf of a person falling within paragraphs (a) to (c).
+
+(4) In this section “other ombudsman” has the same meaning as in section 17.
+
+## Complaints procedure
+
+### 20 Complaints procedure in respect of the Commissioner
+
+(1) The Commissioner must establish a procedure for the investigation of complaints made in respect of his actions or omissions relating to the discharge of his functions.
+
+(2) The procedure established under subsection (1) must include provision about—
+
+(a) how a complaint may be made;
+
+(b) the person to whom a complaint may be made;
+
+(c) the period within which consideration of a complaint must begin and should be concluded; and
+
+(d) action that the Commissioner must consider taking in response to a complaint.
+
+(3) The Commissioner may amend the procedure established under subsection (1) from time to time.
+
+(4) Before establishing or amending the procedure under subsection (1) the Commissioner must consult the [[^F43]Welsh Ministers][^F43] and obtain [[^F44]their][^F44] approval.
+
+(5) After establishing or amending the procedure under subsection (1) the Commissioner must send a document setting out the procedure to the [[^F45]Welsh Ministers][^F45].
+
+## General
+
+### 21 Restrictions
+
+(1) This Act does not authorise or require the Commissioner to discharge a function in relation to a matter to the extent that the matter is the subject of legal proceedings before, or has been determined by, a court or tribunal.
+
+(2) This Act does not authorise or require the Commissioner to discharge a prescribed function which by virtue of an enactment is also dischargeable by a prescribed person.
+
+### 22 Minor and consequential amendments
+
+Schedule 4 (which makes minor and consequential amendments relating to other ombudsman with whom the Commissioner may work) has effect.
+
+### 23 Commencement
+
+The preceding provisions of this Act come into force in accordance with provision made by the Assembly by order.
+
+### 24 Older people in Wales
+
+(1) This section applies for the purposes of this Act.
+
+(2) “Older person” means a person aged 60 or over.
+
+(3) “Older person in Wales” means an older person—
+
+(a) who is ordinarily resident in Wales,
+
+(b) to or in respect of whom regulated services in Wales are provided, or
+
+(c) to or in respect of whom relevant services (within the meaning of section 6(4)) are provided by or on behalf of, or under arrangements with, a person mentioned in Schedule 3.
+
+### 25 Interests of older people in Wales
+
+In considering, for the purposes of this Act, what constitutes the interests of older people in Wales, the Commissioner must have regard to the United Nations Principles for Older Persons adopted by the General Assembly of the United Nations on 16 December 1991.
+
+### 26 Regulated services in Wales
+
+(1) This section applies for the purposes of this Act.
+
+[[^F46](2) “Regulated services in Wales” means—
+
+(a) regulated services within the meaning of section 2 of the Regulation and Inspection of Social Care (Wales) Act 2016 (anaw 2);
+
+(b) services provided in Wales by an establishment or agency required to register under Part 2 of the Care Standards Act 2000 (c. 14) to provide the service.]
+
+[^F47]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F48]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 27 Other interpretative provisions
+
+(1) In this Act—
+
+- “the Assembly” means the National Assembly for Wales;
+
+- [^F49]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+- “the Commissioner” has the meaning given by section 1;
+
+- “enactment” includes an enactment contained in an Act passed in the Session in which this Act is passed or in a later Session;
+
+- “family health service provider in Wales” means—
+
+  - (a) a person who provides services under a contract entered into by that person with a Local Health Board under [[^F50]section 42 or 57 of the National Health Service (Wales) Act 2006][^F50] (c. 49);
+  - (b) a person who has undertaken to provide in Wales [[^F51]general ophthalmic services [[^F52], or both general ophthalmic services and other ophthalmic services in accordance with arrangements made with a Local Health Board,] under [^F53]... that Act, or pharmaceutical services under Chapter 1 of Part 7][^F51] of that Act;
+  - (c) an individual who provides in Wales [[^F54]primary medical services or primary dental services in accordance with arrangements made under section 50 or 64 of that Act][^F54](except as an employee of, or otherwise on behalf of, a Welsh health service body or an independent provider in Wales);
+  - (d) [^F55]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+- “family health services” means services provided in Wales which are mentioned in any of paragraphs (a) to (d) of the definition of “family health service provider in Wales”;
+
+- “further education” has the meaning given in section 2(3) to (5) of the Education Act 1996 (c. 56);
+
+- “further education corporation” has the meaning given in section 17(1) of the Further and Higher Education Act 1992 (c. 13);
+
+- “higher education corporation” has the meaning given in section 90(1) of the Further and Higher Education Act 1992;
+
+- “independent provider in Wales” means a person who—
+
+  - (a) provides services of any kind in Wales under arrangements with a Welsh health service body or a family health service provider in Wales, and
+  - (b) is not a Welsh health service body or a family health service provider in Wales;
+
+- “independently provided services” means services provided in Wales which are mentioned in paragraph (a) of the definition of “independent provider in Wales”;
+
+- “maintained school” has the meaning given in section 20(7) of the School Standards and Framework Act 1998 (c. 31);
+
+- “NHS trust” has the same meaning as in the [[^F56]National Health Service (Wales) Act 2006][^F56](c. 49);
+
+- “prescribed” means prescribed in regulations;
+
+- “regulations” means regulations made by the [[^F57]Welsh Ministers][^F57];
+
+- “Welsh health service body” means—
+
+  - (a) the [[^F58]Welsh Ministers][^F58], to the extent that [[^F59]they discharge][^F59] functions in relation to the National Health Service;
+  - (b) a Local Health Board;
+  - (c) an NHS trust managing a hospital or other establishment or facility in Wales;
+  - (d) a Special Health Authority discharging functions in relation to Wales.
+
+(2) The [[^F60]Welsh Ministers][^F60] may by order amend the definitions of “family health service provider in Wales” and “independent provider in Wales”.
+
+(3) Before making an order under subsection (2), the [[^F61]Welsh Ministers][^F61] must consult such persons as [[^F62]they think][^F62] appropriate.
+
+(4) Section 13 of the National Audit Act 1983 (c. 44) (interpretation of references to the Committee of Public Accounts) applies for the purposes of this Act as it applies for the purposes of that Act.
+
+### 28 Orders and regulations
+
+(1) A power of the [[^F63]Welsh Ministers][^F63] to make an order or regulations under this Act is exercisable by statutory instrument.
+
+(2) An order or regulations made by the [[^F64]Welsh Ministers][^F64] under this Act may—
+
+(a) make different provision for different purposes;
+
+(b) make consequential, incidental, supplemental, transitory, transitional or saving provision.
+
+(3) The power to make consequential, incidental and supplemental provision in connection with—
+
+(a) an order under section 16(4) specifying a person for the purposes of that section or providing for a person to cease to be specified for those purposes, or
+
+(b) an order under section 17(8) adding a person to the list of other ombudsman in that section or omitting a person from that list,
+
+includes power to make consequential, incidental and supplemental amendments or repeals in any enactment relating to that person or to his functions.
+
+(4) But the following consents are required for the making of an order by the [[^F65]Welsh Ministers][^F65] which (whether by virtue of subsection (3) or otherwise) confers functions on a person other than the Commissioner or modifies the functions of such a person—
+
+(a) if the functions relate wholly or partly to a transferred matter, the consent of a Northern Ireland department; and
+
+(b) if the functions relate wholly or partly to a matter which (without being a transferred matter) is a matter in respect of which [[^F66]neither the Welsh Ministers, the First Minister for Wales nor the Counsel General to the Welsh Assembly Government have functions][^F66], the consent of the Secretary of State.
+
+(5) In this section “transferred matter” means a transferred matter within the meaning of section 4(1) of the Northern Ireland Act 1998 (c. 47).
+
+(6) [^F67]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 29 Extent
+
+(1) Subject to subsections (2) and (3), this Act extends to England and Wales only.
+
+(2) Section 28 also extends to Northern Ireland.
+
+(3) An amendment or repeal made by this Act has the same extent as the provision amended or repealed.
+
+### 30 Short title
+
+This Act may be cited as the Commissioner for Older People (Wales) Act 2006.
+
+## SCHEDULE 1 — The Commissioner for Older People in Wales
+
+*Section 1*
+
+### Status
+
+**1** (1) The Commissioner is a corporation sole.
+
+(2) The Commissioner is not to be regarded as the servant or agent of the Crown or as enjoying any status, immunity or privilege of the Crown.
+
+(3) The Commissioner's property is not to be regarded as property of, or property held on behalf of, the Crown.
+
+### Appointment and term of office
+
+**2** Regulations may make provision—
+
+(a) as to the appointment of the Commissioner (including any conditions to be fulfilled for appointment);
+
+(b) as to the term of office of the Commissioner (including the circumstances in which he ceases to hold office or may be removed or suspended from office).
+
+### Remuneration etc
+
+**3** (1) The [[^F68]Welsh Ministers][^F68] must—
+
+(a) pay the Commissioner such remuneration and allowances, and
+
+(b) pay, or make provision for the payment of, such pensions or gratuities to or in respect of him,
+
+as may be provided for under the terms of his appointment.
+
+(2) The [[^F69]Welsh Ministers][^F69] must pay to or in respect of a person who has ceased to hold office as the Commissioner—
+
+(a) such amounts by way of pensions and gratuities, and
+
+(b) such amounts by way of provision for those benefits,
+
+as may have been provided for under the terms of his appointment.
+
+(3) If a person ceases to be the Commissioner and it appears to the [[^F70]Welsh Ministers][^F70] that there are special circumstances which make it right that the person should receive compensation, the [[^F70]Welsh Ministers][^F70] may pay to that person a sum of such amount as [[^F71]they think][^F71] appropriate.
+
+### Deputy Commissioner and other staff
+
+**4** (1) The Commissioner must appoint a deputy Commissioner.
+
+(2) The deputy Commissioner is a member of the Commissioner's staff.
+
+(3) The deputy Commissioner may discharge the functions of the Commissioner during a vacancy in the office of Commissioner or at any time when the Commissioner is for any reason unable to act.
+
+(4) At any time when the deputy Commissioner has power to act under sub-paragraph (3), any property or rights vested in the Commissioner may be dealt with by the deputy Commissioner as if vested in him.
+
+(5) The Commissioner may appoint such other staff as he thinks necessary for assisting him in the discharge of his functions.
+
+### Delegation
+
+**5** A function of the Commissioner may be discharged on his behalf by any person including any member of his staff, to the extent authorised by the Commissioner.
+
+### Superannuation Act 1972 (c. 11)
+
+**6** (1) In the Superannuation Act 1972 in Schedule 1 (kinds of employment to which section 1 of that Act applies)—
+
+(a) in the list of “Other Bodies”, at the end insert “ Employment as a member of staff of the Commissioner for Older People in Wales ”;
+
+(b) in the list of “Offices”, at the appropriate place insert “ Commissioner for Older People in Wales ”.
+
+(2) The [[^F72]Welsh Ministers][^F72] must pay to the Minister for the Civil Service, at such times as he may direct, such sums as he may determine in respect of any increase attributable to sub-paragraph (1) in the sums payable out of money provided by Parliament under the Superannuation Act 1972 (c. 11).
+
+### Payments by the [[^F73]Welsh Ministers][^F73]
+
+**7** The [[^F74]Welsh Ministers][^F74] may make payments to the Commissioner of such amounts, at such times and on such conditions (if any) as [[^F75]they think][^F75] appropriate.
+
+### Reports to the [[^F76]Welsh Ministers][^F76]
+
+**8** (1) Regulations may make provision about the making by the Commissioner of periodic or other reports to the [[^F77]Welsh Ministers][^F77] relating to the discharge of his functions.
+
+(2) The regulations may in particular—
+
+(a) specify the contents of a report and the persons to whom copies of a report must be sent;
+
+(b) make provision about the publication of a report.
+
+(3) Subject to sub-paragraph (4), a report made by the Commissioner under the regulations must not—
+
+(a) mention the name of any person, or
+
+(b) include any particulars which, in the opinion of the Commissioner, are likely to identify any person and which, in his opinion, can be omitted without impairing the effectiveness of the report.
+
+(4) Sub-paragraph (3) does not apply if, after taking account of the interests of any persons he thinks appropriate, the Commissioner considers it to be in the public interest to include that information in the report.
+
+### Estimates
+
+**9** (1) For each financial year other than the first, the Commissioner must prepare an estimate of the income and expenses of his office.
+
+(2) The Commissioner must submit the estimate to the [[^F78]Welsh Ministers][^F78] at least five months before the beginning of the financial year to which it relates.
+
+(3) The [[^F79]Welsh Ministers][^F79] must examine an estimate submitted to [[^F80]them][^F80] in accordance with sub-paragraph (2) and must then lay the estimate before the Assembly with any modifications [[^F81]they think][^F81] appropriate.
+
+### Accounts
+
+**10** (1) The Commissioner must—
+
+(a) keep proper accounting records, and
+
+(b) prepare accounts in respect of each financial year in accordance with directions given, with the consent of the Treasury, by the [[^F82]Welsh Ministers][^F82].
+
+(2) The directions which the [[^F83]Welsh Ministers][^F83] may give under sub-paragraph (1)(b) include, in particular, directions as to—
+
+(a) the information to be contained in the accounts and the manner in which it is to be presented;
+
+(b) the methods and principles in accordance with which the accounts are to be prepared;
+
+(c) the additional information (if any) that is to accompany the accounts.
+
+(3) A direction given by the [[^F84]Welsh Ministers][^F84] under sub-paragraph (1)(b) may be amended or revoked by a subsequent such direction.
+
+### Accounting officer
+
+**11** (1) The Commissioner is the accounting officer for the office of the Commissioner.
+
+(2) The accounting officer has, in relation to the accounts and the finances of the Commissioner, the responsibilities which are from time to time specified by the Treasury.
+
+(3) In this paragraph references to responsibilities include in particular—
+
+(a) responsibilities in relation to the signing of accounts,
+
+(b) responsibilities for the propriety and regularity of the finances of the Commissioner, and
+
+(c) responsibilities for the economy, efficiency and effectiveness with which the resources of the Commissioner are used.
+
+(4) The responsibilities which may be specified under this paragraph include responsibilities owed to—
+
+(a) the Assembly, the [[^F85]Welsh Ministers][^F85] or the Audit Committee, or
+
+(b) the House of Commons or its Committee of Public Accounts.
+
+(5) If requested to do so by the House of Commons Committee of Public Accounts, the Audit Committee may—
+
+(a) on behalf of the Committee of Public Accounts take evidence from the accounting officer, and
+
+(b) report to the Committee of Public Accounts and transmit to that Committee any evidence so taken.
+
+### Audit
+
+**12** (1) The accounts prepared by the Commissioner for a financial year must be submitted by him to the Auditor General for Wales no later than 30 November in the following financial year.
+
+(2) The Auditor General for Wales must—
+
+(a) examine, certify and report on each set of accounts submitted to him under this paragraph, and
+
+(b) no later than four months after the accounts are submitted to him, lay before the Assembly a copy of them as certified by him together with his report on them.
+
+(3) In examining accounts submitted to him under this paragraph, the Auditor General for Wales must, in particular, satisfy himself that the expenditure to which the accounts relate has been incurred lawfully and in accordance with the authority which governs it.
+
+### Examinations into the use of resources
+
+**13** (1) The Auditor General for Wales may carry out examinations into the economy, efficiency and effectiveness with which the Commissioner has used his resources in discharging his functions.
+
+(2) Sub-paragraph (1) is not to be construed as entitling the Auditor General for Wales to question the merits of the policy objectives of the Commissioner.
+
+(3) In determining how to discharge his functions under this paragraph, the Auditor General for Wales must take into account the views of the Audit Committee as to the examinations which he should carry out.
+
+(4) The Auditor General for Wales may lay before the Assembly a report of the results of any examination carried out by him under this paragraph.
+
+### Examinations by the Comptroller and Auditor General
+
+**[^F86]14** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Evidence
+
+**15** A document purporting to be duly executed under the seal of the Commissioner or to be signed by him or on his behalf is to be received in evidence and, unless the contrary is proved, taken to be so executed or signed.
+
+### Disqualifications
+
+**16** In the House of Commons Disqualification Act 1975 (c. 24) in Part 3 of Schedule 1 (certain disqualifying offices), at the appropriate places insert the following entries— “ Commissioner for Older People in Wales ”; “ Member of staff of the Commissioner for Older People in Wales ”.
+
+**17** In the Northern Ireland Assembly Disqualification Act 1975 (c. 25) in Part 3 of Schedule 1 (certain disqualifying offices), at the appropriate places insert the following entries— “ Commissioner for Older People in Wales ”; “ Member of staff of the Commissioner for Older People in Wales ”.
+
+### Welsh language scheme
+
+**18** In section 6(1) of the Welsh Language Act 1993 (c. 38) (public bodies for the purposes of Part 2 of that Act), after paragraph (n) insert—
+
+> (na) the Commissioner for Older People in Wales;
+
+.
+
+### Supplementary powers
+
+**19** (1) Subject to any directions given by the [[^F87]Welsh Ministers][^F87], the Commissioner may do anything (including acquire or dispose of any property or rights) which is calculated to facilitate, or is conducive or incidental to, the discharge of his functions.
+
+(2) A direction given by the [[^F88]Welsh Ministers][^F88] under sub-paragraph (1) may be amended or revoked by a subsequent such direction.
+
+### Miscellaneous
+
+**20** In section 144 of the Government of Wales Act 1998 (c. 38) (accounts, audit and reports), in subsection (8)(a), after “the Children's Commissioner for Wales,” insert “ the Commissioner for Older People in Wales, ”.
+
+**21** In the Freedom of Information Act 2000 (c. 36)—
+
+(a) in the table in section 76(1) (disclosure of information between Information Commissioner and ombudsmen), at the end insert—
+
+> |  |  |
+> |---|---|
+> | The Commissioner for Older People in Wales | The Commissioner for Older People (Wales) Act 2006 |
+
+;
+
+(b) in Part 6 of Schedule 1 (other public bodies: general), at the appropriate place insert “ The Commissioner for Older People in Wales ”.
+
+### Financial year
+
+**22** Regulations must specify the periods which are to be treated, for the purposes of this Schedule, as the first and subsequent financial years of the Commissioner.
+
+## SCHEDULE 2 — Persons whose functions are subject to review under section 3
+
+*Section 3*
+
+*Local government and fire*
+
+- A county council, county borough council or community council in Wales.
+- A joint board the constituent authorities of which are all county or county borough councils in Wales.
+- A fire and rescue authority in Wales constituted by a scheme under section 2 of the Fire and Rescue Services Act 2004 (c. 21) or a scheme to which section 4 of that Act applies.
+
+*Health and social care*
+
+- [[^F89]Social Care Wales].
+- A Local Health Board.
+- An NHS trust managing a hospital or other establishment or facility in Wales.
+- A Special Health Authority discharging functions in relation to Wales.
+- The Wales Centre for Health.
+- A family health service provider in Wales.
+- An independent provider in Wales.
+- Health Professions Wales or Proffesiynau Iechyd Cymru.
+- National Leadership and Innovations Agency for Healthcare.
+
+*Education and training*
+
+- The National Council for Education and Training for Wales.
+- The Office of Her Majesty's Chief Inspector of Education and Training in Wales or Prif Arolygydd Ei Mawrhydi dros Addysg a Hyfforddiant yng Nghymru.
+- [[^F90]The Commission for Tertiary Education and Research].
+- A further education corporation discharging functions in relation to Wales.
+- A higher education corporation discharging functions in relation to Wales.
+- [[^F91]A tertiary education provider (other than one mentioned elsewhere in this Schedule) that is registered in a category specified in regulations made for the purposes of section 88 or 105 of the Tertiary Education and Research (Wales) Act 2022].
+- The governing body of a maintained school in Wales at which further education is provided.
+- [^F92]...
+- [[^F93]Qualifications Wales.]
+
+*Arts and leisure*
+
+- The Arts Council of Wales.
+- The Sports Council for Wales.
+- The Wales Tourist Board.
+- The National Library of Wales.
+- The National Museums and Galleries of Wales.
+- The Royal Commission on the Ancient and Historical Monuments of Wales.
+
+*Environment*
+
+- A National Park authority for a National Park in Wales.
+- [[^F94]The Natural Resources Body for Wales].
+- The Environment Agency.
+- The Forestry Commissioners.
+
+*Miscellaneous*
+
+- The Welsh Development Agency.
+- [[^F95]Comisiynydd y Gymraeg (The Welsh Language Commissioner).]
+- An agricultural wages committee for an area wholly in, or consisting of, Wales.
+
+## SCHEDULE 3 — Persons whose arrangements are subject to review under section 5
+
+*Section 6*
+
+*Local government*
+
+A county council or county borough council in Wales.
+
+*Health and social care*
+
+- A Local Health Board.
+- An NHS trust managing a hospital or other establishment or facility in Wales.
+- A Special Health Authority discharging functions in relation to Wales.
+- A family health service provider in Wales.
+- An independent provider in Wales.
+
+*Education and training*
+
+- The National Council for Education and Training for Wales.
+- A further education corporation discharging functions in relation to Wales.
+- A higher education corporation discharging functions in relation to Wales.
+- [[^F96]A tertiary education provider (other than one mentioned elsewhere in this Schedule) that is registered in a category specified in regulations made for the purposes of section 88 or 105 of the Tertiary Education and Research (Wales) Act 2022].
+- The governing body of a maintained school in Wales at which further education is provided.
+
+## SCHEDULE 4 — Minor and consequential amendments
+
+*Section 22*
+
+### Care Standards Act 2000 (c. 14)
+
+**1** (1) The Care Standards Act 2000 is amended as follows.
+
+(2) After section 75 (obstruction etc) insert—
+
+> **Working with the Commissioner for Older People in Wales**
+>
+> **75ZA** (1) This section applies where it appears to the Commissioner that a case which he is—
+>
+> (a) examining in accordance with regulations made under section 74, or
+>
+> (b) considering whether to examine in accordance with such regulations,
+>
+> relates to or raises a matter which could be the subject of an examination by the Commissioner for Older People in Wales (the ‘connected matter’).
+>
+> (2) Where the Commissioner considers it appropriate, he must inform the Commissioner for Older People in Wales about the connected matter.
+>
+> (3) Where the Commissioner considers that the case also relates to or raises a matter which he is entitled to examine himself (‘the children matter’), he must also if he considers it appropriate—
+>
+> (a) inform the Commissioner for Older People in Wales about the Commissioner's proposals for the examination of the case; and
+>
+> (b) consult the Commissioner for Older People in Wales about those proposals.
+>
+> (4) Where the Commissioner and the Commissioner for Older People in Wales consider that they are entitled to examine, respectively, the children matter and the connected matter they may—
+>
+> (a) co-operate with each other in the separate examination of each of those matters;
+>
+> (b) act together in the examination of those matters; and
+>
+> (c) prepare and publish a joint report containing their respective conclusions in relation to the matters they have each examined.
+>
+> (5) Where the Commissioner considers—
+>
+> (a) that the case is not one which relates to or raises a matter that he is entitled to examine himself, and
+>
+> (b) that it is appropriate to do so,
+>
+> he must inform the person whose case it is, or another person interested in it that he thinks fit, about how to secure the referral to the Commissioner for Older People in Wales of the connected matter.
+
+(3) In section 76 (further functions) in subsection (5), after “in particular” insert “ (a) ” and at the end insert—
+
+> (b) provide that the Commissioner may make a joint report with the Commissioner for Older People in Wales where they have discharged their respective functions under this Act and the Commissioner for Older People (Wales) Act 2006 in relation to the same matters.
+
+### Public Services Ombudsman (Wales) Act 2005 (c. 10)
+
+**2** (1) The Public Services Ombudsman (Wales) Act 2005 is amended as follows.
+
+[^F97]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F97]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) In section 41 (interpretation), for the definition of “investigation” substitute—
+
+- “‘investigation’—
+
+- ((a)) in relation to the Ombudsman, means an investigation under section 2 (and cognate expressions must be construed accordingly);
+- ((b)) in relation to another ombudsman or commissioner, includes an examination (and cognate expressions must be construed accordingly;)”
+
+---
+
+[^F1]: Words in s. 2(2) substituted (the amendment coming into force immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) in accordance with art. 1(2)(3) of the amending S.I. and see ss. 46, 161(5) of Government of Wales Act 2006 (c. 32)) by The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388), arts. 1(2)(3), 3, Sch. 1 para. 125(2)
+[^F2]: Words in s. 2(3) substituted (the amendment coming into force immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) in accordance with art. 1(2)(3) of the amending S.I. and see ss. 46, 161(5) of Government of Wales Act 2006 (c. 32)) by The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388), arts. 1(2)(3), 3, Sch. 1 para. 125(3)
+[^F3]: Words in s. 3(1)(a)(b) substituted (the amendment coming into force immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) in accordance with art. 1(2)(3) of the amending S.I. and see ss. 46, 161(5) of Government of Wales Act 2006 (c. 32)) by The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388), arts. 1(2)(3), 3, Sch. 1 para. 126
+[^F4]: Words in s. 4(1) substituted (the amendment coming into force immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) in accordance with art. 1(2)(3) of the amending S.I. and see ss. 46, 161(5) of Government of Wales Act 2006 (c. 32)) by The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388), arts. 1(2)(3), 3, Sch. 1 para. 127(2)
+[^F5]: Words in s. 4(2)(b) substituted (the amendment coming into force immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) in accordance with art. 1(2)(3) of the amending S.I. and see ss. 46, 161(5) of Government of Wales Act 2006 (c. 32)) by The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388), arts. 1(2)(3), 3, Sch. 1 para. 127(3)(a)
+[^F6]: Words in s. 4(2)(c) substituted (the amendment coming into force immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) in accordance with art. 1(2)(3) of the amending S.I. and see ss. 46, 161(5) of Government of Wales Act 2006 (c. 32)) by The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388), arts. 1(2)(3), 3, Sch. 1 para. 127(3)(b)
+[^F7]: Words in s. 4(2)(d) substituted (the amendment coming into force immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) in accordance with art. 1(2)(3) of the amending S.I. and see ss. 46, 161(5) of Government of Wales Act 2006 (c. 32)) by The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388), arts. 1(2)(3), 3, Sch. 1 para. 127(3)(c)
+[^F8]: Words in s. 4(7) substituted (the amendment coming into force immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) in accordance with art. 1(2)(3) of the amending S.I. and see ss. 46, 161(5) of Government of Wales Act 2006 (c. 32)) by The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388), arts. 1(2)(3), 3, Sch. 1 para. 127(4)
+[^F9]: Words in s. 6(3)(a) substituted (the amendment coming into force immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) in accordance with art. 1(2)(3) of the amending S.I. and see ss. 46, 161(5) of Government of Wales Act 2006 (c. 32)) by The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388), arts. 1(2)(3), 3, Sch. 1 para. 128(2)(a)
+[^F10]: S. 6(3)(aa)(ab) inserted (the amendment coming into force immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) in accordance with art. 1(2)(3) of the amending S.I. and see ss. 46, 161(5) of Government of Wales Act 2006 (c. 32)) by The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388), arts. 1(2)(3), 3, Sch. 1 para. 128(2)(b)
+[^F11]: S. 6(4)(a) substituted (the amendment coming into force immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) in accordance with art. 1(2)(3) of the amending S.I. and see ss. 46, 161(5) of Government of Wales Act 2006 (c. 32)) by The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388), arts. 1(2)(3), 3, Sch. 1 para. 128(3)
+[^F12]: Words in s. 7(1)(b) substituted (the amendment coming into force immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) in accordance with art. 1(2)(3) of the amending S.I. and see ss. 46, 161(5) of Government of Wales Act 2006 (c. 32)) by The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388), arts. 1(2)(3), 3, Sch. 1 para. 129(2)
+[^F13]: Words in s. 7(2)(b) substituted (the amendment coming into force immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) in accordance with art. 1(2)(3) of the amending S.I. and see ss. 46, 161(5) of Government of Wales Act 2006 (c. 32)) by The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388), arts. 1(2)(3), 3, Sch. 1 para. 129(3)(a)
+[^F14]: Words in s. 7(2)(c) substituted (the amendment coming into force immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) in accordance with art. 1(2)(3) of the amending S.I. and see ss. 46, 161(5) of Government of Wales Act 2006 (c. 32)) by The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388), arts. 1(2)(3), 3, Sch. 1 para. 129(3)(b)
+[^F15]: Words in s. 7(2)(d) substituted (the amendment coming into force immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) in accordance with art. 1(2)(3) of the amending S.I. and see ss. 46, 161(5) of Government of Wales Act 2006 (c. 32)) by The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388), arts. 1(2)(3), 3, Sch. 1 para. 129(3)(c)
+[^F16]: Words in s. 7(7)(b) substituted (the amendment coming into force immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) in accordance with art. 1(2)(3) of the amending S.I. and see ss. 46, 161(5) of Government of Wales Act 2006 (c. 32)) by The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388), arts. 1(2)(3), 3, Sch. 1 para. 129(4)
+[^F17]: Words in s. 8(1)(a) substituted (the amendment coming into force immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) in accordance with art. 1(2)(3) of the amending S.I. and see ss. 46, 161(5) of Government of Wales Act 2006 (c. 32)) by The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388), arts. 1(2)(3), 3, Sch. 1 para. 130
+[^F18]: Words in s. 10(2) substituted (the amendment coming into force immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) in accordance with art. 1(2)(3) of the amending S.I. and see ss. 46, 161(5) of Government of Wales Act 2006 (c. 32)) by The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388), arts. 1(2)(3), 3, Sch. 1 para. 131
+[^F19]: Words in s. 12(2)(a) substituted (the amendment coming into force immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) in accordance with art. 1(2)(3) of the amending S.I. and see ss. 46, 161(5) of Government of Wales Act 2006 (c. 32)) by The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388), arts. 1(2)(3), 3, Sch. 1 para. 132
+[^F20]: Words in s. 14(2)(a) substituted (the amendment coming into force immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) in accordance with art. 1(2)(3) of the amending S.I. and see ss. 46, 161(5) of Government of Wales Act 2006 (c. 32)) by The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388), arts. 1(2)(3), 3, Sch. 1 para. 133
+[^F21]: Words in s. 15(2) substituted (the amendment coming into force immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) in accordance with art. 1(2)(3) of the amending S.I. and see ss. 46, 161(5) of Government of Wales Act 2006 (c. 32)) by The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388), arts. 1(2)(3), 3, Sch. 1 para. 134
+[^F22]: S. 15(3)(e) inserted (7.7.2015) by Welsh Language (Wales) Measure 2011 (nawm 1), s. 156(2), Sch. 3 para. 8; S.I. 2015/1413, art. 3(g)
+[^F23]: Words in s. 16(4) substituted (the amendment coming into force immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) in accordance with art. 1(2)(3) of the amending S.I. and see ss. 46, 161(5) of Government of Wales Act 2006 (c. 32)) by The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388), arts. 1(2)(3), 3, Sch. 1 para. 135(2)
+[^F24]: Words in s. 16(5) substituted (the amendment coming into force immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) in accordance with art. 1(2)(3) of the amending S.I. and see ss. 46, 161(5) of Government of Wales Act 2006 (c. 32)) by The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388), arts. 1(2)(3), 3, Sch. 1 para. 135(3)(a)
+[^F25]: Words in s. 16(5) substituted (the amendment coming into force immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) in accordance with art. 1(2)(3) of the amending S.I. and see ss. 46, 161(5) of Government of Wales Act 2006 (c. 32)) by The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388), arts. 1(2)(3), 3, Sch. 1 para. 135(3)(b)
+[^F26]: Words in s. 17(2) substituted (7.7.2015) by Welsh Language (Wales) Measure 2011 (nawm 1), s. 156(2), Sch. 3 para. 9(a); S.I. 2015/1413, art. 3(g)
+[^F27]: Words in s. 17(3) substituted (7.7.2015) by Welsh Language (Wales) Measure 2011 (nawm 1), s. 156(2), Sch. 3 para. 9(b); S.I. 2015/1413, art. 3(g)
+[^F28]: Words in s. 17(5) substituted (7.7.2015) by Welsh Language (Wales) Measure 2011 (nawm 1), s. 156(2), Sch. 3 para. 9(c); S.I. 2015/1413, art. 3(g)
+[^F29]: S. 17(6)(c) inserted (7.7.2015) by Welsh Language (Wales) Measure 2011 (nawm 1), s. 156(2), Sch. 3 para. 9(d); S.I. 2015/1413, art. 3(g)
+[^F30]: Words in s. 17(8) substituted (the amendment coming into force immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) in accordance with art. 1(2)(3) of the amending S.I. and see ss. 46, 161(5) of Government of Wales Act 2006 (c. 32)) by The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388), arts. 1(2)(3), 3, Sch. 1 para. 136(2)
+[^F31]: Words in s. 17(9) substituted (the amendment coming into force immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) in accordance with art. 1(2)(3) of the amending S.I. and see ss. 46, 161(5) of Government of Wales Act 2006 (c. 32)) by The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388), arts. 1(2)(3), 3, Sch. 1 para. 136(3)(a)
+[^F32]: Words in s. 17(9) substituted (the amendment coming into force immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) in accordance with art. 1(2)(3) of the amending S.I. and see ss. 46, 161(5) of Government of Wales Act 2006 (c. 32)) by The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388), arts. 1(2)(3), 3, Sch. 1 para. 136(3)(b)
+[^F33]: Word in s. 18(1)(b) substituted (1.11.2014) by Social Services and Well-being (Wales) Act 2014 (anaw 4), s. 199, Sch. 3 para. 33; S.I. 2014/2718, art. 2(b)
+[^F34]: Words in s. 18(1)(b) inserted (23.7.2019) by Public Services Ombudsman (Wales) Act 2019 (anaw 3), s. 77(1), Sch. 5 para. 23; S.I. 2019/1096, reg. 2
+[^F35]: Words in s. 18(1)(d) substituted (30.9.2026) by The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386), reg. 1(2), Sch. 2 para. 35; S.I. 2026/1015, reg. 2(c)
+[^F36]: Words in s. 18(3)(g) substituted (30.9.2026) by The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386), reg. 1(2), Sch. 2 para. 35; S.I. 2026/1015, reg. 2(c)
+[^F37]: Words in s. 18(6)(a) substituted (30.9.2026) by The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386), reg. 1(2), Sch. 2 para. 35; S.I. 2026/1015, reg. 2(c)
+[^F38]: S. 18(7)(a) substituted (25.5.2018) by Data Protection Act 2018 (c. 12), s. 212(1), Sch. 19 para. 112(2) (with ss. 117, 209, 210, Sch. 20 para. 47(1)); S.I. 2018/625, reg. 2(1)(g)
+[^F39]: S. 18(8) substituted (25.5.2018) by Data Protection Act 2018 (c. 12), s. 212(1), Sch. 19 para. 112(3) (with ss. 117, 209, 210, Sch. 20 para. 47(2)); S.I. 2018/625, reg. 2(1)(g)
+[^F40]: Words in s. 18(9)(a) substituted (the amendment coming into force immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) in accordance with art. 1(2)(3) of the amending S.I. and see ss. 46, 161(5) of Government of Wales Act 2006 (c. 32)) by The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388), arts. 1(2)(3), 3, Sch. 1 para. 137(2)(a)
+[^F41]: S. 18(9)(aa)(ab) inserted (the amendment coming into force immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) in accordance with art. 1(2)(3) of the amending S.I. and see ss. 46, 161(5) of Government of Wales Act 2006 (c. 32)) by The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388), arts. 1(2)(3), 3, Sch. 1 para. 137(2)(b)
+[^F42]: Words in s. 18(10) substituted (the amendment coming into force immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) in accordance with art. 1(2)(3) of the amending S.I. and see ss. 46, 161(5) of Government of Wales Act 2006 (c. 32)) by The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388), arts. 1(2)(3), 3, Sch. 1 para. 137(3)
+[^F43]: Words in s. 20(4) substituted (the amendment coming into force immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) in accordance with art. 1(2)(3) of the amending S.I. and see ss. 46, 161(5) of Government of Wales Act 2006 (c. 32)) by The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388), arts. 1(2)(3), 3, Sch. 1 para. 138(2)(a)
+[^F44]: Word in s. 20(4) substituted (the amendment coming into force immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) in accordance with art. 1(2)(3) of the amending S.I. and see ss. 46, 161(5) of Government of Wales Act 2006 (c. 32)) by The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388), arts. 1(2)(3), 3, Sch. 1 para. 138(2)(b)
+[^F45]: Words in s. 20(5) substituted (the amendment coming into force immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) in accordance with art. 1(2)(3) of the amending S.I. and see ss. 46, 161(5) of Government of Wales Act 2006 (c. 32)) by The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388), arts. 1(2)(3), 3, Sch. 1 para. 138(3)
+[^F46]: S. 26(2) substituted (2.4.2018) by The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments) Regulations 2018 (S.I. 2018/195), regs. 2(1), 39(2)
+[^F47]: S. 26(3) omitted (2.4.2018) by virtue of The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments) Regulations 2018 (S.I. 2018/195), regs. 2(1), 39(3)
+[^F48]: S. 26(4) omitted (2.4.2018) by virtue of The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments) Regulations 2018 (S.I. 2018/195), regs. 2(1), 39(3)
+[^F49]: S. 27(1): definition of "Assembly Cabinet" omitted (the amendment coming into force immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) in accordance with art. 1(2)(3) of the amending S.I. and see ss. 46, 161(5) of Government of Wales Act 2006 (c. 32)) by virtue of The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388), arts. 1(2)(3), 3, Sch. 1 para. 139(2)(a)
+[^F50]: S. 27(1): in the definition of "family health service provider in Wales" for the words "section 28K or 28Q of the National Health Service Act 1977" there are substituted the words "section 42 or 57 of the National Health Service (Wales) Act 2006" (1.3.2007) by National Health Service (Consequential Provisions) Act 2006 (c. 43), ss. 2, 8, Sch. 1 para. 306(a)(i) (with Sch. 3 Pt. 1)
+[^F51]: S. 27(1): words in definition of "family health service provider in Wales" substituted (1.3.2007) by National Health Service (Consequential Provisions) Act 2006 (c. 43), ss. 2, 8, Sch. 1 para. 306(a)(ii) (with Sch. 3 Pt. 1)
+[^F52]: Words in s. 27(1) inserted (20.10.2023) by The National Health Service (Ophthalmic Services) (Wales) Regulations 2023 (S.I. 2023/1053), reg. 1(2), Sch. 5 para. 2(2)(a)
+[^F53]: Words in s. 27(1) omitted (20.10.2023) by virtue of The National Health Service (Ophthalmic Services) (Wales) Regulations 2023 (S.I. 2023/1053), reg. 1(2), Sch. 5 para. 2(2)(b)
+[^F54]: S. 27(1): words in definition of "family health service provider in Wales" substituted (1.3.2007) by National Health Service (Consequential Provisions) Act 2006 (c. 43), ss. 2, 8, Sch. 1 para. 306(a)(iii) (with Sch. 3 Pt. 1)
+[^F55]: S. 27(1): para. (d) in definition of "family health service provider in Wales" omitted (1.3.2007) by virtue of National Health Service (Consequential Provisions) Act 2006 (c. 43), ss. 2, 8, Sch. 1 para. 306(a)(iv) (with Sch. 2 Pt. 1, Sch. 3 Pt. 1)
+[^F56]: S. 27(1): in the definition of "NHS trust" for the words "National Health Service Act 1977" there are substituted the words "National Health Service (Wales) Act 2006" (1.3.2007) by National Health Service (Consequential Provisions) Act 2006 (c. 43), ss. 2, 8, Sch. 1 para. 306(b) (with Sch. 3 Pt. 1)
+[^F57]: S. 27(1): words in definition of "regulations" substituted (the amendment coming into force immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) in accordance with art. 1(2)(3) of the amending S.I. and see ss. 46, 161(5) of Government of Wales Act 2006 (c. 32)) by The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388), arts. 1(2)(3), 3, Sch. 1 para. 139(2)(b)
+[^F58]: S. 27(1): words in definition of "Welsh health service body" substituted (the amendment coming into force immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) in accordance with art. 1(2)(3) of the amending S.I. and see ss. 46, 161(5) of Government of Wales Act 2006 (c. 32)) by The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388), arts. 1(2)(3), 3, Sch. 1 para. 139(2)(c)
+[^F59]: S. 27(1): words in definition of "Welsh health service body" substituted (the amendment coming into force immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) in accordance with art. 1(2)(3) of the amending S.I. and see ss. 46, 161(5) of Government of Wales Act 2006 (c. 32)) by The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388), arts. 1(2)(3), 3, Sch. 1 para. 139(2)(c)
+[^F60]: Words in s. 27(2) substituted (the amendment coming into force immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) in accordance with art. 1(2)(3) of the amending S.I. and see ss. 46, 161(5) of Government of Wales Act 2006 (c. 32)) by The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388), arts. 1(2)(3), 3, Sch. 1 para. 139(3)
+[^F61]: Words in s. 27(3) substituted (the amendment coming into force immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) in accordance with art. 1(2)(3) of the amending S.I. and see ss. 46, 161(5) of Government of Wales Act 2006 (c. 32)) by The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388), arts. 1(2)(3), 3, Sch. 1 para. 139(4)(a)
+[^F62]: Words in s. 27(3) substituted (the amendment coming into force immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) in accordance with art. 1(2)(3) of the amending S.I. and see ss. 46, 161(5) of Government of Wales Act 2006 (c. 32)) by The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388), arts. 1(2)(3), 3, Sch. 1 para. 139(4)(b)
+[^F63]: Words in s. 28(1) substituted (the amendment coming into force immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) in accordance with art. 1(2)(3) of the amending S.I. and see ss. 46, 161(5) of Government of Wales Act 2006 (c. 32)) by The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388), arts. 1(2)(3), 3, Sch. 1 para. 140(2)
+[^F64]: Words in s. 28(2) substituted (the amendment coming into force immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) in accordance with art. 1(2)(3) of the amending S.I. and see ss. 46, 161(5) of Government of Wales Act 2006 (c. 32)) by The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388), arts. 1(2)(3), 3, Sch. 1 para. 140(3)
+[^F65]: Words in s. 28(4) substituted (the amendment coming into force immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) in accordance with art. 1(2)(3) of the amending S.I. and see ss. 46, 161(5) of Government of Wales Act 2006 (c. 32)) by The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388), arts. 1(2)(3), 3, Sch. 1 para. 140(4)(a)
+[^F66]: Words in s. 28(4)(b) substituted (the amendment coming into force immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) in accordance with art. 1(2)(3) of the amending S.I. and see ss. 46, 161(5) of Government of Wales Act 2006 (c. 32)) by The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388), arts. 1(2)(3), 3, Sch. 1 para. 140(4)(b)
+[^F67]: S. 28(6) omitted (the amendment coming into force immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) in accordance with art. 1(2)(3) of the amending S.I. and see ss. 46, 161(5) of Government of Wales Act 2006 (c. 32)) by virtue of The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388), arts. 1(2)(3), 3, Sch. 1 para. 140(5)
+[^F68]: Words in Sch. 1 para. 3(1) substituted (the amendment coming into force immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) in accordance with art. 1(2)(3) of the amending S.I. and see ss. 46, 161(5) of Government of Wales Act 2006 (c. 32)) by The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388), arts. 1(2)(3), 3, Sch. 1 para. 141(2)(a)
+[^F69]: Words in Sch. 1 para. 3(2) substituted (the amendment coming into force immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) in accordance with art. 1(2)(3) of the amending S.I. and see ss. 46, 161(5) of Government of Wales Act 2006 (c. 32)) by The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388), arts. 1(2)(3), 3, Sch. 1 para. 141(2)(b)
+[^F70]: Words in Sch. 1 para. 3(3) substituted (the amendment coming into force immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) in accordance with art. 1(2)(3) of the amending S.I. and see ss. 46, 161(5) of Government of Wales Act 2006 (c. 32)) by The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388), arts. 1(2)(3), 3, Sch. 1 para. 141(2)(c)
+[^F71]: Words in Sch. 1 para. 3(3) substituted (the amendment coming into force immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) in accordance with art. 1(2)(3) of the amending S.I. and see ss. 46, 161(5) of Government of Wales Act 2006 (c. 32)) by The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388), arts. 1(2)(3), 3, Sch. 1 para. 141(2)(c)
+[^F72]: Words in Sch. 1 para. 6(2) substituted (the amendment coming into force immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) in accordance with art. 1(2)(3) of the amending S.I. and see ss. 46, 161(5) of Government of Wales Act 2006 (c. 32)) by The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388), arts. 1(2)(3), 3, Sch. 1 para. 141(3)
+[^F73]: Sch. 1 para. 7: words in heading substituted (the amendment coming into force immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) in accordance with art. 1(2)(3) of the amending S.I. and see ss. 46, 161(5) of Government of Wales Act 2006 (c. 32)) by The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388), arts. 1(2)(3), 3, Sch. 1 para. 141(4)
+[^F74]: Words in Sch. 1 para. 7 substituted (the amendment coming into force immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) in accordance with art. 1(2)(3) of the amending S.I. and see ss. 46, 161(5) of Government of Wales Act 2006 (c. 32)) by The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388), arts. 1(2)(3), 3, Sch. 1 para. 141(5)(a)
+[^F75]: Words in Sch. 1 para. 7 substituted (the amendment coming into force immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) in accordance with art. 1(2)(3) of the amending S.I. and see ss. 46, 161(5) of Government of Wales Act 2006 (c. 32)) by The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388), arts. 1(2)(3), 3, Sch. 1 para. 141(5)(b)
+[^F76]: Sch. 1 para. 8: words in heading substituted (the amendment coming into force immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) in accordance with art. 1(2)(3) of the amending S.I. and see ss. 46, 161(5) of Government of Wales Act 2006 (c. 32)) by The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388), arts. 1(2)(3), 3, Sch. 1 para. 141(6)
+[^F77]: Words in Sch. 1 para. 8(1) substituted (the amendment coming into force immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) in accordance with art. 1(2)(3) of the amending S.I. and see ss. 46, 161(5) of Government of Wales Act 2006 (c. 32)) by The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388), arts. 1(2)(3), 3, Sch. 1 para. 141(7)
+[^F78]: Words in Sch. 1 para. 9(2) substituted (the amendment coming into force immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) in accordance with art. 1(2)(3) of the amending S.I. and see ss. 46, 161(5) of Government of Wales Act 2006 (c. 32)) by The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388), arts. 1(2)(3), 3, Sch. 1 para. 141(8)(a)
+[^F79]: Words in Sch. 1 para. 9(3) substituted (the amendment coming into force immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) in accordance with art. 1(2)(3) of the amending S.I. and see ss. 46, 161(5) of Government of Wales Act 2006 (c. 32)) by The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388), arts. 1(2)(3), 3, Sch. 1 para. 141(8)(b)(i)
+[^F80]: Word in Sch. 1 para. 9(3) substituted (the amendment coming into force immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) in accordance with art. 1(2)(3) of the amending S.I. and see ss. 46, 161(5) of Government of Wales Act 2006 (c. 32)) by The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388), arts. 1(2)(3), 3, Sch. 1 para. 141(8)(b)(ii)
+[^F81]: Words in Sch. 1 para. 9(3) substituted (the amendment coming into force immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) in accordance with art. 1(2)(3) of the amending S.I. and see ss. 46, 161(5) of Government of Wales Act 2006 (c. 32)) by The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388), arts. 1(2)(3), 3, Sch. 1 para. 141(8)(b)(iii)
+[^F82]: Words in Sch. 1 para. 10(1)(b) substituted (the amendment coming into force immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) in accordance with art. 1(2)(3) of the amending S.I. and see ss. 46, 161(5) of Government of Wales Act 2006 (c. 32)) by The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388), arts. 1(2)(3), 3, Sch. 1 para. 141(9)(a)
+[^F83]: Words in Sch. 1 para. 10(2) substituted (the amendment coming into force immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) in accordance with art. 1(2)(3) of the amending S.I. and see ss. 46, 161(5) of Government of Wales Act 2006 (c. 32)) by The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388), arts. 1(2)(3), 3, Sch. 1 para. 141(9)(b)
+[^F84]: Words in Sch. 1 para. 10(3) substituted (the amendment coming into force immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) in accordance with art. 1(2)(3) of the amending S.I. and see ss. 46, 161(5) of Government of Wales Act 2006 (c. 32)) by The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388), arts. 1(2)(3), 3, Sch. 1 para. 141(9)(c)
+[^F85]: Words in Sch. 1 para. 11(4)(a) substituted (the amendment coming into force immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) in accordance with art. 1(2)(3) of the amending S.I. and see ss. 46, 161(5) of Government of Wales Act 2006 (c. 32)) by The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388), arts. 1(2)(3), 3, Sch. 1 para. 141(10)
+[^F86]: Sch. 1 para. 14 omitted (1.4.2018) by virtue of Wales Act 2017 (c. 4), s. 71(4), Sch. 6 para. 65 (with Sch. 7 paras. 1, 6); S.I. 2017/1179, reg. 3(r)
+[^F87]: Words in Sch. 1 para. 19(1) substituted (the amendment coming into force immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) in accordance with art. 1(2)(3) of the amending S.I. and see ss. 46, 161(5) of Government of Wales Act 2006 (c. 32)) by The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388), arts. 1(2)(3), 3, Sch. 1 para. 141(11)(a)
+[^F88]: Words in Sch. 1 para. 19(2) substituted (the amendment coming into force immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) in accordance with art. 1(2)(3) of the amending S.I. and see ss. 46, 161(5) of Government of Wales Act 2006 (c. 32)) by The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388), arts. 1(2)(3), 3, Sch. 1 para. 141(11)(b)
+[^F89]: Words in Sch. 2 substituted (3.4.2017) by Regulation and Inspection of Social Care (Wales) Act 2016 (anaw 2), s. 188(1), Sch. 3 para. 52; S.I. 2017/309, art. 2(j) (with arts. 3, 4, Sch.)
+[^F90]: Words in Sch. 2 substituted (1.8.2024) by Tertiary Education and Research (Wales) Act 2022 (asc 1), s. 148(2), Sch. 4 para. 19(2)(a) (with s. 19); S.I. 2024/806, art. 2(k)(xi) (with art. 28)
+[^F91]: Words in Sch. 2 substituted (31.7.2026) by Tertiary Education and Research (Wales) Act 2022 (asc 1), s. 148(2), Sch. 4 para. 19(2)(b) (with s. 19); W.S.I. 2026/62, art. 21(1)(b) (with art. 21(2)(4))
+[^F92]: Words in Sch. 2 omitted (21.9.2015) by virtue of Qualifications Wales Act 2015 (anaw 5), s. 60(2), Sch. 1 para. 39(a); S.I. 2015/1687, art. 2 (with arts. 3-12)
+[^F93]: Words in Sch. 2 inserted (21.9.2015) by Qualifications Wales Act 2015 (anaw 5), s. 60(2), Sch. 1 para. 39(b); S.I. 2015/1687, art. 2 (with arts. 3-12)
+[^F94]: Words in Sch. 2 substituted (1.4.2013) by The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755), art. 1(2), Sch. 2 para. 435 (with Sch. 7)
+[^F95]: Words in Sch. 2 substituted (1.4.2012) by The Welsh Language (Wales) Measure 2011 (Transfer of functions, Transitional and Consequential Provisions) Order 2012 (S.I. 2012/990), arts. 1(2), 10
+[^F96]: Words in Sch. 3 substituted (31.7.2026) by Tertiary Education and Research (Wales) Act 2022 (asc 1), s. 148(2), Sch. 4 para. 19(3) (with s. 19); W.S.I. 2026/62, art. 21(1)(c) (with art. 21(2)(5))
+[^F97]: Sch. 4 para. 2(2)(3) omitted (1.11.2014) by virtue of Social Services and Well-being (Wales) Act 2014 (anaw 4), s. 199, Sch. 3 para. 34; S.I. 2014/2718, art. 2(b)

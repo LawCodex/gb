@@ -1,0 +1,3061 @@
+---
+title: "Employment Act 2002"
+identifier: "ukpga/2002/22"
+citation: "2002 c. 22"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S+N.I."
+date: 2002-07-08
+last_amended: 2025-01-17
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/2002/22"
+source_modified: 2025-01-26
+retrieved: 2026-10-11
+---
+
+# Employment Act 2002
+
+**2002 c. 22**
+
+An Act to make provision for statutory rights to paternity and adoption leave and pay; to amend the law relating to statutory maternity leave and pay; to amend the Employment Tribunals Act 1996; to make provision for the use of statutory procedures in relation to employment disputes; to amend the law relating to particulars of employment; to make provision about compromise agreements; to make provision for questionnaires in relation to equal pay; to make provision in connection with trade union learning representatives; to amend section 110 of the Employment Rights Act 1996; to make provision about fixed-term work; to make provision about flexible working; to amend the law relating to maternity allowance; to make provision for work-focused interviews for partners of benefit claimants; to make provision about the use of information for, or relating to, employment and training; and for connected purposes.
+
+[8th July 2002]
+
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## Part 1 — Statutory leave and pay
+
+### Chapter 1 — Paternity and adoption
+
+#### Rights to leave and pay
+
+##### 1 Paternity leave
+
+In Part 8 of the Employment Rights Act 1996 (c. 18) (which makes provision for maternity and parental leave), after Chapter 2 there is inserted—
+
+> **Chapter 3 — Paternity leave**
+>
+> **80A Entitlement to paternity leave: birth**
+>
+> (1) The Secretary of State shall make regulations entitling an employee who satisfies specified conditions—
+>
+> (a) as to duration of employment,
+>
+> (b) as to relationship with a newborn, or expected, child, and
+>
+> (c) as to relationship with the child’s mother,
+>
+> to be absent from work on leave under this section for the purpose of caring for the child or supporting the mother.
+>
+> (2) The regulations shall include provision for determining—
+>
+> (a) the extent of an employee’s entitlement to leave under this section in respect of a child;
+>
+> (b) when leave under this section may be taken.
+>
+> (3) Provision under subsection (2)(a) shall secure that where an employee is entitled to leave under this section in respect of a child he is entitled to at least two weeks’ leave.
+>
+> (4) Provision under subsection (2)(b) shall secure that leave under this section must be taken before the end of a period of at least 56 days beginning with the date of the child’s birth.
+>
+> (5) Regulations under subsection (1) may—
+>
+> (a) specify things which are, or are not, to be taken as done for the purpose of caring for a child or supporting the child’s mother;
+>
+> (b) make provision excluding the right to be absent on leave under this section in respect of a child where more than one child is born as a result of the same pregnancy;
+>
+> (c) make provision about how leave under this section may be taken.
+>
+> (6) Where more than one child is born as a result of the same pregnancy, the reference in subsection (4) to the date of the child’s birth shall be read as a reference to the date of birth of the first child born as a result of the pregnancy.
+>
+> (7) In this section—
+>
+> - “newborn child” includes a child stillborn after twenty-four weeks of pregnancy;
+> - “week” means any period of seven days.
+>
+> **80B Entitlement to paternity leave: adoption**
+>
+> (1) The Secretary of State shall make regulations entitling an employee who satisfies specified conditions—
+>
+> (a) as to duration of employment,
+>
+> (b) as to relationship with a child placed, or expected to be placed, for adoption under the law of any part of the United Kingdom, and
+>
+> (c) as to relationship with a person with whom the child is, or is expected to be, so placed for adoption,
+>
+> to be absent from work on leave under this section for the purpose of caring for the child or supporting the person by reference to whom he satisfies the condition under paragraph (c).
+>
+> (2) The regulations shall include provision for determining—
+>
+> (a) the extent of an employee’s entitlement to leave under this section in respect of a child;
+>
+> (b) when leave under this section may be taken.
+>
+> (3) Provision under subsection (2)(a) shall secure that where an employee is entitled to leave under this section in respect of a child he is entitled to at least two weeks’ leave.
+>
+> (4) Provision under subsection (2)(b) shall secure that leave under this section must be taken before the end of a period of at least 56 days beginning with the date of the child’s placement for adoption.
+>
+> (5) Regulations under subsection (1) may—
+>
+> (a) specify things which are, or are not, to be taken as done for the purpose of caring for a child or supporting a person with whom a child is placed for adoption;
+>
+> (b) make provision excluding the right to be absent on leave under this section in the case of an employee who exercises a right to be absent from work on adoption leave;
+>
+> (c) make provision excluding the right to be absent on leave under this section in respect of a child where more than one child is placed for adoption as part of the same arrangement;
+>
+> (d) make provision about how leave under this section may be taken.
+>
+> (6) Where more than one child is placed for adoption as part of the same arrangement, the reference in subsection (4) to the date of the child’s placement shall be read as a reference to the date of placement of the first child to be placed as part of the arrangement.
+>
+> (7) In this section, “week” means any period of seven days.
+>
+> (8) The Secretary of State may by regulations provide for this section to have effect in relation to cases which involve adoption, but not the placement of a child for adoption under the law of any part of the United Kingdom, with such modifications as the regulations may prescribe.
+>
+> **80C Rights during and after paternity leave**
+>
+> (1) Regulations under section 80A shall provide—
+>
+> (a) that an employee who is absent on leave under that section is entitled, for such purposes and to such extent as the regulations may prescribe, to the benefit of the terms and conditions of employment which would have applied if he had not been absent;
+>
+> (b) that an employee who is absent on leave under that section is bound, for such purposes and to such extent as the regulations may prescribe, by obligations arising under those terms and conditions (except in so far as they are inconsistent with subsection (1) of that section), and
+>
+> (c) that an employee who is absent on leave under that section is entitled to return from leave to a job of a kind prescribed by regulations, subject to section 80D(1).
+>
+> (2) The reference in subsection (1)(c) to absence on leave under section 80A includes, where appropriate, a reference to a continuous period of absence attributable partly to leave under that section and partly to any one or more of the following—
+>
+> (a) maternity leave,
+>
+> (b) adoption leave, and
+>
+> (c) parental leave.
+>
+> (3) Subsection (1) shall apply to regulations under section 80B as it applies to regulations under section 80A.
+>
+> (4) In the application of subsection (1)(c) to regulations under section 80B, the reference to absence on leave under that section includes, where appropriate, a reference to a continuous period of absence attributable partly to leave under that section and partly to any one or more of the following—
+>
+> (a) maternity leave,
+>
+> (b) adoption leave,
+>
+> (c) parental leave, and
+>
+> (d) leave under section 80A.
+>
+> (5) In subsection (1)(a), “terms and conditions of employment”—
+>
+> (a) includes matters connected with an employee’s employment whether or not they arise under his contract of employment, but
+>
+> (b) does not include terms and conditions about remuneration.
+>
+> (6) Regulations under section 80A or 80B may specify matters which are, or are not, to be treated as remuneration for the purposes of this section.
+>
+> (7) Regulations under section 80A or 80B may make provision, in relation to the right to return mentioned in subsection (1)(c), about—
+>
+> (a) seniority, pension rights and similar rights;
+>
+> (b) terms and conditions of employment on return.
+>
+> **80D Special cases**
+>
+> (1) Regulations under section 80A or 80B may make provision about—
+>
+> (a) redundancy, or
+>
+> (b) dismissal (other than by reason of redundancy),
+>
+> during a period of leave under that section.
+>
+> (2) Provision by virtue of subsection (1) may include—
+>
+> (a) provision requiring an employer to offer alternative employment;
+>
+> (b) provision for the consequences of failure to comply with the regulations (which may include provision for a dismissal to be treated as unfair for the purposes of Part 10).
+>
+> **80E Chapter 3: supplemental**
+>
+> Regulations under section 80A or 80B may—
+>
+> (a) make provision about notices to be given, evidence to be produced and other procedures to be followed by employees and employers;
+>
+> (b) make provision requiring employers or employees to keep records;
+>
+> (c) make provision for the consequences of failure to give notices, to produce evidence, to keep records or to comply with other procedural requirements;
+>
+> (d) make provision for the consequences of failure to act in accordance with a notice given by virtue of paragraph (a);
+>
+> (e) make special provision for cases where an employee has a right which corresponds to a right under section 80A or 80B and which arises under his contract of employment or otherwise;
+>
+> (f) make provision modifying the effect of Chapter 2 of Part 14 (calculation of a week’s pay) in relation to an employee who is or has been absent from work on leave under section 80A or 80B;
+>
+> (g) make provision applying, modifying or excluding an enactment, in such circumstances as may be specified and subject to any conditions which may be specified, in relation to a person entitled to take leave under section 80A or 80B;
+>
+> (h) make different provision for different cases or circumstances.
+
+##### 2 Statutory paternity pay
+
+In the Social Security Contributions and Benefits Act 1992 (c. 4), after Part 12 (statutory maternity pay) there is inserted—
+
+> **Part 12ZA — Statutory paternity pay**
+>
+> **171ZA Entitlement: birth**
+>
+> (1) Where a person satisfies the conditions in subsection (2) below, he shall be entitled in accordance with the following provisions of this Part to payments to be known as “statutory paternity pay”.
+>
+> (2) The conditions are—
+>
+> (a) that he satisfies prescribed conditions—
+>
+> (i) as to relationship with a newborn child, and
+>
+> (ii) as to relationship with the child’s mother;
+>
+> (b) that he has been in employed earner’s employment with an employer for a continuous period of at least 26 weeks ending with the relevant week;
+>
+> (c) that his normal weekly earnings for the period of 8 weeks ending with the relevant week are not less than the lower earnings limit in force under section 5(1)(a) above at the end of the relevant week; and
+>
+> (d) that he has been in employed earner’s employment with the employer by reference to whom the condition in paragraph (b) above is satisfied for a continuous period beginning with the end of the relevant week and ending with the day on which the child is born.
+>
+> (3) The references in subsection (2) above to the relevant week are to the week immediately preceding the 14th week before the expected week of the child’s birth.
+>
+> (4) A person’s entitlement to statutory paternity pay under this section shall not be affected by the birth, or expected birth, of more than one child as a result of the same pregnancy.
+>
+> (5) In this section, “newborn child” includes a child stillborn after twenty-four weeks of pregnancy.
+>
+> **171ZB Entitlement: adoption**
+>
+> (1) Where a person satisfies the conditions in subsection (2) below, he shall be entitled in accordance with the following provisions of this Part to payments to be known as “statutory paternity pay”.
+>
+> (2) The conditions are—
+>
+> (a) that he satisfies prescribed conditions—
+>
+> (i) as to relationship with a child who is placed for adoption under the law of any part of the United Kingdom, and
+>
+> (ii) as to relationship with a person with whom the child is so placed for adoption;
+>
+> (b) that he has been in employed earner’s employment with an employer for a continuous period of at least 26 weeks ending with the relevant week;
+>
+> (c) that his normal weekly earnings for the period of 8 weeks ending with the relevant week are not less than the lower earnings limit in force under section 5(1)(a) at the end of the relevant week;
+>
+> (d) that he has been in employed earner’s employment with the employer by reference to whom the condition in paragraph (b) above is satisfied for a continuous period beginning with the end of the relevant week and ending with the day on which the child is placed for adoption; and
+>
+> (e) where he is a person with whom the child is placed for adoption, that he has elected to receive statutory paternity pay.
+>
+> (3) The references in subsection (2) to the relevant week are to the week in which the adopter is notified of being matched with the child for the purposes of adoption.
+>
+> (4) A person may not elect to receive statutory paternity pay if he has elected in accordance with section 171ZL below to receive statutory adoption pay.
+>
+> (5) Regulations may make provision about elections for the purposes of subsection (2)(e) above.
+>
+> (6) A person’s entitlement to statutory paternity pay under this section shall not be affected by the placement for adoption of more than one child as part of the same arrangement.
+>
+> (7) In this section, “adopter”, in relation to a person who satisfies the condition under subsection (2)(a)(ii) above, means the person by reference to whom he satisfies that condition.
+>
+> **171ZC Entitlement: general**
+>
+> (1) A person shall be entitled to payments of statutory paternity pay in respect of any period only if—
+>
+> (a) he gives the person who will be liable to pay it notice of the date from which he expects the liability to pay him statutory paternity pay to begin; and
+>
+> (b) the notice is given at least 28 days before that date or, if that is not reasonably practicable, as soon as is reasonably practicable.
+>
+> (2) The notice shall be in writing if the person who is liable to pay the statutory paternity pay so requests.
+>
+> (3) The Secretary of State may by regulations—
+>
+> (a) provide that subsection (2)(b), (c) or (d) of section 171ZA or 171ZB above shall have effect subject to prescribed modifications in such cases as may be prescribed;
+>
+> (b) provide that subsection (1) above shall not have effect, or shall have effect subject to prescribed modifications, in such cases as may be prescribed;
+>
+> (c) impose requirements about evidence of entitlement;
+>
+> (d) specify in what circumstances employment is to be treated as continuous for the purposes of section 171ZA or 171ZB above;
+>
+> (e) provide that a person is to be treated for the purposes of section 171ZA or 171ZB above as being employed for a continuous period of at least 26 weeks where—
+>
+> (i) he has been employed by the same employer for at least 26 weeks under two or more separate contracts of service; and
+>
+> (ii) those contracts were not continuous;
+>
+> (f) provide for amounts earned by a person under separate contracts of service with the same employer to be aggregated for the purposes of section 171ZA or 171ZB above;
+>
+> (g) provide that—
+>
+> (i) the amount of a person’s earnings for any period, or
+>
+> (ii) the amount of his earnings to be treated as comprised in any payment made to him or for his benefit,
+>
+> shall be calculated or estimated for the purposes of section 171ZA or 171ZB above in such manner and on such basis as may be prescribed and that for that purpose payments of a particular class or description made or falling to be made to or by a person shall, to such extent as may be prescribed, be disregarded or, as the case may be, be deducted from the amount of his earnings.
+>
+> **171ZD Liability to make payments**
+>
+> (1) The liability to make payments of statutory paternity pay under section 171ZA or 171ZB above is a liability of any person of whom the person entitled to the payments has been an employee as mentioned in subsection (2)(b) and (d) of that section.
+>
+> (2) Regulations shall make provision as to a former employer’s liability to pay statutory paternity pay to a person in any case where the former employee’s contract of service with him has been brought to an end by the former employer solely, or mainly, for the purpose of avoiding liability for statutory paternity pay.
+>
+> (3) The Secretary of State may, with the concurrence of the Board, by regulations specify circumstances in which, notwithstanding this section, liability to make payments of statutory paternity pay is to be a liability of the Board.
+>
+> **171ZE Rate and period of pay**
+>
+> (1) Statutory paternity pay shall be payable at such fixed or earnings-related weekly rate as may be prescribed by regulations, which may prescribe different kinds of rate for different cases.
+>
+> (2) Statutory paternity pay shall be payable in respect of—
+>
+> (a) a period of two consecutive weeks within the qualifying period beginning on such date within that period as the person entitled may choose in accordance with regulations, or
+>
+> (b) if regulations permit the person entitled to choose to receive statutory paternity pay in respect of—
+>
+> (i) a period of a week, or
+>
+> (ii) two non-consecutive periods of a week,
+>
+> such week or weeks within the qualifying period as he may choose in accordance with regulations.
+>
+> (3) For the purposes of subsection (2) above, the qualifying period shall be determined in accordance with regulations, which shall secure that it is a period of at least 56 days beginning—
+>
+> (a) in the case of a person to whom the conditions in section 171ZA(2) above apply, with the date of the child’s birth, and
+>
+> (b) in the case of a person to whom the conditions in section 171ZB(2) above apply, with the date of the child’s placement for adoption.
+>
+> (4) Statutory paternity pay shall not be payable to a person in respect of a statutory pay week if it is not his purpose at the beginning of the week—
+>
+> (a) to care for the child by reference to whom he satisfies the condition in sub-paragraph (i) of section 171ZA(2)(a) or 171ZB(2)(a) above, or
+>
+> (b) to support the person by reference to whom he satisfies the condition in sub-paragraph (ii) of that provision.
+>
+> (5) A person shall not be liable to pay statutory paternity pay to another in respect of a statutory pay week during any part of which the other works under a contract of service with him.
+>
+> (6) It is immaterial for the purposes of subsection (5) above whether the work referred to in that subsection is work under a contract of service which existed immediately before the statutory pay week or a contract of service which did not so exist.
+>
+> (7) Except in such cases as may be prescribed, statutory paternity pay shall not be payable to a person in respect of a statutory pay week during any part of which he works for any employer who is not liable to pay him statutory paternity pay.
+>
+> (8) The Secretary of State may by regulations specify circumstances in which there is to be no liability to pay statutory paternity pay in respect of a statutory pay week.
+>
+> (9) Where more than one child is born as a result of the same pregnancy, the reference in subsection (3)(a) to the date of the child’s birth shall be read as a reference to the date of birth of the first child born as a result of the pregnancy.
+>
+> (10) Where more than one child is placed for adoption as part of the same arrangement, the reference in subsection (3)(b) to the date of the child’s placement shall be read as a reference to the date of placement of the first child to be placed as part of the arrangement.
+>
+> (11) In this section—
+>
+> - “statutory pay week”, in relation to a person entitled to statutory paternity pay, means a week chosen by him as a week in respect of which statutory paternity pay shall be payable;
+> - “week” means any period of seven days.
+>
+> **171ZF Restrictions on contracting out**
+>
+> (1) Any agreement shall be void to the extent that it purports—
+>
+> (a) to exclude, limit or otherwise modify any provision of this Part of this Act, or
+>
+> (b) to require an employee or former employee to contribute (whether directly or indirectly) towards any costs incurred by his employer or former employer under this Part of this Act.
+>
+> (2) For the avoidance of doubt, any agreement between an employer and an employee authorising any deductions from statutory paternity pay which the employer is liable to pay to the employee in respect of any period shall not be void by virtue of subsection (1)(a) above if the employer—
+>
+> (a) is authorised by that or another agreement to make the same deductions from any contractual remuneration which he is liable to pay in respect of the same period, or
+>
+> (b) would be so authorised if he were liable to pay contractual remuneration in respect of that period.
+>
+> **171ZG Relationship with contractual remuneration**
+>
+> (1) Subject to subsections (2) and (3) below, any entitlement to statutory paternity pay shall not affect any right of a person in relation to remuneration under any contract of service (“contractual remuneration”).
+>
+> (2) Subject to subsection (3) below—
+>
+> (a) any contractual remuneration paid to a person by an employer of his in respect of any period shall go towards discharging any liability of that employer to pay statutory paternity pay to him in respect of that period; and
+>
+> (b) any statutory paternity pay paid by an employer to a person who is an employee of his in respect of any period shall go towards discharging any liability of that employer to pay contractual remuneration to him in respect of that period.
+>
+> (3) Regulations may make provision as to payments which are, and those which are not, to be treated as contractual remuneration for the purposes of subsections (1) and (2) above.
+>
+> **171ZH Crown employment-Part 12ZA**
+>
+> The provisions of this Part of this Act apply in relation to persons employed by or under the Crown as they apply in relation to persons employed otherwise than by or under the Crown.
+>
+> **171ZI Special classes of person**
+>
+> (1) The Secretary of State may with the concurrence of the Treasury make regulations modifying any provision of this Part of this Act in such manner as he thinks proper in its application to any person who is, has been or is to be—
+>
+> (a) employed on board any ship, vessel, hovercraft or aircraft;
+>
+> (b) outside Great Britain at any prescribed time or in any prescribed circumstances; or
+>
+> (c) in prescribed employment in connection with continental shelf operations, as defined in section 120(2) above.
+>
+> (2) Regulations under subsection (1) above may, in particular, provide—
+>
+> (a) for any provision of this Part of this Act to apply to any such person, notwithstanding that it would not otherwise apply;
+>
+> (b) for any such provision not to apply to any such person, notwithstanding that it would otherwise apply;
+>
+> (c) for excepting any such person from the application of any such provision where he neither is domiciled nor has a place of residence in any part of Great Britain;
+>
+> (d) for the taking of evidence, for the purposes of the determination of any question arising under any such provision, in a country or territory outside Great Britain, by a British consular official or such other person as may be determined in accordance with the regulations.
+>
+> **171ZJ Part 12ZA: supplementary**
+>
+> (1) In this Part of this Act—
+>
+> - “the Board” means the Commissioners of Inland Revenue;
+> - “employer”, in relation to a person who is an employee, means a person who under section 6 above is, or but for the condition in subsection (1)(b) of that section would be, liable to pay secondary Class 1 contributions in relation to any of the earnings of the person who is an employee;
+> - “modifications” includes additions, omissions and amendments, and related expressions are to be read accordingly;
+> - “prescribed” means prescribed by regulations.
+>
+> (2) In this Part of this Act, “employee” means a person who is—
+>
+> (a) gainfully employed in Great Britain either under a contract of service or in an office (including elective office) with emoluments chargeable to income tax under Schedule E; and
+>
+> (b) over the age of 16.
+>
+> (3) Regulations may provide—
+>
+> (a) for cases where a person who falls within the definition in subsection (2) above is not to be treated as an employee for the purposes of this Part of this Act, and
+>
+> (b) for cases where a person who would not otherwise be an employee for the purposes of this Part of this Act is to be treated as an employee for those purposes.
+>
+> (4) Without prejudice to any other power to make regulations under this Part of this Act, regulations may specify cases in which, for the purposes of this Part of this Act or of such provisions of this Part of this Act as may be prescribed—
+>
+> (a) two or more employers are to be treated as one;
+>
+> (b) two or more contracts of service in respect of which the same person is an employee are to be treated as one.
+>
+> (5) In this Part, except section 171ZE, “week” means a period of 7 days beginning with Sunday or such other period as may be prescribed in relation to any particular case or class of cases.
+>
+> (6) For the purposes of this Part of this Act, a person’s normal weekly earnings shall, subject to subsection (8) below, be taken to be the average weekly earnings which in the relevant period have been paid to him or paid for his benefit under the contract of service with the employer in question.
+>
+> (7) For the purposes of subsection (6) above, “earnings” and “relevant period” shall have the meanings given to them by regulations.
+>
+> (8) In such cases as may be prescribed, a person’s normal weekly earnings shall be calculated in accordance with regulations.
+>
+> (9) Where—
+>
+> (a) in consequence of the establishment of one or more National Health Service trusts under Part 1 of the National Health Service and Community Care Act 1990 (c. 19) or the National Health Service (Scotland) Act 1978 (c. 29), a person’s contract of employment is treated by a scheme under that Part or Act as divided so as to constitute two or more contracts, or
+>
+> (b) an order under paragraph 23(1) of Schedule 5A to the National Health Service Act 1977 (c. 49) provides that a person’s contract of employment is so divided,
+>
+> regulations may make provision enabling the person to elect for all of those contracts to be treated as one contract for the purposes of this Part of this Act or such provisions of this Part of this Act as may be prescribed.
+>
+> (10) Regulations under subsection (9) above may prescribe—
+>
+> (a) the conditions that must be satisfied if a person is to be entitled to make such an election;
+>
+> (b) the manner in which, and the time within which, such an election is to be made;
+>
+> (c) the persons to whom, and the manner in which, notice of such an election is to be given;
+>
+> (d) the information which a person who makes such an election is to provide, and the persons to whom, and the time within which, he is to provide it;
+>
+> (e) the time for which such an election is to have effect;
+>
+> (f) which one of the person’s employers under two or more contracts is to be regarded for the purposes of statutory paternity pay as his employer under the contract.
+>
+> (11) The powers under subsections (9) and (10) are without prejudice to any other power to make regulations under this Part of this Act.
+>
+> (12) Regulations under any of subsections (4) to (10) above must be made with the concurrence of the Board.
+>
+> **171ZK Power to apply Part 12ZA to adoption cases not involving placement**
+>
+> The Secretary of State may by regulations provide for this Part to have effect in relation to cases which involve adoption, but not the placement of a child for adoption under the law of any part of the United Kingdom, with such modifications as the regulations may prescribe.
+
+##### 3 Adoption leave
+
+In Part 8 of the Employment Rights Act 1996 (c. 18), after Chapter 1 there is inserted—
+
+> **Chapter 1A — Adoption leave**
+>
+> **75A Ordinary adoption leave**
+>
+> (1) An employee who satisfies prescribed conditions may be absent from work at any time during an ordinary adoption leave period.
+>
+> (2) An ordinary adoption leave period is a period calculated in accordance with regulations made by the Secretary of State.
+>
+> (3) Subject to section 75C, an employee who exercises his right under subsection (1)—
+>
+> (a) is entitled, for such purposes and to such extent as may be prescribed, to the benefit of the terms and conditions of employment which would have applied if he had not been absent,
+>
+> (b) is bound, for such purposes and to such extent as may be prescribed, by any obligations arising under those terms and conditions (except in so far as they are inconsistent with subsection (1)), and
+>
+> (c) is entitled to return from leave to a job of a prescribed kind.
+>
+> (4) In subsection (3)(a) “terms and conditions of employment”—
+>
+> (a) includes matters connected with an employee’s employment whether or not they arise under his contract of employment, but
+>
+> (b) does not include terms and conditions about remuneration.
+>
+> (5) In subsection (3)(c), the reference to return from leave includes, where appropriate, a reference to a continuous period of absence attributable partly to ordinary adoption leave and partly to maternity leave.
+>
+> (6) The Secretary of State may make regulations specifying matters which are, or are not, to be treated as remuneration for the purposes of this section.
+>
+> (7) The Secretary of State may make regulations making provision, in relation to the right to return under subsection (3)(c), about—
+>
+> (a) seniority, pension rights and similar rights;
+>
+> (b) terms and conditions of employment on return.
+>
+> **75B Additional adoption leave**
+>
+> (1) An employee who satisfies prescribed conditions may be absent from work at any time during an additional adoption leave period.
+>
+> (2) An additional adoption leave period is a period calculated in accordance with regulations made by the Secretary of State.
+>
+> (3) Regulations under subsection (2) may allow an employee to choose, subject to prescribed restrictions, the date on which an additional adoption leave period ends.
+>
+> (4) Subject to section 75C, an employee who exercises his right under subsection (1)—
+>
+> (a) is entitled, for such purposes and to such extent as may be prescribed, to the benefit of the terms and conditions of employment which would have applied if he had not been absent,
+>
+> (b) is bound, for such purposes and to such extent as may be prescribed, by obligations arising under those terms and conditions (except in so far as they are inconsistent with subsection (1)), and
+>
+> (c) is entitled to return from leave to a job of a prescribed kind.
+>
+> (5) In subsection (4)(a) “terms and conditions of employment”—
+>
+> (a) includes matters connected with an employee’s employment whether or not they arise under his contract of employment, but
+>
+> (b) does not include terms and conditions about remuneration.
+>
+> (6) In subsection (4)(c), the reference to return from leave includes, where appropriate, a reference to a continuous period of absence attributable partly to additional adoption leave and partly to—
+>
+> (a) maternity leave, or
+>
+> (b) ordinary adoption leave,
+>
+> or to both.
+>
+> (7) The Secretary of State may make regulations specifying matters which are, or are not, to be treated as remuneration for the purposes of this section.
+>
+> (8) The Secretary of State may make regulations making provision, in relation to the right to return under subsection (4)(c), about—
+>
+> (a) seniority, pension rights and similar rights;
+>
+> (b) terms and conditions of employment on return.
+>
+> **75C Redundancy and dismissal**
+>
+> (1) Regulations under section 75A or 75B may make provision about—
+>
+> (a) redundancy, or
+>
+> (b) dismissal (other than by reason of redundancy),
+>
+> during an ordinary or additional adoption leave period.
+>
+> (2) Regulations made by virtue of subsection (1) may include—
+>
+> (a) provision requiring an employer to offer alternative employment;
+>
+> (b) provision for the consequences of failure to comply with the regulations (which may include provision for a dismissal to be treated as unfair for the purposes of Part 10).
+>
+> (3) Regulations under section 75A or 75B may make provision—
+>
+> (a) for section 75A(3)(c) or 75B(4)(c) not to apply in specified cases, and
+>
+> (b) about dismissal at the conclusion of an ordinary or additional adoption leave period.
+>
+> **75D Chapter 1A: supplemental**
+>
+> (1) Regulations under section 75A or 75B may—
+>
+> (a) make provision about notices to be given, evidence to be produced and other procedures to be followed by employees and employers;
+>
+> (b) make provision requiring employers or employees to keep records;
+>
+> (c) make provision for the consequences of failure to give notices, to produce evidence, to keep records or to comply with other procedural requirements;
+>
+> (d) make provision for the consequences of failure to act in accordance with a notice given by virtue of paragraph (a);
+>
+> (e) make special provision for cases where an employee has a right which corresponds to a right under this Chapter and which arises under his contract of employment or otherwise;
+>
+> (f) make provision modifying the effect of Chapter 2 of Part 14 (calculation of a week’s pay) in relation to an employee who is or has been absent from work on ordinary or additional adoption leave;
+>
+> (g) make provision applying, modifying or excluding an enactment, in such circumstances as may be specified and subject to any conditions specified, in relation to a person entitled to ordinary or additional adoption leave;
+>
+> (h) make different provision for different cases or circumstances.
+>
+> (2) In sections 75A and 75B “prescribed” means prescribed by regulations made by the Secretary of State.
+
+##### 4 Statutory adoption pay
+
+In the Social Security Contributions and Benefits Act 1992 (c. 4), after Part 12ZA there is inserted—
+
+> **Part 12ZB — Statutory Adoption pay**
+>
+> **171ZL Entitlement**
+>
+> (1) Where a person who is, or has been, an employee satisfies the conditions in subsection (2) below, he shall be entitled in accordance with the following provisions of this Part to payments to be known as “statutory adoption pay”.
+>
+> (2) The conditions are—
+>
+> (a) that he is a person with whom a child is, or is expected to be, placed for adoption under the law of any part of the United Kingdom;
+>
+> (b) that he has been in employed earner’s employment with an employer for a continuous period of at least 26 weeks ending with the relevant week;
+>
+> (c) that he has ceased to work for the employer;
+>
+> (d) that his normal weekly earnings for the period of 8 weeks ending with the relevant week are not less than the lower earnings limit in force under section 5(1)(a) at the end of the relevant week; and
+>
+> (e) that he has elected to receive statutory adoption pay.
+>
+> (3) The references in subsection (2)(b) and (d) above to the relevant week are to the week in which the person is notified that he has been matched with the child for the purposes of adoption.
+>
+> (4) A person may not elect to receive statutory adoption pay if—
+>
+> (a) he has elected in accordance with section 171ZB above to receive statutory paternity pay, or
+>
+> (b) where the child is, or is expected to be, placed for adoption with him as a member of a married couple and his spouse is a person to whom the conditions in subsection (2) above apply, his spouse has elected to receive statutory adoption pay.
+>
+> (5) A person’s entitlement to statutory adoption pay shall not be affected by the placement, or expected placement, for adoption of more than one child as part of the same arrangement.
+>
+> (6) A person shall be entitled to payments of statutory adoption pay only if—
+>
+> (a) he gives the person who will be liable to pay it notice of the date from which he expects the liability to pay him statutory adoption pay to begin; and
+>
+> (b) the notice is given at least 28 days before that date or, if that is not reasonably practicable, as soon as is reasonably practicable.
+>
+> (7) The notice shall be in writing if the person who is liable to pay the statutory adoption pay so requests.
+>
+> (8) The Secretary of State may by regulations—
+>
+> (a) provide that subsection (2)(b), (c) or (d) above shall have effect subject to prescribed modifications in such cases as may be prescribed;
+>
+> (b) provide that subsection (6) above shall not have effect, or shall have effect subject to prescribed modifications, in such cases as may be prescribed;
+>
+> (c) impose requirements about evidence of entitlement;
+>
+> (d) specify in what circumstances employment is to be treated as continuous for the purposes of this section;
+>
+> (e) provide that a person is to be treated for the purposes of this section as being employed for a continuous period of at least 26 weeks where—
+>
+> (i) he has been employed by the same employer for at least 26 weeks under two or more separate contracts of service; and
+>
+> (ii) those contracts were not continuous;
+>
+> (f) provide for amounts earned by a person under separate contracts of service with the same employer to be aggregated for the purposes of this section;
+>
+> (g) provide that—
+>
+> (i) the amount of a person’s earnings for any period, or
+>
+> (ii) the amount of his earnings to be treated as comprised in any payment made to him or for his benefit,
+>
+> shall be calculated or estimated for the purposes of this section in such manner and on such basis as may be prescribed and that for that purpose payments of a particular class or description made or falling to be made to or by a person shall, to such extent as may be prescribed, be disregarded or, as the case may be, be deducted from the amount of his earnings;
+>
+> (h) make provision about elections for statutory adoption pay.
+>
+> **171ZM Liability to make payments**
+>
+> (1) The liability to make payments of statutory adoption pay is a liability of any person of whom the person entitled to the payments has been an employee as mentioned in section 171ZL(2)(b) above.
+>
+> (2) Regulations shall make provision as to a former employer’s liability to pay statutory adoption pay to a person in any case where the former employee’s contract of service with him has been brought to an end by the former employer solely, or mainly, for the purpose of avoiding liability for statutory adoption pay.
+>
+> (3) The Secretary of State may, with the concurrence of the Board, by regulations specify circumstances in which, notwithstanding this section, liability to make payments of statutory adoption pay is to be a liability of the Board.
+>
+> **171ZN Rate and period of pay**
+>
+> (1) Statutory adoption pay shall be payable at such fixed or earnings-related weekly rate as the Secretary of State may prescribe by regulations, which may prescribe different kinds of rate for different cases.
+>
+> (2) Statutory adoption pay shall be payable, subject to the provisions of this Part of this Act, in respect of each week during a prescribed period (“the adoption pay period”) of a duration not exceeding 26 weeks.
+>
+> (3) A person shall not be liable to pay statutory adoption pay to another in respect of any week during any part of which the other works under a contract of service with him.
+>
+> (4) It is immaterial for the purposes of subsection (3) above whether the work referred to in that subsection is work under a contract of service which existed immediately before the adoption pay period or a contract of service which did not so exist.
+>
+> (5) Except in such cases as may be prescribed, statutory adoption pay shall not be payable to a person in respect of any week during any part of which he works for any employer who is not liable to pay him statutory adoption pay.
+>
+> (6) The Secretary of State may by regulations specify circumstances in which there is to be no liability to pay statutory adoption pay in respect of a week.
+>
+> (7) In subsection (2) above, “week” means any period of seven days.
+>
+> (8) In subsections (3), (5) and (6) above, “week” means a period of seven days beginning with the day of the week on which the adoption pay period begins.
+>
+> **171ZO Restrictions on contracting out**
+>
+> (1) Any agreement shall be void to the extent that it purports—
+>
+> (a) to exclude, limit or otherwise modify any provision of this Part of this Act, or
+>
+> (b) to require an employee or former employee to contribute (whether directly or indirectly) towards any costs incurred by his employer or former employer under this Part of this Act.
+>
+> (2) For the avoidance of doubt, any agreement between an employer and an employee authorising any deductions from statutory adoption pay which the employer is liable to pay to the employee in respect of any period shall not be void by virtue of subsection (1)(a) above if the employer—
+>
+> (a) is authorised by that or another agreement to make the same deductions from any contractual remuneration which he is liable to pay in respect of the same period, or
+>
+> (b) would be so authorised if he were liable to pay contractual remuneration in respect of that period.
+>
+> **171ZP Relationship with benefits and other payments etc**
+>
+> (1) Except as may be prescribed, a day which falls within the adoption pay period shall not be treated as a day of incapacity for work for the purposes of determining, for this Act, whether it forms part of a period of incapacity for work for the purposes of incapacity benefit.
+>
+> (2) Regulations may provide that in prescribed circumstances a day which falls within the adoption pay period shall be treated as a day of incapacity for work for the purposes of determining entitlement to the higher rate of short-term incapacity benefit or to long-term incapacity benefit.
+>
+> (3) Regulations may provide that an amount equal to a person’s statutory adoption pay for a period shall be deducted from any such benefit in respect of the same period and a person shall be entitled to such benefit only if there is a balance after the deduction and, if there is such a balance, at a weekly rate equal to it.
+>
+> (4) Subject to subsections (5) and (6) below, any entitlement to statutory adoption pay shall not affect any right of a person in relation to remuneration under any contract of service (“contractual remuneration”).
+>
+> (5) Subject to subsection (6) below—
+>
+> (a) any contractual remuneration paid to a person by an employer of his in respect of a week in the adoption pay period shall go towards discharging any liability of that employer to pay statutory adoption pay to him in respect of that week; and
+>
+> (b) any statutory adoption pay paid by an employer to a person who is an employee of his in respect of a week in the adoption pay period shall go towards discharging any liability of that employer to pay contractual remuneration to him in respect of that week.
+>
+> (6) Regulations may make provision as to payments which are, and those which are not, to be treated as contractual remuneration for the purposes of subsections (4) and (5) above.
+>
+> (7) In subsection (5) above, “week” means a period of seven days beginning with the day of the week on which the adoption pay period begins.
+>
+> **171ZQ Crown employment-Part 12ZB**
+>
+> The provisions of this Part of this Act apply in relation to persons employed by or under the Crown as they apply in relation to persons employed otherwise than by or under the Crown.
+>
+> **171ZR Special classes of person**
+>
+> (1) The Secretary of State may with the concurrence of the Treasury make regulations modifying any provision of this Part of this Act in such manner as he thinks proper in its application to any person who is, has been or is to be—
+>
+> (a) employed on board any ship, vessel, hovercraft or aircraft;
+>
+> (b) outside Great Britain at any prescribed time or in any prescribed circumstances; or
+>
+> (c) in prescribed employment in connection with continental shelf operations, as defined in section 120(2) above.
+>
+> (2) Regulations under subsection (1) above may, in particular, provide—
+>
+> (a) for any provision of this Part of this Act to apply to any such person, notwithstanding that it would not otherwise apply;
+>
+> (b) for any such provision not to apply to any such person, notwithstanding that it would otherwise apply;
+>
+> (c) for excepting any such person from the application of any such provision where he neither is domiciled nor has a place of residence in any part of Great Britain;
+>
+> (d) for the taking of evidence, for the purposes of the determination of any question arising under any such provision, in a country or territory outside Great Britain, by a British consular official or such other person as may be determined in accordance with the regulations.
+>
+> **171ZS Part 12ZB: supplementary**
+>
+> (1) In this Part of this Act—
+>
+> - “adoption pay period” has the meaning given by section 171ZN(2) above;
+> - “the Board” means the Commissioners of Inland Revenue;
+> - “employer”, in relation to a person who is an employee, means a person who under section 6 above is, or but for the condition in subsection (1)(b) of that section would be, liable to pay secondary Class 1 contributions in relation to any of the earnings of the person who is an employee;
+> - “modifications” includes additions, omissions and amendments, and related expressions are to be read accordingly;
+> - “prescribed” means prescribed by regulations.
+>
+> (2) In this Part of this Act, “employee” means a person who is—
+>
+> (a) gainfully employed in Great Britain either under a contract of service or in an office (including elective office) with emoluments chargeable to income tax under Schedule E; and
+>
+> (b) over the age of 16.
+>
+> (3) Regulations may provide—
+>
+> (a) for cases where a person who falls within the definition in subsection (2) above is not to be treated as an employee for the purposes of this Part of this Act, and
+>
+> (b) for cases where a person who would not otherwise be an employee for the purposes of this Part of this Act is to be treated as an employee for those purposes.
+>
+> (4) Without prejudice to any other power to make regulations under this Part of this Act, regulations may specify cases in which, for the purposes of this Part of this Act or of such provisions of this Part of this Act as may be prescribed—
+>
+> (a) two or more employers are to be treated as one;
+>
+> (b) two or more contracts of service in respect of which the same person is an employee are to be treated as one.
+>
+> (5) In this Part, except sections 171ZN and 171ZP, “week” means a period of 7 days beginning with Sunday or such other period as may be prescribed in relation to any particular case or class of cases.
+>
+> (6) For the purposes of this Part of this Act, a person’s normal weekly earnings shall, subject to subsection (8) below, be taken to be the average weekly earnings which in the relevant period have been paid to him or paid for his benefit under the contract of service with the employer in question.
+>
+> (7) For the purposes of subsection (6) above, “earnings” and “relevant period” shall have the meanings given to them by regulations.
+>
+> (8) In such cases as may be prescribed, a person’s normal weekly earnings shall be calculated in accordance with regulations.
+>
+> (9) Where—
+>
+> (a) in consequence of the establishment of one or more National Health Service trusts under Part 1 of the National Health Service and Community Care Act 1990 (c. 19) or the National Health Service (Scotland) Act 1978 (c. 29), a person’s contract of employment is treated by a scheme under that Part or Act as divided so as to constitute two or more contracts, or
+>
+> (b) an order under paragraph 23(1) of Schedule 5A to the National Health Service Act 1977 (c. 49) provides that a person’s contract of employment is so divided,
+>
+> regulations may make provision enabling the person to elect for all of those contracts to be treated as one contract for the purposes of this Part of this Act or such provisions of this Part of this Act as may be prescribed.
+>
+> (10) Regulations under subsection (9) above may prescribe—
+>
+> (a) the conditions that must be satisfied if a person is to be entitled to make such an election;
+>
+> (b) the manner in which, and the time within which, such an election is to be made;
+>
+> (c) the persons to whom, and the manner in which, notice of such an election is to be given;
+>
+> (d) the information which a person who makes such an election is to provide, and the persons to whom, and the time within which, he is to provide it;
+>
+> (e) the time for which such an election is to have effect;
+>
+> (f) which one of the person’s employers under two or more contracts is to be regarded for the purposes of statutory adoption pay as his employer under the contract.
+>
+> (11) The powers under subsections (9) and (10) are without prejudice to any other power to make regulations under this Part of this Act.
+>
+> (12) Regulations under any of subsections (4) to (10) above must be made with the concurrence of the Board.
+>
+> **171ZT Power to apply Part 12ZB to adoption cases not involving placement**
+>
+> The Secretary of State may by regulations provide for this Part to have effect in relation to cases which involve adoption, but not the placement of a child for adoption under the law of any part of the United Kingdom, with such modifications as the regulations may prescribe.
+
+#### Administration and enforcement: pay
+
+##### [^F1]5 General functions of the Board
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### 6 Financial arrangements
+
+(1) In section 163(1) of the Social Security Administration Act 1992 (c. 5) (sums payable out of National Insurance Fund), for paragraph (d) there is substituted—
+
+> (d) any sum which, under regulations relating to statutory sick pay, statutory maternity pay, statutory adoption pay or statutory paternity pay, falls to be paid by or on behalf of the Inland Revenue or to be set off against sums payable to the Inland Revenue otherwise than on account of contributions;
+
+.
+
+(2) In section 165 of that Act (adjustments between National Insurance Fund and Consolidated Fund)—
+
+[^F2]a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) in subsection (5)(a) (adjustments in respect of certain administrative expenses of the Board), after “above” there is inserted “ , or in carrying into effect any other legislation relating to statutory paternity pay or statutory adoption pay, ”.
+
+(3) In section 1(5) of the Social Security Contributions and Benefits Act 1992 (c. 4) (which provides for payment by way of additional contributions out of money provided by Parliament of an annual amount equal to statutory sick pay and maternity pay recovered by employers and others), for “and statutory maternity pay” there is substituted “ , statutory maternity pay, statutory paternity pay and statutory adoption pay ”.
+
+##### 7 Funding of employers’ liabilities
+
+(1) The Secretary of State shall by regulations make provision for the payment by employers of [[^F3]statutory paternity pay,] statutory adoption pay [[^F4], statutory shared parental pay [[^F5], statutory parental bereavement pay and statutory neonatal care pay]] to be funded by the Board to such extent as the regulations may specify.
+
+(2) Regulations under subsection (1) shall—
+
+(a) make provision for a person who has made a payment of [[^F6]statutory paternity pay,] statutory adoption pay [[^F7], statutory shared parental pay [[^F8], statutory parental bereavement pay or statutory neonatal care pay]] to be entitled, except in such circumstances as the regulations may provide, to recover an amount equal to the sum of—
+
+(i) the aggregate of such of those payments as qualify for small employers’ relief; and
+
+(ii) an amount equal to 92 per cent of the aggregate of such of those payments as do not so qualify; and
+
+(b) include provision for a person who has made a payment of [[^F9]statutory paternity pay,] statutory adoption pay [[^F10], statutory shared parental pay [[^F11], statutory parental bereavement pay or statutory neonatal care pay]] qualifying for small employers’ relief to be entitled, except in such circumstances as the regulations may provide, to recover an additional amount equal to the amount to which the person would have been entitled under section 167(2)(b) of the Social Security Contributions and Benefits Act 1992 (corresponding provision for statutory maternity pay) had the payment been a payment of statutory maternity pay.
+
+(3) For the purposes of subsection (2), a payment of [[^F12]statutory paternity pay,] statutory adoption pay [[^F13], statutory shared parental pay [[^F14], statutory parental bereavement pay or statutory neonatal care pay]] qualifies for small employers’ relief if it would have so qualified were it a payment of statutory maternity pay, [[^F15]treating—
+
+(a) the period for which the payment of statutory paternity pay is made,
+
+(b) the payee's adoption pay period,[^F16]...
+
+(c) the period for which the payment of statutory shared parental pay is made, [^F17][[^F18]...
+
+(d) the period for which the payment of statutory parental bereavement pay is made] [[^F19], or
+
+(e) the period for which the payment of statutory neonatal care pay is made,]
+
+as the maternity pay period.]
+
+(4) Regulations under subsection (1) may, in particular—
+
+(a) make provision for funding in advance as well as in arrear;
+
+(b) make provision for funding, or the recovery of amounts due under provision made by virtue of subsection (2)(b), by means of deductions from such amounts for which employers are accountable to the Board as the regulations may provide, or otherwise;
+
+(c) make provision for the recovery by the Board of any sums overpaid to employers under the regulations.
+
+(5) Where in accordance with any provision of regulations under subsection (1) an amount has been deducted from an employer’s contributions payments, the amount so deducted shall (except in such cases as the Secretary of State may by regulations provide) be treated for the purposes of any provision made by or under any enactment in relation to primary or secondary Class 1 contributions—
+
+(a) as having been paid (on such date as may be determined in accordance with the regulations), and
+
+(b) as having been received by the Board,
+
+towards discharging the employer’s liability in respect of such contributions.
+
+(6) Regulations under this section must be made with the concurrence of the Board.
+
+(7) In this section, “contributions payments”, in relation to an employer, means any payments which the employer is required, by or under any enactment, to make in discharge of any liability in respect of primary or secondary Class 1 contributions.
+
+##### 8 Regulations about payment
+
+(1) The Secretary of State may make regulations with respect to the payment by employers of [[^F20]statutory paternity pay,] statutory adoption pay [[^F21], statutory shared parental pay [[^F22], statutory parental bereavement pay and statutory neonatal care pay]].
+
+(2) Regulations under subsection (1) may, in particular, include provision—
+
+(a) about the records to be kept by employers in relation to payments of statutory paternity pay and [[^F23]statutory paternity pay,] [[^F24], statutory shared parental pay [[^F25], statutory parental bereavement pay and statutory neonatal care pay]], including the length of time for which they are to be retained;
+
+(b) for the production of wages sheets and other documents and records to officers of the Board for the purpose of enabling them to satisfy themselves that [[^F26]statutory paternity pay,] statutory adoption pay [[^F27], statutory shared parental pay [[^F28], statutory parental bereavement pay and statutory neonatal care pay]] have been paid and are being paid, in accordance with the regulations, to employees who are entitled to them;
+
+(c) for requiring employers to provide information to employees (in their itemised pay statements or otherwise);
+
+(d) for requiring employers to make returns to the Board containing such particulars with respect to payments of [[^F29]statutory paternity pay,] statutory adoption pay [[^F30], statutory shared parental pay [[^F31], statutory parental bereavement pay and statutory neonatal care pay]] as the regulations may provide.
+
+(3) Regulations under subsection (1) must be made with the concurrence of the Board.
+
+##### 9 Decisions and appeals
+
+(1) Part 2 of the Social Security Contributions (Transfer of Functions, Etc.) Act 1999 (c. 2) (decisions and appeals) is amended as follows.
+
+(2) In section 8(1) (which lists social security matters in relation to which decisions shall be for an officer of the Board)—
+
+(a) in paragraph (f) (issues relating to entitlement to statutory sick pay or statutory maternity pay), for “or statutory maternity pay” there is substituted “ , statutory maternity pay, statutory paternity pay or statutory adoption pay ”,
+
+(b) in paragraph (g) (other issues relating to those matters) for the words from “under Part” to the end there is substituted “ under Parts 11 to 12ZB of the Social Security Contributions and Benefits Act 1992 (statutory sick pay, statutory maternity pay, statutory paternity pay and statutory adoption pay) ”, and
+
+(c) after that paragraph there is inserted—
+
+> (ga) to make any decision that falls to be made under regulations under section 7 of the Employment Act 2002 (funding of employers’ liabilities to make payments of statutory paternity or adoption pay),
+
+.
+
+(3) In section 8(3)(b) (which excludes certain decisions from section 8(1)(g)) for “or statutory maternity pay” there is substituted “ , statutory maternity pay, statutory paternity pay or statutory adoption pay ”.
+
+(4) In section 11 (appeals against decisions of the Board), in subsection (2)(a) (right of employer and employee in the case of statutory sick pay and statutory maternity pay to appeal to tax appeal Commissioners), for “or statutory maternity pay” there is substituted “ , statutory maternity pay, statutory paternity pay or statutory adoption pay ”.
+
+(5) In section 14 (matters arising as respects decisions)—
+
+(a) in subsection (1)(a)(i) (power to make regulations as respects such matters relating to statutory sick pay or statutory maternity pay), for “or statutory maternity pay” there is substituted “ , statutory maternity pay, statutory paternity pay or statutory adoption pay ”, and
+
+(b) in subsection (3) (regulations relating to statutory sick pay or statutory maternity pay to be made with the concurrence of the Secretary of State), for “or statutory maternity pay” there is substituted “ , statutory maternity pay, statutory paternity pay or statutory adoption pay ”.
+
+##### 10 Powers to require information
+
+(1) The Secretary of State may by regulations make provision enabling an officer of the Board authorised by the Board for the purposes of this section to require persons of a description specified in the regulations to provide, or produce for inspection, within such period as the regulations may require, such information or documents as the officer may reasonably require for the purpose of ascertaining whether [[^F32]statutory paternity pay,] statutory adoption pay [[^F33], statutory shared parental pay [[^F34], statutory parental bereavement pay or statutory neonatal care pay]] is or was payable to or in respect of any person.
+
+(2) The descriptions of person which may be specified by regulations under subsection (1) include, in particular—
+
+(a) any person claiming to be entitled to [[^F35]statutory paternity pay,] statutory adoption pay [[^F36], statutory shared parental pay [[^F37], statutory parental bereavement pay or statutory neonatal care pay]],
+
+(b) any person who is, or has been, the spouse or partner of such a person as is mentioned in paragraph (a),
+
+(c) any person who is, or has been, an employer of such a person as is mentioned in paragraph (a),
+
+(d) any person carrying on an agency or other business for the introduction or supply to persons requiring them of persons available to do work or to perform services, and
+
+(e) any person who is a servant or agent of any such person as is specified in paragraphs (a) to (d).
+
+(3) Regulations under subsection (1) must be made with the concurrence of the Board.
+
+##### 11 Penalties: failures to comply
+
+(1) Where a person—
+
+(a) fails to produce any document or record, provide any information or make any return, in accordance with regulations under section 8, or
+
+(b) fails to provide any information or document in accordance with regulations under section 10,
+
+he shall be liable to the penalties mentioned in subsection (2) below (subject to subsection (4)).
+
+(2) The penalties are—
+
+(a) a penalty not exceeding £300, and
+
+(b) if the failure continues after a penalty is imposed under paragraph (a), a further penalty or penalties not exceeding £60 for each day on which the failure continues after the day on which the penalty under that paragraph was imposed (but excluding any day for which a penalty under this paragraph has already been imposed).
+
+(3) Where a person fails to keep records in accordance with regulations under section 8Ì, he shall be liable to a penalty not exceeding £3,000.
+
+(4) Subject to subsection (5), no penalty shall be imposed under subsection (2) or (3) at any time after the failure concerned has been remedied.
+
+(5) Subsection (4) does not apply to the imposition of a penalty under subsection (2)(a) in respect of a failure within subsection (1)(a).
+
+(6) Where, in the case of any employee, an employer refuses or repeatedly fails to make payments of [[^F38]statutory paternity pay,] statutory adoption pay [[^F39], statutory shared parental pay [[^F40], statutory parental bereavement pay or statutory neonatal care pay]] in accordance with any regulations under section 8, the employer shall be liable to a penalty not exceeding £3,000.
+
+(7) Section 118(2) of the Taxes Management Act 1970 (c. 9) (extra time for compliance etc) shall apply for the purposes of subsections (1), (3) and (6) as it applies for the purposes of that Act.
+
+(8) Schedule 1 to this Act (penalties: procedure and appeals) has effect in relation to penalties under this section.
+
+##### 12 Penalties: fraud etc.
+
+(1) Where a person fraudulently or negligently—
+
+(a) makes any incorrect statement or declaration in connection with establishing entitlement to [[^F41] [^F42]... statutory paternity pay] [[^F43]or statutory parental bereavement pay], or
+
+(b) provides any incorrect information or document of a kind mentioned in regulations under section 10(1) so far as relating to [[^F41] [^F44]... statutory paternity pay,] [[^F45]or statutory parental bereavement pay]
+
+he shall be liable to a penalty not exceeding £300.
+
+(2) Where a person fraudulently or negligently—
+
+(a) makes any incorrect statement or declaration in connection with establishing entitlement to statutory adoption pay [[^F46], statutory shared parental pay or statutory neonatal care pay], or
+
+(b) provides any incorrect information or document of a kind mentioned in regulations under section 10(1) so far as relating to statutory adoption pay [[^F47], statutory shared parental pay or statutory neonatal care pay],
+
+he shall be liable to a penalty not exceeding £3,000.
+
+(3) Where an employer fraudulently or negligently makes incorrect payments of [[^F48] [^F49]... statutory paternity pay ] [[^F50]or statutory parental bereavement pay], he shall be liable to a penalty not exceeding £300.
+
+(4) Where an employer fraudulently or negligently makes incorrect payments of statutory adoption pay [[^F51], statutory shared parental pay or statutory neonatal care pay], he shall be liable to a penalty not exceeding £3,000.
+
+(5) Where an employer fraudulently or negligently—
+
+(a) produces any incorrect document or record, provides any incorrect information or makes any incorrect return, of a kind mentioned in regulations under section 8È, or
+
+(b) receives incorrect payments in pursuance of regulations under section 7,
+
+he shall be liable to a penalty not exceeding £3,000 or, if the offence relates only to [[^F52] [^F53]... statutory paternity pay] [[^F54]or statutory parental bereavement pay], £300.
+
+(6) Schedule 1 (penalties: procedure and appeals) has effect in relation to penalties under this section.
+
+##### 13 Supply of information held by the Board
+
+(1) This section applies to information which is held for the purposes of functions relating to [[^F55]statutory paternity pay,] statutory adoption pay [[^F56], statutory shared parental pay [[^F57], statutory parental bereavement pay or statutory neonatal care pay]]—
+
+(a) by the Board, or
+
+(b) by a person providing services to the Board, in connection with the provision of those services.
+
+(2) Information to which this section applies may be supplied—
+
+(a) to the Secretary of State, [^F58]... or the Department, or
+
+(b) to a person providing services to the Secretary of State, [^F58]... or the Department,
+
+for use for the purposes of functions relating to social security, child support or war pensions [^F59]....
+
+##### 14 Supply of information held by the Secretary of State
+
+(1) This section applies to information which is held for the purposes of functions relating to [[^F60]statutory paternity pay,] statutory adoption pay [[^F61], statutory shared parental pay [[^F62], statutory parental bereavement pay or statutory neonatal care pay]]—
+
+(a) by the Secretary of State or the Department, or
+
+(b) by a person providing services to the Secretary of State or the Department, in connection with the provision of those services.
+
+(2) Information to which this section applies may be supplied—
+
+(a) to the Board, or
+
+(b) to a person providing services to the Board,
+
+for use for the purposes of functions relating to [[^F63]statutory paternity pay,] statutory adoption pay [[^F64], statutory shared parental pay [[^F65], statutory parental bereavement pay or statutory neonatal care pay]].
+
+##### 15 Use of information by the Board
+
+(1) Information which is held—
+
+(a) by the Board, or
+
+(b) by a person providing services to the Board, in connection with the provision of those services,
+
+for the purposes of any functions specified in any paragraph of subsection (2) below may be used for the purposes of, or for any purposes connected with, the exercise of any functions specified in any other paragraph of that subsection, and may be supplied to any person providing services to the Board for those purposes.
+
+(2) The functions referred to in subsection (1) above are—
+
+(a) the functions of the Board in relation to [^F66] .... statutory paternity pay;
+
+[^F67]aa . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) their functions in relation to statutory adoption pay; [^F68]...
+
+[[^F69](ba) their functions in relation to statutory shared parental pay; [^F70]...]
+
+[[^F71](bb) their functions in relation to statutory parental bereavement pay; [^F72]...]
+
+[[^F73](bc) their functions in relation to statutory neonatal care pay; and]
+
+(c) their functions in relation to tax, contributions, statutory sick pay, statutory maternity pay or tax credits, or functions under Part 3 of the Pension Schemes Act 1993 (c. 48) [[^F74] (schemes that were contracted-out etc)] or Part 3 of the Pension Schemes (Northern Ireland) Act 1993 (c. 49) (corresponding provisions for Northern Ireland).
+
+(3) In subsection (2)(c) above, “contributions” means contributions under Part 1 of the Social Security Contributions and Benefits Act 1992 (c. 4) or Part 1 of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 (c. 7).
+
+##### 16 Interpretation
+
+In sections 5 to 15—
+
+- “the Board” means the Commissioners of Inland Revenue;
+- “the Department” means the Department for Social Development or the Department for Employment and Learning;
+- “employer” and “employee” have the same meanings as in Parts 12ZA and 12ZB of the Social Security Contributions and Benefits Act 1992.
+
+### Chapter 2 — Maternity
+
+#### 17 Rights during and after maternity leave
+
+(1) Chapter 1 of Part 8 of the Employment Rights Act 1996 (c. 18) (maternity leave) is amended as follows.
+
+(2) In section 71 (ordinary maternity leave), in subsection (4) (rights during and after leave)—
+
+(a) in paragraph (a), after “entitled” there is inserted “ , for such purposes and to such extent as may be prescribed, ”,
+
+(b) in paragraph (b), after “bound” there is inserted “ , for such purposes and to such extent as may be prescribed ”, and
+
+(c) for paragraph (c) there is substituted—
+
+> (c) is entitled to return from leave to a job of a prescribed kind.
+
+(3) In that section, for subsection (7) there is substituted—
+
+> (7) The Secretary of State may make regulations making provision, in relation to the right to return under subsection (4)(c) above, about—
+>
+> (a) seniority, pension rights and similar rights;
+>
+> (b) terms and conditions of employment on return.
+
+(4) In section 73 (additional maternity leave), after subsection (5) there is inserted—
+
+> (5A) In subsection (4)(c), the reference to return from leave includes, where appropriate, a reference to a continuous period of absence attributable partly to additional maternity leave and partly to ordinary maternity leave.
+
+(5) In section 74 (redundancy and dismissal), in subsection (4) (power to make provision about the right to return from, and for dismissal at the end of, an additional maternity leave period)—
+
+(a) after “section” (where it first appears) there is inserted “ 71 or ”,
+
+(b) in paragraph (a), after “section” there is inserted “ 71(4)(c) or ”, and
+
+(c) in paragraph (b), after “an” there is inserted “ ordinary or ”.
+
+#### [^F75]18 Maternity pay period
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 19 Rate of statutory maternity pay
+
+For section 166 of the Social Security Contributions and Benefits Act 1992 there is substituted—
+
+> **166 Rate of statutory maternity pay**
+>
+> (1) Statutory maternity pay shall be payable to a woman—
+>
+> (a) at the earnings-related rate, in respect of the first 6 weeks in respect of which it is payable; and
+>
+> (b) at whichever is the lower of the earnings-related rate and such weekly rate as may be prescribed, in respect of the remaining portion of the maternity pay period.
+>
+> (2) The earnings-related rate is a weekly rate equivalent to 90 per cent of a woman’s normal weekly earnings for the period of 8 weeks immediately preceding the 14th week before the expected week of confinement.
+>
+> (3) The weekly rate prescribed under subsection (1)(b) above must not be less than the weekly rate of statutory sick pay for the time being specified in section 157(1) above or, if two or more such rates are for the time being so specified, the higher or highest of those rates.
+
+#### 20 Entitlement to statutory maternity pay
+
+In section 164 of the Social Security Contributions and Benefits Act 1992 (statutory maternity pay — entitlement and liability to pay)—
+
+(a) in subsection (2)(a), the words “, wholly or partly because of pregnancy or confinement” are omitted;
+
+(b) for subsection (4) there is substituted—
+
+> (4) A woman shall be entitled to payments of statutory maternity pay only if—
+>
+> (a) she gives the person who will be liable to pay it notice of the date from which she expects his liability to pay her statutory maternity pay to begin; and
+>
+> (b) the notice is given at least 28 days before that date or, if that is not reasonably practicable, as soon as is reasonably practicable.
+
+;
+
+(c) in paragraph (e) of subsection (9), for sub-paragraphs (i) to (iii) there is substituted “in such cases as may be prescribed”; and
+
+(d) after that paragraph there is inserted—
+
+> (ea) provide that subsection (4) above shall not have effect, or shall have effect subject to prescribed modifications, in such cases as may be prescribed;
+
+.
+
+#### 21 Funding of employers’ liabilities: statutory maternity pay
+
+(1) For section 167 of the Social Security Contributions and Benefits Act 1992 (c. 4) there is substituted—
+
+> **167 Funding of employers’ liabilities in respect of statutory maternity pay**
+>
+> (1) Regulations shall make provision for the payment by employers of statutory maternity pay to be funded by the Commissioners of Inland Revenue to such extent as may be prescribed.
+>
+> (2) Regulations under subsection (1) shall—
+>
+> (a) make provision for a person who has made a payment of statutory maternity pay to be entitled, except in prescribed circumstances, to recover an amount equal to the sum of—
+>
+> (i) the aggregate of such of those payments as qualify for small employers’ relief; and
+>
+> (ii) an amount equal to 92 per cent of the aggregate of such of those payments as do not so qualify; and
+>
+> (b) include provision for a person who has made a payment of statutory maternity pay qualifying for small employers’ relief to be entitled, except in prescribed circumstances, to recover an additional amount, determined in such manner as may be prescribed—
+>
+> (i) by reference to secondary Class 1 contributions paid in respect of statutory maternity pay;
+>
+> (ii) by reference to secondary Class 1 contributions paid in respect of statutory sick pay; or
+>
+> (iii) by reference to the aggregate of secondary Class 1 contributions paid in respect of statutory maternity pay and secondary Class 1 contributions paid in respect of statutory sick pay.
+>
+> (3) For the purposes of this section a payment of statutory maternity pay which a person is liable to make to a woman qualifies for small employers’ relief if, in relation to that woman’s maternity pay period, the person liable to make the payment is a small employer.
+>
+> (4) For the purposes of this section “small employer”, in relation to a woman’s maternity pay period, shall have the meaning assigned to it by regulations, and, without prejudice to the generality of the foregoing, any such regulations—
+>
+> (a) may define that expression by reference to the amount of a person’s contributions payments for any prescribed period; and
+>
+> (b) if they do so, may in that connection make provision for the amount of those payments for that prescribed period—
+>
+> (i) to be determined without regard to any deductions that may be made from them under this section or under any other enactment or instrument; and
+>
+> (ii) in prescribed circumstances, to be adjusted, estimated or otherwise attributed to him by reference to their amount in any other prescribed period.
+>
+> (5) Regulations under subsection (1) may, in particular, make provision—
+>
+> (a) for funding in advance as well as in arrear;
+>
+> (b) for funding, or the recovery of amounts due under provision made by virtue of subsection (2)(b), by means of deductions from such amounts for which employers are accountable to the Commissioners of Inland Revenue as may be prescribed, or otherwise;
+>
+> (c) for the recovery by the Commissioners of Inland Revenue of any sums overpaid to employers under the regulations.
+>
+> (6) Where in accordance with any provision of regulations under subsection (1) an amount has been deducted from an employer’s contributions payments, the amount so deducted shall (except in such cases as may be prescribed) be treated for the purposes of any provision made by or under any enactment in relation to primary or secondary Class 1 contributions—
+>
+> (a) as having been paid (on such date as may be determined in accordance with the regulations), and
+>
+> (b) as having been received by the Commissioners of Inland Revenue,
+>
+> towards discharging the employer’s liability in respect of such contributions.
+>
+> (7) Regulations under this section must be made with the concurrence of the Commissioners of Inland Revenue.
+>
+> (8) In this section “contributions payments”, in relation to an employer, means any payments which the employer is required, by or under any enactment, to make in discharge of any liability in respect of primary or secondary Class 1 contributions.
+
+(2) For section 163 of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 (c. 7) there is substituted—
+
+> **163 Funding of employers’ liabilities in respect of statutory maternity pay**
+>
+> (1) Regulations shall make provision for the payment by employers of statutory maternity pay to be funded by the Commissioners of Inland Revenue to such extent as may be prescribed.
+>
+> (2) Regulations under subsection (1) shall—
+>
+> (a) make provision for a person who has made a payment of statutory maternity pay to be entitled, except in prescribed circumstances, to recover an amount equal to the sum of—
+>
+> (i) the aggregate of such of those payments as qualify for small employers’ relief; and
+>
+> (ii) an amount equal to 92 per cent of the aggregate of such of those payments as do not so qualify; and
+>
+> (b) include provision for a person who has made a payment of statutory maternity pay qualifying for small employers’ relief to be entitled, except in prescribed circumstances, to recover an additional amount, determined in such manner as may be prescribed—
+>
+> (i) by reference to secondary Class 1 contributions paid in respect of statutory maternity pay;
+>
+> (ii) by reference to secondary Class 1 contributions paid in respect of statutory sick pay; or
+>
+> (iii) by reference to the aggregate of secondary Class 1 contributions paid in respect of statutory maternity pay and secondary Class 1 contributions paid in respect of statutory sick pay.
+>
+> (3) For the purposes of this section a payment of statutory maternity pay which a person is liable to make to a woman qualifies for small employers’ relief if, in relation to that woman’s maternity pay period, the person liable to make the payment is a small employer.
+>
+> (4) For the purposes of this section “small employer”, in relation to a woman’s maternity pay period, shall have the meaning assigned to it by regulations, and, without prejudice to the generality of the foregoing, any such regulations—
+>
+> (a) may define that expression by reference to the amount of a person’s contributions payments for any prescribed period; and
+>
+> (b) if they do so, may in that connection make provision for the amount of those payments for that prescribed period—
+>
+> (i) to be determined without regard to any deductions that may be made from them under this section or under any other enactment or instrument; and
+>
+> (ii) in prescribed circumstances, to be adjusted, estimated or otherwise attributed to him by reference to their amount in any other prescribed period.
+>
+> (5) Regulations under subsection (1) may, in particular, make provision—
+>
+> (a) for funding in advance as well as in arrear;
+>
+> (b) for funding, or the recovery of amounts due under provision made by virtue of subsection (2)(b), by means of deductions from such amounts for which employers are accountable to the Commissioners of Inland Revenue as may be prescribed, or otherwise;
+>
+> (c) for the recovery by the Commissioners of Inland Revenue of any sums overpaid to employers under the regulations.
+>
+> (6) Where in accordance with any provision of regulations under subsection (1) an amount has been deducted from an employer’s contributions payments, the amount so deducted shall (except in such cases as may be prescribed) be treated for the purposes of any provision made by or under any enactment in relation to primary or secondary Class 1 contributions—
+>
+> (a) as having been paid (on such date as may be determined in accordance with the regulations), and
+>
+> (b) as having been received by the Commissioners of Inland Revenue,
+>
+> towards discharging the employer’s liability in respect of such contributions.
+>
+> (7) Regulations under any provision of this section shall be made by the Secretary of State.
+>
+> (8) Regulations under this section must be made with the concurrence of the Commissioners of Inland Revenue.
+>
+> (9) In this section “contributions payments”, in relation to an employer, means any payments which the employer is required, by or under any enactment, to make in discharge of any liability in respect of primary or secondary Class 1 contributions.
+
+## Part 2 — Tribunal reform
+
+### Costs and expenses
+
+#### 22 Employment tribunals
+
+(1) In section 13 of the Employment Tribunals Act 1996 (c. 17) (costs and expenses), for subsection (1) there is substituted—
+
+> (1) Employment tribunal procedure regulations may include provision—
+>
+> (a) for the award of costs or expenses;
+>
+> (b) for the award of any allowances payable under section 5(2)(c) or (3).
+>
+> (1A) Regulations under subsection (1) may include provision authorising an employment tribunal to have regard to a person’s ability to pay when considering the making of an award against him under such regulations.
+>
+> (1B) Employment tribunal procedure regulations may include provision for authorising an employment tribunal—
+>
+> (a) to disallow all or part of the costs or expenses of a representative of a party to proceedings before it by reason of that representative’s conduct of the proceedings;
+>
+> (b) to order a representative of a party to proceedings before it to meet all or part of the costs or expenses incurred by a party by reason of the representative’s conduct of the proceedings;
+>
+> (c) to order a representative of a party to proceedings before it to meet all or part of any allowances payable by the Secretary of State under section 5(2)(c) or (3) by reason of the representative’s conduct of the proceedings.
+>
+> (1C) Employment tribunal procedure regulations may also include provision for taxing or otherwise settling the costs or expenses referred to in subsection (1)(a) or (1B)(b) (and, in particular in England and Wales, for enabling the amount of such costs to be assessed by way of detailed assessment in a county court).
+
+(2) After that section there is inserted—
+
+> **13A Payments in respect of preparation time**
+>
+> (1) Employment tribunal procedure regulations may include provision for authorising an employment tribunal to order a party to proceedings before it to make a payment to any other party in respect of time spent in preparing that other party’s case.
+>
+> (2) Regulations under subsection (1) may include provision authorising an employment tribunal to have regard to a person’s ability to pay when considering the making of an order against him under such regulations.
+>
+> (3) If employment tribunal procedure regulations include—
+>
+> (a) provision of the kind mentioned in subsection (1), and
+>
+> (b) provision of the kind mentioned in section 13(1)(a),
+>
+> they shall also include provision to prevent an employment tribunal exercising its powers under both kinds of provision in favour of the same person in the same proceedings.
+
+#### 23 Employment Appeal Tribunal
+
+For section 34 of the Employment Tribunals Act 1996 (c. 17) (costs and expenses) there is substituted—
+
+> **34 Costs and expenses**
+>
+> (1) Appeal Tribunal procedure rules may include provision for the award of costs or expenses.
+>
+> (2) Rules under subsection (1) may include provision authorising the Appeal Tribunal to have regard to a person’s ability to pay when considering the making of an award against him under such rules.
+>
+> (3) Appeal Tribunal procedure rules may include provision for authorising the Appeal Tribunal—
+>
+> (a) to disallow all or part of the costs or expenses of a representative of a party to proceedings before it by reason of that representative’s conduct of the proceedings;
+>
+> (b) to order a representative of a party to proceedings before it to meet all or part of the costs or expenses incurred by a party by reason of the representative’s conduct of the proceedings.
+>
+> (4) Appeal Tribunal procedure rules may also include provision for taxing or otherwise settling the costs or expenses referred to in subsection (1) or (3)(b) (and, in particular in England and Wales, for enabling the amount of such costs to be assessed by way of detailed assessment in the High Court).
+
+### Miscellaneous
+
+#### 24 Conciliation
+
+(1) In section 7 of the Employment Tribunals Act 1996 (employment tribunal procedure regulations), in subsection (3)(f) (power to prescribe the procedure to be followed in proceedings before an employment tribunal), before sub-paragraph (ii) there is inserted—
+
+> (ia) for postponing fixing a time and place for a hearing, or postponing a time fixed for a hearing, for such period as may be determined in accordance with the regulations for the purpose of giving an opportunity for the proceedings to be settled by way of conciliation and withdrawn, and
+
+.
+
+[^F76]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) In section 19 of that Act (conciliation procedure), paragraph (c) (which requires employment tribunal procedure regulations, in relation to conciliation cases, to include provision postponing the hearing to give an opportunity for conciliation) shall cease to have effect.
+
+[^F77]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 25 Power to delegate prescription of forms etc.
+
+In section 7 of the Employment Tribunals Act 1996 (c. 17) (employment tribunal procedure regulations), after subsection (3) there is inserted—
+
+> (3ZA) Employment tribunal procedure regulations may—
+>
+> (a) authorise the Secretary of State to prescribe, or prescribe requirements in relation to, any form which is required by such regulations to be used for the purpose of instituting, or entering an appearance to, proceedings before employment tribunals,
+>
+> (b) authorise the Secretary of State to prescribe requirements in relation to documents to be supplied with any such form, and
+>
+> (c) make provision about the publication of anything prescribed under authority conferred by virtue of this subsection.
+
+#### 26 Determination without a hearing
+
+In section 7 of the Employment Tribunals Act 1996 (employment tribunal procedure regulations) for subsection (3A) there is substituted—
+
+> (3A) Employment tribunal procedure regulations may authorise the determination of proceedings without any hearing in such circumstances as the regulations may prescribe.
+
+#### 27 Practice directions
+
+After section 7 of the Employment Tribunals Act 1996 (c. 17) there is inserted—
+
+> **7A Practice directions**
+>
+> (1) Employment tribunal procedure regulations may include provision—
+>
+> (a) enabling the President to make directions about the procedure of employment tribunals, including directions about the exercise by tribunals of powers under such regulations,
+>
+> (b) for securing compliance with such directions, and
+>
+> (c) about the publication of such directions.
+>
+> (2) Employment tribunal procedure regulations may, instead of providing for any matter, refer to provision made or to be made about that matter by directions made by the President.
+>
+> (3) In this section, references to the President are to a person appointed in accordance with regulations under section 1(1) as—
+>
+> (a) President of the Employment Tribunals (England and Wales), or
+>
+> (b) President of the Employment Tribunals (Scotland).
+
+#### 28 Pre-hearing reviews
+
+(1) Section 9 of the Employment Tribunals Act 1996 (pre-hearing reviews) is amended as follows.
+
+(2) In subsection (1) (power to make provision for pre-hearing reviews), for paragraph (a) there is substituted—
+
+> (a) for authorising an employment tribunal to carry out a review of any proceedings before it at any time before a hearing held for the purpose of determining them (a “pre-hearing review”),
+
+.
+
+(3) After subsection (2) there is inserted—
+
+> (2A) Regulations under subsection (1)(b), so far as relating to striking out, may not provide for striking out on a ground which does not apply outside a pre-hearing review.
+
+## Part 3 — Dispute resolution etc.
+
+### Statutory procedures
+
+#### [^F78]29 Statutory dispute resolution procedures
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F78]30 Contracts of employment
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F78]31 Non-completion of statutory procedure: adjustment of awards
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F78]32 Complaints about grievances
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F78]33 Consequential adjustment of time limits
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 34 Procedural fairness in unfair dismissal
+
+(1) Part 10 of the Employment Rights Act 1996 (c. 18) (unfair dismissal) is amended as follows.
+
+[^F79]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) In section 112 (the remedies: orders and compensation), at the end there is inserted—
+
+> (5) Where—
+>
+> (a) an employee is regarded as unfairly dismissed by virtue of section 98A(1) (whether or not his dismissal is unfair or regarded as unfair for any other reason), and
+>
+> (b) an order is made in respect of the employee under section 113,
+>
+> the employment tribunal shall, subject to subsection (6), also make an award of four weeks’ pay to be paid by the employer to the employee.
+>
+> (6) An employment tribunal shall not be required to make an award under subsection (5) if it considers that such an award would result in injustice to the employer.
+
+(4) In section 117 (under which an award of compensation falls to be made if an employee is reinstated or re-engaged in pursuance of an order under section 113, but the terms of the order are not fully complied with), after subsection (2) there is inserted—
+
+> (2A) There shall be deducted from any award under subsection (1) the amount of any award made under section 112(5) at the time of the order under section 113.
+
+(5) In section 123 (compensatory award) at the end there is inserted—
+
+> (8) Where the amount of the compensatory award falls to be calculated for the purposes of an award under section 117(3)(a), there shall be deducted from the compensatory award any award made under section 112(5) at the time of the order under section 113.
+
+(6) In section 120 (basic award: minimum in certain cases) after subsection (1) there is inserted—
+
+> (1A) Where—
+>
+> (a) an employee is regarded as unfairly dismissed by virtue of section 98A(1) (whether or not his dismissal is unfair or regarded as unfair for any other reason),
+>
+> (b) an award of compensation falls to be made under section 112(4), and
+>
+> (c) the amount of the award under section 118(1)(a), before any reduction under section 122(3A) or (4), is less than the amount of four weeks’ pay,
+>
+> the employment tribunal shall, subject to subsection (1B), increase the award under section 118(1)(a) to the amount of four weeks’ pay.
+>
+> (1B) An employment tribunal shall not be required by subsection (1A) to increase the amount of an award if it considers that the increase would result in injustice to the employer.
+
+### Employment particulars
+
+#### 35 Particulars of procedures relating to discipline or dismissal
+
+(1) Section 3 of the Employment Rights Act 1996 (c. 18) (note about disciplinary rules and procedures) is amended as follows.
+
+(2) In subsection (1) (which requires a statement under section 1 of that Act to include a note specifying the disciplinary rules and procedures applying to an employee), after paragraph (a) there is inserted—
+
+> (aa) specifying any procedure applicable to the taking of disciplinary decisions relating to the employee, or to a decision to dismiss the employee, or referring the employee to the provisions of a document specifying such a procedure which is reasonably accessible to the employee,
+
+.
+
+(3) In that subsection, in paragraph (b)(i) (which requires the note to specify a person for the employee to apply to if he is dissatisfied with a disciplinary decision) after “him” there is inserted “ or any decision to dismiss him ”.
+
+(4) In subsection (2) (which provides that the note does not need to specify the rules and procedures relating to health and safety at work) after “decisions,” there is inserted “ decisions to dismiss ”.
+
+#### 36 Removal of exemption for small employers
+
+In section 3 of the Employment Rights Act 1996 (c. 18) (note about disciplinary rules and procedures), subsections (3) and (4) (exemptions for undertakings with less than 20 employees) shall cease to have effect.
+
+#### 37 Use of alternative documents to give particulars
+
+In Part 1 of the Employment Rights Act 1996 (employment particulars), after section 7 there is inserted—
+
+> **7A Use of alternative documents to give particulars**
+>
+> (1) Subsections (2) and (3) apply where—
+>
+> (a) an employer gives an employee a document in writing in the form of a contract of employment or letter of engagement,
+>
+> (b) the document contains information which, were the document in the form of a statement under section 1, would meet the employer’s obligation under that section in relation to the matters mentioned in subsections (3) and (4)(a) to (c), (d)(i), (f) and (h) of that section, and
+>
+> (c) the document is given after the beginning of the employment and before the end of the period for giving a statement under that section.
+>
+> (2) The employer’s duty under section 1 in relation to any matter shall be treated as met if the document given to the employee contains information which, were the document in the form of a statement under that section, would meet the employer’s obligation under that section in relation to that matter.
+>
+> (3) The employer’s duty under section 3 shall be treated as met if the document given to the employee contains information which, were the document in the form of a statement under section 1 and the information included in the form of a note, would meet the employer’s obligation under section 3.
+>
+> (4) For the purposes of this section a document to which subsection (1)(a) applies shall be treated, in relation to information in respect of any of the matters mentioned in section 1(4), as specifying the date on which the document is given to the employee as the date as at which the information applies.
+>
+> (5) Where subsection (2) applies in relation to any matter, the date on which the document by virtue of which that subsection applies is given to the employee shall be the material date in relation to that matter for the purposes of section 4(1).
+>
+> (6) Where subsection (3) applies, the date on which the document by virtue of which that subsection applies is given to the employee shall be the material date for the purposes of section 4(1) in relation to the matters of which particulars are required to be given under section 3.
+>
+> (7) The reference in section 4(6) to an employer having given a statement under section 1 shall be treated as including his having given a document by virtue of which his duty to give such a statement is treated as met.
+>
+> **7B Giving of alternative documents before start of employment**
+>
+> A document in the form of a contract of employment or letter of engagement given by an employer to an employee before the beginning of the employee’s employment with the employer shall, when the employment begins, be treated for the purposes of section 7A as having been given at that time.
+
+#### 38 Failure to give statement of employment particulars etc.
+
+(1) This section applies to proceedings before an employment tribunal relating to a claim by [[^F80]a worker] under any of the jurisdictions listed in Schedule 5.
+
+(2) If in the case of proceedings to which this section applies—
+
+(a) the employment tribunal finds in favour of the [[^F81]worker], but makes no award to him in respect of the claim to which the proceedings relate, and
+
+(b) when the proceedings were begun the employer was in breach of his duty to the [[^F81]worker] under section 1(1) or 4(1) of the Employment Rights Act 1996 (c. 18) (duty to give a written statement of initial employment particulars or of particulars of change [[^F82]or [[^F83](in the case of a claim by an [[^F84]worker])] under section 41B or 41C of that Act (duty to give a written statement in relation to rights not to work on Sunday]),
+
+the tribunal must, subject to subsection (5), make an award of the minimum amount to be paid by the employer to the [[^F85]worker] and may, if it considers it just and equitable in all the circumstances, award the higher amount instead.
+
+(3) If in the case of proceedings to which this section applies—
+
+(a) the employment tribunal makes an award to the [[^F86]worker] in respect of the claim to which the proceedings relate, and
+
+(b) when the proceedings were begun the employer was in breach of his duty to the [[^F86]worker] under section 1(1) or 4(1) of the Employment Rights Act 1996 [[^F87]or [[^F88](in the case of a claim by an [[^F89]worker])] under section 41B or 41C of that Act],
+
+the tribunal must, subject to subsection (5), increase the award by the minimum amount and may, if it considers it just and equitable in all the circumstances, increase the award by the higher amount instead.
+
+(4) In subsections (2) and (3)—
+
+(a) references to the minimum amount are to an amount equal to two weeks’ pay, and
+
+(b) references to the higher amount are to an amount equal to four weeks’ pay.
+
+(5) The duty under subsection (2) or (3) does not apply if there are exceptional circumstances which would make an award or increase under that subsection unjust or inequitable.
+
+(6) The amount of a week’s pay of an [[^F90]a worker] shall—
+
+(a) be calculated for the purposes of this section in accordance with Chapter 2 of Part 14 of the Employment Rights Act 1996 (c. 18), and
+
+(b) not exceed the amount for the time being specified in section 227 of that Act (maximum amount of week’s pay).
+
+[[^F91](6A) The provisions referred to in subsection (6) shall apply for the purposes of that subsection—
+
+(a) as if a reference to an employee were a reference to a worker; and
+
+(b) as if a reference to an employee’s contract of employment were a reference to a worker’s contract of employment or other worker’s contract.]
+
+(7) For the purposes of Chapter 2 of Part 14 of the Employment Rights Act 1996 as applied by subsection (6), the calculation date shall be taken to be—
+
+(a) if the [[^F92]worker] was employed by the employer on the date the proceedings were begun, that date, and
+
+[[^F93](b) if he was not, in the case of an employee, the effective date of termination as defined by section 97 of that Act or in the case of all other workers the date on which the termination takes effect.]
+
+(8) The Secretary of State may by order—
+
+(a) amend Schedule 5 for the purpose of—
+
+(i) adding a jurisdiction to the list in that Schedule, or
+
+(ii) removing a jurisdiction from that list;
+
+(b) make provision, in relation to a jurisdiction listed in Schedule 5, for this section not to apply to proceedings relating to claims of a description specified in the order;
+
+(c) make provision for this section to apply, with or without modifications, as if—
+
+(i) any individual of a description specified in the order who would not otherwise be an employee for the purposes of this section were an employee for those purposes, and
+
+(ii) a person of a description specified in the order were, in the case of any such individual, the individual’s employer for those purposes.
+
+### General
+
+#### 39 Unfair dismissal: adjustments under sections 31 and 38
+
+In the Employment Rights Act 1996 (c. 18), after section 124 there is inserted—
+
+> **124A Adjustments under the Employment Act 2002**
+>
+> Where an award of compensation for unfair dismissal falls to be—
+>
+> (a) reduced or increased under section 31 of the Employment Act 2002 (non-completion of statutory procedures), or
+>
+> (b) increased under section 38 of that Act (failure to give statement of employment particulars),
+>
+> the adjustment shall be in the amount awarded under section 118(1)(b) and shall be applied immediately before any reduction under section 123(6) or (7).
+
+#### 40 Interpretation of Part 3
+
+In this Part—
+
+- “employer” and “employee” have the same meanings as in the Employment Rights Act 1996 (c. 18);
+- [[^F94]“worker” has the same meaning as in the Employment Rights Act 1996.]
+- [^F95]...
+
+## Part 4 — Miscellaneous and general
+
+### [^F96]...
+
+#### [^F97]41 Power to confer rights on individuals: amendment
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 42 [^F98]....
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 43 Union learning representatives
+
+(1) The Trade Union and Labour Relations (Consolidation) Act 1992 (c. 52) is amended as follows.
+
+(2) After section 168 there is inserted—
+
+> **168A Time off for union learning representatives**
+>
+> (1) An employer shall permit an employee of his who is—
+>
+> (a) a member of an independent trade union recognised by the employer, and
+>
+> (b) a learning representative of the trade union,
+>
+> to take time off during his working hours for any of the following purposes.
+>
+> (2) The purposes are—
+>
+> (a) carrying on any of the following activities in relation to qualifying members of the trade union—
+>
+> (i) analysing learning or training needs,
+>
+> (ii) providing information and advice about learning or training matters,
+>
+> (iii) arranging learning or training, and
+>
+> (iv) promoting the value of learning or training,
+>
+> (b) consulting the employer about carrying on any such activities in relation to such members of the trade union,
+>
+> (c) preparing for any of the things mentioned in paragraphs (a) and (b).
+>
+> (3) Subsection (1) only applies if—
+>
+> (a) the trade union has given the employer notice in writing that the employee is a learning representative of the trade union, and
+>
+> (b) the training condition is met in relation to him.
+>
+> (4) The training condition is met if—
+>
+> (a) the employee has undergone sufficient training to enable him to carry on the activities mentioned in subsection (2), and the trade union has given the employer notice in writing of that fact,
+>
+> (b) the trade union has in the last six months given the employer notice in writing that the employee will be undergoing such training, or
+>
+> (c) within six months of the trade union giving the employer notice in writing that the employee will be undergoing such training, the employee has done so, and the trade union has given the employer notice of that fact.
+>
+> (5) Only one notice under subsection (4)(b) may be given in respect of any one employee.
+>
+> (6) References in subsection (4) to sufficient training to carry out the activities mentioned in subsection (2) are to training that is sufficient for those purposes having regard to any relevant provision of a Code of Practice issued by ACAS or the Secretary of State.
+>
+> (7) If an employer is required to permit an employee to take time off under subsection (1), he shall also permit the employee to take time off during his working hours for the following purposes—
+>
+> (a) undergoing training which is relevant to his functions as a learning representative, and
+>
+> (b) where the trade union has in the last six months given the employer notice under subsection (4)(b) in relation to the employee, undergoing such training as is mentioned in subsection (4)(a).
+>
+> (8) The amount of time off which an employee is to be permitted to take under this section and the purposes for which, the occasions on which and any conditions subject to which time off may be so taken are those that are reasonable in all the circumstances having regard to any relevant provision of a Code of Practice issued by ACAS or the Secretary of State.
+>
+> (9) An employee may present a complaint to an employment tribunal that his employer has failed to permit him to take time off as required by this section.
+>
+> (10) In subsection (2)(a), the reference to qualifying members of the trade union is to members of the trade union—
+>
+> (a) who are employees of the employer of a description in respect of which the union is recognised by the employer, and
+>
+> (b) in relation to whom it is the function of the union learning representative to act as such.
+>
+> (11) For the purposes of this section, a person is a learning representative of a trade union if he is appointed or elected as such in accordance with its rules.
+
+(3) In section 169(1) (duty of employer to pay employee for time off under section 168), after “168” there is inserted “ or 168A ”.
+
+(4) In section 170 (duty to permit time off to take part in trade union activities), after subsection (2) there is inserted—
+
+> (2A) The right conferred by subsection (1) does not extend to time off for the purpose of acting as, or having access to services provided by, a learning representative of a trade union.
+>
+> (2B) An employer shall permit an employee of his who is a member of an independent trade union recognised by the employer in respect of that description of employee to take time off during his working hours for the purpose of having access to services provided by a person in his capacity as a learning representative of the trade union.
+>
+> (2C) Subsection (2B) only applies if the learning representative would be entitled to time off under subsection (1) of section 168A for the purpose of carrying on in relation to the employee activities of the kind mentioned in subsection (2) of that section.
+
+(5) In that section, at the end there is inserted—
+
+> (5) For the purposes of this section—
+>
+> (a) a person is a learning representative of a trade union if he is appointed or elected as such in accordance with its rules, and
+>
+> (b) a person who is a learning representative of a trade union acts as such if he carries on the activities mentioned in section 168A(2) in that capacity.
+
+(6) At the end of section 173 (provisions supplementary to section 168 to 170), there is inserted—
+
+> (3) The Secretary of State may by order made by statutory instrument amend section 168A for the purpose of changing the purposes for which an employee may take time off under that section.
+>
+> (4) No order may be made under subsection (3) unless a draft of the order has been laid before and approved by resolution of each House of Parliament.
+
+(7) In sections 199(1) and 203(1) (powers of ACAS and Secretary of State to produce Codes of Practice), at the end there is inserted “or for purposes connected with trade union learning representatives”.
+
+(8) For section 200(3) there is substituted—
+
+> (3) A Code containing practical guidance—
+>
+> (a) on the time off to be permitted to a trade union learning representative in accordance with section 168A (time off for training and carrying out functions as a learning representative),
+>
+> (b) on the training that is sufficient to enable a trade union learning representative to carry on the activities mentioned in section 168A(2) (activities for which time off is to be permitted), or
+>
+> (c) on any of the matters referred to in section 199(2),
+>
+> shall not be issued unless the draft has been approved by a resolution of each House of Parliament; and if it is so approved, ACAS shall issue the Code in the form of the draft.
+
+#### 44 Dismissal procedures agreements (prospective)
+
+In section 110 of the Employment Rights Act 1996 (c. 18) (dismissal procedures agreements) after subsection (3) there is inserted—
+
+> (3A) The Secretary of State may by order amend subsection (3) so as to add to the conditions specified in that subsection such conditions as he may specify in the order.
+
+#### 45 Fixed-term work
+
+(1) The Secretary of State shall make regulations—
+
+(a) for the purpose of securing that employees in fixed-term employment are treated, for such purposes and to such extent as the regulations may specify, no less favourably than employees in permanent employment, and
+
+(b) for the purpose of preventing abuse arising from the use of successive periods of fixed-term employment.
+
+(2) The regulations may—
+
+(a) specify classes of employee who are to be taken to be, or not to be, in fixed-term employment;
+
+(b) specify classes of employee who are to be taken to be, or not to be, in permanent employment;
+
+(c) specify circumstances in which employees in fixed-term employment are to be taken to be, or not to be, treated less favourably than employees in permanent employment;
+
+(d) specify circumstances in which periods of fixed-term employment are to be taken to be, or not to be, successive;
+
+(e) specify circumstances in which fixed-term employment is to have effect as permanent employment;
+
+(f) make provision which has effect in relation to employees in fixed-term employment generally or provision which has effect only in relation to specified classes of employee in fixed-term employment.
+
+(3) The regulations may—
+
+(a) confer jurisdiction (including exclusive jurisdiction) on employment tribunals;
+
+(b) provide for specified obligations not to apply in specified circumstances;
+
+(c) make provision about notices or information to be given, evidence to be produced and other procedures to be followed;
+
+(d) amend, apply with or without modifications, or make provision similar to any provision of—
+
+(i) the Employment Rights Act 1996 (c. 18) (including, in particular, Parts 5, 10 and 13),
+
+(ii) the Trade Union and Labour Relations (Consolidation) Act 1992 (c. 52), or
+
+(iii) the Social Security Contributions and Benefits Act 1992 (c. 4);
+
+(e) provide for the provisions of specified agreements to have effect in place of provisions of the regulations to such extent and in such circumstances as may be specified.
+
+[^F99]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) In its application to this section, section 51(1)(b) includes power to amend an enactment.
+
+(6) In this section—
+
+(a) “employee” means an individual who has entered into or works under (or, where the employment has ceased, worked under) a contract of employment, and
+
+(b) “contract of employment” means a contract of service or apprenticeship, whether express or implied, and (if it is express) whether oral or in writing.
+
+#### 46 Fixed-term work: Northern Ireland
+
+(1) The Department for Employment and Learning shall make regulations—
+
+(a) for the purpose of securing that employees in fixed-term employment are treated, for such purposes and to such extent as the regulations may specify, no less favourably than employees in permanent employment, and
+
+(b) for the purpose of preventing abuse arising from the use of successive periods of fixed-term employment.
+
+(2) The regulations may—
+
+(a) specify classes of employee who are to be taken to be, or not to be, in fixed-term employment;
+
+(b) specify classes of employee who are to be taken to be, or not to be, in permanent employment;
+
+(c) specify circumstances in which employees in fixed-term employment are to be taken to be, or not to be, treated less favourably than employees in permanent employment;
+
+(d) specify circumstances in which periods of fixed-term employment are to be taken to be, or not to be, successive;
+
+(e) specify circumstances in which fixed-term employment is to have effect as permanent employment;
+
+(f) make provision which has effect in relation to employees in fixed-term employment generally or provision which has effect only in relation to specified classes of employee in fixed-term employment.
+
+(3) The regulations may—
+
+(a) confer jurisdiction (including exclusive jurisdiction) on industrial tribunals;
+
+(b) provide for specified obligations not to apply in specified circumstances;
+
+(c) make provision about notices or information to be given, evidence to be produced and other procedures to be followed;
+
+(d) amend, apply with or without modifications, or make provision similar to any provision of—
+
+(i) the Employment Rights (Northern Ireland) Order 1996 (S.I. 1996/1919) (including, in particular, Parts 6, 11 and 15),
+
+(ii) the Trade Union and Labour Relations (Northern Ireland) Order 1995 (S.I. 1995/1980 (N.I. 12)), or
+
+(iii) the Social Security Contributions and Benefits (Northern Ireland) Act 1992 (c. 7);
+
+(e) provide for the provisions of specified agreements to have effect in place of provisions of the regulations to such extent and in such circumstances as may be specified.
+
+[^F100]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) Power to make regulations under this section includes power—
+
+(a) to make different provision for different cases or circumstances;
+
+(b) to make such incidental, supplementary, consequential or transitional provision as the Department for Employment and Learning thinks fit, including provision amending an enactment.
+
+(6) Power to make regulations under this section is exercisable by statutory rule for the purposes of the Statutory Rules (Northern Ireland) Order 1979 (S.I. 1979/1573 (N.I. 12)).
+
+(7) Regulations under this section shall not be made unless a draft of them has been laid before and approved by resolution of the Northern Ireland Assembly.
+
+(8) In this section—
+
+(a) “employee” means an individual who has entered into or works under (or, where the employment has ceased, worked under) a contract of employment, and
+
+(b) “contract of employment” means a contract of service or apprenticeship, whether express or implied, and (if it is express) whether oral or in writing.
+
+#### 47 Flexible working
+
+(1) The Employment Rights Act 1996 (c. 18) is amended as follows.
+
+(2) After Part 8 there is inserted—
+
+> **Part 8A — Flexible working**
+>
+> **80F Statutory right to request contract variation**
+>
+> (1) A qualifying employee may apply to his employer for a change in his terms and conditions of employment if—
+>
+> (a) the change relates to—
+>
+> (i) the hours he is required to work,
+>
+> (ii) the times when he is required to work,
+>
+> (iii) where, as between his home and a place of business of his employer, he is required to work, or
+>
+> (iv) such other aspect of his terms and conditions of employment as the Secretary of State may specify by regulations, and
+>
+> (b) his purpose in applying for the change is to enable him to care for someone who, at the time of application, is a child in respect of whom he satisfies such conditions as to relationship as the Secretary of State may specify by regulations.
+>
+> (2) An application under this section must—
+>
+> (a) state that it is such an application,
+>
+> (b) specify the change applied for and the date on which it is proposed the change should become effective,
+>
+> (c) explain what effect, if any, the employee thinks making the change applied for would have on his employer and how, in his opinion, any such effect might be dealt with, and
+>
+> (d) explain how the employee meets, in respect of the child concerned, the conditions as to relationship mentioned in subsection (1)(b).
+>
+> (3) An application under this section must be made before the fourteenth day before the day on which the child concerned reaches the age of six or, if disabled, eighteen.
+>
+> (4) If an employee has made an application under this section, he may not make a further application under this section to the same employer before the end of the period of twelve months beginning with the date on which the previous application was made.
+>
+> (5) The Secretary of State may by regulations make provision about—
+>
+> (a) the form of applications under this section, and
+>
+> (b) when such an application is to be taken as made.
+>
+> (6) The Secretary of State may by order substitute a different age for the first of the ages specified in subsection (3).
+>
+> (7) In subsection (3), the reference to a disabled child is to a child who is entitled to a disability living allowance within the meaning of section 71 of the Social Security Contributions and Benefits Act 1992 (c. 4).
+>
+> (8) For the purposes of this section, an employee is—
+>
+> (a) a qualifying employee if he—
+>
+> (i) satisfies such conditions as to duration of employment as the Secretary of State may specify by regulations, and
+>
+> (ii) is not an agency worker;
+>
+> (b) an agency worker if he is supplied by a person (“the agent”) to do work for another (“the principal”) under a contract or other arrangement made between the agent and the principal.
+>
+> **80G Employer’s duties in relation to application under section 80F**
+>
+> (1) An employer to whom an application under section 80F is made—
+>
+> (a) shall deal with the application in accordance with regulations made by the Secretary of State, and
+>
+> (b) shall only refuse the application because he considers that one or more of the following grounds applies—
+>
+> (i) the burden of additional costs,
+>
+> (ii) detrimental effect on ability to meet customer demand,
+>
+> (iii) inability to re-organise work among existing staff,
+>
+> (iv) inability to recruit additional staff,
+>
+> (v) detrimental impact on quality,
+>
+> (vi) detrimental impact on performance,
+>
+> (vii) insufficiency of work during the periods the employee proposes to work,
+>
+> (viii) planned structural changes, and
+>
+> (ix) such other grounds as the Secretary of State may specify by regulations.
+>
+> (2) Regulations under subsection (1)(a) shall include—
+>
+> (a) provision for the holding of a meeting between the employer and the employee to discuss an application under section 80F within twenty eight days after the date the application is made;
+>
+> (b) provision for the giving by the employer to the employee of notice of his decision on the application within fourteen days after the date of the meeting under paragraph (a);
+>
+> (c) provision for notice under paragraph (b) of a decision to refuse the application to state the grounds for the decision;
+>
+> (d) provision for the employee to have a right, if he is dissatisfied with the employer’s decision, to appeal against it within fourteen days after the date on which notice under paragraph (b) is given;
+>
+> (e) provision about the procedure for exercising the right of appeal under paragraph (d), including provision requiring the employee to set out the grounds of appeal;
+>
+> (f) provision for notice under paragraph (b) to include such information as the regulations may specify relating to the right of appeal under paragraph (d);
+>
+> (g) provision for the holding, within fourteen days after the date on which notice of appeal is given by the employee, of a meeting between the employer and the employee to discuss the appeal;
+>
+> (h) provision for the employer to give the employee notice of his decision on any appeal within fourteen days after the date of the meeting under paragraph (g);
+>
+> (i) provision for notice under paragraph (h) of a decision to dismiss an appeal to state the grounds for the decision;
+>
+> (j) provision for a statement under paragraph (c) or (i) to contain a sufficient explanation of the grounds for the decision;
+>
+> (k) provision for the employee to have a right to be accompanied at meetings under paragraph (a) or (g) by a person of such description as the regulations may specify;
+>
+> (l) provision for postponement in relation to any meeting under paragraph (a) or (g) which a companion under paragraph (k) is not available to attend;
+>
+> (m) provision in relation to companions under paragraph (k) corresponding to section 10(6) and (7) of the Employment Relations Act 1999 (c. 26) (right to paid time off to act as companion, etc.);
+>
+> (n) provision, in relation to the rights under paragraphs (k) and (l), for the application (with or without modification) of sections 11 to 13 of the Employment Relations Act 1999 (provisions ancillary to right to be accompanied under section 10 of that Act).
+>
+> (3) Regulations under subsection (1)(a) may include—
+>
+> (a) provision for any requirement of the regulations not to apply where an application is disposed of by agreement or withdrawn;
+>
+> (b) provision for extension of a time limit where the employer and employee agree, or in such other circumstances as the regulations may specify;
+>
+> (c) provision for applications to be treated as withdrawn in specified circumstances;
+>
+> and may make different provision for different cases.
+>
+> (4) The Secretary of State may by order amend subsection (2).
+>
+> **80H Complaints to employment tribunals**
+>
+> (1) An employee who makes an application under section 80F may present a complaint to an employment tribunal—
+>
+> (a) that his employer has failed in relation to the application to comply with section 80G(1), or
+>
+> (b) that a decision by his employer to reject the application was based on incorrect facts.
+>
+> (2) No complaint under this section may be made in respect of an application which has been disposed of by agreement or withdrawn.
+>
+> (3) In the case of an application which has not been disposed of by agreement or withdrawn, no complaint under this section may be made until the employer—
+>
+> (a) notifies the employee of a decision to reject the application on appeal, or
+>
+> (b) commits a breach of regulations under section 80G(1)(a) of such description as the Secretary of State may specify by regulations.
+>
+> (4) No complaint under this section may be made in respect of failure to comply with provision included in regulations under subsection (1)(a) of section 80G because of subsection (2)(k), (l) or (m) of that section.
+>
+> (5) An employment tribunal shall not consider a complaint under this section unless it is presented—
+>
+> (a) before the end of the period of three months beginning with the relevant date, or
+>
+> (b) within such further period as the tribunal considers reasonable in a case where it is satisfied that it was not reasonably practicable for the complaint to be presented before the end of that period of three months.
+>
+> (6) In subsection (5)(a), the reference to the relevant date is—
+>
+> (a) in the case of a complaint permitted by subsection (3)(a), the date on which the employee is notified of the decision on the appeal, and
+>
+> (b) in the case of a complaint permitted by subsection (3)(b), the date on which the breach concerned was committed.
+>
+> **80I Remedies**
+>
+> (1) Where an employment tribunal finds a complaint under section 80H well-founded it shall make a declaration to that effect and may—
+>
+> (a) make an order for reconsideration of the application, and
+>
+> (b) make an award of compensation to be paid by the employer to the employee.
+>
+> (2) The amount of compensation shall be such amount, not exceeding the permitted maximum, as the tribunal considers just and equitable in all the circumstances.
+>
+> (3) For the purposes of subsection (2), the permitted maximum is such number of weeks’ pay as the Secretary of State may specify by regulations.
+>
+> (4) Where an employment tribunal makes an order under subsection (1)(a), section 80G, and the regulations under that section, shall apply as if the application had been made on the date of the order.
+
+(3) After section 47C there is inserted—
+
+> **47E Flexible working**
+>
+> (1) An employee has the right not to be subjected to any detriment by any act, or any deliberate failure to act, by his employer done on the ground that the employee—
+>
+> (a) made (or proposed to make) an application under section 80F,
+>
+> (b) exercised (or proposed to exercise) a right conferred on him under section 80G,
+>
+> (c) brought proceedings against the employer under section 80H, or
+>
+> (d) alleged the existence of any circumstance which would constitute a ground for bringing such proceedings.
+>
+> (2) This section does not apply where the detriment in question amounts to dismissal within the meaning of Part 10.
+
+(4) After section 104B there is inserted—
+
+> **104C Flexible working**
+>
+> An employee who is dismissed shall be regarded for the purposes of this Part as unfairly dismissed if the reason (or, if more than one, the principal reason) for the dismissal is that the employee—
+>
+> (a) made (or proposed to make) an application under section 80F,
+>
+> (b) exercised (or proposed to exercise) a right conferred on him under section 80G,
+>
+> (c) brought proceedings against the employer under section 80H, or
+>
+> (d) alleged the existence of any circumstance which would constitute a ground for bringing such proceedings.
+
+#### 48 Rate of maternity allowance
+
+(1) In section 35A of the Social Security Contributions and Benefits Act 1992 (c. 4) (appropriate weekly rate of maternity allowance)—
+
+(a) for subsections (1) to (3) there is substituted—
+
+> (1) For the purposes of section 35(1) above the appropriate weekly rate is (subject to subsection (5A) below) whichever is the lower rate of—
+>
+> (a) a weekly rate equivalent to 90 per cent of the woman’s average weekly earnings; and
+>
+> (b) the weekly rate for the time being prescribed under section 166(1)(b) below.
+
+;
+
+(b) in paragraph (c)(i) of subsection (5), for “the lower earnings limit” there is substituted “ an amount 90 per cent of which is equal to the weekly rate prescribed under section 166(1)(b) below that is ”; and
+
+(c) after that subsection there is inserted—
+
+> (5A) Where subsection (5B) below applies the appropriate weekly rate is the weekly rate for the time being prescribed under section 166(1)(b) below.
+>
+> (5B) This subsection applies where a woman is treated by virtue of regulations under sub-paragraph (i) of paragraph (c) of subsection (5) above as having received a payment in respect of each week in the specified period equal to the amount mentioned in that sub-paragraph.
+
+(2) In relation to any time before the coming into force of section 19, the reference to section 166(1)(b) of the Social Security Contributions and Benefits Act 1992 (c. 4) in section 35A(5)(c)(i) of that Act (as amended by subsection (1)(b) above) is a reference to section 166(3) of that Act.
+
+#### 49 Work-focused interviews for partners
+
+After section 2A of the Social Security Administration Act 1992 (c. 5) (claim or full entitlement to certain benefits conditional on work-focused interview), there is inserted—
+
+> **2AA Full entitlement to certain benefits conditional on work-focused interview for partner**
+>
+> (1) Regulations may make provision for or in connection with imposing, at a time when—
+>
+> (a) a person (“the claimant”) who—
+>
+> (i) is under the age of 60, and
+>
+> (ii) has a partner who is also under that age,
+>
+> is entitled to a benefit to which this section applies at a higher rate referable to his partner, and
+>
+> (b) prescribed circumstances exist,
+>
+> a requirement for the partner to take part in a work-focused interview as a condition of the benefit continuing to be payable to the claimant at that rate.
+>
+> (2) The benefits to which this section applies are—
+>
+> (a) income support;
+>
+> (b) an income-based jobseeker’s allowance other than a joint-claim jobseeker’s allowance;
+>
+> (c) incapacity benefit;
+>
+> (d) severe disablement allowance; and
+>
+> (e) invalid care allowance.
+>
+> (3) For the purposes of this section a benefit is payable to a person at a higher rate referable to his partner if the amount that is payable in his case—
+>
+> (a) is more than it would be if the person concerned was not a member of a couple; or
+>
+> (b) includes an increase of benefit for his partner as an adult dependant of his.
+>
+> (4) Regulations under this section may, in particular, make provision—
+>
+> (a) for securing, where the partner of the claimant would otherwise be required to take part in work-focused interviews relating to two or more benefits—
+>
+> (i) that the partner is required instead to take part in only one such interview; and
+>
+> (ii) that the interview is capable of counting for the purposes of all those benefits;
+>
+> (b) in a case where the claimant has more than one partner, for determining which of those partners is required to take part in the work-focused interview or requiring each of them to take part in such an interview;
+>
+> (c) for determining the persons by whom work-focused interviews are to be conducted;
+>
+> (d) conferring power on such persons or the designated authority to determine when and where work-focused interviews are to take place (including power in prescribed circumstances to determine that they are to take place in the homes of those being interviewed);
+>
+> (e) prescribing the circumstances in which partners attending work-focused interviews are to be regarded as having or not having taken part in them;
+>
+> (f) for securing that if—
+>
+> (i) a partner who has been notified of a requirement to take part in a work-focused interview fails to take part in it, and
+>
+> (ii) it is not shown (by him or by the claimant), within the prescribed period, that he had good cause for that failure,
+>
+> the amount payable to the claimant in respect of the benefit in relation to which the requirement applied is to be reduced by the specified amount until the specified time;
+>
+> (g) prescribing—
+>
+> (i) matters which are or are not to be taken into account in determining whether a partner does or does not have good cause for any failure to comply with the regulations; or
+>
+> (ii) circumstances in which a partner is or is not to be regarded as having or not having good cause for any such failure.
+>
+> (5) Regulations under this section may, in relation to a reduction under subsection (4)(f), provide—
+>
+> (a) for the amount of the reduction to be calculated in the first instance by reference to such amount as may be prescribed;
+>
+> (b) for the amount as so calculated to be restricted, in prescribed circumstances, to the prescribed extent;
+>
+> (c) where the claimant is entitled to two or more benefits in relation to each of which a requirement to take part in a work-focused interview applied, for determining the extent to, and the order in, which those benefits are to be reduced in order to give effect to the reduction required in his case.
+>
+> (6) Regulations under this section may provide that any requirement to take part in a work-focused interview that would otherwise apply to a partner by virtue of the regulations—
+>
+> (a) is, in any prescribed circumstances, either not to apply or not to apply until the specified time;
+>
+> (b) is not to apply if the designated authority determines that such an interview would not be of assistance to him or appropriate in the circumstances;
+>
+> (c) is not to apply until such time as the designated authority determines (if that authority determines that such an interview would not be of assistance to him or appropriate in the circumstances until that time);
+>
+> and the regulations may make provision for treating a partner to whom any such requirement does not apply, or does not apply until a particular time, as having complied with that requirement to such extent and for such purposes as are specified.
+>
+> (7) In this section—
+>
+> - “couple” means a married or unmarried couple (within the meaning of Part 7 of the Contributions and Benefits Act);
+>
+> - “designated authority” means such of the following as may be specified, namely—
+>
+>   - (a) the Secretary of State,
+>   - (b) a person providing services to the Secretary of State,
+>   - (c) a local authority, and
+>   - (d) a person providing services to, or authorised to exercise any function of, a local authority;
+>
+> - “partner” means a person who is a member of the same couple as the claimant;
+>
+> - “specified” means prescribed by or determined in accordance with regulations; and
+>
+> - “work-focused interview” has the same meaning as in section 2A above.
+
+#### 50 Use of information for, or relating to, employment and training
+
+Schedule 6 (which contains provision for the use of information for, or relating to, employment and training) has effect.
+
+### General
+
+#### 51 Orders and regulations
+
+(1) Any power of the Secretary of State to make orders or regulations under this Act includes power—
+
+(a) to make different provision for different cases or circumstances;
+
+(b) to make such incidental, supplementary, consequential or transitional provision as the Secretary of State thinks fit.
+
+(2) Any power of the Secretary of State to make orders or regulations under this Act is exercisable by statutory instrument.
+
+(3) No order may be made under this Act unless a draft of the order has been laid before and approved by resolution of each House of Parliament.
+
+(4) No regulations may be made under section [^F101]... 45 unless a draft of the regulations has been laid before and approved by resolution of each House of Parliament.
+
+(5) A statutory instrument containing regulations under any other provision of this Act shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(6) This section does not apply to orders under section 55(2).
+
+#### 52 Financial provisions
+
+(1) There shall be paid out of money provided by Parliament—
+
+(a) any expenses incurred by a Minister of the Crown or government department in consequence of this Act, and
+
+(b) any increase attributable to this Act in the sums so provided under any other Act.
+
+(2) There shall be paid into the Consolidated Fund any increase attributable to this Act in the sums payable into that Fund under any other Act.
+
+#### 53 Minor and consequential amendments
+
+Schedule 7 (which makes minor and consequential amendments) has effect.
+
+#### 54 Repeals and revocations
+
+The enactments and instruments specified in Schedule 8 are hereby repealed or revoked to the extent specified there.
+
+#### 55 Short title etc.
+
+(1) This Act may be cited as the Employment Act 2002.
+
+(2) This Act, except sections 45, 46, 51 and 52 and this section, shall come into force on such day as the Secretary of State may by order made by statutory instrument appoint, and different days may be so appointed for different purposes.
+
+(3) An order under subsection (2) may contain such transitional provisions and savings as the Secretary of State considers necessary or expedient in connection with the coming into force of any of the provisions of this Act.
+
+(4) The Secretary of State may by regulations make such transitional provisions and savings as he considers necessary or expedient for the purposes of or in connection with—
+
+(a) the coming into force of section 19 or 48, or Schedule 7 so far as relating to any amendment made in consequence of either of those sections; or
+
+(b) the operation of any enactment amended by any of those provisions during any period when the amendment is not wholly in force.
+
+(5) Subject to subsections (6) and (7), this Act extends to England and Wales and Scotland only.
+
+(6) The following provisions also extend to Northern Ireland—
+
+(a) section 5;
+
+(b) sections 13 to 15, and section 16 so far as relating thereto;
+
+(c) paragraphs 1, 4, 9 and 10 of Schedule 6, and section 50 so far as relating thereto;
+
+(d) sections 51 and 52;
+
+(e) paragraphs 1, 50, 52 and 53 of Schedule 7, and section 53 so far as relating thereto;
+
+(f) Schedule 8, so far as relating to the repeal of section 3(3) of the Social Security Act 1998 (c. 14), and section 54 so far as relating thereto;
+
+(g) this section.
+
+(7) The following provisions extend to Northern Ireland only—
+
+(a) sections 21(2) and 46;
+
+(b) paragraphs 7, 8, 12 and 14 of Schedule 6, and section 50 so far as relating thereto;
+
+(c) paragraph 17 of Schedule 7, and section 53 so far as relating thereto;
+
+(d) Schedule 8, so far as relating to—
+
+(i) the repeal in the Social Security Administration (Northern Ireland) Act 1992 (c. 8), and
+
+(ii) the revocations in the Social Security Administration (Fraud) (Northern Ireland) Order 1997 (S.I. 1997/1182 (N.I. 11)) and the Social Security Contributions (Transfer of Functions, etc.) (Northern Ireland) Order 1999 (S.I. 1999/671),
+
+and section 54 so far as relating thereto.
+
+(8) In sections 5 and 13 to 15 and paragraph 53 of Schedule 7, references to [[^F102]statutory paternity pay,] statutory adoption pay [[^F103], statutory shared parental pay [[^F104], statutory parental bereavement pay or statutory neonatal care pay]] include statutory pay under Northern Ireland legislation corresponding to Part 12ZA [[^F105], Part 12ZB [[^F106], Part 12ZC [[^F107], Part 12ZD or Part 12ZE]]] of the Social Security Contributions and Benefits Act 1992 (c. 4).
+
+## SCHEDULE 1 — Penalties: procedure and appeals
+
+*Sections 11 and 12*
+
+### Determination of penalties by officer of Board
+
+**1** (1) Subject to sub-paragraph (2) and except where proceedings have been instituted under paragraph 5, an officer of the Board authorised by the Board for the purposes of this paragraph may make a determination—
+
+(a) imposing a penalty under section 11 or 12, and
+
+(b) setting it at such amount as, in his opinion, is correct or appropriate.
+
+(2) Sub-paragraph (1) does not apply to the imposition of such a penalty as is mentioned in section 11(2)(a).
+
+(3) Notice of a determination of a penalty under this paragraph shall be served on the person liable to the penalty and shall state the date on which it is issued and the time within which an appeal against the determination may be made.
+
+(4) After the notice of a determination under this paragraph has been served the determination shall not be altered except in accordance with this paragraph or on appeal.
+
+(5) If it is discovered by an officer of the Board authorised by the Board for the purposes of this paragraph that the amount of a penalty determined under this paragraph is or has become insufficient, the officer may make a determination in a further amount so that the penalty is set at the amount which, in his opinion, is correct or appropriate.
+
+### Provisions supplementary to paragraph 1
+
+**2** (1) A penalty determined under paragraph 1 above shall be due and payable at the end of the period of thirty days beginning with the date of the issue of the notice of determination.
+
+(2) Part 6 of the Taxes Management Act 1970 (c. 9) shall apply in relation to a penalty determined under paragraph 1 as if it were tax charged in an assessment and due and payable.
+
+### Appeals against penalty determinations
+
+**3** (1) An appeal may be brought against the determination of a penalty under paragraph 1.
+
+(2) The provisions of the Taxes Management Act 1970 relating to appeals, except section 50(6) to (8), shall have effect in relation to an appeal against such a determination as they have effect in relation to an appeal against an assessment to tax[[^F108]except that references to the tribunal shall be taken to be references to the First-tier Tribunal].
+
+(3) On an appeal by virtue of sub-paragraph (2) against the determination of a penalty under paragraph 1, the [[^F109]First-tier Tribunal] may—
+
+(a) if it appears [^F110]... that no penalty has been incurred, set the determination aside;
+
+(b) if the amount determined appears [^F110]... to be appropriate, confirm the determination;
+
+(c) if the amount determined appears [^F111]... to be excessive, reduce it to such other amount (including nil) as [[^F112]the tribunal considers]appropriate;
+
+(d) if the amount determined appears [^F111]... to be insufficient, increase it to such amount not exceeding the permitted maximum as [[^F112]the tribunal considers] appropriate.
+
+[[^F113](4) In addition to any right of appeal on a point of law under section 11(2) of the Tribunals, Courts and Enforcement Act 2007, the person liable to the penalty may appeal to the Upper Tribunal against the amount of the penalty which had been determined under sub-paragraph (3), but not against any decision which falls under section 11(5)(d) or (e) of that Act and was made in connection with the determination of the amount of the penalty.
+
+(4A) Section 11(3) and (4) of the Tribunals, Courts and Enforcement Act 2007 applies to the right of appeal under sub-paragraph (4) as it applies to the right of appeal under section 11(2) of that Act.
+
+(4B) On an appeal under this paragraph the Upper Tribunal has the like jurisdiction as is conferred on the First-tier Tribunal by virtue of this paragraph.]
+
+### Penalty proceedings before [[^F114]First-tier Tribunal]
+
+**4** (1) An officer of the Board authorised by the Board for the purposes of this paragraph may commence proceedings for any penalty to which sub-paragraph (1) of paragraph 1 does not apply by virtue of sub-paragraph (2) of that paragraph.
+
+[[^F115](2) The person liable to the penalty shall be a party to the proceedings.]
+
+(3) Part 6 of the Taxes Management Act 1970 (c. 9) shall apply in relation to a penalty determined in proceedings under this paragraph as if it were tax charged in an assessment and due and payable.
+
+[[^F116](4) In addition to any right of appeal on a point of law under section 11(2) of the Tribunals, Courts and Enforcement Act 2007, the person liable to the penalty may appeal to the Upper Tribunal against the determination of a penalty in proceedings under sub-paragraph (1), but not against any decision which falls under section 11(5)(d) or (e) of that Act and was made in connection with the determination of the amount of the penalty.
+
+(4A) Section 11(3) and (4) of the Tribunals, Courts and Enforcement Act 2007 applies to the right of appeal under sub-paragraph (4) as it applies to the right of appeal under section 11(2) of that Act.]
+
+(5) On any such appeal the [[^F117]Upper Tribunal] may—
+
+(a) if it appears that no penalty has been incurred, set the determination aside;
+
+(b) if the amount determined appears to be appropriate, confirm the determination;
+
+(c) if the amount determined appears to be excessive, reduce it to such other amount (including nil) as the [[^F117]Upper Tribunal] considers appropriate;
+
+(d) if the amount determined appears to be insufficient, increase it to such amount not exceeding the permitted maximum as the [[^F117]Upper Tribunal] considers appropriate.
+
+### Penalty proceedings before court
+
+**5** (1) Where in the opinion of the Board the liability of any person for a penalty under section 11 or 12 arises by reason of the fraud of that or any other person, proceedings for the penalty may be instituted before the High Court or, in Scotland, the Court of Session as the Court of Exchequer in Scotland.
+
+(2) Subject to sub-paragraph (3), proceedings under this paragraph shall be instituted—
+
+(a) in England and Wales, in the name of the Attorney General, and
+
+(b) in Scotland, in the name of the Advocate General for Scotland.
+
+(3) Sub-paragraph (2) shall not prevent proceedings under this paragraph being instituted in England and Wales under the Crown Proceedings Act 1947 (c. 44) by and in the name of the Board as an authorised department for the purposes of that Act.
+
+(4) Any proceedings under this paragraph instituted in England and Wales shall be deemed to be civil proceedings by the Crown within the meaning of Part 2 of the Crown Proceedings Act 1947.
+
+(5) If in proceedings under this paragraph the court does not find that fraud is proved but considers that the person concerned is nevertheless liable to a penalty, the court may determine a penalty notwithstanding that, but for the opinion of the Board as to fraud, the penalty would not have been a matter for the court.
+
+### Mitigation of penalties
+
+**6** The Board may in their discretion mitigate any penalty under section 11 or 12, or stay or compound any proceedings for a penalty, and may also, after judgment, further mitigate or entirely remit the penalty.
+
+### Time limits for penalties
+
+**7** A penalty under section 11 or 12 may be determined by an officer of the Board, or proceedings for the penalty may be commenced before the [[^F118]tribunal] or the court, at any time within six years after the date on which the penalty was incurred or began to be incurred.
+
+### Interest on penalties
+
+**8** (1) After paragraph (p) of section 178(2) of the Finance Act 1989 (c. 26) (setting rates of interest) there shall be inserted—
+
+> (q) paragraph 8 of Schedule 1 to the Employment Act 2002.
+
+(2) A penalty under section 11 or 12 shall carry interest at the rate applicable under section 178 of the Finance Act 1989 from the date on which it becomes due and payable until payment.
+
+### Interpretation
+
+**9** In this Schedule—
+
+- “the Board” means the Commissioners of Inland Revenue;
+- [^F119]............
+
+## SCHEDULE 2 — Statutory dispute resolution procedures
+
+*Section 29*
+
+### [^F120]...
+
+### ... — ...
+
+#### ... — ...
+
+## [^F120]SCHEDULE 3 — Tribunal jurisdictions to which section 31 applies
+
+*Section 31*
+
+- Section 2 of the Equal Pay Act 1970 (c. 41) (equality clauses)
+- Section 63 of the Sex Discrimination Act 1975 (c. 65) (discrimination in the employment field)
+- Section 54 of the Race Relations Act 1976 (c. 74) (discrimination in the employment field)
+- Section 145A of the Trade Union and Labour Relations (Consolidation) Act 1992 (inducements relating to union membership or activities) Section 145B of that Act (inducements relating to collective bargaining) Section 146 of that Act (detriment in relation to union membership and activities)
+- Paragraph 156 of Schedule A1 to that Act (detriment in relation to union recognition rights)
+- Section 17A of the Disability Discrimination Act 1995 (discrimination in the employment field)
+- Section 23 of the Employment Rights Act 1996 (c. 18) (unauthorised deductions and payments)
+- Section 48 of that Act (detriment in employment)
+- Section 111 of that Act (unfair dismissal)
+- Section 163 of that Act (redundancy payments)
+- Section 24 of the National Minimum Wage Act 1998 (c. 39) (detriment in relation to national minimum wage)
+- ...
+- The Employment Tribunal Extension of Jurisdiction (England and Wales) Order 1994 ( S.I. 1994/1623) (breach of employment contract and termination)
+- The Employment Tribunal Extension of Jurisdiction (Scotland) Order 1994 ( S.I. 1994/1624) (corresponding provision for Scotland)
+- Regulation 30 of the Working Time Regulations 1998 ( S.I. 1998/1833) (breach of regulations)
+- Regulation 32 of the Transnational Information and Consultation of Employees Regulations 1999 ( S.I. 1999/3323) (detriment relating to European Works Councils)
+- Regulation 28 of the Employment Equality (Sexual Orientation) Regulations 2003 (discrimination in the employment field)
+- Regulation 28 of the Employment Equality (Religion or Belief) Regulations 2003 (discrimination in the employment field)
+- Regulation 45 of the European Public Limited-Liability Company Regulations 2004 ( S.I. 2004/2326 ) (detriment in employment).
+- Regulation 33 of the Information and Consultation of Employees Regulations 2004 ( S.I. 2004/3426 ) (detriment in employment).
+- Paragraph 8 of the Schedule to the Occupational and Personal Pension Schemes (Consultation by Employers and Miscellaneous Amendment) Regulations 2006 ( S.I. 2006/349 ) (detriment in employment)
+- Regulation 34 of the European Cooperative Society (Involvement of Employees) Regulations 2006 (detriment in relation to involvement in a European Cooperative Society)
+- Regulation 36 of the Employment Equality (Age) Regulations 2006 (discrimination in the employment field)
+- Regulation 51 of the Companies (Cross-Border Mergers) Regulations 2007 (detriment in relation to special negotiating body or employee participation)
+- Regulation 17 of the Cross-border Railways Services (Working Time) Regulations 2008 (breach of regulations)
+
+## [^F120]SCHEDULE 4 — Tribunal jurisdictions to which section 32 applies
+
+*Section 32*
+
+- Section 2 of the Equal Pay Act 1970 (c. 41) (equality clauses)
+- Section 63 of the Sex Discrimination Act 1975 (c. 65) (discrimination in the employment field)
+- Section 54 of the Race Relations Act 1976 (c. 74) (discrimination in the employment field)
+- Section 145A of the Trade Union and Labour Relations (Consolidation) Act 1992 (inducements relating to union membership or activities) Section 145B of that Act (inducements relating to collective bargaining) Section 146 of that Act (detriment in relation to union membership and activities)
+- Paragraph 156 of Schedule A1 to that Act (detriment in relation to union recognition rights)
+- Section 17A of the Disability Discrimination Act 1995 (discrimination in the employment field)
+- Section 23 of the Employment Rights Act 1996 (c. 18) (unauthorised deductions and payments)
+- Section 48 of that Act (detriment in employment)
+- Section 111 of that Act (unfair dismissal)
+- Section 163 of that Act (redundancy payments)
+- Section 24 of the National Minimum Wage Act 1998 (c. 39) (detriment in relation to national minimum wage)
+- ...
+- Regulation 30 of the Working Time Regulations 1998 (S.I. 1998/1833) (breach of regulations)
+- Regulation 32 of the Transnational Information and Consultation of Employees Regulations 1999 (S.I. 1999/3323) (detriment relating to European Works Councils)
+- Regulation 28 of the Employment Equality (Sexual Orientation) Regulations 2003 (discrimination in the employment field)
+- Regulation 28 of the Employment Equality (Religion or Belief) Regulations 2003 (discrimination in the employment field)
+- Regulation 45 of the European Public Limited-Liability Company Regulations 2004 ( S.I. 2004/2326 ) (detriment in employment)
+- Regulation 33 of the Information and Consultation of Employees Regulations 2004 ( S.I. 2004/3426 ) (detriment in employment)
+- Paragraph 8 of the Schedule to the Occupational and Personal Pension Schemes (Consultation by Employers and Miscellaneous Amendment) Regulations 2006 ( S.I. 2006/349 ) (detriment in employment)
+- Regulation 34 of the European Cooperative Society (Involvement of Employees) Regulations 2006 (detriment in relation to involvement in a European Cooperative Society)
+- Regulation 36 of the Employment Equality (Age) Regulations 2006 (discrimination in the employment field)
+- Regulation 51 of the Companies (Cross-Border Mergers) Regulations 2007 (detriment in relation to special negotiating body or employee participation)
+- Regulation 17 of the Cross-border Railways Services (Working Time) Regulations 2008 (breach of regulations)
+
+## [^F121]SCHEDULE 5 — Tribunal jurisdictions to which section 38 applies
+
+*Section 38*
+
+### [^F121]
+
+- [^F122]...
+- [^F123]...
+- [^F124]...
+- [[^F125]Section 145A of the Trade Union and Labour Relations (Consolidation) Act 1992 (inducements relating to union membership or activities) Section 145B of that Act (inducements relating to collective bargaining) Section 146 of that Act (detriment in relation to union membership and activities)]
+- Paragraph 156 of Schedule A1 to that Act (detriment in relation to union recognition rights)
+- [^F126]...
+- Section 23 of the Employment Rights Act 1996 (c. 18) (unauthorised deductions and payments)
+- Section 48 of that Act (detriment in employment)
+- Section 111 of that Act (unfair dismissal)
+- Section 163 of that Act (redundancy payments)
+- Section 24 of the National Minimum Wage Act 1998 (c. 39) (detriment in relation to national minimum wage)
+- [^F127]...
+- The Employment Tribunal Extension of Jurisdiction (England and Wales) Order 1994 (S.I. 1994/1623) (breach of employment contract and termination)
+- The Employment Tribunal Extension of Jurisdiction (Scotland) Order 1994 (S.I. 1994/1624) (corresponding provision for Scotland)
+- Regulation 30 of the Working Time Regulations 1998 (S.I. 1998/1833) (breach of regulations)
+- Regulation 32 of the Transnational Information and Consultation of Employees Regulations 1999 (S.I. 1999/3323) (detriment relating to European Works Councils)
+- [^F128]...
+- [^F129]...
+- [[^F130] Regulation 45 of the European Public Limited-Liability Company Regulations 2004 ( S.I. 2004/2326 ) (detriment in employment)
+- Regulation 33 of the Information and Consultation of Employees Regulations 2004 ( S.I. 2004/3426 ) (detriment in employment)
+- Paragraph 8 of the Schedule to the Occupational and Personal Pension Schemes (Consultation by Employers and Miscellaneous Amendment) Regulations 2006 ( S.I. 2006/349 ) (detriment in employment) ]
+- [[^F131]Regulation 34 of the European Cooperative Society (Involvement of Employees) Regulations 2006 (detriment in relation to involvement in a European Cooperative Society)]
+- [^F132]...
+- [^F133]...
+- [[^F134]Regulation 17 of the Cross-border Railways Services (Working Time) Regulations 2008 (breach of regulations)]
+- [[^F135]“Sections 120 and 127 of the Equality Act 2010 (discrimination etc in work cases)”.]
+
+## SCHEDULE 6 — Use of information for, or relating to, employment and training
+
+*Section 50*
+
+### Supply and use of employment or training information by Secretary of State etc.
+
+**1** In section 3 of the Social Security Act 1998 (c. 14) (use of information)—
+
+[^F136]a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F136]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(c) in subsection (4), at the end there is inserted “or the Department for Employment and Learning in Northern Ireland”.
+
+**2** In section 122C of the Social Security Administration Act 1992 (c. 5) (supply of information to authorities administering benefit)—
+
+(a) in subsection (1), after “social security” there is inserted “ , child support or war pensions, or employment or training, ”; and
+
+(b) after subsection (7) there is inserted—
+
+> (8) In this section and section 122D below “war pension” has the same meaning as in section 25 of the Social Security Act 1989.
+
+**3** In section 122D of that Act (supply of information by authorities administering benefit), in subsection (1), after “social security” there is inserted “, child support or war pensions, or employment or training”.
+
+**4** Section 3(3) of the Social Security Act 1998 (c. 14) (which is superseded by paragraphs 2 and 3) shall cease to have effect.
+
+### Supply of tax information for employment or training purposes
+
+**[^F137]5** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F138]6** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F139]7** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F139]8** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Supply of Inland Revenue tax credits information for employment or training purposes
+
+**[^F140]9** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Supply to Inland Revenue of employment or training information for purposes of tax credits
+
+**[^F141]10** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Supply of other Inland Revenue information for employment or training purposes
+
+**11** In section 121E of the Social Security Administration Act 1992 (c. 5) (supply of contributions etc. information held by Inland Revenue)—
+
+(a) in subsection (2)—
+
+(i) after “and” there is inserted “(subject to subsection (2A))”; and
+
+(ii) at the end there is inserted “, or employment or training”;
+
+[^F142]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(c) in subsection (3), for “subsection (2)” there is substituted “this section”.
+
+**12** In section 115D of the Social Security Administration (Northern Ireland) Act 1992 ©. 8) (supply of contributions etc. information held by Inland Revenue)—
+
+[^F143]a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F143]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(c) in subsection (3), for “subsection (2)” there is substituted “ this section ”.
+
+### Supply to Inland Revenue of employment or training information for other purposes
+
+**13** In section 121F of the Social Security Administration Act 1992 (supply to Inland Revenue for purposes of contributions etc. of information held by Secretary of State)—
+
+(a) in subsection (1), after “war pensions” there is inserted “ , or employment or training ”;
+
+[^F144]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F144]c . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**14** In section 115E of the Social Security Administration (Northern Ireland) Act 1992 (c. 8) (supply to Inland Revenue for purposes of contributions etc. of information held by Department or Secretary of State)—
+
+(a) in subsection (1), after “child support” there is inserted “ or employment or training ”;
+
+[^F145]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F145]c . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 7 — Minor and consequential amendments
+
+*Section 53*
+
+### Finance Act 1989 (c. 26)
+
+**1** (1) Section 182 of the Finance Act 1989 (disclosure of information) is amended as follows.
+
+(2) In each of the following provisions—
+
+(a) subsection (1)(c) (offence of disclosure of information relevant to statutory sick pay or maternity pay held in the exercise of social security functions),
+
+(b) subsection (2A)(a) (meaning of social security functions),
+
+(c) subsection (4)(c)(iii) (offence of disclosure of information relevant to statutory sick pay or maternity pay held in the exercise of certain other functions), and
+
+(d) subsection (5)(b) (defence of disclosure with consent),
+
+for “or statutory maternity pay” there is substituted “ , statutory maternity pay, statutory paternity pay or statutory adoption pay ”.
+
+(3) After subsection (11) there is inserted—
+
+> (11A) In this section, references to statutory paternity pay or statutory adoption pay include statutory pay under Northern Ireland legislation corresponding to Part 12ZA or Part 12ZB of the Social Security Contributions and Benefits Act 1992 (c. 4).
+
+### Social Security Contributions and Benefits Act 1992 (c. 4)
+
+**2** The Social Security Contributions and Benefits Act 1992 is amended as follows.
+
+**[^F146]3** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**4** (1) Section 35 (maternity allowance) is amended as follows.
+
+(2) In subsection (1), for paragraph (c) there is substituted—
+
+> (c) her average weekly earnings (within the meaning of section 35A below) are not less than the maternity allowance threshold for the tax year in which the beginning of the period of 66 weeks mentioned in paragraph (b) above falls;
+
+.
+
+(3) In subsection (3)(c), for “above or in section 35A(2) or (3) below” there is substituted “ or (c) above ”.
+
+(4) After subsection (6) there is inserted—
+
+> (6A) In this section “the maternity allowance threshold”, in relation to a tax year, means (subject to subsection (6B) below) £30.
+>
+> (6B) The Secretary of State may, in relation to any tax year after 2001-2002, by order increase the amount for the time being specified in subsection (6A) above to such amount as is specified in the order.
+>
+> (6C) When deciding whether, and (if so) by how much, to increase the amount so specified the Secretary of State shall have regard to the movement, over such period as he thinks fit, in the general level of prices obtaining in Great Britain (estimated in such manner as he thinks fit).
+>
+> (6D) The Secretary of State shall in each tax year carry out such a review of the amount for the time being specified in subsection (6A) above as he thinks fit.
+
+**5** In section 35A (appropriate weekly rate of maternity allowance), for subsections (6) to (8) there is substituted—
+
+> (6) In this section “the maternity allowance threshold” has the same meaning as in section 35 above and “specified” means prescribed by or determined in accordance with regulations.
+
+**6** In section 164 (statutory maternity pay – entitlement and liability to pay), in subsection (10)(b), for “section 166(2)” there is substituted “ section 166(1) and (2) ”.
+
+**7** In section 176 (Parliamentary control), in subsection (1)(a) (affirmative procedure: regulations), at the end there is inserted “ section 171ZE(1); section 171ZN(1. ”
+
+### Social Security Administration Act 1992 (c. 5)
+
+**8** The Social Security Administration Act 1992 is amended as follows.
+
+**9** (1) Section 2B (supplementary provisions about work-focused interviews) is amended as follows.
+
+(2) In subsection (1), after “relevant decisions” there is inserted “ made under regulations under section 2A or 2AA ”.
+
+(3) In subsection (2), for the words from “is a” to “2A above” there is substituted “ , in relation to regulations under section 2A above, is a decision ”.
+
+(4) After subsection (2) there is inserted—
+
+> (2A) For the purposes of this section a “relevant decision”, in relation to regulations under section 2AA above, is a decision that—
+>
+> (a) the partner of a person entitled to a benefit has failed to comply with a requirement to take part in an interview which applied to the partner by virtue of the regulations, or
+>
+> (b) it has not been shown, within the prescribed period mentioned in section 2AA(4)(f)(ii) above, that the partner had good cause for such a failure.
+
+(5) In subsections (3), (5)(a) and (9), after “section 2A” there is inserted “ or 2AA ”.
+
+**10** In section 2C (optional work-focused interviews), in subsection (2)—
+
+(a) for the words from “persons” (in the first place it appears) to the end of paragraph (b) there is substituted
+
+> —
+>
+> (a) persons making claims for or entitled to any of the benefits listed in section 2A(2) above or any prescribed benefit; and
+>
+> (b) partners of persons entitled to any of the benefits listed in section 2AA(2) above or any prescribed benefit;
+
+; and
+
+(b) after “section 2A” there is inserted “ or 2AA ”.
+
+**11** In section 5 (regulations about claims for and payments of benefit), in subsection (5) (application to statutory sick pay and statutory maternity pay), for “and statutory maternity pay” there is substituted “ , statutory maternity pay, statutory paternity pay and statutory adoption pay ”.
+
+**12** In section 7A (sharing of functions as regards claims and information)—
+
+(a) in subsection (2), after “social security” (in each place) there is inserted “ or work ”;
+
+(b) in subsection (6), for paragraph (e) there is substituted—
+
+> (e) “social security or work matters” means matters relating to—
+>
+> (i) social security, child support or war pensions, or
+>
+> (ii) employment or training;
+
+.
+
+**13** In section 122AA (disclosure of information by the Inland Revenue), in subsection (1) (which permits the disclosure of information relating to statutory sick pay and maternity pay by the Board to certain authorities, or in connection with certain agreements with countries outside the United Kingdom), for “or statutory maternity pay” there is substituted “ , statutory maternity pay, statutory paternity pay or statutory adoption pay ”.
+
+**14** In section 150 (annual uprating of benefits), in subsection (1)(j), for “section 166(3)” there is substituted “ section 166(1)(b), 171ZE(1) or 171ZN(1) ”.
+
+**15** In section 190 (Parliamentary control of orders and regulations), in subsection (1), after paragraph (aa) there is inserted—
+
+> (ab) the first regulations to be made under section 2AA;
+
+.
+
+**16** In section 191 (interpretation – general), for the definition of “the Northern Ireland Department” there is substituted—
+
+> “the Northern Ireland Department” means the Department for Social Development but—
+>
+> (a) in section 122 and sections 122B to 122E also includes the Department of Finance and Personnel; and
+>
+> (b) in sections 121E, 121F, 122, 122ZA, 122C and 122D also includes the Department for Employment and Learning;
+
+.
+
+### Social Security Administration (Northern Ireland) Act 1992 (c. 8)
+
+**17** In section 167(1) of the Social Security Administration (Northern Ireland) Act 1992 (interpretation – general), for the definition of “the Department” there is substituted—
+
+> “the Department” means the Department for Social Development but—
+>
+> (a) in sections 109A, 116 and 116B to 116D also includes the Department of Finance and Personnel; and
+>
+> (b) in sections 115D, 115E, 116 and 116ZA also includes the Department for Employment and Learning;
+
+.
+
+### Trade Union and Labour Relations (Consolidation) Act 1992 (c. 52)
+
+**18** The Trade Union and Labour Relations (Consolidation) Act 1992 is amended as follows.
+
+**19** In section 171 (time limit for proceedings under section 168, 169 or 170), after “168,” there is inserted “ 168A, ”.
+
+**20** In section 172(1) (remedies for complaint under section 168 or 170), after “168” there is inserted “ , 168A ”.
+
+**21** In section 173 (provisions supplementary to sections 168 to 170)—
+
+(a) in subsection (1), after “168” there is inserted “ , 168A ”, and
+
+(b) in subsection (2), after “168,” there is inserted “ 168A, ”.
+
+**22** In section 212A(1) (claims and proceedings to which ACAS arbitration scheme applies)—
+
+(a) after “tribunal” insert “ under, or ”, and
+
+(b) after “contravention of” insert—
+
+> (za) section 80G(1) or 80H(1)(b) of the Employment Rights Act 1996 (flexible working),
+
+,
+
+and
+
+(c) in paragraph (a), for “the Employment Rights Act 1996” substitute “ that Act ”.
+
+### Employment Tribunals Act 1996 (c. 17)
+
+**23** (1) The Employment Tribunals Act 1996 is amended as follows.
+
+(2) In section 18(1) (claims and proceedings to which provisions as to conciliation apply)—
+
+(a) in paragraph (b), after “168,” there is inserted “ 168A, ”,
+
+(b) in paragraph (d)—
+
+(i) at the beginning there is inserted “ under or ”, and
+
+(ii) after “28,” there is inserted “ 80G(1), 80H(1)(b), ”, and
+
+(c) in paragraph (f), at the beginning there is inserted “ under or ”.
+
+(3) In section 19 (conciliation procedure), at the end of paragraph (a) there is inserted “ and ”.
+
+### Employment Rights Act 1996 (c. 18)
+
+**24** The Employment Rights Act 1996 is amended as follows.
+
+**25** In section 27(1) (meaning of “wages”), after paragraph (c) there is inserted—
+
+> (ca) statutory paternity pay under Part 12ZA of that Act,
+>
+> (cb) statutory adoption pay under Part 12ZB of that Act,
+
+.
+
+**26** (1) Section 47C (leave for family and domestic reasons) is amended as follows.
+
+(2) After paragraph (b) of subsection (2) there is inserted—
+
+> (ba) ordinary or additional adoption leave,
+
+.
+
+[^F147]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**27** In section 48 (right to present complaint of detriment to employment tribunal), in subsection (1), for “or 47C” there is substituted “ , 47C or 47D ”.
+
+**28** In section 78 (parental leave: special cases), in subsection (6), for the words from “to maternity” to the end there is substituted—
+
+> to parental leave and partly to—
+>
+> (a) maternity leave, or
+>
+> (b) adoption leave,
+>
+> or to both.
+
+**29** (1) Section 88 (pay during notice period: employments with normal working hours) is amended as follows.
+
+(2) In subsection (1)(c), for “parental leave” there is substituted “ adoption leave, parental leave or paternity leave ”.
+
+(3) In subsection (2), after “statutory maternity pay,” there is inserted “ paternity pay, statutory paternity pay, adoption pay, statutory adoption pay, ”.
+
+**30** (1) Section 89 (pay during notice period: employments without normal working hours) is amended as follows.
+
+(2) In subsection (3)(b), for “parental leave” there is substituted “ adoption leave, parental leave or paternity leave ”.
+
+(3) In subsection (4), after “statutory maternity pay,” there is inserted “ paternity pay, statutory paternity pay, adoption pay, statutory adoption pay, ”.
+
+**31** In section 92 (right to written statement of reasons for dismissal), in subsections (2) and (3), for “subsection (4)” there is substituted “ subsections (4) and (4A) ”, and after subsection (4) there is inserted—
+
+> (4A) An employee who is dismissed while absent from work during an ordinary or additional adoption leave period is entitled to a written statement under this section without having to request it and irrespective of whether he has been continuously employed for any period if he is dismissed in circumstances in which that period ends by reason of the dismissal.
+
+**32** In section 98 (fairness of dismissal: general), in subsection (6)—
+
+(a) for “are” there is substituted “ is ”, and
+
+(b) in paragraph (a), for “99” there is substituted “ 98A ”.
+
+**33** (1) Section 99 (unfair dismissal: leave for family reasons) is amended as follows.
+
+(2) After paragraph (b) of subsection (3) there is inserted—
+
+> (ba) ordinary or additional adoption leave,
+
+.
+
+[^F148]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**34** In section 104 (protection for those asserting certain statutory rights), in subsection (4)(c) (relevant statutory rights under the Trade Union and Labour Relations (Consolidation) Act 1992 (c. 52)) after “168,” there is inserted “ 168A, ”.
+
+**35** In section 106 (dismissal of replacement employees), in subsection (2)(a), after “childbirth,” there is inserted “ or on adoption leave ”.
+
+**36** In section 112(4) (which provides that an award of compensation for unfair dismissal where no order is made for reinstatement or re-engagement shall be calculated in accordance with certain provisions of that Act), for “127A” there is substituted “ 126 ”.
+
+**37** In section 117(3)(a) (which provides that an award of compensation for unfair dismissal where an order for reinstatement or re-engagement is not complied with shall be calculated in accordance with certain provisions of that Act), for “127A” there is substituted “ 126 ”.
+
+**38** In section 118(1)(b) (which provides that compensation for unfair dismissal shall include a compensatory award calculated in accordance with certain provisions of that Act), for “126 and 127A(1), (3) and (4)” there is substituted “ 124A and 126 ”.
+
+**39** In section 123(1) (which provides that calculation of the compensatory award is subject to the provisions of that section and certain other provisions of that Act), for “, 126, 127 and 127A(1), (3) and (4)” there is substituted “ , 124A and 126 ”.
+
+**40** Section 127A(internal appeal procedures) shall cease to have effect.
+
+**41** In section 191(2) (provisions of the Act which have effect in relation to Crown employment), for paragraph (c) there is substituted—
+
+> (c) Parts 6 to 8A,
+
+.
+
+**42** In section 192(2)(e) (provisions of Part 10 of the Act which have effect in relation to service as a member of the armed forces), after “103” there is inserted “ , 104C ”.
+
+**43** In sections 194(2) and 195(2) (provisions of the Act which have effect in relation to employment as a member of the House of Lords or House of Commons staff)—
+
+(a) in paragraph (c), for “and 47C” there is substituted “ , 47C and 47D ”, and
+
+(b) for paragraph (e) there is substituted—
+
+> (e) Parts 7, 8 and 8A,
+
+.
+
+**44** (1) Section 199 (application of the Act to mariners) is amended as follows.
+
+(2) In subsection (2) (provisions not applying to share fishermen)—
+
+(a) after “47C,” there is inserted “ 47D, ”, and
+
+(b) for “Parts VII and VIII” there is substituted “ Parts 7, 8 and 8A ”.
+
+(3) In subsection (8) (provisions whose application is subject to the limitation in subsection (7)), for paragraph (d) there is substituted—
+
+> (d) Parts 7, 8 and 8A,
+
+.
+
+**45** In section 225 (definition of calculation date for the purposes of the calculation of a week’s pay in relation to cases connected with rights during employment), at the end there is inserted—
+
+> (6) Where the calculation is for the purposes of section 80I, the calculation date is the day on which the application under section 80F was made.
+
+**46** In section 226(3) (definition of calculation date for the purposes of the calculation of a week’s pay in relation to cases connected with unfair dismissal), for “119, 121 or 127A” there is substituted “ 112, 119, 120 or 121 ”.
+
+**47** (1) Section 227(1) (maximum amount of week’s pay) is amended as follows.
+
+(2) Before paragraph (a) there is inserted—
+
+> (za) an award of compensation under section 80I(1)(b),
+
+.
+
+(3) For “or” at the end of paragraph (b) there is substituted—
+
+> (ba) an award under section 112(5), or
+
+.
+
+**48** (1) Section 235 (other definitions) is amended as follows.
+
+[^F149]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) In the definition of “week” in subsection (1), for “section 86” there is substituted “ sections 80A, 80B and 86 ”.
+
+**49** (1) Section 236(3) (procedure for making orders and regulations) is amended as follows.
+
+(2) After “73,” there is inserted “ 75A, 75B, ”.
+
+[^F150]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Finance Act 1997 (c.16)
+
+**[^F151]50** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Social Security Act 1998 (c. 14)
+
+**51** In paragraph 5A of Schedule 2 to the Social Security Act 1998 (no appeal against a decision made in consequence of a decision under regulations under section 2A of the Administration Act), after “section 2A” there is inserted “ or 2AA ”.
+
+### Tax Credits Act 1999 (c. 10)
+
+**[^F152]52** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Finance Act 1999 (c. 16)
+
+**53** Sections 132 and 133 of the Finance Act 1999 shall have effect as if statutory maternity pay, statutory paternity pay and statutory adoption pay were matters which are under the care and management of the Commissioners of Inland Revenue.
+
+### Employment Relations Act 1999 (c. 26)
+
+**54** In section 23(1) of the Employment Relations Act 1999 (power to extend application of rights conferred under certain enactments), after paragraph (b) there is inserted—
+
+> (ba) the Employment Act 2002;
+
+.
+
+### Welfare Reform and Pensions Act 1999 (c. 30)
+
+**55** In section 72 of the Welfare Reform and Pensions Act 1999, in subsection (3), after paragraph (a) there is inserted—
+
+> (aa) section 2AA of the Administration Act,
+
+.
+
+## SCHEDULE 8 — Repeals and revocations
+
+*Section 54*
+
+|  |  |
+|---|---|
+| *Short title and chapter* | *Extent of repeal* |
+| Social Security Contributions and Benefits Act 1992 (c. 4). | In section 164(2)(a), the words “, wholly or partly because of pregnancy or confinement”. |
+| Social Security Administration Act 1992 (c. 5). | In section 2B(9), the words from “the following” to the first “and”. In section 122(2), the word “or” before paragraph (b). |
+| Social Security Administration (Northern Ireland) Act 1992 (c. 8). | In section 116(2), the word “or” before paragraph (b). |
+| Employment Tribunals Act 1996 (c. 17). | In section 19, paragraph (c) and the word “and” immediately before it. |
+| Employment Rights Act 1996 (c. 18). | Section 3(3) and (4). Section 118(4). Section 127A. |
+| Social Security Administration (Fraud) Act 1997 (c. 47). | In Schedule 1, paragraph 12(3). |
+| Employment Rights (Dispute Resolution) Act 1998 (c. 8). | Section 13. In Schedule 1, paragraphs 19 to 21, 23 and 26. |
+| Social Security Act 1998 (c. 14). | Section 3(3). |
+| Social Security Contributions (Transfer of Functions, Etc.) Act 1999 (c. 2). | In Schedule 1, paragraph 13. |
+| Employment Relations Act 1999 (c. 26). | Section 11(6). |
+| Welfare Reform and Pensions Act 1999 (c. 30). | Section 53(2)(b). |
+
+|  |  |
+|---|---|
+| *Title and reference* | *Extent of revocation* |
+| Social Security Administration (Fraud) (Northern Ireland) Order 1997 (S.I. 1997/1182 (N.I. 11)). | In Schedule 1, paragraph 7. |
+| Social Security Contributions (Transfer of Functions, etc.) (Northern Ireland) Order 1999 (S.I. 1999/671). | In Schedule 1, paragraph 15. |
+
+---
+
+[^F1]: S. 5 repealed (18.4.2005) by Commissioners for Revenue and Customs Act 2005 (c. 11), s. 53(1), Sch. 4 para. 93, 5; S.I. 2005/1126, art. 2(2)(h)(i)
+[^F2]: S. 6(2)(a) repealed (6.4.2010) by Work and Families Act 2006 (c. 18), s. 19(2), Sch. 2; S.I. 2010/495, art. 4(e)(i)
+[^F3]: Words in s. 7(1) substituted (5.4.2015) by Children and Families Act 2014 (c. 6), s. 139(6), Sch. 7 para. 51(2)(a); S.I. 2014/1640, art. 7(z) (with art. 16)
+[^F4]: Words in s. 7(1) substituted (18.1.2020) by Parental Bereavement (Leave and Pay) Act 2018 (c. 24), s. 2(2), Sch. para. 36(2); S.I. 2020/45, reg. 2
+[^F5]: Words in s. 7(1) substituted (17.1.2025) by Neonatal Care (Leave and Pay) Act 2023 (c. 20), s. 3(3), Sch. para. 36(2); S.I. 2025/41, reg. 2
+[^F6]: Words in s. 7(2)(a) substituted (5.4.2015) by Children and Families Act 2014 (c. 6), s. 139(6), Sch. 7 para. 51(3)(a)(i); S.I. 2014/1640, art. 7(z) (with art. 16)
+[^F7]: Words in s. 7(2)(a) substituted (18.1.2020) by Parental Bereavement (Leave and Pay) Act 2018 (c. 24), s. 2(2), Sch. para. 36(3); S.I. 2020/45, reg. 2
+[^F8]: Words in s. 7(2)(a) substituted (17.1.2025) by Neonatal Care (Leave and Pay) Act 2023 (c. 20), s. 3(3), Sch. para. 36(3); S.I. 2025/41, reg. 2
+[^F9]: Words in s. 7(2)(b) substituted (5.4.2015) by Children and Families Act 2014 (c. 6), s. 139(6), Sch. 7 para. 51(3)(b)(i); S.I. 2014/1640, art. 7(z) (with art. 16)
+[^F10]: Words in s. 7(2)(b) substituted (18.1.2020) by Parental Bereavement (Leave and Pay) Act 2018 (c. 24), s. 2(2), Sch. para. 36(3); S.I. 2020/45, reg. 2
+[^F11]: Words in s. 7(2)(b) substituted (17.1.2025) by Neonatal Care (Leave and Pay) Act 2023 (c. 20), s. 3(3), Sch. para. 36(3); S.I. 2025/41, reg. 2
+[^F12]: Words in s. 7(3) substituted (5.4.2015) by Children and Families Act 2014 (c. 6), s. 139(6), Sch. 7 para. 51(4)(a); S.I. 2014/1640, art. 7(z) (with art. 16)
+[^F13]: Words in s. 7(3) substituted (18.1.2020) by Parental Bereavement (Leave and Pay) Act 2018 (c. 24), s. 2(2), Sch. para. 36(4)(a); S.I. 2020/45, reg. 2
+[^F14]: Words in s. 7(3) substituted (17.1.2025) by Neonatal Care (Leave and Pay) Act 2023 (c. 20), s. 3(3), Sch. para. 36(4)(a); S.I. 2025/41, reg. 2
+[^F15]: Words in s. 7(3) substituted (30.6.2014) by Children and Families Act 2014 (c. 6), s. 139(6), Sch. 7 para. 51(4)(c); S.I. 2014/1640, art. 3(2)(o) (with art. 9)
+[^F16]: Word in s. 7(3)(b) omitted (18.1.2020) by virtue of Parental Bereavement (Leave and Pay) Act 2018 (c. 24), s. 2(2), Sch. para. 36(4)(b); S.I. 2020/45, reg. 2
+[^F17]: Word in s. 7(3)(c) omitted (17.1.2025) by virtue of Neonatal Care (Leave and Pay) Act 2023 (c. 20), s. 3(3), Sch. para. 36(4)(b); S.I. 2025/41, reg. 2
+[^F18]: S. 7(3)(d) and word inserted (18.1.2020) by Parental Bereavement (Leave and Pay) Act 2018 (c. 24), s. 2(2), Sch. para. 36(4)(c); S.I. 2020/45, reg. 2
+[^F19]: S. 7(3)(e) and word inserted (17.1.2025) by Neonatal Care (Leave and Pay) Act 2023 (c. 20), s. 3(3), Sch. para. 36(4)(c); S.I. 2025/41, reg. 2
+[^F20]: Words in s. 8(1) substituted (5.4.2015) by Children and Families Act 2014 (c. 6), s. 139(6), Sch. 7 para. 52(2)(a); S.I. 2014/1640, art. 7(aa) (with art. 16)
+[^F21]: Words in s. 8(1) substituted (18.1.2020) by Parental Bereavement (Leave and Pay) Act 2018 (c. 24), s. 2(2), Sch. para. 37; S.I. 2020/45, reg. 2
+[^F22]: Words in s. 8(1) substituted (17.1.2025) by Neonatal Care (Leave and Pay) Act 2023 (c. 20), s. 3(3), Sch. para. 37; S.I. 2025/41, reg. 2
+[^F23]: Words in s. 8(2)(a) substituted (5.4.2015) by Children and Families Act 2014 (c. 6), s. 139(6), Sch. 7 para. 52(3)(a)(i); S.I. 2014/1640, art. 7(aa) (with art. 16)
+[^F24]: Words in s. 8(2)(a) substituted (18.1.2020) by Parental Bereavement (Leave and Pay) Act 2018 (c. 24), s. 2(2), Sch. para. 37; S.I. 2020/45, reg. 2
+[^F25]: Words in s. 8(2)(a) substituted (17.1.2025) by Neonatal Care (Leave and Pay) Act 2023 (c. 20), s. 3(3), Sch. para. 37; S.I. 2025/41, reg. 2
+[^F26]: Words in s. 8(2)(b) substituted (5.4.2015) by Children and Families Act 2014 (c. 6), s. 139(6), Sch. 7 para. 52(3)(b)(i); S.I. 2014/1640, art. 7(aa) (with art. 16)
+[^F27]: Words in s. 8(2)(b) substituted (18.1.2020) by Parental Bereavement (Leave and Pay) Act 2018 (c. 24), s. 2(2), Sch. para. 37; S.I. 2020/45, reg. 2
+[^F28]: Words in s. 8(2)(b) substituted (17.1.2025) by Neonatal Care (Leave and Pay) Act 2023 (c. 20), s. 3(3), Sch. para. 37; S.I. 2025/41, reg. 2
+[^F29]: Words in s. 8(2)(d) substituted (5.4.2015) by Children and Families Act 2014 (c. 6), s. 139(6), Sch. 7 para. 52(3)(c)(i); S.I. 2014/1640, art. 7(aa) (with art. 16)
+[^F30]: Words in s. 8(2)(d) substituted (18.1.2020) by Parental Bereavement (Leave and Pay) Act 2018 (c. 24), s. 2(2), Sch. para. 37; S.I. 2020/45, reg. 2
+[^F31]: Words in s. 8(2)(d) substituted (17.1.2025) by Neonatal Care (Leave and Pay) Act 2023 (c. 20), s. 3(3), Sch. para. 37; S.I. 2025/41, reg. 2
+[^F32]: Words in s. 10(1) inserted (30.6.2014) by Children and Families Act 2014 (c. 6), s. 139(6), Sch. 7 para. 53(2)(b); S.I. 2014/1640, art. 3(2)(q)
+[^F33]: Words in s. 10(1) substituted (18.1.2020) by Parental Bereavement (Leave and Pay) Act 2018 (c. 24), s. 2(2), Sch. para. 38; S.I. 2020/45, reg. 2
+[^F34]: Words in s. 10(1) substituted (17.1.2025) by Neonatal Care (Leave and Pay) Act 2023 (c. 20), s. 3(3), Sch. para. 38; S.I. 2025/41, reg. 2
+[^F35]: Words in s. 10(2)(a) substituted (5.4.2015) by Children and Families Act 2014 (c. 6), s. 139(6), Sch. 7 para. 53(3)(a); S.I. 2014/1640, art. 7(bb) (with art. 16)
+[^F36]: Words in s. 10(2)(a) substituted (18.1.2020) by Parental Bereavement (Leave and Pay) Act 2018 (c. 24), s. 2(2), Sch. para. 38; S.I. 2020/45, reg. 2
+[^F37]: Words in s. 10(2)(a) substituted (17.1.2025) by Neonatal Care (Leave and Pay) Act 2023 (c. 20), s. 3(3), Sch. para. 38; S.I. 2025/41, reg. 2
+[^F38]: Words in s. 11(6) substituted (5.4.2015) by Children and Families Act 2014 (c. 6), s. 139(6), Sch. 7 para. 54(a); S.I. 2014/1640, art. 7(cc) (with art. 16)
+[^F39]: Words in s. 11(6) substituted (18.1.2020) by Parental Bereavement (Leave and Pay) Act 2018 (c. 24), s. 2(2), Sch. para. 39; S.I. 2020/45, reg. 2
+[^F40]: Words in s. 11(6) substituted (17.1.2025) by Neonatal Care (Leave and Pay) Act 2023 (c. 20), s. 3(3), Sch. para. 39; S.I. 2025/41, reg. 2
+[^F41]: Words in s. 12(1) substituted (6.4.2010) by Work and Families Act 2006 (c. 18), s. 19(2), Sch. 1 para. 54(2); S.I. 2010/495, art. 4(d)
+[^F42]: Word in s. 12(1)(a) repealed (5.4.2015) by Children and Families Act 2014 (c. 6), s. 139(6), Sch. 7 para. 55(2)(a); S.I. 2014/1640, art. 7(dd) (with art. 16)
+[^F43]: Words in s. 12(1)(a) inserted (18.1.2020) by Parental Bereavement (Leave and Pay) Act 2018 (c. 24), s. 2(2), Sch. para. 40; S.I. 2020/45, reg. 2
+[^F44]: Word in s. 12(1)(b) repealed (5.4.2015) by Children and Families Act 2014 (c. 6), s. 139(6), Sch. 7 para. 55(2)(b); S.I. 2014/1640, art. 7(dd) (with art. 16)
+[^F45]: Words in s. 12(1)(b) inserted (18.1.2020) by Parental Bereavement (Leave and Pay) Act 2018 (c. 24), s. 2(2), Sch. para. 40; S.I. 2020/45, reg. 2
+[^F46]: Words in s. 12(2)(a) substituted (17.1.2025) by Neonatal Care (Leave and Pay) Act 2023 (c. 20), s. 3(3), Sch. para. 40; S.I. 2025/41, reg. 2
+[^F47]: Words in s. 12(2)(b) substituted (17.1.2025) by Neonatal Care (Leave and Pay) Act 2023 (c. 20), s. 3(3), Sch. para. 40; S.I. 2025/41, reg. 2
+[^F48]: Words in s. 12(3) substituted (6.4.2010) by Work and Families Act 2006 (c. 18), s. 19(2), Sch. 1 para. 54(2); S.I. 2010/495, art. 4(d)
+[^F49]: Word in s. 12(3) repealed (5.4.2015) by Children and Families Act 2014 (c. 6), s. 139(6), Sch. 7 para. 55(4); S.I. 2014/1640, art. 7(dd) (with art. 16)
+[^F50]: Words in s. 12(3) inserted (18.1.2020) by Parental Bereavement (Leave and Pay) Act 2018 (c. 24), s. 2(2), Sch. para. 40; S.I. 2020/45, reg. 2
+[^F51]: Words in s. 12(4) substituted (17.1.2025) by Neonatal Care (Leave and Pay) Act 2023 (c. 20), s. 3(3), Sch. para. 40; S.I. 2025/41, reg. 2
+[^F52]: Words in s. 12(5) substituted (6.4.2010) by Work and Families Act 2006 (c. 18), s. 19(2), Sch. 1 para. 54(4); S.I. 2010/495, art. 4(d)
+[^F53]: Word in s. 12(5) repealed (5.4.2015) by Children and Families Act 2014 (c. 6), s. 139(6), Sch. 7 para. 55(6); S.I. 2014/1640, art. 7(dd) (with art. 16)
+[^F54]: Words in s. 12(5) inserted (18.1.2020) by Parental Bereavement (Leave and Pay) Act 2018 (c. 24), s. 2(2), Sch. para. 40; S.I. 2020/45, reg. 2
+[^F55]: Words in s. 13(1) substituted (5.4.2015) by Children and Families Act 2014 (c. 6), s. 139(6), Sch. 7 para. 56(a); S.I. 2014/1640, art. 7(ee) (with arts. 1619)
+[^F56]: Words in s. 13(1) substituted (18.1.2020) by Parental Bereavement (Leave and Pay) Act 2018 (c. 24), s. 2(2), Sch. para. 41; S.I. 2020/45, reg. 2
+[^F57]: Words in s. 13(1) substituted (17.1.2025) by Neonatal Care (Leave and Pay) Act 2023 (c. 20), s. 3(3), Sch. para. 41; S.I. 2025/41, reg. 2
+[^F58]: Words in s. 13(2)(a)(b) omitted (1.8.2012) by virtue of The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007), art. 1(2), Sch. para. 66(a)
+[^F59]: Words in s. 13(2) omitted (1.8.2012) by virtue of The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007), art. 1(2), Sch. para. 66(b)
+[^F60]: Words in s. 14(1) substituted (5.4.2015) by Children and Families Act 2014 (c. 6), s. 139(6), Sch. 7 para. 57(2)(a); S.I. 2014/1640, art. 7(ff) (with arts. 1619)
+[^F61]: Words in s. 14(1) substituted (18.1.2020) by Parental Bereavement (Leave and Pay) Act 2018 (c. 24), s. 2(2), Sch. para. 42; S.I. 2020/45, reg. 2
+[^F62]: Words in s. 14(1) substituted (17.1.2025) by Neonatal Care (Leave and Pay) Act 2023 (c. 20), s. 3(3), Sch. para. 42; S.I. 2025/41, reg. 2
+[^F63]: Words in s. 14(2) substituted (5.4.2015) by Children and Families Act 2014 (c. 6), s. 139(6), Sch. 7 para. 57(3)(a); S.I. 2014/1640, art. 7(ff) (with arts. 1619)
+[^F64]: Words in s. 14(2) substituted (18.1.2020) by Parental Bereavement (Leave and Pay) Act 2018 (c. 24), s. 2(2), Sch. para. 42; S.I. 2020/45, reg. 2
+[^F65]: Words in s. 14(2) substituted (17.1.2025) by Neonatal Care (Leave and Pay) Act 2023 (c. 20), s. 3(3), Sch. para. 42; S.I. 2025/41, reg. 2
+[^F66]: Word in s. 15(2)(a) repealed (5.4.2015) by Children and Families Act 2014 (c. 6), s. 139(6), Sch. 7 para. 58(a); S.I. 2014/1640, art. 7(gg) (with arts. 16 19)
+[^F67]: S. 15(2)(aa) repealed (5.4.2015) by Children and Families Act 2014 (c. 6), s. 139(6), Sch. 7 para. 58(b); S.I. 2014/1640, art. 7(gg) (with arts. 16 19)
+[^F68]: Word in s. 15(2) repealed (1.12.2014) by Children and Families Act 2014 (c. 6), s. 139(6), Sch. 7 para. 58(c); S.I. 2014/1640, art. 5(2)(w)
+[^F69]: S. 15(2)(ba) inserted (1.12.2014) by Children and Families Act 2014 (c. 6), s. 139(6), Sch. 7 para. 58(d); S.I. 2014/1640, art. 5(2)(w)
+[^F70]: Word in s. 15(2)(ba) omitted (18.1.2020) by virtue of Parental Bereavement (Leave and Pay) Act 2018 (c. 24), s. 2(2), Sch. para. 43(a); S.I. 2020/45, reg. 2
+[^F71]: S. 15(2)(bb) inserted (18.1.2020) by Parental Bereavement (Leave and Pay) Act 2018 (c. 24), s. 2(2), Sch. para. 43(b); S.I. 2020/45, reg. 2
+[^F72]: Word in s. 15(2)(bb) omitted (17.1.2025) by virtue of Neonatal Care (Leave and Pay) Act 2023 (c. 20), s. 3(3), Sch. para. 43(a); S.I. 2025/41, reg. 2
+[^F73]: S. 15(2)(bc) inserted (17.1.2025) by Neonatal Care (Leave and Pay) Act 2023 (c. 20), s. 3(3), Sch. para. 43(b); S.I. 2025/41, reg. 2
+[^F74]: Words in s. 15(2)(c) substituted (6.4.2016 unless brought into force earlier by an order under s. 56(1) of the amending Act) by Pensions Act 2014 (c. 19), s. 56(4), Sch. 13 para. 72
+[^F75]: S. 18 repealed (1.10.2006) by Work and Families Act 2006 (c. 18), s. 19(2), Sch. 2; S.I. 2006/1682, art. 3(i)(ii)
+[^F76]: S. 24(2) repealed (6.4.2009) by Employment Act 2008 (c. 24), s. 22(1)(a), Sch. Pt. 1; S.I. 2008/3232, art. 2 (with art. 3 Sch.)
+[^F77]: S. 24(4) repealed (6.4.2009) by Employment Act 2008 (c. 24), s. 22(1)(a), Sch. Pt. 1; S.I. 2008/3232, art. 2 (with art. 3 Sch.)
+[^F78]: Ss. 29-33 repealed (6.4.2009) by Employment Act 2008 (c. 24), ss. 1, 22(1)(a), Sch. Pt. 1; S.I. 2008/3232, art. 2 (with art. 3 Sch.)
+[^F79]: S. 34(2) repealed (6.4.2009) by Employment Act 2008 (c. 24), s. 22(1)(a), Sch. Pt. 1; S.I. 2008/3232, art. 2 (with art. 3 Sch.)
+[^F80]: Words in s. 38(1) substituted (6.4.2020) by The Employment Rights (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/731), regs. 1(2), 17(2)
+[^F81]: Word in s. 38(2)(a) substituted (6.4.2020) by The Employment Rights (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/731), regs. 1(2), 17(3)(a)
+[^F82]: Words in s. 38(2)(b) inserted (4.5.2016 for specified purposes) by Enterprise Act 2016 (c. 12), s. 44(1)(d), Sch. 5 para. 12(a)
+[^F83]: Words in s. 38(2)(b) inserted (6.4.2020) by The Employment Rights (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/731), regs. 1(2), 17(3)(b)
+[^F84]: Word in s. 38(2)(b) substituted (6.4.2020) by The Employment Rights (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/731), regs. 1(2), 17(3)(a)
+[^F85]: Word in s. 38(2) substituted (6.4.2020) by The Employment Rights (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/731), regs. 1(2), 17(3)(c)
+[^F86]: Word in s. 38(3)(a) substituted (6.4.2020) by The Employment Rights (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/731), regs. 1(2), 17(4)(a)
+[^F87]: Words in s. 38(3)(b) inserted (4.5.2016 for specified purposes) by Enterprise Act 2016 (c. 12), s. 44(1)(d), Sch. 5 para. 12(b)
+[^F88]: Words in s. 38(3)(b) inserted (6.4.2020) by The Employment Rights (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/731), regs. 1(2), 17(4)(b)
+[^F89]: Word in s. 38(3)(b) substituted (6.4.2020) by The Employment Rights (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/731), regs. 1(2), 17(4)(a)
+[^F90]: Words in s. 38(6) substituted (6.4.2020) by The Employment Rights (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/731), regs. 1(2), 17(5)
+[^F91]: S. 38(6A) inserted (6.4.2020) by The Employment Rights (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/731), regs. 1(2), 17(6)
+[^F92]: Word in s. 38(7)(a) substituted (6.4.2020) by The Employment Rights (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/731), regs. 1(2), 17(7)(a)
+[^F93]: S. 38(7)(b) substituted (6.4.2020) by The Employment Rights (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/731), regs. 1(2), 17(7)(b)
+[^F94]: Words in s. 40 inserted (6.4.2020) by The Employment Rights (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/731), regs. 1(2), 18
+[^F95]: Words in s. 40 repealed (6.4.2009) by Employment Act 2008 (c. 24), s. 22(1)(a), Sch. Pt. 1; S.I. 2008/3232, art. 2 (with art. 3 Sch.)
+[^F96]: S. 42 crossheading repealed (1.10.2010) by The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279), art. 1(2), Sch. 2 (see S.I. 2010/2317, art. 2)
+[^F97]: S. 41 repealed (6.4.2005) by Employment Relations Act 2004 (c. 24), s. 59(3), Sch. 2; S.I. 2005/872, art. 4
+[^F98]: S. 42 repealed (1.10.2010) by The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279), art. 1(2), Sch. 2 (see S.I. 2010/2317, art. 2)
+[^F99]: S. 45(4) omitted (31.12.2020) by virtue of The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535), reg. 1(1), Sch. 1 para. 5 (with Sch. 1 para. 22); 2020 c. 1, Sch. 5 para. 1(1)
+[^F100]: S. 46(4) omitted (31.12.2020) by virtue of The Employment Rights (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/537), reg. 1(1), Sch. para. 3 (with Sch. para. 11); 2020 c. 1, Sch. 5 para. 1(1)
+[^F101]: Words in s. 51(4) repealed (6.4.2009) by Employment Act 2008 (c. 24), s. 22(1)(a), Sch. Pt. 1; S.I. 2008/3232, art. 2 (with art. 3 Sch.)
+[^F102]: Words in s. 55(8) substituted (5.4.2015) by Children and Families Act 2014 (c. 6), s. 139(6), Sch. 7 para. 59(a); S.I. 2014/1640, art. 7(hh) (with art. 16)
+[^F103]: Words in s. 55(8) substituted (18.1.2020) by Parental Bereavement (Leave and Pay) Act 2018 (c. 24), s. 2(2), Sch. para. 44(a); S.I. 2020/45, reg. 2
+[^F104]: Words in s. 55(8) substituted (17.1.2025) by Neonatal Care (Leave and Pay) Act 2023 (c. 20), s. 3(3), Sch. para. 44(a); S.I. 2025/41, reg. 2
+[^F105]: Words in s. 55(8) substituted (15.3.2015 being the date on which 1992 c. 7, Pt. 12ZC comes into force by virtue of S.R. 2015/86, art. 3(1)(d)) by Children and Families Act 2014 (c. 6), s. 139(6), Sch. 7 para. 59(c); S.I. 2014/1640, art. 8(c) (with art. 18)
+[^F106]: Words in s. 55(8) substituted (18.1.2020) by Parental Bereavement (Leave and Pay) Act 2018 (c. 24), s. 2(2), Sch. para. 44(b); S.I. 2020/45, reg. 2
+[^F107]: Words in s. 55(8) substituted (17.1.2025) by Neonatal Care (Leave and Pay) Act 2023 (c. 20), s. 3(3), Sch. para. 44(b); S.I. 2025/41, reg. 2
+[^F108]: Words in Sch. 1 para. 3(2) inserted (1.4.2009) by The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56), art. 1(2), Sch. 1 para. 322(2)
+[^F109]: Words in Sch. 1 para. 3(3) substituted (1.4.2009) by The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56), art. 1(2), Sch. 1 para. 322(3)(a)
+[^F110]: Words in Sch. 1 para. 3(3)(a)(b) omitted (1.4.2009) by virtue of The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56), art. 1(2), Sch. 1 para. 322(3)(b)
+[^F111]: Words in Sch. 1 para. 3(3)(c)(d) omitted (1.4.2009) by virtue of The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56), art. 1(2), Sch. 1 para. 322(3)(c)(i)
+[^F112]: Words in Sch. 1 para. 3(3)(c) (d) substituted (1.4.2009) by The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56), art. 1(2), Sch. 1 para. 322(3)(c)(ii)
+[^F113]: Sch. 1 para. 3(4)-(4B) substituted for Sch. 1 para. 3(4) (1.4.2009) by The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56), art. 1(2), Sch. 1 para. 322(4)
+[^F114]: Words in Sch. 1 para. 4 heading substituted (1.4.2009) by The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56), art. 1(2), Sch. 1 para. 323(2)
+[^F115]: Sch. 1 para. 4(2) substituted (1.4.2009) by The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56), art. 1(2), Sch. 1 para. 323(3)
+[^F116]: Sch. 1 para. 4(4)(4A) substituted for Sch. 1 para. 4(4) (1.4.2009) by The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56), art. 1(2), Sch. 1 para. 323(4)
+[^F117]: Words in Sch. 1 para. 4(5) substituted (1.4.2009) by The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56), art. 1(2), Sch. 1 para. 323(5)
+[^F118]: Word in Sch. 1 para. 7 substituted (1.4.2009) by The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56), art. 1(2), Sch. 1 para. 324
+[^F119]: Words in Sch. 1 para. 9 omitted (1.4.2009) by virtue of The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56), art. 1(2), Sch. 1 para. 325
+[^F120]: Schs. 2-4 repealed (6.4.2009) by Employment Act 2008 (c. 24), ss. 1, 22(1)(a), Sch. Pt. 1; S.I. 2008/3232, art. 2 (with art. 3 Sch.)
+[^F121]: Words in Sch. 5 substituted (3.7.2003 for specified purposes, 1.10.2004 in so far as not already in force) by The Disability Discrimination Act 1995 (Amendment) Regulations 2003 (S.I. 2003/1673), reg. 1(2)(3)31(3)
+[^F122]: Sch. 5 entry repealed by 2010 c. 15 Sch. 26 Pt. 1 para. 49(2)(a) Sch. 27 Pt. 1 (as amended) (1.10.2010) by The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279), art. 1(2), Sch. 1 para. 5, 2 (see S.I. 2010/2317, art. 2)
+[^F123]: Sch. 5 entry repealed by 2010 c. 15 Sch. 26 Pt. 1 para. 49(2)(b) Sch. 27 Pt. 1 (as amended) (1.10.2010) by The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279), art. 1(2), Sch. 1 para. 5, 2 (see S.I. 2010/2317, art. 2)
+[^F124]: Sch. 5 entry repealed by 2010 c. 15 Sch. 26 Pt. 1 para. 49(2)(c) Sch. 27 Pt. 1 (as amended) (1.10.2010) by The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279), art. 1(2), Sch. 1 para. 5, 2 (see S.I. 2010/2317, art. 2)
+[^F125]: Words in Sch. 5 substituted (1.10.2004) by Employment Relations Act 2004 (c. 24), s. 59(3), Sch. 1 para. 43; S.I. 2004/2566, art. 3(b) (with art. 6)
+[^F126]: Sch. 5 entry repealed by 2010 c. 15 Sch. 26 Pt. 1 para. 49(2)(d) Sch. 27 Pt. 1 (as amended) (1.10.2010) by The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279), art. 1(2), Sch. 1 para. 5, 2 (see S.I. 2010/2317, art. 2)
+[^F127]: Words in Sch. 5 repealed (8.4.2003) by Tax Credits Act 2002 (c. 21), s. 61, Sch. 6; S.I. 2003/962, art. 2(4)(e), Sch. 2
+[^F128]: Sch. 5 entry repealed by 2010 c. 15 Sch. 26 Pt. 1 para. 49(2)(e) Sch. 27 Pt. 1 (as amended) (1.10.2010) by The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279), art. 1(2), Sch. 1 para. 5, 2 (see S.I. 2010/2317, art. 2)
+[^F129]: Sch. 5 entry repealed by 2010 c. 15 Sch. 26 Pt. 1 para. 49(2)(f) Sch. 27 Pt. 1 (as amended) (1.10.2010) by The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279), art. 1(2), Sch. 1 para. 5, 2 (see S.I. 2010/2317, art. 2)
+[^F130]: Words in Sch. 5 inserted (6.4.2007) by Employment Act 2002 (Amendment of Schedules 3, 4 and 5) Order 2007 (S.I. 2007/30), arts. 1, 2 (with art. 3)
+[^F131]: Words in Sch. 5 inserted (18.8.2006) by The European Cooperative Society (Involvement of Employees) Regulations 2006 (S.I. 2006/2059), regs. 1(2), 34(4)
+[^F132]: Sch. 5 entry repealed by 2010 c. 15 Sch. 26 Pt. 1 para. 49(2)(g) Sch. 27 Pt. 1 (as amended) (1.10.2010) by The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279), art. 1(2), Sch. 1 para. 5, 2 (see S.I. 2010/2317, art. 2)
+[^F133]: Words in Sch. 5 omitted (31.12.2020) by virtue of The Companies, Limited Liability Partnerships and Partnerships (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/348), reg. 2, Sch. 3 para. 8; 2020 c. 1, Sch. 5 para. 1(1)
+[^F134]: Words in Sch. 5 inserted (27.7.2008) by Cross-border Railway Services (Working Time) Regulations 2008 (S.I. 2008/1660), reg. 1(1), Sch. 3 para. 3(c)
+[^F135]: Sch. 5 entry inserted by 2010 c. 15 Sch. 26 Pt. 1 para. 49(3) Sch. 27 Pt. 1 (as amended) (1.10.2010) by The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279), art. 1(2), Sch. 1 para. 5 (see S.I. 2010/2317, art. 2)
+[^F136]: Sch. 6 para. 1(a)(b) repealed (6.4.2006) by Pensions Act 2004 (c. 35), s. 322(1), Sch. 13; S.I. 2006/560, art. 2(3), Sch. Pt. 3
+[^F137]: Sch. 6 para. 5 repealed (8.5.2012) by Welfare Reform Act 2012 (c. 5), s. 150(2)(f), Sch. 14 Pt. 13
+[^F138]: Sch. 6 para. 6 repealed (8.5.2012) by Welfare Reform Act 2012 (c. 5), s. 150(2)(f), Sch. 14 Pt. 13
+[^F139]: Sch. 6 paras. 7, 8 repealed (17.2.2016) by The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006), art. 2(2), Sch. 12 Pt. 12; S.R. 2016/46, art. 3(6)(c)
+[^F140]: Sch. 6 para. 9 repealed (8.4.2003) by Tax Credits Act 2002 (c. 21), s. 61, Sch. 6; S.I. 2003/962, art. 2(4)(e), Sch. 2
+[^F141]: Sch. 6 para. 10 repealed (8.4.2003) by Tax Credits Act 2002 (c. 21), s. 61, Sch. 6; S.I. 2003/962, art. 2(4)(e), Sch. 2
+[^F142]: Sch. 6 para. 11(b) repealed (8.5.2012) by Welfare Reform Act 2012 (c. 5), s. 150(2)(f), Sch. 14 Pt. 13
+[^F143]: Sch. 6 para. 12(a)(b) repealed (17.2.2016) by The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006), art. 2(2), Sch. 12 Pt. 12; S.R. 2016/46, art. 3(6)(c)
+[^F144]: Sch. 6 para. 13(b)(c) repealed (8.5.2012) by Welfare Reform Act 2012 (c. 5), s. 150(2)(f), Sch. 14 Pt. 13
+[^F145]: Sch. 6 para. 14(b)(c) repealed (17.2.2016) by The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006), art. 2(2), Sch. 12 Pt. 12; S.R. 2016/46, art. 3(6)(c)
+[^F146]: Sch. 7 para. 3 repealed (6.4.2010) by Work and Families Act 2006 (c. 18), s. 19(2), Sch. 2; S.I. 2010/495, art. 4(e)(ii)
+[^F147]: Sch. 7 para. 26(3) repealed (6.4.2010) by Work and Families Act 2006 (c. 18), s. 19(2), Sch. 2; S.I. 2010/495, art. 4(e)(ii)
+[^F148]: Sch. 7 para. 33(3) repealed (6.4.2010) by Work and Families Act 2006 (c. 18), s. 19(2), Sch. 2; S.I. 2010/495, art. 4(e)(ii)
+[^F149]: Sch. 7 para. 48(2) repealed (6.4.2010) by Work and Families Act 2006 (c. 18), s. 19(2), Sch. 2; S.I. 2010/495, art. 4(e)(ii)
+[^F150]: Sch. 7 para. 49(3) repealed (6.4.2010) by Work and Families Act 2006 (c. 18), s. 19(2), Sch. 2; S.I. 2010/495, art. 4(e)(ii)
+[^F151]: Sch. 7 para. 50 repealed (8.5.2012) by Welfare Reform Act 2012 (c. 5), s. 150(2)(f), Sch. 14 Pt. 13
+[^F152]: Sch. 7 para. 52 repealed (8.4.2003) by Tax Credits Act 2002 (c. 21), s. 61, Sch. 6; S.I. 2003/962, art. 2(4)(e), Sch. 2

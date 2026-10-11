@@ -1,0 +1,2016 @@
+---
+title: "Osteopaths Act 1993"
+identifier: "ukpga/1993/21"
+citation: "1993 c. 21"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S+N.I."
+date: 1993-07-01
+last_amended: 2025-01-01
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/1993/21"
+source_modified: 2025-02-26
+retrieved: 2026-10-11
+---
+
+# Osteopaths Act 1993
+
+**1993 c. 21**
+
+An Act to establish a body to be known as the General Osteopathic Council; to provide for the regulation of the profession of osteopathy, including making provision as to the registration of osteopaths and as to their professional education and conduct; to make provision in connection with the development and promotion of the profession; and for connected purposes.
+
+[1st July 1993]
+
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## The General Council and its committees
+
+### 1 The General Osteopathic Council and its committees.
+
+(1) There shall be a body corporate to be known as the General Osteopathic Council (referred to in this Act as “the General Council”).
+
+(2) It shall be the duty of the General Council to develop [^F1]... and regulate the profession of osteopathy.
+
+(3) The General Council shall have such other functions as are conferred on it by this Act.
+
+[[^F2](3A) The over-arching objective of the General Council in exercising its functions is the protection of the public.
+
+(3B) The pursuit by the General Council of its over-arching objective involves the pursuit of the following objectives—
+
+(a) to protect, promote and maintain the health, safety and well-being of the public;
+
+(b) to promote and maintain public confidence in the profession of osteopathy; and
+
+(c) to promote and maintain proper professional standards and conduct for members of that profession.]
+
+[[^F3](4) The General Council shall be constituted as provided for by order of the Privy Council, subject to Part 1 of the Schedule (which relates to orders under this subsection and powers of the General Council), which shall have effect.]
+
+(5) There shall be four committees of the General Council, to be known as—
+
+(a) the Education Committee;
+
+(b) the Investigating Committee;
+
+(c) the Professional Conduct Committee; and
+
+(d) the Health Committee.
+
+(6) The four committees are referred to in this Act as “the statutory committees”.
+
+(7) Each of the statutory committees shall have the functions conferred on it by or under this Act.
+
+(8) The General Council may establish such other committees as it considers appropriate in connection with the discharge of its functions.
+
+(9) Part II of the Schedule shall have effect with respect to the statutory committees.
+
+[^F4]10 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F4]11 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F4]12 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Registration of osteopaths
+
+### 2 The Registrar of Osteopaths.
+
+(1) The General Council shall appoint a person to be the registrar for the purposes of this Act.
+
+(2) The person appointed shall be known as the Registrar of Osteopaths (referred to in this Act as “the Registrar”) and shall hold office for such period and on such terms as the General Council may determine.
+
+(3) It shall be the duty of the Registrar to establish and maintain a register of osteopaths in accordance with the provisions of this Act.
+
+(4) The Registrar shall have such other functions as the General Council may direct.
+
+(5) Where the terms on which the Registrar holds office include provision for the payment to him of any allowances or expenses, the rate at which those allowances or expenses are paid shall be determined by the General Council.
+
+(6) The terms on which the Registrar holds office may, in addition to providing for his remuneration, include provision for the payment of such pensions, allowances or gratuities to or in respect of him, or such contributions or payments towards provision for such pensions, allowances or gratuities, as may be determined by the General Council.
+
+### 3 Full registration.
+
+(1) Subject to the provisions of this Act, any person who satisfies the conditions mentioned in subsection (2) shall be entitled to be registered as a fully registered osteopath.
+
+(2) The conditions are that the application is made in the prescribed form and manner and that the applicant—
+
+(a) has paid the prescribed fee;
+
+(b) satisfies the Registrar that he is of good character;
+
+(c) satisfies the Registrar that he is in good health, both physically and mentally; and
+
+[[^F5](d) is a person who—
+
+(i) has a recognised qualification, or
+
+(ii) has a specified state qualification which is not a recognised qualification and has met the requirement specified in relation to the person under section 14A.]
+
+[[^F6](2A) The General Council may require a specified state professional who wishes to be registered under this section to demonstrate that the person possesses the language skills necessary to the practice of a registered osteopath.
+
+(2B) A language test required by the General Council under subsection (2A) must be proportionate to the level of language skills referred to in that subsection.]
+
+(3) Where an application for registration is made during the transitional period by a person who was in practice as an osteopath at any time before the opening of the register, he shall be treated as having a recognised qualification if he satisfies the Registrar that for a period of at least five years (which need not be continuous) he has spent a substantial part of his working time in the lawful, safe and competent practice of osteopathy.
+
+(4) For the purposes of subsection (3), no account shall be taken of any work done by the applicant before the beginning of the period of seven years ending with the opening of the register.
+
+(5) For the purposes of subsection (3), the question whether the applicant has spent any part of his working time in the lawful, safe and competent practice of osteopathy shall be determined in accordance with such rules (if any) as may be made by the General Council.
+
+(6) The General Council may by rules provide for treating a person who—
+
+(a) has obtained a qualification in osteopathy outside the United Kingdom,
+
+(b) does not hold a recognised qualification, but
+
+(c) satisfies the Registrar that he has reached the required standard of proficiency,
+
+as holding a recognised qualification for the purposes of this Act.
+
+[[^F7](6A) The General Council may by rules provide for treating a person who does not hold a recognised qualification but who, on an application made to the Registrar before 1 January 2011, satisfies the Registrar that the person—
+
+(a) obtained a qualification in osteopathy in the United Kingdom before 9 May 2000,
+
+(b) practised as an osteopath before 9 May 2000,
+
+(c) has not practised as an osteopath in the United Kingdom on or after 9 May 2000,
+
+(d) has a good reason for not having made a successful application for registration during the transitional period, and
+
+(e) is capable of the competent and safe practice of osteopathy,
+
+as holding a recognised qualification for the purposes of this Act.]
+
+(7) In this section “transitional period” means the period of two years beginning with the opening of the register.
+
+### 4 Conditional registration.
+
+(1) Subject to the provisions of this Act, any person who satisfies the conditions mentioned in subsection (2) shall be entitled to be registered as a conditionally registered osteopath.
+
+(2) The conditions are that the application is made in the prescribed form and manner during the transitional period and that the applicant—
+
+(a) has paid the prescribed fee;
+
+(b) satisfies the Registrar that he is of good character;
+
+(c) satisfies the Registrar that he is in good health, both physically and mentally;
+
+(d) satisfies the Registrar that for a period of at least four years (which need not be continuous) he has spent a substantial part of his working time in the lawful, safe and competent practice of osteopathy;
+
+(e) if required to do so by the Registrar in accordance with rules made by the General Council, passes—
+
+(i) the prescribed test of competence; or
+
+(ii) such part of that test as the Registrar may specify; and
+
+(f) gives the required undertaking.
+
+(3) In the application of subsection (2)(d), in relation to any person, no account shall be taken of any work done by him before the beginning of the period of six years ending with the opening of the register.
+
+(4) The General Council may by rules provide for the conversion, in prescribed circumstances and subject to the osteopath concerned complying with such conditions (if any) as may be prescribed, of conditional registration into full registration.
+
+(5) Unless it is converted into full registration in accordance with the rules, any conditional registration shall cease to have effect—
+
+(a) at the end of the period of five years beginning with the opening of the register; or
+
+(b) where a shorter period has been specified by the Registrar in accordance with subsection (10) in relation to the osteopath in question, at the end of that shorter period.
+
+(6) In dealing with an application for registration made during the transitional period by a person who—
+
+(a) cannot meet the requirement of subsection (2)(d), but
+
+(b) has a qualification in osteopathy which, while not being a recognised qualification, has not been refused recognition by the General Council,
+
+the Registrar shall refer the matter to the Education Committee.
+
+(7) Where a reference is made to the Education Committee under subsection (6), it shall be the duty of the Committee to advise the General Council.
+
+(8) If, after considering the advice of the Education Committee, the General Council is satisfied that it is appropriate to do so, it shall direct the Registrar to disregard subsection (2)(d) in relation to the application in question.
+
+(9) For the purposes of subsection (2)(d), the question whether the applicant has spent any part of his working time in the lawful, safe and competent practice of osteopathy shall be determined in accordance with such rules (if any) as may be made by the General Council.
+
+(10) In this section—
+
+- “required undertaking” means an undertaking that the person giving it will, before the end of the period of five years beginning with the opening of the register or such shorter period as the Registrar may specify in relation to the applicant—
+
+  - (a) complete such additional training and acquire such experience as may be specified by the Registrar in accordance with rules made by the General Council; and
+  - (b) comply with such other conditions (if any) as may be imposed on him by the Registrar in accordance with such rules; and
+
+- “transitional period” means the period of two years beginning with the opening of the register.
+
+(11) Rules made by virtue of paragraph (b) in the definition of “required undertaking” in subsection (10) may, in particular, provide for the Registrar to be able to impose, as a condition, the passing of a test of competence specified by the Registrar.
+
+### 5 Provisional registration.
+
+(1) The General Council may make rules providing for all applicants for registration who are entitled to be registered with full registration, or all such applicants falling within a prescribed class, to be registered initially with provisional registration.
+
+(2) No such rules shall be made before the end of the period of two years beginning with the opening of the register.
+
+(3) Before making any rules under subsection (1), the General Council shall take such steps as are reasonably practicable to consult those who are registered osteopaths.
+
+(4) The General Council may by rules provide for the conversion, in prescribed circumstances and subject to the osteopath concerned complying with such conditions (if any) as may be prescribed, of provisional registration into full registration.
+
+(5) Unless it is converted into full registration in accordance with the rules, any provisional registration shall cease to have effect at the end of the period of one year beginning with the date on which it is entered in the register.
+
+(6) A provisionally registered osteopath shall not practise osteopathy except under the supervision of a fully registered osteopath who is approved by the General Council for the purposes of this subsection.
+
+(7) The General Council shall maintain a list of those fully registered osteopaths who are for the time being approved by the Council for the purposes of subsection (6).
+
+### [^F8]5A Temporary registration for visiting osteopaths from relevant European States
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 6 Registration: supplemental provision.
+
+(1) The register shall show, in relation to each registered osteopath—
+
+(a) whether he is registered with full, conditional [[^F9][[^F10]or provisional] registration] ; and
+
+(b) the address at which he has his practice or principal practice or, if he is not practising, such address as may be prescribed.
+
+(2) [[^F11][[^F12]The] General Council] may make rules in connection with registration and the register and as to the payment of fees.
+
+(3) The rules may, in particular, make provision as to—
+
+(a) the form and keeping of the register;
+
+(b) the form and manner in which applications for registration are to be made;
+
+(c) the documentary and other evidence which is to accompany applications for registration;
+
+(d) the manner in which the Registrar is to satisfy himself as to the good character and competence of any person applying for registration and the procedure for so doing;
+
+(e) the manner in which the Registrar is to satisfy himself as to the physical and mental health of any person applying for registration and the procedure for so doing;
+
+(f) the description of persons from whom references are to be provided for persons applying for registration;
+
+(g) in the case of an application for conditional registration, the conditions or kinds of condition which may be imposed on the osteopath concerned;
+
+(h) the making, periodic renewal and removal of entries in the register;
+
+(i) the giving of reasons for any removal of, or refusal to renew, an entry in the register;
+
+(j) any failure on the part of a registered osteopath to comply with any conditions subject to which his registration has effect, including provision for the Registrar to refuse to renew his registration or for the removal of his name from the register;
+
+(k) the issue and form of certificates;
+
+(l) the content, assessment and conduct of any test of competence imposed under section 4;
+
+(m) the meaning of “principal practice” for the purposes of subsection (1).
+
+(4) The rules may, in particular, also make provision—
+
+(a) prescribing the fee to be charged for making an entry in the register or restoring such an entry;
+
+(b) prescribing the fee to be charged in respect of the retention in the register of any entry in any year following the year in which the entry was first made;
+
+(c) providing for the entry in the register of qualifications (whether or not they are recognised qualifications) possessed by registered osteopaths and the removal of such an entry;
+
+(d) prescribing the fee to be charged in respect of the making or removal of any entry of a kind mentioned in paragraph (c);
+
+(e) authorising the Registrar—
+
+(i) to refuse to make an entry in the register, or restore such an entry, until the prescribed fee has been paid;
+
+(ii) to remove from the register any entry relating to a person who, after the prescribed notice has been given, fails to pay the fee prescribed in respect of the retention of the entry.
+
+[^F13]4A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[[^F14](4B) Subsections (2) to (4) are subject to subsection (4C) and section 6A.
+
+(4C) Any fee prescribed in connection with the making of an entry in the register relating to a specified state professional must be—
+
+(a) reasonable and proportionate to the cost of dealing with such a person’s application;
+
+(b) transparent, and made public in advance; and
+
+(c) payable by electronic means through the General Council’s website.]
+
+(5) A person who has failed to renew his registration as an osteopath shall be entitled to have his entry restored to the register on payment [^F15]... of the prescribed fee.
+
+[^F16]6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 6A [[^F17]Registration: provision relating to specified state professionals
+
+(1) Where a specified state professional makes an application for full registration, the Registrar must—
+
+(a) within the period of one month beginning with the date of receipt of the person’s application—
+
+(i) acknowledge receipt of the application; and
+
+(ii) inform the person of any missing document required for the purposes of the application;
+
+(b) give the person adequate time to complete the requirements and procedures of the application process;
+
+(c) ensure that the documentary and other evidence which is to accompany applications for registration is no more than is necessary to demonstrate to the Registrar that the person satisfies the conditions in section 3(2);
+
+(d) accept certified copies of documents in place of original documents, unless it requires original documents to protect the integrity of the application process; and
+
+(e) deal promptly with the person’s application and notify the person of the result of the application within the period of four months beginning with the relevant date.
+
+(2) For the purposes of subsection (1)(d), a certified copy of a document is one which is certified to be a true copy of the original by a solicitor practising in any part of the United Kingdom.
+
+(3) In subsection (1)(e), “the relevant date”, in relation to an application, is—
+
+(a) the date when the Registrar receives the application; or
+
+(b) if any document required for the purposes of the application is missing when the Registrar receives the application, the date on which the Registrar first has all the documents required for those purposes.
+
+(4) If the Registrar makes a request for further evidence, information or documents from such a specified state professional, the period beginning with the date on which the Registrar makes that request and ending with the date on which the person complies with that request is to be disregarded in determining whether the period of four months referred to in subsection (1)(e) has expired.]
+
+### 7 Suspension of registration.
+
+(1) Where the Registrar suspends the registration of an osteopath in accordance with any provision of this Act, the Registrar shall enter in the register a note of—
+
+(a) the suspension;
+
+(b) the period of the suspension; and
+
+(c) the provision under which the suspension was made.
+
+(2) Where the period of the suspension is extended, the Registrar shall note the extension in the register.
+
+(3) Any osteopath whose registration has been suspended shall, for the period of his suspension, cease to be a registered osteopath for the purposes of section 32(1).
+
+### 8 Restoration to the register of osteopaths who have been struck off.
+
+(1) Where a person who has had his entry as a fully registered osteopath removed from the register as the result of an order under section 22(4)(d) wishes to have his entry restored to the register he shall make an application for registration to the Registrar.
+
+(2) No such application may be made before the end of the period of ten months beginning with the date on which the order under section 22(4)(d) was made.
+
+(3) Any application for registration in the circumstances mentioned in subsection (1) (an “application for restoration”) shall be referred by the Registrar to the Professional Conduct Committee for determination by that Committee.
+
+(4) For the purposes of determining an application for restoration—
+
+(a) the Committee shall exercise the Registrar’s functions under section 3; and
+
+(b) subsection (2) of that section shall have effect as if paragraph (d) were omitted.
+
+(5) The Committee shall not grant an application for restoration unless it is satisfied that the applicant not only satisfies the requirements of section 3 (as modified) but, having regard in particular to the circumstances which led to the making of the order under section 22(4)(d), is also a fit and proper person to practise the profession of osteopathy.
+
+(6) On granting an application for restoration, the Committee—
+
+(a) shall direct the Registrar to register the applicant as a fully registered osteopath; and
+
+(b) may make a conditions of practice order with respect to him.
+
+(7) The provisions of section 22 shall have effect in relation to a conditions of practice order made by virtue of subsection (6) as they have effect in relation to one made by virtue of subsection (4)(b) of that section.
+
+(8) The General Council may by rules make provision in relation to the restoration to the register of conditionally registered osteopaths [[^F18]or provisionally registered osteopaths], and any such rules may provide for restoration, in prescribed circumstances, as a fully registered osteopath.
+
+### 9 Access to the register etc.
+
+(1) The General Council shall—
+
+(a) make the register available for inspection by members of the public at all reasonable times; [^F19]. . .
+
+[^F20]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[[^F21](1A) The General Council shall—
+
+(a) before the end of the period of twelve months which begins on the date on which the register is opened, and
+
+(b) at least once in every subsequent period of twelve months which begins on the anniversary of that date,
+
+publish a list (referred to in this section as the “published register”), giving the names and registered addresses of those who, at the date of publication, are registered osteopaths.
+
+(1B) The published register shall also contain, in respect of each registered osteopath, such other information, derived from the register, as may, by rules made by the General Council, be determined to be appropriate for publication.
+
+(1C) Any osteopath whose registration has been suspended shall, for the period of his suspension, cease to be a registered osteopath for the purposes of subsections (1A) and (1B).]
+
+(2) Any person who asks the General Council for a copy of the most recently published register shall be entitled to have one on payment of such reasonable fee as the Council may determine.
+
+(3) Subsection (2) shall not be taken as preventing the General Council from providing copies of the [[^F22]published] register free of charge whenever it considers it appropriate.
+
+(4) Any copy of, or extract from, the published register shall be evidence (and in Scotland sufficient evidence) of the matters mentioned in it.
+
+(5) A certificate purporting to be signed by the Registrar, certifying that a person—
+
+(a) is registered in a specified category,
+
+(b) is not registered,
+
+(c) was registered in a specified category at a specified date or during a specified period,
+
+(d) was not registered in a specified category, or in any category, at a specified date or during a specified period, or
+
+(e) has never been registered,
+
+shall be evidence (and in Scotland sufficient evidence) of the matters certified.
+
+### 10 Fraud or error in relation to registration.
+
+(1) The Registrar shall investigate any allegation that an entry in the register has been fraudulently procured or incorrectly made and report on the result of his investigation to the General Council.
+
+(2) An entry which has been restored to the register under section 6(5) or section 8, or under rules made by virtue of section 8(8), may be treated for the purposes of this section as having been fraudulently procured or incorrectly made if any previous entry from which the restored entry is derived was fraudulently procured or incorrectly made.
+
+(3) The Registrar may, at any time during his investigation, suspend the registration in question if he is satisfied that it is necessary to do so in order to protect members of the public.
+
+(4) The General Council shall by rules make provision, in relation to any case where the Registrar proposes to suspend an osteopath’s registration under subsection (3)—
+
+(a) giving the osteopath concerned an opportunity to appear before the Investigating Committee and argue his case against suspension;
+
+(b) allowing him to be legally represented; and
+
+(c) for the Registrar to be made a party to the proceedings.
+
+(5) If, having considered any report of the Registrar, the General Council is satisfied that the entry in question has been fraudulently procured or incorrectly made it may order the Registrar to remove the entry.
+
+(6) Where such an order is made, the Registrar shall without delay notify the person whose entry is to be removed—
+
+(a) of the order; and
+
+(b) of the right of appeal given by subsection (7).
+
+(7) Where such an order is made, the person whose entry is to be removed may appeal [[^F23]in England and Wales to the county court or in Northern Ireland] to [[^F24]a county court or, in the case of a person whose address in the register is in Scotland, [[^F25]to] the sheriff in whose sheriffdom the address is situated] .
+
+[[^F26](8) Any such appeal must be brought before the end of the period of 28 days beginning with the date on which notification of the order was served under subsection (6).]
+
+(9) On an appeal under this section, the General Council shall be the respondent.
+
+[^F27]10 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[[^F28](11) On an appeal under this section, the court (or the sheriff) may—
+
+(a) dismiss the appeal,
+
+(b) allow the appeal and quash the order appealed against, or
+
+(c) remit the case to the General Council to dispose of the case in accordance with the directions of the court (or the sheriff),
+
+and may make such order as to costs (or, in Scotland, expenses) as it (or he) thinks fit.]
+
+(12) The General Council may by rules make such further provision as it considers appropriate with respect to suspensions under subsection (3), including in particular provision as to their duration.
+
+## Professional education
+
+### 11 The Education Committee.
+
+(1) The Education Committee shall have the general duty of promoting high standards of education and training in osteopathy and keeping the provision made for that education and training under review.
+
+(2) Where it considers it to be necessary in connection with the discharge of its general duty, the Education Committee may itself provide, or arrange for the provision of, education or training.
+
+(3) The General Council shall consult the Education Committee on matters relating to education, training, examinations or tests of competence.
+
+(4) It shall be the duty of the Education Committee to give advice to the General Council on the matters mentioned in subsection (3), either on being consulted by the Council or where it considers it appropriate to do so.
+
+### 12 Visitors.
+
+(1) The Education Committee may appoint persons to visit any place at which or institution by which or under whose direction—
+
+(a) any relevant course of study is, or is proposed to be, given;
+
+(b) any examination is, or is proposed to be, held in connection with any such course;
+
+(c) any test of competence is, or is proposed to be, conducted in connection with any such course or for any other purpose connected with this Act.
+
+(2) In subsection (1) “relevant course of study” means any course of study which forms, or is intended to form, part of—
+
+(a) the complete course of study required in order to obtain a recognised qualification or a qualification for which recognition is being sought; or
+
+(b) any training which a registered osteopath may be required to undergo after registration.
+
+(3) No person appointed as a visitor may exercise his functions under this section in relation to—
+
+(a) any place at which he regularly gives instruction in any subject; or
+
+(b) any institution with which he has a significant connection.
+
+(4) A person shall not be prevented from being appointed as a visitor merely because he is a member of—
+
+(a) the General Council; or
+
+(b) any of its committees.
+
+(5) Where a visitor visits any place or institution, in the exercise of his functions under this section, he shall report to the Education Committee—
+
+(a) on the nature and quality of the instruction given, or to be given, and the facilities provided or to be provided, at that place or by that institution; and
+
+(b) on such other matters (if any) as he was required to report on by the Committee.
+
+(6) Requirements of the kind mentioned in subsection (5)(b) may be imposed by the Education Committee—
+
+(a) generally in relation to all visits;
+
+(b) generally in relation to all visits made to a specified kind of place or institution; or
+
+(c) specifically in relation to a particular visit.
+
+(7) Where a visitor reports to the Education Committee under subsection (5), the Committee shall on receipt of the report—
+
+(a) send a copy of it to the institution concerned; and
+
+(b) notify that institution of the period within which it may make observations on, or raise objections to, the report.
+
+(8) The period specified by the Committee in a notice given under subsection (7)(b) shall not be less than one month beginning with the date on which a copy of the report is sent to the institution under subsection (7)(a).
+
+(9) The Education Committee shall not take any steps in the light of any report made under subsection (5) before the end of the specified period.
+
+(10) The General Council may—
+
+(a) pay fees, allowances and expenses to persons appointed as visitors; or
+
+(b) treat any such person, for the purposes of paragraph 15(2)(c) to (e) of the Schedule, as a member of its staff.
+
+(11) In the case of a visitor who is also such a member as is mentioned in subsection (4), any payment made to him in his capacity as a visitor shall be in addition to any to which he is entitled as such a member.
+
+### 13 The standard of proficiency.
+
+(1) The General Council shall from time to time determine the standard of proficiency which, in its opinion, is required for the competent and safe practice of osteopathy.
+
+(2) The Council shall publish a statement of the standard of proficiency determined by it under this section.
+
+(3) If the Council at any time varies the standard so determined it shall publish [^F29]. . . a statement of the revised [[^F30]standard, accompanied by] a statement of the differences between that standard and the standard as it was immediately before the revision.
+
+(4) No variation of the standard shall have effect before the end of the period of one year beginning with the date on which the Council publishes the [[^F31]statements] required by subsection (3) in connection with that variation.
+
+### 14 Recognition of qualifications.
+
+(1) For the purposes of this Act, a qualification is a “recognised qualification” if it is recognised by the General Council under this section.
+
+(2) Where the General Council is satisfied that—
+
+(a) a qualification granted by an institution in the United Kingdom is evidence of having reached the required standard of proficiency, or
+
+(b) a qualification which such an institution proposes to grant will be evidence of having reached that standard,
+
+it may, with the approval of the Privy Council, recognise that qualification for the purposes of this Act.
+
+[[^F32](2A) A qualification that—
+
+(a) was granted by an institution in a relevant European State, and
+
+(b) is, in the opinion of the General Council, evidence of having reached a standard of proficiency comparable to that evidenced by a qualification recognised under subsection (2),
+
+is to be treated for the purposes of this Act as if it were so recognised.]
+
+[[^F33](2B) The General Council may determine that a specified state qualification is not evidence of having reached a standard of proficiency comparable to that evidenced by a qualification recognised under subsection (2) only where one or more of Conditions 1 to 3 are met.
+
+(2C) Condition 1 is met where there exists a substantial difference between the standard of proficiency evidenced by the specified state qualification and the required standard of proficiency.
+
+(2D) Condition 2 is met where the professional activities to which a recognised qualification relates include one or more professional activities that cover substantially different matters from those covered by the specified state qualification.
+
+(2E) Condition 3 is met where requiring a person who holds the specified state qualification to pass an aptitude test or successfully to complete an adaptation period, or to do both, would amount to requiring the person to acquire a recognised qualification.]
+
+(3) Where the General Council is satisfied that a qualification [[^F34](not being one to which subsection (2A) applies)] granted by an institution outside the United Kingdom is evidence of having reached the required standard of proficiency, or of reaching a comparable standard, it may, with the approval of the Privy Council, recognise that qualification for the purposes of this Act.
+
+(4) The General Council may by rules—
+
+(a) impose additional conditions for registration, or
+
+(b) provide for any provision made by this Act in relation to conditions for registration to have effect subject to prescribed modifications,
+
+in the case of any application for registration based on a person’s holding a qualification which is recognised under subsection (3).
+
+(5) The General Council shall maintain and publish a list of the qualifications which are for the time being recognised under this section.
+
+(6) Before deciding whether or not to recognise a qualification under this section, the General Council shall consult the Education Committee.
+
+(7) When requesting the approval of the Privy Council for the purposes of subsection (2) or (3), the General Council shall make available to the Privy Council—
+
+(a) the information provided to it by the Education Committee; or
+
+(b) where the Privy Council considers it appropriate, a summary of that information.
+
+(8) The Privy Council shall have regard to the information made available to it under subsection (7) before deciding whether or not to give its approval.
+
+(9) The General Council may by rules make provision requiring the Education Committee to publish a statement indicating—
+
+(a) matters on which the Committee will wish to be satisfied before advising the General Council to recognise a qualification under subsection (2); and
+
+(b) matters which may cause the Committee to advise the General Council not to recognise a qualification under subsection (2).
+
+[^F35]10 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F36]11 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 14A [[^F37]Section 14: further provision relating to specified state professionals
+
+(1) This section applies where a person who holds a specified state qualification applies to be registered under [[^F38]section 3] and the person’s qualification is not a recognised qualification.
+
+(2) This section does not apply if the person’s specified state qualification is not a recognised qualification because Condition 3 is met in relation to it (see section 14(2E)).
+
+(3) Where this section applies, the General Council must specify what aptitude test or adaptation period, or aptitude test and adaptation period, must be passed or successfully completed by the person.
+
+(4) An aptitude test or adaptation period specified under this section, or aptitude test and adaptation period together specified under this section, must be proportionate to the difference sought to be addressed.
+
+(5) The General Council must give a person its reasons for specifying an aptitude test or an adaptation period, or both, in relation to the person under this section, if the person makes a written request for them.
+
+(6) If the General Council specifies aptitude tests under this section, the General Council must ensure that such aptitude tests are scheduled with reasonable frequency and at least once a year.]
+
+### 15 Recognition of qualifications: supplemental.
+
+(1) A qualification may be recognised by the General Council under section 14—
+
+(a) only in respect of awards of that qualification made after a specified date;
+
+(b) only in respect of awards made before a specified date; or
+
+(c) only in respect of awards made after a specified date but before a specified date.
+
+(2) Any date specified under subsection (1) may be earlier than the date on which this Act is passed.
+
+(3) Where the General Council recognises a qualification in one or other of the limited ways allowed for by subsection (1), the limitation shall be specified in the list issued by the Council under section 14(5).
+
+(4) The General Council may, in recognising a qualification under section 14, direct that the qualification is to remain a recognised qualification only so long as such conditions as the General Council sees fit to impose are complied with in relation to the qualification.
+
+(5) Any such condition may at any time be removed by the General Council.
+
+(6) The General Council shall not exercise any of its functions under subsection (4) or (5) without the approval of the Privy Council.
+
+(7) Any institution which is, or is likely to be, affected by a direction given by the General Council under subsection (4) shall be notified by the Council of the direction as soon as is reasonably practicable.
+
+(8) Where an application is made by any institution for the recognition of a qualification under section 14, the General Council shall notify the institution of the result of its application as soon as is reasonably practicable after the Council determines the application.
+
+(9) Where the General Council refuses such an application it shall, when notifying the institution concerned, give reasons for its refusal.
+
+### 16 Withdrawal of recognition.
+
+(1) Where, as a result of any visitor’s report or other information acquired by the Education Committee, the Committee is of the opinion—
+
+(a) that a recognised qualification is no longer, or will no longer be, evidence of having reached the required standard of proficiency,
+
+(b) that a proposed qualification which has yet to be granted, but which was recognised by virtue of section 14(2)(b), will not be evidence of having reached that standard, or
+
+(c) that a condition for the continued recognition of a qualification (imposed under section 15(4)) has not been complied with,
+
+it shall refer the matter to the General Council.
+
+(2) If the General Council is satisfied that the circumstances of the case are as mentioned in subsection (1)(a), (b) or (c) it may, with the approval of the Privy Council, direct that the qualification is no longer to be a recognised qualification for the purposes of this Act.
+
+(3) A direction under subsection (2) shall have effect from the date of the direction or from such later date as may be specified in the direction.
+
+(4) In considering any matter referred to it under subsection (1), the General Council shall have regard to the information on which the Education Committee formed its opinion together with any other relevant information which the Council may have.
+
+(5) When requesting the approval of the Privy Council for the purposes of subsection (2), the General Council shall make available to the Privy Council the information to which it had regard under subsection (4).
+
+(6) The Privy Council shall have regard to the information made available to it under subsection (5) before deciding whether or not to give its approval.
+
+(7) Where the recognition of any qualification is withdrawn under this section, the General Council shall use its best endeavours to secure that any person who is studying for that qualification at any place, at the time when recognition is withdrawn, is given the opportunity to study at that or any other place for a qualification which is recognised.
+
+(8) The withdrawal under this section of recognition from any qualification shall not affect the entitlement of any person to be registered by reference to an award of that qualification made to him before the date on which the direction withdrawing recognition had effect.
+
+### 17 Post registration training.
+
+(1) The General Council may make rules requiring registered osteopaths to undertake [[^F39]continuing professional development].
+
+(2) The rules may, in particular, make provision with respect to registered osteopaths who fail to comply with any requirements of the rules, including provision for their registration to cease to have effect.
+
+[^F40]2A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F40]2B . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F40]2C . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F40]2D . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) Before making, or varying, any rules under this section the General Council shall take such steps as are reasonably practicable to consult those who are registered osteopaths and such other persons as the Council considers appropriate.
+
+### 18 Information to be given by institutions.
+
+(1) This section applies to any institution by which, or under whose direction—
+
+(a) any relevant course of study is, or is proposed to be, given;
+
+(b) any examination is, or is proposed to be, held in connection with any such course; or
+
+(c) any test of competence is, or is proposed to be, conducted in connection with any such course or for any other purpose connected with this Act.
+
+(2) In subsection (1) “relevant course of study” has the same meaning as in section 12.
+
+(3) Whenever required to do so by the [[^F41]Education Committee], any such institution shall give to [[^F42]the Committee] such information as [[^F42]the Committee] may reasonably require in connection with the exercise of its functions under this Act.
+
+(4) The matters with respect to which the [[^F41]Education Committee]may require information under subsection (3) include—
+
+(a) the requirements which must be met by any person pursuing the course of study, undergoing the course of training or taking the examination or test in question;
+
+(b) the financial position of the institution;
+
+(c) the efficiency of the institution’s management.
+
+[[^F43](5) Where an institution refuses any reasonable request for information made by the Education Committee under this section, the Committee may recommend to the General Council that recognition of the qualification in question be either—
+
+(a) refused, or
+
+(b) withdrawn.
+
+(6) Where a recommendation is made to the General Council under subsection (5), the Council may—
+
+(a) in a case to which subsection (5)(a) applies, refuse to recognise the qualification under section 14; or
+
+(b) in a case to which subsection (5)(b) applies, give a direction under section 16(2) (with the required approval of the Privy Council) in respect of the qualification.]
+
+## Professional conduct and fitness to practise
+
+### 19 The Code of Practice.
+
+(1) The General Council shall prepare and from time to time publish a Code of Practice—
+
+(a) laying down standards of conduct and practice expected of registered osteopaths; and
+
+(b) giving advice in relation to the practice of osteopathy.
+
+(2) It shall be the duty of the General Council to keep the Code under review and to vary its provisions whenever the Council considers it appropriate to do so.
+
+(3) Before issuing the Code or varying it, the General Council shall consult such representatives of practising osteopaths as it considers appropriate.
+
+(4) Where any person is alleged to have failed to comply with any provision of the Code, that failure—
+
+(a) shall not be taken, of itself, to constitute unacceptable professional conduct on his part; but
+
+(b) shall be taken into account in any proceedings against him under this Act.
+
+(5) Any person who asks the General Council for a copy of the Code shall be entitled to have one on payment of such reasonable fee as the Council may determine.
+
+(6) Subsection (5) is not to be taken as preventing the General Council from providing copies of the Code free of charge whenever it considers it appropriate.
+
+### 19A [[^F44]Information to be made available to specified state professionals
+
+(1) The General Council must make information about the following matters available to specified state professionals—
+
+(a) the relevant laws to be applied regarding disciplinary action, financial responsibility or liability and other relevant matters;
+
+(b) the principles of discipline and enforcement of professional standards, including disciplinary jurisdiction and consequential effects on practising professional activities;
+
+(c) the processes and procedures for the ongoing verification of competence;
+
+(d) the criteria for, and procedures relating to, removal of an entry in the register;
+
+(e) the documentation required of specified state professionals and the form in which it should be presented; and
+
+(f) the documents and certificates issued in relation to professional qualifications or other conditions that apply to the practice of a registered osteopath that are acceptable to the General Council.
+
+(2) The General Council must deal promptly with enquiries from specified state professionals about conditions that apply to the practice of registered osteopaths.]
+
+### 20 Professional conduct and fitness to practise.
+
+(1) This section applies where any allegation is made against a registered osteopath to the effect that—
+
+(a) he has been guilty of conduct which falls short of the standard required of a registered osteopath;
+
+(b) he has been guilty of professional incompetence;
+
+(c) he has been convicted (at any time) in the United Kingdom of a criminal offence; or
+
+(d) his ability to practise as an osteopath is seriously impaired because of his physical or mental condition.
+
+(2) In this Act conduct which falls short of the standard required of a registered osteopath is referred to as “unacceptable professional conduct”.
+
+(3) Where an allegation is made to the General Council, or to any of its committees (other than the Investigating Committee), it shall be the duty of the Council or committee to refer the allegation to the Investigating Committee.
+
+(4) The General Council may make rules requiring any allegation which is made or referred to the Investigating Committee to be referred for preliminary consideration to a person appointed by the Council in accordance with the rules.
+
+(5) Any rules made under subsection (4)—
+
+(a) may allow for the appointment of persons who are members of the General Council; but
+
+(b) may not allow for the appointment of the Registrar.
+
+(6) Any person to whom an allegation is referred by the Investigating Committee in accordance with rules made under subsection (4) shall—
+
+(a) consider the allegation with a view to establishing whether, in his opinion, power is given by this Act to deal with it if it proves to be well founded; and
+
+(b) if he considers that such power is given, give the Investigating Committee a report of the result of his consideration.
+
+(7) Where there are rules in force under subsection (4), the Investigating Committee shall investigate any allegation with respect to which it is given a report by a person appointed under the rules.
+
+(8) Where there are no such rules in force, the Investigating Committee shall investigate any allegation which is made or referred to it.
+
+(9) Where the Investigating Committee is required to investigate any allegation, it shall—
+
+(a) notify the registered osteopath concerned of the allegation and invite him to give it his observations before the end of the period of 28 days beginning with the day on which notice of the allegation is sent to him;
+
+(b) take such steps as are reasonably practicable to obtain as much information as possible about the case; and
+
+(c) consider, in the light of the information which it has been able to obtain and any observations duly made to it by the registered osteopath concerned, whether in its opinion there is a case to answer.
+
+(10) The General Council [[^F45]shall] by rules make provision as to the procedure to be followed by the Investigating Committee in any investigation carried out by it under this section.
+
+(11) In the case of an allegation of a kind mentioned in subsection (1)(c), the Investigating Committee may conclude that there is no case to answer if it considers that the criminal offence in question has no material relevance to the fitness of the osteopath concerned to practise osteopathy.
+
+(12) Where the Investigating Committee concludes that there is a case to answer, it shall—
+
+(a) notify both the osteopath concerned and the person making the allegation of its conclusion; and
+
+(b) refer the allegation, as formulated by the Investigating Committee—
+
+(i) to the Health Committee, in the case of an allegation of a kind mentioned in subsection (1)(d); or
+
+(ii) to the Professional Conduct Committee, in the case of an allegation of any other kind.
+
+(13) Where the Investigating Committee concludes that there is no case to answer, it shall notify both the osteopath concerned and the person making the allegation.
+
+(14) In this section “allegation” means an allegation of a kind mentioned in subsection (1).
+
+### 21 Interim suspension powers of the Investigating Committee.
+
+(1) This section applies where, under section 20, the Investigating Committee is investigating an allegation against a registered osteopath.
+
+(2) If the Committee is satisfied that it is necessary to do so in order to protect members of the public, it may order the Registrar to suspend the osteopath’s registration.
+
+(3) The order shall specify the period of the suspension, which shall not exceed two months beginning with the date on which the order is made.
+
+(4) The Committee shall not—
+
+(a) make an order in any case after it has referred the allegation in question to the Professional Conduct Committee or the Health Committee; or
+
+(b) make more than one order in respect of the same allegation.
+
+(5) Before making an order, the Investigating Committee shall give the osteopath concerned an opportunity to appear before it and to argue his case against the making of the proposed order.
+
+(6) At any such hearing the osteopath shall be entitled to be legally represented.
+
+### 22 Consideration of allegations by the Professional Conduct Committee.
+
+(1) Where an allegation has been referred to the Professional Conduct Committee under section 20 or by virtue of any rule made under section 26(2)(a), it shall be the duty of the Committee to consider the allegation.
+
+(2) If, having considered it, the Committee is satisfied that the allegation is well founded it shall proceed as follows.
+
+(3) If the allegation is of a kind mentioned in section 20(1)(c), the Committee may take no further action if it considers that the criminal offence in question has no material relevance to the fitness of the osteopath concerned to practise osteopathy.
+
+(4) Otherwise, the Committee shall take one of the following steps—
+
+(a) admonish the osteopath;
+
+(b) make an order imposing conditions with which he must comply while practising as an osteopath (a “conditions of practice order”);
+
+(c) order the Registrar to suspend the osteopath’s registration for such period as may be specified in the order (a “suspension order”); or
+
+(d) order the Registrar to remove the osteopath’s name from the register.
+
+[[^F46](4A) A conditions of practice order must specify one or both of the following—
+
+(a) the period for which the order is to have effect;
+
+(b) a test of competence which must be taken by the osteopath.]
+
+(5) A conditions of practice order shall cease to have effect—
+
+(a) if a period is specified in the order [^F47]. . ., when that period ends;
+
+(b) if no such period is specified but a test of competence is so specified, when the osteopath concerned passes the test; or
+
+(c) if both a period and a test are so specified, when the period ends or when the osteopath concerned passes the test, whichever is the later to occur.
+
+(6) At any time while a conditions of practice order is in force under this section or by virtue of a [[^F48]decision of a court on an appeal under section 31] , the Committee may (whether or not of its own motion)—
+
+(a) extend, or further extend, the period for which the order has effect;
+
+(b) revoke or vary any of the conditions;
+
+(c) require the osteopath concerned to pass a test of competence specified by the Committee;
+
+(d) reduce the period for which the order has effect; or
+
+(e) revoke the order.
+
+(7) Where the period for which a conditions of practice order has effect is extended or reduced under subsection (6), or a test of competence is specified under that subsection, subsection (5) shall have effect as if—
+
+(a) the period specified in the conditions of practice order was the extended or reduced period; and
+
+(b) the test of competence was specified in that order.
+
+(8) At any time while a suspension order is in force with respect to an osteopath under this section or by virtue of a [[^F49]decision of a court on an appeal under section 31] , the Committee may (whether or not of its own motion)—
+
+(a) extend, or further extend, the period of suspension; and
+
+(b) make a conditions of practice order with which the osteopath must comply if he resumes the practice of osteopathy after the end of his period of suspension.
+
+(9) The period specified in a conditions of practice order or in a suspension order under this section, and any extension of a specified period under subsection (6) or (8), shall not in each case exceed three years.
+
+(10) Before exercising its powers under subsection (4), (6) or (8), the Committee shall give the osteopath concerned an opportunity to appear before it and to argue his case.
+
+(11) At any such hearing the osteopath shall be entitled to be legally represented.
+
+(12) In exercising its powers under subsection (6) or (8), the Committee shall ensure that the conditions imposed on the osteopath concerned are, or the period of suspension imposed on him is, the minimum which it considers necessary for the protection of members of the public.
+
+(13) The Committee shall, before the end of the period of twelve months beginning with the commencement of this section, and at least once in every succeeding period of twelve months, publish a report setting out—
+
+(a) the names of those osteopaths in respect of whom it has investigated allegations under this section and found the allegations to be well founded;
+
+(b) the nature of those allegations; and
+
+(c) the steps (if any) taken by the Committee in respect of the osteopaths so named.
+
+(14) Where the Committee has investigated any allegation against an osteopath under this section and has not been satisfied that the allegation was well founded, it shall include in its report for the year in question a statement of that fact if the osteopath so requests.
+
+### 23 Consideration of allegations by the Health Committee.
+
+(1) Where an allegation has been referred to the Health Committee under section 20 or by virtue of any rule made under section 26(2)(a), it shall be the duty of the Committee to consider the allegation.
+
+(2) If, having considered it, the Committee is satisfied that the allegation is well founded, it shall—
+
+(a) make an order imposing conditions with which the osteopath concerned must comply while practising as an osteopath (a “conditions of practice order”); or
+
+(b) order the Registrar to suspend the osteopath’s registration for such period as may be specified in the order (a “suspension order”).
+
+(3) Any condition in a conditions of practice order under this section shall be imposed so as to have effect for a period specified in the order.
+
+(4) At any time while a conditions of practice order is in force under this section or under section 30 or by virtue of a [[^F50]decision of a court on an appeal under section 31] , the Committee may (whether or not of its own motion)—
+
+(a) extend, or further extend, the period for which the order has effect; or
+
+(b) make a suspension order with respect to the osteopath concerned.
+
+(5) At any time while a suspension order is in force with respect to an osteopath under this section or under section 30 or by virtue of a [[^F50]decision of a court on an appeal under section 31] , the Committee may (whether or not of its own motion)—
+
+(a) extend, or further extend, the period of suspension;
+
+(b) replace the order with a conditions of practice order having effect for the remainder of the period of suspension; or
+
+(c) make a conditions of practice order with which the osteopath must comply if he resumes the practice of osteopathy after the end of his period of suspension.
+
+(6) On the application of the osteopath with respect to whom a conditions of practice order or a suspension order is in force under this section or under section 30 or by virtue of a [[^F51]decision of a court on an appeal under section 31] , the Committee may—
+
+(a) revoke the order;
+
+(b) vary the order by reducing the period for which it has effect; or
+
+(c) in the case of a conditions of practice order, vary the order by removing or altering any of the conditions.
+
+(7) Where an osteopath has made an application under subsection (6) which has been refused (“the previous application”), the Committee shall not entertain a further such application unless it is made after the end of the period of twelve months beginning with the date on which the previous application was received by the Committee.
+
+(8) The period specified in a conditions of practice order or in a suspension order under this section, and any extension of a specified period under subsection (4) or (5), shall not in each case exceed three years.
+
+(9) Before exercising its powers under subsection (2), (4), (5) or (6), the Committee shall give the osteopath concerned an opportunity to appear before it and to argue his case.
+
+(10) At any such hearing the osteopath shall be entitled to be legally represented.
+
+(11) In exercising any of its powers under this section, the Committee shall ensure that any conditions imposed on the osteopath concerned are, or any period of suspension imposed on him is, the minimum which it considers necessary for the protection of members of the public.
+
+### 24 Interim suspension powers of the Professional Conduct Committee and the Health Committee.
+
+(1) This section applies where—
+
+(a) an allegation against a registered osteopath has been referred under section 20, or by virtue of any rule made under section 26(2)(a), to the Professional Conduct Committee or the Health Committee and the Committee has not reached a decision on the matter; or
+
+(b) the Professional Conduct Committee or the Health Committee reaches a relevant decision on any such allegation.
+
+(2) The Committee concerned may, if it is satisfied that it is necessary to do so in order to protect members of the public, order the Registrar to suspend the registration of the osteopath concerned.
+
+(3) An order under subsection (2) (an “interim suspension order”) shall cease to have effect—
+
+(a) in a case falling within subsection (1)(a), when the Committee reaches a decision in respect of the allegation in question; and
+
+(b) in a case falling within subsection (1)(b)—
+
+(i) if there is no appeal against the decision, when the period for appealing expires; or
+
+(ii) if there is an appeal against the decision, when the appeal is withdrawn or otherwise disposed of.
+
+(4) Before making an interim suspension order, the Committee shall give the osteopath in question an opportunity to appear before it and to argue his case against the making of the proposed order.
+
+(5) At any such hearing the osteopath shall be entitled to be legally represented.
+
+(6) Where an interim suspension order has been made, the osteopath concerned may appeal against it to the appropriate court.
+
+(7) Any such appeal must be brought before the end of the period of 28 days beginning with the date on which the order appealed against is made.
+
+(8) On an appeal under subsection (6) the court may terminate the suspension.
+
+(9) On such an appeal the decision of the court shall be final.
+
+(10) In this section—
+
+- “the appropriate court” means—
+
+  - (a) in the case of an osteopath whose registered address is in Scotland, the Court of Session;
+  - (b) in the case of an osteopath whose registered address is in Northern Ireland, the High Court of Justice in Northern Ireland; and
+  - (c) in any other case, the High Court of Justice in England and Wales;
+
+- “relevant decision” means an order under section 22(4)(c) or (d), or an order under section 23(2)(b).
+
+### 25 Revocation of interim suspension orders.
+
+(1) On an application made by the osteopath concerned, in a case falling within section 24(1)(a), an interim suspension order may be revoked by the Committee which made it on the ground that a change in the circumstances of the case has made the order unnecessary.
+
+(2) Where an osteopath has made an application under subsection (1) which has been refused, he may appeal to the appropriate court against the refusal.
+
+(3) Where, in relation to an interim suspension order—
+
+(a) an appeal has been made under section 24(6) against the making of the order, or
+
+(b) a further application for the order to be revoked has been made after an unsuccessful appeal under this section against the refusal of an earlier application,
+
+leave of the appropriate court shall be required for any appeal under subsection (2) in relation to that order.
+
+(4) Except in a case falling within subsection (5), no application under subsection (1) shall be entertained by the Committee concerned if it is made before the end of the period of six months beginning—
+
+(a) with the date on which the order was imposed; or
+
+(b) where an unsuccessful appeal against the order has been made under section 24(6), the date on which the appeal was dismissed.
+
+(5) Where a previous application has been made under subsection (1) in relation to an interim suspension order, no further such application shall be entertained by the Committee concerned if it is made before the end of the period of six months beginning with the date on which the previous application was finally disposed of.
+
+(6) Any appeal under subsection (2) must be brought before the end of the period of 28 days beginning with the date on which notice of the refusal is sent to the osteopath.
+
+(7) On an appeal under subsection (2) the court may terminate the suspension.
+
+(8) On such an appeal the decision of the court shall be final.
+
+(9) In this section “the appropriate court” has the same meaning as in section 24.
+
+### 26 Investigation of allegations: procedural rules.
+
+(1) The General Council shall make rules as to the procedure to be followed by the Professional Conduct Committee or the Health Committee in considering any allegation under section 22 or 23.
+
+(2) The rules shall, in particular, include provision—
+
+(a) empowering each Committee to refer to the other any allegation which it considers would be better dealt with by that other Committee;
+
+(b) requiring the osteopath to whom the allegation relates to be given notice of the allegation;
+
+(c) giving the osteopath an opportunity to put his case at a hearing if—
+
+(i) before the end of the period of 28 days beginning with the date on which notice of the allegation is sent to him, he asks for a hearing; or
+
+(ii) the Committee considers that a hearing is desirable;
+
+(d) entitling the osteopath to be legally represented at any hearing in respect of the allegation;
+
+(e) securing that—
+
+(i) any hearing before the Professional Conduct Committee is held in public unless the Committee decides that it is in the interests of the person making the allegation, or of any person giving evidence or of any patient, to hold the hearing or any part of it in private; and
+
+(ii) any hearing before the Health Committee is held in private unless the Committee considers that it is appropriate to hold the hearing or any part of it in public;
+
+(f) requiring the osteopath to be notified by the Committee of its decision, its reasons for reaching that decision and of his right of appeal;
+
+(g) requiring the person by whom the allegation was made to be notified by the Committee of its decision and of its reasons for reaching that decision;
+
+(h) empowering the Committee to require persons to attend and give evidence or to produce documents;
+
+(i) about the admissibility of evidence;
+
+(j) enabling the Committee to administer oaths.
+
+(3) No person shall be required by any rules made under this section to give any evidence or produce any document or other material at a hearing held by either Committee which he could not be compelled to give or produce in civil proceedings in any court in that part of the United Kingdom in which the hearing takes place.
+
+### 27 Legal assessors.
+
+(1) The General Council shall appoint persons to be legal assessors.
+
+(2) They shall have the general function of giving advice to—
+
+(a) any person appointed in accordance with rules made under section 20(4),
+
+(b) the Investigating Committee,
+
+(c) the Professional Conduct Committee, [^F52]. . .
+
+(d) the Health Committee, [[^F53]or]
+
+[[^F53](e) the Registrar,]
+
+on questions of law arising in connection with any matter which he or (as the case may be) the committee is considering.
+
+(3) They shall also have such other functions as may be conferred on them by rules made by the General Council.
+
+(4) To be qualified for appointment as a legal assessor under this section, a person must—
+
+(a) have a 10 year general qualification (within the meaning of section 71 of the [^M1]Courts and Legal Services Act 1990);
+
+(b) be an advocate or solicitor in Scotland of at least 10 years’ standing; or
+
+(c) be a member of the Bar of Northern Ireland or [[^F54]solicitor of the Court of Judicature of Northern Ireland] of at least 10 years’ standing.
+
+(5) The General Council may pay such fees, allowances and expenses to persons appointed as legal assessors as it may determine.
+
+(6) In the case of a legal assessor who is also a member of the General Council or of any of its committees, any such payment made to him in his capacity as a legal assessor shall be in addition to any to which he is entitled as such a member.
+
+### 28 Medical assessors.
+
+(1) The General Council may appoint registered medical practitioners to be medical assessors.
+
+(2) They shall have the general function of giving advice to—
+
+(a) any person appointed in accordance with rules made under section 20(4),
+
+(b) the Investigating Committee,
+
+(c) the Professional Conduct Committee, [^F55]. . .
+
+(d) the Health Committee, [[^F56]or]
+
+[[^F56](e) the Registrar,]
+
+on matters within their professional competence arising in connection with any matter which he or (as the case may be) the committee is considering.
+
+(3) They shall also have such other functions as may be conferred on them by rules made by the General Council.
+
+(4) The General Council may pay such fees, allowances and expenses to persons appointed as medical assessors as it may determine.
+
+(5) In the case of a medical assessor who is also a member of the General Council or of any of its committees, any such payment made to him in his capacity as a medical assessor shall be in addition to any to which he is entitled as such a member.
+
+## Appeals
+
+### 29 Appeals against decisions of the Registrar.
+
+(1) Where the Registrar—
+
+(a) refuses to register an applicant for registration under this Act,
+
+[[^F57](aa) fails to notify an applicant for full registration who is a specified state professional of the result of the application in accordance with section 6A(1)(e),]
+
+(b) registers such an applicant with provisional or conditional registration,
+
+[^F58]ba . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(c) refuses to renew any registration,
+
+(d) removes the name of a registered osteopath from the register on the ground that he has breached one or more of the conditions subject to which his registration had effect (otherwise than under an order of the Professional Conduct Committee), or
+
+(e) refuses to grant an application for the conversion of a conditional, or provisional, registration into full registration,
+
+the person aggrieved may appeal to the General Council.
+
+(2) Any such appeal shall be subject to such rules as the General Council may make for the purpose of regulating appeals under this section.
+
+(3) An appeal to the General Council [[^F59]under subsection (1)(a), (b), (c), (d) or (e)] must be made before the end of the period of 28 days beginning with the date on which notice of the Registrar’s decision is sent to the person concerned.
+
+[[^F60](3A) An appeal to the General Council under subsection (1)(aa) must be made before the end of the period of 28 days beginning with the day on which the period for notifying the specified state professional of the result of the application expires (see section 6A(1)(e)).]
+
+[[^F61](4) A person aggrieved by the decision of the General Council on an appeal under this section may appeal [[^F62]in England and Wales to the county court or in Northern Ireland] to a county court or, in the case of a person whose address in the register is (or if he were registered would be) in Scotland, [[^F63]to] the sheriff in whose sheriffdom the address is situated.
+
+(4A) On an appeal under subsection (4) above, the court (or the sheriff) may—
+
+(a) dismiss the appeal,
+
+(b) allow the appeal and quash the decision appealed against,
+
+(c) substitute for the decision appealed against any other decision which could have been made by the Registrar, or
+
+(d) remit the case to the General Council to dispose of the case in accordance with the directions of the court (or the sheriff),
+
+and may make such order as to costs (or, in Scotland, expenses) as it (or he) thinks fit.]
+
+### [^F64]29A Appeals against decisions of the General Council
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 30 Appeals against decisions of the Health Committee.
+
+(1) Any person with respect to whom a decision of the Health Committee is made under section 23 may, before the end of the period of 28 days beginning with the date on which notification of the decision is sent to him, appeal against it in accordance with the provisions of this section.
+
+(2) An appeal under subsection (1) shall lie to an appeal tribunal, consisting of a chairman and two other members, established for the purposes of the appeal in accordance with rules made by the General Council for the purposes of this section.
+
+(3) The General Council shall make rules as to the procedure to be followed by an appeal tribunal hearing an appeal under this section.
+
+(4) The rules may, in particular, make similar provision to that made by virtue of section 26(2)(d), (f), (g), (h), (i) or (j).
+
+(5) No decision against which an appeal may be made under this section shall have effect before—
+
+(a) the expiry of the period within which such an appeal may be made; or
+
+(b) the appeal is withdrawn or otherwise disposed of.
+
+(6) The chairman of an appeal tribunal—
+
+(a) shall be selected in accordance with rules made by the General Council; and
+
+(b) shall be qualified as mentioned in section 27(4).
+
+(7) Each of the other two members of an appeal tribunal shall be selected in accordance with rules made by the General Council—
+
+(a) one of them being a fully registered osteopath, and
+
+(b) the other being a registered medical practitioner.
+
+(8) The rules may not provide for the selection of any member of an appeal tribunal to be by the General Council.
+
+(9) The chairman of an appeal tribunal shall appoint a person approved by the members of the tribunal to act as clerk of the tribunal.
+
+(10) Subject to any provision made by the rules, an appeal tribunal shall sit in public and shall sit—
+
+(a) in Northern Ireland, in the case of an osteopath whose registered address is in Northern Ireland;
+
+(b) in Scotland, in the case of an osteopath whose registered address is in Scotland; and
+
+(c) in England and Wales, in any other case.
+
+(11) On any appeal under this section—
+
+(a) the appeal shall be by way of a rehearing of the case;
+
+(b) the General Council shall be the respondent; and
+
+(c) the tribunal hearing the appeal shall have power to make any decision which the Health Committee had power to make under section 23.
+
+(12) An appeal tribunal shall have the same powers of interim suspension as the Health Committee has [[^F65]by virtue of] section 24(1)(b) and that section shall have effect in relation to suspension orders made by appeal tribunals with the necessary modifications.
+
+(13) No person shall be required by any rules made under this section to give any evidence or produce any document or other material at a hearing held by an appeal tribunal which he could not be compelled to give or produce in civil proceedings in any court in that part of the United Kingdom in which the hearing takes place.
+
+(14) An appeal tribunal shall have power to award costs.
+
+(15) Any expenses reasonably incurred by a tribunal, including any incurred in connection with the appointment of a clerk, shall be met by the General Council.
+
+### 31 Appeals against decisions of the Professional Conduct Committee and appeal tribunals.
+
+(1) Any person with respect to whom—
+
+(a) a decision of the Professional Conduct Committee is made under section [[^F66]8 or]22, or
+
+(b) a decision is made by an appeal tribunal hearing an appeal under section 30,
+
+may, before the end of the period of 28 days beginning with the date on which notification of the decision is [[^F67]served on him, appeal against it to the relevant court.]
+
+[[^F68](1A) In subsection (1), “the relevant court”—
+
+(a) in the case of a person whose address in the register is (or if he were registered would be) in Scotland, means the Court of Session,
+
+(b) in the case of a person whose address in the register is (or if he were registered would be) in Northern Ireland, means the High Court of Justice in Northern Ireland, and
+
+(c) in the case of any other person, means the High Court of Justice in England and Wales.]
+
+(2) No such decision shall have effect—
+
+(a) before the expiry of the period within which an appeal against the decision may be made; or
+
+(b) where an appeal against the decision has been duly made, before the appeal is withdrawn or otherwise disposed of.
+
+[^F69]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F69]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F69]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6) On an appeal under this section, the General Council shall be the respondent.
+
+[^F70]7 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[[^F71](8) On an appeal under this section, the court may—
+
+(a) dismiss the appeal,
+
+(b) allow the appeal and quash the decision appealed against,
+
+(c) substitute for the decision appealed against any other decision which could have been made by the Professional Conduct Committee or (as the case may be) Health Committee, or
+
+(d) remit the case to the Committee or appeal tribunal concerned to dispose of the case in accordance with the directions of the court,
+
+and may make such order as to costs (or, in Scotland, expenses) as it thinks fit.]
+
+## Offences
+
+### 32 Offences.
+
+(1) A person who (whether expressly or by implication) describes himself as an osteopath, osteopathic practitioner, osteopathic physician, osteopathist, osteotherapist, or any other kind of osteopath, is guilty of an offence unless he is a registered osteopath.
+
+(2) A person who, without reasonable excuse, fails to comply with any requirement imposed by—
+
+(a) the Professional Conduct Committee,
+
+(b) the Health Committee, or
+
+(c) an appeal tribunal hearing an appeal under section 30,
+
+under rules made by virtue of section 26(2)(h) or under any corresponding rules made by virtue of section 30(4) is guilty of an offence.
+
+(3) A person guilty of an offence under this section shall be liable on summary conviction to a fine not exceeding level five on the standard scale.
+
+## Monopolies and competition
+
+### 33 Competition and anti-competitive practices.
+
+(1) In this section “regulatory provision” means—
+
+(a) any rule made by the General Council;
+
+(b) any provision of the Code of Practice issued by the Council under section 19; and
+
+(c) any other advice or guidance given by the Council, any of its committees or any sub-committee of such a committee.
+
+(2) [[^F72]Schedule 8 to the Enterprise Act 2002 (provision that may be contained in enforcement orders)] shall, for the purposes of [[^F73]an enforcement] order, have effect in relation to a regulatory provision as it has effect in relation to an agreement, but with the necessary modifications.
+
+[[^F74](2A) The references to anything permitted by Schedule 8 to the Enterprise Act 2002 in sections 160(4)(a), 161(3)(a) and 164(1) of that Act shall be construed accordingly.]
+
+(3) [[^F75]An enforcement] order may be made so as to have effect in relation to a regulatory provision even though that provision was properly made in exercise of functions conferred by this Act.
+
+[[^F76](4) In this section “an enforcement order” means an order under—
+
+(a) section 160 of the Enterprise Act 2002 (orders following failure to fulfil final undertakings); or
+
+(b) section 161 of that Act (final orders following market investigation reports).]
+
+[[^F77](5) For the purposes of an enforcement order section 86(3) of the Enterprise Act 2002 as applied by section 164(2)(a) of that Act (power to apply orders to existing agreements) shall have effect in relation to a regulatory provision as it has effect in relation to an agreement.]
+
+## Miscellaneous
+
+### 34 Default powers of the Privy Council.
+
+(1) If it appears to the Privy Council that the General Council has failed to perform any functions which, in the opinion of the Privy Council, should have been performed, the Privy Council may give the General Council such direction as the Privy Council considers appropriate.
+
+(2) If the General Council fails to comply with any direction given under this section, the Privy Council may itself give effect to the direction.
+
+(3) For the purpose of enabling it to give effect to a direction under subsection (1), the Privy Council may—
+
+(a) exercise any power of the General Council or do any act or other thing authorised to be done by the General Council; and
+
+(b) do, of its own motion, any act or other thing which it is otherwise authorised to do under this Act on the instigation of the General Council.
+
+### 35 Rules.
+
+(1) The approval of the Privy Council shall be required for any exercise by the General Council of a power to make rules under this Act.
+
+(2) Any rules made by the General Council [^F78]... under this Act may make different provision with respect to different cases, or classes of case and, in particular, different provision with respect to different categories of osteopath or registered osteopath.
+
+[^F79]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) Nothing in any rules made under this Act shall be taken to oblige or entitle any person to act in breach of the law relating to confidentiality.
+
+### 36 Exercise of powers of Privy Council.
+
+(1) Where the approval of the Privy Council is required by this Act in respect of the making of any rules by the General Council, it shall be given by an order made by the Privy Council.
+
+(2) Any power of the Privy Council under this Act to make an order shall be exercisable by statutory instrument.
+
+(3) Any [[^F80]order under section 1(4) or any] order approving rules made under section 5, 8(8), 17 or 30 shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(4) For the purposes of exercising any powers conferred by this Act (other than the power of hearing appeals) the quorum of the Privy Council shall be two.
+
+(5) Any act of the Privy Council under this Act shall be sufficiently signified by an instrument signed by the Clerk of the Council.
+
+(6) Any document purporting to be—
+
+(a) an instrument made by the Privy Council under this Act, and
+
+(b) signed by the Clerk of the Privy Council,
+
+shall be evidence (and in Scotland sufficient evidence) of the fact that the instrument was so made and of its terms.
+
+### 37 [[^F81]Indemnity arrangements
+
+(1) A registered osteopath who practises as such must have in force in relation to him an indemnity arrangement which provides appropriate cover for practising as such.
+
+[^F82]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) For the purposes of this section, an “indemnity arrangement” may comprise—
+
+(a) a policy of insurance;
+
+(b) an arrangement made for the purposes of indemnifying a person;
+
+(c) a combination of the two.
+
+(4) For the purposes of this section, “appropriate cover”, in relation to practice as a registered osteopath, means cover against liabilities that may be incurred in practising as such which is appropriate, having regard to the nature and extent of the risks of practising as such.
+
+(5) The General Council may by rules make provision in connection with the types of indemnity arrangement required and the information to be provided to the Registrar—
+
+(a) by or in respect of any person seeking to be entered in the register as a registered osteopath (including on an application for restoration) for the purposes of determining whether, if that person is so entered, there will be in force in relation to him by the time he begins to practise an indemnity arrangement which provides appropriate cover;
+
+(b) by or in respect of a registered osteopath for the purposes of determining whether at any time, there is in force in relation to him an indemnity arrangement which provides appropriate cover.
+
+(6) Rules under subsection (5)(b) may require information to be provided—
+
+(a) at the request of the Registrar; or
+
+(b) on such dates or at such intervals as the Registrar may determine, either generally or in relation to individual registered osteopaths or registered osteopaths of a particular description.
+
+(7) The General Council may also make rules requiring a registered osteopath to inform the Registrar if there ceases to be in force in relation to him an indemnity arrangement which provides appropriate cover.
+
+(8) The General Council may also make rules requiring a registered osteopath to inform the Registrar if there is in force in relation to him appropriate cover provided under an indemnity arrangement by an employer.
+
+(9) Where there is a failure to comply with the rules under subsection (5) by or in respect of a person who is entered or is seeking to be entered in the register, the Registrar may refuse to enter the person in, or to restore the person's entry to, the register.
+
+(10) If a registered osteopath is in breach of subsection (1), or fails to comply with rules under subsection (5)(b), (7) or (8), or there is a failure to comply with rules under subsection (5)(b) in respect of a registered osteopath—
+
+(a) the Registrar may remove that person's entry from the register; or
+
+(b) the breach or failure may be treated as unacceptable professional conduct and the Registrar may notify the Council .]
+
+### [^F83]38 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [[^F84]39 Exemption from provisions about rehabilitation of offenders.
+
+(1) In this section—
+
+- “the 1975 Order” means the [^M2]Rehabilitation of Offenders Act 1974 (Exceptions) Order 1975 (professions etc. with respect to which provisions of the Act of 1974 are excluded); and
+- “the 1979 Order” means the [^M3]Rehabilitation of Offenders (Exceptions) Order (Northern Ireland) 1979 (professions etc. with respect to which provisions of the [^M4]Rehabilitation of Offenders (Northern Ireland) Order 1978 are excluded).
+
+(2) In Part I of Schedule 1 to the 1975 Order, there shall be inserted at the end—
+
+> **11**
+>
+> Registered osteopath.
+
+(3) In Part I of Schedule 1 to the 1979 Order, there shall be inserted at the end—
+
+> **10**
+>
+> Registered osteopath.
+
+(4) In both the 1975 Order and the 1979 Order, in each case in Part IV of Schedule 1, there shall be inserted in the appropriate place—
+
+> “registered osteopath” has the meaning given by section 41 of the Osteopaths Act 1993.
+
+(5) The amendment of the 1975 Order and the 1979 Order by this section shall not be taken to prejudice the power to make further orders varying or revoking the amended provisions.]
+
+### 40 Financial provisions.
+
+(1) The General Council shall keep proper accounts of all sums received or paid by it and proper records in relation to those accounts.
+
+(2) The accounts for each financial year of the General Council shall be audited by persons appointed by the Council.
+
+(3) No person may be appointed as an auditor under subsection (2) unless he is eligible for appointment as a [[^F85]statutory auditor under Part 42 of the Companies Act 2006].
+
+(4) As soon as is reasonably practicable after the accounts of the General Council have been audited, the Council shall—
+
+(a) cause them to be published, together with any report on them made by the auditors; and
+
+(b) send a copy of the accounts and of any such report to the Privy Council.
+
+(5) The Privy Council shall lay any copy sent to them under subsection (4) before each House of Parliament.
+
+### 40A [[^F86]Annual reports, statistical reports and strategic plans
+
+(1) The General Council shall publish, by such date in each year as the Privy Council shall specify—
+
+(a) a report on the exercise of its functions which includes a description of the arrangements that the General Council has put in place to ensure that it adheres to good practice in relation to equality and diversity (and for these purposes “equality” and “diversity” have the meanings given in section 8(2) of the Equality Act 2006);
+
+(b) a statistical report which indicates the efficiency and effectiveness of, and which includes a description of, the arrangements which the General Council has put in place to protect members of the public from registered osteopaths whose fitness to practise is impaired, together with the General Council’s observations on the report; and
+
+(c) a strategic plan for the General Council in respect of such number of years as the General Council shall determine.
+
+(2) The General Council shall submit copies of the reports and the plan published under subsection (1) to the Privy Council and the Privy Council shall lay copies of the reports and the plan before each House of Parliament.]
+
+## Supplemental
+
+### 41 Interpretation.
+
+In this Act—
+
+- [[^F87]“adaptation period” means—
+
+  - in relation to registration under section 3 in reliance on a specified state qualification granted in Switzerland, a period of supervised practice, subject to an assessment and, where necessary, accompanied by further training or education or both, under the responsibility of a fully registered osteopath;
+  - in relation to registration under section 3 in reliance on a specified state qualification granted otherwise than in Switzerland, a period of supervised practice, subject to an assessment and, where necessary, accompanied by further training, under the responsibility of a fully registered osteopath;]
+
+- [[^F88]“aptitude test” means an assessment with the aim of determining whether the person has reached the required standard of proficiency;]
+
+- “conditionally registered osteopath” means a person who is registered with conditional registration;
+
+- [^F89]...
+
+- “fully registered osteopath” means a person who is registered with full registration;
+
+- “the General Council” means the General Osteopathic Council;
+
+- [^F89]...
+
+- “interim suspension order” has the meaning given in section 24(3);
+
+- “opening of the register” means the date on which section 3 comes into force;
+
+- “prescribed” means prescribed by rules made by the General Council;
+
+- “provisionally registered osteopath” means a person who is registered with provisional registration;
+
+- “recognised qualification” has the meaning given by section 14(1);
+
+- “the register” means the register of osteopaths maintained by the Registrar under section 2;
+
+- “registered” means registered in the register;
+
+- [[^F90]“registered address” means the address which is entered in the register, in relation to the osteopath in question, in accordance with the requirements of section 6(1) and does not include any other address which may be entered in the register, in relation to him, by virtue of rules made under section 6(2);]
+
+- “registered osteopath” means a person who is registered as a fully registered osteopath, as a conditionally registered osteopath [[^F91]or as a provisionally registered osteopath];
+
+- “the Registrar” has the meaning given in section 2(2);
+
+- [[^F92]“relevant European State” means an EEA State or Switzerland;]
+
+- “the required standard of proficiency” means the standard determined by the General Council under section 13;
+
+- [[^F88]“specified state professional” means a person who holds a specified state qualification;]
+
+- [[^F88]“specified state qualification” means a qualification in osteopathy granted in one of the states specified in Schedule 1 to the Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023;]
+
+- “the statutory committees” has the meaning given by section 1(6);
+
+- [^F89]...
+
+- [[^F93]“training” includes continuing professional development;]
+
+- “unacceptable professional conduct” has the meaning given by section 20(2);
+
+- “visitor” means a person appointed under section 12.
+
+### 42 Short title, commencement, transitional provisions and extent.
+
+(1) This Act may be cited as the Osteopaths Act 1993.
+
+(2) This Act shall come into force on such day as the Secretary of State may by order appoint.
+
+(3) The power conferred by subsection (2) shall be exercisable by statutory instrument.
+
+(4) Different days may be appointed by an order under subsection (2) for different purposes and different provisions.
+
+(5) Any order under subsection (2) may make such transitional provision as the Secretary of State considers appropriate.
+
+(6) The transitional provisions of Part III of the Schedule shall have effect.
+
+(7) This Act extends to the United Kingdom except that—
+
+(a) section 38(1) and section 39(2) extend only to Great Britain;
+
+(b) section 38(2)(c) and (e) extends only to Scotland;
+
+(c) section 39(3) extends only to Northern Ireland; and
+
+(d) section 38(2)(b) and (d) extends only to England and Wales.
+
+## SCHEDULE — The General Council and Committees
+
+*Sections 1 and 42(3).*
+
+### Part I — The General Council
+
+#### [^F94]...
+
+**[^F94]1** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F94]2** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F94]3** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F94]4** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F94]5** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F94]6** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F94]7** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F94]8** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F94]...
+
+**[^F94]9** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F94]10** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F94]...
+
+**[^F94]11** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F94]11A** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F94]...
+
+**[^F94]12** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F94]...
+
+**[^F94]13** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F94]...
+
+**[^F94]14** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### [[^F94]Membership: general
+
+**[^F94]1A** (1) The General Council shall consist of—
+
+(a) registrant members, that is members who are registered osteopaths; and
+
+(b) lay members, that is members who—
+
+(i) are not and never have been registered osteopaths, and
+
+(ii) do not hold qualifications which would entitle them to apply for registration under this Act.
+
+(2) The members of the General Council shall be appointed by the Privy Council.
+
+(3) The Privy Council shall ensure that, at any time, at least one member of the General Council lives or works wholly or mainly in each of England, Scotland, Wales and Northern Ireland.
+
+[^F95]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### Matters for the order of the Privy Council under section 1(4)
+
+**[^F94]1B** (1) An order under section 1(4) shall include provision with regard to—
+
+(a) the numbers of registrant members and lay members of the General Council;
+
+(b) the terms of office for which members of the General Council are appointed, and the order may provide that these are to be determined by the Privy Council, on appointment;
+
+(c) the grounds on which persons are to be disqualified from appointment as registrant or lay members of the General Council;
+
+(d) the appointment of a chair of the General Council and the chair’s term of office, and the order may provide that the term is to be determined by whoever makes the appointment as chair, on appointment;
+
+(e) deputising arrangements in respect of the chair;
+
+(f) the quorum of the General Council; and
+
+(g) the circumstances in which members cease to hold office or may be removed or suspended from office.
+
+(2) But an order under section 1(4) must not include any provision which would have the effect that a majority of the members of the General Council would be lay members.
+
+(3) An order under section 1(4) may include provision with regard to—
+
+(a) the maximum period for which a member of the General Council may hold office as a member during a specified period;
+
+(b) the maximum period for which a member of the General Council may serve as chair of the General Council during a specified period;
+
+(c) the education and training of members of the General Council, and the order may provide for the General Council to include the requirements with regard to education and training of its members in standing orders, and for those standing orders to provide for—
+
+(i) that education and training to be the responsibility of another body, and
+
+(ii) those requirements to be set and varied by that body from time to time;
+
+(d) the attendance of members of the General Council at meetings of the General Council;
+
+(e) the effect (if any) of any vacancy in the membership of the General Council or any defect in the appointment of a member; and
+
+(f) enabling the Privy Council to appoint as the chair of the General Council, for a specified period, the person who held office as Chairman of the General Council on the day before the first order under section 1(4) comes into force.
+
+(4) An order under section 1(4) may make different provision for different cases or different classes of case and may contain such incidental, consequential, transitional, transitory, saving or supplementary provisions as appear to the Privy Council to be necessary or expedient.
+
+##### Registration of members’ private interests
+
+**[^F94]1C** (1) The General Council must establish and maintain a system for the declaration and registration of private interests of its members.
+
+(2) The General Council must publish in such manner as it sees fit entries recorded in the register of members’ private interests.
+
+##### Duties of co-operation etc.
+
+**[^F94]1D** (1) In exercising its functions, the General Council shall—
+
+(a) have proper regard for—
+
+(i) the interests of persons using or needing the services of registered osteopaths in the United Kingdom, and
+
+(ii) any differing interests of different categories of registered osteopaths;
+
+(b) co-operate, in so far as is appropriate and reasonably practicable, with public bodies or other persons concerned with—
+
+(i) the employment (whether or not under a contract of service) of registered osteopaths,
+
+(ii) the education or training of osteopaths or other health care professionals,
+
+(iii) the regulation of, or the co-ordination of the regulation of, other health or social care professionals,
+
+(iv) the regulation of health services, and
+
+(v) the provision, supervision or management of health services.
+
+(2) In carrying out its duty to co-operate under sub-paragraph (1)(b), the General Council shall have regard to any differing considerations relating to practising as an osteopath which apply in England, Scotland, Wales or Northern Ireland.
+
+(3) In sub-paragraph (1), “other health care professionals” means persons regulated by a body mentioned in section 25(3) of the National Health Service Reform and Health Care Professions Act 2002, other than the General Council. ]
+
+#### Powers of the General Council
+
+**15** (1) Subject to any provision made by or under this Act, the General Council shall have power to do anything which is calculated to facilitate the discharge of its functions or which is incidental or conducive to the discharge of its functions.
+
+(2) The General Council shall, in particular, have power—
+
+(a) to borrow;
+
+(b) to appoint such staff as it may determine;
+
+(c) to pay its staff such salaries as it may determine;
+
+(d) to pay its staff, and the members of its committees and any of their sub-committees, such allowances and expenses as it may determine;
+
+(e) to make such provision for the payment of such pensions, allowances or gratuities, or such contributions or payments towards provision for such pensions, allowances or gratuities, to or in respect of its staff as it may determine;
+
+[[^F96](ee) to pay its members such allowances and expenses as it may determine;]
+
+(f) to establish such sub-committees of any of its committees as it may determine;
+
+(g) subject to any provision made by or under this Act, to regulate the procedure of any of its committees or their sub-committees;
+
+(h) to abolish any of its committees, other than a statutory committee, or any sub-committee of any of its committees;
+
+(i) to delegate to any of its committees any functions of the General Council other than any power to make rules.
+
+[[^F97](2A) Standing orders of the General Council may make provision with regard to the provisional suspension of a member of the General Council from office, pending the taking of a decision about the suspension or removal from office of the member in accordance with the provisions of an order under section 1(4). ]
+
+[^F98]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F98]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) Subject to any provision made by or under this Act, the General Council may regulate its own procedure.
+
+### Part II — The Statutory Committees
+
+#### General
+
+**16** [^F99]1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) The General Council shall make provision by rules as to the procedure for such appointments [[^F100], and as to the suspension and removal from office of the persons appointed].
+
+[[^F101](3) The rules may make provision for a body (including a committee of the General Council which is not one of the statutory committees) to assist the General Council in connection with the exercise of any function relating to the appointment of members or particular members of any statutory committee, including any function in relation to tenure of office or suspension or removal from office.]
+
+**17** (1) The co-option of any person to any of the statutory committees shall be subject to the approval of the General Council.
+
+(2) A co-opted member of any of the statutory committees may also be a member of the General Council.
+
+(3) The term of office of a co-opted member shall not exceed the period of 3 years beginning with the date of his co-option.
+
+(4) The General Council shall make further provision by rules in relation to co-option, including provision as to the procedure involved.
+
+**18** A person shall not be prevented from being a member of a statutory committee merely because he has previously been a member of that committee.
+
+**[^F102]19** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**20** The General Council may by rules make provision with respect to any sub-committee of a statutory committee including, in particular, provision as to the functions and powers to be conferred on the sub-committee, its composition and its relationship with the statutory committee.
+
+**21** (1) The General Council [[^F103]may] make rules regulating the procedure of the statutory committees and their sub-committees (if any) including, in particular, provision as to rules of evidence to be observed in proceedings before any such committee or sub-committee.
+
+(2) Subject to any [[^F104]provision made by or under this Act,] [[^F105]including provision made by standing orders of the General Council by virtue of paragraph 15(2)(g),] each statutory committee and any sub-committee of such a committee may regulate its own procedure.
+
+**22** (1) If it appears to the General Council that any statutory committee is failing to perform its functions adequately, the General Council may give a direction as to the proper performance of those functions.
+
+(2) Where the General Council, having given a direction under sub-paragraph (1), is satisfied that the committee has failed to comply with the direction, it may exercise any power of that committee or do any act or other thing authorised to be done by that committee.
+
+**23** (1) The powers of any statutory committee may be exercised even though there is a vacancy among its members.
+
+(2) No proceedings of a statutory committee shall be invalidated by any defect in the appointment of a member.
+
+**24** (1) A person may be a member of more than one statutory committee.
+
+(2) No member of the Professional Conduct Committee or the Health Committee shall take part in dealing with an allegation referred to either committee by another committee if he is also a member of the committee which referred the allegation.
+
+#### The Education Committee
+
+**[[^F106]25** The General Council shall by rules make provision with regard to the constitution of the Education Committee, and those rules shall include provision with regard to—
+
+(a) its size and membership;
+
+(b) its chair, including the deputising arrangements for its chair; and
+
+(c) the quorum at its meetings.]
+
+**[^F107]26** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F108]27** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F109]28** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F110]29** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### The Investigating Committee
+
+**[[^F111]30** The General Council shall by rules make provision with regard to the constitution of the Investigating Committee, and those rules shall include provision with regard to—
+
+(a) its size and membership;
+
+(b) its chair, including the deputising arrangements for its chair; and
+
+(c) the quorum at its meetings.]
+
+**[[^F112]30A** Where rules under paragraph 30 provide for one or more panels of members of the Investigating Committee to perform functions of the Committee, the provision required by paragraph 30(c) includes provision with regard to the quorum at meetings of those panels.]
+
+**[^F113]31** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F114]32** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F115]33** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### The Professional Conduct Committee
+
+**[[^F116]34** The General Council shall by rules make provision with regard to the constitution of the Professional Conduct Committee, and those rules shall include provision with regard to—
+
+(a) its size and membership;
+
+(b) its chair, including the deputising arrangements for its chair; and
+
+(c) the quorum at its meetings.]
+
+**[[^F117]34A** Where rules under paragraph 34 provide for one or more panels of members of the Professional Conduct Committee to perform functions of the Committee, the provision required by paragraph 34(c) includes provision with regard to the quorum at meetings of those panels.]
+
+**[[^F118]34B** In exercising a function under section 8 or 22, the Professional Conduct Committee (or any panel by which the function is exercisable as mentioned in paragraph 34A) must have regard to the over-arching objective of the General Council under section 1(3A) (read with section 1(3B)).]
+
+**[^F119]35** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F120]36** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F121]37** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### The Health Committee
+
+**[[^F122]38** The General Council shall by rules make provision with regard to the constitution of the Health Committee, and those rules shall include provision with regard to—
+
+(a) its size and membership;
+
+(b) its chair, including the deputising arrangements for its chair; and
+
+(c) the quorum at its meetings.]
+
+**[[^F123]38A** Where rules under paragraph 38 provide for one or more panels of members of the Health Committee to perform functions of the Committee, the provision required by paragraph 38(c) includes provision with regard to the quorum at meetings of those panels.]
+
+**[[^F124]38B** In exercising a function under section 23, the Health Committee (or any panel by which the function is exercisable as mentioned in paragraph 38A) must have regard to the over-arching objective of the General Council under section 1(3A) (read with section 1(3B)).]
+
+**[^F125]39** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F126]40** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F127]41** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Part III — Transitional Provisions
+
+#### The initial membership of the General Council
+
+**42** When first constituted, the membership of the General Council shall be determined in accordance with the provisions of this Schedule as modified by this Part.
+
+#### The transitional periods
+
+**43** In this Part—
+
+- “the three year transitional period” means the period beginning with the passing of this Act and ending with the third anniversary of the opening of the register;
+- “the four year transitional period” means the period beginning with the passing of this Act and ending with the fourth anniversary of the opening of the register; and
+- “the five year transitional period” means the period beginning with the passing of this Act and ending with the fifth anniversary of the opening of the register.
+
+#### The osteopathic members
+
+**44** (1) During the three year transitional period, paragraph 1(a) shall have effect as if it provided for the appointment of 12 members by the Privy Council.
+
+(2) Each of those members shall be appointed by the Privy Council after consultation with bodies in the United Kingdom appearing to the Privy Council to represent practising osteopaths.
+
+(3) When appointing any such member the Privy Council shall designate him as a person appointed as one of the 12 members provided for by paragraph 1(a) (as modified by this paragraph).
+
+(4) In this paragraph “osteopathic member” means a member designated under this paragraph.
+
+(5) Each of the osteopathic members shall, at the time of his appointment, be a person appearing to the Privy Council to be a practising osteopath.
+
+(6) One of the osteopathic members shall be expressly appointed as a member who is also a registered medical practitioner at the time of his appointment.
+
+(7) Paragraph 6 shall not apply to any of the osteopathic members.
+
+(8) Subject to paragraphs 4, 5 and 7, the term of office of each of the osteopathic members shall end at the end of the three year transitional period.
+
+#### The lay members
+
+**45** (1) The members appointed by the Privy Council under paragraph 1(b) during the five year transitional period shall each be designated by the Privy Council as a person appointed under paragraph 1(b).
+
+(2) In this Part “lay member” means a member designated under this paragraph.
+
+(3) Paragraph 11 shall have effect during the five year transitional period as if “registered osteopaths” and “registered osteopath” read, respectively, “persons appearing to the Privy Council to be practising osteopaths” and “a person appearing to the Privy Council to be a practising osteopath”.
+
+(4) Subject to paragraphs 4 to 7, the term of office of each of the lay members shall end at the end of the five year transitional period.
+
+#### The education members
+
+**46** (1) During the four year transitional period, paragraph 1(c) shall have effect as if it provided for the appointment of 3 members by the Privy Council.
+
+(2) Each of those members shall be appointed by the Privy Council after consultation with the Secretary of State.
+
+(3) When appointing any such member the Privy Council shall designate him as a person appointed as one of the 3 members provided for by paragraph 1(c) (as modified by this paragraph).
+
+(4) The 3 education members shall be persons appearing to the Privy Council to be qualified to advise the General Council on matters relating to education and training in osteopathy.
+
+(5) In this paragraph “education member” means a member designated under this paragraph.
+
+(6) Paragraph 6 shall not apply to any of the education members.
+
+(7) Subject to paragraphs 4 to 7, the term of office of each of the education members shall end at the end of the four year transitional period.
+
+#### The Secretary of State’s nominee
+
+**47** Subject to paragraphs 4, 5 and 7, the term of office of any person appointed by the Secretary of State under paragraph 1(d) during the four year transitional period shall come to an end at the end of that period.
+
+#### Appointment of first Chairman
+
+**48** (1) The first Chairman of the General Council shall be appointed by the Privy Council from among the lay members to serve as such until the end of the first meeting of the Council to be held after the first election of members under paragraph 1(a).
+
+(2) If a person appointed as Chairman of the Council during the three year transitional period fails to serve his full term of office as Chairman, his successor as Chairman shall be appointed by the Privy Council from among the lay members for the residue of the unexpired term.
+
+(3) Paragraph 14(3) shall have effect in relation to any Chairman appointed by the Privy Council under this paragraph as if for paragraph (c) there were substituted—
+
+> (c) his removal by the Privy Council, where the Privy Council agrees to a request for his removal made by a majority of the other members of the General Council;
+
+.
+
+(4) Paragraph 14(3)(d) shall not apply in relation to any person serving as the Chairman appointed by the Privy Council under this paragraph.
+
+---
+
+[^F1]: Word in s. 1(2) omitted (9.7.2008) by virtue of The Health Care and Associated Professions (Miscellaneous Amendments) Order 2008 (S.I. 2008/1774), art. 1(2)(d), Sch. 3 para. 1(a)
+[^F2]: S. 1(3A)(3B) inserted (26.9.2016) by Health and Social Care (Safety and Quality) Act 2015 (c. 28), s. 6(4), Sch. para. 3(2); S.I. 2016/906, reg. 2(b)
+[^F3]: S. 1(4) substituted (9.7.2008 for specified purposes, 1.4.2009 in so far as not already in force) by The Health Care and Associated Professions (Miscellaneous Amendments) Order 2008 (S.I. 2008/1774), art. 1(3), Sch. 3 para. 1(b); S.I. 2008/3150, art. 3(b)(i)
+[^F4]: S. 1(10)-(12) omitted (1.4.2009) by virtue of The Health Care and Associated Professions (Miscellaneous Amendments) Order 2008 (S.I. 2008/1774), art. 1(4), Sch. 3 para. 1(c); S.I. 2008/3150, art. 3(b)(ii)
+[^F5]: S. 3(2)(d) substituted (1.12.2023) by The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286), reg. 1, Sch. 3 para. 43(a)
+[^F6]: S. 3(2A)(2B) inserted (1.12.2023) by The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286), reg. 1, Sch. 3 para. 43(b)
+[^F7]: S. 3(6A) inserted (9.7.2008 for specified purposes, 1.4.2009 in so far as not already in force) by The Health Care and Associated Professions (Miscellaneous Amendments) Order 2008 (S.I. 2008/1774), art. 1(3), Sch. 3 para. 2; S.I. 2008/3150, art. 3(b)(i)
+[^F8]: S. 5A omitted (31.12.2020) by virtue of The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593), reg. 1(2), Sch. 6 para. 3 (with reg. 12A, Sch. 6 Pt. 2) (as amended by S.I. 2020/1394, regs. 4, 14); 2020 c. 1, Sch. 5 para. 1(1)
+[^F9]: Words in s. 6(1)(a) substituted (3.12.2007) by The European Qualifications (Health and Social Care Professions) Regulations 2007 (S.I. 2007/3101), regs. 1(2), 208(a)
+[^F10]: Words in s. 6(1)(a) substituted (31.12.2020) by The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593), reg. 1(2), Sch. 6 para. 4(a) (with reg. 12A, Sch. 6 Pt. 2) (as amended by S.I. 2020/1394, regs. 4, 14); 2020 c. 1, Sch. 5 para. 1(1)
+[^F11]: Words in s. 6(2) substituted (3.12.2007) by The European Qualifications (Health and Social Care Professions) Regulations 2007 (S.I. 2007/3101), regs. 1(2), 208(b)
+[^F12]: Word in s. 6(2) substituted (31.12.2020) by The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593), reg. 1(2), Sch. 6 para. 4(b) (with reg. 12A, Sch. 6 Pt. 2) (as amended by S.I. 2020/1394, regs. 4, 14); 2020 c. 1, Sch. 5 para. 1(1)
+[^F13]: S. 6(4A) omitted (31.12.2020) by virtue of The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593), reg. 1(2), Sch. 6 para. 4(c) (with reg. 12A, Sch. 6 Pt. 2) (as amended by S.I. 2020/1394, regs. 4, 14); 2020 c. 1, Sch. 5 para. 1(1)
+[^F14]: S. 6(4B)(4C) inserted (1.12.2023) by The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286), reg. 1, Sch. 3 para. 44
+[^F15]: Words in s. 6(5) omitted (31.12.2020) by virtue of The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593), reg. 1(2), Sch. 6 para. 4(d) (with reg. 12A, Sch. 6 Pt. 2) (as amended by S.I. 2020/1394, regs. 4, 14); 2020 c. 1, Sch. 5 para. 1(1)
+[^F16]: S. 6(6) omitted (31.12.2020) by virtue of The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593), reg. 1(2), Sch. 6 para. 4(e) (with reg. 12A, Sch. 6 Pt. 2) (as amended by S.I. 2020/1394, regs. 4, 14); 2020 c. 1, Sch. 5 para. 1(1)
+[^F17]: S. 6A inserted (1.12.2023) by The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286), reg. 1, Sch. 3 para. 45
+[^F18]: Words in s. 8(8) substituted (31.12.2020) by The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593), reg. 1(2), Sch. 6 para. 5 (with reg. 12A, Sch. 6 Pt. 2) (as amended by S.I. 2020/1394, regs. 4, 14); 2020 c. 1, Sch. 5 para. 1(1)
+[^F19]: Words in s. 9(1)(a) repealed (5.7.1994) by 1994 c. 17, s. 42, Sch. 2 para. 1(1)
+[^F20]: S. 9(1)(b) repealed (5.7.1994) by 1994 c. 17, s. 42, Sch. 2 para. 1(1)
+[^F21]: S. 9(1A)-(1C) inserted (5.7.1994) by 1994 c. 17, s. 42, Sch. 2 para. 1(2)
+[^F22]: Words in s. 9(3) inserted (5.7.1994) by 1994 c. 17, s. 42, Sch. 2 para. 1(3)
+[^F23]: Words in s. 10(7) inserted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 9 para. 116(a); S.I. 2014/954, art. 2(c) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F24]: Words in s. 10(7) substituted (1.4.2003) by National Health Service Reform and Health Care Professions Act 2002 (c. 17), ss. 33(2)(a), 42(3); S.I. 2003/833, art. 3(a) (with art. 4)
+[^F25]: Word in s. 10(7) inserted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 9 para. 116(b); S.I. 2014/954, art. 2(c) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F26]: S. 10(8) substituted (1.4.2003) by National Health Service Reform and Health Care Professions Act 2002 (c. 17), ss. 33(2)(b), 42(3); S.I. 2003/833, art. 3(a) (with art. 4)
+[^F27]: S. 10(10) repealed (1.4.2003) by National Health Service Reform and Health Care Professions Act 2002 (c. 17), ss. 33(2)(c), 42(3), Sch. 9 Pt. 2; S.I. 2003/833, art. 3(a)(c) (with art. 4)
+[^F28]: S. 10(11) substituted (1.4.2003) by National Health Service Reform and Health Care Professions Act 2002 (c. 17), ss. 33(2)(d), 42(3); S.I. 2003/833, art. 3(a) (with art. 4)
+[^F29]: Word and (a) in s. 13 repealed (5.7.1994) by 1994 c. 17, s. 42, Sch. 2 para. 2(a)
+[^F30]: Words in s. 13(3) substituted (5.7.1994) by 1994 c. 17, s. 42, Sch. 2 para. 2(a)
+[^F31]: Words in s. 13(4) substituted (5.7.1994) by 1994 c. 17, s. 42, Sch. 2 para. 2(b)
+[^F32]: S. 14(2A) inserted (31.12.2020) by The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593), reg. 1(2), Sch. 6 para. 6(a) (with reg. 12A, Sch. 6 Pt. 2) (as amended by S.I. 2020/1394, regs. 4, 14); 2020 c. 1, Sch. 5 para. 1(1)
+[^F33]: S. 14(2B)-(2E) inserted (1.12.2023) by The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286), reg. 1, Sch. 3 para. 46
+[^F34]: Words in s. 14(3) inserted (31.12.2020) by The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593), reg. 1(2), Sch. 6 para. 6(b) (with reg. 12A, Sch. 6 Pt. 2) (as amended by S.I. 2020/1394, regs. 4, 14); 2020 c. 1, Sch. 5 para. 1(1)
+[^F35]: S. 14(10) omitted (31.12.2020) by virtue of The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593), reg. 1(2), Sch. 6 para. 6(c) (with reg. 12A, Sch. 6 Pt. 2) (as amended by S.I. 2020/1394, regs. 4, 14); 2020 c. 1, Sch. 5 para. 1(1)
+[^F36]: S. 14(11) omitted (31.12.2020) by virtue of The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593), reg. 1(2), Sch. 6 para. 6(c) (with reg. 12A, Sch. 6 Pt. 2) (as amended by S.I. 2020/1394, regs. 4, 14); 2020 c. 1, Sch. 5 para. 1(1)
+[^F37]: S. 14A inserted (1.12.2023) by The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286), reg. 1, Sch. 3 para. 47
+[^F38]: Words in s. 14A(1) substituted (1.1.2025) by The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations 2024 (S.I. 2024/1379), regs. 1(4), 18(2)
+[^F39]: Words in s. 17(1) substituted (9.7.2008) by The Health Care and Associated Professions (Miscellaneous Amendments) Order 2008 (S.I. 2008/1774), art. 1(2)(d), Sch. 3 para. 3(a)
+[^F40]: S. 17(2A)-(2D) omitted (31.12.2020) by virtue of The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593), reg. 1(2), Sch. 6 para. 7 (with reg. 12A, Sch. 6 Pt. 2) (as amended by S.I. 2020/1394, regs. 4, 14); 2020 c. 1, Sch. 5 para. 1(1)
+[^F41]: Words in s. 13(3)(4) substituted (5.7.1994) by 1994 c. 17, s. 42, Sch. 2 para. 3(1)(b)
+[^F42]: Words in s. 18(3) substituted (5.7.1994) by 1994 c. 17, s. 42, Sch. 2 para. 3(1)(a)
+[^F43]: S. 18(5) and (6) substituted for s. 18(5) (5.7.1994) by 1994 c. 17, s. 42, Sch. 2 para. 3(2)
+[^F44]: S. 19A inserted (1.12.2023) by The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286), reg. 1, Sch. 3 para. 48
+[^F45]: Word in s. 20(10) substituted (5.7.1994) by 1994 c. 17, s. 42, Sch. 2 para. 4
+[^F46]: S. 22(4A) inserted (5.7.1994) by 1994 c. 17, s. 42, Sch. 2 para. 5(1)
+[^F47]: Words in s. 22(5)(a) repealed (5.7.1994) by 1994 c. 17, s. 42, Sch. 2 para. 5(2)
+[^F48]: Words in s. 22(6) substituted (1.4.2003) by National Health Service Reform and Health Care Professions Act 2002 (c. 17), ss. 33(3), 42(3); S.I. 2003/833, art. 3(a) (with art. 4)
+[^F49]: Words in s. 22(8) substituted (1.4.2003) by National Health Service Reform and Health Care Professions Act 2002 (c. 17), ss. 33(3), 42(3); S.I. 2003/833, art. 3(a) (with art. 4)
+[^F50]: Words in s. 23(4)(5) substituted (1.4.2003) by National Health Service Reform and Health Care Professions Act 2002 (c. 17), ss. 33(4), 42(3); S.I. 2003/833, art. 3(a) (with art. 4)
+[^F51]: Words in s. 23(6) substituted (1.4.2003) by National Health Service Reform and Health Care Professions Act 2002 (c. 17), ss. 33(4), 42(3); S.I. 2003/833, art. 3(a) (with art. 4)
+[^F52]: Word in s. 27(2)(c) repealed (5.7.1994) by 1994 c. 17, s. 42, Sch. 2 para. 6(a)
+[^F53]: Word in s. 27(2)(d) and s. 27(2)(e) inserted (5.7.1994) by 1994 c. 17, s. 42, Sch. 2 para. 6(b)
+[^M1]: 1990 c. 41.
+[^F54]: Words in Act substituted (1.10.2009) by Constitutional Reform Act 2005 (c. 4), s. 148(1), Sch. 11 para. 5; S.I. 2009/1604, art. 2(d)
+[^F55]: Word in s. 28(2)(c) repealed (5.7.1994) by 1994 c. 17, s. 42, Sch. 2 para. 6(a)
+[^F56]: Word in s. 28(2)(d) and s. 28(2)(e) inserted (5.7.1994) by 1994 c. 17, s. 42, Sch. 2 para. 6(b)
+[^F57]: S. 29(1)(aa) inserted (1.12.2023) by The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286), reg. 1, Sch. 3 para. 49(a)
+[^F58]: S. 29(1)(ba) omitted (31.12.2020) by virtue of The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593), reg. 1(2), Sch. 6 para. 8 (with reg. 12A, Sch. 6 Pt. 2) (as amended by S.I. 2020/1394, regs. 4, 14); 2020 c. 1, Sch. 5 para. 1(1)
+[^F59]: Words in s. 29(3) inserted (1.12.2023) by The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286), reg. 1, Sch. 3 para. 49(b)
+[^F60]: S. 29(3A) inserted (1.12.2023) by The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286), reg. 1, Sch. 3 para. 49(c)
+[^F61]: S. 29(4)(4A) substituted for s. 29(4)-(6) (1.4.2003) by National Health Service Reform and Health Care Professions Act 2002 (c. 17), ss. 33(5), 42(3); S.I. 2003/833, art. 3(a) (with art. 4)
+[^F62]: Words in s. 29(4) inserted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 9 para. 116(a); S.I. 2014/954, art. 2(c) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F63]: Word in s. 29(4) inserted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 9 para. 116(b); S.I. 2014/954, art. 2(c) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F64]: S. 29A omitted (31.12.2020) by virtue of The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593), reg. 1(2), Sch. 6 para. 9 (with reg. 12A, Sch. 6 Pt. 2) (as amended by S.I. 2020/1394, regs. 4, 14); 2020 c. 1, Sch. 5 para. 1(1)
+[^F65]: Words in s. 30(12) substituted (5.7.1994) by 1994 c. 17, s. 42, Sch. 2 para. 7
+[^F66]: Words in s. 31(1)(a) inserted (5.7.1994) by 1994 c. 17, s. 42, Sch. 2 para. 8(a)
+[^F67]: Words in s. 31(1) substituted (1.4.2003) by National Health Service Reform and Health Care Professions Act 2002 (c. 17), ss. 33(6)(a), 42(3); S.I. 2003/833, art. 3(a) (with art. 4)
+[^F68]: S. 31(1A) inserted (1.4.2003) by National Health Service Reform and Health Care Professions Act 2002 (c. 17), ss. 33(6)(b), 42(3); S.I. 2003/833, art. 3(a) (with art. 4)
+[^F69]: S. 31(3)-(5) repealed (1.4.2003) by National Health Service Reform and Health Care Professions Act 2002 (c. 17), ss. 33(6)(c), 42(3), Sch. 9 Pt. 2; S.I. 2003/833, art. 3(a)(c) (with art. 4)
+[^F70]: S. 31(7) repealed (1.4.2003) by National Health Service Reform and Health Care Professions Act 2002 (c. 17), ss. 33(6)(c), 42(3), Sch. 9 Pt. 2; S.I. 2003/833, art. 3(a)(c) (with art. 4)
+[^F71]: S. 31(8) substituted (1.4.2003) by National Health Service Reform and Health Care Professions Act 2002 (c. 17), ss. 33(6)(d), 42(3); S.I. 2003/833, art. 3(a) (with art. 4)
+[^F72]: Words in s. 33(2) substituted (20.6.2003) by Enterprise Act 2002 (c. 40), s. 279, Sch. 25 para. 29(2)(a); S.I. 2003/1397, art. 2(1), Sch. (with art. 8)
+[^F73]: Words in s. 33(2) substituted (20.6.2003) by Enterprise Act 2002 (c. 40), s. 279, Sch. 25 para. 29(2)(b); S.I. 2003/1397, art. 2(1), Sch. (with art. 8)
+[^F74]: S. 33(2A) inserted (20.6.2003) by Enterprise Act 2002 (c. 40), s. 279, Sch. 25 para. 29(3); S.I. 2003/1397, art. 2(1), Sch. (with art. 8)
+[^F75]: Words in s. 33(3) substituted (20.6.2003) by Enterprise Act 2002 (c. 40), s. 279, Sch. 25 para. 29(4); S.I. 2003/1397, art. 2(1), Sch. (with art. 8)
+[^F76]: S. 33(4) substituted (20.6.2003) by Enterprise Act 2002 (c. 40), s. 279, Sch. 25 para. 29(5); S.I. 2003/1397, art. 2(1), Sch. (with art. 8)
+[^F77]: S. 33(5) substituted (20.6.2003) by Enterprise Act 2002 (c. 40), s. 279, Sch. 25 para. 29(6); S.I. 2003/1397, art. 2(1), Sch. (with art. 8)
+[^F78]: Words in s. 35(2) omitted (1.4.2009) by virtue of The Health Care and Associated Professions (Miscellaneous Amendments) Order 2008 (S.I. 2008/1774), art. 1(4), Sch. 3 para. 5; S.I. 2008/3150, art. 3(b)(ii)
+[^F79]: S. 35(3) repealed (1.4.2003) by National Health Service Reform and Health Care Professions Act 2002 (c. 17), ss. 33(7), 42(3), Sch. 9 Pt. 2; S.I. 2003/833, art. 3(a)(c) (with art. 4)
+[^F80]: Words in s. 36(3) inserted (9.7.2008 for specified purposes, 1.4.2009 in so far as not already in force) by The Health Care and Associated Professions (Miscellaneous Amendments) Order 2008 (S.I. 2008/1774), art. 1(3), Sch. 3 para. 6; S.I. 2008/3150, art. 3(b)(i)
+[^F81]: S. 37 substituted (17.7.2014) by The Health Care and Associated Professions (Indemnity Arrangements) Order 2014 (S.I. 2014/1887), art. 1(2), Sch. 1 para. 9 (with Sch. 3 paras. 10-14)
+[^F82]: S. 37(2) omitted (31.12.2020) by virtue of The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593), reg. 1(2), Sch. 6 para. 10 (with reg. 12A, Sch. 6 Pt. 2) (as amended by S.I. 2020/1394, regs. 4, 14); 2020 c. 1, Sch. 5 para. 1(1)
+[^F83]: S. 38 repealed (1.3.2000) by 1998 c. 29, s. 74(2), Sch. 16 Pt. I; S.I. 2000/183, art. 2
+[^F84]: S. 39 repealed (*prosp.*) by 1997 c. 50, ss. 133(c), 134(2), 135, Sch. 10
+[^M2]: S.I. 1975/1023.
+[^M3]: S.R. 1979 No. 195.
+[^M4]: S.I. 1978/1908 (N.I. 27).
+[^F85]: Words in s. 40(3) substituted (6.4.2008) by The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948), art. 2(2), Sch. 1 para. 3(b) (with arts. 6, 11, 12)
+[^F86]: S. 40A inserted (1.4.2009) by The Health Care and Associated Professions (Miscellaneous Amendments) Order 2008 (S.I. 2008/1774), art. 1(4), Sch. 3 para. 7; S.I. 2008/3150, art. 3(b)(ii)
+[^F87]: Words in s. 41 substituted (1.1.2025) by The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations 2024 (S.I. 2024/1379), regs. 1(4), 18(3)
+[^F88]: Words in s. 41 inserted (1.12.2023) by The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286), reg. 1, Sch. 3 para. 50
+[^F89]: Words in s. 41 omitted (31.12.2020) by virtue of The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593), reg. 1(2), Sch. 6 para. 11(a) (with reg. 12A, Sch. 6 Pt. 2) (as amended by S.I. 2020/1394, regs. 4, 14); 2020 c. 1, Sch. 5 para. 1(1)
+[^F90]: Definition in s. 41 substituted (5.7.1994) by 1994 c. 17, s. 42, Sch. 2 para. 9
+[^F91]: Words in s. 41 substituted (31.12.2020) by The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593), reg. 1(2), Sch. 6 para. 11(b) (with reg. 12A, Sch. 6 Pt. 2) (as amended by S.I. 2020/1394, regs. 4, 14); 2020 c. 1, Sch. 5 para. 1(1)
+[^F92]: Words in s. 41 inserted (3.12.2007) by The European Qualifications (Health and Social Care Professions) Regulations 2007 (S.I. 2007/3101), regs. 1(2), 214(d)
+[^F93]: Words in s. 41 inserted (9.7.2008) by The Health Care and Associated Professions (Miscellaneous Amendments) Order 2008 (S.I. 2008/1774), art. 1(2)(d), Sch. 3 para. 8
+[^F94]: Sch. Pt. I paras. 1A-1D substituted for Sch. paras. 1-14 (9.7.2008 for specified purposes, 1.4.2009 in so far as not already in force) by The Health Care and Associated Professions (Miscellaneous Amendments) Order 2008 (S.I. 2008/1774), art. 1(3), Sch. 3 para. 9(2); S.I. 2008/3150, art. 3(b)(i)
+[^F95]: Sch. para. 1A(4) omitted (31.10.2012) by virtue of Health and Social Care Act 2012 (c. 7), s. 306(4), Sch. 20 para. 6(d); S.I. 2012/1831, art. 2(3)
+[^F96]: Sch. Pt. I para. 15(2)(ee) inserted (5.7.1994) by 1994 c. 17, s. 42, Sch. 2 para. 10(2)(4)
+[^F97]: Sch. para. 15(2A) inserted (9.7.2008 for specified purposes, 1.4.2009 in so far as not already in force) by The Health Care and Associated Professions (Miscellaneous Amendments) Order 2008 (S.I. 2008/1774), art. 1(3), Sch. 3 para. 9(3)(a); S.I. 2008/3150, art. 3(b)(i)
+[^F98]: Sch. paras. 15(3)(4) omitted (9.7.2008 for specified purposes, 1.4.2009 in so far as not already in force) by virtue of The Health Care and Associated Professions (Miscellaneous Amendments) Order 2008 (S.I. 2008/1774), art. 1(3), Sch. 3 para. 9(3)(b); S.I. 2008/3150, art. 3(b)(i)
+[^F99]: Sch. Pt. II para. 16(1) omitted (9.7.2008 for specified purposes, 1.4.2009 in so far as not already in force) by virtue of The Health Care and Associated Professions (Miscellaneous Amendments) Order 2008 (S.I. 2008/1774), art. 1(3), Sch. 3 para. 9(4)(a); S.I. 2008/3150, art. 3(b)(i)
+[^F100]: Words in Sch. Pt. II para. 16(2) inserted (9.7.2008 for specified purposes, 1.4.2009 in so far as not already in force) by virtue of The Health Care and Associated Professions (Miscellaneous Amendments) Order 2008 (S.I. 2008/1774), art. 1(3), Sch. 3 para. 9(4)(b); S.I. 2008/3150, art. 3(b)(i)
+[^F101]: Sch. Pt. II para. 16(3) inserted (9.7.2008 for specified purposes, 1.4.2009 in so far as not already in force) by virtue of The Health Care and Associated Professions (Miscellaneous Amendments) Order 2008 (S.I. 2008/1774), art. 1(3), Sch. 3 para. 9(4)(c); S.I. 2008/3150, art. 3(b)(i)
+[^F102]: Sch. para. 19 omitted (9.7.2008 for specified purposes, 1.4.2009 in so far as not already in force) by virtue of The Health Care and Associated Professions (Miscellaneous Amendments) Order 2008 (S.I. 2008/1774), art. 1(3), Sch. 3 para. 9(5); S.I. 2008/3150, art. 3(b)(i)
+[^F103]: Word in Sch. Pt. II para. 21(1) substituted (9.7.2008 for specified purposes, 1.4.2009 in so far as not already in force) by The Health Care and Associated Professions (Miscellaneous Amendments) Order 2008 (S.I. 2008/1774), art. 1(3), Sch. 3 para. 9(6)(a); S.I. 2008/3150, art. 3(b)(i)
+[^F104]: Words in Sch. Pt. II para. 21(2) substituted (5.7.1994) by 1994 c. 17, s. 42, Sch. 2 para. 10(3)
+[^F105]: Words in Sch. Pt. II para. 21(2) inserted (9.7.2008 for specified purposes, 1.4.2009 in so far as not already in force) by The Health Care and Associated Professions (Miscellaneous Amendments) Order 2008 (S.I. 2008/1774), art. 1(3), Sch. 3 para. 9(6)(b); S.I. 2008/3150, art. 3(b)(i)
+[^F106]: Sch. para. 25 substituted (9.7.2008 for specified purposes, 1.4.2009 in so far as not already in force) by The Health Care and Associated Professions (Miscellaneous Amendments) Order 2008 (S.I. 2008/1774), art. 1(3), Sch. 3 para. 9(7); S.I. 2008/3150, art. 3(b)(i)
+[^F107]: Sch. para. 26 omitted (9.7.2008 for specified purposes, 1.4.2009 in so far as not already in force) by virtue of The Health Care and Associated Professions (Miscellaneous Amendments) Order 2008 (S.I. 2008/1774), art. 1(3), Sch. 3 para. 9(8); S.I. 2008/3150, art. 3(b)(i)
+[^F108]: Sch. para. 27 omitted (9.7.2008 for specified purposes, 1.4.2009 in so far as not already in force) by virtue of The Health Care and Associated Professions (Miscellaneous Amendments) Order 2008 (S.I. 2008/1774), art. 1(3), Sch. 3 para. 9(8); S.I. 2008/3150, art. 3(b)(i)
+[^F109]: Sch. para. 28 omitted (9.7.2008 for specified purposes, 1.4.2009 in so far as not already in force) by virtue of The Health Care and Associated Professions (Miscellaneous Amendments) Order 2008 (S.I. 2008/1774), art. 1(3), Sch. 3 para. 9(8); S.I. 2008/3150, art. 3(b)(i)
+[^F110]: Sch. para. 29 omitted (9.7.2008 for specified purposes, 1.4.2009 in so far as not already in force) by virtue of The Health Care and Associated Professions (Miscellaneous Amendments) Order 2008 (S.I. 2008/1774), art. 1(3), Sch. 3 para. 9(8); S.I. 2008/3150, art. 3(b)(i)
+[^F111]: Sch. para. 30 substituted (9.7.2008 for specified purposes, 1.4.2009 in so far as not already in force) by The Health Care and Associated Professions (Miscellaneous Amendments) Order 2008 (S.I. 2008/1774), art. 1(3), Sch. 3 para. 9(9); S.I. 2008/3150, art. 3(b)(i)
+[^F112]: Sch. para. 30A inserted (14.5.2009) by The Health Care and Associated Professions (Miscellaneous Amendments and Practitioner Psychologists) Order 2009 (S.I. 2009/1182), art. 1(2)(f), Sch. 5 para. 1(a) (with arts. 9, 10)
+[^F113]: Sch. para. 31 omitted (9.7.2008 for specified purposes, 1.4.2009 in so far as not already in force) by virtue of The Health Care and Associated Professions (Miscellaneous Amendments) Order 2008 (S.I. 2008/1774), art. 1(3), Sch. 3 para. 9(10); S.I. 2008/3150, art. 3(b)(i)
+[^F114]: Sch. para. 32 omitted (9.7.2008 for specified purposes, 1.4.2009 in so far as not already in force) by virtue of The Health Care and Associated Professions (Miscellaneous Amendments) Order 2008 (S.I. 2008/1774), art. 1(3), Sch. 3 para. 9(10); S.I. 2008/3150, art. 3(b)(i)
+[^F115]: Sch. para. 33 omitted (9.7.2008 for specified purposes, 1.4.2009 in so far as not already in force) by virtue of The Health Care and Associated Professions (Miscellaneous Amendments) Order 2008 (S.I. 2008/1774), art. 1(3), Sch. 3 para. 9(10); S.I. 2008/3150, art. 3(b)(i)
+[^F116]: Sch. para. 34 substituted (9.7.2008 for specified purposes, 1.4.2009 in so far as not already in force) by The Health Care and Associated Professions (Miscellaneous Amendments) Order 2008 (S.I. 2008/1774), art. 1(3), Sch. 3 para. 9(11); S.I. 2008/3150, art. 3(b)(i)
+[^F117]: Sch. para. 34A inserted (14.5.2009) by The Health Care and Associated Professions (Miscellaneous Amendments and Practitioner Psychologists) Order 2009 (S.I. 2009/1182), art. 1(2)(f), Sch. 5 para. 1(b) (with arts. 9, 10)
+[^F118]: Sch. para. 34B inserted (26.9.2016) by Health and Social Care (Safety and Quality) Act 2015 (c. 28), s. 6(4), Sch. para. 3(3)(a); S.I. 2016/906, reg. 2(b)
+[^F119]: Sch. para. 35 omitted (9.7.2008 for specified purposes, 1.4.2009 in so far as not already in force) by virtue of The Health Care and Associated Professions (Miscellaneous Amendments) Order 2008 (S.I. 2008/1774), art. 1(3), Sch. 3 para. 9(12); S.I. 2008/3150, art. 3(b)(i)
+[^F120]: Sch. para. 36 omitted (9.7.2008 for specified purposes, 1.4.2009 in so far as not already in force) by virtue of The Health Care and Associated Professions (Miscellaneous Amendments) Order 2008 (S.I. 2008/1774), art. 1(3), Sch. 3 para. 9(12); S.I. 2008/3150, art. 3(b)(i)
+[^F121]: Sch. para. 37 omitted (9.7.2008 for specified purposes, 1.4.2009 in so far as not already in force) by virtue of The Health Care and Associated Professions (Miscellaneous Amendments) Order 2008 (S.I. 2008/1774), art. 1(3), Sch. 3 para. 9(12); S.I. 2008/3150, art. 3(b)(i)
+[^F122]: Sch. para. 38 substituted (9.7.2008 for specified purposes, 1.4.2009 in so far as not already in force) by The Health Care and Associated Professions (Miscellaneous Amendments) Order 2008 (S.I. 2008/1774), art. 1(3), Sch. 3 para. 9(13); S.I. 2008/3150, art. 3(b)(i)
+[^F123]: Sch. para. 38A inserted (14.5.2009) by The Health Care and Associated Professions (Miscellaneous Amendments and Practitioner Psychologists) Order 2009 (S.I. 2009/1182), art. 1(2)(f), Sch. 5 para. 1(c) (with arts. 9, 10)
+[^F124]: Sch. para. 38B inserted (26.9.2016) by Health and Social Care (Safety and Quality) Act 2015 (c. 28), s. 6(4), Sch. para. 3(3)(b); S.I. 2016/906, reg. 2(b)
+[^F125]: Sch. para. 39 omitted (9.7.2008 for specified purposes, 1.4.2009 in so far as not already in force) by virtue of The Health Care and Associated Professions (Miscellaneous Amendments) Order 2008 (S.I. 2008/1774), art. 1(3), Sch. 3 para. 9(14); S.I. 2008/3150, art. 3(b)(i)
+[^F126]: Sch. para. 40 omitted (9.7.2008 for specified purposes, 1.4.2009 in so far as not already in force) by virtue of The Health Care and Associated Professions (Miscellaneous Amendments) Order 2008 (S.I. 2008/1774), art. 1(3), Sch. 3 para. 9(14); S.I. 2008/3150, art. 3(b)(i)
+[^F127]: Sch. para. 41 omitted (9.7.2008 for specified purposes, 1.4.2009 in so far as not already in force) by virtue of The Health Care and Associated Professions (Miscellaneous Amendments) Order 2008 (S.I. 2008/1774), art. 1(3), Sch. 3 para. 9(14); S.I. 2008/3150, art. 3(b)(i)

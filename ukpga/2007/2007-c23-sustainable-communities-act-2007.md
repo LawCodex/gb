@@ -1,0 +1,356 @@
+---
+title: "Sustainable Communities Act 2007"
+identifier: "ukpga/2007/23"
+citation: "2007 c. 23"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W"
+date: 2007-10-23
+last_amended: 2015-05-26
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/2007/23"
+source_modified: 2015-10-15
+retrieved: 2026-10-11
+---
+
+# Sustainable Communities Act 2007
+
+**2007 c. 23**
+
+An Act to make provision about promoting the sustainability of local communities; and for connected purposes.
+
+[23rd October 2007]
+
+Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## 1 Sustainability of local communities
+
+(1) The principal aim of this Act is to promote the sustainability of local communities.
+
+(2) In this Act references to promoting the sustainability of local communities, in relation to a local authority, are references to encouraging the improvement of the economic, social or environmental well-being of the authority's area, or part of its area.
+
+(3) In this section “social well-being” includes participation in civic and political activity.
+
+(4) It shall be the duty of the Secretary of State to assist local authorities in promoting the sustainability of local communities in the ways specified in this Act.
+
+## 2 Proposals by local authorities
+
+(1) The Secretary of State must invite local authorities to make proposals which they consider would contribute to promoting the sustainability of local communities.
+
+(2) Without prejudice to the generality of subsection (1), a proposal may include a request for a transfer of functions from one person to another.
+
+(3) A local authority may not include a request under subsection (2) unless it has consulted—
+
+(a) the person whose functions it relates to, and
+
+(b) the person to whom the local authority considers the functions should be transferred.
+
+(4) A local authority must have regard to the matters specified in the Schedule before making a proposal.
+
+(5) The Secretary of State must issue the first invitation under this section within the period of one year beginning with the day on which this Act is passed.
+
+## 3 Decision on short-list
+
+(1) Before inviting proposals under section 2, the Secretary of State must appoint a person (the “selector”) to consider the proposals and, in co-operation with the Secretary of State, draw up a short-list of proposals in accordance with regulations under section 5.
+
+(2) The selector must be a person who represents the interests of local authorities.
+
+(3) On receiving the short-list from the selector, the Secretary of State must decide[[^F1], in relation to each proposal on the short-list—
+
+(a) whether the proposal should be implemented or not, and
+
+(b) if the Secretary of State thinks that it should be implemented, whether to implement it in whole or in part.]
+
+(4) Before making a decision under subsection (3) the Secretary of State must consult the selector and try to reach agreement.
+
+## 4 Action plans
+
+(1) The Secretary of State must publish—
+
+(a) the decision under section 3(3) and the reasons for it, and
+
+(b) with the decision, a statement of the action the Secretary of State proposes to take with a view to the implementation of any proposal.
+
+(2) A statement published under subsection (1)(b) is referred to in this section as an action plan.
+
+(3) The Secretary of State must publish and lay before Parliament a report, describing the progress which has been made in relation to any action plan, within the period of one year following the publication of the action plan and at intervals of not more than one year thereafter.
+
+(4) Subsection (3) does not apply in relation to an action plan if the action plan has been implemented.
+
+## 5 Proposals: regulations
+
+(1) The Secretary of State must make regulations about the procedure to be followed in relation to proposals under section 2.
+
+(2) Before making regulations the Secretary of State must consult—
+
+(a) the selector, and
+
+(b) such other persons who represent the interests of local authorities as the Secretary of State thinks fit.
+
+(3) Regulations may, in particular—
+
+(a) specify, or authorise the selector to specify, steps to be taken by a local authority before making proposals;
+
+(b) specify steps to be taken by the selector in considering the proposals and drawing up a short-list;
+
+(c) require the selector to prepare, and give to the Secretary of State, a report on the proposals.
+
+(4) Regulations must—
+
+(a) require a local authority, before making any proposal under section 2, to establish or recognise a panel of representatives of local persons and consult it about the proposal;
+
+(b) require a local authority to try to reach agreement about proposals with the panel or other persons consulted under paragraph (a); and
+
+(c) require a local authority to have regard to any guidance issued under subsection (5).
+
+(5) The Secretary of State must issue guidance to local authorities about making proposals, which—
+
+(a) must include guidance about the inclusion among representatives of local persons (for the purposes of subsection (4)(a)) of persons from under-represented groups, and
+
+(b) may include other guidance about establishing and consulting a panel of representatives of local persons.
+
+(6) Before issuing or revising guidance under subsection (5) the Secretary of State must consult—
+
+(a) local authorities, or
+
+(b) persons who represent the interests of local authorities.
+
+(7) For the purposes of subsection (2) or (6) any consultation undertaken before the day on which this Act is passed is as effective as it would have been if undertaken after that day.
+
+(8) In this section—
+
+- “local person” means, in relation to a proposal by a local authority under section 2, a person who is likely to be affected by, or interested in, the proposal;
+- “panel” means a panel constituted in accordance with regulations;
+- “representative” means, in relation to local persons, a person who appears to the local authority to be representative of the local persons;
+- “under-represented groups” has the meaning given by regulations.
+
+(9) Regulations under this section—
+
+(a) must be made by statutory instrument, and
+
+(b) are subject to annulment in pursuance of a resolution of either House of Parliament.
+
+## 5A [[^F2]Subsequent invitations
+
+(1) Sections 2 to 5 do not apply in relation to an invitation by the Secretary of State to make proposals if the invitation is issued on or after the day on which the Sustainable Communities Act 2007 (Amendment) Act 2010 comes into force.
+
+(2) The Secretary of State must, no later than 1st January 2011, give notice to local authorities of the latest date on which the Secretary of State proposes to invite local authorities to make proposals which they consider would contribute to promoting the sustainability of local communities.
+
+(3) The Secretary of State must issue the invitation on or before the date specified in accordance with subsection (2).
+
+(4) A local authority must have regard to the matters specified in the Schedule before making a proposal in response to an invitation by the Secretary of State.
+
+## 5B Power to make regulations
+
+(1) The Secretary of State may make regulations about proposals made in response to an invitation issued on or after the day on which the Sustainable Communities Act 2007 (Amendment) Act 2010 comes into force.
+
+(2) Regulations under this section must—
+
+(a) require the Secretary of State to consider each proposal and to decide—
+
+(i) whether to implement the proposal, and
+
+(ii) if the Secretary of State thinks that it should be implemented, whether to implement it in whole or in part, and
+
+(b) require the Secretary of State—
+
+(i) to publish a decision, in relation to each proposal, as to whether it will be implemented or not and, if it is to be implemented, whether in whole or in part,
+
+(ii) where the proposal, or part of the proposal, is to be implemented, to specify the action to be taken, and
+
+(iii) to give reasons for the decision.
+
+(3) Regulations under this section may, in particular, include provision—
+
+(a) requiring a local authority to take specified steps before making a proposal (which may, in particular, include a requirement to consult or otherwise involve the council of any parish which is wholly or partly within the local authority's area, or to consult local persons);
+
+(b) specifying the way in which consultation required by the regulations is to be carried out;
+
+(c) requiring a local authority to try to reach agreement with persons consulted under the regulations;
+
+(d) requiring a local authority to have regard to guidance issued by the Secretary of State;
+
+(e) about the making of petitions, in relation to a proposal or a suggestion for a proposal, to a local authority by local persons;
+
+(f) about the form, content and timing of proposals;
+
+(g) enabling the Secretary of State to appoint one or more persons to advise the Secretary of State in relation to proposals, or to prepare a short-list of proposals for consideration by the Secretary of State;
+
+(h) enabling the Secretary of State to specify one or more persons who must be consulted, and with whom the Secretary of State must try to reach agreement, before making a decision in relation to a proposal;
+
+(i) about the manner in which the Secretary of State's decisions are to be published;
+
+(j) requiring the Secretary of State to publish and lay before Parliament a report describing the progress which has been made in relation to implementation of proposals.
+
+(4) In subsection (3) “ local person ”, in relation to a local authority, means a person who lives, works or studies in the local authority's area.
+
+(5) Before making regulations under this section, the Secretary of State must consult—
+
+(a) local authorities, and
+
+(b) such other persons who represent the interests of local authorities as the Secretary of State thinks fit.
+
+(6) A reference in this section to a local authority is to be treated, where an order has been made under section 5C specifying persons or classes of person who may make proposals under this Act, as including a reference to those persons or classes of person.
+
+## 5C Order specifying additional persons who may make proposals
+
+(1) The Secretary of State may by order specify persons or classes of persons, in addition to local authorities, who may make proposals under this Act on or after a date specified in the order.
+
+(2) Before making an order under this section, the Secretary of State must consult—
+
+(a) local authorities,
+
+(b) such other persons who represent the interests of local authorities as the Secretary of State thinks fit, and
+
+(c) persons or classes of persons whom the Secretary of State proposes to specify in the order.
+
+## 5D Regulations and orders: general provision
+
+(1) Regulations under section 5B, or an order under section 5C, may—
+
+(a) provide for a person to exercise a discretion in dealing with a matter;
+
+(b) include incidental, supplementary and consequential provision;
+
+(c) make transitional provision or savings;
+
+(d) make provision generally, only in specified cases or subject to exceptions;
+
+(e) make different provision for different cases or for different purposes.
+
+(2) Regulations under section 5B, or an order under section 5C—
+
+(a) must be made by statutory instrument, and
+
+(b) are subject to annulment in pursuance of a resolution of either House of Parliament.]
+
+## 6 Local spending reports
+
+(1) For the purpose of assisting in promoting the sustainability of local communities, the Secretary of State must make arrangements for the production, by the Secretary of State or another person, of local spending reports.
+
+(2) A local spending report is a report on expenditure by such authorities, in such area, and over such period, as are determined in accordance with the arrangements.
+
+(3) The authorities may be—
+
+(a) a local authority;
+
+(b) a government department;
+
+(c) any other person exercising public functions.
+
+(4) The area must be—
+
+(a) one or more local authority areas;
+
+(b) one or more parts of a local authority area; or
+
+(c) any combination of those.
+
+(5) The period may be or include a future period.
+
+(6) The expenditure to be included in relation to any authority, area or period is to be determined in accordance with the arrangements.
+
+(7) A report may relate to different areas or periods for different authorities.
+
+(8) The Secretary of State may make different arrangements for different reports.
+
+(9) The Secretary of State must make the first arrangements under this section within the period of 18 months beginning with the day on which this Act is passed.
+
+(10) Before making arrangements under this section, the Secretary of State must consult such persons likely to be affected by the arrangements as the Secretary of State thinks appropriate.
+
+(11) For the purposes of subsection (10) any consultation undertaken before the day on which this Act is passed is as effective as it would have been if undertaken after that day.
+
+## [^F3]7 Sustainable community strategy
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 8 Interpretation
+
+In this Act—
+
+- “local authority” means a county council in England, a district council, a London borough council, the Common Council of the City of London or the Council of the Isles of Scilly;
+- [^F4]...
+
+## 9 Expenses
+
+There shall be paid out of money provided by Parliament—
+
+(a) any sums to be paid by the Secretary of State for or in connection with the carrying out of his functions under this Act; and
+
+(b) any increase attributable to this Act in the sums which are payable out of money so provided under any other Act.
+
+## 10 Short title, commencement and extent
+
+(1) This Act may be cited as the Sustainable Communities Act 2007.
+
+(2) This Act extends to England and Wales only.
+
+## SCHEDULE — Matters to which local authorities must have regard
+
+*Section 2*
+
+**1** The matters referred to in section 2 [[^F5] and 5A(4) ]are—
+
+(a) the provision of local services,
+
+(b) the extent to which the volume and value of goods and services that are—
+
+(i) offered for sale; or
+
+(ii) procured by public bodies
+
+and are produced within 30 miles (or any lesser distance as may be specified by a local authority in respect of its area) of their place of sale or of the boundary of the public body,
+
+(c) the rate of increase in the growth and marketing of organic forms of food production and the local food economy,
+
+(d) measures to promote reasonable access by all local people to a supply of food that is adequate in terms of both amount and nutritional value,
+
+(e) the number of local jobs,
+
+(f) measures to conserve energy and increase the quantity of energy supplies which are produced from sustainable sources within a 30 mile radius of the region in which they are consumed,
+
+(g) measures taken to reduce the level of road traffic including, but not restricted to, local public transport provision, measures to promote walking and cycling and measures to decrease the amount of product miles,
+
+(h) the increase in social inclusion, including an increase in involvement in local democracy,
+
+(i) measures to increase mutual aid and other community projects,
+
+(j) measures designed to decrease emissions of greenhouse gases,
+
+(k) measures designed to increase community health and well being,
+
+(l) planning policies which would assist with the purposes of this Act, including new arrangements for the provision of affordable housing, and
+
+(m) measures to increase the use of local waste materials for the benefit of the community.
+
+**2** In this Schedule the following terms shall have the following meanings—
+
+- “local services” includes, but is not restricted to, retail outlets, public houses, banks, health facilities, including hospitals and pharmacies, legal services, social housing, post offices, schools, public eating places, leisure facilities and open spaces;
+
+- “local food economy” means a system of producing, processing and trading primarily organic forms of food production, where the activity is largely contained in the area or region where the food was produced;
+
+- “local jobs” mean—
+
+  - (a) jobs in companies or organisations that in the opinion of the appropriate authority will spend a significant proportion of their turnover in the locality of the place of operation; and
+  - (b) jobs which are held by people living within 30 miles of that job;
+
+- “mutual aid” means actions or initiatives by people in the community to improve services or provisions for themselves and other persons in the community;
+
+- “product miles” means the total distance produce is transported from the place of growth or production to the place of consumption;
+
+- “social inclusion” means the opportunity for all people resident in any area to play an equal role in the economic, social and civic life of the area;
+
+- “local democracy” means the ability to participate, by means of voting at elections or otherwise, in decision-making that is as local as practicable to people's place of residence; and
+
+- “community health and well-being” means the degree to which persons resident in an area identify with that area and receive an increased quality of life as a result of the nature and the environment of the area.
+
+---
+
+[^F1]: Words in s. 3(3) substituted (8.6.2010) by Sustainable Communities Act 2007 (Amendment) Act 2010 (c. 21), ss. 1(2), 3(2)
+[^F2]: Ss. 5A-5D inserted (8.6.2010) by Sustainable Communities Act 2007 (Amendment) Act 2010 (c. 21), ss. 2(2), 3(2)
+[^F3]: S. 7 omitted (26.5.2015) by virtue of Deregulation Act 2015 (c. 20), ss. 100(2)(c), 115(3)(k)
+[^F4]: Words in s. 8 repealed (1.7.2012) by Public Bodies Act 2011 (c. 24), s. 38(3), Sch. 6; S.I. 2012/1662, art. 2(2)(b)
+[^F5]: Words in Sch. para. 1 inserted (8.6.2010) by Sustainable Communities Act 2007 (Amendment) Act 2010 (c. 21), ss. 2(3), 3(2)

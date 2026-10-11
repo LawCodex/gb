@@ -1,0 +1,461 @@
+---
+title: "Transport (Wales) Act 2006"
+identifier: "ukpga/2006/5"
+citation: "2006 c. 5"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W"
+date: 2006-02-16
+last_amended: 2022-02-28
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/2006/5"
+source_modified: 2023-04-06
+retrieved: 2026-10-11
+---
+
+# Transport (Wales) Act 2006
+
+**2006 c. 5**
+
+An Act to make provision about transport to, from and within Wales.
+
+[16th February 2006]
+
+Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## General transport functions
+
+### 1 General transport duty
+
+(1) The Assembly must—
+
+(a) develop policies for the promotion and encouragement of safe, integrated, sustainable, efficient and economic transport facilities and services to, from and within Wales, and
+
+(b) carry out its functions so as to implement those policies.
+
+(2) The transport facilities and services mentioned in subsection (1) are—
+
+(a) those required to meet the needs of persons living or working in Wales, or visiting or travelling through Wales, and
+
+(b) those required for the transportation of freight.
+
+(3) Those facilities and services include facilities and services for pedestrians and cyclists.
+
+### 2 Wales Transport Strategy
+
+(1) The Assembly must prepare and publish a document to be known as the Wales Transport Strategy.
+
+(2) The Strategy must set out—
+
+(a) the policies developed by the Assembly under section 1(1)(a), and
+
+(b) how the Assembly proposes to discharge its duty under section 1(1)(b).
+
+(3) The Assembly must keep the Strategy under review and may from time to time revise it.
+
+(4) If the Assembly revises the Strategy, it must publish (as it considers appropriate)—
+
+(a) the whole Strategy as revised, or
+
+(b) the revised parts.
+
+(5) In preparing or revising the Strategy the Assembly must consult—
+
+(a) each local authority in Wales;
+
+(b) each county council or district council in England whose area abuts Wales;
+
+(c) any other persons it considers appropriate.
+
+(6) [^F1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7) [^F1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Local transport functions
+
+### 3 Local transport plans
+
+The Schedule (which makes provision about local transport plans) has effect.
+
+### 4 Arrangements for discharge of transport functions
+
+(1) The Assembly may direct two or more local authorities in Wales to enter into arrangements—
+
+(a) in the terms specified in the direction, and
+
+(b) in relation to the discharge of transport functions specified in the direction.
+
+(2) The arrangements may in particular be or include arrangements for the joint discharge of transport functions.
+
+(3) In deciding whether to give a direction under this section in relation to particular functions, the Assembly must in particular have regard to the interests of economy, efficiency and effectiveness in the discharge of the functions.
+
+(4) The Assembly may vary or revoke a direction given under this section in relation to particular functions by a further such direction, but only if it is satisfied that, on variation or revocation, satisfactory arrangements will be in place for the discharge of those functions.
+
+(5) Before giving, varying or revoking a direction under this section the Assembly must consult the local authorities concerned and any other persons it considers appropriate.
+
+(6) “Transport function” means a function of a local authority in Wales relating to transport.
+
+### [^F2]5 Joint transport authorities
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 6 Financial assistance: local transport functions
+
+(1) The Assembly may give financial assistance to—
+
+[^F3]a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) local authorities in Wales,
+
+for the purpose of enabling or facilitating them to discharge their functions relating to transport.
+
+(2) The Assembly may attach conditions to financial assistance under this section.
+
+## Public transport
+
+### 7 Provision of public passenger transport services
+
+(1) The Assembly may secure the provision of any public passenger transport services which it considers appropriate for the purpose of meeting any public transport requirements within Wales which would not in its view otherwise be met.
+
+(2) In exercising its power under subsection (1) the Assembly must have regard to—
+
+(a) a combination of economy, efficiency and effectiveness,
+
+(b) the Wales Transport Strategy, and
+
+(c) the transport needs of members of the public who are elderly or disabled.
+
+(3) For the purpose of securing the provision of a service under subsection (1) the Assembly may enter into agreements providing for service subsidies.
+
+(4) But the Assembly may not enter into an agreement under subsection (3) unless the service in question would not be provided [[^F4], or would not be provided to a particular standard,] without a subsidy.
+
+[[^F5](4A) The reference in subsection (4) to the standard to which a service is provided includes—
+
+(a) the frequency or timing of the service;
+
+(b) the days, or times of day, when the service is provided;
+
+(c) the vehicles used to provide the service.]
+
+(5) “Public passenger transport services” means all those services on which members of the public rely for getting from place to place, when not relying on private facilities of their own, including school transport but not including—
+
+(a) services provided under permits under section 19 of the Transport Act 1985 (c. 67) (permits in relation to use of buses by educational and other bodies) other than services provided wholly or mainly to meet the needs of members of the public who are elderly or disabled;
+
+(b) excursions or tours.
+
+(6) “Agreements providing for service subsidies” are agreements under which any person undertakes to provide public passenger transport services of any description on terms which include provision for the making of payments to that person by the Assembly.
+
+(7) “Excursion or tour” has the meaning given in section 137(1) of the Transport Act 1985 (c. 67).
+
+### 8 Public Transport Users' Committee for Wales
+
+(1) The Assembly may by order establish a body corporate, to be known as the Public Transport Users' Committee for Wales or Pwyllgor Defnyddwyr Trafnidiaeth Gyhoeddus Cymru.
+
+(2) The Assembly may by order provide for a body established under subsection (1) to be known by a different name.
+
+(3) A body established under subsection (1) is referred to in this Act as the Committee.
+
+(4) An order under subsection (1) may include provision—
+
+(a) about the status and membership of the Committee (including how members are to be appointed);
+
+(b) about the proceedings of the Committee;
+
+(c) about officers and staff of the Committee;
+
+(d) about the discharge of functions of the Committee (including provision for the discharge of functions by sub-committees with members who are not all members of the Committee);
+
+(e) about the making of reports by the Committee to the Assembly;
+
+(f) about the making of payments to or in respect of officers, staff and members of the Committee;
+
+(g) about the payment of pensions and the making of other payments to or in respect of former officers and staff of the Committee;
+
+(h) about the keeping of accounts by the Committee and their audit and submission to the Assembly;
+
+(i) about the acquisition and disposal by the Committee of property, rights and liabilities (including land);
+
+(j) authorising the Committee to charge for any services it provides in the discharge of any of its functions;
+
+(k) for the transfer of staff, property, rights and liabilities to the Committee.
+
+(5) The Assembly may make payments to the Committee of such amounts, at such times, and on such conditions (if any) as it considers appropriate.
+
+(6) The Assembly may by order make provision for the transfer of staff, property, rights and liabilities from the Committee to any other person.
+
+### 9 Functions of the Committee
+
+(1) The Committee may consider and make recommendations to the Assembly about any matter relating to public passenger transport services or facilities to, from or within Wales.
+
+(2) The Committee must consider and make recommendations to the Assembly about any such matter if asked to do so by the Assembly.
+
+(3) The Assembly may by order—
+
+(a) confer further functions on the Committee;
+
+(b) remove functions from the Committee;
+
+(c) make changes to any functions of the Committee;
+
+(d) transfer any functions of the Committee to another person (including to the Assembly).
+
+(4) An order under subsection (3) may confer a function on the Committee, or make changes to a function of the Committee, only if the new function, or the function as changed, relates to public passenger transport services or facilities to, from or within Wales.
+
+(5) The functions that may be conferred on the Committee under subsection (3)(a) include a power—
+
+(a) to enter into arrangements with another body for discharging functions on behalf of that body in relation to Wales;
+
+(b) to give effect to any such arrangements;
+
+(c) to enter into arrangements with another body for that body to discharge any functions of the Committee on behalf of the Committee.
+
+(6) The discharge of a function by the Committee on behalf of another body does not affect the responsibility of the body for the discharge of the function.
+
+(7) The discharge of a function by another body on behalf of the Committee does not affect the responsibility of the Committee for the discharge of the function.
+
+(8) The provision that may be made in an order under subsection (3) includes provision amending or repealing any provision of an enactment conferring functions on the Committee.
+
+(9) The Committee may do anything which is calculated to facilitate, or is conducive or incidental to, the discharge of any of its functions.
+
+(10) In this section—
+
+- “public passenger transport services” has the meaning given in section 7;
+- “public passenger transport facilities” means facilities for public passenger transport services.
+
+### 10 Guidance and directions to the Committee
+
+(1) The Assembly may—
+
+(a) issue guidance to the Committee as to how it is to discharge its functions;
+
+(b) give directions to the Committee as to how it is to discharge its functions.
+
+(2) The Committee must—
+
+(a) have regard to any guidance issued under subsection (1)(a);
+
+(b) comply with any directions given under subsection (1)(b).
+
+(3) Guidance or directions under this section must be in writing.
+
+(4) The Assembly may vary or revoke directions given under this section.
+
+## Air transport
+
+### 11 Financial assistance: air transport services
+
+(1) The Assembly may give financial assistance to—
+
+(a) persons who provide or propose to provide air transport services which start or end at an airport in Wales, and
+
+(b) persons who provide or propose to provide airport facilities or services at a place in Wales,
+
+for the purpose of enabling or facilitating them to provide those services or facilities.
+
+(2) But the Assembly may give financial assistance under this section only if the services or facilities would not in its view be provided without the financial assistance.
+
+(3) The Assembly may attach conditions to financial assistance under this section.
+
+(4) “Air transport services” means services for the carriage by air of passengers or cargo.
+
+## Supplementary
+
+### 12 Commencement
+
+The preceding provisions of this Act come into force in accordance with provision made by the Assembly by order.
+
+### 13 Orders
+
+(1) This section applies to an order made by the Assembly under this Act.
+
+(2) The power to make the order is exercisable by statutory instrument.
+
+(3) The order—
+
+(a) may make different provision for different purposes;
+
+(b) may include incidental, supplemental, consequential, saving or transitional provision.
+
+### 14 Interpretation
+
+(1) This section applies for the purposes of this Act.
+
+(2) “The Assembly” means the National Assembly for Wales.
+
+(3) “Local authority in Wales” means a county council or county borough council in Wales.
+
+### 15 Money
+
+There shall be paid out of money provided by Parliament any increase attributable to this Act in the sums payable out of money provided by Parliament under another enactment.
+
+### 16 Extent
+
+This Act extends to England and Wales only.
+
+### 17 Short title
+
+This Act may be cited as the Transport (Wales) Act 2006.
+
+## SCHEDULE — Local transport plans
+
+*Section 3*
+
+**1** Part 2 of the Transport Act 2000 (c. 38) (local transport) is amended as follows.
+
+**2** (1) Section 108 (local transport plans) is amended as follows.
+
+(2) After subsection (2) insert—
+
+> (2A) Each local transport authority whose area is in Wales must also—
+>
+> (a) develop policies for the implementation in their area of the Wales Transport Strategy, and
+>
+> (b) carry out their functions so as to implement those policies.
+
+.
+
+[^F6]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**3** (1) Section 109 (further provision about plans) is amended as follows.
+
+(2) For the heading substitute “ Further provision about plans: England ”.
+
+(3) In subsection (1) after “local transport authority” insert “ whose area is in England ”.
+
+(4) In subsection (3)(b) omit the words from “(in the case of an authority whose area is in England)” to “in Wales)”.
+
+[^F7]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F7]6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**4** After section 109 insert—
+
+> **Approval of plans: Wales**
+>
+> **109A** (1) A local transport authority whose area is in Wales must submit their local transport plan to the National Assembly for Wales for its approval.
+>
+> (2) If the Assembly refuses to approve a plan submitted to it by a local transport authority under this section—
+>
+> (a) the Assembly must give the local transport authority a statement of the reasons for its refusal, and
+>
+> (b) the authority must prepare another local transport plan and submit the plan to the Assembly for its approval.
+>
+> (3) If the Assembly approves a local transport plan under this section, the plan has effect when the approval is given.
+>
+> (4) The Assembly may approve a local transport plan under this section if (but only if) it considers—
+>
+> (a) that the plan is consistent with the Wales Transport Strategy, and
+>
+> (b) that the policies contained in the plan are adequate for the implementation in the authority's area of the Strategy.
+>
+> (5) The Assembly must not delegate its function of—
+>
+> (a) refusing to approve a local transport plan under this section, or
+>
+> (b) making a statement of the reasons for its refusal to approve a local transport plan under this section.
+>
+> **Further provision about plans: Wales**
+>
+> **109B** (1) A local transport authority whose area is in Wales must keep their local transport plan under review and alter it if they consider it appropriate to do so.
+>
+> (2) The authority must in particular review the plan as soon as practicable after the publication of the Wales Transport Strategy or any revision of it.
+>
+> (3) The authority must replace their local transport plan not later than five years after the date on which the plan was approved under section 109A.
+>
+> (4) Section 109A applies to a replacement plan and a plan as altered as it applies to a plan as originally prepared.
+>
+> (5) A local transport authority whose area is in Wales shall be taken to have complied with subsection (3) if (but only if)—
+>
+> (a) the authority submit their replacement plan to the National Assembly for Wales for approval under section 109A before the end of the five year period mentioned in subsection (3), and
+>
+> (b) the Assembly approves the plan under section 109A (whether the approval is given before or after the end of that five year period).
+>
+> (6) If an authority fail to comply with subsection (3) because they fail to submit their replacement plan to the Assembly for approval under section 109A before the end of the five year period mentioned in that subsection, the authority must replace their local transport plan as soon as practicable after the expiry of the five year period.
+>
+> (7) If an authority fail to comply with subsection (3) because the Assembly refuses to approve a plan submitted to it under section 109A, the authority must replace their local transport plan as soon as practicable after the refusal.
+>
+> (8) As soon as practicable after their plan, or their plan as altered, has been approved under section 109A, a local transport authority whose area is in Wales must—
+>
+> (a) publish the plan or the plan as altered in such manner as they think fit, and
+>
+> (b) send a copy of it to such persons (if any) as may be specified in guidance under section 112(1).
+>
+> (9) The authority must also—
+>
+> (a) cause a copy of their local transport plan to be made available for inspection (at all reasonable hours) at such places as they think fit,
+>
+> (b) give notice, by such means as they think expedient for bringing it to the attention of the public, as to the places at which a copy of it may be inspected, and
+>
+> (c) supply a copy of it (or any part of it) to any person on request, either free of charge or at a charge representing no more than the cost of providing the copy.
+>
+> **Transitional provisions: Wales**
+>
+> **109C** (1) Where a local transport authority whose area is in Wales have, before 1st August 2001, prepared and published a document which—
+>
+> (a) contains policies developed by them for the purposes described in section 108(1)(a), and
+>
+> (b) was prepared and published in accordance with guidance issued by the National Assembly for Wales,
+>
+> that document shall be taken to be the authority's local transport plan.
+>
+> (2) But, in the case of a document which is a local transport plan by virtue of subsection (1), section 109B(3) requires its replacement not later than such date as is specified in an order made by the National Assembly for Wales (rather than not later than five years after the date on which it was approved under section 109A).
+>
+> (3) For the purposes of section 109B(3), a local transport plan made before the coming into force of section 109A by a local transport authority whose area is in Wales shall be taken to have been approved under section 109A on the date on which it was made.
+
+.
+
+**[^F8]5** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**6** After section 113 insert—
+
+> **Modification of provisions about plans and strategies: Wales**
+>
+> **113A** (1) The National Assembly for Wales may by order modify the application of sections 108 to 111 in relation to local transport authorities whose areas are in Wales for the purpose of—
+>
+> (a) permitting a local transport plan to be prepared in respect of part only of an authority's area;
+>
+> (b) permitting a local transport plan to be prepared by two or more authorities jointly in respect of an area comprising all or any part or parts of their areas.
+>
+> (2) An order under subsection (1) made for the purpose mentioned in subsection (1)(b) may in particular include provision for—
+>
+> (a) the plan to be prepared by one of the authorities concerned on behalf of both or all of them;
+>
+> (b) administrative arrangements, including the apportionment of the cost of preparing the plan between the authorities concerned.
+>
+> (3) Before making an order under subsection (1) the Assembly must consult the local transport authorities concerned and any other persons it considers appropriate.
+>
+> **Directions concerning plans and strategies: Wales**
+>
+> **113B** (1) The National Assembly for Wales may issue to a local transport authority whose area is in Wales general or specific directions as to the manner in which they are to carry out their functions under sections 108 to 111.
+>
+> (2) Directions issued by the Assembly under subsection (1) may include in particular directions—
+>
+> (a) as to the timetable in accordance with which a local transport plan or alterations to a local transport plan must be prepared;
+>
+> (b) as to the action required to be taken to implement the policies contained in a local transport plan;
+>
+> (c) as to the steps required to be taken to remove the effects of action which is incompatible with those policies.
+>
+> (3) Directions under this section—
+>
+> (a) must be in writing;
+>
+> (b) may be varied or revoked by further directions under this section.
+>
+> (4) Before issuing, varying or revoking directions under this section the Assembly must consult the local transport authority concerned and any other persons it considers appropriate.
+
+.
+
+---
+
+[^F1]: S. 2(6)(7) repealed (2.5.2007) by The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388), arts. 1(3), 3, Sch. 1 para. 121
+[^F2]: S. 5 omitted (21.1.2021) by virtue of Local Government and Elections (Wales) Act 2021 (asc 1), s. 175(1)(e), Sch. 9 para. 49(a)
+[^F3]: S. 6(1)(a) omitted (21.1.2021) by virtue of Local Government and Elections (Wales) Act 2021 (asc 1), s. 175(1)(e), Sch. 9 para. 49(b)
+[^F4]: Words in s. 7(4) inserted (9.2.2009 for E. and 1.4.2009 for W.) by Local Transport Act 2008 (c. 26), ss. 69(2), 134(3)(5)(6); S.I. 2009/107, art. 2(2), Sch. 2; S.I. 2009/579, art. 2
+[^F5]: S. 7(4A) inserted (9.2.2009 for E. and 1.4.2009 for W.) by Local Transport Act 2008 (c. 26), ss. 69(3), 134(3)(5)(6); S.I. 2009/107, art. 2(2), Sch. 2; S.I. 2009/579, art. 2
+[^F6]: Sch. para. 2(3) repealed (11.1.2010 for E., 31.1.2010 for W.) by Local Transport Act 2008 (c. 26), s. 134(4), Sch. 7 Pt. 1; S.I. 2009/3242, art. 2(1)(c); S.I. 2009/3294, art. 2(d)
+[^F7]: Sch. paras. 3(5)(6) repealed (11.1.2010 for E., 31.1.2010 for W.) by Local Transport Act 2008 (c. 26), s. 134(4), Sch. 7 Pt. 1; S.I. 2009/3242, art. 2(1)(c); S.I. 2009/3294, art. 2(d)
+[^F8]: Sch. para. 5 repealed (11.1.2010 for E., 31.1.2010 for W.) by Local Transport Act 2008 (c. 26), s. 134(4), Sch. 7 Pt. 1; S.I. 2009/3242, art. 2(1)(c); S.I. 2009/3294, art. 2(d)

@@ -1,0 +1,793 @@
+---
+title: "Disability Living Allowance and Disability Working Allowance Act 1991"
+identifier: "ukpga/1991/21"
+citation: "1991 c.21"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S+N.I."
+date: 1991-06-27
+last_amended: 2003-04-06
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/1991/21"
+source_modified: 2013-08-05
+retrieved: 2026-10-11
+---
+
+# Disability Living Allowance and Disability Working Allowance Act 1991
+
+**1991 c.21**
+
+An Act to introduce as social security benefits disability living allowance and disability working allowance; and for connected purposes.
+
+[27th June 1991]
+
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## Disability living allowance
+
+### [^F1]1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 2 Attendance allowance and mobility allowance.
+
+[^F2]1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) The Attendance Allowance Board is dissolved.
+
+(3) Section 37A of the 1975 Act (mobility allowance) is repealed.
+
+### [^F3]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 4 Management of disability living allowance and attendance allowance etc.
+
+[^F4]1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) The further amendments specified in Schedule 2 to this Act shall be made.
+
+### [^F5]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Disability working allowance
+
+### [^F6]6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 7 Disability working allowance - supplementary.
+
+[^F7]1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) The further amendments specified in Schedule 3 to this Act shall have effect.
+
+### [^F8]8 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F9]9 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## General
+
+### 10 Repeals.
+
+The enactments mentioned in Schedule 4 to this Act are repealed to the extent specified in the third column of that Schedule.
+
+### [^F10]11 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F11]12 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F12]13 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F13]14 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 15 Short title, commencement and extent.
+
+(1) This Act may be cited as the Disability Living Allowance and Disability Working Allowance Act 1991, and this Act shall be included among the Acts which may be cited together as the Social Security Acts 1975 to 1991.
+
+(2) Apart from the provisions specified in subsection (3) below, this Act shall come into force on such day as the Secretary of State may by order made by statutory instrument appoint; and different days may be appointed for different provisions of this Act or for different purposes of the same provision.
+
+(3) The provisions referred to in subsection (2) above are sections 12, 13, 14 and this section.
+
+(4) The following provisions of this Act extend to Northern Ireland—
+
+- section 4, so far as it relates to paragraphs 2, 6 and 7, 9, 11, 13 and 14, 18, 20 and 21 of Schedule 2;
+- section 5;
+- section 7, so far as it relates to paragraph 11 of Schedule 3;
+- section 10, so far as it relates to the repeals in Schedule 1 to the [^M1]House of Commons Disqualification Act 1975 and Schedule 5 to the [^M2]Value Added Tax Act 1983;
+- section 11;
+- section 12;
+- section 13;
+- section 14; and
+- this section.
+
+(5) Except as provided by this section, this Act does not extend to Northern Ireland.
+
+## [^F14]SCHEDULE 1
+
+### Adjudication
+
+**1** The 1975 Act shall be amended as follows.
+
+**2** In section 98(1)—
+
+(a) at the beginning there shall be inserted the words “ Subject to section 115C(1) below, ”; and
+
+(b) for “104” there shall be substituted “ 104A ”.
+
+**3** (1) In subsection (1) of section 99, after the words “section 98” there shall be inserted the words “ (other than a claim which under section 100A(11) or (12) or 104A(5) falls to be treated as an application for a review) ”.
+
+(2) In subsection (2) of that section, after the word “questions),” there shall be inserted the words “ and subject also to subsection (2A) below, ”.
+
+(3) The following subsection shall be inserted after that subsection—
+
+> (2A) The adjudication officer must decide a claim for or question relating to an attendance allowance or a disability living allowance himself.
+
+.
+
+### Reviews and appeals
+
+**4** In section 100—
+
+(a) in subsection (1), after the word “question” there shall be inserted the words “ other than a claim or question relating to an attendance allowance or a disability living allowance, ”;
+
+(b) in subsection (2), after the word “decision” there shall be inserted the words “ falling within subsection (1) above ”; and
+
+(c) in subsection (7), after the word “amount” there shall be inserted the words “ of benefit (other than an attendance allowance or a disability living allowance) ”.
+
+**5** The following sections shall be inserted after that section—
+
+> **Reviews of decisions of adjudication officers as to attendance allowance or disability living allowance.**
+>
+> **100A** (1) On an application under this section made within the prescribed period, a decision of an adjudication officer under section 99 above which relates to an attendance allowance or a disability living allowance may be reviewed on any ground.
+>
+> (2) On an application under this section made after the end of the prescribed period, such a decision may be reviewed if—
+>
+> (a) the adjudication officer is satisfied that the decision was given in ignorance of, or was based on a mistake as to, some material fact; or
+>
+> (b) there has been any relevant change of circumstances since the decision was given; or
+>
+> (c) it is anticipated that a relevant change of circumstances will so occur; or
+>
+> (d) the decision was erroneous in point of law; or
+>
+> (e) the decision was to make an award for a period wholly or partly after the date on which the claim was made or treated as made but subject to a condition being fulfilled and that condition has not been fulfilled,
+>
+> but regulations may provide that a decision may not be reviewed on the ground mentioned in paragraph (a) above unless the officer is satisfied as mentioned in that paragraph by fresh evidence.
+>
+> (3) Regulations may prescribe what are, or are not, relevant changes of circumstances for the purposes of subsection (2)(b) and (c) above.
+>
+> (4) On an application under this section made after the end of the prescribed period, a decision of an adjudication officer under section 99 above that a person is or was at any time terminally ill for the purposes of section 35(2B), 37ZB(5) or 37ZC(12) above may be reviewed if there has been a change of medical opinion with respect to his condition or his reasonable expectation of life.
+>
+> (5) The claimant shall be given such notification as may be prescribed of a decision which may be reviewed under this section and of his right to a review under subsection (1) above.
+>
+> (6) A question may be raised with a view to a review under this section by means of an application made in writing to an adjudication officer stating the grounds of the application and supplying such information and evidence as may be prescribed.
+>
+> (7) Regulations—
+>
+> (a) may provide for enabling or requiring, in prescribed circumstances, a review under this section notwithstanding that no application under subsection (6) above has been made; and
+>
+> (b) if they do so provide, shall specify under which provision of this section a review carried out by virtue of any such regulations falls.
+>
+> (8) Reviews under this section shall be carried out by adjudication officers.
+>
+> (9) Different aspects of any question which arises on such a review may be dealt with by different adjudication officers; and for this purpose this section and the other provisions of this Part of this Act which relate to reviews under this section shall apply with any necessary modifications.
+>
+> (10) If a review is under subsection (1) above, the officer who took the decision under review shall not deal with any question which arises on the review.
+>
+> (11) Except in prescribed circumstances, where a claim for a disability living allowance in respect of a person already awarded such an allowance by an adjudication officer is made or treated as made during the period for which he has been awarded the allowance, it shall be treated as an application for a review under this section.
+>
+> (12) Where—
+>
+> (a) a claim for an attendance allowance or a disability living allowance in respect of a person has been refused; and
+>
+> (b) a further claim for the same allowance is made in respect of him within the period prescribed under subsection (1) above,
+>
+> the further claim shall be treated as an application for a review under that subsection.
+>
+> **Further reviews of decisions as to attendance allowance or disability living allowance.**
+>
+> **100B** (1) Subsections (2) and (4) of section 100A above shall apply to a decision on a review under subsection (1) of that section as they apply to a decision of an adjudication officer under section 99 above but as if the words “made after the end of the prescribed period” were omitted from each subsection.
+>
+> (2) Subsections (1), (2) and (4) of section 100A above shall apply—
+>
+> (a) to a decision on a review under subsection (2) or (4) of that section; and
+>
+> (b) to a refusal to review a decision under subsection (2) or (4) of that section,
+>
+> as they apply to a decision of an adjudication officer under section 99 above.
+>
+> (3) The claimant shall be given such notification as may be prescribed—
+>
+> (a) of a decision on a review under section 100A above;
+>
+> (b) if the review was under section 100A(1), of his right of appeal under section 100D below; and
+>
+> (c) if it was under section 100A(2) or (4), of his right to a further review under section 100A(1).
+>
+> **Reviews of decisions as to attendance allowance or disability living allowance: supplementary.**
+>
+> **100C** (1) An award of an attendance allowance or a disability living allowance on a review under section 100A above replaces any award which was the subject of the review.
+>
+> (2) Where a person who has been awarded a disability living allowance consisting of one component applies or is treated as applying for a review under section 100A above and alleges that he is also entitled to the other component, the adjudication officer need not consider the question of his entitlement to the component which he has already been awarded or the rate of that component.
+>
+> (3) Where a person who has been awarded a disability living allowance consisting of both components applies or is treated as applying for a review under section 100A above and alleges that he is entitled to one component at a rate higher than that at which it has been awarded, the adjudication officer need not consider the question of his entitlement to the other component or the rate of that component.
+>
+> (4) Where a person has been awarded a component for life, on a review under section 100A above the adjudication officer shall not consider the question of his entitlement to that component or the rate of that component or the period for which it has been awarded unless—
+>
+> (a) the person awarded the component expressly applies for the consideration of that question; or
+>
+> (b) information is available to the adjudication officer which gives him reasonable grounds for believing that entitlement to the component, or entitlement to it at the rate awarded or for that period, ought not to continue.
+>
+> (5) No decision which relates to an attendance allowance or a disability living allowance shall be reviewed under section 100A above on the ground that the person is or was at any time terminally ill, within the meaning of section 35(2C) above, unless an application for review is made expressly on that ground either—
+>
+> (a) by the person himself; or
+>
+> (b) by any other person purporting to act on his behalf, whether or not that other person is acting with his knowledge or authority;
+>
+> and a decision may be so reviewed on such an application, notwithstanding that no claim under section 35(2B) or 37ZB(5) or 37ZC(12) above has been made.
+>
+> (6) Where a decision is reviewed under section 100A above on the ground that it is anticipated that a change of circumstances will occur, the decision given on review—
+>
+> (a) shall take effect on the day prescribed for that purpose by reference to the date on which the change of circumstances is expected to occur; and
+>
+> (b) shall be reviewed again if the change of circumstances either does not occur or occurs otherwise than on that date.
+>
+> (7) Where a claimant has appealed against a decision of an adjudication officer under section 100D below and the decision is reviewed again under section 100A(2) or (4) above by an adjudication officer, then—
+>
+> (a) if the adjudication officer considers that the decision which he has made on the review is the same as the decision that would have been made on the appeal had every ground of the appeal succeeded, then the appeal shall lapse; but
+>
+> (b) in any other case, the review shall be of no effect and the appeal shall proceed accordingly.
+>
+> (8) Subsections (5) and (7) to (10) of section 104 below apply in relation to a review under section 100A above as they apply to a review under that section but as if—
+>
+> (a) subsection (5)(a) were omitted; and
+>
+> (b) in subsection (7) for the words “subsection (1A) above” there were substituted t he words “section 100A above on the ground that it was erroneous in point of law”.
+>
+> (9) Where an adjudication officer has determined that any amount paid by way of an attendance allowance or a disability living allowance is recoverable under or by virtue of section 53 of the Social Security Act 1986 (overpayments), any person from whom he has determined that it is recoverable shall have the same right of review under section 100A above as a claimant.
+>
+> (10) This Act shall have effect in relation to a review by virtue of subsection (9) above as if any reference to the claimant were a reference to the person from whom the adjudication officer has determined that the amount in question is recoverable.
+>
+> **Appeals following reviews of decisions as to attendance allowance or disability living allowance.**
+>
+> **100D** (1) Where an adjudication officer has given a decision on a review under section 100A(1) above, the claimant or such other person as may be prescribed may appeal—
+>
+> (a) in prescribed cases, to a disability appeal tribunal; and
+>
+> (b) in any other case, to a social security appeal tribunal.
+>
+> (2) Regulations may make provision as to the manner in which, and the time within which, appeals are to be brought.
+>
+> (3) An award of an attendance allowance or a disability living allowance on an appeal replaces any award which was the subject of the appeal.
+>
+> (4) Where a person who has been awarded a disability living allowance consisting of one component alleges on an appeal that he is also entitled to the other component, the tribunal need not consider the question of his entitlement to the component which he has already been awarded or the rate of that component.
+>
+> (5) Where a person who has been awarded a disability living allowance consisting of both components alleges on an appeal that he is entitled to one component at a rate higher than that at which it has been awarded, the tribunal need not consider the question of his entitlement to the other component or the rate of that component.
+>
+> (6) The tribunal shall not consider—
+>
+> (a) a person’s entitlement to a component which has been awarded for life; or
+>
+> (b) the rate of a component so awarded; or
+>
+> (c) the period for which a component has been so awarded,
+>
+> unless—
+>
+> (i) the appeal expressly raises that question; or
+>
+> (ii) information is available to the tribunal which gives it reasonable grounds for believing that entitlement to the component, or entitlement to it at the rate awarded or for that period, ought not to continue.
+>
+> (7) Schedule 10A to this Act has effect with respect to disability appeal tribunals.
+
+.
+
+**6** In section 101—
+
+(a) in subsection (1), after the words “social security appeal tribunal” there shall be inserted the words “ or disability appeal tribunal ”; and
+
+(b) the words “of a social security appeal tribunal” shall be omitted from subsection (5A)(a).
+
+**7** (1) In section 102(1)—
+
+(a) after the words “social security appeal tribunal” there shall be inserted the words “ , a disability appeal tribunal ”; and
+
+(b) for the word “or”, in the second place where it occurs, there shall be substituted the words “ , subject to subsection (3) below, or the ”.
+
+(2) The following subsection shall be added after subsection (2)—
+
+> (3) A social security appeal tribunal may not determine a question by virtue of subsection (1) above if an appeal in relation to such a question would have lain to a disability appeal tribunal.
+
+.
+
+**8** The words “ (other than a decision relating to an attendance allowance or a disability living allowance) ” shall be inserted in section 104—
+
+(a) in subsection (1), after the words “a Commissioner”; and
+
+(b) in subsection (1A), after the words “adjudication officer”, in the first place where they occur.
+
+**9** The following section shall be inserted after that section—
+
+> **Reviews of decisions on appeal as to attendance allowance and disability living allowance.**
+>
+> **104A** (1) Any decision under this Act of a social security appeal tribunal, a disability appeal tribunal or a Commissioner which relates to an attendance allowance or a disability living allowance may be reviewed at any time by an adjudication officer if—
+>
+> (a) he is satisfied that the decision was given in ignorance of, or was based on a mistake as to, some material fact; or
+>
+> (b) there has been any relevant change of circumstances since the decision was given; or
+>
+> (c) it is anticipated that a relevant change of circumstances will so occur; or
+>
+> (d) the decision was that a person is or was at any time terminally ill for the purposes of section 35(2B), 37ZB(5) or 37ZC(12) above and there has been a change of medical opinion with respect to his condition or his reasonable expectation of life; or
+>
+> (e) the decision was to make an award for a period wholly or partly after the date on which the claim was made or treated as made but subject to a condition being fulfilled and that condition has not been fulfilled,
+>
+> but regulations may provide that a decision may not be reviewed on the ground mentioned in paragraph (a) above unless the officer is satisfied as mentioned in that paragraph by fresh evidence.
+>
+> (2) Regulations may prescribe what are, or are not, relevant changes of circumstances for the purposes of subsection (1)(b) and (c) above.
+>
+> (3) A question may be raised with a view to a review under this section by means of an application made in writing to an adjudication officer, stating the grounds of the application and supplying such information and evidence as may be prescribed.
+>
+> (4) Reviews under this section shall be carried out by adjudication officers.
+>
+> (5) Except in prescribed circumstances, where a claim for a disability living allowance in respect of a person already awarded such an allowance on an appeal is made or treated as made during the period for which he has been awarded the allowance, it shall be treated as an application for a review under this section.
+>
+> (6) Subsections (1), (2) and (4) of section 100A above shall apply—
+>
+> (a) to a decision on a review under this section; and
+>
+> (b) to a refusal to review a decision such as is mentioned in subsection (1) above,
+>
+> as they apply to a decision of an adjudication officer under section 99 above.
+>
+> (7) The person whose claim was the subject of the appeal the decision on which has been reviewed under this section shall be given such notification as may be prescribed—
+>
+> (a) of the decision on the review; and
+>
+> (b) of his right to a further review under section 100A(1) above.
+>
+> (8) Section 100A(9) above and section 100C(1) to (5) above shall apply in relation to a review under this section as they apply to a review under section 100A above.
+>
+> (9) Subsections (1ZA), (3A) and (5) of section 104 above shall apply in relation to a review under this section as they apply to a review under that section but as if—
+>
+> (a) in subsection (1ZA), “(1)(c)” were substituted for “(1)(bb)”;
+>
+> (b) in subsection (3A), “(3)” were substituted for “(2)”; and
+>
+> (c) subsection (5)(a) were omitted.
+
+.
+
+**10** In section 115(2) after the words “social security appeal tribunal,” there shall be inserted the words “ a disability appeal tribunal, ”.
+
+**11** The following paragraph shall be inserted after section 115A(2)(d)—
+
+> (dd) a disability appeal tribunal;
+
+.
+
+**12** The following paragraph shall be inserted after section 115B(2)(c)—
+
+> (cc) a disability appeal tribunal;
+
+.
+
+**13** The following sections shall be inserted after section 115B—
+
+> **References of claims relating to attendance allowance and disability living allowance to medical practitioners and Disability Living Allowance Advisory Board.**
+>
+> **115C** (1) Before a claim for an attendance allowance or a disability living allowance or any question relating to such an allowance is submitted to an adjudication officer under section 98 above the Secretary of State may refer the person in respect of whom the claim is made or the question is raised to a medical practitioner for such examination and report as appears to him to be necessary—
+>
+> (a) for the purpose of providing the adjudication officer with information for use in determining the claim or question; or
+>
+> (b) for the purpose of general monitoring of claims for attendance allowances and disability living allowances.
+>
+> (2) An adjudication officer may refer—
+>
+> (a) a person in respect of whom such a claim is made or such a question is raised;
+>
+> (b) a person who has applied or is treated as having applied for a review under section 100A or 104A above,
+>
+> to a medical practitioner for such examination and report as appears to the adjudication officer to be needed to enable him to reach a decision on the claim or question or the matter under review.
+>
+> (3) The Secretary of State may direct adjudication officers to refer for advice to a medical practitioner who is an officer of the Secretary of State any case falling within a specified class of cases relating to attendance allowance or disability living allowance, and an adjudication officer may refer for advice any case relating to attendance allowance or disability living allowance to such a medical practitioner without such a direction.
+>
+> (4) A medical practitioner who is an officer of the Secretary of State and to whom a case or question relating to an attendance allowance or a disability living allowance is referred under section 115A above or subsection (3) above may refer the case or question to the Disability Living Allowance Advisory Board for advice.
+>
+> (5) Such a medical practitioner may obtain information about such a case or question from another medical practitioner.
+>
+> (6) Where—
+>
+> (a) the Secretary of State has exercised the power conferred on him by subsection (1) above or an adjudication officer has exercised the power conferred on him by subsection (2) above; and
+>
+> (b) the medical practitioner requests the person referred to him to attend for or submit himself to medical examination; but
+>
+> (c) he fails without good cause to do so,
+>
+> the adjudication officer shall decide the claim or question or matter under review against him.
+>
+> **Medical examination etc. in relation to appeals to disability appeal tribunals.**
+>
+> **115D** (1) Where an appeal has been brought under section 100D(1)(a) above, a person who may be nominated as chairman of a disability appeal tribunal may, if prescribed conditions are satisfied, refer the claimant to a medical practitioner for such examination and report as appears to him to be necessary for the purpose of providing a disability appeal tribunal with information for use in determining the appeal.
+>
+> (2) At a hearing before a disability appeal tribunal, except in prescribed circumstances, the tribunal—
+>
+> (a) may not carry out a physical examination of the claimant; and
+>
+> (b) may not require the claimant to undergo any physical test for the purpose of determining whether he satisfies the condition mentioned in section 37ZC(1)(a) above.
+
+.
+
+### Disability appeal tribunals
+
+**14** On the day when this paragraph comes into force, and by virtue of its operation—
+
+(a) the President of social security appeal tribunals and medical appeal tribunals shall become President of social security appeal tribunals, medical appeal tribunals and disability appeal tribunals;
+
+(b) each regional chairman of social security appeal tribunals and medical appeal tribunals shall become regional chairman of social security appeal tribunals, medical appeal tribunals and disability appeal tribunals; and
+
+(c) each other full-time chairman of social security appeal tribunals and medical appeal tribunals shall become full-time chairman of social security appeal tribunals, medical appeal tribunals and disability appeal tribunals.
+
+**15** The following shall be substituted for paragraph 1A(1) of Schedule 10 to the 1975 Act and the heading immediately preceding it—
+
+> **The President of social security appeal tribunals, medical appeal tribunals and disability appeal tribunals and regional chairmen and other full-time chairmen**
+>
+> **1A** (1) The Lord Chancellor may, after consultation with the Lord Advocate, appoint—
+>
+> (a) a President of social security appeal tribunals, medical appeal tribunals and disability appeal tribunals; and
+>
+> (b) regional and other full-time chairmen of such tribunals.
+
+.
+
+**16** The following Schedule shall be inserted after that Schedule—
+
+> **Schedule 10A — Disability Appeal Tribunals**
+>
+> **1** A disability appeal tribunal shall consist of a chairman and two other persons.
+>
+> **2** Section 97(2C) to (2E) above shall have effect in relation to the chairman of a disability appeal tribunal as they have effect in relation to the chairman of a social security appeal tribunal.
+>
+> **3** The President shall constitute for the whole of Great Britain, to act for such areas as he thinks fit and be composed of such persons as he thinks fit to appoint, panels of persons to act as members of disability appeal tribunals.
+>
+> **4** There shall be two panels for each area.
+>
+> **5** One panel shall be composed of medical practitioners.
+>
+> **6** The other shall be composed of persons who are experienced in dealing with the needs of disabled persons—
+>
+> (a) in a professional or voluntary capacity; or
+>
+> (b) because they are themselves disabled,
+>
+> but may not include medical practitioners.
+>
+> **7** In considering the appointment of members of the panels the President shall have regard to the desirability of appointing disabled persons.
+>
+> **8** Paragraph 1(2A) and (6) of Schedule 10 above have effect in relation to panels constituted under this Schedule as they have effect in relation to the panels mentioned in section 97(2A) of this Act.
+>
+> **9** Of the members of a tribunal other than the chairman one shall be drawn from the panel mentioned in paragraph 5 above.
+>
+> **10** The other shall be drawn from the panel mentioned in paragraph 6 above.
+>
+> **11** Paragraphs 1A(11) and 1B to 3 of Schedule 10 above apply to disability appeal tribunals as they apply to social security appeal tribunals.
+>
+> **12** In summoning members of a panel to serve on a tribunal, the clerk to the tribunal shall have regard to the desirability of at least one of the members of the tribunal being a disabled person.
+>
+> **13** If practicable, at least one of the members of the tribunal shall be of the same sex as the claimant.
+
+.
+
+**17** In paragraph 7A of Schedule 13 (procedure regulations) after the words “social security appeal tribunal” there shall be inserted the words “ , a disability appeal tribunal ”.
+
+### Financial arrangements
+
+**18** The following paragraph shall be inserted after section 135(2)(c)—
+
+> (ca) a disability living allowance;
+
+.
+
+### Making of claim condition of entitlement
+
+**19** In section 165A(3) for the words from “for an attendance” to “of another” there shall be substituted the words “ on behalf of another for an attendance allowance by virtue of section 35(2B) above or for a disability living allowance by virtue of section 37ZB(5) or 37ZC(12) above ”.
+
+### Interpretation
+
+**20** In Schedule 20, in the definition of President for the words “and medical appeal tribunals” there shall be substituted the words “ , medical appeal tribunals and disability appeal tribunals ”.
+
+## SCHEDULE 2 — Disability Living Allowance and Attendance Allowance: Amendments
+
+*Section 4.*
+
+### Vehicles (Excise) Act 1971 (c. 10)
+
+**[^F15]1** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Tribunals and Inquiries Act 1971 (c. 62)
+
+**2** [^F16]1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F17]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The 1975 Act
+
+**[^F18]3** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F19]4** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F20]5** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### House of Commons Disqualification Act 1975 (c. 24)
+
+### Northern Ireland Assembly Disqualification Act 1975 (c. 25)
+
+**6** In the House of Commons Disqualification Act 1975 and the Northern Ireland Assembly Disqualification Act 1975, in Part II of Schedule 1 (bodies of which all members are disqualified), there shall be inserted, at the appropriate places in alphabetical order,— “ The Disability Living Allowance Advisory Board ”.
+
+### House of Commons Disqualification Act 1975
+
+**7** In the House of Commons Disqualification Act 1975, in Part III of Schedule 1 (other disqualifying offices) in—
+
+(a) the entry beginning “A member of a panel appointed under section 7 of the Tribunals and Inquiries Act 1971”;
+
+(b) the entry beginning “A regional or other full-time Chairman”; and
+
+(c) the entry for the President of Social Security Appeal Tribunals and Medical Appeal Tribunals,
+
+for the words “and Medical Appeal Tribunals” there shall be substituted the words “ , Medical Appeal Tribunals and Disability Appeal Tribunals ”.
+
+### Social Security (Miscellaneous Provisions) Act 1977 (c. 5)
+
+**[^F21]8** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Capital Gains Tax Act 1979 (c. 14)
+
+**[^F22]9** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Social Security Act 1980 (c. 30)
+
+**[^F23]10** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F24]11** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Transport Act 1982 (c. 49)
+
+**12** In section 70(2)(a) of the Transport Act 1982 (payments in respect of applicants for exemption from wearing seat belts) after sub-paragraph (i) there shall be inserted—
+
+> (iA) a disability living allowance under section 37ZA of that Act;
+
+.
+
+### Value Added Tax Act 1983 (c. 55)
+
+**[^F25]13** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Inheritance Tax Act 1984 (c. 51)
+
+**14** (1) In section 74(4) of the Inheritance Tax Act 1984 (disabled persons for purposes of provisions about pre-1981 trusts for disabled persons) after paragraph (b) there shall be inserted
+
+> , or
+>
+> (c) is in receipt of a disability living allowance under section 37ZA of the Social Security Act 1975 by virtue of entitlement to the care component at the highest or middle rate.
+
+.
+
+(2) In section 89(4) of that Act (disabled persons for purposes of provisions about other trusts for disabled persons) after paragraph (b) there shall be inserted
+
+> , or
+>
+> (c) in receipt of a disability living allowance under section 37ZA of the Social Security Act 1975 by virtue of entitlement to the care component at the highest or middle rate.
+
+.
+
+### The 1986 Act
+
+**[^F26]15** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F27]16** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F28]17** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Income and Corporation Taxes Act 1988 (c. 1)
+
+**18** [^F29]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Social Security Act 1989 (c. 24)
+
+**[^F30]19** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Capital Allowances Act 1990 (c. 1)
+
+**[^F31]20** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F32]21** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Courts and Legal Services Act 1990 (c. 41)
+
+**22** In Schedule 11 to the Courts and Legal Services Act 1990 (judges etc barred from legal practice) the following entry shall be substituted for the entry beginning “President of Social Security Appeal Tribunals”— “ President of social security appeal tribunals, medical appeal tribunals and disability appeal tribunals or regional or other full-time chairman of such tribunals ”.
+
+## SCHEDULE 3 — Disability Working Allowance: Amendments
+
+*Section 7.*
+
+### [^F33]Part I
+
+#### Administration
+
+**1** The 1986 Act shall be amended as follows.
+
+**2** The following paragraph shall be inserted after section 51(2)(d)—
+
+> (dd) disability working allowance;
+
+.
+
+#### Adjudication
+
+**3** (1) The following subsection shall be inserted after section 52(3)—
+
+> (3A) Subject to subsections (9) and (10) below, the following provisions of the Social Security Act 1975 shall have effect for the purposes of disability working allowance as they have effect for the purposes of attendance allowance and disability living allowance—
+>
+> (a) those mentioned in subsection (3) above;
+>
+> (b) section 104A; and
+>
+> (c) sections 115A to 115D.
+
+.
+
+(2) In subsection (4) of that section—
+
+(a) after the words “virtue of subsection (3)” there shall be inserted the words “ or (3A) ”; and
+
+(b) at the end there shall be added the words “ or in relation to disability working allowance ”.
+
+(3) The following subsections shall be added at the end of that section—
+
+> (9) In their application to disability working allowance the provisions of the Social Security Act 1975 mentioned in subsection (3A) above shall have effect as if—
+>
+> (a) in sections 100A(2)(b) and 104A(1)(b), for the words “any relevant” there were substituted the words “any prescribed”;
+>
+> (b) sections 100A(2)(c), (3), (4) and (11), 100C(2) to (5), 100D(4) to (6), 104A(1)(c) and (d), (2) and (5) and 115C(4) were omitted;
+>
+> (c) the following subsection were substituted for section 104A(9)—
+>
+> (9) Subsections (3A) and (5) of section 104 above shall apply in relation to a review under this section as they apply to a review under that section but as if—
+>
+> (a) in subsection (3A), “(3)” were substituted for “(2)”; and
+>
+> (b) subsection (5)(a) were omitted.
+>
+> (d) the following subsection were substituted for section 115C(3)—
+>
+> (3) An adjudication officer may refer for advice any case relating to attendance allowance or disability living allowance to a medical practitioner who is an officer of the Secretary of State. ;and
+>
+> (e) the following subsection were substituted for section 115C(5)—
+>
+> (5) A medical practitioner who is an officer of the Secretary of State and to whom a question relating to attendance allowance or disability living allowance is referred under section 115A above may obtain information about it from another medical practitioner.
+>
+> (10) In their application to disability working allowance sections 100A(1) and (2)(b) and 104A(1)(b) of the Social Security Act 1975 shall have effect subject to section 20(6F) above.
+
+.
+
+#### Overpayments
+
+**4** The following paragraph shall be inserted after section 53(10)(d)—
+
+> (e) disability working allowance;
+
+.
+
+#### Annual up-rating of benefits
+
+**5** In section 63—
+
+(a) in subsection (1)(i) after the words “section 21(6)(a)” there shall be inserted the words “ or (aa) ”; and
+
+(b) the following sub-paragraph shall be inserted after subsection (13)(b)(ii)—
+
+> (iii) to disability working allowance,
+
+.
+
+#### Reciprocal arrangements
+
+**6** In section 65(4) after the words “family credit” there shall be inserted the words “ , disability working allowance ”.
+
+#### Crown employment
+
+**7** In section 79(3) after the words “family credit” there shall be inserted the words “ and disability working allowance ”.
+
+#### Financial provision
+
+**8** In section 85—
+
+(a) the following sub-paragraph shall be inserted after subsection (1)(a)(ii)—
+
+> (iiA) disability working allowance;
+
+; and
+
+(b) in subsection (9) after the words “family credit,” there shall be inserted the words “ disability working allowance, ”.
+
+### [[^F34]Part II — Amendments of Other Acts]
+
+#### Child Care Act 1980 (c.5)
+
+**9** In section 45(1A) of the Child Care Act 1980 (no liability to contribute to maintenance) for the words “or family credit” there shall be substituted the words “ , family credit or disability working allowance ”.
+
+#### Transport Act 1982 (c.49)
+
+**10** In section 70(2)(b) of the Transport Act 1982 (payments in respect of applicants for exemption from wearing seat belts) for the words “or family credit” there shall be substituted the words “ , family credit or disability working allowance ”.
+
+#### Income and Corporation Taxes Act 1988 (c.1)
+
+**11** In section 617(2)(a) of the Income and Corporation Taxes Act 1988 (treatment of social security benefits and contributions for tax purposes) after the words “family credit” there shall be inserted the words “ , disability working allowance ”.
+
+#### Education Reform Act 1988 (c.40)
+
+**[^F35]12** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Children Act 1989 (c.41)
+
+**13** In section 17(9) of the Children Act 1989 (no repayment of assistance) for the words “or family credit” there shall be substituted the words “ , family credit or disability working allowance ”.
+
+**14** In section 29(3) of that Act (no recoupment of costs) for the words “or family credit” there shall be substituted the words “ , family credit or disability working allowance ”.
+
+**15** In paragraph 21(4) of Part III of Schedule 2 to that Act (no liability to contribute to maintenance) for the words “or family credit” there shall be substituted the words “ , family credit or disability working allowance ”.
+
+## SCHEDULE 4 — Repeals
+
+*Section 10.*
+
+|  |  |  |
+|---|---|---|
+| Chapter | Short title | Extent of repeal |
+| 1975 c. 14. | Social Security Act 1975. | Section 34(1)(cc).In section 35—in subsection (2), the words from “that specified” to “as being”;in subsection (2B)(a)(i), the words “the date determined under section 105 or 106 below as”;subsection (4)(b) and the word “and” immediately preceding it;subsection (5); andin subsection (6)(b), the words from “or to young” to the end.Section 37A.In section 101(5A), the words “of a social security appeal tribunal”.Sections 105 and 106.Section 115A(2)(f).Section 115B(2)(e).Section 135(2)(cc).Section 140.In section 165D(4), in paragraph (a) of the definition of “adjudicating authority”, the words “the Attendance Allowance Board,”.In Schedule 4, in Part III, paragraph 3A.Schedule 11.In Schedule 16, in Part II, paragraph 7. |
+| 1975 c. 24. | House of Commons Disqualification Act 1975. | In Schedule 1, in Part II, the entry relating to the Attendance Allowance Board. |
+| 1975 c. 60. | Social Security Pensions Act 1975. | Section 22.In Schedule 4, paragraphs 47 and 52. |
+| 1977 c. 49. | National Health Service Act 1977. | In Schedule 15, paragraph 64. |
+| 1978 c. 29. | National Health Service (Scotland) Act 1978. | In Schedule 16, paragraph 40. |
+| 1979 c. 18. | Social Security Act 1979. | Section 2(4).Section 3. |
+| 1982 c. 49. | Transport Act 1982. | Section 70(2)(a)(ii). |
+| 1983 c. 55. | Value Added Tax Act 1983. | In Schedule 5, in the seventh note to Group 14, the words “section 37A of the Social Security Act 1975 or”. |
+| 1986 c. 50. | Social Security Act 1986. | Sections 71 and 72.In Schedule 5, paragraph 11. |
+| 1988 c. 7. | Social Security Act 1988. | In section 1(2), in paragraph (a), the words from “by” to “that Act”, in paragraph (b), the words “by the Board or by such a delegate”, in paragraph (c), the words from “by the Board” to “1975” and the word “and”, and paragraph (d). |
+| 1989 c. 24. | Social Security Act 1989. | Section 8.In Schedule 2, in Part I, paragraph (b) of the entry relating to adjudicating bodies.In Schedule 3, paragraph 8.In Schedule 7, paragraph 14. |
+| 1990 c. 27. | Social Security Act 1990. | Section 1(3), (4) and (5). |
+
+---
+
+[^F1]: S. 1 repealed (1.7.1992) by Social Security (Consequential Provisions) Act 1992 c. 6, ss. 3, 7(2), Sch.1
+[^F2]: S. 2(1) repealed (1.7.1992) by Social Security (Consequential Provisions) Act 1992 c. 6, ss. 3, 7(2), Sch.1
+[^F3]: S. 3 repealed (1.7.1992) by Social Security (Consequential Provisions) Act 1992 c. 6, ss. 3, 7(2), Sch.1
+[^F4]: S. 4(1) repealed (1.7.1992) by Social Security (Consequential Provisions) Act 1992 c. 6, ss. 3, 7(2), Sch.1
+[^F5]: S. 5 repealed (1.7.1992) by Social Security (Consequential Provisions) Act 1992 c. 6, ss. 3, 7(2), Sch.1
+[^F6]: S. 6 repealed (1.7.1992) by Social Security (Consequential Provisions) Act 1992 c. 6, ss. 3, 7(2), Sch.1
+[^F7]: S. 7(1) repealed (1.7.1992) by Social Security (Consequential Provisions) Act 1992 c. 6, ss. 3, 7(2), Sch.1
+[^F8]: S. 8 repealed (1.7.1992) by Social Security (Consequential Provisions) Act 1992 c. 6, ss. 3, 7(2), Sch.1
+[^F9]: S. 9 repealed (1.7.1992) by Social Security (Consequential Provisions) Act 1992 c. 6, ss. 3, 7(2), Sch.1
+[^F10]: Ss. 11-14 repealed (1.7.1992) by Social Security (Consequential Provisions) Act 1992 c. 6, ss. 3, 7(2), Sch.1
+[^F11]: Ss. 11-14 repealed (1.7.1992) by Social Security (Consequential Provisions) Act 1992 c. 6, ss. 3, 7(2), Sch.1
+[^F12]: Ss. 11-14 repealed (1.7.1992) by Social Security (Consequential Provisions) Act 1992 c. 6, ss. 3, 7(2), Sch.1
+[^F13]: Ss. 11-14 repealed (1.7.1992) by Social Security (Consequential Provisions) Act 1992 c. 6, ss. 3, 7(2), Sch.1
+[^M1]: 1975 c. 24.
+[^M2]: 1983 c. 55.
+[^F14]: Sch. 1 repealed (1.7.1992) by Social Security (Consequential Provisions) Act 1992 c. 6, ss. 3, 7(2), Sch.1
+[^F15]: Sch. 2 para. 1 repealed (1.9.1994) by 1994 c. 22, ss. 65, 66 (with s. 57(4))
+[^F16]: Sch. 2 para. 2(1) repealed (1.10.1992) by Tribunals and Enquiries Act 1992 c. 53, ss. 18(2), 19(2), Sch. 4 Pt.I
+[^F17]: Sch. 2 para. 2(2) repealed (1.7.1992) by Social Security (Consequential Provisions) Act 1992 c. 6, ss. 3, 7(2), Sch. 1
+[^F18]: Sch. 2 paras. 3-5 repealed (1.7.1992) by Social Security (Consequential Provisions) Act 1992 c. 6, ss. 3, 7(2), Sch.1
+[^F19]: Sch. 2 paras. 3-5 repealed (1.7.1992) by Social Security (Consequential Provisions) Act 1992 c. 6, ss. 3, 7(2), Sch.1
+[^F20]: Sch. 2 paras. 3-5 repealed (1.7.1992) by Social Security (Consequential Provisions) Act 1992 c. 6, ss. 3, 7(2), Sch.1
+[^F21]: Sch. 2 para. 8 repealed (1.7.1992) by Social Security (Consequential Provisions) Act 1992 c. 6, ss. 3, 7(2), Sch.1
+[^F22]: Sch. 2 para. 9 repealed (6.4.1992 with effect as mentioned in s. 289(1) of the repealing Act) by Taxation of Chargable Gains Act 1992 c. 12 ss. 289(1), 290, Sch.12 (with ss. 60, 101(1), 201(3), Sch. 11 paras. 20, 22, 26(2), 27)
+[^F23]: Sch. 2 para. 10 repealed (1.7.1992) by Social Security (Consequential Provisions) Act 1992 c. 6, ss. 3, 7(2), Sch.1
+[^F24]: Sch. 2 para. 11 repealed (1.7.1992) by Social Security (Consequential Provisions) Act 1992 c. 6, ss. 3, 7(2), Sch.1
+[^F25]: Sch. 2 para. 13 repealed (1.9.1994) by 1994 c. 23, ss. 100(2), 101(1), Sch. 15
+[^F26]: Sch. 2 paras. 15-17 repealed (1.7.1992) by Social Security (Consequential Provisions) Act 1992 c. 6, ss. 3, 7(2), Sch.1
+[^F27]: Sch. 2 paras. 15-17 repealed (1.7.1992) by Social Security (Consequential Provisions) Act 1992 c. 6, ss. 3, 7(2), Sch.1
+[^F28]: Sch. 2 paras. 15-17 repealed (1.7.1992) by Social Security (Consequential Provisions) Act 1992 c. 6, ss. 3, 7(2), Sch.1
+[^F29]: Sch. 2 para. 15 repealed (6.4.2003 with effect as mentioned in s. 723(1) of the amending Act) by Income Tax (Earnings and Pensions) Act 2003 (c. 1), ss. 723, 724, Sch. 8 Pt. 1 (with Sch. 7)
+[^F30]: Sch. 2 para. 19 repealed (1.7.1992) by Social Security (Consequential Provisions) Act 1992 c. 6, ss. 3, 7(2), Sch.1
+[^F31]: Sch. 2 para. 20 repealed (22.3.2001 with effect as mentioned in s. 579(1) of the amending Act) by 2001 c. 2, s. 580, Sch. 4
+[^F32]: Sch. 2 para. 21 repealed (22.3.2001 with effect as mentioned in s. 579(1) of the amending) by 2001 c. 2, s. 580, Sch. 4
+[^F33]: Sch. 3 Pt. I repealed (1.7.1992) by Social Security (Consequential Provisions) Act 1992 c. 6 , ss. 3, 7(2), Sch.1
+[^F34]: Sch. 3 Pt. 2 repealed (6.4.2003) by 2002 c. 21, ss. 60, 61, Sch. 6; S.I. 2003/962, art. 2(3)(e), Sch. 1 (with arts. 3, 4)
+[^F35]: Sch. 3 para. 12 repealed (1.11.1996) by 1996 c. 56, ss. 582(2), 583(2), Sch. 38 Pt. I (with ss. 1(4), 561, 562, Sch. 39)

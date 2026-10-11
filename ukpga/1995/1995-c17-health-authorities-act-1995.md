@@ -1,0 +1,2188 @@
+---
+title: "Health Authorities Act 1995"
+identifier: "ukpga/1995/17"
+citation: "1995 c. 17"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S+N.I."
+date: 1995-06-28
+last_amended: 2013-04-01
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/1995/17"
+source_modified: 2024-05-17
+retrieved: 2026-10-11
+---
+
+# Health Authorities Act 1995
+
+**1995 c. 17**
+
+An Act to abolish Regional Health Authorities, District Health Authorities and Family Health Services Authorities, require the establishment of Health Authorities and make provision in relation to Health Authorities and Special Health Authorities and for connected purposes.
+
+[28th June 1995]
+
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## [^F1]1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 2 Related amendments.
+
+(1) Schedule 1 shall have effect for making—
+
+(a) amendments consequential on, or otherwise connected with, the provision made by section 1(1), and
+
+(b) other amendments relating to Health Authorities and Special Health Authorities.
+
+(2) The Secretary of State may by order make in any local Act such amendments as appear appropriate in consequence of, or otherwise in connection with, the provision made by section 1(1) or by subsection (1) (and Schedule 1).
+
+(3) Subject to section 8, subsection (1) (and Schedule 1) shall not come into force until 1st April 1996.
+
+## 3 [[^F2]Preparations for reorganisation of authorities.
+
+(1) The functions of Regional Health Authorities, District Health Authorities and Family Health Services Authorities shall include the power to do anything which appears appropriate for facilitating the implementation of any provision made by or by virtue of this Act.
+
+(2) The Secretary of State may by regulations provide for functions exercisable by a Family Health Services Authority to be exercisable—
+
+(a) on their behalf—
+
+(i) by a District Health Authority or two or more District Health Authorities jointly, or
+
+(ii) by a joint DHA/FHSA committee, or
+
+(b) by them jointly with one or more District Health Authorities.
+
+(3) The Secretary of State may by regulations provide for functions exercisable by a District Health Authority to be exercisable—
+
+(a) on their behalf—
+
+(i) by two or more Family Health Services Authorities jointly, or
+
+(ii) by a joint DHA/FHSA committee, or
+
+(b) by them jointly with one or more Family Health Services Authorities.
+
+(4) Regulations made under this section in respect of any function shall not, except in prescribed cases, preclude an authority by whom the function is exercisable apart from the regulations from exercising the function.
+
+(5) In this section—
+
+- “District Health Authority” and “functions” have the same meanings as in the [^M1]National Health Service Act 1977,
+- “joint DHA/FHSA committee” means a joint committee, or joint sub-committee, of—
+
+(a) one or more District Health Authorities, and
+
+(b) one or more Family Health Services Authorities, and
+
+“prescribed” means prescribed by regulations made under this section.
+
+(6) The powers to make regulations conferred by this section are in addition to the power conferred by section 16 of the [^M2]National Health Service Act 1977 (which, in particular, permits the making of regulations providing for functions exercisable by a District Health Authority to be exercisable on their behalf by a Family Health Services Authority).
+
+(7) Section 17 of the [^M3]National Health Service Act 1977 (directions as to exercise of functions) applies in relation to functions exercisable under or by virtue of this section as if they were exercisable by virtue of section 16 of that Act; and the provisions of that Act relating to directions given in pursuance of section 17 apply accordingly.
+
+[^F3]8 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(9) Section 125 of the [^M4]National Health Service Act 1977 (protection of members and officers of authorities) applies as if this section were contained in that Act.
+
+(10) This section (apart from subsection (8)) shall cease to have effect on 1st April 1996.]
+
+## 4 Transitional provisions and savings.
+
+(1) Schedule 2 shall have effect for making, and conferring powers to make, transitional provisions and savings in connection with the provisions of this Act.
+
+(2) Subject to section 8, subsection (1) (and Schedule 2) shall not come into force until 1st April 1996.
+
+## 5 Repeals and revocations.
+
+(1) The enactments and instruments specified in Schedule 3 (which include spent provisions) are repealed or revoked to the extent specified in the third column of that Schedule.
+
+(2) Except so far as relating to the repeal in section 18(3) of the [^M5]National Health Service Act 1977, subsection (1) (and Schedule 3) shall not come into force until 1st April 1996.
+
+## 6 Subordinate instruments.
+
+(1) Subject to subsection (2), any power to make an order or regulations under this Act shall be exercisable by statutory instrument.
+
+(2) Subsection (1)—
+
+(a) does not apply to the power conferred by paragraph 2 of Schedule 2, and
+
+(b) does not apply to the power conferred by paragraph 4 of that Schedule unless it is exercised in relation to property which consists of or includes trust property.
+
+(3) A statutory instrument containing an order or regulations made under this Act, other than a statutory instrument containing only an order made under section 9(3), shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(4) Where any provision of this Act confers power to make an order or a scheme, the provision includes power to vary or revoke any order or scheme previously made under the provision.
+
+(5) Subsection (4) is without prejudice to the operation of section 14 of the [^M6]Interpretation Act 1978 (implied power to amend regulations, orders made by statutory instrument etc.) in relation to this Act.
+
+(6) Subsections (4) and (5) of section 126 of the [^M7]National Health Service Act 1977 (supplementary provisions about orders etc. made under that Act) apply in relation to orders, regulations and schemes made under this Act as if the provisions of this Act were contained in that Act.
+
+## 7 Financial provisions.
+
+(1) There shall be paid out of money provided by Parliament—
+
+(a) any expenditure of the Secretary of State under this Act, and
+
+(b) any increase attributable to this Act in the sums payable out of money so provided under any other Act.
+
+(2) Any sums received by the Secretary of State by virtue of this Act shall be paid into the Consolidated Fund.
+
+## 8 Commencement of provisions conferring functions.
+
+(1) Section 1(1), section 2(1) (and Schedule 1) and section 4(1) (and Schedule 2) shall come into force on the passing of this Act so far as is necessary for enabling the making of any regulations, orders, directions, schemes or appointments for which they provide.
+
+(2) Subsection (1) is without prejudice to the operation of section 13 of the [^M8]Interpretation Act 1978 (anticipatory exercise of powers) in relation to this Act.
+
+## 9 Extent.
+
+(1) Sections 1 and 3, and paragraphs 1 to 15 of Schedule 2, extend to England and Wales only.
+
+(2) The amendment of any enactment made by section 2(1) (and Schedule 1), and the repeal or revocation of any enactment or instrument made by section 5(1) (and Schedule 3), has the same extent as the provision amended, repealed or revoked.
+
+(3) The Secretary of State may by order provide that this Act shall apply in relation to the Isles of Scilly subject to such modifications as are specified in the order.
+
+## 10 Short title.
+
+This Act may be cited as the Health Authorities Act 1995.
+
+## SCHEDULE 1 — Amendments
+
+*Section 2(1).*
+
+### Part I — Amendments of the National Health Service Act 1977
+
+**1** The [^M9]National Health Service Act 1977 shall be amended as follows.
+
+**2** In section 11 (special health authorities)—
+
+(a) in subsection (1), for “an District Health Authority or a Family Practitioner Committee” substitute “ a Health Authority ”,
+
+(b) in subsection (3), for “special health authority” substitute “ Special Health Authority ”, and
+
+(c) for the sidenote substitute “ Special Health Authorities. ”
+
+**3** Section 12 (supplementary provisions about health authorities) shall be renumbered as subsection (2) of that section and—
+
+[^F4]a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) in that subsection as so renumbered, for paragraphs (a) to (c) substitute—
+
+> (a) Health Authorities established under section 8 above; and
+>
+> (b) any Special Health Authority established under section 11 above.
+
+, and
+
+(c) in the sidenote, for “to” substitute “ and ”.
+
+**[^F5][^F6]4** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**5** Omit section 14 (Regional Health Authority’s directions).
+
+**6** In section 15 (duty of Family Health Services Authority)—
+
+(a) in subsection (1)—
+
+(i) for the words from “each” to “Regional Health Authority” substitute “ each Health Authority, in accordance with regulations ”, and
+
+(ii) for “locality” substitute “ area ”,
+
+(b) omit subsection (1A),
+
+[^F7]c . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F8]d . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(e) for the sidenote substitute “ Duty of Health Authority in relation to family health services. ”
+
+**7** For section 16 substitute—
+
+> **Exercise of functions.**
+>
+> **16** (1) Regulations may provide for functions exercisable by a Health Authority under or by virtue of this Act or the [^M10]National Health Service and Community Care Act 1990, or under or by virtue of any prescribed provision of any other Act, to be exercisable—
+>
+> (a) on behalf of the Health Authority—
+>
+> (i) by another Health Authority;
+>
+> (ii) by a committee or sub-committee, or an officer, of the Health Authority or another Health Authority;
+>
+> (iii) by a joint committee, or joint sub-committee, of the Health Authority and one or more other Health Authorities;
+>
+> (iv) by a Special Health Authority; or
+>
+> (v) by an officer of a Special Health Authority; or
+>
+> (b) by the Health Authority jointly with one or more other Health Authorities.
+>
+> (2) Regulations may provide for functions exercisable by a Special Health Authority by virtue of section 11 or 13 above to be exercisable—
+>
+> (a) on behalf of the Special Health Authority—
+>
+> (i) by another Special Health Authority;
+>
+> (ii) by a committee or sub-committee, or an officer, of the Special Health Authority or another Special Health Authority; or
+>
+> (iii) by a joint committee, or joint sub-committee, of the Special Health Authority and one or more other Special Health Authorities; or
+>
+> (b) by the Special Health Authority jointly with one or more other Special Health Authorities.
+
+**8** For section 17 substitute—
+
+> **Directions as to exercise of functions.**
+>
+> **17** (1) The Secretary of State may give directions with respect to the exercise—
+>
+> (a) by Health Authorities of any functions exercisable by them under or by virtue of this or any other Act; and
+>
+> (b) by Special Health Authorities of any functions exercisable by them by virtue of section 11 or 13 above or under the [^M11]National Health Service and Community Care Act 1990.
+>
+> (2) It shall be the duty of a Health Authority or Special Health Authority to whom directions are given under subsection (1) above to comply with the directions.
+
+**9** In section 18 (general provisions about directions)—
+
+(a) in subsection (1), for “13 to 17” substitute “ 11 to 17 ”,
+
+(b) omit subsection (2),
+
+(c) in subsection (3)—
+
+(i) for “13” substitute “ 11 ”, and
+
+(ii) for “a body or” substitute “ an authority or a ”, and
+
+(d) for the sidenote substitute “ Directions and regulations under ss.11 to 17. ”
+
+**10** In section 19 (local advisory committees)—
+
+(a) in subsection (1), omit—
+
+(i) “, or for the region of a Regional Health Authority,”, and
+
+(ii) “or of the region”,
+
+(b) in subsection (2), omit paragraph (b),
+
+(c) omit subsection (3),
+
+(d) in subsection (4), for “subsections (1) and (3)” substitute “ subsection (1) ”, and
+
+(e) in the sidenote and the heading immediately preceding that section, for “Local advisory committees” substitute “ Advisory committees for Wales ”.
+
+**[^F9]11** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**12** In section 22 (co-operation between health authorities and local authorities)—
+
+(a) in subsection (1), for “health authorities, Family Practitioner Committees and local authorities” substitute “ Health Authorities and Special Health Authorities (on the one hand) and local authorities (on the other) ”,
+
+(b) in subsection (2), after “who shall” insert “ advise ”,
+
+(c) omit the Table,
+
+(d) for subsection (3) substitute—
+
+> (3) Except as provided by an order under the following provisions of this section, each joint consultative committee shall represent one or more Health Authorities together with, in the case of each, one or more associated local authorities; and a Health Authority shall be represented together with each of the local authorities associated with that Health Authority in one or other of the committees (but not necessarily the same committee).
+>
+> (3ZA) For the purposes of subsection (3) above a local authority is associated with a Health Authority if it is a local authority whose area is wholly or partly within the area of the Health Authority.
+
+, and
+
+(e) in subsection (4)(b), for the words from “an Area” to the end substitute “ a Health Authority to be represented on a joint consultative committee together with a local authority none of whose area is within the area of the Health Authority; ”.
+
+**13** In section 23 (voluntary organisations and other bodies), in subsection (2), for “health authority” substitute “ Health Authority or Special Health Authority ”.
+
+**14** In section 26 (supply of goods and services by Secretary of State)—
+
+(a) for “health authority” (in each place) substitute “ Health Authority or Special Health Authority ”, and
+
+(b) in subsection (4)(b), for “health authorities” substitute “ Health Authorities or Special Health Authorities ”.
+
+**15** In section 27 (conditions of supply under section 26)—
+
+(a) in subsection (1), for “health authority” (in both places) substitute “ Health Authority or Special Health Authority ”, and
+
+(b) in subsection (3)—
+
+(i) for “health authorities” substitute “ Health Authorities and Special Health Authorities ”, and
+
+(ii) for “health authority’s duty” substitute “ duty of Health Authorities and Special Health Authorities ”.
+
+**16** In section 28 (supply of goods and services by local authorities)—
+
+(a) in subsection (1), for “health authority” substitute “ Health Authority and any Special Health Authority ”, and
+
+(b) in subsection (3), for “health authorities” (in both places) substitute “ Health Authorities, Special Health Authorities ”.
+
+**17** In section 28A (power to make payments towards expenditure on community services)—
+
+(a) in subsection (1), for the words from “authorities” to “established” substitute
+
+> authorities—
+>
+> (a) a Health Authority; and
+>
+> (b) a Special Health Authority established
+
+, and
+
+(b) in subsection (7)(a), for “districts” substitute “ areas ”.
+
+**[^F10]18** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F10]19** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F10]20** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F10]21** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F10]22** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F10]23** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**24** [^F10]In section 35 (arrangements for general dental services), in subsection (1)—
+
+[^F10]a [^F10]for “Family Practitioner Committee” substitute [^F10]“ Health Authority ”[^F10], and
+
+[^F10]b [^F10]for “locality” (in both places) substitute [^F10]“ area ”[^F10].
+
+**25** [^F10]In section 36 (regulations as to section 35)—
+
+[^F10]a [^F10]in subsection (1)(d), for “locality” (in both places) substitute [^F10]“ area ”[^F10], and
+
+[^F10]b [^F10]in subsection (2)—
+
+[^F10]i [^F10]for “Family Practitioner Committee” substitute [^F10]“ Health Authority ”[^F10],
+
+[^F10]ii [^F10]for “the Committee” substitute [^F10]“ the Health Authority ”[^F10], and
+
+[^F10]iii [^F10]for “Committee’s locality” substitute [^F10]“ Health Authority’s area ”[^F10].
+
+**26** [^F10]In section 37 (Dental Practice Board), in subsection (1)(b), for “an Area or District Health Authority” substitute [^F10]“ a Health Authority ”[^F10].
+
+**27** In section 38 (arrangements for general ophthalmic services), in subsection (1)—
+
+(a) for “Family Practitioner Committee” substitute “ Health Authority ”, and
+
+(b) for “locality” substitute “ area ”.
+
+**28** In section 39 (regulations as to section 38), in paragraph (d), for “locality” (in both places) substitute “ area ”.
+
+**[^F11]29** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**30** In section 42 (regulations as to pharmaceutical services)—
+
+(a) in subsection (1)—
+
+(i) for “Family Practitioner Committee” substitute “ Health Authority ”, and
+
+(ii) for “Committee’s locality” substitute “ Health Authority’s area ”,
+
+(b) in subsection (2)—
+
+(i) for “a Committee” (in both places) substitute “ a Health Authority ”,
+
+(ii) for “Committee’s locality” substitute “ Health Authority’s area ”, and
+
+(iii) for “Committee is” substitute “ Health Authority are ”, and
+
+(c) in subsection (3)—
+
+(i) for “Committee” (in each place) substitute “ Health Authority ”,
+
+(ii) for “Committee’s locality.” substitute “ Health Authority’s area; ”,
+
+(iii) for “Family Health Services Authority in whose locality” substitute “ Health Authority in whose area ”, and
+
+(iv) for “that Family Health Services Authority may give its” substitute “ that Health Authority may give their ”.
+
+**31** In section 43 (persons authorised to provide pharmaceutical services), in subsection (1), for “a Family Practitioner Committee” substitute “ a Health Authority ”.
+
+**32** In section 44 (recognition of local representative committees)—
+
+(a) in subsection (1)—
+
+(i) for “Family Health Services Authority is satisfied” substitute “ Health Authority are satisfied ”,
+
+(ii) for “its locality” substitute “ their area ”,
+
+(iii) for “locality”, in each other place, substitute “ area ”, and
+
+(iv) for “the Family Health Services Authority” substitute “ the Health Authority ”, and
+
+[^F12]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**33** In section 45 (functions of local representative committees)—
+
+(a) for “Family Practitioner Committee” (in each place) substitute “ Health Authority ”,
+
+(b) in subsection (1), for “a locality” substitute “ an area ”, and
+
+(c) in subsection (2), for “locality” substitute “ area ”.
+
+**[^F13]34** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**35** Section 51 (university clinical teaching and research) shall be renumbered as subsection (1) of that section and—
+
+(a) in that subsection as so renumbered, for “make available, in premises provided by him by virtue of this Act,” substitute “ exercise his functions under this Act and Part I of the [^M12]National Health Service and Community Care Act 1990 so as to secure that there are made available ”, and
+
+(b) after that subsection insert—
+
+> (2) Regulations may provide for any functions exercisable by a Health Authority or Special Health Authority in relation to the provision of facilities such as are mentioned in subsection (1) above to be exercisable by the Health Authority or Special Health Authority jointly with one or more other relevant health service bodies.
+>
+> (3) For the purposes of subsection (2) above the following are relevant health service bodies—
+>
+> (a) Health Authorities;
+>
+> (b) Special Health Authorities; and
+>
+> (c) NHS trusts.
+
+**[^F14]36** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**37** In section 56 (inadequate services)—
+
+(a) for “the locality of a Family Practitioner Committee or part of the locality of such a Committee” substitute “ the area, or part of the area, of a Health Authority ”,
+
+(b) for the words from “in question” to “are not” substitute “ in question in that area or part, or that for any other reason any considerable number of persons in any such area or part are not ”, and
+
+(c) for “the Family Practitioner Committee” substitute “ the Health Authority ”.
+
+**38** In section 65 (accommodation and services for private patients)—
+
+(a) in subsection (1)—
+
+(i) for “District or Special Health Authority” substitute “ Health Authority or Special Health Authority ”,
+
+(ii) for the words from “available, such charges” to “satisfied” substitute “ available, such charges as the Health Authority or Special Health Authority may determine and may make and recover such charges as they may determine in respect of such accommodation and services and calculate those charges on any basis that they consider to be the appropriate commercial basis; but they shall do so only if and to the extent that they are satisfied ”, and
+
+(iii) for “the Authority of any function conferred on the Authority under” substitute “ the Health Authority or Special Health Authority of any function conferred on them under ”,
+
+(b) in subsection (1A), for “District or Special Health Authority” substitute “ Health Authority or Special Health Authority ”,
+
+(c) in subsection (2), for “A District or Special Health Authority” substitute “ A Health Authority or Special Health Authority ”, and
+
+(d) in subsection (3)—
+
+(i) for “District or Special Health Authority” substitute “ Health Authority or Special Health Authority ”, and
+
+(ii) for “an authority” substitute “ a Health Authority or Special Health Authority ”.
+
+**39** In section 83 (sums payable to persons providing services), for—
+
+(a) the words in paragraph (a) from “a Regional” to “Committee”, and
+
+(b) the words in paragraph (b) from “an Area” to “Committee”,
+
+substitute “ a Health Authority or Special Health Authority ”.
+
+**40** In section 83A (remission and repayment of charges and payment of travelling expenses), in subsection (1)(c), for “District Health Authority” (in both places) substitute “ Health Authority ”.
+
+**41** In section 85 (default powers), in subsection (1), for paragraphs (a) to (g) substitute—
+
+> (a) a Health Authority;
+>
+> (b) a Special Health Authority;
+>
+> (c) an NHS trust;
+>
+> (d) the Medical Practices Committee; or
+>
+> (e) the Dental Practice Board;
+
+.
+
+**42** In section 90 (gifts on trust), for “health authority” substitute “ Health Authority or Special Health Authority ”.
+
+**43** In section 91 (private trusts for hospitals), in subsection (3)(b), for “District Health Authority” substitute “ Health Authority ”.
+
+**44** In section 92 (further transfers of trust property)—
+
+(a) in subsection (1)—
+
+(i) for “health authority”, in the first place, substitute “ Health Authority or Special Health Authority ”, and
+
+(ii) for the words from “from any health authority” to the end substitute “ from any relevant health service body to any other relevant health service body. ”,
+
+(b) after that subsection insert—
+
+> (1A) In this section “relevant health service body” means—
+>
+> (a) a Health Authority;
+>
+> (b) a Special Health Authority;
+>
+> (c) an NHS trust;
+>
+> (d) special trustees; or
+>
+> (e) trustees for an NHS trust.
+
+,
+
+(c) in subsection (2)—
+
+(i) for “one or more health authorities or NHS trusts” substitute “ one or more bodies which are relevant health service bodies by virtue of subsection (1A)(a) to (c) above ”, and
+
+(ii) for the words from “health authority” to the end substitute “ body or, in such proportions as may be specified in the order, to those bodies. ”,
+
+(d) in subsection (3), for “health authorities or NHS trusts and special trustees” substitute “ special trustees and other bodies ”, and
+
+(e) in subsection (4), for “authorities or NHS trusts” substitute “ bodies ”.
+
+**45** In section 96 (trusts: supplementary provisions), in subsection (1A), for “health authority” substitute “ Health Authority or Special Health Authority ”.
+
+**46** In section 96A (power to raise money by appeals, collections etc.)—
+
+(a) in subsection (1), for—
+
+(i) “health authority”, and
+
+(ii) “authority”,
+
+substitute “ Health Authority, Special Health Authority ”,
+
+(b) in subsections (3) and (4), for “health authority, NHS trust or Board” substitute “ Health Authority, Special Health Authority or NHS trust ”,
+
+(c) in subsection (5), for “District Health Authority” substitute “ Health Authority ”,
+
+(d) in subsection (6), omit the words from “to another” to “for an NHS trust”,
+
+(e) in subsections (7) to (9), for—
+
+(i) “health authority, NHS trust or Board” (in each place), and
+
+(ii) “authority, NHS trust or Board” (in each place),
+
+substitute “ Health Authority, Special Health Authority or NHS trust ”, and
+
+(f) in subsection (8), omit—
+
+(i) “or by a Regional Health Authority”, and
+
+(ii) “or that Authority”.
+
+**47** For section 97 substitute—
+
+> **Means of meeting expenditure of Health Authorities and Special Health Authorities out of public funds.**
+>
+> **97** (1) It is the duty of the Secretary of State to pay to each Health Authority sums equal to expenditure of the Health Authority which—
+>
+> (a) is attributable to the payment of remuneration to persons providing services in pursuance of Part II of this Act; but
+>
+> (b) is not expenditure within subsection (2) below.
+>
+> (2) It is also the duty of the Secretary of State to pay in respect of each financial year to each Health Authority sums not exceeding the amount allotted for that year by the Secretary of State to the Health Authority towards meeting the expenditure of the Health Authority which is attributable to the reimbursement of expenses of persons providing services in pursuance of Part II of this Act which are expenses—
+>
+> (a) incurred in connection with the provision of the services (or in giving instruction in matters relating to the services); and
+>
+> (b) of a description specified in the allotment.
+>
+> (3) It is also the duty of the Secretary of State to pay in respect of each financial year to each Health Authority sums not exceeding the amount allotted for that year by the Secretary of State to the Health Authority towards meeting the expenditure of the Health Authority which—
+>
+> (a) is attributable to the performance by the Health Authority of their functions in that year; but
+>
+> (b) is not expenditure within subsection (1) or (2) above.
+>
+> (4) It is the duty of the Secretary of State to pay in respect of each financial year to each Special Health Authority sums not exceeding the amount allotted for that year by the Secretary of State to the Special Health Authority towards meeting the expenditure of the Special Health Authority which is attributable to the performance by the Special Health Authority of their functions in that year.
+>
+> (5) An amount is allotted to a Health Authority or Special Health Authority for a year under this section when they are notified by the Secretary of State that it is allotted to them for that year; and the Secretary of State may make an allotment under this section increasing or reducing an allotment previously so made.
+>
+> (6) The Secretary of State may give directions to a Health Authority or Special Health Authority with respect to—
+>
+> (a) the application of sums paid to them under subsections (1) to (3), or subsection (4), above;
+>
+> (b) the payment of sums by them to the Secretary of State in respect of charges or other sums referable to the valuation or disposal of assets; or
+>
+> (c) the application by them of sums received by them by virtue of section 15(7)(a) of the [^M13]National Health Service and Community Care Act 1990.
+>
+> (7) Where directions have been given to a Health Authority or Special Health Authority under subsection (6) above it is the duty of the Health Authority or Special Health Authority to comply with the directions.
+>
+> (8) Where an order establishing a Special Health Authority provides for any expenditure of the Special Health Authority to be met by a Health Authority or by two or more Health Authorities in portions determined by or in accordance with the order, it is the duty of the Health Authority, or each of the Health Authorities, to pay to the Special Health Authority sums equal to, or to the appropriate portion of, that expenditure.
+>
+> (9) Sums falling to be paid under this section shall be payable subject to compliance with such conditions as to records, certificates or otherwise as the Secretary of State may determine.
+
+**48** For section 97A substitute—
+
+> **Financial duties of Health Authorities and Special Health Authorities.**
+>
+> **97A** (1) It is the duty of every Health Authority, in respect of each financial year, to perform their functions so as to secure that the expenditure of the Health Authority which is attributable to the performance by them of their functions in that year (not including expenditure within subsection (1) of section 97 above) does not exceed the aggregate of—
+>
+> (a) the amounts allotted to them for that year under subsections (2) and (3) of that section;
+>
+> (b) any sums received by them in that year under any provision of this Act (other than sums received by them under that section); and
+>
+> (c) any sums received by them in that year otherwise than under this Act for the purpose of enabling them to defray any such expenditure.
+>
+> (2) It is the duty of every Special Health Authority, in respect of each financial year, to perform their functions so as to secure that the expenditure of the Special Health Authority which is attributable to the performance by them of their functions in that year does not exceed the aggregate of—
+>
+> (a) the amount allotted to them for that year under subsection (4) of section 97 above;
+>
+> (b) any sums received by them in that year under any provision of this Act (other than sums received by them under that subsection); and
+>
+> (c) any sums received by them in that year otherwise than under this Act for the purpose of enabling them to defray any such expenditure.
+>
+> (3) The Secretary of State may give such directions to a Health Authority or Special Health Authority as appear to be requisite to secure that the Health Authority or Special Health Authority comply with the duty imposed on them by subsection (1) or (2) above.
+>
+> (4) Directions under subsection (3) above may be specific in character.
+>
+> (5) Where directions have been given to a Health Authority or Special Health Authority under subsection (3) above it is the duty of the Health Authority or Special Health Authority to comply with the directions.
+>
+> (6) To the extent to which—
+>
+> (a) any expenditure is defrayed by a Health Authority or Special Health Authority as trustee or on behalf of a Health Authority or Special Health Authority by special trustees; or
+>
+> (b) any sums are received by a Health Authority or Special Health Authority as trustee or under section 96A above,
+>
+> that expenditure and, subject to subsection (8) below, those sums shall be disregarded for the purposes of this section.
+>
+> (7) For the purposes of this section sums which, in the hands of a Health Authority or Special Health Authority, cease to be trust funds and become applicable by the Health Authority or Special Health Authority otherwise than as trustee shall be treated, on their becoming so applicable, as having been received by the Health Authority or Special Health Authority otherwise than as trustee.
+>
+> (8) Of the sums received by a Health Authority or Special Health Authority under section 96A above so much only as accrues to the Health Authority or Special Health Authority after defraying any expenses incurred in obtaining them shall be disregarded under subsection (6) above.
+>
+> (9) Subject to subsection (6) above, the Secretary of State may by directions determine—
+>
+> (a) whether sums of a description specified in the directions are, or are not, to be treated for the purposes of this section as received under this Act by a Health Authority or Special Health Authority of a description specified in the directions;
+>
+> (b) whether expenditure of a description specified in the directions is, or is not, to be treated for those purposes as—
+>
+> (i) expenditure within subsection (1) above of a Health Authority of a description so specified; or
+>
+> (ii) expenditure within subsection (2) above of a Special Health Authority of a description so specified; or
+>
+> (c) the extent to which, and the circumstances in which, sums received—
+>
+> (i) by a Health Authority under subsections (1) to (3) of section 97 above; or
+>
+> (ii) by a Special Health Authority under subsection (4) of that section,
+>
+> but not yet spent are to be treated for the purposes of this section as part of the expenditure of the Health Authority or Special Health Authority and to which financial year’s expenditure they are to be attributed.
+
+**49** Omit section 97B (financial duties of Family Health Services Authorities in Wales).
+
+**50** In section 98 (accounts and audit)—
+
+(a) in subsection (1), for paragraphs (a) to (cc) substitute—
+
+> (a) every Health Authority;
+>
+> (b) every Special Health Authority;
+>
+> (c) every NHS trust;
+
+,
+
+[^F15]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F16]c . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(d) omit subsection (5).
+
+**[^F17]51** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**52** In section 103 (special arrangement as to payment of remuneration), in subsection (3), for “Family Health Services Authority which, under Part II of this Act, has” substitute “ Health Authority which, under Part II of this Act, have ”.
+
+**[^F18]53** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**54** In section 105 (payments for certain medical examinations), in subsection (2)(b), for “health authority” substitute “ Health Authority or Special Health Authority ”.
+
+**55** In section 124 (special notices of births and deaths)—
+
+(a) in subsection (2)—
+
+(i) for the words from “prescribed” to “includes” substitute “ Health Authority the area of which includes ”, and
+
+(ii) for “Authority’s area or district as are entered (on and after 1st April 1974)” substitute “ Health Authority’s area as are entered ”,
+
+(b) in subsection (4), for the words from “prescribed” to “district” substitute “ Health Authority for the area ”,
+
+(c) in subsection (5)—
+
+(i) for the words from “prescribed” to “office” substitute “ Health Authority at their offices ”,
+
+(ii) for “that officer’s office” substitute “ the Health Authority’s offices ”,
+
+(iii) for “an Area or District Health Authority” substitute “ a Health Authority ”, and
+
+(iv) omit “or district”,
+
+(d) in subsection (6), for “Area or District Health Authority” substitute “ Health Authority ”, and
+
+(e) in subsection (7), for “medical officer” substitute “ Health Authority ”.
+
+**56** In section 125 (protection of members and officers of authorities), for paragraphs (a) to (d) substitute—
+
+> (a) a Health Authority,
+>
+> (b) a Special Health Authority, and
+>
+> (c) an NHS trust,
+
+.
+
+**57** In section 126 (regulations and directions: general provisions), for the second sentence of subsection (3) substitute—
+
+> (3A) Directions given by the Secretary of State in pursuance of any provision of this Act or Part I of the [^M14]National Health Service and Community Care Act 1990 shall be given by an instrument in writing.
+>
+> (3B) In relation to directions given in pursuance of sections 11 to 17 above section 18 above applies in place of subsections (3) and (3A) above.
+
+**58** In section 128 (interpretation), in subsection (1)—
+
+(a) omit the definitions of “District Health Authority” and “health authority”, and
+
+[^F19]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**59** In Schedule 5 (authorities), insert as Part I (and in substitution for the existing heading of the Schedule)—
+
+> Health Authorities and Special Health Authorities
+>
+> **Part I — Membership of Health Authorities**
+>
+> **1** A Health Authority shall consist of—
+>
+> (a) a chairman appointed by the Secretary of State;
+>
+> (b) not more than a prescribed number of persons (not being officers of the Health Authority) appointed by the Secretary of State; and
+>
+> (c) a prescribed number of officers of the Health Authority.
+>
+> **2** Regulations may provide that all or any of the persons appointed as members of a Health Authority under paragraph 1(b) above—
+>
+> (a) must hold posts of a prescribed description; or
+>
+> (b) must fulfil any other prescribed conditions.
+>
+> **3** Regulations shall provide that each of the persons who is a member of a Health Authority under paragraph 1(c) above must either—
+>
+> (a) hold an office of the Health Authority of a prescribed description; or
+>
+> (b) be appointed by the chairman of the Health Authority and the persons appointed as members of the Health Authority under paragraph 1(b) above.
+>
+> **4** Regulations may provide for a person of a prescribed description who is not an officer of a Health Authority to be treated for the purposes of this Part of this Schedule, and any other prescribed provision relating to members of (or of committees or sub-committees of) Health Authorities, as if he were such an officer.
+
+**60** In Part III of that Schedule (supplementary provisions about authorities)—
+
+(a) in paragraph 8, for the words from “Regional” to “Committee” substitute “ Health Authority and each Special Health Authority ”,
+
+(b) in paragraph 9—
+
+(i) in sub-paragraph (1), omit “or a Regional Health Authority”, and
+
+[^F20]ii . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(c) in paragraph 10—
+
+(i) in sub-paragraph (1)(b), after “employ” insert “ a chief officer and officers of such other descriptions as may be prescribed and to employ ”, and
+
+(ii) in sub-paragraph (3), omit paragraphs (b) and (d),
+
+(d) in paragraph 11, omit—
+
+(i) in sub-paragraph (2), “or, as the case may be, a Regional Health Authority’s,”, “or the Authority” (in both places), “or itself” and “or paragraph (d)”, and
+
+(ii) in sub-paragraph (3), “or Regional Health Authority” and “or paragraph (b)” and “or the Authority” (in both places),
+
+(e) in paragraph 12(b), omit “, and the exercise of functions by,”,
+
+(f) in paragraph 12A, for the words from “or Schedule 1” to “those Schedules)” substitute “ may make provision (including provision modifying this Schedule) ”, and
+
+(g) omit paragraph 15(3).
+
+**61** In Schedule 6 (local advisory committees)—
+
+(a) in paragraph 1(1), omit “, or for the region of a Regional Health Authority, or the area or district of an Area or District Health Authority,”,
+
+(b) in paragraph 2, omit “or (3)”,
+
+(c) omit paragraph 4,
+
+(d) in paragraph 5—
+
+(i) for “An Authority” substitute “ The Secretary of State ”,
+
+(ii) for “paragraphs 3 or 4” substitute “ paragraph 3 ”,
+
+(iii) for “the Authority” substitute “ the Secretary of State ”, and
+
+(iv) omit the second sentence, and
+
+(e) in the heading, for “Local Advisory Committees” substitute “ Advisory Committees for Wales ”.
+
+**[^F21]62** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F22]63** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**64** In Schedule 14 (transitional provisions and savings), in paragraph 13—
+
+(a) in sub-paragraph (1)(b), for the words from “paragraphs” to “152” substitute “ paragraphs 2, 7 to 9, 40, 68, 82, 109, 111, 123, 124(2) and (3), 125(2), 128, 130, 131(2), 132, 133, 151 and 152 ”, and
+
+(b) in sub-paragraph (2)—
+
+(i) after “this Act” insert “ or the Health Authorities Act 1995 ”, and
+
+(ii) for “131” substitute “ 131(2) ”.
+
+### Part II — Amendments of the National Health Service and Community Care Act 1990
+
+**65** The [^M15]National Health Service and Community Care Act 1990 shall be amended as follows.
+
+**[^F23]66** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F24]67** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F25]68** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F25]69** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F25]70** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F25]71** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F26][^F27]72** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F28]73** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[[^F29]74** In section 15 (payments to recognised fund-holding practices)—
+
+(a) for subsection (1) substitute—
+
+> (1) In respect of each financial year, every Health Authority shall be liable to pay to the members of each recognised fund-holding practice in relation to which they are the relevant Health Authority a sum determined by the Secretary of State in such manner and by reference to such factors as the Secretary of State may direct (in this section referred to as an “allotted sum”).
+
+,
+
+(b) omit subsection (2),
+
+(c) in subsection (3), omit “or subsection (2)”,
+
+(d) for subsection (4) substitute—
+
+> (4) In any case where—
+>
+> (a) a Health Authority make a payment of, or of any part of, an allotted sum to the members of a recognised fund-holding practice, and
+>
+> (b) some of the individuals on the list of patients of any of the members of the practice reside in the area of another Health Authority, or in the area of a Health Board,
+>
+> the Health Authority making the payment shall be entitled to recover from that other Health Authority, or from that Health Board, an amount equal to such portion of the payment as may be determined in accordance with directions given by the Secretary of State.
+
+,
+
+(e) omit subsection (5),
+
+(f) in subsection (7)—
+
+(i) in paragraph (a), for “Regional Health Authority”, and
+
+(ii) in paragraph (c), for “District Health Authority”,
+
+substitute “ Health Authority ”,
+
+(g) omit subsection (8), and
+
+(h) in subsection (9), for—
+
+(i) “Family Health Services Authority”, and
+
+(ii) “Authority”, in the other place,
+
+substitute “ Health Authority ”.]
+
+**[^F30]75** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F31]76** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**77** In section 18 (indicative amounts)—
+
+(a) in subsection (1), for—
+
+(i) “Family Health Services Authority” (in both places), and
+
+(ii) “Authority”,
+
+substitute “ Health Authority ”, and
+
+(b) in subsections (4), (5) and (7), for “Family Health Services Authority” substitute “ Health Authority ”.
+
+**[^F32]78** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F33]79** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**80** In section 46 (local authority plans for community care services), in subsection (2)—
+
+(a) in paragraph (a), for “District Health Authority the whole or any part of whose district” substitute “ Health Authority the whole or any part of whose area ”, and
+
+(b) omit paragraph (b).
+
+**81** In section 47 (assessment of needs for community care services), in subsection (3), for “District Health Authority” (in each place) substitute “ Health Authority ”.
+
+**82** In section 49 (regulations for the transfer of staff from the health service to local authorities), in subsection (4)(b), for “Regional, District or Special Health Authority” substitute “ Health Authority or Special Health Authority ”.
+
+**83** In section 60 (removal of Crown immunities), in subsection (7)—
+
+(a) for paragraph (a) substitute—
+
+> (a) a Health Authority established under section 8 of the [^M16]National Health Service Act 1977;
+>
+> (aa) a Special Health Authority established under section 11 of that Act;
+
+, and
+
+(b) omit paragraph (d).
+
+**84** In section 62 (Clinical Standards Advisory Group), in subsection (7)—
+
+(a) in the definition of “health service body”—
+
+(i) for paragraph (i) substitute—
+
+> (i) a Health Authority established under section 8 of the [^M17]National Health Service Act 1977;
+>
+> (ia) a Special Health Authority established under section 11 of that Act;
+
+,
+
+(ii) at the end of paragraph (iv) insert “ and ”, and
+
+(iii) omit paragraph (vi) and the word “and” immediately preceding it, and
+
+(b) in the definition of “services”, for paragraph (a) substitute—
+
+> (a) in England and Wales by virtue of—
+>
+> (i) directions under section 13 of the [^M18]National Health Service Act 1977;
+>
+> (ii) Part II of that Act; or
+>
+> (iii) section 5 of this Act; or
+
+.
+
+**[^F34]85** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Part III — Amendments of other enactments
+
+#### The Polish Resettlement Act 1947
+
+**86** In section 4 of the [^M19]Polish Resettlement Act 1947 (provision of health services), in subsection (1), for “Area Health Authorities District Health Authorities” substitute “ Health Authorities ”.
+
+#### The National Assistance Act 1948
+
+**87** (1) The [^M20]National Assistance Act 1948 shall be amended as follows.
+
+(2) In section 26 (provision of accommodation in premises maintained by voluntary organisations), in subsection (1C), for “District Health Authority” substitute “ Health Authority ”.
+
+(3) In the sixth Schedule (transitional provisions), omit paragraphs 7 to 9.
+
+#### The Reserve and Auxiliary Forces (Protection of Civil Interests) Act 1951
+
+**88** In the second Schedule to the [^M21]Reserve and Auxiliary Forces (Protection of Civil Interests) Act 1951 (paying authorities), in Part I, for paragraph 15 substitute—
+
+> |  |  |
+> |---|---|
+> | 15. Officer of a Health Authority, a Special Health Authority or any other body constituted under the [^M22] National Health Service Act 1977 or the [^M23] National Health Service and Community Care Act 1990 | The Health Authority, Special Health Authority or other body. |
+> | 15A. Officer of a Health Board, the Common Services Agency for the Scottish Health Service or any other body constituted under the [^M24] National Health Service (Scotland) Act 1978 | The Health Board, Agency or other body. |
+
+,
+
+and, in paragraph 16, for the entry in the second column substitute “ The Health Authority or Health Board for the area for which the services are provided. ”
+
+#### The Landlord and Tenant Act 1954
+
+**89** In section 57 of the [^M25]Landlord and Tenant Act 1954 (modification on grounds of public interest of rights under Part II of that Act), in subsection (6), for the words from “Regional” to “special health authority” substitute “ Health Authority or Special Health Authority ”.
+
+#### The Public Records Act 1958
+
+**90** In the first Schedule to the [^M26]Public Records Act 1958 (definition of public records), in the Table at the end of paragraph 3, in Part I, in the second column, at the end of the entry relating to health service hospitals insert—
+
+> |  |  |
+> |---|---|
+> |  | records of trust property passing to a Health Authority or Special Health Authority by virtue of the Health Authorities Act 1995 or under section 92 of the [^M27] National Health Service Act 1977 or held by a Health Authority under section 90 or 91 of that Act. |
+
+#### The Public Bodies (Admission to Meetings) Act 1960
+
+**91** In the Schedule to the [^M28]Public Bodies (Admission to Meetings) Act 1960 (bodies to which that Act applies), for paragraph 1(f) and (g) substitute—
+
+> (f) Health Authorities, except as regards the exercise of functions under the [^M29]National Health Service (Service Committees and Tribunal) Regulations 1992 or any regulations amending or replacing those Regulations;
+>
+> (g) if the order establishing a Special Health Authority so provides, the Special Health Authority;
+
+.
+
+#### The Human Tissue Act 1961
+
+**[^F35]92** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### The Parliamentary Commissioner Act 1967
+
+**93** In Schedule 3 to the [^M30]Parliamentary Commissioner Act 1967 (matters not subject to investigation), in paragraph 8—
+
+(a) for the words from “Regional” to “special health authority” substitute “ Health Authority, a Special Health Authority ”, and
+
+(b) omit “a Family Practitioner Committee,”.
+
+#### The Leasehold Reform Act 1967
+
+**94** In section 28 of the [^M31]Leasehold Reform Act 1967 (retention or resumption of land required for public purposes)—
+
+(a) in subsection (5)(d), for the words from “Regional” to “special health authority” substitute “ Health Authority, any Special Health Authority ”, and
+
+(b) in subsection (6), in the second sentence, in paragraph (c), for the words from “Regional” to “special health authority” substitute “ Health Authority, Special Health Authority ”.
+
+#### The Health Services and Public Health Act 1968
+
+**95** (1) The [^M32]Health Services and Public Health Act 1968 shall be amended as follows.
+
+(2) In section 63 (provision of instruction for officers of hospital authorities etc.)—
+
+(a) in subsection (1)(a), for the words from “Regional” to “special health authority” substitute “ Health Authority or Special Health Authority or a Health Board ”,
+
+(b) in subsection (2)(b), for “a Family Practitioner Committee” substitute “ a Health Authority ”,
+
+(c) after subsection (5) insert—
+
+> (5A) The Secretary of State may by regulations provide for any functions exercisable by a Health Authority or Special Health Authority under or in relation to arrangements made under subsection (1) above to be exercisable by the Health Authority or Special Health Authority jointly with one or more other relevant health service bodies; and section 126 of the 1977 Act shall apply in relation to regulations made under this subsection as if this subsection were contained in that Act.
+>
+> (5B) For the purposes of subsection (5A) above the following are relevant health service bodies—
+>
+> (a) Health Authorities;
+>
+> (b) Special Health Authorities; and
+>
+> (c) NHS trusts.
+
+, and
+
+(d) after subsection (8) insert—
+
+> (8A) Expressions used in both this section and the 1977 Act have the same meaning in this section as in that Act.
+
+(3) In section 64 (financial assistance to voluntary organisations), in subsection (3)(b), for “a Family Practitioner Committee is, by virtue of Part IV of the [^M33]National Health Service Act 1946,” substitute “ a Health Authority are, by virtue of Part II of the [^M34]National Health Service Act 1977, ”.
+
+#### The Post Office Act 1969
+
+**[^F36]96** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### The Local Government Act 1972
+
+**97** (1) The [^M35]Local Government Act 1972 shall be amended as follows.
+
+(2) In section 113 (placing of staff of local authorities at disposal of other authorities), in subsection (1A), for—
+
+(a) “Regional Health Authority, Area Health Authority District Health Authority or special health authority”,
+
+(b) “Regional Area or District Health Authority or special health authority”, and
+
+(c) “Regional Area or District Health Authority or the special health authority”,
+
+substitute “ Health Authority, Special Health Authority ”.
+
+[^F37]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### The National Health Service Reorganisation Act 1973
+
+**98** The [^M36]National Health Service Reorganisation Act 1973 shall cease to have effect.
+
+#### The Health and Safety at Work etc. Act 1974
+
+**99** In section 60 of the [^M37]Health and Safety at Work etc. Act 1974 (employment medical advisory service: supplementary), in subsection (1), for “Area Health Authority and each District Health Authority arranges for one of its officers who is” substitute “ Health Authority arranges for ”.
+
+#### The House of Commons Disqualification Act 1975
+
+**100** In Schedule 1 to the [^M38]House of Commons Disqualification Act 1975 (offices disqualifying for membership of the House of Commons), in Part III, for the entry beginning “Chairman or any member, not being also an employee, of any Regional Health Authority” substitute— “ Chairman or any member, not being also an employee, of any Health Authority or Special Health Authority which is a relevant authority for the purposes of paragraph 9(1) of Schedule 5 to the [^M39]National Health Service Act 1977. ”
+
+#### The Adoption Act 1976
+
+**[^F38]101** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### The National Health Service (Scotland) Act 1978
+
+**102** (1) The [^M40]National Health Service (Scotland) Act 1978 shall be amended as follows.
+
+(2) In section 17A (NHS contracts), in subsection (2)—
+
+(a) for paragraph (f) substitute—
+
+> (f) Health Authorities established under section 8 of the [^M41]National Health Service Act 1977;
+>
+> (ff) Special Health Authorities established under section 11 of the [^M42]National Health Service Act 1977;
+
+, and
+
+(b) omit paragraph (i).
+
+(3) In section 17B (reimbursement of Health Boards’ costs), in subsection (1), for “District or Special Health Authority” substitute “ Health Authority or Special Health Authority ”.
+
+(4) In section 87A (recognition of fund-holding practices of doctors), in subsection (4)(g), for “Family Health Services Authority established under section 10” substitute “ Health Authority established under section 8 ”.
+
+(5) In section 87B (payments to recognised fund-holding practices), in subsection (3)—
+
+(a) in paragraph (b), for “region of a Regional Health Authority” substitute “ area of a Health Authority ”, and
+
+(b) for “the Authority” substitute “ the Health Authority ”.
+
+(6) In section 87D (indicative amounts for doctors’ practices), in subsection (7), for “Family Health Services Authority established under section 10” substitute “ Health Authority established under section 8 ”.
+
+(7) In Schedule 7A (NHS trusts)—
+
+(a) in paragraph 6(2), at the end (but not as part of paragraph (f)) insert “ and with any directions given to it under section 1(1A) of the [^M43]Hospital Complaints Procedure Act 1985 ”, and
+
+(b) in paragraph 22(1)—
+
+(i) in paragraph (c), for “District Health Authority within the meaning” substitute “ Health Authority established under section 8 ”, and
+
+(ii) for “or Authority” substitute “ or Health Authority ”.
+
+(8) In Schedule 15 (transitional provisions and savings), in paragraph 10(b)—
+
+(a) omit “94(b),”, and
+
+(b) for “135(a) to (c)” substitute “ 135(b) and (c) ”.
+
+#### The [^M44]Employment Protection (Consolidation) Act 1978
+
+**[^F39]103** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### The Nurses, Midwives and Health Visitors Act 1979
+
+**[^F40]104** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### The Overseas Development and Co-operation Act 1980
+
+**[^F41]105** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### The Local Government Finance Act 1982
+
+**[^F42]106** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### The Mental Health Act 1983
+
+**107** (1) The [^M45]Mental Health Act 1983 shall be amended as follows.
+
+(2) In section 23 (discharge of patients)—
+
+[^F43]a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) in subsection (5)(a), for—
+
+(i) “a District or Special Health Authority”, and
+
+(ii) “such an authority”,
+
+substitute “ a Health Authority or Special Health Authority ”.
+
+[^F44]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) In section 32 (regulations), in subsection (3), for “Regional Health Authorities, District Health Authorities National Health Service trusts or special health authorities” substitute “ Health Authorities, Special Health Authorities or National Health Service trusts ”.
+
+(5) In section 39 (information as to hospitals)—
+
+(a) in subsection (1)—
+
+(i) for “Regional Health Authority” (in both places) substitute “ Health Authority ”,
+
+(ii) for “the region” substitute “ the area ”,
+
+(iii) for “that Authority has” substitute “ that Health Authority have ”,
+
+(iv) for “its region” substitute “ their area ”, and
+
+(v) for “that Authority shall” substitute “ that Health Authority shall ”, and
+
+(b) omit subsection (2).
+
+(6) In section 65 (Mental Health Review Tribunals), for subsection (1) substitute—
+
+> (1) There shall be tribunals, known as Mental Health Review Tribunals, for the purpose of dealing with applications and references by and in respect of patients under the provisions of this Act.
+>
+> (1A) There shall be—
+>
+> (a) one tribunal for each region of England, and
+>
+> (b) one tribunal for Wales.
+>
+> (1B) The Secretary of State—
+>
+> (a) shall by order determine regions for the purpose of subsection (1A)(a) above; and
+>
+> (b) may by order vary a region determined for that purpose;
+>
+> and the Secretary of State shall act under this subsection so as to secure that the regions together comprise the whole of England.
+>
+> (1C) Any order made under subsection (1B) above may make such transitional, consequential, incidental or supplemental provision as the Secretary of State considers appropriate.
+
+(7) In section 79 (interpretation of Part V), after subsection (6) insert—
+
+> (7) In this Part of this Act any reference to the area of a tribunal is—
+>
+> (a) in relation to a tribunal for a region of England, a reference to that region; and
+>
+> (b) in relation to the tribunal for Wales, a reference to Wales.
+
+(8) In section 117 (after-care)—
+
+(a) in subsection (2), for “District Health Authority” (in both places) substitute “ Health Authority ”, and
+
+(b) in subsection (3), for the words from “section” to “for the area” substitute “ section “the Health Authority” means the Health Authority, and “the local social services authority” means the local social services authority, for the area ”.
+
+(9) In section 121 (Mental Health Act Commission)—
+
+(a) in subsection (1), for “special health authority” substitute “ Special Health Authority ”, and
+
+(b) in subsection (11), for “health authorities” substitute “ Special Health Authorities ”.
+
+(10) In section 134 (correspondence of patients), in subsection (3)(e), for “health authority within the meaning of the [^M46]National Health Service Act 1977” substitute “ Health Authority or Special Health Authority ”.
+
+(11) In section 139 (protection for acts done in pursuance of that Act), in subsection (4), for “health authority within the meaning of the National Health Service Act 1977” substitute “ Health Authority or Special Health Authority ”.
+
+(12) In section 140 (notification of hospitals having arrangements for reception of urgent cases)—
+
+(a) for “Regional Health Authority and in Wales every District Health Authority” substitute “ Health Authority ”,
+
+[^F45]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(c) for “to the Authority” substitute “ to the Health Authority ”.
+
+[^F46]13 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(14) In section 145 (interpretation), in subsection (1)—
+
+(a) after the definition of “approved social worker” insert—
+
+> “Health Authority” means a Health Authority established under section 8 of the [^M47]National Health Service Act 1977;
+
+,
+
+(b) in paragraph (a) of the definition of “the managers”, for “District Health Authority or special health authority” substitute “ Health Authority or Special Health Authority ”, and
+
+(c) after the definition of “restriction order” insert—
+
+> “Special Health Authority” means a Special Health Authority established under section 11 of the National Health Service Act 1977;
+
+.
+
+#### The Public Health (Control of Disease) Act 1984
+
+**108** (1) The [^M48]Public Health (Control of Disease) Act 1984 shall be amended as follows.
+
+(2) In section 1 (authorities administering that Act), in subsection (4), for paragraph (b) substitute—
+
+> (b) Health Authorities or Special Health Authorities,
+
+.
+
+(3) In section 11 (cases of notifiable disease and food poisoning to be reported), in subsection (3)—
+
+(a) in paragraph (a), for “District Health Authority within whose district” substitute “ Health Authority within whose area ”, and
+
+(b) in paragraph (b)(ii)—
+
+(i) for “District Health Authority for the district” substitute “ Health Authority for the area ”, and
+
+(ii) for “that Authority is” substitute “ that Health Authority are ”.
+
+(4) In section 12 (fees for certificates under section 11), in subsection (1), for “District Health Authority” substitute “ Health Authority ”.
+
+(5) In section 13 (regulations for control of certain diseases), in subsection (4)(a), for the words from “Regional Health Authorities” to “special health authorities” substitute “ Health Authorities, Special Health Authorities or National Health Service trusts ”.
+
+(6) In section 37 (removal to hospital of person with notifiable disease), in subsection (1)—
+
+(a) in paragraph (c), for “District Health Authority” substitute “ Health Authority ”, [^F47]. . .
+
+(b) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7) In section 39 (keeper of common lodging-house to notify case of infectious disease), in subsection (3), for “Area Health Authority within whose area, or the District Health Authority within whose district,” substitute “ Health Authority within whose area ”.
+
+(8) In section 41 (removal to hospital of inmate of common lodging-house with notifiable disease), in subsection (1)—
+
+(a) in paragraph (c), for “District Health Authority” substitute “ Health Authority ”, [^F48]. . .
+
+(b) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### The Hospital Complaints Procedure Act 1985
+
+**[^F49]109** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### The Health Service Joint Consultative Committees (Access to Information) Act 1986
+
+**110** In section 1 of the [^M49]Health Service Joint Consultative Committees (Access to Information) Act 1986 (interpretation), in subsection (2), for “District Health Authority, Family Practitioner Committee” substitute “ Health Authority ”.
+
+#### The Disabled Persons (Services, Consultation and Representation) Act 1986
+
+**111** (1) The [^M50]Disabled Persons (Services, Consultation and Representation) Act 1986 shall be amended as follows.
+
+[^F50]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) In section 7 (persons discharged from hospital)—
+
+(a) in subsection (1)(a), omit “district or”, and
+
+(b) in subsection (9)—
+
+(i) in the definition of “health authority”, for “District Health Authority” substitute “ Health Authority ”, and
+
+(ii) in the definition of “the managers”, after “(other than a special hospital” and after “(other than a State hospital” insert “ or a hospital vested in a National Health Service trust ” and for “District Health Authority or special health authority” substitute “ Health Authority or Special Health Authority ”.
+
+(4) In section 16 (interpretation), in subsection (1)—
+
+(a) after the definition of “guardian” insert—
+
+> “Health Authority” means a Health Authority established under section 8 of the 1977 Act;
+
+, and
+
+(b) after the definition of “services” insert—
+
+> “Special Health Authority” means a Special Health Authority established under section 11 of the 1977 Act;
+
+.
+
+#### The Education (No.2) Act 1986
+
+**[^F51]112** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### The AIDS (Control) Act 1987
+
+**113** (1) The [^M51] AIDS (Control) Act 1987 shall be amended as follows.
+
+(2) In section 1 (periodical reports on matters relating to AIDS and HIV)—
+
+(a) in subsection (1)—
+
+(i) omit paragraph (a), and
+
+(ii) in paragraph (b), for sub-paragraphs (i) and (ii) substitute—
+
+> (i) each Health Authority in England and Wales;
+
+,
+
+(b) for subsections (2) and (3) substitute—
+
+> (2) Any report under this section—
+>
+> (a) shall contain the information specified in the Schedule to this Act and such other relevant information as the Secretary of State may direct; and
+>
+> (b) shall be published by the Health Authority, Health Board or NHS trust by which it is made.
+
+,
+
+(c) in subsection (5)—
+
+(i) for “special health authority” substitute “ Special Health Authority ”, and
+
+(ii) for “that authority” substitute “ that Special Health Authority ”, and
+
+(d) in subsection (9), for the words from “ “Regional” to “1977”” substitute “ “Health Authority” means a Health Authority established under section 8 of the [^M52]National Health Service Act 1977 and “Special Health Authority” means a Special Health Authority established under section 11 of that Act ”.
+
+(3) In the Schedule (contents of reports), in paragraphs 4 and 7, omit “district or”.
+
+#### The Income and Corporation Taxes Act 1988
+
+**[^F52]114** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### The Dartford-Thurrock Crossing Act 1988
+
+**115** In section 19 of the [^M53]Dartford-Thurrock Crossing Act 1988 (exemption from tolls), in paragraph (b), for “health authority (as defined in the [^M54]National Health Service Act 1977)” substitute “ Health Authority established under section 8 of the National Health Service Act 1977 or a Special Health Authority established under section 11 of that Act ”.
+
+#### The Community Health Councils (Access to Information) Act 1988
+
+**116** In section 1 of the [^M55]Community Health Councils (Access to Information) Act 1988 (access to Council meetings and documents), in subsection (6)(a), for the words from “regional” to “region or district” substitute “ Health Authority within whose area ”.
+
+#### The Road Traffic Act 1988
+
+**117** In section 159 of the [^M56]Road Traffic Act 1988 (payments for treatment)—
+
+(a) in subsection (1)(a), for—
+
+(i) “Area Health Authority, District Health Authority or special health authority”, and
+
+(ii) “such authority”,
+
+substitute “ Health Authority or Special Health Authority ”, and
+
+(b) in subsection (3), for “Authority (in Scotland, Board)” substitute “ Health Authority or Special Health Authority (or, in Scotland, Health Board) ”.
+
+#### The Children Act 1989
+
+**118** (1) The [^M57]Children Act 1989 shall be amended as follows.
+
+(2) In section 19 (review of provision for day care, child minding etc.), in subsection (7)(a), for “health authority” substitute “ Health Authority, Special Health Authority ”.
+
+(3) In section 21 (provision of accommodation for children in police protection or detention or on remand etc.), in subsection (3), for “District Health Authority” substitute “ Health Authority ”.
+
+(4) In section 24 (advice and assistance for certain children), in—
+
+(a) subsection (2)(d), and
+
+(b) subsection (12)(b),
+
+for “health authority” substitute “ Health Authority, Special Health Authority ”.
+
+(5) In section 27 (co-operation between authorities), in subsection (3)(d), for “health authority” substitute “ Health Authority, Special Health Authority ”.
+
+(6) In section 29 (recoupment of cost of providing services etc.), in subsection (8)(c), for “District Health Authority” substitute “ Health Authority ”.
+
+(7) In section 47 (local authority’s duty to investigate), in subsection (11)(d), for “health authority” substitute “ Health Authority, Special Health Authority ”.
+
+(8) In section 80 (inspection of children’s homes by persons authorised by Secretary of State)—
+
+(a) in subsection (1)(d), for “health authority” substitute “ Health Authority, Special Health Authority ”, and
+
+(b) in subsection (5)(e), for “health authority” substitute “ Health Authority, Special Health Authority, ”.
+
+(9) In section 85 (children accommodated by health authorities and local education authorities), in subsection (1), for “health authority” substitute “ Health Authority, Special Health Authority, ”.
+
+(10) In section 105 (interpretation), in subsection (1)—
+
+(a) omit the definition of “district health authority”,
+
+(b) for the definition of “health authority” substitute—
+
+> “Health Authority” means a Health Authority established under section 8 of the [^M58]National Health Service Act 1977;
+
+, and
+
+(c) for the definition of “special health authority” substitute—
+
+> “Special Health Authority” means a Special Health Authority established under section 11 of the National Health Service Act 1977;
+
+.
+
+#### The Access to Health Records Act 1990
+
+**119** (1) The [^M59]Access to Health Records Act 1990 shall be amended as follows.
+
+(2) In section 1 (definitions), in subsection (2), for “Family Practitioner Committee” substitute “ Health Authority ”.
+
+(3) In section 7 (duty of health service bodies etc. to take advice)—
+
+(a) in subsection (1), omit “or Family Practitioner Committee”,
+
+(b) in subsection (2), after “(other than a” insert “ Health Authority or ”, and
+
+(c) in subsection (3)—
+
+(i) for “Family Practitioner Committee or a” substitute “ Health Authority or ”, and
+
+(ii) for “Committee or Board” substitute “ Health Authority or Health Board ”.
+
+(4) In section 11 (interpretation)—
+
+[^F53]a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) in the definition of “health service body”, for paragraph (a) substitute—
+
+> (a) a Health Authority or Special Health Authority;
+
+, and
+
+(c) after the definition of “parental responsibility” insert—
+
+> “Special Health Authority” means a Special Health Authority established under section 11 of the National Health Service Act 1977.
+
+#### The Water Industry Act 1991
+
+**120** [^F54]1 [^F54]The [^M60][^F54]Water Industry Act 1991 shall be amended as follows.
+
+[^F54]2 [^F54]In section 87 (fluoridation of water supplies at request of health authorities)—
+
+[^F54]a [^F54]in subsection (1), for “District Health Authority” substitute [^F54]“ Health Authority ”[^F54],
+
+[^F54]b [^F54]in subsection (3), for “district of the authority” substitute [^F54]“ area of the Health Authority ”[^F54],
+
+[^F54]c [^F54]in subsection (5), for “District Health Authority” substitute [^F54]“ Health Authority ”[^F54], and
+
+[^F54]d [^F54]in subsection (9), for the words from “District” to the end substitute [^F54]“ Health Authority are references to any Health Authority established under section 8 of the National Health Service Act 1977. ”
+
+[^F54]3 [^F54]In section 89 (publicity and consultation)—
+
+[^F54]a [^F54]for “District Health Authority” (in each place), and
+
+[^F54]b [^F54]in subsection (7), for “authority”,
+
+[^F54]substitute [^F54]“ Health Authority ”[^F54].
+
+[^F54]4 [^F54]In Schedule 7 (pre-1985 fluoridation schemes)—
+
+[^F54]a [^F54]in paragraph 2(2), for “Regional or District Health Authority” substitute [^F54]“ Health Authority ”[^F54], and
+
+[^F54]b [^F54]in paragraph 3(1)—
+
+[^F54]i [^F54]for “District Health Authority” substitute [^F54]“ Health Authority ”[^F54], and
+
+[^F54]ii [^F54]for “such an authority” substitute [^F54]“ a Health Authority ”[^F54].
+
+#### The Health and Personal Social Services (Northern Ireland) Order 1991
+
+**121** (1) The [^M61]Health and Personal Social Services (Northern Ireland) Order 1991 shall be amended as follows.
+
+(2) In Article 8 (HSS contracts), in paragraph (2)(g), for paragraphs (i) and (ii) substitute—
+
+> (i) Health Authorities;
+>
+> (ii) Special Health Authorities;
+
+.
+
+(3) In Article 9 (primary and other functions of boards)—
+
+(a) in paragraph (2)—
+
+(i) for “a health authority” substitute “ a Health Authority or Special Health Authority ”, and
+
+(ii) for “health authority”, in the other place, substitute “ Health Authority, Special Health Authority ”, and
+
+(b) in paragraph (5)(c), for “health authority” substitute “ Health Authority or Special Health Authority ”.
+
+(4) In Schedule 3 (HSS trusts), in paragraph 19(1)—
+
+(a) for “a health authority” substitute “ a Health Authority or Special Health Authority ”, and
+
+(b) for “health authority”, in the other place, substitute “ Health Authority, Special Health Authority ”.
+
+#### The Trade Union and Labour Relations (Consolidation) Act 1992
+
+**122** In section 279 of the [^M62]Trade Union and Labour Relations (Consolidation) Act 1992 (health service practitioners), in paragraph (a), for “Family Health Services Authority” substitute “ Health Authority ”.
+
+#### The Tribunals and Inquiries Act 1992
+
+**123** In Schedule 1 to the [^M63]Tribunals and Inquiries Act 1992 (tribunals under general supervision of Council on Tribunals), in Part I, for paragraph 33 substitute—
+
+> |  |  |
+> |---|---|
+> | National Health Service | 33.<br>(a) Health Authorities established under section 8 of the [^M64]National Health Service Act 1977 (c. 49) in respect of their functions under the [^M65]National Health Service (Service Committees and Tribunal) Regulations 1992 or any regulations amending or replacing those Regulations;<br>(b) the tribunal constituted under section 46 of that Act;<br>(c) committees of Health Authorities established under regulation 3 of those Regulations or any provision amending or replacing that regulation. |
+
+#### The Education Act 1993
+
+**[^F55]124** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### The Welsh Language Act 1993
+
+**125** In section 6 of the [^M66]Welsh Language Act 1993 (meaning of “public body”), in subsection (1)—
+
+(a) for paragraph (f) substitute—
+
+> (f) a Health Authority established under section 8 of the [^M67]National Health Service Act 1977 or a Special Health Authority established under section 11 of that Act;
+
+, and
+
+(b) omit paragraph (h).
+
+#### The Health Service Commissioners Act 1993
+
+**126** (1) The [^M68]Health Service Commissioners Act 1993 shall be amended as follows.
+
+(2) In section 2 (health service bodies subject to investigation)—
+
+(a) in subsection (1), for paragraphs (a) and (b) substitute—
+
+> (a) Health Authorities whose areas are in England,
+
+, and omit paragraph (e), and
+
+[^F56]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F57]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) In section 14 (reports by Commissioners), in subsection (1)—
+
+(a) in paragraph (d), after “of,” insert “ and ”, and
+
+(b) for paragraphs (e) and (f) substitute—
+
+> (e) to the Secretary of State.
+
+#### The Value Added Tax Act 1994
+
+**127** In Schedule 8 to the [^M69]Value Added Tax Act 1994 (zero-rating), in Part II, in Group 15, in Note (4)(a), for “Regional, District or Special Health Authority” substitute “ Health Authority or Special Health Authority ”.
+
+## SCHEDULE 2 — Transitional provisions and savings
+
+*Section 4(1).*
+
+### Property, rights and liabilities of RHAs, DHAs, FHSAs and SHAs
+
+**1** (1) On 1st April 1996—
+
+(a) all property held by a Regional Health Authority immediately before that date, and
+
+(b) all rights and liabilities to which a Regional Health Authority are entitled or subject immediately before that date,
+
+shall by virtue of this sub-paragraph be transferred to and vest in the Secretary of State.
+
+(2) Sub-paragraph (1) has effect in relation to any rights and liabilities which immediately before 1st April 1996 are (by or by virtue of any enactment) enforceable by or against a Regional Health Authority so that on and after that date they are enforceable by or against the Secretary of State.
+
+(3) Sub-paragraph (1) does not apply to—
+
+(a) property, rights or liabilities transferred to an NHS trust on 1st April 1996,
+
+(b) property, rights or liabilities transferred by virtue of paragraph 3 of this Schedule or section 92 of the [^M70]National Health Service Act 1977 (transfers of trust property and rights and liabilities arising from trust property) on that date, or
+
+(c) rights or liabilities which are transferred by paragraph 9 of this Schedule (or would be so transferred but for sub-paragraph (5) or (8) of that paragraph) or to which paragraph 14 of this Schedule applies.
+
+**2** (1) The Secretary of State may, where it appears appropriate to do so, by order transfer to a specified [^F58]...[^F59]... [[^F60]Local Health Board] or Special [[^F60]Local Health Board] any specified property, rights or liabilities which have been transferred by paragraph 1(1).
+
+(2) An order may be made under sub-paragraph (1) to have effect in relation to any specified rights or liabilities such as are mentioned in paragraph 1(2) so that they are enforceable by or against (or only by or against) a specified [^F61]... [^F62]... [[^F63]Local Health Board] or Special [[^F63]Local Health Board].
+
+(3) An order made under sub-paragraph (1) may take effect immediately after paragraph 1 takes effect or on a later specified date.
+
+(4) An order made under sub-paragraph (1) may, in particular, specify any Special Health Authority administering a scheme under section 21 of the National Health Service and Community Care Act 1990 [[^F64], section 71 of the National Health Service Act 2006 or section 30 of the National Health Service (Wales) Act 2006] (schemes for meeting liabilities of health service bodies).
+
+(5) An order made under sub-paragraph (1) may create or impose such new rights or liabilities in respect of what is transferred, or what is retained by the Secretary of State, as appear appropriate.
+
+(6) In the case of any transfer made by an order under sub-paragraph (1), a certificate issued by the Secretary of State that—
+
+(a) any property described in the certificate,
+
+(b) any interest in or right over property so described, or
+
+(c) any right or liability so described,
+
+is vested in the specified [^F65]...[^F66]... [[^F67]Local Health Board] or Special [[^F67]Local Health Board] shall be conclusive evidence of that fact for all purposes.
+
+(7) Sub-paragraph (1) does not affect any power of the Secretary of State to transfer any property, rights or liabilities to a [^F68]... [^F69]... [[^F70]Local Health Board] or Special [[^F70]Local Health Board] otherwise than under this paragraph.
+
+**3** (1) The Secretary of State may by order transfer on 1st April 1996 to a specified health service body any specified property held on trust by a Regional Health Authority immediately before that date.
+
+(2) In sub-paragraph (1) “health service body” means—
+
+(a) a Health Authority,
+
+(b) a Special Health Authority,
+
+(c) an NHS trust,
+
+(d) special trustees, or
+
+(e) trustees for an NHS trust.
+
+(3) Sub-paragraph (1) does not apply to property transferred by virtue of section 92 of the [^M71]National Health Service Act 1977 on 1st April 1996.
+
+(4) The Secretary of State shall exercise the power conferred by sub-paragraph (1) so as to secure that all property to which that sub-paragraph applies is dealt with in exercise of the power.
+
+(5) In this paragraph references to property include references to any rights and liabilities arising from the property.
+
+**4** (1) The Secretary of State may by order transfer on 1st April 1996 to a specified Health Authority—
+
+(a) any specified property held by a District Health Authority or a Family Health Services Authority immediately before that date, or
+
+(b) any specified rights or liabilities to which a District Health Authority or a Family Health Services Authority are entitled or subject immediately before that date.
+
+(2) An order may be made under sub-paragraph (1) to have effect in relation to any specified rights or liabilities which immediately before 1st April 1996 are (by or by virtue of any enactment) enforceable by or against a District Health Authority or a Family Health Services Authority so that on and after that date they are enforceable by or against (or only by or against) a specified Health Authority.
+
+(3) Sub-paragraph (1) does not apply to—
+
+(a) property, rights or liabilities transferred to an NHS trust on 1st April 1996,
+
+(b) property transferred by virtue of section 92 of the [^M72]National Health Service Act 1977 on that date, or
+
+(c) rights or liabilities which are transferred by paragraph 9 of this Schedule (or would be so transferred but for sub-paragraph (5) or (8) of that paragraph) or to which paragraph 14 of this Schedule applies.
+
+(4) The Secretary of State shall exercise the power conferred by sub-paragraph (1) so as to secure that all property to which that sub-paragraph applies is, and all rights and liabilities to which that sub-paragraph applies are, dealt with in exercise of the power.
+
+(5) In this paragraph references to property include trust property; and, for the purposes of this paragraph, rights and liabilities arising from trust property shall be treated as being part of the property (so that references in this paragraph to rights and liabilities do not include rights and liabilities arising from trust property).
+
+**5** (1) Where an order made under paragraph 2, 3 or 4 transfers—
+
+(a) land held on lease from a third party, or
+
+(b) any other asset leased or hired from a third party or in which a third party has an interest,
+
+the transfer shall be binding on the third party even if, apart from this sub-paragraph, it would have required his consent or concurrence; and the order may contain such provisions as appear appropriate to safeguard the interests of the third party, including (where appropriate) provision for the payment of compensation of an amount to be determined in accordance with the order.
+
+(2) Stamp duty is not chargeable in respect of any transfer effected by or by virtue of any of paragraphs 1 to 4.
+
+[[^F71](2A) For the purposes of stamp duty land tax a land transaction effected by virtue of paragraph 2 is exempt from charge.
+
+(2B) Relief under sub-paragraph (2A) must be claimed in a land transaction return or an amendment of such a return.
+
+(2C) In this paragraph—
+
+- “land transaction” has the meaning given in section 43(1) of the Finance Act 2003;
+- “land transaction return” has the meaning given by section 76(1) of that Act.]
+
+[[^F72](3) The references in sections 216 and 220(1) of the National Health Service Act 2006, and in sections 164 and 167(1) of the National Health Service (Wales) Act 2006 to section 92 of the National Health Service Act 1977 include references to paragraphs 3 and 4 of this Schedule.
+
+(4) The reference in section 220(3) of the National Health Service Act 2006 to Part 11 of that Act includes a reference to paragraphs 3 and 4 of this Schedule, and the reference in section 167(3) of the National Health Service (Wales) Act 2006 to Part 11 of that Act includes a reference to those paragraphs.
+
+(5) In section 222(12) of the National Health Service Act 2006, the reference to section 213 of that Act includes a reference to paragraphs 3 and 4 of this Schedule.
+
+(6) In section 169(12) of the National Health Service (Wales) Act 2006, the reference to section 161 of that Act includes a reference to paragraphs 3 and 4 of this Schedule.]
+
+**6** Nothing in this Act prevents any rights or liabilities which immediately before 1st April 1996 are (by or by virtue of any enactment repealed by this Act) enforceable by or against a Special Health Authority from continuing on and after that date to be enforceable by or against the Special Health Authority.
+
+### Staff of RHAs, DHAs and FHSAs
+
+**7** (1) The Secretary of State may—
+
+(a) by order made in relation to any specified description of relevant health authority employees specify the health service body to which they are to be transferred on 1st April 1996, and
+
+(b) by scheme made in relation to relevant health authority employees designated by the scheme (either individually or as members of a class) designate the health service body to which they are to be transferred on 1st April 1996.
+
+(2) In this paragraph and paragraphs 8 to 10 references to relevant health authority employees are to persons who immediately before 1st April 1996 are employees of—
+
+(a) a Regional Health Authority,
+
+(b) a District Health Authority, or
+
+(c) a Family Health Services Authority,
+
+other than persons to whom sub-paragraph (3) applies.
+
+(3) This sub-paragraph applies to persons to whom section 6 of the National Health Service and Community Care Act 1990 (transfers of staff to an NHS trust) applies if the operational date of the trust in question (or, in the case of employees within subsection (5) of that section, the [^M73]date on which they take up employment) is 1st April 1996.
+
+(4) In this paragraph and paragraphs 8 to 11 references to a health service body are to—
+
+(a) the Secretary of State,
+
+(b) a Health Authority,
+
+(c) a Special Health Authority, or
+
+(d) an NHS trust.
+
+(5) The Secretary of State shall exercise the power conferred by this paragraph so as to secure that all relevant health authority employees are dealt with in exercise of the power.
+
+(6) A scheme may be made under this paragraph only if sub-paragraph (7) is satisfied in relation to each of the employees to be designated by the scheme.
+
+(7) This sub-paragraph is satisfied in relation to an employee if—
+
+(a) the employee, or such body as the Secretary of State may recognise as representing the employee, has been consulted about the scheme by the Secretary of State, or
+
+(b) the Secretary of State is satisfied that the employee, or such body as the authority from which the employee would be transferred by the scheme may recognise as representing the employee, has been consulted about the scheme by that authority.
+
+**8** (1) This paragraph applies where, at any time during the period beginning with 1st April 1996 and ending with 30th September 1996, it appears to the Secretary of State appropriate for any relevant health authority employees to be transferred from the health service body to which they were transferred on 1st April 1996 to another health service body.
+
+(2) The Secretary of State may at any time during that period make, in relation to any of the employees who (in the opinion of the Secretary of State) ought to be transferred and are designated by the scheme (either individually or as members of a class), a scheme designating the body to which they are to be transferred on a date during that period designated by the scheme.
+
+(3) A scheme may be made under this paragraph only if sub-paragraph (4) is satisfied in relation to each of the employees to be designated by the scheme.
+
+(4) This sub-paragraph is satisfied in relation to an employee if—
+
+(a) the employee, or such body as the Secretary of State may recognise as representing the employee, has been consulted about the scheme by the Secretary of State, or
+
+(b) the Secretary of State is satisfied that the employee, or such body as the body from which the employee would be transferred by the scheme may recognise as representing the employee, has been consulted about the scheme by that body.
+
+**9** (1) The abolition on 1st April 1996 of the authority by which a relevant health authority employee was employed immediately before that date does not operate to terminate his contract of employment.
+
+(2) Subject to sub-paragraph (3), the contract of employment of a relevant health authority employee shall have effect on and after that date as if originally made between the employee and the health service body to which he is transferred on that date.
+
+(3) Where a scheme is made in relation to a relevant health authority employee under paragraph 8 his contract of employment shall have effect on and after the date designated by the scheme as if originally made between the employee and the health service body to which he is transferred on that date.
+
+(4) Without prejudice to sub-paragraphs (2) and (3)—
+
+(a) all the rights, powers, duties and liabilities of the authority or body from which an employee is transferred in accordance with an order or scheme made under paragraph 7 or 8 under or in connection with his contract of employment shall by virtue of this sub-paragraph be transferred to the body to which the employee is transferred in accordance with the order or scheme, and
+
+(b) anything done before the date of the transfer by or in relation to the authority or body from which he is so transferred in respect of the employee or the contract of employment shall be deemed from that date to have been done by or in relation to the body to which he is so transferred.
+
+(5) Sub-paragraphs (2) and (4) do not transfer an employee’s contract of employment, or the rights, powers, duties and liabilities under or in connection with it, if he informs the authority or body from which they would be transferred, or the body to which they would be transferred, that he objects to the transfer.
+
+(6) Where an employee objects as mentioned in sub-paragraph (5) his contract of employment with the authority or body from which he would be transferred shall be terminated immediately before the date on which the transfer would occur; but he shall not be treated, for any purpose, as having been dismissed by that authority or body.
+
+(7) This paragraph is without prejudice to any right of a relevant health authority employee to terminate his contract of employment if a substantial change is made to his detriment in his working conditions; but no such right shall arise by reason only that, under this paragraph, the identity of his employer changes unless the employee shows that, in all the circumstances, the change is a significant change and is to his detriment.
+
+(8) This paragraph does not apply—
+
+(a) to so much of a contract of employment as relates to an occupational pension scheme (within the meaning of section 1 of the [^M74]Pension Schemes Act 1993), or
+
+(b) to any rights, powers, duties or liabilities under or in connection with a contract of employment, or otherwise arising in connection with a person’s employment, and relating to such a scheme,
+
+other than any provisions of the scheme which do not relate to benefits for old age, invalidity or survivors.
+
+**10** (1) A scheme made under paragraph 7 or 8 may provide that the contract of employment of a relevant health authority employee designated by the scheme shall, on 1st April 1996 (in the case of a scheme made under paragraph 7) or the date designated by the scheme (in the case of a scheme made under paragraph 8), be divided so as to constitute two separate contracts of employment with two health service bodies designated by the scheme.
+
+(2) Where a scheme makes such provision it shall provide for paragraph 9 to have effect in the case of the employee and his contract of employment subject to appropriate modifications.
+
+**11** Where as a result of the operation of paragraph 9 an employee has both—
+
+(a) a contractual right against any health service body to benefits in the event of his redundancy, and
+
+(b) a statutory right against the body to a redundancy payment,
+
+any benefits provided to him by virtue of the contractual right shall be taken as satisfying the statutory right.
+
+### Early retirements on reorganisation under 1973 Act
+
+**12** The repeal by this Act of the National Health Service Reorganisation Act 1973 does not prevent the [^M75]continuing operation on and after 1st April 1996 of section 44 of that Act (provision for early retirement in lieu of compensation for loss of office) or regulations made under that section (or of any other provision relating to that section or such regulations).
+
+### Accounts and winding up of affairs of RHAs, DHAs and FHSAs
+
+**13** (1) The Secretary of State—
+
+(a) shall keep, or prepare, any accounts which (but for this Act) would have been required by section 98 of the [^M76]National Health Service Act 1977 (accounts and audit) to be kept, or prepared and transmitted, by a Regional Health Authority, and
+
+(b) may do any other thing which appears appropriate in connection with the winding up of the affairs of a Regional Health Authority.
+
+(2) The Secretary of State—
+
+(a) shall by order provide that any accounts which (but for this Act) would have been required by that section to be kept, or prepared and transmitted, by a District Health Authority or Family Health Services Authority shall be kept, or prepared and transmitted, by a specified Health Authority, and
+
+(b) may by order provide that any other thing which appears appropriate in connection with the winding up of the affairs of a specified District Health Authority or Family Health Services Authority shall be done by a specified Health Authority.
+
+(3) An order made under sub-paragraph (2) may provide that the Health Authority keeping, or preparing and transmitting, accounts or doing any other thing shall be assisted by any other specified Health Authority.
+
+(4) The provisions of subsection (1) of section 98 of the [^M77]National Health Service Act 1977 relating to audit and examination shall apply in relation to accounts kept under or by virtue of this paragraph and related records and reports.
+
+[^F73]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6) Subsection (4) of that section shall apply in relation to accounts relating to Regional Health Authorities, District Health Authorities and Family Health Services Authorities in respect of the financial year ending with 31st March 1996.
+
+### Trustees etc.
+
+**14** (1) The Secretary of State may by order provide that a power to make any appointment (including an appointment of a trustee) which, immediately before 1st April 1996, is exercisable by—
+
+(a) a Regional Health Authority,
+
+(b) a District Health Authority, or
+
+(c) a Family Health Services Authority,
+
+shall be exercisable on and after that date by a specified Health Authority or Special Health Authority.
+
+(2) The Secretary of State may by order provide that any qualification for holding any office (including office as a trustee) which, immediately before 1st April 1996, consists of being a member or officer of—
+
+(a) a Regional Health Authority,
+
+(b) a District Health Authority, or
+
+(c) a Family Health Services Authority,
+
+shall, on and after that date, consist of being a member or officer of a specified Health Authority or Special Health Authority.
+
+(3) An order under this paragraph may include provision for the appointment of a person holding any office to which it relates immediately before 1st April 1996 to continue, or not to continue, on and after that date.
+
+### Mental Health Review Tribunals
+
+**15** (1) On 1st April 1996 the Secretary of State shall be deemed to have determined by an order made under subsection (1B)(a) of section 65 of the Mental Health Act 1983 (Mental Health Review Tribunals) as regions for the purposes of subsection (1A)(a) of that section each of the [^M78]regions for which, immediately before that date, a Regional Health Authority is established in pursuance of the [^M79]National Health Service Act 1977.
+
+(2) Each Mental Health Review Tribunal in existence immediately before that date shall, subject to the provisions of that section and of Schedule 2 to that Act (provisions about Tribunals), continue on and after that date to be the Tribunal for the area for which it was the Tribunal immediately before that date.
+
+### Complaints and appeals
+
+**16** (1) Nothing in this Act—
+
+(a) prevents a complaint or appeal made (but not disposed of) before 1st April 1996 from being continued on and after that date, or
+
+(b) prevents the exercise of any right to make a complaint or appeal which has arisen (but not been exercised) before that date at any time on or after that date when it would have been exercisable but for this Act.
+
+(2) The Secretary of State may by order make such provision as appears appropriate in relation to complaints and appeals which may be continued, or any right which may be exercised, by virtue of sub-paragraph (1).
+
+(3) Sub-paragraph (1) applies in particular—
+
+(a) to complaints to the Health Service Commissioner for England or (except in relation to a Regional Health Authority) the Health Service Commissioner for Wales, and
+
+(b) (except in relation to a Family Health Services Authority) to complaints in relation to which section 1 of the [^M80]Hospital Complaints Procedure Act 1985 (directions as to hospital complaints procedure) applies.
+
+### Arrangements about certain hospital premises etc.
+
+**17** The Secretary of State may by order make provision for and in connection with continuing in effect on and after 1st April 1996 any arrangements under paragraph 7 or 8 of the sixth Schedule to the [^M81]National Assistance Act 1948 (transitional provisions) which are in force immediately before that date.
+
+### Continuity
+
+**18** (1) The abolition by this Act of Regional Health Authorities, District Health Authorities and Family Health Services Authorities on 1st April 1996 does not affect the validity of anything done by any of those authorities before that date.
+
+(2) The Secretary of State may by order provide—
+
+(a) for anything which immediately before 1st April 1996 is in the process of being done by or in relation to a Regional Health Authority, District Health Authority or Family Health Services Authority (or a particular such Authority) to be continued, and
+
+(b) for anything done by or in relation to such an authority (or a particular such authority) before 1st April 1996 to be treated on and after that date as if done,
+
+by or in relation to the Secretary of State or by or in relation to a Health Authority or Special Health Authority (or a specified such Authority).
+
+(3) Sub-paragraph (2)(b) applies in particular to—
+
+(a) allotments, applications, appointments, arrangements, determinations, records and representations made,
+
+(b) approvals, directions and notices given,
+
+(c) conditions and disqualifications imposed,
+
+(d) consultations undertaken,
+
+(e) contracts (including NHS contracts) entered into,
+
+(f) information recorded,
+
+(g) facilities, goods, materials and services made available, provided or supplied,
+
+(h) payments made,
+
+(i) proceedings (including appeals) begun, and
+
+(j) recognitions granted or removed.
+
+### Instruments and other documents
+
+**19** (1) The Secretary of State may by order provide that any instrument (including an instrument made under any enactment) made by or in relation to a Regional Health Authority, District Health Authority or Family Health Services Authority shall continue in force on and after 1st April 1996.
+
+(2) The Secretary of State may by order—
+
+(a) provide that any reference in any instrument (including any instrument made under an enactment) or any other document to a Regional Health Authority, District Health Authority or Family Health Services Authority (or a particular such Authority) shall be construed on and after 1st April 1996 as being, or as including, a reference to the Secretary of State or to a Health Authority or Special Health Authority (or a specified such Authority), and
+
+(b) make any other provision amending or otherwise modifying any such instrument or other document which appears appropriate in consequence of, or otherwise in connection with, any provision of this Act.
+
+### General
+
+**20** (1) The Secretary of State may by order make any transitional provision which appears appropriate in connection with any provision of this Act.
+
+(2) Nothing in any other provision of this Act prejudices the generality of the power conferred by sub-paragraph (1).
+
+(3) An order made under sub-paragraph (1) may, in particular, include any saving from the effect of any amendment or repeal made by this Act.
+
+**21** Nothing in any provision made by or by virtue of this Schedule prejudices the operation of sections 16 and 17 of the [^M82]Interpretation Act 1978 (effect of repeals).
+
+### Interpretation
+
+**22** (1) In this Schedule “specified” means specified in an order made under this Schedule.
+
+(2) Expressions used in both this Schedule and the [[^F74]National Health Service Act 2006] have the same meaning in this Schedule as in that Act.
+
+## SCHEDULE 3 — Repeals and revocations
+
+*Section 5(1).*
+
+|  |  |  |
+|---|---|---|
+| Reference | Short title or title | Extent of repeal or revocation |
+| 11 & 12 Geo. 6 c. 29. | The National Assistance Act 1948. | In the sixth Schedule, paragraphs 7 to 9. |
+| 14 & 15 Geo. 6 c. 65. | The Reserve and Auxiliary Forces (Protection of Civil Interests) Act 1951. | In section 61, the proviso to subsection (5). |
+| 1967 c. 13. | The Parliamentary Commissioner Act 1967. | In Schedule 3, in paragraph 8, the words “a Family Practitioner Committee,”. |
+| 1971 c. 40. | The Fire Precautions Act 1971. | Section 40(10A). |
+| 1973 c. 32. | The National Health Service Reorganisation Act 1973. | The whole Act. |
+| 1974 c. 37. | The Health and Safety at Work etc. Act 1974. | Section 78(8)(d). |
+| 1976 c. 71. | The Supplementary Benefits Act 1976. | In Schedule 6, in Part II, in paragraph 4, the words “the National Assistance Act 1948”. |
+|  |  | In Schedule 7, paragraph 6(b). |
+| 1977 c. 49. | The National Health Service Act 1977. | In section 13, in subsection (1), the words “(subject to section 14 below)” and, in subsection (2), paragraph (b) and the word “but” immediately preceding it. |
+|  |  | Section 14. |
+|  |  | Section 15(1A). |
+|  |  | In section 18, subsection (2) and, in subsection (3), the words following paragraph (b). |
+|  |  | In section 19, in subsection (1), the words “, or for the region of a Regional Health Authority,” and “or of the region” and subsections (2)(b) and (3). |
+|  |  | In section 22, the Table. |
+|  |  | In section 93(2), the words “, or Part II of that Act of 1973”. |
+|  |  | In section 96A, subsection (2), in subsection (6), the words from “to another” to “for an NHS trust” and, in subsection (8), the words “or by a Regional Health Authority” and “or that Authority”. |
+|  |  | Section 97B. |
+|  |  | Section 98(5). |
+|  |  | In section 124(5), the words “or district”. |
+|  |  | Section 126(1)(a). |
+|  |  | In section 128(1), the definitions of “District Health Authority” and “health authority” and, in the definition of “local authority”, the words “and includes the King Edward VII Welsh National Memorial Association;”. |
+|  |  | In Schedule 5, in Part III, in paragraph 9(1), the words “or a Regional Health Authority”, paragraph 10(3)(b) and (d), in paragraph 11, in sub-paragraph (2), the words “or, as the case may be, a Regional Health Authority’s”, “or the Authority” (in both places), “or itself” and “or paragraph (d)” and, in sub-paragraph (3), the words “or Regional Health Authority”, “or paragraph (b)” and “or the Authority” (in both places), in paragraph 12(b), the words “, and the exercise of functions by,” and paragraph 15(3). |
+|  |  | In Schedule 6, in paragraph 1(1), the words “, or for the region of a Regional Health Authority, or the area or district of an Area or District Health Authority,”, in paragraph 2, the words “or (3)”, paragraph 4 and, in paragraph 5, the second sentence. |
+|  |  | In Schedule 7, paragraph 8. |
+|  |  | In Schedule 14, paragraph 16. |
+|  |  | In Schedule 15, in paragraph 12, paragraph (a) and, in paragraph (b), the words from “and” to the end and paragraphs 58 and 59. |
+| 1978 c. 29. | The National Health Service (Scotland) Act 1978. | Section 17A(2)(i). |
+|  |  | In Schedule 15, in paragraph 10(b), the words “94(b),”. |
+|  |  | In Schedule 16, paragraphs 3(3) and 8. |
+| 1978 c. 30. | The Interpretation Act 1978. | In Schedule 2, in Part I, in paragraph 4(6), the words “the National Health Service Reorganisation Act 1973 and”. |
+| 1980 c. 30. | The Social Security Act 1980. | In Schedule 4, paragraph 2(3). |
+| 1980 c. 53. | The Health Services Act 1980. | Section 1(1) to (6) and (8) to (10). |
+|  |  | Section 6(1) and (2). |
+|  |  | In Schedule 1, in Part I, paragraphs 4, 6, 9 to 11, 14, 16, 18, 19(1), (3) and (4), 20, 22, 23, 24, 26, 28, 31 to 34, 36, 38 to 41, 43(b), 50, 62 to 65, 67, 69(a), 70, 71, 75, 76, 77(a), 78(1), 80, 81, 82(1) and (4) and 84 to 86. |
+| 1982 c. 32. | The Local Government Finance Act 1982. | Section 28A. |
+| 1983 c. 20. | The Mental Health Act 1983. | Section 39(2). |
+|  |  | In Schedule 4, paragraph 47(f). |
+|  |  | In Schedule 5, paragraph 46. |
+| 1983 c. 41. | The Health and Social Services and Social Security Adjudications Act 1983. | In Schedule 5, paragraph 3(a). |
+|  |  | In Schedule 6, paragraph 4. |
+|  |  | In Schedule 9, in Part I, paragraphs 7 and 28. |
+| 1984 c. 22. | The Public Health (Control of Disease) Act 1984. | In Schedule 2, paragraph 7. |
+| 1984 c. 24. | The Dentists Act 1984. | In Schedule 5, paragraph 11. |
+| 1984 c. 48. | The Health and Social Security Act 1984. | Section 5(1), (3), (5) and (6). |
+|  |  | Section 6(1). |
+|  |  | In Schedule 3, paragraphs 2, 3(a), (c) and (d), 6(b), 7, 9 to 11, 13, 14, 16 and 17. |
+| 1985 c. 42. | The Hospital Complaints Procedure Act 1985. | Section 1A. |
+| S.I.1985/39. | The Family Practitioner Committees (Consequential Modifications) Order 1985. | Articles 2, 3, 5, 6, 7(2), (3)(b) and (c), (6), (7)(b), (10), (12), (13)(b), (14) to (21) and (22)(a), 8 and 9. |
+| 1986 c. 33. | The Disabled Persons (Services, Consultation and Representation) Act 1986. | In section 7(1)(a), the words “district or”. |
+| 1987 c. 33. | The AIDS (Control) Act 1987. | Section 1(1)(a). |
+|  |  | In the Schedule, in paragraphs 4 and 7, the words “district or”. |
+| 1988 c. 1. | The Income and Corporation Taxes Act 1988. | Section 519A(2)(c). |
+| 1988 c. 24. | The Community Health Councils (Access to Information) Act 1988. | Section 1(7). |
+| 1988 c. 49. | The Health and Medicines Act 1988. | Section 16(1) and (2). |
+| 1989 c. 41. | The Children Act 1989. | In section 105(1), the definition of “district health authority”. |
+| 1989 c. 44. | The Opticians Act 1989. | Section 37(2). |
+| 1990 c. 19. | The National Health Service and Community Care Act 1990. | Section 1(1), (2), (4) and (5). |
+|  |  | Section 2. |
+|  |  | Section 3(3) and (4). |
+|  |  | Section 4(2)(d). |
+|  |  | In section 11(5), in paragraph (a), the words from “and for the words” to the end and paragraphs (b) and (c). |
+|  |  | In section 12, subsections (1)(a) and (2), in subsections (3) and (4), paragraph (b) and the word “and” immediately preceding it and subsection (5). |
+|  |  | Section 13. |
+|  |  | Section 14(3) to (5) and (6)(d). |
+|  |  | In section 15, subsection (2), in subsection (3), the words “or subsection (2)” and subsections (5) and (8). |
+|  |  | In section 16, in subsection (2), the words “the relevant Regional Health Authority or, as the case may be,” and “the Regional Health Authority or, as the case may be,”, in subsection (3)(b), the words from the beginning to “Authority;”, in subsection (4)(c), the words “the Regional Health Authority or, as the case may be,” and subsections (5) and (7). |
+|  |  | In section 17(1), the words “a Regional Health Authority or, in Wales,”. |
+|  |  | Section 19. |
+|  |  | Section 20(2)(c) and (d). |
+|  |  | Section 23(5). |
+|  |  | Section 25(2)(b) and (c) and (4)(a). |
+|  |  | Section 26(2)(b). |
+|  |  | Section 46(2)(b). |
+|  |  | Section 59(1). |
+|  |  | Section 60(7)(d). |
+|  |  | In section 62(7), in the definition of “health service body”, paragraph (vi) and the word “and” immediately preceding it. |
+|  |  | In Schedule 1, Parts I and II and, in Part III, paragraph 6. |
+|  |  | In Schedule 2, in Part III, in paragraph 23, in sub-paragraph (1), the words “of health authorities etc.” and sub-paragraphs (2) and (5) and paragraphs 24(1) and 25(a). |
+|  |  | In Schedule 9, in paragraph 18, sub-paragraph (1)(b), in sub-paragraph (7), in paragraph (a), the words from “for paragraph (e)” to “and” and paragraph (c) and sub-paragraph (13)(a), in paragraph 24, in sub-paragraph (3)(a), the words from “, and after” to “ “trust or””, sub-paragraph (4), in sub-paragraph (5), the words from “after” to “ “trusts” and” and sub-paragraph (6), paragraph 26(1), paragraph 29 and, in paragraph 32(1), in paragraph (a), the words “the word “and” at the end of sub-paragraph (ii) shall be deleted and” and paragraphs (b) and (c). |
+| 1990 c. 23. | The Access to Health Records Act 1990. | In section 7(1), the words “or Family Practitioner Committee”. |
+| 1990 c. 44. | The Caldey Island Act 1990. | In section 3, the words “and the district of the Pembrokeshire Health Authority”. |
+|  |  | In section 4(1), paragraph (d) and the word “and” immediately preceding it. |
+| 1993 c. 38. | The Welsh Language Act 1993. | Section 6(1)(h). |
+| 1993 c. 46. | The Health Service Commissioners Act 1993. | In section 2, subsection (1)(e) and, in subsection (2), paragraph (d) and the word “and” immediately preceding it. |
+| 1994 c. 19. | The Local Government (Wales) Act 1994. | In Schedule 10, paragraph 11(1). |
+
+---
+
+[^F1]: S. 1 repealed (1.10.2002 for E. and 10.10.2002 for W.) by 2002 c. 17, s. 37, Sch. 8 para. 21, Sch. 9 Pt. 3; S.I. 2002/2478, art. 3(1)(e)(ii)(f)(iv); S.I. 2002/2532, art. 2, Sch.
+[^F2]: S. 3 (except s. 3(8)) ceased to have effect (1.4.1996) by virtue of 1995 c. 17, s. 3(10) (with Sch. 2 paras. 6, 16)
+[^M1]: 1977 c. 49.
+[^M2]: 1977 c. 49.
+[^M3]: 1977 c. 49.
+[^F3]: S. 3(8) repealed (1.3.2007) by National Health Service (Consequential Provisions) Act 2006 (c. 43), s. 8(2), Sch. 4 (with Sch. 2 Pt. 1, Sch. 3 Pt. 1)
+[^M4]: 1977 c. 49.
+[^M5]: 1977 c. 49.
+[^M6]: 1978 c. 30.
+[^M7]: 1977 c. 49.
+[^M8]: 1978 c. 30.
+[^M9]: 1977 c. 49.
+[^F4]: Sch. 1 para. 3(a) repealed (1.3.2007) by Health Act 1999 (c. 8), s. 67(1), Sch. 5; S.I. 2006/1407, art. 1(1), Sch. 1 para. 6 (with art. 4)
+[^F5]: Sch. 1 para. 4 repealed (1.4.2000) (E.W.) by 1999 c. 8, s. 65(2), Sch. 5; S.I. 2000/1041, art. 2(c)(d), Sch.
+[^F6]: Sch. 1 para. 4 repealed (1.3.2007) by Health Act 1999 (c. 8), s. 67(1), Sch. 5; S.I. 2006/1407, art. 1(1), Sch. 1 para. 6 (with art. 4)
+[^F7]: Sch. 1 para. 6(c) repealed (1.4.1998) by 1997 c. 46, s. 41(12), Sch. 3 Pt. I; S.I. 1998/631, art. 2(a), Sch. 1 and expressed to be repealed (E.) (1.10.1999) and (W.) (1.4.2000) by 1999 c. 8, s. 65, Sch. 5; S.I. 1999/2540, art. 2(1)(a), Sch. 1; S.I. 2000/1041, art. 2(c)(d), Sch.
+[^F8]: Sch. 1 para. 6(d) repealed (E.) (1.10.1999) and (W.) (1.4.2000) by 1999 c. 8, s. 65, Sch. 5; S.I. 1999/2540, art. 2(1)(a), Sch. 1; S.I. 2000/1041, art. 2(c)(d), Sch.
+[^M10]: 1990 c. 19.
+[^M11]: 1990 c. 19.
+[^F9]: Sch. 1 para. 11 repealed (20.10.2003 for W., 1.12.2003 for E.) by Health (Wales) Act 2003 (c. 4), s. 10(2), Sch. 4; S.I. 2003/2660, art. 2(1)(iii)(2); S.I. 2003/3064, art. 2(1)(iii)(2)
+[^F10]: Sch. 1 paras. 18-26 repealed (1.4.2004 for the repeal of Sch. 1 paras. 18-23 except for W., 1.4.2004 for the repeal of Sch. 1 paras. 18-23 for W., 1.4.2006 for E. so far as not already in force, 1.4.2006 for W. for the repeal of Sch. 1 paras. 24, 25 for specified purposes) by Health and Social Care (Community Health and Standards) Act 2003 (c. 43), s. 199(1)(4), Sch. 14 Pt. 4; S.I. 2004/288, art. 6(2)(m) (as amended by S.I. 2004/866 and S.I. 2005/2925); S.I. 2004/480, art. 5(2)(m) (as amended by S.I. 2004/1019 and S.I. 2006/345); S.I. 2005/2925, art. 11; S.I. 2006/345, art. 7(2)(h)
+[^F11]: Sch. 1 para. 29 repealed (1.7.2002 for W., 1.4.2006 for E.) by Health and Social Care Act 2001 (c. 15), ss. 67, 70(2), Sch. 6 Pts. 1, 2 (with ss. 64(9), 65(4)); S.I. 2002/1475, art. 2(1), Sch. Pt. 1; S.I. 2006/481, art. 3
+[^F12]: Sch. 1 para. 32(b) repealed (1.10.2002 for E. and 10.10.2002 for W.) by 2002 c. 17, s. 37, Sch. 8 para. 22, Sch. 9 Pt. 3; S.I. 2002/2478, art. 3(1)(e)(ii)(f)(iv); S.I. 2002/2532, art. 2, Sch.
+[^F13]: Sch. 1 para. 34 repealed (1.3.2007) by Health Act 1999 (c. 8), s. 67(1), Sch. 5; S.I. 2006/1407, art. 1(1), Sch. 1 para. 6 (with art. 4)
+[^M12]: 1990 c. 19.
+[^F14]: Sch. 1 para. 36 repealed (1.4.1998) by 1997 c. 46, s. 41(12), Sch. 3 Pt. I; S.I. 1998/631, art. 2(a), Sch. 1
+[^M13]: 1990 c. 19.
+[^F15]: Sch. 1 para. 50(b) repealed (20.10.2003 for W., 1.12.2003 for E.) by Health (Wales) Act 2003 (c. 4), s. 10(2), Sch. 4; S.I. 2003/2660, art. 2(1)(iii)(2); S.I. 2003/3064, art. 2(1)(iii)(2)
+[^F16]: Sch. 1 para. 50(c) repealed (E.) (1.10.1999) (W.) (1.4.2000) by 1999 c. 8, s. 65, Sch. 5; S.I. 1999/2540, art. 2(1)(a), Sch. 1; S.I. 2000/1041, art. 2(c)(d), Sch.
+[^F17]: Sch. 1 para. 51 repealed (1.3.2007 immediately before the National Health Service Act 2006 comes into force) by The National Health Service (Pre-consolidation Amendments) Order 2006 (S.I. 2006/1407), art. 1(1), Sch. 2 (with art. 4)
+[^F18]: Sch. 1 para. 53 repealed (1.10.2002 for E. and 10.10.2002 for W.) by 2002 c. 17, s. 37, Sch. 8 para. 22, Sch. 9 Pt. 3; S.I. 2002/2478, art. 3(2)(c)(ii) (subject to arts. 3(3), 4); S.I. 2002/2532, art. 2, Sch.
+[^M14]: 1990 c. 19.
+[^F19]: Sch. 1 para. 58(b) repealed (E.) (1.10.1999) (W.) (1.4.2000) by 1999 c. 8, s. 65, Sch. 5; S.I. 1999/2540, art. 2(1)(a), Sch. 1; S.I. 2000/1041, art. 2(c)(d), Sch.
+[^F20]: Sch. 1 para. 60(b)(ii) repealed (1.3.2007 immediately before the National Health Service Act 2006 comes into force) by The National Health Service (Pre-consolidation Amendments) Order 2006 (S.I. 2006/1407), art. 1(1), Sch. 2 (with art. 4)
+[^F21]: Sch. 1 para. 62 repealed (20.10.2003 for W., 1.12.2003 for E.) by Health (Wales) Act 2003 (c. 4), s. 10(2), Sch. 4; S.I. 2003/2660, art. 2(1)(iii)(2); S.I. 2003/3064, art. 2(1)(iii)(2)
+[^F22]: Sch. 1 para. 63 repealed (21.12.1995) by 1995 c. 31, s. 14(2), Sch.; S.I. 1995/3090, art. 2, Sch.
+[^M15]: 1990 c. 19.
+[^F23]: Sch. 1 para. 66 repealed (1.3.2007) by National Health Service (Consequential Provisions) Act 2006 (c. 43), s. 8(2), Sch. 4 (with Sch. 2 Pt. 1, Sch. 3 Pt. 1)
+[^F24]: Sch. 1 para. 67 repealed (1.3.2007 immediately before the National Health Service Act 2006 comes into force) by The National Health Service (Pre-consolidation Amendments) Order 2006 (S.I. 2006/1407), art. 1(1), Sch. 2 (with art. 4)
+[^F25]: Sch. 1 paras. 68-72 repealed (1.3.2007) by National Health Service (Consequential Provisions) Act 2006 (c. 43), s. 8(2), Sch. 4 (with Sch. 2 Pt. 1, Sch. 3 Pt. 1)
+[^F26]: Sch. 1 paras. 68-72 repealed (1.3.2007) by National Health Service (Consequential Provisions) Act 2006 (c. 43), s. 8(2), Sch. 4 (with Sch. 2 Pt. 1 Sch. 3 Pt. 1)
+[^F27]: Sch. 1 para. 72 repealed (1.3.2007) (E.W.) by Health Act 1999 (c. 8), s. 67(1), Sch. 5; S.I. 2006/1407, art. 1(1), Sch. 1 para. 6 (with art. 4)
+[^F28]: Sch. 1 para. 73 repealed (E.) (1.10.1999) and (W.) (1.4.2000) by 1999 c. 8, s. 65, Sch. 5; S.I. 1999/2540, art. 2(1)(a), Sch. 1; S.I. 2000/1041, art. 2(c)(d), Sch.
+[^F29]: Sch. 1 para. 74 repealed (E.) (1.10.1999) and (W.) (1.4.2000) by 1999 c. 8, s. 65, Sch. 5; S.I. 1999/2540, art. 2(1)(a), Sch. 1; S.I. 2000/1041, art. 2(c)(d), Sch.
+[^F30]: Sch. 1 para. 75 repealed (E.) (1.10.1999) and (W.) (1.4.2000) by 1999 c. 8, s. 65, Sch. 5; S.I. 1999/2540, art. 2(1)(a), Sch. 1; S.I. 2000/1041, art. 2(c)(d), Sch.
+[^F31]: Sch. 1 para. 76 repealed (E.) (1.10.1999) and (W.) (1.4.2000) by 1999 c. 8, s. 65, Sch. 5; S.I. 1999/2540, art. 2(1)(a), Sch. 1; S.I. 2000/1041, art. 2(c)(d), Sch.
+[^F32]: Sch. 1 para. 78 repealed (1.3.2007) by National Health Service (Consequential Provisions) Act 2006 (c. 43), s. 8(2), Sch. 4 (with Sch. 2 Pt. 1, Sch. 3 Pt. 1)
+[^F33]: Sch. 1 para. 79 repealed (1.3.2007) by National Health Service (Consequential Provisions) Act 2006 (c. 43), s. 8(2), Sch. 4 (with Sch. 2 Pt. 1, Sch. 3 Pt. 1)
+[^M16]: 1977 c. 49.
+[^M17]: 1977 c. 49.
+[^M18]: 1977 c. 49.
+[^F34]: Sch. 1 para. 85 repealed (1.3.2007) by National Health Service (Consequential Provisions) Act 2006 (c. 43), s. 8(2), Sch. 4 (with Sch. 2 Pt. 1, Sch. 3 Pt. 1)
+[^M19]: 1947 c. 19.
+[^M20]: 1948 c. 29.
+[^M21]: 1951 c. 65.
+[^M22]: 1990 c. 19.
+[^M23]: 1977 c. 49.
+[^M24]: 1978 c. 29.
+[^M25]: 1954 c. 56.
+[^M26]: 1958 c. 51.
+[^M27]: 1977 c. 49.
+[^M28]: 1960 c. 67.
+[^M29]: S.I. 1992/664.
+[^F35]: Sch. 1 para. 92 repealed (1.9.2006) by Human Tissue Act 2004 (c. 30), s. 60(2), Sch. 7 Pt. 1 (with s. 58); S.I. 2006/1997, art. 3(2) (with arts. 4, 7, 8)
+[^M30]: 1967 c. 13.
+[^M31]: 1967 c. 88.
+[^M32]: 1968 c. 46.
+[^M33]: 1977 c. 49.
+[^M34]: 1946 c. 81.
+[^F36]: Sch. 1 para. 96 repealed (26.3.2001) by S.I. 2001/1149, art. 3(2), Sch. 2 (with arts. 1(4),4(11))
+[^M35]: 1972 c. 70.
+[^F37]: Sch. 1 para. 97(3) repealed (22.7.2004) by Statute Law (Repeals) Act 2004 (c. 14), Sch. 1 Pt. 10 Group 1
+[^M36]: 1973 c. 32.
+[^M37]: 1974 c. 37.
+[^M38]: 1975 c. 24.
+[^M39]: 1977 c. 49.
+[^F38]: Sch. 1 para. 101 repealed (30.12.2005) by Adoption and Children Act 2002 (c. 38), s. 148(1), Sch. 5 (with Sch. 4 paras. 2, 6-8); S.I. 2005/2897, art. 2(b)
+[^M40]: 1978 c. 29.
+[^M41]: 1977 c. 49.
+[^M42]: 1977 c. 49.
+[^M43]: 1985 c. 42.
+[^M44]: 1978 c. 44.
+[^F39]: Sch. 1 para. 103 repealed (22.8.1996) by 1996 c. 18, ss. 242, 243, Sch. 3 Pt. I
+[^F40]: Sch. 1 para. 104 repealed (19.6.1997) by 1997 c. 24, ss. 23(3), 24(2), Sch. 6
+[^F41]: Sch. 1 para. 105 repealed (17.6.2002) by 2002 c. 1, s. 19(2), Sch. 4 (with Sch. 5 para. 5); S.I. 2002/1408, art. 2
+[^F42]: Sch. 1 para. 106 repealed (11.9.1998) 1998 c. 18, ss. 54(3), 55(2), Sch. 5
+[^M45]: 1983 c.20.
+[^F43]: Sch. 1 para. 107(2)(a) omitted (1.7.2012) by virtue of Health and Social Care Act 2012 (c. 7), ss. 39(4)(b), 306(4); S.I. 2012/1319, art. 2(3)
+[^F44]: Sch. 1 para. 107(3) omitted (1.7.2012) by virtue of Health and Social Care Act 2012 (c. 7), ss. 39(4)(b), 306(4); S.I. 2012/1319, art. 2(3)
+[^M46]: 1977 c.49.
+[^F45]: Sch. 1 para. 107(12)(b) repealed (1.10.2002 for E. and 10.10.2002 for W.) by 2002 c. 17, s. 37, Sch. 8 para. 22, Sch. 9 Pt. 3; S.I. 2002/2478, art. 3(1)(e)(ii)(f)(iv) (subject (E.) to arts. 3(3), 4); S.I. 2002/2532, art. 2, Sch.
+[^F46]: Sch. 1 para. 107(13) repealed (3.11.2008) by Mental Health Act 2007 (c. 12), s. 56(1), Sch. 11 Pt. 6; S.I. 2008/1900, art. 2(p) (with art. 3, Sch.)
+[^M47]: 1977 c.49.
+[^M48]: 1984 c.22.
+[^F47]: Sch. 1 para. 108(6)(b) and the word preceding it repealed (1.10.2002) by S.I. 2002/2469, reg. 19(1), Sch. 13
+[^F48]: Sch. 1 para. 108(8)(b) and the word preceding it repealed (1.10.2002) by S.I. 2002/2469, reg. 19(1), Sch. 13
+[^F49]: Sch. 1 para. 109 repealed (1.4.2004) by Health and Social Care (Community Health and Standards) Act 2003 (c. 43), s. 199(1)(4), Sch. 14 Pt. 2; S.I. 2004/759, art. 13
+[^M49]: 1986 c.24.
+[^M50]: 1986 c.33.
+[^F50]: Sch. 1 para. 111(2) repealed (1.10.2002) by S.I. 2002/2469, reg. 19(1), Sch. 13
+[^F51]: Sch. 1 para. 112 repealed (1.11.1996) by 1996 c. 56, ss. 582(2)(3), 583(2), Sch. 38 Pt. I, Sch. 39 (with s. 1(4))
+[^M51]: 1987 c.33.
+[^M52]: 1977 c.49.
+[^F52]: Sch. 1 para. 114 repealed (with effect in accordance with s. 1184(1) of the amending Act) by Corporation Tax Act 2010 (c. 4), s. 1184(1), Sch. 3 Pt. 1 (with Sch. 2)
+[^M53]: 1988 c.20.
+[^M54]: 1977 c.49.
+[^M55]: 1988 c.24.
+[^M56]: 1988 c.52.
+[^M57]: 1989 c.41.
+[^M58]: 1977 c.49.
+[^M59]: 1990 c.23.
+[^F53]: Sch. 1 para. 119(4)(a) repealed (1.3.2007) by National Health Service (Consequential Provisions) Act 2006 (c. 43), s. 8(2), Sch. 4 (with Sch. 2 Pt. 1, Sch. 3 Pt. 1)
+[^F54]: Sch. 1 para. 120 repealed (1.8.2008 for E.) by Water Act 2003 (c. 37), s. 105(3), Sch. 7 para. 41, Sch. 9 Pt. 3; S.I. 2008/1922, art. 2(e)(f)
+[^M60]: 1991 c.56.
+[^M61]: S.I. 1991/194 (N.I. 1)
+[^M62]: 1992 c.52.
+[^M63]: 1992 c.52.
+[^M64]: 1977 c.49.
+[^M65]: 1977 c. 49.
+[^F55]: Sch. 1 para. 124 repealed (1.11.1996) by 1996 c. 56, ss. 582(2)(3), 583(2), Sch. 38 Pt. I, Sch. 39 (with s. 1(4))
+[^M66]: 1993 c. 38.
+[^M67]: 1977 c. 49.
+[^M68]: 1993 c. 46.
+[^F56]: Sch. 1 para. 126(2)(b) repealed (1.4.2006) by Public Services Ombudsman (Wales) Act 2005 (c. 10), s. 40, Sch. 7; S.I. 2005/2800, art. 5(1)(3)
+[^F57]: Sch. 1 para. 126(3) repealed (1.4.2006) by Public Services Ombudsman (Wales) Act 2005 (c. 10), s. 40, Sch. 7; S.I. 2005/2800, art. 5(1)(3)
+[^M69]: 1994 c. 23.
+[^M70]: 1977 c. 49.
+[^F58]: Words in Sch. 2 para. 2(1) omitted (1.4.2013) by virtue of Health and Social Care Act 2012 (c. 7), s. 306(4), Sch. 5 para. 71(a); S.I. 2013/160, art. 2(2) (with arts. 7-9)
+[^F59]: Words in Sch. 2 para. 2(1) omitted (1.4.2013) by virtue of Health and Social Care Act 2012 (c. 7), s. 306(4), Sch. 5 para. 71(b); S.I. 2013/160, art. 2(2) (with arts. 7-9)
+[^F60]: Words in Sch. 2 para. 2(1) substituted (1.4.2007) by The References to Health Authorities Order 2007 (S.I. 2007/961), art. 1(1), Sch. para. 25
+[^F61]: Words in Sch. 2 para. 2(2) omitted (1.4.2013) by virtue of Health and Social Care Act 2012 (c. 7), s. 306(4), Sch. 5 para. 71(a); S.I. 2013/160, art. 2(2) (with arts. 7-9)
+[^F62]: Words in Sch. 2 para. 2(2) omitted (1.4.2013) by virtue of Health and Social Care Act 2012 (c. 7), s. 306(4), Sch. 5 para. 71(b); S.I. 2013/160, art. 2(2) (with arts. 7-9)
+[^F63]: Words in Sch. 2 para. 2(2) substituted (1.4.2007) by The References to Health Authorities Order 2007 (S.I. 2007/961), art. 1(1), Sch. para. 25
+[^F64]: Words in Sch. 2 para. 2(4) inserted (1.3.2007) by National Health Service (Consequential Provisions) Act 2006 (c. 43), s. 8(2), Sch. 1 para. 176(a) (with Sch. 3 Pt. 1)
+[^F65]: Words in Sch. 2 para. 2(6) omitted (1.4.2013) by virtue of Health and Social Care Act 2012 (c. 7), s. 306(4), Sch. 5 para. 71(a); S.I. 2013/160, art. 2(2) (with arts. 7-9)
+[^F66]: Words in Sch. 2 para. 2(6) omitted (1.4.2013) by virtue of Health and Social Care Act 2012 (c. 7), s. 306(4), Sch. 5 para. 71(b); S.I. 2013/160, art. 2(2) (with arts. 7-9)
+[^F67]: Words in Sch. 2 para. 2(6) substituted (1.4.2007) by The References to Health Authorities Order 2007 (S.I. 2007/961), art. 1(1), Sch. para. 25
+[^F68]: Words in Sch. 2 para. 2(7) omitted (1.4.2013) by virtue of Health and Social Care Act 2012 (c. 7), s. 306(4), Sch. 5 para. 71(a); S.I. 2013/160, art. 2(2) (with arts. 7-9)
+[^F69]: Words in Sch. 2 para. 2(7) omitted (1.4.2013) by virtue of Health and Social Care Act 2012 (c. 7), s. 306(4), Sch. 5 para. 71(b); S.I. 2013/160, art. 2(2) (with arts. 7-9)
+[^F70]: Words in Sch. 2 para. 2(7) substituted (1.4.2007) by The References to Health Authorities Order 2007 (S.I. 2007/961), art. 1(1), Sch. para. 25
+[^M71]: 1977 c. 49.
+[^M72]: 1977 c. 49.
+[^F71]: Sch. 2 para. 5(2A)-(2C) inserted (1.12.2003) by The Stamp Duty Land Tax (Consequential Amendment of Enactments) Regulations 2003 (S.I. 2003/2867), reg. 1, Sch. para. 23
+[^F72]: Sch. 2 para. 5(3)-(6) substituted for Sch. 2 para. 5(3) (1.3.2007) by National Health Service (Consequential Provisions) Act 2006 (c. 43), s. 8(2), Sch. 1 para. 176(b) (with Sch. 3 Pt. 1)
+[^M73]: 1990 c. 19.
+[^M74]: 1993 c. 48.
+[^M75]: 1973 c. 32.
+[^M76]: 1977 c. 49.
+[^M77]: 1977 c. 49.
+[^F73]: Sch. 2 para. 13(5) repealed (E.) (1.10.1999) and (W.) (1.4.2000) by 1999 c. 8, s. 65, Sch. 5; S.I. 1999/2540, art. 2(1)(a), Sch. 1; S.I. 2000/1041, art. 2(c)(d), Sch.
+[^M78]: 1977 c. 49.
+[^M79]: 1983 c. 20.
+[^M80]: 1985 c. 42.
+[^M81]: 1948 c. 29.
+[^M82]: 1978 c. 30.
+[^F74]: Words in Sch. 2 para. 22(2) substituted (1.3.2007) by National Health Service (Consequential Provisions) Act 2006 (c. 43), s. 8(2), Sch. 1 para. 176(c) (with Sch. 3 Pt. 1)

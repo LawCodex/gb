@@ -1,0 +1,8184 @@
+---
+title: "Planning and Infrastructure Act 2025"
+identifier: "ukpga/2025/34"
+citation: "2025 Chapter 34"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S+N.I."
+date: 2025-12-18
+last_amended: 2026-09-01
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/2025/34"
+source_modified: 2026-09-01
+retrieved: 2026-10-11
+---
+
+# Planning and Infrastructure Act 2025
+
+**2025 Chapter 34**
+
+An Act to make provision about infrastructure; to make provision about town and country planning; to make provision for a scheme, administered by Natural England, for a nature restoration levy payable by developers; to make provision about development corporations; to make provision about the compulsory purchase of land; to make provision about environmental outcomes reports; and for connected purposes.
+
+[18th December 2025]
+
+Be it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## Part 1 — Infrastructure
+
+### Chapter 1 — Nationally significant infrastructure projects
+
+#### 1 National policy statements: review
+
+(1) Section 6 of the Planning Act 2008 (review) is amended as set out in subsections (2) to (5).
+
+(2) For subsection (1) substitute—
+
+> (1) The Secretary of State—
+>
+> (a) must review each national policy statement whenever the Secretary of State thinks it appropriate to do so, and
+>
+> (b) in any event, must carry out a full review of each national policy statement at times that enable the Secretary of State to comply with subsection (5A).
+
+(3) In subsection (2), at the end insert “, and in this section a “full review” means a single review relating to all of a national policy statement”.
+
+(4) After subsection (4) insert—
+
+> (4A) Whenever the Secretary of State decides to review a national policy statement, the Secretary of State must lay a statement before Parliament announcing the review.
+
+(5) After subsection (5) insert—
+
+> (5A) But, unless and until a statement’s designation as a national policy statement is withdrawn—
+>
+> (a) the Secretary of State must amend each national policy statement within the initial period (see section 6ZA), and
+>
+> (b) the Secretary of State must subsequently amend each national policy statement at intervals of no more than five years.
+>
+> (5B) An amendment of a national policy statement counts for the purposes of subsection (5A) only if the amendment arises from a full review of the statement.
+>
+> (5C) An amendment of a national policy statement that is required by subsection (5A) to be made by a certain time may be delayed beyond that time only if and for so long as exceptional circumstances exist which, in the opinion of the Secretary of State, make the delay unavoidable.
+>
+> (5D) In that case the Secretary of State must, before the deadline for amending the national policy statement, lay a statement before Parliament explaining the reasons for the extension and stating when the Secretary of State expects to amend the national policy statement.
+
+(6) After section 6 of the Planning Act 2008 insert—
+
+> **6ZA Review: supplementary**
+>
+> (1) Subsections (2) to (5) explain what is meant by “the initial period” in section 6(5A)(a).
+>
+> (2) In the case of a national policy statement that is designated on or after the relevant date, the initial period is the period of five years beginning with the date of designation.
+>
+> (3) In the case of a national policy statement that—
+>
+> (a) was designated before the relevant date, and
+>
+> (b) was amended before the relevant date,
+>
+> the initial period is the period of five years beginning with the date of the amendment or, if an amendment was made on more than one occasion before the relevant date, the date of the latest such amendment.
+>
+> (4) In the case of a national policy statement that—
+>
+> (a) was designated within the period of five years ending with the relevant date, and
+>
+> (b) was not amended before the relevant date,
+>
+> the initial period is the period of five years beginning with the date of designation.
+>
+> (5) In the case of a national policy statement that—
+>
+> (a) was designated before the beginning of the period of five years ending with the relevant date, and
+>
+> (b) was not amended before the relevant date,
+>
+> the initial period is the period of two years beginning with the relevant date.
+>
+> (6) Section 6(5) applies in relation to a full review of a national policy statement within subsection (5) of this section carried out within the initial period as if the option in section 6(5)(c) (leave the statement as it is) was not available to the Secretary of State following that review.
+>
+> (7) In this section—
+>
+> - “full review” has the meaning given by section 6(2);
+> - “the relevant date” means the date on which section 6(5A) comes into force.
+
+#### 2 National policy statements: parliamentary requirements
+
+(1) Part 2 of the Planning Act 2008 (national policy statements) is amended as set out in subsections (2) and (3).
+
+(2) In section 6 (review)—
+
+(a) in subsection (7)(b)(i), omit “under section 9(8)”;
+
+(b) in subsection (7A), omit “under section 9(8)”;
+
+(c) after subsection (9) insert—
+
+> (10) In subsections (7)(b)(i) and (7A), references to an amendment being laid before Parliament are references to—
+>
+> (a) in the case of an amendment that is, or is included in, a proposal to which subsections (4) to (8) of section 9 do not apply (see section 9(8A)), the amendment being laid under section 9(2);
+>
+> (b) in any other case, the amendment being laid under section 9(8).
+
+(3) In section 9 (parliamentary requirements)—
+
+(a) after subsection (8) insert—
+
+> (8A) Subsections (4) to (8) do not apply in relation to the proposal if it—
+>
+> (a) is an amendment within subsection (11), or
+>
+> (b) consists only of amendments within that subsection.
+
+;
+
+(b) in subsection (9)—
+
+(i) for “subsection (8)”, in each place, substitute “the laying requirement”;
+
+(ii) in paragraph (b), after “5(4)(a)” insert “or 6(7)(a)”;
+
+(c) in subsection (10), for “subsection (8)” substitute “the laying requirement”;
+
+(d) after subsection (10) insert—
+
+> (11) An amendment is within this subsection if it is an amendment proposed to a national policy statement in order to reflect—
+>
+> (a) published Government policy that is relevant to development of a description to which the statement relates,
+>
+> (b) the amendment, revocation or repeal of legislation referred to in the statement, or the amendment, revocation, repeal or coming into force of legislation relevant to development of a description to which the statement relates,
+>
+> (c) a change (not within paragraph (a) or (b)) to a published document referred to in the statement, or
+>
+> (d) a decision of a court in proceedings referred to in section 13 or 118, or other proceedings, so far as relevant to the interpretation of the statement or legislation referred to in the statement.
+>
+> (12) In subsection (11), “legislation” means an Act or an instrument made under an Act.
+>
+> (13) In this section, “the laying requirement” means—
+>
+> (a) if the proposal is one to which subsections (4) to (8) do not apply, subsection (2);
+>
+> (b) otherwise, subsection (8).
+
+(4) The amendments made by this section apply in relation to amendments proposed to be made to a national policy statement that arise from a review of the statement completed or begun before (as well as after) the date on which this section comes into force.
+
+#### 3 Projects relating to water
+
+(1) Part 3 of the Planning Act 2008 (nationally significant infrastructure projects) is amended as set out in subsections (2) to (4).
+
+(2) In section 27 (dams and reservoirs)—
+
+(a) in subsection (1)(b), after “by” insert “, or by a person appointed by,”;
+
+(b) in subsection (2)(b), after “by” insert “, or by a person appointed by,”;
+
+(c) after subsection (3) insert—
+
+> (4) In this section, references to “a person appointed by” a water undertaker include a person whose bid is accepted by a water undertaker under regulation 6(6) of the Water Industry (Specified Infrastructure Projects) (English Undertakers) Regulations 2013 (S.I. 2013/1582) and is designated as an Infrastructure Provider under regulation 8 of those Regulations.
+
+(3) In section 28 (transfer of water resources)—
+
+(a) in subsection (1)(a), after “by” insert “, or by a person appointed by,”;
+
+(b) after subsection (2) insert—
+
+> (3) In this section, the reference to “a person appointed by” a water undertaker includes a person whose bid is accepted by a water undertaker under regulation 6(6) of the Water Industry (Specified Infrastructure Projects) (English Undertakers) Regulations 2013 (S.I. 2013/1582) and is designated as an Infrastructure Provider under regulation 8 of those Regulations.
+
+(4) In section 28A (desalination plants)—
+
+(a) in subsection (1)(b), after “by” insert “, or by a person appointed by,”;
+
+(b) in subsection (2)(b), after “by” insert , or by a person appointed by,”;
+
+(c) after subsection (3) insert—
+
+> (4) In this section, references to “a person appointed by” a water undertaker include a person whose bid is accepted by a water undertaker under regulation 6(6) of the Water Industry (Specified Infrastructure Projects) (English Undertakers) Regulations 2013 (S.I. 2013/1582) and is designated as an Infrastructure Provider under regulation 8 of those Regulations.
+
+(5) The amendments made by this section do not apply in relation to a project where, before the day on which this section comes into force—
+
+(a) consent for the project was required, or otherwise provided for, by or under an enactment other than section 31 of the Planning Act 2008 (requirement for development consent in relation to development that is or forms part of a nationally significant infrastructure project), and
+
+(b) any steps provided for by or under the enactment in question, to obtain that consent, had been taken.
+
+(6) In subsection (5), “consent” means any consent, approval, permission, authorisation, confirmation, direction or decision (however described, given or made).
+
+#### 4 Power to disapply requirement for development consent
+
+(1) The Planning Act 2008 is amended as set out in subsections (2) to (4).
+
+(2) In section 31 (when development consent is required)—
+
+(a) the existing text becomes subsection (1);
+
+(b) after that subsection insert—
+
+> (2) But see section 35B (power for the Secretary of State to give a direction disapplying the requirement for development consent).
+
+(3) In section 35ZA (directions under section 35), after subsection (10) insert—
+
+> (10A) The Secretary of State must publish a direction under section 35(1) or subsection (3) of this section.
+
+(4) After section 35A insert—
+
+> **35B Directions disapplying requirement for development consent**
+>
+> (1) The Secretary of State may give a direction that development consent is not required for development specified in the direction.
+>
+> This is subject to subsections (2) and (4).
+>
+> (2) The Secretary of State may give a direction only if—
+>
+> (a) the Secretary of State considers that it is appropriate for an alternative consenting regime to apply in relation to the development, rather than this Act,
+>
+> (b) no application for an order granting development consent for the development has been made, and
+>
+> (c) the development will (when completed) be wholly in one or more of the areas specified in subsection (3).
+>
+> (3) The areas are—
+>
+> (a) England or waters adjacent to England up to the seaward limits of the territorial sea;
+>
+> (b) in the case of development that is or forms part of a project for the carrying out of works in the field of energy, a Renewable Energy Zone, except any part of a Renewable Energy Zone in relation to which the Scottish Ministers have functions.
+>
+> (4) The Secretary of State may give a direction only if—
+>
+> (a) the conditions in subsection (5) are satisfied,
+>
+> (b) the conditions in subsection (6) are satisfied,
+>
+> (c) the Secretary of State is the person who proposes to carry out the development, or
+>
+> (d) the Secretary of State considers that the appropriate alternative consenting regime for the development is that under section 59 of TCPA 1990 (development orders).
+>
+> (5) The conditions referred to in subsection (4)(a) are that—
+>
+> (a) the Secretary of State receives a written request for a direction from a qualifying person,
+>
+> (b) the request specifies the development to which it relates,
+>
+> (c) the request identifies the appropriate alternative consenting regime for the development,
+>
+> (d) the request explains why the person making the request considers that it is appropriate for that alternative consenting regime to apply in relation to the development, and
+>
+> (e) the request includes evidence showing that the alternative consenting authority is aware of the intention to request a direction specifying the development.
+>
+> (6) The conditions referred to in subsection (4)(b) are that—
+>
+> (a) the Secretary of State receives a written request for a direction from a person who has power to make a local development order, a Mayoral development order or a simplified planning zone scheme,
+>
+> (b) the request specifies the development to which it relates, and
+>
+> (c) the request indicates that the person making the request considers that the appropriate alternative consenting regime for the development is that under section 61A (local development orders), 61DA (Mayoral development orders) or 82 (simplified planning zone schemes) of TCPA 1990 (as the case may be), giving reasons for that view.
+>
+> (7) The condition in subsection (2)(b) is to be regarded as met in relation to development if an application for an order granting development consent for the development is made during the period beginning with the day on which this Act is passed and ending with the day on which this section comes into force.
+>
+> (8) For the purposes of this section—
+>
+> (a) an “alternative consenting regime” for development means a regime set out in legislation other than this Act under which, if development consent were not required for the development, a specified person would have power to authorise the development, and
+>
+> (b) the person referred to in paragraph (a) is the “alternative consenting authority” in relation to that regime.
+>
+> (9) In this section—
+>
+> - “direction” means a direction under subsection (1);
+>
+> - “legislation” means an Act or an instrument made under an Act;
+>
+> - “local development order” has the meaning given in section 61A of TCPA 1990;
+>
+> - “Mayoral development order” has the meaning given in section 61DA of TCPA 1990;
+>
+> - “qualifying person” means—
+>
+>   - a person who proposes to carry out any of the development to which the request relates;
+>   - a person who, if a direction were given specifying the development, proposes to apply to an alternative consenting authority in relation to the development;
+>
+> - “simplified planning zone scheme” has the same meaning as in TCPA 1990 (see section 82 of that Act).
+>
+> **35C Directions under section 35B: supplementary**
+>
+> (1) In this section “direction” means a direction under section 35B(1).
+>
+> (2) Subsection (3) applies if—
+>
+> (a) the Secretary of State decides to give a direction that has been requested as described in section 35B(5), and
+>
+> (b) a person proposed (before or after that section came into force) to make an application for an order granting development consent for the development to which the request relates.
+>
+> (3) The direction may include provision—
+>
+> (a) for the proposed application to be treated as a proposed application to a specified alternative consenting authority;
+>
+> (b) for specified provisions of legislation governing an alternative consenting regime—
+>
+> (i) to have effect in relation to the proposed application with any specified modifications;
+>
+> (ii) to be treated as having been complied with in relation to the proposed application.
+>
+> (4) In the application of subsection (3) to a direction that is to specify development for which an application seeking development consent has been made (see section 35B(7)), references to the proposed application include references to the application.
+>
+> (5) If the Secretary of State receives a request for a direction as described in section 35B(5) or (6), the Secretary of State must give reasons for the decision to give or not to give the requested direction to the person who made the request.
+>
+> (6) The Secretary of State must publish a direction.
+>
+> (7) In this section, the following expressions have the same meaning as in section 35B—
+>
+> - “alternative consenting authority”,
+> - “alternative consenting regime”, and
+> - “legislation”.
+>
+> **35D Timetable for deciding request for direction under section 35B**
+>
+> (1) The Secretary of State may by regulations—
+>
+> (a) make provision about time limits for decisions about whether to give directions under section 35B(1) following qualifying requests (including provision for the extension of any prescribed period in prescribed circumstances);
+>
+> (b) make provision for and in connection with the provision of information to the Secretary of State for the purposes of such decisions.
+>
+> (2) In this section “qualifying request” means a request in relation to which the conditions in section 35B(5) or (6) are satisfied.
+
+(5) In the Electricity Act 1989, in section 36 (consent required for construction etc of generating stations)—
+
+(a) after subsection (1A) insert—
+
+> (1AA) Subsection (1) does not apply to the construction or extension of a generating station in England if the construction or extension constitutes development specified in a direction under section 35B(1) of the Planning Act 2008 (direction disapplying requirement for development consent).
+
+;
+
+(b) after subsection (11) insert—
+
+> (12) In subsection (1AA) “England” does not include waters in England (nor waters adjacent to England).
+
+(6) In the Marine and Coastal Access Act 2009, in section 12 (certain consents under section 36 of the Electricity Act 1989)—
+
+(a) in subsection (2), in the words after paragraph (c), for “subsections (3) and (4)” substitute “subsection (3)”;
+
+(b) omit subsection (4).
+
+#### 5 Applications for development consent: removal of certain pre-application requirements
+
+Omit the following sections of the Planning Act 2008—
+
+(a) section 42 (duty to consult);
+
+(b) section 43 (local authorities for purposes of section 42(1)(b));
+
+(c) section 44 (categories for purposes of section 42(1)(d));
+
+(d) section 45 (timetable for consultation under section 42);
+
+(e) section 47 (duty to consult local community);
+
+(f) section 49 (duty to take account of responses to consultation and publicity).
+
+#### 6 Applications for development consent: changes related to section 5
+
+(1) The Planning Act 2008 is amended as set out in subsections (2) to (9).
+
+(2) In section 37 (applications for orders granting development consent)—
+
+(a) in subsection (3)—
+
+(i) insert “and” at the end of paragraph (b);
+
+(ii) omit paragraph (c) (together with the final “and”);
+
+(b) omit subsections (7) and (8).
+
+(3) In section 39 (register of applications), in subsection (4)—
+
+(a) insert “and” at the end of paragraph (a);
+
+(b) omit paragraph (b) (together with the final “and”).
+
+(4) In section 41 (Chapter applies before application is made), in subsection (1), at the end insert “(and “applicants” is to be construed accordingly)”.
+
+(5) In section 46 (duty to notify Secretary of State of proposed application)—
+
+(a) for subsection (1) substitute—
+
+> (1) The applicant must supply to the Secretary of State—
+>
+> (a) the information specified in subsection (1C), and
+>
+> (b) such further information as may be prescribed.
+>
+> (1A) The applicant must supply to each host local authority—
+>
+> (a) the information specified in subsection (1C), and
+>
+> (b) such further information as may be prescribed.
+>
+> (1B) In any case where the proposed development would affect, or would be likely to affect, any of the areas specified in subsection (5), the applicant must supply to the Marine Management Organisation—
+>
+> (a) the information specified in subsection (1C), and
+>
+> (b) such further information as may be prescribed.
+>
+> (1C) The information referred to in subsections (1)(a), (1A)(a) and (1B)(a) is as follows—
+>
+> (a) the applicant’s name and address,
+>
+> (b) a statement that the applicant intends to apply for an order granting development consent,
+>
+> (c) a statement about why development consent is required for the proposed development, specifying the relevant provision of Part 3 (or referring to a direction that has been given under section 35), and
+>
+> (d) a summary of the proposed application, specifying the location or route of the proposed development.
+
+;
+
+(b) omit subsection (2);
+
+(c) after subsection (2) insert—
+
+> (3) A local authority is a “host local authority” if the land is in the authority’s area.
+>
+> (4) In this section “local authority” means—
+>
+> (a) a county council, or district council, in England;
+>
+> (b) a London borough council;
+>
+> (c) the Common Council of the City of London;
+>
+> (d) the Council of the Isles of Scilly;
+>
+> (e) a county council, or county borough council, in Wales;
+>
+> (f) a council constituted under section 2 of the Local Government etc (Scotland) Act 1994;
+>
+> (g) a National Park authority;
+>
+> (h) the Broads Authority.
+>
+> (5) The areas referred to in subsection (1B) are—
+>
+> (a) waters in or adjacent to England up to the seaward limits of the territorial sea;
+>
+> (b) an exclusive economic zone, except any part of an exclusive economic zone in relation to which the Scottish Ministers have functions;
+>
+> (c) a Renewable Energy Zone, except any part of a Renewable Energy Zone in relation to which the Scottish Ministers have functions;
+>
+> (d) an area designated under section 1(7) of the Continental Shelf Act 1964, except any part of that area which is within a part of an exclusive economic zone or Renewable Energy Zone in relation to which the Scottish Ministers have functions.
+
+;
+
+(d) in the heading, after “Secretary of State” insert “and others”.
+
+(6) In section 48 (duty to publicise), omit subsection (2).
+
+(7) For section 50 substitute—
+
+> **50 Guidance about pre-application steps**
+>
+> (1) Applicants must have regard to any guidance issued by the Secretary of State to assist them in complying with section 48.
+>
+> (2) The Secretary of State must issue guidance to assist applicants, setting out what the Secretary of State considers to be best practice in terms of the steps they might take in relation to a proposed application in readiness for submitting an actual application.
+
+(8) In section 52 (obtaining information about interests in land), in subsection (1), for “provisions of, or made under, Chapter 2 of this Part or” substitute “regulations made under section 37 or with provisions of, or made under,”.
+
+(9) In Schedule 12 (application of Act to Scotland: modifications), omit paragraph 5.
+
+(10) In the Infrastructure Planning (Environmental Impact Assessment) Regulations 2017 (S.I. 2017/572)—
+
+(a) in regulation 3(1), in the definition of “the consultation bodies”—
+
+(i) in paragraph (a), omit “prescribed under section 42(1)(a) (duty to consult) and”;
+
+(ii) in paragraph (a), for “column 2” substitute “column 3”;
+
+(iii) at the end of paragraph (a) insert “(reading references to applications as references to proposed applications, where the context requires)”;
+
+(iv) in paragraph (b), for “section 43 (local authorities for purposes of section 42(1)(b))” substitute “section 56A (local authorities for purposes of sections 56(2)(b) and 60(2)(a))”;
+
+(b) in regulation 8(1), for “carrying out consultation under section 42 (duty to consult)” substitute “publicising the proposed application under section 48,”;
+
+(c) omit regulation 12 (consultation statement requirements).
+
+(11) Omit—
+
+(a) section 23(2), (3) and (4) of the Marine and Coastal Access Act 2009;
+
+(b) the following provisions of the Localism Act 2011—
+
+(i) section 133;
+
+(ii) section 134;
+
+(iii) section 135(8);
+
+(iv) paragraphs 8(2) and 9 of Schedule 13.
+
+#### 7 Applications for development consent: acceptance stage
+
+(1) The Planning Act 2008 is amended as set out in subsections (2) to (8).
+
+(2) Section 55 (acceptance of applications) is amended as set out in subsections (3) to (7).
+
+(3) In subsection (3)—
+
+(a) after paragraph (c) insert—
+
+> (ca) that the applicant has complied with section 46 (duty to notify Secretary of State and others of proposed application), and
+
+;
+
+(b) omit paragraph (e).
+
+(4) For subsection (4) substitute—
+
+> (4) The Secretary of State, when deciding whether the Secretary of State may reach the conclusion in subsection (3)(f), must take into account—
+>
+> (a) the extent to which the application complies with section 37(3) (form and contents of application),
+>
+> (b) the extent to which any applicable guidance under section 37(4) has been followed in relation to the application,
+>
+> (c) the extent to which the application complies with any standards set under section 37(5) (standards for documents etc accompanying application),
+>
+> (d) the applicant’s approach to satisfying section 48 (duty to publicise), and
+>
+> (e) the extent to which the applicant has had regard to any advice given under section 51 in connection with the application (or the proposed application that has become the application).
+>
+> (4A) In considering the matter in subsection (4)(d), the Secretary of State must take into account the extent to which the applicant has had regard to any guidance under section 50(1).
+
+(5) Omit subsection (5).
+
+(6) Omit subsection (5A).
+
+(7) For subsections (6) and (7) substitute—
+
+> (6) The Secretary of State must notify the applicant of the decision under subsection (2).
+>
+> (7) If the Secretary of State decides under subsection (2) not to accept the application, the Secretary of State must—
+>
+> (a) prepare a statement of the Secretary of State’s reasons for that decision,
+>
+> (b) provide a copy of the statement to the applicant, and
+>
+> (c) publish the statement in such form and manner as the Secretary of State thinks appropriate.
+
+(8) In section 118 (legal challenges relating to applications for orders granting development consent), in subsection (3)(b), for “notifies the applicant as required by subsection (7)” substitute “provides the copy of the statement of reasons for the decision to the applicant as required by subsection (7)(b)”.
+
+(9) In consequence of the amendment in subsection (6), omit section 137(4) of the Localism Act 2011.
+
+#### 8 Applications for development consent: local impact reports and representations
+
+(1) The Planning Act 2008 is amended as follows.
+
+(2) In section 60 (local impact reports), after subsection (5) insert—
+
+> (6) In preparing a local impact report, an authority must have regard to any relevant guidance issued by the Secretary of State.
+>
+> (7) But that duty does not apply to an authority for an area that is in Scotland.
+
+(3) After section 96 insert—
+
+> **96A Representations from public authorities**
+>
+> (1) In making any representations about the application (oral or written), a relevant public authority must have regard to any guidance issued by the Secretary of State to assist such authorities in making representations for the purposes of the examination of an application.
+>
+> (2) “Relevant public authority” means a public authority within any of paragraphs (a) to (c) of section 56(2), except—
+>
+> (a) the Scottish Ministers,
+>
+> (b) a Northern Ireland department, or
+>
+> (c) any other public authority whose functions are exercisable only in or as regards Scotland or Northern Ireland.
+
+#### 9 Examination of applications for development consent
+
+(1) In section 89 of the Planning Act 2008 (Examining authority’s decisions about how application is to be examined), in subsection (1), after “light of” insert “the assessment under section 88(1) and”.
+
+(2) In section 97 of that Act (procedure rules), after subsection (5) insert—
+
+> (5A) Power under this section to make rules includes power to make transitional provision.
+
+(3) The amendment made by subsection (1) applies in relation to every application in respect of which the assessment under section 88(1) of the Planning Act 2008 is made on or after the date on which subsection (1) comes into force (whenever the application was made or accepted).
+
+#### 10 Applications for development consent: costs
+
+(1) The Planning Act 2008 is amended as follows.
+
+(2) In section 95 (hearings: disruption etc)—
+
+(a) omit subsections (4) and (5);
+
+(b) in the heading, omit “, supervision and costs”.
+
+(3) After section 96A (inserted by section 8) insert—
+
+> **96B Costs**
+>
+> (1) The Examining authority may make orders about—
+>
+> (a) the costs of any person who—
+>
+> (i) is an interested party in relation to the application, or
+>
+> (ii) makes a written representation to the Examining authority about the application;
+>
+> (b) the person or persons who must pay the costs.
+>
+> (2) Every such order may be made a rule of the High Court on the application of any person named in the order.
+
+#### 11 Planning Act 2008: right to enter and survey land
+
+(1) Section 53 of the Planning Act 2008 (rights of entry) is amended as set out in subsections (2) to (7).
+
+(2) In subsection (1), for “Any person duly authorised in writing by the Secretary of State” substitute “An authorised person”.
+
+(3) After subsection (1A) insert—
+
+> (1B) In subsection (1) “authorised person” means a person who is authorised in writing to exercise the power in that subsection on behalf of—
+>
+> (a) a person who has made an application for an order granting development consent that has been accepted by the Secretary of State,
+>
+> (b) a person who proposes to make an application for an order granting development consent, or
+>
+> (c) a person who has been granted the benefit of an order granting development consent of a kind specified in subsection (1)(c).
+
+(4) Omit subsection (2).
+
+(5) In subsection (4)—
+
+(a) in the words before paragraph (a), for “authorised under subsection (1) to enter any land” substitute “acting in the exercise of a power of entry onto any land conferred under subsection (1)”;
+
+(b) insert “and” at the end of paragraph (a);
+
+(c) in paragraph (b)—
+
+(i) for “any land which is occupied” substitute “the land”;
+
+(ii) for “the occupier” substitute “every owner or occupier of the land”;
+
+(d) omit “and” at the end of paragraph (b);
+
+(e) omit paragraph (c).
+
+(6) After subsection (4) insert—
+
+> (4A) Notice given in accordance with subsection (4)(b) must include prescribed information.
+>
+> (4B) A justice of the peace may issue a warrant authorising a person to use force in the exercise of the power conferred under subsection (1) if satisfied—
+>
+> (a) that another person has prevented or is likely to prevent the exercise of that power, and
+>
+> (b) that it is reasonable to use force in the exercise of that power.
+>
+> (4C) The force that may be authorised by a warrant is limited to that which is reasonably necessary.
+>
+> (4D) A warrant authorising the person to use force must specify the number of occasions on which the person can rely on the warrant when entering land.
+>
+> (4E) The number specified must be the number which the justice of the peace considers appropriate to achieve the purpose for which the entry is required.
+>
+> (4F) Any evidence in proceedings for a warrant must be given on oath.
+
+(7) After subsection (8) insert—
+
+> (8A) Section 4 of the Land Compensation Act 1961 (costs) applies to the determination of a question referred under subsection (8) as it applies to the determination of a question under section 1 of that Act, but as if references to the acquiring authority were references to the person from whom compensation is claimed.
+
+(8) In paragraph 7 of Schedule 12 to the Planning Act 2008 (application of Act to Scotland: modifications of section 53)—
+
+(a) after paragraph (za) insert—
+
+> (zb) in subsections (4B) and (4E), the references to a justice of the peace were references to a sheriff or summary sheriff,
+
+;
+
+(b) omit “and” at the end of paragraph (b);
+
+(c) after paragraph (b) insert—
+
+> (ba) in subsection (8A)—
+>
+> (i) the reference to section 4 of the Land Compensation Act 1961 were a reference to sections 9 and 11 of the Land Compensation (Scotland) Act 1963, and
+>
+> (ii) the reference to section 1 of the Land Compensation Act 1961 were a reference to section 8 of the Land Compensation (Scotland) Act 1963, and
+
+.
+
+(9) In the Localism Act 2011—
+
+(a) omit section 136(4);
+
+(b) in paragraph 12 of Schedule 13—
+
+(i) in sub-paragraph (2), omit “and (2)”;
+
+(ii) omit sub-paragraph (3).
+
+#### 12 Changes to, and revocation of, development consent orders (prospective)
+
+(1) Schedule 6 to the Planning Act 2008 (changes to, and revocation of, orders granting development consent) is amended as set out in subsections (2) to (4).
+
+(2) Omit paragraph 2 (non-material changes to orders granting development consent) and the italic heading before it.
+
+(3) In paragraph 3 (changes to, and revocation of, orders)—
+
+(a) in sub-paragraph (3)(b), omit “or paragraph 2 of this Schedule”;
+
+(b) in sub-paragraph (5A), after “should” insert “, when considered in conjunction with any other changes already made,”.
+
+(4) In paragraph 4 (changes to, and revocation of, orders: supplementary), after sub-paragraph (6) insert—
+
+> (6A) If a development consent order is changed in exercise of the power conferred by paragraph 3(1), the development consent order continues in force.
+>
+> (6B) If a development consent order is changed or revoked in the exercise of the power conferred by paragraph 3(1), the change or revocation takes effect on—
+>
+> (a) the date on which the order making the change or revocation is made, or
+>
+> (b) if the order specifies a date on which the change or revocation takes effect, the specified date.
+>
+> (6C) Except in a case within sub-paragraph (7), the Secretary of State must publish an order making a change to, or revoking, a development consent order in such manner as the Secretary of State thinks appropriate.
+
+(5) In section 118 of the Planning Act 2008 (legal challenges)—
+
+(a) omit subsection (5);
+
+(b) in subsection (6)(b), for “notice of the change or revocation” to the end substitute “the order making the change or revocation is published.”
+
+(6) In consequence of the amendment in subsection (2), omit—
+
+(a) paragraph 4(6)(a) of Schedule 8 to the Marine and Coastal Access Act 2009,
+
+(b) paragraph 72(4) to (7) of Schedule 13 to the Localism Act 2011,
+
+(c) section 28(2) of the Infrastructure Act 2015,
+
+(d) paragraph 8(3)(b)(i) of Schedule 7 to the Wales Act 2017, and
+
+(e) section 128 of the Levelling-up and Regeneration Act 2023.
+
+#### 13 Planning Act 2008: legal challenges
+
+(1) In the Senior Courts Act 1981, in subsection (1) of section 18 (restrictions on appeals to Court of Appeal), after paragraph (c) insert—
+
+> (ca) from a refusal of permission to apply for judicial review in a case within section 13 or 118 of the Planning Act 2008 (proceedings relating to national policy statements or development consent), if the High Court decides that the application for permission to apply for judicial review is totally without merit;
+
+.
+
+(2) The power to make Civil Procedure Rules must be exercised so as to secure that Civil Procedure Rules include—
+
+(a) provision requiring an application for permission to apply for judicial review in a case within section 13 or 118 of the Planning Act 2008 (proceedings relating to national policy statements or development consent) to be decided at an oral hearing;
+
+(b) provision that the court may, at the oral hearing of such an application, decide that the application is totally without merit.
+
+### Chapter 2 — Electricity infrastructure
+
+#### Connections to the electricity transmission and distribution systems
+
+##### 14 Connections to electricity network: licence and other modifications
+
+(1) A relevant authority may modify—
+
+(a) the conditions of a particular electricity licence;
+
+(b) the terms of a particular electricity licence;
+
+(c) the standard conditions of electricity licences of a particular type;
+
+(d) a document maintained in accordance with the conditions of an electricity licence;
+
+(e) an agreement entered into in pursuance of a document maintained as mentioned in paragraph (d);
+
+(f) a qualifying distribution agreement.
+
+(2) A relevant authority may exercise the power under subsection (1) only for the purpose of improving the process for managing connections to the transmission system or the distribution system (and such an improvement may include changing the order in which connections are made).
+
+(3) The Secretary of State may direct the GEMA to exercise the power under subsection (1).
+
+(4) The Secretary of State may exercise the power under subsection (3) only for the purpose mentioned in subsection (2).
+
+(5) The power conferred by subsection (1) may not be exercised after the end of the period of three years beginning with the day on which this section comes into force.
+
+(6) Section 3A of the Electricity Act 1989 (principal objective and general duties) applies in relation to the functions of the Secretary of State and the GEMA under this section and sections 15 to 17 as it applies in relation to functions of the Secretary of State or the GEMA under Part 1 of that Act.
+
+(7) A relevant authority may under subsection (1) modify an agreement mentioned in subsection (1)(e) or a qualifying distribution agreement even if the effect of the modification might amount to a repudiation of the agreement.
+
+(8) In this section and sections 15 to 17—
+
+- “distribution system” has the same meaning as in Part 1 of the Electricity Act 1989 (see the definition of “distribute” in section 4(4) of that Act);
+
+- “electricity distributor” has the same meaning as in Part 1 of that Act (see section 6(9) of that Act);
+
+- “electricity licence” means a licence for the purposes of section 4 of that Act;
+
+- “the GEMA” means the Gas and Electricity Markets Authority;
+
+- “qualifying distribution agreement” means—
+
+  - the terms subject to which a connection is made by an electricity distributor in pursuance of section 16(1) of the Electricity Act 1989, or
+  - a special connection agreement as defined by section 22(1) of that Act;
+
+- “relevant authority” means the Secretary of State or the GEMA;
+
+- “transmission system” has the same meaning as in Part 1 of the Electricity Act 1989 (see section 4(4) of that Act).
+
+##### 15 Scope of modification power under section 14
+
+(1) The power conferred by section 14(1) to “modify” includes power to amend, add to or remove (and, in particular, includes power to make a person a party to an agreement or to discharge a party from its obligations under an agreement); and references in section 14, this section and section 16 to modification are to be construed accordingly.
+
+(2) The power conferred by section 14(1)—
+
+(a) may be exercised generally, only in relation to specified cases, or subject to exceptions (including by making provision for a case to be excepted only so long as specified conditions are satisfied);
+
+(b) may be exercised differently for different purposes or areas;
+
+(c) includes power to make incidental, supplementary, consequential or transitional modifications.
+
+(3) Provision included in an electricity licence by virtue of section 14(1)(a) or (c)—
+
+(a) may include provision of a kind mentioned in section 7 of the Electricity Act 1989;
+
+(b) need not relate to the activities authorised by the licence.
+
+(4) The modification under section 14(1) of part of a standard condition of an electricity licence does not prevent any other part of the condition from continuing to be regarded as a standard condition for the purposes of Part 1 of the Electricity Act 1989.
+
+(5) If under section 14(1) a relevant authority modifies the standard conditions of an electricity licence of a particular type, the GEMA must make the same modifications of those standard conditions for the purposes of their incorporation in electricity licences of that type granted after that time.
+
+(6) Provision included in an electricity licence by virtue of section 14(1)(b) may in particular include provision about the circumstances in which the licence may be revoked or suspended.
+
+(7) Provision included in an agreement by virtue of section 14(1)(e) or (f) may in particular include provision—
+
+(a) requiring specified conditions to be met before the taking of particular steps under the agreement;
+
+(b) about the procedure for varying the agreement.
+
+(8) In section 33 of the Utilities Act 2000 (standard conditions of electricity licences), in subsection (1)—
+
+(a) omit the “or” at the end of paragraph (k), and
+
+(b) at the end insert
+
+> , or
+>
+> (m) under section 14 of the Planning and Infrastructure Act 2025.
+
+##### 16 Procedure relating to modifications under section 14
+
+(1) Before making a modification under section 14, a relevant authority must consult—
+
+(a) the holder of any electricity licence proposed to be modified,
+
+(b) the Independent System Operator and Planner,
+
+(c) the GEMA or the Secretary of State (depending on which relevant authority is proposing to make the modification), and
+
+(d) such other persons as the relevant authority considers appropriate.
+
+(2) Subsection (1) may be satisfied by consultation carried out before the passing of this Act (as well as by consultation carried out after that time).
+
+(3) A relevant authority must publish details of any modifications made by it under section 14 as soon as reasonably practicable after they are made.
+
+(4) A relevant authority may exclude from publication under subsection (3) any information the publication of which would be likely to prejudice the commercial interests of any person.
+
+(5) In this section, “the Independent System Operator and Planner” means the person for the time being designated under section 162(1) of the Energy Act 2023.
+
+##### 17 Directions to modify connection agreements
+
+(1) A relevant authority may—
+
+(a) direct the Independent System Operator and Planner (“the ISOP”) to modify an agreement entered into by the ISOP pursuant to a document maintained in accordance with the conditions of an electricity licence;
+
+(b) direct an electricity distributor to modify a qualifying distribution agreement entered into by the electricity distributor.
+
+(2) A relevant authority may exercise the power conferred by subsection (1) only for the purpose of improving the process for managing connections to the transmission system or the distribution system (and such an improvement may include changing the order in which connections are made).
+
+(3) A direction under subsection (1) must describe the kinds of modification to be made by the person to whom it is given.
+
+(4) A direction under subsection (1) may also require the person to whom it is given to modify an agreement by including in it provision—
+
+(a) requiring specified conditions to be met before the taking of particular steps under the agreement;
+
+(b) about the procedure for varying the agreement.
+
+(5) A direction under subsection (1) may be expressed as having effect generally, in relation to cases within a description specified in the direction, or in relation to a particular case.
+
+(6) Before giving a direction under subsection (1), the relevant authority must consult—
+
+(a) the person to whom it proposes to give the direction, and
+
+(b) such other persons as the relevant authority considers appropriate.
+
+(7) Subsection (6) may be satisfied by consultation carried out before the passing of this Act (as well as by consultation carried out after that time).
+
+(8) A relevant authority must publish details of any direction it gives under subsection (1) as soon as reasonably practicable after the direction is given.
+
+(9) A relevant authority may exclude from publication under subsection (8) any information the publication of which would be likely to prejudice the commercial interests of any person.
+
+(10) A person to whom a direction is given under subsection (1) must comply with it, even if the effect of a modification made to an agreement as a result of the direction might amount to a repudiation of the agreement.
+
+(11) The power to give a direction under subsection (1) may not be exercised after the end of the period of three years beginning with the day on which this section comes into force.
+
+(12) A direction under subsection (1) may be varied or revoked by a subsequent direction given by a relevant authority.
+
+(13) In this section—
+
+- “the Independent System Operator and Planner” means the person for the time being designated under section 162(1) of the Energy Act 2023;
+- “modify” includes amend, add to and remove (and, in particular, includes making a person a party to an agreement and discharging a party from its obligations under an agreement).
+
+(14) In Schedule 6A to the Electricity Act 1989 (provisions imposing obligations enforceable as relevant requirements)—
+
+(a) in paragraph 4A (electricity system operator), after sub-paragraph (c) insert—
+
+> (d) section 17(10) of the Planning and Infrastructure Act 2025 (duty to comply with direction under section 17 of that Act).
+
+;
+
+(b) in paragraph 5 (distribution licence holders), after sub-paragraph (g) insert—
+
+> (h) section 17(10) of the Planning and Infrastructure Act 2025 (duty to comply with direction under section 17 of that Act).
+
+##### 18 Managing connections to the network: strategic plans etc
+
+(1) In Part 5 of the Energy Act 2023 (Independent System Operator and Planner), after section 165 insert—
+
+> **165A Functions relating to network connections: duty to have regard to designated plans**
+>
+> (1) The ISOP must, when carrying out any of its functions relating to the management of connections to the transmission system, have regard to the designated strategic plans.
+>
+> (2) The Secretary of State may by regulations designate plans or documents for the purposes of this section.
+>
+> (3) In subsection (1), the reference to “the designated strategic plans” is a reference to those plans or documents designated by regulations under subsection (2) as they have effect at the time when the regulations are made.
+
+(2) Part 1 of the Electricity Act 1989 (electricity supply) is amended as set out in subsections (3) to (5).
+
+(3) In section 16 (duty to connect on request)—
+
+(a) after subsection (2) insert—
+
+> (2A) In deciding how to comply with the duties under this section, and in particular in deciding how to prioritise persons requiring a connection, an electricity distributor must have regard to the designated strategic plans.
+
+;
+
+(b) at the end insert—
+
+> (6) In this section, “the designated strategic plans” means the plans or documents designated by regulations made under section 165A(2) of the Energy Act 2023 (functions of the Independent System Operator and Planner relating to network connections).
+
+(4) In section 17 (exceptions from duty to connect), in subsection (1)—
+
+(a) omit the “or” at the end of paragraph (b);
+
+(b) after paragraph (b) insert—
+
+> (ba) it would not be in accordance with the designated strategic plans (within the meaning of section 16) for the distributor to do so; or
+
+.
+
+(5) In Schedule 6A (provisions imposing obligations enforceable as relevant requirements), in paragraph 4A (electricity system operator), in paragraph (c), for “165” substitute “165A”.
+
+#### Consents for electricity infrastructure in Scotland
+
+##### 19 Consents for generating stations and overhead lines: applications
+
+(1) Schedule 8 to the Electricity Act 1989 (consents of the Secretary of State and the Scottish Ministers under sections 36 and 37) is amended as follows.
+
+(2) After paragraph 1 insert—
+
+> **1A Applications made to the Scottish Ministers for consent**
+>
+> (1) The Secretary of State or the Scottish Ministers may by regulations make provision about the following matters in relation to applications to the Scottish Ministers for consent under section 36 or 37.
+>
+> (2) The matters are—
+>
+> (a) the steps a person must take before making an application;
+>
+> (b) the information that must be included in an application;
+>
+> (c) an acceptance stage, during which the Scottish Ministers must assess an applicant’s compliance with any requirements imposed by the regulations in order to decide whether or not to accept the application;
+>
+> (d) fees to be paid to the Scottish Ministers—
+>
+> (i) on application, or
+>
+> (ii) for anything done by them in relation to a proposed application;
+>
+> (e) requests by the Scottish Ministers for additional information to aid their decision whether or not to accept an application or to grant consent.
+>
+> (3) The steps that may be the subject of provision made by virtue of sub-paragraph (2)(a) include—
+>
+> (a) notifying prescribed persons of the proposed application,
+>
+> (b) publicising the proposed application, and
+>
+> (c) carrying out a consultation about the proposed application.
+
+(3) In paragraph 2 (objections by relevant planning authority)—
+
+(a) in sub-paragraph (1), for “Secretary of State for his” substitute “appropriate authority for a”;
+
+(b) in sub-paragraph (2), at the beginning insert “In the case of an application made to the Secretary of State,”;
+
+(c) after sub-paragraph (2) insert—
+
+> (2A) In the case of an application made to the Scottish Ministers, where the relevant planning authority notify the Scottish Ministers that they object to the application and their objection is not withdrawn, the Scottish Ministers—
+>
+> (a) must appoint a person (referred to in this Schedule as the “reporter”) to examine the application, and
+>
+> (b) before determining whether to give their consent, must consider the objection and the reporter’s final report.
+>
+> See paragraph 2A for the process that must be followed by the reporter.
+
+;
+
+(d) in sub-paragraph (4)—
+
+(i) after “(2)” insert “or (2A)”;
+
+(ii) for “Secretary of State” substitute “appropriate authority”;
+
+(e) in sub-paragraph (5), for “Secretary of State” substitute “appropriate authority”.
+
+(4) After paragraph 2 insert—
+
+> **2A Procedure following objection by relevant planning authority: Scotland**
+>
+> (1) A reporter appointed under paragraph 2(2A)(a) must make proposals as regards the appropriate procedure for examining the application.
+>
+> (2) The appropriate procedure may consist of one or more of the following—
+>
+> (a) considering—
+>
+> (i) the objection by the relevant planning authority,
+>
+> (ii) any other objections made in accordance with regulations under paragraph 3(1)(c), and
+>
+> (iii) any other representations made in accordance with an enactment;
+>
+> (b) considering new written representations about the application from persons specified by the reporter;
+>
+> (c) holding one or more hearing sessions;
+>
+> (d) carrying out an inspection of the land to which the application relates;
+>
+> (e) holding a public inquiry.
+>
+> (3) Where the reporter proposes a procedure that includes proceedings within sub-paragraph (2)(b), (c) or (e), the proposal must include a statement of the issues that are proposed to be within the scope of each of those proceedings.
+>
+> (4) The reporter must—
+>
+> (a) publish the proposals,
+>
+> (b) notify all interested parties of the proposals, and
+>
+> (c) invite written representations about the proposals before the end of the time period specified by the reporter.
+>
+> (5) The published proposals must include or be accompanied by an explanation of the reasons for the proposals.
+>
+> (6) The reporter may hold a meeting to hear representations about the proposals.
+>
+> (7) After considering the representations, the reporter must—
+>
+> (a) decide on the appropriate procedure for examining the application, and
+>
+> (b) publish that decision.
+>
+> (8) The published decision must include or be accompanied by an explanation of—
+>
+> (a) the reasons for the decision,
+>
+> (b) the intended time period for the carrying out of the procedure, and
+>
+> (c) the intended time period within which the reporter will send a final report to the Scottish Ministers.
+>
+> (9) Sub-paragraph (3) applies to the reporter’s decision as it applies to the reporter’s proposals.
+>
+> (10) On completing the examination, the reporter must prepare and send to the Scottish Ministers a final report setting out the reporter’s recommendations on the application.
+>
+> (11) In this paragraph, “interested party” means—
+>
+> (a) the applicant,
+>
+> (b) the relevant planning authority which made the objection under paragraph 2(2A),
+>
+> (c) any person who has made an objection in accordance with regulations under paragraph 3, or
+>
+> (d) any person who has made representations in accordance with any other enactment.
+>
+> (12) The Secretary of State or the Scottish Ministers may by regulations make provision amending or setting out further detail about the procedure set out in this paragraph. (See also paragraph 7B(2)(e).)
+>
+> (13) A statutory instrument containing regulations under this paragraph is not to be made by the Secretary of State unless a draft of the instrument has been laid before, and approved by a resolution of, each House of Parliament.
+>
+> (14) Regulations made by the Scottish Ministers under this paragraph are subject to the affirmative procedure.
+
+(5) After paragraph 7A insert—
+
+> **7B Applications to the Scottish Ministers: time limits**
+>
+> (1) The Secretary of State or the Scottish Ministers may by regulations specify a time limit for actions that may or must be taken in relation to an application to the Scottish Ministers for consent under section 36 or 37.
+>
+> (2) The regulations may, for example, specify a time limit for—
+>
+> (a) a person to comply with a requirement of regulations under paragraph 1A;
+>
+> (b) a person to respond to a pre-application consultation (see paragraph 1A(3)(c));
+>
+> (c) a person who is notified of an application in accordance with an enactment to provide their opinion or advice on the application;
+>
+> (d) a relevant planning authority to object to an application under paragraph 2(2A);
+>
+> (e) a reporter to take any steps required by paragraph 2A;
+>
+> (f) the Scottish Ministers to decide an application.
+>
+> (3) The regulations may include provision about the consequences of failure to comply with a time limit.
+>
+> (4) Where regulations under this paragraph specify a time limit for the completion of an acceptance stage (see paragraph 1A(2)(c)), the regulations may not permit the extension of that limit.
+
+(6) The amendments made by subsection (3) do not affect the continued application in relation to the Scottish Ministers of regulations made under paragraph 2(3) of Schedule 8 to the Electricity Act 1989 before this section comes into force.
+
+##### 20 Variation of consents etc
+
+After section 37 of the Electricity Act 1989 insert—
+
+> **37A Application for variation of section 37 consent: Scotland**
+>
+> (1) The person for the time being entitled to the benefit of a section 37 consent that was granted by the Scottish Ministers may make an application to the Scottish Ministers for the consent to be varied.
+>
+> (2) The Secretary of State or the Scottish Ministers may by regulations make provision about variation under this section, including in particular provision about—
+>
+> (a) the making and withdrawal of applications;
+>
+> (b) fees;
+>
+> (c) publicity and consultation requirements;
+>
+> (d) rights to make representations;
+>
+> (e) public inquiries;
+>
+> (f) consideration of applications.
+>
+> (3) The regulations may provide for any statutory provision applicable to the grant by the Scottish Ministers of a section 37 consent to apply with specified modifications to the variation of a section 37 consent under this section.
+>
+> (4) On an application for a section 37 consent to be varied, the Scottish Ministers may make such variations to the consent as appear to them to be appropriate, having regard (in particular) to—
+>
+> (a) the applicant’s reason for seeking the variation;
+>
+> (b) the variations proposed;
+>
+> (c) any objections made to the proposed variations, the views of consultees and the outcome of any public inquiry.
+>
+> (5) In this section—
+>
+> - “section 37 consent” means a consent granted under section 37 (consent required for overhead lines);
+> - “statutory provision” means a provision of or made under an Act, whenever passed or made; and for this purpose “Act” includes an Act of the Scottish Parliament.
+>
+> **37B Variation of section 36 and 37 consents on change of circumstances: Scotland**
+>
+> (1) The Scottish Ministers may vary a consent under section 36 or 37 if—
+>
+> (a) they consider that the consent ought to be varied—
+>
+> (i) because of a change in circumstances relating to the environment, or
+>
+> (ii) because of technological changes, and
+>
+> (b) the person for the time being entitled to the benefit of the consent agrees to the variation.
+>
+> (2) The Secretary of State or the Scottish Ministers may by regulations make provision about variation under this section, including in particular provision about—
+>
+> (a) the procedure for getting agreement;
+>
+> (b) publicity, notification and consultation requirements;
+>
+> (c) rights to make representations.
+>
+> (3) The regulations may provide for any statutory provision applicable to the grant by the Scottish Ministers of a consent under section 36 or 37 to apply with specified modifications to the variation of such a consent under this section.
+>
+> (4) In this section, “statutory provision” has the same meaning as in section 37A.
+>
+> **37C Correction of errors in consent documents: Scotland**
+>
+> (1) The Scottish Ministers may amend a decision document in order to correct a correctable error.
+>
+> (2) In subsection (1)—
+>
+> - “correctable error” means an error or omission which—
+>
+>   - is in a part of the decision document which records the decision, and
+>   - is not part of the statement of reasons for the decision;
+>
+> - “decision document” means—
+>
+>   - a document recording a consent under section 36 or 37, or
+>   - a document recording a variation of such a consent.
+>
+> (3) The Scottish Ministers may exercise the power in subsection (1) either of their own accord or following a written request from a person for the time being entitled to the benefit of the consent.
+>
+> (4) The Secretary of State or the Scottish Ministers may by regulations make provision about the process for corrections, including in particular provision about—
+>
+> (a) the making of written requests;
+>
+> (b) notification requirements;
+>
+> (c) rights to make representations.
+
+##### 21 Proceedings for questioning certain decisions on consents
+
+(1) Section 36D of the Electricity Act 1989 (proceedings for questioning certain decisions under section 36) is amended as set out in subsections (2) to (4).
+
+(2) For subsection (3) substitute—
+
+> (3) This section applies to a decision under any of the following—
+>
+> (a) section 36 (application for consent for generating station);
+>
+> (b) section 36C (application for variation of section 36 consent);
+>
+> (c) section 37 (application for consent for overhead lines);
+>
+> (d) section 37A (application for variation of section 37 consent);
+>
+> (e) section 37B (variation of consents by Scottish Ministers);
+>
+> (f) section 37C (consents and variation of consents in Scotland: correction of errors).
+
+(3) In subsection (4), for “taken” substitute “published by the Scottish Ministers”.
+
+(4) In the heading, for “under section 36” substitute “of the Scottish Ministers”.
+
+(5) In Schedule 8 to the Electricity Act 1989, in paragraph 5B (proceedings for questioning certain decisions under paragraph 3(2)), in sub-paragraph (4), for “taken” substitute “published by the Scottish Ministers”.
+
+(6) In section 237 of the Town and Country Planning (Scotland) Act 1997 (challenges to validity of development plans and certain orders, decisions and directions), in subsection (3), after paragraph (b) insert—
+
+> (ba) any decision to give a direction under section 57(2) or (2ZA);
+
+.
+
+(7) The amendments made by this section apply only in relation to decisions made on or after the date on which this section comes into force.
+
+##### 22 Applications for necessary wayleaves: fees
+
+In Schedule 4 to the Electricity Act 1989 (other powers etc of licence holders), after paragraph 6 insert—
+
+> **6A Fees for applications under paragraph 6(3) to the Scottish Ministers**
+>
+> The Scottish Ministers may by regulations make provision about the fees to be paid to the Scottish Ministers in relation to an application made to them under paragraph 6(3).
+
+##### 23 Regulations
+
+(1) Section 106 of the Electricity Act 1989 (regulations and orders) is amended as follows.
+
+(2) In subsection (1ZA)—
+
+(a) for “the power conferred on” substitute “a power of”;
+
+(b) for “by section 36C” substitute “to make regulations (see section 27 of the Interpretation and Legislative Reform (Scotland) Act 2010 (Scottish statutory instruments))”.
+
+(3) After subsection (2) insert—
+
+> (2ZA) Subsection (2) does not apply to a statutory instrument containing (whether alone or with other provision)—
+>
+> (a) regulations under paragraph 2A of Schedule 8;
+
+.
+
+(4) In subsection (3), for the words after “under” substitute
+
+> —
+>
+> (a) section 36C,
+>
+> (b) section 37A,
+>
+> (c) section 37B,
+>
+> (d) section 37C,
+>
+> (e) paragraph 6A of Schedule 4, or
+>
+> (f) any paragraph of Schedule 8 except paragraph 2A,
+>
+> are subject to the negative procedure.
+
+(5) At the end insert—
+
+> (4) Before making regulations under a provision listed in subsection (6), the Secretary of State must consult the Scottish Ministers.
+>
+> (5) Before making regulations under a provision listed in subsection (6), the Scottish Ministers must consult the Secretary of State.
+>
+> (6) The provisions are—
+>
+> (a) section 37A;
+>
+> (b) section 37B;
+>
+> (c) section 37C;
+>
+> (d) paragraphs 1A, 2A and 7B of Schedule 8.
+
+##### 24 Sections 19 to 23: minor and consequential amendments
+
+Schedule 1 makes—
+
+(a) amendments to the Electricity Act 1989 that are consequential on the amendments made by sections 19 to 23, and
+
+(b) other minor amendments relating to consents for electricity infrastructure in Scotland (including amendments to reflect previous transfers of functions to the Scottish Ministers).
+
+##### 25 Environmental impact assessments for electricity works
+
+(1) The Secretary of State or the Scottish Ministers may by regulations amend the Electricity Works (Environmental Impact Assessment) (Scotland) Regulations 2017 (S.S.I. 2017/101) (the “2017 Regulations”) by making provision described in subsection (2) in connection with environmental impact assessments and applications made to the Scottish Ministers for—
+
+(a) consent granted under section 36 or 37 of the Electricity Act 1989 (consent for construction etc of generating stations or for overhead lines), or
+
+(b) variation of consent granted under section 36 of that Act.
+
+(2) That provision is—
+
+(a) provision for the Scottish Ministers to refuse an application in respect of Schedule 2 development that is not accompanied by an EIA report if the development has not been the subject of a screening opinion;
+
+(b) provision for the Scottish Ministers to charge developers fees for screening opinions and scoping opinions;
+
+(c) provision about the sending of copies of EIA reports to the Scottish Ministers;
+
+(d) provision about the publication by developers of the information listed in regulation 14(2) of the 2017 Regulations (information about EIA reports);
+
+(e) provision about making EIA reports available for inspection;
+
+(f) provision about time limits for the consultation bodies and other public bodies to make representations to the Scottish Ministers about scoping opinions and EIA reports;
+
+(g) provision about time limits for the consultation bodies and other public bodies to enter into consultation with developers about, and to make available, information relevant to the preparation of EIA reports;
+
+(h) provision about time limits for developers to provide additional information to the Scottish Ministers;
+
+(i) provision about the publication by developers of the information listed in regulation 20(3) of the 2017 Regulations (information about additional information);
+
+(j) provision about making additional information available for inspection;
+
+(k) provision about the publication by developers of the information listed in regulation 23(2) of the 2017 Regulations (information about decisions);
+
+(l) provision that the Secretary of State or the Scottish Ministers consider appropriate for securing that the procedures under the 2017 Regulations operate effectively, or more effectively, alongside the procedures under regulations made under section 36C of the Electricity Act 1989 or paragraph 1A or 7B of Schedule 8 to that Act (inserted by section 19 of this Act).
+
+(3) The Secretary of State or the Scottish Ministers may by regulations amend the 2017 Regulations by making provision described in subsection (4) in connection with environmental impact assessments and applications made to the Scottish Ministers for variation of consent granted under section 37 of the Electricity Act 1989.
+
+(4) That provision is—
+
+(a) provision requiring an environmental impact assessment in respect of the proposed variation to be carried out before Scottish Ministers—
+
+(i) vary the consent, or
+
+(ii) direct that planning permission is deemed to be granted under section 57(2) or (2ZA) of the Town and Country Planning (Scotland) Act 1997 in respect of EIA development;
+
+(b) provision requiring the Scottish Ministers to take the environmental information into account when carrying out an environmental impact assessment in respect of the proposed variation;
+
+(c) provision applying provisions of the 2017 Regulations (including provisions amended by regulations under subsection (1)), with or without modifications;
+
+(d) provision that the Secretary of State or the Scottish Ministers consider appropriate for securing that the procedures under the 2017 Regulations operate effectively, or more effectively, alongside the procedures under regulations made under section 37A of the Electricity Act 1989 (inserted by section 20 of this Act).
+
+(5) Regulations under this section may—
+
+(a) make different provision for different purposes or different areas;
+
+(b) make consequential or supplementary provision;
+
+(c) make transitional provision.
+
+(6) Regulations under this section made by the Secretary of State are to be made by statutory instrument.
+
+(7) A statutory instrument containing regulations made by the Secretary of State under this section is subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(8) Before making regulations under this section, the Secretary of State must consult the Scottish Ministers.
+
+(9) For regulations under this section made by the Scottish Ministers, see section 27 of the Interpretation and Legislative Reform (Scotland) Act 2010 (asp 10) (Scottish statutory instruments).
+
+(10) Regulations made by the Scottish Ministers under this section are subject to the negative procedure (see section 28 of the Interpretation and Legislative Reform (Scotland) Act 2010 (asp 10)).
+
+(11) Before making regulations under this section, the Scottish Ministers must consult the Secretary of State.
+
+(12) In this section, subject to subsection (13), the following terms have the same meaning as they have in the 2017 Regulations—
+
+- “additional information”
+- “the consultation bodies”
+- “developer”
+- “EIA development”
+- “EIA report”
+- “environmental impact assessment”
+- “environmental information”
+- “Schedule 2 development”
+- “scoping opinion”
+- “screening opinion”.
+
+(13) In subsections (3) and (4), those terms have the same meaning in connection with applications for variation of consent granted under section 37 of the Electricity Act 1989 as they have, in the 2017 Regulations, in connection with applications for variation of consent granted under section 36 of that Act.
+
+#### Long duration electricity storage
+
+##### 26 Long duration electricity storage
+
+In the Electricity Act 1989, after section 10O insert—
+
+> **Long duration electricity storage**
+>
+> **10P Long duration electricity storage**
+>
+> (1) The Authority must, as soon as reasonably practicable after this section comes into force, establish and operate a scheme in accordance with this section.
+>
+> (2) The scheme must be designed for the purpose of encouraging the development and use of long duration electricity storage installations.
+>
+> (3) The scheme must be open to persons who—
+>
+> (a) hold or intend to apply for a generation licence to operate a long duration electricity storage installation, and
+>
+> (b) meet any other specified criteria.
+>
+> (4) The scheme must provide for an LDES operator who operates an approved installation—
+>
+> (a) to receive payments from a holder of an electricity system operator licence where the operator’s assessed revenue from that installation is below a specified amount, in specified circumstances, and
+>
+> (b) to make payments to a holder of an electricity system operator licence where the operator’s assessed revenue from that installation is above a specified amount, in specified circumstances.
+>
+> (5) In subsection (4)—
+>
+> - “an approved installation” means a long duration electricity storage installation which is approved by the Authority for the purposes of subsection (4) in accordance with the scheme;
+>
+> - “assessed revenue”, in relation to a long duration electricity storage installation, means the difference between—
+>
+>   - revenue of a specified kind earned or derived in connection with that installation, and
+>   - costs of a specified kind incurred in connection with operating the installation.
+>
+> (6) The Authority may determine how costs and revenue are to be calculated for the purposes of the scheme.
+>
+> (7) In setting charges to which Article 18(1) of the Electricity Regulation applies, the holder of an electricity system operator licence may take account of payments it makes or receives under the scheme.
+>
+> (8) In this section—
+>
+> - “LDES operator” means a person who, under a generation licence, generates electricity by means of a long duration electricity storage installation;
+>
+> - “long duration electricity storage installation” means an installation that—
+>
+>   - generates electricity from stored energy,
+>   - has an electricity generating capacity of not less than 50 megawatts, and
+>   - is capable of generating electricity at its full capacity for a continuous period of not less than eight hours;
+>
+> - “specified” means specified by the Authority for the purposes of the scheme in—
+>
+>   - a document published by the Authority, or
+>   - a condition of a licence;
+>
+> - “stored energy” has the meaning given by section 4(3ZB).
+>
+> (9) The Secretary of State may by regulations amend the definition of “long duration electricity storage installation” by substituting—
+>
+> (a) for the amount of electricity generating capacity for the time being mentioned in paragraph (b) of the definition, a different amount;
+>
+> (b) for the period for the time being mentioned in paragraph (c) of the definition, a different period (which may not be less than eight hours).
+
+#### Consumer benefits
+
+##### 27 Benefits for homes near electricity transmission projects
+
+(1) The Electricity Act 1989 is amended as follows.
+
+(2) After section 38 insert—
+
+> **Benefits resulting from proximity to new or upgraded transmission infrastructure**
+>
+> **38A Power to establish scheme for giving of benefits**
+>
+> (1) The Secretary of State may by regulations establish a scheme under which persons with a specified connection to qualifying premises are entitled to financial benefits provided (directly or indirectly) by electricity suppliers.
+>
+> (2) Qualifying premises must be identified by reference to their proximity to qualifying works.
+>
+> (3) Qualifying works must involve the construction, erection, expansion or improvement of electrical plant or an electric line that (in either case)—
+>
+> (a) is wholly or partly above the ground, and
+>
+> (b) forms or is intended to form part of a transmission system.
+>
+> They may be works that took place before the making of the regulations or the coming into force of this section.
+>
+> (4) The regulations may (among other things)—
+>
+> (a) make further provision determining, or for the determination of, whether premises or works are qualifying;
+>
+> (b) confer functions in connection with the scheme;
+>
+> (c) provide for the delegation of functions conferred in connection with the scheme;
+>
+> (d) provide for payments by electricity suppliers to meet costs incurred in the carrying out of functions in connection with the scheme;
+>
+> (e) provide for the costs of electricity suppliers under the scheme to be distributed among suppliers on such basis, and by such means, as the regulations provide;
+>
+> (f) restrict a person’s ability to obtain payment of an amount standing to the credit of the person’s account with an electricity supplier, where that amount derives from benefits under the scheme;
+>
+> (g) make provision about cases in which a person who has received benefits under the scheme in respect of premises ceases to be entitled under the scheme in respect of the premises, including provision for the withdrawal or recovery of the benefits;
+>
+> (h) make pass-through provision and associated provision (see section 38B);
+>
+> (i) make enforcement provision (see section 38C);
+>
+> (j) make information provision (see section 38D).
+>
+> (5) To the extent that this section enables provision to be made affecting the holders of licences, provision for that purpose may be made by modifying, or empowering or requiring the Authority to modify—
+>
+> (a) the conditions of a licence, or
+>
+> (b) a document maintained in accordance with the conditions of a licence, or an agreement that gives effect to a document so maintained.
+>
+> (6) A statutory instrument containing regulations under this section may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, each House of Parliament.
+>
+> (7) A draft laid under subsection (6) is not to be treated as a hybrid instrument for the purposes of the standing orders of either House of Parliament.
+>
+> (8) Regulations under this section bind the Crown unless they provide otherwise.
+>
+> (9) The Secretary of State may, out of money provided by Parliament, make payments to a person on whom functions are conferred by regulations under this section for the purposes of meeting (or helping to meet) the expenses of carrying out those functions.
+>
+> **38B Passing of benefits to ultimate consumer**
+>
+> (1) This section applies for the purposes of section 38A(4)(h).
+>
+> (2) “Pass-through provision” is provision that—
+>
+> (a) applies where—
+>
+> (i) one person (“the intermediary”) receives benefits under the scheme in connection with qualifying premises, and
+>
+> (ii) another person (“the end-user”) who is not living as part of the same household as the intermediary consumes electricity supplied to the premises, and
+>
+> (b) requires the intermediary to pass on the substance of those benefits to the end-user.
+>
+> (3) “Associated provision” means provision that relates to pass-through provision and—
+>
+> (a) requires intermediaries to take steps to obtain benefits that will be subject to the requirement referred to in subsection (2)(b),
+>
+> (b) requires intermediaries to supply information to end-users,
+>
+> (c) provides for the making of payments to intermediaries (in addition to the provision of benefits of the sort mentioned in section 38A(1)), or
+>
+> (d) provides for the withdrawal or recovery of benefits given or other payments made to intermediaries who fail to comply with the requirement referred to in subsection (2)(b).
+>
+> (4) For the purposes of subsection (2)(a)(ii), the cases in which electricity is consumed by a person include those in which the electricity is used to make available to the person heating, cooling, hot water or energy.
+>
+> **38C Enforcement of benefit scheme**
+>
+> (1) In section 38A(4)(i), “enforcement provision” means—
+>
+> (a) provision for the enforcement in civil proceedings of requirements under the scheme,
+>
+> (b) provision for a person to impose a monetary penalty where the person is satisfied on the balance of probabilities that—
+>
+> (i) a requirement under the regulations has not been complied with, or
+>
+> (ii) benefits or other payments under the scheme have been wrongfully obtained, or
+>
+> (c) provision for complaints procedures, dispute resolution, adjudication, appeals or redress in connection with the scheme.
+>
+> (2) If regulations under section 38A provide for the imposition of monetary penalties, they must provide a right of appeal to a court or tribunal on grounds including both error of fact and error of law.
+>
+> (3) The provision that may be made by virtue of subsection (1)(c) includes provision for Part 2 of the Consumers, Estate Agents and Redress Act 2007 (complaints handling and redress schemes) to apply (with or without modifications) to end-user complaints as it applies to consumer complaints within the meaning of that Part.
+>
+> (4) In subsection (3), “end-user complaints” means complaints in connection with pass-through provision made by end-users against intermediaries or electricity suppliers (with the definitions in section 38B applying for the purposes of this subsection).
+>
+> **38D Disclosure and use of information in connection with benefit scheme**
+>
+> (1) In section 38A(4)(j), “information provision” means provision within subsection (2) or (3).
+>
+> (2) Provision is within this subsection if it is provision for the disclosure of information or evidence for the purposes of—
+>
+> (a) identifying persons entitled to benefits under the scheme,
+>
+> (b) identifying qualifying premises or qualifying works,
+>
+> (c) checking whether requirements under, or resulting from, the regulations are being or have been complied with,
+>
+> (d) checking payments made under the scheme,
+>
+> (e) facilitating the performance of functions conferred, or the enforcement of duties imposed, by or as a result of the regulations, or
+>
+> (f) evaluating the performance of the scheme.
+>
+> (3) Provision is within this subsection if it is provision about the use or further disclosure of information disclosed—
+>
+> (a) further to provision within subsection (2), or
+>
+> (b) otherwise in connection with the scheme.
+>
+> (4) The provision that may be made by virtue of subsection (3) includes provision making it an offence to use or disclose information in an unauthorised manner; but such an offence may not be made punishable by imprisonment.
+>
+> (5) Regulations under section 38A that authorise the use or disclosure of information are not to be taken to authorise disclosure or use that would be liable to harm the commercial interests of any person, except to the extent that—
+>
+> (a) the regulations otherwise provide, or
+>
+> (b) the person disclosing or using the information reasonably considers such disclosure or use necessary in view of the purpose of the regulations.
+>
+> (6) Regulations under section 38A do not require or authorise the disclosure or use of information that—
+>
+> (a) contravenes the data protection legislation (but this section and the regulations are to be taken into account in determining whether the disclosure or use would contravene that legislation), or
+>
+> (b) is prohibited by any of Parts 1 to 7 and Chapter 1 of Part 9 of the Investigatory Powers Act 2016.
+>
+> (7) In subsection (6), “the data protection legislation” has the same meaning as in the Data Protection Act 2018 (see section 3 of that Act).
+
+(3) In section 106 (regulations and orders under the Act), in subsection (2ZA) (inserted by section 23(3)), after paragraph (a) insert—
+
+> (b) regulations under section 38A.
+
+(4) In paragraph 6 of Schedule 6A (requirements enforceable against suppliers under section 25), before sub-paragraph (a) insert—
+
+> (za) any provision of regulations under section 38A that is designated in the regulations as a relevant provision for the purposes of this paragraph;
+
+.
+
+#### Electricity transmission period
+
+##### 28 Electricity transmission systems: extension of commissioning period
+
+In section 6G(1) of the Electricity Act 1989 (meaning of “commissioning period” for the purposes of determining whether a person is to be regarded as participating in the transmission of electricity), in paragraph (b), for “18 months” substitute “27 months”.
+
+#### Electricity generation on forestry land
+
+##### 29 Use of forestry estate for renewable electricity
+
+In the Forestry Act 1967, after section 3 insert—
+
+> **3A Use of land in connection with renewable electricity projects**
+>
+> (1) The Commissioners may—
+>
+> (a) use, or enter into arrangements in connection with the use of, English forestry land for the generation, storage, transmission or supply of renewable electricity;
+>
+> (b) sell, or enter into other arrangements concerning, renewable electricity generated, stored or supplied on, or transmitted across, English forestry land;
+>
+> (c) use, or enter into arrangements in connection with the use of, English forestry land for activity that—
+>
+> (i) is intended to satisfy, or enable the satisfaction of, a relevant condition of development (whether existing or contemplated), or
+>
+> (ii) otherwise arises in connection with such a condition.
+>
+> (2) For the purposes of subsection (1)(c), a relevant condition of development is a condition of development that—
+>
+> (a) relates to renewable electricity development located wholly or partly on English forestry land, and
+>
+> (b) is intended to benefit the natural environment of land.
+>
+> (3) The exercise of the powers in subsection (1) for either of the following purposes is to be taken to be consistent with the Commissioners’ general duty under section 1(2)—
+>
+> (a) facilitating or promoting the use of renewable electricity;
+>
+> (b) obtaining funds for meeting the expenses referred to in section 41(2).
+>
+> (4) When the Commissioners are considering the exercise of those powers, section 1(3A) applies as if it included a further paragraph referring to those purposes.
+>
+> (5) In this section—
+>
+> - “condition of development” means—
+>
+>   - a condition to which planning permission is subject, or
+>   - a requirement contained in an order granting development consent under the Planning Act 2008 (development consent for nationally significant infrastructure);
+>
+> - “English forestry land” means land placed at the disposal of the Commissioners under this Act;
+>
+> - “natural environment”, in relation to land, includes—
+>
+>   - its plants, animals and other living organisms,
+>   - their habitats, and
+>   - its geological features;
+>
+> - “renewable electricity” means electricity produced from sources other than—
+>
+>   - coal,
+>   - lignite,
+>   - peat,
+>   - natural gas, within the meaning of the Energy Act 1976,
+>   - crude liquid petroleum,
+>   - petroleum products, within the meaning of the Energy Act 1976,
+>   - any substance produced directly or indirectly from a substance within paragraphs (a) to (f),
+>   - energy derived from any substance within paragraphs (a) to (g), or
+>   - nuclear fuel;
+>
+> - “renewable electricity development” means development the main purpose of which is the generation, storage, transmission or supply of renewable electricity.
+>
+> (6) References in this section to the storage of electricity are to the storage of energy converted from electricity for the purpose of its reconversion into electricity.
+>
+> **3B Section 3A: power to require Secretary of State’s consent in certain cases**
+>
+> (1) The Secretary of State may make regulations that, in a case within subsection (2), require the consent of the Secretary of State to an exercise of the Commissioners’ powers under section 3A.
+>
+> (2) The cases are those where—
+>
+> (a) a proposed exercise of the powers is intended to enable the construction on English forestry land of the whole or part of a generating station (including an extension to an existing station), and
+>
+> (b) the capacity threshold is exceeded.
+>
+> (3) In the case of the construction of a new generating station, the capacity threshold is exceeded if it is expected that the generating capacity of the station would equal or exceed the relevant wattage.
+>
+> (4) In the case of an extension to an existing station, the capacity threshold is exceeded if it is expected that—
+>
+> (a) the extension would cause the generating capacity of the station to equal or exceed the relevant wattage, or
+>
+> (b) the extension, whether alone or taken together with previous non-consented extensions, would increase the generating capacity of the station by at least the relevant wattage.
+>
+> (5) An extension is “non-consented” for the purposes of subsection (4)(b) if—
+>
+> (a) it was enabled by an exercise of the Commissioners’ powers under section 3A, and
+>
+> (b) that exercise of those powers did not have the consent of the Secretary of State under regulations under subsection (1).
+>
+> (6) But an extension ceases to be “non-consented” for those purposes if—
+>
+> (a) a subsequent extension to the station in question is constructed having been enabled by an exercise of the Commissioners’ powers under section 3A, and
+>
+> (b) that exercise of those powers had the consent of the Secretary of State under regulations under subsection (1).
+>
+> (7) The relevant wattage is—
+>
+> (a) 5 megawatts, if the station generates electricity from wind, and
+>
+> (b) 50 megawatts, if it does not.
+>
+> (8) The Secretary of State may by regulations amend this section so as to change the relevant wattage (including by adding or combining categories of station in relation to which a particular wattage is prescribed).
+>
+> (9) In calculating the relevant wattage there is to be disregarded—
+>
+> (a) in the case of a generating station only partly situated on English forestry land, any generating capacity that can be attributed to parts not situated on English forestry land;
+>
+> (b) in the case of a generating station whose capacity is provided in part by facilities for the storage of electricity and in part by other means, the capacity provided by those facilities.
+>
+> (10) In this section—
+>
+> - “generating station” has the same meaning as in Part 1 of the Electricity Act 1989 (see section 64(1));
+> - “storage” is to be read in accordance with section 3A(6).
+>
+> **3C Regulations under section 3B: further provision**
+>
+> (1) Regulations under section 3B(1) may—
+>
+> (a) make provision about the process by which consent is to be sought and given or refused;
+>
+> (b) provide for consent to be given subject to conditions.
+>
+> (2) Regulations under section 3B may—
+>
+> (a) make different provision for different purposes or areas;
+>
+> (b) include consequential, incidental, supplementary, transitional or saving provision.
+>
+> (3) Regulations under section 3B are to be made by statutory instrument.
+>
+> (4) A statutory instrument containing (whether alone or with other provision) regulations under section 3B(8) may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, each House of Parliament.
+>
+> (5) A statutory instrument containing regulations under section 3B(1) (but not regulations under section 3B(8)) is subject to annulment in pursuance of a resolution of either House of Parliament.
+
+#### Wind generating stations and seismic array systems
+
+##### 30 Wind generating stations that may affect seismic array systems
+
+(1) The Secretary of State may make regulations about planning permissions or consents relating to wind generating stations that may affect the functioning of a relevant seismic array system.
+
+(2) A “relevant seismic array system” is a spatially distributed system of linked seismometers, arranged so as to enhance the detection and characterisation of seismic signals, that—
+
+(a) is used for defence purposes, and
+
+(b) is in use on the day on which this Act is passed.
+
+(3) The regulations may provide for—
+
+(a) an exclusion zone, and
+
+(b) a restricted zone,
+
+around a relevant seismic array system.
+
+(4) The regulations may—
+
+(a) require a planning decision-maker to refuse, or decline to determine or accept, a planning application relating to a wind generating station that is (or would be) situated in an exclusion zone;
+
+(b) provide that a relevant development order or MCA scheme may not be made if it would grant planning permission for development relating to a wind generating station that is (or would be) situated in an exclusion zone;
+
+(c) allow the Secretary of State to direct that a relevant development order or MCA scheme may not be made if it would grant such planning permission.
+
+(5) The regulations may, in relation to a planning application relating to a wind generating station that is (or would be) situated in a restricted zone—
+
+(a) require the applicant to provide specified information about the seismic impact of the proposals (“seismic impact information”) to which their application relates;
+
+(b) require the planning decision-maker to use the seismic impact information in a specified way when determining the application (including when determining conditions relating to a permission or consent);
+
+(c) require the planning decision-maker to refuse, or decline to determine or accept, the application in specified circumstances;
+
+(d) require the planning decision-maker to provide the Secretary of State with the seismic impact information, and to seek the Secretary of State’s views on the seismic impact of the proposals;
+
+(e) require the planning decision-maker to refuse, or decline to determine or accept, the application if the Secretary of State objects to it on grounds relating to the seismic impact of the proposals.
+
+(6) The regulations may—
+
+(a) require a person proposing to make a relevant development order or MCA scheme to consult the Secretary of State if the order or scheme would grant planning permission for development relating to a wind generating station that is (or would be) situated in a restricted zone;
+
+(b) allow the Secretary of State to direct that a relevant development order or MCA scheme may not be made if it would grant such planning permission.
+
+(7) The regulations may include provision about the procedure for planning applications to which they relate, such as—
+
+(a) provision enabling or requiring a planning decision-maker to decline to determine or accept an application;
+
+(b) provision modifying the process for determining an application;
+
+(c) provision allowing the Secretary of State to give a direction to the planning-decision maker about the procedure for an application;
+
+(d) provision modifying or disapplying a right of appeal or review;
+
+(e) provision disapplying a duty imposed on a planning decision-maker when determining an application.
+
+(8) The regulations may require a planning decision-maker to have regard to guidance issued by the Secretary of State.
+
+(9) Regulations under this section may—
+
+(a) amend or repeal provision contained in an Act of Parliament or an Act of the Scottish Parliament;
+
+(b) make different provision for different purposes or areas;
+
+(c) make provision binding the Crown;
+
+(d) make transitional, transitory or saving provision;
+
+(e) make incidental, supplementary or consequential provision.
+
+(10) Regulations under this section are to be made by statutory instrument.
+
+(11) A statutory instrument containing regulations under this section which amend or repeal provision contained in an Act of Parliament or an Act of the Scottish Parliament may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, each House of Parliament.
+
+(12) Any other statutory instrument containing regulations under this section is subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(13) If a draft of a statutory instrument containing regulations under this section would, apart from this subsection, be treated for the purposes of the standing orders of either House of Parliament as a hybrid instrument, it is to proceed in that House as if it were not such an instrument.
+
+(14) In this section—
+
+- “MCA scheme” means a masterplan consent area scheme made under Part 3 of the Town and Country Planning (Scotland) Act 1997;
+
+- “planning application” means—
+
+  - an application for planning permission under Part 3 or Part 13 of the Town and Country Planning Act 1990,
+  - an application for planning permission under Part 3 or Part 12 of the Town and Country Planning (Scotland) Act 1997,
+  - an application for an order granting development consent under section 37 of the Planning Act 2008, or
+  - an application under section 36 or 36C of the Electricity Act 1989 (consent for construction etc of generating station);
+
+- “planning decision-maker” means a person who determines a planning application;
+
+- “relevant development order” means—
+
+  - a local development order made under section 61A of the Town and Country Planning Act 1990;
+  - a Mayoral development order made under section 61DA of that Act;
+  - a neighbourhood development order made under section 61E of that Act;
+  - a development order made under section 30 of the Town and Country Planning (Scotland) Act 1997;
+
+- “wind generating station” means a generating station that generates electricity from wind.
+
+### Chapter 3 — Transport infrastructure
+
+#### Amendments to the Highways Act 1980
+
+##### 31 Fees for certain services
+
+(1) The Highways Act 1980 is amended as follows.
+
+(2) After section 281A (stamp duty land tax) insert—
+
+> **281B Power to provide for fees for certain services**
+>
+> (1) The appropriate national authority may by regulations make provision for, or in connection with, the charging of fees to highway authorities by prescribed public authorities, in relation to the provision of relevant services.
+>
+> (2) A “relevant service” means any advice, information or other assistance (including a response to a consultation) provided, whether or not to a highway authority, in connection with—
+>
+> (a) an order made, or proposed to be made, under Part 2, 6 or 12, or
+>
+> (b) any other prescribed matter relating to any of those Parts.
+>
+> (3) The regulations under subsection (1) may, in particular, make provision—
+>
+> (a) about when a fee (including a supplementary fee) may, and may not, be charged;
+>
+> (b) about the amount which may be charged;
+>
+> (c) about what may, and may not, be taken into account in calculating the amount charged;
+>
+> (d) about which highway authority is liable to pay a fee charged;
+>
+> (e) about when a fee charged is payable;
+>
+> (f) about the recovery of fees charged;
+>
+> (g) about waiver, reduction or repayment of fees;
+>
+> (h) about the effect of paying or failing to pay fees charged (including provision permitting a prescribed public authority to withhold a relevant service that it would otherwise be required to provide under an enactment until any outstanding fees for that service are paid);
+>
+> (i) for the supply of information for any purpose of the regulations;
+>
+> (j) conferring a function, including a function involving the exercise of a discretion, on any person.
+>
+> (4) A prescribed public authority must have regard to—
+>
+> (a) any guidance published by the Secretary of State in relation to the exercise of the authority’s functions under regulations made under this section by the Secretary of State;
+>
+> (b) any guidance published by the Welsh Ministers in relation to the exercise of the authority’s functions under regulations made under this section by the Welsh Ministers.
+>
+> (5) Regulations under this section may make—
+>
+> (a) different provision for different purposes or areas;
+>
+> (b) incidental, consequential, supplementary, transitional or transitory provision or savings.
+>
+> (6) In this section—
+>
+> - “appropriate national authority” means—
+>
+>   - in relation to England, the Secretary of State, and
+>   - in relation to Wales, the Welsh Ministers;
+>
+> - “prescribed” means prescribed by regulations made by the appropriate national authority under this section;
+>
+> - “public authority” means any person certain of whose functions are of a public nature.
+
+(3) In section 325 (provisions as to regulations, schemes and orders)—
+
+(a) before subsection (2) insert—
+
+> (1B) The power of the Welsh Ministers to make regulations under section 281B is exercisable by statutory instrument.
+
+;
+
+(b) in subsection (2)(a), after “8A” insert “or regulations made by the Welsh Ministers under section 281B”;
+
+(c) after subsection (2A) insert—
+
+> (2B) A statutory instrument containing regulations made by the Welsh Ministers under section 281B is subject to annulment in pursuance of a resolution of Senedd Cymru.
+
+##### 32 Power of strategic highways company in relation to trunk roads
+
+(1) Section 10 of the Highways Act 1980 (trunk roads) is amended as set out in subsections (2) to (6).
+
+(2) Omit subsection (2A).
+
+(3) In subsection (3), for “this section” substitute “subsection (2)”.
+
+(4) In subsection (3A), after “power” insert “under subsection (2)”.
+
+(5) In subsection (4), for “this section” substitute “subsection (2)”.
+
+(6) After subsection (4) insert—
+
+> (4A) A strategic highways company may by order direct—
+>
+> (a) that a highway for which the company is the highway authority is to become a trunk road,
+>
+> (b) in relation to a highway in the company’s area for which the company is not the highway authority, that—
+>
+> (i) the highway is to become a trunk road, and
+>
+> (ii) the company is to become the highway authority for it, or
+>
+> (c) that a trunk road for which the company is the highway authority is to cease to be a trunk road.
+>
+> (4B) In subsection (4A)(b)—
+>
+> (a) the reference to the company’s area is to the area in respect of which it was appointed (see section 2(1) of the Infrastructure Act 2015), and
+>
+> (b) the reference to a highway for which the company is not the highway authority includes a proposed highway to be constructed by the company.
+>
+> (4C) A strategic highways company may make an order under subsection (4A) only if it is satisfied that the order is expedient for the purpose of extending, improving or reorganising the national system of routes for through traffic in England and Wales.
+>
+> (4D) A strategic highways company may be satisfied as mentioned in subsection (4C) only after taking into consideration the requirements of local and national planning, including the requirements of agriculture.
+>
+> (4E) An order under subsection (4A)—
+>
+> (a) must specify the date on which it takes effect, and
+>
+> (b) must be confirmed by the Secretary of State.
+>
+> (4F) Subsections (3) and (4) apply in relation to the power in subsection (4A) as they apply in relation to the power in subsection (2).
+>
+> (4G) The powers in this section are subject to section 33(4) of the Planning Act 2008 (exclusion of powers to make or confirm orders in relation to highways for which development consent required).
+
+(7) In Schedule 1 to the Highways Act 1980 (procedures for making or confirming orders and schemes), after paragraph 1 insert—
+
+> **1A** Where an order under section 10 of this Act is submitted to the Secretary of State by a strategic highways company, that company must publish, in the manner specified in paragraph 1, the notice there referred to; and that paragraph has effect in relation to the notice as if, for the references to the draft order and the making of the order, there were substituted references to the order as submitted to the Secretary of State and the confirmation of the order respectively.
+
+##### 33 Deadlines for consultation and decisions on certain orders and schemes
+
+(1) Schedule 1 to the Highways Act 1980 (procedures for making or confirming certain orders and schemes) is amended as follows.
+
+(2) In paragraph 1, in sub-paragraph (b), for “6 weeks from the date of the publication of the notice” substitute “the minimum period specified in paragraph 2A”.
+
+(3) After paragraph 2 insert—
+
+> **2A** The minimum period is—
+>
+> (a) 30 days from the date of the publication of the notice, in the case of an order proposed by, or submitted to, the Secretary of State;
+>
+> (b) 6 weeks from the date of the publication of the notice, in the case of an order proposed by, or submitted to, the Welsh Ministers.
+
+(4) After paragraph 8 insert—
+
+> **8A** (1) This paragraph applies where the Secretary of State is exercising the functions conferred by paragraph 8.
+>
+> (2) The Secretary of State must—
+>
+> (a) decide to make or confirm the proposed order,
+>
+> (b) decide not to make or confirm the proposed order, or
+>
+> (c) decide to give notification under paragraph 8(3)(a),
+>
+> within the period of 10 weeks beginning with the relevant day.
+>
+> (3) Subject to sub-paragraph (4), the relevant day is the day on which any of the following occurs in relation to the proposed order—
+>
+> (a) the period specified in the notice published under paragraph 1 or (as the case may be) paragraph 5 expires with no qualifying objection having been received by the Secretary of State;
+>
+> (b) a qualifying objection is withdrawn with the result that no qualifying objections remain live;
+>
+> (c) the Secretary of State decides under paragraph 7(2) to dispense with an inquiry;
+>
+> (d) the Secretary of State receives the report of the person who has held a local inquiry.
+>
+> (4) In a case where—
+>
+> (a) the Secretary of State has to decide whether to confirm a related compulsory purchase order, and
+>
+> (b) the relevant day in relation to that compulsory purchase order is later than the relevant day specified in sub-paragraph (3),
+>
+> the relevant day for the purposes of sub-paragraph (2) is the relevant day in relation to the compulsory purchase order.
+>
+> (5) The relevant day in relation to a related compulsory purchase order is the day on which the procedure that must be followed before the Secretary of State can decide whether to confirm the order (not including any duty on the Secretary of State to consider certain matters before taking that decision) is completed.
+>
+> (6) Where the Secretary of State gives notification under paragraph 8(3)(a), the Secretary of State must decide whether or not to make or confirm the proposed order within the period of 10 weeks beginning with the final day of the period specified under paragraph 8(3)(b).
+>
+> (7) Sub-paragraphs (4) and (5) apply for postponing the first day of the period referred to in sub-paragraph (6) as they apply for postponing the relevant day for the purposes of sub-paragraph (2).
+>
+> (8) If the Secretary of State has decided to proceed in accordance with paragraph 8(2), sub-paragraphs (2) to (7) of this paragraph apply separately in relation to each part of the proposals that is being given separate consideration.
+>
+> (9) The Secretary of State may in any particular case, if the Secretary of State considers it appropriate, extend a period that applies under this paragraph.
+>
+> (10) The power under sub-paragraph (9) may be exercised—
+>
+> (a) more than once in relation to the same period;
+>
+> (b) after the expiry of the period.
+>
+> (11) The Secretary of State must give written notice of any extension—
+>
+> (a) in a case where the proposed order has already been made, to the authority that made it, and
+>
+> (b) to each person who has made a qualifying objection and not withdrawn it.
+>
+> (12) In this paragraph—
+>
+> - “qualifying objection” means an objection received as described in paragraph 7(1)(a) or (b);
+> - “related compulsory purchase order”, in relation to a proposed order, means a compulsory purchase order proceedings on which could, by virtue of section 257(1), be taken concurrently with any proceedings under this Schedule on the proposed order.
+
+(5) In paragraph 10—
+
+(a) the existing text becomes sub-paragraph (1);
+
+(b) in paragraph (b) of that sub-paragraph, for “6 weeks from the date of the publication of the notice” substitute “the minimum period specified in sub-paragraph (2)”;
+
+(c) after that sub-paragraph insert—
+
+> (2) The minimum period is—
+>
+> (a) 30 days from the date of the publication of the notice, in the case of a scheme proposed by, or submitted to, the Secretary of State;
+>
+> (b) 6 weeks from the date of the publication of the notice, in the case of a scheme proposed by, or submitted to, the Welsh Ministers.
+
+(6) After paragraph 15 insert—
+
+> **15A** (1) This paragraph applies where the Secretary of State is exercising the functions conferred by paragraph 15.
+>
+> (2) The Secretary of State must—
+>
+> (a) decide to make or confirm the proposed scheme,
+>
+> (b) decide not to make or confirm the proposed scheme, or
+>
+> (c) decide to give notification under paragraph 15(3)(a),
+>
+> within the period of 10 weeks beginning with the relevant day.
+>
+> (3) Subject to sub-paragraph (4), the relevant day is the day on which any of the following occurs in relation to the proposed scheme—
+>
+> (a) the period specified in the notice published under paragraph 10 or (as the case may be) paragraph 12 expires with no qualifying objection having been received by the Secretary of State;
+>
+> (b) a qualifying objection is withdrawn with the result that no qualifying objections remain live;
+>
+> (c) the Secretary of State decides under paragraph 14(2) to dispense with an inquiry;
+>
+> (d) the Secretary of State receives the report of the person who has held a local inquiry.
+>
+> (4) In a case where—
+>
+> (a) the Secretary of State has to decide whether to confirm a related compulsory purchase order, and
+>
+> (b) the relevant day in relation to that compulsory purchase order is later than the relevant day specified in sub-paragraph (3),
+>
+> the relevant day for the purposes of sub-paragraph (2) is the relevant day in relation to the compulsory purchase order.
+>
+> (5) The relevant day in relation to a related compulsory purchase order is the day on which the procedure that must be followed before the Secretary of State can decide whether to confirm the order (not including any duty on the Secretary of State to consider certain matters before taking that decision) is completed.
+>
+> (6) Where the Secretary of State gives notification under paragraph 15(3)(a), the Secretary of State must decide whether or not to make or confirm the proposed scheme within the period of 10 weeks beginning with the final day of the period specified under paragraph 15(3)(b).
+>
+> (7) Sub-paragraphs (4) and (5) apply for postponing the first day of the period referred to in sub-paragraph (6) as they apply for postponing the relevant day for the purposes of sub-paragraph (2).
+>
+> (8) If the Secretary of State has decided to proceed in accordance with paragraph 15(2), sub-paragraphs (2) to (7) of this paragraph apply separately in relation to each part of the proposals that is being given separate consideration.
+>
+> (9) The Secretary of State may in any particular case, if the Secretary of State considers it appropriate, extend a period that applies under this paragraph.
+>
+> (10) The power under sub-paragraph (9) may be exercised—
+>
+> (a) more than once in relation to the same period;
+>
+> (b) after the expiry of the period.
+>
+> (11) The Secretary of State must give written notice of any extension—
+>
+> (a) in a case where the proposed scheme has already been made, to the authority that made it, and
+>
+> (b) to each person who has made a qualifying objection and not withdrawn it.
+>
+> (12) In this paragraph—
+>
+> - “qualifying objection” means an objection received as described in paragraph 14(1)(a) or (b);
+> - “related compulsory purchase order”, in relation to a proposed scheme, means a compulsory purchase order proceedings on which could, by virtue of section 257(1), be taken concurrently with any proceedings under this Schedule on the proposed scheme.
+
+##### 34 Procedure for certain orders and schemes
+
+(1) The Highways Act 1980 is amended as follows.
+
+(2) In section 325 (provision for certain regulations, orders and schemes to be made by statutory instrument)—
+
+(a) in the heading, omit “, schemes”;
+
+(b) in subsection (1)—
+
+(i) omit paragraph (b);
+
+(ii) in paragraph (d), after “sections” insert “10,”.
+
+(3) In section 326 (revocation and variation of schemes and orders)—
+
+(a) in subsection (2)—
+
+(i) after “An order” insert “or scheme”;
+
+(ii) after “section” insert “10,”;
+
+(iii) after “14B,” insert “16,”;
+
+(iv) after “27,” insert “106(3),”;
+
+(v) after “orders” insert “or schemes”;
+
+(vi) after “subsequent order” insert “or scheme”;
+
+(b) after subsection (2) insert—
+
+> (2A) Subsection (2) does not apply to an order or scheme under section 10, 16 or 106(3) made or confirmed by the Welsh Ministers (but see section 325(1A)).
+
+;
+
+(c) in subsection (6), before “14,” insert “10,”.
+
+(4) In Schedule 1 (procedures for making or confirming certain orders and schemes), after paragraph 19 insert—
+
+> **19A** On making or confirming an order or scheme in accordance with this Schedule, the Secretary of State must publish on a government website—
+>
+> (a) notice of the making or confirmation of the order or scheme,
+>
+> (b) if the order or scheme was made with modifications, a summary of those modifications, and
+>
+> (c) either—
+>
+> (i) a copy of the order or scheme, together with any maps or plans referred to in it, or
+>
+> (ii) an explanation of where and how that documentation can be inspected.
+
+##### 35 Compulsory acquisition powers to include taking of temporary possession
+
+In section 250(8) of the Highways Act 1980 (compulsory acquisition by creation of new rights to include rights of carrying out certain activity on land), after “references to” insert
+
+> —
+>
+> (a) the right to take temporary possession or occupation of land, and
+>
+> (b)
+
+.
+
+#### Amendments to the Transport and Works Act 1992
+
+##### 36 Replacement of model clauses with guidance
+
+In the Transport and Works Act 1992, for section 8 (model clauses) substitute—
+
+> **8 Guidance on draft orders**
+>
+> (1) The Secretary of State may publish guidance about the preparation of draft orders, for cases in which rules under section 6 require the submission of such drafts to the Secretary of State.
+>
+> (2) The Welsh Ministers may publish guidance about the preparation of draft orders, for cases in which rules under section 6 require the submission of such drafts to the Welsh Ministers.
+>
+> (3) The guidance may set out model provisions considered suitable for inclusion in the drafts (whether generally or in certain cases).
+>
+> (4) In arriving at a determination under section 13 in a case to which guidance under this section applies, the Secretary of State or (as the case may be) the Welsh Ministers must have regard to—
+>
+> (a) any departure from the guidance, and
+>
+> (b) any reasons given by the applicant for that departure.
+
+##### 37 Removal of special procedure for projects of national significance
+
+(1) In the Transport and Works Act 1992, omit section 9 (special procedure for projects considered to be of national significance).
+
+(2) In consequence of that amendment—
+
+(a) in section 3 of the Statutory Orders (Special Procedure) Act 1945 (petitions against orders), omit subsection (4A);
+
+(b) in section 12 of the Transport and Works Act 1992 (special parliamentary procedure), omit subsection (2);
+
+(c) in the Channel Tunnel Rail Link Act 1996, omit section 42 (application of section 9 of the 1992 Act to certain proposals affecting the Channel Tunnel).
+
+(3) The amendments made by this section do not apply in relation to an application in respect of which a notice under section 9(2) of the Transport and Works Act 1992 has been published before this section comes into force.
+
+##### 38 Duty to hold inquiry or hearing
+
+(1) Section 11 of the Transport and Works Act 1992 (inquiries and hearings) is amended as follows.
+
+(2) In subsection (3) (duty to hold inquiry or hearing on request from objector), for the words from “an objection” to “applies,” substitute
+
+> —
+>
+> (a) an objection is made by a person within subsection (4),
+>
+> (b) the person informs the Secretary of State in writing that the person wishes the objection to be referred to an inquiry or dealt with in accordance with subsection (2), and
+>
+> (c) the Secretary of State considers that the objection is serious enough to merit such treatment,
+
+.
+
+(3) After subsection (3) insert—
+
+> (3A) In a case in which the powers in subsections (1) and (2) are exercisable by the Welsh Ministers, subsection (3) is to be read as referring to the Welsh Ministers instead of the Secretary of State.
+
+(4) The amendments made by this section do not apply in relation to an application in respect of which rule 5(1) of the Transport and Works (Applications and Objections Procedure) (England and Wales) Rules 2006 (S.I. 2006/1466) has been complied with before this section comes into force.
+
+##### 39 Costs of inquiries
+
+(1) Section 11 of the Transport and Works Act 1992 (inquiries and hearings) is amended as follows.
+
+(2) In subsection (5) (application of section 250 of the Local Government Act 1972), before paragraph (a) insert—
+
+> (za) the powers of direction, certification and order-making conferred by section 250(4) and (5) as applied by this subsection may, unless otherwise directed by the Secretary of State or the Welsh Ministers, be exercised on their behalf by the person holding the inquiry,
+
+.
+
+(3) After subsection (5) insert—
+
+> (5A) The power of direction conferred by section 250(4) of the Local Government Act 1972 (costs of inquiry) as applied by subsection (5) is, in the case of an application under section 6, to be exercised so as to require the applicant to pay the costs in question, unless the person exercising the power considers that there is good reason to exercise it differently.
+
+(4) In subsection (6) (application to hearings of provisions applied to inquiries), after “(costs)” insert “, and subsection (5A) of this section,”.
+
+(5) The amendments made by subsections (3) and (4) do not apply in relation to an application in respect of which rule 5(1) of the Transport and Works (Applications and Objections Procedure) (England and Wales) Rules 2006 (S.I. 2006/1466) has been complied with before this section comes into force.
+
+##### 40 Deadline for decisions
+
+(1) The Transport and Works Act 1992 is amended as follows.
+
+(2) In section 13 (making or refusal of orders), after subsection (6) insert—
+
+> (7) The Secretary of State may, for cases involving applications under section 6, make rules as to the period within which—
+>
+> (a) a determination under subsection (1) must be made, or
+>
+> (b) a step must be taken as required by subsection (4), section 13B or section 13C.
+>
+> (8) Rules under subsection (7)—
+>
+> (a) may provide for periods to be determined or changed by the Secretary of State or the Welsh Ministers in individual cases;
+>
+> (b) may provide for the postponement of a requirement under the rules where a fee payable in connection with the application is not paid on time;
+>
+> (c) may make different provision for different cases;
+>
+> (d) if they apply in relation to Wales, may be made only with the agreement of the Welsh Ministers;
+>
+> (e) must be made by statutory instrument;
+>
+> and such an instrument is subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(3) In consequence of that amendment—
+
+(a) in section 13(6), for “to 13D” substitute “and 13C”;
+
+(b) omit section 13D (requirement to determine EIA application or proposal within reasonable time);
+
+(c) in section 14(3A)(a), for “to 13D” substitute “and 13C”.
+
+##### 41 Publication of decisions and time for bringing challenge
+
+(1) The Transport and Works Act 1992 is amended as follows.
+
+(2) In section 14 (publicity for making or refusal of order)—
+
+(a) in subsection (1), for paragraphs (b) and (c) substitute
+
+> and
+>
+> (b) publish the notice on a government website.
+
+;
+
+(b) in subsection (2), for “(1)(a)” substitute “(1)”;
+
+(c) omit subsection (2A);
+
+(d) in subsection (3A), for “notices” substitute “notice”;
+
+(e) for subsection (3AA) substitute—
+
+> (3AA) If the determination is for the making of an EIA order, the notice under subsection (1) must include the information specified in subsection (3AB).
+
+;
+
+(f) in subsection (4)—
+
+(i) for “a notice” substitute “a copy of the notice under subsection (1)”;
+
+(ii) omit the words from “; and” to the end.
+
+(3) In section 22(1) (period for challenging order), for the words from “within” to “published” substitute “before the end of the period of 6 weeks beginning with the day after the day on which notice of the determination to make the order is first published under section 14(1)(b)”.
+
+(4) In consequence of those amendments—
+
+(a) in section 12(3)(c) (modification of section 22(1) where special parliamentary procedure applies), for “the notice required by section 14(1)(b) is published” substitute “notice is first published under section 14(1)(b)”;
+
+(b) in section 13(5) (date of operation of order), for the words from “the notice” to “published” substitute “notice of the determination to make the order is first published under section 14(1)(b)”.
+
+(5) The amendments made by this section do not apply in relation to a determination made before this section comes into force or any order made further to such a determination.
+
+##### 42 Fees for certain services
+
+After section 23 of the Transport and Works Act 1992 insert—
+
+> **23A Fees for certain services in connection with orders**
+>
+> (1) The appropriate national authority may by regulations make provision for, or in connection with, the charging of fees to applicants under section 6 by prescribed public authorities, in relation to the provision of relevant services.
+>
+> (2) A “relevant service” means any advice, information or other assistance (including a response to a consultation) provided, whether or not to an applicant under section 6, in connection with—
+>
+> (a) an application under section 6, or
+>
+> (b) any other prescribed matter relating to an order, or proposed order, under section 1 or 3.
+>
+> (3) Regulations made under subsection (1) may, in particular, make provision—
+>
+> (a) about when a fee (including a supplementary fee) may, and may not, be charged;
+>
+> (b) about the amount which may be charged;
+>
+> (c) about what may, and may not, be taken into account in calculating the amount charged;
+>
+> (d) about when a fee charged is payable;
+>
+> (e) about the recovery of fees charged;
+>
+> (f) about waiver, reduction or repayment of fees;
+>
+> (g) about the effect of paying or failing to pay fees charged (including provision permitting a prescribed public authority to withhold a relevant service that it would otherwise be required to provide under an enactment until any outstanding fees for that service are paid);
+>
+> (h) for the supply of information for any purpose of the regulations;
+>
+> (i) conferring a function, including a function involving the exercise of a discretion, on any person.
+>
+> (4) A prescribed public authority must have regard to—
+>
+> (a) any guidance published by the Secretary of State in relation to the exercise of the authority’s functions under regulations made under this section by the Secretary of State;
+>
+> (b) any guidance published by the Welsh Ministers in relation to the exercise of the authority’s functions under regulations made under this section by the Welsh Ministers.
+>
+> (5) Regulations under this section may make—
+>
+> (a) different provision for different purposes or areas;
+>
+> (b) incidental, consequential, supplementary, transitional or transitory provision or savings.
+>
+> (6) Regulations under this section are to be made by statutory instrument.
+>
+> (7) A statutory instrument containing regulations made by the Secretary of State under this section is subject to annulment in pursuance of a resolution of either House of Parliament.
+>
+> (8) A statutory instrument containing regulations made by the Welsh Ministers under this section is subject to annulment in pursuance of a resolution of Senedd Cymru.
+>
+> (9) In this section—
+>
+> - “appropriate national authority” means—
+>
+>   - in relation to England and cross-border orders, the Secretary of State, and
+>   - in relation to Wales but not cross-border orders, the Welsh Ministers;
+>
+> - “cross-border order” means an order under section 1 or 3 that has effect both in England and in Wales;
+>
+> - “prescribed” means prescribed by regulations made by the appropriate national authority under this section;
+>
+> - “public authority” means any person certain of whose functions are of a public nature.
+
+##### 43 Deemed grant of listed building consent etc (prospective)
+
+(1) In the Transport and Works Act 1992, for section 17 (listed buildings and conservation areas) substitute—
+
+> **17 Listed buildings: England**
+>
+> (1) On making an order under section 1 or 3 that authorises controlled listed building works in England, the Secretary of State may direct that listed building consent for the works is deemed to be granted, subject to such conditions (if any) as may be specified in the direction.
+>
+> (2) Section 16(2) of the Listed Buildings Act (duty of special regard to listed buildings) applies to the making of a direction under this section as it would apply to the grant of listed building consent in relation to the building concerned.
+>
+> (3) Section 72(1) of the Listed Buildings Act (duty of special attention to conservation areas) applies to the making of a direction under this section in relation to a building in a conservation area as it would apply to the grant of listed building consent in relation to that building.
+>
+> (4) The provisions of the Listed Buildings Act apply in relation to any listed building consent deemed to be granted by virtue of a direction of the Secretary of State under this section as if the consent had been granted by the Secretary of State on an application referred under section 12 of that Act.
+>
+> (5) But that does not bring the decision to make the direction within section 62(2)(a) of that Act (decisions of Secretary of State that may only be challenged by way of statutory review).
+>
+> (6) In this section—
+>
+> - “conservation area” has the same meaning as in the Listed Buildings Act (see section 91(1) of that Act);
+> - “controlled listed building works in England” means works to which section 7(1) of the Listed Buildings Act (demolition or alteration in character of a listed building in England) applies;
+> - “listed building consent” means consent under section 8 of the Listed Buildings Act (listed building consent in England);
+> - “the Listed Buildings Act” means the Planning (Listed Buildings and Conservation Areas) Act 1990.
+>
+> **17A Listed buildings and conservation areas: Wales**
+>
+> (1) On making an order under section 1 or 3 that authorises controlled listed building works in Wales, the Welsh Ministers may direct that listed building consent for the works is deemed to be granted, subject to such conditions (if any) as may be specified in the direction.
+>
+> (2) On making an order under section 1 or 3 that authorises controlled conservation area works in Wales, the Welsh Ministers may direct that conservation area consent for the works is deemed to be granted, subject to such conditions (if any) as may be specified in the direction.
+>
+> (3) Section 96(2) of HEWA 2023 (duty of special regard to listed buildings) applies to the making of a direction under subsection (1) as it would apply to the grant of listed building consent in relation to the building concerned.
+>
+> (4) Section 160(1) of HEWA 2023 (duty of special regard to conservation areas) applies—
+>
+> (a) to the making of a direction under subsection (1) in relation to a building in a conservation area, as it would apply to the grant of listed building consent in relation to that building, and
+>
+> (b) to the making of a direction under subsection (2), as it would apply to the grant of conservation area consent in relation to the building concerned.
+>
+> (5) The provisions of HEWA 2023 apply in relation to any consent deemed to be granted by virtue of a direction of the Welsh Ministers under this section as if the consent had been granted by the Welsh Ministers on an application referred under section 94 of that Act.
+>
+> (6) But that does not bring the decision to make the direction within section 182(2)(b) of that Act (decisions of Welsh Ministers that may only be challenged by way of statutory review).
+>
+> (7) In this section—
+>
+> - “conservation area” has the same meaning as in HEWA 2023 (see section 210 of that Act);
+> - “conservation area consent” means consent under section 162 of HEWA 2023 (conservation area consent in Wales);
+> - “controlled conservation area works in Wales” means works to which section 161 of HEWA 2023 (demolition of building in conservation area in Wales) applies;
+> - “controlled listed building works in Wales” means works to which section 88 of HEWA 2023 (demolition or alteration in character of a listed building in Wales) applies;
+> - “HEWA 2023” means the Historic Environment (Wales) Act 2023;
+> - “listed building consent” means consent under section 89 of HEWA 2023 (listed building consent in Wales).
+
+(2) In section 22 of that Act (validity of orders)—
+
+(a) in the heading, for “under section 1 or 3” substitute “and directions”;
+
+(b) after subsection (3) insert—
+
+> (4) This section applies to a direction under—
+>
+> (a) section 90(2A) of the Town and Country Planning Act 1990 (deemed planning permission),
+>
+> (b) section 17 or 17A of this Act (deemed listed building or conservation area consent), or
+>
+> (c) section 12(2A) of the Planning (Hazardous Substances) Act 1990 (deemed hazardous substances consent),
+>
+> as it applies to an order under section 1 or 3.
+
+(3) In section 12 of the Planning (Listed Buildings and Conservation Areas) Act 1990 (reference of applications for listed building consent to Secretary of State), omit subsection (3A).
+
+(4) In section 94(4) of the Historic Environment (Wales) Act 2023 (reference to Welsh Ministers of application for listed building consent associated with Transport and Works Act application), after “application” in the second place it occurs insert “to the Secretary of State”.
+
+##### 44 Deemed consent under marine licence
+
+(1) In the Transport and Works Act 1992, after section 19 insert—
+
+> **19A Deemed consent under marine licences**
+>
+> (1) An order of the Secretary of State under section 1 or 3 may include provision deeming a marine licence to have been granted by the Secretary of State for activities specified in the order (being activities for which the Secretary of State is the appropriate licensing authority).
+>
+> (2) Activity specified under subsection (1) must be carried out wholly in one or more of these areas—
+>
+> (a) England;
+>
+> (b) waters adjacent to England up to the seaward limits of the territorial sea;
+>
+> (c) an exclusive economic zone, except any part of an exclusive economic zone in relation to which the Scottish Ministers have functions;
+>
+> (d) a Renewable Energy Zone, except any part of a Renewable Energy Zone in relation to which the Scottish Ministers have functions;
+>
+> (e) an area designated under section 1(7) of the Continental Shelf Act 1964, except any part of that area which is within a part of an exclusive economic zone or Renewable Energy Zone in relation to which the Scottish Ministers have functions.
+>
+> (3) An order of the Welsh Ministers under section 1 or 3 may include provision deeming a marine licence to have been granted by the Welsh Ministers for activities specified in the order (being activities for which the Welsh Ministers are the appropriate licensing authority).
+>
+> (4) An order including provision under subsection (1) or (3) may also include provision—
+>
+> (a) deeming the licence to have been granted subject to such conditions as may be specified in the order;
+>
+> (b) deeming any such conditions to have been attached to the marine licence by the Secretary of State or (as the case may be) the Welsh Ministers under Part 4 of the MCAA 2009.
+>
+> (5) If an order includes provision of the sort mentioned in paragraphs (a) and (b) of subsection (4), sections 68 (notice of applications) and 69(3) and (5) (representations) of the MCAA 2009 do not apply in relation to the deemed marine licence.
+>
+> (6) In this section—
+>
+> - “the appropriate licensing authority” has the meaning given by section 113 of the MCAA 2009;
+> - “exclusive economic zone” has the meaning given by section 322(1) of the MCAA 2009;
+> - “marine licence” means a marine licence under Part 4 of the MCAA 2009;
+> - “the MCAA 2009” means the Marine and Coastal Access Act 2009;
+> - “Renewable Energy Zone” has the meaning given by section 84(4) of the Energy Act 2004.
+>
+> (7) For the purposes of this section, waters are to be treated as adjacent, or as not adjacent, to England if they would be so treated for the purposes of section 113 of the MCAA 2009 as a result of sections 322(4) to (9) of that Act.
+
+(2) The amendments made by this section do not apply in relation to an order applied for under section 6 of the Transport and Works Act 1992 if rule 5(1) of the Transport and Works (Applications and Objections Procedure) (England and Wales) Rules 2006 (S.I. 2006/1466) has been complied with in respect of the application before this section comes into force.
+
+##### 45 Authorisation of applications by local authorities
+
+(1) In section 20 of the Transport and Works Act 1992 (power to apply for or object to orders)—
+
+(a) in subsection (2), omit “by subsection (3) or (4)”;
+
+(b) after subsection (4) insert—
+
+> (5) In the case of a local authority to which section 239 of the Local Government Act 1972 applies, a resolution to make an application passed, by virtue of this section, in accordance with subsection (2)(a) of that section does not need to be confirmed in accordance with subsection (2)(b) of that section.
+
+(2) The amendments made by this section do not apply in relation to an application or objection that is the subject of a resolution under section 239(2)(a) of the Local Government Act 1972 passed before this section comes into force.
+
+##### 46 Extension to Scotland of certain amendments
+
+The amendments made to the Transport and Works Act 1992 by the following provisions are extended to Scotland—
+
+(a) Schedule 3 to the Environmental Impact Assessment (Miscellaneous Amendments Relating to Harbours, Highways and Transport) Regulations 2017 (S.I. 2017/1070);
+
+(b) regulation 4(3) and (4) of the Merchant Shipping and Other Transport (Environmental Protection) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/311).
+
+##### 47 Power to make consequential amendments
+
+(1) The Secretary of State may by regulations made by statutory instrument make provision that is consequential on sections 36 to 46.
+
+(2) Regulations under this section may amend—
+
+(a) an Act, or
+
+(b) an Act or Measure of Senedd Cymru,
+
+passed before the end of the session of Parliament in which this Act is passed.
+
+(3) Regulations under this section may include incidental, supplemental, transitional and saving provision.
+
+(4) A statutory instrument containing (whether alone or with other provision) regulations made in reliance on subsection (2) may not be made unless a draft of the statutory instrument containing them has been laid before, and approved by a resolution of, each House of Parliament.
+
+(5) Any other statutory instrument containing regulations under this section is subject to annulment in pursuance of a resolution of either House of Parliament.
+
+#### Harbours
+
+##### 48 Fees for applications for harbour orders
+
+(1) Schedule 3 to the Harbours Act 1964 (procedure for making harbour revision orders and harbour empowerment orders) is amended as set out in subsections (2) to (4).
+
+(2) In paragraph 7(1) (things to accompany applications)—
+
+(a) after paragraph (a) insert “and”;
+
+(b) omit paragraph (c) and the preceding “and”.
+
+(3) In paragraph 9 (duty not to consider application unless certain requirements met), omit sub-paragraph (a).
+
+(4) After paragraph 9 insert—
+
+> **9A Fees**
+>
+> (1) The Secretary of State may, by regulations, provide for fees to be payable by applicants for harbour revision orders.
+>
+> (2) Such regulations may—
+>
+> (a) provide for the amount of a fee to be determined by a method laid down in the regulations;
+>
+> (b) empower or require the Secretary of State not to take steps in relation to an application if a fee is not paid on time;
+>
+> (c) provide for the payment of a deposit on account of a fee that will or may become payable (in which case paragraphs (a) and (b) apply to the deposit as they apply to the fee);
+>
+> (d) make incidental or supplemental provision;
+>
+> (e) make different provision for different purposes.
+
+(5) In section 54 of the Harbours Act 1964 (orders and regulations), after subsection (6) insert—
+
+> (7) As to the power to make regulations under paragraph 9A of Schedule 3 (fees for applications)—
+>
+> (a) where the power is exercised by the Secretary of State—
+>
+> (i) the regulations are to be made by statutory instrument, and
+>
+> (ii) a statutory instrument containing such regulations is subject to annulment in pursuance of a resolution of either House of Parliament;
+>
+> (b) where the power is exercised by the Welsh Ministers (see section 17(2C))—
+>
+> (i) the regulations are to be made by statutory instrument, and
+>
+> (ii) a statutory instrument containing such regulations is subject to annulment in pursuance of a resolution of Senedd Cymru;
+>
+> (c) where the power is exercised by the Scottish Ministers (see section 17(2C)), the regulations are subject to the negative procedure (see section 28 of the Interpretation and Legislative Reform (Scotland) Act 2010).
+
+#### Electric vehicle charge points etc
+
+##### 49 Installation of electric vehicle charge points
+
+(1) Section 48 of the New Roads and Street Works Act 1991 (streets, street works and undertakers) is amended as set out in subsections (2) to (5).
+
+(2) After subsection (3), insert—
+
+> (3ZA) In this Part “street works” also includes works of any of the following kinds executed in a street in England in pursuance of a street works permit—
+>
+> (a) placing apparatus that is a public charge point, or
+>
+> (b) inspecting, maintaining, adjusting, repairing, altering, renewing, changing the position of or removing apparatus that is a public charge point,
+>
+> or works required for or incidental to any such works (including, in particular, breaking up or opening the street, or any sewer, drain or tunnel under it, or tunnelling or boring under the street).
+
+(3) In subsection (3A), in the words before paragraph (a), after “(3)” insert “or (3ZA)”.
+
+(4) In subsection (4)—
+
+(a) for “in relation to street works” substitute
+
+> —
+>
+> (a) in relation to street works mentioned in subsection (3),
+
+;
+
+(b) at the end insert—
+
+> (b) in relation to street works described in subsection (3ZA), means the person who in accordance with the street works permit is permitted to carry out the works.
+
+(5) In subsection (5)—
+
+(a) from “are to” to “licence” substitute
+
+> (including public charge points) are to the person entitled, by virtue of—
+>
+> (a) a statutory right,
+>
+> (b) a street works licence, or
+>
+> (c) where the apparatus is a public charge point installed in England in pursuance of a street works permit, the permit,
+
+;
+
+(b) after (3) insert “or (3ZA)”.
+
+(6) In section 51 of that Act (prohibition of unauthorised street works), in subsection (3) for “works for” to the end substitute
+
+> —
+>
+> (a) works for road purposes,
+>
+> (b) emergency works of any description, or
+>
+> (c) street works as described in section 48(3ZA) (works relating to public charge points executed in a street in England in pursuance of a street works permit).
+
+(7) In section 105(1) of that Act (minor definitions)—
+
+(a) at the appropriate places insert—
+
+> - “public charge point” means a charge point within the meaning of Part 2 of the Automated and Electric Vehicles Act 2018 that is provided for use by members of the general public;
+
+;
+
+> - “street works permit” means a permit granted pursuant to a permit scheme prepared under Part 3 of the Traffic Management Act 2004;
+
+;
+
+(b) in the definition of “statutory right”, for the words from “a right exercisable” to the end substitute—
+
+> (a) a right exercisable by virtue of a street works licence, or
+>
+> (b) a right, exercisable by virtue of a street works permit, to carry out street works described in section 48(3ZA).
+
+(8) In section 106 of that Act (index of defined expressions)—
+
+(a) at the appropriate places insert—
+
+> |  |  |
+> |---|---|
+> | public charge point | section 105(1) |
+
+;
+
+> |  |  |
+> |---|---|
+> | street works permit | section 105(1) |
+
+.
+
+(b) in the entry for “street works”, after “48(3)” insert “and (3ZA)”.
+
+(9) In section 115E of the Highways Act 1980 (execution of works and use of objects etc. by persons other than councils)—
+
+(a) in subsection (1), for “(5)” substitute “(6)”;
+
+(b) after subsection (5) insert—
+
+> (6) A council may not under this section grant a person permission to do anything relating to a public charge point in England which is capable of being authorised by a street works permit or a street works licence.
+>
+> (7) In this section—
+>
+> - “public charge point” means a charge point within the meaning of Part 2 of the Automated and Electric Vehicles Act 2018 that is provided for use by members of the general public;
+> - “street works permit” means a permit granted pursuant to a permit scheme prepared under Part 3 of the Traffic Management Act 2004.
+
+##### 50 Accessibility of public charging or refuelling points (prospective)
+
+In section 10 of the Automated and Electric Vehicles Act 2018 (public charging or refuelling points: access, standards and connection) at the end insert—
+
+> (5) Regulations may impose requirements in connection with the accessibility of public charging or refuelling points in England, Wales and Scotland, such as requirements relating to—
+>
+> (a) the design of the point,
+>
+> (b) the location, placement or surroundings of the point, and
+>
+> (c) the provision of assistance in using the point.
+>
+> (6) Regulations under subsection (5) may prescribe requirements by reference to technical standards or specifications published by a person specified in the regulations (including standards or specifications as amended from time to time).
+>
+> (7) Regulations under subsection (5) may impose requirements on any person, including—
+>
+> (a) persons making, supplying, importing, operating or installing public charging or refuelling points;
+>
+> (b) the owners or occupiers of land on which public charging or refuelling points are situated.
+>
+> (8) Regulations under subsection (5) may not impose requirements on owners or occupiers of domestic premises.
+
+## Part 2 — Planning
+
+### Chapter 1 — Planning decisions
+
+#### 51 Fees for planning applications etc
+
+(1) Section 303 of the Town and Country Planning Act 1990 (fees for planning applications etc) is amended as set out in subsections (2) to (5).
+
+(2) After subsection (5) insert—
+
+> (5A) Regulations made by the Secretary of State under subsection (1) or (2) may authorise or require a local planning authority in England to set the level of a fee or charge.
+>
+> (5B) Regulations under subsection (1ZA) may authorise or require the Mayor of London or a specified person to set the level of a fee or charge.
+>
+> (5C) Provision made in reliance on subsection (5A) or (5B) must include provision about—
+>
+> (a) consultation to be carried out in relation to the setting of the level of a fee or charge;
+>
+> (b) the criteria to be applied when setting the level of a fee or charge;
+>
+> (c) publication of information or reports;
+>
+> (d) obligations to notify the Secretary of State;
+>
+> (e) reviews of the level of a fee or charge.
+
+(3) After subsection (8A) insert—
+
+> (8B) Where—
+>
+> (a) a local planning authority in England, the Mayor of London or a specified person calculates the amount of a fee or charge in pursuance of regulations under subsection (1) or (1ZA), or
+>
+> (b) a local planning authority in England, the Mayor of London or a specified person sets the level of a fee or charge in pursuance of regulations under subsection (1), (1ZA) or (2),
+>
+> the fee or charge must be calculated or set with a view to ensuring that, so far as possible, it does not exceed the cost of carrying out the function in respect of which it is imposed.
+>
+> (8C) A local planning authority in England, the Mayor of London or a specified person must secure that their income from fees or charges paid in pursuance of regulations made under subsection (1), (1ZA) or (2) is applied towards the carrying out of functions that the authority, Mayor or person has that fall within subsection (8D).
+>
+> (8D) The functions that fall within this subsection are—
+>
+> (a) functions under—
+>
+> (i) Part 3,
+>
+> (ii) in Part 7, section 191 or 192, or
+>
+> (iii) Part 8;
+>
+> (b) in the case of the Mayor of London, functions under section 2A and related functions under sections 2B to 2F;
+>
+> (c) functions under Part 1 of the Planning (Listed Buildings and Conservation Areas) Act 1990;
+>
+> (d) functions under section 17 of the Land Compensation Act 1961;
+>
+> (e) functions specified for the purposes of this paragraph in regulations made by the Secretary of State,
+>
+> other than functions in connection with applications made in legal proceedings.
+
+(4) In subsection (10), after “planning authority” insert “in Wales”.
+
+(5) Omit subsection (10A).
+
+(6) After section 303 of the Town and Country Planning Act 1990 insert—
+
+> **303ZZA Directions in relation to fees set by English local planning authorities etc**
+>
+> (1) This section applies where—
+>
+> (a) by virtue of section 303(5A) or (5B), a local planning authority in England, the Mayor of London or a specified person (a “charging authority”) has set or is proposing to set its own fee or charge in respect of a matter, and
+>
+> (b) the Secretary of State considers that the fee or charge is set or proposed to be set at a level that is not appropriate.
+>
+> (2) The Secretary of State may direct the charging authority to review the level of the fee or charge.
+>
+> (3) A charging authority to which a direction is given under subsection (2) must—
+>
+> (a) review the fee or charge, and
+>
+> (b) notify the Secretary of State of its decision as a result of the review, giving reasons.
+>
+> (4) Subsection (5) applies where—
+>
+> (a) a charging authority fails to comply with subsection (3), or
+>
+> (b) a charging authority complies with that subsection but the Secretary of State considers that the fee or charge remains set at a level that is not appropriate.
+>
+> (5) The Secretary of State may direct that the fee or charge is to be of such amount as may be specified in, or determined in accordance with, the direction.
+>
+> (6) The Secretary of State may by regulations make provision—
+>
+> (a) about the time by which any requirement imposed by or under this section must be complied with;
+>
+> (b) about the fee or charge that is to apply while a charging authority reviews a fee or charge following a direction under subsection (2);
+>
+> (c) about repayment of the whole or part of any fee or charge where the level of the fee or charge is reduced as a result of a direction under subsection (2) or (5).
+>
+> (7) In this section “specified person” has the same meaning as in section 303.
+
+#### 52 Surcharge on planning fees
+
+In the Town and Country Planning Act 1990, after section 303ZZA (inserted by section 51) insert—
+
+> **303ZZB Surcharge on planning fees**
+>
+> (1) The Secretary of State may by regulations make provision for a surcharge to be imposed on a fee or charge paid—
+>
+> (a) to a local planning authority in England under section 303(1) or (2),
+>
+> (b) to the Mayor of London or a specified person under section 303(1ZA), or
+>
+> (c) to the Secretary of State under section 303(1A), (2), (3) or (4A).
+>
+> (2) Where regulations under subsection (1) provide for a surcharge to be imposed on a fee or charge paid to a person other than the Secretary of State, that person must pay to the Secretary of State the amount they receive from any surcharges—
+>
+> (a) subject to such deductions, and
+>
+> (b) at the times and in the manner,
+>
+> as set out in regulations under subsection (1).
+>
+> (3) Regulations under subsection (1) may—
+>
+> (a) specify the level of the surcharge as a percentage of the level of a fee or charge;
+>
+> (b) make different provision for different purposes, including setting different levels of surcharge for different fees, charges, cases or circumstances.
+>
+> (4) Regulations under subsection (1) may provide that where the level of the fee or charge has been set by—
+>
+> (a) a local planning authority under section 303(5A), or
+>
+> (b) the Mayor of London or a specified person under section 303(5B),
+>
+> the surcharge may be set as a percentage of the fee or charge that would be payable had the level of the fee or charge not been so set.
+>
+> (5) The Secretary of State must list in regulations the persons whose relevant costs the surcharge is intended to cover (“listed persons”).
+>
+> (6) In setting the level of the surcharge, the Secretary of State must have regard to the relevant costs of the listed persons, and must secure that, taking one financial year with another, the income from the surcharge does not exceed the relevant costs of the listed persons.
+>
+> (7) In subsections (5) and (6), “relevant costs” means the costs of providing advice, information or assistance (including the provision of a response to a consultation) in connection with—
+>
+> (a) applications,
+>
+> (b) proposed applications, or
+>
+> (c) proposals for a permission, approval or consent,
+>
+> that are made under or for the purposes of the planning Acts and that relate to land in England.
+>
+> (8) Regulations under subsection (1) may set the surcharge at a level that exceeds the costs of listed persons of providing advice, information or assistance in connection with the application, proposed application or proposal in respect of which the surcharge is imposed.
+>
+> (9) Paragraphs (a) to (f) of section 303(5) apply to regulations under this section as they apply to regulations under subsection (1), save that references to a fee or charge are to be read as references to the surcharge.
+>
+> (10) A statutory instrument containing regulations under this section may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, each House of Parliament.
+
+#### 53 Training for local planning authorities in England
+
+In the Town and Country Planning Act 1990, after section 319 insert—
+
+> **England: training in the exercise of certain planning functions**
+>
+> **319ZZA Training: local planning authorities in England**
+>
+> (1) The Secretary of State may by regulations make provision for and in connection with the training of members of local planning authorities in their exercise of such relevant planning functions as are prescribed.
+>
+> (2) Such regulations must provide for satisfactory completion of the training to be evidenced by a certificate valid for a prescribed period (a “certificate of completion”).
+>
+> (3) A member of a local planning authority who does not hold a valid certificate of completion is prohibited from—
+>
+> (a) exercising the prescribed relevant planning functions on behalf of a local planning authority, or
+>
+> (b) being involved in exercising the prescribed relevant planning functions on behalf of a local planning authority as a member of a committee or any other body.
+>
+> (4) Regulations under subsection (1) may, in particular—
+>
+> (a) provide for accreditation by the Secretary of State of—
+>
+> (i) courses of training, and
+>
+> (ii) persons providing such courses;
+>
+> (b) impose requirements as to record-keeping, including by imposing such requirements on a training provider.
+>
+> (5) Regulations under subsection (1) must require a local planning authority to publish on their website which of their members hold valid certificates of completion.
+>
+> (6) The validity of anything done in the exercise of a prescribed relevant planning function is not affected by any breach of subsection (3).
+>
+> (7) In this section—
+>
+> (a) references to a local planning authority are to a local planning authority in England;
+>
+> (b) references to a member of a local planning authority include a person who (though not a member of a local planning authority) is an appointed member of a committee or sub-committee of a local planning authority.
+>
+> (8) This section applies in relation to a relevant planning function conferred on a mineral planning authority as if references to a local planning authority were to a mineral planning authority in England.
+>
+> (9) In this section, “relevant planning function” means—
+>
+> (a) a function under—
+>
+> (i) Part 3;
+>
+> (ii) in Part 7, sections 191(4) and 192(2);
+>
+> (iii) Part 8;
+>
+> (iv) in Part 10, section 257;
+>
+> (b) a function under section 17 of the Land Compensation Act 1961;
+>
+> (c) a function under Part 1 of the Planning (Listed Buildings and Conservation Areas) Act 1990;
+>
+> (d) a function of imposing or amending any condition, limitation or other restriction on a permission, approval or consent required by or under an enactment specified in paragraph (a) or (c);
+>
+> (e) an enforcement function exercisable in relation to—
+>
+> (i) development carried out without a permission, approval or consent required by or under an enactment specified in paragraph (a) or (c), or
+>
+> (ii) a failure to comply with any condition, limitation or other restriction of any such permission, approval or consent.
+>
+> (10) In subsection (9) any reference to a function under an enactment includes a function under an instrument made under the enactment.
+>
+> **319ZZB Training: certain mayoral planning functions**
+>
+> (1) The Secretary of State may by regulations make provision for and in connection with the training of persons who may exercise relevant mayoral planning functions in their exercise of such relevant mayoral planning functions as are prescribed.
+>
+> (2) Such regulations must provide for satisfactory completion of the training to be evidenced by a certificate valid for a prescribed period (a “certificate of completion”).
+>
+> (3) A mayor is prohibited from exercising the prescribed relevant mayoral planning functions without a valid certificate of completion.
+>
+> (4) A person who is authorised (by or under any enactment or by arrangements made by a mayor) to exercise a prescribed relevant mayoral planning function on behalf of a mayor is prohibited from exercising such a function, or being involved in the exercise of such a function as a member of a committee or any other body, without a valid certificate of completion.
+>
+> (5) Regulations under subsection (1) may, in particular—
+>
+> (a) provide for accreditation by the Secretary of State of—
+>
+> (i) courses of training, and
+>
+> (ii) persons providing such courses;
+>
+> (b) impose requirements as to record-keeping, including by imposing such requirements on a training provider.
+>
+> (6) The validity of anything done in the exercise of a prescribed relevant mayoral planning function is not affected by any breach of subsection (3) or (4).
+>
+> (7) In subsections (3) and (4), references to a mayor are to—
+>
+> (a) the Mayor of London,
+>
+> (b) a mayor for the area of a combined authority, and
+>
+> (c) a mayor for the area of a combined county authority.
+>
+> (8) In this section “relevant mayoral planning function” means—
+>
+> (a) any of the functions of the Mayor of London specified in subsection (9), and
+>
+> (b) any functions of a mayor for the area of a combined authority or a mayor for the area of a combined county authority which correspond to the functions of the Mayor of London specified in subsection (9).
+>
+> (9) The functions of the Mayor of London referred to in subsection (8) are as follows—
+>
+> (a) the function of—
+>
+> (i) giving a direction under section 2A(1) or (1B);
+>
+> (ii) giving a direction under section 74(1B)(a);
+>
+> (b) the function of determining an application by virtue of section 2A or 2B, and related functions under sections 2C and 2F;
+>
+> (c) a function under section 2E;
+>
+> (d) the function of making a Mayoral development order under section 61DA;
+>
+> (e) a function exercisable in connection with a Mayoral development order.
+>
+> (10) In this section—
+>
+> - “combined authority” means a combined authority established under section 103(1) of the Local Democracy, Economic Development and Construction Act 2009;
+> - “combined county authority” means a combined county authority established under section 9(1) of the Levelling-up and Regeneration Act 2023.
+
+#### 54 Delegation of planning decisions in England
+
+(1) In the Town and Country Planning Act 1990, after section 319ZZB (inserted by section 53) insert—
+
+> **England: discharge of functions of local planning authority**
+>
+> **319ZZC Requirement for functions to be discharged by committee, sub-committee or officer**
+>
+> (1) The Secretary of State may by regulations require a relevant local planning authority to make arrangements under section 101 of the 1972 Act for such relevant planning functions as are prescribed—
+>
+> (a) to be discharged by a committee, sub-committee or officer of the authority;
+>
+> (b) to be discharged by a committee, sub-committee or officer of the authority in prescribed circumstances.
+>
+> (2) The regulations may —
+>
+> (a) prescribe the terms of the arrangements (which may include exceptions) and any permitted variations in those terms;
+>
+> (b) provide for the arrangements to confer a discretion on any person in connection with the delegation of a function.
+>
+> (3) Where arrangements required by the regulations are in force in relation to a relevant planning function, the function may only be exercised in accordance with the arrangements (and section 101(4) of the 1972 Act does not apply).
+>
+> **319ZZD Size and composition of committee discharging functions**
+>
+> (1) The Secretary of State may by regulations prescribe requirements relating to the size and composition of a committee or sub-committee by which such relevant planning functions as are prescribed are to be discharged.
+>
+> (2) A relevant local planning authority may not arrange for a relevant planning function to be discharged by a committee or sub-committee of the authority which fails to satisfy a requirement imposed by regulations under this section in relation to the discharge of that function.
+>
+> (3) If a committee or sub-committee discharging a relevant planning function fails to satisfy such a requirement, paragraph 43 of Schedule 12 to the 1972 Act (validity of proceedings) does not apply in relation to the failure.
+>
+> **319ZZE Sections 319ZZC and 319ZZD: supplementary**
+>
+> (1) Sections 101 and 102 of the 1972 Act have effect subject to sections 319ZZC and 319ZZD and any regulations made under them.
+>
+> (2) Where arrangements are in force under section 101(5) of the 1972 Act for two or more relevant local planning authorities to discharge any of their relevant planning functions jointly, sections 319ZZC and 319ZZD apply in relation to those functions as if—
+>
+> (a) references to a committee or sub-committee of a relevant local planning authority were references to a joint committee or sub-committee of those authorities;
+>
+> (b) references to an officer of a relevant local planning authority were references to an officer of any of those authorities.
+>
+> (3) Regulations under sections 319ZZC and 319ZZD may—
+>
+> (a) make different provision for different relevant local planning authorities;
+>
+> (b) make different provision for cases where two or more such authorities have made arrangements under section 101(1)(b) or (5) of the 1972 Act for the discharge of any of their relevant planning functions.
+>
+> (4) In operating arrangements required by regulations under section 319ZZC, relevant local planning authorities must have regard to any relevant guidance issued by the Secretary of State.
+>
+> (5) In making arrangements for the discharge of a function prescribed in regulations under section 319ZZD, relevant local planning authorities must have regard to any relevant guidance issued by the Secretary of State.
+>
+> (6) The Secretary of State must consult such persons as the Secretary of State considers appropriate before—
+>
+> (a) making regulations under section 319ZZC or 319ZZD, or
+>
+> (b) issuing guidance under subsection (4) or (5).
+>
+> (7) Sections 319ZZC and 319ZZD and this section apply in relation to a relevant planning function conferred on a relevant mineral planning authority as if references to a relevant local planning authority were to a relevant mineral planning authority.
+>
+> **319ZZF Interpretation of sections 319ZZC to 319ZZE**
+>
+> (1) In sections 319ZZC to section 319ZZE, “relevant local planning authority” means a local planning authority in England which is an authority to which sections 101 and 102 of the 1972 Act apply, except that it does not include—
+>
+> (a) a National Park authority, or
+>
+> (b) the Broads Authority.
+>
+> (2) In section 319ZZE, “relevant mineral planning authority” means a mineral planning authority in England which is an authority to which sections 101 and 102 of the 1972 Act apply, except that it does not include a National Park authority.
+>
+> (3) In sections 319ZZC to 319ZZE, “relevant planning function” has the same meaning as in section 319ZZA (see subsections (9) and (10) of that section).
+>
+> (4) In sections 319ZZC to 319ZZE and this section, “the 1972 Act” means the Local Government Act 1972.
+
+(2) In section 316 of the Town and Country Planning Act 1990 (land of interested planning authorities and development by them), in subsection (3), in the words after paragraph (b), after “under” insert “sections 319ZZC to 319ZZE or”.
+
+(3) In section 333 of the Town and Country Planning Act 1990 (regulations and orders), after subsection (3ZAA), insert—
+
+> (3ZAB) The first regulations under section 319ZZC or 319ZZD may not be made unless a draft of the instrument containing the regulations has been laid before, and approved by a resolution of, each House of Parliament.
+
+#### 55 Directions giving deemed planning permission: special regard to heritage assets
+
+(1) In section 90 of the Town and Country Planning Act 1990 (directions deeming planning permission to be granted for certain development with government authorisation), after subsection (2A) insert—
+
+> (2B) Section 66(1) of the Planning (Listed Buildings and Conservation Areas) Act 1990 (special regard to listed buildings) applies to a government department or the Secretary of State in considering whether to make a direction under this section as it applies to the Secretary of State in considering whether to grant planning permission.
+
+(2) In section 90(2B) of that Act (inserted by subsection (1))—
+
+(a) for “applies”, in the first place it appears, substitute “and section 58B of this Act (special regard to other heritage assets) apply”;
+
+(b) for “it applies” substitute “they apply”.
+
+#### 56 Planning permission etc: extension of time in event of legal challenge
+
+(1) The Town and Country Planning Act 1990 is amended as set out in subsections (2) and (3).
+
+(2) In section 91 (general condition limiting duration of planning permission), for subsections (3A) and (3B) substitute—
+
+> (3A) In subsections (3B) to (3BB)—
+>
+> - “implementation period” means the period before the end of which a development to which a planning permission relates must be begun (see subsections (1) and (3));
+> - “relevant proceedings” means proceedings to challenge the validity, in respect of the development of land in England, of a grant of planning permission or of a deemed grant of planning permission.
+>
+> (3B) If a person is given permission by a court to bring relevant proceedings, the implementation period is extended by one year.
+>
+> (3BA) If a party to relevant proceedings is given permission to appeal to the Court of Appeal against a decision determining the challenge, the implementation period is extended by one year.
+>
+> (3BB) If a party to relevant proceedings is given permission to appeal to the Supreme Court against a decision determining the challenge, the implementation period is extended by two years.
+>
+> (3BC) Any extension of a period under subsection (3B), (3BA) or (3BB) is to run concurrently with any other extension of the period under the same subsection (so far as they overlap).
+>
+> (3BD) Any extension of a period under subsection (3BA) is to run consecutively to the previous extension of the period under subsection (3B) (if they would otherwise overlap).
+>
+> (3BE) Any extension of a period under subsection (3BB) is to run consecutively to the previous extension of the period under subsection (3B) and any previous extension of the period under subsection (3BA) (if they would otherwise overlap).
+>
+> (3BF) The references in subsections (3BA) and (3BB) to determining a challenge are to determining it after a full hearing (and accordingly do not include a refusal of permission or leave).
+
+(3) After section 92 insert—
+
+> **92A Extension of outline planning permission etc in event of legal challenge**
+>
+> (1) This section applies where a person is given permission by a court to bring proceedings challenging the validity, in respect of the development of land in England, of—
+>
+> (a) a grant (or deemed grant) of outline planning permission, or
+>
+> (b) the approval of reserved matters under such a permission.
+>
+> (2) Any reserved matters application period or implementation period that is running when the court gives permission to bring the proceedings is extended by one year.
+>
+> (3) If a party to the proceedings is given permission to appeal to the Court of Appeal against a decision determining the challenge, any reserved matters application period or implementation period that is running at that time is extended by one year.
+>
+> (4) If a party to the proceedings is given permission to appeal to the Supreme Court against a decision determining the challenge, any reserved matters application period or implementation period that is running at that time is extended by two years.
+>
+> (5) Any extension of a period under subsection (2), (3) or (4) is to run concurrently with any other extension of the period under the same subsection (so far as they overlap).
+>
+> (6) Any extension of a period under subsection (3) is to run consecutively to the previous extension of the period under subsection (2) (if they would otherwise overlap).
+>
+> (7) Any extension of a period under subsection (4) is to run consecutively to the previous extension of the period under subsection (2) and any previous extension of the period under subsection (3) (if they would otherwise overlap).
+>
+> (8) For the purposes of subsections (2) to (4), an implementation period that is determined by reference to an approval of a reserved matter starts to run when the reserved matters application is made (and the reserved matters application period ceases to run at that point).
+>
+> (9) Subsection (10) applies if a reserved matters application is made without taking advantage of an extension under this section.
+>
+> (10) Any implementation period determined by reference to the approval sought by the reserved matters application is extended by the number of days by which the reserved matters application period is extended under this section.
+>
+> (11) Subsection (12) applies if a reserved matters application period is extended (or further extended) under this section and the reserved matters application is made taking advantage of the extension but before the end of the period as extended.
+>
+> (12) Any implementation period determined by reference to the approval sought by the reserved matters application is extended by the number of whole days remaining in the reserved matters application period (as extended) when the reserved matters application is made.
+>
+> (13) In this section—
+>
+> - “implementation period”, in relation to a grant of outline planning permission, means the period before the end of which development to which the permission relates must be begun (see section 92(2)(b), (4) and (5));
+> - “outline planning permission” has the same meaning as in section 92;
+> - “reserved matters application” means an application for the approval of a reserved matter in pursuance of section 92;
+> - “reserved matters application period”, in relation to a grant of outline planning permission, means the period before the end of which a reserved matters application relating to the permission is required to be made (see section 92(2)(a), (4) and (5)).
+>
+> (14) In this section, references to determining a challenge are to determining it after a full hearing (and accordingly do not include a refusal of permission or leave).
+
+(4) In the Planning (Listed Buildings and Conservation Areas) Act 1990, in section 18 (limit of duration of listed buildings consent), for subsections (2A) and (2B) substitute—
+
+> (2A) In subsections (2A) to (2BB)—
+>
+> - “implementation period” means the period before the end of which works to which a listed building consent relates are required to be begun in pursuance of subsection (1) or (2);
+> - “relevant proceedings” means proceedings to challenge the validity of a grant of listed building consent or of a deemed grant of listed building consent.
+>
+> (2B) If a person is given permission by a court to bring relevant proceedings, the implementation period is extended by one year.
+>
+> (2BA) If a party to relevant proceedings is given permission to appeal to the Court of Appeal against a decision determining the challenge, the implementation period is extended by one year.
+>
+> (2BB) If a party to relevant proceedings is given permission to appeal to the Supreme Court against a decision determining the challenge, the implementation period is extended by two years.
+>
+> (2BC) Any extension of a period under subsection (2B), (2BA) or (2BB) is to run concurrently with any other extension of the period under the same subsection (so far as they overlap).
+>
+> (2BD) Any extension of a period under subsection (2BA) is to run consecutively to the previous extension of the period under subsection (2B) (if they would otherwise overlap).
+>
+> (2BE) Any extension of a period under subsection (2BB) is to run consecutively to the previous extension of the period under subsection (2B) and any previous extension of the period under subsection (2BA) (if they would otherwise overlap).
+>
+> (2BF) The references in subsections (2BA) and (2BB) to determining a challenge are to determining it after a full hearing (and accordingly do not include a refusal of permission or leave).
+
+(5) The amendments made by subsections (2) and (4) do not operate to extend any implementation period that has already expired.
+
+(6) In relation to proceedings begun before the day on which subsection (2) comes into force (“the commencement date”)—
+
+(a) any extension of time under section 91(3B) of the Town and Country Planning Act 1990 that had already arisen before the commencement date as a result of those proceedings is unaffected;
+
+(b) subsections (3B) to (3BB) of section 91 of that Act (as inserted by subsection (2)) apply so far as any event in the proceedings giving rise to an extension of time under those subsections occurs on or after the commencement date, but not otherwise.
+
+(7) In relation to proceedings begun before the day on which subsection (3) comes into force, section 92A of the Town and Country Planning Act 1990 (inserted by subsection (3)) applies so far as any event in the proceedings giving rise to an extension of time under that section occurs on or after that day, but not otherwise.
+
+(8) In relation to proceedings begun before the day on which subsection (4) comes into force (“the commencement date”)—
+
+(a) any extension of time under section 18(2B) of the Planning (Listed Buildings and Conservation Areas) Act 1990 that had already arisen before the commencement date as a result of those proceedings is unaffected;
+
+(b) subsections (2B) to (2BB) of section 18 of that Act (as inserted by subsection (4)) apply so far as any event in the proceedings giving rise to an extension of time under those subsections occurs on or after the commencement date, but not otherwise.
+
+#### 57 Provision of advice by Natural England to public authorities
+
+(1) The Natural Environment and Rural Communities Act 2006 is amended as set out in subsections (2) and (3).
+
+(2) In section 4 (advice)—
+
+(a) after subsection (1) insert—
+
+> (1A) Natural England is not required by subsection (1) to give advice in response to a request to which subsection (1B) applies that is made by a public authority other than a Minister of the Crown.
+>
+> (1B) This subsection applies to a request for advice relating to—
+>
+> (a) a specific development that requires, but has not been granted, planning permission under section 57 of the Town and Country Planning Act 1990 (“the 1990 Act”),
+>
+> (b) an application for any consent, agreement or approval required by a condition imposed on a grant of planning permission required under that section,
+>
+> (c) permission in principle for a specific development under section 58A of the 1990 Act, and
+>
+> (d) the approval of a reserved matter within the meaning of section 92 of the 1990 Act.
+>
+> (1C) Natural England may give advice in response to a request to which it is not required to respond as a result of subsection (1A).
+
+;
+
+(b) in subsection (2), after “(1)” insert “or (1C)”.
+
+(3) After section 4 insert—
+
+> **4A Supplementary provision**
+>
+> (1) Natural England must prepare and publish a statement setting out how it intends to deal with requests for advice which it is not required to give as a result of section 4(1A).
+>
+> (2) Natural England must review the statement before the end of—
+>
+> (a) the period of five years beginning with the day on which it is first published, and
+>
+> (b) each successive period of five years.
+>
+> (3) Natural England may review the statement more than once during any of those periods.
+>
+> (4) Natural England may revise the statement following a review.
+>
+> (5) Natural England must publish any revised statement.
+>
+> (6) Before publishing a statement (including a revised statement) under this section, Natural England must—
+>
+> (a) consult the Secretary of State, and
+>
+> (b) make any changes to the statement that the Secretary of State may require in response.
+>
+> (7) But the duty in subsection (6) does not apply in relation to the publication of a revised statement which, in the opinion of Natural England, contains no substantial revisions.
+>
+> (8) The Secretary of State may require a change as mentioned in subsection (6)(b) only if the Secretary of State considers that the change would promote Natural England’s general purpose.
+
+(4) The duties imposed by section 4A(6) of the Natural Environment and Rural Communities Act 2006, as inserted by subsection (3), may be satisfied by consultation carried out, and changes made, before this section comes into force.
+
+### Chapter 2 — Spatial development strategies
+
+#### 58 Spatial development strategies
+
+(1) Before section 13 of the Planning and Compulsory Purchase Act 2004 insert—
+
+> **Part 1A — Strategic plan-making**
+>
+> **Strategic planning authorities and strategic planning boards**
+>
+> **12A Spatial development strategy to be produced by strategic planning authorities**
+>
+> (1) This Part requires strategic planning authorities to prepare a document, conforming to section 12D, known as a “spatial development strategy”.
+>
+> (2) In this Part “strategic planning authority” means—
+>
+> (a) a strategic planning board (see section 12B);
+>
+> (b) a combined authority;
+>
+> (c) a combined county authority;
+>
+> (d) an upper-tier county council for an area no part of which forms part of the area of a combined authority or a combined county authority;
+>
+> (e) a unitary authority for an area—
+>
+> (i) that is in England, and
+>
+> (ii) no part of which forms part of the area of a combined authority or a combined county authority.
+>
+> (3) But a principal authority that is a constituent authority of a strategic planning board is not a strategic planning authority for the purposes of this Part.
+>
+> (4) In this Part “strategy area”, in relation to a spatial development strategy, means—
+>
+> (a) in the case of a strategic planning board, the area consisting of the areas of the constituent authorities of the board;
+>
+> (b) in the case of a combined authority, the area of the combined authority;
+>
+> (c) in the case of a combined county authority, the area of the combined county authority;
+>
+> (d) in the case of an upper-tier county council, the area of the upper-tier county council;
+>
+> (e) in the case of a unitary authority, the area of the unitary authority.
+>
+> (5) Any function of a strategic planning authority exercisable by or under this Part by a principal authority is not a function to which either of the following provisions of the Local Government Act 1972 applies—
+>
+> (a) section 101(1)(b);
+>
+> (b) section 101(5).
+>
+> (6) For provision about the spatial development strategy for London, see (in particular) sections 334 to 343 of the Greater London Authority Act 1999.
+>
+> (7) In this Part “principal authority” means a body specified in any of paragraphs (b) to (e) of subsection (2).
+>
+> **12B Strategic planning boards**
+>
+> (1) This section applies where the Secretary of State considers that it is desirable for a spatial development strategy to relate to an area consisting of the areas of two or more principal authorities.
+>
+> (2) Subject to subsection (4), the Secretary of State may by regulations establish a joint committee of the authorities to exercise functions under this Part in relation to an area consisting of the areas of those authorities (the “constituent authorities”).
+>
+> (3) Such a committee is to be known as a “strategic planning board”.
+>
+> (4) The Secretary of State may make regulations under subsection (2) establishing a strategic planning board only after consulting the following on a draft of the proposed regulations—
+>
+> (a) the principal authorities that are to be the constituent authorities of the board,
+>
+> (b) any local planning authority for an area that is wholly or partly within, or adjoins, the area of any of those authorities, and
+>
+> (c) the person responsible for preparing a spatial development strategy for an area that adjoins the area of any of those authorities.
+>
+> (5) Where the Secretary of State is considering whether to, or has decided to, establish a strategic planning board, the Secretary of State may direct the principal authorities that are to be the constituent authorities of the board not to take any step, or any further step, or not to take a step specified in the direction, in connection with the preparation of their own spatial development strategies.
+>
+> **12C Regulations about strategic planning boards**
+>
+> (1) Strategic planning board regulations that establish a strategic planning board must specify—
+>
+> (a) the constituent authorities of the board, and
+>
+> (b) the area in relation to which the board exercises functions under this Part.
+>
+> (2) Strategic planning board regulations may make provision about—
+>
+> (a) the composition of a strategic planning board (including about the appointment of members to the board or any sub-committee of the board);
+>
+> (b) the proceedings of a strategic planning board and of any sub-committee of the board (including provision about voting rights);
+>
+> (c) such other matters as the Secretary of State considers are necessary or expedient to facilitate the exercise by a strategic planning board of its functions under this Part.
+>
+> (3) Provision of the kind mentioned in subsection (2)(c) may include provision—
+>
+> (a) corresponding to provisions relating to joint committees in Part 6 of the Local Government Act 1972;
+>
+> (b) applying (with or without modifications) such enactments relating to local authorities as the Secretary of State considers appropriate;
+>
+> (c) requiring the making by a constituent authority of payments towards the costs of the strategic planning board;
+>
+> (d) modifying the application of this Part in relation to a strategic planning board.
+>
+> (4) For the purposes of subsection (3)(b) a local authority is any of the following—
+>
+> (a) a county council;
+>
+> (b) a district council;
+>
+> (c) a London borough council.
+>
+> (5) If strategic planning board regulations establishing a strategic planning board are annulled in pursuance of a resolution of either House of Parliament, the strategic planning board is dissolved with effect from the date of the resolution.
+>
+> (6) The Secretary of State’s power to make strategic planning board regulations that amend or revoke other strategic planning board regulations—
+>
+> (a) is exercisable whether or not the constituent authorities of the strategic planning board in question request an amendment or revocation;
+>
+> (b) is exercisable only after the Secretary of State has consulted the following on a draft of the proposed regulations—
+>
+> (i) the strategic planning board in question,
+>
+> (ii) the constituent authorities of that board,
+>
+> (iii) any local planning authority for an area that is wholly or partly within, or adjoins, the area of any of those authorities, and
+>
+> (iv) the person responsible for preparing a spatial development strategy for an area that adjoins the area of any of those authorities.
+>
+> (7) The condition in section 12B(1) does not apply in relation to strategic planning board regulations that amend or revoke other strategic planning board regulations.
+>
+> (8) In this section “strategic planning board regulations” means regulations under section 12B(2).
+>
+> **Contents of spatial development strategy**
+>
+> **12D Contents of spatial development strategy**
+>
+> (1) A spatial development strategy must include a statement of the strategic planning authority’s policies (however expressed), in relation to the development and use of land in the strategy area, which are of strategic importance to that area.
+>
+> (2) A spatial development strategy must include a reasoned justification for the policies referred to in subsection (1).
+>
+> (3) A spatial development strategy must specify the period for which it is to have effect.
+>
+> (4) A spatial development strategy may specify or describe infrastructure the provision of which the strategic planning authority considers to be of strategic importance to the strategy area for the purposes of—
+>
+> (a) supporting or facilitating development in that area,
+>
+> (b) mitigating, or adapting to, climate change, or
+>
+> (c) promoting or improving the economic, social or environmental well-being of that area.
+>
+> (5) A spatial development strategy may specify or describe—
+>
+> (a) an amount or distribution of housing (of any kind), the provision of which the strategic planning authority considers to be of strategic importance to the strategy area;
+>
+> (b) an amount or distribution of affordable housing or any other kind of housing, the provision of which the strategic planning authority considers to be of strategic importance to the strategy area.
+>
+> (6) For the purposes of subsections (1), (4) and (5), a matter may be of strategic importance to a strategy area even if it affects only part of that area.
+>
+> (7) The Secretary of State may prescribe further matters a spatial development strategy may, or must, deal with.
+>
+> (8) A spatial development strategy must contain such diagrams, illustrations or other descriptive or explanatory matter relating to its contents as may be prescribed.
+>
+> (9) A spatial development strategy may make different provision for different cases or for different parts of the strategy area.
+>
+> (10) A spatial development strategy must be designed to secure that the use and development of land in the strategy area contribute to the mitigation of, and adaptation to, climate change.
+>
+> (11) A spatial development strategy must take account of any local nature recovery strategy, under section 104 of the Environment Act 2021, that relates to any part of the strategy area, including in particular—
+>
+> (a) the areas identified in the strategy as areas which—
+>
+> (i) are, or could become, of particular importance for biodiversity, or
+>
+> (ii) are areas where the recovery or enhancement of biodiversity could make a particular contribution to other environmental benefits,
+>
+> (b) the priorities set out in the strategy for recovering or enhancing biodiversity, and
+>
+> (c) the proposals set out in the strategy as to potential measures relating to those priorities.
+>
+> (12) A spatial development strategy must not—
+>
+> (a) include anything that is not permitted or required by or under the preceding provisions of this section,
+>
+> (b) specify particular sites where development should take place, or
+>
+> (c) be inconsistent with or (in substance) repeat any national development management policy.
+>
+> (13) The Secretary of State may prescribe—
+>
+> (a) the form of a spatial development strategy;
+>
+> (b) documents that must accompany a spatial development strategy.
+>
+> (14) In subsection (5) “affordable housing” means—
+>
+> (a) social housing within the meaning of Part 2 of the Housing and Regeneration Act 2008, and
+>
+> (b) any other description of housing that may be prescribed.
+>
+> **Spatial development strategy timetable**
+>
+> **12E Timetable for preparing spatial development strategy**
+>
+> (1) A strategic planning authority must prepare and maintain a document relating to its spatial development strategy, known as a “spatial development strategy timetable”.
+>
+> (2) A spatial development strategy timetable must specify—
+>
+> (a) the strategy area, and
+>
+> (b) a timetable for the preparation of the strategy that is consistent with this Part and any regulations made under it.
+>
+> (3) The Secretary of State may prescribe—
+>
+> (a) the form and content of a spatial development strategy timetable;
+>
+> (b) further matters the timetable must deal with.
+>
+> **12F Spatial development strategy timetable: further provision**
+>
+> (1) A strategic planning authority must submit its draft spatial development strategy timetable to the Secretary of State within such period as may be prescribed.
+>
+> (2) The Secretary of State may direct the strategic planning authority to make specified amendments to the draft timetable.
+>
+> (3) If the Secretary of State has not given such a direction to the strategic planning authority within the period of four weeks beginning with the date when the timetable was sent to the Secretary of State, the strategic planning authority may bring the timetable into effect.
+>
+> (4) A strategic planning authority to which a direction under subsection (2) is given—
+>
+> (a) must submit a revised draft spatial development strategy timetable to the Secretary of State within the period specified in the direction, and
+>
+> (b) may bring the timetable into effect only when the Secretary of State approves the timetable as revised in accordance with that direction or any further direction under subsection (2).
+>
+> (5) If a strategic planning authority—
+>
+> (a) does not comply with subsection (1), or
+>
+> (b) does not comply with subsection (4)(a),
+>
+> the Secretary of State may prepare a spatial development strategy timetable and direct the strategic planning authority to bring it into effect.
+>
+> (6) A direction under subsection (2) or (5) must contain the Secretary of State’s reasons for giving it.
+>
+> (7) To bring a spatial development strategy timetable into effect, a strategic planning authority must publish it, together with a statement that the timetable has effect.
+>
+> (8) A strategic planning authority must comply with a spatial development strategy timetable that has effect.
+>
+> (9) The Secretary of State may by regulations make provision as to when, or the circumstances in which, a strategic planning authority must revise a spatial development strategy timetable that has effect.
+>
+> (10) Regulations under subsection (9)—
+>
+> (a) may provide that revisions of a spatial development strategy timetable must be approved by the Secretary of State;
+>
+> (b) may confer a power to direct that a timetable is to be revised or that revisions require the approval of the Secretary of State.
+>
+> **Preparation and adoption of spatial development strategy**
+>
+> **12G Preparation of draft spatial development strategy**
+>
+> (1) A strategic planning authority must prepare a draft of its spatial development strategy.
+>
+> (2) In doing so, a strategic planning authority must have regard to—
+>
+> (a) any strategy, plan or policy published by the strategic planning authority that the strategic planning authority considers to be relevant,
+>
+> (b) the effect which the proposed spatial development strategy would have on each of the following—
+>
+> (i) the health of persons in the strategy area;
+>
+> (ii) health inequalities between persons living in the strategy area;
+>
+> (iii) the achievement of sustainable development;
+>
+> (c) the need to ensure that the strategy is consistent with current national policies;
+>
+> (d) any other prescribed matters.
+>
+> (3) In subsection (2)(a), the reference to any strategy, plan or policy published by a strategic planning authority includes a reference to any strategy, plan or policy published by a constituent authority of a strategic planning board.
+>
+> **12H Consultation and representations**
+>
+> (1) A strategic planning authority that has prepared a draft spatial development strategy must—
+>
+> (a) publish the draft strategy on the authority’s website,
+>
+> (b) notify the persons specified in subsection (2) that the draft strategy has been published on the authority’s website, and
+>
+> (c) make copies of the draft strategy available for inspection at the authority’s principal office and at any other place that the authority considers appropriate.
+>
+> (2) The persons referred to in subsection (1)(b) are—
+>
+> (a) the Secretary of State,
+>
+> (b) any county council for an area that is within, or any part of which is within, the strategy area,
+>
+> (c) any district council for an area that is within the strategy area,
+>
+> (d) any county council or district council for an area that adjoins the strategy area and is affected by the strategy,
+>
+> (e) any local planning authority for an area that is wholly or partly within, or adjoins, the strategy area and is affected by the strategy,
+>
+> (f) the person responsible for preparing a spatial development strategy for an area that adjoins the strategy area and is affected by the strategy,
+>
+> (g) such other persons as may be prescribed, and
+>
+> (h) such other persons as the strategic planning authority considers appropriate.
+>
+> (3) In exercising its discretion under subsection (2)(h) the strategic planning authority must consider notifying (at least) the following about the publication of the draft spatial development strategy—
+>
+> (a) voluntary bodies some or all of whose activities benefit the whole or part of the strategy area,
+>
+> (b) bodies which represent the interests of different racial, ethnic or national groups in the strategy area,
+>
+> (c) bodies which represent the interests of different religious groups in the strategy area, and
+>
+> (d) bodies which represent the interests of different persons carrying on business in the strategy area.
+>
+> (4) Where a strategic planning authority—
+>
+> (a) publishes a draft spatial development strategy as required by subsection (1)(a), or
+>
+> (b) makes such a strategy available for inspection as required by subsection (1)(c),
+>
+> the authority must also publish or make available a statement inviting representations to be made to the authority about the strategy.
+>
+> (5) A notification of a person under subsection (1)(b) about a draft spatial development strategy must include an invitation to the person to make representations to the strategic planning authority about the strategy.
+>
+> (6) An invitation to a person under subsection (4) or (5) must explain the effect of regulations under subsection (7).
+>
+> (7) Representations must be made—
+>
+> (a) in the prescribed form and manner;
+>
+> (b) within the prescribed period.
+>
+> (8) In subsection (1)—
+>
+> (a) references to a strategic planning authority’s website include references to the website of a constituent authority of a strategic planning board;
+>
+> (b) the reference to a strategic planning authority’s principal office includes a reference to the principal office of a constituent authority of a strategic planning board.
+>
+> **12I Public examination**
+>
+> (1) A strategic planning authority that has prepared a draft spatial development strategy must, unless the Secretary of State otherwise directs, make arrangements for an examination of the draft strategy to be held in public.
+>
+> (2) Such an examination is to be conducted by a person appointed by the Secretary of State (the “examiner”).
+>
+> (3) The matters examined at an examination are to be such matters affecting the consideration of the spatial development strategy as the examiner considers appropriate.
+>
+> (4) The following may take part in an examination—
+>
+> (a) the strategic planning authority that prepared the strategy, and
+>
+> (b) any person invited to do so by the examiner.
+>
+> (5) No person is to have a right to be heard at an examination.
+>
+> (6) On conclusion of the examination, the examiner must make a report to the strategic planning authority that prepared the strategy.
+>
+> (7) The report may recommend that specified modifications are made to the draft strategy before it is adopted.
+>
+> (8) The report may recommend that the draft strategy is withdrawn.
+>
+> (9) The strategic planning authority must publish the report.
+>
+> **12J Withdrawal before adoption**
+>
+> (1) A strategic planning authority may withdraw its draft spatial development strategy at any time before arrangements are made for its examination.
+>
+> (2) Subsection (3) applies at any time after arrangements have been made for examination of a draft spatial development strategy (but before it is adopted).
+>
+> (3) The strategic planning authority that prepared the draft strategy may withdraw it only if—
+>
+> (a) the Secretary of State so directs, or
+>
+> (b) the examiner recommends that it is withdrawn, and the Secretary of State has not directed that it is not to be withdrawn.
+>
+> (4) The steps taken by a strategic planning authority to withdraw a draft strategy must include—
+>
+> (a) deleting the strategy from the website on which it was published;
+>
+> (b) removing copies of the strategy that were made available for inspection;
+>
+> (c) notifying the following that the strategy has been withdrawn—
+>
+> (i) each person to whom a notification under section 12H(1)(b) was required to be given;
+>
+> (ii) any person, not within sub-paragraph (i), who made representations in accordance with regulations under section 12H(7).
+>
+> **12K Submission to Secretary of State before adoption**
+>
+> (1) This section applies where—
+>
+> (a) a draft spatial development strategy has been published under section 12H,
+>
+> (b) the prescribed period for the making of representations (see section 12H(7)) has elapsed,
+>
+> (c) either—
+>
+> (i) the strategic planning authority that prepared the draft strategy has published the examiner’s report on it (see section 12I(9)), or
+>
+> (ii) no examination of the draft strategy is needed because of a direction under section 12I(1), and
+>
+> (d) the draft strategy has not been withdrawn (see section 12J).
+>
+> (2) The strategic planning authority must—
+>
+> (a) consider any representations received in accordance with regulations under section 12H(7) and decide whether to make any modifications as a result,
+>
+> (b) if an examination was held, consider the examiner’s report and decide whether to make any modifications that the examiner recommends, and
+>
+> (c) consider whether to make any other modifications to take account of—
+>
+> (i) any national development management policies so far as material, or
+>
+> (ii) any other material considerations.
+>
+> (3) After such consideration and (if considered appropriate) modification, the strategic planning authority must submit the draft spatial development strategy to the Secretary of State, stating that the authority intends to adopt it.
+>
+> (4) The strategic planning authority must inform the Secretary of State of—
+>
+> (a) any modifications made to the published draft strategy, and the reasons for making them;
+>
+> (b) any modifications to the published draft strategy that the examiner recommended but which the authority has not made, and the reasons for not making them.
+>
+> (5) If the Secretary of State considers that a submitted spatial development strategy is—
+>
+> (a) inconsistent with current national policies, or
+>
+> (b) detrimental to the interests of an area outside the strategy area,
+>
+> the Secretary of State may, within the relevant period, direct the strategic planning authority to make specified modifications of the strategy in order to deal with the inconsistency or detriment.
+>
+> (6) In this section “the relevant period”, in relation to a spatial development strategy, means—
+>
+> (a) the period of six weeks beginning with the date when the strategy was submitted to the Secretary of State, or
+>
+> (b) such longer period as is specified by the Secretary of State in a direction given within the period specified in paragraph (a) to the authority that submitted the strategy.
+>
+> **12L Adoption of spatial development strategy**
+>
+> (1) A spatial development strategy must not be adopted by a strategic planning authority unless it is in the form submitted to the Secretary of State under section 12K, subject to any modifications directed to be made under subsection (5) of that section.
+>
+> (2) A spatial development strategy must not be adopted by a strategic planning authority unless—
+>
+> (a) the relevant period (as defined in section 12K(6)) has elapsed,
+>
+> (b) the authority has complied with any requirement of regulations under this Part for steps to be taken, or a period to elapse, before a strategy may be adopted, and
+>
+> (c) if a direction was given to the authority under section 12K(5), the Secretary of State confirms that the Secretary of State is content with the modified strategy.
+>
+> (3) A strategic planning authority must hold a vote on a resolution to adopt its spatial development strategy as soon as reasonably practicable after the conditions in subsection (2) are satisfied.
+>
+> (4) Subsection (5) applies in relation to the adoption of a spatial development strategy by—
+>
+> (a) a mayoral combined authority, or
+>
+> (b) a mayoral combined county authority.
+>
+> (5) In the event of a tied vote on whether to pass a resolution to adopt the strategy, the mayor of the authority has a casting vote (in addition to any other vote the mayor may have).
+>
+> (6) A strategic planning authority that has adopted a spatial development strategy must publish the strategy together with a statement that it has been adopted.
+>
+> (7) A spatial development strategy becomes operative when it is published.
+>
+> **Review, alteration and replacement of spatial development strategy**
+>
+> **12M Review and monitoring**
+>
+> (1) This section applies in relation to an operative spatial development strategy.
+>
+> (2) A strategic planning authority must keep under review the matters which may be expected to affect the development of the strategy area or the planning of its development or which are otherwise relevant to the content of the strategy.
+>
+> (3) In exercising functions under subsection (2), a strategic planning authority must—
+>
+> (a) if the authority identifies matters to be kept under review that relate to the area of a local planning authority that is outside the strategy area, consult that local planning authority about those matters;
+>
+> (b) if the authority identifies matters to be kept under review that relate to the area of a person responsible for preparing a spatial development strategy that is outside the strategy area, consult that person about those matters.
+>
+> (4) A strategic planning authority must carry out a review of its spatial development strategy from time to time.
+>
+> (5) The Secretary of State may direct a strategic planning authority to review all or specified parts of its spatial development strategy.
+>
+> (6) A strategic planning authority must—
+>
+> (a) monitor the implementation of its spatial development strategy, and
+>
+> (b) monitor, and collect information about, matters relevant to the preparation, review, alteration, replacement or implementation of the strategy.
+>
+> (7) The Secretary of State may make regulations imposing either or both of the following duties on each strategic planning authority that has an operative spatial development strategy—
+>
+> (a) a duty to make prescribed information relating to the implementation of the authority’s strategy available to the public in such form and manner as may be prescribed;
+>
+> (b) a duty to provide prescribed information relating to the implementation of the authority’s strategy to the Secretary of State in such form and manner as may be prescribed.
+>
+> **12N Alterations**
+>
+> (1) This section applies in relation to an operative spatial development strategy.
+>
+> (2) A strategic planning authority may at any time prepare alterations of its strategy.
+>
+> (3) The Secretary of State may direct a strategic planning authority to alter its spatial development strategy as specified in the direction.
+>
+> (4) The Secretary of State may by regulations make provision as to when, or the circumstances in which, a strategic planning authority must alter its spatial development strategy.
+>
+> (5) A spatial development strategy as altered must still conform to section 12D.
+>
+> (6) Sections 12G to 12L apply in relation to the preparation and adoption of an alteration of a spatial development strategy as they apply in relation to the preparation and adoption of a spatial development strategy.
+>
+> **12O Replacement**
+>
+> (1) This section applies in relation to an operative spatial development strategy.
+>
+> (2) A strategic planning authority may at any time prepare a new spatial development strategy as a replacement.
+>
+> (3) The Secretary of State may direct a strategic planning authority to replace its spatial development strategy.
+>
+> (4) The Secretary of State may by regulations make provision as to when, or the circumstances in which, a strategic planning authority must replace its spatial development strategy.
+>
+> (5) A strategic planning authority’s operative spatial development strategy is revoked upon a new spatial development strategy being adopted by the authority in accordance with this Part.
+>
+> **Secretary of State’s intervention powers in relation to spatial development strategy**
+>
+> **12P Powers where strategic planning authority is failing etc**
+>
+> (1) This section applies if the Secretary of State considers that—
+>
+> (a) a strategic planning authority is failing to do anything it is necessary or expedient for it to do in connection with the preparation, adoption, alteration, replacement or review of a spatial development strategy,
+>
+> (b) a spatial development strategy is, is going to be or may be—
+>
+> (i) inconsistent with current national policies, or
+>
+> (ii) detrimental to the interests of an area outside the strategy area, or
+>
+> (c) a proposed alteration of a spatial development strategy will, or may, result in the strategy becoming—
+>
+> (i) inconsistent with current national policies, or
+>
+> (ii) detrimental to the interests of an area outside the strategy area.
+>
+> (2) The Secretary of State may—
+>
+> (a) if the strategy is not operative, take over preparation of the strategy from the strategic planning authority;
+>
+> (b) if the strategy is operative, alter the strategy;
+>
+> (c) give a direction to the strategic planning authority in relation to the preparation, adoption, withdrawal, alteration, replacement, review or revocation of the strategy.
+>
+> (3) The power of direction under subsection (2)(c) includes power to direct a strategic planning authority—
+>
+> (a) to modify or withdraw its draft spatial development strategy;
+>
+> (b) to alter or revoke its (operative) spatial development strategy.
+>
+> (4) Subsections (5) to (12) apply if preparation of a spatial development strategy is taken over under subsection (2)(a).
+>
+> (5) The Secretary of State must publish a document setting out—
+>
+> (a) the timetable for preparing the strategy, and
+>
+> (b) details of any departures from any existing spatial development strategy timetable.
+>
+> (6) The Secretary of State must (or, if an examination of the draft strategy has already been held, may)—
+>
+> (a) make arrangements for an examination of the draft strategy to be held in public, or
+>
+> (b) direct the strategic planning authority to make arrangements for an examination of the draft strategy under section 12I.
+>
+> (7) Subsections (2) to (8) of section 12I apply in relation to an examination held under subsection (6)(a), reading references to the strategic planning authority as references to the Secretary of State.
+>
+> (8) The Secretary of State must either—
+>
+> (a) publish the examiner’s report, or
+>
+> (b) direct the strategic planning authority to publish it.
+>
+> (9) The Secretary of State may then—
+>
+> (a) approve the strategy,
+>
+> (b) modify the strategy and approve it with the modifications,
+>
+> (c) direct the strategic planning authority to consider adopting—
+>
+> (i) the strategy, or
+>
+> (ii) the strategy as modified by the Secretary of State, or
+>
+> (d) reject the strategy.
+>
+> (10) If the Secretary of State gives a direction under subsection (9)(c), section 12L applies with the omission of subsections (1) and (2) of that section (and as if the reference in subsection (3) of that section to the conditions in subsection (2) being satisfied were a reference to the direction being received).
+>
+> (11) If the Secretary of State approves a spatial development strategy under subsection (9)(a) or (b), the Secretary of State must either—
+>
+> (a) publish the strategy, or
+>
+> (b) direct the strategic planning authority to publish it.
+>
+> (12) The spatial development strategy becomes operative when it is published.
+>
+> (13) Subsections (5) to (12) (and the provisions applied by them) apply in relation to an alteration of a strategy under subsection (2)(b) as they apply to a strategy prepared under subsection (2)(a).
+>
+> (14) The Secretary of State must give reasons for—
+>
+> (a) whatever the Secretary of State does under subsection (2);
+>
+> (b) the decision made under subsection (9).
+>
+> (15) In the exercise of any function under this section the Secretary of State—
+>
+> (a) may take account of any matter that the Secretary of State considers to be relevant (regardless of whether the matter was taken account of by the strategic planning authority), and
+>
+> (b) must have regard to—
+>
+> (i) the spatial development strategy timetable, and
+>
+> (ii) the local plan timetable prepared by a local planning authority for an area that is wholly or partly within the strategy area.
+>
+> (16) In subsection (15)(b)(ii) “local plan timetable” is to be construed in accordance with section 15B.
+>
+> **12Q Power to approve strategy where adoption resolution not passed**
+>
+> (1) This section applies in the event of a vote by a strategic planning authority against passing a resolution to adopt a spatial development strategy.
+>
+> (2) The Secretary of State may, if the Secretary of State considers it appropriate—
+>
+> (a) approve the strategy, or
+>
+> (b) modify the strategy and approve it with the modifications.
+>
+> (3) The powers in subsection (2) are exercisable—
+>
+> (a) on the Secretary of State’s own initiative, or
+>
+> (b) in the case of a strategy prepared by a mayoral combined authority or a mayoral combined county authority, if the mayor of the authority requests the Secretary of State to exercise those powers.
+>
+> (4) The function of making a request as mentioned in subsection (3)(b) is exercisable only by the mayor (and may not be the subject of arrangements under section 107D(3) of the Local Democracy, Economic Development and Construction Act 2009 or section 30(3) of the Levelling-up and Regeneration Act 2023).
+>
+> (5) The Secretary of State must give reasons to the strategic planning authority or (as the case may be) the mayor of the strategic planning authority—
+>
+> (a) for anything the Secretary of State does under subsection (2), or
+>
+> (b) if the Secretary of State declines to approve the strategy, for that decision.
+>
+> (6) If the Secretary of State approves a spatial development strategy under subsection (2) the Secretary of State must either—
+>
+> (a) publish the strategy, or
+>
+> (b) direct the strategic planning authority to publish it.
+>
+> (7) The spatial development strategy becomes operative when it is published.
+>
+> (8) In making a decision under this section the Secretary of State may take account of any matter that the Secretary of State considers to be relevant (regardless of whether the matter was taken account of by the strategic planning authority).
+>
+> **12R Liability for Secretary of State’s costs of intervention**
+>
+> (1) The Secretary of State may require a strategic planning authority to reimburse the Secretary of State for any expenditure incurred by the Secretary of State in, or in connection with, exercising a function under section 12P or 12Q in relation to the authority’s spatial development strategy.
+>
+> (2) Where the strategic planning authority is a strategic planning board, subsection (1) is to be read as giving power for the Secretary of State to require reimbursement of such expenditure from the constituent authorities of the board in such proportions as the Secretary of State considers just and reasonable.
+>
+> **12S Temporary direction pending possible use of intervention powers**
+>
+> (1) If the Secretary of State is considering whether to take action under section 12P in relation to a spatial development strategy, the Secretary of State may direct the strategic planning authority responsible for the strategy not to take any step, or not to take a step specified in the direction, in connection with the strategy—
+>
+> (a) until a time or event (if any) specified in the direction, or
+>
+> (b) until the direction is revoked.
+>
+> (2) A spatial development strategy to which such a direction relates is not operative while the direction is in force.
+>
+> (3) A direction given under this section in relation to a strategy ceases to have effect if the Secretary of State—
+>
+> (a) gives a direction under section 12P(2)(c) or (9)(c) in relation to the strategy, or
+>
+> (b) approves the strategy under section 12P(9)(a) or (b).
+>
+> **Supplementary**
+>
+> **12T Supplementary etc provision in connection with regulations about strategic planning boards**
+>
+> (1) The Secretary of State may by regulations make supplementary, incidental, transitional, transitory or saving provision for the purposes of strategic planning board regulations.
+>
+> (2) Where, immediately before strategic planning board regulations establishing a strategic planning board come into force, a spatial development strategy is operative in relation to the area of a principal authority that is to be a constituent authority of the board, regulations under subsection (1) may include provision for that strategy to be treated, for the purposes of this Part or another enactment, as the operative spatial development strategy of the strategic planning board.
+>
+> (3) Where a strategic planning board has an operative spatial development strategy immediately before strategic planning board regulations that revoke the regulations that established that board come into force, regulations under subsection (1) may include provision for that strategy to be treated, for the purposes of this Part or another enactment, as the operative spatial development strategy of a prescribed principal authority or authorities.
+>
+> (4) In this section “strategic planning board regulations” means regulations under section 12B(2).
+>
+> **12U Regulations**
+>
+> (1) The Secretary of State may by regulations make provision in connection with the exercise by any person of a function conferred by or under this Part.
+>
+> (2) The regulations may (among other things) make provision as to—
+>
+> (a) the procedure to be followed in connection with the preparation, adoption, publication, review, withdrawal, alteration or replacement of a spatial development strategy or in connection with a review under section 12M(2);
+>
+> (b) the remuneration and allowances payable to a person appointed to conduct a public examination (under section 12I or as mentioned in section 12P(6)(a));
+>
+> (c) the supply of information or documents to the Secretary of State by a strategic planning authority for the purposes of any decision that the Secretary of State may make under this Part;
+>
+> (d) the determination of the time by or at which anything must be done for the purposes of this Part;
+>
+> (e) the manner of publication of any document required to be published under this Part;
+>
+> (f) the making of reasonable charges for the provision of copies of documents required by or under this Part.
+>
+> (3) Regulations under this Part may make different provision for different areas.
+>
+> **12V Directions**
+>
+> (1) A direction given to a strategic planning authority under this Part may—
+>
+> (a) require the authority to do specified things by specified dates;
+>
+> (b) require the authority to keep the Secretary of State informed at specified intervals of the progress being made towards doing what the authority is directed to do.
+>
+> (2) A direction under this Part must be given in writing.
+>
+> (3) A direction under this Part may be varied or revoked by notice in writing to the strategic planning authority to which it was given.
+>
+> (4) A direction under this Part must be published.
+>
+> **12W Meaning of “spatial development strategy” etc**
+>
+> (1) In this Part “spatial development strategy” means, as the context requires—
+>
+> (a) a strategy adopted by a strategic planning authority under section 12L,
+>
+> (b) a strategy approved by the Secretary of State under section 12P(9)(a) or (b) or 12Q(2)(a) or (b), or
+>
+> (c) a strategy in preparation by a strategic planning authority in accordance with this Part.
+>
+> (2) In sections 12B(4)(c), 12C(6)(b)(iv), 12H(2)(f) and 12M(3)(b)—
+>
+> (a) “spatial development strategy” includes—
+>
+> (i) the spatial development strategy for London,
+>
+> (ii) a spatial development strategy adopted by a combined authority in accordance with regulations under section 105A of the Local Democracy, Economic Development and Construction Act 2009, and
+>
+> (iii) a spatial development strategy adopted by a combined county authority in accordance with regulations under section 19 of the Levelling-up and Regeneration Act 2023; and
+>
+> (b) “person responsible for preparing a spatial development strategy” is to be read accordingly.
+>
+> (3) For the purposes of sections 12M to 12O, a spatial development strategy approved by the Secretary of State under a power specified in subsection (1)(b) is to be regarded as the spatial development strategy of the strategic planning authority in relation to which the power is exercised.
+>
+> **12X Interpretation**
+>
+> (1) In this Part—
+>
+> - “combined authority” means a combined authority established under section 103(1) of the Local Democracy, Economic Development and Construction Act 2009;
+>
+> - “combined county authority” means a combined county authority established under section 9(1) of the Levelling-up and Regeneration Act 2023;
+>
+> - “constituent authority”, in relation to a strategic planning board, is to be construed in accordance with section 12B;
+>
+> - “examination” means an examination in public of a draft spatial development strategy as set out in section 12I, and “examiner” is to be construed accordingly;
+>
+> - “mayoral combined authority” has the meaning given by section 107A(8) of the Local Democracy, Economic Development and Construction Act 2009;
+>
+> - “mayoral combined county authority” has the meaning given by section 27(8) of the Levelling-up and Regeneration Act 2023;
+>
+> - “national development management policy” must be construed in accordance with section 38ZA;
+>
+> - “principal authority” has the meaning given by section 12A(7);
+>
+> - “spatial development strategy for London” means the strategy adopted by the Mayor of London under Part 8 of the Greater London Authority Act 1999;
+>
+> - “spatial development strategy timetable” has the meaning given by section 12E;
+>
+> - “strategic planning authority” has the meaning given by section 12A;
+>
+> - “strategic planning board” has the meaning given by section 12B;
+>
+> - “strategy area” has the meaning given by section 12A(4);
+>
+> - “unitary authority” means—
+>
+>   - a county council for an area that does not include the areas of district councils, or
+>   - a district council for an area that does not form part of the area of a county council;
+>
+> - “upper-tier county council” means a county council for an area that includes the areas of district councils.
+>
+> (2) In this Part—
+>
+> (a) “local planning authority” has the same meaning as in Part 2 (see section 15LF);
+>
+> (b) references to a local planning authority’s area are to the area for which they are the local planning authority in accordance with that Part.
+
+(2) In section 334 of the Greater London Authority Act 1999—
+
+(a) in subsection (2A) (as inserted by section 95(2) of the Levelling-up and Regeneration Act 2023) omit paragraph (b) (and the “and” at the end of paragraph (a));
+
+(b) in subsection (2D) (also inserted by section 95(2) of that Act) omit paragraph (b) (and the “but” at the end of paragraph (a)).
+
+(3) Schedule 2 makes minor and consequential amendments in connection with subsection (1).
+
+(4) The Secretary of State may by regulations by statutory instrument make provision that is consequential on subsection (1).
+
+(5) Regulations under subsection (4) may amend an Act passed before the end of the session of Parliament in which this Act is passed.
+
+(6) Regulations under subsection (4) may include incidental, supplemental, transitional and saving provision.
+
+(7) A statutory instrument containing (whether alone or with other provision) regulations made in reliance on subsection (5) may not be made unless a draft of the statutory instrument containing them has been laid before, and approved by a resolution of, each House of Parliament.
+
+(8) Any other statutory instrument containing regulations under subsection (4) is subject to annulment in pursuance of a resolution of either House of Parliament.
+
+## Part 3 — Development and nature recovery
+
+### Overview
+
+#### 59 Overview of EDPs
+
+(1) An environmental delivery plan is a plan prepared by Natural England, and made by the Secretary of State, that sets out, in relation to development to which it applies—
+
+(a) the environmental features that are likely to be negatively affected by the development,
+
+(b) the conservation measures that are to be taken by or on behalf of Natural England in order to protect those environmental features,
+
+(c) the amount of the nature restoration levy payable by developers to Natural England to cover the cost of those conservation measures (see sections 62 and 72 to 81), and
+
+(d) the environmental obligations in relation to development that are discharged, disapplied or otherwise modified if a developer pays the nature restoration levy in relation to the development (see section 72 and Schedule 3).
+
+(2) In this Part—
+
+(a) sections 60 to 63 make provision about the required contents of an environmental delivery plan;
+
+(b) sections 64 to 66 make provision about the procedure for making an environmental delivery plan;
+
+(c) sections 67 to 71 make provision about reporting on, amending, revoking and challenging an environmental delivery plan.
+
+(3) In this Part, an “EDP” means an environmental delivery plan.
+
+### Environmental delivery plans: content
+
+#### 60 Scope of an EDP: area, kind and volume of development and time period
+
+(1) An EDP must specify the development to which it applies by reference to—
+
+(a) the area in which the development may be undertaken (the “development area”), and
+
+(b) the kind of development.
+
+(2) The development area must be an area in—
+
+(a) England, or
+
+(b) the waters adjacent to England up to the seaward limits of the territorial sea.
+
+(3) An EDP may—
+
+(a) provide that it does not apply to development in specified areas within the development area, or
+
+(b) specify as the development area an area that is comprised of separate parcels of land.
+
+(4) An EDP must—
+
+(a) include a map showing the boundaries of the development area, and
+
+(b) set out the reasons for its application to the development area and, where relevant, the reasons for excluding any area under subsection (3)(a).
+
+(5) An EDP must specify the maximum amount of development to which it may apply.
+
+(6) The maximum amount of development may be specified in any way that Natural England considers appropriate, which may, for example, be by reference to—
+
+(a) the area covered by the development,
+
+(b) measurements of floor space,
+
+(c) numbers of buildings or of units within buildings,
+
+(d) values or expected values, or
+
+(e) in the case of development that is a nationally significant infrastructure project within the meaning of the Planning Act 2008, any measurement of the scale of the project that is used for the purposes of Part 3 of that Act.
+
+(7) An EDP must specify—
+
+(a) the date on which it comes into force (the “EDP start date”), and
+
+(b) the date on which it expires (the “EDP end date”), which must be before the end of the period of ten years beginning with the EDP start date.
+
+#### 61 Environmental features, environmental impacts and conservation measures
+
+(1) An EDP must identify—
+
+(a) one or more environmental features which are likely to be negatively affected by development to which the EDP applies, and
+
+(b) one or more ways in which that negative effect is likely to be caused by the development (the “environmental impact”).
+
+But an EDP need not identify all of the possible environmental impacts on an environmental feature.
+
+(2) An environmental feature identified in an EDP may be—
+
+(a) a protected feature of a protected site, or
+
+(b) a protected species.
+
+(3) An EDP must set out the measures (“conservation measures”) that are to be taken by, or on behalf of, Natural England, under the EDP in order to—
+
+(a) address the environmental impact of development on the identified environmental feature, and
+
+(b) contribute to an overall improvement in the conservation status of the identified environmental feature (see also section 65(3)).
+
+(4) An EDP must set out the anticipated sequencing of the implementation of the conservation measures by reference to the development to which the EDP applies.
+
+(5) Where an identified environmental feature is a protected feature of a protected site that is wholly in England, the EDP may set out conservation measures that do not directly address the environmental impact of development on that feature at that site but instead seek to improve the conservation status of the same feature elsewhere.
+
+(6) But an EDP may include conservation measures of the type mentioned in subsection (5) only if Natural England considers that such measures would make a greater contribution to the improvement of the conservation status of the feature than measures that address the environmental impact of development on the feature at the protected site itself.
+
+(7) An EDP must include conservation measures that are not, at the time the EDP is made, expected to be needed but which must be implemented in the circumstances set out in the EDP.
+
+(8) Those circumstances must relate to the effectiveness of the conservation measures that have already been implemented, as revealed by the monitoring of the EDP (see section 82(4)(a)).
+
+(9) An EDP must state—
+
+(a) how much the conservation measures are expected to cost, and
+
+(b) how the conservation measures are to be maintained,
+
+over the period covered by the EDP or, if longer, the period for which the conservation measures are likely to be required to address the environmental impact of development.
+
+(10) A conservation measure may take the form of a request, by Natural England, that a condition of development be imposed (see section 95).
+
+(11) In this section—
+
+- “England” includes—
+
+  - the waters adjacent to England up to the seaward limits of the territorial sea, and
+  - the English offshore region;
+
+- “English offshore region” has the same meaning as in the Marine and Coastal Access Act 2009 (see section 322(1) of that Act);
+
+- “the environmental impact of development” means the environmental impact, as identified in the EDP, of the maximum amount of development to which the EDP may apply, as specified in accordance with section 60(5).
+
+#### 62 Nature restoration levy: charging schedules
+
+(1) An EDP must include one or more charging schedules which set out the rates or other criteria by reference to which the amount of nature restoration levy is to be determined for each kind of development to which the EDP applies.
+
+(2) Each charging schedule must relate to an environmental impact of development on an identified environmental feature.
+
+(3) The rates or other criteria must be set in accordance with nature restoration levy regulations (see sections 73 to 80).
+
+#### 63 Other requirements for an EDP
+
+(1) An EDP must describe the conservation status of each identified environmental feature as at the EDP start date.
+
+(2) An EDP must set out—
+
+(a) why Natural England considers the conservation measures to be appropriate,
+
+(b) Natural England’s opinion on how the conservation measures will enable the EDP to pass the overall improvement test, and
+
+(c) what alternatives to the conservation measures were considered by Natural England and why they were not included.
+
+(3) Where an EDP includes conservation measures of the type mentioned in section 61(5) (network conservation measures), it must state how, in the opinion of Natural England, the measures comply with the requirement in section 61(6) (network measure to make a greater contribution to improvement of conservation status of the feature than onsite measure).
+
+(4) Where an EDP identifies a protected species as an environmental feature, the EDP must set out the terms of the licence that will be treated as having been granted under paragraph 4, 5 or 6 of Schedule 3.
+
+(5) An EDP must specify the terms that must be incorporated into a licence under—
+
+(a) regulation 55 of the Habitats Regulations 2017,
+
+(b) section 16 of the Wildlife and Countryside Act 1981, or
+
+(c) section 10 of the Protection of Badgers Act 1992,
+
+that may be granted to Natural England to facilitate the carrying out of any conservation measures.
+
+(6) An EDP must list the strategies and plans to which Natural England had regard in preparing the EDP (see section 94(3) and (4)).
+
+(7) An EDP must include an overview of any other measures (in addition to the conservation measures set out in the EDP) that are being taken or are likely to be taken by Natural England or another public authority with the aim of improving the conservation status of each identified environmental feature.
+
+(8) An EDP must set out how Natural England will monitor the EDP (see section 82(4) and (5)).
+
+(9) The Secretary of State must make regulations setting out the appropriate prioritisation, by Natural England, of the different ways of addressing any negative effect of development on a protected species or on a protected feature of a protected site when—
+
+(a) preparing an EDP, or
+
+(b) considering requesting an amendment to an EDP.
+
+(10) The Secretary of State may make regulations setting out further information that must be included, or matters that must be dealt with, in an EDP.
+
+### Environmental delivery plans: procedure
+
+#### 64 Draft EDP: notification and consultation
+
+(1) When Natural England decides to prepare an EDP, it must—
+
+(a) notify the Secretary of State of that decision, and
+
+(b) publish the notification given to the Secretary of State.
+
+(2) After preparing a draft EDP, Natural England must publish the draft for public consultation and seek the views of the following—
+
+(a) the Environment Agency,
+
+(b) the Joint Nature Conservation Committee,
+
+(c) any local planning authority for an area that is wholly or partly within the development area,
+
+(d) any local highway authority for an area that is wholly or partly within the development area,
+
+(e) any strategic highways company for an area that is wholly or partly within the development area,
+
+(f) Network Rail Limited, if the development area includes all or part of its network,
+
+(g) the Mayor of London, if all or part of the development area is in Greater London,
+
+(h) if the development area includes all or part of the area of a mayoral combined authority, the mayor of the authority,
+
+(i) if the development area includes all or part of the area of a mayoral combined county authority, the mayor of the authority,
+
+(j) the Marine Management Organisation, if all or part of the development area is in the waters adjacent to England,
+
+(k) if an environmental feature identified in the draft EDP is a protected feature of a protected site that is wholly or partly in Wales, the Natural Resources Body for Wales and the Welsh Ministers,
+
+(l) if an environmental feature identified in the draft EDP is a protected feature of a protected site that is wholly or partly in Scotland, Scottish Natural Heritage and the Scottish Ministers,
+
+(m) any other public authority Natural England considers should be consulted, and
+
+(n) any other public authority specified in regulations made by the Secretary of State.
+
+(3) The Secretary of State may by regulations require a public authority specified in the regulations to respond to the consultation within the consultation period.
+
+(4) Natural England need not have regard to any consultation responses received after the end of the consultation period.
+
+(5) The consultation period is the period of 28 working days beginning with the day on which the draft EDP is published for consultation, or such longer period as is specified in regulations made by the Secretary of State.
+
+(6) If, after considering the responses to the consultation, Natural England amends the draft EDP, it may (but is not obliged to) reconsult.
+
+(7) In this section—
+
+- “local highway authority” has the meaning given by section 329(1) of the Highways Act 1980;
+- “mayoral combined authority” has the meaning given by section 107A(8) of the Local Democracy, Economic Development and Construction Act 2009;
+- “mayoral combined county authority” has the meaning given by section 27(8) of the Levelling-up and Regeneration Act 2023;
+- “network” has the meaning given by section 83(1) of the Railways Act 1993;
+- “strategic highways company” has the meaning given by section 329(1) of the Highways Act 1980.
+
+(8) In this section, the references to Wales and Scotland include the waters adjacent to them up to the seaward limits of the territorial sea.
+
+#### 65 Making of EDP by Secretary of State
+
+(1) After complying with section 64, Natural England may send a draft of the EDP to the Secretary of State to be made.
+
+(2) When providing the Secretary of State with a draft EDP, Natural England must also provide to the Secretary of State—
+
+(a) copies of all responses to the consultation, and
+
+(b) Natural England’s response to the consultation and details of any further consultation.
+
+(3) The Secretary of State may make the EDP only if the Secretary of State considers that the EDP passes the overall improvement test.
+
+(4) An EDP passes the overall improvement test if, by the EDP end date, the effect of the conservation measures will materially outweigh the negative effect of the EDP development on the conservation status of each identified environmental feature.
+
+(5) In subsection (4), “the negative effect of the EDP development” means the effect, caused by the environmental impact, as identified in the EDP in accordance with section 61(1)(b), of the maximum amount of development to which the EDP may apply, as specified in accordance with section 60(5).
+
+(6) The Secretary of State may request further information from Natural England in order to decide whether to make an EDP.
+
+(7) If the Secretary of State decides not to make an EDP, the Secretary of State must publish a notice of the decision that sets out the reasons for the decision.
+
+#### 66 Publication of EDP
+
+(1) After the Secretary of State makes an EDP, the Secretary of State must—
+
+(a) publish the EDP, or
+
+(b) direct Natural England to publish it.
+
+(2) The EDP must be published before the end of the period of 28 days beginning with the day on which the Secretary of State makes the EDP.
+
+(3) The EDP start date must not be before the date on which the EDP is published.
+
+### Environmental delivery plans: reporting, amendment, revocation and challenge
+
+#### 67 Reporting on an EDP
+
+(1) Natural England must publish—
+
+(a) a report on an EDP covering the period from the EDP start date to the EDP midpoint, and
+
+(b) a report on an EDP covering the period from the EDP midpoint to the EDP end date.
+
+(2) If an EDP is revoked (see section 69)—
+
+(a) where the EDP is revoked before the EDP midpoint, Natural England must publish a report covering the period beginning with the EDP start date and ending with the revocation date (instead of publishing the reports under subsection (1));
+
+(b) where the EDP is revoked after the EDP midpoint, Natural England must publish a report covering the period beginning with the EDP midpoint and ending with the revocation date (instead of publishing the report under subsection (1)(b)).
+
+(3) Natural England may publish a report on an EDP at any other time.
+
+(4) A report under subsection (1) or (2) must be published before the end of the period of two months beginning with the day on which the period covered by the report ends.
+
+(5) A report under subsection (1) or (2) must state—
+
+(a) how much of the maximum amount of development available under the EDP (see section 60(5)) remains available;
+
+(b) the amounts of nature restoration levy received by Natural England under the EDP;
+
+(c) whether the conservation measures have been implemented and if not, why not;
+
+(d) whether the conservation measures are having, or have had, their intended effect;
+
+(e) what the conservation measures are costing, and how this compares with what they were expected to cost as set out in the EDP (see section 61(9));
+
+(f) whether the rates or other criteria set out in each charging schedule have been amended or are expected to be amended;
+
+(g) whether anything else in the EDP has been amended or is expected to be amended.
+
+(6) A report under subsection (1)(a) (midpoint report) must also include an assessment of whether the EDP is likely to pass the overall improvement test.
+
+(7) A report under subsection (1)(b) (final report) must also include—
+
+(a) an assessment of whether the EDP has passed the overall improvement test, and
+
+(b) if the assessment is that the EDP has not passed the test, the extent to which the conservation measures have failed to outweigh the negative effect of the EDP development as mentioned in section 65(4).
+
+(8) A report under subsection (2) (revocation report) must also include—
+
+(a) an assessment of whether the EDP would be likely to pass the overall improvement test if it were not being revoked, but reading section 65 as if—
+
+(i) the reference in subsection (4) to the conservation measures were a reference to the conservation measures that have been or will be taken despite the EDP’s revocation (but not including any measures taken by way of remedial action under section 70(4));
+
+(ii) the reference in subsection (5) to the maximum amount of development to which the EDP may apply were a reference to all of the development in respect of which a developer has paid or will pay the nature restoration levy despite the EDP’s revocation;
+
+(b) if the assessment is that the EDP would be unlikely to pass the test, the extent to which those conservation measures are likely to fail to outweigh the negative effect of that development.
+
+(9) Natural England must have regard to guidance issued by the Secretary of State about reports on an EDP.
+
+(10) In this section—
+
+- “the EDP midpoint” means the point in time that falls halfway between the EDP start date and the EDP end date;
+- “the revocation date” means the date on which the EDP is revoked, as set out in the notice under section 69(5).
+
+#### 68 Amendment of an EDP
+
+(1) The Secretary of State may amend an EDP—
+
+(a) on a request from Natural England, or
+
+(b) on the Secretary of State’s own initiative.
+
+(2) But an EDP may not be amended so that it no longer applies to development in respect of which a developer has already committed to pay the nature restoration levy under the EDP.
+
+(3) Where Natural England requests, or the Secretary of State is minded to make, an amendment to an EDP that—
+
+(a) increases the maximum amount of development to which the EDP may apply, as specified under section 60(5),
+
+(b) changes the development area to include a new area to which the EDP does not currently apply, or
+
+(c) adds new conservation measures that are of a kind not currently included in the EDP,
+
+the Secretary of State must direct Natural England to consult on the EDP as proposed to be amended.
+
+(4) Where—
+
+(a) Natural England requests any other type of amendment, other than an amendment only to a charging schedule, or
+
+(b) the Secretary of State is minded to make such an amendment,
+
+the Secretary of State may direct Natural England to consult on the EDP as proposed to be amended.
+
+(5) Where the Secretary of State directs Natural England to consult, Natural England must—
+
+(a) follow the consultation procedure set out in section 64, and
+
+(b) provide to the Secretary of State—
+
+(i) copies of all responses to the consultation, and
+
+(ii) Natural England’s response to the consultation and details of any further consultation.
+
+(6) The Secretary of State may make an amendment to an EDP only if the Secretary of State considers that the EDP as amended passes the overall improvement test.
+
+(7) If the Secretary of State decides not to make an amendment when requested to do so by Natural England, the Secretary of State must publish a notice of the decision that sets out the reasons for the decision.
+
+(8) After the Secretary of State amends an EDP, the Secretary of State must—
+
+(a) publish the EDP as amended, or
+
+(b) direct Natural England to publish it.
+
+(9) The amended EDP must be published before the end of the period of 28 days beginning with the day on which the Secretary of State makes the amendment.
+
+(10) The amendment must not come into effect before the date on which the amended EDP is published.
+
+(11) Subsections (4) to (7) do not apply to an amendment that only corrects a clerical or typographical error.
+
+#### 69 Revocation of an EDP
+
+(1) The Secretary of State may revoke an EDP—
+
+(a) on a request from Natural England, or
+
+(b) on the Secretary of State’s own initiative.
+
+(2) The Secretary of State must revoke an EDP if the Secretary of State no longer considers that the EDP passes the overall improvement test, unless Natural England has proposed amendments under section 68 which would, if made, result in that test being passed.
+
+(3) If the Secretary of State decides not to revoke an EDP when requested to do so by Natural England, the Secretary of State must publish a notice of the decision that sets out the reasons for the decision.
+
+(4) The power to revoke an EDP includes a power—
+
+(a) to revoke different parts of the EDP at different times;
+
+(b) to revoke the EDP, or parts of the EDP, at different times in relation to different developments.
+
+(5) Where the Secretary of State revokes an EDP, the Secretary of State must publish a notice of revocation setting out—
+
+(a) the fact that the EDP has been revoked and the date of revocation (the “EDP revocation date”),
+
+(b) where only part of the EDP is revoked or different parts of the EDP are revoked at different times or in relation to different developments, details of how the revocation is to take effect, and
+
+(c) the reasons for the revocation.
+
+#### 70 Remedial action by Secretary of State where EDP ends or is revoked
+
+(1) This section applies where a report under section 67(1)(b) or (2) (report at end or on revocation of EDP) contains an assessment that the EDP has not passed, or would be unlikely to pass, the overall improvement test (see section 67(7) and (8)).
+
+(2) The Secretary of State must take such action (“remedial action”) as the Secretary of State considers proportionate for the purpose of seeking to materially outweigh the negative effect on the conservation status of the identified environmental feature that is (or is likely to be) caused by the environmental impact (as identified in the EDP in accordance with section 61(1)(b)) of any development in respect of which a developer has paid or will pay the nature restoration levy.
+
+(3) In deciding whether remedial action is proportionate, the Secretary of State must take into account—
+
+(a) the extent of the negative effect on the conservation status of the identified environmental feature,
+
+(b) the extent to which the remedial action would remedy that negative effect, and
+
+(c) the cost of the remedial action.
+
+(4) Remedial action may include—
+
+(a) taking (or continuing to take) any conservation measures included in the EDP, or directing another public authority to take (or continue to take) such measures;
+
+(b) taking, or directing another public authority to take, any other measures to improve the conservation status of the identified environmental feature.
+
+(5) The Secretary of State must, before the end of the period of six months beginning with the date on which the report mentioned in subsection (1) is published, publish a statement setting out—
+
+(a) the remedial action that the Secretary of State intends to take, and
+
+(b) the effect that the remedial action is expected to have on the identified environmental feature.
+
+(6) The Secretary of State must, before the end of the period of two years beginning with the date on which the statement mentioned in subsection (5) is published, publish a report setting out—
+
+(a) the extent to which the remedial action has remedied the negative effect mentioned in subsection (2), and
+
+(b) whether the remedial action has had its expected effect, as set out in the statement under subsection (5)(b).
+
+(7) If any measures taken by way of remedial action have not been fully implemented by the time the report mentioned in subsection (6) is published—
+
+(a) that report must set out when the measures are expected to be fully implemented, and
+
+(b) the Secretary of State must publish a further report, containing the information required under subsection (6)(a) and (b), before the end of the period of six months beginning with the day on which the measures are fully implemented.
+
+#### 71 Challenging an EDP
+
+(1) A court may entertain proceedings for questioning an EDP or anything done, or omitted to be done, by the Secretary of State or Natural England in the course of preparing an EDP only if—
+
+(a) the proceedings are brought by a claim for judicial review, and
+
+(b) the claim form is filed during the period of six weeks beginning with the day on which the EDP is published (see section 66).
+
+(2) A court may entertain proceedings for questioning a decision of the Secretary of State not to make an EDP only if—
+
+(a) the proceedings are brought by a claim for judicial review, and
+
+(b) the claim form is filed before the end of the period of six weeks beginning with the day on which the notice of the decision not to make the EDP is published (see section 65(7)).
+
+(3) A court may entertain proceedings for questioning an amendment to an EDP only if—
+
+(a) the proceedings are brought by a claim for judicial review, and
+
+(b) the claim form is filed before the end of the period of six weeks beginning with the day on which the amended EDP is published (see section 68(9)).
+
+(4) A court may entertain proceedings for questioning a decision of the Secretary of State not to make an amendment to an EDP only if—
+
+(a) the proceedings are brought by a claim for judicial review, and
+
+(b) the claim form is filed before the end of the period of six weeks beginning with either—
+
+(i) in the case of a refusal to amend an EDP on the request of Natural England, the day on which the notice of the decision not to make the amendment is published (see section 68(7)), or
+
+(ii) in any other case, the earlier of the day on which Secretary of State publishes a notice of the decision not to amend the EDP that sets out reasons for the decision and the day on which the person bringing the proceedings had notice of that decision and those reasons.
+
+(5) A court may entertain proceedings for questioning a revocation of an EDP only if—
+
+(a) the proceedings are brought by a claim for judicial review, and
+
+(b) the claim form is filed before the end of the period of six weeks beginning with the day on which the notice of revocation is published (see section 69(5)).
+
+(6) A court may entertain proceedings for questioning a refusal by the Secretary of State to revoke an EDP only if—
+
+(a) the proceedings are brought by a claim for judicial review, and
+
+(b) the claim form is filed before the end of the period of six weeks beginning with either—
+
+(i) in the case of a refusal to revoke an EDP on the request of Natural England, the day on which the notice of the decision not to revoke the EDP is published (see section 69(3)), or
+
+(ii) in any other case, the earlier of the day on which Secretary of State publishes a notice of the decision not to revoke the EDP that sets out reasons for the decision and the day on which the person bringing the proceedings had notice of that decision and those reasons.
+
+### The nature restoration levy
+
+#### 72 Commitment to pay the nature restoration levy
+
+(1) A developer may make a request in writing to Natural England to pay the nature restoration levy in relation to a development to which an EDP applies.
+
+(2) If a development to which a request relates has already commenced, Natural England must have regard to any guidance issued by the Secretary of State in deciding whether to accept the request.
+
+(3) If Natural England accepts the request, the developer is committed to pay the nature restoration levy (see also section 74(4)).
+
+(4) Schedule 3 sets out how a commitment by a developer to pay the nature restoration levy in relation to a development results in—
+
+(a) an environmental impact of development on a protected feature of a protected site being disregarded for the purposes of obligations under the Habitats Regulations 2017, the Wildlife and Countryside Act 1981 or the Marine and Coastal Access Act 2009;
+
+(b) a developer being treated as having been granted a licence under regulation 55 of the Habitats Regulations 2017, section 16 of the Wildlife and Countryside Act 1981 or section 10 of the Protection of Badgers Act 1992.
+
+(5) An EDP may provide, in relation to a kind of development and kind of environmental impact on an identified environmental feature, that payment of the levy is mandatory, and if it does so—
+
+(a) in a case where the feature is a protected feature of a European site or a Ramsar site, the developer does not have the option of ensuring that any actions relating to the development comply with Part 6 of the Habitats Regulations instead of paying the levy;
+
+(b) in a case where the feature is a protected feature of an SSSI, the developer does not have the option of—
+
+(i) getting Natural England’s consent under section 28E of the Wildlife and Countryside Act 1981 for operations mentioned in that section, to the extent that the operations have that kind of environmental impact on the identified environmental feature, or
+
+(ii) ensuring that any actions relating to the development comply with section 28H or 28I of that Act,
+
+instead of paying the levy;
+
+(c) in a case where the feature is a protected feature of a marine conservation zone, the developer does not have the option of satisfying the public authority determining an application relating to the development of the matters mentioned in section 126(6) or (7) of the Marine and Coastal Access Act 2009 instead of paying the levy;
+
+(d) in a case where the feature is a protected species, the developer does not have the option of applying for a licence directly under regulation 55 of the Habitats Regulations 2017, section 16 of the Wildlife and Countryside Act 1981 or section 10 of the Protection of Badgers Act 1992 (as the case may be) instead of paying the levy.
+
+(6) If an EDP makes provision as mentioned in subsection (5), it must set out the reasons why Natural England considers that to be necessary.
+
+#### 73 Regulations about the nature restoration levy
+
+(1) The Secretary of State may make regulations about the nature restoration levy (“nature restoration levy regulations”).
+
+(2) In making the regulations, the Secretary of State must aim to ensure that the overall purpose of the nature restoration levy is to ensure that costs incurred in maintaining or improving the conservation status of environmental features can be funded (wholly or partly) by developers in a way that does not make development economically unviable.
+
+#### 74 Liability to pay the levy
+
+(1) Nature restoration levy regulations may make provision about liability to pay the nature restoration levy in relation to a development, including—
+
+(a) who is liable to pay the levy, and
+
+(b) when liability to pay arises.
+
+(2) The regulations may in particular include provision about the assumption of liability to pay the levy, such as—
+
+(a) how and when a person may assume liability;
+
+(b) withdrawal of assumption of liability;
+
+(c) cancellation of assumption of liability by Natural England.
+
+(3) The regulations may also include provision—
+
+(a) imposing liability to pay the nature restoration levy in relation to a development—
+
+(i) where no person has assumed liability,
+
+(ii) where an assumption of liability has been withdrawn or cancelled, or
+
+(iii) in other specified circumstances (such as the insolvency or withdrawal of a person who has assumed liability);
+
+(b) about joint, several and partial liability and the liability of partnerships;
+
+(c) about the apportionment of liability, which may—
+
+(i) include provision for referral to a specified person or body for determination, and
+
+(ii) include provision for appeals;
+
+(d) about the transfer of liability.
+
+(4) The regulations may also make provision for Natural England to be permitted, or required, to rescind its acceptance of a request by a developer to pay the levy (see section 72(1)) in circumstances specified in the regulations, such that the developer ceases to be committed to pay the nature restoration levy.
+
+#### 75 Amount of the levy
+
+(1) When considering the rates or other criteria to be set out in a charging schedule (see section 62(1)) in the course of preparing an EDP, Natural England must have regard, to the extent and in the manner specified by nature restoration levy regulations, to—
+
+(a) the actual and expected costs of the conservation measures relating to the environmental impact of development on the environmental feature to which the charging schedule relates;
+
+(b) matters specified in the regulations relating to the economic viability of development (which may include, in particular, actual or potential economic effects of the grant of a consent for development or the imposition of the levy);
+
+(c) other actual or expected sources of funding for those conservation measures.
+
+(2) Nature restoration levy regulations may make other provision about rates or other criteria.
+
+(3) The regulations may, in particular, permit or require Natural England—
+
+(a) to have regard, to the extent and in the manner specified by the regulations, to actual or expected administrative expenses in connection with an EDP;
+
+(b) to have regard, to the extent and in the manner specified by the regulations, to values used or documents produced for other statutory purposes;
+
+(c) to integrate the process, to the extent and in the manner specified by the regulations, with processes undertaken for other statutory purposes;
+
+(d) to produce charging schedules having effect in relation to specified periods (subject to revision).
+
+(4) The regulations may permit or require charging schedules to adopt specified methods of calculation.
+
+(5) In particular, the regulations may—
+
+(a) permit or require charging schedules to operate by reference to descriptions or purposes of development;
+
+(b) permit or require charging schedules to operate by reference to any measurement of the amount or nature of development (whether by reference to measurements of floor space, to numbers or intended uses of buildings or of units within buildings, to allocation of space within buildings or units, to values or expected values or in any other way);
+
+(c) permit or require charging schedules to operate by reference to the nature or existing use of the place where development is undertaken;
+
+(d) permit or require charging schedules to operate by reference to an index used for determining a rate of inflation;
+
+(e) permit or require charging schedules to operate by reference to values used or documents produced for other statutory purposes;
+
+(f) provide, or permit or require provision, for differential rates, which may include provision for supplementary charges, a nil rate, increased rates or reductions.
+
+(6) The regulations may require Natural England to provide in specified circumstances an estimate of the amount of the nature restoration levy chargeable in respect of development of land.
+
+#### 76 Appeals
+
+(1) Nature restoration levy regulations must provide for a right of appeal on a question of fact in relation to the calculation of the amount of the levy payable by a developer.
+
+(2) Regulations under this section or section 74(3)(c)(ii) may, in particular, make provision about—
+
+(a) who may make an appeal,
+
+(b) the court, tribunal or other person who is to determine an appeal,
+
+(c) the period within which the right of appeal may be exercised,
+
+(d) the procedure on an appeal, and
+
+(e) the payment of fees, and award of costs, in relation to an appeal.
+
+(3) In any proceedings for judicial review of a decision on an appeal, the defendant is to be such person as is specified in the regulations (and the regulations may also specify a person who is not to be the defendant for these purposes).
+
+#### 77 Use of nature restoration levy
+
+(1) Nature restoration levy regulations must require Natural England to spend money received by virtue of the nature restoration levy on conservation measures that relate to the environmental feature in relation to which the levy is charged (see section 62(2)).
+
+(2) The regulations may specify—
+
+(a) conservation measures that may be, or may not be, funded by the nature restoration levy;
+
+(b) maintenance and operational activities in connection with conservation measures that may be, or may not be, funded by the levy;
+
+(c) what is to be, or not to be, treated as funding.
+
+(3) The regulations may—
+
+(a) require Natural England to prepare and publish a list of conservation measures that are to be, or may be, wholly or partly funded by the nature restoration levy;
+
+(b) include provision about the procedure to be followed in preparing a list (which may include provision for consultation, for the appointment of an independent person or a combination);
+
+(c) include provision about the circumstances in which Natural England may and may not spend money received by virtue of the nature restoration levy on anything not included on the list.
+
+(4) In making provision about funding, the regulations may, in particular—
+
+(a) permit money received by virtue of the nature restoration levy to be used to reimburse expenditure already incurred;
+
+(b) permit such money to be reserved for expenditure that may be incurred in the future;
+
+(c) permit such money to be used (either generally or subject to limits set by or determined in accordance with the regulations) for administrative expenses in connection with an EDP;
+
+(d) make provision for funding to extend beyond the EDP end date;
+
+(e) make provision for the giving of loans, guarantees or indemnities;
+
+(f) make provision about the use of money received by virtue of the nature restoration levy where anything for which it was to be used no longer requires funding;
+
+(g) make provision about the use of money received by virtue of the nature restoration levy in a case where the EDP under which the levy was paid is revoked.
+
+(5) The regulations may—
+
+(a) require Natural England to account separately, and in accordance with the regulations, for any money received or due by virtue of the nature restoration levy;
+
+(b) require Natural England to monitor the use made and to be made of such money;
+
+(c) require Natural England to report on actual or expected charging, collection and use of money received by virtue of the nature restoration levy;
+
+(d) permit or require Natural England to pass money to another public authority (and in paragraphs (a) to (c) a reference to Natural England includes a reference to a person to whom Natural England passes money in reliance on this paragraph).
+
+#### 78 Collection of nature restoration levy
+
+(1) Nature restoration levy regulations must include provision about the collection of the nature restoration levy.
+
+(2) The regulations may make provision for payment of the levy—
+
+(a) on account;
+
+(b) by instalments.
+
+(3) The regulations may make provision about refunds (with or without interest) in cases of overpayment.
+
+(4) The regulations may make provision requiring, or deeming, the imposition of conditions of development for the purpose of securing the collection of the nature restoration levy (including conditions of development that require the payment of the nature restoration levy before development begins or that require development to cease where the nature restoration levy that is payable has not been paid).
+
+(5) The regulations may make provision about the treatment of payments of the nature restoration levy where there is a change to the development which affects the basis on which the levy is charged (including provision for payments that have been made in relation to a development to discharge liability for the nature restoration levy in respect of other development).
+
+(6) The regulations may make provision about payment in forms other than money (such as making land available, carrying out works or providing services).
+
+(7) The regulations may permit or require a public authority to collect any nature restoration levy charged by Natural England; and section 77(5)(a) and (c) apply to a collecting authority in respect of collection as they apply to Natural England.
+
+(8) Regulations under this section may—
+
+(a) replicate or apply (with or without modifications) any enactment relating to the collection of a tax;
+
+(b) confer a discretion on Natural England or a collecting authority to determine any matter.
+
+#### 79 Enforcement
+
+(1) Nature restoration levy regulations must include provision about enforcement of the nature restoration levy.
+
+(2) The regulations must make provision about the consequences of late payment and failure to pay.
+
+(3) The regulations may make provision about the consequences of failure to assume liability, to give a notice or to comply with another procedure under nature restoration levy regulations.
+
+(4) The regulations may, in particular, include provision—
+
+(a) for the payment of interest;
+
+(b) for the imposition of a penalty or surcharge;
+
+(c) conferring a power of entry onto land;
+
+(d) requiring the provision of information;
+
+(e) creating a criminal offence (including, in particular, an offence relating to evasion or attempted evasion or to the provision of false or misleading information or failure to provide information);
+
+(f) conferring power to prosecute an offence;
+
+(g) for enforcement of sums owed (whether by action on a debt, by distraint against goods or in any other way);
+
+(h) conferring jurisdiction on a court to grant injunctive or other relief to enforce a provision of the regulations (including a provision included in reliance on this section);
+
+(i) for enforcement in the case of death or insolvency of a person liable to pay the nature restoration levy.
+
+(5) Nature restoration levy regulations may include provision (whether or not in the context of late payment or failure to pay) about registration or notification of actual or potential liability to pay the levy; and the regulations may include provision—
+
+(a) for the creation of local land charges;
+
+(b) for the registration of local land charges;
+
+(c) for enforcement of local land charges (including, in particular, for enforcement—
+
+(i) against successive owners, and
+
+(ii) by way of sale or other disposal with consent of a court);
+
+(d) for making entries in statutory registers;
+
+(e) for the cancellation of charges and entries.
+
+(6) Regulations under this section may—
+
+(a) replicate or apply (with or without modifications) any enactment relating to the enforcement of a tax;
+
+(b) provide for appeals.
+
+(7) Regulations under this section may provide that any interest, penalty or surcharge payable by virtue of the regulations is to be treated for the purposes of sections 77 to 80 as if it were an amount of nature restoration levy.
+
+(8) Regulations providing for a surcharge or penalty must ensure that the total amount of a surcharge or penalty in respect of an amount of nature restoration levy may not exceed 30% of that amount.
+
+(9) But the regulations may provide for more than one surcharge or penalty to be imposed in relation to a levy charge.
+
+(10) The regulations may not authorise entry to a private dwelling without a warrant issued by a justice of the peace.
+
+(11) Regulations under this section creating a criminal offence may not provide for—
+
+(a) imprisonment for a term exceeding the maximum term for summary offences, on summary conviction for an offence triable summarily only,
+
+(b) imprisonment for a term exceeding the general limit in a magistrates’ court, on summary conviction for an offence triable either way, or
+
+(c) imprisonment for a term exceeding 2 years, on conviction on indictment.
+
+(12) In subsection (11)(a), “the maximum term for summary offences” means—
+
+(a) in relation to an offence committed before the time when section 281(5) of the Criminal Justice Act 2003 comes into force, 6 months;
+
+(b) in relation to an offence committed after that time, 51 weeks.
+
+(13) In this Part, a reference to administrative expenses in connection with an EDP includes a reference to enforcement expenses.
+
+#### 80 Compensation
+
+(1) Nature restoration levy regulations may require Natural England or another public authority to pay compensation in respect of loss or damage suffered as a result of enforcement action.
+
+(2) In this section, “enforcement action” means action taken under regulations under section 79.
+
+(3) The regulations may provide that compensation is not required to be paid—
+
+(a) to a person who has failed to satisfy a liability to pay the nature restoration levy, or
+
+(b) in other circumstances specified by the regulations.
+
+(4) The regulations may make provision about—
+
+(a) the time and manner in which a claim for compensation is to be made, and
+
+(b) the sums, or the method of determining the sums, payable by way of compensation.
+
+(5) Nature restoration levy regulations may permit or require Natural England to apply the nature restoration levy (either generally or subject to limits set by or determined in accordance with the regulations) for expenditure incurred under this section.
+
+(6) A dispute about compensation may be referred to and determined by the Upper Tribunal.
+
+(7) In relation to the determination of any such question, the provisions of section 4 of the Land Compensation Act 1961 apply subject to any necessary modifications and to the provisions of nature restoration levy regulations.
+
+#### 81 Guidance about the nature restoration levy
+
+(1) The Secretary of State may give guidance to Natural England or another public authority about any matter connected with the nature restoration levy.
+
+(2) Natural England, or any other public authority to whom guidance is given, must have regard to the guidance.
+
+### Powers and duties: Natural England etc
+
+#### 82 Administering, implementing and monitoring EDPs
+
+(1) Natural England’s functions under this Part include—
+
+(a) administering EDPs;
+
+(b) taking conservation measures, and doing anything else that Natural England considers necessary to implement EDPs;
+
+(c) monitoring EDPs.
+
+(2) In exercise of the function under subsection (1)(b), Natural England may, among other things, develop land.
+
+(3) Natural England may pay another person to take conservation measures.
+
+(4) In monitoring an EDP, Natural England must take sufficient measures to monitor—
+
+(a) the effectiveness of the conservation measures that have been implemented, and
+
+(b) the effects of the EDP in general.
+
+(5) In deciding how to monitor an EDP, Natural England must have regard to guidance issued by the Secretary of State.
+
+#### 83 Power to enter and survey or investigate land
+
+(1) A person authorised by Natural England may enter and survey or investigate any land in connection with the exercise by Natural England of any function conferred by or under this Part.
+
+(2) The power conferred by subsection (1)—
+
+(a) must be exercised at a reasonable hour;
+
+(b) may not be exercised in relation to a private dwelling.
+
+(3) A person authorised under subsection (1) may not demand admission as of right to any land which is occupied unless notice in writing of the intended entry has been given to the occupier as follows—
+
+(a) if the land is held by a statutory undertaker, the notice must be at least 21 days;
+
+(b) in any other case, the notice must be at least 24 hours.
+
+(4) But notice under subsection (3) is not required to be given for second and subsequent entries onto the same land to carry out the same kind of surveying or investigating.
+
+(5) A person may not be authorised under subsection (1) to enter and survey or value land in connection with a proposal by Natural England to acquire an interest in or a right over land (but see section 172 of the Housing and Planning Act 2016).
+
+(6) In this section, “statutory undertaker” means a person who is, or who is deemed to be, a statutory undertaker for the purposes of any provision of Part 11 of the Town and Country Planning Act 1990.
+
+#### 84 Warrant to enter and survey or investigate land
+
+(1) This section applies if a justice of the peace is satisfied, on an application by an authorised person giving written information on oath—
+
+(a) that there are reasonable grounds for entering and surveying or investigating any land except a private dwelling in connection with the exercise by Natural England of any function conferred by or under this Part, and
+
+(b) that—
+
+(i) an authorised person has given notice as set out in section 83(3) but has been denied admission to the land or received no reply to a request for admission within a reasonable period,
+
+(ii) admission to the land is unlikely to be granted unless a warrant is produced, or
+
+(iii) it is necessary to confer a power to use force (if necessary) to achieve the purpose for which entry is sought.
+
+(2) The justice of the peace may issue a warrant conferring a power on any authorised person to enter and survey or investigate the land, if necessary using reasonable force.
+
+(3) Subject to subsection (8), a warrant may be executed in relation to land which is occupied only if notice in writing of the intended entry has been given to the occupier as follows—
+
+(a) if the land is held by a statutory undertaker, the notice must be at least 21 days;
+
+(b) in any other case, the notice must be at least 24 hours.
+
+(4) That notice must—
+
+(a) be accompanied by a copy of the warrant, or
+
+(b) if no warrant has yet been issued, state that Natural England intends to apply for a warrant.
+
+(5) A person executing or seeking to execute a warrant must produce a copy of the warrant to the occupier of the land (if present).
+
+(6) A warrant must specify the number of occasions on which the warrant confers power to enter and survey or investigate the land.
+
+(7) The number specified must be the number which the justice of the peace considers appropriate to achieve the purpose for which the warrant is required.
+
+(8) Where a warrant authorises entry onto the same land on more than one occasion, notice under subsection (3) is not required to be given for second and subsequent entries to carry out the same kind of surveying or investigating.
+
+(9) Execution of a warrant must be—
+
+(a) within the period of three months starting with the date of its issue;
+
+(b) at a reasonable hour.
+
+(10) A warrant under this section may not authorise a person to enter and survey or value land in connection with a proposal by Natural England to acquire an interest in or a right over land (but see section 172 of the Housing and Planning Act 2016).
+
+(11) In this section—
+
+- “authorised person” means a person authorised by Natural England under section 83;
+- “statutory undertaker” has the meaning given by that section.
+
+#### 85 Powers of entry: further provision
+
+(1) In this section and in sections 86 and 87, “power of entry” means a power to enter and survey or investigate land conferred by section 83 or by a warrant under section 84.
+
+(2) An authorisation of a person by Natural England to exercise a power of entry must be in writing.
+
+(3) When exercising or seeking to exercise a power of entry, a person must if asked produce evidence of the person’s authority and state the purpose of the intended entry.
+
+(4) A person exercising a power of entry may be accompanied by any person, and bring anything, required for any purpose for which the power of entry is being exercised.
+
+(5) If a person exercising a power of entry has reasonable cause to expect any obstruction in exercising the power, the person may be accompanied by a constable.
+
+(6) If in the exercise of a power of entry a person enters land which is unoccupied or from which the occupier is absent, the person must leave it as effectively secured against unauthorised entry as the person found it.
+
+(7) A person exercising a power of entry must not carry out any surveying or investigating of a kind specified in subsection (8) unless details of what is proposed were included in—
+
+(a) the notice under section 83(3) or 84(3), or
+
+(b) if the land is unoccupied, a notice given to every owner of the land that the person is able to identify after taking reasonable steps to do so.
+
+(8) The kinds of surveying or investigating referred to in subsection (7) are—
+
+(a) carrying out an aerial survey;
+
+(b) leaving apparatus on the land in question;
+
+(c) taking samples of—
+
+(i) water,
+
+(ii) air,
+
+(iii) soil or rock,
+
+(iv) flora,
+
+(v) blood, tissue or other biological material of fauna (living or dead), or
+
+(vi) any non-living thing present as a result of human action;
+
+(d) searching for flora or fauna;
+
+(e) carrying out exploratory works for purposes connected with the taking of a conservation measure.
+
+(9) A written authorisation from the Secretary of State is required before a person exercises a power of entry if—
+
+(a) the land in question is held by a statutory undertaker, and
+
+(b) the undertaker objects to anything proposed to be done in exercise of the power of entry on the ground that doing it would be seriously detrimental to the undertaker carrying on its undertaking.
+
+(10) Any such objection must be in writing and must be provided to Natural England within the period for which notice is given in relation to the intended entry under section 83(3) or 84(3).
+
+(11) In this section, “statutory undertaker” has the meaning given by section 83.
+
+#### 86 Powers of entry: compensation
+
+(1) If damage is caused to land or other property in the exercise of a power of entry, a person suffering the damage may recover compensation from Natural England.
+
+(2) Notice required to be given under section 83(3), 84(3) or 85(7)(b) must include a statement about the right to such compensation.
+
+(3) Any question of disputed compensation under subsection (1) is to be referred to and determined by the Upper Tribunal.
+
+(4) Section 4 of the Land Compensation Act 1961 (costs) applies to the determination of a question referred under subsection (3) as it applies to the determination of a question under section 1 of that Act, but as if references to the acquiring authority were references to Natural England.
+
+#### 87 Powers of entry: offences
+
+(1) A person who intentionally obstructs a person acting in exercise of a power of entry commits an offence.
+
+(2) A person who commits an offence under subsection (1) is liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+(3) A person commits an offence if the person discloses confidential information, obtained in the exercise of a power of entry, for purposes other than those for which the power was exercised.
+
+(4) A person who commits an offence under subsection (3) is liable—
+
+(a) on summary conviction, to a fine;
+
+(b) on conviction on indictment, to imprisonment for a term not exceeding 2 years or a fine, or both.
+
+(5) In subsection (3), “confidential information” means information—
+
+(a) which constitutes a trade secret, or
+
+(b) the disclosure of which would or would be likely to prejudice the commercial interests of any person.
+
+#### 88 Remedial action: powers of Secretary of State etc to enter and survey or investigate land
+
+(1) A person authorised by a relevant authority may enter and survey or investigate any land for remedial action purposes.
+
+(2) Subsection (3) applies if a justice of the peace is satisfied, on an application by a person authorised by a relevant authority giving written information on oath—
+
+(a) that there are reasonable grounds for entering and surveying or investigating any land except a private dwelling for remedial action purposes, and
+
+(b) that a condition specified in section 84(1)(b)(i), (ii) or (iii) is met (reading the reference to an authorised person in subsection (1)(b)(i) as a reference to a person authorised by the relevant authority).
+
+(3) The justice of the peace may issue a warrant conferring a power on any person authorised by the relevant authority to enter and survey or investigate the land, if necessary using reasonable force.
+
+(4) The following provisions apply in relation to the exercise of the powers conferred by or under subsections (1) and (3) on a person authorised by the relevant authority as they apply in relation to the exercise of the powers conferred by or under sections 83 and 84 on a person authorised by Natural England, reading references in the applied provisions to Natural England as references to the relevant authority—
+
+(a) section 83(2) to (6) (notice requirement etc);
+
+(b) section 84(3) to (10) and the definition of “statutory undertaker” in subsection (11) of that section (requirements for execution of warrant);
+
+(c) section 85(1) to (8) (further provision about powers of entry);
+
+(d) section 86 (compensation);
+
+(e) section 87 (offences).
+
+(5) Subsections (9) to (11) of section 85 (land held by statutory undertakers) apply in relation to the exercise of the powers conferred by or under subsections (1) and (3) by a person authorised by an authority within subsection (7)(b)as they apply in relation to the exercise of the powers conferred by or under sections 83 and 84 on a person authorised by Natural England, reading the reference in the applied provisions to Natural England as a reference to the authority within subsection (7)(b).
+
+(6) In this section “remedial action purposes” means purposes connected with the taking by the Secretary of State or another public authority of—
+
+(a) a conservation measure as mentioned in section 70(4)(a), or
+
+(b) any other measure to improve the conservation status of an identified environmental feature as mentioned in section 70(4)(b).
+
+(7) In this section “relevant authority” means—
+
+(a) the Secretary of State, or
+
+(b) a public authority to which the Secretary of State has given a direction under section 70(4)(a) or (b).
+
+#### 89 Compulsory purchase powers: Natural England
+
+(1) Natural England may acquire land compulsorily if the Secretary of State authorises it to do so.
+
+(2) The power under subsection (1) may be exercised in relation to land only if Natural England requires the land for purposes connected with the taking of a conservation measure.
+
+(3) The power under subsection (1) includes power to acquire new rights over land.
+
+(4) Subsection (5) applies where—
+
+(a) land or new rights over land are being acquired compulsorily under subsection (1), and
+
+(b) any of the land which is being acquired, or over which new rights are being acquired, is land which has been acquired by statutory undertakers for the purposes of their undertaking.
+
+(5) The power under subsection (1) includes power to acquire land compulsorily for giving in replacement for the land or (as the case may be) new rights mentioned in subsection (4)(b).
+
+(6) Subsection (7) applies where—
+
+(a) land or new rights over land are being acquired compulsorily under subsection (1), and
+
+(b) any of the land which is being acquired, or over which new rights are being acquired, is or forms part of a common, open space or allotment.
+
+(7) The power under subsection (1) includes power to acquire land compulsorily for giving in exchange for the land or (as the case may be) new rights mentioned in subsection (6)(b).
+
+(8) Schedule 4 makes further provision in relation to compulsory acquisition by Natural England under this section.
+
+(9) In this section—
+
+- “allotment” means a fuel or field garden allotment;
+
+- “common” has the same meaning as in section 19 of the Acquisition of Land Act 1981;
+
+- “open space” means any land which is—
+
+  - laid out as a public garden,
+  - used for the purposes of public recreation, or
+  - a disused burial ground;
+
+- “statutory undertakers” has the same meaning as in section 16 of the Acquisition of Land Act 1981.
+
+#### 90 Compulsory purchase powers: Secretary of State
+
+(1) The Secretary of State may acquire land compulsorily if the Secretary of State requires the land for remedial action purposes.
+
+(2) In subsection (1), “remedial action purposes” means purposes connected with the taking by the Secretary of State or another public authority of—
+
+(a) a conservation measure as mentioned in section 70(4)(a), or
+
+(b) any other measure to improve the conservation status of an identified environmental feature as mentioned in section 70(4)(b).
+
+(3) The provisions of section 89(3) to (9) and Schedule 4 apply in relation to (or to matters connected with) the compulsory acquisition of land by the Secretary of State under subsection (1) as they apply in relation to (or to matters connected with) the compulsory acquisition of land by Natural England under section 89(1).
+
+#### 91 Annual reports
+
+(1) Natural England must publish a report for each financial year on the exercise of its functions under this Part.
+
+(2) Each report must include—
+
+(a) a list of all EDPs in force, and details of the kinds of development and environmental obligations covered by each one;
+
+(b) a list of EDPs being prepared, and details of the kinds of development and environmental obligations proposed to be covered by each one;
+
+(c) details of any amendments to or revocations of EDPs since the previous report;
+
+(d) a summary of Natural England’s accounts in respect of the financial year in question relating to its functions under this Part, including information about—
+
+(i) the total amounts received by Natural England by virtue of the nature restoration levy in respect of that year, and
+
+(ii) the total amounts spent on conservation measures in respect of that year.
+
+(3) Natural England must have regard to guidance issued by the Secretary of State about the preparation of a report under this section.
+
+(4) Natural England must send a copy of a report under this section to the Secretary of State, and publish the report, within such period as the Secretary of State directs.
+
+(5) The Secretary of State must lay a copy of the report before Parliament.
+
+(6) In this section “financial year” means—
+
+(a) the period beginning with the day on which this Part comes into force and ending with the next 31 March, and
+
+(b) each subsequent period of 12 months ending with 31 March.
+
+### Power to designate another person to prepare EDPs etc
+
+#### 92 Power to designate person to exercise functions under this Part
+
+(1) The Secretary of State may by regulations designate another person to exercise the functions of Natural England under this Part.
+
+(2) The regulations may make provision—
+
+(a) for a designated person to replace Natural England, or
+
+(b) for Natural England or a designated person to exercise functions under this Part only in relation to an area or a kind of development specified in the regulations.
+
+(3) The regulations may confer on a designated person such functions of Natural England under Part 1 of the Natural Environment and Rural Communities Act 2006 as the Secretary of State considers necessary to enable the designated person to exercise the functions of Natural England under this Part.
+
+(4) The power to make regulations under subsection (1) includes a power to make consequential amendments to an Act (including to this Act).
+
+#### 93 Transfer schemes in connection with regulations under section 92(1)
+
+(1) The Secretary of State may, in connection with regulations made under section 92(1), make one or more schemes for the transfer of property, rights and liabilities (a “transfer scheme”) between—
+
+(a) Natural England and a designated person;
+
+(b) two or more designated persons.
+
+(2) The things that may be transferred under a transfer scheme include—
+
+(a) property, rights and liabilities that could not otherwise be transferred;
+
+(b) property acquired, and rights and liabilities arising, after the making of the scheme;
+
+(c) criminal liabilities.
+
+(3) A transfer scheme may—
+
+(a) create rights, or impose liabilities, in relation to property or rights transferred;
+
+(b) make provision about the continuing effect of things done by, on behalf of or in relation to the transferor in respect of anything transferred;
+
+(c) make provision about the continuation of things (including legal proceedings) in the process of being done by, on behalf of or in relation to the transferor in respect of anything transferred;
+
+(d) make provision for references to the transferor in an instrument or other document in respect of anything transferred to be treated as references to the transferee;
+
+(e) make provision for the shared ownership or use of property;
+
+(f) make provision which is the same as or similar to the TUPE regulations;
+
+(g) make other consequential, supplementary, incidental or transitional provision.
+
+(4) A transfer scheme may provide—
+
+(a) for modifications by agreement;
+
+(b) for modifications to have effect from the date when the original scheme came into effect.
+
+(5) For the purposes of this section—
+
+(a) references to rights and liabilities include rights and liabilities relating to a contract of employment;
+
+(b) references to the transfer of property include the grant of a lease.
+
+(6) For the purposes of subsection (5)(a)—
+
+(a) an individual who holds employment in the civil service of the State is to be treated as employed by virtue of a contract of employment, and
+
+(b) the terms of the individual’s employment in the civil service of the State are to be treated as constituting the terms of the contract of employment.
+
+(7) In this section—
+
+- “designated person” means a person designated in regulations made under section 92(1);
+- “the TUPE regulations” means the Transfer of Undertakings (Protection of Employment) Regulations 2006 (S.I. 2006/246).
+
+### Supplementary
+
+#### 94 General duties when exercising functions relating to EDPs
+
+(1) This section applies where—
+
+(a) Natural England or the Secretary of State is exercising any functions in relation to the preparation, amendment or revocation of an EDP, or
+
+(b) the Secretary of State is considering whether to take, or is taking, remedial action under section 70.
+
+(2) Natural England or the Secretary of State must take account of the best available scientific evidence.
+
+(3) Natural England or the Secretary of State must have regard to—
+
+(a) the development plan for the development area,
+
+(b) the current environmental improvement plan,
+
+(c) any Environment Act strategies, and
+
+(d) any other strategies or plans,
+
+so far as Natural England or the Secretary of State considers them to be relevant.
+
+(4) Where an EDP specifies as the development area an area that includes waters adjacent to England (see section 60(2)(b)), Natural England or the Secretary of State must also have regard to—
+
+(a) any marine plan,
+
+(b) the marine policy statement, and
+
+(c) the UK marine strategy,
+
+so far as Natural England or the Secretary of State considers them to be relevant.
+
+(5) Where an EDP includes as an identified environmental feature a protected feature of a protected site, Natural England or the Secretary of State must have regard to any conservation objectives of the site that relate to the feature, so far as Natural England or the Secretary of State considers them to be relevant.
+
+(6) Where an EDP includes as an identified environmental feature a protected species, Natural England or the Secretary of State must have regard to the need to achieve favourable conservation status for that species in their natural range.
+
+(7) Subsection (8) applies where—
+
+(a) an EDP includes as an identified environmental feature a protected feature of a protected site, and
+
+(b) the EDP includes conservation measures of the type mentioned in section 61(5) (network conservation measures).
+
+(8) Natural England or the Secretary of State must have regard to the need to protect the overall coherence of each relevant site network of which the protected site forms a part, so far as it relates to the protected feature.
+
+(9) The Secretary of State may by regulations make provision about other things that must be done by Natural England when exercising functions in relation to the preparation, amendment or revocation of an EDP.
+
+(10) In this section—
+
+- “current environmental improvement plan” has the same meaning as in Part 1 of the Environment Act 2021 (see section 8 of that Act);
+
+- “development plan” has the same meaning as in section 38 of the Planning and Compulsory Purchase Act 2004;
+
+- “Environment Act strategy” means a strategy prepared under any of the following provisions of the Environment Act 2021—
+
+  - section 104 (local nature recovery strategies);
+  - section 109 (species conservation strategies);
+  - section 110 (protected site strategies);
+
+- “marine plan” has the meaning given in section 51(3) of the Marine and Coastal Access Act 2009;
+
+- “marine policy statement” has the same meaning as in the Marine and Coastal Access Act 2009 (see section 44 of that Act);
+
+- “relevant site network” means—
+
+  - the national site network within the meaning of the Habitats Regulations 2017 (see regulation 3 of those Regulations);
+  - the national Ramsar site series within the meaning of the Habitats Regulations 2017 (see regulation 3 of those Regulations);
+  - the network referred to in section 123(2) of the Marine and Coastal Access Act 2009 (marine protected area network);
+
+- “the UK marine strategy” means the strategy developed under the Marine Strategy Regulations 2010 (S.I. 2010/1627).
+
+#### 95 Duty of co-operation
+
+(1) A public authority in England must co-operate with Natural England and give it such reasonable assistance as it requests in connection with the preparation or implementation of an EDP.
+
+(2) The things that a public authority may be required to do under the duty in subsection (1) include, in particular—
+
+(a) the provision of information to Natural England;
+
+(b) the imposition or variation of a condition of development;
+
+(c) assistance with the implementation of conservation measures.
+
+(3) A public authority must have regard to any guidance given by the Secretary of State about how the duty in subsection (1) is to be complied with.
+
+(4) Subsection (1) does not apply to—
+
+(a) a court or tribunal,
+
+(b) either House of Parliament, or
+
+(c) a person exercising a parliamentary function.
+
+(5) The duty in subsection (1) does not operate to require a disclosure or use of information that would contravene the data protection legislation (but in determining whether a disclosure or use would do so, the duty is to be taken into account).
+
+(6) In this section “data protection legislation” has the same meaning as in the Data Protection Act 2018 (see section 3 of that Act).
+
+#### 96 Amendments relating to this Part
+
+(1) In Schedule 5—
+
+(a) Part 1 amends the Habitats Regulations 2017 to provide that, for certain purposes, Ramsar sites are treated in the same way as European sites;
+
+(b) Part 2 makes amendments related to, or consequential on, provision made by this Part.
+
+(2) The Secretary of State may by regulations make amendments (including amendments to an Act or to assimilated law) that are consequential on this Part.
+
+#### 97 Regulations
+
+(1) Regulations under this Part are to be made by statutory instrument.
+
+(2) A statutory instrument containing—
+
+(a) nature restoration levy regulations,
+
+(b) regulations under section 92 (power to designate person to exercise functions of Natural England), or
+
+(c) regulations under section 96(2) (consequential amendments) which amend an Act,
+
+may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, each House of Parliament.
+
+(3) Any other statutory instrument containing regulations under this Part is subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(4) Regulations under this Part—
+
+(a) may make different provision for different purposes or areas;
+
+(b) may make transitional, transitory or saving provision;
+
+(c) may make incidental, supplementary or consequential provision.
+
+#### 98 Application to the Crown
+
+(1) This Part binds the Crown, subject as follows.
+
+(2) Regulations under this Part may (but need not) make provision binding the Crown; but—
+
+(a) no contravention of any provision of regulations under this Part is to make the Crown criminally liable;
+
+(b) regulations under this Part may not confer a power of entry over Crown land unless the regulations require a person who may exercise such a power to obtain the permission of the appropriate authority before the power is exercised.
+
+(3) Before implementing a conservation measure under an EDP that is to be taken on or may otherwise affect Crown land, Natural England must obtain the permission of the appropriate authority.
+
+(4) The power conferred by section 83 applies in relation to Crown land, but only if the person seeking entry to the land has the permission of—
+
+(a) a person appearing to the person seeking entry to be entitled to give it, or
+
+(b) the appropriate authority.
+
+(5) The power conferred by section 88(1) applies in relation to Crown land, but, except where subsection (6) applies, only if the person seeking entry to the land has the permission of—
+
+(a) a person appearing to the person seeking entry to be entitled to give it, or
+
+(b) the appropriate authority.
+
+(6) This subsection applies if—
+
+(a) the person seeking to exercise that power is a person authorised by the Secretary of State, and
+
+(b) the appropriate authority is a government department or the Secretary of State.
+
+(7) If the appropriate authority is the occupier of the land, section 83(3) (notice requirement) does not apply in relation to the exercise of the power conferred by section 83 or 88(1).
+
+(8) The following provisions do not apply in relation to anything done by virtue of subsection (4) or (5)—
+
+(a) section 85(7) to (10) (further provision about powers of entry);
+
+(b) section 87 (offences).
+
+(9) Sections 89 and 90 (powers to acquire land compulsorily) do not apply in relation to Crown land.
+
+(10) In this section, “Crown land” and “the appropriate authority” have the same meanings as in Part 13 of the Town and Country Planning Act 1990 (see section 293 of that Act).
+
+#### 99 Interpretation
+
+In this Part—
+
+- “condition of development” means—
+
+  - a condition, limitation or other restriction that may be imposed on a grant of planning permission under Part 3 of the Town and Country Planning Act 1990,
+  - a requirement that may be included in an order granting development consent under the Planning Act 2008 (see section 120(1) and (2) of that Act),
+  - a condition that may be attached to the grant of listed building consent under the Planning (Listed Buildings and Conservation Areas) Act 1990,
+  - a condition that may be attached to a marine licence under section 71(1)(b) of the Marine and Coastal Access Act 2009, or
+  - a condition that may be attached to a harbour revision order under section 14 of the Harbours Act 1964 or a harbour empowerment order under section 16 of that Act;
+
+- “conservation measure” has the meaning given in section 61(3);
+
+- “development” has the same meaning as in the Town and Country Planning Act 1990 (see section 55 of that Act), but also includes—
+
+  - development within the meaning of the Planning Act 2008 (see section 32 of that Act),
+  - works required to be authorised under section 8 of the Planning (Listed Buildings and Conservation Areas) Act 1990, and
+  - licensable marine activities, within the meaning of Part 4 of the Marine and Coastal Access Act 2009 (see section 66 of that Act);
+
+- “development area” has the meaning given in section 60(1);
+
+- “EDP” means an environmental delivery plan;
+
+- “EDP start date” and “EDP end date” have the meanings given in section 60(7);
+
+- “environmental delivery plan” has the meaning given in section 59(1);
+
+- “environmental impact” has the meaning given in section 61(1);
+
+- “European site” has the same meaning as in the Habitats Regulations 2017 (see regulation 8);
+
+- “the Habitats Regulations 2017” means the Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012);
+
+- “identified environmental feature” means an environmental feature identified in an EDP in accordance with section 61(1);
+
+- “local planning authority” has the same meaning as in the Town and Country Planning Act 1990 (see Part 1 of that Act);
+
+- “marine conservation zone” means an area designated as such under section 116 of the Marine and Coastal Access Act 2009;
+
+- “nature restoration levy regulations” has the meaning given in section 73;
+
+- “overall improvement test” means the test set out in section 65(4);
+
+- “protected site” means—
+
+  - a European site,
+  - an SSSI,
+  - a Ramsar site, or
+  - a marine conservation zone,
+
+  and “protected feature”, in relation to a protected site, means any habitat or species, or assemblage of habitats or species, or any feature of geological, geomorphological or physiographical interest by reason of which the site is a protected site;
+
+- “protected species” means a species of animal or plant that is—
+
+  - listed in Schedule 2, 4 or 5 of the Habitats Regulations 2017, or
+  
+  - protected by—
+  
+    - Part 1 of the Wildlife and Countryside Act 1981, or
+    - the Protection of Badgers Act 1992;
+
+- “public authority” means a person who exercises functions of a public nature;
+
+- “Ramsar Convention” means the Convention on Wetlands of International Importance especially as Waterfowl Habitat signed at Ramsar on 2 February 1971, as amended by—
+
+  - the Protocol known as the Paris Protocol done at Paris on 3 December 1982, and
+  - the amendments known as the Regina Amendments adopted at the Extraordinary Conference of the Contracting Parties held at Regina, Saskatchewan, Canada, between 28 May and 3 June 1987;
+
+  but if that Convention is further amended after the passing of this Act, the references to the Ramsar Convention in this Part are to be taken after the entry into force of the further amendments as referring to that Convention as further amended (and the reference to paragraph 1 of article 2 is, if necessary, to be taken as referring to the appropriate successor provision);
+
+- “Ramsar site” means a site that has been designated under paragraph 1 of article 2 of the Ramsar Convention for inclusion in the list of wetlands of international importance referred to in that article;
+
+- “SSSI” means a site of special scientific interest within the meaning of Part 2 of the Wildlife and Countryside Act 1981;
+
+- “working day” means any day other than—
+
+  - Saturday or Sunday,
+  - Christmas Day or Good Friday, or
+  - a day which is a bank holiday in England and Wales under the Banking and Financial Dealings Act 1971.
+
+## Part 4 — Development corporations
+
+### 100 Areas for development and remit
+
+(1) The New Towns Act 1981 is amended as set out in subsections (2) and (3).
+
+(2) In section 1 (designation of areas), for subsection (3) substitute—
+
+> (3) An order under this section—
+>
+> (a) may include in the area designated as the site of the proposed new town any existing town or other centre of population;
+>
+> (b) may, in relation to a proposed new town in England—
+>
+> (i) designate separate parcels of land as the area for the site of the proposed new town;
+>
+> (ii) designate an area of land which is adjacent to an existing town or other centre of population so that the area is developed as an urban extension rather than as a wholly new town;
+>
+> and references in this Act to a new town or proposed new town are to be construed accordingly.
+
+(3) In section 3 (establishment of development corporations for new towns), after subsection (1) insert—
+
+> (1A) A single development corporation may be established for the purposes of the development of more than one new town in England if the Secretary of State considers that having a single development corporation would facilitate efficient development.
+
+(4) The Local Government, Planning and Land Act 1980 is amended as set out in subsections (5) and (6).
+
+(5) In section 134 (urban development areas), after subsection (1B) (as inserted by section 171(2) of the Levelling-up and Regeneration Act 2023) insert—
+
+> (1C) An area of land designated as an urban development area in England must include, but need not wholly consist of, an area in an existing town or centre of population.
+
+(6) In section 171 (interpretation of Part 16)—
+
+(a) the existing text becomes subsection (1);
+
+(b) after that subsection insert—
+
+> (2) In this Part as it applies in relation to England, references to the regeneration of an area are to be read as references to the regeneration or development of the area.
+
+(7) In section 201 of the Localism Act 2011 (objects and powers of Mayoral development corporations), in subsection (1) after “regeneration” insert “or development”.
+
+### 101 Relationship between different types of development corporation
+
+(1) The New Towns Act 1981 is amended as set out in subsections (2) to (5).
+
+(2) In section 1 (designation of areas), after subsection (3) insert—
+
+> (3ZA) An order under this section may designate an area of land that includes any area (the “overlap area”) that is, or forms part of, an area that has already been designated (the “previously designated area”) under—
+>
+> (a) section 1ZB(2) (designation of locally-led new town in England),
+>
+> (b) section 134(1B) of the Local Government, Planning and Land Act 1980 (designation of locally-led urban development area), or
+>
+> (c) section 197 of the Localism Act 2011 (designation of Mayoral development area).
+>
+> (3ZB) On the coming into force of an order that makes provision as mentioned in subsection (3ZA), the overlap area no longer forms part of the previously designated area.
+>
+> (3ZC) Where the Secretary of State makes an order that contains provision as mentioned in subsection (3ZA), the Secretary of State may also make regulations—
+>
+> (a) amending any order relating to the previously designated area to show the new boundaries of the area, which may reflect not only the removal of the overlap area but also any other changes that are necessary or appropriate in consequence of its removal;
+>
+> (b) providing for the transfer of functions relating to the overlap area to the development corporation established for the purposes of the new town;
+>
+> (c) where the overlap area completely covers the previously designated area, providing for the dissolution of the development corporation for the previously designated area;
+>
+> (d) making consequential, incidental, supplementary, transitional or saving provision.
+>
+> (3ZD) The Secretary of State may, in connection with regulations under subsection (3ZC), make one or more schemes for the transfer of property, rights and liabilities relating to the overlap area to the development corporation established for the purposes of the new town (see also section 9B (transfer schemes: general provisions)).
+
+(3) In section 1ZA (local authority proposal for designation of locally-led new town in England, as inserted by section 172(2) of the Levelling-up and Regeneration Act 2023), after subsection (1) insert—
+
+> (1A) A proposal area must not include any area of land that is, or forms part of, an area that is designated under—
+>
+> (a) section 1 (designation of new town area by Secretary of State),
+>
+> (b) section 134(1) of the Local Government, Planning and Land Act 1980 (designation of urban development area by Secretary of State), or
+>
+> (c) section 197 of the Localism Act 2011 (designation of Mayoral development area).
+>
+> (See also section 1(3ZB) and (3ZC), section 197(2B) and (2C) of the Localism Act 2011 and section 134(1E) and (1F) of the Local Government, Planning and Land Act 1980.)
+
+(4) In section 1ZB (designation of locally-led new town in England, as inserted by section 172(2) of the Levelling-up and Regeneration Act 2023), in subsection (2)—
+
+(a) for “may” substitute “must”;
+
+(b) omit from “if” to the end.
+
+(5) In section 77 (regulations and orders)—
+
+(a) in subsection (2A), after “section” insert “1(3ZC) or”;
+
+(b) in subsection (3C), after “order” insert “or regulations”.
+
+(6) The Localism Act 2011 is amended as set out in subsections (7) to (9).
+
+(7) In section 197 (designation of Mayoral development areas)—
+
+(a) in subsection (1), for “any” substitute “an”;
+
+(b) after subsection (2) insert—
+
+> (2A) An area of land designated under subsection (1)—
+>
+> (a) may include any area (the “overlap area”) that is, or forms part of, an area of land that has already been designated (the “previously designated area”) under—
+>
+> (i) section 1ZB(2) of the New Towns Act 1981 (designation of locally-led new town in England), or
+>
+> (ii) section 134(1B) of the Local Government, Planning and Land Act 1980 (designation of locally-led urban development area);
+>
+> (b) may not include any area that is, or forms part of, an area that is designated under—
+>
+> (i) section 1 of the New Towns Act 1981 (designation of new town area by Secretary of State), or
+>
+> (ii) section 134(1) of the Local Government, Planning and Land Act 1980 (designation of urban development area by Secretary of State).
+>
+> (See also section 1(3ZB) and (3ZC) of the New Towns Act 1981 and section 134(1E) and (1F) of the Local Government, Planning and Land Act 1980.)
+>
+> (2B) Where the Mayor designates an area as mentioned in subsection (2A)(a), the Secretary of State must make regulations providing that the overlap area no longer forms part of the previously designated area.
+>
+> (2C) The regulations may also—
+>
+> (a) amend any order relating to the previously designated area to show the new boundaries of the area, which may reflect not only the removal of the overlap area but also any other changes that are necessary or appropriate in consequence of its removal;
+>
+> (b) provide for the transfer of functions relating to the overlap area to the development corporation established for the purposes of the Mayoral development area;
+>
+> (c) where the overlap area completely covers the previously designated area, provide for the dissolution of the development corporation for the previously designated area.
+>
+> (2D) The Secretary of State may, in connection with regulations under this section, make one or more schemes for the transfer of property, rights and liabilities relating to the overlap area to the development corporation established for the purposes of the Mayoral development area (see also section 218 (transfer schemes: general provisions)).
+
+(8) In section 218 (transfer schemes: general provisions), in the definition of “transfer scheme” in subsection (1), after “section” insert “197(2D),”.
+
+(9) In section 235 (orders and regulations)—
+
+(a) in subsection (7), after paragraph (j) insert—
+
+> (ja) regulations under section 197;
+
+;
+
+(b) in subsection (14), after “52” insert “or regulations under section 197”.
+
+(10) The Local Government, Planning and Land Act 1980 is amended as set out in subsections (11) to (13).
+
+(11) In section 134 (urban development areas)—
+
+(a) in subsection (1B) (as inserted by section 171(2) of the Levelling-up and Regeneration Act 2023)—
+
+(i) in the words before paragraph (a), for “may” substitute “must”;
+
+(ii) omit paragraph (b) (and the “and” immediately before it);
+
+(b) after subsection (1C) (inserted by section 100) insert—
+
+> (1D) An order under subsection (1) may designate any area of land that includes an area (the “overlap area”) that is, or forms part of, an area that has already been designated (the “previously designated area”) under—
+>
+> (a) subsection (1B) (designation of locally-led urban development area),
+>
+> (b) section 1ZB(2) of the New Towns Act 1981 (designation of locally-led new town in England), or
+>
+> (c) section 197 of the Localism Act 2011 (designation of Mayoral development area).
+>
+> (1E) On the coming into force of an order that makes provision as mentioned in subsection (1D), the overlap area no longer forms part of the previously designated area.
+>
+> (1F) Where the Secretary of State makes an order that contains provision as mentioned in subsection (1D), the Secretary of State may also by regulations made by statutory instrument—
+>
+> (a) amend any order relating to the previously designated area to show the new boundaries of the area, which may reflect not only the removal of the overlap area but also any other changes that are necessary or appropriate in consequence of its removal;
+>
+> (b) provide for the transfer of functions relating to the overlap area to the development corporation established for the purposes of the urban development area;
+>
+> (c) where the overlap area completely covers the previously designated area, provide for the dissolution of the development corporation for the previously designated area;
+>
+> (d) make consequential, incidental, supplementary, transitional or saving provision.
+>
+> (1G) The Secretary of State may, in connection with regulations under subsection (1F), make one or more schemes for the transfer of property, rights and liabilities relating to the overlap area to the development corporation established for the purposes of the urban development area (see also section 140B (transfer schemes: general provisions)).
+
+;
+
+(c) in subsection (4), after “(1B)” insert “or regulations made by the Secretary of State under subsection (1F)”;
+
+(d) in subsection (4A), after “(1B)” insert “or regulations made by the Secretary of State under subsection (1F)”.
+
+(12) In section 134A (local authority proposal for designation of locally-led urban development area in England, as inserted by section 171(3) of the Levelling-up and Regeneration Act 2023), after subsection (1) insert—
+
+> (1A) A proposal area must not include any area of land that is, or forms part of, an area that is designated under—
+>
+> (a) section 134(1) (designation of urban development area by Secretary of State),
+>
+> (b) section 1 of the New Towns Act 1981 (designation of new town area by Secretary of State), or
+>
+> (c) section 197 of the Localism Act 2011 (designation of Mayoral development area).
+>
+> (See also section 134(1E) and (1F), section 1(3ZB) and (3ZC) of the New Towns Act 1981 and section 197(2B) and (2C) of the Localism Act 2011.)
+
+(13) In section 171 (interpretation), in the definition of “urban development area”, after “it” insert “by virtue of subsection (1E) of that section or”.
+
+### 102 Duties to have regard to sustainable development and climate change
+
+(1) In section 4 of the New Towns Act 1981 (objects and general powers of development corporations), in subsection (1A), for “the achievement of sustainable development” substitute
+
+> —
+>
+> (a) the achievement of sustainable development, and
+>
+> (b) the mitigation of, and adaptation to, climate change.
+
+(2) In section 136 of the Local Government, Planning and Land Act 1980 (objects and general powers of urban development corporations), after subsection (1) insert—
+
+> (1A) In pursuing that object, an urban development corporation that is established for the purposes of regenerating or developing an urban development area in England must aim to contribute to—
+>
+> (a) the achievement of sustainable development, and
+>
+> (b) the mitigation of, and adaptation to, climate change.
+>
+> (1B) For the purposes of subsection (1A) an urban development corporation must (in particular) have regard to the desirability of good design.
+
+(3) In section 201 of the Localism Act 2011 (objects and powers of Mayoral development corporations), after subsection (1) insert—
+
+> (1A) In pursuing that object, an MDC must aim to contribute to—
+>
+> (a) the achievement of sustainable development, and
+>
+> (b) the mitigation of, and adaptation to, climate change.
+>
+> (1B) For the purposes of subsection (1A), an MDC must (in particular) have regard to the desirability of good design.
+
+### 103 Powers in relation to infrastructure
+
+(1) The New Towns Act 1981 is amended as set out in subsections (2) to (5).
+
+(2) In section 4 (objects and general powers of development corporations)—
+
+(a) after subsection (1B) insert—
+
+> (1C) To secure such laying out and development every development corporation established for the purposes of a new town in England has the power (subject to section 5)—
+>
+> (a) to acquire, hold, manage and dispose of land and other property,
+>
+> (b) to carry out building and other operations,
+>
+> (c) to carry on any business or undertaking in or for the purposes of the new town,
+>
+> and generally to do anything necessary or expedient for the purposes or incidental purposes of the new town. (See also section 4A (powers in relation to infrastructure).)
+
+;
+
+(b) in subsection (2), in the words before paragraph (a), after “corporation” insert “established for the purposes of a new town in Wales”;
+
+(c) in subsection (3)—
+
+(i) in the words before paragraph (a), for “subsection (2)” substitute “subsections (1C) and (2)”;
+
+(ii) in paragraph (a), for “that subsection” substitute “those subsections”;
+
+(iii) in paragraph (b), for “that subsection” substitute “those subsections”;
+
+(d) in subsection (5)(b), after “subsection” insert “(1C) or”.
+
+(3) After section 4 insert—
+
+> **4A Powers in relation to infrastructure: England**
+>
+> (1) A development corporation established for the purposes of a new town in England may, to secure the laying out and development referred to in section 4(1), provide or facilitate the provision of infrastructure.
+>
+> (2) In this section “provide” includes provide by way of acquisition, construction, conversion, improvement or repair (and “provision” is to be read in the same way).
+>
+> (3) In this section “infrastructure” means—
+>
+> (a) water, electricity, gas, telecommunications, sewerage or other services, including heat networks,
+>
+> (b) roads or other transport facilities,
+>
+> (c) retail or other business facilities,
+>
+> (d) health, educational, employment or training facilities,
+>
+> (e) social, religious or recreational facilities,
+>
+> (f) cremation or burial facilities, and
+>
+> (g) community facilities not falling within paragraphs (a) to (f).
+>
+> (4) Section 4(5) applies in relation to subsection (1) as it applies in relation to section 4(2).
+
+(4) In section 5 (restriction on powers of development corporations), in subsection (5)—
+
+(a) in paragraph (a), after “services” insert “or heat networks”;
+
+(b) in paragraph (b), at the beginning insert “in the case of a development corporation established for the purposes of a new town in Wales,”;
+
+(c) in the words after paragraph (b), after “undertaking” insert “in Wales”.
+
+(5) In section 80(1) (defined terms), at the appropriate place insert—
+
+> - “heat networks” has the meaning given by section 216 of the Energy Act 2023;
+
+.
+
+(6) The Local Government, Planning and Land Act 1980 is amended as set out in subsections (7) to (9).
+
+(7) In section 136 (objects and general powers)—
+
+(a) after subsection (2) insert—
+
+> (2A) Subject to sections 137 and 138, for the purpose of achieving the object an urban development corporation established for the purposes of an urban development area in England may—
+>
+> (a) acquire, hold, manage, reclaim and dispose of land and other property;
+>
+> (b) carry out building and other operations;
+>
+> (c) carry on any business or undertaking for the purposes of the object; and
+>
+> (d) generally do anything necessary or expedient for the purposes of the object or for purposes incidental to those purposes.
+>
+> (See also section 136A (powers in relation to infrastructure).)
+>
+> (2B) But nothing in this Part authorises an urban development corporation established for the purposes of an urban development area in England to carry on any business or undertaking for—
+>
+> (a) the supply of water, electricity or gas, or
+>
+> (b) the provision of sewerage services or heat networks.
+
+;
+
+(b) in subsection (3), in the words before paragraph (a), after “corporation” insert “established for the purposes of an urban development area in Wales”;
+
+(c) in subsection (4), for after “subsection” insert “(2A) or”;
+
+(d) in subsection (7), for “subsection (3)” substitute “subsection (2A) or (3)”.
+
+(8) After section 136 insert—
+
+> **136A Powers in relation to infrastructure: England**
+>
+> (1) An urban development corporation established for the purposes of an urban development area in England may, for the purpose of achieving the object in section 136(1), provide or facilitate the provision of infrastructure.
+>
+> (2) In this section “provide” includes provide by way of acquisition, construction, conversion, improvement or repair (and “provision” is to be read in the same way).
+>
+> (3) In this section “infrastructure” means—
+>
+> (a) water, electricity, gas, telecommunications, sewerage or other services, including heat networks,
+>
+> (b) roads or other transport facilities,
+>
+> (c) retail or other business facilities,
+>
+> (d) health, educational, employment or training facilities,
+>
+> (e) social, religious or recreational facilities,
+>
+> (f) cremation or burial facilities, and
+>
+> (g) community facilities not falling within paragraphs (a) to (f).
+>
+> (4) Section 136(7) applies in relation to subsection (1) as it applies in relation to section 136(3).
+
+(9) In section 171 (interpretation), at the appropriate place insert—
+
+> - “heat networks” has the meaning given by section 216 of the Energy Act 2023;
+
+.
+
+(10) The Localism Act 2011 is amended as follows.
+
+(11) In section 205(4) (powers of Mayoral development corporations in relation to infrastructure), at the end of paragraph (a) insert “including heat networks within the meaning of section 216 of the Energy Act 2023,”.
+
+(12) In section 212 (power of Mayoral development corporations to carry on businesses or undertakings)—
+
+(a) after subsection (1) insert—
+
+> (1A) This section does not authorise an MDC to carry on a business for—
+>
+> (a) the supply of water, electricity or gas, or
+>
+> (b) the provision of sewerage services or heat networks.
+
+;
+
+(b) after subsection (6) insert—
+
+> (7) In this section “heat networks” has the meaning given by section 216 of the Energy Act 2023.
+
+### 104 Exercise of transport functions and transfer schemes
+
+(1) In the New Towns Act 1981, after section 9 insert—
+
+> **Transport functions relating to new towns in England**
+>
+> **9A Exercise of transport functions**
+>
+> (1) A relevant transport authority must—
+>
+> (a) have regard to any plans published or shared with the authority by an English new town development corporation that may be relevant to the exercise of the authority’s functions, and
+>
+> (b) co-operate with an English new town development corporation in the development and implementation of the corporation’s plans.
+>
+> (2) If the Secretary of State considers that a relevant transport authority has failed to comply with the duty in subsection (1), the Secretary of State may direct the authority to exercise its functions in such a way as to comply with that duty.
+>
+> (3) If a relevant transport authority fails to comply with a direction under subsection (2), the Secretary of State may by regulations provide for any function of the transport authority that has an effect on the area of the new town for which the development corporation was established to be exercisable by the development corporation.
+>
+> (4) Regulations under subsection (3) may make provision for the function to be exercisable by the development corporation either generally or subject to such conditions or limitations as may be specified in the regulations.
+>
+> (5) Regulations under subsection (3) may make provision for the function to be exercisable by the development corporation—
+>
+> (a) instead of by the relevant transport authority,
+>
+> (b) concurrently with the relevant transport authority, or
+>
+> (c) jointly with the relevant transport authority.
+>
+> (6) Regulations under subsection (3) may—
+>
+> (a) make different provision for different purposes;
+>
+> (b) include consequential, supplementary, incidental, transitional or saving provision.
+>
+> (7) The Secretary of State may, in connection with regulations under subsection (3), make one or more schemes for the transfer of property, rights and liabilities between the corporation and the relevant transport authority to which the regulations relate (see also section 9B (transfer schemes: general provisions)).
+>
+> (8) In this section—
+>
+> - “English new town development corporation” means a new town development corporation established for the purposes of a new town in England;
+>
+> - “relevant transport authority” means any of the following for an area in England—
+>
+>   - a local transport authority within the meaning of Part 2 of the Transport Act 2000 (see section 108(4) of that Act),
+>   - a local highway authority within the meaning of the Highways Act 1980 (see section 329 of that Act), or
+>   - a local traffic authority within the meaning of the Road Traffic Regulation Act 1984 (see section 121A(5) of that Act).
+>
+> **Transfer schemes: general**
+>
+> **9B Transfer schemes under sections 1 and 9A: general provisions**
+>
+> (1) In this section “transfer scheme” means a scheme under section 1(3ZD) or 9A(7).
+>
+> (2) The things that may be transferred under a transfer scheme include—
+>
+> (a) property, rights and liabilities that could not otherwise be transferred, and
+>
+> (b) property acquired, and rights and liabilities arising, after the making of the scheme.
+>
+> (3) A transfer scheme may—
+>
+> (a) create rights, or impose liabilities, in relation to property or rights transferred;
+>
+> (b) make provision about the continuing effect of things done by, on behalf of or in relation to the transferor in respect of anything transferred;
+>
+> (c) make provision about the continuation of things (including legal proceedings) in the process of being done by, on behalf of or in relation to the transferor in respect of anything transferred;
+>
+> (d) make provision for references to the transferor in an instrument or other document in respect of anything transferred to be treated as references to the new regulator;
+>
+> (e) make provision for the shared ownership or use of property;
+>
+> (f) make provision which is the same as or similar to the TUPE regulations;
+>
+> (g) make other consequential, supplementary, incidental or transitional provision.
+>
+> (4) A transfer scheme may provide—
+>
+> (a) for modifications by agreement;
+>
+> (b) for modifications to have effect from the date when the original scheme came into effect.
+>
+> (5) In subsection (3)(f), “the TUPE regulations” means the Transfer of Undertakings (Protection of Employment) Regulations 2006 (S.I. 2006/246).
+>
+> (6) For the purposes of this section—
+>
+> (a) references to rights and liabilities include rights and liabilities relating to a contract of employment;
+>
+> (b) references to the transfer of property include the grant of a lease.
+
+(2) In the Local Government, Planning and Land Act 1980, after section 140 insert—
+
+> **Transport functions relating to urban development areas in England**
+>
+> **140A Exercise of transport functions**
+>
+> (1) A relevant transport authority must—
+>
+> (a) have regard to any plans published or shared with the authority by an English urban development corporation that may be relevant to the exercise of the authority’s functions, and
+>
+> (b) co-operate with an English urban development corporation in the development and implementation of the corporation’s plans.
+>
+> (2) If the Secretary of State considers that a relevant transport authority has failed to comply with the duty in subsection (1), the Secretary of State may direct the authority to exercise its functions in such a way as to comply with that duty.
+>
+> (3) If a relevant transport authority fails to comply with a direction under subsection (2), the Secretary of State may by regulations provide for any function of the transport authority that has an effect on the urban development area for which the urban development corporation was established to be exercisable by the development corporation.
+>
+> (4) Regulations under subsection (3) may make provision for the function to be exercisable by the development corporation either generally or subject to such conditions or limitations as may be specified in the regulations.
+>
+> (5) Regulations under subsection (3) may make provision for the function to be exercisable by the development corporation—
+>
+> (a) instead of by the relevant transport authority,
+>
+> (b) concurrently with the relevant transport authority, or
+>
+> (c) jointly with the relevant transport authority.
+>
+> (6) Regulations under subsection (3)—
+>
+> (a) are to be made by statutory instrument;
+>
+> (b) may make different provision for different purposes;
+>
+> (c) may include consequential, supplementary, incidental, transitional or saving provision.
+>
+> (7) A statutory instrument containing regulations under this section is subject to annulment in pursuance of a resolution of either House of Parliament.
+>
+> (8) The Secretary of State may, in connection with regulations under subsection (3), make one or more schemes for the transfer of property, rights and liabilities between the corporation and the relevant transport authority to which the regulations relate (see also section 140B (transfer schemes: general provisions)).
+>
+> (9) In this section—
+>
+> - “English urban development corporation” means an urban development corporation established for the purposes of an urban development area in England;
+>
+> - “relevant transport authority” means any of the following for an area in England—
+>
+>   - a local transport authority within the meaning of Part 2 of the Transport Act 2000 (see section 108(4) of that Act),
+>   - a local highway authority within the meaning of the Highways Act 1980 (see section 329 of that Act), or
+>   - a local traffic authority within the meaning of the Road Traffic Regulation Act 1984 (see section 121A(5) of that Act).
+>
+> **Transfer schemes: general**
+>
+> **140B Transfer schemes under sections 134 and 140A: general provisions**
+>
+> (1) In this section “transfer scheme” means a scheme under section 134(1G) or 140A(8).
+>
+> (2) The things that may be transferred under a transfer scheme include—
+>
+> (a) property, rights and liabilities that could not otherwise be transferred, and
+>
+> (b) property acquired, and rights and liabilities arising, after the making of the scheme.
+>
+> (3) A transfer scheme may—
+>
+> (a) create rights, or impose liabilities, in relation to property or rights transferred;
+>
+> (b) make provision about the continuing effect of things done by, on behalf of or in relation to the transferor in respect of anything transferred;
+>
+> (c) make provision about the continuation of things (including legal proceedings) in the process of being done by, on behalf of or in relation to the transferor in respect of anything transferred;
+>
+> (d) make provision for references to the transferor in an instrument or other document in respect of anything transferred to be treated as references to the new regulator;
+>
+> (e) make provision for the shared ownership or use of property;
+>
+> (f) make provision which is the same as or similar to the TUPE regulations;
+>
+> (g) make other consequential, supplementary, incidental or transitional provision.
+>
+> (4) A transfer scheme may provide—
+>
+> (a) for modifications by agreement;
+>
+> (b) for modifications to have effect from the date when the original scheme came into effect.
+>
+> (5) In subsection (3)(f), “the TUPE regulations” means the Transfer of Undertakings (Protection of Employment) Regulations 2006 (S.I. 2006/246).
+>
+> (6) For the purposes of this section—
+>
+> (a) references to rights and liabilities include rights and liabilities relating to a contract of employment;
+>
+> (b) references to the transfer of property include the grant of a lease.
+
+## Part 5 — Compulsory purchase
+
+### 105 Electronic service etc
+
+(1) In section 6 of the Acquisition of Land Act 1981 (service of documents), at the end insert—
+
+> (5) Any notice or other document required or authorised to be served on a person under this Act may be served by sending it to an email address or uploading it to a website at which the person has agreed in writing to receive notices or documents for the purposes of the compulsory purchase order to which the notice or document relates.
+>
+> (6) Any notice or other document required or authorised to be served under this Act on—
+>
+> (a) an acquiring authority,
+>
+> (b) a confirming authority,
+>
+> (c) an inspector,
+>
+> (d) a local authority, or
+>
+> (e) a statutory undertaker,
+>
+> may also be served electronically by a method mentioned in subsection (7).
+>
+> (7) The methods of electronic service are—
+>
+> (a) sending the notice or document to an appropriate email address, or
+>
+> (b) uploading the notice or document to an appropriate website.
+>
+> (8) For the purposes of subsection (7)—
+>
+> (a) an email address or website is an appropriate one for the service of notices or documents if the person being served has—
+>
+> (i) provided the email address or details of the website to the sender for the purposes of communicating with them about land subject to the compulsory purchase order or about the order itself, or
+>
+> (ii) published the fact that the email address or the website may be used for those purposes;
+>
+> (b) an email address is also an appropriate one for the service of notices or documents if the person being served has previously used it for the purposes of communicating with the sender about land subject to the compulsory purchase order or about the order itself.
+>
+> (9) A notice or other document sent electronically is, unless the contrary is proved, to be treated as having been received on the working day immediately following the day on which it was sent.
+>
+> (10) In this section—
+>
+> - “inspector” means a person appointed under section 14D;
+> - “local authority” means a local authority within the meaning of section 7(1) or section 17(4);
+> - “statutory undertaker” includes the persons mentioned in section 16(3) and in the definition of statutory undertaker in section 17(4);
+> - “working day” means a day other than a Saturday, a Sunday, Christmas Day, Good Friday or a bank holiday under the Banking and Financial Dealings Act 1971 in England and Wales.
+>
+> (11) This section does not apply to a communication required or authorised to be sent under this Act to the High Court.
+
+(2) In section 38 of the Land Compensation Act 1961 (service of notices), at the end insert—
+
+> (3) Any communication required or authorised to be sent to a person under this Act may be sent to an email address or uploaded to a website at which the person has agreed in writing to receive communications for the purposes of the claim for compensation.
+>
+> (4) Any communication required or authorised under this Act to be sent to—
+>
+> (a) an acquiring authority,
+>
+> (b) a confirming authority, or
+>
+> (c) a local planning authority,
+>
+> may also be sent electronically by a method mentioned in subsection (5).
+>
+> (5) The methods are—
+>
+> (a) sending the communication to an appropriate email address, or
+>
+> (b) uploading the communication to an appropriate website.
+>
+> (6) For the purposes of subsection (5)—
+>
+> (a) an email address or website is an appropriate one if the person to whom the communication is to be sent has—
+>
+> (i) provided the email address or details of the website to the sender for the purposes of communicating with them about the claim for compensation, or
+>
+> (ii) published the fact that the email address or the website may be used for those purposes;
+>
+> (b) an email address is also an appropriate one if the person to whom the communication is to be sent has previously used it for the purposes of communicating with the sender about the claim for compensation.
+>
+> (7) A communication sent electronically is, unless the contrary is proved, to be treated as having been received on the working day immediately following the day on which it was sent.
+>
+> (8) In this section—
+>
+> - “confirming authority” has the same meaning as in Schedule 2A (see paragraph 9 of that Schedule);
+> - “working day” means a day other than a Saturday, a Sunday, Christmas Day, Good Friday or a bank holiday under the Banking and Financial Dealings Act 1971 in England and Wales.
+>
+> (9) This section does not apply to a communication required or authorised to be sent under this Act to the Upper Tribunal.
+
+(3) In Part 6 of the Land Compensation Act 1973 (supplementary provisions), after section 84 insert—
+
+> **84A Service of documents**
+>
+> (1) Any communication required or authorised to be sent to a person under this Act may be sent to an email address or uploaded to a website at which the person has agreed in writing to receive communications for the purposes of the claim for compensation.
+>
+> (2) Any communication required or authorised under this Act to be sent to—
+>
+> (a) an acquiring authority, or
+>
+> (b) a responsible authority within the meaning of section 1,
+>
+> may also be sent electronically by a method mentioned in subsection (3).
+>
+> (3) The methods are—
+>
+> (a) sending the communication to an appropriate email address, or
+>
+> (b) uploading the communication to an appropriate website.
+>
+> (4) For the purposes of subsection (3)—
+>
+> (a) an email address or website is an appropriate one if the authority has—
+>
+> (i) provided the email address or details of the website to the sender for the purposes of communicating with them about the claim for compensation, or
+>
+> (ii) published the fact that the email address or the website may be used for those purposes;
+>
+> (b) an email address is also an appropriate one if the authority has previously used it for the purposes of communicating with the sender about the claim for compensation.
+>
+> (5) A communication sent electronically is, unless the contrary is proved, to be treated as having been received on the working day immediately following the day on which it was sent.
+>
+> (6) In this section “working day” means a day other than a Saturday, a Sunday, Christmas Day, Good Friday or a bank holiday under the Banking and Financial Dealings Act 1971 in England and Wales.
+>
+> (7) This section does not apply to a communication required or authorised to be sent under this Act to the Upper Tribunal.
+
+(4) The amendments made by subsection (1) do not apply in relation to a compulsory purchase order made under the Acquisition of Land Act 1981 in a case where the first notice under—
+
+(a) section 11(1) of that Act (purchases by local and other authorities: public notice), or
+
+(b) paragraph 2(1) of Schedule 1 to that Act (purchases by Ministers: public notices),
+
+was published before this section came into force.
+
+(5) The amendments made by subsection (1) do not apply in relation to a purchase under the Compulsory Purchase Act 1965 in a case where the notice to treat under section 5(1) of that Act relating to the purchase was given before this section came into force (for the application of section 6 of the Acquisition of Land Act 1981 to the service of notices under the Compulsory Purchase Act 1965, see section 30 of that Act).
+
+### 106 Required content of newspaper notices
+
+(1) Part 2 of the Acquisition of Land Act 1981 (purchases by local and other authorities) is amended as set out in subsections (2) and (3).
+
+(2) In section 11 (obligation on acquiring authority to publish notice of compulsory purchase order), after subsection (2) insert—
+
+> (2ZA) In the case of a notice under subsection (1)(a), the requirement in subsection (2)(b) to describe the land may be met by briefly identifying the land (by giving its postal address or otherwise).
+
+(3) In section 15 (notices after confirmation of order)—
+
+(a) after subsection (4) insert—
+
+> (4ZA) In the case of a notice under subsection (3)(a), the requirement in subsection (4)(a) to describe the land may be met by briefly identifying the land (by giving its postal address or otherwise).
+
+;
+
+(b) at the end of subsection (4F)(b), insert “except that, in the case of a fulfilment notice under subsection (4C)(b)(i), the requirement to annex a description of the land (see subsection (4)(a)) may be met by briefly identifying the land (by giving its postal address or otherwise).”
+
+(4) Schedule 1 to that Act (purchases by Ministers) is amended as set out in subsections (5) and (6).
+
+(5) In paragraph 2 (obligation on Minister to publish notice of compulsory purchase order), after sub-paragraph (2) insert—
+
+> (2ZA) In the case of a notice under sub-paragraph (1)(a), the requirement in sub-paragraph (2)(b) to describe the land may be met by briefly identifying the land (by giving its postal address or otherwise).
+
+(6) In paragraph 6 (notices after confirmation order)—
+
+(a) after sub-paragraph (4) insert—
+
+> (4ZA) In the case of a notice under sub-paragraph (3)(a), the requirement in sub-paragraph (4)(a) to describe the land may be met by briefly identifying the land (by giving its postal address or otherwise).
+
+;
+
+(b) at the end of sub-paragraph (4D)(b), insert “except that, in the case of a fulfilment notice under sub-paragraph (4C)(b)(i), the requirement to annex a description of the land (see sub-paragraph (4)(a)) may be met by briefly identifying the land (by giving its postal address or otherwise).”
+
+### 107 Confirmation by acquiring authority: orders with modifications
+
+(1) Section 14A of the Acquisition of Land Act 1981 (confirmation by acquiring authority) is amended as follows.
+
+(2) In subsection (3)(c), for “without modification” substitute
+
+> —
+>
+> (i) without modification, or
+>
+> (ii) with only such modifications as are specified by the confirming authority in the notice.
+
+(3) After subsection (4) insert—
+
+> (4A) A confirming authority may specify a modification only if—
+>
+> (a) it modifies the order so as to add an additional interest in land, and the confirming authority is satisfied that the interest holder consents to the proposed modification,
+>
+> (b) it modifies the order so as to remove an interest in any land to which the order applies,
+>
+> (c) it modifies the order so as to remove part of an interest in any land to which the order applies, and the confirming authority is satisfied that the interest holder consents to the proposed modification, or
+>
+> (d) it modifies the order in such a way that no interests in land are affected.
+
+(4) In subsection (5)—
+
+(a) in paragraph (a), for “or” substitute “other than those specified in the notice,”;
+
+(b) at the end insert
+
+> , or
+>
+> (c) in a case where the notice specifies modifications, to confirm the order without those modifications.
+
+(5) After subsection (6) insert—
+
+> (6A) In a case where the acquiring authority has determined to confirm an order with modifications, it must, at the same time as notifying the confirming authority under subsection (6)—
+>
+> (a) provide the confirming authority with a copy of the order as modified, and
+>
+> (b) certify that the only modifications are those specified by the confirming authority.
+
+### 108 General vesting declarations: expedited procedure
+
+(1) The Compulsory Purchase (Vesting Declarations) Act 1981 is amended as follows.
+
+(2) In section 2(1) (interpretation and construction), after the definition of “acquiring authority” insert—
+
+> - “expedited procedure” means the procedure (available in respect of unoccupied land etc or where there is no identifiable interest holder) whereby a general vesting declaration may vest the land in the acquiring authority less than three months from the date on which the service of notices required by section 6 is completed (see section 4(1ZA)(a) and sections 4A and 4B),
+
+.
+
+(3) In section 4 (execution of declaration)—
+
+(a) in subsection (1) omit from “(not” to the end;
+
+(b) after subsection (1) insert—
+
+> (1ZA) That period must be—
+>
+> (a) where the expedited procedure is available (see section 4A), not less than six weeks from the date on which the service of notices required by section 6 is completed;
+>
+> (b) otherwise not less than three months from that date.
+
+(4) After section 4 insert—
+
+> **4A Vesting date: expedited procedure**
+>
+> (1) The expedited procedure is available in relation to a general vesting declaration if—
+>
+> (a) the specified land is unoccupied,
+>
+> (b) the acquiring authority considers that, by reason of disrepair, neglect, contamination, or risk to health or safety, the specified land is unfit for its ordinary use, and
+>
+> (c) Schedule A1 does not apply to the declaration.
+>
+> (2) The expedited procedure is also available in relation to a general vesting declaration if the acquiring authority has been unable to identify any person with an interest in the specified land.
+>
+> (3) Land is not to be regarded as occupied for the purposes of subsection (1)(a)—
+>
+> (a) if it is occupied only by persons who do not have a right to occupy it;
+>
+> (b) because of the presence of chattels on the land if the chattels appear to the acquiring authority to be of no significant value.
+>
+> (4) The ordinary use of land is to be taken for the purposes of subsection (1)(b) to be—
+>
+> (a) so far as the land comprises buildings or other features designed or adapted for a particular use, that use, and
+>
+> (b) so far as the land does not comprise such buildings or features, its most recent lawful use.
+>
+> (5) If the specified land includes one or more dwellings, the acquiring authority may decide that it is unfit for its ordinary use only if it considers that the dwelling, or each of those dwellings, is unfit for human habitation within the meaning of the Landlord and Tenant Act 1985 (see section 10 of that Act).
+>
+> (6) In this section—
+>
+> - “dwelling” means a building or part of a building designed or adapted for occupation as a separate dwelling;
+> - “the specified land” means the land specified in the general vesting declaration.
+>
+> **4B Expedited procedure: process**
+>
+> (1) This section applies where the acquiring authority has executed a general vesting declaration under the expedited procedure.
+>
+> (2) A person may, at any time before the end of the period of four weeks beginning with the date on which the general vesting declaration is executed, make representations to the acquiring authority that the expedited procedure is not available in relation to the declaration.
+>
+> (3) The representations need not be in writing.
+>
+> (4) The acquiring authority must provide a written response to the representations before the end of the period of seven days beginning with the day on which it received them.
+>
+> (5) If, at any time between the execution of the general vesting declaration and the vesting date, the acquiring authority becomes aware of a reason why the expedited procedure is not available (whether as a result of representations or otherwise), the authority must amend the general vesting declaration so that the period specified in it complies with section 4(1ZA)(b) (period of at least three months from service of notices).
+>
+> (6) If the acquiring authority amends the general vesting declaration under subsection (5), it must serve notice of the amendment on—
+>
+> (a) every person who has made representations under subsection (2), and
+>
+> (b) every person who was served a notice about the declaration under section 6.
+
+(5) In section 6 (notices after execution of declaration), after subsection (1) insert—
+
+> (1A) In a case where the period specified in the declaration under section 4(1) is less than three months, the notice must also state—
+>
+> (a) that the acquiring authority considers that the expedited procedure is available under section 4A(1) or (2) (as the case may be);
+>
+> (b) the vesting date;
+>
+> (c) that any person who disagrees that the expedited procedure is available may make representations to the acquiring authority under section 4B(2);
+>
+> (d) that if, before the vesting date, the acquiring authority no longer considers that the expedited procedure is available, the authority will amend the general vesting declaration so that the period specified in it complies with section 4(1ZA)(b) (period of at least three months from service of notices).
+
+### 109 General vesting declarations: advancement of vesting by agreement
+
+(1) The Compulsory Purchase (Vesting Declarations) Act 1981 is amended as set out in subsections (2) to (6).
+
+(2) After section 8A insert—
+
+> **8B Advancement of vesting by agreement**
+>
+> (1) The acquiring authority may agree in writing with the owner of any interest which is to vest in the authority under section 8 that the interest is to vest on a date before the vesting date.
+>
+> (2) The agreed date may not be before the day after the last day on which a person may bring proceedings for questioning the compulsory purchase order.
+>
+> (3) If an agreement under subsection (1) is in force—
+>
+> (a) section 7 (other than section 7(1)(c)) and section 8 operate in relation to the interest as if the vesting date were the agreed date;
+>
+> (b) an owner of an interest who is a party to the agreement may not serve a counter-notice under paragraph 2 of Schedule A1 (counter-notice requiring purchase of additional land).
+>
+> (4) But if the interest subject to the agreement does not entitle the owner to possession of the land concerned, subsection (3)(a) does not advance the date on which the right to enter on and take possession of the land arises under section 8.
+
+(3) In section 7(1) (constructive notice to treat), in the words before paragraph (a) for “section 8A” substitute “sections 8A and 8B”.
+
+(4) In section 8(1) (vesting, and right to enter and take possession), in the words before paragraph (a) after “8A” insert “, 8B”.
+
+(5) In section 10 (acquiring authority’s liability on vesting of the land), for subsection (1A) substitute—
+
+> (1A) Where by virtue of an agreement under section 8A or 8B different interests in the land vest in the acquiring authority on different dates, subsection (1) does not give rise to any liability in relation to an interest until that interest becomes vested.
+
+(6) In Schedule A1 (counter-notice requiring purchase of additional land), in paragraph 2, at the end insert “(but this is subject to section 8B(3)(b)).”
+
+(7) In section 5A of the Land Compensation Act 1961 (relevant valuation date), in subsection (4A), in the words before paragraph (a)—
+
+(a) after “8A” insert “or 8B”;
+
+(b) after “postponement” insert “or advancement”.
+
+### 110 Adjustment of basic and occupier’s loss payments
+
+(1) Part 3 of the Land Compensation Act 1973 (provisions for benefit of persons displaced from land) is amended as set out in subsections (2) to (4).
+
+(2) In section 33A (basic loss payment)—
+
+(a) after subsection (1) insert—
+
+> (1A) In a case where the qualifying interest is in land in England, a person to whom this section applies is entitled to payment of whichever is the lower of the following amounts—
+>
+> (a) 2.5% of the value of the interest;
+>
+> (b) £25,000.
+
+;
+
+(b) in subsection (2), at the beginning insert “In a case where the qualifying interest is in land in Wales,”.
+
+(3) In section 33B (occupier’s loss payment: agricultural land)—
+
+(a) after subsection (1) insert—
+
+> (1A) In a case where the qualifying interest is in land in England, a person to whom this section applies is entitled to a payment of whichever is the greatest of the following amounts—
+>
+> (a) 7.5% of the value of the interest;
+>
+> (b) the land amount;
+>
+> (c) the buildings amount.
+>
+> (1B) But the maximum amount which may be paid to a person under subsection (1A) in respect of an interest in land is £75,000.
+
+;
+
+(b) in subsection (2), at the beginning insert “In a case where the qualifying interest is in land in Wales,”;
+
+(c) in subsection (3), for “this section” substitute “subsection (2)”;
+
+(d) after subsection (7), insert—
+
+> (7A) In the case of land in England, the land amount is the greater of £900 and the amount found in accordance with the following Table—
+>
+> | Area of the land | Amount per hectare |
+> |---|---|
+> | Not exceeding 100 hectares | £300 per hectare or part of a hectare |
+> | Exceeding 100 hectares | - £300 per hectare for the first 100 hectares;<br>- £150 per hectare for the next 300 hectares or part of a hectare. |
+
+;
+
+(e) in subsection (8), at the beginning insert “In the case of land in Wales,”;
+
+(f) after subsection (8), insert—
+
+> (8A) In the case of land in England, the buildings amount is £75 per square metre (or part of a square metre) of the gross floor space of any buildings on the land.
+
+;
+
+(g) in subsection (9), at the beginning insert “In the case of land in Wales”.
+
+(4) In section 33C (occupier’s loss payment: other land)—
+
+(a) after subsection (1) insert—
+
+> (1A) In a case where the qualifying interest is in land in England, a person to whom this section applies is entitled to a payment of whichever is the greatest of the following amounts—
+>
+> (a) 7.5% of the value of the interest;
+>
+> (b) the land amount;
+>
+> (c) the buildings amount.
+>
+> (1B) But the maximum amount which may be paid to a person under subsection (1A) in respect of an interest in land is £75,000.
+
+;
+
+(b) in subsection (2), at the beginning insert “In a case where the qualifying interest is in land in Wales,”;
+
+(c) in subsection (3), for “this section” substitute “subsection (2)”;
+
+(d) after subsection (7), insert—
+
+> (7A) In the case of land in England, the land amount is the greater of—
+>
+> (a) £7,500;
+>
+> (b) £7.50 per square metre (or part of a square metre) of the area of the land.
+>
+> (7B) But if only part of land in which a person has an interest is acquired, for the figure specified in subsection (7A)(a) there is substituted £900.
+
+;
+
+(e) in subsection (8), at the beginning insert “In the case of land in Wales,”;
+
+(f) after subsection (9), insert—
+
+> (9A) In the case of land in England, the buildings amount is £75 per square metre (or part of a square metre) of the gross internal floor space of any buildings on the land.
+
+;
+
+(g) in subsection (10)—
+
+(i) at the beginning insert “In the case of land in Wales,”;
+
+(ii) after “gross” insert “internal”;
+
+(h) omit subsection (11).
+
+(5) The amendments made by subsections (2) to (4) do not apply in relation to a compulsory acquisition where any notice of the compulsory acquisition was given before this section came into force.
+
+(6) For the purposes of subsection (5), notice of a compulsory acquisition is given—
+
+(a) in the case of a compulsory acquisition which is to be authorised by a compulsory purchase order to which the Acquisition of Land Act 1981 applies—
+
+(i) on the date of publication of the notice required by section 11 of, or (as the case may be) paragraph 2 of Schedule 1 to, that Act, in accordance with that Act, or
+
+(ii) on the date of service of the notice required by section 12 of, or (as the case may be) paragraph 3 of Schedule 1 to, that Act, in accordance with that Act;
+
+(b) in the case of a compulsory acquisition which is to be authorised by any other order, on the date of publication or service of any notice that any provision of or made under any Act requires to be published or served in connection with that acquisition, in accordance with that Act;
+
+(c) in the case of a compulsory acquisition which is deemed to be authorised following service of a notice by the owner requiring the purchase of their interest, on the date on which that notice is served;
+
+(d) in the case of a compulsory acquisition which is to be authorised by a special enactment, on the date of publication or service of a notice that, in connection with that acquisition, is published or served in accordance with any Standing Order of either House of Parliament relating to private business.
+
+(7) In this section, “special enactment” means—
+
+(a) a local or private Act which authorises the compulsory acquisition of land specifically identified in that Act, or
+
+(b) a provision which—
+
+(i) is contained in an Act other than a local or private Act, and
+
+(ii) authorises the compulsory acquisition of land specifically identified in that Act.
+
+### 111 Home loss payments: exclusions
+
+(1) Part 3 of the Land Compensation Act 1973 (provisions for benefit of persons displaced from land) is amended as set out in subsections (2) to (5).
+
+(2) In section 29(1) (right to home loss payment where person displaced from dwelling), in the words after paragraph (f), for “section 32” substitute “sections 32 and 32A”.
+
+(3) After section 32 insert—
+
+> **32A Home loss payments: exclusions**
+>
+> (1) This section applies to a person if—
+>
+> (a) the person is displaced from a dwelling on land as mentioned in section 29(1)(a) (displacement in consequence of a compulsory acquisition),
+>
+> (b) a notice falling within subsection (4) has been served on the person in relation to the land,
+>
+> (c) at the relevant time the notice has effect or is operative, and
+>
+> (d) the person has failed to comply with any requirement of the notice.
+>
+> (2) This section also applies to a person if—
+>
+> (a) the person is displaced from a dwelling on land as mentioned in section 29(1)(a) (displacement in consequence of a compulsory acquisition),
+>
+> (b) a copy of an order falling within subsection (5) has been served on the person in relation to the land, and
+>
+> (c) the order has not been quashed on appeal.
+>
+> (3) No payment may be made under section 29 to a person to whom this section applies.
+>
+> (4) These are the notices—
+>
+> (a) a notice under section 215 of the Town and Country Planning Act 1990 (power to require proper maintenance of land);
+>
+> (b) a notice under section 11 of the Housing Act 2004 (improvement notice relating to category 1 hazard);
+>
+> (c) a notice under section 12 of that Act (improvement notice relating to category 2 hazard);
+>
+> (d) a notice under section 48 of the Planning (Listed Buildings and Conservation Areas) Act 1990 or section 138 of the Historic Environment (Wales) Act 2023 (asc 3) (repairs notice prior to notice of compulsory acquisition of listed building).
+>
+> (5) These are the orders—
+>
+> (a) an order under section 20 of the Housing Act 2004 (prohibition order relating to category 1 hazard);
+>
+> (b) an order under section 21 of that Act (prohibition order relating to category 2 hazard);
+>
+> (c) an order under section 43 of that Act (emergency prohibition orders);
+>
+> (d) an order under section 265 of the Housing Act 1985 (demolition order relating to category 1 or 2 hazard).
+>
+> (6) For the purposes of subsection (1)(c), the relevant time is the date on which any of the following occurs—
+>
+> (a) in the case of a compulsory acquisition which is to be authorised by a compulsory purchase order to which the Acquisition of Land Act 1981 applies—
+>
+> (i) the compulsory purchase order is confirmed, other than conditionally, under section 13 or 13A of the Acquisition of Land Act 1981;
+>
+> (ii) the compulsory purchase order is made, other than conditionally, under paragraph 4 or 4A of Schedule 1 to that Act;
+>
+> (iii) a decision is made under section 13BA(2)(a) of that Act (decision that conditions subject to which order was confirmed have been met);
+>
+> (iv) a decision is made under paragraph 4AA(2)(a) of Schedule 1 to that Act (decision that conditions subject to which order was made have been met);
+>
+> (b) in the case of a compulsory acquisition which is to be authorised by any other order, the order is made or confirmed in accordance with the procedures which apply by virtue of the Act under which it is made;
+>
+> (c) in the case of a compulsory acquisition which does not fall within paragraph (a) or (b) and which is deemed to be authorised following service of a notice by the owner requiring the purchase of their interest, a notice to treat is deemed to have been served;
+>
+> (d) in the case of a compulsory acquisition which does not fall within paragraph (a), (b) or (c) and which is to be authorised by a special enactment, the enactment is passed.
+>
+> (7) In subsection (6), references to a compulsory acquisition are to the compulsory acquisition in consequence of which the person is displaced.
+>
+> (8) The appropriate national authority may by regulations amend subsections (4) and (5).
+>
+> (9) In this section—
+>
+> - “appropriate national authority” means—
+>
+>   - the Secretary of State, in relation to England;
+>   - the Welsh Ministers, in relation to Wales;
+>
+> - “special enactment” means—
+>
+>   - a local or private Act which authorises the compulsory acquisition of land specifically identified in that Act, or
+>   
+>   - a provision which—
+>   
+>     - is contained in an Act other than a local or private Act, and
+>     - authorises the compulsory acquisition of land specifically identified in that Act.
+>
+> (10) The power to make regulations under subsection (8) must be exercised by statutory instrument subject to annulment in pursuance of a resolution of—
+>
+> (a) either House of Parliament, in the case of regulations made by the Secretary of State;
+>
+> (b) Senedd Cymru, in the case of regulations made by the Welsh Ministers.
+
+(4) In section 33 (home loss payments for certain caravan dwellers)—
+
+(a) in subsection (1), for “32” substitute “32A”;
+
+(b) in subsection (6), for “32” substitute “32A”.
+
+(5) In section 33D (loss payments: exclusions), for subsection (6) substitute—
+
+> (6) For the purposes of subsection (1)(c), the relevant time is the date on which any of the following occurs—
+>
+> (a) in the case of a compulsory acquisition which is to be authorised by a compulsory purchase order to which the Acquisition of Land Act 1981 applies—
+>
+> (i) the compulsory purchase order is confirmed, other than conditionally, under section 13 or 13A of the Acquisition of Land Act 1981;
+>
+> (ii) the compulsory purchase order is made, other than conditionally, under paragraph 4 or 4A of Schedule 1 to that Act;
+>
+> (iii) a decision is made under section 13BA(2)(a) of that Act (decision that conditions subject to which order was confirmed have been met);
+>
+> (iv) a decision is made under paragraph 4AA(2)(a) of Schedule 1 to that Act (decision that conditions subject to which order was made have been met);
+>
+> (b) in the case of a compulsory acquisition which is to be authorised by any other order, the order is made or confirmed in accordance with the procedures which apply by virtue of the Act under which it is made;
+>
+> (c) in the case of a compulsory acquisition which does not fall within paragraph (a) or (b) and which is deemed to be authorised following service of a notice by the owner requiring the purchase of their interest, a notice to treat is deemed to have been served;
+>
+> (d) in the case of a compulsory acquisition which does not fall within paragraph (a), (b) or (c) and which is to be authorised by a special enactment, the enactment is passed.
+>
+> (6A) In subsection (6)—
+>
+> - “special enactment” means—
+>
+>   - a local or private Act which authorises the compulsory acquisition of land specifically identified in that Act, or
+>   
+>   - a provision which—
+>   
+>     - is contained in an Act other than a local or private Act, and
+>     - authorises the compulsory acquisition of land specifically identified in that Act;
+>
+>   references to a compulsory acquisition are to the compulsory acquisition of the person’s interest in land.
+
+(6) The amendments made by subsections (2) to (5) do not apply in relation to a compulsory acquisition where any notice of the compulsory acquisition was given before this section came into force.
+
+(7) For the purposes of subsection (6), notice of a compulsory acquisition is given—
+
+(a) in the case of a compulsory acquisition which is to be authorised by a compulsory purchase order to which the Acquisition of Land Act 1981 applies—
+
+(i) on the date of publication of the notice required by section 11 of, or (as the case may be) paragraph 2 of Schedule 1 to, that Act, in accordance with that Act, or
+
+(ii) on the date of service of the notice required by section 12 of, or (as the case may be) paragraph 3 of Schedule 1 to, that Act, in accordance with that Act;
+
+(b) in the case of a compulsory acquisition which is to be authorised by any other order, on the date of publication or service of any notice that any provision of or made under any Act requires to be published or served in connection with that acquisition, in accordance with that Act;
+
+(c) in the case of a compulsory acquisition which is deemed to be authorised following service of a notice by the owner requiring the purchase of their interest, on the date on which that notice is served;
+
+(d) in the case of a compulsory acquisition which is to be authorised by a special enactment, on the date of publication or service of a notice that, in connection with that acquisition, is published or served in accordance with any Standing Order of either House of Parliament relating to private business.
+
+(8) In this section, “special enactment” means—
+
+(a) a local or private Act which authorises the compulsory acquisition of land specifically identified in that Act, or
+
+(b) a provision which—
+
+(i) is contained in an Act other than a local or private Act, and
+
+(ii) authorises the compulsory acquisition of land specifically identified in that Act.
+
+### 112 Temporary possession of land in connection with compulsory purchase
+
+In section 18 of the Neighbourhood Planning Act 2017 (power to take temporary possession of land), for subsection (3) substitute—
+
+> (3) Subject to—
+>
+> (a) any express provision in another Act;
+>
+> (b) any provision in an order granting development consent made under section 114 of the Planning Act 2008;
+>
+> (c) any provision in an order made under section 1 or 3 of the Transport and Works Act 1992;
+>
+> (d) any provision in an order granting infrastructure consent made under section 60 of the Infrastructure (Wales) Act 2024 (asc 3);
+>
+> the power in subsection (2) is the only power under which a person may take temporary possession of land compulsorily.
+
+### 113 Amendments relating to section 14A of the Land Compensation Act 1961
+
+(1) The Acquisition of Land Act 1981 is amended as set out in subsections (2) to (4).
+
+(2) In section 14A (confirmation by acquiring authority), omit subsection (2A) (power for acquiring authority to confirm order not applicable where compensation is assessed in accordance with section 14A of Land Compensation Act 1961).
+
+(3) In Schedule 2A (enactments eligible for directions applying section 14A of the Land Compensation Act 1961), before paragraph 1 insert—
+
+> **A1** Section 125 of the Local Government Act 1972 (compulsory acquisition of land on behalf of parish or community councils).
+
+(4) In section 15A (directions applying section 14A of the Land Compensation Act 1961)—
+
+(a) in subsection (5), after “paragraphs” insert “A1 or”;
+
+(b) in subsection (8)(b), after “paragraphs” insert “A1 or”.
+
+(5) The Land Compensation Act 1973 is amended as set out in subsections (6) to (9).
+
+(6) In section 30 (amount of home loss payment in England and Wales), in subsection (3)(a), at the end (but before the “and”) insert “(and in a case where the compulsory purchase order authorising the acquisition directs that compensation is to be assessed in accordance with section 14A of the Land Compensation Act 1961 (cases where prospect of planning permission to be ignored), the market value is the value assessed in accordance with that section)”.
+
+(7) In section 33A (basic loss payment), in subsection (6), after “acquisition” insert “(including in accordance with section 14A of the Land Compensation Act 1961 (cases where prospect of planning permission to be ignored))”.
+
+(8) In section 33B (occupier’s loss payment: agricultural land), in subsection (5), after “acquisition” insert “(including in accordance with section 14A of the Land Compensation Act 1961 (cases where prospect of planning permission to be ignored))”.
+
+(9) In section 33C (occupier’s loss payment: other land), in subsection (5), after “acquisition” insert “(including in accordance with section 14A of the Land Compensation Act 1961 (cases where prospect of planning permission to be ignored))”.
+
+### 114 New powers to appoint an inspector
+
+(1) In Part 1 of Schedule 4 to the New Towns Act 1981 (procedure for authorising compulsory acquisitions by development corporations and local highway authorities), after paragraph 4 insert—
+
+> **4A** (1) The confirming authority may appoint a person (“an inspector”) to act instead of it in relation to the confirmation of a compulsory purchase order under this Schedule.
+>
+> (2) An inspector may be appointed to act in relation to—
+>
+> (a) a specific compulsory purchase order, or
+>
+> (b) a description of compulsory purchase orders.
+>
+> (3) An inspector has the same functions as the confirming authority under paragraphs 2(1)(b), 3, 4, 5A, 7 and 8.
+>
+> (4) Where an inspector is appointed in relation to a compulsory purchase order, the confirming authority must inform—
+>
+> (a) every person who has made a relevant objection that has not been withdrawn, and
+>
+> (b) the acquiring authority.
+>
+> (5) Where an inspector decides whether or not to confirm the whole or part of a compulsory purchase order, the inspector’s decision is to be treated as that of the confirming authority.
+>
+> (6) The confirming authority may at any time—
+>
+> (a) revoke its appointment of an inspector, and
+>
+> (b) appoint another inspector.
+>
+> (7) If the confirming authority revokes its appointment of an inspector while the inspector is acting in relation to a compulsory purchase order and does not replace the inspector, the confirming authority must give the reasons for doing so—
+>
+> (a) to the inspector whose appointment has been revoked, and
+>
+> (b) to all those informed under sub-paragraph (4).
+>
+> (8) Where in any enactment there is a provision that applies in relation to a confirming authority acting in relation to the confirmation of a compulsory purchase order under this Schedule, that provision is to be read as applying equally in relation to an inspector so far as the context permits.
+>
+> (9) In this paragraph—
+>
+> - “confirming authority” means—
+>
+>   - in a case where the compulsory purchase order relates to land in England, the Secretary of State, and
+>   - in a case where the compulsory purchase order relates to land in Wales, the Welsh Ministers (see article 2 of, and Schedule 1 to, the National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. 1999/672) and paragraph 30 of Schedule 11 to the Government of Wales Act 2006);
+>
+> - “relevant objection” means an objection that is treated as duly made for the purposes of this Schedule (see paragraph 4(1)).
+
+(2) Schedule 2A to the Land Compensation Act 1961 (additional compensation where section 14A applied) is amended as follows.
+
+(3) After paragraph 1 insert—
+
+> **1A Power to appoint inspector**
+>
+> (1) A confirming authority may appoint a person (“an inspector”) to exercise the functions of the confirming authority in relation to an application made to it under paragraph 1(2).
+>
+> (2) Where a confirming authority appoints an inspector under sub-paragraph (1), the confirming authority must inform—
+>
+> (a) the acquiring authority, and
+>
+> (b) the person who made the application.
+>
+> (3) A decision by an inspector as to whether the conditions in paragraph 1(3) are met is to be treated as a decision by the confirming authority.
+>
+> (4) A direction under paragraph 1(2) made by an inspector is to be treated as a direction of the confirming authority.
+>
+> (5) The confirming authority may at any time—
+>
+> (a) revoke its appointment of an inspector, and
+>
+> (b) appoint another inspector.
+>
+> (6) If the confirming authority revokes its appointment of an inspector while the inspector is exercising functions in relation to an application made under paragraph 1(2) and does not replace the inspector, the confirming authority must give the reasons for doing so—
+>
+> (a) to the inspector whose appointment has been revoked, and
+>
+> (b) to all those informed under sub-paragraph (2).
+>
+> (7) Where in any enactment there is a provision that applies in relation to a confirming authority exercising functions in relation to an application under paragraph 1(2), that provision is to be read as applying equally in relation to an inspector so far as the context permits.
+
+(4) In paragraph 7(1)(b) (regulations about procedure), after “confirming authority” insert “or an inspector”.
+
+## Part 6 — Miscellaneous and general provision
+
+### 115 Reporting on extra-territorial environmental outcomes
+
+In Part 6 of the Levelling-up and Regeneration Act 2023 (environmental outcome reports), in section 152(1) (power to specify environmental outcomes), for “a relevant offshore area” substitute “elsewhere”.
+
+### 116 The Crown
+
+The amendments made by this Act bind the Crown to the extent that the provisions amended bind the Crown.
+
+### 117 Extent
+
+(1) Subject to subsection (2), an amendment, repeal or revocation made by this Act has the same extent as the provision amended, repealed or revoked.
+
+(2) Paragraphs 40 and 44 of Schedule 5 extend to England and Wales only.
+
+(3) A provision of this Act, other than an amendment, repeal or revocation, extends to England and Wales only, subject to subsections (4) to (6).
+
+(4) The following provisions extend to England and Wales and Scotland—
+
+(a) sections 14 to 17;
+
+(b) section 19(6);
+
+(c) section 21(7);
+
+(d) section 30;
+
+(e) section 47.
+
+(5) The following provisions extend to Scotland only—
+
+(a) section 25;
+
+(b) section 46.
+
+(6) Section 116, this section and sections 118 and 119 extend to England and Wales, Scotland and Northern Ireland.
+
+### 118 Commencement and transitional provision
+
+(1) In Part 1—
+
+(a) sections 1 and 2 come into force on such day as the Secretary of State may by regulations appoint;
+
+(b) section 3 comes into force on the day on which this Act is passed;
+
+(c) sections 4 to 9 come into force on such day as the Secretary of State may by regulations appoint;
+
+(d) section 10 comes into force at the end of the period of two months beginning with the day on which this Act is passed;
+
+(e) sections 11 to 13 come into force on such day as the Secretary of State may by regulations appoint;
+
+(f) sections 14 to 18 come into force on the day on which this Act is passed;
+
+(g) in section 19—
+
+(i) subsections (1) and (2), subsection (4) so far as it confers powers to make regulations, and subsections (5) and (6) come into force on the day on which this Act is passed;
+
+(ii) subsection (3), and subsection (4) for remaining purposes, come into force at the end of the period of two months beginning with the day on which this Act is passed;
+
+(h) section 20 comes into force at the end of the period of two months beginning with the day on which this Act is passed, except that it comes into force on the day on which this Act is passed so far as it confers power to make regulations;
+
+(i) section 21 comes into force at the end of the period of two months beginning with the day on which this Act is passed;
+
+(j) sections 22 and 23 come into force on the day on which this Act is passed;
+
+(k) section 24 and Schedule 1 come into force at the end of the period of two months beginning with the day on which this Act is passed, except that paragraph 7 of Schedule 1 comes into force on such day as the Secretary of State may by regulations appoint;
+
+(l) section 25 comes into force on the day on which this Act is passed;
+
+(m) section 26 comes into force at the end of the period of two months beginning with the day on which this Act is passed;
+
+(n) section 27 comes into force on the day on which this Act is passed;
+
+(o) section 28 comes into force at the end of the period of two months beginning with the day on which this Act is passed;
+
+(p) section 29 comes into force at the end of the period of two months beginning with the day on which this Act is passed, except that it comes into force on the day on which this Act is passed so far as it confers power to make regulations;
+
+(q) section 30 comes into force at the end of the period of two months beginning with the day on which this Act is passed;
+
+(r) sections 31 and 32 come into force at the end of the period of two months beginning with the day on which this Act is passed;
+
+(s) section 33 comes into force on such day as the Secretary of State may by regulations appoint;
+
+(t) sections 34 and 35 come into force at the end of the period of two months beginning with the day on which this Act is passed;
+
+(u) section 36 comes into force on such day as the Secretary of State may by regulations appoint;
+
+(v) sections 37 to 39 come into force at the end of the period of two months beginning with the day on which this Act is passed;
+
+(w) in section 40—
+
+(i) subsections (1) and (2) come into force at the end of the period of two months beginning with the day on which this Act is passed;
+
+(ii) subsection (3) comes into force on such day as the Secretary of State may by regulations appoint;
+
+(x) sections 41 and 42 come into force at the end of the period of two months beginning with the day on which this Act is passed;
+
+(y) section 43 comes into force on such day as the Secretary of State may by regulations appoint;
+
+(z) sections 44 and 45 come into force at the end of the period of two months beginning with the day on which this Act is passed;
+
+(z1) section 46 comes into force on the day on which this Act is passed;
+
+(z2) section 47 comes into force at the end of the period of two months beginning with the day on which this Act is passed;
+
+(z3) section 48(1), (4) and (5) come into force at the end of the period of two months beginning with the day on which this Act is passed;
+
+(z4) section 48(2) and (3) come into force—
+
+(i) in relation to applications made to the Secretary of State, on the day on which the first relevant regulations made by the Secretary of State come into force;
+
+(ii) in relation to applications made to the Scottish Ministers, on the day on which the first relevant regulations made by the Scottish Ministers come into force;
+
+(iii) in relation to applications made to the Welsh Ministers, on the day on which the first relevant regulations made by the Welsh Ministers come into force;
+
+and in this paragraph “relevant regulations” means regulations under paragraph 9A of Schedule 3 to the Harbours Act 1964 (inserted by section 48(4));
+
+(z5) sections 49 and 50 come into force on such day as the Secretary of State may by regulations appoint.
+
+(2) In Part 2—
+
+(a) section 51 comes into force on such day as the Secretary of State may by regulations appoint, except that it comes into force on the day on which this Act is passed so far as it confers power to make regulations;
+
+(b) sections 52 and 53 come into force at the end of the period of two months beginning with the day on which this Act is passed;
+
+(c) in section 54—
+
+(i) subsection (1) comes into force at the end of the period of two months beginning with the day on which this Act is passed;
+
+(ii) subsection (2) comes into force on such day as the Secretary of State may by regulations appoint;
+
+(d) in section 55—
+
+(i) subsection (1) comes into force at the end of the period of two months beginning with the day on which this Act is passed;
+
+(ii) subsection (2) comes into force at the same time as section 102(1) of the Levelling-up and Regeneration Act 2023;
+
+(e) section 56 comes into force at the end of the period of two months beginning with the day on which this Act is passed;
+
+(f) section 57 comes into force on such day as the Secretary of State may by regulations appoint;
+
+(g) section 58(1), (2) and (3) and Schedule 2 come into force on such day as the Secretary of State may by regulations appoint, except that section 58(1) comes into force on the day on which this Act is passed so far as it confers power to make regulations;
+
+(h) section 58(4) to (8) come into force at the end of the period of two months beginning with the day on which this Act is passed.
+
+(3) Part 3 (including Schedules 3, 4 and 5) comes into force on such day as the Secretary of State may by regulations appoint, except that paragraph 14(2) of Schedule 5 comes into force at the same time as section 106 of the Levelling-up and Regeneration Act 2023.
+
+(4) Part 4 comes into force on such day as the Secretary of State may by regulations appoint.
+
+(5) In Part 5—
+
+(a) section 105 comes into force at the end of the period of two months beginning with the day on which this Act is passed;
+
+(b) section 106 comes into force on such day as the Secretary of State may by regulations appoint;
+
+(c) section 107 comes into force at the end of the period of two months beginning with the day on which this Act is passed;
+
+(d) sections 108 and 109 come into force on such day as the Secretary of State may by regulations appoint;
+
+(e) sections 110 and 111 come into force at the end of the period of two months beginning with the day on which this Act is passed;
+
+(f) section 112 comes into force at the same time as section 18 of the Neighbourhood Planning Act 2017;
+
+(g) in section 113—
+
+(i) subsections (1), (2) and (5) to (9) come into force at the end of the period of two months beginning with the day on which this Act is passed;
+
+(ii) subsections (3) and (4) come into force on such day as the Secretary of State may by regulations appoint;
+
+(h) section 114 comes into force at the end of the period of two months beginning with the day on which this Act is passed.
+
+(6) In this Part—
+
+(a) section 115 comes into force at the end of the period of two months beginning with the day on which this Act is passed;
+
+(b) sections 116 to 119 come into force on the day on which this Act is passed.
+
+(7) The Secretary of State may by regulations make transitional, transitory or saving provision in connection with the coming into force of any provision of this Act.
+
+(8) Regulations under this section—
+
+(a) are to be made by statutory instrument;
+
+(b) may make different provision for different purposes or different areas.
+
+### 119 Short title
+
+This Act may be cited as the Planning and Infrastructure Act 2025.
+
+## Schedule 1 — Minor and consequential amendments to the Electricity Act 1989
+
+*Section 24*
+
+**1** Part 1 of the Electricity Act 1989 (electricity supply) is amended as follows.
+
+**2** (1) Section 36 (consent required for construction etc of generating stations) is amended as follows.
+
+(2) In subsection (3), for “Secretary of State” substitute “appropriate authority”.
+
+(3) In subsection (5A)—
+
+(a) for “the Water Environment (Controlled Activities) (Scotland) Regulations 2005” substitute “the Water Environment (Controlled Activities) (Scotland) Regulations 2011 (S.S.I. 2011/209)”;
+
+(b) for “Secretary of State” substitute “Scottish Ministers”.
+
+(4) After subsection (5A) insert—
+
+> (5AA) If regulations under paragraph 7B of Schedule 8 specify a time by which the Scottish Environment Protection Agency must give advice under subsection (5A), the duty on the Scottish Ministers to have regard to the advice does not apply in relation to any advice given after the time specified.
+
+(5) In subsection (5B), for “the Water Environment (Controlled Activities) (Scotland) Regulations 2005” substitute “the Water Environment (Controlled Activities) (Scotland) Regulations 2011 (S.S.I. 2011/209)”.
+
+**3** (1) Section 36B (duties in relation to navigation) is amended as follows.
+
+(2) In subsection (4)(b)—
+
+(a) for “Secretary of State” substitute “appropriate authority”;
+
+(b) for “his” substitute “its”.
+
+(3) In subsection (7), before the definition of “consent” insert—
+
+> - “appropriate authority” has the same meaning as in section 36;
+
+.
+
+**4** In section 36C, for the heading substitute “Application for variation of section 36 consent”.
+
+**5** (1) Section 37 (consent required for overhead lines) is amended as follows.
+
+(2) In subsection (1), for “Secretary of State” substitute “appropriate authority”.
+
+(3) In subsection (3)—
+
+(a) in paragraph (a), for “Secretary of State” substitute “appropriate authority”;
+
+(b) in paragraph (b), at the beginning insert “in the case of a consent granted by the Secretary of State,”;
+
+(c) after paragraph (b) (but before the “and”) insert—
+
+> (ba) in the case of a consent granted by the Scottish Ministers, may be revoked by the Scottish Ministers at any time after the end of such period as may be specified in the consent (see sections 37A to 37C as regards the variation of consents granted by the Scottish Ministers);
+
+;
+
+(d) in paragraph (c), for “paragraph (b)” substitute “paragraphs (b) and (ba)”.
+
+(4) At the end insert—
+
+> (6) In this section “appropriate authority” means—
+>
+> (a) the Scottish Ministers, in relation to an electric line installed above land in Scotland;
+>
+> (b) the Secretary of State in all other cases.
+
+**6** Schedule 8 to the Electricity Act 1989 (consents of the Secretary of State and the Scottish Ministers under sections 36 and 37) is amended as follows.
+
+**7** In paragraph 1 (applications for consent)—
+
+(a) in sub-paragraph (1), after “An application” insert “that is made to the Secretary of State”;
+
+(b) in sub-paragraph (2), after “application” insert “that is made to the Secretary of State”;
+
+(c) in sub-paragraph (3), after “applications” insert “that are made to the Secretary of State”;
+
+(d) in the heading, after “Applications” insert “made to the Secretary of State”.
+
+**8** (1) Paragraph 3 (objections by other persons) is amended as follows.
+
+(2) In sub-paragraph (1)—
+
+(a) for “Secretary of State”, in each place it occurs, substitute “appropriate authority”;
+
+(b) in the words after paragraph (d), for “he” substitute “the appropriate authority”.
+
+(3) In sub-paragraph (2)—
+
+(a) for paragraph (a) (but not including the “but”) substitute—
+
+> (a) a public inquiry is not required by virtue of paragraph 2(2) or 2A;
+
+;
+
+(b) in paragraph (b), for “Secretary of State” substitute “appropriate authority”;
+
+(c) in the words after paragraph (b)—
+
+(i) for “Secretary of State” substitute “appropriate authority”;
+
+(ii) for “he” substitute “the appropriate authority”.
+
+**9** (1) Paragraph 4 (public inquiries) is amended as follows.
+
+(2) In sub-paragraph (1), in the words before paragraph (a), after “application” insert “that is made to the Secretary of State”.
+
+(3) After sub-paragraph (3) insert—
+
+> (3A) Where in accordance with paragraph 2A or 3(2) a public inquiry is to be held in relation to an application that is made to the Scottish Ministers for consent under section 36 or 37 of this Act, and it appears to the Scottish Ministers that in addition to any public notice of such an inquiry any further notification concerning the inquiry is necessary or expedient (either by way of service of notice upon any person or in any other way), the Scottish Ministers may direct the applicant to take such further steps for this purpose as may be specified in the direction.
+
+(4) In sub-paragraph (4)—
+
+(a) after “2(2)” insert “, 2A”;
+
+(b) for “Secretary of State” insert “appropriate authority”.
+
+(5) Omit sub-paragraph (5).
+
+**10** (1) Paragraph 5 (provisions supplementary to paragraphs 2 to 4) is amended as follows.
+
+(2) In sub-paragraph (1)—
+
+(a) in the words before paragraph (a), after “2(2)” insert “, 2A”;
+
+(b) in paragraph (a)—
+
+(i) for “Secretary of State”, in both place it occurs, substitute “appropriate authority”;
+
+(ii) for “he” substitute “the appropriate authority”;
+
+(c) in paragraph (b), for “Secretary of State” substitute “appropriate authority”;
+
+(d) in the words after paragraph (b), for “Secretary of State” substitute “appropriate authority”.
+
+(3) In sub-paragraph (2), for “Secretary of State”, in both places it occurs, substitute “appropriate authority”.
+
+**11** (1) Paragraph 6 (special provision as to consents under section 37) is amended as follows.
+
+(2) In sub-paragraph (1)—
+
+(a) for “Secretary of State”, in each place it occurs, substitute “appropriate authority”;
+
+(b) in paragraph (a), for “he”, in both places it occurs, substitute “the appropriate authority”;
+
+(c) in paragraph (b), omit “his”, in both places it occurs.
+
+(3) In sub-paragraph (2)—
+
+(a) in the words before paragraph (a), for “Secretary of State” substitute “appropriate authority”;
+
+(b) in paragraph (b) for “his opinion” substitute “the opinion of the appropriate authority”.
+
+**12** (1) Paragraph 7A (generating stations not within areas of relevant planning authorities) is amended as follows.
+
+(2) In sub-paragraph (6)(a), after “2(2)” insert “, 2A”.
+
+(3) In sub-paragraph (7)—
+
+(a) for “Secretary of State” substitute “appropriate authority”;
+
+(b) after “2(2)” insert “or 2A”;
+
+(c) for “authority” substitute “planning authority”.
+
+(4) In sub-paragraph (8)—
+
+(a) for “Secretary of State” substitute “appropriate authority”;
+
+(b) for “authority” substitute “planning authority”;
+
+(c) for “he” substitute “the appropriate authority”.
+
+(5) In sub-paragraph (9), for “Secretary of State” substitute “appropriate authority”.
+
+(6) In sub-paragraph (10), for “Secretary of State” substitute “appropriate authority”.
+
+**13** In paragraph 8 (supplemental), in paragraph (1), after “Schedule” insert
+
+> —
+>
+> - “appropriate authority” means—
+>
+>   - in the case of an application made to the Secretary of State, the Secretary of State;
+>   - in the case of an application made to the Scottish Ministers, the Scottish Ministers;
+
+.
+
+## Schedule 2 — Section 58: minor and consequential amendments (prospective)
+
+*Section 58(3)*
+
+### Town and Country Planning Act 1990 (prospective)
+
+**1** (1) Section 303A of the Town and Country Planning Act 1990 (responsibility of local planning authorities for costs of holding certain inquiries) is amended as follows.
+
+(2) In subsection (1A), before paragraph (a) insert—
+
+> (zza) a public examination under section 12I or 12P(6)(a) of the Planning and Compulsory Purchase Act 2004;
+
+.
+
+(3) After subsection (1B) insert—
+
+> (1BA) Where the qualifying procedure is a public examination of a spatial development strategy under section 12I or 12P(6)(a) of the Planning and Compulsory Purchase Act 2004, the appropriate authority is the Secretary of State.
+
+(4) In subsection (2), for “or corporate joint committee” substitute “, corporate joint committee or strategic planning authority”.
+
+(5) In subsection (3), for “or corporate joint committee” substitute “, corporate joint committee or strategic planning authority”.
+
+(6) In subsection (6), for “or corporate joint committee” substitute “, corporate joint committee or strategic planning authority”.
+
+(7) In subsection (9A)—
+
+(a) in the opening words and in paragraph (a), for “or corporate joint committee” substitute “, corporate joint committee or strategic planning authority”;
+
+(b) for paragraph (b) substitute—
+
+> (b) the Secretary of State (or a person acting on the Secretary of State’s behalf) holds a public or independent examination in relation to a strategy, plan or document prepared by the local planning authority or strategic planning authority, or by the Secretary of State under section 12P(2)(a) or 15HA(2)(a) of that Act.
+
+(8) After subsection (9B) (as inserted by paragraph 7(4) of Schedule 8 to LURA 2023) insert—
+
+> (9C) In a case where a qualifying procedure is carried out in relation to a spatial development strategy that is prepared by a strategic planning board under Part 1A of the Planning and Compulsory Purchase Act 2004 (see section 12B of that Act), the Secretary of State may for the purposes of this section apportion the amount that may be recovered in accordance with subsections (4) to (6) between the constituent authorities of the board, on such basis as the Secretary of State considers just and reasonable.
+
+(9) After subsection (12) (as inserted by paragraph 7(6) of Schedule 8 to LURA 2023) insert—
+
+> (13) In this section “strategic planning authority” has the meaning given by section 12A of the Planning and Compulsory Purchase Act 2004.
+
+### Planning and Compulsory Purchase Act 2004 (prospective)
+
+**2** PCPA 2004 is amended as set out in paragraphs 3 to 5.
+
+**3** In section 15LH (interpretation) (as inserted by Schedule 7 to LURA 2023), in subsection (3), in the definition of “spatial development strategy”—
+
+(a) in paragraph (b), after “adopted” insert “before Part 1A comes into force”;
+
+(b) after paragraph (b) insert—
+
+> (ba) a spatial development strategy adopted before Part 1A comes into force by a combined county authority established under section 9 of the Levelling-up and Regeneration Act 2023;
+>
+> (bb) a spatial development strategy within the meaning of Part 1A (see section 12W(1));
+
+.
+
+**4** In section 39A (assistance with plan making) (as inserted by section 100 of LURA 2023), in subsection (5), after paragraph (b) insert—
+
+> (ba) a spatial development strategy within the meaning of Part 1A (see section 12W(1));
+
+.
+
+**5** In section 113 (validity of strategies, plans and documents)—
+
+(a) in subsection (9)(f) (as inserted by paragraph 23(3)(c) of Schedule 8 to LURA 2023), after “adopted” insert “before Part 1A comes into force”;
+
+(b) after subsection (9)(f) insert—
+
+> (fa) in the case of a spatial development strategy adopted before Part 1A comes into force by a combined county authority established under section 9 of the Levelling-up and Regeneration Act 2023, or any alteration or replacement of it, whichever provisions of (or applied by) an order under that Act give the combined county authority powers in relation to such a strategy;
+>
+> (fb) Part 1A of this Act in the case of a spatial development strategy within the meaning of that Part (see section 12W(1)), or any alteration or replacement of it.
+
+### Levelling-up and Regeneration Act 2023 (prospective)
+
+**6** LURA 2023 is amended as set out in paragraphs 7 to 11.
+
+**7** In section 91 (interpretation of Chapter 1 of Part 3), in the definition of “relevant planning authority”, after paragraph (e) insert—
+
+> (ea) a strategic planning authority (within the meaning given in section 12A of PCPA 2004),
+
+.
+
+**8** In section 97 (plan making), omit “joint spatial development strategies,”.
+
+**9** In section 100 (assistance with plan making), in section 39A of PCPA 2004 inserted by that section, in subsection (5)(b), omit “or Part 2 of this Act”.
+
+**10** In Schedule 7 (plan making), omit the following provisions substituted for sections 15 to 37 of PCPA 2004—
+
+(a) sections 15A to 15AI;
+
+(b) the italic heading before section 15A;
+
+(c) section 15LE(2)(a), (b) and (c);
+
+(d) in section 15LH(3)—
+
+(i) the definition of “joint spatial development strategy”;
+
+(ii) paragraph (c) of the definition of “spatial development strategy”.
+
+**11** (1) Schedule 8 (minor and consequential amendments in connection with Chapter 2 of Part 3) is amended as follows.
+
+(2) In paragraph 7, omit sub-paragraph (2)(a).
+
+(3) In paragraph 21(a), in the words substituted for words in section 39(1)(b) of PCPA 2004, omit “joint spatial development strategy,”.
+
+(4) In paragraph 23—
+
+(a) in sub-paragraph (3)(c), omit paragraph (g) inserted into section 113(9) of PCPA 2004;
+
+(b) in sub-paragraph (5), in subsection (13) inserted into section 113 of PCPA 2004, for “, “spatial development strategy for London” and “joint spatial development strategy”” substitute “and “spatial development strategy for London””.
+
+(5) In paragraph 25—
+
+(a) in paragraph (a), omit paragraph (za) inserted into section 122(5) of PCPA 2004;
+
+(b) in paragraph (b), in the words inserted into section 122(6) of PCPA 2004, omit “(za),”.
+
+(6) In paragraph 39(6), in paragraph (6)(a) inserted into regulation 108 of the Habitats Regulations, omit “joint spatial development strategy,”.
+
+(7) In paragraph 40—
+
+(a) in sub-paragraph (2)(a), in the words substituted for words in paragraph (b) of the definition of “land use plan” in regulation 111(1) of the Habitats Regulations, omit “joint spatial development strategy,”;
+
+(b) in sub-paragraph (3)(a), omit sub-paragraph (aa) substituted for regulation 111(2)(a) and (b) of the Habitats Regulations.
+
+### Habitats Regulations (prospective)
+
+**12** (1) Regulation 111 of the Habitats Regulations (interpretation of Chapter 8) is amended as follows.
+
+(2) In paragraph (1), in the definition of “land use plan”—
+
+(a) in paragraph (a), for “(the spatial development strategy)” substitute “(the spatial development strategy for London)”;
+
+(b) after paragraph (a) insert—
+
+> (aa) a spatial development strategy as provided for in Part 1A of the 2004 Planning Act;
+>
+> (ab) a spatial development strategy of a combined authority established under section 103 of the Local Democracy, Economic Development and Construction Act 2009, not being a spatial development strategy within paragraph (aa);
+>
+> (ac) a spatial development strategy of a combined county authority established under section 9 of the Levelling-up and Regeneration Act 2023, not being a spatial development strategy within paragraph (aa);
+
+.
+
+(3) In paragraph (1), in the definition of “plan-making authority”—
+
+(a) in paragraph (a), after “replacement” insert “of the spatial development strategy for London”;
+
+(b) after paragraph (a) insert—
+
+> (aa) a strategic planning authority (within the meaning given in section 12A of the 2004 Planning Act);
+>
+> (ab) a combined authority established under section 103 of the Local Democracy, Economic Development and Construction Act 2009 when exercising powers in relation to a spatial development strategy specified in paragraph (ab) of the definition of “land use plan”;
+>
+> (ac) a combined county authority established under section 9 of the Levelling-up and Regeneration Act 2023 when exercising powers in relation to a spatial development strategy specified in paragraph (ac) of the definition of “land use plan;
+
+;
+
+(c) in paragraph (c), before sub-paragraph (ii) insert—
+
+> (ia) section 12P or 12Q of the 2004 Planning Act (Secretary of State’s powers in relation to spatial development strategy);
+
+.
+
+(4) In paragraph (2)—
+
+(a) in sub-paragraph (c), after “strategy”, in both places, insert “for London”;
+
+(b) after sub-paragraph (c) insert—
+
+> (ca) the adoption or approval of a spatial development strategy or of an alteration of such a strategy under Part 1A of the 2004 Planning Act;
+>
+> (cb) the adoption or alteration of a spatial development strategy specified in paragraph (ab) of the definition of “land use plan”;
+>
+> (cc) the adoption or alteration of a spatial development strategy specified in paragraph (ac) of the definition of “land use plan”;
+
+.
+
+### Interpretation (prospective)
+
+**13** In this Schedule—
+
+- “PCPA 2004” means the Planning and Compulsory Purchase Act 2004;
+- “LURA 2023” means the Levelling-up and Regeneration Act 2023;
+- “Habitats Regulations” means the Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012).
+
+## Schedule 3 — Environmental delivery plans: effect on environmental obligations
+
+*Section 72(4)*
+
+### Protected sites: assessments under Part 6 of the Habitats Regulations 2017
+
+**1** (1) Sub-paragraph (2) applies where—
+
+(a) an environmental feature identified in an EDP in accordance with section 61(1)(a) is a protected feature of a European site or a Ramsar site, and
+
+(b) a developer has committed to pay, in respect of a development, such amount of the nature restoration levy set out in a charging schedule to the EDP as applies in relation to an environmental impact of the development on that protected feature.
+
+(2) The environmental impact of the development on the protected feature is to be disregarded for the purposes of Part 6 of the Habitats Regulations 2017.
+
+### Protected sites: SSSIs
+
+**2** (1) Sub-paragraph (2) applies where—
+
+(a) an environmental feature identified in an EDP in accordance with section 61(1)(a) is a protected feature of an SSSI, and
+
+(b) a developer has committed to pay, in respect of a development, such amount of the nature restoration levy set out in a charging schedule to the EDP as applies in relation to an environmental impact of the development on that protected feature.
+
+(2) The environmental impact of the development on the protected feature is to be disregarded for the purposes of—
+
+(a) a determination by Natural England on whether to give consent (and if so on what terms) under section 28E of the Wildlife and Countryside Act 1981 or withdraw or modify any such consent,
+
+(b) a determination by the Secretary of State of an appeal under section 28F of that Act (appeals in connection with consents),
+
+(c) section 28H of that Act (statutory undertakers etc: duty in relation to carrying out operations),
+
+(d) section 28I of that Act (statutory undertakers etc: duty in relation to authorising operations), and
+
+(e) section 28P(2) and (5A) of that Act (offences in connection with sections 28H and 28I of that Act).
+
+### Protected sites: marine conservation zones
+
+**3** (1) Sub-paragraph (2) applies where—
+
+(a) an environmental feature identified in an EDP in accordance with section 61(1)(a) is a protected feature of a marine conservation zone, and
+
+(b) a developer has committed to pay, in respect of a development, such amount of the nature restoration levy set out in a charging schedule to the EDP as applies in relation to an environmental impact of the development on that protected feature.
+
+(2) The environmental impact of the development on the protected feature is to be disregarded for the purposes of—
+
+(a) section 125 of the Marine and Coastal Access Act 2009 (general duties of public authorities in relation to MCZs) insofar as it applies to any function of a public authority of determining an application (whenever made) relating to the development, and
+
+(b) section 126 of that Act (duties of public authorities in relation to certain decisions).
+
+### Protected species: licences under Part 5 of the Habitats Regulations 2017
+
+**4** (1) Sub-paragraph (2) applies where—
+
+(a) an environmental feature identified in an EDP in accordance with section 61(1)(a) is a species listed in Schedule 2, 4 or 5 to the Habitats Regulations 2017, and
+
+(b) a developer has committed to pay, in respect of a development, such amount of the nature restoration levy set out in a charging schedule to the EDP as applies in relation to an environmental impact of the development on that protected species.
+
+(2) A licence under regulation 55(1) of the Habitats Regulations 2017, relating to the protected species and on the terms set out in the EDP, is to be treated as having been granted to the developer by the relevant licensing body (see regulation 58(4A) of those Regulations).
+
+### Protected species: licences under Part 1 of the Wildlife and Countryside Act 1981
+
+**5** (1) Sub-paragraph (2) applies where—
+
+(a) an environmental feature identified in an EDP in accordance with section 61(1)(a) is a species protected by Part 1 of the Wildlife and Countryside Act 1981, and
+
+(b) a developer has committed to pay, in respect of a development, such amount of the nature restoration levy set out in a charging schedule to the EDP as applies in relation to an environmental impact of the development on that protected species.
+
+(2) A licence under section 16(3)(j) of the Wildlife and Countryside Act 1981, relating to the protected species and on the terms set out in the EDP, is to be treated as having been granted to the developer by the appropriate authority (see section 16(8A) and (9) of that Act).
+
+### Protected species: licences under the Protection of Badgers Act 1992
+
+**6** (1) Sub-paragraph (2) applies where—
+
+(a) badgers are identified in an EDP as an environmental feature in accordance with section 61(1)(a), and
+
+(b) a developer has committed to pay, in respect of a development, such amount of the nature restoration levy set out in a charging schedule to the EDP as applies in relation to an environmental impact of the development on badgers.
+
+(2) A licence under section 10 of the Protection of Badgers Act 1992, on the terms set out in the EDP, is to be treated as having been granted by Natural England to the developer.
+
+## Schedule 4 — Compulsory acquisition of land under Part 3: supplementary provisions
+
+*Section 89(8)*
+
+### Application of Acquisition of Land Act 1981
+
+**1** (1) The Acquisition of Land Act 1981 (“ALA 1981”) applies to the compulsory acquisition of land under section 89, with the following modification.
+
+(2) Section 17(2) of ALA 1981 (orders to be subject to special parliamentary procedure in certain cases involving local authority or statutory undertakers’ land) does not apply to the acquisition of an interest in land by Natural England acting under section 89.
+
+**2** (1) Schedule 3 to ALA 1981 applies to the acquisition of new rights under section 89, with the following modification.
+
+(2) Paragraph 4(2) of that Schedule (orders to be subject to special parliamentary procedure in certain cases involving local authority or statutory undertakers’ land) does not apply to the acquisition of an interest in land by Natural England acting under section 89.
+
+### Extinguishment of private rights of way etc
+
+**3** (1) Sub-paragraph (2) applies where Natural England completes the compulsory acquisition of land under section 89.
+
+(2) On completion of the acquisition—
+
+(a) all private rights of way on, under or over the land are extinguished,
+
+(b) all rights of laying down, erecting, continuing or maintaining any apparatus on, under or over the land are extinguished, and
+
+(c) any such apparatus vests in Natural England.
+
+(3) Sub-paragraph (2) is subject to paragraphs 4 to 7.
+
+**4** Natural England may give a direction before the completion of the acquisition that paragraph 3(2) is not to apply to any right or apparatus specified in the direction.
+
+**5** Paragraph 3(2) is subject to any agreement which may be made (whether before or after the completion of the acquisition) between—
+
+(a) Natural England, and
+
+(b) the person—
+
+(i) in whom the right or apparatus concerned is vested, or
+
+(ii) to whom it belongs.
+
+**6** (1) Paragraph 3(2) does not apply to—
+
+(a) any right vested in statutory undertakers for the purpose of carrying on their undertaking,
+
+(b) any apparatus belonging to statutory undertakers for that purpose,
+
+(c) any right conferred by, or in accordance with, the electronic communications code on the operator of an electronic communications code network, or
+
+(d) any electronic communications apparatus kept installed for the purposes of any such network.
+
+(2) In sub-paragraph (1) “statutory undertakers” means persons who are, or are deemed to be, statutory undertakers for the purposes of any provision of Part 11 of the Town and Country Planning Act 1990; and “undertaking” is to be read in accordance with section 262 of that Act (meaning of “statutory undertakers”).
+
+**7** (1) Any person who suffers loss by the extinguishment of a right, or the vesting of any apparatus, under paragraph 3 is entitled to compensation from Natural England.
+
+(2) Any compensation payable under this paragraph is to be determined in accordance with the Land Compensation Act 1961.
+
+### New rights: application of Compulsory Purchase Act 1965
+
+**8** (1) The Compulsory Purchase Act 1965 (“CPA 1965”) applies to the compulsory acquisition of new rights under section 89 as it applies to the compulsory purchase of land.
+
+(2) In its application to the compulsory acquisition of such new rights, that Act is to have effect subject to—
+
+(a) the modifications specified in paragraphs 9 to 14, and
+
+(b) such other modifications as are necessary.
+
+(3) One result of sub-paragraph (2)(b) is that, in appropriate contexts, references in that Act to land are to be read as referring, or as including references, to—
+
+(a) the rights acquired or to be acquired, or
+
+(b) land over which the rights are, or are to be, exercisable,
+
+according to the requirements of the particular context.
+
+**9** Section 7 of CPA 1965 is to have effect as if for the words of that section there were substituted—
+
+> **Measure of compensation in case of acquisition of new right**
+>
+> **7** (1) In assessing the compensation to be paid by the acquiring authority under this Act regard shall be had not only to the extent (if any) to which the value of the land over which the right is acquired is depreciated by the acquisition but also to the damage (if any) to be sustained by the owner of the land by reason of injurious affection of other land of the owner by the exercise of the right.
+>
+> (2) The modifications subject to which subsection (1) of section 44 of the Land Compensation Act 1973 (compensation for injurious affection) is to have effect, as applied by subsection (2) of that section to compensation for injurious affection under this section, are that—
+>
+> (a) for “land is acquired or taken” there is substituted “a right over land is acquired”; and
+>
+> (b) for “acquired or taken from him” there is substituted “over which the right is exercisable”.
+
+**10** (1) Section 8(1) of CPA 1965 is to have effect as if references to acquiring land were to acquiring a right in the land.
+
+(2) Schedule 2A to CPA 1965 is to be read as if, for the words of that Schedule, there were substituted—
+
+> **Schedule 2A — Counter-notice requiring purchase of land**
+>
+> **Introduction**
+>
+> **1** (1) This Schedule applies where an acquiring authority serve a notice to treat in respect of a right over the whole or part of a house, building or factory.
+>
+> (2) But see section 2A of the Acquisition of Land Act 1981 (under which a compulsory purchase order can exclude from this Schedule land that is 9 metres or more below the surface).
+>
+> **2** In this Schedule “house” includes any park or garden belonging to a house.
+>
+> **Counter-notice requiring purchase of land**
+>
+> **3** A person who is able to sell the house, building or factory (“the owner”) may serve a counter-notice requiring the authority to purchase the owner’s interest in the house, building or factory.
+>
+> **4** A counter-notice under paragraph 3 must be served within the period of 28 days beginning with the day on which the notice to treat was served.
+>
+> **Response to counter-notice**
+>
+> **5** On receiving a counter-notice the acquiring authority must decide whether to—
+>
+> (a) withdraw the notice to treat,
+>
+> (b) accept the counter-notice, or
+>
+> (c) refer the counter-notice to the Upper Tribunal.
+>
+> **6** The authority must serve notice of their decision on the owner within the period of 3 months beginning with the day on which the counter-notice is served (“the decision period”).
+>
+> **7** If the authority decide to refer the counter-notice to the Upper Tribunal they must do so within the decision period.
+>
+> **8** If the authority do not serve notice of a decision within the decision period they are to be treated as if they had served notice of a decision to withdraw the notice to treat at the end of that period.
+>
+> **9** If the authority serve notice of a decision to accept the counter-notice, the compulsory purchase order and the notice to treat are to have effect as if they included the owner’s interest in the house, building or factory.
+>
+> **Determination by Upper Tribunal**
+>
+> **10** On a referral under paragraph 7 the Upper Tribunal must determine whether the acquisition of the right would—
+>
+> (a) in the case of a house, building or factory, cause material detriment to the house, building or factory, or
+>
+> (b) in the case of a park or garden, seriously affect the amenity or convenience of the house to which the park or garden belongs.
+>
+> **11** In making its determination, the Upper Tribunal must take into account—
+>
+> (a) the effect of the acquisition of the right,
+>
+> (b) the proposed use of the right, and
+>
+> (c) if the right is proposed to be acquired for works or other purposes extending to other land, the effect of the whole of the works and the use of the other land.
+>
+> **12** If the Upper Tribunal determines that the acquisition of the right would have either of the consequences described in paragraph 10 it must determine how much of the house, building or factory the authority ought to be required to take.
+>
+> **13** If the Upper Tribunal determines that the authority ought to be required to take some or all of the house, building or factory the compulsory purchase order and the notice to treat are to have effect as if they included the owner’s interest in that land.
+>
+> **14** (1) If the Upper Tribunal determines that the authority ought to be required to take some or all of the house, building or factory, the authority may at any time within the period of 6 weeks beginning with the day on which the Upper Tribunal makes its determination withdraw the notice to treat in relation to that land.
+>
+> (2) If the acquiring authority withdraws the notice to treat under this paragraph they must pay the person on whom the notice was served compensation for any loss or expense caused by the giving and withdrawal of the notice.
+>
+> (3) Any dispute as to the compensation is to be determined by the Upper Tribunal.
+
+**11** (1) The provisions of CPA 1965 mentioned in sub-paragraph (2) (which state the effect of a deed poll executed in various circumstances where there is no conveyance by persons with interests in the land) are to be read as if they were modified in accordance with sub-paragraph (3).
+
+(2) The provisions are—
+
+(a) section 9(4) (failure of owners to convey),
+
+(b) paragraph 10(3) of Schedule 1 (owners under incapacity),
+
+(c) paragraph 2(3) of Schedule 2 (absent and untraced owners), and
+
+(d) paragraphs 2(3) and 7(2) of Schedule 4 (common land).
+
+(3) The provisions are to be read as if they were modified so as to secure that, as against persons with interests in the land which are expressed to be overridden by the deed, the right which is to be acquired compulsorily is vested absolutely in the acquiring authority.
+
+**12** Section 11 of CPA 1965 (powers of entry) is to be read as if it were modified so as to secure that, where the acquiring authority have served notice to treat in respect of any right as well as the notice required by subsection (1) of that section (as it applies to a compulsory acquisition under section 89), they have power, exercisable in the same circumstances and subject to the same conditions, to enter for the purpose of exercising that right; and sections 11A (powers of entry: further notices of entry), 11B (counter-notice requiring possession to be taken on specified date), 12 (penalty for unauthorised entry) and 13 (entry on enforcement officer’s or sheriff’s warrant in the event of obstruction) of that Act are modified accordingly.
+
+**13** Section 20 of CPA 65 (compensation for short-term tenants) is to be read as if it were modified so as to secure that persons with such interests as are mentioned in that section are compensated in a manner corresponding to that in which they would be compensated on a compulsory purchase of the interests but taking into account only the extent (if any) of such interference with such interests as is actually caused, or likely to be caused, by the exercise of the right concerned.
+
+**14** Section 22 of CPA 65 (protection of acquiring authority’s possession of land where by inadvertence an interest in the land has not been purchased) is to be read as if it were modified so as to enable the acquiring authority, in circumstances corresponding to those referred to in that section, to continue to be entitled to exercise the right concerned, subject to compliance with that section as respects compensation.
+
+### New rights: application of the Compulsory Purchase (Vesting Declarations) Act 1981
+
+**15** The Compulsory Purchase (Vesting Declarations) Act 1981 (“CP(VD)A 1981”) applies to the compulsory acquisition of new rights under section 89—
+
+(a) with the modifications specified in paragraph 16, and
+
+(b) with such other modifications as may be necessary.
+
+**16** (1) The modifications of CP(VD)A 1981 referred to in paragraph 15(a) are as follows.
+
+(2) References to CPA 1965 are, in appropriate contexts, to be read (according to the requirements of the particular context) as referring to, or as including references to—
+
+(a) the right acquired or to be acquired, or
+
+(b) the land over which the right is, or is to be, exercisable.
+
+(3) References to CPA 1965 are to be read as references to that Act as it applies to the compulsory acquisition of a right under section 89.
+
+(4) Section 8(1) (vesting, and right to enter and take possession) is to be read as securing that—
+
+(a) a general vesting declaration in respect of any right vests the right in the acquiring authority on the vesting date, and
+
+(b) as from the vesting date, the acquiring authority has power, exercisable in the same circumstances and subject to the same conditions, to enter land for the purpose of exercising that right as if the circumstances mentioned in paragraph (a) and (b) of section 8(1) had arisen.
+
+(5) Section 9(2) (right of entry under section 8(1) not exercisable in respect of land subject to certain tenancies unless notice has been served on occupiers of the land) is to be read as requiring a notice served by the appropriate authority under that provision to refer to the authority’s intention to enter land specified in the notice in order to exercise the right.
+
+(6) In section 10(1) (acquiring authority’s liability on vesting of the land), the reference to the acquiring authority’s taking possession of the land under section 11 of CPA 1965 is to be read as a reference to the authority’s exercising the power to enter the land under that provision as modified by paragraph 12 of this Schedule.
+
+(7) Schedule A1 (counter-notice requiring purchase of land not in general vesting declaration) is to be read as if—
+
+(a) in paragraph 1(1), for “part only of” there were substituted “only the acquisition of a right over”;
+
+(b) paragraph 1(2) were omitted;
+
+(c) references to the land proposed to be acquired were (subject to paragraph (e) below) to the right proposed to be acquired;
+
+(d) references to the additional land were to the house, building or factory over which the right is proposed to be exercisable;
+
+(e) in paragraphs 14 and 15, references to the severance of land proposed to be acquired were to the acquisition of the right; and
+
+(f) in paragraph 15, after “in addition to” there were inserted “or in substitution for”.
+
+### New rights: compensation
+
+**17** (1) The enactments relating to compensation for the compulsory purchase of land apply—
+
+(a) with the modification specified in paragraph 18, and
+
+(b) with such other modifications as are necessary,
+
+in relation to the acquisition of new rights under section 89 as they apply to compensation for the compulsory purchase of land.
+
+(2) Sub-paragraph (1) is without prejudice to the generality of paragraph 8.
+
+**18** Section 5A (relevant valuation date) of the Land Compensation Act 1961 is to be read as if for subsections (5A) and (5B) there were substituted—
+
+> (5A) If—
+>
+> (a) the acquiring authority enters on land for the purpose of exercising a right in pursuance of a notice of entry under section 11(1) of the Compulsory Purchase Act 1965 (as modified by paragraph 12 of Schedule 4 to the Planning and Infrastructure Act 2025),
+>
+> (b) the acquiring authority is subsequently required by a determination under paragraph 13 of Schedule 2A to the 1965 Act (as substituted by paragraph 10 of Schedule 4 to the Planning and Infrastructure Act 2025) to acquire an interest in the land, and
+>
+> (c) the acquiring authority enters on and takes possession of that land,
+>
+> the authority is deemed for the purposes of subsection (3)(a) to have entered on that land when it entered on that land for the purpose of exercising that right.
+>
+> (5B) If—
+>
+> (a) a right over land is the subject of a general vesting declaration,
+>
+> (b) by virtue of paragraph 11(2) or 16(2) of Schedule A1 to the Compulsory Purchase (Vesting Declarations) Act 1981, the declaration has effect as if it included an interest in the land, and
+>
+> (c) the vesting date for the right is different from the vesting date for the interest in the land,
+>
+> the first of the vesting dates is deemed for the purposes of subsection (4)(a) to be the vesting date for the whole of the land.
+
+## Schedule 5 — Amendments relating to Part 3
+
+*Section 96*
+
+### Part 1 — Ramsar sites: amendments to the Habitats Regulations 2017
+
+**1** The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012) are amended as follows.
+
+**2** In regulation 3 (interpretation), in paragraph (1)—
+
+(a) after the definition of “marine area” insert—
+
+> - “the national Ramsar site series” means all the wetlands in the United Kingdom that have been designated under paragraph 1 of article 2 of the Ramsar Convention for inclusion in the list of wetlands of international importance referred to in that article;
+
+;
+
+(b) after the definition of “priority species” insert—
+
+> - “Ramsar Convention” means the Convention on Wetlands of International Importance especially as Waterfowl Habitat signed at Ramsar on 2 February 1971, as amended by—
+>
+>   - the Protocol known as the Paris Protocol done at Paris on 3 December 1982, and
+>   - the amendments known as the Regina Amendments adopted at the Extraordinary Conference of the Contracting Parties held at Regina, Saskatchewan, Canada, between 28 May and 3 June 1987;
+>
+>   but if that Convention is further amended after the passing of the Planning and Infrastructure Act 2025, the references to the Ramsar Convention in these Regulations are to be taken after the entry into force of the further amendments as referring to that Convention as further amended (and the reference to paragraph 1 of article 2 is, if necessary, to be taken as referring to the appropriate successor provision);
+>
+> - “Ramsar site” means a site that has been designated under paragraph 1 of article 2 of the Ramsar Convention for inclusion in the list of wetlands of international importance referred to in that article;
+
+.
+
+**3** In regulation 24 (assessment of implications for European sites)—
+
+(a) after paragraph (2) insert—
+
+> (2A) Where it appears to Natural England that a notice of a proposal under section 28E(1)(a) of the WCA 1981 relates to an operation which is or forms part of a plan or project situated wholly in England which—
+>
+> (a) is likely to have a significant effect on a Ramsar site (either alone or in combination with other plans or projects), and
+>
+> (b) is not directly connected with or necessary to the management of that site,
+>
+> it must make an appropriate assessment of the implications for that site in view of that site’s conservation objectives.
+>
+> (2B) In the light of the conclusions of the assessment, Natural England may give consent for the operation only after having ascertained that the plan or project will not adversely affect the integrity of the site.
+
+;
+
+(b) in the heading, at the end insert “and certain Ramsar sites”.
+
+**4** In regulation 25 (sites of special scientific interest which become European sites: duty to review)—
+
+(a) in paragraph (1)—
+
+(i) after “where” insert
+
+> —
+>
+> (a)
+
+;
+
+(ii) at the end insert
+
+> , or
+>
+> (b) a consent for an operation situated wholly in England has been given under section 28E(3)(a) of the WCA 1981 (or has effect as if given under that section) in relation to land included in a site of special scientific interest which, after the date of that consent, becomes land within a Ramsar site.
+
+;
+
+(b) in paragraph (3)—
+
+(i) in sub-paragraph (a), after “24(1)” insert “or (2A)”;
+
+(ii) in sub-paragraph (b), after “24(2)” insert “or (2B)”;
+
+(c) in the heading, after “European sites” insert “or Ramsar sites”.
+
+**5** In the italic heading before regulation 63, for “and European offshore marine sites” substitute “, European offshore marine sites and certain Ramsar sites”.
+
+**6** In regulation 63 (assessment of implications for European sites and European offshore marine sites)—
+
+(a) after paragraph (1) insert—
+
+> (1A) A competent authority, before deciding to undertake, or give any consent, permission or other authorisation for, a plan or project situated wholly in England which—
+>
+> (a) is likely to have a significant effect on a Ramsar site (either alone or in combination with other plans or projects), and
+>
+> (b) is not directly connected with or necessary to the management of that site,
+>
+> must make an appropriate assessment of the implications of the plan or project for that site in view of that site’s conservation objectives.
+
+;
+
+(b) in paragraph (5), after “European site” insert “, the Ramsar site”;
+
+(c) in paragraph (9), for “paragraph (1)” substitute “paragraphs (1) and (1A)”;
+
+(d) in the heading, for “and European offshore marine sites” substitute “, European offshore marine sites and certain Ramsar sites”.
+
+**7** In regulation 64 (considerations of overriding public interest), in paragraph (1), after “European site” insert “, the Ramsar site”.
+
+**8** In regulation 65 (review of existing decisions and consents) in paragraph (1)—
+
+(a) after “European site” insert “, a Ramsar site”;
+
+(b) after “63(1)” insert “or (1A)”.
+
+**9** In regulation 67 (co-ordination where more than one competent authority involved)—
+
+(a) in paragraph (2), after “(1)” insert “or (1A)”;
+
+(b) in paragraph (3)(a), after “European site” insert “, a Ramsar site”;
+
+(c) in paragraph (3)(b), after “European site” insert “, a Ramsar site”.
+
+**10** In regulation 68—
+
+(a) the existing text becomes paragraph (1);
+
+(b) at the end insert—
+
+> (2) Where in accordance with regulation 64—
+>
+> (a) a plan or project in England is agreed to, notwithstanding a negative assessment of the implications for a Ramsar site, or
+>
+> (b) a decision, or a consent, permission or other authorisation, is affirmed on review, notwithstanding such an assessment,
+>
+> the appropriate authority must secure that any necessary compensatory measures are taken to ensure that the overall coherence of the national Ramsar site series is protected.
+
+**11** In regulation 70 (grant of planning permission)—
+
+(a) in paragraph (2), after “European site” insert “, a Ramsar site”;
+
+(b) in paragraph (3), after “European site” insert “, a Ramsar site”.
+
+**12** In regulation 72 (planning permission: consideration on review), in paragraph (3), after “European site” insert “, a Ramsar site”.
+
+**13** In regulation 73 (planning permission: effect of orders made on review), in paragraph (6), after “European site” insert “, a Ramsar site”.
+
+**14** (1) In regulation 75 (general development orders)—
+
+(a) the existing text becomes paragraph (1);
+
+(b) at the end insert—
+
+> (2) It is a condition of any planning permission granted by a general development order made by the Secretary of State on or after the day on which this paragraph comes into force that development which—
+>
+> (a) is likely to have a significant effect on a Ramsar site (either alone or in combination with other plans or projects), and
+>
+> (b) is not directly connected with or necessary to the management of the site,
+>
+> must not be begun until the developer has received written notification of the approval of the local planning authority under regulation 77 (approval of local planning authority).
+
+(2) In regulation 75(2) (as inserted by sub-paragraph (1)), after “force” insert “or a street vote development order”.
+
+**15** In regulation 76 (general development orders: opinion of appropriate nature conservation body), in paragraph (7), for “75(a)” substitute “75(1)(a) or (2)(a)”.
+
+**16** In regulation 77 (general development orders: approval of local planning authority), in paragraph (6), after “European site” insert “, the Ramsar site”.
+
+**17** In regulation 79 (special development orders), in paragraph (4)(b), after “European site” insert “, a Ramsar site”.
+
+**18** In regulation 80 (local development orders), in paragraph (4)(b), after “European site” insert “, a Ramsar site”.
+
+**19** In regulation 81 (neighbourhood development orders), in paragraph (4)(b), after “European site” insert “, a Ramsar site”.
+
+**20** In regulation 82 (simplified planning zones)—
+
+(a) after paragraph (2) insert—
+
+> (2A) Where a simplified planning zone scheme for an area in England is adopted or approved, that scheme is not to be taken to grant planning permission for development which—
+>
+> (a) is likely to have a significant effect on a Ramsar site (either alone or in combination with other plans or projects), and
+>
+> (b) is not directly connected with or necessary to the management of the site,
+>
+> unless adopted or approved in accordance with the assessment provisions.
+
+;
+
+(b) in paragraph (5)(b), after “European site” insert “, a Ramsar site”.
+
+**21** In regulation 83 (enterprise zones)—
+
+(a) after paragraph (2) insert—
+
+> (2A) Where an order designating an enterprise zone is made for an area wholly in England, or where a modified enterprise zone scheme is approved for such an area, that order or scheme is not to be taken to grant planning permission for development which—
+>
+> (a) is likely to have a significant effect on a Ramsar site (either alone or in combination with other plans or projects), and
+>
+> (b) is not directly connected with or necessary to the management of the site,
+>
+> unless made or approved in accordance with the assessment provisions.
+
+;
+
+(b) after paragraph (4) insert—
+
+> (4A) Paragraph (2A) does not apply to an order made or a scheme approved before the day on which this paragraph comes into force.
+
+;
+
+(c) in paragraph (5)(b), after “European site” insert “, a Ramsar site”.
+
+**22** In regulation 84 (grant of development consent), in paragraph (2), after “European site” insert “, a Ramsar site”.
+
+**23** In regulation 85 (development consent: review), in paragraph (1)(a), after “European site” insert “, a Ramsar site”.
+
+**24** In regulation 85A (assumptions to be made about nutrient pollution standards: general), in paragraph (6)(a), after “63(1)” insert “or (1A)”.
+
+**25** In regulation 87 (construction or improvement of highways or roads), in paragraph (2)(b), after “European site” insert “, a Ramsar site”.
+
+**26** In regulation 88 (cycle tracks and other ancillary works), at end insert—
+
+> (4) Section 3(10) of that Act is not to be taken to deem planning permission to be granted for development wholly in England which—
+>
+> (a) is likely to have a significant effect on a Ramsar site (either alone or in combination with other plans or projects), and
+>
+> (b) is not directly connected with or necessary to the management of the site,
+>
+> whether or not the development authorised by the permission has been begun, unless the competent authority has agreed to the plan or project in accordance with the assessment provisions.
+
+**27** In regulation 89 (consents under Electricity Act 1989: application of assessment and review provisions)—
+
+(a) in paragraph (2), after “European site” insert “, a Ramsar site”;
+
+(b) in paragraph (6), after “European site” insert “, a Ramsar site”;
+
+(c) in paragraph (8), after “European site” insert “, a Ramsar site”.
+
+**28** In regulation 93 (authorisations under Pipe-lines Act 1962: application of assessment and review provisions)—
+
+(a) in paragraph (2), after “European site” insert “, a Ramsar site”;
+
+(b) in paragraph (3)(a)(ii), after “European site” insert “, a Ramsar site”;
+
+(c) in paragraph (4), after “European site” insert “, a Ramsar site”.
+
+**29** In regulation 97 (orders under Transport and Works Act 1992: application of assessment and review provisions)—
+
+(a) in paragraph (2), after “European site” insert “, a Ramsar site”;
+
+(b) in paragraph (3), after “European site” insert “, a Ramsar site”;
+
+(c) in paragraph (4), after “European site” insert “, a Ramsar site”.
+
+**30** In regulation 101 (environmental permits)—
+
+(a) in paragraph (2), after “European site” insert “, a Ramsar site”;
+
+(b) in paragraph (4), after “European site” insert “, a Ramsar site”.
+
+**31** In regulation 102 (abstraction and works authorised under water legislation)—
+
+(a) in paragraph (3), after “European site” insert “, a Ramsar site”;
+
+(b) in paragraph (6), after “European site” insert “, a Ramsar site”.
+
+**32** In regulation 103 (marine works)—
+
+(a) in paragraph (2), after “European site” insert “, a Ramsar site”;
+
+(b) in paragraph (4), after “European site” insert “, a Ramsar site”.
+
+**33** In regulation 104 (derogations in relation to nitrate pollution prevention legislation), in paragraph (2), after “European site” insert “, a Ramsar site”.
+
+**34** In regulation 105 (assessment of implications for European sites and European offshore marine sites)—
+
+(a) after paragraph (1) insert—
+
+> (1A) Where a land use plan relating to an area wholly in England—
+>
+> (a) is likely to have a significant effect on a Ramsar site (either alone or in combination with other plans or projects), and
+>
+> (b) is not directly connected with or necessary to the management of the site,
+>
+> the plan-making authority for that plan must, before the plan is given effect, make an appropriate assessment of the implications for the site in view of that site’s conservation objectives.
+
+;
+
+(b) in paragraph (4), after “European site” insert “, the Ramsar site”;
+
+(c) in the heading, for “and European offshore marine sites” substitute “, European offshore marine sites and certain Ramsar sites”.
+
+**35** In regulation 106 (assessment of implications for European site: neighbourhood development plans)—
+
+(a) in paragraph (3), after “European site” insert “or Ramsar site”;
+
+(b) in the heading, for “site” substitute “sites and Ramsar sites”.
+
+**36** In regulation 107 (considerations of overriding public interest), in paragraph (1), after “European site” insert “, the Ramsar site”.
+
+**37** In regulation 108 (co-ordination for land use plan prepared by more than one authority)—
+
+(a) in paragraph (2), after “(1)” insert “or (1A)”;
+
+(b) in paragraph (3), after “105(1)” insert “or (1A)”;
+
+(c) in paragraph (3)(a), after “European site” insert “, a Ramsar site”;
+
+(d) in paragraph (3)(b), after “European site” insert “, a Ramsar site”.
+
+**38** In regulation 109 (compensatory measures)—
+
+(a) the existing text becomes paragraph (1);
+
+(b) at the end insert—
+
+> (2) Where in accordance with regulation 107 a land use plan is given effect notwithstanding a negative assessment of the implications for a Ramsar site, the appropriate authority must secure that any necessary compensatory measures are taken to ensure that the overall coherence of the national Ramsar site series is protected.
+
+**39** In regulation 110A (assessments under this Chapter: required assumptions)—
+
+(a) in paragraph (5)(a), after “105(1)” insert “or (1A)”;
+
+(b) in paragraph (5)(b), after “105(1)” insert “or (1A)”.
+
+### Part 2 — Minor and consequential amendments related to Part 3
+
+#### Wildlife and Countryside Act 1981
+
+**40** (1) Section 16 of the Wildlife and Countryside Act 1981 (power to grant licences) is amended as follows (see also section 117(2) (extent of this paragraph is England and Wales only)).
+
+(2) After subsection (6) insert—
+
+> (6A) The maximum period for the validity of a licence set out in subsection (6)(b) does not apply to—
+>
+> (a) a licence granted to Natural England to facilitate the carrying out of any conservation measures within the meaning of Part 3 of the Planning and Infrastructure Act 2025, or
+>
+> (b) a licence that, by virtue of paragraph 5 of Schedule 3 to that Act, is treated as having been granted to a developer under subsection (3).
+
+(3) After subsection (8) insert—
+
+> (8ZA) In this section, in the case of a licence granted to Natural England under subsection (3) to facilitate the carrying out of any conservation measures within the meaning of Part 3 of the Planning and Infrastructure Act 2025, “the appropriate authority” means the Secretary of State.
+
+(4) In subsection (8A), at the end insert “, but this is subject to subsection (8ZA).”
+
+(5) In subsection (9), in the words before paragraph (a), after “subsections” insert “(8ZA),”.
+
+#### Town and Country Planning Act 1990
+
+**41** The Town and Country Planning Act 1990 is amended as follows.
+
+**42** In section 74A (deemed discharge of planning conditions), in subsection (2A)—
+
+(a) after “to” insert
+
+> —
+>
+> (a)
+
+;
+
+(b) at the end insert
+
+> , or
+>
+> (b) a condition that Natural England has requested under Part 3 of the Planning and Infrastructure Act 2025 (see sections 61(10) and 95 of that Act).
+
+**43** In section 100ZA (restrictions on power to impose planning conditions in England), in subsection (6), after “apply” insert
+
+> —
+>
+> (a) in relation to a condition that Natural England has requested under Part 3 of the Planning and Infrastructure Act 2025 (see sections 61(10) and 95 of that Act), or
+>
+> (b)
+
+.
+
+#### Protection of Badgers Act 1992
+
+**44** (1) Section 10 of the Protection of Badgers Act 1992 (licences) is amended as follows (see also section 117(2) (extent of this paragraph is England and Wales only)).
+
+(2) In subsection (1)—
+
+(a) in paragraph (d), for “to interfere with a badger sett” substitute “to kill or take badgers in England, or to interfere with a badger sett,”;
+
+(b) after paragraph (f) insert—
+
+> (fa) in England, for the purpose of preserving public health or safety or for reasons of overriding public interest, to kill or take badgers, or to interfere with a badger sett, within an area specified in the licence by any means so specified.
+
+(3) After subsection (1) insert—
+
+> (1A) In the case of a licence granted to Natural England to facilitate the carrying out of any conservation measures within the meaning of Part 3 of the Planning and Infrastructure Act 2025, the reference in subsection (1) to the appropriate conservation body is to be read as a reference to the Secretary of State.
+
+(4) In subsection (2)—
+
+(a) in paragraph (d), for “to interfere with a badger sett” substitute “to kill or take badgers in England, or to interfere with a badger sett,”;
+
+(b) at the end insert—
+
+> (e) in England, for the purpose of preserving public health or safety or for reasons of overriding public interest, to kill or take badgers, or to interfere with a badger sett, within an area specified in the licence by any means so specified.
+
+(5) After subsection (2) insert—
+
+> (2A) In the case of a licence that, by virtue of paragraph 6 of Schedule 3 to the Planning and Infrastructure Act 2025, is treated as having been granted to a developer under subsection (2)(d) or (e), the reference in subsection (2) to the appropriate Minister is to be read as a reference to Natural England.
+
+(6) In subsection (6), for “or (d)” substitute “, (d) or (e)”.
+
+(7) After subsection (8) insert—
+
+> (8A) A licence granted under this section in relation to an area in England—
+>
+> (a) may be, to any degree, general or specific;
+>
+> (b) may be granted either to persons of a class or to a particular person;
+>
+> (c) may be modified at any time by the authority by whom it was granted;
+>
+> (d) is to be valid for the period specified in the licence.
+>
+> (8B) A fee may be charged for granting a licence in relation to an area in England under this section.
+
+(8) After subsection (9) insert—
+
+> (9A) Natural England or the Secretary of State must not grant a licence under this section in relation to an area in England unless satisfied—
+>
+> (a) that there is no other satisfactory solution, and
+>
+> (b) that the grant of the licence is not detrimental to the survival of any population of badgers.
+
+#### Marine and Coastal Access Act 2009
+
+**45** (1) The Marine and Coastal Access Act 2009 is amended as follows.
+
+(2) In section 125 (general duties of public authorities in relation to MCZs), after subsection (12) insert—
+
+> (12A) This section does not apply to the exercise by a public authority of functions under or by virtue of Part 3 of the Planning and Infrastructure Act 2025 (development and nature recovery).
+
+(3) In section 141 (exceptions to offences under section 139 or 140), in subsection (1), after paragraph (a) insert—
+
+> (aa) was done by a public authority exercising functions under or by virtue of Part 3 of the Planning and Infrastructure Act 2025 (development and nature recovery);
+
+.
+
+#### Environmental Assessment of Plans and Programmes Regulations 2004
+
+**46** In the Environmental Assessment of Plans and Programmes Regulations 2004 (S.I. 2004/1633), in regulation 5 (environmental assessment for plans and programmes: first formal preparatory act on or after 21 July 2004), in paragraph (5) (plans in relation to which assessments are not required under the regulations), after paragraph (a) insert—
+
+> (aa) an environmental delivery plan, within the meaning of Part 3 of the Planning and Infrastructure Act 2025;
+
+.
+
+#### Conservation of Habitats and Species Regulations 2017
+
+**47** The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012) are amended as follows.
+
+**48** In regulation 9 (duties relating to compliance with the Directives)—
+
+(a) after paragraph (2) insert—
+
+> (2A) Paragraph (1) does not apply to functions exercisable under or by virtue of Part 3 of the Planning and Infrastructure Act 2025 (development and nature recovery).
+
+;
+
+(b) after paragraph (3) insert—
+
+> (3A) Paragraph (3) does not apply to functions exercised by a competent authority in connection with an environmental delivery plan within the meaning of Part 3 of the Planning and Infrastructure Act 2025.
+
+**49** In regulation 55 (licences for certain activities relating to animals or plants), after paragraph (10) insert—
+
+> (10A) The maximum time period for a licence set out in paragraph (10) does not apply to—
+>
+> (a) a licence granted to Natural England to facilitate the carrying out of any conservation measures within the meaning of Part 3 of the Planning and Infrastructure Act 2025, or
+>
+> (b) a licence that, by virtue of paragraph 4 of Schedule 3 to the Planning and Infrastructure Act 2025, is treated as having been granted to a developer under regulation 55.
+
+**50** In regulation 58 (relevant licensing body)—
+
+(a) in paragraph (2), at the beginning insert “Subject to paragraph (2A),”;
+
+(b) after paragraph (2) insert—
+
+> (2A) In the case of a licence granted to Natural England under regulation 55(1) for a purpose specified in any of paragraph (2)(a) to (d) of that regulation, to facilitate the carrying out of any conservation measures, “relevant licensing body” means the Secretary of State.
+
+;
+
+(c) in paragraph (3), at the beginning insert “Subject to paragraph (4A),”;
+
+(d) after paragraph (4) insert—
+
+> (4A) In the case of a licence that, by virtue of paragraph 4 of Schedule 3 to the Planning and Infrastructure Act 2025, is treated as having been granted to a developer under regulation 55(1) for any of the purposes specified in regulation 55(2)(e) to (g), “relevant licensing body” means—
+>
+> (a) so far as the licence relates to the restricted English inshore region, the Marine Management Organisation; and
+>
+> (b) otherwise, Natural England.
+
+;
+
+(e) in paragraph (6), for “paragraph (2)” substitute “this regulation”;
+
+(f) at the end insert—
+
+> (7) In paragraph (2A), “conservation measure” has the same meaning as in Part 3 of the Planning and Infrastructure Act 2025 (development and nature recovery).
+
+**51** In regulation 62 (application of the provisions of Chapter 1 of Part 6), after paragraph (1) insert—
+
+> (1A) But the requirements of the assessment provisions and the review provisions do not apply in relation to an environmental delivery plan or any conservation measures under it.
+>
+> (1B) In paragraph (1A), “environmental delivery plan” and “conservation measures” have the same meaning as in Part 3 of the Planning and Infrastructure Act 2025 (development and nature recovery).
+
+**52** In regulation 63 (assessment of implications for European sites etc), in paragraph (7), at the end insert—
+
+> See also paragraph 1 of Schedule 3 to the Planning and Infrastructure Act 2025 (environmental delivery plans: effect on environmental obligations).

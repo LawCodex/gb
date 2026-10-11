@@ -1,0 +1,3551 @@
+---
+title: "Child Maintenance and Other Payments Act 2008"
+identifier: "ukpga/2008/6"
+citation: "2008 c. 6"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S+N.I."
+date: 2008-06-05
+last_amended: 2023-09-20
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/2008/6"
+source_modified: 2024-02-09
+retrieved: 2026-10-11
+---
+
+# Child Maintenance and Other Payments Act 2008
+
+**2008 c. 6**
+
+An Act to establish the Child Maintenance and Enforcement Commission; to amend the law relating to child support; to make provision about lump sum payments to or in respect of persons with diffuse mesothelioma; and for connected purposes.
+
+[5th June 2008]
+
+Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## Part 1 — The Child Maintenance and Enforcement Commission
+
+### 1 The Child Maintenance and Enforcement Commission
+
+[^F1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 2 Objectives of the Commission
+
+[^F2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 3 Functions of the Commission: general
+
+[^F3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 4 Promotion of child maintenance
+
+[^F4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 5 Provision of information and guidance
+
+[^F5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 6 Fees
+
+(1) The Secretary of State may by regulations make provision about the charging of fees by the [[^F6]Secretary of State] in connection with the exercise of its functions.
+
+(2) Regulations under subsection (1) may, in particular, make provision—
+
+(a) about when a fee may be charged;
+
+(b) about the amount which may be charged;
+
+(c) for the supply of information needed for the purpose of determining the amount which may be charged;
+
+(d) about who is liable to pay any fee charged[[^F7](including provision for the apportionment of fees and the matters to be taken into account in determining an apportionment)];
+
+(e) about when any fee charged is payable;
+
+(f) about the recovery of fees charged;
+
+(g) about [^F8]..., reduction or repayment of fees.
+
+[[^F9](h) about waiver of fees (including the matters to be taken into account in determining a waiver).]
+
+(3) The power conferred by subsection (1) includes power to make provision for the charging of fees which are not related to costs.
+
+[[^F10](3A) The Secretary of State must review the effect of the first regulations made under subsection (1).
+
+(3B) The review must take place before the end of the period of 30 months beginning with the day on which those regulations come into force.
+
+(3C) After the review, the Secretary of State must make and publish a report containing—
+
+(a) the conclusions of the review, and
+
+(b) a statement as to what the Secretary of State proposes to do in view of those conclusions.
+
+(3D) The report must be laid before Parliament by the Secretary of State.]
+
+(4) The Secretary of State may by regulations provide that the provisions of the Child Support Act 1991 (c. 48) with respect to—
+
+(a) the collection of child support maintenance,
+
+(b) the enforcement of any obligation to pay child support maintenance,
+
+shall apply equally (with any necessary modifications) to fees payable by virtue of regulations under subsection (1).
+
+(5) The Secretary of State may by regulations make provision for a person affected by a decision of the [[^F6]Secretary of State] under regulations under subsection (1) to have a right of appeal against the decision to [[^F11]the First-tier Tribunal].
+
+(6) Subsections (3) to (5), (7) and (8) of section 20 of the Child Support Act 1991 (appeals to [[^F12]First-tier Tribunal]) apply to appeals under regulations under subsection (5) as they apply to appeals under that section.
+
+(7) The [[^F13]Secretary of State] shall pay into the Consolidated Fund any amount which [[^F14]the Secretary of State] receives in respect of fees charged by [[^F14]the Secretary of State] under regulations under this section.
+
+### 7 Agency arrangements and provision of services
+
+[^F15]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 8 Contracting out
+
+(1) Any function of the [[^F16]Secretary of State relating to child support] may be exercised by, or by employees of, such person (if any) as the [[^F17]Secretary of State] may authorise for the purpose.
+
+(2) An authorisation given by virtue of subsection (1) may authorise the exercise of the function concerned—
+
+(a) either wholly or to such extent as may be specified in the authorisation,
+
+(b) either generally or in such cases or areas as may be so specified, and
+
+(c) either unconditionally or subject to the fulfilment of such conditions as may be so specified.
+
+(3) An authorisation given by virtue of subsection (1)—
+
+(a) may specify its duration,
+
+(b) may be revoked at any time by the [[^F18]Secretary of State], and
+
+(c) shall not prevent the [[^F18]Secretary of State] or any other person from exercising the function to which the authorisation relates.
+
+(4) Where a person is authorised to exercise any function by virtue of subsection (1), anything done or omitted to be done by or in relation to that person (or an employee of that person) in, or in connection with, the exercise or purported exercise of the function shall be treated for all purposes as done or omitted to be done by or in relation to the [[^F18]Secretary of State].
+
+(5) Subsection (4) shall not apply—
+
+(a) for the purposes of so much of any contract made between the authorised person and the [[^F18]Secretary of State] as relates to the exercise of the function, or
+
+(b) for the purposes of any criminal proceedings brought in respect of anything done or omitted to be done by the authorised person (or an employee of that person).
+
+(6) Where—
+
+(a) a person is authorised to exercise any function by virtue of subsection (1), and
+
+(b) the authorisation is revoked at a time when a relevant contract is subsisting,
+
+the authorised person shall be entitled to treat the relevant contract as repudiated by the [[^F18]Secretary of State](and not as frustrated by reason of the revocation).
+
+(7) In subsection (6), the reference to a relevant contract is to so much of any contract made between the authorised person and the [[^F18]Secretary of State] as relates to the exercise of the function.
+
+### 9 Annual report to Secretary of State
+
+[^F19]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 10 Directions and guidance
+
+[^F20]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 11 Review of the status of the Commission
+
+[^F21]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 12 Supplementary provisions
+
+[^F22]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## [^F23][^F23] Part 2 — Transfer of child support functions etc. to the Commission
+
+### 13 Transfer of child support functions
+
+[^F24]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 14 Transfer of property, rights and liabilities
+
+[^F25]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Part 3 — Child support etc.
+
+### Removal of compulsion for benefit claimants
+
+#### 15 Repeal of sections 6 and 46
+
+The following provisions of the Child Support Act 1991 (c. 48) cease to have effect—
+
+(a) section 6 (under which the claim of benefit by or in respect of a parent with care, or the payment of benefit to or in respect of such a person, triggers an application by her or him for child support maintenance), and
+
+(b) section 46 (which enables the Secretary of State in certain circumstances to reduce the benefit of a person in relation to whom section 6 triggers the making of an application for child support maintenance).
+
+### Maintenance calculations
+
+#### 16 Changes to the calculation of maintenance
+
+Schedule 4 (which makes various changes to the provisions about the calculation of maintenance) has effect.
+
+#### 17 Power to regulate supersession
+
+In section 17 of the Child Support Act 1991 (c. 48) (decisions superseding earlier decisions), for subsections (2) and (3) substitute—
+
+> (2) The Secretary of State may by regulations make provision with respect to the exercise of the power under subsection (1).
+>
+> (3) Regulations under subsection (2) may, in particular—
+>
+> (a) make provision about the cases and circumstances in which the power under subsection (1) is exercisable, including provision restricting the exercise of that power by virtue of change of circumstance;
+>
+> (b) make provision with respect to the consideration by the [[^F26]Secretary of State], when acting under subsection (1), of any issue which has not led to [[^F27]the Secretary of State's] so acting;
+>
+> (c) make provision with respect to procedure in relation to the exercise of the power under subsection (1).
+
+#### 18 Determination of applications for a variation
+
+(1) Section 28D of the Child Support Act 1991 is amended as follows.
+
+(2) After subsection (2) insert—
+
+> (2A) Subsection (2B) applies if—
+>
+> (a) the application for a variation is made by the person with care or (in the case of an application for a maintenance calculation under section 7) the person with care or the child concerned, and
+>
+> (b) it appears to the [[^F28]Secretary of State] that consideration of further information or evidence may affect [[^F29]the] decision under subsection (1)(a) whether or not to agree to a variation.
+>
+> (2B) Before making the decision under subsection (1)(a) the [[^F30]Secretary of State] must—
+>
+> (a) consider any such further information or evidence that is available to [[^F31]the Secretary of State], and
+>
+> (b) where necessary, take such steps as the [[^F30]Secretary of State] considers appropriate to obtain any such further information or evidence.
+
+(3) In subsection (3), after “duties” insert “ , apart from the duty under subsection (2B) ”.
+
+#### 19 Transfer of cases to new rules
+
+Schedule 5 (which makes provision for, and in connection with, enabling the Commission to require existing cases to transfer to the new maintenance calculation rules or to leave the statutory scheme, so far as future accrual of liability is concerned) has effect.
+
+### Collection and enforcement
+
+#### 20 Use of deduction from earnings orders as basic method of payment
+
+In section 29 of the Child Support Act 1991 (c. 48) (under which payments of child support maintenance are to be made in accordance with regulations) at the end insert—
+
+> (4) If the regulations include provision for payment by means of deduction in accordance with an order under section 31, they must make provision—
+>
+> (a) for that method of payment not to be used in any case where there is good reason not to use it; and
+>
+> (b) for the person against whom the order under section 31 would be made to have a right of appeal to a magistrates' court (or, in Scotland, to the sheriff) against a decision that the exclusion required by paragraph (a) does not apply.
+>
+> (5) On an appeal under regulations made under subsection (4)(b) the court or (as the case may be) the sheriff shall not question the maintenance calculation by reference to which the order under section 31 would be made.
+>
+> (6) Regulations under subsection (4)(b) may include—
+>
+> (a) provision with respect to the period within which a right of appeal under the regulations may be exercised;
+>
+> (b) provision with respect to the powers of a magistrates' court (or, in Scotland, of the sheriff) in relation to an appeal under the regulations.
+>
+> (7) If the regulations include provision for payment by means of deduction in accordance with an order under section 31, they may make provision—
+>
+> (a) prescribing matters which are, or are not, to be taken into account in determining whether there is good reason not to use that method of payment;
+>
+> (b) prescribing circumstances in which good reason not to use that method of payment is, or is not, to be regarded as existing.
+
+#### 21 Deduction from earnings orders: the liable person's earnings (prospective)
+
+In section 31 of the Child Support Act 1991 (deduction from earnings orders), for subsection (8) substitute—
+
+> (8) In this section and section 32 “earnings” means (subject to such exceptions as may be prescribed) any sums payable to a person which fall within one or more of the following paragraphs—
+>
+> (a) sums payable by way of wages or salary (including any fees, bonus, commission, overtime pay or other emoluments payable in addition to wages or salary or payable under a contract of service);
+>
+> (b) periodical payments by way of pension (including an annuity payable for the purpose of providing a pension), whether or not in respect of past services;
+>
+> (c) periodical payments by way of compensation for the loss, abolition or relinquishment, or diminution in the emoluments, of any office or employment;
+>
+> (d) sums payable by way of statutory sick pay.
+>
+> (9) For the purposes of this section and section 32 any person who (as a principal and not as a servant or agent) pays to the liable person any earnings is to be treated as having the liable person in his employment; and the following are to be read accordingly—
+>
+> (a) in this section and section 32, references to the liable person's employer; and
+>
+> (b) in section 32(3), “employment”, “employed” and “re-employed”.
+
+#### 22 Orders for regular deductions from accounts
+
+After section 32 of the Child Support Act 1991 (c. 48) insert—
+
+> **32A Orders for regular deductions from accounts**
+>
+> (1) If in relation to any person it appears to the Commission—
+>
+> (a) that the person has failed to pay an amount of child support maintenance; and
+>
+> (b) that the person holds an account with a deposit-taker;
+>
+> it may make an order against that person to secure the payment of any amount due under the maintenance calculation in question by means of regular deductions from the account.
+>
+> (2) An order under this section may be made so as to secure the payment of—
+>
+> (a) arrears of child support maintenance payable under the calculation;
+>
+> (b) amounts of child support maintenance which will become payable under the calculation; or
+>
+> (c) both such arrears and such future amounts.
+>
+> (3) An order under this section may be made in respect of amounts due under a maintenance calculation which is the subject of an appeal only if it appears to the Commission—
+>
+> (a) that liability for the amounts would not be affected were the appeal to succeed; or
+>
+> (b) where paragraph (a) does not apply, that the making of an order under this section in respect of the amounts would nonetheless be fair in all the circumstances.
+>
+> (4) An order under this section—
+>
+> (a) may not be made in respect of an account of a prescribed description; and
+>
+> (b) may be made in respect of a joint account which is held by the person against whom the order is made and one or more other persons, and which is not of a description prescribed under paragraph (a), if (but only if) regulations made by the Secretary of State so provide.
+>
+> (5) An order under this section—
+>
+> (a) shall specify the account in respect of which it is made;
+>
+> (b) shall be expressed to be directed at the deposit-taker with which the account is held; and
+>
+> (c) shall have effect from such date as may be specified in the order.
+>
+> (6) An order under this section shall operate as an instruction to the deposit-taker at which it is directed to—
+>
+> (a) make deductions from the amount (if any) standing to the credit of the account specified in the order; and
+>
+> (b) pay the amount deducted to the Commission.
+>
+> (7) The Commission shall serve a copy of any order made under this section on—
+>
+> (a) the deposit-taker at which it is directed;
+>
+> (b) the person against whom it is made; and
+>
+> (c) if the order is made in respect of a joint account, the other account-holders.
+>
+> (8) Where—
+>
+> (a) an order under this section has been made; and
+>
+> (b) a copy of the order has been served on the deposit-taker at which it is directed,
+>
+> it shall be the duty of that deposit-taker to comply with the order; but the deposit-taker shall not be under any liability for non-compliance before the end of the period of 7 days beginning with the day on which the copy was served on the deposit-taker.
+>
+> (9) Where regulations have been made under section 29(3)(a), a person liable to pay an amount of child support maintenance is to be taken for the purposes of this section to have failed to pay an amount of child support maintenance unless it is paid to or through the person specified in, or by virtue of, the regulations for the case in question.
+>
+> **32B Orders under section 32A: joint accounts**
+>
+> (1) Before making an order under section 32A in respect of a joint account the Commission shall offer each of the account-holders an opportunity to make representations about—
+>
+> (a) the proposal to make the order; and
+>
+> (b) the amounts to be deducted under the order, if it is made.
+>
+> (2) The amounts to be deducted from a joint account under such an order shall not exceed the amounts that appear to the Commission to be fair in all the circumstances.
+>
+> (3) In determining those amounts the Commission shall have particular regard to—
+>
+> (a) any representations made in accordance with subsection (1)(b);
+>
+> (b) the amount contributed to the account by each of the account-holders; and
+>
+> (c) such other matters as may be prescribed.
+>
+> **32C Regulations about orders under section 32A**
+>
+> (1) The Secretary of State may by regulations make provision with respect to orders under section 32A.
+>
+> (2) Regulations under subsection (1) may, in particular, make provision—
+>
+> (a) requiring an order to specify the amount or amounts in respect of which it is made;
+>
+> (b) requiring an order to specify the amounts which are to be deducted under it in order to meet liabilities under the maintenance calculation in question;
+>
+> (c) requiring an order to specify the dates on which deductions are to be made under it;
+>
+> (d) for the rate of deduction under an order not to exceed such rate as may be specified in, or determined in accordance with, the regulations;
+>
+> (e) as to circumstances in which amounts standing to the credit of an account are to be disregarded for the purposes of section 32A;
+>
+> (f) as to the payment of sums deducted under an order to the Commission;
+>
+> (g) allowing the deposit-taker at which an order is directed to deduct from the amount standing to the credit of the account specified in the order a prescribed amount towards its administrative costs before making any deduction required by section 32A(6)(a);
+>
+> (h) with respect to notifications to be given to the person against whom an order is made (and, in the case of an order made in respect of a joint account, to the other account-holders) of amounts deducted, and amounts paid, under the order;
+>
+> (i) requiring the deposit-taker at which an order is directed to notify the Commission in the prescribed manner and within a prescribed period—
+>
+> (i) if the account specified in the order does not exist at the time at which the order is served on the deposit-taker;
+>
+> (ii) of any other accounts held with the deposit-taker at that time by the person against whom the order is made;
+>
+> (j) requiring the deposit-taker at which an order is directed to notify the Commission in the prescribed manner and within a prescribed period if, after the time at which the order is served on the deposit-taker—
+>
+> (i) the account specified in the order is closed;
+>
+> (ii) a new account of any description is opened with the deposit-taker by the person against whom the order is made;
+>
+> (k) as to circumstances in which the deposit-taker at which an order is directed, the person against whom the order is made and (in the case of an order made in respect of a joint account) the other account-holders may apply to the Commission for it to review the order and as to such a review;
+>
+> (l) for the variation of orders;
+>
+> (m) similar to that made by section 32A(8), in relation to any variation of an order;
+>
+> (n) for an order to lapse in such circumstances as may be prescribed;
+>
+> (o) as to the revival of an order in such circumstances as may be prescribed;
+>
+> (p) allowing or requiring an order to be discharged;
+>
+> (q) as to the giving of notice by the Commission to the deposit-taker that an order has lapsed or ceased to have effect.
+>
+> (3) The Secretary of State may by regulations make provision with respect to priority as between an order under section 32A and—
+>
+> (a) any other order under that section;
+>
+> (b) any order under any other enactment relating to England and Wales which provides for deductions from the same account;
+>
+> (c) any diligence done in Scotland against the same account.
+>
+> (4) The Secretary of State shall by regulations make provision for any person affected to have a right to appeal to a court—
+>
+> (a) against the making of an order under section 32A;
+>
+> (b) against any decision made by the Commission on an application under regulations made under subsection (2)(k).
+>
+> (5) On an appeal under regulations made under subsection (4)(a), the court shall not question the maintenance calculation by reference to which the order was made.
+>
+> (6) Regulations under subsection (4) may include—
+>
+> (a) provision with respect to the period within which a right of appeal under the regulations may be exercised;
+>
+> (b) provision with respect to the powers of the court to which the appeal under the regulations lies.
+>
+> **32D Orders under section 32A: offences**
+>
+> (1) A person who fails to comply with the requirements of—
+>
+> (a) an order under section 32A, or
+>
+> (b) any regulation under section 32C which is designated by the regulations for the purposes of this paragraph,
+>
+> commits an offence.
+>
+> (2) It shall be a defence for a person charged with an offence under subsection (1) to prove that the person took all reasonable steps to comply with the requirements in question.
+>
+> (3) A person guilty of an offence under subsection (1) shall be liable on summary conviction to a fine not exceeding level two on the standard scale.
+
+#### 23 Lump sum deduction orders
+
+After section 32D of the Child Support Act 1991 (c. 48) (inserted by section 22 of this Act) insert—
+
+> **32E Lump sum deductions: interim orders**
+>
+> (1) The Commission may make an order under this section if it appears to the Commission that a person (referred to in this section and sections 32F to 32J as “the liable person”) has failed to pay an amount of child support maintenance and—
+>
+> (a) an amount stands to the credit of an account held by the liable person with a deposit-taker; or
+>
+> (b) an amount not within paragraph (a) that is of a prescribed description is due or accruing to the liable person from another person (referred to in this section and sections 32F to 32J as the “third party”).
+>
+> (2) An order under this section—
+>
+> (a) may not be made by virtue of subsection (1)(a) in respect of an account of a prescribed description; and
+>
+> (b) may be made by virtue of subsection (1)(a) in respect of a joint account which is held by the liable person and one or more other persons, and which is not of a description prescribed under paragraph (a) of this subsection, if (but only if) regulations made by the Secretary of State so provide.
+>
+> (3) The Secretary of State may by regulations make provision as to conditions that are to be disregarded in determining whether an amount is due or accruing to the liable person for the purposes of subsection (1)(b).
+>
+> (4) An order under this section—
+>
+> (a) shall be expressed to be directed at the deposit-taker or third party in question;
+>
+> (b) if made by virtue of subsection (1)(a), shall specify the account in respect of which it is made; and
+>
+> (c) shall specify the amount of arrears of child support maintenance in respect of which the Commission proposes to make an order under section 32F.
+>
+> (5) An order under this section may specify an amount of arrears due under a maintenance calculation which is the subject of an appeal only if it appears to the Commission—
+>
+> (a) that liability for the amount would not be affected were the appeal to succeed; or
+>
+> (b) where paragraph (a) does not apply, that the making of an order under section 32F in respect of the amount would nonetheless be fair in all the circumstances.
+>
+> (6) The Commission shall serve a copy of any order made under this section on—
+>
+> (a) the deposit-taker or third party at which it is directed;
+>
+> (b) the liable person; and
+>
+> (c) if the order is made in respect of a joint account, the other account-holders.
+>
+> (7) An order under this section shall come into force at the time at which it is served on the deposit-taker or third party at which it is directed.
+>
+> (8) An order under this section shall cease to be in force at the earliest of the following—
+>
+> (a) the time at which the prescribed period ends;
+>
+> (b) the time at which the order under this section lapses or is discharged; and
+>
+> (c) the time at which an order under section 32F made in pursuance of the proposal specified in the order under this section is served on the deposit-taker or third party at which that order is directed.
+>
+> (9) Where regulations have been made under section 29(3)(a), a person liable to pay an amount of child support maintenance is to be taken for the purposes of this section to have failed to pay the amount unless it is paid to or through the person specified in, or by virtue of, the regulations for the case in question.
+>
+> **32F Lump sum deductions: final orders**
+>
+> (1) The Commission may make an order under this section in pursuance of a proposal specified in an order under section 32E if—
+>
+> (a) the order in which the proposal was specified (“the interim order”) is in force;
+>
+> (b) the period prescribed for the making of representations to the Commission in respect of the proposal specified in the interim order has expired; and
+>
+> (c) the Commission has considered any representations made to it during that period.
+>
+> (2) An order under this section—
+>
+> (a) shall be expressed to be directed at the deposit-taker or third party at which the interim order was directed;
+>
+> (b) if the interim order was made by virtue of section 32E(1)(a), shall specify the account specified in the interim order; and
+>
+> (c) shall specify the amount of arrears of child support maintenance in respect of which it is made.
+>
+> (3) The amount so specified—
+>
+> (a) shall not exceed the amount of arrears specified in the interim order which remain unpaid at the time at which the order under this section is made; and
+>
+> (b) if the order is made in respect of a joint account, shall not exceed the amount that appears to the Commission to be fair in all the circumstances.
+>
+> (4) In determining the amount to be specified in an order made in respect of a joint account the Commission shall have particular regard—
+>
+> (a) to the amount contributed to the account by each of the account-holders; and
+>
+> (b) to such other matters as may be prescribed.
+>
+> (5) An order under this section may specify an amount of arrears due under a maintenance calculation which is the subject of an appeal only if it appears to the Commission—
+>
+> (a) that liability for the amount would not be affected were the appeal to succeed; or
+>
+> (b) where paragraph (a) does not apply, that the making of an order under this section in respect of the amount would nonetheless be fair in all the circumstances.
+>
+> (6) The Commission shall serve a copy of any order made under this section on—
+>
+> (a) the deposit-taker or third party at which it is directed;
+>
+> (b) the liable person; and
+>
+> (c) if the order is made in respect of a joint account, the other account-holders.
+>
+> **32G Orders under sections 32E and 32F: freezing of accounts etc.**
+>
+> (1) During the relevant period, an order under section 32E or 32F which specifies an account held with a deposit-taker shall operate as an instruction to the deposit-taker not to do anything that would reduce the amount standing to the credit of the account below the amount specified in the order (or, if already below that amount, that would further reduce it).
+>
+> (2) During the relevant period, any other order under section 32E or 32F shall operate as an instruction to the third party at which it is directed not to do anything that would reduce the amount due to the liable person below the amount specified in the order (or, if already below that amount, that would further reduce it).
+>
+> (3) Subsections (1) and (2) have effect subject to regulations made under section 32I(1).
+>
+> (4) In this section “the relevant period”, in relation to an order under section 32E, means the period during which the order is in force.
+>
+> (5) In this section and section 32H “the relevant period”, in relation to an order under section 32F, means the period which—
+>
+> (a) begins with the service of the order on the deposit-taker or third party at which it is directed; and
+>
+> (b) (subject to subsection (6)) ends with the end of the period during which an appeal can be brought against the order by virtue of regulations under section 32J(5).
+>
+> (6) If an appeal is brought by virtue of the regulations, the relevant period ends at the time at which—
+>
+> (a) proceedings on the appeal (including any proceedings on a further appeal) have been concluded; and
+>
+> (b) any period during which a further appeal may ordinarily be brought has ended.
+>
+> (7) References in this section and sections 32H and 32J to the amount due to the liable person are to be read as references to the total of any amounts within section 32E(1)(b) that are due or accruing to the liable person from the third party in question.
+>
+> **32H Orders under section 32F: deductions and payments**
+>
+> (1) Once the relevant period has ended, an order under section 32F which specifies an account held with a deposit-taker shall operate as an instruction to the deposit-taker—
+>
+> (a) if the amount standing to the credit of the account is less than the remaining amount, to pay to the Commission the amount standing to the credit of the account; and
+>
+> (b) otherwise, to deduct from the account and pay to the Commission the remaining amount.
+>
+> (2) If an amount of arrears specified in the order remains unpaid after any payment required by subsection (1) has been made, the order shall operate until the relevant time as an instruction to the deposit-taker—
+>
+> (a) to pay to the Commission any amount (not exceeding the remaining amount) standing to the credit of the account specified in the order; and
+>
+> (b) not to do anything else that would reduce the amount standing to the credit of the account.
+>
+> (3) Once the relevant period has ended, any other order under section 32F shall operate as an instruction to the third party at which it is directed—
+>
+> (a) if the amount due to the liable person is less than the remaining amount, to pay to the Commission the amount due to the liable person; and
+>
+> (b) otherwise, to deduct from the amount due to the liable person and pay to the Commission the remaining amount.
+>
+> (4) If an amount of arrears specified in the order remains unpaid after any payment required by subsection (3) has been made, the order shall operate until the relevant time as an instruction to the third party—
+>
+> (a) to pay to the Commission any amount (not exceeding the remaining amount) due to the liable person; and
+>
+> (b) not to do anything else that would reduce any amount due to the liable person.
+>
+> (5) This section has effect subject to regulations made under sections 32I(1) and 32J(2)(c).
+>
+> (6) In this section—
+>
+> - “the relevant time” means the earliest of the following—
+>
+>   - (a) the time at which the remaining amount is paid;
+>   - (b) the time at which the order lapses or is discharged; and
+>   - (c) the time at which a prescribed event occurs or prescribed circumstances arise;
+>
+> - “the remaining amount”, in relation to any time, means the amount of arrears specified in the order under section 32F which remains unpaid at that time.
+>
+> **32I Power to disapply sections 32G(1) and (2) and 32H(2)(b) and (4)(b)**
+>
+> (1) The Secretary of State may by regulations make provision as to circumstances in which things that would otherwise be in breach of sections 32G(1) and (2) and 32H(2)(b) and (4)(b) may be done.
+>
+> (2) Regulations under subsection (1) may require the Commission's consent to be obtained in prescribed circumstances.
+>
+> (3) Regulations under subsection (1) which require the Commission's consent to be obtained may provide for an application for that consent to be made—
+>
+> (a) by the deposit-taker or third party at which the order under section 32E or 32F is directed;
+>
+> (b) by the liable person; and
+>
+> (c) if the order is made in respect of a joint account, by any of the other account-holders.
+>
+> (4) If regulations under subsection (1) require the Commission's consent to be obtained, the Secretary of State shall by regulations provide for a person of a prescribed description to have a right of appeal to a court against the withholding of that consent.
+>
+> (5) Regulations under subsection (4) may include—
+>
+> (a) provision with respect to the period within which a right of appeal under the regulations may be exercised;
+>
+> (b) provision with respect to the powers of the court to which the appeal under the regulations lies.
+>
+> **32J Regulations about orders under section 32E or 32F**
+>
+> (1) The Secretary of State may by regulations make provision with respect to orders under section 32E or 32F.
+>
+> (2) The regulations may, in particular, make provision—
+>
+> (a) as to circumstances in which amounts standing to the credit of an account are to be disregarded for the purposes of sections 32E, 32G and 32H;
+>
+> (b) as to the payment to the Commission of sums deducted under an order under section 32F;
+>
+> (c) allowing a deposit-taker or third party at which an order under section 32F is directed to deduct from the amount standing to the credit of the account specified in the order, or due to the liable person, a prescribed amount towards its administrative costs before making any payment to the Commission required by section 32H;
+>
+> (d) with respect to notifications to be given to the liable person (and, in the case of an order made in respect of a joint account, to the other account-holders) as to amounts deducted, and amounts paid, under an order under section 32F;
+>
+> (e) requiring a deposit-taker or third party at which an order under section 32E or 32F is directed to supply information of a prescribed description to the Commission, or to notify the Commission if a prescribed event occurs or prescribed circumstances arise;
+>
+> (f) for the variation of an order under section 32E or 32F;
+>
+> (g) for an order under section 32E or 32F to lapse in such circumstances as may be prescribed;
+>
+> (h) as to the revival of an order under section 32E or 32F in such circumstances as may be prescribed;
+>
+> (i) allowing or requiring an order under section 32E or 32F to be discharged.
+>
+> (3) Where regulations under subsection (1) make provision for the variation of an order under section 32E or 32F, the power to vary the order shall not be exercised so as to increase the amount of arrears of child support maintenance specified in the order.
+>
+> (4) The Secretary of State may by regulations make provision with respect to priority as between an order under section 32F and—
+>
+> (a) any other order under that section;
+>
+> (b) any order under any other enactment relating to England and Wales which provides for payments to be made from amounts to which the order under section 32F relates;
+>
+> (c) any diligence done in Scotland against amounts to which the order under section 32F relates.
+>
+> (5) The Secretary of State shall by regulations make provision for any person affected by an order under section 32F to have a right to appeal to a court against the making of the order.
+>
+> (6) On an appeal under regulations under subsection (5), the court shall not question the maintenance calculation by reference to which the order under section 32F was made.
+>
+> (7) Regulations under subsection (5) may include—
+>
+> (a) provision with respect to the period within which a right of appeal under the regulations may be exercised;
+>
+> (b) provision with respect to the powers of the court to which the appeal under the regulations lies.
+>
+> **32K Lump sum deduction orders: offences**
+>
+> (1) A person who fails to comply with the requirements of—
+>
+> (a) an order under section 32E or 32F; or
+>
+> (b) any regulation under section 32J which is designated by the regulations for the purposes of this paragraph,
+>
+> commits an offence.
+>
+> (2) It shall be a defence for a person charged with an offence under subsection (1) to prove that the person took all reasonable steps to comply with the requirements in question.
+>
+> (3) A person guilty of an offence under subsection (1) shall be liable on summary conviction to a fine not exceeding level two on the standard scale.
+
+#### 24 Orders preventing avoidance
+
+After section 32K of the Child Support Act 1991 (inserted by section 23 of this Act) insert—
+
+> **32L Orders preventing avoidance**
+>
+> (1) The Commission may apply to the court, on the grounds that a person—
+>
+> (a) has failed to pay an amount of child support maintenance, and
+>
+> (b) with the intention of avoiding payment of child support maintenance, is about to make a disposition or to transfer out of the jurisdiction or otherwise deal with any property,
+>
+> for an order restraining or, in Scotland, interdicting the person from doing so.
+>
+> (2) The Commission may apply to the court, on the grounds that a person—
+>
+> (a) has failed to pay an amount of child support maintenance, and
+>
+> (b) with the intention of avoiding payment of child support maintenance, has at any time made a reviewable disposition,
+>
+> for an order setting aside or, in Scotland, reducing the disposition.
+>
+> (3) If the court is satisfied of the grounds mentioned in subsection (1) or (2) it may make an order under that subsection.
+>
+> (4) Where the court makes an order under subsection (1) or (2) it may make such consequential provision by order or directions as it thinks fit for giving effect to the order (including provision requiring the making of any payments or the disposal of any property).
+>
+> (5) Any disposition is a reviewable disposition for the purposes of subsection (2), unless it was made for valuable or, in Scotland, adequate consideration (other than marriage) to a person who, at the time of the disposition, acted in relation to it in good faith and without notice of an intention to avoid payment of child support maintenance.
+>
+> (6) Subsection (7) applies where an application is made under this section with respect to—
+>
+> (a) a disposition or other dealing with property which is about to take place, or
+>
+> (b) a disposition which took place after the making of the application on which the maintenance calculation concerned was made.
+>
+> (7) If the court is satisfied—
+>
+> (a) in a case falling within subsection (1), that the disposition or other dealing would (apart from this section) have the consequence of making ineffective a step that has been or may be taken to recover the amount outstanding, or
+>
+> (b) in a case falling within subsection (2), that the disposition has had that consequence,
+>
+> it is to be presumed, unless the contrary is shown, that the person who disposed of or is about to dispose of or deal with the property did so or, as the case may be, is about to do so, with the intention of avoiding payment of child support maintenance.
+>
+> (8) In this section “disposition” does not include any provision contained in a will or codicil but, with that exception, includes any conveyance, assurance or gift of property of any description, whether made by an instrument or otherwise.
+>
+> (9) This section does not apply to a disposition made before the coming into force of section 24 of the Child Maintenance and Other Payments Act 2008.
+>
+> (10) In this section “the court” means—
+>
+> (a) in relation to England and Wales, the High Court;
+>
+> (b) in relation to Scotland, the Court of Session or the sheriff.
+>
+> (11) An order under this section interdicting a person—
+>
+> (a) is effective for such period (including an indefinite period) as the order may specify;
+>
+> (b) may, on application to the court, be varied or recalled.
+
+#### 25 Administrative liability orders (prospective)
+
+After section 32L of the Child Support Act 1991 (c. 48) (inserted by section 24 of this Act) insert—
+
+> **32M Liability orders**
+>
+> (1) If it appears to the [[^F32]Secretary of State] that a person has failed to pay an amount of child support maintenance, [[^F33]the Secretary of State] may make an order against the person in respect of that amount.
+>
+> (2) An order under subsection (1) (a “liability order”) may be made in respect of an amount due under a maintenance calculation which is the subject of an appeal only if it appears to the [[^F34]Secretary of State]—
+>
+> (a) that liability for the amount would not be affected were the appeal to succeed, or
+>
+> (b) where paragraph (a) does not apply, that the making of a liability order in respect of the amount would nonetheless be fair in all the circumstances.
+>
+> (3) A liability order shall not come into force before—
+>
+> (a) the end of the period during which an appeal can be brought under section 20 against the making of the order, and
+>
+> (b) if an appeal is brought under section 20, the time at which proceedings on the appeal (including any proceedings on a further appeal) have been concluded and any period during which a further appeal may ordinarily be brought has ended.
+>
+> (4) Where regulations have been made under section 29(3)(a), a person liable to pay an amount of child support maintenance is to be taken for the purposes of this section to have failed to pay the amount, unless it is paid to or through the person specified in, or by virtue of, the regulations for the case in question.
+>
+> **32N Regulations about liability orders**
+>
+> (1) The Secretary of State may by regulations make provision with respect to liability orders.
+>
+> (2) Regulations under subsection (1) may, in particular—
+>
+> (a) make provision about the form and content of a liability order;
+>
+> (b) make provision for a liability order not to come into force if, before it does so, the whole of the amount in respect of which it is made is paid;
+>
+> (c) make provision for the discharge of a liability order;
+>
+> (d) make provision for the revival of a liability order in prescribed circumstances.
+
+#### 26 Enforcement in county courts (prospective)
+
+In section 36 of the Child Support Act 1991 (enforcement in county courts), in subsection (1) (under which the amount in respect of which a liability order is made is recoverable by a third party debt order or charging order as if it were payable under a county court order, but only if a county court so orders), the words “, if a county court so orders,” are omitted.
+
+#### 27 Disqualification for holding or obtaining travel authorisation
+
+Before section 40 of the Child Support Act 1991 (c. 48) insert—
+
+> **39B Disqualification for holding or obtaining travel authorisation**
+>
+> (1) The [[^F35]Secretary of State] may apply to the court for an order under this section against a person where—
+>
+> (a) [[^F36]the Secretary of State] has sought to recover an amount from the person by means of taking enforcement action by virtue of section 35 or 38, or by means of a third party debt order or a charging order by virtue of section 36;
+>
+> (b) the whole or any part of the amount remains unpaid; and
+>
+> (c) the [[^F35]Secretary of State] is of the opinion that there has been wilful refusal or culpable neglect on the part of the person.
+>
+> (2) For the purposes of subsection (1)(a), the [[^F37]Secretary of State] is to be taken to have sought to recover an amount by means of a charging order if an interim charging order has been made, whether or not any further steps have been taken to recover the amount.
+>
+> (3) A person against whom an order under this section is made is disqualified for holding or obtaining a travel authorisation while the order has effect.
+>
+> (4) On an application under subsection (1) for an order against a person the court shall (in the presence of that person) inquire as to—
+>
+> (a) whether the person needs a travel authorisation to earn a living;
+>
+> (b) the person's means;
+>
+> (c) whether there has been wilful refusal or culpable neglect on the part of the person.
+>
+> (5) If, but only if, the court is of the opinion that there has been wilful refusal or culpable neglect on the part of the person, it may make an order under this section.
+>
+> (6) The court may not take action under both this section and section 40.
+>
+> (7) On an application under subsection (1) the court shall not question—
+>
+> (a) the liability order by reference to which the [[^F37]Secretary of State] acted as mentioned in paragraph (a) of that subsection; or
+>
+> (b) the maintenance calculation by reference to which that liability order was made.
+>
+> (8) An order under this section shall specify the amount in respect of which it is made, which shall be the aggregate of—
+>
+> (a) the amount sought to be recovered as mentioned in subsection (1)(a), or so much of it as remains unpaid; and
+>
+> (b) an amount (determined in accordance with regulations made by the Secretary of State) in respect of the costs of the application under this section.
+>
+> (9) A court which makes an order under this section shall require the person to whom it relates to produce any travel authorisation that the person holds.
+>
+> (10) The court shall send to the prescribed person any travel authorisation produced to the court under subsection (9).
+>
+> (11) Where a court—
+>
+> (a) makes an order under this section, or
+>
+> (b) allows an appeal against such an order,
+>
+> it shall send notice of that fact to the [[^F37]Secretary of State]; and the notice shall contain such particulars and be sent in such manner and to such address as the [[^F37]Secretary of State] may determine.
+>
+> (12) In this section “travel authorisation” means—
+>
+> (a) a United Kingdom passport (within the meaning of the Immigration Act 1971);
+>
+> (b) an ID card issued under the Identity Cards Act 2006 that records that the person to whom it has been issued is a British citizen.
+>
+> (13) In this section (except for the purposes of subsection (11)(b)) and in sections 39C to 39E, “court” means—
+>
+> (a) in relation to England and Wales, a magistrates' court;
+>
+> (b) in relation to Scotland, the sheriff.
+>
+> **39C Period for which orders under section 39B are to have effect**
+>
+> (1) Disqualification by an order under section 39B shall be for such period not exceeding two years as the court may specify in the order.
+>
+> (2) On making an order under section 39B, the court may include in the order provision suspending the running of the period for which the order is to have effect until such day and on such conditions (if any) as the court thinks just.
+>
+> (3) After making such an order the court may by order suspend the running of the period for which it has effect until such day and on such conditions (if any) as the court thinks just.
+>
+> (4) The powers conferred by subsections (2) and (3) may be exercised by the court only—
+>
+> (a) if the person against whom the order under section 39B is made agrees to pay the amount specified in the order; or
+>
+> (b) if the court is satisfied that the suspension in question is justified by exceptional circumstances.
+>
+> (5) The [[^F38]Secretary of State] may make a further application under section 39B if the amount specified in an order under that section has not been paid in full by the end of the period for which the order has effect.
+>
+> **39D Power to order search**
+>
+> (1) On making an order under section 39B the court may order the person against whom the order is made to be searched.
+>
+> (2) Any money found on such a search shall, unless the court otherwise directs, be applied towards payment of the amount specified under section 39B(8); and the balance (if any) shall be returned to the person searched.
+>
+> (3) The court shall not allow the application under subsection (2) of money found on a search under subsection (1) if it is satisfied that the money does not belong to the person searched.
+>
+> **39E Variation and revocation of orders following payment**
+>
+> (1) If part of the amount specified in an order under section 39B is paid to any person authorised to receive it, the court may, on an application made by the [[^F39]Secretary of State] or the person against whom the order is made, by order—
+>
+> (a) reduce the period for which the order under section 39B is to have effect; or
+>
+> (b) revoke the order under section 39B.
+>
+> (2) If the whole of the amount specified in an order under section 39B is paid to any person authorised to receive it, the court shall, on an application made by the [[^F39]Secretary of State] or the person against whom the order is made, by order revoke the order under section 39B.
+>
+> (3) The [[^F39]Secretary of State] may make representations to the court as to the amount which should be paid before it would be appropriate to make an order under subsection (1) revoking an order under section 39B, and the person against whom the order was made may reply to those representations.
+>
+> (4) The court may exercise the powers conferred on it by subsection (1) or (2) without the need for an application where money found on a search under section 39D(1) is applied towards payment of the amount specified in the order under section 39B.
+>
+> (5) Where a court makes an order under this section, it shall send notice of that fact to the [[^F39]Secretary of State]; and the notice shall contain such particulars and be sent in such manner and to such address as the [[^F39]Secretary of State] may determine.
+>
+> **39F Power to make supplementary provision**
+>
+> The Secretary of State may by regulations—
+>
+> (a) make provision in relation to orders under section 39B corresponding to the provision that may be made under section 40(11);
+>
+> (b) make provision for sections 39C to 39E to have effect with prescribed modifications in cases where a person against whom an order under section 39B has effect is outside the United Kingdom.
+>
+> **39G Application of sections 39B and 39F to Scotland**
+>
+> (1) In their application to Scotland, sections 39B and 39F have effect with the following modifications.
+>
+> (2) In section 39B(6) for “section 40” substitute “ section 40A ”.
+>
+> (3) For section 39F substitute—
+>
+> > **39F Power to make supplementary provision**
+> >
+> > In relation to orders under section 39B—
+> >
+> > (a) the Secretary of State may by regulations make provision—
+> >
+> > (i) for sections 39C to 39E to have effect with prescribed modifications in cases where a person against whom such an order has effect is outside the United Kingdom;
+> >
+> > (ii) that a statement in writing to the effect that wages of any amount have been paid to a person during any period, purporting to be signed by or on behalf of the person's employer, shall be sufficient evidence of the facts stated; and
+> >
+> > (b) the power of the Court of Session by Act of Sederunt to regulate the procedure and practice in civil proceedings in the sheriff court shall include power to make provision corresponding to that which may be made by virtue of section 40A(8).
+
+#### 28 Curfew orders (prospective)
+
+After section 39G of the Child Support Act 1991 (c. 48) (inserted by section 27 of this Act) insert—
+
+> **39H Applications for curfew orders**
+>
+> (1) The [[^F40]Secretary of State] may apply to the court for an order requiring a person to remain, for periods specified in the order, at a place so specified (a “curfew order”) where—
+>
+> (a) [[^F41]the Secretary of State] has sought to recover an amount from the person by means of taking enforcement action by virtue of section 35 or 38, or by means of a third party debt order or a charging order by virtue of section 36;
+>
+> (b) the whole or any part of the amount remains unpaid; and
+>
+> (c) the [[^F40]Secretary of State] is of the opinion that there has been wilful refusal or culpable neglect on the part of the person.
+>
+> (2) For the purposes of subsection (1)(a), the [[^F42]Secretary of State] is to be taken to have sought to recover an amount by means of a charging order if an interim charging order has been made, whether or not any further steps have been taken to recover the amount.
+>
+> (3) On an application for a curfew order the court shall (in the presence of the person from whom the [[^F42]Secretary of State] has sought to recover the amount) inquire as to—
+>
+> (a) the person's means; and
+>
+> (b) whether there has been wilful refusal or culpable neglect on the part of the person.
+>
+> (4) On an application for a curfew order the court shall not question—
+>
+> (a) the liability order by reference to which the [[^F42]Secretary of State] acted as mentioned in subsection (1)(a); or
+>
+> (b) the maintenance calculation by reference to which that liability order was made.
+>
+> (5) If, but only if, the court is of the opinion that there has been wilful refusal or culpable neglect on the part of the person from whom the [[^F42]Secretary of State] has sought to recover the amount, it may make a curfew order against the person.
+>
+> (6) The court may not make a curfew order against a person who is under the age of 18.
+>
+> (7) In this section and sections 39I to 39O “the court” means—
+>
+> (a) in England and Wales, a magistrates' court;
+>
+> (b) in Scotland, the sheriff.
+>
+> **39I Curfew orders: duration etc.**
+>
+> (1) The periods and places specified as mentioned in section 39H(1) may include different periods and different places for different days, but shall not include periods which amount to less than 2 hours or more than 12 hours in any one day.
+>
+> (2) A curfew order shall specify the period for which the requirements imposed by the order shall have effect.
+>
+> (3) The period so specified—
+>
+> (a) shall not exceed 6 months; and
+>
+> (b) shall begin to run with the day on which the order is made unless the order provides (subject to such conditions, if any, as may be specified in the order) for it to begin to run with a later day.
+>
+> (4) The court shall (so far as practicable) ensure that any requirement imposed by a curfew order is such as to avoid—
+>
+> (a) any conflict with the religious beliefs of the person against whom the order is made; and
+>
+> (b) any interference with the times (if any) at which that person normally works or attends any educational establishment.
+>
+> (5) On making a curfew order—
+>
+> (a) a magistrates' court may not specify in the order any place outside England and Wales; and
+>
+> (b) the sheriff may not specify in the order any place outside Scotland.
+>
+> **39J Recovery of costs relating to curfew orders**
+>
+> (1) On making a curfew order the court shall also make an order requiring the person against whom the curfew order is made to pay an amount (determined in accordance with regulations made by the Secretary of State) specified in the order in respect of—
+>
+> (a) the costs of the application for the curfew order; and
+>
+> (b) the costs of monitoring compliance with the requirements imposed by the curfew order.
+>
+> (2) The provisions of this Act with respect to—
+>
+> (a) the collection of child support maintenance; and
+>
+> (b) the enforcement of an obligation to pay child support maintenance,
+>
+> apply equally (with any necessary modifications) to amounts which a person is required to pay by an order under this section.
+>
+> **39K Curfew orders: the amount due**
+>
+> (1) A curfew order shall specify the amount in respect of which it is made, which shall be the aggregate of—
+>
+> (a) the amount sought to be recovered as mentioned in section 39H(1)(a), or so much of it as remains unpaid; and
+>
+> (b) the amount which the person against whom the curfew order is made is required to pay by the order under section 39J.
+>
+> (2) If part of the amount in respect of which a curfew order was made is paid to any person authorised to receive it, the court may, on an application by the [[^F43]Secretary of State] or the person against whom the curfew order was made, by order—
+>
+> (a) reduce the period for which the requirements imposed by the curfew order have effect;
+>
+> (b) provide for that period to begin to run with a day later than that with which it would otherwise have begun to run;
+>
+> (c) suspend the running of that period, or provide for any existing such suspension to be extended, until a day specified in the order; or
+>
+> (d) revoke the curfew order.
+>
+> (3) An order under subsection (2)(b) or (c) may include provision for its effect to be subject to specified conditions.
+>
+> (4) On the hearing of an application made under subsection (2) the [[^F43]Secretary of State] may make representations to the court as to which of the powers conferred by that subsection it would be appropriate for the court to exercise, and the person against whom the curfew order was made may reply to those representations.
+>
+> (5) If the whole of the amount in respect of which a curfew order was made is paid to any person authorised to receive it, the court shall, on an application by the [[^F43]Secretary of State] or the person against whom the order was made, by order revoke the curfew order.
+>
+> (6) The [[^F43]Secretary of State] may make a further application under section 39H if the amount in respect of which a curfew order was made has not been paid in full when the requirements imposed by the order cease to have effect.
+>
+> **39L Power to order search**
+>
+> (1) On making a curfew order, the court may order the person against whom the order is made to be searched.
+>
+> (2) Any money found on such a search shall, unless the court otherwise directs, be applied towards payment of the amount in respect of which the curfew order is made; and the balance (if any) shall be returned to the person searched.
+>
+> (3) The court shall not allow the application under subsection (2) of money found on a search under this section if it is satisfied that the money does not belong to the person searched.
+>
+> (4) The court may exercise the powers conferred on it by section 39K(2) and (5) without the need for an application where money found on a search under this section is applied towards payment of the amount in respect of which a curfew order is made.
+>
+> **39M Monitoring of curfew orders**
+>
+> (1) A curfew order shall—
+>
+> (a) provide for a person's compliance with the requirements imposed by the order to be monitored; and
+>
+> (b) make a person specified in the order responsible for that monitoring.
+>
+> (2) The court may not make a curfew order unless—
+>
+> (a) it has been notified by the [[^F44]Secretary of State] that arrangements for monitoring compliance with the requirements imposed by such orders are available in the area in which the place proposed to be specified in the order is situated and the notice has not been withdrawn;
+>
+> (b) it is satisfied that the necessary provision can be made under those arrangements; and
+>
+> (c) it has the consent of any person (other than the person against whom the order is to be made) whose co-operation is necessary to secure the monitoring of compliance with the requirements imposed by the order.
+>
+> (3) If a curfew order cannot be made because of the absence of any consent required by subsection (2)(c), the court may treat the application for the order as an application under section 40 (or, in the case of an application made to the sheriff, as an application under section 40A).
+>
+> (4) The Secretary of State may by regulations make provision as to—
+>
+> (a) the cases or circumstances in which the person responsible for monitoring a person's compliance with the requirements imposed by a curfew order may allow that person to be absent from the place specified in the curfew order during a period so specified; and
+>
+> (b) the requirements which may be imposed in connection with such an absence.
+>
+> **39N Breaches of curfew orders**
+>
+> (1) The person responsible for monitoring a person's compliance with the requirements imposed by a curfew order, or the [[^F45]Secretary of State], may apply to the court where it appears that the person subject to the requirements in question has failed to comply with—
+>
+> (a) any of those requirements; or
+>
+> (b) any requirements imposed by virtue of section 39M(4).
+>
+> (2) On any such application the court shall (in the presence of the person subject to the requirements in question) inquire as to whether the person has failed without reasonable excuse to comply with any of those requirements.
+>
+> (3) If the court is of the opinion that the person has failed without reasonable excuse to comply with any of those requirements, it may—
+>
+> (a) issue a warrant of commitment against that person; or
+>
+> (b) by order provide for the requirements imposed by the curfew order to have effect for a specified further period.
+>
+> (4) A warrant issued under subsection (3)(a) shall order the person against whom it is issued—
+>
+> (a) to be imprisoned for a period specified in the warrant; but
+>
+> (b) to be released (unless in custody for some other reason) on payment of the amount in respect of which the curfew order in question was made.
+>
+> (5) A warrant issued under subsection (3)(a) may be directed to such person or persons as the court issuing it thinks fit.
+>
+> (6) The power conferred by subsection (3)(b) may not be exercised so as to provide for the requirements imposed by the curfew order to have effect for a period exceeding 6 months after the making of the order under that subsection.
+>
+> (7) Where, following the issue of a warrant under subsection (3)(a), part of the amount specified in the curfew order is paid to any person authorised to receive it, the court may, on an application by the [[^F45]Secretary of State] or the person against whom the warrant was issued—
+>
+> (a) reduce the period specified in the warrant; or
+>
+> (b) order the release of the person against whom the warrant was issued.
+>
+> (8) On the hearing of an application made under subsection (7) the [[^F45]Secretary of State] may make representations to the court as to which of the powers conferred by that subsection it would be appropriate for the court to exercise, and the person against whom the warrant was issued may reply to those representations.
+>
+> **39O Effect of custody on curfew orders and power to make curfew orders**
+>
+> (1) The court may not make a curfew order against a person at any time when the person is in custody for any reason.
+>
+> (2) The running of the period during which the requirements imposed by a curfew order have effect shall be suspended for the whole of any day during any part of which the person against whom the order is made is in custody for any reason.
+>
+> (3) If the period during which the requirements imposed by a curfew order have effect would have begun to run but for its being suspended by virtue of this section, that period shall instead begin to run with the first day when its running is no longer suspended.
+>
+> **39P Power to make supplementary provision about curfew orders: England and Wales**
+>
+> (1) The Secretary of State may by regulations make provision for England and Wales with respect to curfew orders.
+>
+> (2) The regulations may, in particular, make provision—
+>
+> (a) as to the form and content of a curfew order;
+>
+> (b) allowing an application for a curfew order to be renewed where no curfew order is made;
+>
+> (c) that a statement in writing to the effect that wages of any amount have been paid during any period to a person, purporting to be signed by or on behalf of that person's employer, shall be evidence of the facts stated;
+>
+> (d) that a justice of the peace may issue a summons to a person to appear before a magistrates' court and (if that person does not appear) may issue a warrant for that person's arrest;
+>
+> (e) that, for the purpose of securing a person's presence before a magistrates' court, a justice of the peace may issue a warrant for that person's arrest without issuing a summons;
+>
+> (f) as to the execution of a warrant for arrest;
+>
+> (g) for the amendment or revocation of requirements imposed by a curfew order, on an application made to a magistrates' court by the [[^F46]Secretary of State] or the person against whom the order was made;
+>
+> (h) similar to that made by sections 39J, 39L and 39M(2) and (3), in relation to any amendment of a curfew order;
+>
+> (i) as to the exercise by a magistrates' court of the powers conferred by sections 39K(2) and (3) and 39N(7).
+>
+> (3) Regulations under subsection (2)(g) may confer power on a magistrates' court to substitute for the place or places specified in the order a place or places in Scotland.
+>
+> (4) Where a magistrates' court exercises such a power, the functions of the magistrates' court in relation to the order as so amended shall be exercisable instead by the sheriff.
+>
+> **39Q Power to make supplementary provision about curfew orders: Scotland**
+>
+> (1) The Secretary of State may by regulations make provision for Scotland with respect to curfew orders.
+>
+> (2) The regulations may, in particular, make provision—
+>
+> (a) as to the content of a curfew order;
+>
+> (b) that a statement in writing to the effect that wages of any amount have been paid during any period to a person, purporting to be signed by or on behalf of that person's employer, shall be sufficient evidence of the facts stated;
+>
+> (c) for the amendment or revocation of requirements imposed by a curfew order, on an application made to the sheriff by the [[^F47]Secretary of State] or the person against whom the order was made;
+>
+> (d) similar to that made by sections 39J, 39L and 39M(2) and (3), in relation to any amendment of a curfew order;
+>
+> (e) as to the exercise by the sheriff of the powers conferred by sections 39K(2) and (3) and 39N(7).
+>
+> (3) Regulations under subsection (2)(c) may confer power on the sheriff to substitute for the place or places specified in the order a place or places in England and Wales.
+>
+> (4) Where the sheriff exercises such a power, the functions of the sheriff in relation to the order as so amended shall be exercisable instead by a magistrates' court.
+>
+> (5) The power of the Court of Session by Act of Sederunt to regulate the procedure and practice in civil proceedings in the sheriff court shall include power to make provision—
+>
+> (a) as to the form of a curfew order;
+>
+> (b) allowing an application for a curfew order to be renewed where no curfew order is made;
+>
+> (c) that the sheriff may issue a citation to a person to appear before the sheriff and (if the person does not appear) may issue a warrant for the person's arrest;
+>
+> (d) that, for the purpose of securing a person's presence before the sheriff, the sheriff may issue a warrant for the person's arrest without issuing a citation;
+>
+> (e) as to the execution of a warrant of arrest.
+
+#### 29 Commitment to prison (prospective)
+
+(1) In section 40 of the Child Support Act 1991 (c. 48) (commitment to prison), before subsection (3) insert—
+
+> (2A) The [[^F48]Secretary of State] may apply to a magistrates' court for the issue of a warrant committing a person to prison where—
+>
+> (a) [[^F49]the Secretary of State] has sought to recover an amount from the person by means of taking enforcement action by virtue of section 35 or 38, or by means of a third party debt order or a charging order by virtue of section 36;
+>
+> (b) the whole or any part of the amount remains unpaid; and
+>
+> (c) the [[^F48]Secretary of State] is of the opinion that there has been wilful refusal or culpable neglect on the part of the person from whom [[^F49]the Secretary of State] has sought to recover the amount (“the liable person”).
+>
+> (2B) For the purposes of subsection (2A)(a), the [[^F50]Secretary of State] is to be taken to have sought to recover an amount by means of a charging order if an interim charging order has been made, whether or not any further steps have been taken to recover the amount.
+>
+> (2C) On an application under subsection (2A) the court shall (in the presence of the liable person) inquire as to—
+>
+> (a) the liable person's means; and
+>
+> (b) whether there has been wilful refusal or culpable neglect on the part of the liable person.
+>
+> (2D) On an application under subsection (2A) the court shall not question—
+>
+> (a) the liability order by reference to which the [[^F50]Secretary of State] acted as mentioned in paragraph (a) of that subsection; or
+>
+> (b) the maintenance calculation by reference to which that liability order was made.
+
+(2) For subsection (10) of that section, substitute—
+
+> (10) On acting as mentioned in subsection (3), the court may order the liable person to be searched.
+>
+> (10A) Any money found on such a search shall, unless the court otherwise directs, be applied towards payment of the relevant amount; and the balance (if any) shall be returned to the person searched.
+>
+> (10B) The reference in subsection (10A) to the relevant amount is—
+>
+> (a) where the order under subsection (10) is made by virtue of the court acting under subsection (3)(a), to the amount mentioned in subsection (4)(a);
+>
+> (b) where the order under subsection (10) is made by virtue of the court acting under subsection (3)(b), to the amount mentioned in subsection (4)(a)(i).
+>
+> (10C) The court shall not allow the application under subsection (10A) of money found on a search under subsection (10) if it is satisfied that the money does not belong to the person searched.
+
+(3) In section 40A of that Act (commitment to prison: Scotland), before subsection (1) insert—
+
+> (A1) The [[^F51]Secretary of State] may apply to the sheriff for the issue of a warrant committing a person to prison where—
+>
+> (a) [[^F52]the Secretary of State] has sought to recover an amount from the person by means of taking enforcement action by virtue of section 35 or 38, or by means of a third party debt order or a charging order by virtue of section 36;
+>
+> (b) the whole or any part of the amount remains unpaid; and
+>
+> (c) the [[^F51]Secretary of State] is of the opinion that there has been wilful refusal or culpable neglect on the part of the person from whom [[^F52]the Secretary of State] has sought to recover the amount (“the liable person”).
+>
+> (A2) For the purposes of subsection (A1)(a), the [[^F53]Secretary of State] is to be taken to have sought to recover an amount by means of a charging order if an interim charging order has been made, whether or not any further steps have been taken to recover the amount.
+>
+> (A3) On an application under subsection (A1), the sheriff shall (in the presence of the liable person) inquire into—
+>
+> (a) the liable person's means; and
+>
+> (b) whether there has been wilful refusal or culpable neglect on the part of the liable person.
+>
+> (A4) On an application under subsection (A1), the sheriff shall not question—
+>
+> (a) the liability order by reference to which the [[^F53]Secretary of State] acted as mentioned in paragraph (a) of that subsection; or
+>
+> (b) the maintenance calculation by reference to which that liability order was made.
+
+(4) After subsection (7) of that section, insert—
+
+> (7A) On acting as mentioned in subsection (1), the sheriff may order the liable person to be searched.
+>
+> (7B) Any money found on such a search shall, unless the sheriff otherwise directs, be applied towards payment of the relevant amount; and the balance (if any) shall be returned to the person searched.
+>
+> (7C) The reference in subsection (7B) to the relevant amount is—
+>
+> (a) where the order under subsection (7A) is made by virtue of the court acting under subsection (1)(a), to the amount mentioned in subsection (2)(a);
+>
+> (b) where the order under subsection (7A) is made by virtue of the court acting under subsection (1)(b), to the amount mentioned in subsection (2)(a)(i).
+>
+> (7D) The sheriff shall not allow the application under subsection (7B) of money found on a search under subsection (7A) if the sheriff is satisfied that the money does not belong to the person searched.
+
+#### 30 Disqualification for driving (prospective)
+
+[^F54]1 [^F54]In section 40B of the Child Support Act 1991 (c. 48) (disqualification from driving), for the heading and subsection (1) substitute—
+
+> **[^F54]40B [^F54]Disqualification for holding or obtaining driving licence**
+>
+> [^F54]A1 [^F54]The [^F54][[^F55]Secretary of State][^F54] may apply to the court for an order disqualifying a person for holding or obtaining a driving licence where—
+>
+> [^F54]a [^F54][[^F56]the Secretary of State][^F54] has sought to recover an amount from the person by means of taking enforcement action by virtue of section 35 or 38, or by means of a third party debt order or a charging order by virtue of section 36;
+>
+> [^F54]b [^F54]the whole or any part of the amount remains unpaid; and
+>
+> [^F54]c [^F54]the [^F54][[^F55]Secretary of State][^F54] is of the opinion that there has been wilful refusal or culpable neglect on the part of the person from whom [^F54][[^F56]the Secretary of State][^F54] has sought to recover the amount (“[^F54]the liable person[^F54]”).
+>
+> [^F54]A2 [^F54]Disqualification by an order under subsection (A1) (a “disqualification order”) shall be for such period not exceeding two years as the court may specify in the order.
+>
+> [^F54]A3 [^F54]For the purposes of subsection (A1)(a), the [^F54][[^F57]Secretary of State][^F54] is to be taken to have sought to recover an amount by means of a charging order if an interim charging order has been made, whether or not any further steps have been taken to recover the amount.
+>
+> [^F54]A4 [^F54]On an application under subsection (A1) the court shall (in the presence of the liable person) inquire as to—
+>
+> [^F54]a [^F54]whether the liable person needs a driving licence to earn a living;
+>
+> [^F54]b [^F54]the liable person's means; and
+>
+> [^F54]c [^F54]whether there has been wilful refusal or culpable neglect on the part of the liable person.
+>
+> [^F54]A5 [^F54]On an application under subsection (A1) the court shall not question—
+>
+> [^F54]a [^F54]the liability order by reference to which the [^F54][[^F57]Secretary of State][^F54] acted as mentioned in paragraph (a) of that subsection; or
+>
+> [^F54]b [^F54]the maintenance calculation by reference to which that liability order was made.
+>
+> [^F54]1 [^F54]If, but only if, the court is of the opinion that there has been wilful refusal or culpable neglect on the part of the liable person, it may—
+>
+> [^F54]a [^F54]make a disqualification order against the liable person; or
+>
+> [^F54]b [^F54]make such an order but suspend its operation until such time and on such conditions (if any) as it thinks just.
+
+[^F54]2 [^F54]For subsection (10) of that section, substitute—
+
+> [^F54]10 [^F54]On making a disqualification order, the court may order the liable person to be searched.
+>
+> [^F54]10A [^F54]Any money found on such a search shall, unless the court otherwise directs, be applied towards payment of the amount due; and the balance (if any) shall be returned to the person searched.
+>
+> [^F54]10B [^F54]The court shall not allow the application under subsection (10A) of money found on a search under subsection (10) if it is satisfied that the money does not belong to the person searched.
+>
+> [^F54]10C [^F54]The court may exercise the powers conferred on it by subsection (5) without the need for an application where money found on a search under subsection (10) is applied towards payment of the amount due.
+
+### Debt management powers
+
+#### 31 Power to treat liability as satisfied
+
+After section 41B of the Child Support Act 1991 (c. 48) insert—
+
+> **41C Power to treat liability as satisfied**
+>
+> (1) The Secretary of State may by regulations—
+>
+> (a) make provision enabling the Commission in prescribed circumstances to set off liabilities to pay child support maintenance to which this section applies;
+>
+> (b) make provision enabling the Commission in prescribed circumstances to set off against a person's liability to pay child support maintenance to which this section applies a payment made by the person which is of a prescribed description.
+>
+> (2) Liability to pay child support maintenance shall be treated as satisfied to the extent that it is the subject of setting off under regulations under subsection (1).
+>
+> (3) In subsection (1), the references to child support maintenance to which this section applies are to child support maintenance for the collection of which the Commission is authorised to make arrangements.
+
+#### 32 Power to accept part payment of arrears in full and final satisfaction
+
+After section 41C of the Child Support Act 1991 (inserted by section 31 of this Act) insert—
+
+> **41D Power to accept part payment of arrears in full and final satisfaction**
+>
+> (1) The [[^F58]Secretary of State] may, in relation to any arrears of child support maintenance, accept payment of part in satisfaction of liability for the whole.
+>
+> (2) The Secretary of State must by regulations make provision with respect to the exercise of the power under subsection (1).
+>
+> (3) The regulations must provide that unless one of the conditions in subsection (4) is satisfied the [[^F58]Secretary of State] may not exercise the power under subsection (1) without the appropriate consent.
+>
+> (4) The conditions are—
+>
+> (a) that the [[^F59]Secretary of State] would be entitled to retain the whole of the arrears under section 41(2) if [[^F60]Secretary of State] recovered them;
+>
+> (b) that the [[^F59]Secretary of State] would be entitled to retain part of the arrears under section 41(2) if [[^F60]Secretary of State] recovered them, and the part of the arrears that the [[^F59]Secretary of State] would not be entitled to retain is equal to or less than the payment accepted under subsection (1).
+>
+> (5) Unless the maintenance calculation was made under section 7, the appropriate consent is the written consent of the person with care with respect to whom the maintenance calculation was made.
+>
+> (6) If the maintenance calculation was made under section 7, the appropriate consent is—
+>
+> (a) the written consent of the child who made the application under section 7(1), and
+>
+> (b) if subsection (7) applies, the written consent of the person with care of that child.
+>
+> (7) This subsection applies if—
+>
+> (a) the maintenance calculation was made under section 7(2), or
+>
+> (b) the Secretary of State has made arrangements under section 7(3) on the application of the person with care.
+
+#### 33 Power to write off arrears
+
+After section 41D of the Child Support Act 1991 (c. 48) (inserted by section 32 of this Act) insert—
+
+> **41E Power to write off arrears**
+>
+> (1) The [[^F61]Secretary of State] may extinguish liability in respect of arrears of child support maintenance if it appears to [[^F62]the Secretary of State]—
+>
+> (a) that the circumstances of the case are of a description specified in regulations made by the Secretary of State, and
+>
+> (b) that it would be unfair or otherwise inappropriate to enforce liability in respect of the arrears.
+>
+> (2) The Secretary of State may by regulations make provision with respect to the exercise of the power under subsection (1).
+
+#### 34 Transfer of arrears (prospective)
+
+After section 49 of the Child Support Act 1991 insert—
+
+> **49A Transfer of arrears**
+>
+> (1) The Secretary of State may by regulations make provision enabling the [[^F63]Secretary of State] in prescribed circumstances to enter into arrangements (“transfer arrangements”) under which liability in respect of arrears of child support maintenance becomes debt due to the person with whom the arrangements are entered into (“the transferee”).
+>
+> (2) Liability which is the subject of transfer arrangements—
+>
+> (a) ceases to be liability in relation to which the [[^F64]Secretary of State's] functions with respect to collection and enforcement are exercisable, and
+>
+> (b) becomes debt in which only the transferee has an interest.
+>
+> (3) Regulations under subsection (1) must provide that unless one of the conditions in subsection (4) is satisfied the [[^F65]Secretary of State] may not enter into transfer arrangements in relation to arrears of child support maintenance without the appropriate consent.
+>
+> (4) The conditions are—
+>
+> (a) that the [[^F66]Secretary of State] would be entitled to retain the whole of the arrears under section 41(2) if [[^F67]the Secretary of State] recovered them;
+>
+> (b) that the [[^F66]Secretary of State] would be entitled to retain part of the arrears under section 41(2) if [[^F67]the Secretary of State] recovered them, and the part of the arrears that the [[^F66]Secretary of State] would not be entitled to retain is equal to or less than the transfer payment.
+>
+> (5) In subsection (4)(b), “transfer payment” means—
+>
+> (a) the payment that the [[^F68]Secretary of State] would receive from the transferee on the arrangements taking effect, and
+>
+> (b) such other payments under the transfer arrangements as may be prescribed.
+>
+> (6) Unless the maintenance calculation was made under section 7, the appropriate consent is the written consent of the person with care with respect to whom the maintenance calculation was made.
+>
+> (7) If the maintenance calculation was made under section 7, the appropriate consent is—
+>
+> (a) the written consent of the child who made the application under section 7(1), and
+>
+> (b) if subsection (8) applies, the written consent of the person with care of that child.
+>
+> (8) This subsection applies if—
+>
+> (a) the maintenance calculation was made under section 7(2), or
+>
+> (b) the Secretary of State has made arrangements under section 7(3) on the application of the person with care.
+>
+> (9) Regulations under subsection (1) may, in particular—
+>
+> (a) specify when arrears of child support maintenance may be the subject of transfer arrangements;
+>
+> (b) specify the descriptions of person with whom transfer arrangements may be entered into;
+>
+> (c) specify terms and conditions which transfer arrangements must include;
+>
+> (d) provide that a payment made to the [[^F68]Secretary of State] under transfer arrangements may be treated for prescribed purposes as if it were a payment of child support maintenance.
+>
+> (10) Regulations under subsection (1) may include—
+>
+> (a) provision with respect to the recovery of debt to which a person is entitled by virtue of transfer arrangements;
+>
+> (b) provision enabling the [[^F68]Secretary of State] in prescribed circumstances to prevent a person entitled to debt by virtue of transfer arrangements from taking steps to recover it;
+>
+> (c) provision enabling the [[^F68]Secretary of State] to supply information of a prescribed description to a person entitled to debt by virtue of transfer arrangements for the purpose of enabling the debt to be recovered.
+
+### Miscellaneous
+
+#### 35 Registered maintenance agreements: Scotland
+
+(1) In section 4(10) of the Child Support Act 1991 (c. 48) (exclusion of application for maintenance calculation), after paragraph (aa) insert—
+
+> (ab) a maintenance agreement—
+>
+> (i) made on or after the date prescribed for the purposes of paragraph (a); and
+>
+> (ii) registered for execution in the Books of Council and Session or the sheriff court books,
+>
+> is in force in respect of them, but has been so for less than the period of one year beginning with the date on which it was made; or
+
+.
+
+(2) In section 7(10) of that Act (exclusion of application by child in Scotland for maintenance calculation), at the end of paragraph (b) insert
+
+> ; or
+>
+> (c) a maintenance agreement—
+>
+> (i) made on or after the date prescribed for the purposes of paragraph (a); and
+>
+> (ii) registered for execution in the Books of Council and Session or the sheriff court books,
+>
+> is in force in respect of them, but has been so for less than the period of one year beginning with the date on which it was made.
+
+(3) In section 9(3) of that Act (agreements about maintenance), after “4(10)(a)” insert “ and (ab) ”.
+
+#### 36 Offence of failing to notify change of address
+
+(1) In section 14A of the Child Support Act 1991 (information\_offences), after subsection (3) insert—
+
+> (3A) In the case of regulations under section 14 which require a person liable to make payments of child support maintenance to notify a change of address, a person who fails to comply with the requirement is guilty of an offence.
+
+(2) In that section, in subsection (4), after “subsection (3)” insert “ or (3A) ”.
+
+#### 37 Additional special case
+
+In section 42(2) of the Child Support Act 1991 (examples of cases in relation to which the power under subsection (1) to prescribe circumstances in which a case is to be treated as a special case for the purposes of the Act may be exercised), at the end insert—
+
+> (g) the same persons are the parents of two or more children and each parent is—
+>
+> (i) a non-resident parent in relation to one or more of the children, and
+>
+> (ii) a person with care in relation to one or more of the children.
+
+#### 38 Recovery of arrears from deceased's estate
+
+After section 43 of the Child Support Act 1991 (c. 48) insert—
+
+> **43A Recovery of arrears from deceased's estate**
+>
+> (1) The Secretary of State may by regulations make provision for the recovery from the estate of a deceased person of arrears of child support maintenance for which the deceased person was liable immediately before death.
+>
+> (2) Regulations under subsection (1) may, in particular—
+>
+> (a) make provision for arrears of child support maintenance for which a deceased person was so liable to be a debt payable by the deceased's executor or administrator out of the deceased's estate to the Commission;
+>
+> (b) make provision for establishing the amount of any such arrears;
+>
+> (c) make provision about procedure in relation to claims under the regulations.
+>
+> (3) Regulations under subsection (1) may include provision for proceedings (whether by appeal or otherwise) to be instituted, continued or withdrawn by the deceased's executor or administrator.
+
+#### 39 Disclosure of information relating to family proceedings (prospective)
+
+(1) After section 49A of the Child Support Act 1991 (inserted by section 34 of this Act), insert—
+
+> **49B Disclosure of information relating to family proceedings**
+>
+> (1) Where this section applies, a disclosure of information relating to family proceedings made to the [[^F69]Secretary of State for the purposes of the Secretary of State's functions relating to child support], or to a person providing services to the [[^F70]Secretary of State for those purposes], by a party to the proceedings is not (if it would otherwise be) a contempt of court or punishable as a contempt of court.
+>
+> (2) This section applies if—
+>
+> (a) the party is a person with care or non-resident parent in relation to a child,
+>
+> (b) child support maintenance is payable, or an application for a maintenance calculation has been made, in respect of the child, and
+>
+> (c) the party reasonably considers that the information is relevant to the exercise of the [[^F71]Secretary of State's] functions relating to child support in relation to the child.
+>
+> (3) This section also applies if—
+>
+> (a) an application for a maintenance calculation has been made under section 7(1) by the party, or child support maintenance is payable in accordance with a maintenance calculation made on an application made under section 7(1) by the party, and
+>
+> (b) the party reasonably considers that the information is relevant to the exercise of the [[^F71]Secretary of State's] functions relating to child support in relation to the party.
+>
+> (4) A disclosure by a party's representative is to be treated for the purposes of this section as a disclosure by the party, if the representative is instructed by the party to make the disclosure.
+>
+> (5) In this section, “representative” means
+>
+> (a) in England and Wales—
+>
+> (i) a barrister or a solicitor, solicitor's employee or other authorised litigator (as defined in the Courts and Legal Services Act 1990) who has been instructed to act for a party in relation to the proceedings,
+>
+> (ii) a non-professional person who gives lay advice on behalf of an organisation in the lay advice sector, or
+>
+> (iii) any person permitted by the court to sit beside an unrepresented litigant in court to assist that litigant by prompting, taking notes and giving advice to the litigant;
+>
+> (b) in Scotland, a legal representative.
+>
+> (6) This section does not apply if the court dealing with the proceedings so directs.
+>
+> **49C Meaning of “family proceedings”**
+>
+> (1) In section 49B, “family proceedings” means any of the following proceedings commenced on or after the day on which that section comes into force—
+>
+> (a) proceedings for ancillary relief (within the meaning of subsection (2));
+>
+> (b) proceedings under section 17 of the Married Women's Property Act 1882 (questions between husband and wife as to property);
+>
+> (c) proceedings under any of the following provisions of the 1973 Act—
+>
+> (i) section 27 (financial provision in cases of neglect to maintain);
+>
+> (ii) section 35 (alteration of maintenance agreements);
+>
+> (d) proceedings under Part 1 of the Domestic Proceedings and Magistrates' Courts Act 1978 (powers of court to make orders for financial provision);
+>
+> (e) proceedings relating to orders for financial provision within the meaning of section 8 of the Family Law (Scotland) Act 1985;
+>
+> (f) proceedings relating to an action for aliment within the meaning of section 2 of that Act;
+>
+> (g) proceedings under Part 3 of the Matrimonial and Family Proceedings Act 1984 (financial relief in England and Wales after overseas divorce etc.);
+>
+> (h) proceedings under Schedule 1 to the Children Act 1989 (financial provision for children);
+>
+> (i) proceedings under sections 33 to 40 of the Family Law Act 1996 (occupation orders);
+>
+> (j) proceedings under any of the following provisions of the 2004 Act—
+>
+> (i) section 66 (disputes between civil partners about property);
+>
+> (ii) paragraph 41 of Schedule 5 (orders where failure to maintain);
+>
+> (iii) paragraph 69 of Schedule 5 (alteration of maintenance agreements by the court);
+>
+> (iv) Schedule 6 (financial relief in magistrates' courts etc.);
+>
+> (v) Schedule 7 (financial relief in England and Wales after overseas dissolution etc. of a civil partnership).
+>
+> (2) In subsection (1), “ancillary relief” means any of the following—
+>
+> (a) an order under section 37(2)(b) or (c) of the 1973 Act or paragraph 74(3) or (4) of Schedule 5 to the 2004 Act (avoidance of disposition orders);
+>
+> (b) any of the orders mentioned in section 21(1) of the 1973 Act (except an order under section 27(6) of that Act) or any of the orders mentioned in paragraph 2(1) of Schedule 5 to the 2004 Act (financial provision orders) made under Part 1 of that Schedule;
+>
+> (c) an order under section 22 of the 1973 Act (orders for maintenance pending suit);
+>
+> (d) an order under paragraph 38 of Schedule 5 to the 2004 Act (orders for maintenance pending outcome of proceedings);
+>
+> (e) any of the orders mentioned in section 21(2) of the 1973 Act or any of the orders mentioned in paragraph 7(1) of Schedule 5 to the 2004 Act (property adjustment orders);
+>
+> (f) an order under section 31 of the 1973 Act or an order under Part 11 of Schedule 5 to the 2004 Act (variation orders);
+>
+> (g) an order under section 24B of the 1973 Act or an order under paragraph 15 of Schedule 5 to the 2004 Act (pension sharing orders).
+>
+> (3) The Secretary of State may by order amend this section so as to provide that “family proceedings” in section 49B includes proceedings of a description specified in the order, other than proceedings commenced before the day on which the order comes into force.
+>
+> (4) An order under subsection (3) may be made only with the consent of the Lord Chancellor.
+>
+> (5) In this section—
+>
+> - “the 1973 Act” means the Matrimonial Causes Act 1973;
+> - “the 2004 Act” means the Civil Partnership Act 2004.
+
+#### 40 Disclosure of information to credit reference agencies
+
+After section 49C of the Child Support Act 1991 (c. 48) (inserted by section 39 of this Act) insert—
+
+> **49D Disclosure of information to credit reference agencies**
+>
+> (1) Subject to subsection (3), the [[^F72]Secretary of State] may supply qualifying information to a credit reference agency for use for the purpose of furnishing information relevant to the financial standing of individuals.
+>
+> (2) The reference in subsection (1) to qualifying information is to information which—
+>
+> (a) is held by the [[^F72]Secretary of State] for the purposes of this Act,
+>
+> (b) relates to a person who is liable to pay child support maintenance, and
+>
+> (c) is of a prescribed description.
+>
+> (3) Information may not be supplied under subsection (1) without the consent of the person to whom it relates, unless a liability order against that person is in force.
+>
+> (4) No provision may be made under section 14(3) authorising the supply of information by the [[^F72]Secretary of State] to credit reference agencies.
+>
+> (5) In this section, “credit reference agency” has the same meaning as in the Consumer Credit Act 1974.
+
+#### 41 Pilot schemes
+
+After section 51 of the Child Support Act 1991 insert—
+
+> **51A Pilot schemes**
+>
+> (1) Any regulations made under this Act may be made so as to have effect for a specified period not exceeding 24 months.
+>
+> (2) Regulations which, by virtue of subsection (1), are to have effect for a limited period are referred to in this section as a “pilot scheme”.
+>
+> (3) A pilot scheme may provide that its provisions are to apply only in relation to—
+>
+> (a) one or more specified areas or localities;
+>
+> (b) one or more specified classes of person;
+>
+> (c) persons selected by reference to prescribed criteria, or on a sampling basis.
+>
+> (4) A pilot scheme may make consequential or transitional provision with respect to the cessation of the scheme on the expiry of the specified period.
+>
+> (5) A pilot scheme may be replaced by a further pilot scheme making the same or similar provision.
+
+#### 42 Meaning of “child”
+
+For section 55 of the Child Support Act 1991 (c. 48) substitute—
+
+> **55 Meaning of “child”**
+>
+> (1) In this Act, “child” means (subject to subsection (2)) a person who—
+>
+> (a) has not attained the age of 16, or
+>
+> (b) has not attained the age of 20 and satisfies such conditions as may be prescribed.
+>
+> (2) A person who is or has been party to a marriage or civil partnership is not a child for the purposes of this Act.
+>
+> (3) For the purposes of subsection (2), “marriage” and “civil partnership” include a void marriage and a void civil partnership respectively.
+
+#### 43 Extinction of liability in respect of interest and fees
+
+Any outstanding liability in respect of the following is extinguished—
+
+(a) interest under the Child Support (Arrears, Interest and Adjustment of Maintenance Assessments) Regulations 1992 (S.I. 1992/1816);
+
+(b) fees under the Child Support Fees Regulations 1992 (S.I. 1992/3094).
+
+#### 44 Use of information
+
+[^F73]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 45 Liable relative provisions: exclusion of parental duty to maintain
+
+(1) In section 105 of the Social Security Administration Act 1992 (c. 5) (failure to maintain), for subsection (3) substitute—
+
+> (3) Subject to subsection (4), for the purposes of this Part, a person shall be liable to maintain another person if that other person is—
+>
+> (a) his or her spouse or civil partner, or
+>
+> (b) a person whom he or she would be liable to maintain if sections 78(6)(c) and (9) had effect for the purposes of this Part.
+
+(2) In that section, in subsection (4), for the words from “a person” to the end, substitute “ subsection (3)(b) shall not apply ”.
+
+## Part 4 — Lump sum payments: mesothelioma etc.
+
+### Mesothelioma lump sum payments
+
+#### 46 Lump sum payments
+
+(1) A claim for a payment under this Part may be made by—
+
+(a) a person with diffuse mesothelioma, or
+
+(b) a dependant of a person who, immediately before death, had diffuse mesothelioma.
+
+(2) The Secretary of State must make the payment to the claimant if satisfied that the conditions of entitlement in section 47 are fulfilled.
+
+(3) Regulations—
+
+(a) may prescribe the amount of any payment;
+
+(b) may prescribe different amounts for different cases or classes of cases or for different circumstances.
+
+(4) In this Part—
+
+- “dependant” has the meaning given by section 3 of the Pneumoconiosis etc. (Workers' Compensation) Act 1979 (c. 41) (“the 1979 Act”);
+- “diffuse mesothelioma” has the same meaning as in the 1979 Act.
+
+(5) Where, because of section 3(1)(b) or (d) of the 1979 Act (children, siblings etc.), a payment may be claimed by two or more persons, the payment is to be made to one of them or divided between some or all of them as the Secretary of State thinks fit.
+
+#### 47 Conditions of entitlement
+
+(1) In the case of a person who has diffuse mesothelioma, the conditions of entitlement are—
+
+(a) that no payment within subsection (3) has been made in consequence of the disease;
+
+(b) that the person is not eligible for any payment in consequence of the disease that is of a description prescribed by regulations;
+
+(c) that such requirement, if any, as may be prescribed by regulations as to the person's connection with the United Kingdom is satisfied.
+
+(2) In the case of a dependant of a person who, immediately before death, had diffuse mesothelioma, the conditions of entitlement are—
+
+(a) that no payment within subsection (3) has been made in consequence of the disease to that or another dependant or to the deceased or the deceased's personal representatives;
+
+(b) that the dependant is not, and the deceased was not, eligible for any payment in consequence of the disease that is of a description prescribed by regulations;
+
+(c) that such requirement, if any, as may be prescribed by regulations as to the deceased's connection with the United Kingdom is satisfied.
+
+(3) The payments referred to in subsections (1)(a) and (2)(a) are—
+
+(a) a payment under this Part or under corresponding provision made for Northern Ireland;
+
+(b) a payment under the 1979 Act or under corresponding provision made for Northern Ireland;
+
+[[^F74](ba) a payment under the Diffuse Mesothelioma Payment Scheme (for the scheme, see the Mesothelioma Act 2014);]
+
+(c) an extra-statutory payment;
+
+(d) damages or a payment in settlement of a claim for damages;
+
+(e) a payment of a description prescribed by regulations.
+
+(4) A payment is to be disregarded for the purposes of subsection (1)(a) or (2)(a) if it has been, or is liable to be, repaid—
+
+(a) under section 49 of this Act or under corresponding provision made for Northern Ireland;
+
+(b) under section 5 of the 1979 Act or under corresponding provision made for Northern Ireland;
+
+(c) under the terms of an extra-statutory payment;
+
+(d) in circumstances prescribed for the purposes of this section by regulations.
+
+(5) In this section “extra-statutory payment” has the meaning given by section 1A(5)(d) of the Social Security (Recovery of Benefits) Act 1997 (c. 27).
+
+#### 48 Determination of claims
+
+(1) A claim under section 46 must be made in the manner and within the period prescribed by regulations.
+
+(2) Regulations may prescribe different periods for different cases or classes of cases or for different circumstances.
+
+(3) Regulations may in particular provide that no claim may be made in cases where the prescribed period expired before the commencement of section 46 (or would have done but for any discretion to extend it).
+
+(4) The Secretary of State may, before determining any claim under section 46, appoint a person to inquire into any question arising on the claim, or any matters arising in connection with it, and to report on the question, or on those matters, to the Secretary of State.
+
+#### 49 Reconsideration
+
+(1) Subject to subsection (2), the Secretary of State—
+
+(a) may reconsider a determination that a payment should not be made under this Part, on the ground that there has been a material change of circumstances since the determination was made; and
+
+(b) may reconsider a determination either that a payment should or that a payment should not be made under this Part, on the ground that the determination was made in ignorance of, or was based on a mistake as to, a material fact.
+
+(2) Regulations must prescribe the manner in which and[[^F75]may prescribe] the period within which—
+
+(a) an application may be made to the Secretary of State for reconsideration of a determination; or
+
+(b) the Secretary of State may institute such a reconsideration without an application.
+
+(3) Section 48(4) applies in relation to any reconsideration of a determination under this section as it applies in relation to the determination of a claim.
+
+(4) Subsection (5) applies if—
+
+(a) whether fraudulently or otherwise, any person misrepresents or fails to disclose any material fact, and
+
+(b) in consequence of the misrepresentation or failure, a payment is made under this Part.
+
+(5) The person to whom the payment was made is liable to repay the amount of that payment to the Secretary of State unless that person can show that the misrepresentation or failure occurred without that person's connivance or consent.
+
+(6) Except as provided by subsection (5), no payment under this Part is recoverable by virtue of a reconsideration of a determination under this section.
+
+(7) Any sums repaid to the Secretary of State by virtue of subsection (5) are to be paid into the Consolidated Fund.
+
+#### 50 Appeal to [[^F76]First-tier Tribunal]
+
+(1) A person who has made a claim under section 46 may appeal against a determination made by the Secretary of State—
+
+(a) on the claim, or
+
+(b) on reconsideration under section 49 of a determination made on the claim.
+
+[[^F77](1A) Regulations may provide that, in such cases or circumstances as may be prescribed, a person may appeal against a determination made on a claim only if the Secretary of State has decided whether to reconsider the determination under section 49.
+
+(1B) The regulations may in particular provide that that condition is met only where—
+
+(a) the decision of the Secretary of State was on an application,
+
+(b) the Secretary of State considered issues of a specified description, or
+
+(c) the decision of the Secretary of State satisfied any other condition specified in the regulations.]
+
+(2) Subject to regulations under subsection (4)(c), the Secretary of State must refer any appeal to [[^F78]the First-tier Tribunal]
+
+(3) On an appeal the tribunal may substitute for the determination concerned any determination which could have been made in accordance with this Part.
+
+(4) Regulations may make provision—
+
+(a) as to the manner in which, and the time within which, an appeal may be made;
+
+(b) [^F79]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(c) for the purpose of enabling an appeal under subsection (1)(a)[[^F80](or, where in accordance with regulations under subsection (1A) there is no right of appeal, any purported appeal)] to be treated as an application for reconsideration under section 49 of the determination made on the claim.
+
+#### 51 Appeal to Social Security Commissioner
+
+[^F81]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 52 Minors and people who lack capacity
+
+(1) This section applies where a payment under this Part falls to be made to—
+
+(a) a person aged under 18, or
+
+(b) a person who lacks capacity within the meaning of the Mental Capacity Act 2005 (c. 9) (or, in Scotland, who is incapable within the meaning of the Adults with Incapacity (Scotland) Act 2000 (asp 4)) in relation to financial matters.
+
+(2) Subject to section 46(5) the payment is to be made for that person's benefit by paying it to such trustees as the Secretary of State may appoint.
+
+(3) The trustees are to hold the payment on such trusts or, in Scotland, for such purposes and on such conditions as the Secretary of State may declare.
+
+#### 53 Regulations: Part 4
+
+(1) A reference in this Part to regulations is a reference to regulations made by the Secretary of State.
+
+(2) The power to make regulations under this Part—
+
+(a) is exercisable by statutory instrument;
+
+(b) includes power to make such incidental, supplementary or transitional provision as the Secretary of State thinks fit;
+
+(c) may be exercised so as to provide for a person to exercise a discretion in dealing with any matter.
+
+[[^F82](2A) The power to make regulations under section 50(1A) may be exercised—
+
+(a) in relation to all cases to which it extends, in relation to those cases but subject to specified exceptions or in relation to any specified cases or classes of case;
+
+(b) so as to make, as respects the cases in relation to which it is exercised—
+
+(i) the full provision to which it extends or any lesser provision (whether by way of exception or otherwise);
+
+(ii) the same provision for all cases, different provision for different cases or classes of case or different provision as respects the same case or class of case but for different purposes of this Act;
+
+(iii) provision which is either unconditional or is subject to any specified condition.]
+
+(3) No regulations may be made under section 46[[^F83]or 50(1A)] unless a draft of the statutory instrument containing the regulations has been laid before, and approved by a resolution of, each House of Parliament.
+
+(4) No regulations may be made under any provision of section 47 if they are the first regulations to be made under that section, unless a draft of the statutory instrument containing the regulations has been laid before, and approved by a resolution of, each House of Parliament.
+
+(5) A statutory instrument that—
+
+(a) contains regulations under this Part, and
+
+(b) is not subject to a requirement that a draft of the instrument be laid before, and approved by a resolution of, each House of Parliament,
+
+shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+### Recovery of mesothelioma and other lump sum payments
+
+#### 54 Amendment of Social Security (Recovery of Benefits) Act 1997
+
+After section 1 of the Social Security (Recovery of Benefits) Act 1997 (c. 27) insert—
+
+> **1A Lump sum payments: regulation-making power**
+>
+> (1) The Secretary of State may by regulations make provision about the recovery of the amount of a payment to which subsection (2) applies (a “lump sum payment”) where—
+>
+> (a) a compensation payment in consequence of a disease is made to or in respect of a person (“P”) to whom, or in respect of whom, a lump sum payment has been, or is likely to be, made, and
+>
+> (b) the compensation payment is made in consequence of the same disease as the lump sum payment.
+>
+> (2) This subsection applies to—
+>
+> (a) a payment made in accordance with the Pneumoconiosis etc. (Workers' Compensation) Act 1979 (“the 1979 Act”),
+>
+> (b) a payment made in accordance with Part 4 of the Child Maintenance and Other Payments Act 2008, and
+>
+> (c) an extra-statutory payment (within the meaning given by subsection (5)(d) below).
+>
+> (3) Regulations under this section may, in particular—
+>
+> (a) make provision about the recovery of the amount of a lump sum payment made to or in respect of a dependant of P;
+>
+> (b) make provision enabling the recovery of the amount of a lump sum payment from a compensation payment (including provision enabling the recovery of an amount which reduces the compensation payment to nil);
+>
+> (c) enable the amount of a lump sum payment made before commencement to be recovered from a compensation payment made after commencement;
+>
+> (d) make provision about certificates in respect of lump sum payments;
+>
+> (e) apply any provision of this Act, with or without modifications.
+>
+> (4) References in subsection (1) to a payment made in consequence of a disease—
+>
+> (a) are references to a payment made by or on behalf of a person who is, or is alleged to be, liable to any extent in respect of the disease, but
+>
+> (b) do not include references to a payment mentioned in Part 1 of Schedule 1.
+>
+> (5) In this section—
+>
+> (a) “commencement” means the date on which this section comes into force,
+>
+> (b) “compensation payment” means a payment within section 1(1)(a) above,
+>
+> (c) “dependant” has the meaning given by section 3 of the 1979 Act, and
+>
+> (d) “extra-statutory payment” means a payment made by the Secretary of State to or in respect of a person following the rejection by the Secretary of State of a claim under the 1979 Act.
+
+## Part 5 — General
+
+### 55 Regulations and orders: general
+
+(1) This section has effect in relation to regulations under this Act, except Part 4.
+
+(2) Power to make regulations is exercisable by statutory instrument.
+
+(3) Power to make regulations includes power to make incidental, supplementary, consequential or transitional provision or savings.
+
+(4) Power to make regulations may be exercised—
+
+(a) in relation to all cases to which it extends, in relation to those cases but subject to specified exceptions or in relation to any specified cases or classes of case;
+
+(b) so as to make, as respects the cases in relation to which it is exercised—
+
+(i) the full provision to which it extends or any lesser provision (whether by way of exception or otherwise);
+
+(ii) the same provision for all cases, different provision for different cases or classes of case or different provision as respects the same case or class of case but for different purposes of this Act;
+
+(iii) provision which is either unconditional or is subject to any specified condition;
+
+(c) so as to provide for a person to exercise a discretion in dealing with any matter.
+
+(5) A statutory instrument containing—
+
+(a) regulations under section 6(1) or (4), [[^F84]or]
+
+(b) the first regulations under paragraphs 2(1), 3(1), 5(1) or (2), 6(1) or (3) or 7 of Schedule 5, [^F85]. . .
+
+(c) [^F85]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+shall not be made unless a draft of the statutory instrument containing the regulations or order has been laid before, and approved by a resolution of, each House of Parliament.
+
+(6) A statutory instrument that—
+
+(a) contains regulations, and
+
+(b) is not subject to a requirement that a draft of the instrument be laid before, and approved by a resolution of, each House of Parliament,
+
+shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+### 56 General interpretation
+
+(1) [^F86]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) Where—
+
+(a) this Act amends or repeals an enactment contained in the Child Support Act 1991 (c. 48) which has been amended by the Child Support, Pensions and Social Security Act 2000 (c. 19), and
+
+(b) the amendment by the 2000 Act has been brought into force for limited purposes only,
+
+the reference to the enactment shall, unless the contrary intention appears, be read as a reference to the enactment as it has effect apart from the 2000 Act, as well as to the enactment as amended by that Act.
+
+### 57 Minor and consequential amendments
+
+(1) Schedule 7 (which makes minor and consequential amendments) has effect.
+
+(2) The Secretary of State may by regulations make provision consequential on this Act amending, repealing or revoking any provision of—
+
+(a) an Act passed on or before the last day of the Session in which this Act is passed, or
+
+(b) an instrument made under an Act before the passing of this Act.
+
+### 58 Repeals
+
+The enactments specified in Schedule 8 are repealed to the extent specified.
+
+### 59 Transition
+
+(1) [^F87]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) The Secretary of State may by regulations make provision for the Child Support Act 1991, as amended by Schedule 3, to have effect, until the coming into force of section 15, with such modifications as the Secretary of State considers necessary in consequence of the retention of functions under section 46 of that Act.
+
+(3) The Secretary of State may, in relation to section 6 or 46 of the Child Support Act 1991, by regulations make provision for the section to have effect with such modifications as the Secretary of State considers expedient in anticipation of the coming into force of section 15.
+
+(4) Sections [^F88]... 32A, 32E, 32F, 32J, 32L, 32M, 41C to 41E, 43A, 49A, 49B and 49D of the Child Support Act 1991 shall have effect as if “child support maintenance” included periodical payments required to be paid in accordance with a maintenance assessment under the Act.
+
+(5) Sections [^F89]... 32A, 32C, 32E, 32F, 32J, 32L, 32M, [[^F90]32N,] 39B, 39H, 40, 40A, 40B and 49B of the Child Support Act 1991 shall have effect as if “maintenance calculation” included a maintenance assessment under the Act.
+
+(6) Sections 35, 36, 38, 39B, 39H, 39K, 40, 40B and 49D of the Child Support Act 1991 shall have effect as if orders made under section 33 of that Act had been made under section 32M of that Act.
+
+(7) An order may be made under section 32M of the Child Support Act 1991 in respect of an amount even though the time within which an application could have been instituted under section 33 of that Act for an order in respect of that amount has expired.
+
+(8) The Secretary of State may by regulations make in connection with the coming into force of any provision of this Act such transitional provision or savings as the Secretary of State considers necessary or expedient.
+
+### 60 Financial provisions
+
+(1) There shall be paid out of money provided by Parliament—
+
+(a) any expenditure incurred by the Secretary of State or a government department in consequence of this Act, and
+
+(b) any increase attributable to this Act in the sums payable out of money so provided under any other enactment.
+
+(2) There shall be authorised the extinguishing in consequence of this Act of liabilities owed to the Crown under the Child Support Act 1991.
+
+### 61 Extent
+
+(1) Subject to the following provisions, this Act extends to England and Wales and Scotland only.
+
+(2) The following provisions also extend to Northern Ireland—
+
+(a) this section and sections 55, 57(2), 62 and 63;
+
+(b) [^F91]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) Any amendment or repeal made by this Act has the same extent as the enactment to which it relates.
+
+### 62 Commencement
+
+(1) This section and sections 55, 59(8), 61 and 63 shall come into force on the day on which this Act is passed.
+
+(2) Section 35 shall come into force on the day after the day on which this Act is passed.
+
+(3) The remaining provisions of this Act shall come into force on such day as the Secretary of State may by order made by statutory instrument appoint, and different days may be so appointed for different purposes.
+
+(4) An order under subsection (3) may include such transitional provision or savings as the Secretary of State considers necessary or expedient in connection with bringing any provision of this Act into force.
+
+(5) An order under subsection (3) appointing the day on which section 39 is to come into force in England and Wales may be made only with the consent of the Lord Chancellor.
+
+### 63 Citation
+
+This Act may be cited as the Child Maintenance and Other Payments Act 2008.
+
+## [^F92][^F92]SCHEDULE 1
+
+### Constitution of the Commission
+
+**1** The Commission shall consist of the following members—
+
+(a) a person to chair the Commission,
+
+(b) the chief executive of the Commission (who is to be known as the Commissioner for Child Maintenance),
+
+(c) one or more directors appointed from the staff of the Commission (“executive directors”), and
+
+(d) two or more directors appointed otherwise than from the staff of the Commission (“non-executive directors”).
+
+### Appointment of a person to chair the Commission
+
+**2** Appointments for the purposes of paragraph 1(a) are to be made by the Secretary of State otherwise than from the staff of the Commission.
+
+### Appointment of directors
+
+**3** (1) Appointments for the purposes of paragraph 1(c) are to be made by the Commission, with the approval of the Secretary of State.
+
+(2) Appointments for the purposes of paragraph 1(d) are to be made by the person appointed to chair the Commission, with the approval of the Secretary of State.
+
+(3) The power under sub-paragraph (1) may not be exercised if the result of exercising it would be to make the number of executive members of the Commission equal to or greater than the number of non-executive members of the Commission.
+
+(4) The power under sub-paragraph (2) must be exercised so as to secure, so far as practicable, that the Commission always has more non-executive members than executive members.
+
+### Terms of appointment and tenure of members
+
+**4** (1) The terms and conditions of a person's appointment to chair the Commission are to be such as the Secretary of State may determine.
+
+(2) The terms and conditions of a person's appointment as a non-executive director are to be such as the person appointed to chair the Commission may determine with the approval of the Secretary of State.
+
+(3) The matters with which the terms and conditions of a member's appointment may deal include, in particular—
+
+(a) the period for which the member is to hold office;
+
+(b) the member's eligibility for re-appointment;
+
+(c) circumstances in which membership may be suspended or terminated.
+
+**5** (1) Subject to sub-paragraphs (2) and (3), a person appointed to be a member of the Commission—
+
+(a) is to hold and vacate office in accordance with the terms and conditions of his or her appointment, and
+
+(b) may resign or be removed from office in accordance with those terms and conditions.
+
+(2) A person appointed as an executive director ceases to be a member of the Commission if he or she ceases to be a member of its staff.
+
+(3) A person appointed to chair the Commission or as a non-executive director ceases to be a member of the Commission if he or she becomes a member of its staff.
+
+### Remuneration etc. of non-executive members
+
+**6** (1) The Commission may pay, or make provision for paying, the person appointed to chair the Commission such remuneration as the Secretary of State may determine.
+
+(2) The Commission may—
+
+(a) pay to or in respect of any person who is or has been appointed to chair the Commission such pension, allowances or gratuities as the Secretary of State may determine, or
+
+(b) make such payments as the Secretary of State may determine towards provision for the payment of a pension, allowance or gratuity to or in respect of such a person.
+
+(3) Where—
+
+(a) the person appointed to chair the Commission ceases to be a member of the Commission otherwise than on the expiry of his term of office, and
+
+(b) it appears to the Secretary of State that there are circumstances which make it right for that person to receive compensation,
+
+the Commission may make a payment to that person of such amount as the Secretary of State may determine.
+
+**7** (1) The Commission may pay, or make provision for paying, non-executive directors of the Commission such remuneration as the person appointed to chair the Commission may determine with the approval of the Secretary of State.
+
+(2) The Commission may—
+
+(a) pay to or in respect of any person who is or has been a non-executive director such pension, allowances or gratuities as the person appointed to chair the Commission may determine with the approval of the Secretary of State, or
+
+(b) make such payments as the person appointed to chair the Commission may determine with the approval of the Secretary of State towards provision for the payment of a pension, allowance or gratuity to or in respect of any person who is or has been a non-executive director.
+
+(3) Where—
+
+(a) a non-executive director ceases to be a member of the Commission otherwise than on the expiry of his term of office, and
+
+(b) it appears to the person appointed to chair the Commission that there are circumstances which make it right for that person to receive compensation,
+
+the Commission may make a payment to that person of such amount as the person appointed to chair the Commission may determine with the approval of the Secretary of State.
+
+### Appointment of deputy chair
+
+**8** The person appointed to chair the Commission must appoint one of the non-executive directors as his or her deputy for such period (not exceeding the remainder of the non-executive director's period of office as director) as he or she may specify on making the appointment.
+
+### Staff
+
+**9** (1) The Commission is to have a chief executive.
+
+(2) The chief executive is employed in the civil service of the State.
+
+(3) The first appointment of a chief executive—
+
+(a) is to be made by the Secretary of State, and
+
+(b) is to be on such terms and conditions as to remuneration and other matters as the Secretary of State may, with the approval of the Minister for the Civil Service, determine.
+
+(4) Subsequent appointments of a chief executive—
+
+(a) are to be made by the Commission with the approval of the Secretary of State, and
+
+(b) are to be on such terms and conditions as to remuneration and other matters as the Commission may determine with the approval of the Secretary of State and the Minister for the Civil Service.
+
+**10** (1) The Commission may appoint such other staff as it considers appropriate.
+
+(2) Any such appointments are to be on such terms and conditions as to remuneration and other matters as the Commission may, with the approval of the Minister for the Civil Service, determine.
+
+### Committees
+
+**11** (1) The Commission may establish committees for any purpose.
+
+(2) Any committee established under sub-paragraph (1) may establish sub-committees.
+
+(3) Any committee or sub-committee established under this paragraph may consist of or include persons who are not members of the Commission.
+
+(4) Any sub-committee established under sub-paragraph (2) may consist of or include persons who are not members of the committee by which it is established.
+
+(5) Sub-paragraphs (2) to (4) do not apply to the committee established under paragraph 20(1) or to any of its sub-committees.
+
+**12** Appointment as a member of a committee or sub-committee of the Commission of a person who is not a member of the Commission or its staff is to be on such terms and conditions as to remuneration and other matters as the Commission may determine.
+
+### Procedure
+
+**13** The Commission may determine—
+
+(a) its own procedure (including quorum), and
+
+(b) the procedure (including quorum) of any of its committees.
+
+### Delegation
+
+**14** (1) The Commission may authorise—
+
+(a) any member of the Commission,
+
+(b) any member of its staff, or
+
+(c) any of its committees,
+
+to exercise on its behalf such of its functions, in such circumstances, as it may determine.
+
+(2) This paragraph does not apply to the functions listed in paragraph 20(1).
+
+**15** (1) The person appointed to chair the Commission may authorise—
+
+(a) any executive member of the Commission,
+
+(b) any member of its staff, or
+
+(c) subject to sub-paragraph (2), any of its committees,
+
+to exercise on his or her behalf the functions under paragraph 4(2) or 7.
+
+(2) Authority may not be given under sub-paragraph (1)(c) to a committee that includes a non-executive director; and authority given under that provision ceases to have effect if a non-executive director becomes a member of the committee concerned.
+
+### Instruments
+
+**16** (1) The fixing of the common seal of the Commission must be authenticated by the signature of a person authorised for that purpose by the Commission (whether generally or specifically).
+
+(2) A document purporting—
+
+(a) to be duly executed under the seal of the Commission, or
+
+(b) to be signed on its behalf,
+
+is to be received in evidence and taken, without further proof, to be so executed or signed unless the contrary is proved.
+
+(3) This paragraph does not apply in relation to Scotland.
+
+### Finance
+
+**17** (1) The Secretary of State may out of money provided by Parliament make such payments to the Commission as the Secretary of State considers appropriate for the purpose of enabling the Commission to meet its expenses.
+
+(2) Payments under this paragraph may be made at such times and subject to such conditions (if any) as the Secretary of State considers appropriate.
+
+### Accounts and audit
+
+**18** (1) The Commission must—
+
+(a) keep proper accounts and proper records in relation to its accounts, and
+
+(b) prepare in respect of each financial year a statement of accounts.
+
+(2) Each statement of accounts must comply with any directions given by the Secretary of State with the approval of the Treasury as to—
+
+(a) the information to be contained in it and the manner in which it is to be presented;
+
+(b) the methods and principles according to which the statement is to be prepared;
+
+(c) the additional information (if any) which is to be provided for the information of Parliament.
+
+(3) The Commission must send a copy of each statement of accounts—
+
+(a) to the Secretary of State, and
+
+(b) to the Comptroller and Auditor General,
+
+before the end of the month of August next following the financial year to which the statement relates.
+
+(4) The Comptroller and Auditor General must—
+
+(a) examine, certify and report on each statement of accounts received under sub-paragraph (3), and
+
+(b) send a copy of each report and certified statement to the Secretary of State.
+
+(5) The Secretary of State must lay before Parliament a copy of each report and statement sent under sub-paragraph (4)(b).
+
+(6) In this paragraph, “financial year” means—
+
+(a) the period beginning with the date on which the Commission is established and ending with the next following 31st March, and
+
+(b) each successive period of 12 months.
+
+**19** The Commission must keep under review the question whether its internal financial controls secure the proper conduct of its financial affairs.
+
+### Non-executive functions committee
+
+**20** (1) The Commission must establish a committee to discharge the following functions on its behalf—
+
+(a) the function under paragraph 9(4)(b);
+
+(b) the function under paragraph 10(2), so far as relating to executive directors;
+
+(c) the function under paragraph 12;
+
+(d) the function under paragraph 19.
+
+(2) The committee under sub-paragraph (1) is to consist of at least three members.
+
+(3) Only non-executive members of the Commission may be members of the committee under sub-paragraph (1).
+
+(4) The committee under sub-paragraph (1) is to be chaired by a person other than the person appointed to chair the Commission.
+
+(5) The committee under sub-paragraph (1) must prepare a report on the discharge of the functions mentioned in that sub-paragraph for inclusion in the annual report of the Commission to the Secretary of State under section 9.
+
+(6) The report under sub-paragraph (5) must relate to the same period as the Commission's report.
+
+(7) The committee under sub-paragraph (1) may establish sub-committees.
+
+(8) A sub-committee of the committee under sub-paragraph (1) may consist of or include persons who are not members of that committee or the Commission.
+
+(9) The members of any sub-committee of the committee under sub-paragraph (1) must not include persons who are executive members or other staff of the Commission.
+
+(10) The committee under sub-paragraph (1) may authorise any of its members or any of its sub-committees to discharge on its behalf—
+
+(a) the function mentioned in sub-paragraph (1)(d);
+
+(b) the duty to prepare a report under sub-paragraph (5).
+
+### Supplementary powers
+
+**21** The Commission may do anything (except borrow money) which is calculated to facilitate, or is conducive or incidental to, the carrying out of its functions.
+
+### Status of the Commission
+
+**22** (1) The functions of the Commission, and of its members, are to be exercised on behalf of the Crown.
+
+(2) For the purposes of any civil proceedings arising out of those functions—
+
+(a) the Crown Proceedings Act 1947 (c. 44) applies to the Commission as if it were a government department, and
+
+(b) the Crown Suits (Scotland) Act 1857 (c. 44) applies to it as if it were a public department.
+
+### Validity
+
+**23** The validity of any proceedings of the Commission (including proceedings of any of its committees) is not to be affected by—
+
+(a) any vacancy among the members of the Commission or any of its committees,
+
+(b) any defect in the appointment of any member of the Commission or any of its committees,
+
+(c) any defect in the appointment of the Commissioner for Child Maintenance, or
+
+(d) the composition for the time being of the membership of the Commission.
+
+### Public records
+
+**24** In Schedule 1 to the Public Records Act 1958 (c. 51) (definition of public records), in Part 2 of the Table at the end of paragraph 3, at the appropriate place insert— “ Child Maintenance and Enforcement Commission. ”
+
+### Investigation by Parliamentary Commissioner
+
+**25** In Schedule 2 to the Parliamentary Commissioner Act 1967 (c. 13) (departments and authorities subject to investigation), at the appropriate place insert— “ Child Maintenance and Enforcement Commission. ”
+
+### Civil service pensions
+
+**26** (1) The Commission must pay to the Minister for the Civil Service, at such times as he or she may direct, such sums as he or she may determine in respect of the increase in the sums payable out of money provided by Parliament that is attributable to the provision of relevant pensions.
+
+(2) In sub-paragraph (1), “relevant pensions” means pensions, allowances or gratuities under section 1 of the Superannuation Act 1972 (c. 11) payable to or in respect of persons who are or have been in the service of the Commission.
+
+### House of Commons disqualification
+
+**27** In Part 2 of Schedule 1 to the House of Commons Disqualification Act 1975 (c. 24) (bodies of which all members are disqualified), at the appropriate place insert— “ The Child Maintenance and Enforcement Commission. ”
+
+### Northern Ireland Assembly disqualification
+
+**28** In Part 2 of Schedule 1 to the Northern Ireland Assembly Disqualification Act 1975 (c. 25) (bodies of which all members are disqualified), at the appropriate place insert— “ The Child Maintenance and Enforcement Commission. ”
+
+### Freedom of information
+
+**29** In Part 6 of Schedule 1 to the Freedom of Information Act 2000 (c. 36) (public authorities), at the appropriate place insert— “ The Child Maintenance and Enforcement Commission. ”
+
+### Interpretation
+
+**30** In this Schedule—
+
+(a) references to executive members of the Commission are to the Commissioner for Child Maintenance and the executive directors;
+
+(b) references to non-executive members of the Commission are to those members of the Commission who are not executive members of it.
+
+**31** In this Schedule, references to the staff of the Commission are to the Commissioner for Child Maintenance and the other staff appointed under paragraph 10.
+
+**32** In this Schedule, references to the committees of the Commission are to—
+
+(a) the committee established under paragraph 20 and any of its sub-committees, and
+
+(b) any committees or sub-committees established under paragraph 11.
+
+## [^F93][^F93]SCHEDULE 2
+
+[^F93]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 3 — Transfer of child support functions
+
+*Section 13*
+
+### Part 1 — Consequential amendments
+
+#### Child Support Act 1991 (c. 48)
+
+**1** The Child Support Act 1991 (c. 48) is amended as follows.
+
+**2** In section 2 (welfare of children: the general principle)—
+
+(a) for “Secretary of State” substitute “ Commission ”;
+
+(b) for “he” substitute “ it ”;
+
+(c) for “his” substitute “ its ”.
+
+**3** (1) Section 4 (child support maintenance) is amended as follows.
+
+(2) In subsection (1), for “Secretary of State” substitute “ Commission ”.
+
+(3) In subsection (2)—
+
+(a) for “Secretary of State” substitute “ Commission ”;
+
+(b) for “him” substitute “ it ”.
+
+(4) In subsection (3)—
+
+(a) for “Secretary of State” (in both places where it occurs) substitute “ Commission ”;
+
+(b) for “he” substitute “ it ”.
+
+(5) In subsection (4), for “Secretary of State” (in the first and third places where it occurs) substitute “ Commission ”.
+
+(6) In subsection (5)—
+
+(a) for “Secretary of State” substitute “ Commission ”;
+
+(b) for “him” substitute “ it ”.
+
+(7) In subsections (6) and (7), for “Secretary of State” substitute “ Commission ”.
+
+**4** (1) Section 6 (applications by those claiming or receiving benefit) is amended as follows.
+
+(2) After subsection (2) insert—
+
+> (2A) The Secretary of State must notify the Commission of circumstances giving rise to the application of this section.
+
+(3) In subsections (3) and (4), for “Secretary of State” substitute “ Commission ”.
+
+(4) In subsection (5)—
+
+(a) for “Secretary of State” substitute “ Commission ”;
+
+(b) for “him” substitute “ it ”.
+
+(5) In subsection (7), for “Secretary of State's” substitute “ Commission's ”.
+
+(6) In subsection (8), for “Secretary of State” substitute “ Commission ”.
+
+(7) In subsection (9)—
+
+(a) for “Secretary of State” substitute “ Commission ”;
+
+(b) for “he” substitute “ it ”.
+
+(8) In subsection (10), for “Secretary of State” substitute “ Commission ”.
+
+(9) In subsection (11), for “he” (in the second place where it occurs) substitute “ the Commission ”.
+
+(10) In subsection (12), for “Secretary of State's” substitute “ Commission's ”.
+
+**5** (1) Section 7 (right of child in Scotland to apply for calculation) is amended as follows.
+
+(2) In subsections (1) and (2), for “Secretary of State” substitute “ Commission ”.
+
+(3) In subsection (3)—
+
+(a) for “Secretary of State” substitute “ Commission ”;
+
+(b) for “him” substitute “ it ”.
+
+(4) In subsection (4)—
+
+(a) for “Secretary of State” (in both places where it occurs) substitute “ Commission ”;
+
+(b) for “he” substitute “ it ”.
+
+(5) In subsection (5), for “Secretary of State” (in the first and third places where it occurs) substitute “ Commission ”.
+
+(6) In subsections (6) and (7), for “Secretary of State” substitute “ Commission ”.
+
+(7) In subsection (8)(b), for “Secretary of State” substitute “ Commission ”.
+
+**6** In section 8 (role of the courts with respect to maintenance for children), in subsections (1) and (2), for “Secretary of State” substitute “ Commission ”.
+
+**7** (1) Section 10 (relationship between maintenance calculations and certain court orders etc.) is amended as follows.
+
+(2) In subsection (4)—
+
+(a) for “Secretary of State” (in the second and third places where it occurs) substitute “ Commission ”;
+
+(b) for “he” substitute “ it ”.
+
+(3) In subsection (5), for “Secretary of State” substitute “ Commission ”.
+
+**8** (1) Section 11 (maintenance calculations) is amended as follows.
+
+(2) In subsection (1)—
+
+(a) for “Secretary of State ”substitute “ Commission ”;
+
+(b) for “him” substitute “ it ”.
+
+(3) In subsection (2)—
+
+(a) for “Secretary of State” substitute “ Commission ”;
+
+(b) for “he” substitute “ it ”.
+
+(4) In subsection (3)—
+
+(a) for “Secretary of State” substitute “ Commission ”;
+
+(b) for “he” substitute “ the Commission ”.
+
+(5) In subsection (4)—
+
+(a) for “Secretary of State” substitute “ Commission ”;
+
+(b) for “he” substitute “ the Commission ”;
+
+(c) for “him” substitute “ the Commission ”.
+
+(6) In subsection (5)—
+
+(a) for “Secretary of State” substitute “ Commission ”;
+
+(b) for “him” substitute “ the Commission ”.
+
+(7) In subsection (7)—
+
+(a) for “Secretary of State” substitute “ Commission ”;
+
+(b) for “he” substitute “ it ”.
+
+**9** (1) Section 12 (default and interim maintenance decisions) is amended as follows.
+
+(2) In subsection (1)—
+
+(a) for “Secretary of State” substitute “ Commission ”;
+
+(b) for “him”, in the first place where it occurs, substitute “ the Commission ” and, in the second place where it occurs, substitute “ it ”;
+
+(c) for “he” (in both places where it occurs) substitute “ it ”.
+
+(3) In subsection (2), for “Secretary of State” substitute “ Commission ”.
+
+**10** (1) Section 14 (information required by Secretary of State) is amended as follows.
+
+(2) In the title, for “Secretary of State” substitute “ Commission ”.
+
+(3) In subsection (3), for “him” (in both places where it occurs) substitute “ the Commission ”.
+
+(4) In subsection (4), for “Secretary of State” substitute “ Commission ”.
+
+**11** (1) Section 15 (powers of inspectors) is amended as follows.
+
+(2) In subsection (1)—
+
+(a) for “Secretary of State” substitute “ Commission ”;
+
+(b) for “he” substitute “ it ”.
+
+(3) In subsection (2), for “Secretary of State” substitute “ Commission ”.
+
+**12** In section 16 (revision of decisions)—
+
+(a) for “Secretary of State” (in each place where it occurs) substitute “ Commission ”;
+
+(b) for “his” (in each place where it occurs) substitute “ its ”;
+
+(c) for “he” (in each place where it occurs) substitute “ it ”;
+
+(d) for “him” substitute “ it ”.
+
+**13** In section 17 (decisions superseding earlier decisions)—
+
+(a) for “Secretary of State” (in each place where it occurs) substitute “ Commission ”;
+
+(b) for “his” (in each place where it occurs) substitute “ its ”;
+
+(c) for “him” substitute “ it ”.
+
+**14** (1) Section 20 (appeals to appeal tribunals) is amended as follows.
+
+(2) In subsections (1)(a) and (b), (2)(a)(i), (7)(b) and (8)(b), for “Secretary of State” substitute “ Commission ”.
+
+**15** In section 23A (redetermination of appeals), in subsection (4), before paragraph (a) insert—
+
+> (za) the Commission;
+
+.
+
+**16** (1) Section 24 (appeal to Child Support Commissioner) is amended as follows.
+
+(2) For subsection (1) substitute —
+
+> (1) Each of the following may appeal to a Child Support Commissioner on a question of law—
+>
+> (a) the Commission,
+>
+> (b) the Secretary of State, and
+>
+> (c) any person who is aggrieved by the decision of an appeal tribunal.
+
+(3) [^F94]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) [^F94]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) [^F94]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**17** [^F95]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**18** In section 26 (disputes about parentage), for “Secretary of State” (in each place where it occurs) substitute “ Commission ”.
+
+**19** In section 27 (applications for declaration of parentage) for “Secretary of State” (in each place where it occurs) substitute “ Commission ”.
+
+**20** In section 27A (recovery of fees for scientific tests)—
+
+(a) for “Secretary of State” (in each place where it occurs) substitute “ Commission ”;
+
+(b) for “him” (in each place where it occurs) substitute “ it ”.
+
+**21** In section 28 (power to initiate or defend actions of declarator), for “Secretary of State” (in each place where it occurs, including the title) substitute “ Commission ”.
+
+**22** In section 28ZA (decisions involving issues that arise on appeal in other cases)—
+
+(a) for “Secretary of State” (in each place where it occurs) substitute “ Commission ”;
+
+(b) for “he” (in each place where it occurs) substitute “ it ”;
+
+(c) for “his” substitute “ its ”.
+
+**23** In section 28ZB (appeals involving issues that arise on appeal in other cases)—
+
+(a) for “Secretary of State” (in each place where it occurs) substitute “ Commission ”;
+
+(b) for “he” (in both places where it occurs) substitute “ the Commission ”;
+
+(c) for “him” substitute “ the Commission ”;
+
+(d) for “his” substitute “ its ”.
+
+**24** In section 28ZC (restrictions on liability in certain cases of error), for “Secretary of State” (in each place where it occurs) substitute “ Commission ”.
+
+**25** In section 28A (application for variation of usual rules for calculating maintenance), for “Secretary of State” (in each place where it occurs) substitute “ Commission ”.
+
+**26** (1) Section 28B (preliminary consideration of applications) is amended as follows.
+
+(2) In subsection (1)—
+
+(a) for “Secretary of State” substitute “ Commission ”;
+
+(b) for “he” substitute “ it ”.
+
+(3) In subsection (2)—
+
+(a) for “he” (in the first place where it occurs) substitute “ the Commission ”;
+
+(b) for “he” (in each other place where it occurs) substitute “ it ”;
+
+(c) for “his” (in both places where it occurs) substitute “ its ”;
+
+(d) for “him” substitute “ the Commission ”.
+
+**27** In section 28C (imposition of regular payments condition), in subsections (1) and (3) to (7)—
+
+(a) for “Secretary of State” (in each place where it occurs) substitute “ Commission ”;
+
+(b) for “he” (in each place where it occurs) substitute “ it ”;
+
+(c) for “his” (in each place where it occurs) substitute “ its ”.
+
+**28** In section 28D (determination of applications)—
+
+(a) for “Secretary of State” (in each place where it occurs) substitute “ Commission ”;
+
+(b) for “he” substitute “ it ”.
+
+**29** In section 28E (matters to be taken into account)—
+
+(a) for “Secretary of State” (in each place where it occurs) substitute “ Commission ”;
+
+(b) for “him” substitute “ it ”.
+
+**30** In section 28F (agreement to variation)—
+
+(a) for “Secretary of State” (in each place where it occurs) substitute “ Commission ”;
+
+(b) for “he” (in each place where it occurs) substitute “ it ”;
+
+(c) for “his” (in each place where it occurs) substitute “ its ”.
+
+**31** In section 28J (voluntary payments), in subsections (1), (2) and (4)—
+
+(a) for “Secretary of State” (in each place where it occurs) substitute “ Commission ”;
+
+(b) for “he” (in each place where it occurs) substitute “ it ”.
+
+**32** (1) Section 29 (collection of child support maintenance) is amended as follows.
+
+(2) In subsection (1)—
+
+(a) for “Secretary of State” (in both places where it occurs) substitute “ Commission ”;
+
+(b) in paragraph (b), for “him” substitute “ it ”.
+
+(3) In subsection (3), for “Secretary of State” (in each place where it occurs) substitute “ Commission ”.
+
+**33** (1) Section 30 (collection and enforcement of other forms of maintenance) is amended as follows.
+
+(2) In subsections (1), (2) and (3)—
+
+(a) for “Secretary of State” (in each place where it occurs) substitute “ Commission ”;
+
+(b) for “he” (in each place where it occurs) substitute “ it ”.
+
+(3) In subsection (4)—
+
+(a) for “him” substitute “ the Commission ”;
+
+(b) for “he” (in the second place where it occurs) substitute “ it ”.
+
+(4) In subsection (5)—
+
+(a) for “him” (in both places where it occurs) substitute “ the Commission ”;
+
+(b) for “he” (in the first place where it occurs) substitute “ it ”.
+
+**34** In section 31 (deduction from earnings orders)—
+
+(a) for “Secretary of State” (in each place where it occurs) substitute “ Commission ”;
+
+(b) in subsection (6), for “he” substitute “ it ”.
+
+**35** In section 32 (regulations about deduction from earnings orders), in subsections (2) and (3), for “Secretary of State” (in each place where it occurs) substitute “ Commission ”.
+
+**36** In section 33 (liability orders), for “Secretary of State” (in each place where it occurs) substitute “ Commission ”.
+
+**37** In section 34 (regulations about liability orders), in subsections (1)(a) and (c) and (2), for “Secretary of State” substitute “ Commission ”.
+
+**38** (1) Section 35 (enforcement of liability orders by distress) is amended as follows.
+
+(2) In subsection (1), for “Secretary of State” substitute “ Commission ”.
+
+(3) In subsection (3)—
+
+(a) for “Secretary of State” substitute “ Commission ”;
+
+(b) for “his” substitute “ its ”.
+
+**39** In section 37 (regulations about liability orders), in subsection (2), for “Secretary of State” (in the second place where it occurs) substitute “ Commission ”.
+
+**40** In section 38 (enforcement of liability orders by diligence), subsection (1) is amended as follows—
+
+(a) in paragraph (a), for “Secretary of State” substitute “ Commission ”;
+
+(b) [^F96]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(c) [^F96]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**41** In section 39A (commitment to prison and disqualification from driving)—
+
+(a) for “Secretary of State” (in both places where it occurs) substitute “ Commission ”;
+
+(b) in subsections (1) and (4), for “he” substitute “ it ”.
+
+**42** (1) Section 40B (disqualification from driving) is amended as follows.
+
+(2) In subsections (5) to (8), for “Secretary of State” (in each place where it occurs) substitute “ Commission ”.
+
+(3) In subsection (9)—
+
+(a) for “Secretary of State” substitute “ Commission ”;
+
+(b) for “he” substitute “ it ”.
+
+**43** (1) Section 41 (arrears of child support maintenance) is amended as follows.
+
+(2) In subsection (1), for “Secretary of State” substitute “ Commission ”.
+
+(3) In subsection (2)—
+
+(a) for “Secretary of State” substitute “ Commission ”;
+
+(b) for “he” (in both places where it occurs) substitute “ it ”.
+
+(4) In subsection (6)—
+
+(a) for “Secretary of State” substitute “ Commission ”;
+
+(b) for “him” substitute “ it ”.
+
+**44** (1) Section 41A (penalty payments) is amended as follows.
+
+(2) In subsection (1), for “him” substitute “ the Commission ”.
+
+(3) In subsections (2) and (4), for “Secretary of State” substitute “ Commission ”.
+
+(4) In subsection (6)—
+
+(a) for “Secretary of State” substitute “ Commission ”;
+
+(b) for “he” substitute “ it ”.
+
+**45** (1) Section 41B (repayment of overpaid child support maintenance) is amended as follows.
+
+(2) In subsection (1), for “Secretary of State” substitute “ Commission ”.
+
+(3) In subsection (1A)—
+
+(a) for “Secretary of State” substitute “ Commission ”;
+
+(b) for “him” substitute “ it ”.
+
+(4) In subsection (2), for “Secretary of State” (in both places where it occurs) substitute “ Commission ”.
+
+(5) In subsection (3)—
+
+(a) for “Secretary of State” substitute “ Commission ”;
+
+(b) for “he” substitute “ it ”;
+
+(c) for “him” substitute “ it ”.
+
+(6) In subsections (4), (5) and (6)(a), for “Secretary of State” substitute “ Commission ”.
+
+(7) In subsection (9)—
+
+(a) for “Secretary of State” substitute “ Commission ”;
+
+(b) for “him” substitute “ it ”.
+
+**46** In section 44 (jurisdiction), in subsection (1), for “Secretary of State” substitute “ Commission ”.
+
+**47** In section 46 (reduced benefit decisions), in subsection (3)(a), for “Secretary of State” substitute “ Commission ”.
+
+**48** In section 46A (finality of decisions), in subsection (1), after “decision of” insert “ the Commission, ”.
+
+**49** In section 46B (matters arising as respects decisions), in subsection (1)(a), for “Secretary of State” substitute “ Commission ”.
+
+**50** In section 48 (right of audience), in subsection (1), for “Secretary of State” (in both places where it occurs) substitute “ Commission ”.
+
+**51** After section 50 insert—
+
+> **Use of computers**
+>
+> **50A** Any decision falling to be made under or by virtue of this Act by the Commission may be made, not only by a person authorised to exercise the Commission's decision-making function, but also by a computer for whose operation such a person is responsible.
+
+**52** (1) Schedule 1 (maintenance calculations) is amended as follows.
+
+(2) In paragraph 7(3), for “Secretary of State” substitute “ Commission ”.
+
+(3) In paragraph 10(2)—
+
+(a) for “Secretary of State” substitute “ Commission ”;
+
+(b) for “his” substitute “ its ”.
+
+(4) In paragraph 10B(a), for “Secretary of State” (in both places where it occurs) substitute “ Commission ”.
+
+(5) In paragraphs 12 and 13, for “Secretary of State” substitute “ Commission ”.
+
+(6) In paragraph 15—
+
+(a) for “Secretary of State” substitute “ Commission ”;
+
+(b) for “he” substitute “ it ”.
+
+(7) In paragraph 16(10), for “Secretary of State” (in both places where it occurs) substitute “ Commission ”.
+
+**53** In paragraph 4 of Schedule 4A, for “Secretary of State” (in both places where it occurs) substitute “ Commission ”.
+
+#### Social Security Act 1998 (c. 14)
+
+**54** [^F97]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Part 2 — Transitional provision and savings
+
+**55** [^F98]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 4 — Changes to the calculation of maintenance
+
+*Section 16*
+
+### Introductory
+
+**1** Part 1 of Schedule 1 to the Child Support Act 1991 (c. 48) (calculation of weekly amount of child support maintenance) is amended as follows.
+
+### Calculation by reference to gross weekly income
+
+**2** In Part 1 (under which the weekly amount of child support maintenance payable is calculated by reference to the non-resident parent's net weekly income), for “net”, in each place where it occurs, substitute “ gross ”.
+
+### Change to basic rate
+
+**3** For paragraph 2 (basic rate) substitute—
+
+> **2** (1) Subject to sub-paragraph (2), the basic rate is the following percentage of the non-resident parent's gross weekly income—
+>
+> - 12% where the non-resident parent has one qualifying child;
+> - 16% where the non-resident parent has two qualifying children;
+> - 19% where the non-resident parent has three or more qualifying children.
+>
+> (2) If the gross weekly income of the non-resident parent exceeds £800, the basic rate is the aggregate of the amount found by applying sub-paragraph (1) in relation to the first £800 of that income and the following percentage of the remainder—
+>
+> - 9% where the non-resident parent has one qualifying child;
+> - 12% where the non-resident parent has two qualifying children;
+> - 15% where the non-resident parent has three or more qualifying children.
+>
+> (3) If the non-resident parent also has one or more relevant other children, gross weekly income shall be treated for the purposes of sub-paragraphs (1) and (2) as reduced by the following percentage—
+>
+> - 12% where the non-resident parent has one relevant other child;
+> - 16% where the non-resident parent has two relevant other children;
+> - 19% where the non-resident parent has three or more relevant other children.
+
+### Increase in flat rate and minimum amounts of liability
+
+**4** In the following provisions, for “£5” substitute “ £7 ”
+
+(a) paragraph 3(3) (minimum amount of liability in the case of reduced rate);
+
+(b) paragraph 4(1) (amount of flat rate of liability);
+
+(c) paragraph 7(7) (minimum amount of liability in the case of basic and reduced rates where reduction because of shared care applies).
+
+### Applicable rate where non-resident parent party to other maintenance arrangement
+
+**5** (1) In paragraph 1(1) (under which the weekly rate of child support maintenance is the basic rate unless a reduced rate, a flat rate or a nil rate applies), at the beginning insert “ Subject to paragraph 5A, ”.
+
+(2) After paragraph 5 insert—
+
+> **Non-resident parent party to other maintenance arrangement**
+>
+> **5A** (1) This paragraph applies where—
+>
+> (a) the non-resident parent is a party to a qualifying maintenance arrangement with respect to a child of his who is not a qualifying child, and
+>
+> (b) the weekly rate of child support maintenance apart from this paragraph would be the basic rate or a reduced rate or calculated following agreement to a variation where the rate would otherwise be a flat rate or the nil rate.
+>
+> (2) The weekly rate of child support maintenance is the greater of £7 and the amount found as follows.
+>
+> (3) First, calculate the amount which would be payable if the non-resident parent's qualifying children also included every child with respect to whom the non-resident parent is a party to a qualifying maintenance arrangement.
+>
+> (4) Second, divide the amount so calculated by the number of children taken into account for the purposes of the calculation.
+>
+> (5) Third, multiply the amount so found by the number of children who, for purposes other than the calculation under sub-paragraph (3), are qualifying children of the non-resident parent.
+>
+> (6) For the purposes of this paragraph, the non-resident parent is a party to a qualifying maintenance arrangement with respect to a child if the non-resident parent is—
+>
+> (a) liable to pay maintenance or aliment for the child under a maintenance order, or
+>
+> (b) a party to an agreement of a prescribed description which provides for the non-resident parent to make payments for the benefit of the child,
+>
+> and the child is habitually resident in the United Kingdom.
+
+### Shared care
+
+**6** In paragraph 7(2) (circumstances in which decrease for shared care applies in cases where child support maintenance is payable at the basic rate or a reduced rate), for “If the care of a qualifying child is shared” substitute “ If the care of a qualifying child is, or is to be, shared ”.
+
+**7** In paragraph 8(2) (circumstances in which decrease for shared care applies in cases where child support maintenance payable at a flat rate), for “If the care of a qualifying child is shared” substitute “ If the care of a qualifying child is, or is to be, shared ”.
+
+**8** (1) In paragraph 9 (regulations about shared care), the existing provision becomes sub-paragraph (1).
+
+(2) In that sub-paragraph, before paragraph (a) insert—
+
+> (za) for how it is to be determined whether the care of a qualifying child is to be shared as mentioned in paragraph 7(2);
+
+.
+
+(3) In that sub-paragraph, after paragraph (b) insert—
+
+> (ba) for how it is to be determined how many nights count for those purposes;
+
+.
+
+(4) After that sub-paragraph insert—
+
+> (2) Regulations under sub-paragraph (1)(ba) may include provision enabling the [[^F99]Secretary of State] to proceed for a prescribed period on the basis of a prescribed assumption.
+
+### Weekly income
+
+**9** In paragraph 10 (which confers power to make regulations about the manner in which weekly income is to be determined), for sub-paragraph (2) substitute—
+
+> (2) The regulations may, in particular—
+>
+> (a) provide for determination in prescribed circumstances by reference to income of a prescribed description in a prescribed past period;
+>
+> (b) provide for the [[^F100]Secretary of State] to estimate any income or make an assumption as to any fact where, in [[^F101]Secretary of State's] view, the information at [[^F101]Secretary of State's] disposal is unreliable or insufficient, or relates to an atypical period in the life of the non-resident parent.
+
+**10** In paragraph 10(3) (under which weekly income over £2,000 is to be ignored for the purposes of Schedule 1), for “£2,000” substitute “ £3,000 ”.
+
+## SCHEDULE 5 — Maintenance calculations: transfer of cases to new rules
+
+*Section 19*
+
+### Power to require a decision about whether to stay in the statutory scheme
+
+**1** (1) The [[^F102]Secretary of State] may require the interested parties in relation to an existing case to choose whether or not to stay in the statutory scheme, so far as future accrual of liability is concerned.
+
+(2) The reference in sub-paragraph (1) to an existing case is to any of the following—
+
+(a) a maintenance assessment,
+
+(b) an application for a maintenance assessment,
+
+(c) a maintenance calculation made under existing rules, and
+
+(d) an application for a maintenance calculation which will fall to be made under existing rules.
+
+(3) For the purposes of this paragraph, a maintenance calculation is made (or will fall to be made) under existing rules if the amount of the periodical payments required to be paid in accordance with it is (or will be) determined otherwise than in accordance with Part 1 of Schedule 1 to the Child Support Act 1991 (c. 48) as amended by this Act.
+
+**2** (1) The Secretary of State may by regulations make provision about the exercise of the power under paragraph 1(1).
+
+(2) Regulations under sub-paragraph (1) may, in particular—
+
+(a) make provision about timing in relation to exercise of the power;
+
+(b) make provision for exercise of the power in stages;
+
+(c) specify principles for determining the order in which particular cases are to be dealt with under the power;
+
+(d) make provision about procedure in relation to exercise of the power;
+
+(e) make provision for exercise of the power in accordance with a scheme prepared by the [[^F103]Secretary of State][^F104]. . . .
+
+**3** (1) The Secretary of State shall by regulations make such provision as he thinks fit about exercise of the right to make a choice required under paragraph 1(1).
+
+(2) Regulations under sub-paragraph (1) shall, in particular—
+
+(a) make provision about the time within which the choice must be made;
+
+(b) make provision for a choice to stay in the statutory scheme to be made by means of an application to the [[^F105]Secretary of State] for a maintenance calculation;
+
+(c) make provision about the form and content of any application required by provision under paragraph (b).
+
+[[^F106](3) The Commission may before accepting an application required by provision under sub-paragraph (2)(b) invite the applicant to consider with the Commission whether it is possible to make a maintenance agreement (within the meaning of section 9 of the Child Support Act 1991).]
+
+**4** If, in a particular case, any of the interested parties chooses not to stay in the statutory scheme, that person's choice shall be disregarded if any of the other interested parties chooses to stay in the statutory scheme.
+
+### Effect on accrual of liability of exercise of power under paragraph 1
+
+**5** (1) Where the power under paragraph 1(1) is exercised in relation to a maintenance assessment or maintenance calculation, liability under the assessment or calculation shall cease to accrue with effect from such date as may be determined in accordance with regulations made by the Secretary of State.
+
+(2) Where the power under paragraph 1(1) is exercised in relation to an application for a maintenance assessment or maintenance calculation, liability under any assessment or calculation made in response to the application shall accrue only in respect of the period ending with such date as may be determined in accordance with regulations made by the Secretary of State.
+
+### Additional powers
+
+**6** (1) The Secretary of State may by regulations make such provision as appears to the Secretary of State to be necessary or expedient for the purposes of, or in connection with, giving effect to a decision not to leave the statutory scheme.
+
+(2) Regulations under sub-paragraph (1) may, in particular—
+
+(a) make provision about procedure in relation to determination of an application made in pursuance of regulations under paragraph 3;
+
+(b) make provision about the application of the Child Support Act 1991 (c. 48) in relation to a maintenance calculation made in response to such an application;
+
+(c) prescribe circumstances in which liability under such a maintenance calculation is to be subject to a prescribed adjustment.
+
+(3) The Secretary of State may by regulations make provision enabling the [[^F107]Secretary of State] to treat an application of the kind mentioned in paragraph 1(2)(b) or (d) as withdrawn if none of the interested parties chooses to stay in the statutory scheme.
+
+### Interpretation
+
+**7** In this Schedule—
+
+- “interested parties” has such meaning as may be prescribed;
+- “maintenance assessment” means an assessment of maintenance made under the Child Support Act 1991;
+- “maintenance calculation” means a calculation of maintenance made under that Act;
+- “prescribed” means prescribed by regulations made by the Secretary of State;
+- “statutory scheme” means the scheme for child support maintenance under that Act.
+
+## [^F108][^F108]SCHEDULE 6
+
+### Powers in relation to use of information
+
+#### . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**1** [^F109]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**2** [^F110]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**3** [^F111]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**4** [^F112]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**5** [^F113]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Interpretation
+
+#### . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**6** [^F114]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 7 — Minor and consequential amendments
+
+*Section 57*
+
+### Child Support Act 1991 (c. 48)
+
+**1** (1) The Child Support Act 1991 is amended as follows.
+
+(2) In section 8 (role of the courts with respect to maintenance for children), in subsection (6)(b) (which refers to the non-resident parent's net weekly income), for “net” substitute “ gross ”.
+
+[^F115]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F115]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F115]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F115]6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7) In section 30 (collection and enforcement of other forms of maintenance), in subsections (4) and (5) for “which he is authorised to collect under this section” substitute “ for the collection of which he is authorised under this section to make arrangements ”.
+
+(8) In section 32(2)(i) (regulations about deduction from earnings orders), for “the liable person is in the employment” substitute “ any earnings are paid to the liable person by or on behalf ”.
+
+(9) In section 32(7) (regulations about appeals), after “include” insert
+
+> —
+>
+> (a) provision with respect to the period within which a right of appeal under the regulations may be exercised;
+>
+> (b)
+
+.
+
+(10) In section 36(1) (enforcement in county courts), for “garnishee proceedings” substitute “ a third party debt order ”.
+
+(11) For section 39 substitute—
+
+> **Enforcement in Great Britain of Northern Ireland liability orders**
+>
+> **39** The Secretary of State may by regulations make provision for the enforcement in England and Wales and Scotland of any order made in Northern Ireland under provision corresponding to section 32M or the repealed section 33.
+
+(12) In section 40 (commitment to prison), in subsection (4)(a)(i) of that section, for “mentioned in section 35(1)” substitute “ sought to be recovered as mentioned in subsection (2A)(a) ”.
+
+(13) In section 40A (commitment to prison: Scotland)—
+
+(a) in subsection (1), for “satisfied” substitute “ of the opinion ”;
+
+(b) for subsection (2)(a)(i) substitute—
+
+> (i) the amount sought to be recovered as mentioned in subsection (A1)(a), or so much of it as remains outstanding;
+
+.
+
+(14) In that section, in subsection (6), the words from “for” to the end become paragraph (a), and after that paragraph insert—
+
+> (b) that a statement in writing to the effect that wages of any amount have been paid to the liable person during any period, purporting to be signed by or on behalf of the liable person's employer, shall be sufficient evidence of the facts stated.
+
+(15) In section 40B (disqualification for driving), in subsection (3)—
+
+(a) in paragraph (a), for “mentioned in section 35(1)” substitute “ sought to be recovered as mentioned in subsection (A1)(a) ”;
+
+(b) in paragraph (b), for “section 39A” substitute “ this section ”.
+
+(16) In subsection (7) of that section, for “section 39A” substitute “ this section ”.
+
+(17) In subsection (12) of that section (modifications for Scotland), for the subsection (11) substituted by paragraph (d) substitute—
+
+> (11) In relation to disqualification orders—
+>
+> (a) the Secretary of State may by regulations make provision that a statement in writing to the effect that wages of any amount have been paid to the liable person during any period, purporting to be signed by or on behalf of the liable person's employer, shall be sufficient evidence of the facts stated; and
+>
+> (b) the power of the Court of Session by Act of Sederunt to regulate the procedure and practice in civil proceedings in the sheriff court shall include power to make provision corresponding to that which may be made by virtue of section 40A(8).
+
+(18) At the end of that section, insert—
+
+> (13) In this section—
+>
+> - “court” (except for the purposes of subsection (8)(c)) means—
+>
+>   - (a) in England and Wales, a magistrates' court;
+>   - (b) in Scotland, the sheriff;
+>
+> - “driving licence” means a licence to drive a motor vehicle granted under Part 3 of the Road Traffic Act 1988.
+
+(19) In section 50 (unauthorised disclosure of information), in subsection (1) (offence of unauthorised disclosure), for “this section” substitute “ this subsection ”.
+
+(20) In that section, after subsection (1) insert—
+
+> (1A) Subsection (1) applies to employment as—
+>
+> (a) any clerk to, or other officer of, an appeal tribunal;
+>
+> (b) any member of the staff of an appeal tribunal;
+>
+> (c) a civil servant in connection with the carrying out of any functions under this Act;
+>
+> (d) any member of, or of the staff of, the Commission;
+>
+> (e) any person who provides, or is employed in the provision of, services to the Commission,
+>
+> and to employment of any other kind which is prescribed for the purposes of this subsection.
+>
+> (1B) Any person who is, or has been, employed in employment to which this subsection applies is guilty of an offence if, without lawful authority, he discloses any information which—
+>
+> (a) was acquired by him in the course of that employment;
+>
+> (b) is information which is, or is derived from, information acquired or held for the purposes of this Act; and
+>
+> (c) relates to a particular person.
+>
+> (1C) Subsection (1B) applies to any employment which—
+>
+> (a) is not employment to which subsection (1) applies, and
+>
+> (b) is of a kind prescribed for the purposes of this subsection.
+
+(21) In that section, in subsection (7) (definition of “responsible person”)—
+
+(a) at the end of paragraph (b) insert—
+
+> (ba) the person appointed to chair the Commission;
+
+;
+
+(b) for paragraph (c) substitute—
+
+> (c) any person authorised for the purposes of this subsection by the Lord Chancellor, the Secretary of State or the person appointed to chair the Commission;
+
+.
+
+(22) In section 52 (regulations and orders), in subsection (2)(a) (regulations subject to affirmative resolution procedure)—
+
+(a) after “30(5A),” insert “ “32A to 32C, 32E to 32J, ”;
+
+(b) after “41B(6),” insert “ “41E(1)(a), ”.
+
+(23) In that section, for subsection (2A) substitute—
+
+> (2A) No statutory instrument containing (whether alone or with other provisions)—
+>
+> (a) the first regulations under section 17(2) to make provision of the kind mentioned in section 17(3)(a) or (b),
+>
+> (b) the first regulations under section 39F, 39M(4), 39P, 39Q, 41D(2), 41E(2) or 49A,
+>
+> (c) the first regulations under paragraph 5A(6)(b) of Schedule 1,
+>
+> (d) the first regulations under paragraph 9(1)(ba) of Schedule 1 to make provision of the kind mentioned in sub-paragraph (2) of that paragraph, or
+>
+> (e) the first regulations under paragraph 10(1) of Schedule 1 to make provision of the kind mentioned in sub-paragraph (2)(a) or (b) of that paragraph,
+>
+> shall be made unless a draft of the instrument has been laid before Parliament and approved by a resolution of each House of Parliament.
+
+(24) After that subsection insert—
+
+> (2B) No statutory instrument containing (whether alone or with other provisions) regulations which by virtue of section 51A are to have effect for a limited period shall be made unless a draft of the instrument has been laid before Parliament and approved by a resolution of each House of Parliament.
+
+(25) In section 54 (interpretation), the existing provision becomes subsection (1), and in that subsection—
+
+(a) at the appropriate places insert—
+
+> “charging order” has the same meaning as in section 1 of the Charging Orders Act 1979;
+
+;
+
+> “Commission” means the Child Maintenance and Enforcement Commission;
+
+;
+
+> “curfew order” has the meaning given in section 39H(1);
+
+;
+
+> “deposit-taker” means a person who, in the course of a business, may lawfully accept deposits in the United Kingdom;
+
+;
+
+(b) in the definition of “liability order”, for “section 33(2)” substitute “ section 32M(2) ”.
+
+(26) In that section, after subsection (1) insert—
+
+> (2) The definition of “deposit-taker” in subsection (1) is to be read with—
+>
+> (a) section 22 of the Financial Services and Markets Act 2000;
+>
+> (b) any relevant order under that section; and
+>
+> (c) Schedule 2 to that Act.
+
+(27) In section 57(4) (application to Crown), for “a liable person is in the employment” substitute “ any sums which are defined as earnings for the purposes of sections 31 and 32 are paid to a liable person by or on behalf ”.
+
+(28) In Schedule 1 (maintenance calculations), in paragraph 5(b) (weekly rate of child support maintenance to be nil if the non-resident parent has a weekly income below £5), for “£5” substitute “ £7 ”.
+
+(29) In that Schedule, in paragraph 7 (reduction of basic and reduced rates for shared care), for sub-paragraph (1) substitute—
+
+> (1) This paragraph applies where the rate of child support maintenance payable is the basic rate or a reduced rate or is determined under paragraph 5A.
+
+(30) In that Schedule, in paragraph 10A(1)(b) (regulations about amounts set out in Schedule 1)—
+
+(a) after “paragraph” insert “ “2(2), ”;
+
+(b) after “5,” insert “ “5A(2), ”.
+
+(31) In that Schedule, in paragraph 10C(1) (references to “qualifying children” to be read as references to those qualifying children with respect to whom the maintenance calculation falls to be made), at end insert “ “or with respect to whom a maintenance calculation in respect of the non-resident parent has effect ”.
+
+(32) In that Schedule, for paragraph 14 substitute—
+
+> **14** The Secretary of State may by regulations provide—
+>
+> (a) for two or more applications for maintenance calculations to be treated, in prescribed circumstances, as a single application; and
+>
+> (b) for the replacement, in prescribed circumstances, of a maintenance calculation made on the application of one person by a later maintenance calculation made on the application of that or any other person.
+
+(33) Schedule 2 (provision of information to Secretary of State) ceases to have effect.
+
+(34) In the Act as it has effect apart from the Child Support, Pensions and Social Security Act 2000 (c. 19), the following (which relate to section 6 or 46) are repealed—
+
+(a) sections 11(1A) to (1C), 41(4)(c) and (d) and 41A(5)(c) and (d);
+
+(b) paragraph 16(3) and (4A)(b) of Schedule 1;
+
+(c) in Schedule 4C—
+
+(i) in paragraphs 1(a) and 2(1)(a), the words “, a reduced benefit direction”;
+
+(ii) in paragraph 3, in sub-paragraph (1)(b), sub-paragraph (i) and the word “or” at the end of it, and sub-paragraph (3);
+
+(iii) in paragraphs 4(1)(a)(i) and 6(1)(b)(ii) and (iii), the words “, a reduced benefit direction”.
+
+### Social Security Administration Act 1992 (c. 5)
+
+**2** (1) The Social Security Administration Act 1992 is amended as follows.
+
+(2) In section 108 (certain maintenance orders to be enforceable by the Secretary of State), for subsection (8) substitute—
+
+> (8) In this section “maintenance order”—
+>
+> (a) in England and Wales, means—
+>
+> (i) any order for the making of periodical payments which is, or has at any time been, a maintenance order within the meaning of the Attachment of Earnings Act 1971;
+>
+> (ii) any order under Part 3 of the Matrimonial and Family Proceedings Act 1984 (overseas divorce) for the making of periodical payments;
+>
+> (iii) any order under Schedule 7 to the Civil Partnership Act 2004 for the making of periodical payments;
+>
+> (b) in Scotland, means any order, except an order for the payment of a lump sum, falling within the definition of “maintenance order” in section 106 of the Debtors (Scotland) Act 1987, but disregarding paragraph (h) (alimentary bond or agreement).
+
+(3) In section 121E (supply of information held by Revenue and Customs to the Secretary of State or the Northern Ireland Department for use for the purposes of functions relating, inter alia, to child support), for subsection (2) substitute—
+
+> (2) Information to which this section applies may, and subject to subsection (2A), must if an authorised officer so requires, be supplied—
+>
+> (a) to the Secretary of State, or
+>
+> (b) to a person providing services to the Secretary of State,
+>
+> for use for the purposes of functions relating to social security, war pensions or employment or training.
+>
+> (2ZA) Information to which this section applies may, and subject to subsection (2A), must if an authorised officer so requires, be supplied—
+>
+> (a) to the Northern Ireland Department, or
+>
+> (b) to a person providing services to that Department,
+>
+> for use for the purposes of functions relating to social security, child support, war pensions or employment or training.
+
+(4) [^F116]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) In section 121F (supply to Revenue and Customs of information held by Secretary of State or Northern Ireland Department, including information held for the purposes of functions relating to child support), for subsection (1) substitute—
+
+> (1) This section applies to information which is held for the purposes of functions relating to social security, war pensions or employment or training—
+>
+> (a) by the Secretary of State, or
+>
+> (b) by a person providing services to the Secretary of State, in connection with the provision of those services.
+>
+> (1A) This section also applies to information which is held for the purposes of functions relating to social security, child support, war pensions or employment or training—
+>
+> (a) by the Northern Ireland Department, or
+>
+> (b) by a person providing services to that Department, in connection with the provision of those services.
+
+(6) [^F117]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Social Security Act 1998 (c. 14)
+
+**3** (1) The Social Security Act 1998 is amended as follows.
+
+(2) In section 3 (use of information held by the Secretary of State or the Northern Ireland Department which relates to certain matters), in subsection (1A) (which lists the matters concerned)—
+
+(a) in paragraph (a), the words “, child support” are omitted;
+
+(b) after that paragraph insert—
+
+> (aa) child support in Northern Ireland;
+
+.
+
+(3) [^F118]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Tax Credits Act 2002 (c. 21)
+
+**4** (1) Schedule 5 to the Tax Credits Act 2002 (use and disclosure of information) is amended as follows.
+
+(2) In paragraph 4 (supply of information held by Revenue and Customs to the Secretary of State or the Northern Ireland Department for use for the purposes of functions relating, inter alia, to child support), for sub-paragraphs (2) and (3) substitute—
+
+> (2) Information to which this paragraph applies may be supplied—
+>
+> (a) to the Secretary of State, or
+>
+> (b) to a person providing services to the Secretary of State,
+>
+> for use for the purposes of functions relating to social security or war pensions or for such purposes relating to evaluation or statistical studies as may be prescribed.
+>
+> (3) An authorised officer may require information to which this paragraph applies to be supplied—
+>
+> (a) to the Secretary of State, or
+>
+> (b) to a person providing services to the Secretary of State,
+>
+> for use for the purposes of functions relating to social security.
+>
+> (3A) Information to which this paragraph applies may be supplied—
+>
+> (a) to the Northern Ireland Department, or
+>
+> (b) to a person providing services to the Northern Ireland Department,
+>
+> for use for the purposes of functions relating to social security, child support or war pensions or for such purposes relating to evaluation or statistical studies as may be prescribed.
+>
+> (3B) An authorised officer may require information to which this paragraph applies to be supplied—
+>
+> (a) to the Northern Ireland Department, or
+>
+> (b) to a person providing services to the Northern Ireland Department,
+>
+> for use for the purposes of functions relating to social security or child support.
+
+(3) In that paragraph, in sub-paragraph (4) (definition of “authorised officer”), for “sub-paragraph (3)” substitute “ sub-paragraphs (3) and (3B) ”.
+
+(4) In paragraph 6 (supply to Revenue and Customs of information held by Secretary of State or Northern Ireland Department for the purposes of functions including child support), for sub-paragraph (1) substitute—
+
+> (1) This paragraph applies to information which is held for the purposes of functions relating to social security, war pensions or employment or training—
+>
+> (a) by the Secretary of State, or
+>
+> (b) by a person providing services to the Secretary of State, in connection with the provision of those services.
+>
+> (1A) This paragraph also applies to information which is held for the purposes of functions relating to social security, child support, war pensions or employment or training—
+>
+> (a) by the Northern Ireland Department or the Department for Employment and Learning in Northern Ireland, or
+>
+> (b) by a person providing services to either of those Departments, in connection with the provision of those services.
+
+### Debt Arrangement and Attachment (Scotland) Act 2002 (asp 17) (prospective)
+
+**5** In section 10(5) of the Debt Arrangement and Attachment (Scotland) Act 2002 (which defines certain terms used in section 10), in the definition of “decree”, in paragraph (i), for “section 33(2)” substitute “ section 32M(2) ”.
+
+### Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3) (prospective)
+
+**6** In section 221 of the Bankruptcy and Diligence etc. (Scotland) Act 2007 (interpretation), in the definition of “decree”, in paragraph (i), for “section 33(2)” substitute “ section 32M(2) ”.
+
+## SCHEDULE 8 — Repeals
+
+*Section 58*
+
+|  |  |
+|---|---|
+| *Short title and chapter* | *Extent of repeal* |
+| Debtors (Scotland) Act 1987 (c. 18) | Section 1(5)(cc). |
+| Child Support Act 1991 (c. 48) | In section 4—<br>- (a) subsections (9) and (11);<br>- (b) in subsection (10), paragraph (b) and the word “or” immediately before it. Section 6. In section 7(1), paragraph (b) and the word “or” immediately before it. In section 8(1), the words “(or treated as made)”. In section 9(6), paragraphs (a) and (b) and the word “and” immediately preceding them. Section 11(3) to (5). In section 12(2), the words from “(or” to “made)”. In section 14(1), the words “or treated as made” and “(or application treated as made)”. Sections 16(1A)(b), 17(1)(c) and 20(1)(c), (2)(b) and (6). Section 20(1)(e). In section 26(1), the words “or treated as made”. In section 27(1)(a), the words “(or is treated as having been made)” and “or treated as made”. In section 27A(1)—<br>- (a) in paragraph (a), the words “or treated as made”;<br>- (b) in paragraph (b), the words “or, as the case may be, treated as made”. In section 28(1)(a), the words “or treated as made”, in both places. In section 28ZA(1)(a), the words from “or with” to “section 46”. In section 28ZC—<br>- (a) in subsection (1)(b)(i), the words from “or one” to “benefit”;<br>- (b) in subsection (3), the words “or the reduction of a person's benefit”. In section 28A—<br>- (a) in subsection (1), the words “, or treated as made under section 6,”;<br>- (b) in subsection (3), the words from “(or” to “section 6)”. In section 28F(4)(a), the words from “(including” to “made)”. In section 28J(1)(a), the words from “, or is” to “section 6”. In section 29(1), paragraph (a) and the word “or” at the end of it. Section 32(2)(a). Sections 33 and 34. In section 36—<br>- (a) in subsection (1), the words “, if a county court so orders,”;<br>- (b) subsection (2). Sections 37, 39A, 40A(8)(c) and 40B(12)(b) and (c). In section 41(1)(a), the word “, 6”. Sections 46, 47 and 50(5). In section 52(2), the words “6(1),” and “, 46”. In Schedule 1, in paragraph 9(1)(a), the words from “or” to the end. Schedule 2. In Schedule 4A, paragraph 5(2). In Schedule 4B, in paragraph 2(3)—<br>- (a) in paragraphs (a), (d) and (e), the words “(or treated as made)”;<br>- (b) in paragraph (c), the words “(or treated as having been applied for)”. In Schedule 5, paragraph 8(2). |
+| Social Security Administration Act 1992 (c. 5) | Sections 106(7) and 107. In section 122(3), the word “or” at the end of paragraph (b). |
+| Child Support Act 1995 (c. 34) | In Schedule 3, paragraphs 9 and 10. |
+| Welfare Reform and Pensions Act 1999 (c. 30) | Section 80. |
+| Child Support, Pensions and Social Security Act 2000 (c. 19) | Sections 3, 16(1), 19 and 28. In Schedule 3, paragraph 11(3)(b), (4)(a), (5)(a), (6), (8), (9), (10)(a), (11)(a), (13)(a) and (d), (17) and (22)(b). |
+| Employment Act 2002 (c. 22) | In Schedule 6, paragraphs 11(a) and 13(a). |
+| Civil Partnership Act 2004 (c. 33) | In Schedule 24, paragraph 3. |
+| Welfare Reform Act 2007 (c. 5) | In Schedule 3, paragraph 7(2) to (5). |
+| Tribunals, Courts and Enforcement Act 2007 (c. 15) | In Schedule 13, paragraphs 96 and 97. |
+
+---
+
+[^F1]: Ss. 1-5 omitted (1.8.2012) by virtue of The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007), art. 3(2), Sch. para. 71
+[^F2]: Ss. 1-5 omitted (1.8.2012) by virtue of The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007), art. 3(2), Sch. para. 71
+[^F3]: Ss. 1-5 omitted (1.8.2012) by virtue of The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007), art. 3(2), Sch. para. 71
+[^F4]: Ss. 1-5 omitted (1.8.2012) by virtue of The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007), art. 3(2), Sch. para. 71
+[^F5]: Ss. 1-5 omitted (1.8.2012) by virtue of The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007), art. 3(2), Sch. para. 71
+[^F6]: Words in s. 6(1)(5) substituted (1.8.2012) by The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007), art. 3(2), Sch. para. 72(2)
+[^F7]: Words in s. 6(2)(d) inserted (25.11.2013) by Welfare Reform Act 2012 (c. 5), ss. 140(a), 150(3); S.I. 2013/2947, art. 6
+[^F8]: Word in s. 6(2)(g) repealed (25.11.2013) by Welfare Reform Act 2012 (c. 5), ss. 140(b), 150(3); S.I. 2013/2947, art. 6
+[^F9]: S. 6(2)(h) inserted (25.11.2013) by Welfare Reform Act 2012 (c. 5), ss. 140(c), 150(3); S.I. 2013/2947, art. 6
+[^F10]: S. 6(3A)-(3D) inserted (25.11.2013) by Welfare Reform Act 2012 (c. 5), ss. 141, 150(3); S.I. 2013/2947, art. 6
+[^F11]: Words in s. 6(5) substituted (3.11.2008) by The Transfer of Tribunal Functions Order 2008 (S.I. 2008/2833), art. 9(1), Sch. 3 para. 225(a)
+[^F12]: Words in s. 6(6) substituted (3.11.2008) by The Transfer of Tribunal Functions Order 2008 (S.I. 2008/2833), art. 9(1), Sch. 3 para. 225(b)
+[^F13]: Words in s. 6(7) substituted (1.8.2012) by The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007), art. 3(2), Sch. para. 72(3)
+[^F14]: Words in s. 6(7) substituted (1.8.2012) by The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007), art. 3(2), Sch. para. 72(3)
+[^F15]: S. 7 omitted (1.8.2012) by virtue of The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007), art. 3(2), Sch. para. 73
+[^F16]: Words in s. 8(1) substituted (1.8.2012) by The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007), art. 3(2), Sch. para. 74(2)(a)
+[^F17]: Words in s. 8(1) substituted (1.8.2012) by The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007), art. 3(2), Sch. para. 74(2)(b)
+[^F18]: Words in s. 8(3)(b)(c)(4)(5)(a)(6)(7) substituted (1.8.2012) by The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007), art. 3(2), Sch. para. 74(3)
+[^F19]: Ss. 9-12 omitted (1.8.2012) by virtue of The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007), art. 3(2), Sch. para. 75
+[^F20]: Ss. 9-12 omitted (1.8.2012) by virtue of The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007), art. 3(2), Sch. para. 75
+[^F21]: Ss. 9-12 omitted (1.8.2012) by virtue of The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007), art. 3(2), Sch. para. 75
+[^F22]: Ss. 9-12 omitted (1.8.2012) by virtue of The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007), art. 3(2), Sch. para. 75
+[^F23]: Ss. 13, 14, Sch. 2 omitted (1.8.2012) by virtue of The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007), art. 3(2), Sch. para. 76
+[^F24]: S. 13 omitted (1.8.2012) by virtue of The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007), art. 3(2), Sch. para. 76
+[^F25]: S. 14 omitted (1.8.2012) by virtue of The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007), art. 3(2), Sch. para. 76
+[^F26]: Words in s. 17 substituted (1.8.2012) by The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007), art. 3(2), Sch. para. 77
+[^F27]: Words in s. 17 substituted (1.8.2012) by The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007), art. 3(2), Sch. para. 77
+[^F28]: Words in s. 18 substituted (1.8.2012) by The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007), art. 3(2), Sch. para. 78(2)
+[^F29]: Word in s. 18 substituted (1.8.2012) by The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007), art. 3(2), Sch. para. 78(2)
+[^F30]: Words in s. 18 substituted (1.8.2012) by The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007), art. 3(2), Sch. para. 78(3)
+[^F31]: Words in s. 18 substituted (1.8.2012) by The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007), art. 3(2), Sch. para. 78(3)
+[^F32]: Words in s. 25 substituted (1.8.2012) by The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007), art. 3(2), Sch. para. 79(2)
+[^F33]: Words in s. 25 substituted (1.8.2012) by The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007), art. 3(2), Sch. para. 79(2)
+[^F34]: Words in s. 25 substituted (1.8.2012) by The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007), art. 3(2), Sch. para. 79(3)
+[^F35]: Words in s. 27 substituted (1.8.2012) by The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007), art. 3(2), Sch. para. 80(2)(a)
+[^F36]: Word in s. 27 substituted (1.8.2012) by The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007), art. 3(2), Sch. para. 80(2)(a)
+[^F37]: Words in s. 27 substituted (1.8.2012) by The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007), art. 3(2), Sch. para. 80(2)(b)
+[^F38]: Words in s. 27 substituted (1.8.2012) by The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007), art. 3(2), Sch. para. 80(3)
+[^F39]: Words in s. 27 substituted (1.8.2012) by The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007), art. 3(2), Sch. para. 80(4)
+[^F40]: Words in s. 28 substituted (1.8.2012) by The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007), art. 3(2), Sch. para. 81(2)(a)
+[^F41]: Words in s. 28 substituted (1.8.2012) by The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007), art. 3(2), Sch. para. 81(2)(a)
+[^F42]: Words in s. 28 substituted (1.8.2012) by The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007), art. 3(2), Sch. para. 81(2)(b)
+[^F43]: Words in s. 28 substituted (1.8.2012) by The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007), art. 3(2), Sch. para. 81(3)
+[^F44]: Words in s. 28 substituted (1.8.2012) by The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007), art. 3(2), Sch. para. 81(4)
+[^F45]: Words in s. 28 substituted (1.8.2012) by The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007), art. 3(2), Sch. para. 81(5)
+[^F46]: Words in s. 28 substituted (1.8.2012) by The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007), art. 3(2), Sch. para. 81(6)
+[^F47]: Words in s. 28 substituted (1.8.2012) by The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007), art. 3(2), Sch. para. 81(7)
+[^F48]: Words in s. 29(1) substituted (1.8.2012) by The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007), art. 3(2), Sch. para. 82(2)(a)
+[^F49]: Words in s. 29(1) substituted (1.8.2012) by The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007), art. 3(2), Sch. para. 82(2)(a)
+[^F50]: Words in s. 29(1) substituted (1.8.2012) by The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007), art. 3(2), Sch. para. 82(2)(b)
+[^F51]: Words in s. 29(3) substituted (1.8.2012) by The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007), art. 3(2), Sch. para. 82(3)(a)
+[^F52]: Words in s. 29(3) substituted (1.8.2012) by The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007), art. 3(2), Sch. para. 82(3)(a)
+[^F53]: Words in s. 29(3) substituted (1.8.2012) by The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007), art. 3(2), Sch. para. 82(3)(b)
+[^F54]: S. 30 repealed (prosp.) by Welfare Reform Act 2009 (c. 24), ss. 58, 61, Sch. 7 Pt. 4
+[^F55]: Words in s. 30(1) substituted (1.8.2012) by The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007), art. 3(2), Sch. para. 83(2)
+[^F56]: Words in s. 30(1) substituted (1.8.2012) by The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007), art. 3(2), Sch. para. 83(2)
+[^F57]: Words in s. 30(1) substituted (1.8.2012) by The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007), art. 3(2), Sch. para. 83(3)
+[^F58]: Words in s. 32 substituted (1.8.2012) by The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007), art. 3(2), Sch. para. 84(2)
+[^F59]: Words in s. 32 substituted (1.8.2012) by The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007), art. 3(2), Sch. para. 84(3)
+[^F60]: Words in s. 32 substituted (1.8.2012) by virtue of The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007), art. 3(2), Sch. para. 84(3)
+[^F61]: Words in s. 33 substituted (1.8.2012) by The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007), art. 3(2), Sch. para. 85
+[^F62]: Words in s. 33 substituted (1.8.2012) by The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007), art. 3(2), Sch. para. 85
+[^F63]: Words in s. 34 substituted (1.8.2012) by The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007), art. 3(2), Sch. para. 86(2)
+[^F64]: Words in s. 34 substituted (1.8.2012) by The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007), art. 3(2), Sch. para. 86(3)
+[^F65]: Words in s. 34 substituted (1.8.2012) by The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007), art. 3(2), Sch. para. 86(4)
+[^F66]: Words in s. 34 substituted (1.8.2012) by The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007), art. 3(2), Sch. para. 86(5)
+[^F67]: Words in s. 34 substituted (1.8.2012) by The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007), art. 3(2), Sch. para. 86(5)
+[^F68]: Words in s. 34 substituted (1.8.2012) by The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007), art. 3(2), Sch. para. 86(6)
+[^F69]: Words in s. 39 substituted (1.8.2012) by The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007), art. 3(2), Sch. para. 87(2)(a)
+[^F70]: Words in s. 39 substituted (1.8.2012) by The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007), art. 3(2), Sch. para. 87(2)(b)
+[^F71]: Words in s. 39 substituted (1.8.2012) by The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007), art. 3(2), Sch. para. 87(3)
+[^F72]: Words in s. 40 substituted (1.8.2012) by The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007), art. 3(2), Sch. para. 88
+[^F73]: S. 44 omitted (1.8.2012) by virtue of The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007), art. 3(2), Sch. para. 89
+[^F74]: S. 47(3)(ba) inserted (31.3.2014) by Mesothelioma Act 2014 (c. 1), s. 19(1), Sch. 2 para. 2; S.I. 2014/459, art. 3(d)
+[^F75]: Words in s. 49(2) inserted (25.2.2013 for specified purposes, 29.4.2013 in so far as not already in force) by Welfare Reform Act 2012 (c. 5), s. 150(3), Sch. 11 para. 16; S.I. 2013/358, art. 2(1), Sch. 1 paras. 18, 24; S.I. 2013/983, art. 8
+[^F76]: S. 50 heading: words substituted (3.11.2003) by The Transfer of Tribunal Functions Order 2008 (S.I. 2008/2833), art. 9(1), Sch. 3 para. 226(a)
+[^F77]: S. 50(1A)(1B) inserted (25.2.2013 for specified purposes, 29.4.2013 in so far as not already in force) by Welfare Reform Act 2012 (c. 5), s. 150(3), Sch. 11 para. 17(2) (with s. 102(7)-(9)); S.I. 2013/358, art. 2(1), Sch. 1 paras. 18, 24; S.I. 2013/983, art. 8
+[^F78]: Words in s. 50(2) substituted (3.11.2008) by The Transfer of Tribunal Functions Order 2008 (S.I. 2008/2833), art. 9(1), Sch. 3 para. 226(b)
+[^F79]: S. 50(4)(b) omitted (3.11.2008) by virtue of The Transfer of Tribunal Functions Order 2008 (S.I. 2008/2833), art. 9(1), Sch. 3 para. 226(c)
+[^F80]: Words in s. 50(4)(c) inserted (25.2.2013 for specified purposes, 29.4.2013 in so far as not already in force) by Welfare Reform Act 2012 (c. 5), s. 150(3), Sch. 11 para. 17(3); S.I. 2013/358, art. 2(1), Sch. 1 paras. 18, 24; S.I. 2013/983, art. 8
+[^F81]: S. 51 omitted (3.11.2008) by virtue of The Transfer of Tribunal Functions Order 2008 (S.I. 2008/2833), art. 9(1), Sch. 3 para. 227
+[^F82]: S. 53(2A) inserted (25.2.2013 for specified purposes, 29.4.2013 in so far as not already in force) by Welfare Reform Act 2012 (c. 5), s. 150(3), Sch. 11 para. 18(2); S.I. 2013/358, art. 2(1), Sch. 1 paras. 18, 24; S.I. 2013/983, art. 8
+[^F83]: Words in s. 53(3) inserted (25.2.2013 for specified purposes, 29.4.2013 in so far as not already in force) by Welfare Reform Act 2012 (c. 5), s. 150(3), Sch. 11 para. 18(3); S.I. 2013/358, art. 2(1), Sch. 1 paras. 18, 24; S.I. 2013/983, art. 8
+[^F84]: Word in s. 55(5)(a) inserted (1.8.2012) by The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007), art. 3(2), Sch. para. 90(a)
+[^F85]: S. 55(5)(c) and preceding word omitted (1.8.2012) by virtue of The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007), art. 3(2), Sch. para. 90(b)
+[^F86]: S. 56(1) omitted (1.8.2012) by virtue of The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007), art. 3(2), Sch. para. 91
+[^F87]: Words in s. 59(1) omitted (1.8.2012) by virtue of The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007), art. 3(2), Sch. para. 92
+[^F88]: Word in s. 59(4) omitted (20.9.2023) by virtue of Child Support (Enforcement) Act 2023 (c. 35), ss. 5(a), 6(3)
+[^F89]: Word in s. 59(5) omitted (20.9.2023) by virtue of Child Support (Enforcement) Act 2023 (c. 35), ss. 5(b)(i), 6(3)
+[^F90]: Word in s. 59(5) inserted (20.9.2023) by Child Support (Enforcement) Act 2023 (c. 35), ss. 5(b)(ii), 6(3)
+[^F91]: S. 61(2)(b) omitted (1.8.2012) by virtue of The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007), art. 3(2), Sch. para. 93
+[^F92]: Sch. 1 omitted (1.8.2012) by virtue of The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007), art. 3(2), Sch. para. 71
+[^F93]: Sch. 2 omitted (1.8.2012) by virtue of The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007), art. 3(2), Sch. para. 76
+[^F94]: Sch. 3 para. 16(3)-(5) repealed (3.11.2008) by The Transfer of Tribunal Functions Order 2008 (S.I. 2008/2833), art. 9(1), Sch. 3 para. 228(s)
+[^F95]: Sch. 3 para. 17 repealed (3.11.2008) by The Transfer of Tribunal Functions Order 2008 (S.I. 2008/2833), art. 9(1), Sch. 3 para. 228(s)
+[^F96]: Sch. 3 para. 40(b)(c) omitted (1.8.2012) by virtue of The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007), art. 3(2), Sch. para. 94(a)
+[^F97]: Sch. 3 para. 54 repealed (3.11.2008) by The Transfer of Tribunal Functions Order 2008 (S.I. 2008/2833), art. 9(1), Sch. 3 para. 228(s)
+[^F98]: Sch. 3 para. 55 omitted (1.8.2012) by virtue of The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007), art. 3(2), Sch. para. 94(b)
+[^F99]: Words in Sch. 4 para. 8(4) substituted (1.8.2012) by The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007), art. 3(2), Sch. para. 95(2)
+[^F100]: Words in Sch. 4 para. 9 substituted (1.8.2012) by The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007), art. 3(2), Sch. para. 95(3)
+[^F101]: Words in Sch. 4 para. 9 substituted (1.8.2012) by The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007), art. 3(2), Sch. para. 95(3)
+[^F102]: Words in Sch. 5 para. 1(1) substituted (1.8.2012) by The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007), art. 3(2), Sch. para. 96(2)
+[^F103]: Words in Sch. 5 para. 2(2)(e) substituted (1.8.2012) by The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007), art. 3(2), Sch. para. 96(3)(a)
+[^F104]: Words in Sch. 5 para. 2(2)(e) omitted (1.8.2012) by virtue of The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007), art. 3(2), Sch. para. 96(3)(b)
+[^F105]: Words in Sch. 5 para. 3(2)(b) substituted (1.8.2012) by The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007), art. 3(2), Sch. para. 96(4)
+[^F106]: Sch. 5 para. 3(3) inserted (25.11.2013) by Welfare Reform Act 2012 (c. 5), ss. 136(2), 150(3); S.I. 2013/2947, art. 6
+[^F107]: Words in Sch. 5 para. 6(3) substituted (1.8.2012) by The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007), art. 3(2), Sch. para. 96(4)
+[^F108]: Sch. 6 omitted (1.8.2012) by virtue of The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007), art. 3(2), Sch. para. 89
+[^F109]: Sch. 6 omitted (1.8.2012) by virtue of The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007), art. 3(2), Sch. para. 89
+[^F110]: Sch. 6 omitted (1.8.2012) by virtue of The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007), art. 3(2), Sch. para. 89
+[^F111]: Sch. 6 omitted (1.8.2012) by virtue of The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007), art. 3(2), Sch. para. 89
+[^F112]: Sch. 6 omitted (1.8.2012) by virtue of The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007), art. 3(2), Sch. para. 89
+[^F113]: Sch. 6 omitted (1.8.2012) by virtue of The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007), art. 3(2), Sch. para. 89
+[^F114]: Sch. 6 omitted (1.8.2012) by virtue of The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007), art. 3(2), Sch. para. 89
+[^F115]: Sch. 7 para. 1(3)-(6) omitted (20.9.2023) by virtue of Child Support (Enforcement) Act 2023 (c. 35), ss. 4(5), 6(3)
+[^F116]: Sch. 7 para. 2(4) repealed (8.5.2012) by Welfare Reform Act 2012 (c. 5), ss. 147, 150(2)(f), Sch. 14 Pt. 13
+[^F117]: Sch. 7 para. 2(6) repealed (8.5.2012) by Welfare Reform Act 2012 (c. 5), ss. 147, 150(2)(f), Sch. 14 Pt. 13
+[^F118]: Sch. 7 para. 3(3) repealed (8.5.2012) by Welfare Reform Act 2012 (c. 5), ss. 147, 150, Sch. 14 Pt. 13; S.I. 2012/863, art. 2(3)(j)

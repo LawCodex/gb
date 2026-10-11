@@ -1,0 +1,1010 @@
+---
+title: "Corporate Manslaughter and Corporate Homicide Act 2007"
+identifier: "ukpga/2007/19"
+citation: "2007 c. 19"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S+N.I."
+date: 2007-07-26
+last_amended: 2024-10-30
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/2007/19"
+source_modified: 2024-11-04
+retrieved: 2026-10-11
+---
+
+# Corporate Manslaughter and Corporate Homicide Act 2007
+
+**2007 c. 19**
+
+An Act to create a new offence that, in England and Wales or Northern Ireland, is to be called corporate manslaughter and, in Scotland, is to be called corporate homicide; and to make provision in connection with that offence.
+
+[26th July 2007]
+
+Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## Corporate manslaughter and corporate homicide
+
+### 1 The offence
+
+(1) An organisation to which this section applies is guilty of an offence if the way in which its activities are managed or organised—
+
+(a) causes a person's death, and
+
+(b) amounts to a gross breach of a relevant duty of care owed by the organisation to the deceased.
+
+(2) The organisations to which this section applies are—
+
+(a) a corporation;
+
+(b) a department or other body listed in Schedule 1;
+
+(c) a police force;
+
+(d) a partnership, or a trade union or employers' association, that is an employer.
+
+(3) An organisation is guilty of an offence under this section only if the way in which its activities are managed or organised by its senior management is a substantial element in the breach referred to in subsection (1).
+
+(4) For the purposes of this Act—
+
+(a) “relevant duty of care” has the meaning given by section 2, read with sections 3 to 7;
+
+(b) a breach of a duty of care by an organisation is a “gross” breach if the conduct alleged to amount to a breach of that duty falls far below what can reasonably be expected of the organisation in the circumstances;
+
+(c) “senior management”, in relation to an organisation, means the persons who play significant roles in—
+
+(i) the making of decisions about how the whole or a substantial part of its activities are to be managed or organised, or
+
+(ii) the actual managing or organising of the whole or a substantial part of those activities.
+
+(5) The offence under this section is called—
+
+(a) corporate manslaughter, in so far as it is an offence under the law of England and Wales or Northern Ireland;
+
+(b) corporate homicide, in so far as it is an offence under the law of Scotland.
+
+(6) An organisation that is guilty of corporate manslaughter or corporate homicide is liable on conviction on indictment to a fine.
+
+(7) The offence of corporate homicide is indictable only in the High Court of Justiciary.
+
+## Relevant duty of care
+
+### 2 Meaning of “relevant duty of care”
+
+(1) A “relevant duty of care”, in relation to an organisation, means any of the following duties owed by it under the law of negligence—
+
+(a) a duty owed to its employees or to other persons working for the organisation or performing services for it;
+
+(b) a duty owed as occupier of premises;
+
+(c) a duty owed in connection with—
+
+(i) the supply by the organisation of goods or services (whether for consideration or not),
+
+(ii) the carrying on by the organisation of any construction or maintenance operations,
+
+(iii) the carrying on by the organisation of any other activity on a commercial basis, or
+
+(iv) the use or keeping by the organisation of any plant, vehicle or other thing;
+
+(d) a duty owed to a person who, by reason of being a person within subsection (2), is someone for whose safety the organisation is responsible.
+
+(2) A person is within this subsection if—
+
+(a) he is detained at a custodial institution or in a custody area at a court[[^F1], a police station or customs premises];
+
+[[^F2](aa) he is detained in service custody premises;]
+
+(b) he is detained at a removal centre[[^F3], a short-term holding facility or in pre-departure accommodation];
+
+(c) he is being transported in a vehicle, or being held in any premises, in pursuance of prison escort arrangements or immigration escort arrangements;
+
+(d) he is living in secure accommodation in which he has been placed;
+
+(e) he is a detained patient.
+
+(3) Subsection (1) is subject to sections 3 to 7.
+
+(4) A reference in subsection (1) to a duty owed under the law of negligence includes a reference to a duty that would be owed under the law of negligence but for any statutory provision under which liability is imposed in place of liability under that law.
+
+(5) For the purposes of this Act, whether a particular organisation owes a duty of care to a particular individual is a question of law.
+
+The judge must make any findings of fact necessary to decide that question.
+
+(6) For the purposes of this Act there is to be disregarded—
+
+(a) any rule of the common law that has the effect of preventing a duty of care from being owed by one person to another by reason of the fact that they are jointly engaged in unlawful conduct;
+
+(b) any such rule that has the effect of preventing a duty of care from being owed to a person by reason of his acceptance of a risk of harm.
+
+(7) In this section—
+
+- “construction or maintenance operations” means operations of any of the following descriptions—
+
+  - (a) construction, installation, alteration, extension, improvement, repair, maintenance, decoration, cleaning, demolition or dismantling of—
+  
+    - (i) any building or structure,
+    - (ii) anything else that forms, or is to form, part of the land, or
+    - (iii) any plant, vehicle or other thing;
+  
+  - (b) operations that form an integral part of, or are preparatory to, or are for rendering complete, any operations within paragraph (a);
+
+- “custodial institution” means a prison, a young offender institution, a secure training centre, [[^F4]a secure college,] a young offenders institution, a young offenders centre, a juvenile justice centre or a remand centre;
+
+- [[^F5]“customs premises” means premises wholly or partly occupied by persons designated under section 3 (general customs officials) or 11 (customs revenue officials) of the Borders, Citizenship and Immigration Act 2009;]
+
+- “detained patient” means—
+
+  - (a) a person who is detained in any premises under—
+  
+    - (i) Part 2 or 3 of the Mental Health Act 1983 (c. 20) (“the 1983 Act”), or
+    - (ii) Part 2 or 3 of the Mental Health (Northern Ireland) Order 1986 (S.I. 1986/595 (N.I. 4)) (“the 1986 Order”);
+  
+  - (b) a person who (otherwise than by reason of being detained as mentioned in paragraph (a)) is deemed to be in legal custody by—
+  
+    - (i) section 137 of the 1983 Act,
+    - (ii) Article 131 of the 1986 Order, or
+    - (iii) article 11 of the Mental Health (Care and Treatment) (Scotland) Act 2003 (Consequential Provisions) Order 2005 (S.I. 2005/2078);
+  
+  - (c) a person who is detained in any premises, or is otherwise in custody, under the Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13) or Part 6 of the Criminal Procedure (Scotland) Act 1995 (c. 46) or who is detained in a hospital under section 200 of that Act of 1995;
+
+- “immigration escort arrangements” means arrangements made under section 156 of the Immigration and Asylum Act 1999 (c. 33);
+
+- “the law of negligence” includes—
+
+  - (a) in relation to England and Wales, the Occupiers' Liability Act 1957 (c. 31), the Defective Premises Act 1972 (c. 35) and the Occupiers' Liability Act 1984 (c. 3);
+  - (b) in relation to Scotland, the Occupiers' Liability (Scotland) Act 1960 (c. 30);
+  - (c) in relation to Northern Ireland, the Occupiers' Liability Act (Northern Ireland) 1957 (c. 25), the Defective Premises (Northern Ireland) Order 1975 (S.I. 1975/1039 (N.I. 9)), the Occupiers' Liability (Northern Ireland) Order 1987 (S.I. 1987/1280 (N.I. 15)) and the Defective Premises (Landlord's Liability) Act (Northern Ireland) 2001 (c. 10);
+
+- “prison escort arrangements” means arrangements made under section 80 of the Criminal Justice Act 1991 (c. 53) or under section 102 or 118 of the Criminal Justice and Public Order Act 1994 (c. 33);
+
+- “removal centre”[[^F6], “short-term holding facility” and “pre-departure accommodation”] have the meaning given by section 147 of the Immigration and Asylum Act 1999;
+
+- “secure accommodation” means accommodation, not consisting of or forming part of a custodial institution, provided for the purpose of restricting the liberty of persons under the age of 18.
+
+- [[^F7]“service custody premises” has the meaning given by section 300(7) of the Armed Forces Act 2006.]
+
+### 3 Public policy decisions, exclusively public functions and statutory inspections
+
+(1) Any duty of care owed by a public authority in respect of a decision as to matters of public policy (including in particular the allocation of public resources or the weighing of competing public interests) is not a “relevant duty of care”.
+
+(2) Any duty of care owed in respect of things done in the exercise of an exclusively public function is not a “relevant duty of care” unless it falls within section 2(1)(a), (b) or (d).
+
+(3) Any duty of care owed by a public authority in respect of inspections carried out in the exercise of a statutory function is not a “relevant duty of care” unless it falls within section 2(1)(a) or (b).
+
+(4) In this section—
+
+- “exclusively public function” means a function that falls within the prerogative of the Crown or is, by its nature, exercisable only with authority conferred—
+
+  - (a) by the exercise of that prerogative, or
+  - (b) by or under a statutory provision;
+
+- “statutory function” means a function conferred by or under a statutory provision.
+
+### 4 Military activities
+
+(1) Any duty of care owed by the Ministry of Defence in respect of—
+
+(a) operations within subsection (2),
+
+(b) activities carried on in preparation for, or directly in support of, such operations, or
+
+(c) training of a hazardous nature, or training carried out in a hazardous way, which it is considered needs to be carried out, or carried out in that way, in order to improve or maintain the effectiveness of the armed forces with respect to such operations,
+
+is not a “relevant duty of care”.
+
+(2) The operations within this subsection are operations, including peacekeeping operations and operations for dealing with terrorism, civil unrest or serious public disorder, in the course of which members of the armed forces come under attack or face the threat of attack or violent resistance.
+
+(3) Any duty of care owed by the Ministry of Defence in respect of activities carried on by members of the special forces is not a “relevant duty of care”.
+
+(4) In this section “the special forces” means those units of the armed forces the maintenance of whose capabilities is the responsibility of the Director of Special Forces or which are for the time being subject to the operational command of that Director.
+
+### 5 Policing and law enforcement
+
+(1) Any duty of care owed by a public authority in respect of—
+
+(a) operations within subsection (2),
+
+(b) activities carried on in preparation for, or directly in support of, such operations, or
+
+(c) training of a hazardous nature, or training carried out in a hazardous way, which it is considered needs to be carried out, or carried out in that way, in order to improve or maintain the effectiveness of officers or employees of the public authority with respect to such operations,
+
+is not a “relevant duty of care”.
+
+(2) Operations are within this subsection if—
+
+(a) they are operations for dealing with terrorism, civil unrest or serious disorder,
+
+(b) they involve the carrying on of policing or law-enforcement activities, and
+
+(c) officers or employees of the public authority in question come under attack, or face the threat of attack or violent resistance, in the course of the operations.
+
+(3) Any duty of care owed by a public authority in respect of other policing or law-enforcement activities is not a “relevant duty of care” unless it falls within section 2(1)(a), (b) or (d).
+
+(4) In this section “policing or law-enforcement activities” includes—
+
+(a) activities carried on in the exercise of functions that are—
+
+(i) functions of police forces, or
+
+(ii) functions of the same or a similar nature exercisable by public authorities other than police forces;
+
+(b) activities carried on in the exercise of functions of constables employed by a public authority;
+
+(c) activities carried on in the exercise of functions exercisable under Chapter 4 of Part 2 of the Serious Organised Crime and Police Act 2005 (c. 15) (protection of witnesses and other persons);
+
+(d) activities carried on to enforce any provision contained in or made under the Immigration Acts.
+
+### 6 Emergencies
+
+(1) Any duty of care owed by an organisation within subsection (2) in respect of the way in which it responds to emergency circumstances is not a “relevant duty of care” unless it falls within section 2(1)(a) or (b).
+
+(2) The organisations within this subsection are—
+
+(a) a fire and rescue authority in England and Wales;
+
+[[^F8](b) the Scottish Fire and Rescue Service;]
+
+(c) the Northern Ireland Fire and Rescue Service Board;
+
+(d) any other organisation providing a service of responding to emergency circumstances either—
+
+(i) in pursuance of arrangements made with an organisation within paragraph (a), (b) or (c), or
+
+(ii) (if not in pursuance of such arrangements) otherwise than on a commercial basis;
+
+(e) a relevant NHS body;
+
+(f) an organisation providing ambulance services in pursuance of arrangements—
+
+(i) made by, or at the request of, a relevant NHS body, or
+
+(ii) made with the Secretary of State or with the Welsh Ministers;
+
+(g) an organisation providing services for the transport of organs, blood, equipment or personnel in pursuance of arrangements of the kind mentioned in paragraph (f);
+
+(h) an organisation providing a rescue service;
+
+(i) the armed forces.
+
+(3) For the purposes of subsection (1), the way in which an organisation responds to emergency circumstances does not include the way in which—
+
+(a) medical treatment is carried out, or
+
+(b) decisions within subsection (4) are made.
+
+(4) The decisions within this subsection are decisions as to the carrying out of medical treatment, other than decisions as to the order in which persons are to be given such treatment.
+
+(5) Any duty of care owed in respect of the carrying out, or attempted carrying out, of a rescue operation at sea in emergency circumstances is not a “relevant duty of care” unless it falls within section 2(1)(a) or (b).
+
+(6) Any duty of care owed in respect of action taken—
+
+(a) in order to comply with a direction under Schedule 3A to the Merchant Shipping Act 1995 (c. 21) (safety directions), or
+
+(b) by virtue of paragraph 4 of that Schedule (action in lieu of direction),
+
+is not a “relevant duty of care” unless it falls within section 2(1)(a) or (b).
+
+(7) In this section—
+
+- “emergency circumstances” means circumstances that are present or imminent and—
+
+  - (a) are causing, or are likely to cause, serious harm or a worsening of such harm, or
+  - (b) are likely to cause the death of a person;
+
+- “medical treatment” includes any treatment or procedure of a medical or similar nature;
+
+- “relevant NHS body” means—
+
+  - (za) [[^F9]NHS England];
+  - (a) [[^F10]an integrated care board,] [^F11]... [^F12]... NHS trust, Special Health Authority or NHS foundation trust in England;
+  - (b) a Local Health Board, NHS trust or Special Health Authority in Wales;
+  - (c) a Health Board or Special Health Board in Scotland, or the Common Services Agency for the Scottish Health Service;
+  - (d) a [[^F13]Health and Social Care trust] in Northern Ireland;
+
+- “serious harm” means—
+
+  - (a) serious injury to or the serious illness (including mental illness) of a person;
+  - (b) serious harm to the environment (including the life and health of plants and animals);
+  - (c) serious harm to any building or other property.
+
+(8) A reference in this section to emergency circumstances includes a reference to circumstances that are believed to be emergency circumstances.
+
+### 7 Child-protection and probation functions
+
+(1) A duty of care to which this section applies is not a “relevant duty of care” unless it falls within section 2(1)(a), (b) or (d).
+
+(2) This section applies to any duty of care that a local authority or other public authority owes in respect of the exercise by it of functions conferred by or under—
+
+(a) Parts 4 and 5 of the Children Act 1989 (c. 41),
+
+(b) Part 2 of the Children (Scotland) Act 1995 (c. 36), or
+
+[[^F14](ba) the Children’s Hearings (Scotland) Act 2011,]
+
+(c) Parts 5 and 6 of the Children (Northern Ireland) Order 1995 (S.I. 1995/755 (N.I. 2)).
+
+(3) This section also applies to any duty of care that a local probation board [[^F15], a provider of probation services] or other public authority owes in respect of the exercise by it of functions conferred by or under—
+
+(a) Chapter 1 of Part 1 of the Criminal Justice and Court Services Act 2000 (c. 43),
+
+[[^F16](aa) section 13 of the Offender Management Act 2007 (c. 21),]
+
+(b) section 27 of the Social Work (Scotland) Act 1968 (c. 49), or
+
+(c) Article 4 of the Probation Board (Northern Ireland) Order 1982 (S.I. 1982/713 (N.I. 10)).
+
+[[^F17](4) This section also applies to any duty of care that a provider of probation services owes in respect of the carrying out by it of activities in pursuance of arrangements under section 3 of the Offender Management Act 2007.]
+
+## Gross breach
+
+### 8 Factors for jury
+
+(1) This section applies where—
+
+(a) it is established that an organisation owed a relevant duty of care to a person, and
+
+(b) it falls to the jury to decide whether there was a gross breach of that duty.
+
+(2) The jury must consider whether the evidence shows that the organisation failed to comply with any health and safety legislation that relates to the alleged breach, and if so—
+
+(a) how serious that failure was;
+
+(b) how much of a risk of death it posed.
+
+(3) The jury may also—
+
+(a) consider the extent to which the evidence shows that there were attitudes, policies, systems or accepted practices within the organisation that were likely to have encouraged any such failure as is mentioned in subsection (2), or to have produced tolerance of it;
+
+(b) have regard to any health and safety guidance that relates to the alleged breach.
+
+(4) This section does not prevent the jury from having regard to any other matters they consider relevant.
+
+(5) In this section “health and safety guidance” means any code, guidance, manual or similar publication that is concerned with health and safety matters and is made or issued (under a statutory provision or otherwise) by an authority responsible for the enforcement of any health and safety legislation.
+
+## Remedial orders and publicity orders
+
+### 9 Power to order breach etc to be remedied
+
+(1) A court before which an organisation is convicted of corporate manslaughter or corporate homicide may make an order (a “remedial order”) requiring the organisation to take specified steps to remedy—
+
+(a) the breach mentioned in section 1(1) (“the relevant breach”);
+
+(b) any matter that appears to the court to have resulted from the relevant breach and to have been a cause of the death;
+
+(c) any deficiency, as regards health and safety matters, in the organisation's policies, systems or practices of which the relevant breach appears to the court to be an indication.
+
+(2) A remedial order may be made only on an application by the prosecution specifying the terms of the proposed order.
+
+Any such order must be on such terms (whether those proposed or others) as the court considers appropriate having regard to any representations made, and any evidence adduced, in relation to that matter by the prosecution or on behalf of the organisation.
+
+(3) Before making an application for a remedial order the prosecution must consult such enforcement authority or authorities as it considers appropriate having regard to the nature of the relevant breach.
+
+(4) A remedial order—
+
+(a) must specify a period within which the steps referred to in subsection (1) are to be taken;
+
+(b) may require the organisation to supply to an enforcement authority consulted under subsection (3), within a specified period, evidence that those steps have been taken.
+
+A period specified under this subsection may be extended or further extended by order of the court on an application made before the end of that period or extended period.
+
+(5) An organisation that fails to comply with a remedial order is guilty of an offence, and liable on conviction on indictment to a fine.
+
+### 10 Power to order conviction etc to be publicised
+
+(1) A court before which an organisation is convicted of corporate manslaughter or corporate homicide may make an order (a “publicity order”) requiring the organisation to publicise in a specified manner—
+
+(a) the fact that it has been convicted of the offence;
+
+(b) specified particulars of the offence;
+
+(c) the amount of any fine imposed;
+
+(d) the terms of any remedial order made.
+
+(2) In deciding on the terms of a publicity order that it is proposing to make, the court must—
+
+(a) ascertain the views of such enforcement authority or authorities (if any) as it considers appropriate, and
+
+(b) have regard to any representations made by the prosecution or on behalf of the organisation.
+
+(3) A publicity order—
+
+(a) must specify a period within which the requirements referred to in subsection (1) are to be complied with;
+
+(b) may require the organisation to supply to any enforcement authority whose views have been ascertained under subsection (2), within a specified period, evidence that those requirements have been complied with.
+
+(4) An organisation that fails to comply with a publicity order is guilty of an offence, and liable on conviction on indictment to a fine.
+
+## Application to particular categories of organisation
+
+### 11 Application to Crown bodies
+
+(1) An organisation that is a servant or agent of the Crown is not immune from prosecution under this Act for that reason.
+
+(2) For the purposes of this Act—
+
+(a) a department or other body listed in Schedule 1, or
+
+(b) a corporation that is a servant or agent of the Crown,
+
+is to be treated as owing whatever duties of care it would owe if it were a corporation that was not a servant or agent of the Crown.
+
+(3) For the purposes of section 2—
+
+(a) a person who is—
+
+(i) employed by or under the Crown for the purposes of a department or other body listed in Schedule 1, or
+
+(ii) employed by a person whose staff constitute a body listed in that Schedule,
+
+is to be treated as employed by that department or body;
+
+(b) any premises occupied for the purposes of—
+
+(i) a department or other body listed in Schedule 1, or
+
+(ii) a person whose staff constitute a body listed in that Schedule,
+
+are to be treated as occupied by that department or body.
+
+(4) For the purposes of sections 2 to 7 anything done purportedly by a department or other body listed in Schedule 1, although in law by the Crown or by the holder of a particular office, is to be treated as done by the department or other body itself.
+
+(5) Subsections (3)(a)(i), (3)(b)(i) and (4) apply in relation to a Northern Ireland department as they apply in relation to a department or other body listed in Schedule 1.
+
+### 12 Application to armed forces
+
+(1) In this Act “the armed forces” means any of the naval, military or air forces of the Crown raised under the law of the United Kingdom.
+
+(2) For the purposes of section 2 a person who is a member of the armed forces is to be treated as employed by the Ministry of Defence.
+
+(3) A reference in this Act to members of the armed forces includes a reference to—
+
+(a) members of the reserve forces (within the meaning given by section 1(2) of the Reserve Forces Act 1996 (c. 14)) when in service or undertaking training or duties;
+
+(b) persons serving on Her Majesty's vessels (within the meaning given by section 132(1) of the Naval Discipline Act 1957 (c. 53)).
+
+### 13 Application to police forces
+
+(1) In this Act “police force” means—
+
+(a) a police force within the meaning of—
+
+(i) the Police Act 1996 (c. 16), [^F18]...
+
+[^F19]ii . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[[^F20](aa) the Police Service of Scotland;]
+
+(b) the Police Service of Northern Ireland;
+
+(c) the Police Service of Northern Ireland Reserve;
+
+(d) the British Transport Police Force;
+
+(e) the Civil Nuclear Constabulary;
+
+(f) the Ministry of Defence Police.
+
+(2) For the purposes of this Act a police force is to be treated as owing whatever duties of care it would owe if it were a body corporate.
+
+(3) For the purposes of section 2—
+
+(a) a member of a police force is to be treated as employed by that force;
+
+(b) a special constable appointed for a police area in England and Wales is to be treated as employed by the police force maintained by the [[^F21]local policing body] for that area;
+
+(c) a special constable appointed for a police force mentioned in paragraph (d) or (f) of subsection (1) is to be treated as employed by that force;
+
+(d) a police cadet undergoing training with a view to becoming a member of a police force mentioned in paragraph (a) [[^F22], (aa)] or (d) of subsection (1) is to be treated as employed by that force;
+
+(e) a police trainee appointed under section 39 of the Police (Northern Ireland) Act 2000 (c. 32) or a police cadet appointed under section 42 of that Act is to be treated as employed by the Police Service of Northern Ireland;
+
+(f) a police reserve trainee appointed under section 40 of that Act is to be treated as employed by the Police Service of Northern Ireland Reserve;
+
+(g) a member of a police force [[^F23]seconded to the National Crime Agency to serve as a National Crime Agency officer is to be treated] as employed by that Agency.
+
+(4) A reference in subsection (3) to a member of a police force is to be read, in the case of [[^F24]the Police Service of Scotland, as a reference to a constable of that Service.]
+
+(5) For the purposes of section 2 any premises occupied for the purposes of a police force are to be treated as occupied by that force.
+
+(6) For the purposes of sections 2 to 7 anything that would be regarded as done by a police force if the force were a body corporate is to be so regarded.
+
+(7) Where—
+
+(a) by virtue of subsection (3) a person is treated for the purposes of section 2 as employed by a police force, and
+
+(b) by virtue of any other statutory provision (whenever made) he is, or is treated as, employed by another organisation,
+
+the person is to be treated for those purposes as employed by both the force and the other organisation.
+
+### 14 Application to partnerships
+
+(1) For the purposes of this Act a partnership is to be treated as owing whatever duties of care it would owe if it were a body corporate.
+
+(2) Proceedings for an offence under this Act alleged to have been committed by a partnership are to be brought in the name of the partnership (and not in that of any of its members).
+
+(3) A fine imposed on a partnership on its conviction of an offence under this Act is to be paid out of the funds of the partnership.
+
+(4) This section does not apply to a partnership that is a legal person under the law by which it is governed.
+
+## Miscellaneous
+
+### 15 Procedure, evidence and sentencing
+
+(1) Any statutory provision (whenever made) about criminal proceedings applies, subject to any prescribed adaptations or modifications, in relation to proceedings under this Act against—
+
+(a) a department or other body listed in Schedule 1,
+
+(b) a police force,
+
+(c) a partnership,
+
+(d) a trade union, or
+
+(e) an employers' association that is not a corporation,
+
+as it applies in relation to proceedings against a corporation.
+
+(2) In this section—
+
+- “prescribed” means [[^F25]—
+
+  - (a) in relation to proceedings under this Act in England and Wales, prescribed by an order made by the Secretary of State;
+  - (b) in relation to proceedings under this Act in Northern Ireland, prescribed by an order made by the Department of Justice in Northern Ireland;]
+
+- “provision about criminal proceedings” includes—
+
+  - (a) provision about procedure in or in connection with criminal proceedings;
+  - (b) provision about evidence in such proceedings;
+  - (c) provision about sentencing, or otherwise dealing with, persons convicted of offences;
+
+- “statutory” means contained in, or in an instrument made under, any Act or any Northern Ireland legislation.
+
+(3) A reference in this section to proceedings [[^F26](except in the definition of “prescribed” in subsection (2))] is to proceedings in England and Wales or Northern Ireland.
+
+(4) An order [[^F27]of the Secretary of State] under this section is subject to negative resolution procedure.
+
+### 16 Transfer of functions
+
+(1) This section applies where—
+
+(a) a person's death has occurred, or is alleged to have occurred, in connection with the carrying out of functions by a relevant public organisation, and
+
+(b) subsequently there is a transfer of those functions, with the result that they are still carried out but no longer by that organisation.
+
+(2) In this section “relevant public organisation” means—
+
+(a) a department or other body listed in Schedule 1;
+
+(b) a corporation that is a servant or agent of the Crown;
+
+(c) a police force.
+
+(3) Any proceedings instituted against a relevant public organisation after the transfer for an offence under this Act in respect of the person's death are to be instituted against—
+
+(a) the relevant public organisation, if any, by which the functions mentioned in subsection (1) are currently carried out;
+
+(b) if no such organisation currently carries out the functions, the relevant public organisation by which the functions were last carried out.
+
+This is subject to subsection (4).
+
+(4) If an order made by the Secretary of State so provides in relation to a particular transfer of functions, the proceedings referred to in subsection (3) may be instituted, or (if they have already been instituted) may be continued, against—
+
+(a) the organisation mentioned in subsection (1), or
+
+(b) such relevant public organisation (other than the one mentioned in subsection (1) or the one mentioned in subsection (3)(a) or (b)) as may be specified in the order.
+
+(5) If the transfer occurs while proceedings for an offence under this Act in respect of the person's death are in progress against a relevant public organisation, the proceedings are to be continued against—
+
+(a) the relevant public organisation, if any, by which the functions mentioned in subsection (1) are carried out as a result of the transfer;
+
+(b) if as a result of the transfer no such organisation carries out the functions, the same organisation as before.
+
+This is subject to subsection (6).
+
+(6) If an order made by the Secretary of State so provides in relation to a particular transfer of functions, the proceedings referred to in subsection (5) may be continued against—
+
+(a) the organisation mentioned in subsection (1), or
+
+(b) such relevant public organisation (other than the one mentioned in subsection (1) or the one mentioned in subsection (5)(a) or (b)) as may be specified in the order.
+
+(7) An order under subsection (4) or (6) is subject to negative resolution procedure.
+
+### 17 DPP's consent required for proceedings
+
+Proceedings for an offence of corporate manslaughter—
+
+(a) may not be instituted in England and Wales without the consent of the Director of Public Prosecutions;
+
+(b) may not be instituted in Northern Ireland without the consent of the Director of Public Prosecutions for Northern Ireland.
+
+### 18 No individual liability
+
+(1) An individual cannot be guilty of aiding, abetting, counselling or procuring the commission of an offence of corporate manslaughter.
+
+[[^F28](1A) An individual cannot be guilty of an offence under Part 2 of the Serious Crime Act 2007 (encouraging or assisting crime) by reference to an offence of corporate manslaughter.]
+
+(2) An individual cannot be guilty of aiding, abetting, counselling or procuring, or being art and part in, the commission of an offence of corporate homicide.
+
+### 19 Convictions under this Act and under health and safety legislation
+
+(1) Where in the same proceedings there is—
+
+(a) a charge of corporate manslaughter or corporate homicide arising out of a particular set of circumstances, and
+
+(b) a charge against the same defendant of a health and safety offence arising out of some or all of those circumstances,
+
+the jury may, if the interests of justice so require, be invited to return a verdict on each charge.
+
+(2) An organisation that has been convicted of corporate manslaughter or corporate homicide arising out of a particular set of circumstances may, if the interests of justice so require, be charged with a health and safety offence arising out of some or all of those circumstances.
+
+(3) In this section “health and safety offence” means an offence under any health and safety legislation.
+
+### 20 Abolition of liability of corporations for manslaughter at common law
+
+The common law offence of manslaughter by gross negligence is abolished in its application to corporations, and in any application it has to other organisations to which section 1 applies.
+
+## General and supplemental
+
+### 21 Power to extend section 1 to other organisations
+
+(1) The Secretary of State may by order amend section 1 so as to extend the categories of organisation to which that section applies.
+
+(2) An order under this section may make any amendment to this Act that is incidental or supplemental to, or consequential on, an amendment made by virtue of subsection (1).
+
+(3) An order under this section is subject to affirmative resolution procedure.
+
+### 22 Power to amend Schedule 1
+
+(1) The Secretary of State may amend Schedule 1 by order.
+
+(2) A statutory instrument containing an order under this section is subject to affirmative resolution procedure, unless the only amendments to Schedule 1 that it makes are amendments within subsection (3).
+
+In that case the instrument is subject to negative resolution procedure.
+
+(3) An amendment is within this subsection if—
+
+(a) it is consequential on a department or other body listed in Schedule 1 changing its name,
+
+(b) in the case of an amendment adding a department or other body to Schedule 1, it is consequential on the transfer to the department or other body of functions all of which were previously exercisable by one or more organisations to which section 1 applies, or
+
+(c) in the case of an amendment removing a department or other body from Schedule 1, it is consequential on—
+
+(i) the abolition of the department or other body, or
+
+(ii) the transfer of all the functions of the department or other body to one or more organisations to which section 1 applies.
+
+### 23 Power to extend section 2(2)
+
+(1) The Secretary of State may by order amend section 2(2) to make it include any category of person (not already included) who—
+
+(a) is required by virtue of a statutory provision to remain or reside on particular premises, or
+
+(b) is otherwise subject to a restriction of his liberty.
+
+(2) An order under this section may make any amendment to this Act that is incidental or supplemental to, or consequential on, an amendment made by virtue of subsection (1).
+
+(3) An order under this section is subject to affirmative resolution procedure.
+
+### 23A [[^F29]Powers of Department of Justice in Northern Ireland
+
+(1) The power to make an order under any of the following provisions is exercisable by the Department of Justice in Northern Ireland (and not by the Secretary of State) so far as the power may be used to make provision which could be made by an Act of the Northern Ireland Assembly without the consent of the Secretary of State (see sections 6 to 8 of the Northern Ireland Act 1998).
+
+(2) The provisions are—
+
+(a) section 16(4);
+
+(b) section 16(6);
+
+(c) section 21;
+
+(d) section 22;
+
+(e) section 23.
+
+(3) None of the following applies in relation to a power of the Department of Justice to make an order by virtue of this section—
+
+(a) section 16(7);
+
+(b) section 21(3);
+
+(c) section 22(2);
+
+(d) section 23(3).]
+
+### 24 Orders
+
+(1) A power of the Secretary of State to make an order under this Act is exercisable by statutory instrument.
+
+(2) Where an order under this Act is subject to “negative resolution procedure” the statutory instrument containing the order is subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(3) Where an order under this Act is subject to “affirmative resolution procedure” the order may not be made unless a draft has been laid before, and approved by a resolution of, each House of Parliament.
+
+(4) An order under this Act—
+
+(a) may make different provision for different purposes;
+
+(b) may make transitional or saving provision.
+
+[[^F30](5) A power of the Department of Justice in Northern Ireland to make an order under this Act is exercisable by statutory rule for the purposes of the Statutory Rules (Northern Ireland) Order 1979.
+
+(6) An order made by the Department of Justice under section 15 or 16 is subject to negative resolution (within the meaning of section 41(6) of the Interpretation Act (Northern Ireland) 1954).
+
+(7) No order shall be made by the Department of Justice under section 21 or 23 or (subject to subsection (8)) section 22, unless a draft of it has been laid before, and approved by a resolution of, the Northern Ireland Assembly.
+
+(8) If the only amendments to Schedule 1 made by an order of the Department of Justice under section 22 are amendments within subsection (3) of that section—
+
+(a) subsection (7) of this section does not apply to the making of the order, and
+
+(b) the order is subject to negative resolution (within the meaning of section 41(6) of the Interpretation Act (Northern Ireland) 1954).
+
+(9) No order shall be made by the Department of Justice under section 27 bringing into force paragraph (d) of section 2(1) unless a draft of the order has been laid before, and approved by a resolution of, the Northern Ireland Assembly.
+
+(10) Section 41(3) of the Interpretation Act (Northern Ireland) 1954 applies for the purposes of subsections (7) and (9) in relation to the laying of a draft as it applies in relation to the laying of a statutory document under an enactment.]
+
+### 25 Interpretation
+
+In this Act—
+
+- “armed forces” has the meaning given by section 12(1);
+
+- “corporation” does not include a corporation sole but includes any body corporate wherever incorporated;
+
+- “employee” means an individual who works under a contract of employment or apprenticeship (whether express or implied and, if express, whether oral or in writing), and related expressions are to be construed accordingly; see also sections 11(3)(a), 12(2) and 13(3) (which apply for the purposes of section 2);
+
+- “employers' association” has the meaning given by section 122 of the Trade Union and Labour Relations (Consolidation) Act 1992 (c. 52) or Article 4 of the Industrial Relations (Northern Ireland) Order 1992 (S.I. 1992/807 (N.I. 5));
+
+- “enforcement authority” means an authority responsible for the enforcement of any health and safety legislation;
+
+- “health and safety legislation” means any statutory provision dealing with health and safety matters, including in particular provision contained in the Health and Safety at Work etc. Act 1974 (c. 37) or the Health and Safety at Work (Northern Ireland) Order 1978 (S.I. 1978/1039 (N.I. 9)) [[^F31]and provision dealing with health and safety matters contained in Part 3 of the Energy Act 2013 (nuclear regulation)];
+
+- “member”, in relation to the armed forces, is to be read in accordance with section 12(3);
+
+- “partnership” means—
+
+  - (a) a partnership within the Partnership Act 1890 (c. 39), or
+  - (b) a limited partnership registered under the Limited Partnerships Act 1907 (c. 24),
+
+  or a firm or entity of a similar character formed under the law of a country or territory outside the United Kingdom;
+
+- “police force” has the meaning given by section 13(1);
+
+- “premises” includes land, buildings and moveable structures;
+
+- “public authority” has the same meaning as in section 6 of the Human Rights Act 1998 (c. 42) (disregarding subsections (3)(a) and (4) of that section);
+
+- “publicity order” means an order under section 10(1);
+
+- “remedial order” means an order under section 9(1);
+
+- “statutory provision”, except in section 15, means provision contained in, or in an instrument made under, any Act, any Act of the Scottish Parliament or any Northern Ireland legislation;
+
+- “trade union” has the meaning given by section 1 of the Trade Union and Labour Relations (Consolidation) Act 1992 (c. 52) or Article 3 of the Industrial Relations (Northern Ireland) Order 1992 (S.I. 1992/807 (N.I. 5)).
+
+### 26 Minor and consequential amendments
+
+Schedule 2 (minor and consequential amendments) has effect.
+
+### 27 Commencement and savings
+
+(1) The preceding provisions of this Act come into force in accordance with provision made by order by the Secretary of State [[^F32](subject to subsection (1A))].
+
+[[^F33](1A) The power in subsection (1) is exercisable by the Department of Justice in Northern Ireland (and not by the Secretary of State) for the purposes of the law of Northern Ireland.]
+
+(2) An order [[^F34]of the Secretary of State] bringing into force paragraph (d) of section 2(1) is subject to affirmative resolution procedure.
+
+(3) Section 1 does not apply in relation to anything done or omitted before the commencement of that section.
+
+(4) Section 20 does not affect any liability, investigation, legal proceeding or penalty for or in respect of an offence committed wholly or partly before the commencement of that section.
+
+(5) For the purposes of subsection (4) an offence is committed wholly or partly before the commencement of section 20 if any of the conduct or events alleged to constitute the offence occurred before that commencement.
+
+### 28 Extent and territorial application
+
+(1) Subject to subsection (2), this Act extends to England and Wales, Scotland and Northern Ireland.
+
+(2) An amendment made by this Act extends to the same part or parts of the United Kingdom as the provision to which it relates.
+
+(3) Section 1 applies if the harm resulting in death is sustained in the United Kingdom or—
+
+(a) within the seaward limits of the territorial sea adjacent to the United Kingdom;
+
+(b) on a ship registered under Part 2 of the Merchant Shipping Act 1995 (c. 21);
+
+(c) on a British-controlled aircraft as defined in section 92 of the Civil Aviation Act 1982 (c. 16);
+
+(d) on a British-controlled hovercraft within the meaning of that section as applied in relation to hovercraft by virtue of provision made under the Hovercraft Act 1968 (c. 59);
+
+(e) in any place to which an Order in Council under section 10(1) of the Petroleum Act 1998 (c. 17) applies (criminal jurisdiction in relation to offshore activities).
+
+(4) For the purposes of subsection (3)(b) to (d) harm sustained on a ship, aircraft or hovercraft includes harm sustained by a person who—
+
+(a) is then no longer on board the ship, aircraft or hovercraft in consequence of the wrecking of it or of some other mishap affecting it or occurring on it, and
+
+(b) sustains the harm in consequence of that event.
+
+### 29 Short title
+
+This Act may be cited as the Corporate Manslaughter and Corporate Homicide Act 2007.
+
+## SCHEDULE 1 — List of government departments etc
+
+*Section 1*
+
+- [^F35]...
+- Attorney General's Office
+- Cabinet Office
+- Central Office of Information
+- Crown Office and Procurator Fiscal Service
+- Crown Prosecution Service
+- [^F36]...
+- [^F37]...
+- [[^F38]Department for Business and Trade]
+- [^F39]...
+- [^F40]...
+- [^F41]...
+- [^F42]...
+- Department for Culture, Media and Sport
+- [[^F43]Department for Education]
+- [^F42]...
+- [[^F38]Department for Energy Security and Net Zero]
+- Department for Environment, Food and Rural Affairs
+- [^F44]...
+- [^F45]...
+- [^F46]...
+- [[^F38]Department for Science, Innovation and Technology]
+- Department for Transport
+- Department for Work and Pensions
+- [^F39]...
+- Department of Health [[^F47]and Social Care]
+- [^F42]...
+- Export Credits Guarantee Department
+- [[^F48]Foreign, Commonwealth and Development Office]
+- Forestry Commission
+- General Register Office for Scotland
+- Government Actuary's Department
+- Her Majesty's Land Registry
+- Her Majesty's Revenue and Customs
+- Her Majesty's Treasury
+- Home Office
+- Ministry of Defence
+- [^F49]...
+- [[^F50]Ministry of Housing, Communities and Local Government]
+- [[^F51]Ministry of Justice (including the Scotland Office and the Wales Office)]
+- National Archives
+- National Archives of Scotland
+- [[^F52]National Crime Agency]
+- [^F53]...
+- National Savings and Investments
+- National School of Government
+- Northern Ireland Audit Office
+- [^F54]...
+- Northern Ireland Office
+- Office for National Statistics
+- [^F42]...
+- Office of Her Majesty's Chief Inspector of Education and Training in Wales
+- Ordnance Survey
+- [^F42]...
+- Public Prosecution Service for Northern Ireland
+- Registers of Scotland Executive Agency
+- [^F55]...
+- Royal Mint
+- Scottish Executive
+- Serious Fraud Office
+- Treasury Solicitor's Department
+- [^F37]...
+- Welsh Assembly Government
+
+## SCHEDULE 2 — Minor and consequential amendments
+
+*Section 26*
+
+### Coroners Act 1988 (c. 13)
+
+**1** (1) The Coroners Act 1988 is amended as follows.
+
+(2) In the following provisions, after “manslaughter” there is inserted “ , corporate manslaughter ”
+
+(a) section 11(6) (no finding of guilt at coroner's inquest) (twice);
+
+(b) subsection (1)(a)(i) of section 16 (adjournment of inquest in event of criminal proceedings);
+
+(c) subsections (1)(a) and (2)(a) of section 17 (coroner to be informed of result of criminal proceedings).
+
+(3) In section 35(1) (interpretation), after the definition of “Greater London” there is inserted—
+
+> “person”, in relation to an offence of corporate manslaughter, includes organisation;
+
+.
+
+### Criminal Justice Act 2003 (c. 44)
+
+**2** In Schedule 4 to the Criminal Justice Act 2003 (qualifying offences for purposes of section 62), after paragraph 4 there is inserted—
+
+> **Corporate manslaughter**
+>
+> **4A** An offence under section 1 of the Corporate Manslaughter and Corporate Homicide Act 2007.
+
+**3** (1) Schedule 5 to that Act (qualifying offences for purposes of Part 10) is amended as follows.
+
+(2) After paragraph 4 there is inserted—
+
+> **Corporate manslaughter**
+>
+> **4A** An offence under section 1 of the Corporate Manslaughter and Corporate Homicide Act 2007.
+
+(3) After paragraph 33 there is inserted—
+
+> **Corporate manslaughter**
+>
+> **33A** An offence under section 1 of the Corporate Manslaughter and Corporate Homicide Act 2007.
+
+### Criminal Justice (Northern Ireland) Order 2004 (S.I. 2004/1500 (N.I. 9))
+
+**4** In Schedule 2 to the Criminal Justice (Northern Ireland) Order 2004 (qualifying offences for purposes of Article 21), after paragraph 4 there is inserted—
+
+> **Corporate manslaughter**
+>
+> **4A** An offence under section 1 of the Corporate Manslaughter and Corporate Homicide Act 2007.
+
+---
+
+[^F1]: Words in s. 2(2)(a) substituted (1.9.2011) by The Corporate Manslaughter and Corporate Homicide Act 2007 (Amendment) Order 2011 (S.I. 2011/1868), arts. 1, 2(2)
+[^F2]: S. 2(2)(aa) inserted (1.9.2011) by The Corporate Manslaughter and Corporate Homicide Act 2007 (Amendment) Order 2011 (S.I. 2011/1868), arts. 1, 2(3)
+[^F3]: Words in s. 2(2)(b) substituted (28.7.2014) by Immigration Act 2014 (c. 22), s. 75(3), Sch. 9 para. 15(a); S.I. 2014/1820, art. 3(cc)
+[^F4]: Words in s. 2(7) inserted (20.3.2015) by Criminal Justice and Courts Act 2015 (c. 2), s. 95(1), Sch. 9 para. 23; S.I. 2015/778, art. 2(1)(c)
+[^F5]: Words in s. 2(7) inserted (1.9.2011) by The Corporate Manslaughter and Corporate Homicide Act 2007 (Amendment) Order 2011 (S.I. 2011/1868), arts. 1, 2(4)(a)
+[^F6]: Words in s. 2(7) substituted (28.7.2014) by Immigration Act 2014 (c. 22), s. 75(3), Sch. 9 para. 15(b); S.I. 2014/1820, art. 3(cc)
+[^F7]: Words in s. 2(7) inserted (1.9.2011) by The Corporate Manslaughter and Corporate Homicide Act 2007 (Amendment) Order 2011 (S.I. 2011/1868), arts. 1, 2(4)(b)
+[^F8]: S. 6(2)(b) substituted (S.) (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 7 para. 71; S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121) and substituted (E.W.N.I) (1.4.2013) by The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602), art. 1(2), Sch. 1 para. 9
+[^F9]: Words in s. 6 substituted (1.7.2022) by Health and Care Act 2022 (c. 31), s. 186(6), Sch. 1 para. 1(1)(2); S.I. 2022/734, reg. 2(a), Sch. (with regs. 13, 29, 30)
+[^F10]: Words in s. 6(7) substituted (1.7.2022) by Health and Care Act 2022 (c. 31), s. 186(6), Sch. 4 para. 151; S.I. 2022/734, reg. 2(a), Sch. (with regs. 13, 29, 30)
+[^F11]: Words in s. 6(7) omitted (1.4.2013) by virtue of Health and Social Care Act 2012 (c. 7), s. 306(4), Sch. 5 para. 147(b)(ii); S.I. 2013/160, art. 2(2) (with arts. 7-9)
+[^F12]: Words in s. 6(7) omitted (1.4.2013) by virtue of Health and Social Care Act 2012 (c. 7), s. 306(4), Sch. 5 para. 147(b)(iii); S.I. 2013/160, art. 2(2) (with arts. 7-9)
+[^F13]: Words in s. 6(7) substituted (N.I.) (1.4.2022) by Health and Social Care Act (Northern Ireland) 2022 (c. 3), s. 8(1)(b), Sch. 1 para. 213; S.R. 2022/102, art. 2(b); and (E.W.S.) (30.11.2022) by The Health and Social Care Act (Northern Ireland) 2022 (Consequential Amendments) Order 2022 (S.I. 2022/1174), arts. 1(2), 18
+[^F14]: S. 7(2)(ba) inserted (24.6.2013) by The Children’s Hearings (Scotland) Act 2011 (Consequential and Transitional Provisions and Savings) Order 2013 (S.I. 2013/1465), art. 1(2), Sch. 1 para. 11
+[^F15]: Words in s. 7(3) inserted (1.4.2008) by The Offender Management Act 2007 (Consequential Amendments) Order 2008 (S.I. 2008/912), art. 1, Sch. 1 para. 25(2)(a)(i)
+[^F16]: S. 7(3)(aa) inserted (1.4.2008) by The Offender Management Act 2007 (Consequential Amendments) Order 2008 (S.I. 2008/912), art. 1, Sch. 1 para. 25(2)(a)(ii)
+[^F17]: S. 7(4) inserted (1.4.2008) by The Offender Management Act 2007 (Consequential Amendments) Order 2008 (S.I. 2008/912), art. 1, Sch. 1 para. 25(2)(b)
+[^F18]: Word in s. 13(1)(a)(i) omitted (1.4.2013) by virtue of The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602), art. 1(2), Sch. 2 para. 57(2)(a)
+[^F19]: S. 13(1)(a)(ii) omitted (1.4.2013) by virtue of The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602), art. 1(2), Sch. 2 para. 57(2)(b)
+[^F20]: S. 13(1)(aa) inserted (1.4.2013) by The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602), art. 1(2), Sch. 2 para. 57(2)(c)
+[^F21]: Words in s. 13(3)(b) substituted (16.1.2012) by Police Reform and Social Responsibility Act 2011 (c. 13), s. 157(1), Sch. 16 para. 365; S.I. 2011/3019, art. 3, Sch. 1
+[^F22]: Word in s. 13(3)(d) inserted (1.4.2013) by The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602), art. 1(2), Sch. 2 para. 57(2)(d)
+[^F23]: Words in s. 13(3)(g) substituted (7.10.2013) by Crime and Courts Act 2013 (c. 22), s. 61(2), Sch. 8 para. 174; S.I. 2013/1682, art. 3(v)
+[^F24]: Words in s. 13(4) substituted (1.4.2013) by The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602), art. 1(2), Sch. 2 para. 57(2)(e)
+[^F25]: Words in s. 15(2) substituted (12.4.2010) by The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976), art. 1, Sch. 9 para. 2(2) (with arts. 28-31)
+[^F26]: Words in s. 15(3) inserted (12.4.2010) by The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976), art. 1, Sch. 9 para. 2(3) (with arts. 28-31)
+[^F27]: Words in s. 15(4) inserted (12.4.2010) by The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976), art. 1, Sch. 9 para. 2(4) (with arts. 28-31)
+[^F28]: S. 18(1A) inserted (E.W.N.I) (1.10.2008) by Serious Crime Act 2007 (c. 27), ss. 62, 94(1) (with Sch. 13 para. 5); S.I. 2008/2504, art. 2(a)
+[^F29]: S. 23A inserted (12.4.2010) by The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976), art. 1, Sch. 9 para. 3 (with arts. 28-31)
+[^F30]: S. 24(5)-(10) inserted (12.4.2010) by The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976), Sch. 9 para. 4(2) (with arts. 28-31)
+[^F31]: Words in s. 25 inserted (1.4.2014) by Energy Act 2013 (c. 32), s. 156(1), Sch. 12 para. 93; S.I. 2014/251, art. 4
+[^F32]: Words in s. 27(1) inserted (12.4.2010) by The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976), art. 1, Sch. 9 para. 5(2) (with arts. 28-31)
+[^F33]: S. 27(1A) inserted (12.4.2010) by The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976), art. 1, Sch. 9 para. 5(3) (with arts. 28-31)
+[^F34]: Words in s. 27(2) inserted (12.4.2010) by The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976), art. 1, Sch. 9 para. 5(4) (with arts. 28-31)
+[^F35]: Words in Sch. 1 repealed (1.4.2008) by Serious Crime Act 2007 (c. 27), s. 94(1), Sch. 8 para. 178, Sch. 14; S.I. 2008/755, art. 2(1)(a)(d) (with arts. 3-14)
+[^F36]: Sch. 1 entry omitted (13.11.2009) by virtue of Secretary of State for Business, Innovation and Skills Order 2009 (S.I. 2009/2748), art. 1(2), Sch. para. 8(b) (with art. 7)
+[^F37]: Words in Sch. 1 omitted (3.5.2023) by virtue of The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424), art. 1(2), Sch. para. 14(a) (with art. 17)
+[^F38]: Words in Sch. 1 inserted (3.5.2023) by The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424), art. 1(2), Sch. para. 14(b) (with art. 17)
+[^F39]: Words in Sch. 1 omitted (9.11.2016) by virtue of The Secretaries of State for Business, Energy and Industrial Strategy, for International Trade and for Exiting the European Union and the Transfer of Functions (Education and Skills) Order 2016 (S.I. 2016/992), art. 1(2), Sch. para. 12(b) (with art. 13)
+[^F40]: Words in Sch. 1 omitted (18.8.2010) by virtue of The Secretary of State for Education Order 2010 (S.I. 2010/1836), art. 1(2), Sch. para. 4(a)
+[^F41]: Words in Sch. 1 omitted (11.4.2018) by virtue of The Secretaries of State for Health and Social Care and for Housing, Communities and Local Government and Transfer of Functions (Commonhold Land) Order 2018 (S.I. 2018/378), art. 1(2), Sch. para. 13(a) (with art. 14)
+[^F42]: Words in Sch. 1 omitted (6.4.2008) by virtue of Corporate Manslaughter and Corporate Homicide Act 2007 (Amendment of Schedule 1) Order 2008 (S.I. 2008/396), arts. 1, 2(3)
+[^F43]: Words in Sch. 1 inserted (18.8.2010) by The Secretary of State for Education Order 2010 (S.I. 2010/1836), art. 1(2), Sch. para. 4(b)
+[^F44]: Sch. 1 entry omitted (13.11.2009) by virtue of Secretary of State for Business, Innovation and Skills Order 2009 (S.I. 2009/2748), art. 1(2), Sch. para. 8(c) (with art. 7)
+[^F45]: Words in Sch. 1 omitted (30.9.2020) by virtue of The Transfer of Functions (Secretary of State for Foreign, Commonwealth and Development Affairs) Order 2020 (S.I. 2020/942), art. 1(2), Sch. para. 6(a)
+[^F46]: Words in Sch. 1 omitted (30.10.2024) by virtue of The Transfer of Functions (Secretary of State for Housing, Communities and Local Government) Order 2024 (S.I. 2024/991), art. 1(2), Sch. para. 10(a) (with art. 7)
+[^F47]: Words in Sch. 1 inserted (11.4.2018) by The Secretaries of State for Health and Social Care and for Housing, Communities and Local Government and Transfer of Functions (Commonhold Land) Order 2018 (S.I. 2018/378), art. 1(2), Sch. para. 13(b) (with art. 14)
+[^F48]: Words in Sch. 1 substituted (30.9.2020) by The Transfer of Functions (Secretary of State for Foreign, Commonwealth and Development Affairs) Order 2020 (S.I. 2020/942), art. 1(2), Sch. para. 6(b)
+[^F49]: Words in Sch. 1 omitted (8.12.2021) by virtue of The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265), art. 1(2), Sch. 2 para. 18(a) (with art. 12)
+[^F50]: Words in Sch. 1 inserted (30.10.2024) by The Transfer of Functions (Secretary of State for Housing, Communities and Local Government) Order 2024 (S.I. 2024/991), art. 1(2), Sch. para. 10(b) (with art. 7)
+[^F51]: Words in Sch. 1 inserted (6.4.2008) by Corporate Manslaughter and Corporate Homicide Act 2007 (Amendment of Schedule 1) Order 2008 (S.I. 2008/396), arts. 1, 2(2)
+[^F52]: Words in Sch. 1 inserted (7.10.2013) by Crime and Courts Act 2013 (c. 22), s. 61(2), Sch. 8 para. 175; S.I. 2013/1682, art. 3(v)
+[^F53]: Words in Sch. 1 omitted (1.4.2012) by virtue of Budget Responsibility and National Audit Act 2011 (c. 4), s. 29, Sch. 5 para. 32 (with para. 32(2), Sch.); S.I. 2011/2576, art. 5
+[^F54]: Words in Sch. 1 omitted (12.4.2010) by virtue of The Northern Ireland Court Service (Abolition and Transfer of Functions) Order (Northern Ireland) 2010 (S.R. 2010/133), art. 1, Sch. para. 11 (with arts. 5-7)
+[^F55]: Words in Sch. 1 omitted (27.3.2014) by virtue of The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834), art. 1(1), Sch. 2 para. 44

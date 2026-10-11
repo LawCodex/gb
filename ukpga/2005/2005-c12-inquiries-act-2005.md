@@ -1,0 +1,1493 @@
+---
+title: "Inquiries Act 2005"
+identifier: "ukpga/2005/12"
+citation: "2005 c. 12"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S+N.I."
+date: 2005-04-07
+last_amended: 2024-01-01
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/2005/12"
+source_modified: 2024-01-25
+retrieved: 2026-10-11
+---
+
+# Inquiries Act 2005
+
+**2005 c. 12**
+
+An Act to make provision about the holding of inquiries.
+
+[7th April 2005]
+
+Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## Constitution of inquiry
+
+### 1 Power to establish inquiry
+
+(1) A Minister may cause an inquiry to be held under this Act in relation to a case where it appears to him that—
+
+(a) particular events have caused, or are capable of causing, public concern, or
+
+(b) there is public concern that particular events may have occurred.
+
+(2) In this Act “Minister” means—
+
+(a) a United Kingdom Minister;
+
+(b) the Scottish Ministers;
+
+[[^F1](ba) the Welsh Ministers;]
+
+[^F1]c a Northern Ireland Minister;
+
+[^F2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) References in this Act to an inquiry, except where the context requires otherwise, are to an inquiry under this Act.
+
+### 2 No determination of liability
+
+(1) An inquiry panel is not to rule on, and has no power to determine, any person's civil or criminal liability.
+
+(2) But an inquiry panel is not to be inhibited in the discharge of its functions by any likelihood of liability being inferred from facts that it determines or recommendations that it makes.
+
+### 3 The inquiry panel
+
+(1) An inquiry is to be undertaken either—
+
+(a) by a chairman alone, or
+
+(b) by a chairman with one or more other members.
+
+(2) References in this Act to an inquiry panel are to the chairman and any other member or members.
+
+### 4 Appointment of inquiry panel
+
+(1) Each member of an inquiry panel is to be appointed by the Minister by an instrument in writing.
+
+(2) The instrument appointing the chairman must state that the inquiry is to be held under this Act.
+
+(3) Before appointing a member to the inquiry panel (otherwise than as chairman) the Minister must consult the person he has appointed, or proposes to appoint, as chairman.
+
+### 5 Setting-up date and terms of reference
+
+(1) In the instrument under section 4 appointing the chairman, or by a notice given to him within a reasonable time afterwards, the Minister must—
+
+(a) specify the date that is to be the setting-up date for the purposes of this Act; and
+
+(b) before that date—
+
+(i) set out the terms of reference of the inquiry;
+
+(ii) state whether or not the Minister proposes to appoint other members to the inquiry panel, and if so how many.
+
+(2) An inquiry must not begin considering evidence before the setting-up date.
+
+(3) The Minister may at any time after setting out the terms of reference under this section amend them if he considers that the public interest so requires.
+
+(4) Before setting out or amending the terms of reference the Minister must consult the person he proposes to appoint, or has appointed, as chairman.
+
+(5) Functions conferred by this Act on an inquiry panel, or a member of an inquiry panel, are exercisable only within the inquiry's terms of reference.
+
+(6) In this Act “terms of reference”, in relation to an inquiry under this Act, means—
+
+(a) the matters to which the inquiry relates;
+
+(b) any particular matters as to which the inquiry panel is to determine the facts;
+
+(c) whether the inquiry panel is to make recommendations;
+
+(d) any other matters relating to the scope of the inquiry that the Minister may specify.
+
+### 6 Minister's duty to inform Parliament or Assembly
+
+(1) A Minister who proposes to cause an inquiry to be held, or who has already done so without making a statement under this section, must as soon as is reasonably practicable make a statement to that effect to the relevant Parliament or Assembly.
+
+(2) A statement under subsection (1) must state—
+
+(a) who is to be, or has been, appointed as chairman of the inquiry;
+
+(b) whether the Minister has appointed, or proposes to appoint, any other members to the inquiry panel, and if so how many;
+
+(c) what are to be, or are, the inquiry's terms of reference.
+
+(3) Where the terms of reference of an inquiry are amended under section 5(3), the Minister must, as soon as is reasonably practicable, make a statement to the relevant Parliament or Assembly setting out the amended terms of reference.
+
+(4) A statement under this section may be oral or written.
+
+### 7 Further appointments to inquiry panel
+
+(1) The Minister may at any time (whether before the setting-up date or during the course of the inquiry) appoint a member to the inquiry panel—
+
+(a) to fill a vacancy that has arisen in the panel (including a vacancy in the position of chairman), or
+
+(b) to increase the number of members of the panel.
+
+(2) The power to appoint a member under subsection (1)(b) is exercisable only—
+
+(a) in accordance with a proposal under section 5(1)(b)(ii), or
+
+(b) with the consent of the chairman.
+
+(3) The power to appoint a replacement chairman may be exercised by appointing a person who is already a member of the inquiry panel.
+
+### 8 Suitability of inquiry panel
+
+(1) In appointing a member of the inquiry panel, the Minister must have regard—
+
+(a) to the need to ensure that the inquiry panel (considered as a whole) has the necessary expertise to undertake the inquiry;
+
+(b) in the case of an inquiry panel consisting of a chairman and one or more other members, to the need for balance (considered against the background of the terms of reference) in the composition of the panel.
+
+(2) For the purposes of subsection (1)(a) the Minister may have regard to the assistance that may be provided to the inquiry panel by any assessor whom the Minister proposes to appoint, or has appointed, under section 11.
+
+### 9 Requirement of impartiality
+
+(1) The Minister must not appoint a person as a member of the inquiry panel if it appears to the Minister that the person has—
+
+(a) a direct interest in the matters to which the inquiry relates, or
+
+(b) a close association with an interested party,
+
+unless, despite the person's interest or association, his appointment could not reasonably be regarded as affecting the impartiality of the inquiry panel.
+
+(2) Before a person is appointed as a member of an inquiry panel he must notify the Minister of any matters that, having regard to subsection (1), could affect his eligibility for appointment.
+
+(3) If at any time (whether before the setting-up date or during the course of the inquiry) a member of the inquiry panel becomes aware that he has an interest or association falling within paragraph (a) or (b) of subsection (1), he must notify the Minister.
+
+(4) A member of the inquiry panel must not, during the course of the inquiry, undertake any activity that could reasonably be regarded as affecting his suitability to serve as such.
+
+### 10 Appointment of judge as panel member
+
+(1) If the Minister proposes to appoint as a member of an inquiry panel a particular person who is a judge of a description specified in the first column of the following table, he must first consult the person specified in the second column.
+
+|  |  |
+|---|---|
+| *Description of judge* | *Person to be consulted* |
+| Lord of Appeal in Ordinary | The senior Lord of Appeal in Ordinary |
+| Judge of the Supreme Court of England and Wales, or Circuit judge | The Lord Chief Justice of England and Wales |
+| Judge of the Court of Session, sheriff principal [[^F3], sheriff or summary sheriff] | The Lord President of the Court of Session |
+| Judge of the Supreme Court of Northern Ireland, or county court judge in Northern Ireland | The Lord Chief Justice of Northern Ireland |
+
+(2) [^F4] In this section “ [^F4]sheriff principal[^F4] ” and “ [^F4]sheriff[^F4] ” have the same meaning as in the Sheriff Courts (Scotland) Act 1971 (c. 58).
+
+### 11 Assessors
+
+(1) One or more persons may be appointed to act as assessors to assist the inquiry panel.
+
+(2) The power to appoint assessors is exercisable—
+
+(a) before the setting-up date, by the Minister;
+
+(b) during the course of the inquiry, by the chairman (whether or not the Minister has appointed assessors).
+
+(3) Before exercising his powers under subsection (2)(a) the Minister must consult the person he proposes to appoint, or has appointed, as chairman.
+
+(4) A person may be appointed as an assessor only if it appears to the Minister or the chairman (as the case requires) that he has expertise that makes him a suitable person to provide assistance to the inquiry panel.
+
+(5) The chairman may at any time terminate the appointment of an assessor, but only with the consent of the Minister in the case of an assessor appointed by the Minister.
+
+### 12 Duration of appointment of members of inquiry panel
+
+(1) Subject to the following provisions of this section, a member of an inquiry panel remains a member until the inquiry comes to an end (or until his death if he dies before then).
+
+(2) A member of an inquiry panel may at any time resign his appointment by notice to the Minister.
+
+(3) The Minister may at any time by notice terminate the appointment of a member of an inquiry panel—
+
+(a) on the ground that, by reason of physical or mental illness or for any other reason, the member is unable to carry out the duties of a member of the inquiry panel;
+
+(b) on the ground that the member has failed to comply with any duty imposed on him by this Act;
+
+(c) on the ground that the member has—
+
+(i) a direct interest in the matters to which the inquiry relates, or
+
+(ii) a close association with an interested party,
+
+such that his membership of the inquiry panel could reasonably be regarded as affecting its impartiality;
+
+(d) on the ground that the member has, since his appointment, been guilty of any misconduct that makes him unsuited to membership of the inquiry panel.
+
+(4) In determining whether subsection (3)(a) applies in a case where the inability to carry out the duties is likely to be temporary, the Minister may have regard to the likely duration of the inquiry.
+
+(5) The Minister may not terminate a member's appointment under subsection (3)(c) if the Minister was aware of the interest or association in question when appointing him.
+
+(6) Before exercising his powers under subsection (3) in relation to a member other than the chairman, the Minister must consult the chairman.
+
+(7) Before exercising his powers under subsection (3) in relation to any member of the inquiry panel, the Minister must—
+
+(a) inform the member of the proposed decision and of the reasons for it, and take into account any representations made by the member in response, and
+
+(b) if the member so requests, consult the other members of the inquiry panel (to the extent that no obligation to consult them arises under subsection (6)).
+
+### 13 Power to suspend inquiry
+
+(1) The Minister may at any time, by notice to the chairman, suspend an inquiry for such period as appears to him to be necessary to allow for—
+
+(a) the completion of any other investigation relating to any of the matters to which the inquiry relates, or
+
+(b) the determination of any civil or criminal proceedings (including proceedings before a disciplinary tribunal) arising out of any of those matters.
+
+(2) The power conferred by subsection (1) may be exercised whether or not the investigation or proceedings have begun.
+
+(3) Before exercising that power the Minister must consult the chairman.
+
+(4) A notice under subsection (1) may suspend the inquiry until a specified day, until the happening of a specified event or until the giving by the Minister of a further notice to the chairman.
+
+(5) Where the Minister gives a notice under subsection (1) he must—
+
+(a) set out in the notice his reasons for suspending the inquiry;
+
+(b) lay a copy of the notice, as soon as is reasonably practicable, before the relevant Parliament or Assembly.
+
+(6) A member of an inquiry panel may not exercise the powers conferred by this Act during any period of suspension; but the duties imposed on a member of an inquiry panel by section 9(3) and (4) continue during any such period.
+
+(7) In this section “period of suspension” means the period beginning with the receipt by the chairman of the notice under subsection (1) and ending with whichever of the following is applicable—
+
+(a) the day referred to in subsection (4);
+
+(b) the happening of the event referred to in that subsection;
+
+(c) the receipt by the chairman of the further notice under that subsection.
+
+### 14 End of inquiry
+
+(1) For the purposes of this Act an inquiry comes to an end—
+
+(a) on the date, after the delivery of the report of the inquiry, on which the chairman notifies the Minister that the inquiry has fulfilled its terms of reference, or
+
+(b) on any earlier date specified in a notice given to the chairman by the Minister.
+
+(2) The date specified in a notice under subsection (1)(b) may not be earlier than the date on which the notice is sent.
+
+(3) Before exercising his power under subsection (1)(b) the Minister must consult the chairman.
+
+(4) Where the Minister gives a notice under subsection (1)(b) he must—
+
+(a) set out in the notice his reasons for bringing the inquiry to an end;
+
+(b) lay a copy of the notice, as soon as is reasonably practicable, before the relevant Parliament or Assembly.
+
+## Conversion of inquiries
+
+### 15 Power to convert other inquiry into inquiry under this Act
+
+(1) Where—
+
+(a) an inquiry (“the original inquiry”) is being held, or is due to be held, by one or more persons appointed otherwise than under this Act,
+
+(b) a Minister gives a notice under this section to those persons, and
+
+(c) the person who caused the original inquiry to be held consents,
+
+the original inquiry becomes an inquiry under this Act as from the date of the notice or such later date as may be specified in the notice (the “date of conversion”).
+
+(2) The power conferred by this section is exercisable only if the original inquiry relates to a case where it appears to the Minister that—
+
+(a) particular events have caused, or are capable of causing, public concern, or
+
+(b) there is public concern that particular events may have occurred.
+
+(3) Before exercising that power the Minister must consult the chairman.
+
+(4) A notice under this section must—
+
+(a) state that, as from the date of conversion, the inquiry is to be held under this Act;
+
+(b) in the case of an inquiry panel consisting of more than one member, identify who is to be chairman of the panel;
+
+(c) set out what are to be the terms of reference of the inquiry.
+
+(5) The terms of reference set out under subsection (4) may be different from those of the original inquiry.
+
+(6) The Minister may at any time after setting out the terms of reference under this section amend them if he considers that the public interest so requires.
+
+(7) The Minister must consult the chairman before—
+
+(a) setting out terms of reference that are different from those of the original inquiry, or
+
+(b) amending the terms of reference under subsection (6).
+
+(8) Section 6 applies, with any necessary modifications, in relation to—
+
+(a) converting an inquiry under this section, or
+
+(b) amending an inquiry's terms of reference under subsection (6),
+
+as it applies in relation to causing an inquiry to be held, or amending an inquiry's terms of reference under section 5(3).
+
+### 16 Inquiries converted under section 15
+
+(1) This section applies where an inquiry (the “original inquiry”) is converted under section 15 into an inquiry under this Act.
+
+(2) The appointment of a person who at the date of conversion is—
+
+(a) one of the persons holding, or due to hold, the original inquiry (an “original member”),
+
+(b) an assessor, counsel or solicitor to the inquiry, or
+
+(c) a person engaged to provide assistance to the inquiry,
+
+continues as if made under this Act, and for the purposes of section 12(5) is treated as made by the Minister on the date of conversion.
+
+(3) Any obligation arising under an order of the original inquiry, or otherwise in connection with that inquiry, is enforceable only as it would be if the original inquiry had not been converted.
+
+(4) No rights or obligations arise under or by virtue of this Act before the date of conversion.
+
+## Inquiry proceedings
+
+### 17 Evidence and procedure
+
+(1) Subject to any provision of this Act or of rules under section 41, the procedure and conduct of an inquiry are to be such as the chairman of the inquiry may direct.
+
+(2) In particular, the chairman may take evidence on oath, and for that purpose may administer oaths.
+
+(3) In making any decision as to the procedure or conduct of an inquiry, the chairman must act with fairness and with regard also to the need to avoid any unnecessary cost (whether to public funds or to witnesses or others).
+
+### 18 Public access to inquiry proceedings and information
+
+(1) Subject to any restrictions imposed by a notice or order under section 19, the chairman must take such steps as he considers reasonable to secure that members of the public (including reporters) are able—
+
+(a) to attend the inquiry or to see and hear a simultaneous transmission of proceedings at the inquiry;
+
+(b) to obtain or to view a record of evidence and documents given, produced or provided to the inquiry or inquiry panel.
+
+(2) No recording or broadcast of proceedings at an inquiry may be made except—
+
+(a) at the request of the chairman, or
+
+(b) with the permission of the chairman and in accordance with any terms on which permission is given.
+
+Any such request or permission must be framed so as not to enable a person to see or hear by means of a recording or broadcast anything that he is prohibited by a notice under section 19 from seeing or hearing.
+
+(3) Section 32(2) of the Freedom of Information Act 2000 (c. 36) (certain inquiry records etc exempt from obligations under that Act) does not apply in relation to information contained in documents that, in pursuance of rules under section 41(1)(b) below, have been passed to and are held by a public authority.
+
+(4) Section 37(1)(b) of the Freedom of Information (Scotland) Act 2002 (asp 13) (certain inquiry records etc exempt from obligations under that Act) does not apply in relation to information contained in documents that, in pursuance of rules under section 41(1)(b) below, have been passed to and are held by a Scottish public authority.
+
+### 19 Restrictions on public access etc
+
+(1) Restrictions may, in accordance with this section, be imposed on—
+
+(a) attendance at an inquiry, or at any particular part of an inquiry;
+
+(b) disclosure or publication of any evidence or documents given, produced or provided to an inquiry.
+
+(2) Restrictions may be imposed in either or both of the following ways—
+
+(a) by being specified in a notice (a “restriction notice”) given by the Minister to the chairman at any time before the end of the inquiry;
+
+(b) by being specified in an order (a “restriction order”) made by the chairman during the course of the inquiry.
+
+(3) A restriction notice or restriction order must specify only such restrictions—
+
+(a) as are required by any statutory provision, [[^F5][[^F6]assimilated enforceable] obligation] or rule of law, or
+
+(b) as the Minister or chairman considers to be conducive to the inquiry fulfilling its terms of reference or to be necessary in the public interest, having regard in particular to the matters mentioned in subsection (4).
+
+(4) Those matters are—
+
+(a) the extent to which any restriction on attendance, disclosure or publication might inhibit the allaying of public concern;
+
+(b) any risk of harm or damage that could be avoided or reduced by any such restriction;
+
+(c) any conditions as to confidentiality subject to which a person acquired information that he is to give, or has given, to the inquiry;
+
+(d) the extent to which not imposing any particular restriction would be likely—
+
+(i) to cause delay or to impair the efficiency or effectiveness of the inquiry, or
+
+(ii) otherwise to result in additional cost (whether to public funds or to witnesses or others).
+
+(5) In subsection (4)(b) “harm or damage” includes in particular—
+
+(a) death or injury;
+
+(b) damage to national security or international relations;
+
+(c) damage to the economic interests of the United Kingdom or of any part of the United Kingdom;
+
+(d) damage caused by disclosure of commercially sensitive information.
+
+### 20 Further provisions about restriction notices and orders
+
+(1) Restrictions specified in a restriction notice have effect in addition to any already specified, whether in an earlier restriction notice or in a restriction order.
+
+(2) Restrictions specified in a restriction order have effect in addition to any already specified, whether in an earlier restriction order or in a restriction notice.
+
+(3) The Minister may vary or revoke a restriction notice by giving a further notice to the chairman at any time before the end of the inquiry.
+
+(4) The chairman may vary or revoke a restriction order by making a further order during the course of the inquiry.
+
+(5) Restrictions imposed under section 19 on disclosure or publication of evidence or documents (“disclosure restrictions”) continue in force indefinitely, unless—
+
+(a) under the terms of the relevant notice or order the restrictions expire at the end of the inquiry, or at some other time, or
+
+(b) the relevant notice or order is varied or revoked under subsection (3), (4) or (7).
+
+This is subject to subsection (6).
+
+(6) After the end of the inquiry, disclosure restrictions do not apply to a public authority, or a Scottish public authority, in relation to information held by the authority otherwise than as a result of the breach of any such restrictions.
+
+(7) After the end of an inquiry the Minister may, by a notice published in a way that he considers suitable—
+
+(a) revoke a restriction order or restriction notice containing disclosure restrictions that are still in force, or
+
+(b) vary it so as to remove or relax any of the restrictions.
+
+(8) In this section “restriction notice” and “restriction order” have the meaning given by section 19(2).
+
+### 21 Powers of chairman to require production of evidence etc
+
+(1) The chairman of an inquiry may by notice require a person to attend at a time and place stated in the notice—
+
+(a) to give evidence;
+
+(b) to produce any documents in his custody or under his control that relate to a matter in question at the inquiry;
+
+(c) to produce any other thing in his custody or under his control for inspection, examination or testing by or on behalf of the inquiry panel.
+
+(2) The chairman may by notice require a person, within such period as appears to the inquiry panel to be reasonable—
+
+(a) to provide evidence to the inquiry panel in the form of a written statement;
+
+(b) to provide any documents in his custody or under his control that relate to a matter in question at the inquiry;
+
+(c) to produce any other thing in his custody or under his control for inspection, examination or testing by or on behalf of the inquiry panel.
+
+(3) A notice under subsection (1) or (2) must—
+
+(a) explain the possible consequences of not complying with the notice;
+
+(b) indicate what the recipient of the notice should do if he wishes to make a claim within subsection (4).
+
+(4) A claim by a person that—
+
+(a) he is unable to comply with a notice under this section, or
+
+(b) it is not reasonable in all the circumstances to require him to comply with such a notice,
+
+is to be determined by the chairman of the inquiry, who may revoke or vary the notice on that ground.
+
+(5) In deciding whether to revoke or vary a notice on the ground mentioned in subsection (4)(b), the chairman must consider the public interest in the information in question being obtained by the inquiry, having regard to the likely importance of the information.
+
+(6) For the purposes of this section a thing is under a person's control if it is in his possession or if he has a right to possession of it.
+
+### 22 Privileged information etc
+
+(1) A person may not under section 21 be required to give, produce or provide any evidence or document if—
+
+(a) he could not be required to do so if the proceedings of the inquiry were civil proceedings in a court in the relevant part of the United Kingdom, or
+
+(b) the requirement would be incompatible with [[^F7][[^F8]an assimilated] obligation].
+
+(2) The rules of law under which evidence or documents are permitted or required to be withheld on grounds of public interest immunity apply in relation to an inquiry as they apply in relation to civil proceedings in a court in the relevant part of the United Kingdom.
+
+### 23 Risk of damage to the economy
+
+(1) This section applies where it is submitted to an inquiry panel, on behalf of the Crown, the [[^F9]Financial Conduct Authority, the Prudential Regulation Authority] or the Bank of England, that there is information held by any person which, in order to avoid a risk of damage to the economy, ought not to be revealed.
+
+(2) The panel must not permit or require the information to be revealed, or cause it to be revealed, unless satisfied that the public interest in the information being revealed outweighs the public interest in avoiding a risk of damage to the economy.
+
+(3) In making a decision under this section the panel must take account of any restriction notice given under section 19 or any restriction order that the chairman has made or proposes to make under that section.
+
+(4) In this section—
+
+- “damage to the economy” means damage to the economic interests of the United Kingdom or of any part of the United Kingdom;
+- “revealed” means revealed to anyone who is not a member of the inquiry panel.
+
+(5) This section does not prevent the inquiry panel from communicating any information in confidence to the Minister.
+
+(6) This section does not affect the rules of law referred to in section 22(2).
+
+## Inquiry reports
+
+### 24 Submission of reports
+
+(1) The chairman of an inquiry must deliver a report to the Minister setting out—
+
+(a) the facts determined by the inquiry panel;
+
+(b) the recommendations of the panel (where the terms of reference required it to make recommendations).
+
+The report may also contain anything else that the panel considers to be relevant to the terms of reference (including any recommendations the panel sees fit to make despite not being required to do so by the terms of reference).
+
+(2) In relation to an inquiry that is brought to an end under section 14(1)(b), the duty imposed by subsection (1) to deliver a report is to be read as a power to do so.
+
+(3) Before making a report under subsection (1) the chairman may deliver to the Minister a report under this subsection (an “interim report”) containing anything that a report under subsection (1) may contain.
+
+(4) A report of an inquiry must be signed by each member of the inquiry panel.
+
+(5) If the inquiry panel is unable to produce a unanimous report, the report must reasonably reflect the points of disagreement.
+
+(6) In subsections (4) and (5) “report” includes an interim report.
+
+### 25 Publication of reports
+
+(1) It is the duty of the Minister, or the chairman if subsection (2) applies, to arrange for reports of an inquiry to be published.
+
+(2) This subsection applies if—
+
+(a) the Minister notifies the chairman before the setting-up date that the chairman is to have responsibility for arranging publication, or
+
+(b) at any time after that date the chairman, on being invited to do so by the Minister, accepts responsibility for arranging publication.
+
+(3) Subject to subsection (4), a report of an inquiry must be published in full.
+
+(4) The person whose duty it is to arrange for a report to be published may withhold material in the report from publication to such extent—
+
+(a) as is required by any statutory provision, [[^F10][[^F11]assimilated enforceable] obligation] or rule of law, or
+
+(b) as the person considers to be necessary in the public interest, having regard in particular to the matters mentioned in subsection (5).
+
+(5) Those matters are—
+
+(a) the extent to which withholding material might inhibit the allaying of public concern;
+
+(b) any risk of harm or damage that could be avoided or reduced by withholding any material;
+
+(c) any conditions as to confidentiality subject to which a person acquired information that he has given to the inquiry.
+
+(6) In subsection (5)(b) “harm or damage” includes in particular—
+
+(a) death or injury;
+
+(b) damage to national security or international relations;
+
+(c) damage to the economic interests of the United Kingdom or of any part of the United Kingdom;
+
+(d) damage caused by disclosure of commercially sensitive information.
+
+(7) Subsection (4)(b) does not affect any obligation of the Minister, or any other public authority or Scottish public authority, that may arise under the Freedom of Information Act 2000 (c. 36) or the Freedom of Information (Scotland) Act 2002 (asp 13).
+
+(8) In this section “report” includes an interim report.
+
+### 26 Laying of reports before Parliament or Assembly
+
+Whatever is required to be published under section 25 must be laid by the Minister, either at the time of publication or as soon afterwards as is reasonably practicable, before the relevant Parliament or Assembly.
+
+## Scotland, Wales and Northern Ireland
+
+### 27 United Kingdom inquiries
+
+(1) This section applies to an inquiry for which a United Kingdom Minister is responsible.
+
+(2) The Minister may not, without first consulting the relevant administration, include in the terms of reference anything that would require the inquiry—
+
+(a) to determine any fact that is wholly or primarily concerned with a Scottish matter or a Welsh matter;
+
+(b) to determine any fact that is wholly or primarily concerned with a matter which is, and was at the relevant time, a transferred Northern Ireland matter;
+
+(c) to make any recommendation that is wholly or primarily concerned with a Scottish matter, a Welsh matter or a transferred Northern Ireland matter.
+
+(3) Unless the Minister gives written permission to the chairman, the powers conferred by section 21 are not exercisable—
+
+(a) in respect of evidence, documents or other things that are wholly or primarily concerned with—
+
+(i) a Scottish matter or a Welsh matter, or
+
+(ii) a matter which is, and was at the relevant time, a Northern Ireland matter;
+
+(b) so as to require any evidence, document or other thing to be given, produced or provided by or on behalf of the Scottish Ministers, the [[^F12]Welsh Ministers][^F12] or a Northern Ireland Minister.
+
+(4) Before granting permission under subsection (3) the Minister must consult the relevant administration.
+
+(5) Permission under subsection (3) may be granted subject to such conditions or qualifications as the Minister may specify.
+
+(6) Permission under subsection (3) is not required for the exercise of powers in circumstances in which subsection (6) of section 30 would prevent the powers from being exercised in the case of an inquiry to which that section applies.
+
+(7) In this section—
+
+- “Northern Ireland matter” means—
+
+  - (a) a transferred Northern Ireland matter, or
+  - (b) a matter falling within section 44(2)(b) of the Northern Ireland Act 1998 (c. 47) (matters in relation to which statutory functions are exercisable by Northern Ireland Ministers etc);
+
+- [^F13] “the relevant administration” means whichever of the following the case requires—
+
+  - (a) the Scottish Ministers;
+  - (b) the National Assembly for Wales;
+  - (c) such one or more Northern Ireland Ministers as appear to the Minister to be appropriate;
+
+- “the relevant time” means the time when the fact or event in question occurred (or is alleged to have occurred);
+
+- “Scottish matter” means a matter that relates to Scotland and is not a reserved matter within the meaning of the Scotland Act 1998 (c. 46);
+
+- “transferred Northern Ireland matter” means a matter that relates to Northern Ireland and is a transferred matter within the meaning of the Northern Ireland Act 1998 (c. 47) (or, in relation to any time when Part 1 of the Northern Ireland Constitution Act 1973 (c. 36) was in force, within the meaning of that Act);
+
+- “Welsh matter” means a matter in relation to which the [[^F14]Welsh Ministers have][^F14] functions.
+
+### 28 Scottish inquiries
+
+(1) This section applies to an inquiry for which the Scottish Ministers are responsible.
+
+(2) The terms of reference of the inquiry must not require it to determine any fact or to make any recommendation that is not wholly or primarily concerned with a Scottish matter.
+
+(3) The powers conferred by section 21 are exercisable only—
+
+(a) in respect of evidence, documents or other things that are wholly or primarily concerned with a Scottish matter, or
+
+(b) for the purpose of inquiring into something that is wholly or primarily a Scottish matter.
+
+(4) Those powers are not exercisable so as to require any evidence, document or other thing to be given, produced or provided by or on behalf of Her Majesty's Government in the United Kingdom, the [[^F15]Welsh Ministers][^F15] or a Northern Ireland Minister.
+
+(5) In this section “Scottish matter” means a matter that relates to Scotland and is not a reserved matter (within the meaning of the Scotland Act 1998).
+
+### 29 Welsh inquiries
+
+(1) This section applies to an inquiry for which the [[^F16]Welsh Ministers are][^F16] responsible.
+
+(2) The terms of reference of the inquiry must not require it to determine any fact or to make any recommendation that is not wholly or primarily concerned with a Welsh matter.
+
+(3) The powers conferred by section 21 are exercisable only—
+
+(a) in respect of evidence, documents or other things that are wholly or primarily concerned with a Welsh matter, or
+
+(b) for the purpose of inquiring into something that is wholly or primarily a Welsh matter.
+
+(4) Those powers are not exercisable so as to require any evidence, document or other thing to be given, produced or provided by or on behalf of Her Majesty's Government in the United Kingdom, the Scottish Ministers or a Northern Ireland Minister.
+
+(5) In this section “Welsh matter” means a matter in relation to which the [[^F17]Welsh Ministers have][^F17] functions.
+
+### 30 Northern Ireland inquiries
+
+(1) This section applies to an inquiry for which a Northern Ireland Minister is responsible.
+
+(2) The terms of reference of the inquiry must not require it—
+
+(a) to determine any fact that is not wholly or primarily concerned with a matter which is, and was at the relevant time, a Northern Ireland matter, or
+
+(b) to make any recommendation that is not wholly or primarily concerned with a Northern Ireland matter.
+
+(3) The Minister may not, without the consent of the Secretary of State, include in the terms of reference anything that would require the inquiry to inquire into events occurring—
+
+(a) before 2nd December 1999 (the “appointed day” for the purposes of the Northern Ireland Act 1998 (c. 47)), or
+
+(b) during a period when section 1 of the Northern Ireland Act 2000 (c. 1) is in force (suspension of devolved government in Northern Ireland).
+
+(4) The powers conferred by section 21 are exercisable only—
+
+(a) in respect of evidence, documents or other things that are wholly or primarily concerned with a matter which is, and was at the relevant time, a Northern Ireland matter, or
+
+(b) for the purpose of inquiring into something that is, and was at the relevant time, wholly or primarily a Northern Ireland matter.
+
+(5) Those powers are not exercisable so as to require any evidence, document or other thing to be given, produced or provided by or on behalf of Her Majesty's Government in the United Kingdom, the Scottish Ministers or the [[^F18]Welsh Ministers][^F18].
+
+(6) Powers conferred by section 21 that would not be exercisable but for subsection (8)(b) below are not exercisable in circumstances in which [[^F19]any of subsections (3) to (5)][^F19] of section 44 of the Northern Ireland Act 1998 (power of Assembly to call for witnesses and documents) would prevent the power in subsection (1) of that section from being exercised.
+
+(7) The inquiry must not consider evidence or make recommendations about any matter falling within paragraph 17 of Schedule 2 to the Northern Ireland Act 1998 (excepted matters: national security etc).
+
+(8) In this section “Northern Ireland matter” means—
+
+(a) a matter that relates to Northern Ireland and is a transferred matter within the meaning of the Northern Ireland Act 1998 (or, in relation to any time when Part 1 of the Northern Ireland Constitution Act 1973 (c. 36) was in force, within the meaning of that Act), or
+
+(b) a matter falling within section 44(2)(b) of the Northern Ireland Act 1998 (matters in relation to which statutory functions are exercisable by Northern Ireland Ministers etc).
+
+(9) In this section “the relevant time” means the time when the fact or event in question occurred (or is alleged to have occurred).
+
+### 31 The relevant part of the United Kingdom and the applicable rules
+
+(1) The Minister responsible for an inquiry must specify whether the relevant part of the United Kingdom in relation to the inquiry is—
+
+(a) England and Wales,
+
+(b) Scotland, or
+
+(c) Northern Ireland.
+
+(2) The Ministers responsible for an inquiry that—
+
+(a) is one to which section 33 applies, and
+
+(b) would (but for this subsection) be subject to more than one set of rules,
+
+must specify which of those sets, or what combination of rules from more than one of those sets, is to apply.
+
+(3) In subsection (2) “set of rules” means the rules made by virtue of a particular paragraph of section 41(3).
+
+(4) If in the case of an inquiry (other than one to which section 33 applies) for which a United Kingdom Minister is responsible—
+
+(a) the Minister specifies that the relevant part of the United Kingdom is Scotland,
+
+(b) the Minister specifies that the relevant part of the United Kingdom is England and Wales, and the inquiry is expected to be held wholly or partly in Wales, or
+
+(c) the Minister specifies that the relevant part of the United Kingdom is Northern Ireland,
+
+he may if he thinks fit specify that some or all of the rules that are to apply are rules made by virtue of paragraph (b), (c) or (d) (as appropriate) of section 41(3).
+
+(5) The relevant part of the United Kingdom and, where subsection (2) or (4) applies, the applicable rules must be specified no later than the setting-up date or, as the case may be, the date of conversion.
+
+## Inquiries for which more than one Minister responsible
+
+### 32 Joint inquiries
+
+(1) The power under section 1 to cause an inquiry to be held, or to convert an inquiry under section 15, is exercisable by two or more Ministers acting jointly.
+
+(2) In this Act “joint inquiry” means an inquiry for which by virtue of this section, or section 34, two or more Ministers are responsible.
+
+(3) In the case of a joint inquiry—
+
+(a) powers conferred on a Minister by any provision of this Act (except section 41) are exercisable by the Ministers in question acting jointly;
+
+(b) duties imposed by this Act on a Minister are joint duties of those Ministers.
+
+(4) Subsection (3)(b), so far as relating to obligations under section 39, is subject to any different arrangements that may be agreed by the Ministers in question.
+
+### 33 Inquiries involving more than one administration
+
+(1) This section applies to a joint inquiry for which the Ministers responsible (“the relevant Ministers”) are not all United Kingdom Ministers and are not all Northern Ireland Ministers.
+
+(2) A limitation imposed by section 27(2), 28(2), 29(2) or 30(2) or (3) on the terms of reference of an inquiry for which a particular Minister is responsible has effect only to the extent that it applies in relation to all of the relevant Ministers.
+
+(3) A limitation imposed by section 27(3), 28(3) or (4), 29(3) or (4) or 30(4) or (5) on the powers conferred on the chairman of an inquiry for which a particular Minister is responsible has effect only to the extent that it applies in relation to all of the relevant Ministers.
+
+(4) Subsections (6) and (7) of section 30 do not apply if at least one of the relevant Ministers is a United Kingdom Minister.
+
+### 34 Change of responsibility for inquiry
+
+(1) Each of the Ministers concerned may agree in writing that, as from a date specified in the agreement (“the specified date”), one or more Ministers should become, or cease to be, responsible for an inquiry.
+
+(2) Where an agreement is made under this section—
+
+(a) in relation to any time on or after the specified date, references in this Act to the Minister responsible for the inquiry are to be read in accordance with the agreement;
+
+(b) each of the Ministers concerned has obligations under section 39 only in relation to the period when that Minister was or is responsible for the inquiry.
+
+(3) Subsection (2)(b) is subject to any different arrangements that may be specified in the agreement under this section.
+
+(4) Where as a result of an agreement under this section the terms of reference of the inquiry fail to comply with an applicable limitation imposed by section 27(2), 28(2), 29(2) or 30(2) or (3), they are to be read subject to such modifications as are necessary to make them comply with the limitation.
+
+(5) In this section “the Ministers concerned” means the Ministers responsible for the inquiry before the specified date together with any who, under the agreement, are to become responsible for it as from that date.
+
+## Supplementary
+
+### 35 Offences
+
+(1) A person is guilty of an offence if he fails without reasonable excuse to do anything that he is required to do by a notice under section 21.
+
+(2) A person is guilty of an offence if during the course of an inquiry he does anything that is intended to have the effect of—
+
+(a) distorting or otherwise altering any evidence, document or other thing that is given, produced or provided to the inquiry panel, or
+
+(b) preventing any evidence, document or other thing from being given, produced or provided to the inquiry panel,
+
+or anything that he knows or believes is likely to have that effect.
+
+(3) A person is guilty of an offence if during the course of an inquiry—
+
+(a) he intentionally suppresses or conceals a document that is, and that he knows or believes to be, a relevant document, or
+
+(b) he intentionally alters or destroys any such document.
+
+For the purposes of this subsection a document is a “relevant document” if it is likely that the inquiry panel would (if aware of its existence) wish to be provided with it.
+
+(4) A person does not commit an offence under subsection (2) or (3) by doing anything that he is authorised or required to do—
+
+(a) by the inquiry panel, or
+
+(b) by virtue of section 22 or any privilege that applies.
+
+(5) Proceedings in England and Wales or in Northern Ireland for an offence under subsection (1) may be instituted only by the chairman.
+
+(6) Proceedings for an offence under subsection (2) or (3) may be instituted—
+
+(a) in England and Wales, only by or with the consent of the Director of Public Prosecutions;
+
+(b) in Northern Ireland, only by or with the consent of the Director of Public Prosecutions for Northern Ireland.
+
+(7) A person who is guilty of an offence under this section is liable on summary conviction to a fine not exceeding level three on the standard scale or to imprisonment for a term not exceeding the relevant maximum, or to both.
+
+(8) “The relevant maximum” is—
+
+(a) in England and Wales, 51 weeks;
+
+(b) in Scotland and Northern Ireland, six months.
+
+### 36 Enforcement by High Court or Court of Session
+
+(1) Where a person—
+
+(a) fails to comply with, or acts in breach of, a notice under section 19 or 21 or an order made by an inquiry, or
+
+(b) threatens to do so,
+
+the chairman of the inquiry, or after the end of the inquiry the Minister, may certify the matter to the appropriate court.
+
+(2) The court, after hearing any evidence or representations on a matter certified to it under subsection (1), may make such order by way of enforcement or otherwise as it could make if the matter had arisen in proceedings before the court.
+
+(3) In this section “the appropriate court” means the High Court or, in the case of an inquiry in relation to which the relevant part of the United Kingdom is Scotland, the Court of Session.
+
+### 37 Immunity from suit
+
+(1) No action lies against—
+
+(a) a member of an inquiry panel,
+
+(b) an assessor, counsel or solicitor to an inquiry, or
+
+(c) a person engaged to provide assistance to an inquiry,
+
+in respect of any act done or omission made in the execution of his duty as such, or any act done or omission made in good faith in the purported execution of his duty as such.
+
+(2) Subsection (1) applies only to acts done or omissions made during the course of the inquiry, otherwise than during any period of suspension (within the meaning of section 13).
+
+(3) For the purposes of the law of defamation, the same privilege attaches to—
+
+(a) any statement made in or for the purposes of proceedings before an inquiry (including the report and any interim report of the inquiry), and
+
+(b) reports of proceedings before an inquiry,
+
+as would be the case if those proceedings were proceedings before a court in the relevant part of the United Kingdom.
+
+### 38 Time limit for applying for judicial review
+
+(1) An application for judicial review of a decision made—
+
+(a) by the Minister in relation to an inquiry, or
+
+(b) by a member of an inquiry panel,
+
+must be brought within 14 days after the day on which the applicant became aware of the decision, unless that time limit is extended by the court.
+
+(2) Subsection (1) does not apply where an earlier time limit applies by virtue of Civil Procedure Rules or rules made under section 55 of the Judicature (Northern Ireland) Act 1978 (c. 23).
+
+(3) Subsection (1) does not apply to—
+
+(a) a decision as to the contents of the report of the inquiry;
+
+(b) a decision of which the applicant could not have become aware until the publication of the report.
+
+In this subsection “report” includes any interim report.
+
+(4) This section does not extend to Scotland.
+
+### 39 Payment of inquiry expenses by Minister
+
+(1) The Minister may agree to pay to—
+
+(a) the members of the inquiry panel,
+
+(b) any assessor, counsel or solicitor to the inquiry, and
+
+(c) any person engaged to provide assistance to the inquiry,
+
+such remuneration and expenses as the Minister may determine.
+
+(2) The Minister must pay any amounts awarded under section 40.
+
+(3) The Minister must meet any other expenses incurred in holding the inquiry, including the cost of publication of the report and any interim report of the inquiry (whether or not the chairman has responsibility for arranging publication).
+
+(4) Subsection (5) applies where the Minister—
+
+(a) believes that there are matters in respect of which an inquiry panel is acting outside the inquiry's terms of reference, or is likely to do, and
+
+(b) gives a notice to the chairman specifying those matters and the reasons for his belief.
+
+(5) Subject to provision made by rules under section 41, the Minister is not obliged under this section or otherwise to pay any amounts or to meet any expenses in so far as they are referable—
+
+(a) to any matters certified by the Minister, in accordance with such provision, to be outside the inquiry's terms of reference, and
+
+(b) to any period falling after the date on which the notice under subsection (4) was given.
+
+(6) Within a reasonable time after the end of the inquiry the Minister must publish the total amount of what he has paid (or remains liable to pay) under this section.
+
+### 40 Expenses of witnesses etc
+
+(1) The chairman may award reasonable amounts to a person—
+
+(a) by way of compensation for loss of time, or
+
+(b) in respect of expenses properly incurred, or to be incurred,
+
+in attending, or otherwise in relation to, the inquiry.
+
+(2) The power to make an award under this section includes power, where the chairman considers it appropriate, to award amounts in respect of legal representation.
+
+(3) A person is eligible for an award under this section only if he is—
+
+(a) a person attending the inquiry to give evidence or to produce any document or other thing, or
+
+(b) a person who, in the opinion of the chairman, has such a particular interest in the proceedings or outcome of the inquiry as to justify such an award.
+
+(4) The power to make an award under this section is subject to such conditions or qualifications as may be determined by the Minister and notified by him to the chairman.
+
+## General
+
+### 41 Rules
+
+(1) The appropriate authority may make rules dealing with—
+
+(a) matters of evidence and procedure in relation to inquiries;
+
+(b) the return or keeping, after the end of an inquiry, of documents given to or created by the inquiry;
+
+(c) awards under section 40.
+
+(2) Rules under subsection (1)(c) may in particular—
+
+(a) make provision as to how and by whom the amount of awards is to be assessed, including provision allowing the assessment to be undertaken by the inquiry panel or by such other person as the panel may nominate;
+
+(b) make provision for review of an assessment at the instance of a person dissatisfied with it.
+
+(3) The appropriate authority is—
+
+(a) the Lord Chancellor, as regards inquiries for which a United Kingdom Minister is responsible;
+
+(b) the Scottish Ministers, as regards inquiries for which they are responsible;
+
+(c) the [[^F20]Welsh Ministers][^F20], as regards inquiries for which [[^F21]they are][^F21] responsible;
+
+(d) the First Minister and deputy First Minister acting jointly, as regards inquiries for which a Northern Ireland Minister is responsible.
+
+(4) The power to make rules under this section is exercisable—
+
+(a) in the case of rules made by the Lord Chancellor, the [[^F22]Welsh Ministers][^F22] or the Scottish Ministers, by statutory instrument;
+
+(b) in the case of rules made by the First Minister and deputy First Minister, by statutory rule for the purposes of the Statutory Rules (Northern Ireland) Order 1979 (S.I. 1979/1573 (N.I. 12)).
+
+(5) A statutory instrument made under this section is subject to annulment—
+
+(a) if made by the Lord Chancellor, in pursuance of a resolution of either House of Parliament;
+
+[[^F23](aa) if made by the Welsh Ministers, in pursuance of a resolution of the National Assembly for Wales;]
+
+[^F23]b if made by the Scottish Ministers, in pursuance of a resolution of the Scottish Parliament.
+
+(6) A statutory rule made under this section is subject to negative resolution (within the meaning of section 41(6) of the Interpretation Act (Northern Ireland) 1954 (c. 33 (N.I.)).
+
+### 42 Notices etc
+
+A notice or notification under this Act must be given in writing.
+
+### 43 Interpretation
+
+(1) In this Act—
+
+- “assessor” means an assessor appointed under section 11;
+- [[^F24]“assimilated enforceable obligation” means an obligation (as modified from time to time) which forms part of assimilated law by virtue of section 3 of the European Union (Withdrawal) Act 2018;]
+- “chairman”, in relation to an inquiry, means the chairman of the inquiry;
+
+“the course of the inquiry” and similar expressions are to be read in accordance with subsection (2);
+
+- “date of conversion” has the meaning given by section 15(1);
+- “document” includes information recorded in any form (and see subsection (3));
+
+“event”, except in sections 13 and 46, includes any conduct or omission;
+
+“inquiry”, except where the context requires otherwise, means an inquiry under this Act;
+
+- “inquiry panel” is to be read in accordance with section 3(2);
+
+- “interested party”, in relation to an inquiry, means a person with a particularly significant interest in the proceedings or outcome of the inquiry;
+
+- “interim report” means a report under section 24(3);
+
+- “joint inquiry” has the meaning given by section 32(2);
+
+- “member”, in relation to an inquiry panel, includes the chairman;
+
+- “Minister” is to be read in accordance with section 1(2) (and see subsection (4) below);
+
+- “Northern Ireland Minister” includes the First Minister and the deputy First Minister acting jointly;
+
+- “public authority” has the same meaning as in the Freedom of Information Act 2000 (c. 36);
+
+- “the relevant Parliament or Assembly” means whichever of the following is or are applicable—
+
+  - (a) in the case of an inquiry for which the Treasury is responsible, the House of Commons;
+  - (b) in the case of an inquiry for which any other United Kingdom Minister is responsible, or one for which the Secretary of State exercising functions by virtue of section 45(2) is responsible, the House of Parliament of which that minister is a member;
+  - (c) in the case of an inquiry for which the Scottish Ministers are responsible, the Scottish Parliament;
+  - (d) in the case of an inquiry for which the [[^F25]Welsh Ministers are responsible, the National Assembly for Wales][^F25];
+  - (e) in the case of an inquiry for which a Northern Ireland Minister is responsible, the Northern Ireland Assembly;
+
+- “the relevant part of the United Kingdom”, in relation to an inquiry, means the part specified under section 31(1);
+
+- “report” means a report under section 24(1);
+
+- “responsible”, in relation to an inquiry, is to be read in accordance with subsection (5);
+
+- [^F26]...
+
+- “Scottish public authority” has the same meaning as in the Freedom of Information (Scotland) Act 2002 (asp 13);
+
+- “setting-up date” means the date specified under section 5(1)(a);
+
+- “statutory provision” means a provision contained in, or having effect under, any enactment, Act of the Scottish Parliament or Northern Ireland legislation;
+
+- “terms of reference”, in relation to an inquiry under this Act, has the meaning given by section 5(6);
+
+“United Kingdom Minister”—
+
+(a) means the holder of a Ministerial office specified in Part 1, 2 or 3 of Schedule 1 to the Ministerial and other Salaries Act 1975 (c. 27) or a Parliamentary Secretary;
+
+(b) also includes the Treasury.
+
+But a reference to a United Kingdom Minister does not include a reference to the Secretary of State discharging functions by virtue of section 45(2).
+
+(2) References in this Act to the course of an inquiry are to the period beginning with the setting-up date, or (in the case of an inquiry converted under section 15) the date of conversion, and ending with the date on which the inquiry comes to an end (which is given by section 14).
+
+(3) References in this Act to producing or providing a document, in relation to information recorded otherwise than in legible form, are to be read as references to producing or providing a copy of the information in a legible form.
+
+(4) References in this Act to “the Minister”, in relation to an inquiry, are to the Minister or Ministers responsible for the inquiry.
+
+(5) For the purposes of this Act a Minister is “responsible” for an inquiry if he is the Minister, or one of the Ministers, by whom it was caused to be held under section 1 or converted under section 15.
+
+This is subject to section 34(2)(a).
+
+### 44 Transitory, transitional and saving provisions
+
+(1) Section 15 applies whether the original inquiry was caused to be held before or after the commencement of that section.
+
+(2) For the purposes of that section, an inquiry appointed otherwise than under this Act includes a tribunal of inquiry appointed in pursuance of resolutions of both Houses of Parliament under section 1 of the Tribunals of Inquiry (Evidence) Act 1921 (c. 7).
+
+(3) In relation to an offence committed before the commencement of section 281(5) of the Criminal Justice Act 2003 (c. 44), the reference in section 35(8)(a) above to 51 weeks is to be read as a reference to six months.
+
+(4) This Act does not affect—
+
+(a) any power of Her Majesty to establish a Royal Commission, or
+
+(b) except as provided by section 15 or by sections 46 to 49 (and Schedules 1 to 3), any power of a Minister or other person (whether under a statutory provision or otherwise) to cause an inquiry to be held otherwise than under this Act.
+
+(5) The repeal by this Act of any statutory provision under which an inquiry has been caused to be held does not affect any power or duty conferred or imposed in respect of the inquiry, and accordingly—
+
+(a) the inquiry may continue,
+
+(b) any report may be submitted and published, and
+
+(c) any proceedings arising out of the inquiry may be taken or continued,
+
+as if the enactment had not been repealed.
+
+### 45 Suspension of devolved government in Northern Ireland
+
+(1) This section applies in relation to any time when section 1 of the Northern Ireland Act 2000 (c. 1) (suspension of devolved government in Northern Ireland) is in force.
+
+(2) Functions conferred by this Act on a Northern Ireland Minister may be discharged by the Secretary of State (and a reference to an inquiry for which a Northern Ireland Minister is responsible is to be read accordingly).
+
+In relation to such functions, this subsection applies in place of paragraph 4(1)(a) to (c) of the Schedule to the Northern Ireland Act 2000.
+
+(3) A requirement under this Act to consult any Northern Ireland Minister is to be read as a requirement to consult the Secretary of State.
+
+(4) In the case of rules under section 41 made by the Secretary of State by virtue of subsection (3)(d) of that section and subsection (2) above, subsections (4)(a) and (5)(a) of that section apply in relation to the Secretary of State as they apply in relation to the Lord Chancellor.
+
+## Amendments etc
+
+### [^F27]46 Inquiries under the Financial Services and Markets Act 2000
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 47 Inquiries etc under Northern Ireland legislation
+
+(1) For section 23 of the Interpretation Act (Northern Ireland) 1954 (c. 33 (N.I.)) (inquiries and investigations) there is substituted—
+
+> **23 Inquiries and investigations**
+>
+> The provisions of Schedule A1 to this Act shall have effect in relation to any local or other inquiry or any investigation which a Minister or Northern Ireland department causes to be held or made under any enactment passed or made—
+>
+> (a) after the commencement of this Act, and
+>
+> (b) before the commencement of section 47 of the Inquiries Act 2005.
+
+(2) The Schedule set out in Schedule 1 to this Act is inserted into that Act as Schedule A1.
+
+### 48 Minor and consequential amendments
+
+(1) Schedule 2 (minor and consequential amendments) has effect.
+
+(2) In Schedule 1 to the National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. 1999/672) a reference to an Act that is amended by Schedule 2 to this Act is to be read as referring to that Act as so amended.
+
+### 49 Repeals and revocations
+
+(1) The Tribunals of Inquiry (Evidence) Act 1921 (c. 7) is repealed.
+
+(2) The provisions set out in Schedule 3 are repealed or revoked to the extent specified.
+
+## Final provisions
+
+### 50 Crown application
+
+This Act and any provisions made under it bind the Crown (but do not affect Her Majesty in her personal capacity or in right of Her Duchy of Lancaster or the Duke of Cornwall).
+
+### 51 Commencement
+
+(1) The preceding provisions of this Act come into force on such day as the Lord Chancellor may appoint by order made by statutory instrument.
+
+(2) Before making an order under this section the Lord Chancellor must consult the Scottish Ministers, the [[^F28]Welsh Ministers][^F28] and the First Minister and deputy First Minister.
+
+(3) An order under this section—
+
+(a) may include any transitory, transitional or saving provision that the Secretary of State considers necessary or expedient;
+
+(b) may appoint different days for different purposes.
+
+### 52 Extent
+
+This Act extends to the whole of the United Kingdom.
+
+### 53 Short title
+
+This Act may be cited as the Inquiries Act 2005.
+
+## SCHEDULE 1 — Provisions applicable to inquiries etc under Northern Ireland legislation
+
+*Section 47*
+
+The following is the Schedule inserted into the Interpretation Act (Northern Ireland) 1954 (c. 33 (N.I.))—
+
+> **SCHEDULE A1 — Provisions applicable to inquiries and investigations**
+>
+> **Introductory**
+>
+> **1** In this Schedule—
+>
+> - “the inquiry” means any inquiry or investigation in relation to which, by virtue of section 23 of this Act, the provisions of this Schedule apply;
+> - “the Department” means the Minister or Northern Ireland department causing the inquiry to be held.
+>
+> **Appointment of person to hold inquiry**
+>
+> **2** The Department shall appoint a person to hold the inquiry and to report thereon to the Department.
+>
+> **Notification of time and place of inquiry**
+>
+> **3** Notification shall be sent to any persons appearing to the Department or the person appointed to hold the inquiry to be interested of the time when, and the place where, the inquiry is to be held.
+>
+> **Powers to require persons to give evidence etc.**
+>
+> **4** (1) Subject to sub-paragraphs (2) and (3), the person appointed to hold the inquiry may by notice require any person—
+>
+> (a) to attend at the time and place set forth in the notice to give evidence or to produce any books or documents in his custody or under his control which relate to any matter in question at the inquiry; or
+>
+> (b) to furnish, within such reasonable period as is specified in the notice, such information relating to any matter in question at the inquiry as the person appointed to hold the inquiry may think fit, and as the person so required is able to furnish.
+>
+> (2) A person shall not to be required, in obedience to such a notice, to attend at any place which is more than 16 kilometres from the place where he resides unless the necessary expenses are paid or tendered to him.
+>
+> (3) Nothing in this paragraph shall empower the person appointed to hold the inquiry to require any person to produce any book or document, or to answer any question, which he would be entitled, on the ground of privilege or otherwise, to refuse to produce or to answer if the inquiry were a proceeding in a court of law.
+>
+> **Oaths and statements**
+>
+> **5** The person appointed to hold the inquiry may administer oaths and examine witnesses on oath, and may accept, in lieu of evidence on oath by any person, a statement in writing by that person.
+>
+> **Offences**
+>
+> **6** Any person who—
+>
+> (a) refuses or wilfully neglects to attend in obedience to a notice under paragraph 4, or to give evidence; or
+>
+> (b) wilfully alters, suppresses, conceals or destroys or refuses to produce any book or document which he may be required to produce by any such notice; or
+>
+> (c) refuses or deliberately neglects to furnish any information which he is required to furnish under paragraph 4(1)(b);
+>
+> shall be guilty of an offence and shall be liable on summary conviction to imprisonment for a term not exceeding three months or to a fine not exceeding level 2 on the standard scale.
+>
+> **Expenses**
+>
+> **7** (1) The expenses incurred by the Department in relation to the inquiry (including such sum as the Department may, with the approval of the Department of Finance and Personnel, determine in respect of the services of any officer engaged in the inquiry) shall be paid by such of the parties to the inquiry in such proportions as the Department may order.
+>
+> (2) The Department may make orders as to the expenses incurred by the parties appearing at the inquiry and as to the parties by whom such expenses shall be paid.
+>
+> (3) Any order made by the Department under sub-paragraph (1) or (2) may, on the application of any party to the inquiry, be made a rule of the High Court.
+
+## SCHEDULE 2 — Minor and consequential amendments
+
+*Section 48*
+
+### Part 1 — Acts of Parliament
+
+#### Regulation of Railways Act 1871 (c. 78)
+
+**1** Section 7 of the Regulation of Railways Act 1871 (inquiry into accidents and formal investigation in serious cases) is omitted.
+
+#### Ministry of Transport Act 1919 (c. 50)
+
+**2** Section 20 of the Ministry of Transport Act 1919 (power to hold inquiries) is omitted.
+
+#### Road and Rail Traffic Act 1933 (c. 53)
+
+**3** Section 47 of the Road and Rail Traffic Act 1933 (inquiries by Minister) is omitted.
+
+#### Agricultural Marketing Act 1958 (c. 47)
+
+**4** In section 26 of the Agricultural Marketing Act 1958 (constitution and functions of Agricultural Marketing Reorganisation Commissions) subsections (6) to (8) are omitted.
+
+#### Mental Health Act 1959 (c. 72)
+
+**5** Section 143 of the Mental Health Act 1959 (inquiries) is omitted.
+
+#### Transport Act 1962 (c. 46)
+
+**6** Section 90 of the Transport Act 1962 (inquiries) is omitted.
+
+#### National Health Service Act 1977 (c. 49)
+
+**7** Section 84 of the National Health Service Act 1977 (inquiries) is omitted.
+
+#### Public Passenger Vehicles Act 1981 (c. 14)
+
+**8** In the Public Passenger Vehicles Act 1981, sections 76 (general power to hold inquiries) and 77 (general provisions as to inquiries) are omitted.
+
+#### Mental Health Act 1983 (c. 20)
+
+**9** Section 125 of the Mental Health Act 1983 (inquiries) is omitted.
+
+#### Road Traffic Regulation Act 1984 (c. 27)
+
+**10** In the Road Traffic Regulation Act 1984, sections 128 (power to hold inquiries) and 129 (general provisions as to inquiries) are omitted.
+
+#### Road Traffic Act 1988 (c. 52)
+
+**11** Section 179 of the Road Traffic Act 1988 (general power to hold inquiries) is omitted.
+
+#### Children Act 1989 (c. 41)
+
+**12** Section 81 of the Children Act 1989 (inquiries) is omitted.
+
+#### Further and Higher Education Act 1992 (c. 13)
+
+**13** In section 57 of the Further and Higher Education Act 1992 (intervention) subsection (9) is omitted.
+
+#### Police Act 1996 (c. 16)
+
+**14** Section 49 of the Police Act 1996 (local inquiries) is omitted.
+
+#### Education Act 1996 (c. 56)
+
+**15** Section 507 of the Education Act 1996 (power to direct local inquiries) is omitted.
+
+#### Police Act 1997 (c. 50)
+
+**16** In the Police Act 1997, sections 34 (National Criminal Intelligence Service: inquiries) and 79 (National Crime Squad: inquiries) are omitted.
+
+#### Police (Northern Ireland) Act 1998 (c. 32)
+
+**17** Section 44 of the Police (Northern Ireland) Act 1998 (inquiries) is omitted.
+
+#### Protection of Children Act 1999 (c. 14)
+
+**18** [^F29]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Care Standards Act 2000 (c. 14)
+
+**19** [^F30]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Regulation of Investigatory Powers Act 2000 (c. 23)
+
+**[^F31]20** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F32]21** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Police (Northern Ireland) Act 2000 (c. 32)
+
+**22** In section 60 of the Police (Northern Ireland) Act 2000 (inquiry by Board following report by Chief Constable), for subsection (14) there is substituted—
+
+> (14) “Paragraphs 3 to 6 of Schedule A1 to the Interpretation Act (Northern Ireland) 1954 (provisions applicable to inquiries etc. under Northern Ireland legislation) shall apply to an inquiry under this section with the substitution for references to the Department of references to the person conducting the inquiry.”
+
+#### Adoption and Children Act 2002 (c. 38)
+
+**23** Section 17 of the Adoption and Children Act 2002 (inquiries) is omitted.
+
+#### Fire and Rescue Services Act 2004 (c. 21)
+
+**24** Section 27 of the Fire and Rescue Services Act 2004 (inquiries) is omitted.
+
+### Part 2 — Acts of the Scottish Parliament
+
+#### Protection of Children (Scotland) Act 2003 (asp 5)
+
+**25** [^F33]In section 6 of the Protection of Children (Scotland) Act 2003 (individuals named in the findings of certain inquiries), in subsection (6), after paragraph (a) there is inserted—
+
+> [^F33]aa [^F33]an inquiry held under the Inquiries Act 2005;
+
+[^F33].
+
+### Part 3 — Northern Ireland legislation
+
+#### Local Government Act (Northern Ireland) 1923 (c. 31 (N.I.))
+
+**26** Section 6 of the Local Government Act (Northern Ireland) 1923 (fees for holding inquiries) is omitted.
+
+#### Petroleum (Consolidation) Act (Northern Ireland) 1929 (c. 13 (N.I.))
+
+**27** Section 14 of the Petroleum (Consolidation) Act (Northern Ireland) 1929 (inquiry into accidents connected with petroleum spirit) is omitted.
+
+#### Prison Act (Northern Ireland) 1953 (c. 18 (N.I))
+
+**28** Section 7 of the Prison Act (Northern Ireland) 1953 (sworn inquiries) is omitted.
+
+#### Health and Personal Social Services (Northern Ireland) Order 1972 (S.I. 1972/1265 (N.I. 14))
+
+**29** In the Health and Personal Social Services (Northern Ireland) Order 1972, Article 54 (inquiries) and Schedule 8 (provisions as to inquiries) are omitted.
+
+#### Health and Safety at Work (Northern Ireland) Order 1978 (S.I. 1978/1039 (N.I. 9))
+
+**30** In Article 16 of the Health and Safety at Work (Northern Ireland) Order 1978 (investigations and inquiries) the following words are omitted—
+
+(a) in paragraph (1), “the Department concerned or”;
+
+(b) in paragraph (2), “The Department concerned or”;
+
+(c) in paragraph (5), “the Department concerned or, as the case may be,” and “that Department or” (in both places);
+
+(d) in paragraph (6) “The Department concerned or, as the case may be,”;
+
+(e) in paragraph (6)(a), (b) and (c), “that Department or”.
+
+#### Road Traffic (Northern Ireland) Order 1981 (S.I. 1981/154 (N.I. 1))
+
+**31** In Schedule 5 to the Road Traffic (Northern Ireland) Order 1981 (provisions as to inquiries and applications), in paragraph 5, for “Schedule 8 to the Health and Personal Social Services (Northern Ireland) Order 1972” there is substituted “ Schedule A1 to the Interpretation Act (Northern Ireland) 1954 ”.
+
+#### Agricultural Marketing (Northern Ireland) Order 1982 (S.I. 1982/1080 (N.I. 12))
+
+**32** In Article 4 of the Agricultural Marketing (Northern Ireland) Order 1982 (approval of schemes), in paragraph (10), for the words from “Article 54” to “1954,” there is substituted “ Schedule A1 to the Interpretation Act (Northern Ireland) 1954 shall, in its application to any such inquiry by virtue of section 23 of that Act, ”.
+
+#### Education and Libraries (Northern Ireland) Order 1986 (S.I. 1986/594 (N.I. 3))
+
+**33** Article 108 of the Education and Libraries (Northern Ireland) Order 1986 (inquiries and investigations) is omitted.
+
+#### Adoption (Northern Ireland) Order 1987 (S.I. 1987/2203 (N.I. 22))
+
+**34** Article 69 of the Adoption (Northern Ireland) Order 1987 (inquiries) is omitted.
+
+#### Roads (Northern Ireland) Order 1993 (S.I. 1993/3160 (N.I. 15))
+
+**35** In Article 130 of the Roads (Northern Ireland) Order 1993 (inquiries), in paragraph (2)—
+
+(a) for “Schedule 8 to the Health and Personal Social Services (Northern Ireland) Order 1972” there is substituted “ Schedule A1 to the Interpretation Act (Northern Ireland) 1954 ”;
+
+(b) for “the Interpretation Act (Northern Ireland) 1954” there is substituted “ that Act ”;
+
+(c) for “paragraph 6” there is substituted “ paragraph 7(1) ”.
+
+#### Children (Northern Ireland) Order 1995 (S.I. 1995/755 (N.I. 2))
+
+**36** Article 152 of the Children (Northern Ireland) Order 1995 (inquiries) is omitted.
+
+#### Commissioner for Complaints (Northern Ireland) Order 1996 (S.I. 1996/1297 (N.I. 7))
+
+**[^F34]37** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Road Traffic Regulation (Northern Ireland) Order 1997 (S.I. 1997/276 (N.I. 2))
+
+**38** In Article 65 of the Road Traffic Regulation (Northern Ireland) Order 1997 (inquiries), in paragraph (2)—
+
+(a) for “Schedule 8 to the Health and Personal Social Services (Northern Ireland) Order 1972” there is substituted “ Schedule A1 to the Interpretation Act (Northern Ireland) 1954 ”;
+
+(b) for “the Interpretation Act (Northern Ireland) 1954” there is substituted “ that Act ”;
+
+(c) for “paragraph 6” there is substituted “ paragraph 7(1) ”.
+
+#### Criminal Justice (Children) (Northern Ireland) Order 1998 (S.I. 1998/1504 (N.I. 9))
+
+**39** Article 58 of the Criminal Justice (Children) (Northern Ireland) Order 1998 (inquiries and investigations) is omitted.
+
+#### Protection of Children and Vulnerable Adults (Northern Ireland) Order 2003 (S.I. 2003/417 (N.I. 4))
+
+**40** In Articles 7 and 39 of the Protection of Children and Vulnerable Adults (Northern Ireland) Order 2003 (individuals named in the findings of certain inquiries), in paragraph (7)(a), after “held” there is inserted “ under the Inquiries Act 2005 or ”.
+
+#### Commissioner for Children and Young People (Northern Ireland) Order 2003 (S.I. 2003/439 (N.I. 11))
+
+**41** In Article 13 of the Commissioner for Children and Young People (Northern Ireland) Order 2003 (actions which may be investigated: restrictions and exclusions), in paragraph (3), for “the subject of a local or public inquiry” there is substituted
+
+> the subject of—
+>
+> (a) an inquiry under the Inquiries Act 2005, or
+>
+> (b) any such inquiry as is referred to in section 23 of the Interpretation Act (Northern Ireland) 1954 (inquiries and investigations)
+
+.
+
+## SCHEDULE 3 — Repeals and revocations
+
+*Section 49*
+
+|  |  |
+|---|---|
+| *Reference* | *Extent of repeal or revocation* |
+| Regulation of Railways Act 1871 (c. 78) | Section 7. |
+| Ministry of Transport Act 1919 (c. 50) | Section 20. |
+| Tribunals of Inquiry (Evidence) Act 1921 (c. 7) | The whole Act. |
+| Local Government Act (Northern Ireland) 1923 (c. 31 (N.I.)) | Section 6. |
+| Petroleum (Consolidation) Act (Northern Ireland) 1929 (c. 13 (N.I.)) | Section 14. |
+| Road and Rail Traffic Act 1933 (c. 53) | Section 47. |
+| Prison Act (Northern Ireland) 1953 (c. 18 (N.I.)) | Section 7. |
+| Agricultural Marketing Act 1958 (c. 47) | Section 26(6) to (8). |
+| Mental Health Act 1959 (c. 72) | Section 143. |
+| Transport Act 1962 (c. 46) | Section 90. |
+| Fees for Inquiries (Variation) Order 1968 (S.I. 1968/656) | In the Schedule, the entries relating to the Road and Rail Traffic Act 1933 and the Road Traffic Act 1960. |
+| Civil Evidence Act 1968 (c. 64) | Section 17(1)(a). |
+| Civil Evidence Act (Northern Ireland) 1971 (c. 36 (N.I.)) | In section 13(1), the words from the beginning to “; and” and the word “other”. |
+| Health and Personal Social Services (Northern Ireland) Order 1972 (S.I. 1972/1265 (N.I. 14)) | Article 54. Schedule 8. In Schedule 16, paragraph 17. |
+| Local Government (Modifications and Repeals) Order (Northern Ireland) 1973 (S.R. & O. 1973 No. 285) | In the Schedule, the entry relating to section 6 of the Local Government Act (Northern Ireland) 1923. |
+| National Health Service Act 1977 (c. 49) | Section 84. |
+| Health and Safety at Work (Northern Ireland) Order 1978 (S.I. 1978/1039 (N.I. 9)) | In Article 16—<br>- (a) in paragraph (1) the words “the Department concerned or”;<br>- (b) in paragraph (2) the words “The Department concerned or”;<br>- (c) in paragraph (5) the words “the Department concerned or, as the case may be,” and the words “that Department or” (in both places);<br>- (d) in paragraph (6) the words “The Department concerned or, as the case may be,”;<br>- (e) in paragraph (6)(a), (b) and (c) the words “that Department or”. |
+| Public Passenger Vehicles Act 1981 (c. 14) | Sections 76 and 77. |
+| Mental Health Act 1983 (c. 20) | Section 125. |
+| Road Traffic Regulation Act 1984 (c. 27) | Sections 128 and 129. |
+| Fees (Increase) Order (Northern Ireland) 1984 (S.R. (N.I.) 1984 No. 369) | In the Schedule, the entry relating to the Local Government Act (Northern Ireland) 1923. |
+| Local Government Act 1985 (c. 51) | In Schedule 5, paragraph 4(36). |
+| Education and Libraries (Northern Ireland) Order 1986 (S.I. 1986/594 (N.I. 3)) | Article 108. |
+| Channel Tunnel Act 1987 (c. 53) | In Schedule 6, in paragraph 3 the words “and 7 (inquiries into railway accidents)”. |
+| Adoption (Northern Ireland) Order 1987 (S.I. 1987/2203 (N.I. 22)) | Article 69. |
+| Road Traffic Act 1988 (c. 52) | Section 179. |
+| Children Act 1989 (c. 41) | Section 81. |
+| National Health Service and Community Care Act 1990 (c. 19) | In Schedule 9, paragraph 18(6). |
+| Courts and Legal Services Act 1990 (c. 41) | In Schedule 16, paragraph 21. |
+| Further and Higher Education Act 1992 (c. 13) | Section 57(9). |
+| Children (Northern Ireland) Order 1995 (S.I. 1995/755 (N.I. 2)) | Article 152. In Schedule 9, paragraph 80. |
+| Police Act 1996 (c. 16) | Section 49. |
+| Education Act 1996 (c. 56) | Section 507. |
+| Police Act 1997 (c. 50) | Sections 34 and 79. |
+| Police (Northern Ireland) Act 1998 (c. 32) | Section 44. |
+| Criminal Justice (Children) (Northern Ireland) Order 1998 (S.I. 1998/1504 (N.I. 9)) | Article 58. |
+| Access to Justice Act 1999 (c. 22) | In Schedule 11, paragraph 9. |
+| Scotland Act 1998 (Cross-Border Public Authorities) (Adaptation of Functions etc.) Order 1999 (S.I. 1999/1747) | In Schedule 18, paragraph 2(20). |
+| Health Act 1999 (Supplementary and Consequential Provisions) Order 1999 (S.I. 1999/2795) | Article 2(2). |
+| Powers of Criminal Courts (Sentencing) Act 2000 (c. 6) | In Schedule 9, paragraph 128. In Schedule 4, paragraph 14(17). |
+| Local Government Act 2000 (c. 22) | In Schedule 5, paragraph 21. |
+| Regulation of Investigatory Powers Act 2000 (c. 23) | In section 18, the word “legal” in subsection (5) and the word “or” preceding paragraph (b) of subsection (7). |
+| Scotland Act 1998 (Cross-Border Public Authorities) (Adaptation of Functions etc.) (No. 2) Order 2000 (S.I. 2000/3251) | In Schedule 2, paragraph 2(27) to (29). |
+| Adoption and Children Act 2002 (c. 38) | Section 17. |
+| Railway Safety Act (Northern Ireland) 2002 (c. 8 (N.I.)) | Section 7(1). |
+| Health and Social Care (Community Health and Standards) Act 2003 (c. 43) | In Schedule 4, paragraph 33. |
+| Fire and Rescue Services Act 2004 (c. 21) | Section 27. |
+
+---
+
+[^F1]: S. 1(2)(ba) inserted by Government of Wales Act 2006 (c. 32), s. 160(1), Sch. 10 para. 90, (with Sch. 11 para. 22), the amending provision coming into force immediately after "the 2007 election" (held on 3.5.2007) subject to s. 161(4)(5) of the amending Act, which provides for certain provisions to come into force for specified purposes immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) - see ss. 46, 161(1)(4)(5) of the amending Act.
+[^F2]: Words in s. 1(2) repealed by Government of Wales Act 2006 (c. 32), s. 160(1), 163, Sch. 10 para. 90, Sch. 12 (with Sch. 11 para. 22), the amending provision coming into force immediately after "the 2007 election" (held on 3.5.2007) subject to s. 161(4)(5) of the amending Act, which provides for certain provisions to come into force for specified purposes immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) - see ss. 46, 161(1)(4)(5) of the amending Act.
+[^F3]: Words in s. 10(1) substituted (S.) (1.4.2015) by The Courts Reform (Scotland) Act 2014 (Consequential Provisions) Order 2015 (S.S.I. 2015/150), art. 1, Sch. para. 8(2)
+[^F4]: S. 10(2) repealed (S.) (1.4.2015) by The Courts Reform (Scotland) Act 2014 (Consequential Provisions) Order 2015 (S.S.I. 2015/150), art. 1, Sch. para. 8(3)
+[^F5]: Words in s. 19(3)(a) substituted (31.12.2020) by The Inquiries and Coroners (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1252), regs. 1(1), 2(a); 2020 c. 1, Sch. 5 para. 1(1)
+[^F6]: Words in s. 19(3)(a) substituted (1.1.2024) by The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424), reg. 1(2), Sch. para. 57(2)(a)
+[^F7]: Words in s. 22(1)(b) substituted (31.12.2020) by The Inquiries and Coroners (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1252), regs. 1(1), 2(b); 2020 c. 1, Sch. 5 para. 1(1)
+[^F8]: Words in s. 22(1)(b) substituted (1.1.2024) by The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424), reg. 1(2), Sch. para. 57(3)
+[^F9]: Words in s. 23(1) substituted (1.4.2013) by Financial Services Act 2012 (c. 21), s. 122(3), Sch. 18 para. 105 (with Sch. 20); S.I. 2013/423, art. 3, Sch.
+[^F10]: Words in s. 25(4)(a) substituted (31.12.2020) by The Inquiries and Coroners (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1252), regs. 1(1), 2(c); 2020 c. 1, Sch. 5 para. 1(1)
+[^F11]: Words in s. 25(4)(a) substituted (1.1.2024) by The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424), reg. 1(2), Sch. para. 57(2)(b)
+[^F12]: Words in s. 27(3)(b) substituted by Government of Wales Act 2006 (c. 32), s. 160, Sch. 10 para. 91(2) (with Sch. 11 para. 22), the amending provision coming into force immediately after "the 2007 election" (held on 3.5.2007) subject to s. 161(4)(5) of the amending Act, which provides for certain provisions to come into force for specified purposes immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) - see ss. 46, 161(1)(4)(5) of the amending Act.
+[^F13]: By Government of Wales Act 2006 (c. 32), s. 160, Sch. 10 para. 91(3) (with Sch. 11 para. 22), it is provided that in s. 27(7) in the definition of "the relevant administration" for the words "National Assembly for Wales has" there be substituted the words "Welsh Ministers have", the amending provision coming into force immediately after "the 2007 election" (held on 3.5.2007) subject to s. 161(4)(5) of the amending Act, which provides for certain provisions to come into force for specified purposes immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) - see ss. 46, 161(1)(4)(5) of the amending Act.
+[^F14]: Words in s. 27(7) substituted by Government of Wales Act 2006 (c. 32), s. 160, Sch. 10 para. 91(3), (with Sch. 11 para. 22), the amending provision coming into force immediately after "the 2007 election" (held on 3.5.2007) subject to s. 161(4)(5) of the amending Act, which provides for certain provisions to come into force for specified purposes immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) - see ss. 46, 161(1)(4)(5) of the amending Act.
+[^F15]: Words in s. 28(4) substituted by Government of Wales Act 2006 (c. 32), s. 160, Sch. 10 para. 92 (with Sch. 11 para. 22), the amending provision coming into force immediately after "the 2007 election" (held on 3.5.2007) subject to s. 161(4)(5) of the amending Act, which provides for certain provisions to come into force for specified purposes immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) - see ss. 46, 161(1)(4)(5) of the amending Act
+[^F16]: Words in s. 29(1) substituted by Government of Wales Act 2006 (c. 32), s. 160, Sch. 10 para. 93(2), (with Sch. 11 para. 22), the amending provision coming into force immediately after "the 2007 election" (held on 3.5.2007) subject to s. 161(4)(5) of the amending Act, which provides for certain provisions to come into force for specified purposes immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) - see ss. 46, 161(1)(4)(5) of the amending Act.
+[^F17]: Words in s. 29(5) substituted by Government of Wales Act 2006 (c. 32), s. 160, Sch. 10 para. 93(3), (with Sch. 11 para. 22), the amending provision coming into force immediately after "the 2007 election" (held on 3.5.2007) subject to s. 161(4)(5) of the amending Act, which provides for certain provisions to come into force for specified purposes immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) - see ss. 46, 161(1)(4)(5) of the amending Act.
+[^F18]: Words in s. 30(5) substituted by Government of Wales Act 2006 (c. 32), s. 160, Sch. 10 para. 94, (with Sch. 11 para. 22), the amending provision coming into force immediately after "the 2007 election" (held on 3.5.2007) subject to s. 161(4)(5) of the amending Act, which provides for certain provisions to come into force for specified purposes immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) - see ss. 46, 161(1)(4)(5) of the amending Act.
+[^F19]: Words in s. 30(6) substituted (11.3.2009) by Northern Ireland (Miscellaneous Provisions) Act 2006 (c. 33), ss. 30(1), 31, Sch. 4 para. 14; S.I. 2009/448, art. 2(2)(f)(g)
+[^F20]: Words in s. 41(3)(c) substituted by Government of Wales Act 2006 (c. 32), s. 160, Sch. 10 para. 95(2)(a) (with Sch. 11 para. 22), the amending provision coming into force immediately after "the 2007 election" (held on 3.5.2007) subject to s. 161(4)(5) of the amending Act, which provides for certain provisions to come into force for specified purposes immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) - see ss. 46, 161(1)(4)(5) of the amending Act
+[^F21]: Words in s. 41(3)(c) substituted by Government of Wales Act 2006 (c. 32), s. 160, Sch. 10 para. 95(2)(b) (with Sch. 11 para. 22), the amending provision coming into force immediately after "the 2007 election" (held on 3.5.2007) subject to s. 161(4)(5) of the amending Act, which provides for certain provisions to come into force for specified purposes immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) - see ss. 46, 161(1)(4)(5) of the amending Act
+[^F22]: Words in s. 41(4)(a) substituted by Government of Wales Act 2006 (c. 32), s. 160, Sch. 10 para. 95(3), (with Sch. 11 para. 22), the amending provision coming into force immediately after "the 2007 election" (held on 3.5.2007) subject to s. 161(4)(5) of the amending Act, which provides for certain provisions to come into force for specified purposes immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) - see ss. 46, 161(1)(4)(5) of the amending Act
+[^F23]: S. 41(5)(aa) inserted by Government of Wales Act 2006 (c. 32), s. 160, Sch. 10 para. 95(4), (with Sch. 11 para. 22), the amending provision coming into force immediately after "the 2007 election" (held on 3.5.2007) subject to s. 161(4)(5) of the amending Act, which provides for certain provisions to come into force for specified purposes immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) - see ss. 46, 161(1)(4)(5) of the amending Act
+[^F24]: Words in s. 43(1) inserted (1.1.2024) by The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424), reg. 1(2), Sch. para. 57(4)(a)
+[^F25]: S. 43(1): words in definition substituted by Government of Wales Act 2006 (c. 32), s. 160, Sch. 10 para. 96, (with Sch. 11 para. 22), the amending provision coming into force immediately after "the 2007 election" (held on 3.5.2007) subject to s. 161(4)(5) of the amending Act, which provides for certain provisions to come into force for specified purposes immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) - see ss. 46, 161(1)(4)(5) of the amending Act
+[^F26]: Words in s. 43(1) omitted (1.1.2024) by virtue of The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424), reg. 1(2), Sch. para. 57(4)(b)
+[^F27]: S. 46 repealed (1.4.2013) by Financial Services Act 2012 (c. 21), s. 122(3), Sch. 19 (with Sch. 20); S.I. 2013/423, art. 3, Sch.
+[^F28]: Words in s. 51(2) substituted by Government of Wales Act 2006 (c. 32), s. 160, Sch. 10 para. 97, (with Sch. 11 para. 22), the amending provision coming into force immediately after "the 2007 election" (held on 3.5.2007) subject to s. 161(4)(5) of the amending Act, which provides for certain provisions to come into force for specified purposes immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) - see ss. 46, 161(1)(4)(5) of the amending Act
+[^F29]: Sch. 2 para. 18 repealed (12.10.2009) by Safeguarding Vulnerable Groups Act 2006 (c. 47), ss. 63, 65, Sch. 10(with ss. 57(3), 60(4), 64(5)); S.I. 2009/2611, art. 2, Sch.
+[^F30]: Sch. 2 para. 19 repealed (12.10.2009) by Safeguarding Vulnerable Groups Act 2006 (c. 47), ss. 63, 65, Sch. 10(with ss. 57(3), 60(4), 64(5)); S.I. 2009/2611, art. 2, Sch.
+[^F31]: Sch. 2 para. 20 repealed (30.8.2018) by Investigatory Powers Act 2016 (c. 25), s. 272(1), Sch. 10 Pt. 8 (with Sch. 9 paras. 7, 8, 10); S.I. 2018/940, reg. 2(1)(h)(ii) (with reg. 2(2))
+[^F32]: Sch. 2 para. 21 repealed (30.8.2018) by Investigatory Powers Act 2016 (c. 25), s. 272(1), Sch. 10 Pt. 8 (with Sch. 9 paras. 7, 8, 10); S.I. 2018/940, reg. 2(1)(h)(ii) (with reg. 2(2))
+[^F33]: Sch. 2 Pt. 2 repealed (S.) (28.2.2011) by Protection of Vulnerable Groups (Scotland) Act 2007 (asp 14), s. 101(2), Sch. 4 para. 45 (with ss. 90, 99); S.S.I. 2011/157, art. 2(a) (with art. 5(2))
+[^F34]: Sch. 2 para. 37 repealed (1.4.2016) by Public Services Ombudsman Act (Northern Ireland) 2016 (c. 4), s. 64, Sch. 9

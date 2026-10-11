@@ -1,0 +1,1751 @@
+---
+title: "Criminal Justice Act 1993"
+identifier: "ukpga/1993/36"
+citation: "1993 c. 36"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S+N.I."
+date: 1993-07-27
+last_amended: 2024-01-01
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/1993/36"
+source_modified: 2025-01-09
+retrieved: 2026-10-11
+---
+
+# Criminal Justice Act 1993
+
+**1993 c. 36**
+
+An Act to make provision about the jurisdiction of courts in England and Wales in relation to certain offences of dishonesty and blackmail; to amend the law about drug trafficking offences and to implement provisions of the Community Council Directive
+
+No.
+
+91/308/
+
+EEC
+
+; to amend Part VI of the Criminal Justice Act 1988; to make provision with respect to the financing of terrorism, the proceeds of terrorist-related activities and the investigation of terrorist activities; to amend Part I of the Criminal Justice Act 1991; to implement provisions of the Community Council Directive No.
+
+89/592/EEC
+
+and to amend and restate the law about insider dealing in securities; to provide for certain offences created by the Banking Coordination (Second Council Directive) Regulations 1992 to be punishable in the same way as offences under sections 39, 40 and 41 of the Banking Act 1987 and to enable regulations implementing Article 15 of the Community Council Directive No.
+
+89/646/EEC
+
+and Articles 3, 6 and 7 of the Community Council Directive No.
+
+92/30/EEC
+
+to create offences punishable in that way; to make provision with respect to the penalty for causing death by dangerous driving or causing death by careless driving while under the influence of drink or drugs; to make it an offence to assist in or induce certain conduct which for the purposes of, or in connection with, the provisions of
+
+EU
+
+law is unlawful in another member State; to provide for the introduction of safeguards in connection with the return of persons under backing of warrants arrangements; to amend the Criminal Procedure (Scotland) Act 1975 and Part I of the Prisoners and Criminal Proceedings (Scotland) Act 1993; and for connected purposes.
+
+[27th July 1993]
+
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## PART I — JURISDICTION
+
+### 1 Offences to which this Part applies.
+
+(1) This Part applies to two groups of offences—
+
+(a) any offence mentioned in subsection (2) (a “Group A offence”); and
+
+(b) any offence mentioned in subsection (3) (a “Group B offence”).
+
+(2) The Group A offences are—
+
+(a) an offence under any of the following provisions of the [^M1]Theft Act 1968—
+
+- section 1 (theft);
+- [^F1]...
+- [^F1]...
+- [^F1]...
+- section 17 (false accounting);
+- section 19 (false statements by company directors, etc.);
+- [^F1]...
+- section 21 (blackmail);
+- section 22 (handling stolen goods);
+- [[^F2]section 24A (retaining credits from dishonest sources, etc.]
+
+[^F3]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[[^F4](bb) an offence under any of the following provisions of the Fraud Act 2006—
+
+(i) section 1 (fraud);
+
+(ii) section 6 (possession etc. of articles for use in frauds);
+
+(iii) section 7 (making or supplying articles for use in frauds);
+
+(iv) section 9 (participating in fraudulent business carried on by sole trader etc.);
+
+(v) section 11 (obtaining services dishonestly).]
+
+(c) an offence under any of the following provisions of the [^M2]Forgery and Counterfeiting Act 1981—
+
+- section 1 (forgery);
+- section 2 (copying a false instrument);
+- section 3 (using a false instrument);
+- section 4 (using a copy of a false instrument);
+- section 5 (offences which relate to money orders, share certificates, passports, etc.);
+- [[^F5]section 14 (offences of counterfeiting notes and coins);
+- [^F5]section 15 (offences of passing etc counterfeit notes and coins);
+- [^F5]section 16 (offences involving the custody or control of counterfeit notes and coins);
+- [^F5]section 17 (offences involving the making or custody or control of counterfeiting materials and implements);
+- [^F5]section 20 (prohibition of importation of counterfeit notes and coins);
+- [^F5]section 21 (prohibition of exportation of counterfeit notes and coins);]
+
+[[^F6](ca) an offence under any of sections 4 to 6 of the Identity Documents Act 2010;]
+
+(d) the common law offence of cheating in relation to the public revenue.
+
+(3) The Group B offences are—
+
+(a) conspiracy to commit a Group A offence;
+
+(b) conspiracy to defraud;
+
+(c) attempting to commit a Group A offence;
+
+(d) incitement to commit a Group A offence.
+
+(4) The Secretary of State may by order amend subsection (2) or (3) by adding or removing any offence.
+
+(5) The power to make such an order shall be exercisable by statutory instrument.
+
+(6) No order shall be made under subsection (4) unless a draft of it has been laid before and approved by a resolution of each House of Parliament.
+
+### 2 Jurisdiction in respect of Group A offences.
+
+(1) For the purposes of this Part, “relevant event”, in relation to any Group A offence, means [[^F7](subject to subsection (1A))] any act or omission or other event (including any result of one or more acts or omissions) proof of which is required for conviction of the offence.
+
+[[^F8](1A) In relation to an offence under section 1 of the Fraud Act 2006 (fraud), “relevant event” includes—
+
+(a) if the fraud involved an intention to make a gain and the gain occurred, that occurrence;
+
+(b) if the fraud involved an intention to cause a loss or to expose another to a risk of loss and the loss occurred, that occurrence.]
+
+(2) For the purpose of determining whether or not a particular event is a relevant event in relation to a Group A offence, any question as to where it occurred is to be disregarded.
+
+(3) A person may be guilty of a Group A offence if any of the events which are relevant events in relation to the offence occurred in England and Wales.
+
+### 3 Questions immaterial to jurisdiction in the case of certain offences.
+
+(1) A person may be guilty of a Group A or Group B offence whether or not—
+
+(a) he was a British citizen at any material time;
+
+(b) he was in England and Wales at any such time.
+
+(2) On a charge of conspiracy to commit a Group A offence, or on a charge of conspiracy to defraud in England and Wales, the defendant may be guilty of the offence whether or not—
+
+(a) he became a party to the conspiracy in England and Wales;
+
+(b) any act or omission or other event in relation to the conspiracy occurred in England and Wales.
+
+(3) On a charge of attempting to commit a Group A offence, the defendant may be guilty of the offence whether or not—
+
+(a) the attempt was made in England and Wales;
+
+(b) it had an effect in England and Wales.
+
+(4) Subsection (1)(a) does not apply where jurisdiction is given to try the offence in question by an enactment which makes provision by reference to the nationality of the person charged.
+
+(5) Subsection (2) does not apply in relation to any charge under the [^M3]Criminal Law Act 1977 brought by virtue of section 1A of that Act.
+
+(6) Subsection (3) does not apply in relation to any charge under the [^M4]Criminal Attempts Act 1981 brought by virtue of section 1A of that Act.
+
+### 4 Rules for determining certain jurisdictional questions relating to the location of events.
+
+In relation to a Group A or Group B offence—
+
+(a) there is an obtaining of property in England and Wales if the property is either despatched from or received at a place in England and Wales; and
+
+(b) there is a communication in England and Wales of any information, instruction, request, demand or other matter if it is sent by any means—
+
+(i) from a place in England and Wales to a place elsewhere; or
+
+(ii) from a place elsewhere to a place in England and Wales.
+
+### 5 Conspiracy, attempt and incitement.
+
+[^F9]1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) The following section shall be inserted in the [^M5]Criminal Attempts Act 1981, after section 1—
+
+> **1A Extended jurisdiction in relation to certain attempts.**
+>
+> (1) If this section applies to an act, what the person doing the act had in view shall be treated as an offence to which section 1(1) above applies.
+>
+> (2) This section applies to an act if—
+>
+> (a) it is done in England and Wales, and
+>
+> (b) it would fall within section 1(1) above as more than merely preparatory to the commission of a Group A offence but for the fact that that offence, if completed, would not be an offence triable in England and Wales.
+>
+> (3) In this section “Group A offence” has the same meaning as in Part 1 of the Criminal Justice Act 1993.
+>
+> (4) Subsection (1) above is subject to the provisions of section 6 of the Act of 1993 (relevance of external law).
+>
+> (5) Where a person does any act to which this section applies, the offence which he commits shall for all purposes be treated as the offence of attempting to commit the relevant Group A offence.
+
+.
+
+(3) A person may be guilty of conspiracy to defraud if—
+
+(a) a party to the agreement constituting the conspiracy, or a party’s agent, did anything in England and Wales in relation to the agreement before its formation, or
+
+(b) a party to it became a party in England and Wales (by joining it either in person or through an agent), or
+
+(c) a party to it, or a party’s agent, did or omitted anything in England and Wales in pursuance of it,
+
+and the conspiracy would be triable in England and Wales but for the fraud which the parties to it had in view not being intended to take place in England and Wales.
+
+(4) A person may be guilty of incitement to commit a Group A offence if the incitement—
+
+(a) takes place in England and Wales; and
+
+(b) would be triable in England and Wales but for what the person charged had in view not being an offence triable in England and Wales.
+
+(5) Subsections (3) and (4) are subject to section 6.
+
+### 6 Relevance of external law.
+
+(1) A person is guilty of an offence triable [^F10]. . . by virtue of section 5(3), only if the pursuit of the agreed course of conduct would at some stage involve—
+
+(a) an act or omission by one or more of the parties, or
+
+(b) the happening of some other event,
+
+constituting an offence under the law in force where the act, omission or other event was intended to take place.
+
+(2) A person is guilty of an offence triable by virtue of section 1A of the [^M6]Criminal Attempts Act 1981, or by virtue of section 5(4), only if what he had in view would involve the commission of an offence under the law in force where the whole or any part of it was intended to take place.
+
+(3) Conduct punishable under the law in force in any place is an offence under that law for the purposes of this section, however it is described in that law.
+
+(4) Subject to subsection (6), a condition specified in subsection (1) or (2) shall be taken to be satisfied unless, not later than rules of court may provide, the defence serve on the prosecution a notice—
+
+(a) stating that, on the facts as alleged with respect to the relevant conduct, the condition is not in their opinion satisfied;
+
+(b) showing their grounds for that opinion; and
+
+(c) requiring the prosecution to show that it is satisfied.
+
+(5) In subsection (4) “the relevant conduct” means—
+
+(a) where the condition in subsection (1) is in question, the agreed course of conduct; and
+
+(b) where the condition in subsection (2) is in question, what the defendant had in view.
+
+(6) The court, if it thinks fit, may permit the defence to require the prosecution to show that the condition is satisfied without the prior service of a notice under subsection (4).
+
+(7) In the Crown Court, the question whether the condition is satisfied shall be decided by the judge alone.
+
+(8) The following paragraph shall be inserted in section 9(3) of the [^M7]Criminal Justice Act 1987 (preparatory hearing in a case of serious fraud), before paragraph (b)—
+
+> (aa) a question arising under section 6 of the Criminal Justice Act 1993 (relevance of external law to certain charges of conspiracy, attempt and incitement);
+
+.
+
+## Part II — DRUG TRAFFICKING OFFENCES
+
+### Confiscation orders
+
+#### [^F11]7 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F12]8 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F13]9 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F14]10 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F15]11 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F16]12 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F17]13 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Death or absence of defendant
+
+#### [^F18]14 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F19]15 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Offences
+
+#### [^F20]16 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 17 Acquisition, possession or use of proceeds of drug trafficking: Scotland.
+
+(1) The following section shall be inserted in the [^M8]Criminal Justice (Scotland) Act 1987, after section 42—
+
+> **42A Acquisition, possession or use of proceeds of drug trafficking.**
+>
+> (1) A person is guilty of an offence if, knowing that any property is, or in whole or in part directly or indirectly represents, another person’s proceeds of drug trafficking, he acquires or uses that property or has possession of it.
+>
+> (2) It is a defence to a charge of committing an offence under this section that the person charged acquired or used the property or had possession of it for adequate consideration.
+>
+> (3) For the purposes of subsection (2) above—
+>
+> (a) a person acquires property for inadequate consideration if the value of the consideration is significantly less than the value of the property; and
+>
+> (b) a person uses or has possession of property for inadequate consideration if the value of the consideration is significantly less than the value of his use or possession of the property.
+>
+> (4) The provision for any person of services or goods which are of assistance to him in drug trafficking shall not be treated as consideration for the purposes of subsection (2) above.
+>
+> (5) Where a person discloses to a constable or to a person commissioned by the Commissioners of Customs and Excise a suspicion or belief that any property is, or in whole or in part directly or indirectly represents, another person’s proceeds of drug trafficking, or discloses to a constable or a person so commissioned any matter on which such a suspicion or belief is based—
+>
+> (a) the disclosure shall not be treated as a breach of any restriction upon the disclosure of information imposed by statute or otherwise; and
+>
+> (b) if he does any act in relation to the property in contravention of subsection (1) above, he does not commit an offence under this section if—
+>
+> (i) the disclosure is made before he does the act concerned and the act is done with the consent of the constable or person so commissioned, or
+>
+> (ii) the disclosure is made after he does the act, but on his initiative and as soon as it is reasonable for him to make it.
+>
+> (6) For the purposes of this section having possession of any property shall be taken to be doing an act in relation to it.
+>
+> (7) In proceedings against a person for an offence under this section, it is a defence to prove that—
+>
+> (a) he intended to disclose to a constable or a person so commissioned such a suspicion, belief or matter as is mentioned in subsection (5) above; but
+>
+> (b) there is reasonable excuse for his failure to make the disclosure in accordance with paragraph (b) of that subsection.
+>
+> (8) In the case of a person who was in employment at the relevant time, subsections (5) and (7) above shall have effect in relation to disclosures, and intended disclosures, to the appropriate person in accordance with the procedure established by his employer for the making of such disclosures as they have effect in relation to disclosures, and intended disclosures, to a constable or a person so commissioned.
+>
+> (9) A person guilty of an offence under this section is liable—
+>
+> (a) on summary conviction, to imprisonment for a term not exceeding six months or to a fine not exceeding the statutory maximum or to both; or
+>
+> (b) on conviction on indictment, to imprisonment for a term not exceeding fourteen years or to a fine or to both.
+>
+> (10) No constable, person so commissioned or other person shall be guilty of an offence under this section in respect of anything done by him in the course of acting in connection with the enforcement, or intended enforcement, of any provision of this Act or of any other enactment relating to drug trafficking or the proceeds of such trafficking.
+
+.
+
+(2) In section 3(3) of the Act of 1987 (circumstances where assumptions are not to be made), after the word “section” where it first occurs there shall be inserted the words “ 42A or ”.
+
+#### [^F21]18 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 19 Offences in connection with laundering money from drug trafficking: Scotland.
+
+(1) The following sections shall be inserted after section 43 of the [^M9]Criminal Justice (Scotland) Act 1987—
+
+> **43A Failure to disclose knowledge or suspicion of money laundering.**
+>
+> (1) A person is guilty of an offence if—
+>
+> (a) he knows, or suspects, that another person is engaged in drug money laundering,
+>
+> (b) the information, or other matter, on which that knowledge or suspicion is based came to his attention in the course of his trade, profession, business or employment, and
+>
+> (c) he does not disclose the information or other matter to a constable or to a person commissioned by the Commissioners of Customs and Excise as soon as is reasonably practicable after it comes to his attention.
+>
+> (2) Subsection (1) above does not make it an offence for a professional legal adviser to fail to disclose any information or other matter which has come to him in privileged circumstances.
+>
+> (3) It is a defence to a charge of committing an offence under this section that the person charged had a reasonable excuse for not disclosing the information or other matter in question.
+>
+> (4) Where a person discloses to a constable or a person so commissioned—
+>
+> (a) his suspicion or belief that another person is engaged in drug money laundering, or
+>
+> (b) any information or other matter on which that suspicion or belief is based,
+>
+> the disclosure shall not be treated as a breach of any restriction imposed by statute or otherwise.
+>
+> (5) Without prejudice to subsection (3) or (4) above, in the case of a person who was in employment at the relevant time, it is a defence to a charge of committing an offence under this section that he disclosed the information or other matter in question to the appropriate person in accordance with the procedure established by his employer for the making of such disclosures.
+>
+> (6) A disclosure to which subsection (5) above applies shall not be treated as a breach of any restriction imposed by statute or otherwise.
+>
+> (7) In this section “drug money laundering” means doing any act which constitutes an offence under—
+>
+> (a) section 42A or 43 of this Act; or
+>
+> (b) section 14 of the [^M10]Criminal Justice (International Co-operation) Act 1990 (concealing or transferring proceeds of drug trafficking),
+>
+> or, in the case of an act done otherwise than in Scotland, would constitute such an offence if done in Scotland.
+>
+> (8) For the purposes of subsection (7) above, having possession of any property shall be taken to be doing an act in relation to it.
+>
+> (9) For the purposes of this section, any information or other matter comes to a professional legal adviser in privileged circumstances if it is communicated, or given, to him—
+>
+> (a) by, or by a representative of, a client of his in connection with the giving by the adviser of legal advice to the client;
+>
+> (b) by, or by a representative of, a person seeking legal advice from the adviser; or
+>
+> (c) by any person—
+>
+> (i) in contemplation of, or in connection with, legal proceedings; and
+>
+> (ii) for the purpose of those proceedings.
+>
+> (10) No information or other matter shall be treated as coming to a professional legal adviser in privileged circumstances if it is communicated or given with a view to furthering any criminal purpose.
+>
+> (11) A person guilty of an offence under this section shall be liable—
+>
+> (a) on summary conviction, to imprisonment for a term not exceeding six months or a fine not exceeding the statutory maximum or to both, or
+>
+> (b) on conviction on indictment, to imprisonment for a term not exceeding five years or a fine, or to both.
+>
+> **43B Tipping-off.**
+>
+> (1) A person is guilty of an offence if—
+>
+> (a) he knows or suspects that a constable or a person commissioned by the Commissioners of Customs and Excise is acting, or is proposing to act, in connection with an investigation which is being, or is about to be, conducted into drug money laundering within the meaning of subsections (7) and (8) of section 43A of this Act; and
+>
+> (b) he discloses to any other person information or any other matter which is likely to prejudice that investigation, or proposed investigation.
+>
+> (2) A person is guilty of an offence if—
+>
+> (a) he knows or suspects that a disclosure has been made to a constable, or a person so commissioned, under section 42A, 43 or 43A of this Act; and
+>
+> (b) he discloses to any other person information or any other matter which is likely to prejudice any investigation which might be conducted following the disclosure.
+>
+> (3) A person is guilty of an offence if—
+>
+> (a) he knows or suspects that a disclosure of a kind mentioned in section 42A(8), 43(4A) or 43A(5) of this Act has been made; and
+>
+> (b) he discloses to any person information or any other matter which is likely to prejudice any investigation which might be conducted following the disclosure.
+>
+> (4) Nothing in subsections (1) to (3) above makes it an offence for a professional legal adviser to disclose any information or other matter—
+>
+> (a) to, or to a representative of, a client of his in connection with the giving by the adviser of legal advice to the client; or
+>
+> (b) to any person—
+>
+> (i) in contemplation of, or in connection with, legal proceedings; and
+>
+> (ii) for the purpose of those proceedings.
+>
+> (5) Subsection (4) above does not apply in relation to any information or other matter which is disclosed with a view to furthering any criminal purpose.
+>
+> (6) In proceedings against a person for an offence under subsection (1), (2) or (3) above, it is a defence to prove that he did not know or suspect that the disclosure was likely to be prejudicial in the way mentioned in that subsection.
+>
+> (7) A person guilty of an offence under this section shall be liable—
+>
+> (a) on summary conviction, to imprisonment for a term not exceeding six months or a fine not exceeding the statutory maximum or to both, or
+>
+> (b) on conviction on indictment, to imprisonment for a term not exceeding five years or a fine, or to both.
+>
+> (8) No constable, person so commissioned or other person shall be guilty of an offence under this section in respect of anything done by him in the course of acting in connection with the enforcement, or intended enforcement, of any provision of this Act or of any other enactment relating to drug trafficking or the proceeds of such trafficking.
+
+.
+
+(2) In section 43 of the Act of 1987 (assisting another to retain the proceeds of drug trafficking)—
+
+(a) in subsection (3), after the words “trafficking or” there shall be inserted the words “ discloses to a constable or a person so commissioned ”; and
+
+(b) in paragraph (a) of subsection (3), for the word “contract” there shall be substituted “ statute or otherwise ”.
+
+(3) After subsection (4) of that section, there shall be inserted the following subsection—
+
+> (4A) In the case of a person who was in employment at the relevant time, subsections (3) and (4) above shall have effect in relation to disclosures, and intended disclosures, to the appropriate person in accordance with the procedure established by his employer for the making of such disclosures as they have effect in relation to disclosures, and intended disclosures, to a constable or a person commissioned as aforesaid.
+
+.
+
+#### 20 Prosecution by order of the Commissioners of Customs and Excise.
+
+[^F22]1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) The following section shall be inserted in the [^M11]Criminal Justice (Scotland) Act 1987, after section 40—
+
+> **40A Prosecution by order of the Commissioners of Customs and Excise.**
+>
+> (1) Summary proceedings for a specified offence may be instituted by order of the Commissioners and shall, if so instituted, be commenced in the name of an officer.
+>
+> (2) In the case of the death, removal, discharge or absence of the officer in whose name any proceedings for a specified offence were commenced, those proceedings may be continued by another officer.
+>
+> (3) Where the Commissioners investigate, or propose to investigate, any matter with a view to determining—
+>
+> (a) whether there are grounds for believing that a specified offence has been committed, or
+>
+> (b) whether a person should be prosecuted for a specified offence,
+>
+> that matter shall be treated as an assigned matter within the meaning of the [^M12]Customs and Excise Management Act 1979.
+>
+> (4) Nothing in this section shall be taken—
+>
+> (a) to prevent any person (including any officer) who has power to arrest, detain or prosecute any person for a specified offence from doing so; or
+>
+> (b) to prevent a court from proceeding to deal with a person brought before it following his arrest by an officer for a specified offence, even though the proceedings have not been instituted by an order made under subsection (1) above.
+>
+> (5) In this section—
+>
+> - “the Commissioners” means the Commissioners of Customs and Excise;
+>
+> - “officer” means a person commissioned by the Commissioners; and
+>
+> - “specified offence” means—
+>
+>   - (a) an offence under section 42, 42A, 43, 43A or 43B of this Act or section 14 of the [^M13]Criminal Justice (International Co-operation) Act 1990 (concealing or transferring proceeds of drug trafficking);
+>   - (b) attempting to commit, conspiracy to commit or incitement to commit, any such offence; or
+>   - (c) any other offence of a kind prescribed in regulations made by the Secretary of State for the purposes of this section.
+>
+> (6) Regulations under subsection (5) above shall be made by statutory instrument subject to annulment in pursuance of a resolution of either House of Parliament.
+
+.
+
+### Enforcement
+
+#### 21 Enforcement of certain orders.
+
+(1) In section 9 of the [^M14]Criminal Justice (International Co-operation) Act 1990 (enforcement of overseas forfeiture orders), in subsection (1)(b), the words “ or intended for use ” shall be inserted after “used”.
+
+[^F23]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) The same subsection as is inserted in section 24A of the Act of 1986 by subsection (2) shall be inserted in—
+
+[^F23]a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F23]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(c) section 29 of the [^M15]Criminal Justice (Scotland) Act 1987 (but in substitution for subsection (4));
+
+(d) section 30 of the Act of 1987 (but in substitution for subsection (5));
+
+[^F24]e . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F24]f . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F24]g . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(h) section 9 of the [^M16]Criminal Justice (International Co-operation) Act 1990 (but in substitution for subsection (5)).
+
+#### 22 Enforcement of Northern Ireland orders: drug trafficking.
+
+[^F25]1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) In section 29 of the Criminal Justice (Scotland) Act 1987 (enforcement of Northern Ireland orders), the following subsection shall be inserted after subsection (3)—
+
+> (3A) An Order in Council under this section may, in particular, provide for section 18 of the Civil Jurisdiction and Judgments Act 1982 (enforcement of United Kingdom judgments in other parts of the United Kingdom) not to apply in relation to such orders as may be prescribed by the Order.
+
+.
+
+#### 23 Transfer of certain enforcement powers to the Commissioners of Customs and Excise.
+
+(1) The functions of the Secretary of State under section 20 of the Criminal Justice (International Co-operation) Act 1990 (enforcement powers in relation to ships) are transferred to the Commissioners of Customs and Excise.
+
+(2) The following consequential amendments shall be made in the Act of 1990—
+
+(a) in section 20, for “Secretary of State”, “he” and “his”, wherever they occur, there shall be substituted, respectively, “ Commissioners of Customs and Excise ”, “ they ” and “ their ”;
+
+(b) in section 21(3), for “ Secretary of State”, where first occurring, there shall be substituted “ Commissioners of Customs and Excise ”; and
+
+(c) in paragraph 2(2) of Schedule 3, for “Secretary of State” there shall be substituted “ Commissioners of Customs and Excise ”.
+
+(3) The transfer of functions effected by this section shall not affect the validity of any action taken or begun under section 20 of the Act of 1990 before the coming into force of this section.
+
+### Miscellaneous
+
+#### 24 Miscellaneous amendments.
+
+[^F26]1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F26]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F26]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F26]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F26]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F26]6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F26]7 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F26]8 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F26]9 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F26]10 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F26]11 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(12) Section 1 of the [^M17]Criminal Justice (Scotland) Act 1987 (confiscation orders in relation to drug trafficking offences) shall be amended in accordance with subsections (13) to (15).
+
+(13) In subsection (2) (offences in relation to which confiscation orders may be made), the following paragraph shall be inserted after paragraph (b)—
+
+> (bb) an offence under section 42A of this Act;
+
+.
+
+(14) In subsection (6) (definition of “drug trafficking”), after paragraph (e) there shall be inserted the following paragraphs—
+
+> (f) acquiring, having possession of or using property in contravention of section 42A of this Act;
+>
+> (g) concealing or transferring the proceeds of drug trafficking in contravention of section 14 of the Act of 1990;
+>
+> (h) using any ship for illicit traffic in controlled drugs in contravention of section 19 of the Act of 1990;
+
+.
+
+(15) After subsection (6) there shall be inserted the following subsection—
+
+> (7) In paragraphs (e) to (g) of subsection (6) above, references to conduct in contravention of the enactments mentioned in those paragraphs include conduct which would contravene the enactments if it took place in Scotland.
+
+.
+
+#### [^F27]25 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 26 Disclosure of information etc. received in privileged circumstances.
+
+[^F28]1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) The same subsections as are inserted in section 31 of the Act of 1986 by subsection (1) shall be inserted in section 42 of the [^M18]Criminal Justice (Scotland) Act 1987 (corresponding Scottish provision).
+
+## Part III — PROCEEDS OF CRIMINAL CONDUCT
+
+### Confiscation orders
+
+#### [^F29]27 Confiscation orders.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F29]28 Postponed determinations.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Money laundering and other offences
+
+#### [^F29]29 Assisting another to retain the benefit of criminal conduct.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F29]30 Acquisition, possession or use of proceeds of criminal conduct.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F29]31 Concealing or transferring proceeds of criminal conduct.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F29]32 Tipping-off.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F29]33 Application to Scotland of sections 93A to 93D of 1988 Act.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F29]34 Enforcement of Northern Ireland orders: proceeds of criminal conduct.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F29]35 Prosecution by order of the Commissioners of Customs and Excise.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Part IV — FINANCING ETC. OF TERRORISM
+
+### Amendments of the 1991 Act
+
+#### [^F30]36 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F31]37 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F32]38 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F33]39 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F34]40 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F35]41 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F36]42 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F37]43 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F38]44 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F39]45 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F40]46 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F41]47 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F42]48 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Amendments of the 1989 Act
+
+#### [^F43]49 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F44]50 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F45]51 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Part V — INSIDER DEALING
+
+### The offence of insider dealing
+
+#### 52 The offence.
+
+(1) An individual who has information as an insider is guilty of insider dealing if, in the circumstances mentioned in subsection (3), he deals in securities that are price-affected securities in relation to the information.
+
+(2) An individual who has information as an insider is also guilty of insider dealing if—
+
+(a) he encourages another person to deal in securities that are (whether or not that other knows it) price-affected securities in relation to the information, knowing or having reasonable cause to believe that the dealing would take place in the circumstances mentioned in subsection (3); or
+
+(b) he discloses the information, otherwise than in the proper performance of the functions of his employment, office or profession, to another person.
+
+(3) The circumstances referred to above are that the acquisition or disposal in question occurs on a regulated market, or that the person dealing relies on a professional intermediary or is himself acting as a professional intermediary.
+
+(4) This section has effect subject to section 53.
+
+#### 53 Defences.
+
+(1) An individual is not guilty of insider dealing by virtue of dealing in securities if he shows—
+
+(a) that he did not at the time expect the dealing to result in a profit attributable to the fact that the information in question was price-sensitive information in relation to the securities, or
+
+(b) that at the time he believed on reasonable grounds that the information had been disclosed widely enough to ensure that none of those taking part in the dealing would be prejudiced by not having the information, or
+
+(c) that he would have done what he did even if he had not had the information.
+
+(2) An individual is not guilty of insider dealing by virtue of encouraging another person to deal in securities if he shows—
+
+(a) that he did not at the time expect the dealing to result in a profit attributable to the fact that the information in question was price-sensitive information in relation to the securities, or
+
+(b) that at the time he believed on reasonable grounds that the information had been or would be disclosed widely enough to ensure that none of those taking part in the dealing would be prejudiced by not having the information, or
+
+(c) that he would have done what he did even if he had not had the information.
+
+(3) An individual is not guilty of insider dealing by virtue of a disclosure of information if he shows—
+
+(a) that he did not at the time expect any person, because of the disclosure, to deal in securities in the circumstances mentioned in subsection (3) of section 52; or
+
+(b) that, although he had such an expectation at the time, he did not expect the dealing to result in a profit attributable to the fact that the information was price-sensitive information in relation to the securities.
+
+(4) Schedule 1 (special defences) shall have effect.
+
+(5) The Treasury may by order amend Schedule 1.
+
+(6) In this section references to a profit include references to the avoidance of a loss.
+
+### Interpretation
+
+#### 54 Securities to which Part V applies.
+
+(1) This Part applies to any security which—
+
+(a) falls within any paragraph of Schedule 2; and
+
+(b) satisfies any conditions applying to it under an order made by the Treasury for the purposes of this subsection;
+
+and in the provisions of this Part (other than that Schedule) any reference to a security is a reference to a security to which this Part applies.
+
+(2) The Treasury may by order amend Schedule 2.
+
+#### 55 “Dealing” in securities.
+
+(1) For the purposes of this Part, a person deals in securities if—
+
+(a) he acquires or disposes of the securities (whether as principal or agent); or
+
+(b) he procures, directly or indirectly, an acquisition or disposal of the securities by any other person.
+
+(2) For the purposes of this Part, “acquire”, in relation to a security, includes—
+
+(a) agreeing to acquire the security; and
+
+(b) entering into a contract which creates the security.
+
+(3) For the purposes of this Part, “dispose”, in relation to a security, includes—
+
+(a) agreeing to dispose of the security; and
+
+(b) bringing to an end a contract which created the security.
+
+(4) For the purposes of subsection (1), a person procures an acquisition or disposal of a security if the security is acquired or disposed of by a person who is—
+
+(a) his agent,
+
+(b) his nominee, or
+
+(c) a person who is acting at his direction,
+
+in relation to the acquisition or disposal.
+
+(5) Subsection (4) is not exhaustive as to the circumstances in which one person may be regarded as procuring an acquisition or disposal of securities by another.
+
+#### 56 “Inside information”, etc.
+
+(1) For the purposes of this section and section 57, “inside information” means information which—
+
+(a) relates to particular securities or to a particular issuer of securities or to particular issuers of securities and not to securities generally or to issuers of securities generally;
+
+(b) is specific or precise;
+
+(c) has not been made public; and
+
+(d) if it were made public would be likely to have a significant effect on the price of any securities.
+
+(2) For the purposes of this Part, securities are “price-affected securities” in relation to inside information, and inside information is “price-sensitive information” in relation to securities, if and only if the information would, if made public, be likely to have a significant effect on the price of the securities.
+
+(3) For the purposes of this section “price” includes value.
+
+#### 57 “Insiders”.
+
+(1) For the purposes of this Part, a person has information as an insider if and only if—
+
+(a) it is, and he knows that it is, inside information, and
+
+(b) he has it, and knows that he has it, from an inside source.
+
+(2) For the purposes of subsection (1), a person has information from an inside source if and only if—
+
+(a) he has it through—
+
+(i) being a director, employee or shareholder of an issuer of securities; or
+
+(ii) having access to the information by virtue of his employment, office or profession; or
+
+(b) the direct or indirect source of his information is a person within paragraph (a).
+
+#### 58 Information “made public”.
+
+(1) For the purposes of section 56, “made public”, in relation to information, shall be construed in accordance with the following provisions of this section; but those provisions are not exhaustive as to the meaning of that expression.
+
+(2) Information is made public if—
+
+(a) it is published in accordance with the rules of a regulated market for the purpose of informing investors and their professional advisers;
+
+(b) it is contained in records which by virtue of any enactment are open to inspection by the public;
+
+(c) it can be readily acquired by those likely to deal in any securities—
+
+(i) to which the information relates, or
+
+(ii) of an issuer to which the information relates; or
+
+(d) it is derived from information which has been made public.
+
+(3) Information may be treated as made public even though—
+
+(a) it can be acquired only by persons exercising diligence or expertise;
+
+(b) it is communicated to a section of the public and not to the public at large;
+
+(c) it can be acquired only by observation;
+
+(d) it is communicated only on payment of a fee; or
+
+(e) it is published only outside the United Kingdom.
+
+#### 59 “Professional intermediary”.
+
+(1) For the purposes of this Part, a “professional intermediary” is a person—
+
+(a) who carries on a business consisting of an activity mentioned in subsection (2) and who holds himself out to the public or any section of the public (including a section of the public constituted by persons such as himself) as willing to engage in any such business; or
+
+(b) who is employed by a person falling within paragraph (a) to carry out any such activity.
+
+(2) The activities referred to in subsection (1) are—
+
+(a) acquiring or disposing of securities (whether as principal or agent); or
+
+(b) acting as an intermediary between persons taking part in any dealing in securities.
+
+(3) A person is not to be treated as carrying on a business consisting of an activity mentioned in subsection (2)—
+
+(a) if the activity in question is merely incidental to some other activity not falling within subsection (2); or
+
+(b) merely because he occasionally conducts one of those activities.
+
+(4) For the purposes of section 52, a person dealing in securities relies on a professional intermediary if and only if a person who is acting as a professional intermediary carries out an activity mentioned in subsection (2) in relation to that dealing.
+
+#### 60 Other interpretation provisions.
+
+(1) For the purposes of this Part, “regulated market” means any market, however operated, which, by an order made by the Treasury, is identified (whether by name or by reference to criteria prescribed by the order) as a regulated market for the purposes of this Part.
+
+(2) For the purposes of this Part an “issuer”, in relation to any securities, means any company, public sector body or individual by which or by whom the securities have been or are to be issued.
+
+(3) For the purposes of this Part—
+
+(a) “company” means any body (whether or not incorporated and wherever incorporated or constituted) which is not a public sector body; and
+
+(b) “public sector body” means—
+
+(i) the government of the United Kingdom, of Northern Ireland or of any country or territory outside the United Kingdom;
+
+(ii) a local authority in the United Kingdom or elsewhere;
+
+(iii) any international organisation the members of which include the United Kingdom or another member state;
+
+(iv) the Bank of England; or
+
+(v) the central bank of any sovereign State.
+
+(4) For the purposes of this Part, information shall be treated as relating to an issuer of securities which is a company not only where it is about the company but also where it may affect the company’s business prospects.
+
+### Miscellaneous
+
+#### 61 Penalties and prosecution.
+
+(1) An individual guilty of insider dealing shall be liable—
+
+(a) on summary conviction, to a fine not exceeding the statutory maximum or imprisonment for a term not exceeding six months or to both; or
+
+(b) on conviction on indictment, to a fine or imprisonment for a term not exceeding [[^F46]ten years] or to both.
+
+(2) Proceedings for offences under this Part shall not be instituted in England and Wales except by or with the consent of—
+
+(a) the Secretary of State; or
+
+(b) the Director of Public Prosecutions.
+
+(3) In relation to proceedings in Northern Ireland for offences under this Part, subsection (2) shall have effect as if the reference to the Director of Public Prosecutions were a reference to the Director of Public Prosecutions for Northern Ireland.
+
+#### 61A [[^F47]Summary proceedings: venue and time limit for proceedings
+
+(1) Summary proceedings for an offence of insider dealing may (without prejudice to any jurisdiction exercisable apart from this subsection) be brought against an individual at any place at which the individual is for the time being.
+
+(2) An information relating to an offence of insider dealing that is triable by a magistrates’ court in England and Wales may be so tried if it is laid—
+
+(a) at any time within three years after the commission of the offence, and
+
+(b) within twelve months after the date on which evidence sufficient in the opinion of the Director of Public Prosecutions or the Secretary of State (as the case may be) to justify the proceedings comes to that person’s knowledge.
+
+(3) Summary proceedings in Scotland for an offence of insider dealing—
+
+(a) must not be commenced after the expiration of three years from the commission of the offence;
+
+(b) subject to that, may be commenced at any time—
+
+(i) within twelve months after the date on which evidence sufficient in the Lord Advocate’s opinion to justify the proceedings came to that person’s knowledge, or
+
+(ii) where such evidence was reported to the Lord Advocate by the Secretary of State, within twelve months after the date on which it came to the knowledge of the latter.
+
+Section 136(3) of the Criminal Procedure (Scotland) Act 1995 (date when proceedings deemed to be commenced) applies for the purposes of this subsection as for the purposes of that section.
+
+(4) A magistrates’ court in Northern Ireland has jurisdiction to hear and determine a complaint charging the commission of a summary offence of insider dealing provided that the complaint is made—
+
+(a) within three years from the time when the offence was committed, and
+
+(b) within twelve months from the date on which evidence sufficient in the opinion of the Director of Public Prosecutions for Northern Ireland or the Secretary of State (as the case may be) to justify the proceedings comes to that person’s knowledge.
+
+(5) For the purposes of this section a certificate of the Director of Public Prosecutions, the Lord Advocate, the Director of Public Prosecutions for Northern Ireland or the Secretary of State (as the case may be) as to the date on which such evidence as is referred to above came to that person’s notice is conclusive evidence.]
+
+#### 62 Territorial scope of offence of insider dealing.
+
+(1) An individual is not guilty of an offence falling within subsection (1) of section 52 unless—
+
+(a) he was within the United Kingdom at the time when he is alleged to have done any act constituting or forming part of the alleged dealing;
+
+(b) the regulated market on which the dealing is alleged to have occurred is one which, by an order made by the Treasury, is identified (whether by name or by reference to criteria prescribed by the order) as being, for the purposes of this Part, regulated in the United Kingdom; or
+
+(c) the professional intermediary was within the United Kingdom at the time when he is alleged to have done anything by means of which the offence is alleged to have been committed.
+
+(2) An individual is not guilty of an offence falling within subsection (2) of section 52 unless—
+
+(a) he was within the United Kingdom at the time when he is alleged to have disclosed the information or encouraged the dealing; or
+
+(b) the alleged recipient of the information or encouragement was within the United Kingdom at the time when he is alleged to have received the information or encouragement.
+
+#### 63 Limits on section 52.
+
+(1) Section 52 does not apply to anything done by an individual acting on behalf of a public sector body in pursuit of monetary policies or policies with respect to exchange rates or the management of public debt or foreign exchange reserves.
+
+(2) No contract shall be void or unenforceable by reason only of section 52.
+
+#### 64 Orders.
+
+(1) Any power under this Part to make an order shall be exercisable by statutory instrument.
+
+(2) No order shall be made under this Part unless a draft of it has been laid before and approved by a resolution of each House of Parliament.
+
+(3) An order under this Part—
+
+(a) may make different provision for different cases; and
+
+(b) may contain such incidental, supplemental and transitional provisions as the Treasury consider expedient.
+
+## Part VI — MISCELLANEOUS
+
+### 65 Fixing of fines.
+
+[^F48]1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) Section 19 of the Act of 1991 (fixing of fines in cases to which the unit fines system did not apply) shall cease to have effect.
+
+(3) The further amendments made by Schedule 3 shall have effect.
+
+(4) The amendments made by this section and that Schedule shall apply in relation to offenders convicted (but not sentenced) before the date on which this section comes into force as they apply in relation to offenders convicted after that date.
+
+### [^F49]66 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 67 Penalty for causing death by dangerous driving or by careless driving.
+
+(1) In Part I of Schedule 2 to the [^M19]Road Traffic Offenders Act 1988 (prosecution and punishment of offences), in the entries relating to section 1 of the Road Traffic Act [^M20]1988 (causing death by dangerous driving) and section 3A of that Act (causing death by careless driving while under influence of drink or drugs), in column 4, for “5 years” there shall be substituted “ 10 years ”.
+
+[^F50]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F51]68 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F52]69 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 70 Penalties under implementation regulations.
+
+(1) Paragraphs 8(3), 9(2) and 10(3) of Schedule 8 to the Banking Coordination (Second Council Directive) Regulations 1992 shall cease to have effect.
+
+(2) [^M21]Regulations under section 2(2) of the European Communities Act 1972 for the purpose of implementing—
+
+[[^F53](a) Articles 52 and 159 of Directive 2013/36/EU of the European Parliament and of the Council of 26 June 2013 relating to the activity of credit institutions and the prudential supervision of credit institutions and investment firms, amending Directive 2002/87/EC and repealing Directives 2006/48/EC and 2006/49/EC (which requires the United Kingdom to make provision for the exercise in the United Kingdom by supervisory authorities of other Member States of information and inspection powers in relation to institutions authorised by them), or
+
+(b) Articles 119(2) and (3), 122 and 124 to 126 of that Directive (which make similar provision in relation to the consolidated supervision of institutions).]
+
+may, notwithstanding paragraph 1(1)(d) of Schedule 2 to that Act, create offences punishable in the same way as offences [[^F54]punishable on summary conviction under section 177 of the Financial Services and Markets Act 2000].
+
+(3) In this section—
+
+- “the Second Banking Co-ordination Directive” means the [^M22]Community Council Directive No. 89/646/EEC on the co-ordination of laws, regulations and administrative provisions relating to the taking up and pursuit of the business of credit institutions and amending Directive 77/780/EEC; and
+- “the Supervision of Credit Institutions Directive” means the [^M23]Community Council Directive No. 92/30/EEC on the supervision of credit institutions on a consolidated basis.
+
+(4) Subsection (1) shall not affect the punishment for an offence committed before that subsection comes into force.
+
+### 71 Offences in connection with taxation etc. in [[^F55]the European Union] .
+
+(1) A person who, in the United Kingdom, assists in or induces any conduct outside the United Kingdom which involves the commission of a serious offence against the law of another member State is guilty of an offence under this section if—
+
+(a) the offence involved is one consisting in or including the contravention of provisions of the law of that member State which relate to any of the matters specified in subsection (2);
+
+(b) the offence involved is one consisting in or including the contravention of other provisions of that law so far as they have effect in relation to any of those matters; or
+
+(c) the c onduct is such as to be calculated to have an effect in that member State in relation to any of those matters.
+
+(2) The matters mentioned in subsection (1) are—
+
+(a) the determination, discharge or enforcement of any liability for a Community duty or tax;
+
+(b) the operation of arrangements under which reliefs or exemptions from any such duty or tax are provided or sums in respect of any such duty or tax are repaid or refunded;
+
+(c) the making of payments in pursuance of Community arrangements made in connection with the regulation of the market for agricultural products and the enforcement of the conditions of any such payments;
+
+(d) the movement into or out of any member State of anything in relation to the movement of which any [[^F56]EU] instrument imposes, or requires the imposition of, any prohibition or restriction; and
+
+(e) such other matters in relation to which provision is made by any [[^F56]EU] instrument as the Secretary of State may by order specify.
+
+(3) For the purposes of this section—
+
+(a) an offence against the law of a member State is a serious offence if provision is in force in that member State authorising the sentencing, in some or all cases, of a person convicted of that offence to imprisonment for a maximum term of twelve months or more; and
+
+(b) the question whether any conduct involves the commission of such an offence shall be determined according to the law in force in the member State in question at the time of the assistance or inducement.
+
+(4) In any proceedings against any person for an offence under this section it shall be a defence for that person to show—
+
+(a) that the conduct in question would not have involved the commission of an offence against the law of the member State in question but for circumstances of which he had no knowledge; and
+
+(b) that he did not suspect or anticipate the existence of those circumstances and did not have reasonable grounds for doing so.
+
+(5) For the purposes of any proceedings for an offence under this section, a certificate purporting to be issued by or on behalf of the government of another member State which contains a statement, in relation to such times as may be specified in the certificate—
+
+(a) that a specified offence existed against the law of that member State,
+
+(b) that an offence against the law of that member State was a serious offence within the meaning of this section,
+
+(c) that such an offence consists in or includes the contravention of particular provisions of the law of that member State,
+
+(d) that specified provisions of the law of that member State relate to, or are capable of having an effect in relation to, particular matters,
+
+(e) that specified conduct involved the commission of a particular offence against the law of that member State, or
+
+(f) that a particular effect in that member State in relation to any matter would result from specified conduct,
+
+shall, in the case of a statement falling within paragraphs (a) to (d), be conclusive of the matters stated and, in the other cases, be evidence, and in Scotland sufficient evidence, of the matters stated.
+
+(6) A person guilty of an offence under this section shall be liable—
+
+(a) on summary conviction, to a penalty of the statutory maximum or to imprisonment for a term not exceeding six months or to both; or
+
+(b) on conviction on indictment, to a penalty of any amount or to imprisonment for a term not exceeding seven years or to both.
+
+(7) Sections 145 to 152 and 154 of the [^M24]Customs and Excise Management Act 1979 (general provisions as to legal proceedings) shall apply as if this section were contained in that Act; and an offence under this section shall be treated for all purposes as an offence for which a person is liable to be arrested under the customs and excise Acts.
+
+(8) The power of the Secretary of State to make an order under subsection (2)(e) shall be exercisable by statutory instrument; and no such order shall be made unless a draft of the order has been laid before, and approved by a resolution of, each House of Parliament.
+
+(9) In this section—
+
+- “another member State” means a member State other than the United Kingdom;
+
+- “Community duty or tax” means any of the following, that is to say—
+
+  - (a) any [[^F56]EU] customs duty;
+  - (b) an agricultural levy of [[^F55]the European Union] ;
+  - (c) value added tax under the law of another member State;
+  - (d) any duty or tax on tobacco products, alcoholic liquors or hydrocarbon oils which, in another member State, corresponds to any excise duty;
+  - (e) any duty, tax or other charge not falling within paragraphs (a) to (d) of this definition which is imposed by or in pursuance of any [[^F56]EU] instrument on the movement of goods into or out of any member State;
+
+- “conduct” includes acts, omissions and statements;
+
+- “contravention” includes a failure to comply; and
+
+- “the customs and excise Acts” has the same meaning as in the Customs and Excise Management Act 1979.
+
+(10) References in this section, in relation to [[^F56]an EU] instrument, to the movement of anything into or out of a member State include references to the movement of anything between member States and to the doing of anything which falls to be treated for the purposes of that instrument as involving the entry into, or departure from, the territory of [[^F55]the European Union] of any goods (within the meaning of that Act of 1979).
+
+### [^F57]72 Backing of warrants: safeguards.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 73 Power of Secretary of State to make grants in relation to combating drug misuse.
+
+(1) The Secretary of State may, with the consent of the Treasury, pay such grants, to such persons, as he considers appropriate in connection with measures intended—
+
+(a) to combat or deal with drug trafficking or the misuse of drugs; or
+
+(b) to deal with consequences of the misuse of drugs.
+
+(2) Any such grant may be made subject to such conditions as the Secretary of State may, with the agreement of the Treasury, see fit to impose.
+
+(3) Payments under this section shall be made out of money provided by Parliament.
+
+### 74 Persons not eligible for early release.
+
+(1) Part II of Schedule 1 to the [^M25]Criminal Justice Act 1982 (persons convicted of offences under certain enactments not eligible for early release) shall be amended as follows.
+
+(2) In the entry relating to the [^M26]Drug Trafficking Offences Act 1986, the following paragraph shall be inserted before paragraph 26—
+
+> **25A**
+>
+> Section 23A (acquisition, possession or use of proceeds of drug trafficking).
+
+.
+
+(3) In the entry relating to the [^M27]Criminal Justice Act 1988, the following paragraphs shall be inserted before paragraph 30—
+
+> **29A**
+>
+> Section 93A (assisting another to retain the benefit of criminal conduct).
+>
+> **29B**
+>
+> Section 93B (acquisition, possession or use of proceeds of criminal conduct).
+>
+> **29C**
+>
+> Section 93C (concealing or transferring proceeds of criminal conduct).
+
+.
+
+### 75 Compassionate release of certain children and other persons in Scotland.
+
+(1) In section 7(5) of the [^M28]Prisoners and Criminal Proceedings (Scotland) Act 1993 (which applies provisions of that Act to certain children), for “Sections”, where it first occurs, substitute “ Without prejudice to section 6(1)(b)(ii) of this Act, sections 3, ”.
+
+(2) In paragraph 2(2) of Schedule 6 to that Act (which makes transitional provision as respects release on licence on compassionate grounds) after “Act” insert “ , and sections 12 and 17 of this Act in so far as relating to a licence granted, or person released, by virtue of this sub-paragraph, ”.
+
+### 76 Life prisoners transferred to Scotland.
+
+(1) The Prisoners and Criminal Proceedings (Scotland) Act 1993 shall be amended as follows.
+
+(2) In section 10 (life prisoners transferred to Scotland)—
+
+(a) in subsection (1), the words “(whether before or after the commencement of this section)” shall cease to have effect;
+
+(b) in subsection (2), after “life prisoner” insert “ , except such case as is mentioned in paragraph 7 of Schedule 6 to this Act, ”; and
+
+(c) in subsection (4)—
+
+(i) in paragraph (a), after “has” insert “ (whether before or after the commencement of this section) ”; and
+
+(ii) in paragraph (b), after “Scotland” insert “ (whether before or after that commencement) ”.
+
+(3) In Schedule 6 (transitional provisions and savings)—
+
+(a) in paragraph 1, in the definition of “existing life prisoner”, after “person” insert “ (other than a transferred life prisoner) ”;
+
+(b) in paragraph 2(1), for “paragraph 7 below” substitute “ to section 10(4) of this Act ”; and
+
+(c) for paragraph 7 substitute—
+
+> **7**
+>
+> In the case of a transferred life prisoner who is a discretionary life prisoner for the purposes of Part II of the [^M29]Criminal Justice Act 1991 by virtue of section 48 of or paragraph 9 of Schedule 12 to that Act, subsection (3) of section 10 of this Act applies and the certificate mentioned in paragraph (b) of that subsection is the certificate under the said section 48 or paragraph 9.
+
+.
+
+### 77 Power to extend certain offences to Crown servants and to exempt regulators etc.
+
+Schedule 4, which confers power on the Secretary of State to make regulations extending certain provisions to Crown servants and to make regulations exempting persons from certain offences, shall have effect.
+
+## PART VII — SUPPLEMENTARY
+
+### 78 Commencement etc.
+
+(1) Sections 70 and 71 shall come into force at the end of the period of two months beginning with the day on which this Act is passed.
+
+(2) Sections 68, 69, 75, 76 and 79(1) to (12), paragraph 2 of Schedule 5 and, in so far as relating to the [^M30]Criminal Procedure (Scotland) Act 1975 and the [^M31]Prisoners and Criminal Proceedings (Scotland) Act 1993, Schedule 6, shall come into force on the passing of this Act.
+
+(3) The other provisions of this Act shall come into force on such day as may be appointed by the Secretary of State by an order made by statutory instrument.
+
+(4) Different days may be appointed under subsection (3) for different provisions and different purposes.
+
+(5) Nothing in any provision in Part I applies to any act, omission or other event occurring before the coming into force of that provision.
+
+(6) Where a person is charged with a relevant offence which was committed before the coming into force of a provision of Part II, Part III, or (as the case may be) Part IV, that provision shall not affect the question whether or not that person is guilty of the offence [[^F58]and, where it confers a power on the court, shall not apply inm proceedings instituted befor the coming into force of that provision].
+
+[^F59]7 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F60]8 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(9) In subsection (6) “relevant offence” means an offence in relation to which provision is made by Part II, Part III or Part IV, other than an offence created by that Part.
+
+(10) An order under subsection (3) may contain such transitional provisions and savings as the Secretary of State considers appropriate.
+
+[^F61]11 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F60]12 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 79 Short title, extent etc.
+
+(1) This Act may be cited as the Criminal Justice Act 1993.
+
+(2) The following provisions of this Act extend to the United Kingdom—
+
+Part V;
+
+sections 21(1) and (3)(h), 23, 24, 45 to 51, 70 to 72, 77, 78 and this section;
+
+Schedules 1 and 2; and
+
+paragraphs 4 [^F62]. . . and 6 of Schedule 4.
+
+(3) The following provisions of this Act extend only to Great Britain—
+
+sections [^F63]. . .21(3)(e), [^F63]. . .29 to 32, 34(1), 35, 67(1) and 73; and
+
+paragraph 3 of Schedule 4.
+
+(4) The following provisions of this Act extend only to Scotland—
+
+sections 17, 19, 20(2), 21(3)(c) and (d), 22(2), 24(12) to (15), 26(2), 33, 68, 69, 75 and 76; and
+
+paragraph 2 of Schedule 4.
+
+(5) Sections 21(3)(f) and 34(2) [[^F64]and paragraph 5 of Schedule 4]extend to Scotland and Northern Ireland only.
+
+[^F65]6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F66]7 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(8) The provisions of Schedules 5 and 6 have the same extent as the provisions on which they operate.
+
+(9) Otherwise, this Act extends to England and Wales only.
+
+(10) Her Majesty may by Order in Council direct that such provisions of this Act as may be specified in the Order shall extend, with such exceptions and modifications as appear to Her Majesty to be appropriate, to any colony.
+
+[^F67]11 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(12) An Order in Council under paragraph 1(1)(b) of Schedule 1 to the [^M32]Northern Ireland Act 1974 (legislation for Northern Ireland in the interim period) which contains a statement that it is made only for purposes corresponding to purposes of any of sections 16, 18 and 29 to 32—
+
+(a) shall not be subject to paragraph 1(4) and (5) of that Schedule (affirmative resolution of both Houses of Parliament); but
+
+(b) shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(13) Schedule 5 (consequential amendments) shall have effect.
+
+(14) The repeals and revocations set out in Schedule 6 (which include the repeal of two enactments which are spent) shall have effect.
+
+## SCHEDULE 1 — Special defences
+
+*Section 53(4).*
+
+### Market makers
+
+**1** (1) An individual is not guilty of insider dealing by virtue of dealing in securities or encouraging another person to deal if he shows that he acted in good faith in the course of—
+
+(a) his business as a market maker, or
+
+(b) his employment in the business of a market maker.
+
+(2) A market maker is a person who—
+
+(a) holds himself out at all normal times in compliance with the rules of a regulated market or an approved organisation as willing to acquire or dispose of securities; and
+
+(b) is recognised as doing so under those rules.
+
+(3) In this paragraph “approved organisation” means an international securities self-regulating organisation approved [[^F68]by the Treasury under any relevant order under section 22 of the Financial Services and Markets Act 2000].
+
+### Market information
+
+**2** (1) An individual is not guilty of insider dealing by virtue of dealing in securities or encouraging another person to deal if he shows that—
+
+(a) the information which he had as an insider was market information; and
+
+(b) it was reasonable for an individual in his position to have acted as he did despite having that information as an insider at the time.
+
+(2) In determining whether it is reasonable for an individual to do any act despite having market information at the time, there shall, in particular, be taken into account—
+
+(a) the content of the information;
+
+(b) the circumstances in which he first had the information and in what capacity; and
+
+(c) the capacity in which he now acts.
+
+**3** An individual is not guilty of insider dealing by virtue of dealing in securities or encouraging another person to deal if he shows—
+
+(a) that he acted—
+
+(i) in connection with an acquisition or disposal which was under consideration or the subject of negotiation, or in the course of a series of such acquisitions or disposals; and
+
+(ii) with a view to facilitating the accomplishment of the acquisition or disposal or the series of acquisitions or disposals; and
+
+(b) that the information which he had as an insider was market information arising directly out of his involvement in the acquisition or disposal or series of acquisitions or disposals.
+
+**4** For the purposes of paragraphs 2 and 3 market information is information consisting of one or more of the following facts—
+
+(a) that securities of a particular kind have been or are to be acquired or disposed of, or that their acquisition or disposal is under consideration or the subject of negotiation;
+
+(b) that securities of a particular kind have not been or are not to be acquired or disposed of;
+
+(c) the number of securities acquired or disposed of or to be acquired or disposed of or whose acquisition or disposal is under consideration or the subject of negotiation;
+
+(d) the price (or range of prices) at which securities have been or are to be acquired or disposed of or the price (or range of prices) at which securities whose acquisition or disposal is under consideration or the subject of negotiation may be acquired or disposed of;
+
+(e) the identity of the persons involved or likely to be involved in any capacity in an acquisition or disposal.
+
+### [[^F69]Buy-back programmes and stabilisation
+
+**5** [[^F70](1)] An individual is not guilty of insider dealing by virtue of dealing in securities or encouraging another person to deal if he shows that he acted in conformity with—
+
+(a) Article 5 of Regulation (EU) No 596/2014 of the European Parliament and of the Council of 16 April 2014 on market abuse (market abuse regulation)[[^F71], as that Article has effect at the time mentioned in sub-paragraph (2),] [[^F72]and—
+
+(i) each EU regulation, originally made under that Article before that time, which is [[^F73]assimilated direct] legislation; and
+
+(ii) all subordinate legislation (within the meaning of the Interpretation Act 1978) made under that Article on or after IP completion day;]
+
+(b) rules made under section 137Q(1) of the Financial Services and Markets Act 2000.]
+
+[[^F74](2) The time is the beginning of the day on which the Market Abuse (Amendment) (EU Exit) Regulations 2019 are made.]
+
+**[[^F75]6** An individual (“A”) is not guilty of insider dealing by virtue of dealing, or encouraging another person to deal, in securities through a trading venue in Gibraltar if A shows that A acted in conformity with—
+
+(a) the following as they have effect in Gibraltar law—
+
+(i) Article 5 of Regulation (EU) No 596/2014 of the European Parliament and of the Council of 16 April 2014 on market abuse (market abuse regulation), and
+
+(ii) each EU regulation originally made under that Article, and
+
+(b) all other applicable Gibraltar law (if any).
+
+**7** An individual (“A”) is not guilty of insider dealing by virtue of dealing, or encouraging another person to deal, in securities through a trading venue in an EEA State if A shows that A acted in conformity with—
+
+(a) the following as they apply in the EEA State—
+
+(i) Article 5 of Regulation (EU) No 596/2014 of the European Parliament and of the Council of 16 April 2014 on market abuse (market abuse regulation), and
+
+(ii) each EU regulation made under that Article, and
+
+(b) all other applicable law of the EEA State (if any).
+
+**8** For the purposes of paragraphs 6 and 7 “trading venue” has the meaning given by Article 2(1)(16) of Regulation (EU) No 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Regulation (EU) No 648/2012, as substituted by the Markets in Financial Instruments (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1403).]
+
+## SCHEDULE 2
+
+### PART 1 — Securities
+
+**[[^F76]1** Transferable securities.
+
+**2** Money-market instruments.
+
+**3** Units in collective investment undertakings.
+
+**4** Options, futures, swaps, forward rate agreements and any other derivative contracts relating to securities, currencies, interest rates or yields, emission allowances or other derivatives instruments, financial indices or financial measures which may be settled physically or in cash.
+
+**5** Options, futures, swaps, forwards and any other derivative contracts relating to commodities that must be settled in cash or may be settled in cash at the option of one of the parties (other than by reason of a default or other termination event).
+
+**6** Options, futures, swaps, and any other derivative contract relating to commodities that can be physically settled provided they are traded on a UK regulated market, a UK MTF or a UK OTF, except for wholesale energy products traded on a UK OTF that must be physically settled.
+
+**7** Options, futures, swaps, forwards and any other derivative contracts relating to commodities, that can be physically settled not otherwise mentioned in paragraph 6 and not being for commercial purposes or wholesale energy products traded on an EU OTF that must be physically settled, which have the characteristics of other derivative financial instruments.
+
+**8** Derivative instruments for the transfer of credit risk.
+
+**9** Financial contracts for differences.
+
+**10** Options, futures, swaps, forward rate agreements and any other derivative contracts relating to climatic variables, freight rates or inflation rates or other official economic statistics that must be settled in cash or may be settled in cash at the option of one of the parties other than by reason of default or other termination event, as well as any other derivative contracts relating to assets, rights, obligations, indices and measures not otherwise mentioned in this Schedule, which have the characteristics of other derivative financial instruments, having regard to whether, inter alia, they are traded on a UK regulated market, a UK OTF, or a UK MTF.
+
+**11** Emission allowances consisting of any units recognised for compliance with the requirements of Directive 2003/87/EC (Emissions Trading Scheme) or allowances created under article 18 of the Greenhouse Gas Emissions Trading Scheme Order 2020.
+
+### PART 2 — Interpretation
+
+**12** Part 2 of Schedule 2 to the RAO (“the RAO Schedule”) (financial instruments and investment services and activities) applies for the purposes of Part 1 of this Schedule as it applies for the purposes of Part 1 of the RAO Schedule but as if references in Part 2 of the RAO Schedule to paragraphs in Part 1 of the RAO Schedule were references to the equivalent paragraphs in Part 1 of this Schedule.
+
+**13** Terms used in this Schedule and in the RAO have the same meaning in this Schedule as in the RAO.
+
+**14** References in paragraphs 12 and 13 to the RAO are to the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001 (S.I. 2001/544) as it had effect on 17th April 2023.]
+
+## SCHEDULE 3 — Financial penalties
+
+*Section 65(3).*
+
+### Increases in certain maximum fines
+
+**1** (1) In section 17 of the [^M33]Criminal Justice Act 1991 (increases in certain maximum fines), subsection (3)(e) shall cease to have effect.
+
+(2) In Schedule 4 to that Act (increase of certain maxima) Part V shall cease to have effect.
+
+### Statements as to offenders’ financial circumstances
+
+**[^F77]2** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Remission of fines
+
+**[^F78]3** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Default in paying unit fines
+
+**4** Section 22 of the Act of 1991 (default in paying fines fixed under section 18 of that Act) shall cease to have effect.
+
+### Responsibility of parents and guardians
+
+**[^F79]5** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Other amendments
+
+**6** [^F80]1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F80]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) In section 97 of the [^M34]Magistrates’ Courts Act 1980 (maximum fine for refusal to give evidence), the following subsection shall be substituted for subsection (5)—
+
+> (5) A fine imposed under subsection (4) above shall be deemed, for the purposes of any enactment, to be a sum adjudged to be paid by a conviction.
+
+.
+
+(4) In section 12 of the [^M35]Contempt of Court Act 1981 (maximum fine for contempt in face of magistrates’ court), the following subsection shall be substituted for subsection (2A)—
+
+> (2A) A fine imposed under subsection (2) above shall be deemed, for the purposes of any enactment, to be a sum adjudged to be paid by a conviction.
+
+.
+
+(5) In section 14 of that Act (maximum fine for contempt in an inferior court), the following subsection shall be substituted for the subsection (2A) inserted by the [^M36]Criminal Justice Act 1991—
+
+> (2A) A fine imposed under subsection (2) above shall be deemed, for the purposes of any enactment, to be a sum adjudged to be paid by a conviction.
+
+.
+
+[^F80]6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F80]7 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Schedule 4 — Extensions and Exemptions
+
+*Section 77.*
+
+### The Drug Trafficking Offences Act 1986 (c.32)
+
+**[^F81]1** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Criminal Justice (Scotland) Act 1987 (c.41)
+
+**2** The same section as is inserted in the Act of 1986 by paragraph 1 shall be inserted in the Criminal Justice (Scotland) Act 1987, after section 46, as section 46A, but with the substitution—
+
+(a) in subsection (1), of “ sections 42 to 43B of this Act ” for “sections 23A, 24, 26B, 26C and 31 of this Act”; and
+
+(b) in subsection (2), of “ 43A ” for “26B”.
+
+### The Criminal Justice Act 1988 (c.33)
+
+**[^F82]3** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Prevention of Terrorism (Temporary Provisions) Act 1989 (c.4)
+
+**[^F83]4** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Criminal Justice (International Co-operation) Act 1990 (c.5)
+
+**[[^F84]5** The same section as is inserted in the Act of 1986 by paragraph 1 shall be inserted in the Criminal Justice (International Co-operation) Act 1990, after section 23, as section 23A, but with—
+
+(a) the substitution in subsection (1), of “ section 14(2) above ” for “sections 23A, 24, 26B, 26C and 31 of this Act”; and
+
+(b) the omission of subsections (2) to (4).]
+
+### The Northern Ireland (Emergency Provisions) Act 1991 (c.24)
+
+**[^F85]6** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 5 — Consequential Amendments
+
+*Section 79(13).*
+
+### Part I — Enactments
+
+#### The Criminal Appeal Act 1968 (c.19)
+
+**1** In section 50 of the Criminal Appeal Act 1968 (meaning of “sentence”), the following shall be substituted for subsection (1)—
+
+> (1) In this Act “sentence”, in relation to an offence, includes any order made by a court when dealing with an offender including, in particular—
+>
+> (a) a hospital order under Part III of the [^M37]Mental Health Act 1983, with or without a restriction order;
+>
+> (b) an interim hospital order under that Part;
+>
+> (c) a recommendation for deportation;
+>
+> (d) a confiscation order under the [^M38]Drug Trafficking Offences Act 1986 other than one made by the High Court;
+>
+> (e) a confiscation order under Part VI of the [^M39]Criminal Justice Act 1988;
+>
+> (f) an order varying a confiscation order of a kind which is included by virtue of paragraph (d) or (e) above;
+>
+> (g) an order made by the Crown Court varying a confiscation order which was made by the High Court by virtue of section 4A of the Act of 1986; and
+>
+> (h) a declaration of relevance under the [^M40]Football Spectators Act 1989.
+
+.
+
+#### The Criminal Procedure (Scotland) Act 1975 (c. 21)
+
+**[^F86]2** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### The Criminal Appeal (Northern Ireland) Act 1980 (c.47)
+
+**[^F87]3** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### The Companies Act 1985 (c.6)
+
+**[^F88]4** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### The Drug Trafficking Offences Act 1986 (c.32)
+
+**[^F89]5** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F90]6** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### The Financial Services Act 1986 (c.60)
+
+**[^F91]7** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F92]8** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F93]9** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F94]10** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F95]11** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F96]12** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### The Banking Act 1987 (c.22)
+
+**[^F97]13** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### The Criminal Justice Act 1988 (c.33)
+
+**[^F98]14** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### The Prevention of Terrorism (Temporary Provisions) Act 1989 (c.4)
+
+**[^F99]15** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### The Companies Act 1989 (c.40)
+
+**16** In section 82(2)(b) of the Companies Act 1989 (request for assistance by overseas regulatory authority) for “the Company Securities (Insider Dealing) Act 1985” there shall be substituted “ Part V of the Criminal Justice Act 1993 (insider dealing) ”.
+
+#### The Northern Ireland (Emergency Provisions) Act 1991 (c.24)
+
+**[^F100]17** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F101]Part II — Orders in Council under the Northern Ireland Act 1974
+
+#### [^F101] The Companies (Northern Ireland) Order 1986 (Statutory InstrumentS.I. 1986/1032 (N.I.6))
+
+**[^F101]18** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F101]19** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F101]20** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F101] The Companies (Northern Ireland) Order 1989 (Statutory InstrumentS.I. 1989/2404 (N.I.18))
+
+**[^F101]21** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F101] The Insolvency (Northern Ireland) Order 1989 (Statutory InstrumentS.I. 1989/2405 (N.I. 19))
+
+**[^F101]22** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 6 — Repeals and Revocations
+
+*Section 79(14).*
+
+### Part I — Repeals
+
+|  |  |  |
+|---|---|---|
+| Chapter | Short title | Extent of repeal |
+| 1975 c. 21. | The Criminal Procedure (Scotland) Act 1975. | In section 442B, the words “against sentence alone”. |
+| 1980 c. 43. | The Magistrates Courts Act 1980. | In section 12(1)(a) the words “and section 18 of the Criminal Justice Act 1991 (unit fines)”. |
+| 1985 c. 8. | The Company Securities (Insider Dealing) Act 1985. | The whole Act. |
+| 1986 c. 32. | The Drug Trafficking Offences Act 1986. | In section 1, in subsection (5)(b)(iii), the words from “section 39” to “bankruptcy orders)” and subsection (8).In section 5(3), the words “sections 3 and 4 of”.In section 26A(3), the words from “or by” to the end.In section 27(5), the words “or, as the case may be, the sheriff”.In section 38(2), the entries relating to a confiscation order and a defendant. |
+| [^F102] . . . | [^F102] . . . | [^F102] . . . |
+| [^F102] . . . | [^F102] . . .. | [^F102] . . . |
+| 1987 c. 38. | The Criminal Justice Act 1987. | In section 3(6)(i), the words “or any corresponding enactment having effect in Northern Ireland”. |
+| 1988 c. 33. | The Criminal Justice Act 1988. | Section 48.Section 98. |
+| 1989 c. 4. | The Prevention of Terrorism (Temporary Provisions) Act 1989. | In section 9(1), the word “or” immediately before paragraph (b). |
+| 1989 c. 40. | The Companies Act 1989. | Section 209. |
+| 1990 c. 5. | The Criminal Justice (International Co-operation) Act 1990. | Section 14(3) and (5). |
+| 1991 c. 24. | The Northern Ireland (Emergency Provisions) Act 1991. | In section 48(3), the words “during the period of postponement”.In section 50(2), the word “or” immediately before paragraph (c).Section 51(3).Section 67(6). |
+| 1991 c. 53. | The Criminal Justice Act 1991. | Section 17(3)(e).Section 19.Section 20(5).Section 22.Section 28(3).In section 30(1), the words “or the Lord Chancellor”.In Schedule 4, Part V.In Schedule 11, paragraph 24. |
+| 1993 c. 9. | The Prisoners and Criminal Proceedings (Scotland) Act 1993. | In section 10(1), the words “(whether before or after the commencement of this section)”. |
+
+### Part II — Revocations
+
+|  |  |  |
+|---|---|---|
+| Number | Title | Extent of revocation |
+| S.I. 1986/1034 (N.I. 8). | The Company Securities (Insider Dealing) (Northern Ireland) Order 1986. | The whole Order. |
+| S.I. 1989/2404 (N.I. 18). | The Companies (Northern Ireland) Order 1989. | In Article 2(2), the definition of “the Insider Dealing Order”.In Article 11(1), the words “or Article 16A of the Insider Dealing Order”.Articles 27 to 34.Article 35(2) and (3). |
+| S.I. 1989/2405 (N.I. 19). | The Insolvency (Northern Ireland) Order 1989. | Article 104A(1)(b). |
+| S.I. 1990/1504 (N.I. 10). | The Companies (No.2) (Northern Ireland) Order 1990. | In Article 2(2), the definition of “the Insider Dealing Order”.Articles 21 to 23. |
+| S.I. 1992/3218. | The Banking Coordination (Second Council Directive) Regulations 1992. | In Schedule 8, paragraphs 8(3), 9(2) and 10(3).In Schedule 10, paragraphs 17 and 25. |
+
+---
+
+[^M1]: 1968 c. 60.
+[^F1]: Words in s. 1(2)(a) repealed (15.1.2007) by Fraud Act 2006 (c. 35), s. 15(1), Sch. 1 para. 24(1), Sch. 3; S.I. 2006/3200, art. 2
+[^F2]: S. 1(2): entry relating to s. 24A inserted (18.12.1996) by 1996 c. 62, s. 3(3)
+[^F3]: S. 1(2)(b) repealed (15.1.2007) by Fraud Act 2006 (c. 35), s. 15(1), Sch. 1 para. 24(2), Sch. 3; S.I. 2006/3200, art. 2
+[^F4]: S. 1(2)(bb) inserted (15.1.2007) by Fraud Act 2006 (c. 35), s. 15(1), Sch. 1 para. 24(3); S.I. 2006/3200, art. 2
+[^M2]: 1981 c. 45.
+[^F5]: Entries in s. 1(2)(c) inserted (1.8.2000) by S.I. 2000/1878, art. 2
+[^F6]: S. 1(2)(ca) substituted (21.1.2011) by Identity Documents Act 2010 (c. 40), s. 14(2), Sch. para. 8
+[^F7]: Words in s. 2(1) inserted (15.1.2007) by Fraud Act 2006 (c. 35), s. 15(1), Sch. 1 para. 25(2); S.I. 2006/3200, art. 2
+[^F8]: S. 2(1A) inserted (15.1.2007) by Fraud Act 2006 (c. 35), s. 15(1), Sch. 1 para. 25(3); S.I. 2006/3200, art. 2
+[^M3]: 1977 c. 45.
+[^M4]: 1981 c. 47.
+[^F9]: S. 5(1) repealed (4.9.1998) by 1998 c. 40, s. 9(1)(2), Sch. 1 Pt. II para. 7(1), Sch. 2 Pt. II (with s. 9(3))
+[^M5]: 1981 c. 47.
+[^F10]: Words in s. 6(1) repealed (4.9.1998) by 1998 c. 40, s. 9(1)(2), Sch. 1 Pt. II para. 7(2), Sch. 2 Pt. II (with s. 9(3))
+[^M6]: 1981 c. 47.
+[^M7]: 1987 c. 38.
+[^F11]: S. 7 repealed (3.2.1995) by 1994 c. 37, ss. 67, 69(2), Sch. 3
+[^F12]: S. 8 repealed (3.2.1995) by 1994 c. 37, ss. 67, 69(2), Sch. 3
+[^F13]: S. 9 repealed (3.2.1995) by 1994 c. 37, ss. 67, 69(2), Sch. 3
+[^F14]: S. 10 repealed (3.2.1995) by 1994 c. 37, ss. 67, 69(2), Sch. 3
+[^F15]: S. 11 repealed (3.2.1995) by 1994 c. 37, ss. 67, 69(2), Sch. 3
+[^F16]: S. 12 repealed (3.2.1995) by 1994 c. 37, ss. 67, 69(2), Sch. 3
+[^F17]: S. 13 repealed (3.2.1995) by 1994 c. 37, ss. 67, 69(2), Sch. 3
+[^F18]: S. 14 repealed (3.2.1995) by 1994 c. 37, ss. 67, 69(2), Sch. 3
+[^F19]: S. 15 repealed (3.2.1995) by 1994 c. 37, ss. 67, 69(2), Sch. 3
+[^F20]: S. 16 repealed (3.2.1995) by 1994 c. 37, ss. 67, 69(2), Sch. 3
+[^M8]: 1987 c. 41.
+[^F21]: S. 18 repealed (3.2.1995) by 1994 c. 37, ss. 67, 69(2), Sch. 3
+[^M9]: 1987 c. 41.
+[^M10]: 1990 c. 5.
+[^F22]: S. 20(1) repealed (3.2.1995) by 1994 c. 37, ss. 67, 69(2), Sch. 3
+[^M11]: 1987 c. 41.
+[^M12]: 1979 c. 2.
+[^M13]: 1990 c. 5.
+[^M14]: 1990 c. 5.
+[^F23]: S. 21(2)(3)(a)(b) repealed (3.2.1995) by 1994 c. 37, ss. 67, 69(2), Sch. 3 (with saving in Sch. 2 para. 8)
+[^M15]: 1987 c. 41.
+[^F24]: S. 21(3)(e)-(g) repealed (24.3.2003) by Proceeds of Crime Act 2002 (c. 29), s. 458(1), Sch. 12; S.I. 2003/333, art. 2, Sch. (with arts. 10-13)
+[^M16]: 1990 c. 5.
+[^F25]: S. 22(1) repealed (3.2.1995) by 1994 c. 37, ss. 67, 69(2), Sch. 3
+[^F26]: S. 24(1)-(11) repealed (3.2.1995) by 1994 c. 37, ss. 67, 69(2), Sch. 3
+[^M17]: 1987 c. 41.
+[^F27]: S. 25 repealed (3.2.1995) by 1994 c. 37, ss. 67, 69(2), Sch. 3
+[^F28]: S. 26(1) repealed (3.2.1995) by 1994 c. 37, ss. 67, 69(2), Sch. 3 (with saving in Sch. 2 para. 9)
+[^M18]: 1987 c. 41.
+[^F29]: Ss. 27-35 repealed (24.2.2003 for the repeal of ss. 29-33, 35, 24.3.2003 in so far as not already in force) by Proceeds of Crime Act 2002 (c. 29), s. 458(1), Sch. 12; S.I. 2003/120, art. 2, Sch. (with arts. 3, 4) (as amended (20.2.2003) by S.I. 2003/333, art. 14); S.I. 2003/333, art. 2, Sch. (with arts. 10-13)
+[^F30]: S. 36 repealed (25.8.1996) by 1996 c. 22, ss. 62(1), 63(7), Sch. 7 Pt. I
+[^F31]: S. 37 repealed (25.8.1996) by 1996 c. 22, ss. 62(1), 63(7), Sch. 7 Pt. I
+[^F32]: S. 38 repealed (25.8.1996) by 1996 c. 22, ss. 62(1), 63(7), Sch. 7 Pt. I
+[^F33]: S. 39 repealed (25.8.1996) by 1996 c. 22, ss. 62(1), 63(7), Sch. 7 Pt. I
+[^F34]: S. 40 repealed (25.8.1996) by 1996 c. 22, ss. 62(1), 63(7), Sch. 7 Pt. I
+[^F35]: S. 41 repealed (25.8.1996) by 1996 c. 22, ss. 62(1), 63(7), Sch. 7 Pt. I
+[^F36]: S. 42 repealed (25.8.1996) by 1996 c. 22, ss. 62(1), 63(7), Sch. 7 Pt. I
+[^F37]: S. 43 repealed (25.8.1996) by 1996 c. 22, ss. 62(1), 63(7), Sch. 7 Pt. I
+[^F38]: S. 44 repealed (25.8.1996) by 1996 c. 22, ss. 62(1), 63(7), Sch. 7 Pt. I
+[^F39]: S. 45 repealed (25.8.1996) by 1996 c. 22, ss. 62(1), 63(7), Sch. 7 Pt. I
+[^F40]: S. 46 repealed (25.8.1996) by 1996 c. 22, ss. 62(1), 63(7), Sch. 7 Pt. I
+[^F41]: S. 47 repealed (25.8.1996) by 1996 c. 22, ss. 62(1), 63(7), Sch. 7 Pt. I
+[^F42]: S. 48 repealed (25.8.1996) by 1996 c. 22, ss. 62(1), 63(7), Sch. 7 Pt. I
+[^F43]: S. 49 repealed (19.2.2001) by 2000 c. 11, s. 125(2), Sch. 16 Pt. I; S.I. 2001/421, art. 2
+[^F44]: S. 50 repealed (19.2.2001) by 2000 c. 11, s. 125(2), Sch. 16 Pt. I; S.I. 2001/421, art. 2
+[^F45]: S. 51 repealed (19.2.2001) by 2000 c. 11, s. 125(2), Sch. 16 Pt. I; S.I. 2001/421, art. 2
+[^F46]: Words in s. 61(1)(b) substituted (1.11.2021) by Financial Services Act 2021 (c. 22), ss. 31(1), 49(5) (with s. 31(3)(4)); S.I. 2021/1173, reg. 2
+[^F47]: S. 61A inserted (1.10.2009) by The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941), art. 1(2), Sch. 1 para. 141 (with art. 10)
+[^F48]: S. 65(1) repealed (25.8.2000) by 2000 c. 6, ss. 165, 168(1), Sch. 12 Pt. I (with Sch. 11 paras. 1, 2)
+[^F49]: S. 66 repealed (25.8.2000) by 2000 c. 6, ss. 165, 168(1), Sch. 12 Pt. I (with Sch. 11 paras. 1, 2)
+[^M19]: 1988 c. 53.
+[^M20]: 1988 c. 52.
+[^F50]: S. 67(2) repealed (9.1.1995) by 1994 c. 33, s. 168(3), Sch. 11; S.I. 1994/3192, art. 2, Sch.
+[^F51]: S. 68 repealed (1.4.1996) by 1995 c. 40, ss. 6, 7(2), Sch. 5 (with Sch. 3 paras. 1, 3)
+[^F52]: S. 69 repealed (1.4.1996) by 1995 c. 40, ss. 6, 7(2), Sch. 5 (with Sch. 3 paras. 1, 3)
+[^M21]: 1972 c. 68.
+[^F53]: S. 70(2)(a)(b) substituted (1.1.2014) by The Capital Requirements Regulations 2013 (S.I. 2013/3115), reg. 1(2), Sch. 2 para. 37
+[^F54]: Words in s. 70(2) substituted (1.12.2001) by S.I. 2001/3649, arts. 1, 340
+[^M22]: O.J. No. L386/1.
+[^M23]: O.J. No. L110/52.
+[^F55]: Words in Act substituted (22.4.2011) by The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043), arts. 2, 3, 4 (with art. 3(2)(3), 4(2), 6(4)(5))
+[^F56]: Words in Act substituted (22.4.2011) by The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043), arts. 2, 3, 6 (with art. 3(2)(3), 4(2), 6(4)(5))
+[^M24]: 1979 c. 2.
+[^F57]: S. 72 repealed (1.1.2004) by Extradition Act 2003 (c. 41), s. 221, Sch. 4; S.I. 2003/3103, art. 2 (with arts. 3-5) (as amended (11.12.2003) by S.I. 2003/3258, art. 2 and (18.12.2003) by S.I. 2003/3312, art. 2)
+[^M25]: 1982 c. 48.
+[^M26]: 1986 c. 32.
+[^M27]: 1988 c. 33.
+[^M28]: 1993 c. 9.
+[^M29]: 1991 c. 53.
+[^M30]: 1975 c. 21.
+[^M31]: 1993 c. 9.
+[^F58]: Words in s. 78(6) substituted (*retrospective* to 27.7.1993) by 1994 c. 33, s. 168(1), Sch. 9 para. 53
+[^F59]: S. 78(7) repealed (3.2.1995) by 1994 c. 37, ss. 67, 69(2), Sch. 3
+[^F60]: S. 78(8)(12) repealed (25.8.1996) by 1996 c. 22, ss. 62(1), 63(7), Sch. 7 Pt. I
+[^F61]: S. 78(11) repealed (19.2.2001) by 2000 c. 11, s. 125(2), Sch. 16 Pt. I; S.I. 2001/421, art. 2
+[^F62]: It is provided that the references to s. 25 nd Sch. 4 para. 5 in s. 79(2) are repealed (3.2.1995) by 1994 c. 37, ss. 65, 69(2), Sch. 1 para. 30(2), Sch. 3
+[^F63]: Words in s. 79(3) repealed (3.2.1995) by 1994 c. 37, ss. 65, 69(2), Sch. 1 para. 30(3), Sch. 3
+[^F64]: Words in s. 79(5) inserted (3.2.1995) by 1994 c. 37, ss. 65, 69(2), Sch. 1 para. 30(4)
+[^F65]: S. 79(6) repealed (25.8.1996) by 1996 c. 22, ss. 62(1), 63(7), Sch. 7 Pt. I
+[^F66]: S. 79(7) repealed (1.1.2004) by Extradition Act 2003 (c. 41), s. 221, Sch. 4; S.I. 2003/3103, art. 2 (with arts. 3-5) (as amended (11.12.2003) by S.I. 2003/3258, art. 2 and (18.12.2003) by S.I. 2003/3312, art. 2)
+[^F67]: S. 79(11) repealed (2.12.1999) by 1998 c. 47, ss. 100(2), Sch. 15; S.I. 1999/3209, art. 2
+[^M32]: 1974 c. 28.
+[^F68]: Words in Sch. 1 para. 1(3) substituted (1.12.2001) by S.I. 2001/3649, arts. 1, 341(2)
+[^F69]: Sch. 1 para. 5 and cross-heading substituted (3.7.2016) by The Financial Services and Markets Act 2000 (Market Abuse) Regulations 2016 (S.I. 2016/680), regs. 1, 11
+[^F70]: Sch. 1 para. 5 renumbered as Sch. 1 para. 5(1) (19.2.2019) by The Market Abuse (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/310), regs. 1(2), 2(a)
+[^F71]: Words in Sch. 1 para. 5(1)(a) inserted (19.2.2019) by The Market Abuse (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/310), regs. 1(2), 2(b)(i)
+[^F72]: Words in Sch. 1 para. 5(1)(a) substituted (31.12.2020) by The Market Abuse (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/310), regs. 1(3), 4 (as amended by S.I. 2020/1301, regs. 1, 3, Sch. para. 17(a)); 2020 c. 1, Sch. 5 para. 1(1)
+[^F73]: Words in Sch. 1 para. 5(1)(a)(i) substituted (1.1.2024) by The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424), reg. 1(2), Sch. para. 33
+[^F74]: Sch. 1 para. 5(2) inserted (19.2.2019) by The Market Abuse (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/310), regs. 1(2), 2(c)
+[^F75]: Sch. 1 paras. 6-8 inserted (31.12.2020) by The Financial Services (Miscellaneous) (Amendment) (EU Exit) (No. 3) Regulations 2019 (S.I. 2019/1390), regs. 1(5), 2; 2020 c. 1, Sch. 5 para. 1(1)
+[^F76]: Sch. 2 paras. 1-14 substituted for Sch. 2 paras. 1-7 and headings (15.6.2023) by The Insider Dealing (Securities and Regulated Markets) Order 2023 (S.I. 2023/582), arts. 1(1), 6
+[^M33]: 1991 c. 53.
+[^F77]: Sch. 3 para. 2 repealed (25.8.2000) by 2000 c. 6, ss. 165, 168(1), Sch. 12 Pt. I (with Sch. 11 paras. 1, 2)
+[^F78]: Sch. 3 para. 3 repealed (25.8.2000) by 2000 c. 6, ss. 165, 168(1), Sch. 12 Pt. I (with Sch. 11 paras. 1, 2)
+[^F79]: Sch. 3 para. 5 repealed (25.8.2000) by 2000 c. 6, ss. 165, 168(1), Sch. 12 Pt. I (with Sch. 11 paras. 1, 2)
+[^F80]: Sch. 3 para. 6(1)(2)(6)(7) repealed (25.8.2000) by 2000 c. 6, ss. 165, 168(1), Sch. 12 Pt. I (with Sch. 11 paras. 1, 2)
+[^M34]: 1980 c. 43.
+[^M35]: 1981 c. 49.
+[^M36]: 1991 c. 53.
+[^F81]: Sch. 4 para. 1 repealed (3.2.1995) by 1994 c. 37, ss. 67, 69(2), Sch. 3 (with saving in Sch. 2 para. 10)
+[^F82]: Sch. 4 para. 3 repealed (24.2.2003) by Proceeds of Crime Act 2002 (c. 29), s. 458(1), Sch. 12; S.I. 2003/120, art. 2, Sch. (with arts. 3, 4) (as amended (20.2.2003) by S.I. 2003/333, art. 14)
+[^F83]: Sch. 4 para. 4 repealed (19.2.2001) by 2000 c. 11, s. 125(2), Sch. 16 Pt. I; S.I. 2001/421, art. 2
+[^F84]: Sch. 4 para. 5 repealed (E.W.) (3.2.1995) by 1994 c. 37, ss. 67, 69(2), Sch. 3
+[^F85]: Sch. 4 para. 6 repealed (25.8.1996) by 1996 c. 22, ss. 62(1), 63(7), Sch. 7 Pt. I
+[^M37]: 1983 c. 20.
+[^M38]: 1986 c. 32.
+[^M39]: 1988 c. 33.
+[^M40]: 1989 c. 37.
+[^F86]: Sch. 5 para. 2 repealed (1.4.1996) by 1995 c. 40, ss. 6, 7(2), Sch. 5 (with Sch. 3 paras. 1, 3)
+[^F87]: Sch. 5 para. 3 repealed (25.8.1996) by 1996 c. 22, ss. 62(1), 63(7), Sch. 7 Pt. I
+[^F88]: Sch. 5 para. 4 repealed (1.10.2009) by Companies Act 2006 (c. 46), s. 1300(2), Sch. 16; S.I. 2008/2860, art. 4, Sch. 1 Pt. 1 (with arts. 7, 8, Sch. 2) (which transitional provisions in Sch. 2 are amended (1.10.2009) by S.I. 2009/2476, arts. 1(3), 2(3)(4) and by S.I. 2009/1802, arts. 1, 18, Sch.)
+[^F89]: Sch. 5 para. 5 repealed (3.2.1995) by 1994 c. 37, ss. 67, 69(2), Sch. 3
+[^F90]: Sch. 5 para. 6 repealed (3.2.1995) by 1994 c. 37, ss. 67, 69(2), Sch. 3
+[^F91]: Sch. 5 paras. 7-13 repealed (1.12.2001) by S.I. 2001/3649, arts. 1, 342(a)
+[^F92]: Sch. 5 paras. 7-13 repealed (1.12.2001) by S.I. 2001/3649, arts. 1, 342(a)
+[^F93]: Sch. 5 paras. 7-13 repealed (1.12.2001) by S.I. 2001/3649, arts. 1, 342(a)
+[^F94]: Sch. 5 paras. 7-13 repealed (1.12.2001) by S.I. 2001/3649, arts. 1, 342(a)
+[^F95]: Sch. 5 paras. 7-13 repealed (1.12.2001) by S.I. 2001/3649, arts. 1, 342(a)
+[^F96]: Sch. 5 paras. 7-13 repealed (1.12.2001) by S.I. 2001/3649, arts. 1, 342(a)
+[^F97]: Sch. 5 paras. 7-13 repealed (1.12.2001) by S.I. 2001/3649, arts. 1, 342(a)
+[^F98]: Sch. 5 para. 14 repealed (24.2.2003) by Proceeds of Crime Act 2002 (c. 29), s. 458(1), Sch. 12; S.I. 2003/120, art. 2, Sch. (with arts. 3, 4) (as amended (20.2.2003) by S.I. 2003/333, art. 14)
+[^F99]: Sch. 5 para. 15 repealed (19.2.2001) by 2000 c. 11, s. 125(2), Sch. 16 Pt. I; S.I. 2001/421, art. 2
+[^F100]: Sch. 5 para. 17 repealed (25.8.1996) by 1996 c. 22, ss. 62(1), 63(7), Sch. 7 Pt. I
+[^F101]: Sch. 5 Pt. 2 repealed (1.10.2009) by Companies Act 2006 (c. 46), s. 1300(2), Sch. 16; S.I. 2008/2860, art. 4, Sch. 1 Pt. 2 (with arts. 7, 8, Sch. 2) (which transitional provisions in Sch. 2 are amended (1.10.2009) by S.I. 2009/2476, arts. 1(3), 2(3)(4) and by S.I. 2009/1802, arts. 1, 18, Sch.)
+[^F102]: Sch. 6 Pt. I: Entries in the Table repealed (1.12.2001) by S.I. 2001/3649, arts. 1, 342(b)

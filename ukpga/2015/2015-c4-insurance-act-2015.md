@@ -1,0 +1,780 @@
+---
+title: "Insurance Act 2015"
+identifier: "ukpga/2015/4"
+citation: "2015 c. 4"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S+N.I."
+date: 2015-02-12
+last_amended: 2017-05-04
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/2015/4"
+source_modified: 2017-08-04
+retrieved: 2026-10-11
+---
+
+# Insurance Act 2015
+
+**2015 c. 4**
+
+An Act to make new provision about insurance contracts; to amend the Third Parties (Rights against Insurers) Act 2010 in relation to the insured persons to whom that Act applies; and for connected purposes.
+
+[12th February 2015]
+
+Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## PART 1 — Insurance contracts: main definitions
+
+### 1 Insurance contracts: main definitions
+
+In this Act (apart from Part 6)—
+
+- “consumer insurance contract” has the same meaning as in the Consumer Insurance (Disclosure and Representations) Act 2012;
+- “non-consumer insurance contract” means a contract of insurance that is not a consumer insurance contract;
+- “insured” means the party to a contract of insurance who is the insured under the contract, or would be if the contract were entered into;
+- “insurer” means the party to a contract of insurance who is the insurer under the contract, or would be if the contract were entered into;
+- “the duty of fair presentation” means the duty imposed by section 3(1).
+
+## PART 2 — The duty of fair presentation
+
+### 2 Application and interpretation
+
+(1) This Part applies to non-consumer insurance contracts only.
+
+(2) This Part applies in relation to variations of non-consumer insurance contracts as it applies to contracts, but—
+
+(a) references to the risk are to be read as references to changes in the risk relevant to the proposed variation, and
+
+(b) references to the contract of insurance are to the variation.
+
+### 3 The duty of fair presentation
+
+(1) Before a contract of insurance is entered into, the insured must make to the insurer a fair presentation of the risk.
+
+(2) The duty imposed by subsection (1) is referred to in this Act as “the duty of fair presentation”.
+
+(3) A fair presentation of the risk is one—
+
+(a) which makes the disclosure required by subsection (4),
+
+(b) which makes that disclosure in a manner which would be reasonably clear and accessible to a prudent insurer, and
+
+(c) in which every material representation as to a matter of fact is substantially correct, and every material representation as to a matter of expectation or belief is made in good faith.
+
+(4) The disclosure required is as follows, except as provided in subsection (5)—
+
+(a) disclosure of every material circumstance which the insured knows or ought to know, or
+
+(b) failing that, disclosure which gives the insurer sufficient information to put a prudent insurer on notice that it needs to make further enquiries for the purpose of revealing those material circumstances.
+
+(5) In the absence of enquiry, subsection (4) does not require the insured to disclose a circumstance if—
+
+(a) it diminishes the risk,
+
+(b) the insurer knows it,
+
+(c) the insurer ought to know it,
+
+(d) the insurer is presumed to know it, or
+
+(e) it is something as to which the insurer waives information.
+
+(6) Sections 4 to 6 make further provision about the knowledge of the insured and of the insurer, and section 7 contains supplementary provision.
+
+### 4 Knowledge of insured
+
+(1) This section provides for what an insured knows or ought to know for the purposes of section 3(4)(a).
+
+(2) An insured who is an individual knows only—
+
+(a) what is known to the individual, and
+
+(b) what is known to one or more of the individuals who are responsible for the insured's insurance.
+
+(3) An insured who is not an individual knows only what is known to one or more of the individuals who are—
+
+(a) part of the insured's senior management, or
+
+(b) responsible for the insured's insurance.
+
+(4) An insured is not by virtue of subsection (2)(b) or (3)(b) taken to know confidential information known to an individual if—
+
+(a) the individual is, or is an employee of, the insured's agent; and
+
+(b) the information was acquired by the insured's agent (or by an employee of that agent) through a business relationship with a person who is not connected with the contract of insurance.
+
+(5) For the purposes of subsection (4) the persons connected with a contract of insurance are—
+
+(a) the insured and any other persons for whom cover is provided by the contract, and
+
+(b) if the contract re-insures risks covered by another contract, the persons who are (by virtue of this subsection) connected with that other contract.
+
+(6) Whether an individual or not, an insured ought to know what should reasonably have been revealed by a reasonable search of information available to the insured (whether the search is conducted by making enquiries or by any other means).
+
+(7) In subsection (6) “information” includes information held within the insured's organisation or by any other person (such as the insured's agent or a person for whom cover is provided by the contract of insurance).
+
+(8) For the purposes of this section—
+
+(a) “employee”, in relation to the insured's agent, includes any individual working for the agent, whatever the capacity in which the individual acts,
+
+(b) an individual is responsible for the insured's insurance if the individual participates on behalf of the insured in the process of procuring the insured's insurance (whether the individual does so as the insured's employee or agent, as an employee of the insured's agent or in any other capacity), and
+
+(c) “senior management” means those individuals who play significant roles in the making of decisions about how the insured's activities are to be managed or organised.
+
+### 5 Knowledge of insurer
+
+(1) For the purposes of section 3(5)(b), an insurer knows something only if it is known to one or more of the individuals who participate on behalf of the insurer in the decision whether to take the risk, and if so on what terms (whether the individual does so as the insurer's employee or agent, as an employee of the insurer's agent or in any other capacity).
+
+(2) For the purposes of section 3(5)(c), an insurer ought to know something only if—
+
+(a) an employee or agent of the insurer knows it, and ought reasonably to have passed on the relevant information to an individual mentioned in subsection (1), or
+
+(b) the relevant information is held by the insurer and is readily available to an individual mentioned in subsection (1).
+
+(3) For the purposes of section 3(5)(d), an insurer is presumed to know—
+
+(a) things which are common knowledge, and
+
+(b) things which an insurer offering insurance of the class in question to insureds in the field of activity in question would reasonably be expected to know in the ordinary course of business.
+
+### 6 Knowledge: general
+
+(1) For the purposes of sections 3 to 5, references to an individual's knowledge include not only actual knowledge, but also matters which the individual suspected, and of which the individual would have had knowledge but for deliberately refraining from confirming them or enquiring about them.
+
+(2) Nothing in this Part affects the operation of any rule of law according to which knowledge of a fraud perpetrated by an individual (“F”) either on the insured or on the insurer is not to be attributed to the insured or to the insurer (respectively), where—
+
+(a) if the fraud is on the insured, F is any of the individuals mentioned in section 4(2)(b) or (3), or
+
+(b) if the fraud is on the insurer, F is any of the individuals mentioned in section 5(1).
+
+### 7 Supplementary
+
+(1) A fair presentation need not be contained in only one document or oral presentation.
+
+(2) The term “circumstance” includes any communication made to, or information received by, the insured.
+
+(3) A circumstance or representation is material if it would influence the judgement of a prudent insurer in determining whether to take the risk and, if so, on what terms.
+
+(4) Examples of things which may be material circumstances are—
+
+(a) special or unusual facts relating to the risk,
+
+(b) any particular concerns which led the insured to seek insurance cover for the risk,
+
+(c) anything which those concerned with the class of insurance and field of activity in question would generally understand as being something that should be dealt with in a fair presentation of risks of the type in question.
+
+(5) A material representation is substantially correct if a prudent insurer would not consider the difference between what is represented and what is actually correct to be material.
+
+(6) A representation may be withdrawn or corrected before the contract of insurance is entered into.
+
+### 8 Remedies for breach
+
+(1) The insurer has a remedy against the insured for a breach of the duty of fair presentation only if the insurer shows that, but for the breach, the insurer—
+
+(a) would not have entered into the contract of insurance at all, or
+
+(b) would have done so only on different terms.
+
+(2) The remedies are set out in Schedule 1.
+
+(3) A breach for which the insurer has a remedy against the insured is referred to in this Act as a “qualifying breach”.
+
+(4) A qualifying breach is either—
+
+(a) deliberate or reckless, or
+
+(b) neither deliberate nor reckless.
+
+(5) A qualifying breach is deliberate or reckless if the insured —
+
+(a) knew that it was in breach of the duty of fair presentation, or
+
+(b) did not care whether or not it was in breach of that duty.
+
+(6) It is for the insurer to show that a qualifying breach was deliberate or reckless.
+
+## PART 3 — Warranties and other terms
+
+### 9 Warranties and representations
+
+(1) This section applies to representations made by the insured in connection with—
+
+(a) a proposed non-consumer insurance contract, or
+
+(b) a proposed variation to a non-consumer insurance contract.
+
+(2) Such a representation is not capable of being converted into a warranty by means of any provision of the non-consumer insurance contract (or of the terms of the variation), or of any other contract (and whether by declaring the representation to form the basis of the contract or otherwise).
+
+### 10 Breach of warranty
+
+(1) Any rule of law that breach of a warranty (express or implied) in a contract of insurance results in the discharge of the insurer's liability under the contract is abolished.
+
+(2) An insurer has no liability under a contract of insurance in respect of any loss occurring, or attributable to something happening, after a warranty (express or implied) in the contract has been breached but before the breach has been remedied.
+
+(3) But subsection (2) does not apply if—
+
+(a) because of a change of circumstances, the warranty ceases to be applicable to the circumstances of the contract,
+
+(b) compliance with the warranty is rendered unlawful by any subsequent law, or
+
+(c) the insurer waives the breach of warranty.
+
+(4) Subsection (2) does not affect the liability of the insurer in respect of losses occurring, or attributable to something happening—
+
+(a) before the breach of warranty, or
+
+(b) if the breach can be remedied, after it has been remedied.
+
+(5) For the purposes of this section, a breach of warranty is to be taken as remedied—
+
+(a) in a case falling within subsection (6), if the risk to which the warranty relates later becomes essentially the same as that originally contemplated by the parties,
+
+(b) in any other case, if the insured ceases to be in breach of the warranty.
+
+(6) A case falls within this subsection if—
+
+(a) the warranty in question requires that by an ascertainable time something is to be done (or not done), or a condition is to be fulfilled, or something is (or is not) to be the case, and
+
+(b) that requirement is not complied with.
+
+(7) In the Marine Insurance Act 1906—
+
+(a) in section 33 (nature of warranty), in subsection (3), the second sentence is omitted,
+
+(b) section 34 (when breach of warranty excused) is omitted.
+
+### 11 Terms not relevant to the actual loss
+
+(1) This section applies to a term (express or implied) of a contract of insurance, other than a term defining the risk as a whole, if compliance with it would tend to reduce the risk of one or more of the following—
+
+(a) loss of a particular kind,
+
+(b) loss at a particular location,
+
+(c) loss at a particular time.
+
+(2) If a loss occurs, and the term has not been complied with, the insurer may not rely on the non-compliance to exclude, limit or discharge its liability under the contract for the loss if the insured satisfies subsection (3).
+
+(3) The insured satisfies this subsection if it shows that the non-compliance with the term could not have increased the risk of the loss which actually occurred in the circumstances in which it occurred.
+
+(4) This section may apply in addition to section 10.
+
+## PART 4 — Fraudulent claims
+
+### 12 Remedies for fraudulent claims
+
+(1) If the insured makes a fraudulent claim under a contract of insurance—
+
+(a) the insurer is not liable to pay the claim,
+
+(b) the insurer may recover from the insured any sums paid by the insurer to the insured in respect of the claim, and
+
+(c) in addition, the insurer may by notice to the insured treat the contract as having been terminated with effect from the time of the fraudulent act.
+
+(2) If the insurer does treat the contract as having been terminated—
+
+(a) it may refuse all liability to the insured under the contract in respect of a relevant event occurring after the time of the fraudulent act, and
+
+(b) it need not return any of the premiums paid under the contract.
+
+(3) Treating a contract as having been terminated under this section does not affect the rights and obligations of the parties to the contract with respect to a relevant event occurring before the time of the fraudulent act.
+
+(4) In subsections (2)(a) and (3), “relevant event” refers to whatever gives rise to the insurer's liability under the contract (and includes, for example, the occurrence of a loss, the making of a claim, or the notification of a potential claim, depending on how the contract is written).
+
+### 13 Remedies for fraudulent claims: group insurance
+
+(1) This section applies where—
+
+(a) a contract of insurance is entered into with an insurer by a person (“A”),
+
+(b) the contract provides cover for one or more other persons who are not parties to the contract (“the Cs”), whether or not it also provides cover of any kind for A or another insured party, and
+
+(c) a fraudulent claim is made under the contract by or on behalf of one of the Cs (“CF”).
+
+(2) Section 12 applies in relation to the claim as if the cover provided for CF were provided under an individual insurance contract between the insurer and CF as the insured; and, accordingly—
+
+(a) the insurer's rights under section 12 are exercisable only in relation to the cover provided for CF, and
+
+(b) the exercise of any of those rights does not affect the cover provided under the contract for anyone else.
+
+(3) In its application by virtue of subsection (2), section 12 is subject to the following particular modifications—
+
+(a) the first reference to “the insured” in subsection (1)(b) of that section, in respect of any particular sum paid by the insurer, is to whichever of A and CF the insurer paid the sum to; but if a sum was paid to A and passed on by A to CF, the reference is to CF,
+
+(b) the second reference to “the insured” in subsection (1)(b) is to A or CF,
+
+(c) the reference to “the insured” in subsection (1)(c) is to both CF and A,
+
+(d) the reference in subsection (2)(b) to the premiums paid under the contract is to premiums paid in respect of the cover for CF.
+
+## [[^F1]PART 4A — Late payment of claims
+
+### 13A Implied term about payment of claims
+
+(1) It is an implied term of every contract of insurance that if the insured makes a claim under the contract, the insurer must pay any sums due in respect of the claim within a reasonable time.
+
+(2) A reasonable time includes a reasonable time to investigate and assess the claim.
+
+(3) What is reasonable will depend on all the relevant circumstances, but the following are examples of things which may need to be taken into account—
+
+(a) the type of insurance,
+
+(b) the size and complexity of the claim,
+
+(c) compliance with any relevant statutory or regulatory rules or guidance,
+
+(d) factors outside the insurer's control.
+
+(4) If the insurer shows that there were reasonable grounds for disputing the claim (whether as to the amount of any sum payable, or as to whether anything at all is payable)—
+
+(a) the insurer does not breach the term implied by subsection (1) merely by failing to pay the claim (or the affected part of it) while the dispute is continuing, but
+
+(b) the conduct of the insurer in handling the claim may be a relevant factor in deciding whether that term was breached and, if so, when.
+
+(5) Remedies (for example, damages) available for breach of the term implied by subsection (1) are in addition to and distinct from—
+
+(a) any right to enforce payment of the sums due, and
+
+(b) any right to interest on those sums (whether under the contract, under another enactment, at the court's discretion or otherwise).]
+
+## PART 5 — Good faith and contracting out
+
+### Good faith
+
+#### 14 Good faith
+
+(1) Any rule of law permitting a party to a contract of insurance to avoid the contract on the ground that the utmost good faith has not been observed by the other party is abolished.
+
+(2) Any rule of law to the effect that a contract of insurance is a contract based on the utmost good faith is modified to the extent required by the provisions of this Act and the Consumer Insurance (Disclosure and Representations) Act 2012.
+
+(3) Accordingly—
+
+(a) in section 17 of the Marine Insurance Act 1906 (marine insurance contracts are contracts of the utmost good faith), the words from “, and” to the end are omitted, and
+
+(b) the application of that section (as so amended) is subject to the provisions of this Act and the Consumer Insurance (Disclosure and Representations) Act 2012.
+
+(4) In section 2 of the Consumer Insurance (Disclosure and Representations) Act 2012 (disclosure and representations before contract or variation), subsection (5) is omitted.
+
+### Contracting out
+
+#### 15 Contracting out: consumer insurance contracts
+
+(1) A term of a consumer insurance contract, or of any other contract, which would put the consumer in a worse position as respects any of the matters provided for in Part 3 or 4 of this Act than the consumer would be in by virtue of the provisions of those Parts (so far as relating to consumer insurance contracts) is to that extent of no effect.
+
+(2) In subsection (1) references to a contract include a variation.
+
+(3) This section does not apply in relation to a contract for the settlement of a claim arising under a consumer insurance contract.
+
+#### 16 Contracting out: non-consumer insurance contracts
+
+(1) A term of a non-consumer insurance contract, or of any other contract, which would put the insured in a worse position as respects representations to which section 9 applies than the insured would be in by virtue of that section is to that extent of no effect.
+
+(2) A term of a non-consumer insurance contract, or of any other contract, which would put the insured in a worse position as respects any of the other matters provided for in Part 2, 3 or 4 of this Act than the insured would be in by virtue of the provisions of those Parts (so far as relating to non-consumer insurance contracts) is to that extent of no effect, unless the requirements of section 17 have been satisfied in relation to the term.
+
+(3) In this section references to a contract include a variation.
+
+(4) This section does not apply in relation to a contract for the settlement of a claim arising under a non-consumer insurance contract.
+
+#### 16A [[^F2]Contracting out of the implied term about payment of claims: consumer and non-consumer insurance contracts
+
+(1) A term of a consumer insurance contract, or of any other contract, which would put the consumer in a worse position as respects any of the matters provided for in section 13A than the consumer would be in by virtue of the provisions of that section (so far as relating to consumer insurance contracts) is to that extent of no effect.
+
+(2) A term of a non-consumer insurance contract, or of any other contract, which would put the insured in a worse position as respects deliberate or reckless breaches of the term implied by section 13A than the insured would be in by virtue of that section is to that extent of no effect.
+
+(3) For the purposes of subsection (2) a breach is deliberate or reckless if the insurer—
+
+(a) knew that it was in breach, or
+
+(b) did not care whether or not it was in breach.
+
+(4) A term of a non-consumer insurance contract, or of any other contract, which would put the insured in a worse position as respects any of the other matters provided for in section 13A than the insured would be in by virtue of the provisions of that section (so far as relating to non-consumer insurance contracts) is to that extent of no effect, unless the requirements of section 17 have been satisfied in relation to the term.
+
+(5) In this section references to a contract include a variation.
+
+(6) This section does not apply in relation to a contract for the settlement of a claim arising under an insurance contract.]
+
+#### 17 The transparency requirements
+
+(1) In this section, “the disadvantageous term” means such a term as is mentioned in section 16(2) [[^F3]or 16A(4)] .
+
+(2) The insurer must take sufficient steps to draw the disadvantageous term to the insured's attention before the contract is entered into or the variation agreed.
+
+(3) The disadvantageous term must be clear and unambiguous as to its effect.
+
+(4) In determining whether the requirements of subsections (2) and (3) have been met, the characteristics of insured persons of the kind in question, and the circumstances of the transaction, are to be taken into account.
+
+(5) The insured may not rely on any failure on the part of the insurer to meet the requirements of subsection (2) if the insured (or its agent) had actual knowledge of the disadvantageous term when the contract was entered into or the variation agreed.
+
+#### 18 Contracting out: group insurance contracts
+
+(1) This section applies to a contract of insurance referred to in section 13(1)(a); and in this section—
+
+- “A” and “the Cs” have the same meaning as in section 13,
+- “consumer C” means an individual who is one of the Cs, where the cover provided by the contract for that individual would have been a consumer insurance contract if entered into by that person rather than by A, and
+- “non-consumer C” means any of the Cs who is not a consumer C.
+
+(2) A term of the contract of insurance, or any other contract, which puts a consumer C in a worse position as respects any matter dealt with in section 13 than that individual would be in by virtue of that section is to that extent of no effect.
+
+(3) A term of the contract of insurance, or any other contract, which puts a non-consumer C in a worse position as respects any matter dealt with in section 13 than that person would be in by virtue of that section is to that extent of no effect, unless the requirements of section 17 have been met in relation to the term.
+
+(4) Section 17 applies in relation to such a term as it applies to a term mentioned in section 16(2), with references to the insured being read as references to A rather than the non-consumer C.
+
+(5) In this section references to a contract include a variation.
+
+(6) This section does not apply in relation to a contract for the settlement of a claim arising under a contract of insurance to which this section applies.
+
+## PART 6 — Amendment of the Third Parties (Rights against Insurers) Act 2010
+
+### 19 Power to change meaning of “relevant person” for purposes of 2010 Act
+
+For section 19 of the Third Parties (Rights against Insurers) Act 2010 (power to amend sections 4 to 6 of the Act) substitute—
+
+> **19 Power to change the meaning of “relevant person”**
+>
+> (1) The Secretary of State may by regulations make provision adding or removing circumstances in which a person is a “relevant person” for the purposes of this Act, subject to subsection (2).
+>
+> (2) Regulations under this section may add circumstances only if, in the Secretary of State's opinion, the additional circumstances—
+>
+> (a) involve actual or anticipated dissolution of a body corporate or an unincorporated body,
+>
+> (b) involve actual or anticipated insolvency or other financial difficulties for an individual, a body corporate or an unincorporated body, or
+>
+> (c) are similar to circumstances for the time being described in sections 4 to 7.
+>
+> (3) Regulations under this section may make provision about—
+>
+> (a) the persons to whom, and the extent to which, rights are transferred under section 1 in the circumstances added or removed by the regulations (the “ affected circumstances ”),
+>
+> (b) the re-transfer of rights transferred under section 1 where the affected circumstances change, and
+>
+> (c) the effect of a transfer of rights under section 1 on the liability of the insured in the affected circumstances.
+>
+> (4) Regulations under this section which add or remove circumstances involving actual or anticipated dissolution of a body corporate or unincorporated body may change the cases in which the following provisions apply so that they include or exclude cases involving that type of dissolution or any other type of dissolution of a body—
+>
+> (a) section 9(3) (cases in which transferred rights are not subject to a condition requiring the insured to provide information or assistance to the insurer), and
+>
+> (b) paragraph 3 of Schedule 1 (notices requiring disclosure).
+>
+> (5) Regulations under this section which add circumstances may provide that section 1 of this Act applies in cases involving those circumstances in which either or both of the following occurred in relation to a person before the day on which the regulations come into force—
+>
+> (a) the circumstances arose in relation to the person;
+>
+> (b) a liability against which the person was insured under an insurance contract was incurred.
+>
+> (6) Regulations under this section which—
+>
+> (a) add circumstances, and
+>
+> (b) provide that section 1 of this Act applies in a case involving those circumstances in which both of the events mentioned in subsection (5)(a) and (b) occurred in relation to a person before the day on which the regulations come into force,
+>
+> must provide that, in such a case, the person is to be treated for the purposes of this Act as not having become a relevant person until that day or a later day specified in the regulations.
+>
+> (7) Regulations under this section which remove circumstances may provide that section 1 of this Act does not apply in cases involving those circumstances in which one of the events mentioned in subsection (5)(a) and (b) (but not both) occurred in relation to a person before the day on which the regulations come into force.
+>
+> (8) Regulations under this section may—
+>
+> (a) include consequential, incidental, supplementary, transitional, transitory or saving provision,
+>
+> (b) make different provision for different purposes, and
+>
+> (c) make provision by reference to an enactment as amended, extended or applied from time to time,
+>
+> (and subsections (3) to (7) are without prejudice to the generality of this subsection).
+>
+> (9) Regulations under this section may amend an enactment, whenever passed or made, including this Act.
+>
+> (10) Regulations under this section are to be made by statutory instrument.
+>
+> (11) Regulations under this section may not be made unless a draft of the statutory instrument containing the regulations has been laid before, and approved by a resolution of, each House of Parliament.
+
+### 20 Other amendments (prospective)
+
+Schedule 2 amends the Third Parties (Rights against Insurers) Act 2010 in relation to the insured persons to whom the Act applies.
+
+## PART 7 — General
+
+### 21 Provision consequential on Part 2
+
+(1) The provision made by this section is consequential on Part 2 of this Act.
+
+(2) In the Marine Insurance Act 1906, sections 18 (disclosure by assured), 19 (disclosure by agent effecting insurance) and 20 (representations pending negotiation of contract) are omitted.
+
+(3) Any rule of law to the same effect as any of those provisions is abolished.
+
+(4) In section 152 of the Road Traffic Act 1988 (exceptions to duty of insurers to satisfy judgment against persons insured against third-party risks)—
+
+(a) in subsection (2)—
+
+(i) in paragraph (a), for “it either under the Consumer Insurance (Disclosure and Representations) Act 2012 or, if that Act does not apply,” substitute “ the policy under either of the relevant insurance enactments, or the security ”,
+
+(ii) in paragraph (b), for “or security under that Act or” substitute “ under either of the relevant insurance enactments, or the security ”;
+
+(b) in subsection (3), after “specifying” insert “ the relevant insurance enactment or, in the case of a security, ”;
+
+(c) after subsection (4) add—
+
+> (5) In this section, “relevant insurance enactment” means the Consumer Insurance (Disclosure and Representations) Act 2012 or Part 2 of the Insurance Act 2015.
+
+(5) In Article 98A of the Road Traffic (Northern Ireland) Order 1981 (S.I. 1981/154 (N.I.)) (exceptions to duty of insurers to satisfy judgement against persons insured against third party risks)—
+
+(a) in paragraph (2)—
+
+(i) in paragraph (a), for “it either under the Consumer Insurance Act (Disclosure and Representations) Act 2012 or, if that Act does not apply,” substitute “ the policy under either of the relevant insurance enactments, or the security ”;
+
+(ii) in paragraph (b), for “or security under that Act or” substitute “ under either of the relevant insurance enactments, or the security ”;
+
+(b) in paragraph (3), after “specifying” insert “ the relevant insurance enactment or, in the case of a security, ”;
+
+(c) after paragraph (4) add—
+
+> (5) In this Article, “relevant insurance enactment” means the Consumer Insurance (Disclosure and Representations) Act 2012 or Part 2 of the Insurance Act 2015.
+
+(6) In section 11 of the Consumer Insurance (Disclosure and Representations) Act 2012 (consequential provision), subsections (1) and (2) are omitted.
+
+### 22 Application etc of Parts 2 to 5
+
+(1) Part 2 (and section 21) and section 14 apply only in relation to—
+
+(a) contracts of insurance entered into after the end of the relevant period, and
+
+(b) variations, agreed after the end of the relevant period, to contracts of insurance entered into at any time.
+
+(2) Parts 3 and 4 of this Act apply only in relation to contracts of insurance entered into after the end of the relevant period, and variations to such contracts.
+
+(3) In subsections (1) and (2) “the relevant period” means the period of 18 months beginning with the day on which this Act is passed.
+
+[[^F4](3A) Part 4A applies only in relation to contracts of insurance entered into after that Part has come into force, and variations to such contracts.]
+
+(4) Unless the contrary intention appears, references in Parts 2 to 5 to something being done by or in relation to the insurer or the insured include its being done by or in relation to that person's agent.
+
+### 23 Extent, commencement and short title
+
+(1) This Act extends to England and Wales, Scotland and Northern Ireland, except for—
+
+(a) section 21(4), which does not extend to Northern Ireland; and
+
+(b) section 21(5), which extends to Northern Ireland only.
+
+(2) This Act (apart from Part 6 and this section) comes into force at the end of the period of 18 months beginning with the day on which it is passed.
+
+(3) In Part 6—
+
+(a) section 19 comes into force at the end of the period of two months beginning with the day on which this Act is passed; and
+
+(b) section 20 and Schedule 2 come into force on the day appointed under section 21(2) of the Third Parties (Rights against Insurers) Act 2010 for the coming into force of that Act.
+
+(4) This section comes into force on the day on which this Act is passed.
+
+(5) This Act may be cited as the Insurance Act 2015.
+
+## SCHEDULE 1 — Insurers' remedies for qualifying breaches
+
+*Section 8(2).*
+
+### PART 1 — Contracts
+
+#### General
+
+**1** This Part of this Schedule applies to qualifying breaches of the duty of fair presentation in relation to non-consumer insurance contracts (for variations to them, see Part 2).
+
+#### Deliberate or reckless breaches
+
+**2** If a qualifying breach was deliberate or reckless, the insurer—
+
+(a) may avoid the contract and refuse all claims, and
+
+(b) need not return any of the premiums paid.
+
+#### Other breaches
+
+**3** Paragraphs 4 to 6 apply if a qualifying breach was neither deliberate nor reckless.
+
+**4** If, in the absence of the qualifying breach, the insurer would not have entered into the contract on any terms, the insurer may avoid the contract and refuse all claims, but must in that event return the premiums paid.
+
+**5** If the insurer would have entered into the contract, but on different terms (other than terms relating to the premium), the contract is to be treated as if it had been entered into on those different terms if the insurer so requires.
+
+**6** (1) In addition, if the insurer would have entered into the contract (whether the terms relating to matters other than the premium would have been the same or different), but would have charged a higher premium, the insurer may reduce proportionately the amount to be paid on a claim.
+
+(2) In sub-paragraph (1), “reduce proportionately” means that the insurer need pay on the claim only X% of what it would otherwise have been under an obligation to pay under the terms of the contract (or, if applicable, under the different terms provided for by virtue of paragraph 5), where—
+
+X = (Premium actually charged)/(Higher premium) × 100
+
+### PART 2 — Variations
+
+#### General
+
+**7** This Part of this Schedule applies to qualifying breaches of the duty of fair presentation in relation to variations to non-consumer insurance contracts.
+
+#### Deliberate or reckless breaches
+
+**8** If a qualifying breach was deliberate or reckless, the insurer—
+
+(a) may by notice to the insured treat the contract as having been terminated with effect from the time when the variation was made, and
+
+(b) need not return any of the premiums paid.
+
+#### Other breaches
+
+**9** (1) This paragraph applies if—
+
+(a) a qualifying breach was neither deliberate nor reckless, and
+
+(b) the total premium was increased or not changed as a result of the variation.
+
+(2) If, in the absence of the qualifying breach, the insurer would not have agreed to the variation on any terms, the insurer may treat the contract as if the variation was never made, but must in that event return any extra premium paid.
+
+(3) If sub-paragraph (2) does not apply—
+
+(a) if the insurer would have agreed to the variation on different terms (other than terms relating to the premium), the variation is to be treated as if it had been entered into on those different terms if the insurer so requires, and
+
+(b) paragraph 11 also applies if (in the case of an increased premium) the insurer would have increased the premium by more than it did, or (in the case of an unchanged premium) the insurer would have increased the premium.
+
+**10** (1) This paragraph applies if—
+
+(a) a qualifying breach was neither deliberate nor reckless, and
+
+(b) the total premium was reduced as a result of the variation.
+
+(2) If, in the absence of the qualifying breach, the insurer would not have agreed to the variation on any terms, the insurer may treat the contract as if the variation was never made, and paragraph 11 also applies.
+
+(3) If sub-paragraph (2) does not apply—
+
+(a) if the insurer would have agreed to the variation on different terms (other than terms relating to the premium), the variation is to be treated as if it had been entered into on those different terms if the insurer so requires, and
+
+(b) paragraph 11 also applies if the insurer would have increased the premium, would not have reduced the premium, or would have reduced it by less than it did.
+
+#### Proportionate reduction
+
+**11** (1) If this paragraph applies, the insurer may reduce proportionately the amount to be paid on a claim arising out of events after the variation.
+
+(2) In sub-paragraph (1), “reduce proportionately” means that the insurer need pay on the claim only Y% of what it would otherwise have been under an obligation to pay under the terms of the contract (whether on the original terms, or as varied, or under the different terms provided for by virtue of paragraph 9(3)(a) or 10(3)(a), as the case may be), where—
+
+Y = (Total premium actually charged)/(P) × 100
+
+(3) In the formula in sub-paragraph (2), “P”—
+
+(a) in a paragraph 9(3)(b) case, is the total premium the insurer would have charged,
+
+(b) in a paragraph 10(2) case, is the original premium,
+
+(c) in a paragraph 10(3)(b) case, is the original premium if the insurer would not have changed it, and otherwise the increased or (as the case may be) reduced total premium the insurer would have charged.
+
+### PART 3 — Supplementary
+
+#### Relationship with section 84 of the Marine Insurance Act 1906
+
+**12** Section 84 of the Marine Insurance Act 1906 (return of premium for failure of consideration) is to be read subject to the provisions of this Schedule in relation to contracts of marine insurance which are non-consumer insurance contracts.
+
+## SCHEDULE 2 — Rights of third parties against insurers: relevant insured persons (prospective)
+
+*Section 20*
+
+**1** The Third Parties (Rights against Insurers) Act 2010 is amended as follows.
+
+### Individuals subject to debt relief orders in Northern Ireland (prospective)
+
+**2** (1) Section 4 (relevant persons: individuals) is amended as follows.
+
+(2) In subsection (3), after paragraph (b) (deed of arrangements registered under the Insolvency (Northern Ireland) Order 1989) insert—
+
+> (ba) subject to subsection (4), a debt relief order made under Part 7A of that Order,
+
+.
+
+(3) In subsection (4) (individuals who are relevant persons for the purposes of section 1(1)(b) only), after “(1)(d)” insert “ or (3)(ba) ”.
+
+### Corporate bodies etc in administration (prospective)
+
+**3** (1) Section 6 (corporate bodies etc) is amended as follows.
+
+(2) In subsection (2) (events under the Insolvency Act 1986), for paragraph (b) substitute—
+
+> (b) the body is in administration under Schedule B1 to that Act,
+
+.
+
+(3) In subsection (4) (events under the Insolvency (Northern Ireland) Order 1989), for paragraph (b) substitute—
+
+> (b) the body is in administration under Schedule B1 to that Order,
+
+.
+
+### Transitional cases (prospective)
+
+**4** In section 1(5)(b) (definition of “relevant person”), at the end insert “ (and see also paragraph 1A of Schedule 3) ”.
+
+**5** (1) Schedule 3 (transitory, transitional and saving provision) is amended as follows.
+
+(2) At the beginning insert— “ Application of this Act ”.
+
+(3) After paragraph 1 insert—
+
+> **Relevant persons**
+>
+> **1A** (1) An individual, company or limited liability partnership not within sections 4 to 7 is to be treated as a relevant person for the purposes of this Act in the following cases.
+>
+> (2) The first case is where an individual—
+>
+> (a) became bankrupt before commencement day, and
+>
+> (b) has not been discharged from that bankruptcy.
+>
+> (3) The second case is where—
+>
+> (a) an individual made a composition or arrangement with his or her creditors before commencement day, and
+>
+> (b) the composition or arrangement remains in force.
+>
+> (4) The third case is where—
+>
+> (a) a winding-up order was made, or a resolution for a voluntary winding-up was passed, with respect to a company or limited liability partnership before commencement day, and
+>
+> (b) the company or partnership is still wound up.
+>
+> (5) The fourth case is where a company or limited liability partnership—
+>
+> (a) entered administration before commencement day, and
+>
+> (b) is still in administration.
+>
+> (6) The fifth case is where—
+>
+> (a) a receiver or manager of the business or undertaking of a company or limited liability partnership was appointed before commencement day, and
+>
+> (b) the appointment remains in force.
+>
+> (7) In those cases, the person is a relevant person only in relation to liabilities under a contract of insurance under which the person was insured at the time of the event mentioned in sub-paragraph (2)(a), (3)(a), (4)(a), (5)(a) or (6)(a) (as appropriate).
+
+(4) Before paragraph 2 insert— “ Bankruptcy and Diligence etc (Scotland) Act 2007 ”.
+
+(5) Before paragraph 3 insert— “ Application of 1930 Acts ”.
+
+(6) Before paragraph 5 insert— “ Interpretation ”.
+
+### Interpretation (prospective)
+
+**6** After section 19 insert—
+
+> **Interpretation**
+>
+> **19A** (1) The references to enactments in sections 4 to 7, 9(7) and 14(4) and paragraph 3(2)(b), (4) and (5) of Schedule 1 are to be treated as including references to those enactments as amended, extended or applied by another enactment, whenever passed or made, unless the contrary intention appears.
+>
+> (2) In this Act, “enactment” means an enactment contained in, or in an instrument made under, any of the following—
+>
+> (a) an Act;
+>
+> (b) an Act or Measure of the National Assembly for Wales;
+>
+> (c) an Act of the Scottish Parliament;
+>
+> (d) Northern Ireland legislation.
+
+---
+
+[^F1]: Pt. 4A inserted (4.5.2017) by Enterprise Act 2016 (c. 12), ss. 28(1), 44(3) (with s. 44(3))
+[^F2]: S. 16A inserted (4.5.2017) by Enterprise Act 2016 (c. 12), ss. 29(1), 44(3) (with s. 44(3))
+[^F3]: Words in s. 17(1) inserted (4.5.2017) by Enterprise Act 2016 (c. 12), ss. 29(2), 44(3) (with s. 44(3))
+[^F4]: S. 22(3A) inserted (4.5.2017) by Enterprise Act 2016 (c. 12), ss. 28(2), 44(3) (with s. 44(3))

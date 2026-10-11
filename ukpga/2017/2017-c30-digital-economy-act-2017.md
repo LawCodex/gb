@@ -1,0 +1,9277 @@
+---
+title: "Digital Economy Act 2017"
+identifier: "ukpga/2017/30"
+citation: "2017 c. 30"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S+N.I."
+date: 2017-04-27
+last_amended: 2026-09-30
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/2017/30"
+source_modified: 2026-10-01
+retrieved: 2026-10-11
+---
+
+# Digital Economy Act 2017
+
+**2017 c. 30**
+
+An Act to make provision about electronic communications infrastructure and services; to provide for restricting access to online pornography; to make provision about protection of intellectual property in connection with electronic communications; to make provision about data-sharing; to make provision in connection with section 68 of the Telecommunications Act 1984; to make provision about functions of
+
+OFCOM
+
+in relation to the
+
+BBC
+
+; to provide for determination by the BBC of age-related
+
+TV
+
+licence fee concessions; to make provision about the regulation of direct marketing; to make other provision about OFCOM and its functions; to make provision about internet filters; to make provision about preventing or restricting the use of communication devices in connection with drug dealing offences; to confer power to create an offence of breaching limits on ticket sales; to make provision about the payment of charges to the Information Commissioner; to make provision about payment systems and securities settlement systems; to make provision about qualifications in information technology; and for connected purposes.
+
+[27th April 2017]
+
+Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## PART 1 — Access to digital services
+
+### 1 Universal service broadband obligations
+
+(1) The Communications Act 2003 is amended as follows.
+
+(2) Section 65 (obligations to be secured by universal service conditions) is amended as follows.
+
+(3) In subsection (1) omit “(“the universal service order”)”.
+
+(4) After subsection (2) insert—
+
+> (2A) The provision made under subsection (1) is referred to as “the universal service order”.
+>
+> (2B) The universal service order may in particular say that broadband connections and services must be provided to any extent, but may not do so unless—
+>
+> (a) it specifies the minimum download speed that must be provided by those connections and services, and
+>
+> (b) the speed so specified is at least 10 megabits per second.
+>
+> (2C) The universal service order may contain—
+>
+> (a) guidance about matters relating to the speed or other characteristics of broadband connections or services that it says must be provided (as well as or, except in the case of the minimum download speed, instead of setting out any of those characteristics); and
+>
+> (b) guidance about any other matters relating to those connections or services.
+
+(5) In section 66 (designation of universal service provider) after subsection (9) insert—
+
+> (9A) In making any regulations under this section, OFCOM must have regard to any guidance that is contained in the universal service order.
+
+(6) In section 67(8) (universal service conditions: duty to have regard to guidance) omit “about matters relating to pricing”.
+
+(7) After section 72 (before the heading “Access-related conditions”) insert—
+
+> **72A Review of universal service order**
+>
+> (1) The Secretary of State may direct OFCOM to review and report to the Secretary of State on any provision made, or that may be made, by the universal service order in relation to broadband connections or services.
+>
+> (2) The Secretary of State must consult OFCOM before giving a direction under this section.
+>
+> (3) The Secretary of State must publish a direction under this section.
+>
+> (4) OFCOM must publish the report made by them to the Secretary of State of a review under this section.
+>
+> **72B Broadband download speeds: duty to give direction under section 72A**
+>
+> (1) The Secretary of State must give OFCOM a direction under section 72A if—
+>
+> (a) the universal service order specifies a minimum download speed for broadband connections and services and the speed so specified is less than 30 megabits per second, and
+>
+> (b) it appears to the Secretary of State, on the basis of information published by OFCOM, that broadband connections or services that provide a minimum download speed of at least 30 megabits per second are subscribed to for use in at least 75% of premises in the United Kingdom.
+>
+> (2) The direction—
+>
+> (a) must require OFCOM to review and report to the Secretary of State on whether it would be appropriate for the universal service order to specify a higher minimum download speed, and
+>
+> (b) may also require OFCOM to review and report to the Secretary of State on any other matter falling within section 72A(1).
+
+(8) In section 135(3)(f) (power of OFCOM to require information for purposes of reviews) for “or 70” substitute “ , 70 or 72A ”.
+
+### 2 General conditions: switching communications provider
+
+(1) Section 51(2) of the Communications Act 2003 (conditions which may be set for protecting interests of end-users) is amended as follows.
+
+(2) Omit “and” after paragraph (g).
+
+(3) After paragraph (h) insert—
+
+> (i) specify requirements in relation to arrangements that enable an end-user to change communications provider on request.
+
+### 3 Automatic compensation for failure to meet performance standards
+
+In section 51(2) of the Communications Act 2003 (conditions which may be set for protecting interests of end-users), after paragraph (d) insert—
+
+> (da) require a communications provider to pay compensation to an end-user on failing to meet a specified standard or obligation;
+
+.
+
+## PART 2 — Digital infrastructure
+
+### Electronic communications code
+
+#### 4 The electronic communications code
+
+(1) In the Telecommunications Act 1984 omit Schedule 2 (the telecommunications code).
+
+(2) Before Schedule 4 to the Communications Act 2003 insert Schedule 3A set out in Schedule 1 to this Act.
+
+(3) Section 106 of the Communications Act 2003 (application of the electronic communications code) is amended as follows.
+
+(4) In subsection (1) for “the code set out in Schedule 2 to the Telecommunications Act 1984 (c 12)” substitute “ the code set out in Schedule 3A ”.
+
+(5) Omit subsection (2).
+
+(6) In subsection (4)(b) for “conduits” substitute “ infrastructure ”.
+
+(7) In subsection (5)(c) for “conduit system” in each place substitute “ system of infrastructure ”.
+
+(8) In subsection (6) for “16(3)” substitute “ 85(7) ”.
+
+(9) Omit subsection (7).
+
+(10) Schedules 2 (transitional provisions) and 3 (consequential amendments) have effect.
+
+#### 5 Power to make transitional provision in connection with the code
+
+(1) The Secretary of State may by regulations made by statutory instrument make transitional, transitory or saving provision in connection with the coming into force of section 4 and Schedule 1.
+
+(2) Regulations under this section may amend Schedule 2.
+
+(3) A statutory instrument containing regulations under this section—
+
+(a) if it includes provision made by virtue of subsection (2), may not be made unless a draft of the instrument has been laid before and approved by a resolution of each House of Parliament;
+
+(b) otherwise, is subject to annulment in pursuance of a resolution of either House of Parliament.
+
+#### 6 Power to make consequential provision etc in connection with the code
+
+(1) The Secretary of State may by regulations make consequential provision in connection with any provision made by or under section 4 or this section or Schedule 1 or 3.
+
+(2) Regulations under subsection (1) may amend, repeal, revoke or otherwise modify the application of any enactment (but, in the case of primary legislation, only if the primary legislation was passed or made before the end of the Session in which this Act is passed).
+
+(3) Regulations under this section—
+
+(a) are to be made by statutory instrument;
+
+(b) may make different provision for different purposes;
+
+(c) may include incidental, supplementary, consequential, transitional, transitory or saving provision.
+
+(4) A statutory instrument containing regulations under this section (whether alone or with other provisions) which amend, repeal or modify the application of primary legislation may not be made unless a draft of the instrument has been laid before and approved by a resolution of each House of Parliament.
+
+(5) Any other statutory instrument containing regulations under this section is subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(6) In this section—
+
+- “enactment” includes—
+
+  - (a) an enactment comprised in subordinate legislation within the meaning of the Interpretation Act 1978,
+  - (b) an enactment comprised in, or in an instrument made under, a Measure or Act of the National Assembly for Wales,
+  - (c) an enactment comprised in, or in an instrument made under, an Act of the Scottish Parliament, and
+  - (d) an enactment comprised in, or in an instrument made under, Northern Ireland legislation;
+
+- “primary legislation” means—
+
+  - (a) an Act of Parliament,
+  - (b) a Measure or Act of the National Assembly for Wales,
+  - (c) an Act of the Scottish Parliament, or
+  - (d) Northern Ireland legislation.
+
+#### 7 Application of the code: protection of the environment
+
+For section 109(2A) of the Communications Act 2003 (under which regulations that set restrictions and conditions to the application of the electronic communications code are deemed by subsection (2B) to comply with duties under National Parks and other legislation if they comply with the duty to have regard to the need to protect the environment, but only if they expire before 6 April 2018) substitute—
+
+> (2A) Subsection (2B) applies if the Secretary of State has complied with subsection (2)(b) in connection with any particular exercise of the power to make regulations under this section.
+
+### Dynamic spectrum access services
+
+#### 8 Regulation of dynamic spectrum access services
+
+(1) After Part 2 of the Wireless Telegraphy Act 2006 insert—
+
+> **PART 2A — Regulation of dynamic spectrum access services**
+>
+> **Registration**
+>
+> **53A Registration of providers of dynamic spectrum access services**
+>
+> (1) A person who provides, or proposes to provide, a dynamic spectrum access service may be registered under this section by OFCOM.
+>
+> (2) An application for registration under this section—
+>
+> (a) is to be made to OFCOM, and
+>
+> (b) must contain such information as OFCOM may reasonably require.
+>
+> (3) OFCOM must, from time to time as they think fit, publish—
+>
+> (a) the criteria for determining applications under this section, and
+>
+> (b) information relating to the restrictions and conditions to which registration under this section may be subject.
+>
+> (4) The criteria published under subsection (3)(a) may include different provision for different cases.
+>
+> (5) Registration under this section is to be for such period, and subject to such restrictions and conditions, as OFCOM think fit.
+>
+> (6) Any such restrictions and conditions are to be contained in a notice in writing given to the person registered under this section.
+>
+> (7) In this Act “dynamic spectrum access service” means a service that provides information about—
+>
+> (a) the availability for use by wireless telegraphy stations and wireless telegraphy apparatus of frequencies that fall within a frequency band specified in regulations made by OFCOM, and
+>
+> (b) the places in which, the power at which, the times when and any conditions subject to which such stations and apparatus may use such frequencies.
+>
+> **53B Revocation and variation of registration**
+>
+> (1) OFCOM may revoke a registration under section 53A, or vary the restrictions and conditions to which it is subject—
+>
+> (a) by notice in writing given to the person registered under that section, or
+>
+> (b) by a general notice applicable to the class to which the person belongs, published in such way as appears to OFCOM to be appropriate.
+>
+> (2) Where OFCOM propose to revoke or vary a registration, they must give the person registered under section 53A a notification—
+>
+> (a) stating the reason for the proposed revocation or variation, and
+>
+> (b) specifying the period during which the person notified has an opportunity to make representations about the proposal.
+>
+> (3) Nothing in subsection (2) applies to a proposal to revoke or vary a registration if the proposal is made at the request or with the consent of the person registered under section 53A.
+>
+> (4) Nothing in this section applies in relation to—
+>
+> (a) a notification given under section 53E, or
+>
+> (b) a decision given under section 53G.
+>
+> **53C Register of providers of dynamic spectrum access services**
+>
+> (1) OFCOM must establish and maintain a register for the purposes of this Part.
+>
+> (2) The register is to contain—
+>
+> (a) the names of the persons registered under section 53A, and
+>
+> (b) such other information relating to the registration of those persons as OFCOM consider appropriate.
+>
+> (3) OFCOM may make available to users or prospective users of dynamic spectrum access services such information contained in the register as they consider appropriate.
+>
+> **Fees**
+>
+> **53D Fees for registration etc**
+>
+> (1) Regulations made by OFCOM may provide for OFCOM to charge fees—
+>
+> (a) for registering a person under section 53A;
+>
+> (b) for the continuation in force of such a registration;
+>
+> (c) for the variation or revocation of such a registration;
+>
+> (d) for anything done by OFCOM in connection with facilitating the service provided by a person registered under section 53A.
+>
+> (2) Subsection (1)(d) does not include anything for which OFCOM may charge under any other enactment.
+>
+> (3) The fees—
+>
+> (a) are to be determined by or in accordance with the regulations, and
+>
+> (b) are to be payable by the person who is to be, is or has been registered under section 53A.
+>
+> (4) The regulations may—
+>
+> (a) confer exemptions in particular cases, and
+>
+> (b) provide for sums paid to be refunded, in whole or in part, in such cases as may be specified in the regulations or in such cases as OFCOM think fit.
+>
+> (5) Where OFCOM register a person in circumstances in which sums will or may subsequently become payable under the regulations, OFCOM may require such security to be given, by way of deposit or otherwise, for the payment of those sums as they think fit.
+>
+> (6) A sum which is required to be paid to OFCOM by virtue of the regulations must be paid to OFCOM as soon as it becomes payable in accordance with the regulations and, if it is not paid, is recoverable by them accordingly.
+>
+> **Enforcement**
+>
+> **53E Notification of contravention of registration restrictions or conditions**
+>
+> (1) Where OFCOM determine that there are reasonable grounds for believing that a person registered under section 53A is contravening, or has contravened, the restrictions or conditions subject to which the person is registered they may give that person a notification under this section.
+>
+> (2) A notification under this section is one which—
+>
+> (a) sets out the determination made by OFCOM,
+>
+> (b) specifies the restriction or condition and contravention in respect of which that determination has been made,
+>
+> (c) specifies the period during which the person notified has an opportunity to make representations,
+>
+> (d) specifies the steps that OFCOM think should be taken by the person in order to—
+>
+> (i) comply with the restriction or condition;
+>
+> (ii) remedy the consequences of the contravention,
+>
+> (e) if OFCOM are minded to suspend or revoke the person's registration, contains a statement to that effect, and
+>
+> (f) specifies any penalty which OFCOM are minded to impose in accordance with section 53F.
+>
+> (3) A notification under this section—
+>
+> (a) may be given in respect of more than one contravention, and
+>
+> (b) if it is given in respect of a continuing contravention, may be given in respect of any period during which the contravention has continued.
+>
+> (4) Where a notification under this section has been given to a person in respect of a contravention of a restriction or condition, OFCOM may give a further notification in respect of the same contravention of that restriction or condition if, and only if—
+>
+> (a) the contravention is one occurring after the time of the giving of the earlier notification,
+>
+> (b) the contravention is a continuing contravention and the subsequent notification is in respect of so much of a period as falls after a period to which the earlier notification relates, or
+>
+> (c) the earlier notification has been withdrawn without a penalty having been imposed, or other action taken, in respect of the notified contravention.
+>
+> **53F Penalties under section 53E**
+>
+> (1) This section applies where a person is given a notification under section 53E that specifies a proposed penalty.
+>
+> (2) Where the notification relates to more than one contravention, a separate penalty may be specified in respect of each contravention.
+>
+> (3) Where the notification relates to a continuing contravention, no more than one penalty may be specified in respect of the period of contravention specified in the notification.
+>
+> (4) But, in relation to a continuing contravention, a penalty may be specified in respect of each day on which the contravention continues after—
+>
+> (a) the giving of a confirmation decision under section 53G which requires immediate action, or
+>
+> (b) the expiry of any period specified in the confirmation decision for complying with a requirement so specified.
+>
+> (5) The amount of a penalty specified under subsection (4) is to be such amount, not exceeding £20,000 per day, as OFCOM think—
+>
+> (a) appropriate, and
+>
+> (b) proportionate to the contravention in respect of which it is imposed.
+>
+> (6) The amount of any other penalty specified under this section is to be such amount, not exceeding 10% of the relevant amount of gross revenue, as OFCOM think—
+>
+> (a) appropriate, and
+>
+> (b) proportionate to the contravention in respect of which it is imposed.
+>
+> **53G Enforcement of notification under section 53E**
+>
+> (1) This section applies where—
+>
+> (a) a person has been given a notification under section 53E,
+>
+> (b) OFCOM have allowed the person an opportunity to make representations about the matters notified, and
+>
+> (c) the period allowed for the making of representations has expired.
+>
+> (2) OFCOM may—
+>
+> (a) give the person a decision (a “confirmation decision”) confirming the imposition of requirements on the person, or the suspension or revocation of the person's registration, or both, in accordance with the notification under section 53E, or
+>
+> (b) inform the person that they are satisfied with the person's representations and that no further action will be taken.
+>
+> (3) OFCOM may not give a confirmation decision to a person unless, after considering any representations, they are satisfied that the person has, in one or more of the respects notified, been in contravention of a restriction or condition specified in the notification under section 53E.
+>
+> (4) A confirmation decision—
+>
+> (a) must be given to the person without delay,
+>
+> (b) must include reasons for the decision,
+>
+> (c) may require immediate action by the person to comply with requirements of a kind mentioned in section 53E(2)(d), or may specify a period within which the person must comply with those requirements,
+>
+> (d) may require the person to pay—
+>
+> (i) the penalty specified in the notification under section 53E, or
+>
+> (ii) such lesser penalty as OFCOM consider appropriate in the light of the person's representations or steps taken by the person to comply with the condition or restriction or remedy the consequences of the contravention, and
+>
+> (e) may specify the period within which any such penalty is to be paid.
+>
+> (5) It is the duty of the person to comply with any requirement imposed by a confirmation decision.
+>
+> (6) That duty is enforceable in civil proceedings by OFCOM—
+>
+> (a) for an injunction,
+>
+> (b) for specific performance of a statutory duty under section 45 of the Court of Session Act 1988, or
+>
+> (c) for any other appropriate remedy or relief.
+>
+> (7) A penalty imposed by a confirmation decision—
+>
+> (a) must be paid to OFCOM, and
+>
+> (b) if not paid within the period specified by them, is to be recoverable by them accordingly.
+>
+> **53H Meaning of “relevant amount of gross revenue”**
+>
+> (1) The relevant amount of gross revenue for the purposes of section 53F, in relation to a penalty imposed on a person, is—
+>
+> (a) where the last accounting period of that person which falls before the contravention was a period of 12 months, the relevant part of the person's gross revenue for that period, and
+>
+> (b) in any other case, the amount which, by making any appropriate apportionments or other adjustments of the relevant part of the person's gross revenue for the accounting period or periods mentioned in subsection (2), is computed to be the amount representing the annual rate for the relevant part of the person's gross revenue.
+>
+> (2) The accounting period or periods referred to in subsection (1) are—
+>
+> (a) every accounting period of the person to end within the period of 12 months immediately preceding the contravention, and
+>
+> (b) if there is no such accounting period, the accounting period of the person which is current at the time of the contravention.
+>
+> (3) A reference to the relevant part of a person's gross revenue, in relation to a contravention of the restrictions or conditions subject to which the person is registered under section 53A, is a reference to so much of the person's gross revenue as is attributable to the provision of the dynamic spectrum access service to which the contravention relates.
+>
+> (4) For the purposes of this section—
+>
+> (a) the gross revenue of a person for a period, and
+>
+> (b) the extent to which a part of a person's gross revenue is attributable to the provision of any dynamic spectrum access service,
+>
+> is to be ascertained in accordance with such principles as may be set out in a statement made by OFCOM.
+>
+> (5) Such a statement may provide for the amount of a person's gross revenue for an accounting period that is current when the amount falls to be calculated to be taken to be the amount estimated by OFCOM, in accordance with the principles set out in the statement, to be the amount that will be the person's gross revenue for that period.
+>
+> (6) OFCOM may revise a statement made under subsection (4) from time to time.
+>
+> (7) A statement made or revised under this section may set out different principles for different cases.
+>
+> (8) Before making or revising a statement under this section, OFCOM must consult the Secretary of State and the Treasury.
+>
+> (9) OFCOM must—
+>
+> (a) publish the statement made under subsection (4) and every revision of it, and
+>
+> (b) send a copy of the statement and of every such revision to the Secretary of State,
+>
+> and the Secretary of State must lay copies of the statement and of every such revision before each House of Parliament.
+>
+> (10) In this section—
+>
+> - “accounting period”, in relation to a person, means a period in respect of which accounts of the undertaking carried on by the person are prepared or, if one such period is comprised in another, whichever of those periods is or is closest to a 12 month period;
+> - “gross revenue”, in relation to a person, means the gross revenue of an undertaking carried on by that person.
+>
+> **53I Requirement to provide information about gross revenue**
+>
+> (1) OFCOM may require a person to whom a notification has been given under section 53E to provide them with all such information as they may require for the purpose of ascertaining the person's gross revenue.
+>
+> (2) A demand for information required under this section must be contained in a notice given to the person from whom the information is required.
+>
+> (3) A person required to give information under this section must provide it in such manner and within such reasonable period as may be specified by OFCOM.
+>
+> (4) Sections 53K to 53M apply for the purposes of a requirement imposed under this section as they apply for the purposes of a requirement imposed under section 53J.
+>
+> **Information**
+>
+> **53J Provision of information to persons registered under section 53A**
+>
+> (1) OFCOM may require a person falling within subsection (2) to provide a person registered under section 53A with all such information as OFCOM consider necessary and proportionate for the purpose of enabling the registered person to avoid undue interference with wireless telegraphy.
+>
+> (2) The persons falling within this subsection are—
+>
+> (a) a person who is using, or has established or used, a wireless telegraphy station, and
+>
+> (b) a person who is using, or has installed or used, wireless telegraphy apparatus.
+>
+> (3) A demand for information required under this section must be contained in a notice given to the person from whom the information is required.
+>
+> (4) The notice must—
+>
+> (a) describe the required information,
+>
+> (b) specify the manner and form in which it is to be provided,
+>
+> (c) specify when and (if appropriate) how frequently it is to be provided, and
+>
+> (d) specify to whom it is to be provided.
+>
+> **53K Notification of contravention of information requirements**
+>
+> (1) Where OFCOM determine that there are reasonable grounds for believing that a person is contravening, or has contravened, a requirement imposed under section 53J, they may give the person a notification under this section.
+>
+> (2) A notification under this section is one which—
+>
+> (a) sets out the determination made by OFCOM,
+>
+> (b) specifies the requirement and contravention in respect of which the determination has been made,
+>
+> (c) specifies the period during which the person notified has an opportunity to make representations, and
+>
+> (d) specifies any penalty which OFCOM are minded to impose in accordance with section 53L.
+>
+> (3) A notification under this section—
+>
+> (a) may be given in respect of more than one contravention, and
+>
+> (b) if it is given in respect of a continuing contravention, may be given in respect of any period during which the contravention has continued.
+>
+> (4) Where a notification under this section has been given to a person in respect of a contravention of a requirement, OFCOM may give a further notification in respect of the same contravention if, and only if—
+>
+> (a) the contravention is one occurring after the time of the giving of the earlier notification,
+>
+> (b) the contravention is a continuing contravention and the subsequent notification is in respect of so much of a period as falls after a period to which the earlier notification relates, or
+>
+> (c) the earlier notification has been withdrawn without a penalty having been imposed in respect of the notified contravention.
+>
+> **53L Penalties under section 53K**
+>
+> (1) This section applies where a person is given a notification under section 53K that specifies a proposed penalty.
+>
+> (2) Where the notification relates to more than one contravention, a separate penalty may be specified in respect of each contravention.
+>
+> (3) Where the notification relates to a continuing contravention, no more than one penalty may be specified in respect of the period of contravention specified in the notification.
+>
+> (4) But, in relation to a continuing contravention, a penalty may be specified in respect of each day on which the contravention continues after—
+>
+> (a) the giving of a confirmation decision under section 53M(4)(c) which requires immediate action, or
+>
+> (b) the expiry of any period specified in the confirmation decision for complying with a requirement so specified.
+>
+> (5) The amount of a penalty specified under subsection (4) is to be such amount, not exceeding £20,000 per day, as OFCOM determine to be—
+>
+> (a) appropriate; and
+>
+> (b) proportionate to the contravention in respect of which it is imposed.
+>
+> (6) The amount of any other penalty specified under this section is to be such amount, not exceeding £2 million, as OFCOM determine to be both—
+>
+> (a) appropriate; and
+>
+> (b) proportionate to the contravention in respect of which it is imposed.
+>
+> **53M Enforcement of notification under section 53K**
+>
+> (1) This section applies where—
+>
+> (a) a person has been given a notification under section 53K,
+>
+> (b) OFCOM have allowed the person an opportunity to make representations about the matters notified, and
+>
+> (c) the period allowed for the making of representations has expired.
+>
+> (2) OFCOM may—
+>
+> (a) give the person a decision (a “confirmation decision”) confirming the imposition of requirements in accordance with the notification under section 53K, or
+>
+> (b) inform the person that they are satisfied with the person's representations and that no further action will be taken.
+>
+> (3) OFCOM may not give a confirmation decision to a person unless, after considering any representations, they are satisfied that the person has, in one or more of the respects notified, been in contravention of a requirement notified under section 53K.
+>
+> (4) A confirmation decision—
+>
+> (a) must be given to the person without delay,
+>
+> (b) must include reasons for the decision,
+>
+> (c) may require immediate action by the person to comply with a requirement notified under section 53K, or may specify a period within which the person must comply with the requirement,
+>
+> (d) may require the person to pay—
+>
+> (i) the penalty specified in the notification under section 53L, or
+>
+> (ii) such lesser penalty as OFCOM consider appropriate in the light of the person's representations or steps taken by the person to comply with the requirement or remedy the consequences of the contravention, and
+>
+> (e) may specify the period within which any such penalty is to be paid.
+>
+> (5) It is the duty of the person to comply with any requirement imposed by a confirmation decision.
+>
+> (6) That duty is enforceable in civil proceedings by OFCOM—
+>
+> (a) for an injunction,
+>
+> (b) for specific performance of a statutory duty under section 45 of the Court of Session Act 1988, or
+>
+> (c) for any other appropriate remedy or relief.
+>
+> (7) A penalty imposed by a confirmation decision—
+>
+> (a) must be paid to OFCOM, and
+>
+> (b) if not paid within the period specified by them, is to be recoverable by them accordingly.
+
+(2) In section 111(3) of that Act (exemptions from general restriction on disclosure), after paragraph (c) insert—
+
+> (ca) by OFCOM to a person registered under section 53A for the purpose of providing the dynamic spectrum access service in respect of which the person is registered;
+
+.
+
+(3) In section 115(1) of that Act (general interpretation), at the appropriate place insert—
+
+> “dynamic spectrum access service” has the meaning given by section 53A;
+
+.
+
+(4) In section 400(1) of the Communications Act 2003 (destination of fees and penalties)—
+
+(a) in paragraph (d), before “of that Act” insert “ or Part 2A ”, and
+
+(b) after that paragraph insert—
+
+> (da) an amount paid to OFCOM in respect of a fee charged under section 53D of that Act;
+
+.
+
+(5) In Schedule 8 to that Act (decisions not subject to appeal)—
+
+(a) in paragraph 40(a), after “45” insert “ , 53A(7), 53D ”,
+
+(b) in paragraph 41, for “or 24” substitute “ , 24 or 53D(6) ”, and
+
+(c) in paragraph 43, omit the “or” after paragraph (a) and at the end of paragraph (b) insert
+
+> , or
+>
+> (c) section 53H.
+
+### Other regulation of spectrum
+
+#### 9 Penalties for contravention of wireless telegraphy licences
+
+(1) The Wireless Telegraphy Act 2006 is amended as follows.
+
+(2) In section 42 (special procedure for contraventions by multiplex licence holders), in subsection (1)—
+
+(a) in paragraph (a), for “general multiplex” substitute “ wireless telegraphy ”, and
+
+(b) omit paragraph (b).
+
+(3) At the end of that section insert—
+
+> (7) A contravention is a “relevant multiplex contravention” for the purposes of section 43 if—
+>
+> (a) it is a contravention of terms, provisions or limitations of a general multiplex licence, and
+>
+> (b) the contravention relates only to terms, provisions or limitations that fall within section 9(4)(b) or (c).
+
+(4) In the heading of that section, for “multiplex licence holders” substitute “ holders of wireless telegraphy licences ”.
+
+(5) In section 43 (amount of penalty under section 42), in subsection (1), after “section 42” insert “ for a relevant multiplex contravention (see subsection (7) of that section) ”.
+
+(6) In that section, after subsection (2) insert—
+
+> (2A) The amount of a penalty imposed under section 42 for a contravention that is not a relevant multiplex contravention is to be such amount not exceeding 10 per cent of the relevant amount of gross revenue as OFCOM think—
+>
+> (a) appropriate; and
+>
+> (b) proportionate to the contravention in respect of which it is imposed.
+
+(7) In that section, in subsection (3), for “subsection (2)” substitute “ this section ”.
+
+(8) Omit section 43A.
+
+(9) In section 44 (relevant amount of gross revenue), in subsections (1) and (10), omit “or 43A”.
+
+(10) In section 400 of the Communications Act 2003 (destination of licence fees and penalties), in subsection (1)(d), omit “or 43A”.
+
+(11) In Schedule 8 to that Act (decisions not subject to appeal), at the end of paragraph 44 insert “ for a relevant multiplex contravention ”.
+
+(12) Omit section 39 of the Digital Economy Act 2010.
+
+(13) The amendments and repeals made by this section do not apply in relation to—
+
+(a) any contravention which takes place before the day on which this section comes into force, or
+
+(b) any continuing contravention which began before that day.
+
+#### 10 Fixed penalties under Wireless Telegraphy Act 2006
+
+(1) In paragraph 4(2)(a) of Schedule 4 to the Wireless Telegraphy Act 2006 (suspended enforcement period for purposes of fixed penalty notice) for “one month” substitute “ 28 days ”.
+
+(2) The amendment made by this section does not apply in relation to a fixed penalty notice issued in respect of an offence committed before this section comes into force.
+
+#### 11 Search warrants under Wireless Telegraphy Act 2006
+
+(1) In section 97(3) of the Wireless Telegraphy Act 2006 (period for entering premises under warrant) for “of three months beginning with the day after the date of the warrant” substitute “ beginning with the grant of the warrant and ending three months after the end of the day on which the warrant is granted ”.
+
+(2) The amendment made by this section does not apply in relation to a warrant granted in respect of an offence committed before this section comes into force.
+
+#### 12 Disposal of seized property under Wireless Telegraphy Act 2006
+
+(1) In section 101 of the Wireless Telegraphy Act 2006 (detention and disposal of seized property), for subsection (5) substitute—
+
+> (5) OFCOM may dispose of the property in such manner as they think fit if it remains in their possession after the end of the six months immediately following—
+>
+> (a) the end of the period of detention authorised by subsection (2)(a), or
+>
+> (b) if subsection (2)(b) applies, the end of the day on which the proceedings referred to in that provision were concluded.
+
+(2) The amendment made by this section does not apply where the relevant offence is one committed before this section comes into force.
+
+(3) The relevant offence—
+
+(a) where section 101(1)(a) of the Wireless Telegraphy Act 2006 applies, is the offence in relation to which the warrant is granted;
+
+(b) where section 101(1)(b) of that Act applies, is the offence referred to in section 99(3) of that Act.
+
+#### 13 Time limits for prosecutions under Wireless Telegraphy Act 2006
+
+(1) The Wireless Telegraphy Act 2006 is amended as follows.
+
+(2) In section 107 (proceedings and enforcement), after subsection (3) insert—
+
+> (3A) For the time limit for bringing proceedings which are for a summary offence under section 35 and to which section 41 applies see section 41(7).
+>
+> (3B) The time limit for bringing any other proceedings for a summary offence under section 35, 58 or 66 is—
+>
+> (a) one year from the end of the day on which the prosecutor becomes aware of evidence which he or she considers sufficient to justify a prosecution for the offence, or
+>
+> (b) if earlier, three years from the end of the day on which the offence was committed.
+>
+> (3C) Section 41(7) and subsection (3B) above have effect despite—
+>
+> (a) section 127 of the Magistrates' Courts Act 1980 (time limit for bringing proceedings for summary offences in England and Wales),
+>
+> (b) Article 19 of the Magistrates' Courts (Northern Ireland) Order 1981 (S.I. 1981/1675 (N.I. 26)) (equivalent provision for Northern Ireland), and
+>
+> (c) section 136 of the Criminal Procedure (Scotland) Act 1995 (equivalent provision for Scotland).
+>
+> (3D) In relation to proceedings in Scotland, subsection (3) of section 136 of the Criminal Procedure (Scotland) Act 1995 (date when proceedings deemed to be commenced for the purposes of that section) applies also for the purposes of section 41(7) and subsection (3B) above.
+
+(3) In section 41 (procedure for prosecutions)—
+
+(a) in subsection (3)(b) for “allowed under that section” substitute “ specified under section 39(2)(c) for making representations ”;
+
+(b) in subsection (7) for the words from “allowed” to the end substitute “ specified under section 39(2)(c). ”;
+
+(c) for subsection (8) substitute—
+
+> (8) For further provision about prosecutions see section 107.
+
+(4) The amendments made by this section do not apply in relation to an offence committed before this section comes into force.
+
+## [^F1]PART 3 — Online pornography
+
+### [^F1]14 Internet pornography: requirement to prevent access by persons under 18
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1]15 Meaning of “pornographic material”
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1]16 The age-verification regulator: designation and funding
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1]17 Parliamentary procedure for designation of age-verification regulator
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1]18 Regulator's power to require information (prospective)
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1]19 Enforcement by regulator of sections 14 and 18 (prospective)
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1]20 Financial penalties imposed by regulator (prospective)
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1]21 Notice by regulator to payment-services providers and ancillary service providers
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1]22 Meaning of “extreme pornographic material”
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1]23 Regulator's power to require internet service providers to block access to material (prospective)
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1]24 No power to give notice under section 23(1) where detrimental to national security etc (prospective)
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1]25 Guidance to be published by regulator
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1]26 Exercise of functions by regulator
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1]27 Guidance by Secretary of State to regulator
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1]28 Requirements for notices given by regulator under this Part (prospective)
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1]29 Report on this Part (prospective)
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1]30 Interpretation and general provisions relating to this Part
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 4 — Intellectual Property
+
+### 31 Lending of e-books by public libraries
+
+(1) In section 5(2) of the Public Lending Right Act 1979 (interpretation) for the definition of “lent out” substitute—
+
+> “lent out” means made available to a member of the public for use away from library premises for a limited time (including by being communicated by means of electronic transmission to a place other than library premises) and “loan” and “borrowed” are to be read accordingly;
+
+.
+
+(2) Section 40A of the Copyright, Designs and Patents Act 1988 (lending of copies by libraries or archives) is amended as follows.
+
+(3) After subsection (1) insert—
+
+> (1ZA) Subsection (1) applies to an e-book or an e-audio-book only if—
+>
+> (a) the book has been lawfully acquired by the library, and
+>
+> (b) the lending is in compliance with any purchase or licensing terms to which the book is subject.
+
+(4) In subsection (1A)—
+
+(a) for “subsection (1)” substitute “ subsections (1) and (1ZA) ”;
+
+(b) after paragraph (a) insert—
+
+> (aa) “e-audio-book” means an audio-book (as defined in paragraph (a)) in a form enabling lending of the book by electronic transmission,
+
+.
+
+### 32 Offences: infringing copyright and making available right
+
+(1) The Copyright, Designs and Patents Act 1988 is amended as follows.
+
+(2) In section 107 (criminal liability for making or dealing with infringing articles, etc), for subsection (2A) substitute—
+
+> (2A) A person (“P”) who infringes copyright in a work by communicating the work to the public commits an offence if P—
+>
+> (a) knows or has reason to believe that P is infringing copyright in the work, and
+>
+> (b) either—
+>
+> (i) intends to make a gain for P or another person, or
+>
+> (ii) knows or has reason to believe that communicating the work to the public will cause loss to the owner of the copyright, or will expose the owner of the copyright to a risk of loss.
+>
+> (2B) For the purposes of subsection (2A)—
+>
+> (a) “gain” and “loss”—
+>
+> (i) extend only to gain or loss in money, and
+>
+> (ii) include any such gain or loss whether temporary or permanent, and
+>
+> (b) “loss” includes a loss by not getting what one might get.
+
+(3) In subsection (4A)(b) of that section, for “two” substitute “ ten ”.
+
+(4) In section 198 (criminal liability for making, dealing with or using illicit recordings), for subsection (1A) substitute—
+
+> (1A) A person (“P”) who infringes a performer's making available right in a recording commits an offence if P—
+>
+> (a) knows or has reason to believe that P is infringing the right, and
+>
+> (b) either—
+>
+> (i) intends to make a gain for P or another person, or
+>
+> (ii) knows or has reason to believe that infringing the right will cause loss to the owner of the right, or expose the owner of the right to a risk of loss.
+>
+> (1B) For the purposes of subsection (1A)—
+>
+> (a) “gain” and “loss”—
+>
+> (i) extend only to gain or loss in money, and
+>
+> (ii) include any such gain or loss whether temporary or permanent, and
+>
+> (b) “loss” includes a loss by not getting what one might get.
+
+(5) In subsection (5A)(b) of that section, for “two” substitute “ ten ”.
+
+(6) The amendments made by this section do not apply in relation to offences committed before this section comes into force.
+
+### 33 Registered designs: infringement: marking product with internet link
+
+(1) Section 24B of the Registered Designs Act 1949 (exemption of innocent infringer from liability) is amended as follows.
+
+(2) In subsection (2) (defendant not deemed to have been aware etc that design was registered by reason of the marking of the product unless it includes the number of the design), after “the number of the design” insert “ or a relevant internet link ”.
+
+(3) After that subsection insert—
+
+> (2A) The reference in subsection (2) to a relevant internet link is a reference to an address of a posting on the internet—
+>
+> (a) which is accessible to the public free of charge, and
+>
+> (b) which clearly associates the product with the number of the design.
+
+### 34 Copyright etc where broadcast retransmitted by cable
+
+(1) In the Copyright, Designs and Patents Act 1988 the following are repealed—
+
+(a) sections 73 and 73A (copyright not infringed where broadcast retransmitted by cable);
+
+(b) paragraphs 19 and 19A of Schedule 2 (rights in relation to performance or recording not infringed where broadcast retransmitted by cable).
+
+(2) In consequence the following are repealed or revoked—
+
+(a) in the Copyright, Designs and Patents Act 1988—
+
+(i) in section 134, subsection (3A) and, in subsection (1), the words “Subject to subsection (3A)”;
+
+(ii) section 149(za);
+
+(iii) section 205B(1)(cc);
+
+(b) in the Broadcasting Act 1996, section 138 and Schedule 9;
+
+(c) in the Copyright and Related Rights Regulations 2003 (S.I. 2003/2498), regulation 22.
+
+## PART 5 — Digital government
+
+### CHAPTER 1 — Public service delivery
+
+#### 35 Disclosure of information to improve public service delivery
+
+(1) A specified person may disclose information held by the person in connection with any of the person's functions to another specified person for the purposes of an objective which is a specified objective in relation to each of those persons.
+
+(2) In this section “specified person” means a person specified, or of a description specified, in Schedule 4.
+
+[[^F2](2A) Where in Schedule 4 functions are mentioned in relation to a specified person, the reference in subsection (1) to the person’s functions is limited to the person’s functions as mentioned in Schedule 4.]
+
+(3) The appropriate national authority may by regulations amend Schedule 4 so as to add, remove or modify an entry relating to a person or description of person.
+
+(4) Regulations under subsection (3) may add an entry relating to a person or a description of person to Schedule 4 only if—
+
+(a) the person is a public authority or (as the case may be) each person of that description is a public authority, or
+
+(b) the person provides services to a public authority or (as the case may be) each person of that description provides services to a public authority.
+
+(5) In the case of a person (“P”) who is a specified person merely because of providing services to a public authority, the reference in subsection (1) to the functions of a specified person is limited to the functions P exercises for that purpose.
+
+(6) In determining whether to make regulations under subsection (3) in relation to a person or description of person the appropriate national authority must have regard, in particular, to—
+
+(a) the systems and procedures for the secure handling of information by that person or persons of that description, and
+
+(b) in the case of regulations which remove a person from Schedule 4 whether that person, or any person providing services to that person, has had regard to the code of practice under section 43 as required by that section.
+
+(7) In this section “specified objective”, in relation to a specified person, means an objective specified in relation to that specified person in regulations made by the appropriate national authority.
+
+(8) An objective may be specified by regulations under subsection (7) only if it complies with the following conditions.
+
+(9) The first condition is that the objective has as its purpose—
+
+(a) the improvement or targeting of a public service provided to individuals [[^F3], households or undertakings], or
+
+(b) the facilitation of the provision of a benefit (whether or not financial) to individuals [[^F4], households or undertakings].
+
+(10) The second condition is that the objective has as its purpose
+
+[[^F5](a)] the improvement of the well-being of individuals or households [[^F6], or
+
+(b) the assisting of undertakings in connection with any trade, business or charitable purpose.]
+
+(11) The reference in subsection (10) to the well-being of individuals or households includes—
+
+(a) their physical and mental health and emotional well-being,
+
+(b) the contribution made by them to society, and
+
+(c) their social and economic well-being.
+
+(12) The third condition is that the objective has as its purpose the supporting of—
+
+(a) the delivery of a specified person's functions, or
+
+(b) the administration, monitoring or enforcement of a specified person's functions.
+
+[[^F7](13) In this section “undertaking” means—
+
+(a) any person, other than a public authority, carrying on a trade or business, whether or not with a view to profit, or
+
+(b) any body, or the trustees of a trust, established for charitable purposes only.
+
+(14) In this section, in so far as it forms part of the law of Scotland or Northern Ireland, “charitable purpose” has the same meaning as it has in the law of England and Wales (see section 2 of the Charities Act 2011).]
+
+#### 36 Disclosure of information to gas and electricity suppliers etc
+
+(1) If the first and second conditions are met, a specified person may disclose information held by the person in connection with any of the person's functions to—
+
+(a) a licensed gas supplier, or
+
+(b) a licensed electricity supplier.
+
+(2) The first condition is that the disclosure is for the purpose of assisting people living in fuel poverty by—
+
+(a) reducing their energy costs,
+
+(b) improving efficiency in their use of energy, or
+
+(c) improving their health or financial well-being.
+
+(3) The second condition is that the information is disclosed with the intention that it will be used by the recipient of the information in connection with—
+
+(a) a support scheme under Part 2 of the Energy Act 2010 (schemes for reducing fuel poverty),
+
+(b) in the case of a disclosure to a licensed gas supplier, an obligation imposed by an order under section 33BC or 33BD of the Gas Act 1986 (powers to impose obligations on gas suppliers etc),
+
+(c) in the case of a disclosure to a licensed electricity supplier, an obligation imposed by an order under section 41A or 41B of the Electricity Act 1989 (powers to impose obligations on electricity suppliers etc), [^F8]...
+
+(d) the making of grants (by any person) under section 15 of the Social Security Act 1990 in accordance with regulations under that section made by the Scottish Ministers or the Welsh Ministers,
+
+[[^F9](e) in the case of a disclosure to a licensed gas supplier, a restriction on charges levied on domestic customers by the supplier which is imposed by the Gas and Electricity Markets Authority—
+
+(i) in the exercise of its powers under section 23(1)(b) of the Gas Act 1986 (modification of conditions of licences), and
+
+(ii) for purposes that include assisting people living in fuel poverty by reducing their energy costs, [^F10]...
+
+(f) in the case of a disclosure to a licensed electricity supplier, a restriction on charges levied on domestic customers by the supplier which is imposed by the Gas and Electricity Markets Authority—
+
+(i) in the exercise of its powers under section 11A(1)(b) of the Electricity Act 1989 (modification of conditions of licences), and
+
+(ii) for purposes that include assisting people living in fuel poverty by reducing their energy costs,]
+
+[[^F11](g) in the case of a disclosure to a licensed gas supplier, a debt relief requirement imposed by the Gas and Electricity Markets Authority—
+
+(i) in the exercise of its powers under section 23(1)(b) of the Gas Act 1986 or section 1(2)(a) of the Domestic Gas and Electricity (Tariff Cap) Act 2018 (cap on standard variable and default rates), and
+
+(ii) for purposes that include assisting people living in fuel poverty by improving their financial well-being, or
+
+(h) in the case of a disclosure to a licensed electricity supplier, a debt relief requirement imposed by the Gas and Electricity Markets Authority—
+
+(i) in the exercise of its powers under section 11A(1)(b) of the Electricity Act 1989 or section 1(2)(a) of the Domestic Gas and Electricity (Tariff Cap) Act 2018, and
+
+(ii) for purposes that include assisting people living in fuel poverty by improving their financial well-being.]
+
+(4) In this section and section 37 “specified person” means a person specified, or of a description specified, in Schedule 5.
+
+(5) The appropriate national authority may by regulations—
+
+(a) amend Schedule 5 so as to add, remove or modify an entry relating to a person or description of person;
+
+(b) amend subsection (1) so as to add or remove a person or description of person to whom information may be disclosed;
+
+(c) amend subsection (3) so as to add, modify or remove a reference to a fuel poverty measure.
+
+(6) Regulations under subsection (5)(a) may add an entry relating to a person or a description of person to Schedule 5 only if—
+
+(a) the person is a public authority or (as the case may be) each person of that description is a public authority, or
+
+(b) the person provides services to a public authority or (as the case may be) each person of that description provides services to a public authority.
+
+(7) Regulations under subsection (5)(b) may add a person or a description of person to subsection (1) only if the person or (as the case may be) each person of that description—
+
+(a) provides assistance of a kind mentioned in subsection (2) to people living in fuel poverty,
+
+(b) monitors or enforces the provision of such assistance to such people,
+
+(c) administers a fuel poverty measure, or
+
+(d) provides services to a person within paragraph (a), (b) or (c).
+
+(8) In determining whether to make regulations under subsection (5)(a) or (b) in relation to a person or description of person the appropriate national authority must have regard, in particular, to—
+
+(a) the systems and procedures for the secure handling of information by that person or persons of that description, and
+
+(b) in the case of regulations which remove a person from Schedule 5 or subsection (1), whether that person, or any person providing services to that person, has had regard to the code of practice under section 43 as required by that section.
+
+(9) In the case of a person (“P”) who is a specified person merely because of providing services to a public authority, the reference in subsection (1) to the functions of a specified person is limited to the functions P exercises for that purpose.
+
+(10) For the purposes of this Chapter a person lives in fuel poverty if the person is a member of a household living on a lower income in a home which cannot be kept warm at a reasonable cost.
+
+(11) In this section—
+
+- [[^F12]“debt relief requirement” means a requirement to reduce or cancel sums owed by, or otherwise to assist, domestic customers who—
+
+  - in a case within subsection (3)(g), are in debt to the supplier in respect of the supply of gas to them;
+  - in a case within subsection (3)(h), are in debt to the supplier in respect of the supply of electricity to them;]
+
+- [[^F13]“domestic customer” means a customer supplied with gas or electricity wholly or mainly for domestic purposes;]
+
+- “fuel poverty measure” means—
+
+  - (a) a scheme, arrangement or set of arrangements, or
+  - (b) a function or set of functions,
+
+  which has as its purpose (or one of its purposes) the provision of assistance of a kind mentioned in subsection (2) to people living in fuel poverty;
+
+- “licensed gas supplier” means the holder of a licence under section 7A(1) of the Gas Act 1986;
+
+- “licensed electricity supplier” means the holder of a licence under section 6(1)(d) of the Electricity Act 1989.
+
+#### 37 Disclosure of information by gas and electricity suppliers etc
+
+(1) If the condition in subsection (2) is met, a person to whom information may be disclosed under section 36 may disclose information held by that person to a specified person.
+
+(2) That condition is that the disclosure is for the purpose of assisting people living in fuel poverty in England and Wales or Scotland by—
+
+(a) reducing their energy costs,
+
+(b) improving efficiency in their use of energy, or
+
+(c) improving their health or financial well-being.
+
+#### 38 Disclosure of information to water and sewerage undertakers etc
+
+(1) If the first and second conditions are met, a specified person may disclose information held by the person in connection with any of the person's functions to—
+
+(a) a water or sewerage undertaker for an area which is wholly or mainly in England, or
+
+(b) a water or sewerage undertaker for an area which is wholly or mainly in Wales.
+
+(2) The first condition is that the disclosure is for the purpose of assisting [[^F14]eligible people] by—
+
+(a) reducing their water or sewerage costs,
+
+(b) improving efficiency in their use of water, or
+
+(c) improving their health or financial well-being.
+
+(3) The second condition is that the information is disclosed with the intention that it will be used by the undertaker in connection with provision in the undertaker's charges scheme under section 143 of the Water Industry Act 1991 which is included in that scheme—
+
+(a) in compliance with regulations under section 143A of that Act which impose requirements within subsection (2)(d) of that section (power for regulations to require charges schemes to make special provision for particular classes of individual), or
+
+(b) by virtue of section 44 of the Flood and Water Management Act 2010 (social tariffs).
+
+(4) In this section and section 39 “specified person” means a person specified, or of a description specified, in Schedule 6.
+
+(5) The appropriate national authority may by regulations—
+
+(a) amend Schedule 6 so as to add, remove or modify an entry relating to a person or description of person;
+
+(b) amend subsection (1) so as to add or remove a person or description of person to whom information may be disclosed;
+
+(c) amend subsection (3) so as to add, modify or remove a reference to a water poverty measure.
+
+(6) Regulations under subsection (5)(a) may add an entry relating to a person or a description of person to Schedule 6 only if—
+
+(a) the person is a public authority or (as the case may be) each person of that description is a public authority, or
+
+(b) the person provides services to a public authority or (as the case may be) each person of that description provides services to a public authority.
+
+(7) Regulations under subsection (5)(b) may add a person or a description of person to subsection (1) only if the person or (as the case may be) each person of that description—
+
+(a) provides assistance of a kind mentioned in subsection (2) to people living in water poverty,
+
+(b) monitors or enforces the provision of such assistance to such people,
+
+(c) administers a water poverty measure, or
+
+(d) provides services to a person within paragraph (a), (b) or (c).
+
+(8) In determining whether to make regulations under subsection (5)(a) or (b) in relation to a person or description of person the appropriate national authority must have regard, in particular, to—
+
+(a) the systems and procedures for the secure handling of information by that person or persons of that description, and
+
+(b) in the case of regulations which remove a person from Schedule 6 or subsection (1), whether that person, or any person providing services to that person, has had regard to the code of practice under section 43 as required by that section.
+
+(9) In the case of a person (“P”) who is a specified person merely because of providing services to a public authority, the reference in subsection (1) to the functions of a specified person is limited to the functions P exercises for that purpose.
+
+[[^F15](9A) A person is “eligible” for the purposes of this section and section 39—
+
+(a) if the person is living in water poverty, or
+
+(b) in the application of the sections to a water or sewerage undertaker for an area which is wholly or mainly in England, if the person is among those for whom special provision is required to be made by regulations within subsection (3)(a).]
+
+(10) For the purposes of this Chapter a person lives in water poverty if the person is a member of a household living on a lower income in a home which—
+
+(a) cannot be supplied with water at a reasonable cost, or
+
+(b) cannot be supplied with sewerage services at a reasonable cost.
+
+(11) In this section “water poverty measure” means—
+
+(a) a scheme, arrangement or set of arrangements, or
+
+(b) a function or set of functions,
+
+which has as its purpose (or one of its purposes) the provision of assistance of a kind mentioned in subsection (2) to people living in water poverty.
+
+#### 39 Disclosure of information by water and sewerage undertakers etc
+
+(1) If the condition in subsection (2) is met, a person to whom information may be disclosed under section 38 may disclose information held by that person to a specified person.
+
+(2) That condition is that the disclosure is for the purpose of assisting [[^F16]eligible people (see section 38(9A))] in England and Wales by—
+
+(a) reducing their water or sewerage costs,
+
+(b) improving efficiency in their use of water, or
+
+(c) improving their health or financial well-being.
+
+#### 40 Further provisions about disclosures under any of sections 35 to 39
+
+(1) Personal information disclosed under any of sections 35 to 39 may only be used by the person to whom it is disclosed for the purposes for which it was disclosed, subject to subsection (2).
+
+(2) Subsection (1) does not prevent the use of information by a person—
+
+(a) if the information has already lawfully been made available to the public,
+
+(b) if the person to whom the information relates consents to its use for another purpose,
+
+(c) for the prevention or detection of crime or the prevention of anti-social behaviour,
+
+(d) for the purposes of a criminal investigation,
+
+(e) for the purposes of legal proceedings (whether civil or criminal), or
+
+(f) for the purposes of—
+
+(i) preventing serious physical harm to a person,
+
+(ii) preventing loss of human life,
+
+(iii) safeguarding vulnerable adults or children,
+
+(iv) responding to an emergency, or
+
+(v) protecting national security.
+
+(3) In subsection (2)(c) “anti-social behaviour” means conduct that—
+
+(a) is likely to cause harassment, alarm or distress to any person, or
+
+(b) is capable of causing nuisance or annoyance to a person in relation to that person's occupation of residential premises.
+
+(4) Subsection (2) does not apply to information disclosed to a person under section 35, 36 or 38 by the Revenue and Customs; but such information may be used by that person for purposes other than those for which it was disclosed with the consent of the Commissioners for Her Majesty's Revenue and Customs (which may be general or specific).
+
+(5) For the purposes of this Chapter information is “personal information” if—
+
+(a) it relates to and identifies a particular person (including a body corporate), but
+
+(b) it is not information about the internal administrative arrangements of a specified person or a person to whom information may be disclosed under section 36 or 38.
+
+(6) For the purposes of subsection (5) information identifies a particular person if the identity of that person—
+
+(a) is specified in the information,
+
+(b) can be deduced from the information, or
+
+(c) can be deduced from the information taken together with any other information.
+
+(7) A disclosure under any of sections 35 to 39 does not breach—
+
+(a) any obligation of confidence owed by the person making the disclosure, or
+
+(b) any other restriction on the disclosure of information (however imposed).
+
+(8) But nothing in sections 35 to 39 authorises the making of a disclosure which—
+
+(a) contravenes [[^F17]the data protection legislation], or
+
+(b) is prohibited by any of Parts 1 to 7 or Chapter 1 of Part 9 of the Investigatory Powers Act 2016.
+
+(9) Until the repeal of Part 1 of the Regulation of Investigatory Powers Act 2000 by paragraphs 45 and 54 of Schedule 10 to the Investigatory Powers Act 2016 is fully in force, subsection (8)(b) has effect as if it included a reference to that Part.
+
+(10) Sections 35 to 39 do not limit the circumstances in which information may be disclosed apart from those sections.
+
+[[^F18](11) In this section, “the data protection legislation” has the same meaning as in the Data Protection Act 2018 (see section 3 of that Act).]
+
+#### 41 Confidentiality of personal information
+
+(1) Personal information disclosed under any of sections 35 to 39 and received by a person (“P”) may not be disclosed—
+
+(a) by P, or
+
+(b) by any other person who has received it directly or indirectly from P.
+
+(2) Subsection (1) does not apply to a disclosure—
+
+(a) which is required or permitted by any enactment (including any of sections 35 to 39),
+
+(b) which is required by an EU obligation,
+
+(c) which is made in pursuance of an order of the court,
+
+(d) of information which has already lawfully been made available to the public,
+
+(e) which is made for the prevention or detection of crime or the prevention of anti-social behaviour,
+
+(f) which is made for the purposes of a criminal investigation,
+
+(g) which is made for the purposes of legal proceedings (whether civil or criminal),
+
+(h) which is a protected disclosure for any of the purposes of the Employment Rights Act 1996 or the Employment Rights (Northern Ireland) Order 1996 (SI 1996/1919 (NI 16)),
+
+(i) consisting of the publication of information for the purposes of journalism, where the publication of the information is in the public interest,
+
+(j) which is made with the consent of the person to whom it relates, or
+
+(k) which is made for the purposes of—
+
+(i) preventing serious physical harm to a person,
+
+(ii) preventing loss of human life,
+
+(iii) safeguarding vulnerable adults or children,
+
+(iv) responding to an emergency, or
+
+(v) protecting national security.
+
+(3) In subsection (2)(e) “anti-social behaviour” means conduct that—
+
+(a) is likely to cause harassment, alarm or distress to any person, or
+
+(b) is capable of causing nuisance or annoyance to a person in relation to that person's occupation of residential premises.
+
+(4) A person commits an offence if—
+
+(a) the person discloses personal information in contravention of subsection (1), and
+
+(b) at the time that the person makes the disclosure, the person knows that the disclosure contravenes that subsection or is reckless as to whether the disclosure does so.
+
+(5) A person who is guilty of an offence under subsection (4) is liable on conviction on indictment to imprisonment for a term not exceeding two years, to a fine or to both.
+
+(6) A person who is guilty of an offence under subsection (4) is liable on summary conviction—
+
+(a) in England and Wales, to imprisonment for a term not exceeding [[^F19]the general limit in a magistrates’ court], to a fine or to both;
+
+(b) in Scotland, to imprisonment for a term not exceeding 12 months, to a fine not exceeding the statutory maximum or to both;
+
+(c) in Northern Ireland, to imprisonment for a term not exceeding 6 months, to a fine not exceeding the statutory maximum or to both.
+
+(7) In the application of subsection (6)(a) to an offence committed before [[^F20]2 May 2022] the reference to [[^F21]the general limit in a magistrates’ court] is to be read as a reference to 6 months.
+
+(8) This section does not apply to personal information disclosed under section 35, 36 or 38 by the Revenue and Customs.
+
+#### 42 Information disclosed by the Revenue and Customs
+
+(1) Personal information disclosed by the Revenue and Customs under section 35, 36 or 38 and received by a person may not be disclosed by that person.
+
+(2) Subsection (1) does not apply to a disclosure which is made with the consent of the Commissioners for Her Majesty's Revenue and Customs (which may be general or specific).
+
+(3) A person who contravenes subsection (1) is guilty of an offence.
+
+(4) It is a defence for a person charged with an offence under subsection (3) to prove that the person reasonably believed—
+
+(a) that the disclosure was lawful, or
+
+(b) that the information had already and lawfully been made available to the public.
+
+(5) Subsections (4) to (7) of section 19 of the Commissioners for Revenue and Customs Act 2005 apply to an offence under subsection (3) as they apply to an offence under that section.
+
+#### 43 Code of practice
+
+(1) The [[^F22]relevant Minister] must issue a code of practice about—
+
+(a) the disclosure of information under any of sections 35 to 39, and
+
+(b) the use of information disclosed under any of those sections.
+
+(2) The code of practice must be consistent with the code of practice [[^F23]prepared under section 121 of the Data Protection Act 2018 (data-sharing code) and issued under section 125(4) of that Act] (as altered or replaced from time to time).
+
+(3) A person to whom the code applies must have regard to the code of practice—
+
+(a) in disclosing information under any of sections 35 to 39, and
+
+(b) in using information disclosed under any of those sections.
+
+(4) The [[^F22]relevant Minister] may from time to time revise and re-issue the code of practice.
+
+(5) Before issuing or reissuing the code of practice the [[^F22]relevant Minister] must consult—
+
+(a) [[^F24]the Information Commission],
+
+(b) the Commissioners for Her Majesty's Revenue and Customs,
+
+(c) the Scottish Ministers,
+
+(d) the Welsh Ministers,
+
+(e) the Department of Finance in Northern Ireland, and
+
+(f) such other persons as the [[^F22]relevant Minister] thinks appropriate.
+
+(6) The fact that this section was not in force when consultation of the kind mentioned in subsection (5) took place is to be disregarded in determining whether there has been compliance with that subsection.
+
+(7) The [[^F22]relevant Minister] may not issue the code of practice unless a draft of the code has been laid before, and approved by a resolution of, each House of Parliament.
+
+(8) Before reissuing the code the [[^F22]relevant Minister] must lay a draft of the code as proposed to be reissued before Parliament.
+
+(9) The [[^F22]relevant Minister] may not reissue the code if, within the 40-day period, either House of Parliament resolves not to approve it.
+
+(10) In subsection (9) “the 40 day period” means—
+
+(a) the period of 40 days beginning with the day on which the draft is laid before Parliament, or
+
+(b) if the draft is not laid before each House on the same day, the period of 40 days beginning with the later of the days on which it is laid before Parliament.
+
+(11) For the purposes of subsection (10) no account is to be taken of any period during which Parliament is dissolved or prorogued or during which both Houses are adjourned for more than four days.
+
+(12) As soon as is reasonably practicable after issuing or reissuing the code of practice the [[^F22]relevant Minister] must lay, or arrange for the laying of, a copy of it before—
+
+(a) the Scottish Parliament,
+
+(b) the National Assembly for Wales, and
+
+(c) the Northern Ireland Assembly.
+
+(13) In disclosing information under any of sections 35 to 39, a person must have regard to the following codes of practice issued by [[^F25]the Information Commission] under [[^F26]124A] of the Data Protection Act 2018, so far as they apply to the information in question—
+
+(a) any code which makes provision about the identification and reduction of the risks to privacy of a proposal to disclose information;
+
+(b) any code which makes provision about the information to be provided to data subjects (within the meaning of that Act) about the use to be made of information collected from them.
+
+(14) The duty in subsection (13) does not affect any other requirement for the person to have regard to a code of practice in disclosing the information.
+
+#### 44 Regulations under this Chapter
+
+(1) Any power to make regulations under this Chapter is exercisable—
+
+(a) in the case of regulations made by the [[^F27]relevant Minister] or the Welsh Ministers, by statutory instrument, and
+
+(b) in the case of regulations made by the Department of Finance in Northern Ireland, by statutory rule for the purposes of the Statutory Rules (Northern Ireland) Order 1979 (SI 1979/1573 (NI 12)).
+
+(2) Regulations under this Chapter—
+
+(a) may make different provision for different purposes;
+
+(b) may contain consequential, supplementary, transitional or transitory provision or savings.
+
+(3) In the case of—
+
+(a) regulations under section 35(3) which amend Schedule 4 so as to add an entry relating to a person or description of person,
+
+(b) regulations under section 36(5)(a) which amend Schedule 5 so as to add an entry relating to a person or description of person, or
+
+(c) regulations under section 38(5)(a) which amend Schedule 6 so as to add an entry relating to a person or description of person,
+
+this includes power to make provision in relation to information disclosed by that person or a person of that description which is similar to that made by section 42 in relation to information disclosed by the Revenue and Customs.
+
+(4) Before making regulations under this Chapter the appropriate national authority must consult—
+
+(a) [[^F28]the Information Commission],
+
+(b) the Commissioners for Her Majesty's Revenue and Customs,
+
+(c) each other person who is the appropriate national authority in relation to regulations under this Chapter,
+
+(d) where the appropriate national authority is not the [[^F29]relevant Minister, [[^F30]the relevant Minister]], and
+
+(e) such other persons as the appropriate national authority thinks appropriate.
+
+(5) The fact that a power to make regulations under this Chapter was not in force when consultation of the kind mentioned in subsection (4) took place is to be disregarded in determining whether there has been compliance with that subsection.
+
+(6) The appropriate national authority may only make regulations under section 35(7), 36(5)(c) or 38(5)(c) with the consent of the Treasury in a case where the regulations could affect the disclosure of information by the Revenue and Customs.
+
+(7) A statutory instrument containing regulations made under this Chapter by the [[^F31]relevant Minister] may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, each House of Parliament.
+
+(8) Regulations made under this Chapter by the Scottish Ministers are subject to the affirmative procedure.
+
+(9) A statutory instrument containing regulations made under this Chapter by the Welsh Ministers may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, the National Assembly for Wales.
+
+(10) Regulations under this Chapter may not be made by the Department of Finance in Northern Ireland unless a draft of the regulations has been laid before, and approved by a resolution of, the Northern Ireland Assembly.
+
+(11) If a draft of a statutory instrument containing regulations under section 35(3), 36(5)(a) or (b) or 38(5)(a) or (b) would, apart from this subsection, be treated for the purposes of the standing orders of either House of Parliament as a hybrid instrument, it is to proceed in that House as if it were not such an instrument.
+
+#### 45 Interpretation of this Chapter etc
+
+(1) In this Chapter—
+
+- “the appropriate national authority” means the [[^F32]relevant Minister], subject to subsections (2) to (7);
+
+- “enactment” includes—
+
+  - (a) an enactment contained in, or in an instrument made under, an Act of the Scottish Parliament;
+  - (b) an enactment contained in, or in an instrument made under, a Measure or Act of the National Assembly for Wales;
+  - (c) an enactment contained in, or in an instrument made under, Northern Ireland legislation;
+  - (d) an enactment contained in subordinate legislation within the meaning of the Interpretation Act 1978;
+
+- “function” means function of a public nature;
+
+- “personal information” has the meaning given by section 40(5);
+
+- “public authority” means a person who exercises functions of a public nature, subject to subsection (8);
+
+- [[^F33]“relevant Minister” means the Secretary of State or the Minister for the Cabinet Office;]
+
+- [^F34]...
+
+- “the Revenue and Customs” has the meaning given by section 17(3) of the Commissioners for Revenue and Customs Act 2005.
+
+(2) The Scottish Ministers are the appropriate national authority in relation to—
+
+(a) regulations under section 35(3) or 36(5)(a) which add, modify or remove an entry relating to a person who is, or a description of persons each of whom is, a Scottish body,
+
+(b) regulations under section 36(5)(b) which add or remove a person who is, or a description of persons each of whom is, a Scottish body, and
+
+(c) regulations under section 35(7) or 36(5)(c) which have the effect only of enabling a Scottish body to disclose information for the purposes of an objective which does not relate to a reserved matter (within the meaning of the Scotland Act 1998).
+
+(3) In subsection (2) “Scottish body” means—
+
+(a) a person who is a part of the Scottish Administration,
+
+(b) a Scottish public authority with mixed functions or no reserved functions (within the meaning of the Scotland Act 1998), or
+
+(c) a person providing services to a person within paragraph (a) or (b).
+
+(4) The Welsh Ministers are the appropriate national authority in relation to—
+
+(a) regulations under section 35(3), 36(5)(a) or 38(5)(a) which add, modify or remove an entry relating to a person who is, or a description of persons each of whom is, a Welsh body,
+
+(b) regulations under section 36(5)(b) or 38(5)(b) which add or remove a person who is, or a description of persons each of whom is, a Welsh body, and
+
+(c) regulations under section 35(7), 36(5)(c) or 38(5)(c) which have the effect only of enabling a Welsh body to disclose information for the purposes of an objective which could be specified by provision falling within the legislative competence of the National Assembly for Wales.
+
+(5) In subsection (4) “Welsh body” means—
+
+(a) a devolved Welsh authority as defined by section 157A of the Government of Wales Act 2006, or
+
+(b) a person providing services to a devolved Welsh authority as defined by that section.
+
+(6) The Department of Finance in Northern Ireland is the appropriate national authority in relation to—
+
+(a) regulations under section 35(3) which add, modify or remove an entry relating to a person who is, or a description of persons each of whom is, a Northern Ireland body, and
+
+(b) regulations under section 35(7) which have the effect only of enabling a Northern Ireland body to disclose information for the purposes of an objective which relates to a transferred matter (within the meaning of the Northern Ireland Act 1998).
+
+(7) In subsection (6) “Northern Ireland body” means—
+
+(a) a Minister within the meaning of the Northern Ireland Act 1998,
+
+(b) a Northern Ireland department,
+
+(c) a Northern Ireland public authority within the meaning of the Statistics and Registration Service Act 2007, or
+
+(d) a person providing services to a person within paragraph (a), (b) or (c).
+
+(8) A person is not a public authority for the purposes of this Chapter if, apart from this subsection, the person would be a public authority for those purposes merely because the person exercises functions on behalf of another public authority.
+
+(9) References in this Chapter to people living in fuel poverty are to be construed in accordance with section 36(10).
+
+(10) References in this Chapter to people living in water poverty are to be construed in accordance with section 38(10).
+
+(11) The power of the Secretary of State in section 69(2) of the Wales Act 2017 to amend an enactment contained in primary legislation in consequence of any provision of that Act includes power to amend this Chapter, and section 118 so far as relating to this Chapter, in consequence of section 48 (water and sewerage) of that Act.
+
+### CHAPTER 2 — Civil registration
+
+#### 46 Disclosure of information by civil registration officials
+
+(1) The Registration Service Act 1953 is amended as follows.
+
+(2) After section 19A insert—
+
+> **19AA Disclosure of information**
+>
+> (1) A civil registration official may, subject to this section, disclose any information held in connection with any of the official's functions to—
+>
+> (a) a specified public authority (see section 19AB), or
+>
+> (b) any other civil registration official.
+>
+> (2) A civil registration official may disclose information under this section only if the official is satisfied that the authority or civil registration official to whom it is disclosed (the “recipient”) requires the information to enable the recipient to exercise one or more of the recipient's functions.
+>
+> (3) A disclosure under this section does not breach any obligation of confidence owed by the civil registration official making the disclosure.
+>
+> (4) The power to disclose information under this section is subject to any express restriction on disclosure imposed by another enactment (ignoring any restriction which allows disclosure if authorised by an enactment).
+>
+> (5) This section does not limit the circumstances in which information may be disclosed apart from this section.
+>
+> (6) “Civil registration official” means—
+>
+> (a) the Registrar General;
+>
+> (b) a superintendent registrar of births, deaths and marriages;
+>
+> (c) a registrar of births and deaths;
+>
+> (d) a registrar of marriages;
+>
+> (e) each of the following in its capacity as a registration authority within the meaning of Chapter 1 of Part 2 of the Civil Partnership Act 2004 (see section 28 of that Act)—
+>
+> (i) a county council in England;
+>
+> (ii) the council of any district in England comprised in an area for which there is no county council;
+>
+> (iii) a London borough council;
+>
+> (iv) the Common Council of the City of London;
+>
+> (v) the Council of the Isles of Scilly;
+>
+> (vi) a county council in Wales;
+>
+> (vii) a county borough council in Wales.
+>
+> **19AB Specified public authorities**
+>
+> (1) Each of the following public authorities is a “specified public authority” for the purposes of section 19AA—
+>
+> (a) a Minister of the Crown;
+>
+> (b) the Welsh Government;
+>
+> (c) a department of the government of the United Kingdom;
+>
+> (d) the Greater London Authority;
+>
+> (e) a county council in England;
+>
+> (f) a district council in England;
+>
+> (g) a London borough council;
+>
+> (h) the Common Council of the City of London in its capacity as a local authority;
+>
+> (i) the Council of the Isles of Scilly;
+>
+> (j) a county council in Wales;
+>
+> (k) a county borough council in Wales;
+>
+> (l) an NHS body within the meaning of the National Health Service Act 2006 (see section 275 of that Act).
+>
+> (2) The Minister may by regulations amend subsection (1) so as to add, modify or remove a reference to a public authority or description of public authority.
+>
+> (3) Regulations under this section must be made by statutory instrument.
+>
+> (4) Regulations under this section may—
+>
+> (a) make different provision for different purposes;
+>
+> (b) contain consequential, incidental, supplemental, transitional or transitory provision or savings.
+>
+> (5) The provision that may be made by virtue of subsection (4)(b) includes provision amending, repealing or revoking any provision of any enactment.
+>
+> (6) A statutory instrument containing regulations under this section may not be made unless a draft of the instrument has been laid before and approved by a resolution of each House of Parliament.
+>
+> (7) In this section—
+>
+> - “enactment” includes an enactment contained in subordinate legislation within the meaning of the Interpretation Act 1978;
+> - “public authority” means a person who exercises functions of a public nature.
+>
+> **19AC Code of practice**
+>
+> (1) The Registrar General must issue a code of practice about the disclosure of information under section 19AA.
+>
+> (2) The code of practice must be consistent with the code of practice issued under section 52B (data-sharing code) of the Data Protection Act 1998 (as altered or replaced from time to time).
+>
+> (3) A civil registration official must have regard to the code of practice in disclosing information under section 19AA.
+>
+> (4) The Registrar General may from time to time revise and re-issue the code of practice.
+>
+> (5) Before issuing or revising the code of practice the Registrar General must consult—
+>
+> (a) the Minister,
+>
+> (b) the Information Commissioner, and
+>
+> (c) such other persons as the Registrar General thinks fit.
+>
+> (6) The Registrar General may not issue the code of practice unless a draft of the code has been laid before, and approved by a resolution of, each House of Parliament.
+>
+> (7) Before reissuing the code the Registrar General must lay a draft of the code as proposed to be reissued before Parliament.
+>
+> (8) The Registrar General may not reissue the code if, within the 40-day period, either House of Parliament resolves not to approve it.
+>
+> (9) In subsection (8) “the 40 day period” means—
+>
+> (a) the period of 40 days beginning with the day on which the draft is laid before Parliament, or
+>
+> (b) if the draft is not laid before each House on the same day, the period of 40 days beginning with the later of the days on which it is laid before Parliament.
+>
+> (10) For the purposes of subsection (9) no account is to be taken of any period during which Parliament is dissolved or prorogued or during which both Houses are adjourned for more than four days.
+>
+> (11) In disclosing information under section 19AA, a civil registration official must have regard to the following codes of practice issued by the Information Commissioner under section 51(3) of the Data Protection Act 1998, so far as they apply to the information in question—
+>
+> (a) any code which makes provision about the identification and reduction of the risks to privacy of a proposal to disclose information;
+>
+> (b) any code which makes provision about the information to be provided to data subjects (within the meaning of that Act) about the use to be made of information collected from them.
+>
+> (12) The duty in subsection (11) does not affect any other requirement for the civil registration official to have regard to a code of practice in disclosing the information.
+
+(3) In section 19B (fees in respect of provision of copies of records etc)—
+
+(a) after subsection (1) insert—
+
+> (1A) The Minister may by regulations provide for fees to be payable to a civil registration official in respect of the disclosure by the official of information under section 19AA.
+
+,
+
+(b) in subsections (2) and (3), for “The regulations” substitute “ Regulations under this section ”, and
+
+(c) in the heading, omit “in respect of provision of copies of records etc”.
+
+(4) In section 21(1) (interpretation), after “respectively—” insert—
+
+> “civil registration official” has the meaning given by section 19AA;
+
+.
+
+#### 47 Consequential provision
+
+(1) The Secretary of State may by regulations make the provision in subsection (2) in consequence of any provision made by section 46.
+
+(2) The provision mentioned in subsection (1) is provision amending, repealing or revoking any provision of any enactment passed or made before or in the same Session as this Act.
+
+(3) Regulations under this section must be made by statutory instrument.
+
+(4) Regulations under this section may—
+
+(a) make different provision for different purposes;
+
+(b) contain transitional or transitory provision or savings.
+
+(5) A statutory instrument containing regulations under this section which amend or repeal an Act may not be made unless a draft of the instrument has been laid before and approved by a resolution of each House of Parliament.
+
+(6) A statutory instrument containing any other regulations under this section is subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(7) In this section “enactment” includes an enactment contained in subordinate legislation within the meaning of the Interpretation Act 1978.
+
+### CHAPTER 3 — Debt owed to the public sector
+
+#### 48 Disclosure of information to reduce debt owed to the public sector
+
+(1) A specified person may disclose information held by the person in connection with any of the person's functions to another specified person for the purposes of the taking of action in connection with debt owed to a public authority or to the Crown.
+
+(2) For the purposes of this section and Schedule 7 debt is owed to a public authority or to the Crown if—
+
+(a) a person is required to pay a sum of money to a public authority or to the Crown, and
+
+(b) all or part of that sum remains unpaid after the date on which, or after the end of the period within which, it is required to be paid.
+
+(3) For the purposes of this section and Schedule 7 taking action in connection with debt owed to a public authority or to the Crown includes—
+
+(a) identifying debt of that kind;
+
+(b) collecting debt of that kind;
+
+(c) bringing civil proceedings as a result of debt of that kind;
+
+(d) taking administrative action as a result of debt of that kind.
+
+(4) In this Chapter “specified person” means a person specified, or of a description specified, in Schedule 7.
+
+[[^F35](4A) Where in Schedule 7 functions are mentioned in relation to a specified person, the reference in subsection (1) to the person’s functions is limited to the person’s functions as mentioned in Schedule 7.]
+
+(5) The appropriate national authority may by regulations amend Schedule 7 so as to add, remove or modify an entry relating to a person or description of person.
+
+(6) Regulations under subsection (5) may add an entry relating to a person or a description of person to Schedule 7 only if the following conditions are satisfied.
+
+(7) The first condition is that—
+
+(a) the person is a public authority or (as the case may be) each person of that description is a public authority, or
+
+(b) the person provides services to a public authority or (as the case may be) each person of that description provides services to a public authority.
+
+(8) The second condition is that the person or (as the case may be) a person of that description (“P” in either case)—
+
+(a) requires information from a public authority or a person providing services to a public authority to improve P's ability to identify, manage or recover debt owed to a public authority or to the Crown,
+
+(b) has information which, if shared with a public authority or a person providing services to a public authority, has the potential to improve that authority's or that person's ability to identify, manage or recover such debt, or
+
+(c) has functions relating to the management or recovery of such debt the exercise of which may be improved by the disclosure of information by or to P.
+
+(9) In the case of a person (“P”) who is a specified person merely because of providing services to a public authority, the reference in subsection (1) to the functions of a specified person is limited to the functions P exercises for that purpose.
+
+(10) In determining whether to make regulations under subsection (5) in relation to a person or description of person the appropriate national authority must have regard, in particular, to—
+
+(a) the systems and procedures for the secure handling of information by that person or persons of that description, and
+
+(b) in the case of regulations which remove a person from Schedule 7, whether that person, or any person providing services to that person, has had regard to the code of practice under section 52 as required by that section.
+
+(11) Before making regulations under subsection (5) the appropriate national authority must consult—
+
+(a) [[^F36]the Information Commission],
+
+(b) the Commissioners for Her Majesty's Revenue and Customs,
+
+(c) each other person who is the appropriate national authority in relation to regulations under subsection (5),
+
+(d) where the appropriate national authority is not the relevant Minister, [[^F37]the relevant Minister], and
+
+(e) such other persons as the appropriate national authority thinks appropriate.
+
+(12) The fact that this section was not in force when consultation of the kind mentioned in subsection (11) took place is to be disregarded in determining whether there has been compliance with that subsection.
+
+#### 49 Further provisions about power in section 48
+
+(1) Personal information disclosed under section 48 may only be used by the person to whom it is disclosed for the purposes for which it was disclosed, subject to subsection (2).
+
+(2) Subsection (1) does not prevent the use of information by a person—
+
+(a) if the information has already lawfully been made available to the public,
+
+(b) if the person to whom the information relates consents to its use for another purpose,
+
+(c) for the prevention or detection of crime or the prevention of anti-social behaviour,
+
+(d) for the purposes of a criminal investigation,
+
+(e) for the purposes of legal proceedings (whether civil or criminal),
+
+(f) for the purposes of safeguarding vulnerable adults or children, or
+
+(g) for the purposes of protecting national security.
+
+(3) In subsection (2)(c) “anti-social behaviour” means conduct that—
+
+(a) is likely to cause harassment, alarm or distress to any person, or
+
+(b) is capable of causing nuisance or annoyance to a person in relation to that person's occupation of residential premises.
+
+(4) Subsection (2) does not apply to information disclosed to a person under section 48 by the Revenue and Customs; but such information may be used by that person for purposes other than those for which it was disclosed with the consent of the Commissioners for Her Majesty's Revenue and Customs (which may be general or specific).
+
+(5) For the purposes of this Chapter information is “personal information” if—
+
+(a) it relates to and identifies a particular person (including a body corporate), but
+
+(b) it is not information about the internal administrative arrangements of a specified person.
+
+(6) For the purposes of subsection (5) information identifies a particular person if the identity of that person—
+
+(a) is specified in the information,
+
+(b) can be deduced from the information, or
+
+(c) can be deduced from the information taken together with any other information.
+
+(7) A disclosure under section 48 does not breach—
+
+(a) any obligation of confidence owed by the person making the disclosure, or
+
+(b) any other restriction on the disclosure of information (however imposed).
+
+(8) But nothing in section 48 authorises the making of a disclosure which—
+
+(a) contravenes [[^F38]the data protection legislation], or
+
+(b) is prohibited by any of Parts 1 to 7 or Chapter 1 of Part 9 of the Investigatory Powers Act 2016.
+
+(9) Until the repeal of Part 1 of the Regulation of Investigatory Powers Act 2000 by paragraphs 45 and 54 of Schedule 10 to the Investigatory Powers Act 2016 is fully in force, subsection (8)(b) has effect as if it included a reference to that Part.
+
+(10) Section 48 does not limit the circumstances in which information may be disclosed apart from that section.
+
+[[^F39](11) In this section, “the data protection legislation” has the same meaning as in the Data Protection Act 2018 (see section 3 of that Act).]
+
+#### 50 Confidentiality of personal information
+
+(1) Personal information received by a person (“P”) under section 48 may not be disclosed—
+
+(a) by P, or
+
+(b) by any other person who has received it directly or indirectly from P.
+
+(2) Subsection (1) does not apply to a disclosure—
+
+(a) which is required or permitted by any enactment (including section 48),
+
+(b) which is required by an EU obligation,
+
+(c) which is made in pursuance of an order of the court,
+
+(d) of information which has already lawfully been made available to the public,
+
+(e) which is made for the prevention or detection of crime or the prevention of anti-social behaviour,
+
+(f) which is made for the purposes of a criminal investigation,
+
+(g) which is made for the purposes of legal proceedings (whether civil or criminal),
+
+(h) which is a protected disclosure for any of the purposes of the Employment Rights Act 1996 or the Employment Rights (Northern Ireland) Order 1996 (SI 1996/1919 (NI 16)),
+
+(i) consisting of the publication of information for the purposes of journalism, where the publication of the information is in the public interest,
+
+(j) which is made with the consent of the person to whom it relates,
+
+(k) which is made for the purposes of safeguarding vulnerable adults or children, or
+
+(l) which is made for the purposes of protecting national security.
+
+(3) In subsection (2)(e) “anti-social behaviour” means conduct that—
+
+(a) is likely to cause harassment, alarm or distress to any person, or
+
+(b) is capable of causing nuisance or annoyance to a person in relation to that person's occupation of residential premises.
+
+(4) A person commits an offence if—
+
+(a) the person discloses personal information in contravention of subsection (1), and
+
+(b) at the time that the person makes the disclosure, the person knows that the disclosure contravenes that subsection or is reckless as to whether the disclosure does so.
+
+(5) A person who is guilty of an offence under subsection (4) is liable on conviction on indictment to imprisonment for a term not exceeding two years, to a fine or to both.
+
+(6) A person who is guilty of an offence under subsection (4) is liable on summary conviction—
+
+(a) in England and Wales, to imprisonment for a term not exceeding [[^F40]the general limit in a magistrates’ court], to a fine or to both;
+
+(b) in Scotland, to imprisonment for a term not exceeding 12 months, to a fine not exceeding the statutory maximum or to both;
+
+(c) in Northern Ireland, to imprisonment for a term not exceeding 6 months, to a fine not exceeding the statutory maximum or to both.
+
+(7) In the application of subsection (6)(a) to an offence committed before [[^F41]2 May 2022] the reference to [[^F42]the general limit in a magistrates’ court] is to be read as a reference to 6 months.
+
+(8) This section does not apply to personal information disclosed under section 48 by the Revenue and Customs.
+
+#### 51 Information disclosed by the Revenue and Customs
+
+(1) Personal information disclosed by the Revenue and Customs under section 48 and received by a person may not be disclosed by that person.
+
+(2) Subsection (1) does not apply to a disclosure which is made with the consent of the Commissioners for Her Majesty's Revenue and Customs (which may be general or specific).
+
+(3) A person who contravenes subsection (1) is guilty of an offence.
+
+(4) It is a defence for a person charged with an offence under subsection (3) to prove that the person reasonably believed—
+
+(a) that the disclosure was lawful, or
+
+(b) that the information had already and lawfully been made available to the public.
+
+(5) Subsections (4) to (7) of section 19 of the Commissioners for Revenue and Customs Act 2005 apply to an offence under subsection (3) as they apply to an offence under that section.
+
+#### 52 Code of practice
+
+(1) The relevant Minister must issue a code of practice about—
+
+(a) the disclosure of information under section 48, and
+
+(b) the use of information disclosed under that section.
+
+(2) The code of practice must be consistent with the code of practice [[^F43]prepared under section 121 of the Data Protection Act 2018 (data-sharing code) and issued under section 125(4) of that Act] (as altered or replaced from time to time).
+
+(3) A specified person must have regard to the code of practice in—
+
+(a) disclosing information under section 48, and
+
+(b) using information disclosed under that section.
+
+(4) The relevant Minister may from time to time revise and re-issue the code of practice.
+
+(5) Before issuing or reissuing the code of practice the relevant Minister must consult—
+
+(a) [[^F44]the Information Commission],
+
+(b) the Commissioners for Her Majesty's Revenue and Customs,
+
+(c) the Scottish Ministers,
+
+(d) the Welsh Ministers,
+
+(e) the Department of Finance in Northern Ireland, and
+
+(f) such other persons as the relevant Minister thinks appropriate.
+
+(6) The fact that this section was not in force when consultation of the kind mentioned in subsection (5) took place is to be disregarded in determining whether there has been compliance with that subsection.
+
+(7) The relevant Minister may not issue the code of practice unless a draft of the code has been laid before, and approved by a resolution of, each House of Parliament.
+
+(8) Before reissuing the code the relevant Minister must lay a draft of the code as proposed to be reissued before Parliament.
+
+(9) The relevant Minister may not reissue the code if, within the 40-day period, either House of Parliament resolves not to approve it.
+
+(10) In subsection (9) “the 40 day period” means—
+
+(a) the period of 40 days beginning with the day on which the draft is laid before Parliament, or
+
+(b) if the draft is not laid before each House on the same day, the period of 40 days beginning with the later of the days on which it is laid before Parliament.
+
+(11) For the purposes of subsection (10) no account is to be taken of any period during which Parliament is dissolved or prorogued or during which both Houses are adjourned for more than four days.
+
+(12) As soon as is reasonably practicable after issuing or reissuing the code of practice the relevant Minister must lay, or arrange for the laying of, a copy of it before—
+
+(a) the Scottish Parliament,
+
+(b) the National Assembly for Wales, and
+
+(c) the Northern Ireland Assembly.
+
+(13) In disclosing information under section 48, a person must have regard to the following codes of practice issued by [[^F45]the Information Commission] under [[^F46]section [[^F47]124A] of the Data Protection Act 2018 (other codes of practice)], so far as they apply to the information in question—
+
+(a) any code which makes provision about the identification and reduction of the risks to privacy of a proposal to disclose information;
+
+(b) any code which makes provision about the information to be provided to data subjects (within the meaning of that Act) about the use to be made of information collected from them.
+
+(14) The duty in subsection (13) does not affect any other requirement for the person to have regard to a code of practice in disclosing the information.
+
+#### 53 Duty to review operation of Chapter
+
+(1) As soon as is reasonably practicable after the end of three years beginning with the day on which this Chapter comes into force, the relevant Minister must review its operation for the purposes of deciding whether it should be amended or repealed.
+
+(2) Before carrying out the review the relevant Minister must publish the criteria by reference to which that determination will be made.
+
+(3) In carrying out the review the relevant Minister must consult—
+
+(a) [[^F48]the Information Commission],
+
+(b) the Scottish Ministers,
+
+(c) the Welsh Ministers,
+
+(d) the Department of Finance in Northern Ireland, and
+
+(e) such other persons as the relevant Minister thinks appropriate.
+
+(4) Once the review is completed the relevant Minister must—
+
+(a) publish a report on its outcome, and
+
+(b) lay, or arrange for the laying of, a copy of the report before—
+
+(i) Parliament,
+
+(ii) the Scottish Parliament,
+
+(iii) the National Assembly for Wales, and
+
+(iv) the Northern Ireland Assembly.
+
+(5) If as a result of the review the relevant Minister decides that this Chapter should be amended or repealed, the relevant Minister may by regulations amend or repeal it (as the case may be).
+
+(6) The power in subsection (5) to amend this Chapter—
+
+(a) may be exercised for the purposes only of improving the effectiveness of the operation of the power in section 48(1), and
+
+(b) may not be used to remove any of the safeguards relating to the use or disclosure of information in section 49, 50 or 51.
+
+(7) The relevant Minister may only make regulations under subsection (5) with the consent of the Scottish Ministers if the regulations—
+
+(a) repeal this Chapter,
+
+(b) amend or remove the power of the Scottish Ministers to make regulations under section 48(5),
+
+(c) affect the disclosure of information under section 48 by a Scottish body to another such body,
+
+(d) affect the use by a Scottish body of information disclosed under that section by such a body, or
+
+(e) affect the further disclosure to a Scottish body by such a body, or by a member, officer or employee of such a body, of information disclosed under this Chapter by a Scottish body.
+
+(8) The relevant Minister may only make regulations under subsection (5) with the consent of the Welsh Ministers if the regulations—
+
+(a) repeal this Chapter,
+
+(b) amend or remove the power of the Welsh Ministers to make regulations under section 48(5),
+
+(c) affect the disclosure of information under section 48 by a Welsh body to another such body,
+
+(d) affect the use by a Welsh body of information disclosed under that section by such a body, or
+
+(e) affect the further disclosure to a Welsh body by such a body, or by a member, officer or employee of such a body, of information disclosed under this Chapter by a Welsh body.
+
+(9) The relevant Minister may only make regulations under subsection (5) with the consent of the Department of Finance in Northern Ireland if the regulations—
+
+(a) repeal this Chapter,
+
+(b) amend or remove the power of the Department to make regulations under section 48(5),
+
+(c) affect the disclosure of information under section 48 by a Northern Ireland body to another such body,
+
+(d) affect the use by a Northern Ireland body of information disclosed under that section by such a body, or
+
+(e) affect the further disclosure to a Northern Ireland body by such a body, or by a member, officer or employee of such a body, of information disclosed under this Chapter by a Northern Ireland body.
+
+(10) The relevant Minister may only make regulations under subsection (5) with the consent of the Treasury in a case where the regulations could affect the disclosure of information by the Revenue and Customs.
+
+(11) Anything required to be published by this section is to be published in such manner as the relevant Minister thinks fit.
+
+#### 54 Regulations under this Chapter
+
+(1) Any power to make regulations under this Chapter is exercisable—
+
+(a) in the case of regulations made by the relevant Minister or the Welsh Ministers, by statutory instrument, and
+
+(b) in the case of regulations made by the Department of Finance in Northern Ireland, by statutory rule for the purposes of the Statutory Rules (Northern Ireland) Order 1979 (SI 1979/1573 (NI 12)).
+
+(2) Regulations under this Chapter—
+
+(a) may make different provision for different purposes;
+
+(b) may contain consequential, supplementary, transitional or transitory provision or savings.
+
+(3) In the case of regulations under section 48(5) which amend Schedule 7 so as to add an entry relating to a person or description of person, this includes power to make provision in relation to information disclosed by that person or a person of that description which is similar to that made by section 51 in relation to information disclosed by the Revenue and Customs.
+
+(4) A statutory instrument containing regulations made under this Chapter by the relevant Minister may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, each House of Parliament.
+
+(5) Regulations made under section 48(5) by the Scottish Ministers are subject to the affirmative procedure.
+
+(6) A statutory instrument containing regulations made under section 48(5) by the Welsh Ministers may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, the National Assembly for Wales.
+
+(7) Regulations under section 48(5) may not be made by the Department of Finance in Northern Ireland unless a draft of the regulations has been laid before, and approved by a resolution of, the Northern Ireland Assembly.
+
+(8) If a draft of a statutory instrument containing regulations under section 48(5) would, apart from this subsection, be treated for the purposes of the standing orders of either House of Parliament as a hybrid instrument, it is to proceed in that House as if it were not such an instrument.
+
+#### 55 Interpretation of this Chapter
+
+(1) In this Chapter—
+
+- “the appropriate national authority” means the relevant Minister, subject to subsections (2) to (4);
+
+- “enactment” includes—
+
+  - (a) an enactment contained in, or in an instrument made under, an Act of the Scottish Parliament;
+  - (b) an enactment contained in, or in an instrument made under, a Measure or Act of the National Assembly for Wales;
+  - (c) an enactment contained in, or in an instrument made under, Northern Ireland legislation;
+  - (d) an enactment contained in subordinate legislation within the meaning of the Interpretation Act 1978;
+
+- “functions” means functions of a public nature;
+
+- “Northern Ireland body” means—
+
+  - (a) a Minister within the meaning of the Northern Ireland Act 1998,
+  - (b) a Northern Ireland department,
+  - (c) a Northern Ireland public authority within the meaning of the Statistics and Registration Service Act 2007, or
+  - (d) a person providing services to a person within paragraph (a), (b) or (c);
+
+- “personal information” has the meaning given by section 49(5);
+
+- “public authority” means—
+
+  - (a) a person or body exercising functions of a public nature in the United Kingdom,
+  - (b) a person or body entirely or substantially funded from public money,
+  - (c) an office-holder appointed by a person or body falling within paragraph (a), or
+  - (d) a body more than half of whose governing body or members are appointed by a person or body falling within paragraph (a);
+
+- “relevant Minister” means the Secretary of State or the Minister for the Cabinet Office;
+
+- “the Revenue and Customs” has the meaning given by section 17(3) of the Commissioners for Revenue and Customs Act 2005;
+
+- “Scottish body” means—
+
+  - (a) a person who is a part of the Scottish Administration,
+  - (b) a Scottish public authority with mixed functions or no reserved functions (within the meaning of the Scotland Act 1998), or
+  - (c) a person providing services to a person within paragraph (a) or (b);
+
+- “specified person” has the meaning given by section 48(4);
+
+- “Welsh body” means—
+
+  - (a) a devolved Welsh authority as defined by section 157A of the Government of Wales Act 2006, or
+  - (b) a person providing services to a devolved Welsh authority as defined by that section.
+
+(2) The Scottish Ministers are the appropriate national authority in relation to regulations under section 48(5) which add, modify or remove an entry relating to a person who is, or a description of persons each of whom is, a Scottish body.
+
+(3) The Welsh Ministers are the appropriate national authority in relation to regulations under section 48(5) which add, modify or remove an entry relating to a person who is, or a description of persons each of whom is, a Welsh body.
+
+(4) The Department of Finance in Northern Ireland is the appropriate national authority in relation to regulations under section 48(5) which add, modify or remove an entry relating to a person who is, or a description of persons each of whom is, a Northern Ireland body.
+
+### CHAPTER 4 — Fraud against the public sector
+
+#### 56 Disclosure of information to combat fraud against the public sector
+
+(1) A specified person may disclose information held by the person in connection with any of the person's functions to another specified person for the purposes of the taking of action in connection with fraud against a public authority.
+
+(2) In this section and in Schedule 8 “fraud against a public authority” means a fraud offence which involves—
+
+(a) loss to a public authority, or
+
+(b) the exposure of a public authority to a risk of loss.
+
+(3) In subsection (2)—
+
+(a) “fraud offence” means an offence under section 1 of the Fraud Act 2006 or, in relation to Scotland, an offence of fraud, and
+
+(b) “loss”, as it applies in relation to an offence under section 1 of the Fraud Act 2006, has the meaning given by section 5 of that Act.
+
+(4) For the purposes of this section and Schedule 8 taking action in connection with fraud against a public authority includes any of the following—
+
+(a) preventing fraud of that kind;
+
+(b) detecting fraud of that kind;
+
+(c) investigating fraud of that kind;
+
+(d) prosecuting fraud of that kind;
+
+(e) bringing civil proceedings as a result of fraud of that kind;
+
+(f) taking administrative action as a result of fraud of that kind.
+
+(5) In this Chapter “specified person” means a person specified, or of a description specified, in Schedule 8.
+
+[[^F49](5A) Where in Schedule 8 functions are mentioned in relation to a specified person, the reference in subsection (1) to the person’s functions is limited to the person’s functions as mentioned in Schedule 8.]
+
+(6) The appropriate national authority may by regulations amend Schedule 8 so as to add, remove or modify an entry relating to a person or description of person.
+
+(7) Regulations under subsection (6) may add an entry relating to a person or a description of person to Schedule 8 only if the following conditions are satisfied.
+
+(8) The first condition is that—
+
+(a) the person is a public authority or (as the case may be) each person of that description is a public authority, or
+
+(b) the person provides services to a public authority or (as the case may be) each person of that description provides services to a public authority.
+
+(9) The second condition is that the person or (as the case may be) a person of that description (“P” in either case)—
+
+(a) requires information from a public authority or a person providing services to a public authority to improve P's ability to identify or reduce the risk of fraud against P or a public authority to which P provides services,
+
+(b) has information which, if shared with a public authority or a person providing services to a public authority, has the potential to improve that authority's or that person's ability to identify or reduce the risk of fraud against that authority, or
+
+(c) has functions of taking action in connection with fraud against a public authority, the exercise of which may be improved by the disclosure of information by or to P.
+
+(10) In the case of a person (“P”) who is a specified person merely because of providing services to a public authority, the reference in subsection (1) to the functions of a specified person is limited to the functions P exercises for that purpose.
+
+(11) In determining whether to make regulations under subsection (6) in relation to a person or description of person the appropriate national authority must have regard, in particular, to—
+
+(a) the systems and procedures for the secure handling of information by that person or persons of that description, and
+
+(b) in the case of regulations which remove a person from Schedule 8, whether that person, or any person providing services to that person, has had regard to the code of practice under section 60 as required by that section.
+
+(12) Before making regulations under subsection (6) the appropriate national authority must consult—
+
+(a) [[^F50]the Information Commission],
+
+(b) the Commissioners for Her Majesty's Revenue and Customs,
+
+(c) each other person who is the appropriate national authority in relation to regulations under subsection (6),
+
+(d) where the appropriate national authority is not the relevant Minister, [[^F51]the relevant Minister], and
+
+(e) such other persons as the appropriate national authority thinks appropriate.
+
+(13) The fact this section was not in force when consultation of the kind mentioned in subsection (12) took place is to be disregarded in determining whether there has been compliance with that subsection.
+
+(14) In this Chapter “public authority” means—
+
+(a) a person or body exercising functions of a public nature in the United Kingdom,
+
+(b) a person or body entirely or substantially funded from public money,
+
+(c) an office-holder appointed by a person or body falling within paragraph (a), or
+
+(d) a body more than half of whose governing body or members are appointed by a person or body falling within paragraph (a).
+
+#### 57 Further provisions about power in section 56
+
+(1) Personal information disclosed under section 56 may only be used by the person to whom it is disclosed for the purposes for which it was disclosed, subject to subsection (2).
+
+(2) Subsection (1) does not prevent the use of information by a person—
+
+(a) if the information has already lawfully been made available to the public,
+
+(b) if the person to whom the information relates consents to its use for another purpose,
+
+(c) for the prevention or detection of crime or the prevention of anti-social behaviour,
+
+(d) for the purposes of a criminal investigation,
+
+(e) for the purposes of legal proceedings (whether civil or criminal), or
+
+(f) for the purposes of—
+
+(i) preventing serious physical harm to a person,
+
+(ii) preventing loss of human life,
+
+(iii) safeguarding vulnerable adults or children,
+
+(iv) responding to an emergency, or
+
+(v) protecting national security.
+
+(3) In subsection (2)(c) “anti-social behaviour” means conduct that—
+
+(a) is likely to cause harassment, alarm or distress to any person, or
+
+(b) is capable of causing nuisance or annoyance to a person in relation to that person's occupation of residential premises.
+
+(4) Subsection (2) does not apply to information disclosed to a person under section 56 by the Revenue and Customs; but such information may be used by that person for purposes other than those for which it was disclosed with the consent of the Commissioners for Her Majesty's Revenue and Customs (which may be general or specific).
+
+(5) For the purposes of this Chapter information is “personal information” if—
+
+(a) it relates to and identifies a particular person (including a body corporate), but
+
+(b) it is not information about the internal administrative arrangements of a specified person.
+
+(6) For the purposes of subsection (1) information identifies a particular person if the identity of that person—
+
+(a) is specified in the information,
+
+(b) can be deduced from the information, or
+
+(c) can be deduced from the information taken together with any other information.
+
+(7) A disclosure under section 56 does not breach—
+
+(a) any obligation of confidence owed by the person making the disclosure, or
+
+(b) any other restriction on the disclosure of information (however imposed).
+
+(8) But nothing in section 56 authorises the making of a disclosure which—
+
+(a) contravenes [[^F52]the data protection legislation], or
+
+(b) is prohibited by any of Parts 1 to 7 or Chapter 1 of Part 9 of the Investigatory Powers Act 2016.
+
+(9) Until the repeal of Part 1 of the Regulation of Investigatory Powers Act 2000 by paragraphs 45 and 54 of Schedule 10 to the Investigatory Powers Act 2016 is fully in force, subsection (8)(b) has effect as if it included a reference to that Part.
+
+(10) Section 56 does not limit the circumstances in which information may be disclosed apart from that section.
+
+[[^F53](11) In this section, “the data protection legislation” has the same meaning as in the Data Protection Act 2018 (see section 3 of that Act).]
+
+#### 58 Confidentiality of personal information
+
+(1) Personal information received by a person (“P”) under section 56 may not be disclosed—
+
+(a) by P, or
+
+(b) by any other person who has received it directly or indirectly from P.
+
+(2) Subsection (1) does not apply to a disclosure—
+
+(a) which is required or permitted by any enactment (including section 56),
+
+(b) which is required by an EU obligation,
+
+(c) which is made in pursuance of an order of the court,
+
+(d) of information which has already lawfully been made available to the public,
+
+(e) which is made for the prevention or detection of crime or the prevention of anti-social behaviour,
+
+(f) which is made for the purposes of a criminal investigation,
+
+(g) which is made for the purposes of legal proceedings (whether civil or criminal),
+
+(h) which is a protected disclosure for any of the purposes of the Employment Rights Act 1996 or the Employment Rights (Northern Ireland) Order 1996 (SI 1996/1919 (NI 16)),
+
+(i) consisting of the publication of information for the purposes of journalism, where the publication of the information is in the public interest,
+
+(j) which is made with the consent of the person to whom it relates, or
+
+(k) which is made for the purposes of—
+
+(i) preventing serious physical harm to a person,
+
+(ii) preventing loss of human life,
+
+(iii) safeguarding vulnerable adults or children,
+
+(iv) responding to an emergency, or
+
+(v) protecting national security.
+
+(3) In subsection (2)(e) “anti-social behaviour” means conduct that—
+
+(a) is likely to cause harassment, alarm or distress to any person, or
+
+(b) is capable of causing nuisance or annoyance to a person in relation to that person's occupation of residential premises.
+
+(4) A person commits an offence if—
+
+(a) the person discloses personal information in contravention of subsection (1), and
+
+(b) at the time that the person makes the disclosure, the person knows that the disclosure contravenes that subsection or is reckless as to whether the disclosure does so.
+
+(5) A person who is guilty of an offence under subsection (4) is liable on conviction on indictment to imprisonment for a term not exceeding two years, to a fine or to both.
+
+(6) A person who is guilty of an offence under subsection (4) is liable on summary conviction—
+
+(a) in England and Wales, to imprisonment for a term not exceeding [[^F54]the general limit in a magistrates’ court], to a fine or to both;
+
+(b) in Scotland, to imprisonment for a term not exceeding 12 months, to a fine not exceeding the statutory maximum or to both;
+
+(c) in Northern Ireland, to imprisonment for a term not exceeding 6 months, to a fine not exceeding the statutory maximum or to both.
+
+(7) In the application of subsection (6)(a) to an offence committed before [[^F55]2 May 2022] the reference to [[^F56]the general limit in a magistrates’ court] is to be read as a reference to 6 months.
+
+(8) This section does not apply to personal information disclosed under section 56 by the Revenue and Customs.
+
+#### 59 Information disclosed by the Revenue and Customs
+
+(1) Personal information disclosed by the Revenue and Customs under section 56 and received by a person may not be disclosed by that person.
+
+(2) Subsection (1) does not apply to a disclosure which is made with the consent of the Commissioners for Her Majesty's Revenue and Customs (which may be general or specific).
+
+(3) A person who contravenes subsection (1) is guilty of an offence.
+
+(4) It is a defence for a person charged with an offence under subsection (3) to prove that the person reasonably believed—
+
+(a) that the disclosure was lawful, or
+
+(b) that the information had already and lawfully been made available to the public.
+
+(5) Subsections (4) to (7) of section 19 of the Commissioners for Revenue and Customs Act 2005 apply to an offence under subsection (3) as they apply to an offence under that section.
+
+#### 60 Code of practice
+
+(1) The relevant Minister must issue a code of practice about—
+
+(a) the disclosure of information under section 56, and
+
+(b) the use of information disclosed under that section.
+
+(2) The code of practice must be consistent with the code of practice [[^F57]prepared under section 121 of the Data Protection Act 2018 (data-sharing code) and issued under section 125(4) of that Act] (as altered or replaced from time to time).
+
+(3) A specified person must have regard to the code of practice in—
+
+(a) disclosing information under section 56, and
+
+(b) using information disclosed under that section.
+
+(4) The relevant Minister may from time to time revise and re-issue the code of practice.
+
+(5) Before issuing or reissuing the code of practice the relevant Minister must consult—
+
+(a) [[^F58]the Information Commission],
+
+(b) the Commissioners for Her Majesty's Revenue and Customs,
+
+(c) the Scottish Ministers,
+
+(d) the Welsh Ministers,
+
+(e) the Department of Finance in Northern Ireland, and
+
+(f) such other persons as the relevant Minister thinks appropriate.
+
+(6) The fact that this section was not in force when consultation of the kind mentioned in subsection (5) took place is to be disregarded in determining whether there has been compliance with that subsection.
+
+(7) The relevant Minister may not issue the code of practice unless a draft of the code has been laid before, and approved by a resolution of, each House of Parliament.
+
+(8) Before reissuing the code the relevant Minister must lay a draft of the code as proposed to be reissued before Parliament.
+
+(9) The relevant Minister may not reissue the code if, within the 40-day period, either House of Parliament resolves not to approve it.
+
+(10) In subsection (9) “the 40 day period” means—
+
+(a) the period of 40 days beginning with the day on which the draft is laid before Parliament, or
+
+(b) if the draft is not laid before each House on the same day, the period of 40 days beginning with the later of the days on which it is laid before Parliament.
+
+(11) For the purposes of subsection (10) no account is to be taken of any period during which Parliament is dissolved or prorogued or during which both Houses are adjourned for more than four days.
+
+(12) As soon as is reasonably practicable after issuing or reissuing the code of practice the relevant Minister must lay, or arrange for the laying of, a copy of it before—
+
+(a) the Scottish Parliament,
+
+(b) the National Assembly for Wales, and
+
+(c) the Northern Ireland Assembly.
+
+(13) In disclosing information under section 56, a person must have regard to the following codes of practice issued by [[^F59]the Information Commission] under [[^F60]section [[^F61]124A] of the Data Protection Act 2018 (other codes of practice)], so far as they apply to the information in question—
+
+(a) any code which makes provision about the identification and reduction of the risks to privacy of a proposal to disclose information;
+
+(b) any code which makes provision about the information to be provided to data subjects (within the meaning of that Act) about the use to be made of information collected from them.
+
+(14) The duty in subsection (13) does not affect any other requirement for the person to have regard to a code of practice in disclosing the information.
+
+#### 61 Duty to review operation of Chapter
+
+(1) As soon as is reasonably practicable after the end of three years beginning with the day on which this Chapter comes into force, the relevant Minister must review its operation for the purposes of deciding whether it should be amended or repealed.
+
+(2) Before carrying out the review the relevant Minister must publish the criteria by reference to which that determination will be made.
+
+(3) In carrying out the review the relevant Minister must consult—
+
+(a) [[^F62]the Information Commission],
+
+(b) the Scottish Ministers,
+
+(c) the Welsh Ministers,
+
+(d) the Department of Finance in Northern Ireland, and
+
+(e) such other persons as the relevant Minister thinks appropriate.
+
+(4) Once the review is completed the relevant Minister must—
+
+(a) publish a report on its outcome, and
+
+(b) lay, or arrange for the laying of, a copy of the report before—
+
+(i) Parliament,
+
+(ii) the Scottish Parliament,
+
+(iii) the National Assembly for Wales, and
+
+(iv) the Northern Ireland Assembly.
+
+(5) If as a result of the review the relevant Minister decides that this Chapter should be amended or repealed, the relevant Minister may by regulations amend or repeal it (as the case may be).
+
+(6) The power in subsection (5) to amend this Chapter—
+
+(a) may be exercised for the purposes only of improving the effectiveness of the operation of the power in section 56(1), and
+
+(b) may not be used to remove any of the safeguards relating to the use or disclosure of information in section 57, 58 or 59.
+
+(7) The relevant Minister may only make regulations under subsection (5) with the consent of the Scottish Ministers if the regulations—
+
+(a) repeal this Chapter,
+
+(b) amend or remove the power of the Scottish Ministers to make regulations under section 56(6),
+
+(c) affect the disclosure of information under section 56 by a Scottish body to another such body,
+
+(d) affect the use by a Scottish body of information disclosed under that section by such a body, or
+
+(e) affect the further disclosure to a Scottish body by such a body, or by a member, officer or employee of such a body, of information disclosed under this Chapter by a Scottish body.
+
+(8) The relevant Minister may only make regulations under subsection (5) with the consent of the Welsh Ministers if the regulations—
+
+(a) repeal this Chapter,
+
+(b) amend or remove the power of the Welsh Ministers to make regulations under section 56(6),
+
+(c) affect the disclosure of information under section 56 by a Welsh body to another such body,
+
+(d) affect the use by a Welsh body of information disclosed under that section by such a body, or
+
+(e) affect the further disclosure to a Welsh body by such a body, or by a member, officer or employee of such a body, of information disclosed under this Chapter by a Welsh body.
+
+(9) The relevant Minister may only make regulations under subsection (5) with the consent of the Department of Finance in Northern Ireland if the regulations—
+
+(a) repeal this Chapter,
+
+(b) amend or remove the power of the Department to make regulations under section 56(6),
+
+(c) affect the disclosure of information under section 56 by a Northern Ireland body to another such body,
+
+(d) affect the use by a Northern Ireland body of information disclosed under that section by such a body, or
+
+(e) affect the further disclosure to a Northern Ireland body by such a body, or by a member, officer or employee of such a body, of information disclosed under this Chapter by a Northern Ireland body.
+
+(10) The relevant Minister may only make regulations under subsection (5) with the consent of the Treasury in a case where the regulations could affect the disclosure of information by the Revenue and Customs.
+
+(11) Anything required to be published by this section is to be published in such manner as the relevant Minister thinks fit.
+
+#### 62 Regulations under this Chapter
+
+(1) Any power to make regulations under this Chapter is exercisable—
+
+(a) in the case of regulations made by the relevant Minister or the Welsh Ministers, by statutory instrument, and
+
+(b) in the case of regulations made by the Department of Finance in Northern Ireland, by statutory rule for the purposes of the Statutory Rules (Northern Ireland) Order 1979 (SI 1979/1573 (NI 12)).
+
+(2) Regulations under this Chapter—
+
+(a) may make different provision for different purposes;
+
+(b) may contain consequential, supplementary, transitional or transitory provision or savings.
+
+(3) In the case of regulations under section 56(6) which amend Schedule 8 so as to add an entry relating to a person or description of person, this includes power to make provision in relation to information disclosed by that person or a person of that description which is similar to that made by section 59 in relation to information disclosed by the Revenue and Customs.
+
+(4) A statutory instrument containing regulations made under this Chapter by the relevant Minister may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, each House of Parliament.
+
+(5) Regulations made under section 56(6) by the Scottish Ministers are subject to the affirmative procedure.
+
+(6) A statutory instrument containing regulations made under section 56(6) by the Welsh Ministers may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, the National Assembly for Wales.
+
+(7) Regulations under section 56(6) may not be made by the Department of Finance in Northern Ireland unless a draft of the regulations has been laid before, and approved by a resolution of, the Northern Ireland Assembly.
+
+(8) If a draft of a statutory instrument containing regulations under section 56(6) would, apart from this subsection, be treated for the purposes of the standing orders of either House of Parliament as a hybrid instrument, it is to proceed in that House as if it were not such an instrument.
+
+#### 63 Interpretation of this Chapter
+
+(1) In this Chapter—
+
+- “the appropriate national authority” means the relevant Minister, subject to subsections (2) to (4);
+
+- “enactment” includes—
+
+  - (a) an enactment contained in, or in an instrument made under, an Act of the Scottish Parliament;
+  - (b) an enactment contained in, or in an instrument made under, a Measure or Act of the National Assembly for Wales;
+  - (c) an enactment contained in, or in an instrument made under, Northern Ireland legislation;
+  - (d) an enactment contained in subordinate legislation within the meaning of the Interpretation Act 1978;
+
+- “functions” means functions of a public nature;
+
+- “Northern Ireland body” means—
+
+  - (a) a Minister within the meaning of the Northern Ireland Act 1998,
+  - (b) a Northern Ireland department,
+  - (c) a Northern Ireland public authority within the meaning of the Statistics and Registration Service Act 2007, or
+  - (d) a person providing services to a person within paragraph (a), (b) or (c);
+
+- “personal information” has the meaning given by section 57(5);
+
+- “public authority” has the meaning given by section 56(14);
+
+- “relevant Minister” means the Secretary of State or the Minister for the Cabinet Office;
+
+- “the Revenue and Customs” has the meaning given by section 17(3) of the Commissioners for Revenue and Customs Act 2005;
+
+- “Scottish body” means—
+
+  - (a) a person who is a part of the Scottish Administration,
+  - (b) a Scottish public authority with mixed functions or no reserved functions (within the meaning of the Scotland Act 1998), or
+  - (c) a person providing services to a person within paragraph (a) or (b);
+
+- “specified person” has the meaning given by section 56(5);
+
+- “Welsh body” means—
+
+  - (a) a devolved Welsh authority as defined by section 157A of the Government of Wales Act 2006, or
+  - (b) a person providing services to a devolved Welsh authority as defined by that section.
+
+(2) The Scottish Ministers are the appropriate national authority in relation to regulations under section 56(6) which add, modify or remove an entry relating to a person who is, or a description of persons each of whom is, a Scottish body.
+
+(3) The Welsh Ministers are the appropriate national authority in relation to regulations under section 56(6) which add, modify or remove an entry relating to a person who is, or a description of persons each of whom is, a Welsh body.
+
+(4) The Department of Finance in Northern Ireland is the appropriate national authority in relation to regulations under section 56(6) which add, modify or remove an entry relating to a person who is, or a description of persons each of whom is, a Northern Ireland body.
+
+### CHAPTER 5 — Sharing for research purposes
+
+#### 64 Disclosure of information for research purposes
+
+(1) Information held by a public authority in connection with the authority's functions may be disclosed to another person for the purposes of research which is being or is to be carried out.
+
+(2) If the information is personal information it may not be disclosed under subsection (1) unless the following conditions are met.
+
+(3) The first condition is that, if the information identifies a particular person, it is processed before it is disclosed so that—
+
+(a) the person's identity is not specified in the information, and
+
+(b) it is not reasonably likely that the person's identity will be deduced from the information (whether by itself or taken together with other information).
+
+(4) For the purposes of the first condition the information may be processed by—
+
+(a) the public authority,
+
+(b) a person other than the public authority, or
+
+(c) both the public authority and a person other than the public authority,
+
+(subject to the following provisions of this Chapter).
+
+(5) Personal information may be disclosed for the purpose of processing it for disclosure under subsection (1)—
+
+(a) by a public authority to a person involved in processing the information for that purpose;
+
+(b) subject to sections 67(5), 68(5) and 69(5) (information disclosed by revenue authorities), by one such person to another such person.
+
+(6) The second condition is that each person who is involved in processing the information for disclosure takes reasonable steps to—
+
+(a) minimise the risk of the accidental disclosure of information which identifies a particular person, and
+
+(b) prevent the deliberate disclosure of such information (otherwise than in accordance with this Chapter).
+
+(7) The third condition is that the disclosure is made by the public authority or by a person, other than the public authority, who is involved in processing the information for disclosure under subsection (1).
+
+(8) The fourth condition is that the research for the purposes of which the information is disclosed is accredited under section 71.
+
+(9) The fifth condition is that the following are accredited under section 71—
+
+(a) any person (including the public authority) who is involved in processing the information for disclosure under subsection (1);
+
+(b) any person to whom information is disclosed under subsection (1);
+
+(c) any person by whom such information is used for research purposes.
+
+(10) The sixth condition is that each person who discloses the information or is involved in processing it for disclosure under subsection (1) has regard to the code of practice under section 70 in doing so.
+
+(11) For the purposes of this Chapter information is “personal information” if—
+
+(a) it relates to a particular person (including a body corporate), but
+
+(b) it is not information about the internal administrative arrangements of a public authority.
+
+(12) For the purposes of this Chapter information identifies a particular person if the identity of that person—
+
+(a) is specified in the information,
+
+(b) can be deduced from the information, or
+
+(c) can be deduced from the information taken together with any other information.
+
+(13) This section is subject to section 65.
+
+#### 65 Provisions supplementary to section 64
+
+(1) A disclosure under section 64 does not breach—
+
+(a) any obligation of confidence owed by the person making the disclosure, or
+
+(b) any other restriction on the disclosure of information (however imposed).
+
+(2) But nothing in section 64 authorises information to be disclosed if to do so would—
+
+(a) contravene [[^F63]the data protection legislation], or
+
+(b) be prohibited by any of Parts 1 to 7 or Chapter 1 of Part 9 of the Investigatory Powers Act 2016.
+
+(3) Until the repeal of Part 1 of the Regulation of Investigatory Powers Act 2000 by paragraphs 45 and 54 of Schedule 10 to the Investigatory Powers Act 2016 is fully in force, subsection (2)(b) has effect as if it included a reference to that Part.
+
+(4) In its application to a public authority with functions relating to the provision of health services or adult social care, section 64 does not authorise the disclosure of information held by the authority in connection with such functions.
+
+(5) Section 64 does not limit the circumstances in which information may be disclosed apart from that section.
+
+(6) A person within subsection (7) may charge a person who requests information to be disclosed under section 64(1) a fee for work done in response to the request.
+
+(7) The persons mentioned in subsection (6) are—
+
+(a) the public authority to whom the request is made, and
+
+(b) a person who is involved in processing the information for disclosure.
+
+(8) A fee charged under subsection (6) by a public authority (including a person within subsection (7)(b) who is a public authority) must not exceed the cost to the person of doing the work for which the fee is charged.
+
+[[^F64](9) In this section, “the data protection legislation” has the same meaning as in the Data Protection Act 2018 (see section 3 of that Act).]
+
+#### 66 Bar on further disclosure of personal information
+
+(1) Subsection (2) applies to personal information—
+
+(a) in which the identity of a particular person is specified or from which the identity of a particular person can be deduced, whether from the information itself or from that information taken together with any other published information, and
+
+(b) which is received by a person (“P”) under section 64(1) (disclosure for research purposes).
+
+(2) Personal information to which this subsection applies may not be disclosed—
+
+(a) by P, or
+
+(b) by any other person who has received it directly or indirectly from P.
+
+(3) Subsection (2) does not apply to a disclosure—
+
+(a) to a person by whom the research referred to in section 64(1) is being or is to be carried out, or
+
+(b) for the purposes of enabling anything that is to be published as a result of the research to be reviewed before publication, where the disclosure is made to a person who is accredited under section 71 as a person to whom such information may be disclosed for that purpose.
+
+(4) Subsection (5) applies to personal information which—
+
+(a) identifies a particular person, and
+
+(b) is received by a person (“P”) under section 64(5) (disclosure for processing).
+
+(5) Personal information to which this subsection applies may not be disclosed—
+
+(a) by P, or
+
+(b) by any other person who has received it directly or indirectly from P.
+
+(6) Subsection (5) does not apply to a disclosure—
+
+(a) under section 64(1) or (5), or
+
+(b) of information previously disclosed under section 64(1), where the disclosure is made by—
+
+(i) the person to whom the information was disclosed under that provision, or
+
+(ii) any person who has received the information directly or indirectly from the person mentioned in sub-paragraph (i),
+
+(but subsection (2) may apply to such a disclosure).
+
+(7) Subsection (2) or (5) does not apply to a disclosure—
+
+(a) which is required or permitted by any enactment,
+
+(b) which is required by an EU obligation,
+
+(c) which is made in pursuance of an order of the court,
+
+(d) of information which has already lawfully been made available to the public,
+
+(e) which is made for the prevention or detection of crime or the prevention of anti-social behaviour,
+
+(f) which is made for the purposes of a criminal investigation,
+
+(g) which is made for the purposes of legal proceedings (whether civil or criminal),
+
+(h) which is a protected disclosure for any of the purposes of the Employment Rights Act 1996 or the Employment Rights (Northern Ireland) Order 1996 (SI 1996/1919 (NI 16)),
+
+(i) consisting of the publication of information for the purposes of journalism, where the publication of the information is in the public interest, or
+
+(j) which is made with the consent of the person to whom it relates.
+
+(8) In subsection (7)(a) “enactment” includes—
+
+(a) an enactment contained in, or in an instrument made under, an Act of the Scottish Parliament;
+
+(b) an enactment contained in, or in an instrument made under, a Measure or Act of the National Assembly for Wales;
+
+(c) an enactment contained in, or in an instrument made under, Northern Ireland legislation;
+
+(d) an enactment contained in subordinate legislation within the meaning of the Interpretation Act 1978.
+
+(9) In subsection (7)(e) “anti-social behaviour” means conduct that—
+
+(a) is likely to cause harassment, alarm or distress to any person, or
+
+(b) is capable of causing nuisance or annoyance to a person in relation to that person's occupation of residential premises.
+
+(10) A person commits an offence if—
+
+(a) the person discloses personal information in contravention of subsection (2) or (5), and
+
+(b) at the time that the person makes the disclosure, the person knows that the disclosure contravenes that subsection or is reckless as to whether the disclosure does so.
+
+(11) A person who is guilty of an offence under subsection (10) is liable on conviction on indictment to imprisonment for a term not exceeding two years, to a fine or to both.
+
+(12) A person who is guilty of an offence under subsection (10) is liable on summary conviction—
+
+(a) in England and Wales, to imprisonment for a term not exceeding [[^F65]the general limit in a magistrates’ court], to a fine or to both;
+
+(b) in Scotland, to imprisonment for a term not exceeding 12 months, to a fine not exceeding the statutory maximum or to both;
+
+(c) in Northern Ireland, to imprisonment for a term not exceeding 6 months, to a fine not exceeding the statutory maximum or to both.
+
+(13) In the application of subsection (12)(a) to an offence committed before [[^F66]2 May 2022] the reference to [[^F67]the general limit in a magistrates’ court] is to be read as a reference to 6 months.
+
+(14) This section does not apply to personal information disclosed under section 64(1) or (5) by the Revenue and Customs, the Welsh Revenue Authority or Revenue Scotland.
+
+#### 67 Information disclosed by the Revenue and Customs
+
+(1) Subsection (2) applies to personal information—
+
+(a) in which the identity of a particular person is specified or from which the identity of a particular person can be deduced, whether from the information itself or from that information taken together with any other published information, and
+
+(b) which—
+
+(i) is disclosed under section 64(1) (disclosure for research purposes) by the Revenue and Customs, or
+
+(ii) is disclosed under section 64(1) by a person other than the Revenue and Customs and is derived from information disclosed under section 64(5) by the Revenue and Customs,
+
+and is received by a person (“P”) under section 64(1).
+
+(2) Personal information to which this subsection applies may not be disclosed—
+
+(a) by P, or
+
+(b) by a person to whom the information is disclosed by virtue of subsection (3).
+
+(3) Subsection (2) does not apply to a disclosure—
+
+(a) to a person by whom the research referred to in section 64(1) is being or is to be carried out, or
+
+(b) for the purposes of enabling anything that is to be published as a result of the research to be reviewed before publication, where the disclosure is made to a person who is accredited under section 71 as a person to whom such information may be disclosed for that purpose.
+
+(4) Subsection (5) applies to personal information which—
+
+(a) identifies a particular person, and
+
+(b) is disclosed by the Revenue and Customs under section 64(5) (disclosure for processing) and received by a person (“P”).
+
+(5) Personal information to which this subsection applies may not be disclosed—
+
+(a) by P, or
+
+(b) by any other person who has received it under section 64(5).
+
+(6) Subsection (5) does not apply to a disclosure under section 64(1).
+
+(7) Subsection (2) or (5) does not apply to a disclosure which is made with the consent of the Commissioners for Her Majesty's Revenue and Customs (which may be general or specific).
+
+(8) A person who contravenes subsection (2) or (5) is guilty of an offence.
+
+(9) It is a defence for a person charged with an offence under subsection (8) to prove that the person reasonably believed—
+
+(a) that the disclosure was lawful, or
+
+(b) that the information had already and lawfully been made available to the public.
+
+(10) Subsections (4) to (7) of section 19 of the Commissioners for Revenue and Customs Act 2005 apply to an offence under subsection (8) as they apply to an offence under that section.
+
+#### 68 Information disclosed by the Welsh Revenue Authority
+
+(1) Subsection (2) applies to personal information—
+
+(a) in which the identity of a particular person is specified or from which the identity of a particular person can be deduced, whether from the information itself or from that information taken together with any other published information, and
+
+(b) which—
+
+(i) is disclosed under section 64(1) (disclosure for research purposes) by the Welsh Revenue Authority, or
+
+(ii) is disclosed under section 64(1) by a person other than the Welsh Revenue Authority and is derived from information disclosed under section 64(5) by the Welsh Revenue Authority,
+
+and is received by a person (“P”) under section 64(1).
+
+(2) Personal information to which this subsection applies may not be disclosed—
+
+(a) by P, or
+
+(b) by a person to whom the information is disclosed by virtue of subsection (3).
+
+(3) Subsection (2) does not apply to a disclosure—
+
+(a) to a person by whom the research referred to in section 64(1) is being or is to be carried out, or
+
+(b) for the purposes of enabling anything that is to be published as a result of the research to be reviewed before publication, where the disclosure is made to a person who is accredited under section 71 as a person to whom such information may be disclosed for that purpose.
+
+(4) Subsection (5) applies to personal information which—
+
+(a) identifies a particular person, and
+
+(b) is disclosed by the Welsh Revenue Authority under section 64(5) (disclosure for processing) and received by a person (“P”).
+
+(5) Personal information to which this subsection applies may not be disclosed—
+
+(a) by P, or
+
+(b) by any other person who has received it under section 64(5).
+
+(6) Subsection (5) does not apply to a disclosure under section 64(1).
+
+(7) Subsection (2) or (5) does not apply to a disclosure which is made with the consent of the Welsh Revenue Authority (which may be general or specific).
+
+(8) A person who contravenes subsection (2) or (5) is guilty of an offence.
+
+(9) It is a defence for a person charged with an offence under subsection (8) to prove that the person reasonably believed—
+
+(a) that the disclosure was lawful, or
+
+(b) that the information had already and lawfully been made available to the public.
+
+(10) A person who is guilty of an offence under subsection (8) is liable—
+
+(a) on summary conviction, to imprisonment for a term not exceeding [[^F68]the general limit in a magistrates’ court], to a fine, or to both;
+
+(b) on conviction on indictment to imprisonment for a term not exceeding two years, to a fine or to both.
+
+(11) In the application of subsection (10)(a) to an offence committed before [[^F69]2 May 2022] the reference to [[^F70]the general limit in a magistrates’ court] is to be read as a reference to 6 months.
+
+#### 69 Information disclosed by Revenue Scotland
+
+(1) Subsection (2) applies to personal information—
+
+(a) in which the identity of a particular person is specified or from which the identity of a particular person can be deduced, whether from the information itself or from that information taken together with any other published information, and
+
+(b) which—
+
+(i) is disclosed under section 64(1) (disclosure for research purposes) by Revenue Scotland, or
+
+(ii) is disclosed under section 64(1) by a person other than Revenue Scotland and is derived from information disclosed under section 64(5) by Revenue Scotland,
+
+and is received by a person (“P”) under section 64(1).
+
+(2) Personal information to which this subsection applies may not be disclosed—
+
+(a) by P, or
+
+(b) by a person to whom the information is disclosed by virtue of subsection (3).
+
+(3) Subsection (2) does not apply to a disclosure—
+
+(a) to a person by whom the research referred to in section 64(1) is being or is to be carried out, or
+
+(b) for the purposes of enabling anything that is to be published as a result of the research to be reviewed before publication, where the disclosure is made to a person who is accredited under section 71 as a person to whom such information may be disclosed for that purpose.
+
+(4) Subsection (5) applies to personal information which—
+
+(a) identifies a particular person, and
+
+(b) is disclosed by Revenue Scotland under section 64(5) (disclosure for processing) and received by a person (“P”).
+
+(5) Personal information to which this subsection applies may not be disclosed—
+
+(a) by P, or
+
+(b) by any other person who has received it under section 64(5).
+
+(6) Subsection (5) does not apply to a disclosure under section 64(1).
+
+(7) Subsection (2) or (5) does not apply to a disclosure which is made with the consent of Revenue Scotland (which may be general or specific).
+
+(8) A person who contravenes subsection (2) or (5) is guilty of an offence.
+
+(9) It is a defence for a person charged with an offence under subsection (8) to prove that the person reasonably believed—
+
+(a) that the disclosure was lawful, or
+
+(b) that the information had already and lawfully been made available to the public.
+
+(10) A person who is guilty of an offence under subsection (8) is liable—
+
+(a) on summary conviction, to imprisonment for a term not exceeding 12 months, to a fine not exceeding the statutory maximum or to both;
+
+(b) on conviction on indictment to imprisonment for a term not exceeding two years, to a fine or to both.
+
+#### 70 Code of practice
+
+(1) The Statistics Board must issue a code of practice about—
+
+(a) the disclosure of personal information under section 64,
+
+(b) the processing of information under that section, and
+
+(c) the holding or use of personal information disclosed under that section.
+
+(2) The code of practice must be consistent with the code of practice [[^F71]prepared under section 121 of the Data Protection Act 2018 (data-sharing code) and issued under section 125(4) of that Act] (as altered or replaced from time to time).
+
+(3) A public authority must have regard to the code of practice in disclosing personal information or participating in the processing of information under section 64.
+
+(4) A person who is accredited under section 71(1)(a) must have regard to the code of practice in participating in the processing of information for disclosure under section 64(1).
+
+(5) A person who is accredited under section 71(1)(b), (c) or (d) must have regard to the code of practice in holding or using personal information disclosed under section 64.
+
+(6) The Statistics Board may from time to time revise and re-issue the code of practice.
+
+(7) Before issuing or reissuing the code of practice the Statistics Board must consult—
+
+(a) the Minister for the Cabinet Office,
+
+(b) [[^F72]the Information Commission],
+
+(c) the Commissioners for Her Majesty's Revenue and Customs,
+
+(d) the Scottish Ministers,
+
+(e) the Welsh Ministers,
+
+(f) the Department of Finance in Northern Ireland, and
+
+(g) such other persons as the Statistics Board thinks appropriate.
+
+(8) The fact that this section was not in force when consultation of the kind mentioned in subsection (7) took place is to be disregarded in determining whether there has been compliance with that subsection.
+
+(9) The Statistics Board may not issue the code of practice unless a draft of the code has been laid before, and approved by a resolution of, each House of Parliament.
+
+(10) Before reissuing the code the Statistics Board must lay a draft of the code as proposed to be reissued before Parliament.
+
+(11) The Statistics Board may not reissue the code if, within the 40-day period, either House of Parliament resolves not to approve it.
+
+(12) In subsection (11) “the 40 day period” means—
+
+(a) the period of 40 days beginning with the day on which the draft is laid before Parliament, or
+
+(b) if the draft is not laid before each House on the same day, the period of 40 days beginning with the later of the days on which it is laid before Parliament.
+
+(13) For the purposes of subsection (12) no account is to be taken of any period during which Parliament is dissolved or prorogued or during which both Houses are adjourned for more than four days.
+
+(14) As soon as is reasonably practicable after issuing or reissuing the code of practice the Statistics Board must lay a copy of it before—
+
+(a) the Scottish Parliament,
+
+(b) the National Assembly for Wales, and
+
+(c) the Northern Ireland Assembly.
+
+(15) In disclosing information under section 64, a person must have regard to the following codes of practice issued by [[^F73]the Information Commission] under [[^F74]section [[^F75]124A] of the Data Protection Act 2018 (other codes of practice)], so far as they apply to the information in question—
+
+(a) any code which makes provision about the identification and reduction of the risks to privacy of a proposal to disclose information;
+
+(b) any code which makes provision about the information to be provided to data subjects (within the meaning of that Act) about the use to be made of information collected from them.
+
+(16) The duty in subsection (15) does not affect any other requirement for the person to have regard to a code of practice in disclosing the information.
+
+#### 71 Accreditation for the purposes of this Chapter
+
+(1) The Statistics Board—
+
+(a) may accredit a person as a person who may be involved in the processing of information for disclosure under subsection (1) of section 64,
+
+(b) may accredit a person as a person to whom information may be disclosed under that subsection,
+
+(c) may accredit a person as a person by whom information disclosed under that subsection may be used for research purposes,
+
+(d) may accredit a person as a person to whom such information may be disclosed for the purposes of a review of the kind mentioned in section 66(3)(b), 67(3)(b), 68(3)(b) or 69(3)(b),
+
+(e) may accredit research for the purposes of section 64, and
+
+(f) may withdraw accreditation given under any of paragraphs (a) to (e).
+
+(2) The Statistics Board—
+
+(a) must establish and publish conditions to be met by a person for accreditation under subsection (1)(a), (b), (c) or (d),
+
+(b) must establish and publish conditions to be met by research for accreditation under subsection (1)(e), and
+
+(c) must establish and publish grounds for the withdrawal of accreditation under subsection (1)(f).
+
+(3) The conditions established and published under subsection (2)(a) must, in the case of a person seeking accreditation to be involved in the processing of information for disclosure under section 64(1), include a condition that the person is a fit and proper person to be involved in such processing.
+
+(4) The conditions established and published under subsection (2)(b) must include a condition that the research is in the public interest.
+
+(5) The grounds established and published under subsection (2)(c) must, in the case of a person accredited under this section, include the ground that the person has failed to have regard to the code of practice under section 70.
+
+(6) Before publishing conditions under subsection (2)(a) or (b) or grounds under subsection (2)(c), the Statistics Board must consult—
+
+(a) the Minister for the Cabinet Office,
+
+(b) [[^F76]the Information Commission],
+
+(c) the Commissioners for Her Majesty's Revenue and Customs,
+
+(d) the Scottish Ministers,
+
+(e) the Welsh Ministers,
+
+(f) the Department of Finance in Northern Ireland, and
+
+(g) such other persons as the Statistics Board thinks appropriate.
+
+(7) The Statistics Board—
+
+(a) may from time to time revise conditions or grounds published under this section, and
+
+(b) if it does so, must publish the conditions or grounds as revised.
+
+(8) Subsection (6) applies in relation to the publication of conditions or grounds under subsection (7) as it applies in relation to the publication of conditions or grounds under subsection (2).
+
+(9) The Statistics Board must maintain and publish—
+
+(a) a register of persons who are accredited under subsection (1)(a),
+
+(b) a register of persons who are accredited under subsection (1)(b),
+
+(c) a register of persons who are accredited under subsection (1)(c), and
+
+(d) a register of persons who are accredited under subsection (1)(d).
+
+(10) A register under any of the paragraphs of subsection (9) may be combined with a register under any of the other paragraphs of that subsection.
+
+(11) Anything required by this section to be published must be published in such manner as the Statistics Board thinks appropriate for bringing it to the attention of persons likely to be affected by it.
+
+#### 72 Delegation of functions of the Statistics Board
+
+(1) The Statistics Board may delegate any of its functions under section 71 to another person if the Board thinks that the person—
+
+(a) is a fit and proper person to exercise the function in question, and
+
+(b) has expertise in statistical research and analysis.
+
+(2) Subsection (1) does not affect the operation of section 36 of the Statistics and Registration Service Act 2007 (delegation of Board's functions).
+
+#### 73 Interpretation of this Chapter
+
+(1) In this Chapter—
+
+- “personal information” has the meaning given by section 64(11);
+- “public authority” means a person with functions of a public nature, subject to subsection (2);
+- “the Revenue and Customs” has the meaning given by section 17(3) of the Commissioners for Revenue and Customs Act 2005.
+
+(2) A person is not a public authority for the purposes of this Chapter if the person—
+
+(a) only has functions relating to the provision of health services,
+
+(b) only has functions relating to the provision of adult social care, or
+
+(c) only has functions within paragraph (a) and paragraph (b).
+
+(3) The following are to be disregarded in determining whether subsection (2) applies to a person—
+
+(a) any power (however expressed) to do things which are incidental to the carrying out of another function of that person;
+
+(b) any function which the person exercises or may exercise on behalf of another person.
+
+(4) In this Chapter “health services” means—
+
+(a) services which must or may be provided as part of the health service as defined by section 275(1) of the National Health Service Act 2006 or section 206(1) of the National Health Service (Wales) Act 2006,
+
+(b) services which must or may be provided as part of the health service as defined by section 108(1) of the National Health Service (Scotland) Act 1978, or
+
+(c) services designed to secure any of the objects of section 2(1)(a) of the Health and Social Care (Reform) Act (Northern Ireland) 2009.
+
+(5) In this Chapter “adult social care” includes all forms of personal care and other practical assistance provided for individuals aged 18 or over who, by reason of age, illness, disability, pregnancy, childbirth, dependence on alcohol or drugs, or any other similar circumstances, are in need of such care or assistance.
+
+(6) References in this Chapter to information which identifies a particular person are to be read in accordance with section 64(12).
+
+### CHAPTER 6 — Disclosure by revenue authorities
+
+#### 74 Disclosure of non-identifying information by the Revenue and Customs
+
+(1) A Revenue and Customs official may disclose to any person information held by the Revenue and Customs in connection with a function of the Revenue and Customs if—
+
+(a) the information is non-identifying information, and
+
+(b) the official thinks that the disclosure would be in the public interest.
+
+(2) Information is non-identifying information for the purposes of this section if—
+
+(a) it is not, and has never been, identifying information, or
+
+(b) it has been created by combining identifying information, but is not itself identifying information.
+
+(3) Information is identifying information for the purposes of this section if it relates to a person whose identity—
+
+(a) is specified in the information,
+
+(b) can be deduced from the information, or
+
+(c) can be deduced from the information taken together with any other information.
+
+(4) In this section—
+
+(a) “Revenue and Customs official” has the meaning given by section 18(4)(a) of the Commissioners for Revenue and Customs Act 2005,
+
+(b) “the Revenue and Customs” has the meaning given by section 17(3) of that Act, and
+
+(c) “function of the Revenue and Customs” has the meaning given by section 18(4)(c) of that Act.
+
+#### 75 Disclosure of non-identifying information by the Welsh Revenue Authority
+
+(1) A relevant official of the Welsh Revenue Authority may disclose relevant information to any person if—
+
+(a) the information is non-identifying information, and
+
+(b) the official thinks that the disclosure would be in the public interest.
+
+(2) Information is non-identifying information for the purposes of this section if—
+
+(a) it is not, and has never been, identifying information, or
+
+(b) it has been created by combining identifying information, but is not itself identifying information.
+
+(3) Information is identifying information for the purposes of this section if it relates to a person whose identity—
+
+(a) is specified in the information,
+
+(b) can be deduced from the information, or
+
+(c) can be deduced from the information taken together with any other information.
+
+(4) In this section—
+
+(a) “relevant official of the Welsh Revenue Authority” means a person within any of paragraphs (a) to (d) of section 17(2) of the Tax Collection and Management (Wales) Act 2016, and
+
+(b) “relevant information” means information which—
+
+(i) is held by the Welsh Revenue Authority in connection with its functions, or
+
+(ii) is held by a person to whom any of the functions of the Welsh Revenue Authority have been delegated in connection with those functions.
+
+#### 76 Disclosure of non-identifying information by Revenue Scotland
+
+(1) A relevant official of Revenue Scotland may disclose to any person information held by a relevant person in connection with a relevant function if—
+
+(a) the information is non-identifying information, and
+
+(b) the official thinks that the disclosure would be in the public interest.
+
+(2) Information is non-identifying information for the purposes of this section if—
+
+(a) it is not, and has never been, identifying information, or
+
+(b) it has been created by combining identifying information, but is not itself identifying information.
+
+(3) Information is identifying information for the purposes of this section if it relates to a person whose identity—
+
+(a) is specified in the information,
+
+(b) can be deduced from the information, or
+
+(c) can be deduced from the information taken together with any other information.
+
+(4) In this section—
+
+(a) “relevant official of Revenue Scotland” means a relevant official as defined by section 15(2) of the Revenue Scotland and Tax Powers Act 2014,
+
+(b) “relevant person” has the meaning given by section 13(2) of that Act, and
+
+(c) “relevant function” means a function mentioned in section 13(3)(a), (b)(i) or (c)(i) of that Act.
+
+#### 77 Disclosure of employer reference information by the Revenue and Customs
+
+(1) A Revenue and Customs official may disclose employer reference information held by the Revenue and Customs to the Employers' Liability Tracing Office for use by it for the permitted purpose.
+
+(2) The Employers' Liability Tracing Office is the company registered in England and Wales with the company registration number 06964651.
+
+(3) The permitted purpose is the purpose of providing assistance in connection with—
+
+(a) claims against an employer, or an employer's insurer, arising from personal injury or death that occurred, or is alleged to have occurred, in the course of a person's employment by that employer, or
+
+(b) applications for a payment under the Diffuse Mesothelioma Payment Scheme established under the Mesothelioma Act 2014.
+
+(4) “Employer reference information” means any of the following information relating to an employer—
+
+(a) the employer's name and address;
+
+(b) any combination of numbers, letters or characters that is uniquely associated with the employer and used by the Revenue and Customs to identify or refer to the employer, whether generally or for particular purposes.
+
+(5) References in this section to an employer include references to a person who has at any time been an employer.
+
+(6) In this section—
+
+- “employer” and “employment” have the same meaning as in the employment income Parts of the Income Tax (Earnings and Pensions) Act 2003;
+- “Revenue and Customs official” has the meaning given by section 18(4)(a) of the Commissioners for Revenue and Customs Act 2005;
+- “the Revenue and Customs” has the meaning given by section 17(3) of that Act.
+
+### CHAPTER 7 — Statistics
+
+#### 78 Disclosure of information by the Revenue and Customs to the Statistics Board
+
+(1) Section 45 of the Statistics and Registration Service Act 2007 (disclosure of HMRC information to the Statistics Board) is amended as follows.
+
+(2) In subsection (2) omit “, other than its function under section 22 (statistical services)”.
+
+(3) After subsection (2) insert—
+
+> (2A) In determining whether the condition in subsection (2) is met the Commissioners must have regard to any views of the Board which have been communicated to them.
+
+(4) In subsection (3) omit “, other than its function under section 22”.
+
+(5) After that subsection insert—
+
+> (3A) Information disclosed under subsection (1) may not be used by the Board for the purposes of its function under section 22 (statistical services) except with the consent of the Commissioners.
+
+(6) After subsection (4) insert—
+
+> (4A) In disclosing information under subsection (1), the Commissioners or an officer of Revenue and Customs must have regard to the following codes of practice issued by the Information Commissioner under section 51(3) of the Data Protection Act 1998, so far as they apply to the information in question—
+>
+> (a) any code which makes provision about the identification and reduction of the risks to privacy of a proposal to disclose information;
+>
+> (b) any code which makes provision about the information to be provided to data subjects (within the meaning of that Act) about the use to be made of information collected from them.
+>
+> (4B) The duty in subsection (4A) to have regard to a code of practice does not affect any other requirement for the Commissioners or an officer of Revenue and Customs to have regard to a code of practice under the Data Protection Act 1998 in disclosing the information.
+>
+> (4C) In determining how to comply with the duty in subsection (4A) the Commissioners or the officer of Revenue and Customs must have regard to any views of the Board which are communicated to the Commissioners or the officer.
+
+(7) Omit subsection (5) (which prevents the disclosure of personal information not relating to imports or exports).
+
+#### 79 Disclosure of information by public authorities to the Statistics Board
+
+(1) The Statistics and Registration Service Act 2007 is amended as follows.
+
+(2) After section 45 insert—
+
+> **45A Information held by other public authorities**
+>
+> (1) A public authority to which this section applies may, subject to this section, disclose to the Board any information held by the authority in connection with its functions.
+>
+> (2) This section applies to a public authority other than—
+>
+> (a) the Commissioners for Her Majesty's Revenue and Customs, or
+>
+> (b) an officer of Revenue and Customs.
+>
+> (3) A public authority may disclose information under subsection (1) only if it is satisfied that the Board requires the information to enable it to exercise one or more of its functions.
+>
+> (4) In determining whether the condition in subsection (3) is met the public authority must have regard to any views of the Board which have been communicated to the authority.
+>
+> (5) Information disclosed under subsection (1) may only be used by the Board for the purposes of any one or more of its functions.
+>
+> (6) Information disclosed under subsection (1) may not be used by the Board for the purposes of its function under section 22 (statistical services) except with the consent of the public authority which disclosed the information.
+>
+> (7) Where personal information is disclosed by a public authority to the Board under subsection (1), the Board may not disclose the information to an approved researcher under section 39(4)(i) except with the consent of the public authority.
+>
+> (8) In disclosing information under subsection (1), a public authority must have regard to the following codes of practice issued by the Information Commissioner under section 51(3) of the Data Protection Act 1998, so far as they apply to the information in question—
+>
+> (a) any code which makes provision about the identification and reduction of the risks to privacy of a proposal to disclose information;
+>
+> (b) any code which makes provision about the information to be provided to data subjects (within the meaning of that Act) about the use to be made of information collected from them.
+>
+> (9) The duty in subsection (8) to have regard to a code of practice does not affect any other requirement for the public authority to have regard to a code of practice under the Data Protection Act 1998 in disclosing the information.
+>
+> (10) In determining how to comply with the duty in subsection (8) the public authority must have regard to any views of the Board which are communicated to the authority.
+>
+> (11) A disclosure under subsection (1) does not breach—
+>
+> (a) any obligation of confidence owed by the public authority making the disclosure, or
+>
+> (b) any other restriction on the disclosure of information (however imposed).
+>
+> (12) But subsection (1) does not authorise the making of a disclosure which—
+>
+> (a) contravenes the Data Protection Act 1998,
+>
+> (b) is prohibited by any of Parts 1 to 7 or Chapter 1 of Part 9 of the Investigatory Powers Act 2016, or
+>
+> (c) contravenes directly applicable EU legislation or any enactment to the extent that it implements EU legislation.
+>
+> (13) Until the repeal of Part 1 of the Regulation of Investigatory Powers Act 2000 by paragraphs 45 and 54 of Schedule 10 to the Investigatory Powers Act 2016 is fully in force, subsection (12)(b) has effect as if it included a reference to that Part.
+>
+> (14) This section does not limit the circumstances in which information may be disclosed apart from this section.
+
+(3) Omit—
+
+(a) section 47 (power to authorise disclosure to the Board);
+
+(b) section 48 (power to authorise disclosure to the Board: Scotland);
+
+(c) section 49 (power to authorise disclosure to the Board: Northern Ireland).
+
+(4) In section 54 (Data Protection Act 1998 and Human Rights Act 1998) for “47” substitute “ 50 ”.
+
+(5) In section 65 (orders and regulations)—
+
+(a) in subsection (4) omit “47(11),”,
+
+(b) in subsection (5)(b) omit “47,”,
+
+(c) in subsection (6)(b) omit “48 or”, and
+
+(d) in subsection (9)(c) omit “49 or”.
+
+(6) In section 67 (general interpretation) for the definition of “enactment” substitute—
+
+> “enactment” includes—
+>
+> (a) an enactment contained in subordinate legislation within the meaning of the Interpretation Act 1978;
+>
+> (b) an enactment contained in, or in an instrument made under, an Act of the Scottish Parliament;
+>
+> (c) an enactment contained in, or in an instrument made under, a Measure or Act of the National Assembly for Wales;
+>
+> (d) an enactment contained in, or in an instrument made under, Northern Ireland legislation;
+
+.
+
+#### 80 Access to information by the Statistics Board
+
+After section 45A of the Statistics and Registration Service Act 2007 (inserted by section 79) insert—
+
+> **45B Access to information held by Crown bodies etc**
+>
+> (1) This section applies to—
+>
+> (a) a public authority which is an emanation of the Crown or a servant or agent of the Crown,
+>
+> (b) the Bank of England (including in the exercise of its functions as the Prudential Regulation Authority),
+>
+> (c) a subsidiary undertaking of the Bank of England within the meaning of the Companies Acts (see sections 1161 and 1162 of the Companies Act 2006),
+>
+> (d) the Financial Conduct Authority, and
+>
+> (e) the Payment Systems Regulator established under section 40 of the Financial Services (Banking Reform) Act 2013.
+>
+> (2) Subject to this section and section 45E, the Board has a right of access to information which—
+>
+> (a) is held by a public authority to which this section applies in connection with its functions, and
+>
+> (b) is required by the Board to enable it to exercise one or more of its functions.
+>
+> (3) Subsection (2) does not apply to information if the disclosure of that information—
+>
+> (a) would contravene the Data Protection Act 1998,
+>
+> (b) would be prohibited by any of Parts 1 to 7 or Chapter 1 of Part 9 of the Investigatory Powers Act 2016, or
+>
+> (c) would contravene directly applicable EU legislation or any enactment to the extent that it implements EU legislation.
+>
+> (4) Until the repeal of Part 1 of the Regulation of Investigatory Powers Act 2000 by paragraphs 45 and 54 of Schedule 10 to the Investigatory Powers Act 2016 is fully in force, subsection (3)(b) has effect as if it included a reference to that Part.
+>
+> (5) The right of access in subsection (2) is to be exercised in accordance with the following provisions of this section.
+>
+> (6) The Board may, by notice in writing to the public authority, request the authority to disclose the information to the Board.
+>
+> (7) A notice under subsection (6) must—
+>
+> (a) set out the Board's reasons for requesting the information to be disclosed, and
+>
+> (b) specify the date by which or the period within which the public authority must respond to the request.
+>
+> (8) The public authority must, by that date or within that period, provide a response in writing to the Board which—
+>
+> (a) indicates that it is willing to provide the information and gives the date by which it will be provided, or
+>
+> (b) indicates that it is not willing to provide the information and gives reasons for not providing it.
+>
+> (9) Subsection (10) applies if—
+>
+> (a) the public authority fails to respond to the request in accordance with subsection (8),
+>
+> (b) the public authority indicates that it is not willing to provide the information requested, or
+>
+> (c) the public authority has indicated that it is willing to provide the information requested, but the Board considers that the public authority is failing to take reasonable steps to comply with that request.
+>
+> (10) The Board may lay the request and any response by the public authority before the relevant legislature.
+>
+> (11) In subsection (10) “the relevant legislature” means Parliament, subject as follows.
+>
+> (12) The Scottish Parliament is the relevant legislature if the public authority—
+>
+> (a) is a part of the Scottish Administration, or
+>
+> (b) is a Scottish public authority with mixed functions or no reserved functions (within the meaning of the Scotland Act 1998).
+>
+> (13) The National Assembly for Wales is the relevant legislature if the public authority is a devolved Welsh authority as defined by section 157A of the Government of Wales Act 2006.
+>
+> (14) The Northern Ireland Assembly is the relevant legislature if—
+>
+> (a) the public authority exercises functions only as regards Northern Ireland, and
+>
+> (b) its functions are wholly or mainly functions which relate to transferred matters (within the meaning of the Northern Ireland Act 1998).
+>
+> (15) This section does not apply to—
+>
+> (a) Her Majesty in Her private capacity,
+>
+> (b) Her Majesty in right of the Duchy of Lancaster, or
+>
+> (c) the Duke of Cornwall.
+>
+> (16) Until the coming into force of section 12 of the Bank of England and Financial Services Act 2016 subsection (1)(b) has effect as if the words in brackets were omitted.
+>
+> **45C Power to require disclosures by other public authorities**
+>
+> (1) This section applies to a public authority to which section 45B does not apply (other than one within subsection (15) of that section).
+>
+> (2) Subject to this section and section 45E, the Board may, by notice in writing to a public authority to which this section applies, require the authority to disclose to the Board information which—
+>
+> (a) is held by the authority in connection with its functions, and
+>
+> (b) is specified, or is of a kind specified, in the notice.
+>
+> (3) A notice under subsection (2) may require information to be disclosed on more than one date specified in the notice within a period specified in the notice.
+>
+> (4) A notice under subsection (2) other than one within subsection (3) must specify the date by which or the period within which the information must be disclosed.
+>
+> (5) A notice under subsection (2) may specify the form or manner in which the information to which it relates must be disclosed.
+>
+> (6) A notice under subsection (2) may require the public authority to consult the Board before making changes to—
+>
+> (a) its processes for collecting, organising, storing or retrieving the information to which the notice relates, or
+>
+> (b) its processes for supplying such information to the Board.
+>
+> (7) The reference in subsection (6) to making changes to a process includes introducing or removing a process.
+>
+> (8) The Board may give a notice under subsection (2) only if the Board requires the information to which the notice relates to enable it to exercise one or more of its functions.
+>
+> (9) The Board must obtain the consent of the Scottish Ministers before giving a notice under subsection (2) to a public authority which is a Scottish public authority with mixed functions or no reserved functions (within the meaning of the Scotland Act 1998).
+>
+> (10) The Board must obtain the consent of the Welsh Ministers before giving a notice under subsection (2) to a public authority which is a devolved Welsh authority as defined by section 157A of the Government of Wales Act 2006.
+>
+> (11) The Board must obtain the consent of the Department of Finance in Northern Ireland before giving a notice under subsection (2) to a public authority if—
+>
+> (a) the public authority exercises functions only as regards Northern Ireland, and
+>
+> (b) its functions are wholly or mainly functions which relate to transferred matters (within the meaning of the Northern Ireland Act 1998).
+>
+> (12) A public authority to which a notice under subsection (2) is given must comply with it.
+>
+> (13) But the public authority need not comply with the notice if compliance—
+>
+> (a) might prejudice national security,
+>
+> (b) would contravene the Data Protection Act 1998,
+>
+> (c) would be prohibited by any of Parts 1 to 7 or Chapter 1 of Part 9 of the Investigatory Powers Act 2016, or
+>
+> (d) would contravene directly applicable EU legislation or any enactment to the extent that it implements EU legislation.
+>
+> (14) Until the repeal of Part 1 of the Regulation of Investigatory Powers Act 2000 by paragraphs 45 and 54 of Schedule 10 to the Investigatory Powers Act 2016 is fully in force, subsection (13)(c) has effect as if it included a reference to that Part.
+>
+> **45D Power to require disclosure by undertakings**
+>
+> (1) Subject to this section and section 45E, the Board may, by notice in writing to an undertaking, require the undertaking to disclose to the Board information which—
+>
+> (a) is held by the undertaking, and
+>
+> (b) is specified, or is of a kind specified, in the notice.
+>
+> (2) A notice under subsection (1) may require information to be disclosed on more than one date specified in the notice within a period specified in the notice.
+>
+> (3) A notice under subsection (1) other than one within subsection (2) must specify the date by which or the period within which the information must be disclosed.
+>
+> (4) A notice under subsection (1) may specify the form or manner in which the information to which it relates must be disclosed.
+>
+> (5) A notice under subsection (1) may require the undertaking to consult the Board before making changes to—
+>
+> (a) its processes for collecting, organising, storing or retrieving the information to which the notice relates, or
+>
+> (b) its processes for supplying such information to the Board.
+>
+> (6) The reference in subsection (5) to making changes to a process includes introducing or removing a process.
+>
+> (7) The Board may give a notice under subsection (1) only if the Board requires the information to which the notice relates to enable it to exercise one or more of its functions.
+>
+> (8) An undertaking to which a notice under subsection (1) is given must comply with it.
+>
+> (9) But the undertaking need not comply with the notice if compliance—
+>
+> (a) might prejudice national security,
+>
+> (b) would contravene the Data Protection Act 1998, or
+>
+> (c) would be prohibited by any of Parts 1 to 7 or Chapter 1 of Part 9 of the Investigatory Powers Act 2016.
+>
+> (10) Until the repeal of Part 1 of the Regulation of Investigatory Powers Act 2000 by paragraphs 45 and 54 of Schedule 10 to the Investigatory Powers Act 2016 is fully in force, subsection (9)(c) has effect as if it included a reference to that Part.
+>
+> (11) Subject to subsection (13), in this section “undertaking” means—
+>
+> (a) any person carrying on a trade or business, whether or not with a view to profit, or
+>
+> (b) any charity.
+>
+> (12) In subsection (11) “charity” means a body, or the trustees of a trust, established for charitable purposes only.
+>
+> (13) The following are not undertakings for the purposes of this section—
+>
+> (a) a public authority;
+>
+> (b) a micro business;
+>
+> (c) a small business.
+>
+> (14) Section 33 of the Small Business, Enterprise and Employment Act 2015 (definitions of small and micro business) and regulations made under that section apply in relation to subsection (13) as they apply in relation to subordinate legislation within subsection (1) of that section.
+>
+> **45E Further provisions about powers in sections 45B, 45C and 45D**
+>
+> (1) Information disclosed under section 45B, 45C or 45D may only be used by the Board for the purposes of any one or more of its functions.
+>
+> (2) Information disclosed under section 45B, 45C or 45D may not be used by the Board for the purposes of its function under section 22 (statistical services) except with the consent of the person who disclosed the information.
+>
+> (3) Where personal information is disclosed under section 45B, 45C or 45D, the Board may not disclose the information to an approved researcher under section 39(4)(i) except with the consent of the person who disclosed the information.
+>
+> (4) A disclosure pursuant to section 45B, 45C or 45D does not breach—
+>
+> (a) any obligation of confidence owed by the person making the disclosure, or
+>
+> (b) any other restriction on the disclosure of information (however imposed).
+>
+> (5) The Board must prepare and publish a statement of—
+>
+> (a) the principles to which it will have regard in exercising its functions under sections 45B, 45C and 45D, and
+>
+> (b) the procedures which it will adopt in exercising those functions.
+>
+> (6) The statement must be consistent with the code of practice issued under section 52B (data-sharing code) of the Data Protection Act 1998 (as altered or replaced from time to time).
+>
+> (7) The Board may at any time revise the statement and, if it decides to do so, must publish the statement as revised.
+>
+> (8) In preparing or revising the statement the Board must consult—
+>
+> (a) the Minister for the Cabinet Office,
+>
+> (b) the Information Commissioner,
+>
+> (c) the Scottish Ministers,
+>
+> (d) the Welsh Ministers,
+>
+> (e) the Department of Finance in Northern Ireland, and
+>
+> (f) such other persons as the Board thinks fit.
+>
+> (9) The fact that this section was not in force when consultation of the kind mentioned in subsection (8) took place is to be disregarded in determining whether there has been compliance with that subsection.
+>
+> (10) The Board may not publish the original statement under this section unless a draft of the statement has been laid before, and approved by a resolution of, each House of Parliament.
+>
+> (11) Before publishing a revised statement under this section the Board must lay a draft of the statement as proposed to be published before Parliament.
+>
+> (12) The Board may not publish the revised statement if, within the 40-day period, either House of Parliament resolves not to approve it.
+>
+> (13) In subsection (12) “the 40 day period” means—
+>
+> (a) the period of 40 days beginning with the day on which the draft is laid before Parliament, or
+>
+> (b) if the draft is not laid before each House on the same day, the period of 40 days beginning with the later of the days on which it is laid before Parliament.
+>
+> (14) For the purposes of subsection (13) no account is to be taken of any period during which Parliament is dissolved or prorogued or during which both Houses are adjourned for more than four days.
+>
+> (15) After preparing or revising a statement the Board must lay the statement, or the statement as revised, before—
+>
+> (a) the Scottish Parliament,
+>
+> (b) the National Assembly for Wales, and
+>
+> (c) the Northern Ireland Assembly.
+>
+> (16) In exercising any of its functions under section 45B, 45C or 45D to require the disclosure of information, the Board must have regard to any code of practice issued by the Information Commissioner under section 51(3) of the Data Protection Act 1998 which makes provision about the identification and reduction of the risks to privacy of a proposal to disclose information, so far as the code applies to the information in question.
+>
+> (17) The duty in subsection (16) to have regard to a code of practice does not affect any other requirement for the Board to have regard to a code of practice under the Data Protection Act 1998 in exercising the function.
+>
+> **45F Offences relating to notices under section 45C or 45D**
+>
+> (1) A person is guilty of an offence if—
+>
+> (a) the person is given a notice under section 45C or 45D,
+>
+> (b) the person is required to comply with the notice,
+>
+> (c) the person fails to do so, and
+>
+> (d) the person does not have a reasonable excuse for that failure.
+>
+> (2) A person is guilty of an offence if, in purporting to comply with a notice under section 45C or 45D, the person—
+>
+> (a) provides information which is false in a material respect, and
+>
+> (b) knows that the information is false in that respect or is reckless as to whether it is false in that respect.
+>
+> (3) A person who is guilty of an offence under subsection (1) or (2) is liable on summary conviction—
+>
+> (a) in England and Wales, to a fine, and
+>
+> (b) in Scotland or Northern Ireland, to a fine not exceeding level 5 on the standard scale.
+>
+> (4) If an offence under this section is committed by a body corporate with the consent or connivance of an officer of the body, the officer, as well as the body, is to be treated as having committed the offence.
+>
+> (5) In subsection (4) a reference to an officer of a body includes a reference to—
+>
+> (a) a director, manager or secretary,
+>
+> (b) a person purporting to act as a director, manager or secretary, and
+>
+> (c) if the affairs of the body are managed by its members, a member.
+>
+> (6) Where an offence under this section is committed by a partnership (whether or not a limited partnership) subsection (4) has effect, but as if a reference to an officer of the body were a reference to—
+>
+> (a) a partner, and
+>
+> (b) a person purporting to act as a partner.
+>
+> **45G Code of practice on changes to data systems**
+>
+> (1) The Board must prepare, adopt and publish a code of practice containing guidance on the matters to be taken into account by a public authority in making changes to—
+>
+> (a) its processes for collecting, organising, storing or retrieving information, or
+>
+> (b) its processes (if any) for supplying information to the Board.
+>
+> (2) A public authority must have regard to any code of practice under this section in making such changes.
+>
+> (3) The Board may at any time revise a code of practice under this section and, if it decides to do so, must publish the code as revised.
+>
+> (4) In preparing or revising a code of practice under this section, the Board must consult—
+>
+> (a) the Minister for the Cabinet Office,
+>
+> (b) the Scottish Ministers,
+>
+> (c) the Welsh Ministers,
+>
+> (d) the Department of Finance in Northern Ireland, and
+>
+> (e) such other persons as the Board thinks fit.
+>
+> (5) The fact that this section was not in force when consultation of the kind mentioned in subsection (4) took place is to be disregarded in determining whether there has been compliance with that subsection.
+>
+> (6) The Board may not publish the original code of practice under this section unless a draft of the code has been laid before, and approved by a resolution of, each House of Parliament
+>
+> (7) Before publishing a revised code of practice under this section the Board must lay a draft of the code as proposed to be published before Parliament.
+>
+> (8) The Board may not publish the revised code of practice if, within the 40-day period, either House of Parliament resolves not to approve it.
+>
+> (9) In subsection (8) “the 40 day period” means—
+>
+> (a) the period of 40 days beginning with the day on which the draft is laid before Parliament, or
+>
+> (b) if the draft is not laid before each House on the same day, the period of 40 days beginning with the later of the days on which it is laid before Parliament.
+>
+> (10) For the purposes of subsection (9) no account is to be taken of any period during which Parliament is dissolved or prorogued or during which both Houses are adjourned for more than four days.
+>
+> (11) After preparing or revising a code of practice under this section the Board must lay the code, or the code as revised, before—
+>
+> (a) the Scottish Parliament,
+>
+> (b) the National Assembly for Wales, and
+>
+> (c) the Northern Ireland Assembly.
+>
+> (12) The reference in subsection (1) to making changes to a process includes introducing or removing a process.
+>
+> (13) This section binds the Crown.
+>
+> (14) The reference to the Crown in subsection (13) does not include—
+>
+> (a) Her Majesty in Her private capacity,
+>
+> (b) Her Majesty in right of the Duchy of Lancaster, or
+>
+> (c) the Duke of Cornwall.
+
+#### 81 Disclosure by the Statistics Board to devolved administrations
+
+After section 53 of the Statistics and Registration Service Act 2007 insert—
+
+> **53A Disclosure by the Board to devolved administrations**
+>
+> (1) Subject to this section, the Board may disclose information held by the Board in connection with the exercise of any of its functions to a devolved authority.
+>
+> (2) In this section “devolved authority” means—
+>
+> (a) a person who is a part of the Scottish Administration,
+>
+> (b) the Welsh Ministers,
+>
+> (c) the Department of Finance in Northern Ireland, or
+>
+> (d) the Registrar General for Northern Ireland.
+>
+> (3) Information may only be disclosed under this section for the purposes of any or all of the statistical functions of a devolved authority.
+>
+> (4) Information may only be disclosed under this section in response to a request in writing by a devolved authority which specifies—
+>
+> (a) the information which is sought, and
+>
+> (b) the purposes for which it is sought.
+>
+> (5) A request under subsection (4) may request information to be disclosed on more than one date specified in the notice within a period specified in the notice.
+>
+> (6) Information may be disclosed under this section only if—
+>
+> (a) the Board is satisfied that the information is required for the purposes of the statistical functions of the devolved authority which are specified in the request,
+>
+> (b) the Board is satisfied that the information will not be used for any other purpose, and
+>
+> (c) if the information was obtained by the Board from a public authority, the authority consents to the disclosure.
+>
+> (7) The Board may—
+>
+> (a) disclose information under this section subject to conditions to be met by the devolved authority;
+>
+> (b) from time to time modify conditions subject to which information has been disclosed;
+>
+> (c) in the case of information which it is disclosing in response to a request to which subsection (5) applies, cease to disclose information in response to the request if any of the conditions are breached.
+>
+> (8) A devolved authority may only use information disclosed under this section for the purposes for which it was disclosed.
+>
+> (9) In disclosing information under subsection (1), the Board must have regard to the following codes of practice issued by the Information Commissioner under section 51(3) of the Data Protection Act 1998, so far as they apply to the information in question—
+>
+> (a) any code which makes provision about the identification and reduction of the risks to privacy of a proposal to disclose information;
+>
+> (b) any code which makes provision about the information to be provided to data subjects (within the meaning of that Act) about the use to be made of information collected from them.
+>
+> (10) The duty in subsection (9) to have regard to a code of practice does not affect any other requirement for the Board to have regard to a code of practice under the Data Protection Act 1998 in disclosing the information.
+>
+> (11) In the application of section 39 to personal information which has been disclosed to a devolved authority under this section, paragraphs (c) and (i) of subsection (4) of that section do not apply.
+>
+> (12) This section does not authorise the making of a disclosure which would—
+>
+> (a) breach any obligation of confidence owed by the Board,
+>
+> (b) contravene the Data Protection Act 1998,
+>
+> (c) be prohibited by any of Parts 1 to 7 or Chapter 1 of Part 9 of the Investigatory Powers Act 2016, or
+>
+> (d) breach any other restriction on the disclosure of information (however imposed).
+>
+> (13) Until the repeal of Part 1 of the Regulation of Investigatory Powers Act 2000 by paragraphs 45 and 54 of Schedule 10 to the Investigatory Powers Act 2016 is fully in force, subsection (12)(c) has effect as if it included a reference to that Part.
+>
+> (14) Nothing in this section affects the scope of the powers in sections 51 to 53.
+
+## PART 6 — Miscellaneous
+
+### OFCOM: reports etc
+
+#### 82 OFCOM reports on infrastructure etc
+
+(1) The Communications Act 2003 is amended as follows.
+
+(2) After section 134A insert—
+
+> **134AA Additional OFCOM reports on infrastructure etc**
+>
+> (1) OFCOM may prepare reports dealing with—
+>
+> (a) any of the electronic communications network matters listed in section 134B(1);
+>
+> (b) any of the electronic communications services matters listed in section 134B(2).
+>
+> (2) OFCOM may publish a report under this section in such manner as they consider appropriate for bringing it to the attention of persons who, in their opinion, are likely to have an interest in it.
+>
+> (3) Before publishing a report under this section OFCOM must consider—
+>
+> (a) whether any of the information to be contained in it is information that they could refuse to disclose in response to a request under the Freedom of Information Act 2000, and
+>
+> (b) if so, whether that information should be excluded from the report.
+>
+> (4) This section does not affect OFCOM's duty to prepare reports under section 134A.
+>
+> **134AB Publication of information required for purpose of preparing reports**
+>
+> (1) OFCOM may publish—
+>
+> (a) any relevant section 135 information, and
+>
+> (b) any information derived from relevant section 135 information.
+>
+> (2) Before publishing information under this section OFCOM must consider—
+>
+> (a) whether any of the information that they propose to publish is information that they could refuse to disclose in response to a request under the Freedom of Information Act 2000, and
+>
+> (b) if so, whether that information should be published.
+>
+> (3) In this section “relevant section 135 information” means information required by OFCOM under section 135 for the purpose of preparing a report under section 134A or 134AA.
+
+(3) In section 134B (networks and services matters)—
+
+(a) in subsections (1) and (2), for “section 134A” substitute “ sections 134A and 134AA ”, and
+
+(b) in subsection (4), after “134A” insert “ or 134AA ”.
+
+(4) In section 135(3) (information required for purposes of OFCOM functions), after paragraph (ic) insert—
+
+> (ica) preparing a report under section 134AA;
+
+.
+
+(5) In section 393(6)(a) (general restrictions on disclosure of information), after “26” insert “ , 134AB ”.
+
+#### 83 Comparative overviews of quality and prices
+
+(1) The Communications Act 2003 is amended as follows.
+
+(2) After section 134C insert—
+
+> **Comparative overviews**
+>
+> **134D Comparative overviews of quality and prices**
+>
+> (1) OFCOM may, in the interest of the end-users of public electronic communications services, carry out comparative overviews of the quality and prices of such services.
+>
+> (2) OFCOM may publish a comparative overview carried out under this section in such manner as they consider appropriate for bringing it to the attention of persons who, in their opinion, are likely to have an interest in it.
+
+(3) In section 136 (information required for related purposes)—
+
+(a) in subsection (1) for “specified in subsection (2)” substitute “ of carrying out comparative overviews under section 134D ”, and
+
+(b) omit subsection (2).
+
+(4) In section 393(6) (general restrictions on disclosure of information), after paragraph (b) insert—
+
+> (ba) limits the matters that may be published as part of a comparative overview carried out by OFCOM under section 134D;
+
+.
+
+### OFCOM: information
+
+#### 84 Conditions about allocation of telephone numbers
+
+In section 58 of the Communications Act 2003 (conditions about allocation and adoption of telephone numbers), after subsection (2) insert—
+
+> (2A) General conditions may also require a communications provider to whom telephone numbers have been allocated—
+>
+> (a) to provide OFCOM with any information that was not required to accompany the application for allocation of the numbers when it was made but which is now required to accompany such applications;
+>
+> (b) to inform OFCOM of any changes to information that accompanied the application for allocation of the numbers or that has been provided in accordance with a condition set under paragraph (a);
+>
+> (c) to inform OFCOM of any proposal by the provider to cease to provide an electronic communications network or electronic communications service;
+>
+> (d) to inform OFCOM of any circumstances or events of a description specified in the condition.
+
+#### 85 Provision of information to OFCOM
+
+(1) Section 135 of the Communications Act 2003 (information required for purposes of functions) is amended as follows.
+
+(2) For subsection (1) substitute—
+
+> (1) OFCOM may require a person falling within subsection (2) to provide them with all such information as they consider necessary for the purpose of carrying out their functions under—
+>
+> (a) section 14(1),
+>
+> (b) section 26, so far as relating to matters in relation to which they have functions under this Chapter, or
+>
+> (c) this Chapter.
+
+(3) In the heading for “Chapter 1” substitute “ certain OFCOM ”.
+
+#### 86 Information required from communications providers
+
+(1) The Communications Act 2003 is amended as follows.
+
+(2) After section 137 insert—
+
+> **137A Information required from communications providers**
+>
+> (1) OFCOM may require a communications provider—
+>
+> (a) to publish any information held by the provider, or
+>
+> (b) to provide any such information to OFCOM for publication by OFCOM.
+>
+> (2) The information that OFCOM may require the communications provider to publish or provide under subsection (1) includes information that OFCOM require the provider to produce, generate or obtain for that purpose.
+>
+> (3) For that purpose OFCOM may, in particular, require the communications provider—
+>
+> (a) to collect or retain any information that the provider would not otherwise collect or retain,
+>
+> (b) to process, collate or analyse any information held by the provider, or
+>
+> (c) to answer any questions.
+>
+> (4) The power conferred by this section may be exercised only—
+>
+> (a) in connection with OFCOM's functions—
+>
+> (i) under Part 1, so far as relating to electronic communications, or
+>
+> (ii) under this Chapter, and
+>
+> (b) in such a way as is proportionate to the use to which the information is to be put in connection with those functions.
+>
+> (5) The power conferred by this section is to be exercised by a demand, contained in a notice served on the communications provider, that—
+>
+> (a) describes the information required to be published or provided, and
+>
+> (b) sets out OFCOM's reasons for requiring it to be published or provided.
+>
+> (6) Before serving the notice on the communications provider, OFCOM must—
+>
+> (a) serve a draft of the notice on the provider and inform the provider of the period for making representations, and
+>
+> (b) consider any representations made by the provider within that period which—
+>
+> (i) identify restrictions on the disclosure or publication of information that would or might prevent the provider from complying with the notice, or
+>
+> (ii) otherwise relate to the practicability of complying with it.
+>
+> (7) The communications provider must publish or provide the information required by the notice in such manner and form, in accordance with such other requirements, and within such reasonable period, as may be specified by OFCOM.
+>
+> (8) Where OFCOM publish anything provided to them pursuant to subsection (1)(b) they must do so in such manner and form as they consider appropriate.
+>
+> **137B Section 137A: confidential matters**
+>
+> (1) In exercising functions under section 137A, OFCOM must have regard to the need to exclude from publication, so far as that is practicable, the matters which are confidential in accordance with subsections (2) and (3).
+>
+> (2) A matter is confidential under this subsection if—
+>
+> (a) it relates specifically to the affairs of a particular body, and
+>
+> (b) publication of that matter would or might, in OFCOM's opinion, seriously and prejudicially affect the interests of that body.
+>
+> (3) A matter is confidential under this subsection if—
+>
+> (a) it relates to the private affairs of an individual, and
+>
+> (b) publication of that matter would or might, in OFCOM's opinion, seriously and prejudicially affect the interests of that individual.
+
+(3) In section 138 (notification of contravention of information requirements)—
+
+(a) in subsection (1), for “135 or 136” substitute “ 135, 136 or 137A ”, and
+
+(b) for subsection (2)(d) substitute—
+
+> (d) specifies what the person must do in order to comply with the requirement;
+
+.
+
+(4) In section 140 (suspending service provision for information contraventions), in subsections (1)(a) and (7), for “135 and 136, or either” substitute “ 135, 136 and 137A, or any ”.
+
+(5) In section 144 (offences in connection with information requirements)—
+
+(a) in subsection (1), after “or 136” insert “ , or who contravenes a requirement imposed under section 137A, ”,
+
+(b) in subsection (2)(b), for “provide the required information” substitute “ comply with the requirement ”,
+
+(c) in subsection (3)—
+
+(i) for “135 or 136” substitute “ 135, 136 or 137A ”, and
+
+(ii) after “provides” (in both places) insert “ or publishes ”, and
+
+(d) in subsection (5), for paragraph (b) substitute—
+
+> (b) a confirmation decision has been given under section 139A in respect of that requirement and the period allowed under that decision has expired without the requirement have been complied with; and
+
+.
+
+(6) In section 145(1) (statement of policy on information gathering)—
+
+(a) in paragraph (a), for “135 to 136” substitute “ 135, 136 and 137A ”, and
+
+(b) in paragraph (b), for “those sections” substitute “ sections 135 and 136 ”.
+
+(7) In section 393(6)(a) (general restrictions on disclosure of information), before “or 390” insert “ , 137A ”.
+
+### Appeals
+
+#### 87 Appeals from decisions of OFCOM and others: standard of review
+
+(1) The Communications Act 2003 is amended as follows.
+
+(2) In section 193(2) (reference of price control matters to the CMA), for “is to be performed” substitute “ , having regard to the principles to be applied by the Tribunal under section 194A(2), is to be performed ”.
+
+(3) In subsection (6) of that section omit “on the merits under section 195”.
+
+(4) Before section 195 (decisions of the Tribunal) insert—
+
+> **194A Disposal of appeals under section 192 (other than against certain decisions of Secretary of State)**
+>
+> (1) This section applies to an appeal against a decision referred to in section 192(1)(a), (b), (c), (d)(iii) or (e).
+>
+> (2) The Tribunal must decide the appeal, by reference to the grounds of appeal set out in the notice of appeal, by applying the same principles as would be applied by a court on an application for judicial review.
+>
+> (3) The Tribunal may—
+>
+> (a) dismiss the appeal or quash the whole or part of the decision to which it relates; and
+>
+> (b) where it quashes the whole or part of that decision, remit the matter back to the decision-maker with a direction to reconsider and make a new decision in accordance with the ruling of the Tribunal.
+>
+> (4) The decision-maker must comply with a direction under subsection (3)(b).
+>
+> (5) In its application to a decision of the Tribunal under this section, paragraph 1(2)(b) of Schedule 4 to the Enterprise Act 2002 (exclusion of commercial information from documents recording Tribunal decisions) is to have effect as if, for the reference to the undertaking to which commercial information relates, there were substituted a reference to any person to whom it relates.
+>
+> (6) In this section “the decision-maker” means the person who made the decision appealed against.
+
+(5) Section 195 (decisions of the Tribunal) is amended as follows.
+
+(6) For subsection (1) substitute—
+
+> (1) This section applies to an appeal against a decision referred to in section 192(1)(d)(i), (ii), (iia) or (iv).
+
+(7) Until section 20(2) of the Digital Economy Act 2010 comes into force, the amendment made by subsection (6) has effect with the omission of “, (iia)”.
+
+(8) In subsections (3) to (6), for “the decision-maker” in each place substitute “ the Secretary of State ”.
+
+(9) Omit subsection (9).
+
+(10) For the title substitute “ Disposal of appeals under section 192 against certain decisions of Secretary of State ”.
+
+(11) In section 317 (exercise of Broadcasting Act powers for a competition purpose), for subsection (7) substitute—
+
+> (7) Sections 192(3) to (5), (7) and (8), 194A and 196 apply in the case of an appeal under subsection (6) as they apply in the case of an appeal under section 192(2).
+
+(12) The amendments made by this section do not apply in relation to appeals against decisions made before this section comes into force.
+
+### Regulation and functions of BBC
+
+#### 88 Functions of OFCOM in relation to the BBC
+
+(1) The Communications Act is amended as follows.
+
+(2) Section 198 (functions of OFCOM in relation to the BBC) is amended as follows.
+
+(3) In subsection (1) for the words after paragraph (b) substitute—
+
+> to regulate the BBC.
+
+(4) After subsection (2) insert—
+
+> (2A) The BBC Charter and Agreement may in particular confer on OFCOM, as a power they are to have by virtue of subsection (2)(a), power to require any person to provide information for the purposes of the carrying out by OFCOM of their function under subsection (1).
+
+(5) Omit subsection (9).
+
+(6) After section 198 insert—
+
+> **198ZA Penalties for failure to provide information**
+>
+> (1) This section applies if—
+>
+> (a) under a power conferred by virtue of section 198(2A), OFCOM require a person other than the BBC to provide information, and
+>
+> (b) OFCOM determine that there are reasonable grounds to believe the person has not provided the information.
+>
+> (2) OFCOM may give the person a notice which sets out the determination and specifies—
+>
+> (a) what information the person must provide,
+>
+> (b) the time within which the person must provide it,
+>
+> (c) a penalty that OFCOM may impose if the person does not provide it, and
+>
+> (d) a period in which the person may make representations.
+>
+> (3) OFCOM may impose a penalty on the person if they fail without reasonable excuse to provide the information in accordance with the notice.
+>
+> (4) The penalty may include an amount for each day the person fails to provide the information after the time required by the notice.
+>
+> (5) The penalty in respect of any notice—
+>
+> (a) must not be more than OFCOM determine to be proportionate,
+>
+> (b) must not be more than the penalty specified in the notice, and
+>
+> (c) must not be more than £250,000.
+>
+> (6) OFCOM may withdraw a notice without imposing a penalty, and that does not affect the power to issue a further notice in relation to the same information.
+>
+> (7) OFCOM must publish and keep up to date a statement of their proposed approach to issuing notices and imposing and recovering penalties under this section (subject to the guidelines published under section 392).
+
+(7) The following cease to have effect—
+
+(a) in Part 3 of Schedule 1 to the House of Commons Disqualification Act 1975 (offices disqualifying for membership), the entry relating to a chairman, vice-chairman or ordinary member of the BBC Trust);
+
+(b) section 90A of the Scotland Act 1998 (BBC Trust member for Scotland);
+
+(c) section 16 of the Scotland Act 2012 (which inserts section 90A of the 1998 Act);
+
+(d) in section 77(2)(d) of the Deregulation Act 2015 (review of sanctions in relation to TV licensing), “and be presented to the BBC Trust”.
+
+#### 89 TV licence fee concessions by reference to age
+
+(1) The Communications Act 2003 is amended as follows.
+
+(2) Section 365 (TV licence fees) is amended as follows.
+
+(3) After subsection (1) insert—
+
+> (1A) Liability to pay a sum under regulations under subsection (1) is subject to any concession applying in accordance with a determination by the BBC under section 365A.
+
+(4) In subsection (4)(a) after “concession” insert “ provided for by the regulations ”.
+
+(5) In subsection (5) for “The reference to a concession in subsection (4)” substitute “ A reference in this section or section 365A to a concession ”.
+
+(6) After subsection (5) insert—
+
+> (5A) Regulations under this section may not provide for a concession that requires the person to whom the TV licence is issued, or another person, to be of or above a specified age, unless—
+>
+> (a) the age specified is below 65, and
+>
+> (b) the requirement is not satisfied if the person concerned is 65 or over at the end of the month in which the licence is issued.
+>
+> (5B) Subsection (5A) does not apply to—
+>
+> (a) the concession provided for by regulation 3(d) of and Schedule 4 to the Communications (Television Licensing) Regulations 2004 (S.I. 2004/692) (accommodation for residential care), or
+>
+> (b) a concession in substantially the same form.
+
+(7) After section 365 insert—
+
+> **365A TV licence fee concessions by reference to age**
+>
+> (1) For the purposes of section 365(1A) the BBC may determine that a concession in specified terms is to apply.
+>
+> (2) Any concession under this section must include a requirement that the person to whom the TV licence is issued, or another person, is of or above a specified age, which must be 65 or higher, at or before the end of the month in which the licence is issued.
+>
+> (3) A determination under this section—
+>
+> (a) may in particular provide for a concession to apply, subject to subsection (2), in circumstances where a concession has ceased to have effect by virtue of section 365(5A), but
+>
+> (b) may not provide for a concession to apply in the same circumstances as a concession within section 365(5B).
+>
+> (4) A determination under this section may include provision for the means by which an entitlement to a concession must be established.
+>
+> (5) A determination under this section—
+>
+> (a) may make different provision for different cases (including different provision in respect of different areas);
+>
+> (b) may include transitional provision.
+>
+> (6) A determination under this section—
+>
+> (a) must be in writing;
+>
+> (b) must be published in whatever way the BBC considers appropriate.
+>
+> (7) The BBC—
+>
+> (a) may vary a determination by a further determination under this section;
+>
+> (b) may determine that a concession is to cease to apply (and accordingly revoke a determination under this section).
+>
+> (8) Before making, varying or revoking a determination the BBC must consult any persons it considers appropriate.
+
+### Provision of children's programmes
+
+#### 90 Provision of children's programmes
+
+After section 289 of the Communications Act 2003 insert—
+
+> **Provision of children's programmes**
+>
+> **289A Provision of children's programmes**
+>
+> (1) OFCOM may, if they think fit, publish criteria to be applied in accordance with this section to the provision of children's programmes.
+>
+> (2) Where criteria are published by OFCOM, the regulatory regime for every licensed public service channel includes the conditions that OFCOM consider appropriate for securing that the provision of children's programmes meets the criteria.
+>
+> (3) Any condition imposed by virtue of this section—
+>
+> (a) must relate only to the provision of children's programmes on the licensed public service channel concerned;
+>
+> (b) must take into account OFCOM's assessment of the provision of children's programmes on all related services.
+>
+> (4) “Related services” in relation to a Channel 3 service means—
+>
+> (a) that service,
+>
+> (b) all other Channel 3 services, and
+>
+> (c) all services within subsection (6) that appear to OFCOM to have a sufficient connection with any Channel 3 service.
+>
+> (5) “Related services” in relation to any other licensed public service channel means—
+>
+> (a) that channel, and
+>
+> (b) all services within subsection (6) that appear to OFCOM to have a sufficient connection with that channel.
+>
+> (6) A service is within this subsection if—
+>
+> (a) it is available for reception in the United Kingdom, and
+>
+> (b) it is provided without any consideration being required for its reception, disregarding any requirement to pay sums in accordance with regulations under section 365.
+>
+> (7) For the purposes of an assessment under subsection (3)(b) no account is to be taken of whether a programme is provided on a licensed public service channel or on another service.
+>
+> (8) Any condition imposed by virtue of this section must be the same for all regional Channel 3 services.
+>
+> (9) Any criteria published under this section must be published by OFCOM in a statement setting out the criteria and how they propose to apply them.
+>
+> (10) OFCOM may from time to time review and revise or withdraw the criteria by publishing a further statement.
+>
+> (11) Where OFCOM revise or withdraw criteria, they must take any steps they consider necessary in consequence in relation to conditions imposed by virtue of this section.
+>
+> (12) OFCOM must—
+>
+> (a) carry out a public consultation for the purposes of any review under subsection (10);
+>
+> (b) where there are no published criteria for the time being, carry out a public consultation before publishing criteria under this section.
+>
+> (13) In this section “children's programme” means a programme made—
+>
+> (a) for a television programme service or for an on-demand programme service, and
+>
+> (b) for viewing primarily by persons under the age of sixteen.
+
+### OFCOM powers relating to criminal content etc
+
+#### 91 Suspension of radio licences for inciting crime or disorder
+
+(1) In Chapter 2 of Part 3 of the Broadcasting Act 1990 (sound broadcasting services), for section 111B (power to suspend licence to provide satellite service) substitute—
+
+> **111B Suspension of licences for inciting crime or disorder**
+>
+> (1) OFCOM must serve a notice under subsection (2) on the holder of a licence granted under this Chapter if they are satisfied that—
+>
+> (a) the licence holder has included in the licensed service one or more programmes containing material likely to encourage or incite the commission of crime or to lead to disorder,
+>
+> (b) in doing so the licence holder has failed to comply with a condition included in the licence in compliance with section 263 of the Communications Act 2003, and
+>
+> (c) the failure would justify the revocation of the licence.
+>
+> (2) A notice under this subsection must—
+>
+> (a) state that OFCOM are satisfied as mentioned in subsection (1),
+>
+> (b) specify the respects in which, in their opinion, the licence holder has failed to comply with the condition mentioned there,
+>
+> (c) state that OFCOM may revoke the licence after the end of the period of 21 days beginning with the day on which the notice is served on the licence holder, and
+>
+> (d) inform the licence holder of the right to make representations to OFCOM in that period about the matters that appear to OFCOM to provide grounds for revoking the licence.
+>
+> (3) The effect of a notice under subsection (2) is to suspend the licence from the time when the notice is served on the licence holder until either—
+>
+> (a) the revocation of the licence takes effect, or
+>
+> (b) OFCOM decide not to revoke the licence.
+>
+> (4) If, after considering any representations made to them by the licence holder in the 21 day period mentioned in subsection (2)(c), OFCOM are satisfied that it is necessary in the public interest to revoke the licence, they must serve on the licence holder a notice revoking the licence.
+>
+> (5) The revocation of a licence by a notice under subsection (4) takes effect from whatever time is specified in the notice.
+>
+> (6) That time must not be earlier than the end of the period of 28 days beginning with the day on which the notice under subsection (4) is served on the licence holder.
+>
+> (7) Section 111 does not apply to the revocation of a licence under this section.
+
+(2) In section 62(10) of the Broadcasting Act 1996 (application of sections 109 and 111 of the 1990 Act to digital sound programme services) for the words from “section 109” to “1990 Act” substitute “ sections 109, 111 and 111B of the 1990 Act (enforcement) ”.
+
+(3) In section 250(3) of the Communications Act 2003 (application of sections 109 to 111A of the 1990 Act to radio licensable content services) for “111A” substitute “ 111B ”.
+
+#### 92 Digital additional services: seriously harmful extrinsic material
+
+After section 24 of the Broadcasting Act 1996 (digital additional services) insert—
+
+> **24A Duty to prevent access to seriously harmful extrinsic material**
+>
+> (1) In carrying out their functions, OFCOM must do all that they consider appropriate to prevent digital additional services from enabling members of the public to access seriously harmful extrinsic material.
+>
+> (2) “Seriously harmful extrinsic material”, in relation to a digital additional service, means material that—
+>
+> (a) is not included in the service, and
+>
+> (b) appears to OFCOM—
+>
+> (i) to have the potential to cause serious harm, or
+>
+> (ii) to be likely to encourage or incite the commission of crime or lead to disorder.
+
+### On-demand programme services
+
+#### [^F77]93 On-demand programme services: accessibility for people with disabilities
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 94 On-demand programme services: specially restricted material (prospective)
+
+(1) Section 368E of the Communications Act 2003 (restrictions on harmful material contained in on-demand programme services) is amended as follows.
+
+(2) In subsection (5), after paragraph (b) omit “or”.
+
+(3) In that subsection, after paragraph (c) insert—
+
+> (d) a video work—
+>
+> (i) in respect of which the video works authority has issued an 18 certificate, and
+>
+> (ii) whose nature is such that it is reasonable to assume that its principal purpose is to cause sexual arousal, or
+>
+> (e) material whose nature is such that it is reasonable—
+>
+> (i) to assume that its principal purpose is to cause sexual arousal, and
+>
+> (ii) to expect that, if the material were contained in a video work submitted to the video works authority for a classification certificate, the video works authority would issue an 18 certificate.
+
+(4) In subsection (6), after “(5)(b)” insert “ or (e) ”.
+
+(5) In subsection (7), after the definition of “the 1984 Act”, insert—
+
+> “18 certificate” means a classification certificate which—
+>
+> (a) contains, pursuant to section 7(2)(b) of the 1984 Act, a statement that the video work is suitable for viewing only by persons who have attained the age of 18 and that no video recording containing that work is to be supplied to any person who has not attained that age, and
+>
+> (b) does not contain the statement mentioned in section 7(2)(c) of the 1984 Act that no video recording containing the video work is to be supplied other than in a licensed sex shop;
+
+.
+
+### Electronic Programme Guides
+
+#### 95 Electronic programme guides and public service channels
+
+(1) After section 311 of the Communications Act 2003 insert—
+
+> **311A Report on electronic programme guides and public service channels**
+>
+> (1) It is the duty of OFCOM from time to time to prepare and publish a report dealing with—
+>
+> (a) the provision by electronic programme guides of information about programmes—
+>
+> (i) included in public service channels, or
+>
+> (ii) provided by means of on-demand programme services by persons who also provide public service channels, and
+>
+> (b) the facilities provided by such guides for the selection of, and access to, such programmes.
+>
+> (2) When preparing the report OFCOM must consult such persons as appear to them appropriate.
+>
+> (3) In this section “electronic programme guide” and “public service channel” have the same meanings as in section 310.
+
+(2) After publishing the first report under section 311A of the Communications Act 2003 OFCOM must review and revise the code drawn up by them under section 310 of that Act (code of practice for electronic programme guides).
+
+(3) The revision of the code must be completed before 1 December 2020.
+
+(4) Subsections (2) and (3) do not affect OFCOM's duty under section 310 of that Act to review and revise the code from time to time.
+
+(5) In this section “OFCOM” means the Office of Communications.
+
+### Direct marketing code
+
+#### 96 Direct marketing code
+
+(1) The Data Protection Act 1998 is amended as follows.
+
+(2) After section 52A insert—
+
+> **52AA Direct marketing code**
+>
+> (1) The Commissioner must prepare a code of practice which contains—
+>
+> (a) practical guidance in relation to the carrying out of direct marketing in accordance with the requirements of this Act and the Privacy and Electronic Communications (EC Directive) Regulations 2003 (S.I. 2003/2426), and
+>
+> (b) such other guidance as the Commissioner considers appropriate to promote good practice in direct marketing.
+>
+> (2) For this purpose “good practice” means such practice in direct marketing as appears to the Commissioner to be desirable having regard to the interests of data subjects and others, and includes (but is not limited to) compliance with the requirements mentioned in subsection (1)(a).
+>
+> (3) Before a code is prepared under this section, the Commissioner must consult such of the following as the Commissioner considers appropriate—
+>
+> (a) trade associations (within the meaning of section 51);
+>
+> (b) data subjects;
+>
+> (c) persons who appear to the Commissioner to represent the interests of data subjects.
+>
+> (4) In this section “direct marketing” has the meaning given by section 11(3).
+
+(3) In section 51(5A) (general duties of Commissioner) at the end insert “ or section 52AA (direct marketing code) ”.
+
+(4) In the title of each of sections 52B to 52E for “data-sharing code” substitute “ data-sharing and direct marketing codes ”.
+
+(5) In section 52B (procedure for making code)—
+
+(a) in subsection (1) after “52A” insert “ or 52AA ”;
+
+(b) in subsection (6) omit “under section 52A”.
+
+(6) In section 52C (alteration or replacement of code)—
+
+(a) in subsection (1)(a) after “data-sharing code” insert “ and the direct marketing code ”;
+
+(b) in subsection (1)(b) for “may prepare an alteration to that code” substitute “ in either case, may prepare an alteration to the code ”;
+
+(c) in subsection (4) after “52A” insert “ or 52AA ”;
+
+(d) in subsection (5) for “means the code” substitute “ and “the direct marketing code” mean the codes respectively prepared under sections 52A and 52AA and ”.
+
+(7) In section 52D (publication of code) in subsection (1) for “the code” substitute “ any code ”.
+
+(8) In section 52E (effect of code)—
+
+(a) in subsection (1) after “data-sharing code” insert “ or the direct marketing code ”;
+
+(b) in subsection (2) for “The data-sharing code is” substitute “ Those codes are ”;
+
+(c) in subsection (3) for “the data-sharing code” substitute “ those codes ”;
+
+(d) in subsection (3)(a) after “Act” insert “ or the Privacy and Electronic Communications (EC Directive) Regulations 2003 (S.I. 2003/2426) ”;
+
+(e) in subsection (3)(c) after “Act” insert “ or those Regulations ”;
+
+(f) in subsection (4) for “means the code” substitute “ and “the direct marketing code” mean the codes respectively prepared under sections 52A and 52AA and ”.
+
+### Televising events of national interest
+
+#### 97 Televising events of national interest: power to amend qualifying conditions
+
+In section 98 of the Broadcasting Act 1996 (categories of service), after subsection (5) insert—
+
+> (5A) The Secretary of State may, by regulations made by statutory instrument, amend the percentage figure specified for the time being in subsection (2)(b).
+>
+> (5B) An amendment made by regulations under this section does not affect—
+>
+> (a) the validity of any contract entered into before the regulations came into force, or
+>
+> (b) the exercise of any rights acquired under such a contract.
+>
+> (5C) Regulations under subsection (5A) may make transitional, transitory or saving provision.
+>
+> (5D) A statutory instrument containing regulations under subsection (5A) may not be made unless a draft of the instrument has been laid before and approved by a resolution of each House of Parliament.
+
+### Other provisions relating to OFCOM
+
+#### 98 Strategic priorities and provision of information
+
+(1) After section 2 of the Communications Act 2003 insert—
+
+> **Strategic priorities**
+>
+> **2A Statement of strategic priorities**
+>
+> (1) The Secretary of State may designate a statement for the purposes of this section if the requirements set out in section 2C (consultation and parliamentary procedure) are satisfied.
+>
+> (2) The statement is a statement prepared by the Secretary of State that sets out strategic priorities of Her Majesty's Government in the United Kingdom relating to—
+>
+> (a) telecommunications,
+>
+> (b) the management of the radio spectrum, and
+>
+> (c) postal services.
+>
+> (3) The statement may, among other things, set out particular outcomes identified with a view to achieving the strategic priorities.
+>
+> (4) This section does not restrict the Secretary of State's powers under any other provision of this Act or any other enactment.
+>
+> (5) A statement designated under subsection (1) must be published in such manner as the Secretary of State considers appropriate.
+>
+> (6) A statement designated under subsection (1) may be amended (including by replacing the whole or a part of the statement with new content) by a subsequent statement designated under that subsection, and this section and sections 2B and 2C apply in relation to any such subsequent statement as in relation to the original statement.
+>
+> (7) Except as provided by subsection (8), no amendment may be made under subsection (6) within the period of 5 years beginning with the day on which a statement was most recently designated under subsection (1).
+>
+> (8) An earlier amendment may be made under subsection (6) if—
+>
+> (a) since that day—
+>
+> (i) a Parliamentary general election has taken place, or
+>
+> (ii) there has been a significant change in the policy of Her Majesty's government affecting any matter mentioned in subsection (2)(a), (b) or (c), or
+>
+> (b) the Secretary of State considers that the statement, or any part of it, conflicts with any of OFCOM's general duties (within the meaning of section 3).
+>
+> **2B Duties of OFCOM in relation to strategic priorities**
+>
+> (1) This section applies where a statement has been designated under section 2A(1).
+>
+> (2) OFCOM must have regard to the statement when carrying out—
+>
+> (a) their functions relating to telecommunications,
+>
+> (b) their functions under the enactments relating to the management of the radio spectrum, and
+>
+> (c) their functions relating to postal services.
+>
+> (3) OFCOM must within the period of 40 days beginning with the day on which the statement is designated, or such longer period as the Secretary of State may allow—
+>
+> (a) explain in writing what they propose to do in consequence of the statement, and
+>
+> (b) publish a copy of that explanation in such manner as OFCOM consider appropriate.
+>
+> (4) OFCOM must, as soon as practicable after the end of—
+>
+> (a) the period of 12 months beginning with the day on which the first statement is designated under section 2A(1), and
+>
+> (b) every subsequent period of 12 months,
+>
+> publish a review of what they have done during the period in question in consequence of the statement.
+>
+> **2C Consultation and parliamentary procedure**
+>
+> (1) This section sets out the requirements that must be satisfied in relation to a statement before the Secretary of State may designate it under section 2A.
+>
+> (2) The Secretary of State must consult the following on a draft of the statement—
+>
+> (a) OFCOM, and
+>
+> (b) such other persons as the Secretary of State considers appropriate.
+>
+> (3) The Secretary of State must allow OFCOM a period of at least 40 days to respond to any consultation under subsection (2)(a).
+>
+> (4) After that period has ended the Secretary of State—
+>
+> (a) must make any changes to the draft that appear to the Secretary of State to be necessary in view of responses to the consultation, and
+>
+> (b) must then lay the draft before Parliament.
+>
+> (5) The Secretary of State must then wait until the end of the 40-day period and may not designate the statement if, within that period, either House of Parliament resolves not to approve it.
+>
+> (6) “The 40-day period” is the period of 40 days beginning with the day on which the draft is laid before Parliament (or, if it is not laid before each House on the same day, the later of the days on which it is laid).
+>
+> (7) When calculating the 40-day period, ignore any period during which Parliament is dissolved or prorogued or during which both Houses are adjourned for more than 4 days.
+
+(2) After section 24 of that Act insert—
+
+> **24A Provision of information before publication**
+>
+> (1) OFCOM must provide the Secretary of State, at least 24 hours before publication, with any information that they propose to publish.
+>
+> (2) If exceptional circumstances make it impracticable to provide the information to the Secretary of State 24 hours before publication it must instead be provided to the Secretary of State as long before publication as is practicable.
+>
+> (3) Subsections (1) and (2) have effect in any particular case subject to any agreement made between the Secretary of State and OFCOM in that case.
+>
+> (4) The Secretary of State may by regulations specify descriptions of information in relation to which the duty under subsection (1) does not apply.
+>
+> (5) Before making regulations under subsection (4), the Secretary of State must consult OFCOM.
+>
+> (6) Information provided to the Secretary of State under this section may not be disclosed by the Secretary of State during the protected period, except to another Minister of the Crown.
+>
+> (7) A Minister of the Crown to whom the information is disclosed under subsection (6) may not disclose the information during the protected period to any other person.
+>
+> (8) A Minister of the Crown may not make any representations to OFCOM during the protected period that specify or describe changes that the Minister considers should be made to information that has been provided under this section when it is published.
+>
+> (9) In this section—
+>
+> - “the protected period”, in relation to information provided to the Secretary of State under this section, means the period beginning with the provision of the information and ending when either of the following occurs—
+>
+>   - (a) OFCOM publish the information;
+>   - (b) OFCOM inform the Secretary of State that they consent to the disclosure of the information;
+>
+> - “Minister of the Crown” has the same meaning as in the Ministers of the Crown Act 1975.
+>
+> **24B Provision of information to assist in formulation of policy**
+>
+> (1) OFCOM may provide the Secretary of State with any information that they consider may assist the Secretary of State in the formulation of policy.
+>
+> (2) Information with respect to a particular business that has been obtained in the exercise of a power conferred by—
+>
+> (a) this Act,
+>
+> (b) the 1990 Act,
+>
+> (c) the 1996 Act,
+>
+> (d) the Wireless Telegraphy Act 2006, or
+>
+> (e) Part 3 of the Postal Services Act 2011,
+>
+> is not, so long as the business continues to be carried on, to be provided to the Secretary of State under this section without the consent of the person for the time being carrying on that business.
+
+(3) The duty under subsection (1) of section 24A of that Act does not have effect until the day on which regulations made under subsection (4) of that section first come into force.
+
+(4) In section 393(6) of that Act (general restrictions on disclosure of information), after paragraph (a) insert—
+
+> (aza) prevents the disclosure of information under section 24A or 24B;
+
+.
+
+(5) In section 111(7) of the Wireless Telegraphy Act 2006 (general restrictions on disclosure of information), after paragraph (a) insert—
+
+> (aa) prevents the disclosure of information under section 24A or 24B of that Act;
+
+.
+
+(6) In section 56 of the Postal Services Act 2011 (general restrictions on disclosure of information), after subsection (6) insert—
+
+> (6A) Nothing in this section prevents the disclosure of information under section 24A or 24B of the Communications Act 2003.
+
+#### 99 OFCOM and Northern Ireland
+
+(1) Section 1 of the Office of Communications Act 2002 (the Office of Communications) is amended as follows.
+
+(2) In subsection (3), before paragraph (b) insert—
+
+> (ac) a member appointed by the Minister for the Economy in Northern Ireland;
+
+.
+
+(3) Before subsection (4) insert—
+
+> (3C) Before appointing a member under subsection (3)(ac) the Minister for the Economy must consult the Secretary of State.
+
+(4) In subsection (5) in the words before paragraph (a), before “and (b),” insert “ , (ac) ”.
+
+(5) At the end insert—
+
+> (13) Paragraphs 1 and 2 of the Schedule apply in relation to the appointment made under subsection (3)(ac) as if—
+>
+> (a) any reference to the Secretary of State were to the Minister for the Economy, and
+>
+> (b) at the end of paragraph 2 there were inserted—
+>
+> > (9) Before the Minister for the Economy removes a person from office the Minister must consult the Secretary of State.”
+
+(6) The Schedule to the Office of Communications Act 2002 is amended as follows.
+
+(7) In paragraph 11 (accounts and audit)—
+
+(a) in sub-paragraph (3)(c) at the end insert “ and the Minister for the Economy in Northern Ireland ”;
+
+(b) at the end insert—
+
+> (6) The Minister for the Economy in Northern Ireland shall lay a copy of the statement and report sent to the Minister under sub-paragraph (3) before the Northern Ireland Assembly.
+
+(8) In paragraph 12 (annual report)—
+
+(a) in sub-paragraph (1) before “a report” insert “ and the Minister for the Economy in Northern Ireland ”;
+
+(b) at the end insert—
+
+> (6) The Minister for the Economy in Northern Ireland shall lay a copy of every report sent to the Minister under this paragraph before the Northern Ireland Assembly.
+
+(9) The following provisions of section 44 of the Northern Ireland Act 1998 (power of Assembly to call for witnesses and documents: limitation by reference to transferred matters etc) do not apply in relation to requirements imposed in connection with the discharge of the functions of the Office of Communications in relation to Northern Ireland—
+
+(a) the words after paragraph (b) in subsection (1);
+
+(b) subsections (2), (3) and (5)(b).
+
+#### 100 Retention by OFCOM of amounts paid under Wireless Telegraphy Act 2006
+
+(1) The Communications Act 2003 is amended as follows.
+
+(2) In section 400(4)(c) (destination of fees and penalties: account for financial year), for the words from “of principles” to “subsection (4)” substitute “ under section 401 for meeting the costs set out in the statement in accordance with subsection (1)(b) ”.
+
+(3) In section 401 (retention of amounts by OFCOM), for subsection (1) substitute—
+
+> (1) OFCOM have power to make a statement setting out—
+>
+> (a) the principles under which they may retain any or all of the amounts paid to them—
+>
+> (i) in pursuance of obligations imposed by or under Chapter 1 or 2 of Part 2 of the Wireless Telegraphy Act 2006;
+>
+> (ii) in respect of fees charged under section 53D of that Act, and
+>
+> (b) the costs in respect of which the amounts may be retained (which may include costs other than those incurred in the exercise of their functions under those provisions).
+
+(4) In subsection (2) of that section, omit “of principles”.
+
+(5) For subsections (3) to (5) of that section substitute—
+
+> (3) The provision contained in a statement made by OFCOM under this section must be such as appears to them likely to secure, on the basis of such estimates of the likely costs as it is practicable to make, that the amounts retained by OFCOM are objectively justifiable and proportionate to the costs in respect of which they are retained.
+
+(6) In subsection (6) of that section, omit “the principles contained in”.
+
+(7) In subsection (7) of that section, for “of carrying out the functions mentioned in subsection (4) of this section” substitute “ set out in the statement in accordance with subsection (1)(b) ”.
+
+(8) In subsection (8) of that section, omit “of principles”.
+
+(9) In subsection (10) of that section, after “Treasury” insert “ and the Secretary of State ”.
+
+(10) For the heading to that section substitute “ Retention by OFCOM of amounts paid under Wireless Telegraphy Act 2006 ”.
+
+#### 101 International recognition of satellite frequency assignments: power of OFCOM to charge fees
+
+(1) The Communications Act 2003 is amended as follows.
+
+(2) After section 28 (general power of OFCOM to charge for services), and before the italic heading following that section, insert—
+
+> **28A International recognition of satellite frequency assignments: power to charge fees**
+>
+> (1) This section applies where functions conferred on OFCOM under section 22 include functions of the administration of the United Kingdom under the ITU Radio Regulations.
+>
+> (2) OFCOM may require any person to pay them a fee for doing satellite filing work at the request of that person.
+>
+> (3) In this section “satellite filing work” means anything connected with obtaining or maintaining international recognition under the ITU Radio Regulations of assignments (or changes in assignments) of radio frequencies to stations in satellite systems or satellite networks.
+>
+> (4) OFCOM may vary from time to time the amount of any fee set by them under this section.
+>
+> (5) OFCOM may not require a person to pay a fee under this section unless they have taken such steps as they consider appropriate to bring the fact that they charge the fee, and the amount of the fee, to the attention of those persons who, in their opinion, are likely to be required to pay it.
+>
+> (6) As soon as reasonably practicable after the end of each reporting year, OFCOM must publish a statement setting out—
+>
+> (a) the aggregate amount of the fees charged under this section that have been received by OFCOM during that year;
+>
+> (b) the aggregate amount of the fees charged under this section during that year which remain outstanding and are likely to be paid or recovered; and
+>
+> (c) the total cost to OFCOM of doing the requested satellite filing work they have done during that year.
+>
+> (7) If the total of the amounts set out in a statement under subsection (6)(a) and (b) exceeds the total cost set out under subsection (6)(c), OFCOM must take this into account with a view to securing that the aggregate amount of fees charged under this section in the following reporting year does not exceed the likely total cost to them of doing requested satellite filing work during that year.
+>
+> (8) In this section—
+>
+> - “administration”, “assignment” (of a radio frequency), “station”, “satellite system” and “satellite network” have the same meanings as in the ITU Radio Regulations;
+>
+> - “reporting year” means—
+>
+>   - (a) the period beginning with the coming into force of this section and ending with the next 31st March, or
+>   - (b) any subsequent period of twelve months beginning with 1st April;
+>
+> - “the ITU Radio Regulations” means the radio regulations of the International Telecommunication Union.
+
+(3) In section 38 (annual administrative charge), after subsection (11) insert—
+
+> (11A) For the purposes of this section, the cost to OFCOM of carrying out the functions mentioned in subsection (5) does not include the cost to OFCOM of doing anything for which they charge a fee under section 28A.
+
+(4) Section 28A(2) and (6)(c) of the Communications Act 2003, inserted by subsection (2), does not apply to any satellite filing work if OFCOM received the request to do that work before the coming into force of that section.
+
+### Billing limits for mobile phones
+
+#### 102 Billing limits for mobile phones
+
+In Chapter 1 of Part 2 of the Communications Act 2003 (electronic communications networks and services) after section 124R insert—
+
+> **Billing limits for mobile phones**
+>
+> **124S Mobile phone providers' duty to enable billing limits to be applied**
+>
+> (1) The provider of a mobile phone service must not enter into a contract to provide the service unless the customer has been given an opportunity to specify a billing limit in the contract.
+>
+> (2) In relation to a contract to provide a mobile phone service—
+>
+> (a) a billing limit is a limit on the amount the customer may be charged for provision of the service in respect of each billing period, and
+>
+> (b) a billing period is one of successive periods specified in the contract and together making up the period for which the contract remains in force.
+>
+> (3) A contract to provide a mobile phone service must provide for the customer on reasonable notice at any time—
+>
+> (a) to specify a billing limit if none is specified for the time being,
+>
+> (b) to amend or remove a limit in respect of all billing periods or a specified billing period.
+>
+> (4) In any billing period the provider must—
+>
+> (a) so far as practicable, notify the customer in reasonable time if a limit is likely to be reached before the end of the period, and
+>
+> (b) notify the customer as soon as practicable if a limit is reached before the end of the period.
+>
+> (5) A limit may be exceeded in relation to a billing period only if the customer agrees after a notification under subsection (4)(a) or (b).
+>
+> (6) If the provider continues to provide the service after a limit is reached, the customer's use of the service does not constitute agreement to the limit being exceeded.
+>
+> (7) The provider must give the customer confirmation in writing of—
+>
+> (a) the decision made by the customer in accordance with subsection (1),
+>
+> (b) any decision of the customer under provision made in accordance with subsection (3), and
+>
+> (c) any agreement by the customer in accordance with subsection (5).
+>
+> (8) This section applies to agreeing to extend a contract as it applies to entering into a contract, and in that case the reference in subsection (2)(b) to the period for which the contract remains in force is a reference to the period of the extension.
+>
+> (9) Nothing in this section affects a provider's duty to comply with requirements to enable calls to emergency services.
+>
+> (10) In this section—
+>
+> - “customer” does not include a person who is a customer as a communications provider;
+> - “mobile phone service” means an electronic communications service which is provided in the course of a business wholly or mainly so as to be available to members of the public for the purpose of communicating with others, or accessing data, by mobile phone.
+>
+> **124T Enforcement of duty to enable billing limits to be applied**
+>
+> (1) Sections 96A to 96C apply in relation to a contravention of a requirement under section 124S as they apply in relation to a contravention of a condition set under section 45, with the following modifications.
+>
+> (2) Section 96A(2)(f) and (g) (OFCOM directions) do not apply.
+>
+> (3) Section 96A(5) to (7) (action under the Competition Act 1998) do not apply.
+>
+> (4) The amount of a penalty imposed under sections 96A to 96C, as applied by this section, other than a penalty falling within section 96B(4), is to be such amount not exceeding £2 million as OFCOM determine to be—
+>
+> (a) appropriate; and
+>
+> (b) proportionate to the contravention in respect of which it is imposed.
+
+### Online social media platforms
+
+#### [^F78]103 Code of practice for providers of online social media platforms
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Internet filters
+
+#### 104 Internet filters
+
+(1) A provider of an internet access service to an end-user may prevent or restrict access on the service to information, content, applications or services, for child protection or other purposes, if the action is in accordance with the terms on which the end-user uses the service.
+
+(2) This section does not affect whether a provider of an internet access service may prevent or restrict access to anything on the service in other circumstances.
+
+(3) In this section—
+
+- “end-user” means an end-user of a public electronic communications service, within the meaning given by section 151(1) of the Communications Act 2003;
+- “internet access service” has the meaning given by Article 2(2) of Regulation (EU) 2015/2120 of the European Parliament and of the Council of 25th November 2015 laying down measures concerning open internet access and amending Directive 2002/22/EC on universal service and users' rights relating to electronic communications networks and services and Regulation (EU) No 531/2012 on roaming on public mobile communications networks within the Union.
+
+### Ticket sales
+
+#### 105 Secondary ticketing: duty to provide information about tickets
+
+In section 90 of the Consumer Rights Act 2015 (duty to provide information about tickets), in subsection (4) omit “and” at the end of paragraph (c), and at the end of paragraph (d) insert
+
+> , and
+>
+> (e) any unique ticket number that may help the buyer to identify the seat or standing area or its location.
+
+#### 106 Power to create offence of breaching limits on internet and other ticket sales
+
+(1) The Secretary of State may make regulations providing that it is an offence for a person in circumstances within subsection (2) to do an act within subsection (3).
+
+(2) Circumstances are within this subsection if each of the following applies—
+
+(a) tickets for a recreational, sporting or cultural event in the United Kingdom are offered for sale,
+
+(b) a purchase may be made wholly or partly by a process that the purchaser completes using an electronic communications network or an electronic communications service, and
+
+(c) the offer is subject to conditions that limit the number of tickets a purchaser may buy.
+
+(3) An act is within this subsection if it consists in using anything that enables or facilitates completion of any part of a process within subsection (2)(b) with intent to obtain tickets in excess of a limit imposed by conditions within subsection (2)(c).
+
+(4) The regulations may apply whether the offer is made, or anything is done to obtain tickets, in or outside the United Kingdom.
+
+(5) The regulations—
+
+(a) may be limited to particular circumstances within subsection (2), and to particular acts within subsection (3);
+
+(b) may provide for an offence to be subject to an exception or defence;
+
+(c) may make different provision for different areas.
+
+(6) The regulations must provide in England and Wales and Scotland for an offence to be triable only summarily.
+
+(7) The regulations may not provide for an offence to be punishable—
+
+(a) with imprisonment,
+
+(b) in Scotland, with a fine exceeding £50,000, or
+
+(c) in Northern Ireland, if tried summarily, with a fine exceeding the statutory maximum.
+
+(8) The power to make regulations under this section is exercisable by statutory instrument.
+
+(9) A statutory instrument containing regulations under this section may not be made unless a draft of the instrument has been laid before and approved by a resolution of each House of Parliament.
+
+(10) In this section “electronic communications network” and “electronic communications service” have the meaning given by section 32 of the Communications Act 2003.
+
+### Communication devices used for drug dealing
+
+#### 107 Prevention or restriction of use of communication devices for drug dealing
+
+After section 80 of the Serious Crime Act 2015 insert—
+
+> **80A Prevention or restriction of use of communication devices for drug dealing**
+>
+> (1) Regulations may make provision conferring power on a court to make a drug dealing telecommunications restriction order.
+>
+> (2) “Drug dealing telecommunications restriction order” means an order requiring a communications provider to take whatever action the order specifies for the purpose of preventing or restricting the use of communication devices in connection with drug dealing offences.
+>
+> (3) Without limiting the action that may be specified, it includes—
+>
+> (a) action that relates to a specified device;
+>
+> (b) action that relates to a specified phone number or something else that may be used with a device.
+>
+> (4) In this section “drug dealing offence” means an offence under section 4(3) of the Misuse of Drugs Act 1971 or section 5 of the Psychoactive Substances Act 2016; and a communication device is used in connection with a drug dealing offence if it is used by a person (“the user”) in the course of—
+>
+> (a) the user committing a drug dealing offence,
+>
+> (b) the user facilitating the commission by the user or another person of a drug dealing offence, or
+>
+> (c) conduct of the user that is likely to facilitate the commission by the user or another person of a drug dealing offence (whether or not an offence is committed).
+>
+> (5) Regulations under this section must provide for drug dealing telecommunications restriction orders to be made only on the application of—
+>
+> (a) the Director General or Deputy Director General of the National Crime Agency, or
+>
+> (b) a police officer of the rank of superintendent or above.
+>
+> (6) Regulations under this section must—
+>
+> (a) specify the matters about which the court must be satisfied if it is to make an order;
+>
+> (b) make provision about the duration of orders (which may include provision for orders of indefinite duration);
+>
+> (c) make provision about the giving (by a communications provider or any other person) of notice of the making of an order;
+>
+> (d) make provision about variation (including extension) and discharge of orders;
+>
+> (e) make provision about appeals.
+>
+> (7) Regulations under this section must provide—
+>
+> (a) for applications for drug dealing telecommunications restriction orders to be made and heard without notice of the application or hearing having been given to persons affected (or their legal representatives), subject to subsection (9)(a);
+>
+> (b) for applications to be heard and determined in the absence of persons affected (and their legal representatives), subject to subsection (9)(b);
+>
+> (c) for applications to be heard and determined in private.
+>
+> (8) Regulations under this section must provide for a court hearing an application or an appeal to have power to restrict disclosure of information submitted in connection with the application or appeal if satisfied that it is necessary to do so in the public interest.
+>
+> (9) Regulations under this section may—
+>
+> (a) make provision for a communications provider affected by an application to be given notice of the application or hearing;
+>
+> (b) make provision for a communications provider affected by an application to be present or represented at the hearing and determination of the application;
+>
+> (c) in connection with any provision under paragraph (b), make provision for a communications provider to have a right to make representations;
+>
+> (d) make provision for a drug dealing telecommunications restriction order to specify that a requirement of the order is not to apply in particular circumstances;
+>
+> (e) make provision authorising a court to include in an order a requirement for the person applying for the order to pay any or all of the costs of complying with it;
+>
+> (f) make provision about time limits for complying with orders;
+>
+> (g) make provision about enforcement of orders (which may include provision creating offences);
+>
+> (h) make provision about costs (or, in Scotland, expenses) in respect of legal proceedings;
+>
+> (i) make provision about compensation;
+>
+> (j) make different provision for different purposes or areas;
+>
+> (k) make incidental, consequential, supplementary or transitional provision, including provision applying any enactment (with or without modifications).
+>
+> (10) The power to make regulations under this section is exercisable by statutory instrument made by the Secretary of State.
+>
+> (11) A statutory instrument containing regulations under this section is not to be made unless a draft of the instrument has been laid before, and approved by a resolution of, each House of Parliament.
+>
+> (12) In this section—
+>
+> - “communication device” means an item specified in section 1(3) of the Prisons (Interference with Wireless Telegraphy) Act 2012 (mobile telephones etc);
+>
+> - “communications provider” means a person providing a telecommunications service;
+>
+> - “court” means—
+>
+>   - (a) in relation to England and Wales, the county court;
+>   - (b) in relation to Scotland, the sheriff;
+>   - (c) in relation to Northern Ireland, a county court;
+>
+> - “enactment” includes—
+>
+>   - (a) an enactment contained in subordinate legislation within the meaning of the Interpretation Act 1978;
+>   - (b) an enactment contained in, or in an instrument made under, an Act of the Scottish Parliament;
+>   - (c) Northern Ireland legislation;
+>
+> - “telecommunications service” has the meaning given by section 261 of the Investigatory Powers Act 2016.
+
+### Charges payable to the Information Commissioner
+
+#### [^F79]108 Regulations about charges payable to the Information Commissioner
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F79]109 Functions relating to regulations under section 108
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F79]110 Supplementary provision relating to section 108
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 111 Amendments relating to section 108
+
+(1) The Data Protection Act 1998 is amended in accordance with subsections (2) to (7).
+
+(2) Omit Part 3 (notification by data controllers).
+
+(3) In section 33A(1) (manual data held by public authorities) omit paragraph (e) (but not the “and” following that paragraph).
+
+(4) In section 71 (index of defined expressions) omit the entries relating to “address”, “fees regulations”, “notification requirements”, “prescribed” and “registrable particulars”.
+
+(5) In Part 2 of Schedule 1 (interpretation of the data protection principles) in paragraph 5 omit paragraph (b) and the “or” preceding that paragraph.
+
+(6) In Part 1 of Schedule 5 (the Information Commissioner) in paragraph 9(1) (destination of fees etc) after “the Freedom of Information Act 2000” insert “ and all charges received by the Commissioner under regulations under section 108(1) of the Digital Economy Act 2017 ”.
+
+(7) In Schedule 14 (transitional provisions and savings) omit paragraph 2 (registration under Part 2 of the Data Protection Act 1984).
+
+(8) In regulation 5(3)(b) of the High Court Enforcement Officers Regulations 2004 (SI 2004/400) (application procedure) omit paragraph (iii).
+
+(9) In consequence of the repeal in subsection (2) the following are repealed or revoked—
+
+(a) section 71 of the Freedom of Information Act 2000;
+
+(b) in paragraph 6 of Schedule 2 to the Transfer of Functions (Miscellaneous) Order 2001 (SI 2001/3500)—
+
+(i) in sub-paragraph (1), paragraphs (h) to (m), and
+
+(ii) sub-paragraph (2);
+
+(c) in paragraph 9(1)(a) of Schedule 2 to the Secretary of State for Constitutional Affairs Order 2003 (SI 2003/1887), the words “16, 17, 22, 23, 25, 26,”;
+
+(d) Part 1 of Schedule 20 to the Coroners and Justice Act 2009;
+
+(e) paragraph 26 of Schedule 2 to the Transfer of Tribunal Functions Order 2010 (SI 2010/22).
+
+### Payment and securities settlement systems
+
+#### 112 Power to apply settlement finality regime to payment institutions
+
+In Part 24 of the Financial Services and Markets Act 2000 (insolvency) after section 379 insert—
+
+> **Settlement finality**
+>
+> **379A Power to apply settlement finality regime to payment institutions**
+>
+> (1) The Treasury may by regulations made by statutory instrument provide for the application to payment institutions, as participants in payment or securities settlement systems, of provision in subordinate legislation—
+>
+> (a) modifying the law of insolvency or related law in relation to such systems, or
+>
+> (b) relating to the securing of rights and obligations.
+>
+> (2) “Payment institution” means—
+>
+> (a) an authorised payment institution or small payment institution within the meaning of the Payment Services Regulations 2009 (S.I. 2009/209), or
+>
+> (b) a person whose head office, registered office or place of residence, as the case may be, is outside the United Kingdom and whose functions correspond to those of an institution within paragraph (a).
+>
+> (3) “Payment or securities settlement system” means arrangements between a number of participants for or in connection with the clearing or execution of instructions by participants relating to any of the following—
+>
+> (a) the placing of money at the disposal of a recipient;
+>
+> (b) the assumption or discharge of a payment obligation;
+>
+> (c) the transfer of the title to, or an interest in, securities.
+>
+> (4) “Subordinate legislation” has the same meaning as in the Interpretation Act 1978.
+>
+> (5) Regulations under this section may—
+>
+> (a) make consequential, supplemental or transitional provision;
+>
+> (b) amend subordinate legislation.
+>
+> (6) A statutory instrument containing regulations under this section is subject to annulment in pursuance of a resolution of either House of Parliament.
+
+#### 113 Bank of England oversight of payment systems
+
+Schedule 9 extends Part 5 of the Banking Act 2009 (Bank of England oversight of inter-bank payment systems) to other payment systems; and makes consequential provision.
+
+### Qualifications in information technology
+
+#### 114 Qualifications in information technology: payment of tuition fees
+
+(1) The Apprenticeships, Skills, Children and Learning Act 2009 is amended as follows.
+
+(2) In section 88(1) (qualifications for persons aged 19 or over: payment of tuition fees), for “1(a) or (b)” substitute “ 1(a), (b) or (ba) ”.
+
+(3) In paragraph 1 of Schedule 5 (qualifications for persons aged 19 or over), after paragraph (b) insert—
+
+> (ba) a specified qualification in making use of information technology;
+
+.
+
+(4) After paragraph 5 of that Schedule insert—
+
+> **5A Power to specify qualification in information technology**
+>
+> The level of attainment demonstrated by a specified qualification in making use of information technology must be the level which, in the opinion of the Secretary of State, is the minimum required in that respect by persons aged 19 or over in order to be able to operate effectively in day-to-day life.
+
+### Guarantee of pension liabilities under Telecommunications Act 1984
+
+#### 115 Guarantee of pension liabilities under Telecommunications Act 1984
+
+(1) The Secretary of State may make regulations modifying or supplementing section 68 of the Telecommunications Act 1984 (liability of Secretary of State in respect of British Telecommunications public limited company's liabilities as successor for payment of pensions) in accordance with subsection (4).
+
+(2) Subsection (4) applies in relation to relevant employees of British Telecommunications public limited company (“BTplc”) becoming employees of another company (a “transferee”) in connection with any part of the undertaking of BTplc being transferred or outsourced (whether or not to the transferee).
+
+(3) Employees are relevant if the liability of BTplc for the payment of pensions which vested in it by virtue of section 60 of the Telecommunications Act 1984 included, immediately before the employees ceased to be employees of BTplc, liability for the payment of pensions to or in respect of those employees.
+
+(4) The regulations may provide for the Secretary of State (in addition to any liability apart from the regulations) to become liable—
+
+(a) on the winding up of BTplc, to discharge any outstanding liability of BTplc for the payment of pensions to or in respect of relevant employees of the transferee or a successor;
+
+(b) on the winding up of the transferee or a successor, to discharge any outstanding liability of the transferee or successor for the payment of pensions to or in respect of relevant employees.
+
+(5) The regulations may provide for any liability that the Secretary of State is liable to discharge under the regulations not to include liability arising by virtue of a person's employment on or after a specified date, or by virtue of anything else occurring on or after a specified date.
+
+(6) The specified date must be not earlier than the date on which the regulations come into force.
+
+(7) The power to make regulations under this section is exercisable so as to—
+
+(a) make provision in relation to all cases or circumstances to which the power extends or in relation to specified cases or circumstances;
+
+(b) in particular, make provision in relation to all employees to whom the power extends or in relation to employees of a specified description;
+
+(c) make different provision for different purposes.
+
+(8) The regulations may—
+
+(a) amend section 68 of the Telecommunications Act 1984;
+
+(b) re-enact any provision of that section with or without modifications.
+
+(9) In this section references to the winding up of a company are references to—
+
+(a) the passing of a resolution, in accordance with the Insolvency Act 1986, for the voluntary winding up of the company, or
+
+(b) the making of an order for the winding up of the company by the court under that Act.
+
+(10) In this section—
+
+- “specified” means specified in regulations under this section;
+
+- “successor” means—
+
+  - (a) where relevant employees of a transferee become employees of another person, that person, and
+  - (b) where relevant employees of a successor within paragraph (a) or this paragraph become employees of another person, that person;
+
+- “undertaking” includes anything that may be the subject of a transfer or service provision change, whether or not the Transfer of Undertakings (Protection of Employment) Regulations 2006 (S.I. 2006/246) apply.
+
+#### 116 Regulations under section 115
+
+(1) The power to make regulations under section 115 is exercisable by statutory instrument.
+
+(2) That power is exercisable by the Secretary of State only with the consent of the Treasury.
+
+(3) A statutory instrument containing regulations under that section may not be made unless a draft of the instrument has been laid before and approved by a resolution of each House of Parliament.
+
+(4) Before making regulations under that section the Secretary of State must consult—
+
+(a) the Pensions Regulator;
+
+(b) BT plc;
+
+(c) the trustees of the BT Pensions Scheme;
+
+(d) any transferee or successor to which the regulations apply;
+
+(e) any other persons the Secretary of State considers it appropriate to consult.
+
+## PART 7 — General
+
+### 117 Financial provisions
+
+The following are to be paid out of money provided by Parliament—
+
+(a) any expenditure incurred under or by virtue of this Act by a Minister of the Crown, a person holding office under Her Majesty or a government department, and
+
+(b) any increase attributable to this Act in the sums payable under any other Act out of money so provided.
+
+### 118 Commencement
+
+(1) The following come into force on the day on which this Act is passed—
+
+(a) section 88;
+
+(b) section 112;
+
+(c) sections 115 and 116;
+
+(d) sections 117, 119 and 120;
+
+(e) this section.
+
+(2) The following come into force at the end of the period of two months beginning with the day on which this Act is passed—
+
+(a) section 1;
+
+(b) section 2;
+
+(c) section 3;
+
+(d) section 7;
+
+(e) sections 9 to 13;
+
+(f) sections 82 to 86;
+
+(g) section 90;
+
+(h) sections 91 and 96;
+
+(i) section 97;
+
+(j) section 103;
+
+(k) section 107;
+
+(l) section 113 and Schedule 9.
+
+(3) Section 89 comes into force on 1 June 2020.
+
+(4) Part 5, except—
+
+(a) Chapter 1, so far as that Chapter relates to the disclosure of information to or by a water or sewerage undertaker for an area which is wholly or mainly in Wales,
+
+(b) Chapter 2, and
+
+(c) Chapters 5 and 6, so far as those Chapters relate to the disclosure of information by the Welsh Revenue Authority,
+
+comes into force on whatever day the Secretary of State or the Minister for the Cabinet Office appoints by regulations made by statutory instrument.
+
+(5) The provisions mentioned in subsection (4)(a) and (c) come into force on whatever day the Welsh Ministers appoint by regulations made by statutory instrument.
+
+(6) The other provisions of this Act come into force on whatever day the Secretary of State appoints by regulations made by statutory instrument.
+
+(7) Different days may be appointed for different purposes or different areas.
+
+(8) The appropriate authority may by regulations made by statutory instrument make transitional, transitory or saving provision in connection with the coming into force of any provision of this Act.
+
+(9) Subsection (8) does not apply to section 4 or Schedule 1 (for which see section 5).
+
+(10) The appropriate authority, subject to subsection (11), is the Secretary of State.
+
+(11) The appropriate authority in relation to Part 5 is—
+
+(a) the Secretary of State, in relation to Chapter 2;
+
+(b) the Welsh Ministers, in relation to—
+
+(i) Chapter 1 so far as relating to the disclosure of information to or by a water or sewerage undertaker for an area which is wholly or mainly in Wales, and
+
+(ii) Chapters 5 and 6 so far as relating to the disclosure of information by the Welsh Revenue Authority;
+
+(c) otherwise, the Secretary of State or the Minister for the Cabinet Office.
+
+### 119 Extent
+
+(1) This Act extends to England and Wales, Scotland and Northern Ireland, subject to the following provisions of this section.
+
+(2) Sections 36 and 37 extend to England and Wales and Scotland only.
+
+(3) Sections 38 and 39 extend to England and Wales only.
+
+(4) In section 46—
+
+(a) subsections (4) and (5) (and, so far as it relates to them, subsection (2)) of the new section 19AB inserted in the Registration Service Act 1953 extend to England and Wales, Scotland and Northern Ireland, but
+
+(b) subject to that, the amendments and repeals made to that Act extend to England and Wales only.
+
+(5) Section 114 extends to England and Wales only.
+
+(6) Section 47 of the Registered Designs Act 1949 (application to Isle of Man) applies to section 33 as it applies to that Act.
+
+(7) An amendment of the following enactments made by this Act may be extended to any of the Channel Islands or the Isle of Man under the relevant extending power—
+
+(a) Part 1 of the Copyright, Designs and Patents Act 1988;
+
+(b) the Broadcasting Act 1990;
+
+(c) the Broadcasting Act 1996;
+
+(d) the Communications Act 2003;
+
+(e) the Wireless Telegraphy Act 2006.
+
+(8) “Relevant extending power” means—
+
+(a) in relation to amendments of Part 1 of the Copyright, Designs and Patents Act 1988, section 157(2) of that Act;
+
+(b) in relation to amendments of the Broadcasting Act 1990, section 204(6) of that Act;
+
+(c) in relation to amendments of the Broadcasting Act 1996, section 150(4) of that Act;
+
+(d) in relation to amendments of the Communications Act 2003, section 411(6) of that Act;
+
+(e) in relation to amendments of the Wireless Telegraphy Act 2006, section 118(3) of that Act.
+
+(9) The power conferred by section 157(2)(c) of the Copyright, Designs and Patents Act 1988 (power to extend to British overseas territories) is exercisable in relation to any amendment made by this Act to Part 1 of that Act.
+
+[^F80]10 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F80]11 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 120 Short title
+
+This Act may be cited as the Digital Economy Act 2017.
+
+## SCHEDULE 1 — The electronic communications code
+
+*Section 4*
+
+This is the Schedule to be inserted before Schedule 4 to the Communications Act 2003—
+
+> **SCHEDULE 3A — The electronic communications code**
+>
+> *Section 106*
+>
+> **PART 1 — Key concepts**
+>
+> **Introductory**
+>
+> **1** (1) This Part defines some key concepts used in this code.
+>
+> (2) For definitions of other terms used in this code, see—
+>
+> (a) paragraph 94 (meaning of “the court”).
+>
+> (b) paragraph 105 (meaning of “occupier”),
+>
+> (c) paragraph 108 (general interpretation),
+>
+> (d) section 32 (meaning of electronic communications networks and services), and
+>
+> (e) section 405 (general interpretation).
+>
+> **The operator**
+>
+> **2** In this code “operator” means—
+>
+> (a) where this code is applied in any person's case by a direction under section 106, that person, and
+>
+> (b) where this code applies by virtue of section 106(3)(b), the Secretary of State or (as the case may be) the Northern Ireland department in question.
+>
+> **The code rights**
+>
+> **3** For the purposes of this code a “code right”, in relation to an operator and any land, is a right for the statutory purposes—
+>
+> (a) to install electronic communications apparatus on, under or over the land,
+>
+> (b) to keep installed electronic communications apparatus which is on, under or over the land,
+>
+> (c) to inspect, maintain, adjust, alter, repair, upgrade or operate electronic communications apparatus which is on, under or over the land,
+>
+> (d) to carry out any works on the land for or in connection with the installation of electronic communications apparatus on, under or over the land or elsewhere,
+>
+> (e) to carry out any works on the land for or in connection with the maintenance, adjustment, alteration, repair, upgrading or operation of electronic communications apparatus which is on, under or over the land or elsewhere,
+>
+> (f) to enter the land to inspect, maintain, adjust, alter, repair, upgrade or operate any electronic communications apparatus which is on, under or over the land or elsewhere,
+>
+> (g) to connect to a power supply,
+>
+> (h) to interfere with or obstruct a means of access to or from the land (whether or not any electronic communications apparatus is on, under or over the land), or
+>
+> (i) to lop or cut back, or require another person to lop or cut back, any tree or other vegetation that interferes or will or may interfere with electronic communications apparatus.
+>
+> **The statutory purposes**
+>
+> **4** In this code “the statutory purposes”, in relation to an operator, means—
+>
+> (a) the purposes of providing the operator's network, or
+>
+> (b) the purposes of providing an infrastructure system.
+>
+> **Electronic communications apparatus, lines and structures**
+>
+> **5** (1) In this code “electronic communications apparatus” means—
+>
+> (a) apparatus designed or adapted for use in connection with the provision of an electronic communications network,
+>
+> (b) apparatus designed or adapted for a use which consists of or includes the sending or receiving of communications or other signals that are transmitted by means of an electronic communications network,
+>
+> (c) lines, and
+>
+> (d) other structures or things designed or adapted for use in connection with the provision of an electronic communications network.
+>
+> (2) References to the installation of electronic communications apparatus are to be construed accordingly.
+>
+> (3) In this code—
+>
+> - “line” means any wire, cable, tube, pipe or similar thing (including its casing or coating) which is designed or adapted for use in connection with the provision of any electronic communications network or electronic communications service;
+> - “structure” includes a building only if the sole purpose of that building is to enclose other electronic communications apparatus.
+>
+> **The operator's network**
+>
+> **6** In this code “network” in relation to an operator means—
+>
+> (a) if the operator falls within paragraph 2(a), so much of any electronic communications network or infrastructure system provided by the operator as is not excluded from the application of the code under section 106(5), and
+>
+> (b) if the operator falls within paragraph 2(b), the electronic communications network which the Secretary of State or the Northern Ireland department is providing or proposing to provide.
+>
+> **Infrastructure system**
+>
+> **7** (1) In this code “infrastructure system” means a system of infrastructure provided so as to be available for use by providers of electronic communications networks for the purposes of the provision by them of their networks.
+>
+> (2) References in this code to provision of an infrastructure system include references to establishing or maintaining such a system.
+>
+> **PART 2 — Conferral of code rights and their exercise**
+>
+> **Introductory**
+>
+> **8** This Part of this code makes provision about—
+>
+> (a) the conferral of code rights,
+>
+> (b) the persons who are bound by code rights, and
+>
+> (c) the exercise of code rights.
+>
+> **Who may confer code rights?**
+>
+> **9** A code right in respect of land may only be conferred on an operator by an agreement between the occupier of the land and the operator.
+>
+> **Who else is bound by code rights?**
+>
+> **10** (1) This paragraph applies if, in accordance with this Part, a code right is conferred on an operator in respect of land by a person (“O”) who is the occupier of the land when the code right is conferred.
+>
+> (2) If O has an interest in the land when the code right is conferred, the code right also binds—
+>
+> (a) the successors in title to that interest,
+>
+> (b) a person with an interest in the land that is created after the right is conferred and is derived (directly or indirectly) out of—
+>
+> (i) O's interest, or
+>
+> (ii) the interest of a successor in title to O's interest, and
+>
+> (c) any other person at any time in occupation of the land whose right to occupation was granted by—
+>
+> (i) O, at a time when O was bound by the code right, or
+>
+> (ii) a person within paragraph (a) or (b).
+>
+> (3) A successor in title who is bound by a code right by virtue of sub-paragraph (2)(a) is to be treated as a party to the agreement by which O conferred the right.
+>
+> (4) The code right also binds any other person with an interest in the land who has agreed to be bound by it.
+>
+> (5) If such a person (“P”) agrees to be bound by the code right, the code right also binds—
+>
+> (a) the successors in title to P's interest,
+>
+> (b) a person with an interest in the land that is created after P agrees to be bound and is derived (directly or indirectly) out of—
+>
+> (i) P's interest, or
+>
+> (ii) the interest of a successor in title to P's interest, and
+>
+> (c) any other person at any time in occupation of the land whose right to occupation was granted by—
+>
+> (i) P, at a time when P was bound by the code right, or
+>
+> (ii) a person within paragraph (a) or (b).
+>
+> (6) A successor in title who is bound by a code right by virtue of sub-paragraph (5)(a) is to be treated as a party to the agreement by which P agreed to be bound by the right.
+>
+> **Requirements for agreements**
+>
+> **11** (1) An agreement under this Part—
+>
+> (a) must be in writing,
+>
+> (b) must be signed by or on behalf of the parties to it,
+>
+> (c) must state for how long the code right is exercisable, and
+>
+> (d) must state the period of notice (if any) required to terminate the agreement.
+>
+> (2) Sub-paragraph (1)(a) and (b) also applies to the variation of an agreement under this Part.
+>
+> (3) The agreement as varied must still comply with sub-paragraph (1)(c) and (d).
+>
+> **Exercise of code rights**
+>
+> **12** (1) A code right is exercisable only in accordance with the terms subject to which it is conferred.
+>
+> (2) Anything done by an operator in the exercise of a code right conferred under this Part in relation to any land is to be treated as done in the exercise of a statutory power.
+>
+> (3) Sub-paragraph (2) does not apply against a person who—
+>
+> (a) is the owner of the freehold estate in the land or the lessee of the land, and
+>
+> (b) is not for the time being bound by the code right.
+>
+> (4) Sub-paragraph (2) does not apply against a person who has the benefit of a covenant or agreement entered into as respects the land, if—
+>
+> (a) the covenant or agreement was entered into under a enactment, and
+>
+> (b) by virtue of the enactment, it binds or will bind persons who derive title or otherwise claim—
+>
+> (i) under the covenantor, or
+>
+> (ii) under a party to the agreement.
+>
+> (5) In the application of sub-paragraph (3) to Scotland the reference to a person who is the owner of the freehold estate in the land is to be read as a reference to a person who is the owner of the land.
+>
+> **Access to land**
+>
+> **13** (1) This paragraph applies to an operator by whom any of the following rights is exercisable in relation to land—
+>
+> (a) a code right within paragraph (a) to (g) or (i) of paragraph 3;
+>
+> (b) a right under Part 8 (street works rights);
+>
+> (c) a right under Part 9 (tidal water rights);
+>
+> (d) a right under paragraph 74 (power to fly lines).
+>
+> (2) The operator may not exercise the right so as to interfere with or obstruct any means of access to or from any other land unless, in accordance with this code, the occupier of the other land has conferred or is otherwise bound by a code right within paragraph (h) of paragraph 3.
+>
+> (3) A reference in this code to a means of access to or from land includes a means of access to or from land that is provided for use in emergencies.
+>
+> (4) This paragraph does not require a person to whom sub-paragraph (5) applies to agree to the exercise of any code right on land other than the land mentioned in that sub-paragraph.
+>
+> (5) This sub-paragraph applies to a person who is the occupier of, or owns an interest in, land which is—
+>
+> (a) a street in England and Wales or Northern Ireland,
+>
+> (b) a road in Scotland, or
+>
+> (c) tidal water or lands within the meaning of Part 9 of this code.
+>
+> **Code rights and land registration**
+>
+> **14** Where an enactment requires interests, charges or other obligations affecting land to be registered, the provisions of this code about who is bound by a code right have effect whether or not that right is registered.
+>
+> **PART 3 — Assignment of code rights, and upgrading and sharing of apparatus**
+>
+> **Introductory**
+>
+> **15** This Part of this code makes provision for—
+>
+> (a) operators to assign agreements under Part 2,
+>
+> (b) operators to upgrade electronic communications apparatus to which such an agreement relates, and
+>
+> (c) operators to share the use of any such electronic communications apparatus.
+>
+> **Assignment of code rights**
+>
+> **16** (1) Any agreement under Part 2 of this code is void to the extent that—
+>
+> (a) it prevents or limits assignment of the agreement to another operator, or
+>
+> (b) it makes assignment of the agreement to another operator subject to conditions (including a condition requiring the payment of money).
+>
+> (2) Sub-paragraph (1) does not apply to a term that requires the assignor to enter into a guarantee agreement (see sub-paragraph (7)).
+>
+> (3) In this paragraph references to “the assignor” or “the assignee” are to the operator by whom or to whom an agreement under Part 2 of this code is assigned or proposed to be assigned.
+>
+> (4) From the time when the assignment of an agreement under Part 2 of this code takes effect, the assignee is bound by the terms of the agreement.
+>
+> (5) The assignor is not liable for any breach of a term of the agreement that occurs after the assignment if (and only if), before the breach took place, the assignor or the assignee gave a notice in writing to the other party to the agreement which—
+>
+> (a) identified the assignee, and
+>
+> (b) provided an address for service (for the purposes of paragraph 91(2)(a)) for the assignee.
+>
+> (6) Sub-paragraph (5) is subject to the terms of any guarantee agreement.
+>
+> (7) A “guarantee agreement” is an agreement, in connection with the assignment of an agreement under Part 2 of this code, under which the assignor guarantees to any extent the performance by the assignee of the obligations that become binding on the assignee under sub-paragraph (4) (the “relevant obligations”).
+>
+> (8) An agreement is not a guarantee agreement to the extent that it purports—
+>
+> (a) to impose on the assignor a requirement to guarantee in any way the performance of the relevant obligations by a person other than the assignee, or
+>
+> (b) to impose on the assignor any liability, restriction or other requirement of any kind in relation to a time after the relevant obligations cease to be binding on the assignee.
+>
+> (9) Subject to sub-paragraph (8), a guarantee agreement may—
+>
+> (a) impose on the assignor any liability as sole or principal debtor in respect of the relevant obligations;
+>
+> (b) impose on the assignor liabilities as guarantor in respect of the assignee's performance of the relevant obligations which are no more onerous than those to which the assignor would be subject in the event of the assignor being liable as sole or principal debtor in respect of any relevant obligation;
+>
+> (c) make provision incidental or supplementary to any provision within paragraph (a) or (b).
+>
+> (10) In the application of this paragraph to Scotland references to assignment of an agreement are to be read as references to assignation of an agreement.
+>
+> (11) Nothing in the Landlord and Tenant Amendment (Ireland) Act 1860 applies in relation to an agreement under Part 2 of this code so as to—
+>
+> (a) prevent or limit assignment of the agreement to another operator, or
+>
+> (b) relieve the assignor from liability for any breach of a term of the agreement that occurs after the assignment.
+>
+> **Power for operator to upgrade or share apparatus**
+>
+> **17** (1) An operator (“the main operator”) who has entered into an agreement under Part 2 of this code may, if the conditions in sub-paragraphs (2) and (3) are met—
+>
+> (a) upgrade the electronic communications apparatus to which the agreement relates, or
+>
+> (b) share the use of such electronic communications apparatus with another operator.
+>
+> (2) The first condition is that any changes as a result of the upgrading or sharing to the electronic communications apparatus to which the agreement relates have no adverse impact, or no more than a minimal adverse impact, on its appearance.
+>
+> (3) The second condition is that the upgrading or sharing imposes no additional burden on the other party to the agreement.
+>
+> (4) For the purposes of sub-paragraph (3) an additional burden includes anything that—
+>
+> (a) has an additional adverse effect on the other party's enjoyment of the land, or
+>
+> (b) causes additional loss, damage or expense to that party.
+>
+> (5) Any agreement under Part 2 of this code is void to the extent that—
+>
+> (a) it prevents or limits the upgrading or sharing, in a case where the conditions in sub-paragraphs (2) and (3) are met, of the electronic communications apparatus to which the agreement relates, or
+>
+> (b) it makes upgrading or sharing of such apparatus subject to conditions to be met by the operator (including a condition requiring the payment of money).
+>
+> (6) References in this paragraph to sharing electronic communications apparatus include carrying out works to the apparatus to enable such sharing to take place.
+>
+> **Effect of agreements enabling sharing between operators and others**
+>
+> **18** (1) This paragraph applies where—
+>
+> (a) this code has been applied by a direction under section 106 in a person's case,
+>
+> (b) this code expressly or impliedly imposes a limitation on the use to which electronic communications apparatus installed by that person may be put or on the purposes for which it may be used, and
+>
+> (c) that person is a party to a relevant agreement or becomes a party to an agreement which (after the person has become a party to it) is a relevant agreement.
+>
+> (2) The limitation does not preclude—
+>
+> (a) the doing of anything in relation to that apparatus, or
+>
+> (b) its use for particular purposes,
+>
+> to the extent that the doing of that thing, or the use of the apparatus for those purposes, is in pursuance of the relevant agreement.
+>
+> (3) This paragraph is not to be construed, in relation to a person who is entitled or authorised by or under a relevant agreement to share the use of apparatus installed by another party to the agreement, as affecting any consent requirement imposed (whether by an agreement, an enactment or otherwise) on that person.
+>
+> (4) In this paragraph—
+>
+> - “consent requirement”, in relation to a person, means a requirement for the person to obtain consent or permission to or in connection with—
+>
+>   - (a) the installation by the person of apparatus, or
+>   - (b) the doing by the person of any other thing in relation to apparatus the use of which the person is entitled or authorised to share;
+>
+> - “relevant agreement” means an agreement in relation to electronic communications apparatus which—
+>
+>   - (a) relates to the sharing by different parties to the agreement of the use of that apparatus, and
+>   - (b) is an agreement that satisfies the requirements of sub-paragraph (5).
+>
+> (5) An agreement satisfies the requirements of this sub-paragraph if—
+>
+> (a) every party to the agreement is a person in whose case this code applies by virtue of a direction under section 106, or
+>
+> (b) one or more of the parties to the agreement is a person in whose case this code so applies and every other party to the agreement is a qualifying person.
+>
+> (6) A person is a qualifying person for the purposes of sub-paragraph (5) if the person is either—
+>
+> (a) a person who provides an electronic communications network without being a person in whose case this code applies, or
+>
+> (b) a designated provider of an electronic communications service consisting in the distribution of a programme service by means of an electronic communications network.
+>
+> (7) In sub-paragraph (6)—
+>
+> - “designated” means designated by regulations made by the Secretary of State;
+> - “programme service” has the same meaning as in the Broadcasting Act 1990.
+>
+> **PART 4 — Power of court to impose agreement**
+>
+> **Introductory**
+>
+> **19** This Part of this code makes provision about—
+>
+> (a) the circumstances in which the court can impose an agreement on a person by which the person confers or is otherwise bound by a code right,
+>
+> (b) the test to be applied by the court in deciding whether to impose such an agreement,
+>
+> (c) the effect of such an agreement and its terms,
+>
+> (d) the imposition of an agreement on a person on an interim or temporary basis.
+>
+> **When can the court impose an agreement?**
+>
+> **20** (1) This paragraph applies where the operator requires a person (a “relevant person”) to agree—
+>
+> (a) to confer a code right on the operator, or
+>
+> (b) to be otherwise bound by a code right which is exercisable by the operator.
+>
+> (2) The operator may give the relevant person a notice in writing—
+>
+> (a) setting out the code right, and all of the other terms of the agreement that the operator seeks, and
+>
+> (b) stating that the operator seeks the person's agreement to those terms.
+>
+> (3) The operator may apply to the court for an order under this paragraph if—
+>
+> (a) the relevant person does not, before the end of 28 days beginning with the day on which the notice is given, agree to confer or be otherwise bound by the code right, or
+>
+> (b) at any time after the notice is given, the relevant person gives notice in writing to the operator that the person does not agree to confer or be otherwise bound by the code right.
+>
+> (4) An order under this paragraph is one which imposes on the operator and the relevant person an agreement between them which—
+>
+> (a) confers the code right on the operator, or
+>
+> (b) provides for the code right to bind the relevant person.
+>
+> **What is the test to be applied by the court?**
+>
+> **21** (1) Subject to sub-paragraph (5), the court may make an order under paragraph 20 if (and only if) the court thinks that both of the following conditions are met.
+>
+> (2) The first condition is that the prejudice caused to the relevant person by the order is capable of being adequately compensated by money.
+>
+> (3) The second condition is that the public benefit likely to result from the making of the order outweighs the prejudice to the relevant person.
+>
+> (4) In deciding whether the second condition is met, the court must have regard to the public interest in access to a choice of high quality electronic communications services.
+>
+> (5) The court may not make an order under paragraph 20 if it thinks that the relevant person intends to redevelop all or part of the land to which the code right would relate, or any neighbouring land, and could not reasonably do so if the order were made.
+>
+> **What is the effect of an agreement imposed under paragraph 20?**
+>
+> **22** An agreement imposed by an order under paragraph 20 takes effect for all purposes of this code as an agreement under Part 2 of this code between the operator and the relevant person.
+>
+> **What are the terms of an agreement imposed under paragraph 20?**
+>
+> **23** (1) An order under paragraph 20 may impose an agreement which gives effect to the code right sought by the operator with such modifications as the court thinks appropriate.
+>
+> (2) An order under paragraph 20 must require the agreement to contain such terms as the court thinks appropriate, subject to sub-paragraphs (3) to (8).
+>
+> (3) The terms of the agreement must include terms as to the payment of consideration by the operator to the relevant person for the relevant person's agreement to confer or be bound by the code right (as the case may be).
+>
+> (4) Paragraph 24 makes provision about the determination of consideration under sub-paragraph (3).
+>
+> (5) The terms of the agreement must include the terms the court thinks appropriate for ensuring that the least possible loss and damage is caused by the exercise of the code right to persons who—
+>
+> (a) occupy the land in question,
+>
+> (b) own interests in that land, or
+>
+> (c) are from time to time on that land.
+>
+> (6) Sub-paragraph (5) applies in relation to a person regardless of whether the person is a party to the agreement.
+>
+> (7) The terms of the agreement must include terms specifying for how long the code right conferred by the agreement is exercisable.
+>
+> (8) The court must determine whether the terms of the agreement should include a term—
+>
+> (a) permitting termination of the agreement (and, if so, in what circumstances);
+>
+> (b) enabling the relevant person to require the operator to reposition or temporarily to remove the electronic communications equipment to which the agreement relates (and, if so, in what circumstances).
+>
+> **How is consideration to be determined under paragraph 23?**
+>
+> **24** (1) The amount of consideration payable by an operator to a relevant person under an agreement imposed by an order under paragraph 20 must be an amount or amounts representing the market value of the relevant person's agreement to confer or be bound by the code right (as the case may be).
+>
+> (2) For this purpose the market value of a person's agreement to confer or be bound by a code right is, subject to sub-paragraph (3), the amount that, at the date the market value is assessed, a willing buyer would pay a willing seller for the agreement—
+>
+> (a) in a transaction at arm's length,
+>
+> (b) on the basis that the buyer and seller were acting prudently and with full knowledge of the transaction, and
+>
+> (c) on the basis that the transaction was subject to the other provisions of the agreement imposed by the order under paragraph 20.
+>
+> (3) The market value must be assessed on these assumptions—
+>
+> (a) that the right that the transaction relates to does not relate to the provision or use of an electronic communications network;
+>
+> (b) that paragraphs 16 and 17 (assignment, and upgrading and sharing) do not apply to the right or any apparatus to which it could apply;
+>
+> (c) that the right in all other respects corresponds to the code right;
+>
+> (d) that there is more than one site which the buyer could use for the purpose for which the buyer seeks the right.
+>
+> (4) The terms of the agreement may provide for consideration to be payable—
+>
+> (a) as a lump sum or periodically,
+>
+> (b) on the occurrence of a specified event or events, or
+>
+> (c) in such other form or at such other time or times as the court may direct.
+>
+> **What rights to the payment of compensation are there?**
+>
+> **25** (1) If the court makes an order under paragraph 20 the court may also order the operator to pay compensation to the relevant person for any loss or damage that has been sustained or will be sustained by that person as a result of the exercise of the code right to which the order relates.
+>
+> (2) An order under sub-paragraph (1) may be made—
+>
+> (a) at the time the court makes an order under paragraph 20, or
+>
+> (b) at any time afterwards, on the application of the relevant person.
+>
+> (3) An order under sub-paragraph (1) may—
+>
+> (a) specify the amount of compensation to be paid by the operator, or
+>
+> (b) give directions for the determination of any such amount.
+>
+> (4) Directions under sub-paragraph (3)(b) may provide—
+>
+> (a) for the amount of compensation to be agreed between the operator and the relevant person;
+>
+> (b) for any dispute about that amount to be determined by arbitration.
+>
+> (5) An order under this paragraph may provide for the operator—
+>
+> (a) to make a lump sum payment,
+>
+> (b) to make periodical payments,
+>
+> (c) to make a payment or payments on the occurrence of an event or events, or
+>
+> (d) to make a payment or payments in such other form or at such other time or times as the court may direct.
+>
+> (6) Paragraph 84 makes further provision about compensation in the case of an order under paragraph 20.
+>
+> **Interim code rights**
+>
+> **26** (1) An operator may apply to the court for an order which imposes on the operator and a person, on an interim basis, an agreement between them which—
+>
+> (a) confers a code right on the operator, or
+>
+> (b) provides for a code right to bind that person.
+>
+> (2) An order under this paragraph imposes an agreement on the operator and a person on an interim basis if it provides for them to be bound by the agreement—
+>
+> (a) for the period specified in the order, or
+>
+> (b) until the occurrence of an event specified in the order.
+>
+> (3) The court may make an order under this paragraph if (and only if) the operator has given the person mentioned in sub-paragraph (1) a notice which complies with paragraph 20(2) stating that an agreement is sought on an interim basis and—
+>
+> (a) the operator and that person have agreed to the making of the order and the terms of the agreement imposed by it, or
+>
+> (b) the court thinks that there is a good arguable case that the test in paragraph 21 for the making of an order under paragraph 20 is met.
+>
+> (4) Subject to sub-paragraphs (5) and (6), the following provisions apply in relation to an order under this paragraph and an agreement imposed by it as they apply in relation to an order under paragraph 20 and an agreement imposed by it—
+>
+> (a) paragraph 20(3) (time at which operator may apply for agreement to be imposed);
+>
+> (b) paragraph 22 (effect of agreement imposed under paragraph 20);
+>
+> (c) paragraph 23 (terms of agreement imposed under paragraph 20);
+>
+> (d) paragraph 24 (payment of consideration);
+>
+> (e) paragraph 25 (payment of compensation);
+>
+> (f) paragraph 84 (compensation where agreement imposed).
+>
+> (5) The court may make an order under this paragraph even though the period mentioned in paragraph 20(3)(a) has not elapsed (and paragraph 20(3)(b) does not apply) if the court thinks that the order should be made as a matter of urgency.
+>
+> (6) Paragraphs 23, 24 and 25 apply by virtue of sub-paragraph (4) as if—
+>
+> (a) references to the relevant person were to the person mentioned in sub-paragraph (1) of this paragraph, and
+>
+> (b) the duty in paragraph 23 to include terms as to the payment of consideration to that person in an agreement were a power to do so.
+>
+> (7) Sub-paragraph (8) applies if—
+>
+> (a) an order has been made under this paragraph imposing an agreement relating to a code right on an operator and a person in respect of any land, and
+>
+> (b) the period specified under sub-paragraph (2)(a) has expired or, as the case may be, the event specified under sub-paragraph (2)(b) has occurred without (in either case) an agreement relating to the code right having been imposed on the person by order under paragraph 20.
+>
+> (8) From the time when the period expires or the event occurs, that person has the right, subject to and in accordance with Part 6 of this code, to require the operator to remove any electronic communications apparatus placed on the land under the agreement imposed under this paragraph.
+>
+> **Temporary code rights**
+>
+> **27** (1) This paragraph applies where—
+>
+> (a) an operator gives a notice under paragraph 20(2) to a person in respect of any land,
+>
+> (b) the notice also requires that person's agreement on a temporary basis in respect of a right which is to be exercisable (in whole or in part) in relation to electronic communications apparatus which is already installed on, under or over the land, and
+>
+> (c) the person has the right to require the removal of the apparatus in accordance with paragraph 37 or as mentioned in paragraph 40(1) but the operator is not for the time being required to remove the apparatus.
+>
+> (2) The court may, on the application of the operator, impose on the operator and the person an agreement between them which confers on the operator, or provides for the person to be bound by, such temporary code rights as appear to the court reasonably necessary for securing the objective in sub-paragraph (3).
+>
+> (3) That objective is that, until the proceedings under paragraph 20 and any proceedings under paragraph 40 are determined, the service provided by the operator's network is maintained and the apparatus is properly adjusted and kept in repair.
+>
+> (4) Subject to sub-paragraphs (5) and (6), the following provisions apply in relation to an order under this paragraph and an agreement imposed by it as they apply in relation to an order under paragraph 20 and an agreement imposed by it—
+>
+> (a) paragraph 20(3) (time at which operator may apply for agreement to be imposed);
+>
+> (b) paragraph 22 (effect of agreement imposed under paragraph 20);
+>
+> (c) paragraph 23 (terms of agreement imposed under paragraph 20);
+>
+> (d) paragraph 24 (payment of consideration);
+>
+> (e) paragraph 25 (payment of compensation);
+>
+> (f) paragraph 84 (compensation where agreement imposed).
+>
+> (5) The court may make an order under this paragraph even though the period mentioned in paragraph 20(3)(a) has not elapsed (and paragraph 20(3)(b) does not apply) if the court thinks that the order should be made as a matter of urgency.
+>
+> (6) Paragraphs 23, 24 and 25 apply by virtue of sub-paragraph (4) as if—
+>
+> (a) references to the relevant person were to the person mentioned in sub-paragraph (1) of this paragraph, and
+>
+> (b) the duty in paragraph 23 to include terms as to the payment of consideration to that person in an agreement were a power to do so.
+>
+> (7) Sub-paragraph (8) applies where, in the course of the proceedings under paragraph 20, it is shown that a person with an interest in the land was entitled to require the removal of the apparatus immediately after it was installed.
+>
+> (8) The court must, in determining for the purposes of paragraph 20 whether the apparatus should continue to be kept on, under or over the land, disregard the fact that the apparatus has already been installed there.
+>
+> **PART 5 — Termination and modification of agreements**
+>
+> **Introductory**
+>
+> **28** This Part of this code makes provision about—
+>
+> (a) the continuation of code rights after the time at which they cease to be exercisable under an agreement,
+>
+> (b) the procedure for bringing an agreement to an end,
+>
+> (c) the procedure for changing an agreement relating to code rights, and
+>
+> (d) the arrangements for the making of payments under an agreement whilst disputes under this Part are resolved.
+>
+> **Application of this Part**
+>
+> **29** (1) This Part of this code applies to an agreement under Part 2 of this code, subject to sub-paragraphs (2) to (4).
+>
+> (2) This Part of this code does not apply to a lease of land in England and Wales if—
+>
+> (a) its primary purpose is not to grant code rights, and
+>
+> (b) it is a lease to which Part 2 of the Landlord and Tenant Act 1954 (security of tenure for business, professional and other tenants) applies.
+>
+> (3) In determining whether a lease is one to which Part 2 of the Landlord and Tenant Act 1954 applies, any agreement under section 38A (agreements to exclude provisions of Part 2) of that Act is to be disregarded.
+>
+> (4) This Part of this code does not apply to a lease of land in Northern Ireland if—
+>
+> (a) its primary purpose is not to grant code rights, and
+>
+> (b) it is a lease to which the Business Tenancies (Northern Ireland) Order 1996 (SI 1996/725 (NI 5)) applies.
+>
+> (5) An agreement to which this Part of this code applies is referred to in this code as a “code agreement”.
+>
+> **Continuation of code rights**
+>
+> **30** (1) Sub-paragraph (2) applies if—
+>
+> (a) a code right is conferred by, or is otherwise binding on, a person (the “site provider”) as the result of a code agreement, and
+>
+> (b) under the terms of the agreement—
+>
+> (i) the right ceases to be exercisable or the site provider ceases to be bound by it, or
+>
+> (ii) the site provider may bring the code agreement to an end so far as it relates to that right.
+>
+> (2) Where this sub-paragraph applies the code agreement continues so that—
+>
+> (a) the operator may continue to exercise that right, and
+>
+> (b) the site provider continues to be bound by the right.
+>
+> (3) Sub-paragraph (2) does not apply to a code right which is conferred by, or is otherwise binding on, a person by virtue of an order under paragraph 26 (interim code rights) or 27 (temporary code rights).
+>
+> (4) Sub-paragraph (2) is subject to the following provisions of this Part of this code.
+>
+> **How may a person bring a code agreement to an end?**
+>
+> **31** (1) A site provider who is a party to a code agreement may bring the agreement to an end by giving a notice in accordance with this paragraph to the operator who is a party to the agreement.
+>
+> (2) The notice must—
+>
+> (a) comply with paragraph 89 (notices given by persons other than operators),
+>
+> (b) specify the date on which the site provider proposes the code agreement should come to an end, and
+>
+> (c) state the ground on which the site provider proposes to bring the code agreement to an end.
+>
+> (3) The date specified under sub-paragraph (2)(b) must fall—
+>
+> (a) after the end of the period of 18 months beginning with the day on which the notice is given, and
+>
+> (b) after the time at which, apart from paragraph 30, the code right to which the agreement relates would have ceased to be exercisable or to bind the site provider or at a time when, apart from that paragraph, the code agreement could have been brought to an end by the site provider.
+>
+> (4) The ground stated under sub-paragraph (2)(c) must be one of the following—
+>
+> (a) that the code agreement ought to come to an end as a result of substantial breaches by the operator of its obligations under the agreement;
+>
+> (b) that the code agreement ought to come to an end because of persistent delays by the operator in making payments to the site provider under the agreement;
+>
+> (c) that the site provider intends to redevelop all or part of the land to which the code agreement relates, or any neighbouring land, and could not reasonably do so unless the code agreement comes to an end;
+>
+> (d) that the operator is not entitled to the code agreement because the test under paragraph 21 for the imposition of the agreement on the site provider is not met.
+>
+> **What is the effect of a notice under paragraph 31?**
+>
+> **32** (1) Where a site provider gives a notice under paragraph 31, the code agreement to which it relates comes to an end in accordance with the notice unless—
+>
+> (a) within the period of three months beginning with the day on which the notice is given, the operator gives the site provider a counter-notice in accordance with sub-paragraph (3), and
+>
+> (b) within the period of three months beginning with the day on which the counter-notice is given, the operator applies to the court for an order under paragraph 34.
+>
+> (2) Sub-paragraph (1) does not apply if the operator and the site provider agree to the continuation of the code agreement.
+>
+> (3) The counter-notice must state—
+>
+> (a) that the operator does not want the existing code agreement to come to an end,
+>
+> (b) that the operator wants the site provider to agree to confer or be otherwise bound by the existing code right on new terms, or
+>
+> (c) that the operator wants the site provider to agree to confer or be otherwise bound by a new code right in place of the existing code right.
+>
+> (4) If, on an application under sub-paragraph (1)(b), the court decides that the site provider has established any of the grounds stated in the site provider's notice under paragraph 31, the court must order that the code agreement comes to an end in accordance with the order.
+>
+> (5) Otherwise the court must make one of the orders specified in paragraph 34.
+>
+> **How may a party to a code agreement require a change to the terms of an agreement which has expired?**
+>
+> **33** (1) An operator or site provider who is a party to a code agreement by which a code right is conferred by or otherwise binds the site provider may, by notice in accordance with this paragraph, require the other party to the agreement to agree that—
+>
+> (a) the code agreement should have effect with modified terms,
+>
+> (b) where under the code agreement more than one code right is conferred by or otherwise binds the site provider, that the agreement should no longer provide for an existing code right to be conferred by or otherwise bind the site provider,
+>
+> (c) the code agreement should—
+>
+> (i) confer an additional code right on the operator, or
+>
+> (ii) provide that the site provider is otherwise bound by an additional code right, or
+>
+> (d) the existing code agreement should be terminated and a new agreement should have effect between the parties which—
+>
+> (i) confers a code right on the operator, or
+>
+> (ii) provides for a code right to bind the site provider.
+>
+> (2) The notice must—
+>
+> (a) comply with paragraph 88 or 89, according to whether the notice is given by an operator or a site provider,
+>
+> (b) specify—
+>
+> (i) the day from which it is proposed that the modified terms should have effect,
+>
+> (ii) the day from which the agreement should no longer provide for the code right to be conferred by or otherwise bind the site provider,
+>
+> (iii) the day from which it is proposed that the additional code right should be conferred by or otherwise bind the site provider, or
+>
+> (iv) the day on which it is proposed the existing code agreement should be terminated and from which a new agreement should have effect,
+>
+> (as the case may be), and
+>
+> (c) set out details of—
+>
+> (i) the proposed modified terms,
+>
+> (ii) the code right it is proposed should no longer be conferred by or otherwise bind the site provider,
+>
+> (iii) the proposed additional code right, or
+>
+> (iv) the proposed terms of the new agreement,
+>
+> (as the case may be).
+>
+> (3) The day specified under sub-paragraph (2)(b) must fall—
+>
+> (a) after the end of the period of 6 months beginning with the day on which the notice is given, and
+>
+> (b) after the time at which, apart from paragraph 30, the code right to which the existing code agreement relates would have ceased to be exercisable or to bind the site provider or at a time when, apart from that paragraph, the code agreement could have been brought to an end by the site provider.
+>
+> (4) Sub-paragraph (5) applies if, after the end of the period of 6 months beginning with the day on which the notice is given, the operator and the site provider have not reached agreement on the proposals in the notice.
+>
+> (5) Where this paragraph applies, the operator or the site provider may apply to the court for the court to make an order under paragraph 34.
+>
+> **What orders may a court make on an application under paragraph 32 or 33?**
+>
+> **34** (1) This paragraph sets out the orders that the court may make on an application under paragraph 32(1)(b) or 33(5).
+>
+> (2) The court may order that the operator may continue to exercise the existing code right in accordance with the existing code agreement for such period as may be specified in the order (so that the code agreement has effect accordingly).
+>
+> (3) The court may order the modification of the terms of the code agreement relating to the existing code right.
+>
+> (4) Where under the code agreement more than one code right is conferred by or otherwise binds the site provider, the court may order the modification of the terms of the code agreement so that it no longer provides for an existing code right to be conferred by or otherwise bind the site provider.
+>
+> (5) The court may order the terms of the code agreement relating to the existing code right to be modified so that—
+>
+> (a) it confers an additional code right on the operator, or
+>
+> (b) it provides that the site provider is otherwise bound by an additional code right.
+>
+> (6) The court may order the termination of the code agreement relating to the existing code right and order the operator and the site provider to enter into a new agreement which—
+>
+> (a) confers a code right on the operator, or
+>
+> (b) provides for a code right to bind the site provider.
+>
+> (7) The existing code agreement continues until the new agreement takes effect.
+>
+> (8) This code applies to the new agreement as if it were an agreement under Part 2 of this code.
+>
+> (9) The terms conferring or providing for an additional code right under sub-paragraph (5), and the terms of a new agreement under sub-paragraph (6), are to be such as are agreed between the operator and the site provider.
+>
+> (10) If the operator and the site provider are unable to agree on the terms, the court must on an application by either party make an order specifying those terms.
+>
+> (11) Paragraphs 23(2) to (8), 24, 25 and 84 apply—
+>
+> (a) to an order under sub-paragraph (3), (4) or (5), so far as it modifies or specifies the terms of the agreement, and
+>
+> (b) to an order under sub-paragraph (10)
+>
+> as they apply to an order under paragraph 20.
+>
+> (12) In the case of an order under sub-paragraph (10) the court must also have regard to the terms of the existing code agreement.
+>
+> (13) In determining which order to make under this paragraph, the court must have regard to all the circumstances of the case, and in particular to—
+>
+> (a) the operator's business and technical needs,
+>
+> (b) the use that the site provider is making of the land to which the existing code agreement relates,
+>
+> (c) any duties imposed on the site provider by an enactment, and
+>
+> (d) the amount of consideration payable by the operator to the site provider under the existing code agreement.
+>
+> (14) Where the court makes an order under this paragraph, it may also order the operator to pay the site provider the amount (if any) by which A exceeds B, where—
+>
+> (a) A is the amount of consideration that would have been payable by the operator to the site provider for the relevant period if that amount had been assessed on the same basis as the consideration payable as the result of the order, and
+>
+> (b) B is the amount of consideration payable by the operator to the site provider for the relevant period.
+>
+> (15) In sub-paragraph (14) the relevant period is the period (if any) that—
+>
+> (a) begins on the date on which, apart from the operation of paragraph 30, the code right to which the existing code agreement relates would have ceased to be exercisable or to bind the site provider or from which, apart from that paragraph, the code agreement could have been brought to an end by the site provider, and
+>
+> (b) ends on the date on which the order is made.
+>
+> **What arrangements for payment can be made pending determination of the application?**
+>
+> **35** (1) This paragraph applies where—
+>
+> (a) a code right continues to be exercisable under paragraph 30 after the time at which, apart from the operation of that paragraph, the code right would have ceased to be exercisable or to bind the site provider or from which, apart from that paragraph, the code agreement relating to the right could have been brought to an end by the site provider, and
+>
+> (b) the operator or the site provider has applied to the court for an order under paragraph 32(1)(b) or 33(5).
+>
+> (2) The site provider may—
+>
+> (a) agree with the operator that, until the application has been finally determined, the site provider will continue to receive the payments of consideration from the operator to which the site provider is entitled under the agreement relating to the existing code right,
+>
+> (b) agree with the operator that, until that time, the site provider will receive different payments of consideration under that agreement, or
+>
+> (c) apply to the court for the court to determine the payments of consideration to be made by the operator to the site provider under that agreement until that time.
+>
+> (3) The court must determine the payments under sub-paragraph (2)(c) on the basis set out in paragraph 24 (calculation of consideration).
+>
+> **PART 6 — Rights to require removal of electronic communications apparatus**
+>
+> **Introductory**
+>
+> **36** This Part of this code makes provision about—
+>
+> (a) the cases in which a person has the right to require the removal of electronic communications apparatus or the restoration of land,
+>
+> (b) the means by which a person can discover whether apparatus is on land pursuant to a code right, and
+>
+> (c) the means by which a right to require removal of apparatus or restoration of land can be enforced.
+>
+> **When does a landowner have the right to require removal of electronic communications apparatus?**
+>
+> **37** (1) A person with an interest in land (a “landowner”) has the right to require the removal of electronic communications apparatus on, under or over the land if (and only if) one or more of the following conditions are met.
+>
+> (2) The first condition is that the landowner has never since the coming into force of this code been bound by a code right entitling an operator to keep the apparatus on, under or over the land.
+>
+> (3) The second condition is that a code right entitling an operator to keep the apparatus on, under or over the land has come to an end or has ceased to bind the landowner—
+>
+> (a) as mentioned in paragraph 26(7) and (8),
+>
+> (b) as the result of paragraph 32(1), or
+>
+> (c) as the result of an order under paragraph 32(4) or 34(4) or (6), or
+>
+> (d) where the right was granted by a lease to which Part 5 of this code does not apply.
+>
+> This is subject to sub-paragraph (4).
+>
+> (4) The landowner does not meet the first or second condition if—
+>
+> (a) the land is occupied by a person who—
+>
+> (i) conferred a code right (which is in force) entitling an operator to keep the apparatus on, under or over the land, or
+>
+> (ii) is otherwise bound by such a right, and
+>
+> (b) that code right was not conferred in breach of a covenant enforceable by the landowner.
+>
+> (5) In the application of sub-paragraph (4)(b) to Scotland the reference to a covenant enforceable by the landowner is to be read as a reference to a contractual term which is so enforceable.
+>
+> (6) The third condition is that—
+>
+> (a) an operator has the benefit of a code right entitling the operator to keep the apparatus on, under or over the land, but
+>
+> (b) the apparatus is not, or is no longer, used for the purposes of the operator's network, and
+>
+> (c) there is no reasonable likelihood that the apparatus will be used for that purpose.
+>
+> (7) The fourth condition is that—
+>
+> (a) this code has ceased to apply to a person so that the person is no longer entitled under this code to keep the apparatus on, under or over the land,
+>
+> (b) the retention of the apparatus on, under or over the land is not authorised by a scheme contained in an order under section 117, and
+>
+> (c) there is no other person with a right conferred by or under this code to keep the apparatus on, under or over the land.
+>
+> (8) The fifth condition is that—
+>
+> (a) the apparatus was kept on, under or over the land pursuant to—
+>
+> (i) a transport land right (see Part 7), or
+>
+> (ii) a street work right (see Part 8),
+>
+> (b) that right has ceased to be exercisable in relation to the land by virtue of paragraph 54(9), and
+>
+> (c) there is no other person with a right conferred by or under this code to keep the apparatus on, under or over the land.
+>
+> (9) This paragraph does not affect rights to require the removal of apparatus under another enactment (see paragraph 41).
+>
+> **When does a landowner or occupier of neighbouring land have the right to require removal of electronic communications apparatus?**
+>
+> **38** (1) A landowner or occupier of any land (“neighbouring land”) has the right to require the removal of electronic communications apparatus kept on, under or over other land in exercise of a right mentioned in paragraph 13(1), if both of the following conditions are met.
+>
+> (2) The first condition is that the apparatus interferes with or obstructs a means of access to or from the neighbouring land.
+>
+> (3) The second condition is that the landowner or occupier of the neighbouring land is not bound by a code right within paragraph 3(h) entitling an operator to cause the interference or obstruction.
+>
+> (4) A landowner of neighbouring land who is not the occupier of the land does not meet the second condition if—
+>
+> (a) the land is occupied by a person who—
+>
+> (i) conferred a code right (which is in force) entitling an operator to cause the interference or obstruction, or
+>
+> (ii) is otherwise bound by such a right, and
+>
+> (b) that code right was not conferred in breach of a covenant enforceable by the landowner.
+>
+> (5) In the application of sub-paragraph (4)(b) to Scotland the reference to a covenant enforceable by the landowner is to be read as a reference to a contractual term which is so enforceable.
+>
+> **How does a landowner or occupier find out whether apparatus is on land pursuant to a code right?**
+>
+> **39** (1) A landowner may by notice require an operator to disclose whether—
+>
+> (a) the operator owns electronic communications apparatus on, under or over land in which the landowner has an interest or uses such apparatus for the purposes of the operator's network, or
+>
+> (b) the operator has the benefit of a code right entitling the operator to keep electronic communications apparatus on, under or over land in which the landowner has an interest.
+>
+> (2) A landowner or occupier of neighbouring land may by notice require an operator to disclose whether—
+>
+> (a) the operator owns electronic communications apparatus on, under or over land that forms (or, but for the apparatus, would form) a means of access to the neighbouring land, or uses such apparatus for the purposes of the operator's network, or
+>
+> (b) the operator has the benefit of a code right entitling the operator to keep electronic communications apparatus on, under or over land that forms (or, but for the apparatus, would form) a means of access to the neighbouring land.
+>
+> (3) The notice must comply with paragraph 89 (notices given by persons other than operators).
+>
+> (4) Sub-paragraph (5) applies if—
+>
+> (a) the operator does not, before the end of the period of three months beginning with the date on which the notice under sub-paragraph (1) or (2) was given, give a notice to the landowner or occupier that—
+>
+> (i) complies with paragraph 88 (notices given by operators), and
+>
+> (ii) discloses the information sought by the landowner or occupier,
+>
+> (b) the landowner or occupier takes action under paragraph 40 to enforce the removal of the apparatus, and
+>
+> (c) it is subsequently established that—
+>
+> (i) the operator owns the apparatus or uses it for the purposes of the operator's network, and
+>
+> (ii) the operator has the benefit of a code right entitling the operator to keep the apparatus on, under or over the land.
+>
+> (5) The operator must nevertheless bear the costs of any action taken by the landowner or occupier under paragraph 40 to enforce the removal of the apparatus.
+>
+> **How does a landowner or occupier enforce removal of apparatus?**
+>
+> **40** (1) The right of a landowner or occupier to require the removal of electronic communications apparatus on, under or over land, under paragraph 37 or 38, is exercisable only in accordance with this paragraph.
+>
+> (2) The landowner or occupier may give a notice to the operator whose apparatus it is requiring the operator—
+>
+> (a) to remove the apparatus, and
+>
+> (b) to restore the land to its condition before the apparatus was placed on, under or over the land.
+>
+> (3) The notice must—
+>
+> (a) comply with paragraph 89 (notices given by persons other than operators), and
+>
+> (b) specify the period within which the operator must complete the works.
+>
+> (4) The period specified under sub-paragraph (3) must be a reasonable one.
+>
+> (5) Sub-paragraph (6) applies if, within the period of 28 days beginning with the day on which the notice was given, the landowner or occupier and the operator do not reach agreement on any of the following matters—
+>
+> (a) that the operator will remove the apparatus;
+>
+> (b) that the operator will restore the land to its condition before the apparatus was placed on, under or over the land;
+>
+> (c) the time at which or period within which the apparatus will be removed;
+>
+> (d) the time at which or period within which the land will be restored.
+>
+> (6) The landowner or occupier may make an application to the court for—
+>
+> (a) an order under paragraph 44(1) (order requiring operator to remove apparatus etc), or
+>
+> (b) an order under paragraph 44(3) (order enabling landowner to sell apparatus etc).
+>
+> (7) If the court makes an order under paragraph 44(1), but the operator does not comply with the agreement imposed on the operator and the landowner or occupier by virtue of paragraph 44(7), the landowner or occupier may make an application to the court for an order under paragraph 44(3).
+>
+> (8) On an application under sub-paragraph (6) or (7) the court may not make an order in relation to apparatus if an application under paragraph 20(3) has been made in relation to the apparatus and has not been determined.
+>
+> **How are other rights to require removal of apparatus enforced?**
+>
+> **41** (1) The right of a person (a “third party”) under an enactment other than this code, or otherwise than under an enactment, to require the removal of electronic communications apparatus on, under or over land is exercisable only in accordance with this paragraph.
+>
+> (2) The third party may give a notice to the operator whose apparatus it is, requiring the operator—
+>
+> (a) to remove the apparatus, and
+>
+> (b) to restore the land to its condition before the apparatus was placed on, under or over the land.
+>
+> (3) The notice must—
+>
+> (a) comply with paragraph 89 (notices given by persons other than operators), and
+>
+> (b) specify the period within which the operator must complete the works.
+>
+> (4) The period specified under sub-paragraph (3) must be a reasonable one.
+>
+> (5) Within the period of 28 days beginning with the day on which notice under sub-paragraph (2) is given, the operator may give the third party notice (“counter-notice”)—
+>
+> (a) stating that the third party is not entitled to require the removal of the apparatus, or
+>
+> (b) specifying the steps which the operator proposes to take for the purpose of securing a right as against the third party to keep the apparatus on the land.
+>
+> (6) If the operator does not give counter-notice within that period, the third party is entitled to enforce the removal of the apparatus.
+>
+> (7) If the operator gives the third party counter-notice within that period, the third party may enforce the removal of the apparatus only in pursuance of an order of the court that the third party is entitled to enforce the removal of the apparatus.
+>
+> (8) If the counter-notice specifies steps under paragraph (5)(b), the court may make an order under sub-paragraph (7) only if it is satisfied—
+>
+> (a) that the operator is not intending to take those steps or is being unreasonably dilatory in taking them; or
+>
+> (b) that taking those steps has not secured, or will not secure, for the operator as against the third party any right to keep the apparatus installed on, under or over the land or to re-install it if it is removed.
+>
+> (9) Where the third party is entitled to enforce the removal of the apparatus, under sub-paragraph (6) or under an order under sub-paragraph (7), the third party may make an application to the court for—
+>
+> (a) an order under paragraph 44(1) (order requiring operator to remove apparatus etc), or
+>
+> (b) an order under paragraph 44(3) (order enabling third party to sell apparatus etc).
+>
+> (10) If the court makes an order under paragraph 44(1), but the operator does not comply with the agreement imposed on the operator and the third party by virtue of paragraph 44(7), the third party may make an application to the court for an order under paragraph 44(3).
+>
+> (11) An order made on an application under this paragraph need not include provision within paragraph 44(1)(b) or (3)(d) unless the court thinks it appropriate.
+>
+> (12) Sub-paragraph (9) is without prejudice to any other method available to the third party for enforcing the removal of the apparatus.
+>
+> **How does paragraph 40 apply if a person is entitled to require apparatus to be altered in consequence of street works?**
+>
+> **42** (1) This paragraph applies where the third party's right in relation to which paragraph 41 applies is a right to require the alteration of the apparatus in consequence of the stopping up, closure, change or diversion of a street or road or the extinguishment or alteration of a public right of way.
+>
+> (2) The removal of the apparatus in pursuance of paragraph 41 constitutes compliance with a requirement to make any other alteration.
+>
+> (3) A counter-notice under paragraph 41(5) may state (in addition to, or instead of, any of the matters mentioned in paragraph 41(5)(b)) that the operator requires the third party to reimburse the operator in respect of any expenses incurred by the operator in or in connection with the making of any alteration in compliance with the requirements of the third party.
+>
+> (4) An order made under paragraph 41 on an application by the third party in respect of a counter-notice containing a statement under sub-paragraph (3) must, unless the court otherwise thinks fit, require the third party to reimburse the operator in respect of the expenses referred to in the statement.
+>
+> (5) Paragraph 44(3)(b) to (e) do not apply.
+>
+> (6) In this paragraph—
+>
+> - “road” means a road in Scotland;
+> - “street” means a street in England and Wales or Northern Ireland.
+>
+> **When can a separate application for restoration of land be made?**
+>
+> **43** (1) This paragraph applies if—
+>
+> (a) the condition of the land has been affected by the exercise of a code right, and
+>
+> (b) restoration of the land to its condition before the code right was exercised does not involve the removal of electronic communications apparatus from any land.
+>
+> (2) The occupier of the land, the owner of the freehold estate in the land or the lessee of the land (“the relevant person”) has the right to require the operator to restore the land if the relevant person is not for the time being bound by the code right.
+>
+> (3) The relevant person does not have that right if—
+>
+> (a) the land is occupied by a person who—
+>
+> (i) conferred a code right (which is in force) entitling the operator to affect the condition of the land in the same way as the right mentioned in sub-paragraph (1), or
+>
+> (ii) is otherwise bound by such a right, and
+>
+> (b) that code right was not conferred in breach of a covenant enforceable by the relevant person.
+>
+> (4) In the application of sub-paragraph (3)(b) to Scotland the reference to a covenant enforceable by the relevant person is to be read as a reference to a contractual term which is so enforceable.
+>
+> (5) A person who has the right conferred by this paragraph may give a notice to the operator requiring the operator to restore the land to its condition before the code right was exercised.
+>
+> (6) The notice must—
+>
+> (a) comply with paragraph 89 (notices given by persons other than operators), and
+>
+> (b) specify the period within which the operator must complete the works.
+>
+> (7) The period specified under sub-paragraph (6) must be a reasonable one.
+>
+> (8) Sub-paragraph (9) applies if, within the period of 28 days beginning with the day on which the notice was given, the landowner and the operator do not reach agreement on any of the following matters—
+>
+> (a) that the operator will restore the land to its condition before the code right was exercised;
+>
+> (b) the time at which or period within which the land will be restored.
+>
+> (9) The landowner may make an application to the court for—
+>
+> (a) an order under paragraph 44(2) (order requiring operator to restore land), or
+>
+> (b) an order under paragraph 44(4) (order enabling landowner to recover cost of restoring land).
+>
+> (10) If the court makes an order under paragraph 44(2), but the operator does not comply with the agreement imposed on the operator and the landowner by virtue of paragraph 44(7), the landowner may make an application to the court for an order under paragraph 44(4).
+>
+> (11) In the application of sub-paragraph (2) to Scotland the reference to a person who is the owner of the freehold estate in the land is to be read as a reference to a person who is the owner of the land.
+>
+> **What orders may the court make on an application under paragraphs 40 to 43?**
+>
+> **44** (1) An order under this sub-paragraph is an order that the operator must, within the period specified in the order—
+>
+> (a) remove the electronic communications apparatus, and
+>
+> (b) restore the land to its condition before the apparatus was placed on, under or over the land.
+>
+> (2) An order under this sub-paragraph is an order that the operator must, within the period specified in the order, restore the land to its condition before the code right was exercised.
+>
+> (3) An order under this sub-paragraph is an order that the landowner, occupier or third party may do any of the following—
+>
+> (a) remove or arrange the removal of the electronic communications apparatus;
+>
+> (b) sell any apparatus so removed;
+>
+> (c) recover the costs of any action under paragraph (a) or (b) from the operator;
+>
+> (d) recover from the operator the costs of restoring the land to its condition before the apparatus was placed on, under or over the land;
+>
+> (e) retain the proceeds of sale of the apparatus to the extent that these do not exceed the costs incurred by the landowner, occupier or third party as mentioned in paragraph (c) or (d).
+>
+> (4) An order under this sub-paragraph is an order that the landowner may recover from the operator the costs of restoring the land to its condition before the code right was exercised.
+>
+> (5) An order under this paragraph on an application under paragraph 40 may require the operator to pay compensation to the landowner for any loss or damage suffered by the landowner as a result of the presence of the apparatus on the land during the period when the landowner had the right to require the removal of the apparatus from the land but was not able to exercise that right.
+>
+> (6) Paragraph 84 makes further provision about compensation under sub-paragraph (5).
+>
+> (7) An order under sub-paragraph (1) or (2) takes effect as an agreement between the operator and the landowner, occupier or third party that—
+>
+> (a) requires the operator to take the steps specified in the order, and
+>
+> (b) otherwise contains such terms as the court may so specify.
+>
+> **PART 7 — Conferral of transport land rights and their exercise**
+>
+> **Introductory**
+>
+> **45** This Part of this code makes provision about—
+>
+> (a) the conferral of transport land rights, and
+>
+> (b) the exercise of transport land rights.
+>
+> **Transport land and transport undertakers**
+>
+> **46** In this Part of this code—
+>
+> - “transport land” means land which is used wholly or mainly—
+>
+>   - (a) as a railway, canal or tramway, or
+>   - (b) in connection with a railway, canal or tramway on the land;
+>
+> - “transport undertaker”, in relation to transport land, means the person carrying on the railway, canal or tramway undertaking.
+>
+> **Conferral of transport land rights**
+>
+> **47** (1) An operator may exercise a transport land right for the statutory purposes.
+>
+> (2) But that is subject to the following provisions of this Part of this code.
+>
+> **The transport land rights**
+>
+> **48** (1) For the purposes of this code a “transport land right”, in relation to an operator, is—
+>
+> (a) a right to cross any transport land with a line;
+>
+> (b) a right, for the purposes of crossing any transport land with a line—
+>
+> (i) to install and keep the line and any other electronic communications apparatus on, under or over the transport land;
+>
+> (ii) to inspect, maintain, adjust, alter, repair, upgrade or operate electronic communications apparatus on, under or over the transport land;
+>
+> (iii) a right to carry out any works on the transport land for or in connection with the exercise of a right under sub-paragraph (i) or (ii);
+>
+> (iv) a right to enter the transport land to inspect, maintain, adjust, alter, repair, upgrade or operate the line or other electronic communications apparatus.
+>
+> (2) A line installed in the exercise of a transport land right need not cross the transport land in question by a direct route or the shortest route from the point at which the line enters the transport land.
+>
+> (3) But the line must not cross the transport land by any route which, in the horizontal plane, exceeds that shortest route by more than 400 metres.
+>
+> (4) The transport land rights do not authorise an operator to install a line or other electronic communications apparatus in any position on transport land in which the line or other apparatus would interfere with traffic on the railway, canal or tramway.
+>
+> **Non-emergency works: when can an operator exercise the transport land rights?**
+>
+> **49** (1) Before exercising a transport land right in order to carry out non-emergency works, the operator must give the transport undertaker notice of the intention to carry out the works (“notice of proposed works”).
+>
+> (2) Notice of proposed works must contain a plan and section of the works; but, if the transport undertaker agrees, the notice may instead contain a description of the works (whether or not in the form of a diagram).
+>
+> (3) The operator must not begin the proposed works until the notice period has ended.
+>
+> (4) But the operator's power to carry out the proposed works is subject to paragraph 50.
+>
+> (5) In this paragraph—
+>
+> - “non-emergency works” means any works which are not emergency works under paragraph 51;
+> - “notice period” means the period of 28 days beginning with the day on which notice of proposed works is given.
+>
+> **What is the effect of the transport undertaker giving notice of objection to the operator?**
+>
+> **50** (1) This paragraph applies if an operator gives a transport undertaker notice of proposed works under paragraph 49.
+>
+> (2) The transport undertaker may, within the notice period, give the operator notice objecting to the proposed works (“notice of objection”).
+>
+> (3) If notice of objection is given, the operator or the transport undertaker may, within the arbitration notice period, give the other notice that the objection is to be referred to arbitration under paragraph 52 (“arbitration notice”).
+>
+> (4) In a case where notice of objection is given, the operator may exercise a transport land right in order to carry out the proposed works only if they are permitted under sub-paragraph (5) or (6).
+>
+> (5) Works are permitted in a case where—
+>
+> (a) the arbitration notice period has ended, and
+>
+> (b) no arbitration notice has been given.
+>
+> (6) In a case where arbitration notice has been given, works are permitted in accordance with an award made on the arbitration.
+>
+> (7) In this paragraph—
+>
+> (a) “arbitration notice period” means the period of 28 days beginning with the day on which objection notice is given;
+>
+> (b) expressions defined in paragraph 49 have the same meanings as in that paragraph.
+>
+> **Emergency works: when can an operator exercise the transport land rights?**
+>
+> **51** (1) An operator may exercise a transport land right in order to carry out emergency works.
+>
+> (2) If the operator exercises a transport land right to carry out emergency works, the operator must give the transport undertaker an emergency works notice as soon as reasonably practicable after starting the works.
+>
+> (3) An “emergency works notice” is a notice which—
+>
+> (a) identifies the emergency works;
+>
+> (b) contains a statement of the reason why the works are emergency works; and
+>
+> (c) contains either—
+>
+> (i) the matters which would be included in a notice of proposed works (if one were given in relation to the works), or
+>
+> (ii) a reference to a notice of proposed works which relates to the works that are emergency works (if one has been given).
+>
+> (4) A transport undertaker may, within the compensation notice period, give the operator notice which requires the operator to pay compensation for loss or damage sustained in consequence of the carrying out of emergency works (“compensation notice”).
+>
+> (5) The operator must pay the transport undertaker any compensation which is required by a compensation notice (if given within the compensation notice period).
+>
+> (6) The amount of compensation payable under sub-paragraph (5) is to be agreed between the operator and the transport undertaker.
+>
+> (7) But if—
+>
+> (a) the compensation agreement period has ended, and
+>
+> (b) the operator and the transport undertaker have not agreed the amount of compensation payable under sub-paragraph (6),
+>
+> the operator or the transport undertaker may give the other notice that the disagreement is to be referred to arbitration under paragraph 52.
+>
+> (8) A reference in this paragraph to emergency works includes a reference to any works which are included in a notice of proposed works but become emergency works before the operator is authorised by paragraph 50 or 51 to carry them out.
+>
+> (9) In this paragraph—
+>
+> - “compensation agreement period” means the period of 28 days beginning with the day on which a compensation notice is given;
+>
+> - “compensation notice period” means the period of 28 days beginning with the day on which an emergency works notice is given;
+>
+> - “emergency works” means works carried out in order to stop anything already occurring, or to prevent anything imminent from occurring, which is likely to cause—
+>
+>   - (a) danger to persons or property,
+>   - (b) the interruption of any service provided by the operator's network, or
+>   - (c) substantial loss to the operator,
+>
+>   and any other works which it is reasonable (in all the circumstances) to carry out with those works;
+>
+> - “notice of proposed works” means such notice given under paragraph 49.
+>
+> **What happens if a dispute about the transport land rights is referred to arbitration?**
+>
+> **52** (1) This paragraph applies if notice is given under paragraph 50(3) or 51(7) that the following matter (the “matter in dispute”) is to be referred to arbitration—
+>
+> (a) an objection to proposed works;
+>
+> (b) a disagreement about an amount of compensation.
+>
+> (2) The matter in dispute is to be referred to the arbitration of a single arbitrator appointed—
+>
+> (a) by agreement between the parties, or
+>
+> (b) in the absence of such agreement, by the President of the Institution of Civil Engineers.
+>
+> (3) If the matter in dispute is an objection to proposed works, the arbitrator has the following powers—
+>
+> (a) power to require the operator to give the arbitrator a plan and section in such form as the arbitrator thinks appropriate;
+>
+> (b) power to require the transport undertaker to give the arbitrator any observations on such a plan or section in such form as the arbitrator thinks appropriate;
+>
+> (c) power to impose on either party any other requirements which the arbitrator thinks appropriate (including a requirement to provide information in such form as the arbitrator thinks appropriate);
+>
+> (d) power to make an award—
+>
+> (i) requiring modifications to the proposed works, and
+>
+> (ii) specifying the terms on which, and the conditions subject to which, the proposed works may be carried out;
+>
+> (e) power to award one or both of the following, payable to the transport undertaker—
+>
+> (i) compensation for loss or damage sustained by that person in consequence of the carrying out of the works;
+>
+> (ii) consideration for the right to carry out the works.
+>
+> (4) If the matter in dispute is a disagreement about an amount of compensation, the arbitrator has the following powers—
+>
+> (a) power to impose on either party any requirements which the arbitrator thinks appropriate (including a requirement to provide information in such form as the arbitrator thinks appropriate);
+>
+> (b) power to award compensation, payable to the transport undertaker, for loss or damage sustained by that person in consequence of the carrying out of the emergency works.
+>
+> (5) The arbitrator may make an award conditional upon a party complying with a requirement imposed under sub-paragraph (3)(a), (b) or (c) or (4)(a).
+>
+> (6) In determining what award to make, the matters to which the arbitrator must have regard include the public interest in there being access to a choice of high quality electronic communications services.
+>
+> (7) The arbitrator's power under sub-paragraph (3) or (4) to award compensation for loss includes power to award compensation for any increase in the expenses incurred by the transport undertaker in carrying on its railway, canal or tramway undertaking.
+>
+> (8) An award of consideration under sub-paragraph (3)(e)(ii) must be determined on the basis of what would have been fair and reasonable if the transport undertaker had willingly given authority for the works to be carried out on the same terms, and subject to the same conditions (if any), as are contained in the award.
+>
+> (9) In this paragraph “party” means—
+>
+> (a) the operator, or
+>
+> (b) the transport undertaker.
+>
+> **When can a transport undertaker require an operator to alter communications apparatus?**
+>
+> **53** (1) A transport undertaker may give an operator notice which requires the operator to alter a line or other electronic communications apparatus specified in the notice (“notice requiring alterations”) on the ground that keeping the apparatus on, under or over transport land interferes with, or is likely to interfere with—
+>
+> (a) the carrying on of the transport undertaker's railway, canal or tramway undertaking, or
+>
+> (b) anything done or to be done for the purposes of its railway, canal or tramway undertaking.
+>
+> (2) The operator may, within the notice period, give the transport undertaker notice (“counter-notice”) specifying the respects in which the operator is not prepared to comply with the notice requiring alterations.
+>
+> (3) The operator must comply with the notice requiring alterations, within a reasonable time and to the reasonable satisfaction of the transport undertaker, if—
+>
+> (a) the notice period has ended, and
+>
+> (b) no counter-notice has been given.
+>
+> (4) If counter-notice has been given (within the notice period), the transport undertaker may apply to the court for an order requiring the operator to alter any of the specified apparatus.
+>
+> (5) The court must not make an order unless it is satisfied that the order is necessary on one of the grounds mentioned in sub-paragraph (1).
+>
+> (6) In determining whether to make an order, the matters to which the court must also have regard include the public interest in there being access to a choice of high quality electronic communications services.
+>
+> (7) An order under this paragraph may take such form and be on such terms as the court thinks fit.
+>
+> (8) In particular, the order—
+>
+> (a) may impose such conditions, and
+>
+> (b) may contain such directions to the operator or the transport undertaker,
+>
+> as the court thinks necessary for resolving any difference between the operator and the transport undertaker and for protecting their respective interests.
+>
+> (9) In this paragraph—
+>
+> - “notice period” means the period of 28 days beginning with the day on which notice requiring alterations is given;
+> - “specified apparatus” means the line or other electronic communications apparatus specified in notice requiring alterations.
+>
+> **What happens to the transport land rights if land ceases to be transport land?**
+>
+> **54** (1) This paragraph applies if an operator is exercising a transport land right in relation to land immediately before a time when it ceases to be transport land.
+>
+> (2) After that time, this Part of this code — except for paragraph 53 — continues to apply to the land as if it were still transport land (and, accordingly, the operator may continue to exercise any transport land right in relation to the land as if it were still transport land).
+>
+> (3) But sub-paragraph (2) is subject to sub-paragraphs (4) to (9).
+>
+> (4) In the application of this Part of this code to land in accordance with sub-paragraph (2), references to the transport undertaker have effect as references to the occupier of the land.
+>
+> (5) The application of this Part of this code to land in accordance with sub-paragraph (2) does not authorise the operator—
+>
+> (a) to cross the land with any line that is not in place at the time when the land ceases to be transport land, or
+>
+> (b) to install and keep any line or other electronic communications apparatus that is not in place at the time when the land ceases to be transport land.
+>
+> (6) But sub-paragraph (5) does not affect the power of the operator to replace an existing line or other apparatus (whether in place at the time when the land ceased to be transport land or a replacement itself authorised by this sub-paragraph) with a new line or apparatus which—
+>
+> (a) is not substantially different from the existing line or apparatus, and
+>
+> (b) is not in a significantly different position.
+>
+> (7) The occupier of the land may, at any time after the land ceases to be transport land, give the operator notice specifying a date on which this Part of this code is to cease to apply to the land in accordance with this paragraph (“notice of termination”).
+>
+> (8) That date specified in the notice of termination must fall after the end of the period of 12 months beginning with the day on which the notice of termination is given.
+>
+> (9) On the date specified in notice of termination in accordance with sub-paragraph (8), the transport land rights cease to be exercisable in relation to the land in accordance with this paragraph.
+>
+> **Offence: operators who do not comply with this Part of this code**
+>
+> **55** (1) An operator is guilty of an offence if the operator starts any works in contravention of any provision of paragraph 49, paragraph 50 or paragraph 51.
+>
+> (2) An operator guilty of an offence under this paragraph is liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+>
+> (3) In a case where this Part of this code applies in accordance with paragraph 54, the reference in this paragraph to paragraph 49, paragraph 50 or paragraph 51 is a reference to that paragraph as it applies in accordance with paragraph 54.
+>
+> **PART 8 — Conferral of street work rights and their exercise**
+>
+> **Introductory**
+>
+> **56** This Part of this code makes provision about—
+>
+> (a) the conferral of street work rights, and
+>
+> (b) the exercise of street work rights.
+>
+> **Streets and roads**
+>
+> **57** In this Part of this code—
+>
+> - “road” means—
+>
+>   - (a) a road in Scotland which is a public road;
+>   - (b) a road in Northern Ireland;
+>
+> - “street” means a street in England and Wales which is a maintainable highway (within the meaning of Part 3 of New Roads and Street Works Act 1991), other than one which is a footpath, bridleway or restricted byway that crosses, and forms part of, any agricultural land or any land which is being brought into use for agriculture.
+>
+> **Conferral of street work rights**
+>
+> **58** (1) An operator may exercise a street work right for the statutory purposes.
+>
+> (2) But that is subject to the following provisions of this Part of this code.
+>
+> **The street work rights**
+>
+> **59** (1) For the purposes of this code a “street work right”, in relation to an operator, is—
+>
+> (a) a right to install and keep electronic communications apparatus in, on, under, over, along or across a street or a road;
+>
+> (b) a right to inspect, maintain, adjust, alter, repair, upgrade or operate electronic communications apparatus which is installed or kept by the exercise of the right under paragraph (a);
+>
+> (c) a right to carry out any works in, on, under, over, along or across a street or road for or in connection with the exercise of a right under paragraph (a) or (b);
+>
+> (d) a right to enter any street or road to inspect, maintain, adjust, alter, repair, upgrade or operate electronic communications apparatus which is installed or kept by the exercise of the right under paragraph (a).
+>
+> (2) The works that may be carried out under sub-paragraph (1)(c) include—
+>
+> (a) breaking up or opening a street or a road;
+>
+> (b) tunnelling or boring under a street or a road;
+>
+> (c) breaking up or opening a sewer, drain or tunnel.
+>
+> **PART 9 — Conferral of tidal water rights and their exercise**
+>
+> **Introductory**
+>
+> **60** This Part of this code makes provision about—
+>
+> (a) the conferral of tidal water rights, and
+>
+> (b) the exercise of tidal water rights.
+>
+> **Tidal water or lands**
+>
+> **61** In this Part of this code “tidal water or lands” includes—
+>
+> (a) any estuary or branch of the sea,
+>
+> (b) the shore below mean high water springs, and
+>
+> (c) the bed of any tidal water.
+>
+> **Conferral of tidal water rights**
+>
+> **62** (1) An operator may exercise a tidal water right for the statutory purposes.
+>
+> (2) But that is subject to the following provisions of this Part of this code.
+>
+> **The tidal water rights**
+>
+> **63** (1) For the purposes of this code a “tidal water right”, in relation to an operator, is—
+>
+> (a) a right to install and keep electronic communications apparatus on, under or over tidal water or lands;
+>
+> (b) a right to inspect, maintain, adjust, alter, repair, upgrade or operate electronic communications apparatus on, under or over the tidal water or lands;
+>
+> (c) a right to carry out any works on, under or over any tidal water or lands for or in connection with the exercise of a right under paragraph (a) or (b);
+>
+> (d) a right to enter any tidal water or lands to inspect, maintain, adjust, alter, repair, upgrade or operate electronic communications apparatus which is installed or kept by the exercise of the right under paragraph (a).
+>
+> (2) The works that may be carried out under sub-paragraph (1)(c) include placing a buoy or seamark.
+>
+> **Exercise of tidal water right: Crown land**
+>
+> **64** (1) An operator may not exercise a tidal water right in relation to land in which a Crown interest subsists unless agreement to the exercise of the right in relation to the land has been given in respect of that interest by the appropriate authority in accordance with paragraph 104.
+>
+> (2) Where, in connection with an agreement between the operator and the appropriate authority for the exercise of such a right, the operator and the appropriate authority cannot agree the consideration to be paid by the operator, the operator or the appropriate authority may apply to the appointed valuer for a determination of the market value of the right.
+>
+> (3) An application under sub-paragraph (2) must be made in writing and must include—
+>
+> (a) the proposed terms of the agreement, and
+>
+> (b) the reasoned evidence of the operator and of the appropriate authority as to the market value of the right.
+>
+> (4) As soon as reasonably practicable after receiving such an application, the appointed valuer must—
+>
+> (a) determine the market value of the tidal water right; and
+>
+> (b) notify the operator and the appropriate authority in writing of its determination and the reasons for it.
+>
+> (5) If the agreement mentioned in sub-paragraph (2) or an agreement in substantially the same terms is concluded following a determination under sub-paragraph (4), the consideration payable by the operator must not be more than the market value notified under sub-paragraph (4)(b).
+>
+> (6) For this purpose the market value of a tidal water right is, subject to sub-paragraph (7), the amount that, at the date the market value is assessed, a willing buyer would pay a willing seller for the right—
+>
+> (a) in a transaction at arm's length,
+>
+> (b) on the basis that the buyer and seller were acting prudently and with full knowledge of the transaction, and
+>
+> (c) on the basis that the transaction was subject to the proposed terms set out in the application.
+>
+> (7) The market value must be assessed on these assumptions—
+>
+> (a) that the right that the transaction relates to does not relate to the provision or use of an electronic communications network;
+>
+> (b) that the right in all other respects corresponds to the tidal water right;
+>
+> (c) that there is more than one site which the buyer could use for the purpose for which the buyer seeks the right.
+>
+> (8) The appointed valuer may charge a fee in respect of the consideration of an application under sub-paragraph (4) and may apportion the fee between the operator and the appropriate authority as the appointed valuer considers appropriate.
+>
+> (9) In this paragraph “the appointed valuer” means—
+>
+> (a) such person as the operator and the appropriate authority may agree;
+>
+> (b) if no person is agreed, such person as may be nominated, on the application of the operator or the appropriate authority, by the President of the Royal Institution of Chartered Surveyors.
+>
+> **PART 10 — Undertaker's works affecting electronic communications apparatus**
+>
+> **Introductory**
+>
+> **65** This Part of this code makes provision about the carrying out of undertaker's works by undertakers or operators.
+>
+> **Key definitions**
+>
+> **66** (1) In this Part of this code—
+>
+> - “undertaker” means a person (including a local authority) of a description set out in any of the entries in the first column of the following table;
+> - “undertaker's works”, in relation to an undertaker of a description set out in a particular entry in the first column of the table, means works of the description set out in the corresponding entry in the second column of the table.
+>
+> |  |  |
+> |---|---|
+> | *“undertaker”* | *“undertaker's works”* |
+> | A person authorised by any enactment (whether public general or local) or by any order or scheme made under or confirmed by any enactment to carry on any railway, tramway, road transport, water transport, canal, inland navigation, dock, harbour, pier or lighthouse undertaking | Works that the undertaker is authorised to carry out for the purposes of, or in connection with, the undertaking which it carries on |
+> | A person (apart from the operator) to whom this code is applied by a direction under section 106 of the Communications Act 2003 | Works that the undertaker is authorised to carry out by or in accordance with any provision of this code |
+> | Any person to whom this Part of this code is applied by any enactment (whenever passed or made) | Works for the purposes of which this paragraph is applied to the undertaker |
+>
+> (2) In this Part of this code—
+>
+> (a) a reference to undertaker's works which interfere with a network is a reference to any undertaker's works which involve, or are likely to involve, an alteration of any electronic communications apparatus kept on, under or over any land for the purposes of an operator's network;
+>
+> (b) a reference to an alteration of any electronic communications apparatus is a reference to a temporary or permanent alteration of the apparatus.
+>
+> **When can an undertaker carry out non-emergency undertaker's works?**
+>
+> **67** (1) Before carrying out non-emergency undertaker's works which interfere with a network, an undertaker must give the operator notice of the intention to carry out the works (“notice of proposed works”).
+>
+> (2) Notice of proposed works must specify—
+>
+> (a) the nature of the proposed undertaker's works,
+>
+> (b) the alteration of the electronic communications apparatus which the works involve or are likely to involve, and
+>
+> (c) the time and place at which the works will begin.
+>
+> (3) The undertaker must not begin the proposed undertaker's works (including the proposed alteration of electronic communications apparatus) until the notice period has ended.
+>
+> (4) But the undertaker's power to alter electronic communications apparatus (in carrying out the proposed undertaker's works) is subject to paragraph 68.
+>
+> (5) In this paragraph—
+>
+> - “non-emergency undertaker's works” means any undertaker's works which are not emergency works under paragraph 71;
+> - “notice period” means the period of 10 days beginning with the day on which notice of proposed works is given.
+>
+> **What is the effect of the operator giving counter-notice to the undertaker?**
+>
+> **68** (1) This paragraph applies if an undertaker gives an operator notice of proposed works under paragraph 67.
+>
+> (2) The operator may, within the notice period, give the undertaker notice (“counter-notice”) stating either—
+>
+> (a) that the operator requires the undertaker to make any alteration of the electronic communications apparatus that is necessary or expedient because of the proposed undertaker's works—
+>
+> (i) under the supervision of the operator, and
+>
+> (ii) to the satisfaction of the operator; or
+>
+> (b) that the operator intends to make any alteration of the electronic communications apparatus that is necessary or expedient because of the proposed undertaker's works.
+>
+> (3) In a case where counter-notice contains a statement under sub-paragraph (2)(a), the undertaker must act in accordance with the counter-notice when altering electronic communications apparatus (in carrying out the proposed undertaker's works).
+>
+> (4) But, if the operator unreasonably fails to provide the required supervision, the undertaker must act in accordance with the counter-notice only insofar as it requires alterations to be made to the satisfaction of the operator.
+>
+> (5) In a case where counter-notice contains a statement under sub-paragraph (2)(b) (operator intends to make alteration), the undertaker must not alter electronic communications apparatus (in carrying out the proposed undertaker's works).
+>
+> (6) But that does not prevent the undertaker from making any alteration of electronic communications apparatus which the operator fails to make within a reasonable time.
+>
+> (7) Expressions defined in paragraph 67 have the same meanings in this paragraph.
+>
+> **What expenses must the undertaker pay?**
+>
+> **69** (1) This paragraph applies if an undertaker carries out any non-emergency undertaker's works in accordance with paragraph 67 (including in a case where counter-notice is given under paragraph 68).
+>
+> (2) The undertaker must pay the operator the amount of any loss or damage sustained by the operator in consequence of any alteration being made to electronic communications apparatus (in carrying out the works).
+>
+> (3) The undertaker must pay the operator any expenses incurred by the operator in, or in connection with, supervising the undertaker when altering electronic communications apparatus (in carrying out the works).
+>
+> (4) Any amount which is not paid in accordance with this paragraph is to be recoverable by the operator from the undertaker in any court of competent jurisdiction.
+>
+> **When can the operator alter apparatus in connection with non-emergency undertaker's works?**
+>
+> **70** (1) An operator may make an alteration of electronic communications apparatus if—
+>
+> (a) notice of proposed works has been given,
+>
+> (b) the notice period has ended, and
+>
+> (c) counter-notice has been given which states (in accordance with paragraph 68(2)(b)) that the operator intends to make the alteration.
+>
+> (2) If the operator makes any alteration in accordance with this paragraph, the undertaker must pay the operator—
+>
+> (a) any expenses incurred by the operator in, or in connection with, making the alteration; and
+>
+> (b) the amount of any loss or damage sustained by the operator in consequence of the alteration being made.
+>
+> (3) Any amount which is not paid in accordance with sub-paragraph (2) is to be recoverable by the operator from the undertaker in any court of competent jurisdiction.
+>
+> (4) Expressions defined in paragraph 67 have the same meanings in this paragraph.
+>
+> **When can an undertaker carry out emergency undertaker's works?**
+>
+> **71** (1) An undertaker may, in carrying out emergency undertaker's works, make an alteration of any electronic communications apparatus kept on, under or over any land for the purposes of an operator's network.
+>
+> (2) The undertaker must give the operator notice of the emergency undertaker's works as soon as practicable after beginning them.
+>
+> (3) This paragraph does not authorise the undertaker to make an alteration of apparatus after any failure by the undertaker to give notice in accordance with sub-paragraph (2).
+>
+> (4) The undertaker must make the alteration to the satisfaction of the operator.
+>
+> (5) If the undertaker makes any alteration in accordance with this paragraph, the undertaker must pay the operator—
+>
+> (a) any expenses incurred by the operator in, or in connection with, supervising the undertaker when making the alteration; and
+>
+> (b) the amount of any loss or damage sustained by the operator in consequence of the alteration being made.
+>
+> (6) Any amount which is not paid in accordance with sub-paragraph (5) is to be recoverable by the operator from the undertaker in any court of competent jurisdiction.
+>
+> (7) In this paragraph “emergency undertaker's works” means undertaker's works carried out in order to stop anything already occurring, or to prevent anything imminent from occurring, which is likely to cause—
+>
+> (a) danger to persons or property,
+>
+> (b) interference with the exercise of any functions conferred or imposed on the undertaker by or under any enactment, or
+>
+> (c) substantial loss to the undertaker,
+>
+> and any other works which it is reasonable (in all the circumstances) to carry out with those works.
+>
+> **Offence: undertakers who do not comply with this Part of this code**
+>
+> **72** (1) An undertaker, or an agent of an undertaker, is guilty of an offence if that person—
+>
+> (a) makes an alteration of electronic communications apparatus in carrying out non-emergency undertaker's works, and
+>
+> (b) does so—
+>
+> (i) without notice of proposed works having been given in accordance with paragraph 67, or
+>
+> (ii) (in a case where such notice is given) before the end of the notice period under paragraph 67.
+>
+> (2) An undertaker, or an agent of an undertaker, is guilty of an offence if that person—
+>
+> (a) makes an alteration of electronic communications apparatus in carrying out non-emergency undertaker's works, and
+>
+> (b) unreasonably fails to comply with any reasonable requirement of the operator under this Part of this code when doing so.
+>
+> (3) An undertaker, or an agent of an undertaker, is guilty of an offence if that person—
+>
+> (a) makes an alteration of electronic communications apparatus in carrying out emergency undertaker's works, and
+>
+> (b) does so without notice of emergency undertaker's works having been given in accordance with paragraph 71.
+>
+> (4) A person guilty of an offence under this paragraph is liable on summary conviction to—
+>
+> (a) a fine not exceeding level 4 on the standard scale, if the service provided by the operator's network is interrupted by the works or failure, or
+>
+> (b) a fine not exceeding level 3 on the standard scale, if that service is not interrupted.
+>
+> (5) This paragraph does not apply to a Northern Ireland department.
+>
+> **PART 11 — Overhead apparatus**
+>
+> **Introductory**
+>
+> **73** This Part of this code—
+>
+> (a) confers a power on operators to install and keep certain overhead apparatus, and
+>
+> (b) imposes a duty on operators to affix notices to certain overhead apparatus.
+>
+> **Power to fly lines**
+>
+> **74** (1) This paragraph applies where any electronic communications apparatus is kept on or over any land for the purposes of an operator's network.
+>
+> (2) The operator has the right, for the statutory purposes, to install and keep lines which—
+>
+> (a) pass over other land adjacent to, or in the vicinity of, the land on or over which the apparatus is kept,
+>
+> (b) are connected to that apparatus, and
+>
+> (c) are not, at any point where they pass over the other land, less than three metres above the ground or within two metres of any building over which they pass.
+>
+> (3) Sub-paragraph (2) does not authorise the installation or keeping on or over any land of—
+>
+> (a) any electronic communications apparatus used to support, carry or suspend a line installed under sub-paragraph (2), or
+>
+> (b) any line which, as a result of its position, interferes with the carrying on of any business carried on on that land.
+>
+> (4) In this paragraph “business” includes a trade, profession or employment and includes any activity carried on by a body of persons (whether corporate or unincorporate).
+>
+> **Duty to attach notices to overhead apparatus**
+>
+> **75** (1) This paragraph applies where—
+>
+> (a) an operator has, for the purposes of the operator's network, installed any electronic communications apparatus, and
+>
+> (b) the whole or part of the apparatus is at a height of three metres or more above the ground.
+>
+> (2) The operator must, before the end of the period of three days beginning with the day after that on which the installation is completed, in a secure and durable manner attach a notice—
+>
+> (a) to every major item of apparatus installed, or
+>
+> (b) if no major item of apparatus is installed, to the nearest major item of electronic communications apparatus to which the apparatus that is installed is directly or indirectly connected.
+>
+> (3) A notice attached under sub-paragraph (2)—
+>
+> (a) must be attached in a position where it is reasonably legible, and
+>
+> (b) must give the name of the operator and an address in the United Kingdom at which any notice of objection may be given under paragraph 77(5) in respect of the apparatus in question.
+>
+> (4) Any person giving such a notice at that address in respect of that apparatus is to be treated as having given that address for the purposes of paragraph 91(2).
+>
+> (5) An operator who breaches the requirements of this paragraph is guilty of an offence and liable on summary conviction to a fine not exceeding level 2 on the standard scale.
+>
+> (6) In any proceedings for an offence under this paragraph it is a defence for the person charged to prove that the person took all reasonable steps and exercised all due diligence to avoid committing the offence.
+>
+> **PART 12 — Rights to object to certain apparatus**
+>
+> **Introductory**
+>
+> **76** This Part of this code makes provision conferring rights to object to certain kinds of apparatus, and makes provision about—
+>
+> (a) the cases in which and persons by whom a right can be exercised, and
+>
+> (b) the power and procedures of the court if an objection is made.
+>
+> **When and by whom can a right to object be exercised?**
+>
+> **77** (1) A right to object under this Part of this code is available where, pursuant to the right in paragraph 62, an operator keeps electronic communications apparatus installed on, under or over tidal water or lands within the meaning of Part 9 of this code.
+>
+> (2) In that case a person has a right to object under this Part of this code if the person—
+>
+> (a) is an occupier of, or has an interest in, the tidal water or lands,
+>
+> (b) is not bound by a code right enabling the operator to keep the apparatus installed on, under or over the tidal water or lands, and
+>
+> (c) is not a person with the benefit of a Crown interest in the tidal water or lands.
+>
+> (3) A right to object under this Part of this code is available where an operator keeps a line installed over land pursuant to the right in paragraph 74.
+>
+> (4) In that case a person has a right to object under this Part of this code if the person—
+>
+> (a) is an occupier of, or has an interest in, the land, and
+>
+> (b) is not bound by a code right enabling the operator to keep the apparatus installed over the land.
+>
+> (5) A right to object under this Part of this code is available where—
+>
+> (a) electronic communications apparatus is kept on or over land for the purposes of an operator's network, and
+>
+> (b) the whole or any part of that apparatus is at a height of three metres or more above the ground.
+>
+> (6) In that case a person has a right to object under this Part of this code if—
+>
+> (a) the person is an occupier of, or has an interest in, any neighbouring land, and
+>
+> (b) because of the nearness of the neighbouring land to the land on or over which the apparatus is kept—
+>
+> (i) the enjoyment of the neighbouring land is capable of being prejudiced by the apparatus, or
+>
+> (ii) any interest in that land is capable of being prejudiced by the apparatus.
+>
+> (7) There is no right to object under this Part of this code in respect of electronic communications apparatus if the apparatus—
+>
+> (a) replaces any electronic communications apparatus which is not substantially different from the new apparatus, and
+>
+> (b) is not in a significantly different position.
+>
+> **How may a right to object be exercised?**
+>
+> **78** (1) A person with a right to object under this Part (“the objector”) may exercise the right by giving a notice to the operator.
+>
+> (2) The right to object that the person has, and the procedure that applies to that right, depends on whether—
+>
+> (a) the notice is given before the end of the period of 12 months beginning with the date on which installation of the apparatus was completed (see paragraph 79), or
+>
+> (b) the notice is given after the end of that period (see paragraph 80).
+>
+> **What is the procedure if the objection is made within 12 months of installation?**
+>
+> **79** (1) This paragraph applies if the notice is given before the end of the period of 12 months beginning with the date on which installation of the apparatus was completed.
+>
+> (2) At any time after the end of the period of two months beginning with the date on which the notice is given, but before the end of the period of four months beginning with that date, the objector may apply to the court to have the objection upheld.
+>
+> (3) The court must uphold the objection if the following conditions are met.
+>
+> (4) The first condition is that the apparatus appears materially to prejudice the objector's enjoyment of, or interest in, the land by reference to which the objection is made.
+>
+> (5) The second condition is that the court is not satisfied that the only possible alterations of the apparatus will—
+>
+> (a) substantially increase the cost or diminish the quality of the service provided by the operator's network to persons who have, or may in future have, access to it,
+>
+> (b) involve the operator in substantial additional expenditure (disregarding any expenditure caused solely by the fact that any proposed alteration was not adopted originally or, as the case may be, that the apparatus has been unnecessarily installed), or
+>
+> (c) give to any person a case at least as good as the objector has to have an objection under this paragraph upheld.
+>
+> (6) If the court upholds an objection under this paragraph it may by order do any of the following—
+>
+> (a) direct the alteration of the apparatus to which the objection relates;
+>
+> (b) authorise the installation (instead of the apparatus to which the objection relates), in a manner and position specified in the order, of any apparatus specified in the order;
+>
+> (c) direct that no objection may be made under this paragraph in respect of any apparatus the installation of which is authorised by the court.
+>
+> (7) Where an objector has both given a notice under paragraph 78 and applied for compensation under any of the other provisions of this code—
+>
+> (a) the court may give such directions as it thinks fit for ensuring that no compensation is paid until any proceedings under this paragraph have been disposed of, and
+>
+> (b) if the court makes an order under this paragraph, it may provide in that order for some or all of the compensation otherwise payable under this code to the objector not to be so payable, or, if the case so requires, for some or all of any compensation paid under this code to the objector to be repaid to the operator.
+>
+> (8) For the purposes of sub-paragraph (5)(c), the court has the power on an application under this paragraph to give the objector directions for bringing the application to the notice of such other interested persons as it thinks fit.
+>
+> (9) This paragraph is subject to paragraph 81.
+>
+> **What is the procedure if the objection is made later than 12 months after installation?**
+>
+> **80** (1) This paragraph applies if the notice is given after the end of the period of 12 months beginning with the date on which installation of the apparatus was completed.
+>
+> (2) At any time after the end of the period of two months beginning with the date on which the notice is given, but before the end of the period of four months beginning with that date, the objector may apply to the court to have the objection upheld.
+>
+> (3) The court may uphold the objection only if it is satisfied that—
+>
+> (a) the alteration is necessary to enable the objector to carry out a proposed improvement of the land by reference to which the objection is made, and
+>
+> (b) the alteration will not substantially interfere with any service which is or is likely to be provided using the operator's network.
+>
+> (4) If the court upholds an objection under this paragraph it may by order direct the alteration of the apparatus to which the objection relates.
+>
+> (5) An order under this paragraph may provide for the alteration to be carried out with such modifications, on such terms and subject to such conditions as the court thinks fit.
+>
+> (6) But the court must not include any such modifications, terms or conditions in its order without the consent of the objector, and if such consent is not given may refuse to make an order under this paragraph.
+>
+> (7) An order made under this paragraph must, unless the court otherwise thinks fit, require the objector to reimburse the operator in respect of any expenses which the operator incurs in or in connection with the execution of any works in compliance with the order.
+>
+> (8) This paragraph is subject to paragraph 81.
+>
+> (9) In this paragraph “improvement” includes development and change of use.
+>
+> **What limitations are there on the court's powers under paragraph 79 or 80?**
+>
+> **81** (1) This paragraph applies where the court is considering making—
+>
+> (a) an order under paragraph 79 directing the alteration of any apparatus or authorising the installation of any apparatus, or
+>
+> (b) an order under paragraph 80 directing the alteration of any apparatus.
+>
+> (2) The court must not make the order unless it is satisfied—
+>
+> (a) that the operator has all such rights as it appears to the court appropriate that the operator should have for the purpose of making the alteration or, as the case may be, installing the apparatus, or
+>
+> (b) that—
+>
+> (i) the operator would have all those rights if the court, on an application under paragraph 20, imposed an agreement on the operator and another person, and
+>
+> (ii) it would be appropriate for the court, on such an application, to impose such an agreement.
+>
+> (3) For the purposes of avoiding the need for the agreement of any person to the alteration or installation of any apparatus, the court has the same powers as it would have if an application had been duly made under paragraph 20 for an order imposing such an agreement.
+>
+> (4) For the purposes of this paragraph, the court has the power on an application under paragraph 79 or 80 to give the objector directions for bringing the application to the notice of such other interested persons as it thinks fit.
+>
+> **PART 13 — Rights to lop trees**
+>
+> **Rights to lop trees**
+>
+> **82** (1) This paragraph applies where—
+>
+> (a) a tree or other vegetation overhangs a street in England and Wales or Northern Ireland or a road in Scotland, and
+>
+> (b) the tree or vegetation—
+>
+> (i) obstructs, or will or may obstruct, relevant electronic communications apparatus, or
+>
+> (ii) interferes with, or will or may interfere with, such apparatus.
+>
+> (2) In sub-paragraph (1) “relevant electronic communications apparatus” means electronic communications apparatus which—
+>
+> (a) is installed, or about to be installed, on land, and
+>
+> (b) is used, or to be used, for the purposes of an operator's network.
+>
+> (3) The operator may, by notice to the occupier of the land on which the tree or vegetation is growing, require the tree to be lopped or the vegetation to be cut back to prevent the obstruction or interference.
+>
+> (4) If, within the period of 28 days beginning with the day on which the notice is given, the occupier gives the operator a counter-notice objecting to the lopping of the tree or cutting back of the vegetation, the notice has effect only if confirmed by an order of the court.
+>
+> (5) Sub-paragraph (6) applies if at any time a notice under sub-paragraph (3) has not been complied with and—
+>
+> (a) the period of 28 days beginning with the day on which the notice was given has expired without a counter-notice having been given, or
+>
+> (b) an order of the court confirming the notice has come into force.
+>
+> (6) The operator may cause the tree to be lopped or the vegetation to be cut back.
+>
+> (7) Where the operator lops a tree or cuts back vegetation in exercise of the power in sub-paragraph (6) the operator must do so in a husband-like manner and in such a way as to cause the minimum damage to the tree or vegetation.
+>
+> (8) Sub-paragraph (9) applies where—
+>
+> (a) a notice under sub-paragraph (3) is complied with (either without a counter-notice having been given or after the notice has been confirmed), or
+>
+> (b) the operator exercises the power in sub-paragraph (6).
+>
+> (9) The court must, on an application made by a person who has sustained loss or damage in consequence of the lopping of the tree or cutting back of the vegetation or who has incurred expenses in complying with the notice, order the operator to pay that person such compensation in respect of the loss or damage as it thinks fit.
+>
+> **PART 14 — Compensation under the code**
+>
+> **Introductory**
+>
+> **83** This Part of this code makes provision about compensation under this code.
+>
+> **Compensation where agreement imposed or apparatus removed**
+>
+> **84** (1) This paragraph applies to the following powers of the court to order an operator to pay compensation to a person—
+>
+> (a) the power in paragraph 25(1) (compensation where order made imposing agreement on person);
+>
+> (b) the power in paragraph 44(5) (compensation in relation to removal of the apparatus from the land).
+>
+> (2) Depending on the circumstances, the power of the court to order the payment of compensation for loss or damage includes power to order payment for—
+>
+> (a) expenses (including reasonable legal and valuation expenses, subject to the provisions of any enactment about the powers of the court by whom the order for compensation is made to award costs or, in Scotland, expenses),
+>
+> (b) diminution in the value of the land, and
+>
+> (c) costs of reinstatement.
+>
+> (3) For the purposes of assessing such compensation for diminution in the value of land, the following provisions apply with any necessary modifications as they apply for the purposes of assessing compensation for the compulsory purchase of any interest in land—
+>
+> (a) in relation to England and Wales, rules (2) to (4) set out in section 5 of the Land Compensation Act 1961;
+>
+> (b) in relation to Scotland, rules (2) to (4) set out in section 12 of the Land Compensation (Scotland) Act 1963;
+>
+> (c) in relation to Northern Ireland, rules (2) to (4) set out in Article 6(1) of the Land Compensation (Northern Ireland) Order 1982 (SI 1982/712 (NI 9)).
+>
+> (4) In the application of this paragraph to England and Wales, section 10(1) to (3) of the Land Compensation Act 1973 (compensation in respect of mortgages, trusts of land and settled land) applies in relation to such compensation for diminution in the value of land as it applies in relation to compensation under Part 1 of that Act.
+>
+> (5) In the application of this paragraph to Scotland, section 10(1) and (2) of the Land Compensation (Scotland) Act 1973 (compensation in respect of restricted interests in land) applies in relation to such compensation for diminution in the value of land as it applies in relation to compensation under Part 1 of that Act.
+>
+> (6) In the application of this paragraph to Northern Ireland, Article 13(1) to (3) of the Land Acquisition and Compensation (Northern Ireland) Order 1973 (SI 1973/1896 (NI 21)) (compensation in respect of mortgages, trusts for sale and settlements) applies in relation to such compensation for diminution in the value of land as it applies in relation to compensation under Part II of that Order.
+>
+> (7) Where a person has a claim for compensation to which this paragraph applies and a claim for compensation under any other provision of this code in respect of the same loss, the compensation payable to that person must not exceed the amount of that person's loss.
+>
+> **Compensation for injurious affection to neighbouring land etc**
+>
+> **85** (1) This paragraph applies where a right conferred by or in accordance with any provision of Parts 2 to 9 of this code is exercised by an operator.
+>
+> (2) In the application of this paragraph to England and Wales, compensation is payable by the operator under section 10 of the Compulsory Purchase Act 1965 (compensation for injurious affection to neighbouring land) as if that section applied in relation to injury caused by the exercise of such a right as it applies in relation to injury caused by the execution of works on land that has been compulsorily acquired.
+>
+> (3) In the application of this paragraph to Scotland, compensation is payable by the operator under section 6 of the Railway Clauses Consolidation (Scotland) Act 1845 as if that section applied in relation to injury caused by the exercise of such a right as it applies in relation to injury caused by the execution of works on land that has been taken or used for the purpose of a railway.
+>
+> (4) Any question as to a person's entitlement to compensation by virtue of sub-paragraph (3), or as to the amount of that compensation, is, in default of agreement, to be determined by the Lands Tribunal for Scotland.
+>
+> (5) In the application of this paragraph to Northern Ireland, compensation is payable by the operator under Article 18 of the Land Compensation (Northern Ireland) Order 1982 (SI 1982/712 (NI 9)) as if that section applied in relation to injury caused by the exercise of such a right as it applies in relation to injury caused by the execution of works on land that has been compulsorily acquired.
+>
+> (6) Any question as to a person's entitlement to compensation by virtue of sub-paragraph (5), or as to the amount of that compensation, is, in default of agreement, to be determined by the Lands Tribunal for Northern Ireland.
+>
+> (7) Compensation is payable on a claim for compensation under this paragraph only if the amount of the compensation exceeds £50.
+>
+> (8) Compensation is payable to a person under this paragraph irrespective of whether the person claiming the compensation has any interest in the land in relation to which the right referred to in sub-paragraph (1) is exercised.
+>
+> (9) Compensation under this paragraph may include reasonable legal and valuation expenses, subject to the provisions of any enactment about the powers of the court or tribunal by whom an order for compensation is made to award costs or, in Scotland, expenses.
+>
+> **No other compensation available**
+>
+> **86** Except as provided by any provision of Parts 2 to 13 of this code or this Part, an operator is not liable to compensate any person for, and is not subject to any other liability in respect of, any loss or damage caused by the lawful exercise of any right conferred by or in accordance with any provision of those Parts.
+>
+> **PART 15 — Notices under the code**
+>
+> **Introductory**
+>
+> **87** This Part makes provision—
+>
+> (a) about requirements for the form of notices given under this code by operators,
+>
+> (b) about requirements for the form of notices given under this code by persons other than operators, and
+>
+> (c) about procedures for giving notices.
+>
+> **Notices given by operators**
+>
+> **88** (1) A notice given under this code by an operator must—
+>
+> (a) explain the effect of the notice,
+>
+> (b) explain which provisions of this code are relevant to the notice, and
+>
+> (c) explain the steps that may be taken by the recipient in respect of the notice.
+>
+> (2) If OFCOM have prescribed the form of a notice which may or must be given by an operator under a provision of this code, a notice given by an operator under that provision must be in that form.
+>
+> (3) A notice which does not comply with this paragraph is not a valid notice for the purposes of this code.
+>
+> (4) Sub-paragraph (3) does not prevent the person to whom the notice is given from relying on the notice if the person chooses to do so.
+>
+> (5) In any proceedings under this code a certificate issued by OFCOM stating that a particular form of notice has been prescribed by them as mentioned in this paragraph is conclusive evidence of that fact.
+>
+> **Notices given by others**
+>
+> **89** (1) Sub-paragraph (2) applies to a notice given under paragraph 31(1), 33(1), 39(1) or 40(2) by a person other than an operator.
+>
+> (2) If OFCOM have prescribed the form of a notice given under the provision in question by a person other than an operator, the notice must be in that form.
+>
+> (3) A notice which does not comply with sub-paragraph (2) is not a valid notice for the purposes of this code.
+>
+> (4) Sub-paragraph (3) does not prevent the operator to whom the notice is given from relying on the notice if the operator chooses to do so.
+>
+> (5) Sub-paragraph (6) applies to a notice given under any other provision of this code by a person other than an operator if—
+>
+> (a) OFCOM have prescribed the form of a notice given under that provision by a person other than an operator,
+>
+> (b) the notice is given in response to a notice given by an operator, and
+>
+> (c) the operator has, in giving the notice, drawn the person's attention to the form prescribed by OFCOM.
+>
+> (6) The notice is a valid notice for the purposes of this code, but the person giving the notice must bear any costs incurred by the operator as a result of the notice not being in that form.
+>
+> (7) In any proceedings under this code a certificate issued by OFCOM stating that a particular form of notice has been prescribed by them as mentioned in this paragraph is conclusive evidence of that fact.
+>
+> **Prescription of notices by OFCOM**
+>
+> **90** (1) OFCOM must prescribe the form of a notice to be given under each provision of this code that requires a notice to be given.
+>
+> (2) OFCOM may from time to time amend or replace a form prescribed under sub-paragraph (1).
+>
+> (3) Before prescribing a form for the purposes of this code, OFCOM must consult operators and such other persons as OFCOM think appropriate.
+>
+> (4) Sub-paragraph (3) does not apply to the amendment or replacement of a form prescribed under sub-paragraph (1).
+>
+> **Procedures for giving notice**
+>
+> **91** (1) A notice given under this code must not be sent by post unless it is sent by a registered post service or by recorded delivery.
+>
+> (2) For the purposes, in the case of a notice under this code, of section 394 of this Act (service of notifications and other documents) and section 7 of the Interpretation Act 1978 (references to service by post), the proper address of a person (“P”) is—
+>
+> (a) if P has given the person giving the notice an address for service under this code, that address, and
+>
+> (b) otherwise, the address given by section 394.
+>
+> (3) Sub-paragraph (4) applies if it is not practicable, for the purposes of giving a notice under this code, to find out after reasonable enquiries the name and address of a person who is the occupier of land for the purposes of this code.
+>
+> (4) A notice may be given under this code to the occupier —
+>
+> (a) by addressing it to a person by the description of “occupier” of the land (and describing the land), and
+>
+> (b) by delivering it to a person who is on the land or, if there is no person on the land to whom it can be delivered, by affixing it, or a copy of it, to a conspicuous object on the land.
+>
+> (5) Sub-paragraph (6) applies if it is not practicable, for the purposes of giving a notice under this code, to find out after reasonable enquiries the name and address of the owner of an interest in land.
+>
+> (6) A notice may be given under this code to the owner—
+>
+> (a) by addressing it to a person by the description of “owner” of the interest (and describing the interest and the land), and
+>
+> (b) by delivering it to a person who is on the land or, if there is no person on the land to whom it can be delivered, by affixing it, or a copy of it, to a conspicuous object on the land.
+>
+> **PART 16 — Enforcement and dispute resolution**
+>
+> **Introductory**
+>
+> **92** This Part of this code makes provision about—
+>
+> (a) the court or tribunal by which agreements and rights under this code may be enforced,
+>
+> (b) the meaning of references to “the court” in this code, and
+>
+> (c) the power of the Secretary of State by regulations to confer jurisdiction under this code on other tribunals.
+>
+> **Enforcement of agreements and rights**
+>
+> **93** An agreement under this code, and any right conferred by this code, may be enforced—
+>
+> (a) in the case of an agreement imposed by a court or tribunal, by the court or tribunal which imposed the agreement,
+>
+> (b) in the case of any agreement or right, by any court or tribunal which for the time being has the power to impose an agreement under this code, or
+>
+> (c) in the case of any agreement or right, by any court of competent jurisdiction.
+>
+> **Meaning of “the court”**
+>
+> **94** (1) In this code “the court” means—
+>
+> (a) in relation to England and Wales, the county court,
+>
+> (b) in relation to Scotland, the sheriff court, and
+>
+> (c) in relation to Northern Ireland, a county court.
+>
+> (2) Sub-paragraph (1) is subject to provision made by regulations under paragraph 95.
+>
+> **Power to confer jurisdiction on other tribunals**
+>
+> **95** (1) The Secretary of State may by regulations provide for a function conferred by this code on the court to be exercisable by any of the following—
+>
+> (a) in relation to England, the First-tier Tribunal;
+>
+> (b) in relation to England and Wales, the Upper Tribunal;
+>
+> (c) in relation to Scotland, the Lands Tribunal for Scotland;
+>
+> (d) in relation to Northern Ireland, the Lands Tribunal for Northern Ireland.
+>
+> (2) Regulations under sub-paragraph (1) may make provision for the function to be exercisable by a tribunal to which the regulations apply—
+>
+> (a) instead of by the court, or
+>
+> (b) as well as by the court.
+>
+> (3) The Secretary of State may by regulations make provision—
+>
+> (a) requiring proceedings to which regulations under sub-paragraph (1) apply to be commenced in the court or in a tribunal to which the regulations apply;
+>
+> (b) enabling the court or such a tribunal to transfer such proceedings to a tribunal which has jurisdiction in relation to them by virtue of such regulations or to the court.
+>
+> (4) The power in section 402(3)(c) for regulations under sub-paragraph (1) or (3) to make consequential provision includes power to make provision which amends, repeals or revokes or otherwise modifies the application of any enactment.
+>
+> (5) Before making regulations under sub-paragraph (1) or (3) the Secretary of State must—
+>
+> (a) so far as the regulations relate to Scotland, consult the Scottish Ministers;
+>
+> (b) so far as the regulations relate to Northern Ireland, consult the Department of Justice in Northern Ireland.
+>
+> **Award of costs by tribunal**
+>
+> **96** (1) Where in any proceedings a tribunal exercises functions by virtue of regulations under paragraph 95(1), it may make such order as it thinks fit as to costs, or, in Scotland, expenses.
+>
+> (2) The matters a tribunal must have regard to in making such an order include in particular the extent to which any party is successful in the proceedings.
+>
+> **Applications to the court**
+>
+> **97** Regulation 3 of the Electronic Communications and Wireless Telegraphy Regulations 2011 (SI 2011/1210) makes provision about the time within which certain applications to the court under this code must be determined.
+>
+> **Appeals in Northern Ireland**
+>
+> **98** Article 60 of the County Courts (Northern Ireland) Order 1980 (ordinary appeals from the county court in civil cases) is to apply in relation to any determination of the court in Northern Ireland under this code in the same manner as it applies in relation to any decree of the court made in the exercise of the jurisdiction conferred by Part 3 of that Order.
+>
+> **PART 17 — Supplementary provisions**
+>
+> **Relationship between this code and existing law**
+>
+> **99** (1) This code does not authorise the contravention of any provision of an enactment passed or made before the coming into force of this code.
+>
+> (2) Sub-paragraph (1) does not apply if and to the extent that an enactment makes provision to the contrary.
+>
+> **Relationship between this code and agreements with operators**
+>
+> **100** (1) This code does not affect any rights or liabilities arising under an agreement to which an operator is a party.
+>
+> (2) Sub-paragraph (1) does not apply in relation to paragraph 99 or Parts 3 to 6 of this code.
+>
+> **Ownership of property**
+>
+> **101** The ownership of property does not change merely because the property is installed on or under, or affixed to, any land by any person in exercise of a right conferred by or in accordance with this code.
+>
+> **Conduits**
+>
+> **102** (1) This code does not authorise an operator to do anything inside a relevant conduit without the agreement of the authority with control of the conduit.
+>
+> (2) The agreement of the authority with control of a public sewer is sufficient in all cases to authorise an operator to exercise any of the rights under this code in order to do anything wholly inside that sewer.
+>
+> (3) In this paragraph the following expressions have the same meanings as in section 98 of the Telecommunications Act 1984—
+>
+> (a) “public sewer” and “relevant conduit”;
+>
+> (b) references to the authority with control of a relevant conduit.
+>
+> **Duties for OFCOM to prepare codes of practice**
+>
+> **103** (1) OFCOM must prepare and publish a code of practice dealing with—
+>
+> (a) the provision of information for the purposes of this code by operators to persons who occupy or have an interest in land;
+>
+> (b) the conduct of negotiations for the purposes of this code between operators and such persons;
+>
+> (c) the conduct of operators in relation to persons who occupy or have an interest in land adjoining land on, under or over which electronic communications apparatus is installed;
+>
+> (d) such other matters relating to the operation of this code as OFCOM think appropriate.
+>
+> (2) OFCOM must prepare and publish standard terms which may (but need not) be used in agreements under this code.
+>
+> (3) OFCOM may from time to time—
+>
+> (a) amend or replace a code of practice or standard terms published under this paragraph;
+>
+> (b) publish the code or terms as amended or (as the case may be) the replacement code or terms.
+>
+> (4) Before publishing a code of practice or standard terms under this paragraph, OFCOM must consult operators and such other persons as OFCOM think appropriate.
+>
+> (5) Sub-paragraph (4) does not apply to—
+>
+> (a) the publication of amendments to a code of practice or standard terms, or
+>
+> (b) the publication of a replacement code or replacement terms.
+>
+> **Application of this code to the Crown**
+>
+> **104** (1) This code applies in relation to land in which there subsists, or at any material time subsisted, a Crown interest as it applies in relation to land in which no such interest subsists.
+>
+> (2) In this code “Crown interest” means—
+>
+> (a) an interest which belongs to Her Majesty in right of the Crown,
+>
+> (b) an interest which belongs to Her Majesty in right of the Duchy of Lancaster,
+>
+> (c) an interest which belongs to the Duchy of Cornwall,
+>
+> (d) an interest which belongs to a government department or which is held in trust for Her Majesty for the purposes of a government department, or
+>
+> (e) an interest which belongs to an office-holder in the Scottish Administration or which is held in trust for Her Majesty for the purposes of the Scottish Administration by such an office-holder.
+>
+> (3) This includes, in particular—
+>
+> (a) an interest which belongs to Her Majesty in right of Her Majesty's Government in Northern Ireland, and
+>
+> (b) an interest which belongs to a Northern Ireland department or which is held in trust for Her Majesty for the purposes of a Northern Ireland department.
+>
+> (4) Where an agreement is required by this code to be given in respect of any Crown interest subsisting in any land, the agreement must be given by the appropriate authority.
+>
+> (5) Where a notice under this code is required to be given in relation to land in which a Crown interest subsists, the notice must be given by or to the appropriate authority (as the case may require).
+>
+> (6) In this paragraph “the appropriate authority” means—
+>
+> (a) in the case of land belonging to Her Majesty in right of the Crown, the Crown Estate Commissioners or the relevant person or, as the case may be, the government department or office-holder in the Scottish Administration having the management of the land in question;
+>
+> (b) in the case of land belonging to Her Majesty in right of the Duchy of Lancaster, the Chancellor of the Duchy of Lancaster;
+>
+> (c) in the case of land belonging to the Duchy of Cornwall, such person as the Duke of Cornwall, or the possessor for the time being of the Duchy of Cornwall, appoints;
+>
+> (d) in the case of land belonging to an office-holder in the Scottish Administration or held in trust for Her Majesty by such an office-holder for the purposes of the Scottish Administration, the office-holder;
+>
+> (e) in the case of land belonging to Her Majesty in right of Her Majesty's Government in Northern Ireland, the Northern Ireland department having the management of the land in question;
+>
+> (f) in the case of land belonging to a government department or a Northern Ireland department or held in trust for Her Majesty for the purposes of a government department or a Northern Ireland department, that department.
+>
+> (7) In sub-paragraph (6)(a) “relevant person”, in relation to land to which section 90B(5) of the Scotland Act 1998 applies, means the person having the management of that land.
+>
+> (8) Any question as to the authority that is the appropriate authority in relation to any land is to be referred to the Treasury, whose decision is final.
+>
+> (9) Paragraphs 55 (offence in relation to transport land rights) and 75(5) (offence in relation to notices on overhead apparatus) do not apply where this code applies in the case of the Secretary of State or a Northern Ireland department by virtue of section 106(3)(b).
+>
+> (10) References in this paragraph to an office-holder in the Scottish Administration are to be construed in accordance with section 126(7) of the Scotland Act 1998.
+>
+> **Meaning of “occupier”**
+>
+> **105** (1) References in this code to an occupier of land are to the occupier of the land for the time being.
+>
+> (2) References in this code to an occupier of land, in relation to a footpath or bridleway that crosses and forms part of agricultural land, are to the occupier of that agricultural land.
+>
+> (3) Sub-paragraph (4) applies in relation to land which is—
+>
+> (a) a street in England and Wales or Northern Ireland, other than a footpath or bridleway within sub-paragraph (2), or
+>
+> (b) a road in Scotland, other than such a footpath or bridleway.
+>
+> (4) References in this code to an occupier of land—
+>
+> (a) in relation to such a street in England and Wales, are to the street managers within the meaning of Part 3 of the New Roads and Street Works Act 1991,
+>
+> (b) in relation to such a street in Northern Ireland, are to the street managers within the meaning of the Street Works (Northern Ireland) Order 1995 (SI 1995/3210 (NI 19)), and
+>
+> (c) in relation to such a road in Scotland, are to the road managers within the meaning of Part 4 of the New Roads and Street Works Act 1991.
+>
+> (5) Sub-paragraph (6) applies in relation to land which—
+>
+> (a) is unoccupied, and
+>
+> (b) is not a street in England and Wales or Northern Ireland or a road in Scotland.
+>
+> (6) References in this code to an occupier of land, in relation to land within sub-paragraph (5), are to—
+>
+> (a) the person (if any) who for the time being exercises powers of management or control over the land, or
+>
+> (b) if there is no person within paragraph (a), to every person whose interest in the land would be prejudicially affected by the exercise of a code right in relation to the land.
+>
+> (7) In this paragraph—
+>
+> (a) “agricultural land” includes land which is being brought into use for agriculture, and
+>
+> (b) references in relation to England and Wales to a footpath or bridleway include a restricted byway.
+>
+> **Lands Tribunal for Scotland procedure rules**
+>
+> **106** The power to make rules under section 3(6) of the Lands Tribunal Act 1949 (Lands Tribunal for Scotland procedure rules) for the purposes of this code or regulations made under it is exercisable by the Scottish Ministers instead of by the Secretary of State (and any reference there to the approval of the Treasury does not apply).
+>
+> **Arbitrations in Scotland**
+>
+> **107** Until the Arbitration (Scotland) Act 2010 is in force in relation to any arbitrations carried out under or by virtue of this code, that Act applies as if it were in force in relation to those arbitrations.
+>
+> **General interpretation**
+>
+> **108** (1) In this code—
+>
+> - “agriculture” and “agricultural”—
+>
+>   - (a) in relation to England and Wales, have the same meanings as in the Highways Act 1980,
+>   - (b) in relation to Scotland, have the same meanings as in the Town and Country Planning (Scotland) Act 1997, and
+>   - (c) in relation to Northern Ireland, have the same meanings as in the Agriculture Act (Northern Ireland) 1949;
+>
+> - “bridleway” and “footpath”—
+>
+>   - (a) in relation to England and Wales, have the same meanings as in the Highways Act 1980,
+>   - (b) in relation to Scotland, have the same meanings as Part 3 of the Countryside (Scotland) Act 1967, and
+>   - (c) in relation to Northern Ireland, mean a way over which the public have, by virtue of the Access to the Countryside (Northern Ireland) Order 1983 (SI 1983/1895 (NI 18)), a right of way (respectively) on horseback and on foot;
+>
+> - “code agreement” has the meaning given by paragraph 29(5);
+>
+> - “Crown interest” has the meaning given by paragraph 104(2) and (3);
+>
+> - “enactment” includes—
+>
+>   - (a) an enactment comprised in subordinate legislation within the meaning of the Interpretation Act 1978,
+>   - (b) an enactment comprised in, or in an instrument made under, a Measure or Act of the National Assembly for Wales,
+>   - (c) an enactment comprised in, or in an instrument made under, an Act of the Scottish Parliament, and
+>   - (d) an enactment comprised in, or in an instrument made under, Northern Ireland legislation;
+>
+> - “land” does not include electronic communications apparatus;
+>
+> - “landowner” has the meaning given by paragraph 37(1);
+>
+> - “lease” includes—
+>
+>   - (a) in relation to England and Wales and Northern Ireland, any leasehold tenancy (whether in the nature of a head lease, sub-lease or underlease) and any agreement to grant such a tenancy but not a mortgage by demise or sub-demise, and
+>   - (b) in relation to Scotland, any sub-lease and any agreement to grant a sub-lease,
+>
+>   and “lessee” is to be construed accordingly;
+>
+> - “relevant person” has the meaning given by paragraph 20(1);
+>
+> - “restricted byway” has the same meaning as in Part 2 of the Countryside and Rights of Way Act 2000;
+>
+> - “road”—
+>
+>   - (a) in relation to Scotland, has the same meaning as in Part 4 of the New Roads and Street Works Act 1991;
+>   - (b) in relation to Northern Ireland, has the same meaning as in the Roads (Northern Ireland) Order 1993 (SI 1993/3160 (NI 15));
+>
+> - “site provider” has the meaning given by paragraph 30(1);
+>
+> - “street”—
+>
+>   - (a) in relation to England and Wales, has the same meaning as in Part 3 of the New Roads and Street Works Act 1991, and
+>   - (b) in relation to Northern Ireland, has the same meaning as in the Street Works (Northern Ireland) Order 1995 (SI 1995/3210 (NI 19)).
+>
+> (2) In this code, references to the alteration of any apparatus include references to the moving, removal or replacement of the apparatus.
+
+## SCHEDULE 2 — The electronic communications code: transitional provision
+
+*Section 4*
+
+### Interpretation
+
+**1** (1) This paragraph has effect for the purposes of this Schedule.
+
+(2) The “existing code” means Schedule 2 to the Telecommunications Act 1984.
+
+(3) The “new code” means Schedule 3A to the Communications Act 2003.
+
+(4) A “subsisting agreement” means—
+
+(a) an agreement for the purposes of paragraph 2 or 3 of the existing code, or
+
+(b) an order under paragraph 5 of the existing code,
+
+which is in force, as between an operator and any person, at the time the new code comes into force (and whose terms do not provide for it to cease to have effect at that time).
+
+(5) Expressions used in this Schedule and in the new code have the same meaning as in the new code, subject to any modification made by this Schedule.
+
+### Effect of subsisting agreement
+
+**2** (1) A subsisting agreement has effect after the new code comes into force as an agreement under Part 2 of the new code between the same parties, subject to the modifications made by this Schedule.
+
+(2) A person who is bound by a right by virtue of paragraph 2(4) of the existing code in consequence of a subsisting agreement is, after the new code comes into force, treated as bound pursuant to Part 2 of the new code.
+
+### Limitation of code rights
+
+**3** In relation to a subsisting agreement, references in the new code to a code right are—
+
+(a) in relation to the operator and the land to which an agreement for the purposes of paragraph 2 of the existing code relates, references to a right for the statutory purposes to do the things listed in paragraph 2(1)(a) to (c) of the existing code;
+
+(b) in relation to land to which an agreement for the purposes of paragraph 3 of the existing code relates, a right to do the things mentioned in that paragraph.
+
+### Limitation of persons bound
+
+**4** (1) A person bound by a code right by virtue only of paragraph 2(3) of the existing code continues to be bound by it so long as they would be bound if paragraph 2(3) of the existing code continued to have effect.
+
+(2) In relation to such a person, paragraph 4(4) to (12) of the existing code continue to have effect, but as if in paragraph 4(4)(b) the reference to paragraph 21 of the existing code were a reference to Part 6 of the new code.
+
+### Exclusion of assignment [^F81]... provisions
+
+**5** (1) [[^F82]Paragraph 16 of the new code (assignment of code rights)] does not apply in relation to a subsisting agreement.
+
+(2) [[^F83]Paragraph 16] of the new code does not apply in relation to a code right conferred under the new code if, at the time when it is conferred, the exercise of the right depends on a right that has effect under a subsisting agreement.
+
+### [[^F84]Upgrading and sharing provisions
+
+**5A** Paragraph 17 of the new code (power for operator to upgrade or share apparatus) applies in relation to an operator who is a party to a subsisting agreement, but as if for sub-paragraphs (1) to (6) there were substituted—
+
+> (1) This paragraph applies where—
+>
+> (a) an operator (“the main operator”) keeps electronic communications apparatus installed under land, and
+>
+> (b) the main operator is a party to a subsisting agreement in relation to the electronic communications apparatus.
+>
+> (2) If the conditions in sub-paragraphs (3), (4) and (6) are met, the main operator may—
+>
+> (a) upgrade the electronic communications apparatus, or
+>
+> (b) share the use of the electronic communications apparatus with another operator.
+>
+> (3) The first condition is that the upgrading or sharing has no adverse impact on the land.
+>
+> (4) The second condition is that the upgrading or sharing imposes no burden on any person with an interest in the land.
+>
+> (5) For the purposes of sub-paragraph (4) a burden includes anything that—
+>
+> (a) has an adverse effect on the person’s enjoyment of the land, or
+>
+> (b) causes loss, damage or expense to the person.
+>
+> (6) The third condition is that, before the beginning of the period of 21 days ending with the day on which the main operator begins to upgrade the electronic communications apparatus or (as the case may be) share its use, the main operator attaches a notice, in a secure and durable manner, to a conspicuous object on the relevant land.
+>
+> (7) A notice attached for the purposes of sub-paragraph (6) must—
+>
+> (a) be attached in a position where it is reasonably legible,
+>
+> (b) state that the main operator intends to upgrade the electronic communications apparatus or (as the case may be) share its use with another operator,
+>
+> (c) state the date on which the main operator intends to begin to upgrade the electronic communications apparatus or (as the case may be) share its use with another operator,
+>
+> (d) state, in a case where the main operator intends to share the use of the electronic communications apparatus with another operator, the name of the other operator, and
+>
+> (e) give the name of the main operator and an address in the United Kingdom at which the main operator may be contacted about the upgrading or sharing.
+>
+> (8) Any person giving a notice at that address in respect of that electronic communications apparatus is to be treated as having been given that address for the purposes of paragraph 91(2).
+>
+> (9) Any agreement under Part 2 of this code is void to the extent that—
+>
+> (a) it prevents or limits the upgrading or sharing, in a case where the conditions mentioned in sub-paragraphs (3), (4) and (6) are met, of any electronic communications apparatus to which the agreement relates that is installed under land, or
+>
+> (b) it makes upgrading or sharing of such electronic communications apparatus subject to conditions to be met by the operator (including a condition requiring the payment of money).
+>
+> (10) Nothing in this paragraph is to be read as conferring a right on the main operator to enter the land for the purpose of upgrading or sharing the use of the electronic communications apparatus.
+>
+> (11) References in this paragraph to sharing electronic communications apparatus include carrying out works to the electronic communications apparatus to enable such sharing to take place.
+>
+> (12) In this paragraph—
+>
+> - “the relevant land” means—
+>
+>   - in a case where the main operator has a right to enter the land under which the electronic communications apparatus is installed, that land;
+>   - in any other case, the land on which works will be carried out to enable the upgrading or sharing to take place or, where there is more than one set of works, the land on which each set of works will be carried out;
+>
+> - “subsisting agreement” has the meaning given by paragraph 1(4) of Schedule 2 to the Digital Economy Act 2017.]
+
+### Termination and modification of agreements
+
+**6** (1) This paragraph applies in relation to a subsisting agreement, in place of paragraph 29(2) to (4) of the new code.
+
+(2) Part 5 of the new code (termination and modification of agreements) does not apply to a subsisting agreement that is a lease of land in England and Wales, if—
+
+(a) it is a lease to which Part 2 of the Landlord and Tenant Act 1954 applies, and
+
+(b) there is no agreement under section 38A of that Act (agreements to exclude provisions of Part 2) in relation the tenancy.
+
+(3) Part 5 of the new code does not apply to a subsisting agreement that is a lease of land in England and Wales, if—
+
+(a) the primary purpose of the lease is not to grant code rights (the rights referred to in paragraph 3 of this Schedule), and
+
+(b) there is an agreement under section 38A of the 1954 Act in relation the tenancy.
+
+(4) Part 5 of the new code does not apply to a subsisting agreement that is a lease of land in Northern Ireland, if it is a lease to which the Business Tenancies (Northern Ireland) Order 1996 (SI 1996/725 (NI 5)) applies.
+
+**7** (1) Subject to paragraph 6, Part 5 of the new code applies to a subsisting agreement with the following modifications.
+
+(2) The “site provider” (see paragraph 30(1)(a) of the new code) does not include a person who was under the existing code bound by the agreement only by virtue of paragraph 2(2)(c) of that code.
+
+(3) Where the unexpired term of the subsisting agreement at the coming into force of the new code is less than 18 months, paragraph 31 applies (with necessary modification) as if for the period of 18 months referred to in sub-paragraph (3)(a) there were substituted a period equal to the unexpired term or 3 months, whichever is greater.
+
+(4) Paragraph 34 applies with the omission of sub-paragraph (13)(d).
+
+### Apparatus, works etc
+
+**8** (1) Paragraphs 9 to 14 of the existing code (rights in relation to street works, flying lines, tidal waters, linear obstacles) continue to apply in relation to anything in the process of being done when the new code comes into force.
+
+(2) Apparatus lawfully installed under any of those provisions (before or after the time when the new code comes into force) is to be treated as installed under the corresponding provision of the new code if it could have been installed under that provision if the provision had been in force or applied to its installation.
+
+(3) The corresponding provisions are—
+
+(a) Part 7 (transport land rights), in relation to paragraph 12 of the existing code;
+
+(b) Part 8 (street work rights), in relation to paragraph 9 of the existing code;
+
+(c) Part 9 (tidal water rights), in relation to paragraph 11 of the existing code;
+
+(d) paragraph 74 (power to fly lines), in relation to paragraph 10 of the existing code.
+
+**9** Any agreement given in accordance with paragraph 26(3) of the existing code for the purposes of paragraph 11(2) of that code has effect for the purposes of paragraph 64 of the new code as if given in accordance with paragraph 104 of that code.
+
+**10** Any agreement that has effect under paragraph 15 of the existing code and that would be sufficient for the purpose of doing anything wholly inside a sewer if that paragraph continued in force is sufficient for that purpose under paragraph 102(2) of the new code.
+
+### Court applications for required rights etc
+
+**11** (1) This paragraph applies where—
+
+(a) before the time when the new code comes into force, a notice has been given under paragraph 5(1) of the existing code, and
+
+(b) at that time no application has been made to the court in relation to the notice.
+
+(2) The notice has effect as if given under paragraph 20(2) of the new code.
+
+**12** (1) This paragraph applies where before the time when the new code comes into force—
+
+(a) a notice has been given under paragraph 5(1) of the existing code, and
+
+(b) an application has been made to the court in relation to the notice.
+
+(2) Subject to sub-paragraph (3), the existing code continues to apply in relation to the application.
+
+(3) An order made under the existing code by virtue of sub-paragraph (2) has effect as an order under paragraph 20 of the new code.
+
+### Temporary code rights
+
+**13** The coming into force of the new code does not affect any application or order made under paragraph 6 of the existing code.
+
+### Compensation
+
+**14** The repeal of the existing code does not affect paragraph 16 of that code, or any other right to compensation, as it applies in relation to the exercise of a right before the new code comes into force.
+
+### Objections in relation to apparatus
+
+**15** The repeal of the existing code does not affect paragraphs 17 and 18 of that code as they apply in relation to anything whose installation was completed before the repeal comes into force.
+
+**16** (1) Subject to the following provisions of this paragraph, the repeal of the existing code does not affect paragraph 20 of that code as it applies in relation to anything whose installation was completed before the repeal comes into force.
+
+(2) A right under paragraph 20 is not by virtue of sub-paragraph (1) exercisable in relation to any apparatus by a person who is a party to, or is bound by, an agreement under the new code in relation to the apparatus.
+
+(3) A subsisting agreement is not an agreement under the new code for the purposes of sub-paragraph (2).
+
+**17** Part 12 of the new code does not apply in relation to apparatus whose installation was completed before the new code came into force.
+
+### Tree lopping
+
+**18** (1) This paragraph applies where—
+
+(a) before the time when the new code comes into force, a notice has been given under paragraph 19 of the existing code, and
+
+(b) at that time no application has been made to the court in relation to the notice.
+
+(2) The notice and any counter-notice under that paragraph have effect as if given under paragraph 82 of the new code.
+
+**19** (1) This paragraph applies where before the time when the new code comes into force—
+
+(a) a notice has been given under paragraph 19 of the existing code, and
+
+(b) an application has been made to the court in relation to the notice.
+
+(2) The existing code continues to apply in relation to the application.
+
+### Right to require removal of apparatus
+
+**20** (1) This paragraph applies where before the repeal of the existing code comes into force a person has given notice under paragraph 21(2) of that code requiring the removal of apparatus.
+
+(2) The repeal does not affect the operation of paragraph 21 in relation to anything done or that may be done under that paragraph following the giving of the notice.
+
+(3) For the purposes of applying that paragraph after the repeal comes into force, steps specified in a counter-notice under sub-paragraph (4)(b) of that paragraph as steps which the operator proposes to take under the existing code are to be read as including any corresponding steps that the operator could take under the new code or by virtue of this Schedule.
+
+### Undertaker's works
+
+**21** The repeal of the existing code does not affect the operation of paragraph 23 of that code in relation to works—
+
+(a) in relation to which a notice has been given under that paragraph before the time when that repeal comes into force, or
+
+(b) which have otherwise been commenced before that time.
+
+### Supplementary
+
+**22** Any agreement which, immediately before the repeal of the existing code, is a relevant agreement for the purposes of paragraph 29 of that code is to be treated in relation to times after the coming into force of that repeal as a relevant agreement for the purposes of paragraph 18 of the new code.
+
+**23** Part 15 of the new code applies in relation to notices under this Schedule as it applies in relation to notices under that code.
+
+**24** Paragraphs 24 to 27 of the existing code continue to have effect in relation to any provision of that code so far as the provision has effect by virtue of this Schedule.
+
+**25** A person entitled to compensation by virtue of this Schedule is not entitled to compensation in respect of the same matter under any provision of the new code.
+
+## SCHEDULE 3 — Electronic communications code: consequential amendments
+
+*Section 4*
+
+### PART 1 — General provision
+
+#### Interpretation
+
+**1** In this Part—
+
+- “the commencement date” means the day on which Schedule 3A to the Communications Act 2003 comes into force;
+
+- “enactment” includes—
+
+  - (a) an enactment comprised in subordinate legislation within the meaning of the Interpretation Act 1978,
+  - (b) an enactment comprised in, or in an instrument made under, a Measure or Act of the National Assembly for Wales,
+  - (c) an enactment comprised in, or in an instrument made under, an Act of the Scottish Parliament, and
+  - (d) an enactment comprised in, or in an instrument made under, Northern Ireland legislation;
+
+- “the existing code” means Schedule 2 to the Telecommunications Act 1984;
+
+- “the new code” means Schedule 3A to the Communications Act 2003.
+
+#### References to the code or provisions of the code
+
+**2** (1) In any enactment passed or made before the commencement date, unless the context requires otherwise—
+
+(a) a reference to the existing code is to be read as a reference to the new code;
+
+(b) a reference to a provision of the existing code listed in column 1 of the table is to be read as a reference to the provision of the new code in the corresponding entry in column 2.
+
+(2) This paragraph does not affect the amendments made by Part 2 of this Schedule or the power to make amendments by regulations under section 6.
+
+(3) This paragraph does not affect section 17(2) of the Interpretation Act 1978 (effect of repeal and re-enactment) in relation to any reference to a provision of the existing code not listed in the table.
+
+|  |  |
+|---|---|
+| Existing code | New code |
+| Paragraph 9 | Part 8 |
+| Paragraph 21 | Part 6 |
+| Paragraph 23 | Part 10 |
+| Paragraph 29 | Paragraph 18 |
+
+#### References to a conduit system
+
+**3** In any enactment passed or made before the commencement date, unless the context requires otherwise—
+
+(a) a reference to a conduit system, where it is defined by reference to the existing code, is to be read as a reference to an infrastructure system as defined by paragraph 7(1) of the new code, and
+
+(b) a reference to provision of such a system is to be read in accordance with paragraph 7(2) of the new code (reference to provision includes establishing or maintaining).
+
+### PART 2 — Amendments of particular enactments
+
+#### Landlord and Tenant Act 1954 (c. 56)
+
+**4** In section 43 of the Landlord and Tenant Act 1954 (tenancies to which provisions on security of tenure for business etc tenants do not apply) after subsection (3) insert—
+
+> (4) This Part does not apply to a tenancy—
+>
+> (a) the primary purpose of which is to grant code rights within the meaning of Schedule 3A to the Communications Act 2003 (the electronic communications code), and
+>
+> (b) which is granted after that Schedule comes into force.
+
+#### Opencast Coal Act 1958 (c. 69)
+
+**5** (1) Section 45 of the Opencast Coal Act 1958 (provisions as to telegraphic lines) is amended as follows.
+
+(2) In subsection (2) for “paragraph 23 of the electronic communications code” substitute “ Part 10 of Schedule 3A to the Communications Act 2003 (the electronic communications code) ”.
+
+(3) In section (4) for “Paragraph 1(2) of the electronic communications code” substitute “ Paragraph 103(2) of the electronic communications code ”.
+
+#### Land Drainage (Scotland) Act 1958 (c. 24)
+
+**6** In section 17 of the Land Drainage Act (Scotland) Act 1958 (application of paragraph 23 of the code) for “Paragraph 23 of the electronic communications code” substitute “ Part 10 of Schedule 3A to the Communications Act 2003 (the electronic communications code) ”.
+
+#### Pipe-lines Act 1962 (c. 58)
+
+**7** In section 40(2) of the Pipe-lines Act 1962 (avoidance of interference with lines) for “Paragraph 23 of the electronic communications code” substitute “ Part 10 of Schedule 3A to the Communications Act 2003 (the electronic communications code) ”.
+
+#### Harbours Act 1964 (c. 40)
+
+**8** In section 53 of the Harbours Act 1964 (application of paragraph 23 of the code) for “Paragraph 23 of the electronic communications code” substitute “ Part 10 of Schedule 3A to the Communications Act 2003 (the electronic communications code) ”.
+
+#### Fair Trading Act 1973 (c. 41)
+
+**9** In section 137(3)(f) of the Fair Trading Act 1973 (general interpretation: services covered) for “paragraph 29 of Schedule 2 to the Telecommunications Act 1984” substitute “ paragraph 17 of Schedule 3A to the Communications Act 2003 (the electronic communications code) ”.
+
+#### Highways Act 1980 (c. 66)
+
+**10** The Highways Act 1980 is amended as follows.
+
+**11** In section 177(12) (restriction of construction over highways: application of paragraph 23 of code) for “paragraph 23 of the electronic communications code” substitute “ Part 10 of Schedule 3A to the Communications Act 2003 (the electronic communications code) ”.
+
+**12** (1) Section 334 (savings relating to electronic communications apparatus) is amended as follows.
+
+(2) In subsection (8) for “Paragraph 23 of the electronic communications code” substitute “ Part 10 of Schedule 3A to the Communications Act 2003 (the electronic communications code) ”.
+
+(3) In subsection (9) for “the said paragraph 23” substitute “ Part 10 of the electronic communications code ”.
+
+(4) In subsection (11)—
+
+(a) for “Sub-paragraph (8) of paragraph 23” substitute “ Paragraph 68 ”;
+
+(b) for “that paragraph” substitute “ Part 10 of the code ”.
+
+(5) In subsection (12) for “1(2)” “substitute “ 103(2) ”.
+
+(6) In subsection (13) for “Paragraph 21 of the electronic communications code (restriction on removal of electronic communications apparatus)” substitute “ Part 6 of the electronic communications code (rights to require removal of electronic communications apparatus) ”.
+
+#### Roads (Scotland) Act 1984 (c. 54)
+
+**13** The Roads (Scotland) Act 1984 is amended as follows.
+
+**14** (1) Section 50 (planting of trees etc by roads authority) is amended as follows.
+
+(2) In subsection (3) for “Paragraph 23 of the electronic communications code” substitute “ Part 10 of Schedule 3A to the Communications Act 2003 (the electronic communications code) ”.
+
+(3) In subsection (4)—
+
+(a) for “sub-paragraph (8) of paragraph 23” substitute “ Paragraph 68 ”;
+
+(b) for “that paragraph” substitute “ Part 10 of the code ”.
+
+**15** (1) Section 75 (bridges over and tunnels under navigable waterways) is amended as follows.
+
+(2) In subsection (9) for “Paragraph 23 of the electronic communications code” substitute “ Part 10 of Schedule 3A to the Communications Act 2003 (the electronic communications code) ”.
+
+(3) In subsection (10)—
+
+(a) for “sub-paragraph (8) of paragraph 23” substitute “ paragraph 68 ”;
+
+(b) for “that paragraph” substitute “ Part 10 of the code ”.
+
+**16** (1) Section 132 (saving for operators of telecommunications code systems) is amended as follows.
+
+(2) In the heading for “telecommunications code systems” substitute “ electronic communications code networks ”.
+
+(3) In subsection (4) for “paragraph 1(2) of the electronic communications code” substitute “ paragraph 103(2) of Schedule 3A to the Communications Act 2003 (the electronic communications code) ”.
+
+(4) In subsection (5) for “Paragraph 21 of the electronic communications code (restriction on removal of electronic communications apparatus)” substitute “ Part 6 of the electronic communications code (rights to require removal of electronic communications apparatus) ”.
+
+#### Housing Act 1985 (c. 68)
+
+**17** Section 298 of the Housing Act 1985 (telecommunications apparatus) is amended as follows.
+
+**18** For the heading substitute “ Electronic communications apparatus ”.
+
+**19** In subsection (2) for “paragraph 21 of the electronic communications code” substitute “ Part 6 of Schedule 3A to the Communications Act 2003 (the electronic communications code) ”.
+
+**20** In subsection (3) for “paragraph 23” substitute “ Part 10 ”.
+
+#### Food and Environment Protection Act 1985 (c. 48)
+
+**21** The Food and Environment Protection Act 1985 is amended as follows.
+
+**22** In section 8A (electronic communications apparatus: operations in tidal waters etc) for the words from “paragraph 11” to “1984” substitute “ Part 9 of Schedule 3A of the Communications Act 2003 (the electronic communications code) ”.
+
+**23** In section 9(8) (defence to operating without licence under Part 2)—
+
+(a) for “paragraph 23 of the electronic communications code” substitute “ Part 10 of Schedule 3A of the Communications Act 2003 (the electronic communications code) ”;
+
+(b) omit the words from “In this subsection” to the end.
+
+#### Airports Act 1986 (c. 31)
+
+**24** The Airports Act 1986 is amended as follows.
+
+**25** (1) Section 62 (electronic communications apparatus) is amended as follows.
+
+(2) In subsection (1) for “Paragraph 23 of the electronic communications code” substitute “ Part 10 of Schedule 3A of the Communications Act 2003 (the electronic communications code) ”.
+
+(3) In subsection (4) for “Paragraph 23” substitute “ Part 10 ”.
+
+(4) In subsection (5)—
+
+(a) for “Sub-paragraph (8) of paragraph 23” substitute “ Paragraph 68 ”;
+
+(b) for “that paragraph” substitute “ Part 10 of the code ”.
+
+(5) In subsection (6) for “1(2)” substitute “ 103(2) ”.
+
+(6) In subsection (7) for “Paragraph 21 of the electronic communications code (restriction on removal of apparatus)” substitute “ Part 6 of the electronic communications code (rights to require removal of apparatus) ”.
+
+#### Landlord and Tenant Act 1987 (c. 31)
+
+**26** In section 4(2) of the Landlord and Tenant Act 1987 (disposals which are not relevant disposals for purposes of tenants' right of first refusal) after paragraph (da) insert—
+
+> (db) the conferral of a code right under Schedule 3A to the Communications Act 2003 (the electronic communications code);
+
+.
+
+#### Road Traffic (Driver Licensing and Information Systems) Act 1989 (c. 22)
+
+**27** In paragraph 4 of Schedule 4 to the Road Traffic (Driver Licensing and Information Systems) Act 1989 (application of paragraph 23 of code to licence holders) for “Paragraph 23 of Schedule 2 to the Telecommunications Act 1984” substitute “ Part 10 of Schedule 3A to the Communications Act 2003 (the electronic communications code) ”.
+
+#### Electricity Act 1989 (c. 29)
+
+**28** In paragraph 1(6) of Schedule 16 to the Electricity Act 1989 (application of paragraph 23) for “Paragraph 23 of Schedule 2 to the Telecommunications Act 1984” substitute “ Part 10 of Schedule 3A to the Communications Act 2003 (the electronic communications code) ”.
+
+#### Town and Country Planning Act 1990 (c. 8)
+
+**29** (1) Section 256 of the Town and Country Planning Act 1990 (electronic communications apparatus: orders by the Secretary of State) is amended as follows.
+
+(2) In subsection (5) for “Paragraph 1(2) of the electronic communications code” substitute “ Paragraph 103(2) of Schedule 3A to the Communications Act 2003 (the electronic communications code) ”.
+
+(3) In subsection (6) for “Paragraph 21 of the electronic communications code (restriction on removal of electronic communications apparatus)” substitute “ Part 6 of the electronic communications code (rights to require removal of electronic communications apparatus) ”.
+
+#### Water Industry Act 1991 (c. 56)
+
+**30** In paragraph 4 of Schedule 13 to the Water Industry Act 1991—
+
+(a) for “paragraph 23” substitute “ Part 10 ”;
+
+(b) for “Schedule 2 to the Telecommunications Act 1984” substitute “ Schedule 3A to the Communications Act 2003 ”;
+
+(c) in the heading, for “telecommunication systems” substitute “ electronic communications networks ”.
+
+#### Water Resources Act 1991 (c. 57)
+
+**31** In Schedule 22 to the Water Resources Act 1991 (protection of particular undertakings)—
+
+(a) in paragraph 5 for “Paragraph 23 of Schedule 2 to the Telecommunications Act 1984” substitute “ Part 10 of Schedule 3A to the Communications Act 2003 (the electronic communications code) ”;
+
+(b) for the italic heading before paragraph 5 substitute “ Protection for electronic communications networks ”.
+
+#### Electricity (Northern Ireland) Order 1992 (S.I. 1992/231)
+
+**32** In paragraph 3(2) of Schedule 4 to the Electricity (Northern Ireland) Order 1992 (application of paragraph 23) for “paragraph 23 of the electronic communications code” substitute “ Part 10 of Schedule 3A to the Communications Act 2003 (the electronic communications code) ”.
+
+#### Cardiff Bay Barrage Act 1993 (c. 42)
+
+**33** In paragraph 16 of Schedule 2 to the Cardiff Bay Barrage Act 1993 (application of paragraph 23) for “Paragraph 23 of Schedule 2 to the Telecommunications Act 1984” substitute “ Part 10 of Schedule 3A to the Communications Act 2003 (the electronic communications code) ”.
+
+#### Roads (Northern Ireland) Order 1993 (S.I. 1993/3160)
+
+**34** (1) Schedule 9 to the Roads (Northern Ireland) Order 1993 (saving provisions) is amended as follows.
+
+(2) In paragraph 2(2) for “Paragraph 1(2) of the electronic communications code” substitute “ Paragraph 103(2) of Schedule 3A to the Communications Act 2003 (the electronic communications code) ”.
+
+(3) In paragraph 2(3) for “Paragraph 21 of the electronic communications code (restrictions on removal of apparatus)” substitute “ Part 6 of the electronic communications code (rights to require removal of apparatus) ”.
+
+(4) In paragraph 3 for “Paragraph 23” substitute “ Part 10 ”.
+
+#### Airports (Northern Ireland) Order 1994 (S.I. 1994/426)
+
+**35** (1) Article 12 of the Airports (Northern Ireland) Order 1994 (provisions as to electronic communications apparatus) is amended as follows.
+
+(2) In paragraph (1) for “Paragraph 23 of the electronic communications code” substitute “ Part 10 of Schedule 3A to the Communications Act 2003 (the electronic communications code) ”.
+
+(3) In paragraph (3A) for “Paragraph 23” substitute “ Part 10 ”.
+
+(4) In paragraph (4)—
+
+(a) for “Sub-paragraph (8) of paragraph 23” substitute “ Paragraph 68 ”;
+
+(b) for “that paragraph” substitute “ Part 10 of the code ”.
+
+(5) In paragraph (5) for “1(2)” substitute “ 103(2) ”.
+
+(6) In paragraph (6) for “Paragraph 21 of the electronic communications code (restriction on removal of apparatus)” substitute “ Part 6 of the electronic communications code (rights to require removal of apparatus) ”.
+
+(7) Omit paragraph (7).
+
+#### Landlord and Tenant (Covenants) Act 1995 (c. 30)
+
+**36** In section 5 of the Landlord and Tenant (Covenants) Act 1995 (tenant released from covenants on assignment of tenancy), after subsection (4) insert—
+
+> (5) This section is subject to paragraph 16(4) of Schedule 3A to the Communications Act 2003 (which places conditions on the release of an operator from liability under an agreement granting code rights under the electronic communications code).
+
+#### Gas Act 1995 (c. 45)
+
+**37** In paragraph 2(7) of Schedule 4 to the Gas Act 1995 (application of paragraph 23 to public gas transporters) for “Paragraph 23 of Schedule 2 to the Telecommunications Act 1984” substitute “ Part 10 of Schedule 3A to the Communications Act 2003 (the electronic communications code) ”.
+
+#### Channel Tunnel Rail Link Act 1996 (c. 61)
+
+**38** (1) Part 4 of Schedule 15 to the Channel Tunnel Rail Link Act 1996 (protection of telecommunications operators) is amended as follows.
+
+(2) For the heading substitute “ Protection of electronic communications code operators ”.
+
+(3) In paragraph 2(1) for “Paragraph 21 of the electronic communications code” substitute “ Part 6 of Schedule 3A to the Communications Act 2003 (the electronic communications code) ”.
+
+(4) In paragraph 2(2) for “Paragraph 23” substitute “ Part 10 ”.
+
+(5) In paragraph 3 for “paragraph 9” substitute “ Part 8 ”.
+
+(6) In paragraph 4(1) for “paragraph 23” substitute “ Part 10 ”.
+
+#### Gas (Northern Ireland) Order 1996 (S.I. 1996/275)
+
+**39** (1) Schedule 3 to the Gas (Northern Ireland) Order 1996 (other powers etc of licence holders) is amended as follows.
+
+(2) In paragraph 1(1) omit the following definitions—
+
+(a) “public telecommunications operator”;
+
+(b) “telecommunication apparatus” and “electronic communications network”;
+
+(c) “telecommunications code”.
+
+(3) In paragraph 3(2) for “paragraph 23 of the electronic communications code” substitute “ Part 10 of Schedule 3A to the Communications Act 2003 (the electronic communications code) ”.
+
+#### Business Tenancies (Northern Ireland) Order 1996 (SI 1996/725 (NI 5))
+
+**40** In Article 4(1) of the Business Tenancies (Northern Ireland) Order 1996 (tenancies to which the Order does not apply) after paragraph (k) insert—
+
+> (l) a tenancy the primary purpose of which is to grant code rights within the meaning of Schedule 3A to the Communications Act 2003 (the electronic communications code), where the tenancy is granted after that Schedule comes into force.
+
+#### Town and Country Planning (Scotland) Act 1997 (c. 8)
+
+**41** (1) Section 212 of the Town and Country Planning (Scotland) Act 1997 (electronic communications apparatus) is amended as follows.
+
+(2) In subsection (7) for “Paragraph 1(2) of the electronic communications code” substitute “ Paragraph 103(2) of Schedule 3A to the Communications Act 2003 (the electronic communications code) ”.
+
+(3) In subsection (8) for “Paragraph 21 of the electronic communications code (restriction on removal of electronic communications apparatus)” substitute “ Part 6 of the electronic communications code (rights to require removal of apparatus) ”.
+
+#### Enterprise Act 2002 (c. 40)
+
+**42** The Enterprise Act 2002 is amended as follows.
+
+**43** In section 128(5) (mergers: references to supply of services) for the words from “(within” to the end substitute “(within the meaning of paragraph 17 of Schedule 3A to the Communications Act 2003 (the electronic communications code)) for sharing the use of electronic communications apparatus.
+
+**44** In section 234(5) (enforcement of consumer legislation: references to supply of services) for the words from “(within” to the end substitute “(within the meaning of paragraph 17 of Schedule 3A to the Communications Act 2003 (the electronic communications code)) for sharing the use of electronic communications apparatus.
+
+#### Communications Act 2003 (c. 21)
+
+**45** The Communications Act 2003 is amended as follows.
+
+**46** (1) Section 394 (service of notifications and other documents) is amended as follows.
+
+(2) In subsection (2) omit paragraph (d).
+
+(3) After subsection (10) insert—
+
+> (11) In its application to Schedule 3A this section is subject to paragraph 91 of that Schedule.
+
+**47** (1) Section 402 (power of Secretary of State to make orders and regulations) is amended as follows.
+
+(2) In subsection (2) after paragraph (a) insert—
+
+> (aa) regulations under paragraph 95 of Schedule 3A which amend, repeal or modify the application of primary legislation,
+
+.
+
+(3) After subsection (2) insert—
+
+> (2A) A statutory instrument containing (whether alone or with other provisions) regulations under paragraph 95 of Schedule 3A which amend, repeal or modify the application of primary legislation, may not be made unless a draft of the instrument has been laid before and approved by a resolution of each House of Parliament.
+
+(4) After subsection (3) insert—
+
+> (4) In this section “primary legislation” means—
+>
+> (a) an Act of Parliament,
+>
+> (b) a Measure or Act of the National Assembly for Wales,
+>
+> (c) an Act of the Scottish Parliament, or
+>
+> (d) Northern Ireland legislation.
+
+**48** Schedule 3 is repealed.
+
+#### Land Reform (Scotland) Act 2003 (asp 2)
+
+**49** (1) Schedule 1 to the Land Reform (Scotland) Act 2003 (path orders) is amended as follows.
+
+(2) In paragraph 12 for “Paragraph 1(2) of the electronic communications code” substitute “ Paragraph 103(2) of Schedule 3A to the Communications Act 2003 (the electronic communications code) ”.
+
+(3) In paragraph 13 for “Paragraph 21 of that code (restriction on removal of apparatus)” substitute “ Part 6 of the electronic communications code (rights to require removal of apparatus) ”.
+
+#### Housing and Regeneration Act 2008 (c. 17)
+
+**50** The Housing and Regeneration Act 2008 is amended as follows.
+
+**51** In section 2(3) (objects of the Homes and Communities Agency: interpretation) in paragraph (a) of the definition of “infrastructure” for “telecommunications” substitute “ electronic communications ”.
+
+**52** In section 57(1) (interpretation of Part 1) omit the definition of “conduit system” and insert in the appropriate place—
+
+> “infrastructure system” has the meaning given by paragraph 7(1) of Schedule 3A to the Communications Act 2003 (the electronic communications code), and a reference to providing such a system is to be read in accordance with paragraph 7(2) of the code (reference to provision includes establishing or maintaining),
+
+.
+
+**53** In the table in section 58 (index of defined expressions in Part 1) omit the entry for “conduit system (and providing such a system)” and insert in the appropriate place—
+
+> |  |  |
+> |---|---|
+> | Infrastructure system (and providing such a system) | Section 57(1) |
+
+.
+
+#### Crossrail Act 2008 (c. 18)
+
+**54** (1) Part 4 of Schedule 17 to the Crossrail Act 2008 (protective provisions) is amended as follows.
+
+(2) In paragraph 1(2) for the definition of “electronic communications code” substitute—
+
+> “electronic communications code” means the code set out in Schedule 3A to the Communications Act 2003;
+
+.
+
+(3) In paragraph 2(1) for “paragraph 23” substitute “ Part 10 ”.
+
+(4) In paragraph 2(2) for “Paragraphs 21 and 23” substitute “ Parts 6 and 10 ”.
+
+(5) In paragraph 3 for “paragraph 9” substitute “ Part 8 ”.
+
+(6) In paragraph 4(1) for “paragraph 23” substitute “ Part 10 ”.
+
+#### Marine (Scotland) Act 2010 (asp 5)
+
+**55** The Marine (Scotland) Act 2010 is amended as follows.
+
+**56** In section 36(1) (electronic communications apparatus) for the words from “paragraph 11” to “apparatus)” substitute “Part 9 of Schedule 3A to the Communications Act 2003 (the electronic communications code) (works in connection with electronic communications apparatus).
+
+**57** (1) Section 41 (defence to offences: electronic communications: emergency works) is amended as follows.
+
+(2) In subsection (1) for “paragraph 23 of the electronic communications code” substitute “ Part 10 of Schedule 3A to the Communications Act 2003 (the electronic communications code) ”.
+
+(3) Omit subsection (2).
+
+## SCHEDULE 4 — Public service delivery: specified persons for the purposes of section 35
+
+*Section 35*
+
+### [[^F85]PART 1 — UK AND ENGLISH BODIES]
+
+**1** The Secretary of State for the Home Department.
+
+**2** The Secretary of State for Defence.
+
+**3** The Lord Chancellor.
+
+**4** The Secretary of State for Justice.
+
+**5** The Secretary of State for Education.
+
+**6** The Secretary of State for [[^F86]Business and Trade, in relation to the Secretary of State’s relevant business functions].
+
+**7** The Secretary of State for Work and Pensions.
+
+**8** The Secretary of State for [[^F87]Housing, Communities and Local Government].
+
+**[[^F88]9** The Secretary of State for [[^F89]Culture, Media and Sport].]
+
+**[[^F90]9A** The Secretary of State for Energy Security and Net Zero.
+
+**9B** The Secretary of State for Science, Innovation and Technology.]
+
+**10** Her Majesty's Revenue and Customs.
+
+**11** A county council in England.
+
+**12** A district council in England.
+
+**13** A London borough council.
+
+**14** A combined authority established under section 103 of the Local Democracy, Economic Development and Construction Act 2009.
+
+**[[^F91]14A** A combined county authority established under section 9(1) of the Levelling-up and Regeneration Act 2023.]
+
+**15** The Common Council of the City of London in its capacity as a local authority.
+
+**16** The Council of the Isles of Scilly.
+
+**17** The Greater London Authority.
+
+**18** A metropolitan county fire and rescue authority.
+
+**19** The London Fire Commissioner.
+
+**20** A fire and rescue authority in England constituted by a scheme under section 2 of the Fire and Rescue Services Act 2004 or a scheme to which section 4 of that Act applies.
+
+**21** A fire and rescue authority created by a scheme under section 4A of the Fire and Rescue Services Act 2004.
+
+**22** A chief officer of police for a police area in England and Wales.
+
+**23** The proprietor of a school within the meaning of the Education Act 1996.
+
+**24** The proprietor of an Academy within the meaning of that Act.
+
+**25** The responsible person in relation to an educational institution as defined by section 72(5) of the Education and Skills Act 2008 (other than a person within paragraph 23 or 24).
+
+**26** The Gas and Electricity Markets Authority.
+
+**27** The Chief Land Registrar.
+
+**[[^F92]27A** The Minister for the Cabinet Office.
+
+**27B** The Secretary of State for Transport.
+
+**27C** The Secretary of State for Environment, Food and Rural Affairs.
+
+**27D** The Disclosure and Barring Service.]
+
+**28** A person providing services in connection with a specified objective (within the meaning of section 35) to a specified person who [[^F93]—
+
+(a) falls within this Part of this Schedule; and
+
+(b)] is a public authority.
+
+**[[^F94]28A** In this Part of this Schedule—
+
+- “relevant business function” has the meaning given in article 11(3) of the 2023 Transfer of Functions Order;
+- “the 2023 Transfer of Functions Order” means the Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424).]
+
+### [[^F95]PART 2 — WELSH BODIES
+
+**29** The Welsh Ministers.
+
+**30** The Counsel General to the Welsh Government.
+
+**31** The Welsh Revenue Authority.
+
+**32** A county council in Wales.
+
+**33** A county borough council in Wales.
+
+**34** A community council in Wales.
+
+**[[^F96]35** The Citizen Voice Body for Health and Social Care, Wales.]
+
+**36** A Local Health Board established under section 11 of the National Health Service (Wales) Act 2006.
+
+**37** An NHS Trust established under section 18 of the National Health Service (Wales) Act 2006.
+
+**[^F97]38** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**39** A Special Health Authority established under section 22 of the National Health Service (Wales) Act 2006.
+
+**40** A fire and rescue authority constituted by a scheme under section 2 of the Fire and Rescue Services Act 2004, or a scheme to which section 4 of that Act applies, for an area in Wales.
+
+**41** Career Choices Dewis Gyrfa Ltd (company number 07442837, operating as Careers Wales).
+
+**42** The governing body of an educational establishment maintained by a Welsh local authority (within the meaning of section 162 of the Education and Inspections Act 2006).
+
+**43** The governing body of an institution in Wales within the further education sector (within the meaning of section 91(3) of the Further and Higher Education Act 1992) whose activities are carried on, or principally carried on, in Wales.
+
+**44** The governing body of an institution in Wales within the higher education sector (within the meaning of section 91(5) of the Further and Higher Education Act 1992) whose activities are carried on, or principally carried on, in Wales.
+
+**45** A regulated institution within the meaning of the Higher Education (Wales) Act 2015 (ignoring section 26 of that Act) other than an institution within the higher education sector (within the meaning of section 91(5) of the Further and Higher Education Act 1992).
+
+**46** The Natural Resources Body for Wales.
+
+**47** A registered social landlord being a body registered in the register maintained under section 1 of the Housing Act 1996.
+
+**48** A person providing services in connection with a specified objective (within the meaning of section 35) to a specified person who—
+
+(a) falls within this Part of this Schedule; and
+
+(b) is a public authority.]
+
+### [[^F98]PART 3 — SCOTTISH BODIES
+
+**49** The Scottish Ministers.
+
+**50** A council constituted under section 2 of the Local Government etc. (Scotland) Act 1994.
+
+**51** The Skills Development Scotland Co. Limited (company registration number SC202659).
+
+**52** A person providing services in connection with a specified objective (within the meaning of section 35) to a specified person who—
+
+(a) falls within this Part of this Schedule; and
+
+(b) is a public authority.]
+
+## SCHEDULE 5 — Public service delivery: specified persons for the purposes of sections 36 and 37
+
+*Section 36*
+
+### [[^F99]PART 1 — UK AND ENGLISH BODIES]
+
+**1** The Secretary of State for [[^F100]Energy Security and Net Zero].
+
+**2** The Secretary of State for Work and Pensions.
+
+**3** The Secretary of State for [[^F101]Housing, Communities and Local Government].
+
+**4** Her Majesty's Revenue and Customs.
+
+**5** A county council in England.
+
+**6** A district council in England.
+
+**7** A London borough council.
+
+**8** A combined authority established under section 103 of the Local Democracy, Economic Development and Construction Act 2009.
+
+**[[^F102]8A** A combined county authority established under section 9(1) of the Levelling-up and Regeneration Act 2023.]
+
+**9** The Common Council of the City of London in its capacity as a local authority.
+
+**10** The Council of the Isles of Scilly.
+
+**11** The Greater London Authority.
+
+**12** A metropolitan county fire and rescue authority.
+
+**13** The London Fire Commissioner.
+
+**14** A fire and rescue authority in England constituted by a scheme under section 2 of the Fire and Rescue Services Act 2004 or a scheme to which section 4 of that Act applies.
+
+**15** A fire and rescue authority created by a scheme under section 4A of the Fire and Rescue Services Act 2004.
+
+**16** The Gas and Electricity Markets Authority.
+
+**17** The Chief Land Registrar.
+
+**18** A person providing services in connection with a fuel poverty measure (within the meaning of section 36) to a specified person who [[^F103]—
+
+(a) falls within this Part of this Schedule; and
+
+(b)] is a public authority.
+
+### [[^F104]PART 2 — WELSH BODIES
+
+**19** The Welsh Ministers.
+
+**20** The Counsel General to the Welsh Government.
+
+**21** The Welsh Revenue Authority.
+
+**22** A county council in Wales.
+
+**23** A county borough council in Wales.
+
+**24** A community council in Wales.
+
+**25** A fire and rescue authority constituted by a scheme under section 2 of the Fire and Rescue Services Act 2004, or a scheme to which section 4 of that Act applies, for an area in Wales.
+
+**26** The Natural Resources Body for Wales.
+
+**27** A registered social landlord being a body registered in the register maintained under section 1 of the Housing Act 1996.
+
+**28** The governing body of an educational establishment maintained by a Welsh local authority (within the meaning of section 162 of the Education and Inspections Act 2006).
+
+**29** The governing body of an institution in Wales within the further education sector (within the meaning of section 91(3) of the Further and Higher Education Act 1992) whose activities are carried on, or principally carried on, in Wales.
+
+**30** The governing body of an institution in Wales within the higher education sector (within the meaning of section 91(5) of the Further and Higher Education Act 1992) whose activities are carried on, or principally carried on, in Wales.
+
+**31** A regulated institution within the meaning of the Higher Education (Wales) Act 2015 (ignoring section 26 of that Act) other than an institution within the higher education sector (within the meaning of section 91(5) of the Further and Higher Education Act 1992).
+
+**32** A person providing services in connection with a fuel poverty measure (within the meaning of section 36) to a specified person who—
+
+(a) falls within this Part of this Schedule; and
+
+(b) is a public authority.]
+
+## SCHEDULE 6 — Public service delivery: specified persons for the purposes of sections 38 and 39
+
+*Section 38*
+
+### [[^F105]PART 1 — UK AND ENGLISH BODIES]
+
+**1** The Secretary of State for Work and Pensions.
+
+**2** The Secretary of State for [[^F106]Housing, Communities and Local Government].
+
+**3** Her Majesty's Revenue and Customs.
+
+**4** A county council in England.
+
+**5** A district council in England.
+
+**6** A London borough council.
+
+**7** A combined authority established under section 103 of the Local Democracy, Economic Development and Construction Act 2009.
+
+**[[^F107]7A** A combined county authority established under section 9(1) of the Levelling-up and Regeneration Act 2023.]
+
+**8** The Common Council of the City of London in its capacity as a local authority.
+
+**9** The Council of the Isles of Scilly.
+
+**10** The Greater London Authority.
+
+**11** The Chief Land Registrar.
+
+**12** A person providing services in connection with a water poverty measure (within the meaning of section 38) to a specified person who [[^F108]—
+
+(a) falls within this Part of this Schedule; and
+
+(b)] is a public authority.
+
+### [[^F109]PART 2 — WELSH BODIES
+
+**13** The Welsh Ministers.
+
+**14** The Counsel General to the Welsh Government.
+
+**15** The Welsh Revenue Authority.
+
+**16** A county council in Wales.
+
+**17** A county borough council in Wales.
+
+**18** A community council in Wales.
+
+**19** A registered social landlord being a body registered in the register maintained under section 1 of the Housing Act 1996.
+
+**20** The Natural Resources Body for Wales.
+
+**21** The governing body of an educational establishment maintained by a Welsh local authority (within the meaning of section 162 of the Education and Inspections Act 2006).
+
+**22** The governing body of an institution in Wales within the further education sector (within the meaning of section 91(3) of the Further and Higher Education Act 1992) whose activities are carried on, or principally carried on, in Wales.
+
+**23** The governing body of an institution in Wales within the higher education sector (within the meaning of section 91(5) of the Further and Higher Education Act 1992) whose activities are carried on, or principally carried on, in Wales.
+
+**24** A regulated institution within the meaning of the Higher Education (Wales) Act 2015 (ignoring section 26 of that Act) other than an institution within the higher education sector (within the meaning of section 91(5) of the Further and Higher Education Act 1992).
+
+**25** A person providing services in connection with a water poverty measure (within the meaning of section 38) to a specified person who—
+
+(a) falls within this Part of this Schedule; and
+
+(b) is a public authority.]
+
+## SCHEDULE 7 — Specified persons for the purposes of the debt provisions
+
+*Section 48*
+
+### [[^F110]PART 1 — UK AND ENGLISH BODIES]
+
+**1** The Secretary of State for the Home Department.
+
+**2** The Lord Chancellor.
+
+**3** The Secretary of State for Justice.
+
+**4** The Secretary of State for Education.
+
+**5** The Secretary of State for [[^F111]Business and Trade, in relation to the Secretary of State’s relevant business functions].
+
+**[[^F112]5A** The Secretary of State for Energy Security and Net Zero.
+
+**5B** The Secretary of State for Science, Innovation and Technology, in relation to the Secretary of State’s relevant SIT functions.]
+
+**6** The Secretary of State for Work and Pensions.
+
+**7** The Secretary of State for Transport.
+
+**8** Her Majesty's Revenue and Customs.
+
+**9** The Minister for the Cabinet Office.
+
+**10** A county council in England.
+
+**11** A district council in England.
+
+**12** A London borough council.
+
+**13** The Common Council of the City of London in its capacity as a local authority.
+
+**14** The Council of the Isles of Scilly.
+
+**15** The Greater London Authority.
+
+**16** The Student Loans Company.
+
+**[[^F113]17** A person providing services to a specified person who —
+
+(a) falls within this Part of this Schedule; and
+
+(b) is a public authority,
+
+in respect of the taking of action in connection with debt owed to a public authority or to the Crown.]
+
+**[[^F114]17A** In this Part of this Schedule—
+
+- “relevant business function” has the meaning given in article 11(3) of the 2023 Transfer of Functions Order;
+- “relevant SIT function” has the meaning given in article 9(4) of the 2023 Transfer of Functions Order;
+- “the 2023 Transfer of Functions Order” means the Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424).]
+
+### [[^F115]PART 2 — WELSH BODIES
+
+**18** The Welsh Ministers.
+
+**19** The Counsel General to the Welsh Government.
+
+**20** The Welsh Revenue Authority.
+
+**21** A county council in Wales.
+
+**22** A county borough council in Wales.
+
+**23** A community council in Wales.
+
+**24** A person providing services to a specified person who—
+
+(a) falls within this Part of this Schedule; and
+
+(b) is a public authority,
+
+in respect of the taking of action in connection with debt owed to a public authority or to the Crown.]
+
+### [[^F116]PART 3 — SCOTTISH BODIES
+
+**25** The Scottish Ministers.
+
+**26** A council constituted under section 2 of the Local Government etc. (Scotland) Act 1994.
+
+**27** The Scottish Environment Protection Agency.
+
+**28** The Accountant in Bankruptcy.
+
+**29** The Scottish Legal Aid Board.
+
+**30** The Common Services Agency for the Scottish Health Service.
+
+**31** The Scottish Courts and Tribunals Service.
+
+**32** Highlands and Islands Enterprise.
+
+**33** Scottish Enterprise.
+
+**34** South of Scotland Enterprise.
+
+**35** ILF Scotland (company registration number SC500075).
+
+**36** The Scottish Legal Complaints Commission.
+
+**37** The Scottish Qualifications Authority.
+
+**38** Revenue Scotland.
+
+**39** A person providing services to a specified person who—
+
+(a) falls within this Part of this Schedule; and
+
+(b) is a public authority,
+
+in respect of the taking of action in connection with debt owed to a public authority or to the Crown.]
+
+## SCHEDULE 8 — Specified persons for the purposes of the fraud provisions
+
+*Section 56*
+
+### [[^F117]PART 1 — UK AND ENGLISH BODIES]
+
+**1** The Secretary of State for the Home Department.
+
+**2** The Secretary of State for Defence.
+
+**3** The Lord Chancellor.
+
+**4** The Secretary of State for Justice.
+
+**5** The Secretary of State for Education.
+
+**6** The Secretary of State for [[^F118]Business and Trade, in relation to the Secretary of State’s relevant business functions].
+
+**7** The Secretary of State for Work and Pensions.
+
+**8** The Secretary of State for Transport.
+
+**9** The Secretary of State for [[^F119]Housing, Communities and Local Government].
+
+**10** The Secretary of State for the Environment, Food and Rural Affairs.
+
+**11** The Secretary of State for International Development.
+
+**[[^F120]12** The Secretary of State for [[^F121]Culture, Media and Sport].]
+
+**[[^F122]12A** The Secretary of State for Energy Security and Net Zero.
+
+**12B** The Secretary of State for Science, Innovation and Technology.]
+
+**13** The Minister for the Cabinet Office.
+
+**14** Her Majesty's Revenue and Customs.
+
+**15** The Export Credits Guarantee Department.
+
+**16** A county council in England.
+
+**17** A district council in England.
+
+**18** A London borough council.
+
+**19** The Common Council of the City of London in its capacity as a local authority.
+
+**20** The Council of the Isles of Scilly.
+
+**21** The Greater London Authority.
+
+**22** The Chief Land Registrar.
+
+**23** The Big Lottery Fund.
+
+**24** The Nuclear Decommissioning Authority.
+
+**25** The Environment Agency.
+
+**26** The Homes and Communities Agency.
+
+**27** [[^F123]The Office for Students].
+
+**28** The Historic Buildings and Monuments Commission for England.
+
+**29** The Student Loans Company.
+
+**30** The British Council.
+
+**31** The Arts Council of England.
+
+**32** The English Sports Council.
+
+**[[^F124]32A** United Kingdom Research and Innovation.]
+
+**[^F125]33** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F125]34** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F125]35** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F125]36** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F125]37** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F125]38** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F125]39** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F125]40** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[[^F126]41** A person providing services to a specified person who—
+
+(a) falls within this Part of this Schedule; and
+
+(b) is a public authority,
+
+in respect of the taking of action in connection with fraud against a public authority.]
+
+**[[^F127]41A** In this Part of this Schedule—
+
+- “relevant business function” has the meaning given in article 11(3) of the 2023 Transfer of Functions Order;
+- “the 2023 Transfer of Functions Order” means the Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424).]
+
+### [[^F128]PART 2 — WELSH BODIES
+
+**42** The Welsh Ministers.
+
+**43** The Counsel General to the Welsh Government.
+
+**44** The Welsh Revenue Authority.
+
+**45** A county council in Wales.
+
+**46** A county borough council in Wales.
+
+**47** A community council in Wales.
+
+**48** A fire and rescue authority constituted by a scheme under section 2 of the Fire and Rescue Services Act 2004, or a scheme to which section 4 of that Act applies, for an area in Wales.
+
+**[[^F129]49** The Commission for Tertiary Education and Research]
+
+**50** The Natural Resources Body for Wales.
+
+**51** Arts Council of Wales.
+
+**52** The Sports Council for Wales.
+
+**53** The Royal Commission on Ancient and Historical Monuments in Wales.
+
+**54** The National Library of Wales.
+
+**55** A registered social landlord being a body registered in the register maintained under section 1 of the Housing Act 1996.
+
+**56** A person providing services to a specified person who—
+
+(a) falls within this Part of this Schedule; and
+
+(b) is a public authority,
+
+in respect of the taking of action in connection with fraud against a public authority.]
+
+### [[^F130]PART 3 — SCOTTISH BODIES
+
+**57** The Scottish Ministers.
+
+**58** A council constituted under section 2 of the Local Government etc. (Scotland) Act 1994.
+
+**59** The Scottish Environment Protection Agency.
+
+**60** The Accountant in Bankruptcy.
+
+**61** The Scottish Legal Aid Board.
+
+**62** The Common Services Agency for the Scottish Health Service.
+
+**63** Highlands and Islands Enterprise.
+
+**64** Scottish Enterprise.
+
+**65** South of Scotland Enterprise.
+
+**66** ILF Scotland (company registration number SC500075).
+
+**67** The Scottish Legal Complaints Commission.
+
+**68** The Scottish Qualifications Authority.
+
+**69** Revenue Scotland.
+
+**70** Audit Scotland.
+
+**71** Food Standards Scotland.
+
+**72** Creative Scotland.
+
+**73** The Skills Development Scotland Co. Limited (company registration number SC202659).
+
+**74** A person providing services to a specified person who—
+
+(a) falls within this Part of this Schedule; and
+
+(b) is a public authority,
+
+in respect of the taking of action in connection with fraud against a public authority.]
+
+## SCHEDULE 9 — Bank of England oversight of payment systems
+
+*Section 113*
+
+### PART 1 — Extension of Bank of England oversight of payment systems
+
+**1** The Banking Act 2009 is amended as follows.
+
+**2** In the heading to Part 5 (inter-bank payment systems) omit “Inter-bank”.
+
+**3** In section 181 (overview) for “payments between financial institutions” substitute “ transferring money ”.
+
+**4** (1) Section 182 (interpretation: “inter-bank payment system”) is amended as follows.
+
+(2) In subsection (1)—
+
+(a) omit “inter-bank”;
+
+(b) omit the words from “between financial institutions” to the end.
+
+(3) After subsection (1) insert—
+
+> (1A) But “payment system” does not include any arrangements for the physical movement of cash.
+
+(4) Omit subsections (2) and (3).
+
+(5) In subsection (5) for “an inter-bank” substitute “ a ”.
+
+(6) In the heading omit “inter-bank”.
+
+**5** In section 183 (interpretation: other expressions), in paragraph (a) for “an inter-bank” substitute “ a ”.
+
+**6** (1) Section 184 (recognition order) is amended as follows.
+
+(2) In subsection (1) for “an inter-bank” substitute “ a ”.
+
+(3) In subsection (2) omit “inter-bank”.
+
+(4) In subsection (3) for “an inter-bank” substitute “ a payment ”.
+
+**7** In section 185 (recognition criteria), in subsection (1) for “an inter-bank” substitute “ a ”.
+
+**8** In section 186A (amendment of recognition order), in subsections (2)(b) and (4), omit “inter-bank”.
+
+**9** In section 187 (de-recognition), in subsections (2), (3)(b) and (5), omit “inter-bank”.
+
+**10** In section 188 (principles), in subsection (1) omit “inter-bank”.
+
+**11** In section 189 (codes of practice) omit “inter-bank”.
+
+**12** In section 190 (system rules), in subsection (1) omit “inter-bank”.
+
+**13** In section 191 (directions), in subsection (1) omit “inter-bank”.
+
+**14** In section 192 (role of FCA and PRA), in subsections (2)(a) and (b) and (3), omit “inter-bank”.
+
+**15** In section 193 (inspection), in subsections (1) and (2), omit “inter-bank”.
+
+**16** In section 194 (inspection: warrant), in subsection (1)(a) omit “inter-bank”.
+
+**17** In section 195 (independent report), in subsection (1) omit “inter-bank”.
+
+**18** In section 196 (compliance failure) omit “inter-bank”.
+
+**19** In section 197 (publication), in subsection (1) omit “inter-bank”.
+
+**20** In section 198 (penalty), in subsection (1) omit “inter-bank”.
+
+**21** In section 199 (closure), in subsection (2) omit “inter-bank”.
+
+**22** In section 200 (management disqualification), in subsections (1) and (2), omit “inter-bank”.
+
+**23** In section 201 (warning), in subsection (1) for “an inter-bank” substitute “ a ”.
+
+**24** In section 202A (injunctions), in subsections (2)(a) and (3)(a), omit “inter-bank”.
+
+**25** In section 203 (fees), in subsection (1) omit “inter-bank”.
+
+**26** In section 204 (information), in subsections (1A), (2) and (4)(c), omit “inter-bank”.
+
+**27** In section 205 (pretending to be recognised), in subsection (1) omit “inter-bank”.
+
+**28** In section 206A (services forming part of recognised inter-bank payment system), in subsections (1), (2) and (7)(a) and in the heading, omit “inter-bank”.
+
+**29** In section 259 (statutory instruments), in the Table in subsection (3)—
+
+(a) in the heading for the entries in Part 5, omit “Inter-bank”;
+
+(b) in the entry for section 206A, in the second column omit “inter-bank”.
+
+**30** In section 261 (index of defined terms), in the Table—
+
+(a) omit the entry for “Inter-bank payment system”;
+
+(b) at the appropriate place insert—
+
+> |  |  |
+> |---|---|
+> | Payment system | 182 |
+
+.
+
+### PART 2 — Consequential amendments
+
+#### Financial Services Act 2012
+
+**31** The Financial Services Act 2012 is amended as follows.
+
+**32** (1) Section 68 (cases in which Treasury may arrange independent enquiries) is amended as follows.
+
+(2) In subsection (3), in paragraphs (a) and (b)(ii), omit “inter-bank”.
+
+(3) In subsection (5), in the definition of “recognised inter-bank payment system”—
+
+(a) omit the first “inter-bank”;
+
+(b) for “an inter-bank” substitute “ a ”.
+
+**33** In section 85 (relevant functions in relation to complaints scheme), in subsection (3)(a) omit “inter-bank”.
+
+**34** In section 110 (payment to Treasury of penalties received by Bank of England), in subsection (5)(d) omit “inter-bank”.
+
+#### Financial Services (Banking Reform) Act 2013
+
+**35** The Financial Services (Banking Reform) Act 2013 is amended as follows.
+
+**36** In section 45 (procedure), in subsection (1)(a) omit “inter-bank”.
+
+**37** In section 46 (amendment of designation order), in subsection (2)(a) omit “inter-bank”.
+
+**38** In section 47 (revocation of designation orders), in subsection (3)(a) omit “inter-bank”.
+
+**39** In section 98 (duty of regulators to ensure co-ordinated exercise of functions), in subsection (5)(b) omit “inter-bank”.
+
+**40** In section 110 (interpretation), in subsection (1), in the definition of “recognised inter-bank payment system”—
+
+(a) omit the first “inter-bank”;
+
+(b) for “an inter-bank” substitute “ a ”.
+
+**41** In section 112 (interpretation: infrastructure companies), in subsections (2)(a), (4)(b) and (5), omit “inter-bank”.
+
+**42** In section 113 (interpretation: other expressions), in subsection (1)—
+
+(a) in the definition of “operator” omit “inter-bank”;
+
+(b) in the definition of “recognised inter-bank payment system”—
+
+(i) omit the first “inter-bank”;
+
+(ii) for “an inter-bank” substitute “ a ”;
+
+(c) in the definition of “the relevant system”, in paragraphs (a) and (c), omit “inter-bank”.
+
+**43** In section 115 (objective of FMI administration), in subsection (1) omit “inter-bank”.
+
+**44** In section 120 (power to direct FMI administrator), in subsection (8) omit “inter-bank”.
+
+**45** In section 127 (interpretation of Part 6), in subsection (1), in the definition of “operator” and in the definition of “recognised inter-bank payment system”, omit “inter-bank”.
+
+---
+
+[^F1]: Pt. 3 omitted (26.10.2023) by virtue of Online Safety Act 2023 (c. 50), ss. 212(2)(a), 240(4)
+[^F2]: S. 35(2A) inserted (3.5.2023) by The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424), art. 1(2), Sch. para. 18(2) (with art. 17)
+[^F3]: Words in s. 35(9)(a) substituted (12.2.2026) by Data (Use and Access) Act 2025 (c. 18), ss. 123(2)(a), 142(1); S.I. 2026/126, reg. 3
+[^F4]: Words in s. 35(9)(b) substituted (12.2.2026) by Data (Use and Access) Act 2025 (c. 18), ss. 123(2)(b), 142(1); S.I. 2026/126, reg. 3
+[^F5]: Words in s. 35(10) renumbered as s. 35(10)(a) (12.2.2026) by Data (Use and Access) Act 2025 (c. 18), ss. 123(3)(a), 142(1); S.I. 2026/126, reg. 3
+[^F6]: S. 35(10)(b) and word inserted (12.2.2026) by Data (Use and Access) Act 2025 (c. 18), ss. 123(3)(b), 142(1); S.I. 2026/126, reg. 3
+[^F7]: S. 35(13)(14) inserted (12.2.2026) by Data (Use and Access) Act 2025 (c. 18), ss. 123(4), 142(1); S.I. 2026/126, reg. 3
+[^F8]: Word in s. 36(3)(c) omitted (19.7.2018) by virtue of The Digital Government (Disclosure of Information) Regulations 2018 (S.I. 2018/912), regs. 1(1), 3(2)(a)
+[^F9]: S. 36(3)(e)(f) inserted (19.7.2018) by The Digital Government (Disclosure of Information) Regulations 2018 (S.I. 2018/912), regs. 1(1), 3(2)(b)
+[^F10]: Word in s. 36(3)(e) omitted (18.9.2026) by virtue of The Digital Government (Disclosure of Information) Regulations 2026 (S.I. 2026/1039), regs. 1(2), 2(2)(a)
+[^F11]: S. 36(3)(g)(h) inserted (18.9.2026) by The Digital Government (Disclosure of Information) Regulations 2026 (S.I. 2026/1039), regs. 1(2), 2(2)(b)
+[^F12]: Words in s. 36(11) inserted (18.9.2026) by The Digital Government (Disclosure of Information) Regulations 2026 (S.I. 2026/1039), regs. 1(2), 2(3)
+[^F13]: Words in s. 36(11) inserted (19.7.2018) by The Digital Government (Disclosure of Information) Regulations 2018 (S.I. 2018/912), regs. 1(1), 3(3)
+[^F14]: Words in s. 38(2) substituted (24.4.2025) by Water (Special Measures) Act 2025 (c. 5), ss. 13(5)(a), 17(5)(b)
+[^F15]: S. 38(9A) inserted (24.4.2025) by Water (Special Measures) Act 2025 (c. 5), ss. 13(5)(b), 17(5)(b)
+[^F16]: Words in s. 39(2) substituted (24.4.2025) by Water (Special Measures) Act 2025 (c. 5), ss. 13(6), 17(5)(b)
+[^F17]: Words in s. 40(8)(a) substituted (25.5.2018) by Data Protection Act 2018 (c. 12), s. 212(1), Sch. 19 para. 216(2) (with ss. 117, 209, 210); S.I. 2018/625, reg. 2(1)(g)
+[^F18]: S. 40(11) inserted (25.5.2018) by Data Protection Act 2018 (c. 12), s. 212(1), Sch. 19 para. 216(3) (with ss. 117, 209, 210); S.I. 2018/625, reg. 2(1)(g)
+[^F19]: Words in s. 41(6)(a) substituted (7.2.2023 at 12.00 p.m.) by The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149), regs. 1(2), 2(1), Sch. Pt. 1
+[^F20]: Words in s. 41(7) substituted (28.4.2022) by The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500), regs. 1(2), 5(1), Sch. Pt. 1
+[^F21]: Words in s. 41(7) substituted (7.2.2023 at 12.00 p.m.) by The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149), regs. 1(2), 2(1), Sch. Pt. 1
+[^F22]: Words in s. 43 substituted (30.9.2020) by The Transfer of Functions (Digital Government) Order 2020 (S.I. 2020/940), arts. 1(2), 6(2) (with art. 5)
+[^F23]: Words in s. 43(2) substituted (25.5.2018) by Data Protection Act 2018 (c. 12), s. 212(1), Sch. 19 para. 217(2) (with ss. 117, 209, 210, Sch. 20 para. 48); S.I. 2018/625, reg. 2(1)(g)
+[^F24]: Words in s. 43(5) substituted (30.9.2026) by The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386), reg. 1(2), Sch. 2 para. 21(1)(2)(a); S.I. 2026/1015, reg. 2(c)
+[^F25]: Words in s. 43(13) substituted (30.9.2026) by The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386), reg. 1(2), Sch. 2 para. 21(1)(2)(a); S.I. 2026/1015, reg. 2(c)
+[^F26]: Word in s. 43(13) substituted (19.6.2025 for specified purposes, 20.8.2025 in so far as not already in force) by Data (Use and Access) Act 2025 (c. 18), ss. 92(9)(a), 142(1)(2)(h); S.I. 2025/904, reg. 2(f)
+[^F27]: Words in s. 44(1)(a) substituted (30.9.2020) by The Transfer of Functions (Digital Government) Order 2020 (S.I. 2020/940), arts. 1(2), 6(3)(a) (with art. 5)
+[^F28]: Words in s. 44(4) substituted (30.9.2026) by The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386), reg. 1(2), Sch. 2 para. 21(1)(2)(b); S.I. 2026/1015, reg. 2(c)
+[^F29]: Words in s. 44(4)(d) substituted (30.9.2020) by The Transfer of Functions (Digital Government) Order 2020 (S.I. 2020/940), arts. 1(2), 6(3)(b) (with art. 5)
+[^F30]: Words in s. 44(4)(d) substituted (3.6.2025) by The Transfer of Functions (Digital Government) Order 2025 (S.I. 2025/557), arts. 1(2), 9(2) (with art. 8)
+[^F31]: Words in s. 44(7) substituted (30.9.2020) by The Transfer of Functions (Digital Government) Order 2020 (S.I. 2020/940), arts. 1(2), 6(3)(c) (with art. 5)
+[^F32]: Words in s. 45(1) substituted (30.9.2020) by The Transfer of Functions (Digital Government) Order 2020 (S.I. 2020/940), arts. 1(2), 6(4)(a) (with art. 5)
+[^F33]: Words in s. 45(1) inserted (30.9.2020) by The Transfer of Functions (Digital Government) Order 2020 (S.I. 2020/940), arts. 1(2), 6(4)(b) (with art. 5)
+[^F34]: Words in s. 45(1) omitted (18.5.2018) by virtue of The Transfer of Functions (Digital Government) Order 2018 (S.I. 2018/526), arts. 1(2), 6(4)(b) (with arts. 4, 5)
+[^F35]: S. 48(4A) inserted (3.5.2023) by The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424), art. 1(2), Sch. para. 18(3) (with art. 17)
+[^F36]: Words in s. 48(11) substituted (30.9.2026) by The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386), reg. 1(2), Sch. 2 para. 21(1)(2)(c); S.I. 2026/1015, reg. 2(c)
+[^F37]: Words in s. 48(11)(d) substituted (3.6.2025) by The Transfer of Functions (Digital Government) Order 2025 (S.I. 2025/557), arts. 1(2), 9(3) (with art. 8)
+[^F38]: Words in s. 49(8)(a) substituted (25.5.2018) by Data Protection Act 2018 (c. 12), s. 212(1), Sch. 19 para. 218(2) (with ss. 117, 209, 210); S.I. 2018/625, reg. 2(1)(g)
+[^F39]: S. 49(11) inserted (25.5.2018) by Data Protection Act 2018 (c. 12), s. 212(1), Sch. 19 para. 218(3) (with ss. 117, 209, 210); S.I. 2018/625, reg. 2(1)(g)
+[^F40]: Words in s. 50(6)(a) substituted (7.2.2023 at 12.00 p.m.) by The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149), regs. 1(2), 2(1), Sch. Pt. 1
+[^F41]: Words in s. 50(7) substituted (28.4.2022) by The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500), regs. 1(2), 5(1), Sch. Pt. 1
+[^F42]: Words in s. 50(7) substituted (7.2.2023 at 12.00 p.m.) by The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149), regs. 1(2), 2(1), Sch. Pt. 1
+[^F43]: Words in s. 52(2) substituted (25.5.2018) by Data Protection Act 2018 (c. 12), s. 212(1), Sch. 19 para. 219(2) (with ss. 117, 209, 210, Sch. 20 para. 48); S.I. 2018/625, reg. 2(1)(g)
+[^F44]: Words in s. 52(5) substituted (30.9.2026) by The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386), reg. 1(2), Sch. 2 para. 21(1)(2)(d); S.I. 2026/1015, reg. 2(c)
+[^F45]: Words in s. 52(13) substituted (30.9.2026) by The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386), reg. 1(2), Sch. 2 para. 21(1)(2)(d); S.I. 2026/1015, reg. 2(c)
+[^F46]: Words in s. 52(13) substituted (25.5.2018) by Data Protection Act 2018 (c. 12), s. 212(1), Sch. 19 para. 219(3) (with ss. 117, 209, 210, Sch. 20 para. 48); S.I. 2018/625, reg. 2(1)(g)
+[^F47]: Word in s. 52(13) substituted (19.6.2025 for specified purposes, 20.8.2025 in so far as not already in force) by Data (Use and Access) Act 2025 (c. 18), ss. 92(9)(b), 142(1)(2)(h); S.I. 2025/904, reg. 2(f)
+[^F48]: Words in s. 53(3) substituted (30.9.2026) by The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386), reg. 1(2), Sch. 2 para. 21(1)(2)(e); S.I. 2026/1015, reg. 2(c)
+[^F49]: S. 56(5A) inserted (3.5.2023) by The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424), art. 1(2), Sch. para. 18(4) (with art. 17)
+[^F50]: Words in s. 56(12) substituted (30.9.2026) by The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386), reg. 1(2), Sch. 2 para. 21(1)(2)(f); S.I. 2026/1015, reg. 2(c)
+[^F51]: Words in s. 56(12)(d) substituted (3.6.2025) by The Transfer of Functions (Digital Government) Order 2025 (S.I. 2025/557), arts. 1(2), 9(4) (with art. 8)
+[^F52]: Words in s. 57(8)(a) substituted (25.5.2018) by Data Protection Act 2018 (c. 12), s. 212(1), Sch. 19 para. 220(2) (with ss. 117, 209, 210); S.I. 2018/625, reg. 2(1)(g)
+[^F53]: S. 57(11) inserted (25.5.2018) by Data Protection Act 2018 (c. 12), s. 212(1), Sch. 19 para. 220(3) (with ss. 117, 209, 210); S.I. 2018/625, reg. 2(1)(g)
+[^F54]: Words in s. 58(6)(a) substituted (7.2.2023 at 12.00 p.m.) by The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149), regs. 1(2), 2(1), Sch. Pt. 1
+[^F55]: Words in s. 58(7) substituted (28.4.2022) by The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500), regs. 1(2), 5(1), Sch. Pt. 1
+[^F56]: Words in s. 58(7) substituted (7.2.2023 at 12.00 p.m.) by The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149), regs. 1(2), 2(1), Sch. Pt. 1
+[^F57]: Words in s. 60(2) substituted (25.5.2018) by Data Protection Act 2018 (c. 12), s. 212(1), Sch. 19 para. 221(2) (with ss. 117, 209, 210, Sch. 20 para. 48); S.I. 2018/625, reg. 2(1)(g)
+[^F58]: Words in s. 60(5) substituted (30.9.2026) by The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386), reg. 1(2), Sch. 2 para. 21(1)(2)(g); S.I. 2026/1015, reg. 2(c)
+[^F59]: Words in s. 60(13) substituted (30.9.2026) by The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386), reg. 1(2), Sch. 2 para. 21(1)(2)(g); S.I. 2026/1015, reg. 2(c)
+[^F60]: Words in s. 60(13) substituted (25.5.2018) by Data Protection Act 2018 (c. 12), s. 212(1), Sch. 19 para. 221(3) (with ss. 117, 209, 210, Sch. 20 para. 48); S.I. 2018/625, reg. 2(1)(g)
+[^F61]: Word in s. 60(13) substituted (19.6.2025 for specified purposes, 20.8.2025 in so far as not already in force) by Data (Use and Access) Act 2025 (c. 18), ss. 92(9)(c), 142(1)(2)(h); S.I. 2025/904, reg. 2(f)
+[^F62]: Words in s. 61(3) substituted (30.9.2026) by The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386), reg. 1(2), Sch. 2 para. 21(1)(2)(h); S.I. 2026/1015, reg. 2(c)
+[^F63]: Words in s. 65(2)(a) substituted (25.5.2018) by Data Protection Act 2018 (c. 12), s. 212(1), Sch. 19 para. 222(2) (with ss. 117, 209, 210); S.I. 2018/625, reg. 2(1)(g)
+[^F64]: S. 65(9) inserted (25.5.2018) by Data Protection Act 2018 (c. 12), s. 212(1), Sch. 19 para. 222(3) (with ss. 117, 209, 210); S.I. 2018/625, reg. 2(1)(g)
+[^F65]: Words in s. 66(12)(a) substituted (7.2.2023 at 12.00 p.m.) by The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149), regs. 1(2), 2(1), Sch. Pt. 1
+[^F66]: Words in s. 66(13) substituted (28.4.2022) by The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500), regs. 1(2), 5(1), Sch. Pt. 1
+[^F67]: Words in s. 66(13) substituted (7.2.2023 at 12.00 p.m.) by The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149), regs. 1(2), 2(1), Sch. Pt. 1
+[^F68]: Words in s. 68(10)(a) substituted (7.2.2023 at 12.00 p.m.) by The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149), regs. 1(2), 2(1), Sch. Pt. 1
+[^F69]: Words in s. 68(11) substituted (28.4.2022) by The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500), regs. 1(2), 5(1), Sch. Pt. 1
+[^F70]: Words in s. 68(11) substituted (7.2.2023 at 12.00 p.m.) by The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149), regs. 1(2), 2(1), Sch. Pt. 1
+[^F71]: Words in s. 70(2) substituted (25.5.2018) by Data Protection Act 2018 (c. 12), s. 212(1), Sch. 19 para. 223(2) (with ss. 117, 209, 210, Sch. 20 para. 48); S.I. 2018/625, reg. 2(1)(g)
+[^F72]: Words in s. 70(7) substituted (30.9.2026) by The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386), reg. 1(2), Sch. 2 para. 21(1)(2)(i); S.I. 2026/1015, reg. 2(c)
+[^F73]: Words in s. 70(15) substituted (30.9.2026) by The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386), reg. 1(2), Sch. 2 para. 21(1)(2)(i); S.I. 2026/1015, reg. 2(c)
+[^F74]: Words in s. 70(15) substituted (25.5.2018) by Data Protection Act 2018 (c. 12), s. 212(1), Sch. 19 para. 223(3) (with ss. 117, 209, 210, Sch. 20 para. 48); S.I. 2018/625, reg. 2(1)(g)
+[^F75]: Word in s. 70(15) substituted (19.6.2025 for specified purposes, 20.8.2025 in so far as not already in force) by Data (Use and Access) Act 2025 (c. 18), ss. 92(9)(d), 142(1)(2)(h); S.I. 2025/904, reg. 2(f)
+[^F76]: Words in s. 71(6) substituted (30.9.2026) by The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386), reg. 1(2), Sch. 2 para. 21(1)(2)(j); S.I. 2026/1015, reg. 2(c)
+[^F77]: S. 93 omitted (23.8.2024) by virtue of Media Act 2024 (c. 15), ss. 40(2), 55(3)(d); S.I. 2024/858, reg. 2(1)(r)
+[^F78]: S. 103 omitted (26.10.2023) by virtue of Online Safety Act 2023 (c. 50), ss. 212(3), 240(4)
+[^F79]: Ss. 108-110 omitted (25.5.2018) by virtue of Data Protection Act 2018 (c. 12), s. 212(1), Sch. 19 para. 224 (with ss. 117, 209, 210); S.I. 2018/625, reg. 2(1)(g)
+[^F80]: S. 119(10)(11) omitted (26.10.2023) by virtue of Online Safety Act 2023 (c. 50), ss. 212(2)(b), 240(4)
+[^F81]: Words in Sch. 2 para. 5 cross-heading omitted (17.4.2023) by virtue of Product Security and Telecommunications Infrastructure 2022 (c. 46), ss. 58(2), 79(2); S.I. 2023/109, reg. 3(a)
+[^F82]: Words in Sch. 2 para. 5(1) substituted (17.4.2023) by Product Security and Telecommunications Infrastructure 2022 (c. 46), ss. 58(3)(a), 79(2); S.I. 2023/109, reg. 3(a)
+[^F83]: Words in Sch. 2 para. 5(2) substituted (17.4.2023) by Product Security and Telecommunications Infrastructure 2022 (c. 46), ss. 58(3)(b), 79(2); S.I. 2023/109, reg. 3(a)
+[^F84]: Sch. 2 para. 5A and cross-heading inserted (17.4.2023) by Product Security and Telecommunications Infrastructure 2022 (c. 46), ss. 58(4), 79(2); S.I. 2023/109, reg. 3(a)
+[^F85]: Sch. 4 Pt. 1 heading inserted (E.W.) (26.4.2018) by The Digital Government (Welsh Bodies) (Wales) Regulations 2018 (S.I. 2018/551), reg. 1(2), Sch. para. 1(2)
+[^F86]: Words in Sch. 4 para. 6 substituted (3.5.2023) by The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424), art. 1(2), Sch. para. 18(5)(a) (with art. 17)
+[^F87]: Words in Sch. 4 para. 8 substituted (30.10.2024) by The Transfer of Functions (Secretary of State for Housing, Communities and Local Government) Order 2024 (S.I. 2024/991), art. 1(2), Sch. para. 13(a) (with art. 7)
+[^F88]: Sch. 4 para. 9 substituted (8.11.2017) by virtue of The Transfer of Functions (Secretary of State for Digital, Culture, Media and Sport) Order 2017 (S.I. 2017/979), art. 1(2), Sch. para. 6(a) (with art. 7)
+[^F89]: Words in Sch. 4 para. 9 substituted (3.5.2023) by The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424), art. 1(2), Sch. para. 18(5)(b) (with art. 17)
+[^F90]: Sch. 4 paras. 9A, 9B inserted (3.5.2023) by The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424), art. 1(2), Sch. para. 18(5)(c) (with art. 17)
+[^F91]: Sch. 4 para. 14A inserted (E.W.) (26.12.2023) by Levelling-up and Regeneration Act 2023 (c. 55), s. 255(2)(c), Sch. 4 para. 214 (with s. 247)
+[^F92]: Sch. 4 paras. 27A-27D inserted (8.2.2024) (E.W.S) by The Digital Government (Disclosure of Information) (Identity Verification Services) Regulations 2024 (S.I. 2024/64), regs. 1(1), 2
+[^F93]: Words in Sch. 4 para. 28 inserted (E.W.) (26.4.2018) by The Digital Government (Welsh Bodies) (Wales) Regulations 2018 (S.I. 2018/551), reg. 1(2), Sch. para. 1(3)
+[^F94]: Sch. 4 para. 28A inserted (3.5.2023) by The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424), art. 1(2), Sch. para. 18(5)(d) (with art. 17)
+[^F95]: Sch. 4 Pt. 2 inserted (E.W.) (26.4.2018) by The Digital Government (Welsh Bodies) (Wales) Regulations 2018 (S.I. 2018/551), reg. 1(2), Sch. para. 1(4)
+[^F96]: Words in Sch. 4 para. 35 substituted (1.4.2023) by Health and Social Care (Quality and Engagement) (Wales) Act 2020 (asc 1), s. 29(2), Sch. 3 para. 15(a); S.I. 2023/370, art. 3(1)(t)
+[^F97]: Sch. 4 para. 38 omitted (1.4.2023) by virtue of Health and Social Care (Quality and Engagement) (Wales) Act 2020 (asc 1), s. 29(2), Sch. 3 para. 15(b); S.I. 2023/370, art. 3(1)(t)
+[^F98]: Sch. 4 Pt. 3 inserted (S.) (13.9.2018) by The Digital Government (Scottish Bodies) Regulations 2018 (S.S.I. 2018/243), regs. 1, 2
+[^F99]: Sch. 5 Pt. 1 heading inserted (E.W.) (26.4.2018) by The Digital Government (Welsh Bodies) (Wales) Regulations 2018 (S.I. 2018/551), reg. 1(2), Sch. para. 2(2)
+[^F100]: Words in Sch. 5 para. 1 substituted (3.5.2023) by The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424), art. 1(2), Sch. para. 18(6) (with art. 17)
+[^F101]: Words in Sch. 5 para. 3 substituted (30.10.2024) by The Transfer of Functions (Secretary of State for Housing, Communities and Local Government) Order 2024 (S.I. 2024/991), art. 1(2), Sch. para. 13(b) (with art. 7)
+[^F102]: Sch. 5 para. 8A inserted (E.W.) (26.12.2023) by Levelling-up and Regeneration Act 2023 (c. 55), s. 255(2)(c), Sch. 4 para. 215 (with s. 247)
+[^F103]: Words in Sch. 5 para. 18 inserted (E.W.) (26.4.2018) by The Digital Government (Welsh Bodies) (Wales) Regulations 2018 (S.I. 2018/551), reg. 1(2), Sch. para. 2(3)
+[^F104]: Sch. 5 Pt. 2 inserted (E.W.) (26.4.2018) by The Digital Government (Welsh Bodies) (Wales) Regulations 2018 (S.I. 2018/551), reg. 1(2), Sch. para. 2(4)
+[^F105]: Sch. 6 Pt. 1 heading inserted (26.4.2018) by The Digital Government (Welsh Bodies) (Wales) Regulations 2018 (S.I. 2018/551), reg. 1(2), Sch. para. 3(2)
+[^F106]: Words in Sch. 6 para. 2 substituted (30.10.2024) by The Transfer of Functions (Secretary of State for Housing, Communities and Local Government) Order 2024 (S.I. 2024/991), art. 1(2), Sch. para. 13(c) (with art. 7)
+[^F107]: Sch. 6 para. 7A inserted (E.W.) (26.12.2023) by Levelling-up and Regeneration Act 2023 (c. 55), s. 255(2)(c), Sch. 4 para. 216 (with s. 247)
+[^F108]: Words in Sch. 6 para. 12 inserted (26.4.2018) by The Digital Government (Welsh Bodies) (Wales) Regulations 2018 (S.I. 2018/551), reg. 1(2), Sch. para. 3(3)
+[^F109]: Sch. 6 Pt. 2 inserted (26.4.2018) by The Digital Government (Welsh Bodies) (Wales) Regulations 2018 (S.I. 2018/551), reg. 1(2), Sch. para. 3(4)
+[^F110]: Sch. 7 Pt. 1 heading inserted (E.W.) (26.4.2018) by The Digital Government (Welsh Bodies) (Wales) Regulations 2018 (S.I. 2018/551), reg. 1(2), Sch. para. 4(2)
+[^F111]: Words in Sch. 7 para. 5 substituted (3.5.2023) by The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424), art. 1(2), Sch. para. 18(7)(a) (with art. 17)
+[^F112]: Sch. 7 paras. 5A, 5B inserted (3.5.2023) by The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424), art. 1(2), Sch. para. 18(7)(b) (with art. 17)
+[^F113]: Sch. 7 para. 17 substituted (26.4.2018) by The Digital Government (Welsh Bodies) (Wales) Regulations 2018 (S.I. 2018/551), reg. 1(2), Sch. para. 4(3)
+[^F114]: Sch. 7 para. 17A inserted (3.5.2023) by The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424), art. 1(2), Sch. para. 18(7)(c) (with art. 17)
+[^F115]: Sch. 7 Pt. 2 inserted (E.W.) (26.4.2018) by The Digital Government (Welsh Bodies) (Wales) Regulations 2018 (S.I. 2018/551), reg. 1(2), Sch. para. 4(4)
+[^F116]: Sch. 7 Pt. 3 inserted (16.3.2022) by The Digital Government (Scottish Bodies) Regulations 2022 (S.S.I. 2022/91), regs. 1, 2
+[^F117]: Sch. 8 Pt. 1 heading inserted (E.W.) (26.4.2018) by The Digital Government (Welsh Bodies) (Wales) Regulations 2018 (S.I. 2018/551), reg. 1(2), Sch. para. 5(2)
+[^F118]: Words in Sch. 8 para. 6 substituted (3.5.2023) by The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424), art. 1(2), Sch. para. 18(8)(a) (with art. 17)
+[^F119]: Words in Sch. 8 para. 9 substituted (30.10.2024) by The Transfer of Functions (Secretary of State for Housing, Communities and Local Government) Order 2024 (S.I. 2024/991), art. 1(2), Sch. para. 13(d) (with art. 7)
+[^F120]: Sch. 8 para. 12 substituted (8.11.2017) by virtue of The Transfer of Functions (Secretary of State for Digital, Culture, Media and Sport) Order 2017 (S.I. 2017/979), art. 1(2), Sch. para. 6(b) (with art. 7)
+[^F121]: Words in Sch. 8 para. 12 substituted (3.5.2023) by The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424), art. 1(2), Sch. para. 18(8)(b) (with art. 17)
+[^F122]: Sch. 8 paras. 12A, 12B inserted (3.5.2023) by The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424), art. 1(2), Sch. para. 18(8)(c) (with art. 17)
+[^F123]: Words in Sch. 8 para. 27 substituted (1.8.2019) by The Higher Education and Research Act 2017 (Further Implementation etc.) Regulations 2019 (S.I. 2019/1027), regs. 1, 14(2)
+[^F124]: Sch. 8 para. 32A inserted (1.8.2019) by The Higher Education and Research Act 2017 (Further Implementation etc.) Regulations 2019 (S.I. 2019/1027), regs. 1, 14(3)
+[^F125]: Sch. 8 paras. 33-40 omitted (1.8.2019) by virtue of The Higher Education and Research Act 2017 (Further Implementation etc.) Regulations 2019 (S.I. 2019/1027), regs. 1, 14(4)
+[^F126]: Sch. 8 para. 41 substituted (26.4.2018) by The Digital Government (Welsh Bodies) (Wales) Regulations 2018 (S.I. 2018/551), reg. 1(2), Sch. para. 5(3)
+[^F127]: Sch. 8 para. 41A inserted (3.5.2023) by The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424), art. 1(2), Sch. para. 18(8)(d) (with art. 17)
+[^F128]: Sch. 8 Pt. 2 inserted (E.W.) (26.4.2018) by The Digital Government (Welsh Bodies) (Wales) Regulations 2018 (S.I. 2018/551), reg. 1(2), Sch. para. 5(4)
+[^F129]: Words in Sch. 8 para. 49 substituted (1.8.2024) by The Digital Government (Welsh Bodies) Regulations 2024 (S.I. 2024/805), regs. 1(2), 2
+[^F130]: Sch. 8 Pt. 3 inserted (16.3.2022) by The Digital Government (Scottish Bodies) Regulations 2022 (S.S.I. 2022/91), regs. 1, 3

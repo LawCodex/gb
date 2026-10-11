@@ -1,0 +1,9803 @@
+---
+title: "Leasehold Reform, Housing and Urban Development Act 1993"
+identifier: "ukpga/1993/28"
+citation: "1993 c. 28"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S+N.I."
+date: 1993-07-20
+last_amended: 2025-05-19
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/1993/28"
+source_modified: 2025-05-23
+retrieved: 2026-10-11
+---
+
+# Leasehold Reform, Housing and Urban Development Act 1993
+
+**1993 c. 28**
+
+An Act to confer rights to collective enfranchisement and lease renewal on tenants of flats; to make further provision with respect to enfranchisement by tenants of houses; to make provision for auditing the management, by landlords or other persons, of residential property and for the approval of codes of practice relating thereto; to amend Parts III and IV of the Landlord and Tenant Act 1987; to confer jurisdiction on leasehold valuation tribunals as respects Crown land; to make provision for rendering void agreements preventing the occupation of leasehold property by persons with mental disorders; to amend Parts II, IV and V of the Housing Act 1985, Schedule 2 to the Housing Associations Act 1985, Parts I and III and sections 248 and 299 of the Housing (Scotland) Act 1987, Part III of the Housing Act 1988, and Part VI of the Local Government and Housing Act 1989; to make provision with respect to certain disposals requiring consent under Part II of the Housing Act 1985, including provision for the payment of a levy; to alter the basis of certain contributions by the Secretary of State under section 569 of that Act; to establish and confer functions on a body to replace the English Industrial Estates Corporation and to be known as the Urban Regeneration Agency; to provide for the designation of certain urban and other areas and to make provision as to the effect of such designation; to amend section 23 of the Land Compensation Act 1961, section 98 of the Local Government, Planning and Land Act 1980 and section 27 of the Housing and Planning Act 1986; to make further provision with respect to urban development corporations and urban development areas; and for connected purposes.
+
+[20th July 1993]
+
+BE IT ENACTED by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## Part I — LANDLORD AND TENANT
+
+### Chapter I — COLLECTIVE ENFRANCHISEMENT IN CASE OF TENANTS OF FLATS
+
+#### Preliminary
+
+##### 1 The right to collective enfranchisement.
+
+(1) This Chapter has effect for the purpose of conferring on qualifying tenants of flats contained in premises to which this Chapter applies on the relevant date the right, exercisable subject to and in accordance with this Chapter, to have the freehold of those premises acquired on their behalf—
+
+(a) by a person or persons appointed by them for the purpose, and
+
+(b) at a price determined in accordance with this Chapter;
+
+and that right is referred to in this Chapter as “the right to collective enfranchisement”.
+
+(2) Where the right to collective enfranchisement is exercised in relation to any such premises (“the relevant premises”)—
+
+(a) the qualifying tenants by whom the right is exercised shall be entitled, subject to and in accordance with this Chapter, to have acquired, in like manner, the freehold of any property which is not comprised in the relevant premises but to which this paragraph applies by virtue of subsection (3); and
+
+(b) section 2 has effect with respect to the acquisition of leasehold interests to which paragraph (a) or (b) of subsection (1) of that section applies.
+
+(3) Subsection (2)(a) applies to any property if [^F1]. . . at the relevant date either—
+
+(a) it is appurtenant property which is demised by the lease held by a qualifying tenant of a flat contained in the relevant premises; or
+
+(b) it is property which any such tenant is entitled under the terms of the lease of his flat to use in common with the occupiers of other premises (whether those premises are contained in the relevant premises or not).
+
+(4) The right of acquisition in respect of the freehold of any such property as is mentioned in subsection (3)(b) shall, however, be taken to be satisfied with respect to that property if, on the acquisition of the relevant premises in pursuance of this Chapter, either—
+
+(a) there are granted by the [[^F2]person who owns the freehold of that property]—
+
+(i) over that property, or
+
+(ii) over any other property,
+
+such permanent rights as will ensure that thereafter the occupier of the flat referred to in that provision has as nearly as may be the same rights as those enjoyed in relation to that property on the relevant date by the qualifying tenant under the terms of his lease; or
+
+(b) there is acquired from the [[^F2]person who owns the freehold of that property] the freehold of any other property over which any such permanent rights may be granted.
+
+(5) A claim by qualifying tenants to exercise the right to collective enfranchisement may be made in relation to any premises to which this Chapter applies despite the fact that those premises are less extensive than the entirety of the premises in relation to which those tenants are entitled to exercise that right.
+
+(6) Any right or obligation under this Chapter to acquire any interest in property shall not extend to underlying minerals in which that interest subsists if—
+
+(a) the owner of the interest requires the minerals to be excepted, and
+
+(b) proper provision is made for the support of the property as it is enjoyed on the relevant date.
+
+(7) In this section—
+
+- “appurtenant property”, in relation to a flat, means any garage, outhouse, garden, yard or appurtenances belonging to, or usually enjoyed with, the flat;
+- [^F1]. . .
+- “the relevant premises” means any such premises as are referred to in subsection (2).
+
+(8) In this Chapter “the relevant date”, in relation to any claim to exercise the right to collective enfranchisement, means the date on which notice of the claim is given under section 13.
+
+##### 2 Acquisition of leasehold interests.
+
+(1) Where the right to collective enfranchisement is exercised in relation to any premises to which this Chapter applies (“the relevant premises”), then, subject to and in accordance with this Chapter—
+
+(a) there shall be acquired on behalf of the qualifying tenants by whom the right is exercised every interest to which this paragraph applies by virtue of subsection (2); and
+
+(b) those tenants shall be entitled to have acquired on their behalf any interest to which this paragraph applies by virtue of subsection (3);
+
+and any interest so acquired on behalf of those tenants shall be acquired in the manner mentioned in paragraphs (a) and (b) of section 1(1).
+
+(2) Paragraph (a) of subsection (1) above applies to the interest of the tenant under any lease which is superior to the lease held by a qualifying tenant of a flat contained in the relevant premises.
+
+(3) Paragraph (b) of subsection (1) above applies to the interest of the tenant under any lease (not falling within subsection (2) above) under which the demised premises consist of or include—
+
+(a) any common parts of the relevant premises, or
+
+(b) any property falling within section 1(2)(a) which is to be acquired by virtue of that provision,
+
+where the acquisition of that interest is reasonably necessary for the proper management or maintenance of those common parts, or (as the case may be) that property, on behalf of the tenants by whom the right to collective enfranchisement is exercised.
+
+(4) Where the demised premises under any lease falling within subsection (2) or (3) include any premises other than—
+
+(a) a flat contained in the relevant premises which is held by a qualifying tenant,
+
+(b) any common parts of those premises, or
+
+(c) any such property as is mentioned in subsection (3)(b),
+
+the obligation or (as the case may be) right under subsection (1) above to acquire the interest of the tenant under the lease shall not extend to his interest under the lease in any such other premises.
+
+(5) Where the qualifying tenant of a flat is a public sector landlord and the flat is let under a secure tenancy [[^F3]or an introductory tenancy] [[^F4]or a secure contract (or an introductory standard contract)], then if—
+
+(a) the condition specified in subsection (6) is satisfied, and
+
+(b) the lease of the qualifying tenant is directly derived out of a lease under which the tenant is a public sector landlord,
+
+the interest of that public sector landlord as tenant under that lease shall not be liable to be acquired by virtue of subsection (1) to the extent that it is an interest in the flat or in any appurtenant property; and the interest of a public sector landlord as tenant under any lease out of which the qualifying tenant’s lease is indirectly derived shall, to the like extent, not be liable to be so acquired (so long as the tenant under every lease intermediate between that lease and the qualifying tenant’s lease is a public sector landlord).
+
+(6) The condition referred to in subsection (5)(a) is that either—
+
+(a) the qualifying tenant is the immediate landlord under the secure tenancy [[^F5]or, as the case may be, the introductory tenancy] [[^F6]or the secure contract (or the introductory standard contract)], or
+
+(b) he is the landlord under a lease which is superior to the secure tenancy [[^F7]or, as the case may be, the introductory tenancy] [[^F8]or the secure contract (or the introductory standard contract)] and the tenant under that lease, and the tenant under every lease (if any) intermediate between it and the secure tenancy [[^F7]or the introductory tenancy] [[^F8]or the secure contract (or the introductory standard contract)], is also a public sector landlord;
+
+and in subsection (5) “appurtenant property” has the same meaning as in section 1.
+
+(7) In this section “the relevant premises” means any such premises as are referred to in subsection (1).
+
+##### 3 Premises to which this Chapter applies.
+
+(1) Subject to section 4, this Chapter applies to any premises if—
+
+(a) they consist of a self-contained building or part of a building [^F9]. . .;
+
+(b) they contain two or more flats held by qualifying tenants; and
+
+(c) the total number of flats held by such tenants is not less than two-thirds of the total number of flats contained in the premises.
+
+(2) For the purposes of this section a building is a self-contained building if it is structurally detached, and a part of a building is a self-contained part of a building if—
+
+(a) it constitutes a vertical division of the building and the structure of the building is such that that part could be redeveloped independently of the remainder of the building; and
+
+(b) the relevant services provided for occupiers of that part either—
+
+(i) are provided independently of the relevant services provided for occupiers of the remainder of the building, or
+
+(ii) could be so provided without involving the carrying out of any works likely to result in a significant interruption in the provision of any such services for occupiers of the remainder of the building;
+
+and for this purpose “relevant services” means services provided by means of pipes, cables or other fixed installations.
+
+##### 4 Premises excluded from right.
+
+(1) This Chapter does not apply to premises falling within section 3(1) if—
+
+(a) any part or parts of the premises is or are neither—
+
+(i) occupied, or intended to be occupied, for residential purposes, nor
+
+(ii) comprised in any common parts of the premises; and
+
+(b) the internal floor area of that part or of those parts (taken together) exceeds [[^F10]25 per cent.] of the internal floor area of the premises (taken as a whole).
+
+(2) Where in the case of any such premises any part of the premises (such as, for example, a garage, parking space or storage area) is used, or intended for use, in conjunction with a particular dwelling contained in the premises (and accordingly is not comprised in any common parts of the premises), it shall be taken to be occupied, or intended to be occupied, for residential purposes.
+
+(3) For the purpose of determining the internal floor area of a building or of any part of a building, the floor or floors of the building or part shall be taken to extend (without interruption) throughout the whole of the interior of the building or part, except that the area of any common parts of the building or part shall be disregarded.
+
+[[^F11](3A) Where different persons own the freehold of different parts of premises within subsection (1) of section 3, this Chapter does not apply to the premises if any of those parts is a self-contained part of a building for the purposes of that section.]
+
+(4) This Chapter does not apply to premises falling within section 3(1) if the premises are premises with a resident landlord and do not contain more than four units.
+
+[[^F12](5) This Chapter does not apply to premises falling within section 3(1) if the freehold of the premises includes track of an operational railway; and for the purposes of this subsection—
+
+(a) “track” includes any land or other property comprising the permanent way of a railway (whether or not it is also used for other purposes) and includes any bridge, tunnel, culvert, retaining wall or other structure used for the support of, or otherwise in connection with, track,
+
+(b) “operational” means not disused, and
+
+(c) “railway” has the same meaning as in any provision of Part 1 of the Railways Act 1993 (c. 43) for the purposes of which that term is stated to have its wider meaning.]
+
+##### 4A [[^F13] RTE companies
+
+(1) A company is a RTE company in relation to premises if—
+
+(a) it is a private company limited by guarantee, and
+
+(b) its [[^F14]articles of association state] that its object, or one of its objects, is the exercise of the right to collective enfranchisement with respect to the premises.
+
+(2) But a company is not a RTE company if it is a commonhold association (within the meaning of Part 1 of the Commonhold and Leasehold Reform Act 2002).
+
+(3) And a company is not a RTE company in relation to premises if another company which is a RTE company in relation to—
+
+(a) the premises, or
+
+(b) any premises containing or contained in the premises,
+
+has given a notice under section 13 with respect to the premises, or any premises containing or contained in the premises, and the notice continues in force in accordance with subsection (11) of that section.
+
+##### 4B RTE companies: membership
+
+(1) Before the execution of a relevant conveyance to a company which is a RTE company in relation to any premises the following persons are entitled to be members of the company—
+
+(a) qualifying tenants of flats contained in the premises, and
+
+(b) if the company is also a RTM company which has acquired the right to manage the premises, landlords under leases of the whole or any part of the premises.
+
+(2) In this section—
+
+- “relevant conveyance” means a conveyance of the freehold of the premises or of any premises containing or contained in the premises; and
+- “RTM company” has the same meaning as in Chapter 1 of Part 2 of the Commonhold and Leasehold Reform Act 2002.
+
+(3) On the execution of a relevant conveyance to the RTE company, any member of the company who is not a participating member ceases to be a member.
+
+(4) In this Chapter “participating member”, in relation to a RTE company, means a person who is a member by virtue of subsection (1)(a) of this section and who—
+
+(a) has given a participation notice to the company before the date when the company gives a notice under section 13 or during the participation period, or
+
+(b) is a participating member by virtue of either of the following two subsections.
+
+(5) A member who is the assignee of a lease by virtue of which a participating member was a qualifying tenant of his flat is a participating member if he has given a participation notice to the company within the period beginning with the date of the assignment and ending 28 days later (or, if earlier, on the execution of a relevant conveyance to the company).
+
+(6) And if the personal representatives of a participating member are a member, they are a participating member if they have given a participation notice to the company at any time (before the execution of a relevant conveyance to the company).
+
+(7) In this section “participation notice”, in relation to a member of the company, means a notice stating that he wishes to be a participating member.
+
+(8) For the purposes of this section a participation notice given to the company during the period—
+
+(a) beginning with the date when the company gives a notice under section 13, and
+
+(b) ending immediately before a binding contract is entered into in pursuance of the notice under section 13,
+
+is of no effect unless a copy of the participation notice has been given during that period to the person who (in accordance with section 9) is the reversioner in respect of the premises.
+
+(9) For the purposes of this section “the participation period” is the period beginning with the date when the company gives a notice under section 13 and ending—
+
+(a) six months, or such other time as the Secretary of State may by order specify, after that date, or
+
+(b) immediately before a binding contract is entered into in pursuance of the notice under section 13,
+
+whichever is the earlier.
+
+(10) In this section references to assignment include an assent by personal representatives, and assignment by operation of law where the assignment is to a trustee in bankruptcy or to a mortgagee under section 89(2) of the Law of Property Act 1925 (c. 20)(foreclosure of leasehold mortgage); and references to an assignee shall be construed accordingly.
+
+##### 4C RTE companies: regulations
+
+(1) The Secretary of State shall by regulations make provision about the content and form of the [[^F15]articles of association] of RTE companies.
+
+(2) A RTE company may adopt provisions of the regulations for its [[^F16]articles].
+
+(3) The regulations may include provision which is to have effect for a RTE company whether or not it is adopted by the company.
+
+(4) A provision of the [[^F17]articles] of a RTE company has no effect to the extent that it is inconsistent with the regulations.
+
+(5) The regulations have effect in relation to [[^F18]articles]—
+
+(a) irrespective of the date of [[^F19]the articles], but
+
+(b) subject to any transitional provisions of the regulations.
+
+[[^F20](6) Section 20 of the Companies Act 2006 (default application of model articles) does not apply to a RTE company.]]
+
+##### 5 Qualifying tenants.
+
+(1) Subject to the following provisions of this section, a person is a qualifying tenant of a flat for the purposes of this Chapter if he is tenant of the flat under a long lease [^F21]. . . .
+
+(2) Subsection (1) does not apply where—
+
+(a) the lease is a business lease; or
+
+(b) the immediate landlord under the lease is a charitable housing trust and the flat forms part of the housing accommodation provided by it in the pursuit of its charitable purposes; or
+
+(c) the lease was granted by sub-demise out of a superior lease other than a long lease [^F22]. . . , the grant was made in breach of the terms of the superior lease, and there has been no waiver of the breach by the superior landlord;
+
+and in paragraph (b) “charitable housing trust” means a housing trust within the meaning of the [^M1]Housing Act 1985 which is a charity [^F23]....
+
+(3) No flat shall have more than one qualifying tenant at any one time.
+
+(4) Accordingly—
+
+(a) where a flat is for the time being let under two or more leases to which subsection (1) applies, any tenant under any of those leases which is superior to that held by any other such tenant shall not be a qualifying tenant of the flat for the purposes of this Chapter; and
+
+(b) where a flat is for the time being let to joint tenants under a lease to which subsection (1) applies, the joint tenants shall (subject to paragraph (a) and subsection (5)) be regarded for the purposes of this Chapter as jointly constituting the qualifying tenant of the flat.
+
+(5) Where apart from this subsection—
+
+(a) a person would be regarded for the purposes of this Chapter as being (or as being among those constituting) the qualifying tenant of a flat contained in any particular premises consisting of the whole or part of a building, but
+
+(b) that person would also be regarded for those purposes as being (or as being among those constituting) the qualifying tenant of each of two or more other flats contained in those premises,
+
+then, whether that person is tenant of the flats referred to in paragraphs (a) and (b) under a single lease or otherwise, there shall be taken for those purposes to be no qualifying tenant of any of those flats.
+
+(6) For the purposes of subsection (5) in its application to a body corporate any flat let to an associated company (whether alone or jointly with any other person or persons) shall be treated as if it were so let to that body; and for this purpose “associated company” means another body corporate which is (within the meaning of [[^F24]section 1159 of the Companies Act 2006]) that body’s holding company, a subsidiary of that body or another subsidiary of that body’s holding company.
+
+##### 6 Qualifying tenants satisfying residence condition.
+
+[^F25]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### 7 Meaning of “long lease”.
+
+(1) In this Chapter “long lease” means (subject to the following provisions of this section)—
+
+(a) a lease granted for a term of years certain exceeding 21 years, whether or not it is (or may become) terminable before the end of that term by notice given by or to the tenant or by re-entry, forfeiture or otherwise;
+
+(b) a lease for a term fixed by law under a grant with a covenant or obligation for perpetual renewal (other than a lease by sub-demise from one which is not a long lease) or a lease taking effect under section 149(6) of the [^M2]Law of Property Act 1925 (leases terminable after a death or marriage [[^F26]or the formation of a civil partnership]);
+
+(c) a lease granted in pursuance of the right to buy conferred by Part V of the [^M3]Housing Act 1985 or in pursuance of the right to acquire on rent to mortgage terms conferred by that Part of that Act; or
+
+(d) a shared ownership lease, whether granted in pursuance of that Part of that Act or otherwise, where the tenant’s total share is 100 per cent. [[^F27]or
+
+(e) a lease granted in pursuance of that Part of that Act as it has effect by virtue of section 17 of the Housing Act 1996 (the right to acquire)]
+
+(2) A lease terminable by notice after [[^F28]a death, a marriage or the formation of a civil partnership] is not to be treated as a long lease for the purposes of this Chapter if—
+
+(a) the notice is capable of being given at any time after the death or marriage of [[^F29], or the formation of a civil partnership by,] the tenant;
+
+(b) the length of the notice is not more than three months; and
+
+(c) the terms of the lease preclude both—
+
+(i) its assignment otherwise than by virtue of section 92 of the Housing Act 1985 (assignments by way of exchange), and
+
+(ii) the sub-letting of the whole of the premises comprised in it.
+
+(3) Where the tenant of any property under a long lease [^F30]. . . , on the coming to an end of that lease, becomes or has become tenant of the property or part of it under any subsequent tenancy (whether by express grant or by implication of law), then that tenancy shall be deemed for the purposes of this Chapter (including any further application of this subsection) to be a long lease irrespective of its terms.
+
+(4) Where—
+
+(a) a lease is or has been granted for a term of years certain not exceeding 21 years, but with a covenant or obligation for renewal without payment of a premium (but not for perpetual renewal), and
+
+(b) the lease is or has been renewed on one or more occasions so as to bring to more than 21 years the total of the terms granted (including any interval between the end of a lease and the grant of a renewal),
+
+this Chapter shall apply as if the term originally granted had been one exceeding 21 years.
+
+(5) References in this Chapter to a long lease include—
+
+(a) any period during which the lease is or was continued under Part I of the [^M4]Landlord and Tenant Act 1954 or under Schedule 10 to the [^M5]Local Government and Housing Act 1989;
+
+(b) any period during which the lease was continued under the [^M6]Leasehold Property (Temporary Provisions) Act 1951.
+
+(6) Where in the case of a flat there are at any time two or more separate leases, with the same landlord and the same tenant, and—
+
+(a) the property comprised in one of those leases consists of either the flat or a part of it (in either case with or without any appurtenant property), and
+
+(b) the property comprised in every other lease consists of either a part of the flat (with or without any appurtenant property) or appurtenant property only,
+
+then in relation to the property comprised in such of those leases as are long leases, this Chapter shall apply as it would if at that time—
+
+(i) there were a single lease of that property, and
+
+(ii) that lease were a long lease;
+
+but this subsection has effect subject to the operation of subsections (3) to (5) in relation to any of the separate leases.
+
+(7) In this section—
+
+- “appurtenant property” has the same meaning as in section 1;
+
+- “shared ownership lease” means a lease—
+
+  - (a) granted on payment of a premium calculated by reference to a percentage of the value of the demised premises or the cost of providing them, or
+  - (b) under which the tenant (or his personal representatives) will or may be entitled to a sum calculated by reference, directly or indirectly, to the value of those premises; and
+
+- “total share”, in relation to the interest of a tenant under a shared ownership lease, means his initial share plus any additional share or shares in the demised premises which he has acquired.
+
+##### 8 Leases at a low rent.
+
+[^F31]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### 8A Meaning of “particularly long term”.
+
+[^F32]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### 9 The reversioner and other relevant landlords for the purposes of this Chapter.
+
+(1) Where, in connection with any claim to exercise the right to collective enfranchisement in relation to any premises [[^F33]the freehold of the whole of which is owned by the same person], it is not proposed to acquire any interests other than—
+
+(a) the freehold of the premises, or
+
+(b) any other interests of the person who owns the freehold of the premises,
+
+that person shall be the reversioner in respect of the premises for the purposes of this Chapter.
+
+(2) Where, in connection with any such claim [[^F34]as is mentioned in subsection (1)], it is proposed to acquire interests of persons other than the person who owns the freehold of the premises to which the claim relates, then—
+
+(a) the reversioner in respect of the premises shall for the purposes of this Chapter be the person identified as such by Part I of Schedule 1 to this Act; and
+
+(b) the person who owns the freehold of the premises [[^F35]every person who owns any freehold interest which it is proposed to acquire by virtue of section 1(2)(a),], and every person who owns any leasehold interest which it is proposed to acquire under or by virtue of section 2(1)(a) or (b), shall be a relevant landlord for those purposes.
+
+[[^F36](2A) In the case of any claim to exercise the right to collective enfranchisement in relation to any premises the freehold of the whole of which is not owned by the same person—
+
+(a) the reversioner in respect of the premises shall for the purposes of this Chapter be the person identified as such by Part IA of Schedule 1 to this Act, and
+
+(b) every person who owns a freehold interest in the premises, every person who owns any freehold interest which it is proposed to acquire by virtue of section 1(2)(a), and every person who owns any leasehold interest which it is proposed to acquire under or by virtue of section 2(1)(a) or (b), shall be a relevant landlord for those purposes.]
+
+(3) Subject to the provisions of Part II of Schedule 1, the reversioner in respect of any premises shall, in a case to which subsection (2) [[^F37]or (2A)] applies, conduct on behalf of all the relevant landlords all proceedings arising out of any notice given with respect to the premises under section 13 (whether the proceedings are for resisting or giving effect to the claim in question).
+
+(4) Schedule 2 (which makes provision with respect to certain special categories of landlords) has effect for the purposes of this Chapter.
+
+##### 10 Premises with a resident landlord.
+
+[[^F38](1) For the purposes of this Chapter any premises falling within section 3(1) are premises with a resident landlord at any time if—
+
+(a) the premises are not, and do not form part of, a purpose-built block of flats;
+
+(b) the same person has owned the freehold of the premises since before the conversion of the premises into two or more flats or other units; and
+
+(c) he, or an adult member of his family, has occupied a flat or other unit contained in the premises as his only or principal home throughout the period of twelve months ending with that time.]
+
+(2) [^F39]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) [^F40]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[[^F41](4) Where the freehold of any premises is held on trust, subsection (1) applies as if—
+
+(a) the requirement in paragraph (b) were that the same person has had an interest under the trust (whether or not also a trustee) since before the conversion of the premises, and
+
+(b) paragraph (c) referred to him or an adult member of his family.]
+
+(4A) [^F42]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) For the purposes of this section a person is an adult member of another’s family if that person is—
+
+(a) the other’s [[^F43]spouse or civil partner]; or
+
+(b) a son or daughter or a son-in-law or daughter-in-law of the other, or of the other’s [[^F43]spouse or civil partner], who has attained the age of 18; or
+
+(c) the father or mother of the other, or of the other’s [[^F43]spouse or civil partner];
+
+and in paragraph (b) any reference to a person’s son or daughter includes a reference to any stepson or stepdaughter of that person, and “son-in-law” and “daughter-in-law” shall be construed accordingly.
+
+(6) In this section—
+
+- [^F44]. . .
+- “purpose-built block of flats” means a building which as constructed contained two or more flats.
+- [[^F45]“qualifying flat”, in relation to a relevant person, or an adult member of a relevant person’s family, means a flat the freehold of the whole of which is owned by the relevant person.]
+
+#### Preliminary inquiries by tenants
+
+##### 11 Right of qualifying tenant to obtain information about superior interests etc.
+
+(1) A qualifying tenant of a flat may give—
+
+(a) to [[^F46]any immediate landlord of his], or
+
+(b) to any person receiving rent on behalf of [[^F46]any immediate landlord of his],
+
+a notice requiring the recipient to give the tenant (so far as known to the recipient) the name and address of [[^F46]every person who owns a freehold interest in] the relevant premises and the name and address of every other person who has an interest to which subsection (2) applies.
+
+(2) In relation to a qualifying tenant of a flat, this subsection applies to the following interests, namely—
+
+(a) the freehold of any property not contained in the relevant premises—
+
+(i) which is demised by the lease held by the tenant, or
+
+(ii) which the tenant is entitled under the terms of his lease to use in common with other persons; and
+
+(b) any leasehold interest in the relevant premises or in any such property which is superior to that of [[^F47]any immediate landlord of the tenant].
+
+(3) Any qualifying tenant of a flat may give to [[^F48]any person who owns a freehold interest in] the relevant premises a notice requiring him to give the tenant (so far as known to him) the name and address of every person, apart from the tenant, who is—
+
+(a) a tenant of the whole of the relevant premises, or
+
+(b) a tenant or licensee of any separate set or sets of premises contained in the relevant premises, or
+
+(c) a tenant or licensee of the whole or any part of any common parts so contained or of any property not so contained—
+
+(i) which is demised by the lease held by a qualifying tenant of a flat contained in the relevant premises, or
+
+(ii) which any such qualifying tenant is entitled under the terms of his lease to use in common with other persons.
+
+(4) Any such qualifying tenant may also give—
+
+[[^F49](a) to any person who owns a freehold interest in the relevant premises,
+
+(aa) to any person who owns a freehold interest in any such property as is mentioned in subsection (3)(c),]
+
+(b) to any person falling within subsection (3)(a), (b) or (c),
+
+a notice requiring him to give the tenant—
+
+(i) such information relating to his interest in the relevant premises or (as the case may be) in any such property [^F50]. . ., or
+
+(ii) (so far as known to him) such information relating to any interest derived (whether directly or indirectly) out of that interest,
+
+as is specified in the notice, where the information is reasonably required by the tenant in connection with the making of a claim to exercise the right to collective enfranchisement in relation to the whole or part of the relevant premises.
+
+(5) Where a notice is given by a qualifying tenant under subsection (4), the following rights shall be exercisable by him in relation to the recipient of the notice, namely—
+
+(a) a right, on giving reasonable notice, to be provided with a list of documents to which subsection (6) applies;
+
+(b) a right to inspect, at any reasonable time and on giving reasonable notice, any documents to which that subsection applies; and
+
+(c) a right, on payment of a reasonable fee, to be provided with a copy of any documents which are contained in any list provided under paragraph (a) or have been inspected under paragraph (b).
+
+(6) This subsection applies to any document in the custody or under the control of the recipient of the notice under subsection (4)—
+
+(a) sight of which is reasonably required by the qualifying tenant in connection with the making of such a claim as is mentioned in that subsection; and
+
+(b) which, on a proposed sale by a willing seller to a willing buyer of the recipient’s interest in the relevant premises or (as the case may be) in any such property as is mentioned in subsection (3)(c), the seller would be expected to make available to the buyer (whether at or before contract or completion).
+
+(7) Any person who—
+
+(a) is required by a notice under any of subsections (1) to (4) to give any information to a qualifying tenant, or
+
+(b) is required by a qualifying tenant under subsection (5) to supply any list of documents, to permit the inspection of any documents or to supply a copy of any documents,
+
+shall comply with that requirement within the period of 28 days beginning with the date of the giving of the notice referred to in paragraph (a) or (as the case may be) with the date of the making of the requirement referred to in paragraph (b).
+
+(8) Where—
+
+(a) a person has received a notice under subsection (4), and
+
+(b) within the period of six months beginning with the date of receipt of the notice, he—
+
+(i) disposes of any interest (whether legal or equitable) in the relevant premises [[^F51]or in any such property as is mentioned in subsection (3)(c)] otherwise than by the creation of an interest by way of security for a loan, or
+
+(ii) acquires any such interest (otherwise than by way of security for a loan),
+
+then (unless that disposal or acquisition has already been notified to the qualifying tenant in accordance with subsection (7)) he shall notify the qualifying tenant of that disposal or acquisition within the period of 28 days beginning with the date when it occurred.
+
+(9) In this section—
+
+- [[^F52]“document” means anything in which information of any description is recorded, and in relation to a document in which information is recorded otherwise than in legible form any reference to sight of the document is to sight of the information in legible form;]
+
+- “the relevant premises”, in relation to any qualifying tenant of a flat, means—
+
+  - (a) if the person who owns the freehold interest in the flat owns [[^F53], or the persons who own the freehold interests in the flat own,] the freehold of the whole of the building in which the flat is contained, that building, or
+  - (b) if that person owns [[^F53], or those persons own,] the freehold of part only of that building, that part of that building;
+
+and any reference to an interest in the relevant premises includes an interest in part of those premises.
+
+##### 12 Right of qualifying tenant to obtain information about other matters.
+
+(1) Any notice given by a qualifying tenant under section 11(4) shall, in addition to any other requirement imposed in accordance with that provision, require the recipient to give the tenant—
+
+(a) the information specified in subsection (2) below; and
+
+(b) (so far as known to the recipient) the information specified in subsection (3) below.
+
+(2) The information referred to in subsection (1)(a) is—
+
+(a) whether the recipient has received in respect of any premises containing the tenant’s flat—
+
+(i) a notice under section 13 in the case of which the relevant claim is still current, or
+
+(ii) a copy of such a notice; and
+
+(b) if so, the date on which the notice under section 13 was given and the name and address of the nominee purchaser for the time being appointed for the purposes of section 15 in relation to that claim.
+
+(3) The information referred to in subsection (1)(b) is—
+
+(a) whether the tenant’s flat is comprised in any property in the case of which any of paragraphs (a) to (d) of section 31(2) is applicable; and
+
+(b) if paragraph (b) or (d) of that provision is applicable, the date of the application in question.
+
+(4) Where—
+
+(a) within the period of six months beginning with the date of receipt of a notice given by a tenant under section 11(4), the recipient of the notice receives in respect of any premises containing the tenant’s flat—
+
+(i) a notice under section 13, or
+
+(ii) a copy of such a notice, and
+
+(b) the tenant is not one of the qualifying tenants by whom the notice under section 13 is given,
+
+the recipient shall, within the period of 28 days beginning with the date of receipt of the notice under section 13 or (as the case may be) the copy, notify the tenant of the date on which the notice was given and of the name and address of the nominee purchaser for the time being appointed for the purposes of section 15 in relation to the relevant claim.
+
+(5) Where—
+
+(a) the recipient of a notice given by a tenant under section 11(4) has, in accordance with subsection (1) above, informed the tenant of any such application as is referred to in subsection (3)(b) above; and
+
+(b) within the period of six months beginning with the date of receipt of the notice, the application is either granted or refused by the Commissioners of Inland Revenue or is withdrawn by the applicant,
+
+the recipient shall, within the period of 28 days beginning with the date of the granting, refusal or withdrawal of the application, notify the tenant that it has been granted, refused or withdrawn.
+
+(6) In this section “the relevant claim”, in relation to a notice under section 13, means the claim in respect of which that notice is given; and for the purposes of subsection (2) above any such claim is current if—
+
+(a) that notice continues in force in accordance with section 13(11), or
+
+(b) a binding contract entered into in pursuance of that notice remains in force, or
+
+(c) where an order has been made under section 24(4)(a) or (b) or 25(6)(a) or (b) with respect to any such premises as are referred to in subsection (2)(a) above, any interests which by virtue of the order fall to be vested in the nominee purchaser have yet to be so vested.
+
+#### The initial notice
+
+##### 13 Notice by qualifying tenants of claim to exercise right.
+
+(1) A claim to exercise the right to collective enfranchisement with respect to any premises is made by the giving of notice of the claim under this section.
+
+(2) A notice given under this section (“the initial notice”)—
+
+(a) must
+
+[[^F54](i) in a case to which section 9(2) applies,] be given to the reversioner in respect of those premises; [[^F55]and
+
+(ii) in a case to which section 9(2A) applies, be given to the person specified in the notice as the recipient;] and
+
+(b) must be given by a number of qualifying tenants of flats contained in the premises as at the relevant date which—
+
+(i) [^F56]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(ii) is not less than one-half of the total number of flats so contained;
+
+[^F57]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[[^F58](2A) In a case to which section 9(2A) applies, the initial notice must specify—
+
+(a) a person who owns a freehold interest in the premises, or
+
+(b) if every person falling within paragraph (a) is a person who cannot be found or whose identity cannot be ascertained, a relevant landlord,
+
+as the recipient of the notice.]
+
+(3) The initial notice must—
+
+(a) specify and be accompanied by a plan showing—
+
+(i) the premises of which the freehold is proposed to be acquired by virtue of section 1(1),
+
+(ii) any property of which the freehold is proposed to be acquired by virtue of section 1(2)(a), and
+
+(iii) any property [^F59]. . . over which it is proposed that rights (specified in the notice) should be granted [^F59]. . . in connection with the acquisition of the freehold of the specified premises or of any such property so far as falling within section 1(3)(a);
+
+(b) contain a statement of the grounds on which it is claimed that the specified premises are, on the relevant date, premises to which this Chapter applies;
+
+(c) specify—
+
+(i) any leasehold interest proposed to be acquired under or by virtue of section 2(1)(a) or (b), and
+
+(ii) any flats or other units contained in the specified premises in relation to which it is considered that any of the requirements in Part II of Schedule 9 to this Act are applicable;
+
+(d) specify the proposed purchase price for each of the following, namely—
+
+(i) the freehold interest in the specified premises, [[^F60]or, if the freehold of the whole of the specified premises is not owned by the same person, each of the freehold interests in those premises]
+
+(ii) the freehold interest in any property specified under paragraph (a)(ii), and
+
+(iii) any leasehold interest specified under paragraph (c)(i);
+
+(e) state the full names of all the qualifying tenants of flats contained in the specified premises and the addresses of their flats, and contain [^F61]. . . in relation to each of those tenants, [^F62]. . . —
+
+(i) such particulars of his lease as are sufficient to identify it, including the date on which the lease was entered into, the term for which it was granted and the date of the commencement of the term,
+
+(ii) [^F63]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(iii) [^F64]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(f) state the full name or names of the person or persons appointed as the nominee purchaser for the purposes of section 15, and an address in England and Wales at which notices may be given to that person or those persons under this Chapter; and
+
+(g) specify the date by which the reversioner must respond to the notice by giving a counter-notice under section 21.
+
+[^F65]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) The date specified in the initial notice in pursuance of subsection (3)(g) must be a date falling not less than two months after the relevant date.
+
+[^F65]6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F65]7 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(8) Where any premises have been specified in a notice under this section, no subsequent notice which specifies the whole or part of those premises may be given under this section so long as the earlier notice continues in force.
+
+(9) Where any premises have been specified in a notice under this section and—
+
+(a) that notice has been withdrawn, or is deemed to have been withdrawn, under or by virtue of any provision of this Chapter or under section 74(3), or
+
+(b) in response to that notice, an order has been applied for and obtained under section 23(1),
+
+no subsequent notice which specifies the whole or part of those premises may be given under this section within the period of twelve months beginning with the date of the withdrawal or deemed withdrawal of the earlier notice or with the time when the order under section 23(1) becomes final (as the case may be).
+
+(10) In subsections (8) and (9) any reference to a notice which specifies the whole or part of any premises includes a reference to a notice which specifies any premises which contain the whole or part of those premises; and in those subsections and this “specifies” means specifies under subsection (3)(a)(i).
+
+(11) Where a notice is given in accordance with this section, then for the purposes of this Chapter the notice continues in force as from the relevant date—
+
+(a) until a binding contract is entered into in pursuance of the notice, or an order is made under section 24(4)(a) or (b) or 25(6)(a) or (b) providing for the vesting of interests in the nominee purchaser;
+
+(b) if the notice is withdrawn or deemed to have been withdrawn under or by virtue of any provision of this Chapter or under section 74(3), until the date of the withdrawal or deemed withdrawal, or
+
+(c) until such other time as the notice ceases to have effect by virtue of any provision of this Chapter.
+
+(12) In this Chapter “the specified premises”, in relation to a claim made under this Chapter, means—
+
+(a) the premises specified in the initial notice under subsection (3)(a)(i), or
+
+(b) if it is subsequently agreed or determined under this Chapter that any less extensive premises should be acquired in pursuance of the notice in satisfaction of the claim, those premises;
+
+and similarly references to any property or interest specified in the initial notice under subsection (3)(a)(ii) or (c)(i) shall, if it is subsequently agreed or determined under this Chapter that any less extensive property or interest should be acquired in pursuance of the notice, be read as references to that property or interest.
+
+(13) Schedule 3 to this Act (which contains restrictions on participating in the exercise of the right to collective enfranchisement, and makes further provision in connection with the giving of notices under this section) shall have effect.
+
+#### Participating tenants and nominee purchaser
+
+##### 14 The participating tenants.
+
+(1) In relation to any claim to exercise the right to collective enfranchisement, the participating tenants are (subject to the provisions of this section and Part I of Schedule 3) the following persons, namely—
+
+(a) in relation to the relevant date, the qualifying tenants by whom the initial notice is given; and
+
+(b) in relation to any time falling after that date, such of those qualifying tenants as for the time being remain qualifying tenants of flats contained in the specified premises.
+
+(2) Where the lease by virtue of which a participating tenant is a qualifying tenant of his flat is assigned to another person, the assignee of the lease shall, within the period of 14 days beginning with the date of the assignment, notify the nominee purchaser—
+
+(a) of the assignment, and
+
+(b) as to whether or not the assignee is electing to participate in the proposed acquisition.
+
+(3) Where a qualifying tenant of a flat contained in the specified premises—
+
+(a) is not one of the persons by whom the initial notice was given, and
+
+(b) is not such an assignee of the lease of a participating tenant as is mentioned in subsection (2),
+
+then (subject to paragraph 8 of Schedule 3) he may elect to participate in the proposed acquisition, but only with the agreement of all the persons who are for the time being participating tenants; and, if he does so elect, he shall notify the nominee purchaser forthwith of his election.
+
+(4) Where a person notifies the nominee purchaser under subsection (2) or (3) of his election to participate in the proposed acquisition, he shall be regarded as a participating tenant for the purposes of this Chapter—
+
+(a) as from the date of the assignment or agreement referred to in that subsection; and
+
+(b) so long as he remains a qualifying tenant of a flat contained in the specified premises.
+
+(5) Where a participating tenant dies, his personal representatives shall, within the period of 56 days beginning with the date of death, notify the nominee purchaser—
+
+(a) of the death of the tenant, and
+
+(b) as to whether or not the personal representatives are electing to withdraw from participation in the proposed acquisition;
+
+and, unless the personal representatives of a participating tenant so notify the nominee purchaser that they are electing to withdraw from participation in that acquisition, they shall be regarded as a participating tenant for the purposes of this Chapter—
+
+(i) as from the date of the death of the tenant, and
+
+(ii) so long as his lease remains vested in them.
+
+(6) Where in accordance with subsection (4) or (5) any assignee or personal representatives of a participating tenant (“the tenant”) is or are to be regarded as a participating tenant for the purposes of this Chapter, any arrangements made between the nominee purchaser and the participating tenants and having effect immediately before the date of the assignment or (as the case may be) the date of death shall have effect as from that date—
+
+(a) with such modifications as are necessary for substituting the assignee or (as the case may be) the personal representatives as a party to the arrangements in the place of the tenant; or
+
+(b) in the case of an assignment by a person who remains a qualifying tenant of a flat contained in the specified premises, with such modifications as are necessary for adding the assignee as a party to the arrangements.
+
+(7) Where the nominee purchaser receives a notification under subsection (2), (3) or (5), he shall, within the period of 28 days beginning with the date of receipt of the notification—
+
+(a) give a notice under subsection (8) to the reversioner in respect of the specified premises, and
+
+(b) give a copy of that notice to every other relevant landlord.
+
+(8) A notice under this subsection is a notice stating—
+
+(a) in the case of a notification under subsection (2)—
+
+(i) the date of the assignment and the name and address of the assignee,
+
+(ii) that the assignee has or (as the case may be) has not become a participating tenant in accordance with subsection (4), and
+
+(iii) if he has become a participating tenant (otherwise than in a case to which subsection (6)(b) applies), that he has become such a tenant in place of his assignor;
+
+(b) in the case of a notification under subsection (3), the name and address of the person who has become a participating tenant in accordance with subsection (4); and
+
+(c) in the case of a notification under subsection (5)—
+
+(i) the date of death of the deceased tenant,
+
+(ii) the names and addresses of the personal representatives of the tenant, and
+
+(iii) that in accordance with that subsection those persons are or (as the case may be) are not to be regarded as a participating tenant.
+
+(9) Every notice under subsection (8)—
+
+(a) shall identify the flat with respect to which it is given; and
+
+(b) if it states that any person or persons is or are to be regarded as a participating tenant, shall be signed by the person or persons in question.
+
+(10) In this section references to assignment include an assent by personal representatives and assignment by operation of law, where the assignment is—
+
+(a) to a trustee in bankruptcy, or
+
+(b) to a mortgagee under section 89(2) of the [^M7]Law of Property Act 1925 (foreclosure of leasehold mortgage),
+
+and references to an assignee shall be construed accordingly.
+
+(11) Nothing in this section has effect for requiring or authorising anything to be done at any time after a binding contract is entered into in pursuance of the initial notice.
+
+##### 15 The nominee purchaser: appointment and replacement.
+
+(1) The nominee purchaser shall conduct on behalf of the participating tenants all proceedings arising out of the initial notice, with a view to the eventual acquisition by him, on their behalf, of such freehold and other interests as fall to be so acquired under a contract entered into in pursuance of that notice.
+
+(2) In relation to any claim to exercise the right to collective enfranchisement with respect to any premises, the nominee purchaser shall be such person or persons as may for the time being be appointed for the purposes of this section by the participating tenants; and in the first instance the nominee purchaser shall be the person or persons specified in the initial notice in pursuance of section 13(3)(f).
+
+(3) The appointment of any person as the nominee purchaser, or as one of the persons constituting the nominee purchaser, may be terminated by the participating tenants by the giving of a notice stating that that person’s appointment is to terminate on the date on which the notice is given.
+
+(4) Any such notice must be given—
+
+(a) to the person whose appointment is being terminated, and
+
+(b) to the reversioner in respect of the specified premises.
+
+(5) Any such notice must in addition either—
+
+(a) specify the name or names of the person or persons constituting the nominee purchaser as from the date of the giving of the notice, and an address in England and Wales at which notices may be given to that person or those persons under this Chapter; or
+
+(b) state that the following particulars will be contained in a further notice given to the reversioner within the period of 28 days beginning with that date, namely—
+
+(i) the name of the person or persons for the time being constituting the nominee purchaser,
+
+(ii) if falling after that date, the date of appointment of that person or of each of those persons, and
+
+(iii) an address in England and Wales at which notices may be given to that person or those persons under this Chapter;
+
+and the appointment of any person by way of replacement for the person whose appointment is being terminated shall not be valid unless his name is specified, or is one of those specified, under paragraph (a) or (b).
+
+(6) Where the appointment of any person is terminated in accordance with this section, anything done by or in relation to the nominee purchaser before the date of termination of that person’s appointment shall be treated, so far as necessary for the purpose of continuing its effect, as having been done by or in relation to the nominee purchaser as constituted on or after that date.
+
+(7) Where the appointment of any person is so terminated, he shall not be liable under section 33 for any costs incurred in connection with the proposed acquisition under this Chapter at any time after the date of termination of his appointment; but if—
+
+(a) at any such time he is requested by the nominee purchaser for the time being to supply to the nominee purchaser, at an address in England and Wales specified in the request, all or any documents in his custody or under his control that relate to that acquisition, and
+
+(b) he fails without reasonable cause to comply with any such request or is guilty of any unreasonable delay in complying with it,
+
+he shall be liable for any costs which are incurred by the nominee purchaser, or for which the nominee purchaser is liable under section 33, in consequence of the failure.
+
+(8) Where—
+
+(a) two or more persons together constitute the nominee purchaser, and
+
+(b) the appointment of any (but not both or all) of them is terminated in accordance with this section without any person being appointed by way of immediate replacement,
+
+the person or persons remaining shall for the time being constitute the nominee purchaser.
+
+(9) Where—
+
+(a) a notice given under subsection (3) contains such a statement as is mentioned in subsection (5)(b), and
+
+(b) as a result of the termination of the appointment in question there is no nominee purchaser for the time being,
+
+the running of any period which—
+
+(i) is prescribed by or under this Part for the giving of any other notice or the making of any application, and
+
+(ii) would otherwise expire during the period beginning with the date of the giving of the notice under subsection (3) and ending with the date when the particulars specified in subsection (5)(b) are notified to the reversioner,
+
+shall (subject to subsection (10)) be suspended throughout the period mentioned in paragraph (ii).
+
+(10) If—
+
+(a) the circumstances are as mentioned in subsection (9)(a) and (b), but
+
+(b) the particulars specified in subsection (5)(b) are not notified to the reversioner within the period of 28 days specified in that provision,
+
+the initial notice shall be deemed to have been withdrawn at the end of that period.
+
+(11) A copy of any notice given under subsection (3) or (5)(b) shall be given by the participating tenants to every relevant landlord (other than the reversioner) to whom the initial notice or a copy of it was given in accordance with section 13 and Part II of Schedule 3; and, where a notice under subsection (3) terminates the appointment of a person who is one of two or more persons together constituting the nominee purchaser, a copy of the notice shall also be so given to every other person included among those persons.
+
+(12) Nothing in this section applies in relation to the termination of the appointment of the nominee purchaser (or of any of the persons constituting the nominee purchaser) at any time after a binding contract is entered into in pursuance of the initial notice; and in this Chapter references to the nominee purchaser, so far as referring to anything done by or in relation to the nominee purchaser at any time falling after such a contract is so entered into, are references to the person or persons constituting the nominee purchaser at the time when the contract is entered into or such other person as is for the time being the purchaser under the contract.
+
+##### 16 The nominee purchaser: retirement or death.
+
+(1) The appointment of any person as the nominee purchaser, or as one of the persons constituting the nominee purchaser, may be terminated by that person by the giving of a notice stating that he is resigning his appointment with effect from 21 days after the date of the notice.
+
+(2) Any such notice must be given—
+
+(a) to each of the participating tenants; and
+
+(b) to the reversioner in respect of the specified premises.
+
+(3) Where the participating tenants have received any such notice, they shall, within the period of 56 days beginning with the date of the notice, give to the reversioner a notice informing him of the resignation and containing the following particulars, namely—
+
+(a) the name or names of the person or persons for the time being constituting the nominee purchaser,
+
+(b) if falling after that date, the date of appointment of that person or of each of those persons, and
+
+(c) an address in England and Wales at which notices may be given to that person or those persons under this Chapter;
+
+and the appointment of any person by way of replacement for the person resigning his appointment shall not be valid unless his name is specified, or is one of those specified, under paragraph (a).
+
+(4) Subsections (6) to (8) of section 15 shall have effect in connection with a person’s resignation of his appointment in accordance with this section as they have effect in connection with the termination of a person’s appointment in accordance with that section.
+
+(5) Where the person, or one of the persons, constituting the nominee purchaser dies, the participating tenants shall, within the period of 56 days beginning with the date of death, give to the reversioner a notice informing him of the death and containing the following particulars, namely—
+
+(a) the name or names of the person or persons for the time being constituting the nominee purchaser,
+
+(b) if falling after that date, the date of appointment of that person or of each of those persons, and
+
+(c) an address in England and Wales at which notices may be given to that person or those persons under this Chapter;
+
+and the appointment of any person by way of replacement for the person who has died shall not be valid unless his name is specified, or is one of those specified, under paragraph (a).
+
+(6) Subsections (6) and (8) of section 15 shall have effect in connection with the death of any such person as they have effect in connection with the termination of a person’s appointment in accordance with that section.
+
+(7) If—
+
+(a) the participating tenants are required to give a notice under subsection (3) or (5), and
+
+(b) as a result of the resignation or death referred to in that subsection there is no nominee purchaser for the time being,
+
+the running of any period which—
+
+(i) is prescribed by or under this Part for the giving of any other notice or the making of any application, and
+
+(ii) would otherwise expire during the period beginning with the relevant date and ending with the date when the particulars specified in that subsection are notified to the reversioner,
+
+shall (subject to subsection (8)) be suspended throughout the period mentioned in paragraph (ii); and for this purpose “the relevant date” means the date of the notice of resignation under subsection (1) or the date of death (as the case may be).
+
+(8) If—
+
+(a) the circumstances are as mentioned in subsection (7)(a) and (b), but
+
+(b) the participating tenants fail to give a notice under subsection (3) or (as the case may be) subsection (5) within the period of 56 days specified in that subsection,
+
+the initial notice shall be deemed to have been withdrawn at the end of that period.
+
+(9) Where a notice under subsection (1) is given by a person who is one of two or more persons together constituting the nominee purchaser, a copy of the notice shall be given by him to every other person included among those persons; and a copy of any notice given under subsection (3) or (5) shall be given by the participating tenants to every relevant landlord (other than the reversioner) to whom the initial notice or a copy of it was given in accordance with section 13 and Part II of Schedule 3.
+
+(10) Nothing in this section applies in relation to the resignation or death of the nominee purchaser (or any of the persons together constituting the nominee purchaser) at any time after a binding contract is entered into in pursuance of the initial notice.
+
+#### Procedure following giving of initial notice
+
+##### 17 [[^F66]Rights of access.]
+
+(1) Once the initial notice or a copy of it has been given in accordance with section 13 or Part II of Schedule 3 to the reversioner or to any other relevant landlord, that person and any person authorised to act on his behalf shall, in the case of—
+
+(a) any part of the specified premises, or
+
+(b) any part of any property specified in the notice under section 13(3)(a)(ii),
+
+in which he has a freehold or leasehold interest which is included in the proposed acquisition by the nominee purchaser, have a right of access thereto for the purpose of enabling him to obtain a valuation of that interest in connection with the notice [[^F67]or if it is reasonable in connection with any other matter arising out of the claim to exercise the right to collective enfranchisement].
+
+(2) Once the initial notice has been given in accordance with section 13, the nominee purchaser and any person authorised to act on his behalf shall have a right of access to—
+
+(a) any part of the specified premises, or
+
+(b) any part of any property specified in the notice under section 13(3)(a)(ii),
+
+where such access is reasonably required by the nominee purchaser in connection with any matter arising out of the notice.
+
+(3) A right of access conferred by this section shall be exercisable at any reasonable time and on giving not less than 10 days’ notice to the occupier of any premises to which access is sought (or, if those premises are unoccupied, to the person entitled to occupy them).
+
+##### 18 Duty of nominee purchaser to disclose existence of agreements affecting specified premises etc.
+
+(1) If at any time during the period beginning with the relevant date and ending with the [[^F68]time when a binding contract is entered into in pursuance of the initial notice] —
+
+(a) there subsists between the nominee purchaser and a person other than a participating tenant any agreement (of whatever nature) providing for the disposal of a relevant interest, or
+
+(b) if the nominee purchaser is a company, any person other than a participating tenant holds any share in that company by virtue of which a relevant interest may be acquired,
+
+the existence of that agreement or shareholding shall be notified to the reversioner by the nominee purchaser as soon as possible after the agreement or shareholding is made or established or, if in existence on the relevant date, as soon as possible after that date.
+
+(2) If—
+
+(a) the nominee purchaser is required to give any notification under subsection (1) but fails to do so before the price payable to the reversioner or any other relevant landlord in respect of the acquisition of any interest of his by the nominee purchaser is determined for the purposes of Schedule 6, and
+
+(b) it may reasonably be assumed that, had the nominee purchaser given the notification, it would have resulted in the price so determined being increased by an amount referable to the existence of any agreement or shareholding falling within subsection (1)(a) or (b),
+
+the nominee purchaser and the participating tenants shall be jointly and severally liable to pay the amount to the reversioner or (as the case may be) the other relevant landlord.
+
+(3) In subsection (1) “relevant interest” means any interest in, or in any part of, the specified premises or any property specified in the initial notice under section 13(3)(a)(ii).
+
+(4) Paragraph (a) of subsection (1) does not, however, apply to an agreement if the only disposal of such an interest for which it provides is one consisting in the creation of an interest by way of security for a loan.
+
+##### 19 Effect of initial notice as respects subsequent transactions by freeholder etc.
+
+(1) Where the initial notice has been registered in accordance with section 97(1), then so long as it continues in force—
+
+(a) [[^F69]any person who owns the freehold of the whole or any part of the specified premises or the freehold of any property specified in the notice under section 13(3)(a)(ii)] shall not—
+
+(i) make any disposal severing his interest in those premises or in [[^F70]that property], or
+
+(ii) grant out of that interest any lease under which, if it had been granted before the relevant date, the interest of the tenant would to any extent have been liable on that date to acquisition by virtue of section 2(1)(a) or (b); and
+
+(b) no other relevant landlord shall grant out of his interest in the specified premises or in any property so specified any such lease as is mentioned in paragraph (a)(ii);
+
+and any transaction shall be void to the extent that it purports to effect any such disposal or any such grant of a lease as is mentioned in paragraph (a) or (b).
+
+(2) Where the initial notice has been so registered and at any time when it continues in force—
+
+[[^F71](a) any person who owns the freehold of the whole or any part of the specified premises or the freehold of any property specified in the notice under section 13(3)(a)(ii) disposes of his interest in those premises or that property,] or
+
+(b) any other relevant landlord disposes of any interest of his specified in the notice under section 13(3)(c)(i),
+
+subsection (3) below shall apply in relation to that disposal.
+
+(3) Where this subsection applies in relation to any such disposal as is mentioned in subsection (2)(a) or (b), all parties shall for the purposes of this Chapter be in the same position as if the person acquiring the interest under the disposal—
+
+(a) had become its owner before the initial notice was given (and was accordingly a relevant landlord in place of the person making the disposal), and
+
+(b) had been given any notice or copy of a notice given under this Chapter to that person, and
+
+(c) had taken all steps which that person had taken;
+
+and, if any subsequent disposal of that interest takes place at any time when the initial notice continues in force, this subsection shall apply in relation to that disposal as if any reference to the person making the disposal included any predecessor in title of his.
+
+(4) Where immediately before the relevant date there is in force a binding contract relating to the disposal to any extent—
+
+[[^F72](a) by any person who owns the freehold of the whole or any part of the specified premises or the freehold of any property specified in the notice under section 13(3)(a)(ii),]
+
+(b) by any other relevant landlord,
+
+of any interest of his falling within subsection (2)(a) or (b), then, so long as the initial notice continues in force, the operation of the contract shall be suspended so far as it relates to any such disposal.
+
+(5) Where—
+
+(a) the operation of a contract has been suspended under subsection (4) (“the suspended contract”), and
+
+(b) a binding contract is entered into in pursuance of the initial notice,
+
+then (without prejudice to the general law as to the frustration of contracts) the person referred to in paragraph (a) or (b) of that subsection shall, together with all other persons, be discharged from the further performance of the suspended contract so far as it relates to any such disposal as is mentioned in subsection (4).
+
+(6) In subsections (4) and (5) any reference to a contract (except in the context of such a contract as is mentioned in subsection (5)(b)) includes a contract made in pursuance of an order of any court; but those subsections do not apply to any contract providing for the eventuality of a notice being given under section 13 in relation to the whole or part of the property in which any such interest as is referred to in subsection (4) subsists.
+
+##### 20 Right of reversioner to require evidence of tenant’s right to participate.
+
+(1) The reversioner in respect of the specified premises may, within the period of 21 days beginning with the relevant date, give the nominee purchaser a notice requiring him, in the case of any person by whom the initial notice was given, to deduce the title of that person to the lease by virtue of which it is claimed that he is a qualifying tenant of a flat contained in the specified premises.
+
+(2) The nominee purchaser shall comply with any such requirement within the period of 21 days beginning with the date of the giving of the notice.
+
+(3) Where—
+
+(a) the nominee purchaser fails to comply with a requirement under subsection (1) in the case of any person within the period mentioned in subsection (2), and
+
+(b) the initial notice would not have been given in accordance with section 13(2)(b) if—
+
+(i) that person, and
+
+(ii) any other person in the case of whom a like failure by the nominee purchaser has occurred,
+
+had been neither included among the persons who gave the notice nor included among the qualifying tenants of the flats referred to in that provision,
+
+the initial notice shall be deemed to have been withdrawn at the end of that period.
+
+##### 21 Reversioner’s counter-notice.
+
+(1) The reversioner in respect of the specified premises shall give a counter-notice under this section to the nominee purchaser by the date specified in the initial notice in pursuance of section 13(3)(g).
+
+(2) The counter-notice must comply with one of the following requirements, namely—
+
+(a) state that the reversioner admits that the participating tenants were on the relevant date entitled to exercise the right to collective enfranchisement in relation to the specified premises;
+
+(b) state that, for such reasons as are specified in the counter-notice, the reversioner does not admit that the participating tenants were so entitled;
+
+(c) contain such a statement as is mentioned in paragraph (a) or (b) above but state that an application for an order under subsection (1) of section 23 is to be made by such appropriate landlord (within the meaning of that section) as is specified in the counter-notice, on the grounds that he intends to redevelop the whole or a substantial part of the specified premises.
+
+(3) If the counter-notice complies with the requirement set out in subsection (2)(a), it must in addition—
+
+(a) state which (if any) of the proposals contained in the initial notice are accepted by the reversioner and which (if any) of those proposals are not so accepted, and specify—
+
+(i) in relation to any proposal which is not so accepted, the reversioner’s counter-proposal, and
+
+(ii) any additional leaseback proposals by the reversioner;
+
+(b) if (in a case where any property specified in the initial notice under section 13(3)(a)(ii) is property falling within section 1(3)(b)) any such counter-proposal relates to the grant of rights or the disposal of any freehold interest in pursuance of section 1(4), specify—
+
+(i) the nature of those rights and the property over which it is proposed to grant them, or
+
+(ii) the property in respect of which it is proposed to dispose of any such interest,
+
+as the case may be;
+
+(c) state which interests (if any) the nominee purchaser is to be required to acquire in accordance with subsection (4) below;
+
+(d) state which rights (if any) [[^F73]any] relevant landlord, desires to retain—
+
+(i) over any property in which he has any interest which is included in the proposed acquisition by the nominee purchaser, or
+
+(ii) over any property in which he has any interest which the nominee purchaser is to be required to acquire in accordance with subsection (4) below,
+
+on the grounds that the rights are necessary for the proper management or maintenance of property in which he is to retain a freehold or leasehold interest; and
+
+(e) include a description of any provisions which the reversioner or any other relevant landlord considers should be included in any conveyance to the nominee purchaser in accordance with section 34 and Schedule 7.
+
+(4) The nominee purchaser may be required to acquire on behalf of the participating tenants the interest in any property of [[^F74]any] relevant landlord, if the property—
+
+(a) would for all practical purposes cease to be of use and benefit to him, or
+
+(b) would cease to be capable of being reasonably managed or maintained by him,
+
+in the event of his interest in the specified premises or (as the case may be) in any other property being acquired by the nominee purchaser under this Chapter.
+
+(5) Where a counter-notice specifies any interest in pursuance of subsection (3)(c), the nominee purchaser or any person authorised to act on his behalf shall, in the case of any part of the property in which that interest subsists, have a right of access thereto for the purpose of enabling the nominee purchaser to obtain, in connection with the proposed acquisition by him, a valuation of that interest; and subsection (3) of section 17 shall apply in relation to the exercise of that right as it applies in relation to the exercise of a right of access conferred by that section.
+
+(6) Every counter-notice must specify an address in England and Wales at which notices may be given to the reversioner under this Chapter.
+
+(7) The reference in subsection (3)(a)(ii) to additional leaseback proposals is a reference to proposals which relate to the leasing back, in accordance with section 36 and Schedule 9, of flats or other units contained in the specified premises and which are made either—
+
+(a) in respect of flats or other units in relation to which Part II of that Schedule is applicable but which were not specified in the initial notice under section 13(3)(c)(ii), or
+
+(b) in respect of flats or other units in relation to which Part III of that Schedule is applicable.
+
+(8) Schedule 4 (which imposes requirements as to the furnishing of information by the reversioner about the exercise of rights under Chapter II with respect to flats contained in the specified premises) shall have effect.
+
+#### Applications to court or [^F75]... tribunal
+
+##### 22 Proceedings relating to validity of initial notice.
+
+(1) Where—
+
+(a) the reversioner in respect of the specified premises has given the nominee purchaser a counter-notice under section 21 which (whether it complies with the requirement set out in subsection (2)(b) or (c) of that section) contains such a statement as is mentioned in subsection (2)(b) of that section, but
+
+(b) the court is satisfied, on an application made by the nominee purchaser, that the participating tenants were on the relevant date entitled to exercise the right to collective enfranchisement in relation to the specified premises,
+
+the court shall by order make a declaration to that effect.
+
+(2) Any application for an order under subsection (1) must be made not later than the end of the period of two months beginning with the date of the giving of the counter-notice to the nominee purchaser.
+
+(3) If on any such application the court makes an order under subsection (1), then (subject to subsection (4)) the court shall make an order—
+
+(a) declaring that the reversioner’s counter-notice shall be of no effect, and
+
+(b) requiring the reversioner to give a further counter-notice to the nominee purchaser by such date as is specified in the order.
+
+(4) Subsection (3) shall not apply if—
+
+(a) the counter-notice complies with the requirement set out in section 21(2)(c), and
+
+(b) either—
+
+(i) an application for an order under section 23(1) is pending, or
+
+(ii) the period specified in section 23(3) as the period for the making of such an application has not expired.
+
+(5) Subsections (3) to (5) of section 21 shall apply to any further counter-notice required to be given by the reversioner under subsection (3) above as if it were a counter-notice under that section complying with the requirement set out in subsection (2)(a) of that section.
+
+(6) If an application by the nominee purchaser for an order under subsection (1) is dismissed by the court, the initial notice shall cease to have effect at the time when the order dismissing the application becomes final.
+
+##### 23 Tenants’ claim liable to be defeated where landlord intends to redevelop.
+
+(1) Where the reversioner in respect of the specified premises has given a counter-notice under section 21 which complies with the requirement set out in subsection (2)(c) of that section, the court may, on the application of any appropriate landlord, by order declare that the right to collective enfranchisement shall not be exercisable in relation to those premises by reason of that landlord’s intention to redevelop the whole or a substantial part of the premises.
+
+(2) The court shall not make an order under subsection (1) unless it is satisfied—
+
+(a) that not less than two-thirds of all the long leases on which flats contained in the specified premises are held are due to terminate within the period of five years beginning with the relevant date; and
+
+(b) that for the purposes of redevelopment the applicant intends, once the leases in question have so terminated—
+
+(i) to demolish or reconstruct, or
+
+(ii) to carry out substantial works of construction on,
+
+the whole or a substantial part of the specified premises; and
+
+(c) that he could not reasonably do so without obtaining possession of the flats demised by those leases.
+
+(3) Any application for an order under subsection (1) must be made within the period of two months beginning with the date of the giving of the counter-notice to the nominee purchaser; but, where the counter-notice is one falling within section 22(1)(a), such an application shall not be proceeded with until such time (if any) as an order under section 22(1) becomes final.
+
+(4) Where an order under subsection (1) is made by the court, the initial notice shall cease to have effect on the order becoming final.
+
+(5) Where an application for an order under subsection (1) is dismissed by the court, the court shall make an order—
+
+(a) declaring that the reversioner’s counter-notice shall be of no effect, and
+
+(b) requiring the reversioner to give a further counter-notice to the nominee purchaser by such date as is specified in the order.
+
+(6) Where—
+
+(a) the reversioner has given such a counter-notice as is mentioned in subsection (1), but
+
+(b) either—
+
+(i) no application for an order under that subsection is made within the period referred to in subsection (3), or
+
+(ii) such an application is so made but is subsequently withdrawn,
+
+then (subject to subsection (8)), the reversioner shall give a further counter-notice to the nominee purchaser within the period of two months beginning with the appropriate date.
+
+(7) In subsection (6) “the appropriate date” means—
+
+(a) if subsection (6)(b)(i) applies, the date immediately following the end of the period referred to in subsection (3); and
+
+(b) if subsection (6)(b)(ii) applies, the date of withdrawal of the application.
+
+(8) Subsection (6) shall not apply if any application has been made by the nominee purchaser under section 22(1).
+
+(9) Subsections (3) to (5) of section 21 shall apply to any further counter-notice required to be given by the reversioner under subsection (5) or (6) above as if it were a counter-notice under that section complying with the requirement set out in subsection (2)(a) of that section.
+
+(10) In this section “appropriate landlord”, in relation to the specified premises, means—
+
+(a) the reversioner or any other relevant landlord; or
+
+(b) any two or more persons falling within paragraph (a) who are acting together.
+
+##### 24 Applications where terms in dispute or failure to enter contract.
+
+(1) Where the reversioner in respect of the specified premises has given the nominee purchaser—
+
+(a) a counter-notice under section 21 complying with the requirement set out in subsection (2)(a) of that section, or
+
+(b) a further counter-notice required by or by virtue of section 22(3) or section 23(5) or (6),
+
+but any of the terms of acquisition remain in dispute at the end of the period of two months beginning with the date on which the counter-notice or further counter-notice was so given, [[^F76]the appropriate tribunal] may, on the application of either the nominee purchaser or the reversioner, determine the matters in dispute.
+
+(2) Any application under subsection (1) must be made not later than the end of the period of six months beginning with the date on which the counter-notice or further counter-notice was given to the nominee purchaser.
+
+(3) Where—
+
+(a) the reversioner has given the nominee purchaser such a counter-notice or further counter-notice as is mentioned in subsection (1)(a) or (b), and
+
+(b) all of the terms of acquisition have been either agreed between the parties or determined by [[^F77]the appropriate tribunal] under subsection (1),
+
+but a binding contract incorporating those terms has not been entered into by the end of the appropriate period specified in subsection (6), the court may, on the application of either the nominee purchaser or the reversioner, make such order under subsection (4) as it thinks fit.
+
+(4) The court may under this subsection make an order—
+
+(a) providing for the interests to be acquired by the nominee purchaser to be vested in him on the terms referred to in subsection (3);
+
+(b) providing for those interests to be vested in him on those terms, but subject to such modifications as—
+
+(i) may have been determined by [[^F78]the appropriate tribunal], on the application of either the nominee purchaser or the reversioner, to be required by reason of any change in circumstances since the time when the terms were agreed or determined as mentioned in that subsection, and
+
+(ii) are specified in the order; or
+
+(c) providing for the initial notice to be deemed to have been withdrawn at the end of the appropriate period specified in subsection (6);
+
+and Schedule 5 shall have effect in relation to any such order as is mentioned in paragraph (a) or (b) above.
+
+(5) Any application for an order under subsection (4) must be made not later than the end of the period of two months beginning immediately after the end of the appropriate period specified in subsection (6).
+
+(6) For the purposes of this section the appropriate period is—
+
+(a) where all of the terms of acquisition have been agreed between the parties, the period of two months beginning with the date when those terms were finally so agreed;
+
+(b) where all or any of those terms have been determined by [[^F79]the appropriate tribunal] under subsection (1)—
+
+(i) the period of two months beginning with the date when the decision of the tribunal under that subsection becomes final, or
+
+(ii) such other period as may have been fixed by the tribunal when making its determination.
+
+(7) In this section “the parties” means the nominee purchaser and the reversioner and any relevant landlord who has given to those persons a notice for the purposes of paragraph 7(1)(a) of Schedule 1.
+
+(8) In this Chapter “the terms of acquisition”, in relation to a claim made under this Chapter, means the terms of the proposed acquisition by the nominee purchaser, whether relating to—
+
+(a) the interests to be acquired,
+
+(b) the extent of the property to which those interests relate or the rights to be granted over any property,
+
+(c) the amounts payable as the purchase price for such interests,
+
+(d) the apportionment of conditions or other matters in connection with the severance of any reversionary interest, or
+
+(e) the provisions to be contained in any conveyance,
+
+or otherwise, and includes any such terms in respect of any interest to be acquired in pursuance of section 1(4) or 21(4).
+
+##### 25 Applications where reversioner fails to give counter-notice or further counter-notice.
+
+(1) Where the initial notice has been given in accordance with section 13 but—
+
+(a) the reversioner has failed to give the nominee purchaser a counter-notice in accordance with section 21(1), or
+
+(b) if required to give the nominee purchaser a further counter-notice by or by virtue of section 22(3) or section 23(5) or (6), the reversioner has failed to comply with that requirement,
+
+the court may, on the application of the nominee purchaser, make an order determining the terms on which he is to acquire, in accordance with the proposals contained in the initial notice, such interests and rights as are specified in it under section 13(3).
+
+(2) The terms determined by the court under subsection (1) shall, if Part II of Schedule 9 is applicable, include terms which provide for the leasing back, in accordance with section 36 and that Part of that Schedule, of flats or other units contained in the specified premises.
+
+(3) The court shall not make any order on an application made by virtue of paragraph (a) of subsection (1) unless it is satisfied—
+
+(a) that the participating tenants were on the relevant date entitled to exercise the right to collective enfranchisement in relation to the specified premises; and
+
+(b) if applicable, that the requirements of Part II of Schedule 3 were complied with as respects the giving of copies of the initial notice.
+
+(4) Any application for an order under subsection (1) must be made not later than the end of the period of six months beginning with the date by which the counter-notice or further counter-notice referred to in that subsection was to be given to the nominee purchaser.
+
+(5) Where—
+
+(a) the terms of acquisition have been determined by an order of the court under subsection (1), but
+
+(b) a binding contract incorporating those terms has not been entered into by the end of the appropriate period specified in subsection (8),
+
+the court may, on the application of either the nominee purchaser or the reversioner, make such order under subsection (6) as it thinks fit.
+
+(6) The court may under this subsection make an order—
+
+(a) providing for the interests to be acquired by the nominee purchaser to be vested in him on the terms referred to in subsection (5);
+
+(b) providing for those interests to be vested in him on those terms, but subject to such modifications as—
+
+(i) may have been determined by [[^F80]the appropriate tribunal], on the application of either the nominee purchaser or the reversioner, to be required by reason of any change in circumstances since the time when the terms were determined as mentioned in that subsection, and
+
+(ii) are specified in the order; or
+
+(c) providing for the initial notice to be deemed to have been withdrawn at the end of the appropriate period specified in subsection (8);
+
+and Schedule 5 shall have effect in relation to any such order as is mentioned in paragraph (a) or (b) above.
+
+(7) Any application for an order under subsection (6) must be made not later than the end of the period of two months beginning immediately after the end of the appropriate period specified in subsection (8).
+
+(8) For the purposes of this section the appropriate period is—
+
+(a) the period of two months beginning with the date when the order of the court under subsection (1) becomes final, or
+
+(b) such other period as may have been fixed by the court when making that order.
+
+##### 26 Applications where relevant landlord cannot be found.
+
+(1) Where not less than two-thirds of the qualifying tenants of flats contained in any premises to which this Chapter applies desire to make a claim to exercise the right to collective enfranchisement in relation to those premises but—
+
+(a) (in a case to which section 9(1) applies) the person who owns the freehold of the premises cannot be found or his identity cannot be ascertained, or
+
+(b) (in a case to which section 9(2) [[^F81]or (2A)] applies) each of the relevant landlords is someone who cannot be found or whose identity cannot be ascertained,
+
+the court may, on the application of the qualifying tenants in question, make a vesting order under this subsection—
+
+(i) with respect to any interests of that person (whether in those premises or in any other property) which are liable to acquisition on behalf of those tenants by virtue of section 1(1) or (2)(a) or section 2(1), or
+
+(ii) with respect to any interests of those landlords which are so liable to acquisition by virtue of any of those provisions,
+
+as the case may be.
+
+(2) Where in a case to which section 9(2) applies—
+
+(a) not less than two-thirds of the qualifying tenants of flats contained in any premises to which this Chapter applies desire to make a claim to exercise the right to collective enfranchisement in relation to those premises, and
+
+(b) paragraph (b) of subsection (1) does not apply, but
+
+(c) a notice of that claim or (as the case may be) a copy of such a notice cannot be given in accordance with section 13 or Part II of Schedule 3 to any person to whom it would otherwise be required to be so given because he cannot be found or his identity cannot be ascertained,
+
+the court may, on the application of the qualifying tenants in question, make an order dispensing with the need to give such a notice or (as the case may be) a copy of such a notice to that person.
+
+(3) If [[^F82], in a case to which section 9(2) applies,] that person is the person who owns the freehold of the premises, then on the application of those tenants, the court may, in connection with an order under subsection (2), make an order appointing any other relevant landlord to be the reversioner in respect of the premises in place of that person; and if it does so references in this Chapter to the reversioner shall apply accordingly.
+
+[^F83][3A Where in a case to which section 9(2A) applies—
+
+(a) not less than two-thirds of the qualifying tenants of flats contained in any premises to which this Chapter applies desire to make a claim to exercise the right to collective enfranchisement in relation to those premises, and
+
+(b) paragraph (b) of subsection (1) does not apply, but
+
+(c) a copy of a notice of that claim cannot be given in accordance with Part II of Schedule 3 to any person to whom it would otherwise be required to be so given because he cannot be found or his identity cannot be ascertained,
+
+the court may, on the application of the qualifying tenants in question, make an order dispensing with the need to give a copy of such a notice to that person.]
+
+(4) The court shall not make an order on any application under subsection (1) [[^F84], (2) or (3A)] unless it is satisfied—
+
+(a) that on the date of the making of the application the premises to which the application relates were premises to which this Chapter applies; and
+
+(b) that on that date the applicants would not have been precluded by any provision of this Chapter from giving a valid notice under section 13 with respect to those premises.
+
+(5) Before making any such order the court may require the applicants to take such further steps by way of advertisement or otherwise as the court thinks proper for the purpose of tracing the person or persons in question; and if, after an application is made for a vesting order under subsection (1) and before any interest is vested in pursuance of the application, the person or (as the case may be) any of the persons referred to in paragraph (a) or (b) of that subsection is traced, then no further proceedings shall be taken with a view to any interest being so vested, but (subject to subsection (6))—
+
+(a) the rights and obligations of all parties shall be determined as if the applicants had, at the date of the application, duly given notice under section 13 of their claim to exercise the right to collective enfranchisement in relation to the premises to which the application relates; and
+
+(b) the court may give such directions as the court thinks fit as to the steps to be taken for giving effect to those rights and obligations, including directions modifying or dispensing with any of the requirements of this Chapter or of regulations made under this Part.
+
+(6) An application for a vesting order under subsection (1) may be withdrawn at any time before execution of a conveyance under section 27(3) and, after it is withdrawn, subsection (5)(a) above shall not apply; but where any step is taken (whether by the applicants or otherwise) for the purpose of giving effect to subsection (5)(a) in the case of any application, the application shall not afterwards be withdrawn except—
+
+(a) with the consent of every person who is the owner of any interest the vesting of which is sought by the applicants, or
+
+(b) by leave of the court,
+
+and the court shall not give leave unless it appears to the court just to do so by reason of matters coming to the knowledge of the applicants in consequence of the tracing of any such person.
+
+(7) Where an order has been made under subsection (2) [[^F85]or (3A)]dispensing with the need to give a notice under section 13, or a copy of such a notice, to a particular person with respect to any particular premises, then if—
+
+(a) a notice is subsequently given under that section with respect to those premises, and
+
+(b) in reliance on the order, the notice or a copy of the notice is not to be given to that person,
+
+the notice must contain a statement of the effect of the order.
+
+(8) Where a notice under section 13 contains such a statement in accordance with subsection (7) above, then in determining for the purposes of any provision of this Chapter whether the requirements of section 13 or Part II of Schedule 3 have been complied with in relation to the notice, those requirements shall be deemed to have been complied with so far as relating to the giving of the notice or a copy of it to the person referred to in subsection (7) above.
+
+(9) Rules of court shall make provision—
+
+(a) for requiring notice of any application under subsection (3) to be served by the persons making the application on any person who the applicants know or have reason to believe is a relevant landlord; and
+
+(b) for enabling persons served with any such notice to be joined as parties to the proceedings.
+
+##### 27 Supplementary provisions relating to vesting orders under section 26(1).
+
+(1) A vesting order under section 26(1) is an order providing for the vesting of any such interests as are referred to in paragraph (i) or (ii) of that provision—
+
+(a) in such person or persons as may be appointed for the purpose by the applicants for the order, and
+
+(b) on such terms as may be determined by [[^F86]the appropriate tribunal] to be appropriate with a view to the interests being vested in that person or those persons in like manner (so far as the circumstances permit) as if the applicants had, at the date of their application, given notice under section 13 of their claim to exercise the right to collective enfranchisement in relation to the premises with respect to which the order is made.
+
+(2) If [[^F87]the appropriate tribunal] so determines in the case of a vesting order under section 26(1), the order shall have effect in relation to interests which are less extensive than those specified in the application on which the order was made.
+
+(3) Where any interests are to be vested in any person or persons by virtue of a vesting order under section 26(1), then on his or their paying into court the appropriate sum in respect of each of those interests there shall be executed by such person as the court may designate a conveyance which—
+
+(a) is in a form approved by [[^F88]the appropriate tribunal], and
+
+(b) contains such provisions as may be so approved for the purpose of giving effect so far as possible to the requirements of section 34 and Schedule 7;
+
+and that conveyance shall be effective to vest in the person or persons to whom the conveyance is made the interests expressed to be conveyed, subject to and in accordance with the terms of the conveyance.
+
+(4) In connection with the determination by [[^F89]the appropriate tribunal] of any question as to the interests to be conveyed by any such conveyance, or as to the rights with or subject to which they are to be conveyed, it shall be assumed (unless the contrary is shown) that any person whose interests are to be conveyed (“the transferor”) has no interest in property other than those interests and, for the purpose of excepting them from the conveyance, any minerals underlying the property in question.
+
+(5) The appropriate sum which in accordance with subsection (3) is to be paid into court in respect of any interest is the aggregate of—
+
+(a) such amount as may be determined by [[^F90]the appropriate tribunal] to be the price which would be payable in respect of that interest in accordance with Schedule 6 if the interest were being acquired in pursuance of such a notice as is mentioned in subsection (1)(b); and
+
+(b) any amounts or estimated amounts determined by such a tribunal as being, at the time of execution of the conveyance, due to the transferor from any tenants of his of premises comprised in the premises in which that interest subsists (whether due under or in respect of their leases or under or in respect of agreements collateral thereto).
+
+(6) Where any interest is vested in any person or persons in accordance with this section, the payment into court of the appropriate sum in respect of that interest shall be taken to have satisfied any claims against the applicants for the vesting order under section 26(1), their personal representatives or assigns in respect of the price payable under this Chapter for the acquisition of that interest.
+
+(7) Where any interest is so vested in any person or persons, section 32(5) shall apply in relation to his or their acquisition of that interest as it applies in relation to the acquisition of any interest by a nominee purchaser.
+
+#### Termination of acquisition procedures
+
+##### 28 Withdrawal from acquisition by participating tenants.
+
+(1) At any time before a binding contract is entered into in pursuance of the initial notice, the participating tenants may withdraw that notice by the giving of a notice to that effect under this section (“a notice of withdrawal”).
+
+(2) A notice of withdrawal must be given—
+
+(a) to the nominee purchaser;
+
+(b) to the reversioner in respect of the specified premises; and
+
+(c) to every other relevant landlord who is known or believed by the participating tenants to have given to the nominee purchaser a notice under paragraph 7(1) or (4) of Schedule 1;
+
+and, if by virtue of paragraph (c) a notice of withdrawal falls to be given to any person falling within that paragraph, it shall state that he is a recipient of the notice.
+
+(3) The nominee purchaser shall, on receiving a notice of withdrawal, give a copy of it to every relevant landlord who—
+
+(a) has given to the nominee purchaser such a notice as is mentioned in subsection (2)(c); and
+
+(b) is not stated in the notice of withdrawal to be a recipient of it.
+
+(4) Where a notice of withdrawal is given by the participating tenants under subsection (1)—
+
+(a) those persons, and
+
+(b) (subject to subsection (5)) every other person who is not a participating tenant for the time being but has at any time been such a tenant,
+
+shall be liable—
+
+(i) to the reversioner, and
+
+(ii) to every other relevant landlord,
+
+for all relevant costs incurred by him in pursuance of the initial notice down to the time when the notice of withdrawal or a copy of it is given to him in accordance with subsection (2) or (3).
+
+(5) A person falling within paragraph (b) of subsection (4) shall not be liable for any costs by virtue of that subsection if—
+
+(a) the lease in respect of which he was a participating tenant has been assigned to another person; and
+
+(b) that other person has become a participating tenant in accordance with section 14(4);
+
+and in paragraph (a) above the reference to an assignment shall be construed in accordance with section 14(10).
+
+(6) Where any liability for costs arises under subsection (4)—
+
+(a) it shall be a joint and several liability of the persons concerned; and
+
+(b) the nominee purchaser shall not be liable for any costs under section 33.
+
+(7) In subsection (4) “relevant costs”, in relation to the reversioner or any other relevant landlord, means costs for which the nominee purchaser would (apart from subsection (6)) be liable to that person under section 33.
+
+##### 29 Deemed withdrawal of initial notice.
+
+(1) Where, in a case falling within paragraph (a) of subsection (1) of section 22—
+
+(a) no application for an order under that subsection is made within the period specified in subsection (2) of that section, or
+
+(b) such an application is so made but is subsequently withdrawn,
+
+the initial notice shall be deemed to have been withdrawn—
+
+(i) (if paragraph (a) above applies) at the end of that period, or
+
+(ii) (if paragraph (b) above applies) on the date of the withdrawal of the application.
+
+(2) Where—
+
+(a) in a case to which subsection (1) of section 24 applies, no application under that subsection is made within the period specified in subsection (2) of that section, or
+
+(b) in a case to which subsection (3) of that section applies, no application for an order under subsection (4) of that section is made within the period specified in subsection (5) of that section,
+
+the initial notice shall be deemed to have been withdrawn at the end of the period referred to in paragraph (a) or (b) above (as the case may be).
+
+(3) Where, in a case falling within paragraph (a) or (b) of subsection (1) of section 25, no application for an order under that subsection is made within the period specified in subsection (4) of that section, the initial notice shall be deemed to have been withdrawn at the end of that period.
+
+(4) Where, in a case to which subsection (5) of section 25 applies, no application for an order under subsection (6) of that section is made within the period specified in subsection (7) of that section, the initial notice shall be deemed to have been withdrawn at the end of that period.
+
+(5) The following provisions, namely—
+
+(a) section 15(10),
+
+(b) section 16(8),
+
+(c) section 20(3),
+
+(d) section 24(4)(c), and
+
+(e) section 25(6)(c),
+
+also make provision for a notice under section 13 to be deemed to have been withdrawn at a particular time.
+
+(6) Where the initial notice is deemed to have been withdrawn at any time by virtue of any provision of this Chapter, subsections (4) and (5) of section 28 shall apply for the purposes of this section in like manner as they apply where a notice of withdrawal is given under that section, but as if the reference in subsection (4) of that section to the time when a notice or copy is given as there mentioned were a reference to the time when the initial notice is so deemed to have been withdrawn.
+
+(7) Where the initial notice is deemed to have been withdrawn by virtue of section 15(10) or 16(8)—
+
+(a) the liability for costs arising by virtue of subsection (6) above shall be a joint and several liability of the persons concerned; and
+
+(b) the nominee purchaser shall not be liable for any costs under section 33.
+
+(8) In the provisions applied by subsection (6), “relevant costs”, in relation to the reversioner or any other relevant landlord, means costs for which the nominee purchaser is, or would (apart from subsection (7)) be, liable to that person under section 33.
+
+##### 30 Effect on initial notice or subsequent contract of institution of compulsory acquisition procedures.
+
+(1) A notice given under section 13 shall be of no effect if on the relevant date—
+
+(a) any acquiring authority has, with a view to the acquisition of the whole or part of the specified premises for any authorised purpose—
+
+(i) served notice to treat on any relevant person, or
+
+(ii) entered into a contract for the purchase of the interest of any such person in the premises or part of them, and
+
+(b) the notice to treat or contract remains in force.
+
+(2) In subsection (1) “relevant person”, in relation to the specified premises, means—
+
+(a) the person who owns the freehold of the premises; [[^F91]or, where the freehold of the whole of the premises is not owned by the same person, any person who owns the freehold of part of them] or
+
+(b) any other person who owns any leasehold interest in the premises which is specified in the initial notice under section 13(3)(c)(i).
+
+(3) A notice given under section 13 shall not specify under subsection (3)(a)(ii) or (c)(i) of that section any property or leasehold interest in property if on the relevant date—
+
+(a) any acquiring authority has, with a view to the acquisition of the whole or part of the property for any authorised purpose—
+
+(i) served notice to treat on the person who owns the freehold of, or any such leasehold interest in, the property, or
+
+(ii) entered into a contract for the purchase of the interest of any such person in the property or part of it, and
+
+(b) the notice to treat or contract remains in force.
+
+(4) A notice given under section 13 shall cease to have effect if, before a binding contract is entered into in pursuance of the notice, any acquiring authority serves, with a view to the acquisition of the whole or part of the specified premises for any authorised purpose, notice to treat as mentioned in subsection (1)(a).
+
+(5) Where any such authority so serves notice to treat at any time after a binding contract is entered into in pursuance of the notice given under section 13 but before completion of the acquisition by the nominee purchaser under this Chapter, then (without prejudice to the general law as to the frustration of contracts) the parties to the contract shall be discharged from the further performance of the contract.
+
+(6) Where subsection (4) or (5) applies in relation to the initial notice or any contract entered into in pursuance of it, then on the occasion of the compulsory acquisition in question the compensation payable in respect of any interest in the specified premises (whether or not the one to which the relevant notice to treat relates) shall be determined on the basis of the value of the interest—
+
+(a) (if subsection (4) applies) subject to and with the benefit of the rights and obligations arising from the initial notice and affecting that interest; or
+
+(b) (if subsection (5) applies) subject to and with the benefit of the rights and obligations arising from the contract and affecting that interest.
+
+(7) In this section—
+
+(a) “acquiring authority”, in relation to the specified premises or any other property, means any person or body of persons who has or have been, or could be, authorised to acquire the whole or part of those premises or that property compulsorily for any purpose; and
+
+(b) “authorised purpose”, in relation to any acquiring authority, means any such purpose.
+
+##### 31 Effect on initial notice of designation for inheritance tax purposes and applications for designation.
+
+(1) A notice given under section 13 shall be of no effect if on the relevant date the whole or any part of—
+
+(a) the specified premises, or
+
+(b) any property specified in the notice under section 13(3)(a)(ii),
+
+is qualifying property.
+
+(2) For the purposes of this section the whole or any part of the specified premises, or of any property specified as mentioned in subsection (1), is qualifying property if—
+
+(a) it has been designated under section 31(1)(b), (c) or (d) of the [^M8]Inheritance Tax Act 1984 (designation and undertakings relating to conditionally exempt transfers), whether with or without any other property, and no chargeable event has subsequently occurred with respect to it; or
+
+(b) an application to the Board for it to be so designated is pending; or
+
+(c) it is the property of a body not established or conducted for profit and a direction has been given in relation to it under section 26 of that Act (gifts for public benefit), whether with or without any other property; or
+
+(d) an application to the Board for a direction to be so given in relation to it is pending.
+
+(3) For the purposes of subsection (2) an application is pending as from the time when it is made to the Board until such time as it is either granted or refused by the Board or withdrawn by the applicant; and for this purpose an application shall not be regarded as made unless and until the applicant has submitted to the Board all such information in support of the application as is required by the Board.
+
+(4) A notice given under section 13 shall cease to have effect if, before a binding contract is entered into in pursuance of the notice, the whole or any part of—
+
+(a) the specified premises, or
+
+(b) any property specified in the notice under section 13(3)(a)(ii),
+
+becomes qualifying property.
+
+(5) Where a notice under section 13 ceases to have effect by virtue of subsection (4) above—
+
+(a) the nominee purchaser shall not be liable for any costs under section 33; and
+
+(b) the person who applied or is applying for designation or a direction shall be liable—
+
+(i) to the qualifying tenants by whom the notice was given for all reasonable costs incurred by them in the preparation and giving of the notice; and
+
+(ii) to the nominee purchaser for all reasonable costs incurred in pursuance of the notice by him or by any other person who has acted as the nominee purchaser.
+
+(6) Where it is claimed that subsection (1) or (4) applies in relation to a notice under section 13, the person making the claim shall, at the time of making it, furnish the nominee purchaser with evidence in support of it; and if he fails to do so he shall be liable for any costs which are reasonably incurred by the nominee purchaser in consequence of the failure.
+
+(7) In subsection (2)—
+
+(a) paragraphs (a) and (b) apply to designation under section 34(1)(a), (b) or (c) of the [^M9]Finance Act 1975 or section 77(1)(b), (c) or (d) of the [^M10]Finance Act 1976 as they apply to designation under section 31(1)(b), (c) or (d) of the [^M11]Inheritance Tax Act 1984; and
+
+(b) paragraphs (c) and (d) apply to a direction under paragraph 13 of Schedule 6 to the Finance Act 1975 as they apply to a direction under section 26 of that Act of 1984.
+
+(8) In this section—
+
+- “the Board” means the Commissioners of Inland Revenue;
+
+- “chargeable event” means—
+
+  - (a) any event which in accordance with any provision of Chapter II of Part II of the [^M12]Inheritance Tax Act 1984 (exempt transfers) is a chargeable event, including any such provision as applied by section 78(3) of that Act (conditionally exempt occasions); or
+  - (b) any event which would have been a chargeable event in the circumstances mentioned in section 79(3) of that Act (exemption from ten-yearly charge).
+
+#### Determination of price and costs of enfranchisement
+
+##### 32 Determination of price.
+
+(1) Schedule 6 to this Act (which relates to the determination of the price payable by the nominee purchaser in respect of each of the freehold and other interests to be acquired by him in pursuance of this Chapter) shall have effect.
+
+(2) The lien of the owner of any such interest (as vendor) on the specified premises, or (as the case may be) on any other property, for the price payable shall extend—
+
+(a) to any amounts which, at the time of the conveyance of that interest, are due to him from any tenants of his of premises comprised in the premises in which that interest subsists (whether due under or in respect of their leases or under or in respect of agreements collateral thereto); and
+
+(b) to any amount payable to him by virtue of section 18(2); and
+
+(c) to any costs payable to him by virtue of section 33.
+
+(3) Subsection (2)(a) does not apply in relation to amounts due to the owner of any such interest from tenants of any premises which are to be comprised in the premises demised by a lease granted in accordance with section 36 and Schedule 9.
+
+(4) In subsection (2) the reference to the specified premises or any other property includes a reference to a part of those premises or that property.
+
+(5) Despite the fact that in accordance with Schedule 6 no payment or only a nominal payment is payable by the nominee purchaser in respect of the acquisition by him of any interest he shall nevertheless be deemed for all purposes to be a purchaser of that interest for a valuable consideration in money or money’s worth.
+
+##### 33 Costs of enfranchisement.
+
+(1) Where a notice is given under section 13, then (subject to the provisions of this section and sections 28(6), 29(7) and 31(5)) the nominee purchaser shall be liable, to the extent that they have been incurred in pursuance of the notice by the reversioner or by any other relevant landlord, for the reasonable costs of and incidental to any of the following matters, namely—
+
+(a) any investigation reasonably undertaken—
+
+(i) of the question whether any interest in the specified premises or other property is liable to acquisition in pursuance of the initial notice, or
+
+(ii) of any other question arising out of that notice;
+
+(b) deducing, evidencing and verifying the title to any such interest;
+
+(c) making out and furnishing such abstracts and copies as the nominee purchaser may require;
+
+(d) any valuation of any interest in the specified premises or other property;
+
+(e) any conveyance of any such interest;
+
+but this subsection shall not apply to any costs if on a sale made voluntarily a stipulation that they were to be borne by the purchaser would be void.
+
+(2) For the purposes of subsection (1) any costs incurred by the reversioner or any other relevant landlord in respect of professional services rendered by any person shall only be regarded as reasonable if and to the extent that costs in respect of such services might reasonably be expected to have been incurred by him if the circumstances had been such that he was personally liable for all such costs.
+
+(3) Where by virtue of any provision of this Chapter the initial notice ceases to have effect at any time, then (subject to subsection (4)) the nominee purchaser’s liability under this section for costs incurred by any person shall be a liability for costs incurred by him down to that time.
+
+(4) The nominee purchaser shall not be liable for any costs under this section if the initial notice ceases to have effect by virtue of section 23(4) or 30(4).
+
+(5) The nominee purchaser shall not be liable under this section for any costs which a party to any proceedings under this Chapter before [[^F92]the appropriate tribunal] incurs in connection with the proceedings.
+
+(6) In this section references to the nominee purchaser include references to any person whose appointment has terminated in accordance with section 15(3) or 16(1); but this section shall have effect in relation to such a person subject to section 15(7).
+
+(7) Where by virtue of this section, or of this section and section 29(6) taken together, two or more persons are liable for any costs, they shall be jointly and severally liable for them.
+
+#### Completion of acquisition
+
+##### 34 Conveyance to nominee purchaser.
+
+(1) Any conveyance executed for the purposes of this Chapter, being a conveyance to the nominee purchaser of the freehold of the specified premises [[^F93], of a part of those premises] or of any other property, shall grant to the nominee purchaser an estate in fee simple absolute in those premises [[^F93], that part of those premises] or that property, subject only to such incumbrances as may have been agreed or determined under this Chapter to be incumbrances subject to which that estate should be granted, having regard to the following provisions of this Chapter.
+
+(2) Any such conveyance shall, where the nominee purchaser is to acquire any leasehold interest in the specified premises [[^F94], the part of the specified premises] or (as the case may be) in the other property to which the conveyance relates, provide for the disposal to the nominee purchaser of any such interest.
+
+(3) Any conveyance executed for the purposes of this Chapter shall have effect under section 2(1) of the [^M13]Law of Property Act 1925 (conveyances overreaching certain equitable interests etc.) to overreach any incumbrance capable of being overreached under section 2(1)—
+
+(a) as if, where the interest conveyed is settled land for the purposes of the [^M14]Settled Land Act 1925, the conveyance were made under the powers of that Act, and
+
+(b) as if the requirements of section 2(1) as to payment of the capital money allowed any part of the purchase price paid or applied in accordance with section 35 below or Schedule 8 to this Act to be so paid or applied.
+
+(4) For the purposes of this section “incumbrances” includes—
+
+(a) rentcharges, and
+
+(b) (subject to subsection (5)) personal liabilities attaching in respect of the ownership of land or an interest in land though not charged on that land or interest.
+
+(5) Burdens originating in tenure, and burdens in respect of the upkeep or regulation for the benefit of any locality of any land, building, structure, works, ways or watercourse shall not be treated as incumbrances for the purposes of this section; but any conveyance executed for the purposes of this Chapter shall be made subject to any such burdens.
+
+(6) A conveyance executed for the purposes of this Chapter shall not be made subject to any incumbrance capable of being overreached by the conveyance, but shall be made subject (where they are not capable of being overreached) to—
+
+(a) rentcharges redeemable under sections 8 to 10 of the [^M15]Rentcharges Act 1977, and
+
+(b) those falling within paragraphs (c) and (d) of section 2(3) of that Act (estate rentcharges and rentcharges imposed under certain enactments),
+
+except as otherwise provided by subsections (7) and (8) below.
+
+(7) Where any land is to be conveyed to the nominee purchaser by a conveyance executed for the purposes of this Chapter, subsection (6) shall not preclude the person who owns the freehold interest in the land from releasing, or procuring the release of, the land from any rentcharge.
+
+(8) The conveyance of any such land (“the relevant land”) may, with the agreement of the nominee purchaser (which shall not be unreasonably withheld), provide in accordance with section 190(1) of the [^M16]Law of Property Act 1925 (charging of rentcharges on land without rent owner’s consent) that a rentcharge—
+
+(a) shall be charged exclusively on other land affected by it in exoneration of the relevant land, or
+
+(b) shall be apportioned between other land affected by it and the relevant land.
+
+(9) Except to the extent that any departure is agreed to by the nominee purchaser and the person whose interest is to be conveyed, any conveyance executed for the purposes of this Chapter shall—
+
+(a) as respects the conveyance of any freehold interest, conform with the provisions of Schedule 7, and
+
+(b) as respects the conveyance of any leasehold interest, conform with the provisions of paragraph 2 of that Schedule (any reference in that paragraph to the freeholder being read as a reference to the person whose leasehold interest is to be conveyed [[^F95], and with the reference to the covenants for title implied under Part I of the Law of Property (Miscellaneous Provisions) Act 1994 being read as excluding the covenant in section 4(1)(b) of that Act (compliance with terms of lease)]).
+
+(10) Any such conveyance shall in addition contain a statement that it is a conveyance executed for the purposes of this Chapter; and any such statement shall comply with such requirements as may be prescribed by [[^F96]land registration rules under the Land Registration Act 2002].
+
+##### 35 Discharge of existing mortgages on transfer to nominee purchaser.
+
+(1) Subject to the provisions of Schedule 8, where any interest is acquired by the nominee purchaser in pursuance of this Chapter, the conveyance by virtue of which it is so acquired shall, as regards any mortgage to which this section applies, be effective by virtue of this section—
+
+(a) to discharge the interest from the mortgage, and from the operation of any order made by a court for the enforcement of the mortgage, and
+
+(b) to extinguish any term of years created for the purposes of the mortgage,
+
+and shall do so without the persons entitled to or interested in the mortgage or in any such order or term of years becoming parties to or executing the conveyance.
+
+(2) Subject to subsections (3) and (4), this section applies to any mortgage of the interest so acquired (however created or arising) which—
+
+(a) is a mortgage to secure the payment of money or the performance of any other obligation by the person from whom the interest is so acquired or any other person; and
+
+(b) is not a mortgage which would be overreached apart from this section.
+
+(3) This section shall not apply to any such mortgage if it has been agreed between the nominee purchaser and the reversioner or (as the case may be) any other relevant landlord that the interest in question should be acquired subject to the mortgage.
+
+(4) In this section and Schedule 8 “mortgage” includes a charge or lien; but neither this section nor that Schedule applies to a rentcharge.
+
+##### 36 Nominee purchaser required to grant leases back to former freeholder in certain circumstances.
+
+(1) In connection with the acquisition by him of [[^F97]a freehold interest in] the specified premises, the nominee purchaser shall grant to the person from whom the [[^F97]interest] is acquired such leases of flats or other units contained in those premises as are required to be so granted by virtue of Part II or III of Schedule 9.
+
+(2) Any such lease shall be granted so as to take effect immediately after the acquisition by the nominee purchaser of the freehold [[^F98]interest concerned].
+
+(3) Where any flat or other unit demised under any such lease (“the relevant lease”) is at the time of that acquisition subject to any existing lease, the relevant lease shall take effect as a lease of the freehold reversion in respect of the flat or other unit.
+
+(4) Part IV of Schedule 9 has effect with respect to the terms of a lease granted in pursuance of Part II or III of that Schedule.
+
+##### 37 Acquisition of interests from local authorities etc.
+
+Schedule 10 to this Act (which makes provision with respect to the acquisition of interests from local authorities etc. in pursuance of this Chapter) shall have effect.
+
+#### [[^F99] Landlord’s right to compensation in relation to ineffective claims]
+
+##### [[^F100]37A Compensation for postponement of termination in connection with ineffective claims.
+
+(1) This section applies where a claim to exercise the right to collective enfranchisement in respect of any premises is made on or after 15th January 1999 by tenants of flats contained in the premises and the claim is not effective.
+
+(2) A person who is a participating tenant immediately before the claim ceases to have effect shall be liable to pay compensation if—
+
+(a) the claim was not made at least two years before the term date of the lease by virtue of which he is a qualifying tenant (“the existing lease”), and
+
+(b) any of the conditions mentioned in subsection (3) is met.
+
+(3) The conditions referred to above are—
+
+(a) that the making of the claim caused a notice served under paragraph 4(1) of Schedule 10 to the Local Government and Housing Act 1989 in respect of the existing lease to cease to have effect and the date on which the claim ceases to have effect is later than four months before the termination date specified in the notice,
+
+(b) that the making of the claim prevented the service of an effective notice under paragraph 4(1) of Schedule 10 to the Local Government and Housing Act 1989 in respect of the existing lease (but did not cause a notice served under that provision in respect of that lease to cease to have effect) and the date on which the claim ceases to have effect is a date later than six months before the term date of the existing lease, and
+
+(c) that the existing lease has been continued under paragraph 6(1) of Schedule 3 by virtue of the claim.
+
+(4) Compensation under subsection (2) shall become payable at the end of the appropriate period and be the right of the person who is the tenant’s immediate landlord at that time.
+
+(5) The amount which a tenant is liable to pay under subsection (2) shall be equal to the difference between—
+
+(a) the rent for the appropriate period under the existing lease, and
+
+(b) the rent which might reasonably be expected to be payable for that period were the property to which the existing lease relates let for a term equivalent to that period on the open market by a willing landlord on the following assumptions—
+
+(i) that no premium is payable in connection with the letting,
+
+(ii) that the letting confers no security of tenure, and
+
+(iii) that, except as otherwise provided by this paragraph, the letting is on the same terms as the existing lease.
+
+(6) For the purposes of subsections (4) and (5), the appropriate period is—
+
+(a) in a case falling within paragraph (a) of subsection (3), the period—
+
+(i) beginning with the termination date specified in the notice mentioned in that paragraph, and
+
+(ii) ending with the earliest date of termination which could have been specified in a notice under paragraph 4(1) of Schedule 10 to the [^M17]Local Government and Housing Act 1989 in respect of the existing lease served immediately after the date on which the claim ceases to have effect, or, if the existing lease is terminated before then, with the date of its termination;
+
+(b) in a case falling within paragraph (b) of subsection (3), the period—
+
+(i) beginning with the later of six months from the date on which the claim is made and the term date of the existing lease, and
+
+(ii) ending six months after the date on which the claim ceases to have effect, or, if the existing lease is terminated before then, with the date of its termination; and
+
+(c) in a case falling within paragraph (c) of subsection (3), the period for which the existing lease is continued under paragraph 6(1) of Schedule 3.
+
+(7) In the case of a person who becomes a participating tenant by virtue of an election under section 14(3), the references in subsections (3)(a) and (b) and (6)(b)(i) to the making of the claim shall be construed as references to the making of the election.
+
+(8) For the purposes of this section—
+
+(a) references to a claim to exercise the right to collective enfranchisement shall be taken as references to a notice given, or purporting to be given (whether by persons who are qualifying tenants or not), under section 13,
+
+(b) references to the date on which a claim ceases to have effect shall, in the case of a claim made by a notice which is not a valid notice under section 13, be taken as references to the date on which the notice is set aside by the court or is withdrawn or would, if valid, cease to have effect or be deemed to have been withdrawn, that date being taken, where the notice is set aside, or would, if valid, cease to have effect, in consequence of a court order, to be the date when the order becomes final, and
+
+(c) a claim to exercise the right to collective enfranchisement is not effective if it ceases to have effect for any reason other than—
+
+(i) the application of section 23(4), 30(4) or 31(4),
+
+(ii) the entry into a binding contract for the acquisition of the freehold and other interests falling to be acquired in pursuance of the claim, or
+
+(iii) the making of an order under section 24(4)(a) or (b) or 25(6)(a) or (b) which provides for the vesting of those interests.]
+
+##### [[^F101]37B Modification of section 37A where change in immediate reversion.
+
+(1) Where a tenant’s liability to pay compensation under section 37A relates to a period during which there has been a change in the interest immediately expectant on the determination of his lease, that section shall have effect with the following modifications.
+
+(2) For subsections (4) and (5) there shall be substituted—
+
+“ Compensation under subsection (2) shall become payable at the end of the appropriate period and there shall be a separate right to compensation in respect of each of the interests which, during that period, have been immediately expectant on the determination of the existing lease.
+
+(5) Compensation under subsection (2) above shall—
+
+(a) in the case of the interest which is immediately expectant on the determination of the existing lease at the end of the appropriate period, be the right of the person in whom that interest is vested at that time, and
+
+(b) in the case of an interest which ceases during the appropriate period to be immediately expectant on the determination of the existing lease, be the right of the person in whom the interest was vested immediately before it ceased to be so expectant.
+
+(5A) The amount which the tenant is liable to pay under subsection (2) above in respect of any interest shall be equal to the difference between—
+
+(a) the rent under the existing lease for the part of the appropriate period during which the interest was immediately expectant on the determination of that lease, and
+
+(b) the rent which might reasonably be expected to be payable for that part of that period were the property to which the existing lease relates let for a term equivalent to that part of that period on the open market by a willing landlord on the following assumptions—
+
+(i) that no premium is payable in connection with the letting,
+
+(ii) that the letting confers no security of tenure, and
+
+(iii) that, except as otherwise provided by this paragraph, the letting is on the same terms as the existing lease.”
+
+(3) In subsection (6), for “(4) and (5)” there shall be substituted “(4) to (5A)”.]
+
+#### Supplemental
+
+##### 38 Interpretation of Chapter I.
+
+(1) In this Chapter (unless the context otherwise requires)—
+
+- [[^F102]“appropriate tribunal” means—
+
+  - in relation to premises in England, the First-tier Tribunal or, where determined by or under Tribunal Procedure Rules, the Upper Tribunal; and
+  - in relation to premises in Wales, a leasehold valuation tribunal.]
+
+- “conveyance” includes assignment, transfer and surrender, and related expressions shall be construed accordingly;
+
+- “the initial notice” means the notice given under section 13;
+
+- [[^F103]“introductory standard contract” has the same meaning given by section 16 of the Renting Homes (Wales) Act 2016 (anaw 1);]
+
+- [[^F104]“introductory tenancy” has the same meaning as in Chapter 1 of Part V of the Housing Act 1996,]
+
+- “the nominee purchaser” shall be construed in accordance with section 15;
+
+- “the participating tenants” shall be construed in accordance with section 14;
+
+- “premises with a resident landlord” shall be construed in accordance with section 10;
+
+- “public sector landlord” means any of the persons listed in section 171(2) of the [^M18]Housing Act 1985;
+
+- “qualifying tenant” shall be construed in accordance with section 5;
+
+- “the relevant date” has the meaning given by section 1(8);
+
+- “relevant landlord” and “the reversioner” shall be construed in accordance with section 9;
+
+- “the right to collective enfranchisement” means the right specified in section 1(1);
+
+- [[^F103]“secure contract” has the same meaning given by section 8 of the Renting Homes (Wales) Act 2016;]
+
+- “secure tenancy” has the meaning given by section 79 of the Housing Act 1985;
+
+- “the specified premises” shall be construed in accordance with section 13(12);
+
+- “the terms of acquisition” has the meaning given by section 24(8);
+
+- “unit” means—
+
+  - (a) a flat;
+  - (b) any other separate set of premises which is constructed or adapted for use for the purposes of a dwelling; or
+  - (c) a separate set of premises let, or intended for letting, on a business lease.
+
+(2) Any reference in this Chapter (however expressed) to the acquisition or proposed acquisition by the nominee purchaser is a reference to the acquisition or proposed acquisition by the nominee purchaser, on behalf of the participating tenants, of such freehold and other interests as fall to be so acquired under a contract entered into in pursuance of the initial notice.
+
+(3) Any reference in this Chapter to the interest of a relevant landlord in the specified premises is a reference to the interest in those premises by virtue of which he is, in accordance with section 9(2)(b) [[^F105]or (2A)(b)], a relevant landlord.
+
+(4) Any reference in this Chapter to agreement in relation to all or any of the terms of acquisition is a reference to agreement subject to contract.
+
+### Chapter II — INDIVIDUAL RIGHT OF TENANT OF FLAT TO ACQUIRE NEW LEASE
+
+#### Preliminary
+
+##### 39 Right of qualifying tenant of flat to acquire new lease.
+
+(1) This Chapter has effect for the purpose of conferring on a [[^F106]qualifying] tenant of a flat [^F107]... the right, exercisable subject to and in accordance with this Chapter, to acquire a new lease of the flat on payment of a premium determined in accordance with this Chapter.
+
+[^F108]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F109]2A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F110]2B . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) The following provisions, namely—
+
+(a) section 5 (with the omission of subsections (5) and (6)),
+
+(b) section 7, [^F111]. . .
+
+[^F112]c . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F112]d . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+shall apply for the purposes of this Chapter as they apply for the purposes of Chapter I; and references in this Chapter to a qualifying tenant of a flat shall accordingly be construed by reference to those provisions.
+
+[^F113]3A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) For the purposes of this Chapter a person can be (or be among those constituting) the qualifying tenant of each of two or more flats at the same time, whether he is tenant of those flats under one lease or under two or more separate leases.
+
+[^F114]4A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F115]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F116]6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7) The right conferred by this Chapter on a tenant to acquire a new lease shall not extend to underlying minerals comprised in his existing lease if—
+
+(a) the landlord requires the minerals to be excepted, and
+
+(b) proper provision is made for the support of the premises demised by that existing lease as they are enjoyed on the relevant date.
+
+(8) In this Chapter “the relevant date”, in relation to a claim by a tenant under this Chapter, means the date on which notice of the claim is given to the landlord under section 42.
+
+##### 40 The landlord for the purposes of this Chapter.
+
+(1) In this Chapter “the landlord”, in relation to the lease held by a qualifying tenant of a flat, means the person who is the owner of that interest in the flat which for the time being fulfils the following conditions, namely—
+
+(a) it is an interest in reversion expectant (whether immediately or not) on the termination of the tenant’s lease, and
+
+(b) it is either a freehold interest or a leasehold interest whose duration is such as to enable that person to grant a new lease of that flat in accordance with this Chapter,
+
+and is not itself expectant (whether immediately or not) on an interest which fulfils those conditions.
+
+(2) Where in accordance with subsection (1) the immediate landlord under the lease of a qualifying tenant of a flat is not the landlord in relation to that lease for the purposes of this Chapter, the person who for those purposes is the landlord in relation to it shall conduct on behalf of all the other landlords all proceedings arising out of any notice given by the tenant with respect to the flat under section 42 (whether the proceedings are for resisting or giving effect to the claim in question).
+
+(3) Subsection (2) has effect subject to the provisions of Schedule 11 to this Act (which makes provision in relation to the operation of this Chapter in cases to which that subsection applies).
+
+(4) In this section and that Schedule—
+
+(a) “the tenant” means any such qualifying tenant as is referred to in subsection (2) and “the tenant’s lease” means the lease by virtue of which he is a qualifying tenant;
+
+(b) “the competent landlord” means the person who, in relation to the tenant’s lease, is the landlord (as defined by subsection (1)) for the purposes of this Chapter;
+
+(c) “other landlord” means any person (other than the tenant or a trustee for him) in whom there is vested a concurrent tenancy intermediate between the interest of the competent landlord and the tenant’s lease.
+
+(5) Schedule 2 (which makes provision with respect to certain special categories of landlords) has effect for the purposes of this Chapter.
+
+#### Preliminary inquiries by qualifying tenant
+
+##### 41 Right of qualifying tenant to obtain information about superior interests etc.
+
+(1) A qualifying tenant of a flat may give—
+
+(a) to his immediate landlord, or
+
+(b) to any person receiving rent on behalf of his immediate landlord,
+
+a notice requiring the recipient to state whether the immediate landlord is the owner of the freehold interest in the flat and, if not, to give the tenant such information as is mentioned in subsection (2) (so far as known to the recipient).
+
+(2) That information is—
+
+(a) the name and address of the person who owns the freehold interest in the flat;
+
+(b) the duration of the leasehold interest in the flat of the tenant’s immediate landlord and the extent of the premises in which it subsists; and
+
+(c) the name and address of every person who has a leasehold interest in the flat which is superior to that of the tenant’s immediate landlord, the duration of any such interest and the extent of the premises in which it subsists.
+
+(3) If the immediate landlord of any such qualifying tenant is not the owner of the freehold interest in the flat, the tenant may also—
+
+(a) give to the person who is the owner of that interest a notice requiring him to give the tenant such information as is mentioned in paragraph (c) of subsection (2) (so far as known to that person);
+
+(b) give to any person falling within that paragraph a notice requiring him to give the tenant—
+
+(i) particulars of the duration of his leasehold interest in the flat and the extent of the premises in which it subsists, and
+
+(ii) (so far as known to him) such information as is mentioned in paragraph (a) of that subsection and, as regards any other person falling within paragraph (c) of that subsection, such information as is mentioned in that paragraph.
+
+(4) Any notice given by a qualifying tenant under this section shall, in addition to any other requirement imposed in accordance with subsections (1) to (3), require the recipient to state—
+
+(a) whether he has received in respect of any premises containing the tenant’s flat—
+
+(i) a notice under section 13 in the case of which the relevant claim under Chapter I is still current, or
+
+(ii) a copy of such a notice; and
+
+(b) if so, the date on which the notice under section 13 was given and the name and address of the nominee purchaser for the time being appointed for the purposes of section 15 in relation to that claim.
+
+(5) For the purposes of subsection (4)—
+
+(a) “the relevant claim under Chapter I”, in relation to a notice under section 13, means the claim in respect of which that notice is given; and
+
+(b) any such claim is current if—
+
+(i) that notice continues in force in accordance with section 13(11), or
+
+(ii) a binding contract entered into in pursuance of that notice remains in force, or
+
+(iii) where an order has been made under section 24(4)(a) or (b) or 25(6)(a) or (b) with respect to any such premises as are referred to in subsection (4)(a) above, any interests which by virtue of the order fall to be vested in the nominee purchaser for the purposes of Chapter I have yet to be so vested.
+
+(6) Any person who is required to give any information by virtue of a notice under this section shall give that information to the qualifying tenant within the period of 28 days beginning with the date of the giving of the notice.
+
+#### The tenant’s notice
+
+##### 42 Notice by qualifying tenant of claim to exercise right.
+
+(1) A claim by a qualifying tenant of a flat to exercise the right to acquire a new lease of the flat is made by the giving of notice of the claim under this section.
+
+(2) A notice given by a tenant under this section (“the tenant’s notice”) must be given—
+
+(a) to the landlord, and
+
+(b) to any third party to the tenant’s lease.
+
+(3) The tenant’s notice must—
+
+(a) state the full name of the tenant and the address of the flat in respect of which he claims a new lease under this Chapter;
+
+(b) contain the following particulars, namely—
+
+(i) sufficient particulars of that flat to identify the property to which the claim extends,
+
+(ii) such particulars of the tenant’s lease as are sufficient to identify it, including the date on which the lease was entered into, the term for which it was granted and the date of the commencement of the term,
+
+[^F117]iii . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F118]iv . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(c) specify the premium which the tenant proposes to pay in respect of the grant of a new lease under this Chapter and, where any other amount will be payable by him in accordance with any provision of Schedule 13, the amount which he proposes to pay in accordance with that provision;
+
+(d) specify the terms which the tenant proposes should be contained in any such lease;
+
+(e) state the name of the person (if any) appointed by the tenant to act for him in connection with his claim, and an address in England and Wales at which notices may be given to any such person under this Chapter; and
+
+(f) specify the date by which the landlord must respond to the notice by giving a counter-notice under section 45.
+
+[^F119]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F120]4A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) The date specified in the tenant’s notice in pursuance of subsection (3)(f) must be a date falling not less than two months after the date of the giving of the notice.
+
+(6) Where a notice under this section has been given with respect to any flat, no subsequent notice may be given under this section with respect to the flat so long as the earlier notice continues in force.
+
+(7) Where a notice under this section has been given with respect to a flat and—
+
+(a) that notice has been withdrawn, or is deemed to have been withdrawn, under or by virtue of any provision of this Chapter, or
+
+(b) in response to that notice, an order has been applied for and obtained under section 47(1),
+
+no subsequent notice may be given under this section with respect to the flat within the period of twelve months beginning with the date of the withdrawal or deemed withdrawal of the earlier notice or with the time when the order under section 47(1) becomes final (as the case may be).
+
+(8) Where a notice is given in accordance with this section, then for the purposes of this Chapter the notice continues in force as from the relevant date—
+
+(a) until a new lease is granted in pursuance of the notice;
+
+(b) if the notice is withdrawn, or is deemed to have been withdrawn, under or by virtue of any provision of this Chapter, until the date of the withdrawal or deemed withdrawal; or
+
+(c) until such other time as the notice ceases to have effect by virtue of any provision of this Chapter;
+
+but this subsection has effect subject to section 54.
+
+(9) Schedule 12 (which contains restrictions on terminating a tenant’s lease where he has given a notice under this section and makes other provision in connection with the giving of notices under this section) shall have effect.
+
+##### 43 General provisions as respects effect of tenant’s notice.
+
+(1) Where a notice has been given under section 42 with respect to any flat, the rights and obligations of the landlord and the tenant arising from the notice shall enure for the benefit of and be enforceable against them, their personal representatives and assigns to the like extent (but no further) as rights and obligations arising under a contract for leasing freely entered into between the landlord and the tenant.
+
+(2) Accordingly, in relation to matters arising out of any such notice, references in this Chapter to the landlord and the tenant shall, in so far as the context permits, include their respective personal representatives and assigns.
+
+(3) Notwithstanding anything in subsection (1), the rights and obligations of the tenant shall be assignable with, but shall not be capable of subsisting apart from, the lease of the entire flat; and, if the tenant’s lease is assigned without the benefit of the notice, the notice shall accordingly be deemed to have been withdrawn by the tenant as at the date of the assignment.
+
+(4) In the event of any default by the landlord or the tenant in carrying out the obligations arising from the tenant’s notice, the other of them shall have the like rights and remedies as in the case of a contract freely entered into.
+
+(5) In a case to which section 40(2) applies, the rights and obligations of the landlord arising out of the tenant’s notice shall, so far as their interests are affected, be rights and obligations respectively of the competent landlord and of each of the other landlords, and references to the landlord in subsections (1) and (2) above shall apply accordingly.
+
+(6) In subsection (5) “competent landlord” and “other landlord” have the meaning given by section 40(4); and subsection (5) has effect without prejudice to the operation of section 40(2) or Schedule 11.
+
+#### Procedure following giving of tenant’s notice
+
+##### 44 Access by landlords for valuation purposes.
+
+(1) Once the tenant’s notice or a copy of it has been given in accordance with section 42 or Part I of Schedule 11—
+
+(a) to the landlord for the purposes of this Chapter, or
+
+(b) to any other landlord (as defined by section 40(4)),
+
+that landlord and any person authorised to act on his behalf shall have a right of access to the flat to which the notice relates for the purpose of enabling that landlord to obtain, in connection with the notice, a valuation of his interest in the flat.
+
+(2) That right shall be exercisable at any reasonable time and on giving not less than 3 days’ notice to the tenant.
+
+##### 45 Landlord’s counter-notice.
+
+(1) The landlord shall give a counter-notice under this section to the tenant by the date specified in the tenant’s notice in pursuance of section 42(3)(f).
+
+(2) The counter-notice must comply with one of the following requirements—
+
+(a) state that the landlord admits that the tenant had on the relevant date the right to acquire a new lease of his flat;
+
+(b) state that, for such reasons as are specified in the counter-notice, the landlord does not admit that the tenant had such a right on that date;
+
+(c) contain such a statement as is mentioned in paragraph (a) or (b) above but state that the landlord intends to make an application for an order under section 47(1) on the grounds that he intends to redevelop any premises in which the flat is contained.
+
+(3) If the counter-notice complies with the requirement set out in subsection (2)(a), it must in addition—
+
+(a) state which (if any) of the proposals contained in the tenant’s notice are accepted by the landlord and which (if any) of those proposals are not so accepted; and
+
+(b) specify, in relation to each proposal which is not accepted, the landlord’s counter-proposal.
+
+(4) The counter-notice must specify an address in England and Wales at which notices may be given to the landlord under this Chapter.
+
+(5) Where the counter-notice admits the tenant’s right to acquire a new lease of his flat, the admission shall be binding on the landlord as to the matters mentioned in section 39(2)(a) [^F121]. . . , unless the landlord shows that he was induced to make the admission by misrepresentation or the concealment of material facts; but the admission shall not conclude any question whether the particulars of the flat stated in the tenant’s notice in pursuance of section 42(3)(b)(i) are correct.
+
+#### Applications to court or [^F122]... tribunal
+
+##### 46 Proceedings relating to validity of tenant’s notice.
+
+(1) Where—
+
+(a) the landlord has given the tenant a counter-notice under section 45 which (whether it complies with the requirement set out in subsection (2)(b) or (c) of that section) contains such a statement as is mentioned in subsection (2)(b) of that section, and
+
+(b) the court is satisfied, on an application made by the landlord, that on the relevant date the tenant had no right under this Chapter to acquire a new lease of his flat,
+
+the court shall by order make a declaration to that effect.
+
+(2) Any application for an order under subsection (1) must be made not later than the end of the period of two months beginning with the date of the giving of the counter-notice to the tenant; and if, in a case falling within paragraph (a) of that subsection, either—
+
+(a) no application for such an order is made by the landlord within that period, or
+
+(b) such an application is so made but is subsequently withdrawn,
+
+section 49 shall apply as if the landlord had not given the counter-notice.
+
+(3) If on any such application the court makes such a declaration as is mentioned in subsection (1), the tenant’s notice shall cease to have effect on the order becoming final.
+
+(4) If, however, any such application is dismissed by the court, then (subject to subsection (5)) the court shall make an order—
+
+(a) declaring that the landlord’s counter-notice shall be of no effect, and
+
+(b) requiring the landlord to give a further counter-notice to the tenant by such date as is specified in the order.
+
+(5) Subsection (4) shall not apply if—
+
+(a) the counter-notice complies with the requirement set out in section 45(2)(c), and
+
+(b) either—
+
+(i) an application for an order under section 47(1) is pending, or
+
+(ii) the period specified in section 47(3) as the period for the making of such an application has not expired.
+
+(6) Subsection (3) of section 45 shall apply to any further counter-notice required to be given by the landlord under subsection (4) above as if it were a counter-notice under that section complying with the requirement set out in subsection (2)(a) of that section.
+
+##### 47 Application to defeat tenant’s claim where landlord intends to redevelop.
+
+(1) Where the landlord has given the tenant a counter-notice under section 45 which complies with the requirement set out in subsection (2)(c) of that section, the court may, on the application of the landlord, by order declare that the right to acquire a new lease shall not be exercisable by the tenant by reason of the landlord’s intention to redevelop any premises in which the tenant’s flat is contained; and on such an order becoming final the tenant’s notice shall cease to have effect.
+
+(2) The court shall not make an order under subsection (1) unless it is satisfied—
+
+(a) that the tenant’s lease of his flat is due to terminate within the period of five years beginning with the relevant date; and
+
+(b) that for the purposes of redevelopment the landlord intends, once the lease has so terminated—
+
+(i) to demolish or reconstruct, or
+
+(ii) to carry out substantial works of construction on,
+
+the whole or a substantial part of any premises in which the flat is contained; and
+
+(c) that he could not reasonably do so without obtaining possession of the flat.
+
+(3) Any application for an order under subsection (1) must be made within the period of two months beginning with the date of the giving of the counter-notice to the tenant; but, where the counter-notice is one falling within section 46(1)(a), such an application shall not be proceeded with until such time (if any) as any order dismissing an application under section 46(1) becomes final.
+
+(4) Where an application for an order under subsection (1) is dismissed by the court, the court shall make an order—
+
+(a) declaring that the landlord’s counter-notice shall be of no effect, and
+
+(b) requiring the landlord to give a further counter-notice to the tenant by such date as is specified in the order.
+
+(5) Where—
+
+(a) the landlord has given such a counter-notice as is mentioned in subsection (1), but
+
+(b) either—
+
+(i) no application for an order under that subsection is made within the period referred to in subsection (3), or
+
+(ii) such an application is so made but is subsequently withdrawn,
+
+then (subject to subsection (7)), the landlord shall give a further counter-notice to the tenant within the period of two months beginning with the appropriate date.
+
+(6) In subsection (5) “the appropriate date” means—
+
+(a) if subsection (5)(b)(i) applies, the date immediately following the end of the period referred to in subsection (3); and
+
+(b) if subsection (5)(b)(ii) applies, the date of withdrawal of the application.
+
+(7) Subsection (5) shall not apply if any application has been made by the landlord for an order under section 46(1).
+
+(8) Subsection (3) of section 45 shall apply to any further counter-notice required to be given by the landlord under subsection (4) or (5) above as if it were a counter-notice under that section complying with the requirement set out in subsection (2)(a) of that section.
+
+##### 48 Applications where terms in dispute or failure to enter into new lease.
+
+(1) Where the landlord has given the tenant—
+
+(a) a counter-notice under section 45 which complies with the requirement set out in subsection (2)(a) of that section, or
+
+(b) a further counter-notice required by or by virtue of section 46(4) or section 47(4) or (5),
+
+but any of the terms of acquisition remain in dispute at the end of the period of two months beginning with the date when the counter-notice or further counter-notice was so given, [[^F123]the appropriate tribunal] may, on the application of either the tenant or the landlord, determine the matters in dispute.
+
+(2) Any application under subsection (1) must be made not later than the end of the period of six months beginning with the date on which the counter-notice or further counter-notice was given to the tenant.
+
+(3) Where—
+
+(a) the landlord has given the tenant such a counter-notice or further counter-notice as is mentioned in subsection (1)(a) or (b), and
+
+(b) all the terms of acquisition have been either agreed between those persons or determined by [[^F124]the appropriate tribunal] under subsection (1),
+
+but a new lease has not been entered into in pursuance of the tenant’s notice by the end of the appropriate period specified in subsection (6), the court may, on the application of either the tenant or the landlord, make such order as it thinks fit with respect to the performance or discharge of any obligations arising out of that notice.
+
+(4) Any such order may provide for the tenant’s notice to be deemed to have been withdrawn at the end of the appropriate period specified in subsection (6).
+
+(5) Any application for an order under subsection (3) must be made not later than the end of the period of two months beginning immediately after the end of the appropriate period specified in subsection (6).
+
+(6) For the purposes of this section the appropriate period is—
+
+(a) where all of the terms of acquisition have been agreed between the tenant and the landlord, the period of two months beginning with the date when those terms were finally so agreed; or
+
+(b) where all or any of those terms have been determined by [[^F125]the appropriate tribunal] under subsection (1)—
+
+(i) the period of two months beginning with the date when the decision of the tribunal under subsection (1) becomes final, or
+
+(ii) such other period as may have been fixed by the tribunal when making its determination.
+
+(7) In this Chapter “the terms of acquisition”, in relation to a claim by a tenant under this Chapter, means the terms on which the tenant is to acquire a new lease of his flat, whether they relate to the terms to be contained in the lease or to the premium or any other amount payable by virtue of Schedule 13 in connection with the grant of the lease, or otherwise.
+
+##### 49 Applications where landlord fails to give counter-notice or further counter-notice.
+
+(1) Where the tenant’s notice has been given in accordance with section 42 but—
+
+(a) the landlord has failed to give the tenant a counter-notice in accordance with section 45(1), or
+
+(b) if required to give a further counter-notice to the tenant by or by virtue of section 46(4) or section 47(4) or (5), the landlord has failed to comply with that requirement,
+
+the court may, on the application of the tenant, make an order determining, in accordance with the proposals contained in the tenant’s notice, the terms of acquisition.
+
+(2) The court shall not make such an order on an application made by virtue of paragraph (a) of subsection (1) unless it is satisfied—
+
+(a) that on the relevant date the tenant had the right to acquire a new lease of his flat; and
+
+(b) if applicable, that the requirements of Part I of Schedule 11 were complied with as respects the giving of copies of the tenant’s notice.
+
+(3) Any application for an order under subsection (1) must be made not later than the end of the period of six months beginning with the date by which the counter-notice or further counter-notice referred to in that subsection was required to be given.
+
+(4) Where—
+
+(a) the terms of acquisition have been determined by an order of the court under this section, but
+
+(b) a new lease has not been entered into in pursuance of the tenant’s notice by the end of the appropriate period specified in subsection (7),
+
+the court may, on the application of either the tenant or the landlord, make such order as it thinks fit with respect to the performance or discharge of any obligations arising out of that notice.
+
+(5) Any such order may provide for the tenant’s notice to be deemed to have been withdrawn at the end of the appropriate period specified in subsection (7).
+
+(6) Any application for an order under subsection (4) must be made not later than the end of the period of two months beginning immediately after the end of the appropriate period specified in subsection (7).
+
+(7) For the purposes of this section the appropriate period is—
+
+(a) the period of two months beginning with the date when the order of the court under subsection (1) becomes final, or
+
+(b) such other period as may have been fixed by the court when making that order.
+
+##### 50 Applications where landlord cannot be found.
+
+(1) Where—
+
+(a) a qualifying tenant of a flat desires to make a claim to exercise the right to acquire a new lease of his flat, but
+
+(b) the landlord cannot be found or his identity cannot be ascertained,
+
+the court may, on the application of the tenant, make a vesting order under this subsection.
+
+(2) Where—
+
+(a) a qualifying tenant of a flat desires to make such a claim as is mentioned in subsection (1), and
+
+(b) paragraph (b) of that subsection does not apply, but
+
+(c) a copy of a notice of that claim cannot be given in accordance with Part I of Schedule 11 to any person to whom it would otherwise be required to be so given because that person cannot be found or his identity cannot be ascertained,
+
+the court may, on the application of the tenant, make an order dispensing with the need to give a copy of such a notice to that person.
+
+(3) The court shall not make an order on any application under subsection (1) or (2) unless it is satisfied—
+
+(a) that on the date of the making of the application the tenant had the right to acquire a new lease of his flat; and
+
+(b) that on that date he would not have been precluded by any provision of this Chapter from giving a valid notice under section 42 with respect to his flat.
+
+(4) Before making any such order the court may require the tenant to take such further steps by way of advertisement or otherwise as the court thinks proper for the purpose of tracing the person in question; and if, after an application is made for a vesting order under subsection (1) and before any lease is executed in pursuance of the application, the landlord is traced, then no further proceedings shall be taken with a view to a lease being so executed, but (subject to subsection (5))—
+
+(a) the rights and obligations of all parties shall be determined as if the tenant had, at the date of the application, duly given notice under section 42 of his claim to exercise the right to acquire a new lease of his flat; and
+
+(b) the court may give such directions as the court thinks fit as to the steps to be taken for giving effect to those rights and obligations, including directions modifying or dispensing with any of the requirements of this Chapter or of regulations made under this Part.
+
+(5) An application for a vesting order under subsection (1) may be withdrawn at any time before execution of a lease under section 51(3) and, after it is withdrawn, subsection (4)(a) above shall not apply; but where any step is taken (whether by the landlord or the tenant) for the purpose of giving effect to subsection (4)(a) in the case of any application, the application shall not afterwards be withdrawn except—
+
+(a) with the consent of the landlord, or
+
+(b) by leave of the court,
+
+and the court shall not give leave unless it appears to the court just to do so by reason of matters coming to the knowledge of the tenant in consequence of the tracing of the landlord.
+
+(6) Where an order has been made under subsection (2) dispensing with the need to give a copy of a notice under section 42 to a particular person with respect to any flat, then if—
+
+(a) a notice is subsequently given under that section with respect to that flat, and
+
+(b) in reliance on the order, a copy of the notice is not to be given to that person,
+
+the notice must contain a statement of the effect of the order.
+
+(7) Where a notice under section 42 contains such a statement in accordance with subsection (6) above, then in determining for the purposes of any provision of this Chapter whether the requirements of Part I of Schedule 11 have been complied with in relation to the notice, those requirements shall be deemed to have been complied with so far as relating to the giving of a copy of the notice to the person referred to in subsection (6) above.
+
+##### 51 Supplementary provisions relating to vesting orders under section 50(1).
+
+(1) A vesting order under section 50(1) is an order providing for the surrender of the tenant’s lease of his flat and for the granting to him of a new lease of it on such terms as may be determined by [[^F126]the appropriate tribunal] to be appropriate with a view to the lease being granted to him in like manner (so far as the circumstances permit) as if he had, at the date of his application, given notice under section 42 of his claim to exercise the right to acquire a new lease of his flat.
+
+(2) If [[^F127]the appropriate tribunal] so determines in the case of a vesting order under section 50(1), the order shall have effect in relation to property which is less extensive than that specified in the application on which the order was made.
+
+(3) Where any lease is to be granted to a tenant by virtue of a vesting order under section 50(1), then on his paying into court the appropriate sum there shall be executed by such person as the court may designate a lease which—
+
+(a) is in a form approved by [[^F128]the appropriate tribunal], and
+
+(b) contains such provisions as may be so approved for the purpose of giving effect so far as possible to section 56(1) and section 57 (as that section applies in accordance with subsections (7) and (8) below);
+
+and that lease shall be effective to vest in the person to whom it is granted the property expressed to be demised by it, subject to and in accordance with the terms of the lease.
+
+(4) In connection with the determination by [[^F129]the appropriate tribunal] of any question as to the property to be demised by any such lease, or as to the rights with or subject to which it is to be demised, it shall be assumed (unless the contrary is shown) that the landlord has no interest in property other than the property to be demised and, for the purpose of excepting them from the lease, any minerals underlying that property.
+
+(5) The appropriate sum to be paid into court in accordance with subsection (3) is the aggregate of—
+
+(a) such amount as may be determined by [[^F130]the appropriate tribunal] to be the premium which is payable under Schedule 13 in respect of the grant of the new lease;
+
+(b) such other amount or amounts (if any) as may be determined by such a tribunal to be payable by virtue of that Schedule in connection with the grant of that lease; and
+
+(c) any amounts or estimated amounts determined by such a tribunal as being, at the time of execution of that lease, due to the landlord from the tenant (whether due under or in respect of the tenant’s lease of his flat or under or in respect of any agreement collateral thereto).
+
+(6) Where any lease is granted to a person in accordance with this section, the payment into court of the appropriate sum shall be taken to have satisfied any claims against the tenant, his personal representatives or assigns in respect of the premium and any other amounts payable as mentioned in subsection (5)(a) and (b).
+
+(7) Subject to subsection (8), the following provisions, namely—
+
+(a) sections 57 to 59, and
+
+(b) section 61 and Schedule 14,
+
+shall, so far as capable of applying to a lease granted in accordance with this section, apply to such a lease as they apply to a lease granted under section 56; and subsections (6) and (7) of that section shall apply in relation to a lease granted in accordance with this section as they apply in relation to a lease granted under that section.
+
+(8) In its application to a lease granted in accordance with this section—
+
+(a) section 57 shall have effect as if—
+
+(i) any reference to the relevant date were a reference to the date of the application under section 50(1) in pursuance of which the vesting order under that provision was made, and
+
+(ii) in subsection (5) the reference to section 56(3)(a) were a reference to subsection (5)(c) above; and
+
+(b) section 58 shall have effect as if—
+
+(i) in subsection (3) the second reference to the landlord were a reference to the person designated under subsection (3) above, and
+
+(ii) subsections (6)(a) and (7) were omitted.
+
+#### Termination or suspension of acquisition procedures
+
+##### 52 Withdrawal by tenant from acquisition of new lease.
+
+(1) At any time before a new lease is entered into in pursuance of the tenant’s notice, the tenant may withdraw that notice by the giving of a notice to that effect under this section (“a notice of withdrawal”).
+
+(2) A notice of withdrawal must be given—
+
+(a) to the landlord for the purposes of this Chapter;
+
+(b) to every other landlord (as defined by section 40(4)); and
+
+(c) to any third party to the tenant’s lease.
+
+(3) Where a notice of withdrawal is given by the tenant to any person in accordance with subsection (2), the tenant’s liability under section 60 for costs incurred by that person shall be a liability for costs incurred by him down to the time when the notice is given to him.
+
+##### 53 Deemed withdrawal of tenant’s notice.
+
+(1) Where—
+
+(a) in a case to which subsection (1) of section 48 applies, no application under that subsection is made within the period specified in subsection (2) of that section, or
+
+(b) in a case to which subsection (3) of that section applies, no application for an order under that subsection is made within the period specified in subsection (5) of that section,
+
+the tenant’s notice shall be deemed to have been withdrawn at the end of the period referred to in paragraph (a) or (b) above (as the case may be).
+
+(2) Where, in a case falling within paragraph (a) or (b) of subsection (1) of section 49, no application for an order under that subsection is made within the period specified in subsection (3) of that section, the tenant’s notice shall be deemed to have been withdrawn at the end of that period.
+
+(3) Where, in a case to which subsection (4) of section 49 applies, no application for an order under that subsection is made within the period specified in subsection (6) of that section, the tenant’s notice shall be deemed to have been withdrawn at the end of that period.
+
+(4) The following provisions, namely—
+
+(a) section 43(3),
+
+(b) section 48(4), and
+
+(c) section 49(5),
+
+also make provision for a notice under section 42 to be deemed to have been withdrawn at a particular time.
+
+##### 54 Suspension of tenant’s notice during currency of claim under Chapter I.
+
+(1) If, at the time when the tenant’s notice is given—
+
+(a) a notice has been given under section 13 with respect to any premises containing the tenant’s flat, and
+
+(b) the relevant claim under Chapter I is still current,
+
+the operation of the tenant’s notice shall be suspended during the currency of that claim; and so long as it is so suspended no further notice shall be given, and no application shall be made, under this Chapter with a view to resisting or giving effect to the tenant’s claim.
+
+(2) If, at any time when the tenant’s notice continues in force, a notice is given under section 13 with respect to any premises containing the tenant’s flat, then, as from the date which is the relevant date for the purposes of Chapter I in relation to that notice under section 13, the operation of the tenant’s notice shall be suspended during the currency of the relevant claim under Chapter I; and so long as it is so suspended no further notice shall be given, and no application shall be made or proceeded with, under this Chapter with a view to resisting or giving effect to the tenant’s claim.
+
+(3) Where the operation of the tenant’s notice is suspended by virtue of subsection (1) or (2), the landlord shall give the tenant a notice informing him of its suspension—
+
+(a) (if it is suspended by virtue of subsection (1)) not later than the date specified in the tenant’s notice in pursuance of section 42(3)(f); or
+
+(b) (if it is suspended by virtue of subsection (2)) as soon as possible after the date referred to in that subsection;
+
+and any such notice shall in addition inform the tenant of the date on which the notice under section 13 was given and of the name and address of the nominee purchaser for the time being appointed for the purposes of section 15 in relation to the relevant claim under Chapter I.
+
+(4) Where—
+
+(a) the operation of the tenant’s notice is suspended by virtue of subsection (1), and
+
+(b) as a result of the relevant claim under Chapter I ceasing to be current, the operation of the tenant’s notice subsequently ceases to be so suspended and the tenant’s notice thereupon continues in force in accordance with section 42(8),
+
+then, as from the date when that claim ceases to be current (“the termination date”), this Chapter shall apply as if there were substituted for the date specified in the tenant’s notice in pursuance of section 42(3)(f) such date as results in the period of time intervening between the termination date and that date being equal to the period of time intervening between the relevant date and the date originally so specified.
+
+(5) Where—
+
+(a) the operation of the tenant’s notice is suspended by virtue of subsection (2), and
+
+(b) its suspension began in circumstances falling within subsection (6), and
+
+(c) as a result of the relevant claim under Chapter I ceasing to be current, the operation of the tenant’s notice subsequently ceases to be so suspended and the tenant’s notice thereupon continues in force in accordance with section 42(8),
+
+any relevant period shall be deemed to have begun on the date when that claim ceases to be current.
+
+(6) The circumstances referred to in subsection (5)(b) are that the suspension of the operation of the tenant’s notice began—
+
+(a) before the date specified in the tenant’s notice in pursuance of section 42(3)(f) and before the landlord had given the tenant a counter-notice under section 45; or
+
+(b) after the landlord had given the tenant a counter-notice under section 45 complying with the requirement set out in subsection (2)(b) or (c) of that section but—
+
+(i) before any application had been made for an order under section 46(1) or 47(1), and
+
+(ii) before the period for making any such application had expired; or
+
+(c) after an order had been made under section 46(4) or 47(4) but—
+
+(i) before the landlord had given the tenant a further counter-notice in accordance with the order, and
+
+(ii) before the period for giving any such counter-notice had expired.
+
+(7) Where—
+
+(a) the operation of the tenant’s notice is suspended by virtue of subsection (2), and
+
+(b) its suspension began otherwise than in circumstances falling within subsection (6), and
+
+(c) as a result of the relevant claim under Chapter I ceasing to be current, the operation of the tenant’s notice subsequently ceases to be so suspended and the tenant’s notice thereupon continues in force in accordance with section 42(8),
+
+any relevant period shall be deemed to have begun on the date on which the tenant is given a notice under subsection (8) below or, if earlier, the date on which the tenant gives the landlord a notice informing him of the circumstances by virtue of which the operation of the tenant’s notice has ceased to be suspended.
+
+(8) Where subsection (4), (5) or (7) applies, the landlord shall, as soon as possible after becoming aware of the circumstances by virtue of which the operation of the tenant’s notice has ceased to be suspended as mentioned in that subsection, give the tenant a notice informing him that, as from the date when the relevant claim under Chapter I ceased to be current, the operation of his notice is no longer suspended.
+
+(9) Subsection (8) shall not, however, require the landlord to give any such notice if he has received a notice from the tenant under subsection (7).
+
+(10) In subsections (5) and (7) “relevant period” means any period which—
+
+(a) is prescribed by or under this Part for the giving of any notice, or the making of any application, in connection with the tenant’s notice; and
+
+(b) was current at the time when the suspension of the operation of the tenant’s notice began.
+
+(11) For the purposes of this section—
+
+(a) “the relevant claim under Chapter I”, in relation to a notice under section 13, means the claim in respect of which that notice is given; and
+
+(b) any such claim is current if—
+
+(i) that notice continues in force in accordance with section 13(11), or
+
+(ii) a binding contract entered into in pursuance of that notice remains in force, or
+
+(iii) where an order has been made under section 24(4)(a) or (b) or 25(6)(a) or (b) with respect to any such premises as are referred to in subsection (1) or (2) above (as the case may be), any interests which by virtue of the order fall to be vested in the nominee purchaser for the purposes of Chapter I have yet to be so vested.
+
+##### 55 Effect on tenant’s notice of institution of compulsory acquisition procedures.
+
+(1) A notice given by a tenant under section 42 shall be of no effect if on the relevant date—
+
+(a) any person or body of persons who has or have been, or could be, authorised to acquire the whole or part of the tenant’s flat compulsorily for any purpose has or have, with a view to its acquisition for that purpose—
+
+(i) served notice to treat on the landlord or the tenant, or
+
+(ii) entered into a contract for the purchase of the interest of either of them in the flat or part of it, and
+
+(b) the notice to treat or contract remains in force.
+
+(2) A notice given by a tenant under section 42 shall cease to have effect if, before a new lease is entered into in pursuance of it, any such person or body of persons as is mentioned in subsection (1) serves or serve notice to treat as mentioned in that subsection.
+
+(3) Where subsection (2) applies in relation to a notice given by a tenant under section 42, then on the occasion of the compulsory acquisition in question the compensation payable in respect of any interest in the tenant’s flat (whether or not the one to which the relevant notice to treat relates) shall be determined on the basis of the value of the interest subject to and with the benefit of the rights and obligations arising from the tenant’s notice and affecting that interest.
+
+#### Grant of new lease
+
+##### 56 Obligation to grant new lease.
+
+(1) Where a qualifying tenant of a flat has under this Chapter a right to acquire a new lease of the flat and gives notice of his claim in accordance with section 42, then except as provided by this Chapter the landlord shall be bound to grant to the tenant, and the tenant shall be bound to accept—
+
+(a) in substitution for the existing lease, and
+
+(b) on payment of the premium payable under Schedule 13 in respect of the grant,
+
+a new lease of the flat at a peppercorn rent for a term expiring 90 years after the term date of the existing lease.
+
+(2) In addition to any such premium there shall be payable by the tenant in connection with the grant of any such new lease such amounts to the owners of any intermediate leasehold interests (within the meaning of Schedule 13) as are so payable by virtue of that Schedule.
+
+(3) A tenant shall not be entitled to require the execution of any such new lease otherwise than on tendering to the landlord, in addition to the amount of any such premium and any other amounts payable by virtue of Schedule 13, the amount so far as ascertained—
+
+(a) of any sums payable by him by way of rent or recoverable from him as rent in respect of the flat up to the date of tender;
+
+(b) of any sums for which at that date the tenant is liable under section 60 in respect of costs incurred by any relevant person (within the meaning of that section); and
+
+(c) of any other sums due and payable by him to any such person under or in respect of the existing lease;
+
+and, if the amount of any such sums is not or may not be fully ascertained, on offering reasonable security for the payment of such amount as may afterwards be found to be payable in respect of them.
+
+(4) To the extent that any amount tendered to the landlord in accordance with subsection (3) is an amount due to a person other than the landlord, that amount shall be payable to that person by the landlord; and that subsection has effect subject to paragraph 7(2) of Schedule 11.
+
+(5) No provision of any lease prohibiting, restricting or otherwise relating to a sub-demise by the tenant under the lease shall have effect with reference to the granting of any lease under this section.
+
+(6) It is hereby declared that nothing in any of the provisions specified in paragraph 1(2) of Schedule 10 (which impose requirements as to consent or consultation or other restrictions in relation to disposals falling within those provisions) applies to the granting of any lease under this section.
+
+(7) For the purposes of subsection (6), paragraph 1(2) of Schedule 10 has effect as if the reference to section 79(2) of the [^M19]Housing Act 1988 (which is not relevant in the context of subsection (6)) were omitted.
+
+##### 57 Terms on which new lease is to be granted.
+
+(1) Subject to the provisions of this Chapter (and in particular to the provisions as to rent and duration contained in section 56(1)), the new lease to be granted to a tenant under section 56 shall be a lease on the same terms as those of the existing lease, as they apply on the relevant date, but with such modifications as may be required or appropriate to take account—
+
+(a) of the omission from the new lease of property included in the existing lease but not comprised in the flat;
+
+(b) of alterations made to the property demised since the grant of the existing lease; or
+
+(c) in a case where the existing lease derives (in accordance with section 7(6) as it applies in accordance with section 39(3)) from more than one separate leases, of their combined effect and of the differences (if any) in their terms.
+
+(2) Where during the continuance of the new lease the landlord will be under any obligation for the provision of services, or for repairs, maintenance or insurance—
+
+(a) the new lease may require payments to be made by the tenant (whether as rent or otherwise) in consideration of those matters or in respect of the cost thereof to the landlord; and
+
+(b) (if the terms of the existing lease do not include any provision for the making of any such payments by the tenant or include provision only for the payment of a fixed amount) the terms of the new lease shall make, as from the term date of the existing lease, such provision as may be just—
+
+(i) for the making by the tenant of payments related to the cost from time to time to the landlord, and
+
+(ii) for the tenant’s liability to make those payments to be enforceable by [[^F131]re-entry or otherwise (subject to section 85 of the Tribunals, Courts and Enforcement Act 2007)] in like manner as if it were a liability for payment of rent.
+
+(3) Subject to subsection (4), provision shall be made by the terms of the new lease or by an agreement collateral thereto for the continuance, with any suitable adaptations, of any agreement collateral to the existing lease.
+
+(4) For the purposes of subsections (1) and (3) there shall be excluded from the new lease any term of the existing lease or of any agreement collateral thereto in so far as that term—
+
+(a) provides for or relates to the renewal of the lease,
+
+(b) confers any option to purchase or right of pre-emption in relation to the flat demised by the existing lease, or
+
+(c) provides for the termination of the existing lease before its term date otherwise than in the event of a breach of its terms;
+
+and there shall be made in the terms of the new lease or any agreement collateral thereto such modifications as may be required or appropriate to take account of the exclusion of any such term.
+
+(5) Where the new lease is granted after the term date of the existing lease, then on the grant of the new lease there shall be payable by the tenant to the landlord, as an addition to the rent payable under the existing lease, any amount by which, for the period since the term date or the relevant date (whichever is the later), the sums payable to the landlord in respect of the flat (after making any necessary apportionment) for the matters referred to in subsection (2) fall short in total of the sums that would have been payable for such matters under the new lease if it had been granted on that date; and section 56(3)(a) shall apply accordingly.
+
+(6) Subsections (1) to (5) shall have effect subject to any agreement between the landlord and tenant as to the terms of the new lease or any agreement collateral thereto; and either of them may require that for the purposes of the new lease any term of the existing lease shall be excluded or modified in so far as—
+
+(a) it is necessary to do so in order to remedy a defect in the existing lease; or
+
+(b) it would be unreasonable in the circumstances to include, or include without modification, the term in question in view of changes occurring since the date of commencement of the existing lease which affect the suitability on the relevant date of the provisions of that lease.
+
+(7) The terms of the new lease shall—
+
+(a) make provision in accordance with section 59(3); and
+
+(b) reserve to the person who is for the time being the tenant’s immediate landlord the right to obtain possession of the flat in question in accordance with section 61.
+
+[[^F132](8) In granting the new lease the landlord shall not be bound to enter into any covenant for title beyond—
+
+(a) those implied from the grant, and
+
+(b) those implied under Part I of the Law of Property (Miscellaneous Provisions) Act 1994 in a case where a disposition is expressed to be made with limited title guarantee, but not including (in the case of an underlease) the covenant in section 4(1)(b) of that Act (compliance with terms of lease);
+
+and in the absence of agreement to the contrary the landlord shall be entitled to be indemnified by the tenant in respect of any costs incurred by him in complying with the covenant implied by virtue of section 2(1)(b) of that Act (covenant for further assurance).
+
+(8A) A person entering into any covenant required of him as landlord (under subsection (8) or otherwise) shall be entitled to limit his personal liability to breaches of that covenant for which he is responsible.]
+
+(9) Where any person—
+
+(a) is a third party to the existing lease, or
+
+(b) (not being the landlord or tenant) is a party to any agreement collateral thereto,
+
+then (subject to any agreement between him and the landlord and the tenant) he shall be made a party to the new lease or (as the case may be) to an agreement collateral thereto, and shall accordingly join in its execution; but nothing in this section has effect so as to require the new lease or (as the case may be) any such collateral agreement to provide for him to discharge any function at any time after the term date of the existing lease.
+
+(10) Where—
+
+(a) any such person (“the third party”) is in accordance with subsection (9) to discharge any function down to the term date of the existing lease, but
+
+(b) it is necessary or expedient in connection with the proper enjoyment by the tenant of the property demised by the new lease for provision to be made for the continued discharge of that function after that date,
+
+the new lease or an agreement collateral thereto shall make provision for that function to be discharged after that date (whether by the third party or by some other person).
+
+(11) The new lease shall contain a statement that it is a lease granted under section 56; and any such statement shall comply with such requirements as may be prescribed by [[^F133]land registration rules under the Land Registration Act 2002].
+
+##### 58 Grant of new lease where interest of landlord or tenant is subject to a mortgage.
+
+(1) Subject to subsection (2), a qualifying tenant shall be entitled to be granted a new lease under section 56 despite the fact that the grant of the existing lease was subsequent to the creation of a mortgage on the landlord’s interest and not authorised as against the persons interested in the mortgage; and a lease granted under that section—
+
+(a) shall be deemed to be authorised as against the persons interested in any mortgage on the landlord’s interest (however created or arising), and
+
+(b) shall be binding on those persons.
+
+(2) A lease granted under section 56 shall not, by virtue of subsection (1) above, be binding on the persons interested in any such mortgage if the existing lease—
+
+(a) is granted after the commencement of this Chapter, and
+
+(b) being granted subsequent to the creation of the mortgage, would not, apart from that subsection, be binding on the persons interested in the mortgage.
+
+(3) Where—
+
+(a) a lease is granted under section 56, and
+
+(b) any person having a mortgage on the landlord’s interest is thereby entitled to possession of the documents of title relating to that interest,
+
+the landlord shall, within one month of the execution of the lease, deliver to that person a counterpart of it duly executed by the tenant.
+
+(4) Where the existing lease is, immediately before its surrender on the grant of a lease under section 56, subject to any mortgage, the new lease shall take effect subject to the mortgage in substitution for the existing lease; and the terms of the mortgage, as set out in the instrument creating or evidencing it, shall accordingly apply in relation to the new lease in like manner as they applied in relation to the existing lease.
+
+(5) Where—
+
+(a) a lease granted under section 56 takes effect subject to any such subsisting mortgage on the existing lease, and
+
+(b) at the time of execution of the new lease the person having the mortgage is thereby entitled to possession of the documents of title relating to the existing lease,
+
+he shall be similarly entitled to possession of the documents of title relating to the new lease; and the tenant shall deliver the new lease to him within one month of the date on which the lease is received from Her Majesty’s Land Registry following its registration.
+
+(6) Where—
+
+(a) the landlord fails to deliver a counterpart of the new lease in accordance with subsection (3), or
+
+(b) the tenant fails to deliver the new lease in accordance with subsection (5),
+
+the instrument creating or evidencing the mortgage in question shall apply as if the obligation to deliver a counterpart or (as the case may be) deliver the lease were included in the terms of the mortgage as set out in that instrument.
+
+(7) A landlord granting a lease under section 56 shall be bound to take such steps as may be necessary to secure that the lease is not liable in accordance with subsection (2) to be defeated by persons interested in a mortgage on his interest; but a landlord is not obliged, in order to grant a lease for the purposes of that section, to acquire a better title than he has or could require to be vested in him.
+
+##### 58A [[^F134] Priority of interests on grant of new lease.
+
+(1) Where a lease granted under section 56 takes effect subject to two or more interests to which the existing lease was subject immediately before its surrender, the interests shall have the same priority in relation to one another on the grant of the new lease as they had immediately before the surrender of the existing lease.
+
+(2) Subsection (1) is subject to agreement to the contrary.
+
+(3) Where a person who is entitled on the grant of a lease under section 56 to rights of occupation in relation to the flat comprised in that lease was entitled immediately before the surrender of the existing lease to rights of occupation in relation to the flat comprised in that lease, the rights to which he is entitled on the grant of the new lease shall be treated as a continuation of the rights to which he was entitled immediately before the surrender of the existing lease.
+
+(4) In this section—
+
+- “the existing lease”, in relation to a lease granted under section 56, means the lease surrendered on the grant of the new lease, and
+- “rights of occupation” has the same meaning as in the [^M20]Matrimonial Homes Act 1983.]
+
+##### 59 Further renewal, but no security of tenure, after grant of new lease.
+
+(1) The right to acquire a new lease under this Chapter may be exercised in relation to a lease of a flat despite the fact that the lease is itself a lease granted under section 56; and the provisions of this Chapter shall, with any necessary modifications, apply for the purposes of or in connection with any claim to exercise that right in relation to a lease so granted as they apply for the purposes of or in connection with any claim to exercise that right in relation to a lease which has not been so granted.
+
+(2) Where a lease has been granted under section 56—
+
+(a) none of the statutory provisions relating to security of tenure for tenants shall apply to the lease;
+
+(b) after the term date of the lease none of the following provisions, namely—
+
+(i) section 1 of the [^M21]Landlord and Tenant Act 1954 or Schedule 10 to the [^M22]Local Government and Housing Act 1989 (which make provision for security of tenure on the ending of long residential tenancies), or
+
+(ii) Part II of that Act of 1954 (business tenancies),
+
+shall apply to any sub-lease directly or indirectly derived out of the lease; and
+
+(c) after that date no person shall be entitled by virtue of any such sub-lease to retain possession under—
+
+(i) Part VII of the [^M23]Rent Act 1977 (security of tenure for protected tenancies etc.) or any enactment applying or extending that Part of that Act,
+
+(ii) the [^M24]Rent (Agriculture) Act 1976, or
+
+(iii) Part I of the [^M25]Housing Act 1988 (assured tenancies etc.).
+
+(3) Where a lease has been granted under section 56, no long lease created immediately or derivatively by way of sub-demise under the lease shall confer on the sub-tenant, as against the tenant’s landlord, any right under this Chapter to acquire a new lease (and for this purpose “long lease” shall be construed in accordance with section 7).
+
+(4) Any person who—
+
+(a) grants a sub-lease to which subsection (2)(b) and (c) will apply, or
+
+(b) negotiates with a view to the grant of such a sub-lease by him or by a person for whom he is acting as agent,
+
+shall inform the other party that the sub-lease is to be derived out of a lease granted under section 56, unless either he knows that the other party is aware of it or he himself is unaware of it.
+
+(5) Where any lease contains a statement to the effect that it is a lease granted under section 56, the statement shall be conclusive for the purposes of subsections (2) to (4) in favour of any person who is not a party to the lease, unless the statement appears from the lease to be untrue.
+
+#### Costs incurred in connection with new lease
+
+##### 60 Costs incurred in connection with new lease to be paid by tenant.
+
+(1) Where a notice is given under section 42, then (subject to the provisions of this section) the tenant by whom it is given shall be liable, to the extent that they have been incurred by any relevant person in pursuance of the notice, for the reasonable costs of and incidental to any of the following matters, namely—
+
+(a) any investigation reasonably undertaken of the tenant’s right to a new lease;
+
+(b) any valuation of the tenant’s flat obtained for the purpose of fixing the premium or any other amount payable by virtue of Schedule 13 in connection with the grant of a new lease under section 56;
+
+(c) the grant of a new lease under that section;
+
+but this subsection shall not apply to any costs if on a sale made voluntarily a stipulation that they were to be borne by the purchaser would be void.
+
+(2) For the purposes of subsection (1) any costs incurred by a relevant person in respect of professional services rendered by any person shall only be regarded as reasonable if and to the extent that costs in respect of such services might reasonably be expected to have been incurred by him if the circumstances had been such that he was personally liable for all such costs.
+
+(3) Where by virtue of any provision of this Chapter the tenant’s notice ceases to have effect, or is deemed to have been withdrawn, at any time, then (subject to subsection (4)) the tenant’s liability under this section for costs incurred by any person shall be a liability for costs incurred by him down to that time.
+
+(4) A tenant shall not be liable for any costs under this section if the tenant’s notice ceases to have effect by virtue of section 47(1) or 55(2).
+
+(5) A tenant shall not be liable under this section for any costs which a party to any proceedings under this Chapter before [[^F135]the appropriate tribunal] incurs in connection with the proceedings.
+
+(6) In this section “relevant person”, in relation to a claim by a tenant under this Chapter, means the landlord for the purposes of this Chapter, any other landlord (as defined by section 40(4)) or any third party to the tenant’s lease.
+
+#### Landlord’s right to terminate new lease
+
+##### 61 Landlord’s right to terminate new lease on grounds of redevelopment.
+
+(1) Where a lease of a flat (“the new lease”) has been granted under section 56 but the court is satisfied, on an application made by the landlord—
+
+(a) that for the purposes of redevelopment the landlord intends—
+
+(i) to demolish or reconstruct, or
+
+(ii) to carry out substantial works of construction on,
+
+the whole or a substantial part of any premises in which the flat is contained, and
+
+(b) that he could not reasonably do so without obtaining possession of the flat,
+
+the court shall by order declare that the landlord is entitled as against the tenant to obtain possession of the flat and the tenant is entitled to be paid compensation by the landlord for the loss of the flat.
+
+(2) An application for an order under this section may be made—
+
+(a) at any time during the period of 12 months ending with the term date of the lease in relation to which the right to acquire a new lease was exercised; and
+
+(b) at any time during the period of five years ending with the term date of the new lease.
+
+(3) Where the new lease is not the first lease to be granted under section 56 in respect of a flat, subsection (2) shall apply as if paragraph (b) included a reference to the term date of any previous lease granted under that section in respect of the flat, but paragraph (a) shall be taken to be referring to the term date of the lease in relation to which the right to acquire a new lease was first exercised.
+
+(4) Where an order is made under this section, the new lease shall determine, and compensation shall become payable, in accordance with Schedule 14 to this Act; and the provisions of that Schedule shall have effect as regards the measure of compensation payable by virtue of any such order and the effects of any such order where there are sub-leases, and as regards other matters relating to orders and applications under this section.
+
+(5) Except in subsection (1)(a) or (b), any reference in this section to the flat held by the tenant under the new lease includes any premises let with the flat under that lease.
+
+#### [[^F136] Landlord’s right to compensation in relation to ineffective claims
+
+##### [^F137]61A Compensation for postponement of termination in connection with ineffective claims.
+
+(1) This section applies where, on or after 15th January 1999—
+
+(a) a tenant of a flat makes a claim to acquire a new lease of the flat, and
+
+(b) the claim is not made at least two years before the term date of the lease in respect of which the claim is made (“the existing lease”).
+
+(2) The tenant shall be liable to pay compensation if the claim is not effective and—
+
+(a) the making of the claim caused a notice served under paragraph 4(1) of Schedule 10 to the [^M26]Local Government and Housing Act 1989 to cease to have effect and the date on which the claim ceases to have effect is later than four months before the termination date specified in the notice,
+
+(b) the making of the claim prevented the service of an effective notice under paragraph 4(1) of Schedule 10 to the Local Government and Housing Act 1989 (but did not cause a notice served under that provision to cease to have effect) and the date on which the claim ceases to have effect is a date later than six months before the term date of the existing lease, or
+
+(c) the existing lease is continued under paragraph 5(1) of Schedule 12 by virtue of the claim.
+
+(3) Compensation under subsection (2) shall become payable at the end of the appropriate period and be the right of the person who is the tenant’s immediate landlord at that time.
+
+(4) The amount which the tenant is liable to pay under subsection (2) shall be equal to the difference between—
+
+(a) the rent for the appropriate period under the existing lease, and
+
+(b) the rent which might reasonably be expected to be payable for that period were the property to which the existing lease relates let for a term equivalent to that period on the open market by a willing landlord on the following assumptions—
+
+(i) that no premium is payable in connection with the letting,
+
+(ii) that the letting confers no security of tenure, and
+
+(iii) that, except as otherwise provided by this paragraph, the letting is on the same terms as the existing lease.
+
+(5) For the purposes of subsections (3) and (4), the appropriate period is—
+
+(a) in a case falling within paragraph (a) of subsection (2), the period—
+
+(i) beginning with the termination date specified in the notice mentioned in that paragraph, and
+
+(ii) ending with the earliest date of termination which could have been specified in a notice under paragraph 4(1) of Schedule 10 to the Local Government and Housing Act 1989 served immediately after the date on which the claim ceases to have effect, or, if the existing lease is terminated before then, with the date on which it is terminated;
+
+(b) in a case falling within paragraph (b) of subsection (2), the period—
+
+(i) beginning with the later of six months from the date on which the claim is made and the term date of the existing lease, and
+
+(ii) ending six months after the date on which the claim ceases to have effect, or, if the existing lease is terminated before then, with the date of its termination; and
+
+(c) in a case falling within paragraph (c) of subsection (2), the period for which the existing lease is continued under paragraph 5(1) of Schedule 12.
+
+(6) For the purposes of subsection (2), a claim to a new lease is not effective if it ceases to have effect for any reason other than—
+
+(a) the application of section 47(1) or 55(2), or
+
+(b) the acquisition of the new lease in pursuance of the claim.
+
+(7) For the purposes of this section—
+
+(a) references to a claim to acquire a new lease shall be taken as references to a notice given, or purporting to be given (whether by a qualifying tenant or not), under section 42, and
+
+(b) references to the date on which a claim ceases to have effect shall, in the case of a claim made by a notice which is not a valid notice under section 42, be taken as references to the date on which the notice is set aside by the court or is withdrawn or would, if valid, cease to have effect or be deemed to have been withdrawn, that date being taken, where the notice is set aside, or would, if valid, cease to have effect, in consequence of a court order, to be the date when the order becomes final.]
+
+##### 61B [[^F138]Modification of section 61A where change in immediate reversion.
+
+(1) Where a tenant’s liability to pay compensation under section 61A relates to a period during which there has been a change in the interest immediately expectant on the determination of his lease, that section shall have effect with the following modifications.
+
+(2) For subsections (3) and (4) there shall be substituted—
+
+“ Compensation under subsection (2) shall become payable at the end of the appropriate period and there shall be a separate right to compensation in respect of each of the interests which, during that period, have been immediately expectant on the determination of the existing lease.
+
+(4) Compensation under subsection (2) above shall—
+
+(a) in the case of the interest which is immediately expectant on the determination of the existing lease at the end of the appropriate period, be the right of the person in whom that interest is vested at that time, and
+
+(b) in the case of an interest which ceases during the appropriate period to be immediately expectant on the determination of the existing lease, be the right of the person in whom the interest was vested immediately before it ceased to be so expectant.
+
+(4A) The amount which the tenant is liable to pay under subsection (2) above in respect of any interest shall be equal to the difference between—
+
+(a) the rent under the existing lease for the part of the appropriate period during which the interest was immediately expectant on the determination of that lease, and
+
+(b) the rent which might reasonably be expected to be payable for that part of that period were the property to which the existing lease relates let for a term equivalent to that part of that period on the open market by a willing landlord on the following assumptions—
+
+(i) that no premium is payable in connection with the letting,
+
+(ii) that the letting confers no security of tenure, and
+
+(iii) that, except as otherwise provided by this paragraph, the letting is on the same terms as the existing lease.“
+
+(3) In subsection (5), for “(3) and (4)” there shall be substituted “(3) to (4A)”.]
+
+#### Supplemental
+
+##### 62 Interpretation of Chapter II.
+
+(1) In this Chapter—
+
+- [[^F139]“appropriate tribunal” means—
+
+  - in relation to premises in England, the First-tier Tribunal or, where determined by or under Tribunal Procedure Rules, the Upper Tribunal; and
+  - in relation to premises in Wales, a leasehold valuation tribunal.]
+
+- “the existing lease”, in relation to a claim by a tenant under this Chapter, means the lease in relation to which the claim is made;
+
+- “the landlord”, in relation to such a claim, has the meaning given by section 40(1);
+
+- “mortgage” includes a charge or lien;
+
+- “qualifying tenant” shall be construed in accordance with section 39(3);
+
+- “the relevant date” (unless the context otherwise requires) has the meaning given by section 39(8);
+
+- “the tenant’s notice” means the notice given under section 42;
+
+- “the terms of acquisition” shall be construed in accordance with section 48(7);
+
+- “third party”, in relation to a lease, means any person who is a party to the lease apart from the tenant under the lease and his immediate landlord.
+
+(2) Subject to subsection (3), references in this Chapter to a flat, in relation to a claim by a tenant under this Chapter, include any garage, outhouse, garden, yard and appurtenances belonging to, or usually enjoyed with, the flat and let to the tenant with the flat on the relevant date (or, in a case where an application is made under section 50(1), on the date of the making of the application).
+
+(3) Subsection (2) does not apply—
+
+(a) to any reference to a flat in section 47 or 55(1); or
+
+(b) to any reference to a flat (not falling within paragraph (a) above) which occurs in the context of a reference to any premises containing the flat.
+
+(4) [^F140]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Chapter III — ENFRANCHISEMENT UNDER LEASEHOLD REFORM ACT 1967
+
+#### Extension of right to enfranchise
+
+##### 63 Extension of right to enfranchise to houses whose value or rent exceeds applicable limit.
+
+After section 1 of the [^M27]Leasehold Reform Act 1967 there shall be inserted—
+
+> **1A Right to enfranchisement only in case of houses whose value or rent exceeds limit under s.1 or 4.**
+>
+> (1) Where subsection (1) of section 1 above would apply in the case of the tenant of a house but for the fact that the applicable financial limit specified in subsection (1)(a)(i) or (ii) or (as the case may be) subsection (5) or (6) of that section is exceeded, this Part of this Act shall have effect to confer on the tenant the same right to acquire the freehold of the house and premises as would be conferred by subsection (1) of that section if that limit were not exceeded.
+>
+> (2) Where a tenancy of any property is not a tenancy at a low rent in accordance with section 4(1) below but is a tenancy falling within section 4A(1) below, the tenancy shall nevertheless be treated as a tenancy at a low rent for the purposes of this Part of this Act so far as it has effect for conferring on any person a right to acquire the freehold of a house and premises.
+
+##### 64 Tenancies terminable after death or marriage.
+
+(1) The following section shall be inserted in the Leasehold Reform Act 1967 after the section 1A inserted by section 63 above—
+
+> **1B Right to enfranchisement only in case of certain tenancies terminable after death or marriage.**
+>
+> Where a tenancy granted so as to become terminable by notice after a death or marriage—
+>
+> (a) is (apart from this section) a long tenancy in accordance with section 3(1) below, but
+>
+> (b) was granted before 18th April 1980 or in pursuance of a contract entered into before that date,
+>
+> then (notwithstanding section 3(1)) the tenancy shall be a long tenancy for the purposes of this Part of this Act only so far as this Part has effect for conferring on any person a right to acquire the freehold of a house and premises.
+
+(2) In section 3(1) of that Act (meaning of “long tenancy”)—
+
+(a) after “and includes” there shall be inserted “ both a tenancy taking effect under section 149(6) of the Law of Property Act 1925 (leases terminable after a death or marriage) and ”; and
+
+(b) in the proviso (which prevents certain categories of tenancies terminable after death or marriage being long tenancies), for the words from “if either” onwards there shall be substituted
+
+> if—
+>
+> (a) the notice is capable of being given at any time after the death or marriage of the tenant;
+>
+> (b) the length of the notice is not more than three months; and
+>
+> (c) the terms of the tenancy preclude both—
+>
+> (i) its assignment otherwise than by virtue of section 92 of the Housing Act 1985 (assignments by way of exchange), and
+>
+> (ii) the sub-letting of the whole of the premises comprised in it.
+
+##### 65 Additional “low rent” test.
+
+After section 4 of the [^M28]Leasehold Reform Act 1967 there shall be inserted—
+
+> **4A Alternative rent limits for purposes of section 1A(2).**
+>
+> (1) For the purposes of section 1A(2) above a tenancy of any property falls within this subsection if either no rent was payable under it in respect of the property during the initial year or the aggregate amount of rent so payable during that year did not exceed the following amount, namely—
+>
+> (a) where the tenancy was entered into before 1st April 1963, two-thirds of the letting value of the property (on the same terms) on the date of the commencement of the tenancy;
+>
+> (b) where—
+>
+> (i) the tenancy was entered into either on or after 1st April 1963 but before 1st April 1990, or on or after 1st April 1990 in pursuance of a contract made before that date, and
+>
+> (ii) the property had a rateable value at the date of the commencement of the tenancy or else at any time before 1st April 1990,
+>
+> two-thirds of the rateable value of the property on the relevant date; or
+>
+> (c) in any other case, £1,000 if the property is in Greater London or £250 if elsewhere.
+>
+> (2) For the purposes of subsection (1) above—
+>
+> (a) “the initial year”, in relation to any tenancy, means the period of one year beginning with the date of the commencement of the tenancy;
+>
+> (b) “the relevant date” means the date of the commencement of the tenancy or, if the property did not have a rateable value on that date, the date on which it first had a rateable value; and
+>
+> (c) paragraphs (b) and (c) of section 4(1) above shall apply as they apply for the purposes of section 4(1);
+>
+> and it is hereby declared that in subsection (1) above the reference to the letting value of any property is to be construed in like manner as the reference in similar terms which appears in the proviso to section 4(1) above.
+>
+> (3) Section 1(7) above applies to any amount referred to in subsection (1)(c) above as it applies to the amount referred to in subsection (1)(a)(ii) of that section.
+
+##### 66 Price payable by tenant on enfranchisement by virtue of section 63 or 64.
+
+(1) In section 9 of the [^M29]Leasehold Reform Act 1967 (purchase price and costs of enfranchisement, etc.), after subsection (1B) there shall be inserted—
+
+> (1C) Notwithstanding subsection (1) above, the price payable for a house and premises where the right to acquire the freehold arises by virtue of any one or more of the provisions of sections 1A and 1B above shall be determined in accordance with subsection (1A) above; but in any such case—
+>
+> (a) if in determining the price so payable there falls to be taken into account any marriage value arising by virtue of the coalescence of the freehold and leasehold interests, the share of the marriage value to which the tenant is to be regarded as being entitled shall not exceed one-half of it; and
+>
+> (b) section 9A below has effect for determining whether any additional amount is payable by way of compensation under that section;
+>
+> and in a case where the provision (or one of the provisions) by virtue of which the right to acquire the freehold arises is section 1A(1) above, subsection (1A) above shall apply with the omission of the assumption set out in paragraph (b) of that subsection.
+
+(2) Section 9 of that Act, as amended by this section and with the omission of repealed provisions, is set out in Schedule 15 to this Act.
+
+(3) After section 9 of that Act there shall be inserted—
+
+> **9A Compensation payable in cases where right to enfranchisement arises by virtue of section 1A or 1B.**
+>
+> (1) If, in a case where the right to acquire the freehold of a house and premises arises by virtue of any one or more of the provisions of sections 1A and 1B above, the landlord will suffer any loss or damage to which this section applies, there shall be payable to him such amount as is reasonable to compensate him for that loss or damage.
+>
+> (2) This section applies to—
+>
+> (a) any diminution in value of any interest of the landlord in other property resulting from the acquisition of his interest in the house and premises; and
+>
+> (b) any other loss or damage which results therefrom to the extent that it is referable to his ownership of any interest in other property.
+>
+> (3) Without prejudice to the generality of paragraph (b) of subsection (2) above, the kinds of loss falling within that paragraph include loss of development value in relation to the house and premises to the extent that it is referable as mentioned in that paragraph.
+>
+> (4) In subsection (3) above “development value”, in relation to the house and premises, means any increase in the value of the landlord’s interest in the house and premises which is attributable to the possibility of demolishing, reconstructing, or carrying out substantial works of construction on, the whole or a substantial part of the house and premises.
+>
+> (5) In relation to any case falling within subsection (1) above—
+>
+> (a) any reference (however expressed)—
+>
+> (i) in section 8 or 9(3) or (5) above, or
+>
+> (ii) in any of the following provisions of this Act,
+>
+> to the price payable under section 9 above shall be construed as including a reference to any amount payable to the landlord under this section; and
+>
+> (b) for the purpose of determining any such separate price as is mentioned in paragraph 7(1)(b) of Schedule 1 to this Act, this section shall accordingly apply (with any necessary modifications) to each of the superior interests in question.
+
+#### Exceptions to right to enfranchise
+
+##### 67 Exclusion of right to enfranchise in case of houses let by charitable housing trusts.
+
+(1) Section 1 of the [^M30]Leasehold Reform Act 1967 (tenants entitled to enfranchisement or extension) shall be amended as follows.
+
+(2) In subsection (3) (excepted cases) there shall be added at the end— “ or, in the case of any right to which subsection (3A) below applies, at any time when the tenant’s immediate landlord is a charitable housing trust and the house forms part of the housing accommodation provided by the trust in the pursuit of its charitable purposes. ”
+
+(3) After subsection (3) there shall be inserted—
+
+> (3A) For the purposes of subsection (3) above this subsection applies as follows—
+>
+> (a) where the tenancy was created after the commencement of Chapter III of Part I of the Leasehold Reform, Housing and Urban Development Act 1993, this subsection applies to any right to acquire the freehold of the house and premises; but
+>
+> (b) where the tenancy was created before that commencement, this subsection applies only to any such right exercisable by virtue of any one or more of the provisions of sections 1A and 1B below;
+>
+> and in that subsection “charitable housing trust” means a housing trust within the meaning of the Housing Act 1985 which is a charity within the meaning of the Charities Act 1993.
+
+##### 68 Exclusion of right in case of property transferred for public benefit etc.
+
+After section 32 of the [^M31]Leasehold Reform Act 1967 there shall be inserted—
+
+> **32A Property transferred for public benefit etc.**
+>
+> (1) A notice of a person’s desire to have the freehold of a house and premises under this Part shall be of no effect if at the relevant time the whole or any part of the house and premises is qualifying property and either—
+>
+> (a) the tenancy was created after the commencement of Chapter III of Part I of the Leasehold Reform, Housing and Urban Development Act 1993; or
+>
+> (b) (where the tenancy was created before that commencement) the tenant would not be entitled to have the freehold if either or both of sections 1A and 1B above were not in force.
+>
+> (2) For the purposes of this section the whole or any part of the house and premises is qualifying property if—
+>
+> (a) it has been designated under section 31(1)(b), (c) or (d) of the Inheritance Tax Act 1984 (designation and undertakings relating to conditionally exempt transfers), whether with or without any other property, and no chargeable event has subsequently occurred with respect to it; or
+>
+> (b) an application to the Board for it to be so designated is pending; or
+>
+> (c) it is the property of a body not established or conducted for profit and a direction has been given in relation to it under section 26 of that Act (gifts for public benefit), whether with or without any other property; or
+>
+> (d) an application to the Board for a direction to be so given in relation to it is pending.
+>
+> (3) For the purposes of subsection (2) above an application is pending as from the time when it is made to the Board until such time as it is either granted or refused by the Board or withdrawn by the applicant; and for this purpose an application shall not be regarded as made unless and until the applicant has submitted to the Board all such information in support of the application as is required by the Board.
+>
+> (4) A notice of a person’s desire to have the freehold of a house and premises under this Part shall cease to have effect if—
+>
+> (a) before completion of the conveyance in pursuance of the tenant’s notice, the whole or any part of the house and premises becomes qualifying property; and
+>
+> (b) the condition set out in subsection (1)(a) or (as the case may be) subsection (1)(b) above is satisfied.
+>
+> (5) Where a tenant’s notice ceases to have effect by virtue of subsection (4) above—
+>
+> (a) section 9(4) above shall not apply to require the tenant to make any payment to the landlord in respect of costs incurred by reason of the notice; and
+>
+> (b) the person who applied or is applying for designation or a direction shall be liable to the tenant for all reasonable costs incurred by the tenant in connection with his claim to acquire the freehold of the house and premises.
+>
+> (6) Where it is claimed that subsection (1) or (4) above applies in relation to a tenant’s notice, the person making the claim shall, at the time of making it, furnish the tenant with evidence in support of it; and if he fails to do so he shall be liable for any costs which are reasonably incurred by the tenant in consequence of the failure.
+>
+> (7) In subsection (2) above—
+>
+> (a) paragraphs (a) and (b) apply to designation under section 34(1)(a), (b) or (c) of the Finance Act 1975 or section 77(1)(b), (c) or (d) of the Finance Act 1976 as they apply to designation under section 31(1)(b), (c) or (d) of the Inheritance Tax Act 1984; and
+>
+> (b) paragraphs (c) and (d) apply to a direction under paragraph 13 of Schedule 6 to the Finance Act 1975 as they apply to a direction under section 26 of that Act of 1984.
+>
+> (8) In this section—
+>
+> - “the Board” means the Commissioners of Inland Revenue;
+>
+> - “chargeable event” means—
+>
+>   - (a) any event which in accordance with any provision of Chapter II of Part II of the Inheritance Tax Act 1984 (exempt transfers) is a chargeable event, including any such provision as applied by section 78(3) of that Act (conditionally exempt occasions); or
+>   - (b) any event which would have been a chargeable event in the circumstances mentioned in section 79(3) of that Act (exemption from ten-yearly charge).
+
+### Chapter IV — ESTATE MANAGEMENT SCHEMES IN CONNECTION WITH ENFRANCHISEMENT
+
+#### 69 Estate management schemes.
+
+(1) For the purposes of this Chapter an estate management scheme is a scheme which (subject to sections 71 and 73) is approved by [[^F141]the appropriate tribunal] under section 70 for an area occupied directly or indirectly under leases held from one landlord (apart from property occupied by him or his licensees or for the time being unoccupied) and which is designed to secure that in the event of tenants—
+
+[[^F142](a) acquiring the landlord’s interest in their house and premises (“the house”) under Part I of the [^M32]Leasehold Reform Act 1967 by virtue of the provisions of section 1AA of that Act (as inserted by paragraph 1 of Schedule 9 to the Housing Act 1996), or
+
+(b) acquiring the landlord’s interest in any premises (“the premises”) in accordance with Chapter I of this Part of this Act [[^F143]in circumstances in which, but for section 117(1) of the Commonhold and Leasehold Reform Act 2002 and the repeal by that Act of paragraph 3 of Schedule 9 to the Housing Act 1996, they would have been entitled to acquire it by virtue of the amendments of that Chapter made by that paragraph],]
+
+the landlord will—
+
+(i) retain powers of management in respect of the house or premises, and
+
+(ii) have rights against the house or premises in respect of the benefits arising from the exercise elsewhere of his powers of management.
+
+(2) An estate management scheme may make different provision for different parts of the area of the scheme, and shall include provision for terminating or varying all or any of the provisions of the scheme, or excluding part of the area, if a change of circumstances makes it appropriate, or for enabling it to be done by or with the approval of [[^F144]the appropriate tribunal].
+
+(3) Without prejudice to any other provision of this section, an estate management scheme may provide for all or any of the following matters—
+
+(a) for regulating the redevelopment, use or appearance of property in which tenants have acquired the landlord’s interest as mentioned in subsection (1)(a) or (b);
+
+(b) for empowering the landlord for the time being to carry out works of maintenance, repair, renewal or replacement in relation to any such property or carry out work to remedy a failure in respect of any such property to comply with the scheme, or for making the operation of any provisions of the scheme conditional on his doing so or on the provision or maintenance by him of services, facilities or amenities of any description;
+
+(c) for imposing on persons from time to time occupying or interested in any such property obligations in respect of the carrying out of works of maintenance, repair, renewal or replacement in relation to the property or property used or enjoyed by them in common with others, or in respect of costs incurred by the landlord for the time being on any matter referred to in this paragraph or in paragraph (b) above [[^F145]provided that where obligations are imposed in relation to an occupation contract they are not incompatible with a fundamental provision of the Renting Homes (Wales) Act 2016 (anaw 1)];
+
+(d) for the inspection from time to time of any such property on behalf of the landlord for the time being, and for the recovery by him of sums due to him under the scheme in respect of any such property by means of a charge on the property;
+
+and the landlord for the time being shall have, for the enforcement of any charge imposed under the scheme, the same powers and remedies under the [^M33]Law of Property Act 1925 and otherwise as if he were a mortgagee by deed having powers of sale and leasing and of appointing a receiver.
+
+[[^F146](3A) In this section, the following terms have the same meaning as in the Renting Homes (Wales) Act 2016 (anaw 1)—
+
+(a) “fundamental provision” (see section 18 (see also section 19) of that Act);
+
+(b) “occupation contract” (see section 7 of that Act).]
+
+(4) Except as provided by the scheme, the operation of an estate management scheme shall not be affected by any disposition or devolution of the landlord’s interest in the property within the area of the scheme or in parts of that property; but the scheme—
+
+(a) shall include provision for identifying the person who is for the purposes of the scheme to be treated as the landlord for the time being; and
+
+(b) shall also include provision for transferring, or allowing the landlord for the time being to transfer, all or any of the powers and rights conferred by the scheme on the landlord for the time being to a local authority or other body, including a body constituted for the purpose.
+
+(5) Without prejudice to the generality of paragraph (b) of subsection (4), an estate management scheme may provide for the operation of any provision for transfer included in the scheme in accordance with that paragraph to be dependent—
+
+(a) on a determination of [[^F147]the appropriate tribunal] effecting or approving the transfer;
+
+(b) on such other circumstances as the scheme may provide.
+
+(6) An estate management scheme may extend to property in which the landlord’s interest is disposed of otherwise than as mentioned in subsection (1)(a) or (b) (whether residential property or not), so as to make that property, or allow it to be made, subject to any such provision as is or might be made by the scheme for property in which tenants acquire the landlord’s interest as mentioned in either of those provisions.
+
+(7) In this Chapter references to the landlord for the time being shall have effect, in relation to powers and rights transferred to a local authority or other body as contemplated by subsection (4)(b) above, as references to that authority or body.
+
+[[^F148](8) For the purposes of this Chapter, “appropriate tribunal” means—
+
+(a) in relation to an area or areas in England, the First-tier Tribunal or, where determined by or under Tribunal Procedure Rules, the Upper Tribunal; and
+
+(b) in relation to an area or areas in Wales, a leasehold valuation tribunal.]
+
+#### 70 Approval by [^F149]... tribunal of estate management scheme.
+
+(1) [[^F150]The appropriate tribunal] may, on an application made by a landlord for the approval of a scheme submitted by him to the tribunal, approve the scheme as an estate management scheme for such area falling within section 69(1) as is specified in the scheme; but any such application must (subject to section 72) be made within the period of [[^F151]two years beginning with the coming into force of section 118 of the Housing Act 1996].
+
+(2) [[^F152]The appropriate tribunal] shall not approve a scheme as an estate management scheme for any area unless it is satisfied that, in order to maintain adequate standards of appearance and amenity and regulate redevelopment within the area in the event of tenants acquiring the interest of the landlord in any property as mentioned in section 69(1)(a) or (b), it is in the general interest that the landlord should retain such powers of management and have such rights falling within section 69(1)(i) and (ii) as are conferred by the scheme.
+
+(3) In considering whether to approve a scheme as an estate management scheme for any area, [[^F153]the appropriate tribunal] shall have regard primarily to—
+
+(a) the benefit likely to result from the scheme to the area as a whole (including houses or premises likely to be acquired from the landlord as mentioned in section 69(1)(a) or (b)); and
+
+(b) the extent to which it is reasonable to impose, for the benefit of the area, obligations on tenants so acquiring the interest of their landlord;
+
+but the tribunal shall also have regard to the past development and present character of the area and to architectural or historical considerations, to neighbouring areas and to the circumstances generally.
+
+(4) [[^F154]The appropriate tribunal] shall not consider any application for it to approve a scheme unless it is satisfied that the applicant has, by advertisement or otherwise, given adequate notice to persons interested—
+
+(a) informing them of the application for approval of the scheme and the provision intended to be made by the scheme, and
+
+(b) inviting them to make representations to the tribunal about the application within a time which appears to the tribunal to be reasonable.
+
+(5) In subsection (4) “persons interested” includes, in particular, in relation to any application for the approval of a scheme for any area (“the scheme area”) within a conservation area—
+
+(a) each local planning authority within whose area any part of the scheme area falls, and
+
+(b) if the whole of the scheme area is in England, the Historic Buildings and Monuments Commission for England.
+
+[[^F155](6) Where the application is to be considered in an oral hearing, the tribunal shall afford to any person making representations under subsection (4)(b) about the application an opportunity to appear at the hearing.]
+
+(7) Subject to the preceding provisions of this section, [[^F156]the appropriate tribunal] shall, after considering the application, approve the scheme in question either—
+
+(a) as originally submitted, or
+
+(b) with any relevant modifications proposed or agreed to by the applicant,
+
+if the scheme (with those modifications, if any) appears to the tribunal—
+
+(i) to be fair and practicable, and
+
+(ii) not to give the landlord a degree of control out of proportion to that previously exercised by him or to that required for the purposes of the scheme.
+
+(8) In subsection (7) “relevant modifications” means modifications relating to the extent of the area to which the scheme is to apply or to the provisions contained in it.
+
+(9) If, having regard to—
+
+(a) the matters mentioned in subsection (3), and
+
+(b) the provision which it is practicable to make by a scheme,
+
+the tribunal thinks it proper to do so, the tribunal may declare that no scheme can be approved for the area in question in pursuance of the application.
+
+(10) [[^F157]The appropriate tribunal] shall not dismiss an application for the approval of a scheme unless—
+
+(a) it makes such a declaration as is mentioned in subsection (9); or
+
+(b) in the opinion of the tribunal the applicant is unwilling to agree to a suitable scheme or is not proceeding in the matter with due despatch.
+
+[[^F158](10A) Any person who makes representations under subsection (4)(b) about an application for the approval of a scheme may appeal from a decision of the tribunal in proceedings on the application.]
+
+(11) A scheme approved under this section as an estate management scheme for an area shall be a local land charge, notwithstanding section 2(a) or (b) of the [^M34]Local Land Charges Act 1975 (matters which are not local land charges), and for the purposes of that Act the landlord for that area shall be treated as the originating authority as respects any such charge.
+
+(12) Where such a scheme is registered in the [^F159]... local land charges register—
+
+(a) the provisions of the scheme relating to property of any description shall so far as they respectively affect the persons from time to time occupying or interested in that property be enforceable by the landlord for the time being against them, as if each of them had covenanted with the landlord for the time being to be bound by the scheme; and
+
+(b) in relation to any acquisition such as is mentioned in section 69(1)(a) above, section 10 of the [^M35]Leasehold Reform Act 1967 (rights to be conveyed on enfranchisement) shall have effect subject to the provisions of the scheme, and the price payable under section 9 of that Act shall be adjusted so far as is appropriate (if at all); and
+
+(c) in relation to any acquisition such as is mentioned in section 69(1)(b) above, section 34 of, and Schedule 7 to, this Act shall have effect subject to the provisions of the scheme, and any price payable under Schedule 6 to this Act shall be adjusted so far as is appropriate (if at all).
+
+(13) Section 10 of the Local Land Charges Act 1975 (compensation for non-registration etc.) shall not apply to schemes which, by virtue of subsection (11) above, are local land charges.
+
+(14) In this section and [[^F160]section 73 as they apply in relation to England,] “conservation area” and “local planning authority” have the same meaning as in the [^M36]Planning (Listed Buildings and Conservation Areas) Act 1990; and in connection with the latter expression—
+
+(a) the expression “the planning Acts” in the [^M37]Town and Country Planning Act 1990 [[^F161]as it applies in relation to England,] shall be treated as including this Act; and
+
+(b) paragraphs 4 and 5 of Schedule 4 to the Planning (Listed Buildings and Conservation Areas) Act 1990 (further provisions as to exercise of functions by different authorities) shall apply in relation to functions under or by virtue of this section or section 73 of this Act as they apply in relation to functions under section 69 of that Act.
+
+[[^F162](15) In this section and section 73 as they apply in relation to Wales—
+
+(a) “conservation area” has the same meaning as in the Historic Environment (Wales) Act 2023;
+
+(b) “local planning authority”‍ is to be interpreted in accordance with Part 1 of the Town and Country Planning Act 1990,
+
+and in that Part as it applies in relation to Wales references to “the planning Acts are to be treated as including this Act.]
+
+#### 71 Applications by two or more landlords or by representative bodies.
+
+(1) Where, on a joint application made by two or more persons as landlords of neighbouring areas, it appears to [[^F163]the appropriate tribunal]—
+
+(a) that a scheme could in accordance with subsections (1) and (2) of section 70 be approved as an estate management scheme for those areas, treated as a unit, if the interests of those persons were held by a single person, and
+
+(b) that the applicants are willing to be bound by the scheme to co-operate in the management of their property in those areas and in the administration of the scheme,
+
+the tribunal may (subject to the provisions of section 70 and subsection (2) below) approve the scheme under that section as an estate management scheme for those areas as a whole.
+
+(2) Any such scheme shall be made subject to conditions (enforceable in such manner as may be provided by the scheme) for securing that the landlords and their successors co-operate as mentioned in subsection (1)(b) above.
+
+(3) Where it appears to [[^F164]the appropriate tribunal]—
+
+(a) that a scheme could, on the application of any landlord or landlords, be approved under section 70 as an estate management scheme for any area or areas, and
+
+(b) that any body of persons—
+
+(i) is so constituted as to be capable of representing for the purposes of the scheme the persons occupying or interested in property in the area or areas (other than the landlord or landlords or his or their licensees), or such of them as are or may become entitled to acquire their landlord’s interest as mentioned in section 69(1)(a) or (b), and
+
+(ii) is otherwise suitable,
+
+an application for the approval of the scheme under section 70 may be made to the tribunal by the representative body alone or by the landlord or landlords alone or by both jointly and, by leave of the tribunal, may be proceeded with by the representative body or by the landlord or landlords despite the fact that the body or landlord or landlords in question did not make the application.
+
+(4) Without prejudice to section 69(4)(b), any such scheme may with the consent of the landlord or landlords, or on such terms as to compensation or otherwise as appear to the tribunal to be just—
+
+(a) confer on the representative body any such rights or powers under the scheme as might be conferred on the landlord or landlords for the time being, or
+
+(b) enable the representative body to participate in the administration of the scheme or in the management by the landlord or landlords of his or their property in the area or areas.
+
+(5) Where any such scheme confers any rights or powers on the representative body in accordance with subsection (4) above, section 70(11) and (12)(a) shall have effect with such modifications (if any) as are provided for in the scheme.
+
+#### 72 Applications after expiry of two-year period.
+
+(1) An application for the approval of a scheme for an area under section 70 (including an application in accordance with section 71(1) or (3)) may be made after the expiry of the period mentioned in subsection (1) of that section if the Secretary of State has, not more than six months previously, consented to the making of such an application for that area or for an area within which that area falls.
+
+(2) The Secretary of State may give consent under subsection (1) to the making of an application (“the proposed application”) only where he is satisfied—
+
+(a) that either or both of the conditions mentioned in subsection (3) apply; and
+
+(b) that adequate notice has been given to persons interested informing them of the request for consent and the purpose of the request.
+
+(3) The conditions referred to in subsection (2)(a) are—
+
+(a) that the proposed application could not have been made before the expiry of the period mentioned in section 70(1); and
+
+(b) that—
+
+(i) any application for the approval under section 70 of a scheme for the area, or part of the area, to which the proposed application relates would probably have been dismissed under section 70(10)(a) had it been made before the expiry of that period; but
+
+(ii) because of a change in any of the circumstances required to be considered under section 70(3) the proposed application would, if made following the giving of consent by the Secretary of State, probably be granted.
+
+(4) A request for consent under subsection (1) must be in writing and must comply with such requirements (if any) as to the form of, or the particulars to be contained in, any such request as the Secretary of State may by regulations prescribe.
+
+(5) The procedure for considering a request for consent under subsection (1) shall be such as may be prescribed by regulations made by the Secretary of State.
+
+#### 73 Applications by certain public bodies.
+
+(1) Where it appears to [[^F165]the appropriate tribunal] after the expiry of the period mentioned in section 70(1) that a scheme could, on the application of any landlord or landlords within that period, have been approved under section 70 as an estate management scheme for any area or areas within a conservation area, an application for the approval of the scheme under that section may, subject to subsections (2) and (3) below, be made to the tribunal by one or more bodies constituting the relevant authority for the purposes of this section.
+
+(2) An application under subsection (1) may only be made if—
+
+(a) no scheme has been approved under section 70 for the whole or any part of the area or areas to which the application relates (“the scheme area”); and
+
+(b) any application which has been made in accordance with section 70(1), 71(1) or 71(3) for the approval of a scheme for the whole or any part of the scheme area has been withdrawn or dismissed; and
+
+(c) no request for consent under section 72(1) which relates to the whole or any part of the scheme area is pending or has been granted within the last six months.
+
+(3) An application under subsection (1) above must be made within the period of six months beginning—
+
+(a) with the date on which the period mentioned in section 70(1) expires, or
+
+(b) if any application has been made as mentioned in subsection (2)(b) above, with the date (or, as the case may be, the latest date) on which any such application is withdrawn or dismissed,
+
+whichever is the later; but if at any time during that period of six months a request of a kind mentioned in subsection (2)(c) above is pending or granted, an application under subsection (1) above may, subject to subsection (2) above, be made within the period of—
+
+(i) six months beginning with the date on which the request is withdrawn or refused, or
+
+(ii) twelve months beginning with the date on which the request is granted,
+
+as the case may be.
+
+(4) A scheme approved on an application under subsection (1) may confer on the applicant or applicants any such rights or powers under the scheme as might have been conferred on the landlord or landlords for the time being.
+
+(5) For the purposes of this section the relevant authority for the scheme area is—
+
+(a) where that area falls wholly within the area of a local planning authority—
+
+(i) that authority; or
+
+(ii) subject to subsection (6), that authority acting jointly with the Historic Buildings and Monuments Commission for England (“the Commission”); or
+
+(iii) subject to subsection (6), the Commission; or
+
+(b) in any other case—
+
+(i) all of the local planning authorities within each of whose areas any part of the scheme area falls, acting jointly; or
+
+(ii) subject to subsection (6), one or more of those authorities acting jointly with the Commission; or
+
+(iii) subject to subsection (6), the Commission.
+
+(6) The Commission may make, or join in the making of, an application under subsection (1) only if—
+
+(a) the whole of the scheme area is in England; and
+
+(b) they have consulted any local planning authority within whose area the whole or any part of the scheme area falls.
+
+(7) Where a scheme is approved on an application under subsection (1) by two or more bodies acting jointly, the scheme shall, if the tribunal considers it appropriate, be made subject to conditions (enforceable in such manner as may be provided by the scheme) for securing that those bodies co-operate in the administration of the scheme.
+
+(8) Where a scheme is approved on an application under subsection (1)—
+
+(a) section 70(11) and (12)(a) shall (subject to subsection (9) below) have effect as if any reference to the landlord, or the landlord for the time being, for the area for which an estate management scheme has been approved were a reference to the applicant or applicants; and
+
+(b) section 70(12)(b) and (c) shall each have effect with the omission of so much of that provision as relates to the adjustment of any such price as is there mentioned.
+
+(9) A scheme so approved shall not be enforceable by a local planning authority in relation to any property falling outside the authority’s area; and in the case of a scheme approved on a joint application made by one or more local planning authorities and the Commission, the scheme may provide for any of its provisions to be enforceable in relation to property falling within the area of a local planning authority either by the authority alone, or by the Commission alone, or by the authority and the Commission acting jointly, as the scheme may provide.
+
+(10) For the purposes of—
+
+(a) section 9(1A) of the [^M38]Leasehold Reform Act 1967 (purchase price on enfranchisement) as it applies in relation to any acquisition such as is mentioned in section 69(1)(a) above, and
+
+(b) paragraph 3 of Schedule 6 to this Act as it applies in relation to any acquisition such as is mentioned in section 69(1)(b) above (including that paragraph as it applies by virtue of paragraph 7 or 11 of that Schedule),
+
+it shall be assumed that any scheme approved under subsection (1) and relating to the property in question had not been so approved, and accordingly any application for such a scheme to be approved, and the possibility of such an application being made, shall be disregarded.
+
+(11) Section 70(14) applies for the purposes of this section.
+
+#### 74 Effect of application for approval on claim to acquire freehold.
+
+(1) Subject to subsections (5) and (6), this subsection applies where—
+
+(a) an application (“the scheme application”) is made for the approval of a scheme as an estate management scheme for any area or a request (“the request for consent”) is made for consent under section 72(1) in relation to any area, and
+
+(b) whether before or after the making of the application or request—
+
+(i) the tenant of a house in that area gives notice of his desire to have the freehold under Part I of the [^M39]Leasehold Reform Act 1967, [^F166]. . .
+
+(ii) a notice is given under section 13 above in respect of any premises in the area [[^F167]and
+
+(c) in the case of an application for the approval of a scheme as an estate management scheme, the scheme would extend to the house or premises if acquired in pursuance of the notice.]
+
+(2) Where subsection (1) applies by virtue of paragraph (b)(i) of that subsection, then—
+
+(a) no further steps need be taken towards the execution of a conveyance to give effect to section 10 of the 1967 Act beyond those which appear to the landlord to be reasonable in the circumstances; and
+
+(b) if the notice referred to in subsection (1)(b)(i) (“the tenant’s notice”) was given before the making of the scheme application or the request for consent, that notice may be withdrawn by a further notice given by the tenant to the landlord.
+
+(3) Where subsection (1) applies by virtue of paragraph (b)(ii) of that subsection, then—
+
+(a) if the notice referred to in that provision (“the initial notice”) was given before the making of the scheme application or the request for consent, the notice may be withdrawn by a further notice given by the nominee purchaser to the reversioner;
+
+(b) unless the initial notice is so withdrawn, the reversioner shall, if he has not already given the nominee purchaser a counter-notice under section 21, give him by the date referred to in subsection (1) of that section a counter-notice which complies with one of the requirements set out in subsection (2) of that section (but in relation to which subsection (3) of that section need not be complied with); and
+
+(c) no proceedings shall be brought under Chapter I in pursuance of the initial notice otherwise than under section 22 or 23, and, if the court under either of those sections makes an order requiring the reversioner to give a further counter-notice to the nominee purchaser, the date by which it is to be given shall be such date as falls two months after subsection (1) above ceases to apply;
+
+but no other counter-notice need be given under Chapter I, and (subject to the preceding provisions of this subsection) no further steps need be taken towards the final determination (whether by agreement or otherwise) of the terms of the proposed acquisition by the nominee purchaser beyond those which appear to the reversioner to be reasonable in the circumstances.
+
+(4) If the tenant’s notice or the initial notice is withdrawn in accordance with subsection (2) or (3) above, section 9(4) of the 1967 Act or (as the case may be) section 33 above shall not have effect to require the payment of any costs incurred in pursuance of that notice.
+
+(5) Where the scheme application is withdrawn or dismissed, subsection (1) does not apply at any time falling after—
+
+(a) the date of the withdrawal of the application, or
+
+(b) the date when the decision of the tribunal dismissing the application becomes final,
+
+as the case may be; and subsection (1) does not apply at any time falling after the date on which a scheme is approved for the area referred to in that subsection, or for any part of it, in pursuance of the scheme application.
+
+(6) Where the request for consent is withdrawn or refused, subsection (1) does not apply at any time falling after the date on which the request is withdrawn or refused, as the case may be; and where the request is granted, subsection (1) does not apply at any time falling more than six months after the date on which it is granted (unless that subsection applies by virtue of an application made in reliance on the consent).
+
+(7) Where, in accordance with subsection (5) or (6), subsection (1) ceases to apply as from a particular date, it shall do so without prejudice to—
+
+(a) the effect of anything done before that date in pursuance of subsection (2) or (3); or
+
+(b) the operation of any provision of this Part, or of regulations made under it, in relation to anything so done.
+
+(8) If, however, no notice of withdrawal has been given in accordance with subsection (3) before the date when subsection (1) so ceases to apply and before that date either—
+
+(a) the reversioner has given the nominee purchaser a counter-notice under section 21 complying with the requirement set out in subsection (2)(a) of that section, or
+
+(b) section 23(6) would (but for subsection (3) above) have applied to require the reversioner to give a further counter-notice to the nominee purchaser,
+
+the reversioner shall give a further counter-notice to the nominee purchaser within the period of two months beginning with the date when subsection (1) ceases to apply.
+
+(9) Subsections (3) to (5) of section 21 shall apply to any further counter-notice required to be given by the reversioner under subsection (8) above as if it were a counter-notice under that section complying with the requirement set out in subsection (2)(a) of that section; and sections 24 and 25 shall apply in relation to any such counter-notice as they apply in relation to one required by section 22(3).
+
+(10) In this section—
+
+- “the 1967 Act” means the [^M40]Leasehold Reform Act 1967; and
+- “the nominee purchaser” and “the reversioner” have the same meaning as in Chapter I of this Part of this Act;
+
+and references to the approval of a scheme for any area include references to the approval of a scheme for two or more areas in accordance with section 71 or 73 above.
+
+#### 75 Variation of existing schemes.
+
+(1) Where a scheme under section 19 of the [^M41]Leasehold Reform Act 1967 (estate management schemes in connection with enfranchisement under that Act) includes, in pursuance of subsection (6) of that section, provision for enabling the termination or variation of the scheme, or the exclusion of part of the area of the scheme, by or with the approval of the High Court, that provision shall have effect—
+
+(a) as if any reference to the High Court were a reference to [[^F168]the appropriate tribunal], and
+
+(b) with such modifications (if any) as are necessary in consequence of paragraph (a).
+
+(2) A scheme under that section may be varied by or with the approval of [[^F169]the appropriate tribunal] for the purpose of, or in connection with, extending the scheme to property within the area of the scheme in which the landlord’s interest may be acquired as mentioned in section 69(1)(a) above.
+
+(3) Where any such scheme has been varied in accordance with subsection (2) above, section 19 of that Act shall apply as if the variation had been effected under provisions included in the scheme in pursuance of subsection (6) of that section (and accordingly the scheme may be further varied under provisions so included).
+
+[^F170]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F170]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Chapter V — TENANTS’ RIGHT TO MANAGEMENT AUDIT
+
+#### 76 Right to audit management by landlord.
+
+(1) This Chapter has effect to confer on two or more qualifying tenants of dwellings held on leases from the same landlord the right, exercisable subject to and in accordance with this Chapter, to have an audit carried out on their behalf which relates to the management of the relevant premises and any appurtenant property by or on behalf of the landlord.
+
+(2) That right shall be exercisable—
+
+(a) where the relevant premises consist of or include two dwellings let to qualifying tenants of the same landlord, by either or both of those tenants; and
+
+(b) where the relevant premises consist of or include three or more dwellings let to qualifying tenants of the same landlord, by not less than two-thirds of those tenants;
+
+and in this Chapter the dwellings let to those qualifying tenants are referred to as “the constituent dwellings”.
+
+(3) In relation to an audit on behalf of two or more qualifying tenants—
+
+(a) “the relevant premises” means so much of—
+
+(i) the building or buildings containing the dwellings let to those tenants, and
+
+(ii) any other building or buildings,
+
+as constitutes premises in relation to which management functions are discharged in respect of the costs of which common service charge contributions are payable under the leases of those qualifying tenants; and
+
+(b) “appurtenant property” means so much of any property not contained in the relevant premises as constitutes property in relation to which any such management functions are discharged.
+
+(4) This Chapter also has effect to confer on a single qualifying tenant of a dwelling the right, exercisable subject to and in accordance with this Chapter, to have an audit carried out on his behalf which relates to the management of the relevant premises and any appurtenant property by or on behalf of the landlord.
+
+(5) That right shall be exercisable by a single qualifying tenant of a dwelling where the relevant premises contain no other dwelling let to a qualifying tenant apart from that let to him.
+
+(6) In relation to an audit on behalf of a single qualifying tenant—
+
+(a) “the relevant premises” means so much of—
+
+(i) the building containing the dwelling let to him, and
+
+(ii) any other building or buildings,
+
+as constitutes premises in relation to which management functions are discharged in respect of the costs of which a service charge is payable under his lease (whether as a common service charge contribution or otherwise); and
+
+(b) “appurtenant property” means so much of any property not contained in the relevant premises as constitutes property in relation to which any such management functions are discharged.
+
+(7) The provisions of sections 78 to 83 shall, with any necessary modifications, have effect in relation to an audit on behalf of a single qualifying tenant as they have effect in relation to an audit on behalf of two or more qualifying tenants.
+
+(8) For the purposes of this section common service charge contributions are payable by two or more persons under their leases if they may be required under the terms of those leases to contribute to the same costs by the payment of service charges.
+
+#### 77 Qualifying tenants.
+
+(1) Subject to the following provisions of this section, a tenant is a qualifying tenant of a dwelling for the purposes of this Chapter if—
+
+(a) he is a tenant of the dwelling under a long lease other than a business lease; and
+
+(b) any service charge is payable under the lease.
+
+(2) For the purposes of subsection (1) a lease is a long lease if—
+
+(a) it is a lease falling within any of paragraphs (a) to (c) of subsection (1) of section 7; or
+
+(b) it is a shared ownership lease (within the meaning of that section), whether granted in pursuance of Part V of the [^M42]Housing Act 1985 or otherwise and whatever the share of the tenant under it.
+
+(3) No dwelling shall have more than one qualifying tenant at any one time.
+
+(4) Accordingly—
+
+(a) where a dwelling is for the time being let under two or more leases falling within subsection (1), any tenant under any of those leases which is superior to that held by any other such tenant shall not be a qualifying tenant of the dwelling for the purposes of this Chapter; and
+
+(b) where a dwelling is for the time being let to joint tenants under a lease falling within subsection (1), the joint tenants shall (subject to paragraph (a)) be regarded for the purposes of this Chapter as jointly constituting the qualifying tenant of the dwelling.
+
+(5) A person can, however, be (or be among those constituting) the qualifying tenant of each of two or more dwellings at the same time, whether he is tenant of those dwellings under one lease or under two or more separate leases.
+
+(6) Where two or more persons constitute the qualifying tenant of a dwelling in accordance with subsection (4)(b), any one or more of those persons may sign a notice under section 80 on behalf of both or all of them.
+
+#### 78 Management audits.
+
+(1) The audit referred to in section 76(1) is an audit carried out for the purpose of ascertaining—
+
+(a) the extent to which the obligations of the landlord which—
+
+(i) are owed to the qualifying tenants of the constituent dwellings, and
+
+(ii) involve the discharge of management functions in relation to the relevant premises or any appurtenant property,
+
+are being discharged in an efficient and effective manner; and
+
+(b) the extent to which sums payable by those tenants by way of service charges are being applied in an efficient and effective manner;
+
+and in this Chapter any such audit is referred to as a “management audit”.
+
+(2) In determining whether any such obligations as are mentioned in subsection (1)(a) are being discharged in an efficient and effective manner, regard shall be had to any applicable provisions of any code of practice for the time being approved by the Secretary of State under section 87.
+
+(3) A management audit shall be carried out by a person who—
+
+(a) is qualified for appointment by virtue of subsection (4); and
+
+(b) is appointed—
+
+(i) in the circumstances mentioned in section 76(2)(a), by either or both of the qualifying tenants of the constituent dwellings, or
+
+(ii) in the circumstances mentioned in section 76(2)(b), by not less than two-thirds of the qualifying tenants of the constituent dwellings;
+
+and in this Chapter any such person is referred to as “the auditor”.
+
+(4) A person is qualified for appointment for the purposes of subsection (3) above if—
+
+(a) he has the necessary qualification (within the meaning of subsection (1) of section 28 of the 1985 Act (meaning of “qualified accountant”)) or is a qualified surveyor;
+
+(b) he is not disqualified from acting (within the meaning of that subsection); and
+
+(c) he is not a tenant of any premises contained in the relevant premises.
+
+(5) For the purposes of subsection (4)(a) above a person is a qualified surveyor if he is a fellow or professional associate of the Royal Institution of Chartered Surveyors or of the Incorporated Society of Valuers and Auctioneers or satisfies such other requirement or requirements as may be prescribed by regulations made by the Secretary of State.
+
+(6) The auditor may appoint such persons to assist him in carrying out the audit as he thinks fit.
+
+#### 79 Rights exercisable in connection with management audits.
+
+(1) Where the qualifying tenants of any dwellings exercise under section 80 their right to have a management audit carried out on their behalf, the rights conferred on the auditor by subsection (2) below shall be exercisable by him in connection with the audit.
+
+(2) The rights conferred on the auditor by this subsection are—
+
+(a) a right to require the landlord—
+
+(i) to supply him with such a summary as is referred to in section 21(1) of the 1985 Act (request for summary of relevant costs) in connection with any service charges payable by the qualifying tenants of the constituent dwellings, and
+
+(ii) to afford him reasonable facilities for inspecting, or taking copies of or extracts from, the accounts, receipts and other documents supporting any such summary;
+
+(b) a right to require the landlord or any relevant person to afford him reasonable facilities for inspecting any other documents sight of which is reasonably required by him for the purpose of carrying out the audit; and
+
+(c) a right to require the landlord or any relevant person to afford him reasonable facilities for taking copies of or extracts from any documents falling within paragraph (b).
+
+(3) The rights conferred on the auditor by subsection (2) shall be exercisable by him—
+
+(a) in relation to the landlord, by means of a notice under section 80; and
+
+(b) in relation to any relevant person, by means of a notice given to that person at (so far as is reasonably practicable) the same time as a notice under section 80 is given to the landlord;
+
+and, where a notice is given to any relevant person in accordance with paragraph (b) above, a copy of that notice shall be given to the landlord by the auditor.
+
+(4) The auditor shall also be entitled, on giving notice in accordance with section 80, to carry out an inspection of any common parts comprised in the relevant premises or any appurtenant property.
+
+(5) The landlord or (as the case may be) any relevant person shall—
+
+(a) where facilities for the inspection of any documents are required under subsection (2)(a)(ii) or (b), make those facilities available free of charge;
+
+(b) where any documents are required to be supplied under subsection (2)(a)(i) or facilities for the taking of copies or extracts are required under subsection (2)(a)(ii) or (c), be entitled to supply those documents or (as the case may be) make those facilities available on payment of such reasonable charge as he may determine.
+
+(6) The requirement imposed on the landlord by subsection (5)(a) to make any facilities available free of charge shall not be construed as precluding the landlord from treating as part of his costs of management any costs incurred by him in connection with making those facilities so available.
+
+(7) In this Chapter “relevant person” means a person (other than the landlord) who—
+
+(a) is charged with responsibility—
+
+(i) for the discharge of any such obligations as are mentioned in section 78(1)(a), or
+
+(ii) for the application of any such service charges as are mentioned in section 78(1)(b); or
+
+(b) has a right to enforce payment of any such service charges.
+
+(8) In this Chapter references to the auditor in the context of—
+
+(a) being afforded any such facilities as are mentioned in subsection (2), or
+
+(b) the carrying out of any inspection under subsection (4),
+
+shall be read as including a person appointed by the auditor under section 78(6).
+
+#### 80 Exercise of right to have a management audit.
+
+(1) The right of any qualifying tenants to have a management audit carried out on their behalf shall be exercisable by the giving of a notice under this section.
+
+(2) A notice given under this section—
+
+(a) must be given to the landlord by the auditor, and
+
+(b) must be signed by each of the tenants on whose behalf it is given.
+
+(3) Any such notice must—
+
+(a) state the full name of each of those tenants and the address of the dwelling of which he is a qualifying tenant;
+
+(b) state the name and address of the auditor;
+
+(c) specify any documents or description of documents—
+
+(i) which the landlord is required to supply to the auditor under section 79(2)(a)(i), or
+
+(ii) in respect of which he is required to afford the auditor facilities for inspection or for taking copies or extracts under any other provision of section 79(2); and
+
+(d) if the auditor proposes to carry out an inspection under section 79(4), state the date on which he proposes to carry out the inspection.
+
+(4) The date specified under subsection (3)(d) must be a date falling not less than one month nor more than two months after the date of the giving of the notice.
+
+(5) A notice is duly given under this section to the landlord of any qualifying tenants if it is given to a person who receives on behalf of the landlord the rent payable by any such tenants; and a person to whom such a notice is so given shall forward it as soon as may be to the landlord.
+
+#### 81 Procedure following giving of notice under section 80.
+
+(1) Where the landlord is given a notice under section 80, then within the period of one month beginning with the date of the giving of the notice, he shall—
+
+(a) supply the auditor with any document specified under subsection (3)(c)(i) of that section, and afford him, in respect of any document falling within section 79(2)(a)(ii), any facilities specified in relation to it under subsection (3)(c)(ii) of section 80;
+
+(b) in the case of every other document or description of documents specified in the notice under subsection (3)(c)(ii) of that section, either—
+
+(i) afford the auditor facilities for inspection or (as the case may be) taking copies or extracts in respect of that document or those documents, or
+
+(ii) give the auditor a notice stating that he objects to doing so for such reasons as are specified in the notice; and
+
+(c) if a date is specified in the notice under subsection (3)(d) of that section, either approve the date or propose another date for the carrying out of an inspection under section 79(4).
+
+(2) Any date proposed by the landlord under subsection (1)(c) must be a date falling not later than the end of the period of two months beginning with the date of the giving of the notice under section 80.
+
+(3) Where a relevant person is given a notice under section 79 requiring him to afford the auditor facilities for inspection or taking copies or extracts in respect of any documents or description of documents specified in the notice, then within the period of one month beginning with the date of the giving of the notice, he shall, in the case of every such document or description of documents, either—
+
+(a) afford the auditor the facilities required by him; or
+
+(b) give the auditor a notice stating that he objects to doing so for such reasons as are specified in the notice.
+
+(4) If by the end of the period of two months beginning with—
+
+(a) the date of the giving of the notice under section 80, or
+
+(b) the date of the giving of such a notice under section 79 as is mentioned in subsection (3) above,
+
+the landlord or (as the case may be) a relevant person has failed to comply with any requirement of the notice, the court may, on the application of the auditor, make an order requiring the landlord or (as the case may be) the relevant person to comply with that requirement within such period as is specified in the order.
+
+(5) The court shall not make an order under subsection (4) in respect of any document or documents unless it is satisfied that the document or documents falls or fall within paragraph (a) or (b) of section 79(2).
+
+(6) If by the end of the period of two months specified in subsection (2) no inspection under section 79(4) has been carried out by the auditor, the court may, on the application of the auditor, make an order providing for such an inspection to be carried out on such date as is specified in the order.
+
+(7) Any application for an order under subsection (4) or (6) must be made before the end of the period of four months beginning with—
+
+(a) in the case of an application made in connection with a notice given under section 80, the date of the giving of that notice; or
+
+(b) in the case of an application made in connection with such a notice under section 79 as is mentioned in subsection (3) above, the date of the giving of that notice.
+
+#### 82 Requirement relating to information etc. held by superior landlord.
+
+(1) Where the landlord is required by a notice under section 80 to supply any summary falling within section 79(2)(a), and any information necessary for complying with the notice so far as relating to any such summary is in the possession of a superior landlord—
+
+(a) the landlord shall make a written request for the relevant information to the person who is his landlord (and so on, if that person is himself not the superior landlord);
+
+(b) the superior landlord shall comply with that request within the period of one month beginning with the date of the making of the request; and
+
+(c) the landlord who received the notice shall then comply with it so far as relating to any such summary within the time allowed by section 81(1) or such further time, if any, as is reasonable.
+
+(2) Where—
+
+(a) the landlord is required by a notice under section 80 to afford the auditor facilities for inspection or taking copies or extracts in respect of any documents or description of documents specified in the notice, and
+
+(b) any of the documents in question is in the custody or under the control of a superior landlord,
+
+the landlord shall on receiving the notice inform the auditor as soon as may be of that fact and of the name and address of the superior landlord, and the auditor may then give the superior landlord a notice requiring him to afford the facilities in question in respect of the document.
+
+(3) Subsections (3) to (5) and (7) of section 81 shall, with any necessary modifications, have effect in relation to a notice given to a superior landlord under subsection (2) above as they have effect in relation to any such notice given to a relevant person as is mentioned in subsection (3) of that section.
+
+#### 83 Supplementary provisions.
+
+(1) Where—
+
+(a) a notice has been given to a landlord under section 80, and
+
+(b) at a time when any obligations arising out of the notice remain to be discharged by him—
+
+(i) he disposes of the whole or part of his interest as landlord of the qualifying tenants of the constituent dwellings, and
+
+(ii) the person acquiring any such interest of the landlord is in a position to discharge any of those obligations to any extent,
+
+that person shall be responsible for discharging those obligations to that extent, as if he had been given the notice under that section.
+
+(2) If the landlord is, despite any such disposal, still in a position to discharge those obligations to the extent referred to in subsection (1), he shall remain responsible for so discharging them; but otherwise the person referred to in that subsection shall be responsible for so discharging them to the exclusion of the landlord.
+
+(3) Where a person is so responsible for discharging any such obligations (whether with the landlord or otherwise)—
+
+(a) references to the landlord in section 81 shall be read as including, or as, references to that person to such extent as is appropriate to reflect his responsibility for discharging those obligations; but
+
+(b) in connection with the discharge of any such obligations by that person, that section shall apply as if any reference to the date of the giving of the notice under section 80 were a reference to the date of the disposal referred to in subsection (1).
+
+(4) Where—
+
+(a) a notice has been given to a relevant person under section 79, and
+
+(b) at a time when any obligations arising out of the notice remain to be discharged by him, he ceases to be a relevant person, but
+
+(c) he is, despite ceasing to be a relevant person, still in a position to discharge those obligations to any extent,
+
+he shall nevertheless remain responsible for discharging those obligations to that extent; and section 81 shall accordingly continue to apply to him as if he were still a relevant person.
+
+(5) Where—
+
+(a) a notice has been given to a landlord under section 80, or
+
+(b) a notice has been given to a relevant person under section 79,
+
+then during the period of twelve months beginning with the date of that notice, no subsequent such notice may be given to the landlord or (as the case may be) that person on behalf of any persons who, in relation to the earlier notice, were qualifying tenants of the constituent dwellings.
+
+#### 84 Interpretation of Chapter V.
+
+In this Chapter—
+
+- “the 1985 Act” means the [^M43]Landlord and Tenant Act 1985;
+- “appurtenant property” shall be construed in accordance with section 76(3) or (6);
+- “the auditor”, in relation to a management audit, means such a person as is mentioned in section 78(3);
+- “the constituent dwellings” means the dwellings referred to in section 76(2)(a) or (b) (as the case may be);
+- “landlord” means immediate landlord;
+- “management audit” means such an audit as is mentioned in section 78(1);
+- “management functions” includes functions with respect to the provision of services or the repair, maintenance [[^F171], improvement] or insurance of property;
+- “relevant person” has the meaning given by section 79(7);
+- “the relevant premises” shall be construed in accordance with section 76(3) or (6);
+- “service charge” has the meaning given by section 18(1) of the 1985 Act.
+
+### Chapter VI — MISCELLANEOUS
+
+#### Compulsory acquisition of landlord’s interest
+
+##### 85 Amendment of Part III of Landlord and Tenant Act 1987.
+
+(1) Part III of the [^M44]Landlord and Tenant Act 1987 (compulsory acquisition by tenants of their landlord’s interest) shall be amended as follows.
+
+(2) In section 25 (compulsory acquisition of landlord’s interest by qualifying tenants)—
+
+(a) for subsection (2)(c) there shall be substituted—
+
+> (c) the total number of flats held by such tenants is not less than two-thirds of the total number of flats contained in the premises.
+
+; and
+
+(b) subsection (3) shall be omitted.
+
+(3) In section 27(4) (meaning of requisite majority in relation to qualifying tenants), for “more than 50 per cent.” there shall be substituted “ not less than two-thirds ”.
+
+(4) In section 29(2) (conditions for making acquisition orders), the words from “and (c)” onwards shall be omitted.
+
+#### Variation of leases
+
+##### 86 Variation of leases under Part IV of Landlord and Tenant Act 1987.
+
+In section 35(4) of the Landlord and Tenant Act 1987 (variation of lease on grounds that it fails to make satisfactory provision with respect to the computation of a service charge), in paragraph (c), for “exceed” there shall be substituted “ either exceed or be less than ”.
+
+#### Codes of practice
+
+##### 87 Approval by Secretary of State of codes of management practice.
+
+(1) The Secretary of State may, if he considers it appropriate to do so, by order—
+
+(a) approve any code of practice—
+
+(i) which appears to him to be designed to promote desirable practices in relation to any matter or matters directly or indirectly concerned with the management of residential property by relevant persons; and
+
+(ii) which has been submitted to him for his approval;
+
+(b) approve any modifications of any such code which have been so submitted; or
+
+(c) withdraw his approval for any such code or modifications.
+
+(2) The Secretary of State shall not approve any such code or any modifications of any such code unless he is satisfied that arrangements have been made for the text of the code or the modifications to be published in such manner as he considers appropriate for bringing the provisions of the code or the modifications to the notice of those likely to be affected by them (which, in the case of modifications of a code, may include publication of a text of the code incorporating the modifications).
+
+(3) The power of the Secretary of State under this section to approve a code of practice which has been submitted to him for his approval includes power to approve a part of any such code; and references in this section to a code of practice may accordingly be read as including a reference to a part of a code of practice.
+
+(4) At any one time there may be two or more codes of practice for the time being approved under this section.
+
+(5) A code of practice approved under this section may make different provision with respect to different cases or descriptions of cases, including different provision for different areas.
+
+(6) Without prejudice to the generality of subsections (1) and (5)—
+
+(a) a code of practice approved under this section may, in relation to any such matter as is referred to in subsection (1), make provision in respect of relevant persons who are under an obligation to discharge any function in connection with that matter as well as in respect of relevant persons who are not under such an obligation; and
+
+(b) any such code may make provision with respect to—
+
+(i) the resolution of disputes with respect to residential property between relevant persons and the tenants of such property;
+
+(ii) competitive tendering for works in connection with such property; and
+
+(iii) the administration of trusts in respect of amounts paid by tenants by way of service charges.
+
+(7) A failure on the part of any person to comply with any provision of a code of practice for the time being approved under this section shall not of itself render him liable to any proceedings; but in any proceedings before a court or tribunal—
+
+(a) any code of practice approved under this section shall be admissible in evidence; and
+
+(b) any provision of any such code which appears to the court or tribunal to be relevant to any question arising in the proceedings shall be taken into account in determining that question.
+
+(8) For the purposes of this section—
+
+(a) “relevant person” means any landlord of residential property or any person who discharges management functions in respect of such property, and for this purpose “management functions” includes functions with respect to the provision of services or the repair, maintenance [[^F172], improvement] or insurance of such property;
+
+(b) “residential property” means any building or part of a building which consists of one or more dwellings let on leases, but references to residential property include—
+
+(i) any garage, outhouse, garden, yard and appurtenances belonging to or usually enjoyed with such dwellings,
+
+(ii) any common parts of any such building or part, and
+
+(iii) any common facilities which are not within any such building or part; and
+
+(c) “service charge” means an amount payable by a tenant of a dwelling as part of or in addition to the rent—
+
+(i) which is payable, directly or indirectly, for services, repairs, maintenance [[^F173], improvements] or insurance or any relevant person’s costs of management, and
+
+(ii) the whole or part of which varies or may vary according to the costs or estimated costs incurred or to be incurred by any relevant person in connection with the matters mentioned in sub-paragraph (i).
+
+(9) This section applies in relation to dwellings let on licences to occupy as it applies in relation to dwellings let on leases, and references in this section to landlords and tenants of residential property accordingly include references to licensors and licensees of such property.
+
+#### Jurisdiction of [^F174]... tribunals in relation to enfranchisement etc. of Crown land
+
+##### 88 Jurisdiction of [^F175]... tribunals in relation to enfranchisement etc. of Crown land.
+
+(1) This section applies where any tenant under a lease from the Crown is proceeding with a view to acquiring the freehold or an extended lease of a house and premises in circumstances in which, but for the existence of any Crown interest in the land subject to the lease, he would be entitled to acquire the freehold or such an extended lease under Part I of the [^M45]Leasehold Reform Act 1967.
+
+(2) Where—
+
+(a) this section applies in accordance with subsection (1), and
+
+(b) any question arises in connection with the acquisition of the freehold or an extended lease of the house and premises which is such that, if the tenant were proceeding as mentioned in that subsection in pursuance of a claim made under Part I of that Act, [[^F176]the appropriate tribunal] [^F177]... would have jurisdiction to determine it in proceedings under that Part, and
+
+(c) it is agreed between—
+
+(i) the appropriate authority and the tenant, and
+
+(ii) all other persons (if any) whose interests would fall to be represented in proceedings brought under that Part for the determination of that question by such a tribunal,
+
+that that question should be determined by such a tribunal,
+
+[[^F176]the appropriate tribunal] shall have jurisdiction to determine that question.
+
+[^F178]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F178]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F178]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6) For the purposes of this section “lease from the Crown” means a lease of land in which there is, or has during the subsistence of the lease been, a Crown interest superior to the lease; and “Crown interest” and “the appropriate authority” in relation to a Crown interest mean respectively—
+
+(a) an interest comprised in the Crown Estate, and the Crown Estate Commissioners;
+
+(b) an interest belonging to Her Majesty in right of the Duchy of Lancaster, and the Chancellor of the Duchy;
+
+(c) an interest belonging to the Duchy of Cornwall, and such person as the Duke of Cornwall or the possessor for the time being of the Duchy appoints;
+
+(d) any other interest belonging to a government department or held on behalf of Her Majesty for the purposes of a government department, and the Minister in charge of that department.
+
+[[^F179](6A) For the purposes of subsection (2), “appropriate tribunal” means—
+
+(a) in relation to a house and premises in England, the First-tier Tribunal or, where determined by or under Tribunal Procedure Rules, the Upper Tribunal; and
+
+(b) in relation to a house and premises in Wales, a leasehold valuation tribunal.]
+
+[^F180]7 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Provision of accommodation for persons with mental disorders
+
+##### 89 Avoidance of provisions preventing occupation of leasehold property by persons with mental disorders.
+
+(1) Any agreement relating to a lease of any property which comprises or includes a dwelling (whether contained in the instrument creating the lease or not and whether made before the creation of the lease or not) shall be void in so far as it would otherwise have the effect of prohibiting or imposing any restriction on—
+
+(a) the occupation of the dwelling, or of any part of the dwelling, by persons with mental disorders (within the meaning of the [^M46]Mental Health Act 1983), or
+
+(b) the provision of accommodation within the dwelling for such persons.
+
+(2) Subsection (1) applies to any agreement made after the coming into force of this section.
+
+### Chapter VII — GENERAL
+
+#### 90 Jurisdiction of county courts.
+
+(1) Any jurisdiction expressed to be conferred on the court by this Part shall be exercised by [[^F181]the county court].
+
+(2) There shall also be brought in [[^F181]the county court] any proceedings for determining any question arising under or by virtue of any provision of Chapter I or II or this Chapter which is not a question falling within its jurisdiction by virtue of subsection (1) or one falling within the jurisdiction of [[^F182]the appropriate tribunal (within the meaning of section 91) by virtue of that section].
+
+(3) Where, however, there are brought in the High Court any proceedings which, apart from this subsection, are proceedings within the jurisdiction of the High Court, the High Court shall have jurisdiction to hear and determine any proceedings joined with those proceedings which are proceedings within the jurisdiction of [[^F181]the county court] by virtue of subsection (1) or (2).
+
+(4) Where any proceedings are brought in [[^F181]the county court] by virtue of subsection (1) or (2), the court shall have jurisdiction to hear and determine any other proceedings joined with those proceedings, despite the fact that, apart from this subsection, those other proceedings would be outside the court’s jurisdiction.
+
+#### 91 Jurisdiction of [^F183]... tribunals.
+
+(1) [^F184]... any question arising in relation to any of the matters specified in subsection (2) shall, in default of agreement, be determined by [[^F185]the appropriate tribunal].
+
+(2) Those matters are—
+
+(a) the terms of acquisition relating to—
+
+(i) any interest which is to be acquired by a nominee purchaser in pursuance of Chapter I, or
+
+(ii) any new lease which is to be granted to a tenant in pursuance of Chapter II,
+
+including in particular any matter which needs to be determined for the purposes of any provision of Schedule 6 or 13;
+
+(b) the terms of any lease which is to be granted in accordance with section 36 and Schedule 9;
+
+(c) the amount of any payment falling to be made by virtue of section 18(2);
+
+[[^F186](ca) the amount of any compensation payable under section 37A;]
+
+[[^F187](cb) the amount of any compensation payable under section 61A;]
+
+(d) the amount of any costs payable by any person or persons by virtue of any provision of Chapter I or II and, in the case of costs to which section 33(1) or 60(1) applies, the liability of any person or persons by virtue of any such provision to pay any such costs; and
+
+(e) the apportionment between two or more persons of any amount (whether of costs or otherwise) payable by virtue of any such provision.
+
+[^F188]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F188]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F188]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F188]6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F188]7 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F188]8 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(9) [[^F189]The appropriate tribunal] may, when determining the property in which any interest is to be acquired in pursuance of a notice under section 13 or 42, specify in its determination property which is less extensive than that specified in that notice.
+
+[^F190]10 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(11) In this section—
+
+- “the nominee purchaser” and “the participating tenants” have the same meaning as in Chapter I;
+- “the terms of acquisition” shall be construed in accordance with section 24(8) or section 48(7), as appropriate;
+
+[^F191]...
+
+[[^F192](12) For the purposes of this section, “appropriate tribunal” means—
+
+(a) in relation to property in England, the First-tier Tribunal or, where determined by or under Tribunal Procedure Rules, the Upper Tribunal; and
+
+(b) in relation to property in Wales, a leasehold valuation tribunal.]
+
+#### 92 Enforcement of obligations under Chapters I and II.
+
+(1) The court may, on the application of any person interested, make an order requiring any person who has failed to comply with any requirement imposed on him under or by virtue of any provision of Chapter I or II to make good the default within such time as is specified in the order.
+
+(2) An application shall not be made under subsection (1) unless—
+
+(a) a notice has been previously given to the person in question requiring him to make good the default, and
+
+(b) more than 14 days have elapsed since the date of the giving of that notice without his having done so.
+
+#### 93 Agreements excluding or modifying rights of tenant under Chapter I or II.
+
+(1) Except as provided by this section, any agreement relating to a lease (whether contained in the instrument creating the lease or not and whether made before the creation of the lease or not) shall be void in so far as it—
+
+(a) purports to exclude or modify—
+
+(i) any entitlement to participate in the making of a claim to exercise the right to collective enfranchisement under Chapter I,
+
+(ii) any right to acquire a new lease under Chapter II, or
+
+(iii) any right to compensation under section 61; or
+
+(b) provides for the termination or surrender of the lease in the event of the tenant becoming a participating tenant for the purposes of Chapter I or giving a notice under section 42; or
+
+(c) provides for the imposition of any penalty or disability on the tenant in that event.
+
+(2) Subsection (1) shall not be taken to preclude a tenant from surrendering his lease, and shall not—
+
+(a) invalidate any agreement for the acquisition on behalf of a tenant of an interest superior to his lease, or for the acquisition by a tenant of a new lease, on terms different from those provided by Chapters I and II; or
+
+(b) where a tenant has become a participating tenant for the purposes of Chapter I or has given a notice under section 42, invalidate—
+
+(i) any agreement that the notice given under section 13 or (as the case may be) section 42 shall cease to have effect, or
+
+(ii) any provision of such an agreement excluding or restricting for a period not exceeding three years any such entitlement or right as is mentioned in subsection (1)(a)(i) or (ii); or
+
+(c) where a tenant’s right to compensation under section 61 has accrued, invalidate any agreement as to the amount of the compensation.
+
+(3) Where—
+
+(a) a tenant having the right to acquire a new lease under Chapter II—
+
+(i) has entered into an agreement for the surrender of his lease without the prior approval of the court, or
+
+(ii) has entered into an agreement for the grant of a new lease without any of the terms of acquisition (within the meaning of that Chapter) having been determined by [[^F193]the appropriate tribunal (within the meaning of that Chapter)] under that Chapter, or
+
+(b) a tenant has been granted a new lease under Chapter II or by virtue of subsection (4) below and, on his landlord claiming possession for the purposes of redevelopment, enters into an agreement without the prior approval of the court for the surrender of the lease,
+
+then on the application of the tenant [[^F194]the county court], or any court in which proceedings are brought on the agreement, may, if in its opinion the tenant is not adequately recompensed under the agreement for his rights under Chapter II, set aside or vary the agreement and give such other relief as appears to it to be just having regard to the situation and conduct of the parties.
+
+(4) Where a tenant has the right to acquire a new lease under Chapter II, there may with the approval of the court be granted to him in satisfaction of that right a new lease on such terms as may be approved by the court, which may include terms excluding or modifying—
+
+(a) any entitlement to participate in the making of a claim to exercise the right to collective enfranchisement under Chapter I, or
+
+(b) any right to acquire a further lease under Chapter II.
+
+(5) Subject to the provisions specified in subsection (6) and to subsection (7), a lease may be granted by virtue of subsection (4), and shall if so granted be binding on persons entitled to any interest in or charge on the landlord’s estate—
+
+(a) despite the fact that, apart from this subsection, it would not be authorised against any such persons, and
+
+(b) despite any statutory or other restrictions on the landlord’s powers of leasing.
+
+(6) The provisions referred to in subsection (5) are—
+
+(a) [[^F195]sections 117 to 121 of the Charities Act 2011] (restrictions on disposition of charity land); and
+
+(b) paragraph 8(2)(c) of Schedule 2 to this Act.
+
+(7) Where the existing lease of the tenant is granted after the commencement of Chapter II and, the grant being subsequent to the creation of a charge on the landlord’s estate, the existing lease is not binding on the persons interested in the charge, a lease granted by virtue of subsection (4) shall not be binding on those persons.
+
+(8) Where a lease is granted by virtue of subsection (4), then except in so far as provision is made to the contrary by the terms of the lease, the following provisions shall apply in relation to the lease as they apply in relation to a lease granted under section 56, namely—
+
+(a) section 58(3), (5) and (6);
+
+(b) section 59(2) to (5); and
+
+(c) section 61 and Schedule 14;
+
+and subsections (5) to (7) of section 56 shall apply in relation to the lease as they apply in relation to a lease granted under that section.
+
+#### 93A [[^F196] Powers of trustees in relation to rights under Chapters I and II.
+
+(1) Where trustees are a qualifying tenant of a flat for the purposes of Chapter I or II, their powers under the instrument regulating the trusts shall include power to participate in the exercise of the right to collective enfranchisement under Chapter I or, as the case may be, to exercise the right to a new lease under Chapter II.
+
+(2) Subsection (1) shall not apply where the instrument regulating the trusts—
+
+(a) is made on or after the day on which section 113 of the Housing Act 1996 comes into force, and
+
+(b) contains an explicit direction to the contrary.
+
+(3) The powers conferred by subsection (1) shall be exercisable with the like consent or on the like direction (if any) as may be required for the exercise of the trustees’ powers (or ordinary powers) of investment.
+
+(4) The following purposes, namely—
+
+(a) those authorised for the application of capital money by section 73 of the [^M47]Settled Land Act 1925 [^F197]. . ., and
+
+(b) those authorised by section 71 of the Settled Land Act 1925 [^F197]. . . as purposes for which moneys may be raised by mortgage,
+
+shall include the payment of any expenses incurred by a tenant for life or statutory owners [^F197]. . ., as the case may be, in or in connection with participation in the exercise of the right to collective enfranchisement under Chapter I or in or in connection with the exercise of the right to a new lease under Chapter II.]
+
+#### 94 Crown land.
+
+(1) Subject to subsection (2), Chapters I and II shall apply to a lease from the Crown if (and only if) there has ceased to be a Crown interest in the land subject to it.
+
+[[^F198](2) Chapter 2 applies as against a landlord under a lease from the Crown if—
+
+(a) a sub-tenant is seeking a new lease under that Chapter and the landlord, or a superior landlord under a lease from the Crown, is entitled to grant such a new lease without the concurrence of the appropriate authority, or
+
+(b) the appropriate authority notifies the landlord that, as regards any Crown interest affected, it will grant or concur in granting such a new lease.]
+
+(3) The restriction imposed by section 3(2) of the [^M48]Crown Estate Act 1961 (general provisions as to management) on the term for which a lease may be granted by the Crown Estate Commissioners shall not apply where—
+
+(a) the lease is granted by way of renewal of a long lease [^F199]. . . , and
+
+(b) it appears to the Crown Estate Commissioners that, but for the existence of any Crown interest, there would be a right to acquire a new lease under Chapter II of this Part of this Act.
+
+(4) Where, in the case of land belonging—
+
+(a) to Her Majesty in right of the Duchy of Lancaster, or
+
+(b) to the Duchy of Cornwall,
+
+it appears to the appropriate authority that a tenant under a long lease [^F199]. . . would, but for the existence of any Crown interest, be entitled to acquire a new lease under Chapter II, then a lease corresponding to that to which the tenant would be so entitled may be granted to take effect wholly or partly out of the Crown interest by the same person and with the same formalities as in the case of any other lease of such land.
+
+(5) In the case of land belonging to the Duchy of Cornwall, the purposes authorised by section 8 of the [^M49]Duchy of Cornwall Management Act 1863 for the advancement of parts of such gross sums as are there mentioned shall include the payment to tenants under leases from the Crown of sums corresponding to those which, but for the existence of any Crown interest, would be payable by way of compensation under section 61 above.
+
+(6) The appropriate authority in relation to any area occupied under leases from the Crown may make an application for the approval under section 70 of a scheme for that area which is designed to secure that, in the event of tenants under those leases acquiring freehold interests in such circumstances as are mentioned in subsection (7) below, the authority will—
+
+(a) retain powers of management in respect of the premises in which any such freehold interests are acquired, and
+
+(b) have rights against any such premises in respect of the benefits arising from the exercise elsewhere of the authority’s powers of management.
+
+(7) The circumstances mentioned in subsection (6) are circumstances in which, but for the existence of any Crown interest, the tenants acquiring any such freehold interests would be entitled to acquire them as mentioned in section 69(1)(a) or (b).
+
+(8) Subject to any necessary modifications—
+
+(a) subsections (2) to (7) of section 69 shall apply in relation to any such scheme as is mentioned in subsection (6) above as they apply in relation to an estate management scheme; and
+
+(b) section 70 shall apply in relation to the approval of such a scheme as it applies in relation to the approval of a scheme as an estate management scheme.
+
+(9) Subsection (10) applies where—
+
+(a) any tenants under leases from the Crown are proceeding with a view to acquiring the freehold of any premises in circumstances in which, but for the existence of any Crown interest, they would be entitled to acquire the freehold under Chapter I, or
+
+(b) any tenant under a lease from the Crown is proceeding with a view to acquiring a new lease of his flat in circumstances in which, but for the existence of any Crown interest, he would be entitled to acquire such a lease under Chapter II.
+
+(10) Where—
+
+(a) this subsection applies in accordance with subsection (9), and
+
+(b) any question arises in connection with the acquisition of the freehold of those premises or any such new lease which is such that, if the tenants or tenant were proceeding as mentioned in that subsection in pursuance of a claim made under Chapter I or (as the case may be) Chapter II, [[^F200]the appropriate tribunal (within the meaning of the relevant Chapter)] would have jurisdiction to determine it in proceedings under that Chapter, and
+
+(c) it is agreed between—
+
+(i) the appropriate authority and the tenants or tenant, and
+
+(ii) all other persons (if any) whose interests would fall to be represented in proceedings brought under that Chapter for the determination of that question by [[^F200]the appropriate tribunal (within the meaning of the relevant Chapter)],
+
+that that question should be determined by such a tribunal,
+
+a leasehold valuation tribunal shall have jurisdiction to determine that question [^F201]...
+
+(11) For the purposes of this section “lease from the Crown” means a lease of land in which there is, or has during the subsistence of the lease been, a Crown interest superior to the lease; and “Crown interest” and “the appropriate authority” in relation to a Crown interest mean respectively—
+
+(a) an interest comprised in the Crown Estate, and the Crown Estate Commissioners;
+
+(b) an interest belonging to Her Majesty in right of the Duchy of Lancaster, and the Chancellor of the Duchy;
+
+(c) an interest belonging to the Duchy of Cornwall, and such person as the Duke of Cornwall or the possessor for the time being of the Duchy appoints;
+
+(d) any other interest belonging to a government department or held on behalf of Her Majesty for the purposes of a government department, and the Minister in charge of that department.
+
+[[^F202](12) For the purposes of this section “long lease [^F203]. . . ” shall be construed in accordance with sections 7 [^F204]. . . .]
+
+#### 95 Saving for National Trust.
+
+Chapters I and II shall not prejudice the operation of section 21 of the [^M50]National Trust Act 1907, and accordingly there shall be no right under Chapter I or II to acquire any interest in or new lease of any property if an interest in the property is under that section vested inalienably in the National Trust for Places of Historic Interest or Natural Beauty.
+
+#### 96 Property within cathedral precinct.
+
+There shall be no right under Chapter I or II to acquire any interest in or lease of any property which for the purposes of the Care of Cathedrals Measure 1990 is within the precinct of a cathedral church.
+
+#### 97 Registration of notices, applications and orders under Chapters I and II.
+
+(1) No lease shall be registrable under the [^M51]Land Charges Act 1972 or be taken to be an estate contract within the meaning of that Act by reason of any rights or obligations of the tenant or landlord which may arise under Chapter I or II, and any right of a tenant arising from a notice given under section 13 or 42 shall not be [[^F205]capable of falling within paragraph 2 of Schedule 1 or 3 to the Land Registration Act 2002]; but a notice given under section 13 or 42 shall be registrable under the Land Charges Act 1972, or may be the subject of a notice [[^F206]under the Land Registration Act 2002], as if it were an estate contract.
+
+(2) The Land Charges Act 1972 and the [[^F207]Land Registration Act 2002] —
+
+(a) shall apply in relation to an order made under section 26(1) or 50(1) as they apply in relation to an order affecting land which is made by the court for the purpose of enforcing a judgment or recognisance; and
+
+(b) shall apply in relation to an application for such an order as they apply in relation to other pending land actions.
+
+[^F208]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 98 Power to prescribe procedure under Chapters I and II.
+
+(1) Where a claim to exercise the right to collective enfranchisement under Chapter I is made by the giving of a notice under section 13, or a claim to exercise the right to acquire a new lease under Chapter II is made by the giving of a notice under section 42, then except as otherwise provided by Chapter I or (as the case may be) Chapter II—
+
+(a) the procedure for giving effect to the notice, and
+
+(b) the rights and obligations of all parties in relation to the investigation of title and other matters arising in giving effect to the notice,
+
+shall be such as may be prescribed by regulations made by the Secretary of State and, subject to or in the absence of provision made by any such regulations, shall be as nearly as may be the same as in the case of a contract of sale or leasing freely negotiated between the parties.
+
+(2) Regulations under this section may, in particular, make provision—
+
+(a) for a person to be discharged from performing any obligations arising out of a notice under section 13 or 42 by reason of the default or delay of some other person;
+
+(b) for the payment of a deposit—
+
+(i) by a nominee purchaser (within the meaning of Chapter I) on exchange of contracts, or
+
+(ii) by a tenant who has given a notice under section 42; and
+
+(c) with respect to the following matters, namely—
+
+(i) the person with whom any such deposit is to be lodged and the capacity in which any such person is to hold it, and
+
+(ii) the circumstances in which the whole or part of any such deposit is to be returned or forfeited.
+
+#### 99 Notices.
+
+(1) Any notice required or authorised to be given under this Part—
+
+(a) shall be in writing; and
+
+(b) may be sent by post.
+
+(2) Where in accordance with Chapter I or II an address in England and Wales is specified as an address at which notices may be given to any person or persons under that Chapter—
+
+(a) any notice required or authorised to be given to that person or those persons under that Chapter may (without prejudice to the operation of subsection (3)) be given to him or them at the address so specified; but
+
+(b) if a new address in England and Wales is so specified in substitution for that address by the giving of a notice to that effect, any notice so required or authorised to be given may be given to him or them at that new address instead.
+
+(3) Where a tenant is required or authorised to give any notice under Chapter I or II to a person who—
+
+(a) is the tenant’s immediate landlord, and
+
+(b) is such a landlord in respect of premises to which Part VI of the [^M52]Landlord and Tenant Act 1987 (information to be furnished to tenants) applies,
+
+the tenant may, unless he has been subsequently notified by the landlord of a different address in England and Wales for the purposes of this section, give the notice to the landlord—
+
+(i) at the address last furnished to the tenant as the landlord’s address for service in accordance with section 48 of that Act (notification of address for service of notices on landlord); or
+
+(ii) if no such address has been furnished, at the address last furnished to the tenant as the landlord’s address in accordance with section 47 of that Act (landlord’s name and address to be contained in demands for rent).
+
+(4) Subsections (2) and (3) apply to notices in proceedings under Chapter I or II as they apply to notices required or authorised to be given under that Chapter.
+
+(5) Any notice which is given under Chapter I or II by any tenants or tenant must [[^F209]be signed by or on behalf of each of the tenants, or (as the case may be) by or on behalf of the tenant, by whom it is given.]
+
+(6) The Secretary of State may by regulations prescribe—
+
+(a) the form of any notice required or authorised to be given under this Part; and
+
+(b) the particulars which any such notice must contain (whether in addition to, or in substitution for, any particulars required by virtue of any provision of this Part).
+
+#### 100 Orders and regulations.
+
+(1) Any power of the Secretary of State [[^F210]or the Welsh Ministers] to make orders or regulations under this Part—
+
+(a) may be so exercised as to make different provision for different cases or descriptions of cases, including different provision for different areas; and
+
+(b) includes power to make such procedural, incidental, supplementary and transitional provision as may appear to the Secretary of State necessary or expedient.
+
+(2) Any power of the Secretary of State to make orders or regulations under this Part shall be exercisable by statutory instrument which (except in the case of regulations making only such provision as is mentioned in section 99(6)) shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+[[^F211](3) Any power of the Welsh Ministers to make regulations under this Part shall be exercisable by statutory instrument which (except in the case of regulations making only such provision as is mentioned in section 99(6)) shall be subject to annulment in pursuance of a resolution of the National Assembly for Wales.]
+
+#### 101 General interpretation of Part I.
+
+(1) In this Part—
+
+- “business lease” means a tenancy to which Part II of the [^M53]Landlord and Tenant Act 1954 applies;
+
+- “common parts”, in relation to any building or part of a building, includes the structure and exterior of that building or part and any common facilities within it;
+
+- “the court” (unless the context otherwise requires) means, by virtue of section 90(1), [[^F212]the county court];
+
+- “disposal” means a disposal whether by the creation or the transfer of an interest, and includes the surrender of a lease and the grant of an option or right of pre-emption, and “acquisition” shall be construed accordingly (as shall expressions related to either of these expressions);
+
+- “dwelling” means any building or part of a building occupied or intended to be occupied as a separate dwelling;
+
+- “flat” means a separate set of premises (whether or not on the same floor)—
+
+  - (a) which forms part of a building, and
+  - (b) which is constructed or adapted for use for the purposes of a dwelling, and
+  - (c) either the whole or a material part of which lies above or below some other part of the building;
+
+- “interest” includes estate;
+
+- “lease” and “tenancy”, and related expressions, shall be construed in accordance with subsection (2);
+
+- [^F213]...
+
+- “the term date”, in relation to a lease granted for a term of years certain, means (subject to subsection (6)) the date of expiry of that term, and, in relation to a tenancy to which any of the provisions of section 102 applies, shall be construed in accordance with those provisions.
+
+(2) In this Part “lease” and “tenancy” have the same meaning, and both expressions include (where the context so permits)—
+
+(a) a sub-lease or sub-tenancy, and
+
+(b) an agreement for a lease or tenancy (or for a sub-lease or sub-tenancy),
+
+but do not include a tenancy at will or at sufferance; and the expressions “landlord” and “tenant”, and references to letting, to the grant of a lease or to covenants or the terms of a lease, shall be construed accordingly.
+
+(3) In this Part any reference (however expressed) to the lease held by a qualifying tenant of a flat is a reference to a lease held by him under which the demised premises consist of or include the flat (whether with or without one or more other flats).
+
+(4) Where two or more persons jointly constitute either the landlord or the tenant or qualifying tenant in relation to a lease of a flat, any reference in this Part to the landlord or to the tenant or qualifying tenant is (unless the context otherwise requires) a reference to both or all of the persons who jointly constitute the landlord or the tenant or qualifying tenant, as the case may require.
+
+(5) Any reference in this Part to the date of the commencement of a lease is a reference to the date of the commencement of the term of the lease.
+
+(6) In the case of a lease which derives (in accordance with section 7(6)) from more than one separate leases, references in this Part to the date of the commencement of the lease or to the term date shall, if the terms of the separate leases commenced at different dates or those leases have different term dates, have effect as references to the date of the commencement, or (as the case may be) to the term date, of the lease comprising the flat in question (or the earliest date of commencement or earliest term date of the leases comprising it).
+
+(7) For the purposes of this Part property is let with other property if the properties are let either under the same lease or under leases which, in accordance with section 7(6), are treated as a single lease.
+
+(8) For the purposes of this Part any lease which is reversionary on another lease shall be treated as if it were a concurrent lease intermediate between that other lease and any interest superior to that other lease.
+
+(9) For the purposes of this Part an order of a court or a decision of a leasehold valuation tribunal [[^F214]the First-tier Tribunal or Upper Tribunal] is to be treated as becoming final—
+
+(a) if not appealed against, on the expiry of the time for bringing an appeal; or
+
+(b) if appealed against and not set aside in consequence of the appeal, at the time when the appeal and any further appeal is disposed of—
+
+(i) by the determination of it and the expiry of the time for bringing a further appeal (if any), or
+
+(ii) by its being abandoned or otherwise ceasing to have effect.
+
+#### 102 Term date and other matters relating to periodical tenancies.
+
+(1) Where either of the following provisions (which relate to continuation tenancies) applies to a tenancy, namely—
+
+(a) section 19(2) of the [^M54]Landlord and Tenant Act 1954 (“the 1954 Act”), or
+
+(b) paragraph 16(2) of Schedule 10 to the [^M55]Local Government and Housing Act 1989 (“the 1989 Act”),
+
+the tenancy shall be treated for the relevant purposes of this Part as granted to expire—
+
+(i) on the date which is the term date for the purposes of the 1954 Act (namely, the first date after the commencement of the 1954 Act on which, apart from the 1954 Act, the tenancy could have been brought to an end by a notice to quit given by the landlord under the tenancy), or
+
+(ii) on the date which is the term date for the purposes of Schedule 10 to the 1989 Act (namely, the first date after the commencement of Schedule 10 to the 1989 Act on which, apart from that Schedule, the tenancy could have been brought to an end by such a notice to quit),
+
+as the case may be.
+
+(2) Subject to subsection (1), where under section 7(3) a tenancy created or arising as a tenancy from year to year or other periodical tenancy is to be treated as a long lease, then for the relevant purposes of this Part, the term date of that tenancy shall be taken to be the date (if any) on which the tenancy is to terminate by virtue of a notice to quit given by the landlord under the tenancy before the relevant date for those purposes, or else the earliest date on which it could as at that date (in accordance with its terms and apart from any enactment) be brought to an end by such a notice to quit.
+
+(3) Subject to subsection (1), in the case of a tenancy granted to continue as a periodical tenancy after the expiry of a term of years certain, or to continue as a periodical tenancy if not terminated at the expiry of such a term, any question whether the tenancy is at any time to be treated for the relevant purposes of this Part as a long lease, and (if so) with what term date, shall be determined as it would be if there had been two tenancies, as follows—
+
+(a) one granted to expire at the earliest time (at or after the expiry of that term of years certain) at which the tenancy could (in accordance with its terms and apart from any enactment) be brought to an end by a notice to quit given by the landlord under the tenancy; and
+
+(b) the other granted to commence at the expiry of the first (and not being one to which subsection (1) applies).
+
+(4) In this section “the relevant purposes of this Part” means the purposes of Chapter I or, to the extent that section 7 has effect for the purposes of Chapter II in accordance with section 39(3), the purposes of that Chapter.
+
+#### 103 Application of Part I to Isles of Scilly.
+
+This Part applies to the Isles of Scilly subject to such exceptions, adaptations and modifications as the Secretary of State may by order direct.
+
+## Part II — PUBLIC SECTOR HOUSING
+
+### Chapter I — ENGLAND AND WALES
+
+#### Right to buy
+
+##### 104 Landlord’s notice of purchase price and other matters.
+
+For subsection (5) of section 125 (landlord’s notice of purchase price and other matters) of the [^M56]Housing Act 1985 (in this Chapter referred to as “the 1985 Act”) there shall be substituted the following subsection—
+
+> (5) The notice shall also inform the tenant of—
+>
+> (a) the effect of sections 125D and 125E(1) and (4) (tenant’s notice of intention, landlord’s notice in default and effect of failure to comply),
+>
+> (b) his right under section 128 to have the value of the dwelling-house at the relevant time determined or re-determined by the district valuer,
+>
+> (c) the effect of section 136(2) (change of tenant after service of notice under section 125),
+>
+> (d) the effect of sections 140 and 141(1), (2) and (4) (landlord’s notices to complete and effect of failure to comply),
+>
+> (e) the effect of the provisions of this Part relating to the right to acquire on rent to mortgage terms, and
+>
+> (f) the relevant amount and multipliers for the time being declared by the Secretary of State for the purposes of section 143B.
+
+##### 105 Tenant’s notice of intention etc.
+
+(1) After section 125C of the 1985 Act there shall be inserted the following sections—
+
+> **125D Tenant’s notice of intention.**
+>
+> (1) Where a notice under section 125 has been served on a secure tenant, he shall within the period specified in subsection (2) either—
+>
+> (a) serve a written notice on the landlord stating either that he intends to pursue his claim to exercise the right to buy or that he withdraws that claim, or
+>
+> (b) serve a notice under section 144 claiming to exercise the right to acquire on rent to mortgage terms.
+>
+> (2) The period for serving a notice under subsection (1) is the period of twelve weeks beginning with whichever of the following is the later—
+>
+> (a) the service of the notice under section 125, and
+>
+> (b) where the tenant exercises his right to have the value of the dwelling-house determined or re-determined by the district valuer, the service of the notice under section 128(5) stating the effect of the determination or re-determination.
+>
+> **125E Landlord’s notice in default.**
+>
+> (1) The landlord may, at any time after the end of the period specified in section 125D(2) or, as the case may require, section 136(2), serve on the tenant a written notice—
+>
+> (a) requiring him, if he has failed to serve the notice required by section 125D(1), to serve that notice within 28 days, and
+>
+> (b) informing him of the effect of this subsection and subsection (4).
+>
+> (2) At any time before the end of the period mentioned in subsection (1)(a) (or that period as previously extended) the landlord may by written notice served on the tenant extend it (or further extend it).
+>
+> (3) If at any time before the end of that period (or that period as extended under subsection (2)) the circumstances are such that it would not be reasonable to expect the tenant to comply with a notice under this section, that period (or that period as so extended) shall by virtue of this subsection be extended (or further extended) until 28 days after the time when those circumstances no longer obtain.
+>
+> (4) If the tenant does not comply with a notice under this section, the notice claiming to exercise the right to buy shall be deemed to be withdrawn at the end of that period (or, as the case may require, that period as extended under subsection (2) or (3)).
+
+(2) For subsections (2) to (5) of section 136 of the 1985 Act (change of tenant after notice claiming to exercise the right to buy) there shall be substituted the following subsection—
+
+> (2) If a notice under section 125 (landlord’s notice of purchase price and other matters) has been served on the former tenant, then, whether or not the former tenant has served a notice under subsection (1) of section 125D (tenant’s notice of intention), the new tenant shall serve a notice under that subsection within the period of twelve weeks beginning with whichever of the following is the later—
+>
+> (a) his becoming the secure tenant, and
+>
+> (b) where the right to have the value of the dwelling-house determined or re-determined by the district valuer is or has been exercised by him or the former tenant, the service of the notice under section 128(5) stating the effect of the determination or re-determination.
+
+##### 106 Exceptions to the right to buy.
+
+(1) In paragraph 10(1) (groups of dwelling-houses for persons of pensionable age) of Schedule 5 to the 1985 Act (exceptions to the right to buy)—
+
+(a) for the words “persons of pensionable age”, in the first place where they occur, there shall be substituted the words “ elderly persons ”; and
+
+(b) for those words, in the second place where they occur, there shall be substituted the words “ persons aged 60 or more ”.
+
+(2) For paragraph 11 (individual dwelling-houses for persons of pensionable age) of that Schedule there shall be substituted the following paragraph—
+
+> **11**
+>
+> (1) The right to buy does not arise if the dwelling-house—
+>
+> (a) is particularly suitable, having regard to its location, size, design, heating system and other features, for occupation by elderly persons, and
+>
+> (b) was let to the tenant or a predecessor in title of his for occupation by a person who was aged 60 or more (whether the tenant or predecessor or another person).
+>
+> (2) In determining whether a dwelling is particularly suitable, no regard shall be had to the presence of any feature provided by the tenant or a predecessor in title of his.
+>
+> (3) Notwithstanding anything in section 181 (jurisdiction of county court), any question arising under this paragraph shall be determined as follows.
+>
+> (4) If an application for the purpose is made by the tenant to the Secretary of State before the end of the period of 56 days beginning with the service of the landlord’s notice under section 124, the question shall be determined by the Secretary of State.
+>
+> (5) If no such application is so made, the question shall be deemed to have been determined in favour of the landlord.
+>
+> (6) This paragraph does not apply unless the dwelling-house concerned was first let before 1st January 1990.
+
+(3) Subsections (1) and (2) do not apply in any case where the tenant’s notice claiming to exercise the right to buy was served before the day on which this section comes into force.
+
+(4) For the purposes of subsection (3), no account shall be taken of any steps taken under section 177 of the 1985 Act (amendment or withdrawal and re-service of notice to correct mistakes).
+
+#### Abolition of certain ancillary rights
+
+##### 107 Abolition of right to a mortgage, right to defer completion and right to be granted a shared ownership lease.
+
+The following rights ancillary to the right to buy are hereby abolished, namely—
+
+(a) the right to a mortgage conferred by sections 132 to 135 of the 1985 Act;
+
+(b) the right to defer completion conferred by section 142 of that Act; and
+
+(c) the right to be granted a shared ownership lease conferred by sections 143 to 151 of that Act.
+
+#### Right to acquire on rent to mortgage terms
+
+##### 108 Right to acquire on rent to mortgage terms.
+
+For section 143 of the 1985 Act there shall be substituted the following sections—
+
+> **Right to acquire on rent to mortgage terms**
+>
+> **143 Right to acquire on rent to mortgage terms.**
+>
+> (1) Subject to subsection (2) and sections 143A and 143B, where—
+>
+> (a) a secure tenant has claimed to exercise the right to buy, and
+>
+> (b) his right to buy has been established and his notice claiming to exercise it remains in force,
+>
+> he also has the right to acquire on rent to mortgage terms in accordance with the following provisions of this Part.
+>
+> (2) The right to acquire on rent to mortgage terms cannot be exercised if the exercise of the right to buy is precluded by section 121 (circumstances in which right to buy cannot be exercised).
+>
+> (3) Where the right to buy belongs to two or more persons jointly, the right to acquire on rent to mortgage terms also belongs to them jointly.
+>
+> **143A Right excluded by entitlement to housing benefit.**
+>
+> (1) The right to acquire on rent to mortgage terms cannot be exercised if—
+>
+> (a) it has been determined that the tenant is or was entitled to housing benefit in respect of any part of the relevant period, or
+>
+> (b) a claim for housing benefit in respect of any part of that period has been made (or is treated as having been made) by or on behalf of the tenant and has not been determined or withdrawn.
+>
+> (2) In this section “the relevant period” means the period—
+>
+> (a) beginning twelve months before the day on which the tenant claims to exercise the right to acquire on rent to mortgage terms, and
+>
+> (b) ending with the day on which the conveyance or grant is executed in pursuance of that right.
+>
+> **143B Right excluded if minimum initial payment exceeds maximum initial payment.**
+>
+> (1) The right to acquire on rent to mortgage terms cannot be exercised if the minimum initial payment in respect of the dwelling-house exceeds the maximum initial payment in respect of it.
+>
+> (2) The maximum initial payment in respect of a dwelling-house is 80 per cent. of the price which would be payable if the tenant were exercising the right to buy.
+>
+> (3) Where, in the case of a dwelling-house which is a house, the weekly rent at the relevant time did not exceed the relevant amount, the minimum initial payment shall be determined by the formula—
+>
+> P = RxM where—
+>
+> P = the minimum initial payment;
+>
+> R = the amount of the weekly rent at the relevant time;
+>
+> M = the multiplier which at that time was for the time being declared by the Secretary of State for the purposes of this subsection.
+>
+> (4) Where, in the case of a dwelling-house which is a house, the weekly rent at the relevant time exceeded the relevant amount, the minimum initial payment shall be determined by the formula—
+>
+> P = Q + (ExM) where—
+>
+> P = the minimum initial payment;
+>
+> Q = the qualifying maximum for the year of assessment which included the relevant time;
+>
+> E = the amount by which the weekly rent at that time exceeded the relevant amount;
+>
+> M = the multiplier which at that time was for the time being declared by the Secretary of State for the purposes of this subsection.
+>
+> (5) The minimum initial payment in respect of a dwelling-house which is a flat is 80 per cent. of the amount which would be the minimum initial payment in respect of the dwelling-house if it were a house.
+>
+> (6) The relevant amount and multipliers for the time being declared for the purposes of this section shall be such that, in the case of a dwelling-house which is a house, they will produce a minimum initial payment equal to the capital sum which, in the opinion of the Secretary of State, could be raised on a 25 year repayment mortgage in the case of which the net amount of the monthly mortgage payments was equal to the rent at the relevant time calculated on a monthly basis.
+>
+> (7) For the purposes of subsection (6) the Secretary of State shall assume—
+>
+> (a) that the interest rate applicable throughout the 25 year term were the standard national rate for the time being declared by the Secretary of State under paragraph 2 of Schedule 16 (local authority mortgage interest rates); and
+>
+> (b) that the monthly mortgage payments represented payments of capital and interest only.
+>
+> (8) In this section—
+>
+> - “net amount”, in relation to monthly mortgage payments, means the amount of such payments after deduction of tax under section 369 of the [^M57]Income and Corporation Taxes Act 1988 (mortgage interest payable under deduction of tax);
+> - “qualifying maximum” means the qualifying maximum defined in section 367(5) of that Act (limit on relief for interest on certain loans);
+> - “relevant amount” means the amount which at the relevant time was for the time being declared by the Secretary of State for the purposes of this section;
+> - “relevant time” means the time of the service of the landlord’s notice under section 146 (landlord’s notice admitting or denying right);
+> - “rent” means rent payable under the secure tenancy, but excluding any element which is expressed to be payable for services, repairs, maintenance or insurance or the landlord’s costs of management.
+
+##### 109 Tenant’s notice claiming right.
+
+For sections 144 and 145 of the 1985 Act there shall be substituted the following section—
+
+> **144 Tenant’s notice claiming right.**
+>
+> (1) A secure tenant claims to exercise the right to acquire on rent to mortgage terms by written notice to that effect served on the landlord.
+>
+> (2) The notice may be withdrawn at any time by notice in writing served on the landlord.
+>
+> (3) On the service of a notice under this section, any notice served by the landlord under section 140 or 141 (landlord’s notices to complete purchase in pursuance of right to buy) shall be deemed to have been withdrawn; and no such notice may be served by the landlord whilst a notice under this section remains in force.
+>
+> (4) Where a notice under this section is withdrawn, the tenant may complete the transaction in accordance with the provisions of this Part relating to the right to buy.
+
+##### 110 Landlord’s notice admitting or denying right.
+
+For section 146 of the 1985 Act there shall be substituted the following section—
+
+> **146 Landlord’s notice admitting or denying right.**
+>
+> (1) Where a notice under section 144 (notice claiming to exercise the right to acquire on rent to mortgage terms) has been served by the tenant, the landlord shall, unless the notice is withdrawn, serve on the tenant as soon as practicable a written notice either—
+>
+> (a) admitting the tenant’s right and informing him of the matters mentioned in subsection (2), or
+>
+> (b) denying it and stating the reasons why, in the opinion of the landlord, the tenant does not have the right to acquire on rent to mortgage terms.
+>
+> (2) The matters are—
+>
+> (a) the relevant amount and multipliers for the time being declared by the Secretary of State for the purposes of section 143B;
+>
+> (b) the amount of the minimum initial payment;
+>
+> (c) the proportion which that amount bears to the price which would be payable if the tenant exercised the right to buy;
+>
+> (d) the landlord’s share on the assumption that the tenant makes the minimum initial payment;
+>
+> (e) the amount of the initial discount on that assumption; and
+>
+> (f) the provisions which, in the landlord’s opinion, should be contained in the conveyance or grant and the mortgage required by section 151B (mortgage for securing redemption of landlord’s share).
+
+##### 111 Tenant’s notice of intention etc.
+
+After section 146 of the 1985 Act there shall be inserted the following sections—
+
+> **146A Tenant’s notice of intention.**
+>
+> (1) Where a notice under section 146 has been served on a secure tenant, he shall within the period specified in subsection (2) serve a written notice on the landlord stating either—
+>
+> (a) that he intends to pursue his claim to exercise the right to acquire on rent to mortgage terms and the amount of the initial payment which he proposes to make, or
+>
+> (b) that he withdraws that claim and intends to pursue his claim to exercise the right to buy, or
+>
+> (c) that he withdraws both of those claims.
+>
+> (2) The period for serving a notice under subsection (1) is the period of twelve weeks beginning with the service of the notice under section 146.
+>
+> (3) The amount stated in a notice under subsection (1)(a)—
+>
+> (a) shall not be less than the minimum initial payment and not more than the maximum initial payment, and
+>
+> (b) may be varied at any time by notice in writing served on the landlord.
+>
+> **146B Landlord’s notice in default.**
+>
+> (1) The landlord may, at any time after the end of the period specified in section 146A(2), serve on the tenant a written notice—
+>
+> (a) requiring him, if he has failed to serve the notice required by section 146A(1), to serve that notice within 28 days, and
+>
+> (b) informing him of the effect of this subsection and subsection (4).
+>
+> (2) At any time before the end of the period mentioned in subsection (1)(a) (or that period as previously extended) the landlord may by written notice served on the tenant extend it (or further extend it).
+>
+> (3) If at any time before the end of that period (or that period as extended under subsection (2)) the circumstances are such that it would not be reasonable to expect the tenant to comply with a notice under this section, that period (or that period as so extended) shall by virtue of this subsection be extended (or further extended) until 28 days after the time when those circumstances no longer obtain.
+>
+> (4) If the tenant does not comply with a notice under this section the notice claiming to exercise the right to acquire on rent to mortgage terms shall be deemed to be withdrawn at the end of that period (or, as the case may require, that period as extended under subsection (2) or (3)).
+
+##### 112 Notice of landlord’s share and initial discount.
+
+For section 147 of the 1985 Act there shall be substituted the following section—
+
+> **147 Notice of landlord’s share and initial discount.**
+>
+> (1) Where a secure tenant has served—
+>
+> (a) a notice under section 146A(1)(a) stating that he intends to pursue his claim to exercise the right to acquire on rent to mortgage terms, and the amount of the initial payment which he proposes to make, or
+>
+> (b) a notice under section 146A(3)(b) varying the amount stated in a notice under section 146A(1)(a),
+>
+> the landlord shall, as soon as practicable, serve on the tenant a written notice complying with this section.
+>
+> (2) The notice shall state—
+>
+> (a) the landlord’s share on the assumption that the amount of the tenant’s initial payment is that stated in the notice under section 146A(1)(a) or, as the case may be, section 146A(3)(b), and
+>
+> (b) the amount of the initial discount on that assumption,
+>
+> determined in each case in accordance with section 148.
+
+##### 113 Determination of landlord’s share, initial discount etc.
+
+For section 148 of the 1985 Act there shall be substituted the following section—
+
+> **148 Determination of landlord’s share, initial discount etc.**
+>
+> The landlord’s share shall be determined by the formula—
+>
+> S = (P - IP)/(P)x100
+>
+> the amount of the initial discount shall be determined by the formula—
+>
+> ID = (IP)/(P)xD
+>
+> and the amount of any previous discount which will be recovered by virtue of the transaction shall be determined by the formula—
+>
+> RD = (IP)/(P)xPD where—
+>
+> S = the landlord’s share expressed as a percentage;
+>
+> P = the price which would be payable if the tenant were exercising the right to buy;
+>
+> IP = the amount of the tenant’s initial payment (but disregarding any reduction in pursuance of section 153B(3));
+>
+> ID = the amount of the initial discount;
+>
+> D = the amount of the discount which would be applicable if the tenant were exercising the right to buy;
+>
+> RD = the amount of any previous discount which will be recovered by virtue of the transaction;
+>
+> PD = the amount of any previous discount which would be recovered if the tenant were exercising the right to buy.
+
+##### 114 Change of landlord after notice claiming right.
+
+For section 149 of the 1985 Act there shall be substituted the following section—
+
+> **149 Change of landlord after notice claiming right.**
+>
+> (1) Where the interest of the landlord in the dwelling-house passes from the landlord to another body after a secure tenant has given a notice claiming to exercise the right to acquire on rent to mortgage terms, all parties shall subject to subsection (2) be in the same position as if the other body—
+>
+> (a) had become the landlord before the notice was given, and
+>
+> (b) had been given that notice and any further notice given by the tenant to the landlord, and
+>
+> (c) had taken all steps which the landlord had taken.
+>
+> (2) If the circumstances after the disposal differ in any material respect, as for example where—
+>
+> (a) the interest of the disponee in the dwelling-house after the disposal differs from that of the disponor before the disposal, or
+>
+> (b) any of the provisions of Schedule 5 (exceptions to the right to buy) becomes or ceases to be applicable,
+>
+> all those concerned shall, as soon as practicable after the disposal, take all such steps (whether by way of amending or withdrawing and re-serving any notice or extending any period or otherwise) as may be requisite for the purpose of securing that all parties are, as nearly as may be, in the same position as they would have been if those circumstances had obtained before the disposal.
+
+##### 115 Duty of landlord to convey freehold or grant lease.
+
+For section 150 of the 1985 Act there shall be substituted the following section—
+
+> **150 Duty of landlord to convey freehold or grant lease.**
+>
+> (1) Where a secure tenant has claimed to exercise the right to acquire on rent to mortgage terms and that right has been established, then, as soon as all matters relating to the grant and to securing the redemption of the landlord’s share have been agreed or determined, the landlord shall make to the tenant—
+>
+> (a) if the dwelling-house is a house and the landlord owns the freehold, a grant of the dwelling-house for an estate in fee simple absolute, or
+>
+> (b) if the landlord does not own the freehold or if the dwelling-house is a flat (whether or not the landlord owns the freehold), a grant of a lease of the dwelling-house,
+>
+> in accordance with the following provisions of this Part.
+>
+> (2) If the tenant has failed to pay the rent or any other payment due from him as a tenant for a period of four weeks after it has been lawfully demanded from him, the landlord is not bound to comply with subsection (1) while the whole or part of that payment remains outstanding.
+>
+> (3) The duty imposed on the landlord by subsection (1) is enforceable by injunction.
+
+##### 116 Terms and effect of conveyance or grant: general.
+
+(1) For section 151 of the 1985 Act there shall be substituted the following section—
+
+> **151 Terms and effect of conveyance or grant: general.**
+>
+> (1) A conveyance of the freehold executed in pursuance of the right to acquire on rent to mortgage terms shall conform with Parts I and II of Schedule 6; a grant of a lease so executed shall conform with Parts I and III of that Schedule; and Part IV of that Schedule applies to such a conveyance or lease as it applies to a conveyance or lease executed in pursuance of the right to buy.
+>
+> (2) The secure tenancy comes to an end on the grant to the tenant of an estate in fee simple, or of a lease, in pursuance of the right to acquire on rent to mortgage terms; and if there is then a sub-tenancy section 139 of the [^M58]Law of Property Act 1925 (effect of extinguishment of reversion) applies as on a merger or surrender.
+
+(2) In Part III of Schedule 6 to the 1985 Act (terms of lease granted in pursuance of right to buy or right to acquire on rent to mortgage terms), after paragraph 16D there shall be inserted the following paragraph—
+
+> **16E**
+>
+> (1) Where a lease of a flat granted in pursuance of the right to acquire on rent to mortgage terms requires the tenant to pay—
+>
+> (a) service charges in respect of repairs (including works for the making good of structural defects), or
+>
+> (b) improvement contributions,
+>
+> his liability in respect of costs incurred at any time before the final payment is made is restricted as follows.
+>
+> (2) He is not required to pay any more than the amount determined by the formula—
+>
+> M = Px(100 - S)/(100) where—
+>
+> M = the maximum amount which he is required to pay;
+>
+> P = the amount which, but for this paragraph, he would be required to pay;
+>
+> S = the landlord’s share at the time expressed as a percentage.
+
+##### 117 Redemption of landlord’s share.
+
+(1) After section 151 of the 1985 Act there shall be inserted the following section—
+
+> **151A Redemption of landlord’s share.**
+>
+> Schedule 6A (which makes provision for the redemption of the landlord’s share) shall have effect; and a conveyance of the freehold or a grant of a lease executed in pursuance of the right to acquire on rent to mortgage terms shall conform with that Schedule.
+
+(2) After Schedule 6 to the 1985 Act there shall be inserted as Schedule 6A the Schedule set out in Schedule 16 to this Act.
+
+##### 118 Mortgage for securing redemption of landlord’s share.
+
+After section 151A of the 1985 Act there shall be inserted the following section—
+
+> **151B Mortgage for securing redemption of landlord’s share.**
+>
+> (1) The liability that may arise under the covenant required by paragraph 1 of Schedule 6A (covenant for the redemption of the landlord’s share in the circumstances there mentioned) shall be secured by a mortgage.
+>
+> (2) Subject to subsections (3) and (4), the mortgage shall have priority immediately after any legal charge securing an amount advanced to the secure tenant by an approved lending institution for the purpose of enabling him to exercise the right to acquire on rent to mortgage terms.
+>
+> (3) The following, namely—
+>
+> (a) any advance which is made otherwise than for the purpose mentioned in subsection (2) and is secured by a legal charge having priority to the mortgage, and
+>
+> (b) any further advance which is so secured,
+>
+> shall rank in priority to the mortgage if, and only if, the landlord by written notice served on the institution concerned gives its consent; and the landlord shall so give its consent if the purpose of the advance or further advance is an approved purpose.
+>
+> (4) The landlord may at any time by written notice served on an approved lending institution postpone the mortgage to any advance or further advance which—
+>
+> (a) is made to the tenant by that institution, and
+>
+> (b) is secured by a legal charge not having priority to the mortgage;
+>
+> and the landlord shall serve such a notice if the purpose of the advance or further advance is an approved purpose.
+>
+> (5) The approved lending institutions for the purposes of this section are—
+>
+> - the Corporation,
+> - a building society,
+> - a bank,
+> - a trustee savings bank,
+> - an insurance company,
+> - a friendly society,
+>
+> and any body specified, or of a class or description specified, in an order made under section 156.
+>
+> (6) The approved purposes for the purposes of this section are—
+>
+> (a) to enable the tenant to make an interim or final payment,
+>
+> (b) to enable the tenant to defray, or to defray on his behalf, any of the following—
+>
+> (i) the cost of any works to the dwelling-house,
+>
+> (ii) any service charge payable in respect of the dwelling-house for works, whether or not to the dwelling-house, and
+>
+> (iii) any service charge or other amount payable in respect of the dwelling-house for insurance, whether or not of the dwelling-house, and
+>
+> (c) to enable the tenant to discharge, or to discharge on his behalf, any of the following—
+>
+> (i) so much as is still outstanding of any advance or further advance which ranks in priority to the mortgage,
+>
+> (ii) any arrears of interest on such an advance or further advance, and
+>
+> (iii) any costs and expenses incurred in enforcing payment of any such interest, or repayment (in whole or in part) of any such advance or further advance.
+>
+> (7) Where different parts of an advance or further advance are made for different purposes, each of those parts shall be regarded as a separate advance or further advance for the purposes of this section.
+>
+> (8) The Secretary of State may by order prescribe—
+>
+> (a) matters for which the deed by which the mortgage is effected must make provision, and
+>
+> (b) terms which must, or must not, be contained in that deed,
+>
+> but only in relation to deeds executed after the order comes into force.
+>
+> (9) The deed by which the mortgage is effected may contain such other provisions as may be—
+>
+> (a) agreed between the mortgagor and the mortgagee, or
+>
+> (b) determined by the county court to be reasonably required by the mortgagor or the mortgagee.
+>
+> (10) An order under this section—
+>
+> (a) may make different provision with respect to different cases or descriptions of case, including different provision for different areas, and
+>
+> (b) shall be made by statutory instrument which shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+##### 119 Landlord’s notices to complete.
+
+(1) For subsection (3) of section 152 of the 1985 Act (landlord’s first notice to complete) there shall be substituted the following section—
+
+> (3) A notice under this section shall not be served earlier than twelve months after the service of the notice under section 146 (landlord’s notice admitting or denying right).
+
+(2) In subsection (5) of that section, for the words “the amount to be left outstanding or advanced on the security of the dwelling-house” there shall be substituted the words “ securing the redemption of the landlord’s share ”.
+
+(3) In subsection (4) of section 153 of the 1985 Act (landlord’s second notice to complete), for the words “the right to be granted a shared ownership lease” there shall be substituted the words “ the right to acquire on rent to mortgage terms ”.
+
+##### 120 Repayment of discount on early disposal.
+
+(1) For subsection (3) of section 155 of the 1985 Act (repayment of discount on early disposal) there shall be substituted the following subsection—
+
+> (3) In the case of a conveyance or grant in pursuance of the right to acquire on rent to mortgage terms, the covenant shall be to pay to the landlord on demand, if within the period of three years commencing with the making of the initial payment there is a relevant disposal which is not an exempted disposal (but if there is more than one such disposal, then only on the first of them), the discount (if any) to which the tenant was entitled on the making of—
+>
+> (a) the initial payment,
+>
+> (b) any interim payment made before the disposal, or
+>
+> (c) the final payment if so made,
+>
+> reduced, in each case, by one-third for each complete year which has elapsed after the making of the initial payment and before the disposal.
+
+(2) In subsection (3A) of that section, for paragraph (b) there shall be substituted the following paragraph—
+
+> (b) any reference in subsection (3) (other than paragraph (a) thereof) to the making of the initial payment shall be construed as a reference to the date which precedes that payment by the period referred to in paragraph (a) of this subsection.
+
+(3) For subsection (2) of section 156 of the 1985 Act (liability to repay discount is a charge on the premises) there shall be substituted the following subsections—
+
+> (2) Subject to subsections (2A) and (2B), the charge has priority as follows—
+>
+> (a) if it secures the liability that may arise under the covenant required by section 155(2), immediately after any legal charge securing an amount advanced to the secure tenant by an approved lending institution for the purpose of enabling him to exercise the right to buy;
+>
+> (b) if it secures the liability that may arise under the covenant required by section 155(3), immediately after the mortgage—
+>
+> (i) which is required by section 151B (mortgage for securing redemption of landlord’s share), and
+>
+> (ii) which, by virtue of subsection (2) of that section, has priority immediately after any legal charge securing an amount advanced to the secure tenant by an approved lending institution for the purpose of enabling him to exercise the right to acquire on rent to mortgage terms.
+>
+> (2A) The following, namely—
+>
+> (a) any advance which is made otherwise than for the purpose mentioned in paragraph (a) or (b) of subsection (2) and is secured by a legal charge having priority to the charge taking effect by virtue of this section, and
+>
+> (b) any further advance which is so secured,
+>
+> shall rank in priority to that charge if, and only if, the landlord by written notice served on the institution concerned gives its consent; and the landlord shall so give its consent if the purpose of the advance or further advance is an approved purpose.
+>
+> (2B) The landlord may at any time by written notice served on an approved lending institution postpone the charge taking effect by virtue of this section to any advance or further advance which—
+>
+> (a) is made to the tenant by that institution, and
+>
+> (b) is secured by a legal charge not having priority to that charge;
+>
+> and the landlord shall serve such a notice if the purpose of the advance or further advance is an approved purpose.
+
+(4) After subsection (4) of that section there shall be inserted the following subsections—
+
+> (4A) The approved purposes for the purposes of this section are—
+>
+> (a) to enable the tenant to make an interim or final payment,
+>
+> (b) to enable the tenant to defray, or to defray on his behalf, any of the following—
+>
+> (i) the cost of any works to the dwelling-house,
+>
+> (ii) any service charge payable in respect of the dwelling-house for works, whether or not to the dwelling-house, and
+>
+> (iii) any service charge or other amount payable in respect of the dwelling-house for insurance, whether or not of the dwelling-house, and
+>
+> (c) to enable the tenant to discharge, or to discharge on his behalf, any of the following—
+>
+> (i) so much as is still outstanding of any advance or further advance which ranks in priority to the charge taking effect by virtue of this section,
+>
+> (ii) any arrears of interest on such an advance or further advance, and
+>
+> (iii) any costs and expenses incurred in enforcing payment of any such interest, or repayment (in whole or in part) of any such advance or further advance.
+>
+> (4B) Where different parts of an advance or further advance are made for different purposes, each of those parts shall be regarded as a separate advance or further advance for the purposes of this section.
+
+#### Other rights of secure tenants
+
+##### 121 Right to have repairs carried out.
+
+For section 96 of the 1985 Act there shall be substituted the following section—
+
+> **96 Right to have repairs carried out.**
+>
+> (1) The Secretary of State may make regulations for entitling secure tenants whose landlords are local housing authorities, subject to and in accordance with the regulations, to have qualifying repairs carried out, at their landlords’ expense, to the dwelling-houses of which they are such tenants.
+>
+> (2) The regulations may make all or any of the following provisions, namely—
+>
+> (a) provision that, where a secure tenant makes an application to his landlord for a qualifying repair to be carried out, the landlord shall issue a repair notice—
+>
+> (i) specifying the nature of the repair, the listed contractor by whom the repair is to be carried out and the last day of any prescribed period; and
+>
+> (ii) containing such other particulars as may be prescribed;
+>
+> (b) provision that, if the contractor specified in a repair notice fails to carry out the repair within a prescribed period, the landlord shall issue a further repair notice specifying such other listed contractor as the tenant may require; and
+>
+> (c) provision that, if the contractor specified in a repair notice fails to carry out the repair within a prescribed period, the landlord shall pay to the tenant such sum by way of compensation as may be determined by or under the regulations.
+>
+> (3) The regulations may also make such procedural, incidental, supplementary and transitional provisions as may appear to the Secretary of State necessary or expedient, and may in particular—
+>
+> (a) require a landlord to take such steps as may be prescribed to make its secure tenants aware of the provisions of the regulations;
+>
+> (b) require a landlord to maintain a list of contractors who are prepared to carry out repairs for which it is responsible under the regulations;
+>
+> (c) provide that, where a landlord issues a repair notice, it shall give to the tenant a copy of the notice and the prescribed particulars of at least two other listed contractors who are competent to carry out the repair;
+>
+> (d) provide for questions arising under the regulations to be determined by the county court; and
+>
+> (e) enable the landlord to set off against any compensation payable under the regulations any sums owed to it by the tenant.
+>
+> (4) Nothing in subsection (2) or (3) shall be taken as prejudicing the generality of subsection (1).
+>
+> (5) Regulations under this section—
+>
+> (a) may make different provision with respect to different cases or descriptions of case, including different provision for different areas, and
+>
+> (b) shall be made by statutory instrument which shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+>
+> (6) In this section—
+>
+> - “listed contractor”, in relation to a landlord, means any contractor (which may include the landlord) who is specified in the landlord’s list of contractors;
+> - “qualifying repair”, in relation to a dwelling-house, means any repair of a prescribed description which the landlord is obliged by a repairing covenant to carry out;
+> - “repairing covenant”, in relation to a dwelling-house, means a covenant, whether express or implied, obliging the landlord to keep in repair the dwelling-house or any part of the dwelling-house;
+>
+> and for the purposes of this subsection a prescribed description may be framed by reference to any circumstances whatever.
+
+##### 122 Right to compensation for improvements.
+
+After section 99 of the 1985 Act there shall be inserted the following sections—
+
+> **99A Right to compensation for improvements.**
+>
+> (1) The powers conferred by this section shall be exercisable as respects cases where a secure tenant has made an improvement and—
+>
+> (a) the work on the improvement was begun not earlier than the commencement of section 122 of the Leasehold Reform, Housing and Urban Development Act 1993,
+>
+> (b) the landlord, or a predecessor in title of the landlord (being a local authority), has given its written consent to the improvement or is to be treated as having given its consent, and
+>
+> (c) at the time when the tenancy comes to an end the landlord is a local authority and the tenancy is a secure tenancy.
+>
+> (2) The Secretary of State may make regulations for entitling the qualifying person or persons (within the meaning given by section 99B)—
+>
+> (a) at the time when the tenancy comes to an end, and
+>
+> (b) subject to and in accordance with the regulations,
+>
+> to be paid compensation by the landlord in respect of the improvement.
+>
+> (3) The regulations may provide that compensation shall be not payable if—
+>
+> (a) the improvement is not of a prescribed description,
+>
+> (b) the tenancy comes to an end in prescribed circumstances,
+>
+> (c) compensation has been paid under section 100 in respect of the improvement, or
+>
+> (d) the amount of any compensation which would otherwise be payable is less than a prescribed amount;
+>
+> and for the purposes of this subsection a prescribed description may be framed by reference to any circumstances whatever.
+>
+> (4) The regulations may provide that the amount of any compensation payable shall not exceed a prescribed amount but, subject to that, shall be determined by the landlord, or calculated, in such manner, and taking into account such matters, as may be prescribed.
+>
+> (5) The regulations may also make such procedural, incidental, supplementary and transitional provisions as may appear to the Secretary of State necessary or expedient, and may in particular—
+>
+> (a) provide for the manner in which and the period within which claims for compensation under the regulations are to be made, and for the procedure to be followed in determining such claims,
+>
+> (b) prescribe the form of any document required to be used for the purposes of or in connection with such claims,
+>
+> (c) provide for questions arising under the regulations to be determined by the district valuer or the county court, and
+>
+> (d) enable the landlord to set off against any compensation payable under the regulations any sums owed to it by the qualifying person or persons.
+>
+> (6) Nothing in subsections (3) to (5) shall be taken as prejudicing the generality of subsection (2).
+>
+> (7) Regulations under this section—
+>
+> (a) may make different provision with respect to different cases or descriptions of case, including different provision for different areas, and
+>
+> (b) shall be made by statutory instrument which (except in the case of regulations making only such provision as is mentioned in subsection (5)(b)) shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+>
+> (8) For the purposes of this section and section 99B, a tenancy shall be treated as coming to an end if—
+>
+> (a) it ceases to be a secure tenancy by reason of the landlord condition no longer being satisfied, or
+>
+> (b) it is assigned, with the consent of the landlord—
+>
+> (i) to another secure tenant who satisfies the condition in subsection (2) of section 92 (assignments by way of exchange), or
+>
+> (ii) to an assured tenant who satisfies the conditions in subsection (2A) of that section.
+>
+> **99B Persons qualifying for compensation.**
+>
+> (1) A person is a qualifying person for the purposes of section 99A(2) if—
+>
+> (a) he is, at the time when the tenancy comes to an end, the tenant or, in the case of a joint tenancy at that time, one of the tenants, and
+>
+> (b) he is a person to whom subsection (2) applies.
+>
+> (2) This subsection applies to—
+>
+> (a) the improving tenant;
+>
+> (b) a person who became a tenant jointly with the improving tenant;
+>
+> (c) a person in whom the tenancy was vested, or to whom the tenancy was disposed of, under section 89 (succession to periodic tenancy) or section 90 (devolution of term certain) on the death of the improving tenant or in the course of the administration of his estate;
+>
+> (d) a person to whom the tenancy was assigned by the improving tenant and who would have been qualified to succeed him if he had died immediately before the assignment;
+>
+> (e) a person to whom the tenancy was assigned by the improving tenant in pursuance of an order made under section 24 of the Matrimonial Causes Act 1973 (property adjustment orders in connection with matrimonial proceedings);
+>
+> (f) a spouse or former spouse of the improving tenant to whom the tenancy has been transferred by an order under paragraph 2 of Schedule 1 to the Matrimonial Homes Act 1983.
+>
+> (3) Subsection (2)(c) does not apply in any case where the tenancy ceased to be a secure tenancy by virtue of section 89(3) or, as the case may be, section 90(3).
+>
+> (4) Where, in the case of two or more qualifying persons, one of them (“the missing person”) cannot be found—
+>
+> (a) a claim under regulations made under section 99A may be made by, and compensation under those regulations may be paid to, the other qualifying person or persons; but
+>
+> (b) the missing person shall be entitled to recover his share of any compensation so paid from that person or those persons.
+>
+> (5) In this section “the improving tenant” means—
+>
+> (a) the tenant by whom the improvement mentioned in section 99A(1) was made, or
+>
+> (b) in the case of a joint tenancy at the time when the improvement was made, any of the tenants at that time.
+
+##### 123 Right to information.
+
+After subsection (2) of section 104 of the 1985 Act (provision of information about tenancies) there shall be inserted the following subsection—
+
+> (3) A local authority which is the landlord under a secure tenancy shall supply the tenant, at least once in every relevant year, with a copy of such information relating to the provisions mentioned in subsection (1)(b) and (c) as was last published by it; and in this subsection “relevant year” means any period of twelve months beginning with an anniversary of the date of such publication.
+
+##### 124 Existing rights with respect to disposals by housing action trusts.
+
+(1) In subsection (2)(b) of section 79 of the [^M59]Housing Act 1988 (disposals by housing action trusts), the words “in accordance with section 84 below” shall be omitted.
+
+(2) For subsection (1) of section 84 of that Act (provisions applicable to disposals of dwelling-houses let on secure tenancies) there shall be substituted the following subsection—
+
+> (1) The provisions of this section apply in any case where—
+>
+> (a) a housing action trust proposes to make a disposal of one or more houses let on secure tenancies which would result in a person who, before the disposal, is a secure tenant of the trust becoming, after the disposal, the tenant of another person, and
+>
+> (b) that other person is not a local housing authority or other local authority.
+
+(3) In subsection (7) of that section—
+
+(a) after the words “a disposal to which this section applies,” there shall be inserted the words “ or a disposal which would be such a disposal if subsection (1)(b) above were omitted, ”; and
+
+(b) after the words “such further consultation” there shall be inserted the words “ or, as the case may be, such consultation ”.
+
+[^F215]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F215]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F215]6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### 125 New rights with respect to such disposals.
+
+(1) For subsections (2) and (3) of section 84 of the Housing Act 1988 (disposal by housing action trusts of dwelling-houses let on secure tenancies) there shall be substituted the following subsections—
+
+> (2) Before applying to the Secretary of State for consent to the proposed disposal or serving notice under subsection (4) below, the housing action trust shall serve notice in writing on any local housing authority in whose area any houses falling within subsection (1) above are situated—
+>
+> (a) informing the authority of the proposed disposal and specifying the houses concerned, and
+>
+> (b) requiring the authority within such period, being not less than 28 days, as may be specified in the notice, to serve on the trust a notice under subsection (3) below.
+>
+> (3) A notice by a local housing authority under this subsection shall inform the housing action trust, with respect to each of the houses specified in the notice under subsection (2) above which is in the authority’s area, of the likely consequences for the tenant if the house were to be acquired by the authority.
+
+(2) In subsection (4) of that section, for paragraphs (d) and (e) there shall be substituted the following paragraphs—
+
+> (d) if the local housing authority in whose area the house of which he is tenant is situated has served notice under subsection (3) above, informing him (in accordance with the information given in the notice) of the likely consequences for him if the house were to be acquired by that authority;
+>
+> (e) informing him, if he wishes to become a tenant of that authority, of his right to make representations to that effect under paragraph (f) below and of the rights conferred by section 84A below;
+
+.
+
+(3) For subsection (5) of that section there shall be substituted the following subsections—
+
+> (5) If, by virtue of any representations made to the housing action trust in accordance with subsection (4)(f) above, section 84A below applies in relation to any house or block of flats, the trust shall—
+>
+> (a) serve notice of that fact on the Secretary of State, on the local housing authority and on the tenant of the house or each of the tenants of the block, and
+>
+> (b) so amend its proposals with respect to the disposal as to exclude the house or block;
+>
+> and in this subsection “house” and “block of flats” have the same meanings as in that section.
+>
+> (5A) The housing action trust shall consider any other representations so made and, if it considers it appropriate to do so having regard to any of those representations—
+>
+> (a) may amend (or further amend) its proposals with respect to the disposal, and
+>
+> (b) in such a case, shall serve a further notice under subsection (4) above (in relation to which this subsection will again apply).
+
+(4) In subsection (6) of that section, after the words “subsection (5)” there shall be inserted the words “ or subsection (5A) ”.
+
+(5) After that section there shall be inserted the following section—
+
+> **84A Transfer by order of certain dwelling-houses let on secure tenancies.**
+>
+> (1) This section applies in relation to any house or block of flats specified in a notice under subsection (2) of section 84 above if—
+>
+> (a) in the case of a house, the tenant makes representations in accordance with paragraph (f) of subsection (4) of that section to the effect that he wishes to become a tenant of the local housing authority in whose area the house is situated; or
+>
+> (b) in the case of a block of flats, the majority of the tenants who make representations in accordance with that paragraph make representations to the effect that they wish to become tenants of the local housing authority in whose area the block is situated.
+>
+> (2) The Secretary of State shall by order provide for the transfer of the house or block of flats from the housing action trust to the local housing authority.
+>
+> (3) The Secretary of State may also by order transfer from the housing action trust to the local housing authority so much as appears to the Secretary of State to be appropriate of any property belonging to or usually enjoyed with the house or, as the case may be, the block or any flat contained in it; and for this purpose “property” includes chattels of any description and rights and liabilities, whether arising by contract or otherwise.
+>
+> (4) A transfer of any house, block of flats or other property under this section shall be on such terms, including financial terms, as the Secretary of State thinks fit; and an order under this section may provide that, notwithstanding anything in section 141 of the Law of Property Act 1925 (rent and benefit of lessee’s covenants to run with the reversion), any rent or other sum which—
+>
+> (a) arises under the tenant’s tenancy or any of the tenants’ tenancies, and
+>
+> (b) falls due before the date of the transfer,
+>
+> shall continue to be recoverable by the housing action trust to the exclusion of the authority.
+>
+> (5) Without prejudice to the generality of subsection (4) above, the financial terms referred to in that subsection may include provision for payments to a local housing authority (as well as or instead of payments by a local housing authority); and the transfer from a housing action trust of any house, block of flats or other property by virtue of this section shall not be taken to give rise to any right to compensation.
+>
+> (6) In this section—
+>
+> - “block of flats” means a building containing two or more flats;
+> - “common parts”, in relation to a building containing two or more flats, means any parts of the building which the tenants of the flats are entitled under the terms of their tenancies to use in common with each other;
+> - “flat” and “house” have the meanings given by section 183 of the Housing Act 1985;
+>
+> and any reference to a block of flats specified in a notice under section 84(2) above is a reference to a block in the case of which each flat which is let on a secure tenancy is so specified.
+>
+> (7) For the purposes of subsection (6) above, a building which contains—
+>
+> (a) one or more flats which are let, or available for letting, on secure tenancies by the housing action trust concerned, and
+>
+> (b) one or more flats which are not so let or so available,
+>
+> shall be treated as if it were two separate buildings, the one containing the flat or flats mentioned in paragraph (a) above and the other containing the flat or flats mentioned in paragraph (b) above and any common parts.
+
+#### Housing welfare services
+
+##### 126 Provision of housing welfare services.
+
+Part II of the 1985 Act (provision of housing accommodation) shall have effect, and be deemed at all times on and after 1st April 1990 to have had effect, as if after section 11 there were inserted the following section—
+
+> **11A Provision of welfare services.**
+>
+> (1) A local housing authority may provide in connection with the provision of housing accommodation by them (whether or not under this Part) such welfare services, that is to say, services for promoting the welfare of the persons for whom the accommodation is so provided, as accord with the needs of those persons.
+>
+> (2) The authority may make reasonable charges for welfare services provided by virtue of this section.
+>
+> (3) In this section “welfare services” does not include the repair, maintenance, supervision or management of houses or other property.
+>
+> (4) The powers conferred by this section shall not be regarded as restricting those conferred by section 137 of the Local Government Act 1972 (powers to incur expenditure for purposes not authorised by any other enactment) and accordingly the reference to any other enactment in subsection (1)(a) of that section shall not include a reference to this section.
+
+##### 127 Accounting for housing welfare services.
+
+Schedule 4 to the [^M60]Local Government and Housing Act 1989 (the keeping of the Housing Revenue Account) shall have effect, and be deemed always to have had effect, as if—
+
+(a) at the end of paragraph (b) of item 2 of Part I (credits to the account) there were inserted the words “ or income in respect of services provided under section 11A of that Act (power to provide welfare services) ”; and
+
+(b) after paragraph 3 of Part III (special cases) there were inserted the following paragraph—
+
+> **3A Provision of welfare services**
+>
+> (1) This paragraph applies where in any year a local housing authority provide welfare services (within the meaning of section 11A of the [^M61]Housing Act 1985) for persons housed by them in houses or other property within their Housing Revenue Account.
+>
+> (2) The authority may carry to the credit of the account—
+>
+> (a) an amount equal to the whole or any part of the income of the authority for the year from charges in respect of the provision of those services;
+>
+> (b) any sum from some other revenue account of theirs which represents the whole or any part of that income.
+>
+> (3) The authority may carry to the debit of the account—
+>
+> (a) an amount equal to the whole or any part of the expenditure of the authority for the year in respect of the provision of those services;
+>
+> (b) any sum from some other revenue account of theirs which represents the whole or any part of that expenditure.
+
+##### 128 Power to repeal provisions made by sections 126 and 127.
+
+(1) The Secretary of State may at any time by order made by statutory instrument provide that, on such day or in relation to such periods as may be appointed by the order, the provisions made by sections 126 and 127—
+
+(a) shall cease to have effect; or
+
+(b) shall cease to apply for such purposes as may be specified in the order.
+
+(2) An order under this section—
+
+(a) may appoint different days or periods for different provisions or purposes or for different authorities or descriptions of authority, and
+
+(b) may contain such incidental, supplementary or transitional provisions as appear to the Secretary of State to be necessary or expedient.
+
+#### Delegation of housing management
+
+##### 129 Management agreements.
+
+(1) At the end of subsection (3) of section 27 of the 1985 Act (management agreements), there shall be inserted the words “ and shall contain such provisions as may be prescribed by regulations made by the Secretary of State ”.
+
+(2) For subsection (5) of that section there shall be substituted the following subsection—
+
+> (5) The Secretary of State’s approval may be given—
+>
+> (a) either generally to all local housing authorities or to a particular authority or description of authority, and
+>
+> (b) either in relation to a particular case or in relation to a particular description of case,
+>
+> and may be given unconditionally or subject to conditions.
+
+(3) For subsection (6) of that section there shall be substituted the following subsections—
+
+> (6) References in this section to the management functions of a local housing authority in relation to houses or land—
+>
+> (a) do not include such functions as may be prescribed by regulations made by the Secretary of State, but
+>
+> (b) subject to that, include functions conferred by any statutory provision and the powers and duties of the authority as holder of an estate or interest in the houses or land in question.
+>
+> (7) Regulations under this section—
+>
+> (a) may make different provision with respect to different cases or descriptions of case, including different provision for different areas,
+>
+> (b) may contain such incidental, supplementary or transitional provisions as appear to the Secretary of State to be necessary or expedient, and
+>
+> (c) shall be made by statutory instrument which shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+##### [^F216]130 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### [^F217]131 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### 132 Management agreements with tenant management organisations.
+
+(1) After section 27AA of the 1985 Act there shall be inserted the following section—
+
+> **27AB Management agreements with tenant management organisations.**
+>
+> (1) The Secretary of State may make regulations for imposing requirements on a local housing authority in any case where a tenant management organisation serves written notice on the authority proposing that the authority should enter into a management agreement with that organisation.
+>
+> (2) The regulations may make provision requiring the authority—
+>
+> (a) to provide or finance the provision of such office accommodation and facilities, and such training, as the organisation reasonably requires for the purpose of pursuing the proposal;
+>
+> (b) to arrange for such feasibility studies with respect to the proposal as may be determined by or under the regulations to be conducted by such persons as may be so determined;
+>
+> (c) to arrange for such ballots or polls with respect to the proposal as may be determined by or under the regulations to be conducted of such persons as may be so determined; and
+>
+> (d) in such circumstances as may be prescribed by the regulations (which shall include the organisation becoming registered if it has not already done so), to enter into a management agreement with the organisation.
+>
+> (3) The regulations may make provision with respect to any management agreement which is to be entered into in pursuance of the regulations—
+>
+> (a) for determining the houses and land to which the agreement should relate, and the amounts which should be paid under the agreement to the organisation;
+>
+> (b) requiring the agreement to be in such form as may be approved by the Secretary of State and to contain such provisions as may be prescribed by the regulations;
+>
+> (c) requiring the agreement to take effect immediately after the expiry or other determination of any previous agreement; and
+>
+> (d) where any previous agreement contains provisions for its determination by the authority, requiring the authority to determine it as soon as may be after the agreement is entered into.
+>
+> (4) The regulations may also make such procedural, incidental, supplementary and transitional provisions as may appear to the Secretary of State necessary or expedient, and may in particular make provision—
+>
+> (a) for particular questions arising under the regulations to be determined by the authority;
+>
+> (b) for other questions so arising to be determined by an arbitrator agreed to by the parties or, in default of agreement, appointed by the Secretary of State;
+>
+> (c) requiring any person exercising functions under the regulations to act in accordance with any guidance given by the Secretary of State; and
+>
+> (d) for enabling the authority, if invited to do so by the organisation concerned, to nominate one or more persons to be directors or other officers of any tenant management organisation with whom the authority have entered into, or propose to enter into, a management agreement.
+>
+> (5) Nothing in subsections (2) to (4) above shall be taken as prejudicing the generality of subsection (1).
+>
+> (6) Regulations under this section—
+>
+> (a) may make different provision with respect to different cases or descriptions of case, including different provision for different areas, and
+>
+> (b) shall be made by statutory instrument which shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+>
+> (7) Except as otherwise provided by regulations under this section—
+>
+> (a) a local housing authority shall not enter into a management agreement with a tenant management organisation otherwise than in pursuance of the regulations; and
+>
+> (b) the provisions of the regulations shall apply in relation to the entering into of such an agreement with such an organisation in place of—
+>
+> (i) the provisions of section 27A (consultation with respect to management agreements),
+>
+> (ii) in the case of secure tenants, the provisions of section 105 (consultation on matters of housing management), and
+>
+> (iii) in the case of an organisation which is associated with the authority, the provisions of section 33 of the Local Government Act 1988 (restrictions on contracts with local authority companies).
+>
+> (8) In this section—
+>
+> - “arbitrator” means a member of a panel approved for the purposes of the regulations by the Secretary of State;
+> - “associated” shall be construed in accordance with section 33 of the Local Government Act 1988;
+> - “previous agreement”, in relation to an agreement entered into in pursuance of the regulations, means a management agreement previously entered into in relation to the same houses and land;
+> - “registered” means registered under the Industrial and Provident Societies Act 1965 or the Companies Act 1985;
+> - “tenant management organisation” means a body which satisfies such conditions as may be determined by or under the regulations.
+
+(2) Section 27C of the 1985 Act (which is superseded by this section) shall cease to have effect.
+
+#### Priority of charges securing repayment of discount
+
+##### 133 Voluntary disposals by local authorities.
+
+(1) For subsection (2) of section 36 of the 1985 Act (liability to repay discount is a charge on the premises) there shall be substituted the following subsections—
+
+> (2) Subject to subsections (2A) and (2B), the charge has priority immediately after any legal charge securing an amount—
+>
+> (a) left outstanding by the purchaser, or
+>
+> (b) advanced to him by an approved lending institution for the purpose of enabling him to acquire the interest disposed of on the first disposal.
+>
+> (2A) The following, namely—
+>
+> (a) any advance which is made otherwise than for the purpose mentioned in subsection (2)(b) and is secured by a legal charge having priority to the charge taking effect by virtue of this section, and
+>
+> (b) any further advance which is so secured,
+>
+> shall rank in priority to that charge if, and only if, the local authority by written notice served on the institution concerned gives their consent; and the local authority shall so give their consent if the purpose of the advance or further advance is an approved purpose.
+>
+> (2B) The local authority may at any time by written notice served on an approved lending institution postpone the charge taking effect by virtue of this section to any advance or further advance which—
+>
+> (a) is made to the purchaser by that institution, and
+>
+> (b) is secured by a legal charge not having priority to that charge;
+>
+> and the local authority shall serve such a notice if the purpose of the advance or further advance is an approved purpose.
+
+(2) After subsection (4) of that section there shall be inserted the following subsections—
+
+> (5) The approved purposes for the purposes of this section are—
+>
+> (a) to enable the purchaser to defray, or to defray on his behalf, any of the following—
+>
+> (i) the cost of any works to the house,
+>
+> (ii) any service charge payable in respect of the house for works, whether or not to the house, and
+>
+> (iii) any service charge or other amount payable in respect of the house for insurance, whether or not of the house, and
+>
+> (b) to enable the purchaser to discharge, or to discharge on his behalf, any of the following—
+>
+> (i) so much as is still outstanding of any advance or further advance which ranks in priority to the charge taking effect by virtue of this section,
+>
+> (ii) any arrears of interest on such an advance or further advance, and
+>
+> (iii) any costs and expenses incurred in enforcing payment of any such interest, or repayment (in whole or in part) of any such advance or further advance.
+>
+> (6) Where different parts of an advance or further advance are made for different purposes, each of those parts shall be regarded as a separate advance or further advance for the purposes of this section.
+
+##### [^F218]134 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Disposals of dwelling-houses by local authorities
+
+##### [^F219]135 Programmes for disposals.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### 136 Levy on disposals.
+
+(1) For the purposes of this section a disposal of one or more dwelling-houses by a local authority to any person is a qualifying disposal if—
+
+(a) it requires the consent of the Secretary of State under section 32 of the 1985 Act (power to dispose of land held for the purposes of Part II), or section 43 of that Act (consent required for certain disposals not within section 32); and
+
+(b) the aggregate of the following, namely—
+
+(i) the number of dwelling-houses included in the disposal; and
+
+(ii) the number of dwelling-houses which, within any relevant period, have been previously or are subsequently disposed of by the authority to that person, or that person and any associates of his taken together,
+
+exceeds 499 or, if the Secretary of State by order so provides, such other number as may be specified in the order.
+
+(2) In subsection (1) “relevant period” means—
+
+(a) any period of five years beginning after the commencement of this section and including the date of the disposal; or
+
+(b) if the Secretary of State by order so provides, any such other period beginning after that commencement and including that date as may be specified in the order.
+
+(3) A local authority which after the commencement of this section makes a disposal which is or includes, or which subsequently becomes or includes, a qualifying disposal shall be liable to pay to the Secretary of State a levy of an amount calculated in accordance with the formula—
+
+L = (CR - D)xP where—
+
+L = the amount of the levy;
+
+[[^F220]CR = the aggregate of—
+
+(i) any sums received by the authority in respect of the disposal which are capital receipts for the purposes of Chapter 1 of Part 1 of the Local Government Act 2003 (capital finance etc) and do not fall within a description determined by the Secretary of State; and
+
+(ii) any capital receipts which the authority is treated as having by virtue of the application, in relation to the disposal, of regulations under section 10 of the Local Government Act 2003 (power to make provision about disposal consideration not received by the person making the disposal or not received in the form of money)]
+
+D = such amount as may be calculated in accordance with such formula as the Secretary of State may determine;
+
+P = 20 per cent. or, if the Secretary of State by order so provides, such other percentage as may be specified in the order.
+
+(4) A formula determined for the purposes of item D in subsection (3) may include any variable which is included in a determination made for the purposes of section 80 of the 1989 Act (calculation of Housing Revenue Account subsidy).
+
+[[^F221](4A) The power of the Secretary of State to determine a formula for the purposes of item D in subsection (3) shall include power to determine that, in such cases as he may determine, item D is to be taken to be equal to item CR.]
+
+(5) The administrative arrangements for the payment of any levy under this section shall be such as may be specified in a determination made by the Secretary of State, and such a determination may in particular make provision as to—
+
+(a) the information to be supplied by authorities;
+
+(b) the form and manner in which, and the time within which, the information is to be supplied;
+
+(c) the payment of the levy in stages in such circumstances as may be provided in the determination;
+
+(d) the date on which payment of the levy (or any stage payment of the levy) is to be made;
+
+(e) the adjustment of any levy which has been paid in such circumstances as may be provided in the determination;
+
+(f) the payment of interest in such circumstances as may be provided in the determination; and
+
+(g) the rate or rates (whether fixed or variable, and whether or not calculated by reference to some other rate) at which such interest is to be payable;
+
+and any such administrative arrangements shall be binding on local authorities.
+
+(6) Any amounts by way of levy or interest which are not paid to the Secretary of State as required by the arrangements mentioned in subsection (5) shall be recoverable in a court of competent jurisdiction.
+
+[^F222]7 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F222]8 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F222]9 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(10) Any sums received by the Secretary of State under this section shall be paid into the Consolidated Fund; and any sums paid by the Secretary of State by way of adjustment of levies paid under this section shall be paid out of money provided by Parliament.
+
+(11) Before making an order or determination under this section, the Secretary of State shall consult such representatives of local government as appear to him to be appropriate.
+
+(12) An order [^F223]... under this section—
+
+(a) shall be made by statutory instrument which shall be subject to annulment in pursuance of a resolution of either House of Parliament;
+
+(b) may make different provision for different cases or descriptions of case, or for different authorities or descriptions of authority; and
+
+(c) may contain such transitional and supplementary provisions as the Secretary of State considers necessary or expedient.
+
+(13) Any determination under this section—
+
+(a) may make different provision for different cases or descriptions of case, or for different authorities or descriptions of authority; and
+
+(b) may be varied or revoked by a subsequent determination.
+
+[[^F224](14) In this section—
+
+- “the 1989 Act” means the Local Government and Housing Act 1989;
+- “dwelling-house” has the same meaning as in Part 5 of the 1985 Act except that it does not include a hostel (as defined in section 622 of that Act) or any part of a hostel;
+- “local authority” has the meaning given by section 4 of that Act;
+- “long lease” means a lease for a term of years certain exceeding 21 years other than a lease which is terminable before the end of that term by notice given by or to the landlord;
+- “subsidiary” has the same meaning as in section 61 of the Housing Act 1996 but as if references in subsection (2) of that section and section 60 of that Act to registered social landlords and landlords were references to housing associations (within the meaning of the Housing Associations Act 1985).
+
+(15) For the purposes of this section—
+
+(a) a disposal of any dwelling-house is to be disregarded if at the time of the disposal the local authority's interest in the dwelling-house is or was subject to a long lease;
+
+(b) two persons are associates of each other if—
+
+(i) one of them is a subsidiary of the other;
+
+(ii) they are both subsidiaries of some other person; or
+
+(iii) there exists between them such relationship or other connection as may be specified in a determination made by the Secretary of State; and
+
+(c) a description of authority may be framed by reference to any circumstances whatever.]
+
+##### 137 Disposals: transitional provisions.
+
+[^F225]1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F225]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F225]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) If before the commencement of section 136 any statement was made by or on behalf of the Secretary of State—
+
+(a) that, if that section were then in force, he would make under that section such determinations as are set out in the statement, and
+
+(b) that, when that section comes into force, he is to be regarded as having made under that section the determinations set out in the statement,
+
+those determinations shall have effect as if they had been validly made under that section at the time of the statement.
+
+(5) Any consultation undertaken—
+
+(a) before the commencement of section 136,
+
+(b) before the making of such a statement as is mentioned in subsection (4), and
+
+(c) in connection with determinations proposed to be set out in the statement,
+
+shall be as effective, in relation to those determinations, as if that section had been in force at the time the consultation was undertaken.
+
+#### Expenses on defective housing
+
+##### 138 Contributions in respect of certain post-March 1989 expenses.
+
+(1) In section 157 of the [^M62]Local Government and Housing Act 1989 (commutation of and interest on periodic payments of grants etc.), in subsection (8) (which changes certain contributions under section 569 of the 1985 Act from annual payments to lump sums), for paragraph (b) there shall be substituted the following paragraph—
+
+> (b) so much of any contributions in respect of an expense incurred on or after 1st April 1989 and before 1st April 1990 as have not been made before 1st April 1990
+
+.
+
+(2) This section shall be deemed to have come into force on 1st January 1993.
+
+##### 139 Contributions in respect of certain pre-April 1989 expenses.
+
+(1) Where—
+
+(a) before 1st April 1989 a local housing authority incurred any such expense as is referred to in subsection (1) of section 569 of the 1985 Act (assistance by way of reinstatement grant, repurchase or payments for owners of defective housing); and
+
+(b) before 1st January 1993, the Secretary of State has not made in respect of that expense any contribution of such a description as is referred to in subsection (2) of that section, as amended by section 157(8) of the Local Government and Housing Act 1989 (single commuted contributions),
+
+any contributions in respect of that expense which are made under section 569 on or after 1st January 1993 shall be annual payments calculated and payable in accordance with the following provisions of this section.
+
+(2) The amount of the annual payment in respect of any relevant financial year shall be a sum equal to the relevant percentage of the annual loan charges referable to the amount of the expense incurred.
+
+(3) Notwithstanding that annual loan charges are calculated by reference to a 20 year period, annual payments made by virtue of this section shall be made only in respect of relevant financial years ending at or before the end of the period of 20 years beginning with the financial year in which, as the case may be—
+
+(a) the work in respect of which the reinstatement grant was payable was completed;
+
+(b) the acquisition of the interest concerned was completed; or
+
+(c) the payment referred to in subsection (1)(c) of section 569 was made.
+
+(4) Subsections (3) and (4) of section 569 (which determine the relevant percentage and the amount of the expense incurred) apply for the purposes of the preceding provisions of this section as they apply for the purposes of that section.
+
+(5) Nothing in this section affects the operation of subsection (6) of section 569 (terms etc. for payment of contributions).
+
+(6) In this section—
+
+- “the annual loan charges referable to the amount of the expense incurred” means the annual sum which, in the opinion of the Secretary of State, would fall to be provided by a local housing authority for the payment of interest on, and the repayment of, a loan of that amount repayable over a period of 20 years;
+- “relevant financial year” means the financial year beginning on 1st April 1991 and each successive financial year.
+
+(7) This section shall be deemed to have come into force on 1st January 1993.
+
+#### Housing Revenue Account subsidy
+
+##### 140 Calculation of Housing Revenue Account subsidy.
+
+In subsection (1) of section 80 of the [^M63]Local Government and Housing Act 1989 (determination of formulae for calculating Housing Revenue Account subsidy), the words “and for any year the first such determination shall be made before the 25th December immediately preceding that year” shall cease to have effect.
+
+### Chapter II — SCOTLAND
+
+#### Rent to loan scheme
+
+##### 141 Eligibility for rent to loan scheme.
+
+[^F226]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### 142 The rent to loan scheme.
+
+[^F227]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### 143 Rent to loan scheme: related amendments.
+
+[^F228]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Right to purchase
+
+##### 144 Abatement of purchase price.
+
+After section 66 of the 1987 Act there shall be inserted the following sections—
+
+> **66A Abatement of purchase price on landlord’s failure before contract of sale.**
+>
+> (1) Where a tenant who seeks to exercise a right to purchase a house under section 61 has served an application to purchase on the landlord and the landlord—
+>
+> (a) not having served a notice of refusal, has failed to serve an offer to sell on the tenant within 2 months of the application or, where an amended offer to sell falls to be served on the tenant under subsection (3) of section 63, has failed to do so within the time limit specified in that subsection;
+>
+> (b) having agreed to serve an amended offer to sell on the tenant in response to a request under section 65(1), has failed to do so within one month of the request;
+>
+> (c) following an order by the Lands Tribunal to serve an amended offer to sell on the tenant under section 65(3), has failed to do so within 2 months of the date of the order;
+>
+> (d) following a finding by the Lands Tribunal under section 68(4), has failed to serve an offer to sell within 2 months of the date of the finding; or
+>
+> (e) following an order by the Lands Tribunal under section 71(2)(b), has failed to serve an offer or amended offer to sell within the time specified in the order,
+>
+> the tenant may serve on the landlord a notice in writing requiring the landlord to serve on him, within one month of the date of the notice, the offer to sell or (as the case may be) the amended offer to sell which the landlord has failed to serve.
+>
+> (2) Where the landlord fails to serve the offer to sell or the amended offer to sell within one month of the date of the notice in writing under subsection (1), the price fixed under section 62 shall be reduced by the amount of rent paid by the tenant during the period commencing with the date on which the one month period expired and ending with the date on which the offer is served.
+>
+> **66B Abatement of purchase price on landlord’s failure after contract of sale.**
+>
+> (1) Where the landlord has failed and continues to fail to deliver a good and marketable title to the tenant in accordance with the contract of sale, the tenant may at any time serve on the landlord a notice (the “initial notice of delay”) setting out the landlord’s failure and specifying—
+>
+> (a) the most recent action of which the tenant is aware which has been taken by the landlord in fulfilment of his duties under this Part;
+>
+> (b) a period (the “response period”), of not less than one month beginning on the date of service of the notice, within which the service by the landlord of a counter notice under subsection (2) will have the effect of cancelling the initial notice of delay.
+>
+> (2) If there is no action under this Part which, at the beginning of the response period it was for the landlord to take in order to grant a good and marketable title to the tenant in implementation of the contract of sale, the landlord may serve on the tenant a counter notice either during or after the response period.
+>
+> (3) At any time when—
+>
+> (a) the response period specified in the initial notice of delay has expired; and
+>
+> (b) the landlord has not served a counter notice under subsection (2),
+>
+> the tenant may serve on the landlord a notice (the “operative notice of delay”) that this subsection shall apply to the price fixed under section 62; and thereupon the price fixed under section 62 shall be reduced by the amount of rent paid by the tenant during the period commencing with the date of service of the operative notice of delay and ending with whichever is the earlier of the following dates—
+>
+> (i) the date of service by the landlord of a counter notice; or
+>
+> (ii) the date of delivery by the landlord of a good and marketable title in implementation of the contract of sale.
+>
+> (4) Where the landlord has served a counter notice under subsection (2) the tenant (together with any joint purchaser) may, by serving on the clerk to the Lands Tribunal a copy of the initial notice of delay and of the landlord’s counter notice together with a request for the matter to be so referred, refer the matter to the Tribunal for its consideration under subsection (5).
+>
+> (5) Where the matter has been so referred to the Lands Tribunal it shall consider whether or not in its opinion action which would have enabled a good and marketable title to be delivered in implementation of the contract of sale could have been taken by the landlord and shall find accordingly.
+>
+> (6) Where the Lands Tribunal finds that action could have been taken by the landlord the tenant shall be entitled to serve an operative notice of delay as if the landlord had not served a counter notice and in that event the commencement date for the purposes of subsection (3) shall be the date on which an operative notice of delay could first have been served if no counter notice had been served.
+>
+> **66C Provisions relating to sections 66A and 66B.**
+>
+> (1) Where there is more than one period in respect of which the price fixed under section 62 can be reduced under section 66A(2) or 66B(3), the periods may be aggregated and the price reduced by the total amount of the rent.
+>
+> (2) If the period in respect of which the price fixed can be so reduced is, or if the periods aggregated under subsection (1) together amount to, more than twelve months, the amount by which the price fixed under section 62 would, apart from this subsection, fall to be reduced shall be increased by 50% or such other percentage as the Secretary of State may by order made by statutory instrument and subject to annulment in pursuance of a resolution of either House of Parliament provide.
+
+##### 145 Effect of abatement of purchase price on recovery of discount.
+
+In section 72 of the 1987 Act (recovery of discount on early resale), after subsection (1) there shall be inserted the following subsection—
+
+> (1A) Where a tenant has served on the landlord a notice under section 66A(1), the commencement of the period of 3 years referred to in subsection (1) shall be backdated by a period equal to the time (or, where section 66C(1) applies, the aggregate of the times) during which, by virtue of section 66A(2), any payment of rent falls to be taken into account.
+
+#### Other rights of secure tenants
+
+##### 146 Right to have repairs carried out.
+
+[^F229]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### 147 Right to compensation for improvements.
+
+[^F230]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### 148 Right to information.
+
+[^F231]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Housing welfare services
+
+##### 149 Provision of housing welfare services.
+
+Part I of the 1987 Act shall have effect, and be deemed always to have had effect, as if after section 5 there were inserted the following section—
+
+> **5A Power of local authority to provide welfare services.**
+>
+> (1) A local authority may provide in connection with housing accommodation provided by them (whether or not under this Part) such welfare services, that is to say services for promoting the welfare of the persons for whom the accommodation is so provided, as accord with the needs of those persons.
+>
+> (2) The local authority may make reasonable charges for welfare services provided by virtue of this section.
+>
+> (3) Notwithstanding the provisions of section 203, a local authority may attribute the income from and the expenditure on the welfare services provided under subsection (1) to a revenue account other than their housing revenue account.
+>
+> (4) In this section “welfare services” does not include the repair, maintenance, supervision or management of houses or other property.
+>
+> (5) The powers conferred by this section shall not be regarded as restricting those conferred by section 83 of the Local Government (Scotland) Act 1973 (power to incur expenditure for purposes not otherwise authorised) and accordingly the reference in subsection (1) of that section to any other enactment shall not include a reference to this section.
+
+##### 150 Accounting for housing welfare services.
+
+Schedule 15 to the 1987 Act (the housing revenue account) shall have effect, and be deemed always to have had effect, as if after paragraph 4 there were inserted the following paragraph—
+
+> **4A Provision of welfare services**
+>
+> Where in any year a local authority provide welfare services under section 5A, they may—
+>
+> (a) carry to the credit of the housing revenue account an amount equal to the whole or any part of the income of the authority for the year from charges in respect of the provision of those services;
+>
+> (b) carry to the debit of the account an amount equal to the whole or any part of the expenditure of the authority for the year in respect of the provision of those services.
+
+##### 151 Power to repeal provisions relating to housing welfare services.
+
+After section 5A of the 1987 Act there shall be inserted the following section—
+
+> **5B Power to repeal provisions relating to welfare services.**
+>
+> (1) The Secretary of State may at any time by order made by statutory instrument provide that, on such day or in relation to such periods as may be appointed by the order, section 5A, this section and paragraph 4A of Schedule 15 shall—
+>
+> (a) cease to have effect; or
+>
+> (b) cease to apply for such purposes as may be specified in the order.
+>
+> (2) An order under this section may—
+>
+> (a) appoint different days or periods for different provisions or purposes or for different authorities or descriptions of authority; and
+>
+> (b) contain such incidental, supplementary or transitional provisions as appear to the Secretary of State to be necessary or expedient.
+
+#### Miscellaneous
+
+##### 152 Management agreements with housing co-operatives.
+
+[^F232]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### 153 Standards and performance in housing management.
+
+After section 17 of the 1987 Act there shall be inserted the following sections—
+
+> **Standards and performance in housing management**
+>
+> **17A Publication of information.**
+>
+> (1) A local authority shall, in relation to their management of the houses which they hold for housing purposes, publish each year such information as—
+>
+> (a) may be prescribed by the Secretary of State about—
+>
+> (i) the standard of service of management which the authority undertake to provide;
+>
+> (ii) the authority’s performance in the past in the achievement of that standard;
+>
+> (iii) the authority’s intentions for the future in relation to the achievement of that standard;
+>
+> (iv) any other matter which he thinks should be included in the information to be published;
+>
+> (b) the authority consider it appropriate to publish in relation to the matters mentioned in paragraph (a) above, either as a result of having consulted tenants or otherwise;
+>
+> (c) the authority consider it appropriate to publish in relation to any other matter, either as a result of consulting tenants or otherwise.
+>
+> (2) Before publishing such information, a local authority shall consult their tenants as to the information to be published under subsection (1) and shall take account of the characteristics of the different parts of their districts or areas and of the difference in information which may be appropriate in relation to these parts.
+>
+> (3) The Secretary of State may direct a local authority to consult tenants or groups of tenants representing less than the whole of their district or area.
+>
+> **17B Power of Secretary of State to direct local authority.**
+>
+> At the same time as the information is published, the local authority shall send a copy of the document in which it is published to the Secretary of State who may, if he considers that the publication is unsatisfactory, direct the local authority to publish the information in such manner as he specifies in the direction.
+>
+> **17C Management plan.**
+>
+> A local authority shall, if the Secretary of State gives them notice to do so, prepare and submit to him within 3 months after such notice, a plan for the management of the houses which they hold for housing purposes.
+
+##### 154 Further provision as to allocation of housing.
+
+In section 20 of the 1987 Act (persons to have priority on housing list and allocation of housing) at the end there shall be added the following subsection—
+
+> (3) A member of a local authority shall be excluded from a decision on the allocation of local authority housing, or of housing in respect of which the local authority may nominate the tenant, where—
+>
+> (a) the house in question is situated; or
+>
+> (b) the applicant for the house in question resides,
+>
+> in the electoral division or ward for which that member is elected.
+
+##### 155 Rules relating to housing list.
+
+(1) For subsection (1) of section 21 of the 1987 Act (publication of rules relating to the housing list) there shall be substituted the following subsection—
+
+> (1) It shall be the duty—
+>
+> (a) of every local authority to make and to publish in accordance with subsection (4), and again within 6 months of any alteration thereof, rules governing—
+>
+> (i) the admission of applicants to any housing list;
+>
+> (ii) the priority of allocation of houses;
+>
+> (iii) the transfer of tenants from houses owned by the landlord to houses owned by other bodies;
+>
+> (iv) exchanges of houses;
+>
+> (b) of Scottish Homes and development corporations (including urban development corporations) to publish in accordance with subsection (4), and again within 6 months of any alteration thereof, any rules they may have governing the matters set out in sub-paragraphs (i) to (iv) of paragraph (a) above.
+
+(2) [^F233]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### 156 Defective dwellings: damages for landlord’s failure to notify.
+
+After subsection (3) of section 299 of the 1987 Act (jurisdiction of sheriff) there shall be added the following subsections—
+
+> (4) Where damages are awarded in proceedings commenced before 1st December 1994 which arise out of a failure on the part of the public sector authority to give a person acquiring a relevant interest in a dwelling notice in writing under section 291, the amount of damages for the purposes of this subsection shall be equal to the difference between—
+>
+> (a) the market value of the dwelling assessed as if it were not a defective dwelling and were available for sale on the open market with vacant possession; and
+>
+> (b) the market value of the dwelling assessed as a defective dwelling and as if available for sale on the open market with vacant possession.
+>
+> (5) Subsection (4) applies in relation to proceedings which arise out of a failure by the authority before the coming into force of section 156 of the Leasehold Reform, Housing and Urban Development Act 1993 as it does to proceedings which arise out of a failure by the authority after that date.
+
+##### 157 Other amendments of 1987 Act.
+
+(1) In section 17 of the 1987 Act (management of local authority houses), in subsection (1), the words “and exercised by” shall cease to have effect.
+
+(2) In section 61 of that Act (secure tenant’s right to purchase), in subsection (10), subparagraphs (i) and (ii) of paragraph (b) shall cease to have effect.
+
+(3) In section 62 of that Act (price)—
+
+(a) in subsection (3)(b), the words “continuous” and “immediately” shall cease to have effect;
+
+(b) after subsection (3) there shall be inserted—
+
+> (3A) There shall be deducted from the discount an amount equal to any previous discount, or the aggregate of any previous discounts, received by the appropriate person on any previous purchase of a house by any of these persons from a landlord who is a person specified in subsection (11) of section 61 or prescribed in an order made under that subsection, reduced by any amount of such previous discount recovered by such a landlord.
+
+;
+
+(c) in subsection (4)—
+
+(i) for paragraph (a) there shall be substituted—
+
+> (a) the “appropriate person” is whoever of—
+>
+> (i) the tenant; or
+>
+> (ii) the tenant’s spouse if living with him at the date of service of the application to purchase; or
+>
+> (iii) a deceased spouse if living with the tenant at the time of death; or
+>
+> (iv) any joint tenant who is a joint purchaser of the house,
+>
+> has the longer or longest such occupation;
+
+and
+
+(ii) at the end there shall be inserted— “ and, for the purposes of subsection (3A), the “appropriate person” is any of the persons mentioned in sub-paragraphs (i) to (iv) of paragraph (a). ”
+
+[^F234]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Part III — DEVELOPMENT OF URBAN AND OTHER AREAS
+
+### The Urban Regeneration Agency
+
+#### [^F235]158 The Agency.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F235]159 Objects of Agency.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F235]160 General powers of Agency.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F235]161 Vesting of land by order.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F235]162 Acquisition of land.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F235]163 Power to enter and survey land.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F235]164 Financial assistance.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F235]165 Connection of private streets to highway.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Agency: supplemental
+
+#### [^F235]166 Consents of Secretary of State.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F235]167 Guidance and directions by Secretary of State.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F235]168 Validity of transactions.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F235]169 Supplementary provisions as to vesting and acquisition of land.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Designation orders and their effect
+
+#### [^F235]170 Power to make designation orders.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F235]171 Agency as local planning authority.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F235]172 Adoption of private streets.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F235]173 Traffic regulation orders for private streets.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Other functions of Secretary of State
+
+#### [^F236]174 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F237]175 Power to appoint Agency as agent.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 176 Power to direct disposal of unused etc. land held by public bodies.
+
+(1) In subsection (1) of section 98 (disposal of land by public bodies at direction of Secretary of State) of the [^M64]Local Government, Planning and Land Act 1980 (“the 1980 Act”)—
+
+(a) in paragraph (a), for the words “is for the time being entered on a register maintained by him under section 95 above” there shall be substituted the words “ for the time being satisfies the conditions specified in section 95(2) above ”; and
+
+(b) in paragraph (b), for the words “is for the time being entered on such a register” there shall be substituted the words “ for the time being satisfies those conditions ”.
+
+(2) In section 99A of that Act (powers of entry), subsection (2) (which precludes entry on land which is not for the time being entered on a register maintained under section 95) shall cease to have effect.
+
+### Urban development corporations
+
+#### [^F238]177 Power to act as agents of Agency.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 178 Powers with respect to private streets.
+
+For section 157 of the 1980 Act (highways) there shall be substituted the following sections—
+
+> **Private streets**
+>
+> **157 Adoption of private streets.**
+>
+> (1) Where any street works have been executed on any land in an urban development area which was then or has since become a private street (or part of a private street), the urban development corporation may serve a notice (an “adoption notice”) on the street works authority requiring the authority to declare the street (or part) to be a highway which for the purposes of the Highways Act 1980 is a highway maintainable at the public expense.
+>
+> (2) Within the period of two months beginning with the date on which the adoption notice was served, the street works authority may appeal against the notice to the Secretary of State.
+>
+> (3) After considering any representations made to him by the corporation and the street works authority, the Secretary of State shall determine an appeal under subsection (2) above by setting aside or confirming the adoption notice (with or without modifications).
+>
+> (4) Where, under subsection (3) above, the Secretary of State confirms the adoption notice—
+>
+> (a) he may at the same time impose conditions (including financial conditions) upon the corporation with which it must comply in order for the notice to take effect; and
+>
+> (b) with effect from such date as the Secretary of State may specify, the street (or part) shall become a highway which for the purposes of the Highways Act 1980 is a highway maintainable at the public expense.
+>
+> (5) Where a street works authority neither complies with the adoption notice, nor appeals under subsection (2) above, the street (or part) shall become, upon the expiry of the period of two months referred to in subsection (2) above, a highway which for the purposes of the Highways Act 1980 is a highway maintainable at the public expense.
+>
+> (6) In this section—
+>
+> - “highway” has the same meaning as in the Highways Act 1980;
+> - “private street”, “street works” and “street works authority” have the same meanings as in Part XI of that Act.
+>
+> (7) This section does not extend to Scotland.
+>
+> **157A Connection of private streets to highway.**
+>
+> (1) An urban development corporation may serve a notice (a “connection notice”) on the local highway authority requiring the authority to connect a private street in the urban development area to an existing highway (whether or not it is a highway which for the purposes of the Highways Act 1980 is a highway maintainable at the public expense).
+>
+> (2) A connection notice must specify—
+>
+> (a) the private street and the existing highway;
+>
+> (b) the works which appear to the corporation to be necessary to make the connection; and
+>
+> (c) the period within which those works should be carried out.
+>
+> (3) Before serving a connection notice an urban development corporation shall consult the local highway authority about the proposed contents of the notice.
+>
+> (4) Within the period of two months beginning with the date on which the connection notice was served, the local highway authority may appeal against the notice to the Secretary of State.
+>
+> (5) After considering any representations made to him by the corporation and the local highway authority, the Secretary of State shall determine an appeal under subsection (4) above by setting aside or confirming the connection notice (with or without modifications).
+>
+> (6) A connection notice becomes effective—
+>
+> (a) where no appeal is made within the period of two months referred to in subsection (4) above, upon the expiry of that period;
+>
+> (b) where an appeal is made within that period but is withdrawn before it has been determined by the Secretary of State, on the date following the expiry of the period of 21 days beginning with the date on which the Secretary of State is notified of the withdrawal;
+>
+> (c) where an appeal is made and the connection notice is confirmed by a determination under subsection (5) above, on such date as the Secretary of State may specify in the determination.
+>
+> (7) Where a connection notice becomes effective, the local highway authority shall carry out the works specified in the notice within such period as may be so specified and may recover from the corporation the expenses reasonably incurred by them in doing so.
+>
+> (8) If the local highway authority do not carry out the works specified in the notice within such period as may be so specified, the corporation may themselves carry out or complete those works or arrange for another person to do so.
+>
+> (9) In this section—
+>
+> - “highway” and “local highway authority” have the same meanings as in the Highways Act 1980;
+> - “private street” has the same meaning as in Part XI of that Act.
+>
+> (10) This section does not extend to Scotland.
+>
+> **157B Traffic regulation orders for private streets.**
+>
+> (1) Where—
+>
+> (a) an urban development corporation submits to the Secretary of State that an order under this section should be made in relation to any road in the urban development area which is a private street; and
+>
+> (b) it appears to the Secretary of State that the traffic authority do not intend to make an order under section 1 or, as the case may be, section 6 of the Road Traffic Regulation Act 1984 (orders concerning traffic regulation) in relation to the road,
+>
+> the Secretary of State may by order under this section make in relation to the road any such provision as he might have made by order under that section if he had been the traffic authority.
+>
+> (2) The Road Traffic Regulation Act 1984 applies to an order under this section as it applies to an order made by the Secretary of State under section 1 or, as the case may be, section 6 of that Act in relation to a road for which he is the traffic authority.
+>
+> (3) In this section—
+>
+> - “private street” has the same meaning as in Part XI of the Highways Act 1980;
+> - “road” and “traffic authority” have the same meanings as in the Road Traffic Regulation Act 1984.
+>
+> (4) This section does not extend to Scotland.
+
+#### 179 Adjustment of areas.
+
+(1) After subsection (3) of section 134 (urban development areas) of the 1980 Act there shall be inserted the following subsections—
+
+> (3A) The Secretary of State may by order alter the boundaries of any urban development area so as to exclude any area of land.
+>
+> (3B) Before making an order under subsection (3A) above, the Secretary of State shall consult any local authority the whole or any part of whose area is included in the area of land to be excluded by the order.
+
+(2) In subsection (4) of that section, for the words “this section” there shall be substituted the words “ subsection (1) above ”.
+
+(3) After that subsection there shall be inserted the following subsection—
+
+> (5) The power to make an order under subsection (3A) above—
+>
+> (a) shall be exercisable by statutory instrument subject to annulment in pursuance of a resolution of either House of Parliament; and
+>
+> (b) shall include power to make such incidental, consequential, transitional or supplementary provision as the Secretary of State thinks fit.
+
+(4) In section 135(2) of that Act (establishment of urban development corporations), for the words “section 134” there shall be substituted the words “ section 134(1) ”.
+
+(5) In section 171 of that Act (interpretation of Part XVI: general), for the definition of “urban development area” there shall be substituted the following definition—
+
+> “urban development area” means so much of an area designated by an order under subsection (1) of section 134 above as is not excluded from it by an order under subsection (3A) of that section;
+
+.
+
+#### 180 Transfers of property, rights and liabilities.
+
+(1) In subsection (1) of section 165 of the 1980 Act (power to transfer undertaking of urban development corporation), after the words “local authority”, in both places where they occur, there shall be inserted the words “ or other body ”.
+
+(2) Subsection (3) of that section (transfer of liabilities by order) shall cease to have effect; and after that section there shall be inserted the following section—
+
+> **165A Transfer of property, rights and liabilities by order.**
+>
+> (1) Subject to this section, the Secretary of State may at any time by order transfer to himself, upon such terms as he thinks fit, any property, rights or liabilities which—
+>
+> (a) are for the time being vested in an urban development corporation, and
+>
+> (b) are not proposed to be transferred under an agreement made under section 165 above and approved by the Secretary of State with the Treasury’s concurrence.
+>
+> (2) An order under this section may terminate—
+>
+> (a) any appointment of the corporation under subsection (1) of section 177 of the Leasehold Reform, Housing and Urban Development Act 1993 (power of corporations to act as agents of the Urban Regeneration Agency); and
+>
+> (b) any arrangements made by the corporation under subsection (2) of that section.
+>
+> (3) Before making an order under this section, the Secretary of State shall consult each local authority in whose area all or part of the urban development area is situated.
+>
+> (4) An order under this section shall be made by statutory instrument which shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(3) In subsection (9) of that section—
+
+(a) after the words “this section” there shall be inserted the words “ and sections 165A and 166 below ”;
+
+(b) for the words “the section”, in both places where they occur, there shall be substituted the words “ the sections ”.
+
+(4) For subsection (1) of section 166 of that Act (dissolution of urban development corporations) there shall be substituted the following subsection—
+
+> (1) Where all property, rights and liabilities of an urban development corporation have been transferred under or by one or more relevant instruments, the Secretary of State may make an order by statutory instrument under this section.
+
+(5) For subsection (5) of that section there shall be substituted the following subsection—
+
+> (5) In this section “relevant instrument” means an agreement made under section 165 above or an order made under section 165A above.
+
+### Miscellaneous
+
+#### 181 No compensation where planning decision made after certain acquisitions.
+
+[^F239]1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F240]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F239]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F240]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 182 Powers of housing action trusts with respect to private streets.
+
+(1) In subsection (1) of section 69 of the [^M65]Housing Act 1988 (powers of housing action trusts with respect to private streets), for the words “in a private street (or part of a private street) in a designated area” there shall be substituted the words “ on any land in a designated area which was then or has since become a private street (or part of a private street) ”.
+
+(2) In subsection (2) of that section, the words from “on grounds” onwards shall be omitted.
+
+### Supplemental
+
+#### [^F241]183 Notices.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F241]184 Dissolution of English Industrial Estates Corporation.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F241]185 Interpretation of Part III.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Part IV — SUPPLEMENTAL
+
+### 186 Financial provisions.
+
+(1) There shall be paid out of money provided by Parliament—
+
+(a) any expenses of the Secretary of State incurred in consequence of this Act; and
+
+(b) any increase attributable to this Act in the sums payable out of money so provided under any other enactment.
+
+(2) There shall be paid into the Consolidated Fund any increase attributable to this Act in the sums payable into that Fund under any other enactment.
+
+### 187 Amendments and repeals.
+
+(1) The enactments mentioned in Schedule 21 to this Act shall have effect subject to the amendments there specified (being minor amendments and amendments consequential on the provisions of this Act).
+
+(2) The enactments mentioned in Schedule 22 to this Act (which include some that are spent or no longer of practical utility) are hereby repealed to the extent specified in the third column of that Schedule.
+
+### 188 Short title, commencement and extent.
+
+(1) This Act may be cited as the Leasehold Reform, Housing and Urban Development Act 1993.
+
+(2) This Act, except—
+
+(a) this section;
+
+(b) sections 126 and 127, 135 to 140, 149 to 151, 181(1), (2) and (4) and 186; and
+
+(c) the repeal in section 80(1) of the [^M66]Local Government and Housing Act 1989,
+
+shall come into force on such day as the Secretary of State may by order made by statutory instrument appoint; and different days may be so appointed for different provisions or for different purposes.
+
+(3) An order under subsection (2) may contain such transitional provisions and savings (whether or not involving the modification of any statutory provision) as appear to the Secretary of State necessary or expedient in connection with the provisions thereby brought into force by the order.
+
+(4) The following, namely—
+
+(a) Part I of this Act;
+
+(b) Chapter I of Part II of this Act; and
+
+(c) subject to subsection (6), Part III of this Act,
+
+extend to England and Wales only.
+
+(5) Chapter II of Part II of this Act extends to Scotland only.
+
+(6) In Part III of this Act—
+
+(a) sections [[^F242]174], 179 and 180 also extend to Scotland; [^F243]...
+
+[^F243]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7) This Part, except this section, paragraph 3 of Schedule 21 and the repeals in the [^M67]House of Commons Disqualification Act 1975 and the [^M68]Northern Ireland Assembly Disqualification Act 1975, does not extend to Northern Ireland.
+
+## SCHEDULE 1 — CONDUCT OF PROCEEDINGS BY THE REVERSIONER ON BEHALF OF OTHER LANDLORDS
+
+*Section 9.*
+
+### Part I — THE REVERSIONER
+
+#### Freeholder to be reversioner
+
+**1** Subject to paragraphs 2 to 4, [[^F244]in a case to which section 9(2) applies,] the reversioner in respect of any premises is the person who owns the freehold of those premises.
+
+#### Replacement of freeholder by other relevant landlord
+
+**2** The court may, on the application of all the relevant landlords of any premises, appoint to be the reversioner in respect of those premises (in place of the person designated by paragraph 1) such person as may have been determined by agreement between them.
+
+**3** If it appears to the court, on the application of a relevant landlord of any premises—
+
+(a) that the respective interests of the relevant landlords of those premises, the absence or incapacity of the person referred to in paragraph 1 or other special circumstances require that some person other than the person there referred to should act as the reversioner in respect of the premises, or
+
+(b) that the person referred to in that paragraph is unwilling to act as the reversioner,
+
+the court may appoint to be the reversioner in respect of those premises (in place of the person designated by paragraph 1) such person as it thinks fit.
+
+**4** The court may also, on the application of any of the relevant landlords or of the nominee purchaser, remove the reversioner in respect of any premises and appoint another person in his place, if it appears to the court proper to do so by reason of any delay or default, actual or apprehended, on the part of the reversioner.
+
+**5** A person appointed by the court under any of paragraphs 2 to 4—
+
+(a) must be a relevant landlord; but
+
+(b) may be so appointed on such terms and conditions as the court thinks fit.
+
+### [[^F245]Part IA — The reversioner: premises with multiple freeholders
+
+#### Initial reversioner
+
+**[^F246]5A** Subject to paragraphs 5B to 5D, in a case to which section 9(2A) applies, the reversioner in respect of any premises is the person specified in the initial notice in accordance with section 13(2A) as the recipient.
+
+#### Change of reversioner
+
+**[^F247]5B** The court may, on the application of all the relevant landlords of any premises, appoint to be the reversioner in respect of those premises (in place of the person designated by paragraph 5A) such person as may have been determined by agreement between them.
+
+**[^F248]5C** If it appears to the court, on the application of a relevant landlord of any premises—
+
+(a) that the respective interests of the relevant landlords of those premises, the absence or incapacity of the person referred to in paragraph 5A or other special circumstances require that some person other than the person there referred to should act as the reversioner in respect of the premises, or
+
+(b) that the person referred to in that paragraph is unwilling to act as the reversioner,
+
+the court may appoint to be the reversioner in respect of those premises (in place of the person designated by paragraph 5A) such person as it thinks fit.
+
+**[^F249]5D** The court may also, on the application of any of the relevant landlords or of the nominee purchaser, remove the reversioner in respect of any premises and appoint another person in his place, if it appears to the court proper to do so by reason of any delay or default, actual or apprehended, on the part of the reversioner.
+
+**[^F250]5E** A person appointed by the court under any of paragraphs 5B to 5D—
+
+(a) must be a relevant landlord; but
+
+(b) may be so appointed on such terms and conditions as the court thinks fit.]
+
+### Part II — CONDUCT OF PROCEEDINGS ON BEHALF OF OTHER LANDLORDS
+
+#### Acts of reversioner binding on other landlords
+
+**6** (1) Without prejudice to the generality of section 9(3)—
+
+(a) any notice given by or to the reversioner under this Chapter or section 74(3) following the giving of the initial notice shall be given or received by him on behalf of all the relevant landlords; and
+
+(b) the reversioner may on behalf and in the name of all or (as the case may be) any of those landlords—
+
+(i) deduce, evidence or verify the title to any property;
+
+(ii) negotiate and agree with the nominee purchaser the terms of acquisition;
+
+(iii) execute any conveyance for the purpose of transferring any interest to the nominee purchaser;
+
+(iv) receive the price payable for the acquisition of any interest;
+
+(v) take or defend any legal proceedings under this Chapter in respect of matters arising out of the initial notice.
+
+(2) Subject to paragraph 7—
+
+(a) the reversioner’s acts in relation to matters within the authority conferred on him by section 9(3), and
+
+(b) any determination of the court or [[^F251]the appropriate tribunal] under this Chapter in proceedings between the reversioner and the nominee purchaser,
+
+shall be binding on the other relevant landlords and on their interests in the specified premises or any other property; but in the event of dispute the reversioner or any of the other relevant landlords may apply to the court for directions as to the manner in which the reversioner should act in the dispute.
+
+(3) If any of the other relevant landlords cannot be found, or his identity cannot be ascertained, the reversioner shall apply to the court for directions and the court may make such order as it thinks proper with a view to giving effect to the rights of the participating tenants and protecting the interests of other persons, but subject to any such directions—
+
+(a) the reversioner shall proceed as in other cases;
+
+(b) any conveyance executed by the reversioner on behalf of that relevant landlord which identifies the interest to be conveyed shall have the same effect as if executed in his name; and
+
+(c) any sum paid as the price for the acquisition of that relevant landlord’s interest, and any other sum payable to him by virtue of Schedule 6, shall be paid into court.
+
+(4) The reversioner, if he acts in good faith and with reasonable care and diligence, shall not be liable to any of the other relevant landlords for any loss or damage caused by any act or omission in the exercise or intended exercise of the authority conferred on him by section 9(3).
+
+#### Other landlords acting independently
+
+**7** (1) Notwithstanding anything in section 9(3) or paragraph 6, any of the other relevant landlords shall, at any time after the giving by the reversioner of a counter-notice under section 21 and on giving notice of his intention to do so to both the reversioner and the nominee purchaser, be entitled—
+
+(a) to deal directly with the nominee purchaser in connection with any of the matters mentioned in sub-paragraphs (i) to (iii) of paragraph 6(1)(b) so far as relating to the acquisition of any interest of his;
+
+(b) to be separately represented in any legal proceedings in which his title to any property comes in question, or in any legal proceedings relating to the terms of acquisition so far as relating to the acquisition of any interest of his.
+
+(2) If the nominee purchaser so requires by notice given to the reversioner and any of the other relevant landlords, that landlord shall deal directly with the nominee purchaser for the purpose of deducing, evidencing or verifying the landlord’s title to any property.
+
+(3) Any of the other relevant landlords may by notice given to the reversioner require him to apply to [[^F252]the appropriate tribunal] for the determination by the tribunal of any of the terms of acquisition so far as relating to the acquisition of any interest of the landlord.
+
+(4) Any of the other relevant landlords may also, on giving notice to the reversioner and the nominee purchaser, require that the price payable for the acquisition of his interest shall be paid by the nominee purchaser to him, or to a person authorised by him to receive it, instead of to the reversioner; but if, after being given proper notice of the time and method of completion with the nominee purchaser, either—
+
+(a) he fails to notify the reversioner of the arrangements made with the nominee purchaser to receive payment, or
+
+(b) having notified the reversioner of those arrangements, the arrangements are not duly implemented,
+
+the reversioner shall be authorised to receive the payment for him, and the reversioner’s written receipt for the amount payable shall be a complete discharge to the nominee purchaser.
+
+#### Obligations of other landlords to reversioner
+
+**8** (1) It shall be the duty of each of the other relevant landlords—
+
+(a) (subject to paragraph 7) to give the reversioner all such information and assistance as he may reasonably require; and
+
+(b) after being given proper notice of the time and method of completion with the nominee purchaser, to ensure that all deeds and other documents that ought on his part to be delivered to the nominee purchaser on completion are available for the purpose, including in the case of registered land the land certificate and any other documents necessary to perfect the nominee purchaser’s title;
+
+and, if any of the other relevant landlords fails to comply with this sub-paragraph, that relevant landlord shall indemnify the reversioner against any liability incurred by the reversioner in consequence of the failure.
+
+(2) Each of the other relevant landlords shall make such contribution as shall be just to the costs and expenses properly incurred by the reversioner in pursuance of section 9(3) which are not recoverable or not recovered from the nominee purchaser or any other person.
+
+#### Applications made by other landlords under section 23(1)
+
+**9** The authority given to the reversioner by section 9(3) shall not extend to the bringing of proceedings under section 23(1) on behalf of any of the other relevant landlords, or preclude any of those landlords from bringing proceedings under that provision on his own behalf.
+
+## SCHEDULE 2 — SPECIAL CATEGORIES OF LANDLORDS
+
+*Sections 9 and 40.*
+
+### Interpretation
+
+**1** (1) In this Schedule—
+
+- “Chapter I landlord” means a person who is, in relation to a claim made under Chapter I, [[^F253]a] relevant landlord within the meaning of that Chapter;
+
+- “Chapter II landlord” means a person who is, in relation to a claim made under Chapter II, the landlord within the meaning of that Chapter or any of the other landlords (as defined by section 40(4));
+
+- “debenture holders’ charge” means a charge (whether a floating charge or not) in favour of the holders of a series of debentures issued by a company or other body of persons, or in favour of trustees for such debenture holders;
+
+- “mortgage” includes a charge or lien, and related expressions shall be construed accordingly;
+
+- “the relevant notice” means—
+
+  - (a) in relation to a Chapter I landlord, the notice given under section 13, and
+  - (b) in relation to a Chapter II landlord, the notice given under section 42.
+
+(2) In paragraphs 5 to 8 any reference to a premium payable on the grant of a lease includes a reference to any other amount payable by virtue of Schedule 13 in connection with its grant.
+
+### Mortgagee in possession of landlord’s interest
+
+**2** (1) Where—
+
+(a) the interest of a Chapter I or Chapter II landlord is subject to a mortgage, and
+
+(b) the mortgagee is in possession,
+
+all such proceedings arising out of the relevant notice as would apart from this sub-paragraph be taken by or in relation to that landlord (“the mortgagor”) shall, as regards his interest, be conducted by and through the mortgagee as if he were that landlord; but this sub-paragraph shall not, in its application to a Chapter I landlord, affect the operation in relation to the mortgagee of section 35 or Schedule 8.
+
+(2) Where sub-paragraph (1) above applies to a Chapter I landlord, then (without prejudice to the generality of that sub-paragraph) any application under section 23(1) that would otherwise be made by the mortgagor (whether alone or together with any other person or persons) shall be made by the mortgagee as if he were the mortgagor.
+
+(3) Where—
+
+(a) the interest of a Chapter I landlord is subject to a mortgage, and
+
+(b) a receiver appointed by the mortgagee or by order of any court is in receipt of the rents and profits,
+
+the person referred to in paragraph (a) shall not make any application under section 23(1) without the consent of the mortgagee, and the mortgagee may by notice given to that person require that, as regards his interest, this paragraph shall apply, either generally or so far as it relates to section 23, as if the mortgagee were a mortgagee in possession.
+
+(4) Where—
+
+(a) the interest of a Chapter I or Chapter II landlord is subject to a mortgage, and
+
+(b) the mortgagee is in possession or a receiver appointed by the mortgagee or by order of any court is in receipt of the rents and profits,
+
+the relevant notice or a copy of it shall be regarded as duly given to that landlord if it is given to the mortgagee or to any such receiver; but whichever of the landlord, the mortgagee and any such receiver are not the recipient of the notice shall be given a copy of it by the recipient.
+
+(5) Sub-paragraph (4) has effect in relation to a debenture holders’ charge as if any reference to the mortgagee were a reference to the trustees for the debenture holders; but, where the relevant notice is given to a Chapter I or Chapter II landlord whose interest is subject to any such charge and there is no trustee for the debenture holders, the landlord shall forthwith send it or a copy of it to any receiver appointed by virtue of the charge.
+
+(6) Where—
+
+(a) a Chapter I or Chapter II landlord is given the relevant notice or a copy of it, and
+
+(b) his interest is subject to a mortgage to secure the payment of money,
+
+then (subject to sub-paragraph (7)), the landlord shall forthwith inform the mortgagee (unless the notice was given to him or a receiver appointed by virtue of the mortgage) that the notice has been given, and shall give him such further information as may from time to time be reasonably required from the landlord by the mortgagee.
+
+(7) Sub-paragraph (6) does not apply to a debenture holders’ charge.
+
+### Landlord’s interest vested in custodian trustee
+
+**3** Where the interest of a Chapter I or Chapter II landlord is vested in a person as custodian trustee, then for the purposes of Chapter I or (as the case may be) Chapter II the interest shall be deemed to be vested in the managing trustees or committee of management as owners of that interest, except as regards the execution of any instrument disposing of or otherwise affecting that interest.
+
+### Landlord under a disability
+
+**[[^F254]4** (1) This paragraph applies where a Chapter I or Chapter II landlord lacks capacity (within the meaning of the Mental Capacity Act 2005) to exercise his functions as a landlord.
+
+(2) For the purposes of the Chapter concerned, the landlord's place is to be taken—
+
+(a) by a donee of an enduring power of attorney or lasting power of attorney (within the meaning of the 2005 Act), or a deputy appointed for him by the Court of Protection, with power to exercise those functions, or
+
+(b) if no deputy or donee has that power, by a person authorised in that respect by that court.]
+
+### Landlord’s interest held [[^F255]in trust]
+
+**5** (1) Where the interest of a Chapter I landlord is [[^F256]subject to a trust of land], any sum payable to the landlord by way of the price payable for the interest on its acquisition in pursuance of Chapter I shall be dealt with as if it were proceeds of sale arising under the trust.
+
+(2) Where the interest of a Chapter II landlord is [[^F256]subject to a trust of land]—
+
+(a) any sum payable to the landlord by way of a premium on the grant of a new lease under Chapter II or section 93(4) shall be dealt with as if it were proceeds of sale arising under the trust; [^F257]. . .
+
+[^F257]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Landlord’s interest subject to a settlement
+
+**6** Where the interest of a Chapter II landlord is subject to a settlement (within the meaning of the Settled Land Act 1925), the purposes authorised—
+
+(a) by section 73 of that Act for the application of capital money, and
+
+(b) by section 71 of that Act as purposes for which money may be raised by mortgage,
+
+shall include the payment of compensation [[^F258]by the landlord on the termination of a new lease granted under Chapter II or section 93(4) (whether the payment is made in pursuance of an order under section 61 or in pursuance of an agreement made in conformity with paragraph 5 of Schedule 14 without an application having been made under that section)].
+
+### [^F259]...
+
+**[^F259]7** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Ecclesiastical landlords
+
+**8** (1) The provisions of this paragraph shall have effect as regards Chapter I or Chapter II landlords who are ecclesiastical landlords; and in this paragraph “ecclesiastical landlord” means—
+
+(a) [[^F260]the Chapter of a cathedral] having an interest as landlord in property, or
+
+(b) a diocesan board of finance having an interest as landlord in property belonging to the board as diocesan glebe land.
+
+(2) In relation to an interest of an ecclesiastical landlord, the consent of the Church Commissioners shall be required [[^F261], if their consent would be required if the transaction were carried out under [^F262]... [[^F263]Part 2 of the Church Property Measure 2018] [[^F264]or the Cathedrals Measure 2021],] to sanction—
+
+(a) the provisions to be contained in a conveyance in accordance with section 34 and Schedule 7, or in any lease granted under section 56, and the price or premium payable, except as regards matters determined by the court or [[^F265]the appropriate tribunal];
+
+(b) any exercise of the ecclesiastical landlord’s rights under section 61, except as aforesaid, and any agreement for the payment of compensation to a tenant in conformity with paragraph 5 of Schedule 14 without an application having been made under that section; and
+
+(c) any grant of a lease in pursuance of section 93(4);
+
+[^F266]...
+
+(3) Where [[^F267]the Chapter of a cathedral] has an interest in property which forms part of the endowment of a cathedral church—
+
+(a) any sum payable to [[^F268]the Chapter] by way of—
+
+(i) the price payable for any interest in the property on its acquisition in pursuance of Chapter I, or
+
+(ii) a premium on the grant of a new lease under Chapter II or section 93(4),
+
+shall be treated as part of that endowment; and
+
+(b) the powers conferred by [[^F269]section 24 of the Cathedrals Measure 2021] in relation to the investment in the acquisition of land of money forming part of the endowment of a cathedral church shall extend to the application of any such money in the payment of compensation as mentioned in paragraph [[^F270]6] above.
+
+(4) In the case of a diocesan board of finance—
+
+(a) no consent or concurrence other than that of the Church Commissioners under sub-paragraph (2) above shall be required to a disposition under this Part of the interest of the diocesan board of finance in property (including a grant of a new lease in pursuance of section 93(4));
+
+(b) any sum payable to the diocesan board of finance by way of—
+
+(i) the price payable for any interest in property on its acquisition in pursuance of Chapter I, or
+
+(ii) a premium on the grant of a new lease of property under Chapter II or section 93(4),
+
+shall be paid to the [[^F271]Diocesan Board of Finance in which the land is vested] to be applied for purposes for which the proceeds of any such disposition of property by agreement would be applicable under any enactment or Measure authorising such a disposition or disposing of the proceeds of such a disposition; and
+
+(c) any sum required for the payment of compensation as mentioned in paragraph [[^F270]6] above may be paid by the [[^F272]Diocesan Board of Finance out of any money held by it].
+
+[[^F273](5) In this paragraph—
+
+- “diocesan board of finance” has the same meaning as “DBF” in the Church Property Measure 2018;
+- “diocesan glebe land” has the same meaning as in that Measure.]
+
+## SCHEDULE 3 — THE INITIAL NOTICE: SUPPLEMENTARY PROVISIONS
+
+*Section 13.*
+
+### Part I — RESTRICTIONS ON PARTICIPATION BY INDIVIDUAL TENANTS, EFFECT OF CLAIMS ON OTHER NOTICES, FORFEITURES ETC.
+
+#### Prior notice by tenant terminating lease
+
+**1** A qualifying tenant of a flat shall not participate in the giving of a relevant notice of claim if the notice is given—
+
+(a) after the tenant has given notice terminating the lease of the flat (other than a notice that has been superseded by the grant, express or implied, of a new tenancy); or
+
+(b) during the subsistence of an agreement for the grant to the tenant of a future tenancy of the flat, where the agreement is one to which paragraph 17 of Schedule 10 to the [^M69]Local Government and Housing Act 1989 applies.
+
+#### Prior notice by landlord terminating lease
+
+**2** (1) A qualifying tenant of a flat shall not participate in the giving of a relevant notice of claim if the notice is given more than four months after a landlord’s notice terminating the tenant’s lease of the flat has been given under section 4 of the [^M70]Landlord and Tenant Act 1954 or served under paragraph 4(1) of Schedule 10 to the [^M71]Local Government and Housing Act 1989 (whether or not the notice has effect to terminate the lease).
+
+(2) Where in the case of any qualifying tenant of a flat—
+
+(a) any such landlord’s notice is given or served as mentioned in sub-paragraph (1), but
+
+(b) that notice was not given or served more than four months before the date when a relevant notice of claim is given,
+
+the landlord’s notice shall cease to have effect on that date.
+
+(3) If—
+
+(a) any such landlord’s notice ceases to have effect by virtue of sub-paragraph (2), but
+
+(b) the claim made in pursuance of the relevant notice of claim is not effective,
+
+then sub-paragraph (4) shall apply to any landlord’s notice terminating the tenant’s lease of the flat which—
+
+(i) is given under section 4 of the Landlord and Tenant Act 1954 or served under paragraph 4(1) of Schedule 10 to the Local Government and Housing Act 1989, and
+
+(ii) is so given or served within one month after the expiry of the period of currency of that claim.
+
+(4) Where this sub-paragraph applies to a landlord’s notice, the earliest date which may be specified in the notice as the date of termination shall be—
+
+(a) in the case of a notice given under section 4 of that Act of 1954—
+
+(i) the date of termination specified in the previous notice, or
+
+(ii) the date of expiry of the period of three months beginning with the date of the giving of the new notice,
+
+whichever is the later; or
+
+(b) in the case of a notice served under paragraph 4(1) of Schedule 10 to that Act of 1989—
+
+(i) the date of termination specified in the previous notice, or
+
+(ii) the date of expiry of the period of four months beginning with the date of service of the new notice,
+
+whichever is the later.
+
+(5) Where—
+
+(a) by virtue of sub-paragraph (4) a landlord’s notice specifies as the date of termination of a lease a date earlier than six months after the date of the giving of the notice, and
+
+(b) the notice proposes a statutory tenancy,
+
+section 7(2) of the [^M72]Landlord and Tenant Act 1954 shall apply in relation to the notice with the substitution, for references to the period of two months ending with the date of termination specified in the notice and the beginning of that period, of references to the period of three months beginning with the date of the giving of the notice and the end of that period.
+
+#### Orders for possession and pending proceedings for forfeiture etc.
+
+**3** (1) A qualifying tenant of a flat shall not participate in the giving of a relevant notice of claim if at the time when it is given he is obliged to give up possession of his flat in pursuance of an order of a court or will be so obliged at a date specified in such an order.
+
+(2) Except with the leave of the court, a qualifying tenant of a flat shall not participate in the giving of a relevant notice of claim at a time when any proceedings are pending to enforce a right of re-entry or forfeiture terminating his lease of the flat.
+
+(3) Leave shall only be granted under sub-paragraph (2) if the court is satisfied that the tenant does not wish to participate in the giving of such a notice of claim solely or mainly for the purpose of avoiding the consequences of the breach of the terms of his lease in respect of which proceedings are pending.
+
+(4) If—
+
+(a) leave is so granted, and
+
+(b) a relevant notice of claim is given,
+
+the tenant’s lease shall be deemed for the purposes of the claim to be a subsisting lease despite the existence of those proceedings and any order made afterwards in those proceedings; and, if the claim is effective, the court in which those proceedings were brought may set aside or vary any such order to such extent and on such terms as appear to that court to be appropriate.
+
+#### Institution of compulsory purchase procedures
+
+**4** (1) A qualifying tenant of a flat shall not participate in the giving of a relevant notice of claim if on the date when the notice is given—
+
+(a) any person or body of persons who has or have been, or could be, authorised to acquire the whole or part of the flat compulsorily for any purpose has or have, with a view to its acquisition for that purpose—
+
+(i) served a notice to treat on that tenant, or
+
+(ii) entered into a contract for the purchase of his interest in the whole or part of the flat; and
+
+(b) the notice to treat or contract remains in force.
+
+(2) Where—
+
+(a) a relevant notice of claim is given, and
+
+(b) during the currency of the claim any such person or body of persons as is mentioned in sub-paragraph (1)(a) serves or serve, in relation to the flat held by a participating tenant, notice to treat as mentioned in that provision,
+
+the tenant shall cease to be entitled to participate in the making of the claim by virtue of being a qualifying tenant of the flat, and shall accordingly cease to be a participating tenant in respect of the flat.
+
+#### Notice terminating lease given by tenant or landlord during currency of claim
+
+**5** Where a relevant notice of claim is given, any notice terminating the lease of any flat held by a participating tenant, whether it is—
+
+(a) a notice given by the tenant, or
+
+(b) a landlord’s notice given under section 4 of the [^M73]Landlord and Tenant Act 1954 or served under paragraph 4(1) of Schedule 10 to the [^M74]Local Government and Housing Act 1989,
+
+shall be of no effect if it is given or served during the currency of the claim.
+
+#### Initial notice operates to prevent termination of tenant’s lease by other means
+
+**6** (1) Where a relevant notice of claim is given, then during the currency of the claim and for three months thereafter the lease of any flat held by a participating tenant shall not terminate—
+
+(a) by effluxion of time, or
+
+(b) in pursuance of a notice to quit given by the landlord, or
+
+(c) by the termination of a superior lease;
+
+but if the claim is not effective, and but for this sub-paragraph the lease would have so terminated before the end of those three months, the lease shall so terminate at the end of those three months.
+
+(2) Sub-paragraph (1) shall not be taken to prevent an earlier termination of the lease in any manner not mentioned in that sub-paragraph, and shall not affect—
+
+(a) the power under section 146(4) of the [^M75]Law of Property Act 1925 (relief against forfeiture of leases) to grant a tenant relief against the termination of a superior lease, or
+
+(b) any right of the tenant to relief under section 16(2) of the [^M76]Landlord and Tenant Act 1954 (relief where landlord proceeding to enforce covenants) or under paragraph 9 of Schedule 5 to that Act (relief in proceedings brought by superior landlord).
+
+(3) The reference in sub-paragraph (2) to section 16(2) of, and paragraph 9 of Schedule 5 to, the Landlord and Tenant Act 1954 includes a reference to those provisions as they apply in relation to Schedule 10 to the Local Government and Housing Act 1989.
+
+#### Restriction on proceedings against participating tenant to enforce right of re-entry or forfeiture
+
+**7** (1) Where a relevant notice of claim is given, then during the currency of the claim—
+
+(a) no proceedings to enforce any right of re-entry or forfeiture terminating the lease of any flat held by a participating tenant shall be brought in any court without the leave of that court; and
+
+(b) leave shall only be granted if the court is satisfied that the tenant is participating in the making of the claim solely or mainly for the purpose of avoiding the consequences of the breach of the terms of his lease in respect of which proceedings are proposed to be brought.
+
+(2) If leave is granted under sub-paragraph (1), the tenant shall cease to be entitled to participate in the making of the claim by virtue of being a qualifying tenant of the flat referred to in that sub-paragraph, and shall accordingly cease to be a participating tenant in respect of the flat.
+
+#### Restrictions for purposes of s. 14(3) on tenant electing to become participating tenant during currency of claim
+
+**8** (1) Where a relevant notice of claim is given, a qualifying tenant of a flat may not subsequently make an election under section 14(3)—
+
+(a) if he was prohibited from participating in the giving of the notice by virtue of paragraph 1, 2(1), 3(1) or 4(1) above; or
+
+(b) at a time when he would be so prohibited from participating in the giving of a relevant notice of claim, if such a notice were to be given then.
+
+(2) Where a relevant notice of claim is given, then except with the leave of the court, a qualifying tenant of a flat may not subsequently make an election under section 14(3) at a time when any proceedings are pending to enforce a right of re-entry or forfeiture terminating his lease of the flat.
+
+(3) Leave shall only be granted under sub-paragraph (2) if the court is satisfied that the tenant does not wish to make such an election solely or mainly for the purpose of avoiding the consequences of the breach of the terms of his lease in respect of which proceedings are pending.
+
+(4) If—
+
+(a) leave is so granted, and
+
+(b) the tenant makes such an election,
+
+the tenant’s lease shall be deemed for the purposes of the claim to be a subsisting lease despite the existence of those proceedings and any order made afterwards in those proceedings; and, if the claim is effective, the court in which those proceedings were brought may set aside or vary any such order to such extent and on such terms as appear to that court to be appropriate.
+
+(5) References in this paragraph and paragraph 9 below to making an election under section 14(3) are references to making such an election to participate in the making of the claim in respect of which the relevant notice of claim is given.
+
+#### Effect of tenant’s election on certain notices given by landlord
+
+**9** (1) This paragraph applies to a qualifying tenant of a flat who, following the giving of a relevant notice of claim, makes an election under section 14(3).
+
+(2) Where in the case of any such tenant—
+
+(a) a landlord’s notice terminating the tenant’s lease of the flat has been given or served as mentioned in paragraph 2(1) above (whether or not the notice has effect to terminate the lease), but
+
+(b) that notice was not given or served more than four months before the date when the tenant makes his election under section 14(3),
+
+the landlord’s notice shall cease to have effect on that date.
+
+(3) If—
+
+(a) any such landlord’s notice ceases to have effect by virtue of sub-paragraph (2) above, but
+
+(b) the claim made in pursuance of the relevant notice of claim is not effective,
+
+then paragraph 2(4) above shall apply to any landlord’s notice terminating the tenant’s lease of the flat which—
+
+(i) is given under section 4 of the [^M77]Landlord and Tenant Act 1954 or served under paragraph 4(1) of Schedule 10 to the [^M78]Local Government and Housing Act 1989, and
+
+(ii) is so given or served within one month after the expiry of the period of currency of that claim;
+
+and paragraph 2(5) above shall apply accordingly.
+
+(4) Paragraph 8(5) above applies for the purposes of this paragraph.
+
+#### Interpretation
+
+**10** (1) For the purposes of this Part of this Schedule—
+
+(a) “relevant notice of claim”, in relation to any flat, means a notice under section 13 in the case of which the specified premises contain that flat, and references to participating in the giving of such a notice are references to being one of the persons by whom the notice is given;
+
+(b) references to a notice under section 13 include, in so far as the context permits, references to a notice purporting to be given under that section (whether by persons who are qualifying tenants or not);
+
+(c) references to a claim being effective are references to a binding contract being entered into for the acquisition of the freehold and other interests falling to be acquired in pursuance of the claim or to the making of an order under section 24(4)(a) or (b) or 25(6)(a) or (b) which provides for the vesting of those interests; and
+
+(d) references to the currency of a claim are—
+
+(i) where the claim is made by a valid notice under section 13, references to the period during which the notice continues in force in accordance with subsection (11) of that section, or
+
+(ii) where the claim is made by a notice which is not a valid notice under section 13, references to the period beginning with the giving of the notice and ending with the time when the notice is set aside by the court or is withdrawn or when it would (if valid) cease to have effect or be deemed to have been withdrawn.
+
+(2) For the purposes of sub-paragraph (1)(d) the date when a notice is set aside, or would (if valid) cease to have effect, in consequence of an order of a court shall be taken to be the date when the order becomes final.
+
+### Part II — PROCEDURE FOR GIVING COPIES TO RELEVANT LANDLORDS
+
+#### Application of Part II
+
+**11** This Part of this Schedule has effect where a notice under section 13 is given in a case to which section 9(2) [[^F274]or (2A)] applies.
+
+#### Qualifying tenants to give copies of initial notice
+
+**12** (1) [[^F275]In a case to which section 9(2) applies,]the qualifying tenants by whom the initial notice is given shall, in addition to giving the initial notice to the reversioner in respect of the specified premises, give a copy of the notice to every other person known or believed by them to be a relevant landlord of those premises.
+
+(2) The initial notice shall state whether copies are being given in accordance with sub-paragraph (1) to anyone other than the recipient and, if so, to whom.
+
+**[[^F276]12A** (1) In a case to which section 9(2A) applies, the qualifying tenants by whom the initial notice is given shall, in addition to giving the initial notice to the person specified in it as the recipient, give a copy of the notice to every other person known or believed by them to be a relevant landlord of the specified premises.
+
+(2) The initial notice shall state whether copies are being given in accordance with sub-paragraph (1) to anyone other than the person specified in it as the recipient and, if so, to whom.]
+
+#### Recipient of notice or copy to give further copies
+
+**13** (1) Subject to sub-paragraph (2), a recipient of the initial notice or of a copy of it (including a person receiving a copy under this sub-paragraph) shall forthwith give a copy to any person who—
+
+(a) is known or believed by him to be a relevant landlord, and
+
+(b) is not stated in the recipient’s copy of the notice, or known by him, to have received a copy.
+
+(2) Sub-paragraph (1) does not apply where the recipient is neither the reversioner nor another relevant landlord.
+
+(3) Where a person gives any copies of the initial notice in accordance with sub-paragraph (1), he shall—
+
+(a) supplement the statement under paragraph 12(2) [[^F277]or, as the case may be, 12A(2)] by adding any further persons to whom he is giving copies or who are known to him to have received one; and
+
+(b) notify the qualifying tenants by whom the initial notice is given of the persons added by him to that statement.
+
+#### Consequences of failure to comply with paragraph 12 or 13
+
+**14** (1) Where—
+
+(a) a relevant landlord of the specified premises does not receive a copy of the initial notice before the end of the period specified in it in pursuance of section 13(3)(g), but
+
+(b) he was given a notice under section 11 by any of the qualifying tenants by whom the initial notice was given and, in response to the notice under that section, notified the tenant in question of his interest in the specified premises,
+
+the initial notice shall cease to have effect at the end of that period.
+
+(2) Where—
+
+(a) sub-paragraph (1) does not apply, but
+
+(b) any person fails without reasonable cause to comply with paragraph 12 [[^F278], 12A] or 13 above, or is guilty of any unreasonable delay in complying with [[^F279]any] of those paragraphs,
+
+he shall be liable for any loss thereby occasioned to the qualifying tenants by whom the initial notice was given or to the reversioner or any other relevant landlord.
+
+### Part III — OTHER PROVISIONS
+
+#### Inaccuracies or misdescription in initial notice
+
+**15** (1) The initial notice shall not be invalidated by any inaccuracy in any of the particulars required by section 13(3) or by any misdescription of any of the property to which the claim extends.
+
+(2) Where the initial notice—
+
+(a) specifies any property or interest which was not liable to acquisition under or by virtue of section 1 or 2, or
+
+(b) fails to specify any property or interest which is so liable to acquisition,
+
+the notice may, with the leave of the court and on such terms as the court may think fit, be amended so as to exclude or include the property or interest in question.
+
+(3) Where the initial notice is so amended as to exclude any property or interest, references to the property or interests specified in the notice under any provision of section 13(3) shall be construed accordingly; and, where it is so amended as to include any property or interest, the property or interest shall be treated as if it had been specified under the provision of that section under which it would have fallen to be specified if its acquisition had been proposed at the relevant date.
+
+#### Effect on initial notice of tenant’s lack of qualification to participate
+
+**16** (1) It is hereby declared that, where at the relevant date any of the persons by whom the initial notice is given—
+
+(a) is not a qualifying tenant of a flat contained in the specified premises, or
+
+(b) is such a qualifying tenant but is prohibited from participating in the giving of the notice by virtue of Part I of this Schedule, or
+
+(c) (if it is claimed in the notice that he satisfies the residence condition) does not satisfy that condition,
+
+the notice shall not be invalidated on that account, so long as the notice was in fact properly given by a sufficient number of qualifying tenants of flats contained in the premises as at the relevant date, and not less than one-half of the qualifying tenants by whom it was so given then satisfied the residence condition.
+
+(2) For the purposes of sub-paragraph (1) a sufficient number is a number which—
+
+(a) is not less than two-thirds of the total number of qualifying tenants of flats contained in the specified premises as at the relevant date, and
+
+(b) is not less than one-half of the total number of flats so contained.
+
+## SCHEDULE 4 — INFORMATION TO BE FURNISHED BY REVERSIONER ABOUT EXERCISE OF RIGHTS UNDER CHAPTER II
+
+*Section 21.*
+
+### Information to accompany counter-notice
+
+**1** (1) This paragraph applies where before the date of the giving of a counter-notice under section 21 the reversioner or any other relevant landlord—
+
+(a) has received—
+
+(i) a notice given under section 42 with respect to any flat contained in the specified premises (being a notice to which section 54(1) or (2) applies on that date), or
+
+(ii) a copy of such a notice, or
+
+(b) has given any counter-notice under section 45 in response to any such notice.
+
+(2) A copy of every notice which, or a copy of which, has been received as mentioned in sub-paragraph (1)(a), and a copy of every counter-notice which has been given as mentioned in sub-paragraph (1)(b), shall either—
+
+(a) accompany any counter-notice given under section 21, or
+
+(b) be given to the nominee purchaser by the reversioner as soon as possible after the date of the giving of any such counter-notice.
+
+### Continuing duty to furnish information
+
+**2** (1) Subject to sub-paragraph (3), this paragraph applies where on or after the date of the giving of a counter-notice under section 21 the reversioner or any other relevant landlord receives—
+
+(a) a notice given under section 42 with respect to any flat contained in the specified premises or a copy of such a notice, or
+
+(b) any notice of withdrawal given under section 52 and relating to any notice under section 42 of which a copy has already been furnished to the nominee purchaser under this Schedule.
+
+(2) A copy of every notice which, or a copy of which, is received as mentioned in sub-paragraph (1)(a) or (b) shall be given to the nominee purchaser by the reversioner as soon as possible after the time when the notice or copy is received by the reversioner or (as the case may be) the other relevant landlord.
+
+(3) This paragraph does not apply if the notice or copy is received by the reversioner or (as the case may be) the other relevant landlord otherwise than at a time when—
+
+(a) the initial notice continues in force, or
+
+(b) a binding contract entered into in pursuance of that notice remains in force, or
+
+(c) where an order has been made under section 24(4)(a) or (b) or 25(6)(a) or (b) with respect to the specified premises, any interests which by virtue of the order fall to be vested in the nominee purchaser have yet to be so vested.
+
+### Duty of other landlords to furnish copies to reversioner
+
+**3** (1) Without prejudice to the generality of paragraph 8(1)(a) of Schedule 1, the duty imposed by that provision shall extend to requiring any relevant landlord (other than the reversioner) who—
+
+(a) receives a relevant notice or a copy of such a notice, or
+
+(b) gives a relevant counter-notice,
+
+to furnish a copy of the notice or counter-notice to the reversioner as soon as possible after the time when the notice or copy is received or (as the case may be) the counter-notice is given by the relevant landlord.
+
+(2) In this paragraph “relevant notice” and “relevant counter-notice” mean respectively any notice of which a copy is required to be given to the nominee purchaser by the reversioner in accordance with this Schedule and any counter-notice of which a copy is required to be so given.
+
+## SCHEDULE 5 — VESTING ORDERS UNDER SECTIONS 24 AND 25
+
+*Sections 24 and 25.*
+
+### Interpretation
+
+**1** (1) In this Schedule “a vesting order” means an order made by the court under section 24(4)(a) or (b) or section 25(6)(a) or (b).
+
+(2) In this Schedule “the relevant terms of acquisition”, in relation to any such order, means the terms of acquisition referred to in section 24(4)(a) or (b) or section 25(6)(a) or (b), as the case may be.
+
+### Execution of conveyance
+
+**2** (1) Where any interests are to be vested in the nominee purchaser by virtue of a vesting order, then on his paying into court the appropriate sum in respect of each of those interests there shall be executed by such person as the court may designate a conveyance which—
+
+(a) is in a form approved by [[^F280]the appropriate tribunal], and
+
+(b) contains such provisions as may be so approved for the purpose of giving effect to the relevant terms of acquisition.
+
+(2) The conveyance shall be effective to vest in the nominee purchaser the interests expressed to be conveyed, subject to and in accordance with the terms of the conveyance.
+
+### The appropriate sum
+
+**3** (1) In the case of any vesting order, the appropriate sum which in accordance with paragraph 2(1) is to be paid into court in respect of any interest is the aggregate of—
+
+(a) such amount as is fixed by the relevant terms of acquisition as the price which is payable in accordance with Schedule 6 in respect of that interest; and
+
+(b) any amounts or estimated amounts determined by [[^F281]the appropriate tribunal] as being, at the time of execution of the conveyance, due to the transferor from any tenants of his of premises comprised in the premises in which that interest subsists (whether due under or in respect of their leases or under or in respect of agreements collateral thereto).
+
+(2) In this paragraph “the transferor”, in relation to any interest, means the person from whom the interest is to be acquired by the nominee purchaser.
+
+### Effect of payment of appropriate sum into court
+
+**4** Where any interest is vested in the nominee purchaser in accordance with this Schedule, the payment into court of the appropriate sum in respect of that interest shall be taken to have satisfied any claims against the nominee purchaser or the participating tenants, or the personal representatives or assigns of any of them, in respect of the price payable under this Chapter for the acquisition of that interest.
+
+### Supplemental
+
+**5** (1) In the provisions specified in sub-paragraph (2) references to a binding contract being entered into in pursuance of the initial notice shall be read as including references to the making of a vesting order.
+
+(2) Those provisions are—
+
+(a) section 14(11);
+
+(b) section 15(12) (except so far as it provides for the interpretation of references to the nominee purchaser);
+
+(c) section 16(10);
+
+(d) section 19(5)(b);
+
+(e) section 28(1);
+
+(f) section 30(4); and
+
+(g) section 31(4).
+
+(3) Where, at any time after a vesting order is made but before the interests falling to be vested in the nominee purchaser by virtue of the order have been so vested, any acquiring authority (within the meaning of section 30) serves notice to treat as mentioned in subsection (1)(a) of that section, the vesting order shall cease to have effect.
+
+(4) Where sub-paragraph (3) applies to any vesting order, then on the occasion of the compulsory acquisition in question the compensation payable in respect of any interest in the specified premises (whether or not the one to which the notice to treat relates) shall be determined on the basis of the value of the interest subject to and with the benefit of the rights and obligations arising from the initial notice and affecting the interest.
+
+(5) In section 38(2) (except so far as it provides for the interpretation of references to the proposed acquisition by the nominee purchaser) the reference to a contract entered into in pursuance of the initial notice shall be read as including a reference to a vesting order.
+
+## SCHEDULE 6 — PURCHASE PRICE PAYABLE BY NOMINEE PURCHASER
+
+*Section 32.*
+
+### Part I — GENERAL
+
+#### Interpretation and operation of Schedule
+
+**1** (1) In this Schedule—
+
+- [^F282]. . .
+
+- “intermediate leasehold interest” means the interest of the tenant under a lease which is superior to the lease held by a qualifying tenant of a flat contained in the specified premises, to the extent that—
+
+  - (a) any such interest is to be acquired by the nominee purchaser by virtue of section 2(1)(a), and
+  - (b) it is an interest in the specified premises;
+
+- [^F283]...
+
+(2) Parts II to IV of this Schedule have effect subject to the provisions of Parts V and VI (which relate to interests with negative values).
+
+### Part II — FREEHOLD OF SPECIFIED PREMISES
+
+#### Price payable for freehold of specified premises
+
+**2** (1) Subject to the provisions of this paragraph, [[^F284]where the freehold of the whole of the specified premises is owned by the same person] the price payable by the nominee purchaser for the freehold of [[^F285]those] premises shall be the aggregate of—
+
+(a) the value of the freeholder’s interest in the premises as determined in accordance with paragraph 3,
+
+(b) the freeholder’s share of the marriage value as determined in accordance with paragraph 4, and
+
+(c) any amount of compensation payable to the freeholder under paragraph 5.
+
+(2) Where the amount arrived at in accordance with sub-paragraph (1) is a negative amount, the price payable by the nominee purchaser for the freehold shall be nil.
+
+#### Value of freeholder’s interest
+
+**3** (1) Subject to the provisions of this paragraph, the value of the freeholder’s interest in the specified premises is the amount which at [[^F286]the relevant date] that interest might be expected to realise if sold on the open market by a willing seller (with [[^F287]no person who falls within sub-paragraph (1A)] buying or seeking to buy) on the following assumptions—
+
+(a) on the assumption that the vendor is selling for an estate in fee simple—
+
+(i) subject to any leases subject to which the freeholder’s interest in the premises is to be acquired by the nominee purchaser, but
+
+(ii) subject also to any intermediate or other leasehold interests in the premises which are to be acquired by the nominee purchaser;
+
+(b) on the assumption that this Chapter and Chapter II confer no right to acquire any interest in the specified premises or to acquire any new lease (except that this shall not preclude the taking into account of a notice given under section 42 with respect to a flat contained in the specified premises where it is given by a person other than a participating tenant);
+
+(c) on the assumption that any increase in the value of any flat held by a participating tenant which is attributable to an improvement carried out at his own expense by the tenant or by any predecessor in title is to be disregarded; and
+
+(d) on the assumption that (subject to paragraphs (a) and (b)) the vendor is selling with and subject to the rights and burdens with and subject to which the conveyance to the nominee purchaser of the freeholder’s interest is to be made, and in particular with and subject to such permanent or extended rights and burdens as are to be created in order to give effect to Schedule 7.
+
+[^F288][1A A person falls within this sub-paragraph if he is—
+
+(a) the nominee purchaser, or
+
+(b) a tenant of premises contained in the specified premises, or
+
+[^F289]ba an owner of an interest which the nominee purchaser is to acquire in pursuance of section 1(2)(a), or]
+
+(c) an owner of an interest which the nominee purchaser is to acquire in pursuance of section 2(1)(b).
+
+(2) It is hereby declared that the fact that sub-paragraph (1) requires assumptions to be made as to the matters specified in paragraphs (a) to (d) of that sub-paragraph does not preclude the making of assumptions as to other matters where those assumptions are appropriate for determining the amount which at [[^F286]the relevant date] the freeholder’s interest in the specified premises might be expected to realise if sold as mentioned in that sub-paragraph.
+
+(3) In determining that amount there shall be made such deduction (if any) in respect of any defect in title as on a sale of the interest on the open market might be expected to be allowed between a willing seller and a willing buyer.
+
+(4) Where a lease of any flat or other unit contained in the specified premises is to be granted to the freeholder in accordance with section 36 and Schedule 9, the value of his interest in those premises at [[^F286]the relevant date] so far as relating to that flat or other unit shall be taken to be the difference as at that date between—
+
+(a) the value of his freehold interest in it, and
+
+(b) the value of his interest in it under that lease, assuming it to have been granted to him at that date;
+
+and each of those values shall, so far as is appropriate, be determined in like manner as the value of the freeholder’s interest in the whole of the specified premises is determined for the purposes of paragraph 2(1)(a).
+
+(5) The value of the freeholder’s interest in the specified premises shall not be increased by reason of—
+
+(a) any transaction which—
+
+(i) is entered into on or after the date of the passing of this Act (otherwise than in pursuance of a contract entered into before that date), and
+
+(ii) involves the creation or transfer of an interest superior to (whether or not preceding) any interest held by a qualifying tenant of a flat contained in the specified premises; or
+
+(b) any alteration on or after that date of the terms on which any such superior interest is held.
+
+(6) Sub-paragraph (5) shall not have the effect of preventing an increase in value of the freeholder’s interest in the specified premises in a case where the increase is attributable to any such leasehold interest with a negative value as is mentioned in paragraph 14(2).
+
+#### Freeholder’s share of marriage value
+
+**4** (1) The marriage value is the amount referred to in sub-paragraph (2), and the freeholder’s share of the marriage value is [[^F290]50 per cent. of that amount].
+
+(2) [[^F291]Subject to sub-paragraph (2A),] the marriage value is any increase in the aggregate value of the freehold and every intermediate leasehold interest in the specified premises, when regarded as being (in consequence of their being acquired by the nominee purchaser) interests under the control of the participating tenants, as compared with the aggregate value of those interests when held by the persons from whom they are to be so acquired, being an increase in value—
+
+(a) which is attributable to the potential ability of the participating tenants, once those interests have been so acquired, to have new leases granted to them without payment of any premium and without restriction as to length of term, and
+
+(b) which, if those interests were being sold to the nominee purchaser on the open market by willing sellers, the nominee purchaser would have to agree to share with the sellers in order to reach agreement as to price.
+
+[[^F292](2A) Where at the relevant date the unexpired term of the lease held by any of those participating members exceeds eighty years, any increase in the value of the freehold or any intermediate leasehold interest in the specified premises which is attributable to his potential ability to have a new lease granted to him as mentioned in sub-paragraph (2)(a) is to be ignored.]
+
+(3) For the purposes of sub-paragraph (2) the value of the freehold or any intermediate leasehold interest in the specified premises when held by the person from whom it is to be acquired by the nominee purchaser and its value when acquired by the nominee purchaser—
+
+(a) shall be determined on the same basis as the value of the interest is determined for the purposes of paragraph 2(1)(a) or (as the case may be) paragraph 6(1)(b)(i); and
+
+(b) shall be so determined as at [[^F286]the relevant date].
+
+(4) Accordingly, in so determining the value of an interest when acquired by the nominee purchaser—
+
+(a) the same assumptions shall be made under paragraph 3(1) (or, as the case may be, under paragraph 3(1) as applied by paragraph 7(1)) as are to be made under that provision in determining the value of the interest when held by the person from whom it is to be acquired by the nominee purchaser; and
+
+(b) any merger or other circumstances affecting the interest on its acquisition by the nominee purchaser shall be disregarded.
+
+#### Compensation for loss resulting from enfranchisement
+
+**5** (1) Where the freeholder will suffer any loss or damage to which this paragraph applies, there shall be payable to him such amount as is reasonable to compensate him for that loss or damage.
+
+(2) This paragraph applies to—
+
+(a) any diminution in value of any interest of the freeholder in other property resulting from the acquisition of his interest in the specified premises; and
+
+(b) any other loss or damage which results therefrom to the extent that it is referable to his ownership of any interest in other property.
+
+(3) Without prejudice to the generality of paragraph (b) of sub-paragraph (2), the kinds of loss falling within that paragraph include loss of development value in relation to the specified premises to the extent that it is referable as mentioned in that paragraph.
+
+(4) In sub-paragraph (3) “development value”, in relation to the specified premises, means any increase in the value of the freeholder’s interest in the premises which is attributable to the possibility of demolishing, reconstructing, or carrying out substantial works of construction on, the whole or a substantial part of the premises.
+
+(5) Where the freeholder will suffer loss or damage to which this paragraph applies, then in determining the amount of compensation payable to him under this paragraph, it shall not be material that—
+
+(a) the loss or damage could to any extent be avoided or reduced by the grant to him, in accordance with section 36 and Schedule 9, of a lease granted in pursuance of Part III of that Schedule, and
+
+(b) he is not requiring the nominee purchaser to grant any such lease.
+
+#### [^F293][Price payable for freehold of part of specified premises
+
+**[^F294]5A** (1) Where different persons own the freehold of different parts of the specified premises—
+
+(a) a separate price shall be payable by the nominee purchaser for the freehold of each of those parts, and
+
+(b) sub-paragraph (2) shall apply to determine the price so payable.
+
+(2) Subject to sub-paragraph (3), the price payable by the nominee purchaser for the freehold of part of the specified premises shall be the aggregate of—
+
+(a) the value of the freeholder’s interest in the part as determined in accordance with paragraph 3, modified as mentioned in paragraph 5B, and
+
+(b) the freeholder’s share of the marriage value as determined in accordance with paragraph 4, modified as mentioned in paragraph 5C, and
+
+(c) any amount of compensation payable to the freeholder under paragraph 5.
+
+(3) Where the amount arrived at in accordance with sub-paragraph (2) is a negative amount, the price payable by the nominee purchaser for the freehold of the part shall be nil.
+
+**[^F295]5B** (1) In its application in accordance with paragraph 5A(2)(a), paragraph 3 shall have effect with the following modifications.
+
+(2) In sub-paragraph (1)(a)(ii), there shall be inserted at the end “so far as relating to the part of the premises in which the freeholder’s interest subsists”.
+
+(3) In sub-paragraph (1A), after paragraph (a) there shall be inserted—
+
+“ an owner of a freehold interest in the specified premises, or”.
+
+(4) In sub-paragraph (4)—
+
+(a) the words “the whole of” shall be omitted, and
+
+(b) for “2(1)(a)” there shall be substituted “5A(2)(a)”.
+
+**[^F296]5C** (1) In its application in accordance with paragraph 5A(2)(b), paragraph 4 shall have effect with the following modifications.
+
+(2) In sub-paragraph (2)—
+
+(a) after “the specified premises” there shall be inserted “so far as relating to the part of the premises in which the freeholder’s interest subsists”,
+
+(b) after “participating tenants”, where it first occurs, there shall be inserted “in whose flats the freeholder’s interest subsists”, and
+
+(c) in paragraph (a), for “the”, where it second occurs, there shall be substituted “those”.
+
+(3) In sub-paragraph (3)—
+
+(a) after “the specified premises” there shall be inserted “so far as relating to the part of the premises in which the freeholder’s interest subsists”, and
+
+(b) in paragraph (a), for “2(1)(a)” there shall be substituted “5A(2)(a)”.
+
+(4) In sub-paragraph (4)(a), after “3(1)”, where it first occurs, there shall be inserted “as applied by paragraph 5A(2)(a)”.]
+
+### Part III — INTERMEDIATE LEASEHOLD INTERESTS
+
+#### Price payable for intermediate leasehold interests
+
+**6** (1) Where the nominee purchaser is to acquire one or more intermediate leasehold interests—
+
+(a) a separate price shall be payable for each of those interests, and
+
+(b) (subject to the provisions of this paragraph) that price shall be the aggregate of—
+
+(i) the value of the interest as determined in accordance with paragraph 7, and
+
+(ii) any amount of compensation payable to the owner of that interest in accordance with paragraph 8.
+
+(2) Where in the case of any intermediate leasehold interest the amount arrived at in accordance with sub-paragraph (1)(b) is a negative amount, the price payable by the nominee purchaser for the interest shall be nil.
+
+#### Value of intermediate leasehold interests
+
+**7** (1) Subject to sub-paragraph (2), paragraph 3 shall apply for determining the value of any intermediate leasehold interest for the purposes of paragraph 6(1)(b)(i) with such modifications as are appropriate to relate that paragraph to a sale of the interest in question subject (where applicable) to any leases intermediate between that interest and any lease held by a qualifying tenant of a flat contained in the specified premises.
+
+[[^F297](1A) In its application in accordance with sub-paragraph (1), paragraph 3(1A) shall have effect with the addition after paragraph (a) of—
+
+“ an owner of a freehold interest in the specified premises, or”]
+
+[[^F298](2) The value of an intermediate leasehold interest which is the interest of the tenant under a minor intermediate lease is to be calculated in accordance with regulations made by the appropriate national authority instead of in accordance with sub-paragraph (1).]
+
+(3) “A minor intermediate lease” means a lease complying with the following requirements, namely—
+
+(a) it must have an expectation of possession of not more than one month, and
+
+(b) the profit rent in respect of the lease must be not more than £5 per year;
+
+and, in the case of a lease which is in immediate reversion on two or more leases, those requirements must be complied with in connection with each of the sub-leases.
+
+(4) Where a minor intermediate lease is in immediate reversion on two or more leases—
+
+(a) the [[^F299]calculation method mentioned in sub-paragraph (2)] shall be applied in relation to each of those sub-leases (and sub-paragraphs (5) and (6) shall also so apply); and
+
+(b) the value of the interest of the tenant under the minor intermediate lease shall accordingly be the aggregate of the amounts calculated [[^F300]in accordance with that method].
+
+(5) “Profit rent” means an amount equal to that of the rent payable under the lease on which the minor intermediate lease is in immediate reversion, less that of the rent payable under the minor intermediate lease.
+
+(6) Where the minor intermediate lease or that on which it is in immediate reversion comprises property other than a flat held by a qualifying tenant, then in sub-paragraph (5) the reference to the rent payable under it means so much of that rent as is apportioned to any such flat.
+
+[^F301]7 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F301]8 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(9) For the purposes of this paragraph the expectation of possession carried by a lease in relation to a lease (“the sub-lease”) on which it is in immediate reversion is the expectation of possession which it carries at [[^F286]the relevant date] after the sub-lease, on the basis that—
+
+(a) (subject to sub-paragraph (10)) where the sub-lease is a lease held by a qualifying tenant of a flat contained in the specified premises, it terminates at [[^F286]the relevant date] if its term date fell before then, or else it terminates on its term date; and
+
+(b) in any other case, the sub-lease terminates on its term date.
+
+(10) In a case where before the relevant date for the purposes of this Chapter the landlord of any such qualifying tenant as is mentioned in sub-paragraph (9)(a) had given notice to quit terminating the tenant’s sub-lease on a date earlier than that date, the date specified in the notice to quit shall be substituted for the date specified in that provision.
+
+[[^F302](11) In sub-paragraph (2) “appropriate national authority” means—
+
+(a) in relation to a leasehold interest of land in England, the Secretary of State;
+
+(b) in relation to a leasehold interest of land in Wales, the Welsh Ministers.]
+
+#### Compensation for loss on acquisition of interest
+
+**[^F303][8** (1) Where the owner of the intermediate leasehold interest will suffer any loss or damage to which this paragraph applies, there shall be payable to him such amount as is reasonable to compensate him for that loss or damage.
+
+(2) This paragraph applies to—
+
+(a) any diminution in value of any interest of the owner of the intermediate leasehold interest in other property resulting from the acquisition of his interest in the specified premises; and
+
+(b) any other loss or damage which results therefrom to the extent that it is referable to his ownership of any interest in other property.
+
+(3) Without prejudice to the generality of paragraph (b) of sub-paragraph (2), the kinds of loss falling within that paragraph include loss of development value in relation to the specified premises to the extent that it is referable as mentioned in that paragraph.
+
+(4) In sub-paragraph (3) “development value”, in relation to the specified premises, means any increase in the value of the interest in the premises of the owner of the intermediate leasehold interest which is attributable to the possibility of demolishing, reconstructing or carrying out substantial works of construction on, the whole or a substantial part of the premises.]
+
+#### Owners of intermediate interests entitled to part of marriage value
+
+**9** (1) This paragraph applies where [[^F304]paragraph 2 applies and]—
+
+(a) the price payable for the freehold of the specified premises includes an amount in respect of the freeholder’s share of the marriage value, and
+
+(b) the nominee purchaser is to acquire any intermediate leasehold interests.
+
+(2) The amount payable to the freeholder in respect of his share of the marriage value shall be divided between the freeholder and the owners of the intermediate leasehold interests in proportion to the value of their respective interests in the specified premises (as determined for the purposes of paragraph 2(1)(a) or paragraph 6(1)(b)(i), as the case may be).
+
+(3) Where the owner of an intermediate leasehold interest is entitled in accordance with sub-paragraph (2) to any part of the amount payable to the freeholder in respect of the freeholder’s share of the marriage value, the amount to which he is so entitled shall be payable to him by the freeholder.
+
+**[^F305][9A** (1) This paragraph applies where paragraph 5A applies and—
+
+(a) the price payable for the freehold of a part of the specified premises includes an amount in respect of the freeholder’s share of the marriage value, and
+
+(b) the nominee purchaser is to acquire any intermediate leasehold interests which subsist in that part.
+
+(2) The amount payable to the freeholder of the part in respect of his share of the marriage value shall be divided between the freeholder and the owners of the intermediate leasehold interests which subsist in that part in proportion to the value of their respective interests in the part (as determined for the purposes of paragraph 5A(2)(a) or paragraph 6(1)(b)(i), as the case may be).
+
+(3) Where an intermediate leasehold interest subsists not only in the part of the specified premises in which the freeholder’s interest subsists (“the relevant part”) but also in another part of those premises—
+
+(a) the value of the intermediate leasehold interest as determined for the purposes of paragraph 6(1)(b)(i) shall be apportioned between the relevant part and the other part of the specified premises in which it subsists, and
+
+(b) sub-paragraph (2) shall have effect as if the reference to the value of the intermediate leasehold interest in the relevant part as determined for the purposes of paragraph 6(1)(b)(i) were to the value of that interest as determined on an apportionment in accordance with paragraph (a).
+
+(4) Where the owner of an intermediate leasehold interest is entitled in accordance with sub-paragraph (2) to any part of the amount payable to the freeholder in respect of the freeholder’s share of the marriage value, the amount to which he is so entitled shall be payable to him by the freeholder.]
+
+### Part IV — OTHER INTERESTS TO BE ACQUIRED
+
+#### Price payable for other interests
+
+**10** (1) Where the nominee purchaser is to acquire any freehold interest in pursuance of section 1(2)(a) or (4) or section 21(4), then (subject to sub-paragraph (3) below) the price payable for that interest shall be the aggregate of—
+
+(a) the value of the interest as determined in accordance with paragraph 11,
+
+(b) any share of the marriage value to which the owner of the interest is entitled under paragraph 12, and
+
+(c) any amount of compensation payable to the owner of the interest in accordance with paragraph 13.
+
+(2) Where the nominee purchaser is to acquire any leasehold interest by virtue of section 2(1) other than an intermediate leasehold interest, or he is to acquire any leasehold interest in pursuance of section 21(4), then (subject to sub-paragraph (3) below) the price payable for that interest shall be the aggregate of—
+
+(a) the value of the interest as determined in accordance with paragraph 11, and
+
+(b) any amount of compensation payable to the owner of the interest in accordance with paragraph 13.
+
+(3) Where in the case of any interest the amount arrived at in accordance with sub-paragraph (1) or (2) is a negative amount, the price payable by the nominee purchaser for the interest shall be nil.
+
+#### Value of other interests
+
+**11** (1) In the case of any such freehold interest as is mentioned in paragraph 10(1), paragraph 3 shall apply for determining the value of the interest with such modifications as are appropriate to relate it to a sale of the interest subject (where applicable) to any leases intermediate between that interest and any lease held by a qualifying tenant of a flat contained in the specified premises.
+
+(2) In the case of any such leasehold interest as is mentioned in paragraph 10(2), then—
+
+(a) (unless paragraph (b) below applies) paragraph 3 shall apply as mentioned in sub-paragraph (1) above;
+
+(b) if it is the interest of the tenant under a minor intermediate lease within the meaning of paragraph 7, sub-paragraphs (2) to (10) of that paragraph shall apply with such modifications as are appropriate for determining the value of the interest.
+
+(3) In its application in accordance with sub-paragraph (1) or (2) above, paragraph 3(6) shall have effect as if the reference to paragraph 14(2) were a reference to paragraph 18(2).
+
+[^F306][4 In its application in accordance with sub-paragraph (2) above, paragraph 3(1A) shall have effect with the addition after paragraph (a) of—
+
+“ an owner of a freehold interest in the specified premises, or”]
+
+#### Marriage value
+
+**12** (1) Where any such freehold interest as is mentioned in paragraph 10(1) is an interest in any such property as is mentioned in section 1(3)(a)—
+
+(a) sub-paragraphs (2) to (4) of paragraph 4 shall apply with such modifications as are appropriate for determining the marriage value in connection with the acquisition by the nominee purchaser of that interest; and
+
+(b) sub-paragraph (1) of that paragraph shall apply with such modifications as are appropriate for determining the share of the marriage value to which the owner of that interest is entitled.
+
+(2) Where—
+
+(a) the owner of any such freehold interest is entitled to any share of the marriage value in respect of any such property, and
+
+(b) the nominee purchaser is to acquire any leasehold interests in that property superior to any lease held by a participating tenant,
+
+the amount payable to the owner of the freehold interest in respect of his share of the marriage value in respect of that property shall be divided between the owner of that interest and the owners of the leasehold interests in proportion to the value of their respective interests in that property (as determined for the purposes of paragraph 10(1) or (2), as the case may be).
+
+(3) Where the owner of any such leasehold interest (“the intermediate landlord”) is entitled in accordance with sub-paragraph (2) to any part of the amount payable to the owner of any freehold interest in respect of his share of the marriage value in respect of any property, the amount to which the intermediate landlord is so entitled shall be payable to him by the owner of that freehold interest.
+
+#### Compensation for loss on acquisition of interest
+
+**[^F307][13** (1) Where the owner of any such freehold or leasehold interest as is mentioned in paragraph 10(1) or (2) (“relevant interest”) will suffer any loss or damage to which this paragraph applies, there shall be payable to him such amount as is reasonable to compensate him for that loss or damage.
+
+(2) This paragraph applies to—
+
+(a) any diminution in value of any interest in other property belonging to the owner of a relevant interest, being diminution resulting from the acquisition of the property in which the relevant interest subsists; and
+
+(b) any other loss or damage which results therefrom to the extent that it is referable to his ownership of any interest in other property.
+
+(3) Without prejudice to the generality of paragraph (b) of sub-paragraph (2), the kinds of loss falling within that paragraph include loss of development value in relation to the property in which the relevant interest subsists to the extent that it is referable to his ownership of any interest in other property.
+
+(4) In sub-paragraph (3) “development value”, in relation to the property in which the relevant interest subsists, means any increase in the value of the relevant interest which is attributable to the possibility of demolishing, reconstructing or carrying out substantial works of construction on, the whole or a substantial part of the property.]
+
+### Part V — VALUATION ETC. OF INTERESTS IN SPECIFIED PREMISES WITH NEGATIVE VALUES
+
+#### Valuation of freehold and intermediate leasehold interests
+
+**14** (1) Where—
+
+(a) the value of [[^F308]a] freeholder’s interest in the specified premises (as determined [[^F308]for the relevant purposes]), or
+
+(b) the value of any intermediate leasehold interest (as determined [[^F309]for the relevant purposes]),
+
+is a negative amount, the value of the interest for [[^F310]those] purposes shall be nil.
+
+(2) Where sub-paragraph (1) applies to any intermediate leasehold ainterest whose value is a negative amount (“the negative interest”), then for the relevant purposes any interests in the specified premises superior to the negative interest and having a positive value shall be reduced in value—
+
+(a) beginning with the interest which is immediately superior to the negative interest and continuing (if necessary) with any such other superior interests in order of proximity to the negative interest;
+
+(b) until the aggregate amount of the reduction is equal to the negative amount in question; and
+
+(c) without reducing the value of any interest to less than nil.
+
+(3) In a case where sub-paragraph (1) applies to two or more intermediate leasehold interests whose values are negative amounts, sub-paragraph (2) shall apply separately in relation to each of those interests—
+
+(a) beginning with the interest which is inferior to every other of those interests and then in order of proximity to that interest; and
+
+(b) with any reduction in the value of any interest for the relevant purposes by virtue of any prior application of sub-paragraph (2) being taken into account.
+
+[^F311][3A Where sub-paragraph (2) applies—
+
+(a) for the purposes of paragraph 5A(2)(a), and
+
+(b) in relation to an intermediate leasehold interest in relation to which there is more than one immediately superior interest,
+
+any reduction in value made under that sub-paragraph shall be apportioned between the immediately superior interests.]
+
+(4) For the purposes of sub-paragraph (2) an interest has a positive value if (apart from that sub-paragraph) its value for the relevant purposes is a positive amount.
+
+(5) In this Part of this Schedule “the relevant purposes”—
+
+(a) as respects [[^F312]a] freeholder’s interest in the specified premises, means the purposes of paragraph 2(1)(a) [[^F313]or, as the case may be, 5A(2)(a)]; and
+
+(b) as respects any intermediate leasehold interest, means the purposes of paragraph 6(1)(b)(i).
+
+#### Calculation of marriage value
+
+**15** (1) Where (as determined in accordance with paragraph 4(3) and (4)) the value of any interest—
+
+(a) when held by the person from whom it is to be acquired by the nominee purchaser, or
+
+(b) when acquired by the nominee purchaser,
+
+is a negative amount, then for the purposes of paragraph 4(2) the value of the interest when so held or acquired shall be nil.
+
+(2) Where sub-paragraph (1) above applies to any intermediate leasehold interest whose value when held or acquired as mentioned in paragraph (a) or (b) of that sub-paragraph is a negative amount, paragraph 14(2) to (4) shall apply for determining for the purposes of paragraph 4(2) the value when so held or acquired of other interests in the specified premises, as if—
+
+(a) any reference to paragraph 14(1) were a reference to sub-paragraph (1) above; and
+
+(b) any reference to the relevant purposes were, as respects any interest, a reference to the purposes of paragraph 4(2) as it applies to the interest when so held or acquired.
+
+(3) References in paragraph 16 or 17 to paragraph 14(2) or (3) do not extend to that provision as it applies in accordance with sub-paragraph (2) above.
+
+[^F314][4 References in this paragraph to paragraph 4(2), (3) or (4) extend to that provision as it applies in accordance with paragraph 5A(2)(b).]
+
+#### Apportionment of marriage value
+
+**16** (1) Where paragraph 14(1) applies to an interest, the value of the interest for the purposes of paragraph 9(2) shall be nil, unless sub-paragraph (2) below applies.
+
+(2) In a case where paragraph 14(1) applies to [[^F315]a] freeholder’s interest in the specified premises and to every intermediate leasehold interest—
+
+(a) sub-paragraph (1) above shall not apply for the purposes of paragraph 9(2); and
+
+(b) any division falling to be made on the proportional basis referred to in paragraph 9(2) shall be so made in such a way as to secure that the greater the negativity of an interest’s value the smaller the share in respect of the interest.
+
+(3) In a case where—
+
+(a) paragraph 14(2) operates to reduce the value of any such superior interest as is there mentioned (“the superior interest”), and
+
+(b) after the operation of that provision there remains any interest whose value for the relevant purposes is a positive amount,
+
+the value of the superior interest for the purposes of paragraph 9(2) shall be the value which (in accordance with paragraph 14(2)) it has for the relevant purposes.
+
+(4) In a case where—
+
+(a) paragraph 14(2) operates to reduce the value of any such superior interest as is there mentioned (“the superior interest”), but
+
+(b) after the operation of that provision there remains no such interest as is mentioned in sub-paragraph (3)(b) above,
+
+the value of the superior interest for the purposes of paragraph 9(2) shall be the value which it has for the relevant purposes apart from paragraph 14(2).
+
+#### Adjustment of compensation
+
+**17** (1) Where—
+
+(a) paragraph 14(2) operates to reduce the value of any such superior interest as is there mentioned (“the superior interest”), and
+
+(b) apart from this paragraph any amount of compensation is payable under paragraph 8 to the owner of any relevant inferior interest in respect of that interest,
+
+there shall be payable to the owner of the superior interest so much of the amount of compensation as is equal to the amount of the reduction or, if less than that amount, the whole of the amount of compensation.
+
+(2) Where—
+
+(a) paragraph 14(2) operates to reduce the value of two or more such superior interests as are there mentioned (“the superior interests”), and
+
+(b) apart from this paragraph any amount of compensation is payable under paragraph 8 to the owner of any relevant inferior interest in respect of that interest,
+
+sub-paragraph (1) shall apply in the first instance as if the reference to the owner of the superior interest were to the owner of such of the superior interests as is furthest from the negative interest, and then, as respects any remaining amount of compensation, as if that reference were to the owner of such of the superior interests as is next furthest from the negative interest, and so on.
+
+(3) In sub-paragraph (1) or (2) “relevant inferior interest”, in relation to any interest whose value is reduced as mentioned in that sub-paragraph (“the superior interest”), means—
+
+(a) the negative interest on account of which any such reduction is made, or
+
+(b) any other interest intermediate between that negative interest and the superior interest;
+
+but sub-paragraph (1) shall apply in the first instance in relation to any amount of compensation payable to the owner of that negative interest, and then, for the purpose of offsetting (so far as possible) any reduction remaining to be offset in accordance with sub-paragraph (1) or (2), in relation to any amount of compensation payable to the owner of the interest immediately superior to that negative interest, and so on in order of proximity to it.
+
+(4) To the extent that an amount of compensation is payable to the owner of any interest by virtue of this paragraph—
+
+(a) paragraph 2(1)(c) [[^F316], 5A(2)(c)] or 6(1)(b)(ii) shall have effect as if it were an amount of compensation payable to him, as owner of that interest, in accordance with paragraph 5 or 8, as the case may be; and
+
+(b) the person who would otherwise have been entitled to it in accordance with paragraph 8 shall accordingly not be so entitled.
+
+(5) In a case where paragraph 14(2) applies separately in relation to two or more negative interests in accordance with paragraph 14(3), the preceding provisions of this paragraph shall similarly apply separately in relation to the reductions made on account of each of those interests, and shall so apply—
+
+(a) according to the order determined by paragraph 14(3)(a); and
+
+(b) with there being taken into account any reduction in the amount of compensation payable to any person under paragraph 8 which results from the prior application of the preceding provisions of this paragraph.
+
+[^F317][6 Where any reduction in value under sub-paragraph (2) of paragraph 14 is apportioned in accordance with sub-paragraph (3A) of that paragraph, any amount of compensation payable by virtue of this paragraph shall be similarly apportioned.]
+
+### Part VI — VALUATION ETC. OF OTHER INTERESTS WITH NEGATIVE VALUES
+
+#### Valuation of freehold and leasehold interests
+
+**18** (1) Where—
+
+(a) the value of any freehold interest (as determined in accordance with paragraph 11(1)), or
+
+(b) the value of any leasehold interest (as determined in accordance with paragraph 11(2)),
+
+is a negative amount, the value of the interest for the relevant purposes shall be nil.
+
+(2) Where, in the case of any property, sub-paragraph (1) applies to any leasehold interest in the property whose value is a negative amount (“the negative interest”), then for the relevant purposes any interests in the property superior to the negative interest and having a positive value shall, if they are interests which are to be acquired by the nominee purchaser, be reduced in value—
+
+(a) beginning with the interest which is nearest to the negative interest and continuing (if necessary) with any such other superior interests in order of proximity to the negative interest;
+
+(b) until the aggregate amount of the reduction is equal to the negative amount in question; and
+
+(c) without reducing the value of any interest to less than nil.
+
+(3) In a case where sub-paragraph (1) applies to two or more leasehold interests in any property whose values are negative amounts, sub-paragraph (2) shall apply separately in relation to each of those interests—
+
+(a) beginning with the interest which is inferior to every other of those interests and then in order of proximity to that interest; and
+
+(b) with any reduction in the value of any interest for the relevant purposes by virtue of any prior application of sub-paragraph (2) being taken into account.
+
+(4) For the purposes of sub-paragraph (2) an interest has a positive value if (apart from that sub-paragraph) its value for the relevant purposes is a positive amount.
+
+(5) In this Part of this Schedule “the relevant purposes”—
+
+(a) as respects any freehold interest, means the purposes of paragraph 10(1)(a); and
+
+(b) as respects any leasehold interest, means the purposes of paragraph 10(2)(a).
+
+#### Calculation of marriage value
+
+**19** (1) Where (as determined in accordance with paragraph 4(3) and (4)) the value of any interest—
+
+(a) when held by the person from whom it is to be acquired by the nominee purchaser, or
+
+(b) when acquired by the nominee purchaser,
+
+is a negative amount, then for the purposes of paragraph 4(2) the value of the interest when so held or acquired shall be nil.
+
+(2) Where, in the case of any property, sub-paragraph (1) above applies to any leasehold interest in the property whose value when held or acquired as mentioned in paragraph (a) or (b) of that sub-paragraph is a negative amount, paragraph 18(2) to (4) shall apply for determining for the purposes of paragraph 4(2) the value when so held or acquired of other interests in the property, as if—
+
+(a) any reference to paragraph 18(1) were a reference to sub-paragraph (1) above; and
+
+(b) any reference to the relevant purposes were, as respects any interest, a reference to the purposes of paragraph 4(2) as it applies to the interest when so held or acquired.
+
+(3) In this paragraph any reference to any provision of paragraph 4 is a reference to that provision as it applies in accordance with paragraph 12(1).
+
+(4) References in paragraph 20 or 21 to paragraph 18(2) or (3) do not extend to that provision as it applies in accordance with sub-paragraph (2) above.
+
+#### Apportionment of marriage value
+
+**20** (1) Where paragraph 18(1) applies to any interest in any property to which paragraph 12(1) applies, the value of the interest for the purposes of paragraph 12(2) shall be nil, unless sub-paragraph (2) below applies.
+
+(2) Where, in the case of any property, paragraph 18(1) applies to every interest which is to be acquired by the nominee purchaser—
+
+(a) sub-paragraph (1) above shall not apply for the purposes of paragraph 12(2); and
+
+(b) any division falling to be made on the proportional basis referred to in paragraph 12(2) shall be so made in such a way as to secure that the greater the negativity of an interest’s value the smaller the share in respect of the interest.
+
+(3) Where in the case of any property—
+
+(a) paragraph 18(2) operates to reduce the value of any such superior interest as is there mentioned (“the superior interest”), and
+
+(b) after the operation of that provision there remains any interest which is to be acquired by the nominee purchaser and whose value for the relevant purposes is a positive amount,
+
+the value of the superior interest for the purposes of paragraph 12(2) shall be the value which (in accordance with paragraph 18(2)) it has for the relevant purposes.
+
+(4) Where in the case of any property—
+
+(a) paragraph 18(2) operates to reduce the value of any such superior interest as is there mentioned (“the superior interest”), but
+
+(b) after the operation of that provision there remains no such interest as is mentioned in sub-paragraph (3)(b) above,
+
+the value of the superior interest for the purposes of paragraph 12(2) shall be the value which it has for the relevant purposes apart from paragraph 18(2).
+
+#### Adjustment of compensation
+
+**21** (1) Where in the case of any property—
+
+(a) paragraph 18(2) operates to reduce the value of any such superior interest as is there mentioned (“the superior interest”), and
+
+(b) apart from this paragraph any amount of compensation is payable by virtue of paragraph 13 to the owner of any relevant inferior interest in respect of that interest,
+
+there shall be payable to the owner of the superior interest so much of the amount of compensation as is equal to the amount of the reduction or, if less than that amount, the whole of the amount of compensation.
+
+(2) Where in the case of any property—
+
+(a) paragraph 18(2) operates to reduce the value of two or more such superior interests as are there mentioned (“the superior interests”), and
+
+(b) apart from this paragraph any amount of compensation is payable by virtue of paragraph 13 to the owner of any relevant inferior interest in respect of that interest,
+
+sub-paragraph (1) shall apply in the first instance as if the reference to the owner of the superior interest were to the owner of such of the superior interests as is furthest from the negative interest, and then, as respects any remaining amount of compensation, as if that reference were to the owner of such of the superior interests as is next furthest from the negative interest, and so on.
+
+(3) In sub-paragraph (1) or (2) “relevant inferior interest”, in relation to any interest whose value is reduced as mentioned in that sub-paragraph (“the superior interest”), means—
+
+(a) the negative interest on account of which any such reduction is made, or
+
+(b) any other interest in the property in question which is to be acquired by the nominee purchaser and is intermediate between that negative interest and the superior interest;
+
+but sub-paragraph (1) shall apply in the first instance in relation to any amount of compensation payable to the owner of that negative interest, and then, for the purpose of offsetting (so far as possible) any reduction remaining to be offset in accordance with sub-paragraph (1) or (2), in relation to any amount of compensation payable to the owner of such interest falling within paragraph (b) above as is nearest to that negative interest, and so on in order of proximity to it.
+
+(4) To the extent that an amount of compensation is payable to the owner of any interest by virtue of this paragraph—
+
+(a) paragraph 10(1)(c) or (as the case may be) paragraph 10(2)(b) shall have effect as if it were an amount of compensation payable to him, as owner of that interest, in accordance with paragraph 13; and
+
+(b) the person who would otherwise have been entitled to it in accordance with paragraph 13 shall accordingly not be so entitled.
+
+(5) In a case where paragraph 18(2) applies separately in relation to two or more negative interests in accordance with paragraph 18(3), the preceding provisions of this paragraph shall similarly apply separately in relation to the reductions made on account of each of those interests, and shall so apply—
+
+(a) according to the order determined by paragraph 18(3)(a); and
+
+(b) with there being taken into account any reduction in the amount of compensation payable to any person by virtue of paragraph 13 which results from the prior application of the preceding provisions of this paragraph.
+
+## SCHEDULE 7 — CONVEYANCE TO NOMINEE PURCHASER ON ENFRANCHISEMENT
+
+*Section 34.*
+
+### Interpretation
+
+**1** In this Schedule—
+
+[[^F318](a) “the relevant premises” means, in relation to the conveyance of any interest, the premises in which the interest subsists;
+
+(b) “the freeholder” means, in relation to the conveyance of a freehold interest, the person whose interest is to be conveyed;]
+
+(c) “other property” means property of which the freehold is not to be acquired by the nominee purchaser under this Chapter; and
+
+[[^F318](d) “the appropriate time” means, in relation to the conveyance of a freehold interest, the time when the interest is to be conveyed to the nominee purchaser.]
+
+### General
+
+**2** (1) The conveyance shall not exclude or restrict the general words implied in conveyances under section 62 of the [^M79]Law of Property Act 1925, or the all-estate clause implied under section 63 of that Act, unless—
+
+(a) the exclusion or restriction is made for the purpose of preserving or recognising any existing interest of the freeholder in tenant’s incumbrances or any existing right or interest of any other person, or
+
+(b) the nominee purchaser consents to the exclusion or restriction.
+
+(2) The freeholder shall not be bound—
+
+(a) to convey to the nominee purchaser any better title than that which he has or could require to be vested in him, or
+
+[[^F319](b) to enter into any covenant for title beyond those implied under Part I of the Law of Property (Miscellaneous Provisions) Act 1994 in a case where a disposition is expressed to be made with limited title guarantee;
+
+and in the absence of agreement to the contrary the freeholder shall be entitled to be indemnified by the nominee purchaser in respect of any costs incurred by him in complying with the covenant implied by virtue of section 2(1)(b) of that Act (covenant for further assurance).]
+
+(3) In this paragraph “tenant’s incumbrances” includes any interest directly or indirectly derived out of a lease, and any incumbrance on a lease or any such interest (whether or not the same matter is an incumbrance also on any interest reversionary on the lease); and “incumbrances” has the same meaning as it has for the purposes of section 34 of this Act.
+
+### Rights of support, passage of water etc.
+
+**3** (1) This paragraph applies to rights of any of the following descriptions, namely—
+
+(a) rights of support for a building or part of a building;
+
+(b) rights to the access of light and air to a building or part of a building;
+
+(c) rights to the passage of water or of gas or other piped fuel, or to the drainage or disposal of water, sewage, smoke or fumes, or to the use or maintenance of pipes or other installations for such passage, drainage or disposal;
+
+(d) rights to the use or maintenance of cables or other installations for the supply of electricity, for the telephone or for the receipt directly or by landline of visual or other wireless transmissions;
+
+and the provisions required to be included in the conveyance by virtue of sub-paragraph (2) are accordingly provisions relating to any such rights.
+
+(2) The conveyance shall include provisions having the effect of—
+
+(a) granting with the relevant premises (so far as the freeholder is capable of granting them)—
+
+(i) all such easements and rights over other property as are necessary to secure as nearly as may be for the benefit of the relevant premises the same rights as exist for the benefit of those premises immediately before the appropriate time, and
+
+(ii) such further easements and rights (if any) as are necessary for the reasonable enjoyment of the relevant premises; and
+
+(b) making the relevant premises subject to the following easements and rights (so far as they are capable of existing in law), namely—
+
+(i) all easements and rights for the benefit of other property to which the relevant premises are subject immediately before the appropriate time, and
+
+(ii) such further easements and rights (if any) as are necessary for the reasonable enjoyment of other property, being property in which the freeholder has an interest at the relevant date.
+
+### Rights of way
+
+**4** Any such conveyance shall include—
+
+(a) such provisions (if any) as the nominee purchaser may require for the purpose of securing to him and the persons deriving title under him rights of way over other property, so far as the freeholder is capable of granting them, being rights of way that are necessary for the reasonable enjoyment of the relevant premises; and
+
+(b) such provisions (if any) as the freeholder may require for the purpose of making the relevant premises subject to rights of way necessary for the reasonable enjoyment of other property, being property in which he is to retain an interest after the acquisition of the relevant premises.
+
+### Restrictive covenants
+
+**5** (1) As regards restrictive covenants, the conveyance shall include—
+
+(a) such provisions (if any) as the freeholder may require to secure that the nominee purchaser is bound by, or to indemnify the freeholder against breaches of, restrictive covenants which—
+
+(i) affect the relevant premises otherwise than by virtue of any lease subject to which the relevant premises are to be acquired or any agreement collateral to any such lease, and
+
+(ii) are immediately before the appropriate time enforceable for the benefit of other property; and
+
+(b) such provisions (if any) as the freeholder or the nominee purchaser may require to secure the continuance (with suitable adaptations) of restrictions arising by virtue of any such lease or collateral agreement as is mentioned in paragraph (a)(i), being either—
+
+(i) restrictions affecting the relevant premises which are capable of benefiting other property and (if enforceable only by the freeholder) are such as materially to enhance the value of the other property, or
+
+(ii) restrictions affecting other property which are such as materially to enhance the value of the relevant premises; and
+
+(c) such further restrictions as the freeholder may require to restrict the use of the relevant premises in a way which—
+
+(i) will not interfere with the reasonable enjoyment of those premises as they have been enjoyed during the currency of the leases subject to which they are to be acquired, but
+
+(ii) will materially enhance the value of other property in which the freeholder has an interest at the relevant date.
+
+(2) In this paragraph “restrictive covenant” means a covenant or agreement restrictive of the user of any land or building.
+
+## SCHEDULE 8 — DISCHARGE OF MORTGAGES ETC.: SUPPLEMENTARY PROVISIONS
+
+*Section 35.*
+
+### Construction
+
+**1** In this Schedule—
+
+- “the consideration payable” means the consideration payable for the acquisition of the relevant interest;
+- “the landlord” means the person from whom the relevant interest is being acquired;
+- “the relevant interest” means any such interest as is mentioned in paragraph 2(1).
+
+### Duty of nominee purchaser to redeem mortgages
+
+**2** (1) Where in accordance with section 35(1) a conveyance will operate to discharge any interest from a mortgage to secure the payment of money, it shall be the duty of the nominee purchaser to apply the consideration payable, in the first instance, in or towards the redemption of any such mortgage (and, if there are more than one, then according to their priorities).
+
+(2) If any amount payable in accordance with sub-paragraph (1) to the person entitled to the benefit of a mortgage is not so paid, nor paid into court in accordance with paragraph 4, the relevant interest shall remain subject to the mortgage as regards the amount in question, and to that extent section 35(1) shall not apply.
+
+(3) Subject to sub-paragraph (4), sub-paragraph (1) shall not apply to a debenture holders’ charge, that is to say, a charge (whether a floating charge or not) in favour of the holders of a series of debentures issued by a company or other body of persons, or in favour of trustees for such debenture holders; and any such charge shall be disregarded in determining priorities for the purposes of sub-paragraph (1).
+
+(4) Sub-paragraph (3) shall not have effect in relation to a charge in favour of trustees for debenture holders which, at the date of the conveyance by virtue of which the relevant interest is acquired by the nominee purchaser, is (as regards that interest) a specific and not a floating charge.
+
+### Determination of amounts due in respect of mortgages
+
+**3** (1) For the purpose of determining the amount payable in respect of any mortgage under paragraph 2(1)—
+
+(a) a person entitled to the benefit of a mortgage to which that provision applies shall not be permitted to exercise any right to consolidate that mortgage with a separate mortgage on other property; and
+
+(b) if the landlord or any participating tenant is himself entitled to the benefit of a mortgage to which that provision applies, it shall rank for payment as it would if another person were entitled to it, and the nominee purchaser shall be entitled to retain the appropriate amount in respect of any such mortgage of a participating tenant.
+
+(2) For the purpose of discharging any interest from a mortgage to which paragraph 2(1) applies, a person may be required to accept three months or any longer notice of the intention to pay the whole or part of the principal secured by the mortgage, together with interest to the date of payment, notwithstanding that the terms of the security make other provision or no provision as to the time and manner of payment; but he shall be entitled, if he so requires, to receive such additional payment as is reasonable in the circumstances—
+
+(a) in respect of the costs of re-investment or other incidental costs and expenses; and
+
+(b) in respect of any reduction in the rate of interest obtainable on re-investment.
+
+### Payments into court
+
+**4** (1) Where under section 35(1) any interest is to be discharged from a mortgage and, in accordance with paragraph 2(1), a person is or may be entitled in respect of the mortgage to receive the whole or part of the consideration payable, then if—
+
+(a) for any reason difficulty arises in ascertaining how much is payable in respect of the mortgage, or
+
+(b) for any reason mentioned in sub-paragraph (2) below difficulty arises in making a payment in respect of the mortgage,
+
+the nominee purchaser may pay into court on account of the consideration payable the amount, if known, of the payment to be made in respect of the mortgage or, if that amount is not known, the whole of that consideration or such lesser amount as the nominee purchaser thinks right in order to provide for that payment.
+
+(2) Payment may be made into court in accordance with sub-paragraph (1)(b) where the difficulty arises for any of the following reasons, namely—
+
+(a) because a person who is or may be entitled to receive payment cannot be found or his identity cannot be ascertained;
+
+(b) because any such person refuses or fails to make out a title, or to accept payment and give a proper discharge, or to take any steps reasonably required of him to enable the sum payable to be ascertained and paid; or
+
+(c) because a tender of the sum payable cannot, by reason of complications in the title to it or the want of two or more trustees or for other reasons, be effected, or not without incurring or involving unreasonable cost or delay.
+
+(3) Without prejudice to sub-paragraph (1)(a), the whole or part of the consideration payable shall be paid into court by the nominee purchaser if, before execution of the conveyance referred to in paragraph 2(1), notice is given to him—
+
+(a) that the landlord, or a person entitled to the benefit of a mortgage on the relevant interest, requires him to do so for the purpose of protecting the rights of persons so entitled, or for reasons related to the bankruptcy or winding up of the landlord, or
+
+(b) that steps have been taken to enforce any mortgage on the relevant interest by the bringing of proceedings in any court, or by the appointment of a receiver, or otherwise;
+
+and where payment into court is to be made by reason only of a notice under this sub-paragraph, and the notice is given with reference to proceedings in a court specified in the notice other than [[^F320]the county court], payment shall be made into the court so specified.
+
+### Savings
+
+**5** (1) Where any interest is discharged by section 35(1) from a mortgage (without the obligations secured by the mortgage being satisfied by the receipt of the whole or part of the consideration payable), the discharge of that interest from the mortgage shall not prejudice any right or remedy for the enforcement of those obligations against other property comprised in the same or any other security, nor prejudice any personal liability as principal or otherwise of the landlord or any other person.
+
+(2) Nothing in this Schedule or section 35 shall be construed as preventing a person from joining in the conveyance referred to in paragraph 2(1) for the purpose of discharging the relevant interest from any mortgage without payment or for a lesser payment than that to which he would otherwise be entitled; and, if he does so, the persons to whom the consideration payable ought to be paid shall be determined accordingly.
+
+## SCHEDULE 9 — GRANT OF LEASES BACK TO FORMER FREEHOLDER
+
+*Section 36.*
+
+### Part I — GENERAL
+
+**1** (1) In this Schedule—
+
+- [[^F321]“the appropriate time”, in relation to a flat or other unit contained in the specified premises, means the time when the freehold of the flat or other unit is acquired by the nominee purchaser;]
+
+- “the demised premises”, in relation to a lease granted or to be granted in pursuance of Part II or III of this Schedule, means—
+
+  - (a) the flat or other unit demised or to be demised under the lease, or
+  - (b) in the case of such a lease under which two or more units are demised, both or all of those units or (if the context so permits) any of them;
+
+- [[^F321]“the freeholder”, in relation to a flat or other unit contained in the specified premises, means the person who owns the freehold of the flat or other unit immediately before the appropriate time;]
+
+- “housing association” has the meaning given by section 1(1) of the [^M80]Housing Associations Act 1985;
+
+- “intermediate landlord”, in relation to a flat or other unit let to a tenant, means a person who holds a leasehold interest in the flat or other unit which is superior to that held by the tenant’s immediate landlord;
+
+- “other property” means property other than the demised premises.
+
+(2) In this Schedule any reference to a flat or other unit, in the context of the grant of a lease of it, includes any yard, garden, garage, outhouses and appurtenances belonging to or usually enjoyed with it and let with it immediately before the appropriate time.
+
+### Part II — MANDATORY LEASEBACK
+
+#### Flats etc. let under secure tenancies [[^F322]or secure contracts]
+
+**2** (1) This paragraph applies where immediately before the appropriate time any flat [[^F323]falling within sub-paragraph (1A)] is let under a secure tenancy [[^F324]or an introductory tenancy] [[^F325]or a secure contract (or an introductory standard contract)] and either—
+
+(a) the freeholder is the tenant’s immediate landlord, or
+
+(b) the freeholder is a public sector landlord and every intermediate landlord of the flat (as well as the immediate landlord under the secure tenancy [[^F324]or the introductory tenancy] [[^F326]or the secure contract (or the introductory standard contract)]) is also a public sector landlord.
+
+[^F327][1A A flat falls within this sub-paragraph if—
+
+(a) the freehold of the whole of it is owned by the same person, and
+
+(b) it is contained in the specified premises.]
+
+(2) Sub-paragraph (1)(b) has effect whether any such intermediate landlord, or the immediate landlord under the secure tenancy [[^F328]or the introductory tenancy] [[^F329]or the secure contract (or the introductory standard contract)], is or is not a qualifying tenant of the flat.
+
+(3) Where this paragraph applies, the nominee purchaser shall grant to the freeholder a lease of the flat in accordance with section 36 and paragraph 4 below.
+
+(4) In this paragraph any reference to a flat includes a reference to a unit (other than a flat) which is used as a dwelling.
+
+#### Flats etc. let by housing associations under tenancies other than secure tenancies [[^F330]or secure contracts]
+
+**3** (1) This paragraph applies where immediately before the appropriate time any flat [[^F331]falling within sub-paragraph (1A)] is let by a housing association under a tenancy other than a secure tenancy [[^F332]or secure contract] and—
+
+(a) the housing association is the freeholder, and
+
+(b) the tenant is not a qualifying tenant of the flat.
+
+[^F333][1A A flat falls within this sub-paragraph if—
+
+(a) the freehold of the whole of it is owned by the same person, and
+
+(b) it is contained in the specified premises.]
+
+(2) Where this paragraph applies, the nominee purchaser shall grant to the freeholder (that is to say, the housing association) a lease of the flat in accordance with section 36 and paragraph 4 below.
+
+(3) In this paragraph any reference to a flat includes a reference to a unit (other than a flat) which is used as a dwelling.
+
+#### Provisions as to terms of lease
+
+**4** (1) Any lease granted to the freeholder in pursuance of paragraph 2 or 3, and any agreement collateral to it, shall conform with the provisions of Part IV of this Schedule except to the extent that any departure from those provisions is agreed to by the nominee purchaser and the freeholder with the approval of [[^F334]the appropriate tribunal].
+
+(2) [[^F335]The appropriate tribunal] shall not approve any such departure from those provisions unless it appears to the tribunal that it is reasonable in the circumstances.
+
+(3) In determining whether any such departure is reasonable in the circumstances, the tribunal shall have particular regard to the interests of the tenant under the secure tenancy [[^F336]or introductory tenancy] [[^F337]or the secure contract (or introductory standard contract)] referred to in paragraph 2(1) or (as the case may be) under the housing association tenancy referred to in paragraph 3(1).
+
+(4) Subject to the preceding provisions of this paragraph, any such lease or agreement as is mentioned in sub-paragraph (1) may include such terms as are reasonable in the circumstances.
+
+**[[^F338]4A** In this Part of this Schedule, the following terms have the same meaning as in the Renting Homes (Wales) Act 2016 (anaw 1)—
+
+(a) “introductory standard contract” (see section 16 of that Act);
+
+(b) “secure contract” (see section 8 of that Act).]
+
+### Part III — RIGHT OF FREEHOLDER TO REQUIRE LEASEBACK OF CERTAIN UNITS
+
+#### Flats without qualifying tenants and other units
+
+**5** (1) Subject to sub-paragraph (3), this paragraph applies to any unit [[^F339]falling within sub-paragraph (1A)] which is not immediately before the appropriate time a flat let to a person who is a qualifying tenant of it.
+
+[[^F340](1A) A unit falls within this sub-paragraph if—
+
+(a) the freehold of the whole of it is owned by the same person, and
+
+(b) it is contained in the specified premises.]
+
+(2) Where this paragraph applies, the nominee purchaser shall, if the freeholder by notice requires him to do so, grant to the freeholder a lease of the unit in accordance with section 36 and paragraph 7 below.
+
+(3) This paragraph does not apply to a flat or other unit to which paragraph 2 or 3 applies.
+
+#### Flat etc. occupied by resident landlord
+
+**6** [[^F341](1) Sub-paragraph (2) applies where, immediately before the freehold of a flat or other unit contained in the specified premises is acquired by the nominee purchaser—
+
+(a) those premises are premises with a resident landlord by virtue of the occupation of the flat or other unit by the freeholder of it, and
+
+(b) the freeholder of the flat or other unit is a qualifying tenant of it.
+
+(2) If the freeholder of the flat or other unit (“the relevant unit”) by notice requires the nominee purchaser to do so, the nominee purchaser shall grant to the freeholder a lease of the relevant unit in accordance with section 36 and paragraph 7 below; and, on the grant of such a lease to the freeholder, he shall be deemed to have surrendered any lease of the relevant unit held by him immediately before the appropriate time.]
+
+(3) Sections 5, 7 and 8 shall apply for the purpose of determining whether, for the purposes of sub-paragraph [[^F342](1)(b)]above, the freeholder is a qualifying tenant of a unit other than a flat as they apply for the purpose of determining whether a person is a qualifying tenant of a flat.
+
+#### Provisions as to terms of lease
+
+**7** (1) Any lease granted to the freeholder in pursuance of paragraph 5 or 6, and any agreement collateral to it, shall conform with the provisions of Part IV of this Schedule except to the extent that any departure from those provisions—
+
+(a) is agreed to by the nominee purchaser and the freeholder; or
+
+(b) is directed by [[^F343]the appropriate tribunal] on an application made by either of those persons.
+
+(2) [[^F344]The appropriate tribunal] shall not direct any such departure from those provisions unless it appears to the tribunal that it is reasonable in the circumstances.
+
+(3) In determining whether any such departure is reasonable in the circumstances, the tribunal shall have particular regard to the interests of any person who will be the tenant of the flat or other unit in question under a lease inferior to the lease to be granted to the freeholder.
+
+(4) Subject to the preceding provisions of this paragraph, any such lease or agreement as is mentioned in sub-paragraph (1) may include such terms as are reasonable in the circumstances.
+
+### Part IV — TERMS OF LEASE GRANTED TO FREEHOLDER
+
+#### Duration of lease and rent
+
+**8** The lease shall be a lease granted for a term of 999 years at a peppercorn rent.
+
+#### General rights to be granted
+
+**9** The lease shall not exclude or restrict the general words implied under section 62 of the [^M81]Law of Property Act 1925, unless the exclusion or restriction is made for the purpose of preserving or recognising an existing right or interest of any person.
+
+#### [^F345][Covenants for title
+
+**[^F346]9A** The lessor shall not be bound to enter into any covenant for title beyond—
+
+(a) those implied from the grant, and
+
+(b) those implied under Part I of the Law of Property (Miscellaneous Provisions) Act 1994 in a case where a disposition is expressed to be made with limited title guarantee.]
+
+#### Rights of support, passage of water etc.
+
+**10** (1) This paragraph applies to rights of any of the following descriptions, namely—
+
+(a) rights of support for a building or part of a building;
+
+(b) rights to the access of light and air to a building or part of a building;
+
+(c) rights to the passage of water or of gas or other piped fuel, or to the drainage or disposal of water, sewage, smoke or fumes, or to the use or maintenance of pipes or other installations for such passage, drainage or disposal; and
+
+(d) rights to the use or maintenance of cables or other installations for the supply of electricity, for the telephone or for the receipt directly or by landline of visual or other wireless transmissions;
+
+and the provisions required to be included in the lease by virtue of sub-paragraph (2) are accordingly provisions relating to any such rights.
+
+(2) The lease shall include provisions having the effect of—
+
+(a) granting with the demised premises (so far as the lessor is capable of granting them)—
+
+(i) all such easements and rights over other property as are necessary to secure as nearly as may be for the benefit of the demised premises the same rights as exist for the benefit of those premises immediately before the appropriate time, and
+
+(ii) such further easements and rights (if any) as are necessary for the reasonable enjoyment of the demised premises; and
+
+(b) making the demised premises subject to the following easements and rights (so far as they are capable of existing in law), namely—
+
+(i) all easements and rights for the benefit of other property to which the demised premises are subject immediately before the appropriate time, and
+
+(ii) such further easements and rights (if any) as are necessary for the reasonable enjoyment of other property, being property in which the lessor acquires an interest at the appropriate time.
+
+#### Rights of way
+
+**11** The lease shall include—
+
+(a) such provisions (if any) as the lessee may require for the purpose of securing to him, and persons deriving title under him, rights of way over other property (so far as the lessor is capable of granting them), being rights of way that are necessary for the reasonable enjoyment of the demised premises; and
+
+(b) such provisions (if any) as the lessor may require for the purpose of making the demised premises subject to rights of way necessary for the reasonable enjoyment of other property, being property in which the lessor acquires an interest at the appropriate time.
+
+#### Common use of premises and facilities
+
+**12** The lease shall include, so far as the lessor is capable of granting them, the like rights to use in common with others any premises, facilities or services as are enjoyed immediately before the appropriate time by any tenant of the demised premises.
+
+#### Covenants affecting demised premises
+
+**13** The lease shall include such provisions (if any) as the lessor may require to secure that the lessee is bound by, or to indemnify the lessor against breaches of, restrictive covenants (that is to say, covenants or agreements restrictive of the use of any land or premises) affecting the demised premises immediately before the appropriate time and enforceable for the benefit of other property.
+
+#### Covenants by lessor
+
+**14** (1) The lease shall include covenants by the lessor—
+
+(a) to keep in repair the structure and exterior of the demised premises and of the specified premises (including drains, gutters and external pipes) and to make good any defect affecting that structure;
+
+(b) to keep in repair any other property over or in respect of which the lessee has rights by virtue of this Schedule;
+
+(c) to ensure, so far as practicable, that the services which are to be provided by the lessor and to which the lessee is entitled (whether alone or in common with others) are maintained at a reasonable level, and to keep in repair any installation connected with the provision of any of those services.
+
+(2) The lease shall include a covenant requiring the lessor—
+
+(a) to insure the specified premises for their full reinstatement value against destruction or damage by fire, tempest, flood or any other cause against the risk of which it is the normal practice to insure;
+
+(b) to rebuild or reinstate the demised premises or the specified premises in the case of any such destruction or damage.
+
+#### Covenants by lessee
+
+**15** The lease shall include a covenant by the lessee to ensure that the interior of the demised premises is kept in good repair (including decorative repair).
+
+#### Contributions by lessee
+
+**16** (1) The lease may require the lessee to bear a reasonable part of the costs incurred by the lessor in discharging or insuring against the obligations imposed by the covenants required by paragraph 14(1) or in discharging the obligation imposed by the covenant required by paragraph 14(2)(a).
+
+(2) Where a covenant required by paragraph 14(1) or (2)(a) has been modified to any extent in accordance with paragraph 4 or 7, the reference in sub-paragraph (1) above to the obligations or (as the case may be) the obligation imposed by that covenant shall be read as a reference to the obligations or obligation imposed by that covenant as so modified.
+
+#### Assignment and sub-letting of premises
+
+**17** (1) Except where the demised premises consist of or include any unit let or intended for letting on a business lease, the lease shall not include any provision prohibiting or restricting the assignment of the lease or the sub-letting of the whole or part of the demised premises.
+
+(2) Where the demised premises consist of or include any such unit as is mentioned in sub-paragraph (1), the lease shall contain a prohibition against—
+
+(a) assigning or sub-letting the whole or part of any such unit, or
+
+(b) altering the user of any such unit,
+
+without the prior written consent of the lessor (such consent not to be unreasonably withheld).
+
+#### Restriction on terminating lease
+
+**18** The lease shall not include any provision for the lease to be terminated otherwise than by forfeiture on breach of any term of the lease by the lessee.
+
+## SCHEDULE 10 — ACQUISITION OF INTERESTS FROM LOCAL AUTHORITIES ETC.
+
+*Section 37.*
+
+### Disapplication of provisions relating to disposals by local authorities etc.
+
+**1** (1) It is hereby declared that nothing in any of the provisions specified in sub-paragraph (2) (which impose requirements as to consent or consultation or other restrictions in relation to disposals falling within those provisions) applies to any disposal of a freehold or leasehold interest in any premises which is made in pursuance of this Chapter.
+
+(2) The provisions referred to in sub-paragraph (1) are—
+
+(a) sections 32 and 43 of the [^M82]Housing Act 1985 (disposals of land by local authorities) and section 133 of the [^M83]Housing Act 1988 (certain subsequent disposals);
+
+[[^F347](b) [[^F348]section 148] of the Housing and Regeneration Act 2008 (disposals by registered providers of social housing);
+
+(ba) [[^F349]section] 42 of the Housing Act 1996 (disposals by registered social landlords);
+
+(bb) section 9 of the Housing Associations Act 1985 (disposals by unregistered housing associations);]
+
+(c) section 79(1) and (2) of the Housing Act 1988 (disposals by housing action trusts) [^F350]...
+
+[^F351]d . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Provisions relating to secure tenants following leaseback
+
+**2** (1) This paragraph applies where a lease is granted to a public sector landlord in pursuance of paragraph 2 of Schedule 9.
+
+(2) Where—
+
+(a) immediately before the appropriate time the public sector landlord was the immediate landlord under a secure tenancy [[^F352]or an introductory tenancy] of a flat contained in the demised premises, and
+
+(b) that tenancy continues in force after the grant of the lease referred to in sub-paragraph (1),
+
+the tenant shall be deemed to have continued without interruption as tenant of the landlord under the secure tenancy [[^F352]or, as the case may be, the introductory tenancy], despite the disposal of the landlord’s interest which immediately preceded the grant of the lease referred to in that sub-paragraph.
+
+(3) Where—
+
+(a) immediately before the appropriate time a person was a successor in relation to a secure tenancy [[^F353]or an introductory tenancy] of a flat contained in the demised premises, and
+
+(b) that person is, in connection with the grant of the lease referred to in sub-paragraph (1), granted a new secure tenancy of that flat which is a tenancy for a term certain,
+
+then for the purposes of sections 87 to 90 of the [^M84]Housing Act 1985 (succession on death of tenant) that person shall also be a successor in relation to the new tenancy.
+
+(4) Where—
+
+(a) immediately before the appropriate time a person was the tenant under a secure tenancy [[^F354]or an introductory tenancy] of a flat contained in the demised premises, and
+
+(b) that person is, in connection with the grant of the lease referred to in sub-paragraph (1), granted a new secure tenancy [[^F354]or introductory tenancy] of that flat,
+
+then, for the purpose of determining whether either of the conditions referred to in sub-paragraph (5) is satisfied, the new tenancy shall not be regarded as a new letting of the flat but shall instead be regarded as a continuation of the secure tenancy [or introductory tenancy] referred to in paragraph (a) above.
+
+(5) Those conditions are—
+
+(a) the condition specified in sub-paragraph (1)(b) of paragraph 5 of Schedule 5 to the Housing Act 1985 (exception to the right to buy in case of letting in connection with employment); and
+
+(b) the condition specified in sub-paragraph (1)(b) of paragraph 11 of that Schedule (exception to the right to buy in case of letting for occupation by person of pensionable age etc.).
+
+(6) In this paragraph—
+
+(a) any reference to a secure tenancy [[^F355]or an introductory tenancy] of a flat is a reference to a secure tenancy [[^F355]or an introductory tenancy] of a flat whether with or without any yard, garden, garage, outhouses or appurtenances belonging to or usually enjoyed with it; and
+
+(b) any reference to a flat includes a reference to a unit (other than a flat) which is used as a dwelling.
+
+(7) In this paragraph—
+
+(a) “the appropriate time” and “the demised premises” have the same meaning as in Schedule 9; and
+
+(b) “successor” has the same meaning as in section 88 of the [^M85]Housing Act 1985 [[^F356]in relation to a secure tenancy and as in section 132 of the Housing Act 1996 in relation to an introductory tenancy.].
+
+## SCHEDULE 11 — PROCEDURE WHERE COMPETENT LANDLORD IS NOT TENANT’S IMMEDIATE LANDLORD
+
+*Section 40.*
+
+### Part I — PROCEDURE IN RELATION TO TENANT’S NOTICE
+
+#### Tenant’s notice may be given to any of the other landlords
+
+**1** The tenant’s notice under section 42 shall be regarded as given to the competent landlord for the purposes of subsection (2)(a) of that section if it is given to any of the other landlords instead; and references in this Chapter to the relevant date shall be construed accordingly.
+
+#### Tenant to give copies of notice
+
+**2** (1) Where the tenant’s notice is given to the competent landlord, the tenant shall give a copy of the notice to every person known or believed by him to be one of the other landlords.
+
+(2) Where the tenant’s notice is, in accordance with paragraph 1, given to one of the other landlords, the tenant shall give a copy of the notice to every person (apart from the recipient of the notice) known or believed by the tenant to be either the competent landlord or one of the other landlords.
+
+(3) The tenant’s notice shall state whether copies are being given in accordance with this paragraph to anyone other than the recipient and, if so, to whom.
+
+#### Recipient of notice or copy to give further copies
+
+**3** (1) Subject to sub-paragraph (2), a recipient of the tenant’s notice or of a copy of it (including a person receiving a copy under this sub-paragraph)—
+
+(a) shall forthwith give a copy to any person who—
+
+(i) is known or believed by him to be the competent landlord or one of the other landlords, and
+
+(ii) is not stated in the recipient’s copy of the notice, or known by him, to have received a copy; and
+
+(b) if he knows who is, or he believes himself to be, the competent landlord, shall—
+
+(i) give a notice to the tenant stating who is the person thought by him to be the competent landlord, and
+
+(ii) give a copy of it to that person (if not himself) and to every person known or believed by him to be one of the other landlords.
+
+(2) Sub-paragraph (1) does not apply where the recipient is neither the competent landlord nor one of the other landlords.
+
+(3) Where a person gives any copies of the tenant’s notice in accordance with sub-paragraph (1)(a), he shall—
+
+(a) supplement the statement under paragraph 2(3) by adding any further persons to whom he is giving copies or who are known by him to have received one; and
+
+(b) notify the tenant of the persons added by him to that statement.
+
+#### Consequences of failure to comply with paragraph 2 or 3
+
+**4** (1) Where—
+
+(a) the competent landlord or any of the other landlords does not receive a copy of the tenant’s notice before the end of the period specified in it in pursuance of section 42(3)(f), but
+
+(b) he was given a notice under section 41 by the tenant and, in response to the notice under that section, notified the tenant of his interest in the tenant’s flat,
+
+the tenant’s notice shall cease to have effect at the end of that period.
+
+(2) Where—
+
+(a) sub-paragraph (1) does not apply, but
+
+(b) any person fails without reasonable cause to comply with paragraph 2 or 3 above, or is guilty of any unreasonable delay in complying with either of those paragraphs,
+
+he shall be liable for any loss thereby occasioned to the tenant or to the competent landlord or any of the other landlords.
+
+### Part II — CONDUCT OF PROCEEDINGS BY COMPETENT LANDLORD ON BEHALF OF OTHER LANDLORDS
+
+#### Counter-notice to specify other landlords
+
+**5** Any counter-notice given to the tenant by the competent landlord must specify the other landlords on whose behalf he is acting.
+
+#### Acts of competent landlord binding on other landlords
+
+**6** (1) Without prejudice to the generality of section 40(2)—
+
+(a) any notice given under this Chapter by the competent landlord to the tenant,
+
+(b) any agreement for the purposes of this Chapter between that landlord and the tenant, and
+
+(c) any determination of the court or [[^F357]the appropriate tribunal] under this Chapter in proceedings between that landlord and the tenant,
+
+shall be binding on the other landlords and on their interests in the property demised by the tenant’s lease or any other property; but in the event of dispute the competent landlord or any of the other landlords may apply to the court for directions as to the manner in which the competent landlord should act in the dispute.
+
+(2) Subject to paragraph 7(2), the authority given to the competent landlord by section 40(2) shall extend to receiving on behalf of any other landlord any amount payable to that person by virtue of Schedule 13.
+
+(3) If any of the other landlords cannot be found, or his identity cannot be ascertained, the competent landlord shall apply to the court for directions and the court may make such order as it thinks proper with a view to giving effect to the rights of the tenant and protecting the interests of other persons; but, subject to any such directions, the competent landlord shall proceed as in other cases.
+
+(4) The competent landlord, if he acts in good faith and with reasonable care and diligence, shall not be liable to any of the other landlords for any loss or damage caused by any act or omission in the exercise or intended exercise of the authority given to him by section 40(2).
+
+#### Other landlords acting independently
+
+**7** (1) Notwithstanding anything in section 40(2), any of the other landlords shall, at any time after the giving by the competent landlord of a counter-notice under section 45 and on giving notice to both the competent landlord and the tenant of his intention to be so represented, be entitled to be separately represented—
+
+(a) in any legal proceedings in which his title to any property comes in question, or
+
+(b) in any legal proceedings relating to the determination of any amount payable to him by virtue of Schedule 13.
+
+(2) Any of the other landlords may also, on giving notice to the competent landlord and the tenant, require that any amount payable to him by virtue of Schedule 13 shall be paid by the tenant to him, or to a person authorised by him to receive it, instead of to the competent landlord; but if, after being given proper notice of the time and method of completion with the tenant, either—
+
+(a) he fails to notify the competent landlord of the arrangements made with the tenant to receive payment, or
+
+(b) having notified the competent landlord of those arrangements, the arrangements are not duly implemented,
+
+the competent landlord shall be authorised to receive the payment for him, and the competent landlord’s written receipt for the amount payable shall be a complete discharge to the tenant.
+
+#### Obligations of other landlords to competent landlord
+
+**8** (1) It shall be the duty of each of the other landlords (subject to paragraph 7) to give the competent landlord all such information and assistance as he may reasonably require; and, if any of the other landlords fails to comply with this sub-paragraph, that landlord shall indemnify the competent landlord against any liability incurred by him in consequence of the failure.
+
+(2) Each of the other landlords shall make such contribution as shall be just to costs and expenses which are properly incurred by the competent landlord in pursuance of section 40(2) but are not recoverable or not recovered from the tenant.
+
+#### Applications made by other landlords under section 47(1)
+
+**9** (1) The authority given to the competent landlord by section 40(2) shall not extend to the bringing of proceedings under section 47(1) on behalf of any of the other landlords, or preclude any of those landlords from bringing proceedings under that provision on his own behalf as if he were the competent landlord.
+
+(2) In section 45(2)(c) any reference to the competent landlord shall include a reference—
+
+(a) to any of the other landlords, or
+
+(b) to any two or more of the following, namely the competent landlord and the other landlords, acting together;
+
+and in section 47(1) and (2) references to the landlord shall be construed accordingly; but if any of the other landlords intends to make such an application as is mentioned in section 45(2)(c), whether alone or together with any other person or persons, his name shall be stated in the counter-notice.
+
+#### Deemed surrender and re-grant of leases of other landlords
+
+**10** (1) Where a lease is executed under section 56 or 93(4) or in pursuance of any order made under this Chapter, then (subject to sub-paragraph (3)) that instrument shall have effect for the creation of the tenant’s new lease of his flat, and for the operation of the rights and obligations conferred and imposed by it, as if there had been a surrender and re-grant of any subsisting lease intermediate between the interest of the competent landlord and the existing lease; and the covenants and other provisions of that instrument shall be framed and take effect accordingly.
+
+(2) Section 57(2) shall apply to the new lease on the basis that account is to be taken of obligations imposed on any of the other landlords by virtue of that or any superior lease; and section 59(3) shall apply on the basis that the reference there to the tenant’s landlord includes the immediate landlord from whom the new lease will be held and all superior landlords, including any superior to the competent landlord.
+
+(3) Where a lease of the tenant’s flat superior to the existing lease is vested in the tenant or a trustee for him, the new lease shall include an actual surrender of that superior lease without a re-grant, and it shall accordingly be disregarded for the purposes of the preceding provisions of this paragraph.
+
+#### Discharge of existing mortgages
+
+**11** Where by reason of section 58(2) it is necessary to make any payment to discharge the tenant’s flat from a mortgage affecting the interest of any landlord, then if the competent landlord is not the landlord liable or primarily liable in respect of the mortgage, he shall not be required to make that payment otherwise than out of money made available for the purpose by the landlord so liable, and it shall be the duty of that landlord to provide for the mortgage being discharged.
+
+## SCHEDULE 12 — THE TENANT’S NOTICE: SUPPLEMENTARY PROVISIONS
+
+*Section 42.*
+
+### Part I — EFFECT OF TENANT’S NOTICE ON OTHER NOTICES, FORFEITURES ETC.
+
+#### Prior notice by tenant terminating lease
+
+**1** A notice given by a qualifying tenant of a flat under section 42 shall be of no effect if it is given—
+
+(a) after the tenant has given notice terminating the lease of the flat (other than a notice that has been superseded by the grant, express or implied, of a new tenancy); or
+
+(b) during the subsistence of an agreement for the grant to the tenant of a future tenancy of the flat, where the agreement is one to which paragraph 17 of Schedule 10 to the [^M86]Local Government and Housing Act 1989 applies.
+
+#### Prior notice by landlord terminating lease
+
+**2** (1) Subject to sub-paragraph (2), a notice given by a qualifying tenant of a flat under section 42 shall be of no effect if it is given more than two months after a landlord’s notice terminating the tenant’s lease of the flat has been given under section 4 of the [^M87]Landlord and Tenant Act 1954 or served under paragraph 4(1) of Schedule 10 to the Local Government and Housing Act 1989 (whether or not the notice has effect to terminate the lease).
+
+(2) Sub-paragraph (1) does not apply where the landlord gives his written consent to a notice being given under section 42 after the end of those two months.
+
+(3) Where in the case of a qualifying tenant of a flat who gives a notice under section 42—
+
+(a) any such landlord’s notice is given or served as mentioned in sub-paragraph (1), but
+
+(b) that notice was not given or served more than two months before the date on which the notice under section 42 is given to the landlord,
+
+the landlord’s notice shall cease to have effect on that date.
+
+(4) If—
+
+(a) any such landlord’s notice ceases to have effect by virtue of sub-paragraph (3), but
+
+(b) the claim made by the tenant by the giving of his notice under section 42 is not effective,
+
+then sub-paragraph (5) shall apply to any landlord’s notice terminating the tenant’s lease of the flat which—
+
+(i) is given under section 4 of the [^M88]Landlord and Tenant Act 1954 or served under paragraph 4(1) of Schedule 10 to the [^M89]Local Government and Housing Act 1989, and
+
+(ii) is so given or served within one month after the expiry of the period of currency of that claim.
+
+(5) Where this sub-paragraph applies to a landlord’s notice, the earliest date which may be specified in the notice as the date of termination shall be—
+
+(a) in the case of a notice given under section 4 of that Act of 1954—
+
+(i) the date of termination specified in the previous notice, or
+
+(ii) the date of expiry of the period of three months beginning with the date of the giving of the new notice,
+
+whichever is the later; or
+
+(b) in the case of a notice served under paragraph 4(1) of Schedule 10 to that Act of 1989—
+
+(i) the date of termination specified in the previous notice, or
+
+(ii) the date of expiry of the period of four months beginning with the date of service of the new notice,
+
+whichever is the later.
+
+(6) Where—
+
+(a) by virtue of sub-paragraph (5) a landlord’s notice specifies as the date of termination of a lease a date earlier than six months after the date of the giving of the notice, and
+
+(b) the notice proposes a statutory tenancy,
+
+section 7(2) of the Landlord and Tenant Act 1954 shall apply in relation to the notice with the substitution, for references to the period of two months ending with the date of termination specified in the notice and the beginning of that period, of references to the period of three months beginning with the date of the giving of the notice and the end of that period.
+
+#### Orders for possession and pending proceedings for forfeiture etc.
+
+**3** (1) A notice given by a qualifying tenant of a flat under section 42 shall be of no effect if at the time when it is given he is obliged to give up possession of his flat in pursuance of an order of a court or will be so obliged at a date specified in such an order.
+
+(2) Except with the leave of the court, a qualifying tenant of a flat shall not give a notice under section 42 at a time when any proceedings are pending to enforce a right of re-entry or forfeiture terminating his lease of the flat.
+
+(3) Leave shall only be granted under sub-paragraph (2) if the court is satisfied that the tenant does not wish to give such a notice solely or mainly for the purpose of avoiding the consequences of the breach of the terms of his lease in respect of which proceedings are pending.
+
+(4) If—
+
+(a) leave is so granted, and
+
+(b) the tenant by such a notice makes a claim to acquire a new lease of his flat,
+
+the tenant’s lease shall be deemed for the purposes of the claim to be a subsisting lease despite the existence of those proceedings and any order made afterwards in those proceedings; and, if the claim is effective, the court in which those proceedings were brought may set aside or vary any such order to such extent and on such terms as appear to that court to be appropriate.
+
+#### Notice terminating lease given by tenant or landlord during currency of claim
+
+**4** Where by a notice given under section 42 a tenant makes a claim to acquire a new lease of a flat, any notice terminating the tenant’s lease of the flat, whether it is—
+
+(a) a notice given by the tenant, or
+
+(b) a landlord’s notice given under section 4 of the [^M90]Landlord and Tenant Act 1954 or served under paragraph 4(1) of Schedule 10 to the [^M91]Local Government and Housing Act 1989,
+
+shall be of no effect if it is given or served during the currency of the claim.
+
+#### Tenant’s notice operates to prevent termination of lease
+
+**5** (1) Where by a notice under section 42 a tenant makes a claim to acquire a new lease of a flat, then during the currency of the claim and for three months thereafter the lease of the flat shall not terminate—
+
+(a) by effluxion of time, or
+
+(b) in pursuance of a notice to quit given by the immediate landlord of the tenant, or
+
+(c) by the termination of a superior lease;
+
+but if the claim is not effective, and but for this sub-paragraph the lease would have so terminated before the end of those three months, the lease shall so terminate at the end of those three months.
+
+(2) Sub-paragraph (1) shall not be taken to prevent an earlier termination of the lease in any manner not mentioned in that sub-paragraph, and shall not affect—
+
+(a) the power under section 146(4) of the [^M92]Law of Property Act 1925 (relief against forfeiture of leases) to grant a tenant relief against the termination of a superior lease, or
+
+(b) any right of the tenant to relief under section 16(2) of the Landlord and Tenant Act 1954 (relief where landlord proceeding to enforce covenants) or under paragraph 9 of Schedule 5 to that Act (relief in proceedings brought by superior landlord).
+
+#### Restriction on proceedings to enforce right of re-entry or forfeiture
+
+**6** Where by a notice under section 42 a tenant makes a claim to acquire a new lease of a flat, then during the currency of the claim—
+
+(a) no proceedings to enforce any right of re-entry or forfeiture terminating the lease of the flat shall be brought in any court without the leave of that court, and
+
+(b) leave shall only be granted if the court is satisfied that the notice was given solely or mainly for the purpose of avoiding the consequences of the breach of the terms of the tenant’s lease in respect of which proceedings are proposed to be brought;
+
+but where leave is granted, the notice shall cease to have effect.
+
+#### Effect of notice under section 16(2) of Landlord and Tenant Act 1954 on tenant’s notice
+
+**7** (1) A tenant who, in proceedings to enforce a right of re-entry or forfeiture or a right to damages in respect of a failure to comply with any terms of his lease, applies for relief under section 16 of the [^M93]Landlord and Tenant Act 1954 is not thereby precluded from making a claim to acquire a new lease under this Chapter; but if he gives notice under section 16(2) of that Act (under which the tenant is relieved from any order for recovery of possession or for payment of damages, but the tenancy is cut short), any notice given by him under section 42 with respect to property comprised in his lease shall be of no effect or, if already given, shall cease to have effect.
+
+(2) Sub-paragraph (1) shall apply in relation to proceedings relating to a superior tenancy with the substitution for the references to section 16 and to section 16(2) of the Landlord and Tenant Act 1954 of references to paragraph 9 and to paragraph 9(2) of Schedule 5 to that Act.
+
+#### Interpretation
+
+**8** (1) For the purposes of this Part of this Schedule—
+
+(a) references to a notice under section 42 include, in so far as the context permits, references to a notice purporting to be given under that section (whether by a qualifying tenant or not), and references to the tenant by whom a notice is given shall be construed accordingly;
+
+(b) references to a claim being effective are references to a new lease being acquired in pursuance of the claim; and
+
+(c) references to the currency of a claim are—
+
+(i) where the claim is made by a valid notice under section 42, references to the period during which the notice continues in force in accordance with subsection (8) of that section, or
+
+(ii) where the claim is made by a notice which is not a valid notice under section 42, references to the period beginning with the giving of the notice and ending with the time when the notice is set aside by the court or is withdrawn or when it would (if valid) cease to have effect or be deemed to have been withdrawn.
+
+(2) For the purposes of sub-paragraph (1)(c) the date when a notice is set aside, or would (if valid) cease to have effect, in consequence of an order of a court shall be taken to be the date when the order becomes final.
+
+(3) The references in this Schedule—
+
+(a) to section 16 of the Landlord and Tenant Act 1954 and subsection (2) of that section, and
+
+(b) to paragraph 9 of Schedule 5 to that Act and sub-paragraph (2) of that paragraph,
+
+include references to those provisions as they apply in relation to Schedule 10 to the [^M94]Local Government and Housing Act 1989 (security of tenure on ending of long residential tenancies).
+
+### Part II — OTHER PROVISIONS
+
+**9** (1) The tenant’s notice shall not be invalidated by any inaccuracy in any of the particulars required by section 42(3) or by any misdescription of any of the property to which the claim extends.
+
+(2) Where the tenant’s notice—
+
+(a) specifies any property which he is not entitled to have demised to him under a new lease granted in pursuance of this Chapter, or
+
+(b) fails to specify any property which he is entitled to have so demised to him,
+
+the notice may, with the leave of the court and on such terms as the court may think fit, be amended so as to exclude or include the property in question.
+
+## SCHEDULE 13 — PREMIUM AND OTHER AMOUNTS PAYABLE BY TENANT ON GRANT OF NEW LEASE
+
+*Section 56.*
+
+### Part I — GENERAL
+
+**1** In this Schedule—
+
+- “intermediate leasehold interest” means the interest of any person falling within section 40(4)(c), to the extent that it is an interest in the tenant’s flat subsisting immediately before the grant of the new lease;
+- [^F358]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Part II — PREMIUM PAYABLE IN RESPECT OF GRANT OF NEW LEASE
+
+#### Premium payable by tenant
+
+**2** The premium payable by the tenant in respect of the grant of the new lease shall be the aggregate of—
+
+(a) the diminution in value of the landlord’s interest in the tenant’s flat as determined in accordance with paragraph 3,
+
+(b) the landlord’s share of the marriage value as determined in accordance with paragraph 4, and
+
+(c) any amount of compensation payable to the landlord under paragraph 5.
+
+#### Diminution in value of landlord’s interest
+
+**3** (1) The diminution in value of the landlord’s interest is the difference between—
+
+(a) the value of the landlord’s interest in the tenant’s flat prior to the grant of the new lease; and
+
+(b) the value of his interest in the flat once the new lease is granted.
+
+(2) Subject to the provisions of this paragraph, the value of any such interest of the landlord as is mentioned in sub-paragraph (1)(a) or (b) is the amount which at [[^F359]the relevant date] that interest might be expected to realise if sold on the open market by a willing seller (with [[^F360]neither the tenant nor any owner of an intermediate leasehold interest] buying or seeking to buy) on the following assumptions—
+
+(a) on the assumption that the vendor is selling for an estate in fee simple or (as the case may be) such other interest as is held by the landlord, subject to the relevant lease and any intermediate leasehold interests;
+
+(b) on the assumption that Chapter I and this Chapter confer no right to acquire any interest in any premises containing the tenant’s flat or to acquire any new lease;
+
+(c) on the assumption that any increase in the value of the flat which is attributable to an improvement carried out at his own expense by the tenant or by any predecessor in title is to be disregarded; and
+
+(d) on the assumption that (subject to paragraph (b)) the vendor is selling with and subject to the rights and burdens with and subject to which the relevant lease has effect or (as the case may be) is to be granted.
+
+(3) In sub-paragraph (2) “the relevant lease” means either the tenant’s existing lease or the new lease, depending on whether the valuation is for the purposes of paragraph (a) or paragraph (b) of sub-paragraph (1).
+
+(4) It is hereby declared that the fact that sub-paragraph (2) requires assumptions to be made as to the matters specified in paragraphs (a) to (d) of that sub-paragraph does not preclude the making of assumptions as to other matters where those assumptions are appropriate for determining the amount which at [[^F359]the relevant date] any such interest of the landlord as is mentioned in sub-paragraph (1)(a) or (b) might be expected to realise if sold as mentioned in sub-paragraph (2).
+
+(5) In determining any such amount there shall be made such deduction (if any) in respect of any defect in title as on a sale of that interest on the open market might be expected to be allowed between a willing seller and a willing buyer.
+
+(6) The value of any such interest of the landlord as is mentioned in sub-paragraph (1)(a) or (b) shall not be increased by reason of—
+
+(a) any transaction which—
+
+(i) is entered into on or after the date of the passing of this Act (otherwise than in pursuance of a contract entered into before that date), and
+
+(ii) involves the creation or transfer of an interest superior to (whether or not preceding) any interest held by the tenant; or
+
+(b) any alteration on or after that date of the terms on which any such superior interest is held.
+
+#### Landlord’s share of marriage value
+
+**4** (1) The marriage value is the amount referred to in sub-paragraph (2), and the landlord’s share of the marriage value is [[^F361]50 per cent. of that amount].
+
+(2) [[^F362]Subject to sub-paragraph (2A),] the marriage value is the difference between the following amounts, namely—
+
+(a) the aggregate of—
+
+(i) the value of the interest of the tenant under his existing lease,
+
+(ii) the value of the landlord’s interest in the tenant’s flat prior to the grant of the new lease, and
+
+(iii) the values prior to the grant of that lease of all intermediate leasehold interests (if any); and
+
+(b) the aggregate of—
+
+(i) the value of the interest to be held by the tenant under the new lease,
+
+(ii) the value of the landlord’s interest in the tenant’s flat once the new lease is granted, and
+
+(iii) the values of all intermediate leasehold interests (if any) once that lease is granted.
+
+[[^F363](2A) Where at the relevant date the unexpired term of the tenant’s existing lease exceeds eighty years, the marriage value shall be taken to be nil.]
+
+(3) For the purposes of sub-paragraph (2)—
+
+[[^F364](a) the value of the interest of the tenant under his existing lease shall be determined in accordance with paragraph 4A;
+
+(aa) the value of the interest to be held by the tenant under the new lease shall be determined in accordance with paragraph 4B;]
+
+(b) the value of any such interest of the landlord as is mentioned in paragraph (a) or paragraph (b) of [[^F365]sub-paragraph (2)] is the amount determined for the purposes of paragraph 3(1)(a) or paragraph 3(1)(b) (as the case may be); and
+
+(c) the value of any intermediate leasehold interest shall be determined in accordance with paragraph 8, and shall be so determined as at [[^F366]the relevant date].
+
+**[[^F367]4A** (1) Subject to the provisions of this paragraph, the value of the interest of the tenant under the existing lease is the amount which at [[^F368]the relevant date] that interest might be expected to realise if sold on the open market by a willing seller (with neither the landlord nor any owner of an intermediate leasehold interest buying or seeking to buy) on the following assumptions—
+
+(a) on the assumption that the vendor is selling such interest as is held by the tenant subject to any interest inferior to the interest of the tenant;
+
+(b) on the assumption that Chapter I and this Chapter confer no right to acquire any interest in any premises containing the tenant’s flat or to acquire any new lease;
+
+(c) on the assumption that any increase in the value of the flat which is attributable to an improvement carried out at his own expense by the tenant or by any predecessor in title is to be disregarded; and
+
+(d) on the assumption that (subject to paragraph (b)) the vendor is selling with and subject to the rights and burdens with and subject to which any interest inferior to the existing lease of the tenant has effect.
+
+(2) It is hereby declared that the fact that sub-paragraph (1) requires assumptions to be made in relation to particular matters does not preclude the making of assumptions as to other matters where those assumptions are appropriate for determining the amount which at [[^F368]the relevant date] the interest of the tenant under his existing lease might be expected to realise if sold as mentioned in that sub-paragraph.
+
+(3) In determining any such amount there shall be made such deduction (if any) in respect of any defect in title as on a sale of that interest on the open market might be expected to be allowed between a willing seller and a willing buyer.
+
+(4) Subject to sub-paragraph (5), the value of the interest of the tenant under his existing lease shall not be increased by reason of—
+
+(a) any transaction which—
+
+(i) is entered into after 19th January 1996, and
+
+(ii) involves the creation or transfer of an interest inferior to the tenant’s existing lease; or
+
+(b) any alteration after that date of the terms on which any such inferior interest is held.
+
+(5) Sub-paragraph (4) shall not apply to any transaction which falls within paragraph (a) of that sub-paragraph if—
+
+(a) the transaction is entered into in pursuance of a contract entered into on or before the date mentioned in that paragraph; and
+
+(b) the amount of the premium payable by the tenant in respect of the grant of the new lease was determined on or before that date either by agreement or by [[^F369]the appropriate tribunal] under this Chapter.]
+
+**[[^F370] 4B** (1) Subject to the provisions of this paragraph, the value of the interest to be held by the tenant under the new lease is the amount which at [[^F371]the relevant date] that interest (assuming it to have been granted to him at that date) might be expected to realise if sold on the open market by a willing seller (with the owner of any interest superior to the interest of the tenant not buying or seeking to buy) on the following assumptions—
+
+(a) on the assumption that the vendor is selling such interest as is to be held by the tenant under the new lease subject to the inferior interests to which the tenant’s existing lease is subject at [[^F371]the relevant date] ;
+
+(b) on the assumption that Chapter I and this Chapter confer no right to acquire any interest in any premises containing the tenant’s flat or to acquire any new lease;
+
+(c) on the assumption that there is to be disregarded any increase in the value of the flat which would fall to be disregarded under paragraph (c) of sub-paragraph (1) of paragraph 4A in valuing in accordance with that sub-paragraph the interest of the tenant under his existing lease; and
+
+(d) on the assumption that (subject to paragraph (b)) the vendor is selling with and subject to the rights and burdens with and subject to which any interest inferior to the tenant’s existing lease at [[^F371]the relevant date] then has effect.
+
+(2) It is hereby declared that the fact that sub-paragraph (1) requires assumptions to be made in relation to particular matters does not preclude the making of assumptions as to other matters where those assumptions are appropriate for determining the amount which at [[^F371]the relevant date] the interest to be held by the tenant under the new lease might be expected to realise if sold as mentioned in that sub-paragraph.
+
+(3) In determining any such amount there shall be made such deduction (if any) in respect of any defect in title as on a sale of that interest on the open market might be expected to be allowed between a willing seller and a willing buyer.
+
+(4) Subject to sub-paragraph (5), the value of the interest to be held by the tenant under the new lease shall not be decreased by reason of—
+
+(a) any transaction which—
+
+(i) is entered into after 19th January 1996, and
+
+(ii) involves the creation or transfer of an interest inferior to the tenant’s existing lease; or
+
+(b) any alteration after that date of the terms on which any such inferior interest is held.
+
+(5) Sub-paragraph (4) shall not apply to any transaction which falls within paragraph (a) of that sub-paragraph if—
+
+(a) the transaction is entered into in pursuance of a contract entered into on or before the date mentioned in that paragraph; and
+
+(b) the amount of the premium payable by the tenant in respect of the grant of the new lease was determined on or before that date either by agreement or by [[^F372]the appropriate tribunal] under this Chapter.]
+
+#### Compensation for loss arising out of grant of new lease
+
+**5** (1) Where the landlord will suffer any loss or damage to which this paragraph applies, there shall be payable to him such amount as is reasonable to compensate him for that loss or damage.
+
+(2) This paragraph applies to—
+
+(a) any diminution in value of any interest of the landlord in any property other than the tenant’s flat which results from the grant to the tenant of the new lease; and
+
+(b) any other loss or damage which results therefrom to the extent that it is referable to the landlord’s ownership of any such interest.
+
+(3) Without prejudice to the generality of paragraph (b) of sub-paragraph (2), the kinds of loss falling within that paragraph include loss of development value in relation to the tenant’s flat to the extent that it is referable as mentioned in that paragraph.
+
+(4) In sub-paragraph (3) “development value”, in relation to the tenant’s flat, means any increase in the value of the landlord’s interest in the flat which is attributable to the possibility of demolishing, reconstructing, or carrying out substantial works of construction affecting, the flat (whether together with any other premises or otherwise).
+
+### Part III — AMOUNTS PAYABLE TO OWNERS OF INTERMEDIATE LEASEHOLD INTERESTS
+
+#### Amount payable to owner of intermediate interest
+
+**6** In connection with the grant of the new lease to the tenant there shall be payable by the tenant to the owner of any intermediate leasehold interest an amount which is the aggregate of—
+
+(a) the diminution in value of that interest as determined in accordance with paragraph 7; and
+
+(b) any amount of compensation payable to him under paragraph 9.
+
+#### Diminution in value of intermediate interest
+
+**7** (1) The diminution in value of any intermediate leasehold interest is the difference between—
+
+(a) the value of that interest prior to the grant of the new lease; and
+
+(b) the value of that interest once the new lease is granted.
+
+(2) Each of those values shall be determined, as at [[^F373]the relevant date], in accordance with paragraph 8.
+
+#### Value of intermediate interests
+
+**8** (1) Subject to sub-paragraph (2), paragraph 3(2) to (6) shall apply for determining the value of any intermediate leasehold interest for the purposes of any provision of this Schedule with such modifications as are appropriate to relate those provisions of paragraph 3 to a sale of the interest in question subject to the tenant’s lease for the time being and to any leases intermediate between the interest in question and that lease.
+
+[[^F374](2) The value of an intermediate leasehold interest which is the interest of the tenant under a minor intermediate lease is to be calculated in accordance with regulations made by the appropriate national authority instead of in accordance with sub-paragraph (1).]
+
+(3) “A minor intermediate lease” means a lease complying with the following requirements, namely—
+
+(a) it must have an expectation of possession of not more than one month, and
+
+(b) the profit rent in respect of the lease must be not more than £5 per year.
+
+(4) “Profit rent” means an amount equal to that of the rent payable under the lease on which the minor intermediate lease is in immediate reversion, less that of the rent payable under the minor intermediate lease.
+
+(5) Where the minor intermediate lease or that on which it is in immediate reversion comprises property other than the tenant’s flat, then in sub-paragraph (4) the reference to the rent payable under it means so much of that rent as is apportioned to that flat.
+
+[^F375]6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F375]7 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(8) For the purposes of this paragraph the expectation of possession carried by a lease is the expectation which it carries at [[^F376]the relevant date] of possession after the tenant’s lease, on the basis that—
+
+(a) (subject to sub-paragraph (9)) the tenant’s lease terminates at [[^F376]the relevant date] if its term date fell before then, or else it terminates on its term date; and
+
+(b) any other lease terminates on its term date.
+
+(9) In a case where before the relevant date for the purposes of this Chapter the immediate landlord of the tenant had given notice to quit terminating the tenant’s lease on a date earlier than that date, the date specified in the notice to quit shall be substituted for the date specified in sub-paragraph (8)(a) above.
+
+[[^F377](10) In sub-paragraph (2) “appropriate national authority” means—
+
+(a) in relation to a leasehold interest of land in England, the Secretary of State;
+
+(b) in relation to a leasehold interest of land in Wales, the Welsh Ministers.]
+
+#### Compensation for loss arising out of grant of new lease
+
+**9** Paragraph 5 shall apply in relation to the owner of any intermediate leasehold interest as it applies in relation to the landlord.
+
+#### Owners of intermediate interests entitled to part of marriage value
+
+**10** (1) This paragraph applies in a case where—
+
+(a) the premium payable by the tenant in respect of the grant of the new lease includes an amount in respect of the landlord’s share of the marriage value, and
+
+(b) there are any intermediate leasehold interests.
+
+(2) The amount payable to the landlord in respect of his share of the marriage value shall be divided between the landlord and the owners of any such intermediate interests in proportion to the amounts by which the values of their respective interests in the flat will be diminished in consequence of the grant of the new lease.
+
+(3) For the purposes of sub-paragraph (2)—
+
+(a) the amount by which the value of the landlord’s interest in the flat will be so diminished is the diminution in value of that interest as determined for the purposes of paragraph 2(a); and
+
+(b) the amount by which the value of any intermediate leasehold interest will be so diminished is the diminution in value of that interest as determined for the purposes of paragraph 6(a).
+
+(4) Where the owner of any intermediate leasehold interest is entitled in accordance with sub-paragraph (2) to any part of the amount payable to the landlord in respect of the landlord’s share of the marriage value, the amount to which he is so entitled shall be payable to him by the landlord.
+
+## SCHEDULE 14 — PROVISIONS SUPPLEMENTARY TO SECTION 61
+
+*Section 61.*
+
+**1** (1) This Schedule has effect where a tenant of a flat is entitled to be paid compensation under section 61, or would be so entitled on the landlord obtaining an order for possession, or where an application for such an order is dismissed or withdrawn.
+
+(2) In this Schedule—
+
+- “application for possession” means a landlord’s application under section 61;
+- “the new lease” has the same meaning as in that section; and
+- “order for possession” means an order made under that section;
+
+and (except in the case of the reference in paragraph 5(1)(b) to the flat as a dwelling) references to the flat held by the tenant under the new lease shall be construed in accordance with subsection (5) of that section.
+
+**2** (1) Where an order for possession is made—
+
+(a) the new lease shall determine, and
+
+(b) the compensation payable to the tenant by virtue of the order shall become payable,
+
+on such date as may, when the amount of compensation has been determined either by agreement between the landlord and the tenant or by [[^F378]the appropriate tribunal], be fixed by order of the court made on the application of either the landlord or the tenant.
+
+(2) Where the application for possession was made by virtue of section 61(2)(a), then—
+
+(a) (unless paragraph (b) below applies) an order of the court under this paragraph shall not fix a date earlier than the term date of the lease in relation to which the right to acquire a new lease was exercised;
+
+(b) in a case where section 61(2)(a) applies in accordance with section 61(3), an order of the court under this paragraph shall not fix a date earlier than the term date of the lease in relation to which that right was first exercised.
+
+(3) In fixing the date referred to in sub-paragraph (1) the court shall have regard to the conduct of the parties and to the extent to which the landlord has made reasonable preparations for proceeding with the redevelopment (including the obtaining of, or preparations relating to the obtaining of, any requisite permission or consent, whether from any authority whose permission or consent is required under any enactment or from the owner of an interest in any property).
+
+(4) The court may by order direct that the whole or part of the compensation payable to the tenant shall be paid into court, if the court thinks it expedient to do so for the purpose of ensuring that the sum paid is available for meeting any mortgage on the tenant’s interest in the flat in question, or for the purpose of division, or for any other purpose.
+
+**3** (1) On the termination of a lease under an order for possession there shall terminate also any immediate or derivative sub-lease, and the tenant shall be bound to give up possession of the flat in question to the landlord except in so far as he is precluded from doing so by the rights of other persons to retain possession under or by virtue of any enactment.
+
+(2) Where a sub-lease of property comprised in the lease has been created after the date of the application for possession, no person shall in respect of that sub-lease be entitled under any of the following provisions (which relate to retaining possession on the termination of a superior tenancy), namely—
+
+(a) subsection (2) of section 137 of the [^M95]Rent Act 1977, or any enactment (including subsection (5) of that section) applying or extending it,
+
+(b) subsection (2) of section 9 of the [^M96]Rent (Agriculture) Act 1976 as extended by subsection (5) of that section, or
+
+(c) section 18(1) of the [^M97]Housing Act 1988,
+
+to retain possession of that property after the termination of the lease under the order for possession.
+
+(3) In exercising its jurisdiction under section 61 or this Schedule the court shall assume that the landlord, having obtained an order for possession, will not be precluded from obtaining possession by the right of any person to retain possession by virtue of—
+
+(a) Part VII of the Rent Act 1977 or any enactment applying or extending that Part of that Act,
+
+(b) the Rent (Agriculture) Act 1976, or
+
+(c) Part I of the Housing Act 1988,
+
+or otherwise.
+
+(4) A person in occupation of any property under a sub-lease liable to terminate under sub-paragraph (1) may, with the leave of the court, appear and be heard on any application for possession or any application under paragraph 2.
+
+**4** Where an order has been made by [[^F379]the county court] under paragraph 2, that court [^F380]... shall have jurisdiction to hear and determine any proceedings brought by virtue of the order to recover possession of the property or to recover the compensation.
+
+**5** (1) The amount payable to a tenant, by virtue of an order for possession, by way of compensation for loss of his flat shall be the amount which at the valuation date the new lease, if sold on the open market by a willing seller, might be expected to realise on the following assumptions—
+
+(a) on the assumption that Chapter I and this Chapter confer no right to acquire any interest in any premises containing the tenant’s flat or to acquire any new lease;
+
+(b) on the assumption that the vendor is selling—
+
+(i) subject to the rights of any person who will on the termination of the lease be entitled to retain possession as against the landlord, but otherwise with vacant possession, and
+
+(ii) subject to any restriction that would be required (in addition to any imposed by the terms of the lease) to limit the uses of the flat to those to which it has been put since the commencement of the lease and to preclude the erection of any new dwelling or any other building not ancillary to the flat as a dwelling; and
+
+(c) on the assumption that (subject to paragraphs (a) and (b)) the vendor is selling with and subject to the rights and burdens with and subject to which the flat will be held by the landlord on the termination of the lease.
+
+(2) It is hereby declared that the fact that sub-paragraph (1) requires assumptions to be made as to the matters specified in paragraphs (a) to (c) of that sub-paragraph does not preclude the making of assumptions as to other matters where those assumptions are appropriate for determining the amount which at the valuation date the new lease might be expected to realise if sold as mentioned in that sub-paragraph.
+
+(3) In determining any such amount there shall be made such deduction (if any) in respect of any defect in title as on a sale of that interest on the open market might be expected to be allowed between a willing seller and a willing buyer.
+
+(4) In this paragraph “the valuation date” means the date when the amount of the compensation payable to the tenant is determined as mentioned in paragraph 2(1).
+
+**6** (1) PartI of the [^M98]Landlord and Tenant Act 1927 (compensation for improvements on termination of business tenancies) shall not apply on the termination of the new lease or any sub-lease in accordance with this Schedule; and a request for a new tenancy under section26 of the [^M99]Landlord and Tenant Act 1954 in respect of the new lease or any sub-lease shall be of no effect if made after the application for possession, or, if already made, shall cease to have effect on the making of that application.
+
+(2) Where a sub-lease terminating with the new lease in accordance with paragraph 3 is one to which Part II of the Landlord and Tenant Act 1954 applies, the compensation payable to the tenant shall be divided between him and the sub-tenant in such proportions as may be just, regard being had to their respective interests in the flat in question and to any loss arising from the termination of those interests and not incurred by imprudence.
+
+(3) Where the amount of the compensation payable to the tenant is agreed between him and the landlord without the consent of a sub-tenant entitled under sub-paragraph (2) to a share in the compensation, and is shown by the sub-tenant to be less than might reasonably have been obtained by the tenant, the sub-tenant shall be entitled under sub-paragraph (2) to recover from the tenant such increased share as may be just.
+
+**7** (1) The landlord shall not be concerned with the application of the amount payable to the tenant by way of compensation under an order for possession, but (subject to any statutory requirements as to payment of capital money arising under a settlement or a [[^F381]trust of land] and to any order under paragraph 2(4) for payment into court) the written receipt of the tenant shall be a complete discharge for the amount payable.
+
+(2) The landlord shall be entitled to deduct from the amount so payable to the tenant—
+
+(a) the amount of any sum recoverable as rent in respect of the flat up to the termination of the new lease; and
+
+(b) the amount of any other sums due and payable by the tenant to the landlord under or in respect of the lease or any agreement collateral thereto.
+
+**8** (1) Where a landlord makes an application for possession, and it is made to appear to the court that in relation to matters arising out of that application (including the giving up of possession of the flat or the payment of compensation) the landlord or the tenant has been guilty of any unreasonable delay or default, the court may—
+
+(a) by order revoke or vary, and direct repayment of sums paid under, any provision made by a previous order as to payment of the costs of proceedings taken in the court on or with reference to the application; or
+
+(b) where costs have not been awarded, award costs.
+
+(2) Where an application for possession is dismissed or withdrawn, and it is made to appear to the court—
+
+(a) that the application was not made in good faith, or
+
+(b) that the landlord had attempted in any material respect to support by misrepresentation or the concealment of material facts a request to the tenant to deliver up possession without an application for possession,
+
+the court may order that no further application for possession of the flat made by the landlord shall be entertained if it is made within the period of five years beginning with the date of the order.
+
+**9** Where—
+
+(a) the new lease is [[^F382]subject to a trust of land], and
+
+(b) compensation is paid by the landlord on the termination of the new lease (whether the payment is made in pursuance of an order for possession or in pursuance of an agreement made in conformity with paragraph 5 above without an application having been made under section 61),
+
+the sum received shall be dealt with as if it were proceeds of sale arising under the trust.
+
+**[^F383]10** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**11** Where—
+
+(a) the tenant under the new lease is [[^F384]the Chapter of a cathedral] and the lease comprises property which forms part of the endowment of a cathedral church, and
+
+(b) compensation is paid as mentioned in paragraph 9(b) above,
+
+the sum received shall be treated as part of that endowment.
+
+**12** (1) Where—
+
+(a) the tenant under the new lease is a diocesan board of finance and the lease comprises diocesan glebe land, and
+
+(b) compensation is paid as mentioned in paragraph 9(b) above,
+
+the sum received shall be paid to the Church Commissioners to be applied for purposes for which the proceeds of any disposition of property by agreement would be applicable under any enactment or Measure authorising such a disposition or disposing of the proceeds of such a disposition.
+
+[[^F385](2) In this paragraph—
+
+- “diocesan board of finance” has the same meaning as “DBF” in the Church Property Measure 2018;
+- “diocesan glebe land” has the same meaning as in that Measure.]
+
+## SCHEDULE 15 — SECTION 9 OF THE LEASEHOLD REFORM ACT 1967, AS AMENDED
+
+*Section 66.*
+
+### Purchase price and costs of enfranchisement, and tenant’s right to withdraw.
+
+**9** (1) Subject to subsection (2) below, the price payable for a house and premises on a conveyance under section 8 above shall be the amount which at the relevant time the house and premises, if sold in the open market by a willing seller (with the tenant and members of his family who reside in the house not buying or seeking to buy), might be expected to realise on the following assumptions:—
+
+(a) on the assumption that the vendor was selling for an estate in fee simple, subject to the tenancy but on the assumption that this Part of this Act conferred no right to acquire the freehold, and if the tenancy has not been extended under this Part of this Act, on the assumption that (subject to the landlord’s rights under section 17 below) it was to be so extended;
+
+(b) on the assumption that (subject to paragraph (a) above) the vendor was selling subject, in respect of rentcharges to which section 11(2) below applies, to the same annual charge as the conveyance to the tenant is to be subject to, but the purchaser would otherwise be effectively exonerated until the termination of the tenancy from any liability or charge in respect of tenant’s incumbrances; and
+
+(c) on the assumption that (subject to paragraphs (a) and (b) above) the vendor was selling with and subject to the rights and burdens with and subject to which the conveyance to the tenant is to be made, and in particular with and subject to such permanent or extended rights and burdens as are to be created in order to give effect to section 10 below.
+
+The reference in this subsection to members of the tenant’s family shall be construed in accordance with section 7(7) of this Act.
+
+(1A) Notwithstanding the foregoing subsection, the price payable for a house and premises,—
+
+(i) the rateable value of which was above £1,000 in Greater London and £500 elsewhere on 31st March 1990, or,
+
+(ii) which had no rateable value on that date and R exceeded £16,333 under the formula in section 1(1)(a) above (and section 1(7) above shall apply to that amount as it applies to the amount referred to in subsection (1)(a)(ii) of that section)
+
+shall be the amount which at the relevant time the house and premises, if sold in the open market by a willing seller, might be expected to realise on the following assumptions:—
+
+(a) on the assumption that the vendor was selling for an estate in fee simple, subject to the tenancy, but on the assumption that this Part of this Act conferred no right to acquire the freehold or an extended lease and, where the tenancy has been extended under this Part of this Act, that the tenancy will terminate on the original term date;
+
+(b) on the assumption that at the end of the tenancy the tenant has the right to remain in possession of the house and premises—
+
+(i) if the tenancy is such a tenancy as is mentioned in subsection (2) or subsection (3) of section 186 of the Local Government and Housing Act 1989, or is a tenancy which is a long tenancy at a low rent for the purposes of Part I of the Landlord and Tenant Act 1954 in respect of which the landlord is not able to serve a notice under section 4 of that Act specifying a date of termination earlier than 15th January 1999, under the provisions of Schedule 10 to the Local Government and Housing Act 1989; and
+
+(ii) in any other case under the provisions of Part I of the Landlord and Tenant Act 1954;
+
+(c) on the assumption that the tenant has no liability to carry out any repairs, maintenance or redecorations under the terms of the tenancy or Part I of the Landlord and Tenant Act 1954;
+
+(d) on the assumption that the price be diminished by the extent to which the value of the house and premises has been increased by any improvement carried out by the tenant or his predecessors in title at their own expense;
+
+(e) on the assumption that (subject to paragraph (a) above) the vendor was selling subject, in respect of rentcharges to which section 11(2) below applies, to the same annual charge as the conveyance to the tenant is to be subject to, but the purchaser would otherwise be effectively exonerated until the termination of the tenancy from any liability or charge in respect of tenant’s incumbrances; and
+
+(f) on the assumption that (subject to paragraphs (a) and (b) above) the vendor was selling with and subject to the rights and burdens with and subject to which the conveyance to the tenant is to be made, and in particular with and subject to such permanent or extended rights and burdens as are to be created in order to give effect to section 10 below.
+
+(1B) For the purpose of determining whether the rateable value of the house and premises is above £1000 in Greater London, or £500 elsewhere, the rateable value shall be adjusted to take into account any tenant’s improvements in accordance with Schedule 8 to the Housing Act 1974.
+
+(1C) Notwithstanding subsection (1) above, the price payable for a house and premises where the right to acquire the freehold arises by virtue of any one or more of the provisions of sections 1A and 1B above shall be determined in accordance with subsection (1A) above; but in any such case—
+
+(a) if in determining the price so payable there falls to be taken into account any marriage value arising by virtue of the coalescence of the freehold and leasehold interests, the share of the marriage value to which the tenant is to be regarded as being entitled shall not exceed one-half of it; and
+
+(b) section 9A below has effect for determining whether any additional amount is payable by way of compensation under that section;
+
+and in a case where the provision (or one of the provisions) by virtue of which the right to acquire the freehold arises is section 1A(1) above, subsection (1A) above shall apply with the omission of the assumption set out in paragraph (b) of that subsection.
+
+(2) The price payable for the house and premises shall be subject to such deduction (if any) in respect of any defect in the title to be conveyed to the tenant as on a sale in the open market might be expected to be allowed between a willing seller and a willing buyer.
+
+(3) On ascertaining the amount payable, or likely to be payable, as the price for a house and premises in accordance with this section (but not more than one month after the amount payable has been determined by agreement or otherwise), the tenant may give written notice to the landlord that he is unable or unwilling to acquire the house and premises at the price he must pay; and thereupon—
+
+(a) the notice under section 8 above of his desire to have the freehold shall cease to have effect, and he shall be liable to make such compensation as may be just to the landlord in respect of the interference (if any) by the notice with the exercise by the landlord of his power to dispose of or deal with the house and premises or any neighbouring property; and
+
+(b) any further notice given under that section with respect to the house or any part of it (with or without other property) shall be void if given within the following three years.
+
+(4) Where a person gives notice of his desire to have the freehold of a house and premises under this Part of this Act, then unless the notice lapses under any provision of this Act excluding his liability, there shall be borne by him (so far as they are incurred in pursuance of the notice) the reasonable costs of or incidental to any of the following matters:—
+
+(a) any investigation by the landlord of that person’s right to acquire the freehold;
+
+(b) any conveyance or assurance of the house and premises or any part thereof or of any outstanding estate or interest therein;
+
+(c) deducing, evidencing and verifying the title to the house and premises or any estate or interest therein;
+
+(d) making out and furnishing such abstracts and copies as the person giving the notice may require;
+
+(e) any valuation of the house and premises;
+
+but so that this subsection shall not apply to any costs if on a sale made voluntarily a stipulation that they were to be borne by the purchaser would be void.
+
+(5) The landlord’s lien (as vendor) on the house and premises for the price payable shall extend—
+
+(a) to any sums payable by way of rent or recoverable as rent in respect of the house and premises up to the date of the conveyance; and
+
+(b) to any sums for which the tenant is liable under subsection (4) above; and
+
+(c) to any other sums due and payable by him to the landlord under or in respect of the tenancy or any agreement collateral thereto.
+
+## SCHEDULE 16 — SCHEDULE INSERTED AFTER SCHEDULE 6 TO THE HOUSING ACT 1985
+
+*Section 117(2).*
+
+> **Schedule 6A — REDEMPTION OF LANDLORD’S SHARE**
+>
+> **Obligation to redeem landlord’s share in certain circumstances**
+>
+> **1** (1) The conveyance or grant shall contain a covenant binding on the secure tenant and his successors in title to make to the landlord, immediately after—
+>
+> (a) the making of a relevant disposal which is not an excluded disposal, or
+>
+> (b) the expiry of the period of one year beginning with a relevant death,
+>
+> (whichever first occurs), a final payment, that is to say, a payment of the amount required to redeem the landlord’s share.
+>
+> (2) A disposal is an excluded disposal for the purposes of this paragraph if—
+>
+> (a) it is a further conveyance of the freehold or an assignment of the lease and the person or each of the persons to whom it is made is, or is the spouse of, the person or one of the persons by whom it is made;
+>
+> (b) it is a vesting in a person taking under a will or intestacy; or
+>
+> (c) it is a disposal in pursuance of an order under section 24 of the [^M100]Matrimonial Causes Act 1973 (property adjustment orders in connection with matrimonial proceedings) or section 2 of the [^M101]Inheritance (Provision for Family and Dependants) Act 1975 (orders as to financial provision to be made from estate),
+>
+> and (in any case) an interest to which this paragraph applies subsists immediately after the disposal.
+>
+> (3) In this paragraph “relevant death” means the death of a person who immediately before his death was the person or, as the case may be, the last remaining person entitled to an interest to which this paragraph applies.
+>
+> (4) A beneficial interest in the dwelling-house is an interest to which this paragraph applies if the person entitled to it is—
+>
+> (a) the secure tenant or, as the case may be, one of the secure tenants, or
+>
+> (b) a qualifying person.
+>
+> **Right to redeem landlord’s share at any time**
+>
+> **2** (1) The conveyance or grant shall include provision entitling the secure tenant and his successors in title to make a final payment at any time.
+>
+> (2) The right shall be exercisable by written notice served on the landlord claiming to make a final payment.
+>
+> (3) The notice may be withdrawn at any time by written notice served on the landlord.
+>
+> (4) If the final payment is not tendered to the landlord before the end of the period of three months beginning with the time when the value of the dwelling-house is agreed or determined in accordance with paragraph 8, the notice claiming to make a final payment shall be deemed to have been withdrawn.
+>
+> **Value of landlord’s share and amount of final payment**
+>
+> **3** The value of the landlord’s share shall be determined by the formula—
+>
+> VS = (VxS)/(100)
+>
+> and the amount required to redeem that share shall be determined by the formula—
+>
+> R = VS - D where— - VS = the value of the landlord’s share; - V = the value of the dwelling-house (agreed or determined in accordance with paragraph 8); - S = the landlord’s share expressed as a percentage; - R = the amount required to redeem the landlord’s share; - D = the amount of the final discount (if any) which is applicable under paragraphs 4 and 5.
+>
+> **Final discount**
+>
+> **4** (1) Where a final payment is made by, or by two or more persons who include—
+>
+> (a) the secure tenant or, as the case may be, one of the secure tenants, or
+>
+> (b) a qualifying person,
+>
+> the person or persons making the payment are entitled, subject to the following provisions of this paragraph and paragraph 5, to a final discount equal to 20 per cent. of the value of the landlord’s share.
+>
+> (2) Sub-paragraph (1) shall not apply if the final payment is made after the end of the protection period, that is to say, the period of two years beginning with the time when there ceases to be an interest to which this sub-paragraph applies.
+>
+> (3) A beneficial interest in the dwelling-house is an interest to which sub-paragraph (2) applies if the person entitled to it is—
+>
+> (a) the secure tenant or, as the case may be, one of the secure tenants, or
+>
+> (b) a qualifying spouse.
+>
+> (4) The Secretary of State may by order made with the consent of the Treasury provide that the percentage discount shall be such percentage as may be specified in the order.
+>
+> (5) An order under this paragraph—
+>
+> (a) may make different provision with respect to different cases or descriptions of case, including different provision for different areas,
+>
+> (b) may contain such incidental, supplementary or transitional provisions as appear to the Secretary of State necessary or expedient, and
+>
+> (c) shall be made by statutory instrument and shall not be made unless a draft of the order has been laid before and approved by resolution of each House of Parliament.
+>
+> **Restrictions on and deductions from final discount**
+>
+> **5** (1) Except where the Secretary of State so determines, a final discount shall not reduce the total purchase price, that is to say, the aggregate of the initial payment, the final payment and any interim payments, below the amount which would be applicable under section 131(1) in respect of the dwelling-house if the relevant time were the time when the value of the dwelling-house is agreed or determined.
+>
+> (2) The total discount, that is to say, the aggregate of the initial discount, the final discount and any interim discounts, shall not in any case reduce the total purchase price by more than the sum prescribed for the purposes of section 131(2) at the time when the value of the dwelling-house is agreed or determined.
+>
+> (3) If a final payment is made after the end of the first twelve months of the protection period, there shall be deducted from any final discount given by paragraph 4 and the preceding provisions of this paragraph an amount equal to 50 per cent. of that discount.
+>
+> (4) There shall be deducted from any final discount given by paragraph 4 and the preceding provisions of this paragraph an amount equal to any previous discount qualifying or, the aggregate of any previous discounts qualifying, under the provisions of section 130.
+>
+> (5) A determination under this paragraph may make different provision for different cases or descriptions of case, including different provision for different areas.
+>
+> **Right to make interim payment at any time**
+>
+> **6** (1) The conveyance or grant shall include provision entitling the secure tenant and his successors in title at any time to make to the landlord an interim payment, that is to say, a payment which—
+>
+> (a) is less than the amount required to redeem the landlord’s share; but
+>
+> (b) is not less than 10 per cent. of the value of the dwelling-house (agreed or determined in accordance with paragraph 8).
+>
+> (2) The right shall be exercisable by written notice served on the landlord, claiming to make an interim payment and stating the amount of the interim payment proposed to be made.
+>
+> (3) The notice may be withdrawn at any time by written notice served on the landlord.
+>
+> (4) If the interim payment is not tendered to the landlord before the end of the period of three months beginning with the time when the value of the dwelling-house is agreed or determined in accordance with paragraph 8, the notice claiming to make an interim payment shall be deemed to have been withdrawn.
+>
+> **Landlord’s reduced share and interim discount**
+>
+> **7** The landlord’s share after the making of an interim payment shall be determined by the formula—
+>
+> S = (R - IP)/(R) × PS
+>
+> the amount of the interim discount shall be determined by the formula—
+>
+> ID = (PS × V)/(100) - (S × V)/(100) - IP
+>
+> and the amount of any previous discount which will be recovered by virtue of the making of an interim payment shall be determined by the formula—
+>
+> RD = (IP)/(R) × PD where— - S = the landlord’s share expressed as a percentage; - R = the amount which would have been required to redeem the landlord’s share immediately before the interim payment was made; - IP = the amount of the interim payment; - PS = the landlord’s share immediately before the interim payment was made also expressed as a percentage; - ID = the amount of the interim discount; - V = the value of the dwelling-house (agreed or determined in accordance with paragraph 8); - RD = the amount of any previous discount which will be recovered by virtue of the making of the interim payment; - PD = the amount of any previous discount which would be recovered if the tenant were making the final payment.
+>
+> **Value of dwelling-house**
+>
+> **8** (1) For the purposes of the final payment or any interim payment, the value of a dwelling-house is the amount which for those purposes—
+>
+> (a) is agreed at any time between the parties, or
+>
+> (b) in default of such agreement, is determined at any time by an independent valuer,
+>
+> as the amount which, in accordance with this paragraph, is to be taken as its value at that time.
+>
+> (2) Subject to sub-paragraph (6), that value shall be taken to be the price which the interest of the secure tenant in the dwelling-house would realise if sold on the open market by a willing vendor—
+>
+> (a) on the assumption that the liabilities mentioned in sub-paragraph (3) would be discharged by the vendor, and
+>
+> (b) disregarding the matters specified in sub-paragraph (4).
+>
+> (3) The liabilities referred to in sub-paragraph (2)(a) are—
+>
+> (a) any mortgages of the interest of the secure tenant,
+>
+> (b) the liability under the covenant required by paragraph 1, and
+>
+> (c) any liability under the covenant required by section 155(3) (repayment of discount on early disposal).
+>
+> (4) The matters to be disregarded in pursuance of sub-paragraph (2)(b) are—
+>
+> (a) any interests or rights created over the dwelling-house by the secure tenant,
+>
+> (b) any improvements made by the secure tenant or any of the persons mentioned in section 127(4) (certain predecessors as secure tenant), and
+>
+> (c) any failure by the secure tenant or any of those persons—
+>
+> (i) where the dwelling-house is a house, to keep the dwelling-house in good repair (including decorative repair);
+>
+> (ii) where the dwelling-house is a flat, to keep the interior of the dwelling-house in such repair.
+>
+> (5) Sub-paragraph (6) applies where, at the time when the value of the dwelling-house is agreed or determined, the dwelling-house—
+>
+> (a) has been destroyed or damaged by fire, tempest, flood or any other cause against the risk of which it is normal practice to insure, and
+>
+> (b) has not been fully rebuilt or reinstated.
+>
+> (6) That value shall be taken to include the value of such of the following as are applicable, namely—
+>
+> (a) any sums paid or falling to be paid to the secure tenant under a relevant policy in so far as they exceed the cost of any rebuilding or reinstatement which has been carried out;
+>
+> (b) any rights of the secure tenant under the covenant implied by paragraph 14(3) of Schedule 6 (covenant to rebuild or reinstate); and
+>
+> (c) any rights of the secure tenant under the covenant implied by paragraph 15(4) of that Schedule (covenant to use best endeavours to secure rebuilding or reinstatement).
+>
+> (7) In sub-paragraph (6) “relevant policy” means a policy insuring the secure tenant against the risk of fire, tempest or flood or any other risk against which it is normal practice to insure.
+>
+> (8) References in this paragraph to the secure tenant include references to his successors in title.
+>
+> **Costs of independent valuation**
+>
+> **9** The conveyance or grant shall include provision requiring any sums falling to be paid to an independent valuer (whether by way of fees or expenses or otherwise) to be paid by the secure tenant or his successors in title.
+>
+> **No charges to be made by landlord**
+>
+> **10** A provision of the conveyance or grant is void in so far as it purports to enable the landlord to charge the tenant or his successors in title a sum in respect of or in connection with the making of a final or interim payment.
+>
+> **Other covenants and provisions**
+>
+> **11** Subject to the provisions of this Schedule, the conveyance or grant may include such covenants and provisions as are reasonable in the circumstances.
+>
+> **Interpretation**
+>
+> **12** (1) In this Schedule—
+>
+> - “independent valuer” means an independent valuer appointed in pursuance of provisions in that behalf contained in the conveyance or grant;
+> - “protection period” has the meaning given by paragraph 4(2);
+> - “qualifying person” means a qualifying spouse or a qualifying resident.
+>
+> (2) A person is a qualifying spouse for the purposes of this Schedule if—
+>
+> (a) he is entitled to a beneficial interest in the dwelling-house immediately after the time when there ceases to be an interest to which this paragraph applies;
+>
+> (b) he is occupying the dwelling-house as his only or principal home immediately before that time; and
+>
+> (c) he is the spouse or surviving spouse of the person who immediately before that time was entitled to the interest to which this paragraph applies or, as the case may be, the last remaining such interest, or is the surviving spouse of a person who immediately before his death was entitled to such an interest;
+>
+> and any reference in this paragraph to the spouse or surviving spouse of a person includes a reference to a former spouse or surviving former spouse of that person.
+>
+> (3) A person is a qualifying resident for the purposes of this Schedule if—
+>
+> (a) he is entitled to a beneficial interest in the dwelling-house immediately after the time when there ceases to be an interest to which this paragraph applies;
+>
+> (b) he is occupying the dwelling-house as his only or principal home immediately before that time;
+>
+> (c) he has resided throughout the period of twelve months ending with that time—
+>
+> (i) with the person who immediately before that time was entitled to the interest to which this paragraph applies or, as the case may be, the last remaining such interest, or
+>
+> (ii) with two or more persons in succession each of whom was throughout the period of residence with him entitled to such an interest; and
+>
+> (d) he is not a qualifying spouse.
+>
+> (4) A beneficial interest in the dwelling-house is an interest to which this paragraph applies if the person entitled to it is the secure tenant or, as the case may be, one of the secure tenants.
+>
+> (5) References in this Schedule to the secure tenant are references to the secure tenant or tenants to whom the conveyance or grant is made and references to the secure tenant or, as the case may be, one of the secure tenants shall be construed accordingly.
+>
+> (6) References in this Schedule to the secure tenant’s successors in title do not include references to any person entitled to a legal charge having priority to the mortgage required by section 151B (mortgage for securing redemption of landlord’s share) or any person whose title derives from such a charge.
+
+## [^F386] SCHEDULE 17 — Constitution of the agency
+
+*Section 158(2).*
+
+### [^F386]...
+
+**[^F386]** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F386]** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F386]** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F386]** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F386]** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F386]** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F386]** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F386]** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## [^F386] SCHEDULE 18 — FINANCES OF THE AGENCY
+
+*Section 158(2).*
+
+### [^F386]...
+
+**[^F386]** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F386]** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F386]** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F386]** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F386]** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F386]** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F386]** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F386]** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F386]** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F386]** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F386]** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F386]** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F386]** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## [^F386] SCHEDULE 19 — VESTING OF LAND IN THE AGENCY: MODIFICATIONS OF ENACTMENTS
+
+*Section 161(4).*
+
+### [^F386] Land Compensation Act 1961 (c. 33)
+
+**[^F386]1** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F386]2** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F386]3** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F386]4** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F386]5** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F386] Compulsory Purchase (Vesting Declarations) Act 1981 (c. 66)
+
+**[^F386]6** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F386]7** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## [^F386] SCHEDULE 20 — THE AGENCY: LAND
+
+*Section 169.*
+
+### [^F386]Part I — MODIFICATIONS OF ACQUISITION OF LAND ACT 1981
+
+**[^F386]1** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F386]2** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F386]3** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F386]Part II — LAND: SUPPLEMENTARY
+
+#### [^F386] Extinguishment of rights over land
+
+**[^F386]4** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F386] Power to override easements
+
+**[^F386]5** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F386] Consecrated land and burial grounds
+
+**[^F386]6** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F386] Open spaces
+
+**[^F386]7** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F386] Displacement of persons
+
+**[^F386]8** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F386] Extinguishment of public rights of way
+
+**[^F386]9** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F386]10** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F386] Telegraphic lines
+
+**[^F386]11** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F386] Statutory undertakers
+
+**[^F386]12** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F386]13** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F386]14** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F386]15** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F386]16** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F386]17** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F386]18** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F386] Interpretation
+
+**[^F386]19** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F386]Part III — ACQUISITION OF RIGHTS
+
+**[^F386]20** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F386]21** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F386]22** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F386]23** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 21 — MINOR AND CONSEQUENTIAL AMENDMENTS
+
+*Section 187(1).*
+
+### Land Registration Act 1925 (c. 21)
+
+**[^F387]1** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F388]...
+
+**[^F388]2** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F389]... (prospective)
+
+**[^F389]3** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Leasehold Reform Act 1967 (c. 88)
+
+**4** In subsection (1A) of section 21 of the Leasehold Reform Act 1967 (jurisdiction of leasehold valuation tribunals), for the words from “be” onwards there shall be substituted the words “ comply with any requirements imposed by regulations under subsection (4A)(a) or (b) below ”.
+
+### Land Compensation Act 1973 (c. 26)
+
+**5** After section 12 of the [^M102]Land Compensation Act 1973 (tenants entitled to enfranchisement or extension under Leasehold Reform Act 1967) there shall be inserted the following section—
+
+> **Tenants participating in collective enfranchisement, or entitled to individual lease extension, under Part I of Leasehold Reform, Housing and Urban Development Act 1993.**
+>
+> **12A** (1) A tenancy to which subsection (2) or (3) below applies (“a qualifying tenancy”) shall be treated as an owner’s interest as defined in section 2(4) above whether or not the unexpired term on the date of service of the notice of claim is of the length there specified.
+>
+> (2) This subsection applies to a tenancy if the tenant, on the relevant date—
+>
+> (a) is in respect of the tenancy a qualifying tenant for the purposes of Chapter I of Part I of the 1993 Act (collective enfranchisement); and
+>
+> (b) by virtue of the tenancy, either—
+>
+> (i) is a participating tenant in relation to a claim to exercise the right to collective enfranchisement under that Chapter; or
+>
+> (ii) is one of the participating tenants on whose behalf the acquisition by the nominee purchaser has been made in pursuance of such a claim.
+>
+> (3) This subsection applies to a tenancy if the tenant, on the relevant date and in respect of the tenancy, is a qualifying tenant for the purposes of Chapter II of Part I of the 1993 Act (individual right to acquire new lease) who—
+>
+> (a) has on or before that date given notice under section 42 of that Act (notice by qualifying tenant of claim to exercise right); and
+>
+> (b) has not acquired a new lease before that date.
+>
+> (4) If no claim is made in respect of a qualifying tenancy before the claimant has ceased to be entitled to it in consequence of a lease being granted to him by the nominee purchaser or, as the case may be, under Chapter II of Part I of the 1993 Act, the claimant may make a claim in respect of the qualifying tenancy as if he were still entitled to it.
+>
+> (5) No claim shall be made by virtue of subsection (4) above after the claimant has ceased to be entitled to the lease referred to in that subsection, but such a claim may be made before the first claim day if it is made before the claimant has disposed of that lease and after he has made a contract for disposing of it.
+>
+> (6) Compensation shall not be payable before the first claim day on any claim made by virtue of subsection (5) above.
+>
+> (7) Any notice of a claim made by virtue of this section shall contain, in addition to the matters mentioned in section 3 above, a statement that it is made in respect of a qualifying tenancy as defined in this section and, if made by virtue of subsection (4) or (5) above, sufficient particulars to show that it falls within that subsection.
+>
+> (8) In relation to a claim made by virtue of subsection (4) above, section 4(4)(a) above shall have effect as if the reference to the date of service of notice of the claim were a reference to the relevant date.
+>
+> (9) In this section—
+>
+> (a) “the 1993 Act” means the Leasehold Reform, Housing and Urban Development Act 1993; and
+>
+> (b) “participating tenant”, “nominee purchaser” and “the acquisition by the nominee purchaser” shall be construed in accordance with sections 14, 15 and 38(2) of that Act respectively.
+
+### Local Government Act 1974 (c. 7) (prospective)
+
+**6** (1) In subsection (1) of section 25 of the Local Government Act 1974 (authorities subject to investigation), after paragraph (be) there shall be inserted the following paragraph—
+
+> (bf) the Urban Regeneration Agency;
+
+.
+
+(2) In subsection (7) of section 26 of that Act (matters subject to investigation) after paragraph (b) there shall be inserted the following paragraph—
+
+> (ba) where the complaint relates to the Urban Regeneration Agency, any designated area within the meaning of Part III of the Leasehold Reform, Housing and Urban Development Act 1993;
+
+.
+
+(3) In Schedule 5 to that Act (matters not subject to investigation) after paragraph 7 there shall be inserted the following paragraph—
+
+> **8** Action taken by the Urban Regeneration Agency which is not action in connection with functions in relation to town and country planning.
+
+### Rent Act 1977 (c. 42)
+
+**7** In subsection (1)(b) of section 74 of the Rent Act 1977 (regulations), for the words from “by rent officers” onwards there shall be substituted the words—
+
+> (i) by rent officers under this Act; and
+>
+> (ii) by rent assessment committees whether under this Act or otherwise; and
+
+.
+
+### Derelict Land Act 1982 (c. 42) (prospective)
+
+**8** In subsection (5) of section 1 of the Derelict Land Act 1982 (powers of Secretary of State), in the definition of “ the prescribed percentage ”, for paragraphs (b) and (c) there shall be substituted the following paragraph—
+
+> (b) in any other case, 80 per cent. or such other percentage as may be prescribed by order made by the Secretary of State with the consent of the Treasury.
+
+### National Heritage Act 1983 (c. 47)
+
+**9** After subsection (2A) of section 33 of the National Heritage Act 1983 (general functions of the Historic Buildings and Monuments Commission for England) there shall be inserted the following subsection—
+
+> (2B) In relation to England, the Commission may make, or join in the making of, applications under section 73(1) of the Leasehold Reform, Housing and Urban Development Act 1993, and may exercise, or participate in the exercise of, any rights or powers conferred by a scheme approved under section 70 of that Act.
+
+### Housing Act 1985 (c. 68)
+
+**10** In subsection (3) of section 101 of the Housing Act 1985 (rent not to be increased on account of tenant’s improvements), for paragraph (a) there shall be substituted the following paragraph—
+
+> (a) a person in whom the tenancy was vested, or to whom the tenancy was disposed of, under section 89 (succession to periodic tenancy) or section 90 (devolution of term certain) on the death of the tenant or in the course of the administration of his estate;
+
+.
+
+**11** In subsection (2) of section 130 of that Act (reduction of discount where previous discount given), after paragraph (aa) there shall be inserted the following paragraph—
+
+> (ab) in pursuance of the provision required by paragraphs 3 to 5 or paragraph 7 of Schedule 6A (redemption of landlord’s share), or
+
+.
+
+**12** For subsection (3) of section 140 of that Act (landlord’s first notice to complete) there shall be substituted the following subsection—
+
+> (3) A notice under this section shall not be served earlier than twelve months after—
+>
+> (a) the service of the landlord’s notice under section 125 (notice of purchase price and other matters), or
+>
+> (b) where a notice has been served under section 146 (landlord’s notice admitting or denying right to acquire on rent to mortgage terms), the service of that notice.
+
+**13** (1) Immediately before section 153A of that Act (tenant’s notices of delay) there shall be inserted the following italic cross heading—
+
+.
+
+(2) In subsection (1) of that section—
+
+(a) in paragraph (e), for the words “right to be granted a shared ownership lease” there shall be substituted the words “ right to acquire on rent to mortgage terms ”; and
+
+(b) for the words “any of the cases in paragraphs (a) to (d)” there shall be substituted the words “ either of the cases in paragraphs (a) and (b) ”.
+
+(3) In subsection (3) of that section—
+
+(a) for the words “right to be granted a shared ownership lease” there shall be substituted the words “ right to acquire on rent to mortgage terms ”;
+
+(b) for the words “any of the cases in paragraphs (a) to (d)” there shall be substituted the words “ either of the cases in paragraphs (a) and (b) ”; and
+
+(c) for the words “section 125, section 146 or section 147” there shall be substituted the words “ or section 125 ”.
+
+**14** (1) In subsection (1) of section 153B of that Act (payments of rent attributable to purchase price etc.), for the words “right to be granted a shared ownership lease” there shall be substituted the words “ right to acquire on rent to mortgage terms ”.
+
+(2) In subsection (2) of that section, for the words “any of paragraphs (c) to (e)” there shall be substituted the words “ paragraph (d) or (e) ”.
+
+(3) In subsection (3) of that section, for the words “the tenant’s initial contribution for the grant of a shared ownership lease” there shall be substituted the words “ the tenant’s initial payment ”.
+
+**15** In subsection (2) of section 158 of that Act (consideration for reconveyance or surrender under section 157), after paragraph (a) there shall be inserted the following paragraph—
+
+> (aa) any covenant required by paragraph 1 of Schedule 6A (obligation to redeem landlord’s share where conveyance or grant executed in pursuance of right to acquire on rent to mortgage terms), and
+
+.
+
+**16** (1) In subsection (1) of section 164 of that Act (Secretary of State’s general power to intervene), for the words “right to be granted a shared ownership lease” there shall be substituted the words “ right to acquire on rent to mortgage terms ”.
+
+(2) In subsection (4) of that section, for the words “the right to a mortgage or the right to be granted a shared ownership lease” there shall be substituted the words “ or the right to acquire on rent to mortgage terms ”.
+
+(3) In subsection (5) of that section, for the words “the right to a mortgage and the right to be granted a shared ownership lease” there shall be substituted the words “ and the right to acquire on rent to mortgage terms ”.
+
+**17** In subsection (1) of section 167 of that Act (power to give directions as to covenants and conditions), after paragraph (b) there shall be inserted the words
+
+> or
+>
+> (c) in the case of conveyances or grants executed in pursuance of the right to acquire on rent to mortgage terms, the conveyances or grants would not conform with Schedule 6A,
+
+.
+
+**18** In subsection (2) of section 170 of that Act (power to give assistance in connection with legal proceedings), for the words “right to be granted a shared ownership lease” there shall be substituted the words “ right to acquire on rent to mortgage terms ”.
+
+**19** In subsection (2) of section 171C of that Act (modifications of Part V in relation to preserved right), for the words “right to be granted a shared ownership lease” there shall be substituted the words “ right to acquire on rent to mortgage terms ”.
+
+**20** (1) In subsection (2) of section 177 of that Act (errors and omissions in notices), for the words “right to be granted a shared ownership lease” there shall be substituted the words “ right to acquire on rent to mortgage terms ”.
+
+(2) In subsection (3) of that section, for the entries relating to section 147 and paragraph 1(3) of Schedule 8 there shall be substituted the following entry—
+
+“ section 146 (landlord’s notice admitting or denying right to acquire on rent to mortgage terms). ”
+
+**21** For section 178 of that Act there shall be substituted the following section—
+
+> **Costs.**
+>
+> **178** An agreement between the landlord and a tenant claiming to exercise—
+>
+> (a) the right to buy,
+>
+> (b) the right to acquire on rent to mortgage terms, or
+>
+> (c) any such right as is mentioned in paragraph 2(1) or 6(1) of Schedule 6A (redemption of landlord’s share: right to make final or interim payment),
+>
+> is void in so far as it purports to oblige the tenant to bear any part of the costs incurred by the landlord in connection with the tenant’s exercise of that right.
+
+**22** In subsection (1) of section 179 of that Act (provisions restricting right to buy etc. of no effect), for the words “right to be granted a shared ownership lease” there shall be substituted the words “ right to acquire on rent to mortgage terms ”.
+
+**23** In subsection (1) of section 181 of that Act (jurisdiction of county court), for the words “a shared ownership lease granted in pursuance of this Part” there shall be substituted the words “ a conveyance or grant executed in pursuance of the right to acquire on rent to mortgage terms ”.
+
+**24** (1) In subsection (2) of section 184 of that Act (land let with or used for purposes of dwelling-house), for the words “right to be granted a shared ownership lease” there shall be substituted the words “ right to acquire on rent to mortgage terms ”.
+
+(2) In subsection (3) of that section, for the words “right to be granted a shared ownership lease” there shall be substituted the words “ right to acquire on rent to mortgage terms ”.
+
+**25** In section 188 of that Act (index of defined expressions: Part V), at the appropriate places in alphabetical order there shall be inserted the following entries—
+
+> |  |  |
+> |---|---|
+> | district valuer | section 622 |
+
+> |  |  |
+> |---|---|
+> | final payment | paragraph 1 of Schedule 6A |
+
+> |  |  |
+> |---|---|
+> | initial payment and interim payment | section 143B and paragraph 6 of Schedule 6A |
+
+> |  |  |
+> |---|---|
+> | landlord’s share | section 148 and paragraph 7 of Schedule 6A |
+
+> |  |  |
+> |---|---|
+> | minimum initial payment and maximum initial payment | section 143B |
+
+> |  |  |
+> |---|---|
+> | prescribed | section 614 |
+
+> |  |  |
+> |---|---|
+> | right to acquire on rent to mortgage terms | section 143 |
+
+.
+
+### Landlord and Tenant Act 1987 (c. 31)
+
+**26** In subsection (2) of section 4 of the Landlord and Tenant Act 1987 (relevant disposals), after paragraph (d) there shall be inserted the following paragraph—
+
+> (da) a disposal of any freehold or leasehold interest in pursuance of Chapter I of Part I of the Leasehold Reform, Housing and Urban Development Act 1993;
+
+.
+
+**27** In subsection (2) of section 13 of that Act (determination by rent assessment committees of questions relating to purchase notices), for the words from “be” to “particulars,” there shall be substituted the words “ comply with such requirements (if any) as to the form of, or the particulars to be contained in, any such application ”.
+
+### Town and Country Planning Act 1990 (c. 8) (prospective)
+
+**28** In subsection (5)(a) of section 1 of the Town and Country Planning Act 1990 (subsections (1) to (4) of that section have effect subject to sections 5 to 8), for “8” there shall be substituted “ 8A ”.
+
+**29** After section 8 of that Act (local planning authority in housing action area) there shall be inserted the following section—
+
+> **The Urban Regeneration Agency.**
+>
+> **8A** (1) Where a designation order under section 170 of the Leasehold Reform, Housing and Urban Development Act 1993 (power to make designation orders) makes such provision as is mentioned in subsection (1) of section 171 of that Act (Agency as local planning authority), the Urban Regeneration Agency shall be the local planning authority for such area as may be specified in the order in place of any authority who would otherwise be the local planning authority for that area for such purposes and in relation to such kinds of development as may be so specified.
+>
+> (2) Where such an order makes such provision as is mentioned in subsection (3)(a) of section 171 of that Act, the Urban Regeneration Agency shall have the functions specified in the order for such area as may be so specified in place of any authority (except the Secretary of State) who would otherwise have them in that area.
+
+### Planning (Listed Buildings and Conservation Areas) Act 1990 (c. 9)
+
+**30** (1) In subsection (1) of section 72 of the Planning (Listed Buildings and Conservation Areas) Act 1990 (general duty as respects conservation areas in exercise of planning functions), for the words “powers under” there shall be substituted the words “ functions under or by virtue of ”.
+
+(2) In subsection (2) of that section there shall be added at the end “ and sections 70 and 73 of the Leasehold Reform, Housing and Urban Development Act 1993 ”.
+
+**31** In paragraphs 2 and 4 of Schedule 4 to that Act (further provisions as to exercise of functions by different authorities), for the words “and 8” there shall be substituted the words “ 8 and 8A ”.
+
+### [^F390]... (prospective)
+
+**[^F390]32** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 22 — REPEALS
+
+*Section 187(2).*
+
+|  |  |  |
+|---|---|---|
+| Chapter | Short title | Extent of repeal |
+| 9 & 10 Eliz. 2. c. 33. | The Land Compensation Act 1961. | In section 23(3), the word “or” at the end of paragraph (b). |
+| 1975 c. 24. | The House of Commons Disqualification Act 1975. | In Schedule 1, in Part II, the entry relating to the English Industrial Estates Corporation. |
+| 1975 c. 25. | The Northern Ireland Assembly Disqualification Act 1975. | In Schedule 1, in Part II, the entry beginning “The Industrial Estates Corporations”. |
+| 1980 c. 51. | The Housing Act 1980. | In section 141, “3,”. |
+|  |  | In Schedule 21, paragraph 3. |
+| 1980 c. 65. | The Local Government, Planning and Land Act 1980. | Section 99A(2). |
+|  |  | Section 165(3). |
+| 1981 c. 13. | The English Industrial Estates Corporation Act 1981. | The whole Act. |
+| 1982 c. 52. | The Industrial Development Act 1982. | In section 15(1), paragraph (d) and the word “and” immediately preceding it. |
+|  |  | In Part II of Schedule 2, paragraph 17. |
+| 1983 c. 29. | The Miscellaneous Financial Provisions Act 1983. | In Schedule 2, the entry relating to the English Industrial Estates Corporation Act 1981. |
+| 1985 c. 25. | The Industrial Development Act 1985. | Sections 1 to 4. |
+|  |  | Section 6(2). |
+| 1985 c. 68. | The Housing Act 1985. | Section 27C. |
+|  |  | Section 124(3). |
+|  |  | Section 128(6). |
+|  |  | Sections 132 to 135. |
+|  |  | In section 137, in subsection (1), the words “or the right to a mortgage” and, in subsection (2), paragraph (b). |
+|  |  | In section 138(1), the words “and to the amount to be left outstanding or advanced on the security of the dwelling-house”. |
+|  |  | Section 139(3). |
+|  |  | In section 140(5), the words “and to the amount to be left outstanding or advanced on the security of the dwelling-house”. |
+|  |  | Section 142. |
+|  |  | In section 153A(1), paragraphs (c) and (d). |
+|  |  | In section 153B(1), paragraph (c). |
+|  |  | Section 164(6). |
+|  |  | Section 166(6). |
+|  |  | In section 169(3), paragraph (b) and the word “and” immediately preceding that paragraph. |
+|  |  | In section 171C(2), paragraph (b). |
+|  |  | In section 171H, in subsection (1), the words “or the right to a mortgage” and, in subsection (2), paragraph (b). |
+|  |  | In section 177, in subsection (2)(b) the words “or the Corporation” and in subsection (3), the entries relating to section 135 and paragraph 5 of Schedule 9. |
+|  |  | In section 180, the words “the Corporation” and “Corporation”. |
+|  |  | In section 181(1), the words “and paragraph 11 of Schedule 8”. |
+|  |  | In section 182(1), the words “or the right to a mortgage”. |
+|  |  | In section 187, the definition of “total share”. |
+|  |  | In section 188, the entries beginning “additional share and additional contribution”, “effective discount”, “full mortgage”, “initial share and initial contribution”, “prescribed percentage”, “right to be granted a shared ownership lease”, “right to further advances”, “right to a mortgage” and “total share”. |
+|  |  | In Schedule 6, in paragraphs 16B(4) and 16C(4), paragraph (c) and the word “and” immediately preceding that paragraph. |
+|  |  | Schedules 7 to 9. |
+| 1985 c. 71. | The Housing (Consequential Provisions) Act 1985. | In section 6(3), “12”. |
+|  |  | In Schedule 2, paragraph 12. |
+| 1986 c. 63. | The Housing and Planning Act 1986. | In Schedule 5, paragraph 5. |
+| 1987 c. 26. | The Housing (Scotland) Act 1987. | In section 17, in subsection (1), the words “and exercised by”. |
+|  |  | In section 61, in subsection (10)(b), sub-paragraphs (i) and (ii). |
+|  |  | In section 62, in subsection (3)(b), the words “continuous” and “immediately”. |
+| 1987 c. 31. | The Landlord and Tenant Act 1987. | Section 25(3). |
+|  |  | In section 29(2), the words from “and (c)” onwards. |
+| 1988 c. 50. | The Housing Act 1988. | Section 41(1). |
+|  |  | In section 69(2), the words from “on grounds” onwards. |
+|  |  | In section 79(2)(b), the words “in accordance with section 84 below”. |
+|  |  | In Schedule 9, paragraph 12(2). |
+| 1989 c. 42. | The Local Government and Housing Act 1989. | In section 80(1), the words from “and for any year” onwards. |
+|  |  | Section 164. |
+|  |  | In Schedule 11, paragraph 51. |
+| 1990 c. 11. | The Planning (Consequential Provisions) Act 1990. | In Schedule 2, paragraph 47. |
+
+---
+
+[^F1]: Words in s. 1(3)(7) repealed (1.10.1996) by 1996 c. 52, ss. 107(3), 227, Sch. 19 Pt.V; S.I. 1996/2212, art. 2(2) (with saving in Sch.)
+[^F2]: Words in s. 1(4) substituted (1.10.1996) by 1996 c. 52, s. 107, Sch. 10 para.2; S.I. 1996/2212, art. 2(2) (with saving in Sch.)
+[^F3]: Words in s. 2(5) inserted (12.2.1997) by S.I. 1997/74, art. 2, Sch. para. 9(a)(i)
+[^F4]: Words in s. 2(5) inserted (1.12.2022) by The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166), regs. 1(1), 22(2)(a)
+[^F5]: Words in s. 2(6)(a) inserted (12.2.1997) by S.I. 1997/74, art. 2, Sch. para. 9(a)(ii)
+[^F6]: Words in s. 2(6)(a) inserted (1.12.2022) by The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166), regs. 1(1), 22(2)(b)
+[^F7]: Words in s. 2(6)(b) inserted (12.2.1997) by S.I. 1997/74, art. 2, Sch. para. 9(a)(iii)
+[^F8]: Words in s. 2(6)(b) inserted (1.12.2022) by The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166), regs. 1(1), 22(2)(c)
+[^F9]: Words in s. 3(1)(a) repealed (1.10.1996) by 1996 c. 52, ss. 107(1), 227, Sch. 19 Pt.V; S.I. 1996/2212, art. 2(2) (with savings in Sch.)
+[^F10]: Words in s. 4(1) substituted (26.7.2002 for E. and 1.1.2003 for W.) by Commonhold and Leasehold Reform Act 2002 (c. 15), s. 115; S.I. 2002/1912, art. 2(b)(i) (subject to Sch. 2); S. I. 2002/3012, art. 2(b)(i) (subject to Sch. 2)
+[^F11]: S. 4(3A) inserted (1.10.1996) by 1996 c. 52, s. 107(2); S.I. 1996/2212, art. 2(2) (with savings in Sch.)
+[^F12]: S. 4(5) inserted (26.7.2002 for E. and 1.1.2003 for W.) by Commonhold and Leasehold Reform Act 2002 (c. 15), s. 116; S.I. 2002/1912, art. 2(b)(i) (subject to Sch. 2); S. I. 2002/3012, art. 2(b)(i) (subject to Sch. 2)
+[^F13]: Ss. 4A-4C inserted (26.7.2002 for E. for specified purposes, 1.1.2003 for W. for specified purposes and otherwise prosp.) by Commonhold and Leasehold Reform Act 2002 (c. 15), s. 122; S.I. 2002/1912, art. 2(c) (subject to Sch. 2); S. I. 2002/3012, art. 2(c) (subject to Sch. 2)
+[^F14]: Words in s. 4A(1)(b) substituted (1.10.2009) by The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941), art. 1(2), Sch. 1 para. 140(2) (with art. 10)
+[^F15]: Words in s. 4C(1) substituted (1.10.2009) by The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941), art. 1(2), Sch. 1 para. 140(3)(a) (with art. 10)
+[^F16]: Word in s. 4C(2) substituted (1.10.2009) by The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941), art. 1(2), Sch. 1 para. 140(3)(b) (with art. 10)
+[^F17]: Word in s. 4C(4) substituted (1.10.2009) by The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941), art. 1(2), Sch. 1 para. 140(3)(b) (with art. 10)
+[^F18]: Word in s. 4C(5) substituted (1.10.2009) by The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941), art. 1(2), Sch. 1 para. 140(3)(c)(i) (with art. 10)
+[^F19]: Words in s. 4C(5)(a) substituted (1.10.2009) by The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941), art. 1(2), Sch. 1 para. 140(3)(c)(ii) (with art. 10)
+[^F20]: S. 4C(6) substituted (1.10.2009) by The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941), art. 1(2), Sch. 1 para. 140(3)(d) (with art. 10)
+[^F21]: Words in s. 5(1) repealed (26.7.2002 for E. and 1.1.2003 for W.) by Commonhold and Leasehold Reform Act 2002 (c. 15), ss. 117(1), 180, Sch. 14; S.I. 2002/1912, art. 2(b), Sch. 1 Pt. 1 (subject to Sch. 2); S. I. 2002/3012, art. 2(b), Sch. 1 Pt. 1 (subject to Sch. 2)
+[^F22]: Words in s. 5(2)(c) repealed (26.7.2002 for E. and 1.1.2003 for W.) by Commonhold and Leasehold Reform Act 2002 (c. 15), s. 180, Sch. 14; S.I. 2002/1912, art. 2(b)(ii), Sch. 1 Pt. 1 (subject to Sch. 2); S. I. 2002/3012, art. 2(b)(ii), Sch. 1 Pt. 1 (subject to Sch. 2)
+[^M1]: 1985 c. 68.
+[^F23]: Words in s. 5(2) omitted (14.3.2012 immediately before the Charities Act 2011 (c. 25) comes into force) by virtue of The Charities (Pre-consolidation Amendments) Order 2011 (S.I. 2011/1396), art. 1, Sch. para. 37(1)(2)(g)
+[^F24]: Words in s. 5(6) substituted (1.10.2009) by The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941), art. 1(2), Sch. 1 para. 140(4) (with art. 10)
+[^F25]: S. 6 repealed (26.7.2002 for E. and 1.1.2003 for W.) by Commonhold and Leasehold Reform Act 2002 (c. 15), s. 180, Sch. 14; S.I. 2002/1912, art. 2(b)(ii), Sch. 1 Pt. 1 (subject to Sch. 2); S. I. 2002/3012, art. 2(b)(ii), Sch. 1 Pt. 1 (subject to Sch. 2)
+[^M2]: 1925 c. 20.
+[^F26]: Words in s. 7(1)(b) inserted (5.12.2005) by Civil Partnership Act 2004 (c. 33), s. 263(2), Sch. 8 para. 47(2); S.I. 2005/3175, art. 2(1), Sch. 1
+[^M3]: 1985 c. 68.
+[^F27]: S. 7(1)(e) and the word immediately preceeding it inserted (1.4.1997) by S.I. 1997/627 art. 2, Sch. para.7
+[^F28]: Words in s. 7(2) substituted (5.12.2005) by Civil Partnership Act 2004 (c. 33), s. 263(2), Sch. 8 para. 47(3)(a); S.I. 2005/3175, art. 2(1), Sch. 1
+[^F29]: Words in s. 7(2)(a) inserted (5.12.2005) by Civil Partnership Act 2004 (c. 33), s. 263(2), Sch. 8 para. 47(3)(b); S.I. 2005/3175, art. 2(1), Sch. 1
+[^F30]: Words in s. 7(3) repealed (26.7.2002 for E. and 1.1.2003 for W.) by Commonhold and Leasehold Reform Act 2002 (c. 15), s. 180, Sch. 14; S.I. 2002/1912, art. 2(b)(ii), Sch. 1 Pt. 1 (subject to Sch. 2); S. I. 2002/3012, art. 2(b)(ii), Sch. 1 Pt. 1 (subject to Sch. 2)
+[^M4]: 1954 c. 56.
+[^M5]: 1989 c. 42.
+[^M6]: 1951 c. 38.
+[^F31]: S. 8 repealed (26.7.2002 for E. and 1.1.2003 for W.) by Commonhold and Leasehold Reform Act 2002 (c. 15), s. 180, Sch. 14; S.I. 2002/1912, art. 2(b)(ii), Sch. 1 Pt. 1 (subject to Sch. 2); S. I. 2002/3012, art. 2(b)(ii), Sch. 1 Pt. 1 (subject to Sch. 2)
+[^F32]: S. 8A repealed (26.7.2002 for E. and 1.1.2003 for W.) by Commonhold and Leasehold Reform Act 2002 (c. 15), s. 180, Sch. 14; S.I. 2002/1912, art. 2(b)(ii), Sch. 1 Pt. 1 (subject to Sch. 2); S. I. 2002/3012, art. 2(b)(ii), Sch. 1 Pt. 1 (subject to Sch. 2)
+[^F33]: Words in s. 9(1) inserted (1.10.1996) by 1996 c. 52, s. 107, Sch. 10 para. 3(2); S.I. 1996/2212, art. 2(2) (with savings in Sch.)
+[^F34]: Words in s. 9(2) inserted (1.10.1996) by 1996 c. 52, s. 107, Sch. 10 para. 3(3)(a); S.I. 1996/2212, art. 2(2) (with savings in Sch.)
+[^F35]: Words in s. 9(2)(b) inserted (1.10.1996) by 1996 c. 52, s. 107, Sch. 10 para. 3(3)(b); S.I. 1996/2212, art. 2(2) (with savings in Sch.)
+[^F36]: S. 9(2A) inserted (1.10.1996) by 1996 c. 52, s. 107, Sch. 10 para. 3(4); S.I. 1996/2212, art. 2(2) (with saving in Sch.)
+[^F37]: Words in s. 9(3) inserted (1.10.1996) by 1996 c. 52, s. 107, Sch. 10 para. 3(5); S.I. 1996/2212, art. 2(2) (with savings in Sch.)
+[^F38]: S. 10(1) substituted (26.7.2002 for E. and 1.1.2003 for W.) by Commonhold and Leasehold Reform Act 2002 (c. 15), s. 118(2); S.I. 2002/1912, art. 2(b)(i) (subject to Sch. 2); S. I. 2002/3012, art. 2(b)(i) (subject to Sch. 2)
+[^F39]: S. 10(2) repealed (26.7.2002 for E. and 1.1.2003 for W.) by Commonhold and Leasehold Reform Act 2002 (c. 15), s. 180, Sch. 14; S.I. 2002/1912, art. 2(b)(ii), Sch. 1 Pt. 1 (subject to Sch. 2); S. I. 2002/3012, art. 2(b)(ii), Sch. 1 Pt. 1 (subject to Sch. 2)
+[^F40]: S. 10(3) repealed by (26.7.2002 for E. and 1.1.2003 for W.) Commonhold and Leasehold Reform Act 2002 (c. 15), s. 180, Sch. 14; S.I. 2002/1912, art. 2(b)(ii), Sch. 1 Pt. 1 (subject to Sch. 2); S. I. 2002/3012, art. 2(b)(ii), Sch. 1 Pt. 1 (subject to Sch. 2)
+[^F41]: S. 10(4) substituted (26.7.2002 for E. and 1.1.2003 for W.) by Commonhold and Leasehold Reform Act 2002 (c. 15), s. 118(3); S.I. 2002/1912, art. 2(b)(i) (subject to Sch. 2); S. I. 2002/3012, art. 2(b)(i), (subject to Sch. 2)
+[^F42]: S. 10(4A) repealed (26.7.2002 for E. and 1.1.2003 for W.) by Commonhold and Leasehold Reform Act 2002 (c. 15), s. 180, Sch. 14; S.I. 2002/1912, art. 2(b)(ii), Sch. 1 Pt. 1 (subject to Sch. 2); S. I. 2002/3012, art. 2(b)(ii), Sch. 1 Pt. 1 (subject to Sch. 2)
+[^F43]: Words in s. 10(5) substituted (5.12.2005) by Civil Partnership Act 2004 (c. 33), s. 263(2), Sch. 8 para. 48; S.I. 2005/3175, art. 2(1), Sch. 1
+[^F44]: Definition in s. 10(6) repealed (1.10.1996) by 1996 c. 52, s. 227, Sch. 19 Pt.V; S.I. 1996/2212, art. 2(2) (with savings in Sch.)
+[^F45]: In s. 10(6) definition of "qualifying flat" repealed (prosp.) by Commonhold and Leasehold Reform Act 2002 (c. 15), s. 180, Sch. 14; and by S.I. 2002/1912, art. 2(b)(ii), Sch. 1 Pt. 1 (subject to Sch. 2), it is provided that the repeal of the definition of "qualifying tenant" in s. 10(6) is commenced (26.7.2002 for E.) and by S.I. 2002/3012, art. 2(b)(ii), Sch. 1 Pt. 1 (subject to Sch. 2), it is provided that the repeal of the definition of "qualifying tenant" in s. 10(6) is commenced (1.1.2003 for W.)
+[^F46]: Words in s. 11(1) substituted (1.10.1996) by 1996 c. 52, s. 107, Sch. 10 para. 5(2)(a)(b); S.I. 1996/2212, art. 2(2) (with savings in Sch.)
+[^F47]: Words in s. 11(2)(b) substituted (1.10.1996) by 1996 c. 52, s. 107, Sch. 10 para. 5(3); S.I. 1996/2212, art. 2(2) (with saving in Sch.)
+[^F48]: Words in s. 11(3) substituted (1.10.1996) by 1996 c. 52, s. 107, Sch. 10 para. 5(4); S.I. 1996/2212, art. 2(2) (with saving in Sch.)
+[^F49]: S. 11(4)(a)(aa) substituted (1.10.1996) for s. 11(4)(a) by 1996 c. 52, s. 107, Sch. 10 para. 5(5); S.I. 1996/2212, art. 2(2) (with savings in Sch.)
+[^F50]: Words in s. 11(4)(i) repealed (1.10.1996) by 1996 c. 52, s. 227, Sch. 19 Pt. V; S.I. 1996/2212, art. 2(2) (with savings in Sch.)
+[^F51]: Words in s. 11(8)(b)(i) inserted (1.10.1996) by 1996 c. 52, s. 107, Sch. 10 para. 5(6); S.I. 1996/2212, art. 2(2) (with saving in Sch.)
+[^F52]: S. 11(9); definition of 'document' substituted (31.1.1997) by 1995 c. 38, s. 15(1), Sch. 1 para.17 (with ss. 1(3), 6(4)(5), 14); S.I. 1996/3217 art.2
+[^F53]: Words in s. 11(9)(a)(b) inserted (1.10.1996) by 1996 c. 52, s. 107, Sch. 10 para. 5(7)(a)(b); S.I. 1996/2212, art. 2(2) (with saving in Sch.)
+[^F54]: Words in s. 13(2)(a) inserted (1.10.1996) by 1996 c. 52, s. 107, Sch. 10 para. 6(2)(a); S.I. 1996/2212, art. 2(2) (with savings in Sch.)
+[^F55]: S. 13(2)(a)(ii) and preceding word inserted (1.10.1996) by 1996 c. 52, s. 107, Sch. 10 para. 6(2)(b); S.I. 1996/2212, art. 2(2) (with saving in Sch.)
+[^F56]: S. 13(2)(b)(i) repealed (26.7.2002 for E. and 1.1.2003 for W.) by Commonhold and Leasehold Reform Act 2002 (c. 15), ss. 119, 180, Sch. 14; S.I. 2002/1912, art. 2(b), Sch. 1 Pt. 1 (subject to Sch. 2); S. I. 2002/3012, art. 2(b), Sch. 1 Pt. 1 (subject to Sch. 2)
+[^F57]: Words in s. 13(2) repealed (26.7.2002 for E. and 1.1.2003 for W.) by Commonhold and Leasehold Reform Act 2002 (c. 15), ss. 120, 180, Sch. 14; S.I. 2002/1912, art. 2(b), Sch. 1 Pt. 1 (subject to Sch. 2); S. I. 2002/3012, art. 2(b), Sch. 1 Pt. 1 (subject to Sch. 2)
+[^F58]: S. 13(2A) inserted (1.10.1996) by 1996 c. 52, s. 107, Sch. 10 para. 6(3); S.I. 1996/2212, art. 2(2) (with saving in Sch.)
+[^F59]: Words in s. 13(3)(a)(iii) repealed (1.10.1996) by 1996 c. 52, s. 227, Sch. 19 Pt V; S.I. 1996/2212, art. 2(2) (with savings in Sch.)
+[^F60]: Words in s. 13(3)(d)(i) inserted (1.10.1996) by 1996 c. 52, s. 107, Sch. 10 para. 6(4); S.I. 1996/2212, art. 2(2) (with savings in Sch.)
+[^F61]: Words in s. 13(3)(e) repealed (26.7.2002 for E. and 1.1.2003 for W.) by Commonhold and Leasehold Reform Act 2002 (c. 15), s. 180, Sch. 14; S.I. 2002/1912, art. 2(b)(ii), Sch. 1 Pt. 1 (subject to Sch. 2); S. I. 2002/3012, art. 2(b)(ii), Sch. 1 Pt. 1 (subject to Sch. 2)
+[^F62]: Word in s. 13(3)(e) repealed (26.7.2002 for E. and 1.1.2003 for W.) by Commonhold and Leasehold Reform Act 2002 (c. 15), s. 180, Sch. 14; S.I. 2002/1912, art. 2(b)(ii), Sch. 1 Pt. 1 (subject to Sch. 2); S. I. 2002/3012, art. 2(b)(ii), Sch. 1 Pt. 1 (subject to Sch. 2)
+[^F63]: S. 13(3)(e)(ii) repealed (26.7.2002 for E. and 1.1.2003 for W.) by Commonhold and Leasehold Reform Act 2002 (c. 15), s. 180, Sch. 14; S.I. 2002/1912, art. 2(b)(ii), Sch. 1 Pt. 1 (subject to Sch. 2); S. I. 2002/3012, art. 2(b)(ii), Sch. 1 Pt. 1 (subject to Sch. 2)
+[^F64]: S. 13(3)(e)(iii) repealed (26.7.2002 for E. and 1.1.2003 for W.) by Commonhold and Leasehold Reform Act 2002 (c. 15), s. 180, Sch. 14; S.I. 2002/1912, art. 2(b)(ii), Sch. 1 Pt. 1 (subject to Sch. 2); S. I. 2002/3012, art. 2(b)(ii), Sch. 1 Pt. 1 (subject to Sch. 2)
+[^F65]: S. 13(4)(6)(7) repealed (1.10.1996) by 1996 c. 52, s. 227, Sch. 19 Pt. V; S.I. 1996/2212, art. 2(2) (with savings in Sch.)
+[^M7]: 1925 c. 20.
+[^F66]: S. 17 sidenote substituted (26.7.2002 for E. and 1.1.2003 for W.) by Commonhold and Leasehold Reform Act 2002 (c. 15), s. 125(2); S.I. 2002/1912, art. 2(b)(i) (subject to Sch. 2); S. I. 2002/3012, art. 2(b)(i) (subject to Sch. 2)
+[^F67]: Words in s. 17(1) inserted (26.7.2002 for E. and 1.1.2003 for W.) by Commonhold and Leasehold Reform Act 2002 (c. 15), s. 125(1); S.I. 2002/1912, art. 2(b)(i) (subject to Sch. 2); S. I. 2002/3012, art. 2(b)(i) (subject to Sch. 2)
+[^F68]: Words in s. 18(1) substituted (28.2.2005 for E., 31.5.2005 for W.) by Commonhold and Leasehold Reform Act 2002 (c. 15), ss. 126(2), 181(1); S.I. 2004/3056, art. 3(a) (as amended by S.I. 2005/193, art. 2); S.I. 2005/1353, art. 2(a)
+[^F69]: Words in s. 19(1)(a) substituted (1.10.1996) by 1996 c. 52, s. 107, Sch. 10 para. 7(2)(a); S.I. 1996/2212, art. 2(2) (with savings in Sch.)
+[^F70]: Words in s. 19(1)(a)(i) substituted (1.10.1996) by 1996 c. 52, s. 107, Sch. 10 para. 7(2)(b); S.I. 1996/2212, art. 2(2) (with savings in Sch.)
+[^F71]: S. 19(2)(a) substituted (1.10.1996) by 1996 c. 52, s. 107, Sch. 10 para. 7(3); S.I. 1996/2212, art. 2(2) (with savings in Sch.)
+[^F72]: S. 19(4)(a) substituted (1.10.1996) by 1996 c. 52, s. 107, Sch. 10 para. 7(4); S.I. 1996/2212, art. 2(2) (with savings in Sch.)
+[^F73]: Words in s. 21(3)(d) substituted (1.10.1996) by 1996 c. 52, s. 107, Sch. 10 para. 8(2); S.I. 1996/2212, art. 2(2) (with savings in Sch.)
+[^F74]: Words in s. 21(4) substituted (1.10.1996) by 1996 c. 52, s. 107, Sch. 10 para. 8(3); S.I. 1996/2212, art. 2(2) (with savings in Sch.)
+[^F75]: Words in s. 22 cross-heading omitted (1.7.2013) by virtue of The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036), art. 1, Sch. 1 para. 100 (with Sch. 3)
+[^F76]: Words in s. 24(1) substituted (1.7.2013) by The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036), art. 1, Sch. 1 para. 101 (with Sch. 3)
+[^F77]: Words in s. 24(3)(b) substituted (1.7.2013) by The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036), art. 1, Sch. 1 para. 101 (with Sch. 3)
+[^F78]: Words in s. 24(4)(b)(i) substituted (1.7.2013) by The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036), art. 1, Sch. 1 para. 101 (with Sch. 3)
+[^F79]: Words in s. 24(6)(b) substituted (1.7.2013) by The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036), art. 1, Sch. 1 para. 101 (with Sch. 3)
+[^F80]: Words in s. 25(6)(b)(i) substituted (1.7.2013) by The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036), art. 1, Sch. 1 para. 102 (with Sch. 3)
+[^F81]: Words in s. 26(1)(b) inserted (1.10.1996) by 1996 c. 52, s. 107, Sch. 10 para. 9(2); S.I. 1996/2212, art. 2(2) (with saving in Sch.)
+[^F82]: Words in s. 26(3) inserted (1.10.1996) by 1996 c. 52, s. 107, Sch. 10 para. 9(3); S.I. 1996/2212, art. 2(2) (with savings in Sch.)
+[^F83]: S. 26(3A) inserted (1.10.1996) by 1996 c. 52, s. 107, Sch. 10 para. 9(4); S.I. 1996/2212, art. 2(2), (with savings in Sch.)
+[^F84]: Words in s. 26(4) substituted (1.10.1996) by 1996 c. 52, s. 107, Sch. 10 para. 9(5); S.I. 1996/2212, art. 2(2) (with savings in Sch.)
+[^F85]: Words in s. 27(7) inserted (1.10.1996) by 1996 c. 52, s. 107, Sch. 10 para. 9(6); S.I. 1996/2212, art. 2(2) (with savings in Sch.)
+[^F86]: Words in s. 27(1)(b) substituted (1.7.2013) by The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036), art. 1, Sch. 1 para. 103 (with Sch. 3)
+[^F87]: Words in s. 27(2) substituted (1.7.2013) by The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036), art. 1, Sch. 1 para. 103 (with Sch. 3)
+[^F88]: Words in s. 27(3)(a) substituted (1.7.2013) by The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036), art. 1, Sch. 1 para. 103 (with Sch. 3)
+[^F89]: Words in s. 27(4) substituted (1.7.2013) by The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036), art. 1, Sch. 1 para. 103 (with Sch. 3)
+[^F90]: Words in s. 27(5)(a) substituted (1.7.2013) by The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036), art. 1, Sch. 1 para. 103 (with Sch. 3)
+[^F91]: Words in s. 30(2)(a) inserted (1.10.1996) by 1996 c. 52, s. 107, Sch. 10 para.10; S.I. 1996/2212, art. 2(2) (with savings in Sch.)
+[^M8]: 1984 c. 51.
+[^M9]: 1975 c. 7.
+[^M10]: 1976 c. 40.
+[^M11]: 1984 c. 51.
+[^M12]: 1984 c. 51.
+[^F92]: Words in s. 33(5) substituted (1.7.2013) by The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036), art. 1, Sch. 1 para. 104 (with Sch. 3)
+[^F93]: Words in s. 34(1) inserted (1.10.1996) by 1996 c. 52, s. 107, Sch. 10 para. 11(2); S.I. 1996/2212, art. 2(2) (with savings in Sch.)
+[^F94]: Words in s. 34(2) inserted (1.10.1996) by 1996 c. 52, s. 107, Sch. 10 para. 11(3); S.I. 1996/2212, art. 2(2) (with savings in Sch.)
+[^M13]: 1925 c. 20.
+[^M14]: 1925 c. 18.
+[^M15]: 1977 c. 30.
+[^M16]: 1925 c. 20.
+[^F95]: Words in s. 34(9) inserted (1.7.1995) by 1994 c. 36, s. 21(1), Sch. 1 para. 12(1); S.I. 1995/1317, art. 2
+[^F96]: Words in s. 34(10) substituted (13.10.2003) by Land Registration Act 2002 (c. 9), s. 136(2), Sch. 11 para. 30(2) (with s. 129); S.I. 2003/1725, art. 2(1)
+[^F97]: Words in s. 36(1) substituted (1.10.1996) by 1996 c. 52, s. 107, Sch. 10 para. 12(2); S.I. 1996/2212, art. 2(2) (with saving in Sch.)
+[^F98]: Words in s. 36(2) substituted (1.10.1996) by 1996 c. 52, s. 107, Sch. 10 para. 12(3); S.I. 1996/2212, art. 2(2) (with saving in Sch.)
+[^F99]: Ss. 37A, 37B and crossheading inserted (1.10.1996) by 1996 c. 52, s. 116, Sch. 11 para. 2(1); S.I. 1996/2212, art. 2
+[^F100]: Ss. 37A, 37B and crossheading inserted (1.10.1996) by 1996 c. 52, s. 116, Sch. 11 para. 2(1); S.I. 1996/2212, art. 2
+[^M17]: 1989 c. 42.
+[^F101]: Ss. 37A, 37B and crossheading inserted (1.10.1996) by 1996 c. 52, s. 116, Sch. 11 para. 2(1); S.I. 1996/2212, art. 2
+[^F102]: Words in s. 38 inserted (1.7.2013) by The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036), art. 1, Sch. 1 para. 105 (with Sch. 3)
+[^F103]: Words in s. 38(1) inserted (1.12.2022) by The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166), regs. 1(1), 22(3)
+[^F104]: Definition in s. 38(1) inserted (12.2.1997) by S.I. 1997/74, art. 2, Sch. para. 9(b)
+[^M18]: 1985 c. 68.
+[^F105]: Words in s. 38(3) inserted (1.10.1996) by 1996 c. 52, s. 107, Sch. 10 para. 13; S.I. 1996/2212, art. 2(2) (with savings in Sch.)
+[^F106]: Word in s. 39(1) inserted (31.1.2025) by Leasehold and Freehold Reform Act 2024 (c. 22), ss. 27(2)(a)(i), 124(3); S.I. 2025/57, reg. 2
+[^F107]: Words in s. 39(1) omitted (31.1.2025) by virtue of Leasehold and Freehold Reform Act 2024 (c. 22), ss. 27(2)(a)(ii), 124(3); S.I. 2025/57, reg. 2
+[^F108]: S. 39(2) omitted (31.1.2025) by virtue of Leasehold and Freehold Reform Act 2024 (c. 22), ss. 27(2)(b), 124(3); S.I. 2025/57, reg. 2
+[^F109]: S. 39(2A) repealed (26.7.2002 for E. and 1.1.2003 for W.) by Commonhold and Leasehold Reform Act 2002 (c. 15), ss. 130(3), 180, Sch. 14; S.I. 2002/1912, art. 2(b), Sch. 1 Pt. 1 (subject to Sch. 2); S. I. 2002/3012, art. 2(b), Sch. 1 Pt. 1 (subject to Sch. 2)
+[^F110]: S. 39(2B) repealed (26.7.2002 for E. and 1.1.2003 for W.) by Commonhold and Leasehold Reform Act 2002 (c. 15), ss. 130(3), 180, Sch. 14; S.I. 2002/1912, art. 2(b), Sch. 1 Pt. 1 (subject to Sch. 2); S. I. 2002/3012, art. 2(b), Sch. 1 Pt. 1 (subject to Sch. 2)
+[^F111]: Word in s. 39(3)(b) repealed (1.4.1997) by 1996 c. 52, s. 227, Sch. 19 Pt.V; S.I. 1997/618, art. 2(1)
+[^F112]: S. 39(3)(c)(d) repealed (26.7.2002 for E. and 1.1.2003 for W.) by Commonhold and Leasehold Reform Act 2002 (c. 15), ss. 131, 180, Sch. 14; S.I. 2002/1912, art. 2(b)(i), Sch. 1 Pt. 1 (subject to Sch. 2); S. I. 2002/3012, art. 2(b)(i), Sch. 1 Pt. 1 (subject to Sch. 2)
+[^F113]: S. 39(3A) omitted (31.1.2025) by virtue of Leasehold and Freehold Reform Act 2024 (c. 22), ss. 27(2)(c), 124(3); S.I. 2025/57, reg. 2
+[^F114]: S. 39(4A) repealed (26.7.2002 for E. and 1.1.2003 for W.) by Commonhold and Leasehold Reform Act 2002 (c. 15), s. 180, Sch. 14; S.I. 2002/1912, art. 2(b)(ii), Sch. 1 Pt. 1 (subject to Sch. 2); S. I. 2002/3012, art. 2(b)(ii), Sch. 1 Pt. 1 (subject to Sch. 2)
+[^F115]: S. 39(5) repealed (26.7.2002 for E. and 1.1.2003 for W.) by Commonhold and Leasehold Reform Act 2002 (c. 15), s. 180, Sch. 14; S.I. 2002/1912, art. 2(b)(ii), Sch. 1 Pt. 1 (subject to Sch. 2); S. I. 2002/3012, art. 2(b)(ii), Sch. 1 Pt. 1 (subject to Sch. 2)
+[^F116]: S. 39(6) repealed (1.10.1996) by 1996 c. 52, s. 227, Sch. 19 Pt. V; S.I. 1996/2212, art. 2(2) (with savings in art. 2(2), Sch. para. 4)
+[^F117]: S. 42(3)(b)(iii) repealed (26.7.2002 for E. and 1.1.2003 for W.) by Commonhold and Leasehold Reform Act 2002 (c. 15), s. 180, Sch. 14; S.I. 2002/1912, art. 2(b)(ii), Sch. 1 Pt. 1 (subject to Sch. 2); S. I. 2002/3012, art. 2(b)(ii), Sch. 1 Pt. 1 (subject to Sch. 2)
+[^F118]: S. 42(3)(b)(iv) repealed (26.7.2002 for E. and 1.1.2003 for W.) by Commonhold and Leasehold Reform Act 2002 (c. 15), s. 180, Sch. 14; S.I. 2002/1912, art. 2(b)(ii), Sch. 1 Pt. 1 (subject to Sch. 2); S. I. 2002/3012, art. 2(b)(ii), Sch. 1 Pt. 1 (subject to Sch. 2)
+[^F119]: S. 42(4) repealed (26.7.2002 for E. and 1.1.2003 for W.) by Commonhold and Leasehold Reform Act 2002 (c. 15), s. 180, Sch. 14; S.I. 2002/1912, art. 2(b)(ii), Sch. 1 Pt. 1 (subject to Sch. 2); S. I. 2002/3012, art. 2(b)(ii), Sch. 1 Pt. 1 (subject to Sch. 2)
+[^F120]: S. 42(4A) omitted (31.1.2025) by virtue of Leasehold and Freehold Reform Act 2024 (c. 22), ss. 27(3), 124(3); S.I. 2025/57, reg. 2
+[^F121]: Words in s. 45(5) repealed (26.7.2002 for E. and 1.1.2003 for W.) by Commonhold and Leasehold Reform Act 2002 (c. 15), s. 180, Sch. 14; S.I. 2002/1912, art. 2(b)(ii), Sch. 1 Pt. 1 (subject to Sch. 2); S. I. 2002/3012, art. 2(b)(ii), Sch. 1 Pt. 1 (subject to Sch. 2)
+[^F122]: Words in s. 46 cross-heading omitted (1.7.2013) by virtue of The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036), art. 1, Sch. 1 para. 106 (with Sch. 3)
+[^F123]: Words in s. 48(1) substituted (1.7.2013) by The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036), art. 1, Sch. 1 para. 107 (with Sch. 3)
+[^F124]: Words in s. 48(3)(b) substituted (1.7.2013) by The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036), art. 1, Sch. 1 para. 107 (with Sch. 3)
+[^F125]: Words in s. 48(6)(b) substituted (1.7.2013) by The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036), art. 1, Sch. 1 para. 107 (with Sch. 3)
+[^F126]: Words in s. 51(1) substituted (1.7.2013) by The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036), art. 1, Sch. 1 para. 108 (with Sch. 3)
+[^F127]: Words in s. 51(2) substituted (1.7.2013) by The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036), art. 1, Sch. 1 para. 108 (with Sch. 3)
+[^F128]: Words in s. 51(3)(a) substituted (1.7.2013) by The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036), art. 1, Sch. 1 para. 108 (with Sch. 3)
+[^F129]: Words in s. 51(4) substituted (1.7.2013) by The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036), art. 1, Sch. 1 para. 108 (with Sch. 3)
+[^F130]: Words in s. 51(5)(a) substituted (1.7.2013) by The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036), art. 1, Sch. 1 para. 108 (with Sch. 3)
+[^M19]: 1988 c.50.
+[^F131]: Words in s. 57(2)(b)(ii) substituted (6.4.2014) by Tribunals, Courts and Enforcement Act 2007 (c. 15), s. 148, Sch. 14 para. 47 (with s. 89); S.I. 2014/768, art. 2(1)(b)
+[^F132]: S. 57(8)(8A) substituted for s. 57(8) (1.7.1995) by 1994 c. 36, s. 21(1), Sch. 1 para. 12(2) (with s. 20); S.I. 1995/1317, art.2
+[^F133]: Words in s. 57(11) substituted (13.10.2003) by Land Registration Act 2002 (c. 9), s. 136(2), Sch. 11 para. 30(2) (with s. 129); S.I. 2003/1725, art. 2(1)
+[^F134]: S. 58A inserted (1.10.1996) by 1996 c. 52, s.117; S.I. 1996/2212, art. 2(2)
+[^M20]: 1983 c. 19.
+[^M21]: 1954 c. 56.
+[^M22]: 1989 c. 42.
+[^M23]: 1977 c. 42.
+[^M24]: 1976 c. 80.
+[^M25]: 1988 c. 50.
+[^F135]: Words in s. 60(5) substituted (1.7.2013) by The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036), art. 1, Sch. 1 para. 109 (with Sch. 3)
+[^F136]: Ss. 61A, 61B and cross heading inserted (1.10.1996) by 1996 c. 52, s. 116, Sch. 11 para. 3(1); S.I. 1996/2212, art. 2(2)
+[^F137]: Ss. 61A, 61B and cross heading inserted (1.10.1996) by 1996 c. 52, s. 116, Sch. 11 para. 3(1); S.I. 1996/2212, art. 2(2)
+[^M26]: 1989 c. 42.
+[^F138]: Ss. 61A, 61B and cross heading inserted (1.10.1996) by 1996 c. 52, s. 116, Sch. 11 para. 3(1); S.I. 1996/2212, art. 2(2)
+[^F139]: Words in s. 62 inserted (1.7.2013) by The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036), art. 1, Sch. 1 para. 110 (with Sch. 3)
+[^F140]: S. 62(4) repealed (26.7.2002 for E. and 1.1.2003 for W.) by Commonhold and Leasehold Reform Act 2002 (c. 15), s. 180, Sch. 14; S.I. 2002/1912, art. 2(b)(ii), Sch. 1 Pt. 1 (subject to Sch. 2); S. I. 2002/3012, art. 2(b)(ii), Sch. 1 Pt. 1 (subject to Sch. 2)
+[^M27]: 1967 c. 88.
+[^M28]: 1967 c. 88.
+[^M29]: 1967 c. 88.
+[^M30]: 1967 c. 88.
+[^M31]: 1967 c. 88.
+[^F141]: Words in s. 69(1) substituted (1.7.2013) by The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036), art. 1, Sch. 1 para. 111(a) (with Sch. 3)
+[^F142]: S. 69(1)(a)(b) substituted (1.4.1997) by 1996 c. 52, s. 118(1)(2); S.I. 1997/618, art. 2(1) (with transitional savings in art. 2, Sch. para. 3)
+[^M32]: 1967 c. 88.
+[^F143]: Words in s. 69(1)(b) substituted (26.7.2002 for E. and 1.1.2003 for W.) by Commonhold and Leasehold Reform Act 2002 (c. 15), s. 117(2); S.I. 2002/1912, art. 2(b)(i) (subject to Sch. 2); S. I. 2002/3012, art. 2(b)(i) (subject to Sch. 2)
+[^F144]: Words in s. 69(2) substituted (1.7.2013) by The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036), art. 1, Sch. 1 para. 111(a) (with Sch. 3)
+[^F145]: Words in s. 69(3)(c) inserted (1.12.2022) by The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166), regs. 1(1), 22(4)(a)
+[^M33]: 1925 c. 20.
+[^F146]: S. 69(3A) inserted (1.12.2022) by The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166), regs. 1(1), 22(4)(b)
+[^F147]: Words in s. 69(5)(a) substituted (1.7.2013) by The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036), art. 1, Sch. 1 para. 111(a) (with Sch. 3)
+[^F148]: S. 69(8) inserted (1.7.2013) by The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036), art. 1, Sch. 1 para. 111(b) (with Sch. 3)
+[^F149]: Words in s. 70 heading omitted (1.7.2013) by virtue of The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036), art. 1, Sch. 1 para. 112(a) (with Sch. 3)
+[^F150]: Words in s. 70(1) substituted (1.7.2013) by The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036), art. 1, Sch. 1 para. 112(b) (with Sch. 3)
+[^F151]: Words in s. 70(1) substituted (1.4.1997) by 1996 c. 52, s. 118(1)(3); S.I. 1997/618, art. 2(1) (with transitional savings in art. 2, Sch. para. 3)
+[^F152]: Words in s. 70(2) substituted (1.7.2013) by The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036), art. 1, Sch. 1 para. 112(b) (with Sch. 3)
+[^F153]: Words in s. 70(3) substituted (1.7.2013) by The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036), art. 1, Sch. 1 para. 112(b) (with Sch. 3)
+[^F154]: Words in s. 70(4) substituted (1.7.2013) by The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036), art. 1, Sch. 1 para. 112(b) (with Sch. 3)
+[^F155]: S. 70(6) substituted (30.9.2003 for E., 30.3.2004 for W.) by Commonhold and Leasehold Reform Act 2002 (c. 15), s. 181(1), Sch. 13 para. 13(2); S.I. 2003/1986, art. 2(c)(i) (with Sch. 2); S.I. 2004/669, art. 2(c)(i) (with Sch. 2)
+[^F156]: Words in s. 70(7) substituted (1.7.2013) by The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036), art. 1, Sch. 1 para. 112(b) (with Sch. 3)
+[^F157]: Words in s. 70(10) substituted (1.7.2013) by The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036), art. 1, Sch. 1 para. 112(b) (with Sch. 3)
+[^F158]: S. 70(10A) inserted (30.9.2003 for E., 30.3.2004 for W.) by Commonhold and Leasehold Reform Act 2002 (c. 15), s. 181(1), Sch. 13 para. 13(3); S.I. 2003/1986, art. 2(c)(i) (with Sch. 2); S.I. 2004/669, art. 2(c)(i) (with Sch. 2)
+[^M34]: 1975 c. 76.
+[^F159]: Word in s. 70(12) omitted (12.4.2015) by virtue of Infrastructure Act 2015 (c. 7), s. 57(5)(e), Sch. 5 para. 38 (with Sch. 5 Pt. 4)
+[^M35]: 1967 c. 88.
+[^F160]: Words in s. 70(14) substituted (4.11.2024) by Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 166(a)(i) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^M36]: 1990 c. 9.
+[^M37]: 1990 c. 8.
+[^F161]: Words in s. 70(14)(a) inserted (4.11.2024) by Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 166(a)(ii) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F162]: S. 70(15) inserted (4.11.2024) by Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 166(b) (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F163]: Words in s. 71(1) substituted (1.7.2013) by The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036), art. 1, Sch. 1 para. 113 (with Sch. 3)
+[^F164]: Words in s. 71(3) substituted (1.7.2013) by The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036), art. 1, Sch. 1 para. 113 (with Sch. 3)
+[^F165]: Words in s. 73(1) substituted (1.7.2013) by The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036), art. 1, Sch. 1 para. 114 (with Sch. 3)
+[^M38]: 1967 c. 88.
+[^M39]: 1967 c. 88.
+[^F166]: Words in s. 74(1)(b)(i) omitted (1.4.1997) by virtue of 1996 c. 52, s. 118(1)(4)(a); S.I. 1997/618, art. 2(1) (with transitional savings in art. 2, Sch. para. 3)
+[^F167]: Word 'and' and s. 74(1)(c) inserted (1.4.1997) by 1996 c. 52, s. 118(1)(4)(b); S.I. 1997/618, art. 2(1) (with transitional savings in art. 2, Sch. para. 3)
+[^M40]: 1967 c. 88.
+[^M41]: 1967 c. 88.
+[^F168]: Words in s. 75(1)(a) substituted (1.7.2013) by The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036), art. 1, Sch. 1 para. 115 (with Sch. 3)
+[^F169]: Words in s. 75(2) substituted (1.7.2013) by The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036), art. 1, Sch. 1 para. 115 (with Sch. 3)
+[^F170]: S. 75(4)(5) repealed (30.9.2003 for E., 30.3.2004 for W.) by Commonhold and Leasehold Reform Act 2002 (c. 15), s. 181(1), Sch. 14; S.I. 2003/1986, art. 2(c)(iv), Sch. 1 Pt. 1 (with Sch. 2); S.I. 2004/669, art. 2(c)(iv), Sch. 1 Pt. 1 (with Sch. 2)
+[^M42]: 1985 c. 68.
+[^M43]: 1985 c. 70.
+[^F171]: Word in s. 84 inserted (30.9.2003 for E., 30.3.2004 for W.) by Commonhold and Leasehold Reform Act 2002 (c. 15), s. 181(1), Sch. 9 para. 10; S.I. 2003/1986, art. 2(c)(i) (with Sch. 2); S.I. 2004/669, art. 2(c)(i) (with Sch. 2)
+[^M44]: 1987 c. 31.
+[^F172]: Word in s. 87(8)(a) inserted (30.9.2003 for E., 30.3.2004 for W.) by Commonhold and Leasehold Reform Act 2002 (c. 15), s. 181(1), Sch. 9 para. 11(a); S.I. 2003/1986, art. 2(c)(i) (with Sch. 2); S.I. 2004/669, art. 2(c)(i) (with Sch. 2)
+[^F173]: Word in s. 87(8)(c)(i) inserted (30.9.2003 for E., 30.3.2004 for W.) by Commonhold and Leasehold Reform Act 2002 (c. 15), s. 181(1), Sch. 9 para. 11(b); S.I. 2003/1986, art. 2(c)(i) (with Sch. 2); S.I. 2004/669, art. 2(c)(i) (with Sch. 2)
+[^F174]: Words in s. 88 cross-heading omitted (1.7.2013) by virtue of The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036), art. 1, Sch. 1 para. 116 (with Sch. 3)
+[^F175]: Words in s. 88 heading omitted (1.7.2013) by virtue of The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036), art. 1, Sch. 1 para. 117(a) (with Sch. 3)
+[^M45]: 1967 c. 88.
+[^F176]: Words in s. 88(2) substituted (1.7.2013) by The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036), art. 1, Sch. 1 para. 117(b) (with Sch. 3)
+[^F177]: Words in s. 88(2)(b) repealed (30.9.2003 for E., 30.3.2004 for W.) by Commonhold and Leasehold Reform Act 2002 (c. 15), s. 181(1), Sch. 14; S.I. 2003/1986, art. 2(c)(iv), Sch. 1 Pt. 1 (with Sch. 2); S.I. 2004/669, art. 2(c)(iv), Sch. 1 Pt. 1 (with Sch. 2)
+[^F178]: S. 88(3)-(5) repealed (30.9.2003 for E., 30.3.2004 for W.) by Commonhold and Leasehold Reform Act 2002 (c. 15), s. 181(1), Sch. 14; S.I. 2003/1986, art. 2(c)(iv), Sch. 1 Pt. 1 (with Sch. 2); S.I. 2004/669, art. 2(c)(iv), Sch. 1 Pt. 1 (with Sch. 2)
+[^F179]: S. 88(6A) inserted (1.7.2013) by The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036), art. 1, Sch. 1 para. 117(c) (with Sch. 3)
+[^F180]: S. 88(7) repealed (30.9.2003 for E., 30.3.2004 for W.) by Commonhold and Leasehold Reform Act 2002 (c. 15), s. 181(1), Sch. 14; S.I. 2003/1986, art. 2(c)(iv), Sch. 1 Pt. 1 (with Sch. 2); S.I. 2004/669, art. 2(c)(iv), Sch. 1 Pt. 1 (with Sch. 2)
+[^M46]: 1983 c. 20.
+[^F181]: Words in s. 90 substituted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 9 para. 52; S.I. 2014/954, art. 2(c) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F182]: Words in s. 90(2) substituted (1.7.2013) by The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036), art. 1, Sch. 1 para. 118 (with Sch. 3)
+[^F183]: Words in s. 91 heading omitted (1.7.2013) by virtue of The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036), art. 1, Sch. 1 para. 119(a) (with Sch. 3)
+[^F184]: Words in s. 91(1) repealed (30.9.2003 for E., 30.3.2004 for W.) by Commonhold and Leasehold Reform Act 2002 (c. 15), s. 181(1), Sch. 14; S.I. 2003/1986, art. 2(c)(iv), Sch. 1 Pt. 1 (with Sch. 2); S.I. 2004/669, art. 2(c)(iv), Sch. 1 Pt. 1 (with Sch. 2)
+[^F185]: Words in s. 91(1) substituted (1.7.2013) by The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036), art. 1, Sch. 1 para. 119(b) (with Sch. 3)
+[^F186]: S. 91(2)(ca) inserted (1.10.1996) after para. (c) by 1996 c. 52, s. 116, Sch. 11 para. 2(2); S.I. 1996/2212, art. 2(2)
+[^F187]: S. 91(2)(cb) inserted (1.10.1996) after para. (c) by 1996 c. 52, s. 116, Sch. 11 para. 3(2); S.I. 1996/2212, art. 2(2)
+[^F188]: S. 91(3)-(8) repealed (30.9.2003 for E., 30.3.2004 for W.) by Commonhold and Leasehold Reform Act 2002 (c. 15), s. 181(1), Sch. 14; S.I. 2003/1986, art. 2(c)(iv), Sch. 1 Pt. 1 (with Sch. 2); S.I. 2004/669, art. 2(c)(iv), Sch. 1 Pt. 1 (with Sch. 2)
+[^F189]: Words in s. 91(9) substituted (1.7.2013) by The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036), art. 1, Sch. 1 para. 119(c) (with Sch. 3)
+[^F190]: S. 91(10) repealed (30.9.2003 for E., 30.3.2004 for W.) by Commonhold and Leasehold Reform Act 2002 (c. 15), s. 181(1), Sch. 14; S.I. 2003/1986, art. 2(c)(iv), Sch. 1 Pt. 1 (with Sch. 2); S.I. 2004/669, art. 2(c)(iv), Sch. 1 Pt. 1 (with Sch. 2)
+[^F191]: Words in s. 91(11) repealed (30.9.2003 for E., 30.3.2004 for W.) by Commonhold and Leasehold Reform Act 2002 (c. 15), s. 181(1), Sch. 14; S.I. 2003/1986, art. 2(c)(iv), Sch. 1 Pt. 1 (with Sch. 2); S.I. 2004/669, art. 2(c)(iv), Sch. 1 Pt. 1 (with Sch. 2)
+[^F192]: S. 91(12) inserted (1.7.2013) by The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036), art. 1, Sch. 1 para. 119(d) (with Sch. 3)
+[^F193]: Words in s. 93(3)(a)(ii) substituted (1.7.2013) by The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036), art. 1, Sch. 1 para. 120 (with Sch. 3)
+[^F194]: Words in s. 93(3) substituted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 9 para. 52; S.I. 2014/954, art. 2(c) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F195]: Words in s. 93(6)(a) substituted (14.3.2012) by Charities Act 2011 (c. 25), s. 355, Sch. 7 para. 67 (with s. 20(2), Sch. 8)
+[^F196]: S. 93A inserted (1.10.1996) by 1996 c. 52, s. 113; S.I. 1996/2212, art. 2(2) (with savings in art. 2(2), Sch. para. 4(b))
+[^M47]: 1925 c. 18.
+[^F197]: Words in s. 93A(4) repealed (1.1.1997) by 1996 c. 47, s. 25(2), Sch.4 (with ss. 24(2), 25(4)); S.I. 1996/2974, art.2
+[^F198]: S. 94(2) substituted (26.7.2002 for E. and 1.1.2003 for W.) by Commonhold and Leasehold Reform Act 2002 (c. 15), s. 133; S.I. 2002/1912, art. 2(a); S. I. 2002/3012, art. 2(a)
+[^M48]: 1961 c. 55.
+[^F199]: Words in s. 94(3)(4) repealed (26.7.2002 for E. and 1.1.2003 for W.) by Commonhold and Leasehold Reform Act 2002 (c. 15), s. 180, Sch. 14; S.I. 2002/1912, art. 2(b)(ii), Sch. 1 Pt. 1 (subject to Sch. 2); S. I. 2002/3012, art. 2(b)(ii), Sch. 1 Pt. 1 (subject to Sch. 2)
+[^M49]: 1863 c. 49.
+[^F200]: Words in s. 94(10) substituted (1.7.2013) by The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036), art. 1, Sch. 1 para. 121 (with Sch. 3)
+[^F201]: Words in s. 94(10) repealed (30.9.2003 for E., 30.3.2004 for W.) by Commonhold and Leasehold Reform Act 2002 (c. 15), s. 181(1), Sch. 14; S.I. 2003/1986, art. 2(c)(iv), Sch. 1 Pt. 1 (with Sch. 2); S.I. 2004/669, art. 2(c)(iv), Sch. 1 Pt. 1 (with Sch. 2)
+[^F202]: S. 94(12) substituted (1.4.1997) by 1996 c. 52, s. 106, Sch. 9 para. 5(4); S.I. 1997/618, art. 2(1) (with transitional savings in art. 2, Sch. para. 2)
+[^F203]: Words in s. 94(12) repealed (26.7.2002 for E. and 1.1.2003 for W.) by Commonhold and Leasehold Reform Act 2002 (c. 15), s. 180, Sch. 14; S.I. 2002/1912, art. 2(b)(ii), Sch. 1 Pt. 1 (subject to Sch. 2); S. I. 2002/3012, art. 2(b)(ii) Sch. 1 Pt. 1 (subject to Sch. 2)
+[^F204]: Words in s. 94(12) repealed (26.7.2002 for E. and 1.1.2003 for W.) by Commonhold and Leasehold Reform Act 2002 (c. 15), s. 180, Sch. 14; S.I. 2002/1912, art. 2(b)(ii), Sch. 1 Pt. 1 (subject to Sch. 2); S. I. 2002/3012, art. 2(b)(ii) Sch. 1 Pt. 1 (subject to Sch. 2)
+[^M50]: 1907 c. cxxxvi.
+[^M51]: 1972 c. 61.
+[^F205]: Words in s. 97(1) substituted (13.10.2003) by Land Registration Act 2002 (c. 9), s. 136(2), Sch. 11 para. 30(3)(a) (with s. 129); S.I. 2003/1725, art. 2(1)
+[^F206]: Words in s. 97(1) substituted (13.10.2003) by Land Registration Act 2002 (c. 9), s. 136(2), Sch. 11 para. 30(3)(b) (with s. 129); S.I. 2003/1725, art. 2(1)
+[^F207]: Words in s. 97(2) substituted (13.10.2003) by Land Registration Act 2002 (c. 9), s. 136(2), Sch. 11 para. 30(4) (with s. 129); S.I. 2003/1725, art. 2(1)
+[^F208]: S. 97(3) repealed (13.10.2003) by Land Registration Act 2002 (c. 9), s. 136(2), Sch. 13 (with s. 129, Sch. 12 para. 1); S.I. 2003/1725, art. 2(1)
+[^M52]: 1987 c. 31.
+[^F209]: Words in s. 99(5) substituted for s. 99(5)(a)(b) (1.12.2014) by Housing (Wales) Act 2014 (anaw 7), ss. 140(1), 145(3); S.I. 2014/3127, art. 2(a), Sch. Pt. 1
+[^F210]: Words in s. 100(1) inserted (12.5.2016) by Housing and Planning Act 2016 (c. 22), s. 216(1)(c), Sch. 10 para. 3(2)
+[^F211]: S. 100(3) inserted (12.5.2016) by Housing and Planning Act 2016 (c. 22), s. 216(1)(c), Sch. 10 para. 3(3)
+[^M53]: 1954 c. 56.
+[^F212]: Words in s. 101(1) substituted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 9 para. 52; S.I. 2014/954, art. 2(c) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F213]: Words in s. 101(1) repealed (30.9.2003 for E., 30.3.2004 for W.) by Commonhold and Leasehold Reform Act 2002 (c. 15), s. 181(1), Sch. 14; S.I. 2003/1986, art. 2(c)(iv), Sch. 1 Pt. 1 (with Sch. 2); S.I. 2004/669, art. 2(c)(iv), Sch. 1 Pt. 1 (with Sch. 2)
+[^F214]: Words in s. 101(9) inserted (1.7.2013) by The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036), art. 1, Sch. 1 para. 122 (with Sch. 3)
+[^M54]: 1954 c. 56.
+[^M55]: 1989 c. 42.
+[^M56]: 1985 c. 68.
+[^M57]: 1988 c. 1.
+[^M58]: 1925 c. 20.
+[^M59]: 1988 c. 50.
+[^F215]: S. 124(4)-(6) repealed (1.10.1996) by 1996 c. 52, s. 227, Sch. 19 Pt.IX; S.I. 1996/2402, art. 3(b) (with transitional savings in art. 3, Sch. para. 12)
+[^M60]: 1989 c. 42.
+[^M61]: 1985 c. 68.
+[^F216]: S. 130 repealed (1.10.1996) by 1996 c. 52, s. 227, Sch. 19 Pt.X; S.I. 1996/2402, art.3
+[^F217]: S. 131 repealed (1.10.1996) by 1996 c. 52, s. 227, Sch. 19 Pt.X; S.I. 1996/2402, art.3
+[^F218]: S. 134 repealed (1.10.1996) by 1996 c. 52, s. 227, Sch. 19 Pt.I; S.I. 1996/2402, art. 3(a)
+[^F219]: S. 135 repealed (1.12.2008) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 14 para. 3(2), Sch. 16; S.I. 2008/3068, arts. 4(1)(c), 5, Sch. (with arts. 6-13)
+[^F220]: Words in s. 136(3) substituted (1.4.2004) by The Local Authorities (Capital Finance) (Consequential, Transitional and Saving Provisions) Order 2004 (S.I. 2004/533), arts. 1, 5(a)
+[^F221]: S. 136(4A) inserted (*retrospectively*) by 1997 c. 16, s.109
+[^F222]: S. 136(7)(8)(9) repealed (1.4.2004) by The Local Authorities (Capital Finance) (Consequential, Transitional and Saving Provisions) Order 2004 (S.I. 2004/533), arts. 1, 5(b)
+[^F223]: Words in s. 136(12) omitted (1.4.2004) by virtue of The Local Authorities (Capital Finance) (Consequential, Transitional and Saving Provisions) Order 2004 (S.I. 2004/533), arts. 1, 5(c)
+[^F224]: S. 136(14)(15) substituted for s. 136(14) (1.12.2008) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 14 para. 3(3); S.I. 2008/3068, art. 4(1)(c) (with arts. 6-13)
+[^F225]: S. 137(1)-(3) repealed (1.12.2008) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 14 para. 3(4), Sch. 16; S.I. 2008/3068, arts. 4(1)(c), 5, Sch. (with arts. 6-13)
+[^M62]: 1989 c. 42.
+[^M63]: 1989 c. 42.
+[^F226]: S. 141 repealed (30.9.2002) by 2001 (asp 10), s. 112, Sch. 10 para. 20; S.I. 2002/321, art. 2, Sch. (subject to transitional provisions in arts. 3-5)
+[^F227]: S. 142 repealed (30.9.2002) by 2001 (asp 10), s. 112, Sch. 10 para. 20; S.I. 2002/321, art. 2, Sch. (subject to transitional provisions in arts. 3-5)
+[^F228]: S. 143 repealed (30.9.2002) by 2001 (asp 10), s. 112, Sch. 10 para. 20; S.I. 2002/321, art. 2, Sch. (subject to transitional provisions in arts. 3-5)
+[^F229]: S. 146 repealed (30.9.2002) by 2001 (asp 10), s. 112, Sch. 10 para. 20; S.I. 2002/321, art. 2, Sch. (subject to transitional provisions in arts. 3-5)
+[^F230]: S. 147 repealed (30.9.2002) by 2001 (asp 10), s. 112, Sch. 10 para. 20; S.I. 2002/321, art. 2, Sch. (subject to transitional provisions in arts. 3-5)
+[^F231]: S. 148 repealed (30.9.2002) by 2001 (asp 10), s. 112, Sch. 10 para. 20; S.I. 2002/321, art. 2, Sch. (subject to transitional provisions in arts. 3-5)
+[^F232]: S. 152 repealed (30.9.2002) by 2001 (asp 10), s. 112, Sch. 10 para. 20; S.I. 2002/321, art. 2, Sch. (subject to transitional provisions in arts. 3-5)
+[^F233]: S. 155(2) repealed (1.4.2002) by 2001 (asp 10), s. 112, Sch. 10 para. 20; S.S.I. 2002/168, art. 2(2), Sch. (subject to transitional provisions in art. 3)
+[^F234]: S. 157(4) repealed (1.4.2010) by Housing (Scotland) Act 2006 (asp 1), s. 195(3), sch. 7 (with s. 193); S.S.I. 2009/122, art. 3
+[^F235]: Ss. 158-173 repealed (1.12.2008 except for the repeal of s. 158, 1.4.2009 in so far as not already in force) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 8 para. 63(2)(a), Sch. 16; S.I. 2008/3068, arts. 2(1)(w)(3), 5, Sch. (with arts. 6-13); S.I. 2009/803, arts. 3(2)(3), 10
+[^F236]: S. 174 repealed (24.9.1996) by 1996 c. 53, ss. 147, 150(2), Sch. 3 Pt.III
+[^F237]: S. 175 repealed (1.12.2008) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 8 para. 63(2)(a), Sch. 16; S.I. 2008/3068, arts. 2(1)(w)(3), 5, Sch. (with arts. 6-13)
+[^M64]: 1980 c. 65.
+[^F238]: S. 177 repealed (1.12.2008) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 8 para. 63(2)(a), Sch. 16; S.I. 2008/3068, arts. 2(1)(w)(3), 5, Sch. (with arts. 6-13)
+[^F239]: S. 181(1)(3) repealed (1.12.2008) by Housing and Regeneration Act 2008 (c. 17), Sch. 16; S.I. 2008/3068, art. 5, Sch. (with arts. 6-13)
+[^F240]: S. 181(2)(4) repealed (1.10.1998) by 1998 c. 38, s. 152, Sch. 18Pt. V (with ss. 137(1), 139(2), 141(1), 143(2)); S.I. 1998/2244, art. 4.
+[^M65]: 1988 c. 50.
+[^F241]: Ss. 183-185 repealed (1.12.2008) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 8 para. 63(2)(a), Sch. 16; S.I. 2008/3068, arts. 2(1)(w)(3), 5, Sch. (with arts. 6-13)
+[^M66]: 1989 c. 42.
+[^F242]: Words '174' in s. 188(6) repealed (E.W.S.) (24.9.1996) by 1996 c. 53, ss. 147, 150(2), Sch. 3 Pt.III
+[^F243]: S. 188(6)(b) and word repealed (1.12.2008) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 8 para. 63(3), Sch. 16; S.I. 2008/3068, arts. 2(1)(w)(3), 5, Sch. (with arts. 6-13)
+[^M67]: 1975 c. 24.
+[^M68]: 1975 c. 25.
+[^F244]: Words in Sch. 1 Pt. I para. 1 inserted (1.10.1996) by 1996 c. 52, s. 107, Sch. 10 para.14; S.I. 1996/2212, art. 2(2) (with savings in art. 2(2), Sch. para. 4)
+[^F245]: Sch. 1 Pt. 1A inserted (1.10.1996) by 1996 c. 52, s. 107, Sch. 10 para.15; S.I. 1996/2212, art. 2(2) (with savings in art. 2(2), Sch. para. 4)
+[^F246]: Sch. 1 Pt. 1A inserted (1.10.1996) by 1996 c. 52, s. 107, Sch. 10 para.15; S.I. 1996/2212, art. 2(2) (with savings in art. 2(2), Sch. para. 4)
+[^F247]: Sch. 1 Pt. 1A inserted (1.10.1996) by 1996 c. 52, s. 107, Sch. 10 para.15; S.I. 1996/2212, art. 2(2) (with savings in art. 2(2), Sch. para. 4)
+[^F248]: Sch. 1 Pt. 1A inserted (1.10.1996) by 1996 c. 52, s. 107, Sch. 10 para.15; S.I. 1996/2212, art. 2(2) (with savings in art. 2(2), Sch. para. 4)
+[^F249]: Sch. 1 Pt. 1A inserted (1.10.1996) by 1996 c. 52, s. 107, Sch. 10 para.15; S.I. 1996/2212, art. 2(2) (with savings in art. 2(2), Sch. para. 4)
+[^F250]: Sch. 1 Pt. 1A inserted (1.10.1996) by 1996 c. 52, s. 107, Sch. 10 para.15; S.I. 1996/2212, art. 2(2) (with savings in art. 2(2), Sch. para. 4)
+[^F251]: Words in Sch. 1 para. 6(2)(b) substituted (1.7.2013) by The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036), art. 1, Sch. 1 para. 123 (with Sch. 3)
+[^F252]: Words in Sch. 1 para. 7(3) substituted (1.7.2013) by The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036), art. 1, Sch. 1 para. 123 (with Sch. 3)
+[^F253]: Word "a" in Sch. 2 para. 1(1) substituted (1.10.1996) for words by 1996 c. 52, s. 107, Sch. 10 para.16; S.I. 1996/2212, art. 2(2) (with savings in art. 2(2), Sch. para. 4)
+[^F254]: Sch. 2 para. 4 substituted (1.10.2007) by Mental Capacity Act 2005 (c. 9), s. 68(1), Sch. 6 para. 39(1) (with ss. 27-29, 62, Sch. 6 para. 39(2)); S.I. 2007/1897, art. 2(1)(d)
+[^F255]: Words in the heading immediately preceding paragraph 5 of Sch. 2 substituted (1.1.1997) by 1996 c. 47, s. 25(1), Sch. 3 para. 27(2)(a) (with ss. 24(2), 25(4)); S.I. 1996/2974, art.2
+[^F256]: Words in Sch. 2 para. 5(1)(2) substituted (1.1.1997) by 1996 c. 47, s. 25(1), Sch. 3 para. 27(2)(a) (with ss. 24(2), 25(4)); S.I. 1996/2974, art.2
+[^F257]: Sch. 2 para. 5(2)(b) and the word "and" immediately preceding it repealed (1.1.1997) by 1996 c. 47, s. 25(2), Sch.4 (with ss. 24(2), 25(4)); S.I. 1996/2974, art.2
+[^F258]: Words in Sch. 2 para. 6 substituted (1.1.1997) by 1996 c. 47, s. 25(1), Sch. 3 para. 27(2)(b) (with ss. 24(2), 25(4)); S.I. 1996/2974, art.2
+[^F259]: Sch. 2 para. 7 and cross-heading omitted (19.5.2025) by virtue of Charities Act 2022 (c. 6), s. 41(4), Sch. 1 para. 18(2); S.I. 2024/265, reg. 4, Sch. 2 para. 3
+[^F260]: Words in Sch. 2 para. 8(1)(a) substituted (coming into force in accordance with s. 53(3) of the amending Measure) by Cathedrals Measure 2021 (No. 2), Sch. 4 para. 24(2) (with ss. 42(4), 48, 52(1))
+[^F261]: Words in Sch. 2 para. 8(2) inserted (E.) (1.10.2006) by Church of England (Miscellaneous Provisions) Measure 2006 (No. 1), s. 16(2), Sch. 5 para. 31(a); 2006 No. 2, Instrument made by Archbishops
+[^F262]: Words in Sch. 2 para. 8(2) omitted (coming into force in accordance with s. 53(3) of the amending Measure) by virtue of Cathedrals Measure 2021 (No. 2), Sch. 4 para. 24(3)(a) (with ss. 42(4), 48, 52(1))
+[^F263]: Words in Sch. 2 para. 8(2) substituted (E.) (1.3.2019) by Church Property Measure 2018 (No. 8), s. 53(2), Sch. 1 para. 19(2); S.I. 2019/97, art. 2
+[^F264]: Words in Sch. 2 para. 8(2) inserted (coming into force in accordance with s. 53(3) of the amending Measure) by Cathedrals Measure 2021 (No. 2), Sch. 4 para. 24(3)(b) (with ss. 42(4), 48, 52(1))
+[^F265]: Words in Sch. 2 para. 8(2)(a) substituted (1.7.2013) by The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036), art. 1, Sch. 1 para. 124 (with Sch. 3)
+[^F266]: Words in Sch. 2 para. 8(2) omitted (E.) (1.10.2006) by virtue of Church of England (Miscellaneous Provisions) Measure 2006 (No. 1), s. 16(2), Sch. 5 para. 31(a); 2006 No. 2, Instrument made by Archbishops
+[^F267]: Words in Sch. 2 para. 8(3) substituted (coming into force in accordance with s. 53(3) of the amending Measure) by Cathedrals Measure 2021 (No. 2), Sch. 4 para. 24(4)(a) (with ss. 42(4), 48, 52(1))
+[^F268]: Words in Sch. 2 para. 8(3)(a) substituted (coming into force in accordance with s. 53(3) of the amending Measure) by Cathedrals Measure 2021 (No. 2), Sch. 4 para. 24(4)(b) (with ss. 42(4), 48, 52(1))
+[^F269]: Words in Sch. 2 para. 8(3)(b) substituted (coming into force in accordance with s. 53(3) of the amending Measure) by Cathedrals Measure 2021 (No. 2), Sch. 4 para. 24(4)(c) (with ss. 42(4), 48, 52(1))
+[^F270]: Words in Sch. 2 para. 8(3)(b)(4)(c) substituted (1.1.1997) by 1996 c. 47, s. 25(1), Sch. 3 para. 27(2)(c) (with ss. 24(2), 25(4)); S.I. 1996/2974, art.2
+[^F271]: Words in Sch. 2 para. 8(4)(b) substituted (E.) (1.10.2006) by Church of England (Miscellaneous Provisions) Measure 2006 (No. 1), s. 16(2), Sch. 5 para. 31(b); 2006 No. 2, Instrument made by Archbishops
+[^F272]: Words in Sch. 2 para. 8(4)(c) substituted (E.) (1.10.2006) by Church of England (Miscellaneous Provisions) Measure 2006 (No. 1), s. 16(2), Sch. 5 para. 31(c); 2006 No. 2, Instrument made by Archbishops
+[^F273]: Sch. 2 para. 8(5) substituted (E.) (1.3.2019) by Church Property Measure 2018 (No. 8), s. 53(2), Sch. 1 para. 19(3); S.I. 2019/97, art. 2
+[^M69]: 1989 c. 42.
+[^M70]: 1954 c. 56.
+[^M71]: 1989 c. 42.
+[^M72]: 1954 c. 56.
+[^M73]: 1954 c. 56.
+[^M74]: 1989 c. 42.
+[^M75]: 1925 c. 20.
+[^M76]: 1954 c. 56.
+[^M77]: 1954 c. 56.
+[^M78]: 1989 c. 42.
+[^F274]: Words in Sch. 3 Pt. II para. 11 inserted (1.10.1996) by 1996 c. 52, s. 107, Sch. 10 para. 17(2); S.I. 1996/2212, art. 2(2) (with savings in art. 2(2), Sch. para. 4)
+[^F275]: Words at the beginning of Sch. 3 Pt. II para. 12(1) inserted (1.10.1996) by 1996 c. 52, s. 107, Sch. 10 para. 17(3); S.I. 1996/2212, art. 2(2) (with savings in art. 2(2), Sch. para. 4)
+[^F276]: Sch. 3 Pt. II para. 12A inserted (1.10.1996) by 1996 c. 52, s. 107, Sch. 10 para. 17(4); S.I. 1996/2212, art. 2(2) (with savings in art. 2(2), Sch. para. 4)
+[^F277]: Words in Sch. 3 Pt. II para. 13(3)(a) inserted (1.10.1996) by 1996 c. 52, s. 107, Sch. 10 para. 17(5); S.I. 1996/2212, art. 2(2) (with savings in art. 2(2), Sch. para. 4)
+[^F278]: Word ",12A" in Sch. 3 Pt. II para. 14(2)(b) inserted (1.10.1996) by 1996 c. 52, s. 107, Sch. 10 para. 17(6)(a); S.I. 1996/2212, art. 2(2) (with savings in art. 2(2), Sch. para. 4)
+[^F279]: Word in Sch. 3 Pt. II para. 14(2)(b) substituted (1.10.1996) by 1996 c. 52, s. 107, Sch. 10 para. 17(6)(b); S.I. 1996/2212, art. 2(2) (with savings in art. 2(2), Sch. para. 4)
+[^F280]: Words in Sch. 5 para. 2(1)(a) substituted (1.7.2013) by The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036), art. 1, Sch. 1 para. 125 (with Sch. 3)
+[^F281]: Words in Sch. 5 para. 3(1)(b) substituted (1.7.2013) by The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036), art. 1, Sch. 1 para. 125 (with Sch. 3)
+[^F282]: Definition in Sch. 6 para. 1(1) repealed (1.10.1996) by 1996 c. 52, ss. 107, 227, Sch. 10 para. 18(2)(a), Sch. 19 Pt.V; S.I. 1996/2212, art. 2(2) (with savings in Sch.)
+[^F283]: Words in Sch. 6 para. 1(1) repealed (28.2.2005 for E., 31.5.2005 for W.) by Commonhold and Leasehold Reform Act 2002 (c. 15), s. 181(1), Sch. 14; S.I. 2004/3056, art. 3(j); S.I. 2005/1353, art. 2(j)
+[^F284]: Words in Sch. 6 para. 2(1) inserted (1.10.1996) by 1996 c. 52, s. 107, Sch. 10 para. 18(3)(a); S.I. 1996/2212, art. 2(2) (with savings in Sch.)
+[^F285]: Words in Sch. 6 para. 2(1) substituted (1.10.1996) by 1996 c. 52, s. 107, Sch. 10 para. 18(3)(b); S.I. 1996/2212, art. 2(2) (with savings in Sch.)
+[^F286]: Words in Sch. 6 substituted (28.2.2005 for E., 31.5.2005 for W.) by Commonhold and Leasehold Reform Act 2002 (c. 15), ss. 126(1), 181(1); S.I. 2004/3056, art. 3(a) (with art. 4(1)(1A)) (as amended by S.I. 2005/193, art. 2); S.I. 2005/1353, art. 2(a) (with art. 3(2))
+[^F287]: Words in Sch. 6 para. 3(1) substituted (1.10.1996) by 1996 c. 52, s. 109(2); S.I. 1996/2212, art. 2(2) (with savings in Sch.)
+[^F288]: Sch. 6 para. 3(1A) inserted (1.10.1996) by 1996 c. 52, s. 109(3); S.I. 1996/2212, art. 2(2) (with savings in Sch.)
+[^F289]: Sch. 6 para. 3(1A)(ba) inserted (1.10.1996) by 1996 c. 52, s. 107, Sch. 10 para. 18(4); S.I. 1996/2212, art. 2(2) (with savings in Sch.)
+[^F290]: Words in s. Sch. 6 para. 4(1) substituted (26.7.2002 for E. and 1.1.2003 for W.) by Commonhold and Leasehold Reform Act 2002 (c. 15), s. 127; S.I. 2002 1912, {art. 2(b)(i)} (subject to Sch. 2); S.I. 2002/3012, art. 2(b)(i) (subject to Sch. 2)
+[^F291]: Words in Sch. 6 para. 4(2) inserted (26.7.2002 for E. and 1.1.2003 for W.) by Commonhold and Leasehold Reform Act 2002 (c. 15), s. 128(2); S.I. 2002/1912 {art. 2(b)(i)} (subject to Sch. 2); S.I. 2002/3012, art. 2(b)(i) (subject to Sch. 2)
+[^F292]: Sch. 6 para. 4(2A) inserted (26.7.2002 for E. and 1.1.2003 for W.) by Commonhold and Leasehold Reform Act 2002 (c. 15), s. 128(3); S.I. 2002/1912, art. 2(b)(i) (subject to Sch. 2); S.I. 2002/3012, art. 2(b)(i) (subject to Sch. 2)
+[^F293]: Sch. 6 para. 5A-5C and cross heading inserted (1.10.1996) by 1996 c. 52, s. 107, Sch. 10 para. 18(5); S.I. 1996/2212, art. 2(2) (with saving in Sch.)
+[^F294]: Sch. 6 para. 5A-5C and cross heading inserted (1.10.1996) by 1996 c. 52, s. 107, Sch. 10 para. 18(5); S.I. 1996/2212, art. 2(2) (with saving in Sch.)
+[^F295]: Sch. 6 para. 5A-5C and cross heading inserted (1.10.1996) by 1996 c. 52, s. 107, Sch. 10 para. 18(5); S.I. 1996/2212, art. 2(2) (with saving in Sch.)
+[^F296]: Sch. 6 para. 5A-5C and cross heading inserted (1.10.1996) by 1996 c. 52, s. 107, Sch. 10 para. 18(5); S.I. 1996/2212, art. 2(2) (with saving in Sch.)
+[^F297]: Sch. 6 para. 7(1A) inserted (1.10.1996) by 1996 c. 52, s. 109(4); S.I. 1996/2212, art. 2(2) (with saving in Sch.)
+[^F298]: Sch. 6 para. 7(2) substituted (12.5.2016) by Housing and Planning Act 2016 (c. 22), s. 216(1)(c), Sch. 10 para. 4(2) (with Sch. 10 para. 4(6))
+[^F299]: Words in Sch. 6 para. 7(4) substituted (12.5.2016) by Housing and Planning Act 2016 (c. 22), s. 216(1)(c), Sch. 10 para. 4(3)(a) (with Sch. 10 para. 4(6))
+[^F300]: Words in Sch. 6 para. 7(4) substituted (12.5.2016) by Housing and Planning Act 2016 (c. 22), s. 216(1)(c), Sch. 10 para. 4(3)(b) (with Sch. 10 para. 4(6))
+[^F301]: Sch. 6 para. 7(7)(8) omitted (12.5.2016) by virtue of Housing and Planning Act 2016 (c. 22), s. 216(1)(c), Sch. 10 para. 4(4) (with Sch. 10 para. 4(6))
+[^F302]: Sch. 6 para. 7(11) inserted (12.5.2016) by Housing and Planning Act 2016 (c. 22), s. 216(1)(c), Sch. 10 para. 4(5) (with Sch. 10 para. 4(6))
+[^F303]: Sch. 6 para. 8 substitued (1.10.1996) by 1996 c. 52, s. 107, Sch. 10 para. 18(6); S.I. 1996/2212, art. 2(2) (with savings in Sch.)
+[^F304]: Words in Sch. 6 para. 9(1) inserted (1.10.1996) by 1996 c. 52, s. 107, Sch. 10 para. 18(7); S.I. 1996/2212, art. 2(2) (with saving in Sch.)
+[^F305]: Sch. 6 para. 9A inserted (1.10.1996) by 1996 c. 52, s. 107, Sch. 10 para. 18(8); S.I. 1996/2212, art. 2(2) (with saving in Sch.)
+[^F306]: Sch. 6 para. 11(4) inserted (1.10.1996) by 1996 c. 52, s. 109(5); S.I. 1996/2212, art. 2(2) (with savings in Sch.)
+[^F307]: Sch. 6 para. 13 substituted (1.10.1996) by 1996 c. 52, s. 107, Sch. 10 para. 18(9); S.I. 1996/2212, art. 2(2) (with savings in Sch.)
+[^F308]: Words in Sch. 6 para. 14(1)(a) substituted (1.10.1996) by 1996 c. 52, s. 107, Sch. 10 para. 18(10)(a); S.I. 1996/2212, art. 2(2) (with saving in Sch.)
+[^F309]: Words in Sch. 6 para. 14(1)(b) substituted (1.10.1996) by 1996 c. 52, s. 107, Sch. 10 para. 18(10)(b); S.I. 1996/2212, art. 2(2) (with saving in Sch.)
+[^F310]: Words in Sch. 6 para. 14(1) substituted (1.10.1996) by 1996 c. 52, s. 107, Sch. 10 para. 18(10)(c); S.I. 1996/2212, art. 2(2) (with saving in Sch.)
+[^F311]: Sch. 6 para. 14(3A) inserted (1.10.1996) by 1996 c. 52, s. 107, Sch. 10 para. 18(11); S.I. 1996/2212, art. 2(2) (with saving in Sch.)
+[^F312]: Words in Sch. 6 para. 14(5)(a) substituted (1.10.1996) by 1996 c. 52, s. 107, Sch. 10 para. 18(12)(a); S.I. 1996/2212, art. 2(2) (with saving in Sch.)
+[^F313]: Words in Sch. 6 para. 14(5)(a) inserted (1.10.1996) by 1996 c. 52, s. 107, Sch. 10 para. 18(12)(b); S.I. 1996/2212, art. 2(2) (with saving in Sch.)
+[^F314]: Sch. 6 para. 15(4) inserted (1.10.1996) by 1996 c. 52, s. 107, Sch. 10 para. 18(13); S.I. 1996/2212, art. 2(2) (with saving in Sch.)
+[^F315]: Word in Sch. 6 para. 16(2) substituted (1.10.1996) by 1996 c. 52, s. 107, Sch. 10 para. 18(14); S.I. 1996/2212, art. 2(2) (with savings in Sch.)
+[^F316]: Words in Sch. 6 para. 17(4)(a) inserted (1.10.1996) by 1996 c. 52, s. 107, Sch. 10 para. 18(15); S.I. 1996/2212, art. 2(2) (with savings in Sch.)
+[^F317]: Sch. 6 para. 17(6) inserted (1.10.1996) by 1996 c. 52, s. 107, Sch. 10 para. 18(16); S.I. 1996/2212, art. 2(2) (with savings in Sch.)
+[^F318]: Sch. 7 para. 1(a)(b)(d) substituted (1.10.1996) by 1996 c. 52, s. 107, Sch. 10 para. 19; S.I. 1996/2212, art. 2(2) (with savings in Sch.)
+[^M79]: 1925 c. 20.
+[^F319]: Sch. 7 para. 2(2)(b) substituted (1.7.1995) by 1994 c. 36, ss. 20, 21(1), Sch. 1 para. 12(3); S.I. 1995/1317, art.2
+[^F320]: Words in Sch. 8 para. 4(3) substituted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 9 para. 52; S.I. 2014/954, art. 2(c) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F321]: Definitions in Sch. 9 para. 1 substituted (1.10.1996) by 1996 c. 52, s. 107, Sch. 10 para. 20(2); S.I. 1996/2212, art. 2(2) (with savings in Sch.)
+[^M80]: 1985 c. 69.
+[^F322]: Words in Sch. 9 para. 2 heading inserted (1.12.2022) by The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166), regs. 1(1), 22(5)(a)
+[^F323]: Words in Sch. 9 para. 2(1) substituted (1.10.1996) by 1996 c. 52, s. 107, Sch. 10 para. 20(3); S.I. 1996/2212, art. 2(2) (with saving in Sch.)
+[^F324]: Words in Sch. 9 para. 2(1) inserted (12.2.1997) by S.I. 1997/74, art. 2, Sch. para. 9(d)(i)
+[^F325]: Words in Sch. 9 para. 2(1) inserted (1.12.2022) by The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166), regs. 1(1), 22(5)(b)
+[^F326]: Words in Sch. 9 para. 2(1)(b) inserted (1.12.2022) by The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166), regs. 1(1), 22(5)(c)
+[^F327]: Sch. 9 para. 2(1A) inserted (1.10.1996) by 1996 c. 52, s. 107, Sch. 10 para. 20(3); S.I. 1996/2212, art. 2(2) (with savings in Sch.)
+[^F328]: Words in Sch. 9 para. 2(2) inserted (12.2.1997) by S.I. 1997/74, art. 2, Sch. para. 9(d)(ii)
+[^F329]: Words in Sch. 9 para. 2(2) inserted (1.12.2022) by The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166), regs. 1(1), 22(5)(d)
+[^F330]: Words in Sch. 9 para. 3 heading inserted (1.12.2022) by The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166), regs. 1(1), 22(5)(e)
+[^F331]: Words in Sch. 9 para. 3(1) substituted (1.10.1996) by 1996 c. 52, s. 107, Sch. 10 para. 20(4); S.I. 1996/2212, art. 2(2) (with savings in Sch.)
+[^F332]: Words in Sch. 9 para. 3(1) inserted (1.12.2022) by The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166), regs. 1(1), 22(5)(f)
+[^F333]: Sch. 9 para. 3(1A) inserted (1.10.1996) by 1996 c. 52, s. 107, Sch. 10 para. 20(4); S.I. 1996/2212, art. 2(2) (with savings in Sch.)
+[^F334]: Words in Sch. 9 para. 4(1) substituted (1.7.2013) by The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036), art. 1, Sch. 1 para. 126(a) (with Sch. 3)
+[^F335]: Words in Sch. 9 para. 4(2) substituted (1.7.2013) by The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036), art. 1, Sch. 1 para. 126(b) (with Sch. 3)
+[^F336]: Words in Sch. 9 para. 4(3) inserted (12.2.1997) by S.I. 1997/74, art. 2, Sch. para. 9(d)(iii)
+[^F337]: Words in Sch. 9 para. 4(3) inserted (1.12.2022) by The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166), regs. 1(1), 22(5)(g)
+[^F338]: Sch. 9 para. 4A inserted (1.12.2022) by The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166), regs. 1(1), 22(5)(h)
+[^F339]: Words in Sch. 9 para. 5(1) substituted (1.10.1996) by 1996 c. 52, s. 107, Sch. 10 para. 20(5); S.I. 1996/2212, art. 2(2) (with savings in Sch.)
+[^F340]: Sch. 9 para. 5(1A) inserted (1.10.1996) by 1996 c. 52, s. 107, Sch. 10 para. 20(5); S.I. 1996/2212, art. 2(2) (with savings in Sch.)
+[^F341]: Sch. 9 para. 6(1)(2) substituted (1.10.1996) by 1996 c. 52, s. 107, Sch. 10 para. 20(6); S.I. 1996/2212, art. 2(2) (with savings in Sch.)
+[^F342]: Words in Sch. 9 para. 6(3) substituted (1.10.1996) by 1996 c. 52, s. 107, Sch. 10 para. 20(7); S.I. 1996/2212, art. 2(2) (with savings in Sch.)
+[^F343]: Words in Sch. 9 para. 7(1)(b) substituted (1.7.2013) by The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036), art. 1, Sch. 1 para. 126(a) (with Sch. 3)
+[^F344]: Words in Sch. 9 para. 7(2) substituted (1.7.2013) by The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036), art. 1, Sch. 1 para. 126(b) (with Sch. 3)
+[^M81]: 1925 c. 20.
+[^F345]: Sch. 9 para. 9A and cross heading inserted (1.7.1995) by 1994 c. 36, s. 20, 21(1), Sch. 1 para. 12(4); S.I. 1995/1317, art.2
+[^F346]: Sch. 9 para. 9A and cross heading inserted (1.7.1995) by 1994 c. 36, s. 20, 21(1), Sch. 1 para. 12(4); S.I. 1995/1317, art. 2
+[^M82]: 1985 c. 68.
+[^M83]: 1988 c. 50.
+[^F347]: Sch. 10 para. 1(2)(b)(ba)(bb) substituted for Sch. 10 para. 1(2)(b) (1.4.2010) by The Housing and Regeneration Act 2008 (Consequential Provisions) Order 2010 (S.I. 2010/866), art. 1(2), Sch. 2 para. 79 (with art. 6, Sch. 3)
+[^F348]: Words in Sch. 10 para. 1(2)(b) substituted (6.4.2017) by Housing and Planning Act 2016 (c. 22), s. 216(3), Sch. 4 para. 6; S.I. 2017/75, reg. 4
+[^F349]: Word in Sch. 10 para. 1(2)(ba) substituted (15.8.2018) by Regulation of Registered Social Landlords (Wales) Act 2018 (anaw 4), s. 19(2), Sch. 2 para. 1(a); S.I. 2018/777, art. 3(g)
+[^F350]: Words in Sch. 10 para. 1(2)(c) omitted (15.8.2018) by virtue of Regulation of Registered Social Landlords (Wales) Act 2018 (anaw 4), s. 19(2), Sch. 2 para. 1(b); S.I. 2018/777, art. 3(g)
+[^F351]: Sch. 10 para. 1(2)(d) repealed (1.10.1996) by 1996 c. 52, s. 227, Sch. 19 Pt.IX; 1996/2402, art.3 (with savings in Sch.)
+[^F352]: Words in Sch. 10 para. 2(2) inserted (12.2.1997) by S.I. 1997/74, art. 2, Sch. para. 9(e)(i)
+[^F353]: Words in Sch. 10 para. 2(3)(a) inserted (12.2.1997) by S.I. 1997/74, art. 2, Sch. para. 9(e)(ii)
+[^M84]: 1985 c. 68.
+[^F354]: Words in Sch. 10 para. 2(4) inserted (12.2.1997) by S.I. 1997/74, art. 2, Sch. para. 9(e)(iii)
+[^F355]: Words in Sch. 10 para. 2(6)(a) inserted (12.2.1997) by S.I. 1997/74, art. 2, Sch. para. 9(e)(iv)
+[^M85]: 1985 c. 68.
+[^F356]: Words in Sch. 10 para. 2(7) inserted (12.2.1997) by S.I. 1997/74, art. 2, Sch. para. 9(e)(v)
+[^F357]: Words in Sch. 11 para. 6(1)(c) substituted (1.7.2013) by The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036), art. 1, Sch. 1 para. 127 (with Sch. 3)
+[^M86]: 1989 c. 42.
+[^M87]: 1954 c. 56.
+[^M88]: 1954 c. 56.
+[^M89]: 1989 c. 42.
+[^M90]: 1954 c. 56.
+[^M91]: 1989 c. 42.
+[^M92]: 1925 c. 20.
+[^M93]: 1954 c. 56.
+[^M94]: 1989 c. 42.
+[^F358]: Sch. 13 para. 1: definition of "the valuation date" repealed (26.7.2002 for E. and 1.1.2003 for W.) by Commonhold and Leasehold Reform Act 2002 (c. 15), s. 180, Sch. 14, S.I. 2002/1912, {art. 2(b)(ii)}, Sch. 1 Pt. 1 (subject to Sch. 2); S.I. 2002/3012, art. 2(b)(ii), Sch. 1 Pt. 1 (subject to Sch. 2)
+[^F359]: Words in Sch. 13 para. 3 substituted (26.7.2002 for E. and 1.1.2003 for W.) by Commonhold and Leasehold Reform Act 2002 (c. 15), s. 134; S.I. 2002/1912, art. 2(b)(i) (subject to Sch. 2); S.I. 2002/3012, art. 2(b)(i) (subject to Sch. 2)
+[^F360]: Words in Sch. 13 para. 3(2) substituted (24.7.1996) by 1996 c. 52, ss. 110(2)(5), 232(1)
+[^F361]: Words in Sch. 13 para. 4(1) substituted (26.7.2002 for E. and 1.1.2003 for W.) by Commonhold and Leasehold Reform Act 2002 (c. 15), s. 135; S.I. 2002/1912, art. 2(b)(i) (subject to Sch. 2); S.I. 2002/3012, art. 2(b)(i) (subject to Sch. 2)
+[^F362]: Words in Sch. 13 para. 4(2) substituted (26.7.2002 for E. and 1.1.2003 for W.) by Commonhold and Leasehold Reform Act 2002 (c. 15), s. 136(2); S.I. 2002/1912, art. 2(b)(i) (subject to Sch. 2); S.I. 2002/3012, art. 2(b)(i) (subject to Sch. 2)
+[^F363]: Sch. 13 para. 4(2A) inserted (26.7.2002 for E. and 1.1.2003 for W.) by Commonhold and Leasehold Reform Act 2002 (c. 15), s. 136(3); S.I. 2002/1912, art. 2(b)(i) (subject to Sch. 2); S.I. 2002/3012, art. 2(b)(i) (subject to Sch. 2)
+[^F364]: Sch. 13 para. 4(3)(a)(aa) substituted (24.7.1996) for para. 4(3)(a) by 1996 c. 52, ss. 110(3)(5), 232(1)
+[^F365]: Words in Sch. 13 para. 4(3)(b) substituted (24.7.1996) by 1996 c. 52, ss. 110(3)(5), 232(1)
+[^F366]: Words in Sch. 13 para. 4 substituted (26.7.2002 for E. and 1.1.2003 for W.) by Commonhold and Leasehold Reform Act 2002 (c. 15), s. 134; S.I. 2002/1912, art. 2(b)(i) (subject to Sch. 2); S.I. 2002/3012, art. 2(b)(i) (subject to Sch. 2)
+[^F367]: Sch. 13 para. 4A inserted (24.7.1996) by 1996 c. 52, ss. 110(4)(5), 232(1)
+[^F368]: Words in Sch. 13 para. 4A substituted (26.7.2002 for E. and 1.1.2003 for W.) by Commonhold and Leasehold Reform Act 2002 (c. 15), s. 134; S.I. 2002/1912, art. 2(b)(i) (subject to Sch. 2); S.I. 2002/3012, art. 2(b)(i) (subject to Sch. 2)
+[^F369]: Words in Sch. 13 para. 4A(5)(b) substituted (1.7.2013) by The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036), art. 1, Sch. 1 para. 128 (with Sch. 3)
+[^F370]: Sch. 13 para. 4B inserted (24.7.1996) by 1996 c. 52, ss. 110(4)(5), 232(1)
+[^F371]: Words in Sch. 13 para. 4B substituted (26.7.2002 for E. and 1.1.2003 for W.) by Commonhold and Leasehold Reform Act 2002 (c. 15), s. 134; S.I. 2002/1912, art. 2(b)(i) (subject to Sch. 2); S.I. 2002/3012, art. 2(b)(i) (subject to Sch. 2)
+[^F372]: Words in Sch. 13 para. 4B(5)(b) substituted (1.7.2013) by The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036), art. 1, Sch. 1 para. 128 (with Sch. 3)
+[^F373]: Words in Sch. 13 para. 7 substituted (26.7.2002 for E. and 1.1.2003 for W.) by Commonhold and Leasehold Reform Act 2002 (c. 15), s. 134; S.I. 2002/1912, art. 2(b)(i) (subject to Sch. 2); S.I. 2002/3012, art. 2(b)(i) (subject to Sch. 2)
+[^F374]: Sch. 13 para. 8(2) substituted (12.5.2016) by Housing and Planning Act 2016 (c. 22), s. 216(1)(c), Sch. 10 para. 5(2) (with Sch. 10 para. 5(5))
+[^F375]: Sch. 13 para. 8(6)(7) omitted (12.5.2016) by virtue of Housing and Planning Act 2016 (c. 22), s. 216(1)(c), Sch. 10 para. 5(3) (with Sch. 10 para. 5(5))
+[^F376]: Words in Sch. 13 para. 8 substituted (26.7.2002 for E. and 1.1.2003 for W.) by Commonhold and Leasehold Reform Act 2002 (c. 15), s. 134; S.I. 2002/1912, art. 2(b)(i) (subject to Sch. 2); S.I. 2002/3012, art. 2(b)(i) (subject to Sch. 2)
+[^F377]: Sch. 13 para. 8(10) inserted (12.5.2016) by Housing and Planning Act 2016 (c. 22), s. 216(1)(c), Sch. 10 para. 5(4) (with Sch. 10 para. 5(5))
+[^F378]: Words in Sch. 14 para. 2(1) substituted (1.7.2013) by The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036), art. 1, Sch. 1 para. 129 (with Sch. 3)
+[^M95]: 1977 c. 42.
+[^M96]: 1976 c. 80.
+[^M97]: 1988 c. 50.
+[^F379]: Words in Sch. 14 para. 4 substituted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 9 para. 52; S.I. 2014/954, art. 2(c) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F380]: Words in Sch. 14 para. 4 omitted (22.4.2014) by virtue of Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 9 para. 100; S.I. 2014/954, art. 2(c) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^M98]: 1927 c. 36.
+[^M99]: 1954 c. 56.
+[^F381]: Words in Sch. 14 para. 7(1) substituted (1.1.1997) by 1996 c. 47, s. 25(1), Sch. 3 para. 27(3)(a) (with ss. 24(2), 25(4)(5)); S.I. 1996/2974, art.2
+[^F382]: Words in Sch. 14 para. 9(a) substituted (1.1.1997) by 1996 c. 47, s. 25(1), Sch. 3 para. 27(3)(b) (with ss. 24(2), 25(4)(5)); S.I. 1996/2974, art.2
+[^F383]: Sch. 14 para. 10 omitted (19.5.2025) by virtue of Charities Act 2022 (c. 6), s. 41(4), Sch. 1 para. 18(3); S.I. 2024/265, reg. 4, Sch. 2 para. 3
+[^F384]: Words in Sch. 14 para. 11(a) substituted (coming into force in accordance with s. 53(3) of the amending Measure) by Cathedrals Measure 2021 (No. 2), Sch. 4 para. 25 (with ss. 42(4), 48, 52(1))
+[^F385]: Sch. 14 para. 12(2) substituted (E.) (1.3.2019) by Church Property Measure 2018 (No. 8), s. 53(2), Sch. 1 para. 20; S.I. 2019/97, art. 2
+[^M100]: 1973 c. 18.
+[^M101]: 1975 c. 63.
+[^F386]: Schs. 17-20 repealed (1.12.2008 except for the repeal of Schs. 17, 18, 1.4.2009 in so far as not already in force) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 8 para. 63(2)(b), Sch. 16; S.I. 2008/3068, arts. 2(1)(w)(3), 5, Sch. (with arts. 6-13); S.I. 2009/803, arts. 3(2)(3), 10
+[^F387]: Sch. 21 para. 1 repealed (13.10.2003) by Land Registration Act 2002 (c. 9), s. 136(2), Sch. 13 (with s. 129, Sch. 12 para. 1); S.I. 2003/1725, art. 2(1)
+[^F388]: Sch. 21 para. 2 and cross-heading repealed (E.W.) (1.4.2009) by The Housing and Regeneration Act 2008 (Consequential Provisions) Order 2008 (S.I. 2008/3002), art. 1(3), Sch. 1 para. 44, Sch. 3 (with Sch. 2) (see S.I. 2009/803, arts. 1(2), 3, 10)
+[^F389]: Sch. 21 para. 3 and cross-heading repealed (1.12.2008) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 16; S.I. 2008/3068, art. 5, Sch. (with arts. 6-13)
+[^M102]: 1967 c. 88.
+[^F390]: Sch. 21 para. 32 and cross-heading repealed (1.12.2008) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 16; S.I. 2008/3068, art. 5, Sch. (with arts. 6-13)

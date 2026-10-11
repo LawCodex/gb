@@ -1,0 +1,360 @@
+---
+title: "Criminal Justice (Terrorism and Conspiracy) Act 1998"
+identifier: "ukpga/1998/40"
+citation: "1998 c. 40"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S+N.I."
+date: 1998-09-04
+last_amended: 2010-12-01
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/1998/40"
+source_modified: 2016-08-18
+retrieved: 2026-10-11
+---
+
+# Criminal Justice (Terrorism and Conspiracy) Act 1998
+
+**1998 c. 40**
+
+An Act to make provision about procedure and forfeiture in relation to offences concerning proscribed organisations, and about conspiracy to commit offences outside the United Kingdom.
+
+[4th September 1998]
+
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## Proscribed organisations
+
+### [^F1]1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F2]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F3]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F4]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Conspiracy to commit offences outside the United Kingdom
+
+### 5 England and Wales.
+
+(1) The following section shall be inserted after section 1 of the [^M1]Criminal Law Act 1977 (conspiracy)—
+
+> **1A Conspiracy to commit offences outside the United Kingdom.**
+>
+> (1) Where each of the following conditions is satisfied in the case of an agreement, this Part of this Act has effect in relation to the agreement as it has effect in relation to an agreement falling within section 1(1) above.
+>
+> (2) The first condition is that the pursuit of the agreed course of conduct would at some stage involve—
+>
+> (a) an act by one or more of the parties, or
+>
+> (b) the happening of some other event,
+>
+> intended to take place in a country or territory outside the United Kingdom.
+>
+> (3) The second condition is that that act or other event constitutes an offence under the law in force in that country or territory.
+>
+> (4) The third condition is that the agreement would fall within section 1(1) above as an agreement relating to the commission of an offence but for the fact that the offence would not be an offence triable in England and Wales if committed in accordance with the parties’ intentions.
+>
+> (5) The fourth condition is that—
+>
+> (a) a party to the agreement, or a party’s agent, did anything in England and Wales in relation to the agreement before its formation, or
+>
+> (b) a party to the agreement became a party in England and Wales (by joining it either in person or through an agent), or
+>
+> (c) a party to the agreement, or a party’s agent, did or omitted anything in England and Wales in pursuance of the agreement.
+>
+> (6) In the application of this Part of this Act to an agreement in the case of which each of the above conditions is satisfied, a reference to an offence is to be read as a reference to what would be the offence in question but for the fact that it is not an offence triable in England and Wales.
+>
+> (7) Conduct punishable under the law in force in any country or territory is an offence under that law for the purposes of this section, however it is described in that law.
+>
+> (8) Subject to subsection (9) below, the second condition is to be taken to be satisfied unless, not later than rules of court may provide, the defence serve on the prosecution a notice—
+>
+> (a) stating that, on the facts as alleged with respect to the agreed course of conduct, the condition is not in their opinion satisfied,
+>
+> (b) showing their grounds for that opinion, and
+>
+> (c) requiring the prosecution to show that it is satisfied.
+>
+> (9) The court may permit the defence to require the prosecution to show that the second condition is satisfied without the prior service of a notice under subsection (8) above.
+>
+> (10) In the Crown Court the question whether the second condition is satisfied shall be decided by the judge alone, and shall be treated as a question of law for the purposes of—
+>
+> (a) section 9(3) of the [^M2]Criminal Justice Act 1987 (preparatory hearing in fraud cases), and
+>
+> (b) section 31(3) of the [^M3]Criminal Procedure and Investigations Act 1996 (preparatory hearing in other cases).
+>
+> (11) Any act done by means of a message (however communicated) is to be treated for the purposes of the fourth condition as done in England and Wales if the message is sent or received in England and Wales.
+>
+> (12) In any proceedings in respect of an offence triable by virtue of this section, it is immaterial to guilt whether or not the accused was a British citizen at the time of any act or other event proof of which is required for conviction of the offence.
+>
+> (13) References in any enactment, instrument or document (except those in this Part of this Act) to an offence of conspiracy to commit an offence include an offence triable in England and Wales as such a conspiracy by virtue of this section (without prejudice to subsection (6) above).
+>
+> (14) Nothing in this section—
+>
+> (a) applies to an agreement entered into before the day on which the Criminal Justice (Terrorism and Conspiracy) Act 1998 was passed, or
+>
+> (b) imposes criminal liability on any person acting on behalf of, or holding office under, the Crown.
+
+(2) At the end of section 4 of that Act (restrictions on the institution of proceedings) there shall be added—
+
+> (5) Subject to subsection (6) below, no proceedings for an offence triable by virtue of section 1A above may be instituted except by or with the consent of the Attorney General.
+>
+> (6) The Secretary of State may by order provide that subsection (5) above shall not apply, or shall not apply to any case of a description specified in the order.
+>
+> (7) An order under subsection (6) above—
+>
+> (a) shall be made by statutory instrument, and
+>
+> (b) shall not be made unless a draft has been laid before, and approved by resolution of, each House of Parliament.
+
+### 6 Northern Ireland.
+
+(1) The provision set out in section 5(1) shall be inserted after Article 9 of the [^M4]Criminal Attempts and Conspiracy (Northern Ireland) Order 1983 (conspiracy) as Article 9A, with the following modifications—
+
+(a) for “this Part of this Act” substitute “ this Part ”;
+
+(b) for “section 1(1) above” substitute “ Article 9(1) ”;
+
+(c) for “England and Wales” substitute “ Northern Ireland ”;
+
+(d) for “subsection (9) below” substitute “ paragraph (9) ”;
+
+(e) for “subsection (8) above” substitute “ paragraph (8) ”;
+
+(f) for “section 9(3) of the [^M5]Criminal Justice Act 1987” substitute “ Article 8(3) of the [^M6]Criminal Justice (Serious Fraud) (Northern Ireland) Order 1988 ”;
+
+(g) for “this section” substitute “ this article ”; and
+
+(h) for “subsection (6) above” substitute “ paragraph (6) ”.
+
+(2) At the end of Article 12 of that Order (restrictions on the institution of proceedings) there shall be added—
+
+> (5) Subject to paragraph (6), no proceedings for an offence triable by virtue of Article 9 above may be instituted except by or with the consent of the Attorney General for Northern Ireland.
+>
+> (6) The Secretary of State may by order provide that paragraph (5) shall not apply, or shall not apply to any case of a description specified in the order.
+>
+> (7) No order shall be made under paragraph (6) unless a draft has been laid before, and approved by resolution of, each House of Parliament.
+
+### 7 Scotland.
+
+(1) The following section shall be inserted after section 11 of the [^M7]Criminal Procedure (Scotland) Act 1995 (certain offences committed outside Scotland)—
+
+> **11A Conspiracy to commit offences outside the United Kingdom.**
+>
+> (1) This section applies to any act done by a person in Scotland which would amount to conspiracy to commit an offence but for the fact that the criminal purpose is intended to occur in a country or territory outside the United Kingdom.
+>
+> (2) Where a person does an act to which this section applies, the criminal purpose shall be treated as the offence mentioned in subsection (1) above and he shall, accordingly, be guilty of conspiracy to commit the offence.
+>
+> (3) A person is guilty of an offence by virtue of this section only if the criminal purpose would involve at some stage—
+>
+> (a) an act by him or another party to the conspiracy; or
+>
+> (b) the happening of some other event,
+>
+> constituting an offence under the law in force in the country or territory where the act or other event was intended to take place; and conduct punishable under the law in force in the country or territory is an offence under that law for the purposes of this section however it is described in that law.
+>
+> (4) Subject to subsection (6) below, a condition specified in subsection (3) above shall be taken to be satisfied unless, not later than such time as High Court may, by Act of Adjournal, prescribe, the accused serves on the prosecutor a notice—
+>
+> (a) stating that, on the facts as alleged with respect to the relevant conduct, the condition is not in his opinion satisfied;
+>
+> (b) setting out the grounds for his opinion; and
+>
+> (c) requiring the prosecutor to prove that the condition is satisfied.
+>
+> (5) In subsection (4) above “the relevant conduct” means the agreement to effect the criminal purpose.
+>
+> (6) The court may permit the accused to require the prosecutor to prove that the condition mentioned in subsection (4) above is satisfied without the prior service of a notice under that subsection.
+>
+> (7) In proceedings on indictment, the question whether a condition is satisfied shall be determined by the judge alone.
+>
+> (8) Nothing in this section—
+>
+> (a) applies to an act done before the day on which the Criminal Justice (Terrorism and Conspiracy) Act 1998 was passed, or
+>
+> (b) imposes criminal liability on any person acting on behalf of, or holding office under, the Crown.
+
+## General
+
+### [^F5]8 Report to Parliament.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 9 Consequential amendments and repeals.
+
+(1) Schedule 1 (consequential amendments) shall have effect.
+
+(2) The enactments specified in Schedule 2 are hereby repealed or revoked to the extent specified.
+
+(3) The amendments in Part II of Schedule 1, and the repeals and revocations in Part II of Schedule 2, shall have no effect—
+
+(a) in England and Wales and Northern Ireland, in relation to an agreement entered into before the day on which this Act is passed, or
+
+(b) in Scotland, in relation to an act done before the day on which this Act is passed.
+
+### 10 Extent.
+
+A provision of this Act which amends, repeals or revokes an enactment shall have the same extent as the enactment which it amends, repeals or revokes.
+
+### 11 Short title.
+
+This Act may be cited as the Criminal Justice (Terrorism and Conspiracy) Act 1998.
+
+## SCHEDULE 1 — Consequential Amendments
+
+*Section 9(1).*
+
+### [^F6]Part I — Proscribed Organisations
+
+#### Criminal Justice Act 1988 (c.33)
+
+**1** In section 74(2) of the Criminal Justice Act 1988 (property not realisable) the word “or” at the end of paragraph (c) shall be omitted and at the end of paragraph (d) there shall be inserted
+
+> or
+>
+> (e) an order under section 4(3) of the Criminal Justice (Terrorism and Conspiracy) Act 1998 (forfeiture orders),
+
+.
+
+#### Prevention of Terrorism (Temporary Provisions) Act 1989 (c.4)
+
+**2** In Schedule 3 to the Prevention of Terrorism (Temporary Provisions) Act 1989 (supervision of detention and examination powers) in paragraph 3(3)(a)(i) for “(in the case of detention under section 14) or under section 8” there shall be substituted “ or under section 30 of the Northern Ireland (Emergency Provisions) Act 1996 (in the case of detention under section 14 of this Act) or under section 8 of this Act ”.
+
+#### Drug Trafficking Act 1994 (c.37)
+
+**3** In section 6(3) of the Drug Trafficking Act 1994 (property not realisable) after paragraph (e) there shall be inserted—
+
+> (f) section 4(3) of the Criminal Justice (Terrorism and Conspiracy) Act 1998 (forfeiture orders).
+
+### Part II — Conspiracy
+
+#### Criminal Law Act 1977 (c. 45)
+
+**4** In section 1 of the Criminal Law Act 1977 (conspiracy) the following shall cease to have effect—
+
+(a) subsections (1A) and (1B),
+
+(b) in subsection (4), the words from “except that” to the end, and
+
+(c) subsections (5) and (6).
+
+#### Criminal Attempts and Conspiracy (Northern Ireland) Order 1983 (S.I. 1983/1120 (N.I. 13)).
+
+**5** In Article 9 of the Criminal Attempts and Conspiracy (Northern Ireland) Order 1983 (conspiracy) the following shall cease to have effect—
+
+(a) paragraphs (1A) and (1B),
+
+(b) in paragraph (4), the words from “except that” to the end, and
+
+(c) paragraphs (5) and (6).
+
+#### Computer Misuse Act 1990 (c. 18)
+
+**6** (1) In section 8 of the Computer Misuse Act 1990 (relevance of external law)—
+
+(a) subsection (2) shall cease to have effect,
+
+(b) in subsection (5), for “any of subsections (1) to (3)” there shall be substituted “ subsection (1) or (3) ”, and
+
+(c) subsection (6)(b) shall cease to have effect.
+
+(2) Section 9(2)(b) of that Act (British citizenship immaterial: conspiracy) shall cease to have effect.
+
+(3) In section 16 of that Act (application to Northern Ireland)—
+
+(a) in subsection (4), for “Subsections (5) to (7) below apply in substitution for subsections (1) to (3) of section 7” there shall be substituted “ Subsection (7) below shall apply in substitution for subsection (3) of section 7 ”, and
+
+(b) subsections (5), (6) and (8)(a) shall cease to have effect.
+
+#### Criminal Justice Act 1993 (c. 36)
+
+**7** (1) Section 5(1) of the Criminal Justice Act 1993 (conspiracy, attempt and incitement) shall cease to have effect.
+
+(2) In section 6(1) of that Act (relevance of external law) the words “by virtue of section 1A of the Criminal Law Act 1977, or” shall cease to have effect.
+
+#### Criminal Law (Consolidation) (Scotland) Act 1995 (c. 39)
+
+**[^F7]8** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Sexual Offences (Conspiracy and Incitement) Act 1996 (c. 29)
+
+**9** (1) Section 1 of the Sexual Offences (Conspiracy and Incitement) Act 1996 (conspiracy to commit certain sexual acts outside the United Kingdom) shall cease to have effect.
+
+(2) Section 3 of that Act (supplementary) shall be amended as follows—
+
+(a) in subsection (1) for “sections 1 and 2” substitute “ section 2 ”,
+
+(b) in subsection (2)—
+
+(i) omit “1(3) or”, and
+
+(ii) for “the relevant conduct” substitute “ what the accused had in view ”,
+
+(c) omit subsection (3),
+
+(d) in subsection (6) omit “1 or”,
+
+(e) omit subsection (7), and
+
+(f) in subsection (9)—
+
+(i) for “Subsections (7) and (8) apply” substitute “ Subsection (8) applies ”, and
+
+(ii) for “sections 1 and 2” substitute “ section 2 ”.
+
+(3) Section 4(b) and (c) of that Act (application to Northern Ireland) shall cease to have effect.
+
+(4) In section 7(3) of that Act (commencement), the word “1” shall cease to have effect.
+
+#### Criminal Justice (Northern Ireland) Order 1996 (S.I. 1996/3160 (N.I. 24))
+
+**10** (1) Article 42(1)(b) of the Criminal Justice (Northern Ireland) Order 1996 (attempt, conspiracy and incitement) shall cease to have effect.
+
+(2) In Article 43(2) of that Order (relevance of external law) the words “by virtue of Article 9A of that Order, or” shall cease to have effect.
+
+## SCHEDULE 2 — Repeals and Revocations
+
+*Section 9(2).*
+
+### [^F8]Part I — Proscribed Organisations
+
+### Part II — Conspiracy
+
+|  |  |  |
+|---|---|---|
+| Chapter | Short title | Extent of repeal |
+| 1977 c. 45. | Criminal Law Act 1977. | In section 1, subsections (1A) and (1B), the words in subsection (4) from “except that” to the end, and subsections (5) and (6). |
+| S.I. 1983/1120 (N.I. 13). | Criminal Attempts and Conspiracy (Northern Ireland) Order 1983 | In Article 9, paragraphs (1A) and (1B), the words in paragraph (4) from “except that” to the end, and paragraphs (5) and (6). |
+| 1990 c. 18. | Computer Misuse Act 1990. | Section 7(1) and (2). |
+|  |  | Section 8(2) and (6)(b). |
+|  |  | Section 9(2)(b). |
+|  |  | Section 16(5), (6) and (8)(a). |
+| 1993 c. 36. | Criminal Justice Act 1993. | Section 5(1). |
+|  |  | In section 6(1), the words “by virtue of section 1A of the Criminal Law Act 1977, or”. |
+| 1995 c. 39. | Criminal Law (Consolidation) (Scotland) Act 1995. | In section 16A, in subsection (1) the words “conspiracy or” and “the criminal purpose or, as the case may be,”, in subsection (2) the words “the criminal purpose or, as the case may be,” and “conspiracy or”, in subsection (3) paragraph (a) and the words “(b) in the case of proceedings charging incitement” and in subsection (5) paragraph (a) and the words “(b) in relation to proceedings charging incitement”. |
+| 1996 c. 29. | Sexual Offences (Conspiracy and Incitement) Act 1996. | Section 1. |
+|  |  | In section 3, the words “1(3) or” in subsection (2), subsection (3), the words “1 or” in subsection (6) and subsection (7). |
+|  |  | Section 4(b) and (c). |
+|  |  | In section 7(3), the word “1”. |
+| S.I. 1996/3160 (N.I. 24). | Criminal Justice (Northern Ireland) Order 1996. | Article 42(1)(b). |
+|  |  | In Article 43(2), the words “by virtue of Article 9A of that Order, or”. |
+
+---
+
+[^F1]: S. 1 repealed (19.2.2001) by 2000 c. 11, s. 125, Sch. 16 Pt. I; S.I. 2001/421, art. 2 (with art. 3)
+[^F2]: S. 2 repealed (19.2.2001) by 2000 c. 11, s. 125, Sch. 16 Pt. I; S.I. 2001/421, art. 2 (with art. 3)
+[^F3]: S. 3 repealed (19.2.2001) by 2000 c. 11, s. 125, Sch. 16 Pt. I; S.I. 2001/421, art. 2 (with art. 3)
+[^F4]: S. 4 repealed (19.2.2001) by 2000 c. 11, s. 125, Sch. 16 Pt. I; S.I. 2001/421, art. 2 (with art. 3)
+[^M1]: 1977 c. 45.
+[^M2]: 1987 c. 38.
+[^M3]: 1996 c. 25.
+[^M4]: S.I. 1983/1120 (N.I. 13).
+[^M5]: 1987 c. 38.
+[^M6]: S.I. 1988/1846 (N.I. 16).
+[^M7]: 1995 c. 43.
+[^F5]: S. 8 repealed (8.7.2008) by Criminal Justice and Immigration Act 2008 (c. 4), ss. 62(1), 153(2)(a), Sch. 28 Pt. 4
+[^F6]: Sch. 1 Pt. I repealed (19.2.2001) by 2000 c. 11, s. 125, Sch. 16 Pt. I; S.I. 2001/421, art. 2 (with art. 3)
+[^F7]: Sch. 1 para. 8 repealed (1.12.2010) by Sexual Offences (Scotland) Act 2009 (asp 9), s. 62(2), Sch. 6; S.S.I. 2010/357, art. 2(a)
+[^F8]: Sch. 2 Pt. I repealed (19.2.2001) by 2000 c. 11, s. 125, Sch. 16 Pt. I; S.I. 2001/421, art. 2 (with art. 3)

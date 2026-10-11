@@ -1,0 +1,16406 @@
+---
+title: "Marine and Coastal Access Act 2009"
+identifier: "ukpga/2009/23"
+citation: "2009 c. 23"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S+N.I."
+date: 2009-11-12
+last_amended: 2026-08-09
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/2009/23"
+source_modified: 2026-09-16
+retrieved: 2026-10-11
+---
+
+# Marine and Coastal Access Act 2009
+
+**2009 c. 23**
+
+An Act to make provision in relation to marine functions and activities; to make provision about migratory and freshwater fish; to make provision for and in connection with the establishment of an English coastal walking route and of rights of access to land near the English coast; to enable the making of Assembly Measures in relation to Welsh coastal routes for recreational journeys and rights of access to land near the Welsh coast; to make further provision in relation to Natural England and the Countryside Council for Wales; to make provision in relation to works which are detrimental to navigation; to amend the Harbours Act 1964; and for connected purposes.
+
+[12th November 2009]
+
+Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## Part 1 — The Marine Management Organisation
+
+### Chapter 1 — Establishment
+
+#### 1 The Marine Management Organisation
+
+(1) There is to be a body known as the Marine Management Organisation (“the MMO”).
+
+(2) The MMO is to have the functions conferred on it by or under this Act or any other enactment.
+
+(3) Schedule 1 contains further provisions about the MMO.
+
+(4) Schedule 2 contains minor and consequential amendments relating to the MMO.
+
+#### 2 General objective
+
+(1) It is the duty of the MMO to secure that the MMO functions are so exercised that the carrying on of activities by persons in the MMO's area is managed, regulated or controlled—
+
+(a) with the objective of making a contribution to the achievement of sustainable development (see subsections (2) and (4) to (11)),
+
+(b) taking account of all relevant facts and matters (see subsection (3)), and
+
+(c) in a manner which is consistent and co-ordinated (see subsection (12)).
+
+Any reference in this Act to the MMO's “general objective” is a reference to the duty imposed on the MMO by this subsection.
+
+(2) In pursuit of its general objective, the MMO may take any action which it considers necessary or expedient for the purpose of furthering any social, economic or environmental purposes.
+
+(3) For the purposes of subsection (1)(b), the facts and matters that may be taken into account include each of the following—
+
+(a) scientific evidence, whether available to, or reasonably obtainable by, the MMO;
+
+(b) other evidence so available or obtainable relating to the social, economic or environmental elements of sustainable development;
+
+(c) such facts or matters not falling within paragraph (a) or (b) as the MMO may consider appropriate.
+
+See also section 24 (powers of MMO in relation to research).
+
+(4) The Secretary of State is to give the MMO guidance as to the manner in which the MMO is to seek to secure that the contribution to the achievement of sustainable development mentioned in subsection (1)(a) is made (and see also section 38 (guidance)).
+
+(5) In preparing any such guidance the Secretary of State must take into consideration—
+
+(a) the functions of the MMO, and
+
+(b) the resources available, or likely to be available, to the MMO.
+
+(6) A draft of any guidance proposed to be given under this section is to be laid before each House of Parliament.
+
+(7) Guidance is not to be given under this section until after the end of the period of 40 days beginning with—
+
+(a) the day on which a draft of the guidance is so laid, or
+
+(b) if the draft is laid on different days, the later of the two days.
+
+(8) If, within that period, either House resolves that the guidance, the draft of which was laid before it, should not be given, the Secretary of State must not give that guidance.
+
+(9) In reckoning any period of 40 days for the purposes of subsection (7) or (8), no account is to be taken of any time during which—
+
+(a) Parliament is dissolved or prorogued, or
+
+(b) both Houses are adjourned for more than four days.
+
+(10) The Secretary of State must publish, in such manner as the Secretary of State may determine, any guidance given to the MMO under this section.
+
+(11) The MMO must provide any person on request with a copy of the whole or any part of any such guidance.
+
+(12) In this section—
+
+- “consistent and co-ordinated” includes taking into account the effect (if any) that decisions in respect of—
+
+  - (a) any particular part of the MMO's area, or
+  - (b) the carrying on of any activity within that area,
+
+  will have on any other part of that area or the carrying on of any other activity in that area;
+
+- “evidence” includes predictions and other opinions resulting from the consideration of evidence by any person;
+
+- “the MMO's area” means those parts of the UK marine area, or of the United Kingdom, where MMO functions are exercisable;
+
+- “MMO functions” means functions exercisable by or on behalf of the MMO.
+
+#### 3 Performance
+
+(1) The MMO is to use its best endeavours to meet such objectives as the Secretary of State may from time to time set with regard to the quality and effectiveness of its performance.
+
+(2) Subsection (6) of section 24 of the Legislative and Regulatory Reform Act 2006 (c. 51) (consultation) does not apply in relation to an order under subsection (2) of that section specifying regulatory functions of the MMO as functions to which sections 21 and 22 of that Act (principles and code of practice) apply.
+
+### Chapter 2 — Transfer of functions to the MMO
+
+#### Sea Fish (Conservation) Act 1967
+
+##### 4 Licensing of fishing boats
+
+[^F1]1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F1]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F1]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F1]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F1]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F1]6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7) The grant, variation, revocation or suspension of a licence under [[^F2]section 4 of the Sea Fish (Conservation) Act 1967 (licensing of fishing boats)] by or on behalf of the Secretary of State before the coming into force of this section has effect as from the coming into force of this section as the grant, variation, revocation or suspension of the licence by the MMO.
+
+(8) Where a decision to grant, vary, revoke or suspend a licence under that section—
+
+(a) has been taken by or on behalf of the Secretary of State before the coming into force of this section, but
+
+(b) has not been notified in accordance with regulations under section 4B of the Sea Fish (Conservation) Act 1967 (c. 84),
+
+the decision has effect as from the coming into force of this section as a decision taken by the MMO.
+
+(9) Where, before the coming into force of this section, an application for a licence under section 4 of that Act, or for the variation of such a licence,—
+
+(a) has been made to the Secretary of State or a person acting on behalf of the Secretary of State, but
+
+(b) has not been determined or withdrawn,
+
+the application is to be treated as from the coming into force of this section as an application made to the MMO.
+
+##### 5 Restrictions on time spent at sea: appeals
+
+In section 4AA(5) of the Sea Fish (Conservation) Act 1967 (duty to vary licence to give effect to determination of tribunal on appeal) the reference to the Minister who granted the licence is to be read, in the case of licences granted or treated as granted by the Secretary of State or the MMO, as a reference to the MMO.
+
+##### 6 Trans-shipment licences for vessels
+
+(1) The Secretary of State's function of granting licences under section 4A of the Sea Fish (Conservation) Act 1967 (c. 84) (licences for the receiving by a vessel of fish trans-shipped from another vessel) is transferred to the MMO.
+
+(2) In subsection (1) of that section (power by order to prohibit trans-shipping of fish unless authorised by a licence granted by one of the Ministers) the reference to one of the Ministers is to be read as including a reference to the MMO instead of a reference to the Secretary of State.
+
+(3) In the following provisions of that section—
+
+(a) subsection (6) (conditions of licence),
+
+(b) subsection (7) (powers to require information),
+
+(c) subsection (10) (power to vary, revoke or suspend a licence),
+
+(d) subsection (11) (power to make a refund on variation, revocation or suspension),
+
+any reference to the Minister granting a licence, or to the Minister who granted a licence, is to be read, in the case of licences granted or treated as granted by the Secretary of State or the MMO, as a reference to the MMO.
+
+(4) In the application of subsection (9) of that section (power to issue limited number of licences) in relation to the licensing powers of the MMO under that section, the reference to the Ministers is to be read as a reference to the MMO.
+
+(5) In any orders made under that section, any reference which includes a reference to the Secretary of State is to be read, as respects any area where the MMO exercises functions under or by virtue of that section, as including instead a reference to the MMO.
+
+(6) The grant, variation, revocation or suspension of a licence under that section by or on behalf of the Secretary of State before the coming into force of this section has effect as from the coming into force of this section as the grant, variation, revocation or suspension of the licence by the MMO.
+
+(7) Where a decision to grant, vary, revoke or suspend a licence under that section—
+
+(a) has been taken by or on behalf of the Secretary of State before the coming into force of this section, but
+
+(b) has not been notified in accordance with regulations under section 4B of the Sea Fish (Conservation) Act 1967,
+
+the decision has effect as from the coming into force of this section as a decision taken by the MMO.
+
+(8) Where, before the coming into force of this section, an application for a licence under section 4A of that Act, or for the variation of such a licence,—
+
+(a) has been made to the Secretary of State or a person acting on behalf of the Secretary of State, but
+
+(b) has not been determined or withdrawn,
+
+the application is to be treated as from the coming into force of this section as an application made to the MMO.
+
+(9) The heading to the section is to be “Licensing of vessels receiving trans-shipped fish”.
+
+##### 7 Regulations supplementary to sections 4 and 4A
+
+In any regulations made under section 4B of the Sea Fish (Conservation) Act 1967 (c. 84) any reference to the Secretary of State, or which includes a reference to the Secretary of State, is to be read, in relation to the exercise by the MMO of functions under or by virtue of section [^F3]... 4A of that Act (licensing of fishing boats and trans-shipment licences for vessels), as a reference to the MMO or, as the case may be, as including instead a reference to the MMO.
+
+##### 8 Exemptions for operations for scientific and other purposes
+
+(1) The functions of the Secretary of State under subsections (1) to (4) of section 9 of the Sea Fish (Conservation) Act 1967 (exemption of certain things done under the authority of one of the Ministers) are transferred to the MMO.
+
+(2) In that section, after subsection (6) insert—
+
+> (6A) The Secretary of State may make regulations with respect to applications to the Marine Management Organisation for authority under this section.
+>
+> (6B) The provision that may be made in any such regulations includes provision as to—
+>
+> (a) the manner in which, and time before which, any such application is to be made, and
+>
+> (b) the charging of a reasonable fee by the Marine Management Organisation for dealing with an application.
+>
+> (6C) The power to make regulations under this section shall be exercisable by statutory instrument.
+>
+> (6D) A statutory instrument containing regulations under this section shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+.
+
+(3) Any authority granted or treated as granted by the Secretary of State under that section before the coming into force of this section is to have effect as from the coming into force of this section as an authority granted by the MMO.
+
+#### Nature conservation
+
+##### 9 Licences to kill or take seals
+
+(1) The Secretary of State's functions of granting and revoking licences under section 10 of the Conservation of Seals Act 1970 (c. 30) (power to grant licences) are transferred to the MMO.
+
+(2) Any licences—
+
+(a) granted by the Secretary of State under that section before the coming into force of this section, and
+
+(b) having effect in relation to the whole or any part of England or the English inshore region,
+
+are to have effect as from the coming into force of this section as licences granted by the MMO.
+
+(3) Any application for a licence under that section in relation to the whole or any part of England or the English inshore region which was made, but not determined or withdrawn, before the coming into force of this section is to be treated as an application made to the MMO after the coming into force of this section.
+
+##### 10 Wildlife and Countryside Act 1981
+
+(1) Section 16 of the Wildlife and Countryside Act 1981 (c. 69) (power to grant licences) is amended as follows.
+
+(2) After subsection (8) insert—
+
+> (8A) In this section, in the case of a licence under any of subsections (1) to (4), so far as relating to the restricted English inshore region (see subsection (12)), “the appropriate authority” means the Marine Management Organisation.
+
+.
+
+(3) In subsection (9) (meaning of “the appropriate authority”) at the beginning insert “ Except as provided by subsection (8A), ”.
+
+(4) At the end of the section insert—
+
+> (12) In this section—
+>
+> (a) “the restricted English inshore region” means so much of the English inshore region as lies to seaward of mean low water mark;
+>
+> (b) “the English inshore region” has the meaning given by section 322 of the Marine and Coastal Access Act 2009.
+
+.
+
+(5) To the extent that an application for a licence under section 16 of the Wildlife and Countryside Act 1981 which was made, but not determined or withdrawn, before the coming into force of this section relates to the restricted English inshore region, the application is to be treated as an application made to the MMO after the coming into force of this section.
+
+##### 11 Sea Fisheries (Wildlife Conservation) Act 1992
+
+In section 1(1) of the Sea Fisheries (Wildlife Conservation) Act 1992 (c. 36) (conservation in the exercise of sea fisheries functions) after “the Minister or Ministers” insert “ or the Marine Management Organisation ”.
+
+#### Generating and renewable energy installations
+
+##### 12 Certain consents under section 36 of the Electricity Act 1989
+
+(1) The electricity consent functions of the Secretary of State are transferred to the MMO.
+
+(2) The electricity consent functions are functions under any of the following sections of the Electricity Act—
+
+(a) section 36(1), (5) and (7) (giving consent for construction etc of generating stations, and prosecuting breaches of that requirement),
+
+(b) section 36A (making declarations extinguishing etc public rights of navigation), and
+
+(c) section 36B (duties in relation to navigation),
+
+so far as relating to any generating station that meets the requirements of [[^F4]subsection (3)].
+
+(3) The generating station must be in waters which are subject to regulation under section 95 of the Energy Act 2004 (c. 20), other than—
+
+(a) any area of Scottish waters, [^F5]...
+
+(b) any area of waters in a Scottish part of a Renewable Energy Zone.
+
+[[^F6](c) any area of the Welsh inshore region, or
+
+(d) any area of the Welsh offshore region.]
+
+[^F7]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) In accordance with subsection (1), any reference in the following provisions to the Secretary of State is to be read, so far as relating to the exercise of an electricity consent function of the Secretary of State, as a reference to the MMO—
+
+(a) Schedule 8 to the Electricity Act (procedure), except paragraphs 1(3), 2(3) and 3(1), and the modifications of paragraph 4 made by paragraph 7A(5)(a)(ii) and (b), of that Schedule;
+
+(b) paragraph 1(2) of Schedule 9 to that Act (preservation of amenity);
+
+(c) [^F8]regulations 71 to 74 of the Conservation (Natural Habitats, &c) Regulations 1994 (S.I. 1994/2716) (adaptation of planning and other controls);
+
+(d) the Electricity Works (Environmental Impact Assessment) (England and Wales) Regulations 2000 (S.I. 2000/1927).
+
+(6) Paragraph 1(4) of Schedule 8 to the Electricity Act (payment of sums into Consolidated Fund) does not apply to sums received by the MMO by virtue of this section.
+
+(7) In consequence of the provision made by this section, insert the subsection set out in subsection (8)—
+
+(a) into section 36 of the Electricity Act, after subsection (1B) as subsection (1C), and
+
+(b) into each of sections 36A and 36B of that Act, after subsection (1) as subsection (1A).
+
+(8) The subsection is—
+
+> (0) This section is subject to section 12 of the Marine and Coastal Access Act 2009 (which transfers certain functions of the Secretary of State to the Marine Management Organisation).
+
+.
+
+(9) In this section “the Electricity Act” means the Electricity Act 1989 (c. 29).
+
+(10) In this section, the following expressions have the same meaning as in section 95 of the Energy Act 2004—
+
+- “Renewable Energy Zone”;
+- “Scottish part”, in relation to a Renewable Energy Zone;
+- “Scottish waters”.
+
+##### 13 Safety zones: functions under section 95 of the Energy Act 2004
+
+(1) The functions of the Secretary of State specified in subsection (2) are transferred to the MMO.
+
+(2) Those functions are any functions of the Secretary of State under section 95 of the Energy Act 2004 (c. 20) (safety zones around renewable energy installations), so far as relating to any renewable energy installation that meets the requirements of subsections (3) and (4).
+
+(3) The renewable energy installation must be in waters subject to regulation under section 95 of the Energy Act 2004, other than—
+
+(a) any area of Scottish waters,[^F9]...
+
+(b) any area of waters in a Scottish part of a Renewable Energy Zone.
+
+[[^F10](c) any area of the Welsh inshore region, or
+
+(d) any area of the Welsh offshore region.]
+
+(4) The renewable energy installation must have a capacity such that the construction or extension of the installation would not be a nationally significant infrastructure project (within the meaning given by sections 14 and 15 of the Planning Act 2008 (c. 29)).
+
+(5) In accordance with subsection (1), any reference in the following provisions to the Secretary of State is to be read, so far as relating to the exercise of any function falling within subsection (2), as a reference to the MMO—
+
+(a) section 95 of the Energy Act 2004,
+
+(b) Schedule 16 to that Act (procedure for declaring safety zones),
+
+but this is subject to the exceptions in subsection (6).
+
+(6) Those exceptions are the following provisions of Schedule 16 to the Energy Act 2004 (which relate to regulations made by the Secretary of State)—
+
+- paragraph 3(2)(b);
+- in paragraph 4(1), the words preceding paragraph (a);
+- paragraph 4(1)(b);
+- paragraph 4(2);
+- paragraph 6(2)(b) and (6).
+
+(7) In section 95 of the Energy Act 2004, after subsection (1) insert—
+
+> (1A) This section is subject to section 13 of the Marine and Coastal Access Act 2009 (which transfers certain functions of the Secretary of State to the Marine Management Organisation).
+
+.
+
+(8) In this section, the following expressions have the same meaning as in section 95 of the Energy Act 2004—
+
+- “renewable energy installation”;
+- “Renewable Energy Zone”;
+- “Scottish part”, in relation to a Renewable Energy Zone;
+- “Scottish waters”.
+
+### Chapter 3 — Agreements involving the MMO for the exercise of functions
+
+#### Powers to enter into agreements
+
+##### 14 Agreements between the Secretary of State and the MMO
+
+(1) The Secretary of State may enter into an agreement with the MMO authorising the MMO to perform any marine function of the Secretary of State—
+
+(a) either in relation to the UK marine area or in relation to specified parts of that area;
+
+(b) subject to paragraph (a), either generally or in specified cases.
+
+“Specified” means specified in the agreement.
+
+(2) For the purposes of this Chapter, a “marine function” is any function which relates to, or whose exercise is capable of affecting, the whole or any part of the UK marine area.
+
+(3) For the purposes of this Chapter, any reference to a marine function of the Secretary of State includes a reference to a marine function exercisable by a person—
+
+(a) authorised or appointed by the Secretary of State, or
+
+(b) employed in the civil service of the State (but see subsection (4)).
+
+(4) For the purposes of subsection (3)(b), a person is not to be regarded as employed in the civil service of the State to the extent that the person is any of the following—
+
+(a) the holder of an office in the Scottish Administration which is not a ministerial office (within the meaning of section 51 of the Scotland Act 1998 (c. 46));
+
+(b) a member of the staff of the Scottish Administration (within the meaning of that section);
+
+(c) a member of the staff of the Welsh Assembly Government (within the meaning of section 52 of the Government of Wales Act 2006 (c. 32)).
+
+(5) An agreement under this section—
+
+(a) may be cancelled by the Secretary of State at any time, and
+
+(b) does not prevent the Secretary of State from performing a function to which the agreement relates.
+
+(6) This section is subject to sections 17 and 18 (non-delegable functions and maximum duration of agreement).
+
+##### 15 Agreements between the MMO and eligible bodies
+
+(1) The MMO may, with the approval of the Secretary of State, enter into an agreement with an eligible body authorising the eligible body to perform any function of the MMO—
+
+(a) either in relation to the UK marine area or in relation to specified parts of that area;
+
+(b) subject to paragraph (a), either generally or in specified cases.
+
+“Specified” means specified in the agreement.
+
+(2) For the purposes of this Chapter, any reference to a function of the MMO includes a reference to a function exercisable by a person authorised, appointed or employed by the MMO.
+
+(3) The Secretary of State's approval may be given—
+
+(a) in relation to a particular agreement or in relation to a description of agreements;
+
+(b) unconditionally or subject to conditions specified in the approval.
+
+(4) Subject to subsection (6), the Secretary of State—
+
+(a) must review an agreement under this section no later than the end of the period of 5 years beginning with the date on which the agreement was entered into or was last reviewed by the Secretary of State, and
+
+(b) if it appears appropriate to do so in the light of the review, may cancel the agreement.
+
+(5) Subject to subsection (6), an agreement under this section may not be varied except—
+
+(a) by agreement between the MMO and the eligible body, and
+
+(b) with the approval of the Secretary of State.
+
+(6) An approval given under subsection (1) may provide that subsection (4) or (5) does not apply (or that both of them do not apply).
+
+(7) This section is subject to sections 17 and 18 (non-delegable functions and maximum duration of agreement).
+
+##### 16 Eligible bodies
+
+(1) In this Chapter “eligible body” means any body in the following list—
+
+(a) the Environment Agency;
+
+(b) Natural England;
+
+(c) any inshore fisheries and conservation authority;
+
+(d) any local fisheries committee constituted by an order made, or having effect as if made, under section 1 of the Sea Fisheries Regulation Act 1966 (c. 38);
+
+(e) any harbour authority.
+
+[[^F11](f) the Natural Resources Body for Wales.]
+
+(2) The Secretary of State may by order amend subsection (1) so as to—
+
+(a) add any body or description of body to the list, or
+
+(b) remove any body or description of body from it.
+
+(3) The Secretary of State may not exercise the power conferred by subsection (2)(a) unless satisfied that at least one of the purposes or functions of the body, or bodies of the description, to be added to the list is, or is related to or connected with, a marine function.
+
+(4) A body to be added to the list need not be a public body.
+
+##### 17 Non-delegable functions
+
+(1) An agreement may not authorise a body to which this section applies to perform a non-delegable function.
+
+(2) The bodies are—
+
+(a) the MMO;
+
+(b) an eligible body.
+
+(3) The non-delegable functions are—
+
+(a) any function whose performance by the body would be incompatible with the purposes for which the body was established;
+
+(b) any power of a Minister of the Crown to make or terminate appointments, other than appointments of persons for the purpose of enforcing any legislation other than this Act or subordinate legislation made under it;
+
+(c) any power of a Minister of the Crown to lay reports or accounts;
+
+(d) any power to make subordinate legislation, give directions or guidance or issue codes of practice (or to vary or revoke any of those things);
+
+(e) any power to fix fees or charges, other than a power prescribed for the purposes of this section by an order made by the Secretary of State;
+
+(f) any function of an accounting officer acting in that capacity;
+
+(g) except in relation to an agreement authorising a public body to perform functions—
+
+(i) any power to enter, inspect, take samples or seize anything, and
+
+(ii) any other power exercisable in connection with suspected offences;
+
+(h) any function of the Secretary of State under the Water Industry Act 1991 (c. 56) or under any subordinate legislation made under that Act.
+
+##### 18 Maximum duration of agreement
+
+The maximum period for which an agreement may authorise the MMO or an eligible body to perform a function is 20 years.
+
+#### Supplementary provisions
+
+##### 19 Particular powers
+
+(1) The fact that a function is conferred by or under this Act or an Act passed after the passing of this Act does not prevent it from being the subject of an agreement.
+
+(2) In subsection (3)—
+
+- “A” means the Secretary of State or the MMO;
+
+- “B” means—
+
+  - (a) the MMO, if A is the Secretary of State;
+  - (b) an eligible body, if A is the MMO.
+
+(3) A may, under an agreement, authorise B to perform a function even though, under the enactment or subordinate legislation conferring that function on A,—
+
+(a) the function is conferred on A by reference to specified circumstances or cases and the same type of function is conferred on B in different specified circumstances or cases,
+
+(b) the function is exercisable by A and B jointly,
+
+(c) B is required to be, or may be, consulted about the function (whether generally or in specified circumstances), or
+
+(d) B is required to consent to the exercise of the function (whether generally or in specified circumstances).
+
+(4) An agreement may provide—
+
+(a) for the performance of a function to be subject to the fulfilment of conditions;
+
+(b) for payments to be made in respect of the performance of the function.
+
+(5) In the following provisions of this section “relevant body” means—
+
+(a) the MMO;
+
+(b) any eligible body.
+
+(6) A relevant body which is authorised under an agreement to perform a function—
+
+(a) is to be treated as having power to do so;
+
+(b) may, unless (or except to the extent that) the agreement provides for this paragraph not to apply,—
+
+(i) authorise a committee, sub-committee, member, officer or employee of the body to perform the function on its behalf;
+
+(ii) form a body corporate and authorise that body to perform the function on its behalf.
+
+(7) Where the eligible body is a harbour authority which is a local authority—
+
+(a) subsection (6)(a) is subject to section 20(5), and
+
+(b) section 20 applies in place of subsection (6)(b).
+
+(8) Subject to subsection (6)(b) and section 20, a relevant body which is authorised under an agreement to perform a function may not authorise any other body or person to perform that function.
+
+##### 20 Agreements with certain harbour authorities
+
+(1) This section applies where a harbour authority which is a local authority is authorised under an agreement to perform a function.
+
+(2) Subject to subsections (5) to (7), the function that the local authority is authorised to perform is to be treated as a function of the local authority for the purposes of—
+
+(a) any power of a local authority to arrange for the discharge of the function jointly with another local authority (but only to the extent that each of the authorities is a harbour authority),
+
+(b) any power of a local authority to arrange for the discharge of the function by any person mentioned in subsection (3), and
+
+(c) any power of a person mentioned in subsection (3) to arrange for the discharge of a function by any other person mentioned there.
+
+(3) The persons are any committee, sub-committee, member, officer or employee of the local authority.
+
+(4) In subsection (3)—
+
+(a) “committee” includes a joint committee of two or more local authorities which are harbour authorities and which include the local authority mentioned in subsection (1);
+
+(b) “sub-committee” includes a sub-committee of any such joint committee;
+
+(c) the reference to a member, officer or employee of the local authority includes a reference to a member, officer or employee of any local authority, or any of the local authorities, with which the local authority may have entered into arrangements for the joint discharge of functions which consist of or include functions which the local authority is authorised under an agreement to perform.
+
+(5) If the local authority is operating executive arrangements, the function is to be treated as a function of the local authority for the purposes of section 13 of the Local Government Act 2000 (c. 22) (provision for determining which functions of the authority are to be the responsibility of the executive and which are not).
+
+(6) If, in a case where the local authority is operating executive arrangements, the function is to any extent the responsibility of the executive of the local authority, then to that extent—
+
+(a) subsection (2) does not apply, but
+
+(b) the provisions mentioned in subsection (7) have effect.
+
+(7) The provisions are—
+
+(a) sections 14 to 16 of the Local Government Act 2000 (discharge of functions in the case of different types of executive arrangements);
+
+(b) any regulations under section 17 or 18 of that Act (discharge of functions by executive of a type prescribed under section 11(5) of that Act, and discharge of functions by area committees);
+
+(c) so far as relating to arrangements (including the appointment of joint committees) under section 101(5) of the Local Government Act 1972 (c. 70) which involve another local authority which is a harbour authority, any regulations under section 20 of the Local Government Act 2000 (joint exercise of functions).
+
+(8) “Executive arrangements” and “executive” have the same meaning as in Part 2 of the Local Government Act 2000.
+
+(9) An agreement may provide that the provisions of subsection (2) or those mentioned in subsection (7) do not apply (or do not apply to a specified extent).
+
+##### 21 Supplementary provisions with respect to agreements
+
+(1) An agreement, and any approval given by the Secretary of State under section 15, must be in writing.
+
+(2) The Secretary of State must arrange for a copy of an agreement to be published in a way that the Secretary of State thinks is suitable for bringing it to the attention of persons likely to be affected by it.
+
+(3) No power of a Minister of the Crown under any enactment to give directions to a statutory body extends to giving a direction—
+
+(a) requiring it to enter into an agreement;
+
+(b) prohibiting it from entering into an agreement;
+
+(c) requiring it to include, or prohibiting it from including, particular terms in an agreement;
+
+(d) requiring it to negotiate, or prohibiting it from negotiating, a variation or termination of an agreement.
+
+(4) Schedule 15 to the Deregulation and Contracting Out Act 1994 (c. 40) (restrictions on disclosure of information) applies in relation to an authorisation by the MMO or an eligible body under this Chapter as it applies in relation to an authorisation under section 69 of that Act by an office-holder.
+
+##### 22 Interpretation of this Chapter
+
+(1) In sections 17 to 21 “agreement” means an agreement under section 14 or 15.
+
+(2) In this Chapter—
+
+- “eligible body” has the meaning given by section 16;
+- “local authority” means a local authority as defined in section 1(a) of the Local Government Act 2000 (c. 22);
+- “marine function” has the meaning given by section 14.
+
+### Chapter 4 — Miscellaneous, general and supplemental provisions
+
+#### Applications for development consent
+
+##### 23 MMO's role in relation to applications for development consent
+
+(1) The Planning Act 2008 (c. 29) is amended as set out in subsections (2) to (6).
+
+[^F12]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) In consequence of the amendments made by subsection (2) of this section—
+
+(a) the heading to section 43 becomes “Local authorities for purposes of section 42(1)(b)”, and
+
+(b) the heading to section 44 becomes “Categories for purposes of section 42(1)(d)”.
+
+[^F13]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) In section 56 (duty to notify persons of accepted applications)—
+
+(a) in subsection (2), after paragraph (a) insert—
+
+> (aa) the Marine Management Organisation, in any case where the development for which the application seeks development consent would involve the carrying on of any activity in one or more of the areas specified in subsection (2A),
+
+;
+
+(b) after subsection (2) insert—
+
+> (2A) The areas are—
+>
+> (a) waters in or adjacent to England up to the seaward limits of the territorial sea;
+>
+> (b) an exclusive economic zone, except any part of an exclusive economic zone in relation to which the Scottish Ministers have functions;
+>
+> (c) a Renewable Energy Zone, except any part of a Renewable Energy Zone in relation to which the Scottish Ministers have functions;
+>
+> (d) an area designated under section 1(7) of the Continental Shelf Act 1964, except any part of that area which is within a part of an exclusive economic zone or Renewable Energy Zone in relation to which the Scottish Ministers have functions.
+
+(6) In section 102 (definition of “interested party” etc)—
+
+(a) in subsection (1), after paragraph (b) insert—
+
+> (ba) the person is the Marine Management Organisation and the development for which the application seeks development consent would involve the carrying on of any activity in one or more of the areas specified in subsection (1A),
+
+;
+
+(b) after subsection (1) insert—
+
+> (1A) The areas are—
+>
+> (a) waters in or adjacent to England up to the seaward limits of the territorial sea;
+>
+> (b) an exclusive economic zone, except any part of an exclusive economic zone in relation to which the Scottish Ministers have functions;
+>
+> (c) a Renewable Energy Zone, except any part of a Renewable Energy Zone in relation to which the Scottish Ministers have functions;
+>
+> (d) an area designated under section 1(7) of the Continental Shelf Act 1964, except any part of that area which is within a part of an exclusive economic zone or Renewable Energy Zone in relation to which the Scottish Ministers have functions.
+
+(7) The Secretary of State must give guidance to the MMO as to the kind of representations which may be made by the MMO under—
+
+(a) Chapter 2 of Part 5 of the Planning Act 2008 (c. 29) (pre-application procedure), or
+
+(b) Part 6 of that Act (deciding applications for orders granting development consent).
+
+#### General powers and duties
+
+##### 24 Research
+
+(1) The MMO may (whether alone or with other bodies or persons)—
+
+(a) undertake research into any matter relating to its functions or its general objective, or
+
+(b) commission or support (by financial means or otherwise) research into any such matter.
+
+(2) The MMO is to make the results of any such research available to any person on request.
+
+[[^F14](2A) The MMO must, at the request of the Secretary of State—
+
+(a) undertake research into any international marine matter, or
+
+(b) commission or support (by financial means or otherwise) research into any such matter;
+
+and may, in complying with such a request, undertake, commission or support research with other bodies or persons.
+
+(2B) The MMO must, at the request of the Secretary of State, make the results of any research under subsection (2A) available to any person.]
+
+(3) Subsection (2) [[^F15]or (2A)] does not require the MMO to make available—
+
+(a) any information that it could refuse to disclose in response to a request under—
+
+(i) the Freedom of Information Act 2000 (c. 36), or
+
+(ii) the Environmental Information Regulations 2004 (S.I. 2004/ 3391) or any regulations replacing those Regulations;
+
+(b) any information whose disclosure is prohibited by any enactment.
+
+[[^F16](4) For the purposes of this section a matter is an “international marine matter” if—
+
+(a) it relates to an area outside the UK marine area, and
+
+(b) the MMO has power under subsection (1)(a) to undertake research into a corresponding matter that relates to the UK marine area or an area within it.
+
+(5) References in this section to the functions of the MMO are to functions exercisable by or on behalf of the MMO (including functions that the MMO performs under an agreement under section 14, and functions that any other body performs under an agreement under section 15).
+
+(6) References in this section to a person include a person outside the United Kingdom.]
+
+##### 25 Advice, assistance and training facilities
+
+(1) The MMO must provide the Secretary of State with such advice and assistance as the Secretary of State may request.
+
+(2) The MMO must, at the request of any public body, provide advice to that body on any matter which—
+
+(a) is within the knowledge or experience of the MMO,
+
+(b) relates to any of the functions of the MMO or to its general objective, and
+
+(c) affects the performance by the public body of its functions.
+
+(3) The MMO may provide advice to any person on any matter relating to any of its functions or its general objective—
+
+(a) at the request of that person, or
+
+(b) if the MMO considers it appropriate to do so, on its own initiative.
+
+[[^F17](3A) The MMO must, at the request of the Secretary of State, provide advice to any person (including a person outside the United Kingdom) on any international marine matter that is within its knowledge or experience.]
+
+(4) The MMO may provide any person with—
+
+(a) assistance, or
+
+(b) the use of training facilities,
+
+as respects any matter of which the MMO has knowledge or experience.
+
+[[^F18](5) The MMO must, at the request of the Secretary of State, provide any person outside the United Kingdom with—
+
+(a) assistance, or
+
+(b) the use of training facilities,
+
+as respects any matter of which the MMO has knowledge or experience.
+
+(6) For the purposes of this section a matter is an “international marine matter” if—
+
+(a) it relates to an area outside the UK marine area, and
+
+(b) the MMO has power under subsection (3)(a) (on request) to provide advice on a corresponding matter that relates to the UK marine area or an area within it.
+
+(7) References in this section to the functions of the MMO are to functions exercisable by or on behalf of the MMO (including functions that the MMO performs under an agreement under section 14, and functions that any other body performs under an agreement under section 15).]
+
+##### 26 Provision of information etc
+
+(1) The MMO may—
+
+(a) publish documents or provide information about any matter relating to any of its functions or its general objective, or
+
+(b) assist in the publication of such documents or the provision of such information.
+
+[[^F19](1A) The MMO must, at the request of the Secretary of State—
+
+(a) publish documents or provide information about any international marine matter, or
+
+(b) assist in the publication of such documents or the provision of such information.]
+
+(2) Nothing in any other enactment imposing a duty or conferring a power on the MMO—
+
+(a) to publish, or assist in the publication of, documents of a particular kind, or
+
+(b) to provide, or assist in the provision of, information of a particular kind,
+
+is to be read as limiting the power conferred by subsection (1) [[^F20]or the duty imposed by subsection (1A)].
+
+[[^F21](3) For the purposes of this section a matter is an “international marine matter” if—
+
+(a) it relates to an area outside the UK marine area, and
+
+(b) the MMO has power under subsection (1)(a) to publish documents or provide information about a corresponding matter that relates to the UK marine area or an area within it.
+
+(4) References in this section to the functions of the MMO are to functions exercisable by or on behalf of the MMO (including functions that the MMO performs under an agreement under section 14, and functions that any other body performs under an agreement under section 15).]
+
+##### 27 Power to charge for services
+
+(1) The MMO may charge such fees in respect of the cost of providing its services as appear to it to be reasonable.
+
+(2) The fees that may be charged under this section include fees in respect of the cost of services provided by the MMO under any arrangements made between the MMO and the Welsh Ministers or a Northern Ireland department under—
+
+(a) section 83 of the Government of Wales Act 2006 (c. 32), or
+
+(b) section 28 of the Northern Ireland Act 1998 (c. 47).
+
+(3) For the purposes of this section, “services” includes, in particular, anything done under—
+
+(a) section 2(11) (provision of copy of guidance);
+
+(b) section 24(2) [[^F22]or (2B)] (making available the results of research);
+
+(c) section 25(2), (3)(a) [[^F23], (3A), (4) or (5)] (advice, assistance and training facilities);
+
+(d) section 26 (information).
+
+##### 28 Provision of information by the MMO to the Secretary of State
+
+(1) The MMO must provide the Secretary of State with all such information as the Secretary of State may reasonably require with respect to any of the following matters—
+
+(a) the carrying out, or proposed carrying out, of the MMO's functions;
+
+(b) the MMO's responsibilities generally.
+
+(2) Information required under this section is to be provided in such form and manner, and be accompanied or supplemented by such explanations, as the Secretary of State may require.
+
+(3) The information which the MMO may be required to provide under this section includes information which, although it is not in the possession of the MMO or would not otherwise come into the possession of the MMO, is information which it is reasonable to require the MMO to obtain.
+
+(4) A requirement for the purposes of this section—
+
+(a) must be made in writing;
+
+(b) may describe the information to be provided in such manner as the Secretary of State considers appropriate;
+
+(c) may require the information to be provided on a particular occasion, in particular circumstances or from time to time.
+
+##### 29 Power to bring proceedings
+
+(1) The MMO may institute criminal proceedings in England, Wales or Northern Ireland.
+
+(2) The MMO may institute proceedings for the recovery of any monetary penalty imposed under this Act.
+
+(3) Subsection (2) is without prejudice to any other powers the MMO may have to institute proceedings.
+
+(4) The MMO may designate under this subsection any of its employees who would not (apart from subsection (6)) be entitled to carry on, in relation to magistrates' court proceedings, an activity which constitutes—
+
+(a) the conduct of litigation, or
+
+(b) the exercise of a right of audience falling within subsection (5).
+
+(5) The rights of audience are—
+
+(a) a right of audience in trials of summary offences;
+
+(b) a right of audience in relation to any application for, or relating to, bail in criminal proceedings relating to a summary offence or an offence triable either way, unless (as matters stand at the time when the application is made) the offence is to be tried on indictment;
+
+(c) a right of audience in relation to interlocutory applications and sentencing in proceedings relating to a summary offence or an offence triable either way;
+
+(d) a right of audience in proceedings for the recovery of any sum of money.
+
+(6) Subject to any exceptions specified in the designation, a person designated under subsection (4) is entitled to carry on, in relation to magistrates' court proceedings, any activity specified in the designation which constitutes—
+
+(a) the conduct of litigation, or
+
+(b) the exercise of a right of audience falling within subsection (5).
+
+(7) For the purposes of subsection (5), a trial—
+
+(a) begins with the opening of the prosecution case after the entry of a plea of not guilty, and
+
+(b) ends with the conviction or acquittal of the accused.
+
+(8) In this section—
+
+- “bail in criminal proceedings”—
+
+  - (a) in relation to England and Wales, has the same meaning as in section 1 of the Bail Act 1976 (c. 63) (see subsection (1) of that section);
+  - (b) in relation to Northern Ireland, means bail within the meaning of Part 2 of the Criminal Justice (Northern Ireland) Order 2003 (S.I. 2003/1247 (N.I. 13));
+
+- “conduct of litigation” has the meaning given by paragraph 4 of Schedule 2 to the Legal Services Act 2007 (c. 29);
+
+- “magistrates' court proceedings” means proceedings before a magistrates' court in England, Wales or Northern Ireland;
+
+- “right of audience” has the meaning given by paragraph 3 of Schedule 2 to the Legal Services Act 2007.
+
+##### 30 Continuation of certain existing prosecutions
+
+(1) Any prosecution commenced by the Secretary of State before the appropriate commencement date—
+
+(a) for an offence in relation to any of the functions transferred to the MMO by or under Chapter 2 of this Part, or
+
+(b) for an offence under the fisheries legislation (see subsections (2) and (3)),
+
+may be continued on or after that day by the MMO.
+
+(2) In this section “the fisheries legislation” means—
+
+(a) any enactments relating to sea fishing, including any enactment relating to fishing for shellfish, salmon or migratory trout (but see subsection (3));
+
+(b) any [[^F24][[^F25]assimilated] restriction or [[^F25]assimilated] obligation] relating to sea fishing.
+
+(3) “The fisheries legislation” does not include—
+
+(a) the Salmon and Freshwater Fisheries Act 1975 (c. 51);
+
+(b) the Salmon Act 1986 (c. 62);
+
+(c) byelaws made by the Environment Agency under Schedule 25 to the Water Resources Act 1991 (c. 57);
+
+(d) the Scotland Act 1998 (Border Rivers) Order 1999 (S.I. 1999/1746);
+
+(e) byelaws made by an inshore fisheries and conservation authority under section 155.
+
+(4) In this section—
+
+- “the appropriate commencement date” means—
+
+  - (a) in relation to an offence falling within paragraph (a) of subsection (1), the date on which the function to which the offence relates is transferred to the MMO;
+  - (b) in relation to an offence falling within paragraph (b) of that subsection, the date on which section 1 comes into force;
+
+- [[^F26]“ [[^F27]assimilated] restriction ” means a restriction that—
+
+  - (a) was created or arose by or under the EU Treaties before IP completion day, and
+  - (b) forms part of [[^F27]assimilated] law,
+
+  as modified from time to time.]
+
+##### 31 Incidental powers
+
+(1) The MMO may do anything which appears to it to be incidental or conducive to the carrying out of its functions or the achievement of its general objective.
+
+(2) In particular, the MMO may—
+
+(a) enter into agreements;
+
+(b) acquire or dispose of land or other property;
+
+(c) subject to the restrictions imposed by sections 33 and 34, borrow money;
+
+(d) subject to the approval of the Secretary of State, form bodies corporate or acquire or dispose of interests in bodies corporate;
+
+(e) accept gifts;
+
+(f) invest money.
+
+#### Financial provisions
+
+##### 32 Grants
+
+(1) The Secretary of State may make payments by way of grant to the MMO.
+
+(2) Any payments under subsection (1) are to be—
+
+(a) of such amounts,
+
+(b) at such times, and
+
+(c) subject to such conditions (if any),
+
+as the Secretary of State may determine.
+
+##### 33 Borrowing powers
+
+(1) The MMO may borrow money, but only—
+
+(a) in accordance with the following provisions of this section, and
+
+(b) subject to section 34 (limit on borrowing).
+
+(2) The MMO may borrow such sums as it may require for meeting its obligations and carrying out its functions.
+
+(3) The MMO may borrow any such sums—
+
+(a) from the Secretary of State, by way of loan, or
+
+(b) from persons other than the Secretary of State, by way of overdraft or otherwise.
+
+(4) The MMO may borrow by virtue of subsection (3)(b) only if the Secretary of State consents.
+
+(5) Any consent under subsection (4) may be given subject to conditions.
+
+##### 34 Limit on borrowing
+
+(1) The aggregate amount outstanding in respect of the principal of sums borrowed by the MMO must not at any time exceed £20 million.
+
+(2) The Secretary of State may by order amend subsection (1) so as to substitute for the sum for the time being there specified such sum as may be specified in the order.
+
+(3) The sum specified in an order under subsection (2) must be a sum—
+
+(a) greater than £20 million, but
+
+(b) not greater than £80 million.
+
+(4) A statutory instrument containing an order under subsection (2) may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, the House of Commons.
+
+##### 35 Government loans
+
+(1) The Secretary of State may lend money to the MMO.
+
+(2) A loan under this section may be made subject to such conditions as may be determined by, or in accordance with arrangements made by, the Secretary of State.
+
+(3) The conditions must include provision with respect to—
+
+(a) repayment of the loan at such times, and by such methods, as the Secretary of State may from time to time determine, and
+
+(b) payment of interest on the loan at such rates, and at such times, as the Secretary of State may from time to time determine.
+
+(4) The Treasury may issue to the Secretary of State out of money provided by Parliament such sums as are necessary to enable the Secretary of State to make loans under this section.
+
+(5) The Secretary of State must, in respect of each financial year,—
+
+(a) prepare an account of any sums lent or received in pursuance of this section during the year, and
+
+(b) send that account to the Comptroller and Auditor General before the end of September in the following financial year.
+
+(6) The Comptroller and Auditor General must—
+
+(a) examine, certify and report on each account sent under subsection (5), and
+
+(b) send a copy of the certified account and of the report to the Secretary of State as soon as possible;
+
+and the Secretary of State must lay before each House of Parliament a copy of the certified account and of the report.
+
+##### 36 Government guarantees
+
+(1) The Secretary of State may guarantee—
+
+(a) the repayment of the principal of any sum borrowed by the MMO from a person other than the Secretary of State;
+
+(b) the payment of interest on any such sum;
+
+(c) the discharge of any other financial obligation in connection with any such sum.
+
+(2) A guarantee under subsection (1) may be given in such manner, and on such conditions, as the Secretary of State may think fit.
+
+(3) If a guarantee is given under subsection (1), the Secretary of State must lay a statement of the guarantee before each House of Parliament.
+
+(4) Where any sum is paid out for fulfilling a guarantee under this section, the Secretary of State must, as soon as reasonably practicable after the end of each financial year in the relevant period, lay before each House of Parliament a statement relating to that sum.
+
+(5) For the purposes of subsection (4), the relevant period is the period which—
+
+(a) begins with the financial year in which the sum is paid out, and
+
+(b) ends with the financial year in which all liability in respect of the principal of the sum and in respect of interest on it is finally discharged.
+
+(6) If any sums are paid out in fulfilment of a guarantee under this section, the MMO must make to the Secretary of State—
+
+(a) payments of such amounts as the Secretary of State may from time to time direct in or towards repayment of the sums so paid out, and
+
+(b) payments of interest, at such rate as the Secretary of State may so direct, on what is outstanding for the time being in respect of sums so paid out.
+
+(7) Payments under subsection (6) are to be made—
+
+(a) at such times, and
+
+(b) in such manner,
+
+as the Secretary of State may from time to time direct.
+
+#### Directions and guidance
+
+##### 37 Directions by the Secretary of State
+
+(1) The Secretary of State may give the MMO general or specific directions with respect to the exercise of any of the MMO's functions.
+
+(2) The Secretary of State may also give the MMO such general or specific directions as the Secretary of State considers appropriate for the implementation of any obligations of the United Kingdom under—
+
+[^F28]a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) any international agreement to which the United Kingdom [^F29]... is for the time being a party.
+
+(3) Before giving directions under this section, the Secretary of State must consult the MMO.
+
+(4) Consultation under subsection (3) is not required if the Secretary of State considers that there is an emergency.
+
+(5) The MMO must comply with any directions given to it under this section.
+
+(6) The Secretary of State must publish in the London Gazette notice of any directions given under this section.
+
+(7) The giving of any directions under this section must be publicised in such manner as the Secretary of State considers appropriate for the purpose of bringing the matters to which the directions relate to the attention of persons likely to be affected by them.
+
+(8) Copies of any directions given under this section are to be made available by the MMO to members of the public on payment of such reasonable fee as the MMO may determine.
+
+[^F30]9 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### 38 Guidance by the Secretary of State
+
+(1) The Secretary of State may give the MMO guidance with respect to the exercise of any of the MMO's functions.
+
+(2) The MMO must have regard to any guidance given to it under this Act by the Secretary of State.
+
+(3) Before giving any such guidance, the Secretary of State must consult—
+
+(a) the MMO, and
+
+(b) such other bodies or persons as the Secretary of State considers appropriate.
+
+#### Transfer schemes etc
+
+##### 39 Transfer schemes
+
+(1) The Secretary of State may, in connection with the establishment of, or the transfer of any functions to, the MMO, make one or more schemes for the transfer to the MMO of designated property, rights or liabilities of any of the following—
+
+(a) a Minister of the Crown,
+
+(b) a government department,
+
+(c) a statutory body.
+
+(2) The Secretary of State may make one or more schemes for the transfer of designated property, rights or liabilities of the MMO to any of the following—
+
+(a) a Minister of the Crown,
+
+(b) a government department,
+
+(c) a statutory body.
+
+(3) In connection with the efficient management for public purposes of any property, rights or liabilities, the Secretary of State may at any time make one or more schemes for the transfer of—
+
+(a) designated property, rights or liabilities of the Secretary of State to the MMO, or
+
+(b) designated property, rights or liabilities of the MMO to the Secretary of State.
+
+(4) On the transfer date for any designated property, rights or liabilities, that property and those rights and liabilities are transferred and vest in accordance with the scheme.
+
+(5) In this section and Schedule 3—
+
+- “designated”, in relation to a scheme, means specified or described in, or determined in accordance with, the scheme;
+- “statutory body” means any body or person established by or under any enactment;
+- “transfer date”, in relation to any property, rights or liabilities, means a date specified by a scheme as the date on which the scheme is to have effect in relation to that property or those rights or liabilities.
+
+(6) Schedule 3 makes further provision relating to schemes under this section.
+
+##### 40 Interim arrangements
+
+(1) The Secretary of State may by notice require any of the following—
+
+(a) a Minister of the Crown,
+
+(b) a government department,
+
+(c) a statutory body,
+
+to provide to the MMO on a temporary basis such staff, premises or other facilities as may be specified in the notice.
+
+(2) In this section “statutory body” means any body or person established by or under any enactment.
+
+## Part 2 — Exclusive economic zone, UK marine area and Welsh zone
+
+### 41 Exclusive economic zone
+
+(1) The rights to which this section applies have effect as rights belonging to Her Majesty by virtue of this section.
+
+(2) This section applies to all rights under Part V of the Convention that are exercisable by the United Kingdom in areas outside the territorial sea.
+
+(3) Her Majesty may by Order in Council designate an area as an area within which the rights to which this section applies are exercisable (an “exclusive economic zone”).
+
+(4) The Secretary of State may by order designate the whole or any part of the exclusive economic zone as an area in relation to which the Scottish Ministers, the Welsh Ministers or any Northern Ireland department are to have functions.
+
+(5) In any enactment or instrument passed or made after the coming into force of an Order in Council made under this section, any reference to the United Kingdom's exclusive economic zone is to be read as a reference to any area designated in the Order in Council.
+
+(6) An Order in Council under this section may include incidental, consequential, supplementary or transitional provision or savings.
+
+(7) In this section “the Convention” means the United Nations Convention on the Law of the Sea (Cmnd 8941) and any modifications of that Convention agreed after the passing of this Act that have entered into force in relation to the United Kingdom.
+
+(8) Part 1 of Schedule 4 (which contains amendments consequential on this section) has effect.
+
+### 42 UK marine area
+
+(1) For the purposes of this Act, the “UK marine area” consists of the following—
+
+(a) the area of sea within the seaward limits of the territorial sea adjacent to the United Kingdom,
+
+(b) any area of sea within the limits of the exclusive economic zone,
+
+(c) the area of sea within the limits of the UK sector of the continental shelf (so far as not falling within the area mentioned in paragraph (b), and see also subsection (2)),
+
+and includes the bed and subsoil of the sea within those areas.
+
+(2) The area of sea mentioned in subsection (1)(c) is to be treated as part of the UK marine area for any purpose only to the extent that such treatment for that purpose does not contravene any international obligation binding on the United Kingdom or Her Majesty's government.
+
+(3) In this section “sea” includes—
+
+(a) any area submerged at mean high water spring tide, and
+
+(b) the waters of every estuary, river or channel, so far as the tide flows at mean high water spring tide.
+
+(4) The area of sea referred to in subsection (3)(a) includes waters in any area—
+
+(a) which is closed, whether permanently or intermittently, by a lock or other artificial means against the regular action of the tide, but
+
+(b) into which seawater is caused or permitted to flow, whether continuously or from time to time, and
+
+(c) from which seawater is caused or permitted to flow, whether continuously or from time to time.
+
+(5) Until the coming into force of the first Order in Council made under section 41 (the exclusive economic zone), the reference in subsection (1)(b) to the exclusive economic zone is to be read as a reference to a renewable energy zone.
+
+### 43 Welsh zone
+
+(1) Section 158 of the Government of Wales Act 2006 (c. 32) (interpretation) is amended as follows.
+
+(2) In subsection (1) after the definition of “Wales” insert
+
+> , and
+>
+> Welsh zone” means the sea adjacent to Wales which is—
+>
+> (a) within British fishery limits (that is, the limits set by or under section 1 of the Fishery Limits Act 1976), and
+>
+> (b) specified in an Order in Council under section 58 or an order under subsection (3).
+
+(3) For subsection (3) substitute—
+
+> (3) The Secretary of State may by order determine, or make provision for determining, for the purposes of the definitions of “Wales” and the “Welsh zone”, any boundary between waters which are to be treated as parts of the sea adjacent to Wales, or sea within British fishery limits adjacent to Wales, and those which are not.
+
+(4) Part 2 of Schedule 4 (which contains amendments consequential on this section) has effect.
+
+(5) The Secretary of State may by order make such modifications or amendments of—
+
+(a) any Act passed before the end of the Session in which this Act is passed, or
+
+(b) any instrument made before the end of that Session,
+
+as the Secretary of State considers appropriate in consequence of this section.
+
+## Part 3 — Marine planning
+
+### Chapter 1 — Marine policy statement
+
+#### 44 Marine policy statement
+
+(1) For the purposes of this Act a “marine policy statement” (an “MPS”) is a document—
+
+(a) in which the policy authorities that prepare and adopt it state general policies of theirs (however expressed) for contributing to the achievement of sustainable development in the UK marine area,
+
+(b) which has been prepared and adopted by those authorities in accordance with Schedule 5, and
+
+(c) which states that it has been prepared and adopted for the purposes of this section.
+
+(2) An MPS may also include statements or information relating to policies contained in the MPS.
+
+(3) If to any extent a policy stated in an MPS conflicts with any other statement or information in the MPS, that conflict must be resolved in favour of the policy.
+
+(4) In this Part “policy authority” means any of the following—
+
+(a) the Secretary of State;
+
+(b) the Scottish Ministers;
+
+(c) the Welsh Ministers;
+
+(d) the Department of the Environment in Northern Ireland.
+
+(5) Any reference in this Part to an MPS being adopted by any policy authorities is a reference to the final text of the MPS being adopted by those authorities in accordance with Schedule 5.
+
+#### 45 Preparation and coming into effect of statement
+
+(1) An MPS may only be prepared by—
+
+(a) all the policy authorities, acting jointly,
+
+(b) the Secretary of State and any one or more other policy authorities, acting jointly, or
+
+(c) the Secretary of State.
+
+(2) An MPS must not be prepared by the Secretary of State acting alone under subsection (1)(c) unless the Secretary of State has first invited each of the other policy authorities to participate in the preparation of an MPS.
+
+(3) A later MPS replaces an earlier MPS, whether or not the later MPS is prepared and adopted by the same policy authorities that prepared and adopted the earlier MPS.
+
+(4) An MPS comes into effect when it has been published in accordance with Schedule 5.
+
+#### 46 Review of statement
+
+The policy authorities that prepared and adopted an MPS must review the MPS whenever they consider it appropriate to do so.
+
+#### 47 Amendment of statement
+
+(1) An MPS may be amended from time to time by the policy authorities which prepared and adopted it.
+
+(2) Any amendment of an MPS must be prepared and adopted in accordance with Schedule 5.
+
+(3) Any amendment of an MPS comes into effect when it has been published in accordance with that Schedule.
+
+(4) Any reference in this Part to an amendment of an MPS being adopted by any policy authorities is a reference to the final text of the amendment being adopted by those authorities in accordance with that Schedule.
+
+(5) Any reference in this Act to an MPS includes a reference to an MPS as amended.
+
+#### 48 Withdrawal of, or from, statement
+
+(1) If any of the policy authorities that prepared and adopted an MPS—
+
+(a) comes to the conclusion that it desires to withdraw from the MPS, and
+
+(b) publishes notice of that conclusion in each of the Gazettes,
+
+the authority is to be regarded as having withdrawn from the MPS as from the date on which the notice is so published.
+
+(2) Before arranging to publish any such notice, the policy authority must inform each of the other policy authorities that it intends to do so.
+
+(3) If the Secretary of State withdraws from an MPS, the MPS is withdrawn as from the date of the Secretary of State's withdrawal.
+
+(4) If any other policy authority withdraws from an MPS, then, as from the date of the authority's withdrawal, the authority is to be treated for the purposes of this Part as if it were not one of the policy authorities which adopted and published the MPS.
+
+(5) If the Secretary of State withdraws from an MPS, the Secretary of State must take such further steps as the Secretary of State considers appropriate to secure that the withdrawal of the MPS is brought to the attention of interested persons.
+
+(6) If any other policy authority withdraws from an MPS, it must take such further steps as it considers appropriate to secure that its withdrawal from the MPS is brought to the attention of interested persons.
+
+(7) An MPS which is withdrawn by virtue of subsection (3) ceases to have effect as from the date of the withdrawal.
+
+(8) Where a policy authority withdraws from an MPS, or an MPS is withdrawn by virtue of the withdrawal of the Secretary of State, the withdrawal does not affect—
+
+(a) the continuing validity or effect of any marine plan for any marine plan area, or
+
+(b) until such time as a new MPS governs marine planning for a marine plan area, the construction of any marine plan for that marine plan area.
+
+(9) In this section—
+
+- “the Gazettes” means—
+
+  - (a) the London Gazette,
+  - (b) the Edinburgh Gazette, and
+  - (c) the Belfast Gazette;
+
+- “interested persons” means—
+
+  - (a) any persons appearing to the policy authority to be likely to be interested in, or affected by, the withdrawal of or from the MPS;
+  - (b) members of the general public.
+
+### Chapter 2 — Marine plans
+
+#### 49 Marine planning regions
+
+(1) The UK marine area comprises the following marine planning regions—
+
+(a) the English inshore region;
+
+(b) the English offshore region;
+
+(c) the Scottish inshore region;
+
+(d) the Scottish offshore region;
+
+(e) the Welsh inshore region;
+
+(f) the Welsh offshore region;
+
+(g) the Northern Ireland inshore region;
+
+(h) the Northern Ireland offshore region.
+
+(2) The definitions of those regions can be found in section 322.
+
+#### 50 Marine plan authorities
+
+(1) There is to be a marine plan authority for each marine planning region other than—
+
+(a) the Scottish inshore region;
+
+(b) the Northern Ireland inshore region.
+
+(2) The marine plan authority for each marine planning region is as follows—
+
+(a) for the English inshore region, the Secretary of State;
+
+(b) for the English offshore region, the Secretary of State;
+
+(c) for the Scottish offshore region, the Scottish Ministers;
+
+(d) for the Welsh inshore region, the Welsh Ministers;
+
+(e) for the Welsh offshore region, the Welsh Ministers;
+
+(f) for the Northern Ireland offshore region, the Department of the Environment in Northern Ireland.
+
+(3) References to a marine plan authority's region are to be construed accordingly.
+
+#### 51 Marine plans for marine plan areas
+
+(1) A marine plan authority may prepare a marine plan for an area (a “marine plan area”) consisting of the whole or any part of its marine planning region.
+
+(2) Where an MPS governs marine planning for a marine planning region, the marine plan authority for the region must seek to ensure that every part of the region is within an area for which a marine plan is in effect.
+
+(3) A “marine plan” is a document which—
+
+(a) has been prepared and adopted for a marine plan area by the appropriate marine plan authority in accordance with Schedule 6,
+
+(b) states the authority's policies (however expressed) for and in connection with the sustainable development of the area, and
+
+(c) states that it is a marine plan prepared and adopted for the purposes of this section.
+
+(4) For the purposes of this section “the appropriate marine plan authority” in the case of any marine plan area is the marine plan authority in whose region the marine plan area lies.
+
+(5) A marine plan must identify (by means of a map or otherwise) the marine plan area for which it is a marine plan.
+
+(6) A marine plan must be in conformity with any MPS which governs marine planning for the marine plan area unless relevant considerations indicate otherwise.
+
+(7) For the purposes of this Part, an MPS “governs marine planning” for an area if—
+
+(a) it has been adopted by the policy authority which is the marine plan authority whose region consists of or includes the area,
+
+(b) it has been published in accordance with paragraph 12 of Schedule 5,
+
+(c) it has not been replaced or withdrawn, and
+
+(d) the policy authority mentioned in paragraph (a) has not withdrawn from it.
+
+As respects paragraphs (c) and (d), see also section 48(8) (effect of withdrawal of, or from, an MPS).
+
+(8) Unless prepared and adopted by the Secretary of State, a marine plan must state whether it includes provision relating to retained functions (see sections 59 and 60).
+
+(9) A marine plan may also include statements or information relating to policies contained in the plan.
+
+(10) If to any extent a policy stated in a marine plan conflicts with any other statement or information in the plan, that conflict must be resolved in favour of the policy.
+
+(11) A marine plan comes into effect when it has been published by the marine plan authority that prepared and adopted it in accordance with Schedule 6.
+
+#### 52 Amendment of marine plan
+
+(1) A marine plan may be amended from time to time by the marine plan authority for the marine planning region in which the marine plan area lies.
+
+(2) The provisions of this Part that relate to the preparation, adoption, publication and coming into effect of a marine plan also apply in relation to amendments of a marine plan.
+
+(3) Any reference in this Act to a marine plan includes a reference to a marine plan as amended.
+
+#### 53 Withdrawal of marine plan
+
+(1) A marine plan may be withdrawn at any time, but only in accordance with the following provisions of this section.
+
+(2) In this section—
+
+(a) subsection (3) has effect where a marine plan authority decides to withdraw a marine plan;
+
+(b) subsection (4) has effect where the Secretary of State decides to withdraw agreement to a marine plan;
+
+(c) subsections (5) and (6) make supplementary provision.
+
+(3) If a marine plan authority decides to withdraw a marine plan—
+
+(a) it is to publish notice of the withdrawal of the plan in each appropriate Gazette, and
+
+(b) the marine plan is withdrawn as from the date on which the notice is so published.
+
+(4) If at any time the Secretary of State decides to withdraw agreement previously given under paragraph 15 of Schedule 6 to a marine plan—
+
+(a) the Secretary of State is to give notice of that decision to the marine plan authority,
+
+(b) within 7 days of receiving that notice, the marine plan authority must publish notice of the withdrawal of the marine plan in each appropriate Gazette, and
+
+(c) the marine plan is withdrawn as from the date on which the notice is so published.
+
+(5) Where a marine plan is withdrawn under this section, the marine plan authority must take such further steps as it considers appropriate to secure that the withdrawal of the marine plan is brought to the attention of interested persons.
+
+(6) In this section—
+
+- “appropriate Gazette” means—
+
+  - (a) the London Gazette, if the marine plan is for a marine plan area in the English inshore region or the Welsh inshore region;
+  - (b) in any other case, each of the Gazettes;
+
+- “the Gazettes” means—
+
+  - (a) the London Gazette;
+  - (b) the Edinburgh Gazette; and
+  - (c) the Belfast Gazette;
+
+- “interested persons” means—
+
+  - (a) any persons appearing to the marine plan authority to be likely to be interested in, or affected by, the withdrawal of the marine plan, and
+  - (b) members of the general public.
+
+#### 54 Duty to keep relevant matters under review
+
+(1) A marine plan authority must keep under review the matters which may be expected to affect the exercise of its functions relating to—
+
+(a) the identification of areas which are to be marine plan areas, and
+
+(b) the preparation, adoption, review, amendment or withdrawal of marine plans for those areas.
+
+The reference in paragraph (b) to review is a reference to the functions of the marine plan authority under section 61.
+
+(2) The matters include—
+
+(a) the physical, environmental, social, cultural and economic characteristics of the authority's region and of the living resources which the region supports;
+
+(b) the purposes for which any part of the region is used;
+
+(c) the communications, energy and transport systems of the region;
+
+(d) any other considerations which may be expected to affect those matters.
+
+(3) The matters also include—
+
+(a) any changes which could reasonably be expected to occur in relation to any such matter;
+
+(b) the effect that any such changes may have in relation to the sustainable development of the region, its natural resources, or the living resources dependent on the region.
+
+(4) The reference in subsection (2)(a) to the cultural characteristics of the authority's region includes a reference to characteristics of that region which are of a historic or archaeological nature.
+
+### Chapter 3 — Delegation of functions relating to marine plans
+
+#### 55 Delegation of functions relating to marine plans
+
+(1) A marine plan authority may give directions under this section.
+
+(2) A direction under this section is a direction which—
+
+(a) designates any of the delegable marine plan functions which would (apart from directions under this section) be exercisable by or in relation to the authority, and
+
+(b) directs that those functions, instead of being so exercisable, are to be exercisable by or in relation to such public body, acting on behalf of the authority, as is designated in the direction.
+
+(3) An authority which gives a direction under this section may do so only with the consent of the public body.
+
+(4) The public body—
+
+(a) must comply with the direction, and
+
+(b) is to be taken to have all the powers necessary to do so.
+
+(5) In this section “delegable marine plan functions” means—
+
+(a) functions under Chapter 2 of this Part (marine plans), and
+
+(b) functions under section 61 (monitoring etc of implementation),
+
+other than excepted functions.
+
+(6) The “excepted functions” are the following functions of a marine plan authority—
+
+(a) deciding under paragraph 15 of Schedule 6 whether to publish a marine plan or any amendment of a marine plan;
+
+(b) deciding under section 53 whether to withdraw a marine plan.
+
+(7) No direction may be given under this section in respect of any of the following functions of the Secretary of State—
+
+(a) deciding under paragraph 5 of Schedule 6 whether to give agreement to a statement of public participation;
+
+(b) deciding under paragraph 7 of that Schedule whether to give agreement to a revised statement of public participation;
+
+(c) deciding under paragraph 11 of that Schedule whether to give agreement to a consultation draft;
+
+(d) deciding under paragraph 15 of that Schedule whether to give agreement to a marine plan;
+
+(e) deciding under section 53 whether to withdraw agreement previously given under that paragraph to a marine plan.
+
+#### 56 Directions under section 55: supplementary provisions
+
+(1) An authority which gives a direction under section 55 must publish the direction in a way calculated to bring the direction to the attention of persons likely to be interested in or affected by it.
+
+(2) For so long as a direction given and published under that section remains in force, the designated functions are exercisable by or in relation to the public body acting on behalf of the authority (and are not exercisable by or in relation to the authority).
+
+(3) Subsection (2) is subject to any provision to the contrary which—
+
+(a) is made by the direction, or
+
+(b) is included in a direction under section 57.
+
+(4) A direction under section 55 may include—
+
+(a) such terms or conditions,
+
+(b) such obligations or requirements,
+
+(c) such financial provisions,
+
+as the authority giving the direction may determine.
+
+(5) Directions under section 55 may make different provision for different cases, different areas or different public bodies.
+
+#### 57 Directions to public bodies as regards performance of delegated functions
+
+(1) This section applies where any functions are exercisable by or in relation to a public body by virtue of a direction given under section 55 by an authority.
+
+(2) The authority may from time to time give directions to the public body with respect to the performance of the functions.
+
+(3) Before giving any such directions, the authority must consult the public body.
+
+(4) A public body to which directions are given under this section must comply with the directions.
+
+(5) An authority which gives a direction under this section must publish the direction in a manner likely to bring the direction to the attention of persons likely to be interested in or affected by it.
+
+### Chapter 4 — Implementation and effect
+
+#### Decisions affected by an MPS or marine plan
+
+##### 58 Decisions affected by marine policy documents
+
+(1) A public authority must take any authorisation or enforcement decision in accordance with the appropriate marine policy documents, unless relevant considerations indicate otherwise.
+
+(2) If a public authority takes an authorisation or enforcement decision otherwise than in accordance with the appropriate marine policy documents, the public authority must state its reasons.
+
+(3) A public authority must have regard to the appropriate marine policy documents in taking any decision—
+
+(a) which relates to the exercise of any function capable of affecting the whole or any part of the UK marine area, but
+
+(b) which is not an authorisation or enforcement decision.
+
+(4) An “authorisation or enforcement decision” is any of the following—
+
+(a) the determination of any application (whenever made) for authorisation of the doing of any act which affects or might affect the whole or any part of the UK marine area,
+
+(b) any decision relating to any conditions of such an authorisation,
+
+(c) any decision about extension, replacement, variation, revocation or withdrawal of any such authorisation or any such conditions (whenever granted or imposed),
+
+(d) any decision relating to the enforcement of any such authorisation or any such conditions,
+
+(e) any decision relating to the enforcement of any prohibition or restriction (whenever imposed) on the doing of any act, or of any act of any description, falling within paragraph (a),
+
+but does not include any decision on an application for an order granting development consent under the Planning Act 2008 (c. 29) (in relation to which subsection (3) has effect accordingly).
+
+(5) In section 104(2) of the Planning Act 2008 (matters to which Panel or Council must have regard in deciding application for order granting development consent) after paragraph (a) insert—
+
+> (aa) the appropriate marine policy documents (if any), determined in accordance with section 59 of the Marine and Coastal Access Act 2009;
+
+.
+
+[[^F31](5A) This section does not apply to a decision on an application for infrastructure consent under the Infrastructure (Wales) Act 2024.]
+
+(6) In this section—
+
+- “act” includes omission;
+- “appropriate marine policy document” is to be read in accordance with section 59;
+- “authorisation” means any approval, confirmation, consent, licence, permission or other authorisation (however described), whether special or general.
+
+##### 59 The appropriate marine policy documents
+
+(1) This section has effect for the purpose of determining what are the appropriate marine policy documents for a public authority taking a decision falling within subsection (1) or (3) of section 58.
+
+(2) For that purpose—
+
+(a) subsection (3) has effect, subject to subsection (4), for determining whether any marine plan is an appropriate marine policy document, and
+
+(b) subsection (5) has effect for determining whether an MPS is an appropriate marine policy document.
+
+(3) To the extent that the decision relates to a marine plan area, any marine plan which is in effect for that area is an appropriate marine policy document.
+
+(4) A marine plan for an area in a devolved marine planning region is an appropriate marine policy document in relation to the exercise of retained functions by a public authority only if—
+
+(a) it contains a statement under section 51(8) that it includes provision relating to retained functions,
+
+(b) it was adopted with the agreement of the Secretary of State under paragraph 15(2) of Schedule 6, and
+
+(c) it was prepared and adopted at a time when an MPS was in effect which governed marine planning for the marine planning region.
+
+(5) Any MPS which is in effect is an appropriate marine policy document for each of the following public authorities—
+
+(a) any Minister of the Crown;
+
+(b) any government department;
+
+(c) if a devolved policy authority has adopted the MPS, the devolved policy authority and any primary devolved authority related to it;
+
+(d) any non-departmental public authority, so far as carrying out functions in relation to the English inshore region or the English offshore region;
+
+(e) any non-departmental public authority, so far as carrying out retained functions in relation to a devolved marine planning region;
+
+(f) any non-departmental public authority, so far as carrying out secondary devolved functions in relation to a marine planning region whose marine plan authority is a policy authority which adopted the MPS.
+
+(6) For the purposes of subsection (5)(f)—
+
+(a) the Scottish Ministers are to be treated as if they were the marine plan authority for the Scottish inshore region, and
+
+(b) the Department of the Environment in Northern Ireland is to be treated as if it were the marine plan authority for the Northern Ireland inshore region.
+
+(7) In this section—
+
+- “adopted”, in relation to an MPS, means adopted and published in accordance with Schedule 5 (but see also section 48(4));
+
+- “Counsel General” means the Counsel General to the Welsh Assembly Government;
+
+- “devolved marine planning region” means any marine planning region other than—
+
+  - (a) the English inshore region, and
+  - (b) the English offshore region;
+
+- “devolved policy authority” means—
+
+  - (a) the Scottish Ministers;
+  - (b) the Welsh Ministers;
+  - (c) the Department of the Environment in Northern Ireland;
+
+- “First Minister” has the same meaning as in the Government of Wales Act 2006 (c. 32);
+
+- “non-departmental public authority” means any public authority other than—
+
+  - (a) a Minister of the Crown or government department;
+  - (b) the Scottish Ministers;
+  - (c) the Welsh Ministers, the First Minister or the Counsel General;
+  - (d) a Northern Ireland Minister or a Northern Ireland department;
+
+- “Northern Ireland Minister”—
+
+  - (a) has the same meaning as in the Northern Ireland Act 1998 (c. 47), but
+  - (b) includes a reference to the First Minister and the deputy First Minister, within the meaning of that Act;
+
+- “primary devolved authority”, in relation to a devolved policy authority, means—
+
+  - (a) in the case of the Welsh Ministers, the First Minister or the Counsel General;
+  - (b) in the case of the Department of the Environment in Northern Ireland, a Northern Ireland Minister or a Northern Ireland department;
+
+- “retained functions” is defined for the purposes of this Part in section 60;
+
+- “secondary devolved functions” has the same meaning as in section 60.
+
+##### 60 Meaning of “retained functions” etc
+
+(1) For the purposes of this Part, the functions of a public authority which are “retained functions” as respects any marine planning region are those functions of the public authority which, as respects that region, are not any of the following—
+
+(a) Scottish Ministerial functions (see subsection (2));
+
+(b) Welsh Ministerial functions (see subsection (2));
+
+(c) Northern Ireland government functions (see subsection (2));
+
+(d) secondary devolved functions (see subsection (3));
+
+(e) relevant ancillary functions (see subsection (5)).
+
+(2) In this section—
+
+- “Northern Ireland government functions” means—
+
+  - (a) any functions exercisable by a Northern Ireland Minister or a Northern Ireland department, other than joint functions and concurrent functions (see subsection (9));
+  - (b) any concurrent functions, so far as exercised by a Northern Ireland Minister or a Northern Ireland department;
+  - (c) the function exercised by a Northern Ireland Minister or a Northern Ireland department when exercising a joint function;
+
+- “Scottish Ministerial functions” means—
+
+  - (a) any functions exercisable by the Scottish Ministers, other than joint functions and concurrent functions;
+  - (b) any concurrent functions, so far as exercised by the Scottish Ministers;
+  - (c) the function exercised by the Scottish Ministers when exercising a joint function;
+
+- “Welsh Ministerial functions” means—
+
+  - (a) any functions exercisable by the Welsh Ministers, the First Minister or the Counsel General, other than joint functions and concurrent functions;
+  - (b) any concurrent functions, so far as exercised by the Welsh Ministers, the First Minister or the Counsel General;
+  - (c) the function exercised by the Welsh Ministers, the First Minister or the Counsel General when exercising a joint function.
+
+(3) “Secondary devolved functions” means—
+
+(a) as respects the Scottish inshore region or the Scottish offshore region, any secondary devolved Scottish functions;
+
+(b) as respects the Welsh inshore region or the Welsh offshore region, any secondary devolved Welsh functions;
+
+(c) as respects the Northern Ireland inshore region or the Northern Ireland offshore region, any secondary devolved Northern Ireland functions.
+
+See subsection (4) for the definition of each of those descriptions of secondary devolved functions.
+
+(4) In this section—
+
+- “secondary devolved Northern Ireland functions” means any of the following—
+
+  - (a) any functions exercisable by a Northern Ireland non-departmental public authority;
+  - (b) any functions exercisable by any other non-departmental public authority, so far as relating to transferred or reserved matters (within the meaning of the Northern Ireland Act 1998 (c. 47));
+
+- “secondary devolved Scottish functions” means any of the following—
+
+  - (a) any functions exercisable by a Scottish non-departmental public authority;
+  - (b) any functions exercisable by any other non-departmental public authority, so far as not relating to reserved matters (within the meaning of the Scotland Act 1998 (c. 46));
+
+- “secondary devolved Welsh functions” means any of the following—
+
+  - (a) any functions exercisable by a Welsh non-departmental public authority;
+  - (b) any functions conferred or imposed on a non-departmental public authority by or under a Measure or Act of the National Assembly for Wales;
+  - (c) any functions exercisable by a non-departmental public authority, so far as [[^F32]they are capable of being conferred by provision falling within] the legislative competence of the National Assembly for Wales;
+
+but the definitions in this subsection are subject to subsection (6) (which excludes certain functions in relation to which functions are exercisable by a Minister of the Crown or government department).
+
+(5) “Relevant ancillary functions” means any functions exercisable by a non-departmental public authority in relation to any of the following—
+
+(a) a Scottish Ministerial function;
+
+(b) a Welsh Ministerial function;
+
+(c) a Northern Ireland government function;
+
+(d) a secondary devolved function;
+
+but this subsection is subject to subsection (6).
+
+(6) Where functions are exercisable by a Minister of the Crown or government department in relation to a function of a non-departmental public authority, the function of the non-departmental public authority is not—
+
+(a) a secondary devolved Scottish function;
+
+(b) a secondary devolved Welsh function;
+
+(c) a secondary devolved Northern Ireland function;
+
+(d) a relevant ancillary function;
+
+but this subsection is subject to subsection (7).
+
+(7) Functions are not to be regarded as exercisable by a Minister of the Crown or government department in relation to functions of a non-departmental public authority merely because—
+
+(a) the agreement of a Minister of the Crown or government department is required to the exercise of a function of the non-departmental public authority;
+
+(b) a Minister of the Crown or government department must be consulted by the non-departmental public authority, or by a primary devolved authority, about the exercise of a function of the non-departmental public authority;
+
+(c) a Minister of the Crown or government department may exercise functions falling within subsection (8) in relation to functions of the non-departmental public authority.
+
+(8) The functions mentioned in subsection (7)(c) are—
+
+[^F33]a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[[^F34](b) functions under section 58 of the Scotland Act 1998 (c. 46) (international obligations);]
+
+(c) functions under section 26 or 27 of the Northern Ireland Act 1998 (c. 47) (international obligations and quotas for international obligations);
+
+(d) functions by virtue of section 80(3) of [^F35]... the Government of Wales Act 2006 (c. 32) [[^F36]([[^F37]assimilated] obligations)] or under section 82 of that Act (international obligations etc);
+
+(e) functions under section 152 of that Act (intervention in case of functions relating to water etc).
+
+(9) In this section—
+
+- “concurrent function” means a function exercisable concurrently with a Minister of the Crown or government department;
+
+- “Counsel General” means the Counsel General to the Welsh Assembly Government;
+
+- “devolved policy authority” means—
+
+  - (a) the Scottish Ministers;
+  - (b) the Welsh Ministers;
+  - (c) the Department of the Environment in Northern Ireland;
+
+- “First Minister” has the same meaning as in the Government of Wales Act 2006 (c. 32);
+
+- “joint function” means a function exercisable jointly with a Minister of the Crown or government department;
+
+- “non-departmental public authority” has the same meaning as in section 59;
+
+- “Northern Ireland Minister”—
+
+  - (a) has the same meaning as in the Northern Ireland Act 1998 (c. 47), but
+  - (b) includes a reference to the First Minister and the deputy First Minister, within the meaning of that Act;
+
+- “Northern Ireland non-departmental public authority” means any non-departmental public authority so far as exercising functions in relation to which functions are exercisable by a Northern Ireland Minister or a Northern Ireland department;
+
+- “primary devolved authority” means any of the following—
+
+  - (a) the Scottish Ministers;
+  - (b) the Welsh Ministers, the First Minister or the Counsel General;
+  - (c) a Northern Ireland Minister or a Northern Ireland department;
+
+- “Scottish non-departmental public authority” means any non-departmental public authority so far as exercising functions in relation to which functions are exercisable by the Scottish Ministers;
+
+- “Welsh non-departmental public authority” means any non-departmental public authority so far as exercising functions in relation to which functions are exercisable by the Welsh Ministers, the First Minister or the Counsel General.
+
+#### Monitoring and reporting
+
+##### 61 Monitoring of, and periodical reporting on, implementation
+
+(1) This section makes provision for and in connection with imposing the following duties on a marine plan authority—
+
+(a) where it has prepared and adopted a marine plan, a duty to keep the matters specified in subsection (3) under review for so long as the marine plan is in effect (see subsections (2) and (3));
+
+(b) in any such case, a duty to prepare and publish, and lay a copy of, a report on those matters at intervals of not more than 3 years (see subsections (4) to (9));
+
+(c) in any case, a duty to prepare, and lay, at intervals of not more than 6 years ending before 1st January 2030, a report on—
+
+(i) any marine plans it has prepared and adopted,
+
+(ii) its intentions for their amendment, and
+
+(iii) its intentions for the preparation and adoption of any further marine plans,
+
+(see subsections (10) to (13)).
+
+(2) For so long as a marine plan is in effect, the marine plan authority must keep under review each of the matters in subsection (3).
+
+(3) The matters are—
+
+(a) the effects of the policies in the marine plan;
+
+(b) the effectiveness of those policies in securing that the objectives for which the marine plan was prepared and adopted are met;
+
+(c) the progress being made towards securing those objectives;
+
+(d) if an MPS governs marine planning for the marine plan authority's region, the progress being made towards securing that the objectives for which the MPS was prepared and adopted are met in that region.
+
+(4) The marine plan authority must from time to time prepare and publish a report on the matters kept under review pursuant to subsection (2).
+
+(5) Where the marine plan authority publishes a report under subsection (4), the authority must lay a copy of the report before the appropriate legislature.
+
+(6) After publishing a report under subsection (4), the marine plan authority must decide whether or not to amend or replace the marine plan.
+
+(7) The first report under subsection (4) must be published before the expiration of 3 years beginning with the date on which the marine plan was adopted.
+
+(8) After the publication of the first report under subsection (4), successive reports under that subsection must be published at intervals of no more than 3 years following the date of publication of the previous report.
+
+(9) Any reference in this section to the replacement of a marine plan is a reference to—
+
+(a) preparing and adopting, in accordance with the provisions of this Part, a fresh marine plan (whether or not for the identical marine plan area), and
+
+(b) if the marine plan authority has not already done so, withdrawing the marine plan that is to be replaced.
+
+(10) Each marine plan authority must from time to time prepare and lay before the appropriate legislature a report which—
+
+(a) identifies any marine plans which the authority has prepared and adopted;
+
+(b) describes any intentions the authority may have for the amendment of any marine plans which it has prepared and adopted;
+
+(c) describes any intentions the authority may have for the preparation and adoption of any further marine plans.
+
+(11) The first report prepared under subsection (10) by each marine plan authority must be laid before the appropriate legislature before the expiration of the period of 6 years beginning with the date of the passing of this Act.
+
+(12) After a marine plan authority has prepared and laid its first report under subsection (10), it must prepare and lay successive reports under that subsection at intervals of no more than 6 years following the laying of the previous report.
+
+(13) No report under subsection (10) is required to be laid in a case where the period of 6 years following the laying of the previous report ends on or after 1st January 2030.
+
+(14) For the purposes of this section, the “appropriate legislature” is—
+
+(a) in the case of the Secretary of State, Parliament;
+
+(b) in the case of the Scottish Ministers, the Scottish Parliament;
+
+(c) in the case of the Welsh Ministers, the National Assembly for Wales;
+
+(d) in the case of the Department of the Environment in Northern Ireland, the Northern Ireland Assembly.
+
+### Chapter 5 — Miscellaneous and general provisions
+
+#### Validity of documents under this Part
+
+##### 62 Validity of marine policy statements and marine plans
+
+(1) This section applies to—
+
+(a) any MPS,
+
+(b) any amendment of an MPS,
+
+(c) any marine plan,
+
+(d) any amendment of a marine plan.
+
+(2) Anything falling within the paragraphs of subsection (1) is referred to in this section as a “relevant document”.
+
+(3) A relevant document must not be questioned in any legal proceedings, except in so far as is provided by the following provisions of this section.
+
+(4) A person aggrieved by a relevant document may make an application to the appropriate court on any of the following grounds—
+
+(a) that the document is not within the appropriate powers;
+
+(b) that a procedural requirement has not been complied with.
+
+(5) Any such application must be made not later than 6 weeks after the publication of the relevant document.
+
+(6) In this section—
+
+- “the appropriate court” means—
+
+  - (a) the High Court, if the relevant document is a marine plan, or an amendment of a marine plan, for an area within the English inshore region or the Welsh inshore region;
+  - (b) in any other case, any superior court in the United Kingdom;
+
+- “the appropriate powers” means—
+
+  - (a) in the case of an MPS or an amendment of an MPS, the powers conferred by Chapter 1 of this Part;
+  
+  - (b) in the case of a marine plan or an amendment of a marine plan, the powers conferred by—
+  
+    - (i) Chapter 2 of this Part, or
+    - (ii) section 55 (delegation);
+
+- “procedural requirement” means any requirement—
+
+  - (a) under the appropriate powers, or
+  - (b) in directions under section 55 or 57,
+
+  which relates to the preparation, adoption or publication of a relevant document;
+
+- “superior court in the United Kingdom” means any of the following—
+
+  - (a) the High Court;
+  - (b) the Court of Session.
+
+##### 63 Powers of the court on an application under section 62
+
+(1) This section applies in any case where an application under section 62 is made to a court.
+
+(2) The court may make an interim order suspending the operation of the relevant document—
+
+(a) wholly or in part,
+
+(b) generally or as it affects a particular area.
+
+An interim order has effect until the proceedings are finally determined.
+
+(3) Subsection (4) applies if the court is satisfied as to any of the following—
+
+(a) that a relevant document is to any extent outside the appropriate powers;
+
+(b) that the interests of the applicant have been substantially prejudiced by failure to comply with a procedural requirement.
+
+(4) The court may—
+
+(a) quash the relevant document;
+
+(b) remit the relevant document to a body or person with a function relating to its preparation, adoption or publication.
+
+(5) If the court remits the relevant document under subsection (4)(b), it may give directions as to the action to be taken in relation to the relevant document.
+
+(6) Directions under subsection (5) may in particular—
+
+(a) require the relevant document to be treated (generally or for specified purposes) as not having been adopted or published;
+
+(b) require specified steps in the process that has resulted in the adoption of the relevant document to be treated (generally or for specified purposes) as having been taken or as not having been taken;
+
+(c) require action to be taken by a body or person with a function relating to the preparation, adoption or publication of the document (whether or not the body or person to whom the document is remitted);
+
+(d) require action to be taken by one body or person to depend on what action has been taken by another body or person.
+
+(7) The court's powers under subsections (4) and (5) are exercisable in relation to the whole or any part of the relevant document.
+
+(8) Expressions used in this section and in section 62 have the same meaning in this section as they have in that section.
+
+#### Interpretation and Crown application
+
+##### 64 Interpretation and Crown application of this Part
+
+(1) In this Part—
+
+- “adopted” is to be read—
+
+  - (a) in the case of an MPS, in accordance with section 44 and paragraph 12 of Schedule 5,
+  - (b) in the case of a marine plan, in accordance with section 51 and paragraph 15 of Schedule 6,
+
+  and related expressions are to be construed accordingly;
+
+- “marine plan” has the meaning given in section 51;
+
+- “marine plan area” is to be read in accordance with section 51;
+
+- “marine plan authority” is to be read in accordance with section 50;
+
+- “marine planning region” is to be read in accordance with section 49;
+
+- “policy authority” has the meaning given in section 44;
+
+- “retained functions” has the meaning given in section 60.
+
+(2) Any reference in this Part to an MPS governing marine planning for an area is to be construed in accordance with section 51(7).
+
+(3) This Part binds the Crown.
+
+## Part 4 — Marine licensing
+
+### Chapter 1 — Marine licences
+
+#### 65 Requirement for licence
+
+(1) No person may—
+
+(a) carry on a licensable marine activity, or
+
+(b) cause or permit any other person to carry on such an activity,
+
+except in accordance with a marine licence granted by the appropriate licensing authority.
+
+(2) Subsection (1) is subject to any provision made by or under sections 74 to 77 (exemptions).
+
+#### 66 Licensable marine activities
+
+(1) For the purposes of this Part, it is a licensable marine activity to do any of the following—
+
+|  |  |
+|---|---|
+| 1. | To deposit any substance or object within the UK marine licensing area, either in the sea or on or under the sea bed, from—<br>- (a) any vehicle, vessel, aircraft or marine structure,<br>- (b) any container floating in the sea, or<br>- (c) any structure on land constructed or adapted wholly or mainly for the purpose of depositing solids in the sea. |
+| 2. | To deposit any substance or object anywhere in the sea or on or under the sea bed from—<br>- (a) a British vessel, British aircraft or British marine structure, or<br><br>- (b) a container floating in the sea, if the deposit is controlled from a British vessel, British aircraft or British marine structure,<br><br> [[^F38]unless the deposit is carried out in an area beyond national jurisdiction.] |
+| 3. | To deposit any substance or object anywhere in the sea or on or under the sea bed from a vehicle, vessel, aircraft, marine structure or floating container which was loaded with the substance or object—<br>- (a) in any part of the United Kingdom except Scotland, or<br>- (b) in the UK marine licensing area. |
+| 4. | To scuttle any vessel or floating container in the UK marine licensing area. |
+| 5. | To scuttle any vessel or floating container anywhere at sea [[^F39]except in an area beyond national jurisdiction] , if the scuttling is controlled from a British vessel, British aircraft or British marine structure. |
+| 6. | To scuttle any vessel or floating container anywhere at sea, if the vessel or container has been towed or propelled, for the purpose of that scuttling,—<br>- (a) from any part of the United Kingdom except Scotland, or<br>- (b) from the UK marine licensing area, unless the towing or propelling began outside that area. |
+| 7. | To construct, alter or improve any works within the UK marine licensing area either—<br>- (a) in or over the sea, or<br>- (b) on or under the sea bed. |
+| 8. | To use a vehicle, vessel, aircraft, marine structure or floating container to remove any substance or object from the sea bed within the UK marine licensing area. |
+| 9. | To carry out any form of dredging within the UK marine licensing area (whether or not involving the removal of any material from the sea or sea bed). |
+| 10. | To deposit or use any explosive substance or article within the UK marine licensing area either in the sea or on or under the sea bed. |
+| 11. | To incinerate any substance or object on any vehicle, vessel, marine structure or floating container in the UK marine licensing area. |
+| 12. | To incinerate any substance or object anywhere at sea [[^F40], except in an area beyond national jurisdiction,] on—<br>- (a) a British vessel or British marine structure, or<br>- (b) a container floating in the sea, if the incineration is controlled from a British vessel, British aircraft or British marine structure. |
+| 13. | To load a vehicle, vessel, aircraft, marine structure or floating container in any part of the United Kingdom except Scotland, or in the UK marine licensing area, with any substance or object for incineration anywhere at sea. |
+| [[^F41]14. | To deposit any substance or object in an area beyond national jurisdiction either in the sea or on or under the sea bed from—<br>- a British vessel, British aircraft or British marine structure, or<br>- a container floating in the sea, if the deposit is controlled from a British vessel, British aircraft or British marine structure. |
+| 15. | To deposit any substance or object in an area beyond national jurisdiction in the sea or on or under the sea bed where the person carrying on, or causing or permitting any other person to carry on, the deposit is a United Kingdom person. |
+| 16. | To scuttle any vessel or floating container at sea in an area beyond national jurisdiction, if the scuttling is controlled from a British vessel, British aircraft or British marine structure. |
+| 17. | To scuttle any vessel or floating container at sea in an area beyond national jurisdiction where the person carrying on, or causing or permitting any other person to carry on, the scuttling is a United Kingdom person. |
+| 18. | To construct, alter or improve any works in an area beyond national jurisdiction either in or over the sea or on or under the sea bed, if—<br>- such activity is carried on or controlled from a British vessel or British marine structure, or<br>- the person carrying on, or causing or permitting any other person to carry on, such activity is a United Kingdom person. |
+| 19. | To use a vessel, aircraft, marine structure or floating container to remove any substance or object from the sea bed in an area beyond national jurisdiction, if—<br>- the vessel, aircraft or marine structure is a British vessel, British aircraft or British marine structure,<br>- the floating container is controlled from a British vessel, British aircraft, or British marine structure, or<br>- the person carrying on, or causing or permitting any other person to carry on, the removal is a United Kingdom person. |
+| 20. | To carry out any form of dredging in an area beyond national jurisdiction (whether or not involving the removal of any material from the sea or sea bed) if—<br>- the dredging is carried on or controlled from a British vessel or British marine structure, or<br>- the person carrying on, or causing or permitting any other person to carry on, the dredging is a United Kingdom person. |
+| 21. | To deposit or use any explosive substance or article in an area beyond national jurisdiction either in the sea or on or under the sea bed, if—<br>- the deposit or use is made or carried out from a British vessel, British aircraft, or British marine structure,<br>- the deposit or use is made from a floating container controlled from a British vessel, British aircraft, or British marine structure, or<br>- the person carrying on, or causing or permitting any other person to carry on, the deposit or use is a United Kingdom person. |
+| 22. | To incinerate any substance or object at sea in an area beyond national jurisdiction on—<br>- a British vessel or British marine structure, or<br>- a container floating in the sea, if the incineration is controlled from a British vessel, British aircraft or British marine structure. |
+| 23. | To incinerate any substance or object at sea in an area beyond national jurisdiction where the person carrying on, or causing or permitting any other person to carry on, the incineration is a United Kingdom person.] |
+
+(2) In subsection (1)—
+
+(a) in [[^F42]items 9 and 20], “dredging” includes using any device to move any material (whether or not suspended in water) from one part of the sea or sea bed to another part;
+
+(b) in [[^F43]items 12, 13, 22 and 23], “incineration” means the combustion of a substance or object for the purpose of its thermal destruction (and in [[^F44]items 11, 12, 22 and 23] “incinerate” is to be read accordingly).
+
+[[^F45](c) “United Kingdom person” has the same meaning that it has in section 27(1) of the Biodiversity Beyond National Jurisdiction Act 2026.]
+
+(3) The appropriate licensing authority for any area may by order amend subsection (1) so as to add any activity to, or remove any activity from, the list of licensable marine activities as it has effect in that area.
+
+[[^F46](3A) An order under subsection (3) that adds an activity may designate the activity as activity added in contemplation of the United Kingdom’s obligations—
+
+(a) under Part 3 of the Biodiversity Beyond National Jurisdiction Agreement (area-based management tools), or
+
+(b) in respect of an activity that takes place in an area beyond national jurisdiction, under Part 4 of that Agreement (environmental impact assessments).
+
+(3B) Where an order contains provision within subsection (3A), the related provision that may be made in the order in reliance on section 316(1)(b) (consequential etc provision) includes provision amending primary or secondary legislation whenever passed or made.
+
+(3C) [[^F47]In this section]—
+
+- “area beyond national jurisdiction” has the meaning that it has in the Biodiversity Beyond National Jurisdiction Agreement (see Article 1);
+- “the Biodiversity Beyond National Jurisdiction Agreement” means the Agreement under the United Nations Convention on the Law of the Sea on the Conservation and Sustainable Use of Marine Biological Diversity of Areas Beyond National Jurisdiction, opened for signature at New York on 20 September 2023.]
+
+(4) For the purposes of this Part “the UK marine licensing area” consists of the UK marine area, other than the Scottish inshore region.
+
+#### 67 Applications
+
+(1) The appropriate licensing authority may require an application for a marine licence—
+
+(a) to be made in such form as the authority may determine;
+
+(b) to be accompanied by a fee.
+
+(2) The fee that may be charged under subsection (1)(b) is to be determined by, or in accordance with, regulations made by the appropriate licensing authority.
+
+(3) A licensing authority may—
+
+(a) determine different forms for different descriptions of applications;
+
+(b) provide for different fees for different descriptions of applications.
+
+(4) The appropriate licensing authority may require an applicant—
+
+(a) to supply such information,
+
+(b) to produce such articles, and
+
+(c) to permit such investigations, examinations and tests,
+
+as in the opinion of the authority may be necessary or expedient to enable it to determine the application.
+
+(5) If the appropriate licensing authority carries out any investigation, examination or test (whether or not by virtue of subsection (4)(c)) which in its opinion is necessary or expedient to enable it to determine an application, the authority may require the applicant to pay a fee towards the reasonable expenses of that investigation, examination or test.
+
+(6) If an applicant fails to comply with a requirement made by the appropriate licensing authority under this section, the authority may—
+
+(a) refuse to proceed with the application, or
+
+(b) refuse to proceed with it until the failure is remedied.
+
+#### 67A [[^F48]Advice and other assistance from the Welsh Ministers
+
+(1) This section applies where the Welsh Ministers are the appropriate licensing authority.
+
+(2) The licensing authority may provide advice or other assistance to any person who requests it in connection with—
+
+(a) an application which the person proposes to make to the licensing authority for a marine licence, or
+
+(b) any other matter in respect of which the licensing authority exercises functions under this Part.
+
+(3) The licensing authority may charge fees in respect of the reasonable costs incurred by it in connection with the provision of advice or other assistance under subsection (2).]
+
+#### 68 Notice of applications
+
+(1) Having received an application for a marine licence, the appropriate licensing authority must—
+
+(a) publish notice of the application, or
+
+(b) require the applicant to publish notice of it.
+
+(2) Publication under subsection (1) must be in such manner as the authority thinks is best calculated to bring the application to the attention of any persons likely to be interested in it.
+
+(3) If the activity in respect of which the application is being made is proposed to be carried on wholly or partly within the area of a local authority in England, Wales or Northern Ireland, the appropriate licensing authority must give notice of the application, or require the applicant to give notice of the application, to that local authority (whether or not notice has been published under subsection (1)).
+
+(4) The appropriate licensing authority must not proceed with an application unless—
+
+(a) notice has been published under subsection (1) (but see subsection (7)), and
+
+(b) notice has been given under subsection (3) to any local authority to which notice of the application is required to be given by virtue of that subsection (but see subsection (8)).
+
+(5) If the appropriate licensing authority—
+
+(a) publishes notice of an application, in pursuance of subsection (1)(a), or
+
+(b) gives notice of an application to a local authority, in pursuance of subsection (3),
+
+the licensing authority may require the applicant to pay a fee towards the reasonable expenses of doing so.
+
+(6) If an applicant fails to comply with a requirement made by the authority under subsection (5), the authority may—
+
+(a) refuse to proceed with the application, or
+
+(b) refuse to proceed with it until the failure is remedied.
+
+(7) Subsection (1) does not apply in the case of any particular application if—
+
+(a) the authority considers that notice of the application should not be published, or
+
+(b) the Secretary of State certifies that in the opinion of the Secretary of State publication of notice of the application would be contrary to the interests of national security.
+
+(8) Subsection (3) does not apply in the case of any particular application and any particular local authority if—
+
+(a) the appropriate licensing authority considers that notice of the application should not be given to the local authority, or
+
+(b) the Secretary of State certifies that in the opinion of the Secretary of State it would be contrary to the interests of national security to give notice of the application to the local authority.
+
+(9) In this section “local authority” means—
+
+(a) in relation to England, a county council, a district council, a London borough council, the Common Council of the City of London or the Council of the Isles of Scilly;
+
+(b) in relation to Wales, a county council or a county borough council;
+
+(c) in relation to Northern Ireland, a district council.
+
+#### 69 Determination of applications
+
+(1) In determining an application for a marine licence (including the terms on which it is to be granted and what conditions, if any, are to be attached to it), the appropriate licensing authority must have regard to—
+
+(a) the need to protect the environment,
+
+(b) the need to protect human health,
+
+(c) the need to prevent interference with legitimate uses of the sea,
+
+and such other matters as the authority thinks relevant.
+
+(2) In the case of an application for a licence to authorise such activities as are mentioned in item 7 [[^F49]or item 18] in section 66(1), the appropriate licensing authority must have regard (among other things) to the effects of any use intended to be made of the works in question when constructed, altered or improved.
+
+(3) The appropriate licensing authority must have regard to any representations which it receives from any person having an interest in the outcome of the application.
+
+(4) A licensing authority may—
+
+(a) from time to time consult any person or body it thinks fit as to the general manner in which the licensing authority proposes to exercise its powers in cases involving any matter in which that person or body has particular expertise;
+
+(b) in relation to any particular application, consult any person or body which has particular expertise in any matter arising in relation to that application.
+
+(5) If the appropriate licensing authority consults any person or body under subsection (4)(b), it must give the applicant the opportunity to make representations to the licensing authority about any observations made by the person or body.
+
+[[^F50](5A) Regulation 3 of the Electronic Communications and Wireless Telegraphy Regulations 2011 makes provision about the time within which certain applications under this section for the granting of rights to install facilities must be determined.]
+
+(6) A licensing authority may by regulations make further provision as to the procedure to be followed in connection with—
+
+(a) applications to it for marine licences, and
+
+(b) the grant by it of such licences.
+
+(7) The provision that may be made by virtue of subsection (6) includes (in particular) provision as to—
+
+(a) the period within which any function is to be exercised (including when that period is to begin and how it is to be calculated);
+
+(b) notifying the applicant of any licensing determination.
+
+#### 70 Inquiries
+
+(1) The appropriate licensing authority may cause an inquiry to be held in connection with the determination of an application for a marine licence.
+
+(2) Subsection (1) is subject to the following provisions of this section.
+
+(3) Subsections (2) to (5) of section 250 of the Local Government Act 1972 (c. 70) apply to any inquiry which the Secretary of State or the Welsh Ministers may cause to be held under subsection (1) as they apply to inquiries under that section.
+
+(4) Subsections (2) to (8) of section 210 of the Local Government (Scotland) Act 1973 (c. 65) apply to any inquiry which the Scottish Ministers may cause to be held under subsection (1) as they apply to inquiries under that section.
+
+(5) Schedule A1 to the Interpretation Act (Northern Ireland) 1954 (c. 33) applies to any inquiry which the Department of the Environment in Northern Ireland may cause to be held under subsection (1) as it applies to a local inquiry held under an enactment passed or made as mentioned in section 23 of that Act.
+
+(6) Where—
+
+(a) an inquiry is caused by a licensing authority to be held under subsection (1), and
+
+(b) in the case of some other matter required or authorised to be the subject of an inquiry (“the other inquiry”), it appears to the relevant authority or authorities that the matters are so far cognate that they should be considered together,
+
+the relevant authority or authorities may direct that the two inquiries be held concurrently or combined as one inquiry.
+
+(7) In subsection (6) “the relevant authority or authorities” means the licensing authority or, where causing the other inquiry to be held is the function of some other person or body, the licensing authority and that other person or body acting jointly.
+
+(8) If, in the case of any particular application, the Secretary of State certifies that it would in the opinion of the Secretary of State be contrary to the interests of national security—
+
+(a) if an inquiry under subsection (1) were to be held, or
+
+(b) if any members of the public, or any specified persons, were to be admitted to the inquiry or some specified part of it,
+
+the inquiry is not to be held or, as the case may be, the public is not, or those persons are not, to be admitted to the inquiry or that part of it.
+
+(9) In subsection (8) “specified” means—
+
+(a) specified in the certificate, or
+
+(b) of a description specified in the certificate.
+
+#### 71 Licences
+
+(1) The appropriate licensing authority, having considered an application for a marine licence, must—
+
+(a) grant the licence unconditionally,
+
+(b) grant the licence subject to such conditions as the authority thinks fit, or
+
+(c) refuse the application.
+
+(2) The conditions that may be attached to a licence under subsection (1)(b) may relate to—
+
+(a) the activities authorised by the licence;
+
+(b) precautions to be taken or works to be carried out (whether before, during or after the carrying out of the authorised activities) in connection with or in consequence of those activities.
+
+(3) Those conditions include, in particular, conditions—
+
+(a) that no activity authorised by the licence be carried out until the authority or some other specified person has given such further approval of the activity as may be specified;
+
+(b) as to the provision, maintenance, testing or operation of equipment for measuring or recording specified matters relating to any activity authorised by the licence;
+
+(c) as to the keeping of records or the making of returns or giving of other information to the authority;
+
+(d) for the removal, at the end of a specified period, of any object or works to which the licence relates;
+
+(e) for the carrying out, at the end of a specified period, of such works as may be specified for the remediation of the site or of any object or works to which the licence relates;
+
+(f) that any activity authorised by the licence must take place at a specified site, whether or not in the UK marine licensing area.
+
+(4) A licence may provide—
+
+(a) that it is to expire unless the activity which it authorises is begun or completed within a specified period;
+
+(b) that it is to remain in force indefinitely or for a specified period of time (which may be determined by reference to a specified event).
+
+(5) A licence authorising such activities as are mentioned in item 7 [[^F51]or item 18] in section 66(1) may provide that the conditions attached to it are to bind any other person who for the time being owns, occupies or enjoys any use of the works in question (whether or not the licence is transferred to that other person).
+
+(6) A licensing authority must not grant a licence to carry on any activity which is contrary to international law.
+
+(7) In this section “specified” means specified in the licence in question.
+
+#### 72 Variation, suspension, revocation and transfer
+
+(1) A licensing authority may by notice vary, suspend or revoke a licence granted by it if it appears to the authority that there has been a breach of any of its provisions.
+
+(2) A licensing authority may by notice vary, suspend or revoke a licence granted by it if it appears to the authority that—
+
+(a) in the course of the application for the licence, any person either supplied information to the authority that was false or misleading or failed to supply information, and
+
+(b) if the correct information had been supplied the authority would have, or it is likely that the authority would have, refused the application or granted the licence in different terms.
+
+(3) A licensing authority may by notice vary, suspend or revoke a licence granted by it if it appears to the authority that the licence ought to be varied, suspended or revoked—
+
+(a) because of a change in circumstances relating to the environment or human health;
+
+(b) because of increased scientific knowledge relating to either of those matters;
+
+(c) in the interests of safety of navigation;
+
+(d) for any other reason that appears to the authority to be relevant.
+
+(4) A suspension under subsection (1), (2) or (3) is for such period as the authority specifies in the notice of suspension.
+
+(5) A licensing authority may by further notice extend the period of a suspension.
+
+(6) But a licence may not by virtue of this section be suspended for a period exceeding 18 months.
+
+(7) On an application made by a licensee, the licensing authority which granted the licence—
+
+(a) may transfer the licence from the licensee to another person, and
+
+(b) if it does so, must vary the licence accordingly.
+
+(8) A licence may not be transferred except in accordance with subsection (7).
+
+#### 72A [[^F52]Further fees chargeable where the Welsh Ministers are the appropriate licensing authority
+
+(1) This section applies where the Welsh Ministers are the appropriate licensing authority in relation to a marine licence granted under this Part.
+
+(2) The licensing authority may require the licensee to pay a fee for—
+
+(a) monitoring an activity authorised by the licence,
+
+(b) assessing and interpreting the results of any monitoring of an activity authorised by the licence, or
+
+(c) dealing with an application by the licensee for a variation, suspension, revocation or transfer of the licence under section 72.
+
+(3) In subsection (2) “monitoring”, in relation to a licence, means monitoring carried out for the purposes of enabling the licensing authority to determine—
+
+(a) the environmental, economic or social consequences of any activity authorised by the licence, or
+
+(b) whether the licensee is complying with any conditions attached to that licence.
+
+(4) The fees that may be charged under subsection (2) are to be determined by or in accordance with regulations made by the licensing authority.
+
+(5) Regulations under subsection (4) may provide for different fees for different cases.
+
+(6) If the licensing authority carries out any investigation, examination or test which in its opinion is necessary or expedient to enable it to determine an application by a licensee for a variation, suspension, revocation or transfer of a licence under section 72, the authority may require the licensee to pay a fee towards the reasonable expenses of that investigation, examination or test.
+
+(7) If a licensee fails to comply with a requirement to pay a fee charged under subsection (2)(a) or (b), the licensing authority may by notice vary, suspend or revoke the licence.
+
+(8) The suspension of a licence under subsection (7) continues in effect until the fee is paid (but this is subject to any provision made under section 108(3)(b) in relation to notices under that subsection).
+
+(9) If a licensee who has applied for a variation, suspension, revocation or transfer of a licence under section 72 fails to comply with a requirement to pay a fee charged under this section in connection with that application, the licensing authority may—
+
+(a) refuse to proceed with the application, or
+
+(b) refuse to proceed with it until the failure is remedied.]
+
+#### 73 Appeals against licensing decisions
+
+(1) The appropriate licensing authority must by regulations make provision for any person who applies for a marine licence to appeal against a decision under section 71.
+
+(2) The regulations required by subsection (1) must come into force on the day on which this Part comes into force.
+
+(3) Regulations under this section may include—
+
+(a) provision as to the procedure to be followed with respect to an appeal;
+
+(b) provision for or in connection with suspending or varying any condition subject to which the licence was granted, pending determination of the appeal;
+
+(c) provision as to the powers of any person to whom the appeal is made;
+
+(d) provision as to how any sum payable in pursuance of a decision of that person is to be recoverable.
+
+[[^F53](4) The duty in subsection (1) does not apply in relation to a decision under section 71 to which section 73A applies.]
+
+#### 73A [[^F54] Proceedings for questioning certain decisions under sections 70 and 71
+
+(1) If a person is aggrieved by a decision of the Scottish Ministers to which this section applies, and wishes to question the validity of the decision on either of the grounds mentioned in subsection (2), the person (the “aggrieved person”) may make an application to the Inner House of the Court of Session under this section.
+
+(2) The grounds are that—
+
+(a) the decision is not within the powers of the Scottish Ministers under this Part,
+
+(b) one or more of the relevant requirements have not been complied with in relation to the decision.
+
+(3) This section applies to—
+
+(a) a decision to cause, or not to cause, an inquiry to be held under section 70(1) in connection with the Scottish Ministers’ determination of an application for a marine licence to carry on an activity in respect of which a generating station application must also be made, and
+
+(b) a decision under section 71 in relation to an application for a marine licence to carry on such an activity.
+
+(4) An application under this section must be made within the period of 6 weeks beginning with the date on which the decision to which the application relates is taken.
+
+(5) On an application under this section, the Inner House of the Court of Session—
+
+(a) may suspend the decision until the final determination of the proceedings,
+
+(b) may quash the decision either in whole or in part if satisfied that—
+
+(i) the decision in question is not within the powers of the Scottish Ministers under this Part, or
+
+(ii) the interests of the aggrieved person have been substantially prejudiced by failure to comply with any of the relevant requirements in relation to the decision.
+
+(6) In this section—
+
+- “generating station application” means an application for consent under section 36 of the Electricity Act 1989 (consent for the construction etc. of generating stations) which falls (or would fall) to be granted by the Scottish Ministers;
+- “the relevant requirements”, in relation to a decision to which this section applies, means the requirements of this Act, or of any order or regulations made under this Part, which are applicable to that decision.]
+
+#### 73B [[^F54]Applications under section 73A: requirement for permission
+
+(1) No proceedings may be taken in respect of an application under section 73A(1) unless the Inner House of the Court of Session has granted permission for the application to proceed.
+
+(2) The Court may grant permission under subsection (1) for an application to proceed only if it is satisfied that—
+
+(a) the applicant can demonstrate a sufficient interest in the subject matter of the application, and
+
+(b) the application has a real prospect of success.
+
+(3) The Court may grant permission under subsection (1) for an application to proceed—
+
+(a) subject to such conditions as the Court thinks fit, or
+
+(b) only on such of the grounds specified in the application as the Court thinks fit.]
+
+### Chapter 2 — Exemptions and special cases
+
+#### Exemptions
+
+##### 74 Exemptions specified by order
+
+(1) The appropriate licensing authority for an area may by order specify, as regards that area, activities—
+
+(a) which are not to need a marine licence;
+
+(b) which are not to need a marine licence if conditions specified in the order are satisfied.
+
+(2) The conditions that may be specified in an order under this section include conditions enabling the authority to require a person to obtain the authority's approval before the person does anything for which a licence would be needed but for the order.
+
+(3) Approval under subsection (2) may be—
+
+(a) without conditions;
+
+(b) subject to such conditions as the authority considers appropriate.
+
+(4) In deciding whether to make an order under this section, the appropriate licensing authority must have regard to—
+
+(a) the need to protect the environment,
+
+(b) the need to protect human health,
+
+(c) the need to prevent interference with legitimate uses of the sea,
+
+and such other matters as the authority thinks relevant.
+
+[[^F55](4A) Where an order under this section applies to activity designated under section 66(3A), the related provision that may be made in the order in reliance on section 316(1)(b) (consequential etc provision) includes provision amending primary or secondary legislation whenever passed or made.]
+
+(5) A licensing authority must consult such persons as the authority considers appropriate as to any order the authority contemplates making under this section.
+
+##### 75 Exemptions for certain dredging etc activities
+
+(1) A marine licence is not needed for a dredging or spoil disposal activity if
+
+[[^F56](a) the conditions in subsection (2) are met] [[^F57], and
+
+(b) where the activity involves the disposal or recovery of waste materials, the additional conditions in subsection (2A) are met].
+
+(2) The conditions are—
+
+(a) that the activity is undertaken by or on behalf of a harbour authority, and
+
+(b) that the activity is authorised by, and carried out in accordance with, any legislation falling within subsection (3).
+
+[[^F58](2A) The additional conditions are—
+
+(a) that the activity involves the relocation of sediments inside surface waters,
+
+(b) that the activity is for the purpose of—
+
+(i) managing waters or waterways,
+
+(ii) preventing floods,
+
+(iii) mitigating the effects of floods or droughts, or
+
+(iv) land reclamation, and
+
+(c) that it is proved to the satisfaction of the appropriate licensing authority for the area in which the activity is to be undertaken that the sediments are not hazardous waste.]
+
+(3) The legislation is—
+
+(a) any local Act,
+
+(b) any order under section 14 or 16 of the Harbours Act 1964 (c. 40),
+
+(c) any order under section 1 of the Harbours Act (Northern Ireland) 1970 (c. 1 (N.I.)), or
+
+(d) section 10(3) of that Act.
+
+(4) In this section—
+
+- “dredging or spoil disposal activity” means—
+
+  - (a) any dredging operation, or
+  - (b) the deposit of any dredged materials that result from an exempt dredging operation;
+
+- “exempt dredging operation” means a dredging operation for which a marine licence is not needed by virtue of this section.
+
+[[^F59](5) Any expression used in subsection (1)(b) or (2A) and also in [[^F60]Directive 2008/98/EC of the European Parliament and of the Council of 19 November 2008 on waste] [[^F61], as last amended by [[^F62]Directive (EU) 2018/851],] has the same meaning as in that Directive.]
+
+##### 76 Dredging in the Scottish zone
+
+(1) Nothing in this Part applies to anything done, in the exercise of a function falling within subsection (2), in relation to the extraction of minerals by dredging in the Scottish zone.
+
+(2) The functions are—
+
+(a) any function [[^F63]exercisable under [[^F64]assimilated] law];
+
+(b) any of Her Majesty's prerogative and other executive functions which is exercisable on behalf of Her Majesty by the Scottish Ministers.
+
+##### 77 Oil and gas activities and carbon dioxide storage
+
+(1) Nothing in this Part applies to any of the following—
+
+(a) anything done in the course of carrying on an activity for which a licence under section 3 of the Petroleum Act 1998 (c. 17) or section 2 of the Petroleum (Production) Act 1934 (c. 36) (licences to search for and get petroleum) is required;
+
+(b) anything done for the purpose of constructing or maintaining a pipeline as respects any part of which an authorisation (within the meaning of Part 3 of the Petroleum Act 1998) is in force;
+
+(c) anything done for the purpose of establishing or maintaining an offshore installation (within the meaning of Part 4 of the Petroleum Act 1998 (c. 17));
+
+(d) anything done in the course of carrying on an activity for which a licence under section 4 or 18 of the Energy Act 2008 (c. 32) is required (gas unloading, storage and recovery, and carbon dioxide storage).
+
+(2) For the purposes of subsection (1)(a) or (d), activities are to be regarded as activities for which a licence of the description in question is required if, by virtue of such a licence, they are activities which may be carried on only with the consent of the Secretary of State or another person.
+
+(3) Subsection (1)(d) does not apply in relation to anything done in the course of carrying on an activity for which a licence under section 4 of the Energy Act 2008 is required in, under or over any area of sea—
+
+(a) which is within the Welsh inshore region or the Northern Ireland inshore region, or
+
+(b) which is within both the Scottish offshore region and a Gas Importation and Storage Zone (within the meaning given by section 1 of the Energy Act 2008).
+
+(4) Subsection (1)(d) does not apply in relation to anything done in, under or over any area of sea within the Welsh inshore region or the Northern Ireland inshore region in the course of carrying on an activity for which a licence under section 18 of the Energy Act 2008 (c. 32) is required.
+
+#### Special provisions in certain cases
+
+##### 78 Special procedure for applications relating to harbour works
+
+(1) This section has effect in cases where—
+
+(a) a person who proposes to carry on an activity must first make an application for a marine licence to carry on that activity (the “marine licence application”), and
+
+(b) a related application for a harbour order (the “harbour order application”) is or has been made by the person, or the harbour order authority has reason to believe that it will be so made.
+
+(2) A “related application for a harbour order” is an application for an order under section 14 or 16 of the Harbours Act in relation to—
+
+(a) the activity for which the marine licence is required, or
+
+(b) other works to be undertaken in connection with that activity.
+
+(3) In any case where—
+
+(a) both the marine licence application and the harbour order application have been made,
+
+(b) the harbour order authority decides (with the agreement of the Welsh Ministers, if they are the marine licence authority and the Secretary of State is the harbour order authority) that the two applications are to be considered together, and
+
+(c) the harbour order authority has given notice of that decision to the applicant,
+
+the two applications are to be considered together.
+
+(4) Subsection (5) applies in any case where—
+
+(a) one of the applications has been received but not the other,
+
+(b) the harbour order authority decides (with the agreement of the Welsh Ministers, if they are the marine licence authority and the Secretary of State is the harbour order authority) that the two applications are to be considered together, and
+
+(c) the harbour order authority has given notice of that decision to the applicant.
+
+(5) In any such case—
+
+(a) the application that has been received is not to be considered until the other application has also been received,
+
+(b) the two applications are to be considered together, and
+
+(c) the condition in subsection (3)(b) is to be regarded as satisfied by virtue of subsection (4)(b),
+
+but this is subject to any provision that may be made by virtue of subsection (6)(c) or (d) [[^F65]or (6A)(b)].
+
+(6) [[^F66]Subject to subsection (6B),] The Secretary of State may by order do any of the following—
+
+(a) make provision falling within subsection (7) for cases where subsection (3) applies;
+
+(b) make provision falling within subsection (7) for cases where subsection (5) applies;
+
+(c) make provision falling within subsection (7) or (8) for cases where the harbour order authority (with the agreement of the Welsh Ministers, if they are the marine licence authority and the Secretary of State is the harbour order authority) comes to the conclusion that the marine licence application is not going to be made;
+
+(d) make provision falling within subsection (7) or (8) for cases where the harbour order authority comes to the conclusion that the harbour order application is not going to be made.
+
+[[^F67](6A) The Welsh Ministers may by regulations—
+
+(a) make provision falling within subsection (7) for cases where—
+
+(i) the Welsh Ministers are both the marine licence authority and the harbour order authority, and
+
+(ii) they have decided that the two applications are to be considered together and have given notice of that decision to the applicant;
+
+(b) make provision falling within subsection (7) or (8) for cases where—
+
+(i) the Welsh Ministers are both the marine licence authority and the harbour order authority, and
+
+(ii) they have concluded that one of the applications is not going to be made.
+
+(6B) The Secretary of State may not make provision under this section for cases where the Welsh Ministers are both the marine licence authority and the harbour order authority.]
+
+(7) The provision that may be made by virtue of this subsection is—
+
+(a) provision that such procedural provisions of this Part as are specified in the order are not to apply to the marine licence application;
+
+(b) provision that such procedural provisions of the Harbours Act as are so specified are to apply to that application instead;
+
+(c) provision modifying the provisions of the Harbours Act in their application by virtue of paragraph (b).
+
+(8) The provision that may be made by virtue of this subsection is provision modifying—
+
+(a) such procedural provisions of this Part as are specified in the order, or
+
+(b) such procedural provisions of the Harbours Act as are specified in the order.
+
+(9) In this section—
+
+- “the harbour order authority” means—
+
+  - (a) the Secretary of State, in any case where the harbour order application falls (or would fall) to be determined by the Secretary of State;
+  - (b) the Welsh Ministers, in any case where the harbour order application falls (or would fall) to be determined by the Welsh Ministers;
+
+- “the Harbours Act” means the Harbours Act 1964 (c. 40);
+
+- “the marine licence authority” means—
+
+  - (a) the Secretary of State, in any case where the marine licence application falls (or would fall) to be made to the Secretary of State;
+  - (b) the Welsh Ministers, in any case where the marine licence application falls (or would fall) to be made to the Welsh Ministers;
+
+- “procedural provisions” means any provisions for or in connection with the procedure for determining an application.
+
+##### 79 Special procedure for applications relating to certain electricity works
+
+(1) This section has effect in cases where a person who proposes to carry on an activity must first make both—
+
+(a) an application for a marine licence to carry on that activity (the “marine licence application”), and
+
+(b) a related application for a generating station consent (the “generating station application”).
+
+(2) A “related application for a generating station consent” is an application for a consent under section 36 of the Electricity Act (consent for construction etc of generating stations) in relation to—
+
+(a) the activity for which the marine licence is required, or
+
+(b) other works to be undertaken in connection with that activity.
+
+(3) In any case where—
+
+(a) both the marine licence application and the generating station application have been made,
+
+(b) the generating station authority decides (with the agreement of the Welsh Ministers, if they are the marine licence authority and the Secretary of State is the generating station authority) that the two applications are to be considered together, and
+
+(c) the generating station authority has given notice of that decision to the applicant,
+
+the two applications are to be considered together.
+
+(4) Subsection (5) applies in any case where—
+
+(a) one of the applications has been received but not the other,
+
+(b) the generating station authority decides (with the agreement of the Welsh Ministers, if they are the marine licence authority and the Secretary of State is the generating station authority) that the two applications are to be considered together, and
+
+(c) the generating station authority has given notice of that decision to the applicant.
+
+(5) In any such case—
+
+(a) the application that has been received is not to be considered until the other application has also been received,
+
+(b) the two applications are to be considered together, and
+
+(c) the condition in subsection (3)(b) is to be regarded as satisfied by virtue of subsection (4)(b),
+
+but this is subject to any provision that may be made by virtue of subsection (6)(c) or (d) [[^F68]or (6A)(b)].
+
+(6) [[^F69]Subject to subsection (6B),] the Secretary of State may by order do any of the following—
+
+(a) make provision falling within subsection (7) for cases where subsection (3) applies;
+
+(b) make provision falling within subsection (7) for cases where subsection (5) applies;
+
+(c) make provision falling within subsection (7) or (8) for cases where the generating station authority (with the agreement of the Welsh Ministers, if they are the marine licence authority and the Secretary of State is the generating station authority) comes to the conclusion that the marine licence application is not going to be made;
+
+(d) make provision falling within subsection (7) or (8) for cases where the generating station authority comes to the conclusion that the generating station application is not going to be made.
+
+[[^F70](6A) The Welsh Ministers may by regulations—
+
+(a) make provision falling within subsection (7) for cases where—
+
+(i) the Welsh Ministers are both the marine licence authority and the generating station authority, and
+
+(ii) they have decided that the two applications are to be considered together and have given notice of that decision to the applicant;
+
+(b) make provision falling within subsection (7) or (8) for cases where—
+
+(i) the Welsh Ministers are both the marine licence authority and the generating station authority, and
+
+(ii) they have concluded that one of the applications is not going to be made.
+
+(6B) The Secretary of State may not make provision under this section for cases where the Welsh Ministers are both the marine licence authority and the generating station authority.]
+
+(7) The provision that may be made by virtue of this subsection is—
+
+(a) provision that such procedural provisions of this Part as are specified in the order are not to apply to the marine licence application;
+
+(b) provision that such procedural provisions of the Electricity Act as are so specified are to apply to that application instead;
+
+(c) provision modifying the provisions of the Electricity Act in their application by virtue of paragraph (b).
+
+(8) The provision that may be made by virtue of this subsection is provision modifying—
+
+(a) such procedural provisions of this Part as are specified in the order, or
+
+(b) such procedural provisions of the Electricity Act as are specified in the order.
+
+(9) In this section—
+
+- “the Electricity Act” means the Electricity Act 1989 (c. 29);
+
+- “generating station authority” means—
+
+  - (a) the Secretary of State, in any case where the generating station application falls (or would fall) to be determined by the Secretary of State;
+  - (b) the Scottish Ministers, in any case where the generating station application falls (or would fall) to be determined by the Scottish Ministers;
+  - (c) [[^F71]the Welsh Ministers, in any case where the generating station application falls (or would fall) to be determined by the Welsh Ministers;]
+
+- “the marine licence authority” means—
+
+  - (a) the Secretary of State, in any case where the marine licence application falls (or would fall) to be made to the Secretary of State;
+  - (b) the Scottish Ministers, in any case where the marine licence application falls (or would fall) to be made to the Scottish Ministers;
+  - (c) the Welsh Ministers, in any case where the marine licence application falls (or would fall) to be made to the Welsh Ministers;
+
+- “procedural provisions” means any provisions for or in connection with the procedure for determining an application.
+
+##### 79A [[^F72]Special procedure for applications relating to certain electricity works (Northern Ireland)
+
+(1) This section has effect in cases where a person who proposes to carry on an activity must first make both—
+
+(a) an application to the Department of the Environment in Northern Ireland (“ the Department ”) for a marine licence to carry on that activity (the “marine licence application”), and
+
+(b) a related application for a generating station consent (the “generating station application”).
+
+(2) A “related application for a generating station consent” is an application to DETI for a consent under Article 39 of the Electricity Order (consent for construction, etc. of generating stations) in relation to—
+
+(a) the activity for which the marine licence is required, or
+
+(b) other works to be undertaken in connection with that activity.
+
+(3) In any case where—
+
+(a) both the marine licence application and the generating station application have been made,
+
+(b) DETI decides (with the agreement of the Department) that the two applications are to be considered together, and
+
+(c) DETI has given notice of that decision to the applicant,
+
+the two applications are to be considered together.
+
+(4) Subsection (5) applies in any case where—
+
+(a) one of the applications has been received but not the other,
+
+(b) DETI decides (with the agreement of the Department) that the two applications are to be considered together, and
+
+(c) DETI has given notice of that decision to the applicant.
+
+(5) In any such case—
+
+(a) the application that has been received is not to be considered until the other application has also been received,
+
+(b) the two applications are to be considered together, and
+
+(c) the condition in subsection (3)(b) is to be regarded as satisfied by virtue of subsection (4)(b),
+
+but this is subject to any provision that may be made by virtue of subsection (6)(c) or (d).
+
+(6) The Department may by order do any of the following—
+
+(a) make provision falling within subsection (7) for cases where subsection (3) applies;
+
+(b) make provision falling within subsection (7) for cases where subsection (5) applies;
+
+(c) make provision falling within subsection (7) or (8) for cases where DETI (with the agreement of the Department) comes to the conclusion that the marine licence application is not going to be made;
+
+(d) make provision falling within subsection (7) or (8) for cases where DETI comes to the conclusion that the generating station application is not going to be made.
+
+(7) The provision that may be made by virtue of this subsection is—
+
+(a) provision that such procedural provisions of this Part as are specified in the order are not to apply to the marine licence application;
+
+(b) provision that such procedural provisions of the Electricity Order as are so specified are to apply to that application instead;
+
+(c) provision modifying the provisions of the Electricity Order in their application by virtue of paragraph (b).
+
+(8) The provision that may be made by virtue of this subsection is provision modifying—
+
+(a) such procedural provisions of this Part as are specified in the order, or
+
+(b) such procedural provisions of the Electricity Order as are specified in the order.
+
+(9) In this section—
+
+- “ DETI ” means the Department of Enterprise, Trade and Investment in Northern Ireland;
+- “ the Electricity Order ” means the Electricity (Northern Ireland) Order 1992;
+- “ procedural provisions ” means any provisions for or in connection with the procedure for determining an application. ]
+
+##### 80 Electronic communications apparatus
+
+(1) A licensing authority must not grant a marine licence to carry on any activity which amounts to or involves the exercise of a right conferred by paragraph 11 of the Electronic Communications Code unless it is satisfied that adequate compensation arrangements have been made.
+
+(2) For the purposes of subsection (1) “adequate compensation arrangements” are adequate arrangements for compensating any persons—
+
+(a) who appear to that authority to be owners of interests in the tidal water or lands on, under or over which the right is to be exercised,
+
+(b) for any loss or damage sustained by those persons in consequence of the activity being carried on.
+
+(3) In paragraph 11 of the Electronic Communications Code omit—
+
+(a) sub-paragraphs (3) to (10);
+
+(b) in sub-paragraph (11), the definition of “remedial works”.
+
+(4) In this section “the Electronic Communications Code” means the code set out in Schedule 2 to the Telecommunications Act 1984 (c. 12).
+
+##### 81 Submarine cables [^F73]...
+
+(1) Nothing in this Part applies to anything done in the course of laying or maintaining an offshore stretch of exempt submarine cable [[^F74], subject to subsection (5A)].
+
+(2) Where subsection (1) has effect in relation to part (but not the whole) of an exempt submarine cable—
+
+(a) the appropriate licensing authority must grant any application made to it for a marine licence for the carrying on of a licensable marine activity in the course of laying any inshore stretch of the cable, and
+
+(b) nothing in this Part applies to anything done in the course of maintaining any inshore stretch of the cable.
+
+(3) A licensing authority has the same powers to attach conditions to a marine licence required to be granted by virtue of subsection (2) as it has in relation to a marine licence not required to be so granted.
+
+(4) In the application of this section in relation to any cable—
+
+- “inshore stretch” means any of the cable which is laid, or proposed to be laid, within the seaward limits of the territorial sea;
+- “offshore stretch” means any of the cable which is laid, or proposed to be laid, beyond the seaward limits of the territorial sea.
+
+(5) For the purposes of this section a submarine cable is “exempt” unless it is a cable constructed or used in connection with any of the following—
+
+(a) the exploration of the UK sector of the continental shelf;
+
+(b) the exploitation of the natural resources of that sector;
+
+(c) the operations of artificial islands, installations and structures under the jurisdiction of the United Kingdom;
+
+(d) the prevention, reduction or control of pollution from pipelines.
+
+[[^F75](5A) This section does not prevent the application of this Part in relation to activity designated under section 66(3A).]
+
+(6) In this section—
+
+- “natural resources” means—
+
+  - (a) the mineral and other non-living resources of the sea bed and subsoil,together with
+  - (b) living organisms belonging to sedentary species;
+
+- “living organisms belonging to sedentary species” means organisms which, at the harvestable stage, are either—
+
+  - (a) immobile on or under the sea bed, or
+  - (b) unable to move except in constant physical contact with the sea bed or the subsoil.
+
+##### 82 Structures in, over or under a main river
+
+(1) Section 109 of the Water Resources Act 1991 (c. 57) (structures in, over or under a main river) is amended as follows.
+
+(2) After subsection (6) insert—
+
+> (7) Subsections (1) to (3) above shall not apply to any work if—
+>
+> (a) carrying out the work is a licensable marine activity,
+>
+> (b) the Agency considers that, in view of the terms and conditions that will be included in the marine licence, the provisions of those subsections may be dispensed with, and
+>
+> (c) the Agency issues a notice to that effect to the applicant for the marine licence.
+>
+> (8) In subsection (7) above “licensable marine activity” and “marine licence” have the same meaning as in Part 4 of the Marine and Coastal Access Act 2009.
+
+.
+
+##### 83 Requirements for Admiralty consent under local legislation
+
+(1) If, in the case of any particular work,—
+
+(a) a marine licence is needed for the carrying out of the work,
+
+(b) Admiralty consent for the carrying out of the work would also be required (apart from this subsection) by virtue of any local legislation, and
+
+(c) the Secretary of State considers that, in view of the need for a marine licence, the requirement for Admiralty consent for the carrying out of the work may be dispensed with, and issues a notice to that effect,
+
+the requirement for Admiralty consent does not apply in relation to that work.
+
+(2) In subsection (1)—
+
+- “Admiralty consent” means the consent of the Admiralty, whether alone or jointly with any other government department;
+
+- “local legislation” means—
+
+  - (a) a local Act, or
+  - (b) any such Act and any notice given and published by the Admiralty under section 9 of the Harbours Transfer Act 1862 (c. 69).
+
+##### 84 Byelaws for flood defence and drainage purposes
+
+(1) Schedule 25 to the Water Resources Act 1991 (c. 57) (byelaw making powers of the Environment Agency) is amended as follows.
+
+(2) In paragraph 5 (byelaws for flood defence and drainage purposes) after sub-paragraph (3) insert—
+
+> (3A) If, in any particular case,—
+>
+> (a) a marine licence is needed for the carrying on of any activity,
+>
+> (b) before that activity may be carried on, the consent of the Agency would also be required (apart from this sub-paragraph) by virtue of any byelaw under this paragraph, and
+>
+> (c) the Agency considers that, in view of the terms and conditions that will be included in the marine licence, the requirement for the consent of the Agency may be dispensed with, and issues a notice to that effect,
+>
+> the requirement for the consent of the Agency does not apply in relation to the carrying on of that activity.
+
+> (3B) In sub-paragraph (3A) “marine licence” has the same meaning as in Part 4 of the Marine and Coastal Access Act 2009.
+
+.
+
+### Chapter 3 — Enforcement
+
+#### Offences
+
+##### 85 Breach of requirement for, or conditions of, a licence
+
+(1) A person who—
+
+(a) contravenes section 65(1), or
+
+(b) fails to comply with any condition of a marine licence,
+
+commits an offence.
+
+(2) A person who is bound by a condition of a licence by virtue of section 71(5) is not to be taken as having failed to comply with the condition unless the requirements of subsection (3) are satisfied.
+
+(3) The requirements are that—
+
+(a) the appropriate licensing authority has served the person with a notice under this subsection which specifies the condition together with a period (which must be a reasonable period, in all the circumstances of the case) within which the person must comply with the condition, and
+
+(b) the person has failed to comply with the condition within that period.
+
+(4) A person guilty of an offence under subsection (1) is liable—
+
+(a) on summary conviction, to [^F76]a fine not exceeding £50,000[[^F76]a fine];
+
+(b) on conviction on indictment, to a fine or to imprisonment for a term not exceeding two years or to both.
+
+##### 86 Action taken in an emergency
+
+(1) It is a defence for a person charged with an offence under section 85(1) in relation to any activity to prove that—
+
+(a) the activity was carried out for the purpose of securing the safety of a vessel, aircraft or marine structure, or for the purpose of saving life, and
+
+(b) the person took steps within a reasonable time to inform the appropriate licensing authority of the matters set out in subsection (2).
+
+(2) The matters are—
+
+(a) the fact that the activity was carried out,
+
+(b) the locality and circumstances in which it was carried out, and
+
+(c) any substances or objects concerned.
+
+(3) A person does not have the defence provided by subsection (1) if the court is satisfied that the activity was neither—
+
+(a) necessary for any purpose mentioned in subsection (1)(a), nor
+
+(b) a reasonable step to take in the circumstances.
+
+(4) A person does not have the defence provided by subsection (1) if the court is satisfied that—
+
+(a) the activity was necessary for one of those purposes, but
+
+(b) the necessity was due to the fault of the person or of some other person acting under the person's direction or control.
+
+##### 87 Electronic communications: emergency works
+
+(1) It is a defence for a person charged with an offence under section 85(1) in relation to any activity to prove that—
+
+(a) for the purposes of paragraph 23 of the Electronic Communications Code (undertaker's works), the person is the operator or a relevant undertaker, and
+
+(b) the activity was carried out for the purpose of executing emergency works, within the meaning of that Code.
+
+(2) In this section “the Electronic Communications Code” means the code set out in Schedule 2 to the Telecommunications Act 1984 (c. 12).
+
+##### 88 Activity licensed by another State
+
+(1) It is a defence for a person charged with an offence under section 85(1) in relation to any activity to which subsection (2) applies to prove that subsections (3) and (4) are satisfied in respect of that activity.
+
+(2) This subsection applies to any activity which—
+
+(a) falls within item 2, 5 or 12 in section 66(1), and
+
+(b) is carried on outside the UK marine licensing area.
+
+(3) This subsection is satisfied if—
+
+(a) in the case of an activity falling within item 2 in subsection (1) of section 66, the vessel, aircraft, marine structure or floating container (as the case may be) was loaded in a Convention State, or in the national or territorial waters of a Convention State, with the substances or objects deposited;
+
+(b) in the case of an activity falling within item 5 in that subsection, the vessel scuttled was towed or propelled from a Convention State, or from the national or territorial waters of a Convention State, to the place where the scuttling was carried out;
+
+(c) in the case of an activity falling within item 12 in that subsection, the vessel or marine structure on which the incineration took place was loaded in a Convention State or the national or territorial waters of a Convention State with the substances or objects incinerated.
+
+(4) This subsection is satisfied if the activity was carried on—
+
+(a) in pursuance of a licence issued by the responsible authority in the Convention State concerned, and
+
+(b) in accordance with the provisions of that licence.
+
+(5) For the purposes of this section—
+
+- “Convention State” means a state which is a party to the London Convention, the London Protocol or the OSPAR Convention;
+- “the London Convention” means the Convention on the Prevention of Maritime Pollution by Dumping of Wastes and Other Matter concluded at London in December 1972;
+- “the London Protocol” means the Protocol to the London Convention agreed at London in November 1996;
+- “the OSPAR Convention” means the Convention for the Protection of the Marine Environment of the North-East Atlantic concluded at Paris in September 1992.
+
+(6) The references in subsection (5) to the London Convention, the London Protocol and the OSPAR Convention are to them as they have effect from time to time.
+
+(7) The Secretary of State may by order amend subsections (5) and (6) in such manner as the Secretary of State considers appropriate for the purpose of giving effect to any international agreement which has been ratified by the United Kingdom and which alters the provisions of, or replaces, those Conventions or that Protocol.
+
+##### 89 Information
+
+(1) A person who, for any of the purposes set out in subsection (2),—
+
+(a) makes a statement which is false or misleading in a material particular, knowing the statement to be false or misleading,
+
+(b) makes a statement which is false or misleading in a material particular, being reckless as to whether the statement is false or misleading, or
+
+(c) intentionally fails to disclose any material particular,
+
+commits an offence.
+
+(2) The purposes are—
+
+(a) the purpose of procuring the issue, variation or transfer of a licence, or
+
+(b) the purpose of complying with, or purporting to comply with, any obligation imposed by the provisions of this Part or the provisions of a licence.
+
+(3) A person guilty of an offence under subsection (1) is liable—
+
+(a) on summary conviction, to a fine not exceeding the statutory maximum;
+
+(b) on conviction on indictment, to a fine.
+
+#### Enforcement notices
+
+##### 90 Compliance notice
+
+(1) If it appears to an enforcement authority that subsections (3) and (4) are satisfied in relation to a person carrying on an activity in its area, it may issue a compliance notice to that person.
+
+(2) A compliance notice is a notice requiring a person to take such steps (falling within subsection (5)(b)) as are specified in it.
+
+(3) This subsection is satisfied if a person holding a marine licence—
+
+(a) has carried on, or is carrying on, a licensable marine activity under that licence, and
+
+(b) in carrying on that activity has failed, or is failing, to comply with a condition of the licence.
+
+(4) This subsection is satisfied if the carrying on of the activity has not caused, and is not likely to cause, any of the following—
+
+(a) serious harm to the environment;
+
+(b) serious harm to human health;
+
+(c) serious interference with legitimate uses of the sea.
+
+(5) A compliance notice must—
+
+(a) state the enforcement authority's grounds for believing that subsections (3) and (4) are satisfied;
+
+(b) require the person to take such steps as the authority considers appropriate to ensure that the condition in question is complied with;
+
+(c) state the period before the end of which those steps must be taken.
+
+##### 91 Remediation notice
+
+(1) If it appears to an enforcement authority that each of subsections (3) to (5) is satisfied in relation to a person carrying on an activity in its area, it may issue a remediation notice to that person.
+
+(2) A remediation notice is a notice requiring a person to do either or both of the following—
+
+(a) to take such steps (falling within subsection (7)(b)) as are specified in it;
+
+(b) to pay to the enforcement authority such sums (falling within subsection (7)(c)) as are specified in it.
+
+(3) This subsection is satisfied if a person has carried on, or is carrying on, a licensable marine activity.
+
+(4) This subsection is satisfied if the carrying on of the activity has involved, or involves, the commission of an offence under section 85(1).
+
+(5) This subsection is satisfied if the carrying on of the activity has caused, or is causing or is likely to cause, any of the following—
+
+(a) harm to the environment;
+
+(b) harm to human health;
+
+(c) interference with legitimate uses of the sea.
+
+(6) Before issuing a remediation notice, the enforcement authority must consult the person to whom it is proposed to be issued as to the steps or, as the case may be, the sum to be specified in the notice.
+
+(7) A remediation notice—
+
+(a) must state the enforcement authority's grounds for believing that each of subsections (3) to (5) is satisfied;
+
+(b) may require the person to take such remedial or compensatory steps as the authority considers appropriate;
+
+(c) may require the person to pay a sum representing the reasonable expenses of any remedial or compensatory steps taken, or to be taken, by the enforcement authority or the appropriate licensing authority (whether or not under section 106);
+
+(d) must state the period before the end of which those steps must be taken or, as the case may be, that sum must be paid.
+
+(8) In subsection (7)(b) and (c) “remedial or compensatory steps” means steps taken (or to be taken) for any one or more of the purposes mentioned in subsection (9) (whether or not the steps are to be taken at or near the place where the harm or interference mentioned in subsection (5) has been, is being, or is likely to be, caused or the activity in respect of which the notice is issued is or has been carried on).
+
+(9) The purposes are—
+
+(a) protecting the environment;
+
+(b) protecting human health;
+
+(c) preventing interference with legitimate uses of the sea;
+
+(d) preventing or minimising, or remedying or mitigating the effects of, the harm or interference mentioned in subsection (5);
+
+(e) restoring (whether in whole or in part) the condition of any place affected by that harm or interference to the condition, or a condition reasonably similar to the condition, in which the place would have been had the harm or interference not occurred;
+
+(f) such purposes not falling within the preceding paragraphs as the enforcement authority considers appropriate in all the circumstances of the case.
+
+##### 92 Further provision as to enforcement notices
+
+(1) A compliance notice or remediation notice—
+
+(a) must be served on any person carrying on, or in control of, the activity to which the notice relates, and
+
+(b) if a marine licence has been granted in relation to that activity, may also be served on the licensee.
+
+(2) An enforcement authority may by a further notice—
+
+(a) revoke a compliance notice or remediation notice;
+
+(b) vary a compliance notice or remediation notice so as to extend the period specified in accordance with section 90(5)(c) or, as the case may be, section 91(7)(d).
+
+(3) A person who fails to comply with—
+
+(a) a compliance notice, or
+
+(b) a remediation notice,
+
+commits an offence.
+
+(4) A person guilty of an offence under subsection (3) is liable—
+
+(a) on summary conviction, to [^F77]a fine not exceeding £50,000[[^F77]a fine];
+
+(b) on conviction on indictment, to a fine or to imprisonment for a term not exceeding two years or to both.
+
+(5) A sum specified in a remediation notice by virtue of section 91(7)(c) is recoverable as a civil debt.
+
+#### Civil sanctions
+
+##### 93 Fixed monetary penalties
+
+(1) The appropriate licensing authority for any area may by order make provision to confer on the appropriate enforcement authority for that area the power by notice to impose on a person in relation to an offence under this Part a fixed monetary penalty.
+
+(2) Provision under this section may only confer such a power in relation to a case where the enforcement authority is satisfied beyond reasonable doubt that the person has committed the offence.
+
+(3) For the purposes of this Part a “fixed monetary penalty” is a requirement to pay to the enforcement authority a penalty of a prescribed amount.
+
+(4) The amount of the fixed monetary penalty that may be imposed in relation to an offence may not exceed the maximum amount[[^F78](if any)] of the fine that may be imposed on summary conviction for that offence.
+
+(5) In this section “prescribed” means prescribed in an order made under this section.
+
+##### 94 Fixed monetary penalties: procedure
+
+(1) Provision under section 93 must secure the results in subsection (2).
+
+(2) Those results are that—
+
+(a) where the enforcement authority proposes to impose a fixed monetary penalty on a person, the authority must serve on that person a notice of what is proposed (a “notice of intent”) which complies with subsection (3),
+
+(b) the notice of intent also offers the person the opportunity to discharge the person's liability for the fixed monetary penalty by payment of a prescribed sum (which must be less than or equal to the amount of the penalty),
+
+(c) if the person does not so discharge liability—
+
+(i) the person may make written representations and objections to the enforcement authority in relation to the proposed imposition of the fixed monetary penalty, and
+
+(ii) the enforcement authority must at the end of the period for making representations and objections decide whether to impose the fixed monetary penalty,
+
+(d) where the enforcement authority decides to impose the fixed monetary penalty, the notice imposing it (“the final notice”) complies with subsection (5), and
+
+(e) the person on whom a fixed monetary penalty is imposed may appeal against the decision to impose it.
+
+(3) To comply with this subsection the notice of intent must include information as to—
+
+(a) the grounds for the proposal to impose the fixed monetary penalty,
+
+(b) the effect of payment of the sum referred to in subsection (2)(b),
+
+(c) the right to make representations and objections,
+
+(d) the circumstances in which the enforcement authority may not impose the fixed monetary penalty,
+
+(e) the period within which liability to the fixed monetary penalty may be discharged, which must not exceed the period of 28 days beginning with the day on which the notice of intent is received, and
+
+(f) the period within which representations and objections may be made, which must not exceed the period of 28 days beginning with the day on which the notice of intent is received.
+
+(4) Provision pursuant to subsection (2)(c)(ii)—
+
+(a) must secure that the enforcement authority may not decide to impose a fixed monetary penalty on a person where the authority is satisfied that the person would not, by reason of any defence, be liable to be convicted of the offence in relation to which the penalty is proposed to be imposed, and
+
+(b) may include provision for other circumstances in which the enforcement authority may not decide to impose a fixed monetary penalty.
+
+(5) To comply with this subsection the final notice referred to in subsection (2)(d) must include information as to—
+
+(a) the grounds for imposing the penalty,
+
+(b) how payment may be made,
+
+(c) the period within which payment must be made,
+
+(d) any early payment discounts or late payment penalties,
+
+(e) rights of appeal, and
+
+(f) the consequences of non-payment.
+
+(6) Provision pursuant to subsection (2)(e) must secure that the grounds on which a person may appeal against a decision of the enforcement authority include the following—
+
+(a) that the decision was based on an error of fact;
+
+(b) that the decision was wrong in law;
+
+(c) that the decision was unreasonable.
+
+(7) In this section “prescribed” means prescribed in an order made under section 93.
+
+##### 95 Variable monetary penalties
+
+(1) The appropriate licensing authority for any area may by order make provision to confer on the appropriate enforcement authority for that area the power by notice to impose on a person in relation to an offence under this Part a variable monetary penalty.
+
+(2) Provision under this section may only confer such a power in relation to a case where the enforcement authority is satisfied beyond reasonable doubt that the person has committed the offence.
+
+(3) For the purposes of this Part a “variable monetary penalty” is a penalty of such amount as the enforcement authority may in each case determine.
+
+##### 96 Variable monetary penalties: procedure
+
+(1) Provision under section 95 must secure the results in subsection (2).
+
+(2) Those results are that—
+
+(a) where the enforcement authority proposes to impose a variable monetary penalty on a person, the enforcement authority must serve on that person a notice (a “notice of intent”) which complies with subsection (3),
+
+(b) that person may make written representations and objections to the enforcement authority in relation to the proposed imposition of the penalty,
+
+(c) after the end of the period for making such representations and objections, the enforcement authority must decide whether to impose a penalty and, if so, the amount of the penalty,
+
+(d) where the enforcement authority decides to impose a penalty, the notice imposing it (the “final notice”) complies with subsection (6), and
+
+(e) the person on whom a penalty is imposed may appeal against the decision as to the imposition or amount of the penalty.
+
+(3) To comply with this subsection the notice of intent must include information as to—
+
+(a) the grounds for the proposal to impose the penalty,
+
+(b) the right to make representations and objections,
+
+(c) the circumstances in which the enforcement authority may not impose the penalty, and
+
+(d) the period within which representations and objections may be made, which may not be less than the period of 28 days beginning with the day on which the notice of intent is received.
+
+(4) Provision pursuant to subsection (2)(c)—
+
+(a) must secure that the enforcement authority may not decide to impose a penalty on a person where the enforcement authority is satisfied that the person would not, by reason of any defence raised by that person, be liable to be convicted of the offence in relation to which the penalty is proposed to be imposed, and
+
+(b) may include provision for other circumstances in which the enforcement authority may not decide to impose a penalty.
+
+(5) Provision under subsection (2)(c) must also include provision for—
+
+(a) the person on whom the notice of intent is served to be able to offer an undertaking as to action to be taken by that person (including the payment of a sum of money) to benefit any person affected by the offence,
+
+(b) the enforcement authority to be able to accept or reject such an undertaking, and
+
+(c) the enforcement authority to take any undertaking so accepted into account in its decision.
+
+(6) To comply with this subsection the final notice referred to in subsection (2)(d) must include information as to—
+
+(a) the grounds for imposing the penalty,
+
+(b) how payment may be made,
+
+(c) the period within which payment must be made,
+
+(d) any early payment discounts or late payment penalties,
+
+(e) rights of appeal, and
+
+(f) the consequences of non-payment.
+
+(7) Provision pursuant to subsection (2)(e) must secure that the grounds on which a person may appeal against a decision of the enforcement authority include the following—
+
+(a) that the decision was based on an error of fact;
+
+(b) that the decision was wrong in law;
+
+(c) that the amount of the penalty is unreasonable;
+
+(d) that the decision was unreasonable for any other reason.
+
+##### 97 Further provision about civil sanctions
+
+Schedule 7 (which makes further provision about civil sanctions) has effect.
+
+### Chapter 4 — Delegation
+
+#### 98 Delegation of functions relating to marine licensing
+
+(1) The appropriate licensing authority for an area may make an order which—
+
+(a) designates any of the delegable marine licensing functions which would (apart from any order under this section) be exercisable by or in relation to that authority or an enforcement authority for that area, and
+
+(b) provides that those functions, instead of being so exercisable, are to be exercisable by or in relation to such person, acting on behalf of the licensing authority or (as the case may be) the enforcement authority, as is designated in the order.
+
+(2) The power to make an order under this section includes power to make provision in the order conferring on the person designated (“the delegate”), so far as acting on behalf of an enforcement authority, any power which the appropriate licensing authority may confer on an enforcement authority by an order under section 93 or 95 (fixed or variable monetary penalties).
+
+(3) An authority which makes an order under this section may do so only with the consent of the delegate.
+
+(4) The delegate—
+
+(a) must comply with the order, and
+
+(b) is to be taken to have all the powers necessary to do so.
+
+(5) In this section “delegable marine licensing functions” means—
+
+(a) functions of a licensing authority under this Part, other than excepted functions;
+
+(b) functions of an enforcement authority under this Part.
+
+(6) The excepted functions are functions under—
+
+(a) section 66(3) (altering the list of licensable marine activities);
+
+(b) section 67(2) (making regulations regarding the fee for an application);
+
+(c) section 69(6) (making regulations as to the procedure for applications);
+
+[[^F79](ca) section 72A(4) (making regulations regarding fees for monitoring, variation etc of licences for which the Welsh Ministers are the licensing authority);]
+
+(d) section 73 (making regulations regarding appeals against licensing decisions under section 71);
+
+(e) section 74(1) and (5) (making orders specifying activities which do not require a marine licence and consulting in relation to such orders);
+
+(f) sections 93 and 95 (making orders conferring powers to impose civil sanctions);
+
+(g) this section and section 100;
+
+(h) section 101(3) (making regulations regarding the register);
+
+[[^F80](ha) section 107A(3) (making regulations regarding deposits payable on account of fees where the Welsh Ministers are the licensing authority);
+
+(hb) section 107B(5) (making regulations regarding payment of fees and deposits where the Welsh Ministers are the licensing authority);]
+
+(i) section 108 (making regulations regarding appeals against certain notices).
+
+#### 99 Orders under section 98: supplementary provisions
+
+(1) For so long as an order made under section 98 remains in force, the designated functions are exercisable by or in relation to the delegate acting on behalf of the licensing authority or, as the case may be, the enforcement authority (and are not exercisable by or in relation to the authority).
+
+(2) Subsection (1) is subject to any provision to the contrary which is included in the order.
+
+(3) An order under section 98 may include—
+
+(a) such terms or conditions,
+
+(b) such obligations or requirements,
+
+(c) such financial provisions,
+
+as the authority making the order may determine.
+
+(4) The provision that may be made under subsection (3) includes, in particular, provision (where appropriate) as to—
+
+(a) the manner in which the delegate is to exercise any of the functions;
+
+(b) the form and manner in which licence applications must be made to the delegate;
+
+(c) the persons to whom notice of an application should be published under section 68, and the circumstances in which such notice should not be published;
+
+(d) matters (in addition to those set out in section 69) to which the delegate must have regard in determining licence applications;
+
+(e) the circumstances in which the delegate must exercise the power to consult under section 69(4), and the persons who must or may be consulted;
+
+(f) the form and content of any licence granted;
+
+(g) appeals from any decision of the delegate (whether to the licensing authority or any other person);
+
+(h) any other provision that may be made by virtue of section 69(6).
+
+(5) An order under section 98 may make different provision for different cases, different areas or different persons.
+
+(6) Where an order has been made under section 98 that a person other than the appropriate licensing authority is to grant licences—
+
+(a) that other person may (in accordance with subsections (1) to (3) and (7) of section 72) vary, suspend, revoke or transfer a licence granted before the making of the order, and
+
+(b) any reference in those subsections to a licence granted by a licensing authority includes a reference to a licence granted by that other person.
+
+#### 100 Directions to persons as regards performance of delegated functions
+
+(1) This section applies where any functions are exercisable by or in relation to a person by virtue of an order made under section 98 by a licensing authority.
+
+(2) The authority may from time to time give directions to the person with respect to the performance of the functions.
+
+(3) A person to whom directions are given under this section must comply with the directions.
+
+(4) An authority which gives a direction under this section must publish the direction in a manner likely to bring the direction to the attention of persons likely to be affected by it.
+
+### Chapter 5 — Supplementary
+
+#### Register
+
+##### 101 Register
+
+(1) Each licensing authority must maintain, as respects activities in relation to which it is the appropriate licensing authority and licences for those activities, a register of licensing information.
+
+(2) The register must contain prescribed particulars of or relating to—
+
+(a) applications for licences;
+
+(b) licences granted;
+
+(c) variations of licences;
+
+(d) revocations of licences;
+
+(e) information supplied in connection with any licence in pursuance of any provision of this Part;
+
+(f) convictions for any offence under this Part;
+
+(g) any other action taken to enforce any provision of this Part;
+
+(h) occasions on which any remedial action has been taken;
+
+(i) such other matters relating to licences or the licensable marine activities as may be prescribed.
+
+(3) The register must be maintained in accordance with regulations made by the appropriate licensing authority.
+
+(4) Each licensing authority must make arrangements—
+
+(a) for its register to be available for inspection at all reasonable times by members of the public free of charge;
+
+(b) for copies of entries in its register to be supplied, on request, to members of the public on payment of a reasonable charge.
+
+(5) Information must not appear in the register if—
+
+(a) the Secretary of State determines that its disclosure in the register would be contrary to the interests of national security, or
+
+(b) the appropriate licensing authority determines that its disclosure in the register would adversely affect the confidentiality of commercial or industrial information where such confidentiality is provided by law to protect a legitimate commercial interest.
+
+(6) The appropriate licensing authority must review a determination to exclude information under subsection (5)(b) every four years.
+
+(7) On a review under subsection (6) the authority must include the information in the register unless, on the application of any person to whom the information relates, the authority determines that it should continue to be excluded.
+
+(8) Where information of any description is excluded from a register by virtue of subsection (5)(b), a statement must be entered in the register indicating the existence of information of that description.
+
+(9) In this section “prescribed” means prescribed in regulations made under this section.
+
+#### Stop notices and emergency safety notices
+
+##### 102 Notice to stop activity causing serious harm etc
+
+(1) If it appears to an enforcement authority that subsections (3) and (4) are satisfied in relation to a person carrying on an activity in its area, it may issue a stop notice to that person.
+
+(2) A stop notice is a notice prohibiting a person from carrying on an activity specified in the notice.
+
+(3) This subsection is satisfied if a person is carrying on, or is likely to carry on, a licensable marine activity (whether or not in accordance with a marine licence).
+
+(4) This subsection is satisfied if the carrying on of the activity to be specified in the notice—
+
+(a) is causing, or is likely to cause, any of the effects in subsection (5), or
+
+(b) is creating, or is likely to create, an imminent risk of any of those effects.
+
+(5) The effects are—
+
+(a) serious harm to the environment;
+
+(b) serious harm to human health;
+
+(c) serious interference with legitimate uses of the sea.
+
+(6) A stop notice (in addition to specifying the activity to which it relates)—
+
+(a) must state the enforcement authority's grounds for believing that subsections (3) and (4) are satisfied;
+
+(b) must state the date and time from which the prohibition is to take effect (which may be a time on the date of the notice but must allow a period for compliance which is reasonable in all the circumstances of the case);
+
+(c) may require the person to take such steps as the authority considers appropriate to ensure that the cessation of the activity takes place safely.
+
+(7) Except in a case falling within subsection (9), a stop notice—
+
+(a) ceases to have effect at the end of the period of 7 days (or such shorter period as may be specified in the notice) beginning with the date on which the prohibition takes effect, but
+
+(b) may be renewed for a period specified in a further notice.
+
+(8) A stop notice may be renewed more than once under subsection (7)(b), but not so that it has effect for an aggregate period exceeding 35 days.
+
+(9) If a stop notice relating to a licensable marine activity is issued to a person who does not hold a marine licence authorising that activity, the stop notice may remain in force until such time (if any) as such a licence is granted to that person.
+
+##### 103 Further provision as to stop notices
+
+(1) Any stop notice issued by an enforcement authority—
+
+(a) must be served on any person carrying on, or in control of, the activity to which the notice relates, and
+
+(b) if a marine licence has been granted in relation to that activity, may also be served on the licensee.
+
+(2) An enforcement authority may by a further notice—
+
+(a) revoke a stop notice;
+
+(b) vary a stop notice so as to substitute a later date for the date specified in accordance with section 102(6)(b).
+
+(3) A person who fails to comply with a stop notice commits an offence.
+
+(4) A person guilty of an offence under subsection (3) is liable—
+
+(a) on summary conviction, to [^F81]a fine not exceeding £50,000[[^F81]a fine];
+
+(b) on conviction on indictment, to a fine or to imprisonment for a term not exceeding two years or to both.
+
+##### 104 Emergency safety notices
+
+(1) This section applies if it appears to an enforcement authority that serious interference with legitimate uses of the sea is occurring, or is likely to occur, in its area as a result of—
+
+(a) any works for the carrying out of which a marine licence is or was needed, or
+
+(b) any substantial and unforeseen change in the state or position of any such works.
+
+(2) The enforcement authority may issue a notice (an “emergency safety notice”) to any person who is in control of the works to which the notice relates.
+
+(3) By issuing an emergency safety notice to a person, the enforcement authority imposes on that person such requirements as are prescribed in the notice with respect to any of the matters specified in subsection (4).
+
+(4) Those matters are—
+
+(a) the provision of lights, signals or other aids to navigation;
+
+(b) the stationing of guard ships.
+
+(5) An emergency safety notice (in addition to specifying the requirements which it imposes)—
+
+(a) must state the enforcement authority's grounds for believing that serious interference with legitimate uses of the sea is occurring or is likely to occur,
+
+(b) must state the date and time from which the requirements are to take effect (which may be a time on the date of the notice but must allow a period for compliance which is reasonable in all the circumstances of the case), and
+
+(c) may require the person to take such steps as the authority considers appropriate to ensure that compliance with the requirements takes place safely.
+
+##### 105 Further provision as to emergency safety notices
+
+(1) An emergency safety notice issued by an enforcement authority must be served on each of the following—
+
+(a) if a marine licence has been granted authorising the carrying out of the works, the licensee,
+
+(b) if there is in effect a stop notice which relates to the works, any person on whom the stop notice was served.
+
+(2) An enforcement authority may by a further notice—
+
+(a) revoke an emergency safety notice;
+
+(b) vary an emergency safety notice so as to substitute a later date for the date specified in accordance with section 104(5)(b).
+
+(3) A person who fails to comply with an emergency safety notice commits an offence.
+
+(4) A person guilty of an offence under subsection (3) is liable—
+
+(a) on summary conviction, to [^F82]a fine not exceeding £50,000[[^F82]a fine];
+
+(b) on conviction on indictment, to a fine or to imprisonment for a term not exceeding two years or to both.
+
+#### Other powers
+
+##### 106 Power to take remedial action
+
+(1) This section applies if it appears to the appropriate licensing authority for an area that a licensable marine activity has been carried on in its area otherwise than under a licence and in accordance with its conditions.
+
+(2) The authority may carry out any works that appear to it to be necessary or expedient for any one or more of the following purposes—
+
+(a) protecting the environment;
+
+(b) protecting human health;
+
+(c) preventing interference with legitimate uses of the sea;
+
+(d) preventing or minimising, or remedying or mitigating the effects of, any harm or interference falling within subsection (3);
+
+(e) restoring (whether in whole or in part) the condition of any place affected by any such harm or interference to the condition, or a condition reasonably similar to the condition, in which the place would have been had the harm or interference not occurred.
+
+(3) The harm or interference mentioned in subsection (2)(d) and (e) is any of the following which has been, is being, or is likely to be, caused by the carrying on of the licensable marine activity—
+
+(a) harm to the environment;
+
+(b) harm to human health;
+
+(c) interference with legitimate uses of the sea.
+
+##### 107 Power to test, and charge for testing, certain substances
+
+(1) A licensing authority may, at the request of any person, conduct tests for the purpose of ascertaining the probable effect on the marine environment of using any of the following substances—
+
+(a) any marine chemical treatment substance;
+
+(b) any marine oil treatment substance;
+
+(c) any marine surface fouling cleaner.
+
+(2) In this section—
+
+- “marine chemical treatment substance” means any substance used or intended to be used for treating chemicals—
+
+  - (a) on the surface of the sea or of the sea bed;
+  - (b) in the case of a wash-off substance, on any surface of a marine structure;
+
+- “marine oil treatment substance” means any substance used or intended to be used for treating oil on the surface of the sea;
+
+- “marine surface fouling cleaner” means any substance used or intended to be used for removing surface fouling matter—
+
+  - (a) from the surface of the sea or of the sea bed;
+  - (b) in the case of a wash-off substance, from any surface of a marine structure or vessel at times when the structure or vessel is in the sea or on the sea bed;
+
+- “surface fouling matter” means any fouling, and includes, in particular,—
+
+  - (a) any algae;
+  - (b) any surface oil or chemical residue;
+
+- “surface oil or chemical residue” means any residual matter on a surface after the removal, or substantial removal, of any oil or chemical (whether by natural processes, or by treatment, or in any other way);
+
+- “wash-off substance”, in relation to a marine structure or vessel, means any substance which, if used on a surface of the marine structure or vessel, will or might (whether in whole or to a significant extent)—
+
+  - (a) be removed from that surface, and
+  - (b) be deposited in the sea,
+
+  whether by natural processes, or by treatment, or in any other way.
+
+(3) A licensing authority may recover any expenses reasonably incurred in conducting any tests under subsection (1) from any person at whose request those tests were conducted.
+
+##### 107A [[^F83]Deposits on account of fees payable to the Welsh Ministers
+
+(1) This section applies where the Welsh Ministers are the appropriate licensing authority.
+
+(2) Where a person is required to pay a fee to the licensing authority under this Part, the licensing authority may require the person to pay a deposit on account of the fee.
+
+(3) The amount that a person may be required to pay under subsection (2) is to be determined by or in accordance with regulations made by the licensing authority.
+
+(4) If a licensee fails to comply with a requirement to pay a deposit charged under subsection (2) on account of a fee charged under section 72A(2)(a) or (b), the licensing authority may by notice vary, suspend or revoke the licence.
+
+(5) The suspension of a licence under subsection (4) continues in effect until the deposit is paid (but this is subject to any provision made under section 108(3)(b) in relation to notices under that subsection).
+
+(6) If a person who has applied for a licence under section 67 or for a variation, suspension, revocation or transfer of a licence under section 72 fails to comply with a requirement to pay a deposit charged under subsection (2) in connection with that application, the licensing authority may—
+
+(a) refuse to proceed with the application, or
+
+(b) refuse to proceed with it until the failure is remedied.
+
+##### 107B Supplementary provision about fees payable to the Welsh Ministers
+
+(1) This section applies where the Welsh Ministers are the appropriate licensing authority.
+
+(2) When making provision under section 67(2) or 72A(4) about fees payable in respect of a type of application to the licensing authority or in respect of an activity of the licensing authority, the licensing authority must decide what provision to make by reference to the expected costs of dealing with that type of application or of carrying out that activity.
+
+(3) The licensing authority may require a fee charged by it under this Part to be payable in advance of the activity to which the fee relates being carried out.
+
+(4) The licensing authority may waive or reduce a fee.
+
+(5) The licensing authority may by regulations make provision about how and when a fee or deposit charged by it under this Part is to be paid.
+
+(6) A fee or deposit charged under this Part may be recovered by the licensing authority as a civil debt (in addition to any other action that may be taken by the licensing authority).]
+
+#### Appeals against notices under this Part
+
+##### 108 Appeals against notices
+
+(1) The appropriate licensing authority must by regulations make provision for any person to whom a notice is issued under section 72, 90, 91, 102 or 104 to appeal against that notice.
+
+(2) The regulations required by subsection (1) must come into force on the day on which this Part comes into force.
+
+[[^F84](2A) The Welsh Ministers must by regulations make provision for any person to whom a notice is issued under section 72A(7) or 107A(4) to appeal against that notice.]
+
+(3) Regulations under this section may include—
+
+(a) provision as to the procedure to be followed with respect to an appeal;
+
+(b) provision suspending the notice pending determination of the appeal;
+
+(c) provision as to the powers of any person to whom the appeal is made;
+
+(d) provision as to how any sum payable in pursuance of a decision of that person is to be recoverable.
+
+#### Offences: supplementary provision
+
+##### 109 General defence of due diligence
+
+(1) In any proceedings for an offence under this Part, it is a defence for the person charged (“the defendant”) to prove that the defendant took all reasonable precautions and exercised all due diligence to avoid the commission of the offence.
+
+(2) The defence provided by subsection (1) is to be taken to be established if the defendant—
+
+(a) acted under an employer's instructions,
+
+(b) did not know and had no reason to suppose that the acts done constituted a contravention of the provision in question, and
+
+(c) took all such steps as reasonably could be taken to ensure that no offence would be committed.
+
+(3) The defence provided by subsection (1) is to be taken to be established if the defendant—
+
+(a) acted in reliance on information supplied by another person,
+
+(b) did not know and had no reason to suppose that the information was false or misleading, and
+
+(c) took all such steps as reasonably could be taken to ensure that no offence would be committed.
+
+(4) Subsections (2) and (3) do not affect the generality of subsection (1).
+
+(5) If in any case the defence provided by subsection (1) involves the allegation that the commission of the offence was due to—
+
+(a) an act or default of another person (other than the giving of instructions to the defendant by an employer), or
+
+(b) reliance on information supplied by another person,
+
+the defendant is not, without leave of the court, entitled to rely on that defence unless the requirement in subsection (6) is satisfied.
+
+(6) The requirement is that—
+
+(a) at least seven clear days before the hearing, and
+
+(b) if the defendant has previously appeared before a court in connection with the alleged offence, within one month of the first such appearance,
+
+the defendant has served on the prosecutor a notice giving such information identifying or assisting in the identification of that other person as was then in the defendant's possession.
+
+##### 110 Offences: jurisdiction
+
+Proceedings for an offence under this Part may be taken, and the offence may for all incidental purposes be treated as having been committed, in any part of the United Kingdom.
+
+#### [[^F85]Fees
+
+##### 110A Fees: oil and gas activities for which marine licence needed
+
+(1) The Secretary of State may charge fees in connection with carrying out functions under this Part, so far as relating to oil and gas activities for which a marine licence is needed.
+
+(2) The fees are to be determined by or in accordance with regulations made by the Secretary of State.
+
+(3) The regulations may authorise the fees to be determined by or in accordance with a scheme made by the Secretary of State.
+
+(4) If the regulations provide for determining fees in connection with functions of the Secretary of State under section 67, the fees are to be those provided for by the regulations, and not those (if any) provided for by regulations under section 67(2) or determined under section 67(5).
+
+(5) “Oil and gas activities” are activities which relate to operations regulated under any of the provisions listed in subsection (6).
+
+(6) The provisions are—
+
+(a) section 2 of the Petroleum (Production) Act 1934 (searching and boring for, and getting, petroleum);
+
+(b) Part 1 of the Petroleum Act 1998 (searching and boring for, and getting, petroleum);
+
+(c) Part 3 of the Petroleum Act 1998 (submarine pipelines);
+
+(d) Part 4 of the Petroleum Act 1998 (abandonment of offshore installations);
+
+(e) Part 1 of the Energy Act 2008 (gas importation and storage);
+
+(f) Part 4 of the Energy Act 2008 (oil and gas).
+
+(7) See Chapter 1 for when a marine licence is needed for activities.]
+
+#### Application to the Crown
+
+##### 111 Application to the Crown
+
+(1) The provisions of this Part bind the Crown.
+
+This is subject to the following provisions of this section.
+
+(2) No contravention by the Crown of any provision of this Part is to make the Crown criminally liable; but the High Court or, in Scotland, the Court of Session may, on the application of the appropriate licensing authority or any other authority charged with enforcing that provision, declare unlawful any act or omission of the Crown which constitutes such a contravention.
+
+(3) Despite subsection (2), the provisions of this Part apply to persons in the public service of the Crown as they apply to other persons.
+
+(4) The Secretary of State may certify that it appears to the Secretary of State that, as respects—
+
+(a) any Crown land specified in the certificate, and
+
+(b) any powers of entry so specified which are exercisable in relation to that land,
+
+it is necessary or expedient that, in the interests of national security, the powers should not be exercisable in relation to the land.
+
+(5) If the Secretary of State issues a certificate under subsection (4), the powers specified in the certificate are not exercisable in relation to the land so specified.
+
+(6) For the purposes of subsection (4) “Crown land” means land held or used by or on behalf of the Crown.
+
+(7) Nothing in this section is to be taken as in any way affecting Her Majesty in her private capacity or in right of Her Duchy of Lancaster, or the Duke of Cornwall.
+
+#### Consequential and transitional provision
+
+##### 112 Amendments and transitional provision
+
+(1) Schedule 8 (which makes minor and consequential amendments) has effect.
+
+(2) Schedule 9 (which makes transitional provision) has effect.
+
+#### Interpretation
+
+##### 113 The appropriate licensing authority
+
+(1) This section has effect for determining who is the appropriate licensing authority for any area (and any licensable marine activity carried on in that area).
+
+(2) In relation to the Scottish offshore region, the appropriate licensing authority is—
+
+(a) the Secretary of State, as respects anything done in the course of carrying on an activity falling within subsection (3);
+
+(b) except as provided by paragraph (a), the Scottish Ministers.
+
+(3) The activities are—
+
+(a) any activity relating to a matter which is a reserved matter by virtue of Section D2 (oil and gas) of Schedule 5 to the Scotland Act 1998 (c. 46) (but see also section 77 above (this Part not to apply to certain oil and gas etc activities));
+
+(b) any activity relating to a matter which is a reserved matter by virtue of paragraph 9 in Part 1 of that Schedule (defence);
+
+(c) any activity falling within the subject matter of Part 6 of the Merchant Shipping Act 1995 (c. 21) (pollution etc).
+
+(4) In relation to Wales[[^F86], the Welsh inshore region and the Welsh offshore region], the appropriate licensing authority is—
+
+(a) the Secretary of State, as respects anything done in the course of carrying on an activity falling within subsection (5);
+
+(b) except as provided by paragraph (a), the Welsh Ministers.
+
+(5) The activities are—
+
+(a) any activity concerning or arising from the exploration for, or production of, petroleum (but see also section 77 (this Part not to apply to certain oil and gas etc activities));
+
+(b) any defence activity other than an excepted activity.
+
+[[^F87](c) in relation to the Welsh offshore region, any activity falling within the subject-matter of Part 6 of the Merchant Shipping Act 1995 (pollution etc).]
+
+Subsection (9) supplements this subsection.
+
+(6) In relation to Northern Ireland and the Northern Ireland inshore region, the appropriate licensing authority is—
+
+(a) the Secretary of State, as respects anything done in the course of carrying on an activity falling within subsection (7);
+
+(b) except as provided by paragraph (a), the Department of the Environment in Northern Ireland.
+
+(7) The activities are any activities which relate to a matter which is an excepted matter by virtue of paragraph 4 of Schedule 2 to the Northern Ireland Act 1998 (c. 47) (defence of the realm etc).
+
+(8) In relation to any area not mentioned in subsection (2), (4) or (6), the appropriate licensing authority is the Secretary of State.
+
+(9) In subsection (5)—
+
+- “defence activity” means any activity relating to—
+
+  - (a) the defence of the realm;
+  - (b) the naval, military or air forces of the Crown, including reserve forces;
+  - (c) visiting forces;
+  - (d) international headquarters and defence organisations;
+  - (e) trading with the enemy and enemy property;
+
+- “excepted activity” means the exercise of civil defence functions by any person otherwise than as a member of—
+
+  - (a) any force or organisation referred to in paragraphs (b) to (d) of the definition of “defence activity”, or
+  - (b) any other force or organisation established or maintained for the purposes of, or for purposes connected with, the defence of the realm;
+
+- “petroleum” has the same meaning as in Part 3 of the Petroleum Act 1998 (c. 17) (see section 28(1) of that Act).
+
+##### 114 Meaning of “enforcement authority”
+
+(1) This section has effect for determining who is an enforcement authority for any area.
+
+(2) For the purposes of sections 90 to 97 and 102 to 105 (and any other provisions of this Part so far as relating to those sections) the appropriate licensing authority for any area is an enforcement authority for that area.
+
+(3) For the purposes of sections 90, 92 (so far as relating to section 90) and 102 to 105 (and any other provisions of this Part (except sections 91 and 93 to 97) so far as relating to those sections) each of the following persons is also an enforcement authority—
+
+(a) in relation to the relevant enforcement area (within the meaning of section 236), any marine enforcement officer (as defined in section 235);
+
+(b) in relation to the relevant enforcement area (within the meaning of section 240), any person appointed under section 240;
+
+(c) in relation to the relevant enforcement area (within the meaning of section 241), any person appointed under section 241;
+
+(d) in relation to the Scottish offshore region, any person appointed under section 242.
+
+(4) A person is an enforcement authority by virtue of subsection (3) (so far as relating to the sections specified in that subsection) only to the extent that the person may exercise powers for the purposes of enforcing this Part.
+
+##### 115 Interpretation of this Part
+
+(1) In this Part—
+
+- “appropriate enforcement authority”, in the case of any area and any provision of this Part, means any authority which is an enforcement authority for that area for the purposes of that provision;
+
+- “the appropriate licensing authority” has the meaning given by section 113;
+
+- “British aircraft” means an aircraft registered in the United Kingdom;
+
+- “British marine structure” means a marine structure owned by or leased to an individual residing in, or a body corporate incorporated under the law of, any part of the United Kingdom;
+
+- “British vessel” means a vessel—
+
+  - (a) which is registered in the United Kingdom,
+  - (b) which falls within section 1(1)(d) of the Merchant Shipping Act 1995 (c. 21) (small ships), or
+  - (c) which is exempt from registration under section 294 of that Act;
+
+- “compliance notice” means a notice issued under section 90;
+
+- “emergency safety notice” means a notice issued under section 104;
+
+- “enforcement authority” has the meaning given by section 114;
+
+- “fixed monetary penalty” has the meaning given by section 93(3);
+
+- “licensable marine activity” is to be read in accordance with section 66;
+
+- “licensing authority” means—
+
+  - (a) the Secretary of State;
+  - (b) the Welsh Ministers;
+  - (c) the Scottish Ministers;
+  - (d) the Department of the Environment in Northern Ireland;
+
+- “marine licence” means a licence granted under this Part;
+
+- “marine structure” means a platform or other artificial structure at sea, other than a pipeline;
+
+- “remediation notice” means a notice issued under section 91;
+
+- “stop notice” means a notice issued under section 102;
+
+- “the UK marine licensing area” has the meaning given by section 66(4);
+
+- “variable monetary penalty” has the meaning given by section 95(3);
+
+- “vessel” includes—
+
+  - (a) hovercraft, and
+  - (b) any other craft capable of travelling on, in or under water, whether or not self-propelled.
+
+(2) In this Part any reference to the environment includes a reference to any site (including any site comprising, or comprising the remains of, any vessel, aircraft or marine structure) which is of historic or archaeological interest.
+
+## Part 5 — Nature conservation
+
+### Chapter 1 — Marine conservation zones [[^F88]and management of sea fisheries]
+
+#### Designation of zones
+
+##### 116 Marine conservation zones
+
+(1) The appropriate authority may by order designate any area falling within subsection (2) as a marine conservation zone (an “MCZ”).
+
+Section 117 sets out the grounds on which such an order may be made.
+
+(2) An area falls within this subsection if—
+
+(a) it is an area of the sea within the seaward limits of the territorial sea adjacent to the United Kingdom;
+
+(b) it is an area of the sea within the limits of the exclusive economic zone;
+
+(c) it is an area of the sea bed or subsoil within the limits of the UK sector of the continental shelf (so far as not falling within an area mentioned in paragraph (b)).
+
+(3) But an area does not fall within subsection (2) if it is in—
+
+(a) the Scottish inshore region, or
+
+(b) the Northern Ireland inshore region.
+
+(4) Section 118 makes further provision as to the areas that may be included in an MCZ.
+
+(5) For the purposes of this Chapter the appropriate authority is—
+
+(a) in relation to an area in Wales [[^F89]or the Welsh offshore region], the Welsh Ministers;
+
+(b) in relation to an area in the Scottish offshore region, the Scottish Ministers;
+
+(c) in any other case, the Secretary of State.
+
+[[^F90](5A) The Welsh Ministers may not designate an area as an MCZ without the agreement of the Secretary of State if any part of the proposed MCZ lies in the Welsh offshore region.]
+
+(6) The Scottish Ministers may not designate any area as an MCZ without the agreement of the Secretary of State.
+
+(7) An MCZ designated by the Scottish Ministers under this section is to be known as a marine protected area.
+
+Any reference in this Act to an MCZ is, in relation to an MCZ designated by the Scottish Ministers, to be read as a reference to a marine protected area.
+
+(8) Until the coming into force of the first Order in Council made under section 41 (the exclusive economic zone), the reference in subsection (2)(b) to the exclusive economic zone is to be read as a reference to a renewable energy zone.
+
+##### 117 Grounds for designation of MCZs
+
+(1) The appropriate authority may make an order under section 116 if it thinks that it is desirable to do so for the purpose of conserving—
+
+(a) marine flora or fauna;
+
+(b) marine habitats or types of marine habitat;
+
+(c) features of geological or geomorphological interest.
+
+(2) The order must state—
+
+(a) the protected feature or features;
+
+(b) the conservation objectives for the MCZ.
+
+(3) Any reference in this Chapter to the conservation objectives stated for an MCZ is a reference to the conservation objectives stated for the MCZ under subsection (2)(b).
+
+(4) [[^F91]Any reference in this Chapter] to conserving marine flora or fauna includes, in particular, a reference to conserving any species that is rare or threatened because of—
+
+(a) the limited number of individuals of that species, or
+
+(b) the limited number of locations in which that species is present.
+
+(5) [[^F92]Any reference in this Chapter] to conserving marine flora or fauna or habitat include references to conserving the diversity of such flora, fauna or habitat, whether or not any or all of them are rare or threatened.
+
+(6) Any reference [[^F93]in this Chapter] to conserving a thing includes references to—
+
+(a) assisting in its conservation;
+
+(b) enabling or facilitating its recovery or increase.
+
+(7) In considering whether it is desirable to designate an area as an MCZ, the appropriate authority may have regard to any economic or social consequences of doing so.
+
+(8) The reference in subsection (7) to any social consequences of designating an area as an MCZ includes a reference to any consequences of doing so for any sites in that area (including any sites comprising, or comprising the remains of, any vessel, aircraft or marine installation) which are of historic or archaeological interest.
+
+##### 118 Further provision as to orders designating MCZs
+
+(1) An order under section 116 must identify the boundaries of the area designated.
+
+(2) The boundary of an MCZ may be determined by, or by reference to, mean high water spring tide.
+
+(3) Any reference in subsection (2)(a) or (b) of section 116 to an area of sea includes a reference to any island in the sea, whether or not any part of it lies above mean high water spring tide.
+
+(4) If an MCZ includes an area falling within subsection (2)(a) of section 116 (“area A”), it may also include an area of the seashore lying above mean high water spring tide (“area B”) if—
+
+(a) area B adjoins area A, and
+
+(b) any of the conditions in subsection (5) is satisfied.
+
+(5) The conditions are—
+
+(a) that the protected feature or features leading to the designation of area A is or are also present in area B;
+
+(b) that area A is designated for the purpose of conserving marine flora or fauna which are dependent (wholly or in part) on anything which takes place in, or is present in, area B;
+
+(c) that, without the inclusion of area B, the identification of the boundary of the MCZ (either in the order designating the area or on the ground for the purposes of exercising functions in relation to it) would be impossible or impracticable.
+
+(6) An order under section 116—
+
+(a) must designate an area of land (whether or not that land is covered by water), and
+
+(b) in the case of an area falling within subsection (2)(a) or (b) of that section, may designate some or all of the water covering that land.
+
+##### 119 Consultation before designation
+
+(1) Before making an order under section 116, the appropriate authority must comply with subsections (2) to (9) of this section.
+
+This is subject to subsection (11).
+
+(2) The appropriate authority must publish notice of its proposal to make the order.
+
+(3) The notice under subsection (2) must—
+
+(a) be published in such manner as the appropriate authority thinks is most likely to bring the proposal to the attention of any persons who are likely to be affected by the making of the order;
+
+(b) contain a statement of the terms of the proposed order.
+
+(4) The appropriate authority must consult any persons who the appropriate authority thinks are likely to be interested in, or affected by, the making of the order.
+
+(5) Where the appropriate authority is not the Secretary of State, the authority must consult the Secretary of State.
+
+(6) If the appropriate authority for an area other than Wales [[^F94]or the Welsh offshore region] considers that—
+
+(a) the making of the order may affect any activity which is or may be carried on in the Welsh zone, or
+
+(b) any activity which is or may be carried on in the Welsh zone may affect any part of the proposed MCZ,
+
+the authority must consult the Welsh Ministers.
+
+(7) If the appropriate authority for an area other than the Scottish offshore region considers that—
+
+(a) the making of the order may affect any activity which is or may be carried on in the Scottish zone, or
+
+(b) any activity which is or may be carried on in the Scottish zone may affect any part of the proposed MCZ,
+
+the authority must consult the Scottish Ministers.
+
+(8) If the appropriate authority considers that—
+
+(a) the making of the order may affect any activity which is or may be carried on in the Northern Ireland zone, or
+
+(b) any activity which is or may be carried on in the Northern Ireland zone may affect any part of the proposed MCZ,
+
+the authority must consult the Department of the Environment in Northern Ireland.
+
+(9) The Secretary of State must consult—
+
+[^F95]a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) the Department of the Environment in Northern Ireland, if any part of the proposed MCZ lies in the Northern Ireland zone.
+
+(10) If the appropriate authority fails to make the order before the end of the period of 12 months beginning with the date on which notice was published under subsection (2), then anything done by the appropriate authority for the purposes of complying with subsections (2) to (9) of this section is, for those purposes, to be treated as not having been done.
+
+(11) In a case where the appropriate authority thinks that there is an urgent need to protect the area proposed to be designated, the authority need not comply with subsections (2) to (4).
+
+(12) In such a case, the order designating the area as an MCZ remains in force for a period not exceeding two years, unless the appropriate authority makes a further order before the end of that period confirming the designation.
+
+Before making such an order, the appropriate authority must comply with subsections (2) to (9) (and subsection (10) applies accordingly).
+
+##### 120 Publication of orders designating MCZs
+
+(1) This section applies where an order has been made under section 116.
+
+(2) The appropriate authority must publish notice of the making of the order.
+
+(3) The notice under subsection (2) must—
+
+(a) be published in such manner as the appropriate authority thinks is most likely to bring the order to the attention of any persons who are likely to be affected by the making of it;
+
+(b) give an address at which a copy of the order may be inspected.
+
+(4) The appropriate authority must—
+
+(a) make a copy of the order available for inspection at the address specified under subsection (3)(b) at all reasonable hours without payment;
+
+(b) provide a copy of the order to any person who requests one.
+
+(5) The appropriate authority may charge a fee, not exceeding its costs, for providing a copy under subsection (4)(b).
+
+##### 121 Hearings by appropriate authority
+
+(1) This section applies where the appropriate authority has the function of deciding whether to make an order under section 116 designating an area as an MCZ.
+
+(2) The authority may, before making that decision, give to any person the opportunity of—
+
+(a) appearing before and being heard by a person appointed for that purpose;
+
+(b) providing written representations to such a person.
+
+(3) The authority may make regulations providing for the procedure to be followed (including decisions as to costs) at hearings held under subsection (2).
+
+(4) A person appointed under subsection (2) must make a report to the authority of any oral or written representations made under that subsection.
+
+##### 122 Amendment, revocation and review of orders designating MCZs
+
+(1) An order under section 116 may be amended or revoked by a further order.
+
+(2) The appropriate authority for an area must review any order it has made under section 116 if the authority receives representations from—
+
+(a) the appropriate authority for another area, or
+
+(b) the Department of the Environment in Northern Ireland,
+
+that the order should be amended or revoked.
+
+#### Duties relating to network
+
+##### 123 Creation of network of conservation sites
+
+(1) In order to contribute to the achievement of the objective in subsection (2), the appropriate authority must designate MCZs under section 116.
+
+(2) The objective is that the MCZs designated by the appropriate authority, taken together with any other MCZs designated under section 116 and any relevant conservation sites in the UK marine area, form a network which satisfies the conditions in subsection (3).
+
+(3) The conditions are—
+
+(a) that the network contributes to the conservation or improvement of the marine environment in the UK marine area;
+
+(b) that the features which are protected by the sites comprised in the network represent the range of features present in the UK marine area;
+
+(c) that the designation of sites comprised in the network reflects the fact that the conservation of a feature may require the designation of more than one site.
+
+(4) For the purposes of subsection (2), the following are “relevant conservation sites”—
+
+(a) any European marine site;
+
+(b) the whole or part of any SSSI;
+
+(c) the whole or part of any Ramsar site.
+
+(5) When complying with the duty imposed by subsection (1), the appropriate authority must have regard to any [[^F96][[^F97]assimilated] obligations or obligations under international law] that relate to the conservation or improvement of the marine environment.
+
+(6) Before the end of the period of 2 months beginning with the date on which this section comes into force, the appropriate authority must—
+
+(a) prepare a statement setting out such principles relating to the achievement of the objective in subsection (2) as the authority intends to follow when complying with the duty imposed by subsection (1), and
+
+(b) lay a copy of the statement before the appropriate legislature.
+
+(7) A statement prepared by the appropriate authority under this section may also set out other matters relating to the achievement of that objective which the authority intends to take into account when complying with the duty imposed by subsection (1).
+
+(8) The appropriate authority must—
+
+(a) keep under review any statement it has prepared under this section, and
+
+(b) if it considers it appropriate in consequence of a review, prepare a revised statement of the principles referred to in subsection (6) and lay a copy of it before the appropriate legislature.
+
+(9) In this section—
+
+“the appropriate legislature” means—
+
+(a) in relation to the Secretary of State, Parliament;
+
+(b) in relation to the Welsh Ministers, the National Assembly for Wales;
+
+(c) in relation to the Scottish Ministers, the Scottish Parliament;
+
+“European marine site” means any site which is—
+
+(a) a European marine site within the meaning of [[^F98]—
+
+(i)] the Conservation (Natural Habitats, &c) Regulations 1994 ( S.I. 1994/2716), or
+
+[[^F99](ii) the Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012) (see regulation 8), or]
+
+[[^F100](b) a European offshore marine site within the meaning of the Conservation of Offshore Marine Habitats and Species Regulations 2017 (S.I. 2017/1013),]
+
+“ feature ” means anything falling within paragraphs (a) to (c) of section 117(1);
+
+“ Ramsar site ” has the same meaning as in section 37A of the Wildlife and Countryside Act 1981 (c. 69);
+
+“ SSSI ” means a site of special scientific interest, within the meaning of Part 2 of that Act.
+
+##### 124 Report
+
+(1) Before the end of every relevant period, the appropriate authority must lay before the appropriate legislature a report setting out—
+
+(a) the extent to which, in the opinion of the authority, the objective in section 123(2) has been achieved;
+
+(b) any further steps which, in the opinion of the authority, are required to be taken in order to contribute to the achievement of that objective.
+
+(2) The report must also contain the following information—
+
+(a) the number of MCZs which the authority has designated during the relevant period;
+
+(b) in relation to each such MCZ—
+
+(i) the size of the MCZ, and
+
+(ii) the conservation objectives which have been stated for the MCZ;
+
+(c) the number of MCZs designated by the authority in which the following activities are prohibited or significantly restricted—
+
+(i) any licensable marine activity;
+
+(ii) fishing for or taking animals or plants from the sea;
+
+(d) information about any amendments which the authority has made to any orders made under section 116;
+
+(e) the extent to which, in the opinion of the authority, the conservation objectives stated for each MCZ which it has designated have been achieved;
+
+(f) any further steps which, in the opinion of the authority, are required to be taken in relation to any MCZ in order to achieve the conservation objectives stated for it.
+
+(3) For the purposes of complying with its duty under this section, the appropriate authority for any area may direct the appropriate statutory conservation body for that area to carry out such monitoring of MCZs in that area as is specified in the direction.
+
+(4) A body that is given a direction under subsection (3) must comply with it.
+
+(5) In this section—
+
+- “the appropriate legislature” means—
+
+  - (a) in relation to the Secretary of State, Parliament;
+  - (b) in relation to the Welsh Ministers, the National Assembly for Wales;
+  - (c) in relation to the Scottish Ministers, the Scottish Parliament;
+
+- “licensable marine activity” has the same meaning as in Part 4;
+
+- “relevant period” means—
+
+  - (a) the period beginning on the date on which this section comes into force and ending on 31 December 2012;
+  - (b) each subsequent period of six years.
+
+#### Duties of public authorities
+
+##### 125 General duties of public authorities in relation to MCZs
+
+(1) This section applies to any public authority having any function the exercise of which is capable of affecting (other than insignificantly)—
+
+(a) the protected features of an MCZ;
+
+(b) any ecological or geomorphological process on which the conservation of any protected feature of an MCZ is (wholly or in part) dependent.
+
+(2) Every public authority to which this section applies must (so far as is consistent with their proper exercise)—
+
+(a) exercise its functions in the manner which the authority considers best furthers the conservation objectives stated for the MCZ;
+
+(b) where it is not possible to exercise its functions in a manner which furthers those objectives, exercise them in the manner which the authority considers least hinders the achievement of those objectives.
+
+(3) If a public authority considers that any of its functions is such that the exercise of the function would or might significantly hinder the achievement of the conservation objectives for an MCZ, it must inform the appropriate statutory conservation body of that fact.
+
+(4) Subject to subsection (6), subsection (5) applies in any case where a public authority intends to do an act which is capable of affecting (other than insignificantly)—
+
+(a) the protected features of an MCZ;
+
+(b) any ecological or geomorphological process on which the conservation of any protected feature of an MCZ is (wholly or in part) dependent.
+
+(5) If the authority believes that there is or may be a significant risk of the act hindering the achievement of the conservation objectives stated for the MCZ, the authority must notify the appropriate statutory conservation body of that fact.
+
+(6) Subsection (5) does not apply where—
+
+(a) the appropriate statutory conservation body has given the authority advice or guidance under section 127 in relation to acts of a particular description,
+
+(b) the act which the authority intends to do is an act of that description, and
+
+(c) the advice or guidance has not ceased to apply.
+
+(7) Where the authority has given notification under subsection (5), it must wait until the expiry of the period of 28 days beginning with the date of the notification before deciding whether to do the act.
+
+(8) Subsection (7) does not apply where—
+
+(a) the appropriate statutory conservation body notifies the authority that it need not wait until the end of the period referred to in that subsection, or
+
+(b) the authority thinks that there is an urgent need to do the act.
+
+(9) If a public authority considers that a relevant event has occurred, it must inform—
+
+(a) the relevant authority, and
+
+(b) the appropriate statutory conservation body,
+
+of that fact.
+
+(10) A “relevant event” is any act—
+
+(a) in relation to which the public authority exercises functions,
+
+(b) which the authority believes to be an offence, and
+
+(c) which the authority considers will or may significantly hinder the achievement of the conservation objectives for an MCZ.
+
+(11) For the purposes of subsection (9) “relevant authority” means—
+
+(a) in relation to an MCZ in Wales [[^F101]or the Welsh offshore region], the Welsh Ministers;
+
+(b) in relation to an MCZ in the Scottish offshore region, the Scottish Ministers;
+
+(c) in relation to any other MCZ, the MMO.
+
+(12) In carrying out its duties under this section a public authority must have regard to any advice or guidance given by the appropriate statutory conservation body under section 127.
+
+[[^F102](12A) This section does not apply to the exercise by a public authority of functions under or by virtue of Part 3 of the Planning and Infrastructure Act 2025 (development and nature recovery).]
+
+(13) In this section—
+
+- “act” includes omission;
+- “public authority” does not include a Northern Ireland Minister or Northern Ireland department.
+
+##### 126 Duties of public authorities in relation to certain decisions
+
+(1) This section applies where—
+
+(a) a public authority has the function of determining an application (whenever made) for authorisation of the doing of an act, and
+
+(b) the act is capable of affecting (other than insignificantly)—
+
+(i) the protected features of an MCZ;
+
+(ii) any ecological or geomorphological process on which the conservation of any protected feature of an MCZ is (wholly or in part) dependent.
+
+(2) If the authority believes that there is or may be a significant risk of the act hindering the achievement of the conservation objectives stated for the MCZ, the authority must notify the appropriate statutory conservation body of that fact.
+
+(3) Where the authority has given notification under subsection (2), it must wait until the expiry of the period of 28 days beginning with the date of the notification before deciding whether to grant authorisation for the doing of the act.
+
+(4) Subsection (3) does not apply where—
+
+(a) the appropriate statutory conservation body notifies the authority that it need not wait until the end of the period referred to in that subsection, or
+
+(b) the authority thinks that there is an urgent need to grant authorisation for the doing of the act.
+
+(5) The authority must not grant authorisation for the doing of the act unless the condition in subsection (6) or the condition in subsection (7) is met.
+
+(6) The condition in this subsection is that the person seeking the authorisation satisfies the authority that there is no significant risk of the act hindering the achievement of the conservation objectives stated for the MCZ.
+
+(7) The condition in this subsection is that, although the person seeking the authorisation is not able to satisfy the authority that there is no significant risk of the act hindering the achievement of the conservation objectives stated for the MCZ, that person satisfies the authority that—
+
+(a) there is no other means of proceeding with the act which would create a substantially lower risk of hindering the achievement of those objectives,
+
+(b) the benefit to the public of proceeding with the act clearly outweighs the risk of damage to the environment that will be created by proceeding with it, and
+
+(c) the person seeking the authorisation will undertake, or make arrangements for the undertaking of, measures of equivalent environmental benefit to the damage which the act will or is likely to have in or on the MCZ.
+
+(8) The reference in subsection (7)(a) to other means of proceeding with an act includes a reference to proceeding with it—
+
+(a) in another manner, or
+
+(b) at another location.
+
+(9) In a case falling within subsection (7), the authority must, if it has power to grant the authorisation subject to conditions, exercise that power so as to make it a condition of the authorisation that the measures mentioned in subsection (7)(c) are undertaken.
+
+(10) In carrying out its duties under this section a public authority must have regard to any advice or guidance given by the appropriate statutory conservation body under section 127.
+
+(11) In this section—
+
+- “act” includes omission;
+- “authorisation” means any approval, confirmation, consent, licence, permission or other authorisation (however described), whether special or general;
+- “damage” includes the prevention of an improvement;
+- “public authority” does not include a Northern Ireland Minister or Northern Ireland department.
+
+##### 127 Advice and guidance by conservation bodies
+
+(1) The appropriate statutory conservation body may give advice and guidance as to—
+
+(a) the matters which are capable of damaging or otherwise affecting any protected feature or features;
+
+(b) the matters which are capable of affecting any ecological or geomorphological process on which the conservation of any protected feature or features is (wholly or in part) dependent;
+
+(c) how any conservation objectives stated for an MCZ may be furthered, or how the achievement of any such objectives may be hindered;
+
+(d) how the effect of any activity or activities on an MCZ or MCZs may be mitigated;
+
+(e) which activities are, or are not, of equivalent environmental benefit (for the purposes of section 126(7)(c)) to any particular damage to the environment (within the meaning of that provision).
+
+(2) Advice or guidance may be given—
+
+(a) either in relation to a particular MCZ or MCZs or generally;
+
+(b) either to a particular public authority or authorities or generally.
+
+(3) The appropriate statutory conservation body must give advice to a public authority if the authority requests it.
+
+(4) If the appropriate statutory conservation body for an area proposes to exercise its functions under this section in a manner which may affect an MCZ or MCZs in an area for which another body is the appropriate statutory conservation body, it must consult that other body before doing so.
+
+##### 128 Failure to comply with duties etc
+
+(1) This section applies if, in the opinion of the appropriate statutory conservation body, a public authority has failed—
+
+(a) to comply with the duty imposed by section 125(2) or the duty imposed by section 126(5);
+
+(b) to act in accordance with advice or guidance given by the appropriate statutory conservation body under section 127.
+
+(2) Where this section applies—
+
+(a) the body may request from the authority an explanation for the failure, and
+
+(b) on such a request, the authority must provide such an explanation in writing.
+
+(3) In this section “public authority” does not include a Northern Ireland Minister or Northern Ireland department.
+
+#### Byelaws for [[^F103]marine conservation: England and the English offshore region]
+
+##### 129 Byelaws for protection of MCZs in England
+
+(1) The MMO may make one or more byelaws for the purpose of furthering the conservation objectives stated for an MCZ in England.
+
+(2) A byelaw under this section may be made so as to apply to any area in England.
+
+(3) The provision that may be made by a byelaw under this section includes, in particular, provision—
+
+(a) prohibiting or restricting entry into, or any movement or other activity within, the MCZ by persons or animals;
+
+(b) prohibiting or restricting entry into, or any movement or other activity within, the MCZ by vessels or (where appropriate) vehicles;
+
+(c) restricting the speed at which any vessel may move in the MCZ or in any specified area outside the MCZ where that movement might hinder the conservation objectives stated for the MCZ;
+
+(d) prohibiting or restricting the anchoring of any vessel within the MCZ;
+
+(e) prohibiting or restricting the killing, taking, destruction, molestation or disturbance of animals or plants of any description in the MCZ;
+
+(f) prohibiting or restricting the doing of anything in the MCZ which would interfere with the sea bed or damage or disturb any object in the MCZ.
+
+(4) The provision that may be made by a byelaw under this section also includes provision prohibiting or restricting entry into, or any movement or other activity on, any part of the seashore that adjoins the MCZ by persons, animals or vehicles.
+
+(5) A byelaw under this section may provide for the MMO to issue permits authorising anything which would, apart from such a permit, be unlawful under the byelaw.
+
+(6) The MMO may attach to a permit under subsection (5) any condition which the MMO thinks appropriate to attach to that permit.
+
+(7) A byelaw under this section may be made
+
+[[^F104](a) subject to specified exceptions or conditions;
+
+(b) so as to cease to have effect after a specified period.]
+
+(8) A byelaw under this section may make different provision for different cases, including (in particular)—
+
+(a) different parts of the MCZ;
+
+(b) different times of the year;
+
+(c) different means or methods of carrying out any activity.
+
+(9) In this section “specified” means specified in the byelaw.
+
+##### 129A [[^F105]Byelaws relating to exploitation of sea fisheries resources: England
+
+(1) The MMO may make one or more byelaws relating to the exploitation of sea fisheries resources in England for the purposes of conserving—
+
+(a) marine flora or fauna, or
+
+(b) marine habitats or types of marine habitat.
+
+(2) A byelaw under this section may be made so as to apply to any area in England.
+
+(3) A byelaw under this section must specify the flora or fauna, or habitat or type of habitat, for the conservation of which the byelaw is made.
+
+(4) The provision that may be made by a byelaw under this section includes provision that prohibits, restricts or otherwise interferes with the exercise of—
+
+(a) a right of several fishery;
+
+(b) any right on, to or over any portion of the seashore that is enjoyed by a person under a local or special Act, a Royal charter, letters patent or by prescription or immemorial usage.
+
+(5) But the MMO may make a byelaw that prohibits, or significantly restricts or interferes with, a right referred to in subsection (4), only if the person who enjoys the right consents.
+
+(6) Subsection (5) does not apply in relation to the exercise of such a right in relation to—
+
+(a) a site of special scientific interest, within the meaning of Part 2 of the Wildlife and Countryside Act 1981,
+
+(b) a national nature reserve declared in accordance with section 35 of that Act,
+
+(c) a Ramsar site, within the meaning of section 37A of that Act,
+
+(d) a European marine site, within the meaning of the Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012), or
+
+(e) an MCZ.
+
+(7) See also section 129C (supplementary).
+
+##### 129B Byelaws relating to exploitation of sea fisheries resources: English offshore region
+
+(1) The MMO may make one or more byelaws relating to the exploitation of sea fisheries resources in the English offshore region for the purposes of conserving—
+
+(a) marine flora or fauna,
+
+(b) marine habitats or types of marine habitat, or
+
+(c) features of geological or geomorphological interest.
+
+(2) A byelaw under this section may be made so as to apply to any area in the English offshore region.
+
+(3) A byelaw under this section must specify the flora or fauna, habitat or type of habitat or features for the conservation of which it is made.
+
+(4) See also section 129C (supplementary).
+
+##### 129C Byelaws under sections 129A and 129B: supplementary
+
+(1) The provision that may be made by a byelaw under section 129A or 129B includes, in particular, provision falling within any of the Heads set out in subsections (2) to (4).
+
+(2) Head 1 is provision prohibiting or restricting the exploitation of sea fisheries resources, including—
+
+(a) provision prohibiting or restricting such exploitation in specified areas or during specified periods;
+
+(b) provision limiting the amount of sea fisheries resources a person or vessel may take in a specified period;
+
+(c) provision limiting the amount of time a person or vessel may spend fishing for or taking sea fisheries resources in a specified period.
+
+(3) Head 2 is provision prohibiting or restricting the exploitation of sea fisheries resources without a permit issued by the MMO, including—
+
+(a) provision for the charging of fees for permits;
+
+(b) provision enabling conditions to be attached to a permit;
+
+(c) provision enabling the MMO to limit the number of permits issued by it.
+
+(4) Head 3 is—
+
+(a) provision prohibiting or restricting the use of vessels of specified descriptions;
+
+(b) provision prohibiting or restricting any method of exploiting sea fisheries resources;
+
+(c) provision prohibiting or restricting the possession, use, retention on board, storage or transportation of specified items, or items of a specified description, that are used in the exploitation of sea fisheries resources;
+
+(d) provision for determining whether such items are items of a specified description.
+
+(5) A byelaw under section 129A or 129B may be made—
+
+(a) subject to specified exceptions or conditions;
+
+(b) so as to cease to have effect after a specified period.
+
+(6) A byelaw under section 129A or 129B may make different provision for different cases, including in particular—
+
+(a) different times of the year,
+
+(b) different means or methods of carrying out an activity, and
+
+(c) different descriptions of sea fisheries resources.
+
+(7) In this section “specified” means specified in the byelaw.]
+
+##### 130 Byelaws: procedure
+
+(1) Before making a byelaw under section 129 [[^F106], 129A or 129B], the MMO must comply with subsections (2) to (7) of this section.
+
+This is subject to subsection (11).
+
+(2) If the byelaw [[^F107]is made under section 129 or 129A and] would or might affect any activity in Wales, the MMO must send a copy of a draft of the byelaw to the Welsh Ministers.
+
+[[^F108](2A) If the byelaw is made under section 129B and—
+
+(a) the byelaw would or might affect the exploitation of sea fisheries resources in the Welsh offshore region, the MMO must send a copy of a draft of the byelaw to the Welsh Ministers;
+
+(b) the byelaw would or might affect the exploitation of sea fisheries resources in the Scottish offshore region, the MMO must send a copy of a draft of the byelaw to the Scottish Ministers;
+
+(c) the byelaw would or might affect the exploitation of sea fisheries resources in the Northern Ireland offshore region, the MMO must send a copy of a draft of the byelaw to the Department of Agriculture, Environment and Rural Affairs in Northern Ireland.]
+
+(3) The MMO must place a copy of a draft of the byelaw in such place or places as the MMO thinks is or are likely to be most convenient for the purpose of enabling the draft to be inspected by persons likely to be affected by the making of the byelaw.
+
+(4) The MMO must provide a copy of a draft of the byelaw to any person who requests one.
+
+(5) The MMO may charge a fee, not exceeding its costs, for providing a copy under subsection (4).
+
+(6) The MMO must publish notice of its proposal to make the byelaw.
+
+(7) The notice under subsection (6) must—
+
+(a) be published in such manner as the MMO thinks is most likely to bring the proposal to the attention of any persons who are likely to be affected by the making of the byelaw;
+
+(b) state where the copy or copies of the draft byelaw have been placed by the MMO in accordance with subsection (3);
+
+(c) state the time within which representations about the byelaw must be made to the MMO.
+
+(8) A byelaw made under section 129 [[^F109], 129A or 129B] does not have effect until it is confirmed by the Secretary of State; and a byelaw which is confirmed comes into force—
+
+(a) on such date as may be determined by the Secretary of State, or
+
+(b) if no such date is determined, one month after the date on which it is confirmed.
+
+(9) As soon as is reasonably practicable after the confirmation of a byelaw made under section 129 [[^F110], 129A or 129B], the MMO must publish notice of the making of the byelaw.
+
+(10) The notice under subsection (9) must—
+
+(a) be published in such manner as the MMO thinks is most likely to bring the byelaw to the attention of any persons who are likely to be affected by the making of it;
+
+(b) state that a copy of the byelaw may be inspected at the offices of the MMO.
+
+(11) Nothing in this section applies [[^F111]in relation to a byelaw made by virtue of section 131 (emergency byelaws)].
+
+##### 131 Emergency byelaws
+
+(1) Where the MMO thinks that there is an urgent need to protect an MCZ, a byelaw made by it for that purpose [[^F112]under section 129] has effect without being confirmed by the Secretary of State.
+
+[[^F113](1A) Where the MMO thinks that there is an urgent need to protect the English offshore region, a byelaw made by it under section 129B for that purpose has effect without being confirmed by the Secretary of State.]
+
+(2) A byelaw that has effect by virtue of this section (an “emergency byelaw”)—
+
+(a) comes into force on a date specified in the byelaw, and
+
+(b) remains in force (unless revoked) for such period, not exceeding 12 months, as is specified in the byelaw.
+
+(3) The MMO must publish notice of the making of an emergency byelaw.
+
+(4) The notice under subsection (3) must—
+
+(a) be published in such manner as the MMO thinks is most likely to bring the byelaw to the attention of any persons who are likely to be affected by the making of it;
+
+(b) state that a copy of the byelaw may be inspected at the offices of the MMO;
+
+(c) state that the Secretary of State has power to revoke the byelaw and that any person affected by the making of the byelaw may make representations to the Secretary of State.
+
+(5) The Secretary of State may revoke an emergency byelaw.
+
+(6) The MMO must keep under review the need for an emergency byelaw to remain in force.
+
+(7) The MMO may, by further byelaw, provide that an emergency byelaw is to remain in force for such period beyond that specified under subsection (2)(b) as is specified in the further byelaw.
+
+(8) The MMO may not make a byelaw under subsection (7) unless—
+
+(a) it intends to make a byelaw under section 129 in respect of the MCZ [[^F114], or under section 129B in respect of the English offshore region,] in accordance with section 130 (“the permanent byelaw”), and
+
+(b) it has, in respect of the permanent byelaw, complied with section 130(6).
+
+(9) A period specified under subsection (7) may not exceed 6 months.
+
+##### 132 Interim byelaws
+
+(1) The MMO may make one or more byelaws for the purpose of protecting any feature in an area in England if the MMO thinks—
+
+(a) that there are or may be reasons for the Secretary of State to consider whether to designate the area as an MCZ, and
+
+(b) that there is an urgent need to protect the feature.
+
+[[^F115](1A) The MMO may make one or more byelaws relating to the exploitation of sea fisheries resources in the English offshore region for the purpose of protecting any feature in an area in that region if the MMO thinks—
+
+(a) that there are or may be reasons for the Secretary of State to consider whether to designate the area as an MCZ, and
+
+(b) that there is an urgent need to protect the feature.]
+
+(2) In this Chapter “interim byelaw” means a byelaw made under subsection (1) [[^F116]or (1A)].
+
+(3) An interim byelaw must contain a description of the boundaries of the area to which it applies (which must be no greater than is necessary for the purpose of protecting the feature in question).
+
+(4) Subsections (2) to (9) of section 129 apply to [[^F117]a byelaw made under subsection (1)] as they apply to a byelaw made under that section, except that any reference to an MCZ is to be read as a reference to the area to which the interim byelaw applies.
+
+[[^F118](4A) Section 129C applies to a byelaw made under subsection (1A) as it applies to a byelaw made under section 129A or 129B.]
+
+(5) An interim byelaw—
+
+(a) comes into force on a date specified in the byelaw, and
+
+(b) remains in force (unless revoked) for such period, not exceeding 12 months, as is specified in the byelaw.
+
+(6) The MMO must publish notice of the making of an interim byelaw.
+
+(7) The notice under subsection (6) must—
+
+(a) be published in such manner as the MMO thinks is most likely to bring the byelaw to the attention of any persons who are likely to be affected by the making of it;
+
+(b) state that a copy of the byelaw may be inspected at the offices of the MMO;
+
+(c) state that the Secretary of State has power to revoke the byelaw and that any person affected by the making of the byelaw may make representations to the Secretary of State.
+
+(8) The Secretary of State may revoke an interim byelaw.
+
+(9) The MMO must keep under review the need for an interim byelaw to remain in force.
+
+(10) The MMO may by further byelaw extend the period for which an interim byelaw remains in force; but an interim byelaw may not by virtue of this subsection remain in force for an aggregate period exceeding 12 months.
+
+(11) If, while an interim byelaw is in force, the Secretary of State gives notice of a proposal to make an order under section 116 designating any part of the area in question as an MCZ, the Secretary of State may direct that the interim byelaw is to remain in force—
+
+(a) until the Secretary of State has decided whether to make the order under section 116;
+
+(b) if the Secretary of State decides to make such an order, until that order comes into effect.
+
+(12) The Secretary of State must publish a direction under subsection (11) in such manner as the Secretary of State thinks is most likely to bring the direction to the attention of any persons who are likely to be affected by the making of it.
+
+(13) In this section “feature” means any flora, fauna, habitat or feature which could be a protected feature if the area in question were designated as an MCZ.
+
+##### 133 Further provision as to byelaws
+
+(1) This section applies to any byelaw made under section 129 [[^F119], 129A, 129B or 132(1) or (1A)].
+
+(2) A byelaw to which this section applies is to be made under the common seal of the MMO.
+
+(3) If a byelaw to which this section applies [[^F120]is made under section 129, 129A or 132(1) and] will or may affect any activity in Wales, the MMO must send a copy of the byelaw to the Welsh Ministers.
+
+[[^F121](3A) If the byelaw is made under section 129B or 132(1A) and—
+
+(a) the byelaw will or may affect the exploitation of sea fisheries resources in the Welsh offshore region, the MMO must send a copy of the byelaw to the Welsh Ministers;
+
+(b) the byelaw will or may affect the exploitation of sea fisheries resources in the Scottish offshore region, the MMO must send a copy of the byelaw to the Scottish Ministers;
+
+(c) the byelaw will or may affect the exploitation of sea fisheries resources in the Northern Ireland offshore region, the MMO must send a copy of the byelaw to the Department of Agriculture, Environment and Rural Affairs in Northern Ireland.]
+
+(4) The MMO must—
+
+(a) make a copy of any byelaw to which this section applies available for inspection at its offices at all reasonable hours without payment;
+
+(b) provide a copy of any such byelaw to any person who requests one.
+
+(5) The MMO may charge a fee, not exceeding its costs, for providing a copy under subsection (4)(b).
+
+(6) In the case of a byelaw made under section 129 [[^F122]or 129A] in accordance with section 130, subsections (3) and (4) above apply only after the byelaw has been confirmed under section 130(8).
+
+[[^F123](6A) In the case of a byelaw made under section 129B in accordance with section 130, subsection (3A) applies only after the byelaw has been confirmed under section 130(8).]
+
+(7) A byelaw to which this section applies may be amended or revoked by a further byelaw.
+
+#### Orders for [[^F124]marine conservation: Wales and the Welsh offshore region]
+
+##### 134 Orders for protection of MCZs in Wales
+
+(1) The Welsh Ministers may make one or more orders for the purpose of furthering the conservation objectives stated for an MCZ in Wales.
+
+(2) An order under this section may be made so as to apply to any area in Wales.
+
+(3) Subsections (3), (4) and (7) to (9) of section 129 apply in relation to an order under this section as they apply in relation to a byelaw under that section.
+
+(4) An order under this section may provide for the Welsh Ministers to issue permits authorising anything which would, apart from such a permit, be unlawful under the order.
+
+(5) The Welsh Ministers may attach to a permit under subsection (4) any condition which the Welsh Ministers think appropriate to attach to that permit.
+
+(6) An order under this section may be made in respect of more than one MCZ; and in relation to any order so made any reference in this section (or in section 129 as applied by this section) to an MCZ is a reference to any or all of the MCZs in respect of which the order is made.
+
+##### 134A [[^F125]Orders relating to exploitation of sea fisheries resources: Wales
+
+(1) The Welsh Ministers may make one or more orders relating to the exploitation of sea fisheries resources in Wales for the purposes of conserving—
+
+(a) marine flora or fauna, or
+
+(b) marine habitats or types of marine habitat.
+
+(2) An order under this section may be made so as to apply to any area in Wales.
+
+(3) An order under this section must specify the flora or fauna, or habitat or type of habitat, for the conservation of which the order is made.
+
+(4) The provision that may be made by an order under this section includes provision that prohibits, restricts or otherwise interferes with the exercise of—
+
+(a) a right of several fishery;
+
+(b) any right on, to or over any portion of the seashore that is enjoyed by a person under a local or special Act, a Royal charter, letters patent or by prescription or immemorial usage.
+
+(5) But the Welsh Ministers may make an order that prohibits, or significantly restricts or interferes with, a right referred to in subsection (4), only if the person who enjoys the right consents.
+
+(6) Subsection (5) does not apply in relation to the exercise of such a right in relation to—
+
+(a) a site of special scientific interest, within the meaning of Part 2 of the Wildlife and Countryside Act 1981,
+
+(b) a national nature reserve declared in accordance with section 35 of that Act,
+
+(c) a Ramsar site, within the meaning of section 37A of that Act,
+
+(d) a European marine site, within the meaning of the Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012), or
+
+(e) an MCZ.
+
+(7) See also section 134C (supplementary).
+
+##### 134B Orders relating to exploitation of sea fisheries resources: Welsh offshore region
+
+(1) The Welsh Ministers may make one or more orders relating to the exploitation of sea fisheries resources in the Welsh offshore region for the purposes of conserving—
+
+(a) marine flora or fauna,
+
+(b) marine habitats or types of marine habitat, or
+
+(c) features of geological or geomorphological interest.
+
+(2) An order under this section may be made so as to apply to any area in the Welsh offshore region.
+
+(3) An order under this section must specify the flora or fauna, habitat or type of habitat or features for the conservation of which it is made.
+
+(4) See also section 134C (supplementary).
+
+##### 134C Orders under sections 134A and 134B: supplementary
+
+(1) The provision that may be made by an order under section 134A or 134B includes, in particular, provision falling within any of the Heads set out in subsections (2) to (4).
+
+(2) Head 1 is provision prohibiting or restricting the exploitation of sea fisheries resources, including—
+
+(a) provision prohibiting or restricting such exploitation in specified areas or during specified periods;
+
+(b) provision limiting the amount of sea fisheries resources a person or vessel may take in a specified period;
+
+(c) provision limiting the amount of time a person or vessel may spend fishing for or taking sea fisheries resources in a specified period.
+
+(3) Head 2 is provision prohibiting or restricting the exploitation of sea fisheries resources without a permit issued by the Welsh Ministers, including—
+
+(a) provision for the charging of fees for permits;
+
+(b) provision enabling conditions to be attached to a permit;
+
+(c) provision enabling the Welsh Ministers to limit the number of permits issued by them.
+
+(4) Head 3 is—
+
+(a) provision prohibiting or restricting the use of vessels of specified descriptions;
+
+(b) provision prohibiting or restricting any method of exploiting sea fisheries resources;
+
+(c) provision prohibiting or restricting the possession, use, retention on board, storage or transportation of specified items, or items of a specified description, that are used in the exploitation of sea fisheries resources;
+
+(d) provision for determining whether such items are items of a specified description.
+
+(5) An order under section 134A or 134B may be made—
+
+(a) subject to specified exceptions or conditions;
+
+(b) so as to cease to have effect after a specified period.
+
+(6) An order under section 134A or 134B may make different provision for different cases, including in particular—
+
+(a) different times of the year,
+
+(b) different means or methods of carrying out an activity, and
+
+(c) different descriptions of sea fisheries resources.
+
+(7) In this section “specified” means specified in the order.]
+
+##### 135 Consultation etc regarding orders under section 134 [[^F126], 134A or 134B]
+
+(1) Before making an order under section 134 [[^F127]or 134A], the Welsh Ministers must consult—
+
+(a) the Secretary of State, and
+
+(b) any other person whom they think fit to consult.
+
+[[^F128](1A) Before making an order under section 134B the Welsh Ministers must—
+
+(a) consult the Secretary of State,
+
+(b) if the order would or might affect the exploitation of sea fisheries resources in the English offshore region, consult the MMO,
+
+(c) if the order would or might affect the exploitation of sea fisheries resources in the Scottish offshore region, consult the Scottish Ministers,
+
+(d) if the order would or might affect the exploitation of sea fisheries resources in the Northern Ireland offshore region, consult the Department of Agriculture, Environment and Rural Affairs in Northern Ireland, and
+
+(e) consult any other person whom they think fit to consult.]
+
+(2) The Welsh Ministers must publish notice of the making of an order under section 134 [[^F129], 134A or 134B].
+
+(3) The notice under subsection (2) must—
+
+(a) be published in such manner as the Welsh Ministers think is most likely to bring the order to the attention of any persons who are likely to be affected by the making of it;
+
+(b) give an address at which a copy of the order may be inspected.
+
+(4) Where the Welsh Ministers think that there is an urgent need to make an order under section 134 [[^F130], 134A or 134B]—
+
+[[^F131](a) subsections (1) and (1A) do not apply in relation to the making of that order, and]
+
+(b) the notice under subsection (2) must also state that any person affected by the making of the order may make representations to the Welsh Ministers.
+
+##### 136 Interim orders
+
+(1) The Welsh Ministers may make one or more orders for the purpose of protecting any feature in an area in Wales if they think—
+
+(a) that there are or may be reasons to consider whether to designate the area as an MCZ, and
+
+(b) that there is an urgent need to protect the feature.
+
+[[^F132](1A) The Welsh Ministers may make one or more orders relating to the exploitation of sea fisheries resources in the Welsh offshore region for the purpose of protecting any feature in an area in that region if they think—
+
+(a) that there are or may be reasons to consider whether to designate the area as an MCZ, and
+
+(b) that there is an urgent need to protect the feature.]
+
+(2) In this Chapter “interim order” means an order under subsection (1) [[^F133]or (1A)].
+
+(3) An interim order must contain a description of the boundaries of the area to which it applies (which must be no greater than is necessary for the purpose of protecting the feature in question).
+
+(4) Subsections (2) to (5) of section 134 apply to [[^F134]an order made under subsection (1)] as they apply to an order under that section, except that any reference to an MCZ is to be read as a reference to the area to which the interim order applies.
+
+[[^F135](4A) Section 134C applies to an order made under subsection (1A) as it applies to an order made under section 134A or 134B.]
+
+(5) An interim order—
+
+(a) comes into force on a date specified in the order, and
+
+(b) remains in force (unless revoked) for such period, not exceeding 12 months, as is specified in the order.
+
+(6) The Welsh Ministers must publish notice of the making of an interim order.
+
+(7) The notice under subsection (6) must—
+
+(a) be published in such manner as the Welsh Ministers think is most likely to bring the order to the attention of any persons who are likely to be affected by the making of it;
+
+(b) give an address at which a copy of the order may be inspected;
+
+(c) state that any person affected by the making of the order may make representations to the Welsh Ministers.
+
+(8) The Welsh Ministers must keep under review the need for an interim order to remain in force.
+
+(9) The Welsh Ministers may by further order extend the period for which an interim order remains in force.
+
+(10) In this section “feature” means any flora, fauna, habitat or feature which could be a protected feature if the area in question were designated as an MCZ.
+
+##### 137 Further provision as to orders made under section 134 [[^F136]134A, 134B] or 136
+
+(1) This section applies to any order made under section 134 [[^F137], 134A, 134B or 136(1) or (1A)].
+
+(2) The Welsh Ministers must send a copy of any order to which this section applies to the Secretary of State [[^F138]and (in the case of an order under section 134B) to any person consulted under section 135(1A)].
+
+(3) The Welsh Ministers must—
+
+(a) make a copy of any order to which this section applies available for inspection at such place as they think fit for that purpose at all reasonable hours without payment;
+
+(b) provide a copy of any such order to any person who requests one.
+
+(4) Subject to subsection (5), an order to which this section applies may make such provision amending, modifying or excluding any statutory provision of local application which has effect in the area to which the order relates as the Welsh Ministers think is necessary or expedient in consequence of the order.
+
+(5) An order to which this section applies may not amend, modify or exclude any statutory provision of local application which was made by the Secretary of State unless the Secretary of State consents.
+
+(6) An order to which this section applies may be amended or revoked by a further order.
+
+(7) In this section “statutory provision” means—
+
+(a) provision of an Act of Parliament, or
+
+(b) provision of an instrument made under an Act of Parliament.
+
+#### [[^F139]Orders for marine conservation: Scottish offshore region
+
+##### 137A Orders relating to exploitation of sea fisheries resources: Scottish offshore region
+
+(1) The Scottish Ministers may make one or more orders relating to the exploitation of sea fisheries resources in the Scottish offshore region for the purposes of conserving—
+
+(a) marine flora or fauna,
+
+(b) marine habitats or types of marine habitat, or
+
+(c) features of geological or geomorphological interest.
+
+(2) An order under this section may be made so as to apply to any area in the Scottish offshore region.
+
+(3) An order under this section must specify the flora or fauna, habitat or type of habitat or features for the conservation of which it is made.
+
+(4) The provision that may be made by an order under this section includes, in particular, provision falling within any of the Heads set out in subsections (5) to (7).
+
+(5) Head 1 is provision prohibiting or restricting the exploitation of sea fisheries resources, including—
+
+(a) provision prohibiting or restricting such exploitation in specified areas or during specified periods;
+
+(b) provision limiting the amount of sea fisheries resources a person or vessel may take in a specified period;
+
+(c) provision limiting the amount of time a person or vessel may spend fishing for or taking sea fisheries resources in a specified period.
+
+(6) Head 2 is provision prohibiting or restricting the exploitation of sea fisheries resources without a permit issued by the Scottish Ministers, including—
+
+(a) provision for the charging of fees for permits;
+
+(b) provision enabling conditions to be attached to a permit;
+
+(c) provision enabling the Scottish Ministers to limit the number of permits issued by it.
+
+(7) Head 3 is—
+
+(a) provision prohibiting or restricting the use of vessels of specified descriptions;
+
+(b) provision prohibiting or restricting any method of exploiting sea fisheries resources;
+
+(c) provision prohibiting or restricting the possession, use, retention on board, storage or transportation of specified items, or items of a specified description, that are used in the exploitation of sea fisheries resources;
+
+(d) provision for determining whether such items are items of a specified description.
+
+(8) An order under this section may be made—
+
+(a) subject to specified exceptions or conditions;
+
+(b) so as to cease to have effect after a specified period.
+
+(9) An order under this section may make different provision for different cases, including in particular—
+
+(a) different times of the year,
+
+(b) different means or methods of carrying out an activity, and
+
+(c) different descriptions of sea fisheries resources.
+
+(10) In this section “specified” means specified in the order.
+
+(11) An order under this section that contains provision for the charging of fees for permits (including provision changing the level of fees) is subject to the affirmative procedure (see Part 2 of the Interpretation and Legislative Reform (Scotland) Act 2010) (asp 10)).
+
+(12) Any other order under this section is subject to the negative procedure (see that Part of that Act).
+
+##### 137B Consultation etc regarding orders under section 137A
+
+(1) Before making an order under section 137A the Scottish Ministers must—
+
+(a) consult the Secretary of State,
+
+(b) if the order would or might affect the exploitation of sea fisheries resources in the English offshore region, consult the MMO,
+
+(c) if the order would or might affect the exploitation of sea fisheries resources in the Welsh offshore region, consult the Welsh Ministers,
+
+(d) if the order would or might affect the exploitation of sea fisheries resources in the Northern Ireland offshore region, consult the Department of Agriculture, Environment and Rural Affairs in Northern Ireland, and
+
+(e) consult any other person whom they think fit to consult.
+
+(2) The Scottish Ministers must publish notice of the making of an order under section 137A.
+
+(3) The notice under subsection (2) must—
+
+(a) be published in such manner as the Scottish Ministers think is most likely to bring the order to the attention of any persons who are likely to be affected by the making of it;
+
+(b) give an address at which a copy of the order may be inspected.
+
+(4) Where the Scottish Ministers think that there is an urgent need to make an order under section 137A to protect the Scottish offshore region—
+
+(a) subsection (1) does not apply, and
+
+(b) the notice under subsection (2) must also state that any person affected by the making of the order may make representations to the Scottish Ministers.
+
+(5) Where in reliance on subsection (4)(a) the Scottish Ministers do not comply with subsection (1) before making an order under section 137A, that order—
+
+(a) comes into force on a date specified in the order, and
+
+(b) remains in force (unless revoked) for such period, not exceeding 12 months, as is specified in the order.
+
+(6) The Scottish Ministers may by further order extend the period for which an order to which subsection (5) applies is in force for a period not exceeding 12 months.
+
+##### 137C Interim orders made by Scottish Ministers
+
+(1) The Scottish Ministers may make one or more orders relating to the exploitation of sea fisheries resources in the Scottish offshore region for the purpose of protecting any feature in any area in that region if they think—
+
+(a) that there are or may be reasons to consider whether to designate the area as an MCZ, and
+
+(b) that there is an urgent need to protect the feature.
+
+(2) An interim order under this section must contain a description of the boundaries of the area to which it applies (which must be no greater than is necessary for the purpose of protecting the feature in question).
+
+(3) Subsections (4) to (10) of section 137A apply to an interim order under this section.
+
+(4) An interim order under this section—
+
+(a) comes into force on a date specified in the order, and
+
+(b) remains in force (unless revoked) for such period, not exceeding 12 months, as is specified in the order.
+
+(5) The Scottish Ministers must publish notice of the making of an interim order under this section.
+
+(6) The notice under subsection (5) must—
+
+(a) be published in such manner as the Scottish Ministers think is most likely to bring the order to the attention of any persons who are likely to be affected by the making of it;
+
+(b) give an address at which a copy of the order may be inspected;
+
+(c) state that any person affected by the making of the order may make representations to the Scottish Ministers.
+
+(7) The Scottish Ministers must keep under review the need for an interim order under this section to remain in force.
+
+(8) The Scottish Ministers may by further order extend the period for which an interim order remains in force.
+
+(9) In this section “feature” means any flora, fauna, habitat or feature which could be a protected feature if the area in question were designated as an MCZ.
+
+(10) An order under this section is subject to the negative procedure (see Part 2 of the Interpretation and Legislative Reform (Scotland) Act 2010) (asp 10)).
+
+##### 137D Further provision as to orders made under section 137A or 137C
+
+(1) This section applies to any order made under section 137A or 137C.
+
+(2) The Scottish Ministers must send a copy of any order to which this section applies to the Secretary of State and to any person consulted under section 137B(2).
+
+(3) The Scottish Ministers must—
+
+(a) make a copy of any order to which this section applies available for inspection at such place as they think fit for that purpose at all reasonable hours without payment;
+
+(b) provide a copy of any such order to any person who requests one.
+
+(4) An order to which this section applies may be amended or revoked by a further order.
+
+#### Orders for marine conservation: Northern Ireland offshore region
+
+##### 137E Orders relating to exploitation of sea fisheries resources: Northern Ireland offshore region
+
+(1) The Department may make one or more orders relating to the exploitation of sea fisheries resources in the Northern Ireland offshore region for the purposes of conserving—
+
+(a) marine flora or fauna,
+
+(b) marine habitats or types of marine habitat, or
+
+(c) features of geological or geomorphological interest.
+
+(2) An order under this section may be made so as to apply to any area in the Northern Ireland offshore region.
+
+(3) An order under this section must specify the flora or fauna, habitat or type of habitat or features for the conservation of which it is made.
+
+(4) The provision that may be made by an order under this section includes, in particular, provision falling within any of the Heads set out in subsections (5) to (7).
+
+(5) Head 1 is provision prohibiting or restricting the exploitation of sea fisheries resources, including—
+
+(a) provision prohibiting or restricting such exploitation in specified areas or during specified periods;
+
+(b) provision limiting the amount of sea fisheries resources a person or vessel may take in a specified period;
+
+(c) provision limiting the amount of time a person or vessel may spend fishing for or taking sea fisheries resources in a specified period.
+
+(6) Head 2 is provision prohibiting or restricting the exploitation of sea fisheries resources without a permit issued by the Department, including—
+
+(a) provision for the charging of fees for permits;
+
+(b) provision enabling conditions to be attached to a permit;
+
+(c) provision enabling the Department to limit the number of permits issued by it.
+
+(7) Head 3 is—
+
+(a) provision prohibiting or restricting the use of vessels of specified descriptions;
+
+(b) provision prohibiting or restricting any method of exploiting sea fisheries resources;
+
+(c) provision prohibiting or restricting the possession, use, retention on board, storage or transportation of specified items, or items of a specified description, that are used in the exploitation of sea fisheries resources;
+
+(d) provision for determining whether such items are items of a specified description.
+
+(8) An order under this section may be made—
+
+(a) subject to specified exceptions or conditions;
+
+(b) so as to cease to have effect after a specified period.
+
+(9) An order under this section may make different provision for different cases, including in particular—
+
+(a) different times of the year,
+
+(b) different means or methods of carrying out an activity, and
+
+(c) different descriptions of sea fisheries resources.
+
+(10) In this section “specified” means specified in the order.
+
+(11) In this section, and in sections 137F to 137H, “the Department” means the Department of Agriculture, Environment and Rural Affairs in Northern Ireland.
+
+##### 137F Consultation etc regarding orders under section 137E
+
+(1) Before making an order under section 137E the Department must—
+
+(a) consult the Secretary of State,
+
+(b) if the order would or might affect the exploitation of sea fisheries resources in the English offshore region, consult the MMO,
+
+(c) if the order would or might affect the exploitation of sea fisheries resources in the Scottish offshore region, consult the Scottish Ministers,
+
+(d) if the order would or might affect the exploitation of sea fisheries resources in the Welsh offshore region, consult the Welsh Ministers, and
+
+(e) consult any other person whom they think fit to consult.
+
+(2) The Department must publish notice of the making of an order under section 137E.
+
+(3) The notice under subsection (2) must—
+
+(a) be published in such manner as the Department think is most likely to bring the order to the attention of any persons who are likely to be affected by the making of it;
+
+(b) give an address at which a copy of the order may be inspected.
+
+(4) Where the Department think that there is an urgent need to make an order under section 137E to protect the Northern Ireland offshore region—
+
+(a) subsection (1) does not apply,
+
+(b) the notice under subsection (2) must also state that any person affected by the making of the order may make representations to the Department.
+
+(5) Where in reliance on subsection (4)(a) the Department does not comply with subsection (1) before making an order under section 137A, that order—
+
+(a) comes into force on a date specified in the order, and
+
+(b) remains in force (unless revoked) for such period, not exceeding 12 months, as is specified in the order.
+
+(6) The Department may by further order extend the period for which an order to which subsection (5) applies is in force for a period not exceeding 6 months.
+
+##### 137G Interim orders made by the Department
+
+(1) The Department may make one or more orders relating to the exploitation of sea fisheries resources in the Northern Ireland offshore region for the purpose of protecting any feature in any area in that region if the Department thinks—
+
+(a) that the appropriate authority should consider whether to designate the area as an MCZ, and
+
+(b) that there is an urgent need to protect the feature.
+
+(2) An interim order under this section must contain a description of the boundaries of the area to which it applies (which must be no greater than is necessary for the purpose of protecting the feature in question).
+
+(3) Subsections (4) to (10) of section 137E apply to an interim order under this section.
+
+(4) An interim order under this section—
+
+(a) comes into force on a date specified in the order, and
+
+(b) remains in force (unless revoked) for such period, not exceeding 12 months, as is specified in the order.
+
+(5) The Department may by further order extend the period for which the interim order is in force for a period not exceeding 6 months.
+
+(6) The Department must publish notice of the making of an interim order under this section.
+
+(7) The notice under subsection (6) must—
+
+(a) be published in such manner as the Department think is most likely to bring the order to the attention of any persons who are likely to be affected by the making of it;
+
+(b) give an address at which a copy of the order may be inspected;
+
+(c) state that any person affected by the making of the order may make representations to the Department.
+
+(8) The Department must keep under review the need for an interim order under this section to remain in force.
+
+(9) In this section “feature” means any flora, fauna, habitat or feature which could be a protected feature if the area in question were designated as an MCZ.
+
+##### 137H Further provision as to orders made under section 137E or 137G
+
+(1) This section applies to any order made under section 137E or 137G.
+
+(2) The Department must send a copy of any order to which this section applies to the Secretary of State and to any person consulted under section 137F(2).
+
+(3) The Department must—
+
+(a) make a copy of any order to which this section applies available for inspection at such place as the Department thinks fit for that purpose at all reasonable hours without payment;
+
+(b) provide a copy of any such order to any person who requests one.]
+
+#### Hearings
+
+##### 138 Hearings [^F140]...
+
+(1) This section applies where the Secretary of State has the function of—
+
+(a) deciding (under section 130(8)) whether to confirm a byelaw made under [[^F141]this Chapter];
+
+(b) deciding (under section 131(5)) whether to revoke an emergency byelaw;
+
+(c) deciding (under section 132(8)) whether to revoke an interim byelaw.
+
+(2) This section also applies where the Welsh Ministers have the function of—
+
+(a) deciding whether to make an order under section 134 [[^F142], 134A or 134B];
+
+(b) deciding whether to make an interim order under section 136(1) [[^F143]or (1A)].
+
+[[^F144](2A) This section also applies where the Scottish Ministers have the function of—
+
+(a) deciding whether to make an order under section 137A;
+
+(b) deciding whether to make an order under section 137C.
+
+(2B) This section also applies where the Department of Agriculture, Environment and Rural Affairs in Northern Ireland has the function of —
+
+(a) deciding whether to make an order under section 137E;
+
+(b) deciding whether to make an order under section 137G.]
+
+(3) The Secretary of State or (as the case may be) the Welsh Ministers [[^F145], the Scottish Ministers or the Department of Agriculture, Environment and Rural Affairs in Northern Ireland] may, before making that decision, give to any person the opportunity of—
+
+(a) appearing before and being heard by a person appointed for that purpose;
+
+(b) providing written representations to such a person.
+
+(4) The Secretary of State or (as the case may be) the Welsh Ministers [[^F146], the Scottish Ministers or the Department of Agriculture, Environment and Rural Affairs in Northern Ireland] may make regulations providing for the procedure to be followed (including decisions as to costs) at hearings held under subsection (3).
+
+(5) A person appointed under subsection (3) must make a report to the Secretary of State or (as the case may be) the Welsh Ministers [[^F147], the Scottish Ministers or the Department of Agriculture, Environment and Rural Affairs in Northern Ireland] of any oral or written representations made under that subsection.
+
+#### Offences
+
+##### 139 Offence of contravening byelaws or orders
+
+(1) It is an offence for a person to contravene—
+
+(a) any byelaw made under section 129 [[^F148], 129A, 129B or 132(1) or (1A)];
+
+(b) any order made under section 134 [[^F149], 134A, 134B, 136(1) or (1A), 137A, 137C, 137E or 137G].
+
+[[^F150](2) A person who is guilty of an offence under this section in respect of a contravention of—
+
+(a) a byelaw made under section 129 or 129A,
+
+(b) a byelaw made under section 132(1),
+
+(c) an order made under section 134 or 134A, or
+
+(d) an order made under section 136(1),
+
+is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+(2A) A person who is guilty of an offence under this section in respect of a contravention of a byelaw or order not specified in subsection (2) is liable—
+
+(a) on conviction on indictment, to a fine, or
+
+(b) on summary conviction, to a fine (in Scotland or Northern Ireland, not exceeding the statutory maximum).]
+
+(3) In this section “contravene” includes fail to comply.
+
+(4) Proceedings for an offence under this section may be taken, and the offence may for all incidental purposes be treated as having been committed, in any part of [[^F151]the United Kingdom].
+
+##### 140 Offence of damaging etc protected features of MCZs
+
+(1) A person is guilty of an offence under this section if—
+
+(a) the person without lawful excuse does a prohibited act,
+
+(b) at the time of doing that act, the person knows, or ought to have known, that the feature to which the act relates is in, or forms part of, an MCZ, and
+
+(c) the act has significantly hindered, or may significantly hinder, the achievement of the conservation objectives stated for the MCZ.
+
+(2) For the purposes of subsection (1), a person does a prohibited act if the person—
+
+(a) intentionally or recklessly kills or injures any animal in an MCZ which is a protected feature of that MCZ,
+
+(b) intentionally picks or collects, or intentionally or recklessly cuts, uproots or destroys, any plant in an MCZ which is a protected feature of that MCZ,
+
+(c) intentionally or recklessly takes anything from an MCZ which is, or forms part of, a protected feature of that MCZ, or
+
+(d) intentionally or recklessly destroys or damages any habitat or feature which is a protected feature of an MCZ.
+
+(3) For the purposes of determining whether anything done by a person in relation to a protected feature is a prohibited act for the purposes of subsection (1), it is immaterial whether the person knew, or ought to have known, that the feature was a protected feature.
+
+(4) A person who is guilty of an offence under this section is liable—
+
+(a) on summary conviction, to [^F152]a fine not exceeding £50,000[[^F152]a fine];
+
+(b) on conviction on indictment, to a fine.
+
+(5) In determining the amount of any fine to be imposed on a person convicted of an offence under this section, the court must in particular have regard to any financial benefit which has accrued or appears likely to accrue to the person in consequence of the offence.
+
+(6) Proceedings for an offence under this section may be taken, and the offence may for all incidental purposes be treated as having been committed, in any part of the United Kingdom.
+
+##### 141 Exceptions to offences under section 139 or 140
+
+(1) A person is not guilty of an offence under section 139 or 140 if the act which is alleged to constitute the offence—
+
+(a) was done in accordance with section 125(2) by a public authority;
+
+[[^F153](aa) was done by a public authority exercising functions under or by virtue of Part 3 of the Planning and Infrastructure Act 2025 (development and nature recovery);]
+
+(b) was expressly authorised by an authorisation granted in accordance with section 126, or was necessarily incidental to such an act;
+
+(c) was done in accordance with—
+
+(i) a permit issued under section 129(5) [[^F154]129C(3), 134(4), 134C(3), 137A(6) or 137E(6)], or
+
+(ii) a permit issued by the appropriate authority;
+
+(d) was necessary in the interests of national security or the prevention or detection of crime, or was necessary for securing public health;
+
+(e) was necessary for the purpose of securing the safety of any vessel, aircraft or marine installation;
+
+(f) was done for the purpose of saving life.
+
+(2) Subsection (1)(e) does not apply where the necessity was due to the fault of the person or of some other person acting under the person's direction or control.
+
+(3) A person is not guilty of an offence under section 139 by reason of doing anything that is an offence under section 140.
+
+(4) It is a defence for a person who is charged with an offence under section 140 to show that—
+
+(a) the act which is alleged to constitute the offence was—
+
+(i) an act done for the purpose of, and in the course of, sea fishing, or
+
+(ii) an act done in connection with such an act,
+
+and
+
+(b) the effect of the act on the protected feature in question could not reasonably have been avoided.
+
+(5) The Secretary of State may by order amend this section so as to remove, or restrict the application of, the defence provided by subsection (4).
+
+[^F155]6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7) In this section—
+
+- “act” includes omission;
+- [^F156]...
+
+#### Fixed monetary penalties
+
+##### 142 Fixed monetary penalties
+
+(1) The appropriate authority for any area [^F157]... may by order make provision to confer on any enforcement authority for that area the power by notice to impose a fixed monetary penalty on a person in relation to an offence under section 139.
+
+(2) Provision under this section may only confer such a power in relation to a case where the enforcement authority is satisfied beyond reasonable doubt that the person has committed the offence.
+
+(3) For the purposes of this Chapter a “fixed monetary penalty” is a requirement to pay to the enforcement authority a penalty of a prescribed amount.
+
+(4) The amount of the fixed monetary penalty that may be imposed in relation to an offence may not exceed level 1 on the standard scale.
+
+(5) In this section “prescribed” means prescribed in an order made under this section.
+
+##### 143 Fixed monetary penalties: procedure
+
+(1) Provision under section 142 must secure the results in subsection (2).
+
+(2) Those results are that—
+
+(a) where the enforcement authority proposes to impose a fixed monetary penalty on a person, the authority must serve on that person a notice of what is proposed (a “notice of intent”) which complies with subsection (3),
+
+(b) the notice of intent also offers the person the opportunity to discharge the person's liability for the fixed monetary penalty by payment of a prescribed sum (which must be less than or equal to the amount of the penalty),
+
+(c) if the person does not so discharge liability—
+
+(i) the person may make written representations and objections to the enforcement authority in relation to the proposed imposition of the fixed monetary penalty, and
+
+(ii) the enforcement authority must at the end of the period for making representations and objections decide whether to impose the fixed monetary penalty,
+
+(d) where the enforcement authority decides to impose the fixed monetary penalty, the notice imposing it (“the final notice”) complies with subsection (5), and
+
+(e) the person on whom a fixed monetary penalty is imposed may appeal against the decision to impose it.
+
+(3) To comply with this subsection the notice of intent must include information as to—
+
+(a) the grounds for the proposal to impose the fixed monetary penalty,
+
+(b) the effect of payment of the sum referred to in subsection (2)(b),
+
+(c) the right to make representations and objections,
+
+(d) the circumstances in which the enforcement authority may not impose the fixed monetary penalty,
+
+(e) the period within which liability to the fixed monetary penalty may be discharged, which must not exceed the period of 28 days beginning with the day on which the notice of intent is received, and
+
+(f) the period within which representations and objections may be made, which must not exceed the period of 28 days beginning with the day on which the notice of intent is received.
+
+(4) Provision pursuant to subsection (2)(c)(ii)—
+
+(a) must secure that the enforcement authority may not decide to impose a fixed monetary penalty on a person where the authority is satisfied that the person would not, by reason of any defence, be liable to be convicted of the offence in relation to which the penalty is proposed to be imposed, and
+
+(b) may include provision for other circumstances in which the enforcement authority may not decide to impose a fixed monetary penalty.
+
+(5) To comply with this subsection the final notice referred to in subsection (2)(d) must include information as to—
+
+(a) the grounds for imposing the penalty,
+
+(b) how payment may be made,
+
+(c) the period within which payment must be made,
+
+(d) any early payment discounts or late payment penalties,
+
+(e) rights of appeal, and
+
+(f) the consequences of non-payment.
+
+(6) Provision pursuant to subsection (2)(e) must secure that the grounds on which a person may appeal against a decision of the enforcement authority include the following—
+
+(a) that the decision was based on an error of fact;
+
+(b) that the decision was wrong in law;
+
+(c) that the decision was unreasonable.
+
+(7) In this section “prescribed” means prescribed in an order made under section 142.
+
+##### 144 Further provision about fixed monetary penalties
+
+Schedule 10 (which makes further provision about fixed monetary penalties) has effect.
+
+#### Miscellaneous and supplemental
+
+##### 145 Application to the Crown
+
+(1) This Chapter is binding on the Crown and applies in relation to any Crown land as it applies in relation to any other land.
+
+This is subject to subsection (2).
+
+(2) No contravention by the Crown of any provision of this Chapter is to make the Crown criminally liable; but the High Court or, in Scotland, the Court of Session may, on the application of the appropriate authority or any other authority charged with enforcing that provision, declare unlawful any act or omission of the Crown which constitutes such a contravention.
+
+(3) Despite subsection (2), the provisions of this Chapter apply to persons in the public service of the Crown as they apply to other persons.
+
+(4) For the purposes of this section “Crown land” means land an interest in which—
+
+(a) belongs to Her Majesty in right of the Crown or in right of Her private estates,
+
+(b) belongs to Her Majesty in right of the Duchy of Lancaster,
+
+(c) belongs to the Duchy of Cornwall, or
+
+(d) belongs to a government department or is held in trust for Her Majesty for the purposes of a government department.
+
+(5) In this section references to Her Majesty's private estates are to be construed in accordance with section 1 of the Crown Private Estates Act 1862 (c. 37).
+
+##### 146 Consequential and transitional provision
+
+(1) Schedule 11 (which makes consequential amendments) has effect.
+
+(2) Schedule 12 (which makes transitional provision) has effect.
+
+##### 147 Interpretation of this Chapter
+
+(1) In this Chapter—
+
+- “animal” includes any egg, larva, pupa, or other immature stage of an animal;
+
+- “appropriate authority” has the meaning given by section 116(5);
+
+- “the appropriate statutory conservation body” means—
+
+  - (a) in respect of an area in England, Natural England,
+  - (b) in respect of an area in Wales, [[^F158]the Natural Resources Body for Wales],
+  - (c) in respect of an area outside the seaward limits of the territorial sea, the Joint Nature Conservation Committee;
+
+- “emergency byelaw” has the meaning given by section 131;
+
+- “enforcement authority” means, in relation to any area, any authority which has a function (whether or not statutory) of taking any action with a view to or in connection with the imposition of any sanction, criminal or otherwise, in a case where an offence under this Chapter is committed in that area;
+
+- “England” includes the English inshore region;
+
+- “interim byelaw” means a byelaw made under section 132(1) [[^F159]or (1A)];
+
+- “interim order” means an order made under section 136(1) [[^F160]or (1A)];
+
+- “marine installation” means any artificial island, installation or structure;
+
+- “MCZ” means a marine conservation zone designated by an order under section 116;
+
+- “protected feature”, in relation to an MCZ or proposed MCZ, means any flora, fauna, habitat or feature which is sought to be conserved by the making of the order designating the zone;
+
+- “sea” has the meaning given by section 322(1), except that it does not include any waters upstream of the fresh-water limit of estuarial waters;
+
+- [[^F161]“sea fisheries resources” has the same meaning as in Chapter 1 of Part 6, and references to the exploitation of sea fisheries resources are to be read in accordance with section 153(12);]
+
+- “seashore” means—
+
+  - (a) the foreshore, that is to say, land which is covered and uncovered by the ordinary movement of the tide, and
+  - (b) any land, whether or not covered intermittently by water, which is in apparent continuity (determined by reference to the physical characteristics of that land) with the foreshore, as far landward as any natural or artificial break in that continuity;
+
+- “vehicles” includes—
+
+  - (a) bicycles and other non-motorised forms of transport, and
+  - (b) hovercraft;
+
+- “vessels” includes—
+
+  - (a) hovercraft,
+  - (b) aircraft capable of landing on water, and
+  - (c) any other craft capable of travelling on, in or under water, whether or not capable of carrying any person;
+
+- “Wales” includes the Welsh inshore region.
+
+(2) In the definition of “sea” in subsection (1) “estuarial waters” means any waters within the limits of transitional waters, within the meaning of the Water Framework Directive (that is to say, Directive 2000/60/EC of the European Parliament and of the Council of 23 October 2000 establishing a framework for Community action in the field of water policy).
+
+[[^F162](3) For provision about the meaning of references to “conserving” a thing, see subsections (4) to (6) of section 117.]
+
+### Chapter 2 — Other conservation sites
+
+#### 148 Marine boundaries of SSSIs and national nature reserves
+
+Schedule 13 (which amends the Wildlife and Countryside Act 1981 (c. 69) in relation to sites of special scientific interest and national nature reserves) has effect.
+
+## Part 6 — Management of inshore fisheries
+
+### Chapter 1 — Inshore fisheries and conservation authorities
+
+#### Inshore fisheries and conservation districts and authorities
+
+##### 149 Establishment of inshore fisheries and conservation districts
+
+(1) The Secretary of State may by order establish inshore fisheries and conservation districts.
+
+(2) An inshore fisheries and conservation district (an “IFC district”) is an area that consists of—
+
+(a) one or more local authority areas in England that include part of the seashore, and
+
+(b) such part of the English inshore region lying seawards from that part of the seashore as is specified in the order establishing the district.
+
+(3) Before making an order establishing an IFC district the Secretary of State must consult—
+
+(a) the council for every local authority area that would, if the order were made, fall within the IFC district established by the order,
+
+(b) the Environment Agency,
+
+(c) Natural England,
+
+(d) the MMO,
+
+(e) the authority for any existing IFC district that would, if the order were made, adjoin the IFC district established by the order,
+
+(f) the Welsh Ministers, in a case where, if the order were made, the IFC district established by the order would adjoin the Welsh inshore region,
+
+[[^F163](g) the Natural Resources Body for Wales, in a case where, if the order were made, the IFC district established by the order would adjoin the Welsh inshore region,]
+
+and any other person likely to be affected by the making of the order.
+
+##### 150 Inshore fisheries and conservation authorities
+
+(1) There is to be an inshore fisheries and conservation authority (an “IFC authority”) for every IFC district established under section 149.
+
+(2) Any reference in this Chapter to the authority for an IFC district is a reference to the IFC authority for that district.
+
+(3) An authority for an IFC district is—
+
+(a) a committee of the council for the local authority area falling within the district;
+
+(b) where there is more than one local authority area falling within the district, a joint committee of the councils for those local authority areas.
+
+##### 151 Membership and proceedings of IFC authorities
+
+(1) An order under section 149 establishing an IFC district must provide for the IFC authority for the district to consist of—
+
+(a) persons who are members of a relevant council,
+
+(b) persons appointed by the MMO, and
+
+(c) other persons.
+
+(2) The persons appointed as members of the authority for the district by virtue of subsection (1)(b) must comprise—
+
+(a) persons acquainted with the needs and opinions of the fishing community of the district, and
+
+(b) persons with knowledge of, or expertise in, marine environmental matters.
+
+(3) The Secretary of State may by order amend subsection (2) so as to—
+
+(a) add descriptions of persons who may be appointed by virtue of subsection (1)(b) as members of an IFC authority;
+
+(b) vary or remove any descriptions added by virtue of paragraph (a).
+
+An order under this subsection may make such other amendments of this section as appear to the Secretary of State to be necessary in consequence of the order.
+
+(4) An order under section 149 establishing an IFC district must specify the number of members of the authority for the district.
+
+(5) The order must also specify—
+
+(a) the number of members falling within paragraph (a), and the number of members falling within paragraph (b), of subsection (1);
+
+(b) in a case where there is more than one relevant council for the IFC district established by the order, the number of members to be appointed from each council (which may, in the case of any particular council, be none);
+
+(c) the number of members falling within paragraph (c) of subsection (1) and the person or persons by whom they are to be appointed.
+
+(6) An order under section 149 establishing an IFC district may also include provision about—
+
+(a) how a member of the authority for the district is to be appointed;
+
+(b) qualification and disqualification for membership of the authority;
+
+(c) the conduct of members of the authority;
+
+(d) the appointment of a member of the authority as the chair of the authority;
+
+(e) the holding and vacation of office as a member, or as chair, of the authority (including the circumstances in which a person ceases to hold office or may be removed or suspended from office);
+
+(f) re-appointment as a member, or as chair, of the authority;
+
+(g) the validity of acts and proceedings of a person appointed as a member of the authority in the event of disqualification or lack of qualification;
+
+(h) the validity of proceedings of the authority in the event of a vacancy in membership or of a defect in the appointment of a member;
+
+(i) procedure to be followed by the authority;
+
+(j) the delegation by the authority of any of its functions to a sub-committee, member or employee of the authority;
+
+(k) the payment by the authority of allowances to a member and the reimbursement by it of a member's expenses.
+
+(7) The following provisions (which make provision about proceedings of local authority committees and joint committees) have effect in relation to the authority for an IFC district subject to provision made by the order establishing the district—
+
+(a) sections 100A to 100D, 104 and 106 of, and paragraphs 39 to 43 of Schedule 12 to, the Local Government Act 1972 (c. 70);
+
+(b) section 13 of the Local Government and Housing Act 1989 (c. 42);
+
+(c) Chapter 1 of Part 3 of the Local Government Act 2000 (c. 22).
+
+(8) In this section—
+
+- “the fishing community” means all persons with any sort of interest in the exploitation of sea fisheries resources or in fisheries for such resources;
+
+- “marine environmental matters” means—
+
+  - (a) the conservation or enhancement of the natural beauty or amenity of marine or coastal areas (including their geological or physiographical features) or of any features of archaeological or historic interest in such areas, or
+  - (b) the conservation of flora or fauna which are dependent on, or associated with, a marine or coastal environment.
+
+(9) Until the date of the coming into force of section 1, the reference in subsection (1)(b) to the MMO is to be read as a reference to the Secretary of State.
+
+Any person appointed by the Secretary of State as a member of an IFC authority is, on and after that date, to be treated as if appointed by the MMO.
+
+##### 152 Amendment or revocation of orders under section 149
+
+(1) The Secretary of State may amend or revoke an order made under section 149.
+
+(2) Before amending or revoking an order made under section 149 the Secretary of State must consult—
+
+(a) the authority for the IFC district established by the order,
+
+(b) the council for every local authority area that falls within the IFC district established by the order,
+
+(c) the Environment Agency,
+
+(d) Natural England,
+
+(e) the MMO,
+
+(f) the authority for any IFC district that adjoins the IFC district established by the order,
+
+(g) the Welsh Ministers, in a case where the IFC district established by the order adjoins the Welsh inshore region,
+
+[[^F164](h) the Natural Resources Body for Wales, in a case where the IFC district established by the order adjoins the Welsh inshore region,]
+
+and any other person likely to be affected by the amendment or revocation of the order.
+
+#### Main duties
+
+##### 153 Management of inshore fisheries
+
+(1) The authority for an IFC district must manage the exploitation of sea fisheries resources in that district.
+
+(2) In performing its duty under subsection (1), the authority for an IFC district must—
+
+(a) seek to ensure that the exploitation of sea fisheries resources is carried out in a sustainable way,
+
+(b) seek to balance the social and economic benefits of exploiting the sea fisheries resources of the district with the need to protect the marine environment from, or promote its recovery from, the effects of such exploitation,
+
+(c) take any other steps which in the authority's opinion are necessary or expedient for the purpose of making a contribution to the achievement of sustainable development, and
+
+(d) seek to balance the different needs of persons engaged in the exploitation of sea fisheries resources in the district.
+
+(3) The Secretary of State may give guidance to the authority for an IFC district with respect to the performance of its duty under subsection (1).
+
+(4) The Secretary of State must give every IFC authority guidance as to how the authority is to perform its duty under subsection (1) so as to make a contribution to the achievement of sustainable development.
+
+(5) In performing its duty under subsection (1), the authority for an IFC district must have regard to any guidance given to it by the Secretary of State.
+
+(6) Before giving any such guidance the Secretary of State must consult—
+
+(a) every IFC authority to which the Secretary of State is proposing to give guidance, and
+
+(b) such other bodies or persons as the Secretary of State considers appropriate.
+
+(7) In preparing any such guidance the Secretary of State must take into consideration—
+
+(a) the functions of IFC authorities,
+
+(b) functions which are exercisable in IFC districts by other bodies and persons, and
+
+(c) the resources available, or likely to be available, to each IFC authority to which the Secretary of State is proposing to give guidance.
+
+(8) The Secretary of State must publish, in such manner as the Secretary of State may determine, any guidance given to IFC authorities by virtue of subsection (4).
+
+(9) An IFC authority that has been given any such guidance must provide any person on request with a copy of the whole or any part of any such guidance.
+
+(10) In this Chapter “sea fisheries resources” means any animals or plants, other than fish falling within subsection (11), that habitually live in the sea, including those that are cultivated in the sea.
+
+(11) The fish referred to in subsection (10) are—
+
+(a) salmon, trout, eels, lampreys, smelt and shad;
+
+(b) any other fish of a kind which migrates from fresh to salt water, or from salt to fresh water, in order to spawn;
+
+(c) any freshwater fish.
+
+In this subsection “eels”, “freshwater fish”, “salmon”, “smelt” and “trout” have the same meanings as in the Salmon and Freshwater Fisheries Act 1975 (c. 51) (see section 41 of that Act).
+
+(12) Any reference in this Chapter to the “exploitation” of sea fisheries resources is a reference to any activity relating to the exploitation of such resources, whether carried out for commercial purposes or otherwise, including—
+
+(a) fishing for, taking, retaining on board, trans-shipping, landing, transporting or storing such resources,
+
+(b) selling, displaying, exposing or offering for sale or possessing such resources, and
+
+(c) introducing such resources to the sea or cultivating such resources.
+
+##### 154 Protection of marine conservation zones
+
+(1) The authority for an IFC district must seek to ensure that the conservation objectives of any MCZ in the district are furthered.
+
+(2) Nothing in section 153(2) is to affect the performance of the duty imposed by this section.
+
+(3) In this section—
+
+(a) “MCZ” means a marine conservation zone designated by an order under section 116;
+
+(b) the reference to the conservation objectives of an MCZ is a reference to the conservation objectives stated for the MCZ under section 117(2)(b).
+
+#### Byelaws
+
+##### 155 Power to make byelaws
+
+(1) For the purposes of performing the duty imposed by section 153 or the duty imposed by section 154, the authority for an IFC district may make byelaws for that district.
+
+(2) Byelaws made under this section must be observed within the district for which they are made.
+
+(3) A byelaw made under this section does not have effect until it is confirmed by the Secretary of State.
+
+This is subject to section 157 (emergency byelaws).
+
+(4) The Secretary of State may confirm a byelaw without modification or with such modifications as are agreed to by the IFC authority that made the byelaw.
+
+(5) Before confirming a byelaw, the Secretary of State may cause a local inquiry to be held.
+
+##### 156 Provision that may be made by byelaw
+
+(1) The provision that may be made by a byelaw under section 155 includes provision falling within any one or more of the Heads set out in—
+
+(a) subsection (3) (prohibition or restriction of exploitation of sea fisheries resources),
+
+(b) subsection (4) (permits),
+
+(c) subsection (5) (vessels, methods and gear),
+
+(d) subsection (6) (protection of fisheries for shellfish),
+
+(e) subsection (7) (monitoring of exploitation of resources);
+
+(f) subsection (8) (information).
+
+(2) In the following provisions of this section “specified” means specified in the byelaw.
+
+(3) Head 1 is provision prohibiting or restricting the exploitation of sea fisheries resources, including—
+
+(a) provision prohibiting or restricting such exploitation in specified areas or during specified periods;
+
+(b) provision limiting the amount of sea fisheries resources a person or vessel may take in a specified period;
+
+(c) provision limiting the amount of time a person or vessel may spend fishing for or taking sea fisheries resources in a specified period.
+
+(4) Head 2 is provision prohibiting or restricting the exploitation of sea fisheries resources without a permit issued by an IFC authority, including—
+
+(a) provision for the charging of fees for permits;
+
+(b) provision enabling conditions to be attached to a permit;
+
+(c) provision enabling an IFC authority to limit the number of permits issued by it.
+
+(5) Head 3 is—
+
+(a) provision prohibiting or restricting the use of vessels of specified descriptions;
+
+(b) provision prohibiting or restricting any method of exploiting sea fisheries resources;
+
+(c) provision prohibiting or restricting the possession, use, retention on board, storage or transportation of specified items, or items of a specified description, that are used in the exploitation of sea fisheries resources;
+
+(d) provision for determining whether such items are items of a specified description.
+
+(6) Head 4 is provision for and in connection with the protection of fisheries for shellfish, including—
+
+(a) provision requiring shellfish the removal or possession of which is prohibited by or in pursuance of any Act to be re-deposited in specified localities;
+
+(b) provision for the protection of culch and other material for the reception of the spat or young of shellfish;
+
+(c) provision requiring such material to be re-deposited in specified localities;
+
+(d) provision constituting, within an IFC district, a district of oyster cultivation for the purposes of subsection (2)(c) of section 16 of the Sea Fisheries (Shellfish) Act 1967 (c. 83) (which prohibits the sale of oysters between certain dates);
+
+(e) provision directing that section 17(2) of that Act (which affords a defence to a person charged with an offence under that section) does not apply.
+
+(7) Head 5 is provision for and in connection with the monitoring of exploitation of sea fisheries resources, including—
+
+(a) provision requiring vessels to be fitted with specified equipment;
+
+(b) provision requiring vessels to carry on board specified persons, or persons of a specified description, for the purpose of observing activities carried out on those vessels;
+
+(c) provision requiring specified items, or items of a specified description, that are used in the exploitation of sea fisheries resources to be marked in such manner as may be specified.
+
+(8) Head 6 is provision requiring persons involved in the exploitation of sea fisheries resources in an IFC district to provide the authority for the district with specified information.
+
+##### 157 Emergency byelaws
+
+(1) A byelaw that is made by an IFC authority in the circumstances described in subsection (2) has effect without being confirmed by the Secretary of State.
+
+(2) The circumstances are that—
+
+(a) the IFC authority considers that there is an urgent need for the byelaw, and
+
+(b) the need to make the byelaw could not reasonably have been foreseen.
+
+(3) A byelaw that has effect by virtue of this section (an “emergency byelaw”)—
+
+(a) comes into force on a date specified in the byelaw, and
+
+(b) remains in force (unless revoked or extended) for such period, not exceeding 12 months, as is specified in the byelaw.
+
+(4) An IFC authority may, with the written approval of the Secretary of State, extend the period for which an emergency byelaw is to remain in force.
+
+(5) An IFC authority—
+
+(a) may extend that period only once;
+
+(b) may not extend that period by more than 6 months.
+
+(6) The Secretary of State may not give the approval referred to in subsection (4) unless satisfied that—
+
+(a) during the period for which the emergency byelaw has been in force, the IFC authority has used its best endeavours to make a byelaw that will make the emergency byelaw unnecessary, and
+
+(b) there would be a significant and adverse effect on the marine environment if the approval was not given.
+
+(7) An IFC authority must within 24 hours of making an emergency byelaw notify the Secretary of State of it.
+
+##### 158 Byelaws: supplementary provision
+
+(1) The power to make byelaws under section 155 includes power to make different provision for different cases or different circumstances, including (in particular)—
+
+(a) different parts of an IFC district;
+
+(b) different times of the year;
+
+(c) different descriptions of sea fisheries resources.
+
+(2) The power to make byelaws under section 155 also includes—
+
+(a) power to provide for exceptions or conditions;
+
+(b) power to provide for a byelaw to cease to have effect after a specified period.
+
+(3) Subject to subsection (5), the provision that may be made by a byelaw under section 155 includes provision that prohibits, restricts or otherwise interferes with the exercise of a right to which subsection (4) applies.
+
+(4) This subsection applies to—
+
+(a) any right of several fishery;
+
+(b) any right on, to or over any portion of the seashore that is enjoyed by a person under a local or special Act, a Royal charter, letters patent, or by prescription or immemorial usage.
+
+(5) An IFC authority may make a byelaw that prohibits, or significantly restricts or interferes with, the exercise of a right to which subsection (4) applies only if the person who enjoys the right consents.
+
+(6) Subsection (5) does not apply in relation to the exercise of such a right in relation to any of the following sites—
+
+(a) a site of special scientific interest, within the meaning of Part 2 of the Wildlife and Countryside Act 1981 (c. 69);
+
+(b) a national nature reserve declared in accordance with section 35 of that Act;
+
+(c) a Ramsar site, within the meaning of section 37A of that Act;
+
+(d) a European marine site, within the meaning of [[^F165]the Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012) (see regulation 8)] ;
+
+(e) a marine conservation zone designated by an order under section 116.
+
+(7) In this section “specified” means specified in the byelaw.
+
+##### 159 Power of Secretary of State to amend or revoke byelaws
+
+(1) If the Secretary of State is satisfied that any provision made by a byelaw under section 155 is unnecessary, inadequate or disproportionate, the Secretary of State may by order—
+
+(a) revoke the byelaw, or
+
+(b) amend the byelaw so as to restrict its application.
+
+(2) Before amending or revoking a byelaw under this section, the Secretary of State must—
+
+(a) notify the IFC authority that made the byelaw, and
+
+(b) consider any objection made by it.
+
+(3) Before amending or revoking a byelaw under this section, the Secretary of State may cause a local inquiry to be held.
+
+(4) An order made under this section must be published in such manner as the Secretary of State may by regulations provide.
+
+(5) Nothing in this section affects the power of an IFC authority by virtue of section 14 of the Interpretation Act 1978 (c. 30) to amend or revoke any byelaw that it has made.
+
+##### 160 Byelaws: procedure
+
+(1) The Secretary of State may make regulations about the procedure to be followed by an IFC authority in relation to byelaws.
+
+(2) The provision that may be made in regulations under this section includes—
+
+(a) provision about steps to be taken, including consultation with persons or bodies specified, or of a description specified, in the regulations, before a byelaw may be made or revoked;
+
+(b) provision about obtaining confirmation of a byelaw;
+
+(c) provision about any procedure for making or revoking emergency byelaws;
+
+(d) provision treating a byelaw that extends the period for which an emergency byelaw is to remain in force as if it were an emergency byelaw;
+
+(e) provision for and in connection with the publication of byelaws;
+
+(f) provision requiring any byelaws made for an IFC district to be displayed in that district in such manner as the regulations may specify;
+
+(g) provision for copies of byelaws to be supplied to persons on request;
+
+(h) provision for and in connection with keeping byelaws under review, including provision for and in connection with the consideration of any representations made in relation to byelaws;
+
+(i) provision about steps to be taken by an IFC authority where a byelaw is amended or revoked by the Secretary of State.
+
+(3) Regulations under this section may make different provision for cases where an IFC authority has entered into an agreement under section 167 authorising a body to perform any of the authority's functions relating to byelaws.
+
+##### 161 Inquiries
+
+(1) Subsections (2) to (5) of section 250 of the Local Government Act 1972 (c. 70) (local inquiries: evidence and costs) apply, with the modifications described in subsection (2) of this section, to any inquiry under section 155(5) or section 159(3) as they apply to inquiries under section 250 of that Act.
+
+(2) The modifications are—
+
+(a) references in section 250 of the Local Government Act 1972 to the person appointed to hold the inquiry are to be read as references to the Secretary of State;
+
+(b) references in that section to the Minister causing an inquiry to be held are to be read as references to the Secretary of State;
+
+(c) subsection (3) of that section applies as if for the words from “a fine” to the end there were substituted “ a fine not exceeding level 1 on the standard scale ”;
+
+(d) references in subsection (4) of that section to a local authority or a party to the inquiry are to be read as references to the IFC authority that made the byelaw to which the inquiry relates.
+
+##### 162 Evidence of byelaws
+
+(1) The production of a signed copy of any byelaw made under section 155 is conclusive evidence of the byelaw and of the fact that it has been made and has effect in accordance with provision made by or under this Chapter.
+
+(2) In subsection (1) “signed” means—
+
+(a) in the case of an emergency byelaw, signed by a person who—
+
+(i) is a member or officer of the IFC authority that made the byelaw, and
+
+(ii) is authorised by the authority for that purpose;
+
+(b) in the case of any other byelaw, signed by or on behalf of the Secretary of State.
+
+(3) A copy of a byelaw purporting to be signed as mentioned in subsection (2) is to be treated as having been properly signed unless the contrary is shown.
+
+#### Offences
+
+##### 163 Offences
+
+(1) A person who contravenes any byelaw made under section 155 is guilty of an offence under this section.
+
+(2) Where any vessel is used in contravention of any byelaw made under section 155, the master, the owner and the charterer (if any) are each guilty of an offence under this section.
+
+(3) A person who is guilty of an offence under this section is liable on summary conviction to [[^F166]a fine].
+
+(4) Proceedings for an offence under this section may be taken, and the offence may for all incidental purposes be treated as having been committed, in any part of England and Wales.
+
+(5) In this section “contravention” includes failure to comply; and “contravene” is to be read accordingly.
+
+##### 164 Powers of court following conviction
+
+(1) This section applies where a person is convicted of an offence under section 163.
+
+(2) The court by which the person is convicted may order the forfeiture of—
+
+(a) any fishing gear used in the commission of the offence;
+
+(b) any sea fisheries resources in respect of which the offence was committed.
+
+(3) The power conferred by subsection (2) to order the forfeiture of any sea fisheries resources includes power to order the forfeiture of any container in which the resources are being kept.
+
+(4) The court may, instead of ordering the forfeiture of any fishing gear or any sea fisheries resources, order the person to pay a sum of money representing the value of the fishing gear or resources.
+
+(5) In a case where the offence involved the breach of a condition of an IFC authority permit, the court may—
+
+(a) suspend the permit, or
+
+(b) disqualify the person from holding or obtaining any IFC authority permit relating to any activity to which that permit related,
+
+for such period as the court thinks fit.
+
+(6) In subsection (5) “IFC authority permit” means a permit granted by an IFC authority.
+
+#### Enforcement
+
+##### 165 Inshore fisheries and conservation officers
+
+(1) An IFC authority may appoint persons to be inshore fisheries and conservation officers (“IFC officers”).
+
+(2) The carrying out of any functions of an IFC officer by a person appointed by an IFC authority under this section is subject to any limitations specified by the authority in relation to that person.
+
+(3) In this Chapter any reference to the IFC district for which an officer has been appointed is a reference to the district of the IFC authority that appointed the officer.
+
+##### 166 Powers of IFC officers
+
+(1) An IFC officer appointed for an IFC district has the powers referred to in subsection (3) for the purposes of enforcing—
+
+(a) any byelaws made under section 155 for the district (or having effect as if so made);
+
+(b) sections 1 to 3, 5 and 6 of the Sea Fish (Conservation) Act 1967 (c. 84) and any orders made under any of those sections;
+
+(c) any provision made by or under an order under section 1 of the Sea Fisheries (Shellfish) Act 1967 (c. 83) conferring a right of regulating a fishery;
+
+(d) any provision of, or any rights conferred by, section 7 of that Act;
+
+(e) any byelaws made under section 129 [[^F167], 129A, 129B] or 132 of this Act;
+
+(f) section 140 of this Act.
+
+(2) The Secretary of State may by order amend subsection (1).
+
+(3) The powers are—
+
+(a) the common enforcement powers conferred by this Act;
+
+(b) the powers conferred by sections 264, 268, 269 and 284.
+
+(4) Subject to subsection (9), the powers which an IFC officer has for the purposes referred to in subsection (1) may be exercised—
+
+(a) in the IFC district for which the officer has been appointed;
+
+(b) in any IFC district adjoining that district;
+
+(c) in any other place in England and Wales, in relation to an offence which the officer reasonably believes has been committed within the IFC district for which the officer has been appointed;
+
+(d) in relation to any vessel in waters within British fishery limits, excluding the Scottish zone and the Northern Ireland zone, which the officer reasonably believes has been involved in the commission of an offence within the IFC district for which the officer has been appointed;
+
+(e) in relation to any vessel or vehicle in Scotland or the Scottish zone which has been pursued there in accordance with subsection (5).
+
+(5) A vessel or vehicle is pursued in accordance with this subsection if—
+
+(a) immediately before the pursuit of the vessel or vehicle commences—
+
+(i) the vessel or vehicle is in the IFC district for which the officer has been appointed, or
+
+(ii) in the case of a vessel operating together with one or more other vessels to carry out a single activity, any of those vessels is in that district,
+
+(b) before the pursuit of the vessel or vehicle commences, a signal is given for it to stop, and
+
+(c) the pursuit of the vessel or vehicle is not interrupted.
+
+(6) The signal referred to in subsection (5)(b) must be given in such a way as to be audible or visible from the vessel or vehicle in question.
+
+(7) For the purposes of subsection (5)(c), pursuit is not interrupted by reason only of the fact that—
+
+(a) the method of carrying out the pursuit, or
+
+(b) the identity of the vessel, vehicle or aircraft carrying out the pursuit,
+
+changes during the course of the pursuit.
+
+(8) Nothing in this section affects any right of hot pursuit which an IFC officer may have under international law.
+
+(9) The powers which an IFC officer has for the purposes referred to in subsection (1) may not be exercised in relation to any warship belonging to Her Majesty and forming part of Her Majesty's armed forces.
+
+#### Power to delegate functions
+
+##### 167 Power to enter into agreements with eligible bodies
+
+(1) The authority for an IFC district may, with the approval of the Secretary of State, enter into an agreement with an eligible body authorising the eligible body to perform any function of the IFC authority—
+
+(a) either in relation to the district or in relation to specified parts of that district;
+
+(b) subject to paragraph (a), either generally or in specified cases.
+
+“Specified” means specified in the agreement.
+
+(2) For the purposes of this section and sections 168 to 171—
+
+(a) any reference to a function of an IFC authority includes a reference to a function exercisable by a person authorised, appointed or employed by the IFC authority;
+
+(b) any reference to an agreement is to an agreement under this section.
+
+(3) The Secretary of State's approval may be given—
+
+(a) in relation to a particular agreement or in relation to a description of agreements;
+
+(b) unconditionally or subject to conditions specified in the approval.
+
+(4) An agreement under this section may not authorise an eligible body to perform any of the following functions—
+
+(a) any function whose performance by the body would be incompatible with the purposes for which the body was established;
+
+(b) functions under section 176 (accounts).
+
+(5) An agreement under this section does not prevent the IFC authority from performing a function to which the agreement relates.
+
+(6) The maximum period for which an agreement under this section may authorise an eligible body to perform a function is 20 years.
+
+##### 168 Eligible bodies
+
+(1) In this Chapter “eligible body”, in relation to an agreement entered into by the authority for an IFC district, means any body in the following list—
+
+(a) the authority for any IFC district that adjoins the district;
+
+(b) the Environment Agency.
+
+[[^F168](c) the Natural Resources Body for Wales.]
+
+(2) The Secretary of State may by order amend subsection (1) so as to—
+
+(a) add any body or description of body to the list, or
+
+(b) remove any body or description of body from it.
+
+(3) The Secretary of State may not exercise the power conferred by subsection (2)(a) unless—
+
+(a) the body, or every body of the description, to be added to the list is a public body, and
+
+(b) the Secretary of State is satisfied that at least one of the purposes or functions of the body, or bodies of the description, to be added to the list is, or is related to or connected with, an inshore marine function.
+
+(4) In this section “inshore marine function” means any function which relates to, or whose exercise is capable of affecting, the whole or any part of the English inshore region.
+
+##### 169 Variation, review and cancellation of agreements under section 167
+
+(1) Subject to subsection (3), the Secretary of State—
+
+(a) must review an agreement no later than the end of the period of 5 years beginning with the date on which the agreement was entered into or was last reviewed by the Secretary of State, and
+
+(b) if it appears appropriate to do so in the light of the review, may cancel the agreement.
+
+(2) Subject to subsection (3), an agreement may not be varied except—
+
+(a) by agreement between the IFC authority and the eligible body, and
+
+(b) with the approval of the Secretary of State.
+
+(3) An approval given under section 167(1) may provide that subsection (1) or (2) of this section does not apply (or that both of them do not apply).
+
+##### 170 Agreements under section 167: particular powers
+
+(1) The fact that a function is conferred by or under this Act or an Act passed after the passing of this Act does not prevent it from being the subject of an agreement.
+
+(2) An IFC authority may, under an agreement, authorise an eligible body to perform a function even though, under the enactment or subordinate legislation conferring that function on the IFC authority,—
+
+(a) the function is conferred on the IFC authority by reference to specified circumstances or cases and the same type of function is conferred on the eligible body in different specified circumstances or cases,
+
+(b) the function is exercisable by the IFC authority and the eligible body jointly,
+
+(c) the eligible body is required to be, or may be, consulted about the function (whether generally or in specified circumstances), or
+
+(d) the eligible body is required to consent to the exercise of the function (whether generally or in specified circumstances).
+
+(3) An agreement may provide—
+
+(a) for the performance of a function to be subject to the fulfilment of conditions;
+
+(b) for payments to be made in respect of the performance of the function.
+
+(4) Any eligible body which is authorised under an agreement to perform a function—
+
+(a) is to be treated as having power to do so;
+
+(b) may, unless (or except to the extent that) the agreement provides for this paragraph not to apply, authorise a committee, sub-committee, member, officer or employee of the body to perform the function on its behalf.
+
+(5) Subject to subsection (4)(b), an eligible body which is authorised under an agreement to perform a function may not authorise any other body or person to perform that function.
+
+(6) Section 182 (exemption from liability) applies in relation to any function which an eligible body is authorised under an agreement to perform as if the reference to an IFC authority were a reference to the eligible body.
+
+##### 171 Supplementary provisions with respect to agreements under section 167
+
+(1) An agreement under section 167, and any approval given by the Secretary of State under that section, must be in writing.
+
+(2) An IFC authority which has entered into an agreement with an eligible body must arrange for a copy of the agreement to be published in a way that the IFC authority thinks is suitable for bringing it to the attention of persons likely to be affected by it.
+
+(3) No power of a Minister of the Crown under any enactment to give directions to a statutory body extends to giving a direction—
+
+(a) requiring it to enter into an agreement under section 167;
+
+(b) prohibiting it from entering into such an agreement;
+
+(c) requiring it to include, or prohibiting it from including, particular terms in such an agreement;
+
+(d) requiring it to negotiate, or prohibiting it from negotiating, a variation or termination of such an agreement.
+
+(4) Schedule 15 to the Deregulation and Contracting Out Act 1994 (c. 40) (restrictions on disclosure of information) applies in relation to an authorisation by an IFC authority or an eligible body under section 167 or 170 of this Act as it applies in relation to an authorisation under section 69 of that Act by an office-holder.
+
+#### Other powers and duties of IFC authorities
+
+##### 172 Development, etc of fisheries
+
+(1) An IFC authority may take such steps as it considers necessary or expedient for or in connection with the development of any fishery for any sea fisheries resources.
+
+(2) Subject to any provision made by or under any Act, the power conferred by subsection (1) includes power to stock or restock a public fishery for any sea fisheries resources.
+
+(3) Nothing in this Chapter is to be taken as preventing an IFC authority from making an application for, or being the grantee of, an order under section 1 of the Sea Fisheries (Shellfish) Act 1967 (c. 83) (orders as to fisheries for shellfish).
+
+##### 173 Provision of services by IFC authorities
+
+(1) An IFC authority may enter into arrangements with another person or body for the provision by the authority of services that are required by the person or body in connection with the exercise of the person's or body's functions.
+
+(2) The power conferred by subsection (1) includes—
+
+(a) power to enter into arrangements with any person who is entitled to a right of regulating a fishery conferred by an order under section 1 of the Sea Fisheries (Shellfish) Act 1967 for the provision of services that are required by the person in connection with the enforcement of any provision made by or under the order;
+
+(b) power to enter into arrangements with—
+
+(i) any person who is entitled to a right of several fishery conferred by an order under that section, or
+
+(ii) any person who owns a private shellfish bed (within the meaning of that Act),
+
+for the provision of services that are required by the person in connection with the enforcement of any provision of, or any rights conferred by, section 7 of that Act.
+
+(3) The terms and conditions upon which arrangements under subsection (1) are made may include provision for the making of payments to the authority by the person or body to whom the services are provided.
+
+##### 174 Duty of co-operation
+
+The authority for an IFC district must take such steps as it considers appropriate to co-operate with—
+
+(a) the authority for every IFC district adjoining that district,
+
+(b) the Welsh Ministers, in a case where that district adjoins the Welsh inshore region, and
+
+(c) any other public authority that exercises functions relating to—
+
+(i) the regulation of activities carried on in any part of the sea lying within that district, or
+
+(ii) enforcement in that part of the sea.
+
+##### 175 Information
+
+(1) Every IFC authority must collect such statistics relating to the exploitation of sea fisheries resources within its district as it considers necessary for the purposes of performing its duty under section 153.
+
+(2) Every IFC authority must provide the Secretary of State with such information as the Secretary of State may reasonably require about—
+
+(a) proceedings of the IFC authority;
+
+(b) sea fisheries within the authority's district;
+
+(c) the effect of the exploitation of sea fisheries resources in that district on the marine environment.
+
+##### 176 Accounts
+
+(1) An IFC authority must keep proper accounts and proper records in relation to the accounts.
+
+(2) The accounts of an IFC authority that by virtue of section 150(3) is a joint committee of councils must be made up yearly to 31st March.
+
+##### 177 Annual plan
+
+(1) Before the beginning of each financial year every IFC authority must make and publish a plan setting out the authority's main objectives and priorities for the year.
+
+(2) The IFC authority must send a copy of its plan to the Secretary of State.
+
+##### 178 Annual report
+
+(1) As soon as is reasonably practicable after the end of each financial year, every IFC authority must prepare a report on its activities in that year.
+
+(2) A report under this section must be in such form and contain such information as the Secretary of State may require.
+
+(3) A report under this section must be published in such manner as the Secretary of State may require.
+
+(4) The IFC authority must send a copy of the report to the Secretary of State.
+
+##### 179 Supplementary powers
+
+(1) An IFC authority may do anything which appears to it to be necessary or expedient for the purpose of or in connection with the exercise of any of its other functions.
+
+(2) In particular it may—
+
+(a) acquire or dispose of land or other property;
+
+(b) enter into arrangements with other IFC authorities for the establishment of a body to co-ordinate the activities of those authorities which are party to the arrangements.
+
+(3) But an IFC authority has no power to borrow money.
+
+#### Miscellaneous and supplemental
+
+##### 180 Expenses of IFC authorities
+
+(1) The expenses incurred by the authority for an IFC district are to be defrayed by the relevant council or councils.
+
+(2) Where there is more than one relevant council for an IFC district, each council must pay such portion of the expenses incurred by the authority for the district as is specified in, or determined in accordance with, the order establishing the district.
+
+The order may provide for the portion of the expenses payable by a relevant council to be calculated by reference to any circumstances whatsoever.
+
+(3) Accordingly, section 103 of the Local Government Act 1972 (c. 70) (expenses of joint committees) does not apply in relation to an IFC authority.
+
+(4) The total amount of an IFC authority's expenses to be defrayed under subsection (1) for any particular financial year may be vetoed by a vote of those members of the IFC authority who are members of a relevant council.
+
+##### 181 IFC authority as party to proceedings
+
+An IFC authority is capable (despite being an unincorporated body) of—
+
+(a) making contracts;
+
+(b) bringing proceedings under this Act in its own name;
+
+(c) bringing or defending any other proceedings in its own name.
+
+##### 182 Exemption from liability
+
+(1) No person who is a member or employee of an IFC authority is to be liable for anything done (or omitted to be done) in, or in connection with, the discharge or purported discharge of the authority's functions.
+
+(2) Subsection (1) does not apply if the act or omission is shown to have been in bad faith.
+
+(3) The reference in subsection (1) to an employee of an IFC authority does not include any IFC officer acting as such an officer.
+
+(For provision exempting such officers from liability, see section 291.)
+
+##### 183 Report by Secretary of State
+
+(1) As soon as is reasonably practicable after the end of every relevant four-year period, the Secretary of State must lay before Parliament a report about the conduct and operation of the authorities for any IFC districts in existence during the whole or part of that period.
+
+(2) In this section “relevant four-year period” means—
+
+(a) the period of four years beginning with the day on which the Secretary of State first made an order under section 149;
+
+(b) each subsequent period of four years.
+
+##### 184 Minor and consequential amendments
+
+Schedule 14 (which contains minor and consequential amendments relating to IFC authorities) has effect.
+
+##### 185 Application to the Crown
+
+(1) This Chapter is binding on the Crown and applies in relation to any Crown land as it applies in relation to any other land.
+
+This is subject to subsection (2).
+
+(2) No contravention by the Crown of any provision of this Chapter is to make the Crown criminally liable; but the High Court may declare unlawful any act or omission of the Crown which constitutes such a contravention.
+
+(3) Despite subsection (2), the provisions of this Chapter apply to persons in the public service of the Crown as they apply to other persons.
+
+(4) For the purposes of this section “Crown land” means land an interest in which—
+
+(a) belongs to Her Majesty in right of the Crown or in right of Her private estates,
+
+(b) belongs to Her Majesty in right of the Duchy of Lancaster,
+
+(c) belongs to the Duchy of Cornwall, or
+
+(d) belongs to a government department or is held in trust for Her Majesty for the purposes of a government department.
+
+(5) In this section references to Her Majesty's private estates are to be construed in accordance with section 1 of the Crown Private Estates Act 1862 (c. 37).
+
+##### 186 Interpretation of this Chapter
+
+(1) In this Chapter—
+
+- “authority for an IFC district” is to be read in accordance with section 150(2);
+
+- “eligible body” has the meaning given by section 168;
+
+- “IFC authority” means an inshore fisheries and conservation authority (see section 150);
+
+- “IFC district” means an inshore fisheries and conservation district (see section 149);
+
+- “IFC officer” means an inshore fisheries and conservation officer (see section 165);
+
+- “local authority area” means—
+
+  - (a) a county, a London borough or a metropolitan district,
+  - (b) a non-metropolitan district comprised in an area for which there is no county council,
+  - (c) the City of London, or
+  - (d) the Isles of Scilly;
+
+- “the marine environment” includes—
+
+  - (a) geological or physiographical features of marine or coastal areas;
+  - (b) features of archaeological or historic interest in such areas;
+  - (c) flora and fauna which are dependent on, or associated with, a marine or coastal environment;
+
+- “master” includes, in relation to any vessel, the person for the time being in command or charge of the vessel;
+
+- “relevant council”, in relation to an IFC district, means the council for a local authority area falling within the district;
+
+- “sea fisheries resources” has the meaning given by section 153;
+
+- “seashore” means the shore and bed of the sea;
+
+- “shellfish” includes crustaceans and molluscs of any kind;
+
+- “vessel” includes any ship or boat or any other description of vessel used in navigation.
+
+(2) Any reference in this Chapter to the exploitation of sea fisheries resources is to be read in accordance with section 153(12).
+
+### Chapter 2 — Local fisheries committees
+
+#### 187 Abolition of local fisheries committees
+
+The Sea Fisheries Regulation Act 1966 (c. 38), which provides for the establishment of sea fisheries districts and local fisheries committees, is repealed.
+
+#### 188 Power to make consequential or transitional provision, etc
+
+(1) The appropriate national authority may by order make such incidental, consequential, supplemental or transitional provision or savings as appear to the authority to be necessary or expedient in consequence of the repeal of the Sea Fisheries Regulation Act 1966 (“the 1966 Act”).
+
+(2) The provision that may be made by an order under this section includes—
+
+(a) provision for and in connection with the transfer of any staff, property, rights or liabilities of a local fisheries committee to such bodies or persons (including the authority making the order) as may be specified;
+
+(b) provision about byelaws made by a local fisheries committee or a body having the powers of such a committee, including—
+
+(i) in so far as any provision of any such byelaw in force at the time of the making of the order could have been made under some other enactment, provision for that provision to have effect as if comprised in subordinate legislation made by a specified body or person under that enactment;
+
+(ii) provision as to the area to which any provision having effect by virtue of sub-paragraph (i) applies;
+
+(c) provision about the local fisheries committee for any sea fisheries district lying partly in England and partly in Wales, including—
+
+(i) provision for that part of the district lying in England or (as the case may be) Wales to be treated as if it were a sea fisheries district created under section 1 of the 1966 Act, and
+
+(ii) provision for the committee to continue in being as a local fisheries committee for the district established by virtue of sub-paragraph (i), with such changes to its constitution as appear to the authority making the order to be necessary or expedient;
+
+(d) provision amending, repealing or revoking any provision of this Act or any other enactment passed or made before, or in the same Session as, this Act.
+
+(3) The provision that may be made by virtue of subsection (2)(a) includes—
+
+(a) provision for the transfer of any property, rights or liabilities to have effect subject to exceptions or reservations specified in, or determined in accordance with, the order;
+
+(b) provision for the transfer of any property, rights or liabilities, whether or not otherwise capable of being transferred or assigned, including any rights conferred by an order made under section 1 of the Sea Fisheries (Shellfish) Act 1967 (c. 83);
+
+(c) provision for an order under this section providing for the transfer of property, rights or liabilities to have effect in spite of any provision (of whatever nature) which would prevent or restrict the transfer of the property, rights or liabilities otherwise than by the order.
+
+(4) The reference in subsection (2)(a) to property of a local fisheries committee includes a reference to—
+
+(a) any property held on behalf of such a committee;
+
+(b) any property of a relevant local authority held for the purposes of such a committee.
+
+(5) In subsection (2)(d) “enactment” includes an enactment comprised in subordinate legislation.
+
+(6) In this section—
+
+- “appropriate national authority” means—
+
+  - (a) in relation to sea fisheries districts in England, or any part of a sea fisheries district lying in England, the Secretary of State;
+  - (b) in relation to sea fisheries districts in Wales, or any part of a sea fisheries district lying in Wales, the Welsh Ministers;
+
+- “England” includes the English inshore region;
+
+- “local fisheries committee” means a local fisheries committee constituted by an order made, or having effect as if made, under section 1 of the 1966 Act;
+
+- “relevant local authority” means—
+
+  - (a) in the case of a local fisheries committee that is a committee of a county, county borough or metropolitan district council, that council;
+  - (b) in the case of a local fisheries committee that is a joint committee of two or more such councils, any of those councils;
+
+- “specified” means specified in the order;
+
+- “Wales” includes the Welsh inshore region.
+
+### Chapter 3 — Inshore fisheries in Wales
+
+#### 189 Power of Welsh Ministers in relation to fisheries in Wales
+
+(1) [[^F169]The] Welsh Ministers may by order make any provision in relation to Wales which the authority for an IFC district may make for that district by a byelaw made under section 155.
+
+[^F170]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) In this section—
+
+- “authority for an IFC district” has the same meaning as in Chapter 1 of this Part;
+- “Wales” has the same meaning as in the Government of Wales Act 2006 (c. 32).
+
+#### 190 Offences
+
+(1) A person who contravenes any provision of an order made under section 189 is guilty of an offence under this section.
+
+(2) Where any vessel is used in contravention of any provision of an order made under section 189, the master, the owner and the charterer (if any) are each guilty of an offence under this section.
+
+(3) A person who is guilty of an offence under this section is liable on summary conviction to [[^F171]a fine].
+
+(4) Proceedings for an offence under this section may be taken, and the offence may for all incidental purposes be treated as having been committed, in any part of England and Wales.
+
+(5) No contravention by the Crown of this section is to make the Crown criminally liable; but the High Court may declare unlawful any act or omission of the Crown which constitutes such a contravention.
+
+(6) Despite subsection (5), this section applies to persons in the public service of the Crown as it applies to other persons.
+
+(7) In this section “contravention” includes failure to comply; and “contravene” is to be read accordingly.
+
+#### 191 Powers of court following conviction
+
+(1) This section applies where a person is convicted of an offence under section 190.
+
+(2) The court by which the person is convicted may order the forfeiture of—
+
+(a) any fishing gear used in the commission of the offence;
+
+(b) any sea fisheries resources in respect of which the offence was committed.
+
+(3) The power conferred by subsection (2) to order the forfeiture of any sea fisheries resources includes power to order the forfeiture of any container in which the resources are being kept.
+
+(4) The court may, instead of ordering the forfeiture of any fishing gear or any sea fisheries resources, order the person to pay a sum of money representing the value of the fishing gear or resources.
+
+(5) In a case where the offence involved the breach of a condition of a permit granted by the Welsh Ministers, the court may—
+
+(a) suspend the permit, or
+
+(b) disqualify the person from holding or obtaining any such permit relating to any activity to which that permit related,
+
+for such period as the court thinks fit.
+
+(6) In this section “sea fisheries resources” has the same meaning as in Chapter 1 of this Part (see section 153).
+
+#### 192 Power to provide services for purposes of enforcement
+
+(1) The Welsh Ministers may—
+
+(a) enter into arrangements with any person who is entitled to a right of regulating a fishery conferred by an order under section 1 of the Sea Fisheries (Shellfish) Act 1967 (c. 83) for the provision of services that are required by the person in connection with the enforcement of any provision made by or under the order;
+
+(b) enter into arrangements with—
+
+(i) any person who is entitled to a right of several fishery conferred by an order under that section, or
+
+(ii) any person who owns a private shellfish bed (within the meaning of that Act),
+
+for the provision of services that are required by the person in connection with the enforcement of any provision of, or any rights conferred by, section 7 of that Act.
+
+(2) The terms and conditions upon which arrangements under subsection (1) are made may include provision for the making of payments to the Welsh Ministers by the person or body to whom the services are provided.
+
+#### 193 Miscellaneous amendments
+
+(1) Section 2 of the Coast Protection Act 1949 (c. 74) (constitution of coast protection boards) is amended as set out in subsections (2) and (3).
+
+(2) In subsection (2), after paragraph (b) insert—
+
+> (ba) the Welsh Ministers, in relation to any powers or duties they have in relation to fishing and fisheries in any part of the area;
+
+.
+
+(3) In subsection (8)(a), after “Sea Fish Industry Act 1951,” insert “ or the Welsh Ministers, ”.
+
+(4) In section 27(1) of the Wildlife and Countryside Act 1981 (c. 69) (interpretation of Part 1), in paragraph (c) of the definition of “authorised person”, for “by any” substitute
+
+> by—
+>
+> (i) the Welsh Ministers, in relation to things done for purposes relating to fishing or fisheries in the Welsh inshore region (within the meaning of the Marine and Coastal Access Act 2009);
+>
+> (ii) any
+
+.
+
+## Part 7 — Fisheries
+
+### Chapter 1 — The Sea Fish (Conservation) Act 1967
+
+#### 194 Size limits for sea fish
+
+(1) Section 1 of the Sea Fish (Conservation) Act 1967 (c. 84) (size limits, etc for fish) is amended as follows.
+
+(2) In subsection (1), for the words from “, being a fish” to “prescribed” substitute “ which does not meet such requirements as to size as may be prescribed ”.
+
+(3) In subsection (2), for the words from “, being a fish” to “prescribed” substitute “ which does not meet such requirements as to size as may be prescribed ”.
+
+(4) For subsection (3) substitute—
+
+> (3) Sea fish of any description which do not meet the requirements as to size prescribed in relation to sea fish of that description by an order of the appropriate national authority shall not be carried, whether within or outside relevant British fishery limits, on a relevant British vessel; and an order under this subsection may prohibit the carrying by a Scottish or Northern Ireland fishing boat or a foreign vessel in waters to which subsection (3A) applies of sea fish of any description prescribed by the order which do not meet the requirements as to size so prescribed in relation to sea fish of that description.
+>
+> (3A) This subsection applies to the sea within British fishery limits, other than the Scottish zone and the Northern Ireland zone.
+>
+> “Northern Ireland zone” has the meaning given by the Northern Ireland Act 1998 (see section 98 of that Act).
+
+(5) For subsection (9) substitute—
+
+> (9) In this section—
+>
+> - “the appropriate national authority” means—
+>
+>   - (a) in relation to Wales (within the meaning of the Government of Wales Act 2006), the Welsh Ministers;
+>   - (b) in any other case, the Secretary of State;
+>
+> - “foreign vessel” means any vessel other than a relevant British vessel, a Scottish fishing boat or a Northern Ireland fishing boat;
+>
+> - “Northern Ireland fishing boat” means a fishing boat which is registered in the United Kingdom under Part 2 of the Merchant Shipping Act 1995 and whose entry in the register specifies a port in Northern Ireland as the port to which the boat is to be treated as belonging;
+>
+> - “relevant British vessel” means a vessel, other than a Scottish fishing boat or a Northern Ireland fishing boat, which—
+>
+>   - (a) is registered in the United Kingdom under Part 2 of the Merchant Shipping Act 1995, or
+>   - (b) is owned wholly by persons qualified to own British ships for the purposes of that Part of that Act.
+
+#### 195 Regulation of nets and other fishing gear
+
+(1) Section 3 of the Sea Fish (Conservation) Act 1967 (c. 84) (regulation of nets and other fishing gear) is amended as follows.
+
+(2) After subsection (2) insert—
+
+> (2A) An order under this section may be made by the appropriate national authority so as to extend to nets or other fishing gear used by any person, otherwise than from a fishing boat, for fishing for or taking sea fish in the sea within the seaward limits of the territorial sea adjacent to England and Wales.
+>
+> (2B) In subsection (2A) above “the appropriate national authority” means—
+>
+> (a) in relation to England, the Secretary of State;
+>
+> (b) in relation to Wales, the Welsh Ministers.
+
+(3) After subsection (5) insert—
+
+> (5A) A person who contravenes an order made under this section by virtue of subsection (2A) above shall be guilty of an offence under this section.
+
+#### 196 Charging for commercial fishing licences
+
+[^F172]1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) In section 22 of that Act (interpretation) after subsection (3) insert—
+
+> (3A) Any reference in this Act to a class is a reference to a class defined or described by reference to any circumstances whatsoever (whether or not relating to fishing or vessels).
+
+#### [^F173]197 Grant of licences subject to conditions imposed for environmental purposes
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 198 Power to restrict fishing for sea fish
+
+(1) Section 5 of the Sea Fish (Conservation) Act 1967 (c. 84) (power to restrict fishing for sea fish) is amended as follows.
+
+(2) For subsection (1) substitute—
+
+> (1) Subject to the provisions of this section, the appropriate national authority may make an order—
+>
+> (a) prohibiting, in any area specified in the order and either for a period so specified or without limitation of time—
+>
+> (i) all fishing for sea fish;
+>
+> (ii) fishing for any description of sea fish specified in the order;
+>
+> (iii) fishing for sea fish, or for any description of sea fish specified in the order, by any method so specified;
+>
+> (b) restricting, in any area specified in the order and either for a period so specified or without limitation of time, the amount of sea fish, or sea fish of a description specified in the order, that may, in any period so specified, be taken by—
+>
+> (i) any person;
+>
+> (ii) any fishing boat.
+>
+> A person who contravenes any prohibition or restriction imposed by an order under this section shall be guilty of an offence under this subsection.
+>
+> (1A) Where any fishing boat is used in contravention of any prohibition or restriction imposed by an order under this section, the master, the owner and the charterer (if any) shall each be guilty of an offence under subsection (1) above.
+>
+> (1B) An order under this section which prohibits in any area—
+>
+> (a) fishing for sea fish, or for any description of sea fish specified in the order, or
+>
+> (b) fishing for sea fish, or for any description of sea fish specified in the order, by any method so specified,
+>
+> may provide that any fishing gear, or any fishing gear of a description specified in the order, of any fishing boat in that area must be stowed in accordance with provision made by the order.
+>
+> (1C) An order under this section restricting the amount of sea fish of any description that may be caught in a period specified in the order may provide that, for the purposes of paragraph (b) of subsection (1) above, any sea fish of that description that, after being caught in that period, is returned to the sea as soon as that amount is exceeded is not to be treated as having been caught in contravention of the restriction imposed by the order.
+
+(3) For subsection (8) substitute—
+
+> (8) The only provision that may be made by an order under this section in relation to an area outside British fishery limits, or an area within the Scottish zone or the Northern Ireland zone, is provision applying to—
+>
+> (a) a British fishing boat, other than a Scottish fishing boat or a Northern Ireland fishing boat, that is registered in the United Kingdom; or
+>
+> (b) in so far as the order relates to fishing for salmon or migratory trout, a fishing boat which is British-owned but not registered under the Merchant Shipping Act 1995.
+>
+> (9) In this section—
+>
+> - “the appropriate national authority” means—
+>
+>   - (a) in relation to Wales (within the meaning of the Government of Wales Act 2006), the Welsh Ministers;
+>   - (b) in any other case, the Secretary of State;
+>
+> - “Northern Ireland fishing boat” means a fishing boat which is registered in the United Kingdom under Part 2 of the Merchant Shipping Act 1995 and whose entry in the register specifies a port in Northern Ireland as the port to which the boat is to be treated as belonging;
+>
+> - “Northern Ireland zone” has the meaning given by the Northern Ireland Act 1998 (see section 98 of that Act).
+
+#### 199 Penalties for offences
+
+(1) The Sea Fish (Conservation) Act 1967 (c. 84) is amended as follows.
+
+[^F174]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) In section 15 (powers of British sea-fishery officers for enforcement of that Act)—
+
+(a) in subsection (2C) (penalties for certain offences) omit paragraph (b) and the “or” preceding it;
+
+(b) after that subsection insert—
+
+> (2D) Any person who assaults an officer who is exercising any of the powers conferred on him by subsection (2A) or (2B) above shall be guilty of an offence and liable on summary conviction to a fine not exceeding £50,000.
+>
+> (2E) Any person who wilfully obstructs an officer in the exercise of any of the powers conferred on him by subsection (2A) or (2B) above shall be guilty of an offence and liable on summary conviction to a fine not exceeding £20,000.
+
+(4) In section 16 (enforcement of orders under sections 1 and 2 of that Act), for subsection (1A) (penalties for certain offences) substitute—
+
+> (1A) Any person who assaults an officer who is exercising any of the powers conferred on him by subsection (1) above shall be guilty of an offence and liable on summary conviction to a fine not exceeding £50,000.
+>
+> (1B) Any person who wilfully obstructs an officer in the exercise of any of the powers conferred on him by subsection (1) above shall be guilty of an offence and liable on summary conviction to a fine not exceeding £20,000.
+
+#### 200 Offences by directors, partners, etc
+
+In the Sea Fish (Conservation) Act 1967 (c. 84), for section 12 (offences committed by bodies corporate) substitute—
+
+> **12 Offences by directors, partners, etc**
+>
+> (1) Where a relevant offence has been committed by a body corporate and it is proved that the offence—
+>
+> (a) has been committed with the consent or connivance of a person falling within subsection (2), or
+>
+> (b) is attributable to any neglect on the part of such a person,
+>
+> that person (as well as the body corporate) is guilty of that offence and liable to be proceeded against and punished accordingly.
+>
+> (2) The persons are—
+>
+> (a) a director, manager, secretary or similar officer of the body corporate;
+>
+> (b) any person who was purporting to act in such a capacity.
+>
+> (3) Where the affairs of a body corporate are managed by its members, subsection (1) applies in relation to the acts and defaults of a member, in connection with that management, as if the member were a director of the body corporate.
+>
+> (4) Where a relevant offence has been committed by a Scottish firm and it is proved that the offence—
+>
+> (a) has been committed with the consent or connivance of a partner of the firm or a person purporting to act as such a partner, or
+>
+> (b) is attributable to any neglect on the part of such a person,
+>
+> that person (as well as the firm) is guilty of that offence and liable to be proceeded against and punished accordingly.
+>
+> (5) In this section “relevant offence” means an offence under any provision of sections 1 to 6 of this Act.
+
+#### 201 Minor and consequential amendments
+
+Schedule 15 contains minor and consequential amendments relating to this Chapter.
+
+### Chapter 2 — The Sea Fisheries (Shellfish) Act 1967
+
+#### 202 Power to make orders as to fisheries for shellfish
+
+(1) Section 1 of the Sea Fisheries (Shellfish) Act 1967 (c. 83) (power to make orders as to fisheries for shellfish) is amended as set out in subsections (2) and (3).
+
+(2) In subsection (1), for the words from “shellfish” to “Minister” substitute “ shellfish of any kind specified in the order ”.
+
+(3) Omit subsection (4) (certain consents required for orders made in relation to land belonging to Crown etc).
+
+(4) In Schedule 1 to that Act (provisions with respect to making of orders under section 1), in paragraph 6—
+
+(a) the existing provision is renumbered as sub-paragraph (1), and
+
+(b) after that sub-paragraph insert—
+
+> (2) Where the proposed order relates to any portion of the sea shore belonging to Her Majesty in right of the Crown, the appropriate Minister shall also have regard to the powers and duties of the Crown Estate Commissioners under the Crown Estate Act 1961.
+
+(5) In section 15 of the Sea Fisheries Act 1968 (c. 77) (which amended section 1 of the Sea Fisheries (Shellfish) Act 1967)—
+
+(a) omit subsection (2);
+
+(b) in subsection (3), for “that section” substitute “ section 1 of that Act ”.
+
+#### 203 Variation etc of orders as a result of development
+
+In section 1 of the Sea Fisheries (Shellfish) Act 1967 (power to make orders as to fisheries for shellfish), for subsection (6) substitute—
+
+> (6) Any order made under this section may be varied or revoked by a subsequent order made under this section.
+>
+> (7) Subject to subsection (8) below, subsections (1) to (5) above shall apply in relation to any such subsequent order and to an application for such an order as they apply in relation to an original order made under this section and to an application for such an order.
+>
+> (8) Subsection (7) above does not apply in the case of any order made by virtue of subsection (10) below.
+>
+> (9) Subsection (10) below applies in any case where it appears to the appropriate Minister that—
+>
+> (a) permission has been granted for the carrying out of any development in, on or over any portion of the sea shore to which an order made under this section relates (the “affected area”), and
+>
+> (b) as a result of the development, it will be impossible or impracticable to exercise any right of several fishery or of regulating a fishery conferred by the order in the affected area.
+>
+> (10) In any such case, the appropriate Minister may—
+>
+> (a) vary the order so that the area to which the order relates no longer includes the affected area, or
+>
+> (b) if the affected area comprises the whole or the greater part of the area to which the order relates, revoke the order.
+>
+> (11) The provision that may be made by an order made by virtue of subsection (10) above includes—
+>
+> (a) provision requiring the owners of the affected area to pay compensation to any persons who, at the time of the making of the order, are entitled to a right of several fishery in any part of the affected area by virtue of an order under this section;
+>
+> (b) provision for the amount of any such compensation to be specified in, or determined in accordance with provision made by, the order (including provision for or in connection with the appointment of a person to make any such determination).
+>
+> (12) Before making an order by virtue of subsection (10) above, the appropriate Minister must consult—
+>
+> (a) any persons who are entitled to a right of several fishery or a right of regulating a fishery in any part of the affected area by virtue of an order under this section, and
+>
+> (b) the owners or reputed owners, lessees or reputed lessees and occupiers, if any, of the affected area.
+>
+> (13) The appropriate Minister may require the owners of the affected area to provide him with such information relating to the development as he may reasonably require for the purpose of deciding whether to make an order by virtue of subsection (10) above.
+>
+> (14) In this section “development” has the same meaning as in the Town and Country Planning Act 1990.
+
+#### 204 Purposes for which tolls etc may be applied
+
+(1) Section 3 of the Sea Fisheries (Shellfish) Act 1967 (c. 83) (effect of grant of right of regulating a fishery) is amended as follows.
+
+(2) In subsection (1)(c), for “improving and cultivating” substitute “ regulating ”.
+
+(3) In subsection (2)—
+
+(a) before “any such tolls” insert “ , subject to subsection (2A) of this section, ”;
+
+(b) for “in the improvement and cultivation of” substitute “ for purposes relating to the regulation of ”.
+
+(4) After that subsection insert—
+
+> (2A) An order under section 1 of this Act which—
+>
+> (a) confers on the grantees a right of regulating a fishery, and
+>
+> (b) imposes tolls or royalties upon persons dredging, fishing for and taking shellfish within the limits of the fishery, or of that part of the fishery within which the right is exercisable,
+>
+> may provide that the grantees may, for the purposes of recouping any costs incurred by the grantees in connection with applying for the order, retain such portion of those tolls and royalties as may be specified in the order.
+
+(5) In subsection (4), for “for the improvement and cultivation of” substitute “ for purposes relating to the regulation of ”.
+
+#### [^F175]205 Increase in penalties for certain offences relating to fisheries for shellfish
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 206 Liability of master, etc where vessel used in commission of offence
+
+(1) In section 3 of the Sea Fisheries (Shellfish) Act 1967 (effect of grant of right of regulating a fishery), after subsection (4) insert—
+
+> (5) Where any sea fishing boat is used in the commission of an offence under subsection (3) of this section, the master, the owner and the charterer (if any) shall each be guilty of an offence and liable on summary conviction to a fine not exceeding £50,000.
+
+(2) In section 22(2) of that Act (interpretation), after the definition of “land” insert—
+
+> “master” includes, in relation to any sea fishing boat, the person for the time being in command or charge of the boat;
+
+.
+
+#### 207 Restrictions imposed by grantees, etc
+
+In section 3 of the Sea Fisheries (Shellfish) Act 1967 (effect of grant of right of regulating a fishery), after subsection (5) (inserted by section 206) insert—
+
+> (6) Subsection (1) of this section applies where an order under section 1 of this Act—
+>
+> (a) confers on the grantees a right of regulating a fishery, and
+>
+> (b) by virtue of section 15(3) of the Sea Fisheries Act 1968, enables the grantees to impose restrictions on, or make regulations respecting, the dredging, fishing for and taking of shellfish within the limits of the regulated fishery or part,
+>
+> as it applies where an order under section 1 of this Act confers such a right and imposes such restrictions or makes such regulations.
+>
+> (7) Accordingly, any reference in this section to restrictions or regulations is to be read as including a reference to any restrictions imposed by, or any regulations made by, the grantees.
+
+#### 208 Cancellation of licence after single relevant conviction
+
+In section 4(7) of the Sea Fisheries (Shellfish) Act 1967 (which enables a licence granted in respect of a regulated fishery to be cancelled if the holder is convicted of two relevant offences)—
+
+(a) for “, having been convicted” substitute “ is convicted ”;
+
+(b) omit “, is subsequently convicted of another such offence”.
+
+#### 209 Register of licences
+
+After section 4 of the Sea Fisheries (Shellfish) Act 1967 (c. 83) (licensing powers in case of regulated fishery) insert—
+
+> **4ZA Register of licences**
+>
+> (1) This section applies where the grantees of an order to which section 4 of this Act applies issue one or more licences in pursuance of the order.
+>
+> (2) The grantees shall establish and maintain a register containing the names and addresses of all persons who for the time being hold licences issued by the grantees.
+>
+> (3) The register shall be available for inspection free of charge by any person at such place or places, and during such hours, as are determined by the grantees.
+>
+> (4) The grantees shall make arrangements for the provision of a copy of an entry in the register to any person on request.
+>
+> (5) The arrangements that may be made under subsection (4) of this section include arrangements for the payment of a reasonable fee by the person making the request.
+
+#### 210 Protection of private shellfish beds
+
+(1) Section 7 of the Sea Fisheries (Shellfish) Act 1967 (protection of fisheries) is amended as follows.
+
+(2) In subsection (1)(b), for “private oyster bed” substitute “ private shellfish bed ”.
+
+(3) In subsections (2) and (3)—
+
+(a) for “oysters” substitute “ relevant shellfish ”;
+
+(b) for “private oyster bed” substitute “ private shellfish bed ”.
+
+(4) In subsections (4) and (5)(b), for “private oyster bed” substitute “ private shellfish bed ”.
+
+(5) For subsection (6) substitute—
+
+> (6) In this section—
+>
+> - “the grantees” means the persons for the time being entitled to the right of several fishery conferred by the order under section 1 of this Act;
+> - “relevant shellfish”, in relation to a private shellfish bed, means the shellfish in respect of which the owner of the bed has private rights independently of this Act.
+
+#### 211 Use of implements of fishing
+
+(1) Section 7 of the Sea Fisheries (Shellfish) Act 1967 (protection of fisheries) is amended as follows.
+
+(2) In subsection (4), at the end of paragraph (a)(ii) insert
+
+> or
+>
+> (iii) in the case of several fishery, an implement of a type specified by or under the order and so used as not to disturb or injure in any manner shellfish of the description in question or any bed for such shellfish or the fishery for such shellfish;
+
+.
+
+(3) After subsection (4) insert—
+
+> (4A) The power to specify a type of implement for the purposes of subsection (4)(a)(iii) of this section includes power to specify—
+>
+> (a) periods during which implements of that type may or may not be used;
+>
+> (b) parts of the area of the fishery with respect to which the right of several fishery is conferred in which implements of that type may or may not be used.
+>
+> The exception in subsection (4)(a)(iii) of this section does not apply in a case of a person who uses an implement otherwise than in accordance with provision made by virtue of this subsection.
+
+#### 212 Taking of crabs and lobsters for scientific purposes
+
+(1) Section 17 of the Sea Fisheries (Shellfish) Act 1967 (c. 83) (taking and sale of certain crabs and lobsters prohibited) is amended as follows.
+
+(2) In subsection (1), for “subsection (2)” substitute “ subsections (2) and (2A) ”.
+
+(3) After subsection (2) insert—
+
+> (2A) Any person who takes or has in his possession any edible crab falling within paragraph (a) or (b) of subsection (1) of this section shall not be guilty of an offence under that subsection if—
+>
+> (a) the crabs were taken from that part of the sea that is within British fishery limits and does not include the Scottish zone or the Northern Ireland zone,
+>
+> (b) the person has been granted authority by the appropriate body to take such crabs for the purpose of scientific investigation, and
+>
+> (c) the crabs were taken for that purpose and in accordance with such authority.
+
+(4) In subsection (3), for “and any person” substitute “ and, subject to subsection (3B) of this section, any person ”.
+
+(5) Before subsection (4) insert—
+
+> (3B) Any person who lands any lobster falling within subsection (3) of this section shall not be guilty of an offence under that subsection if—
+>
+> (a) the lobsters were taken from that part of the sea that is within British fishery limits and does not include the Scottish zone or the Northern Ireland zone,
+>
+> (b) the person has been granted authority by the appropriate body to take such lobsters for the purpose of scientific investigation, and
+>
+> (c) the lobsters were taken for that purpose and in accordance with such authority.
+
+(6) After subsection (5) insert—
+
+> (6) In this section—
+>
+> - “the appropriate body” means—
+>
+>   - (a) the Marine Management Organisation, in the case of crabs and lobsters taken from that part of the sea that is within British fishery limits and does not include—
+>   
+>     - (i) the Scottish zone,
+>     - (ii) the Northern Ireland zone, or
+>     - (iii) the Welsh zone;
+>   
+>   - (b) the Welsh Ministers, in the case of crabs and lobsters taken from the Welsh zone;
+>
+> - “British fishery limits” has the meaning given by section 1 of the Fishery Limits Act 1976;
+>
+> - “Northern Ireland zone” has the same meaning as in the Northern Ireland Act 1998;
+>
+> - “Welsh zone” has the same meaning as in the Government of Wales Act 2006.
+
+#### 213 Orders prohibiting the taking and sale of certain lobsters
+
+(1) Section 17 of the Sea Fisheries (Shellfish) Act 1967 (c. 83) (taking and sale of certain crabs and lobsters prohibited) is amended as set out in subsections (2) and (3) below.
+
+(2) In subsection (3) (orders prohibiting the taking and sale of certain lobsters), for the words from “If the Minister” to “England and Wales,” substitute “ If the appropriate national authority by order so directs, no person shall, in the part of the United Kingdom to which the order relates, ”.
+
+(3) For subsection (3A) substitute—
+
+> (3ZA) In subsection (3) of this section “the appropriate national authority” means—
+>
+> (a) in relation to England, the Secretary of State;
+>
+> (b) in relation to Wales, the Welsh Ministers;
+>
+> (c) in relation to Scotland, the Scottish Ministers.
+
+(4) In section 20(3) of that Act (procedure for orders made under section 17(3)), for the words from “shall be laid before Parliament” to the end substitute
+
+> shall—
+>
+> (a) in the case of an order in relation to England, be laid before Parliament;
+>
+> (b) in the case of an order in relation to Wales, be laid before the National Assembly for Wales;
+>
+> (c) in the case of an order in relation to Scotland, be laid before the Scottish Parliament.
+
+#### 214 Power to appoint inspector before making orders as to fisheries for shellfish
+
+(1) Schedule 1 to the Sea Fisheries (Shellfish) Act 1967 (provisions with respect to making of orders under section 1) is amended as follows.
+
+(2) In paragraph 4 (appointment of inspector)—
+
+(a) omit sub-paragraph (1);
+
+(b) in sub-paragraph (2), for “The appropriate Minister shall” substitute “ Where he considers it appropriate to do so, the appropriate Minister may ”.
+
+(3) Omit paragraph 5.
+
+(4) In paragraph 6, after “in paragraph 3 above or” insert “ , in a case where an inspector has been appointed under paragraph 4 above, ”.
+
+(5) The amendments made by this section do not apply in relation to any application made for an order under section 1 of that Act before the coming into force of this section.
+
+### Chapter 3 — Migratory and freshwater fish
+
+#### Taking fish etc
+
+##### 215 Prohibited implements
+
+(1) In the Salmon and Freshwater Fisheries Act 1975 (c. 51), section 1 (prohibited implements) is amended as follows.
+
+(2) In subsection (1), in paragraph (a)—
+
+(a) in sub-paragraph (iv) after “gaff,” insert “ tailer, ”;
+
+(b) for “salmon, trout or freshwater fish” substitute “ salmon, trout, eels, lampreys, smelt, shad, freshwater fish and any specified fish in any waters ”.
+
+(3) In that subsection, in paragraph (b), for “salmon, trout or freshwater fish” substitute “ any such fish in any waters ”.
+
+(4) In that subsection, in paragraph (c), for “any salmon, trout or freshwater fish” substitute “ any such fish in any waters ”.
+
+(5) After that subsection insert—
+
+> (1A) In this section “specified fish” means fish of such description as may be specified for the purposes of this section by order under section 40A below.
+>
+> (1B) The appropriate national authority may by order amend subsection (1)(a) above so as to—
+>
+> (a) add any instrument to it; or
+>
+> (b) remove any instrument for the time being specified in it.
+
+(6) After subsection (3) insert—
+
+> (3A) References in this section to any waters include waters adjoining the coast of England and Wales to a distance of six nautical miles measured from the baselines from which the breadth of the territorial sea is measured.
+
+(7) The following are omitted—
+
+(a) in subsection (1), the words “Subject to subsection (4) below,”;
+
+(b) subsection (4).
+
+##### 216 Roe etc
+
+(1) Section 2 of the Salmon and Freshwater Fisheries Act 1975 (c. 51) (roe, spawning and unclean fish, etc) is amended as follows.
+
+(2) In subsection (1)—
+
+(a) for “salmon, trout or freshwater fish” substitute “ salmon, trout, eels, lampreys, smelt, shad, freshwater fish or any specified fish in any waters ”;
+
+(b) in paragraph (b), for “any roe of salmon or trout” substitute “ any fish roe ”.
+
+(3) In subsection (2)—
+
+(a) after “subsections (3)” insert “ , (3A) ”;
+
+(b) in paragraph (a), for “salmon, trout or freshwater fish” substitute “ salmon, trout, lamprey, smelt, shad, freshwater fish or specified fish in any waters ”;
+
+(c) in paragraph (b), for “any salmon, trout or freshwater fish” substitute “ any such fish ”.
+
+(4) After subsection (3) insert—
+
+> (3A) Subsection (2) above does not apply where a person takes an immature freshwater fish in circumstances prescribed by byelaws.
+
+(5) In subsection (5), for “salmon, trout or freshwater fish” substitute “ fish of any description ”.
+
+(6) After that subsection insert—
+
+> (6) In this section “specified fish” means fish of such description as may be specified for the purposes of this section by order under section 40A below.
+>
+> (7) Subsection (3A) of section 1 above applies for the purposes of this section.
+
+##### 217 Licences to fish
+
+(1) In section 25 of the Salmon and Freshwater Fisheries Act 1975 (licences to fish), for subsection (1) substitute—
+
+> (1) The Agency shall by means of a system of licensing regulate fishing by licensable means of fishing for—
+>
+> (a) salmon, trout, eels, lampreys, smelt and freshwater fish; and
+>
+> (b) fish of such other description as may be specified for the purposes of this section by order under section 40A below.
+>
+> (1A) In this Act “licensable means of fishing” means any of the following—
+>
+> (a) rod and line;
+>
+> (b) an historic installation;
+>
+> (c) such other means of fishing as the appropriate national authority may by order specify.
+>
+> (1B) In this Act “historic installation” means any of the following—
+>
+> (a) a fixed engine certified in pursuance of the Salmon Fishery Act 1865 to be a privileged fixed engine;
+>
+> (b) a fixed engine which was in use for taking salmon or migratory trout during the open season of 1861, in pursuance of an ancient right or mode of fishing as lawfully exercised during that open season, by virtue of any grant or charter or immemorial usage;
+>
+> (c) a fishing weir or fishing mill dam which was lawfully in use on 6th August 1861 by virtue of a grant or charter or immemorial usage.
+
+(2) In that section, in subsection (2), after “area or areas” insert “ (or in waters of such description or descriptions) ”.
+
+(3) In that section, in subsection (4), the words from “gaff” to “tailer or” are omitted.
+
+(4) In that section, subsections (5) and (6) are omitted.
+
+(5) In that section, at the end insert—
+
+> (10) For the purposes of this Part, the Agency may permit a person to take fish of any description in circumstances where he would for those purposes otherwise require a fishing licence.
+>
+> (11) Permission under subsection (10) above—
+>
+> (a) must be in writing;
+>
+> (b) may be given generally or specifically;
+>
+> (c) may be given subject to conditions.
+
+(6) In Schedule 2 to that Act (licences)—
+
+(a) in paragraph 11, the words from “together” to the end are omitted;
+
+(b) paragraph 12 is omitted.
+
+(7) In that Schedule, after paragraph 14 insert—
+
+> **14A Historic installations**
+>
+> (1) Where a fishing licence is granted in respect of an historic installation, the Agency may at any time, subject to this paragraph, impose conditions on its use pursuant to the licence.
+>
+> (2) Conditions under sub-paragraph (1) above are to be imposed by notice in writing to the person holding the licence.
+>
+> (3) A notice under sub-paragraph (1) above may be varied or revoked by a further such notice.
+>
+> (4) The Agency may only impose conditions under sub-paragraph (1) above where it considers that it is necessary to do so for the protection of any fishery.
+
+##### 218 Limitation of licences
+
+(1) Section 26 of the Salmon and Freshwater Fisheries Act 1975 (c. 51) (limitation of fishing licences) is amended as follows.
+
+(2) In subsection (1)—
+
+(a) at the beginning insert “ Subject to this section ”;
+
+(b) in paragraph (a), for the words from “to be issued” to “rod and line” substitute “ of any description to be issued pursuant to section 25 above in any year in relation to that area or those areas ”.
+
+(3) After that subsection insert—
+
+> (1A) The Agency may only make an order under subsection (1) above in relation to licences for fishing for fish of any description if it is satisfied that it is necessary to do so for the purposes of—
+>
+> (a) maintaining, improving or developing fisheries of any fish referred to in section 25(1) above; or
+>
+> (b) protecting the marine or aquatic environment from significant harm.
+>
+> (1B) The Agency may not make an order under subsection (1) above in relation to licences for fishing for fish by—
+>
+> (a) rod and line; or
+>
+> (b) an historic installation.
+
+(4) In subsection (3), for “shall cause” substitute “ may cause ”.
+
+(5) For subsections (4) and (5) substitute—
+
+> (4) If it appears to the Agency that an order under this section would prevent a person from fishing in circumstances where that person is wholly dependent on the fishing for his livelihood, the Agency may pay that person such amount by way of compensation as it considers appropriate.
+
+##### 219 Authorisation to fish
+
+(1) In the Salmon and Freshwater Fisheries Act 1975 (c. 51), in the heading to Part 4, after “Fishing licences” insert “ and authorisations ”.
+
+(2) After section 27 of that Act insert—
+
+> **27A Authorisation of fishing otherwise than by licensable means**
+>
+> (1) The Agency may authorise a person to use any means, other than a licensable means of fishing, to fish for—
+>
+> (a) salmon, trout, eels, lampreys, smelt and freshwater fish; and
+>
+> (b) fish of such other description as may be specified for the purposes of this section by order under section 40A below.
+>
+> (2) An application for an authorisation under this section must be in such form as the Agency may specify.
+>
+> (3) An authorisation under this section must be in writing, but subject to that may be in such form as the Agency may determine.
+>
+> (4) An authorisation under this section—
+>
+> (a) must be granted for a specified period of time;
+>
+> (b) may be granted to more than one person;
+>
+> (c) may be limited as to the waters in respect of which it is granted;
+>
+> (d) may be subject to conditions.
+>
+> (5) The Agency may at any time, on application or on its own initiative—
+>
+> (a) amend an authorisation under this section;
+>
+> (b) revoke an authorisation under this section.
+>
+> (6) In determining whether to grant, amend or revoke an authorisation the Agency must consider the effect of doing so on—
+>
+> (a) fisheries in the area to which the authorisation relates; and
+>
+> (b) the aquatic or marine environment in that area.
+>
+> (7) An authorisation under this section granted to a body corporate—
+>
+> (a) may, if the authorisation so specifies, apply in relation to any individual acting on behalf of that body (as well as to the body corporate); or
+>
+> (b) may, if the authorisation so specifies, apply only in relation to individuals named in the authorisation when acting on behalf of the body (as well as to the body corporate).
+>
+> (8) The Agency may charge a fee for the grant of an authorisation under this section.
+>
+> (9) Where the Agency determines standard fees for the grant of authorisations of particular descriptions, it must publish them.
+>
+> (10) Where—
+>
+> (a) the Agency has determined a standard fee for the grant of an authorisation of a particular description, but
+>
+> (b) the Agency considers, in any case, that special circumstances apply to the grant of an authorisation of that description,
+>
+> it may charge a fee of another amount.
+>
+> **27B Unauthorised fishing etc**
+>
+> (1) A person is guilty of an offence if, by any means other than a licensable means of fishing, he fishes for or takes any fish in circumstances where—
+>
+> (a) the fishing or taking may be authorised under section 27A above, but
+>
+> (b) he is not authorised to fish for or take the fish under that section (or is so authorised but the fishing or taking is in breach of any condition of his authorisation).
+>
+> (2) A person is guilty of an offence if he has an instrument in his possession, other than an instrument which is a licensable means of fishing, with intent to use it to fish for or take fish in circumstances where—
+>
+> (a) the fishing or taking may be authorised under section 27A above, but
+>
+> (b) he is not authorised to fish for or take the fish under that section (or is so authorised but the fishing or taking would be in breach of any condition of an authorisation under that section).
+
+(3) In Schedule 4 to that Act (offences), in the table in paragraph 1(2), at the end insert—
+
+> |  |  |  |  |
+> |---|---|---|---|
+> | Section 27B | Unauthorised fishing etc | (a) Summarily (b) On indictment | A fine not exceeding £50,000. A fine. |
+
+##### 220 Enforcement
+
+(1) Part 5 of the Salmon and Freshwater Fisheries Act 1975 (c. 51) (administration and enforcement) is amended as follows.
+
+(2) In section 31 (powers of search), in subsection (1)—
+
+(a) in paragraph (b), the words “in contravention of this Act” are omitted;
+
+(b) in paragraph (c)(i), the words “which has been caught in contravention of this Act” are omitted;
+
+(c) in paragraph (d) after “fish” insert “ (or a sample of any fish) ”;
+
+(d) after paragraph (d) insert—
+
+> (e) may disable or destroy any dam, fishing weir, fishing mill dam or fixed engine which he has reasonable cause to suspect of having operated or been used, or of being likely to be used, in contravention of this Act.
+
+(3) In section 32 (power to enter lands), subsection (1)(ii) and the preceding “or” are omitted.
+
+(4) In section 33 (orders and warrants to enter suspected premises), in subsection (2), for the words from “seize” to the end substitute—
+
+> (a) seize any illegal net or other instrument, or any net or other instrument suspected to have been illegally used, that may be found on the premises;
+>
+> (b) seize any fish suspected to have been illegally taken or sold that may be found on the premises; or
+>
+> (c) disable or destroy any dam, fishing weir, fishing mill dam or fixed engine suspected to have operated or been used illegally that may be found on the premises.
+
+(5) In that section, in subsection (3), for “one week” substitute “ three months ”.
+
+(6) In section 34 (power to apprehend persons fishing illegally etc)—
+
+(a) in the heading, the words “at night” are omitted;
+
+(b) the words from “between the end” to “following morning” are omitted.
+
+(7) In section 35 (power to require production of fishing licences), in subsection (1)—
+
+(a) for “being about to” substitute “ intending to ”;
+
+(b) for “to have within the preceding half hour” substitute “ of having recently ”;
+
+(c) after “in any area,” insert “ in circumstances where the fishing would require a licence or authorisation under this Act or a licence under section 16 of the Wildlife and Countryside Act 1981, ”.
+
+(8) In that section, subsection (2) is omitted.
+
+[^F176]9 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### 221 Power to specify fish
+
+(1) After section 40 of the Salmon and Freshwater Fisheries Act 1975 (c. 51) insert—
+
+> **40A Power to specify fish**
+>
+> The appropriate national authority may by order specify fish of any description for the purposes of any or all of the following—
+>
+> (a) section 1, 2, 25 or 27A above;
+>
+> (b) section 32 of the Salmon Act 1986;
+>
+> (c) paragraph 6 of Schedule 25 to the Water Resources Act 1991;
+>
+> (d) section 6(6) of the Environment Act 1995.
+
+(2) In section 41 of that Act (interpretation), in subsection (1), after the definition of “the Agency” insert—
+
+> “the appropriate national authority” means—
+>
+> (a) the Secretary of State, except in relation to Wales (within the meaning of the Government of Wales Act 2006);
+>
+> (b) in relation to Wales (within that meaning), the Welsh Ministers;
+
+.
+
+##### 222 Order-making powers: supplementary
+
+After section 40A of the Salmon and Freshwater Fisheries Act 1975 (as inserted by section 221 above) insert—
+
+> **40B Orders: supplementary**
+>
+> (1) An order under section 1, 25 or 40A above may make different provision for different purposes (and, in particular, different provision in relation to different areas or waters).
+>
+> (2) Such an order is to be made by statutory instrument.
+>
+> (3) A statutory instrument containing such an order is subject to annulment in pursuance of a resolution of—
+>
+> (a) either House of Parliament, in the case of an order made by the Secretary of State;
+>
+> (b) the National Assembly for Wales, in the case of an order made by the Welsh Ministers.
+
+##### 223 Definitions relating to fish
+
+(1) In section 41 of the Salmon and Freshwater Fisheries Act 1975 (interpretation), subsection (1) is amended as follows.
+
+(2) For the definition of “eels” substitute—
+
+> “eels” means any fish of the species *Anguilla anguilla*, and includes elvers and the fry of eels;
+
+.
+
+(3) After that definition insert—
+
+> - “fish” includes crustaceans and molluscs;
+
+.
+
+(4) After the definition of “foreshore” insert—
+
+> “freshwater crayfish” means any freshwater decapod crustacean of the Families Astacidae, Cambaridae or Parastacidae;
+
+.
+
+(5) For the definition of “freshwater fish” substitute—
+
+> “freshwater fish” means any fish habitually living in fresh water, exclusive of—
+>
+> (a) salmon, trout, eels, lampreys, smelt and any other fish of a kind which migrates from fresh to salt water, or from salt to fresh water, in order to spawn;
+>
+> (b) any kind of crustacean other than freshwater crayfish and Chinese mitten crabs (*Eriocheir sinensis*); and
+>
+> (c) any kind of mollusc;
+
+.
+
+(6) After the definition of “screen” insert—
+
+> “smelt” means any fish of the species *Osmerus eperlanus*;
+
+.
+
+#### Byelaws
+
+##### 224 Power to make byelaws
+
+(1) In Schedule 25 to the Water Resources Act 1991 (c. 57) (byelaw-making powers of the Agency), paragraph 6 (byelaws for purposes of fisheries functions) is amended as follows.
+
+(2) In sub-paragraph (1), in paragraph (b), for the words from “salmon fisheries” to the end substitute “ fisheries of fish to which this paragraph applies. ”
+
+(3) After that sub-paragraph insert—
+
+> (1A) This paragraph applies to—
+>
+> (a) salmon, trout, eels, lampreys, smelt, shad and freshwater fish; and
+>
+> (b) fish of such other description as may be specified for the purposes of this paragraph by order under section 40A of the Salmon and Freshwater Fisheries Act 1975.
+
+(4) In sub-paragraph (2), after paragraph (a) insert—
+
+> (aa) specifying close seasons or times for the taking of any fish to which this paragraph applies by such means as may be prescribed by the byelaws;
+
+.
+
+(5) In that sub-paragraph, in paragraph (b)(i), after “size” insert “ greater or ”.
+
+(6) In that sub-paragraph, in paragraph (e) at the end insert “ (including requiring fixed engines during close seasons or times to be removed or made incapable of taking or obstructing the passage of fish) ”.
+
+(7) Sub-paragraph (3) is omitted.
+
+(8) Sub-paragraph (4) is omitted.
+
+(9) After sub-paragraph (5) insert—
+
+> (5A) A byelaw under this paragraph does not apply to a person (including an employee or agent of the Agency) to the extent that he is acting—
+>
+> (a) with the written authority of the Agency; and
+>
+> (b) in accordance with any conditions imposed by the Agency in relation to that authority.
+>
+> (5B) For the avoidance of doubt, a byelaw under this paragraph may apply to an historic installation as to any other fixed engine.
+
+(10) Any byelaw made by the Environment Agency under paragraph 6(3) of that Schedule and in force immediately before the coming into force of subsection (7) above shall in relation to any period after the coming into force of that subsection be regarded as having been made under paragraph 6(2) of that Schedule, as amended by this section.
+
+##### 225 Byelaws: emergency procedures
+
+(1) In the Water Resources Act 1991 (c. 57), in section 210 (byelaw-making powers of the Agency) at the end insert—
+
+> (3) Schedule 27 to this Act (emergency fisheries byelaws) shall have effect.
+
+(2) In that Act, after Schedule 26 insert—
+
+> **Schedule 27 — Emergency fisheries byelaws**
+>
+> *Section 210(3)*
+>
+> **Emergency fisheries byelaws**
+>
+> **1** (1) In this Schedule, “emergency fisheries byelaw” means a byelaw made under paragraph 6 of Schedule 25 to this Act (fisheries) in the circumstances in sub-paragraph (2) below.
+>
+> (2) The circumstances are that—
+>
+> (a) the Agency considers that, because of any event or likely event, harm is occurring or is likely to occur to—
+>
+> (i) any fish to which paragraph 6 of Schedule 25 to this Act applies or to the spawn, gametes or food of any such fish, or
+>
+> (ii) the marine or coastal, or aquatic or waterside, environment,
+>
+> (b) the Agency considers that the byelaw would prevent or limit that harm, or would be reasonably likely to do so,
+>
+> (c) the Agency considers that for that purpose there is a need for the byelaw to come into force as a matter of urgency, and
+>
+> (d) the event or the likelihood of the event could not reasonably have been foreseen.
+>
+> (3) Schedule 26 to this Act (procedure relating to byelaws made by the Agency) does not apply in relation to an emergency fisheries byelaw.
+>
+> (4) In sub-paragraph (2)(a), the reference to harm to the marine or coastal, or aquatic or waterside, environment is to—
+>
+> (a) harm to the natural beauty or amenity of marine or coastal, or aquatic or waterside, areas (including their geological or physiographical features) or to any features of archaeological or historic interest in such areas, or
+>
+> (b) harm to flora or fauna which are dependent on or associated with the marine or coastal, or aquatic or waterside, environment.
+>
+> **Commencement**
+>
+> **2** An emergency fisheries byelaw comes into force—
+>
+> (a) on the date specified in the byelaw, or
+>
+> (b) if no date is so specified, on the day after that on which it is made.
+>
+> **Notification of the appropriate national authority**
+>
+> **3** The Agency must, within 24 hours of making an emergency fisheries byelaw—
+>
+> (a) send a copy of the byelaw to the appropriate national authority, and
+>
+> (b) explain to the appropriate national authority why the byelaw is being made as an emergency fisheries byelaw.
+>
+> **Publication**
+>
+> **4** The Agency must publish notice of the making of an emergency fisheries byelaw (including a copy of the byelaw)—
+>
+> (a) in the London Gazette;
+>
+> (b) where the byelaw has effect in Wales, in the Welsh language in such manner as the Agency thinks appropriate;
+>
+> (c) in such other manner as it thinks appropriate for the purpose of bringing the byelaw to the attention of persons likely to be affected by it.
+>
+> **Amendment and revocation**
+>
+> **5** (1) If at any time the appropriate national authority is satisfied that an emergency fisheries byelaw would better serve to prevent or limit the harm referred to in paragraph 1(2)(a) above if it were amended, the authority must amend it accordingly.
+>
+> (2) If at any time the appropriate national authority is satisfied that an emergency fisheries byelaw is no longer needed in order to prevent or limit the harm referred to in paragraph 1(2)(a) above, the authority must revoke it.
+>
+> (3) The Agency must publish notice of an amendment or revocation under this paragraph as specified in paragraph 4(a) to (c) above.
+>
+> **Expiry and extension**
+>
+> **6** (1) Subject to paragraph 7 below, an emergency fisheries byelaw expires (unless earlier revoked)—
+>
+> (a) in accordance with provision made by the byelaw, or
+>
+> (b) if the byelaw does not contain provision for its expiry, at the end of the period of twelve months beginning with the day on which it comes into force.
+>
+> (2) A byelaw may not under sub-paragraph (1)(a) above remain in force for longer than the period of twelve months beginning with the day on which it comes into force.
+>
+> **7** (1) The Agency may, at any time before an emergency fisheries byelaw expires, apply to the appropriate national authority for it to be extended.
+>
+> (2) On such an application, the appropriate national authority may extend the byelaw at any time before its expiry, provided the authority is satisfied that—
+>
+> (a) the byelaw is still needed to prevent or limit the harm referred to in paragraph 1(2)(a) above, and
+>
+> (b) the need for the extension could not reasonably have been avoided by the Agency.
+>
+> (3) A byelaw may be extended under sub-paragraph (2) above for such period not exceeding six months as the appropriate national authority may specify.
+>
+> (4) A byelaw may not be extended under sub-paragraph (2) above on more than one occasion.
+>
+> **Availability**
+>
+> **8** (1) Every emergency fisheries byelaw shall be printed and deposited at one or more of the offices of the Agency, including (if there is one) at an office in the area to which the byelaw applies; and copies of the byelaw shall be available at those offices, at all reasonable times, for inspection by the public free of charge.
+>
+> (2) Every person shall be entitled, on application to the Agency and on payment of such reasonable sum as the Agency may determine, to be furnished with a copy of any emergency fisheries byelaw so deposited by the Agency.
+>
+> **Proof**
+>
+> **9** The production of a printed copy of an emergency fisheries byelaw purporting to be made by the Agency upon which is indorsed a certificate, purporting to be signed on its behalf, stating—
+>
+> (a) that the byelaw was made by the Agency, and
+>
+> (b) that the copy is a true copy of the byelaw,
+>
+> shall be prima facie evidence of the facts stated in the certificate, and without proof of the handwriting or official position of any person purporting to sign the certificate.
+>
+> **“Appropriate national authority”**
+>
+> **10** In this Schedule “appropriate national authority” has the same meaning as in the Salmon and Freshwater Fisheries Act 1975.
+
+##### 226 Byelaws: enforcement
+
+In section 211 of the Water Resources Act 1991 (c. 57) (enforcement of byelaws), in subsection (3), for the words from “to a fine” to the end substitute—
+
+> (a) in the case of byelaws made by virtue of paragraph 4, to a fine not exceeding level 4 on the standard scale or such smaller sum as may be specified in the byelaws;
+>
+> (b) in the case of byelaws made by virtue of paragraph 6, to a fine not exceeding £50,000.
+
+##### 227 Byelaws: compensation
+
+(1) Section 212 of the Water Resources Act 1991 (compensation in respect of certain fisheries byelaws) is amended as follows.
+
+(2) In subsection (1), for the words from “the claim” to the end substitute “ the Agency may pay that person such amount by way of compensation as it considers appropriate. ”
+
+(3) Subsection (3) is omitted.
+
+#### Supplementary
+
+##### 228 Theft of fish from private fisheries etc
+
+(1) In the Theft Act 1968 (c. 60), in Schedule 1 (offences of taking or destroying fish), paragraph 2 is amended as follows.
+
+(2) For sub-paragraph (1) substitute—
+
+> (1) A person who unlawfully takes or destroys, or attempts to take or destroy, any fish in water which is private property or in which there is any private right of fishery shall on summary conviction be liable to a fine not exceeding level 5 on the standard scale.
+
+(3) Sub-paragraph (2) is omitted.
+
+(4) In sub-paragraph (3), for “this paragraph” substitute “ sub-paragraph (1) above ”.
+
+##### 229 Handling fish
+
+(1) Section 32 of the Salmon Act 1986 (c. 62) (handling salmon in suspicious circumstances) is amended as follows.
+
+(2) In the heading, for “salmon” substitute “ fish ”.
+
+(3) In subsection (1)—
+
+(a) for “any salmon” substitute “ any fish to which this section applies ”;
+
+(b) for “the salmon” substitute “ that fish ”;
+
+(c) the words “by or for the benefit of another person” are omitted.
+
+(4) After that subsection insert—
+
+> (1A) This section applies to—
+>
+> (a) salmon, trout, eels, lampreys, smelt and freshwater fish; and
+>
+> (b) fish of such other description as may be specified for the purposes of this section by order under section 40A of the Salmon and Freshwater Fisheries Act 1975.
+
+(5) In subsection (2)—
+
+(a) for “a salmon” substitute “ a fish to which this section applies ”;
+
+(b) in paragraph (a)—
+
+(i) after “or landing” insert “ , or selling, ”;
+
+(ii) for “that salmon” substitute “ that fish ”;
+
+(c) in paragraph (b)—
+
+(i) for “that salmon” substitute “ that fish ”;
+
+(ii) after “or landed,” insert “ or sold, ”.
+
+(6) In subsection (3), for “salmon” substitute “ fish ”.
+
+(7) In subsection (4), for “salmon” substitute “ fish to which this section applies ”.
+
+(8) In subsection (5)—
+
+(a) in paragraph (a), for the words from “to imprisonment” to the end substitute “ to a fine not exceeding the statutory maximum ”;
+
+(b) in paragraph (b), for the words from “to imprisonment” to the end substitute “ to a fine ”.
+
+(9) In subsection (7)—
+
+(a) after “or landing” insert “ , or selling, ”
+
+(b) for “a salmon” substitute “ a fish to which this section applies ”;
+
+(c) for “the salmon” substitute “ the fish ”;
+
+(d) at the end insert “ or sold ”.
+
+(10) At the end insert—
+
+> (8) In this section “salmon”, “trout”, “eels”, “smelt”, “fish” and “freshwater fish” have the same meanings as in the Salmon and Freshwater Fisheries Act 1975.
+
+##### 230 Duties of the Environment Agency
+
+(1) Section 6 of the Environment Act 1995 (c. 25) (general duties of the Agency) is amended as follows.
+
+(2) In subsection (6), for the words from “salmon” to the end substitute “fisheries of—
+
+(a) salmon, trout, eels, lampreys, smelt and freshwater fish, and
+
+(b) fish of such other description as may be specified for the purposes of this subsection by order under section 40A of the Salmon and Freshwater Fisheries Act 1975”.
+
+(3) In subsection (8), at the end insert—
+
+> “salmon”, “trout”, “eels”, “smelt”, “fish” and “freshwater fish” have the same meanings as in the Salmon and Freshwater Fisheries Act 1975
+
+##### 231 Tweed and Esk fisheries
+
+(1) Section 111 of the Scotland Act 1998 (c. 46) (regulation of Tweed and Esk fisheries) is amended as follows.
+
+(2) In subsection (1), for “salmon, trout, eels and freshwater fish” substitute “ salmon, trout, eels, lampreys, smelt, shad and freshwater fish ”.
+
+(3) In subsection (4), in the definition of “conservation”, for “salmon, trout, eels and freshwater fish,” substitute “ salmon, trout, eels, lampreys, smelt, shad and freshwater fish, ”.
+
+(4) In subsection (4), in the definition of “eels”, “freshwater fish”, “salmon” and “trout”—
+
+(a) after “ “eels”,” insert “fish”, ”;
+
+(b) after “ “salmon”” insert “ , “smelt” ;
+
+(c) after “Salmon and Freshwater Fisheries Act 1975” insert “ (as amended by the Marine and Coastal Access Act 2009) ”.
+
+(5) At the end insert—
+
+> (6) An Order under subsection (1) may amend that subsection so as to—
+>
+> (a) add any description of fish to it, or
+>
+> (b) remove any description of fish from it.
+
+##### 232 Keeping, introduction and removal of fish
+
+(1) The appropriate national authority may by regulations make provision for the purpose of prohibiting persons, in such cases as may be specified in the regulations, from carrying on any of the activities specified in subsection (2) otherwise than under and in accordance with a permit issued by [[^F177]the appropriate agency].
+
+(2) The activities referred to in subsection (1) are—
+
+(a) keeping any fish in the area to which this section applies;
+
+(b) introducing any fish into any inland waters in that area;
+
+(c) removing any fish from any inland waters in that area.
+
+(3) The area to which this section applies is the area consisting of—
+
+(a) England,
+
+(b) Wales, and
+
+(c) so much of the catchment area of the River Esk as is in Scotland.
+
+(4) The references in subsection (2)(b) and (c) to inland waters do not include the River Tweed.
+
+(5) Regulations made under this section may in particular—
+
+(a) make provision as to the descriptions of permits to be issued;
+
+(b) specify the manner and form of an application for a permit from [[^F178]the appropriate agency] to carry out any activity specified in subsection (2) and the sum, or maximum sum, to be paid on the making of such an application;
+
+(c) specify the circumstances in which such an application is to be granted or refused and any considerations which [[^F178]the appropriate agency] may or must take into account when determining whether or not to issue such a permit;
+
+(d) specify the conditions that may be incorporated into such a permit;
+
+(e) make provision for the amendment, suspension or revocation of such a permit;
+
+(f) make provision authorising [[^F178]the appropriate agency] to exempt persons from any requirement under the regulations to obtain such a permit;
+
+(g) make provision as to the effect of a prohibition under regulations made under this section on fishing pursuant to any licence, authorisation, permission, or right to fish;
+
+(h) make provision enabling [[^F178]the appropriate agency] to require a person in breach of any requirement under regulations made under this section, or in breach of any condition of a permit under such regulations—
+
+(i) to take steps to ensure that the position is, so far as possible, restored to what it would have been had there been no such breach;
+
+(ii) to allow [[^F178]the appropriate agency] to take such steps;
+
+(iii) to pay to [[^F178]the appropriate agency] a sum representing reasonable expenses of any such steps taken or to be taken by [[^F179]the appropriate agency];
+
+(i) make provision creating criminal offences for the purpose of securing compliance with regulations made under this section or of any requirements under paragraph (h);
+
+(j) make other provision for the enforcement of requirements under the regulations, including provision conferring the following powers on [[^F180]the appropriate agency]—
+
+(i) powers of entry;
+
+(ii) powers of search and seizure;
+
+(iii) powers to destroy or release any fish seized.
+
+(6) Provision under subsection (5)(a) may specify that a permit may be issued—
+
+(a) in respect of one or more of the activities specified in subsection (2);
+
+(b) in relation to the carrying on of any one or more of those activities on one occasion or more than one occasion;
+
+(c) for periods of limited or unlimited duration.
+
+(7) Provision under subsection (5)(i) must provide that where a person is guilty of an offence created under that subsection, the person is liable—
+
+(a) on summary conviction, to [^F181]a fine not exceeding £50,000[[^F181]a fine, the amount of which may be limited by the regulations];
+
+(b) on conviction on indictment, to a fine.
+
+(8) In this section—
+
+- [[^F182]“appropriate agency” means—
+
+  - the Environment Agency, otherwise than in relation to Wales, and
+  - the Natural Resources Body for Wales, in relation to Wales;]
+
+- “appropriate national authority” means—
+
+  - (a) the Secretary of State, otherwise than in relation to Wales;
+  - (b) the Welsh Ministers, in relation to Wales;
+
+- references to “fish” include the spawn of fish;
+
+- “inland waters” has the same meaning as in the Water Resources Act 1991 (c. 57);
+
+- “River Tweed” means “the river” within the meaning of the Tweed Fisheries Amendment Act 1859 (c. lxx), as amended by byelaws.
+
+##### 233 Consequential and supplementary amendments
+
+(1) Schedule 16 (which contains consequential and supplementary amendments relating to this Chapter) has effect.
+
+(2) The following provisions of the Salmon and Freshwater Fisheries Act 1975 (c. 51) (which are obsolete or no longer of practical utility) are omitted—
+
+(a) in section 4 (poisonous matter etc), subsection (2);
+
+(b) section 23 (export of salmon and trout);
+
+(c) section 24 (consignment of salmon and trout).
+
+### Chapter 4 — Obsolete fisheries enactments
+
+#### 234 Repeal of spent or obsolete enactments
+
+The following enactments are repealed—
+
+(a) the White Herring Fisheries Act 1771 (c. 31);
+
+(b) the Seal Fishery Act 1875 (c. 18);
+
+(c) section 13 of the Fisheries Act 1891 (c. 37) (proceedings for enforcement of Acts relating to salmon and freshwater fisheries);
+
+(d) the North Sea Fisheries Act 1893 (c. 17);
+
+(e) the Behring Sea Award Act 1894 (c. 2);
+
+(f) the Seal Fisheries (North Pacific) Act 1895 (c. 21);
+
+(g) the Seal Fisheries (North Pacific) Act 1912 (c. 10);
+
+(h) sections 86, 87 and 163 of the Port of London Act 1968 (c. xxxii) (powers of Port of London Authority in relation to fisheries).
+
+## Part 8 — Enforcement
+
+### Chapter 1 — Enforcement officers
+
+#### Marine enforcement officers
+
+##### 235 Marine enforcement officers
+
+(1) In this Chapter “marine enforcement officer” means—
+
+(a) any person appointed as such an officer by the MMO;
+
+(b) any person appointed as such an officer by the Welsh Ministers;
+
+(c) any person who is a commissioned officer of any of Her Majesty's ships;
+
+(d) any person in command or charge of any aircraft or hovercraft of the Royal Navy, the Army or the Royal Air Force.
+
+(2) The carrying out of any functions of a marine enforcement officer by a person appointed under this section by the MMO or the Welsh Ministers (a “civilian marine enforcement officer”) is subject to any limitations specified by the MMO or (as the case may be) the Welsh Ministers in relation to that person.
+
+(3) Until the coming into force of section 1, any power conferred on the MMO by this section is exercisable by the Secretary of State.
+
+Any reference in this Chapter to a marine enforcement officer includes a reference to any person appointed by the Secretary of State as a marine enforcement officer by virtue of this subsection.
+
+##### 236 Enforcement of marine licensing regime
+
+(1) For the purposes of enforcing Part 4 of this Act, a marine enforcement officer has—
+
+(a) the common enforcement powers conferred by this Act;
+
+(b) the power conferred by section 263.
+
+This is subject to subsection (2).
+
+(2) A marine enforcement officer does not have the powers referred to in subsection (1) for the purposes of enforcing Part 4 of this Act so far as relating to—
+
+(a) any activity in Wales[[^F183], the Welsh inshore region or the Welsh offshore region] concerning or arising from the exploration for, or production of, petroleum;
+
+[[^F184](aa) any activity in the Welsh offshore region falling within the subject-matter of Part 6 of the Merchant Shipping Act 1995 (pollution etc);]
+
+(b) anything done in the course of taking installation abandonment measures in any other part of the relevant enforcement area.
+
+(3) Subject to subsection (8), the powers which a marine enforcement officer has for the purposes of enforcing Part 4 of this Act may be exercised—
+
+(a) in the relevant enforcement area (and in relation to any vessel, aircraft or marine structure in that area);
+
+(b) in relation to any vessel or marine structure outside the UK marine area which was loaded within the relevant enforcement area;
+
+(c) in relation to any British vessel, British aircraft or British marine structure outside the UK marine area;
+
+(d) in Scotland or the Scottish inshore region, in relation to an offence which the officer reasonably believes has been committed—
+
+(i) within the relevant enforcement area, or
+
+(ii) outside the UK marine area and in circumstances where a vessel, aircraft or marine structure referred to in paragraph (b) or (c) was involved in the commission of the offence;
+
+(e) in relation to any vessel, aircraft or marine structure in the Scottish offshore region which has been pursued there in accordance with subsection (4).
+
+(4) A vessel, aircraft or marine structure is pursued in accordance with this subsection if—
+
+(a) immediately before the pursuit of the vessel, aircraft or structure commences, the vessel, aircraft or structure is in the relevant enforcement area,
+
+(b) before the pursuit of the vessel, aircraft or structure commences, a signal is given for it to stop, and
+
+(c) the pursuit of the vessel, aircraft or structure is not interrupted.
+
+(5) The signal referred to in subsection (4)(b) must be given in such a way as to be audible or visible from the vessel, aircraft or structure in question.
+
+(6) For the purposes of subsection (4)(c), pursuit is not interrupted by reason only of the fact that—
+
+(a) the method of carrying out the pursuit, or
+
+(b) the identity of the vessel or aircraft carrying out the pursuit,
+
+changes during the course of the pursuit.
+
+(7) Nothing in this section affects any right of hot pursuit which a marine enforcement officer may have under international law.
+
+(8) The powers which a civilian marine enforcement officer has for the purposes of enforcing Part 4 of this Act may not be exercised in relation to any British warship.
+
+(9) In this section—
+
+- “installation abandonment measures” means any measures taken in connection with the abandonment of—
+
+  - (a) an offshore installation or submarine pipeline, within the meaning of Part 4 of the Petroleum Act 1998 (c. 17), or
+  - (b) a carbon storage installation, within the meaning of section 30 of the Energy Act 2008 (c. 32),
+
+  whether or not the measures are taken in pursuance of an abandonment programme;
+
+- “abandonment programme” means—
+
+  - (a) an abandonment programme under Part 4 of the Petroleum Act 1998;
+  - (b) an abandonment programme under that Part, as it applies by virtue of section 30 of the Energy Act 2008;
+
+- “the relevant enforcement area” means the area that consists of—
+
+  - (a) England and Wales and Northern Ireland, and
+  - (b) the UK marine licensing area, excluding the Scottish offshore region.
+
+(10) Any term used in this section and in Part 4 of this Act has the same meaning in this section as it has in that Part.
+
+##### 237 Enforcement of nature conservation [[^F185]or fisheries exploitation] legislation
+
+(1) For the purposes of enforcing the nature conservation legislation [[^F186]or the fisheries exploitation legislation], a marine enforcement officer has the common enforcement powers conferred by this Act.
+
+(2) In this section “the nature conservation legislation” means—
+
+(a) sections 1 and 2 of the Conservation of Seals Act 1970 (c. 30), and any orders made under section 3 of that Act;
+
+(b) sections 1, 5 to 7, 9, 11, 13, 14 and 14ZA of the Wildlife and Countryside Act 1981 (c. 69);
+
+[^F187]c . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F187]d . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[[^F188](e) the Conservation of Offshore Marine Habitats and Species Regulations 2017 (S.I. 2017/1013);]
+
+(f) any byelaws made under section 129 or [[^F189]132(1)] of this Act;
+
+(g) any orders made under section 134 or [[^F190]136(1)] of this Act;
+
+(h) section 140 of this Act.
+
+[[^F191](i) regulations 43, 45, 47, 54, 59, 60 and 122(1) and (2) of the Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012);
+
+(j) any byelaws or orders made by virtue of regulation 32 or 40 of those Regulations.]
+
+[[^F192](2A) In this section “the fisheries exploitation legislation” means—
+
+(a) any byelaws made under section 129A, 129B or 132(1A) of this Act;
+
+(b) any orders made under section 134A, 134B, 136(1A), 137A, 137C, 137E or 137G of this Act.]
+
+(3) Subject to subsections (8) and (9), the powers which a marine enforcement officer has for the purposes of enforcing the nature conservation legislation [[^F193]or the fisheries exploitation legislation] may be exercised—
+
+(a) in the relevant enforcement area (and in relation to any vessel, aircraft or marine installation in that area);
+
+(b) in relation to any British vessel or British marine installation outside the UK marine area;
+
+(c) in Scotland or Northern Ireland, or the Scottish or Northern Ireland inshore region, in relation to an offence which the officer reasonably believes has been committed—
+
+(i) within the relevant enforcement area, or
+
+(ii) outside the UK marine area and in circumstances where a British vessel or British marine installation was involved in the commission of the offence;
+
+(d) in relation to any vessel, aircraft or marine installation in the Scottish offshore region which has been pursued there in accordance with subsection (4).
+
+(4) A vessel, aircraft or marine installation is pursued in accordance with this subsection if—
+
+(a) immediately before the pursuit of the vessel, aircraft or installation commences, the vessel, aircraft or installation is in the relevant enforcement area,
+
+(b) before the pursuit of the vessel, aircraft or installation commences, a signal is given for it to stop, and
+
+(c) the pursuit of the vessel, aircraft or installation is not interrupted.
+
+(5) The signal referred to in subsection (4)(b) must be given in such a way as to be audible or visible from the vessel, aircraft or installation in question.
+
+(6) For the purposes of subsection (4)(c), pursuit is not interrupted by reason only of the fact that—
+
+(a) the method of carrying out the pursuit, or
+
+(b) the identity of the vessel or aircraft carrying out the pursuit,
+
+changes during the course of the pursuit.
+
+(7) Nothing in this section affects any right of hot pursuit which a marine enforcement officer may have under international law.
+
+(8) The powers which a civilian marine enforcement officer has for the purposes of enforcing the nature conservation legislation [[^F194]or the fisheries exploitation legislation] may not be exercised in relation to any British warship.
+
+(9) The powers which a marine enforcement officer has for the purposes of enforcing the nature conservation legislation may not be exercised in relation to any vessel within subsection (10) unless—
+
+(a) in the case of a third country vessel, other than a vessel falling within paragraph (b) or (c) of that subsection, the United Kingdom is entitled under international law to exercise those powers without the consent of the flag state, or
+
+(b) the Commissioners have given authority to exercise those powers.
+
+[[^F195](9A) The powers which a marine enforcement officer has for the purposes of enforcing the fisheries exploitation legislation may not be exercised in relation to a vessel falling within paragraph (b) or (c) of subsection (10) unless the Commissioners have given authority to exercise those powers.]
+
+(10) The vessels are—
+
+(a) a third country vessel;
+
+(b) a warship that is being used by the government of a State other than the United Kingdom;
+
+(c) any other vessel that is being used by such a government for any non-commercial purpose.
+
+(11) The Commissioners may give authority under subsection (9)(b) [[^F196]or (9A)] only if the flag state has consented to the United Kingdom exercising those powers (whether generally or in relation to the vessel in question).
+
+(12) In giving such authority, the Commissioners must impose such conditions or limitations on the exercise of the powers as are necessary to give effect to any conditions or limitations imposed by the flag state.
+
+(13) In this section—
+
+- “British vessel” means any vessel which—
+
+  - (a) is registered in the United Kingdom under Part 2 of the Merchant Shipping Act 1995 (c. 21),
+  - (b) is, as a Government ship, registered in the United Kingdom in pursuance of an Order in Council under section 308 of that Act,
+  - (c) falls within section 1(1)(d) of that Act (small ships),
+  - (d) is exempt from registration under section 294 of that Act (general power to dispense),
+  - (e) is a British warship, or
+  - (f) is registered under the law of Gibraltar;
+
+- “Government ship” has the same meaning as in the Merchant Shipping Act 1995;
+
+- “the relevant enforcement area” means the area that consists of—
+
+  - (a) England and Wales, and
+  
+  - (b) the UK marine area, excluding—
+  
+    - (i) the Scottish inshore region,
+    - (ii) the Scottish offshore region, and
+    - (iii) the Northern Ireland inshore region.
+
+[[^F197](14) Where the fisheries exploitation legislation consists of an order made under section 137A or 137C of this Act (orders relating to Scottish offshore region), this section applies as if—
+
+(a) references to a marine enforcement officer included a person appointed as such by the Scottish Ministers,
+
+(b) for the purposes of subsection (3)(a), the relevant enforcement area were Scotland, the Scottish inshore region and the Scottish offshore region, and
+
+(c) subsections (3)(c) and (d) and (4) to (6) were omitted.
+
+(15) Where the fisheries exploitation legislation consists of an order made under section 137E or 137G of this Act (orders relating to Northern Ireland offshore region), this section applies as if—
+
+(a) references to a marine enforcement officer included a person appointed as such by the Department of Agriculture, Environment and Rural Affairs in Northern Ireland,
+
+(b) for the purposes of subsection (3)(a), the relevant enforcement area were Northern Ireland, the Northern Ireland inshore region and the Northern Ireland offshore region, and
+
+(c) subsections (3)(c) and (d) and (4) to (6) were omitted.]
+
+##### 238 Enforcement of fisheries legislation
+
+(1) For the purposes of enforcing the fisheries legislation, a marine enforcement officer has—
+
+(a) the common enforcement powers conferred by this Act;
+
+(b) the powers conferred by sections 264, 268, 269, 279 and 284.
+
+(2) In this section “the fisheries legislation” means—
+
+(a) any enactments relating to sea fishing, including any enactment relating to fishing for shellfish, salmon or migratory trout (but see subsection (3));
+
+(b) any [[^F198][[^F199]assimilated] restriction or [[^F199]assimilated] obligation] relating to sea fishing.
+
+(3) “The fisheries legislation” does not include—
+
+(a) the Salmon and Freshwater Fisheries Act 1975 (c. 51);
+
+(b) the Salmon Act 1986 (c. 62);
+
+(c) byelaws made by the Environment Agency under Schedule 25 to the Water Resources Act 1991 (c. 57);
+
+[[^F200](ca) byelaws made by the Natural Resources Body for Wales under Schedule 25 to the Water Resources Act 1991;]
+
+(d) the Scotland Act 1998 (Border Rivers) Order 1999 (S.I. 1999/1746);
+
+[[^F201](da) any byelaws made under section 129A, 129B or 132(1A);
+
+(db) any orders made under section 134A, 134B, 136(1A), 137A, 137C, 137E or 137G;]
+
+(e) byelaws made by an inshore fisheries and conservation authority under section 155.
+
+(4) Subject to subsection (9), the powers which a marine enforcement officer has for the purposes of enforcing the fisheries legislation may be exercised—
+
+(a) in the relevant enforcement area (and in relation to any vessel, aircraft or marine installation in that area);
+
+(b) in relation to any vessel, vehicle, aircraft or marine installation in any other area within the United Kingdom or the UK marine area which has been pursued there in accordance with subsection (5);
+
+(c) in relation to any relevant British fishing boat in the Scottish zone or the Northern Ireland zone;
+
+(d) in relation to any British vessel or British marine installation outside British fishery limits, other than a Scottish or Northern Ireland fishing boat.
+
+(5) A vessel, vehicle, aircraft or marine installation is pursued in accordance with this subsection if—
+
+(a) immediately before the pursuit of the vessel, vehicle, aircraft or installation commences—
+
+(i) the vessel, vehicle, aircraft or installation is in the relevant enforcement area, or
+
+(ii) in the case of a vessel, aircraft or marine installation operating together with one or more other vessels, aircraft or marine installations to carry out a single activity, any of those vessels, aircraft or installations is in that area,
+
+(b) before the pursuit of the vessel, vehicle, aircraft or installation commences, a signal is given for it to stop, and
+
+(c) the pursuit of the vessel, vehicle, aircraft or installation is not interrupted.
+
+(6) The signal referred to in subsection (5)(b) must be given in such a way as to be audible or visible from the vessel, vehicle, aircraft or installation in question.
+
+(7) For the purposes of subsection (5)(c), pursuit is not interrupted by reason only of the fact that—
+
+(a) the method of carrying out the pursuit, or
+
+(b) the identity of the vessel, vehicle or aircraft carrying out the pursuit,
+
+changes during the course of the pursuit.
+
+(8) Nothing in this section affects any right of hot pursuit which a marine enforcement officer may have under international law.
+
+(9) The powers which a civilian marine enforcement officer has for the purposes of enforcing the fisheries legislation may not be exercised in relation to any British warship.
+
+(10) In this section—
+
+- [[^F202]“assimilated restriction” means a restriction that—
+
+  - was created or arose by or under the EU Treaties before IP completion day, and
+  - forms part of assimilated law,
+
+  as modified from time to time;]
+
+- “British vessel” means any vessel which—
+
+  - (a) is registered in the United Kingdom under Part 2 of the Merchant Shipping Act 1995 (c. 21),
+  - (b) is wholly owned by persons qualified to own British ships for the purposes of that Part,
+  - (c) is, as a Government ship, registered in the United Kingdom in pursuance of an Order in Council under section 308 of that Act, or
+  - (d) is a British warship;
+
+- [^F203]...
+
+- [^F203]...
+
+- “Government ship” has the same meaning as in the Merchant Shipping Act 1995 (c. 21);
+
+- “relevant British fishing boat” means a fishing boat, other than a Scottish or Northern Ireland fishing boat, which—
+
+  - (a) is registered in the United Kingdom under Part 2 of the Merchant Shipping Act 1995, or
+  - (b) is wholly owned by persons qualified to own British ships for the purposes of that Part;
+
+- [^F204]...
+
+- “the relevant enforcement area” means the area that consists of—
+
+  - (a) England and Wales, and
+  - (b) the sea within British fishery limits, excluding the Scottish zone and the Northern Ireland zone.
+
+##### 239 Marine enforcement officers as British sea-fishery officers
+
+(1) Section 7 of the Sea Fisheries Act 1968 (c. 77) (sea-fishery officers) is amended as follows.
+
+(2) In subsection (1)—
+
+(a) after paragraph (c) insert—
+
+> (ca) persons appointed as marine enforcement officers under section 235 of the Marine and Coastal Access Act 2009;
+
+;
+
+(b) in paragraph (d), omit “of the Secretary of State or”.
+
+(3) After subsection (1) insert—
+
+> (1A) A person falling within paragraph (b), (c) or (ca) of subsection (1) above may not exercise the powers or perform the duties of a British sea-fishery officer in any case where the person may, in the person's capacity as a marine enforcement officer, exercise the common enforcement powers conferred by the Marine and Coastal Access Act 2009 (see Chapter 1 of Part 8 of that Act).
+
+(4) In subsection (5) (definition of “the appropriate Minister”), omit paragraph (a).
+
+#### Other enforcement officers
+
+##### 240 Marine licensing: oil and gas and other reserved matters
+
+(1) The Secretary of State may appoint persons for the purposes of enforcing Part 4 of this Act, so far as relating to—
+
+(a) any activity in the Scottish offshore region falling within section 113(3) (activities relating to certain reserved matters);
+
+(b) any activity in Wales[[^F205], the Welsh inshore region or the Welsh offshore region] concerning or arising from the exploration for, or production of, petroleum;
+
+[[^F206](ba) any activity in the Welsh offshore region falling within the subject-matter of Part 6 of the Merchant Shipping Act 1995 (pollution etc);]
+
+(c) anything done in the course of taking installation abandonment measures in any other part of the relevant enforcement area.
+
+(2) For the purposes referred to in subsection (1), a person appointed under this section has—
+
+(a) the common enforcement powers conferred by this Act;
+
+(b) the power conferred by section 263.
+
+(3) Subject to subsection (4), the powers which a person appointed under this section has for the purposes referred to in subsection (1) may be exercised—
+
+(a) in the relevant enforcement area (and in relation to any vessel, aircraft or marine structure in that area);
+
+(b) in relation to any vessel or marine structure outside the UK marine area which was loaded within the relevant enforcement area;
+
+(c) in relation to any British vessel, British aircraft or British marine structure outside the UK marine area;
+
+(d) in Scotland or Northern Ireland, or the Scottish or Northern Ireland inshore region, in relation to an offence which the person reasonably believes has been committed—
+
+(i) within the relevant enforcement area, or
+
+(ii) outside the UK marine area and in circumstances where a vessel, aircraft or marine structure referred to in paragraph (b) or (c) was involved in the commission of the offence.
+
+(4) The powers which a person appointed under this section has for the purposes referred to in subsection (1) may not be exercised in relation to any British warship.
+
+(5) Nothing in this section affects any right of hot pursuit which a person appointed under this section may have under international law.
+
+(6) In this section—
+
+- “installation abandonment measures” means any measures taken in connection with the abandonment of—
+
+  - (a) an offshore installation or submarine pipeline, within the meaning of Part 4 of the Petroleum Act 1998 (c. 17), or
+  - (b) a carbon storage installation, within the meaning of section 30 of the Energy Act 2008 (c. 32),
+
+  whether or not the measures are taken in pursuance of an abandonment programme;
+
+- “abandonment programme” means—
+
+  - (a) an abandonment programme under Part 4 of the Petroleum Act 1998;
+  - (b) an abandonment programme under that Part, as it applies by virtue of section 30 of the Energy Act 2008;
+
+- “the relevant enforcement area” means the area that consists of—
+
+  - (a) England and Wales, and
+  - (b) the UK marine licensing area, excluding the Northern Ireland inshore region.
+
+(7) Any term used in this section and in Part 4 of this Act has the same meaning in this section as it has in that Part.
+
+##### 241 Marine licensing: Northern Ireland
+
+(1) The Department of the Environment in Northern Ireland may appoint persons for the purposes of enforcing Part 4 of this Act.
+
+(2) For the purposes of enforcing Part 4 of this Act, a person appointed under this section has—
+
+(a) the common enforcement powers conferred by this Act;
+
+(b) the power conferred by section 263.
+
+This is subject to subsection (3).
+
+(3) A person appointed under this section does not have the powers referred to in subsection (2) for the purposes of enforcing Part 4 of this Act so far as relating to—
+
+(a) any activity in Wales[[^F207], the Welsh inshore region or the Welsh offshore region] concerning or arising from the exploration for, or production of, petroleum;
+
+[[^F208](aa) any activity in the Welsh offshore region falling within the subject-matter of Part 6 of the Merchant Shipping Act 1995 (pollution etc);]
+
+(b) anything done in the course of taking installation abandonment measures in any other part of the relevant enforcement area, other than Northern Ireland and the Northern Ireland inshore region.
+
+(4) Subject to subsection (9), the powers which a person appointed under this section has for the purposes of enforcing Part 4 of this Act may be exercised—
+
+(a) in the relevant enforcement area (and in relation to any vessel, aircraft or marine structure in that area);
+
+(b) in Scotland or the Scottish inshore region, in relation to an offence which the person reasonably believes has been committed within the relevant enforcement area;
+
+(c) in relation to any vessel, aircraft or marine structure in the Scottish offshore region which has been pursued there in accordance with subsection (5).
+
+(5) A vessel, aircraft or marine structure is pursued in accordance with this subsection if—
+
+(a) immediately before the pursuit of the vessel, aircraft or structure commences, the vessel, aircraft or structure is in the relevant enforcement area,
+
+(b) before the pursuit of the vessel, aircraft or structure commences, a signal is given for it to stop, and
+
+(c) the pursuit of the vessel, aircraft or structure is not interrupted.
+
+(6) The signal referred to in subsection (5)(b) must be given in such a way as to be audible or visible from the vessel, aircraft or structure in question.
+
+(7) For the purposes of subsection (5)(c), pursuit is not interrupted by reason only of the fact that—
+
+(a) the method of carrying out the pursuit, or
+
+(b) the identity of the vessel or aircraft carrying out the pursuit,
+
+changes during the course of the pursuit.
+
+(8) Nothing in this section affects any right of hot pursuit which a person appointed under this section may have under international law.
+
+(9) The powers which a person appointed under this section has for the purposes of enforcing Part 4 of this Act may not be exercised in relation to any British warship.
+
+(10) In this section—
+
+- “installation abandonment measures” means any measures taken in connection with the abandonment of—
+
+  - (a) an offshore installation or submarine pipeline, within the meaning of Part 4 of the Petroleum Act 1998 (c. 17), or
+  - (b) a carbon storage installation, within the meaning of section 30 of the Energy Act 2008 (c. 32),
+
+  whether or not the measures are taken in pursuance of an abandonment programme;
+
+- “abandonment programme” means—
+
+  - (a) an abandonment programme under Part 4 of the Petroleum Act 1998;
+  - (b) an abandonment programme under that Part, as it applies by virtue of section 30 of the Energy Act 2008;
+
+- “the relevant enforcement area” means the area that consists of—
+
+  - (a) England and Wales and Northern Ireland, and
+  - (b) the UK marine licensing area, excluding the Scottish offshore region.
+
+(11) Any term used in this section and in Part 4 of this Act has the same meaning in this section as it has in that Part.
+
+##### 242 Marine licensing: enforcement in Scottish offshore region
+
+(1) The Scottish Ministers may appoint persons for the purposes of enforcing Part 4 of this Act, except so far as relating to any activity falling within section 113(3) (activities relating to certain reserved matters).
+
+(2) For the purposes referred to in subsection (1), a person appointed under this section has—
+
+(a) the common enforcement powers conferred by this Act;
+
+(b) the power conferred by section 263.
+
+(3) Subject to subsection (8), the powers which a person appointed under this section has for the purposes referred to in subsection (1) may be exercised—
+
+(a) in the Scottish offshore region (and in relation to any vessel, aircraft or marine structure in that region);
+
+(b) in any area within the United Kingdom or the UK inshore region, in relation to an offence which the person reasonably believes has been committed within the Scottish offshore region;
+
+(c) in relation to any vessel, aircraft or marine structure in any other area within the UK marine area which has been pursued there in accordance with subsection (4).
+
+(4) A vessel, aircraft or marine structure is pursued in accordance with this subsection if—
+
+(a) immediately before the pursuit of the vessel, aircraft or structure commences, the vessel, aircraft or structure is in the Scottish offshore region,
+
+(b) before the pursuit of the vessel, aircraft or structure commences, a signal is given for it to stop, and
+
+(c) the pursuit of the vessel, aircraft or structure is not interrupted.
+
+(5) The signal referred to in subsection (4)(b) must be given in such a way as to be audible or visible from the vessel, aircraft or structure in question.
+
+(6) For the purposes of subsection (4)(c), pursuit is not interrupted by reason only of the fact that—
+
+(a) the method of carrying out the pursuit, or
+
+(b) the identity of the vessel or aircraft carrying out the pursuit,
+
+changes during the course of the pursuit.
+
+(7) Nothing in this section affects any right of hot pursuit which a person appointed under this section may have under international law.
+
+(8) The powers which a person appointed under this section has for the purposes referred to in subsection (1) may not be exercised in relation to any British warship.
+
+(9) In this section “UK inshore region” means the area of sea within the seaward limits of the territorial sea adjacent to the United Kingdom.
+
+(10) Any term used in this section and in Part 4 of this Act has the same meaning in this section as it has in that Part.
+
+##### 243 Enforcement of MCZs in Scottish offshore region
+
+(1) The Scottish Ministers may appoint persons for the purposes of enforcing section 140 of this Act.
+
+(2) For the purposes of enforcing section 140 of this Act, a person appointed under this section has the common enforcement powers conferred by this Act.
+
+(3) Subject to subsections (8) and (9), the powers which a person appointed under this section has for the purposes of enforcing section 140 of this Act may be exercised—
+
+(a) in the Scottish offshore region (and in relation to any vessel, aircraft or marine installation in that region);
+
+(b) in any area within the United Kingdom or the UK inshore region, in relation to an offence which the person reasonably believes has been committed within the Scottish offshore region;
+
+(c) in relation to any vessel, aircraft or marine installation in any other area within the UK marine area which has been pursued there in accordance with subsection (4).
+
+(4) A vessel, aircraft or marine installation is pursued in accordance with this subsection if—
+
+(a) immediately before the pursuit of the vessel, aircraft or installation commences, the vessel, aircraft or installation is in the Scottish offshore region,
+
+(b) before the pursuit of the vessel, aircraft or installation commences, a signal is given for it to stop, and
+
+(c) the pursuit of the vessel, aircraft or installation is not interrupted.
+
+(5) The signal referred to in subsection (4)(b) must be given in such a way as to be audible or visible from the vessel, aircraft or installation in question.
+
+(6) For the purposes of subsection (4)(c), pursuit is not interrupted by reason only of the fact that—
+
+(a) the method of carrying out the pursuit, or
+
+(b) the identity of the vessel or aircraft carrying out the pursuit,
+
+changes during the course of the pursuit.
+
+(7) Nothing in this section affects any right of hot pursuit which a person appointed under this section may have under international law.
+
+(8) The powers which a person appointed under this section has for the purposes of enforcing section 140 of this Act may not be exercised in relation to any British warship.
+
+(9) The powers which a person appointed under this section has for the purposes of enforcing section 140 of this Act may not be exercised in relation to any vessel within subsection (10) unless—
+
+(a) in the case of a third country vessel, other than a vessel falling within paragraph (b) or (c) of that subsection, the United Kingdom is entitled under international law to exercise those powers without the consent of the flag state, or
+
+(b) the Commissioners have given authority to exercise those powers.
+
+(10) The vessels are—
+
+(a) a third country vessel;
+
+(b) a warship that is being used by the government of a State other than the United Kingdom;
+
+(c) any other vessel that is being used by such a government for any non-commercial purpose.
+
+(11) The Commissioners may give authority under subsection (9)(b) only if the flag state has consented to the United Kingdom exercising those powers (whether generally or in relation to the vessel in question).
+
+(12) In giving such authority, the Commissioners must impose such conditions or limitations on the exercise of the powers as are necessary to give effect to any conditions or limitations imposed by the flag state.
+
+(13) In this section “UK inshore region” means the area of sea within the seaward limits of the territorial sea adjacent to the United Kingdom.
+
+##### 243A [[^F209]Infrastructure planning: enforcement in the Welsh inshore region
+
+(1) The Welsh Ministers may appoint persons for the purposes of enforcing the Infrastructure (Wales) Act 2024.
+
+(2) For the purposes referred to in subsection (1), a person appointed under this section has—
+
+(a) the common enforcement powers conferred by this Act;
+
+(b) the power conferred by section 263.
+
+(3) The powers that a person appointed under this section has for the purposes referred to in subsection (1) may be exercised—
+
+(a) in the Welsh inshore region (and in relation to any vessel, aircraft or marine structure in that region);
+
+(b) in Wales.
+
+(4) But the powers which a person appointed under this section has for the purposes referred to in subsection (1) may not be exercised in relation to any British warship.]
+
+#### Interpretation
+
+##### 244 Interpretation of this Chapter
+
+(1) In this Chapter—
+
+- “British marine installation” means a marine installation owned by or leased to an individual residing in, or a body corporate incorporated under the law of, any part of the United Kingdom;
+
+- “British warship” means a ship belonging to Her Majesty and forming part of Her Majesty's armed forces;
+
+- “civilian marine enforcement officer” means a person appointed as a marine enforcement officer by the MMO or the Welsh Ministers;
+
+- “the Commissioners” means the Commissioners for Her Majesty's Revenue and Customs;
+
+- “fishing boat” means any vessel that is being used for fishing or for any activity relating to fishing;
+
+- “flag state”, in relation to a vessel, means the State whose flag the vessel is flying or is entitled to fly;
+
+- “marine installation” means any artificial island, installation or structure (other than a vessel);
+
+- “Northern Ireland fishing boat” means a fishing boat which is registered in the United Kingdom under Part 2 of the Merchant Shipping Act 1995 (c. 21) and whose entry in the register specifies a port in Northern Ireland as the port to which the boat is to be treated as belonging;
+
+- “petroleum” has the same meaning as in Part 3 of the Petroleum Act 1998 (c. 17) (see section 28(1) of that Act);
+
+- “Scottish fishing boat” means a fishing boat which is registered in the United Kingdom under Part 2 of the Merchant Shipping Act 1995 and whose entry in the register specifies a port in Scotland as the port to which the boat is to be treated as belonging;
+
+- “third country vessel” means a vessel which—
+
+  - (a) is flying the flag of, or is registered in, any State or territory [[^F210]other than the United Kingdom], and
+  - (b) is not registered in [[^F211]the United Kingdom].
+
+(2) In this Chapter, except where otherwise provided, any reference to a vessel includes a reference to—
+
+(a) any ship or boat or any other description of vessel used in navigation, and
+
+(b) any hovercraft, submersible craft or other floating craft,
+
+but does not include a reference to anything that permanently rests on, or is permanently attached to, the sea bed.
+
+### Chapter 2 — Common enforcement powers
+
+#### Introductory
+
+##### 245 Common enforcement powers
+
+(1) This Chapter sets out the powers that may be exercised by a person who has the common enforcement powers conferred by this Act.
+
+(2) In this Chapter—
+
+- “enforcement officer” means any person who has the common enforcement powers conferred by this Act;
+- “relevant activity”, in relation to an enforcement officer, means any activity in respect of which the officer has functions;
+- “relevant function”, in relation to an enforcement officer, means any function of that officer;
+- “relevant offence”, in relation to an enforcement officer, means any offence in respect of which the officer has functions.
+
+(3) The powers conferred on an enforcement officer by any section in this Chapter are without prejudice to any powers exercisable by the officer apart from that section.
+
+#### Entry, search and seizure
+
+##### 246 Power to board and inspect vessels and marine installations
+
+(1) For the purposes of carrying out any relevant functions, an enforcement officer may at any time board and inspect a vessel or marine installation.
+
+This is subject to section 249 (which provides that a warrant is necessary to enter a dwelling).
+
+(2) For the purposes of exercising the power conferred by subsection (1), the officer may require a vessel or marine installation—
+
+(a) to stop, or
+
+(b) to do anything else that will facilitate the boarding of that or any other vessel or marine installation.
+
+(3) An enforcement officer who has boarded a vessel or marine installation may, for the purposes of disembarking from the vessel or installation, require that or any other vessel or marine installation—
+
+(a) to stop, or
+
+(b) to do anything else that will enable the officer, and any person accompanying the officer, to disembark from the vessel or installation.
+
+(4) An enforcement officer may require any person on board a vessel or marine installation to afford such facilities and assistance with respect to matters under that person's control as the officer considers would facilitate the exercise of any power conferred by this section.
+
+##### 247 Power to enter and inspect premises
+
+(1) For the purposes of carrying out any relevant functions, an enforcement officer may enter and inspect any premises.
+
+This is subject to section 249 (which provides that a warrant is necessary to enter a dwelling).
+
+(2) The officer may only exercise the power conferred by this section at a reasonable time, unless it appears to the officer that there are grounds for suspecting that the purpose of entering the premises may be frustrated if the officer seeks to enter at a reasonable time.
+
+(3) An enforcement officer may require any person in or on the premises to afford such facilities and assistance with respect to matters under that person's control as the officer considers would facilitate the exercise of the power conferred by this section.
+
+(4) In this section “premises” includes land, but does not include any vehicle, vessel or marine installation.
+
+##### 248 Power to enter and inspect vehicles
+
+(1) For the purposes of carrying out any relevant functions, an enforcement officer may at any time—
+
+(a) enter and inspect any vehicle;
+
+(b) stop and detain any vehicle for the purposes of entering and inspecting it.
+
+This is subject to section 249 (which provides that a warrant is necessary to enter a dwelling).
+
+(2) Where—
+
+(a) an enforcement officer has stopped a vehicle under this section, and
+
+(b) the officer considers that it would be impracticable to inspect the vehicle in the place where it has stopped,
+
+the officer may require the vehicle to be taken to such place as the officer directs to enable the vehicle to be inspected.
+
+(3) An enforcement officer may require—
+
+(a) any person travelling in a vehicle, or
+
+(b) the registered keeper of a vehicle,
+
+to afford such facilities and assistance with respect to matters under that person's control as the officer considers would facilitate the exercise of any power conferred by this section.
+
+(4) The powers conferred by this section may be exercised in any place (whether or not it is a place to which the public has access).
+
+(5) In this section “vehicle” does not include any vessel.
+
+##### 249 Dwellings
+
+(1) An enforcement officer may not by virtue of section 246, 247 or 248 enter any dwelling unless a justice has issued a warrant authorising the officer to enter the dwelling.
+
+(2) A justice may only issue such a warrant if, on an application by the officer, the justice is satisfied—
+
+(a) that the officer has reasonable grounds for believing that there is material in the dwelling which for the purposes of carrying out any relevant functions the officer wishes to inspect, examine or seize, and
+
+(b) that any of the conditions in subsection (3) is satisfied.
+
+(3) The conditions are—
+
+(a) that it is not practicable to communicate with any person entitled to grant entry to the dwelling;
+
+(b) that it is not practicable to communicate with any person entitled to grant access to that material;
+
+(c) that entry to the dwelling is unlikely to be granted unless a warrant is produced;
+
+(d) that the purpose of entry may be frustrated or seriously prejudiced unless an enforcement officer arriving at the dwelling can secure immediate entry to it.
+
+(4) Schedule 17 contains further provision about warrants issued under this section.
+
+(5) In this Chapter “justice” means—
+
+(a) in relation to England and Wales, a justice of the peace;
+
+(b) in relation to Northern Ireland, a lay magistrate;
+
+(c) in relation to Scotland, a sheriff, stipendiary magistrate or justice of the peace.
+
+##### 250 Powers of search, examination, etc
+
+(1) Where an enforcement officer is exercising a power of inspection conferred by section 246, 247 or 248, the officer may—
+
+(a) search the relevant premises for any item;
+
+(b) examine anything that is in or on the relevant premises.
+
+(2) Where an enforcement officer reasonably believes that a person is or has been carrying on a relevant activity, the officer may—
+
+(a) search or examine anything which appears to be in the person's possession or control;
+
+(b) stop and detain the person for the purposes of such a search or examination.
+
+(3) An enforcement officer may carry out any measurement or test of anything which the officer has power under this section to examine.
+
+(4) The power conferred by subsection (3) includes power to take a sample from any live animal or plant.
+
+(5) For the purpose of exercising any power conferred by this section, an enforcement officer may, so far as is reasonably necessary for that purpose, break open any container or other locked thing.
+
+(6) Where an enforcement officer is exercising a power of inspection conferred by section 246, 247 or 248, the officer may require any person in or on the relevant premises to afford such facilities and assistance with respect to matters under that person's control as the officer considers would facilitate the exercise of any power conferred by this section.
+
+(7) Where an enforcement officer reasonably believes that a person is or has been carrying on a relevant activity, the officer may require that person to afford such facilities and assistance with respect to matters under that person's control as the officer considers would facilitate the exercise in relation to that person of any power conferred by this section.
+
+(8) Nothing in this section confers any power to search a person.
+
+(9) The reference in subsection (1) to anything that is in or on the relevant premises includes a reference to—
+
+(a) anything that is attached to or otherwise forms part of the relevant premises, and
+
+(b) anything that is controlled from the relevant premises.
+
+(10) In this section—
+
+- “animal” includes any egg, larva, pupa, or other immature stage of an animal;
+
+- “item” includes—
+
+  - (a) any document or record (in whatever form it is held);
+  - (b) any animal or plant;
+
+- “sample” means a sample of blood, tissue or other biological material.
+
+##### 251 Power to require production of documents, etc
+
+(1) This section applies where an enforcement officer is exercising a power of inspection conferred by section 246, 247 or 248.
+
+(2) The officer may require any person in or on the relevant premises to produce any document or record that is in the person's possession or control.
+
+(3) A reference in this section to the production of a document includes a reference to the production of—
+
+(a) a hard copy of information recorded otherwise than in hard copy form, or
+
+(b) information in a form from which a hard copy can be readily obtained.
+
+(4) For the purposes of this section—
+
+(a) information is recorded in hard copy form if it is recorded in a paper copy or similar form capable of being read (and references to hard copy have a corresponding meaning);
+
+(b) information can be read only if—
+
+(i) it can be read with the naked eye, or
+
+(ii) to the extent that it consists of images (for example photographs, pictures, maps, plans or drawings), it can be seen with the naked eye.
+
+##### 252 Powers of seizure, etc
+
+(1) An enforcement officer who is exercising a power of inspection conferred by section 246, 247 or 248 may—
+
+(a) seize and detain or remove any item found on the relevant premises;
+
+(b) take copies of or extracts from any document or record found on the relevant premises.
+
+(2) Where an enforcement officer reasonably believes that a person is or has been carrying on a relevant activity, the officer may seize and detain or remove any item which appears to be in the person's possession or control.
+
+(3) An enforcement officer to whom any document or record has been produced in accordance with a requirement imposed under section 251 may—
+
+(a) seize and detain or remove that document or record;
+
+(b) take copies of or extracts from that document or record.
+
+In this subsection “document” includes anything falling within paragraph (a) or (b) of section 251(3).
+
+(4) The powers conferred by this section may only be exercised—
+
+(a) for the purposes of determining whether a relevant offence has been committed, or
+
+(b) in relation to an item which an enforcement officer reasonably believes to be evidence of the commission of a relevant offence.
+
+(5) Subject to subsection (6), an enforcement officer who is exercising a power of inspection conferred by section 246, 247 or 248 may not remove from the relevant premises any item which is required by law to be kept on the relevant premises.
+
+(6) An enforcement officer may remove such an item from a vessel while it is being detained in a port.
+
+(7) Nothing in this section confers power on an enforcement officer to seize an item which the officer has reasonable grounds for believing to be—
+
+(a) an item subject to legal privilege (within the meaning of the Police and Criminal Evidence Act 1984 (c. 60)), or
+
+(b) an item in respect of which a claim to confidentiality of communications could be maintained in legal proceedings in Scotland.
+
+##### 253 Further provision about seizure
+
+(1) Where—
+
+(a) any items which an enforcement officer wishes to seize and remove are in a container, and
+
+(b) the officer reasonably considers that it would facilitate the seizure and removal of the items if they remained in the container for that purpose,
+
+any power to seize and remove the items conferred by section 252 includes power to seize and remove the container.
+
+(2) Where—
+
+(a) any items which an enforcement officer wishes to seize and remove are not in a container, and
+
+(b) the officer reasonably considers that it would facilitate the seizure and removal of the items if they were placed in a container suitable for that purpose,
+
+the officer may require the items to be placed into such a container.
+
+(3) If, in the opinion of an enforcement officer, it is not for the time being practicable for the officer to seize and remove any item, the officer may require—
+
+(a) the person from whom the item is being seized, or
+
+(b) where the officer is exercising a power of inspection conferred by section 246, 247 or 248, any person in or on the relevant premises,
+
+to secure that the item is not removed or otherwise interfered with until such time as the officer may seize and remove it.
+
+(4) Where an enforcement officer is exercising a power of inspection conferred by section 246, 247 or 248, the officer may require any person in or on the relevant premises to afford such facilities and assistance with respect to matters under that person's control as the officer considers would facilitate the exercise of any power conferred by section 252 or this section.
+
+(5) Where an enforcement officer reasonably believes that a person is or has been carrying on a relevant activity, the officer may require that person to afford such facilities and assistance with respect to matters under that person's control as the officer considers would facilitate the exercise in relation to that person of any power conferred by section 252 or this section.
+
+(6) In section 66 of the Criminal Justice and Police Act 2001 (c. 16) (general interpretation of Part 2) in subsection (1)—
+
+(a) before the definition of “premises” insert—
+
+> “marine installation” has the meaning given by section 262 of the Marine and Coastal Access Act 2009;
+
+;
+
+(b) in the definition of “premises”, after “offshore installation” insert “ or other marine installation ”.
+
+(7) In Part 1 of Schedule 1 to that Act (powers of seizure to which section 50 applies), after paragraph 73K insert—
+
+> **73L Marine and Coastal Access Act 2009 (c. 23)**
+>
+> Each of the powers of seizure conferred by section 252(1) and (3) of the Marine and Coastal Access Act 2009.
+
+##### 254 Retention of seized items
+
+(1) This section applies to any item seized in the exercise of a power conferred by section 252.
+
+(2) The item may be retained so long as is necessary in all the circumstances and in particular—
+
+(a) for use as evidence at a trial for a relevant offence, or
+
+(b) for forensic examination or for investigation in connection with a relevant offence.
+
+(3) No item may be retained for either of the purposes mentioned in subsection (2) if a photograph or a copy would be sufficient for that purpose.
+
+#### Miscellaneous and ancillary powers
+
+##### 255 Power to record evidence of offences
+
+(1) An enforcement officer may use any device for the purpose of taking visual images of anything which the officer believes is evidence of the commission of a relevant offence.
+
+(2) The power conferred by this section is exercisable in relation to—
+
+(a) anything that is in or on,
+
+(b) anything that is attached to or otherwise forms part of, or
+
+(c) anything that is controlled from,
+
+any vessel, marine installation, premises or vehicle.
+
+(3) The officer may require any person in or on the vessel, marine installation, premises or vehicle to afford such facilities and assistance with respect to matters under that person's control as the officer considers would facilitate the exercise of the power conferred by this section.
+
+##### 256 Power to require name and address
+
+Where an enforcement officer reasonably believes that a person has committed a relevant offence, the officer may require the person to provide the person's name and address.
+
+##### 257 Power to require production of licence, etc
+
+(1) Where an enforcement officer reasonably believes—
+
+(a) that a person is or has been carrying on a relevant activity, and
+
+(b) that the person requires a licence or other authority to carry on that activity,
+
+the officer may require the person to produce that licence or other authority.
+
+(2) If the person is unable to produce the licence or other authority when required to do so, the person must produce it at such place, and within such period of time, as the officer may specify.
+
+##### 258 Power to require attendance of certain persons
+
+(1) This section applies where an enforcement officer has—
+
+(a) boarded a vessel or marine installation, or
+
+(b) entered any premises.
+
+(2) For the purposes of carrying out any relevant functions, the officer may require the attendance of—
+
+(a) the person who is for the time being in charge of the vessel or marine installation;
+
+(b) any other person who is on board the vessel or marine installation;
+
+(c) the owner or occupier of the premises;
+
+(d) any person who is on the premises.
+
+##### 259 Power to direct vessel or marine installation to port
+
+(1) This section applies where—
+
+(a) an enforcement officer considers that it would not be reasonably practicable for the officer to exercise a power which the officer wishes to exercise in relation to a vessel or marine installation without detaining the vessel or marine installation in a port, or
+
+(b) an enforcement officer reasonably believes that—
+
+(i) a vessel or marine installation is itself evidence of the commission of a relevant offence, and
+
+(ii) the only reasonably practicable way to preserve that evidence is to detain the vessel or marine installation in a port.
+
+(2) The officer may—
+
+(a) take, or arrange for another person to take, the vessel or marine installation and its crew to the port which appears to the officer to be the nearest convenient port, or
+
+(b) require the person who is for the time being in charge of the vessel or marine installation to take it and its crew to that port.
+
+(3) When the vessel or marine installation has been taken to a port, the officer may—
+
+(a) detain it there, or
+
+(b) require the person for the time being in charge of it to do so.
+
+(4) An enforcement officer who detains any vessel or marine installation under this section must serve a notice on the person who is for the time being in charge of it.
+
+(5) The notice must state that the vessel or marine installation is to be detained until the notice is withdrawn.
+
+(6) A notice served under subsection (4) may be withdrawn by service of a further notice signed by an appropriate enforcement officer.
+
+(7) In subsection (6) the reference to an appropriate enforcement officer is a reference to any enforcement officer acting on behalf of the same relevant authority as the enforcement officer who served the notice under subsection (4), and includes a reference to that officer.
+
+“Relevant authority” means the person or body on whose behalf the officer who detained the vessel or marine installation was acting.
+
+##### 260 Assistance etc
+
+(1) To assist in carrying out any relevant functions, an enforcement officer may bring—
+
+(a) any other person;
+
+(b) any equipment or materials.
+
+(2) A person who is brought by an enforcement officer to provide assistance may exercise any powers conferred by this Act which the officer may exercise, but only under the supervision or direction of the officer.
+
+##### 261 Power to use reasonable force
+
+(1) An enforcement officer may use reasonable force, if necessary, in the exercise of any power conferred by this Act.
+
+(2) A person assisting an enforcement officer under section 260 may use reasonable force, if necessary, in the exercise of any power conferred by this Act.
+
+#### Interpretation
+
+##### 262 Interpretation of this Chapter
+
+(1) In this Chapter—
+
+- “common enforcement power” means any power conferred by sections 246 to 261;
+- “enforcement officer” has the meaning given by section 245;
+- “item” has the meaning given by section 250(10);
+- “justice” has the meaning given by section 249(5);
+- “marine installation” means any artificial island, installation or structure (other than a vessel);
+- “premises” has the meaning given by section 247(4);
+- “relevant activity”, “relevant function” and “relevant offence” have the meaning given by section 245;
+- “the relevant premises”, in relation to an enforcement officer exercising a power of inspection conferred by section 246, 247 or 248, means the vessel, marine installation, premises or vehicle in relation to which the power is being exercised.
+
+(2) In this Chapter any reference to a vessel includes a reference to—
+
+(a) any ship or boat or any other description of vessel used in navigation,
+
+(b) any hovercraft, submersible craft or other floating craft, and
+
+(c) any aircraft,
+
+but does not include a reference to anything that permanently rests on, or is permanently attached to, the sea bed.
+
+### Chapter 3 — Licensing enforcement powers
+
+#### 263 Power to require information relating to certain substances and objects
+
+(1) A person who has the power conferred by this section may require any person—
+
+(a) to give details of any substances or objects on board a vehicle, vessel, aircraft or marine structure;
+
+(b) to give information concerning any substances or objects lost from a vehicle, vessel, aircraft or marine structure.
+
+(2) A statement made by a person in response to a requirement made under this section may not be used against the person in criminal proceedings in which the person is charged with an offence to which this subsection applies.
+
+(3) Subsection (2) applies to any offence other than an offence under one of the following provisions (which concern false statements made otherwise than on oath)—
+
+(a) section 5 of the Perjury Act 1911 (c. 6);
+
+(b) section 44(2) of the Criminal Law (Consolidation) (Scotland) Act 1995 (c. 39);
+
+(c) Article 10 of the Perjury (Northern Ireland) Order 1979 (S.I. 1979/1714 (N.I. 19)).
+
+(4) In this section “marine structure” and “vessel” have the meaning given by section 115.
+
+### Chapter 4 — Fisheries enforcement powers
+
+#### Inspection and seizure of objects at sea
+
+##### 264 Power to inspect and seize objects at sea
+
+(1) For the purposes of carrying out any relevant functions, an enforcement officer who has the power conferred by this section may inspect any object in the sea which the officer believes has been or is being used for or in connection with fishing.
+
+The officer may lift an object out of the sea for the purposes of inspecting it under this section.
+
+(2) An enforcement officer who has inspected an object under this section may seize the object.
+
+(3) The power conferred by subsection (2) may only be exercised—
+
+(a) for the purposes of determining whether a relevant offence has been committed, or
+
+(b) in relation to an object which an enforcement officer reasonably believes to be evidence of the commission of a relevant offence.
+
+(4) If, having inspected an object under this section, the officer decides not to seize it under subsection (2), the officer must, if it is reasonably practicable to do so, replace the object in the location where it was found.
+
+(5) If it is not reasonably practicable to replace the object in accordance with subsection (4), the officer may seize the object until such time as it may be collected by its owner.
+
+(6) Any power conferred by this section to seize an object includes power to seize—
+
+(a) anything that is attached to the object;
+
+(b) anything that is contained within the object.
+
+(7) Any reference in this section to replacing an object includes, in the case of fishing gear, a reference to re-setting the gear in the same way in which it was placed in the sea.
+
+(8) The powers conferred on an enforcement officer by this section are without prejudice to any powers exercisable by the officer apart from this section.
+
+##### 265 Reports of inspections under section 264
+
+(1) This section applies where an enforcement officer inspects any object under section 264.
+
+(2) The officer must prepare a report in relation to the inspection.
+
+(3) The report must state—
+
+(a) the date and time of the inspection;
+
+(b) the identity of the officer who carried out the inspection;
+
+(c) how the officer may be contacted.
+
+(4) In the case of an object seized under section 264(2) or (5), the report must also state—
+
+(a) what has been seized;
+
+(b) the reasons for its seizure;
+
+(c) any further action that it is proposed will be taken in relation to the object.
+
+(5) Where the object has not been seized under section 264(2) or (5), the officer must, if it is reasonably practicable to do so, attach a copy of the report to the object.
+
+If it is not reasonably practicable to attach a copy of the report to the object, the officer must serve a copy of the report on every person who appears to the officer to be the owner, or one of the owners, of the object.
+
+(6) In a case where the officer, after taking reasonable steps to do so, is unable to identify any person as owning the object, the officer must take such steps as the officer thinks fit to bring the contents of the report to the attention of persons likely to be interested in it.
+
+(7) Where—
+
+(a) the object has been seized under section 264(2), and
+
+(b) either of the conditions in subsection (8) is satisfied,
+
+the relevant authority must, if it has not already done so, serve a copy of the report on every person who appears to the authority to be the owner, or one of the owners, of the object.
+
+(8) The conditions are—
+
+(a) that the relevant authority has decided not to take proceedings in respect of any offence in relation to which the object was seized;
+
+(b) that any proceedings taken in respect of such an offence have concluded.
+
+(9) Where the object has been seized under section 264(5), the relevant authority must serve a copy of the report on every person who appears to the authority to be the owner, or one of the owners, of the object at the same time as it serves a notice of collection on that person under section 267.
+
+(10) In a case where the relevant authority, after taking reasonable steps to do so, is unable to identify any person as owning the object—
+
+(a) any reference in this section to a requirement for the authority to serve a copy of a report on such a person is to be read as a reference to a requirement to take such steps as the authority thinks fit to bring the contents of the report to the attention of persons likely to be interested in it, and
+
+(b) the reference in subsection (9) to serving a notice of collection under section 267 is to be read as a reference to taking the steps referred to in subsection (5) of that section.
+
+##### 266 Retention of objects seized under section 264(2)
+
+(1) Any object seized by an enforcement officer under section 264(2) may be retained by the relevant authority.
+
+(2) If either of the grounds of release in subsection (3) applies, the relevant authority must, as soon as is reasonably practicable, make the object available for collection.
+
+(3) The grounds of release referred to in subsection (2) are—
+
+(a) that the relevant authority has decided not to take proceedings in respect of any offence in relation to which the object was seized;
+
+(b) that any proceedings taken in respect of such an offence have concluded without any order for forfeiture having been made.
+
+(4) But subsection (2) does not apply if the object is liable to forfeiture under section 275 or 276.
+
+(5) Any reference in this section to an object seized under subsection (2) of section 264 includes a reference to anything seized by virtue of subsection (6) of that section.
+
+##### 267 Disposal of objects seized under section 264
+
+(1) This section applies to—
+
+(a) any object seized under section 264(2) which the relevant authority—
+
+(i) no longer wishes to retain for any purpose, or
+
+(ii) is required to make available for collection by virtue of section 266;
+
+(b) any object seized under section 264(5).
+
+(2) In this section a “notice of collection” is a notice stating that—
+
+(a) the object specified in the notice is available to be collected from the location so specified, and
+
+(b) if the object is not collected before the end of the period of three months beginning with the date specified in the notice, the relevant authority will dispose of the object.
+
+(3) The relevant authority must serve a notice of collection on every person who appears to the authority to be the owner, or one of the owners, of the object.
+
+(4) The relevant authority may take any other steps it thinks fit to notify every such person that the object is available to be collected.
+
+(5) If the relevant authority, after taking reasonable steps to do so, is unable to identify any person as owning the object in order to serve a notice of collection, the relevant authority must take such steps as it thinks fit to bring the information contained in the notice of collection to the attention of persons likely to be interested in it.
+
+(6) If the relevant authority complies with subsection (3) or subsection (5), as the case may be, the relevant authority may, at the end of the period mentioned in subsection (2)(b), dispose of the object in whatever way it thinks fit.
+
+(7) Any reference in this section to an object seized under subsection (2) or (5) of section 264 includes a reference to anything seized by virtue of subsection (6) of that section.
+
+#### Seizure for purposes of forfeiture
+
+##### 268 Power to seize fish for purposes of forfeiture
+
+(1) An enforcement officer who has the power conferred by this section may seize and detain or remove any fish in respect of which the officer reasonably believes a relevant offence has been committed.
+
+(2) The power conferred by this section may only be exercised for the purposes of securing that, in the event of a conviction for a relevant offence, the court may exercise any relevant power of forfeiture in relation to fish in respect of which the offence was committed.
+
+(3) Where—
+
+(a) any fish which an enforcement officer wishes to seize and remove are in a container, and
+
+(b) the officer reasonably considers that it would facilitate the seizure and removal of the fish if they remained in the container for that purpose,
+
+any power to seize and remove the fish includes power to seize and remove the container.
+
+(4) Where—
+
+(a) any fish which an enforcement officer wishes to seize and remove are not in a container, and
+
+(b) the officer reasonably considers that it would facilitate the seizure and removal of the fish if they were placed in a container suitable for that purpose,
+
+the officer may require the fish to be placed into such a container.
+
+(5) If, in the opinion of an enforcement officer, it is not for the time being practicable for the officer to seize and remove any fish, the officer may require—
+
+(a) the person from whom the fish are being seized, or
+
+(b) where the officer is exercising a power of inspection conferred by section 246, 247 or 248, any person in or on the relevant premises,
+
+to secure that the fish are not removed or otherwise interfered with until such time as the officer may seize and remove them.
+
+(6) Where an enforcement officer is exercising a power of inspection conferred by section 246, 247 or 248, the officer may require any person in or on the relevant premises to afford such facilities and assistance with respect to matters under that person's control as the officer considers would facilitate the exercise of any power conferred by this section.
+
+(7) Where an enforcement officer reasonably believes that a person is or has been carrying on a relevant activity, the officer may require that person to afford such facilities and assistance with respect to matters under that person's control as the officer considers would facilitate the exercise in relation to that person of any power conferred by this section.
+
+(8) In this section—
+
+- “relevant activity”, in relation to an enforcement officer, means any activity in respect of which the officer has functions;
+- “relevant power of forfeiture” means any power of a court to order the forfeiture of any fish in respect of which an offence has been committed;
+- “the relevant premises”, in relation to an enforcement officer exercising a power of inspection conferred by section 246, 247 or 248, means the vessel, marine installation, premises or vehicle in relation to which the power is being exercised.
+
+##### 269 Power to seize fishing gear for purposes of forfeiture
+
+(1) An enforcement officer who has the power conferred by this section may seize and detain or remove any fishing gear which the officer reasonably believes has been used in the commission of a relevant offence.
+
+(2) The power conferred by this section may only be exercised for the purposes of securing that, in the event of a conviction for a relevant offence, the court may exercise any relevant power of forfeiture in relation to fishing gear used in the commission of the offence.
+
+(3) If, in the opinion of an enforcement officer, it is not for the time being practicable for the officer to seize and remove any fishing gear, the officer may require—
+
+(a) the person from whom the fishing gear is being seized, or
+
+(b) where the officer is exercising a power of inspection conferred by section 246, 247 or 248, any person in or on the relevant premises,
+
+to secure that the fishing gear is not removed or otherwise interfered with until such time as the officer may seize and remove it.
+
+(4) Where an enforcement officer is exercising a power of inspection conferred by section 246, 247 or 248, the officer may require any person in or on the relevant premises to afford such facilities and assistance with respect to matters under that person's control as the officer considers would facilitate the exercise of any power conferred by this section.
+
+(5) Where an enforcement officer reasonably believes that a person is or has been carrying on a relevant activity, the officer may require that person to afford such facilities and assistance with respect to matters under that person's control as the officer considers would facilitate the exercise in relation to that person of any power conferred by this section.
+
+(6) In this section—
+
+- “relevant activity”, in relation to an enforcement officer, means any activity in respect of which the officer has functions;
+- “relevant power of forfeiture” means any power of a court to order the forfeiture of any fishing gear used in the commission of an offence;
+- “the relevant premises”, in relation to an enforcement officer exercising a power of inspection conferred by section 246, 247 or 248, means the vessel, marine installation, premises or vehicle in relation to which the power is being exercised.
+
+##### 270 Procedure in relation to seizure under section 268 or 269
+
+(1) An enforcement officer who seizes any property under section 268 or 269 must, if it is reasonably practicable to do so, serve a notice on each of the following persons—
+
+(a) every person who appears to the officer to have been the owner, or one of the owners, of the property at the time of its seizure;
+
+(b) in the case of property seized from a vessel, the master, owner and charterer (if any) of the vessel at that time;
+
+(c) in the case of property seized from premises, every person who appears to the officer to have been an occupier of the premises at that time;
+
+(d) in any other case, the person (if any) from whom the property was seized.
+
+(2) The notice must state—
+
+(a) what has been seized;
+
+(b) the reason for its seizure;
+
+(c) the offence which the officer believes has been committed;
+
+(d) any further action that it is proposed will be taken;
+
+(e) that, unless the property is liable to forfeiture under section 275 or 276, it is to be detained until such time as it is released or its forfeiture is ordered by the court.
+
+(3) Subsections (4) and (5) apply in a case where the property was seized following an inspection carried out in exercise of the power conferred by section 264.
+
+(4) The officer must serve a copy of the report referred to in section 265 on every person falling within paragraph (a) of subsection (1) above at the same time as the officer serves a notice on that person under this section.
+
+(5) In a case where the officer, after taking reasonable steps to do so, is unable to identify any person as owning the property—
+
+(a) any reference in this section to a requirement to serve a notice on that person is to be read as a reference to a requirement to take such steps as the officer thinks fit to bring the contents of the notice to the attention of persons likely to be interested in it, and
+
+(b) the reference in subsection (4) to serving a copy of the report referred to in section 265 is to be read as a reference to taking the steps referred to in subsection (10)(a) of that section.
+
+##### 271 Retention of property seized under section 268 or 269
+
+(1) Any property seized by an enforcement officer under section 268 or 269 may be retained by the relevant authority.
+
+(2) If either of the grounds for release in subsection (3) applies, the relevant authority must, as soon as is reasonably practicable, make the property available for collection.
+
+(3) The grounds for release referred to in subsection (2) are—
+
+(a) that the relevant authority has decided not to take proceedings in respect of any offence in relation to which the property was seized;
+
+(b) that any proceedings taken in respect of such an offence have concluded without any order for forfeiture having been made.
+
+(4) But subsection (2) does not apply if the property is liable to forfeiture under section 275 or 276.
+
+##### 272 Bonds for release of seized fish or gear
+
+(1) This section applies to any property which is being retained by the relevant authority under section 271.
+
+(2) The relevant authority may enter into an agreement with any person falling within subsection (3) for security for the property to be given to the relevant authority by way of bond in return for the release of the property.
+
+(3) The persons referred to in subsection (2) are—
+
+(a) the owner, or any of the owners, of the property;
+
+(b) in the case of property seized from a vessel, the owner or charterer, or any of the owners or charterers, of the vessel.
+
+(4) Any bond given under this section is to be—
+
+(a) for such amount as may be agreed, or
+
+(b) in the event of a failure to agree an amount, for such amount as may be determined by the court.
+
+“The court” means a magistrates' court in England and Wales.
+
+(5) A person who gives a bond under this section must comply with such conditions as to the giving of the bond as the relevant authority may determine.
+
+(6) If either of the grounds for release mentioned in subsection (7) applies, then any bond given under this section must be returned as soon as possible.
+
+(7) The grounds for release referred to in subsection (6) are—
+
+(a) that the relevant authority has decided not to take proceedings in respect of any offence in relation to which the property was seized;
+
+(b) that any proceedings taken in respect of such an offence have concluded without any order for forfeiture having been made.
+
+(8) Any power which a court has to order the forfeiture of any fish or any fishing gear may instead be exercised in relation to any bond given under this section as security for that fish or fishing gear.
+
+##### 273 Power of relevant authority to sell seized fish in its possession
+
+(1) Any fish which are being retained by the relevant authority under section 271 may be sold by the authority.
+
+(2) Any power which a court has to order the forfeiture of any fish may instead be exercised in relation to the proceeds of any sale of the fish under this section.
+
+(3) Subject to subsection (6), the proceeds of any sale under this section may be retained by the relevant authority until such time as—
+
+(a) a court exercises any power it has to order the forfeiture of the proceeds, or
+
+(b) either of the grounds for release mentioned in subsection (4) applies.
+
+(4) The grounds for release referred to in subsection (3) are—
+
+(a) that the relevant authority has decided not to take proceedings in respect of any offence in relation to which the fish were seized;
+
+(b) that any proceedings taken in respect of such an offence have concluded without any order for forfeiture having been made.
+
+(5) If either of the grounds for release mentioned in subsection (4) applies, the relevant authority must, as soon as is reasonably practicable, release the proceeds of sale to any person who appears to the authority to have been the owner, or one of the owners, of the fish at the time of the seizure of the fish.
+
+(6) If the proceeds of sale are still in the relevant authority's possession after the end of the period of six months beginning with the date on which the fish were sold, the relevant authority may retain the proceeds and apply them in any manner it thinks fit.
+
+The relevant authority may exercise its power under this subsection to retain and apply the proceeds of sale only if it is not practicable at the time when the power is exercised to dispose of the proceeds by releasing them immediately to the person to whom they are required to be released.
+
+(7) Subject to subsection (9), any fish sold under this section must be sold at auction.
+
+(8) Before selling the fish, the relevant authority must give the owner of the fish a reasonable opportunity to make representations as to the manner in which the fish are sold.
+
+(9) If—
+
+(a) the owner of the fish requests that the fish be sold—
+
+(i) at a particular auction, or
+
+(ii) by a method of sale other than auction,
+
+and
+
+(b) the relevant authority does not consider that it would be unreasonable to comply with that request,
+
+the relevant authority must comply with the request when selling the fish.
+
+(10) The relevant authority may deduct any reasonable expenses it has incurred in selling any fish under this section from the proceeds of the sale.
+
+(11) In a case where there is more than one owner of the fish, subsection (9) applies only if the request is made by or on behalf of all of them.
+
+##### 274 Disposal of property seized under section 268 or 269
+
+(1) This section applies to any property seized under section 268 or 269 which the relevant authority—
+
+(a) no longer wishes to retain for any purpose, or
+
+(b) is required to make available for collection by virtue of section 271.
+
+(2) In this section a “notice of collection” is a notice stating that—
+
+(a) the property specified in the notice is available to be collected from the location so specified, and
+
+(b) if the property is not collected before the end of the period of three months beginning with the date specified in the notice, the relevant authority will dispose of the property.
+
+(3) The relevant authority must serve a notice of collection on every person who appears to the authority to be the owner, or one of the owners, of the property.
+
+(4) The relevant authority may take any other steps it considers appropriate to notify every such person that the property is available to be collected.
+
+(5) If the relevant authority, after taking reasonable steps to do so, is unable to identify any person as owning the property, the relevant authority must—
+
+(a) if it is reasonably practicable to do so, serve a notice of collection on every person who is an appropriate person for the purposes of this subsection, and
+
+(b) take such steps as it thinks fit to bring the information contained in the notice of collection to the attention of persons likely to be interested in it.
+
+(6) For the purposes of subsection (5), the following persons are “appropriate persons”—
+
+(a) in the case of property seized from a vessel, the master, owner and charterer (if any) of the vessel at the time of the seizure of the property;
+
+(b) in the case of property seized from premises, every person who appears to the relevant authority to have been an occupier of the premises at that time;
+
+(c) in any other case, the person (if any) from whom the property was seized.
+
+(7) If the relevant authority complies with subsection (3) or subsection (5), as the case may be, the relevant authority may, at the end of the period mentioned in subsection (2)(b), dispose of the property in whatever way it thinks fit.
+
+#### Forfeiture
+
+##### 275 Forfeiture etc of prohibited items
+
+(1) Any item to which this section applies is liable to forfeiture under this section if the use of that item for sea fishing would in any circumstances constitute an offence under the law of England and Wales.
+
+(2) This section applies to any item seized on board a vessel or from the sea by an enforcement officer in the exercise of any power conferred by this Act.
+
+(3) Any item forfeited under this section is to be forfeited to the relevant authority and may be disposed of by that authority in any manner it thinks fit.
+
+##### 276 Forfeiture etc of fish failing to meet size requirements
+
+(1) Any fish to which this section applies are liable to forfeiture under this section if, by virtue of the fish failing to meet requirements as to size, an offence under the law of England and Wales has been committed in respect of the fish.
+
+(2) This section applies to fish seized by an enforcement officer in the exercise of any power conferred by this Act.
+
+(3) Any fish forfeited under this section are to be forfeited to the relevant authority and may be disposed of by that authority in any manner it thinks fit.
+
+##### 277 Further provision about forfeiture under section 275 or 276
+
+Schedule 18 (which makes provision in relation to the forfeiture of property liable to forfeiture under section 275 or 276) has effect.
+
+##### 278 Forfeiture by court following conviction
+
+(1) This section applies where a court by or before which a person is convicted of an offence under the fisheries legislation orders the forfeiture of any fish or any fishing gear in respect of that offence.
+
+(2) The court must order that the property to be forfeited is to be taken into the possession of the person or body by whom proceedings for the offence were brought.
+
+(3) The property may be disposed of as that person or body thinks fit.
+
+(4) Any proceeds arising from the disposal of the property may be retained by the person or body.
+
+(5) The court may order any person convicted of the offence to pay any costs reasonably incurred by any person or body in storing the property that is to be forfeited.
+
+(6) In this section—
+
+- [[^F212]“assimilated restriction” means a restriction that—
+
+  - was created or arose by or under the EU Treaties before IP completion day, and
+  - forms part of assimilated law,
+
+  as modified from time to time;]
+
+- “the fisheries legislation” means—
+
+  - (a) any enactments relating to sea fishing (including any enactment relating to fishing for shellfish, salmon or migratory trout);
+  - (b) any [[^F213][[^F214]assimilated] restriction or [[^F214]assimilated] obligation] relating to sea fishing;
+
+- [^F215]...
+
+#### Detention of vessels in connection with court proceedings
+
+##### 279 Power to detain vessels in connection with court proceedings
+
+(1) This section applies where—
+
+(a) an enforcement officer has reasonable grounds for suspecting that a relevant offence has been committed by the master, owner or charterer of a vessel, and
+
+(b) the officer reasonably believes that—
+
+(i) if proceedings are taken against the person for the offence, there is a real risk that the person will not attend court unless the vessel is detained under this section, or
+
+(ii) if the person is convicted of the offence and the court by or before which the person is convicted imposes a fine on that person, it is likely that the court will order the vessel to be detained.
+
+(2) Where this section applies, an enforcement officer who has the power conferred by this section may—
+
+(a) take, or arrange for another person to take, the vessel and its crew to the port which appears to the officer to be the nearest convenient port, or
+
+(b) require any person who is for the time being in charge of the vessel to take it and its crew to that port.
+
+(3) When a vessel has been taken to a port in pursuance of this section, the officer may—
+
+(a) detain it there, or
+
+(b) require the person for the time being in charge of it to do so.
+
+(4) An enforcement officer who detains any vessel under this section must, if it is reasonably practicable to do so, serve a notice on—
+
+(a) the owner of the vessel,
+
+(b) the charterer (if any) of the vessel, and
+
+(c) the person who is for the time being in charge of the vessel.
+
+(5) The notice must state—
+
+(a) the reasons for detaining the vessel;
+
+(b) the circumstances in which the vessel may be released.
+
+##### 280 Release of vessels detained under section 279
+
+(1) This section applies where a vessel is being detained under section 279.
+
+(2) The vessel ceases to be detained under that section if one of the following things occurs—
+
+(a) the notice of detention is withdrawn;
+
+(b) the court orders the release of the vessel under section 281;
+
+(c) any proceedings taken against the master, owner or charterer of the vessel have concluded;
+
+(d) the court referred to in section 279(1)(b)(ii) exercises any power it has to order the vessel to be detained.
+
+(3) A notice of detention may be withdrawn by service of a further notice signed by an appropriate enforcement officer.
+
+(4) In subsection (3) the reference to an appropriate enforcement officer is a reference to any enforcement officer acting on behalf of the same relevant authority as the enforcement officer who served the notice of detention, and includes a reference to that officer.
+
+(5) If any of the grounds for release mentioned in subsection (6) applies, then any notice of detention must be withdrawn as soon as possible.
+
+(6) The grounds for release referred to in subsection (5) are—
+
+(a) that the relevant authority has decided not to take proceedings against the master, owner or charterer of the vessel;
+
+(b) that there are no grounds for believing that any person referred to in paragraph (a) against whom proceedings have been, or may be, taken will fail to attend court;
+
+(c) that there are no grounds for believing that the court referred to in section 279(1)(b)(ii) will order the vessel to be detained.
+
+(7) In this section “notice of detention” means a notice served under section 279(4).
+
+##### 281 Power of court to order release of vessels
+
+(1) This section applies where a vessel is being detained under section 279.
+
+(2) If, on an application made to a magistrates' court in England and Wales by the owner or charterer, or any of the owners or charterers, of the vessel, the court is satisfied that—
+
+(a) the continued detention of the vessel under section 279 is not necessary to secure that the master, owner or charterer of the vessel will attend court, or
+
+(b) there are no grounds for believing that the court referred to in section 279(1)(b)(ii) will order the vessel to be detained,
+
+the court may order that the vessel be released.
+
+##### 282 Bonds for release of vessels
+
+(1) Where a vessel is being detained under section 279, the relevant authority may enter into an agreement with the owner or charterer, or any of the owners or charterers, of the vessel for security for the vessel to be given to the relevant authority by way of bond in return for the withdrawal of the notice of detention.
+
+(2) Any bond given under this section is to be—
+
+(a) for such amount as may be agreed, or
+
+(b) in the event of a failure to agree an amount, for such amount as may be determined by the court.
+
+“The court” means a magistrates' court in England and Wales.
+
+(3) A person who gives a bond under this section must comply with such conditions as to the giving of the bond as the relevant authority may determine.
+
+(4) If any of the grounds for release mentioned in subsection (5) applies, then any bond given under this section must be returned as soon as possible.
+
+(5) The grounds for release referred to in subsection (4) are—
+
+(a) that the relevant authority has decided not to take proceedings against the master, owner or charterer of the vessel;
+
+(b) that there are no grounds for believing that any person referred to in paragraph (a) against whom proceedings have been, or may be, taken will fail to attend court;
+
+(c) that there are no grounds for believing that the court referred to in section 279(1)(b)(ii) would, in the absence of the bond, have ordered the vessel to be detained;
+
+(d) that any proceedings taken against the master, owner or charterer of the vessel have concluded without any fine having been imposed.
+
+(6) Where a court imposes a fine on the master, owner or charterer of the vessel, the court may order any sum of money given as a bond under this section to be used towards the payment of the fine.
+
+If the fine is less than the amount of the bond, any sum not required to be used in payment of the fine must be returned to the person who gave the bond as soon as possible.
+
+(7) In this section “notice of detention” means a notice served under section 279(4).
+
+##### 283 Power of court to order repayment of bonds
+
+(1) This section applies where a notice of detention served under section 279(4) in respect of a vessel has been withdrawn in return for a bond given as security for the vessel under section 282.
+
+(2) If, on an application to a magistrates' court in England and Wales by the person who gave the bond, the court is satisfied that—
+
+(a) the continued detention of the bond under section 282 is not necessary to secure that the master, owner or charterer of the vessel will attend court, or
+
+(b) there are no grounds for believing that the court referred to in section 279(1)(b)(ii) would, in the absence of the bond, have ordered the vessel to be detained,
+
+the court may order that the bond be returned to the person who gave it.
+
+#### Production of equipment
+
+##### 284 Power to require production of certain equipment
+
+(1) An enforcement officer who has the power conferred by this section may require any person on board a vessel to produce any equipment falling within subsection (2).
+
+(2) The equipment referred to in subsection (1) is—
+
+(a) any automatic recording equipment or transmitting equipment used in accordance with a condition included in a licence by virtue of [[^F216]paragraph 1 of Schedule 3 to the Fisheries Act 2020 or section] 4A(6) of the Sea Fish (Conservation) Act 1967 (c. 84);
+
+(b) any equipment which is required to be carried on board a vessel by virtue of a byelaw made by an inshore fisheries and conservation authority under section 155;
+
+(c) any equipment which is required to be carried on board a vessel by virtue of an order made by the Welsh Ministers under section 189.
+
+#### Supplementary
+
+##### 285 Service of notices, etc
+
+(1) Any notice or other thing that is required to be served on or given to a person under any provision of this Chapter may be served on or given to the person only by one of the following methods—
+
+(a) personal delivery;
+
+(b) addressing it to the person and leaving it at the appropriate address;
+
+(c) addressing it to the person and sending it to that address by post.
+
+(2) “The appropriate address”, in relation to the owner of a vessel that is registered in any country or territory, means the address given by that register as the address of the owner of the vessel.
+
+(3) In relation to any other person “the appropriate address” means—
+
+(a) in the case of a body corporate, its registered or principal office in the United Kingdom;
+
+(b) in the case of a firm, the principal office of the partnership;
+
+(c) in the case of an unincorporated body or association, the principal office of the body or association;
+
+(d) in any other case, the person's usual or last known place of residence in the United Kingdom or last known place of business in the United Kingdom.
+
+(4) In the case of—
+
+(a) a company registered outside the United Kingdom,
+
+(b) a firm carrying on business outside the United Kingdom, or
+
+(c) an unincorporated body or association with offices outside the United Kingdom,
+
+the references in subsection (3) to its principal office include references to its principal office within the United Kingdom (if any).
+
+##### 286 Conclusion of proceedings
+
+(1) This section applies for determining when any proceedings have concluded for the purposes of this Chapter.
+
+(2) Where proceedings are terminated by an appealable decision, they are not to be regarded as concluded—
+
+(a) until the end of the ordinary time for appeal against the decision, if no appeal in respect of the decision is brought within that time, or
+
+(b) if an appeal in respect of the decision is brought within that time, until the conclusion of the appeal.
+
+(3) Subsection (2) applies for determining, for the purposes of paragraph (b) of that subsection, when proceedings on an appeal are concluded as it applies for determining when the original proceedings are concluded.
+
+(4) Any reference in subsection (2) to a decision which terminates proceedings includes a reference to a verdict, sentence, finding or order that puts an end to the proceedings.
+
+(5) An appealable decision is a decision of a description against which an appeal will lie, whether by way of case stated or otherwise and whether with or without permission.
+
+(6) Any reference in this section to an appeal includes a reference to an application for permission to appeal.
+
+##### 287 Interpretation of this Chapter
+
+In this Chapter—
+
+- “fish” includes shellfish;
+
+- “relevant authority” means—
+
+  - (a) in relation to the seizure of any object or property by an enforcement officer, the person or body on whose behalf the officer who seized it was acting;
+  - (b) in relation to the detention of a vessel by an enforcement officer, the person or body on whose behalf the officer who detained the vessel was acting;
+
+- “relevant function”, in relation to an enforcement officer, means any function of that officer;
+
+- “relevant offence”, in relation to an enforcement officer, means any offence in respect of which the officer has functions;
+
+- “shellfish” includes crustaceans and molluscs of any kind;
+
+- “vessel” includes any ship or boat or any description of vessel used in navigation.
+
+### Chapter 5 — Common enforcement provisions
+
+#### Introductory
+
+##### 288 Meaning of “enforcement officer”
+
+In this Chapter “enforcement officer” means a person who has any powers conferred by this Part, other than a person who has such powers only by virtue of section 260(2) (persons assisting enforcement officers).
+
+#### Duties of enforcement officers
+
+##### 289 Duty to provide evidence of authority
+
+(1) Before exercising any power conferred by this Part, an enforcement officer must, if requested to do so, produce evidence that the officer is authorised to exercise that power.
+
+(2) An enforcement officer may exercise a power conferred by this Part only if the officer complies with the duty imposed by subsection (1).
+
+(3) If, at the time the request is made, the officer does not consider it practicable to produce the evidence referred to in subsection (1), that subsection does not apply until such time as the officer considers it practicable to comply with the request.
+
+(4) Nothing in this section applies to a person falling within paragraph (c) or (d) of section 235(1).
+
+##### 290 Duty to state name and purpose, etc
+
+(1) Before exercising any power conferred by this Part, an enforcement officer must, if requested to do so, give the information in subsection (3).
+
+(2) Before exercising any power conferred by this Part, any person assisting an enforcement officer by virtue of section 260 must, if requested to do so, give the information in paragraphs (b) and (c) of subsection (3).
+
+(3) The information is—
+
+(a) the person's name;
+
+(b) the power the person is proposing to exercise;
+
+(c) the grounds for proposing to do so.
+
+(4) A person may exercise a power conferred by this Part only if the person complies with the duty imposed by subsection (1) or the duty imposed by subsection (2) (as the case may be).
+
+(5) If, at the time the request is made, the person does not consider it practicable to give the information referred to in subsection (1) or the information referred to in subsection (2) (as the case may be), that subsection does not apply until such time as the person considers it practicable to comply with the request.
+
+#### Liability of enforcement officers
+
+##### 291 Liability of enforcement officers etc
+
+(1) A person within subsection (2) is not to be liable in any civil or criminal proceedings for anything done (or omitted to be done) in, or in connection with, the discharge or purported discharge of the person's functions under this Act.
+
+(2) The persons are—
+
+(a) any enforcement officer;
+
+(b) any person assisting an enforcement officer by virtue of section 260.
+
+(3) Subsection (1) does not apply—
+
+(a) if the act or omission is shown to have been in bad faith,
+
+(b) if there were no reasonable grounds for the act or omission, or
+
+(c) so as to prevent an award of damages in respect of the act or omission on the ground that it was unlawful as a result of section 6(1) of the Human Rights Act 1998 (c. 42) (acts of public authorities incompatible with Convention rights).
+
+#### Offences in relation to enforcement officers
+
+##### 292 Offences in relation to enforcement officers
+
+(1) A person is guilty of an offence if—
+
+(a) the person fails without reasonable excuse to comply with a requirement reasonably made, or a direction reasonably given, by an enforcement officer in the exercise of any power conferred by this Part, or
+
+(b) the person prevents any other person from complying with any such requirement or direction.
+
+(2) A person is not guilty of an offence by reason of a failure to comply with a requirement made under subsection (1) of section 257 if the person complies with subsection (2) of that section.
+
+(3) A person who provides information in pursuance of a requirement reasonably made by an enforcement officer in the exercise of the power conferred by section 263 is guilty of an offence if—
+
+(a) the information is false in a material particular, and the person knows that it is or is reckless as to whether it is, or
+
+(b) the person intentionally fails to disclose any material particular.
+
+(4) A person who intentionally obstructs an enforcement officer in the performance of any of the officer's functions under this Act is guilty of an offence.
+
+(5) A person who assaults an enforcement officer in the performance of any of the officer's functions under this Act is guilty of an offence.
+
+(6) A person who, with intent to deceive, falsely pretends to be an enforcement officer is guilty of an offence.
+
+(7) A person who is guilty of an offence under subsection (1), (3) or (6) is liable—
+
+(a) on summary conviction, to a fine not exceeding the statutory maximum;
+
+(b) on conviction on indictment, to a fine.
+
+(8) A person who is guilty of an offence under subsection (4)[[^F217]or (5)] is liable on summary conviction to [^F218]a fine not exceeding £20,000[^F218][[^F218]a fine].
+
+(9) [^F219]A person who is guilty of an offence under subsection (5) is liable on summary conviction to a fine not exceeding £50,000.
+
+(10) Proceedings for an offence under this section may be taken, and the offence may for all incidental purposes be treated as having been committed, in any part of the United Kingdom.
+
+(11) In this section any reference to an enforcement officer includes a reference to a person assisting an enforcement officer by virtue of section 260.
+
+### Chapter 6 — Miscellaneous and supplementary
+
+#### Enforcement of Community rules
+
+##### 293 Enforcement of Community rules
+
+(1) Section 30 of the Fisheries Act 1981 (c. 29) (enforcement of Community rules) is amended as follows.
+
+(2) In subsection (1)—
+
+(a) after “enforceable Community restrictions” insert “ , and enforceable [[^F220]EU] obligations, ”;
+
+(b) for paragraph (a) substitute—
+
+> (a) if any fishing boat within British fishery limits—
+>
+> (i) fishes in contravention of any such restriction, or
+>
+> (ii) fails to comply with any such obligation,
+>
+> the master, the owner and the charterer (if any) are each guilty of an offence;
+
+;
+
+(c) after paragraph (a) insert—
+
+> (aa) if any English or Welsh fishing boat outside British fishery limits—
+>
+> (i) fishes in contravention of any such restriction, or
+>
+> (ii) fails to comply with any such obligation,
+>
+> the master, the owner and the charterer (if any) are each guilty of an offence;
+>
+> (ab) if any person in England or Wales—
+>
+> (i) fishes in contravention of any such restriction, or
+>
+> (ii) fails to comply with any such obligation,
+>
+> that person is guilty of an offence;
+
+;
+
+(d) in paragraph (b), for “such offences” substitute “ offences under paragraph (a), (aa) or (ab) of this subsection ”;
+
+(e) in paragraph (c), after “restrictions” insert “ and obligations ”.
+
+(3) After subsection (2) insert—
+
+> (2ZA) The provision that may be made by an order made under subsection (2) by the Secretary of State includes—
+>
+> (a) provision applying to English or Welsh fishing boats outside British fishery limits;
+>
+> (b) provision applying to persons of a specified description on board any fishing boat, other than a Scottish or Northern Ireland fishing boat, outside British fishery limits.
+>
+> In this subsection “specified” means specified in the order.
+
+(4) After subsection (2A) insert—
+
+> (2B) Her Majesty may by Order in Council provide for subsection (1) or (2) above to apply, with or without modifications, to any fishing boat within subsection (2C) below that is outside British fishery limits as it applies to any English or Welsh fishing boat outside those limits.
+>
+> (2C) A fishing boat is within this subsection if—
+>
+> (a) it is registered under the law of the Isle of Man or any of the Channel Islands; or
+>
+> (b) it is wholly owned by persons qualified for the purposes of the law relating to the registration of vessels in the Isle of Man or any of the Channel Islands to own fishing vessels which are entitled to be registered as such under that law.
+
+(5) In subsection (3), insert at the appropriate places the following definitions—
+
+> - “English fishing boat” means—
+>
+>   - (a) a fishing boat which is registered in the United Kingdom under Part 2 of the Merchant Shipping Act 1995 and whose entry in the register specifies a port in England as the port to which the boat is to be treated as belonging; or
+>   
+>   - (b) a fishing boat which is wholly owned by persons qualified to own British ships for the purposes of that Part, other than—
+>   
+>     - (i) a Welsh, Scottish or Northern Ireland fishing boat,
+>     - (ii) a fishing boat within subsection (2C) above, or
+>     - (iii) a fishing boat registered in any country or territory other than the United Kingdom, the Isle of Man or any of the Channel Islands;”;
+>
+> - “ “Northern Ireland fishing boat” means a fishing boat which is registered in the United Kingdom under Part 2 of the Merchant Shipping Act 1995 and whose entry in the register specifies a port in Northern Ireland as the port to which the boat is to be treated as belonging;”;
+>
+> - “ “Scottish fishing boat” means a fishing boat which is registered in the United Kingdom under Part 2 of that Act and whose entry in the register specifies a port in Scotland as the port to which the boat is to be treated as belonging;”;
+>
+> - “ “Welsh fishing boat” means a fishing boat which is registered in the United Kingdom under Part 2 of that Act and whose entry in the register specifies a port in Wales as the port to which the boat is to be treated as belonging.
+
+#### Administrative penalty schemes
+
+##### 294 Administrative penalty schemes
+
+(1) The appropriate national authority for any area may by order make provision to confer on any enforcement authority for that area the power to issue penalty notices for offences within subsection (2).
+
+(2) The offences referred to in subsection (1) are offences relating to sea fishing, other than—
+
+(a) an offence under section 30 of the Fisheries Act 1981 (c. 29) or any order made under that section;
+
+(b) an offence under regulations made under section 2(2) of the European Communities Act 1972 (c. 68).
+
+(3) A penalty notice is a notice offering the opportunity, by payment of a specified sum of money, to discharge any liability to be convicted of the offence to which the notice relates.
+
+(4) The provision that may be made by an order under subsection (1) includes—
+
+(a) provision prescribing the offences in relation to which penalty notices may be issued;
+
+(b) provision as to circumstances in which penalty notices may be issued;
+
+(c) provision as to the content and form of penalty notices;
+
+(d) provision as to how the amount of any penalty that may be specified in a penalty notice is to be determined;
+
+(e) provision for the issuing of guidance by the appropriate national authority as to matters to be taken into account when making such a determination;
+
+(f) provision prescribing the minimum or maximum amount of any penalty;
+
+(g) provision about the payment of penalties, including provision as to the period within which any penalty must be paid;
+
+(h) provision for and in connection with the withdrawal of penalty notices;
+
+(i) provision as to circumstances in which proceedings for an offence may be commenced after the payment of a penalty in relation to that offence.
+
+(5) An order under subsection (1) may apply in relation to—
+
+(a) England;
+
+(b) Wales;
+
+(c) any vessels in waters within British fishery limits, other than—
+
+(i) the Scottish zone,
+
+(ii) the Northern Ireland zone, and
+
+(iii) the territorial sea adjacent to the Isle of Man, Jersey and Guernsey;
+
+(d) any English or Welsh fishing boats, wherever they may be.
+
+(6) Her Majesty may by Order in Council provide for this section to apply, with or without modifications, to any fishing boat within subsection (7) that is outside British fishery limits as it applies to any English or Welsh fishing boat outside those limits.
+
+(7) A fishing boat is within this subsection if—
+
+(a) it is registered under the law of the Isle of Man or any of the Channel Islands, or
+
+(b) it is wholly owned by persons qualified for the purposes of the law relating to the registration of vessels in the Isle of Man or any of the Channel Islands to own fishing vessels which are entitled to be registered as such under that law.
+
+(8) In this section—
+
+- “appropriate national authority” means—
+
+  - (a) in relation to Wales or vessels within the Welsh zone, the Welsh Ministers;
+  - (b) in relation to England or vessels outside the Welsh zone, the Secretary of State;
+
+- “enforcement authority” means, in relation to any area, any authority which has a function (whether or not statutory) of taking any action with a view to or in connection with the imposition of any sanction, criminal or otherwise, in a case where an offence within subsection (2) is committed in that area;
+
+- “England” includes the English inshore region;
+
+- “English fishing boat” means—
+
+  - (a) a fishing boat which is registered in the United Kingdom under Part 2 of the Merchant Shipping Act 1995 (c. 21) and whose entry in the register specifies a port in England as the port to which the boat is to be treated as belonging, or
+  
+  - (b) a fishing boat which is wholly owned by persons qualified to own British ships for the purposes of that Part, other than—
+  
+    - (i) a Welsh, Scottish or Northern Ireland fishing boat,
+    - (ii) a fishing boat within subsection (7) above, or
+    - (iii) a fishing boat registered in any country or territory other than the United Kingdom, the Isle of Man or any of the Channel Islands;
+
+- “fishing boat” means any vessel that is being used for fishing or for any activity relating to fishing;
+
+- “Northern Ireland fishing boat” means a fishing boat which is registered in the United Kingdom under Part 2 of the Merchant Shipping Act 1995 (c. 21) and whose entry in the register specifies a port in Northern Ireland as the port to which the boat is to be treated as belonging;
+
+- “Scottish fishing boat” means a fishing boat which is registered in the United Kingdom under Part 2 of the Merchant Shipping Act 1995 and whose entry in the register specifies a port in Scotland as the port to which the boat is to be treated as belonging;
+
+- “sea fishing” includes fishing for or taking shellfish;
+
+- “shellfish” includes crustaceans and molluscs of any kind;
+
+- “vessel” includes any ship or boat or any description of vessel used in navigation;
+
+- “Wales” includes the Welsh inshore region;
+
+- “Welsh fishing boat” means a fishing boat which is registered in the United Kingdom under Part 2 of the Merchant Shipping Act 1995 and whose entry in the register specifies a port in Wales as the port to which the boat is to be treated as belonging.
+
+#### Crown application
+
+##### 295 Application to the Crown
+
+(1) The provisions of Chapters 1 to 5 of this Part are binding on the Crown.
+
+This is subject to subsection (2).
+
+(2) No contravention by the Crown of any provision of Chapter 5 is to make the Crown criminally liable; but the High Court or, in Scotland, the Court of Session may declare unlawful any act or omission of the Crown which constitutes such a contravention.
+
+(3) Despite subsection (2), the provisions of Chapters 1 to 5 of this Part apply to persons in the public service of the Crown as they apply to other persons.
+
+## Part 9 — Coastal access
+
+### The coastal access duty
+
+#### 296 The coastal access duty
+
+(1) Natural England and the Secretary of State must exercise the relevant functions in order to secure the following objectives.
+
+(2) The first objective is that there is a route for the whole of the English coast which—
+
+(a) consists of one or more long-distance routes along which the public are enabled to make recreational journeys on foot or by ferry, and
+
+(b) (except to the extent that it is completed by ferry) passes over land which is accessible to the public.
+
+(3) The second objective is that, in association with that route (“the English coastal route”), a margin of land along the length of the English coast is accessible to the public for the purposes of its enjoyment by them in conjunction with that route or otherwise, except to the extent that the margin of land is relevant excepted land.
+
+(4) The duty imposed on Natural England and the Secretary of State by subsection (1)—
+
+(a) is referred to in this Part as the coastal access duty, and
+
+(b) is to be discharged by them in such stages and within such period as appear to them to be appropriate.
+
+(5) For the purposes of this section, land is accessible to the public if it is—
+
+(a) land which is available to the public for the purposes of open-air recreation, by virtue of provision made under section 3A of the CROW Act and subject to any exclusions or restrictions imposed by or under Part 1 of that Act (access to the countryside),
+
+(b) land in England which, for the purposes of section 1(1) of that Act, is treated by section 15(1) of that Act as being accessible to the public apart from that Act, or
+
+(c) excepted land in England which is accessible to the public by virtue of any enactment or rule of law (other than a military lands byelaw).
+
+(6) Nothing in this section requires Natural England or the Secretary of State, in discharging the coastal access duty so far as it relates to the objective in subsection (3), to exercise functions so as to secure that any land becomes land within subsection (5)(b) or (c).
+
+(7) For the purposes of the coastal access duty, a person is to be regarded as enabled to make a journey by ferry even if that journey can be made at certain times, or during certain periods, only.
+
+(8) In this section—
+
+- “the 1949 Act” means the National Parks and Access to the Countryside Act 1949 (c. 97);
+
+- “the CROW Act” means the Countryside and Rights of Way Act 2000 (c. 37);
+
+- “excepted land” has the same meaning as in Part 1 of the CROW Act;
+
+- “military lands byelaw” means a byelaw under section 14 of the Military Lands Act 1892 (c. 43) or section 2 of the Military Lands Act 1900 (c. 56);
+
+- “relevant excepted land” means excepted land other than land within subsection (5)(c);
+
+- “the relevant functions” means—
+
+  - (a) in relation to Natural England—
+  
+    - (i) its functions under this Part, Part 4 of the 1949 Act (long-distance routes) and Part 1 of the CROW Act (access to the countryside), and
+    - (ii) such of its other functions as it considers it appropriate to exercise for the purpose of securing the objectives in subsections (2) and (3), and
+  
+  - (b) in relation to the Secretary of State—
+  
+    - (i) the Secretary of State's functions under this Part, Part 4 of the 1949 Act and Part 1 of the CROW Act, and
+    - (ii) such of the Secretary of State's other functions as the Secretary of State considers it appropriate to exercise for the purpose of securing the objectives in subsections (2) and (3).
+
+#### 297 General provision about the coastal access duty
+
+(1) In discharging the coastal access duty, Natural England and the Secretary of State must comply with the requirements of this section.
+
+(2) They must have regard to—
+
+(a) the safety and convenience of those using the English coastal route,
+
+(b) the desirability of that route adhering to the periphery of the coast and providing views of the sea, and
+
+(c) the desirability of ensuring that so far as reasonably practicable interruptions to that route are kept to a minimum.
+
+(3) They must aim to strike a fair balance between the interests of the public in having rights of access over land and the interests of any person with a relevant interest in the land.
+
+(4) For this purpose a person has a relevant interest in land if the person—
+
+(a) holds an estate in fee simple absolute in possession in the land,
+
+(b) holds a term of years absolute in the land, or
+
+(c) is in lawful occupation of the land.
+
+#### 298 The coastal access scheme
+
+(1) Natural England must—
+
+(a) prepare a scheme setting out the approach it will take when discharging the coastal access duty, and
+
+(b) submit the scheme to the Secretary of State.
+
+(2) The Secretary of State may—
+
+(a) approve the scheme, with or without modifications, or
+
+(b) reject the scheme and give Natural England a notice requiring it to prepare and submit a new scheme under subsection (1).
+
+(3) The scheme must be submitted to the Secretary of State within the period of 12 months beginning with the day on which this section comes into force or, in a case within subsection (2)(b), within the period specified in the notice.
+
+(4) Natural England may, with the approval of the Secretary of State, revise a scheme approved under this section.
+
+(5) A scheme approved under this section (and any revised scheme) must set out the approach Natural England will take when deciding, for the purposes of section 55A(4) of the 1949 Act, whether it would be appropriate for an access authority to carry out any preliminary activity (within the meaning of section 55A(3) of that Act).
+
+(6) The Secretary of State must lay before Parliament a copy of the scheme approved under this section and, where that scheme is revised, a copy of the revised scheme.
+
+(7) Before preparing or revising a scheme under this section, Natural England must consult such persons as it considers appropriate.
+
+(8) Natural England must, as soon as reasonably practicable, publish in such manner as it considers appropriate—
+
+(a) the scheme approved by the Secretary of State, and
+
+(b) where that scheme is revised, the revised scheme.
+
+(9) In discharging the coastal access duty, Natural England must act in accordance with the scheme approved under this section (or, where that scheme has been revised, the revised scheme).
+
+(10) Until such time as there is an approved scheme under this section, Natural England may not prepare or submit a report under section 51 or 55 of the 1949 Act (report containing proposals for long-distance routes) pursuant to the coastal access duty.
+
+(11) Nothing in subsection (10) prevents Natural England from surveying any land in connection with the preparation of such a report.
+
+#### 299 Review of the coastal access scheme
+
+(1) Where a scheme has been approved under section 298, Natural England may, from time to time, review the scheme (as revised from time to time under that section).
+
+(2) At least one review must be completed within the period of 3 years beginning with the day on which a scheme is first approved under section 298(2).
+
+(3) Natural England must publish a report of each review under this section as soon as reasonably practicable after the review is completed.
+
+#### 300 The English coast
+
+(1) In this Part “the English coast” means the coast of England adjacent to the sea, including the coast of any island (in the sea) comprised in England (other than an excluded island).
+
+(2) An island is “excluded” if it is neither—
+
+(a) an accessible island, nor
+
+(b) an island specified by the Secretary of State by order for the purposes of this paragraph.
+
+(3) An island is “accessible” if it is possible to walk to the island from the mainland of England, or from another island within subsection (2)(a) or (b), across the foreshore or by means of a bridge, tunnel or causeway.
+
+(4) For the purposes of subsection (3), it is possible to walk to an island even if it is possible to do so at certain times, or during certain periods, only.
+
+(5) An island may be specified by an order under subsection (2)(b) only if the Secretary of State is satisfied that the coast of the island is of sufficient length to enable the establishment of one or more long-distance routes along its length capable of affording the public an extensive journey on foot.
+
+(6) For the purposes of the objective in section 296(2) (the English coastal route), the means of access to an accessible island is (to the extent that it would not otherwise be the case) to be regarded as part of the English coast.
+
+(7) This section is subject to section 307 (Isles of Scilly).
+
+#### 301 River estuaries
+
+(1) This section applies in a case where the continuity of any part of the English coast is interrupted by a river.
+
+(2) Natural England may exercise its functions as if the references in the coastal access provisions to the sea included the relevant upstream waters of the river.
+
+(3) For this purpose “the relevant upstream waters”, in relation to a river, means—
+
+(a) the waters from the seaward limit of the estuarial waters of the river upstream to the first public foot crossing, or
+
+(b) if Natural England so decides, the waters from the seaward limit of the estuarial waters of the river upstream to such limit, downstream of the first public foot crossing, as may be specified by it.
+
+(4) When exercising any power conferred by subsection (2) or (3), Natural England must have regard to the following matters (in addition to the matters mentioned in section 297(2))—
+
+(a) the nature of the land which would, for the purposes of this Part, become part of the coast of England if Natural England exercised the power in subsection (2) in respect of the relevant upstream waters for the limit under consideration;
+
+(b) the topography of the shoreline adjacent to those waters;
+
+(c) the width of the river upstream to that limit;
+
+(d) the recreational benefit to the public of the coastal access duty being extended to apply in relation to the coast adjacent to those waters;
+
+(e) the extent to which the land bordering those waters would, if it were coastal margin, be excepted land;
+
+(f) whether it is desirable to continue the English coastal route to a particular physical feature (whether of the landscape or otherwise) or viewpoint;
+
+(g) the existence of a ferry by which the public may cross the river.
+
+(5) Anything done pursuant to subsection (2) (including any decision under subsection (3)(b)) is to be regarded as done pursuant to, and for the purpose of discharging, the coastal access duty.
+
+(6) Subsections (1) to (5) apply in relation to the Secretary of State as they apply in relation to Natural England.
+
+(7) A decision by Natural England to exercise a power conferred by subsection (2) or (3) in relation to a river—
+
+(a) is without prejudice to any decision by the Secretary of State (by virtue of subsection (6)) as to whether or not to exercise such a power in relation to the river, and
+
+(b) does not affect the requirements of subsection (4) (as they apply by virtue of subsection (6)) or of section 297(2) and (3), in relation to such a decision by the Secretary of State.
+
+(8) In this section—
+
+“coastal access provisions” means—
+
+- (a) this Part (other than this section), and
+- (b) sections 55A to 55J of the 1949 Act;
+
+- “excepted land” has the same meaning as in Part 1 of the CROW Act;
+- “public foot crossing”, in relation to a river, means a bridge over which, or tunnel through which, there is a public right of way, or a public right of access, by virtue of which the public are able to cross the river on foot.
+
+### Implementation of the coastal access duty
+
+#### 302 Long-distance routes
+
+(1) After section 55 of the 1949 Act insert—
+
+> **55A Proposals relating to the English coastal route**
+>
+> (1) Pursuant to the coastal access duty, Natural England may prepare and submit a report under section 51 containing proposals for a route (whether or not the requirements of section 51(1) are satisfied).
+>
+> (2) For the purposes of subsection (1) it is immaterial whether the route or any part of it is already a route in approved proposals relating to a long-distance route.
+>
+> (3) In subsections (4) and (5) “preliminary activity” means activity which Natural England considers would facilitate the preparation by it of a report under section 51 pursuant to the coastal access duty.
+>
+> (4) Where Natural England considers it necessary or expedient for preliminary activity to be carried out as respects any land, it must—
+>
+> (a) consider whether it would be appropriate for the access authority in relation to that land to carry out any of the preliminary activity, and
+>
+> (b) if it concludes that it would be so appropriate, take all reasonable steps to enter into an agreement with the access authority for that purpose.
+>
+> (5) An access authority may, as respects any land in its area, enter into an agreement with Natural England under which the access authority undertakes to carry out preliminary activity.
+>
+> (6) In this section “the coastal access duty” means the duty imposed on Natural England and the Secretary of State by section 296(1) of the Marine and Coastal Access Act 2009.
+>
+> **55B Route subject to erosion etc**
+>
+> (1) This section applies in relation to a report under section 51 prepared pursuant to the coastal access duty.
+>
+> (2) Where Natural England considers that the area through which the route passes is an area to which subsection (3) applies, the report may set out proposals for the route, or any part of it, to be determined at any time in accordance with provision made in the proposals (rather than as shown on a map).
+>
+> (3) This subsection applies to an area if it is or may be—
+>
+> (a) subject to significant coastal erosion or encroachment by the sea, or
+>
+> (b) subject to significant physical change due to other geomorphological processes.
+>
+> (4) The provision made by virtue of subsection (2) may, in particular, provide for the route to be determined by reference to the edge of a cliff or boundary of a field (as it exists from time to time).
+>
+> (5) Where the report contains proposals under subsection (2), the map included in the report in accordance with section 51(2) must show the route as determined, at the time the report is prepared, in accordance with those proposals.
+>
+> (6) Natural England must consult the Environment Agency before exercising its powers under subsection (2) in respect of an area which is or may be—
+>
+> (a) subject to significant coastal erosion or encroachment by the sea, or
+>
+> (b) subject to significant physical change due to other geomorphological processes in relation to which the Agency has functions.
+>
+> **55C Alternative routes**
+>
+> (1) This section applies in relation to a report under section 51 prepared pursuant to the coastal access duty.
+>
+> (2) The report may include, in relation to the route (“the ordinary route”) or any part of it, a proposal under subsection (3) or (4).
+>
+> (3) A proposal under this subsection is a proposal for an alternative route which is to operate as a diversion from the ordinary route, or part, during one or both of the following—
+>
+> (a) any specified period (or periods), and
+>
+> (b) any period during which access to the ordinary route or part is excluded by reason of a direction under Chapter 2 of Part 1 of the CROW Act (exclusion or restriction of access).
+>
+> (4) A proposal under this subsection is a proposal for an alternative route which is to operate as an optional alternative to the ordinary route, or part, during any period for which the ordinary route, or part, might reasonably be regarded as unsuitable for use by reason of—
+>
+> (a) flooding,
+>
+> (b) the action of the tide,
+>
+> (c) coastal erosion or encroachment by the sea, or
+>
+> (d) the effect of any other geomorphological process.
+>
+> (5) In subsection (3)(a) “specified” means—
+>
+> (a) specified in, or determined in accordance with, the proposal, or
+>
+> (b) determined in accordance with the proposal by—
+>
+> (i) a person specified in the proposal, or
+>
+> (ii) a person determined in accordance with the proposal, details of whom are notified to Natural England in accordance with the proposal.
+>
+> (6) Sections 51(2) and 55B apply in relation to an alternative route as they apply in relation to the ordinary route.
+>
+> **55D Coastal margin**
+>
+> (1) This section applies in relation to a report prepared under section 51 pursuant to the coastal access duty.
+>
+> (2) The proposals set out in the report may include—
+>
+> (a) a proposal for any part of the landward boundary of the relevant coastal margin to coincide with a physical feature identified in the proposal,
+>
+> (b) where those proposals include an alternative route, a proposal for any part of the landward or seaward boundary of the alternative route strip to coincide with a physical feature so identified, or
+>
+> (c) a proposal for the landward or seaward boundary of any area excluded from any description of excepted land to coincide with a physical feature so identified.
+>
+> (3) The report must contain—
+>
+> (a) a map showing the landward boundary of the relevant coastal margin, or
+>
+> (b) a description of that boundary which is sufficient to identify the relevant coastal margin.
+>
+> (4) Where a map is contained in a report pursuant to subsection (3)(a), Natural England must provide a person with a relevant interest in affected land, on request, with a copy of that map.
+>
+> (5) The report must set out such proposals (if any) as Natural England considers appropriate as to the directions to be made by it under Chapter 2 of Part 1 of the CROW Act for the exclusion or restriction of the right of access that would arise under section 2(1) of that Act in relation to any land if the proposals in the report were to be approved.
+>
+> (6) Before preparing the report, Natural England must (in addition to complying with section 51(4))—
+>
+> (a) take reasonable steps to consult persons with a relevant interest in affected land,
+>
+> (b) consult any body of a kind mentioned in section 51(4) in whose Park or area affected land is situated (but which is not required to be consulted under section 51(4)),
+>
+> (c) consult each London borough council for an area in which affected land is situated,
+>
+> (d) consult each local access forum for an area in which affected land is situated,
+>
+> (e) consult the Secretary of State in relation to any interests of defence or national security which may be affected by the proposals which Natural England is minded to include in the report,
+>
+> (f) consult the Historic Buildings and Monuments Commission for England in relation to any interests in the preservation of any monument, structure or other thing, mentioned in section 26(3)(b) of the CROW Act which may be affected by those proposals, and
+>
+> (g) consult the Environment Agency in relation to any interests in flood defence, or in the management of the effects of coastal erosion or encroachment by the sea, which may be affected by those proposals.
+>
+> (7) A body within subsection (6)(b), (c) or (d) must provide Natural England with such information as it may reasonably require for the purposes of the report.
+>
+> (8) Where the Secretary of State is consulted under subsection (6)(e), the Secretary of State must—
+>
+> (a) provide Natural England with such information as it may reasonably require as to any exclusion or restriction of the right of access to affected land under section 2(1) of the CROW Act which the Secretary of State proposes to make provision for under section 28 of that Act (defence and national security), and
+>
+> (b) notify Natural England if the Secretary of State is of the opinion that this information, or any part of it, ought not to be disclosed by it on the grounds of the public interest in defence and national security.
+>
+> (9) Subject to subsection (10), the report must contain such of the information provided under subsection (8)(a) as Natural England considers relevant for the purposes of the report.
+>
+> (10) The report may not contain information which Natural England has been notified under subsection (8)(b) ought not to be disclosed by it.
+>
+> **55E Consideration of reports made pursuant to the coastal access duty**
+>
+> Schedule 1A contains—
+>
+> (a) provision about the procedure to be followed when a report is submitted under section 51 pursuant to the coastal access duty;
+>
+> (b) provision which, in relation to such reports, supplements the provision made by section 52.
+>
+> **55F Directions under Part 1 of the CROW Act**
+>
+> (1) This section applies where approved proposals relating to a long-distance route contain proposals as regards a direction to be made by Natural England under Chapter 2 of Part 1 of the CROW Act for the exclusion or restriction of the right of access that would otherwise arise under section 2(1) of that Act.
+>
+> (2) Natural England must make the direction in accordance with those proposals.
+>
+> (3) Subsection (2) is without prejudice to any power Natural England may have to revoke or vary the direction after it is made.
+>
+> **55G Ferries for the purposes of the English coastal route**
+>
+> (1) This section applies where—
+>
+> (a) pursuant to the coastal access duty, approved proposals relating to a long-distance route include proposals for the provision and operation of a ferry, and
+>
+> (b) an approach route to the ferry is not a highway.
+>
+> (2) The reference in section 53(1) to the highway authority for either or both of the highways to be connected by the ferry is to be read as including the highway authority in whose area the approach route is situated.
+>
+> (3) In this section “approach route”, in relation to a ferry, means a part of the English coastal route to be connected to another part of that route by the ferry.
+>
+> **55H Variation pursuant to the coastal access duty**
+>
+> (1) In the case of a report made by Natural England under section 55(1) pursuant to the coastal access duty—
+>
+> (a) the procedural requirements apply with the necessary modifications, and
+>
+> (b) section 55(3) does not apply.
+>
+> (2) The Secretary of State may by regulations provide—
+>
+> (a) that, in relation to a direction under section 55(2) pursuant to the coastal access duty, the procedural requirements apply with the modifications specified in the regulations, and
+>
+> (b) that section 55(3) does not apply in relation to such a direction.
+>
+> (3) The Secretary of State may not make a direction under section 55(2) pursuant to the coastal access duty at a time when there are no regulations under subsection (2) in force.
+>
+> (4) For the purposes of this section—
+>
+> - “modify” includes amend, add to or repeal, and “modification” is to be construed accordingly;
+> - “the procedural requirements” means sections 51(4) and (5), 52(1) and (2), 55D(6) to (10) and 55E, Schedule 1A and regulations under that Schedule.
+>
+> **55I Temporary diversions**
+>
+> (1) This section applies where Natural England or the Secretary of State gives a direction by virtue of Chapter 2 of Part 1 of the CROW Act which excludes the right of access under section 2(1) of that Act, for any period (“the exclusion period”), in relation to any land over which (or any part of which) the English coastal route or any official alternative route passes.
+>
+> (2) This section does not apply if the direction by virtue of that Chapter is expressed to have effect indefinitely.
+>
+> (3) Natural England may give a direction under this section specifying a route (“the temporary route”) which is to apply for the duration of the exclusion period or such part of it as is specified in the direction.
+>
+> (4) The temporary route specified by Natural England may pass only—
+>
+> (a) over land which is access land for the purposes of Part 1 of the CROW Act,
+>
+> (b) over land which, for the purposes of section 1(1) of that Act, is treated by section 15(1) of that Act as being accessible to the public apart from that Act,
+>
+> (c) along a highway, or
+>
+> (d) over any other land the owner of which has agreed to the temporary route (so far as it passes over that land).
+>
+> (5) Natural England must consult the Environment Agency before giving a direction where the temporary route specified passes over land of a type described in subsection (4)(d).
+>
+> (6) A direction under this section—
+>
+> (a) must be in writing, and
+>
+> (b) may be revoked or varied by a subsequent direction under this section.
+>
+> **55J Interpretation of sections 55A to 55J**
+>
+> (1) In sections 55A to 55I, Schedule 1A and this section—
+>
+> - “access authority” has the same meaning as in Part 1 of the CROW Act;
+>
+> - “affected land” means—
+>
+>   - (a) land over which the route, or any alternative route, to which the proposals relate passes, and
+>   
+>   - (b) any other land which—
+>   
+>     - (i) is relevant coastal margin, or an alternative route strip in relation to such an alternative route, and
+>     - (ii) is not excepted land;
+>
+> - “alternative route” is to be construed in accordance with section 55C;
+>
+> - “alternative route strip”, in relation to an alternative route, means—
+>
+>   - (a) in a case where the proposal for the alternative route has not yet been approved under section 52, the land which would become coastal margin during the operation of that route if the proposals in the report were to be so approved (without modifications), and
+>   - (b) in the case of an official alternative route, the land which would become coastal margin during the operation of that route;
+>
+> - “the coastal access duty” has the meaning given by section 55A;
+>
+> - “coastal margin” has the same meaning as in Part 1 of the CROW Act;
+>
+> - “the CROW Act” means the Countryside and Rights of Way Act 2000 (c. 37);
+>
+> - “the English coastal route” means the route secured pursuant to the coastal access duty;
+>
+> - “excepted land” has the same meaning as in Part 1 of the CROW Act;
+>
+> - “local access forum” means a local access forum established under section 94 of the CROW Act;
+>
+> - “official alternative route” means an alternative route which is contained in approved proposals relating to a long-distance route;
+>
+> - “owner”, in relation to land, means the person who holds an estate in fee simple absolute in possession in the land;
+>
+> - “relevant coastal margin”, in relation to proposals, means—
+>
+>   - (a) in a case where the proposals have not yet been approved under section 52, land which would become coastal margin if the proposals were to be approved (without modifications) under that section (disregarding the alternative route strip in relation to any alternative route), and
+>   - (b) in a case where the proposals have been so approved (with or without modifications), land which becomes coastal margin as a result of the proposals having been so approved (disregarding the alternative route strip in relation to any official alternative route).
+>
+> (2) For the purposes of sections 55A to 55I and Schedule 1A, a person has a relevant interest in land if the person—
+>
+> (a) is the owner of the land,
+>
+> (b) holds a term of years absolute in the land, or
+>
+> (c) is in lawful occupation of the land.
+>
+> (3) Any power conferred by sections 55A to 55I or Schedule 1A to make regulations includes—
+>
+> (a) power to make different provision for different cases, and
+>
+> (b) power to make incidental, consequential, supplemental or transitional provision or savings.
+
+(2) After Schedule 1 to the 1949 Act insert the Schedule set out in Schedule 19 to this Act.
+
+#### 303 Access to the coastal margin
+
+(1) Part 1 of the CROW Act (access to the countryside) is amended as follows.
+
+(2) In section 1—
+
+(a) in subsection (1) (definition of “access land”) omit “or” at the end of paragraph (d) and after that paragraph insert—
+
+> (da) is coastal margin, or
+
+,
+
+(b) in subsection (2), after the definition of “the appropriate countryside body” insert—
+
+> “coastal margin” means land which is of a description specified by an order under section 3A;
+
+,
+
+(c) in that subsection, in the definition of “open country”, in paragraph (b) after “land” insert “ or coastal margin ”, and
+
+(d) in subsection (3), after “2006” insert “ (but is not coastal margin) ”.
+
+(3) In section 2 (rights of public in relation to access land)—
+
+(a) in subsection (3), for “prohibition” to the end substitute “ relevant statutory prohibition ”, and
+
+(b) after that subsection insert—
+
+> (3A) In subsection (3) “relevant statutory prohibition” means—
+>
+> (a) in the case of land which is coastal margin, a prohibition contained in or having effect under any enactment, and
+>
+> (b) in any other case, a prohibition contained in or having effect under any enactment other than an enactment contained in a local or private Act.
+
+(4) In section 3 (power to extend to coastal land)—
+
+(a) at the end of the heading insert “ : Wales ”,
+
+(b) in subsection (1) for “Secretary” to “Wales)” substitute “ Welsh Ministers ”, and
+
+(c) in that subsection after “include” insert “ as respects Wales ”.
+
+(5) After that section insert—
+
+> **3A Power to extend to coastal land etc: England**
+>
+> (1) The Secretary of State may by order specify the descriptions of land in England which are coastal margin for the purposes of this Part.
+>
+> (2) An order under subsection (1) may, in particular—
+>
+> (a) describe land by reference to it being—
+>
+> (i) land over which the line taken by the English coastal route passes,
+>
+> (ii) land which is adjacent to and within a specified distance of that line, or
+>
+> (iii) land which is adjacent to land within sub-paragraph (ii),
+>
+> if the land described under paragraphs (i) to (iii), taken as a whole, is coastal land;
+>
+> (b) in relation to cases where a proposal of the kind mentioned in section 55B of the 1949 Act (power to determine the route in accordance with provision made in the report) is contained in relevant approved proposals, describe land by reference to the line taken by the English coastal route as it has effect from time to time in accordance with that proposal;
+>
+> (c) in relation to cases where a proposal of the kind mentioned in section 55C of that Act (alternative routes) is contained in relevant approved proposals, describe land by reference to it being—
+>
+> (i) land over which the line taken by an official alternative route which is for the time being in operation passes, or
+>
+> (ii) land which is adjacent to and within a specified distance of that line,
+>
+> whether or not it is coastal land;
+>
+> (d) in relation to cases where a proposal of the kind mentioned in section 55D(2)(a) or (b) of that Act (proposal that boundary should coincide with a physical feature) is contained in relevant approved proposals, provide that the boundary of an area of coastal margin is to coincide with a physical feature as provided for in that proposal (and for this purpose it is immaterial if the effect is to include other land as coastal margin or to exclude part of an area of coastal land);
+>
+> (e) in relation to cases where a direction under subsection (3) of section 55I of that Act (temporary diversions) specifies a route which (or any part of which) passes over land within subsection (4)(d) of that section, describe land by reference to it being—
+>
+> (i) land over which the line taken by that route (so far as it passes over land within subsection (4)(d) of that section) passes, or
+>
+> (ii) land which is adjacent to and within a specified distance of that line (so far as it so passes),
+>
+> whether or not it is coastal land.
+>
+> (3) For the purposes of subsection (2) it is immaterial whether the English coastal route is in existence at the time the order is made.
+>
+> (4) An order under subsection (1) may modify the provisions of this Part in their application to land which is coastal margin.
+>
+> (5) Provision made by virtue of subsection (4) may, in particular—
+>
+> (a) confer functions on the Secretary of State or Natural England;
+>
+> (b) if providing for any description of land which is coastal margin to be excluded from any description of excepted land—
+>
+> (i) describe that land as mentioned in subsection (2)(a)(i) to (iii), (b) or (c), or
+>
+> (ii) in relation to cases where a proposal of the kind mentioned in section 55D(2)(c) of the 1949 Act (proposal that boundary should coincide with a physical feature) is contained in relevant approved proposals, provide that the boundary of that land (or any part of it) is to coincide with a physical feature as provided for in that proposal.
+>
+> (6) Where, as a result of proposals becoming approved proposals relating to a long-distance route, land becomes coastal margin by virtue of an order under subsection (1)—
+>
+> (a) section 2(1) does not apply in relation to the land by reason of it being coastal margin until the end of the access preparation period in relation to the land,
+>
+> (b) any direction given under Chapter 2 in relation to the land may be expressed to take effect immediately after the end of that period, and
+>
+> (c) until the end of that period, the land is not to be regarded as coastal margin—
+>
+> (i) for the purpose of determining whether it is open country or registered common land, or
+>
+> (ii) for the purposes of section 1(6AA) of the Occupiers' Liability Act 1984 (duty of occupier of coastal margin to persons other than the occupier's visitors).
+>
+> (7) Where, as a result of proposals becoming approved proposals relating to a long-distance route, land becomes coastal margin by virtue of an order under subsection (1), any exclusion or restriction under Chapter 2 of access to the land by virtue of section 2(1) ceases to have effect at the end of the access preparation period.
+>
+> (8) Subsection (7) does not apply to any exclusion or restriction resulting from a direction under Chapter 2 which takes effect after the end of the access preparation period.
+>
+> (9) Subsections (6) and (7) do not apply to land if, at the time it becomes coastal margin by virtue of an order under subsection (1), it is already dedicated as coastal margin under section 16.
+>
+> (10) In this section—
+>
+> - “the 1949 Act” means the National Parks and Access to the Countryside Act 1949;
+>
+> - “access preparation period”, in relation to any land, means the period which—
+>
+>   - (a) begins when the land becomes coastal margin, and
+>   - (b) ends with the day appointed by the Secretary of State by order under this subsection in relation to that land;
+>
+> - “approved proposals relating to a long-distance route” is to be construed in accordance with sections 52(3) and 55(4) of the 1949 Act;
+>
+> - “coastal land” has the same meaning as in section 3;
+>
+> - “the English coastal route” means the route secured (or to be secured) pursuant to the coastal access duty (within the meaning of section 296 of the Marine and Coastal Access Act 2009);
+>
+> - “modify” includes amend, add to or repeal;
+>
+> - “official alternative route” has the meaning given by section 55J of the 1949 Act;
+>
+> - “relevant approved proposals” means approved proposals relating to a long-distance route which is or forms part of the English coastal route;
+>
+> - “specified” means specified in an order under subsection (1);
+>
+> and references to the exclusion or restriction under Chapter 2 of access to any land by virtue of section 2(1) are to be interpreted in accordance with section 21(2) and (3).
+
+(6) In section 16 (dedication of land as access land)—
+
+(a) after subsection (2) insert—
+
+> (2A) Where a person makes a dedication under this section in respect of land within subsection (2B), that dedication may also dedicate the land as coastal margin.
+>
+> (2B) The land within this subsection is—
+>
+> (a) land which is coastal margin, and
+>
+> (b) any other land in England which is adjacent to land which is coastal margin.
+>
+> (2C) Where land is dedicated as coastal margin—
+>
+> (a) in the case of land within subsection (2B)(b), it is to be treated as coastal margin for the purposes of any provision made by or by virtue of this Part (other than section 1), and
+>
+> (b) if—
+>
+> (i) disregarding this paragraph, it would be excepted land, and
+>
+> (ii) it is not land which is accessible to the public by virtue of any enactment or rule of law (other than this Act),
+>
+> it is to be treated for the purposes of any provision made by or by virtue of this Part as if it were not excepted land.
+
+,
+
+(b) in subsection (6), omit “and” at the end of paragraph (c) and after that paragraph insert—
+
+> (ca) in the case of land within subsection (2B), enable a dedication previously made under this section in respect of the land (otherwise than by virtue of subsection (2A)) to be amended, by the persons by whom a dedication could be made, so as to provide that the land is dedicated as coastal margin for the purposes of subsection (2C),
+>
+> (cb) provide for any exclusion or restriction under Chapter 2 of access by virtue of section 2(1) which has effect in relation to land which is within subsection (2B)(b) immediately before it is dedicated as coastal margin to cease to have effect at the time the dedication takes effect, and
+
+, and
+
+(c) after subsection (6) insert—
+
+> (6A) In subsection (6)(cb) the reference to the exclusion or restriction under Chapter 2 of access to any land by virtue of section 2(1) is to be interpreted in accordance with section 21(2) and (3).
+
+(7) In section 20 (codes of conduct and other information)—
+
+(a) in subsection (1), omit “and” at the end of paragraph (a) and after paragraph (b) insert
+
+> , and
+>
+> (c) that, in relation to access land which is coastal margin, the public are informed that the right conferred by section 2(1) does not affect any other right of access that may exist in relation to that land.
+
+, and
+
+(b) after that subsection insert—
+
+> (1A) The duty imposed by subsection (1) to issue and revise a code of conduct may be discharged, in relation to access land which is coastal margin, by (or in part by) issuing and revising a separate code relating to such access land only.
+
+(8) In section 44 (orders and regulations under Part 1), in subsection (3) after “section 3” insert “ or 3A(1) ”.
+
+(9) In section 45 (interpretation of Part 1), after the definition of “the appropriate countryside body” insert—
+
+> “coastal margin” has the meaning given by section 1(2);
+
+.
+
+#### 304 Establishment and maintenance of the English coastal route etc
+
+Schedule 20 (establishment and maintenance of the English coastal route etc) has effect.
+
+### Liabilities
+
+#### 305 Restricting liabilities of Natural England and the Secretary of State
+
+(1) No duty of care is owed by Natural England to any person under the law of negligence—
+
+(a) when preparing or submitting proposals under section 51 or 55 of the 1949 Act (long-distance routes and variations of such routes) pursuant to the coastal access duty,
+
+(b) in connection with any failure by it to erect, under paragraph 6 of Schedule 20, a notice or sign of the kind mentioned in sub-paragraph (2)(b) of that paragraph (notices or signs warning of obstacles or hazards), or
+
+(c) in connection with any failure by it to exclude or restrict access under Chapter 2 of Part 1 of the CROW Act to any land which is coastal margin, other than a failure within subsection (2).
+
+(2) A failure is within this subsection if it arises as a result of Natural England—
+
+(a) deciding not to act in accordance with an application under section 24 or 25 of that Act, or
+
+(b) deciding not to act in accordance with representations made by a person on being consulted under section 27(5) of that Act (consultation of original applicant etc before revoking or varying a direction).
+
+(3) In subsections (1) and (2) the references to Natural England include any person acting on its behalf.
+
+(4) No duty of care is owed by the Secretary of State to any person under the law of negligence when—
+
+(a) approving proposals (with or without modifications) under section 52 or 55 of the 1949 Act pursuant to the coastal access duty, or
+
+(b) giving a direction under section 55 of that Act, pursuant to that duty.
+
+#### 306 Occupiers' liability
+
+In section 1 of the Occupiers' Liability Act 1984 (c. 3) (duty of occupier to persons other than the occupier's visitors), after subsection (6A) insert—
+
+> (6AA) Where the land is coastal margin for the purposes of Part 1 of that Act (including any land treated as coastal margin by virtue of section 16 of that Act), subsection (6A) has effect as if for paragraphs (a) and (b) of that subsection there were substituted “ a risk resulting from the existence of any physical feature (whether of the landscape or otherwise). ”
+
+### General
+
+#### 307 Isles of Scilly
+
+(1) Subject to the provisions of an order under subsection (2), sections 296 to 301, 304, 305, 308 and 309 and Schedule 20 do not apply in relation to the Isles of Scilly.
+
+(2) The Secretary of State may by order provide for the application of any of those provisions in relation to the Isles of Scilly, subject to such modifications as may be specified in the order.
+
+(3) Before making an order under subsection (2), the Secretary of State must consult the Council of the Isles of Scilly.
+
+(4) The power exercisable under section 111 of the 1949 Act (application to Isles of Scilly as if a separate county) in relation to the provisions of Part 4 of that Act is exercisable in relation to that Part as amended by section 302.
+
+(5) The powers exercisable under section 100(1), (2) and (4) of the CROW Act (application to Isles of Scilly) in relation to provisions of Part 1 of that Act are exercisable in relation to that Part as amended by section 303.
+
+#### 308 The Crown
+
+(1) This Part is binding on the Crown and applies in relation to any Crown land as it applies in relation to any other land.
+
+(2) For this purpose “Crown land” means land an interest in which—
+
+(a) belongs to Her Majesty in right of the Crown or in right of Her private estates,
+
+(b) belongs to Her Majesty in right of the Duchy of Lancaster,
+
+(c) belongs to the Duchy of Cornwall, or
+
+(d) belongs to a government department or is held in trust for Her Majesty for the purposes of a government department.
+
+(3) The appropriate authority may enter into—
+
+(a) an agreement under section 35 of the CROW Act (means of access) entered into by Natural England or an access authority by virtue of paragraph 1 of Schedule 20, or
+
+(b) an agreement under paragraph 2 of that Schedule (establishment and maintenance of the English coastal route),
+
+as respects an interest in Crown land held by or on behalf of the Crown.
+
+(4) An agreement described in subsection (3)(a) or (b) as respects any other interest in Crown land is of no effect unless approved by the appropriate authority.
+
+(5) The “appropriate authority” means—
+
+(a) in the case of land which belongs to Her Majesty in right of the Crown, the Crown Estate Commissioners or other government department having management of the land in question;
+
+(b) in the case of land which belongs to Her Majesty in right of Her private estates, a person appointed by Her Majesty in writing under the Royal Sign Manual, or if no such appointment is made, the Secretary of State;
+
+(c) in the case of land which belongs to Her Majesty in right of the Duchy of Lancaster, the Chancellor of the Duchy;
+
+(d) in the case of land which belongs to the Duchy of Cornwall, such person as the Duke of Cornwall, or the possessor for the time being of the Duchy of Cornwall, appoints;
+
+(e) in the case of land which belongs to a government department or is held in trust for Her Majesty for the purposes of a government department, that department.
+
+(6) If any question arises under this section as to what authority is the appropriate authority in relation to any land, that question is to be referred to the Treasury, whose decision is final.
+
+(7) In this section references to Her Majesty's private estates are to be construed in accordance with section 1 of the Crown Private Estates Act 1862 (c. 37).
+
+#### 309 Interpretation of this Part
+
+In this Part—
+
+- “the 1949 Act” has the meaning given by section 296(8);
+- “access authority”, in relation to any land, has the same meaning as in Part 1 of the CROW Act;
+- “the coastal access duty” has the meaning given by section 296(4);
+- “coastal margin” means land which is coastal margin for the purposes of Part 1 of the CROW Act (including any land treated as coastal margin by virtue of section 16 of that Act);
+- “the CROW Act” has the meaning given by section 296(8);
+- “the English coast” has the meaning given by section 300;
+- “the English coastal route” has the meaning given by section 296(3);
+- “estuarial waters” means any waters within the limits of transitional waters, within the meaning of the Water Framework Directive (that is to say, Directive 2000/60/EC of the European Parliament and of the Council of 23 October 2000 establishing a framework for Community action in the field of water policy);
+- “functions” includes powers and duties;
+- “long-distance route” means a route provided for in approved proposals relating to a long-distance route within the meaning of section 52(3) of the 1949 Act (as read with section 55(4) of that Act);
+- “the sea”, subject to section 301, does not include any part of a river which is upstream of the seaward limit of the river's estuarial waters.
+
+### Wales
+
+#### 310 Powers of National Assembly for Wales
+
+In Part 1 of Schedule 5 to the Government of Wales Act 2006 (c. 32) (Assembly measures), in field 16 (sport and recreation), after matter 16.1 insert—
+
+> The establishment and maintenance of a route (or a number of routes) for the coast to enable the public to make recreational journeys.
+>
+> This matter does not include—
+>
+> (a) enabling the public to make journeys by mechanically propelled vehicles (except permitted journeys by qualifying invalid carriages);
+>
+> (b) the creation of new highways (whether under the Highways Act 1980 or otherwise).
+>
+> Securing public access to relevant land for the purposes of open-air recreation.
+>
+> Land is relevant land if it—
+>
+> (a) is at the coast,
+>
+> (b) can be used for the purposes of open-air recreation in association with land within paragraph (a), or
+>
+> (c) can be used for the purposes of open-air recreation in association with a route within matter 16.2.
+>
+> In this matter the reference to land at the coast is not limited to coastal land within the meaning of section 3 of the Countryside and Rights of Way Act 2000.
+>
+> In this field—
+>
+> - “coast” means the coast of Wales adjacent to the sea, including the coast of any island (in the sea) comprised in Wales;
+> - “estuarial waters” means any waters within the limits of transitional waters within the meaning of the Water Framework Directive (that is to say, Directive 2000/60/EC of the European Parliament and of the Council of 23 October 2000 establishing a framework for Community action in the field of water policy);
+> - “highway” has the same meaning as in the Highways Act 1980;
+> - “public foot crossing”, in relation to a river, means a bridge over which, or tunnel through which, there is a public right of way, or a public right of access, by virtue of which the public are able to cross the river on foot;
+> - “qualifying invalid carriage” means an invalid carriage within the meaning of section 20 of the Chronically Sick and Disabled Persons Act 1970 (use of invalid carriages on highways) which complies with the prescribed requirements within the meaning of that section;
+> - “relevant upstream waters”, in relation to a river, means the waters from the seaward limit of the estuarial waters of the river upstream to the first public foot crossing;
+> - “sea” includes the relevant upstream waters of a river;
+>
+> and a journey by a qualifying invalid carriage is a permitted journey if the carriage is being used in accordance with the prescribed conditions within the meaning of section 20 of the Chronically Sick and Disabled Persons Act 1970.
+
+## Part 10 — Miscellaneous
+
+### Natural England
+
+#### 311 Area in which functions of Natural England exercisable
+
+(1) Section 1 of the Natural Environment and Rural Communities Act 2006 (c. 16) (constitution of Natural England) is amended as follows.
+
+(2) In subsection (3) (area in which functions exercisable) after “in relation to England” insert “ (including, where the context requires, the territorial sea adjacent to England) ”.
+
+(3) After subsection (3) insert—
+
+> (3A) An order or Order in Council made—
+>
+> (a) under section 158(3) of the Government of Wales Act 2006 for the purposes of determining which waters are treated as being adjacent to Wales, or
+>
+> (b) under section 126(2) of the Scotland Act 1998 for the purposes of determining which waters are treated as being adjacent to Scotland,
+>
+> applies for the purposes of this section as it applies for the purposes of the Act under which it is made.
+
+.
+
+#### 312 Natural England not to be responder for Civil Contingencies Act 2004
+
+In Schedule 1 to the Civil Contingencies Act 2004 (c. 36) (category 1 and 2 responders) omit paragraph 11A (Natural England).
+
+### Countryside Council for Wales
+
+#### [^F221]313 Area in which functions of Countryside Council for Wales exercisable
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Works detrimental to navigation
+
+#### 314 Works detrimental to navigation
+
+(1) In the Energy Act 2008 (c. 32), after Part 4 (decommissioning of energy installations) insert—
+
+> **Part 4A — Works detrimental to navigation**
+>
+> **Consent required for carrying out of certain operations**
+>
+> **82A Restriction of works detrimental to navigation**
+>
+> (1) A person must not, without the written consent of the Secretary of State, carry out in the regulated zone (see section 82Q) any operation to which this subsection applies (see subsections (2) and (3)).
+>
+> (2) Subsection (1) does not apply to an operation if a marine licence under Part 4 of the Marine and Coastal Access Act 2009 is needed to carry out the operation.
+>
+> (3) Subject to that, subsection (1) applies to an operation if—
+>
+> (a) it causes, or is likely to result in, obstruction or danger to navigation (whether while the operation is being carried out or subsequently),
+>
+> (b) it is of a description falling within subsection (4), and
+>
+> (c) it may be carried out only with a permission falling within subsection (5).
+>
+> (4) The descriptions of operations are—
+>
+> (a) the construction, alteration, improvement, dismantlement or abandonment of any works;
+>
+> (b) the deposit of any object or materials;
+>
+> (c) the removal of any object or materials.
+>
+> (5) The permissions are—
+>
+> (a) a licence under section 3 of the Petroleum Act 1998 or section 2 of the Petroleum (Production) Act 1934,
+>
+> (b) a licence under section 4 or 18 of this Act (gas storage and gas unloading, and carbon capture and storage licences),
+>
+> (c) a works authorisation under Part 3 of the Petroleum Act 1998 (construction etc of submarine pipelines),
+>
+> and see also subsection (6).
+>
+> (6) For the purposes of this Part, the operations which may be carried out only with a permission falling within subsection (5) include operations which, by virtue of a permission falling within paragraph (a) or (b) of that subsection, may be carried out only with the consent of the Secretary of State or another person.
+>
+> (7) In the case of an authorised exploration or exploitation operation (see subsection (8))—
+>
+> (a) the reference in subsection (3) to an operation being likely to result in obstruction or danger to navigation,includes
+>
+> (b) a reference to the operation being likely to result in obstruction or danger to navigation by reason of any use intended to be made of the works in question when constructed, altered or improved.
+>
+> (8) In this Part “authorised exploration or exploitation operation” means any operation—
+>
+> (a) which is of a description falling within subsection (4)(a), and
+>
+> (b) which may be carried out only with a permission falling within subsection (5).
+>
+> **82B Applications for consent under section 82A**
+>
+> (1) The Secretary of State may, as a condition of considering an application for consent under section 82A, require to be furnished with such plans and particulars of the proposed operation as the Secretary of State may consider necessary.
+>
+> (2) On receipt of any such application, the Secretary of State may cause to be published notice of—
+>
+> (a) the application, and
+>
+> (b) the time within which, and the manner in which, objections to the application may be made.
+>
+> (3) Any such notice is to be published in such a manner as to be likely to come to the attention of those likely to be interested in, or affected by, the application.
+>
+> (4) The Secretary of State may cause an inquiry to be held in connection with the determination of an application for consent.
+>
+> **82C Determination of applications for consent under section 82A**
+>
+> (1) If the Secretary of State is of the opinion that any operation in respect of which an application is made for consent under section 82A will cause, or is likely to result in, obstruction or danger to navigation, subsection (2) applies.
+>
+> (2) In any such case, the Secretary of State must either—
+>
+> (a) refuse to give consent, or
+>
+> (b) give consent subject to such conditions as the Secretary of State considers appropriate.
+>
+> (3) In exercising functions under subsection (2), the Secretary of State must have regard to the nature and extent of the obstruction or danger which it appears to the Secretary of State would otherwise be caused or be likely to result.
+>
+> (4) In the case of an authorised exploration or exploitation operation—
+>
+> (a) any reference in subsection (1) or (3) to an operation being likely to result in obstruction or danger to navigation,includes
+>
+> (b) a reference to the operation being likely to result in obstruction or danger to navigation by reason of any use intended to be made of the works in question when constructed, altered or improved.
+>
+> (5) A consent of the Secretary of State under section 82A may be given so as to continue in force, unless renewed, only if the operation for which the consent is given is begun or completed within such period as may be specified in the consent.
+>
+> (6) Subsection (5) applies in relation to the renewal of a consent as it applies in relation to the giving of consent.
+>
+> **82D Authorised exploration or exploitation operations: consent conditions**
+>
+> (1) This section applies where the Secretary of State has given consent for an authorised exploration or exploitation operation, but subject to a condition (a “consent condition”).
+>
+> (2) A consent condition shall either—
+>
+> (a) remain in force for a specified period, or
+>
+> (b) remain in force without limit of time,
+>
+> but this is subject to subsection (5).
+>
+> (3) A consent condition, in addition to binding the person to whom the consent is given, also binds, so far as is appropriate, any other person who for the time being owns, occupies, or enjoys any use of, the works in question.
+>
+> (4) Where—
+>
+> (a) a consent condition relates to the taking of navigational precautions, and
+>
+> (b) the Secretary of State considers it appropriate to vary the condition in the interests of the safety of navigation (whether or not the operation has been completed),
+>
+> the Secretary of State may vary the condition for the purpose of enhancing the effectiveness of the aids to navigation which are to be provided or the other measures which are to be taken.
+>
+> (5) The Secretary of State may revoke any consent condition.
+>
+> (6) In this section “taking of navigational precautions” means any of the following—
+>
+> (a) the provision of any lights, signals or other aids to navigation;
+>
+> (b) the stationing of guard ships in the vicinity of the works in question;
+>
+> (c) the taking of any other measures for the purpose of, or in connection with, controlling the movements of ships in the vicinity of those works.
+>
+> **Directions by the Secretary of State**
+>
+> **82E Secretary of State's power of direction**
+>
+> (1) This section applies if—
+>
+> (a) the person to whom a consent under section 82A is given fails to comply with any provision of the consent, or
+>
+> (b) a person who, by virtue of section 82D(3), is bound by a consent condition fails to comply with the condition.
+>
+> (2) The Secretary of State may direct that person (the “defaulter”) to take steps which the Secretary of State considers necessary or appropriate to comply with the provision or condition within a period specified in the direction.
+>
+> (3) The Secretary of State must consult the defaulter before giving a direction under subsection (2).
+>
+> (4) If the defaulter fails to comply with a direction under subsection (2), the Secretary of State may—
+>
+> (a) comply with the direction on behalf of the defaulter, or
+>
+> (b) make arrangements for another person to do so.
+>
+> (5) A person taking action by virtue of subsection (4) may—
+>
+> (a) do anything which the defaulter could have done, and
+>
+> (b) recover from the defaulter any reasonable costs incurred in taking the action.
+>
+> (6) A person (“P”) liable to pay any sum by virtue of subsection (5)(b) must also pay interest on that sum for the period beginning with the day on which the person taking action by virtue of subsection (4) notified P of the sum payable and ending with the date of payment.
+>
+> (7) The rate of interest payable in accordance with subsection (6) is a rate determined by the Secretary of State as comparable with commercial rates.
+>
+> (8) The defaulter must provide a person taking action by virtue of subsection (4) with such assistance as the Secretary of State may direct.
+>
+> (9) The power to give a direction under this section is without prejudice to any provision made—
+>
+> (a) in the consent, with regard to the enforcement of any of its provisions, or
+>
+> (b) in the condition, with regard to the enforcement of the condition.
+>
+> **Emergency safety requirements**
+>
+> **82F Damage to, or changes in, the works: emergency safety notices**
+>
+> (1) This section applies in any case where—
+>
+> (a) the Secretary of State has given consent (“the relevant consent”) for an authorised exploration or exploitation operation, and
+>
+> (b) at any time after the giving of that consent, the condition in subsection (2) is met.
+>
+> (2) The condition is that it appears to the Secretary of State that any danger to navigation has arisen by reason of—
+>
+> (a) any substantial damage to any works to which the relevant consent relates, or
+>
+> (b) any other substantial and unforeseen change in the state or position of any such works.
+>
+> (3) If it appears to the Secretary of State necessary to do so in the interests of the safety of navigation, the Secretary of State may serve a notice (an “emergency safety notice”) on the consent holder.
+>
+> (4) By serving an emergency safety notice on the consent holder, the Secretary of State imposes on the consent holder such requirements as are prescribed in the notice with respect to any of the matters specified in subsection (5).
+>
+> (5) Those matters are—
+>
+> (a) the provision on, or in the vicinity of, the works in question of any lights, signals or other aids to navigation, and
+>
+> (b) the stationing of guard ships in the vicinity of those works.
+>
+> (6) An emergency safety notice may be served by the Secretary of State whether or not—
+>
+> (a) the operation in question has been completed, or
+>
+> (b) any condition was imposed by the Secretary of State, on giving the relevant consent, with respect to any of the matters referred to in subsection (5).
+>
+> **82G Emergency safety notices: supplementary provisions**
+>
+> (1) If the consent holder fails to comply with an emergency safety notice within the time allowed, the Secretary of State may—
+>
+> (a) comply with the notice on behalf of the consent holder, or
+>
+> (b) make arrangements for another person to do so.
+>
+> (2) For the purposes of subsection (1) “the time allowed” is the period of 24 hours beginning with the time when the emergency safety notice is served on the consent holder or as soon after the end of that period as is reasonably practicable.
+>
+> (3) A person taking action by virtue of subsection (1) may—
+>
+> (a) do anything which the consent holder could have done, and
+>
+> (b) recover any reasonable costs incurred in taking the action from such one or more persons falling within subsection (4) as the Secretary of State considers appropriate.
+>
+> (4) The persons are—
+>
+> (a) the consent holder;
+>
+> (b) any other person or persons bound by a consent condition by virtue of section 82D(3).
+>
+> (5) A person (“P”) liable to pay any sum by virtue of subsection (3)(b) must also pay interest on that sum for the period beginning with the day on which the person taking action by virtue of subsection (1) notified P of the sum payable and ending with the date of payment.
+>
+> (6) The rate of interest payable in accordance with subsection (5) is a rate determined by the Secretary of State as comparable with commercial rates.
+>
+> (7) Once an emergency safety notice has been complied with (whether by the consent holder or otherwise)—
+>
+> (a) the requirements of the notice are, subject to subsection (8), to be treated for the purposes of this Part as conditions subject to which the consent was given, but
+>
+> (b) section 82D(2) and (5) are not to apply in the case of those requirements.
+>
+> (8) If it appears to the Secretary of State (whether on the application of any person or otherwise) that the circumstances giving rise to the urgent necessity for the imposition of the requirements no longer exist, the Secretary of State must revoke the requirements by notice served on the consent holder.
+>
+> (9) Where the Secretary of State has served an emergency safety notice in respect of any particular circumstances, subsection (7) does not preclude the Secretary of State from serving a further such notice in respect of those circumstances.
+>
+> **82H Failure to comply with condition: immediate action notice**
+>
+> (1) This section applies where—
+>
+> (a) a consent under section 82A(1) has been given subject to conditions,
+>
+> (b) a person falling within subsection (2) fails to comply with a condition, and
+>
+> (c) it appears to the Secretary of State that any danger to navigation has arisen by reason of the failure to comply with the condition.
+>
+> (2) The persons are—
+>
+> (a) the consent holder;
+>
+> (b) any person bound by the condition by virtue of section 82D(3).
+>
+> (3) If it appears to the Secretary of State necessary to do so in the interests of the safety of navigation, the Secretary of State may serve a notice (an “immediate action notice”) on the person, imposing on the person one or more specified requirements falling within subsection (4).
+>
+> (4) The requirements are—
+>
+> (a) a requirement to comply with the condition;
+>
+> (b) a requirement to take any specified action or actions to remedy the failure to comply with the condition.
+>
+> (5) Subsections (1) to (6) of section 82G apply in relation to a person and an immediate action notice as they apply in relation to the consent holder and an emergency safety notice.
+>
+> (6) In this section “specified” means specified in the immediate action notice.
+>
+> **Enforcement**
+>
+> **82I Carrying out operation without consent etc**
+>
+> (1) It is an offence for a person—
+>
+> (a) to carry out an operation to which subsection (1) of section 82A applies without the written consent of the Secretary of State under that subsection, or
+>
+> (b) to fail to comply with a condition of such a consent.
+>
+> (2) A person guilty of an offence under this section is liable—
+>
+> (a) on summary conviction, to a fine not exceeding £50,000, or
+>
+> (b) on conviction on indictment, to imprisonment for a term not exceeding 2 years or to a fine, or both.
+>
+> **82J Offences relating to consents**
+>
+> (1) It is an offence for a person to make a statement which the person knows to be false, or recklessly to make a statement which is false, in order to obtain the consent of the Secretary of State under section 82A(1).
+>
+> (2) It is an offence for a person to fail to disclose information which the person knows, or ought to know, to be relevant to an application for the consent of the Secretary of State under section 82A(1).
+>
+> (3) A person guilty of an offence under this section is liable—
+>
+> (a) on summary conviction, to a fine not exceeding the statutory maximum, or
+>
+> (b) on conviction on indictment, to a fine.
+>
+> **82K Failure to comply with direction under section 82E**
+>
+> (1) It is an offence for a person to fail to comply with a direction under section 82E, unless the person proves that due diligence was exercised in order to avoid the failure.
+>
+> (2) A person guilty of an offence under this section is liable—
+>
+> (a) on summary conviction, to a fine not exceeding £50,000, or
+>
+> (b) on conviction on indictment, to imprisonment for a term not exceeding 2 years or to a fine, or both.
+>
+> **82L Failure to comply with notice under section 82F or 82H**
+>
+> (1) It is an offence for a person to fail to comply with—
+>
+> (a) an emergency safety notice, or
+>
+> (b) an immediate action notice,
+>
+> within the time allowed (within the meaning of section 82G(1)).
+>
+> (2) A person guilty of an offence under this section is liable—
+>
+> (a) on summary conviction, to a fine not exceeding £50,000, or
+>
+> (b) on conviction on indictment, to imprisonment for a term not exceeding 2 years or to a fine, or both.
+>
+> **82M Injunctions restraining breaches of section 82A(1)**
+>
+> (1) Where the Secretary of State considers it necessary or expedient to restrain any actual or apprehended breach of section 82A(1), the Secretary of State may apply to the court for an injunction or, in Scotland, an interdict.
+>
+> (2) An application may be made whether or not the Secretary of State has exercised, or is proposing to exercise, any of the other powers under this Part.
+>
+> (3) On an application under subsection (1), the court may grant such an injunction or interdict as the court considers appropriate for the purpose of restraining the breach.
+>
+> (4) Rules of court may provide for an injunction or interdict to be issued against a person whose identity is unknown.
+>
+> (5) In this section “the court” means—
+>
+> (a) the High Court, or
+>
+> (b) in Scotland, the Court of Session.
+>
+> **82N Inspectors**
+>
+> (1) The Secretary of State may appoint persons to act as inspectors to assist in carrying out the functions of the Secretary of State under this Part.
+>
+> (2) The Secretary of State may make payments, by way of remuneration or otherwise, to inspectors appointed under this section.
+>
+> (3) The Secretary of State may make regulations about—
+>
+> (a) the powers and duties of inspectors appointed under this section;
+>
+> (b) the powers and duties of any other person acting on the directions of the Secretary of State in connection with a function under this Part;
+>
+> (c) the facilities and assistance to be accorded to persons mentioned in paragraph (a) or (b).
+>
+> (4) The powers conferred by virtue of subsection (3) may include powers of a kind specified in section 108(4) of the Environment Act 1995 (powers of entry, investigation, etc).
+>
+> (5) Any regulations under this section may provide for the creation of offences which are punishable—
+>
+> (a) on summary conviction, by a fine not exceeding the statutory maximum or such lesser amount as is specified in the regulations, and
+>
+> (b) on conviction on indictment, by a fine.
+>
+> **82O Criminal proceedings**
+>
+> (1) Proceedings for a relevant offence may be taken, and the offence may for all incidental purposes be treated as having been committed, in any place in the United Kingdom.
+>
+> (2) Section 3 of the Territorial Waters Jurisdiction Act 1878 (restriction on prosecutions) does not apply to any proceedings for a relevant offence.
+>
+> (3) In this section “relevant offence” means—
+>
+> (a) an offence under this Part, or
+>
+> (b) an offence created by regulations under section 82N.
+>
+> **Supplementary provisions**
+>
+> **82P Power to extend the application of this Part**
+>
+> (1) The Secretary of State may by order provide that specified provisions of this Part are to apply, subject to any specified modifications, in relation to the carrying out of specified operations, or operations of a specified description, in the Scottish inshore region.
+>
+> (2) The operations must be operations—
+>
+> (a) which either fall within section 82A(4) or are carried on in the course of taking installation abandonment measures (or both),
+>
+> (b) which cause, or are likely to result in, obstruction or danger to navigation (whether while the operation is being carried out or subsequently), and
+>
+> (c) which the Scottish Ministers do not have power to control or regulate for the purpose of preventing such obstruction or danger.
+>
+> (3) The reference in subsection (1) to “the Scottish inshore region” includes a reference to—
+>
+> (a) the shore adjoining that region, and
+>
+> (b) any land in Scotland adjoining or adjacent to that shore.
+>
+> (4) If an order under this section makes provision in relation to the carrying out of an operation in the course of taking installation abandonment measures—
+>
+> (a) section 82A(3)(c) does not apply in relation to the operation, but
+>
+> (b) paragraph (a) is subject to any different modification or other provision to the contrary made by an order under this section.
+>
+> (5) For the purposes of this section “installation abandonment measures” are any measures taken in connection with the abandonment of—
+>
+> (a) an offshore installation or submarine pipeline, within the meaning of Part 4 of the Petroleum Act 1998, or
+>
+> (b) a carbon storage installation, within the meaning of section 30 of this Act,
+>
+> whether or not the measures are taken in pursuance of an abandonment programme.
+>
+> (6) In subsection (5) “abandonment programme” means—
+>
+> (a) an abandonment programme under Part 4 of the Petroleum Act 1998;
+>
+> (b) an abandonment programme under that Part, as it applies by virtue of section 30 of this Act.
+>
+> (7) In this section “specified” means specified in the order.
+>
+> **82Q Interpretation of this Part**
+>
+> In this Part—
+>
+> - “authorised exploration or exploitation operation” has the meaning given by section 82A(8);
+>
+> - “consent holder” means the person to whom a consent under section 82A is given;
+>
+> - “emergency safety notice” is to be read in accordance with section 82F(3);
+>
+> - “immediate action notice” is to be read in accordance with section 82H(3);
+>
+> - “regulated zone” means the area that consists of—
+>
+>   - (a) the area of sea within the seaward limits of the territorial sea, other than the Scottish inshore region, and
+>   - (b) the area of sea within the limits of the UK sector of the continental shelf,
+>
+>   and includes the bed and subsoil of the sea within those areas, the shore adjoining, and any land adjoining or adjacent to that shore, but does not include any land in Scotland;
+>
+> - “Scottish inshore region” has the same meaning as in the Marine and Coastal Access Act 2009 (see section 322 of that Act);
+>
+> - “sea” includes—
+>
+>   - (a) any tidal waters; and
+>   - (b) any land covered with water at mean high water spring tide;
+>
+> - “UK sector of the continental shelf” means the areas for the time being designated by an Order in Council under section 1(7) of the Continental Shelf Act 1964.
+
+.
+
+(2) In section 105(2)(a) of the Energy Act 2008 (c. 32) (instruments requiring draft affirmative procedure) after sub-paragraph (v) insert—
+
+> (va) section 82N (power to make regulations in relation to persons appointed as inspectors etc),
+>
+> (vb) section 82P (power to extend application of Part 4A),
+
+.
+
+### Harbours Act 1964
+
+#### 315 Amendments of the Harbours Act 1964
+
+Schedule 21 (which contains amendments of the Harbours Act 1964 (c. 40)) has effect.
+
+## Part 11 — Supplementary provisions
+
+### 316 Regulations and orders
+
+(1) Any power conferred by this Act on the Secretary of State, the Scottish Ministers, the Welsh Ministers or a Northern Ireland department to make regulations or an order includes—
+
+(a) power to make different provision for different cases, and
+
+(b) power to make incidental, consequential, supplemental or transitional provision or savings.
+
+(2) The power conferred by subsection (1)(b) includes power, for the purpose of making any such provision or savings, to amend any primary or secondary legislation passed or made before, or in the same Session as, this Act.
+
+(3) Any power conferred by this Act on the Secretary of State, the Scottish Ministers or the Welsh Ministers to make regulations or an order is exercisable by statutory instrument.
+
+(4) Subsections (2) and (3) do not apply to—
+
+(a) an order made under any of sections 116 to [[^F222]137G] (orders made for the purpose of designating, or furthering the objectives of, MCZs [[^F223]etc]);
+
+(b) an order made under section 159 (orders amending or revoking byelaws made by IFC authorities).
+
+(5) Any regulations or order made under this Act by a Northern Ireland department are to be a statutory rule for the purposes of the Statutory Rules (Northern Ireland) Order 1979 (S.I. 1979/1513 (N.I. 12)).
+
+(6) A statutory instrument or statutory rule which contains (whether alone or with other provisions)—
+
+[[^F224](za) any order under section 137E that contains provision for the charging of fees for permits (including provision changing the levels of fees),]
+
+(a) any regulation or order which by virtue of subsection (2) or section 188(2)(d) makes provision amending primary legislation, or
+
+(b) any regulation or order under any of the provisions specified in subsection (7),
+
+is subject to draft affirmative procedure.
+
+(7) The provisions are—
+
+(a) section 43(5)(a);
+
+(b) section 66(3);
+
+(c) section 73;
+
+(d) section 93 or 95;
+
+(e) section 98(1) by virtue of section 98(2);
+
+(f) section 108;
+
+(g) section 141(5);
+
+(h) section 142;
+
+(i) section 232;
+
+(j) paragraph 6 of Schedule 1.
+
+(8) A statutory instrument or statutory rule made under this Act which is not subject to—
+
+(a) draft affirmative procedure, or
+
+(b) Commons draft affirmative procedure,
+
+is subject to negative resolution procedure.
+
+(9) Subsection (8) does not apply to a statutory instrument containing only orders under section 324 (commencement orders).
+
+(10) In this Act—
+
+- “draft affirmative procedure” means—
+
+  - (a) in relation to any Order in Council, or any statutory instrument made by the Secretary of State, a requirement that a draft of the instrument be laid before, and approved by a resolution of, each House of Parliament;
+  - (b) in relation to any statutory instrument made by the Scottish Ministers, a requirement that a draft of the instrument be laid before, and approved by a resolution of, the Scottish Parliament;
+  - (c) in relation to any statutory instrument made by the Welsh Ministers, a requirement that a draft of the instrument be laid before, and approved by a resolution of, the National Assembly for Wales;
+  - (d) in relation to any statutory rule made by a Northern Ireland department, a requirement that a draft of the rule be laid before, and approved by a resolution of, the Northern Ireland Assembly;
+
+- “negative resolution procedure” means—
+
+  - (a) in relation to any Order in Council, or any statutory instrument made by the Secretary of State, annulment in pursuance of a resolution of either House of Parliament;
+  - (b) in relation to any statutory instrument made by the Scottish Ministers, annulment in pursuance of a resolution of the Scottish Parliament;
+  - (c) in relation to any statutory instrument made by the Welsh Ministers, annulment in pursuance of a resolution of the National Assembly for Wales;
+  - (d) in relation to any statutory rule made by a Northern Ireland department, negative resolution within the meaning of section 41(6) of the Interpretation Act (Northern Ireland) 1954 (c. 33 N.I.).
+
+(11) In this section—
+
+- “Commons draft affirmative procedure” means, in relation to any statutory instrument, a requirement that a draft of the instrument be laid before, and approved by a resolution of, the House of Commons;
+
+- “primary legislation” means—
+
+  - (a) an Act of Parliament;
+  - (b) an Act of the Scottish Parliament;
+  - (c) a Measure of the National Assembly for Wales;
+  - (d) Northern Ireland legislation;
+
+- “secondary legislation” means subordinate legislation or any other instrument made under primary legislation.
+
+### 317 Directions
+
+(1) Any directions given under this Act must be in writing.
+
+(2) Any power conferred by this Act to give a direction includes power, exercisable in the same manner and subject to the same conditions or limitations, to vary or revoke the direction.
+
+### 318 Offences by directors, partners, etc
+
+(1) Where an offence under this Act has been committed by a body corporate and it is proved that the offence—
+
+(a) has been committed with the consent or connivance of a person falling within subsection (2), or
+
+(b) is attributable to any neglect on the part of such a person,
+
+that person (as well as the body corporate) is guilty of that offence and liable to be proceeded against and punished accordingly.
+
+(2) The persons are—
+
+(a) a director, manager, secretary or similar officer of the body corporate;
+
+(b) any person who was purporting to act in such a capacity.
+
+(3) Where the affairs of a body corporate are managed by its members, subsection (1) applies in relation to the acts and defaults of a member, in connection with that management, as if the member were a director of the body corporate.
+
+(4) Where an offence under this Act has been committed by a Scottish firm and it is proved that the offence—
+
+(a) has been committed with the consent or connivance of a partner of the firm or a person purporting to act as such a partner, or
+
+(b) is attributable to any neglect on the part of such a person,
+
+that person (as well as the firm) is guilty of that offence and liable to be proceeded against and punished accordingly.
+
+### 319 Disapplication of requirement for consent to certain prosecutions
+
+Section 3 of the Territorial Waters Jurisdiction Act 1878 (c. 73) (consents to prosecutions of offences committed on the open sea by persons who are not British citizens) does not apply to any proceedings for an offence under this Act.
+
+### 320 Power to make transitional provisions and savings
+
+(1) The Secretary of State may by order make such transitional provision or savings as the Secretary of State considers necessary or expedient in consequence of any provisions of this Act.
+
+(2) The power conferred by subsection (1) includes power to make provision in addition to, or different from, that made by this Act.
+
+### 321 Repeals
+
+Schedule 22 contains repeals.
+
+### 322 Interpretation
+
+(1) In this Act—
+
+- “baseline” means the baseline from which the breadth of the territorial sea is measured;
+
+- “British fishery limits” has the meaning given by section 1 of the Fishery Limits Act 1976 (c. 86);
+
+- “draft affirmative procedure” has the meaning given in section 316;
+
+- “English inshore region” means the area of sea within the seaward limits of the territorial sea adjacent to England;
+
+- “English offshore region” means so much of the UK marine area as is beyond the seaward limits of the territorial sea but is not within any of the following—
+
+  - (a) the Scottish offshore region;
+  - (b) the Welsh offshore region;
+  - (c) the Northern Ireland offshore region;
+
+- “exclusive economic zone” means any area for the time being designated by an Order in Council under section 41(3);
+
+- “financial year” means any period of twelve months ending with 31st March (except where the context otherwise requires);
+
+- “general objective”, in relation to the MMO, is to be read in accordance with section 2(1);
+
+- “marine policy statement” is to be construed in accordance with sections 44 and 47;
+
+- “Minister of the Crown” has the same meaning as in the Ministers of the Crown Act 1975 (c. 26);
+
+- “the MMO” means the Marine Management Organisation;
+
+- “MPS” means a marine policy statement;
+
+- “nautical mile” means an international nautical mile of 1,852 metres;
+
+- “negative resolution procedure” has the meaning given in section 316;
+
+- “Northern Ireland inshore region” means the area of sea within the seaward limits of the territorial sea adjacent to Northern Ireland;
+
+- “Northern Ireland offshore region” means so much of the Northern Ireland zone as lies beyond the seaward limits of the territorial sea;
+
+- “Northern Ireland zone” has the same meaning as in the Northern Ireland Act 1998 (c. 47) (see section 98(1) and (8) of that Act);
+
+- “notice” means notice in writing;
+
+- “public authority” means any of the following—
+
+  - (a) a Minister of the Crown;
+  - (b) a public body;
+  - (c) a public office holder;
+
+- “public body” includes—
+
+  - (a) a government department;
+  - (b) a Northern Ireland department;
+  - (c) a local authority (see subsection (2));
+  - (d) a local planning authority;
+  - (e) a statutory undertaker (see subsection (2));
+
+- “public office holder” means a person holding any of the following offices—
+
+  - (a) an office under the Crown;
+  - (b) an office created or continued in existence by a public general Act or by devolved legislation (see subsection (3));
+  - (c) an office the remuneration in respect of which is paid out of money provided by Parliament or a devolved legislature (see subsection (3));
+
+- “renewable energy zone” means any area for the time being designated by an Order in Council under section 84(4) of the Energy Act 2004 (c. 20);
+
+- “Scottish inshore region” means the area of sea within the seaward limits of the territorial sea adjacent to Scotland;
+
+- “Scottish offshore region” means so much of the UK marine area as lies outside the Scottish inshore region and consists of—
+
+  - (a) areas of sea which lie within the Scottish zone, and
+  - (b) areas of sea which lie outside the Scottish zone but which are nearer to any point on the baselines from which the breadth of the territorial sea adjacent to Scotland is measured than to any point on the baselines in any other part of the United Kingdom;
+
+- “Scottish zone” has the same meaning as in the Scotland Act 1998 (c. 46) (see section 126(1) and (2) of that Act);
+
+- “sea”, except in Part 9 (coastal access), is to be read in accordance with section 42(3) and (4);
+
+- “subordinate legislation” has the same meaning as in the Interpretation Act 1978 (c. 30) (see section 21 of that Act);
+
+- “territorial sea” means the territorial sea of the United Kingdom;
+
+- “UK marine area” has the meaning given by section 42;
+
+- “UK sector of the continental shelf” means the areas for the time being designated by an Order in Council under section 1(7) of the Continental Shelf Act 1964 (c. 29);
+
+- “Welsh inshore region” means the area of sea within the seaward limits of the territorial sea adjacent to Wales;
+
+- “Welsh offshore region” means so much of the Welsh zone as lies beyond the seaward limits of the territorial sea;
+
+- “Welsh zone” has the same meaning as in the Government of Wales Act 2006 (c. 32) (see section 158(1) and (3) of that Act).
+
+(2) In the definition of “public body” in subsection (1)—
+
+- “local authority” means—
+
+  - (a) in relation to England, a county council, a district council, a parish council, a London borough council, the Common Council of the City of London or the Council of the Isles of Scilly;
+  - (b) in relation to Scotland, a council for any local government area constituted under section 2(1) of the Local Government etc. (Scotland) Act 1994 (c. 39);
+  - (c) in relation to Wales, a county council, a county borough council or a community council;
+  - (d) in relation to Northern Ireland, a district council;
+
+- “statutory undertaker” means a person who is, or is deemed to be, a statutory undertaker for the purposes of any provision of any of the following—
+
+  - (a) Part 11 of the Town and Country Planning Act 1990 (c. 8);
+  - (b) Part 10 of the Town and Country Planning (Scotland) Act 1997 (c. 8);
+  - (c) [[^F225]the Planning Act (Northern Ireland) 2011.]
+
+(3) For the purposes of the definition of “public office holder” in subsection (1)—
+
+- “devolved legislation” means legislation passed by a devolved legislature;
+
+- “devolved legislature” means—
+
+  - (a) the Scottish Parliament;
+  - (b) the National Assembly for Wales;
+  - (c) the Northern Ireland Assembly.
+
+(4) Subsection (5) applies to the question of which waters, or parts of the sea, of any particular description—
+
+(a) are adjacent to Northern Ireland (and, in consequence, are not adjacent to England, Wales or Scotland), or
+
+(b) are not adjacent to Northern Ireland (and, in consequence, are not precluded from being adjacent to England, Wales or Scotland).
+
+(5) The question is to be determined by reference to an Order in Council under section 98(8) of the Northern Ireland Act 1998 (c. 47) if, or to the extent that, the Order in Council is expressed to apply—
+
+(a) by virtue of this subsection, for the purposes of this Act, or
+
+(b) if no provision has been made by virtue of paragraph (a), for the general or residual purposes of that Act.
+
+(6) Subsection (7) applies to the question of which waters, or parts of the sea, of any particular description—
+
+(a) are adjacent to Wales (and, in consequence, are not adjacent to England), or
+
+(b) are not adjacent to Wales (and, in consequence, (but subject to subsections (4) and (5)) are adjacent to England).
+
+(7) The question is to be determined by reference to an order or Order in Council made under or by virtue of section 158(3) or (4) of the Government of Wales Act 2006 (c. 32) (apportionment of sea areas) if, or to the extent that, the order or Order in Council is expressed to apply—
+
+(a) by virtue of this subsection, for the purposes of this Act, or
+
+(b) if no provision has been made by virtue of paragraph (a), for the general or residual purposes of that Act.
+
+(8) Subsection (9) applies to the question of which waters, or parts of the sea, of any particular description—
+
+(a) are adjacent to Scotland (and, in consequence, are not adjacent to England), or
+
+(b) are not adjacent to Scotland (and, in consequence, (but subject to subsections (4) and (5)) are adjacent to England).
+
+(9) The question is to be determined by reference to an Order in Council made under section 126(2) of the Scotland Act 1998 (c. 46) if, or to the extent that, the Order in Council is expressed to apply—
+
+(a) by virtue of this subsection, for the purposes of this Act, or
+
+(b) if no provision has been made by virtue of paragraph (a), for the general or residual purposes of that Act.
+
+### 323 Extent
+
+(1) Subject to the following provisions of this section, this Act extends to England and Wales only.
+
+(2) The amendment or repeal of any enactment (including an enactment comprised in subordinate legislation) by, or in consequence of, the following provisions of this Act has the same extent as the enactment amended or repealed—
+
+(a) Part 1 (the MMO);
+
+(b) Part 2 (exclusive economic zone, UK marine area and Welsh zone), other than paragraph 2 of Schedule 4;
+
+(c) Chapter 3 of Part 7 (migratory and freshwater fish);
+
+(d) Chapter 4 of Part 7 (obsolete fisheries enactments);
+
+(e) Part 9 (coastal access);
+
+(f) in Part 10—
+
+(i) sections 311 and 312 (Natural England);
+
+(ii) section 313 (Countryside Council for Wales);
+
+(iii) section 314 (which inserts Part 4A into the Energy Act 2008 (c. 32));
+
+(g) Schedule 14 (minor and consequential amendments relating to IFC authorities).
+
+(3) Subject to subsection (2)—
+
+(a) any repeal in Schedule 22 (and section 321 so far as relating to the repeal) has the same extent as the provisions of this Act to which the repeal relates, but
+
+(b) paragraph (a) is subject to any provision in the notes in that Schedule.
+
+(4) Subject to subsection (2), the following provisions also extend to Scotland—
+
+(a) Part 1 (the MMO);
+
+(b) Part 2 (exclusive economic zone, UK marine area and Welsh zone);
+
+(c) Part 3 (marine planning);
+
+(d) Part 4 (marine licensing), other than paragraph 1 of Schedule 8;
+
+(e) Chapter 1 of Part 5 (MCZs), other than section 146 and Schedules 11 and 12;
+
+(f) in Chapter 1 of Part 6, sections 165, 166 and 186 (powers of IFC officers etc);
+
+(g) in Part 7 (fisheries)—
+
+(i) sections 212 and 213 (crabs and lobsters);
+
+(ii) section 232 (keeping, introduction and removal of fish);
+
+(h) in Part 8 (enforcement), Chapters 1 to 5 and section 295;
+
+(i) this Part (other than section 321 and Schedule 22, except as provided by subsection (2) or (3)).
+
+(5) Subject to subsection (2), the following provisions also extend to Northern Ireland—
+
+(a) Part 1 (the MMO);
+
+(b) Part 2 (exclusive economic zone, UK marine area and Welsh zone);
+
+(c) Part 3 (marine planning);
+
+(d) Part 4 (marine licensing), other than paragraph 1 of Schedule 8;
+
+(e) Chapter 1 of Part 5 (MCZs), other than section 146 and Schedules 11 and 12;
+
+(f) in Part 8 (enforcement), Chapters 1 to 5 and section 295;
+
+(g) this Part (other than section 321 and Schedule 22, except as provided by subsection (2) or (3)).
+
+(6) The amendments and repeals made by this Act to provisions of the Food and Environment Protection Act 1985 (c. 48) do not extend to any of the Channel Islands or any British overseas territory.
+
+(7) Her Majesty may by Order in Council—
+
+(a) provide for any of the provisions of Part 4 (marine licensing) or this Part, so far as relating to Part 4, to extend, with or without modifications, to any of the territories specified in subsection (8), and
+
+(b) where any such provision is made in relation to any of those territories, repeal any provisions of Part 2 or 4 of the Food and Environment Protection Act 1985 (deposits in the sea etc) as they have effect as part of the law of that territory.
+
+(8) The territories mentioned in subsection (7) are—
+
+(a) the Bailiwick of Jersey;
+
+(b) the Falkland Islands;
+
+(c) South Georgia and the Sandwich Islands;
+
+(d) St Helena and Dependencies.
+
+(9) In section 24 of the Sea Fish (Conservation) Act 1967 (c. 84) (power to extend provisions of that Act to Isle of Man or Channel Islands), as it applies in relation to the Bailiwick of Guernsey, any reference to a provision of that Act includes a reference to that provision as amended by any provision of Chapter 1 of Part 7 of this Act.
+
+(10) The amendments made by—
+
+(a) paragraph 2 of Schedule 4 (amendments to the Fishery Limits Act 1976 (c. 86)),
+
+(b) section 212 (taking of crabs and lobsters for scientific purposes), and
+
+(c) section 213 (orders prohibiting the taking and sale of certain lobsters),
+
+do not extend to the Isle of Man or the Channel Islands.
+
+### 324 Commencement
+
+(1) The following provisions of this Act come into force on the day on which this Act is passed—
+
+(a) in Part 3 (marine planning)—
+
+(i) paragraphs 4(1) to (4), 5 and 6 of Schedule 5 (statement of public participation relating to MPS) and, so far as relating to those paragraphs, paragraphs 1 and 2 of that Schedule;
+
+(ii) sections 44(1)(b) and (5) and 45(4), so far as relating to those paragraphs;
+
+(b) this Part, other than section 321 and Schedule 22;
+
+(c) any power of a Minister of the Crown, the Scottish Ministers, the Welsh Ministers or a Northern Ireland department to make regulations or an order under or by virtue of this Act;
+
+(d) any power to make an Order in Council under the Government of Wales Act 2006 (c. 32) by virtue of the amendments made by section 43 and paragraph 6 of Schedule 4 (Welsh zone).
+
+(2) So far as not already brought into force by virtue of subsection (1), the following provisions of this Act come into force at the end of the period of 2 months beginning with the day on which this Act is passed—
+
+(a) Part 3 (marine planning);
+
+(b) in Part 5—
+
+(i) Chapter 1 (MCZs), so far as not relating to MCZs in Wales;
+
+(ii) Chapter 2 (other conservation sites), so far as not relating to Wales;
+
+(c) sections 190 to 193 (inshore fisheries in Wales);
+
+(d) Part 9 (coastal access).
+
+(3) Subject to subsection (4), the other provisions of this Act come into force on an appointed day.
+
+(4) Any repeal in Schedule 22 (and section 321 so far as relating to the repeal) comes into force in the same way as the provisions of this Act to which the repeal relates.
+
+(5) In this section “appointed day” means such day or days as the Secretary of State may by order appoint.
+
+(6) The power conferred by subsection (5) is exercisable by the Welsh Ministers (and not the Secretary of State) in relation to the following provisions—
+
+(a) so far as relating to MCZs in Wales—
+
+(i) Chapter 1 of Part 5 (MCZs);
+
+(ii) the repeals in Schedule 22 relating to that Chapter;
+
+(iii) section 321 so far as relating to those repeals;
+
+(b) Chapter 2 of Part 5 (other conservation sites), so far as relating to Wales;
+
+(c) so far as relating to sea fisheries districts in Wales, or any part of a sea fisheries district lying in Wales—
+
+(i) in Part 6, section 187 (repeal of the Sea Fisheries Regulation Act 1966 (c. 38));
+
+(ii) the repeals in Schedule 22 relating to that section;
+
+(iii) section 321 so far as relating to that section and those repeals.
+
+(7) An order under subsection (5) may appoint different days for different purposes.
+
+(8) In this section “Wales” includes the Welsh inshore region.
+
+### 325 Short title
+
+This Act may be cited as the Marine and Coastal Access Act 2009.
+
+## Schedule 1 — The Marine Management Organisation
+
+*Section 1*
+
+### Status of the MMO
+
+**1** (1) The MMO is a body corporate.
+
+(2) The MMO is not to be regarded—
+
+(a) as a servant or agent of the Crown,
+
+(b) as enjoying any status, privilege or immunity of the Crown, or
+
+(c) as exempt, by virtue of any connection with the Crown, from any tax, duty, rate, levy or other charge whatsoever, whether general or local,
+
+and the property of the MMO is not to be regarded as property of, or held on behalf of, the Crown.
+
+(3) Accordingly, employees of the MMO are not to be regarded as—
+
+(a) servants or agents of the Crown, or
+
+(b) enjoying any status, immunity or privilege of the Crown.
+
+### The chair of the MMO
+
+**2** A person (the “chair of the MMO”) is to be appointed by the Secretary of State to chair the MMO.
+
+### Membership
+
+**3** (1) The members of the MMO are to be—
+
+(a) the person who is for the time being the chair of the MMO, and
+
+(b) not fewer than 5, nor more than 8, other members (“ordinary members”) who are to be appointed by the Secretary of State.
+
+(2) The Secretary of State must consult the chair of the MMO before appointing any of the ordinary members.
+
+(3) If a person who is an ordinary member is to become the chair of the MMO, the appointment as ordinary member ceases immediately before the person becomes the chair of the MMO.
+
+### The deputy chair of the MMO
+
+**4** The Secretary of State may appoint one of the ordinary members to be the deputy chair of the MMO (“the deputy chair”).
+
+### Considerations in making appointments
+
+**5** In appointing any person to be the chair of the MMO or an ordinary member, the Secretary of State must have regard to the desirability—
+
+(a) of appointing a person who has experience of, and has shown some capacity in, some matter relevant to the exercise of the MMO's functions, and
+
+(b) of securing that a variety of skills and experience is available among the members.
+
+### Power to amend the numbers of members specified in paragraph 3(1)
+
+**6** (1) The Secretary of State may by order amend paragraph 3(1) so as to substitute a different number for any of the numbers for the time being specified there.
+
+(2) An order under sub-paragraph (1) must not amend paragraph 3(1)(b) so that it provides that there may be fewer than 5 ordinary members.
+
+### Terms of appointment
+
+**7** (1) A person appointed as—
+
+(a) the chair of the MMO, or
+
+(b) an ordinary member,
+
+holds and vacates office in accordance with the terms of the appointment.
+
+(2) A person appointed as the deputy chair holds and vacates that office in accordance with any particular terms of appointment there may be in the case of that appointment in addition to the terms of the person's appointment as an ordinary member.
+
+(3) Sub-paragraphs (1) and (2) are subject to paragraphs 3(3) and 8 to 10.
+
+(4) The terms of appointment to any office in any particular case are to be such as the Secretary of State may determine.
+
+(5) No appointment is to be for longer than 5 years.
+
+(6) No person may be a member for a total period of more than 10 years (whether or not continuous).
+
+### Resignation from office
+
+**8** A person may, by giving notice to the Secretary of State, resign from office as—
+
+(a) the chair of the MMO,
+
+(b) the deputy chair, or
+
+(c) an ordinary member.
+
+### Suspension from, or termination of, office
+
+**9** (1) The Secretary of State may suspend or terminate the appointment of any person as the chair of the MMO, the deputy chair, or an ordinary member, if—
+
+(a) the person has become bankrupt or made an arrangement with creditors,
+
+(b) the person's estate has been sequestrated in Scotland or the person has entered into a debt arrangement programme under Part 1 of the Debt Arrangement and Attachment (Scotland) Act 2002 (asp 17) as the debtor or has, under Scots law, granted a trust deed for creditors,
+
+(c) the person has been absent from meetings of the MMO for a period of more than 6 months without the permission of the MMO,
+
+(d) the person is disqualified from acting as a company director,
+
+(e) the person has been convicted (whether before or after appointment) of a criminal offence, the conviction not being spent for the purposes of the Rehabilitation of Offenders Act 1974 (c. 53),
+
+or if the person is, in the opinion of the Secretary of State, unable or unfit to discharge the functions of the appointment for any other reason.
+
+(2) A person whose appointment as the chair of the MMO is suspended is accordingly also suspended as a member.
+
+(3) If a person's appointment as an ordinary member is suspended, any appointment of that person as the deputy chair is also suspended.
+
+### Eligibility for re-appointment
+
+**10** A person who ceases to hold any of the following offices—
+
+(a) chair of the MMO,
+
+(b) deputy chair,
+
+(c) ordinary member,
+
+is not by reason of that cessation prevented from subsequently being re-appointed to that office (or, in the case of paragraph (a) or (c), from subsequently becoming a member again).
+
+### Members' remuneration and allowances
+
+**11** The MMO may pay to its members such remuneration and allowances as the Secretary of State may determine.
+
+### Pensions, allowances and gratuities
+
+**12** If required to do so by the Secretary of State, the MMO must—
+
+(a) pay such pensions, allowances or gratuities as the Secretary of State may determine to or in respect of any person who is or has been a member;
+
+(b) pay such sums as the Secretary of State may determine towards provision for the payment of pensions, allowances or gratuities to or in respect of any such person.
+
+### Compensation for loss of office
+
+**13** If—
+
+(a) a person ceases to be a member, and
+
+(b) it appears to the Secretary of State that there are special circumstances which make it appropriate for the person to receive compensation,
+
+the Secretary of State may require the MMO to make such payments to the person as the Secretary of State may determine.
+
+### Chief executive
+
+**14** (1) The MMO must appoint a person to be its chief executive.
+
+(2) The person appointed must have been approved by the Secretary of State.
+
+(3) The chief executive is an employee of the MMO.
+
+(4) The Secretary of State may appoint the first chief executive.
+
+### Chief scientific adviser
+
+**15** (1) The MMO must appoint a person to be its chief scientific adviser.
+
+(2) The chief scientific adviser is an employee of the MMO.
+
+(3) The MMO may only make an appointment under sub-paragraph (1) with the approval of the Secretary of State as to any terms and conditions of employment not falling within paragraph 17 or 18.
+
+### Other staff
+
+**16** (1) The MMO may appoint other employees.
+
+(2) The MMO may only make an appointment under sub-paragraph (1) with the approval of the Secretary of State as to any terms and conditions of employment not falling within paragraph 17 or 18.
+
+### Staff remuneration and allowances
+
+**17** (1) The MMO may pay such remuneration and allowances as it may determine to any of its employees.
+
+(2) The MMO may only make a determination under sub-paragraph (1) with the approval of the Secretary of State.
+
+### Staff pensions etc
+
+**18** (1) The MMO may—
+
+(a) pay such pensions, allowances or gratuities as it may determine to or in respect of any person who is or has been an employee of the MMO;
+
+(b) pay such sums as it may determine towards provision for the payment of pensions, allowances or gratuities to or in respect of any such person.
+
+(2) The MMO may only make a determination under sub-paragraph (1) with the approval of the Secretary of State.
+
+### Staff superannuation
+
+**19** (1) Employment with the MMO is to be included among the kinds of employment to which a scheme under section 1 of the Superannuation Act 1972 (c. 11) can apply.
+
+(2) Accordingly, in Schedule 1 to that Act (kinds of employment to which the Act applies) insert at the appropriate place—
+
+> Marine Management Organisation.
+
+(3) The MMO must pay to the Minister for the Civil Service, at such times as that Minister may direct, such sums as that Minister may determine in respect of any increase attributable to this paragraph in the sums payable out of money provided by Parliament under that Act.
+
+### Procedure
+
+**20** Subject to the following provisions of this Schedule, the MMO may regulate—
+
+(a) its own procedure (including quorum), and
+
+(b) the procedure of any of its committees or sub-committees (including quorum).
+
+### Delegation of functions
+
+**21** (1) The MMO may authorise a committee, sub-committee, member or employee of the MMO to exercise any of the MMO's functions.
+
+(2) The MMO must keep a record of any authorisations under sub-paragraph (1).
+
+(3) Sub-paragraph (1) does not—
+
+(a) prevent the MMO from exercising the function itself, or
+
+(b) affect the power of the MMO to authorise an employee of the MMO to carry out functions of the MMO.
+
+### Membership of committees and sub-committees
+
+**22** (1) A committee or sub-committee may include persons who are not members of the MMO.
+
+(2) The MMO may pay such remuneration and allowances as it may determine to any person who—
+
+(a) is a member of a committee or sub-committee, but
+
+(b) is not a member of the MMO.
+
+(3) The MMO may only make a determination under sub-paragraph (2) with the approval of the Secretary of State.
+
+### Validity of proceedings
+
+**23** The validity of anything done by the MMO, or by any committee or sub-committee of the MMO, is not affected by any of the following—
+
+(a) any vacancy in the office of chair of the MMO or chair of the committee or sub-committee,
+
+(b) any deficiency in the number of ordinary members or in the number of members of the committee or sub-committee,
+
+(c) any defect in, or suspension of, any person's appointment as the chair or other member of the MMO or of the committee or sub-committee.
+
+### Application of seal and proof of documents
+
+**24** (1) The application of the MMO's seal must be authenticated by the signature of—
+
+(a) a member who is authorised (generally or specially) for that purpose, or
+
+(b) an employee of the MMO who is so authorised.
+
+(2) A document purporting to be duly executed under the seal of the MMO is to be received in evidence and taken to be so executed, unless the contrary is shown.
+
+### Documents served etc by the MMO
+
+**25** (1) Any document which the MMO is authorised or required by or under any enactment to serve, make or issue may be signed on behalf of the MMO by any member or employee of the MMO who has been authorised for the purpose, whether generally or specially, by the MMO.
+
+(2) Every document purporting—
+
+(a) to be an instrument made or issued by or on behalf of the MMO, and
+
+(b) to be signed by a person authorised by the MMO for the purpose,
+
+is to be received in evidence and taken to be so made or issued, unless the contrary is shown.
+
+### Annual report
+
+**26** (1) For each financial year, the MMO must prepare an annual report on how it has discharged its functions during the year.
+
+(2) The MMO must send the report to the Secretary of State as soon as possible after the end of the year to which it relates.
+
+(3) The Secretary of State must lay a copy of the report before each House of Parliament.
+
+(4) In this paragraph “financial year” means—
+
+(a) the period that—
+
+(i) begins with the day on which the MMO is established, and
+
+(ii) ends with the next 31st March,
+
+(b) each subsequent period of 12 months ending with 31st March.
+
+### Accounts and records
+
+**27** (1) The MMO must keep proper accounts and proper records in relation to the accounts.
+
+(2) For each financial year, the MMO must prepare a statement of accounts in respect of that financial year.
+
+(3) The statement must be in such form as the Secretary of State may direct.
+
+(4) Within such period as the Secretary of State may direct, the MMO must send a copy of the statement to—
+
+(a) the Secretary of State, and
+
+(b) the Comptroller and Auditor General.
+
+(5) In this paragraph “financial year” has the same meaning as in paragraph 26.
+
+### Audit
+
+**28** (1) This paragraph applies where, in pursuance of paragraph 27, the MMO has sent a copy of a statement of accounts to the Comptroller and Auditor General.
+
+(2) The Comptroller and Auditor General must—
+
+(a) examine, certify and report on the statement, and
+
+(b) send a copy of the certified statement and of the report to the Secretary of State as soon as possible.
+
+(3) The Secretary of State must lay before each House of Parliament a copy of the certified statement and of the report.
+
+### Duty to provide information to the Secretary of State
+
+**29** (1) The MMO must provide the Secretary of State with—
+
+(a) copies of such returns or accounts, or
+
+(b) such information,
+
+as the Secretary of State may require.
+
+(2) Sub-paragraph (1) applies only in relation to accounts, returns or information relating to—
+
+(a) the MMO's property, or
+
+(b) the discharge, or proposed discharge, of the MMO's functions.
+
+(3) The MMO must also—
+
+(a) permit any person authorised by the Secretary of State to inspect and make copies of any accounts or other documents of the MMO, and
+
+(b) provide such explanation of them as the Secretary of State or that person may require.
+
+## Schedule 2 — Minor and consequential amendments relating to the MMO
+
+*Section 1*
+
+### Public Records Act 1958 (c. 51)
+
+**1** In Schedule 1 to the Public Records Act 1958 (definition of public records) in Part 2 of the Table at the end of paragraph 3 insert at the appropriate place—
+
+> The Marine Management Organisation.
+
+### Parliamentary Commissioner Act 1967 (c. 13)
+
+**2** In Schedule 2 to the Parliamentary Commissioner Act 1967 (departments and authorities subject to investigation) insert at the appropriate place—
+
+> The Marine Management Organisation.
+
+### House of Commons Disqualification Act 1975 (c. 24)
+
+**3** In Part 2 of Schedule 1 to the House of Commons Disqualification Act 1975 (bodies of which all members are disqualified) insert at the appropriate place—
+
+> The Marine Management Organisation.
+
+### Race Relations Act 1976 (c. 74)
+
+**4** [^F226]In Part 2 of Schedule 1A to the Race Relations Act 1976 (bodies and other persons subject to general statutory duty) insert at the appropriate place under the heading [^F226]“ Other Bodies, Etc. ”
+
+> [^F226]The Marine Management Organisation.
+
+### Inheritance Tax Act 1984 (c. 51)
+
+**5** In Schedule 3 to the Inheritance Tax Act 1984 (gifts for national purposes etc) after the entry for the Countryside Council for Wales insert—
+
+> The Marine Management Organisation.
+
+### Freedom of Information Act 2000 (c. 36)
+
+**6** In Part 6 of Schedule 1 to the Freedom of Information Act 2000 (other public bodies and offices which are public authorities) insert at the appropriate place—
+
+> The Marine Management Organisation.
+
+## Schedule 3 — Transfer schemes
+
+*Section 39*
+
+### Introductory
+
+**1** In this Schedule—
+
+- “transferor” means the person from whom any property, rights or liabilities are transferred;
+- “transferee” means the person to whom any property, rights or liabilities are transferred.
+
+### The property, rights and liabilities that may be transferred
+
+**2** (1) A scheme may provide for the transfer of any property, rights or liabilities, whether or not otherwise capable of being transferred or assigned.
+
+(2) A scheme may provide for the transfer of any property, rights or liabilities to take effect regardless of any such—
+
+(a) contravention,
+
+(b) liability, or
+
+(c) interference with an interest or right,
+
+as there would be (apart from this sub-paragraph) by reason of an inhibiting provision.
+
+(3) For the purposes of sub-paragraph (2) an “inhibiting provision” is a provision having effect (whether under an enactment or an agreement or in any other way) in relation to the terms on which the transferor is entitled to the property or right, or is subject to the liability, that is the subject of the transfer.
+
+### Creation and apportionment of property, rights or liabilities
+
+**3** (1) A scheme may—
+
+(a) create for the transferor interests in or rights over property transferred by virtue of the scheme;
+
+(b) create for the transferee interests in or rights over property retained by the transferor;
+
+(c) create rights or liabilities between the transferor and the transferee.
+
+(2) In this Schedule, any reference—
+
+(a) to the transfer of interests, rights or liabilities by virtue of a scheme, or
+
+(b) to any interests, rights or liabilities transferred by virtue of a scheme,
+
+includes a reference to the creation of interests, rights or liabilities, or to interests, rights or liabilities created, by virtue of sub-paragraph (1).
+
+(3) A scheme may make incidental provision as to the interests, rights and liabilities of persons other than the transferor and the transferee with respect to the subject matter of the scheme.
+
+### Vesting certificates
+
+**4** A certificate by the Secretary of State that anything specified in the certificate has vested in any person by virtue of a scheme is conclusive evidence of that fact for all purposes.
+
+### Employment contracts
+
+**5** (1) This paragraph applies if rights and liabilities under a contract of employment are transferred by virtue of a scheme.
+
+(2) The contract of employment—
+
+(a) is not terminated by the transfer, and
+
+(b) has effect from the transfer date as if made between the employee and the transferee.
+
+(3) The rights, powers, duties and liabilities of the transferor under or in connection with the contract are transferred to the transferee on the transfer date.
+
+(4) Anything done before the transfer date by or in relation to the transferor in respect of the contract or the employee is to be treated from that date as having been done by or in relation to the transferee.
+
+(5) This paragraph is subject to paragraph 6.
+
+### Employee expressing objection to transfer of contract of employment
+
+**6** (1) Rights and liabilities under a contract of employment are not transferred under this Schedule if the employee objects to the transfer and informs the transferor or transferee of that objection.
+
+(2) If the employee informs the transferor or transferee of an objection under sub-paragraph (1)—
+
+(a) the employee's contract of employment is terminated immediately before the transfer date, but
+
+(b) the employee is not to be treated, for any purpose, as having been dismissed by the transferor.
+
+### Right to terminate contract of employment for substantial detrimental change in conditions
+
+**7** Nothing in this Schedule affects any right a person has to terminate a contract of employment if (apart from the change of employer) a substantial detrimental change is made in the person's working conditions.
+
+### Civil servants
+
+**8** (1) This Schedule applies with the following modifications in relation to employment in the civil service of the State on terms which do not constitute a contract of employment.
+
+(2) In the case of an individual who holds employment in the civil service of the State immediately before the transfer date—
+
+(a) the individual is to be treated as employed by virtue of a contract of employment,
+
+(b) the terms of that employment are to be regarded as constituting the terms of that contract, and
+
+(c) the reference in paragraph 6 to dismissal by the transferor is to be read as a reference to termination of that employment.
+
+(3) In the case of an individual who is to hold employment in the civil service of the State on and after the transfer date, the terms and conditions of the individual's contract of employment immediately before that date have effect on and after that date as if they were terms and conditions of the individual's employment in the civil service of the State.
+
+### Compensation
+
+**9** A scheme may contain provision for the payment of compensation by the Secretary of State to any person whose interests are adversely affected by the scheme.
+
+### Validity
+
+**10** A transfer under this Schedule does not affect the validity of anything done by or in relation to the transferor before the transfer takes effect.
+
+### Continuity
+
+**11** (1) Anything which—
+
+(a) is done by the transferor for the purposes of, or otherwise in connection with, anything transferred by virtue of a scheme, and
+
+(b) is in effect immediately before the transfer date,
+
+is to be treated as done by the transferee.
+
+(2) There may be continued by or in relation to the transferee anything (including legal proceedings)—
+
+(a) which relates to anything transferred by virtue of a scheme, and
+
+(b) which is in the process of being done by or in relation to the transferor immediately before the transfer date.
+
+### Documents
+
+**12** In any document which—
+
+(a) relates to anything transferred by virtue of a scheme, and
+
+(b) is in effect immediately before the transfer date,
+
+any reference to the transferor is to be read as a reference to the transferee.
+
+### Remedies
+
+**13** As from the date on which a transfer takes effect—
+
+(a) the transferee, and
+
+(b) any other persons,
+
+are to have the same rights, powers and remedies with regard to any right or liability transferred as if the right or liability had at all times been a right or liability of the transferee.
+
+### Interim arrangements
+
+**14** (1) A scheme may include provision requiring a transferor to make available to a transferee during any interim period any of the following—
+
+(a) any designated premises or facilities occupied or used by the transferor;
+
+(b) any designated officers or employees of the transferor.
+
+(2) In this paragraph “interim period”, in the case of any transfer by virtue of a scheme, means a period—
+
+(a) beginning with the day following the making of the scheme, and
+
+(b) ending with the date on which the transfer takes effect.
+
+### Retrospective modification of schemes
+
+**15** (1) If, at any time after a scheme has come into force, the Secretary of State considers it appropriate to do so, the Secretary of State may direct that the scheme shall be taken to have come into force with such modifications as may be specified in the direction.
+
+(2) A direction under this paragraph—
+
+(a) may make, with effect from the coming into force of the scheme, such provision as could have been made by the scheme, and
+
+(b) in connection with giving effect to that provision from that time, may contain such incidental, consequential, supplemental or transitional provision or savings as the Secretary of State thinks fit.
+
+### Incidental, consequential, supplemental or transitional provision or savings
+
+**16** A scheme may include such incidental, consequential, supplemental or transitional provision or savings as the Secretary of State thinks fit.
+
+## Schedule 4 — Exclusive economic zone and Welsh zone: consequential amendments
+
+*Sections 41 and 43*
+
+### Part 1 — Exclusive economic zone
+
+#### Continental Shelf Act 1964
+
+**1** (1) Section 8 of the Continental Shelf Act 1964 (c. 29) (application of the Submarine Telegraph Act 1885 (c. 49) to pipe-lines and submarine cables) is amended as follows.
+
+(2) In subsection (1A) (submarine cables and pipe-lines under waters in an area designated under section 1(7) of the 1964 Act) for “section 1(7) of this Act” substitute “ section 41(3) of the Marine and Coastal Access Act 2009 (exclusive economic zone). ”.
+
+#### Fishery Limits Act 1976
+
+**2** (1) Section 1 of the Fishery Limits Act 1976 (c. 86) (British fishery limits) is amended as follows.
+
+(2) For subsection (1) substitute—
+
+> (1) Subject to the following provisions of this section, British fishery limits extend to the seaward limits of any area for the time being designated by Order in Council under section 41(3) of the Marine and Coastal Access Act 2009 (exclusive economic zone).
+
+.
+
+(3) In consequence of the amendment made by sub-paragraph (2), subsections (3) and (4) of that section cease to have effect.
+
+(4) Her Majesty may by Order in Council repeal, substitute or amend section 1 of the Fishery Limits Act 1976 (British fishery limits), in so far as it extends to the Channel Islands or the Isle of Man, to make appropriate provision in consequence of the creation of the exclusive economic zone.
+
+(5) An Order in Council under sub-paragraph (4) may—
+
+(a) make incidental, consequential, supplementary or transitional provision or savings;
+
+(b) make different provision for different cases.
+
+#### Merchant Shipping (Prevention of Pollution) (Law of the Sea Convention) Order 1996
+
+**3** (1) Article 2 of the Merchant Shipping (Prevention of Pollution) (Law of the Sea Convention) Order 1996 (S.I. 1996/282) (provision that may be made by regulations) is amended as follows.
+
+(2) In paragraph (2)(g) (power to specify areas of sea in which jurisdiction and rights of the United Kingdom are exercisable) for “above any of the areas for the time being designated under section 1(7) of the Continental Shelf Act 1964” substitute “ within any area for the time being designated under section 41(3) of the Marine and Coastal Access Act 2009 (exclusive economic zone) ”.
+
+(3) After paragraph (2)(g), insert—
+
+> (h) varying the area within which areas may for the time being be specified under paragraph (g) to such area as may be specified or described in the regulations.
+
+.
+
+(4) The amendment by this paragraph of a provision contained in subordinate legislation is without prejudice to any power to amend that provision by subordinate legislation.
+
+#### Energy Act 2004
+
+**4** (1) Section 84 of the Energy Act 2004 (c. 20) (exploitation of areas outside the territorial sea for energy production) is amended as follows.
+
+(2) For subsection (4) substitute—
+
+> (4) The area within which the rights to which this section applies are exercisable (the “Renewable Energy Zone”)—
+>
+> (a) is any area for the time being designated under section 41(3) of the Marine and Coastal Access Act 2009 (exclusive economic zone), but
+>
+> (b) if Her Majesty by Order in Council declares that the Renewable Energy Zone extends to such other area as may be specified in the Order, is the area resulting from the Order.
+
+.
+
+#### Energy Act 2008
+
+**5** (1) The Energy Act 2008 (c. 32) is amended as follows.
+
+(2) In section 1 (exploitation of areas outside the territorial sea for gas importation and storage), for subsection (5) substitute—
+
+> (5) The area within which the rights to which this section applies are exercisable (the “Gas Importation and Storage Zone”)—
+>
+> (a) is any area for the time being designated under section 41(3) of the Marine and Coastal Access Act 2009 (exclusive economic zone), but
+>
+> (b) if Her Majesty by Order in Council declares that the Gas Importation and Storage Zone extends to such other area as may be specified in the Order, is the area resulting from the Order.
+
+.
+
+(3) In section 35 (interpretation of Chapter 3), in subsection (1), for the definition of “Gas Importation and Storage Zone” substitute—
+
+“ “Gas Importation and Storage Zone” is to be read in accordance with section 1(5);”.
+
+### Part 2 — Welsh zone
+
+#### Government of Wales Act 2006
+
+**6** (1) The Government of Wales Act 2006 (c. 32) is amended as follows.
+
+(2) In section 37(2) (power of Assembly to call for witnesses and documents) after “Wales” insert “ or the Welsh zone ”.
+
+(3) In section 58 (transfer of Ministerial functions)—
+
+(a) in subsection (1)(a), after “Wales” insert “ or the Welsh zone ”,
+
+(b) in subsection (1)(c), after “Wales” insert “ or the Welsh zone ”, and
+
+(c) after subsection (1) insert—
+
+> (1A) An Order in Council under this section may not make provision about a function of a Minister of the Crown exercisable in relation to the area of the Welsh zone beyond the seaward limit of the territorial sea unless the function is connected with fishing, fisheries or fish health.
+>
+> (1B) Subsection (1A) does not have effect in relation to an Order in Council to the extent that it contains provision made by virtue of paragraph 4 of Schedule 3 (functions exercisable beyond the territorial sea).
+
+(4) In section 59 (implementation of [[^F220]EU] law)—
+
+(a) in subsection (4)(c) for “Wales or a part of Wales” substitute “ Wales, the Welsh zone or a part of Wales or the Welsh zone ”, and
+
+(b) in subsection (7)(c) for “Wales or a part of Wales” substitute “ Wales, the Welsh zone or a part of Wales or the Welsh zone ”.
+
+(5) In section 80(2)(b) ([[^F220]EU] law) for “the whole or part of Wales” substitute “ the whole or part of Wales or of the Welsh zone ”.
+
+(6) In section 82(5)(b) (international obligations) for “the whole or part of Wales” substitute “ the whole or part of Wales or of the Welsh zone ”.
+
+(7) In section 155(1)(b) (functions exercisable in relation to Wales) after “Wales” insert “ or the Welsh zone ”.
+
+(8) In section 159 (index of defined expressions), insert at the appropriate place—
+
+> |  |  |
+> |---|---|
+> | “Welsh zone” | section 158(1), (3) and (4) |
+
+.
+
+## Schedule 5 — Preparation of an MPS or of amendments of an MPS
+
+*Sections 44 and 47*
+
+### Introductory
+
+**1** Before any policy authorities publish a relevant document, they must comply with the requirements imposed by the following provisions of this Schedule.
+
+### Interpretation
+
+**2** (1) In this Schedule—
+
+- “consultation draft” is to be read in accordance with paragraph 8;
+
+- “the final text” means that draft of the relevant document which is adopted by the relevant authorities and published by them under paragraph 12 as the relevant document;
+
+- “the relevant authorities” means the policy authorities that publish the relevant document;
+
+- “relevant document” means—
+
+  - (a) an MPS, or
+  - (b) amendments of an MPS;
+
+- “SPP” means a statement of public participation under paragraph 4.
+
+(2) In this Schedule—
+
+(a) any reference to each, some or any of the relevant authorities is a reference to those authorities separately,
+
+(b) any other reference to the relevant authorities is a reference to those authorities acting jointly.
+
+### Consultation in Northern Ireland
+
+**3** (1) If one of the relevant authorities is the Department of the Environment in Northern Ireland, that Department must consult the other relevant Northern Ireland departments—
+
+(a) during the preparation of the consultation draft, and
+
+(b) during the settling of the final text.
+
+(2) For the purposes of this paragraph, the relevant Northern Ireland departments are those Northern Ireland departments which have functions in relation to the whole or any part of the UK marine area.
+
+### Statement of public participation
+
+**4** (1) The relevant authorities must prepare and publish a statement of public participation (an “SPP”).
+
+(2) An SPP is a statement of the policies settled by the relevant authorities for or in connection with the involvement of interested persons in the preparation of the relevant document.
+
+(3) The relevant authorities must publish the SPP in a way calculated to bring it to the attention of interested persons.
+
+(4) In this paragraph “interested persons” means—
+
+(a) any persons appearing to the relevant authorities to be likely to be interested in, or affected by, policies proposed to be included in the relevant document, and
+
+(b) members of the general public.
+
+(5) Each of the relevant authorities must take all reasonable steps to comply with the SPP.
+
+### Further provision about the content of an SPP
+
+**5** (1) An SPP must include a proposed timetable.
+
+(2) The proposed timetable must include such provision as the relevant authorities consider reasonable for each of the following—
+
+(a) the preparation and publication of a consultation draft under paragraph 8 (including the carrying out of the sustainability appraisal under paragraph 7);
+
+(b) the making of representations about the consultation draft;
+
+(c) the consideration of representations under paragraph 9 and the settling of the final text;
+
+(d) the adoption and publication of the relevant document.
+
+(3) An SPP may include provision for or in connection with the holding of public meetings about the consultation draft.
+
+(4) An SPP must include provision about the making of representations under paragraph 9 about the consultation draft, including provision about—
+
+(a) the manner in which representations may be made;
+
+(b) the time within which representations must be made.
+
+(5) An SPP must state the period which it is proposed will be allocated for legislative scrutiny of the consultation draft under paragraph 10 (resolution or recommendations by appropriate legislative body or committee).
+
+### Review and revision of an SPP
+
+**6** (1) The relevant authorities must keep the SPP under review.
+
+(2) If at any time the relevant authorities consider it necessary or expedient to revise the SPP, they must do so.
+
+(3) Where the relevant authorities revise the SPP, they must publish it as revised.
+
+(4) Any reference in this Schedule to an SPP includes a reference to an SPP as revised.
+
+### Sustainability appraisal
+
+**7** (1) The relevant authorities must carry out an appraisal of the sustainability of their proposals for inclusion in the relevant document.
+
+(2) The relevant authorities may proceed with those proposals only if they consider that the results of the appraisal indicate that it is appropriate to do so.
+
+(3) The relevant authorities must publish a report of the results of the appraisal.
+
+(4) The report is to be published when the relevant authorities publish the consultation draft under paragraph 8.
+
+### Preparation and publication of a consultation draft
+
+**8** (1) The relevant authorities must prepare and publish a draft of the proposed relevant document (the “consultation draft”).
+
+(2) The relevant authorities must publish the consultation draft in such manner as they consider appropriate.
+
+(3) They must also take such steps as they consider appropriate to secure that the proposals contained in the consultation draft are brought to the attention of interested persons.
+
+(4) In sub-paragraph (3) “interested persons” means—
+
+(a) any persons appearing to the relevant authorities to be likely to be interested in, or affected by, policies proposed to be included in the relevant document, and
+
+(b) members of the general public.
+
+### Representations about the consultation draft
+
+**9** (1) Any person may make representations about the consultation draft.
+
+(2) Any such representations are to be made in accordance with the SPP.
+
+(3) If any representations are made about the consultation draft, the relevant authorities must consider them in the course of settling the final text.
+
+### The appropriate legislative procedure
+
+**10** (1) A policy authority must not adopt the final text unless it has complied with the requirements of this paragraph.
+
+(2) The policy authority must lay a copy of the consultation draft before the appropriate legislature.
+
+(3) The appropriate legislature is—
+
+(a) in the case of the Secretary of State, Parliament;
+
+(b) in the case of the Scottish Ministers, the Scottish Parliament;
+
+(c) in the case of the Welsh Ministers, the National Assembly for Wales;
+
+(d) in the case of the Department of the Environment in Northern Ireland, the Northern Ireland Assembly.
+
+(4) If during the period allocated to it for legislative scrutiny of the consultation draft—
+
+(a) an appropriate legislative body makes a resolution with regard to the consultation draft, or
+
+(b) an appropriate legislative committee makes recommendations with regard to the consultation draft,
+
+sub-paragraph (5) applies.
+
+(5) The policy authority must lay before the appropriate legislature a statement setting out the policy authority's response to the resolution or recommendations.
+
+(6) The period allocated to an appropriate legislative body or appropriate legislative committee for legislative scrutiny of the consultation draft is such period as the policy authority may specify.
+
+(7) The policy authority must specify the period allocated for legislative scrutiny of the consultation draft on or before the day on which a copy of that draft is laid before the appropriate legislature under sub-paragraph (2).
+
+(8) In this paragraph—
+
+- “appropriate legislative body” means—
+
+  - (a) in the case of the Secretary of State, either House of Parliament;
+  - (b) in the case of any other policy authority, the appropriate legislature;
+
+- “appropriate legislative committee” means—
+
+  - (a) in the case of the Secretary of State, a committee of either House of Parliament;
+  - (b) in the case of any other policy authority, a committee of the appropriate legislature.
+
+### Differences between the consultation draft and the final text
+
+**11** (1) This paragraph applies if there are any differences between—
+
+(a) the proposed policies, statements and information contained in the consultation draft, and
+
+(b) the policies, statements and information contained in the final text.
+
+(2) When the relevant authorities publish the relevant document, they must also publish—
+
+(a) a summary of the differences, and
+
+(b) a statement of the reasons for them.
+
+### Adoption and publication of the relevant document
+
+**12** (1) A policy authority adopts the final text by—
+
+(a) deciding that the final text is to be published as the relevant document, and
+
+(b) giving notice of that decision to each of the other policy authorities.
+
+(2) The relevant document is to be published by the relevant authorities, acting jointly, as soon as reasonably practicable after the final text has been adopted by each of them.
+
+(3) If the final text has been adopted by one or more, but not all, of the policy authorities, the authorities that have not adopted the final text must be allowed a reasonable period in which to do so before the relevant document is published.
+
+### Validity of document where policy authority participates in preparation but does not adopt
+
+**13** (1) If any policy authority—
+
+(a) participates to any extent in the preparation of a relevant document, but
+
+(b) does not adopt the final text,
+
+sub-paragraph (2) applies.
+
+(2) The participation of the policy authority in the preparation of the relevant document does not affect the validity of—
+
+(a) the relevant document, or
+
+(b) the adoption of that document by any of the other policy authorities.
+
+## Schedule 6 — Marine plans: preparation and adoption
+
+*Section 51*
+
+### Marine plan authority to notify related planning authorities of decision to prepare plan
+
+**1** (1) A marine plan authority which decides to prepare a marine plan for a marine plan area must, before beginning to prepare the plan, give notice of its intention to do so to each of the related planning authorities.
+
+(2) The “related planning authorities” are—
+
+(a) the Secretary of State (unless the Secretary of State is the marine plan authority);
+
+(b) any marine plan authority whose marine planning region adjoins or is adjacent to the marine plan area;
+
+(c) if the Scottish inshore region adjoins or is adjacent to the marine plan area, the Scottish Ministers;
+
+(d) any local planning authority whose area adjoins or is adjacent to the marine plan area;
+
+[[^F227](da) any minerals and waste planning authority whose relevant area adjoins or is adjacent to the marine plan area;]
+
+(e) any responsible regional authorities whose region adjoins or is adjacent to the marine plan area.
+
+[[^F228](f) any [[^F229]corporate joint committee whose] area adjoins or is adjacent to the marine planning area.]
+
+[[^F230](g) any strategic planning authority within the meaning given in section 12A of the Planning and Compulsory Purchase Act 2004, which is required to prepare a spatial development strategy under Part 1A of that Act for an area that adjoins or is adjacent to the marine plan area.]
+
+(3) In this paragraph—
+
+- [[^F231]“corporate joint committee” means a corporate joint committee to which Part 6 of the Planning and Compulsory Purchase Act 2004 applies by virtue of regulations under Part 5 of the Local Government and Elections (Wales) Act 2021;]
+
+- “local planning authority” means an authority which is—
+
+  - (a) a local planning authority for the purposes of Part 2 of the Planning and Compulsory Purchase Act 2004 (c. 5) (see [[^F232]section 15LF] of that Act),
+  - (aa) [[^F233]a local planning authority for the purposes of Part 6 of the Planning and Compulsory Purchase Act 2004 (see section 78 of that Act),] or
+  - (b) a planning authority for the purposes of the Town and Country Planning (Scotland) Act 1997 (c. 8) (see section 1 of that Act);
+
+- [[^F234]“minerals and waste planning authority” means an authority which is a minerals and waste planning authority for the purposes of Part 2 of the Planning and Compulsory Purchase Act 2004 (see section 15LG of that Act) and “relevant area” has the meaning given by that section.]
+
+- “responsible regional authorities” has the same meaning as in Part 5 of the Local Democracy, Economic Development and Construction Act 2009 (regional strategy).
+
+- [^F235]...
+
+### Secretary of State to be kept informed of authority's intentions as to certain matters
+
+**2** (1) This paragraph applies in any case where a marine plan authority gives notice to the Secretary of State under paragraph 1(2)(a).
+
+(2) The notice must state whether the marine plan authority proposes to include in the plan provision relating to retained functions (see sections 59 and 60).
+
+(3) The notice must state whether the marine plan authority proposes so to prepare the marine plan that it will not be in conformity with any MPS which governs marine planning for the marine plan area.
+
+(4) The marine plan authority must keep the Secretary of State informed (by giving further notices) of any changes that may from time to time occur in its intentions with respect to any of the matters mentioned in sub-paragraph (2) or (3).
+
+### Marine plans to be compatible with certain other marine plans and Planning Act plans
+
+**3** (1) In preparing or amending a marine plan for a marine plan area in its region, a marine plan authority must take all reasonable steps to secure that the plan is compatible with the marine plan for any marine plan area (whether or not within its marine planning region) which is related to that area.
+
+(2) The marine plan authority for—
+
+(a) the English inshore region, or
+
+(b) the Welsh inshore region,
+
+must also take all reasonable steps to secure that any marine plan for a marine plan area in its marine planning region is compatible with the [[^F236]development plan] for any area in England, Wales or Scotland which is related to the marine plan area.
+
+(3) For the purposes of this paragraph, one area is “related to” another if one or more of the following conditions is met—
+
+(a) the one area adjoins or is adjacent to the other;
+
+(b) the one area lies wholly or partly within the other;
+
+(c) the whole or any part of the one area affects or is affected by the whole or any part of the other.
+
+[^F237]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F237]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6) In this paragraph—
+
+- “development plan”—
+
+  - (a) in the case of an area in England or Wales, is to be read in accordance with [[^F238]section 38(2A) to (4)] of the Planning and Compulsory Purchase Act 2004 (c. 5);
+  - (b) in the case of an area in Scotland, is to be read in accordance with section 24 of the Town and Country Planning (Scotland) Act 1997 (c. 8);
+
+- [^F239]...
+
+### Consultation in Northern Ireland
+
+**4** (1) In the case of a marine plan for a marine plan area in the Northern Ireland offshore region, the marine plan authority must consult the relevant Northern Ireland departments—
+
+(a) during the preparation of the consultation draft under paragraph 11, and
+
+(b) during the settling of the text of the plan for adoption and publication under paragraph 15.
+
+(2) For the purposes of this paragraph the relevant Northern Ireland departments are those Northern Ireland departments which have functions in relation to the whole or any part of the UK marine area.
+
+### Statement of public participation
+
+**5** (1) Before preparing a marine plan for any marine plan area, a marine plan authority must prepare and publish a statement of public participation (an “SPP”).
+
+(2) An SPP is a statement of the policies settled by the marine plan authority for or in connection with the involvement of interested persons in the preparation of the proposed marine plan.
+
+(3) An SPP must identify (by means of a map or otherwise) the area for which the marine plan is being prepared.
+
+(4) If the marine plan authority proposes to include provision relating to retained functions, the SPP—
+
+(a) must state that that is the case, and
+
+(b) may be published only with the agreement of the Secretary of State.
+
+(5) An SPP must invite the making of representations in accordance with the SPP as to matters to be included in the proposed marine plan.
+
+(6) The marine plan authority must publish the SPP in a way calculated to bring it to the attention of interested persons.
+
+(7) The marine plan authority must take all reasonable steps to comply with the SPP.
+
+(8) In this paragraph “interested persons” means—
+
+(a) any persons appearing to the marine plan authority to be likely to be interested in, or affected by, policies proposed to be included in the marine plan, and
+
+(b) members of the general public.
+
+### Further provision about the content of an SPP
+
+**6** (1) An SPP must include a proposed timetable.
+
+(2) The proposed timetable must include such provision as the marine plan authority considers reasonable for each of the following—
+
+(a) the preparation and publication of the consultation draft under paragraph 11 (including the carrying out of the sustainability appraisal under paragraph 10);
+
+(b) the making of representations about the consultation draft;
+
+(c) the consideration of representations under paragraph 12 and the settling of the text of the marine plan for adoption and publication under paragraph 15;
+
+(d) the adoption and publication of the marine plan under that paragraph.
+
+(3) An SPP may include provision for or in connection with the holding of public meetings about the consultation draft.
+
+(4) An SPP must include provision about the making of—
+
+(a) representations, in response to the invitation issued under paragraph 5(5), about the matters to be included in the proposed marine plan, and
+
+(b) representations under paragraph 12 about the consultation draft.
+
+(5) The provision to be made under sub-paragraph (4) includes provision about—
+
+(a) the manner in which representations may be made, and
+
+(b) the time within which representations must be made.
+
+### Review and revision of the SPP
+
+**7** (1) The marine plan authority must keep the SPP under review.
+
+(2) If at any time the marine plan authority considers it necessary or expedient to revise the SPP, it must do so.
+
+(3) The marine plan authority must revise the SPP if—
+
+(a) it proposes to include in the marine plan provision relating to retained functions, and
+
+(b) the SPP does not already include a statement that that is the case.
+
+(4) Where the marine plan authority revises the SPP, it must publish the SPP as revised.
+
+(5) In any case where the SPP is required to be revised by virtue of sub-paragraph (3), the revised SPP may be published only with the agreement of the Secretary of State.
+
+(6) Any reference in this Schedule to an SPP includes a reference to an SPP as revised.
+
+### Advice and assistance
+
+**8** (1) In connection with the preparation of a marine plan, or of any proposals for a marine plan, the marine plan authority may seek advice or assistance from any body or person in relation to any matter in which that body or person has particular expertise.
+
+(2) The steps that a marine plan authority may take for the purpose of facilitating the involvement of interested persons in—
+
+(a) the development of proposals for inclusion in a proposed marine plan, or
+
+(b) consultation in connection with such proposals,
+
+include the convening of groups of persons for such purposes, and in such manner, as the marine plan authority considers appropriate.
+
+(3) In this paragraph “interested persons” has the same meaning as in paragraph 5.
+
+### Matters to which a marine plan authority is to have regard in preparing a marine plan
+
+**9** (1) The matters to which a marine plan authority is to have regard in preparing a marine plan include each of the matters in sub-paragraph (2).
+
+(2) Those matters are—
+
+(a) the requirement under section 51(6) for a marine plan to be in conformity with any MPS which governs marine planning for the marine plan area, unless relevant considerations indicate otherwise,
+
+(b) the duties imposed by paragraph 3(1) and (2) with respect to securing compatibility with marine plans or [[^F240]development plans] for areas which are related to the marine plan area,
+
+(c) the effect which any proposal for inclusion in the plan is likely to have on any area which is related to the marine plan area;
+
+(d) the results of the review required by section 54,
+
+(e) the SPP,
+
+(f) any representations made in response to the invitation issued pursuant to sub-paragraph (5) of paragraph 5,
+
+(g) any advice received under paragraph 8(1),
+
+(h) any plan (not falling within paragraph 3(1) or (2)) prepared by a public or local authority in connection with the management or use of the sea or the coast, or of marine or coastal resources, in the marine plan area or in any adjoining or adjacent area in England or Wales, Scotland or Northern Ireland,
+
+(i) the powers and duties of the Crown Estate Commissioners under the Crown Estate Act 1961 (c. 55),
+
+and such other matters as the marine plan authority considers relevant.
+
+(3) For the purposes of this paragraph, one area is related to another if one or more of the following conditions is met—
+
+(a) the one area adjoins or is adjacent to the other;
+
+(b) the one area lies wholly or partly within the other;
+
+(c) the whole or any part of the one area affects or is affected by the whole or any part of the other.
+
+### Sustainability appraisal
+
+**10** (1) A marine plan authority preparing a marine plan must carry out an appraisal of the sustainability of its proposals for inclusion in the plan.
+
+(2) The authority may proceed with those proposals only if it considers that the results of the appraisal indicate that it is appropriate to do so.
+
+(3) The marine plan authority must publish a report of the results of the appraisal.
+
+(4) The report is to be published when the marine plan authority publishes the consultation draft under paragraph 11.
+
+### Preparation and publication of a consultation draft
+
+**11** (1) A marine plan authority preparing a marine plan must publish a draft containing its proposals for inclusion in the plan (the “consultation draft”).
+
+(2) If the draft includes provision relating to retained functions, it may be published only with the agreement of the Secretary of State.
+
+(3) The marine plan authority must publish the consultation draft in such manner as it considers appropriate.
+
+(4) The marine plan authority must also take such steps as it considers appropriate to secure that the proposals contained in the consultation draft are brought to the attention of interested persons.
+
+(5) In this paragraph “interested persons” has the same meaning as in paragraph 5.
+
+### Representations about the consultation draft
+
+**12** (1) Any person may make representations about the consultation draft.
+
+(2) Any such representations are to be made in accordance with the SPP.
+
+(3) If any representations are made about the consultation draft, the marine plan authority must consider them in the course of settling the text of the marine plan for adoption and publication under paragraph 15.
+
+### Independent investigation
+
+**13** (1) A marine plan authority which has published a consultation draft in accordance with paragraph 11 must consider appointing an independent person to investigate the proposals contained in that draft and to report on them.
+
+(2) In deciding whether to appoint such a person, the marine plan authority must have regard to—
+
+(a) any representations received about the matters to be included in the proposed marine plan, in response to the invitation issued pursuant to paragraph 5(5),
+
+(b) any representations received about the proposals published in the consultation draft,
+
+(c) the extent to which matters raised by representations falling within paragraph (b) have not been resolved,
+
+and such other matters as the marine plan authority considers relevant.
+
+(3) Any person so appointed must—
+
+(a) make recommendations, and
+
+(b) give reasons for the recommendations.
+
+(4) The marine plan authority must publish the recommendations and the reasons given for them.
+
+### Matters to which marine plan authority to have regard in settling text for adoption etc
+
+**14** A marine plan authority settling the text of a marine plan for adoption and publication under paragraph 15 must have regard to—
+
+(a) any recommendations made by any person appointed under paragraph 13,
+
+(b) the reasons given by any such person for any such recommendations,
+
+and any other matters that the marine plan authority considers relevant.
+
+### Adoption and publication of a marine plan
+
+**15** (1) A marine plan is “adopted” by a marine plan authority when the authority has decided to publish the plan (and “adopt” and related expressions are to be read accordingly).
+
+(2) A marine plan may be so adopted only by, or with the agreement of, the Secretary of State.
+
+(3) Sub-paragraph (2) does not apply in the case of a marine plan for the Welsh inshore region if the plan does not include provision relating to retained functions.
+
+(4) The conferral on a devolved authority by this Part of functions whose exercise is subject to the agreement of the Secretary of State under sub-paragraph (2) does not affect any functions, or the exercise of any functions, of the devolved authority apart from this Part (whenever conferred or imposed).
+
+(5) In sub-paragraph (4) “devolved authority” means—
+
+(a) the Scottish Ministers;
+
+(b) the Welsh Ministers;
+
+(c) the Department of the Environment in Northern Ireland.
+
+(6) The marine plan which a marine plan authority decides to publish may be—
+
+(a) the same as the proposals published in the consultation draft, or
+
+(b) those proposals with such modifications as the marine plan authority thinks fit.
+
+(7) A marine plan authority which adopts a marine plan must publish the plan as soon as reasonably practicable after its adoption, together with statements of each of the following—
+
+(a) any modifications that have been made to the proposals published in the consultation draft,
+
+(b) the reasons for those modifications,
+
+(c) if any recommendations made by any independent person appointed under paragraph 13 have not been implemented in the marine plan, the reasons why those recommendations have not been implemented.
+
+## Schedule 7 — Further provision about civil sanctions under Part 4
+
+*Section 97*
+
+### Interpretation
+
+**1** In this Schedule “civil sanction” means a fixed monetary penalty or a variable monetary penalty.
+
+### Fixed monetary penalties: other sanctions
+
+**2** (1) Provision under section 93 must secure that, in a case where a notice of intent referred to in section 94(2)(a) is served on a person—
+
+(a) no criminal proceedings for the offence to which the notice relates may be instituted against the person in respect of the act or omission to which the notice relates before the end of the period in which the person may discharge liability to the fixed monetary penalty pursuant to section 94(2)(b), and
+
+(b) if the person so discharges liability, the person may not at any time be convicted of the offence to which the notice relates in relation to that act or omission.
+
+(2) Provision under section 93 must also secure that, in a case where a fixed monetary penalty is imposed on a person—
+
+(a) that person may not at any time be convicted of the offence in relation to which the penalty is imposed in respect of the act or omission giving rise to the penalty;
+
+(b) the enforcement authority may not issue a compliance notice or a remediation notice to that person in respect of the act or omission giving rise to the penalty.
+
+### Variable monetary penalties: other sanctions
+
+**3** Provision under section 95 must secure that, in a case where a variable monetary penalty is imposed on a person—
+
+(a) that person may not at any time be convicted of the offence in relation to which the penalty is imposed in respect of the act or omission giving rise to the penalty;
+
+(b) the enforcement authority may not issue a compliance notice to that person in respect of the act or omission giving rise to the penalty.
+
+### Combination of sanctions
+
+**4** (1) Provision may not be made under section 93 and section 95 conferring powers on an enforcement authority in relation to the same offence unless it secures that—
+
+(a) the authority may not serve a notice of intent referred to in section 94(2)(a) on a person in relation to any act or omission where a variable monetary penalty has been imposed on that person in relation to that act or omission, and
+
+(b) the authority may not serve a notice of intent referred to in section 96(2)(a) on a person in relation to any act or omission where—
+
+(i) a fixed monetary penalty has been imposed on that person in relation to that act or omission, or
+
+(ii) the person has discharged liability to a fixed monetary penalty in relation to that act or omission pursuant to section 94(2)(b).
+
+(2) Provision under section 93 which results in an enforcement authority having power to impose a fixed monetary penalty or to issue a stop notice in relation to the same offence must secure that—
+
+(a) the authority may not serve a notice of intent referred to in section 94(2)(a) on a person in relation to any act or omission where a stop notice has been served on that person in relation to that act or omission, and
+
+(b) the authority may not serve a stop notice on a person in relation to any act or omission where—
+
+(i) a fixed monetary penalty has been imposed on that person in relation to that act or omission, or
+
+(ii) the person has discharged liability to a fixed monetary penalty in relation to that act or omission pursuant to section 94(2)(b).
+
+### Monetary penalties
+
+**5** (1) An order under section 93 or 95 which confers power on an enforcement authority to require a person to pay a fixed monetary penalty or a variable monetary penalty may include provision—
+
+(a) for early payment discounts;
+
+(b) for the payment of interest or other financial penalties for late payment of the penalty, such interest or other financial penalties not in total to exceed the amount of that penalty;
+
+(c) for enforcement of the penalty.
+
+(2) Provision under sub-paragraph (1)(c) may include—
+
+(a) provision for the enforcement authority to recover the penalty, and any interest or other financial penalty for late payment, as a civil debt;
+
+(b) provision for the penalty, and any interest or other financial penalty for late payment, to be recoverable, on the order of a court, as if payable under a court order.
+
+### Costs recovery
+
+**6** (1) Provision under section 95 may include provision for an enforcement authority, by notice, to require a person on whom a variable monetary penalty is imposed to pay the costs incurred by the enforcement authority in relation to the imposition of the penalty up to the time of its imposition.
+
+(2) In sub-paragraph (1) the references to costs include in particular—
+
+(a) investigation costs;
+
+(b) administration costs;
+
+(c) costs of obtaining expert advice (including legal advice).
+
+(2) Provision under this paragraph must secure that, in any case where a notice requiring payment of costs is served—
+
+(a) the notice specifies the amount required to be paid;
+
+(b) the enforcement authority may be required to provide a detailed breakdown of that amount;
+
+(c) the person required to pay costs is not liable to pay any costs shown by the person to have been unnecessarily incurred;
+
+(d) the person required to pay costs may appeal against—
+
+(i) the decision of the enforcement authority to impose the requirement to pay costs;
+
+(ii) the decision of the enforcement authority as to the amount of those costs.
+
+(4) Provision under this paragraph may include the provision referred to in sub-paragraphs (1)(b) and (c) and (2) of paragraph 5.
+
+(5) Provision under this paragraph must secure that an enforcement authority is required to publish guidance about how it will exercise the power conferred by the provision.
+
+### Appeals
+
+**7** (1) An order under section 93 or 95 may not provide for the making of an appeal other than to—
+
+(a) the First-Tier Tribunal, or
+
+(b) another tribunal created under an enactment.
+
+This sub-paragraph does not apply in the case of an order made by the Scottish Ministers.
+
+(2) In sub-paragraph (1)(b)—
+
+- “enactment” includes an enactment contained in, or in an instrument made under, Northern Ireland legislation;
+- “tribunal” does not include an ordinary court of law.
+
+(3) An order under section 93 or 95 which makes provision for an appeal in relation to the imposition of any requirement or service of any notice may include—
+
+(a) provision suspending the requirement or notice pending determination of the appeal;
+
+(b) provision as to the powers of any person to whom the appeal is made;
+
+(c) provision as to how any sum payable in pursuance of a decision of that person is to be recoverable.
+
+(4) The provision referred to in sub-paragraph (3)(b) includes provision conferring on the person to whom the appeal is made power—
+
+(a) to withdraw the requirement or notice;
+
+(b) to confirm the requirement or notice;
+
+(c) to take such steps as the enforcement authority could take in relation to the act or omission giving rise to the requirement or notice;
+
+(d) to remit the decision whether to confirm the requirement or notice, or any matter relating to that decision, to the enforcement authority;
+
+(e) to award costs.
+
+### Consultation
+
+**8** (1) Before making an order under section 93 or 95, the appropriate licensing authority must consult the following (in addition to any persons who must be consulted under paragraph 9)—
+
+(a) the enforcement authority to which the order relates,
+
+(b) such organisations as appear to the licensing authority to be representative of persons substantially affected by the proposals, and
+
+(c) such other persons as the licensing authority considers appropriate.
+
+(2) If, as a result of any consultation required by sub-paragraph (1), it appears to the licensing authority that it is appropriate substantially to change the whole or any part of the proposals, the licensing authority must undertake such further consultation with respect to the changes as it considers appropriate.
+
+(3) If, before the day on which this Schedule comes into force, any consultation was undertaken which, had it been undertaken after that day, would to any extent have satisfied the requirements of this paragraph, those requirements may to that extent be taken to have been satisfied.
+
+### Guidance as to use of civil sanctions
+
+**9** (1) Where power is conferred on an enforcement authority under section 93 or 95 to impose a civil sanction in relation to an offence the provision conferring the power must secure the results in sub-paragraph (2).
+
+(2) Those results are that—
+
+(a) the enforcement authority must publish guidance about its use of the sanction,
+
+(b) in the case of guidance relating to a fixed monetary penalty or a variable monetary penalty, the guidance must contain the relevant information,
+
+(c) the enforcement authority must revise the guidance where appropriate,
+
+(d) the enforcement authority must consult such persons as the provision may specify before publishing any guidance or revised guidance, and
+
+(e) the enforcement authority must have regard to the guidance or revised guidance in exercising its functions.
+
+(3) In the case of guidance relating to a fixed monetary penalty, the relevant information referred to in sub-paragraph (2)(b) is information as to—
+
+(a) the circumstances in which the penalty is likely to be imposed,
+
+(b) the circumstances in which it may not be imposed,
+
+(c) the amount of the penalty,
+
+(d) how liability for the penalty may be discharged and the effect of discharge, and
+
+(e) rights to make representations and objections and rights of appeal.
+
+(4) In the case of guidance relating to a variable monetary penalty, the relevant information referred to in sub-paragraph (2)(b) is information as to—
+
+(a) the circumstances in which the penalty is likely to be imposed,
+
+(b) the circumstances in which it may not be imposed,
+
+(c) the matters likely to be taken into account by the enforcement authority in determining the amount of the penalty (including, where relevant, any discounts for voluntary reporting of non-compliance), and
+
+(d) rights to make representations and objections and rights of appeal.
+
+### Guidance as to enforcement of offences
+
+**10** (1) Where power is conferred on an enforcement authority under section 93 or 95 to impose a civil sanction in relation to an offence the enforcement authority must prepare and publish guidance about how the offence is enforced.
+
+(2) The guidance must include guidance as to—
+
+(a) the sanctions (including criminal sanctions) to which a person who commits the offence may be liable,
+
+(b) the action which the enforcement authority may take to enforce the offence, whether by virtue of section 93 or 95 or otherwise, and
+
+(c) the circumstances in which the enforcement authority is likely to take any such action.
+
+(3) An enforcement authority may from time to time revise guidance published by it under this paragraph and publish the revised guidance.
+
+(4) The enforcement authority must consult such persons as it considers appropriate before publishing any guidance or revised guidance under this paragraph.
+
+### Publication of enforcement action
+
+**11** (1) Where power is conferred on an enforcement authority under section 93 or 95 to impose a civil sanction in relation to an offence, the provision conferring the power must, subject to this paragraph, secure the result in sub-paragraph (2).
+
+(2) That result is that the enforcement authority must from time to time publish reports specifying—
+
+(a) the cases in which the civil sanction has been imposed,
+
+(b) where the civil sanction is a fixed monetary penalty, the cases in which liability to the penalty has been discharged pursuant to section 94(2)(b), and
+
+(c) where the civil sanction is a variable monetary penalty, the cases in which an undertaking referred to in section 96(5) is accepted from such a person.
+
+(3) In sub-paragraph (2)(a), the reference to cases in which the civil sanction has been imposed does not include cases where the sanction has been imposed but overturned on appeal.
+
+(4) The provision conferring the power need not secure the result in sub-paragraph (2) in cases where the appropriate licensing authority considers that it would be inappropriate to do so.
+
+### Payment of penalties into Consolidated Fund etc
+
+**12** (1) Where pursuant to any provision made under section 93 or 95 an enforcement authority receives—
+
+(a) a fixed monetary penalty or a variable monetary penalty, or
+
+(b) any interest or other financial penalty for late payment of such a penalty,
+
+the authority must pay it into the relevant Fund.
+
+(2) In sub-paragraph (1) “the relevant Fund” means—
+
+(a) in a case where the authority has functions only in relation to Wales, the Welsh Consolidated Fund;
+
+(b) in a case where the authority has functions only in relation to Scotland, the Scottish Consolidated Fund;
+
+(c) in a case where the authority has functions only in relation to Northern Ireland, the Consolidated Fund of Northern Ireland;
+
+(d) in any other case, the Consolidated Fund.
+
+### Disclosure of information
+
+**13** (1) Information held by or on behalf of a person mentioned in sub-paragraph (2) may be disclosed to an enforcement authority on whom powers are conferred under section 93 or 95 where—
+
+(a) the person has an enforcement function in relation to an offence, and
+
+(b) the information is disclosed for the purpose of the exercise by the enforcement authority of any powers conferred on it under any of those sections in relation to that offence.
+
+(2) The persons are—
+
+(a) the Crown Prosecution Service,
+
+(b) a member of a police force in England or Wales,
+
+(c) a Procurator Fiscal,
+
+(d) a constable of [[^F241]the Police Service of Scotland],
+
+(e) the Public Prosecution Service for Northern Ireland, or
+
+(f) a member of the Police Service of Northern Ireland.
+
+(3) It is immaterial for the purposes of sub-paragraph (1) whether the information was obtained before or after the coming into force of this paragraph.
+
+(4) A disclosure under this paragraph is not to be taken to breach any restriction on the disclosure of information (however imposed).
+
+(5) Nothing in this paragraph authorises the making of a disclosure in contravention of—
+
+(a) [[^F242]the data protection legislation], or
+
+[[^F243](b) any of Parts 1 to 7 or Chapter 1 of Part 9 of the Investigatory Powers Act 2016.]
+
+(6) This paragraph does not affect a power to disclose which exists apart from this paragraph.
+
+[[^F244](7) In this paragraph, “the data protection legislation” has the same meaning as in the Data Protection Act 2018 (see section 3 of that Act).]
+
+## Schedule 8 — Licensing: minor and consequential amendments
+
+*Section 112(1)*
+
+### Part 1 — Consequential amendments
+
+#### The Coast Protection Act 1949
+
+**1** (1) The Coast Protection Act 1949 (c. 74) is amended as follows.
+
+(2) Omit Part 2 (provisions for safety of navigation).
+
+(3) In section 49(1) (interpretation), in the definitions of “sea” and “seashore”, for “subsections (2) and (2A)” substitute “ subsection (2) ”.
+
+#### The Food and Environment Protection Act 1985
+
+**2** (1) The Food and Environment Protection Act 1985 (c. 48) is amended as follows.
+
+(2) In section 5 (requirement for licences)—
+
+(a) in paragraph (a), for “United Kingdom waters or United Kingdom controlled waters” substitute “ the Scottish inshore region ”;
+
+(b) omit paragraph (b);
+
+(c) in paragraph (e)(i), for “United Kingdom waters or United Kingdom controlled waters” substitute “ the Scottish inshore region ”;
+
+(d) omit paragraph (e)(ii) and the preceding “or”;
+
+(e) in paragraph (f), for “the United Kingdom or United Kingdom waters” substitute “ Scotland or the Scottish inshore region ”;
+
+(f) in paragraph (g), for “the United Kingdom” substitute “ Scotland ”;
+
+(g) in paragraph (h), for “the United Kingdom or United Kingdom waters” substitute “ Scotland or the Scottish inshore region ”.
+
+(3) In section 6(1) (requirements for licences for incineration at sea etc)—
+
+(a) in paragraph (a)(i), for “United Kingdom waters or United Kingdom controlled waters” substitute “ the Scottish inshore region ”;
+
+(b) omit paragraph (a)(ii) and the preceding “or”;
+
+(c) in paragraph (b), for “the United Kingdom or United Kingdom waters” substitute “ Scotland or the Scottish inshore region ”.
+
+(4) In section 7A (exclusion of Part 2 for certain purposes)—
+
+(a) in subsection (4), for paragraphs (a) and (b) substitute “ the Scottish inshore region. ”;
+
+(b) omit subsection (5).
+
+(5) In section 8 (licences)—
+
+(a) in subsection (4)(b), for “United Kingdom waters” substitute “ the Scottish inshore region ”;
+
+(b) in subsection (6), omit “evidence, and in Scotland”.
+
+(6) In section 9 (licensing offences)—
+
+(a) in subsection (1) (which is expressed to be subject to subsections (3) to (7)) for “to (7)” substitute “ , (4) ”;
+
+(b) omit subsections (5) to (7).
+
+(7) In section 11 (enforcement powers)—
+
+(a) in subsection (2)—
+
+(i) in paragraph (a), for “the United Kingdom” substitute “ Scotland ”;
+
+(ii) for paragraphs (b) and (c) substitute—
+
+> (b) vessels, aircraft, hovercraft and marine structures in Scotland or within the Scottish inshore region,
+
+;
+
+(b) in subsection (3), for paragraphs (a) and (b) substitute “ any vessel within the Scottish inshore region ”.
+
+(8) In section 21 (offences) omit subsection (8).
+
+(9) In section 24(1) (interpretation)—
+
+(a) omit the definition of “adjacent to Scotland”;
+
+(b) omit the definition of “Gas Importation and Storage Zone”;
+
+(c) in the definition of “licensing authority”—
+
+(i) omit paragraph (a);
+
+(ii) in paragraph (b)(i), for “United Kingdom waters, or United Kingdom controlled waters, adjacent to Scotland” substitute “ waters within the Scottish inshore region ”;
+
+(iii) in paragraph (b)(ii) and (iii), for “United Kingdom waters, or United Kingdom controlled waters, adjacent to Scotland” in each place where it appears substitute “ the Scottish inshore region ”;
+
+(iv) in paragraph (b)(iii), omit “and the functions of that authority under this sub-paragraph shall be treated as exercisable in or as regards Scotland and may be exercised separately”;
+
+(d) after the definition of “plants” insert—
+
+> “Scottish inshore region” has the same meaning as in the Marine and Coastal Access Act 2009 (see section 322 of that Act);
+
+;
+
+(e) omit the definitions of “United Kingdom waters” and “United Kingdom controlled waters”.
+
+#### The Government of Wales Act 2006
+
+**3** (1) In Schedule 3 to the Government of Wales Act 2006 (c. 32) (transfer etc of functions: further provisions) paragraph 4 (power to direct that certain functions exercisable by a Minister of the Crown are exercisable in relation to Welsh controlled waters only after consultation with the Welsh Ministers) is amended as follows.
+
+(2) In sub-paragraph (1) (which extends the power conferred by section 58(1)(c) of that Act and specifies the enactments to which it applies)—
+
+(a) omit paragraph (a) (Part 2 of the Food and Environment Protection Act 1985 (c. 48)), and
+
+(b) after paragraph (b) insert—
+
+> (c) the provisions of Parts 4 and 8 of the Marine and Coastal Access Act 2009 (marine licensing and enforcement) specified in sub-paragraph (1A), or
+>
+> (d) regulations under section 73 of that Act (appeals),
+
+.
+
+(3) After sub-paragraph (1) insert—
+
+> (1A) The provisions of the Marine and Coastal Access Act 2009 mentioned in sub-paragraph (1)(c) are—
+>
+> (a) sections 67(1) to (5), 69(1), (3) and (4), 71(1) to (3) and 72(1) to (3) (marine licences), so far as relating to items 1 to 6 and 11 to 13 in section 66(1) of that Act (licensable marine activities);
+>
+> (b) section 101 (registers);
+>
+> (c) sections 106 and 91(7)(c) (power to take remedial action, and power to require payment of sum representing reasonable expenses of taking such action);
+>
+> (d) section 107 (power to test, and charge for testing, certain substances);
+>
+> (e) sections 235(3) and 240(1)(c) (enforcement officers).
+
+.
+
+#### The Planning Act 2008
+
+**4** (1) The Planning Act 2008 (c. 29) is amended as follows.
+
+(2) After section 149 insert—
+
+> **Deemed consent under a marine licence**
+>
+> **149A** (1) An order granting development consent may include provision deeming a marine licence to have been issued under Part 4 of the Marine and Coastal Access Act 2009 (marine licensing) for any activity only if the activity is to be carried out wholly in one or more of the areas specified in subsection (2).
+>
+> (2) The areas are—
+>
+> (a) England,
+>
+> (b) waters adjacent to England up to the seaward limits of the territorial sea,
+>
+> (c) an exclusive economic zone, except any part of an exclusive economic zone in relation to which the Scottish Ministers have functions,
+>
+> (d) a Renewable Energy Zone, except any part of a Renewable Energy Zone in relation to which the Scottish Ministers have functions,
+>
+> (e) an area designated under section 1(7) of the Continental Shelf Act 1964, except any part of that area which is within a part of an exclusive economic zone or Renewable Energy Zone in relation to which the Scottish Ministers have functions.
+>
+> (3) Subsections (4) and (5) apply if an order granting development consent includes provision—
+>
+> (a) deeming a marine licence to have been granted under Part 4 of the Marine and Coastal Access Act 2009 subject to specified conditions, and
+>
+> (b) deeming those conditions to have been attached to the marine licence by the Secretary of State under that Part.
+>
+> (4) A person who fails to comply with such a condition does not commit an offence under section 161 of this Act.
+>
+> (5) Sections 68 (notice of applications) and 69(3) and (5) (representations) of the Marine and Coastal Access Act 2009 do not apply in relation to the deemed marine licence.
+
+.
+
+(3) In section 161 (breach of terms of order granting development consent), in subsection (2), for “sections 148(4) and 149(4)” substitute “ section 149A(4) ”.
+
+(4) In Schedule 4, in paragraph 1(11) (power to correct certain errors or omissions in development consent decisions) for the words from “any of paragraphs” to the end of the sub-paragraph substitute “ paragraph 30A or 30B of Schedule 5 (deemed marine licence under Marine and Coastal Access Act 2009). ”.
+
+(5) In Schedule 5 (provision relating to, or to matters ancillary to, development) after paragraph 30 insert—
+
+> **30A** Deeming a marine licence under Part 4 of the Marine and Coastal Access Act 2009 to have been given by the Secretary of State for activities specified in the order and subject to such conditions as may be specified in the order.
+>
+> **30B** Deeming any such conditions to have been attached to the marine licence by the Secretary of State under that Part.
+
+.
+
+(6) In Schedule 6 (changes to, and revocation of, orders granting development consent) in—
+
+(a) paragraph 2(13) (power to make non-material changes to development consent order not to apply in relation to deemed consents and licences), and
+
+(b) paragraph 5(6) (power to change or revoke development consent order not to apply in relation to deemed consents and licences),
+
+for the words from “any of paragraphs” to the end of the sub-paragraph substitute “ paragraph 30A or 30B of Schedule 5 (deemed marine licence under Marine and Coastal Access Act 2009). ”.
+
+(7) The following provisions cease to have effect—
+
+(a) section 148 (deemed consent under section 34 of the Coast Protection Act 1949 (c. 74)),
+
+(b) section 149 (deemed consent under Part 2 of the Food and Environment Protection Act 1985 (c. 48)),
+
+(c) in Schedule 5, paragraphs 27 to 30 (which relate to deemed consents).
+
+### Part 2 — Other amendments
+
+#### The Food and Environment Protection Act 1985 Electronic communications apparatus: operations in tidal waters etc
+
+**5** In the Food and Environment Protection Act 1985 after section 8 (licences) insert—
+
+> **Electronic communications apparatus: operations in tidal waters etc**
+>
+> **8A** (1) The Scottish Ministers must not issue a licence to carry out any operation which amounts to, or involves the exercise of, a right conferred by paragraph 11 of the electronic communications code set out in Schedule 2 to the Telecommunications Act 1984 unless they are satisfied that adequate compensation arrangements have been made.
+>
+> (2) For the purposes of subsection (1) “adequate compensation arrangements” are adequate arrangements for compensating any persons—
+>
+> (a) who appear to the Scottish Ministers to be owners of interests in the tidal water or lands on, under or over which the right is to be exercised,
+>
+> (b) for any loss or damage sustained by those persons in consequence of the operation being carried out.
+
+.
+
+#### Electronic communications: emergency works
+
+**6** (1) Section 9 of the Food and Environment Protection Act 1985 (offences relating to the licensing system) is amended as follows.
+
+(2) In subsection (1) (which is expressed to be subject to certain later subsections) in the words preceding paragraph (a), before “below” insert “ and (8) ”.
+
+(3) After subsection (7) insert—
+
+> (8) It shall be a defence for a person charged with an offence under subsection (1) in relation to any operation to prove that—
+>
+> (a) for the purposes of paragraph 23 of the electronic communications code (undertaker's works), the person is the operator or a relevant undertaker, and
+>
+> (b) the activity was carried out for the purpose of executing emergency works, within the meaning of that code.
+>
+> In this subsection “the electronic communications code” means the code set out in Schedule 2 to the Telecommunications Act 1984.
+
+.
+
+#### The Petroleum Act 1998 Application of Part 3 in relation to submarine pipelines
+
+**7** (1) Section 24 of the Petroleum Act 1998 (c. 17) (application of Part 3) is amended as follows.
+
+(2) After subsection (2) insert—
+
+> (2A) If a pipeline—
+>
+> (a) is specified in an order made by the Secretary of State under this subsection, or
+>
+> (b) is of a description so specified,
+>
+> the pipeline shall be disregarded for the purposes of this Part of this Act (other than this subsection) or shall be so disregarded while any specified condition is satisfied.
+
+.
+
+(3) After subsection (3) insert—
+
+> (3A) The Secretary of State may by order provide that specified provisions of this Part of this Act shall apply, subject to such modifications (if any) as are specified, in relation to a controlled pipeline—
+>
+> (a) which is specified or of a specified description, and
+>
+> (b) which meets the conditions in subsection (3B).
+>
+> (3B) The conditions are—
+>
+> (a) that the pipeline is used in connection with exploration for, or exploitation of, petroleum, or the importation of petroleum into the United Kingdom;
+>
+> (b) that, by virtue of the date when construction of the pipeline was begun, section 14(1)(b) would not apply in relation to use of the pipeline but for an order under this subsection.
+
+.
+
+(4) In subsection (5) (negative resolution procedure) after “an order under subsection (2)” insert “ , (2A) or (3A) ”.
+
+(5) Any authorisation issued under section 14(1)(b) of the Petroleum Act 1998 (use of certain pipelines) continues to have effect notwithstanding the provisions of any order under section 24(2A) of that Act.
+
+(6) Where an order under subsection (3A) of section 24 of the Petroleum Act 1998 (c. 17) comes into force in relation to a pipeline, the Secretary of State must grant an authorisation under section 14(1)(b) of that Act in respect of the conveyance, on and after the day on which the order comes into force, of any substances for which the pipeline was normally used before the coming into force of the order.
+
+(7) Sub-paragraph (6) is without prejudice to the provision that may be included in the authorisation with respect to information to be provided by the owner of the pipeline.
+
+#### Exception of certain pipelines from being “submarine pipelines” for the purposes of Part 4
+
+**8** (1) Section 45 of the Petroleum Act 1998 (interpretation of Part 4) is amended as follows.
+
+(2) In the definition of “submarine pipeline”, after the paragraphs, insert—
+
+> but does not include any such pipeline which, by virtue of an order under subsection (2A) of section 24, is to be disregarded for the purposes of Part 3 of this Act (other than that subsection).
+
+.
+
+## Schedule 9 — Licensing: transitional provision relating to Part 4
+
+*Section 112(2)*
+
+### Part 1 — Interpretation
+
+**1** In this Schedule—
+
+- “the commencement date” means the date on which section 65 comes into force;
+- “the CPA” means the Coast Protection Act 1949 (c. 74);
+- “FEPA” means the Food and Environment Protection Act 1985 (c. 48).
+
+### Part 2 — Coast Protection Act 1949
+
+#### Consents previously given and outstanding applications
+
+**2** (1) Any consent given under subsection (1) of section 34 of the CPA which—
+
+(a) is in effect immediately before the commencement date, and
+
+(b) relates to an operation which—
+
+(i) falls within that subsection, and
+
+(ii) is a licensable marine activity,
+
+has effect on and after that date as if it were a marine licence granted by the appropriate licensing authority in relation to that activity (a “deemed licence”).
+
+(2) In accordance with sub-paragraph (1)—
+
+(a) a consent given for a specified period remains in force (subject to the provisions of this Part of this Act) for so much of that period as falls after the commencement date;
+
+(b) any condition subject to which a consent under subsection (1) of section 34 of the CPA has been given has effect as if it were a condition attached to the deemed licence;
+
+(c) any provision made under subsection (4) of that section in respect of a consent has effect as if it were provision made under section 71(4)(a) of this Act in respect of the deemed licence;
+
+(d) any condition having effect under section 34(4A)(b) of the CPA has effect as if it were such a condition as is mentioned in section 71(5) of this Act.
+
+(3) Any reference in sub-paragraph (1) or (2) to a consent given under section 34(1) of the CPA, or to a condition subject to which such a consent is given, includes a reference to a consent deemed to have been given, or a condition deemed to have been imposed, by virtue of provision included in an order granting development consent (see paragraphs 27 and 28 of Schedule 5 to the Planning Act 2008 (c. 29)).
+
+(4) Any application for consent under subsection (1) of section 34 of the CPA which—
+
+(a) is made before the commencement date, and
+
+(b) relates to an operation which—
+
+(i) falls within that subsection, and
+
+(ii) is a licensable marine activity,
+
+has effect on and after that date as if it were an application for a marine licence made to the appropriate licensing authority in relation to that activity.
+
+#### Safety requirements
+
+**3** The repeal of section 36A of the CPA does not affect the operation of that provision in relation to anything occurring before the date on which that repeal takes effect.
+
+### Part 3 — Food and Environment Protection Act 1985
+
+#### Licences previously issued and outstanding applications
+
+**4** (1) Any licence having effect under Part 2 of FEPA (a “FEPA licence”) which—
+
+(a) is in effect immediately before the commencement date, and
+
+(b) relates to the doing of anything which—
+
+(i) falls within section 5 or 6 of that Act, and
+
+(ii) is an activity which, on or after that date, must not be carried on except in accordance with a marine licence granted by the appropriate licensing authority,
+
+has effect on and after that date as if it were a marine licence granted by the appropriate licensing authority in relation to that activity (a “deemed licence”).
+
+(2) In accordance with sub-paragraph (1)—
+
+(a) a licence issued for a specified period remains in force (subject to the provisions of this Part of this Act) for so much of that period as falls after the commencement date;
+
+(b) any provision included in a FEPA licence by virtue of section 8(3) or (4) of that Act has effect as if it were a condition attached to the deemed licence.
+
+(3) Any reference in sub-paragraph (1) or (2) to a FEPA licence, or to a provision included in such a licence, includes a reference to a licence deemed to have been issued, or a provision deemed to have been included, by virtue of provision included in a order granting development consent (see paragraphs 29 and 30 of Schedule 5 to the Planning Act 2008 (c. 29)).
+
+(4) Any application for a FEPA licence which—
+
+(a) was made before the commencement date, and
+
+(b) relates to an activity which—
+
+(i) falls within section 5 or 6 of FEPA, and
+
+(ii) on or after that date, must not be carried on except in accordance with a marine licence granted by the appropriate licensing authority,
+
+has effect on and after that date as if it were an application for a marine licence made to the appropriate licensing authority in relation to that activity.
+
+(5) An applicant who has paid a fee under section 8(7) or (8) of FEPA must not be charged a fee under section 67(1)(b) of this Act in respect of the deemed licence.
+
+**5** (1) Despite the amendments made by paragraph 2 of Schedule 8, paragraphs 5 to 17 of Schedule 3 to FEPA continue to apply in any case where a person—
+
+(a) makes written representations (in accordance with paragraph 5 of that Schedule) before the commencement date, or
+
+(b) within the period of 28 days ending with that date, is issued with a FEPA licence or receives notice under paragraph 1, 3 or 4 of that Schedule.
+
+(2) Sub-paragraph (1) has effect in place of any provision made under section 73 of this Act for appeals against any decision of an appropriate licensing authority on an application for a licence.
+
+#### Remedial action
+
+**6** The amendments made by paragraph 2 of Schedule 8 do not affect the operation of section 10 of FEPA in relation to anything carried out otherwise than under and in accordance with a FEPA licence before the commencement date.
+
+#### Register
+
+**7** (1) This paragraph applies in any case where—
+
+(a) immediately before the commencement date, an authority was required to maintain under section 14 of FEPA a register (the “FEPA register”) containing information of any particular description in respect of any particular area,
+
+(b) on that date the authority ceased to be required to maintain a register under that section containing information of that description in respect of that area, and
+
+(c) as from that date the authority is required to maintain a register under section 101 of this Act (the “new register”) containing information in respect of that area.
+
+(2) In any such case, the authority must include in the new register any information falling within sub-paragraph (1)(a) that was contained (or was required to have been contained) in the FEPA register immediately before the commencement date.
+
+(3) For the purpose of giving effect to this paragraph—
+
+(a) references in section 101 to marine licences are to be read as including references to FEPA licences, and
+
+(b) references in that section to this Part of this Act or to any provision of this Part are to be read as including references to Part 2 of FEPA or to the corresponding provision of that Part.
+
+#### Channel Islands and British overseas territories
+
+**8** (1) In this paragraph “relevant territory” means any of the following—
+
+(a) any of the Channel Islands;
+
+(b) any British overseas territory.
+
+(2) An Order in Council under section 26 of FEPA which is in force immediately before the commencement date remains in force, and may be revoked, amended or re-enacted, as if that section had not been repealed.
+
+(3) If it appears to Her Majesty—
+
+(a) that provision with respect to the licensing of marine activities has been made in the law of any relevant territory, and
+
+(b) that that provision was made otherwise than by virtue of an Order in Council under section 323 extending provisions of this Act,
+
+Her Majesty may by Order in Council repeal any provisions of Part 2 or 4 of FEPA as they have effect as part of the law of that territory.
+
+### Part 4 — Miscellaneous
+
+#### Dredging
+
+**9** (1) During the relevant transitional period, section 65 does not apply in respect of the carrying on by a person of a dredging operation—
+
+(a) which falls within item 9 in section 66(1) of this Act, but
+
+(b) which meets the conditions in sub-paragraph (2).
+
+(2) The conditions are that the dredging operation—
+
+(a) does not fall within section 34 of the CPA,
+
+(b) is not an activity for which a licence is required under Part 2 of FEPA, and
+
+(c) is not excluded from this paragraph by virtue of an order under section 320.
+
+(3) The references in sub-paragraph (2) to section 34 of the CPA and Part 2 of FEPA are references to those provisions as they would apply but for this Act.
+
+(4) The “relevant transitional period”, in the case of any person and any dredging operation,—
+
+(a) is the period of one year beginning with the commencement date, but
+
+(b) if a marine licence which authorises the carrying on of the dredging operation by the person comes into force (or has come into force) at any time before the end of that period, the transitional period ends with the coming into force of that licence.
+
+#### Water Resources Act 1991
+
+**10** The amendment made by section 82 of this Act applies to any application for consent under section 109 of the Water Resources Act 1991 (c. 57) which is submitted, but not determined or withdrawn, before the date on which that section comes into force (as well as to any application submitted after that date).
+
+#### Electronic Communications Code: England and Wales
+
+**11** (1) In this paragraph—
+
+(a) “the Code” means the Electronic Communications Code set out in Schedule 2 to the Telecommunications Act 1984 (c. 12);
+
+(b) “communications approval” means an approval under paragraph 11 of the Code;
+
+(c) “transitional date” means the date on which the repeals made in paragraph 11 of the Code by this Act take effect in relation to England and Wales.
+
+(2) Subsections (3) to (5) apply to any communications approval (a “qualifying approval”)—
+
+(a) which is in effect immediately before the transitional date, and
+
+(b) which relates to any works, falling within sub-paragraph (3) or (4) of paragraph 11 of the Code, the execution of which on or after that date is a licensable marine activity.
+
+(3) A qualifying approval has effect on and after the transitional date as if it were a marine licence granted by the appropriate licensing authority in relation to the licensable marine activity (a “deemed marine licence”).
+
+(4) If the qualifying approval was given for a specified period, the deemed marine licence is to remain in force (subject to the provisions of this Part of this Act) for so much of that period as falls after the transitional date.
+
+(5) If, by virtue of paragraph 11(5) of the Code, the qualifying approval was given subject to a condition, the deemed marine licence has effect as if the condition were a condition attached to the deemed marine licence.
+
+(6) Any application for a communications approval—
+
+(a) which was submitted before the transitional date, and
+
+(b) which relates to an activity which, on or after that date, is a licensable marine activity,
+
+has effect on and after that date as if it were an application for a marine licence made to the appropriate licensing authority in relation to that activity.
+
+#### Electronic Communications Code: Scotland
+
+**12** (1) In this paragraph—
+
+(a) “the Code” means the Electronic Communications Code set out in Schedule 2 to the Telecommunications Act 1984 (c. 12);
+
+(b) “communications approval” means an approval under paragraph 11 of the Code;
+
+(c) “Scottish transitional date” means the date on which the repeals made in paragraph 11 of the Code by this Act take effect in relation to Scotland.
+
+(2) Sub-paragraphs (3) to (5) apply to any communications approval (a “qualifying Scottish approval”)—
+
+(a) which is in effect immediately before the Scottish transitional date, and
+
+(b) which relates to any works, falling within sub-paragraph (3) or (4) of paragraph 11 of the Code, the execution of which on or after that date needs a licence under section 5 or 6 of FEPA.
+
+(3) A qualifying Scottish approval has effect on and after the Scottish transitional date as if it were a licence granted under section 5 or 6 (as the case may be) of FEPA by the licensing authority in relation to the activity (a “deemed FEPA licence”).
+
+(4) If the qualifying Scottish approval was given for a specified period, the deemed FEPA licence is to remain in force (subject to the provisions of FEPA) for so much of that period as falls after the Scottish transitional date.
+
+(5) If, by virtue of paragraph 11(5) of the Code, the qualifying Scottish approval was given subject to a condition, the deemed FEPA licence has effect as if the condition were a condition attached to the deemed FEPA licence.
+
+(6) Any application for a communications approval—
+
+(a) which was submitted before the transitional date, and
+
+(b) which relates to an activity which, on or after that date, needs a licence under section 5 or 6 of FEPA,
+
+has effect on and after that date as if it were an application for a licence under the section in question made to the licensing authority in relation to that activity.
+
+#### Direction under section 58(1)(c) of the Government of Wales Act 2006
+
+**13** (1) To the extent that they relate to the abandonment of an offshore installation, any functions exercisable under the provisions of this Part of this Act specified in sub-paragraph (2) are exercisable in relation to Welsh controlled waters by a Minister of the Crown only after consultation with the Welsh Ministers.
+
+(2) The provisions are—
+
+(a) sections 67(1) to (5), 69(1), (3) and (4), 71(1) to (3) and 72(1) to (3) (marine licences), so far as relating to items 1 to 6 and 11 to 13 in section 66(1) (licensable marine activities);
+
+(b) section 106 (power to take remedial action).
+
+(3) In this paragraph—
+
+- “offshore installation” has the meaning given by section 44 of the Petroleum Act 1998 (c. 17);
+- “Welsh controlled waters” has the same meaning as in paragraph 4 of Schedule 3 to the Government of Wales Act 2006 (c. 32).
+
+(4) The provision made by the preceding provisions of this paragraph has effect as if it were a direction made by Order in Council under section 58(1)(c) of the Government of Wales Act 2006 made by virtue of paragraph 4(1)(c) of Schedule 3 to that Act and may accordingly be amended, modified or repealed by any such Order in Council.
+
+## Schedule 10 — Further provision about fixed monetary penalties under section 142
+
+*Section 144*
+
+### Fixed monetary penalties: other sanctions
+
+**1** (1) Provision under section 142 must secure that, in a case where a notice of intent referred to in section 143(2)(a) is served on a person—
+
+(a) no criminal proceedings for the offence to which the notice relates may be instituted against the person in respect of the act or omission to which the notice relates before the end of the period in which the person may discharge liability to the fixed monetary penalty pursuant to section 143(2)(b), and
+
+(b) if the person so discharges liability, the person may not at any time be convicted of the offence to which the notice relates in relation to that act or omission.
+
+(2) Provision under section 142 must also secure that, in a case where a fixed monetary penalty is imposed on a person, that person may not at any time be convicted of the offence in relation to which the penalty is imposed in respect of the act or omission giving rise to the penalty.
+
+### Monetary penalties
+
+**2** (1) An order under section 142 which confers power on an enforcement authority to require a person to pay a fixed monetary penalty may include provision—
+
+(a) for early payment discounts;
+
+(b) for the payment of interest or other financial penalties for late payment of the penalty, such interest or other financial penalties not in total to exceed the amount of that penalty;
+
+(c) for enforcement of the penalty.
+
+(2) Provision under sub-paragraph (1)(c) may include—
+
+(a) provision for the enforcement authority to recover the penalty, and any interest or other financial penalty for late payment, as a civil debt;
+
+(b) provision for the penalty, and any interest or other financial penalty for late payment, to be recoverable, on the order of a court, as if payable under a court order.
+
+### Appeals
+
+**3** (1) An order under section 142 may not provide for the making of an appeal other than to—
+
+(a) the First-tier Tribunal, or
+
+(b) another tribunal created under an enactment.
+
+(2) In sub-paragraph (1)(b) “tribunal” does not include an ordinary court of law.
+
+(3) An order under section 142 which makes provision for an appeal in relation to the imposition of any requirement or service of any notice may include—
+
+(a) provision suspending the requirement or notice pending determination of the appeal;
+
+(b) provision as to the powers of the tribunal to which the appeal is made;
+
+(c) provision as to how any sum payable in pursuance of a decision of that person is to be recoverable.
+
+(4) The provision referred to in sub-paragraph (3)(b) includes provision conferring on the tribunal to which the appeal is made power—
+
+(a) to withdraw the requirement or notice;
+
+(b) to confirm the requirement or notice;
+
+(c) to take such steps as the enforcement authority could take in relation to the act or omission giving rise to the requirement or notice;
+
+(d) to remit the decision whether to confirm the requirement or notice, or any matter relating to that decision, to the enforcement authority;
+
+(e) to award costs.
+
+### Consultation
+
+**4** (1) Before making an order under section 142, the appropriate authority must consult the following—
+
+(a) the enforcement authority to which the order relates,
+
+(b) such organisations as appear to the appropriate authority to be representative of persons substantially affected by the proposals, and
+
+(c) such other persons as the appropriate authority considers appropriate.
+
+(2) If, as a result of any consultation required by sub-paragraph (1), it appears to the authority that it is appropriate substantially to change the whole or any part of the proposals, the authority must undertake such further consultation with respect to the changes as it considers appropriate.
+
+(3) If, before the day on which this Schedule comes into force, any consultation was undertaken which, had it been undertaken after that day, would to any extent have satisfied the requirements of this paragraph, those requirements may to that extent be taken to have been satisfied.
+
+### Guidance as to use of fixed monetary penalties
+
+**5** (1) Where power is conferred on an enforcement authority under section 142 to impose a fixed monetary penalty in relation to an offence, the provision conferring the power must secure the results in sub-paragraph (2).
+
+(2) Those results are that—
+
+(a) the enforcement authority must publish guidance about its use of the penalty,
+
+(b) the guidance must contain the relevant information,
+
+(c) the enforcement authority must revise the guidance where appropriate,
+
+(d) the enforcement authority must consult such persons as the provision may specify before publishing any guidance or revised guidance, and
+
+(e) the enforcement authority must have regard to the guidance or revised guidance in exercising its functions.
+
+(3) The relevant information referred to in sub-paragraph (2)(b) is information as to—
+
+(a) the circumstances in which the penalty is likely to be imposed,
+
+(b) the circumstances in which it may not be imposed,
+
+(c) the amount of the penalty,
+
+(d) how liability for the penalty may be discharged and the effect of discharge, and
+
+(e) rights to make representations and objections and rights of appeal.
+
+### Guidance as to enforcement of offences
+
+**6** (1) Where power is conferred on an enforcement authority under section 142 to impose a fixed monetary penalty in relation to an offence, the enforcement authority must prepare and publish guidance about how the offence is enforced.
+
+(2) The guidance must include guidance as to—
+
+(a) the sanctions (including criminal sanctions) to which a person who commits the offence may be liable,
+
+(b) the action which the enforcement authority may take to enforce the offence, whether by virtue of section 142 or otherwise, and
+
+(c) the circumstances in which the enforcement authority is likely to take any such action.
+
+(3) The enforcement authority may from time to time revise guidance published by it under this paragraph and publish the revised guidance.
+
+(4) The enforcement authority must consult such persons as it considers appropriate before publishing any guidance or revised guidance under this paragraph.
+
+### Publication of enforcement action
+
+**7** (1) Where power is conferred on an enforcement authority under section 142 to impose a fixed monetary penalty in relation to an offence, the provision conferring the power must, subject to this paragraph, secure the result in sub-paragraph (2).
+
+(2) That result is that the enforcement authority must from time to time publish reports specifying—
+
+(a) the cases in which a fixed monetary penalty has been imposed, and
+
+(b) the cases in which liability to the penalty has been discharged pursuant to section 143(2)(b).
+
+(3) In sub-paragraph (2)(a), the reference to cases in which a fixed monetary penalty has been imposed does not include cases where a penalty has been imposed but overturned on appeal.
+
+(4) The provision conferring the power need not secure the result in sub-paragraph (2) in cases where the appropriate authority considers that it would be inappropriate to do so.
+
+### Payment of penalties into Consolidated Fund etc
+
+**8** (1) Where pursuant to any provision made under section 142 an enforcement authority receives—
+
+(a) a fixed monetary penalty, or
+
+(b) any interest or other financial penalty for late payment of such a penalty,
+
+the authority must pay it into the relevant Fund.
+
+(2) In sub-paragraph (1) “the relevant Fund” means—
+
+(a) in a case where the authority has functions only in relation to Wales, the Welsh Consolidated Fund;
+
+(b) in any other case, the Consolidated Fund.
+
+### Disclosure of information
+
+**9** (1) Information held by or on behalf of a person mentioned in sub-paragraph (2) may be disclosed to an enforcement authority on whom powers are conferred under section 142 where—
+
+(a) the person has an enforcement function in relation to an offence, and
+
+(b) the information is disclosed for the purpose of the exercise by the enforcement authority of any powers conferred on it under that section in relation to that offence.
+
+(2) The persons are—
+
+(a) the Crown Prosecution Service,
+
+(b) a member of a police force in England or Wales,
+
+(c) a Procurator Fiscal,
+
+(d) a constable of [[^F245]the Police Service of Scotland],
+
+(e) the Public Prosecution Service for Northern Ireland, or
+
+(f) a member of the Police Service of Northern Ireland.
+
+(3) It is immaterial for the purposes of sub-paragraph (1) whether the information was obtained before or after the coming into force of this paragraph.
+
+(4) A disclosure under this paragraph is not to be taken to breach any restriction on the disclosure of information (however imposed).
+
+(5) Nothing in this paragraph authorises the making of a disclosure in contravention of—
+
+(a) [[^F246]the data protection legislation], or
+
+[[^F247](b) any of Parts 1 to 7 or Chapter 1 of Part 9 of the Investigatory Powers Act 2016.]
+
+(6) This paragraph does not affect a power to disclose which exists apart from this paragraph.
+
+[[^F248](7) In this paragraph, “the data protection legislation” has the same meaning as in the Data Protection Act 2018 (see section 3 of that Act).]
+
+## Schedule 11 — Consequential amendments relating to MCZs
+
+*Section 146*
+
+### Conservation of Seals Act 1970 (c. 30)
+
+**1** In section 10 of the Conservation of Seals Act 1970 (power to grant licences) in subsection (4)(d) for “a marine nature reserve under section 36 of that Act” substitute “ a marine conservation zone under section 116 of the Marine and Coastal Access Act 2009 ”.
+
+### Wildlife and Countryside Act 1981 (c. 69)
+
+**2** (1) The Wildlife and Countryside Act 1981 is amended as follows.
+
+(2) The following provisions are omitted—
+
+(a) sections 36 and 37;
+
+(b) Schedule 12.
+
+(3) In consequence of sub-paragraph (2), in the italic cross-heading preceding section 34A, the words “marine nature reserves” are omitted.
+
+### Water Resources Act 1991 (c. 57)
+
+**3** In paragraph 5 of Schedule 25 to the Water Resources Act 1991 (powers of the Environment Agency to make byelaws for flood defence and drainage purposes) in sub-paragraph (4) for the words from “the operation of” to the end of that sub-paragraph substitute
+
+> the operation of—
+>
+> (a) any byelaw made by a navigation authority, harbour authority or conservancy authority;
+>
+> (b) any byelaw made under section 129 or 132 of the Marine and Coastal Access Act 2009 (byelaws for protecting marine conservation zones in England);
+>
+> (c) any order made under section 134 or 136 of that Act (orders for protecting marine conservation zones in Wales).
+
+### Conservation (Natural Habitats, &c) Regulations 1994 (S.I. 1994/2716)
+
+**[^F249]4** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Schedule 12 — Transitional provision relating to MCZs
+
+*Section 146*
+
+**1** In this Schedule—
+
+- “the 1981 Act” means the Wildlife and Countryside Act 1981 (c. 69);
+- “the commencement date”, in relation to an area, means the date on which paragraph 2 of Schedule 11 comes into force in relation to that area.
+
+**2** (1) Any area which, immediately before the commencement date, is designated by an order under section 36 of the 1981 Act as a marine nature reserve is to be treated, on and after that date, as if it were a marine conservation zone designated by an order under section 116.
+
+(2) The designation having effect by virtue of sub-paragraph (1) includes (in accordance with section 118(6)(b)) the area of land designated by the order under section 36, together with all of the water covering that land.
+
+**3** Any byelaw which, immediately before the commencement date, is in force under section 37 of the 1981 Act for the protection of any area designated as a marine nature reserve has effect, on and after that date, as if it were—
+
+(a) in the case of an area in England, a byelaw made under section 129;
+
+(b) in the case of an area in Wales, an order made under section 134.
+
+**4** Any provision of this Chapter which—
+
+(a) confers any function on the MMO, and
+
+(b) comes into force before the date on which section 1 of this Act comes into force,
+
+has effect until that date as if it conferred that function on the Secretary of State.
+
+## Schedule 13 — Marine boundaries of SSSIs and national nature reserves
+
+*Section 148*
+
+### Part 1 — Introductory
+
+**1** In this Schedule “the 1981 Act” means the Wildlife and Countryside Act 1981 (c. 69).
+
+### Part 2 — Sites of special scientific interest
+
+#### Marine boundaries of sites of special scientific interest
+
+**2** (1) Section 28 of the 1981 Act (sites of special scientific interest) is amended as follows.
+
+(2) In subsection (1)(a) after “the local planning authority” insert “ (if any) ”.
+
+(3) After subsection (1) insert—
+
+> (1A) The reference in subsection (1) to land includes—
+>
+> (a) any land lying above mean low water mark;
+>
+> (b) any land covered by estuarial waters.
+>
+> (1B) Where the area of land to which a notification under subsection (1) relates includes land falling within subsection (1A)(a) or (b) (“area A”), it may also include land not falling within subsection (1A)(a) or (b) (“area B”) if—
+>
+> (a) area B adjoins area A, and
+>
+> (b) any of the conditions in subsection (1C) is satisfied.
+>
+> (1C) The conditions are—
+>
+> (a) that the flora, fauna or features leading to the notification of area A is or are also present in area B;
+>
+> (b) that the notification of area A is by reason of any flora or fauna which are dependent (wholly or in part) on anything which takes place in, or is present in, area B;
+>
+> (c) that, without the inclusion of area B, the identification of the boundary of the land notified (either in the notification or on the ground for the purposes of exercising functions in relation to it) would be impossible or impracticable.
+
+(4) In subsection (2) for “that fact” substitute “ the fact mentioned in subsection (1) ”.
+
+(5) In subsection (5) (confirmation of notification of SSSIs) after paragraph (b) insert—
+
+> In the case of a notification given in relation to land lying below mean low water mark by virtue of subsection (1B), this subsection is subject to section 28CB(4) and (6).
+
+(6) After subsection (6) (when notification ceases to have effect) insert—
+
+> (6A) Subsection (6)(b) does not apply in a case where notice has been given to Natural England under section 28CB(3).
+
+(7) After subsection (9) insert—
+
+> (9A) For the purposes of this Part “estuarial waters” means any waters within the limits of transitional waters, within the meaning of the Water Framework Directive (that is to say, Directive 2000/60/EC of the European Parliament and of the Council of 23 October 2000 establishing a framework for Community action in the field of water policy).
+
+(8) No notification under subsection (1) of that section made before the coming into force of this paragraph may be questioned in legal proceedings on the ground that the area of land to which the notification relates includes land lying below mean low water mark.
+
+**3** In section 28A of the 1981 Act (variation of notification under section 28), in subsection (3)(a) after “the local planning authority” insert “ (if any) ”.
+
+**4** In section 52(1) of the 1981 Act (interpretation of Part 2), after the definition of “agricultural land” insert—
+
+> “estuarial waters” has the meaning given by section 28(9A);
+
+.
+
+#### Notification of additional land that is subtidal
+
+**5** (1) Section 28B of the 1981 Act (notification of additional land) is amended as follows.
+
+(2) In subsection (2)(a) after “the local planning authority” insert “ (if any) ”.
+
+(3) After subsection (2) insert—
+
+> (2A) The reference in subsection (1) to land includes—
+>
+> (a) any land lying above mean low water mark;
+>
+> (b) any land covered by estuarial waters.
+>
+> (2B) If any of the conditions in subsection (2C) is satisfied, the extra land may consist of or include an area of land not falling within subsection (2A)(a) or (b).
+>
+> (2C) The conditions are—
+>
+> (a) that the flora, fauna or features that led to the notification of the SSSI is or are also present in the area of the extra land not falling within subsection (2A)(a) or (b);
+>
+> (b) that the notification of the SSSI is by reason of any flora or fauna which are dependent (wholly or in part) on anything which takes place in, or is present in, that area;
+>
+> (c) that, without the inclusion of that area, the identification of the boundary of the SSSI (either in the notification or on the ground for the purposes of exercising functions in relation to it) would be impossible or impracticable.
+
+(4) In subsection (3) for “such notification” substitute “ notification under subsection (2) ”.
+
+(5) In subsection (7) (application of section 28(5) to (7) in relation to notifications under section 28B)—
+
+(a) after “ “subsection (1)”” insert “ and “subsection (1B)” ;
+
+(b) for “of this section” (in the second place where it occurs) substitute “ and subsection (2B) of this section respectively ”.
+
+(6) No notification under subsection (2) of that section made before the coming into force of this paragraph may be questioned in legal proceedings on the ground that the area of land to which the notification relates consists of or includes land lying below mean low water mark.
+
+#### Enlargement of SSSI to include subtidal land
+
+**6** (1) Section 28C of the 1981 Act (enlargement of SSSI) is amended as follows.
+
+(2) In subsection (2)(a) after “the local planning authority” insert “ (if any) ”.
+
+(3) After subsection (2) insert—
+
+> (2A) The reference in subsection (1) to land includes—
+>
+> (a) any land lying above mean low water mark;
+>
+> (b) any land covered by estuarial waters.
+>
+> (2B) If any of the conditions in subsection (2C) is satisfied, the area of land to which a notification under subsection (2) relates may include an area of land not falling within subsection (2A)(a) or (b).
+>
+> (2C) The conditions are—
+>
+> (a) that the flora, fauna or features that led to the notification of the SSSI is or are also present in the area of land not falling within subsection (2A)(a) or (b);
+>
+> (b) that the notification of the SSSI is by reason of any flora or fauna which are dependent (wholly or in part) on anything which takes place in, or is present in, that area;
+>
+> (c) that, without the inclusion of that area, the identification of the boundary of the SSSI (either in the notification or on the ground for the purposes of exercising functions in relation to it) would be impossible or impracticable.
+
+(4) In subsection (3) (application of section 28(2) to (8) in relation to notifications under section 28C)—
+
+(a) for “and “subsection (1)(b)”” substitute “ “ , “subsection (1)(b)” and “subsection (1B)” ”;
+
+(b) for “and subsection (2)(b)” substitute “ , subsection (2)(b) and subsection (2B) ”.
+
+(5) No notification under subsection (2) of that section made before the coming into force of this paragraph may be questioned in legal proceedings on the ground that the area of land to which the notification relates includes land lying below mean low water mark.
+
+#### Guidance in relation to subtidal notifications of SSSIs
+
+**7** After section 28C of the 1981 Act insert—
+
+> **Guidance in relation to subtidal notifications of SSSIs**
+>
+> **28CA** (1) The ministerial authority may issue guidance to Natural England about the exercise of the power conferred by section 28(1B), 28B(2B) or 28C(2B) to give a notification under section 28(1), 28B(2) or 28C(2) (as the case may be) in relation to land lying below mean low water mark.
+>
+> (2) In this section and section 28CB “the ministerial authority” means—
+>
+> (a) in relation to England, the Secretary of State;
+>
+> (b) in relation to Wales, the Welsh Ministers.
+
+#### Power to call in subtidal notifications of SSSIs
+
+**8** After section 28CA of the 1981 Act (inserted by paragraph 7) insert—
+
+> **Power to call in subtidal notifications**
+>
+> **28CB** (1) This section applies where a notification under section 28(1), 28B(2) or 28C(2) has been given in relation to land lying below mean low water mark (“the subtidal land”) by virtue of section 28(1B), 28B(2B) or 28C(2B) (as the case may be).
+>
+> (2) Natural England may not give notice under section 28(5)(b) confirming the notification unless, at least 21 days before doing so, they have given notice of their intention to the ministerial authority.
+>
+> (For the meaning of “the ministerial authority”, see section 28CA.)
+>
+> (3) At any time before the notification is confirmed the ministerial authority may give notice to Natural England that the ministerial authority is considering whether to give a direction under subsection (5) regarding the subtidal land.
+>
+> (4) If the ministerial authority gives notice under subsection (3), Natural England may not give notice under section 28(5) until the ministerial authority has given a direction under subsection (5).
+>
+> (5) The ministerial authority may direct—
+>
+> (a) that the notification (if confirmed) must include all of the subtidal land;
+>
+> (b) that the notification (if confirmed) must not include any of the subtidal land;
+>
+> (c) that the notification (if confirmed) must, or must not, include such part of that land as is specified in the direction;
+>
+> (d) that the decision whether the notification (if confirmed) should include the subtidal land is to be taken by Natural England.
+>
+> (6) If the ministerial authority gives a direction under subsection (5), Natural England must give notice under section 28(5)(a) or (b), in accordance with that direction, within the period of three months beginning with the date on which the direction is received by them.
+>
+> (7) The ministerial authority may, before deciding whether to give a direction under subsection (5), give to any person the opportunity of—
+>
+> (a) appearing before and being heard by a person appointed by the ministerial authority for that purpose;
+>
+> (b) providing written representations to such a person.
+>
+> (8) A person appointed under subsection (7) must make a report to the ministerial authority of any oral or written representations made under that subsection.
+>
+> (9) The ministerial authority may make regulations providing for the procedure to be followed (including decisions as to costs) at hearings held under subsection (7).
+>
+> (10) The power to make regulations under subsection (9) is exercisable by statutory instrument.
+>
+> (11) A statutory instrument containing regulations made under subsection (9) by the Secretary of State shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+>
+> (12) A statutory instrument containing regulations made under subsection (9) by the Welsh Ministers shall be subject to annulment in pursuance of a resolution of the National Assembly for Wales.
+
+#### Denotification of SSSI on designation of area as MCZ
+
+**9** (1) Section 28D of the 1981 Act (denotification) is amended as follows.
+
+(2) In subsection (1) before “is not of special interest” insert “ (a) ” and after “mentioned in section 28(1),” insert “or
+
+> (b) should no longer be the subject of a notification under section 28(1) because that land has been designated as (or as part of) a marine conservation zone under section 116 of the Marine and Coastal Access Act 2009,
+
+.
+
+(3) In subsection (2)(a)—
+
+(a) after “the local planning authority” insert “ (if any) ”;
+
+(b) for “the land which Natural England no longer consider to be of special interest” substitute “ the land mentioned in subsection (1) ”.
+
+(4) In subsection (3) for “that fact” substitute “ the fact mentioned in subsection (1)(a) or (b) ”.
+
+### Part 3 — National nature reserves
+
+#### Marine boundaries of national nature reserves
+
+**10** (1) In section 35 of the 1981 Act (national nature reserves) after subsection (1) insert—
+
+> (1A) The land which may be declared to be a national nature reserve in England or Wales includes—
+>
+> (a) any land lying above mean low water mark;
+>
+> (b) any land covered by estuarial waters.
+>
+> (1B) Where the area of land to which a declaration under subsection (1) relates includes land falling within subsection (1A)(a) or (b) (“area A”), it may also include land not falling within subsection (1A)(a) or (b) (“area B”) if—
+>
+> (a) area B adjoins area A, and
+>
+> (b) any of the conditions in subsection (1C) is satisfied.
+>
+> (1C) The conditions are—
+>
+> (a) that the flora, fauna or features leading to the management of area A as a nature reserve is or are also present in area B;
+>
+> (b) that the management of area A as a nature reserve is by reason of any flora or fauna which are dependent (wholly or in part) on anything which takes place in, or is present in, area B;
+>
+> (c) that, without the inclusion of area B, the identification of the boundary of the land declared to be a national nature reserve (either in the declaration or on the ground for the purposes of exercising functions in relation to it) would be impossible or impracticable.
+>
+> (1D) The ministerial authority may issue guidance to the appropriate conservation body about the exercise of the power conferred by subsection (1B) to make a declaration in relation to land lying below mean low water mark.
+>
+> “The ministerial authority” has the meaning given by section 35A(12).
+
+(2) No declaration under subsection (1) of that section made before the coming into force of this paragraph may be questioned in legal proceedings on the ground that the area of land to which the declaration relates includes land lying below mean low water mark.
+
+#### Power to call in subtidal declarations of national nature reserves
+
+**11** After section 35 of the 1981 Act insert—
+
+> **Power to call in subtidal declarations**
+>
+> **35A** (1) This section applies where—
+>
+> (a) the appropriate conservation body propose to declare land to be a national nature reserve under section 35(1), and
+>
+> (b) the land to which the proposed declaration relates includes, by virtue of section 35(1B), land lying below mean low water mark (“the subtidal land”).
+>
+> (2) The appropriate conservation body may not declare the reserve unless, at least 21 days before doing so, they have given notice of their intention to the ministerial authority.
+>
+> (3) At any time before the reserve is declared the ministerial authority may give notice to the appropriate conservation body that the ministerial authority is considering whether to give a direction under subsection (5) regarding the subtidal land.
+>
+> (4) If the ministerial authority gives notice under subsection (3), the appropriate conservation body may not declare the reserve until the ministerial authority has given a direction under subsection (5).
+>
+> (5) The ministerial authority may direct—
+>
+> (a) that the reserve (if declared) must include all of the subtidal land;
+>
+> (b) that the reserve (if declared) must not include any of the subtidal land;
+>
+> (c) that the reserve (if declared) must, or must not, include such part of that land as is specified in the direction;
+>
+> (d) that the decision whether the reserve (if declared) should include the subtidal land is to be taken by the appropriate conservation body.
+>
+> (6) The ministerial authority may, before deciding whether to give a direction under subsection (5), give to any person the opportunity of—
+>
+> (a) appearing before and being heard by a person appointed by the ministerial authority for that purpose;
+>
+> (b) providing written representations to such a person.
+>
+> (7) A person appointed under subsection (6) must make a report to the ministerial authority of any oral or written representations made under that subsection.
+>
+> (8) The ministerial authority may make regulations providing for the procedure to be followed (including decisions as to costs) at hearings held under subsection (6).
+>
+> (9) The power to make regulations under subsection (8) is exercisable by statutory instrument.
+>
+> (10) A statutory instrument containing regulations made under subsection (8) by the Secretary of State shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+>
+> (11) A statutory instrument containing regulations made under subsection (8) by the Welsh Ministers shall be subject to annulment in pursuance of a resolution of the National Assembly for Wales.
+>
+> (12) In this section “the ministerial authority” means—
+>
+> (a) in relation to England, the Secretary of State;
+>
+> (b) in relation to Wales, the Welsh Ministers.
+
+## Schedule 14 — Inshore fisheries and conservation authorities: amendments
+
+*Section 184*
+
+### Coast Protection Act 1949 (c. 74)
+
+**1** The Coast Protection Act 1949 is amended as follows.
+
+**2** In section 2 (constitution of coast protection boards)—
+
+(a) in subsection (2)(b), after “fishery board,” insert “ inshore fisheries and conservation authority, ”;
+
+(b) in subsection (8)(a), after “(other than the Tweed Commissioners)” insert “ , inshore fisheries and conservation authority ”.
+
+**3** In section 45 (service of notices and other documents), in subsection (1)(b), after “fishery board,” insert “ inshore fisheries and conservation authority, ”.
+
+**4** In section 49(1) (interpretation) after the definition of “functions” insert—
+
+> “inshore fisheries and conservation authority” means the authority for an inshore fisheries and conservation district established under section 149 of the Marine and Coastal Access Act 2009;
+
+.
+
+**5** In Part 1 of the First Schedule (general provisions concerning procedure for making orders, etc), in paragraph 1(b), after “fishery board,” insert “ inshore fisheries and conservation authority, ”.
+
+### Nuclear Installations Act 1965 (c. 57)
+
+**[^F250]6** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Sea Fish (Conservation) Act 1967 (c. 84)
+
+**7** In section 3 of the Sea Fish (Conservation) Act 1967 (regulation of nets and other fishing gear), in subsection (7), before “or in any regulation made” insert “ or in any byelaw made under section 155 of the Marine and Coastal Access Act 2009, ”.
+
+### Prevention of Oil Pollution Act 1971 (c. 60)
+
+**8** In section 19 of the Prevention of Oil Pollution Act 1971 (prosecutions) after subsection (5) insert—
+
+> (5A) If an inshore fisheries and conservation authority for a district established under section 149 of the Marine and Coastal Access Act 2009, or any inshore fisheries and conservation officer appointed by the authority under section 165 of that Act, is authorised in that behalf under subsection (1) of this section, the authority may institute proceedings for any offence under this Act committed within the district.
+
+### Local Government Act 1974 (c. 7)
+
+**9** In section 31A of the Local Government Act 1974 (consideration of adverse reports), in subsection (3)—
+
+(a) after paragraph (a) insert—
+
+> (aa) an inshore fisheries and conservation authority for a district established under section 149 of the Marine and Coastal Access Act 2009,
+
+;
+
+(b) after “that committee” insert “ , authority ”.
+
+### Fisheries Act 1981 (c. 29)
+
+**10** In Part 1 of Schedule 4 to the Fisheries Act 1981 (exemptions for fish farming: offences to which section 33(1) applies), after paragraph 17A (inserted by the Inshore Fishing (Scotland) Act 1984 (c. 26)) insert—
+
+> **17B** Any offence under section 163 of the Marine and Coastal Access Act 2009 (contravention of byelaws made by inshore fisheries and conservation authorities).
+
+### Wildlife and Countryside Act 1981 (c. 69)
+
+**11** In section 27(1) of the Wildlife and Countryside Act 1981 (interpretation of Part 1)—
+
+(a) in paragraph (c) of the definition of “authorised person”, after “the Salmon Fisheries (Scotland) Act 1862” insert “ or an inshore fisheries and conservation authority ”;
+
+(b) after the definition of “inland waters” insert—
+
+> “inshore fisheries and conservation authority” means the authority for an inshore fisheries and conservation district established under section 149 of the Marine and Coastal Access Act 2009;
+
+.
+
+### Local Government and Housing Act 1989 (c. 42)
+
+**12** The Local Government and Housing Act 1989 is amended as follows.
+
+**13** (1) Section 5 (designation and reports of monitoring officer) is amended as follows.
+
+(2) After subsection (3) insert—
+
+> (3A) The references in subsection (2) above, in relation to a relevant authority in England, to a committee or sub-committee of the authority and to a joint committee on which they are represented shall be taken to include references to—
+>
+> (a) any inshore fisheries and conservation authority (“IFC authority”) the members of which include persons who are members of the relevant authority, and
+>
+> (b) any sub-committee appointed by such an authority;
+>
+> but in relation to any such IFC authority or sub-committee the reference in subsection (3)(b) above to each member of the authority shall have effect as a reference to each member of the IFC authority or, as the case may be, of the IFC authority which appointed the sub-committee.
+
+(3) In subsection (5), after “a relevant authority” insert “ and of any IFC authority falling within paragraph (a) of subsection (3A) above ”.
+
+(4) In subsection (8), after the definition of “chief finance officer” insert—
+
+> “inshore fisheries and conservation authority” means the authority for an inshore fisheries and conservation district established under section 149 of the Marine and Coastal Access Act 2009;
+
+.
+
+**14** In section 13 (voting rights of members of certain committees), in subsection (4), after paragraph (f) insert—
+
+> (fa) an inshore fisheries and conservation authority for a district established under section 149 of the Marine and Coastal Access Act 2009;
+
+.
+
+**15** In paragraph 2(1) of Schedule 1 (political balance on local authority committees etc) after paragraph (bb) insert—
+
+> (bc) an inshore fisheries and conservation authority for a district established under section 149 of the Marine and Coastal Access Act 2009;
+
+.
+
+### Radioactive Substances Act 1993 (c. 12)
+
+**16** The Radioactive Substances Act 1993 is amended as follows.
+
+**17** In section 47(1) (general interpretation provisions), in the definition of “relevant water body”, after “sewerage undertaker” insert “ or an inshore fisheries and conservation authority ”.
+
+**18** In Schedule 3 (enactments to which section 40 applies), after paragraph 10 insert—
+
+> **10A** Section 155 of the Marine and Coastal Access Act 2009.
+
+### Freedom of Information Act 2000 (c. 36)
+
+**19** In Part 2 of Schedule 1 to the Freedom of Information Act 2000 (local government bodies which are public authorities), after paragraph 35A insert—
+
+> **35B** An inshore fisheries and conservation authority for a district established under section 149 of the Marine and Coastal Access Act 2009.
+
+### Natural Environment and Rural Communities Act 2006 (c. 16)
+
+**20** In Schedule 7 to the Natural Environment and Rural Communities Act 2006 (designated bodies), after paragraph 1 insert—
+
+> **1A** An inshore fisheries and conservation authority for a district established under section 149 of the Marine and Coastal Access Act 2009.
+
+## Schedule 15 — Sea Fish (Conservation) Act 1967: minor and consequential amendments
+
+*Section 201*
+
+### Sea Fish (Conservation) Act 1967 (c. 84)
+
+**1** (1) Section 1 (size limits, etc for fish) is amended as follows.
+
+(2) In subsection (4)—
+
+(a) for “Different sizes” substitute “ Different requirements as to size ”;
+
+(b) for “different sizes” substitute “ different requirements as to size ”.
+
+(3) In subsection (5)—
+
+(a) for “a size” substitute “ requirements as to size ”;
+
+(b) for the words from “if the part” to the end substitute “ if the part does not meet the requirements as to size so prescribed. ”
+
+(4) In subsection (8)—
+
+(a) for “a relevant British fishing boat or a Scottish fishing boat” substitute “ a relevant British vessel, a Scottish fishing boat or a Northern Ireland fishing boat ”;
+
+(b) for “foreign fishing boat” substitute “ foreign vessel ”.
+
+**2** (1) Section 3 (regulation of nets and other fishing gear) is amended as follows.
+
+(2) In subsection (3)(c), after “classes of fishing boats,” insert “ or particular persons or persons of a particular description, ”.
+
+(3) In subsection (7), after “carrying” (in each place where it occurs) insert “ or use ”.
+
+**3** (1) Section 5 (power to restrict fishing for sea fish) is amended as follows.
+
+(2) In subsection (2), for the words after “different provision” substitute “ for different cases ”.
+
+(3) In subsection (5), after “prohibition” insert “ or restriction ”.
+
+(4) In subsection (6)—
+
+(a) after “is made” insert “ by virtue of paragraph (a) of subsection (1) above ”;
+
+(b) for “any fishing operations conducted” substitute “ fishing ”;
+
+(c) for the words from “are taken” to “applies” substitute “ are caught by a person, or taken on board a fishing boat, in contravention of the prohibition ”.
+
+(5) After subsection (6) insert—
+
+> (6A) A person who does not comply with subsection (6) above shall be guilty of an offence under that subsection.
+
+**4** In section 11 (penalties for offences), in subsection (3), for “subsection (5)” substitute “ subsection (4) ”.
+
+### Fisheries Act 1981 (c. 29)
+
+**5** (1) Schedule 4 (exemptions for fish farming) is amended as follows.
+
+(2) In Part 1 (offences to which section 33(1) applies)—
+
+(a) in paragraph 12, for “smaller than prescribed size” substitute “ which do not meet prescribed size requirements ”;
+
+(b) in paragraph 13, after “section 3(5)” insert “ or (5A) ”;
+
+(c) in paragraph 16, after “prohibiting” insert “ or restricting ”.
+
+(3) In Part 2 (offences to which section 33(5) applies), in paragraph 33—
+
+(a) for “the Sea Fisheries (Conservation) Act 1967” substitute “ the Sea Fish (Conservation) Act 1967 ”;
+
+(b) for “smaller than the prescribed size” substitute “ which do not meet prescribed size requirements ”.
+
+## Schedule 16 — Migratory and freshwater fish: consequential and supplementary amendments
+
+*Section 233(1)*
+
+### Salmon and Freshwater Fisheries Act 1975 (c. 51)
+
+**1** The Salmon and Freshwater Fisheries Act 1975 has effect subject to the amendments in paragraphs 2 to 17.
+
+**2** Section 3 (nets) is omitted.
+
+**3** (1) Section 5 (prohibition of use of explosives etc) is amended as follows.
+
+(2) In subsection (1), for “subsection (2)” substitute “ subsections (2) and (2A) ”.
+
+(3) In subsection (2)(b), at the end insert “ , for which the Agency may charge a fee ”.
+
+(4) After subsection (2) insert—
+
+> (2A) Subsection (1) above shall not apply to anything done pursuant to an authorisation granted by the Agency under section 27A below.
+
+**4** Sections 6 to 8 (fixed engines, fishing weirs and fishing mill dams) are omitted.
+
+**5** Section 16 (boxes and cribs in weirs and dams) is omitted.
+
+**6** Section 17 (restrictions on taking salmon or trout above or below an obstruction or in mill races) is omitted.
+
+**7** In section 18 (supplementary provisions), in subsection (4), for “, 15 or 17” substitute “ or 15 ”.
+
+**8** Sections 19 to 22 (close seasons etc) are omitted.
+
+**9** (1) Section 25 (licences to fish) is amended as follows.
+
+(2) In subsection (2), for “an instrument” substitute “ the means of fishing ”.
+
+(3) In subsection (3)—
+
+(a) for “an instrument” substitute “ any means of fishing ”;
+
+(b) for “the instrument” substitute “ that means of fishing ”.
+
+**10** (1) Section 26 (limitation of fishing licences) is amended as follows.
+
+(2) In subsection (1), for “the Minister” substitute “ the appropriate national authority ”.
+
+(3) In subsection (2)—
+
+(a) for “the Minister” substitute “ the appropriate national authority ”;
+
+(b) for “he” (in both places) substitute “ that authority ”;
+
+(c) for “his” substitute “that authority's”;
+
+(d) for “him” substitute “ that authority ”.
+
+(4) In subsection (3)—
+
+(a) for “The Minister” substitute “ The appropriate national authority ”;
+
+(b) for “him” substitute “ that authority ”;
+
+(c) for “he” substitute “ that authority ”.
+
+(5) In subsection (6)—
+
+(a) for “The Minister” substitute “ The appropriate national authority ”;
+
+(b) for “him” substitute “ that authority ”;
+
+(c) for “he” substitute “ that authority ”.
+
+(6) In subsection (7)—
+
+(a) for “the Minister”, in the first place, substitute “ the appropriate national authority ”;
+
+(b) for “the Minister”, in the second place, substitute “ that authority ”.
+
+**11** (1) Section 27 (unlicensed fishing) is amended as follows.
+
+(2) The existing provision is renumbered as subsection (1).
+
+(3) In that subsection, after “of any description” insert “ by any licensable means of fishing ”.
+
+(4) In that subsection, for paragraphs (a) and (b) substitute—
+
+> (a) fishes for or takes fish of that description by that means and—
+>
+> > (i) is not entitled to use that means for that purpose by virtue of a fishing licence, or
+> >
+> > (ii) is acting in breach of any condition of such a licence, or
+>
+> (b) where that licensable means of fishing is an instrument, has that instrument in his possession with intent to use it for that purpose and is not entitled to use it for that purpose by virtue of a fishing licence.
+
+(5) After that subsection insert—
+
+> (2) Subsection (1) above does not apply to a person where—
+>
+> (a) he has permission under section 25(10) above to take fish of that description in that place by that means, and
+>
+> (b) he is not acting in breach of any condition of that permission.
+
+**12** In section 33 (orders and warrants to enter suspected premises), in subsection (2), for “or any salmon, trout, freshwater fish or eels to have been illegally taken” substitute “ or an offence against this Act to have been committed in the taking of any fish ”.
+
+**13** In section 34 (power to apprehend persons fishing illegally), for the words from “illegally takes or kills” to “by this Act” substitute “ takes or kills any fish where the taking or killing constitutes an offence under this Act, or is found on or near any waters with intent to take or kill any fish where the taking or killing would constitute an offence under this Act, or having an instrument prohibited by this Act in his possession for the capture of any fish, where the capture would constitute an offence under this Act ”.
+
+**14** (1) In section 41 (interpretation), subsection (1) is amended as follows.
+
+(2) In the definition of “fixed engine”, in paragraph (d), for “salmon or trout” substitute “ fish ”.
+
+(3) After the definition of “general licence” insert—
+
+> “historic installation” has the meaning given by section 25 above;
+
+.
+
+(4) After the definition of “inland water” insert—
+
+> “licensable means of fishing” has the meaning given by section 25 above;
+
+.
+
+**15** Schedule 1 (close seasons and close times) is omitted.
+
+**16** (1) Schedule 2 (licences) is amended as follows.
+
+(2) In paragraph 1(2), for “in special cases” substitute “ in such cases as it considers appropriate ”.
+
+(3) In paragraph 2, for the words from “different instruments” to “different descriptions of fish” substitute “ different descriptions of licence ”.
+
+(4) In paragraph 3, for “any instrument” substitute “ any licensable means of fishing ”.
+
+(5) In paragraph 4—
+
+(a) for “the Minister”, in the first place, substitute “ the appropriate national authority ”;
+
+(b) for “the Minister”, in the second place, substitute “ that authority ”.
+
+(6) In paragraph 5—
+
+(a) for “The Minister” substitute “ The appropriate national authority ”;
+
+(b) for “his” substitute “that authority's”;
+
+(c) for “the Minister” substitute “ that authority ”.
+
+(7) In paragraph 7—
+
+(a) for “an instrument” substitute “ any licensable means of fishing ”;
+
+(b) for “that instrument” substitute “ that means ”.
+
+(8) In paragraph 9—
+
+(a) in sub-paragraph (1)—
+
+(i) for “an instrument of any description” substitute “ any licensable means of fishing ”;
+
+(ii) for “with instruments of that description” substitute “ by that means ”;
+
+(iii) for “an instrument of that description”, in the first place, substitute “ that means of fishing ”;
+
+(iv) for “the instrument”, in the first place, substitute “ that means of fishing ”;
+
+(v) in paragraph (b), for “an instrument of that description”, substitute “ that means of fishing ”;
+
+(vi) in paragraph (c), for “the instrument” substitute “ that means of fishing ”;
+
+(b) in sub-paragraph (2)—
+
+(i) for “an instrument of any description” substitute “ any licensable means of fishing ”;
+
+(ii) for “an instrument of that description” substitute “ that means of fishing ”;
+
+(iii) for “the instrument”, in the first place, substitute “ that means of fishing ”;
+
+(iv) in paragraph (c), for “the instrument” substitute “ that means of fishing ”.
+
+(9) In paragraph 10, after “entered on” insert “ or removed from ”.
+
+(10) In paragraph 13, for “the instrument”, in both places, substitute “ the means of fishing ”.
+
+(11) In paragraph 15, for “the instrument” substitute “ the means of fishing ”.
+
+(12) In paragraph 17, for “instrument” substitute “ other thing ”.
+
+**17** (1) Schedule 4 (offences) is amended as follows.
+
+(2) In the table in paragraph 1(2), the entries relating to section 19(2), section 19(4), section 19(6), section 19(7) and section 21 are omitted.
+
+(3) In that table, in the entry relating to section 27—
+
+(a) in the second column—
+
+(i) after “fishing for fish” insert “ by licensable means of fishing ”;
+
+(ii) after “unlicensed” insert “ licensable ”;
+
+(b) in the third column, in paragraph (a), for the words from “instrument” to “rod and line” substitute “ offence is one alleged to be committed by use or possession of rod and line (only) ”.
+
+(4) In paragraph 1(3), for the words from “both” to the end substitute—
+
+> (a) both are engaged in committing—
+>
+> (i) an offence under section 1 above, other than one committed without any instrument, or
+>
+> (ii) an offence under section 27 above, other than one committed by means of a rod and line (only), or
+>
+> (b) one is aiding, abetting, counselling or procuring the commission of such an offence by the other.
+
+(5) In paragraph 7, for “salmon, trout or freshwater fish” substitute “ fish ”.
+
+(6) In paragraph 9—
+
+(a) after “any fishing or general licence” insert “ or authorisation under section 27A above ”;
+
+(b) after “a fishing or general licence” (in both places) insert “ or authorisation under section 27A above ”.
+
+(7) In paragraph 10—
+
+(a) after “a fishing or general licence” insert “ or authorisation under section 27A above ”;
+
+(b) after “the licence” (in every place) insert “ or authorisation under section 27A above ”.
+
+(8) In paragraph 11—
+
+(a) after “a fishing or general licence” insert “ or authorisation under section 27A above ”;
+
+(b) after “a licence” insert “ or authorisation ”;
+
+(c) after “the licence” insert “ or authorisation ”.
+
+### Fisheries Act 1981 (c. 29)
+
+**18** (1) In the Fisheries Act 1981, in Part 1 of Schedule 4 (offences to which section 33(1) of that Act applies), paragraph 6 is amended as follows.
+
+(2) In paragraph (a), after “any fish” insert “ to which paragraph 6 of that Schedule applies ”.
+
+(3) After paragraph (a) insert—
+
+> (aa) specifying close seasons or times for the taking of any fish to which that paragraph applies by such means as may be prescribed by the byelaws;
+
+.
+
+(4) In paragraph (b), for “trout or any freshwater fish of a size” substitute “ any fish to which that paragraph applies of a size greater or ”.
+
+(5) In paragraph (c)—
+
+(a) for “salmon, trout, or freshwater fish” substitute “ fish to which that paragraph applies ”;
+
+(b) the words “(not being a fixed engine)” are omitted.
+
+(6) In paragraph (d)—
+
+(a) the words “(not being fixed engines)” are omitted;
+
+(b) for “salmon, trout, freshwater fish and eels” substitute “ fish to which that paragraph applies ”.
+
+(7) In paragraph (f)—
+
+(a) for “salmon or trout” substitute “ fish to which that paragraph applies ”;
+
+(b) for “which is not licensed” substitute “ which may not lawfully be used ”.
+
+(8) In paragraph (g), for “the annual close season for salmon of a net capable of taking salmon” substitute “ any close season or time for any description of fish to which that paragraph applies of a net capable of taking fish of that description ”.
+
+### Salmon Act 1986 (c. 62)
+
+**19** In section 32 of the Salmon Act 1986 (handling salmon in suspicious circumstances), subsection (6)(a) is omitted.
+
+### Water Resources Act 1991 (c. 57)
+
+**20** The Water Resources Act 1991 has effect subject to the amendments in paragraphs 21 to 25.
+
+**21** In section 115 (fisheries orders), in subsection (1)—
+
+(a) in paragraph (a), after “Salmon and Freshwater Fisheries Act 1975” insert “ (as amended by the Marine and Coastal Access Act 2009) ”;
+
+(b) in paragraph (b), after “this Act” insert “ (as so amended) ”.
+
+**22** In section 116 (power to give effect to international obligations)—
+
+(a) the existing provision is renumbered as subsection (1);
+
+(b) after that subsection insert—
+
+> (2) In subsection (1), the reference to functions includes any functions conferred on the Agency by virtue of the Marine and Coastal Access Act 2009.
+
+**23** (1) Section 212 (compensation in respect of certain fisheries byelaws) is amended as follows.
+
+(2) In subsection (2)—
+
+(a) in paragraph (a)—
+
+(i) for “salmon, trout, or freshwater fish” substitute “ any fish to which paragraph 6 of that Schedule applies ”;
+
+(ii) the words “(not being a fixed engine)” are omitted;
+
+(b) in paragraph (b)—
+
+(i) the words “(not being fixed engines)” are omitted;
+
+(ii) for “salmon, trout, freshwater fish and eels” substitute “ any such fish ”.
+
+**24** (1) In Schedule 25 (byelaw-making powers of the Agency), paragraph 6 (byelaws for purposes of fisheries functions) is amended as follows.
+
+(2) In sub-paragraph (2)—
+
+(a) the words “Subject to paragraph 7(1) below” are omitted;
+
+(b) in paragraph (a), after “any fish” insert “ to which this paragraph applies ”;
+
+(c) in paragraph (b)—
+
+(i) in sub-paragraph (i), for “trout or any freshwater fish” substitute “ any fish to which this paragraph applies ”;
+
+(ii) in sub-paragraph (ii), after “fish” insert “ to which this paragraph applies ”;
+
+(d) in paragraph (c)—
+
+(i) for “salmon, trout, or freshwater fish” substitute “ fish to which this paragraph applies ”;
+
+(ii) the words “(not being a fixed engine)” are omitted;
+
+(e) in paragraph (d)—
+
+(i) the words “(not being fixed engines)” are omitted;
+
+(ii) for “salmon, trout, freshwater fish and eels” substitute “ fish to which this paragraph applies ”;
+
+(f) in paragraph (g), the word “licensed” is omitted;
+
+(g) in paragraph (h)—
+
+(i) for “salmon or trout” substitute “ fish to which this paragraph applies ”;
+
+(ii) for “which is not licensed” substitute “ which may not lawfully be used ”;
+
+(h) in paragraph (i), for “the annual close season for salmon of a net capable of taking salmon” substitute “ any close season or time for any description of fish to which this paragraph applies of a net capable of taking fish of that description ”.
+
+(3) In sub-paragraph (5) for “salmon, trout, freshwater fish or eels” substitute “ fish to which this paragraph applies ”.
+
+**25** In that Schedule, paragraph 7 is omitted.
+
+### Environment Act 1995 (c. 25)
+
+**26** In section 13 of the Environment Act 1995 (regional and local fisheries advisory committees), in subsection (1)(a), for the words from “salmon fisheries” to “eel fisheries” substitute “ fisheries referred to in section 6(6) above ”.
+
+## Schedule 17 — Warrants issued under section 249
+
+*Section 249*
+
+### Introductory
+
+**1** (1) This Schedule has effect in relation to the issue to enforcement officers of warrants under section 249.
+
+(2) An entry into a dwelling under such a warrant is unlawful unless it complies with the provisions of this Schedule.
+
+### Applications for warrants
+
+**2** (1) Where an enforcement officer applies for a warrant, the officer must—
+
+(a) state the ground on which the application is made,
+
+(b) state the enactment under which the warrant would be issued,
+
+(c) specify the dwelling which it is desired to enter and inspect, and
+
+(d) identify, so far as is practicable, the purpose for which entry is desired.
+
+(2) An application for a warrant must be made without notice and must be supported by an information in writing or, in Scotland, evidence on oath.
+
+(3) The officer must answer on oath any question that the justice hearing the application asks the officer.
+
+### Safeguards in connection with power of entry conferred by warrant
+
+**3** A warrant authorises an entry on one occasion only.
+
+**4** (1) A warrant must specify—
+
+(a) the name of the person who applies for it,
+
+(b) the date on which it is issued,
+
+(c) the enactment under which it is issued, and
+
+(d) the dwelling to be entered.
+
+(2) A warrant must identify, so far as is practicable, the purpose for which entry is desired.
+
+**5** (1) Two copies are to be made of a warrant.
+
+(2) The copies must be clearly certified as copies.
+
+### Execution of warrants
+
+**6** (1) A warrant may be executed by any appropriate enforcement officer.
+
+(2) In sub-paragraph (1) the reference to an appropriate enforcement officer is a reference to any enforcement officer acting on behalf of the same relevant authority as the enforcement officer who applied for the warrant, and includes a reference to that officer.
+
+(3) In sub-paragraph (2) “relevant authority” means the person or body on whose behalf the officer who applied for the warrant was acting.
+
+**7** (1) A warrant may authorise persons to accompany any enforcement officer who is executing it.
+
+(2) A person authorised under this paragraph has the same powers as the officer whom the person is accompanying in respect of the execution of the warrant, but may exercise those powers only in the company of, and under the supervision of, an enforcement officer.
+
+**8** (1) Execution of a warrant must be within three months from the date of its issue.
+
+(2) Execution of a warrant must be at a reasonable time, unless it appears to the officer executing it that there are grounds for suspecting that the purpose of entering the dwelling may be frustrated if the officer seeks to enter at a reasonable time.
+
+**9** (1) Where the occupier of a dwelling that is to be entered under a warrant is present at the time when an enforcement officer seeks to execute the warrant, the following requirements must be satisfied—
+
+(a) the occupier must be told the officer's name;
+
+(b) the officer must produce to the occupier documentary evidence of the fact that the officer is an enforcement officer;
+
+(c) the officer must produce the warrant to the occupier;
+
+(d) the officer must supply the occupier with a certified copy of it.
+
+(2) Where—
+
+(a) the occupier of a dwelling that is to be entered under a warrant is not present when an enforcement officer seeks to execute it, but
+
+(b) some other person who appears to the officer to be in charge of the dwelling is present,
+
+sub-paragraph (1) has effect as if any reference to the occupier were a reference to that other person.
+
+(3) If there is no person present who appears to the enforcement officer to be in charge of the dwelling, the officer must leave a certified copy of the warrant in a prominent place in the dwelling.
+
+### Return of warrants
+
+**10** (1) A warrant which—
+
+(a) has been executed, or
+
+(b) has not been executed within the time authorised for its execution,
+
+must be returned to the appropriate person.
+
+(2) In sub-paragraph (1) the appropriate person is—
+
+(a) in the case of a warrant issued by a justice of the peace in England and Wales, the designated officer for the local justice area in which the justice was acting when the warrant was issued;
+
+(b) in the case of a warrant issued by a lay magistrate in Northern Ireland, the clerk of petty sessions [^F251]...;
+
+(c) in the case of a warrant issued by a sheriff, the sheriff clerk;
+
+(d) in the case of a warrant issued by a justice of the peace or stipendiary magistrate in Scotland, the clerk of the justice of the peace court.
+
+(3) A warrant that is returned under this paragraph must be retained by the person to whom it is returned for a period of 12 months.
+
+(4) If during that period the occupier of the dwelling to which the warrant relates asks to inspect it, the occupier must be allowed to do so.
+
+## Schedule 18 — Forfeiture of property under section 275 or 276
+
+*Section 277*
+
+### Application of Schedule
+
+**1** (1) This Schedule applies where—
+
+(a) property seized by an enforcement officer in the exercise of any power conferred by this Act is in the possession of the relevant authority,
+
+(b) the relevant authority is satisfied that there are reasonable grounds for believing that the property is forfeitable property, and
+
+(c) either—
+
+(i) no proceedings are being taken against any person in respect of the property, or
+
+(ii) any such proceedings have concluded without any order for forfeiture having been made in respect of the property.
+
+(2) The following property is “forfeitable property”—
+
+(a) any item the use of which for sea fishing would in any circumstances constitute an offence under the law of England and Wales;
+
+(b) any fish in respect of which, by virtue of the fish failing to meet requirements as to size, an offence under the law of England and Wales has been committed.
+
+### Notice of intended forfeiture
+
+**2** (1) The relevant authority must give notice of the intended forfeiture of the property (“notice of intended forfeiture”) to each of the following persons—
+
+(a) every person who appears to the authority to have been the owner of the property, or one of its owners, at the time of the seizure of the property;
+
+(b) in the case of property seized from a vessel, the master, owner and charterer (if any) of the vessel at that time;
+
+(c) in the case of property seized from premises, every person who appears to the authority to have been an occupier of the premises at that time;
+
+(d) in any other case, the person (if any) from whom the property was seized.
+
+(2) The notice of intended forfeiture must set out—
+
+(a) a description of the property,
+
+(b) the grounds of the intended forfeiture, and
+
+(c) how a person may give a notice of claim under this Schedule and the period within which such a notice must be given.
+
+(3) In a case where—
+
+(a) the property was seized following an inspection carried out in exercise of the power conferred by section 264, and
+
+(b) the relevant authority, after taking reasonable steps to do so, is unable to identify any person as owning the property,
+
+the reference in sub-paragraph (1) to a requirement to give notice of intended forfeiture to such a person is to be read as a reference to a requirement to take such steps as the authority thinks fit to bring the contents of the notice to the attention of persons likely to be interested in it.
+
+(4) Property may be treated or condemned as forfeited under this Schedule only if—
+
+(a) the requirements of this paragraph have been complied with in the case of the property, or
+
+(b) it was not reasonably practicable for them to be complied with.
+
+### Notice of claim
+
+**3** A person claiming that the property is not liable to forfeiture must give written notice of the claim to the relevant authority.
+
+**4** (1) A notice of claim must be given—
+
+(a) within one month of the day of the giving of the notice of intended forfeiture, or
+
+(b) if no such notice has been given, within one month of the date of the seizure of the property.
+
+(2) A notice of claim must specify—
+
+(a) the name and address of the claimant, and
+
+(b) in the case of a claimant who is outside the United Kingdom, the name and address of a solicitor in the United Kingdom who is authorised to accept service of process and to act on behalf of the claimant.
+
+(3) Service of process upon a solicitor so specified is to be taken to be proper service upon the claimant.
+
+(4) In a case in which notice of intended forfeiture was given to different persons on different days, the reference in this paragraph to the day on which that notice was given is a reference—
+
+(a) in relation to a person to whom notice of intended forfeiture was given, to the day on which that notice was given to that person, and
+
+(b) in relation to any other person, to the day on which notice of intended forfeiture was given to the last person to be given such a notice.
+
+### Automatic forfeiture in a case where no claim is made
+
+**5** The property is to be taken to have been duly condemned as forfeited if—
+
+(a) by the end of the period for the giving of a notice of claim in respect of the property, no notice of claim has been given to the relevant authority, or
+
+(b) a notice of claim has been given which does not comply with the requirements of paragraphs 3 and 4.
+
+### Decision whether to take court proceedings to condemn property as forfeited
+
+**6** (1) Where a notice of claim in respect of the property is duly given in accordance with paragraphs 3 and 4, the relevant authority must decide whether to take proceedings to ask the court to condemn the property as forfeited.
+
+(2) The decision whether to take such proceedings must be taken as soon as reasonably practicable after the receipt of the notice of claim.
+
+### Return of property if no forfeiture proceedings
+
+**7** (1) If, in a case in which a notice of claim has been given, the relevant authority decides not to take proceedings for condemnation of the property, it must return the property to the person appearing to it to be the owner of the property, or, if there is more than one such person, to one of those persons.
+
+(2) Any property required to be returned in accordance with sub-paragraph (1) must be returned as soon as reasonably practicable after the decision not to take proceedings for condemnation.
+
+### Forfeiture proceedings
+
+**8** (1) This paragraph applies if, in a case in which a notice of claim has been given, the relevant authority decides to take proceedings for the condemnation of the property by the court.
+
+(2) If the court is satisfied that the property is forfeitable property, it must condemn the property as forfeited.
+
+(3) If the court is not satisfied that the property is forfeitable property, the court must order the return of the property to the person appearing to the court to be entitled to it or, if there is more than one such person, to one of those persons.
+
+### Supplementary provision about forfeiture proceedings
+
+**9** Proceedings by virtue of this Schedule are civil proceedings and may be instituted—
+
+(a) in the High Court, or
+
+(b) in any magistrates' court in England or Wales.
+
+**10** (1) In proceedings by virtue of this Schedule, the claimant or the claimant's solicitor must make an oath that, at the time of the seizure, the property was, or was to the best of that person's knowledge and belief, the property of the claimant.
+
+(2) In proceedings by virtue of this Schedule instituted in the High Court—
+
+(a) the court may require the claimant to give such security for the costs of the proceedings as may be determined by the court, and
+
+(b) the claimant must comply with such a requirement.
+
+(3) If a requirement of this paragraph is not complied with, the court must give judgment for the relevant authority.
+
+**11** (1) In the case of proceedings by virtue of this Schedule instituted in a magistrates' court in England or Wales, either party may appeal against the decision of that court to the Crown Court.
+
+(2) This paragraph does not affect any right to require the statement of a case for the opinion of the High Court.
+
+**12** Where an appeal has been made (whether by case stated or otherwise) against the decision of the court in proceedings by virtue of this Schedule in relation to property, the property is to be left with the relevant authority pending the final determination of the matter.
+
+### Effect of forfeiture
+
+**13** Where property is treated or condemned as forfeited under this Schedule, the forfeiture is to be treated as having taken effect as from the time of the seizure.
+
+### Disposal of property which is not returned
+
+**14** (1) This paragraph applies where any property is required to be returned to a person under this Schedule.
+
+(2) If the property is still in the relevant authority's possession after the end of the period of three months beginning with the day after the requirement to return it arose, the relevant authority may dispose of it in any manner it thinks fit.
+
+(3) The relevant authority may exercise its power under this paragraph to dispose of property only if it is not practicable at the time when the power is exercised to dispose of the property by returning it immediately to the person to whom it is required to be returned.
+
+### Provisions as to proof
+
+**15** In proceedings under this Schedule, the fact, form and manner of the seizure of the property are to be taken, without further evidence and unless the contrary is shown, to have been as set forth in the process.
+
+**16** In any proceedings, the condemnation by a court of property as forfeited under this Schedule may be proved by the production of—
+
+(a) the order or certificate of condemnation, or
+
+(b) a certified copy of the order purporting to be signed by an officer of the court by which the order or certificate was made or granted.
+
+### Special provisions as to certain claimants
+
+**17** (1) This paragraph applies where, at the time of the seizure of the property, it was—
+
+(a) the property of a body corporate,
+
+(b) the property of two or more partners, or
+
+(c) the property of more than five persons.
+
+(2) The oath required by paragraph 10, and any other thing required by this Schedule or by rules of court to be done by the owner of the property, may be sworn or done by—
+
+(a) a person falling within sub-paragraph (3), or
+
+(b) a person authorised to act on behalf of such a person.
+
+(3) The persons are—
+
+(a) where the owner is a body corporate, the secretary or some duly authorised officer of that body;
+
+(b) where the owners are in partnership, any one or more of the owners;
+
+(c) where there are more than five owners and they are not in partnership, any two or more of the owners acting on behalf of themselves and any of their co-owners who are not acting on their own behalf.
+
+### Power to destroy fish before condemnation, etc
+
+**18** (1) The relevant authority may destroy any fish liable to be treated or condemned as forfeited under this Schedule, even if such fish have not yet been so treated or condemned.
+
+(2) If in proceedings under this Schedule the court is not satisfied that any fish destroyed under this paragraph were forfeitable property, the relevant authority must, if requested to do so, pay to the claimant a sum of money equal to the market value of the fish at the time of seizure.
+
+(3) A claimant who accepts any sum of money paid under sub-paragraph (2) is not entitled to maintain any action on account of the seizure, detention or destruction of the fish.
+
+(4) For the purposes of sub-paragraph (2), the market value of any fish at the time of seizure is to be taken to be such amount as the relevant authority and the claimant may agree or, in default of agreement, as may be determined by a referee appointed by the court.
+
+(5) The procedure on any reference to a referee under sub-paragraph (4) is to be such as may be determined by the referee.
+
+(6) The referee's decision is final and conclusive.
+
+### Saving for owner's rights
+
+**19** Neither the imposition of a requirement by virtue of this Schedule to return property to a person nor the return of property to a person in accordance with such a requirement affects—
+
+(a) the rights in relation to that property of any other person, or
+
+(b) the right of any other person to enforce any rights against the person to whom it is returned.
+
+### Interpretation
+
+**20** In this Schedule—
+
+- “the court” is to be read in accordance with paragraph 9;
+- “forfeitable property” is to be read in accordance with paragraph 1(2).
+
+## Schedule 19 — Schedule 1A to the National Parks and Access to the Countryside Act 1949
+
+*Section 302*
+
+The following is the Schedule to be inserted as Schedule 1A to the National Parks and Access to the Countryside Act 1949 (c. 97)—
+
+> **Schedule 1A — Coastal access reports**
+>
+> **Introductory**
+>
+> **1** In this Schedule—
+>
+> (a) “coastal access report” means a report submitted under section 51 pursuant to the coastal access duty;
+>
+> (b) references to a fair balance are references to a fair balance between—
+>
+> (i) the interests of the public in having rights of access over land, and
+>
+> (ii) the interests of any person with a relevant interest in the land,
+>
+> (to which section 297(3) of the Marine and Coastal Access Act 2009 (general duties in connection with the coastal access duty) refers).
+>
+> **Advertising etc of coastal access reports**
+>
+> **2** (1) Natural England must—
+>
+> (a) advertise a coastal access report, and
+>
+> (b) take such steps as are reasonable to give notice of the report to persons within sub-paragraph (2).
+>
+> (2) Those persons are—
+>
+> (a) persons with a relevant interest in affected land;
+>
+> (b) each access authority for an area in which affected land is situated;
+>
+> (c) each local access forum for an area in which affected land is situated;
+>
+> (d) the Historic Buildings and Monuments Commission for England;
+>
+> (e) the Environment Agency;
+>
+> (f) such other persons as may be specified in regulations made by the Secretary of State.
+>
+> (3) The Secretary of State may by regulations make provision about—
+>
+> (a) the form and manner in which reports are to be advertised under sub-paragraph (1)(a);
+>
+> (b) the form and manner in which notices are to be given under sub-paragraph (1)(b);
+>
+> (c) the timing of any advertisement or the giving of any notice.
+>
+> **Objections by persons with relevant interest in affected land**
+>
+> **3** (1) Any person who has a relevant interest in affected land may make an objection to Natural England about a coastal access report.
+>
+> (2) For the purposes of this Schedule an objection is not an admissible objection unless it—
+>
+> (a) satisfies the conditions in sub-paragraphs (3) and (4), and
+>
+> (b) is made in accordance with any requirements imposed by regulations under sub-paragraph (7)(b).
+>
+> (3) The first condition is that the objection is made on the ground that the proposals in the report, in such respects as are specified in the objection, fail to strike a fair balance as a result of one or more of the following—
+>
+> (a) the position of any part of the proposed route;
+>
+> (b) the inclusion of proposals under subsection (2) of section 55B or the nature of any proposal under that subsection;
+>
+> (c) the inclusion of, or failure to include, an alternative route under section 55C(2) or the position of any such alternative route or any part of such a route;
+>
+> (d) the inclusion of, or failure to include, proposals under one or more of paragraphs (a) to (c) of section 55D(2) or the nature of any proposal made under such a paragraph;
+>
+> (e) the inclusion of, or failure to include, a proposal under section 55D(5) or the terms of any such proposal;
+>
+> (f) the exercise of a discretion conferred by section 301(2) or (3) of the Marine and Coastal Access Act 2009, or failure to exercise a discretion conferred by section 301(3) of that Act, in relation to a river.
+>
+> (4) The second condition is that the objection specifies the reasons why the person making the objection is of the opinion that a fair balance is not struck as a result of the matter or matters within sub-paragraph (3)(a) to (f).
+>
+> (5) An objection under this paragraph may propose modifications of the proposals in the report if the person making the objection considers—
+>
+> (a) that those modifications would remedy, or mitigate the effects of, the failure to strike a fair balance to which the objection relates, and
+>
+> (b) that the proposals as so modified would satisfy the requirements of sub-paragraph (6).
+>
+> (6) Modified proposals satisfy the requirements of this sub-paragraph if what they propose—
+>
+> (a) is practicable,
+>
+> (b) takes account of the matters mentioned in section 297(2), and (where appropriate) section 301(4), of the Marine and Coastal Access Act 2009 (matters to which Natural England and the Secretary of State must have regard when discharging the coastal access duty), and
+>
+> (c) is in accordance with the scheme approved under section 298 of that Act (the scheme in accordance with which Natural England must act when discharging the coastal access duty) or, where that scheme has been revised, the revised scheme.
+>
+> (7) The Secretary of State may by regulations make provision about—
+>
+> (a) the steps to be taken by Natural England to make persons with an interest in affected land aware of their entitlement to make objections under this paragraph;
+>
+> (b) the form and manner in which, and period within which, objections are to be made.
+>
+> **Referral of objections to the appointed person**
+>
+> **4** (1) Natural England must send to the Secretary of State a copy of any objection received under paragraph 3 about a coastal access report.
+>
+> (2) The Secretary of State must refer any objection received under sub-paragraph (1) to a person appointed by the Secretary of State for the purposes of this Schedule (“the appointed person”).
+>
+> (3) An appointment under sub-paragraph (2)—
+>
+> (a) must be in writing;
+>
+> (b) may relate to any particular objection specified in the appointment or to objections of a description so specified;
+>
+> (c) may provide for a payment or payments to be made to the appointed person.
+>
+> (4) An appointment under sub-paragraph (2) may, by notice in writing given to the appointed person, be revoked at any time by the Secretary of State in respect of any objection if the appointed person has not, before that time, given the Secretary of State a report containing a recommendation under paragraph 11 in relation to the objection.
+>
+> (5) Where the appointment of the appointed person is revoked in respect of any objection, the Secretary of State must appoint another person under sub-paragraph (2) to deal with the objection afresh under this Schedule.
+>
+> (6) Nothing in sub-paragraph (5) requires any person to be given an opportunity to make fresh representations or comments or to modify or withdraw any representations or comments already made.
+>
+> **Determination of admissibility of objections**
+>
+> **5** Where an objection is referred under paragraph 4(2), the appointed person must—
+>
+> (a) determine whether the objection is an admissible objection, and
+>
+> (b) give notice of that determination, together with the reasons for it, to—
+>
+> (i) the person who made the objection,
+>
+> (ii) the Secretary of State, and
+>
+> (iii) Natural England.
+>
+> **Admissible objections**
+>
+> **6** (1) Where Natural England is notified under paragraph 5(b) that an objection is an admissible objection, it must send to the Secretary of State its comments on the objection.
+>
+> (2) A notice under paragraph 5(b) that an objection is an admissible objection may require Natural England to include in its comments under sub-paragraph (1)—
+>
+> (a) either—
+>
+> (i) an outline of any relevant alternative modifications of the proposals in the coastal access report, or
+>
+> (ii) if Natural England considers there are no such modifications, a statement to that effect;
+>
+> (b) if an outline is included under paragraph (a)(i), an assessment of the effects of the relevant alternative modifications on the interests of the public in having rights of access over land and the interests of any person with a relevant interest in affected land;
+>
+> (c) either—
+>
+> (i) an outline of any relevant rejected proposals which were considered by Natural England in connection with the preparation of the coastal access report and of its reasons for rejecting them, or
+>
+> (ii) if there are no such proposals, a statement to that effect;
+>
+> (d) information of such other description as the appointed person may specify in the notice under paragraph 5(b), being information which the appointed person considers to be material for the purpose of making a determination under paragraph 10(2).
+>
+> (3) In this paragraph, a reference to relevant alternative modifications of the proposals is to modifications of the proposals which Natural England considers—
+>
+> (a) might reasonably be regarded as relevant for the purpose of determining—
+>
+> (i) whether, in the respects identified in the objection, the proposals in the report strike a fair balance, or
+>
+> (ii) whether any modification of those proposals would produce proposals that strike a fair balance or mitigate the effects of any failure to strike a fair balance,
+>
+> (b) are materially different from any modifications included in the objection under paragraph 3(5), and
+>
+> (c) would, if made, result in proposals which satisfy the requirements of paragraph 3(6)(a) and (c).
+>
+> (4) In this paragraph, a reference to relevant rejected proposals is to proposals which, if to be given effect to, would require modifications to be made of the proposals in the coastal access report which—
+>
+> (a) are materially different from—
+>
+> (i) any modifications included in the objection under paragraph 3(5), and
+>
+> (ii) any relevant alternative modifications outlined in Natural England's comments on the objection, and
+>
+> (b) would be relevant alternative modifications but for a failure to satisfy the requirement of paragraph 3(6)(a).
+>
+> **Representations about reports**
+>
+> **7** (1) Representations about a coastal access report may be made by any person to Natural England.
+>
+> (2) The Secretary of State may by regulations make provision about—
+>
+> (a) the steps to be taken by Natural England to make persons aware of their entitlement to make representations under this paragraph;
+>
+> (b) the form and manner in which, and period within which, representations are to be made.
+>
+> **8** (1) Natural England must send to the Secretary of State—
+>
+> (a) a copy of any representations made by a person within paragraph 2(2)(b) to (f) about a coastal access report,
+>
+> (b) a summary of any other representations made about the report, and
+>
+> (c) Natural England's comments on representations within paragraph (a) or (b).
+>
+> (2) In this paragraph references to representations are to representations made under paragraph 7 in accordance with any requirements imposed by regulations under paragraph 7(2)(b).
+>
+> **Reference of objection to the appointed person**
+>
+> **9** (1) This paragraph applies where the Secretary of State is notified under paragraph 5(b) that an objection made about a coastal access report is an admissible objection.
+>
+> (2) The Secretary of State must send to the appointed person the relevant documents in relation to the objection.
+>
+> (3) The relevant documents are—
+>
+> (a) a copy of the coastal access report to which the objection relates,
+>
+> (b) a copy of Natural England's comments on the objection received under paragraph 6,
+>
+> (c) a copy of any representations received under paragraph 8(1)(a) about the coastal access report, so far as those representations appear to the Secretary of State to be relevant to the objection,
+>
+> (d) if there are such representations, a copy of Natural England's comments on them received under paragraph 8(1)(c),
+>
+> (e) if a summary of representations about the coastal access report has been received under paragraph 8(1)(b), a copy of any part of the summary which appears to the Secretary of State to be relevant to the objection, and
+>
+> (f) if there is such a part, a copy of Natural England's comments on the representations to which the part relates received under paragraph 8(1)(c).
+>
+> **Consideration of objections by appointed person**
+>
+> **10** (1) This paragraph applies where the appointed person—
+>
+> (a) has determined that an objection about a coastal access report is an admissible objection, and
+>
+> (b) has received, under paragraph 9, the relevant documents in relation to the objection.
+>
+> (2) The appointed person must determine whether the proposals set out in the report fail, in the respects specified in the objection, to strike a fair balance as a result of the matter or matters within paragraph 3(3)(a) to (f) specified in the objection.
+>
+> (3) If the appointed person is minded to determine that the proposals fail to strike a fair balance, the appointed person must comply with sub-paragraphs (4) and (5) before making such a determination.
+>
+> (4) The appointed person must publish a notice containing—
+>
+> (a) details of the objection and Natural England's comments on it under paragraph 6,
+>
+> (b) a statement that the appointed person is minded to determine that the proposals fail to strike a fair balance, and
+>
+> (c) an invitation to submit to the appointed person representations about—
+>
+> (i) the objection (including any modifications of the proposals proposed by the objection),
+>
+> (ii) any relevant alternative modifications contained in Natural England's comments on the objection under paragraph 6, and
+>
+> (iii) any observations which the appointed person has made in the notice regarding any such relevant alternative modifications or any modifications proposed by the objection.
+>
+> (5) The appointed person must give a copy of that notice to—
+>
+> (a) Natural England;
+>
+> (b) any person with a relevant interest in—
+>
+> (i) affected land to which the objection relates, or
+>
+> (ii) land which is not affected land but would be such land if any of the modifications referred to in sub-paragraph (4)(c)(i) or (ii) were made to the proposals;
+>
+> (c) any person within paragraph 2(2)(b) to (f).
+>
+> (6) The Secretary of State may by regulations make provision about—
+>
+> (a) the form and manner in which notices are to be published or given under this paragraph,
+>
+> (b) the timing of the publication or giving of notices under this paragraph, and
+>
+> (c) the form and manner in which, and period within which, representations are to be made in response to an invitation in a notice under this paragraph.
+>
+> (7) The appointed person may require the Secretary of State, at the Secretary of State's expense—
+>
+> (a) to discharge the appointed person's duty to publish or give a notice under this paragraph;
+>
+> (b) to receive on behalf of the appointed person any representations made in response to an invitation in a notice under this paragraph and forward such representations to the appointed person.
+>
+> **Recommendations of the appointed person**
+>
+> **11** (1) Where a determination is made in respect of an objection under paragraph 10(2), the appointed person must give the Secretary of State a report which—
+>
+> (a) sets out that determination, and
+>
+> (b) makes one or more recommendations in accordance with this paragraph.
+>
+> (2) Sub-paragraph (3) applies if the appointed person concludes under paragraph 10(2) that the proposals do not fail, in the respects specified in the objection, to strike a fair balance as a result of any of the matters within paragraph 3(3)(a) to (f) specified in the objection.
+>
+> (3) The appointed person must recommend that the Secretary of State makes a determination to that effect.
+>
+> (4) Sub-paragraphs (5) and (7) apply if the appointed person concludes that the proposals fail, in the respects (or certain of the respects) specified in the objection, to strike a fair balance as a result of one or more of the matters within paragraph 3(3)(a) to (f) specified in the objection.
+>
+> (5) The appointed person must determine whether there are any modifications of the proposals which would meet the coastal access requirements.
+>
+> (6) For the purposes of this paragraph, modifications meet the coastal access requirements if they—
+>
+> (a) remedy the failure to strike a fair balance identified by the objection, and
+>
+> (b) produce proposals which satisfy the requirements of paragraph 3(6).
+>
+> (7) The appointed person must—
+>
+> (a) recommend that the Secretary of State determines that the proposals fail, in one or more of the respects specified in the objection, to strike a fair balance but that there is no modification which would satisfy the coastal access requirements,
+>
+> (b) recommend that, if minded to approve the proposals, the Secretary of State approves the proposals with modifications of a kind described in the recommendation, being modifications which the appointed person considers would meet the coastal access requirements, or
+>
+> (c) recommend that, if minded to approve the proposals, the Secretary of State considers whether modifications of a kind described in the recommendation would meet the coastal access requirements.
+>
+> (8) Where a report contains a recommendation under sub-paragraph (7)(a), the appointed person may include in the report—
+>
+> (a) a recommendation that, if minded to approve the proposals, the Secretary of State should approve the proposals with modifications of a kind described in the recommendation, being modifications which the appointed person considers would mitigate the effects of the failure to strike a fair balance, or
+>
+> (b) a recommendation that, if minded to approve the proposals, the Secretary of State should consider whether modifications of a kind described in the recommendation would mitigate the effects of the failure to strike a fair balance.
+>
+> (9) Sub-paragraph (10) applies where, in a case to which sub-paragraph (4) applies, the appointed person also determines that the proposals do not fail, in the respects (or certain of the respects) specified in the objection, to strike a fair balance by reason of one or more of the matters within paragraph 3(3)(a) to (f) specified in the objection.
+>
+> (10) The appointed person must recommend that the Secretary of State makes a determination to that effect (in addition to any recommendation under sub-paragraph (7) or (8)).
+>
+> (11) A report under this paragraph must also set out the appointed person's reasons for any recommendation contained in the report.
+>
+> **Information and documents**
+>
+> **12** (1) The appointed person may give Natural England a notice requiring it to provide the appointed person with information or documents—
+>
+> (a) which is or are in the possession of Natural England, and
+>
+> (b) which the appointed person reasonably requires for the purpose of exercising functions under this Schedule.
+>
+> (2) Natural England must send the Secretary of State a copy of any information or document provided by it in response to a notice under sub-paragraph (1).
+>
+> (3) The appointed person may give the Secretary of State a notice requiring the Secretary of State to provide the appointed person with—
+>
+> (a) a copy of any coastal access report specified in the notice which the appointed person reasonably requires for the purpose of exercising functions under this Schedule;
+>
+> (b) any information in the possession of the Secretary of State which the appointed person reasonably so requires.
+>
+> **Holding of local inquiries and other hearings by appointed person**
+>
+> **13** (1) Where the appointed person considers it necessary or expedient to do so, the appointed person may hold a local inquiry or other hearing in connection with the consideration of an objection under this Schedule.
+>
+> (2) Subject to sub-paragraph (3), the costs of a local inquiry or other hearing held under this paragraph are to be defrayed by the Secretary of State.
+>
+> (3) Subsections (2) to (5) of section 250 of the Local Government Act 1972 (local inquiries: evidence and costs) apply to local inquiries or other hearings held under this Schedule by the appointed person as they apply to inquiries caused to be held under that section by a Minister, but as if—
+>
+> (a) in subsection (2) (evidence) the reference to the person appointed to hold the inquiry were a reference to the appointed person,
+>
+> (b) in subsection (4) (recovery of costs of holding the inquiry)—
+>
+> (i) references to the Minister causing the inquiry to be held were references to the appointed person, and
+>
+> (ii) references to a local authority were references to Natural England, and
+>
+> (c) in subsection (5) (orders as to the costs of the parties) the reference to the Minister causing the inquiry to be held were a reference to the appointed person.
+>
+> **Supplementary provision about procedure in connection with objections**
+>
+> **14** (1) Subject to the provisions of this Schedule, the Secretary of State may, by regulations, make provision about the consideration of objections by the appointed person.
+>
+> (2) Such regulations may, in particular, include—
+>
+> (a) provision enabling two or more objections, in the circumstances specified in the regulations, to be considered by the appointed person together;
+>
+> (b) provision enabling the appointed person to conduct an inspection of any land;
+>
+> (c) provision about the procedure for the conduct of local inquiries and other hearings.
+>
+> **Preliminary consultation**
+>
+> **15** (1) The Secretary of State may, by regulations, make provision about the procedure to be followed where, before determining whether or not to approve the proposals in a coastal access report (with or without modifications), the Secretary of State wishes—
+>
+> (a) to identify or investigate possible modifications of the proposals to which it might be appropriate to give further consideration, and
+>
+> (b) to consult persons for the purposes of identifying or investigating such modifications.
+>
+> (2) Regulations under this paragraph may, in particular, apply any provision of this Schedule (with or without modifications).
+>
+> **Determinations under section 52**
+>
+> **16** (1) Before making a determination under section 52 in respect of a coastal access report, the Secretary of State must consider—
+>
+> (a) any objection about the report which the appointed person has determined is an admissible objection,
+>
+> (b) Natural England's comments under paragraph 6 on any such objections,
+>
+> (c) any report under paragraph 11 in respect of any such objection,
+>
+> (d) any representations made about the coastal access report, or summary of such representations, and any comments on those representations, received under paragraph 8, and
+>
+> (e) any information or document a copy of which is sent to the Secretary of State under paragraph 12(2).
+>
+> (2) The power under section 52 to approve proposals contained in a report submitted under section 51 pursuant to the coastal access duty includes a power to approve those proposals (with or without modifications) so far as they relate to one or more parts of the route only, and reject the remaining proposals.
+>
+> (3) Where a report required to be considered under sub-paragraph (1)(c) contains a statement of a finding of fact, the Secretary of State in making the determination is bound by that finding unless the Secretary of State is satisfied—
+>
+> (a) that the finding involves an assessment of the significance of a matter to any person with a relevant interest in land or to the public,
+>
+> (b) that there was insufficient evidence to make the finding,
+>
+> (c) that the finding was made by reference to irrelevant factors or without regard to relevant factors, or
+>
+> (d) that the finding was otherwise perverse or irrational.
+>
+> (4) The Secretary of State may, by regulations, make provision about the procedure to be followed where the Secretary of State is minded to approve proposals with modifications other than modifications made in accordance with a recommendation under paragraph 11(7)(b) or (c) or (8)(a) or (b).
+>
+> (5) For the purposes of sub-paragraph (4) a modification is to be regarded as made in accordance with a recommendation under paragraph 11(7)(b) or (c) or (8)(a) or (b) if it is not materially different from a modification which could be so made.
+>
+> (6) Regulations under sub-paragraph (4) may, in particular, apply any provision of this Schedule (with or without modifications).
+>
+> (7) Any requirement imposed by virtue of sub-paragraph (4) is in addition to the duty to consult imposed by section 52(1).
+>
+> **Notice of determinations under section 52**
+>
+> **17** (1) Where the Secretary of State makes a determination under section 52 in respect of a coastal access report, the Secretary of State must, as soon as reasonably practicable, comply with this paragraph.
+>
+> (2) The Secretary of State must—
+>
+> (a) take reasonable steps to give notice of the determination to persons with a relevant interest in affected land, or
+>
+> (b) if the Secretary of State considers it appropriate, publish a notice of the determination in such manner as the Secretary of State considers likely to bring it to the attention of those persons.
+>
+> (3) The Secretary of State (in addition to complying with section 52(2)) must give notice of the determination to—
+>
+> (a) any body of a kind mentioned in section 52(2) in whose Park or area affected land is situated (but which is not required to be notified under section 52(2)),
+>
+> (b) any London borough council for an area in which affected land is situated,
+>
+> (c) any local access forum for an area in which affected land is situated,
+>
+> (d) the Historic Buildings and Monuments Commission for England, and
+>
+> (e) the Environment Agency.
+>
+> (4) Where the Secretary of State was required under paragraph 16(1)(a) to consider an objection when making the determination, a statement of the reasons for the determination (so far as relevant to the objection) must be included in—
+>
+> (a) any notice given or published under sub-paragraph (2),
+>
+> (b) any notification of the determination under section 52(2), and
+>
+> (c) any notice given under sub-paragraph (3).
+>
+> (5) Where the Secretary of State was required under paragraph 16(1)(c) to consider a report and the Secretary of State in making the determination does not follow a recommendation in the report, the statement of reasons required by sub-paragraph (4) must also include the reasons for not following the recommendation.
+>
+> **Interpretation**
+>
+> **18** In this Schedule—
+>
+> - “admissible objection” is to be construed in accordance with paragraph 3(2);
+> - “the appointed person” has the meaning given by paragraph 4(2);
+> - “coastal access report” has the meaning given by paragraph 1(a);
+> - “fair balance” is to be construed in accordance with paragraph 1(b);
+> - “relevant alternative modifications” has the meaning given by paragraph 6(3);
+> - “the relevant documents”, in relation to an objection, has the meaning given by paragraph 9(3).
+
+## Schedule 20 — Establishment and maintenance of the English coastal route etc
+
+*Section 304*
+
+### Extension of Chapter 3 of Part 1 of the CROW Act
+
+**1** (1) Chapter 3 of Part 1 of the CROW Act (means of access) applies in relation to section 15 route land as it applies in relation to access land.
+
+(2) Functions conferred by that Chapter which are exercisable in relation to any land by the access authority in relation to the land (including those exercisable by virtue of sub-paragraph (1)) are also exercisable in relation to the land by Natural England for the purposes of the coastal access duty.
+
+(3) In this paragraph—
+
+- “access land” has the same meaning as in Chapter 3 of Part 1 of the CROW Act;
+
+- “section 15 route land” means land—
+
+  - (a) over which the English coastal route (or any part of it) passes, and
+  - (b) which, for the purposes of section 1(1) of the CROW Act, is treated by section 15(1) of that Act as being accessible to the public apart from that Act.
+
+### Agreements relating to establishment and maintenance of route
+
+**2** (1) Where, in respect of any land, it appears to Natural England that it is appropriate for works within sub-paragraph (3) to be carried out for the purposes of the coastal access duty, Natural England may enter into an agreement with the owner or occupier of the land as to the carrying out of the works.
+
+(2) Where, in respect of any land, it appears to the access authority in relation to that land that it is appropriate for works within sub-paragraph (3) to be carried out for the purpose of assisting Natural England to discharge the coastal access duty, the access authority may enter into an agreement with the owner or occupier of the land as to the carrying out of the works.
+
+(3) The works within this sub-paragraph are—
+
+(a) the clearance or maintenance of land for the purpose of facilitating the use of the English coastal route by the public for journeys on foot;
+
+(b) the removal, for that purpose, of any obstruction of the route;
+
+(c) the clearance or maintenance of land which is coastal margin for the purpose of facilitating the exercise by the public of any right to enter or remain on the land on a bicycle or on horseback which is conferred by section 2(1) of the CROW Act (by virtue of the removal or relaxation of any of the general restrictions in Schedule 2 to that Act);
+
+(d) the drainage or levelling of land, or the improvement of its surface, for the purpose mentioned in paragraph (a) or, if the land is coastal margin, the purpose mentioned in paragraph (c);
+
+(e) the construction, removal, repair or improvement of any wall, rail, fence or other barrier or any posts, or the planting of any hedge.
+
+(4) An agreement under this paragraph may provide—
+
+(a) for the carrying out of works by the owner or occupier or by the contracting authority, and
+
+(b) for the making of payments by the contracting authority as a contribution towards, or for the purpose of meeting, costs incurred by the owner or occupier in carrying out any works for which the agreement provides.
+
+(5) Sub-paragraph (6) applies if the owner or occupier of any land fails to carry out within the required period any works which the owner or occupier is required by an agreement under this paragraph to carry out.
+
+(6) The contracting authority may take all necessary steps for carrying out the works, but it may do so only after giving at least 21 days' notice of its intention to do so to the owner or occupier required by the agreement to carry out the works.
+
+(7) Where the contracting authority carries out any works by virtue of sub-paragraph (6), the authority may recover the relevant expenses from the person by whom, under the agreement, the cost of carrying out the works (after deduction of the authority's contribution) would fall to be borne.
+
+(8) In this paragraph—
+
+- “contracting authority” means—
+
+  - (a) in relation to an agreement under sub-paragraph (1), Natural England, and
+  - (b) in relation to an agreement under sub-paragraph (2), the access authority by which the agreement is made;
+
+- “relevant expenses”, in relation to works carried out under sub-paragraph (6) by a contracting authority, means the amount of any expenses reasonably incurred by the authority in carrying out the works, reduced by its contribution under the agreement;
+
+- “the required period” means—
+
+  - (a) the period specified in, or determined in accordance with, the agreement as that within which the works must be carried out, or
+  - (b) if there is no such period, a reasonable period.
+
+### Establishment and maintenance of route in absence of agreement
+
+**3** (1) This paragraph applies where—
+
+(a) it appears to Natural England that, for the purposes of the coastal access duty, it is necessary for works within paragraph 2(3) to be carried out on any land, or
+
+(b) it appears to the access authority in relation to any land that, for the purpose of Natural England discharging the coastal access duty, it is necessary for such works to be carried out on that land.
+
+(2) In this paragraph—
+
+- “the relevant authority” means—
+
+  - (a) in a case within sub-paragraph (1)(a), Natural England, and
+  - (b) in a case within sub-paragraph (1)(b), the access authority in question;
+
+- “the required works” means the works within paragraph 2(3) which the relevant authority considers it necessary to carry out for the purposes mentioned in sub-paragraph (1)(a) or (b).
+
+(3) If the relevant authority is satisfied that it is unable to conclude on reasonable terms an agreement under paragraph 2 with the owner or occupier of the land for the carrying out of the required works, it may give the owner or occupier a notice stating that, after the end of the specified period, it intends to take all necessary steps for carrying out the required works.
+
+(4) The “specified period” means the period specified in the notice, being a period of not less than 21 days beginning with the day on which the notice is given.
+
+(5) A notice under sub-paragraph (3) must contain particulars of the right of appeal conferred by paragraph 4.
+
+(6) Where a notice under sub-paragraph (3) is given to any person as the owner or occupier, the relevant authority must give a copy of the notice to every other owner or occupier of the land.
+
+(7) If, at the end of the period specified in the notice under sub-paragraph (3), any of the required works have not been carried out, the relevant authority may take all necessary steps for carrying out those works.
+
+(8) The relevant authority exercising the power conferred by sub-paragraph (7) in respect of any land must have regard to the requirements of efficient management of the land in deciding how to carry out the required works.
+
+### Appeals relating to notices under paragraph 3
+
+**4** (1) Where a notice under paragraph 3(3) has been given to a person in respect of any land, that person or any other owner or occupier of the land may appeal against the notice to the Secretary of State.
+
+(2) An appeal against a notice under paragraph 3(3) may be brought on any of the following grounds—
+
+(a) that the notice requires the carrying out of any works which it is not necessary to carry out for the purposes of the coastal access duty;
+
+(b) that any of the works have already been carried out;
+
+(c) that the period specified in the notice as the period after which steps are to be taken to carry out the works is too short.
+
+(3) On an appeal under this paragraph, the Secretary of State may—
+
+(a) confirm the notice with or without modifications, or
+
+(b) cancel the notice.
+
+(4) Sections 7 and 8 of, and Schedule 3 to, the CROW Act have effect in relation to an appeal under this paragraph as they have effect in relation to an appeal under section 6 of that Act.
+
+(5) Regulations may make provision as to—
+
+(a) the period within which and manner in which appeals under this paragraph are to be brought,
+
+(b) the advertising of such appeals, and
+
+(c) the manner in which such appeals are to be considered.
+
+(6) Where an appeal has been brought under this paragraph against a notice under paragraph 3(3) given by Natural England or an access authority, it may not exercise its powers under paragraph 3(7) pending the determination or withdrawal of the appeal.
+
+### Power for Natural England to fund works
+
+**5** Natural England may meet or contribute towards expenditure incurred or to be incurred by any person in carrying out—
+
+(a) works of a kind which could be the subject of an agreement under paragraph 2, and
+
+(b) works of a kind which could be the subject of an agreement under section 35 of the CROW Act entered into by Natural England by virtue of paragraph 1.
+
+### Erection and maintenance of notices and signs
+
+**6** (1) Natural England may erect and maintain notices or signs within sub-paragraph (2) on—
+
+(a) any land over which the English coastal route passes, and
+
+(b) any other land which is within section 296(5)(a) (land which is accessible to the public by virtue of section 3A of the CROW Act).
+
+(2) The notices or signs within this sub-paragraph are those which—
+
+(a) identify, or provide information about, the English coastal route (or any part of it), or
+
+(b) warn the public of the existence of obstacles or hazards along that route,
+
+and any other notices or signs which relate to the English coastal route.
+
+(3) Before erecting a notice or sign on any land under this paragraph, Natural England must, so far as reasonably practicable, consult the owner and (if different) the person in lawful occupation of the land.
+
+(4) Natural England may meet or contribute towards expenditure incurred or to be incurred by any person in displaying notices or signs of a kind which may be erected under this paragraph.
+
+(5) Natural England may, in relation to any land, delegate to the access authority in relation to the land any function conferred on Natural England by this paragraph.
+
+(6) Nothing in this paragraph applies in relation to the English coastal route in so far as it passes along—
+
+(a) a public right of way over which there are rights of way for mechanically propelled vehicles, or
+
+(b) a footway comprised in a highway which also comprises a way within paragraph (a).
+
+(7) For the purposes of sub-paragraph (6)—
+
+- “mechanically propelled vehicle” does not include a vehicle falling within paragraph (c) of section 189(1) of the Road Traffic Act 1988 (c. 52);
+- “footway” has the same meaning as in section 329 of the Highways Act 1980 (c. 66).
+
+**7** In section 19 of the CROW Act (notices indicating boundaries of access land etc), after subsection (4) insert—
+
+> (5) In the case of access land that is coastal margin, the powers conferred on an access authority by this section are also exercisable by Natural England.
+
+### Removal of notices and signs
+
+**8** (1) Any notice or sign to which this paragraph applies may be removed by—
+
+(a) Natural England, or
+
+(b) where authorised to act on its behalf, the access authority in relation to the land on which the sign or notice is erected.
+
+(2) This paragraph applies to—
+
+(a) a notice or sign erected under paragraph 6, and
+
+(b) a notice erected under section 19 of the CROW Act (notices indicating boundaries of access land, etc) in relation to land which is coastal margin.
+
+(3) Before removing a notice or sign on any land under sub-paragraph (1), a person must, so far as reasonably practicable, consult the owner of the land and (if different) the person in lawful occupation of the land.
+
+(4) Natural England may meet or contribute towards expenditure incurred or to be incurred by any person in removing notices or signs of a kind which may be erected under paragraph 6 or (in relation to land which is coastal margin) under section 19 of the CROW Act.
+
+### Powers of entry
+
+**9** (1) A person who is authorised by Natural England may enter any land—
+
+(a) for the purpose of surveying that or any other land in connection with the preparation of a report under section 51 or 55 of the 1949 Act pursuant to the coastal access duty;
+
+(b) in connection with the consideration of any representations made to Natural England in respect of a report submitted under section 51 of that Act pursuant to that duty;
+
+(c) for the purpose of assisting Natural England to determine whether to exercise the power conferred by section 301(2) (including the power conferred by section 301(3)(b)) (decision to treat waters of river as part of the sea);
+
+(d) for the purpose of assisting Natural England to provide the Secretary of State with advice in connection with the exercise of the Secretary of State's power under section 300(2)(b) (power to specify islands).
+
+(2) A person who is authorised by Natural England or the appropriate access authority may enter any land—
+
+(a) for the purpose of determining whether any works of the kind mentioned in paragraph 2(3) are required in respect of any land;
+
+(b) for the purpose of carrying out works under—
+
+(i) an agreement entered into pursuant to paragraph 2(4)(a), or
+
+(ii) an agreement entered into pursuant to section 35(2)(a) of the CROW Act for the purposes of the coastal access duty;
+
+(c) for the purposes of—
+
+(i) carrying out works under paragraph 2(6) or 3(7),
+
+(ii) carrying out works under section 36(1) or (5) of the CROW Act in connection with an agreement entered into for the purposes of the coastal access duty, or
+
+(iii) carrying out works under section 37(5) of that Act for the purposes of that duty;
+
+(d) for the purpose of ascertaining whether members of the public are being permitted to exercise the rights conferred on them in relation to section 15 route land by or under an enactment mentioned in section 15(1) of the CROW Act;
+
+(e) in connection with an appeal under paragraph 4;
+
+(f) for the purpose of erecting, maintaining or removing notices or signs under paragraph 6 or 8 or, in relation to land which is coastal margin, under section 19 of the CROW Act.
+
+(3) Subsections (5) to (7), (9) and (10) of section 40 of the CROW Act (powers of entry for the purposes of Part 1 of that Act) apply in relation to a person acting in the exercise of a power conferred by this paragraph, and the rights conferred by this paragraph, as they apply in relation to a person acting in the exercise of a power conferred by that section and the rights conferred by that section.
+
+(4) Section 41 of that Act (compensation relating to powers under section 40) has effect as if the reference to section 40 of that Act included a reference to this paragraph.
+
+(5) A person may not under this paragraph demand admission as of right to any occupied land, other than access land or land over which the English coastal route passes, unless—
+
+(a) in a case where the power of entry is exercised for the purposes of carrying out works as mentioned in sub-paragraph (2)(b) or (c)—
+
+(i) the works are to be carried out on the land and a notice has been given to the occupier of the land under paragraph 2(6) or 3(3) or under section 36(1) or (3) or 37(1) of the CROW Act in connection with the works, or
+
+(ii) at least 7 days' notice of the intended entry has been given to the occupier;
+
+(b) in any other case, at least 24 hours' notice of the intended entry has been given to the occupier or it is not reasonably practicable to give such notice.
+
+(6) In this paragraph—
+
+- “access land” has the same meaning as in Chapter 3 of Part 1 of the CROW Act;
+
+- “appropriate access authority” means the access authority in relation to the land in respect of which the right of entry is being exercised;
+
+- “section 15 route land” means land—
+
+  - (a) over which the English coastal route (or any part of it) passes, and
+  - (b) which, for the purposes of section 1(1) of the CROW Act, is treated by section 15(1) of that Act as being accessible to the public apart from that Act.
+
+### Interpretation of Schedule
+
+**10** (1) In this Schedule—
+
+- “coastal margin” has the same meaning as in Part 1 of the CROW Act;
+- “owner” has the same meaning as in that Part.
+
+(2) For the purposes of this Schedule—
+
+(a) an official alternative route, in relation to the English coastal route, is to be regarded as part of the English coastal route,
+
+(b) a temporary route which has effect by virtue of section 55I of the 1949 Act is to be treated as part of the English coastal route, and
+
+(c) where by virtue of section 3A(6)(a) of the CROW Act any land is not yet accessible under section 2(1) of that Act, the references in this Schedule to the English coastal route include any route which would form part of the English coastal route if that land were so accessible.
+
+(3) In sub-paragraph (2)(a) “official alternative route” has the meaning given by section 55J of the 1949 Act.
+
+## Schedule 21 — Amendments of the Harbours Act 1964
+
+*Section 315*
+
+**1** The Harbours Act 1964 (c. 40) is amended as follows.
+
+### Provision that may be made by harbour empowerment order
+
+**2** (1) Section 16 (power to make harbour empowerment orders) is amended as follows.
+
+(2) In subsection (6) after “any Act (including this Act)” insert “ and for repealing any statutory provision of local application affecting the area in relation to which the powers are intended to be exercised ”.
+
+### Delegation of certain functions under the Act
+
+**3** (1) After section 42 (accounts and reports) insert—
+
+> **Delegation of certain functions**
+>
+> **Power to make orders delegating functions**
+>
+> **42A** (1) The relevant authority may by order provide for such of the delegable functions as are designated in the order to be exercisable by such person as is designated in the order.
+>
+> (2) An authority may make an order under subsection (1) only with the consent of the person designated in it (“the delegate”).
+>
+> (3) The delegate—
+>
+> (a) must comply with the order, and
+>
+> (b) is to be taken to have all the powers necessary to do so.
+>
+> (4) For so long as an order under subsection (1) remains in force, the functions designated in the order—
+>
+> (a) are exercisable by the delegate acting on behalf of the authority, and
+>
+> (b) are not exercisable by the authority.
+>
+> This subsection is subject to subsections (5) and (6).
+>
+> (5) The delegate must obtain the consent of the relevant authority before exercising any function under—
+>
+> (a) section 15;
+>
+> (b) section 15A;
+>
+> (c) section 18.
+>
+> (6) Subsection (4)(b) does not apply to any function under—
+>
+> (a) section 15;
+>
+> (b) section 15A;
+>
+> (c) section 18.
+>
+> (7) If a function is, by virtue of an order under subsection (1), exercisable by a person, any reference in this Act to the relevant authority is to be read, so far as relating to that function or the exercise of it, as a reference to that person.
+>
+> (8) An order under subsection (1) may make different provision for different cases, different areas or different persons.
+>
+> (9) The delegable functions are functions under the following sections—
+>
+> (a) section 14 (making harbour revision orders, except as mentioned in paragraph (b) below);
+>
+> (b) section 15 (making harbour revision orders for limited purposes for securing harbour efficiency);
+>
+> (c) section 15A (making orders varying powers of appointment in the constitutions of harbour authorities);
+>
+> (d) section 16 (making harbour empowerment orders);
+>
+> (e) section 18 (confirming or making harbour reorganisation schemes);
+>
+> (f) section 60 (making orders amending Acts of local application).
+>
+> (10) In this section “the relevant authority”, in relation to any delegable function, means the authority by whom (apart from any order under subsection (1)) the function is exercisable.
+>
+> **Directions as to performance of delegated functions**
+>
+> **42B** (1) This section applies where any functions are exercisable by or in relation to a person by virtue of an order made under section 42A by a relevant authority.
+>
+> (2) The authority may from time to time give directions to the person with respect to the performance of the functions.
+>
+> (3) A person to whom directions are given under this section must comply with the directions.
+>
+> (4) An authority which gives a direction under this section must publish the direction in a manner likely to bring the direction to the attention of persons likely to be affected by it.
+
+.
+
+(2) In section 54 (orders and regulations) after subsection (2) insert—
+
+> (3) Subsection (4) applies to any statutory instrument containing—
+>
+> (a) an order made under section 42A by a relevant authority in relation to a delegable function, or
+>
+> (b) an order made by any person, by virtue of an order under that section, in the exercise of a delegable function under section 14, 15, 16 or 18.
+>
+> (4) A statutory instrument to which this subsection applies—
+>
+> (a) if the relevant authority in relation to the delegable function is the Secretary of State, is subject to annulment in pursuance of a resolution of either House of Parliament;
+>
+> (b) if the relevant authority in relation to the delegable function is the Welsh Ministers, is subject to annulment in pursuance of a resolution of the National Assembly for Wales.
+
+.
+
+### Consent of Welsh Ministers or Secretary of State required for making of certain harbour orders
+
+**4** After section 42B (inserted by paragraph 3(1)) insert—
+
+> **Consent of Welsh Ministers required for certain orders and schemes**
+>
+> **42C** (1) This section applies to any harbour revision order or harbour empowerment order which makes provision excluding, modifying or repealing—
+>
+> (a) any provision of the Marine and Coastal Access Act 2009 in so far as it applies to Wales;
+>
+> (b) any instrument made under that Act by the Welsh Ministers;
+>
+> (c) any statutory provision of local application made by the Welsh Ministers.
+>
+> (2) This section also applies to any harbour reorganisation scheme which makes provision repealing or amending any statutory provision of local application made by the Welsh Ministers.
+>
+> (3) The Secretary of State must notify the Welsh Ministers of any intention to make an order or scheme to which this section applies.
+>
+> (4) The order or scheme must not include any provision falling within subsection (1) or, as the case may be, (2) if, within the prescribed period beginning with the date of the notification under subsection (3), the Welsh Ministers refuse their consent to the inclusion of that provision in the order or scheme.
+>
+> (5) In this section “prescribed period” means such period as is prescribed in an order made by the Secretary of State for the purposes of this section.
+>
+> **Consent of Secretary of State required for certain orders and schemes**
+>
+> **42D** (1) This section applies to any harbour revision order or harbour empowerment order which makes provision excluding, modifying or repealing—
+>
+> (a) any provision of the Marine and Coastal Access Act 2009 in so far as it applies to England;
+>
+> (b) any instrument made under that Act by the Secretary of State;
+>
+> (c) any statutory provision of local application made by the Secretary of State.
+>
+> (2) This section also applies to any harbour reorganisation scheme which makes provision repealing or amending any statutory provision of local application made by the Secretary of State.
+>
+> (3) The Welsh Ministers must notify the Secretary of State of any intention to make an order or scheme to which this section applies.
+>
+> (4) The order or scheme must not include any provision falling within subsection (1) or, as the case may be, (2) if, within the prescribed period beginning with the date of the notification under subsection (3), the Secretary of State refuses consent to the inclusion of that provision in the order or scheme.
+>
+> (5) In this section “prescribed period” means such period as is prescribed in an order made by the Secretary of State for the purposes of this section.
+
+.
+
+### Procedure for dealing with applications for harbour orders
+
+**5** (1) In Schedule 3 (procedure for making harbour revision and empowerment orders), paragraph 18 (which provides for the holding of an inquiry or public hearing when an objection is made) is amended as follows.
+
+(2) For sub-paragraph (1) substitute—
+
+> (1) This paragraph applies if an objection to the application was made to the appropriate authority and has not been withdrawn.
+>
+> (1A) This paragraph does not apply if—
+>
+> (a) the appropriate authority decides that the application is not to proceed further,
+>
+> (b) the appropriate authority considers that the objection is frivolous or trivial,
+>
+> (c) the objection does not specify the grounds on which it is made, or
+>
+> (d) the objection was not made within the period allowed for making it.
+>
+> (1B) Before deciding the application under paragraph 19, the appropriate authority may—
+>
+> (a) cause an inquiry to be held, or
+>
+> (b) give to the person who made the objection an opportunity of appearing before, and being heard by, a person appointed by the appropriate authority.
+>
+> (1C) If the objection—
+>
+> (a) was made by the Welsh Ministers to the Secretary of State, and
+>
+> (b) is not an objection regarding compulsory acquisition of a parcel of land,
+>
+> the Secretary of State must cause an inquiry to be held under sub-paragraph (1B)(a).
+>
+> (1D) If, in a case where sub-paragraph (1C) does not apply,—
+>
+> (a) the objection was made by a person within sub-paragraph (1E), and
+>
+> (b) that person makes a request in writing to the appropriate authority that the objection be referred to an inquiry or dealt with in accordance with sub-paragraph (1B)(b),
+>
+> the appropriate authority must either cause an inquiry to be held under sub-paragraph (1B)(a) or cause the objection to be dealt with in accordance with sub-paragraph (1B)(b), as the appropriate authority may determine.
+>
+> (1E) The persons within this sub-paragraph are—
+>
+> (a) in the case of an application to the Secretary of State, the Welsh Ministers;
+>
+> (b) any local authority for an area in which the harbour (or any part of it) is situated;
+>
+> (c) the relevant conservation body;
+>
+> (d) if the order will authorise the compulsory acquisition of land, any person who is entitled to be served with notice under paragraph 11.
+
+.
+
+(3) In sub-paragraph (2)—
+
+(a) for “sub-paragraph (1)(a)” substitute “ sub-paragraph (1B)(b) ”,
+
+(b) for “Secretary of State” substitute “ appropriate authority ”, and
+
+(c) for “he” substitute “ the authority ”.
+
+(4) In sub-paragraph (3)—
+
+(a) for “Secretary of State” substitute “ appropriate authority ”,
+
+(b) omit paragraph (a), and
+
+(c) in paragraph (b), for “he” substitute “ the appropriate authority ”.
+
+(5) After sub-paragraph (3) insert—
+
+> (4) In this paragraph—
+>
+> - “the appropriate authority” means—
+>
+>   - (a) in a case where the application was made to the Secretary of State, the Secretary of State;
+>   - (b) in a case where the application was made to the Welsh Ministers, the Welsh Ministers;
+>
+> - “local authority” means—
+>
+>   - (a) in England, a county council, a district council, a London borough council, the Common Council of the City of London, the Council of the Isles of Scilly, a parish council and a parish meeting of a parish not having a separate parish council, and
+>   - (b) in Wales, a county council, a county borough council and a community council;
+>
+> - “the relevant conservation body” means—
+>
+>   - (a) if the harbour (or any part of it) is situated in England, Natural England, and
+>   - (b) if the harbour (or any part of it) is situated in Wales, the Countryside Council for Wales.
+
+.
+
+### Procedure where harbour revision orders are made otherwise than on application
+
+**6** (1) For paragraph 28 of Schedule 3 (inquiry to be held in most cases where an objection is made) substitute—
+
+> **28** (1) This paragraph applies if an objection to the proposal was made to the proposing authority and has not been withdrawn.
+>
+> (2) This paragraph does not apply if—
+>
+> (a) the proposing authority decides that the proposal is not to proceed further,
+>
+> (b) the proposing authority considers that the objection is frivolous or trivial,
+>
+> (c) the objection does not specify the grounds on which it is made, or
+>
+> (d) the objection was not made within the period allowed for making it.
+>
+> (3) Before deciding the application under paragraph 29, the proposing authority may—
+>
+> (a) cause an inquiry to be held, or
+>
+> (b) give to the person who made the objection an opportunity of appearing before, and being heard by, a person appointed by the proposing authority.
+>
+> (4) If the objection was made by the Welsh Ministers to the Secretary of State, the Secretary of State must cause an inquiry to be held under sub-paragraph (3)(a).
+>
+> (5) Where—
+>
+> (a) the objection was made by a person within sub-paragraph (6), and
+>
+> (b) that person makes a request in writing to the proposing authority that the objection be referred to an inquiry or dealt with in accordance with sub-paragraph (3)(b),
+>
+> the proposing authority must either cause an inquiry to be held under sub-paragraph (3)(a) or cause the objection to be dealt with in accordance with sub-paragraph (3)(b), as the proposing authority may determine.
+>
+> (6) The persons within this sub-paragraph are—
+>
+> (a) any local authority for an area in which the harbour (or any part of it) is situated, and
+>
+> (b) the relevant conservation body.
+>
+> (7) Where an objector is heard in accordance with sub-paragraph (3)(b), the proposing authority must allow such other persons as the proposing authority thinks appropriate to be heard on the same occasion.
+>
+> (8) In this paragraph—
+>
+> - “local authority” has the same meaning as in paragraph 18;
+>
+> - “the proposing authority” means—
+>
+>   - (a) the Secretary of State, in a case where it is the Secretary of State who proposes to make a harbour revision order;
+>   - (b) the Welsh Ministers, in a case where it is the Welsh Ministers who propose to make a harbour revision order;
+>
+> - “the relevant conservation body” has the same meaning as in paragraph 18.
+
+.
+
+(2) In paragraph 29 of that Schedule (decision on harbour revision order proposed by Secretary of State), in sub-paragraph (1)(b), after “inquiry” insert “ and of any person appointed for the purpose of hearing an objector ”.
+
+### Application of paragraphs 5 and 6
+
+**7** The amendments made by paragraphs 5 and 6 apply to objections made on or after the date on which those amendments come into force.
+
+## Schedule 22 — Repeals
+
+*Section 321*
+
+### Part 1 — EEZ, UK marine area and Welsh zone
+
+|  |  |
+|---|---|
+| *Short title and chapter* | *Extent of repeal* |
+| Fishery Limits Act 1976 (c. 86) | Section 1(3) and (4). |
+| Government of Wales Act 2006 (c. 32) | In section 158(1), the word “and” preceding the definition of “Wales”. |
+
+### Part 2 — Marine licensing
+
+<table>
+<tbody>
+<tr><th><i>Short title and chapter</i></th><th><i>Extent of repeal</i></th></tr>
+<tr><td rowspan="3">Coast Protection Act 1949 (c. 74)</td><td>Part 2.</td></tr>
+<tr><td>Section 47(a), (b) and (d).</td></tr>
+<tr><td>Section 49(2A).</td></tr>
+<tr><td>Telecommunications Act 1984 (c. 12)</td><td>In Schedule 2, in paragraph 11—<br>- (a) sub-paragraphs (3) to (10);<br>- (b) in sub-paragraph (11), the definition of “remedial works”.</td></tr>
+<tr><td rowspan="9">Food and Environment Protection Act 1985 (c. 48)</td><td>In section 5—<br>- (a) paragraph (b);<br>- (b) in paragraph (e), sub-paragraph (ii) and the “or” preceding that sub-paragraph.</td></tr>
+<tr><td>In section 6(1)(a), sub-paragraph (ii) and the “or” preceding it.</td></tr>
+<tr><td>Section 7A(5).</td></tr>
+<tr><td>In section 8(6), the words “evidence, and in Scotland”.</td></tr>
+<tr><td>Section 9(5) to (7).</td></tr>
+<tr><td>Section 21(8).</td></tr>
+<tr><td>In section 24(1)—<br>- (a) the definitions of “adjacent to Scotland”, “Gas Importation and Storage Zone”, “United Kingdom waters” and “United Kingdom controlled waters”;<br>- (b) in the definition of “licensing authority”, paragraph (a) and, in paragraph (b)(iii), the words from “and the functions” to the end.</td></tr>
+<tr><td>Section 24(2A).</td></tr>
+<tr><td>Sections 25(3) and 26.</td></tr>
+<tr><td>Merchant Shipping Act 1988 (c. 12)</td><td>Section 36.</td></tr>
+<tr><td>Environmental Protection Act 1990 (c. 43)</td><td>Section 146(2) to (5) and (7).</td></tr>
+<tr><td>Government of Wales Act 2006 (c. 32)</td><td>In Schedule 3, paragraph 4(1)(a).</td></tr>
+<tr><td rowspan="2">Planning Act 2008 (c. 29)</td><td>Sections 148 and 149.</td></tr>
+<tr><td>In Schedule 5, paragraphs 27 to 30.</td></tr>
+</tbody>
+<tfoot>
+<tr><td colspan="2">The repeals in the Coast Protection Act 1949 (c. 74) and the Merchant Shipping Act 1988 (c. 12) extend to England and Wales only.</td></tr>
+</tfoot>
+</table>
+
+### Part 3 — Nature conservation
+
+<table>
+<tbody>
+<tr><th><i>Short title and chapter</i></th><th><i>Extent of repeal</i></th></tr>
+<tr><td rowspan="3">Wildlife and Countryside Act 1981 (c. 69)</td><td>Sections 36 and 37.</td></tr>
+<tr><td>In section 67(2), “36”.</td></tr>
+<tr><td>Schedule 12.</td></tr>
+<tr><td rowspan="2">Territorial Sea Act 1987 (c. 49)</td><td>Section 3(2)(b).</td></tr>
+<tr><td>In Schedule 1, paragraph 6.</td></tr>
+<tr><td>Water Act 1989 (c. 15)</td><td>In Schedule 25, paragraph 66(2).</td></tr>
+<tr><td>Local Government (Wales) Act 1994 (c. 19)</td><td>In Schedule 16, paragraph 65(4) and (10).</td></tr>
+</tbody>
+</table>
+
+### Part 4 — Management of inshore fisheries
+
+<table>
+<tbody>
+<tr><th><i>Short title and chapter</i></th><th><i>Extent of repeal</i></th></tr>
+<tr><td rowspan="4">Coast Protection Act 1949 (c. 74)</td><td>In section 2—<br>- (a) in subsection (2)(b), “local fisheries committee,”;<br>- (b) in subsection (8)(a), “or local fisheries committee,”.</td></tr>
+<tr><td>In section 45(1)(b), “local fisheries committee,”.</td></tr>
+<tr><td>In section 49(1), the definition of “local fisheries committee”.</td></tr>
+<tr><td>In Part 1 of the First Schedule, in paragraph 1(b), “local fisheries committee,”.</td></tr>
+<tr><td>Nuclear Installations Act 1965 (c. 57)</td><td>In section 3(3)(b), the words “or any local fisheries committee”.</td></tr>
+<tr><td>Sea Fisheries Regulation Act 1966 (c. 38)</td><td>The whole Act.</td></tr>
+<tr><td>Sea Fisheries (Shellfish) Act 1967 (c. 83)</td><td>In Schedule 2, the entry for the Sea Fisheries Regulation Act 1966.</td></tr>
+<tr><td rowspan="5">Sea Fish (Conservation) Act 1967 (c. 84)</td><td>In section 3(7), the words from “or in any byelaw” to “the Sea Fisheries Regulation Act 1966,”.</td></tr>
+<tr><td>Section 13.</td></tr>
+<tr><td>In section 16—<br>- (a) paragraph (d) of subsection (1) (but not the “and” following that paragraph);<br>- (b) subsection (2).</td></tr>
+<tr><td>Section 17.</td></tr>
+<tr><td>In section 22(1), the definition of “local fisheries committee”.</td></tr>
+<tr><td>Prevention of Oil Pollution Act 1971 (c. 60)</td><td>Section 19(6).</td></tr>
+<tr><td>Local Government Act 1972 (c. 70)</td><td>Section 101(9)(d).</td></tr>
+<tr><td>Local Government Act 1974 (c. 7)</td><td>In section 31A(3), paragraph (b) (but not the “or” following that paragraph).</td></tr>
+<tr><td>Fishery Limits Act 1976 (c. 86)</td><td>In Schedule 1, paragraph 1.</td></tr>
+<tr><td>Fisheries Act 1981 (c. 29)</td><td>In Schedule 4, paragraph 10.</td></tr>
+<tr><td>Wildlife and Countryside Act 1981 (c. 69)</td><td>In section 27(1), in paragraph (c) of the definition of “authorised person”, the words “or a local fisheries committee constituted under the Sea Fisheries Regulation Act 1966”.</td></tr>
+<tr><td>Local Government Act 1985 (c. 51)</td><td>In Schedule 8, paragraph 19.</td></tr>
+<tr><td>Salmon Act 1986 (c. 62)</td><td>Section 37.</td></tr>
+<tr><td>Water Act 1989 (c. 15)</td><td>In Schedule 17—<br>- (a) paragraph 1(4)(a);<br>- (b) paragraph 5.</td></tr>
+<tr><td rowspan="3">Local Government and Housing Act 1989 (c. 42)</td><td>In section 5—<br>- (a) subsection (4);<br><br>- (b) in subsection (5)—<br><br> - (a) the words “and of any such committee as is mentioned in subsection (4) above”;<br> - (b) in paragraph (a), the words “or committee”;<br><br>- (c) in subsection (8), the word “and” at the end of the definition of “chief finance officer”.</td></tr>
+<tr><td>Section 13(4)(b).</td></tr>
+<tr><td>In Schedule 1, paragraph 2(1)(d).</td></tr>
+<tr><td>Water Consolidation (Consequential Provisions) Act 1991 (c. 60)</td><td>In Schedule 1, paragraph 16.</td></tr>
+<tr><td>Sea Fisheries (Wildlife Conservation) Act 1992 (c. 36)</td><td>In section 1—<br>- (a) in subsection (1), the words “or any relevant body”;<br>- (b) in subsection (2), the definition of “relevant body”.</td></tr>
+<tr><td rowspan="2">Radioactive Substances Act 1993 (c. 12)</td><td>In section 47(1), in the definition of “relevant water body”, the words “or a local fisheries committee”.</td></tr>
+<tr><td>In Schedule 3, paragraph 3.</td></tr>
+<tr><td>Local Government (Wales) Act 1994 (c. 19)</td><td>In Schedule 16, paragraph 26.</td></tr>
+<tr><td rowspan="2">Environment Act 1995 (c. 25)</td><td>Section 102.</td></tr>
+<tr><td>In Schedule 15—<br>- (a) paragraph 2(4)(a);<br>- (b) paragraph 5;<br>- (c) paragraph 24.</td></tr>
+<tr><td>Freedom of Information Act 2000 (c. 36)</td><td>In Schedule 1, paragraph 35A.</td></tr>
+<tr><td>Natural Environment and Rural Communities Act 2006 (c. 16)</td><td>In Schedule 11, paragraph 38.</td></tr>
+<tr><td rowspan="2">Regulatory Enforcement and Sanctions Act 2008 (c. 13)</td><td>In Schedules 3, 6 and 7, the entry relating to the Sea Fisheries Regulation Act 1966 (c. 38).</td></tr>
+<tr><td>In Schedule 5, the entry relating to local fisheries committees.</td></tr>
+</tbody>
+<tfoot>
+<tr><td colspan="2">The repeal of any enactment by Part 4 of this Schedule has the same extent as the enactment repealed.</td></tr>
+</tfoot>
+</table>
+
+### Part 5 — Fisheries
+
+<table>
+<tbody>
+<tr><th><i>Short title and chapter</i></th><th><i>Extent of repeal</i></th></tr>
+<tr><td rowspan="3">Sea Fisheries (Shellfish) Act 1967 (c. 83)</td><td>Section 1(4).</td></tr>
+<tr><td>In section 4(7), “, is subsequently convicted of another such offence”.</td></tr>
+<tr><td>In Schedule 1, paragraphs 4(1) and 5.</td></tr>
+<tr><td rowspan="2">Sea Fish (Conservation) Act 1967 (c. 84)</td><td>In section 11(1)—<br>- (a) paragraph (b);<br>- (b) in paragraph (c), “1, 2,” and “, 6(5) or (5A)(b)”.</td></tr>
+<tr><td>In section 15(2C), paragraph (b) and the word “or” preceding it.</td></tr>
+<tr><td>Sea Fisheries Act 1968 (c. 77)</td><td>Section 15(2).</td></tr>
+<tr><td rowspan="3">Fisheries Act 1981 (c. 29)</td><td>Section 19(2)(c).</td></tr>
+<tr><td>In section 22—<br>- (a) subsection (2)(a);<br>- (b) subsection (3).</td></tr>
+<tr><td>Section 28.</td></tr>
+<tr><td>Sea Fish (Conservation) Act 1992 (c. 60)</td><td>In section 5, paragraph (b).</td></tr>
+<tr><td>Criminal Justice and Public Order Act 1994 (c. 33)</td><td>In Part 1 of Schedule 8, the entries relating to sections 3(3) and 7(4) of the Sea Fisheries (Shellfish) Act 1967.</td></tr>
+<tr><td rowspan="2">Merchant Shipping Act 1995 (c. 21)</td><td>In Schedule 13, paragraph 38(a) and (b).</td></tr>
+<tr><td></td></tr>
+<tr><td>Sea Fisheries (Shellfish) (Amendment) Act 1997 (c. 3)</td><td>Section 1.</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr><th><i>Short title and chapter</i></th><th><i>Extent of repeal</i></th></tr>
+<tr><td>Theft Act 1968 (c. 60)</td><td>In Schedule 1, paragraph 2(2).</td></tr>
+<tr><td rowspan="15">Salmon and Freshwater Fisheries Act 1975 (c. 51)</td><td>In section 1—<br>- (a) in subsection (1), the words “Subject to subsection (4) below,”;<br>- (b) subsection (4).</td></tr>
+<tr><td>Section 3.</td></tr>
+<tr><td>In section 4—<br>- (a) in subsection (1), the words “Subject to subsection (2) below”;<br>- (b) subsection (2).</td></tr>
+<tr><td>Sections 6 to 8.</td></tr>
+<tr><td>Sections 16 and 17.</td></tr>
+<tr><td>Sections 19 to 22.</td></tr>
+<tr><td>Sections 23 and 24.</td></tr>
+<tr><td>In section 25—<br>- (a) in subsection (4), the words from “gaff” to “tailer or”;<br>- (b) subsections (5) and (6).</td></tr>
+<tr><td>In section 31(1)—<br>- (a) in paragraph (b), the words “in contravention of this Act”;<br>- (b) in paragraph (c)(i), the words “which has been caught in contravention of this Act”.</td></tr>
+<tr><td>Section 32(1)(ii) and the preceding “or”.</td></tr>
+<tr><td>In section 34—<br>- (a) in the heading, the words “at night”;<br>- (b) the words from “between the end” to “following morning”.</td></tr>
+<tr><td>Section 35(2).</td></tr>
+<tr><td>Schedule 1.</td></tr>
+<tr><td>In Schedule 2—<br>- (a) in paragraph 11, the words from “together” to the end;<br>- (b) paragraph 12.</td></tr>
+<tr><td>In Schedule 4, in the table in paragraph 1(2), the entries relating to section 19(2), section 19(4), section 19(6), section 19(7) and section 21.</td></tr>
+<tr><td>Fisheries Act 1981 (c. 29)</td><td>In Schedule 4—<br>- (a) paragraph 2;<br>- (b) paragraph 4;<br>- (c) in paragraph 6(c), the words “(not being a fixed engine)”;<br>- (d) in paragraph 6(d), the words “(not being fixed engines)”;<br>- (e) paragraph 28.</td></tr>
+<tr><td>Salmon Act 1986 (c. 62)</td><td>In section 32—<br>- (a) in subsection (1), the words “by or for the benefit of another person”;<br>- (b) subsection (6)(a).</td></tr>
+<tr><td></td><td>Section 33(1) and (2).</td></tr>
+<tr><td>Territorial Sea Act 1987 (c. 49)</td><td>In Schedule 1, paragraph 3.</td></tr>
+<tr><td>Water Act 1989 (c. 15)</td><td>In Schedule 17, paragraph 7(3), (4), (9)(b) and (12).</td></tr>
+<tr><td rowspan="2">Water Resources Act 1991 (c. 57)</td><td>In section 212—<br>- (a) in subsection (2)(a), the words “(not being a fixed engine)”;<br>- (b) in subsection (2)(b), the words “(not being fixed engines)”;<br>- (c) subsection (3).</td></tr>
+<tr><td>In Schedule 25—<br>- (a) in paragraph 6(2), the words “Subject to paragraph 7(1) below”;<br>- (b) in paragraph 6(2)(c), the words “(not being a fixed engine)”;<br>- (c) in paragraph 6(2)(d), the words “(not being fixed engines)”;<br>- (d) in paragraph 6(2)(g), the word “licensed”;<br>- (e) paragraph 6(3) and (4);<br>- (f) paragraph 7.</td></tr>
+<tr><td>Environment Act 1995 (c. 25)</td><td>In Schedule 15, paragraphs 8, 9, 15 and 22.</td></tr>
+<tr><td rowspan="2">Criminal Justice Act 2003 (c. 44)</td><td>In Schedule 25, paragraph 70.</td></tr>
+<tr><td>In Part 9 of Schedule 37, the entry relating to the Theft Act 1968 (c. 60).</td></tr>
+<tr><td>Serious Crime Act 2007 (c. 27)</td><td>In Schedule 1, in paragraph 13(1), the words “for salmon, trout or freshwater fish”.</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr><th><i>Short title and chapter</i></th><th><i>Extent of repeal</i></th></tr>
+<tr><td>White Herring Fisheries Act 1771 (c. 31)</td><td>The whole Act.</td></tr>
+<tr><td>Seal Fishery Act 1875 (c. 18)</td><td>The whole Act.</td></tr>
+<tr><td>Fisheries Act 1891 (c. 37)</td><td>Section 13.</td></tr>
+<tr><td>North Sea Fisheries Act 1893 (c. 17)</td><td>The whole Act.</td></tr>
+<tr><td>Behring Sea Award Act 1894 (c. 2)</td><td>The whole Act.</td></tr>
+<tr><td>Seal Fisheries (North Pacific) Act 1895 (c. 21)</td><td>The whole Act.</td></tr>
+<tr><td>Seal Fisheries (North Pacific) Act 1912 (c. 10)</td><td>The whole Act.</td></tr>
+<tr><td rowspan="3">Port of London Act 1968 (c. xxxii)</td><td>Sections 86, 87 and 163.</td></tr>
+<tr><td>In section 167, paragraph (b).</td></tr>
+<tr><td>In section 168(2), the words from “, except for byelaws” to the end.</td></tr>
+<tr><td>Customs and Excise Management Act 1979 (c. 2)</td><td>In paragraph 12 of Schedule 4, the entry relating to the Seal Fisheries (North Pacific) Act 1912.</td></tr>
+<tr><td>Statute Law (Repeals) Act 1993 (c. 50)</td><td>In Schedule 2, paragraph 8.</td></tr>
+<tr><td>Merchant Shipping Act 1995 (c. 21)</td><td>In Schedule 13, paragraphs 11 and 12.</td></tr>
+<tr><td>Courts Act 2003 (c. 39)</td><td>In Schedule 8, paragraph 65.</td></tr>
+<tr><td>Criminal Justice Act 2003 (c. 44)</td><td>In Schedule 25, paragraphs 12 and 13.</td></tr>
+</tbody>
+</table>
+
+### Part 6 — Enforcement
+
+|  |  |
+|---|---|
+| *Short title and chapter* | *Extent of repeal* |
+| Sea Fisheries Act 1968 (c. 77) | In section 7—<br>- (a) in subsection (1)(d), the words “of the Secretary of State or”;<br>- (b) subsection (5)(a). |
+
+### Part 7 — Coastal access
+
+<table>
+<tbody>
+<tr><th><i>Short title and chapter</i></th><th><i>Extent of repeal</i></th></tr>
+<tr><td rowspan="3">Countryside and Rights of Way Act 2000 (c. 37)</td><td>In section 1(1), the word “or” at the end of paragraph (d).</td></tr>
+<tr><td>In section 16(6), the word “and” at the end of paragraph (c).</td></tr>
+<tr><td>In section 20(1), the word “and” at the end of paragraph (a).</td></tr>
+</tbody>
+</table>
+
+### Part 8 — Miscellaneous
+
+|  |  |
+|---|---|
+| *Short title and chapter* | *Extent of repeal* |
+| Harbours Act 1964 (c. 40) | In Schedule 3, paragraph 18(3)(a). |
+| Civil Contingencies Act 2004 (c. 36) | In Schedule 1, paragraph 11A. |
+| Natural Environment and Rural Communities Act 2006 (c. 16) | In Schedule 11, paragraph 174. |
+
+---
+
+[^F1]: S. 4(1)-(6) omitted (31.12.2020) by virtue of Fisheries Act 2020 (c. 22), s. 54(3)(b), Sch. 4 para. 11(2)(a) (with Sch. 4 para. 31)
+[^F2]: Words in s. 4(7) substituted (31.12.2020) by Fisheries Act 2020 (c. 22), s. 54(3)(b), Sch. 4 para. 11(2)(b) (with Sch. 4 para. 31)
+[^F3]: Words in s. 7 omitted (31.12.2020) by virtue of Fisheries Act 2020 (c. 22), s. 54(3)(b), Sch. 4 para. 11(3) (with Sch. 4 para. 31)
+[^F4]: Words in s. 12(2) substituted (24.7.2026) by Planning and Infrastructure Act 2025 (c. 34), ss. 4(6)(a), 118(1)(c) (with s. 116); S.I. 2026/641, reg. 3(a)
+[^F5]: Word in s. 12(3)(a) omitted (1.4.2019) by virtue of Wales Act 2017 (c. 4), s. 71(4), Sch. 6 para. 77(a) (with Sch. 7 paras. 1, 6); S.I. 2017/1179, reg. 5(b)
+[^F6]: S. 12(3)(c)(d) inserted (1.4.2019) by Wales Act 2017 (c. 4), s. 71(4), Sch. 6 para. 77(b) (with Sch. 7 paras. 1, 6); S.I. 2017/1179, reg. 5(b)
+[^F7]: S. 12(4) omitted (24.7.2026) by virtue of Planning and Infrastructure Act 2025 (c. 34), ss. 4(6)(b), 118(1)(c) (with s. 116); S.I. 2026/641, reg. 3(a)
+[^F8]: S. 12(5)(c) omitted (E.W.) (1.4.2010) by virtue of The Conservation of Habitats and Species Regulations 2010 (S.I. 2010/490), reg. 1(2), Sch. 6 para. 5(2) (with reg. 125)
+[^F9]: Word in s. 13(3)(a) omitted (1.4.2019) by virtue of Wales Act 2017 (c. 4), s. 71(4), Sch. 6 para. 78(a) (with Sch. 7 paras. 1, 6); S.I. 2017/1179, reg. 5(b)
+[^F10]: S. 13(3)(c)(d) inserted (1.4.2019) by Wales Act 2017 (c. 4), s. 71(4), Sch. 6 para. 78(b) (with Sch. 7 paras. 1, 6); S.I. 2017/1179, reg. 5(b)
+[^F11]: S. 16(1)(f) inserted (1.4.2013) by The Natural Resources Body for Wales (Functions) Order 2013 (No. 755), art. 1(2), Sch. 2 para. 442 (with Sch. 7)
+[^F12]: S. 23(2) omitted (24.7.2026) by virtue of Planning and Infrastructure Act 2025 (c. 34), ss. 6(11)(a), 118(1)(c) (with s. 116); S.I. 2026/641, reg. 3(c) (with reg. 6)
+[^F13]: S. 23(4) omitted (24.7.2026) by virtue of Planning and Infrastructure Act 2025 (c. 34), ss. 6(11)(a), 118(1)(c) (with s. 116); S.I. 2026/641, reg. 3(c) (with reg. 6)
+[^F14]: S. 24(2A)(2B) inserted (23.11.2020) by Fisheries Act 2020 (c. 22), s. 54(1)(f), Sch. 10 para. 2(2) (with Sch. 4 para. 31)
+[^F15]: Words in s. 24(3) inserted (23.11.2020) by Fisheries Act 2020 (c. 22), s. 54(1)(f), Sch. 10 para. 2(3) (with Sch. 4 para. 31)
+[^F16]: S. 24(4)-(6) inserted (23.11.2020) by Fisheries Act 2020 (c. 22), s. 54(1)(f), Sch. 10 para. 2(4) (with Sch. 4 para. 31)
+[^F17]: S. 25(3A) inserted (23.11.2020) by Fisheries Act 2020 (c. 22), s. 54(1)(f), Sch. 10 para. 3(2) (with Sch. 4 para. 31)
+[^F18]: S. 25(5)-(7) inserted (23.11.2020) by Fisheries Act 2020 (c. 22), s. 54(1)(f), Sch. 10 para. 3(3) (with Sch. 4 para. 31)
+[^F19]: S. 26(1A) inserted (23.11.2020) by Fisheries Act 2020 (c. 22), s. 54(1)(f), Sch. 10 para. 4(2) (with Sch. 4 para. 31)
+[^F20]: Words in s. 26(2) inserted (23.11.2020) by Fisheries Act 2020 (c. 22), s. 54(1)(f), Sch. 10 para. 4(3) (with Sch. 4 para. 31)
+[^F21]: S. 26(3)(4) inserted (23.11.2020) by Fisheries Act 2020 (c. 22), s. 54(1)(f), Sch. 10 para. 4(4) (with Sch. 4 para. 31)
+[^F22]: Words in s. 27(3)(b) inserted (23.11.2020) by Fisheries Act 2020 (c. 22), s. 54(1)(f), Sch. 10 para. 5(a) (with Sch. 4 para. 31)
+[^F23]: Words in s. 27(3)(c) substituted (23.11.2020) by Fisheries Act 2020 (c. 22), s. 54(1)(f), Sch. 10 para. 5(b) (with Sch. 4 para. 31)
+[^F24]: Words in s. 30(2)(b) substituted (31.12.2020) by The Fisheries (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/746), regs. 1, 4(2)(a); 2020 c. 1, Sch. 5 para. 1(1)
+[^F25]: Word in s. 30(2)(b) substituted (1.1.2024) by The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424), reg. 1(2), Sch. para. 70(2)(a)
+[^F26]: Words in s. 30(4) substituted (31.12.2020) by The Fisheries (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/746), regs. 1, 4(2)(b) (as amended by The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1542), regs. 1(2), 12(2)(a)); 2020 c. 1, Sch. 5 para. 1(1)
+[^F27]: Word in s. 30(4) substituted (1.1.2024) by The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424), reg. 1(2), Sch. para. 70(2)(a)
+[^F28]: S. 37(2)(a) omitted (31.12.2020) by virtue of The Fisheries (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/746), regs. 1, 4(3)(a)(i); 2020 c. 1, Sch. 5 para. 1(1)
+[^F29]: Words in s. 37(2)(b) omitted (31.12.2020) by virtue of The Fisheries (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/746), regs. 1, 4(3)(a)(ii); 2020 c. 1, Sch. 5 para. 1(1)
+[^F30]: S. 37(9) omitted (31.12.2020) by virtue of The Fisheries (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/746), regs. 1, 4(3)(b); 2020 c. 1, Sch. 5 para. 1(1)
+[^F31]: S. 58(5A) inserted (W.) (15.12.2025) by Infrastructure (Wales) Act 2024 (asc 3), s. 147(2), Sch. 3 para. 10(2) (with s. 83(5)); S.I. 2025/698, art. 3(l)
+[^F32]: Words in s. 60(4) substituted (1.4.2018) by Wales Act 2017 (c. 4), s. 71(4), Sch. 6 para. 79 (with Sch. 7 paras. 1, 6); S.I. 2017/1179, reg. 3(r)
+[^F33]: S. 60(8)(a) omitted (31.12.2020) by virtue of The Marine Environment (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1399), regs. 1, 2(2)(a); 2020 c. 1, Sch. 5 para. 1(1)
+[^F34]: S. 60(8)(b) substituted (31.12.2020) by The Marine Environment (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1399), regs. 1, 2(2)(b); 2020 c. 1, Sch. 5 para. 1(1)
+[^F35]: Words in s. 60(8)(d) omitted (31.12.2020) by virtue of The Marine Environment (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1399), regs. 1, 2(2)(c)(i); 2020 c. 1, Sch. 5 para. 1(1)
+[^F36]: Words in s. 60(8)(d) substituted (31.12.2020) by The Marine Environment (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1399), regs. 1, 2(2)(c)(ii); 2020 c. 1, Sch. 5 para. 1(1)
+[^F37]: Word in s. 60(8)(d) substituted (1.1.2024) by The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424), reg. 1(2), Sch. para. 70(2)(b)
+[^F38]: Words in s. 66(1) inserted (9.8.2026) by The Marine Licensing (Miscellaneous Provisions) (Amendment etc.) Order 2026 (S.I. 2026/676), arts. 1(1), 4(2)(a)
+[^F39]: Words in s. 66(1) inserted (9.8.2026) by The Marine Licensing (Miscellaneous Provisions) (Amendment etc.) Order 2026 (S.I. 2026/676), arts. 1(1), 4(2)(b)
+[^F40]: Words in s. 66(1) inserted (9.8.2026) by The Marine Licensing (Miscellaneous Provisions) (Amendment etc.) Order 2026 (S.I. 2026/676), arts. 1(1), 4(2)(c)
+[^F41]: Words in s. 66(1) inserted (9.8.2026) by The Marine Licensing (Miscellaneous Provisions) (Amendment etc.) Order 2026 (S.I. 2026/676), arts. 1(1), 4(2)(d)
+[^F42]: Words in s. 66(2)(a) substituted (9.8.2026) by The Marine Licensing (Miscellaneous Provisions) (Amendment etc.) Order 2026 (S.I. 2026/676), arts. 1(1), 4(3)
+[^F43]: Words in s. 66(2)(b) substituted (9.8.2026) by The Marine Licensing (Miscellaneous Provisions) (Amendment etc.) Order 2026 (S.I. 2026/676), arts. 1(1), 4(4)(a)
+[^F44]: Words in s. 66(2)(b) substituted (9.8.2026) by The Marine Licensing (Miscellaneous Provisions) (Amendment etc.) Order 2026 (S.I. 2026/676), arts. 1(1), 4(4)(b)
+[^F45]: S. 66(2)(c) inserted (9.8.2026) by The Marine Licensing (Miscellaneous Provisions) (Amendment etc.) Order 2026 (S.I. 2026/676), arts. 1(1), 4(5)
+[^F46]: S. 66(3A)-(3C) inserted (12.2.2026) by Biodiversity Beyond National Jurisdiction Act 2026 (c. 6), ss. 20(2), 32(1) (with s. 30)
+[^F47]: Words in s. 66(3C) substituted (9.8.2026) by The Marine Licensing (Miscellaneous Provisions) (Amendment etc.) Order 2026 (S.I. 2026/676), arts. 1(1), 4(6)
+[^F48]: S. 67A inserted (E.W.) (1.4.2017) by Environment (Wales) Act 2016 (anaw 3), ss. 76, 88(3)(c); S.I. 2017/504, art. 2
+[^F49]: Words in s. 69(2) inserted (9.8.2026) by The Marine Licensing (Miscellaneous Provisions) (Amendment etc.) Order 2026 (S.I. 2026/676), arts. 1(1), 5
+[^F50]: S. 69(5A) inserted (E.W.) (26.5.2011) by The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210), reg. 1(2), Sch. 1 para. 101 (with Sch. 3 para. 12)
+[^F51]: Words in s. 71(5) inserted (9.8.2026) by The Marine Licensing (Miscellaneous Provisions) (Amendment etc.) Order 2026 (S.I. 2026/676), arts. 1(1), 6
+[^F52]: S. 72A inserted (E.W.) (24.2.2017 for specified purposes) by Environment (Wales) Act 2016 (anaw 3), ss. 77(1), 88(3)(c) (with s. 77(2)); S.I. 2017/152, art. 2(a)
+[^F53]: S. 73(4) inserted (26.2.2015) by The Regulatory Reform (Scotland) Act 2014 (Consequential Modifications) Order 2015 (S.I. 2015/374), arts. 1(1), 9(2)
+[^F54]: Ss. 73A, 73B inserted (26.2.2015) by The Regulatory Reform (Scotland) Act 2014 (Consequential Modifications) Order 2015 (S.I. 2015/374), arts. 1(1), 9(3)
+[^F55]: S. 74(4A) inserted (12.2.2026) by Biodiversity Beyond National Jurisdiction Act 2026 (c. 6), ss. 20(3), 32(1) (with s. 30)
+[^F56]: Words in s. 75(1) renumbered as s. 75(1)(a) (6.4.2011) by Marine and Coastal Access Act 2009 (Amendment) Regulations 2011 (S.I. 2011/405), regs. 1, 2(2)(a)
+[^F57]: S. 75(1)(b) and word inserted (6.4.2011) by Marine and Coastal Access Act 2009 (Amendment) Regulations 2011 (S.I. 2011/405), regs. 1, 2(2)(b)
+[^F58]: S. 75(2A) inserted (6.4.2011) by Marine and Coastal Access Act 2009 (Amendment) Regulations 2011 (S.I. 2011/405), regs. 1, 2(3)
+[^F59]: S. 75(5) inserted (6.4.2011) by Marine and Coastal Access Act 2009 (Amendment) Regulations 2011 (S.I. 2011/405), regs. 1, 2(4)
+[^F60]: Words in s. 75(5) substituted (3.8.2016) by The Waste (Meaning of Recovery) (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/738), regs. 1(1), 3
+[^F61]: Words in s. 75(5) inserted (17.9.2018) by The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942), regs. 1(2), 6
+[^F62]: Words in s. 75(5) substituted (1.10.2020) by The Waste (Circular Economy) (Amendment) Regulations 2020 (S.I. 2020/904), regs. 1(1), 6
+[^F63]: Words in s. 76(2)(a) substituted (31.12.2020) by The Marine Environment (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1399), regs. 1, 2(3); 2020 c. 1, Sch. 5 para. 1(1)
+[^F64]: Word in s. 76(2)(a) substituted (1.1.2024) by The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424), reg. 1(2), Sch. para. 70(2)(c)
+[^F65]: Words in s. 78(5) inserted (1.4.2018) by Wales Act 2017 (c. 4), s. 71(4), Sch. 6 para. 80(2) (with Sch. 7 paras. 1, 6); S.I. 2017/1179, reg. 3(r)
+[^F66]: Words in s. 78(6) inserted (1.4.2018) by Wales Act 2017 (c. 4), s. 71(4), Sch. 6 para. 80(3) (with Sch. 7 paras. 1, 6); S.I. 2017/1179, reg. 3(r)
+[^F67]: S. 78(6A)(6B) inserted (1.4.2018) by Wales Act 2017 (c. 4), s. 71(4), Sch. 6 para. 80(4) (with Sch. 7 paras. 1, 6); S.I. 2017/1179, reg. 3(r)
+[^F68]: Words in s. 79(5) inserted (1.4.2019) by Wales Act 2017 (c. 4), s. 71(4), Sch. 6 para. 81(2) (with Sch. 7 paras. 1, 6); S.I. 2017/1179, reg. 5(b)
+[^F69]: Words in s. 79(6) inserted (1.4.2019) by Wales Act 2017 (c. 4), s. 71(4), Sch. 6 para. 81(3) (with Sch. 7 paras. 1, 6); S.I. 2017/1179, reg. 5(b)
+[^F70]: S. 79(6A)(6B) inserted (1.4.2019) by Wales Act 2017 (c. 4), s. 71(4), Sch. 6 para. 81(4) (with Sch. 7 paras. 1, 6); S.I. 2017/1179, reg. 5(b)
+[^F71]: Words in s. 79(9) inserted (1.4.2019) by Wales Act 2017 (c. 4), s. 71(4), Sch. 6 para. 81(5) (with Sch. 7 paras. 1, 6); S.I. 2017/1179, reg. 5(b)
+[^F72]: S. 79A inserted (N.I.) (18.9.2013) by Marine Act (Northern Ireland) 2013 (c. 10), ss. 42, 49 (with ss. 1(1), 46(3), 47)
+[^F73]: Words in s. 81 heading omitted (12.2.2026) by Biodiversity Beyond National Jurisdiction Act 2026 (c. 6), ss. 20(4)(a), 32(1) (with s. 30)
+[^F74]: Words in s. 81(1) inserted (12.2.2026) by Biodiversity Beyond National Jurisdiction Act 2026 (c. 6), ss. 20(4)(b), 32(1) (with s. 30)
+[^F75]: S. 81(5A) inserted (12.2.2026) by Biodiversity Beyond National Jurisdiction Act 2026 (c. 6), ss. 20(4)(c), 32(1) (with s. 30)
+[^F76]: Words in s. 85(4)(a) substituted (E.W.) (12.3.2015) by The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664), reg. 1(1), Sch. 4 para. 43(2) (with reg. 5(1))
+[^F77]: Words in s. 92(4)(a) substituted (E.W.) (12.3.2015) by The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664), reg. 1(1), Sch. 4 para. 43(3) (with reg. 5(1))
+[^F78]: Words in s. 93(4) inserted (E.W.) (12.3.2015) by The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664), reg. 1(1), Sch. 5 para. 15 (with reg. 5(1))
+[^F79]: S. 98(6)(ca) inserted (E.W.) (1.4.2017) by Environment (Wales) Act 2016 (anaw 3), ss. 80(a), 88(3)(c); S.I. 2017/504, art. 2
+[^F80]: S. 98(6)(ha)(hb) inserted (E.W.) (1.4.2017) by Environment (Wales) Act 2016 (anaw 3), ss. 80(b), 88(3)(c); S.I. 2017/504, art. 2
+[^F81]: Words in s. 103(4)(a) substituted (E.W.) (12.3.2015) by The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664), reg. 1(1), Sch. 4 para. 43(4) (with reg. 5(1))
+[^F82]: Words in s. 105(4)(a) substituted (E.W.) (12.3.2015) by The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664), reg. 1(1), Sch. 4 para. 43(5) (with reg. 5(1))
+[^F83]: Ss. 107A, 107B inserted (E.W.) (24.2.2017 for specified purposes) by Environment (Wales) Act 2016 (anaw 3), ss. 78, 88(3)(c); S.I. 2017/152, art. 2(b)
+[^F84]: S. 108(2A) inserted (E.W.) (24.2.2017 for specified purposes, 1.4.2017) by Environment (Wales) Act 2016 (anaw 3), ss. 79, 88(3)(c); S.I. 2017/152, art. 2(c); S.I. 2017/504, art. 2
+[^F85]: S. 110A and cross-heading inserted (12.7.2016) by Energy Act 2016 (c. 20), ss. 76(2), 84(2)
+[^F86]: Words in s. 113(4) substituted (1.4.2018) by Wales Act 2017 (c. 4), ss. 46(2)(a), 71(4) (with Sch. 7 paras. 1, 6, 9); S.I. 2017/1179, reg. 3(j)
+[^F87]: S. 113(5)(c) inserted (1.4.2018) by Wales Act 2017 (c. 4), ss. 46(2)(b), 71(4) (with Sch. 7 paras. 1, 6, 9); S.I. 2017/1179, reg. 3(j)
+[^F88]: Words in Pt. 5 Ch. 1 heading inserted (23.1.2021) by Fisheries Act 2020 (c. 22), s. 54(4)(d), Sch. 10 para. 7 (with Sch. 4 para. 31)
+[^F89]: Words in s. 116(5)(a) inserted (1.4.2018) by Wales Act 2017 (c. 4), ss. 47(2)(a), 71(4) (with Sch. 7 paras. 1, 6); S.I. 2017/1179, reg. 3(j)
+[^F90]: S. 116(5A) inserted (1.4.2018) by Wales Act 2017 (c. 4), ss. 47(2)(b), 71(4) (with Sch. 7 paras. 1, 6); S.I. 2017/1179, reg. 3(j)
+[^F91]: Words in s. 117(4) substituted (23.1.2021) by Fisheries Act 2020 (c. 22), s. 54(4)(d), Sch. 10 para. 8(2) (with Sch. 4 para. 31)
+[^F92]: Words in s. 117(5) substituted (23.1.2021) by Fisheries Act 2020 (c. 22), s. 54(4)(d), Sch. 10 para. 8(3) (with Sch. 4 para. 31)
+[^F93]: Words in s. 117(6) inserted (23.1.2021) by Fisheries Act 2020 (c. 22), s. 54(4)(d), Sch. 10 para. 8(4) (with Sch. 4 para. 31)
+[^F94]: Words in s. 119(6) inserted (1.4.2018) by Wales Act 2017 (c. 4), ss. 47(3)(a), 71(4) (with Sch. 7 paras. 1, 6); S.I. 2017/1179, reg. 3(j)
+[^F95]: S. 119(9)(a) omitted (1.4.2018) by virtue of Wales Act 2017 (c. 4), ss. 47(3)(b), 71(4) (with Sch. 7 paras. 1, 6); S.I. 2017/1179, reg. 3(j)
+[^F96]: Words in s. 123(5) substituted (31.12.2020) by The Marine Environment (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1399), regs. 1, 2(4); 2020 c. 1, Sch. 5 para. 1(1)
+[^F97]: Word in s. 123(5) substituted (1.1.2024) by The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424), reg. 1(2), Sch. para. 70(2)(d)
+[^F98]: Words in s. 123(9) renumbered (1.4.2010) by The Conservation of Habitats and Species Regulations 2010 (S.I. 2010/490) , reg. 1(2) , Sch. 6 para. 5(3)(a) (with reg. 125 )
+[^F99]: Words in s. 123(9) substituted (30.11.2017) by The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012), reg. 1(2), Sch. 6 para. 8(2)
+[^F100]: Words in s. 123(9) substituted (30.11.2017) by The Conservation of Offshore Marine Habitats and Species Regulations 2017 (S.I. 2017/1013), reg. 1, Sch. 4 para. 2(2) (with regs. 3, 4(2))
+[^F101]: Words in s. 125(11)(a) inserted (1.4.2018) by Wales Act 2017 (c. 4), ss. 47(4), 71(4) (with Sch. 7 paras. 1, 6); S.I. 2017/1179, reg. 3(j)
+[^F102]: S. 125(12A) inserted (18.2.2026) by Planning and Infrastructure Act 2025 (c. 34), s. 118(3), Sch. 5 para. 45(2) (with s. 116); S.I. 2025/1370, reg. 4(1)(l)(3)
+[^F103]: Words in s. 129 cross-heading substituted (23.1.2021) by Fisheries Act 2020 (c. 22), s. 54(4)(d), Sch. 10 para. 9 (with Sch. 4 para. 31)
+[^F104]: S. 129(7)(a)(b) substituted for words in s. 129(7) (23.1.2021) by Fisheries Act 2020 (c. 22), s. 54(4)(d), Sch. 10 para. 10 (with Sch. 4 para. 31)
+[^F105]: Ss. 129A-129C inserted (23.1.2021) by Fisheries Act 2020 (c. 22), s. 54(4)(d), Sch. 10 para. 11 (with Sch. 4 para. 31)
+[^F106]: Words in s. 130(1) inserted (23.1.2021) by Fisheries Act 2020 (c. 22), s. 54(4)(d), Sch. 10 para. 12(2) (with Sch. 4 para. 31)
+[^F107]: Words in s. 130(2) inserted (23.1.2021) by Fisheries Act 2020 (c. 22), s. 54(4)(d), Sch. 10 para. 12(3) (with Sch. 4 para. 31)
+[^F108]: S. 130(2A) inserted (23.1.2021) by Fisheries Act 2020 (c. 22), s. 54(4)(d), Sch. 10 para. 12(4) (with Sch. 4 para. 31)
+[^F109]: Words in s. 130(8) inserted (23.1.2021) by Fisheries Act 2020 (c. 22), s. 54(4)(d), Sch. 10 para. 12(5) (with Sch. 4 para. 31)
+[^F110]: Words in s. 130(9) inserted (23.1.2021) by Fisheries Act 2020 (c. 22), s. 54(4)(d), Sch. 10 para. 12(5) (with Sch. 4 para. 31)
+[^F111]: Words in s. 130(11) substituted (23.1.2021) by Fisheries Act 2020 (c. 22), s. 54(4)(d), Sch. 10 para. 12(6) (with Sch. 4 para. 31)
+[^F112]: Words in s. 131(1) inserted (23.1.2021) by Fisheries Act 2020 (c. 22), s. 54(4)(d), Sch. 10 para. 13(2) (with Sch. 4 para. 31)
+[^F113]: S. 131(1A) inserted (23.1.2021) by Fisheries Act 2020 (c. 22), s. 54(4)(d), Sch. 10 para. 13(3) (with Sch. 4 para. 31)
+[^F114]: Words in s. 131(8)(a) inserted (23.1.2021) by Fisheries Act 2020 (c. 22), s. 54(4)(d), Sch. 10 para. 13(4) (with Sch. 4 para. 31)
+[^F115]: S. 132(1A) inserted (23.1.2021) by Fisheries Act 2020 (c. 22), s. 54(4)(d), Sch. 10 para. 14(2) (with Sch. 4 para. 31)
+[^F116]: Words in s. 132(2) inserted (23.1.2021) by Fisheries Act 2020 (c. 22), s. 54(4)(d), Sch. 10 para. 14(3) (with Sch. 4 para. 31)
+[^F117]: Words in s. 132(4) substituted (23.1.2021) by Fisheries Act 2020 (c. 22), s. 54(4)(d), Sch. 10 para. 14(4) (with Sch. 4 para. 31)
+[^F118]: S. 132(4A) inserted (23.1.2021) by Fisheries Act 2020 (c. 22), s. 54(4)(d), Sch. 10 para. 14(5) (with Sch. 4 para. 31)
+[^F119]: Words in s. 133(1) substituted (23.1.2021) by Fisheries Act 2020 (c. 22), s. 54(4)(d), Sch. 10 para. 15(2) (with Sch. 4 para. 31)
+[^F120]: Words in s. 133(3) inserted (23.1.2021) by Fisheries Act 2020 (c. 22), s. 54(4)(d), Sch. 10 para. 15(3) (with Sch. 4 para. 31)
+[^F121]: S. 133(3A) inserted (23.1.2021) by Fisheries Act 2020 (c. 22), s. 54(4)(d), Sch. 10 para. 15(4) (with Sch. 4 para. 31)
+[^F122]: Words in s. 133(6) inserted (23.1.2021) by Fisheries Act 2020 (c. 22), s. 54(4)(d), Sch. 10 para. 15(5) (with Sch. 4 para. 31)
+[^F123]: S. 133(6A) inserted (23.1.2021) by Fisheries Act 2020 (c. 22), s. 54(4)(d), Sch. 10 para. 15(6) (with Sch. 4 para. 31)
+[^F124]: Words in s. 134 cross-heading substituted (23.1.2021) by Fisheries Act 2020 (c. 22), s. 54(4)(d), Sch. 10 para. 16 (with Sch. 4 para. 31)
+[^F125]: Ss. 134A-134C inserted (23.1.2021) by Fisheries Act 2020 (c. 22), s. 54(4)(d), Sch. 10 para. 17 (with Sch. 4 para. 31)
+[^F126]: Words in s. 135 heading inserted (23.1.2021) by Fisheries Act 2020 (c. 22), s. 54(4)(d), Sch. 10 para. 18(2) (with Sch. 4 para. 31)
+[^F127]: Words in s. 135(1) inserted (23.1.2021) by Fisheries Act 2020 (c. 22), s. 54(4)(d), Sch. 10 para. 18(3) (with Sch. 4 para. 31)
+[^F128]: S. 135(1A) inserted (23.1.2021) by Fisheries Act 2020 (c. 22), s. 54(4)(d), Sch. 10 para. 18(4) (with Sch. 4 para. 31)
+[^F129]: Words in s. 135(2) inserted (23.1.2021) by Fisheries Act 2020 (c. 22), s. 54(4)(d), Sch. 10 para. 18(5) (with Sch. 4 para. 31)
+[^F130]: Words in s. 135(4) substituted (23.1.2021) by Fisheries Act 2020 (c. 22), s. 54(4)(d), Sch. 10 para. 18(6)(a) (with Sch. 4 para. 31)
+[^F131]: S. 135(4)(a) substituted (23.1.2021) by Fisheries Act 2020 (c. 22), s. 54(4)(d), Sch. 10 para. 18(6)(b) (with Sch. 4 para. 31)
+[^F132]: S. 136(1A) inserted (23.1.2021) by Fisheries Act 2020 (c. 22), s. 54(4)(d), Sch. 10 para. 19(2) (with Sch. 4 para. 31)
+[^F133]: Words in s. 136(2) inserted (23.1.2021) by Fisheries Act 2020 (c. 22), s. 54(4)(d), Sch. 10 para. 19(3) (with Sch. 4 para. 31)
+[^F134]: Words in s. 136(4) substituted (23.1.2021) by Fisheries Act 2020 (c. 22), s. 54(4)(d), Sch. 10 para. 19(4) (with Sch. 4 para. 31)
+[^F135]: S. 136(4A) inserted (23.1.2021) by Fisheries Act 2020 (c. 22), s. 54(4)(d), Sch. 10 para. 19(5) (with Sch. 4 para. 31)
+[^F136]: Words in s. 137 heading inserted (23.1.2021) by Fisheries Act 2020 (c. 22), s. 54(4)(d), Sch. 10 para. 20(2) (with Sch. 4 para. 31)
+[^F137]: Words in s. 137(1) substituted (23.1.2021) by Fisheries Act 2020 (c. 22), s. 54(4)(d), Sch. 10 para. 20(3) (with Sch. 4 para. 31)
+[^F138]: Words in s. 137(2) inserted (23.1.2021) by Fisheries Act 2020 (c. 22), s. 54(4)(d), Sch. 10 para. 20(4) (with Sch. 4 para. 31)
+[^F139]: Ss. 137A-137H and cross-headings inserted (23.1.2021) by Fisheries Act 2020 (c. 22), s. 54(4)(d), Sch. 10 para. 21 (with Sch. 4 para. 31)
+[^F140]: Words in s. 138 heading omitted (23.1.2021) by virtue of Fisheries Act 2020 (c. 22), s. 54(4)(d), Sch. 10 para. 22(2) (with Sch. 4 para. 31)
+[^F141]: Words in s. 138(1)(a) substituted (23.1.2021) by Fisheries Act 2020 (c. 22), s. 54(4)(d), Sch. 10 para. 22(3) (with Sch. 4 para. 31)
+[^F142]: Words in s. 138(2)(a) inserted (23.1.2021) by Fisheries Act 2020 (c. 22), s. 54(4)(d), Sch. 10 para. 22(4)(a) (with Sch. 4 para. 31)
+[^F143]: Words in s. 138(2)(b) inserted (23.1.2021) by Fisheries Act 2020 (c. 22), s. 54(4)(d), Sch. 10 para. 22(4)(b) (with Sch. 4 para. 31)
+[^F144]: S. 138(2A)(2B) inserted (23.1.2021) by Fisheries Act 2020 (c. 22), s. 54(4)(d), Sch. 10 para. 22(5) (with Sch. 4 para. 31)
+[^F145]: Words in s. 138(3) inserted (23.1.2021) by Fisheries Act 2020 (c. 22), s. 54(4)(d), Sch. 10 para. 22(6) (with Sch. 4 para. 31)
+[^F146]: Words in s. 138(4) inserted (23.1.2021) by Fisheries Act 2020 (c. 22), s. 54(4)(d), Sch. 10 para. 22(6) (with Sch. 4 para. 31)
+[^F147]: Words in s. 138(5) inserted (23.1.2021) by Fisheries Act 2020 (c. 22), s. 54(4)(d), Sch. 10 para. 22(6) (with Sch. 4 para. 31)
+[^F148]: Words in s. 139(1)(a) substituted (23.1.2021) by Fisheries Act 2020 (c. 22), s. 54(4)(d), Sch. 10 para. 23(2)(a) (with Sch. 4 para. 31)
+[^F149]: Words in s. 139(1)(b) substituted (23.1.2021) by Fisheries Act 2020 (c. 22), s. 54(4)(d), Sch. 10 para. 23(2)(b) (with Sch. 4 para. 31)
+[^F150]: S. 139(2)(2A) substituted for s. 139(2) (23.1.2021) by Fisheries Act 2020 (c. 22), s. 54(4)(d), Sch. 10 para. 23(3) (with Sch. 4 para. 31)
+[^F151]: Words in s. 139(4) substituted (23.1.2021) by Fisheries Act 2020 (c. 22), s. 54(4)(d), Sch. 10 para. 23(4) (with Sch. 4 para. 31)
+[^F152]: Words in s. 140(4)(a) substituted (E.W.) (12.3.2015) by The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664), reg. 1(1), Sch. 4 para. 43(6) (with reg. 5(1))
+[^F153]: S. 141(1)(aa) inserted (18.2.2026) by Planning and Infrastructure Act 2025 (c. 34), s. 118(3), Sch. 5 para. 45(3) (with s. 116); S.I. 2025/1370, reg. 4(1)(l)(3)
+[^F154]: Words in s. 141(1)(c)(i) substituted (23.1.2021) by Fisheries Act 2020 (c. 22), s. 54(4)(d), Sch. 10 para. 24 (with Sch. 4 para. 31)
+[^F155]: S. 141(6) omitted (31.12.2020) by virtue of The Marine Environment (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1399), regs. 1, 2(5)(a); 2020 c. 1, Sch. 5 para. 1(1)
+[^F156]: Words in s. 141(7) omitted (31.12.2020) by virtue of The Marine Environment (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1399), regs. 1, 2(5)(b); 2020 c. 1, Sch. 5 para. 1(1)
+[^F157]: Words in s. 142(1) omitted (23.1.2021) by virtue of Fisheries Act 2020 (c. 22), s. 54(4)(d), Sch. 10 para. 25 (with Sch. 4 para. 31)
+[^F158]: Words in s. 147(1) substituted (1.4.2013) by The Natural Resources Body for Wales (Functions) Order 2013 (No. 755), art. 1(2), Sch. 2 para. 443 (with Sch. 7)
+[^F159]: Words in s. 147(1) inserted (23.1.2021) by Fisheries Act 2020 (c. 22), s. 54(4)(d), Sch. 10 para. 26(2)(a) (with Sch. 4 para. 31)
+[^F160]: Words in s. 147(1) inserted (23.1.2021) by Fisheries Act 2020 (c. 22), s. 54(4)(d), Sch. 10 para. 26(2)(b) (with Sch. 4 para. 31)
+[^F161]: Words in s. 147(1) inserted (23.1.2021) by Fisheries Act 2020 (c. 22), s. 54(4)(d), Sch. 10 para. 26(2)(c) (with Sch. 4 para. 31)
+[^F162]: S. 147(3) inserted (23.1.2021) by Fisheries Act 2020 (c. 22), s. 54(4)(d), Sch. 10 para. 26(3) (with Sch. 4 para. 31)
+[^F163]: S. 149(3)(g) inserted (1.4.2013) by The Natural Resources Body for Wales (Functions) Order 2013 (No. 755), art. 1(2), Sch. 2 para. 444 (with Sch. 7)
+[^F164]: S. 152(2)(h) inserted (1.4.2013) by The Natural Resources Body for Wales (Functions) Order 2013 (No. 755), art. 1(2), Sch. 2 para. 445 (with Sch. 7)
+[^F165]: Words in s. 158(6)(d) substituted (30.11.2017) by The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012), reg. 1(2), Sch. 6 para. 8(3)
+[^F166]: Words in s. 163(3) substituted (12.3.2015) by The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664), reg. 1(1), Sch. 4 para. 43(7) (with reg. 5(1))
+[^F167]: Words in s. 166(1)(e) inserted (23.1.2021) by Fisheries Act 2020 (c. 22), s. 54(4)(d), Sch. 10 para. 27 (with Sch. 4 para. 31)
+[^F168]: S. 168(1)(c) inserted (1.4.2013) by The Natural Resources Body for Wales (Functions) Order 2013 (No. 755), art. 1(2), Sch. 2 para. 446 (with Sch. 7)
+[^F169]: Word in s. 189(1) substituted (23.1.2021) by Fisheries Act 2020 (c. 22), s. 54(4)(d), Sch. 10 para. 28(a) (with Sch. 4 para. 31)
+[^F170]: S. 189(2) omitted (23.1.2021) by virtue of Fisheries Act 2020 (c. 22), s. 54(4)(d), Sch. 10 para. 28(b) (with Sch. 4 para. 31)
+[^F171]: Words in s. 190(3) substituted (12.3.2015) by The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664), reg. 1(1), Sch. 4 para. 43(8) (with reg. 5(1))
+[^F172]: S. 196(1) omitted (31.12.2020) by virtue of Fisheries Act 2020 (c. 22), s. 54(3)(b), Sch. 4 para. 11(4) (with Sch. 4 para. 31)
+[^F173]: S. 197 omitted (31.12.2020) by virtue of Fisheries Act 2020 (c. 22), s. 54(3)(b), Sch. 4 para. 11(5) (with Sch. 4 para. 31)
+[^F174]: S. 199(2) omitted (12.3.2015) by virtue of The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664), reg. 1(1), Sch. 4 para. 102(2) (with reg. 5(1))
+[^F175]: S. 205 omitted (12.3.2015) by virtue of The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664), reg. 1(1), Sch. 4 para. 102(3) (with reg. 5(1))
+[^F176]: S. 220(9) omitted (12.3.2015) by virtue of The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664), reg. 1(1), Sch. 4 para. 102(4) (with reg. 5(1))
+[^F177]: Words in s. 232(1) substituted (1.4.2013) by The Natural Resources Body for Wales (Functions) Order 2013 (No. 755), art. 1(2), Sch. 2 para. 447(2) (with Sch. 7)
+[^F178]: Words in s. 232(5) substituted (1.4.2013) by The Natural Resources Body for Wales (Functions) Order 2013 (No. 755), art. 1(2), Sch. 2 para. 447(3)(a) (with Sch. 7)
+[^F179]: Words in s. 232(5)(h)(iii) substituted (1.4.2013) by The Natural Resources Body for Wales (Functions) Order 2013 (No. 755), art. 1(2), Sch. 2 para. 447(3)(b) (with Sch. 7)
+[^F180]: Words in s. 232(5)(j) substituted (1.4.2013) by The Natural Resources Body for Wales (Functions) Order 2013 (No. 755), art. 1(2), Sch. 2 para. 447(3)(b) (with Sch. 7)
+[^F181]: Words in s. 232(7)(a) substituted (E.W.) (12.3.2015) by The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664), reg. 1(1), Sch. 4 para. 93 (with reg. 5(2))
+[^F182]: Words in s. 232(8) inserted (1.4.2013) by The Natural Resources Body for Wales (Functions) Order 2013 (No. 755), art. 1(2), Sch. 2 para. 447(4) (with Sch. 7)
+[^F183]: Words in s. 236(2)(a) substituted (1.4.2018) by Wales Act 2017 (c. 4), ss. 46(3)(a), 71(4) (with Sch. 7 paras. 1, 6, 9); S.I. 2017/1179, reg. 3(j)
+[^F184]: S. 236(2)(aa) inserted (1.4.2018) by Wales Act 2017 (c. 4), ss. 46(3)(b), 71(4) (with Sch. 7 paras. 1, 6, 9); S.I. 2017/1179, reg. 3(j)
+[^F185]: Words in s. 237 heading inserted (23.1.2021) by Fisheries Act 2020 (c. 22), s. 54(4)(d), Sch. 10 para. 29(2) (with Sch. 4 para. 31)
+[^F186]: Words in s. 237(1) inserted (23.1.2021) by Fisheries Act 2020 (c. 22), s. 54(4)(d), Sch. 10 para. 29(3) (with Sch. 4 para. 31)
+[^F187]: S. 237(2)(c)(d) omitted (1.4.2010) by virtue of The Conservation of Habitats and Species Regulations 2010 (S.I. 2010/490), reg. 1(2), Sch. 6 para. 5(5)(a) (with reg. 125)
+[^F188]: S. 237(2)(e) substituted (30.11.2017) by The Conservation of Offshore Marine Habitats and Species Regulations 2017 (S.I. 2017/1013), reg. 1, Sch. 4 para. 2(3) (with regs. 3, 4(2))
+[^F189]: Word in s. 237(2)(f) substituted (23.1.2021) by Fisheries Act 2020 (c. 22), s. 54(4)(d), Sch. 10 para. 29(4)(a) (with Sch. 4 para. 31)
+[^F190]: Word in s. 237(2)(g) substituted (23.1.2021) by Fisheries Act 2020 (c. 22), s. 54(4)(d), Sch. 10 para. 29(4)(b) (with Sch. 4 para. 31)
+[^F191]: S. 237(2)(i)(j) substituted (30.11.2017) by The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012), reg. 1(2), Sch. 6 para. 8(4)
+[^F192]: S. 237(2A) inserted (23.1.2021) by Fisheries Act 2020 (c. 22), s. 54(4)(d), Sch. 10 para. 29(5) (with Sch. 4 para. 31)
+[^F193]: Words in s. 237(3) inserted (23.1.2021) by Fisheries Act 2020 (c. 22), s. 54(4)(d), Sch. 10 para. 29(6) (with Sch. 4 para. 31)
+[^F194]: Words in s. 237(8) inserted (23.1.2021) by Fisheries Act 2020 (c. 22), s. 54(4)(d), Sch. 10 para. 29(7) (with Sch. 4 para. 31)
+[^F195]: S. 237(9A) inserted (23.1.2021) by Fisheries Act 2020 (c. 22), s. 54(4)(d), Sch. 10 para. 29(8) (with Sch. 4 para. 31)
+[^F196]: Words in s. 237(11) inserted (23.1.2021) by Fisheries Act 2020 (c. 22), s. 54(4)(d), Sch. 10 para. 29(9) (with Sch. 4 para. 31)
+[^F197]: S. 237(14)(15) inserted (23.1.2021) by Fisheries Act 2020 (c. 22), s. 54(4)(d), Sch. 10 para. 29(10) (with Sch. 4 para. 31)
+[^F198]: Words in s. 238(2)(b) substituted (31.12.2020) by The Fisheries (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/746), regs. 1, 4(4)(a); 2020 c. 1, Sch. 5 para. 1(1)
+[^F199]: Word in s. 238(2)(b) substituted (1.1.2024) by The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424), reg. 1(2), Sch. para. 70(2)(e)
+[^F200]: S. 238(3)(ca) inserted (1.4.2013) by The Natural Resources Body for Wales (Functions) Order 2013 (No. 755), art. 1(2), Sch. 2 para. 448 (with Sch. 7)
+[^F201]: S. 238(3)(da)(db) inserted (23.1.2021) by Fisheries Act 2020 (c. 22), s. 54(4)(d), Sch. 10 para. 30 (with Sch. 4 para. 31)
+[^F202]: Words in s. 238(10) inserted (1.1.2024) by The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424), reg. 1(2), Sch. para. 70(3)(a)
+[^F203]: Words in s. 238(10) omitted (31.12.2020) by virtue of The Fisheries (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/746), regs. 1, 4(4)(b)(i); 2020 c. 1, Sch. 5 para. 1(1)
+[^F204]: Words in s. 238(10) omitted (1.1.2024) by virtue of The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424), reg. 1(2), Sch. para. 70(3)(b)
+[^F205]: Words in s. 240(1)(b) substituted (1.4.2018) by Wales Act 2017 (c. 4), ss. 46(4)(a), 71(4) (with Sch. 7 paras. 1, 6, 9); S.I. 2017/1179, reg. 3(j)
+[^F206]: S. 240(1)(ba) inserted (1.4.2018) by Wales Act 2017 (c. 4), ss. 46(4)(b), 71(4) (with Sch. 7 paras. 1, 6, 9); S.I. 2017/1179, reg. 3(j)
+[^F207]: Words in s. 241(3)(a) substituted (1.4.2018) by Wales Act 2017 (c. 4), ss. 46(5)(a), 71(4) (with Sch. 7 paras. 1, 6, 9); S.I. 2017/1179, reg. 3(j)
+[^F208]: S. 241(3)(aa) inserted (1.4.2018) by Wales Act 2017 (c. 4), ss. 46(5)(b), 71(4) (with Sch. 7 paras. 1, 6, 9); S.I. 2017/1179, reg. 3(j)
+[^F209]: S. 243A inserted (W.) (15.12.2025) by Infrastructure (Wales) Act 2024 (asc 3), ss. 110, 147(2) (with s. 83(5)); S.I. 2025/698, art. 3(h)
+[^F210]: Words in s. 244(1) substituted (31.12.2020) by The Marine Environment (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1399), regs. 1, 2(6)(a); 2020 c. 1, Sch. 5 para. 1(1)
+[^F211]: Words in s. 244(1) substituted (31.12.2020) by The Marine Environment (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1399), regs. 1, 2(6)(b); 2020 c. 1, Sch. 5 para. 1(1)
+[^F212]: Words in s. 278(6) inserted (1.1.2024) by The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424), reg. 1(2), Sch. para. 70(4)(a)
+[^F213]: Words in s. 278(6) substituted (31.12.2020) by The Fisheries (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/746), regs. 1, 4(5)(a); 2020 c. 1, Sch. 5 para. 1(1)
+[^F214]: Word in s. 278(6) substituted (1.1.2024) by The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424), reg. 1(2), Sch. para. 70(4)(b)
+[^F215]: Words in s. 278(6) omitted (1.1.2024) by virtue of The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424), reg. 1(2), Sch. para. 70(4)(c)
+[^F216]: Words in s. 284(2)(a) substituted (31.12.2020) by Fisheries Act 2020 (c. 22), s. 54(3)(b), Sch. 4 para. 11(6) (with Sch. 4 para. 31)
+[^F217]: Words in s. 292(8) inserted (E.W.) (12.3.2015) by The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664), reg. 1(1), Sch. 4 para. 43(9)(a) (with reg. 5(1))
+[^F218]: Words in s. 292(8) substituted (E.W.) (12.3.2015) by The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664), reg. 1(1), Sch. 4 para. 43(9)(b) (with reg. 5(1))
+[^F219]: S. 292(9) omitted (E.W.) (12.3.2015) by virtue of The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664), reg. 1(1), Sch. 4 para. 43(9)(c) (with reg. 5(1))
+[^F220]: Words in Act substituted (22.4.2011) by The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043), arts. 3, 6 (with art. 3(2)(3)4(2)6(4)6(5))
+[^F221]: S. 313 omitted (1.4.2013) by virtue of The Natural Resources Body for Wales (Functions) Order 2013 (No. 755), art. 1(2), Sch. 2 para. 449 (with Sch. 7)
+[^F222]: Word in s. 316(4)(a) substituted (23.1.2021) by Fisheries Act 2020 (c. 22), s. 54(4)(d), Sch. 10 para. 31(2)(a) (with Sch. 4 para. 31)
+[^F223]: Word in s. 316(4)(a) inserted (23.1.2021) by Fisheries Act 2020 (c. 22), s. 54(4)(d), Sch. 10 para. 31(2)(b) (with Sch. 4 para. 31)
+[^F224]: S. 316(6)(za) inserted (23.1.2021) by Fisheries Act 2020 (c. 22), s. 54(4)(d), Sch. 10 para. 31(3) (with Sch. 4 para. 31)
+[^F225]: S. 322(2)(c) substituted (N.I.) (1.4.2015) by Planning Act (Northern-Ireland) 2011 (c. 25), s. 254(1)(2), Sch. 6 para. 104 (with s. 211); S.R. 2015/49, art. 3, Sch. 1 (with Sch. 2)
+[^F226]: Sch. 2 para. 4 repealed (E.W.S.) (4.4.2011) by The Equality Act 2010 (Public Authorities and Consequential and Supplementary Amendments) Order 2011 (S.I. 2011/1060), arts. 1(2), 3(3)(a), Schs. 3
+[^F227]: Sch. 6 para. 1(2)(da) inserted (25.3.2026) by Levelling-up and Regeneration Act 2023 (c. 55), s. 255(3)(b), Sch. 8 para. 31(2)(a) (with s. 247); S.I. 2026/169, reg. 3(f)(xi) (with Sch. 1)
+[^F228]: Sch. 6 para. 1(2)(f) inserted (E.W.) (6.9.2015 for specified purposes, 7.1.2021 in so far as not already in force) by Planning (Wales) Act 2015 (anaw 4), s. 58(2)(b)(4)(b), Sch. 2 para. 34(2); S.I. 2021/7, reg. 2(c)
+[^F229]: Words in Sch. 6 para. 1(2)(f) substituted (E.W.) (21.1.2021) by Local Government and Elections (Wales) Act 2021 (asc 1), s. 175(1)(e), Sch. 9 para. 42(2)
+[^F230]: Sch. 6 para. 1(2)(g) inserted (16.7.2026) by The Planning and Infrastructure Act 2025 (Consequential Amendments) Regulations 2026 (S.I. 2026/755), regs. 1(2), 3
+[^F231]: Words in Sch. 6 para. 1(3) inserted (E.W.) (21.1.2021) by Local Government and Elections (Wales) Act 2021 (asc 1), s. 175(1)(e), Sch. 9 para. 42(3)(a)
+[^F232]: Words in Sch. 6 para. 1(3) substituted (25.3.2026) by Levelling-up and Regeneration Act 2023 (c. 55), s. 255(3)(b), Sch. 8 para. 31(2)(b)(i) (with s. 247); S.I. 2026/169, reg. 3(f)(xi) (with Sch. 1)
+[^F233]: Words in Sch. 6 para. 1(3) inserted (E.W.) (6.9.2015 for specified purposes, 4.12.2020 in so far as not already in force) by Planning (Wales) Act 2015 (anaw 4), s. 58(2)(b)(4)(b), Sch. 2 para. 35(3)(a); S.I. 2020/1216, reg. 2(b)
+[^F234]: Words in Sch. 6 para. 1(3) inserted (25.3.2026) by Levelling-up and Regeneration Act 2023 (c. 55), s. 255(3)(b), Sch. 8 para. 31(2)(b)(ii) (with s. 247); S.I. 2026/169, reg. 3(f)(xi) (with Sch. 1)
+[^F235]: Words in Sch. 6 para. 1(3) omitted (E.W.) (21.1.2021) by virtue of Local Government and Elections (Wales) Act 2021 (asc 1), s. 175(1)(e), Sch. 9 para. 42(3)(b)
+[^F236]: Words in Sch. 6 para. 3(2)(b) substituted (E.W.) (6.9.2015 for specified purposes, 4.12.2020 in so far as not already in force) by Planning (Wales) Act 2015 (anaw 4), s. 58(2)(b)(4)(b), Sch. 2 para. 35(2); S.I. 2020/1216, reg. 2(b)
+[^F237]: Sch. 6 para. 3(4)(5) omitted (E.W.) (6.9.2015 for specified purposes, 4.12.2020 in so far as not already in force) by virtue of Planning (Wales) Act 2015 (anaw 4), s. 58(2)(b)(4)(b), Sch. 2 para. 35(3); S.I. 2020/1216, reg. 2(b)
+[^F238]: Words in Sch. 6 para. 3(6) substituted (25.3.2026) by Levelling-up and Regeneration Act 2023 (c. 55), s. 255(3)(b), Sch. 8 para. 31(3) (with s. 247); S.I. 2026/169, reg. 3(f)(xi) (with Sch. 1)
+[^F239]: Words in Sch. 6 para. 3(6) omitted (E.W.) (6.9.2015 for specified purposes, 4.12.2020 in so far as not already in force) by virtue of Planning (Wales) Act 2015 (anaw 4), s. 58(2)(b)(4)(b), Sch. 2 para. 35(4); S.I. 2020/1216, reg. 2(b)
+[^F240]: Words in Sch. 6 para. 9(2)(b) substituted (E.W.) (6.9.2015 for specified purposes, 4.12.2020 in so far as not already in force) by Planning (Wales) Act 2015 (anaw 4), s. 58(2)(b)(4)(b), Sch. 2 para. 36; S.I. 2020/1216, reg. 2(b)
+[^F241]: Words in Sch. 7 para. 13(2)(d) substituted (1.4.2013) by The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602), art. 1(2), Sch. 2 para. 62(2)
+[^F242]: Words in Sch. 7 para. 13(5)(a) substituted (25.5.2018) by Data Protection Act 2018 (c. 12), s. 212(1), Sch. 19 para. 159(2) (with ss. 117, 209, 210); S.I. 2018/625, reg. 2(1)(g)
+[^F243]: Sch. 7 para. 13(5)(b) substituted (27.6.2018) by Investigatory Powers Act 2016 (c. 25), s. 272(1), Sch. 10 para. 24(2) (with Sch. 9 paras. 7, 8, 10); S.I. 2018/652, reg. 12(g)(iii)
+[^F244]: Sch. 7 para. 13(7) inserted (25.5.2018) by Data Protection Act 2018 (c. 12), s. 212(1), Sch. 19 para. 159(3) (with ss. 117, 209, 210); S.I. 2018/625, reg. 2(1)(g)
+[^F245]: Words in Sch. 10 para. 9(2)(d) substituted (1.4.2013) by The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602), art. 1(2), Sch. 2 para. 62(3)
+[^F246]: Words in Sch. 10 para. 9(5)(a) substituted (25.5.2018) by Data Protection Act 2018 (c. 12), s. 212(1), Sch. 19 para. 160(2) (with ss. 117, 209, 210); S.I. 2018/625, reg. 2(1)(g)
+[^F247]: Sch. 10 para. 9(5)(b) substituted (27.6.2018) by Investigatory Powers Act 2016 (c. 25), s. 272(1), Sch. 10 para. 24(3) (with Sch. 9 paras. 7, 8, 10); S.I. 2018/652, reg. 12(g)(iii)
+[^F248]: Sch. 10 para. 9(7) inserted (25.5.2018) by Data Protection Act 2018 (c. 12), s. 212(1), Sch. 19 para. 160(3) (with ss. 117, 209, 210); S.I. 2018/625, reg. 2(1)(g)
+[^F249]: Sch. 11 para. 4 omitted (1.4.2010) by virtue of The Conservation of Habitats and Species Regulations 2010 (S.I. 2010/490), reg. 1(2), Sch. 6 para. 5(6) (with reg. 125)
+[^F250]: Sch. 14 para. 6 repealed (1.4.2014) by Energy Act 2013 (c. 32), s. 156(1), Sch. 12 para. 30; S.I. 2014/251, art. 4
+[^F251]: Words in Sch. 17 para. 10(2)(b) repealed (N.I.) (31.10.2016) by Justice Act (Northern Ireland) 2015 (c. 9), s. 106(2), Sch. 1 para. 137, Sch. 9 Pt. 1 (with Sch. 8 para. 1); S.R. 2016/387, art. 2(k)(l) (with art. 3)

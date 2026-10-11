@@ -1,0 +1,2518 @@
+---
+title: "Gender Recognition Act 2004"
+identifier: "ukpga/2004/7"
+citation: "2004 c. 7"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S+N.I."
+date: 2004-07-01
+last_amended: 2024-01-01
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/2004/7"
+source_modified: 2024-05-17
+retrieved: 2026-10-11
+---
+
+# Gender Recognition Act 2004
+
+**2004 c. 7**
+
+An Act to make provision for and in connection with change of gender.
+
+[1st July 2004]
+
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## Applications for gender recognition certificate
+
+### 1 Applications
+
+(1) A person of either gender who is aged at least 18 may make an application for a gender recognition certificate on the basis of—
+
+(a) living in the other gender, or
+
+(b) having changed gender under the law of a country or territory outside the United Kingdom.
+
+(2) In this Act “the acquired gender”, in relation to a person by whom an application under subsection (1) is or has been made, means—
+
+(a) in the case of an application under paragraph (a) of that subsection, the gender in which the person is living, or
+
+(b) in the case of an application under paragraph (b) of that subsection, the gender to which the person has changed under the law of the country or territory concerned.
+
+(3) An application under subsection (1) is to be determined by a Gender Recognition Panel.
+
+(4) Schedule 1 (Gender Recognition Panels) has effect.
+
+### 2 Determination of applications
+
+(1) In the case of an application under section 1(1)(a), the Panel must grant the application if satisfied that the applicant—
+
+(a) has or has had gender dysphoria,
+
+(b) has lived in the acquired gender throughout the period of two years ending with the date on which the application is made,
+
+(c) intends to continue to live in the acquired gender until death, and
+
+(d) complies with the requirements imposed by and under section 3.
+
+(2) In the case of an application under section 1(1)(b), the Panel must grant the application if satisfied—
+
+(a) that the country or territory under the law of which the applicant has changed gender is an approved country or territory, and
+
+(b) that the applicant complies with the requirements imposed by and under section 3.
+
+(3) The Panel must reject an application under section 1(1) if not required by subsection (1) or (2) to grant it.
+
+[[^F1](3A) This section does not apply to an application under section 1(1)(a) which states that it is an application for a certificate to be granted in accordance with section 3A.]
+
+[[^F2](3B) This section does not apply to an application under section 1(1)(a) which states that it is an application for a certificate to be granted in accordance with section 3C.]
+
+[[^F3](3C) This section does not apply to an application under section 1(1)(a) which states that it is an application for a certificate to be granted in accordance with section 3E.]
+
+(4) In this Act “approved country or territory” means a country or territory prescribed by order made by the Secretary of State after consulting the Scottish Ministers and the Department of Finance and Personnel in Northern Ireland.
+
+### 3 Evidence
+
+(1) An application under section 1(1)(a) must include either—
+
+(a) a report made by a registered medical practitioner practising in the field of gender dysphoria and a report made by another registered medical practitioner (who may, but need not, practise in that field), or
+
+(b) a report made by a [[^F4]registered psychologist] practising in that field and a report made by a registered medical practitioner (who may, but need not, practise in that field).
+
+(2) But subsection (1) is not complied with unless a report required by that subsection and made by—
+
+(a) a registered medical practitioner, or
+
+(b) a [[^F4]registered psychologist],
+
+practising in the field of gender dysphoria includes details of the diagnosis of the applicant’s gender dysphoria.
+
+(3) And subsection (1) is not complied with in a case where—
+
+(a) the applicant has undergone or is undergoing treatment for the purpose of modifying sexual characteristics, or
+
+(b) treatment for that purpose has been prescribed or planned for the applicant,
+
+unless at least one of the reports required by that subsection includes details of it.
+
+(4) An application under section 1(1)(a) must also include a statutory declaration by the applicant that the applicant meets the conditions in section 2(1)(b) and (c).
+
+(5) An application under section 1(1)(b) must include evidence that the applicant has changed gender under the law of an approved country or territory.
+
+(6) Any application under section 1(1) must include—
+
+(a) a statutory declaration as to whether or not the applicant is married [[^F5]or a civil partner],
+
+(b) any other information or evidence required by an order made by the Secretary of State, and
+
+(c) any other information or evidence which the Panel which is to determine the application may require,
+
+and may include any other information or evidence which the applicant wishes to include.
+
+[[^F6](6A) If the applicant is married, an application under section 1(1) must include a statutory declaration as to whether the marriage is a marriage under the law of England and Wales, of Scotland, of Northern Ireland, or of a country or territory outside the United Kingdom.
+
+[[^F7](6AA) If the applicant is a civil partner, an application under section 1(1) must include a statutory declaration as to whether the civil partnership is a civil partnership under the law of England and Wales, of Scotland, or of Northern Ireland, or is an overseas relationship that is treated as a civil partnership by virtue of Chapter 2 of Part 5 of the Civil Partnership Act 2004.]
+
+(6B) If the applicant is married [[^F8]or a civil partner], and the marriage [[^F9]or civil partnership] is a protected marriage [[^F10]or a protected civil partnership], an application under section 1(1) must also include—
+
+(a) a statutory declaration by the applicant's spouse [[^F11]or civil partner] that the spouse [[^F12]or partner] consents to the marriage [[^F13]or partnership] continuing after the issue of a full gender recognition certificate (“a statutory declaration of consent”) (if the spouse [[^F12]or partner] has made such a declaration), or
+
+(b) a statutory declaration by the applicant that the applicant's spouse [[^F14]or civil partner] has not made a statutory declaration of consent (if that is the case).
+
+(6C) If an application includes a statutory declaration of consent by the applicant's spouse [[^F15]or civil partner], the Gender Recognition Panel must give the spouse [[^F16]or partner] notice that the application has been made.]
+
+[[^F17](6D) If the applicant is a party to a protected Scottish marriage, an application under section 1(1) must also include—
+
+(a) a statutory declaration by the applicant that the applicant wishes the marriage to continue after the issue of a full gender recognition certificate (if that is the case), and
+
+(b) either—
+
+(i) a statutory declaration by the applicant's spouse that the spouse consents to the marriage continuing after the issue of a full gender recognition certificate (“a statutory declaration of consent”) (if the spouse has made such a declaration), or
+
+(ii) a statutory declaration by the applicant that no such declaration by the applicant's spouse is included.
+
+(6E) If an application includes a statutory declaration of consent by the applicant's spouse under subsection (6D)(b)(i), the Gender Recognition Panel must give the spouse notice that the application has been made.
+
+(6F) If the applicant is a party to a protected Scottish civil partnership, an application under section 1(1) must also include a statutory declaration as to where the civil partnership was registered and, if the civil partnership was registered outside the United Kingdom, that details of the civil partnership have been sent to the Registrar General for Scotland.]
+
+[[^F18](6G) If the applicant is a party to a protected Scottish civil partnership, an application under section 1(1) must also include—
+
+(a) a statutory declaration by the applicant that the applicant wishes the civil partnership to continue after the issue of a full gender recognition certificate (if that is the case), and
+
+(b) either—
+
+(i) a statutory declaration by the applicant's civil partner that the civil partner consents to the civil partnership continuing after the issue of a full gender recognition certificate (“a statutory declaration of consent”) (if the civil partner has made such a declaration), or
+
+(ii) a statutory declaration by the applicant that no such declaration by the applicant's civil partner is included.
+
+(6H) If an application includes a statutory declaration of consent by the applicant's civil partner under subsection (6G)(b)(i), the Gender Recognition Panel must give the civil partner notice that the application has been made.]
+
+(7) The Secretary of State may not make an order under subsection (6)(b) without consulting the Scottish Ministers and the Department of Finance and Personnel in Northern Ireland.
+
+(8) If the Panel which is to determine the application requires information or evidence under subsection (6)(c) it must give reasons for doing so.
+
+[[^F19](9) This section does not apply to an application under section 1(1)(a) which states that it is an application for a certificate to be granted in accordance with section 3A.]
+
+[[^F20](10) This section does not apply to an application under section 1(1)(a) which states that it is an application for a certificate to be granted in accordance with section 3C.]
+
+[[^F21](11) This section does not apply to an application under section 1(1)(a) which states that it is an application for a certificate to be granted in accordance with section 3E.]
+
+### 3A [[^F22]Alternative grounds for granting applications
+
+(1) This section applies to an application under section 1(1)(a) which states that it is an application for a certificate to be granted in accordance with this section.
+
+(2) The Panel must grant the application if satisfied that the applicant complies with the requirements imposed by and under section 3B and meets the conditions in subsections (3) to (6).
+
+(3) The first condition is that the applicant was a party to a protected marriage or a protected civil partnership on or before the date the application was made.
+
+(4) The second condition is that the applicant—
+
+(a) was living in the acquired gender six years before the commencement of section 12 of the Marriage (Same Sex Couples) Act 2013 [[^F23](but see subsection (8))],
+
+(b) continued to live in the acquired gender until the date the application was made, and
+
+(c) intends to continue to live in the acquired gender until death.
+
+(5) The third condition is that the applicant—
+
+(a) has or has had gender dysphoria, or
+
+(b) has undergone surgical treatment for the purpose of modifying sexual characteristics.
+
+(6) The fourth condition is that the applicant is ordinarily resident in England, Wales [[^F24], Scotland or Northern Ireland].
+
+(7) The Panel must reject the application if not required by subsection (2) to grant it.]
+
+[[^F25](8) Where the applicant—
+
+(a) is a party to a protected marriage that is a marriage under the law of Northern Ireland, or
+
+(b) is a party to a protected civil partnership that is a civil partnership under the law of Northern Ireland, or
+
+(c) is ordinarily resident in Northern Ireland,
+
+subsection (4)(a) has effect as if for the words after “was living in the acquired gender” there were substituted “on 13 January 2014”.]
+
+### 3B [[^F26]Evidence for granting applications on alternative grounds
+
+(1) This section applies to an application under section 1(1)(a) which states that it is an application for a certificate to be granted in accordance with section 3A.
+
+(2) The application must include either—
+
+(a) a report made by a registered medical practitioner, or
+
+(b) a report made by a registered psychologist practising in the field of gender dysphoria.
+
+(3) If the application is based on the applicant having or having had gender dysphoria—
+
+(a) the reference in subsection (2) to a registered medical practitioner is to one practising in the field of gender dysphoria, and
+
+(b) that subsection is not complied with unless the report includes details of the diagnosis of the applicant's gender dysphoria.
+
+(4) Subsection (2) is not complied with in a case where—
+
+(a) the applicant has undergone or is undergoing treatment for the purpose of modifying sexual characteristics, or
+
+(b) treatment for that purpose has been prescribed or planned for the applicant,
+
+unless the report required by that subsection includes details of it.
+
+(5) The application must also include a statutory declaration by the applicant that the applicant meets the conditions in section 3A(3) and (4).
+
+(6) The application must include—
+
+(a) a statutory declaration as to whether or not the applicant is married or a civil partner,
+
+(b) any other information or evidence required by an order made by the Secretary of State, and
+
+(c) any other information or evidence which the Panel which is to determine the application may require,
+
+and may include any other information or evidence which the applicant wishes to include.
+
+(7) If the applicant is married, the application must include a statutory declaration as to whether the marriage is a marriage under the law of England and Wales, of Scotland, of Northern Ireland, or of a country or territory outside the United Kingdom.
+
+[[^F27](7A) If the applicant is a civil partner, the application must include a statutory declaration as to whether the civil partnership is a civil partnership under the law of England and Wales, of Scotland, or of Northern Ireland, or is an overseas relationship that is treated as a civil partnership by virtue of Chapter 2 of Part 5 of the Civil Partnership Act 2004.]
+
+(8) If the applicant is married [[^F28]or a civil partner], and the marriage [[^F29]or civil partnership] is a protected marriage [[^F30]or a protected civil partnership], the application must also include—
+
+(a) a statutory declaration of consent by the applicant's spouse [[^F31]or civil partner] (if the spouse [[^F32]or partner] has made such a declaration), or
+
+(b) a statutory declaration by the applicant that the applicant's spouse [[^F33]or civil partner] has not made a statutory declaration of consent (if that is the case).
+
+(9) If the application includes a statutory declaration of consent by the applicant's spouse [[^F34]or civil partner], the Panel must give the spouse [[^F35]or partner] notice that the application has been made.
+
+(10) If the Panel which is to determine the application requires information or evidence under subsection (6)(c) it must give reasons for doing so.]
+
+### 3C [[^F36]Alternative grounds for granting applications: Scotland
+
+(1) This section applies to an application under section 1(1)(a) which states that it is an application for a certificate to be granted in accordance with this section.
+
+(2) The Panel must grant the application if satisfied that the applicant complies with the requirements imposed by and under section 3D and meets the conditions in subsections (3) to (6).
+
+(3) The first condition is that the applicant was a party to a protected Scottish marriage or a protected Scottish civil partnership on or before the date the application was made.
+
+(4) The second condition is that the applicant—
+
+(a) was living in the acquired gender six years before the commencement of section 29 of the Marriage and Civil Partnership (Scotland) Act 2014,
+
+(b) continued to live in the acquired gender until the date the application was made, and
+
+(c) intends to continue to live in the acquired gender until death.
+
+(5) The third condition is that the applicant—
+
+(a) has or has had gender dysphoria, or
+
+(b) has undergone—
+
+(i) surgical treatment, or
+
+(ii) such other treatment as the Scottish Ministers may by order prescribe,
+
+for the purpose of modifying sexual characteristics.
+
+(6) The fourth condition is that the applicant is ordinarily resident in Scotland.
+
+(7) Before making an order under subsection (5)(b)(ii) the Scottish Ministers must consult the following persons on a copy of the proposed draft order—
+
+(a) the Gender Recognition Panel,
+
+(b) such other persons as the Scottish Ministers consider appropriate.
+
+(8) An order under subsection (5)(b)(ii)—
+
+(a) may make different provision for different cases or circumstances,
+
+(b) may amend any enactment (including this Act).
+
+(9) The Panel must reject the application if not required by subsection (2) to grant it.]
+
+### 3D [[^F37]Evidence for granting applications on alternative grounds: Scotland
+
+(1) This section applies to an application under section 1(1)(a) which states that it is an application for a certificate to be granted in accordance with section 3C.
+
+(2) The application must include either—
+
+(a) a report made by a registered medical practitioner, or
+
+(b) a report made by a registered psychologist practising in the field of gender dysphoria.
+
+(3) If the application is based on the applicant having or having had gender dysphoria—
+
+(a) the reference in subsection (2) to a registered medical practitioner is to one practising in the field of gender dysphoria, and
+
+(b) that subsection is not complied with unless the report includes details of the diagnosis of the applicant's gender dysphoria.
+
+(4) Subsection (2) is not complied with in a case where—
+
+(a) the applicant has undergone or is undergoing treatment for the purpose of modifying sexual characteristics, or
+
+(b) treatment for that purpose has been prescribed or planned for the applicant,
+
+unless the report required by that subsection includes details of it.
+
+(5) The application must also include a statutory declaration by the applicant that the applicant meets the conditions in section 3C(3) and (4).
+
+(6) The application must include—
+
+(a) a statutory declaration as to whether or not the applicant is married or a civil partner,
+
+(b) any other information or evidence required by an order made by the Scottish Ministers, and
+
+(c) any other information or evidence which the Panel which is to determine the application may require,
+
+and may include any other information or evidence which the applicant wishes to include.
+
+[[^F38](7) If the applicant is—
+
+(a) married, the application must include a statutory declaration as to whether the marriage is a protected Scottish marriage,
+
+(b) a party to a civil partnership, the application must include a statutory declaration as to whether the civil partnership is a protected Scottish civil partnership.]
+
+(8) If the applicant is married, and the marriage is a protected Scottish marriage, the application must also include—
+
+(a) a statutory declaration of consent (within the meaning of section 3(6D)(b)(i)) by the applicant's spouse (if the spouse has made such a declaration), or
+
+(b) a statutory declaration by the applicant that no such declaration by the applicant's spouse is included.
+
+[[^F39](8A) If the applicant is a party to a protected Scottish civil partnership, the application must also include—
+
+(a) a statutory declaration of consent (within the meaning of section 3(6G)(b)(i)) by the applicant's civil partner (if the civil partner has made such a declaration), or
+
+(b) a statutory declaration by the applicant that no such declaration by the applicant's civil partner is included.]
+
+(9) If the application includes a statutory declaration of consent by the applicant's spouse [[^F40]or (as the case may be) civil partner], the Panel must give the spouse [[^F41]or civil partner] notice that the application has been made.
+
+(10) If the Panel which is to determine the application requires information or evidence under subsection (6)(c) it must give reasons for doing so.]
+
+### 3E [[^F42]Alternative grounds for granting applications: Scotland (English and Welsh [[^F43]and Northern Ireland] residents)
+
+(1) This section applies to an application under section 1(1)(a) which states that it is an application for a certificate to be granted in accordance with this section.
+
+(2) In this section, and section 3F, in so far as those sections extend to England and Wales [[^F44]or to Northern Ireland], “protected Scottish civil partnership” and “protected Scottish marriage” have the meanings given by section 25.
+
+(3) The Panel must grant the application if satisfied that the applicant complies with the requirements imposed by and under section 3F and meets the conditions in subsections (4) to (7).
+
+(4) The first condition is that the applicant was a party to a protected Scottish marriage or a protected Scottish civil partnership on or before the date the application was made.
+
+(5) The second condition is that the applicant—
+
+(a) was living in the acquired gender six years before the commencement of section 29 of the Marriage and Civil Partnership (Scotland) Act 2014 [[^F45](but see subsection (5A))];
+
+(b) continued to live in the acquired gender until the date the application was made; and
+
+(c) intends to continue to live in the acquired gender until death.
+
+[[^F46](5A) Where the applicant is ordinarily resident in Northern Ireland, subsection (5)(a) has effect as if for the words after “was living in the acquired gender” there was substituted “on 13 January 2014”.]
+
+(6) The third condition is that the applicant—
+
+(a) has or has had gender dysphoria; or
+
+(b) has undergone surgical treatment for the purpose of modifying sexual characteristics.
+
+(7) The fourth condition is that the applicant is ordinarily resident in England or Wales [[^F47]or in Northern Ireland].
+
+(8) The Panel must reject the application if not required by subsection (3) to grant it.
+
+### 3F Evidence for granting applications on alternative grounds: Scotland (English and Welsh [[^F48]and Northern Ireland] residents)
+
+(1) This section applies to an application under section 1(1)(a) which states that it is an application for a certificate to be granted in accordance with section 3E.
+
+(2) The application must include either—
+
+(a) a report made by a registered medical practitioner; or
+
+(b) a report made by a registered psychologist practising in the field of gender dysphoria.
+
+(3) If the application is based on the applicant having or having had gender dysphoria—
+
+(a) the reference in subsection (2) to a registered medical practitioner is to one practising in the field of gender dysphoria; and
+
+(b) that subsection is not complied with unless the report includes details of the diagnosis of the applicant’s gender dysphoria.
+
+(4) Subsection (2) is not complied with in a case where—
+
+(a) the applicant has undergone or is undergoing treatment for the purpose of modifying sexual characteristics; or
+
+(b) treatment for that purpose has been prescribed or planned for the applicant, unless the report required by that subsection includes details of it.
+
+(5) The application must also include a statutory declaration by the applicant that the applicant meets the conditions in section 3E(3) and (4).
+
+(6) The application must include—
+
+(a) a statutory declaration as to whether or not the applicant is married or a civil partner; and
+
+(b) any other information or evidence which the Panel which is to determine the application may require,
+
+and may include any other information or evidence which the applicant wishes to include.
+
+[[^F49](7) If the applicant is—
+
+(a) married, the application must include a statutory declaration as to whether the marriage is a protected Scottish marriage;
+
+(b) a party to a civil partnership, the application must include a statutory declaration as to whether the civil partnership is a protected Scottish civil partnership.]
+
+(8) If the applicant is married, and the marriage is a protected Scottish marriage, the application must also include—
+
+(a) a statutory declaration by the applicant’s spouse that the spouse consents to the marriage continuing after the issue of a full gender recognition certificate (“a statutory declaration of consent”) (if the spouse has made such a declaration); or
+
+(b) a statutory declaration by the applicant that no such declaration by the applicant’s spouse is included.
+
+[[^F50](8A) If the applicant is a party to a protected Scottish civil partnership, the application must also include—
+
+(a) a statutory declaration by the applicant’s civil partner that the civil partner consents to the civil partnership continuing after the issue of a full gender recognition certificate (“a statutory declaration of consent”) (if the civil partner has made such a declaration); or
+
+(b) a statutory declaration by the applicant that no such declaration by the applicant’s civil partner is included.]
+
+(9) If the application includes a statutory declaration of consent by the applicant’s spouse [[^F51]or (as the case may be) civil partner], the Panel must give the spouse [[^F52]or civil partner] notice that the application has been made.
+
+(10) If the Panel which is to determine the application requires information or evidence under subsection (6)(b) it must give reasons for doing so.]
+
+### 4 Successful applications
+
+(1) If a Gender Recognition Panel grants an application under section 1(1) it must issue a gender recognition certificate to the applicant.
+
+[[^F53](1A) The certificate is to be a full gender recognition certificate if the applicant is neither married nor in a civil partnership.]
+
+[[^F54](2) The certificate is [[^F55]also] to be a full gender recognition certificate if—
+
+[^F56]a [^F56]the applicant is neither a civil partner nor married,
+
+(b) the applicant is a party to a protected marriage and the applicant's spouse consents to the marriage continuing after the issue of a full gender recognition certificate, or
+
+(c) the applicant is a party to a protected civil partnership and [[^F57]the applicant’s civil partner consents to the civil partnership continuing after the issue of a full gender recognition certificate.]
+
+(3) The certificate is to be an interim gender recognition certificate if—
+
+(a) the applicant is a party to a protected marriage and the applicant's spouse does not consent to the marriage continuing after the issue of a full gender recognition certificate,
+
+(b) [[^F58]subject to subsection (3C)(a),] the applicant is a party to a marriage that is not a protected marriage,
+
+(c) the applicant is a party to a protected civil partnership and the other party to the civil partnership [[^F59]does not consent to the civil partnership continuing after the issue of a full gender recognition certificate, or]
+
+[^F60]d . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(e) [[^F61]subject to subsection [^F62](3C)(b) [[^F62](3C)(c)],] the applicant is a party to a civil partnership that is not a protected civil partnership.
+
+(3A) If a Gender Recognition Panel issues a full gender recognition certificate under this section to an applicant who is a party to a protected marriage [[^F63]or a protected civil partnership], the Panel must give the applicant's spouse [[^F64]or civil partner] notice of the issue of the certificate.]
+
+[^F65]3B . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[[^F66](3C) The certificate is also to be a full gender recognition certificate if—
+
+(a) the applicant is a party to a protected Scottish marriage and both parties to the marriage consent to the marriage continuing after the issue of a full gender recognition certificate, or
+
+[^F67]b [^F67]the applicant is a party to a protected Scottish civil partnership and the Gender Recognition Panel has decided to issue a full gender recognition certificate to the other party to the civil partnership.
+
+[[^F68](c) the applicant is a party to a protected Scottish civil partnership and both parties to the partnership consent to it continuing after the issue of a full gender recognition certificate,]
+
+(3D) The certificate is to be an interim gender recognition certificate if—
+
+(a) the applicant is a party to a protected Scottish marriage and either party to the marriage does not consent to the marriage continuing after the issue of a full gender recognition certificate,
+
+(b) subject to subsection (2)(b), the applicant is a party to a marriage which is not a protected Scottish marriage,
+
+[[^F69](ba) the applicant is a party to a protected Scottish civil partnership and either party to the partnership does not consent to it continuing after the issue of a full gender recognition certificate,]
+
+[^F70]c [^F70]the applicant is a party to a protected Scottish civil partnership and the other party to the civil partnership has not made an application under section 1(1),
+
+[^F70]d [^F70]the applicant is a party to a protected Scottish civil partnership and the Gender Recognition Panel has decided not to issue a full gender recognition certificate to the other party to the civil partnership, or
+
+(e) subject to subsection (2)(c), the applicant is a party to a civil partnership which is not a protected Scottish civil partnership.
+
+(3E) If a Gender Recognition Panel issues a full gender recognition certificate under this section to an applicant who is a party to a protected Scottish marriage, the Panel must give the applicant's spouse notice of the issue of the certificate.
+
+[[^F71](3EA) ​If a Gender Recognition Panel issues a full gender recognition certificate under this section to an applicant who is a party to a protected Scottish civil partnership, the Panel must give the applicant's civil partner notice of the issue of the certificate.]
+
+[^F72]3F [^F72]Subsection (3C)(b) is subject to section 5C.]
+
+(4) Schedule 2 (annulment or dissolution of marriage after issue of interim gender recognition certificate) has effect.
+
+(5) The Secretary of State may, after consulting the Scottish Ministers and the Department of Finance and Personnel in Northern Ireland, specify the content and form of gender recognition certificates.
+
+## [[^F73]Issue of full certificate after interim certificate: applicant married [[^F74]or a civil partner]
+
+### 4A Married person [[^F75]or civil partner] with interim certificate: issue of full certificate
+
+(1) A Gender Recognition Panel must issue a full gender recognition certificate to a person [[^F76]if subsection (2) applies].
+
+(2) [[^F77]This subsection applies if], on an application by the person, the Panel is satisfied that—
+
+(a) an interim gender recognition certificate has been issued to the person;
+
+(b) the person was a party to a protected marriage [[^F78]or a protected civil partnership] at the time when the interim gender recognition certificate was issued;
+
+(c) the person is a party to a protected marriage [[^F79]or a protected civil partnership]; and
+
+(d) the person's spouse [[^F80]or civil partner] now consents to the marriage [[^F81]or civil partnership] continuing after the issue of the full gender recognition certificate.
+
+[^F82]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) If, on an application under subsection (2) [^F83]..., the Panel is not satisfied as mentioned in that subsection, the Panel must reject the application.
+
+(5) An application under subsection (2) must be made within the period of six months beginning with the day on which the interim gender recognition certificate is issued.
+
+[^F84]6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7) An application under subsection (2) [^F85]... must include a statutory declaration of consent made by the person's spouse [[^F86]or civil partner].
+
+[^F87]8 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(9) If an application is made under [[^F88]subsection (2)], the Gender Recognition Panel must give the applicant's spouse [[^F89]or civil partner]—
+
+(a) notice of the application; and
+
+(b) if the Panel grants the application, notice of the issue of the full gender recognition certificate.
+
+[^F90]10 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 4B Application under section 4A: death of spouse [[^F91]or civil partner]
+
+(1) In a case where an application is made under section 4A(2) [^F92]... and the applicant's spouse [[^F93]or civil partner] dies before the application is determined—
+
+(a) the application is to be treated as an application, made under section 5(2) in a case where a spouse has died [[^F94]or under section 5A(2) in a case where a civil partner has died], for a full gender recognition certificate to be issued; and
+
+(b) that application is to be treated as having been made at the time when the application under section 4A was made.
+
+(2) The Gender Recognition Panel determining the application must specify the period within which the applicant is to produce the required evidence in support of the new application.
+
+(3) In this section—
+
+- “ new application ” means the application under section 5(2) [[^F95]or (as the case may be) section 5A(2)] which the person is, by virtue of subsection (1), treated as having made;
+- “ required evidence ” means the evidence required by section 5(4) [[^F96]or (as the case may be) section 5A(4)]. ]
+
+### 4C [[^F97][[^F98]Married person or civil partner with interim certificate: issue of full certificate (Scotland)]
+
+(1) A Gender Recognition Panel must issue a full gender recognition certificate to a person [[^F99]if, on an application by the person (“the applicant”), the Panel is satisfied that the conditions set out in subsection (1A) are met].
+
+[[^F100](1A) The conditions referred to in subsection (1) are—
+
+(a) an interim gender recognition certificate has been issued to the applicant,
+
+(b) when the interim gender recognition certificate was issued, the applicant and another person (“P”) were the parties to—
+
+(i) a protected Scottish marriage, or
+
+(ii) a protected Scottish civil partnership,
+
+(c) the applicant and P are still, or have since become, the parties to—
+
+(i) a protected Scottish marriage, or
+
+(ii) a protected Scottish civil partnership, and
+
+(d) P consents to the marriage or civil partnership continuing after the issue of a full gender recognition certificate.]
+
+[^F101]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F101]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) If, on an application under subsection [[^F102](1)], the Panel is not satisfied as mentioned in that subsection, the Panel must reject the application.
+
+(5) An application under subsection [[^F103](1)] must be made within the period of six months beginning with the day on which the interim gender recognition certificate is issued.
+
+[^F104]6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7) An application under subsection [[^F105](1)] must include a statutory declaration of consent (within the meaning of section 3(6D)(b)(i) [[^F106]or (6G)(b)(i)]) made by the person's spouse [[^F107]or (as the case may be) civil partner].
+
+[^F108]8 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(9) If an application is made under this section, the Panel must give the applicant's spouse [[^F109]or (as the case may be) civil partner]—
+
+(a) notice of the application, and
+
+(b) if the Panel grants the application, notice of the issue of the full gender recognition certificate.
+
+### 4D [[^F110]Application under section 4C: death of spouse or civil partner]
+
+(1) In a case where an application is made under section [[^F111]4C] and the applicant's spouse [[^F112]or (as the case may be) civil partner] dies before the application is determined—
+
+(a) the application is to be treated as an application, made under section 5(2) in a case where a spouse [[^F113]or civil partner] has died, for a full gender recognition certificate to be issued, and
+
+(b) that application is to be treated as having been made at the time when the application under section 4C was made.
+
+(2) The Gender Recognition Panel determining the application must specify the period within which the applicant is to produce the required evidence in support of the new application.
+
+(3) In this section—
+
+- “ new application ” means the application under section 5(2) which the person is, by virtue of subsection (1), treated as having made,
+- “ required evidence ” means the evidence required by section 5(4).
+
+### 4E [[^F114]Married person or civil partner with interim certificate: issue of full certificate on application to the sheriff (Scotland)]
+
+(1) A person may make a summary application to the sheriff for the issue of a full gender recognition certificate where—
+
+(a) an interim gender recognition certificate has been issued to the person,
+
+[[^F115](b) the person and another person (“P”) are the parties to—
+
+(i) a protected Scottish marriage, or
+
+(ii) a protected Scottish civil partnership,]
+
+(c) the person is not in possession of a statutory declaration by [[^F116]P] that [[^F117]P] consents to the marriage [[^F118]or (as the case may be) civil partnership] continuing after the issue of a full gender recognition certificate.
+
+(2) The sheriff must grant an application made under subsection (1) if the sheriff is satisfied that—
+
+[[^F119](a) at the time when the interim gender recognition certificate was issued, the applicant and P were the parties to—
+
+(i) a protected Scottish marriage, or
+
+(ii) a protected Scottish civil partnership,
+
+(b) the applicant is still a party to that protected Scottish marriage, and]
+
+(c) the application was made within the period of six months beginning with the day on which the interim gender recognition certificate was issued.
+
+(3) If an application is made under this section, the sheriff must give the applicant's spouse [[^F120]or (as the case may be) civil partner]—
+
+(a) notice of the application, and
+
+(b) if the sheriff grants the application, notice of the issue of the full gender recognition certificate.
+
+(4) Where the sheriff issues a full gender recognition certificate, the sheriff must send a copy to the Gender Recognition Panel.]
+
+### [^F121]4F Death of civil partner or spouse: issue of full certificate (Scotland)
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 5 [[^F122]Issue of full certificates where applicant has been married]
+
+(1) A court which—
+
+(a) makes [[^F123]final a nullity of marriage order made] on the ground that an interim gender recognition certificate has been issued to a party to the marriage, [^F124]...
+
+[[^F125](aa) (in Northern Ireland) makes absolute a decree of nullity granted on that ground, or]
+
+(b) (in Scotland) grants a decree of divorce on that ground,
+
+must, on doing so, issue a full gender recognition certificate to that party and send a copy to the Secretary of State.
+
+[[^F126](1A) Subsection (1) does not apply where a full gender recognition certificate has already been issued, to the party to whom the interim gender recognition certificate was issued, by the sheriff under section 4E.]
+
+(2) If an interim gender recognition certificate has been issued to a person and either—
+
+(a) the person’s marriage is dissolved or annulled (otherwise than on the ground mentioned in subsection (1)) in proceedings instituted during the period of six months beginning with the day on which it was issued, or
+
+(b) the person’s spouse dies within that period,
+
+the person may make an application for a full gender recognition certificate at any time within the period specified in subsection (3) (unless the person is again married [[^F127]or is a civil partner]).
+
+(3) That period is the period of six months beginning with the day on which the marriage is dissolved or annulled or the death occurs.
+
+(4) An application under subsection (2) must include evidence of the dissolution or annulment of the marriage and the date on which proceedings for it were instituted, or of the death of the spouse and the date on which it occurred.
+
+(5) An application under subsection (2) is to be determined by a Gender Recognition Panel.
+
+(6) The Panel—
+
+(a) must grant the application if satisfied that the applicant [[^F128]is neither married nor a civil partner], and
+
+(b) otherwise must reject it.
+
+(7) If the Panel grants the application it must issue a full gender recognition certificate to the applicant.
+
+### 5A [[^F129]Issue of full certificates where applicant has been a civil partner
+
+(1) A court which—
+
+(a) makes final a nullity order made on the ground that an interim gender recognition certificate has been issued to a civil partner, or
+
+(b) (in Scotland) grants a decree of dissolution on that ground,
+
+must, on doing so, issue a full gender recognition certificate to that civil partner and send a copy to the Secretary of State.
+
+[[^F130](1A) Subsection (1) does not apply where a full gender recognition certificate has already been issued, to the party to whom the interim gender recognition certificate was issued, by the sheriff under section 4E.]
+
+(2) If an interim gender recognition certificate has been issued to a person and either—
+
+(a) the person’s civil partnership is dissolved or annulled (otherwise than on the ground mentioned in subsection (1)) in proceedings instituted during the period of six months beginning with the day on which it was issued, or
+
+(b) the person’s civil partner dies within that period,
+
+the person may make an application for a full gender recognition certificate at any time within the period specified in subsection (3) (unless the person is again a civil partner or is married).
+
+(3) That period is the period of six months beginning with the day on which the civil partnership is dissolved or annulled or the death occurs.
+
+(4) An application under subsection (2) must include evidence of the dissolution or annulment of the civil partnership and the date on which proceedings for it were instituted, or of the death of the civil partner and the date on which it occurred.
+
+(5) An application under subsection (2) is to be determined by a Gender Recognition Panel.
+
+(6) The Panel—
+
+(a) must grant the application if satisfied that the applicant is neither a civil partner nor married, and
+
+(b) otherwise must reject it.
+
+(7) If the Panel grants the application it must issue a full gender recognition certificate to the applicant.]
+
+## [[^F131]Other provision about applications and certificates]
+
+### [^F132]5B Applications by both civil partners
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F133]5C Protected Scottish civil partnership: applications by both civil partners
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F134]5D Protected Scottish civil partnership: power to make further provision for issue of full certificate
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 6 [[^F135]Errors]
+
+[[^F136](1) Where a gender recognition certificate has been issued to a person, the person or the Secretary of State may make an application for—
+
+(a) an interim gender recognition certificate, on the ground that a full gender recognition certificate has incorrectly been issued instead of an interim certificate;
+
+(b) a full gender recognition certificate, on the ground that an interim gender recognition certificate has incorrectly been issued instead of a full certificate; or
+
+(c) a corrected certificate, on the ground that the certificate which has been issued contains an error.]
+
+(2) If the certificate was issued by a court the application is to be determined by the court but in any other case it is to be determined by a Gender Recognition Panel.
+
+(3) The court or Panel—
+
+[[^F137](a) must grant the application if satisfied that the ground on which the application is made is correct, and]
+
+(b) otherwise must reject it.
+
+(4) If the court or Panel grants the application it must issue [[^F138]a correct, or a corrected,] gender recognition certificate to the applicant.
+
+### 7 Applications: supplementary
+
+(1) An application to a Gender Recognition Panel under section 1(1), [[^F139]4A, ][[^F140]4C, [^F141]...] 5(2) [[^F142], 5A(2)] or 6(1) must be made in a form and manner specified by the Secretary of State after consulting the Scottish Ministers and the Department of Finance and Personnel in Northern Ireland.
+
+(2) The applicant must pay to the Secretary of State a non-refundable fee of an amount prescribed by order made by the Secretary of State unless the application is made in circumstances in which, in accordance with provision made by the order, no fee is payable; and fees of different amounts may be prescribed for different circumstances.
+
+### 8 Appeals etc.
+
+(1) An applicant to a Gender Recognition Panel under section 1(1), [[^F143]4A, ] [[^F144]4C, [^F145]...] 5(2)[[^F146], 5A(2)] or 6(1) may appeal to the High Court[[^F147] , family court] or Court of Session on a point of law against a decision by the Panel to reject the application.
+
+(2) An appeal under subsection (1) must be heard in private if the applicant so requests.
+
+(3) On such an appeal the court must—
+
+(a) allow the appeal and issue the certificate applied for,
+
+(b) allow the appeal and refer the matter to the same or another Panel for re-consideration, or
+
+(c) dismiss the appeal.
+
+(4) If an application under section 1(1) is rejected, the applicant may not make another application before the end of the period of six months beginning with the date on which it is rejected.
+
+(5) If an application under section 1(1), [[^F148]4A,] [[^F149]4C, 4E, [^F150]...] 5(2)[[^F151], 5A(2)] or 6(1) is granted but the Secretary of State considers that its grant was secured by fraud, the Secretary of State may refer the case to the High Court [[^F152] , family court ] or Court of Session.
+
+[[^F153](5A) If an application under section 1(1), 4A, 5(2), 5A(2) or 6(1) is granted, the applicant's spouse [[^F154]or civil partner] may apply to the High Court or Court of Session to quash the decision to grant the application on the grounds that its grant was secured by fraud.]
+
+[[^F155](5B) If an application under section 1(1), 4C, 4E, [^F156]... 5(2), 5A(2) or 6(1) is granted, the applicant's spouse or civil partner may apply to the Court of Session to quash the decision to grant the application on the grounds that its grant was secured by fraud.]
+
+[[^F157](5C) If an application under section 4C is granted, the applicant’s spouse or civil partner may apply to the High Court to quash the decision to grant the application on the grounds that its grant was secured by fraud.]
+
+(6) On a reference under subsection (5) [[^F158]or an application under subsection (5A) ] [[^F159]or an application under subsection (5B)] the court—
+
+(a) must either quash or confirm the decision to grant the application, and
+
+(b) if it quashes it, must revoke the gender recognition certificate issued on the grant of the application and may make any order which it considers appropriate in consequence of, or otherwise in connection with, doing so.
+
+## Consequences of issue of gender recognition certificate etc.
+
+### 9 General
+
+(1) Where a full gender recognition certificate is issued to a person, the person’s gender becomes for all purposes the acquired gender (so that, if the acquired gender is the male gender, the person’s sex becomes that of a man and, if it is the female gender, the person’s sex becomes that of a woman).
+
+(2) Subsection (1) does not affect things done, or events occurring, before the certificate is issued; but it does operate for the interpretation of enactments passed, and instruments and other documents made, before the certificate is issued (as well as those passed or made afterwards).
+
+(3) Subsection (1) is subject to provision made by this Act or any other enactment or any subordinate legislation.
+
+### 10 Registration
+
+(1) Where there is a UK birth register entry in relation to a person to whom a full gender recognition certificate is issued, the Secretary of State must send a copy of the certificate to the appropriate Registrar General.
+
+[[^F160](1A) Where a full gender recognition certificate is issued to a person who is a party to—
+
+(a) a marriage under the law of England and Wales, or
+
+(b) a civil partnership under that law,
+
+the Secretary of State must send a copy of the certificate to the Registrar General for England and Wales.]
+
+[[^F161](1B) Where a full gender recognition certificate is issued by a Gender Recognition Panel or the sheriff to a person who is a party to a protected Scottish marriage or a protected Scottish civil partnership, the Panel must send a copy of the certificate to the Registrar General for Scotland.]
+
+[[^F162](1C) Where a full gender recognition certificate is issued to a person who is a party to—
+
+(a) a marriage under the law of Northern Ireland, or
+
+(b) a civil partnership under the law of Northern Ireland,
+
+the Secretary of State must send a copy of the certificate to the Registrar General for Northern Ireland.]
+
+(2) In this Act “UK birth register entry”, in relation to a person to whom a full gender recognition certificate is issued, means—
+
+(a) an entry of which a certified copy is kept by a Registrar General, or
+
+(b) an entry in a register so kept,
+
+containing a record of the person’s birth or adoption (or, if there would otherwise be more than one, the most recent).
+
+(3) “The appropriate Registrar General” means whichever of—
+
+(a) the Registrar General for England and Wales,
+
+(b) the Registrar General for Scotland, or
+
+(c) the Registrar General for Northern Ireland,
+
+keeps a certified copy of the person’s UK birth register entry or the register containing that entry.
+
+(4) Schedule 3 (provisions about registration) has effect.
+
+### 11 Marriage
+
+Schedule 4 (amendments of marriage law) has effect.
+
+### 11A [[^F163]Change in gender of party to marriage
+
+(1) This section applies in relation to a protected marriage if (by virtue of section 4(2)(b) or 4A) a full gender recognition certificate is issued to a party to the marriage.
+
+(2) The continuity of the protected marriage is not affected by the relevant change in gender.
+
+(3) If the protected marriage is a foreign marriage—
+
+(a) the continuity of the marriage continues by virtue of subsection (2) notwithstanding any impediment under the proper law of the marriage;
+
+(b) the proper law of the marriage is not affected by its continuation by virtue of subsection (2).
+
+(4) In this section—
+
+- “foreign marriage” means a marriage under the law of a country or territory outside the United Kingdom;
+- “impediment” means anything which affects the continuation of a marriage merely by virtue of the relevant change in gender;
+- “proper law”, in relation to a protected marriage, means the law of the country or territory under which the marriage was entered into;
+- “relevant change in gender” means the change or changes of gender occurring by virtue of the issue of the full gender recognition certificate or certificates. ]
+
+### 11B [[^F164]Change in gender of civil partner
+
+(1) This section applies in relation to a protected civil partnership if (by virtue of section 4(2)(c) or 4A) a full gender recognition certificate is issued to a party to the partnership.
+
+(2) The continuity of the protected civil partnership is not affected by the relevant change in gender.
+
+(3) If the protected civil partnership is a protected overseas relationship—
+
+(a) the continuity of the civil partnership continues by virtue of subsection (2) notwithstanding any impediment under the relevant law;
+
+(b) the relevant law is not affected by the continuation of the civil partnership by virtue of subsection (2).
+
+(4) In this section—
+
+- “impediment” means anything which would affect the continuation of the overseas relationship merely by virtue of the relevant change in gender;
+- “relevant change in gender” means the change or changes in gender occurring by virtue of the issue of the full gender recognition certificate or certificates;
+- “relevant law”, in relation to the protected overseas relationship in question, has the same meaning as in Chapter 2 of Part 5 of the Civil Partnership Act 2004.]
+
+### [[^F165]11C Continuity of marriage: Scotland
+
+(1) This section applies in relation to a protected Scottish marriage if (by virtue of section 4(3C)(a), 4C or 4E) a full gender recognition certificate is issued to a party to the marriage.
+
+(2) The continuity of the protected Scottish marriage is not affected by the issuing of a full gender recognition certificate.
+
+### 11D Continuity of civil partnership: Scotland
+
+The continuity of a protected Scottish civil partnership is not affected by the issuing of [[^F166]a full gender recognition certificate to either (or both) of the civil partners.]]
+
+### 12 Parenthood
+
+The fact that a person’s gender has become the acquired gender under this Act does not affect the status of the person as the father or mother of a child.
+
+### 13 Social security benefits and pensions
+
+Schedule 5 (entitlement to benefits and pensions) has effect.
+
+### 14 Discrimination
+
+Schedule 6 (amendments of Sex Discrimination Act 1975 (c. 65) and Sex Discrimination (Northern Ireland) Order 1976 (S.I. 1976/1042 (N.I. 15))) has effect.
+
+### 15 Succession etc.
+
+The fact that a person’s gender has become the acquired gender under this Act does not affect the disposal or devolution of property under a will or other instrument made before the appointed day.
+
+### 16 Peerages etc.
+
+The fact that a person’s gender has become the acquired gender under this Act—
+
+(a) does not affect the descent of any peerage or dignity or title of honour, and
+
+(b) does not affect the devolution of any property limited (expressly or not) by a will or other instrument to devolve (as nearly as the law permits) along with any peerage or dignity or title of honour unless an intention that it should do so is expressed in the will or other instrument.
+
+### 17 Trustees and personal representatives
+
+(1) A trustee or personal representative is not under a duty, by virtue of the law relating to trusts or the administration of estates, to enquire, before conveying or distributing any property, whether a full gender recognition certificate has been issued to any person or revoked (if that fact could affect entitlement to the property).
+
+(2) A trustee or personal representative is not liable to any person by reason of a conveyance or distribution of the property made without regard to whether a full gender recognition certificate has been issued to any person or revoked if the trustee or personal representative has not received notice of the fact before the conveyance or distribution.
+
+(3) This section does not prejudice the right of a person to follow the property, or any property representing it, into the hands of another person who has received it unless that person has purchased it for value in good faith and without notice.
+
+### 18 Orders where expectations defeated
+
+(1) This section applies where the disposition or devolution of any property under a will or other instrument (made on or after the appointed day) is different from what it would be but for the fact that a person’s gender has become the acquired gender under this Act.
+
+(2) A person may apply to the High Court or Court of Session for an order on the ground of being adversely affected by the different disposition or devolution of the property.
+
+(3) The court may, if it is satisfied that it is just to do so, make in relation to any person benefiting from the different disposition or devolution of the property such order as it considers appropriate.
+
+(4) An order may, in particular, make provision for—
+
+(a) the payment of a lump sum to the applicant,
+
+(b) the transfer of property to the applicant,
+
+(c) the settlement of property for the benefit of the applicant,
+
+(d) the acquisition of property and either its transfer to the applicant or its settlement for the benefit of the applicant.
+
+(5) An order may contain consequential or supplementary provisions for giving effect to the order or for ensuring that it operates fairly as between the applicant and the other person or persons affected by it; and an order may, in particular, confer powers on trustees.
+
+### [^F167]19 [^F167]Sport
+
+[^F167]1 [^F167]A body responsible for regulating the participation of persons as competitors in an event or events involving a gender-affected sport may, if subsection (2) is satisfied, prohibit or restrict the participation as competitors in the event or events of persons whose gender has become the acquired gender under this Act.
+
+[^F167]2 [^F167]This subsection is satisfied if the prohibition or restriction is necessary to secure—
+
+[^F167]a [^F167]fair competition, or
+
+[^F167]b [^F167]the safety of competitors,
+
+[^F167]at the event or events.
+
+[^F167]3 [^F167]“[^F167]Sport[^F167]” means a sport, game or other activity of a competitive nature.
+
+[^F167]4 [^F167]A sport is a gender-affected sport if the physical strength, stamina or physique of average persons of one gender would put them at a disadvantage to average persons of the other gender as competitors in events involving the sport.
+
+[^F167]5 [^F167]This section does not affect—
+
+[^F167]a [^F167]section 44 of the Sex Discrimination Act 1975 (c. 65) (exception from Parts 2 to 4 of that Act for acts related to sport), or
+
+[^F167]b [^F167] Article 45 of the Sex Discrimination (Northern Ireland) Order 1976 ( [^F167]S.I.[^F167] 1976/1042 (N.I. 15)) (corresponding provision for Northern Ireland).
+
+### 20 Gender-specific offences
+
+(1) Where (apart from this subsection) a relevant gender-specific offence could be committed or attempted only if the gender of a person to whom a full gender recognition certificate has been issued were not the acquired gender, the fact that the person’s gender has become the acquired gender does not prevent the offence being committed or attempted.
+
+(2) An offence is a “relevant gender-specific offence” if—
+
+(a) either or both of the conditions in subsection (3) are satisfied, and
+
+(b) the commission of the offence involves the accused engaging in sexual activity.
+
+(3) The conditions are—
+
+(a) that the offence may be committed only by a person of a particular gender, and
+
+(b) that the offence may be committed only on, or in relation to, a person of a particular gender,
+
+and the references to a particular gender include a gender identified by reference to the gender of the other person involved.
+
+### 21 Foreign gender change and marriage
+
+(1) A person’s gender is not to be regarded as having changed by reason only that it has changed under the law of a country or territory outside the United Kingdom.
+
+[^F168]1A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F169]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F169]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F169]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F169]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6) Nothing in this section prevents the exercise of any [[^F170]right which forms part of [[^F171]assimilated] law by virtue of section 3 [^F172]... of the European Union (Withdrawal) Act 2018].
+
+## Supplementary
+
+### 22 Prohibition on disclosure of information
+
+(1) It is an offence for a person who has acquired protected information in an official capacity to disclose the information to any other person.
+
+(2) “Protected information” means information which relates to a person who has made an application under section 1(1) and which—
+
+(a) concerns that application or any application by the person [^F173]under section [^F173][[^F174]4A,] [^F173][[^F175]4C, 4F,][^F173] 5(2)[^F173][[^F176], 5A(2)][^F173] or 6(1) [[^F173]under any other section of this Act], or
+
+(b) if the application under section 1(1) is granted, otherwise concerns the person’s gender before it becomes the acquired gender.
+
+(3) A person acquires protected information in an official capacity if the person acquires it—
+
+(a) in connection with the person’s functions as a member of the civil service, a constable or the holder of any other public office or in connection with the functions of a local or public authority or of a voluntary organisation,
+
+(b) as an employer, or prospective employer, of the person to whom the information relates or as a person employed by such an employer or prospective employer, or
+
+(c) in the course of, or otherwise in connection with, the conduct of business or the supply of professional services.
+
+(4) But it is not an offence under this section to disclose protected information relating to a person if—
+
+(a) the information does not enable that person to be identified,
+
+(b) that person has agreed to the disclosure of the information,
+
+(c) the information is protected information by virtue of subsection (2)(b) and the person by whom the disclosure is made does not know or believe that a full gender recognition certificate has been issued,
+
+(d) the disclosure is in accordance with an order of a court or tribunal,
+
+(e) the disclosure is for the purpose of instituting, or otherwise for the purposes of, proceedings before a court or tribunal,
+
+(f) the disclosure is for the purpose of preventing or investigating crime,
+
+(g) the disclosure is made to the Registrar General for England and Wales, the Registrar General for Scotland or the Registrar General for Northern Ireland,
+
+(h) the disclosure is made for the purposes of the social security system or a pension scheme,
+
+(i) the disclosure is in accordance with provision made by an order under subsection (5), or
+
+(j) the disclosure is in accordance with any provision of, or made by virtue of, an enactment other than this section.
+
+(5) The Secretary of State may by order make provision prescribing circumstances in which the disclosure of protected information is not to constitute an offence under this section.
+
+(6) The power conferred by subsection (5) is exercisable by the Scottish Ministers (rather than the Secretary of State) where the provision to be made is within the legislative competence of the Scottish Parliament.
+
+[[^F177](6A) The power conferred by subsection (5) is exercisable by the Department of Justice in Northern Ireland (rather than the Secretary of State) where the provision to be made could be made by an Act of the Northern Ireland Assembly without the consent of the Secretary of State (see sections 6 to 8 of the Northern Ireland Act 1998).]
+
+(7) An order under subsection (5) may make provision permitting—
+
+(a) disclosure to specified persons or persons of a specified description,
+
+(b) disclosure for specified purposes,
+
+(c) disclosure of specified descriptions of information, or
+
+(d) disclosure by specified persons or persons of a specified description.
+
+(8) A person guilty of an offence under this section is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+### 23 Power to modify statutory provisions
+
+(1) The Secretary of State may by order make provision for modifying the operation of any enactment or subordinate legislation in relation to—
+
+(a) persons whose gender has become the acquired gender under this Act, or
+
+(b) any description of such persons.
+
+(2) The power conferred by subsection (1) is exercisable by the Scottish Ministers (rather than the Secretary of State) where the provision to be made is within the legislative competence of the Scottish Parliament.
+
+(3) The appropriate Northern Ireland department may by order make provision for modifying the operation of any enactment or subordinate legislation which deals with a transferred matter in relation to—
+
+(a) persons whose gender has become the acquired gender under this Act, or
+
+(b) any description of such persons.
+
+(4) In subsection (3)—
+
+- “the appropriate Northern Ireland department”, in relation to any enactment or subordinate legislation which deals with a transferred matter, means the Northern Ireland department which has responsibility for that matter,
+- “deals with” is to be construed in accordance with section 98(2) and (3) of the Northern Ireland Act 1998 (c. 47), and
+- “transferred matter” has the meaning given by section 4(1) of that Act.
+
+(5) Before an order is made under this section, appropriate consultation must be undertaken with persons likely to be affected by it.
+
+### 24 Orders and regulations
+
+(1) Any power of the Secretary of State, [^F178]..., the Scottish Ministers or a Northern Ireland department to make an order under this Act includes power to make any appropriate incidental, supplementary, consequential or transitional provision or savings.
+
+(2) Any power of the Secretary of State, [^F178]... or the Scottish Ministers to make an order under this Act, and any power of the Registrar General for England and Wales or the Registrar General for Scotland to make regulations under this Act, is exercisable by statutory instrument.
+
+(3) No order may be made under section 2 [^F179]... unless a draft of the statutory instrument containing the order has been laid before, and approved by a resolution of, each House of Parliament.
+
+(4) A statutory instrument containing an order made by the Secretary of State under section 7, 22 or 23 is subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(5) A statutory instrument containing an order made by the Scottish Ministers under section [[^F180]3D(6)(b),] 22 or 23 is subject to annulment in pursuance of a resolution of the Scottish Parliament.
+
+[[^F181](5A) Regulations made by the Registrar General for Scotland under paragraph 20A of Schedule 3 are subject to the negative procedure.
+
+(5B) An order under section 3C(5)(b)(ii) [^F182]... is subject to the affirmative procedure.]
+
+(6) Any power of a Northern Ireland department to make an order or regulations under this Act is exercisable by statutory rule for the purposes of the Statutory Rules (Northern Ireland) Order 1979 (S.I. 1979/1573 (N.I. 12)).
+
+(7) Orders and regulations made by a Northern Ireland department under this Act are subject to negative resolution (within the meaning of section 41(6) of the Interpretation Act (Northern Ireland) 1954 (c. 33 (N.I.))).
+
+### 25 Interpretation
+
+[[^F183](1)] In this Act—
+
+- “the acquired gender” is to be construed in accordance with section 1(2),
+
+- “approved country or territory” has the meaning given by section 2(4),
+
+- “the appointed day” means the day appointed by order under section 26,
+
+- [^F184]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+- “enactment” includes an enactment contained in an Act of the Scottish Parliament or in any Northern Ireland legislation,
+
+- “ full gender recognition certificate ”and “ interim gender recognition certificate ” mean the certificates issued as such under section 4 [[^F185], [^F186]5 or 5A [^F186][[^F186]4C, 4E, 4F, 5, [^F186][[^F187]or 5A]]] and “gender recognition certificate” means either of those sorts of certificate,
+
+- “gender dysphoria” means the disorder variously referred to as gender dysphoria, gender identity disorder and transsexualism,
+
+- “Gender Recognition Panel” (and “Panel”) is to be construed in accordance with Schedule 1,
+
+- [[^F188]“protected civil partnership” [[^F189]means —
+
+  (a) a civil partnership under the law of England and Wales or under the law of Northern Ireland, or
+
+  (b) an overseas relationship that is treated as a civil partnership by virtue of Chapter 2 of Part 5 of the Civil Partnership Act 2004,
+
+  and “protected overseas relationship” means a protected civil partnership within paragraph (b),]
+
+- “ protected marriage ” means—
+
+  (a) a marriage under the law of England and Wales [[^F190]or under the law of Northern Ireland], or
+
+  (b) a marriage under the law of a country or territory outside the United Kingdom,]
+
+- [[^F191]"protected Scottish civil partnership" means a civil partnership registered in Scotland,
+
+- "protected Scottish marriage" means a marriage solemnised in Scotland, ]
+
+- [[^F192] “ registered psychologist ” means a person registered in the part of the register maintained under [[^F193]the Health Professions Order 2001] which relates to practitioner psychologists; ]
+
+- [[^F194] “ statutory declaration of consent ” has the meaning given by section 3(6B)(a), ]
+
+- “ subordinate legislation ” means an Order in Council, an order, rules, regulations, a scheme, a warrant, bye-laws or any other instrument made under an enactment, and
+
+- “ UK birth register entry ” has the meaning given by section 10(2).
+
+[[^F195](2) A civil partnership which was registered outside the United Kingdom under an Order in Council made under Chapter 1 of Part 5 of the Civil Partnership Act 2004 is to be treated for the purposes of this Act as having been registered in Scotland if—
+
+(a) the parties to the civil partnership elected Scotland as the relevant part of the United Kingdom under the Order, and
+
+(b) details of the civil partnership have been sent to the Registrar General for Scotland.
+
+(3) A marriage which was registered outside the United Kingdom under the Foreign Marriage Act 1892 (other than a marriage registered by virtue of section 18 of that Act) is to be treated for the purposes of this Act as having been solemnised in Scotland if details of the marriage have been sent to the Registrar General for Scotland.
+
+(4) A marriage which was solemnised outside the United Kingdom and registered under an Order in Council made under the Registration of Births, Deaths and Marriages (Special Provisions) Act 1957 is to be treated for the purposes of this Act as having been solemnised in Scotland if details of the marriage have been sent to the Registrar General for Scotland.
+
+(5) A consular marriage in relation to which the relevant part of the United Kingdom is Scotland is to be treated for the purposes of this Act as having been solemnised in Scotland.
+
+(6) In subsection (5)—
+
+- “ consular marriage ” means a marriage solemnised in accordance with Part 1 of Schedule 6 to the Marriage (Same Sex Couples) Act 2013 and any Order in Council made under it,
+- “ relevant part of the United Kingdom ”, in relation to such a marriage, means the part of the United Kingdom determined in accordance with paragraph 1(2)(b) of that Part of that Schedule for the purposes of the marriage. ]
+
+### 26 Commencement
+
+Apart from sections 23 to 25, this section and sections 28 and 29, this Act does not come into force until such day as the Secretary of State may appoint by order made after consulting the Scottish Ministers and the Department of Finance and Personnel in Northern Ireland.
+
+### 27 Applications within two years of commencement
+
+(1) This section applies where applications are made under section 1(1)(a) during the period of two years beginning with the appointed day (“the initial period”).
+
+(2) Section 2(1)(a) has effect as if there were inserted at the end “or has undergone surgical treatment for the purpose of modifying sexual characteristics,”.
+
+(3) In the case of an application which—
+
+(a) is made during the first six months of the initial period, or
+
+(b) is made during the rest of the initial period and is based on the applicant having undergone surgical treatment for the purpose of modifying sexual characteristics,
+
+section 2(1)(b) has effect as if for “two” there were substituted “six”.
+
+(4) Subsections (5) and (6) apply in the case of an application to which subsection (3) applies and in the case of an application—
+
+(a) made during the rest of the initial period,
+
+(b) based on the applicant having or having had gender dysphoria, and
+
+(c) including a statutory declaration by the applicant that the applicant has lived in the acquired gender throughout the period of six years ending with the date on which the application is made.
+
+(5) Section 3 has effect as if for subsections (1) to (3) there were substituted—
+
+> (1) An application under section 1(1)(a) must include either—
+>
+> (a) a report made by a registered medical practitioner, or
+>
+> (b) a report made by a [[^F196]registered psychologist] practising in the field of gender dysphoria.
+>
+> (2) Where the application is based on the applicant having or having had gender dysphoria—
+>
+> (a) the reference in subsection (1) to a registered medical practitioner is to one practising in the field of gender dysphoria, and
+>
+> (b) that subsection is not complied with unless the report includes details of the diagnosis of the applicant’s gender dysphoria.
+>
+> (3) Subsection (1) is not complied with in a case where—
+>
+> (a) the applicant has undergone or is undergoing treatment for the purpose of modifying sexual characteristics, or
+>
+> (b) treatment for that purpose has been prescribed or planned for the applicant,
+>
+> unless the report required by that subsection includes details of it.
+
+(6) Paragraph 4(2) of Schedule 1 has effect with the omission of paragraph (b).
+
+### 28 Extent
+
+(1) The following provisions extend only to England and Wales—
+
+(a) Part 1 of Schedule 2,
+
+(b) Part 1 of Schedule 3, and
+
+(c) Part 1 of Schedule 4.
+
+(2) The following provisions extend only to Scotland—
+
+(a) section 24(5),
+
+(b) Part 2 of Schedule 2,
+
+(c) Part 2 of Schedule 3, and
+
+(d) Part 2 of Schedule 4.
+
+(3) The following provisions extend only to England and Wales and Scotland—
+
+(a) paragraphs 12, 14 and 16 of Schedule 5, and
+
+(b) Part 1 of Schedule 6.
+
+(4) The following provisions extend only to Northern Ireland—
+
+(a) section 23(3) and (4),
+
+(b) section 24(6) and (7),
+
+(c) Part 3 of Schedule 2,
+
+(d) Part 3 of Schedule 3,
+
+(e) Part 3 of Schedule 4,
+
+(f) paragraphs 13, 15 and 17 of Schedule 5, and
+
+(g) Part 2 of Schedule 6.
+
+(5) Subject to subsections (1) to (4), this Act extends to Northern Ireland (as well as to England and Wales and Scotland).
+
+### 29 Short title
+
+This Act may be cited as the Gender Recognition Act 2004.
+
+## SCHEDULE 1 — Gender Recognition Panels
+
+*Section 1*
+
+### List of persons eligible to sit
+
+**1** (1) [[^F197]Subject to sub-paragraph (1A), the Lord Chancellor] must, after consulting the Scottish Ministers and the Department of Finance and Personnel in Northern Ireland, make appointments to a list of persons eligible to sit as members of Gender Recognition Panels.
+
+[[^F198](1A) The Lord Chancellor may appoint a person under sub-paragraph (1) only with the concurrence of all of the following—
+
+(a) the Lord Chief Justice of England and Wales;
+
+(b) the Lord President of the Court of Session;
+
+(c) the Lord Chief Justice of Northern Ireland.]
+
+(2) The only persons who may be appointed to the list are persons who—
+
+(a) have a relevant legal qualification (“legal members”), or
+
+(b) are registered medical practitioners or [[^F199]registered psychologists] (“medical members”).
+
+(3) The following have a relevant legal qualification—
+
+(a) a person who has a 7 year general qualification within the meaning of section 71 of the Courts and Legal Services Act 1990 (c. 41),
+
+(b) an advocate or solicitor in Scotland of at least seven years' standing, and
+
+(c) a member of the Bar of Northern Ireland or [[^F200]solicitor of the Court of Judicature of Northern Ireland] of at least seven years' standing.
+
+### President
+
+**2** (1) [[^F201]Subject to sub-paragraph (1A), the Lord Chancellor] must, after consulting the Scottish Ministers and the Department of Finance and Personnel in Northern Ireland—
+
+(a) appoint one of the legal members to be the President of Gender Recognition Panels (“the President”), and
+
+(b) appoint another of the legal members to be the Deputy President of Gender Recognition Panels (“the Deputy President”).
+
+[[^F202](1A) The Lord Chancellor may appoint a person under sub-paragraph (1) only with the concurrence of all of the following—
+
+(a) the Lord Chief Justice of England and Wales;
+
+(b) the Lord President of the Court of Session;
+
+(c) the Lord Chief Justice of Northern Ireland.]
+
+(2) The Deputy President has the functions of the President—
+
+(a) if the President is unavailable, and
+
+(b) during any vacancy in the office of President.
+
+### Tenure of persons appointed to list
+
+**3** Persons on the list—
+
+(a) hold and vacate their appointments in accordance with the terms on which they are appointed, and
+
+(b) are eligible for re-appointment at the end of their period of appointment.
+
+### Membership of Panels
+
+**4** (1) The President must make arrangements for determining the membership of Panels.
+
+(2) The arrangements must ensure that a Panel determining an application under section 1(1)(a) includes—
+
+(a) at least one legal member, and
+
+(b) at least one medical member.
+
+[[^F203](3) But a Panel need not include a medical member when determining an application under section 1(1)(a) for a certificate to be granted in accordance with section 3A.]
+
+[[^F204](4) But a Panel need not include a medical member when determining an application under section 1(1)(a) for a certificate to be granted in accordance with section 3C.]
+
+**5** The arrangements must ensure that a Panel determining an application under section 1(1)(b), 5(2) [[^F205], 5A(2)] or 6(1) includes at least one legal member.
+
+### Procedure
+
+**6** (1) Where a Panel consists of more than one member, either the President or Deputy President or another legal member nominated by the President must preside.
+
+(2) Decisions of a Panel consisting of more than one member may be taken by majority vote (and, if its members are evenly split, the member presiding has a casting vote).
+
+(3) Panels are to determine applications in private.
+
+(4) A Panel must determine an application without a hearing unless the Panel considers that a hearing is necessary.
+
+(5) The President may[^F206]... give directions about the practice and procedure of Panels.
+
+(6) Panels must give reasons for their decisions.
+
+(7) Where a Panel has determined an application, the Secretary of State must communicate to the applicant the Panel’s decision and its reasons for making its decision.
+
+### Staff and facilities
+
+**7** The Secretary of State may make staff and other facilities available to Panels.
+
+### Money
+
+**8** (1) The Secretary of State may pay sums by way of remuneration, allowances and expenses to members of Panels.
+
+(2) The Secretary of State may pay compensation to a person who ceases to be on the list if the Secretary of State thinks it appropriate to do so because of special circumstances.
+
+#### [[^F207]Delegation
+
+**8A** (1) The Lord Chief Justice of England and Wales may nominate a judicial office holder (as defined in section 109(4) of the Constitutional Reform Act 2005) to exercise any of his functions under this Schedule.
+
+(2) The Lord President of the Court of Session may nominate a judge of the Court of Session who is a member of the First or Second Division of the Inner House of that Court to exercise his functions under this Schedule.
+
+(3) The Lord Chief Justice of Northern Ireland may nominate any of the following to exercise his functions under this Schedule—
+
+(a) the holder of one of the offices listed in Schedule 1 to the Justice (Northern Ireland) Act 2002;
+
+(b) a Lord Justice of Appeal (as defined in section 88 of that Act).]
+
+### [[^F208]Tribunals and Inquiries Act 1992]
+
+**9** In Schedule 1 to the Tribunals and Inquiries Act 1992 (c. 53) ([[^F209]tribunals to which that Act applies]), before paragraph 22 insert—
+
+> |  |  |
+> |---|---|
+> | Gender Recognition | 21AA. Gender Recognition Panels constituted under Schedule 1 to the Gender Recognition Act 2004 (c. 7). |
+
+### Disqualification
+
+**10** In Part 3 of Schedule 1 to the House of Commons Disqualification Act 1975 (c. 24) (offices disqualifying person from membership of House of Commons), at the appropriate place insert— “ Person on the list of those eligible to sit as members of a Gender Recognition Panel. ”
+
+**11** In Part 3 of Schedule 1 to the Northern Ireland Assembly Disqualification Act 1975 (c. 25) (offices disqualifying persons from membership of Northern Ireland Assembly), at the appropriate place insert— “ Person on the list of those eligible to sit as members of a Gender Recognition Panel. ”
+
+## SCHEDULE 2 — Interim certificates: marriage
+
+*Section 4*
+
+### Part 1 — England and Wales
+
+**1** The Matrimonial Causes Act 1973 (c. 18) is amended as follows.
+
+**2** In section 12 (grounds on which a marriage celebrated after 31st July 1971 is voidable), after paragraph (f) insert—
+
+> (g) that an interim gender recognition certificate under the Gender Recognition Act 2004 has, after the time of the marriage, been issued to either party to the marriage;
+
+.
+
+**3** In section 13 (bars to relief), after subsection (2) insert—
+
+> (2A) Without prejudice to subsection (1) above, the court shall not grant a decree of nullity by virtue of section 12 above on the ground mentioned in paragraph (g) of that section unless it is satisfied that proceedings were instituted within the period of six months from the date of issue of the interim gender recognition certificate.
+
+**4** (1) Paragraph 11 of Schedule 1 (grounds on which a marriage celebrated before 1st August 1971 is voidable) is amended as follows.
+
+(2) In sub-paragraph (1), after paragraph (d) insert
+
+> or
+>
+> (e) that an interim gender recognition certificate under the Gender Recognition Act 2004 has been issued to either party to the marriage;
+
+.
+
+(3) After sub-paragraph (3) insert—
+
+> (3A) The court shall not grant a decree of nullity in a case falling within sub-paragraph (1)(e) above unless it is satisfied that proceedings were instituted within six months from the date of issue of the interim gender recognition certificate.
+
+### Part 2 — Scotland
+
+**5** The Divorce (Scotland) Act 1976 (c. 39) is amended as follows.
+
+**6** (1) In subsection (1) of section 1 (grounds on which decree of divorce may be granted)—
+
+(a) the words “the marriage has broken down irretrievably” become paragraph (a), and
+
+(b) after that paragraph insert
+
+> or
+>
+> (b) an interim gender recognition certificate under the Gender Recognition Act 2004 has, after the date of the marriage, been issued to either party to the marriage.
+
+(2) Accordingly, the title of that section becomes “ Grounds of divorce ”.
+
+**7** In section 2(1) (encouragement of reconciliation), for “in an action for divorce” substitute “ under paragraph (a) of section 1(1) ”.
+
+### Part 3 — Northern Ireland
+
+**8** The Matrimonial Causes (Northern Ireland) Order 1978 (S.I. 1978/1045 (N.I. 15)) is amended as follows.
+
+**9** In Article 14 (grounds on which a marriage celebrated after the commencement of that Article is voidable), after paragraph (f) insert—
+
+> (g) that an interim gender recognition certificate under the Gender Recognition Act 2004 has, after the time of the marriage, been issued to either party to the marriage;
+
+.
+
+**10** In Article 16 (bars to relief), after paragraph (2) insert—
+
+> (2A) Without prejudice to paragraph (1), the court shall not grant a decree of nullity by virtue of Article 14 on the ground mentioned in paragraph (g) of that Article unless it is satisfied that proceedings were instituted within the period of six months from the date of issue of the interim gender recognition certificate.
+
+**11** (1) Paragraph 18 of Schedule 3 (grounds on which a marriage celebrated before the commencement of Article 14 is voidable) is amended as follows.
+
+(2) In sub-paragraph (1), after paragraph (d) insert
+
+> or
+>
+> (e) that an interim gender recognition certificate under the Gender Recognition Act 2004 has been issued to either party to the marriage;
+
+.
+
+(3) After sub-paragraph (4) insert—
+
+> (4A) The court shall not grant a decree of nullity in a case falling within sub-paragraph (1)(e) unless it is satisfied that proceedings were instituted within six months from the date of issue of the interim gender recognition certificate.
+
+## SCHEDULE 3 — Registration
+
+*Section 10*
+
+### Part 1 — England and Wales
+
+#### Introductory
+
+**1** In this Part—
+
+- “the Registrar General” means the Registrar General for England and Wales, and
+- “the 1953 Act” means the Births and Deaths Registration Act 1953 (c. 20).
+
+#### Gender Recognition Register
+
+**2** (1) The Registrar General must maintain, in the General Register Office, a register to be called the Gender Recognition Register.
+
+(2) In this Part “the Gender Recognition Register” means the register maintained under sub-paragraph (1).
+
+(3) The form in which the Gender Recognition Register is maintained is to be determined by the Registrar General.
+
+(4) The Gender Recognition Register is not to be open to public inspection or search.
+
+#### Entries in Gender Recognition Register and marking of existing birth register entries
+
+**3** (1) If the Registrar General receives under section 10(1) a copy of a full gender recognition certificate issued to a person, the Registrar General must—
+
+(a) make an entry in the Gender Recognition Register containing such particulars as may be prescribed in relation to the person’s birth and any other prescribed matter,
+
+(b) secure that the UK birth register entry is marked in such manner as may be prescribed, and
+
+(c) make traceable the connection between the entry in the Gender Recognition Register and the UK birth register entry.
+
+(2) Sub-paragraph (1) does not apply if the certificate was issued after an application under section 6(1) and that sub-paragraph has already been complied with in relation to the person.
+
+(3) No certified copy of the UK birth register entry and no short certificate of birth compiled from that entry is to include anything marked by virtue of sub-paragraph (1)(b).
+
+(4) Information kept by the Registrar General for the purposes of sub-paragraph (1)(c) is not to be open to public inspection or search.
+
+(5) “Prescribed” means prescribed by regulations made by the Registrar General with the approval of [[^F210]the Secretary of State].
+
+#### Indexing of entries in Gender Recognition Register
+
+**4** (1) The Registrar General must make arrangements for each entry made in the Gender Recognition Register to be included in the relevant index kept in the General Register Office.
+
+(2) Any right to search the relevant index includes the right to search entries included in it by virtue of sub-paragraph (1).
+
+(3) Where by virtue of sub-paragraph (1) an index includes entries in the Gender Recognition Register, the index must not disclose that fact.
+
+(4) “The relevant index”, in relation to an entry made in the Gender Recognition Register in relation to a person, means the index of the certified copies of entries in registers, or of entries in registers, which includes the person’s UK birth register entry.
+
+#### Certified copies of entries in Gender Recognition Register
+
+**5** (1) Anyone who may have a certified copy of the UK birth register entry of a person issued with a full gender recognition certificate may have a certified copy of the entry made in relation to the person in the Gender Recognition Register.
+
+(2) Any fee which would be payable for a certified copy of the person’s UK birth register entry is payable for a certified copy of the entry made in relation to the person in the Gender Recognition Register.
+
+(3) If the person’s UK birth register entry is an entry in the Gender Recognition Register, sub-paragraph (1) applies as if the person’s UK birth register entry were the most recent entry within section 10(2)(a) or (b) containing a record of the person’s birth or adoption which is not an entry in the Gender Recognition Register.
+
+(4) A certified copy of an entry in the Gender Recognition Register must not disclose the fact that the entry is contained in the Gender Recognition Register.
+
+(5) A certified copy of an entry in the Gender Recognition Register must be sealed or stamped with the seal of the General Register Office.
+
+#### Short certificates of birth compiled from Gender Recognition Register
+
+**6** Where a short certificate of birth under section 33 of the 1953 Act is compiled from the Gender Recognition Register, the certificate must not disclose that fact.
+
+#### Gender Recognition Register: re-registration
+
+**7** (1) Section 10A of the 1953 Act (re-registration where parents not married) applies where an entry relating to a person’s birth has been made in the Gender Recognition Register as where the birth of a child has been registered under that Act.
+
+(2) In its application by virtue of sub-paragraph (1) section 10A has effect—
+
+(a) as if the reference to the registrar in subsection (1) were to the Registrar General, and
+
+(b) with the omission of subsection (2).
+
+(3) Sections 14 and 14A of the 1953 Act (re-registration in cases of legitimation and after declaration of parentage) apply where an entry relating to a person’s birth has been made in the Gender Recognition Register as if the references in those sections to the Registrar General authorising re-registration of the person’s birth were to the Registrar General’s re-registering it.
+
+#### Correction etc. of Gender Recognition Register
+
+**8** (1) Any power or duty of the Registrar General or any other person to correct, alter, amend, mark or cancel the marking of a person’s UK birth register entry is exercisable, or falls to be performed, by the Registrar General in relation to an entry in the Gender Recognition Register which—
+
+(a) relates to that person, and
+
+(b) under paragraph 4(1) is included in the index which includes the person’s UK birth register entry.
+
+(2) If the person’s UK birth register entry is an entry in the Gender Recognition Register, the references in sub-paragraph (1) to the person’s UK birth register entry are to the most recent entry within section 10(2)(a) or (b) containing a record of the person’s birth or adoption which is not an entry in the Gender Recognition Register.
+
+(3) The Registrar General may correct the Gender Recognition Register by entry in the margin (without any alteration of the original entry) in consequence of the issue of a full gender recognition certificate after an application under section 6(1).
+
+#### Revocation of gender recognition certificate etc.
+
+**9** (1) This paragraph applies if, after an entry has been made in the Gender Recognition Register in relation to a person, the High Court or the Court of Session makes an order under section 8(6) quashing the decision to grant the person’s application under section 1(1) [[^F211], 5(2) or 5A(2)].
+
+(2) The High Court or the Court of Session must inform the Registrar General.
+
+(3) Subject to any appeal, the Registrar General must—
+
+(a) cancel the entry in the Gender Recognition Register, and
+
+(b) cancel, or secure the cancellation, of any marking of an entry relating to the person made by virtue of paragraph 3(1)(b).
+
+#### Evidence
+
+**10** (1) Section 34(5) of the 1953 Act (certified copy of entry in register under that Act deemed to be true copy) applies in relation to the Gender Recognition Register as if it were a register under that Act.
+
+(2) A certified copy of an entry made in the Gender Recognition Register in relation to a person is to be received, without further or other proof, as evidence—
+
+(a) if the relevant index is the index of the Adopted Children Register, of the matters of which a certified copy of an entry in that Register is evidence,
+
+(b) if the relevant index is the index of the Parental Order Register, of the matters of which a certified copy of an entry in that Register is evidence, and
+
+(c) otherwise, of the person’s birth.
+
+(3) And any certified copy which is receivable in evidence of any matter in Northern Ireland by virtue of paragraph 31(2)(a) or (b) of this Schedule is also receivable as evidence of that matter in England and Wales.
+
+#### Regulatory reform
+
+**11** [^F212]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [[^F213]Registration of marriages and civil partnerships
+
+**11A** (1) The Registrar General may make regulations about—
+
+(a) the registration of qualifying marriages, and
+
+(b) the registration of qualifying civil partnerships.
+
+(2) The regulations may, in particular, provide for the maintenance of—
+
+(a) a separate register in relation to qualifying marriages, and
+
+(b) a separate register in relation to qualifying civil partnerships.
+
+(3) In this paragraph—
+
+- “ qualifying civil partnership ” means a civil partnership under the law of England and Wales in a case where a full gender recognition certificate has been issued to [[^F214]one, or each,] of the civil partners;
+- “ qualifying marriage ” means a marriage under the law of England and Wales in a case where a full gender recognition certificate has been issued to one, or each, of the spouses. ]
+
+### Part 2 — Scotland
+
+#### Introductory
+
+**12** In this Part—
+
+- “the Registrar General” means the Registrar General for Scotland, and
+- “the 1965 Act” means the Registration of Births, Deaths and Marriages (Scotland) Act 1965 (c. 49).
+
+#### Gender Recognition Register
+
+**13** (1) The Registrar General must maintain, in the General Register Office of Births, Deaths and Marriages in Scotland, a register to be called the Gender Recognition Register.
+
+(2) In this Part “the Gender Recognition Register” means the register maintained under sub-paragraph (1).
+
+(3) The form in which the Gender Recognition Register is maintained is to be determined by the Registrar General.
+
+(4) The Gender Recognition Register is not to be open to public inspection or search.
+
+#### Entries in Gender Recognition Register
+
+**14** (1) If the Registrar General receives under section 10(1) a copy of a full gender recognition certificate issued to a person, the Registrar General must—
+
+(a) make an entry in the Gender Recognition Register containing such particulars as may be prescribed in relation to the person’s birth and any other prescribed matter, and
+
+(b) otherwise than by annotating in any way the birth register, make traceable the connection between the UK birth register entry and the entry in the Gender Recognition Register.
+
+(2) Sub-paragraph (1) does not apply if the gender recognition certificate was issued after an application under section 6(1) and that sub-paragraph has already been complied with in relation to the person.
+
+(3) Information kept by the Registrar General for the purposes of sub-paragraph (1)(b) is not to be open to public inspection or search.
+
+(4) “Prescribed” means prescribed by regulations made by the Registrar General with the approval of the Scottish Ministers.
+
+#### Indexing of entries in Gender Recognition Register
+
+**15** (1) The Registrar General must make arrangements for each entry made in the Gender Recognition Register to be included in an index of such entries kept in the General Register Office of Births, Deaths and Marriages in Scotland.
+
+(2) Whenever the Registrar General causes a search to be made under subsection (2)(a) of section 38 of the 1965 Act (search of indexes of entries in the registers of births, deaths and marriages) on behalf of any person, he must also, without payment of any fee additional to the fee or fees prescribed under that section—
+
+(a) cause a search to be made of the index of entries in the Gender Recognition Register on behalf of that person, and
+
+(b) issue to that person an extract of any such entry provided that (disregarding, for the purposes of subsection (4)(j) of section 22, this paragraph) disclosure of the entry to the person would not constitute an offence under that section.
+
+#### Extracts of entries in Gender Recognition Register
+
+**16** (1) This paragraph applies in respect of an extract issued under paragraph 15(2)(b).
+
+(2) Except as regards the sex and name of the person to whom it relates, the extract must have the form and content it would have had had it been an extract from the register of births of the entry relating to that person.
+
+(3) The extract must not disclose the fact that the entry is contained in the Gender Recognition Register.
+
+#### [[^F215]Abbreviated extracts of birth compiled from Gender Recognition Register[^F215]]
+
+**[[^F216]17** Where an abbreviated extract of birth under section 39E [^F217] of the 1965 Act is compiled from the Gender Recognition Register, the extract must not disclose that fact.[^F216]]
+
+#### Gender Recognition Register: correction, re-registration etc.
+
+**18** Section 18A(2) (decrees of parentage and non-parentage), [[^F218]section 20(1)](re-registration in certain cases), section 42(1) and (5) (correction of errors), section 43(1), (2) and (5) to (9) (recording change of name or surname) and section 44 (Register of Corrections etc.) of the 1965 Act apply in relation to the Gender Recognition Register as they apply in relation to the register of births.
+
+#### Revocation of gender recognition certificate etc.
+
+**19** (1) This paragraph applies if, after an entry has been made in the Gender Recognition Register in relation to a person, the High Court or the Court of Session makes an order under section 8(6) quashing the decision to grant the person’s application under section 1(1) [[^F219]4C, 4E, [^F220]...] [[^F221], 5(2) or 5A(2)].
+
+(2) The High Court or the Court of Session must inform the Registrar General.
+
+(3) Subject to any appeal, the Registrar General must cancel the entry in the Gender Recognition Register.
+
+#### Authentication and admissibility
+
+**20** [[^F222] sections 41 and 41A ][^F223] of the 1965 Act (authentication of extracts etc. and their admissibility as evidence) [[^F224]apply] in relation to the Gender Recognition Register as in relation to the registers kept under the provisions of that Act.
+
+**[[^F225]20A** (1) The Registrar General may, with the approval of the Scottish Ministers, make regulations about—
+
+(a) the registration of qualifying Scottish marriages, and
+
+(b) the registration of qualifying Scottish civil partnerships.
+
+(2) Regulations under sub-paragraph (1) may in particular make provision for fees to be payable in respect of things done under the regulations.
+
+(3) Regulations under sub-paragraph (1) may make different provision for different cases or circumstances.
+
+(4) In this paragraph—
+
+- “qualifying Scottish civil partnership” means a civil partnership registered in Scotland in a case where a full gender recognition certificate has been issued to [[^F226]one, or each,] of the civil partners,
+- “ qualifying Scottish marriage ” means a marriage solemnised in Scotland in a case where a full gender recognition certificate has been issued to one, or each, of the spouses. ]
+
+### Part 3 — Northern Ireland
+
+#### Introductory
+
+**21** In this Part—
+
+- “the Registrar General” means the Registrar General for Northern Ireland, and
+- “the 1976 Order” means the Births and Deaths Registration (Northern Ireland) Order 1976 (S.I. 1976/1041 (N.I. 14)).
+
+#### Gender Recognition Register
+
+**22** (1) The Registrar General must maintain, in the General Register Office in Northern Ireland, a register to be called the Gender Recognition Register.
+
+(2) In this Part “the Gender Recognition Register” means the register maintained under sub-paragraph (1).
+
+(3) The form in which the Gender Recognition Register is maintained is to be determined by the Registrar General.
+
+(4) [[^F227]Subject to sub-paragraph (5), the] Gender Recognition Register is not to be open to public inspection or search.
+
+[[^F228](5) The Department of Finance and Personnel may by regulations make provision for any person to have access, on payment of the prescribed fee, to any information contained in the Gender Recognition Register.
+
+(6) Regulations under sub-paragraph (5) may provide that the relevant period must have expired in relation to the information.
+
+(7) In sub-paragraph (6) “ the relevant period ” in relation to information relating to a person means the period of 100 years from the date of that person's birth or such other period as may be prescribed.
+
+(8) Regulations under sub-paragraph (5) may provide for the Registrar General—
+
+(a) to make arrangements with any person for the purpose of providing access to information as mentioned in that sub-paragraph; and
+
+(b) for that purpose to transfer information to that person subject to conditions (including conditions as to the making of payments by that person to the Registrar General).]
+
+#### Entries in Gender Recognition Register and marking of existing birth register entries
+
+**23** (1) If the Registrar General receives under section 10(1) a copy of a full gender recognition certificate issued to a person, the Registrar General must—
+
+(a) make an entry in the Gender Recognition Register containing such particulars as may be prescribed in relation to the person’s birth and any other prescribed matter,
+
+(b) secure that the UK birth register entry is marked in such manner as may be prescribed, and
+
+(c) make traceable the connection between the entry in the Gender Recognition Register and the UK birth register entry.
+
+(2) Sub-paragraph (1) does not apply if the gender recognition certificate was issued after an application under section 6(1) and that sub-paragraph has already been complied with in relation to the person.
+
+(3) No certified copy of the UK birth register entry and no short certificate of birth compiled from that entry is to include anything marked by virtue of sub-paragraph (1)(b).
+
+(4) Information kept by the Registrar General for the purposes of sub-paragraph (1)(c) is not to be open to public inspection or search.
+
+(5) “Prescribed” means prescribed by regulations made by the Department of Finance and Personnel.
+
+#### Indexing of entries in Gender Recognition Register
+
+**24** (1) The Registrar General must make arrangements for each entry made in the Gender Recognition Register to be included in the relevant index kept in the General Register Office in Northern Ireland.
+
+(2) Any right to search the relevant index includes the right to search entries included in it by virtue of sub-paragraph (1).
+
+(3) Where by virtue of sub-paragraph (1) an index includes entries in the Gender Recognition Register, the index must not disclose that fact.
+
+(4) “The relevant index”, in relation to an entry made in the Gender Recognition Register in relation to a person, means the index of the entries in registers which includes the UK birth register entry.
+
+#### Certified copies of entries in Gender Recognition Register
+
+**25** (1) Anyone who may have a certified copy of the UK birth register entry of a person issued with a full gender recognition certificate may have a certified copy of the entry made in relation to the person in the Gender Recognition Register.
+
+(2) Any fee which would be payable for a certified copy of the person’s UK birth register entry is payable for a certified copy of the entry made in relation to the person in the Gender Recognition Register.
+
+(3) If the person’s UK birth register entry is an entry in the Gender Recognition Register, sub-paragraph (1) applies as if the person’s UK birth register entry were the most recent entry within section 10(2)(a) or (b) containing a record of the person’s birth or adoption which is not an entry in the Gender Recognition Register.
+
+(4) A certified copy of an entry in the Gender Recognition Register must not disclose the fact that the entry is contained in the Gender Recognition Register.
+
+(5) A certified copy of an entry in the Gender Recognition Register must be sealed or stamped with the seal of the General Register Office in Northern Ireland.
+
+#### Short certificates of birth compiled from Gender Recognition Register
+
+**26** Where a short certificate of birth under Article 40 of the 1976 Order is compiled from the Gender Recognition Register, the certificate must not disclose that fact.
+
+#### Gender Recognition Register: re-registration
+
+**27** Articles 18, 19 and 19A of the 1976 Order (re-registration of births) apply where an entry relating to a person’s birth has been made in the Gender Recognition Register as if the references in those Articles to the Registrar General authorising re-registration of the person’s birth were to the Registrar General’s re-registering it.
+
+#### Correction of errors in Gender Recognition Register
+
+**28** (1) Any power or duty of the Registrar General to correct, alter, amend, mark or cancel the marking of a person’s UK birth register entry is exercisable, or falls to be performed, by the Registrar General in relation to an entry in the Gender Recognition Register which—
+
+(a) relates to that person, and
+
+(b) under paragraph 24(1) is included in the index which includes the person’s UK birth register entry.
+
+(2) If the person’s UK birth register entry is an entry in the Gender Recognition Register, the references in sub-paragraph (1) to the person’s UK birth register entry are to the most recent entry within section 10(2)(a) or (b) containing a record of the person’s birth or adoption which is not an entry in the Gender Recognition Register.
+
+(3) The Registrar General may correct the Gender Recognition Register by entry in the margin (without any alteration of the original entry) in consequence of the issue of a full gender recognition certificate after an application under section 6(1).
+
+#### Revocation of gender recognition certificate etc.
+
+**29** (1) This paragraph applies if, after an entry has been made in the Gender Recognition Register in relation to a person, the High Court or the Court of Session makes an order under section 8(6) quashing the decision to grant the person’s application under section 1(1) [[^F229], 5(2) or 5A(2)].
+
+(2) The High Court or the Court of Session must inform the Registrar General.
+
+(3) Subject to any appeal, the Registrar General must—
+
+(a) cancel the entry in the Gender Recognition Register, and
+
+(b) cancel, or secure the cancellation of, any marking of an entry relating to the person made by virtue of paragraph 23(1)(b).
+
+#### Change of name
+
+**30** Paragraphs (4) to (6) of Article 37 of the 1976 Order (change of name) apply in relation to the Gender Recognition Register as they apply in relation to a register under that Order.
+
+#### Evidence
+
+**31** (1) Article 42 of the 1976 Order (proof of age or death) applies in relation to the Gender Recognition Register as it applies in relation to a register under that Order.
+
+(2) A certified copy of an entry made in the Gender Recognition Register in relation to a person is to be received, without further or other proof, as evidence—
+
+(a) if the relevant index is the index of the Adopted Children Register, of the matters of which a certified copy of an entry in that Register is evidence,
+
+(b) if the relevant index is the index of the Parental Order Register, of the matters of which a certified copy of an entry in that Register is evidence, and
+
+(c) otherwise, of the person’s birth.
+
+(3) And any certified copy which is receivable in evidence of any matter in England and Wales by virtue of paragraph 10(2)(a) or (b) of this Schedule is also receivable as evidence of that matter in Northern Ireland.
+
+#### Fees
+
+**32** Article 47 of the 1976 Order (fees for searches, certificates etc.) applies in relation to the Gender Recognition Register as it applies in relation to a register under that Order.
+
+#### [[^F230]Registration of marriages and civil partnerships
+
+**33** (1) The Department of Finance in Northern Ireland may by regulations make provision about—
+
+(a) the registration of qualifying marriages, and
+
+(b) the registration of qualifying civil partnerships.
+
+(2) Regulations under sub-paragraph (1) may, in particular, make provision for—
+
+(a) the maintenance of—
+
+(i) a separate register in relation to qualifying marriages, and
+
+(ii) a separate register in relation to qualifying civil partnerships;
+
+(b) fees to be payable in respect of things done under the regulations.
+
+(3) Regulations under sub-paragraph (1) may make different provision for different cases or circumstances.
+
+(4) In this paragraph—
+
+- “qualifying civil partnership” means a civil partnership under the law of Northern Ireland in a case where a full gender recognition certificate has been issued to one, or each, of the civil partners;
+- “qualifying marriage” means a marriage under the law of Northern Ireland in a case where a full gender recognition certificate has been issued to one, or each, of the spouses.]
+
+## SCHEDULE 4 — Effect on marriage
+
+*Section 11*
+
+### Part 1 — England and Wales
+
+#### Marriage Act 1949 (c. 76)
+
+**1** The Marriage Act 1949 is amended as follows.
+
+**2** [^F231]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**3** After section 5A insert—
+
+> **Marriages involving person of acquired gender**
+>
+> **5B** (1) A clergyman is not obliged to solemnise the marriage of a person if the clergyman reasonably believes that the person’s gender has become the acquired gender under the Gender Recognition Act 2004.
+>
+> (2) A clerk in Holy Orders of the Church in Wales is not obliged to permit the marriage of a person to be solemnised in the church or chapel of which the clerk is the minister if the clerk reasonably believes that the person’s gender has become the acquired gender under that Act.
+
+#### Matrimonial Causes Act 1973 (c. 18)
+
+**4** The Matrimonial Causes Act 1973 is amended as follows.
+
+**5** In section 12 (grounds on which a marriage celebrated after 31st July 1971 is voidable), insert at the end—
+
+> (h) that the respondent is a person whose gender at the time of the marriage had become the acquired gender under the Gender Recognition Act 2004.
+
+**6** In section 13(2), (3) and (4) (bars to relief), for “or (f)” substitute “ , (f) or (h) ”.
+
+### Part 2 — Scotland
+
+#### Marriage (Scotland) Act 1977 (c. 15)
+
+**7** In section 2 of the Marriage (Scotland) Act 1977 (marriage of related persons), insert at the end—
+
+> (6) Subsections (1A) and (1B) above and paragraphs 2 and 2A of Schedule 1 to this Act have effect subject to the following modifications in the case of a party to a marriage whose gender has become the acquired gender under the Gender Recognition Act 2004 (“the relevant person”).
+>
+> (7) Any reference in those provisions to a former wife or former husband of the relevant person includes (respectively) any former husband or former wife of the relevant person.
+>
+> (8) And—
+>
+> (a) the reference in paragraph (b) of subsection (1B) above to the relevant person’s son’s mother is to the relevant person’s son’s father if the relevant person is the son’s mother; and
+>
+> (b) the reference in paragraph (d) of that subsection to the relevant person’s daughter’s father is to the relevant person’s daughter’s mother if the relevant person is the daughter’s father.
+
+### Part 3 — Northern Ireland
+
+#### Family Law (Miscellaneous Provisions) (Northern Ireland) Order 1984 (S.I. 1984/1984 (N.I. 14))
+
+**8** [^F232]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Matrimonial Causes (Northern Ireland) Order 1978 (S.I. 1978/1045 (N.I. 15))
+
+**9** The Matrimonial Causes (Northern Ireland) Order 1978 is amended as follows.
+
+**10** In Article 14 (grounds on which a marriage celebrated after the commencement of that Article is voidable), insert at the end—
+
+> (h) that the respondent is a person whose gender at the time of the marriage had become the acquired gender under the Gender Recognition Act 2004.
+
+**11** In Article 16(2), (3) and (4) (bars to relief), for “or (f)” substitute “ , (f) or (h) ”.
+
+## SCHEDULE 5 — Benefits and pensions
+
+*Section 13*
+
+### Part 1 — Introductory
+
+**1** This Schedule applies where a full gender recognition certificate is issued to a person.
+
+### Part 2 — State benefits
+
+#### Introductory
+
+**2** (1) In this Part of this Schedule “the 1992 Act” means—
+
+(a) in England and Wales and Scotland, the Social Security Contributions and Benefits Act 1992 (c. 4), and
+
+(b) in Northern Ireland, the Social Security Contributions and Benefits (Northern Ireland) Act 1992 (c. 7).
+
+(2) In this Part of this Schedule “the Administration Act” means—
+
+(a) in England and Wales and Scotland, the Social Security Administration Act 1992 (c. 5), and
+
+(b) in Northern Ireland, the Social Security Administration (Northern Ireland) Act 1992 (c. 8).
+
+(3) Expressions used in this Part of this Schedule and in Part 2 of the 1992 Act have the same meaning in this Part of this Schedule as in Part 2 of the 1992 Act.
+
+#### Widowed mother’s allowance
+
+**3** (1) If (immediately before the certificate is issued) the person is, or but for section 1 of the Administration Act would be, entitled to a widowed mother’s allowance under section 37 of the 1992 Act (allowance for woman whose husband died before 9th April 2001)—
+
+(a) the person is not entitled to that allowance afterwards, but
+
+(b) (instead) subsections (2) to (5) of section 39A of the 1992 Act (widowed parent’s allowance) apply in relation to the person.
+
+(2) If (immediately before the certificate is issued) the person is (actually) entitled to a widowed mother’s allowance, the entitlement to widowed parent’s allowance conferred by sub-paragraph (1) is not subject to section 1 of the Administration Act.
+
+#### Widow’s pension
+
+**4** If (immediately before the certificate is issued) the person is entitled to a widow’s pension under section 38 of the 1992 Act (pension for woman whose husband died before 9th April 2001), the person is not entitled to that pension afterwards.
+
+#### Widowed parent’s allowance
+
+**5** If (immediately before the certificate is issued) the person is, or but for section 1 of the Administration Act would be, entitled to a widowed parent’s allowance by virtue of subsection (1)(b) of section 39A of the 1992 Act (allowance for man whose wife died before 9th April 2001), subsections (2) to (5) of that section continue to apply in relation to the person afterwards.
+
+#### Long-term incapacity benefit etc.
+
+**6** If (immediately before the certificate is issued) the person is entitled to incapacity benefit, or a Category A retirement pension, under—
+
+(a) section 40 of the 1992 Act (long-term incapacity benefit etc. for woman whose husband died before 9th April 2001), or
+
+(b) section 41 of the 1992 Act (long-term incapacity benefit etc. for man whose wife died before that date),
+
+the person is not so entitled afterwards.
+
+#### [[^F233]Pension under Part 1 of the Pensions Act 2014
+
+**6A** (1) Any question—
+
+(a) whether the person is entitled to a state pension under Part 1 of the Pensions Act 2014 for any period after the certificate is issued, and
+
+(b) (if so) the rate at which the person is so entitled for the period,
+
+is to be decided as if the person's gender were the acquired gender.
+
+(2) Accordingly, if (immediately before the certificate is issued) the person—
+
+(a) is a woman entitled to a state pension under Part 1 of the Pensions Act 2014, but
+
+(b) has not attained the age of 65,
+
+the person ceases to be so entitled when it is issued.
+
+(3) And, conversely, if (immediately before the certificate is issued) the person—
+
+(a) is a man who has attained the age at which a woman of the same age attains pensionable age, but
+
+(b) has not attained the age of 65,
+
+the person is to be treated for the purposes of Part 1 of the Pensions Act 2014 as attaining pensionable age when it is issued.
+
+(4) But sub-paragraph (1) does not apply if and to the extent that the decision of any question to which it refers is affected by the payment or crediting of contributions, or the crediting of earnings, in respect of a period ending before the certificate is issued.
+
+(5) If the person's acquired gender is the male gender, sections 11 and 12 of, and Schedules 6 and 7 to, the Pensions Act 2014 (effect of reduced rate elections) apply in relation to the person as they apply in relation to a woman (but only once the person has reached pensionable age for a man).
+
+(6) Paragraph 10 makes provision about deferment of state pensions under Part 1 of the Pensions Act 2014.]
+
+#### [[^F234]Pension under Part 1 of the Pensions Act (Northern Ireland) 2015
+
+**6B** (1) Any question—
+
+(a) whether the person is entitled to a state pension under Part 1 of the Pensions Act (Northern Ireland) 2015 for any period after the certificate is issued, and
+
+(b) (if so) the rate at which the person is so entitled for the period,
+
+is to be decided as if the person's gender were the acquired gender.
+
+(2) Accordingly, if (immediately before the certificate is issued) the person—
+
+(a) is a woman entitled to a state pension under Part 1 of the Pensions Act (Northern Ireland) 2015, but
+
+(b) has not attained the age of 65,
+
+the person ceases to be so entitled when it is issued.
+
+(3) And, conversely, if (immediately before the certificate is issued) the person—
+
+(a) is a man who has attained the age at which a woman of the same age attains pensionable age, but
+
+(b) has not attained the age of 65,
+
+the person is to be treated for the purposes of Part 1 of the Pensions Act (Northern Ireland) 2015 as attaining pensionable age when it is issued.
+
+(4) But sub-paragraph (1) does not apply if and to the extent that the decision of any question to which it refers is affected by the payment or crediting of contributions, or the crediting of earnings, in respect of a period ending before the certificate is issued.
+
+(5) If the person's acquired gender is the male gender, sections11 and 12 of, and Schedules 6 and 7 to, the Pensions Act (Northern Ireland) 2015 (effect of reduced rate elections) apply in relation to the person as they apply in relation to a woman (but only once the person has reached pensionable age for a man).
+
+(6) Paragraph 10 makes provision about deferment of state pensions under Part1 of the Pensions Act (Northern Ireland) 2015.]
+
+#### Category A retirement pension
+
+**7** (1) Any question—
+
+(a) whether the person is entitled to a Category A retirement pension (under section 44 of the 1992 Act) for any period after the certificate is issued, and
+
+(b) (if so) the rate at which the person is so entitled for the period,
+
+is to be decided as if the person’s gender had always been the acquired gender [[^F235](but this is subject to sub-paragraph (3)) ] .
+
+(2) Accordingly, if (immediately before the certificate is issued) the person—
+
+(a) is a woman entitled to a Category A retirement pension, but
+
+(b) has not attained the age of 65,
+
+the person ceases to be so entitled when it is issued.
+
+(3) And, conversely, if (immediately before the certificate is issued) the person—
+
+(a) is a man who has attained the age at which a woman of the same age attains pensionable age, but
+
+(b) has not attained the age of 65,
+
+the person is to be treated for the purposes of section 44 of the 1992 Act as attaining pensionable age when it is issued.
+
+(4) But sub-paragraph (1) does not apply if and to the extent that the decision of any question to which it refers is affected by—
+
+(a) the payment or crediting of contributions, or the crediting of earnings, in respect of a period ending before the certificate is issued, or
+
+(b) preclusion from regular employment by responsibilities at home for such a period.
+
+(5) Paragraph 10 makes provision about deferment of Category A retirement pensions.
+
+#### Category B retirement pension etc.
+
+**8** (1) Any question whether the person is entitled to—
+
+(a) a Category B retirement pension (under section 48A, [[^F236]48AA, ] 48B, 48BB or 51 of the 1992 Act), or
+
+(b) an increase in a Category A retirement pension under section 51A or 52 of the 1992 Act (increase in Category A retirement pension by reference to amount of Category B retirement pension),
+
+for any period after the certificate is issued is (in accordance with section 9(1)) to be decided as if the person’s gender were the acquired gender (but subject to sub-paragraph (4)).
+
+(2) Accordingly, if (immediately before the certificate is issued) the person is a woman entitled to—
+
+(a) a Category B retirement pension, or
+
+(b) an increase in a Category A retirement pension under section 51A or 52 of the 1992 Act,
+
+the person may cease to be so entitled when it is issued.
+
+(3) And, conversely, if (immediately before the certificate is issued) the person—
+
+(a) is a man who has attained the age at which a woman of the same age attains pensionable age, but
+
+(b) has not attained the age of 65,
+
+the person is to be treated for the purposes of sections 48A, [[^F237]48AA, ] 48B and 48BB of the 1992 Act as attaining pensionable age when it is issued.
+
+(4) But a person who is a man (immediately before the certificate is issued) is not entitled to a Category B retirement pension under section 48B of the 1992 Act for any period after it is issued if the person—
+
+(a) attains (or has attained) the age of 65 before 6th April 2010, and
+
+(b) would not have been entitled to a Category B retirement pension under section 51 of the 1992 Act for that period if still a man.
+
+(5) Paragraph 10 makes provision about deferment of Category B retirement pensions.
+
+#### Shared additional pension
+
+**9** (1) Any question—
+
+(a) whether the person is entitled to a shared additional pension (under section 55A [[^F238]or 55AA ] of the 1992 Act) for any period after the certificate is issued, and
+
+(b) (if so) the rate at which the person is so entitled for the period,
+
+is to be decided on the basis of the person attaining pensionable age on the same date as someone of the acquired gender (and the same age).
+
+(2) Accordingly, if (immediately before the certificate is issued) the person—
+
+(a) is a woman entitled to a shared additional pension, but
+
+(b) has not attained the age of 65,
+
+the person ceases to be so entitled when it is issued.
+
+(3) And, conversely, if (immediately before the certificate is issued) the person—
+
+(a) is a man who has attained the age at which a woman of the same age attains pensionable age, but
+
+(b) has not attained the age of 65,
+
+the person is to be treated for the purposes of section 55A [[^F239]or 55AA ] of the 1992 Act as attaining pensionable age when it is issued.
+
+(4) Paragraph 10 makes provision about deferment of shared additional pensions.
+
+#### Deferment of pensions
+
+**10** (1) The person’s entitlement to—
+
+[[^F240](za) a state pension under Part 1 of the Pensions Act 2014,]
+
+[[^F241](zb) a state pension under Part 1 of the Pensions Act (Northern Ireland) 2015,]
+
+(a) a Category A retirement pension,
+
+(b) a Category B retirement pension, or
+
+(c) a shared additional pension,
+
+is not to be taken to have been deferred for any period ending before the certificate is issued unless the condition in sub-paragraph (2) is satisfied.
+
+(2) The condition is that the entitlement both—
+
+(a) was actually deferred during the period, and
+
+(b) would have been capable of being so deferred had the person’s gender been the acquired gender.
+
+#### [^F242]...
+
+**[^F242]11** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Graduated retirement benefit: Great Britain
+
+**12** (1) The provision that may be made by regulations under paragraph 15 of Schedule 3 to the Social Security (Consequential Provisions) Act 1992 (c. 6) (power to retain provisions repealed by Social Security Act 1973 (c. 38), with or without modification, for transitional purposes) includes provision modifying the preserved graduated retirement benefit provisions in consequence of this Act.
+
+(2) “The preserved graduated retirement benefit provisions” are the provisions of the National Insurance Act 1965 (c. 51) relating to graduated retirement benefit continued in force, with or without modification, by regulations having effect as if made under that paragraph.
+
+#### Graduated retirement benefit: Northern Ireland
+
+**13** (1) The provision that may be made by regulations under paragraph 15 of Schedule 3 to the Social Security (Consequential Provisions) (Northern Ireland) Act 1992 (c. 9) (corresponding power for Northern Ireland) includes provision modifying the Northern Ireland preserved graduated retirement benefit provisions in consequence of this Act.
+
+(2) “The Northern Ireland preserved graduated retirement benefit provisions” are the provisions of the National Insurance Act (Northern Ireland) 1966 (c. 6 (N.I.)) relating to graduated retirement benefit continued in force, with or without modification, by regulations having effect as if made under that paragraph.
+
+### Part 3 — Occupational pension schemes
+
+#### Guaranteed minimum pensions etc.: Great Britain
+
+**14** (1) In this paragraph “the 1993 Act” means the Pension Schemes Act 1993 (c. 48); and expressions used in this paragraph and in that Act have the same meaning in this paragraph as in that Act.
+
+(2) The fact that the person’s gender has become the acquired gender does not affect the operation of section 14 of the 1993 Act (guaranteed minimum) in relation to the person, except to the extent that its operation depends on section 16 of the 1993 Act (revaluation); and sub-paragraphs (3) and (5) have effect subject to that.
+
+(3) If (immediately before the certificate is issued) the person is a woman who is entitled to a guaranteed minimum pension but has not attained the age of 65—
+
+(a) the person is for the purposes of section 13 of the 1993 Act and the guaranteed minimum pension provisions to be treated after it is issued as not having attained pensionable age (so that the entitlement ceases) but as attaining pensionable age on subsequently attaining the age of 65, and
+
+(b) in a case where the person’s guaranteed minimum pension has commenced before the certificate is issued, it is to be treated for the purposes of Chapter 3 of Part 4 of the 1993 Act (anti-franking) as if it had not.
+
+(4) But sub-paragraph (3)(a) does not—
+
+(a) affect any pension previously paid to the person, or
+
+(b) prevent section 15 of the 1993 Act (increase of guaranteed minimum where commencement of guaranteed minimum pension postponed) operating to increase the person’s guaranteed minimum by reason of a postponement of the commencement of the person’s guaranteed minimum pension for a period ending before the certificate is issued.
+
+(5) If (immediately before the certificate is issued) the person is a man who—
+
+(a) has attained the age of 60, but
+
+(b) has not attained the age of 65,
+
+the person is to be treated for the purposes of section 13 of the 1993 Act and the guaranteed minimum pension provisions as attaining pensionable age when it is issued.
+
+(6) If at that time the person has attained the age of 65, the fact that the person’s gender has become the acquired gender does not affect the person’s pensionable age for those purposes.
+
+(7) The fact that the person’s gender has become the acquired gender does not affect any guaranteed minimum pension to which the person is entitled as a widow or widower immediately before the certificate is issued (except in consequence of the operation of the previous provisions of this Schedule).
+
+(8) If a transaction to which section 19 of the 1993 Act applies which is carried out before the certificate is issued discharges a liability to provide a guaranteed minimum pension for or in respect of the person, it continues to do so afterwards.
+
+(9) “The guaranteed minimum pension provision” means so much of the 1993 Act (apart from section 13) and of any other enactment as relates to guaranteed minimum pensions.
+
+#### Guaranteed minimum pensions etc.: Northern Ireland
+
+**15** (1) In this paragraph “the 1993 Act” means the Pension Schemes (Northern Ireland) Act 1993 (c. 49); and expressions used in this paragraph and in that Act have the same meaning in this paragraph as in that Act.
+
+(2) The fact that the person’s gender has become the acquired gender does not affect the operation of section 10 of the 1993 Act (guaranteed minimum) in relation to the person, except to the extent that its operation depends on section 12 of the 1993 Act (revaluation); and sub-paragraphs (3) and (5) have effect subject to that.
+
+(3) If (immediately before the certificate is issued) the person is a woman who is entitled to a guaranteed minimum pension but has not attained the age of 65—
+
+(a) the person is for the purposes of section 9 of the 1993 Act and the guaranteed minimum pension provisions to be treated after it is issued as not having attained pensionable age (so that the entitlement ceases) but as attaining pensionable age on subsequently attaining the age of 65, and
+
+(b) in a case where the person’s guaranteed minimum pension has commenced before the certificate is issued, it is to be treated for the purposes of Chapter 3 of Part 4 of the 1993 Act (anti-franking) as if it had not.
+
+(4) But sub-paragraph (3)(a) does not—
+
+(a) affect any pension previously paid to the person, or
+
+(b) prevent section 11 of the 1993 Act (increase of guaranteed minimum where commencement of guaranteed minimum pension postponed) operating to increase the person’s guaranteed minimum by reason of a postponement of the commencement of the person’s guaranteed minimum pension for a period ending before the certificate is issued.
+
+(5) If (immediately before the certificate is issued) the person is a man who—
+
+(a) has attained the age of 60, but
+
+(b) has not attained the age of 65,
+
+the person is to be treated for the purposes of section 9 of the 1993 Act and the guaranteed minimum pension provisions as attaining pensionable age when it is issued.
+
+(6) If at that time the person has attained the age of 65, the fact that the person’s gender has become the acquired gender does not affect the person’s pensionable age for those purposes.
+
+(7) The fact that the person’s gender has become the acquired gender does not affect any guaranteed minimum pension to which the person is entitled as a widow or widower [[^F243]or surviving civil partner] immediately before the certificate is issued (except in consequence of the operation of the previous provisions of this Schedule).
+
+(8) If a transaction to which section 15 of the 1993 Act applies which is carried out before the certificate is issued discharges a liability to provide a guaranteed minimum pension for or in respect of the person, it continues to do so afterwards.
+
+(9) “The guaranteed minimum pension provision” means so much of the 1993 Act (apart from section 9) and of any other enactment as relates to guaranteed minimum pensions.
+
+#### Equivalent pension benefits: Great Britain
+
+**16** (1) The provision that may be made by regulations under paragraph 15 of Schedule 3 to the Social Security (Consequential Provisions) Act 1992 (c. 6) (power to retain provisions repealed by Social Security Act 1973 (c. 38), with or without modification, for transitional purposes) includes provision modifying the preserved equivalent pension benefits provisions in consequence of this Act.
+
+(2) “The preserved equivalent pension benefits provisions” are the provisions of the National Insurance Act 1965 (c. 51) relating to equivalent pension benefits continued in force, with or without modification, by regulations having effect as if made under that paragraph.
+
+#### Equivalent pension benefits: Northern Ireland
+
+**17** (1) The provision that may be made by regulations under paragraph 15 of Schedule 3 to the Social Security (Consequential Provisions) (Northern Ireland) Act 1992 (c. 9) (corresponding power for Northern Ireland) includes provision modifying the Northern Ireland preserved equivalent pension benefits provisions in consequence of this Act.
+
+(2) “The Northern Ireland preserved equivalent pension benefits provisions” are the provisions of the National Insurance Act (Northern Ireland) 1966 (c. 6 (N.I.)) relating to equivalent pension benefits continued in force, with or without modification, by regulations having effect as if made under that paragraph.
+
+## SCHEDULE 6 — Sex discrimination
+
+*Section 14*
+
+### [^F244]Part 1 — Great Britain
+
+**[^F244]1** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F244]2** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F244]3** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F244]4** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F244]5** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Part 2 — Northern Ireland
+
+**6** The Sex Discrimination (Northern Ireland) Order 1976 (S.I. 1976/1042 (N.I. 15)) is amended as follows.
+
+**7** In Article 10A (gender reassignment: exception for genuine occupational qualification), insert at the end—
+
+> (4) Paragraph (1) does not apply in relation to discrimination against a person whose gender has become the acquired gender under the Gender Recognition Act 2004.
+
+**8** In Article 10B (supplementary exceptions relating to gender reassignment), for paragraph (3) substitute—
+
+> (3) Paragraph (2) does not apply in relation to discrimination against a person whose gender has become the acquired gender under the Gender Recognition Act 2004.
+
+**9** In Article 12 (discrimination against contract workers), after paragraph (3C) insert—
+
+> (3D) Paragraphs (3B) and (3C) do not apply in relation to discrimination against a person whose gender has become the acquired gender under the Gender Recognition Act 2004.
+
+**10** In Article 14 (partnerships), after paragraph (3C) insert—
+
+> (3D) Paragraphs (3B) and (3C) do not apply in relation to discrimination against a person whose gender has become the acquired gender under the Gender Recognition Act 2004.
+
+---
+
+[^F1]: S. 2(3A) inserted (E.W.S.) (10.12.2014) by Marriage (Same Sex Couples) Act 2013 (c. 30), s. 21(3), Sch. 5 para. 16; S.I. 2014/3169, art. 2
+[^F2]: S. 2(3B) inserted (S.) (16.12.2014) by Marriage and Civil Partnership (Scotland) Act 2014 (asp 5), s. 36, Sch. 2 para. 14; S.S.I. 2014/287, art. 3, Sch.
+[^F3]: S. 2(3C) inserted (E.W.S.) (16.12.2014) by The Marriage and Civil Partnership (Scotland) Act 2014 and Civil Partnership Act 2004 (Consequential Provisions and Modifications) Order 2014 (S.I. 2014/3229), art. 1(2), Sch. 5 para. 15(2)
+[^F4]: Words in s. 3(1)(b)(2)(b) substituted (1.7.2009) by The Health Care and Associated Professions (Miscellaneous Amendments and Practitioner Psychologists) Order 2009 (S.I. 2009/1182) , art. 4(2) , Sch. 5 para. 8(a) (with arts. 9 , 10 ); S.I. 2009/1357 , art. 2(d)
+[^F5]: Words in s. 3(6)(a) inserted (5.12.2005) by Civil Partnership Act 2004 (c. 33) , ss. 250(2)(a) , 263 ; S.I. 2005/3175 , art. 3 , Sch. 2
+[^F6]: S. 3(6A)-(6C) inserted (10.12.2014) by Marriage (Same Sex Couples) Act 2013 (c. 30) , s. 21(3) , Sch. 5 para. 2 ; S.I. 2014/3169 , art. 2
+[^F7]: S. 3(6AA) inserted (2.12.2019) by The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458), regs. 1(2), 24(2) (with reg. 35)
+[^F8]: Words in s. 3(6B) inserted (2.12.2019) by The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458), regs. 1(2), 24(3)(a)(i) (with reg. 35)
+[^F9]: Words in s. 3(6B) inserted (2.12.2019) by The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458), regs. 1(2), 24(3)(a)(ii) (with reg. 35)
+[^F10]: Words in s. 3(6B) inserted (2.12.2019) by The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458), reg. 24(3)(a)(iii) (with reg. 35)
+[^F11]: Words in s. 3(6B)(a) inserted (2.12.2019) by The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458), reg. 24(3)(b)(i) (with reg. 35)
+[^F12]: Words in s. 3(6B)(a) inserted (2.12.2019) by The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458), regs. 1(2), 24(3)(b)(ii) (with reg. 35)
+[^F13]: Words in s. 3(6B)(a) inserted (2.12.2019) by The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458), regs. 1(2), 24(3)(b)(iii) (with reg. 35)
+[^F14]: Words in s. 3(6B)(b) inserted (2.12.2019) by The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458), regs. 1(2), 24(3)(c) (with reg. 35)
+[^F15]: Words in s. 3(6C) inserted (2.12.2019) by The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458), regs. 1(2), 24(4)(a) (with reg. 35)
+[^F16]: Words in s. 3(6C) inserted (2.12.2019) by The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458), regs. 1(2), 24(4)(b) (with reg. 35)
+[^F17]: S. 3(6D)-(6F) inserted (S.) (16.12.2014) by Marriage and Civil Partnership (Scotland) Act 2014 (asp 5), s. 36, Sch. 2 para. 3; S.S.I. 2014/287, art. 3, Sch.
+[^F18]: S. 3(6G)(6H) inserted (S.) (30.11.2021) by Civil Partnership (Scotland) Act 2020 (asp 15), s. 16, sch. 2 para. 5(2); S.S.I. 2021/351, reg. 2, sch. (with reg. 3)
+[^F19]: S. 3(9) inserted (E.W.S.) (10.12.2014) by Marriage (Same Sex Couples) Act 2013 (c. 30) , s. 21(3) , Sch. 5 para. 18 ; S.I. 2014/3169 , art. 2
+[^F20]: S. 3(10) inserted (S.) (16.12.2014) by Marriage and Civil Partnership (Scotland) Act 2014 (asp 5), s. 36, Sch. 2 para. 16; S.S.I. 2014/287, art. 3, Sch.
+[^F21]: S. 3(11) inserted (E.W.S.) (16.12.2014) by The Marriage and Civil Partnership (Scotland) Act 2014 and Civil Partnership Act 2004 (Consequential Provisions and Modifications) Order 2014 (S.I. 2014/3229), art. 1(2), Sch. 5 para. 15(3)
+[^F22]: S. 3A inserted (E.W.S.) (10.12.2014) by Marriage (Same Sex Couples) Act 2013 (c. 30), s. 21(3), Sch. 5 para. 17; S.I. 2014/3169, art. 2
+[^F23]: Words in s. 3A(4)(a) inserted (13.1.2020) by The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514), reg. 42(3) (with regs. 6-9)
+[^F24]: Words in s. 3A(6) substituted (13.1.2020) by The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514), reg. 42(4) (with regs. 6-9)
+[^F25]: S. 3A(8) inserted (N.I.) (13.1.2020) by The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514), regs. 1(2), 42(5) (with regs. 6-9)
+[^F26]: S. 3B inserted (30.6.2014 for specified purposes, 10.12.2014 in so far as not already in force) by Marriage (Same Sex Couples) Act 2013 (c. 30), s. 21(3), Sch. 5 para. 19; S.I. 2014/1662, art. 2(b); S.I. 2014/3169, art. 2
+[^F27]: S. 3B(7A) inserted (E.W.S.) (2.12.2019) by The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458), regs. 1(2), 25(2) (with reg. 35)
+[^F28]: Words in s. 3B(8) inserted (E.W.S.) (2.12.2019) by The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458), regs. 1(2), 25(3)(a)(i) (with reg. 35)
+[^F29]: Words in s. 3B(8) inserted (E.W.S.) (2.12.2019) by The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458), regs. 1(2), 25(3)(a)(ii) (with reg. 35)
+[^F30]: Words in s. 3B(8) inserted (E.W.S.) (2.12.2019) by The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458), regs. 1(2), 25(3)(a)(iii) (with reg. 35)
+[^F31]: Words in s. 3B(8)(a) inserted (E.W.S.) (2.12.2019) by The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458), regs. 1(2), 25(3)(b)(i) (with reg. 35)
+[^F32]: Words in s. 3B(8)(a) inserted (E.W.S.) (2.12.2019) by The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458), regs. 1(2), 25(3)(b)(ii) (with reg. 35)
+[^F33]: Words in s. 3B(8)(b) inserted (E.W.S.) (2.12.2019) by The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458), regs. 1(2), 25(3)(c) (with reg. 35)
+[^F34]: Words in s. 3B(9) inserted (E.W.S.) (2.12.2019) by The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458), regs. 1(2), 25(4)(a) (with reg. 35)
+[^F35]: Words in s. 3B(9) inserted (E.W.S.) (2.12.2019) by The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458), regs. 1(2), 25(4)(b) (with reg. 35)
+[^F36]: S. 3C inserted (1.9.2014 for specified purposes, 16.12.2014 in so far as not already in force) by Marriage and Civil Partnership (Scotland) Act 2014 (asp 5), s. 36, Sch. 2 para. 15; S.S.I. 2014/212, art. 2, Sch. (as amended (1.9.2014) by S.S.I. 2014/218, art. 2(3), Sch.); S.S.I. 2014/287, art. 3, Sch.
+[^F37]: S. 3D inserted (1.9.2014 for specified purposes, 16.12.2014 in so far as not already in force) by Marriage and Civil Partnership (Scotland) Act 2014 (asp 5), s. 36, Sch. 2 para. 17; S.S.I. 2014/212, art. 2, Sch. (as amended (1.9.2014) by S.S.I. 2014/218, art. 2(3), Sch.); S.S.I. 2014/287, art. 3, Sch.
+[^F38]: S. 3D(7) substituted (30.11.2021) by Civil Partnership (Scotland) Act 2020 (asp 15), s. 16, sch. 2 para. 5(3)(a); S.S.I. 2021/351, reg. 2, sch. (with reg. 3)
+[^F39]: S. 3D(8A) inserted (30.11.2021) by Civil Partnership (Scotland) Act 2020 (asp 15), s. 16, sch. 2 para. 5(3)(b); S.S.I. 2021/351, reg. 2, sch. (with reg. 3)
+[^F40]: Words in s. 3D(9) inserted (30.11.2021) by Civil Partnership (Scotland) Act 2020 (asp 15), s. 16, sch. 2 para. 5(3)(c)(i); S.S.I. 2021/351, reg. 2, sch. (with reg. 3)
+[^F41]: Words in s. 3D(9) inserted (30.11.2021) by Civil Partnership (Scotland) Act 2020 (asp 15), s. 16, sch. 2 para. 5(3)(c)(ii); S.S.I. 2021/351, reg. 2, sch. (with reg. 3)
+[^F42]: Ss. 3E, 3F inserted (E.W.S.) (16.12.2014) by The Marriage and Civil Partnership (Scotland) Act 2014 and Civil Partnership Act 2004 (Consequential Provisions and Modifications) Order 2014 (S.I. 2014/3229), art. 1(2), Sch. 5 para. 15(4)
+[^F43]: Words in s. 3E heading inserted (13.1.2020) by The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514), reg. 43(2) (with regs. 6-9)
+[^F44]: Words in s. 3E(2) inserted (13.1.2020) by The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514), reg. 43(4) (with regs. 6-9)
+[^F45]: Words in s. 3E(5)(a) inserted (13.1.2020) by The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514), reg. 43(5) (with regs. 6-9)
+[^F46]: S. 3E(5A) inserted (13.1.2020) by The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514), reg. 43(6) (with regs. 6-9)
+[^F47]: Words in s. 3E(7) inserted (13.1.2020) by The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514), regs. 1(2), 43(7) (with regs. 6-9)
+[^F48]: Words in s. 3F heading inserted (13.1.2020) by The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514), regs. 1(2), 43(2) (with regs. 6-9)
+[^F49]: S. 3F(7) substituted (27.1.2022) by The Civil Partnership (Scotland) Act 2020 and Marriage and Civil Partnership (Scotland) Act 2014 (Consequential Modifications) Order 2022 (S.I. 2022/74), art. 1, Sch. 1 para. 1(2)(a)
+[^F50]: S. 3F(8A) inserted (27.1.2022) by The Civil Partnership (Scotland) Act 2020 and Marriage and Civil Partnership (Scotland) Act 2014 (Consequential Modifications) Order 2022 (S.I. 2022/74), art. 1, Sch. 1 para. 1(2)(b)
+[^F51]: Words in s. 3F(9) inserted (27.1.2022) by The Civil Partnership (Scotland) Act 2020 and Marriage and Civil Partnership (Scotland) Act 2014 (Consequential Modifications) Order 2022 (S.I. 2022/74), art. 1, Sch. 1 para. 1(2)(c)(i)
+[^F52]: Words in s. 3F(9) inserted (27.1.2022) by The Civil Partnership (Scotland) Act 2020 and Marriage and Civil Partnership (Scotland) Act 2014 (Consequential Modifications) Order 2022 (S.I. 2022/74), art. 1, Sch. 1 para. 1(2)(c)(ii)
+[^F53]: S. 4(1A) inserted (S.) (16.12.2014) by Marriage and Civil Partnership (Scotland) Act 2014 (asp 5), s. 36, Sch. 2 para. 4(a); S.S.I. 2014/287, art. 3, Sch.
+[^F54]: S. 4(2)-(3B) substituted for s. 4(2)(3) (10.12.2014) by Marriage (Same Sex Couples) Act 2013 (c. 30), s. 21(3), Sch. 5 para. 3; S.I. 2014/3169, art. 2
+[^F55]: Word in s. 4(2) inserted (S.) (16.12.2014) by Marriage and Civil Partnership (Scotland) Act 2014 (asp 5), s. 36, Sch. 2 para. 4(b)(i); S.S.I. 2014/287, art. 3, Sch.
+[^F56]: S. 4(2)(a) repealed (S.) (16.12.2014) by Marriage and Civil Partnership (Scotland) Act 2014 (asp 5), s. 36, Sch. 2 para. 4(b)(ii); S.S.I. 2014/287, art. 3, Sch.
+[^F57]: Words in s. 4(2)(c) substituted (2.12.2019) by The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458), regs. 1(2), 26(2) (with reg. 35)
+[^F58]: Words in s. 4(3)(b) inserted (S.) (16.12.2014) by Marriage and Civil Partnership (Scotland) Act 2014 (asp 5), s. 36, Sch. 2 para. 4(c)(i); S.S.I. 2014/287, art. 3, Sch.
+[^F59]: Words in s. 4(3)(c) substituted (2.12.2019) by The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458), regs. 1(2), 26(3)(a) (with reg. 35)
+[^F60]: S. 4(3)(d) omitted (2.12.2019) by virtue of The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458), regs. 1(2), 26(3)(b) (with reg. 35)
+[^F61]: Words in s. 4(3)(e) inserted (S.) (16.12.2014) by Marriage and Civil Partnership (Scotland) Act 2014 (asp 5), s. 36, Sch. 2 para. 4(c)(ii); S.S.I. 2014/287, art. 3, Sch.
+[^F62]: Word in s. 4(3)(e) substituted (S.) (30.11.2021) by Civil Partnership (Scotland) Act 2020 (asp 15), s. 16, sch. 2 para. 5(4)(a); S.S.I. 2021/351, reg. 2, sch. (with reg. 3)
+[^F63]: Words in s. 4(3A) inserted (2.12.2019) by The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458), regs. 1(2), 26(4)(a) (with reg. 35)
+[^F64]: Words in s. 4(3A) inserted (2.12.2019) by The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458), regs. 1(2), 26(4)(b) (with reg. 35)
+[^F65]: S. 4(3B) omitted (2.12.2019) by virtue of The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458), regs. 1(2), 26(5) (with reg. 35)
+[^F66]: S. 4(3C)-(3F) inserted (S.) (16.12.2014) by Marriage and Civil Partnership (Scotland) Act 2014 (asp 5), s. 36, Sch. 2 para. 4(d); S.S.I. 2014/287, art. 3, Sch.
+[^F67]: S. 4(3C)(b) repealed (S.) (30.11.2021) by Civil Partnership (Scotland) Act 2020 (asp 15), s. 16, sch. 2 para. 5(4)(b)(i); S.S.I. 2021/351, reg. 2, sch. (with reg. 3)
+[^F68]: S. 4(3C)(c) inserted (S.) (30.11.2021) by Civil Partnership (Scotland) Act 2020 (asp 15), s. 16, sch. 2 para. 5(4)(b)(ii); S.S.I. 2021/351, reg. 2, sch. (with reg. 3)
+[^F69]: S. 4(3D)(ba) inserted (S.) (30.11.2021) by Civil Partnership (Scotland) Act 2020 (asp 15), s. 16, sch. 2 para. 5(4)(c)(ii); S.S.I. 2021/351, reg. 2, sch. (with reg. 3)
+[^F70]: S. 4(3D)(c)(d) repealed (S.) (30.11.2021) by Civil Partnership (Scotland) Act 2020 (asp 15), s. 16, sch. 2 para. 5(4)(c)(i); S.S.I. 2021/351, reg. 2, sch. (with reg. 3)
+[^F71]: S. 4(3EA) inserted (S.) (30.11.2021) by Civil Partnership (Scotland) Act 2020 (asp 15), s. 16, sch. 2 para. 5(4)(d); S.S.I. 2021/351, reg. 2, sch. (with reg. 3)
+[^F72]: S. 4(3F) repealed (S.) (30.11.2021) by Civil Partnership (Scotland) Act 2020 (asp 15), s. 16, sch. 2 para. 5(4)(e); S.S.I. 2021/351, reg. 2, sch. (with reg. 3)
+[^F73]: Ss. 4A, 4B and cross-heading inserted (10.12.2014) by Marriage (Same Sex Couples) Act 2013 (c. 30), s. 21(3), Sch. 5 para. 4; S.I. 2014/3169, art. 2
+[^F74]: Words in s. 4A cross-heading inserted (2.12.2019) by The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458), regs. 1(2), 27 (with reg. 35)
+[^F75]: Words in s. 4A heading inserted (2.12.2019) by The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458), regs. 1(2), 28(2) (with reg. 35)
+[^F76]: Words in s. 4A(1) substituted (2.12.2019) by The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458), regs. 1(2), 28(3) (with reg. 35)
+[^F77]: Words in s. 4A(2) substituted (2.12.2019) by The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458), regs. 1(2), 28(4)(a) (with reg. 35)
+[^F78]: Words in s. 4A(2)(b) inserted (2.12.2019) by The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458), regs. 1(2), 28(4)(b) (with reg. 35)
+[^F79]: Words in s. 4A(2)(c) inserted (2.12.2019) by The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458), regs. 1(2), 28(4)(c) (with reg. 35)
+[^F80]: Words in s. 4A(2)(d) inserted (2.12.2019) by The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458), regs. 1(2), 28(4)(d)(i) (with reg. 35)
+[^F81]: Words in s. 4A(2)(d) inserted (2.12.2019) by The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458), regs. 1(2), 28(4)(d)(ii) (with reg. 35)
+[^F82]: S. 4A(3) omitted (2.12.2019) by virtue of The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458), regs. 1(2), 28(5) (with reg. 35)
+[^F83]: Words in s. 4A(4) omitted (2.12.2019) by virtue of The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458), regs. 1(2), 28(6) (with reg. 35)
+[^F84]: S. 4A(6) omitted (2.12.2019) by virtue of The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458), regs. 1(2), 28(7) (with reg. 35)
+[^F85]: Words in s. 4A(7) omitted (2.12.2019) by virtue of The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458), regs. 1(2), 28(8)(a) (with reg. 35)
+[^F86]: Words in s. 4A(7) inserted (2.12.2019) by The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458), regs. 1(2), 28(8)(b) (with reg. 35)
+[^F87]: S. 4A(8) omitted (2.12.2019) by virtue of The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458), regs. 1(2), 28(9) (with reg. 35)
+[^F88]: Words in s. 4A(9) substituted (2.12.2019) by The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458), regs. 1(2), 28(10)(a) (with reg. 35)
+[^F89]: Words in s. 4A(9) inserted (2.12.2019) by The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458), regs. 1(2), 28(10)(b) (with reg. 35)
+[^F90]: S. 4A(10) omitted (2.12.2019) by virtue of The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458), regs. 1(2), 28(11) (with reg. 35)
+[^F91]: Words in s. 4B heading inserted (2.12.2019) by The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458), regs. 1(2), 29(2) (with reg. 35)
+[^F92]: Words in s. 4B(1) omitted (2.12.2019) by virtue of The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458), regs. 1(2), 29(3)(a)(i) (with reg. 35)
+[^F93]: Words in s. 4B(1) inserted (2.12.2019) by The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458), regs. 1(2), 29(3)(a)(ii) (with reg. 35)
+[^F94]: Words in s. 4B(1)(a) inserted (2.12.2019) by The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458), regs. 1(2), 29(3)(b) (with reg. 35)
+[^F95]: Words in s. 4B(3) inserted (2.12.2019) by The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458), regs. 1(2), 29(4)(a) (with reg. 35)
+[^F96]: Words in s. 4B(3) inserted (2.12.2019) by The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458), regs. 1(2), 29(4)(b) (with reg. 35)
+[^F97]: Ss. 4C-4F inserted (S.) (16.12.2014) by Marriage and Civil Partnership (Scotland) Act 2014 (asp 5), s. 36, Sch. 2 para. 5; S.S.I. 2014/287, art. 3, Sch.
+[^F98]: S. 4C title substituted (30.11.2021) by Civil Partnership (Scotland) Act 2020 (asp 15), s. 16, sch. 2 para. 5(5)(j); S.S.I. 2021/351, reg. 2, sch. (with reg. 3)
+[^F99]: Words in s. 4C(1) substituted (30.11.2021) by Civil Partnership (Scotland) Act 2020 (asp 15), s. 16, sch. 2 para. 5(5)(a); S.S.I. 2021/351, reg. 2, sch. (with reg. 3)
+[^F100]: S. 4C(1A) inserted (30.11.2021) by Civil Partnership (Scotland) Act 2020 (asp 15), s. 16, sch. 2 para. 5(5)(b); S.S.I. 2021/351, reg. 2, sch. (with reg. 3)
+[^F101]: S. 4C(2)(3) repealed (30.11.2021) by Civil Partnership (Scotland) Act 2020 (asp 15), s. 16, sch. 2 para. 5(5)(c); S.S.I. 2021/351, reg. 2, sch. (with reg. 3)
+[^F102]: Word in s. 4C(4) substituted (30.11.2021) by Civil Partnership (Scotland) Act 2020 (asp 15), s. 16, sch. 2 para. 5(5)(d); S.S.I. 2021/351, reg. 2, sch. (with reg. 3)
+[^F103]: Word in s. 4C(5) substituted (30.11.2021) by Civil Partnership (Scotland) Act 2020 (asp 15), s. 16, sch. 2 para. 5(5)(e); S.S.I. 2021/351, reg. 2, sch. (with reg. 3)
+[^F104]: S. 4C(6) repealed (30.11.2021) by Civil Partnership (Scotland) Act 2020 (asp 15), s. 16, sch. 2 para. 5(5)(f); S.S.I. 2021/351, reg. 2, sch. (with reg. 3)
+[^F105]: Word in s. 4C(7) substituted (30.11.2021) by Civil Partnership (Scotland) Act 2020 (asp 15), s. 16, sch. 2 para. 5(5)(g)(i); S.S.I. 2021/351, reg. 2, sch. (with reg. 3)
+[^F106]: Words in s. 4C(7) inserted (30.11.2021) by Civil Partnership (Scotland) Act 2020 (asp 15), s. 16, sch. 2 para. 5(5)(g)(ii); S.S.I. 2021/351, reg. 2, sch. (with reg. 3)
+[^F107]: Words in s. 4C(7) inserted (30.11.2021) by Civil Partnership (Scotland) Act 2020 (asp 15), s. 16, sch. 2 para. 5(5)(g)(iii); S.S.I. 2021/351, reg. 2, sch. (with reg. 3)
+[^F108]: S. 4C(8) repealed (30.11.2021) by Civil Partnership (Scotland) Act 2020 (asp 15), s. 16, sch. 2 para. 5(5)(h); S.S.I. 2021/351, reg. 2, sch. (with reg. 3)
+[^F109]: Words in s. 4C(9) inserted (30.11.2021) by Civil Partnership (Scotland) Act 2020 (asp 15), s. 16, sch. 2 para. 5(5)(i); S.S.I. 2021/351, reg. 2, sch. (with reg. 3)
+[^F110]: S. 4D title substituted (30.11.2021) by Civil Partnership (Scotland) Act 2020 (asp 15), s. 16, sch. 2 para. 5(6)(b); S.S.I. 2021/351, reg. 2, sch. (with reg. 3)
+[^F111]: Word in s. 4D(1) substituted (30.11.2021) by Civil Partnership (Scotland) Act 2020 (asp 15), s. 16, sch. 2 para. 5(6)(a)(i); S.S.I. 2021/351, reg. 2, sch. (with reg. 3)
+[^F112]: Words in s. 4D(1) inserted (30.11.2021) by Civil Partnership (Scotland) Act 2020 (asp 15), s. 16, sch. 2 para. 5(6)(a)(ii); S.S.I. 2021/351, reg. 2, sch. (with reg. 3)
+[^F113]: Words in s. 4D(1)(a) inserted (30.11.2021) by Civil Partnership (Scotland) Act 2020 (asp 15), s. 16, sch. 2 para. 5(6)(a)(iii); S.S.I. 2021/351, reg. 2, sch. (with reg. 3)
+[^F114]: S. 4E title substituted (30.11.2021) by Civil Partnership (Scotland) Act 2020 (asp 15), s. 16, sch. 2 para. 5(7)(d); S.S.I. 2021/351, reg. 2, sch. (with reg. 3)
+[^F115]: S. 4E(1)(b) substituted (30.11.2021) by Civil Partnership (Scotland) Act 2020 (asp 15), s. 16, sch. 2 para. 5(7)(a)(i); S.S.I. 2021/351, reg. 2, sch. (with reg. 3)
+[^F116]: Word in s. 4E(1)(c) substituted (30.11.2021) by Civil Partnership (Scotland) Act 2020 (asp 15), s. 16, sch. 2 para. 5(7)(a)(ii)(a); S.S.I. 2021/351, reg. 2, sch. (with reg. 3)
+[^F117]: Word in s. 4E(1)(c) substituted (30.11.2021) by Civil Partnership (Scotland) Act 2020 (asp 15), s. 16, sch. 2 para. 5(7)(a)(ii)(b); S.S.I. 2021/351, reg. 2, sch. (with reg. 3)
+[^F118]: Words in s. 4E(1)(c) inserted (30.11.2021) by Civil Partnership (Scotland) Act 2020 (asp 15), s. 16, sch. 2 para. 5(7)(a)(ii)(c); S.S.I. 2021/351, reg. 2, sch. (with reg. 3)
+[^F119]: S. 4E(2)(a)(b) substituted (30.11.2021) by Civil Partnership (Scotland) Act 2020 (asp 15), s. 16, sch. 2 para. 5(7)(b); S.S.I. 2021/351, reg. 2, sch. (with reg. 3)
+[^F120]: Words in s. 4E(3) inserted (30.11.2021) by Civil Partnership (Scotland) Act 2020 (asp 15), s. 16, sch. 2 para. 5(7)(c); S.S.I. 2021/351, reg. 2, sch. (with reg. 3)
+[^F121]: S. 4F repealed (30.11.2021) by Civil Partnership (Scotland) Act 2020 (asp 15), s. 16, sch. 2 para. 5(8); S.S.I. 2021/351, reg. 2, sch. (with reg. 3)
+[^F122]: S. 5: heading substituted (5.12.2005) by Civil Partnership Act 2004 (c. 33), ss. 250(3)(c), 263; S.I. 2005/3175, art. 3, Sch. 2
+[^F123]: Words in s. 5(1)(a) substituted (6.4.2022) by Divorce, Dissolution and Separation Act 2020 (c. 11), s. 8(1)(8), Sch. para. 56(a) (with s. 8(6)); S.I. 2022/283, reg. 2
+[^F124]: Word in s. 5(1)(a) omitted (6.4.2022) by virtue of Divorce, Dissolution and Separation Act 2020 (c. 11), s. 8(1)(8), Sch. para. 56(b) (with s. 8(6)); S.I. 2022/283, reg. 2
+[^F125]: S. 5(1)(aa) inserted (6.4.2022) by Divorce, Dissolution and Separation Act 2020 (c. 11), s. 8(1)(8), Sch. para. 56(c) (with s. 8(6)); S.I. 2022/283, reg. 2
+[^F126]: S. 5(1A) inserted (S.) (16.12.2014) by Marriage and Civil Partnership (Scotland) Act 2014 (asp 5), s. 36, Sch. 2 para. 6; S.S.I. 2014/287, art. 3, Sch.
+[^F127]: Words in s. 5(2) inserted (5.12.2005) by Civil Partnership Act 2004 (c. 33), ss. 250(3)(a), 263; S.I. 2005/3175, art. 3, Sch. 2
+[^F128]: Words in s. 5(6)(a) substituted (5.12.2005) by Civil Partnership Act 2004 (c. 33), ss. 250(3)(b), 263; S.I. 2005/3175, art. 3, Sch. 2
+[^F129]: S. 5A inserted (5.12.2005) by Civil Partnership Act 2004 (c. 33), ss. 250(4), 263; S.I. 2005/3175, art. 3, Sch. 2
+[^F130]: S. 5A(1A) inserted (S.) (30.11.2021) by Civil Partnership (Scotland) Act 2020 (asp 15), s. 16, sch. 2 para. 5(9); S.S.I. 2021/351, reg. 2, sch. (with reg. 3)
+[^F131]: S. 5B and cross-heading inserted (10.12.2014) by Marriage (Same Sex Couples) Act 2013 (c. 30), s. 21(3), Sch. 5 para. 5; S.I. 2014/3169, art. 2
+[^F132]: S. 5B omitted (2.12.2019) by virtue of The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458), regs. 1(2), 30 (with reg. 35)
+[^F133]: S. 5C repealed (30.11.2021) by Civil Partnership (Scotland) Act 2020 (asp 15), s. 16, sch. 2 para. 5(10); S.S.I. 2021/351, reg. 2, sch. (with reg. 3)
+[^F134]: S. 5D repealed (30.11.2021) by Civil Partnership (Scotland) Act 2020 (asp 15), s. 16, sch. 2 para. 5(11); S.S.I. 2021/351, reg. 2, sch. (with reg. 3)
+[^F135]: S. 6 title substituted (10.12.2014) by Marriage (Same Sex Couples) Act 2013 (c. 30), s. 21(3), Sch. 5 para. 6(a); S.I. 2014/3169, art. 2
+[^F136]: S. 6(1) substituted (10.12.2014) by Marriage (Same Sex Couples) Act 2013 (c. 30), s. 21(3), Sch. 5 para. 6(b); S.I. 2014/3169, art. 2
+[^F137]: S. 6(3)(a) substituted (10.12.2014) by Marriage (Same Sex Couples) Act 2013 (c. 30), s. 21(3), Sch. 5 para. 6(c); S.I. 2014/3169, art. 2
+[^F138]: Words in s. 6(4) substituted (10.12.2014) by Marriage (Same Sex Couples) Act 2013 (c. 30), s. 21(3), Sch. 5 para. 6(d); S.I. 2014/3169, art. 2
+[^F139]: Word in s. 7 inserted (10.12.2014) by Marriage (Same Sex Couples) Act 2013 (c. 30), s. 21(3), Sch. 5 para. 7; S.I. 2014/3169, art. 2
+[^F140]: Words in s. 7(1) inserted (S.) (16.12.2014) by Marriage and Civil Partnership (Scotland) Act 2014 (asp 5), s. 36, Sch. 2 para. 19(1); S.S.I. 2014/287, art. 3, Sch.
+[^F141]: Word in s. 7(1) repealed (S.) (30.11.2021) by Civil Partnership (Scotland) Act 2020 (asp 15), s. 16, sch. 2 para. 5(12); S.S.I. 2021/351, reg. 2, sch. (with reg. 3)
+[^F142]: Word in s. 7(1) inserted (5.12.2005) by Civil Partnership Act 2004 (c. 33), ss. 250(5)(a), 263; S.I. 2005/3175, art. 3, Sch. 2
+[^F143]: Word in s. 8(1) inserted (10.12.2014) by Marriage (Same Sex Couples) Act 2013 (c. 30), s. 21(3), Sch. 5 para. 8(a); S.I. 2014/3169, art. 2
+[^F144]: Words in s. 8(1) inserted (S.) (16.12.2014) by Marriage and Civil Partnership (Scotland) Act 2014 (asp 5), s. 36, Sch. 2 para. 8(a); S.S.I. 2014/287, art. 3, Sch.
+[^F145]: Word in s. 8(1) repealed (S.) (30.11.2021) by Civil Partnership (Scotland) Act 2020 (asp 15), s. 16, sch. 2 para. 5(13)(a); S.S.I. 2021/351, reg. 2, sch. (with reg. 3)
+[^F146]: Word in s. 8(1) inserted (5.12.2005) by Civil Partnership Act 2004 (c. 33), ss. 250(5)(b), 263; S.I. 2005/3175, art. 3, Sch. 2
+[^F147]: Words in s. 8(1) inserted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 160; S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F148]: Word in s. 8(5) inserted (10.12.2014) by Marriage (Same Sex Couples) Act 2013 (c. 30), s. 21(3), Sch. 5 para. 8(b); S.I. 2014/3169, art. 2
+[^F149]: Words in s. 8(5) inserted (S.) (16.12.2014) by Marriage and Civil Partnership (Scotland) Act 2014 (asp 5), s. 36, Sch. 2 para. 8(b); S.S.I. 2014/287, art. 3, Sch.
+[^F150]: Word in s. 8(5) repealed (S.) (30.11.2021) by Civil Partnership (Scotland) Act 2020 (asp 15), s. 16, sch. 2 para. 5(13)(b); S.S.I. 2021/351, reg. 2, sch. (with reg. 3)
+[^F151]: Words in s. 8(5) inserted (5.12.2005) by Civil Partnership Act 2004 (c. 33), ss. 250(5)(b), 263; S.I. 2005/3175, art. 3, Sch. 2
+[^F152]: Word in s. 8(5) inserted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 160; S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F153]: S. 8(5A) inserted (10.12.2014) by Marriage (Same Sex Couples) Act 2013 (c. 30), s. 21(3), Sch. 5 para. 8(c); S.I. 2014/3169, art. 2
+[^F154]: Words in s. 8(5A) inserted (2.12.2019) by The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458), regs. 1(2), 31 (with reg. 35)
+[^F155]: S. 8(5B) inserted (S.) (16.12.2014) by Marriage and Civil Partnership (Scotland) Act 2014 (asp 5), s. 36, Sch. 2 para. 8(c); S.S.I. 2014/287, art. 3, Sch.
+[^F156]: Word in s. 8(5B) repealed (S.) (30.11.2021) by Civil Partnership (Scotland) Act 2020 (asp 15), s. 16, sch. 2 para. 5(13)(c); S.S.I. 2021/351, reg. 2, sch. (with reg. 3)
+[^F157]: S. 8(5C) inserted (S.) (16.12.2014) by The Marriage and Civil Partnership (Scotland) Act 2014 and Civil Partnership Act 2004 (Consequential Provisions and Modifications) Order 2014 (S.I. 2014/3229), art. 1(2), Sch. 5 para. 15(5)
+[^F158]: Words in s. 8(6) inserted (10.12.2014) by Marriage (Same Sex Couples) Act 2013 (c. 30), s. 21(3), Sch. 5 para. 8(d); S.I. 2014/3169, art. 2
+[^F159]: Words in s. 8(6) inserted (S.) (16.12.2014) by Marriage and Civil Partnership (Scotland) Act 2014 (asp 5), s. 36, Sch. 2 para. 8(d); S.S.I. 2014/287, art. 3, Sch.
+[^F160]: S. 10(1A) inserted (30.6.2014 for specified purposes, 10.12.2014 in so far as not already in force) by Marriage (Same Sex Couples) Act 2013 (c. 30), s. 21(3), Sch. 5 para. 9(1); S.I. 2014/1662, art. 2(b); S.I. 2014/3169, art. 2
+[^F161]: S. 10(1B) inserted (S.) (16.12.2014) by Marriage and Civil Partnership (Scotland) Act 2014 (asp 5), s. 36, Sch. 2 para. 9(1); S.S.I. 2014/287, art. 3, Sch.
+[^F162]: S. 10(1C) inserted (13.1.2020) by The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514), regs. 1(2), 44 (with regs. 6-9)
+[^F163]: S. 11A inserted (10.12.2014) by Marriage (Same Sex Couples) Act 2013 (c. 30), s. 21(3), Sch. 5 para. 10; S.I. 2014/3169, art. 2
+[^F164]: S. 11B substituted: (E.W.) (2.12.2019) by The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458), regs. 1(2), 32 (with reg. 35); and substituted (N.I.) (13.1.2020) by The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514), regs. 1(2), 45(1) (with regs. 6-9)
+[^F165]: Ss. 11C, 11D inserted (E.W) (16.12.2014) by The Marriage and Civil Partnership (Scotland) Act 2014 and Civil Partnership Act 2004 (Consequential Provisions and Modifications) Order 2014 (S.I. 2014/3229), art. 1(2), Sch. 5 para. 15(6); and inserted (S.) (16.12.2014) by Marriage and Civil Partnership (Scotland) Act 2014 (asp 5), s. 36, Sch. 2 paras. 10, 11; S.S.I. 2014/287, art. 3, Sch.; and which insertion is extended to N.I. (13.1.2020) by The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514), regs. 1(2), 45(2) (with regs. 6-9)
+[^F166]: Words in s. 11D substituted (S.) (30.11.2021) by Civil Partnership (Scotland) Act 2020 (asp 15), s. 16, sch. 2 para. 5(15); S.S.I. 2021/351, reg. 2, sch. (with reg. 3); and substituted (E.W.N.I.) (27.1.2022) by The Civil Partnership (Scotland) Act 2020 and Marriage and Civil Partnership (Scotland) Act 2014 (Consequential Modifications) Order 2022 (S.I. 2022/74), art. 1, Sch. 1 para. 1(4)
+[^F167]: S. 19 repealed (E.W.S.) by Equality Act 2010, Sch 27 Pt. 1 (as substituted (1.10.2010) by S.I. 2010/2279, art. 1(2), Sch. 2 (see S.I. 2010/2317, art. 2))
+[^F168]: S. 21(1A) omitted (13.1.2020) by virtue of The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514), regs. 1(2), 46(2) (with regs. 6-9)
+[^F169]: S. 21(2)-(5) repealed: (S.) (16.12.2014) by Marriage and Civil Partnership (Scotland) Act 2014 (asp 5), s. 36, Sch. 2 para. 12; S.S.I. 2014/287, art. 3, Sch.; and omitted (E.W.N.I.) (13.1.2020) by virtue of The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514), regs. 1(2), 46(3) (with regs. 6-9)
+[^F170]: Words in s. 21(6) substituted (31.12.2020) by The Equality (Amendment and Revocation) (EU Exit) Regulations 2019 (S.I. 2019/305), regs. 1, 2(2); 2020 c. 1, Sch. 5 para. 1(1)
+[^F171]: Word in s. 21(6) substituted (1.1.2024) by The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424), reg. 1(2), Sch. para. 54(a)
+[^F172]: Words in s. 21(6) omitted (1.1.2024) by virtue of The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424), reg. 1(2), Sch. para. 54(b)
+[^F173]: Words in s. 22(2)(a) substituted (S.) (30.11.2021) by Civil Partnership (Scotland) Act 2020 (asp 15), s. 16, sch. 2 para. 5(16); S.S.I. 2021/351, reg. 2, sch. (with reg. 3)
+[^F174]: Word in s. 22(2)(a) inserted (10.12.2014) by Marriage (Same Sex Couples) Act 2013 (c. 30), s. 21(3), Sch. 5 para. 13; S.I. 2014/3169, art. 2
+[^F175]: Words in s. 22(2)(a) inserted (S.) (16.12.2014) by Marriage and Civil Partnership (Scotland) Act 2014 (asp 5), s. 36, Sch. 2 para. 19(2); S.S.I. 2014/287, art. 3, Sch.
+[^F176]: Words in s. 22(2)(a) inserted (5.12.2005) by Civil Partnership Act 2004 (c. 33), ss. 250(5)(c), 263; S.I. 2005/3175, art. 3, Sch. 2
+[^F177]: S. 22(6A) inserted (12.4.2010) by The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976), art. 1(2), Sch. 14 para. 83(2) (with arts. 28-31)
+[^F178]: Words in s. 24(1)(2) repealed (8.1.2007) by Legislative and Regulatory Reform Act 2006 (c. 51), ss. 30, 33, Sch. (with s. 30(2)-(5))
+[^F179]: Words in s. 24(3) repealed (8.1.2007) by Legislative and Regulatory Reform Act 2006 (c. 51), ss. 30, 33, Sch. (with s. 30(2)-(5))
+[^F180]: Word in s. 24(5) inserted (S.) (16.12.2014) by Marriage and Civil Partnership (Scotland) Act 2014 (asp 5), s. 36, Sch. 2 para. 19(3)(a); S.S.I. 2014/287, art. 3, Sch.
+[^F181]: S. 24(5A)(5B) inserted (S.) (16.12.2014) by Marriage and Civil Partnership (Scotland) Act 2014 (asp 5), s. 36, Sch. 2 para. 19(3)(b); S.S.I. 2014/287, art. 3, Sch.
+[^F182]: Words in s. 24(5B) repealed (S.) (30.11.2021) by Civil Partnership (Scotland) Act 2020 (asp 15), s. 16, sch. 2 para. 5(17); S.S.I. 2021/351, reg. 2, sch. (with reg. 3)
+[^F183]: S. 25 renumbered as s. 25(1) (S.) (16.12.2014) by Marriage and Civil Partnership (Scotland) Act 2014 (asp 5) , s. 36 , Sch. 2 para. 2(a) ; S.S.I. 2014/287 , art. 3 , Sch.
+[^F184]: S. 25: definition of "chartered psychologist" omitted (1.7.2009) by virtue of The Health Care and Associated Professions (Miscellaneous Amendments and Practitioner Psychologists) Order 2009 (S.I. 2009/1182) , art. 4(2) , Sch. 5 para. 8(b) (with arts. 9 , 10 ); S.I. 2009/1357 , art. 2(d)
+[^F185]: Words in s. 25 substituted (5.12.2005) by Civil Partnership Act 2004 (c. 33), ss. 250(7), 263 ; S.I. 2005/3175, art. 3, Sch. 2
+[^F186]: Words in s. 25(1) substituted (S.) (16.12.2014) by Marriage and Civil Partnership (Scotland) Act 2014 (asp 5), s. 36, Sch. 2 para. 2(b); S.S.I. 2014/287, art. 3, Sch.
+[^F187]: Words in s. 25(1) substituted (S.) (30.11.2021) by Civil Partnership (Scotland) Act 2020 (asp 15), s. 16, sch. 2 para. 5(18)(a); S.S.I. 2021/351, reg. 2, sch. (with reg. 3)
+[^F188]: S. 25: definitions of "protected civil partnership" and "protected marriage" inserted (10.12.2014) by Marriage (Same Sex Couples) Act 2013 (c. 30), s. 21(3), Sch. 5 para. 14(a); S.I. 2014/3169, art. 2
+[^F189]: Words in s. 25 substituted (E.W.) (2.12.2019) by The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458), regs. 1(2), 33 (with reg. 35); (13.1.2020) by The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514), regs. 1(2), 47(1)(a)(2)(a)(3)(a) (with regs. 6-9); and (S.) (30.11.2021) by Civil Partnership (Scotland) Act 2020 (asp 15), s. 16, sch. 2 para. 5(18)(b); S.S.I. 2021/351, reg. 2, sch. (with reg. 3)
+[^F190]: Words in s. 25 inserted (E.W.N.I.) (13.1.2020) by The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514), regs. 1(2), 47(1)(b)(2)(b) (with regs. 6-9) Words in s. 25(1) inserted (S.) (13.1.2020) by The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514), regs. 1(2), 47(3)(b) (with regs. 6-9)
+[^F191]: Words in s. 25(1) inserted (S.) (16.12.2014) by Marriage and Civil Partnership (Scotland) Act 2014 (asp 5), s. 36, Sch. 2 para. 2(c); S.S.I. 2014/287, art. 3 , Sch.; and inserted (E.W.N.I.) (27.1.2022) by The Civil Partnership (Scotland) Act 2020 and Marriage and Civil Partnership (Scotland) Act 2014 (Consequential Modifications) Order 2022 (S.I. 2022/74), art. 1, Sch. 1 para. 1(5)
+[^F192]: S. 25: definition of "registered psychologist" inserted (1.7.2009) by The Health Care and Associated Professions (Miscellaneous Amendments and Practitioner Psychologists) Order 2009 (S.I. 2009/1182), art. 4(2), Sch. 5 para. 8(b) (with arts. 9, 10 ); S.I. 2009/1357, art. 2(d)
+[^F193]: Words in s. 25 substituted (2.12.2019) by Children and Social Work Act 2017 (c. 16), s. 70(2), Sch. 5 para. 48(d); S.I. 2019/1436, reg. 2(s)
+[^F194]: S. 25: definition of "statutory declaration of consent" inserted (10.12.2014) by Marriage (Same Sex Couples) Act 2013 (c. 30), s. 21(3), Sch. 5 para. 14(b); S.I. 2014/3169 , art. 2
+[^F195]: S. 25(2)-(6) inserted (S.) (16.12.2014) by Marriage and Civil Partnership (Scotland) Act 2014 (asp 5), s. 36, Sch. 2 para. 2(d); S.S.I. 2014/287, art. 3, Sch.
+[^F196]: Words in s. 27(5) substituted (1.7.2009) by The Health Care and Associated Professions (Miscellaneous Amendments and Practitioner Psychologists) Order 2009 (S.I. 2009/1182), art. 4(2), Sch. 5 para. 8(c) (with arts. 9, 10); S.I. 2009/1357, art. 2(d)
+[^F197]: Words in Sch. 1 para. 1(1) substituted (3.4.2006) by The Lord Chancellor (Transfer of Functions and Supplementary Provisions) (No.2) Order 2006 (S.I. 2006/1016), art. 2, Sch. 1 para. 13
+[^F198]: Sch. 1 para. 1(1A) inserted (3.4.2006) by The Lord Chancellor (Transfer of Functions and Supplementary Provisions) (No.2) Order 2006 (S.I. 2006/1016), art. 2, Sch. 1 para. 14
+[^F199]: Words in Sch. 1 para. 1(2)(b) substituted (1.7.2009) by The Health Care and Associated Professions (Miscellaneous Amendments and Practitioner Psychologists) Order 2009 (S.I. 2009/1182), art. 4(2), Sch. 5 para. 8(d) (with arts. 9, 10); S.I. 2009/1357, art. 2(d)
+[^F200]: Words in Sch. 1 para. 1(3)(c) substituted (1.10.2009) by Constitutional Reform Act 2005 (c. 4), ss. 59, 148, Sch. 11 para. 5; S.I. 2009/1604, art. 2(d)
+[^F201]: Words in Sch. 1 para. 2(1) substituted (3.4.2006) by The Lord Chancellor (Transfer of Functions and Supplementary Provisions) (No.2) Order 2006 (S.I. 2006/1016), art. 2, Sch. 1 para. 15
+[^F202]: Sch. 1 para. 2(1A) inserted (3.4.2006) by The Lord Chancellor (Transfer of Functions and Supplementary Provisions) (No.2) Order 2006 (S.I. 2006/1016), art. 2, Sch. 1 para. 16
+[^F203]: Sch. 1 para. 4(3) inserted (E.W.S.) (10.12.2014) by Marriage (Same Sex Couples) Act 2013 (c. 30), s. 21(3), Sch. 5 para. 20; S.I. 2014/3169, art. 2
+[^F204]: Sch. 1 para. 4(4) inserted (S.) (16.12.2014) by Marriage and Civil Partnership (Scotland) Act 2014 (asp 5), s. 36, Sch. 2 para. 18; S.S.I. 2014/287, art. 3, Sch.
+[^F205]: Words in Sch. 1 para. 5 inserted (5.12.2005) by Civil Partnership Act 2004 (c. 33), ss. 250(8), 263; S.I. 2005/3175, art. 3, Sch. 2
+[^F206]: Words in Sch. 1 para. 6(5) omitted (19.9.2013) by virtue of The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042), art. 1(2), Sch. para. 28(a)
+[^F207]: Sch. 1 para. 8A inserted (3.4.2006) by T he Lord Chancellor (Transfer of Functions and Supplementary Provisions) (No.2) Order 2006 (S.I. 2006/1016), Sch. 1 para. 17
+[^F208]: Sch. 1 cross-heading substituted (19.9.2013) by The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042), art. 1(2), Sch. para. 28(b)
+[^F209]: Words in Sch. 1 para. 9 substituted (19.9.2013) by The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042), art. 1(2), Sch. para. 28(c)
+[^F210]: Words in Sch. 3 para. 3(5) substituted (3.4.2008) by The Transfer of Functions (Registration) Order 2008 (S.I. 2008/678), art. 5(1), Sch. 2 para. 13 (with art. 4)
+[^F211]: Words in Sch. 3 para. 9(1) substituted (5.12.2005) by Civil Partnership Act 2004 (c. 33), ss. 250(9), 263; S.I. 2005/3175, art. 3, Sch. 2
+[^F212]: Sch. 3 para. 11 repealed (8.1.2007) by Legislative and Regulatory Reform Act 2006 (c. 51), ss. 30, 33, Sch. (with s. 30(2)-(5))
+[^F213]: Sch. 3 para. 11A and cross-heading inserted (30.6.2014 for specified purposes, 10.12.2014 in so far as not already in force) by Marriage (Same Sex Couples) Act 2013 (c. 30), s. 21(3), Sch. 5 para. 9(2); S.I. 2014/1662, art. 2(b); S.I. 2014/3169, art. 2
+[^F214]: Words in Sch. 3 para. 11A(3) substituted (2.12.2019) by The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458), regs. 1(2), 34 (with reg. 35)
+[^F215]: S. 17 and preceding cross-heading substituted (1.1.2007) by The Registration Services (Consequential Provisions) (Scotland) Order 2006 (S.S.I. 2006/596), art. 2(2)
+[^F216]: S. 17 and preceding cross-heading substituted (1.1.2007) by The Registration Services (Consequential Provisions) (Scotland) Order 2006 (S.S.I. 2006/596), art. 2(2)
+[^F217]: As inserted by the Local Electoral Administration and Registration Services (Scotland) Act 2006 (“the 2006 Act”), section 44(5).
+[^F218]: Words in Sch. 3 para. 18 substituted (1.1.2007) by The Registration Services (Consequential Provisions) (Scotland) Order 2006 (S.S.I. 2006/596), art. 2(3)
+[^F219]: Words in Sch. 3 para. 19(1) inserted (16.12.2014) by Marriage and Civil Partnership (Scotland) Act 2014 (asp 5), s. 36, Sch. 2 para. 9(2)(a); S.S.I. 2014/287, art. 3, Sch.
+[^F220]: Word in Sch. 3 para. 19 repealed (30.11.2021) by Civil Partnership (Scotland) Act 2020 (asp 15), s. 16, sch. 2 para. 5(19)(a); S.S.I. 2021/351, reg. 2, sch. (with reg. 3)
+[^F221]: Words in Sch. 3 para. 19(1) substituted (5.12.2005) by Civil Partnership Act 2004 (c. 33), ss. 250(9), 263; S.I. 2005/3175, art. 3, Sch. 2
+[^F222]: Words in Sch. 3 para. 20 substituted (1.1.2007) by The Registration Services (Consequential Provisions) (Scotland) Order 2006 (S.S.I. 2006/596), art. 2(4)(a)
+[^F223]: As inserted by the 2006 Act, section 44(6).
+[^F224]: Word in Sch. 3 para. 20 substituted (1.1.2007) by The Registration Services (Consequential Provisions) (Scotland) Order 2006 (S.S.I. 2006/596), art. 2(4)(b)
+[^F225]: Sch. 3 para. 20A inserted (1.9.2014 for specified purposes, 16.12.2014 in so far as not already in force) by Marriage and Civil Partnership (Scotland) Act 2014 (asp 5), s. 36, Sch. 2 para. 9(2)(b); S.S.I. 2014/212, art. 2, Sch. (as amended (1.9.2014) by S.S.I. 2014/218, art. 2(3), Sch.); S.S.I. 2014/287, art. 3, Sch.
+[^F226]: Words in Sch. 3 para. 20A(4) substituted (18.1.2021 for specified purposes, 30.11.2021 in so far as not already in force) by Civil Partnership (Scotland) Act 2020 (asp 15), s. 16, sch. 2 para. 5(19)(b); S.S.I. 2020/457, reg. 2(c); S.S.I. 2021/351, reg. 2, sch. (with reg. 3)
+[^F227]: Words in Sch. 3 para. 22(4) substituted (16.11.2012) by Civil Registration Act (Northern Ireland) 2011 (c. 20), ss. 26(2), 34; S.R. 2012/406, art. 2, Sch.
+[^F228]: Sch. 3 para. 22(5)-(8) added (16.11.2012) by Civil Registration Act (Northern Ireland) 2011 (c. 20), ss. 26(3), 34; S.R. 2012/406, art. 2, Sch.
+[^F229]: Words in Sch. 3 para. 29(1) substituted (5.12.2005) by Civil Partnership Act 2004 (c. 33), ss. 250(9), 263; S.I. 2005/3175, art. 3, Sch. 2
+[^F230]: Sch. 3 para. 33 and cross-heading inserted (13.1.2020) by The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514), regs. 1(2), 48 (with regs. 6-9)
+[^F231]: Sch. 4 para. 2 repealed (5.12.2005) by Civil Partnership Act 2004 (c. 33), ss. 261(4), 263, Sch. 30; S.I. 2005/3175, art. 2(1), Sch. 1
+[^F232]: Sch. 8 para. 4 repealed (20.9.2006) by The Law Reform (Miscellaneous Provisions) (Northern Ireland) Order 2006 (S.I. 2006/1945 (N.I. 14)), arts. 1(3), 5(c)
+[^F233]: Sch. 5 para. 6A and cross-heading inserted (6.4.2016 unless brought into force earlier by an order under s. 56(1) of the amending Act) by Pensions Act 2014 (c. 19), s. 56(4), Sch. 12 para. 48(2)
+[^F234]: Sch. 5 para. 6B and cross-heading inserted (N.I.) (6.4.2016 unless brought into operation earlier by an order under s. 53(1) of the amending Act) by Pensions Act (Northern Ireland) 2015 (c. 5), s. 53(3), Sch. 12 para. 43(2)
+[^F235]: Words in Sch. 5 para. 7(1) inserted (6.4.2016 unless brought into force earlier by an order under s. 56(1) of the amending Act) by Pensions Act 2014 (c. 19), s. 56(4), Sch. 12 para. 48(3)
+[^F236]: Word in Sch. 5 para. 8(1)(a) inserted (6.4.2016 unless brought into force earlier by an order under s. 56(1) of the amending Act) by Pensions Act 2014 (c. 19), s. 56(4), Sch. 12 para. 76
+[^F237]: Word in Sch. 5 para. 8(3) inserted (6.4.2016 unless brought into force earlier by an order under s. 56(1) of the amending Act) by Pensions Act 2014 (c. 19), s. 56(4), Sch. 12 para. 76
+[^F238]: Words in Sch. 5 para. 9(1)(a) inserted (6.4.2016 unless brought into force earlier by an order under s. 56(1) of the amending Act) by Pensions Act 2014 (c. 19), s. 56(4), Sch. 11 para. 16
+[^F239]: Words in Sch. 5 para. 9(3) inserted (6.4.2016 unless brought into force earlier by an order under s. 56(1) of the amending Act) by Pensions Act 2014 (c. 19), s. 56(4), Sch. 11 para. 16
+[^F240]: Sch. 5 para. 10(1)(za) inserted (6.4.2016 unless brought into force earlier by an order under s. 56(1) of the amending Act) by Pensions Act 2014 (c. 19), s. 56(4), Sch. 12 para. 48(4)
+[^F241]: Sch. 5 para. 10(1)(zb) inserted (N.I.) (6.4.2016 unless brought into operation earlier by an order under s. 53(1) of the amending Act) by Pensions Act (Northern Ireland) 2015 (c. 5), s. 53(3), Sch. 12 para. 43(3)
+[^F242]: Sch. 5 para. 11 and crossheading omitted (6.4.2016 unless brought into force earlier by an order under s. 56(1) of the amending Act) by virtue of Pensions Act 2014 (c. 19), s. 56(4), Sch. 12 para. 83
+[^F243]: Words in Sch. 5 para. 15(7) inserted (7.12.2020) by The Marriage and Civil Partnership (Northern Ireland) (No. 2) Regulations 2020 (S.I. 2020/1143), regs. 1(2), 43
+[^F244]: Sch. 6 Pt. 1 repealed (1.10.2010) by Equality Act 2010 (c. 15) Sch. 27 Pt. 1 (as substituted by S.I. 2010/2279, art. 1(2), Sch. 2 (see S.I. 2010/2317, art. 2))

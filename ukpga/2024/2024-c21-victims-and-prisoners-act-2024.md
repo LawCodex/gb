@@ -1,0 +1,4188 @@
+---
+title: "Victims and Prisoners Act 2024"
+identifier: "ukpga/2024/21"
+citation: "2024 Chapter 21"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S+N.I."
+date: 2024-05-24
+last_amended: 2026-09-15
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/2024/21"
+source_modified: 2026-09-17
+retrieved: 2026-10-11
+---
+
+# Victims and Prisoners Act 2024
+
+**2024 Chapter 21**
+
+An Act to make provision about victims of criminal conduct and others affected by criminal conduct; about the appointment and functions of advocates for victims of major incidents; for an infected blood compensation scheme; about the release of prisoners; about the membership and functions of the Parole Board; to prohibit certain prisoners from forming a marriage or civil partnership; and for connected purposes.
+
+[24th May 2024]
+
+Be it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## Part 1 — Victims of criminal conduct
+
+### Meaning of “victim”
+
+#### 1 Meaning of “victim”
+
+(1) In this Part, “victim” means a person who has suffered harm as a direct result of—
+
+(a) being subjected to criminal conduct, or
+
+(b) one or more of the circumstances mentioned in subsection (2).
+
+(2) The circumstances are—
+
+(a) where the person has seen, heard, or otherwise directly experienced the effects of, criminal conduct at the time the conduct occurred;
+
+(b) where the person’s birth was the direct result of criminal conduct;
+
+(c) where the death of a close family member of the person was the direct result of criminal conduct;
+
+(d) where the person is a child who is a victim of domestic abuse which constitutes criminal conduct.
+
+(3) The reference in subsection (2)(d) to a child who is a victim of domestic abuse is to be read in accordance with Part 1 of the Domestic Abuse Act 2021.
+
+(4) For the purposes of this Part—
+
+(a) “harm” includes physical, mental or emotional harm and economic loss;
+
+(b) “criminal conduct” means conduct which constitutes an offence.
+
+(5) It is immaterial for the purposes of subsection (4)(b) that—
+
+(a) no person has reported the offence;
+
+(b) no person has been charged with or convicted of the offence.
+
+(6) In section 52(3)(a) of the Domestic Violence, Crime and Victims Act 2004, for “complaint has been made about” substitute “person has reported”.
+
+### Victims’ code
+
+#### 2 The victims’ code
+
+(1) The Secretary of State must issue a code of practice as to the services to be provided to victims by persons appearing to the Secretary of State to have functions of a public nature relating to—
+
+(a) victims, or
+
+(b) any aspect of the criminal justice system.
+
+(2) In this Part, the “victims’ code” means the code of practice issued under this section that is for the time being in operation (but see subsection (13)).
+
+(3) The victims’ code must make provision for services which reflect the principles that victims require—
+
+(a) information to help them understand the criminal justice process;
+
+(b) access to services which support them (including, where appropriate, specialist services);
+
+(c) the opportunity to make their views heard in the criminal justice process;
+
+(d) the ability to challenge decisions which have a direct impact on them.
+
+[[^F1](3A) The victims’ code must make provision about informing victims of the opportunity to ask the Attorney General to refer a case to the Court of Appeal under section 36 of the Criminal Justice Act 1988 (unduly lenient sentences).
+
+(3B) Subsection (3A) applies only in respect of—
+
+(a) a person who is a victim by virtue of section 1(1)(a) or (2)(c), and
+
+(b) cases relating to the criminal conduct as a result of which that person is such a victim.]
+
+(4) The Secretary of State may by regulations make further provision about the victims’ code, including about matters that the code must include.
+
+(5) But the Secretary of State may make regulations under subsection (4) only if satisfied that provision made in the code in compliance with the regulations would not result in—
+
+(a) a significant reduction in the quality or extent of the services provided in accordance with the victims’ code, or
+
+(b) a significant restriction in the description of persons to whom services are provided in accordance with the victims’ code.
+
+(6) The victims’ code may restrict the application of its provisions to—
+
+(a) victims of specified descriptions (including those who are victims by virtue of specified conduct or conduct constituting specified offences);
+
+(b) specified persons who have functions of a kind mentioned in subsection (1).
+
+(7) The victims’ code may include provision requiring or permitting the services which are to be provided to a victim to be provided to one or more other persons—
+
+(a) instead of the victim (for example, where the victim has died);
+
+(b) as well as the victim.
+
+(8) The victims’ code may make different provision for different purposes, including different provision for—
+
+(a) victims of different descriptions;
+
+(b) persons who have different functions of a kind mentioned in subsection (1).
+
+(9) The victims’ code may make different provision for different areas.
+
+(10) In considering whether to exercise the power in subsection (8)(a), the Secretary of State must have regard to the particular needs of victims who are under the age of 18 or who have protected characteristics within the meaning of the Equality Act 2010.
+
+(11) The victims’ code may not require anything to be done by—
+
+(a) a person acting in a judicial capacity, or on the instructions of or on behalf of such a person;
+
+(b) a person acting in the discharge of a prosecution function, if that function involves the exercise of a discretion.
+
+(12) In this section, “specified” means specified in the victims’ code.
+
+(13) Until the first code of practice issued under this section is in operation, references in [[^F2]subsection (3A) and] sections 5 to 12 and 32 to the “victims’ code” are to the code of practice issued under section 32 of the Domestic Violence, Crime and Victims Act 2004 that is for the time being in operation.
+
+#### 3 Preparing and issuing the victims’ code (prospective)
+
+(1) This section applies in relation to the code of practice required to be issued under section 2.
+
+(2) The Secretary of State must prepare a draft of the code.
+
+(3) In preparing the draft the Secretary of State must consult—
+
+(a) the Attorney General,
+
+(b) the Commissioner for Victims and Witnesses, and
+
+(c) the Welsh Ministers.
+
+(4) After preparing the draft the Secretary of State must—
+
+(a) publish the draft, and
+
+(b) specify a period during which representations about the draft may be made to the Secretary of State.
+
+(5) The Secretary of State must—
+
+(a) consider, in consultation with the Attorney General, any representations about the draft made to the Secretary of State before the end of the period specified in accordance with subsection (4)(b), and
+
+(b) if the Secretary of State thinks it appropriate, modify the draft in the light of any such representations.
+
+(6) After carrying out the duties under subsection (5), the Secretary of State must lay the draft code before Parliament.
+
+(7) When the draft code has been laid before Parliament in accordance with subsection (6), the Secretary of State must bring it into operation on such day as the Secretary of State appoints by regulations.
+
+(8) A requirement under any of subsections (2) to (5) may be met by steps taken before (as well as after) this section comes into force.
+
+#### 4 Revising the victims’ code (prospective)
+
+(1) The Secretary of State may from time to time revise the victims’ code.
+
+(2) But the Secretary of State may revise the victims’ code only if satisfied that the proposed revisions would not result in—
+
+(a) a significant reduction in the quality or extent of the services provided in accordance with the code, or
+
+(b) a significant restriction in the description of persons to whom services are provided in accordance with the code.
+
+(3) The procedure in section 3 applies to a revision of the victims’ code, except that if the Secretary of State considers that all of the revisions are minor the procedure in subsection (5) may be used instead.
+
+(4) Revisions are minor if—
+
+(a) they make corrections or clarifications, or
+
+(b) they are consequential on changes to the law, practice or procedure relating to any aspect of the criminal justice system.
+
+(5) The procedure in this subsection is that the Secretary of State must—
+
+(a) consult the Attorney General, the Commissioner for Victims and Witnesses and the Welsh Ministers about the proposed revisions,
+
+(b) lay a draft of the revised code before Parliament, and
+
+(c) when the draft revised code has been laid before Parliament, bring it into operation on such day as the Secretary of State appoints by regulations.
+
+#### 5 Code compliance
+
+(1) Where the victims’ code makes provision about a service to be provided to victims by a person, the person must provide the service in accordance with the code unless the person has good reasons not to.
+
+(2) Any person who is subject to the duty in subsection (1) and is not an individual must ensure that procedures are in place by which other persons may complain about an alleged failure to comply with the duty.
+
+(3) If a person fails to act in accordance with the victims’ code, the failure does not of itself make that person liable to criminal or civil proceedings.
+
+(4) But the victims’ code is admissible in evidence in criminal or civil proceedings, and a court may take into account a failure to act in accordance with the code in determining a question in the proceedings.
+
+#### 6 Code awareness and reviewing compliance: criminal justice bodies (prospective)
+
+(1) Each criminal justice body which provides services in a police area must—
+
+(a) take reasonable steps to promote awareness of the victims’ code among users of those services and other members of the public, and
+
+(b) keep under review whether and how those services are provided in accordance with the duty in section 5(1).
+
+(2) A criminal justice body which provides services in a police area must, in particular, undertake the following activities in such manner as may be prescribed—
+
+(a) collect prescribed information about the provision of those services;
+
+(b) share prescribed information about the provision of those services with—
+
+(i) each other criminal justice body which provides services in the police area, or such of those bodies as may be prescribed, and
+
+(ii) the elected local policing body for the police area;
+
+(c) review information shared under paragraph (b) with the bodies with whom the information is shared.
+
+(3) In subsection (2), “prescribed” means prescribed in regulations made by the Secretary of State.
+
+(4) Regulations under subsection (2) may, in particular—
+
+(a) prescribe different information to be collected or shared by different bodies;
+
+(b) prescribe different information in relation to different services;
+
+(c) prescribe information relating to the characteristics or experiences of users of services;
+
+(d) prescribe the times at which, or periods within which, information must be collected, shared or reviewed;
+
+(e) prescribe the form in which information must be collected or shared, or require information to be collected or shared in such form as may be specified in a notice issued from time to time by the Secretary of State.
+
+(5) Before making regulations under this section, the Secretary of State must consult the Commissioner for Victims and Witnesses and such other persons as the Secretary of State considers appropriate (and it is immaterial for these purposes whether the consultation is carried out before or after this section comes into force).
+
+(6) In this section, “criminal justice body” means—
+
+(a) the chief officer of police for the police area in question;
+
+(b) the Crown Prosecution Service;
+
+(c) the Lord Chancellor, in the exercise of functions under section 1 of the Courts Act 2003 or section 39 of the Tribunals, Courts and Enforcement Act 2007;
+
+(d) the Secretary of State, in the exercise of functions in relation to prisons;
+
+(e) a youth offending team established under section 39 of the Crime and Disorder Act 1998;
+
+(f) the Secretary of State, in the exercise of functions in relation to probation provision within the meaning of Part 1 of the Offender Management Act 2007 (see section 2(1) of that Act).
+
+(7) In subsection (6)(d), “prison” includes any youth detention accommodation within the meaning given by section 248(1) of the Sentencing Code (detention and training orders).
+
+#### 7 Arrangements for collection of victims’ feedback (prospective)
+
+(1) This section applies where the Secretary of State has made arrangements with a person for the collection by the person of information which—
+
+(a) relates to the characteristics or experiences of users of services provided by a relevant criminal justice body in a police area, and
+
+(b) is collected for the purposes of assessing whether and how those services are provided in accordance with the duty in section 5(1).
+
+(2) The Secretary of State and the Attorney General may by a joint direction require the body to provide specified information to the person for the purposes of enabling or assisting the performance of the arrangements.
+
+(3) A relevant criminal justice body which is directed to provide information under this section must provide it—
+
+(a) in such form and manner as may be specified, and
+
+(b) at such times or within such periods as may be specified.
+
+(4) In this section—
+
+- “relevant criminal justice body” means a criminal justice body falling within paragraphs (a), (b) or (e) of the definition of “criminal justice body” in section 6(6);
+- “specified” means specified in the direction.
+
+#### 8 Reviewing code compliance: elected local policing bodies (prospective)
+
+(1) The elected local policing body for a police area must keep under review whether and how criminal justice bodies which provide services in the police area provide those services in accordance with the duty in section 5(1).
+
+(2) The elected local policing body for a police area must, in particular, undertake the following activities in such manner as may be prescribed—
+
+(a) provide the Secretary of State with information shared with it under section 6(2)(b), or such of that information as may be prescribed;
+
+(b) participate in any review under section 6(2)(c);
+
+(c) provide the Secretary of State with such reports, on such matters in connection with a review under section 6(2)(c), as may be prescribed.
+
+(3) In subsection (2), “prescribed” means prescribed in regulations made by the Secretary of State.
+
+(4) Regulations under subsection (2) may, in particular—
+
+(a) prescribe the times at which, or periods within which, information or a report must be provided;
+
+(b) prescribe the form in which information or a report must be provided, or require information or a report to be provided in such form as may be specified in a notice issued from time to time by the Secretary of State.
+
+(5) Before making regulations under this section, the Secretary of State must consult the Commissioner for Victims and Witnesses and such other persons as the Secretary of State considers appropriate (and it is immaterial for these purposes whether the consultation is carried out before or after this section comes into force).
+
+(6) In this section, “criminal justice body” has the meaning given by section 6(6).
+
+#### 9 Code awareness and reviewing compliance: British Transport Police (prospective)
+
+(1) In this section—
+
+- “the Authority” is the British Transport Police Authority;
+- “the Chief Constable” is the Chief Constable of the British Transport Police Force;
+- “relevant services” are services provided in England and Wales by the Chief Constable.
+
+(2) The Chief Constable must take reasonable steps to promote awareness of the victims’ code among users of relevant services and other members of the public.
+
+(3) The Chief Constable and the Authority must keep under review whether and how relevant services are provided in accordance with the duty in section 5(1).
+
+(4) The Chief Constable must, in particular, undertake the following activities in such manner as may be prescribed—
+
+(a) collect prescribed information about the provision of relevant services;
+
+(b) share with the Authority prescribed information about the provision of relevant services;
+
+(c) review with the Authority information shared under paragraph (b).
+
+(5) The Authority must, in particular, undertake the following activities in such manner as may be prescribed—
+
+(a) provide the Secretary of State with the information shared with it under subsection (4)(b), or such of that information as may be prescribed;
+
+(b) participate in any review under subsection (4)(c);
+
+(c) provide the Secretary of State with such reports, on such matters in connection with a review under subsection (4)(c), as may be prescribed.
+
+(6) In this section, “prescribed” means prescribed in regulations made by the Secretary of State.
+
+(7) Regulations under this section may, in particular—
+
+(a) prescribe different information in relation to different services;
+
+(b) prescribe information relating to the characteristics or experiences of users of services;
+
+(c) prescribe the times at which, or periods within which, information must be collected, shared or reviewed, or information or a report must be provided to the Secretary of State;
+
+(d) prescribe the form in which information must be collected or shared, or information or a report must be provided to the Secretary of State, or require those things to be done in such form as may be specified in a notice issued from time to time by the Secretary of State.
+
+(8) Before making regulations under this section, the Secretary of State must consult the Commissioner for Victims and Witnesses and such other persons as the Secretary of State considers appropriate (and it is immaterial for these purposes whether the consultation is carried out before or after this section comes into force).
+
+#### 10 Code awareness and reviewing compliance: Ministry of Defence Police (prospective)
+
+(1) In this section—
+
+- “the Chief Constable” is the Chief Constable of the Ministry of Defence Police;
+- “relevant services” are services provided in England and Wales by the Chief Constable.
+
+(2) The Chief Constable must take reasonable steps to promote awareness of the victims’ code among users of relevant services and other members of the public.
+
+(3) The Chief Constable and the Secretary of State must keep under review whether and how relevant services are provided in accordance with the duty in section 5(1).
+
+(4) The Chief Constable must, in particular, undertake the following activities in such manner as may be prescribed—
+
+(a) collect prescribed information about the provision of relevant services;
+
+(b) share with the Secretary of State prescribed information about the provision of relevant services;
+
+(c) review with the Secretary of State information shared under paragraph (b).
+
+(5) The Secretary of State must, in particular—
+
+(a) participate in any review under subsection (4)(c);
+
+(b) prepare such reports, on such matters in connection with a review under subsection (4)(c), as may be prescribed.
+
+(6) In this section, “prescribed” means prescribed in regulations made by the Secretary of State.
+
+(7) Regulations under this section may, in particular—
+
+(a) prescribe different information in relation to different services;
+
+(b) prescribe information relating to the characteristics or experiences of users of services;
+
+(c) prescribe the times at which, or periods within which, information must be collected, shared or reviewed;
+
+(d) prescribe the form in which information must be collected or shared, or require information to be collected or shared in such form as may be specified in a notice issued from time to time by the Secretary of State.
+
+(8) Before making regulations under this section, the Secretary of State must consult the Commissioner for Victims and Witnesses and such other persons as the Secretary of State considers appropriate (and it is immaterial for these purposes whether the consultation is carried out before or after this section comes into force).
+
+#### 11 Reviewing code compliance: Secretary of State and Attorney General (prospective)
+
+(1) The Secretary of State and the Attorney General, acting jointly, must—
+
+(a) keep under review the code compliance of the persons mentioned in subsection (6), and
+
+(b) annually, prepare and publish a report about the code compliance of those persons in the period to which the report relates.
+
+(2) If the Secretary of State and the Attorney General agree that the code compliance of a person mentioned in subsection (6) is unsatisfactory they may—
+
+(a) if the person is the chief officer of police for a police area, give the elected local policing body for the area a notice setting out their reasons for being of that view;
+
+(b) in any other case, give the person a notice setting out their reasons for being of that view.
+
+(3) If the Secretary of State and the Attorney General give a notice under subsection (2) they must—
+
+(a) if the notice is given under paragraph (a) of that subsection, send a copy of the notice to the chief officer of police to whom the notice relates, and
+
+(b) in any case, publish the notice in such form and manner as they consider appropriate.
+
+(4) The Secretary of State and the Attorney General must consult the Commissioner for Victims and Witnesses before—
+
+(a) publishing a report under subsection (1)(b);
+
+(b) giving a notice under subsection (2).
+
+(5) The Secretary of State must publish such compliance information as the Secretary of State considers will enable members of the public to assess the code compliance of the persons mentioned in subsection (6) in the period to which the information relates.
+
+(6) The persons are—
+
+(a) each criminal justice body which provides services in a police area;
+
+(b) the Chief Constable of the British Transport Police Force;
+
+(c) the Chief Constable of the Ministry of Defence Police.
+
+(7) For the purposes of this section—
+
+(a) “compliance information” means information provided to the Secretary of State under section 8(2)(a), 9(5)(a) or 10(4)(b), or information collected under arrangements mentioned in section 7;
+
+(b) the “code compliance” of a person is whether and how the services provided by the person in the relevant area are provided in accordance with the duty in section 5(1).
+
+(8) In subsection (7)(b), “relevant area” means—
+
+(a) in relation to a criminal justice body which provides services in a police area, that area;
+
+(b) in relation to the Chief Constable of the British Transport Police Force or the Chief Constable of the Ministry of Defence Police, England and Wales.
+
+(9) The first report under paragraph (b) of subsection (1) may relate to any 12 month period that includes the day on which that paragraph comes into force.
+
+(10) Subsequent reports must relate to the 12 month period immediately following the 12 month period to which the previous report relates.
+
+(11) The Secretary of State must lay each report before Parliament.
+
+(12) Information or a report published under this section—
+
+(a) must be published as soon as is reasonably practicable after the end of the period to which it relates;
+
+(b) may be published in such form and manner as the Secretary of State considers appropriate.
+
+(13) Where information published by the Secretary of State under subsection (5) relates to a particular police area, the elected local policing body for the area must take reasonable steps to make members of the public in the area aware of how to access the information.
+
+(14) In this section, “criminal justice body” has the meaning given by section 6(6).
+
+#### 12 Guidance on code awareness and reviewing compliance (prospective)
+
+(1) The Secretary of State must issue guidance about the discharge of duties under sections 6 to 11 (and any person subject to such a duty must have regard to the guidance when discharging the duty).
+
+(2) The guidance may, in particular, include provision—
+
+(a) about ways of promoting awareness of the victims’ code (including different provision in relation to users of services provided by a person and other members of the public);
+
+(b) about the way in which information is collected (and in particular, how information in relation to individuals who are under the age of 18 or who have protected characteristics within the meaning of the Equality Act 2010 is collected);
+
+(c) about the way in which information is shared and reviewed (including, where meetings are held to review information, about the conduct of such meetings);
+
+(d) about the steps that an elected local policing body for a police area must take, where section 11(13) applies, to make members of the public aware of how to access compliance information published by the Secretary of State which relates to the police area.
+
+(3) Before issuing guidance under this section, the Secretary of State must consult the Commissioner for Victims and Witnesses and such other persons as the Secretary of State considers appropriate (and it is immaterial for these purposes whether the consultation is carried out before or after this section comes in force).
+
+### Collaboration in exercise of victim support functions (prospective)
+
+#### 13 Duty to collaborate in exercise of victim support functions (prospective)
+
+(1) The relevant authorities for a police area in England must collaborate with each other in the exercise in the area of their functions in relation to relevant victim support services.
+
+(2) A relevant authority exercises a function in relation to relevant victim support services if it exercises the function in relation to—
+
+(a) the provision of such services, or
+
+(b) the commissioning of such services provided by another person.
+
+(3) The “relevant authorities” for a police area in England are—
+
+(a) the local policing body for the police area,
+
+(b) an integrated care board, established under Chapter A3 of Part 2 of the National Health Service Act 2006, all or part of whose area falls within the police area, and
+
+(c) a local authority, all or part of whose area falls within the police area.
+
+(4) For the purposes of subsection (3)(c), “local authority” means—
+
+(a) a county council,
+
+(b) a district council for an area for which there is no county council,
+
+(c) the Greater London Authority, or
+
+(d) the Council of the Isles of Scilly.
+
+(5) “Relevant victim support service” means a service, other than accommodation-based support, provided to support victims of criminal conduct which constitutes—
+
+(a) domestic abuse,
+
+(b) conduct of a sexual nature, or
+
+(c) serious violence.
+
+(6) In subsection (5), “accommodation-based support” and “domestic abuse” have the same meanings as in the Domestic Abuse Act 2021 (see sections 1 and 57 of that Act).
+
+(7) For the purposes of subsection (5)(c), “violence” includes—
+
+(a) violence against property, and
+
+(b) threats of violence,
+
+but does not include terrorism within the meaning of the Terrorism Act 2000 (see section 1 of that Act).
+
+(8) In considering whether violence amounts to serious violence, the relevant authorities must, in particular, take into account—
+
+(a) the maximum penalty which could be imposed for any offence which the conduct constitutes, and
+
+(b) the impact of the conduct on any victim.
+
+(9) Collaboration under this section may include the processing of information within the meaning given by section 3 of the Data Protection Act 2018.
+
+#### 14 Strategy for collaboration in exercise of victim support functions (prospective)
+
+(1) For the purposes of section 13, the relevant authorities for a police area in England must together—
+
+(a) prepare a strategy for the exercise in the area of their functions in relation to relevant victim support services,
+
+(b) set out in the strategy how they consider they are fulfilling, or intend to fulfil, the duty under section 13, and
+
+(c) implement the strategy.
+
+(2) In preparing the strategy, the relevant authorities must—
+
+(a) make reasonable efforts to obtain the views of victims in the police area,
+
+(b) consult persons appearing to the relevant authorities to represent persons providing relevant victim support services in the police area, and
+
+(c) consult such other persons as the relevant authorities consider appropriate.
+
+(3) In preparing the strategy, the relevant authorities must—
+
+(a) assess the needs of victims in the police area for relevant victim support services,
+
+(b) assess whether and how those needs are being met by the services which are available (whether or not provided by the relevant authorities), and
+
+(c) have regard to those assessments.
+
+(4) When making an assessment under subsection (3), the relevant authorities must have regard to the particular needs of victims who are under the age of 18 or who have protected characteristics within the meaning of the Equality Act 2010.
+
+(5) Once the strategy has been prepared the relevant authorities must—
+
+(a) publish the strategy,
+
+(b) keep the strategy under review, and
+
+(c) from time to time prepare a revised strategy.
+
+(6) Subsections (1) to(5) apply to a revised strategy as they apply to the original strategy.
+
+(7) In this section, “relevant authority” and “relevant victim support service” have the meanings given by section 13.
+
+#### 15 Guidance on collaboration in exercise of victim support functions (prospective)
+
+(1) The Secretary of State must issue guidance to assist relevant authorities for police areas in England in the discharge of the duties under sections 13 and 14 (and such authorities must have regard to the guidance when discharging those duties).
+
+(2) Before issuing guidance under this section, the Secretary of State must consult such persons as the Secretary of State considers appropriate (and it is immaterial for these purposes whether the consultation is carried out before or after this section comes in force).
+
+(3) In this section, “relevant authority” has the meaning given by section 13(3).
+
+### Guidance about specified victim support roles
+
+#### 16 Guidance about specified victim support roles
+
+(1) The Secretary of State must issue guidance about specified victim support roles performed—
+
+(a) in England, and
+
+(b) subject to subsection (2), in Wales.
+
+(2) Guidance under this section must not relate to a matter provision about which would be within the legislative competence of Senedd Cymru if it were contained in an Act of the Senedd (ignoring any requirement for the consent of a Minister of the Crown imposed under Schedule 7B to the Government of Wales Act 2006).
+
+(3) In this section—
+
+- “specified” means specified in regulations made by the Secretary of State;
+- “victim support role” means a role performed by individuals which involves the provision of support to victims of criminal conduct (where the support relates to that conduct).
+
+(4) A victim support role may be specified by reference to (among other matters)—
+
+(a) the circumstances in which the role is performed;
+
+(b) the type of support provided in connection with the role;
+
+(c) the type of criminal conduct in relation to which such support is provided.
+
+(5) Guidance under this section about a victim support role must include provision about—
+
+(a) the support provided in connection with the role;
+
+(b) training and qualifications for individuals who perform the role;
+
+(c) how individuals who perform the role, and other persons who have functions relating to victims or any aspect of the criminal justice system, work together.
+
+(6) Guidance under this section must (where relevant) make provision in relation to victims who are under the age of 18 or who have protected characteristics within the meaning of the Equality Act 2010.
+
+(7) Any person who has functions of a public nature relating to victims, or any aspect of the criminal justice system, must have regard to guidance under this section where—
+
+(a) the person is exercising such a function, and
+
+(b) the guidance is relevant to the exercise of that function.
+
+(8) Subsection (7) does not apply to—
+
+(a) anything done by any person acting in a judicial capacity, or on the instructions of or on behalf of such a person;
+
+(b) a devolved Welsh authority, within the meaning of the Government of Wales Act 2006 (see section 157A of that Act).
+
+### Disclosures by victims that cannot be precluded by agreement
+
+#### 17 Disclosures by victims that cannot be precluded by agreement
+
+(1) A provision in an agreement is void in so far as it purports to preclude the making of a disclosure falling within subsection (2).
+
+(2) A disclosure falls within this subsection if it is a disclosure of information that is made by a victim or a person who reasonably believes they are a victim—
+
+(a) to any person who has law enforcement functions, for the purpose of those functions being exercised in relation to relevant conduct;
+
+(b) to a qualified lawyer, for the purpose of seeking legal advice about relevant conduct;
+
+(c) to any individual who is entitled to practise a regulated profession, for the purpose of obtaining professional support in relation to relevant conduct;
+
+(d) to any individual who provides a service to support victims, for the purpose of obtaining support from that service in relation to relevant conduct;
+
+(e) to a regulator of a regulated profession for the purpose of co-operating with the regulator in relation to relevant conduct;
+
+[[^F3](ea) to the Criminal Injuries Compensation Authority, for the purpose of a claim for compensation in relation to relevant conduct under the Criminal Injuries Compensation Scheme or the Victims of Overseas Terrorism Compensation Scheme;
+
+(eb) to a court or tribunal, for the purpose of issuing or pursuing any proceedings in relation to a decision of the Criminal Injuries Compensation Authority made in connection with a claim mentioned in paragraph (ea);]
+
+(f) to a person who is authorised to receive information on behalf of a person mentioned in paragraph (a), (b), (c), (d) [[^F4], (e) or (ea), or on behalf of a court or tribunal mentioned in paragraph (eb), for the purpose mentioned in the paragraph in question;]
+
+(g) to a child, parent or partner of the person making the disclosure, for the purpose of obtaining support in relation to relevant conduct.
+
+(3) But a provision in an agreement is not void by virtue of subsection (1) so far as it purports to preclude a disclosure made for the primary purpose of releasing the information into the public domain.
+
+(4) The Secretary of State may by regulations amend this section—
+
+(a) to add, remove or modify a description of disclosure in relation to which subsection (1) applies (“a permitted disclosure”);
+
+(b) to extend the application of subsection (1) to a provision in an agreement which purports to impose an obligation or liability in connection with a permitted disclosure.
+
+(5) But regulations under subsection (4)(a) must not make any provision which would apply subsection (1) in relation to a disclosure—
+
+(a) made by a person other than a victim or a person who reasonably believes they are a victim, or
+
+(b) that does not relate to relevant conduct.
+
+(6) In this section—
+
+- [[^F5]“Criminal Injuries Compensation Scheme” means—
+
+  - the schemes established by arrangements made under section 1 of the Criminal Injuries Compensation Act 1995, or
+  - arrangements made by the Secretary of State for compensation for criminal injuries in operation before the commencement of those schemes;]
+
+- “entitled to practise”, in relation to a regulated profession, is to be read in accordance with section 19(2) of the Professional Qualifications Act 2022;
+
+- “law enforcement functions” means functions for the purposes of the investigation or prosecution of criminal offences or the execution of criminal penalties;
+
+- “partner”: a person is a “partner” of another person if they are married to each other, in a civil partnership with each other or in an intimate personal relationship with each other which is of significant duration;
+
+- “qualified lawyer” means a person who is an authorised person in relation to a reserved legal activity for the purposes of the Legal Services Act 2007 [[^F6]or a person who is a registered foreign lawyer];
+
+- [[^F7]“registered foreign lawyer” means a person who is registered with the Law Society under section 89 of the Courts and Legal Services Act 1990;]
+
+- “regulated profession” and “regulator” have the same meanings as in the Professional Qualifications Act 2022 (see section 19 of that Act);
+
+- “relevant conduct” means conduct by virtue of which the person making the disclosure is or reasonably believes they are a victim (see section 1(1) and (2) of this Act);
+
+- [[^F8]“Victims of Overseas Terrorism Compensation Scheme” means the scheme established by arrangements made under section 47 of the Crime and Security Act 2010.]
+
+### Victims of domestic abuse
+
+#### 18 Restricting parental responsibility where one parent kills the other (prospective)
+
+(1) The Children Act 1989 is amended in accordance with subsections (2) to (7).
+
+(2) In section 8 (child arrangements orders and other orders with respect to children), in the closing words of subsection (3), after “include” insert “proceedings in the Crown Court under section 10A or”.
+
+(3) After section 10 insert—
+
+> **10A Duty of Crown Court to make prohibited steps order**
+>
+> (1) This section applies where—
+>
+> (a) a child has two parents at least one of whom has parental responsibility for the child, and
+>
+> (b) a parent who has parental responsibility for the child (“the offender”) is convicted of the murder or, in the circumstances mentioned in subsection (2), manslaughter of the other parent.
+>
+> (2) The circumstances are where, but for section 54 of the Coroners and Justice Act 2009 (loss of control) or section 2 of the Homicide Act 1957 (diminished responsibility), the offender would have been liable to be convicted for murder.
+>
+> (3) The Crown Court must make a prohibited steps order when sentencing the offender.
+>
+> (4) The order must—
+>
+> (a) specify that no step of any kind which could be taken by a parent in meeting their parental responsibility for a child may be taken by the offender with respect to the child without the consent of the High Court or the family court, and
+>
+> (b) be made to have effect until the order is varied or discharged by the High Court or the family court.
+>
+> (5) But the Crown Court must not make a prohibited steps order under this section if—
+>
+> (a) making the order is prohibited by section 29(3) of the Adoption and Children Act 2002,
+>
+> (b) a prohibited steps order is already in force that meets the requirements in subsection (4), or
+>
+> (c) in a case where the offender is convicted of manslaughter, it appears to the Crown Court that it would not be in the interests of justice to do so.
+>
+> (6) Sections 1, 7 and 11 do not apply where the Crown Court proceeds under this section.
+>
+> (7) A prohibited steps order made under this section does not cease to have effect if the offender is acquitted of the murder or manslaughter on appeal (but see section 10B(3) and (4)).
+>
+> (8) A prohibited steps order made under this section is to be treated for the purposes of section 31F(6) of the Matrimonial and Family Proceedings Act 1984 (proceedings and decisions) as if it were made by the family court.
+>
+> (9) The Crown Court does not have jurisdiction to entertain any proceedings in connection with the enforcement of a prohibited steps order made under this section.
+>
+> **10B Review of orders made under section 10A**
+>
+> (1) This section applies where a prohibited steps order is made under section 10A prohibiting the taking of steps by a parent with respect to a child.
+>
+> (2) The local authority that is the relevant local authority at the time the order is made must make an application to the court (see section 92(7)) to review the order.
+>
+> (3) Subsection (4) applies if—
+>
+> (a) the application under subsection (2) has been disposed of (whether or not the order was varied), and
+>
+> (b) the parent is acquitted on appeal of the murder or manslaughter that resulted in the making of the order.
+>
+> (4) The local authority that is the relevant local authority at the time the verdict of acquittal is entered must make an application to the court to review the order.
+>
+> (5) An application under this section must be made as soon as is reasonably practicable and in any event before the end of the period of 14 days beginning with the day after the day on which—
+>
+> (a) in the case of an application under subsection (2), the order was made;
+>
+> (b) in the case of an application under subsection (4), the verdict of acquittal was entered.
+>
+> (6) The Secretary of State may by regulations amend the period specified in subsection (5).
+>
+> (7) In this section “relevant local authority” means—
+>
+> (a) where the child with respect to whom the order was made is ordinarily resident within the area of a local authority in England or Wales, that local authority;
+>
+> (b) where the child with respect to whom the order was made does not fall within paragraph (a) but is present within the area of a local authority in England or Wales, that local authority.
+
+(4) In section 9 (restrictions on making section 8 orders)—
+
+(a) in subsection (1), after “applies” insert “or a prohibited steps order made under section 10A”;
+
+(b) in subsection (6A), after “applies” insert “or a prohibited steps order made under section 10A”;
+
+(c) after subsection (7) insert—
+
+> (8) Subsection (7) does not apply to a prohibited steps order made under section 10A.
+
+(5) In section 33 (effect of care order), after subsection (3) insert—
+
+> (3A) Where a prohibited steps order made under section 10A is in force in relation to a parent, the authority may only exercise the power in subsection (3)(b) in relation to the taking of a step by that parent that is not prohibited by that order.
+
+(6) In section 91 (effect and duration of orders etc)—
+
+(a) in subsection (2), after “section 8 order” insert “(other than a prohibited steps order made under section 10A)”;
+
+(b) after subsection (5A) insert—
+
+> (5B) Subsection (5C) applies where—
+>
+> (a) a prohibited steps order (the “existing order”) is in force prohibiting the taking of steps by a parent (“P”) with respect to a child (“C”), and
+>
+> (b) a prohibited steps order is made under section 10A in relation to P with respect to C.
+>
+> (5C) The existing order is discharged (except to the extent that it prohibits the taking of steps other than by P with respect to C).
+
+(7) In section 104 (regulations and orders)—
+
+(a) in each of subsections (2) and (3A), after “subsection” insert “(3AZA),”;
+
+(b) after subsection (3A) insert—
+
+> (3AZA) Regulations fall within this subsection if they are regulations made in the exercise of the power conferred by section 10B(6).
+
+(8) In section 50 of the Criminal Appeal Act 1968 (meaning of “sentence”), after subsection (2) insert—
+
+> (2A) A prohibited steps order made under section 10A of the Children Act 1989 is not a sentence for the purposes of this Act.
+
+#### 19 Domestic abuse related death reviews
+
+(1) The Domestic Violence, Crime and Victims Act 2004 is amended in accordance with subsections (2) to (4).
+
+(2) After section 8 insert—
+
+> **Domestic abuse related death reviews**
+>
+> **8A Establishment and conduct of reviews**
+>
+> (1) In this section “domestic abuse related death review” means a review of the circumstances of the death of a person which is held—
+>
+> (a) where the death has, or appears to have, resulted from domestic abuse towards the person within the meaning of the Domestic Abuse Act 2021, and
+>
+> (b) with a view to identifying the lessons to be learned from the death.
+>
+> (2) The Secretary of State may in a particular case direct a specified person or body within subsection (6) to establish, or to participate in, a domestic abuse related death review.
+>
+> (3) It is the duty of any person or body within subsection (6) establishing or participating in a domestic abuse related death review (whether or not held pursuant to a direction under subsection (2)) to have regard to any guidance issued by the Secretary of State as to the establishment and conduct of such reviews.
+>
+> (4) A person or body within subsection (6) that establishes a domestic abuse related death review (whether or not held pursuant to a direction under subsection (2)) must send a copy of any report setting out the conclusions of the review to the Secretary of State and the Domestic Abuse Commissioner.
+>
+> (5) The copy must be sent as soon as reasonably practicable after the report is completed.
+>
+> (6) The persons and bodies within this subsection are—
+>
+> - chief officers of police for police areas in England and Wales;
+> - local authorities;
+> - NHS England;
+> - integrated care boards established under section 14Z25 of the National Health Service Act 2006;
+> - providers of probation services;
+> - Local Health Boards established under section 11 of the National Health Service (Wales) Act 2006;
+> - NHS trusts established under section 25 of the National Health Service Act 2006 or section 18 of the National Health Service (Wales) Act 2006.
+>
+> (7) In subsection (6) “local authority” means—
+>
+> (a) in relation to England, the council of a district, county or London borough, the Common Council of the City of London and the Council of the Isles of Scilly;
+>
+> (b) in relation to Wales, the council of a county or county borough.
+>
+> (8) The Secretary of State may by order amend subsection (6) or (7).
+
+(3) In section 9 (establishment and conduct of domestic homicide reviews)—
+
+(a) in each of subsections (2) and (3)—
+
+(i) for “Secretary of State” substitute “Department of Justice in Northern Ireland”;
+
+(ii) for “(4)” substitute “(4)(b)”;
+
+(b) omit subsections (3A), (3B), (3C), (4)(a), (5) and (6).
+
+(4) In section 61 (orders), in subsection (3), for “9(6)” substitute “8A(8)”.
+
+(5) In section 26 of the Police, Crime, Sentencing and Courts Act 2022 (relationship of offensive weapons homicide reviews with other review requirements), in subsection (1)(b)—
+
+(a) after “of a” insert “domestic abuse related death review or”;
+
+(b) for “section” substitute “sections 8A and”.
+
+#### 20 Child victims of domestic abuse
+
+(1) The Domestic Abuse Act 2021 is amended as follows.
+
+(2) After section 49 insert—
+
+> **Notifying schools etc if child is suspected victim of domestic abuse**
+>
+> **49A Arrangements to notify schools etc**
+>
+> (1) A chief officer of police of a police force maintained for a police area must ensure that arrangements are in place to secure the objective in subsection (2).
+>
+> (2) The objective is that, if a member of the force has reasonable grounds to believe that a child who resides in the police area may be a victim of domestic abuse, any relevant educational establishment is notified as soon as is reasonably practicable except in such circumstances as may be specified in regulations made by the Secretary of State.
+>
+> (3) For the purposes of this section, each of the following is a relevant educational establishment in relation to a child—
+>
+> (a) a school at which the child is a registered pupil;
+>
+> (b) if the child is not a registered pupil at a school—
+>
+> (i) if the child is receiving education at only one educational establishment, that establishment;
+>
+> (ii) if the child is receiving education at more than one educational establishment, such one or more of those establishments as is determined in accordance with the arrangements in place under subsection (1) for the police area in which the child resides.
+>
+> (4) In this section—
+>
+> - “child” means a person under the age of 18 years;
+>
+> - “educational establishment” means—
+>
+>   - a school in England or Wales;
+>   - an institution within the further education sector, within the meaning given by section 91(3) of the Further and Higher Education Act 1992;
+>   - in relation to England, a 16 to 19 Academy, within the meaning given by section 1B of the Academies Act 2010;
+>
+> - “registered pupil”, in relation to a school, has the meaning given by section 434 of the Education Act 1996;
+>
+> - “school” has the meaning given by section 4 of the Education Act 1996.
+>
+> **49B Power to extend section 49A to childcare providers**
+>
+> (1) The Secretary of State may by regulations amend section 49A so that the objective in subsection (2) of that section applies in relation to childcare providers, or childcare providers of particular descriptions, as it applies in relation to relevant educational establishments.
+>
+> (2) In this section—
+>
+> - “childcare”—
+>
+>   - in relation to England, has the meaning given by section 18 of the Childcare Act 2006;
+>   - in relation to Wales, means anything that amounts to child minding or day care for children for the purposes of Part 2 of the Children and Families (Wales) Measure 2010 (nawm 1) (see section 19(2) to (5) of that Measure);
+>
+> - “childcare provider” means—
+>
+>   - in relation to England, a person who provides childcare—
+>   
+>     - in respect of which the person is registered under Part 3 of the Childcare Act 2006,
+>     - in respect of which the person would, but for section 34(2) or 53(2) of that Act, be required to be registered under Chapter 2 or 3 of Part 3 of that Act, or
+>     - in respect of which the person would, but for section 63(3) of that Act, be able to be registered under Chapter 4 of Part 3 of that Act;
+>   
+>   - in relation to Wales, a person who provides childcare in respect of which the person is registered under Part 2 of the Children and Families (Wales) Measure 2010.
+
+(3) In the italic heading before section 50, for “and orders” substitute “, orders and notification arrangements”.
+
+(4) In section 56 (interpretation of Part 3), in subsection (4), after paragraph (b) insert—
+
+> (c) section 3 (children as victims of domestic abuse).
+
+(5) In section 87 (regulations), in subsection (6), after paragraph (a) insert—
+
+> (aa) regulations under section 49B,
+
+.
+
+### Victim impact statements to mental health tribunals (restricted patients)
+
+#### 21 Victim impact statements to mental health tribunals (restricted patients)
+
+(1) Chapter 2 of Part 3 of the Domestic Violence, Crime and Victims Act 2004 (victims’ rights to make representations and receive information) is amended as follows.
+
+(2) In section 37(8)(c)(i), for “that area” substitute “that local probation board”.
+
+(3) After section 37 insert—
+
+> **37ZA Victim impact statements where restriction order made**
+>
+> (1) This section applies if, in a case where section 37 applies, an application or reference mentioned in subsection (5) of that section is made to the First-tier Tribunal or the Mental Health Review Tribunal for Wales.
+>
+> (2) The relevant probation body—
+>
+> (a) must take all reasonable steps to ascertain whether a person who appears to the body to be the victim of the offence or to act for the victim of the offence wishes to provide a victim impact statement to the body, and
+>
+> (b) if the person provides such a statement, must forward it to the tribunal.
+>
+> (3) Where a victim impact statement has been forwarded to the tribunal under subsection (2), the tribunal must—
+>
+> (a) allow the person who made the statement to request permission to read the statement to the tribunal at a relevant hearing, and
+>
+> (b) grant such permission unless the tribunal considers that there are good reasons not to.
+>
+> (4) The tribunal may have regard to the statement when determining a matter specified in section 36(5)(a) or (b) (but must not have regard to it for any other purpose).
+>
+> (5) In this section—
+>
+> - “relevant hearing” means any hearing held by the tribunal before making a decision which disposes of proceedings on the application or reference mentioned in subsection (1);
+> - “the relevant probation body” has the meaning given in section 37(8);
+> - “victim impact statement” means a statement about the way in which, and degree to which, the offence has affected and (as the case may be) continues to affect the victim or any other person.
+
+### Victims’ Commissioner
+
+#### 22 Commissioner for Victims and Witnesses
+
+(1) The Domestic Violence, Crime and Victims Act 2004 is amended as follows.
+
+(2) In section 49 (functions of Commissioner for Victims and Witnesses)—
+
+(a) in subsection (1)(c), for “section 32” substitute “section 2 of the Victims and Prisoners Act 2024, including the extent to which the duty in section 5(1) of that Act (duty to provide services in accordance with the code) is being complied with”;
+
+(b) in subsection (2)(c), after “remit” insert “(whether or not made by way of inclusion in a report prepared under paragraph (b) or subsection (4))”;
+
+(c) after subsection (4) insert—
+
+> (4A) A report prepared under subsection (2)(b) or (4) may include provision making recommendations to any authority within the Commissioner’s remit.
+
+;
+
+(d) after subsection (5) insert—
+
+> (5A) The Commissioner must arrange for each report prepared under subsection (4) to be laid before Parliament.
+
+(3) After section 49 insert—
+
+> **49A Duty to respond to Commissioner’s recommendations**
+>
+> (1) This section applies where the Commissioner publishes a report under section 49(2)(b) or (4) containing recommendations to an authority within the Commissioner’s remit.
+>
+> (2) The relevant person must prepare comments on the report.
+>
+> (3) The relevant person is—
+>
+> (a) where the authority is a government department in the charge of a Minister of the Crown, the Minister, or
+>
+> (b) in any other case, the authority.
+>
+> (4) The comments must include, in respect of each recommendation made in the report, an explanation of—
+>
+> (a) the action which the relevant person has taken, or proposes to take, in response to the recommendation, or
+>
+> (b) why the relevant person has not taken, or does not propose to take, any action in response.
+>
+> (5) The relevant person must arrange for the comments to be published in such manner as the person considers appropriate.
+>
+> (6) The comments must be published before the end of the period of 56 days beginning with the day on which the report is published.
+>
+> (7) The relevant person must send a copy of anything published under subsection (6) to—
+>
+> (a) the Commissioner, and
+>
+> (b) (unless the authority is a government department in the charge of a Minister of the Crown) the Secretary of State.
+
+(4) After section 51 insert—
+
+> **51A Duty to co-operate with Commissioner**
+>
+> (1) The Commissioner may request a relevant person to co-operate with the Commissioner in any way that the Commissioner considers necessary for the purposes of the Commissioner’s functions.
+>
+> (2) A relevant person must comply with a request made to the person under this section, so far as it is appropriate and reasonably practicable for the person to do so.
+>
+> (3) In this section “relevant person” means a person who is not an individual and is subject to the duty in section 5(1) of the Victims and Prisoners Act 2024 (duty to provide services in accordance with the code issued under section 2 of that Act).
+
+(5) In Schedule 9 (authorities within Commissioner’s remit)—
+
+(a) for paragraphs 1VA to 8B substitute—
+
+> **1** A government department in the charge of a Minister of the Crown.
+
+;
+
+(b) after paragraph 11 insert—
+
+> **11A** A local policing body.
+
+;
+
+(c) after paragraph 16 insert—
+
+> **16A** His Majesty’s Inspectors of Constabulary.
+
+;
+
+(d) after paragraph 29 insert—
+
+> **29A** His Majesty's Chief Inspector of the Crown Prosecution Service.
+>
+> **29B** His Majesty’s Chief Inspector of Prisons.
+>
+> **29C** His Majesty’s Inspectorate of Probation for England and Wales.
+
+### Inspections by criminal justice inspectorates
+
+#### 23 His Majesty’s Chief Inspector of Prisons
+
+(1) Schedule A1 to the Prison Act 1952 (further provision about Chief Inspector) is amended as follows.
+
+(2) In paragraph 2 (inspection programmes and frameworks), in sub-paragraph (2), omit the “and” at the end of paragraph (i) and insert—
+
+> (ia) the Commissioner for Victims and Witnesses, and
+
+.
+
+(3) In paragraph 5 (joint action), after sub-paragraph (6) insert—
+
+> (7) The Secretary of State, the Lord Chancellor and the Attorney General may by a joint direction require a joint inspection programme to include provision for the inspection, at specified times, of specified matters relating to the experiences and treatment of victims.
+>
+> (8) In sub-paragraph (7)—
+>
+> - “specified” means specified in the direction;
+> - “victim” has the meaning given by section 1 of the Victims and Prisoners Act 2024.
+
+#### 24 His Majesty’s Chief Inspector of Constabulary
+
+(1) Schedule 4A to the Police Act 1996 (further provision about inspectors of constabulary) is amended as follows.
+
+(2) In paragraph 2 (inspection programmes and frameworks), in sub-paragraph (2), omit the “and” at the end of paragraph (i) and insert—
+
+> (ia) the Commissioner for Victims and Witnesses, and
+
+.
+
+(3) In paragraph 5 (joint action), after sub-paragraph (6) insert—
+
+> (7) The Secretary of State, the Lord Chancellor and the Attorney General may by a joint direction require a joint inspection programme to include provision for the inspection, at specified times, of specified matters relating to the experiences and treatment of victims.
+>
+> (8) In sub-paragraph (7)—
+>
+> - “specified” means specified in the direction;
+> - “victim” has the meaning given by section 1 of the Victims and Prisoners Act 2024.
+
+#### 25 His Majesty’s Chief Inspector of the Crown Prosecution Service
+
+(1) The Schedule to the Crown Prosecution Service Inspectorate Act 2000 (further provision about Chief Inspector) is amended as follows.
+
+(2) In paragraph 2 (inspection programmes and frameworks), in sub-paragraph (2), omit the “and” at the end of paragraph (i) and insert—
+
+> (ia) the Commissioner for Victims and Witnesses, and
+
+.
+
+(3) In paragraph 5 (joint action), after sub-paragraph (6) insert—
+
+> (7) The Secretary of State, the Lord Chancellor and the Attorney General may by a joint direction require a joint inspection programme to include provision for the inspection, at specified times, of specified matters relating to the experiences and treatment of victims.
+>
+> (8) In sub-paragraph (7)—
+>
+> - “specified” means specified in the direction;
+> - “victim” has the meaning given by section 1 of the Victims and Prisoners Act 2024.
+
+#### 26 His Majesty’s Chief Inspector of Probation for England and Wales
+
+(1) Schedule 1A to the Criminal Justice and Court Services Act 2000 (further provision about the inspectorate) is amended as follows.
+
+(2) In paragraph 2 (inspection programmes and frameworks), in sub-paragraph (2), omit the “and” at the end of paragraph (i) and insert—
+
+> (ia) the Commissioner for Victims and Witnesses, and
+
+.
+
+(3) In paragraph 5 (joint action), after sub-paragraph (6) insert—
+
+> (7) The Secretary of State, the Lord Chancellor and the Attorney General may by a joint direction require a joint inspection programme to include provision for the inspection, at specified times, of specified matters relating to the experiences and treatment of victims.
+>
+> (8) In sub-paragraph (7)—
+>
+> - “specified” means specified in the direction;
+> - “victim” has the meaning given by section 1 of the Victims and Prisoners Act 2024.
+
+### Parliamentary Commissioner for Administration
+
+#### 27 Parliamentary Commissioner for Administration
+
+(1) The Parliamentary Commissioner Act 1967 is amended as follows.
+
+(2) Section 5 (matters subject to investigation) is amended in accordance with subsections (3) to (5).
+
+(3) In subsection (1)—
+
+(a) for paragraph (a) substitute—
+
+> (a) a written complaint is duly made by a member of the public, who claims to have sustained injustice in consequence of maladministration in connection with the action so taken, to—
+>
+> (i) the Commissioner, if the complaint relates to the complainant’s experience as a victim, or
+>
+> (ii) in any other case, a member of the House of Commons, and
+
+;
+
+(b) in paragraph (b), at the beginning insert “in a case falling within paragraph (a)(ii),”.
+
+(4) In subsection (1A)—
+
+(a) for paragraph (a) substitute—
+
+> (a) a written complaint is duly made by a member of the public, who claims that a person has failed to perform a relevant duty owed by that person to the member of the public, to—
+>
+> (i) the Commissioner, if the complaint relates to the complainant’s experience as a victim, or
+>
+> (ii) in any other case, a member of the House of Commons, and
+
+;
+
+(b) in paragraph (b), at the beginning insert “in a case falling within paragraph (a)(ii),”.
+
+(5) After subsection (9A) insert—
+
+> (9B) In this section “victim” has the meaning given by section 1 of the Victims and Prisoners Act 2024.
+
+(6) Section 6 (provisions relating to complaints) is amended in accordance with subsections (7) to (10).
+
+(7) After subsection (1A) insert—
+
+> (1B) A complaint under section 5(1)(a)(i) or (1A)(a)(i) may also be made by a person who is authorised to act on behalf of the person aggrieved.
+
+(8) In subsection (2), for the words from “for himself” to the end substitute “or, where subsection (1B) applies, to authorise another person to act, the complaint may be made by the person’s personal representative, or by a member of the person’s family, or by another individual suitable to represent the person.”
+
+(9) After subsection (2) insert—
+
+> (2A) Except as provided by subsections (1B) and (2), a complaint may not be entertained under this Act unless made by the person aggrieved.
+
+(10) In subsection (3), omit “to a member of the House of Commons”.
+
+(11) Section 10 (Commissioner’s reports) is amended in accordance with subsections (12) to (14).
+
+(12) In subsection (1)—
+
+(a) for “under this Act” substitute “pursuant to a complaint made to a member of the House of Commons under section 5(1)(a)(ii) or (1A)(a)(ii),”;
+
+(b) for “the House of Commons” substitute “that House”.
+
+(13) After subsection (1) insert—
+
+> (1A) In any case where the Commissioner conducts an investigation pursuant to a complaint made to the Commissioner under section 5(1)(a)(i) or (1A)(a)(i), or decides not to conduct such an investigation, the Commissioner—
+>
+> (a) must send to the person who made the complaint a report of the results of the investigation or, as the case may be, a statement of the Commissioner’s reasons for not conducting an investigation, and
+>
+> (b) may, with the consent of the person who made the complaint, send the report or statement to such member of the House of Commons as the Commissioner considers appropriate.
+>
+> (1B) References in subsection (1A) to the person who made the complaint are, in a case where the complaint is made by a person authorised to act on behalf of the person aggrieved (see section 6(1B)), to that authorised person.
+
+(14) In subsection (5)(d), after “subsection” insert “(1A),”.
+
+### Information relating to victims
+
+#### 28 Information relating to victims
+
+In Part 2 of the Police, Crime, Sentencing and Courts Act 2022 (prevention, investigation and prosecution of crime), after Chapter 3 insert—
+
+> **Chapter 3A — Requests for information relating to victims**
+>
+> **44A Requests for information relating to victims**
+>
+> (1) A victim information request must be made in accordance with this Chapter.
+>
+> (2) In this Chapter, a “victim information request” means a request by an authorised person to another person to provide information which relates to a third person who the authorised person has reason to believe is or may be—
+>
+> (a) a victim, or
+>
+> (b) at risk of being a victim.
+>
+> (3) A victim information request may be made only if the authorised person—
+>
+> (a) has reason to believe that the person to whom the request is made holds the information sought,
+>
+> (b) has reason to believe that the information sought is relevant to a reasonable line of enquiry which is being pursued, or is to be pursued, by the authorised person or another authorised person, and
+>
+> (c) is satisfied that the request is necessary and proportionate to achieve the purpose of preventing, detecting, investigating or prosecuting crime.
+>
+> (4) A counselling information request may be made only if the authorised person has reason to believe that the information sought is likely to have substantial probative value to a reasonable line of enquiry which is being pursued, or is to be pursued, by the authorised person or another authorised person.
+>
+> (5) For the purposes of subsection (4), a “counselling information request” means a victim information request to a person who provides counselling services of a description specified in regulations made by the Secretary of State by statutory instrument.
+>
+> (6) The reference in subsection (3)(c) to crime is a reference to―
+>
+> (a) conduct which constitutes one or more criminal offences in England and Wales, or
+>
+> (b) conduct which, if it took place in England and Wales, would constitute one or more criminal offences.
+>
+> (7) Subsection (8) applies if the authorised person thinks that, in making the request, there is a risk of obtaining information other than information necessary to achieve a purpose within subsection (3)(c).
+>
+> (8) The authorised person must, to be satisfied that the request is proportionate, be satisfied that—
+>
+> (a) there are no other means of obtaining the information sought, or
+>
+> (b) there are such other means, but it is not reasonably practicable to use them.
+>
+> (9) In making a victim information request or deciding whether to make such a request (including giving notice under section 44B or deciding whether to give such notice) an authorised person must have regard to the code of practice for the time being in force under section 44D.
+>
+> (10) In this section “victim” has the meaning given by section 1 of the Victims and Prisoners Act 2024.
+>
+> (11) This section is subject to sections 44B (notice requirements for victim information requests) and 44C (content of victim information requests).
+>
+> (12) A statutory instrument containing regulations under subsection (5) is subject to annulment in pursuance of a resolution of either House of Parliament.
+>
+> **44B Notice requirements for victim information requests**
+>
+> (1) The authorised person must (subject to subsection (5)) give notice of a victim information request to the person to whom the information sought relates (“V”).
+>
+> (2) Notice under this section must be in writing—
+>
+> (a) specifying or describing the information sought by the victim information request,
+>
+> (b) specifying the reason why the information is sought, and
+>
+> (c) specifying how the information will be dealt with once it has been obtained.
+>
+> (3) Notice under this section must be given—
+>
+> (a) on or before the date on which the victim information request is made, or
+>
+> (b) if that is not reasonably practicable, as soon as is reasonably practicable after that date.
+>
+> (4) If V is a child or an adult without capacity, notice under this section is given to V by giving it to—
+>
+> (a) a parent or guardian of V or, if V is in the care of a relevant authority or voluntary organisation, a person representing that authority or organisation, or
+>
+> (b) if no person described in paragraph (a) is available, any adult who the authorised person considers appropriate.
+>
+> (5) The authorised person need not give notice under this section, or specify a particular matter when giving notice, if the authorised person considers that doing so―
+>
+> (a) is not reasonably practicable in the circumstances,
+>
+> (b) might interfere with the investigation or enquiry for which the information is sought or any other investigation or enquiry which is being pursued, or is to be pursued, by the authorised person or another authorised person, or
+>
+> (c) might risk causing serious harm to V or another person.
+>
+> (6) In this section―
+>
+> - “adult” means a person aged 18 or over;
+>
+> - “adult without capacity” means an adult who, within the meaning of the Mental Capacity Act 2005, lacks capacity in relation to a notice under this section;
+>
+> - “child” means a person aged under 18;
+>
+> - “harm” includes physical, mental or emotional harm and economic loss;
+>
+> - “relevant authority”—
+>
+>   - in relation to England, means a county council, a district council for an area for which there is no county council, a London borough council or the Common Council of the City of London in its capacity as a local authority;
+>   - in relation to Wales, means a county council or a county borough council;
+>
+> - “voluntary organisation” means a body (other than a public authority) whose activities are not carried on for profit.
+>
+> **44C Content of victim information requests**
+>
+> (1) A victim information request must be in writing―
+>
+> (a) specifying or describing the information sought,
+>
+> (b) specifying the reason why the information is sought, and
+>
+> (c) specifying how the information will be dealt with once it has been obtained.
+>
+> (2) The authorised person need not specify the matters mentioned in subsection (1)(b) or (c) if the authorised person considers that doing so―
+>
+> (a) is not reasonably practicable in the circumstances,
+>
+> (b) might interfere with the investigation or enquiry for which the information is sought or any other investigation or enquiry which is being pursued, or is to be pursued, by the authorised person or another authorised person, or
+>
+> (c) might risk causing serious harm to the person to whom the information sought relates or another person.
+>
+> **44D Code of practice**
+>
+> (1) The Secretary of State must prepare a code of practice for authorised persons about victim information requests and compliance with this Chapter.
+>
+> (2) The code must in particular—
+>
+> (a) provide that an authorised person must, when considering whether they are satisfied as required by paragraph (c) of section 44A(3) in relation to a counselling information request, start from the presumption that the request is not necessary and proportionate to achieve a purpose in that paragraph, and
+>
+> (b) set out the steps that must be taken by an authorised person when deciding whether that presumption is rebutted.
+>
+> (3) For the purposes of subsection (2), a “counselling information request” has the meaning given by section 44A(5).
+>
+> (4) The code may make different provision for different purposes or areas.
+>
+> (5) In preparing the code, the Secretary of State must consult―
+>
+> (a) the Information Commissioner,
+>
+> (b) the Commissioner for Victims and Witnesses,
+>
+> (c) the Domestic Abuse Commissioner, and
+>
+> (d) such other persons as the Secretary of State considers appropriate.
+>
+> (6) After preparing the code, the Secretary of State must lay it before Parliament and publish it.
+>
+> (7) The code is to be brought into force by regulations made by statutory instrument.
+>
+> (8) A statutory instrument containing regulations under subsection (7) is subject to annulment in pursuance of a resolution of either House of Parliament.
+>
+> (9) After the code has come into force the Secretary of State may from time to time revise it.
+>
+> (10) A failure on the part of an authorised person to act in accordance with the code does not of itself render the person liable to any criminal or civil proceedings.
+>
+> (11) But the code is admissible in evidence in criminal or civil proceedings and a court may take into account a failure to act in accordance with it in determining a question in the proceedings.
+>
+> (12) References in subsections (2) to (11) to the code include a revised code, subject to subsection (13).
+>
+> (13) The duty to consult in subsection (5) does not apply in relation to the preparation of a revised code if the Secretary of State considers that the proposed revisions are insubstantial.
+>
+> **44E Authorised persons**
+>
+> (1) In this Chapter, each of the following is an “authorised person”—
+>
+> (a) a constable of a police force in England and Wales;
+>
+> (b) a member of staff appointed by the chief officer of police of a police force in England and Wales;
+>
+> (c) an employee of the Common Council of the City of London who is under the direction and control of a chief officer of police;
+>
+> (d) a constable of the British Transport Police Force;
+>
+> (e) an employee of the British Transport Police Authority appointed under section 27 of the Railways and Transport Safety Act 2003;
+>
+> (f) a constable of the Ministry of Defence police;
+>
+> (g) a National Crime Agency officer;
+>
+> (h) a person designated by the Director General of the Independent Office for Police Conduct under paragraph 19(2) of Schedule 3 to the Police Reform Act 2002;
+>
+> (i) a person who has been engaged to provide services consisting of or including the obtaining of information for the purposes of the exercise of functions by a person mentioned in any of paragraphs (a) to (h).
+>
+> (2) The Secretary of State may by regulations made by statutory instrument amend subsection (1)—
+>
+> (a) so as to add a reference to a person;
+>
+> (b) so as to remove a reference to a person;
+>
+> (c) so as to modify a description of a person mentioned.
+>
+> (3) Regulations under subsection (2) may contain transitional, transitory or saving provision.
+>
+> (4) A statutory instrument containing regulations under subsection (2)(a) or (b) (whether alone or with other provision) may not be made unless a draft of the instrument has been laid before and approved by a resolution of each House of Parliament.
+>
+> (5) Any other statutory instrument containing regulations under this section is subject to annulment in pursuance of a resolution of either House of Parliament.
+
+#### 29 Information relating to victims: service police etc
+
+After section 44E of the Police, Crime, Sentencing and Courts Act 2022 (inserted by section 28 of this Act), insert—
+
+> **44F Application of this Chapter to service police etc**
+>
+> (1) This Chapter applies in relation to a person mentioned in subsection (2) as it applies in relation to an authorised person, with the modifications specified in subsections (3) and (4).
+>
+> (2) The persons are—
+>
+> (a) a member of the Royal Navy Police, the Royal Military Police or the Royal Air Force Police;
+>
+> (b) a person designated by the Service Police Complaints Commissioner under regulation 36(2) of the Service Police (Complaints etc) Regulations 2023 (S.I. 2023/624);
+>
+> (c) a person who has been engaged to provide services consisting of or including the obtaining of information for the purposes of the exercise of functions by a person mentioned in paragraph (a) or (b).
+>
+> (3) Section 44A applies as if for subsection (6) there were substituted—
+>
+> > (6) The reference in subsection (3)(c) to crime is a reference to conduct which constitutes one or more—
+> >
+> > (a) service offences within the meaning of the Armed Forces Act 2006, or
+> >
+> > (b) SDA offences within the meaning of the Armed Forces Act 2006 (Transitional Provisions etc) Order 2009 (S.I. 2009/1059).
+>
+> (4) Section 44B applies as if, in subsection (6)—
+>
+> (a) for the definition of “adult without capacity” there were substituted—
+>
+> > - “adult without capacity”—
+> >
+> >   - in relation to England and Wales, means an adult who, within the meaning of the Mental Capacity Act 2005, lacks capacity in relation to a notice under this section;
+> >   - in relation to Scotland, means an adult (within the meaning of this section) who is incapable, within the meaning of the Adults with Incapacity (Scotland) Act 2000, in relation to a notice under this section;
+> >   - in relation to Northern Ireland, means an adult who, within the meaning of the Mental Capacity Act (Northern Ireland) 2016, lacks capacity in relation to a notice under this section;
+>
+> ;
+>
+> (b) for the definition of “relevant authority” there were substituted—
+>
+> > - “relevant authority”—
+> >
+> >   - in relation to England, means a county council, a district council for an area for which there is no county council, a London borough council or the Common Council of the City of London in its capacity as a local authority;
+> >   - in relation to Wales, means a county council or a county borough council;
+> >   - in relation to Scotland, means a council constituted under section 2 of the Local Government etc (Scotland) Act 1994;
+> >   - in relation to Northern Ireland, means an authority within the meaning of the Children (Northern Ireland) Order 1995 (S.I. 1995/755 (N.I. 2));
+>
+> ;
+>
+> (c) for the definition of “voluntary organisation” there were substituted—
+>
+> > - “voluntary organisation”—
+> >
+> >   - in relation to England and Wales, has the same meaning as in the Children Act 1989;
+> >   - in relation to Scotland, has the same meaning as in Part 2 of the Children (Scotland) Act 1995;
+> >   - in relation to Northern Ireland, has the same meaning as in the Children (Northern Ireland) Order 1995.
+
+#### 30 Review of provisions relating to counselling information requests
+
+(1) The Secretary of State must prepare a report about the operation in the review period of Chapter 3A of the Police, Crime, Sentencing and Courts Act 2022 (requests for information relating to victims) (inserted by section 28 of this Act) in relation to counselling information requests.
+
+(2) The Secretary of State may discharge the duty in subsection (1) by arranging for another person to prepare a report about those matters.
+
+(3) As soon as is reasonably practicable after the end of the review period, the Secretary of State must—
+
+(a) arrange for the report prepared under subsection (1) (or under arrangements under subsection (2)) to be published, and
+
+(b) lay the report before Parliament.
+
+(4) In this section—
+
+- “counselling information request” has the meaning given by section 44A(5) of the Police, Crime, Sentencing and Courts Act 2022;
+- “review period” means the period of three years beginning with the day on which section 28 of this Act comes into force.
+
+#### 31 Right to erasure of personal data in the UK
+
+(1) Article 17 of Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data (right to erasure) is amended in accordance with subsections (2) and (3).
+
+(2) In paragraph 1, after point (f) insert—
+
+> (g) the personal data have been processed as a result of an allegation about the data subject—
+>
+> (i) which was made by a person who is a malicious person in relation to the data subject (whether they became such a person before or after the allegation was made),
+>
+> (ii) which has been investigated by the controller, and
+>
+> (iii) in relation to which the controller has decided that no further action is to be taken.
+
+(3) After paragraph 3 insert—
+
+> **4** For the purposes of paragraph (1)(g), a person who has made an allegation about a data subject is a “malicious person” in relation to the data subject if the person—
+>
+> (a) has been convicted of an offence specified in column 1 of the table in paragraph 5 in relation to which the data subject is a person specified in the corresponding entry in column 2 of that table, or
+>
+> (b) is subject to a stalking protection order under section 2 of the Stalking Protection Act 2019 or section 8 of the Protection from Stalking Act (Northern Ireland) 2022 (c. 17 (N.I.)) made to protect the data subject from a risk associated with stalking (see section 2(1)(c) of the 2019 Act and section 8(2)(c) of the 2022 Act).
+>
+> **5** The table is as follows—
+>
+> |  | *Offence* | *Data subject* |
+> |---|---|---|
+> | 1. | An offence under section 2 of the Protection from Harassment Act 1997 (offence of harassment: England and Wales) | A person mentioned in section 1(1)(a) or 1(1A)(a) of that Act |
+> | 2. | An offence under section 2A, 4 or 4A of the Protection from Harassment Act 1997 (other harassment and stalking offences: England and Wales) | The person against whom the offence is committed |
+> | 3. | An offence under section 8 of the Stalking Protection Act 2019 (offence of breaching stalking protection order etc) | A person who the stalking protection order was made to protect from a risk associated with stalking (see section 2(1)(c) of that Act) |
+> | 4. | An offence under section 42 of the Armed Forces Act 2006 as respects which the corresponding offence under the law of England and Wales (within the meaning given by that section) is an offence specified in entry 1, 2 or 3 of this table | A person specified in column 2 of the entry in which the corresponding offence is specified |
+> | 5. | An offence under section 70 of the Army Act 1955 or Air Force Act 1955 as respects which the corresponding civil offence (within the meaning of that Act) is an offence specified in entry 1 or 2 of this table | A person specified in column 2 of the entry in which the corresponding civil offence is specified |
+> | 6. | An offence under section 42 of the Naval Discipline Act 1957 as respects which the civil offence (within the meaning of that section) is an offence specified in entry 1 or 2 of this table | A person specified in column 2 of the entry in which the civil offence is specified |
+> | 7. | An offence under section 39 of the Criminal Justice and Licensing (Scotland) Act 2010 (asp 13) (stalking offences: Scotland) | The person against whom the offence is committed |
+> | 8. | An offence under section 1 of the Protection from Stalking Act (Northern Ireland) 2022 (stalking offences: Northern Ireland) | The person against whom the offence is committed |
+> | 9. | An offence under section 13 of the Protection from Stalking Act (Northern Ireland) 2022 (offence of breaching order: Northern Ireland) | A person who the stalking protection order was made to protect from a risk associated with stalking (see section 8(2)(c) of that Act) |
+> | 10. | An offence under Article 4 or 6 of the Protection from Harassment (Northern Ireland) Order 1997 ( S.I. 1997/1180 (N.I. 9) ) (harassment offences: Northern Ireland) | The person against whom the offence is committed |
+
+(4) After section 13 of the Data Protection Act 2018 insert—
+
+> **13A Meaning of “relevant offence” for purpose of right to erasure**
+>
+> (1) The Secretary of State may by regulations amend the table in Article 17(5) of the UK GDPR.
+>
+> (2) Regulations under this section are subject to the affirmative resolution procedure.
+
+### Data protection (prospective)
+
+#### 32 Data protection (prospective)
+
+(1) Nothing in this Part requires or authorises the processing of information if the processing would contravene the data protection legislation (but in determining whether it would do so, take into account any duty imposed or power conferred by this Part).
+
+(2) For these purposes—
+
+(a) references to this Part include regulations made under this Part, the victims’ code and guidance issued under this Part;
+
+(b) “processing” and “the data protection legislation” have the same meanings as in the Data Protection Act 2018 (see section 3 of that Act).
+
+### Consequential provision (prospective)
+
+#### 33 Consequential provision (prospective)
+
+(1) Chapter 1 of Part 3 of the Domestic Violence, Crime and Victims Act 2004 (the victims’ code) is repealed (and the code of practice issued under section 32 of that Act ceases to be in operation).
+
+(2) The following amendments are made in consequence of subsection (1).
+
+(3) In the Parliamentary Commissioner Act 1967, in section 5(1B)(a), for “section 32 of the Domestic Violence, Crime and Victims Act 2004” substitute “section 2 of the Victims and Prisoners Act 2024”.
+
+(4) In the Domestic Violence, Crime and Victims Act 2004, in section 54 (disclosure of information)—
+
+(a) in subsection (2)(a), for “section 32” substitute “section 2 of the Victims and Prisoners Act 2024”;
+
+(b) in subsection (3)(a), for “required to do anything under the code issued under section 32” substitute “who is subject to the duty in section 5(1) of the Victims and Prisoners Act 2024 (duty to provide services in accordance with victims’ code)”.
+
+## Part 2 — Victims of major incidents
+
+### Meaning of “major incident” etc
+
+#### 34 Meaning of “major incident” etc
+
+(1) This Part concerns advocates for victims of major incidents.
+
+(2) In this Part, “major incident” means an incident that—
+
+(a) occurs in England or Wales after this section comes into force,
+
+(b) causes the death of, or serious harm to, a significant number of individuals, and
+
+(c) is declared in writing by the Secretary of State to be a major incident for the purposes of this Part.
+
+(3) Before declaring an incident that occurs in Wales to be a major incident, the Secretary of State must consult the Welsh Ministers.
+
+(4) For the purposes of this Part, “harm” includes physical, mental or emotional harm.
+
+(5) In this Part, “victims”, in relation to a major incident, means—
+
+(a) individuals who have suffered harm as a direct result of the incident (whether or not that harm is serious harm), and
+
+(b) close family members or close friends of individuals who have died or suffered serious harm as a direct result of the incident.
+
+(6) In this Part, “advocate” means—
+
+(a) the standing advocate appointed under section 35(1);
+
+(b) an individual appointed as an advocate in respect of a major incident under section 36(1).
+
+(7) But a reference in this Part to an advocate appointed in respect of a major incident includes the standing advocate only if the standing advocate has been appointed in respect of that incident under section 36(1).
+
+### Appointment of advocates
+
+#### 35 Appointment of standing advocate
+
+(1) The Secretary of State must appoint an individual as the standing advocate for victims of major incidents (in this Part, “the standing advocate”).
+
+(2) The functions of the standing advocate are—
+
+(a) to advise the Secretary of State as to the interests of victims of major incidents, and their treatment by public authorities in response to major incidents;
+
+(b) to advise other advocates as to the exercise of the functions of those advocates;
+
+(c) to make reports in accordance with section 41.
+
+(3) The standing advocate may take such steps as the standing advocate considers are—
+
+(a) appropriate to facilitate the exercise of, or
+
+(b) incidental or conducive to,
+
+the functions of the standing advocate or another advocate.
+
+(4) An individual may be appointed as the standing advocate only if the Secretary of State considers that the individual is qualified, taking into account—
+
+(a) the individual’s academic, professional or other qualifications, experience or skills;
+
+(b) any other matter the Secretary of State considers relevant.
+
+(5) For the purposes of subsection (2)(a), “public authority” includes—
+
+(a) a court, tribunal, coroner, or inquiry panel within the meaning of section 3 of the Inquiries Act 2005, and
+
+(b) any other person certain of whose functions are functions of a public nature,
+
+but does not include the Security Service, the Secret Intelligence Service or the Government Communications Headquarters.
+
+#### 36 Appointment of advocates in respect of major incidents
+
+(1) The Secretary of State may appoint an individual to act as an advocate for victims of a major incident.
+
+(2) Before appointing an advocate in respect of a major incident that occurs in Wales, the Secretary of State must consult the Welsh Ministers.
+
+(3) An individual may be appointed as an advocate in respect of a major incident only if—
+
+(a) the individual is the standing advocate, or
+
+(b) the Secretary of State considers that the individual—
+
+(i) is qualified, and
+
+(ii) is appropriate to appoint in respect of the incident.
+
+(4) An individual may be qualified by virtue of—
+
+(a) their academic, professional or other qualifications, experience or skills;
+
+(b) their relationship with a geographical or other community;
+
+(c) any other matter the Secretary of State considers relevant.
+
+(5) In determining whether an individual is appropriate to appoint as an advocate in respect of a major incident, the Secretary of State may have regard to—
+
+(a) the geographical area in which the incident occurs;
+
+(b) any community affected by the incident;
+
+(c) the relevance of the individual’s qualifications, experience or skills to the incident and the matters in paragraphs (a) and (b);
+
+(d) any other matter the Secretary of State considers relevant.
+
+#### 37 Terms of appointment
+
+(1) Subject to the following provisions of this section, an individual is to be appointed as an advocate on terms agreed between the individual and the Secretary of State.
+
+(2) The appointment may be terminated—
+
+(a) by the Secretary of State on such grounds as the Secretary of State considers appropriate;
+
+(b) by the advocate giving notice of their resignation to the Secretary of State;
+
+(c) otherwise in accordance with the terms of the advocate’s appointment.
+
+(3) The Secretary of State may pay to or in respect of an advocate—
+
+(a) such remuneration as the Secretary of State considers appropriate;
+
+(b) reasonable costs incurred by the advocate in connection with the exercise of their functions, including those incurred in connection with proceedings relating to the exercise (or purported exercise) of those functions;
+
+(c) such other sums by way of allowances or gratuities as the Secretary of State considers appropriate.
+
+(4) The Secretary of State may make provision for an advocate to have secretarial or other support in connection with the exercise of their functions.
+
+(5) An advocate is not to be regarded as the servant or agent of the Crown or as enjoying any status, immunity or privilege of the Crown.
+
+#### 38 Appointment of more than one advocate in respect of same major incident
+
+(1) This section applies where the Secretary of State appoints more than one advocate in respect of the same major incident.
+
+(2) The Secretary of State must appoint one of the advocates as the lead advocate in respect of that incident.
+
+(3) An advocate appointed in respect of the incident must have regard to any directions given by the lead advocate as to how they are to exercise their functions in respect of the incident.
+
+### Functions and powers of advocates in respect of major incidents
+
+#### 39 Functions of advocates appointed in respect of major incidents
+
+(1) This section applies where an advocate is appointed in respect of a major incident.
+
+(2) Where more than one advocate is appointed in respect of the incident, references in this section to “the advocate” are to each advocate individually and any number of them (including all of them) acting jointly.
+
+(3) Subject to the terms of their appointment, the advocate may provide such support to victims of the incident as the advocate considers appropriate in relation to—
+
+(a) the aftermath of the incident;
+
+(b) an investigation by a public authority into the incident;
+
+(c) an inquest under the Coroners and Justice Act 2009 into a death the incident may have caused or contributed to;
+
+(d) an inquiry into the incident under the Inquiries Act 2005.
+
+(4) The support provided under subsection (3) may include, for example—
+
+(a) helping victims understand the actions of public authorities in relation to the incident, and how the views of victims may be taken into account;
+
+(b) informing victims about other sources of support and advice, and services, that may be available in connection with the incident;
+
+(c) communicating with public authorities on behalf of victims in relation to the incident;
+
+(d) assisting victims to access documents or other information in relation to an investigation, inquest or inquiry referred to in subsection (3) (to the extent that victims are, or a particular victim is, entitled to such access).
+
+(5) The advocate may provide support to victims by providing support to such persons as the advocate considers represent one or more victims, including where those persons are not victims themselves.
+
+(6) Where the advocate provides support to victims under the age of 18, the advocate may do so only by providing support to such persons as the advocate considers represent those victims.
+
+(7) A person may not represent victims for the purposes of this Part if the person—
+
+(a) is an individual under the age of 18, or
+
+(b) would, in representing victims, carry on a legal activity.
+
+(8) The advocate may not, in supporting victims—
+
+(a) carry on a legal activity;
+
+(b) provide financial support to any person;
+
+(c) provide health care to any person.
+
+(9) Nothing in this Part confers a right on any person to require the advocate to provide support, or support of a particular type, to that person or any other person.
+
+(10) In this section—
+
+- “health care” includes all forms of health care, whether relating to physical or mental health;
+- “legal activity” has the meaning given by section 12(3) of the Legal Services Act 2007;
+- “public authority” has the same meaning as in section 35(2)(a) (see section 35(5)).
+
+#### 40 Role of advocates under Part 1 of the Coroners and Justice Act 2009
+
+In section 47(2) of the Coroners and Justice Act 2009 (interested persons in relation to a deceased person or investigation or inquest into a death), after paragraph (ka) insert—
+
+> (kb) where an advocate has been appointed under section 36(1) of the Victims and Prisoners Act 2024 in respect of an incident which may have caused or contributed to the death of the deceased—
+>
+> (i) each advocate that has been appointed under that section in respect of that incident, and
+>
+> (ii) the standing advocate appointed under section 35(1) of that Act;
+
+.
+
+### Functions and powers of advocates: general
+
+#### 41 Reports to the Secretary of State
+
+(1) The standing advocate must, in respect of each calendar year, report to the Secretary of State as to—
+
+(a) the exercise of the standing advocate’s functions in that year;
+
+(b) such matters as the Secretary of State may require in writing;
+
+(c) such other matters as the standing advocate considers relevant to their functions or the functions of another advocate.
+
+(2) A report under subsection (1) must be made by 1 July in the calendar year following the year in respect of which the report is made.
+
+(3) If the Secretary of State gives notice under subsection (4) to an advocate, the advocate must report to the Secretary of State—
+
+(a) if specified in the notice, the advocate’s opinions as to the treatment of victims in the course of an investigation, inquest or inquiry referred to in section 39(3);
+
+(b) such other matters relating to the advocate’s exercise of their functions as the Secretary of State specifies in the notice.
+
+(4) A notice under this subsection must specify—
+
+(a) that the Secretary of State requires a report under subsection (3);
+
+(b) the matters the Secretary of State requires the report to address.
+
+(5) The notice may require the advocate to report within such reasonable period as may be specified in the notice (or such other period as may be agreed).
+
+(6) A report made under subsection (3) may include any matters the advocate considers relevant to—
+
+(a) a major incident in respect of which they are appointed, or
+
+(b) in the case of the standing advocate, any major incident,
+
+whether or not the matters have been specified in a notice under subsection (4).
+
+(7) An advocate may, at their discretion and at any time, report to the Secretary of State such matters as the advocate considers relevant to—
+
+(a) a major incident in respect of which they are appointed, or
+
+(b) in the case of the standing advocate, any major incident.
+
+(8) If more than one advocate has been appointed in respect of the same major incident—
+
+(a) the Secretary of State may give notice under subsection (4) in relation to the incident only to the lead advocate;
+
+(b) only the lead advocate may make a report under subsection (7) in relation to the incident.
+
+#### 42 Publication of reports
+
+(1) The Secretary of State must publish a copy of a report made under section 41 if—
+
+(a) it is made by the standing advocate under section 41(1) (annual reports),
+
+(b) it is made by an advocate under section 41(3) (reports required by the Secretary of State), or
+
+(c) it is made by an advocate under section 41(7) (reports at discretion of advocate), and the advocate making the report requests in writing that the report is published.
+
+(2) The copy may be published in such manner as the Secretary of State thinks fit.
+
+(3) But material may be omitted from the copy if the Secretary of State considers that the publication of that material would—
+
+(a) risk death or injury to any person,
+
+(b) risk damage to national security or international relations,
+
+(c) risk damage to the economic interests of the United Kingdom or of any part of the United Kingdom,
+
+(d) risk damage caused by disclosure of commercially sensitive information,
+
+(e) breach any conditions as to confidentiality subject to which the advocate making the report acquired the material,
+
+(f) contravene the data protection legislation (within the meaning given by section 3 of the Data Protection Act 2018), or
+
+(g) prejudice—
+
+(i) the investigation or prosecution of an offence,
+
+(ii) an inquiry under the Inquiries Act 2005,
+
+(iii) an inquest under the Coroners and Justice Act 2009, or
+
+(iv) any other investigation or inquiry by a person exercising functions of a public nature.
+
+(4) The Secretary of State must lay a copy of a report as published under this section before Parliament.
+
+#### 43 Information sharing and data protection
+
+(1) An advocate may, to the extent the advocate considers appropriate, share information received in the exercise of their functions with—
+
+(a) the standing advocate;
+
+(b) any other advocate appointed in respect of the same major incident;
+
+(c) the Secretary of State;
+
+(d) any other person exercising functions of a public nature;
+
+(e) a victim of a major incident in respect of which the advocate is appointed.
+
+(2) A person exercising functions of a public nature may share such information as the person considers appropriate with an advocate for the purposes of the advocate exercising their functions.
+
+(3) An advocate may use information received in the exercise of their functions only for the purpose of exercising their functions.
+
+(4) The information referred to in this section may comprise or include personal data.
+
+(5) This section does not limit the circumstances in which information may be disclosed apart from this Part.
+
+(6) Except as provided by subsection (7), a disclosure of information under this Part does not breach—
+
+(a) any obligation of confidence owed by the person disclosing the information, or
+
+(b) any other restriction on the disclosure of information (however imposed).
+
+(7) Nothing in this Part requires or authorises the processing of information if the processing would contravene the data protection legislation (but, in determining whether it would do so, the powers conferred by this Part are to be taken into account).
+
+(8) In this section, “personal data”, “processing” and “the data protection legislation” have the meanings given by section 3 of the Data Protection Act 2018.
+
+### Guidance for advocates
+
+#### 44 Guidance for advocates
+
+(1) The Secretary of State may issue guidance as to the matters to which an advocate appointed in respect of a major incident must have regard in exercising their functions.
+
+(2) Guidance under this section—
+
+(a) must not be directed at any specific advocate or relate to a specific major incident;
+
+(b) may be withdrawn or revised at any time.
+
+(3) An advocate appointed in respect of a major incident must, to the extent relevant to the terms of their appointment and to the incident in respect of which they are appointed, have regard to the matters stated in guidance under this section.
+
+### Consequential amendments
+
+#### 45 Consequential amendments
+
+(1) In paragraph 3 of Schedule 1 to the Public Records Act 1958 (establishments and organisations whose records are public records), in Part 2 of the Table, at the appropriate place insert—
+
+> - An advocate for victims of major incidents appointed under Part 2 of the Victims and Prisoners Act 2024.
+
+(2) In Schedule 2 to the Parliamentary Commissioner Act 1967 (departments etc subject to investigation), at the appropriate place insert—
+
+> - An advocate for victims of major incidents appointed under Part 2 of the Victims and Prisoners Act 2024.
+
+(3) In Schedule 1 to the House of Commons Disqualification Act 1975 (offices disqualifying from membership of the House of Commons), in Part 3, at the appropriate place insert—
+
+> - An advocate for victims of major incidents appointed under Part 2 of the Victims and Prisoners Act 2024.
+
+(4) In Schedule 1 to the Freedom of Information Act 2000 (public authorities), in Part 6, at the appropriate place insert—
+
+> - An advocate for victims of major incidents appointed under Part 2 of the Victims and Prisoners Act 2024.
+
+(5) In Schedule 19 to the Equality Act 2010 (public authorities), in Part 1, after “A government department other than the Security Service, the Secret Intelligence Service or the Government Communications Headquarters.” insert—
+
+> **Advocates for victims of major incidents**
+>
+> - An advocate for victims of major incidents appointed under Part 2 of the Victims and Prisoners Act 2024.
+
+### Reviews
+
+#### 46 Review of duty of candour in relation to major incidents (prospective)
+
+(1) The Secretary of State or the Minister for the Cabinet Office must, before 1 January 2025, carry out a review to determine the extent to which additional duties of transparency and candour should be imposed on public servants in relation to major incidents.
+
+(2) The Secretary of State or the Minister for the Cabinet Office may discharge the duty in subsection (1) by arranging for another person to carry out the review.
+
+(3) The Secretary of State or the Minister for the Cabinet Office must, as soon as reasonably practicable after the completion of the review—
+
+(a) prepare, or arrange for another person to prepare, a report about the review,
+
+(b) publish the report, and
+
+(c) lay the report before Parliament.
+
+(4) In this section, “public servant” means—
+
+(a) a public authority within the meaning given by section 35(2)(a) (see section 35(5));
+
+(b) any person exercising the functions of a public authority (including as an employee of a public authority or as a person in the civil service of the State).
+
+#### 47 Review of operation of Part 2
+
+(1) The Secretary of State must, as soon as reasonably practicable after the end of the review period—
+
+(a) prepare and publish a report about the operation in the review period of this Part, and
+
+(b) lay the report before Parliament.
+
+(2) The “review period” is the period of 18 months beginning with the day on which the power in section 36(1) (appointment of advocate in respect of major incident) is first exercised.
+
+## Part 3 — Infected blood compensation
+
+### 48 Infected Blood Compensation Authority
+
+(1) A body corporate called the Infected Blood Compensation Authority is established.
+
+(2) In this Part that body is referred to as “the IBCA”.
+
+(3) Schedule 1 contains further provision about the IBCA.
+
+### 49 Infected blood compensation scheme
+
+(1) The Secretary of State or the Minister for the Cabinet Office must by regulations within three months of the passing of this Act establish a scheme (the “infected blood compensation scheme”) for making payments to eligible persons.
+
+(2) “Eligible persons” means such persons within subsection (3) as the regulations provide are to be eligible persons.
+
+(3) The persons within this subsection are persons who—
+
+(a) have been infected as a result of being treated with blood, blood products or tissue,
+
+(b) have been infected as a result of another person being treated with blood, blood products or tissue, or
+
+(c) have been affected by another person being infected as described in paragraph (a) or (b).
+
+(4) The regulations may define an eligible person by reference to matters including (but not limited to)—
+
+(a) the kind of infection;
+
+(b) the duration or effect of an infection;
+
+(c) when the treatment occurred;
+
+(d) where the treatment was given;
+
+(e) who gave the treatment;
+
+(f) whether a person was treated with blood, blood products or tissue;
+
+(g) in the case of a person within subsection (3)(b), how the person was infected and their connection with the person who was treated;
+
+(h) in the case of a person within subsection (3)(c), how the person has been affected and their connection with the person who has been infected.
+
+(5) The regulations must provide for payments under the scheme to be made by, and the scheme to be otherwise administered by, the IBCA.
+
+### 50 Payments
+
+(1) The amount of a payment under the infected blood compensation scheme is to be determined in accordance with regulations under section 49.
+
+(2) The regulations may make provision for the amount payable to eligible persons—
+
+(a) to be a specified amount;
+
+(b) to be an amount within a specified range;
+
+(c) not to exceed a specified amount.
+
+(3) The regulations may make provision—
+
+(a) for payments to be made as a lump sum or periodically;
+
+(b) for payments to be held on trust;
+
+(c) for interest to be payable on payments;
+
+(d) for the amount of any periodic payment to be increased to take account of changes in the value of money.
+
+(4) The regulations may make provision for payments to be made subject to conditions.
+
+(5) The regulations may make provision for payments under the scheme to be repaid to the IBCA (in whole or in part) in specified circumstances.
+
+(6) In this section “specified” means specified in the regulations.
+
+### 51 Applications and procedure
+
+Regulations under section 49 may deal with the procedure for the making and deciding of applications for payments under the infected blood compensation scheme and, in particular, may—
+
+(a) impose time limits for making an application or taking other steps;
+
+(b) make provision about evidence.
+
+### 52 Reviews and appeals
+
+(1) Regulations under section 49—
+
+(a) may make provision for the IBCA to review decisions taken under the infected blood compensation scheme;
+
+(b) must confer a right of appeal to the First-tier Tribunal against a decision taken under the scheme.
+
+(2) If the regulations make provision under subsection (1)(a), they may provide for the right of appeal to be exercisable only if the IBCA has reviewed the decision.
+
+### 53 Information: infected blood compensation scheme
+
+(1) The IBCA may provide information to another person, and a person may provide information to the IBCA, for the purposes of any matter connected with the administration of the infected blood compensation scheme.
+
+(2) The IBCA may by notice in writing require a person to provide information to the IBCA for the purposes of any matter connected with the administration of the infected blood compensation scheme.
+
+(3) If a person fails to comply with a notice under subsection (2), the IBCA may apply to the appropriate court for an order requiring the person to comply with the notice.
+
+(4) The information referred to in this section may comprise or include personal data.
+
+(5) This section does not limit the circumstances in which information may be disclosed apart from this section.
+
+(6) Except as provided by subsection (7), a disclosure of information authorised by or required under this section does not breach—
+
+(a) any obligation of confidence owed by the person making the disclosure, or
+
+(b) any other restriction on the disclosure of information (however imposed).
+
+(7) This section does not authorise or require the processing of information if the processing would contravene the data protection legislation (but in determining whether it would do so, take into account the powers conferred and duties imposed by this section).
+
+(8) In this section—
+
+- “the appropriate court” means—
+
+  - in England and Wales and Northern Ireland, the High Court;
+  - in Scotland, the Court of Session;
+
+- “personal data”, “processing” and “the data protection legislation” have the meanings given by section 3 of the Data Protection Act 2018.
+
+### 54 Duty to co-operate with the IBCA
+
+(1) Each relevant person must co-operate with the IBCA on any matter connected with the making of payments to persons in connection with those persons, or other persons, being treated with infected blood, infected blood products or infected tissue.
+
+(2) The relevant persons are—
+
+(a) the Secretary of State;
+
+(b) the Minister for the Cabinet Office;
+
+(c) a Special Health Authority established under section 28 of the National Health Service Act 2006;
+
+(d) the Welsh Ministers;
+
+(e) a National Health Service trust established under section 18 of the National Health Service (Wales) Act 2006;
+
+(f) a Special Health Authority established under section 22 of the National Health Service (Wales) Act 2006;
+
+(g) the Scottish Ministers;
+
+(h) a person who has at any time been appointed by the Scottish Ministers under subsection (4)(d) of section 28 of the Smoking, Health and Social Care (Scotland) Act 2005 (asp 13) to manage a scheme made under that section;
+
+(i) the Department of Health in Northern Ireland;
+
+(j) the Regional Business Services Organisation established by section 14 of the Health and Social Care (Reform) Act (Northern Ireland) 2009 (c. 1 (N.I.));
+
+(k) any other persons specified as relevant persons in regulations made by the Secretary of State or the Minister for the Cabinet Office for the purposes of this section.
+
+(3) Regulations under subsection (2)(k)—
+
+(a) may not specify a Welsh body as a relevant person unless the Welsh Ministers consent;
+
+(b) may not specify a Scottish body as a relevant person unless the Scottish Ministers consent;
+
+(c) may not specify a Northern Ireland body as a relevant person unless the Department of Health in Northern Ireland consents.
+
+(4) In subsection (3)—
+
+- “Welsh body” means—
+
+  - a devolved Welsh authority as defined in section 157A of the Government of Wales Act 2006;
+  - a person providing services to a person within paragraph (a);
+
+- “Scottish body” means—
+
+  - a person who is a part of the Scottish Administration;
+  - a Scottish public authority with mixed functions or no reserved functions (within the meaning of the Scotland Act 1998);
+  - a person providing services to a person within paragraph (a) or (b);
+
+- “Northern Ireland body” means—
+
+  - a Northern Ireland department;
+  - a public authority whose functions are exercisable only or mainly in or as regards Northern Ireland and relate only or mainly to transferred matters (within the meaning of the Northern Ireland Act 1998);
+  - a person providing services to a person within paragraph (a) or (b).
+
+### 55 Provision of support and assistance
+
+(1) The Secretary of State or the Minister for the Cabinet Office may make such arrangements as they consider appropriate for the provision of support and assistance to applicants (or potential applicants) for compensation under the infected blood compensation scheme.
+
+(2) The arrangements may be for the provision of support and assistance by the IBCA or any other person.
+
+### 56 Payments to personal representatives of qualifying infected persons
+
+(1) The Secretary of State or the Minister for the Cabinet Office must make arrangements for the personal representatives of a qualifying infected person (in their capacity as such) to receive a payment of £100,000.
+
+(2) A “qualifying infected person” is a deceased person—
+
+(a) who was registered as an infected person under an infected blood support scheme, or with a relevant organisation, before 17 April 2024, or
+
+(b) whose death was registered as the death of an infected person under an infected blood support scheme, or with a relevant organisation, before 17 April 2024,
+
+and to or in respect of whom no payment has been made under the Infected Blood Interim Compensation Payment Scheme.
+
+(3) An “infected blood support scheme” means—
+
+(a) the England Infected Blood Support Scheme established under section 2 of, and paragraph 7C of Schedule 1 to, the National Health Service Act 2006,
+
+(b) the Wales Infected Blood Support Scheme established under sections 1 to 3 of the National Health Service (Wales) Act 2006,
+
+(c) the Scottish Infected Blood Support Scheme established partly under section 28 of the Smoking, Health and Social Care (Scotland) Act 2005 (asp 13), and
+
+(d) the Infected Blood Payment Scheme for Northern Ireland established under section 3 of the Health and Social Care (Reform) Act (Northern Ireland) 2009 (c. 1 (N.I.)).
+
+(4) A “relevant organisation” means—
+
+(a) the Caxton Foundation (charity number 1142529),
+
+(b) the Eileen Trust (charity number 1028027),
+
+(c) the Macfarlane Trust (charity number 298863),
+
+(d) the Macfarlane (Special Payments) Trust established on 29 January 1990,
+
+(e) the Macfarlane (Special Payments) (No. 2) Trust established on 3 May 1991,
+
+(f) MFET Limited (company number 07121661), and
+
+(g) the Skipton Fund Limited (company number 5084964).
+
+(5) A payment is made in respect of a deceased person under the Infected Blood Interim Compensation Payment Scheme if a payment under that scheme is made to the person’s personal representatives (in their capacity as such) or the person’s bereaved partner.
+
+(6) The Infected Blood Interim Compensation Payment Scheme means the scheme of that name administered by the persons who administer the infected blood support schemes (whether or not in conjunction with other persons).
+
+(7) The arrangements under subsection (1)—
+
+(a) must include provision about the procedure for making payments to the personal representatives of qualifying infected persons;
+
+(b) may include arrangements for one or more other persons (which may in particular include relevant persons) to administer the making of payments, in accordance with that procedure, on behalf of the Secretary of State or the Minister for the Cabinet Office.
+
+(8) The arrangements under subsection (1) may be made, in whole or in part, by exercising powers conferred on the Secretary of State or the Minister for the Cabinet Office apart from this section.
+
+(9) In this section—
+
+- “personal representatives”, in relation to a deceased person, means the persons responsible for administering the deceased person’s estate;
+- “relevant person” has the same meaning as in section 54.
+
+(10) The Secretary of State or the Minister for the Cabinet Office may by regulations repeal or amend subsections (1) to (9).
+
+### 57 Information: payments to personal representatives
+
+(1) A person may provide information to—
+
+(a) the Secretary of State or the Minister for the Cabinet Office, or
+
+(b) a person administering the making of payments under section 56 by virtue of section 56(7)(b),
+
+for the purposes of any matter connected with the making of payments to personal representatives under that section.
+
+(2) The information referred to in subsection (1) may comprise or include personal data.
+
+(3) Subsection (1) does not limit the circumstances in which information may be disclosed apart from that subsection.
+
+(4) Except as provided by subsection (5), a disclosure of information authorised by this section does not breach—
+
+(a) any obligation of confidence owed by the person making the disclosure, or
+
+(b) any other restriction on the disclosure of information (however imposed).
+
+(5) Subsection (1) does not authorise the processing of information if the processing would contravene the data protection legislation (but in determining whether it would do so, take into account the power conferred by that subsection).
+
+(6) In this section “personal data”, “processing” and “the data protection legislation” have the meanings given by section 3 of the Data Protection Act 2018.
+
+## Part 4 — Prisoners
+
+### Public protection decisions
+
+#### 58 Public protection decisions: life prisoners
+
+(1) Chapter 2 of Part 2 of the Crime (Sentences) Act 1997 (life sentences) is amended as follows.
+
+(2) After section 28 insert—
+
+> **28ZA Public protection decisions**
+>
+> (1) This section applies for the purposes of any public protection decision made by a decision-maker about a life prisoner under a relevant provision of this Chapter.
+>
+> (2) A “public protection decision”, in relation to a prisoner, is a decision as to whether the decision-maker is satisfied that it is no longer necessary for the protection of the public that the prisoner should be confined.
+>
+> (3) The decision-maker must not be so satisfied unless the decision-maker considers that there is no more than a minimal risk that, were the prisoner no longer confined, the prisoner would commit a further offence the commission of which would cause serious harm.
+>
+> (4) In making that assessment, the decision-maker must consider the risk that the prisoner would engage in conduct which would (or, if carried out in any particular part of the United Kingdom, would) constitute an offence specified in Schedule 18B to the Criminal Justice Act 2003.
+>
+> (5) When making a public protection decision about a prisoner, the following matters must be taken into account by the decision-maker—
+>
+> (a) the nature and seriousness of the offence in respect of which the relevant sentence was imposed;
+>
+> (b) the nature and seriousness of any other offence for which the prisoner has at any time been convicted;
+>
+> (c) the conduct of the prisoner while serving the relevant sentence (whether in prison or on licence);
+>
+> (d) the risk that the prisoner would commit a further offence (whether or not specified in Schedule 18B to the Criminal Justice Act 2003) if no longer confined;
+>
+> (e) the risk that, if released on licence, the prisoner would fail to comply with one or more licence conditions;
+>
+> (f) any evidence of the effectiveness in reducing the risk the prisoner poses to the public of any treatment, education or training the prisoner has received or participated in while serving the relevant sentence;
+>
+> (g) any submissions made by or on behalf of the prisoner or the Secretary of State (whether or not on a matter mentioned in paragraphs (a) to (f)).
+>
+> (6) When making a public protection decision about a prisoner, the decision-maker must in particular have regard to the protection of any victim of the prisoner.
+>
+> (7) For the purposes of subsection (6), a “victim” of a prisoner is a person who meets the definition of victim in section 1 of the Victims and Prisoners Act 2024 by reference to the conduct which constituted the offence for which the relevant sentence was imposed.
+>
+> (8) In subsections (5) and (7), “relevant sentence” means the sentence in respect of which the public protection decision is made.
+>
+> (9) This section does not limit the matters which the decision-maker must or may take into account when making a public protection decision.
+>
+> (10) The “relevant provisions” of this Chapter under which a public protection decision may be made, and the purposes for which the decision is made, are—
+>
+> (a) section 28(6)(b), for the purposes of section 28(5);
+>
+> (b) section 32(5A), for the purposes of section 32(5);
+>
+> (c) subsection (1) of section 32ZAC, for the purposes of that subsection.
+>
+> (11) The “decision-maker”, in relation to a public protection decision made under a relevant provision of this Chapter, is—
+>
+> (a) if the decision is made under section 28(6)(b) or 32(5A), the Parole Board;
+>
+> (b) if the decision is made under section 32ZAC(1), the High Court.
+>
+> (12) Subsection (2) has effect in relation to a decision made by the Parole Board under section 32(5A) (recall of life prisoners while on licence) as if for the words “be confined” there were substituted “remain in prison”.
+
+(3) In section 28A (murder or manslaughter: prisoner’s non-disclosure of information)—
+
+(a) in subsection (1), in the words before paragraph (a), after “life prisoner” insert “under section 28(6)(b), for the purposes of section 28(5),”;
+
+(b) in subsection (5), for the definition of “public protection decision” substitute—
+
+> - “public protection decision” has the meaning given by section 28ZA(2);
+
+.
+
+(4) In section 28B (indecent images: prisoner’s non-disclosure of information)—
+
+(a) in subsection (1), in the words before paragraph (a), after “life prisoner” insert “under section 28(6)(b), for the purposes of section 28(5),”;
+
+(b) in subsection (7), for the definition of “public protection decision” substitute—
+
+> - “public protection decision”, in relation to a prisoner, has the meaning given by section 28ZA(2);
+
+.
+
+(5) In section 32ZZA (imprisonment or detention for public protection: powers in relation to release of recalled prisoners) (inserted by section 66 of this Act), after subsection (3) insert—
+
+> (3A) The Secretary of State must not be satisfied as mentioned in subsection (3) unless the Secretary of State considers that there is no more than a minimal risk that, were the prisoner no longer confined, the prisoner would commit a further offence the commission of which would cause serious harm (and section 28ZA(4) applies for the purposes of that assessment).
+
+#### 59 Public protection decisions: fixed-term prisoners
+
+(1) The Criminal Justice Act 2003 is amended as follows.
+
+(2) After section 237 insert—
+
+> **237A Public protection decisions**
+>
+> (1) This section applies for the purposes of any public protection decision made by a decision-maker about a prisoner under a relevant provision of this Chapter.
+>
+> (2) A “public protection decision”, in relation to a prisoner, is a decision as to whether the decision-maker is satisfied that it is not necessary, or no longer necessary, for the protection of the public that the prisoner should be confined.
+>
+> (3) The decision-maker must not be so satisfied unless the decision-maker considers that there is no more than a minimal risk that, were the prisoner no longer confined, the prisoner would commit a further offence the commission of which would cause serious harm.
+>
+> (4) In making that assessment, the decision-maker must consider the risk that the prisoner would engage in conduct which would (or, if carried out in any particular part of the United Kingdom, would) constitute an offence specified in Schedule 18B.
+>
+> (5) When making a public protection decision about a prisoner, the following matters must be taken into account by the decision-maker—
+>
+> (a) the nature and seriousness of the offence in respect of which the relevant sentence was imposed;
+>
+> (b) the nature and seriousness of any other offence for which the prisoner has at any time been convicted;
+>
+> (c) the conduct of the prisoner while serving the relevant sentence (whether in prison or on licence);
+>
+> (d) the risk that the prisoner would commit a further offence (whether or not specified in Schedule 18B) if no longer confined;
+>
+> (e) the risk that, if released on licence, the prisoner would fail to comply with one or more licence conditions;
+>
+> (f) any evidence of the effectiveness in reducing the risk the prisoner poses to the public of any treatment, education or training the prisoner has received or participated in while serving the relevant sentence;
+>
+> (g) any submissions made by or on behalf of the prisoner or the Secretary of State (whether or not on a matter mentioned in paragraphs (a) to (f)).
+>
+> (6) When making a public protection decision about a prisoner, the decision-maker must in particular have regard to the protection of any victim of the prisoner.
+>
+> (7) For the purposes of subsection (6), a “victim” of a prisoner is a person who meets the definition of victim in section 1 of the Victims and Prisoners Act 2024 by reference to the conduct which constituted the offence for which the relevant sentence was imposed.
+>
+> (8) In subsections (5) and (7), “relevant sentence” means the sentence in respect of which the public protection decision is made.
+>
+> (9) This section does not limit the matters which the decision-maker must or may take into account when making a public protection decision.
+>
+> (10) Section 237B lists the “relevant provisions” of this Chapter under which a public protection decision may be made, and the purposes for which the decision is made.
+>
+> (11) The “decision-maker”, in relation to a public protection decision made under a relevant provision of this Chapter, is—
+>
+> (a) if the decision is made under section 256AZBC(1), the High Court;
+>
+> (b) in any other case, the Board.
+>
+> (12) Subsection (2) has effect in relation to a decision made by the Board—
+>
+> (a) under section 255B(4A) (automatic release) as if for the words “be confined” there were substituted “remain in prison until the end of the period mentioned in section 255B(1)(b)”;
+>
+> (b) under section 255C(4A) (prisoners not suitable for automatic release) or 256A(4) (further review) as if for the words “be confined” there were substituted “remain in prison”.
+>
+> (13) The Secretary of State may by order amend Schedule 18B so as to—
+>
+> (a) specify a further offence, or
+>
+> (b) omit an offence for the time being specified.
+>
+> **237B Relevant provisions of this Chapter and corresponding purposes**
+>
+> In the following table—
+>
+> (a) the first column lists each provision of this Chapter which is a “relevant provision” under which a public protection decision may be made;
+>
+> (b) the second column lists, in relation to each relevant provision, the purposes for which the decision is made.
+>
+> | *Relevant provision* | *Purposes* |
+> |---|---|
+> | section 244ZC(4) | section 244ZC(3) |
+> | section 244ZC(5)(b) | section 244ZC(3) |
+> | section 244A(4)(b) | section 244A(3) |
+> | section 246A(6)(b) | section 246A(5) |
+> | section 247A(5)(b) | section 247A(4) |
+> | section 255B(4A) | section 255B(4A) |
+> | section 255C(4A) | section 255C(4A) |
+> | section 256A(4) | section 256A(4) |
+> | section 256AZBC (1) | section 256AZBC (1) |
+> | paragraph 6(2) of Schedule 20B | paragraph 6(1) of Schedule 20B |
+> | paragraph 15(4) of Schedule 20B | paragraph 15(3) of Schedule 20B |
+> | paragraph 25(3) of Schedule 20B | paragraph 25(2) of Schedule 20B |
+> | paragraph 28(3) of Schedule 20B | paragraph 28(2) of Schedule 20B |
+
+.
+
+(3) In section 246B (manslaughter: prisoner’s non-disclosure of information)—
+
+(a) in subsection (1), in the words before paragraph (a), after “a prisoner” insert “under section 246A(6)(b), for the purposes of section 246A(5),”;
+
+(b) in subsection (5), for the definition of “public protection decision” substitute—
+
+> - “public protection decision” has the meaning given by section 237A(2);
+
+.
+
+(4) In section 246C (indecent images: prisoner’s non-disclosure of information)—
+
+(a) in subsection (1), in the words before paragraph (a), after “a prisoner” insert “under section 246A(6)(b), for the purposes of section 246A(5),”;
+
+(b) in subsection (6), for the definition of “public protection decision” substitute—
+
+> - “public protection decision”, in relation to a prisoner, has the meaning given by section 237A(2);
+
+.
+
+(5) In section 255B (automatic release), after subsection (3) insert—
+
+> (3A) The Secretary of State must not be satisfied as mentioned in subsection (3) unless the Secretary of State considers that there is no more than a minimal risk that, if P were released before the end of the period mentioned in subsection (1)(b), P would commit a further offence the commission of which would cause serious harm (and section 237A(4) applies for the purposes of that assessment).
+
+(6) In section 255C (prisoners not suitable for automatic release), after subsection (3) insert—
+
+> (3A) The Secretary of State must not be satisfied as mentioned in subsection (3) unless the Secretary of State considers that there is no more than a minimal risk that, if P were released, P would commit a further offence the commission of which would cause serious harm (and section 237A(4) applies for the purposes of that assessment).
+
+(7) In section 256AZB (power to change test for release following recall), after subsection (2) insert—
+
+> (3) Provision made in an order under subsection (1)(c) by virtue of section 330(4) (consequential etc provision) may in particular amend, or modify the application of, section 256AZBC(1) (powers of High Court on referral of release decisions).
+
+(8) In section 330 (orders and rules), in subsection (5)(a), before “section 246(5)” insert—
+
+> - section 237A(13),
+
+.
+
+(9) Schedule 18B (offences relevant to public protection decisions) is inserted by Schedule 2 to this Act.
+
+(10) Schedule 20B (modifications of Chapter 6 of Part 12 in certain transitional cases) is amended in accordance with subsections (11) and (12).
+
+(11) In paragraph 38 (manslaughter: prisoner’s non disclosure of information)—
+
+(a) in sub-paragraph (1), in the words before paragraph (a), after “making a” insert “relevant”;
+
+(b) in sub-paragraph (2), in the words before paragraph (a), after “making the” insert “relevant”;
+
+(c) in sub-paragraph (3), after “making a” insert “relevant”;
+
+(d) in sub-paragraph (4), for the definition of “public protection decision” substitute—
+
+> - “public protection decision” has the meaning given by section 237A(2);
+>
+> - “relevant public protection decision” means the public protection decision made—
+>
+>   - under paragraph 6(2) for the purposes of paragraph 6(1),
+>   - under paragraph 15(4) for the purposes of paragraph 15(3),
+>   - under paragraph 25(3) for the purposes of paragraph 25(2), or
+>   - under paragraph 28(3) for the purposes of paragraph 28(2);
+
+.
+
+(12) In paragraph 39 (indecent images: prisoner’s non disclosure of information)—
+
+(a) in sub-paragraph (1), in the words before paragraph (a), after “making a” insert “relevant”;
+
+(b) in sub-paragraph (2), in the words before paragraph (a), after “making the” insert “relevant”;
+
+(c) in sub-paragraph (3), after “making a” insert “relevant”;
+
+(d) in sub-paragraph (5)—
+
+(i) for the definition of “public protection decision” substitute—
+
+> - “public protection decision”, in relation to a prisoner, has the meaning given by section 237A(2);
+
+;
+
+(ii) after the definition of “relevant indecent image” insert—
+
+> - “relevant public protection decision”, in relation to a prisoner, means the public protection decision made—
+>
+>   - under paragraph 6(2) for the purposes of paragraph 6(1),
+>   - under paragraph 15(4) for the purposes of paragraph 15(3),
+>   - under paragraph 25(3) for the purposes of paragraph 25(2), or
+>   - under paragraph 28(3) for the purposes of paragraph 28(2).
+
+#### 60 Amendment of power to change test for release on licence of certain prisoners
+
+(1) Section 128 of the Legal Aid, Sentencing and Punishment of Offenders Act 2012 (power to change test for release on licence of certain prisoners) is amended as follows.
+
+(2) In subsection (3)—
+
+(a) after paragraph (a) insert—
+
+> (aza) amend section 28ZA of the Crime (Sentences) Act 1997 (public protection decisions), as that section applies for the purposes of section 28 or 32 of that Act,
+
+;
+
+(b) after paragraph (aa) insert—
+
+> (aaza) amend section 237A of the Criminal Justice Act 2003 (public protection decisions), as that section applies for the purposes of a provision of that Act mentioned in any of paragraphs (aaa) to (c) below,
+
+.
+
+(3) After subsection (3) insert—
+
+> (3A) Provision made in an order under this section by virtue of subsection (3)(f) may in particular amend, or modify the application of, the following provisions—
+>
+> (a) section 32ZAC(1) of the Crime (Sentences) Act 1997 (powers of High Court on referral of release decisions);
+>
+> (b) section 256AZBC(1) of the Criminal Justice Act 2003 (powers of High Court on referral of release decisions).
+
+### Referral of release decisions
+
+#### 61 Referral of release decisions: life prisoners
+
+(1) After section 32ZA of the Crime (Sentences) Act 1997 insert—
+
+> **Referral of release decisions to High Court**
+>
+> **32ZAA Referral of release decisions to High Court**
+>
+> (1) This section applies where—
+>
+> (a) a prisoner is serving a life sentence imposed in respect of an offence specified or described in section 32ZAB, and
+>
+> (b) the Parole Board directs the prisoner’s release under section 28(5) or 32(5).
+>
+> (2) The Secretary of State may direct the Parole Board to refer the prisoner’s case to the High Court if the Secretary of State considers that—
+>
+> (a) the release of the prisoner would be likely to undermine public confidence in the parole system, and
+>
+> (b) if the case were referred, the High Court might not be satisfied that it is no longer necessary for the protection of the public that the prisoner should be confined (see section 32ZAC(1)).
+>
+> (3) The requirement for the Secretary of State to give effect to the Parole Board’s direction to release the prisoner is suspended—
+>
+> (a) during such period, beginning with the day on which the direction is given, as the Secretary of State reasonably requires to determine whether to direct the Parole Board to refer the prisoner’s case to the High Court under this section, and
+>
+> (b) if the Secretary of State gives such a direction, pending determination of the reference under section 32ZAC(1).
+>
+> (4) Where the Secretary of State gives a direction under subsection (2), the Secretary of State must notify the prisoner of the direction and the reasons for giving it.
+>
+> (5) This section applies in relation to a prisoner whose sentence was imposed before, as well as after, this section comes into force.
+>
+> (6) But nothing in this section affects the duty of the Secretary of State to release a prisoner whose release has been directed by the Parole Board before this section comes into force.
+>
+> **32ZAB Specified offences**
+>
+> (1) The offences specified or described in this section (for the purposes of section 32ZAA) are—
+>
+> (a) murder;
+>
+> (b) an offence under section 5 of the Domestic Violence, Crime and Victims Act 2004, where a child has died as a result of the prisoner’s unlawful act;
+>
+> (c) an offence specified in any of paragraphs 41 to 43 of Schedule 18 to the Sentencing Code (specified terrorism offences other than inchoate offences);
+>
+> (d) an offence that is not an inchoate offence and was determined to have a terrorist connection, within the meaning given by section 247A(7A) of the Criminal Justice Act 2003;
+>
+> (e) an offence under section 1 of the Sexual Offences Act 2003 (rape);
+>
+> (f) an offence under section 5 of that Act (rape of a child under 13);
+>
+> (g) an offence under section 1 of the Sexual Offences (Scotland) Act 2009 (asp 9) (rape);
+>
+> (h) an offence under section 18 of that Act (rape of a young child);
+>
+> (i) an offence under Article 5 of the Sexual Offences (Northern Ireland) Order 2008 (S.I. 2008/1769 (N.I. 2)) (rape);
+>
+> (j) an offence under Article 12 of that Order (rape of a child under 13);
+>
+> (k) an offence that—
+>
+> (i) is abolished, and
+>
+> (ii) would have constituted an offence referred to in paragraphs (a) to (j) if committed on or after the date on which it was abolished.
+>
+> (2) A sentence in respect of a service offence is to be treated for the purposes of section 32ZAA as if it were a sentence in respect of the corresponding offence.
+>
+> (3) In subsection (2)—
+>
+> (a) “service offence” means an offence under—
+>
+> (i) section 42 of the Armed Forces Act 2006,
+>
+> (ii) section 70 of the Army Act 1955 or the Air Force Act 1955, or
+>
+> (iii) section 42 of the Naval Discipline Act 1957;
+>
+> (b) “corresponding offence” means—
+>
+> (i) in relation to an offence under section 42 of the Armed Forces Act 2006, the corresponding offence under the law of England and Wales within the meaning of that section;
+>
+> (ii) in relation to an offence under section 70 of the Army Act 1955 or the Air Force Act 1955, the corresponding civil offence within the meaning of that Act;
+>
+> (iii) in relation to an offence under section 42 of the Naval Discipline Act 1957, the civil offence within the meaning of that section.
+>
+> **32ZAC Powers of the High Court**
+>
+> (1) On a referral of a prisoner’s case under section 32ZAA, the High Court—
+>
+> (a) must, if satisfied that it is no longer necessary for the protection of the public that the prisoner should be confined, make an order requiring the Secretary of State to give effect to the Parole Board’s direction to release the prisoner on licence;
+>
+> (b) otherwise, must make an order quashing the Parole Board’s direction to release the prisoner on licence.
+>
+> (2) An order under subsection (1)(a) may include directions as to the conditions to be included in the prisoner’s licence on release.
+>
+> (3) An order under subsection (1)(b) has effect as if the prisoner’s case were disposed of by the Parole Board on the date on which the order was made.
+
+(2) In section 32ZB of the Crime (Sentences) Act 1997 (release at direction of Parole Board: timing)—
+
+(a) in subsection (1), at the end insert “(including where the High Court makes an order under section 32ZAC(1)(a) requiring the Secretary of State to give effect to such a direction)”;
+
+(b) in subsection (3), after “subject to” insert “—
+
+> (a) section 32ZAA(3) (suspension of duty to release prisoner pending referral to High Court or decision whether to refer), and
+>
+> (b)
+
+.
+
+#### 62 Referral of release decisions: fixed-term prisoners
+
+(1) After section 256AZB of the Criminal Justice Act 2003 insert—
+
+> **Referral of release decisions to High Court**
+>
+> **256AZBA Referral of release decisions to High Court**
+>
+> (1) This section applies where—
+>
+> (a) a prisoner is serving a fixed-term sentence imposed in respect of an offence specified or described in section 256AZBB, and
+>
+> (b) the Board directs the prisoner’s release under a provision mentioned in the second column of the table in section 237B.
+>
+> (2) The Secretary of State may direct the Board to refer the prisoner’s case to the High Court if the Secretary of State considers that—
+>
+> (a) the release of the prisoner would be likely to undermine public confidence in the parole system, and
+>
+> (b) if the case were referred, the High Court might not be satisfied that it is no longer necessary for the protection of the public that the prisoner should be confined (see section 256AZBC(1)).
+>
+> (3) The requirement for the Secretary of State to give effect to the Board’s direction to release the prisoner is suspended—
+>
+> (a) during such period, beginning with the day on which the direction is given, as the Secretary of State reasonably requires to determine whether to direct the Board to refer the prisoner’s case to the High Court under this section, and
+>
+> (b) if the Secretary of State gives such a direction, pending determination of the reference under section 256AZBC(1).
+>
+> (4) Where the Secretary of State gives a direction under subsection (2), the Secretary of State must notify the prisoner of the direction and the reasons for giving it.
+>
+> (5) This section applies in relation to a prisoner whose sentence was imposed before, as well as after, this section comes into force.
+>
+> (6) But nothing in this section affects the duty of the Secretary of State to release a prisoner whose release has been directed by the Board before this section comes into force.
+>
+> **256AZBB Specified offences**
+>
+> (1) The offences specified or described in this section (for the purposes of section 256AZBA) are—
+>
+> (a) an offence under section 5 of the Domestic Violence, Crime and Victims Act 2004, where a child has died as a result of the prisoner’s unlawful act;
+>
+> (b) an offence specified in any of paragraphs 41 to 43 of Schedule 18 to the Sentencing Code (specified terrorism offences other than inchoate offences);
+>
+> (c) an offence that is not an inchoate offence and was determined to have a terrorist connection, within the meaning given by section 247A(7A);
+>
+> (d) an offence under section 1 of the Sexual Offences Act 2003 (rape);
+>
+> (e) an offence under section 5 of that Act (rape of a child under 13);
+>
+> (f) an offence under section 1 of the Sexual Offences (Scotland) Act 2009 (asp 9) (rape);
+>
+> (g) an offence under section 18 of that Act (rape of a young child);
+>
+> (h) an offence under Article 5 of the Sexual Offences (Northern Ireland) Order 2008 (S.I. 2008/1769 (N.I. 2)) (rape);
+>
+> (i) an offence under Article 12 of that Order (rape of a child under 13);
+>
+> (j) an offence that—
+>
+> (i) is abolished, and
+>
+> (ii) would have constituted an offence referred to in paragraphs (a) to (i) if committed on or after the date on which it was abolished.
+>
+> (2) A sentence in respect of a service offence is to be treated for the purposes of section 256AZBA as if it were a sentence in respect of the corresponding offence.
+>
+> (3) In subsection (2)—
+>
+> (a) “service offence” means an offence under—
+>
+> (i) section 42 of the Armed Forces Act 2006,
+>
+> (ii) section 70 of the Army Act 1955 or the Air Force Act 1955, or
+>
+> (iii) section 42 of the Naval Discipline Act 1957;
+>
+> (b) “corresponding offence” means—
+>
+> (i) in relation to an offence under section 42 of the Armed Forces Act 2006, the corresponding offence under the law of England and Wales within the meaning of that section;
+>
+> (ii) in relation to an offence under section 70 of the Army Act 1955 or the Air Force Act 1955, the corresponding civil offence within the meaning of that Act;
+>
+> (iii) in relation to an offence under section 42 of the Naval Discipline Act 1957, the civil offence within the meaning of that section.
+>
+> **256AZBC Powers of the High Court**
+>
+> (1) On a referral of a prisoner’s case under section 256AZBA, the High Court—
+>
+> (a) must, if satisfied that it is no longer necessary for the protection of the public that the prisoner should be confined, make an order requiring the Secretary of State to give effect to the Board’s direction to release the prisoner on licence;
+>
+> (b) otherwise, must make an order quashing the direction.
+>
+> (2) An order under subsection (1)(a) may include directions as to the conditions to be included in the prisoner’s licence on release.
+>
+> (3) An order under subsection (1)(b) has effect as if the prisoner’s case were disposed of by the Board on the date on which the order was made.
+>
+> (4) If the decision referred to the High Court is a decision under section 255B(4A) (automatic release), subsection (1)(a) has effect as if for the words “be confined” there were substituted “remain in prison until the end of the period mentioned in section 255B(1)(b)”.
+
+(2) In section 256AZC of the Criminal Justice Act 2003 (release at direction of Parole Board: timing)—
+
+(a) in subsection (1), at the end insert “(including where the High Court makes an order under section 256AZBC(1)(a) requiring the Secretary of State to give effect to such a direction)”;
+
+(b) in subsection (3), after “subject to” insert
+
+> —
+>
+> (a) section 256AZBA(3) (suspension of duty to release prisoner pending referral to High Court or decision whether to refer), and
+>
+> (b)
+
+.
+
+### Licence conditions on release following referral
+
+#### 63 Licence conditions of life prisoners released following referral
+
+(1) Section 31 of the Crime (Sentences) Act 1997 (duration and conditions of licences) is amended as follows.
+
+(2) In subsection (3), before paragraph (b) (and the “or” before it) insert—
+
+> (ab) in accordance with subsection (3B),
+
+.
+
+(3) Before subsection (4) insert—
+
+> (3B) Where the High Court gives a direction under section 32ZAC(2) as to the conditions to be included in a life prisoner’s licence on release, the Secretary of State—
+>
+> (a) must include the conditions in the prisoner’s licence on release;
+>
+> (b) may subsequently insert a condition in such a licence or vary or cancel a condition of such a licence.
+
+#### 64 Licence conditions of fixed-term prisoners released following referral
+
+(1) Section 250 of the Criminal Justice Act 2003 (licence conditions) is amended as follows.
+
+(2) In subsection (5A), at the beginning insert “Subject to subsection (5D),”.
+
+(3) After subsection (5C) insert—
+
+> (5D) Where the High Court gives a direction under section 256AZBC(2) as to the conditions to be included in a prisoner’s licence on release, the Secretary of State—
+>
+> (a) must include the conditions in the prisoner’s licence on release;
+>
+> (b) may subsequently insert a condition in such a licence or vary or cancel a condition of such a licence.
+
+### Assessing etc risks posed by controlling or coercive offenders
+
+#### 65 Assessing etc risks posed by controlling or coercive offenders
+
+In section 327 of the Criminal Justice Act 2003 (section 325: interpretation), in subsection (4A), after paragraph (c) insert—
+
+> (ca) an offence under section 76 of the Serious Crime Act 2015 (controlling or coercive behaviour in an intimate or family relationship);
+
+.
+
+### Imprisonment or detention for public protection
+
+#### 66 Imprisonment or detention for public protection
+
+(1) Chapter 2 of Part 2 of the Crime (Sentences) Act 1997 (life sentences) is amended as follows.
+
+(2) In section 31 (duration and conditions of licences)—
+
+(a) in subsection (3), after paragraph (a) (but before the “or”) insert—
+
+> (aa) in accordance with subsection (3A),
+
+;
+
+(b) after subsection (3) insert—
+
+> (3A) The Secretary of State may include a condition in a life prisoner's licence on release under section 32ZZA.
+
+(3) In section 31A (imprisonment or detention for public protection: termination of licences)—
+
+(a) in subsection (2), in the words after paragraph (b), for “shall” substitute “must”;
+
+(b) in subsection (3)—
+
+(i) at the end of paragraph (a) insert “and”;
+
+(ii) omit paragraph (c) and the “and” before it;
+
+(c) for subsection (4) substitute—
+
+> (4) Where a reference is made under subsection (3) above—
+>
+> (a) the Parole Board must direct the Secretary of State to make an order that the licence is to cease to have effect, unless paragraph (b) applies;
+>
+> (b) if the Parole Board is satisfied that it is necessary for the protection of the public that the licence should remain in force, it must dismiss the reference.
+
+;
+
+(d) omit subsections (4A) to (4C) and insert—
+
+> (4D) The reference under subsection (3) must not be made, and a reference under that subsection must not be determined by the Parole Board under subsection (4), if at the time the reference or determination would otherwise be made the prisoner is in prison having been recalled under section 32.
+>
+> (4E) Subsection (4F) applies where—
+>
+> (a) but for subsection (4D), a reference of the prisoner’s case would have been made under subsection (3) or determined by the Parole Board under subsection (4),
+>
+> (b) the Secretary of State has referred the prisoner’s case to the Parole Board under section 28 or 32, and
+>
+> (c) the Board is satisfied that it is no longer necessary for the protection of the public that the prisoner should be confined.
+>
+> (4F) Where this subsection applies—
+>
+> (a) the Parole Board must direct the Secretary of State to release the prisoner unconditionally, unless paragraph (b) applies;
+>
+> (b) if the Parole Board is satisfied that it is necessary for the protection of the public for the prisoner, when released, to be released on licence in respect of the preventive sentence or sentences, it must not give a direction under paragraph (a).
+>
+> (4G) Where the Parole Board gives a direction under subsection (4F)(a)—
+>
+> (a) section 28(5) has effect in relation to the prisoner as if for “release him on licence” there were substituted “release the prisoner unconditionally”;
+>
+> (b) section 32(5) has effect in relation to the prisoner as if for “give effect to the direction” there were substituted “release the prisoner unconditionally”.
+>
+> (4H) Where—
+>
+> (a) the prisoner has been released on licence under this Chapter (whether or not the prisoner has subsequently been recalled to prison under section 32),
+>
+> (b) the qualifying period has expired, and
+>
+> (c) the prisoner’s licence has remained in force for a continuous period of two years—
+>
+> (i) beginning not before the qualifying period expired, and
+>
+> (ii) ending after the coming into force of section 66(3)(d) of the Victims and Prisoners Act 2024,
+>
+> the Secretary of State must order that the licence is to cease to have effect.
+
+;
+
+(e) in subsection (5)—
+
+(i) for the definition of “preventive sentence” substitute—
+
+> - “preventive sentence” means—
+>
+>   - a sentence of imprisonment or detention in a young offender institution for public protection under section 225 of the Criminal Justice Act 2003 (including one passed as a result of section 219 of the Armed Forces Act 2006), or
+>   - a sentence of detention for public protection under section 226 of the Criminal Justice Act 2003 (including one passed as a result of section 221 of the Armed Forces Act 2006);
+
+;
+
+(ii) in the definition of “the qualifying period”, for the words from “the period” to the end of the definition substitute
+
+> —
+>
+> - if the prisoner was not at any time in the period of two years beginning with the date of the prisoner’s release serving any preventive sentence in respect of an offence for which the prisoner was convicted when aged 18 or over, that two year period;
+> - otherwise, the period of three years beginning with the date of the prisoner’s release.
+
+;
+
+(f) after subsection (5) insert—
+
+> (6) The Secretary of State may by regulations made by statutory instrument amend subsection (5) to change the length of the qualifying period for the time being specified in paragraph (a) or (b) of the definition of “the qualifying period”.
+>
+> (7) A statutory instrument containing regulations under subsection (6) may not be made unless a draft of the instrument has been laid before and approved by a resolution of each House of Parliament.
+
+(4) In section 32 (recall of life prisoners while on licence)—
+
+(a) after subsection (1) insert—
+
+> (1A) Subsection (1) does not apply in relation to a prisoner in respect of whom the Secretary of State is required to make an order under section 31A(2) or (4H) that the licence is to cease to have effect.
+
+;
+
+(b) after subsection (5A) insert—
+
+> (5B) Subsection (5C) applies where the Secretary of State releases, under subsection (5) above, a prisoner to whom section 31A (termination of licences of preventive sentence prisoners) applies.
+>
+> (5C) The Secretary of State may determine that, for the purposes of paragraph (c) of section 31A(4H) (automatic licence termination), the prisoner’s licence is to be treated as having remained in force as if it had not been revoked under this section.
+>
+> (5D) The Secretary of State may only make a determination under subsection (5C) if the Secretary of State considers that it is in the interests of justice to do so.
+>
+> (5E) Where the Secretary of State makes a determination under subsection (5C), the Secretary of State must notify the prisoner.
+
+(5) After section 32 insert—
+
+> **32ZZA Imprisonment or detention for public protection: powers in relation to release of recalled prisoners**
+>
+> (1) This section applies where a prisoner to whom section 31A (termination of licences of preventive sentence prisoners) applies—
+>
+> (a) has been released on licence under this Chapter, and
+>
+> (b) is recalled to prison under section 32.
+>
+> (2) The Secretary of State may, at any time after the prisoner is returned to prison, release the prisoner again on licence under this Chapter.
+>
+> (3) The Secretary of State must not release the prisoner under subsection (2) unless satisfied that it is no longer necessary for the protection of the public that the prisoner should remain in prison.
+>
+> (4) Where the prisoner is released under subsection (2), the Secretary of State may determine that, for the purposes of paragraph (c) of section 31A(4H) (automatic licence termination), the prisoner’s licence is to be treated as having remained in force as if it had not been revoked under section 32.
+>
+> (5) The Secretary of State may only make a determination under subsection (4) if the Secretary of State considers that it is in the interests of justice to do so.
+>
+> (6) Where the Secretary of State makes a determination under subsection (4), the Secretary of State must notify the prisoner.
+>
+> (7) In this section, “preventive sentence” means—
+>
+> (a) a sentence of imprisonment or detention in a young offender institution for public protection under section 225 of the Criminal Justice Act 2003 (including one passed as a result of section 219 of the Armed Forces Act 2006), or
+>
+> (b) a sentence of detention for public protection under section 226 of the Criminal Justice Act 2003 (including one passed as a result of section 221 of the Armed Forces Act 2006).
+
+#### 67 Imprisonment or detention for public protection: annual report
+
+(1) The Secretary of State must, as soon as is reasonably practicable after the end of each reporting period—
+
+(a) prepare and publish a report about the steps taken by the Secretary of State in the reporting period to support the rehabilitation of preventive sentence prisoners and their progress towards release from prison or licence termination, and
+
+(b) lay the report before Parliament.
+
+(2) For these purposes, in relation to a preventive sentence prisoner—
+
+(a) “release from prison” means the prisoner’s release on licence under section 28(5) or 32(5) of the 1997 Act or unconditional release under either of those sections as modified by section 31A(4G) of that Act;
+
+(b) “licence termination” means an order, under section 31A(2) or (4H) of the 1997 Act, that the licence on which the prisoner was released from prison is to cease to have effect.
+
+(3) The report must in particular contain details of the steps taken in relation to the following—
+
+(a) preventive sentence prisoners who are female;
+
+(b) preventive sentence prisoners who at any time in the reporting period were serving a sentence mentioned in paragraph (b) of the definition of preventive sentence (detention for public protection for serious offences committed by those under 18).
+
+(4) The report must also contain details of the persons the Secretary of State has consulted in the reporting period in relation to the matters mentioned in subsection (1)(a).
+
+(5) In this section—
+
+- “the 1997 Act” means the Crime (Sentences) Act 1997;
+
+- “life sentence” has the meaning given by section 34(2) of the 1997 Act;
+
+- “preventive sentence” means—
+
+  - a sentence of imprisonment or detention in a young offender institution for public protection under section 225 of the Criminal Justice Act 2003 (including one passed as a result of section 219 of the Armed Forces Act 2006), or
+  - a sentence of detention for public protection under section 226 of the Criminal Justice Act 2003 (including one passed as a result of section 221 of the Armed Forces Act 2006);
+
+- “preventive sentence prisoner”, in relation to a reporting period, means a prisoner who—
+
+  - was serving one or more preventive sentences at any time in the period, and
+  - was not serving any other life sentence at any time in the period;
+
+- “reporting period” means—
+
+  - the period beginning with the day on which this section comes into force and ending with 31 March following that day, and
+  - each successive period of 12 months.
+
+### Extension of home detention curfew
+
+#### 68 Extension of home detention curfew
+
+(1) Section 246 of the Criminal Justice Act 2003 (release of prisoners on licence before required to do so) is amended as follows.
+
+(2) In subsection (1), after “fixed-term prisoner” insert “, other than one to whom section 244ZA, 244A, 246A, 247, 247A or 247B or paragraph 4 or 24 of Schedule 20B applies,”.
+
+(3) In subsection (4)—
+
+(a) omit paragraphs (a) to (ab);
+
+(b) after paragraph (ab) insert—
+
+> (ac) the prisoner is one to whom section 244ZA would apply if—
+>
+> (i) section 244ZA(4)(c), (5)(c) and (6)(c) were omitted,
+>
+> (ii) the reference in section 244ZA(5)(a) to section 262 of the Sentencing Code were read as including a reference to section 96 of the PCC(S)A 2000, and
+>
+> (iii) the reference in section 244ZA(6)(a) to section 250 of the Sentencing Code were read as including a reference to section 91 of the PCC(S)A 2000,
+
+;
+
+(c) in paragraph (g) for “at any time” substitute “during the currency of the sentence”;
+
+(d) for paragraph (ga) substitute—
+
+> (ga) the following apply—
+>
+> (i) the prisoner has been released on licence under this section in relation to a previous sentence and has been recalled to prison under section 255(1)(a) (and the revocation of the licence has not been cancelled under section 255(3)), and
+>
+> (ii) the requisite custodial period in relation to the previous sentence ended less than 2 years before the day on which the current sentence began,
+>
+> (gb) the following apply—
+>
+> (i) the prisoner has been released on licence under section 34A of the Criminal Justice Act 1991 in relation to a previous sentence and has been recalled to prison under section 38A(1)(a) of that Act (and the revocation of the licence has not been cancelled under section 38A(3) of that Act), and
+>
+> (ii) the requisite custodial period in relation to the previous sentence ended less than 2 years before the day on which the current sentence began,
+
+;
+
+(e) omit paragraph (ha) (but not the “or” at the end of it).
+
+(4) Omit subsection (4ZA).
+
+### Application of Convention rights (prospective)
+
+#### 69 Section 3 of the Human Rights Act 1998: life prisoners (prospective)
+
+In Chapter 2 of Part 2 of the Crime (Sentences) Act 1997 (life sentences), after section 34 insert—
+
+> **34A Disapplication of section 3 of the Human Rights Act 1998 to Chapter 2**
+>
+> (1) Section 3 of the Human Rights Act 1998 (legislation to be read and given effect in way which is compatible with Convention rights) does not apply to this Chapter or any subordinate legislation made under it.
+>
+> (2) In this section “subordinate legislation” has the same meaning as in the Human Rights Act 1998 (see section 21 of that Act).
+
+#### 70 Section 3 of the Human Rights Act 1998: fixed-term prisoners (prospective)
+
+In Chapter 6 of Part 12 of the Criminal Justice Act 2003 (release, licences, supervision and recall of fixed-term prisoners), after section 268 insert—
+
+> **268A Disapplication of section 3 of the Human Rights Act 1998 to Chapter 6**
+>
+> (1) Section 3 of the Human Rights Act 1998 (legislation to be read and given effect in way which is compatible with Convention rights) does not apply to this Chapter or any subordinate legislation made under it.
+>
+> (2) In this section “subordinate legislation” has the same meaning as in the Human Rights Act 1998 (see section 21 of that Act).
+
+#### 71 Section 3 of the Human Rights Act 1998: power to change release test (prospective)
+
+In section 128 of the Legal Aid, Sentencing and Punishment of Offenders Act 2012 (power to change test for release on licence of certain prisoners), after subsection (6) insert—
+
+> (7) Section 3 of the Human Rights Act 1998 (legislation to be read and given effect in way which is compatible with Convention rights) does not apply to this section or any order made under it.
+
+#### 72 Application of certain Convention rights in prisoner release cases (prospective)
+
+(1) Subsection (3) applies where—
+
+(a) in any proceedings, a court is determining a question which has arisen as to whether a relevant Convention right of a person has been breached, and
+
+(b) the alleged breach arose in connection with a decision, under any prisoner release legislation, about whether the person should be released from custody.
+
+(2) The “prisoner release legislation” is—
+
+(a) Chapter 2 of Part 2 of the Crime (Sentences) Act 1997 (life sentences), including subordinate legislation made under that Chapter;
+
+(b) Chapter 6 of Part 12 of the Criminal Justice Act 2003 (release, licences, supervision and recall of fixed-term prisoners), including subordinate legislation made under that Chapter.
+
+(3) The court must give the greatest possible weight to the importance of reducing the risk to the public from persons who have committed offences in respect of which custodial sentences have been imposed.
+
+(4) In this section—
+
+- “court” includes a tribunal;
+
+- “custodial sentence” means a sentence specified in regulations made by the Secretary of State;
+
+- “relevant Convention right” means any Convention right other than the Convention rights set out in the following Articles of the Convention—
+
+  - Article 2 (right to life);
+  - Article 3 (prohibition of torture);
+  - Article 4(1) (prohibition of slavery);
+  - Article 7 (no punishment without law).
+
+(5) In this section, the following terms have the same meanings as in the Human Rights Act 1998—
+
+- “the Convention”;
+- “Convention right”;
+- “subordinate legislation”.
+
+### The Parole Board
+
+#### 73 Parole Board rules
+
+(1) Section 239 of the Criminal Justice Act 2003 (the Parole Board) is amended as follows.
+
+[^F9]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) After subsection (5C) insert—
+
+> (5D) Rules under subsection (5) may also make provision for functions of the Board (including judicial functions) to be exercised by employees of the Board, other than any function so far as its exercise involves—
+>
+> (a) making a public protection decision in relation to a prisoner within the meaning of section 237A(2) of this Act or section 28ZA(2) of the 1997 Act;
+>
+> (b) giving a direction for the release of a prisoner on licence under this Chapter or under Chapter 2 of Part 2 of the 1997 Act;
+>
+> (c) making a decision or giving a direction under subsection (4) or (4F) of section 31A of the 1997 Act (imprisonment or detention for public protection: termination of licences);
+>
+> (d) reconsidering a decision or setting aside a decision or direction under provision made by virtue of subsection (5A).
+
+#### 74 Parole Board membership
+
+(1) Paragraph 2 of Schedule 19 to the Criminal Justice Act 2003 (membership of the Parole Board) is amended as follows.
+
+(2) In sub-paragraph (1), for “four” substitute “five”.
+
+(3) In sub-paragraph (2)—
+
+(a) omit the “and” at the end of paragraph (c);
+
+(b) after paragraph (d) insert
+
+> ; and
+>
+> (e) a person appearing to the Secretary of State to have experience of law enforcement in a part of the United Kingdom.
+
+.
+
+(4) After sub-paragraph (2) insert—
+
+> (2A) “Law enforcement” means the prevention, detection or investigation of offences.
+
+### Whole life prisoners prohibited from forming a marriage or civil partnership
+
+#### 75 Whole life prisoners prohibited from forming a marriage
+
+(1) After section 2 of the Marriage Act 1949 insert—
+
+> **2A Marriages of whole life prisoners**
+>
+> (1) A person (“A”) may not marry another person if A—
+>
+> (a) is serving a life sentence in a prison or other place of detention, and
+>
+> (b) is subject to a whole life order.
+>
+> (2) But subsection (1) does not apply if A has permission from the Secretary of State to marry the other person.
+>
+> (3) The Secretary of State may not give permission under subsection (2) unless satisfied that exceptional circumstances exist which justify the permission being given.
+>
+> (4) A marriage solemnized in contravention of subsection (1) is void.
+>
+> (5) In this section—
+>
+> - “life sentence” has the meaning given by section 34(2) of the Crime (Sentences) Act 1997;
+> - “whole life order” means an order that section 28(5) to (8) of that Act (early release of person serving life sentence) is not to apply to a person.
+>
+> (6) A person is to be treated for the purposes of this section as being subject to a whole life order if—
+>
+> (a) the person is serving a life sentence passed before 18 December 2003,
+>
+> (b) the sentence was passed in circumstances where the sentence was fixed by law,
+>
+> (c) before 18 December 2003 the person was notified in writing by the Secretary of State (otherwise than in a notice expressed to be provisional) that the Secretary of State does not intend that the person should ever be released on licence, and
+>
+> (d) an order has not been made in relation to the sentence under paragraph 3(1)(a) of Schedule 22 to the Criminal Justice Act 2003 (mandatory life sentences: transitional cases).
+
+(2) In section 27ZA of the Marriage Act 1949 (circumstances in which a notice of marriage is not to be recorded in the marriage register), in paragraph (a), at the appropriate place insert—
+
+> - section 27A(3A);
+
+.
+
+(3) In section 27A of the Marriage Act 1949 (additional information required in certain cases)—
+
+(a) in subsection (3) (case where marriage intended to be solemnized at detained person’s residence)—
+
+(i) omit the “and” at the end of paragraph (a);
+
+(ii) at the end of paragraph (b) insert
+
+> ; and
+>
+> (c) stating whether the person is serving a life sentence and, if so, whether the person is subject to a whole life order.
+
+;
+
+(b) after subsection (3) insert—
+
+> (3A) Where the relevant person is a detained person who is serving a life sentence and is subject to a whole life order, each notice of marriage required by section 27 of this Act must also be accompanied by a statement made by the Secretary of State not more than twenty-one days before the date on which notice of the marriage is given under section 27 stating that the relevant person has the permission required by section 2A(2).
+
+;
+
+(c) in subsection (6), for “or (as the case may be) (3)” substitute “, (3) or (3A)”;
+
+(d) in subsection (7), before the definition of “medical statement” insert—
+
+> - “life sentence” and “whole life order” have the meanings given by section 2A(5) of this Act and section 2A(6) (persons treated as being subject to a whole life order) applies for the purposes of this section; and
+
+.
+
+(4) In section 11(a) of the Matrimonial Causes Act 1973 (grounds on which a marriage is void), omit the “or” at the end of sub-paragraph (ii) and insert—
+
+> (iia) the marriage is solemnized in contravention of section 2A of the Marriage Act 1949; or
+
+.
+
+#### 76 Whole life prisoners prohibited from forming a civil partnership
+
+(1) Section 3 of the Civil Partnership Act 2004 (eligibility) is amended in accordance with subsections (2) to (4).
+
+(2) In subsection (1)—
+
+(a) omit the “or” at the end of paragraph (c), and
+
+(b) after paragraph (d) insert
+
+> , or
+>
+> (e) either of them is serving a life sentence in a prison or other place of detention and is subject to a whole life order.
+
+(3) After subsection (1) insert—
+
+> (1A) But two people are not ineligible to register as civil partners of each other by reason of either of them falling within paragraph (e) of subsection (1) if each of them falling within that paragraph has permission from the Secretary of State to register as a civil partner of the other.
+>
+> (1B) The Secretary of State may not give permission under subsection (1A) unless satisfied that exceptional circumstances exist which justify the permission being given.
+
+(4) After subsection (2) insert—
+
+> (3) In this section—
+>
+> - “life sentence” has the meaning given by section 34(2) of the Crime (Sentences) Act 1997;
+> - “whole life order” means an order that section 28(5) to (8) of that Act (early release of person serving life sentence) is not to apply to a person.
+>
+> (4) A person is to be treated for the purposes of this section as being subject to a whole life order if—
+>
+> (a) the person is serving a life sentence passed before 18 December 2003,
+>
+> (b) the sentence was passed in circumstances where the sentence was fixed by law,
+>
+> (c) before 18 December 2003 the person was notified in writing by the Secretary of State (otherwise than in a notice expressed to be provisional) that the Secretary of State does not intend that the person should ever be released on licence, and
+>
+> (d) an order has not been made in relation to the sentence under paragraph 3(1)(a) of Schedule 22 to the Criminal Justice Act 2003 (mandatory life sentences: transitional cases).
+
+(5) In section 9F of the Civil Partnership Act 2004 (recording of information in the register: compliance with requirements), at the appropriate place insert—
+
+> - section 19(5A);
+
+.
+
+(6) Section 19 of the Civil Partnership Act 2004 (detained persons) is amended in accordance with subsections (7) to (9).
+
+(7) In subsection (4) (supporting statement)—
+
+(a) omit the “and” at the end of paragraph (a);
+
+(b) after paragraph (b) insert
+
+> , and
+>
+> (c) states whether the person is serving a life sentence and, if so, whether the person is subject to a whole life order.
+
+(8) After subsection (5) insert—
+
+> (5A) Where the detained person is serving a life sentence and is subject to a whole life order, each notice of proposed civil partnership must also be accompanied by a statement made by the Secretary of State not more than 21 days before the day on which the notice is recorded stating that the detained person has the permission required by section 3(1A).
+>
+> (5B) The fact that the registration authority to whom a notice of proposed civil partnership is given has received a statement under subsection (5A) must be recorded in the register.
+
+(9) After subsection (7) insert—
+
+> (7A) “Life sentence” and “whole life order” have the meanings given by section 3(3) of this Act and section 3(4) (persons treated as being subject to a whole life order) applies for the purposes of this section.
+
+## Part 5 — General
+
+### 77 Financial provision
+
+There is to be paid out of money provided by Parliament—
+
+(a) any expenditure incurred under or by virtue of this Act by the Secretary of State, and
+
+(b) any increase attributable to this Act in the sums payable under any other Act out of money so provided.
+
+### 78 Power to make consequential provision
+
+(1) The Secretary of State may by regulations make provision that is consequential on, or on regulations under, Part 1, 2 or 4.
+
+(2) Each of the following may by regulations make provision that is consequential on, or on regulations under, Part 3—
+
+(a) the Secretary of State or the Minister for the Cabinet Office,
+
+(b) the Welsh Ministers,
+
+(c) the Scottish Ministers, and
+
+(d) a Northern Ireland department.
+
+(3) Regulations under subsection (2)—
+
+(a) made by the Welsh Ministers, may contain only provision which would be within the legislative competence of Senedd Cymru if it were contained in an Act of the Senedd;
+
+(b) made by the Scottish Ministers, may contain only provision which would be within the legislative competence of the Scottish Parliament if it were contained in an Act of that Parliament;
+
+(c) made by a Northern Ireland department, may contain only provision which—
+
+(i) would be within the legislative competence of the Northern Ireland Assembly if it were contained in an Act of that Assembly, and
+
+(ii) would not, if it were contained in a Bill in the Northern Ireland Assembly, result in the Bill requiring the consent of the Secretary of State under section 8 of the Northern Ireland Act 1998.
+
+(4) Regulations under this section may amend, repeal or revoke any provision of or made under primary legislation (whenever passed or made).
+
+(5) In this section, “primary legislation” means—
+
+(a) an Act;
+
+(b) a Measure or Act of Senedd Cymru;
+
+(c) an Act of the Scottish Parliament;
+
+(d) Northern Ireland legislation.
+
+### 79 Regulations
+
+(1) Regulations under this Act—
+
+(a) may make different provision for different purposes or areas;
+
+(b) may include supplementary, incidental, saving or transitional provisions.
+
+(2) Regulations under this Act made by the Secretary of State, the Minister for the Cabinet Office, the Treasury or the Welsh Ministers are to be made by statutory instrument.
+
+(3) For regulations made under section 78(2) by the Scottish Ministers, see section 27 of the Interpretation and Legislative Reform (Scotland) Act 2010 (asp 10) (Scottish statutory instruments).
+
+(4) The power of a Northern Ireland department to make regulations under section 78(2) is exercisable by statutory rule for the purposes of the Statutory Rules (Northern Ireland) Order 1979 (S.I. 1979/1573 (N.I. 12)).
+
+(5) A statutory instrument containing (alone or with other provision) regulations made by the Secretary of State under section 17 may not be made unless a draft of the instrument has been laid before and approved by a resolution of each House of Parliament.
+
+(6) A statutory instrument containing (alone or with other provision) the first regulations made by the Secretary of State or the Minister for the Cabinet Office under section 49 must be laid before Parliament after being made.
+
+(7) Regulations contained in a statutory instrument laid before Parliament under subsection (6) cease to have effect at the end of the period of 28 days beginning with the day on which the instrument is made unless, during that period, the instrument is approved by a resolution of each House of Parliament.
+
+(8) In calculating the period of 28 days, no account is to be taken of any whole days that fall within a period during which—
+
+(a) Parliament is dissolved or prorogued, or
+
+(b) either House of Parliament is adjourned for more than four days.
+
+(9) If regulations cease to have effect as a result of subsection (7), that does not—
+
+(a) affect the validity of anything previously done under the regulations, or
+
+(b) prevent the making of new regulations.
+
+(10) Any other statutory instrument containing (alone or with other provision) regulations made by the Secretary of State or the Minister for the Cabinet Office under section 49 may not be made unless a draft of the instrument has been laid before and approved by a resolution of each House of Parliament.
+
+(11) A statutory instrument containing (alone or with other provision) regulations made by the Secretary of State or the Minister for the Cabinet Office under section 56(10) (unless it is a statutory instrument to which subsection (6) applies) may not be made unless a draft of the instrument has been laid before and approved by a resolution of each House of Parliament.
+
+(12) A statutory instrument containing (alone or with other provision) regulations made by the Secretary of State or the Minister for the Cabinet Office under section 78(1) or (2) that amend, repeal or revoke primary legislation (within the meaning of section 78) (unless it is a statutory instrument to which subsection (6) applies) may not be made unless a draft of the instrument has been laid before and approved by a resolution of each House of Parliament.
+
+(13) Any other statutory instrument containing regulations made by the Secretary of State or the Minister for the Cabinet Office under this Act is subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(14) A statutory instrument containing regulations made by the Treasury under paragraph 21 of Schedule 1 is subject to annulment in pursuance of a resolution of the House of Commons.
+
+(15) A statutory instrument containing regulations made by the Welsh Ministers under section 78(2) that amend, repeal or revoke primary legislation (within the meaning of section 78) may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, Senedd Cymru.
+
+(16) Any other statutory instrument containing regulations made by the Welsh Ministers under section 78(2) is subject to annulment in pursuance of a resolution of Senedd Cymru.
+
+(17) Regulations made by the Scottish Ministers under section 78(2) that amend, repeal or revoke primary legislation (within the meaning of section 78) are subject to the affirmative procedure (see section 29 of the Interpretation and Legislative Reform (Scotland) Act 2010 (asp 10)).
+
+(18) Any other regulations made by the Scottish Ministers under section 78(2) are subject to the negative procedure (see section 28 of the Interpretation and Legislative Reform (Scotland) Act 2010 (asp 10)).
+
+(19) Regulations made by a Northern Ireland department under section 78(2) that amend, repeal or revoke primary legislation (within the meaning of section 78) may not be made unless a draft of the regulations has been laid before, and approved by a resolution of, the Northern Ireland Assembly.
+
+(20) Any other regulations made by a Northern Ireland department under section 78(2) are subject to negative resolution within the meaning given by section 41(6) of the Interpretation Act (Northern Ireland) 1954 (c. 33 (N.I.)).
+
+(21) This section does not apply to regulations under section 81.
+
+### 80 Extent
+
+(1) This Act extends to England and Wales only, subject as follows.
+
+(2) Section 45(5) also extends to Scotland.
+
+(3) Section 19(3) and (4) also extends to Northern Ireland.
+
+(4) The following also extend to Scotland and Northern Ireland—
+
+(a) section 27;
+
+(b) section 29;
+
+(c) section 33(3);
+
+(d) section 45(1) to (4);
+
+(e) Part 3;
+
+(f) this Part.
+
+(5) His Majesty may by Order in Council provide for any of the provisions of Part 3 to extend, with or without modifications, to—
+
+(a) any of the Channel Islands;
+
+(b) the Isle of Man;
+
+(c) Gibraltar;
+
+(d) the Falkland Islands.
+
+### 81 Commencement
+
+(1) The following provisions come into force on the day on which this Act is passed—
+
+(a) Part 3;
+
+(b) section 73(1) and (3);
+
+(c) this Part.
+
+(2) Except as mentioned in subsection (1)(b), Parts 1, 2 and 4 come into force on such day as the Secretary of State may by regulations appoint.
+
+(3) The Secretary of State may by regulations make transitional or saving provision in connection with the coming into force of any provision of—
+
+(a) Part 1, 2 or 4, or
+
+(b) this Part.
+
+(4) The Secretary of State or the Minister for the Cabinet Office may by regulations make transitional or saving provision in connection with the coming into force of any provision of Part 3.
+
+(5) Regulations under this section may make different provision for different purposes or areas.
+
+(6) Regulations under this section are to be made by statutory instrument.
+
+### 82 Short title
+
+This Act may be cited as the Victims and Prisoners Act 2024.
+
+## Schedule 1 — Infected Blood Compensation Authority
+
+*Section 48*
+
+### Part 1 — Constitution
+
+#### Membership
+
+**1** (1) The IBCA is to consist of—
+
+(a) a Chair (who is to be a non-executive member),
+
+(b) at least 3, but not more than 6, other non-executive members,
+
+(c) a chief executive, and
+
+(d) at least 2, but not more than 5, other executive members.
+
+(2) The members are to be appointed in accordance with paragraphs 2 to 4.
+
+(3) A person exercising a power of appointment in accordance with those paragraphs must when doing so ensure, so far as practicable, that the number of non-executive members is at all times greater than the number of executive members.
+
+#### Appointment of non-executive members
+
+**2** (1) The Chair is to be appointed by the Secretary of State or the Minister for the Cabinet Office.
+
+(2) The other non-executive members are to be appointed by the Chair except for the first three who are to be appointed by the Secretary of State or the Minister for the Cabinet Office.
+
+(3) A person may not be appointed as a non-executive member if the person is a member of the IBCA’s staff.
+
+#### Appointment of executive members
+
+**3** (1) The chief executive and the other executive members are to be appointed by the Chair.
+
+(2) The executive members are to be members of the IBCA’s staff.
+
+#### Appointments of members: eligibility
+
+**4** (1) The Secretary of State or the Minister for the Cabinet Office may by regulations make provision about criteria which must be met by persons in order to be appointed as members of the IBCA.
+
+(2) The regulations may make provision for a person to cease to be a member of the IBCA if the person no longer meets those criteria.
+
+#### Terms of membership
+
+**5** (1) A member of the IBCA holds and vacates office in accordance with the terms of the member’s appointment (subject to this Schedule).
+
+(2) A member may resign from office by giving notice to the appropriate person.
+
+(3) A member may be removed from office by notice given by the appropriate person on the grounds that the member—
+
+(a) has without reasonable excuse failed to discharge the member’s functions, or
+
+(b) is, in the opinion of the appropriate person, unable or unfit to carry out the member’s functions.
+
+(4) A person ceases to be—
+
+(a) a non-executive member of the IBCA upon becoming a member of its staff;
+
+(b) an executive member of the IBCA upon ceasing to be a member of its staff.
+
+(5) In this paragraph “appropriate person” means—
+
+(a) in the case of the Chair, the Secretary of State or the Minister for the Cabinet Office;
+
+(b) in the case of any other member of the IBCA, the Chair.
+
+#### Non-executive members: payments
+
+**6** (1) The IBCA must pay, or make provision for the payment of, such remuneration, pensions, allowances or gratuities as the Secretary of State or the Minister for the Cabinet Office determines to or in respect of a person who is or has been—
+
+(a) the Chair, or
+
+(b) a non-executive member appointed by the Secretary of State or the Minister for the Cabinet Office under paragraph 2(2).
+
+(2) The IBCA must pay, or make provision for the payment of, such remuneration, pensions, allowances or gratuities as the Chair determines to or in respect of a person who is or has been a non-executive member appointed by the Chair under paragraph 2(2).
+
+(3) Sub-paragraph (4) applies if—
+
+(a) a person ceases to be the Chair or a non-executive member appointed by the Secretary of State or the Minister for the Cabinet Office under paragraph 2(2), and
+
+(b) the Secretary of State or the Minister for the Cabinet Office determines that the person should be compensated because of special circumstances.
+
+(4) Where this sub-paragraph applies, the IBCA must pay the person compensation of such amount as the Secretary of State or the Minister for the Cabinet Office may determine.
+
+(5) Sub-paragraph (6) applies if—
+
+(a) a person ceases to be a non-executive member appointed by the Chair under paragraph 2(2), and
+
+(b) the Chair determines that the person should be compensated because of special circumstances.
+
+(6) Where this sub-paragraph applies, the IBCA must pay the person compensation of such amount as the Chair may determine.
+
+#### Staffing
+
+**7** (1) The IBCA may—
+
+(a) appoint employees, and
+
+(b) make such other arrangements for the staffing of the IBCA as it determines.
+
+(2) The IBCA must pay its staff such remuneration as may be determined in accordance with this paragraph.
+
+(3) The IBCA must pay, or make provision for the payment of, such pensions, allowances, gratuities or compensation as may be determined in accordance with this paragraph to or in respect of any person who is or has been a member of staff of the IBCA.
+
+(4) Members of staff of the IBCA are to be appointed on such other terms as may be determined in accordance with this paragraph.
+
+(5) A matter is determined in accordance with this paragraph if—
+
+(a) in the case of a matter which relates to an executive member, it is determined by the Chair;
+
+(b) in the case of a matter which relates to any other member of staff, it is determined by the IBCA.
+
+(6) Before making a determination as to remuneration, pensions, allowances, gratuities or compensation for the purposes of sub-paragraph (2) or (3), the IBCA must obtain the approval of the Secretary of State or the Minister for the Cabinet Office as to its policy on that matter.
+
+#### Interim chief executive
+
+**8** (1) The Secretary of State or the Minister for the Cabinet Office may appoint a person as an executive member to act as chief executive of the IBCA (“an interim chief executive”) until the appointment of the first chief executive by the Chair under paragraph 3(1).
+
+(2) An interim chief executive may incur expenditure and do other things in the name of and on behalf of the IBCA until the appointment of the first chief executive by the Chair under paragraph 3(1).
+
+(3) In exercising the power in sub-paragraph (2), an interim chief executive must act in accordance with any directions given by the Secretary of State or the Minister for the Cabinet Office.
+
+(4) Paragraphs 3, 5 and 7 do not apply to an interim chief executive.
+
+#### Committees and sub-committees
+
+**9** (1) The IBCA may appoint such committees and sub-committees as it considers appropriate.
+
+(2) A committee or sub-committee may consist of or include persons who are neither members, nor members of staff, of the IBCA.
+
+(3) The IBCA may pay such remuneration and allowances as it may determine to any person who—
+
+(a) is a member of a committee or a sub-committee, but
+
+(b) is not a member of staff of the IBCA,
+
+whether or not that person is a non-executive member of the IBCA.
+
+#### Procedure
+
+**10** (1) The IBCA may determine its own procedure and the procedure of any of its committees or sub-committees.
+
+(2) The validity of any proceedings of the IBCA, or any committee or sub-committee of the IBCA, is not affected by any vacancy among its members or by any defect in the appointment of such a member.
+
+#### Exercise of functions
+
+**11** (1) The IBCA must have regard to the need to exercise its functions effectively, efficiently and economically.
+
+(2) The IBCA may delegate any of its functions to—
+
+(a) a member of the IBCA,
+
+(b) a member of the IBCA’s staff authorised for that purpose, or
+
+(c) any committee or sub-committee.
+
+(3) A function may be delegated to the extent and on the terms that the IBCA determines.
+
+#### Funding
+
+**12** (1) The Secretary of State or the Minister for the Cabinet Office must pay to the IBCA—
+
+(a) such sums as are required to meet payments made by the IBCA under the infected blood compensation scheme, and
+
+(b) such other sums as the Secretary of State or the Minister for the Cabinet Office considers are reasonably sufficient to enable the IBCA to carry out its functions.
+
+(2) Payments under sub-paragraph (1)(b) may be made subject to conditions.
+
+(3) The Secretary of State or the Minister for the Cabinet Office may by regulations make provision about what the IBCA must do with any sums repaid to it by virtue of section 50(5) (which may include provision requiring the sums to be paid to the Secretary of State or the Minister for the Cabinet Office).
+
+#### Annual report
+
+**13** (1) As soon as reasonably practicable after the end of each financial year the IBCA must prepare a report on the exercise of its functions during that financial year.
+
+(2) The IBCA must send the report to the Secretary of State or the Minister for the Cabinet Office.
+
+(3) The Secretary of State or the Minister for the Cabinet Office must lay the report before Parliament.
+
+#### Accounts and audit
+
+**14** (1) The IBCA must—
+
+(a) keep proper accounts and proper records in relation to them, and
+
+(b) prepare a statement of accounts in respect of each financial year in the form specified by the Secretary of State or the Minister for the Cabinet Office.
+
+(2) The IBCA must send a copy of each statement of accounts to the Secretary of State or the Minister for the Cabinet Office, and the Comptroller and Auditor General, as soon as practicable after the end of the financial year to which the statement relates.
+
+(3) The Comptroller and Auditor General must—
+
+(a) examine, certify and report on each statement of accounts, and
+
+(b) send a copy of each report and certified statement to the Secretary of State or the Minister for the Cabinet Office.
+
+(4) The Secretary of State or the Minister for the Cabinet Office must lay before Parliament a copy of each such report and certified statement.
+
+#### Meaning of “financial year”
+
+**15** In this Schedule “financial year” means—
+
+(a) the period beginning with the date on which the IBCA is established and ending with 31 March following that date, and
+
+(b) each successive period of 12 months.
+
+#### Provision of information
+
+**16** The IBCA must provide to the Secretary of State or the Minister for the Cabinet Office such information relating to the IBCA’s functions as they may request.
+
+#### Status
+
+**17** (1) The IBCA is not to be regarded—
+
+(a) as the servant or agent of the Crown, or
+
+(b) as enjoying any status, immunity or privilege of the Crown.
+
+(2) The IBCA’s property is not to be regarded as property of, or property held on behalf of, the Crown.
+
+(3) Service as a member, or a member of staff, of the IBCA is not service in the civil service of the State.
+
+#### Seal and evidence
+
+**18** (1) The application of the IBCA’s seal must be authenticated by a signature of—
+
+(a) a member of the IBCA, or
+
+(b) another person authorised for that purpose by the IBCA.
+
+(2) A document purporting to be duly executed under the IBCA’s seal or signed on its behalf—
+
+(a) is to be received in evidence, and
+
+(b) is to be taken to be executed or signed in that way, unless the contrary is shown.
+
+(3) But this paragraph does not apply in relation to any document which is, or is to be, signed in accordance with the law of Scotland.
+
+#### Supplementary powers
+
+**19** The IBCA may do anything it thinks appropriate for the purposes of, or in connection with, its functions.
+
+### Part 2 — Transfer schemes
+
+#### Power to make transfer schemes
+
+**20** (1) The Secretary of State or the Minister for the Cabinet Office may make one or more schemes (“transfer schemes”) for the purpose of transferring to the IBCA such property, rights and liabilities of a relevant person as the Secretary of State or Minister considers appropriate for the purposes of enabling the IBCA to carry out its functions under or by virtue of this Act.
+
+(2) In this paragraph “relevant person” means—
+
+(a) the Secretary of State;
+
+(b) the Minister for the Cabinet Office;
+
+(c) a Special Health Authority established under section 28 of the National Health Service Act 2006;
+
+(d) the Welsh Ministers;
+
+(e) a National Health Service trust established under section 18 of the National Health Service (Wales) Act 2006;
+
+(f) a Special Health Authority established under section 22 of the National Health Service (Wales) Act 2006;
+
+(g) the Scottish Ministers;
+
+(h) a person who has at any time been appointed by the Scottish Ministers under subsection (4)(d) of section 28 of the Smoking, Health and Social Care (Scotland) Act 2005 (asp 13) to manage a scheme made under that section;
+
+(i) the Department of Health in Northern Ireland;
+
+(j) the Regional Business Services Organisation established by section 14 of the Health and Social Care (Reform) Act (Northern Ireland) 2009 (c. 1 (N.I.)).
+
+(3) A transfer scheme may not be made—
+
+(a) in relation to a relevant person within sub-paragraph (2)(d), (e) or (f), unless the Welsh Ministers consent;
+
+(b) in relation to a relevant person within sub-paragraph (2)(g) or (h), unless the Scottish Ministers consent;
+
+(c) in relation to a relevant person within sub-paragraph (2)(i) or (j), unless the Department of Health in Northern Ireland consents.
+
+(4) The things that may be transferred under a transfer scheme include—
+
+(a) property, rights and liabilities that could not otherwise be transferred;
+
+(b) property acquired, and rights and liabilities arising, after the making of the scheme;
+
+(c) criminal liabilities.
+
+(5) A transfer scheme may make supplementary, incidental, transitional or consequential provision and may, in particular—
+
+(a) create rights, or impose liabilities, in relation to property or rights transferred;
+
+(b) make provision about the continuing effect of things done by a relevant person in respect of anything transferred;
+
+(c) make provision about the continuation of things (including legal proceedings) in the process of being done by, on behalf of, or in relation to, a relevant person in respect of anything transferred;
+
+(d) make provision for references to an interim compensation authority in an instrument or other document in respect of anything transferred to be treated as references to the IBCA;
+
+(e) make provision for the shared ownership or use of property;
+
+(f) make provision which is the same as or similar to the Transfer of Undertakings (Protection of Employment) Regulations 2006 (S.I. 2006/246);
+
+(g) make other supplemental, incidental, transitional or consequential provision.
+
+(6) A transfer scheme may provide for—
+
+(a) modifications by agreement;
+
+(b) modifications to have effect from the date when the original scheme came into effect.
+
+(7) For the purposes of this paragraph—
+
+(a) references to rights and liabilities include rights and liabilities relating to a contract of employment;
+
+(b) references to the transfer of property include the grant of a lease.
+
+(8) For the purposes of sub-paragraph (7)—
+
+(a) an individual who holds employment in the civil service is to be treated as employed by virtue of a contract of employment, and
+
+(b) the terms of the individual’s employment in the civil service of the State are to be regarded as constituting the terms of the contract of employment.
+
+#### Tax treatment of transfer schemes
+
+**21** (1) The Treasury may by regulations make provision varying the way in which a relevant tax has effect in relation to—
+
+(a) anything transferred under a scheme under paragraph 20, or
+
+(b) anything done for the purposes of, or in relation to, a transfer under such a scheme.
+
+(2) The provision which may be made under sub-paragraph (1)(a) includes in particular provision for—
+
+(a) a tax provision not to apply, or to apply with modifications, in relation to anything transferred;
+
+(b) anything transferred to be treated in a specified way for the purposes of a tax provision;
+
+(c) the Secretary of State or the Minister for the Cabinet Office to be required or permitted to determine, or specify the method for determining, anything which needs to be determined for the purposes of any tax provision so far as relating to anything transferred.
+
+(3) The provision which may be made under sub-paragraph (1)(b) includes in particular provision for—
+
+(a) a tax provision not to apply, or to apply with modifications, in relation to anything done for the purposes of or in relation to the transfer;
+
+(b) anything done for the purposes of, or in relation to, the transfer to have or not have a specified consequence or be treated in a specified way;
+
+(c) the Secretary of State or the Minister for the Cabinet Office to be required or permitted to determine, or specify the method for determining, anything which needs to be determined for the purposes of any tax provision so far as relating to anything done for the purposes of, or in relation to, the transfer.
+
+(4) In this paragraph references to the transfer of property include the grant of a lease.
+
+(5) In this paragraph—
+
+- “relevant tax” means income tax, corporation tax, capital gains tax, value added tax, stamp duty or stamp duty reserve tax;
+- “tax provision” means any legislation about a relevant tax.
+
+### Part 3 — Amendments
+
+#### Public Records Act 1958 (c. 51)
+
+**22** In Part 2 of the Table in paragraph 3 of Schedule 1 to the Public Records Act 1958 (establishments and organisations whose records are public records), at the appropriate place insert—
+
+> - The Infected Blood Compensation Authority.
+
+#### Public Bodies (Admission to Meetings) Act 1960 (c. 67)
+
+**23** In the Schedule to the Public Bodies (Admission to Meetings) Act 1960—
+
+(a) in paragraph 1 (bodies in England and Wales to which the Act applies), at the end insert—
+
+> (r) the Infected Blood Compensation Authority.
+
+;
+
+(b) in paragraph 2 (bodies in Scotland to which the Act applies), at the end insert—
+
+> (g) the Infected Blood Compensation Authority.
+
+#### Parliamentary Commissioner Act 1967 (c. 13)
+
+**24** In Schedule 2 to the Parliamentary Commissioner Act 1967 (departments etc subject to investigation), at the appropriate place insert—
+
+> - The Infected Blood Compensation Authority.
+
+#### House of Commons Disqualification Act 1975 (c. 24)
+
+**25** In Part 2 of Schedule 1 to the House of Commons Disqualification Act 1975 (bodies all members of which are disqualified), at the appropriate place insert—
+
+> - The Infected Blood Compensation Authority.
+
+#### Northern Ireland Assembly Disqualification Act 1975 (c. 25)
+
+**26** In Part 2 of Schedule 1 to the Northern Ireland Assembly Disqualification Act 1975 (bodies all members of which are disqualified), at the appropriate place insert—
+
+> - The Infected Blood Compensation Authority.
+
+#### Freedom of Information Act 2000 (c. 36)
+
+**27** In Part 6 of Schedule 1 to the Freedom of Information Act 2000 (other public bodies), at the appropriate place insert—
+
+> - The Infected Blood Compensation Authority.
+
+#### Equality Act 2010 (c. 15)
+
+**28** In Part 1 of Schedule 19 to the Equality Act 2010 (authorities subject to the public sector equality duty), under the heading “Health, social care and social security”, at the appropriate place insert—
+
+> - The Infected Blood Compensation Authority.
+
+## Schedule 2 — Offences relevant to public protection decisions
+
+*Section 59(9)*
+
+Before Schedule 19 to the Criminal Justice Act 2003 insert—
+
+> **Schedule 18B — Offences relevant to public protection decisions**
+>
+> *Section 237A(4)*
+>
+> **Part 1 — Common law offences**
+>
+> **Offences under the law of England and Wales, Scotland and Northern Ireland**
+>
+> **1** Kidnapping.
+>
+> **2** Murder.
+>
+> **Offences under the law of England and Wales and Northern Ireland**
+>
+> **3** Manslaughter.
+>
+> **Offences under the law of Scotland**
+>
+> **4** Abduction.
+>
+> **5** Assault and poisoning.
+>
+> **6** Assault by explosive device.
+>
+> **7** Assault to severe injury.
+>
+> **8** Assault with intent to rob.
+>
+> **9** Culpable homicide.
+>
+> **10** Malicious mischief.
+>
+> **11** Poisoning.
+>
+> **12** Robbery.
+>
+> **13** Wilful fire-raising.
+>
+> **Offences under the law of Northern Ireland**
+>
+> **14** Affray.
+>
+> **15** Riot.
+>
+> **Part 2 — Statutory offences**
+>
+> **Offences against the Person Act 1861**
+>
+> **16** An offence under any of the following provisions of the Offences against the Person Act 1861—
+>
+> (a) section 4 (soliciting murder);
+>
+> (b) section 16 (threats to kill);
+>
+> (c) section 18 (wounding with intent to cause grievous bodily harm);
+>
+> (d) section 20 (malicious wounding);
+>
+> (e) section 21 (attempting to choke, suffocate or strangle in order to commit or assist in committing an indictable offence);
+>
+> (f) section 22 (using chloroform etc to commit or assist in the committing of any indictable offence);
+>
+> (g) section 23 (maliciously administering poison etc so as to endanger life or inflict grievous bodily harm);
+>
+> (h) section 27 (abandoning children);
+>
+> (i) section 28 (causing bodily injury by explosives);
+>
+> (j) section 29 (using explosives etc with intent to do grievous bodily harm);
+>
+> (k) section 30 (placing explosives with intent to do bodily injury);
+>
+> (l) section 31 (setting spring guns etc with intent to do grievous bodily harm);
+>
+> (m) section 32 (endangering the safety of railway passengers);
+>
+> (n) section 35 (injuring persons by furious driving);
+>
+> (o) section 37 (assaulting officer preserving wreck);
+>
+> (p) section 38 (assault with intent to resist arrest);
+>
+> (q) section 47 (assault occasioning actual bodily harm).
+>
+> **Explosive Substances Act 1883**
+>
+> **17** An offence under any of the following provisions of the Explosive Substances Act 1883—
+>
+> (a) section 2 (causing explosion likely to endanger life or property);
+>
+> (b) section 3 (attempt to cause explosion, or making or keeping explosive with intent to endanger life or property);
+>
+> (c) section 4 (making or possession of explosive under suspicious circumstances);
+>
+> (d) section 5 (punishment of accessories to offences of causing or attempting to cause explosions or making or possessing explosives).
+>
+> **Infant Life (Preservation) Act 1929**
+>
+> **18** An offence under section 1 of the Infant Life (Preservation) Act 1929 (child destruction).
+>
+> **Children and Young Persons Act 1933**
+>
+> **19** An offence under section 1 of the Children and Young Persons Act 1933 (cruelty to children).
+>
+> **Infanticide Act 1938**
+>
+> **20** An offence under section 1 of the Infanticide Act 1938 (infanticide).
+>
+> **Sexual Offences Act 1956**
+>
+> **21** An offence under section 33A of the Sexual Offences Act 1956 (keeping a brothel used for prostitution).
+>
+> **Firearms Act 1968**
+>
+> **22** An offence under any of the following provisions of the Firearms Act 1968—
+>
+> (a) section 16 (possession of firearm with intent to injure);
+>
+> (b) section 16A (possession of firearm with intent to cause fear of violence);
+>
+> (c) section 17(1) (use of firearm to resist arrest);
+>
+> (d) section 17(2) (possession of firearm at time of committing or being arrested for offence specified in Schedule 1 to that Act);
+>
+> (e) section 18 (carrying a firearm with criminal intent).
+>
+> **Theft Act 1968**
+>
+> **23** An offence under any of the following provisions of the Theft Act 1968—
+>
+> (a) section 8 (robbery or assault with intent to rob);
+>
+> (b) section 9, where the offence is burglary with intent to—
+>
+> (i) inflict grievous bodily harm on a person, or
+>
+> (ii) do unlawful damage to a building or anything in it;
+>
+> (c) section 10 (aggravated burglary);
+>
+> (d) section 12A (aggravated vehicle-taking).
+>
+> **Criminal Damage Act 1971**
+>
+> **24** (1) An offence of arson under section 1 of the Criminal Damage Act 1971.
+>
+> (2) An offence under section 1(2) of that Act (destroying or damaging property), other than an offence of arson.
+>
+> **Biological Weapons Act 1974**
+>
+> **25** An offence under section 1 of the Biological Weapons Act 1974 (developing certain biological agents and toxins or biological weapons).
+>
+> **Protection of Children Act 1978**
+>
+> **26** An offence under section 1 of the Protection of Children Act 1978 (indecent photographs of children).
+>
+> **Customs and Excise Management Act 1979**
+>
+> **27** An offence under section 170 of the Customs and Excise Management Act 1979 (penalty for fraudulent evasion of duty etc) in relation to goods prohibited to be imported under section 42 of the Customs Consolidation Act 1876 (indecent or obscene articles).
+>
+> **Taking of Hostages Act 1982**
+>
+> **28** An offence under section 1 of the Taking of Hostages Act 1982 (hostage-taking).
+>
+> **Aviation Security Act 1982**
+>
+> **29** An offence under any of the following provisions of the Aviation Security Act 1982—
+>
+> (a) section 1 (hijacking);
+>
+> (b) section 2 (destroying, damaging or endangering safety of aircraft);
+>
+> (c) section 3 (other acts endangering or likely to endanger safety of aircraft);
+>
+> (d) section 4 (offences in relation to certain dangerous articles);
+>
+> (e) section 6(2) (inducing or assisting the commission of offences relating to safety of aircraft).
+>
+> **Nuclear Material (Offences) Act 1983**
+>
+> **30** An offence under section 2 of the Nuclear Material (Offences) Act 1983 (preparatory acts and threats).
+>
+> **Mental Health Act 1983**
+>
+> **31** An offence under section 127 of the Mental Health Act 1983 (ill-treatment of patients).
+>
+> **Public Order Act 1986**
+>
+> **32** An offence under any of the following provisions of the Public Order Act 1986—
+>
+> (a) section 1 (riot);
+>
+> (b) section 2 (violent disorder);
+>
+> (c) section 3 (affray).
+>
+> **Criminal Justice Act 1988**
+>
+> **33** An offence under either of the following provisions of the Criminal Justice Act 1988—
+>
+> (a) section 134 (torture);
+>
+> (b) section 160 (possession of indecent photograph of a child).
+>
+> **Road Traffic Act 1988**
+>
+> **34** An offence under any of the following provisions of the Road Traffic Act 1988—
+>
+> (a) section 1 (causing death by dangerous driving);
+>
+> (b) section 3ZC (causing death by driving: disqualified drivers);
+>
+> (c) section 3A (causing death by careless driving when under influence of drink or drugs).
+>
+> **Aviation and Maritime Security Act 1990**
+>
+> **35** An offence under any of the following provisions of the Aviation and Maritime Security Act 1990—
+>
+> (a) section 1 (endangering safety at aerodromes);
+>
+> (b) section 9 (hijacking of ships);
+>
+> (c) section 10 (seizing or exercising control of fixed platforms);
+>
+> (d) section 11 (destroying ships or fixed platforms or endangering their safety);
+>
+> (e) section 12 (other acts endangering or likely to endanger safe navigation);
+>
+> (f) section 13 (offences involving threats);
+>
+> (g) section 14(4) (inducing or assisting the commission of offences relating to hijacking of ships, or destroying ships or fixed platforms or endangering their safety).
+>
+> **Channel Tunnel (Security) Order 1994 (S.I. 1994/570)**
+>
+> **36** An offence under Part 2 of the Channel Tunnel (Security) Order 1994 (S.I. 1994/570) (offences relating to Channel Tunnel trains and the tunnel system).
+>
+> **Chemical Weapons Act 1996**
+>
+> **37** An offence under either of the following provisions of the Chemical Weapons Act 1996—
+>
+> (a) section 2 (use etc of chemical weapons);
+>
+> (b) section 11 (premises or equipment used for producing chemical weapons).
+>
+> **Protection from Harassment Act 1997**
+>
+> **38** An offence under either of the following provisions of the Protection from Harassment Act 1997—
+>
+> (a) section 4 (putting people in fear of violence);
+>
+> (b) section 4A (stalking involving fear of violence or serious alarm or distress).
+>
+> **Crime and Disorder Act 1998**
+>
+> **39** (1) An offence under section 29 of the Crime and Disorder Act 1998 (racially or religiously aggravated assaults).
+>
+> (2) An offence falling within section 31(1)(a) or (b) of that Act (racially or religiously aggravated offences under section 4 or 4A of the Public Order Act 1986).
+>
+> **Terrorism Act 2000**
+>
+> **40** An offence under any of the following provisions of the Terrorism Act 2000—
+>
+> (a) section 11 (membership of a proscribed organisation);
+>
+> (b) section 12 (inviting support for a proscribed organisation etc);
+>
+> (c) section 15 (fund-raising);
+>
+> (d) section 16 (use or possession of money or property for terrorist purposes);
+>
+> (e) section 17 (involvement in terrorist funding arrangements);
+>
+> (f) section 17A (insurance against payments made in response to terrorist demands);
+>
+> (g) section 18 (laundering of terrorist property);
+>
+> (h) section 19 (failure to disclose professional belief or suspicion about terrorist offences);
+>
+> (i) section 21A (failure in regulated sectors to disclose knowledge or suspicion about terrorist offences);
+>
+> (j) section 38B (failure to disclose information about acts of terrorism);
+>
+> (k) section 39 (disclosure of information prejudicial to a terrorist investigation etc);
+>
+> (l) section 54 (weapons training);
+>
+> (m) section 56 (directing terrorist organisation);
+>
+> (n) section 57 (possession of article for terrorist purposes);
+>
+> (o) section 58 (collection of information likely to be of use to a terrorist);
+>
+> (p) section 58A (publishing information about members of the armed forces);
+>
+> (q) section 58B (entering or remaining in a designated area);
+>
+> (r) sections 59 to 61 (inciting terrorism overseas).
+>
+> **International Criminal Court Act 2001**
+>
+> **41** An offence under section 51 or 52 of the International Criminal Court Act 2001 (genocide, crimes against humanity, war crimes and related offences), other than one involving murder.
+>
+> **Anti-terrorism, Crime and Security Act 2001**
+>
+> **42** An offence under any of the following provisions of the Anti-terrorism, Crime and Security Act 2001—
+>
+> (a) section 47 (use etc of nuclear weapons);
+>
+> (b) section 50 (assisting or inducing certain weapons-related acts overseas);
+>
+> (c) section 113 (use of noxious substance or thing to cause harm or intimidate).
+>
+> **Female Genital Mutilation Act 2003**
+>
+> **43** An offence under any of the following provisions of the Female Genital Mutilation Act 2003—
+>
+> (a) section 1 (female genital mutilation);
+>
+> (b) section 2 (assisting a girl to mutilate her own genitalia);
+>
+> (c) section 3 (assisting a non-UK person to mutilate overseas a girl's genitalia).
+>
+> **Sexual Offences Act 2003**
+>
+> **44** An offence under Part 1 of the Sexual Offences Act 2003 (sexual offences), other than an offence under any of the following provisions of that Act—
+>
+> (a) section 51A (soliciting);
+>
+> (b) section 53A (paying for sexual services of a prostitute subjected to force etc);
+>
+> (c) section 71 (sexual activity in a public lavatory).
+>
+> **Domestic Violence, Crime and Victims Act 2004**
+>
+> **45** An offence under section 5 of the Domestic Violence, Crime and Victims Act 2004 (causing or allowing a child or vulnerable adult to die or suffer serious physical harm).
+>
+> **Terrorism Act 2006**
+>
+> **46** An offence under any of the following provisions of the Terrorism Act 2006—
+>
+> (a) section 1 (encouragement of terrorism);
+>
+> (b) section 2 (dissemination of terrorist publications);
+>
+> (c) section 5 (preparation of terrorist acts);
+>
+> (d) section 6 (training for terrorism);
+>
+> (e) section 8 (attendance at a place used for terrorist training);
+>
+> (f) section 9 (making or possession of radioactive device or material);
+>
+> (g) section 10 (misuse of radioactive device or material for terrorist purposes etc);
+>
+> (h) section 11 (terrorist threats relating to radioactive devices etc).
+>
+> **Counter-Terrorism Act 2008**
+>
+> **47** An offence under section 54 of the Counter-Terrorism Act 2008 (breach of police notification requirements etc).
+>
+> **Terrorism Prevention and Investigation Measures Act 2011**
+>
+> **48** An offence under section 23 of the Terrorism Prevention and Investigation Measures Act 2011 (breach of notices imposing terrorism prevention and investigation measures).
+>
+> **Counter-Terrorism and Security Act 2015**
+>
+> **49** An offence under section 10 of the Counter-Terrorism and Security Act 2015 (breach of temporary exclusion order).
+>
+> **Serious Crime Act 2015**
+>
+> **50** An offence under section 75A of the Serious Crime Act 2015 (strangulation or suffocation).
+>
+> **Modern Slavery Act 2015**
+>
+> **51** An offence under either of the following provisions of the Modern Slavery Act 2015—
+>
+> (a) section 1 (slavery, servitude and forced or compulsory labour);
+>
+> (b) section 2 (human trafficking).
+>
+> **Space Industry Act 2018**
+>
+> **52** An offence under any of the following paragraphs of Schedule 4 to the Space Industry Act 2018—
+>
+> (a) paragraph 1 (hijacking of spacecraft);
+>
+> (b) paragraph 2 (destroying, damaging or endangering the safety of spacecraft);
+>
+> (c) paragraph 3 (other acts endangering or likely to endanger safety of spacecraft);
+>
+> (d) paragraph 4 (endangering safety at spaceports).
+
+---
+
+[^F1]: S. 2(3A)(3B) inserted (29.6.2026) by Victims and Courts Act 2026 (c. 19), ss. 14(2), 18(2)
+[^F2]: Words in s. 2(13) inserted (29.6.2026) by Victims and Courts Act 2026 (c. 19), ss. 14(3), 18(2)
+[^F3]: S. 17(2)(ea)(eb) inserted (12.12.2025) by The Victims and Prisoners Act 2024 (Permitted Disclosures) Regulations 2025 (S.I. 2025/1303), regs. 1(2), 2(2)(a)
+[^F4]: Words in s. 17(2)(f) substituted (12.12.2025) by The Victims and Prisoners Act 2024 (Permitted Disclosures) Regulations 2025 (S.I. 2025/1303), regs. 1(2), 2(2)(b)
+[^F5]: Words in s. 17(6) inserted (12.12.2025) by The Victims and Prisoners Act 2024 (Permitted Disclosures) Regulations 2025 (S.I. 2025/1303), regs. 1(2), 2(3)(a)
+[^F6]: Words in s. 17(6) inserted (12.12.2025) by The Victims and Prisoners Act 2024 (Permitted Disclosures) Regulations 2025 (S.I. 2025/1303), regs. 1(2), 2(3)(b)
+[^F7]: Words in s. 17(6) inserted (12.12.2025) by The Victims and Prisoners Act 2024 (Permitted Disclosures) Regulations 2025 (S.I. 2025/1303), regs. 1(2), 2(3)(c)
+[^F8]: Words in s. 17(6) inserted (12.12.2025) by The Victims and Prisoners Act 2024 (Permitted Disclosures) Regulations 2025 (S.I. 2025/1303), regs. 1(2), 2(3)(d)
+[^F9]: S. 73(2) omitted (22.3.2026) by virtue of Sentencing Act 2026 (c. 2), ss. 40, 49(4)

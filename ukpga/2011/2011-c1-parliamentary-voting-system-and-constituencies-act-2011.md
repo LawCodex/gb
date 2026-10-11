@@ -1,0 +1,7504 @@
+---
+title: "Parliamentary Voting System and Constituencies Act 2011"
+identifier: "ukpga/2011/1"
+citation: "2011 c. 1"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S+N.I."
+date: 2011-02-16
+last_amended: 2024-08-24
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/2011/1"
+source_modified: 2024-09-05
+retrieved: 2026-10-11
+---
+
+# Parliamentary Voting System and Constituencies Act 2011
+
+**2011 c. 1**
+
+An Act to make provision for a referendum on the voting system for parliamentary elections and to provide for parliamentary elections to be held under the alternative vote system if a majority of those voting in the referendum are in favour of that; to make provision about the number and size of parliamentary constituencies; and for connected purposes.
+
+[16th February 2011]
+
+Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## PART 1 — Voting system for parliamentary elections
+
+### The referendum
+
+#### 1 Referendum on the alternative vote system
+
+(1) A referendum is to be held on the voting system for parliamentary elections.
+
+(2) The referendum must be held before 31 October 2011.
+
+(3) The referendum is to be held on 5 May 2011 unless before then an order is made under subsection (4).
+
+(4) If the Minister is satisfied that it is impossible or impracticable for the referendum to be held on 5 May 2011, or that it cannot be conducted properly if held on that day, the Minister may by order appoint a later day as the day on which the referendum is to be held.
+
+(5) Where a day is appointed under subsection (4), the Minister may by order make supplemental or consequential provision, including provision modifying or amending this Act or another enactment (and, in particular, provision modifying or amending this Act as regards the meaning of “voting area” or “counting officer”).
+
+(6) An order under this section may not be made unless a draft of the order has been laid before, and approved by a resolution of, each House of Parliament.
+
+(7) The question that is to appear on the ballot papers is—
+
+> *At present, the UK uses the “first past the post” system to elect MPs to the House of Commons. Should the “alternative vote” system be used instead?*
+
+(8) In Wales, the following Welsh version of the question is also to appear on the ballot papers—
+
+> *Ar hyn o bryd, mae'r DU yn defnyddio'r system “y cyntaf i'r felin” i ethol ASau i Dŷ'r Cyffredin. A ddylid defnyddio'r system “pleidlais amgen” yn lle hynny?*
+
+(9) Schedule 1 has effect in relation to the referendum.
+
+#### 2 Entitlement to vote in the referendum
+
+(1) Those entitled to vote in the referendum are—
+
+(a) the persons who, on the date of the referendum, would be entitled to vote as electors at a parliamentary election in any constituency, and
+
+(b) the persons who, on that date, are disqualified by reason of being peers from voting as electors at parliamentary elections but—
+
+(i) would be entitled to vote as electors at a local government election in any electoral area in Great Britain,
+
+(ii) would be entitled to vote as electors at a local election in any district electoral area in Northern Ireland, or
+
+(iii) would be entitled to vote as electors at a European Parliamentary election in any electoral region by virtue of section 3 of the Representation of the People Act 1985 (peers resident outside the United Kingdom).
+
+(2) In subsection (1)(b)(i) “local government election” includes a municipal election in the City of London (that is, an election to the office of mayor, alderman, common councilman or sheriff and also the election of any officer elected by the mayor, aldermen and liverymen in common hall).
+
+#### 3 Conduct of the referendum
+
+(1) The referendum is to be conducted in accordance with the rules set out in Part 1 of Schedule 2.
+
+(2) Part 2 of that Schedule (forms and directions) has effect for the purposes of those rules.
+
+(3) Schedule 3 (absent voting in the referendum) has effect.
+
+(4) Schedule 4 (application to the referendum of existing provisions) has effect.
+
+#### 4 Combination of polls
+
+(1) Where the date of the poll for one or more of the following is the same as the date of the poll for the referendum, the polls are to be taken together—
+
+(a) a local authority election in England;
+
+(b) a local referendum in England;
+
+(c) a mayoral election in England.
+
+(2) The polls for the referendum and the Welsh Assembly general election in 2011 are to be taken together.
+
+(3) The polls for the referendum and the Scottish parliamentary general election in 2011 are to be taken together.
+
+(4) The polls for—
+
+(a) the referendum,
+
+(b) the general election of members of the Northern Ireland Assembly to be held on 5 May 2011, and
+
+(c) the Northern Ireland local elections to be held on that date,
+
+are to be taken together.
+
+(5) The following have effect—
+
+- Schedule 5, in relation to the polls to be taken together in England under subsection (1);
+- Schedule 6, in relation to the polls to be taken together in Wales under subsection (2);
+- Schedule 7, in relation to the polls to be taken together in Scotland under subsection (3);
+- Schedule 8, in relation to the polls to be taken together in Northern Ireland under subsection (4).
+
+(6) Polls taken together under this section must not be taken together with any other polls (despite provision in any enactment to the contrary).
+
+(7) Section 16 of the Representation of the People Act 1985 (postponement of poll at parish elections etc) does not apply to any polls taken together under subsection (1).
+
+(8) If any of the elections referred to in subsections (2) to (4) are not held on the same day as the referendum, this Part has effect with any necessary adaptations and in particular—
+
+(a) if the Welsh Assembly general election in 2011 is not held on that day, subsection (2) and Schedule 6 do not apply (and Part 3 of Schedule 4 applies with the necessary adaptations);
+
+(b) if the Scottish parliamentary general election in 2011 is not held on that day, subsection (3) and Schedule 7 do not apply (and Part 3 of Schedule 4 applies with the necessary adaptations);
+
+(c) if any of the elections referred to in subsection (4) are not held on that day, that subsection and Schedule 8 either do not apply or apply only in relation to the elections that are held on that day.
+
+(9) Where a day is appointed by an order under section 1(4)—
+
+(a) if that day is the same as the date of a poll mentioned in subsection (1), the Minister may by order make provision disapplying that subsection or any of paragraphs (a) to (c) of it;
+
+(b) if that day is the same as the date of a poll mentioned in subsection (2) or (3), the Minister may by order make provision disapplying the subsection in question;
+
+(c) if that day is the same as the date of a poll mentioned in subsection (4), the Minister may by order make provision disapplying that subsection or either of paragraphs (b) and (c) of it.
+
+(10) Where a day is appointed by an order under section 1(4), and that day is the same as the date of a poll not mentioned in subsections (1) to (4), the Minister may by order—
+
+(a) provide that the polls are to be taken together, and
+
+(b) make provision for and in connection with the combination of the polls.
+
+(11) An order containing provision made under subsection (9) or (10)—
+
+(a) may make supplemental or consequential provision, including provision modifying or amending this Act or another enactment (and, in particular, provision modifying or amending this Act as regards the meaning of “voting area” or “counting officer”);
+
+(b) may not be made unless a draft of the order has been laid before, and approved by a resolution of, each House of Parliament.
+
+(12) In this section—
+
+- “local authority election in England” means the election of a councillor of any of the following—
+
+  - (a) a county council in England;
+  - (b) a district council in England;
+  - (c) a London borough council;
+  - (d) a parish council;
+
+- “local referendum in England” means a referendum held in England under Part 2 of the Local Government Act 2000;
+
+- “mayoral election in England” means an election in England for the return of an elected mayor as defined by section 39(1) of the Local Government Act 2000;
+
+- “Northern Ireland local election” means a local election as defined by section 130(1) of the Electoral Law Act (Northern Ireland) 1962;
+
+- “Scottish parliamentary general election” means an ordinary election under section 2 of the Scotland Act 1998;
+
+- “Welsh Assembly general election” means an ordinary election under section 3 of the Government of Wales Act 2006.
+
+#### 5 Press comment etc not subject to spending controls
+
+Expenses incurred in respect of the publication of any matter relating to the referendum, other than an advertisement, in—
+
+(a) a newspaper or periodical,
+
+(b) a broadcast made by the British Broadcasting Corporation or Sianel Pedwar Cymru, or
+
+(c) a programme included in any service licensed under Part 1 or 3 of the Broadcasting Act 1990 or Part 1 or 2 of the Broadcasting Act 1996,
+
+are not “referendum expenses” for the purposes of Part 7 of the 2000 Act.
+
+#### 6 Control of loans etc to permitted participants
+
+(1) The 2000 Act has effect in relation to the referendum as if the Schedule set out in Schedule 9 to this Act were inserted in that Act as Schedule 15A.
+
+(2) Section 120 of the 2000 Act (returns as to referendum expenses) has effect in relation to the referendum as if at the end of subsection (2)(d) there were inserted “ and a statement of regulated transactions entered into in respect of the referendum which complies with the requirements of paragraphs 11 to 15 of Schedule 15A ”.
+
+(3) Section 123 of the 2000 Act (declaration of responsible person as to return under section 120) has effect in relation to the referendum as if for subsection (3) there were substituted—
+
+> (3) In a case where the permitted participant either is not a registered party or is a minor party, the declaration must also—
+>
+> (a) in relation to all relevant donations recorded in the return as having been accepted by the permitted participants—
+>
+> (i) state that they were all from permissible donors, or
+>
+> (ii) state whether or not section 56(2) was complied with in the case of each of those donations that was not from a permissible donor;
+>
+> (b) in relation to all regulated transactions recorded in the return as having been entered into by the permitted participant—
+>
+> (i) state that none of the transactions was made void by paragraph 5(2) or (6) or 6(3) of Schedule 15A, or
+>
+> (ii) state whether or not paragraph 5(3)(a) of that Schedule was complied with in the case of each of the transactions that was made void by paragraph 5(2) or (6) of that Schedule.
+
+(4) Section 124 of the 2000 Act (public inspection of returns under section 120) has effect in relation to the referendum as if for subsection (2) there were substituted—
+
+> (2) If the return contains a statement of relevant donations or a statement of regulated transactions in accordance with section 120(2)(d), the Commission shall secure that the copy of the statement made available for public inspection does not include—
+>
+> (a) in the case of any donation by an individual, the donor's address;
+>
+> (b) in the case of a transaction entered into by the permitted participant with an individual, the individual's address.
+
+(5) Schedule 15 to the 2000 Act (control of donations to permitted participants) has effect in relation to the referendum as if—
+
+(a) paragraph (d) of paragraph 2(1) were omitted, together with paragraph 2(3)(a), the words “the loan or” in paragraphs 2(3) and 5(4)(a), the words “(d) or” in paragraph 5(4), and paragraph 5(4)(a)(i);
+
+(b) for paragraph (b) of paragraph 10(2) there were substituted—
+
+> (b) the value of it and any other relevant benefit or benefits is more than that amount.
+>
+> In paragraph (b) “relevant benefit” means any relevant donation or regulated transaction (within the meaning of Schedule 15A) made by, or entered into with, the person who made the donation.”
+
+(6) Schedule 19C to the 2000 Act (civil sanctions), and any order under Part 5 of that Schedule, have effect as if offences under paragraph 8(1) to (12) of the Schedule set out in Schedule 9 to this Act were offences prescribed in an order under that Part.
+
+(7) Paragraphs 4, 5, 6 and 8 of the Schedule set out in Schedule 9 do not apply to regulated transactions (within the meaning of that Schedule) entered into before the commencement of this section; but otherwise the provisions of this section (and that Schedule) apply to such transactions entered into before as well as after that commencement.
+
+(8) Paragraph 7 of that Schedule applies only to a purported transfer made on or after the commencement of this section.
+
+#### 7 Interpretation
+
+(1) In this Part—
+
+- “the 1983 Act” means the Representation of the People Act 1983;
+
+- “the 2000 Act” means the Political Parties, Elections and Referendums Act 2000;
+
+- “Chief Counting Officer” means the Chief Counting Officer for the referendum (see section 128(2) of the 2000 Act);
+
+- “counting officer” has the meaning given by paragraph 2 of Schedule 1;
+
+- “enactment” includes—
+
+  - (a) any provision of an Act,
+  - (b) any provision of, or of any instrument made under, an Act of the Scottish Parliament,
+  - (c) any provision of, or of any instrument made under, Northern Ireland legislation, and
+  - (d) any provision of subordinate legislation (within the meaning of the Interpretation Act 1978);
+
+- “the Minister” means the Lord President of the Council or the Secretary of State;
+
+- “permitted participant” has the same meaning as in Part 7 of the 2000 Act (see section 105(1) of that Act);
+
+- “the referendum” means the referendum under section 1;
+
+- “referendum rules” means the rules in Part 1 of Schedule 2;
+
+- “Regional Counting Officer” means an officer appointed under paragraph 3(1) of Schedule 1;
+
+- “registration officer” has the meaning given in section 8 of the 1983 Act;
+
+- “responsible person” has the same meaning as in Part 7 of the 2000 Act (see section 105(2) of that Act).
+
+(2) Each of the following, as it exists on the day of the referendum, is a “voting area” for the purposes of this Part—
+
+(a) a district in England for which there is a district council;
+
+(b) a county in England in which there are no districts with councils;
+
+(c) a London borough;
+
+(d) the City of London (including the Inner and Middle Temples);
+
+(e) the Isles of Scilly;
+
+(f) a constituency for the National Assembly for Wales;
+
+(g) a constituency for the Scottish Parliament;
+
+(h) Northern Ireland.
+
+### Result of the referendum
+
+#### 8 Commencement or repeal of amending provisions
+
+(1) The Minister must make an order bringing into force section 9, Schedule 10 and Part 1 of Schedule 12 (“the alternative vote provisions”) if—
+
+(a) more votes are cast in the referendum in favour of the answer “Yes” than in favour of the answer “No”, and
+
+(b) the draft of an Order in Council laid before Parliament under subsection (5A) of section 3 of the Parliamentary Constituencies Act 1986 (substituted by section 10(6) below) has been submitted to Her Majesty in Council under section 4 of that Act.
+
+(2) If more votes are not cast in the referendum in favour of the answer “Yes” than in favour of the answer “No”, the Minister must make an order repealing the alternative vote provisions.
+
+(3) An order under subsection (1)—
+
+(a) must bring the alternative vote provisions into force on the same day as the coming into force of the Order in Council in terms of the draft referred to in paragraph (b) of that subsection, but
+
+(b) does not affect any election held before the first parliamentary general election following that day.
+
+#### [^F1]9 The alternative vote system: amendments (prospective)
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 2 — Parliamentary constituencies
+
+### 10 Boundary Commissions: reports etc
+
+(1) In the Parliamentary Constituencies Act 1986 (“the 1986 Act”) section 3 (reports of the Boundary Commissions) is amended as set out in subsections (2) to (7).
+
+(2) In subsection (1)—
+
+(a) in paragraph (a), for “paragraphs 1 to 6 of Schedule 2 to this Act (read with paragraph 7 of that Schedule)” there is substituted “ Schedule 2 to this Act ”;
+
+(b) in paragraph (b), the words “(read with paragraph 7)” are repealed.
+
+[^F2]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) After subsection (2A) there is inserted—
+
+> (2B) In relation to any report which a Boundary Commission are required by subsection (2) above to submit before a particular date but have not yet submitted (a “pending boundary report”), the Commission shall submit to the Speaker of the House of Commons—
+>
+> (a) during the January that begins one year and nine months before that date, and
+>
+> (b) during each subsequent January,
+>
+> a report setting out what progress they have made with the preparation of the pending boundary report, with particular reference to the requirement in subsection (2) above.
+>
+> (2C) On receiving a report under subsection (2B) above, the Speaker shall lay it before Parliament.
+
+(5) Subsection (3) is repealed.
+
+[^F3]6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7) Subsections (7) and (8) are repealed.
+
+[^F4]8 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(9) In Schedule 1 to the 1986 Act (the Boundary Commissions), in paragraph 5(d) (assessor officers of the Boundary Commission for Northern Ireland)—
+
+(a) for “and the” there is substituted “ , the ”;
+
+(b) at the end there is inserted “ and the Chief Survey Officer of Land and Property Services ”.
+
+(10) In paragraph 6 of that Schedule (assistant Commissioners)—
+
+(a) in sub-paragraph (1), for the words after “assistant Commissioners” there is substituted “ to assist the Commission in the discharge of their functions. ”;
+
+(b) in sub-paragraph (2), for “inquiry” there is substituted “ matter ”.
+
+[^F5]11 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 11 Number and distribution of seats
+
+(1) For Schedule 2 to the 1986 Act there is substituted—
+
+> **SCHEDULE 2 — Rules for distribution of seats**
+>
+> *Section 3*
+>
+> **Number of constituencies**
+>
+> **1** The number of constituencies in the United Kingdom shall be 600.
+>
+> **Electorate per constituency**
+>
+> **2** (1) The electorate of any constituency shall be—
+>
+> (a) no less than 95% of the United Kingdom electoral quota, and
+>
+> (b) no more than 105% of that quota.
+>
+> (2) This rule is subject to rules 4(2), 6(3) and 7.
+>
+> (3) In this Schedule the “United Kingdom electoral quota” means—
+>
+> (U)/(596) where U is the electorate of the United Kingdom minus the electorate of the constituencies mentioned in rule 6.
+>
+> **Allocation of constituencies to parts of the United Kingdom**
+>
+> **3** (1) Each constituency shall be wholly in one of the four parts of the United Kingdom (England, Wales, Scotland and Northern Ireland).
+>
+> (2) The number of constituencies in each part of the United Kingdom shall be determined in accordance with the allocation method set out in rule 8.
+>
+> **Area of constituencies**
+>
+> **4** (1) A constituency shall not have an area of more than 13,000 square kilometres.
+>
+> (2) A constituency does not have to comply with rule 2(1)(a) if—
+>
+> (a) it has an area of more than 12,000 square kilometres, and
+>
+> (b) the Boundary Commission concerned are satisfied that it is not reasonably possible for the constituency to comply with that rule.
+>
+> **Factors**
+>
+> **5** (1) A Boundary Commission may take into account, if and to such extent as they think fit—
+>
+> (a) special geographical considerations, including in particular the size, shape and accessibility of a constituency;
+>
+> (b) local government boundaries as they exist on the most recent ordinary council-election day before the review date;
+>
+> (c) boundaries of existing constituencies;
+>
+> (d) any local ties that would be broken by changes in constituencies;
+>
+> (e) the inconveniences attendant on such changes.
+>
+> (2) The Boundary Commission for England may take into account, if and to such extent as they think fit, boundaries of the electoral regions specified in Schedule 1 to the European Parliamentary Elections Act 2002 (ignoring paragraph 2(2) of that Schedule and the references to Gibraltar) as it has effect on the most recent ordinary council-election day before the review date.
+>
+> (3) This rule has effect subject to rules 2 and 4.
+>
+> **Protected constituencies**
+>
+> **6** (1) There shall be two constituencies in the Isle of Wight.
+>
+> (2) There shall continue to be—
+>
+> (a) a constituency named Orkney and Shetland, comprising the areas of the Orkney Islands Council and the Shetland Islands Council;
+>
+> (b) a constituency named Na h-Eileanan an Iar, comprising the area of Comhairle nan Eilean Siar.
+>
+> (3) Rule 2 does not apply to these constituencies.
+>
+> **Northern Ireland**
+>
+> **7** (1) In relation to Northern Ireland, sub-paragraph (2) below applies in place of rule 2 where—
+>
+> (a) the difference between—
+>
+> (i) the electorate of Northern Ireland, and
+>
+> (ii) the United Kingdom electoral quota multiplied by the number of seats in Northern Ireland (determined under rule 8),
+>
+> exceeds one third of the United Kingdom electoral quota, and
+>
+> (b) the Boundary Commission for Northern Ireland consider that having to apply rule 2 would unreasonably impair—
+>
+> (i) their ability to take into account the factors set out in rule 5(1), or
+>
+> (ii) their ability to comply with section 3(2) of this Act.
+>
+> (2) The electorate of any constituency shall be—
+>
+> (a) no less than whichever is the lesser of—
+>
+> N - A
+>
+> and 95% of the United Kingdom electoral quota, and
+>
+> (b) no more than whichever is the greater of—
+>
+> N + A
+>
+> and 105% of the United Kingdom electoral quota,
+>
+> where—
+>
+> - N is the electorate of Northern Ireland divided by the number of seats in Northern Ireland (determined under rule 8), and
+> - A is 5% of the United Kingdom electoral quota.
+>
+> **The allocation method**
+>
+> **8** (1) The allocation method referred to in rule 3(2) is as follows.
+>
+> (2) The first constituency shall be allocated to the part of the United Kingdom with the greatest electorate.
+>
+> (3) The second and subsequent constituencies shall be allocated in the same way, except that the electorate of a part of the United Kingdom to which one or more constituencies have already been allocated is to be divided by—
+>
+> 2C + 1
+>
+> where C is the number of constituencies already allocated to that part.
+>
+> (4) Where the figure given by sub-paragraph (3) above is the same for two or more parts of the United Kingdom, the part to which a constituency is to be allocated shall be the one with the smaller or smallest actual electorate.
+>
+> (5) This rule does not apply to the constituencies mentioned in rule 6, and accordingly—
+>
+> (a) the electorate of England shall be treated for the purposes of this rule as reduced by the electorate of the constituencies mentioned in rule 6(1);
+>
+> (b) the electorate of Scotland shall be treated for the purposes of this rule as reduced by the electorate of the constituencies mentioned in rule 6(2).
+>
+> **Interpretation**
+>
+> **9** (1) This rule has effect for the purposes of this Schedule.
+>
+> (2) The “electorate” of the United Kingdom, or of a part of the United Kingdom or a constituency, is the total number of persons whose names appear on the relevant version of a register of parliamentary electors in respect of addresses in the United Kingdom, or in that part or that constituency.
+>
+> For this purpose the relevant version of a register is the version that is required by virtue of subsection (1) of section 13 of the Representation of the People Act 1983 to be published no later than the review date, or would be so required but for—
+>
+> (a) any power under that section to prescribe a later date, or
+>
+> (b) subsection (1A) of that section.
+>
+> (3) “Local government boundaries” are—
+>
+> (a) in England, the boundaries of counties and their electoral divisions, districts and their wards, London boroughs and their wards and the City of London,
+>
+> (b) in Wales, the boundaries of counties, county boroughs, electoral divisions, communities and community wards,
+>
+> (c) in Scotland, the boundaries of local government areas and the electoral wards into which they are divided under section 1 of the Local Governance (Scotland) Act 2004, and
+>
+> (d) in Northern Ireland, the boundaries of wards.
+>
+> (4) “Ordinary council-election day” is—
+>
+> (a) in relation to England and Wales, the ordinary day of election of councillors for local government areas;
+>
+> (b) in relation to Scotland, the day on which the poll is held at ordinary elections of councillors for local government areas;
+>
+> (c) in relation to Northern Ireland, the day of an election for any district council (other than an election to fill a casual vacancy).
+>
+> (5) The “review date”, in relation to a report under section 3(1) of this Act that a Boundary Commission is required (by section 3(2)) to submit before a particular date, is two years and ten months before that date.
+>
+> (6) “The United Kingdom electoral quota” has the meaning given by rule 2(3).
+>
+> (7) A reference in rule 6 to an area is to the area as it existed on the coming into force of Part 2 of the Parliamentary Voting System and Constituencies Act 2011.
+
+[^F6]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) In Part 4 of Schedule 1 to the House of Commons Disqualification Act 1975 (offices disqualifying for particular constituencies)—
+
+(a) in the entry for Member of Her Majesty's Commission of Lieutenancy for the City of London, for “The constituency comprising the whole of” there is substituted “ Any constituency comprising the whole or part of ”;
+
+(b) in the entry for Governor of the Isle of Wight, for “The Isle of Wight” there is substituted “ Any constituency comprising any part of the Isle of Wight ”.
+
+(4) In section 8 of the Representation of the People Act 1983 (registration officers), for paragraph (b) of subsection (2) there is substituted—
+
+> (b) in relation to any constituency part of which consists of some or all of the area of the City and the Inner and Middle Temples, the Common Council shall appoint an officer to be registration officer for that part of the constituency.
+
+### 12 Boundary Commission proposals: publicity and consultation
+
+(1) For section 5 of the 1986 Act (notices) there is substituted—
+
+> **5 Publicity and consultation**
+>
+> (1) Once a Boundary Commission have decided what constituencies they propose to recommend in a report under section 3(1)(a) above—
+>
+> (a) the Commission shall take such steps as they think fit to inform people in each of the proposed constituencies—
+>
+> (i) what the proposals are,
+>
+> (ii) that a copy of the proposals is open to inspection at a specified place within the proposed constituency, and
+>
+> (iii) that written representations with respect to the proposals may be made to the Commission during a specified period of 12 weeks (“the initial consultation period”);
+>
+> (b) the Commission shall cause public hearings to be held during the period beginning with the fifth week of the initial consultation period and ending with the tenth week of it.
+>
+> (2) Subsection (1)(a)(ii) above does not apply to a constituency with respect to which no alteration is proposed.
+>
+> (3) Schedule 2A to this Act, which makes further provision about public hearings under subsection (1)(b) above, has effect.
+>
+> (4) After the end of the initial consultation period the Commission—
+>
+> (a) shall publish, in such manner as they think fit, representations made as mentioned in subsection (1)(a) above and records of public hearings held under subsection (1)(b) above;
+>
+> (b) shall take such steps as they think fit to inform people in the proposed constituencies that further written representations with respect to the things published under paragraph (a) above may be made to the Commission during a specified period of four weeks (“the secondary consultation period”).
+>
+> (5) If after the end of the secondary consultation period the Commission are minded to revise their original proposals so as to recommend different constituencies, they shall take such steps as they see fit to inform people in each of those revised proposed constituencies—
+>
+> (a) what the revised proposals are,
+>
+> (b) that a copy of the revised proposals is open to inspection at a specified place within the revised proposed constituency, and
+>
+> (c) that written representations with respect to the revised proposals may be made to the Commission during a specified period of eight weeks.
+>
+> (6) Subsection (5) above does not apply to any proposals to make further revisions.
+>
+> (7) Steps taken under subsection (4) or (5) above need not be of the same kind as those taken under subsection (1) above.
+>
+> (8) A Boundary Commission shall take into consideration—
+>
+> (a) written representations duly made to them as mentioned in subsection (1)(a), (4)(b) or (5)(c) above, and
+>
+> (b) representations made at public hearings under subsection (1)(b) above.
+>
+> (9) Except as provided by this section and Schedule 2A to this Act, a Boundary Commission shall not cause any public hearing or inquiry to be held for the purposes of a report under this Act.
+>
+> (10) Where a Boundary Commission publish—
+>
+> (a) general information about how they propose to carry out their functions (including, in the case of the Boundary Commission for England, information about the extent (if any) to which they propose to take into account the boundaries mentioned in rule 5(2) of Schedule 2 to this Act), or
+>
+> (b) anything else to which subsection (1), (4) or (5) above does not apply,
+>
+> it is for the Commission to determine whether to invite representations and, if they decide to do so, the procedure that is to apply.
+
+(2) After Schedule 2 to the 1986 Act there is inserted the Schedule set out in Schedule 11 to this Act.
+
+(3) Section 6 of the 1986 Act (local inquiries) is repealed.
+
+### 13 National Assembly for Wales
+
+[^F7]1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) The following provisions of the Government of Wales Act 2006 are repealed—
+
+[^F8]a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) Schedule 1;
+
+(c) paragraph 1 of Schedule 11.
+
+[^F9]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F9]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F9]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F9]6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F9]7 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F9]8 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F10]14 Review of reduction in number of constituencies
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 3 — Miscellaneous and general
+
+### 15 Orders
+
+A power under this Act to make an order is exercisable by statutory instrument.
+
+### 16 Repeals
+
+Schedule 12 (repeals) has effect.
+
+### 17 Financial provisions
+
+(1) There is to be paid out of money provided by Parliament any increase attributable to this Act in the sums payable under any other Act out of money so provided.
+
+(2) There is to be charged on and paid out of the Consolidated Fund any increase attributable to this Act in the sums to be charged on and paid out of that Fund under any other Act.
+
+(3) There is to be paid into the Consolidated Fund any increase attributable to this Act in the sums payable into that Fund under any other Act.
+
+### 18 Extent
+
+This Act extends to the whole of the United Kingdom, except that—
+
+(a) Part 1 of Schedule 3 extends only to England and Wales and Scotland;
+
+(b) Part 2 of that Schedule extends only to Northern Ireland;
+
+(c) an amendment or repeal made by this Act has the same extent as the provision amended or repealed.
+
+### 19 Commencement
+
+(1) Section 9, Schedule 10 and Part 1 of Schedule 12 come into force in accordance with provision made by an order under section 8(1).
+
+(2) The other provisions of this Act come into force on the day on which this Act is passed.
+
+### 20 Short title
+
+This Act may be cited as the Parliamentary Voting System and Constituencies Act 2011.
+
+## SCHEDULE 1 — Further provisions about the referendum
+
+*Section 1*
+
+### Referendum period
+
+**1** For the purposes of Part 7 of the 2000 Act the referendum period for the referendum—
+
+(a) begins with the day on which this Act is passed, and
+
+(b) ends with the date of the poll.
+
+### Counting officers
+
+**2** (1) The counting officer for a voting area that is—
+
+(a) a district in England,
+
+(b) a county in England, or
+
+(c) a London borough,
+
+is the person who, by virtue of section 35 of the 1983 Act, is the returning officer for elections of councillors of the district, county or borough.
+
+(2) The counting officer for the City of London voting area is the person who, by virtue of that section, is the returning officer for elections of councillors of the London borough of Westminster.
+
+(3) The counting officer for the Isles of Scilly voting area is the person who, by virtue of that section, is the returning officer for elections to the Council of the Isles of Scilly.
+
+(4) The counting officer for a voting area in Wales is the person who, by virtue of provision made under section 13(1)(a) of the Government of Wales Act 2006, is the returning officer for elections of members of the National Assembly for Wales for the constituency that forms the voting area.
+
+(5) The counting officer for a voting area in Scotland is the person who, by virtue of provision made under section 12(1)(a) of the Scotland Act 1998, is the returning officer for elections of members of the Scottish Parliament for the constituency that forms the voting area.
+
+(6) The counting officer for the Northern Ireland voting area is the Chief Electoral Officer for Northern Ireland.
+
+### Regional Counting Officers
+
+**3** (1) The Chief Counting Officer may appoint a Regional Counting Officer for any region in Great Britain.
+
+(2) For the purposes of this paragraph the regions are—
+
+- East Midlands;
+- Eastern;
+- London;
+- North East;
+- North West;
+- South East;
+- South West;
+- West Midlands;
+- Yorkshire and the Humber;
+- Scotland;
+- Wales.
+
+The regions in England comprise the areas specified in the Table in Schedule 1 to the European Parliamentary Elections Act 2002 (ignoring paragraph 2(2) of that Schedule and the references to Gibraltar) as it has effect for the time being.
+
+### Assistance to counting officers etc
+
+**4** (1) A local authority whose area forms, or forms part of, a particular voting area must place the services of their officers at the disposal of—
+
+(a) the counting officer for the voting area, and
+
+(b) the Regional Counting Officer (if any) appointed for the region that includes the voting area,
+
+for the purpose of assisting the officer in the discharge of his or her functions.
+
+(2) In this paragraph “local authority”—
+
+(a) in the case of a voting area that is a district or county in England, or a London borough, means the council for that district, county or borough;
+
+(b) in the case of the City of London voting area, means the Common Council of the City of London;
+
+(c) in the case of the Isles of Scilly voting area, means the Council of the Isles of Scilly;
+
+(d) in the case of a voting area in Wales, means the council of a county or county borough;
+
+(e) in the case of a voting area in Scotland, means the council of a local government area.
+
+### General duties of counting officers etc
+
+**5** (1) The Chief Counting Officer, Regional Counting Officers and counting officers must do whatever things are necessary for conducting the referendum in the manner provided by this Part.
+
+(2) The counting officer for a voting area is responsible, as regards that area, for—
+
+(a) the conduct of the poll,
+
+(b) (subject to sub-paragraph (3)) the printing of the ballot papers,
+
+(c) the issue and receipt of postal ballot papers for persons entitled to vote on their own behalf in the referendum and for their proxies,
+
+(d) the verification of the statements made under rule 38(6) of the referendum rules (ballot paper accounts), and
+
+(e) the counting of the votes cast.
+
+(3) Responsibility for the printing of the ballot papers for a voting area may be taken—
+
+(a) by the Chief Counting Officer;
+
+(b) in the case of a voting area in a region for which a Regional Counting Officer is appointed, by the Chief Counting Officer or the Regional Counting Officer.
+
+The Chief Counting Officer or Regional Counting Officer may direct the counting officer concerned accordingly.
+
+(4) In the case of a region for which a Regional Counting Officer is appointed, the officer must certify as regards the votes cast in the region—
+
+(a) the total number of ballot papers counted, and
+
+(b) the total number of votes cast in favour of each answer to the question asked in the referendum.
+
+Where two or more forms of ballot paper are used in the referendum, a separate number must be certified under paragraph (a) in relation to each form of ballot paper used.
+
+(5) The Chief Counting Officer may give Regional Counting Officers or counting officers—
+
+(a) directions about the discharge of their functions;
+
+(b) directions requiring them to take specified steps in preparation for the referendum;
+
+(c) directions requiring them to provide the Chief Counting Officer with information that they have or are entitled to have.
+
+(6) A Regional Counting Officer for a region may give counting officers for voting areas within that region—
+
+(a) directions about the discharge of their functions;
+
+(b) directions requiring them to take specified steps in preparation for the referendum;
+
+(c) directions requiring them to provide the Regional Counting Officer with information that they have or are entitled to have.
+
+(7) A power under this paragraph of a Regional Counting Officer to give a direction to a counting officer is exercisable only in accordance with a specific or general authorisation or direction given by the Chief Counting Officer.
+
+(8) A person to whom a direction is given under this paragraph must comply with it.
+
+(9) This paragraph applies in addition to section 128 of the 2000 Act (Chief Counting Officers, and counting officers, for referendums).
+
+(10) The number of ballot papers or votes purportedly certified under this paragraph or section 128 of the 2000 Act is not liable to be questioned by reason of a defect in the title, or a lack of title, of any person purporting to exercise functions in relation to the referendum, if the person was then in actual possession of, or acting in, the office giving the right to exercise the functions.
+
+### Appointment of deputies and clerks
+
+**6** (1) The Chief Counting Officer or a Regional Counting Officer or counting officer may appoint deputies to carry out any or all of the officer's functions.
+
+(2) An appointment under sub-paragraph (1) must be in writing.
+
+(3) A Regional Counting Officer may appoint however many clerks are necessary to assist in carrying out the officer's functions.
+
+### Counting officers etc: correction of procedural errors
+
+**7** (1) A Regional Counting Officer or counting officer may take whatever steps the officer thinks appropriate to remedy any act or omission on the part of the officer or a relevant person that—
+
+(a) arises in connection with any function that the officer or relevant person has in relation to the referendum, and
+
+(b) is not in accordance with the referendum rules or any other requirements applicable to the referendum.
+
+(2) But a counting officer may not under this paragraph conduct a re-count of the votes once a direction has been given under rule 43(3)(b) of the referendum rules.
+
+(3) The relevant persons are—
+
+(a) a registration officer;
+
+(b) a presiding officer appointed under rule 14 of the referendum rules;
+
+(c) a clerk of, or a person providing goods or services to, the Regional Counting Officer or the counting officer;
+
+(d) a deputy or assistant of—
+
+(i) the Regional Counting Officer or the counting officer, or
+
+(ii) a person mentioned in paragraph (a), (b) or (c).
+
+(4) For the purposes of sub-paragraph (3)(d) a person (“A”) is an assistant of another person (“P”) if—
+
+(a) A is appointed to assist P, or
+
+(b) in the course of employment A is assisting P,
+
+in connection with any function in relation to the referendum.
+
+### Public notices
+
+**8** A public notice required by this Part to be given by the Chief Counting Officer, a Regional Officer or a counting officer must be given—
+
+(a) by posting the notice in some conspicuous place in the area or region for which the officer acts, or
+
+(b) in whatever other manner the officer thinks desirable for publicising it.
+
+### Role of Electoral Commission
+
+**9** (1) The Electoral Commission must take whatever steps they think appropriate to promote public awareness about the referendum and how to vote in it.
+
+(2) The Electoral Commission may take whatever steps they think appropriate to provide, for persons entitled to vote in the referendum, information about each of the two voting systems referred to in the referendum question.
+
+(3) Following the referendum, the Electoral Commission must—
+
+(a) publish the most accurate estimate that it is reasonably possible to make of the turnout in each of England, Wales, Scotland and Northern Ireland;
+
+(b) include that information in any report they submit under section 6(1)(b) of the 2000 Act to do with the referendum.
+
+(4) In sub-paragraph (3) “turnout” means the percentage of those entitled to vote in the referendum who did so.
+
+A ballot paper recorded under head (b), (c) or (d) of rule 42(4) of the referendum rules is to be treated as a vote for this purpose.
+
+### Encouraging participation
+
+**10** (1) The Chief Counting Officer must take whatever steps the officer thinks appropriate to encourage participation in the referendum.
+
+(2) An officer to whom sub-paragraph (3) applies must take whatever steps the officer thinks appropriate to encourage participation in the referendum in the area or region for which the officer acts.
+
+(3) This sub-paragraph applies to—
+
+(a) a Regional Counting Officer;
+
+(b) a counting officer;
+
+(c) a registration officer.
+
+(4) The Chief Counting Officer must take whatever steps the officer thinks appropriate to facilitate co-operation between that officer and the officers to whom sub-paragraph (3) applies in taking any steps under sub-paragraph (1) or (2).
+
+(5) In discharging the duty imposed by sub-paragraph (1) or (2) an officer must have regard to any guidance issued by the Electoral Commission.
+
+(6) The Minister may reimburse any expenditure incurred by an officer for the purposes of sub-paragraph (1) or (2).
+
+### Referendum agents
+
+**11** A permitted participant may, for any voting area, appoint an individual (who may be the responsible person) to act as the permitted participant's agent (“referendum agent”).
+
+**12** (1) This paragraph applies if a permitted participant appoints a referendum agent for a voting area.
+
+(2) The responsible person must give the counting officer for the area notification of the name and home or business address of—
+
+(a) the permitted participant, and
+
+(b) the referendum agent.
+
+(3) The notification must be given before noon on the 16th day before the date of the poll, disregarding for this purpose—
+
+(a) Saturdays and Sundays,
+
+(b) Good Friday and any other day that is a bank holiday under the Banking and Financial Dealings Act 1971 in any part of the United Kingdom, and
+
+(c) any day appointed as a day of public thanksgiving or mourning.
+
+(4) The notification must be in writing and signed by the responsible person.
+
+(5) The duties imposed on a responsible person by this paragraph may be discharged by any person authorised in writing by the responsible person.
+
+**13** (1) This paragraph applies if a counting officer is notified under paragraph 12 that a permitted participant has appointed a referendum agent.
+
+(2) The counting officer must as soon as practicable give public notice of—
+
+(a) the name and address of the referendum agent, and
+
+(b) the name of the permitted participant.
+
+**14** (1) This paragraph applies if—
+
+(a) a permitted participant revokes the appointment of a referendum agent or a referendum agent dies, and
+
+(b) the referendum agent has notified the counting officer of the appointment of a polling or counting agent under rule 18 of the referendum rules.
+
+(2) The permitted participant must as soon as possible appoint another agent under paragraph 11.
+
+(3) The notification under paragraph 12 must be made as soon as possible after the appointment of the new referendum agent (rather than before noon on the 16th day before the date of the poll).
+
+### Responsible persons
+
+**15** (1) A person who is the responsible person for a permitted participant may not give a notification under section 106(3) of the 2000 Act (notification given to become a permitted participant).
+
+(2) An individual who is a permitted participant ceases to be a permitted participant if he or she is the treasurer of a registered party (other than a minor party) that becomes a permitted participant.
+
+(3) A declaration made or notification given by a body does not comply with the requirement in subsection (2)(b) or (4)(b)(ii) of section 106 of the 2000 Act (to state the name of the person who will be responsible for compliance) if the person whose name is stated—
+
+(a) is already the responsible person for a permitted participant,
+
+(b) is an individual who gives a notification under subsection (3) of that section at the same time, or
+
+(c) is the person whose name is stated, in purported compliance with the requirement in subsection (2)(b) or (4)(b)(ii) of that section, in a notification given at the same time by another body.
+
+(4) Where a registered party (other than a minor party) makes a declaration under section 106 of the 2000 Act and the treasurer of the party (“T”) is already the responsible person for a permitted participant (“P”)—
+
+(a) T ceases to be the responsible person for P at the end of the period of 14 days beginning with the day on which (by reason of the declaration) T becomes the responsible person for the party;
+
+(b) P must, before the end of that period, give a notice of alteration under section 106(5) of the 2000 Act stating the name of the person who is to replace T as the responsible person for P.
+
+(5) In sub-paragraphs (3) and (4) “the person”, in relation to a body other than a minor party, is to be read as “the person or officer”.
+
+(6) In this paragraph “registered party” and “minor party” have the meaning given in section 160(1) of the 2000 Act.
+
+### Grants to designated organisations may be paid in instalments
+
+**16** (1) This paragraph applies to a grant under subsection (2) of section 110 of the 2000 Act (assistance available to designated organisations) made in respect of the referendum.
+
+(2) The grant may be paid in whatever instalments the Electoral Commission consider appropriate.
+
+(3) Instalments may be withheld if the Commission are satisfied that the designated organisation concerned has failed to comply with a condition imposed under section 110(3) of the 2000 Act.
+
+(4) Section 110(2) of the 2000 Act, in so far as it requires the grant to be of the same amount in the case of each designated organisation, has effect in relation to the referendum subject to sub-paragraph (3).
+
+### Expenses incurred by persons acting in concert
+
+**17** (1) This paragraph applies where—
+
+(a) referendum expenses are incurred by or on behalf of an individual or body during the referendum period for the referendum, and
+
+(b) those expenses are incurred in pursuance of a plan or other arrangement by which referendum expenses are to be incurred by or on behalf of—
+
+(i) that individual or body, and
+
+(ii) one or more other individuals or bodies,
+
+respectively with a view to, or otherwise in connection with, promoting or procuring a particular outcome in relation to the question asked in the referendum.
+
+(2) The expenses mentioned in sub-paragraph (1)(a) are to be treated for the purposes of the provisions of the 2000 Act set out in sub-paragraph (3) as having also been incurred, during the referendum period, by or on behalf of the other individual or body (or, as the case may be, each of the other individuals or bodies) mentioned in sub-paragraph (1)(b)(ii).
+
+(3) The provisions are—
+
+(a) section 117;
+
+(b) section 118 and Schedule 14;
+
+(c) sections 120 to 123.
+
+(4) This paragraph applies whether or not any of the individuals or bodies in question is a permitted participant.
+
+(5) But this paragraph does not treat any expenses incurred by or on behalf of a permitted participant that is designated in respect of the referendum by the Electoral Commission under section 108 of the 2000 Act (designation of organisations to whom assistance is available) as having been incurred by or on behalf of any other individual or body.
+
+(6) Subsections (5) and (6) of section 117 of the 2000 Act (certain expenditure incurred before the referendum period treated as incurred during that period) apply for the purposes of this paragraph as they apply for the purposes of that section.
+
+### Advertisements
+
+**18** (1) The Town and Country Planning (Control of Advertisements) Regulations 1992 (S.I. 1992/666) apply in relation to the display on any site in Wales of an advertisement relating specifically to the referendum as they apply in relation to the display of an advertisement relating specifically to a pending parliamentary election.
+
+(2) The Town and Country Planning (Control of Advertisements) (Scotland) Regulations 1984 (S.I. 1984/467) apply in relation to the display on any site in Scotland of an advertisement relating specifically to the referendum as they apply in relation to the display of an advertisement relating specifically to a pending parliamentary election.
+
+(3) The Planning (Control of Advertisements) Regulations (Northern Ireland) 1992 (S.R. 1992/448) apply in relation to the display on any site in Northern Ireland of an advertisement relating specifically to the referendum as they apply in relation to the display of an advertisement relating specifically to a pending parliamentary election.
+
+### Non-domestic rating: premises used for referendum purposes
+
+**19** (1) Section 65(6) of the Local Government Finance Act 1988 (occupation for election meetings and polls) has effect as if—
+
+(a) the reference to public meetings in furtherance of a person's candidature at an election included a reference to public meetings to promote or procure a particular outcome in relation to the question asked in the referendum, and
+
+(b) the reference to use by a returning officer for the purpose of taking the poll in an election included a reference to use by a counting officer for the purposes of taking the poll in the referendum.
+
+(2) Section 98 of the 1983 Act and rule 22(3) in Schedule 1 to that Act (which make equivalent provision, applying in Scotland and Northern Ireland) have effect as if—
+
+(a) the reference in section 98 to public meetings in furtherance of a person's candidature at an election included a reference to public meetings to promote or procure a particular outcome in relation to the question asked in the referendum, and
+
+(b) the reference in rule 22(3) to use for the purpose of taking the poll in an election included a reference to use by a counting officer for the purposes of taking the poll in the referendum.
+
+### Payments to counting officers and Regional Counting Officers
+
+**20** (1) Subject to sub-paragraphs (3) and (4), a counting officer or Regional Counting Officer is entitled to recover his or her charges in respect of services rendered, or expenses incurred, for or in connection with the referendum if—
+
+(a) the services were necessarily rendered, or the expenses were necessarily incurred, for the efficient and effective conduct of the referendum, and
+
+(b) the total of the officer's charges does not exceed the amount (“the overall maximum recoverable amount”) specified in, or determined in accordance with, an order made by the Minister, with the consent of the Treasury, for the purposes of this sub-paragraph.
+
+(2) Sub-paragraph (3) applies to a service rendered by—
+
+(a) the counting officer for a voting area in England, Wales or Scotland, or
+
+(b) a Regional Counting Officer,
+
+which in the opinion of the Electoral Commission was inadequately performed.
+
+(3) In respect of a service to which this sub-paragraph applies, the officer is entitled under sub-paragraph (1) to no more than the amount (which may be nil) that seems reasonable in all the circumstances—
+
+(a) to the Commission, or
+
+(b) on a taxation under paragraph 21, to the county court or Auditor.
+
+(4) An order under sub-paragraph (1) may specify, or make provision for determining in accordance with the order, a maximum recoverable amount for services or expenses of a specified description—
+
+(a) for counting officers;
+
+(b) for Regional Counting Officers.
+
+Subject to sub-paragraph (5), an officer may not recover more than the specified amount in respect of such services or expenses.
+
+(5) In a particular case the Electoral Commission may, with the consent of the Treasury, authorise the payment of—
+
+(a) more than the overall maximum recoverable amount, or
+
+(b) more than the specified maximum recoverable amount for any specified services or expenses,
+
+if the Commission are satisfied that the conditions in sub-paragraph (6) are met.
+
+(6) The conditions are—
+
+(a) that it was reasonable for the officer concerned to render the services or incur the expenses, and
+
+(b) that the charges in question are reasonable.
+
+(7) The Chief Counting Officer is entitled to recover expenses incurred by that officer for or in connection with the referendum if—
+
+(a) the expenses are of a kind that would otherwise have been incurred by counting officers or Regional Counting Officers, and
+
+(b) the Chief Counting Officer considered that it would be more economical for the expenses to be incurred by that officer instead.
+
+(8) The Electoral Commission must pay the amount of any charges recoverable in accordance with this paragraph on an account being submitted to them.
+
+(9) Where the superannuation contributions required to be paid by a local authority in respect of a person are increased by a fee paid under this paragraph as part of the charges of a counting officer or Regional Counting Officer at the referendum, then on an account being submitted to them the Electoral Commission must pay to the authority a sum equal to the increase.
+
+(10) At the request of a counting officer or Regional Counting Officer or the Chief Counting Officer, the Electoral Commission may make an advance on account of the officer's charges on such terms as they think fit.
+
+(11) The Electoral Commission may by regulations make provision as to the time when and the manner and form in which accounts are to be rendered to the Commission for the purposes of the payment of the charges of a counting officer or Regional Counting Officer or the Chief Counting Officer.
+
+(12) An order or regulations under this paragraph may make different provision for different cases.
+
+(13) Any sums required by the Electoral Commission for making payments under this paragraph are to be charged on and paid out of the Consolidated Fund.
+
+### Taxation of counting officer's or Regional Counting Officer's account
+
+**21** (1) An application for the account of a counting officer or Regional Counting Officer to be taxed must be made—
+
+(a) except where paragraph (b) applies, to a county court;
+
+(b) where the officer is one who was appointed for an area in Scotland, or for the region of Scotland, to the Auditor of the Court of Session.
+
+A reference in this paragraph to “the court” includes a reference to that Auditor.
+
+(2) On any such application the court has jurisdiction to tax the account in whatever manner and at whatever time and place the court thinks fit, and finally to determine the amount payable to the officer.
+
+(3) Where an application is made for the account of a counting officer or Regional Counting Officer to be taxed, the officer may apply to the court for it to examine any claim made by any person (“the claimant”) against the officer in respect of matters charged in the account.
+
+(4) On an application under sub-paragraph (3), after the claimant has been given notice and an opportunity to be heard and to tender any evidence, the court may allow, disallow or reduce the claim, with or without costs.
+
+(5) An application under sub-paragraph (1) for taxation of the account of the Chief Electoral Officer for Northern Ireland must be made to the county court that has jurisdiction at the place where the officer certified the number of ballot papers counted and votes cast.
+
+### Electoral Commission accounts
+
+**22** (1) If directed to do so by the Treasury, the Electoral Commission must prepare accounts in respect of their expenditure in relation to the referendum.
+
+(2) Accounts under this paragraph must be prepared in accordance with directions given to the Commission by the Treasury.
+
+(3) Directions under sub-paragraph (2) may include, in particular, directions as to—
+
+(a) the information to be contained in the accounts and the manner in which it is to be presented,
+
+(b) the methods and principles in accordance with which the accounts are to be prepared, and
+
+(c) the additional information (if any) that is to accompany the accounts.
+
+(4) Accounts under this paragraph must be submitted by the Commission to—
+
+(a) the Comptroller and Auditor General, and
+
+(b) the Speaker's Committee,
+
+as soon may be practicable after the giving of the direction under sub-paragraph (1).
+
+### Restriction on challenge to referendum result
+
+**23** (1) No court may entertain any proceedings for questioning the number of ballot papers counted or votes cast in the referendum as certified by the Chief Counting Officer or a Regional Counting Officer or counting officer unless—
+
+(a) the proceedings are brought by a claim for judicial review, and
+
+(b) the claim form is filed before the end of the permitted period.
+
+(2) In sub-paragraph (1) “the permitted period” means the period of 6 weeks beginning with—
+
+(a) the day on which the officer in question gives a certificate as to the number of ballot papers counted and votes cast in the referendum, or
+
+(b) if the officer gives more than one such certificate, the day on which the last is given.
+
+(3) In the application of this paragraph to Scotland, sub-paragraph (1) has effect—
+
+(a) with the substitution in paragraph (a) of “a petition” for “ a claim ”;
+
+(b) with the substitution in paragraph (b) of “the petition is lodged” for “ the claim form is filed ”.
+
+(4) In the application of this paragraph to Northern Ireland, sub-paragraph (1) has effect—
+
+(a) with the substitution in paragraph (a) of “an application” for “ a claim ”;
+
+(b) with the substitution in paragraph (b) of “the application for leave to apply for judicial review is lodged” for “ the claim form is filed ”.
+
+## SCHEDULE 2 — Rules for conduct of the referendum
+
+*Section 3*
+
+### PART 1 — Referendum rules
+
+#### Time
+
+##### Timetable
+
+**1** The proceedings at the referendum are to be conducted in accordance with the following table.
+
+|  |  |
+|---|---|
+| *Proceeding* | *Time* |
+| Publication of notice of referendum | Not later than the 25th day before the day of the referendum |
+| Notice of poll | Not later than the 15th day before the day of the referendum |
+| Hours of polling | Between 7 am and 10 pm on the day of the referendum |
+
+##### Computation of time
+
+**2** (1) In calculating any period of time (other than a year) for the purposes of these rules the following are to be disregarded—
+
+(a) Saturdays and Sundays,
+
+(b) Good Friday and any other day that is a bank holiday under the Banking and Financial Dealings Act 1971 in any part of the United Kingdom, and
+
+(c) any day appointed as a day of public thanksgiving or mourning.
+
+(2) In relation to proceedings adjourned by a presiding officer under rule 37 (riot or open violence), the reference in paragraph (1)(b) to a day that is a bank holiday in any part of the United Kingdom is to be read as a reference to a day that is a bank holiday in the part of the United Kingdom where the proceedings are adjourned.
+
+#### General provisions
+
+##### Notice of referendum
+
+**3** Each counting officer must give public notice of the referendum stating—
+
+(a) the date of the poll;
+
+(b) the date by which—
+
+(i) applications to vote by post or by proxy, and
+
+(ii) other applications and notices about postal or proxy voting,
+
+must reach the registration officer in order that they may be effective for the referendum.
+
+##### Poll to be taken by ballot
+
+**4** The votes at the poll are to be given by ballot.
+
+##### The ballot paper
+
+**5** (1) The ballot of every voter is to consist of a ballot paper, which is to be printed in the form set out in Form 1 in Part 2 of this Schedule and according to the directions specified in that Part.
+
+(2) Each ballot paper—
+
+(a) must set out the question as specified in section 1;
+
+(b) must be capable of being folded up;
+
+(c) must have a number and other unique identifying mark printed on the back.
+
+##### Corresponding number list
+
+**6** (1) The counting officer must prepare a list containing the numbers and other unique identifying marks of all of the ballot papers to be—
+
+(a) issued by the officer in pursuance of rule 12(1), or
+
+(b) provided by the officer in pursuance of rule 17(1).
+
+(2) The list must be in the form set out in Form 2 in Part 2 of this Schedule.
+
+##### The official mark
+
+**7** (1) Every ballot paper must contain an appropriate security marking (the official mark).
+
+(2) The official mark must be kept secret.
+
+(3) The counting officer may use a different official mark for different purposes.
+
+##### Prohibition of disclosure of vote
+
+**8** A person who has voted in the referendum may not be required, in any legal proceeding to question the referendum, to state for which answer he or she voted.
+
+##### Use of schools and public rooms
+
+**9** (1) The counting officer may use, free of charge, for the purpose of taking the poll—
+
+(a) a room in a school within paragraph (3);
+
+(b) a room the expense of maintaining which is met by any local authority (in England and Wales or Scotland) or is payable out of any rate (in Northern Ireland).
+
+(2) The counting officer must—
+
+(a) make good any damage done to any such room, and
+
+(b) defray any expense incurred by the persons having control over any such room,
+
+by reason of its being used for that purpose.
+
+(3) The schools within this paragraph are—
+
+(a) in England and Wales—
+
+(i) a school maintained or assisted by a local authority;
+
+(ii) a school in respect of which grants are made out of moneys provided by Parliament to the person or body of persons responsible for the management of the school;
+
+(b) in Scotland, a school that is not an independent school within the meaning of the Education (Scotland) Act 1980;
+
+(c) in Northern Ireland, a school in receipt of a grant out of moneys appropriated by Measure of the Northern Ireland Assembly, other than a school that—
+
+(i) adjoins or is adjacent to a church or other place of worship, or
+
+(ii) is connected with a nunnery or other religious establishment.
+
+##### Modification of forms
+
+**10** (1) The Chief Counting Officer may, for the purpose of making a relevant form easier for voters to understand or use, specify modifications that are to be made to the wording or appearance of the form.
+
+(2) In paragraph (1) “relevant form” means any of the following—
+
+(a) Forms 3 to 10, 12 and 14 in Part 2 of this Schedule;
+
+(b) the form of the notice set out in rule 17(7).
+
+(3) In this Part of this Act a reference to a form is to be read as a reference to that form with any modifications specified under paragraph (1).
+
+(4) Where a form is modified by virtue of paragraph (1), section 26(2) of the Welsh Language Act 1993 applies as if the modified form were specified by this Act.
+
+#### Action to be taken before the poll
+
+##### Notice of poll
+
+**11** (1) The counting officer must give public notice of the poll stating—
+
+(a) the day and hours fixed for the poll;
+
+(b) the question that is to appear on the ballot paper.
+
+(2) The notice of the poll must be published not later than the 15th day before the day of the referendum.
+
+(3) No later than the time of the publication of the notice of the poll, the counting officer must also give public notice of—
+
+(a) the situation of each polling station;
+
+(b) the description of voters entitled to vote there.
+
+(4) As soon as practicable after giving the notice under paragraph (3), the counting officer must give a copy of it to each of the referendum agents appointed for the officer's area.
+
+##### Postal ballot papers
+
+**12** (1) The counting officer must, in accordance with the relevant postal voting provisions, issue to those entitled to vote by post—
+
+(a) a ballot paper,
+
+(b) in the case of those entitled to vote in England and Wales or Scotland, a postal voting statement in the form set out in Form 3 in Part 2 of this Schedule, and
+
+(c) in the case of those entitled to vote in Northern Ireland, a declaration of identity in the form set out in Form 4 in Part 2 of this Schedule,
+
+together with envelopes for their return complying with the requirements prescribed by the relevant postal voting provisions.
+
+(2) The counting officer must also issue to those entitled to vote by post whatever information the officer thinks appropriate about how to obtain—
+
+(a) translations into languages other than English of any directions to, or guidance for, voters sent with the ballot paper;
+
+(b) a translation into Braille of those directions or guidance;
+
+(c) graphical representations of those directions or guidance;
+
+(d) those directions or guidance in any other form (including any audible form).
+
+(3) In the case of a ballot paper issued to a person resident in the United Kingdom, the counting officer must ensure that the return of the ballot paper and postal voting statement or declaration of identity is free of charge to the voter.
+
+##### Provision of polling stations
+
+**13** (1) The counting officer must provide a sufficient number of polling stations and, subject to the following provisions of this rule, must allot the electors to the polling stations in whatever manner the officer thinks most convenient.
+
+(2) One or more polling stations may be provided in the same room.
+
+(3) In England, the polling station allotted to electors from any parliamentary polling district wholly or partly within a particular voting area must, in the absence of special circumstances, be in the parliamentary polling place for that district unless the parliamentary polling place is outside the voting area.
+
+(4) In Wales, Scotland or Northern Ireland, the polling station allotted to electors from any polling district must be in the polling place for that district.
+
+(5) The polling districts and polling places that apply for the purposes of paragraph (4) are—
+
+(a) in Wales, those that would apply by virtue of provision made under section 13(1)(a) of the Government of Wales 2006 in respect of an election for membership of the National Assembly for Wales held on the day of the referendum;
+
+(b) in Scotland, those that would apply by virtue of provision made under section 12(1)(a) of the Scotland Act 1998 in respect of an election for membership of the Scottish Parliament held on the day of the referendum;
+
+(c) in Northern Ireland, those for the time being established under the law relating to local elections within the meaning of section 130 of the Electoral Law Act (Northern Ireland) 1962.
+
+(6) The number of ballot papers counted or votes cast as certified by the Chief Counting Officer or a Regional Counting Officer or counting officer may not be questioned by reason of—
+
+(a) any non-compliance with paragraph (3) or (4), or
+
+(b) any informality relative to polling districts or polling places.
+
+(7) The counting officer must provide each polling station with however many compartments are necessary in which the voters can mark their votes screened from observation.
+
+##### Appointment of presiding officers and clerks
+
+**14** (1) The counting officer must appoint and pay—
+
+(a) a presiding officer to attend at each polling station;
+
+(b) however many clerks are necessary for the purposes of the referendum.
+
+But the officer may not employ a person who has been employed by or on behalf of a permitted participant in or about the referendum.
+
+(2) The counting officer may, if the officer thinks fit, preside at a polling station.
+
+(3) A presiding officer may do, by the clerks appointed to assist the officer, any act (including the asking of questions) which the officer is required or authorised by these rules to do at a polling station except order the arrest, exclusion or removal of a person from the polling station.
+
+##### Issue of official poll cards
+
+**15** (1) The counting officer must, as soon as practicable after the publication of notice of the referendum, send to electors and their proxies an official poll card.
+
+(2) An official poll card must not be sent to a person—
+
+(a) as an elector, if the person is entitled to a postal vote in Northern Ireland;
+
+(b) as a proxy, if the person is entitled to a proxy postal vote in Northern Ireland.
+
+(3) An official poll card must not be sent to a person registered, or to be registered, in pursuance of—
+
+(a) an overseas elector's declaration, within the meaning of section 2 of the Representation of the People Act 1985 (registration of British citizens overseas), or
+
+(b) a declaration made by virtue of subsection (5) of section 3 of that Act (extension of franchise for European Parliamentary Elections).
+
+(4) An elector's official poll card must be sent or delivered to his or her qualifying address, and a proxy's to his or her address as shown in the list of proxies.
+
+(5) In the case of an elector who is entitled to vote in the referendum in England and Wales or Scotland—
+
+(a) an official poll card sent to the elector must be in the form set out in Form 5 in Part 2 of this Schedule;
+
+(b) an official postal poll card sent to the elector must be in the form set out in Form 6 in Part 2 of this Schedule;
+
+(c) an official poll card sent to the proxy of the elector must be in the form set out in Form 7 in Part 2 of this Schedule;
+
+(d) an official postal poll card sent to the proxy of the elector must be in the form set out in Form 8 in Part 2 of this Schedule.
+
+(6) In the case of an elector who is entitled to vote in the referendum in Northern Ireland—
+
+(a) an official poll card sent to the elector must be in the form set out in Form 9 in Part 2 of this Schedule;
+
+(b) an official poll card sent to the proxy of the elector must be in the form set out in Form 10 in Part 2 of this Schedule.
+
+(7) An official poll card or official postal poll card may set out whatever information, in addition to that required by virtue of paragraph (5) or (6), the counting officer thinks appropriate.
+
+(8) Different information may be provided in pursuance of paragraph (7) to different electors or descriptions of elector.
+
+(9) In this rule—
+
+- “qualifying address” means the address in respect of which a person is entitled to be registered on the register of electors;
+- “elector” includes only those electors who, on the last day for publication of notice of the referendum, appear on a register to be used for the referendum.
+
+##### Notification that certain electors entitled to absent vote
+
+**16** (1) As soon as practicable after the publication of notice of the referendum, a registration officer must—
+
+(a) notify those peers who are within entry 2, 4 or 5 of the table in paragraph 5(2) or 16(2) of Schedule 3 that they are entitled to vote by post in the referendum;
+
+(b) notify those electors who are within entry 2, 3, 4 or 5 of the table in paragraph 5(3) or 16(3) of Schedule 3 that they are entitled to vote by proxy in the referendum.
+
+(2) A notice given to a peer under paragraph (1)(b) must—
+
+(a) in the case of a peer within entry 2 of the table, state that the peer's entitlement to vote by proxy in the referendum arises by virtue of the peer's inclusion in the list of proxies for a specified poll mentioned in that entry;
+
+(b) in the case of a peer within entry 4 of the table, state that the peer's entitlement to vote by proxy in the referendum arises by virtue of the peer's inclusion in the record kept under paragraph 3 of Schedule 4 to the Representation of the People Act 2000 as voting by proxy at local government elections;
+
+(c) in the case of a peer within entry 5 of the table, state that the peer's entitlement to vote by proxy in the referendum arises by virtue of the peer's inclusion in the record kept under paragraph 3 of Schedule 2 to the European Parliamentary Elections Regulations 2004 (S.I. 2004/293) or (as the case may be) regulation 8 of the European Parliamentary Elections (Northern Ireland) Regulations 2004 (S.I. 2008/1741) as voting by proxy.
+
+##### Equipment of polling stations
+
+**17** (1) The counting officer must provide each presiding officer with however many ballot boxes and ballot papers the counting officer thinks are necessary.
+
+(2) Every ballot box must be constructed so that the ballot papers can be put in it, but cannot be withdrawn from it, without the box being unlocked or (in the case of a box without a lock) the seal being broken.
+
+(3) The counting officer must provide each polling station with—
+
+(a) materials to enable voters to mark the ballot papers;
+
+(b) copies of each register of electors used for the referendum that contains the entries relating to the electors allotted to the station (or, in the case of a register only part of which contains those entries, that part);
+
+(c) the parts of any special lists prepared for the referendum corresponding to each register or part of a register provided under sub-paragraph (b);
+
+(d) a list consisting of that part of the list prepared under rule 6 that contains the numbers (but not the other unique identifying marks) corresponding to those on the ballot papers provided to the presiding officer of the polling station.
+
+The list provided under sub-paragraph (d) must be in the form set out in Form 11 in Part 2 of this Schedule.
+
+(4) The counting officer must also provide each polling station with—
+
+(a) at least one large version of the ballot paper, which must be displayed inside the polling station for the assistance of voters who are partially sighted;
+
+(b) a device for enabling voters who are blind or partially sighted to vote without any need for assistance from the presiding officer or any companion (within the meaning of rule 31 (1)).
+
+(5) The device mentioned in paragraph (4)(b) must—
+
+(a) allow a ballot paper to be inserted into and removed from the device, or attached to and detached from it, easily and without damage to the paper;
+
+(b) keep the ballot paper firmly in place during use;
+
+(c) provide suitable means for the voter—
+
+(i) to identify the spaces on the ballot paper on which the voter may mark his or her vote,
+
+(ii) to identify the answer to which each such space refers, and
+
+(iii) to mark his or her vote on the space the voter has chosen.
+
+(6) A notice in the form set out in Form 12 in Part 2 of this Schedule, giving directions for the guidance of the voters in voting, must be printed in conspicuous characters and exhibited inside and outside every polling station.
+
+(7) In every compartment of every polling station there must be exhibited the notice—
+
+> Mark one box only. Put no other mark on the ballot paper, or your vote may not be counted
+
+.
+
+(8) The reference in paragraph (3)(b) to the copies of a register of electors includes a reference to copies of any notices issued under section 13B(3B) or (3D) or 13BA(9) of the 1983 Act in respect of alterations to the register.
+
+##### Appointment of polling and counting agents
+
+**18** (1) A referendum agent may, before the commencement of the poll, appoint—
+
+(a) polling agents to attend at polling stations for the purpose of detecting personation;
+
+(b) counting agents to attend at the counting of the votes.
+
+(2) A referendum agent may, for each count, designate one counting agent as a person authorised to require a re-count under rule 41.
+
+A designation under this paragraph must be made at the same time as the person's appointment as a counting agent.
+
+(3) In paragraph (2) “count” includes a re-count and “re-count” includes a further re-count.
+
+(4) The counting officer may limit the number of counting agents that may be appointed, so long as—
+
+(a) the number that may be appointed by each referendum agent is the same, and
+
+(b) the number that may be appointed by each referendum agent is not (except in special circumstances) less than the number obtained by dividing the number of clerks employed on the counting by the number of referendum agents.
+
+(5) For the purposes of paragraph (4)(b), a counting agent appointed by more than one referendum agent is to be treated as a separate agent for each of them.
+
+(6) A referendum agent who appoints a polling or counting agent must give the counting officer notice of the appointment by no later than the 5th day before the day of the poll.
+
+(7) If a polling or counting agent dies, or becomes incapable of acting, the referendum agent may appoint another agent and must give the counting officer notice of the new appointment as soon as practicable.
+
+(8) If a referendum agent designates a counting agent under paragraph (2) the notice under paragraph (6) or (7) must include notice of that fact.
+
+(9) A notice under paragraph (6) or (7)—
+
+(a) must be in writing, and
+
+(b) must give the name and address of the appointee.
+
+(10) In the following provisions of these rules, references to polling agents and counting agents are to be read as references to polling or counting agents appointed under paragraph (1) or (7)—
+
+(a) whose appointments have been duly made and notified, and
+
+(b) where the number of agents is restricted, who are within the permitted numbers.
+
+(11) Any notice required to be given to a counting agent by the counting officer may be delivered at, or sent by post to, the address stated in the notice of appointment.
+
+(12) A referendum agent may do or assist in doing anything that a polling or counting agent appointed by him or her is authorised to do; and anything required or authorised by these rules to be done in the presence of the polling or counting agents may be done in the presence of a referendum agent instead of his or her polling or counting agents.
+
+(13) Where by these rules anything is required or authorised to be done in the presence of the polling or counting agents, the non-attendance of any agent or agents at the time and place appointed for the purpose does not invalidate the thing (if the thing is otherwise duly done).
+
+##### Notification of requirement of secrecy
+
+**19** The counting officer must make whatever arrangements the officer thinks are appropriate to ensure that—
+
+(a) every person attending at a polling station (otherwise than for the purpose of voting, or assisting a voter with disabilities to vote, or as a constable on duty there) has been given a copy in writing of the provisions of subsections (1), (3) and (6) of section 66 of the 1983 Act as modified by Schedule 4;
+
+(b) every person attending at the counting of the votes (other than any constable on duty at the counting) has been given a copy in writing of the provisions of subsections (2) and (6) of that section as so modified.
+
+##### Return of postal ballot papers
+
+**20** (1) Where—
+
+(a) a postal vote has been returned in respect of a person who is entered in the postal voters list, or
+
+(b) a proxy postal vote has been returned in respect of a proxy who is entered in the proxy postal voters list,
+
+the counting officer must mark the list in the manner prescribed by the relevant postal voting provisions.
+
+(2) Rule 40 (3) and (4) does not apply for the purpose of determining whether, for the purposes of this rule, a postal vote or a proxy postal vote is returned.
+
+#### The poll
+
+##### Admission to polling station
+
+**21** (1) The presiding officer must exclude from the polling station everyone except—
+
+(a) voters,
+
+(b) persons under the age of 18 who accompany voters to the polling station,
+
+(c) the Chief Counting Officer, the Regional Counting Officer (in the case of a polling station in a region for which a Regional Counting Officer is appointed) and the counting officer,
+
+(d) the referendum agents,
+
+(e) the polling agents appointed to attend at the polling station,
+
+(f) the clerks appointed to attend at the polling station,
+
+(g) persons who are entitled to attend by virtue of any of sections 6A to 6D of the 2000 Act,
+
+(h) the constables on duty, and
+
+(i) the companions of voters with disabilities attending at the polling station.
+
+(2) The presiding officer must regulate the total number of voters and persons under the age of 18 who accompany them to be admitted to the polling station at the same time.
+
+(3) No more than one polling agent may be admitted at the same time to a polling station on behalf of the same referendum agent.
+
+(4) A constable or person employed by a counting officer may be admitted to vote in person elsewhere than at the polling station allotted under these rules only on production and surrender of a certificate (in these rules referred to as a “certificate as to employment on duty on the day of the poll”) that—
+
+(a) confirms that the person is a constable or, as the case may be, is employed by a counting officer,
+
+(b) is in the form set out in Form 13 in Part 2 of this Schedule, and
+
+(c) is signed by an officer of police of or above the rank of inspector or, as the case may be, by the counting officer.
+
+(5) A certificate surrendered under this rule must be cancelled immediately.
+
+##### Keeping of order in polling station
+
+**22** (1) It is the presiding officer's duty to keep order at the officer's polling station.
+
+(2) If a person engages in misconduct in a polling station or fails to obey the presiding officer's lawful orders, the person may immediately, by the presiding officer's order, be removed from the polling station—
+
+(a) by a constable in or near that station, or
+
+(b) by any other person authorised in writing by the counting officer to discharge this function.
+
+(3) A person so removed may not, without the presiding officer's permission, re-enter the polling station that day.
+
+(4) The powers conferred by this rule may not be exercised so as to prevent a voter who is otherwise entitled to vote at a polling station from having an opportunity to vote at that station.
+
+##### Sealing of ballot boxes
+
+**23** (1) Immediately before the commencement of the poll, the presiding officer must show anyone present in the polling station that the ballot box is empty.
+
+(2) The presiding officer must then–
+
+(a) lock the box (if it has a lock) and place his or her seal on it in a manner that prevents it from being opened without breaking the seal, and
+
+(b) place the box in his or her view for the receipt of ballot papers, and keep it so locked (if it has a lock) and sealed.
+
+##### Questions to be put to voters
+
+**24** (1) At the time of the application (but not afterwards), the questions specified in the second column of the table—
+
+(a) may be put by the presiding officer to a person who is mentioned in the first column, and
+
+(b) must be put if the letter “R” appears after the question and a referendum or polling agent requires the question to be put.
+
+<table>
+<tbody>
+<tr><th colspan="2"><i>Person applying for ballot paper</i></th><th><i>Questions</i></th></tr>
+<tr><td>1</td><td>A person applying as an elector</td><td>(a) “Are you the person registered in the register of electors as follows (<i>read out the whole entry from the register</i>)?” [R] (b) “Have you already voted in the referendum on the voting system for United Kingdom parliamentary elections, here or elsewhere, otherwise than as proxy for some other person?” [R] (c) In Northern Ireland, “What is your date of birth?”</td></tr>
+<tr><td>2</td><td>A person applying as proxy</td><td>(a) “Are you the person whose name appears as A B in the list of proxies for the referendum on the voting system for United Kingdom parliamentary elections as entitled to vote as proxy on behalf of C D?” [R] (b) “Have you already voted in the referendum on the voting system for United Kingdom parliamentary elections, here or elsewhere, as proxy on behalf of C D?” [R] (c) “Are you the spouse, civil partner, parent, grandparent, brother/sister, child or grandchild of C D?” [R]</td></tr>
+<tr><td>3</td><td>A person applying in England and Wales or Scotland as proxy for an elector with an anonymousentry (instead of the questions at entry 2)</td><td>(a) “Are you the person entitled to vote as proxy on behalf of the elector whose number on the register of electors is (<i>read out the number from the register</i>)?” [R] (b) “Have you already voted in the referendum on the voting system for United Kingdom parliamentary elections, here or elsewhere, as proxy on behalf of the elector whose number on the register of electors is (<i>read out the number from the register</i>)?” [R] (c) “Are you the spouse, civil partner, parent, grandparent, brother/sister, child or grandchild of the person whose number on the register of electors is (<i>read out the number from the register</i>)?” [R]</td></tr>
+<tr><td>4</td><td>Person applying as proxy if the question at entry 2(c), or 3(c) (if applicable), is not answered in the affirmative</td><td>“Have you already voted in the referendum on the voting system for United Kingdom parliamentary elections on behalf of two persons of whom you are not the spouse, civil partner, parent, grand-parent, brother/sister, child or grandchild?” [R]</td></tr>
+<tr><td>5</td><td>A person applying as an elector in relation to whomthere is an entry in the postal voters list</td><td>(a) “Did you apply to vote by post?” (b) “Why have you not voted by post?”</td></tr>
+<tr><td>6</td><td>A person applying as proxy who is named in the proxy postal voters list</td><td>(a) “Did you apply to vote by post as proxy?” (b) “Why have you not voted by post as proxy?”</td></tr>
+</tbody>
+</table>
+
+(2) In the case of a voter in respect of whom a notice has been issued under section 13B(3B) or (3D) or 13BA(9) of the 1983 Act, references in the table to reading from the register are to be read as references to reading from that notice.
+
+(3) A ballot paper must not be delivered to any person required to answer any of the above questions unless the person has answered each question satisfactorily.
+
+(4) Except as authorised by this rule, no inquiry is permitted as to the right of any person to vote.
+
+##### Challenge of voter
+
+**25** A person is not to be prevented from voting by reason only that—
+
+(a) a referendum or polling agent declares that there is reasonable cause to believe that the person has committed an offence of personation, or
+
+(b) the person is arrested on suspicion of committing or of being about to commit an offence of personation.
+
+##### Voting procedure
+
+**26** A ballot paper must be delivered to a voter who applies for one, subject to any provision of these rules to the contrary.
+
+**27** (1) In Northern Ireland a ballot paper must not be delivered to a voter unless the voter has produced a specified document to the presiding officer or a clerk.
+
+(2) A clerk or presiding officer in Northern Ireland to whom a specified document is produced must not deliver a ballot paper to the voter if the clerk or officer decides that—
+
+(a) the document raises a reasonable doubt as to whether the voter is the elector or proxy he or she claims to be, or
+
+(b) the apparent age of the voter as compared with the date of birth supplied in pursuance of section 10(4A)(b), 10A(1A)(b) or 13A(2A)(b) of the 1983 Act raises a reasonable doubt as to whether the voter is the elector or proxy he or she claims to be.
+
+(3) Where such a decision is made by a clerk, the clerk must refer the case to the presiding officer, who must deal with it under this rule as if the specified document had been produced to the officer in the first place.
+
+(4) For the purposes of this rule a specified document is one that for the time being falls within the following list—
+
+(a) a licence to drive a motor vehicle if the licence bears the photograph of the person to whom it is issued;
+
+(b) a passport issued by the Government of the United Kingdom or by the Government of the Republic of Ireland;
+
+(c) an electoral identity card, issued under section 13C of the 1983 Act;
+
+(d) a Senior SmartPass issued under the Northern Ireland Concessionary Fares Scheme for use from 1st May 2002;
+
+(e) a Blind Person's SmartPass, issued under the Northern Ireland Concessionary Fares Scheme for use from 1st May 2002;
+
+(f) a War Disabled SmartPass, issued under the Northern Ireland Concessionary Fares Scheme for use from 1st May 2002;
+
+(g) a 60+ SmartPass issued under the Northern Ireland Concessionary Fares Scheme for use from 1st October 2008.
+
+(5) In paragraph (4)(a) “licence to drive a motor vehicle” means a licence granted under—
+
+(a) Part 3 of the Road Traffic Act 1972 or Part 3 of the Road Traffic Act 1988,
+
+(b) the Road Traffic (Northern Ireland) Order 1981, or
+
+(c) any corresponding enactment for the time being in force,
+
+and includes a Community licence within the meaning of those enactments.
+
+(6) References in this rule to producing a document are to producing it for inspection.
+
+**28** (1) This rule applies where there is a duty to deliver a ballot paper to a voter under rule 26.
+
+(2) Immediately before delivery of the ballot paper—
+
+(a) the number and (unless paragraph (3) applies) name of the elector as stated in the copy of the register of electors must be called out;
+
+(b) the number of the elector must be marked on the list mentioned in rule 17(3)(d) beside the number of the ballot paper to be issued to the elector;
+
+(c) a mark must be placed in the register of electors against the number of the elector to note that a ballot paper has been received but without showing the particular ballot paper which has been received;
+
+(d) in the case of a person applying for a ballot paper as proxy, a mark must also be placed against the person's name in the list of proxies.
+
+(3) An elector who has an anonymous entry must show the presiding officer his or her official poll card and only the number is to be called out in pursuance of paragraph (2)(a).
+
+(4) In the case of an elector who is added to the register in pursuance of a notice issued under section 13B(3B) or (3D) or 13BA(9) of the 1983 Act—
+
+(a) the reference in paragraph (2)(a) to the copy of the register of electors is to be read as a reference to the copy of the notice;
+
+(b) the reference in paragraph (2)(c) to a mark being placed in the register of electors is to be read as a reference to a mark being made on the copy of the notice.
+
+**29** (1) Immediately after receiving a ballot paper the voter must—
+
+(a) proceed into one of the compartments in the polling station and there secretly mark the paper and fold it up so as to conceal the vote, and then
+
+(b) show to the presiding officer the back of the paper, so as to disclose the number and other unique identifying mark, and put the ballot paper so folded up into the ballot box in the presiding officer's presence.
+
+(2) The voter must vote without undue delay, and must leave the polling station as soon as he or she has put the ballot paper into the ballot box.
+
+##### Votes marked by presiding officer
+
+**30** (1) This rule applies where a voter applies to the presiding officer to mark the voter's ballot paper and the voter—
+
+(a) is incapacitated by blindness or other disability from voting in the manner directed by these rules, or
+
+(b) declares orally that he or she is unable to read.
+
+(2) The presiding officer must, in the presence of the polling agents—
+
+(a) cause the voter's vote to be marked on a ballot paper in the manner directed by the voter, and
+
+(b) cause the ballot paper to be placed in the ballot box,
+
+but in Northern Ireland this is subject to paragraph (3).
+
+(3) In the case of a voter who makes an application in Northern Ireland under this rule, rule 27 applies as if the references to delivering a ballot paper were references to causing the voter's vote to be marked on the ballot paper.
+
+(4) The name of every voter whose vote is marked in pursuance of this rule must be entered on a list (in these rules called “the list of votes marked by the presiding officer”), together with—
+
+(a) the voter's number on the register of electors, and
+
+(b) the reason for the vote being marked in pursuance of this rule.
+
+(5) In the case of a person voting as proxy for an elector, the number to be entered together with the voter's name is the elector's number.
+
+(6) In the case of a person in respect of whom a notice has been issued under section 13B(3B) or (3D) or 13BA(9) of the 1983 Act, the reference in paragraph (4)(a) to the voter's number on the register of electors is to be read as a reference to the number relating to the voter on the notice.
+
+##### Voting by people with disabilities
+
+**31** (1) Paragraph (2) applies where a voter applies to the presiding officer, on the ground of blindness or other disability or inability to read, to be allowed to vote with the assistance of an accompanying person (in these rules referred to as the “companion”).
+
+(2) The presiding officer must grant the application if—
+
+(a) the voter makes an oral or written declaration that he or she is so incapacitated by blindness or other disability, or by an inability to read, as to be unable to vote without assistance,
+
+(b) the presiding officer is satisfied that the voter is so incapacitated, and
+
+(c) the presiding officer is satisfied by a written declaration made by the companion (in these rules referred to as “the declaration made by the companion of a voter with disabilities”) that the companion—
+
+(i) is a person qualified to assist the voter, and
+
+(ii) has not previously assisted more than one voter with disabilities to vote in the referendum,
+
+but in Northern Ireland this is subject to paragraph (3).
+
+(3) In the case of a voter who makes an application in Northern Ireland under this rule, rule 27 applies as if the references to delivering a ballot paper were references to granting the voter's application.
+
+(4) For the purposes of paragraph (2)(c) a person is qualified to assist a voter with disabilities to vote if the person—
+
+(a) is entitled to vote as an elector in the referendum, or
+
+(b) is the father, mother, brother, sister, spouse, civil partner, son or daughter of the voter and has attained the age of 18 years.
+
+(5) The declaration made by the companion—
+
+(a) must be in the form set out in Form 14 in Part 2 of this Schedule,
+
+(b) must be made before the presiding officer at the time when the voter applies to vote with the assistance of the companion, and
+
+(c) must be given immediately to the presiding officer,
+
+and the presiding officer must attest and retain the declaration.
+
+(6) No fee or other payment may be charged in respect of the declaration.
+
+(7) If the presiding officer grants an application under this rule, anything which is by these rules required to be done to or by the voter in connection with the giving of his or her vote may be done to, or with the assistance of, the companion.
+
+(8) The name of every voter whose vote is given in accordance with this rule must be entered on a list (in these rules referred to as “the list of voters with disabilities assisted by companions”) together with—
+
+(a) the voter's number on the register of electors, and
+
+(b) the name and address of the companion.
+
+(9) In the case of a person voting as proxy for an elector, the number to be entered together with the voter's name is the elector's number.
+
+(10) In the case of a person in respect of whom a notice has been issued under section 13B(3B) or (3D) or 13BA(9) of the 1983 Act, the reference in paragraph (8)(a) to the voter's number on the register of electors is to be read as a reference to the number relating to the voter on the notice.
+
+(11) For the purposes of these rules a person is a voter with disabilities if the person has made a declaration under this rule.
+
+##### Tendered ballot papers
+
+**32** (1) In the following cases a person is entitled to mark a ballot paper (a “tendered ballot paper”) in the same manner as any other voter if—
+
+(a) in cases 1 to 7, the person satisfactorily answers the questions permitted by law to be asked at the poll;
+
+(b) in case 8, the person satisfactorily answers the questions permitted by law to be asked at the poll other than the question at entry 1(c) in the table in rule 24.
+
+Rule 33 makes further provision about tendered ballot papers.
+
+(2) Case 1 is that—
+
+(a) a person applies for a ballot paper,
+
+(b) the person claims—
+
+(i) to be a particular elector named on the register, and
+
+(ii) not to be named in the postal voters list or the list of proxies,
+
+and
+
+(c) another person has already voted in person either as that elector or as proxy for that elector.
+
+(3) Case 2 is that—
+
+(a) a person applies for a ballot paper,
+
+(b) the person claims to be—
+
+(i) a particular person named in the list of proxies as proxy for an elector, and
+
+(ii) not entitled to vote by post as proxy,
+
+and
+
+(c) another person has already voted in person either as that elector or as proxy for that elector.
+
+(4) Rule 27 applies in relation to a voter in Northern Ireland who seeks to mark a tendered ballot paper in reliance on Case 1 or 2 as it applies in relation to a voter who applies for a ballot paper under rule 26.
+
+(5) Case 3 is that—
+
+(a) a person applies for a ballot paper,
+
+(b) the person claims to be a particular elector named on the register,
+
+(c) the person is also named in the postal voters list, and
+
+(d) the person claims not to have made an application to vote by post.
+
+(6) Case 4 is that—
+
+(a) a person applies for a ballot paper,
+
+(b) the person claims to be a particular person named as a proxy in the list of proxies,
+
+(c) the person is also named in the proxy postal voters list, and
+
+(d) the person claims not to have made an application to vote by post as proxy.
+
+(7) Case 5 is that, before the close of the poll but after the last time at which a person may apply for a replacement postal ballot paper—
+
+(a) a person claims to be a particular elector named on the register and also named in the postal voters list, and
+
+(b) the person claims to have lost or not received the postal ballot paper.
+
+(8) Case 6 is that, before the close of the poll but after the last time at which a person may apply for a replacement postal ballot paper—
+
+(a) a person claims to be a particular person named as a proxy in the list of proxies and also named in the proxy postal voters list, and
+
+(b) the person claims to have lost or not received the postal ballot paper.
+
+(9) Case 7 is that—
+
+(a) a person applies for a ballot paper in Northern Ireland, and
+
+(b) there has been a refusal under paragraph (2) of rule 27 (including that paragraph as applied by rule 30 or 31 or this rule) by a presiding officer.
+
+(10) Case 8 is that—
+
+(a) a person applies for a ballot paper in Northern Ireland, and
+
+(b) the person fails to answer the question at entry 1(c) in the table in rule 24 satisfactorily.
+
+(11) In the case of an elector who has an anonymous entry, the references in this rule to a person named on a register or list are to be read as references to a person whose number appears on the register or list (as the case may be).
+
+(12) In the case of a person in respect of whom a notice has been issued under section 13B(3B) or (3D) or 13BA(9) of the 1983 Act, the references in this rule to a person named on the register are to be read as references to a person in respect of whom such a notice has been issued.
+
+**33** (1) Tendered ballot papers must be a different colour from the other ballot papers.
+
+(2) A person in Northern Ireland who marks a tendered ballot paper in reliance on Case 7 or 8 in rule 32 must sign the paper, unless it is marked after an application was refused under rule 30 or 31.
+
+(3) If a tendered ballot paper is required to be signed under paragraph (2) and the paper is not signed, the paper is void.
+
+(4) Tendered ballot papers must be given to the presiding officer instead of being put into the ballot box.
+
+(5) On receiving a tendered ballot paper from a voter the presiding officer must endorse it with the voter's name and number on the register of electors.
+
+(6) The presiding officer must set tendered ballot papers aside in a separate packet.
+
+(7) The name and number on the register of electors of every voter whose vote is marked in pursuance of rule 32 must be entered on a list (in these rules referred to as the “tendered votes list”).
+
+(8) In the case of a person voting as proxy for an elector, the number to be endorsed or entered together with the voter's name is the elector's number.
+
+(9) In the case of an elector who has an anonymous entry, the references in paragraphs (5) and (7) to the name of the voter are to be ignored.
+
+(10) In the case of a person in respect of whom a notice has been issued under section 13B(3B) or (3D) or 13BA(9) of the 1983 Act, the references in paragraphs (5) and (7) to the voter's number on the register of electors are to be read as references to the number relating to the voter on the notice.
+
+##### Refusal to deliver ballot paper
+
+**34** A decision by a presiding officer taken under paragraph (2) of rule 27, including that paragraph as applied by rule 30, 31 or 32, is final (except that it is subject to review in proceedings brought by an application for judicial review).
+
+##### Spoilt ballot papers
+
+**35** (1) This rule applies if a voter has inadvertently dealt with his or her ballot paper in a manner which means that it cannot conveniently be used as a ballot paper and—
+
+(a) the voter delivers the ballot paper (in these rules referred to as “a spoilt ballot paper”) to the presiding officer, and
+
+(b) proves the fact of the inadvertence to the satisfaction of the officer.
+
+(2) The voter may obtain a replacement ballot paper and the spoilt ballot paper must be cancelled immediately.
+
+##### Correction of errors on day of poll
+
+**36** The presiding officer must keep a list of persons to whom ballot papers are delivered in consequence of an alteration to the register made by virtue of section 13B(3B) or (3D) or 13BA(9) of the 1983 Act that takes effect on the day of the poll.
+
+##### Adjournment of poll in case of riot
+
+**37** (1) Where the proceedings at a polling station are interrupted or obstructed by riot or open violence, the presiding officer must adjourn the proceedings till the following day and must give notice to the counting officer as soon as practicable.
+
+(2) Where the poll is adjourned at a polling station—
+
+(a) the hours of polling on the day to which it is adjourned must be the same as for the original day, and
+
+(b) references in these rules to the close of the poll are to be read accordingly.
+
+##### Procedure on close of poll
+
+**38** (1) As soon as practicable after the close of the poll, the presiding officer must, in the presence of any polling agents, make up into separate packets—
+
+(a) each ballot box in use at the station, sealed so as to prevent the introduction of additional ballot papers and unopened, but with the key (if any) attached;
+
+(b) the unused and spoilt ballot papers placed together;
+
+(c) the tendered ballot papers;
+
+(d) the marked copies of the registers of electors (including any marked copy notices issued under section 13B(3B) or (3D) or 13BA(9) of the 1983 Act) and of the list of proxies;
+
+(e) the lists prepared under rule 6, including the parts that were completed in accordance with rule 28(2)(b) (together referred to in these rules as “the completed corresponding number lists”);
+
+(f) the certificates as to employment on duty on the day of the poll;
+
+(g) the tendered votes list, the list of voters with disabilities assisted by companions, the list of votes marked by the presiding officer, a statement of the number of voters whose votes are so marked by the presiding officer under the heads “disability” and “unable to read”, the list maintained under rule 36, and the declarations made by the companions of voters with disabilities.
+
+(2) The marked copies of the registers of electors (including any marked copy notices issued under section 13B(3B) or (3D) or 13BA(9) of the 1983 Act) and of the list of proxies must be in one packet and must not be in the same packet as the completed corresponding number lists or the certificates as to employment on duty on the day of the poll.
+
+(3) The packets must be sealed with—
+
+(a) the presiding officer's seal, and
+
+(b) the seals of any polling agents who want to affix their seals.
+
+(4) The presiding officer must deliver the packets, or cause them to be delivered, to the counting officer to be taken charge of by that officer.
+
+(5) If the packets are not delivered by the presiding officer personally to the counting officer, their delivery must be in accordance with arrangements approved by the counting officer.
+
+(6) The packets must be accompanied by a statement (in these rules referred to as “the ballot paper account”) made by the presiding officer showing the number of ballot papers entrusted to him or her, and accounting for them under the following heads—
+
+(a) ballot papers issued and not otherwise accounted for,
+
+(b) unused ballot papers,
+
+(c) spoilt ballot papers, and
+
+(d) tendered ballot papers.
+
+#### Counting of votes
+
+##### Attendance at the count
+
+**39** (1) The counting officer must make arrangements for counting the votes in the presence of the counting agents as soon as practicable after the close of the poll.
+
+(2) The counting officer must give the counting agents notice in writing of the time and place at which the counting of votes will begin.
+
+(3) A person may be present at the counting of the votes only if—
+
+(a) the person falls within paragraph (4), or
+
+(b) the person is permitted by the counting officer to attend.
+
+(4) The persons within this paragraph are—
+
+(a) the Chief Counting Officer, the Regional Counting Officer (where the voting area is in a region for which a Regional Counting Officer is appointed) and the counting officer;
+
+(b) the counting officer's clerks;
+
+(c) the referendum agents;
+
+(d) the counting agents;
+
+(e) persons who are entitled to attend by virtue of any of sections 6A to 6D of the 2000 Act.
+
+(5) The counting officer may give a person permission under paragraph (3)(b) only if—
+
+(a) the officer is satisfied that the person's attendance will not impede the efficient counting of the votes, and
+
+(b) the officer has consulted the referendum agents or thought it impracticable to do so.
+
+(6) The counting officer must give the counting agents—
+
+(a) whatever reasonable facilities for overseeing the proceedings, and
+
+(b) whatever information with respect to the proceedings,
+
+the officer can give them consistently with the orderly conduct of the proceedings and the discharge of the officer's duties.
+
+(7) In particular, where the votes are counted by sorting the ballot papers according to the answer for which the vote is given and then counting the number of ballot papers for each answer, the counting agents are entitled to satisfy themselves that the ballot papers are correctly sorted.
+
+##### The count
+
+**40** (1) The counting officer must—
+
+(a) in the presence of the counting agents open each ballot box and count and record the number of ballot papers in it;
+
+(b) in the presence of the referendum agents verify each ballot paper account;
+
+(c) count the postal ballot papers that have been duly returned and record the number counted.
+
+(2) The counting officer must not count the votes given on any ballot papers until—
+
+(a) in the case of postal ballot papers, they have been mixed with the ballot papers from at least one ballot box;
+
+(b) in the case of ballot papers from a ballot box, they have been mixed with the ballot papers from at least one other ballot box.
+
+(3) In England a postal ballot paper is not to be taken to be duly returned unless—
+
+(a) it is returned in the manner prescribed by the relevant postal voting provisions and reaches the counting officer or a polling station in the appropriate area before the close of the poll,
+
+(b) the postal voting statement, duly signed, is also returned in the manner prescribed by the relevant postal voting provisions and reaches the counting officer or polling station before that time,
+
+(c) the postal voting statement also states the date of birth of the elector or proxy (as the case may be), and
+
+(d) in a case where an elector's or proxy's date of birth and signature are to be verified in accordance with the relevant postal voting provisions, the counting officer verifies the date of birth and signature of the elector or proxy (as the case may be).
+
+In paragraph (a) “the appropriate area” means the voting area containing the address in respect of which the elector is registered.
+
+(4) In Northern Ireland a postal ballot paper is not to be taken to be duly returned unless—
+
+(a) it is returned in the proper envelope so as to reach the counting officer before the close of the poll and is accompanied by the declaration of identity duly signed and authenticated, and
+
+(b) in the case of an elector, the declaration of identity states the elector's date of birth and the counting officer is satisfied that the date stated corresponds with the date supplied as the elector's date of birth in pursuance of section 10(4A)(b), 10A(1A)(b) or 13A(2A)(b) of the 1983 Act.
+
+(5) In the case of an elector in Northern Ireland, unless section 10(4B), 10A(1B) or 13A(2B) of the 1983 Act applies, the declaration of identity referred to in paragraph (4) is not to be taken to be duly signed unless the counting officer is satisfied that the signature on the declaration corresponds with the signature supplied as the elector's signature in pursuance of section 10(4A)(a), 10A(1A)(a) or 13A(2A)(a) of that Act.
+
+(6) The counting officer must not count any tendered ballot papers.
+
+(7) The counting officer, while counting and recording the number of ballot papers and counting the votes, must—
+
+(a) keep the ballot papers with their faces upwards, and
+
+(b) take all proper precautions for preventing anyone from seeing the numbers or other unique identifying marks printed on the back of the papers.
+
+(8) The counting officer must—
+
+(a) verify each ballot paper account by comparing it with the number of ballot papers recorded by the officer, and the unused and spoilt ballot papers in the officer's possession and the tendered votes list (opening and resealing the packets containing the unused and spoilt ballot papers and the tendered votes list);
+
+(b) draw up a statement as to the result of the verification.
+
+(9) Any counting agent present at the verification may copy the statement drawn up under paragraph (8)(b).
+
+(10) Once the statement is drawn up the counting officer must—
+
+(a) in the case of a voting area in a region for which a Regional Counting Officer is appointed, inform the Regional Counting Officer of the contents of the statement;
+
+(b) in the case of any other voting area, inform the Chief Counting Officer of the contents of the statement.
+
+(11) The counting officer must so far as practicable proceed continuously with the counting of votes, allowing only time for refreshment, except that—
+
+(a) the officer may, with the agreement of the counting agents, exclude the whole or any part of the period between 7 pm and 9 am on the next day;
+
+(b) the officer may exclude a day mentioned in rule 2(1).
+
+(12) During the time so excluded the counting officer must—
+
+(a) place the ballot papers and other documents relating to the referendum under the officer's own seal and the seals of any of the counting agents who want to affix their seals, and
+
+(b) otherwise take proper precautions for the security of the papers and documents.
+
+(13) For the purposes of paragraph (11)(a) the agreement of a referendum agent is effective as the agreement of his or her counting agents.
+
+##### Re-count
+
+**41** (1) A person within paragraph (2) who is present at the completion of the counting (or any re-count) of the votes in a voting area may require the counting officer to have the votes for that area re-counted (or again re-counted), but the counting officer may refuse to do so if in the officer's opinion the requirement is unreasonable.
+
+(2) The persons within this paragraph are—
+
+(a) referendum agents;
+
+(b) counting agents who, in relation to the count (or re-count), are designated under rule 18(2).
+
+(3) No step is to be taken on the completion of the counting (or any re-count) of the votes until the persons within paragraph (2) present at its completion have been given a reasonable opportunity to exercise the right conferred by this rule.
+
+(4) A counting officer may not conduct a re-count once a direction has been given under rule 43(3)(b).
+
+##### Rejected ballot papers
+
+**42** (1) Any ballot paper—
+
+(a) that does not bear the official mark, or
+
+(b) on which a vote is given for both answers to the referendum question, or
+
+(c) on which anything is written or marked by which the voter can be identified (except the printed number and other unique identifying mark on the back), or
+
+(d) which is unmarked or does not indicate the voter's intention with certainty,
+
+is void and not to be counted.
+
+(2) But a ballot paper on which the vote is marked—
+
+(a) elsewhere than in the proper place, or
+
+(b) otherwise than by means of a cross, or
+
+(c) by more than one mark,
+
+is not to be treated as void for that reason if the voter's intended answer to the referendum question is apparent, and the way the paper is marked does not itself identify the voter and it is not shown that the voter can be identified by it.
+
+(3) The counting officer must endorse the word “rejected” on any ballot paper which under this rule is not to be counted, and must add to the endorsement the words “rejection objected to” if an objection is made by a counting agent to the officer's decision.
+
+(4) The counting officer must draw up a statement showing the number of ballot papers rejected under each of the following heads—
+
+(a) no official mark;
+
+(b) both answers voted for;
+
+(c) writing or mark by which voter could be identified;
+
+(d) unmarked or void for uncertainty.
+
+(5) Once the statement is drawn up the counting officer must—
+
+(a) in the case of a voting area in a region for which a Regional Counting Officer is appointed, inform the Regional Counting Officer of the contents of the statement;
+
+(b) in the case of any other voting area, inform the Chief Counting Officer of the contents of the statement.
+
+(6) Where two or more forms of ballot paper are used in the referendum, the counting officer must prepare a separate statement under paragraph (4) in relation to each form of ballot paper used.
+
+##### Direction to conduct re-count
+
+**43** (1) On the completion of the counting of the votes (including any re-count under rule 41), and on the completion of any re-count under this rule, the counting officer must draw up a statement showing—
+
+(a) the total number of ballot papers counted, and
+
+(b) the number of votes cast in favour of each answer to the question asked in the referendum.
+
+(2) Once the statement is drawn up the counting officer must—
+
+(a) in the case of a voting area in a region for which a Regional Counting Officer is appointed, inform the Regional Counting Officer of the contents of the statement;
+
+(b) in the case of any other voting area, inform the Chief Counting Officer of the contents of the statement.
+
+(3) The Regional Counting Officer or Chief Counting Officer must then either—
+
+(a) direct the counting officer to have the votes re-counted, or
+
+(b) direct the counting officer to make the certification under section 128(5) of the 2000 Act.
+
+(4) The Regional Counting Officer or Chief Counting Officer may give a direction under paragraph (3)(a) only if the officer thinks that there is reason to doubt the accuracy of the counting of the votes in the counting officer's voting area.
+
+(5) A counting officer who is given a direction under paragraph (3)(a) must—
+
+(a) begin the re-count as soon as practicable, and
+
+(b) if the officer does not begin the re-count immediately, notify the counting agents of the time and place at which it will take place.
+
+(6) A counting officer may not make the certification under section 128(5) of the 2000 Act until directed to do so under paragraph (3)(b).
+
+##### Decisions on ballot papers
+
+**44** The decision of the counting officer on any question arising in respect of a ballot paper is final (subject to review in accordance with paragraph 23 of Schedule 1).
+
+#### Final proceedings
+
+##### Declaration by counting officers
+
+**45** (1) This rule applies to the counting officer for a voting area in a region for which a Regional Counting Officer is appointed.
+
+(2) After making the certification under section 128(5) of the 2000 Act, the counting officer must—
+
+(a) immediately give to the Regional Counting Officer notice of the matters certified;
+
+(b) as soon as practicable give to the Regional Counting Officer notice of the number of rejected ballot papers under each head shown in the statement of rejected ballot papers.
+
+(3) When authorised to do so by the Regional Counting Officer, the counting officer must—
+
+(a) make a declaration of the matters certified under section 128(5) of the 2000 Act;
+
+(b) give public notice of the matters certified together with the number of rejected ballot papers under each head shown in the statement of rejected ballot papers.
+
+**46** (1) This rule applies to—
+
+(a) the counting officer for Northern Ireland;
+
+(b) the counting officer for a voting area in a region for which no Regional Counting Officer is appointed.
+
+(2) After making the certification under section 128(5) of the 2000 Act, the counting officer must—
+
+(a) immediately give to the Chief Counting Officer notice of the matters certified;
+
+(b) as soon as practicable give to the Chief Counting Officer notice of the number of rejected ballot papers under each head shown in the statement of rejected ballot papers.
+
+(3) When authorised to do so by the Chief Counting Officer, the counting officer must—
+
+(a) make a declaration of the matters certified under section 128(5) of the 2000 Act;
+
+(b) give public notice of the matters certified together with the number of rejected ballot papers under each head shown in the statement of rejected ballot papers.
+
+##### Declaration by Regional Counting Officers
+
+**47** (1) After making the certification under paragraph 5(4) of Schedule 1, a Regional Counting Officer must—
+
+(a) immediately give to the Chief Counting Officer notice of the matters certified;
+
+(b) as soon as practicable give to the Chief Counting Officer notice of the number of rejected ballot papers for the region under each head shown in the statements of rejected ballot papers.
+
+(2) When authorised to do so by the Chief Counting Officer, a Regional Counting Officer must—
+
+(a) make a declaration of the matters certified under paragraph 5(4) of Schedule 1;
+
+(b) give public notice of the matters certified together with the number of rejected ballot papers for the region under each head shown in the statements of rejected ballot papers.
+
+##### Declaration of referendum result by Chief Counting Officer
+
+**48** After making the certification under section 128(6) of the 2000 Act, the Chief Counting Officer must—
+
+(a) immediately make a declaration of the matters certified under that provision;
+
+(b) as soon as practicable give public notice of the matters certified together with the number of rejected ballot papers under each head shown in the statement of rejected ballot papers.
+
+#### Disposal of documents
+
+##### Sealing up of ballot papers
+
+**49** (1) On the completion of the counting the counting officer must seal up in separate packets—
+
+(a) the counted ballot papers, and
+
+(b) the rejected ballot papers.
+
+(2) The counting officer may not open the sealed packets of—
+
+(a) tendered ballot papers,
+
+(b) the completed corresponding number lists,
+
+(c) certificates as to employment on duty on the day of the poll, or
+
+(d) marked copies of the registers of electors (including any marked copy notices issued under section 13B(3B) or (3D) or 13BA(9) of the 1983 Act) and lists of proxies.
+
+##### Delivery or retention of documents
+
+**50** (1) The counting officer must endorse on each of the sealed packets a description of its contents and the name of the voting area and must—
+
+(a) in the case of a counting officer for a voting area in England and Wales, forward the documents specified in paragraph (2) to the relevant registration officer;
+
+(b) in the case of a counting officer for a voting area in Scotland or the counting officer for Northern Ireland, retain the documents.
+
+(2) The documents referred to above are—
+
+(a) the packets of ballot papers;
+
+(b) the ballot paper accounts and the statements of—
+
+(i) rejected ballot papers, and
+
+(ii) the result of the verification of the ballot paper accounts;
+
+(c) the tendered votes lists, the lists of voters with disabilities assisted by companions, the lists of votes marked by the presiding officer and the related statements, the lists maintained under rule 36 and the declarations made by the companions of voters with disabilities;
+
+(d) the packets of the completed corresponding number lists;
+
+(e) the packets of certificates as to employment on duty on the day of the poll;
+
+(f) the packets containing marked copies of the registers (including any marked copy notices issued under section 13B(3B) or (3D) or 13BA(9) of the 1983 Act) and marked copies of the postal voters list, of lists of proxies and of the proxy postal voters list;
+
+(g) any other documents prescribed for the purposes of this sub-paragraph by the relevant postal voting provisions.
+
+(3) For the purposes of paragraph (1) the relevant registration officer is—
+
+(a) in relation to a voting area in England or a voting area in Wales that is not within sub-paragraph (b), the registration officer of the local authority in whose area that voting area is situated;
+
+(b) in relation to a voting area in Wales that comprises any part of the area of more than one local authority, the registration officer appointed under section 44(3)(b) of the Electoral Administration Act 2006 in respect of the Assembly constituency that corresponds to that voting area.
+
+(4) In paragraph (3)—
+
+- “local authority” has the same meaning as in paragraph 4 of Schedule 1;
+- “Assembly constituency” means a constituency for the National Assembly for Wales.
+
+##### Orders for production of documents
+
+**51** (1) The High Court or a county court or, in the case of a voting area in Scotland, the Court of Session or the sheriff, may make an order—
+
+(a) for the inspection or production of any rejected ballot papers in the custody of a registration officer or (as the case may be) a counting officer,
+
+(b) for the opening of a sealed packet of the completed corresponding number lists or of certificates as to employment on duty on the day of the poll, or
+
+(c) for the inspection of any counted ballot papers in the officer's custody,
+
+if satisfied by evidence on oath that the order is required for the purpose of instituting or maintaining a prosecution for an offence in relation to ballot papers or for the purpose of proceedings brought as mentioned in paragraph 23 of Schedule 1.
+
+(2) An order under this rule may be made subject to whatever conditions the court or sheriff thinks expedient as to—
+
+(a) persons,
+
+(b) time,
+
+(c) place and mode of inspection, or
+
+(d) production or opening.
+
+(3) In making and carrying into effect an order for the opening of a packet of the completed corresponding number lists or of certificates or for the inspection of counted ballot papers, care must be taken to avoid disclosing the way in which the vote of any particular voter has been given until it has been proved—
+
+(a) that the vote was given, and
+
+(b) that the vote has been declared by a competent court to be invalid.
+
+(4) An appeal lies to the High Court from any order of a county court under this rule, and to the Court of Session from any order of the sheriff under this rule.
+
+(5) A power given under this rule to a court (other than a county court in Northern Ireland) or the sheriff may be exercised by any judge of the court, or by the sheriff, otherwise than in open court.
+
+(6) A power given under this rule to a county court in Northern Ireland may be exercised in whatever manner rules of court provide.
+
+(7) Where an order is made for the production by a registration officer or a counting officer of a document in the officer's possession relating to the referendum—
+
+(a) the production by the officer or the officer's agent of the document ordered in the manner directed by the order is conclusive evidence that the document relates to the referendum;
+
+(b) any endorsement on any packet of ballot papers so produced is prima facie evidence that the ballot papers are what they are stated to be by the endorsement.
+
+(8) The production from proper custody of—
+
+(a) a ballot paper purporting to have been used at the referendum, and
+
+(b) a completed corresponding number list with a number marked in writing beside the number of the ballot paper,
+
+is prima facie evidence that the elector whose vote was given by that ballot paper was the person whose entry on the register of electors (or on a notice issued under section 13B(3B) or (3D) or 13BA(9) of the 1983 Act) at the time of the referendum contained the same number as the number written as mentioned in sub-paragraph (b).
+
+(9) Except as provided by this rule (or a court order) nobody may—
+
+(a) inspect any rejected or counted ballot papers in the possession of a registration officer or counting officer, or
+
+(b) open any sealed packets of the completed corresponding number lists or of certificates.
+
+##### Retention and public inspection of documents
+
+**52** (1) A registration officer or (as the case may be) counting officer must retain for a year all documents relating to the referendum and then, unless otherwise directed by an order of a competent court, must have them destroyed.
+
+(2) For the purposes of paragraph (1) a competent court is—
+
+(a) in relation to a registration officer in England and Wales, the High Court, the Crown Court or a magistrates' court;
+
+(b) in relation to a counting officer in Scotland, the Court of Session;
+
+(c) in relation to the counting officer for Northern Ireland, the High Court.
+
+(3) While documents are retained under paragraph (1) they must be open to public inspection. This does not apply to—
+
+(a) ballot papers;
+
+(b) the completed corresponding number lists;
+
+(c) certificates as to employment on duty on the day of the poll.
+
+(4) The registration officer or (as the case may be) counting officer must, on request, supply to any person copies of or extracts from any description of the documents open to public inspection that is prescribed by the relevant regulations.
+
+(5) A right to inspect or be supplied with a document or part of a document under this rule is subject to—
+
+(a) any conditions imposed by the relevant regulations, and
+
+(b) the payment of any fee required by the relevant regulations.
+
+#### Supplementary
+
+##### Interpretation
+
+**53** In these rules—
+
+- “anonymous entry”, in relation to a register of electors, is to be read in accordance with section 9B of the 1983 Act and “the record of anonymous entries”, means the record prepared in pursuance of regulations made by virtue of paragraph 8A of Schedule 2 to that Act;
+
+- “counting agent” is to be read in accordance with rule 18(10);
+
+- “elector” means a person who is entitled to vote on his or her own behalf in the referendum;
+
+- “list of proxies”—
+
+  - (a) in relation to England and Wales and Scotland, means the list kept under paragraph 5(3) of Schedule 3;
+  - (b) in relation to Northern Ireland, means the list kept under paragraph 16(3) of Schedule 3;
+
+- “polling agent” is to be read in accordance with rule 18(10);
+
+- “postal voters list”—
+
+  - (a) in relation to England and Wales and Scotland, means the list kept under paragraph 5(2) of Schedule 3;
+  - (b) in relation to Northern Ireland, means the list kept under paragraph 16(2) of Schedule 3;
+
+- “presiding officer” is to be read in accordance with rule 14(1) and (2);
+
+- “proxy postal voters list”—
+
+  - (a) in relation to England and Wales and Scotland, means the list kept under paragraph 8(6) of Schedule 3;
+  - (b) in relation to Northern Ireland, means the list kept under paragraph 19(6) of Schedule 3;
+
+- “referendum agent” means a person appointed under paragraph 11 of Schedule 1;
+
+- “the relevant postal voting provisions”—
+
+  - (a) in relation to England, means Part 5 of the Representation of the People (England and Wales) Regulations 2001 (S.I. 2001/341) as applied by Schedule 4 to this Act;
+  - (b) in relation to Wales, means Schedule 3 to the National Assembly for Wales (Representation of the People) Order 2007 (S.I. 2007/236) as applied by Part 2 of Schedule 6 to this Act;
+  - (c) in relation to Scotland, means Schedule 4 to the Scottish Parliament (Elections etc.) Order 2010 (S.I. 2010/2999) as applied by Part 2 of Schedule 7 to this Act;
+  - (d) in relation to Northern Ireland, means Part 5 of the Representation of the People (Northern Ireland) Regulations 2008 (S.I. 2008/1741) as applied by Schedule 4 to this Act;
+
+- “the relevant regulations”—
+
+  - (a) in relation to England and Wales, means the Representation of the People (England and Wales) Regulations 2001 (S.I. 2001/341) as applied by Schedule 4;
+  - (b) in relation to Scotland, means the Representation of the People (Scotland) Regulations 2001 (S.I. 2001/497) as so applied;
+  - (c) in relation to Northern Ireland, means the Representation of the People (Northern Ireland) Regulations 2008 (S.I. 2008/1741) as so applied;
+
+- “voter” means a person voting in the referendum and includes a person voting as proxy and “vote” (whether noun or verb) is be construed accordingly; and a reference to an elector voting or an elector's vote includes a reference to an elector voting by proxy or an elector's vote given by proxy.
+
+### PART 2 — Forms referred to in referendum rules
+
+*Note* - The forms contained in this Part may be adapted so far as circumstances require.
+
+#### FORM 1 - FORM OF BALLOT PAPER
+
+*Rule 5(1)*
+
+![image](http://www.legislation.gov.uk/ukpga/2011/1/images/ukpga_20110001_en_sld_001)
+
+![image](http://www.legislation.gov.uk/ukpga/2011/1/images/ukpga_20110001_en_sld_002)
+
+#### FORM 2 - FORM OF CORRESPONDING NUMBER LIST (TO BE USED IF REFERENDUM TAKEN ALONE)
+
+*Rule 6(2)*
+
+![image](http://www.legislation.gov.uk/ukpga/2011/1/images/ukpga_20110001_en_sld_003)
+
+#### FORM 3 - FORM OF POSTAL VOTING STATEMENT
+
+*Rule 12(1)(b)*
+
+![image](http://www.legislation.gov.uk/ukpga/2011/1/images/ukpga_20110001_en_sld_004)
+
+![image](http://www.legislation.gov.uk/ukpga/2011/1/images/ukpga_20110001_en_sld_005)
+
+#### FORM 4 - DECLARATION OF IDENTITY (NORTHERN IRELAND)
+
+*Rule 12(1)(c)*
+
+![image](http://www.legislation.gov.uk/ukpga/2011/1/images/ukpga_20110001_en_sld_006)
+
+![image](http://www.legislation.gov.uk/ukpga/2011/1/images/ukpga_20110001_en_sld_007)
+
+#### FORM 5 - OFFICIAL POLL CARD (TO BE SENT TO AN ELECTOR NOT VOTING BY POST)
+
+*Rule 15(5)(a)*
+
+![image](http://www.legislation.gov.uk/ukpga/2011/1/images/ukpga_20110001_en_sld_008)
+
+![image](http://www.legislation.gov.uk/ukpga/2011/1/images/ukpga_20110001_en_sld_009)
+
+#### FORM 6 - OFFICIAL POSTAL POLL CARD (TO BE SENT TO AN ELECTOR VOTING BY POST)
+
+*Rule 15(5)(b)*
+
+![image](http://www.legislation.gov.uk/ukpga/2011/1/images/ukpga_20110001_en_sld_010)
+
+![image](http://www.legislation.gov.uk/ukpga/2011/1/images/ukpga_20110001_en_sld_011)
+
+#### FORM 7 - OFFICIAL PROXY POLL CARD (TO BE SENT TO AN APPOINTED PROXY VOTING IN PERSON)
+
+*Rule 15(5)(c)*
+
+![image](http://www.legislation.gov.uk/ukpga/2011/1/images/ukpga_20110001_en_sld_012)
+
+![image](http://www.legislation.gov.uk/ukpga/2011/1/images/ukpga_20110001_en_sld_013)
+
+#### FORM 8 - OFFICIAL PROXY POSTAL POLL CARD (TO BE SENT TO AN APPOINTED PROXY VOTING BY POST)
+
+*Rule 15(5)(d)*
+
+![image](http://www.legislation.gov.uk/ukpga/2011/1/images/ukpga_20110001_en_sld_014)
+
+![image](http://www.legislation.gov.uk/ukpga/2011/1/images/ukpga_20110001_en_sld_015)
+
+#### FORM 9 - OFFICIAL POLL CARD (TO BE SENT TO AN ELECTOR IN NORTHERN IRELAND NOT VOTING BY POST)
+
+*Rule 15(6)(a)*
+
+![image](http://www.legislation.gov.uk/ukpga/2011/1/images/ukpga_20110001_en_sld_016)
+
+![image](http://www.legislation.gov.uk/ukpga/2011/1/images/ukpga_20110001_en_sld_017)
+
+#### FORM 10 - OFFICIAL PROXY POLL CARD (TO BE SENT TO AN APPOINTED PROXY VOTING IN PERSON IN NORTHERN IRELAND)
+
+*Rule 15(6)(b)*
+
+![image](http://www.legislation.gov.uk/ukpga/2011/1/images/ukpga_20110001_en_sld_018)
+
+![image](http://www.legislation.gov.uk/ukpga/2011/1/images/ukpga_20110001_en_sld_019)
+
+#### FORM 11 - FORM OF CORRESPONDING NUMBER LIST (TO BE USED IN POLLING STATIONS IF REFERENDUM TAKEN ALONE)
+
+*Rule 17(3)*
+
+![image](http://www.legislation.gov.uk/ukpga/2011/1/images/ukpga_20110001_en_sld_020)
+
+#### FORM 12 - FORM OF DIRECTIONS FOR THE GUIDANCE OF THE VOTERS IN VOTING
+
+*Rule 17(6)*
+
+![image](http://www.legislation.gov.uk/ukpga/2011/1/images/ukpga_20110001_en_sld_021)
+
+#### FORM 13 - FORM OF CERTIFICATE OF EMPLOYMENT
+
+*Rule 21(4)(b)*
+
+![image](http://www.legislation.gov.uk/ukpga/2011/1/images/ukpga_20110001_en_sld_022)
+
+#### FORM 14 - FORM OF DECLARATION TO BE MADE BY THE COMPANION OF A VOTER WITH DISABILITIES
+
+*Rule 31(5)*
+
+![image](http://www.legislation.gov.uk/ukpga/2011/1/images/ukpga_20110001_en_sld_023)
+
+## SCHEDULE 3 — Absent voting in the referendum
+
+*Section 3*
+
+### PART 1 — Great Britain
+
+#### Interpretation
+
+**1** In this Part of this Schedule—
+
+- “anonymous entry”, in relation to a register of electors, is to be read in accordance with section 9B of the 1983 Act;
+
+- “European Parliamentary Elections Regulations” means the European Parliamentary Elections Regulations 2004 (S.I. 2004/293);
+
+- “peer” means a peer who is a member of the House of Lords;
+
+- “relevant register” means—
+
+  - (a) a register of parliamentary electors, or
+  
+  - (b) in relation to a peer—
+  
+    - (i) a register of local government electors, or
+    - (ii) a register of peers maintained under section 3 of the Representation of the People Act 1985 (peers resident outside the United Kingdom);
+
+- “the relevant regulations”—
+
+  - (a) in relation to England and Wales, means the Representation of the People (England and Wales) Regulations 2001 (S.I. 2001/341) as applied by Schedule 4;
+  - (b) in relation to Scotland, means the Representation of the People (Scotland) Regulations 2001 (S.I. 2001/497) as so applied;
+
+- “the RPA 2000” means the Representation of the People Act 2000.
+
+#### Manner of voting in the referendum
+
+**2** (1) This paragraph applies to determine the manner of voting in England and Wales or Scotland of a person entitled to vote in the referendum.
+
+(2) The person may vote in person at the polling station allotted to him or her under the referendum rules, unless the person is entitled to vote by post or by proxy in the referendum.
+
+(3) The person may vote by post if the person is entitled to vote by post in the referendum.
+
+(4) If the person is entitled to vote by proxy in the referendum, the person may so vote unless, before a ballot paper has been issued for the person to vote by proxy, the person applies at the polling station allotted to him or her under the referendum rules for a ballot paper for the purpose of voting in person, in which case he or she may vote in person there.
+
+(5) If—
+
+(a) the person is not entitled to vote by post or by proxy in the referendum, but
+
+(b) the person cannot reasonably be expected to go in person to the polling station allotted to him or her under the referendum rules by reason of the particular circumstances of his or her employment, either as a constable or by the counting officer, on the date of the poll for a purpose connected with the referendum,
+
+he or she may vote in person at any polling station.
+
+(6) Nothing in this paragraph applies to a person to whom section 7 of the 1983 Act (mental patients who are not detained offenders) applies and who is liable, by virtue of any enactment, to be detained in the mental hospital in question, whether the person is registered by virtue of that provision or not; and such a person may vote—
+
+(a) in person (where the person is granted permission to be absent from the hospital and voting in person does not breach any condition attached to that permission), or
+
+(b) by post or by proxy (where the person is entitled to vote by post or, as the case may be, by proxy in the referendum).
+
+(7) Nothing in this paragraph applies to a person to whom section 7A of the 1983 Act (persons remanded in custody) applies, whether the person is registered by virtue of that provision or not; and such a person may vote only by post or by proxy (where the person is entitled to vote by post or, as the case may be, by proxy in the referendum).
+
+(8) Sub-paragraph (2) does not prevent a person, at the polling station allotted to him or her, marking a tendered ballot paper in pursuance of rule 32 of the referendum rules.
+
+#### Entitlement to vote by post or by proxy
+
+**3** (1) A person entitled to vote in the referendum is entitled to vote by post or by proxy if sub-paragraph (2) or (3) (as the case may be) applies to the person.
+
+(2) This sub-paragraph applies to a person who is shown in the postal voters list mentioned in paragraph 5(2) as entitled to vote by post in the referendum.
+
+(3) This sub-paragraph applies to a person who is shown in the list of proxies mentioned in paragraph 5(3) as entitled to vote by proxy in the referendum.
+
+#### Application to vote by post or by proxy in the referendum
+
+**4** (1) Where a person applies to the registration officer to vote by post in the referendum, the registration officer must grant the application if—
+
+(a) the officer is satisfied that the applicant is or will be registered in a relevant register, and
+
+(b) the application contains the applicant's signature and date of birth and meets the requirements prescribed by the relevant regulations.
+
+(2) Where a person applies to the registration officer to vote by proxy in the referendum, the registration officer must grant the application if—
+
+(a) the officer is satisfied that the applicant's circumstances on the date of the poll will be or are likely to be such that the applicant cannot reasonably be expected to vote in person at the polling station allotted or likely to be allotted to the applicant under the referendum rules,
+
+(b) the officer is satisfied that the applicant is or will be registered in a relevant register, and
+
+(c) the application contains the applicant's signature and date of birth and meets the requirements prescribed by the relevant regulations.
+
+(3) Where a person—
+
+(a) has an anonymous entry in a relevant register, and
+
+(b) applies to the registration officer to vote by proxy in the referendum,
+
+the registration officer must grant the application if it meets the requirements prescribed by the relevant regulations.
+
+(4) Nothing in sub-paragraph (1), (2) or (3) applies to—
+
+(a) a person who is included in the record kept under paragraph 3 of Schedule 4 to the RPA 2000 (absent vote at elections for definite or indefinite period) in respect of parliamentary elections,
+
+(b) a peer who is included in the record kept under paragraph 3 of Schedule 4 to the RPA 2000 (absent vote at elections for definite or indefinite period) in respect of local government elections, or
+
+(c) a peer who is included in the record kept under paragraph 3 of Schedule 2 to the European Parliamentary Elections Regulations (absent vote at elections for definite or indefinite period).
+
+(5) But if a person is included in a record mentioned in sub-paragraph (4)(a), (b) or (c) and is shown in the record as voting by post, the person may, in respect of the referendum, apply to the registration officer—
+
+(a) for his or her ballot paper to be sent to a different address from that shown in the record, or
+
+(b) to vote by proxy.
+
+(6) The registration officer must grant an application under sub-paragraph (5) if—
+
+(a) (in the case of any application) it meets the requirements prescribed by the relevant regulations, and
+
+(b) (in the case of an application to vote by proxy) the registration officer is satisfied that the applicant's circumstances on the date of the poll will be or are likely to be such that the applicant cannot reasonably be expected to vote in person at the polling station allotted or likely to be allotted to the applicant under the referendum rules.
+
+(7) The registration officer may dispense with the requirement under sub-paragraph (1)(b) or (2)(c) for the applicant to provide a signature if the officer is satisfied that the applicant—
+
+(a) is unable to provide a signature because of any disability the applicant has,
+
+(b) is unable to provide a signature because the applicant is unable to read or write, or
+
+(c) is unable to sign in a consistent and distinctive way because of any such disability or inability.
+
+(8) The registration officer must keep a record of those whose applications under this paragraph have been granted, showing—
+
+(a) their dates of birth, and
+
+(b) except in cases where the registration officer in pursuance of sub-paragraph (7) has dispensed with the requirement to provide a signature, their signatures.
+
+(9) The record kept under sub-paragraph (8) must be retained by the registration officer for the period of twelve months beginning with the date of the poll for the referendum.
+
+#### Absent voters lists
+
+**5** (1) The registration officer must, for the purposes of the referendum, keep the two special lists mentioned in sub-paragraphs (2) and (3) respectively.
+
+(2) The first of those lists is a list (“the postal voters list”) of those within column 2 of the following table, together with the addresses provided as mentioned in column 3 as the addresses to which their ballot papers are to be sent.
+
+|  |  |  |
+|---|---|---|
+|  | *Description of person voting by post* | *Address* |
+| 1 | A person whose application under paragraph 4(1) to vote by post in the referendum has been granted. | Address provided in the person's application under paragraph 4(1). |
+| 2 | A person who—<br>- (a) is entitled to vote in the referendum and in a poll that is taken together with the referendum,<br>- (b) is included in the postal voters list for that poll, and<br>- (c) is not within entry 1 in this table or entry 1 in the table in sub-paragraph (3). | Address provided in the application that gave rise to the person being included in the postal voters list or, if the person is included in more than one, the address provided in the latest of those applications. |
+| 3 | A person who—<br>- (a) is for the time being shown in the record kept under paragraph 3 of Schedule 4 to the RPA 2000 as voting by post at parliamentary elections, and<br>- (b) is not within entry 1 or 2 of this table or entry 1 or 2 in the table in sub-paragraph (3). | Address provided in the person's application under paragraph 3 of Schedule 4 to the RPA 2000 or (as the case may be) paragraph 4(5)(a) above. |
+| 4 | A peer who—<br>- (a) is for the time being shown in the record kept under paragraph 3 of Schedule 4 to the RPA 2000 as voting by post at local government elections,<br>- (b) is not for the time being shown in the record kept under paragraph 3 of Schedule 2 to the European Parliamentary Elections Regulations as voting by post, or was included in that record before being included in the record mentioned in paragraph (a) above, and<br>- (c) is not within entry 1 or 2 of this table or entry 1 or 2 in the table in sub-paragraph (3). | Address provided in the peer's application under paragraph 3 of Schedule 4 to the RPA 2000 or (as the case may be) paragraph 4(5)(a) above. |
+| 5 | A peer who—<br>- (a) is for the time being shown in the record kept under paragraph 3 of Schedule 2 to the European Parliamentary Elections Regulations as voting by post,<br>- (b) is not for the time being shown in the record kept under paragraph 3 of Schedule 4 to the RPA 2000 as voting by post at local government elections, or was included in that record before being included in the record mentioned in paragraph (a) above, and<br>- (c) is not within entry 1 or 2 in this table or entry 1 or 2 in the table in sub-paragraph (3). | Address provided in the peer's application under paragraph 3 of Schedule 2 to the European Parliamentary Elections Regulations or (as the case may be) paragraph 4(5)(a) above. |
+
+(3) The second of the lists mentioned in sub-paragraph (1) is a list (“the list of proxies”) of those within column 2 of the following table, together with the names and addresses of their proxies appointed as mentioned in column 3.
+
+|  |  |  |
+|---|---|---|
+|  | *Description of person voting by proxy* | *Proxy* |
+| 1 | A person (not within entry 1 in the table in sub-paragraph (2)) whose application under paragraph 4(2), (3) or (5)(b) to vote by proxy in the referendum has been granted. | Proxy appointed under paragraph 6. |
+| 2 | A person who—<br>- (a) is entitled to vote in the referendum and in a poll that is taken together with the referendum,<br>- (b) is included in the list of proxies for that poll, and<br>- (c) is not within entry 1 in this table or entry 1 or 2 in the table in sub-paragraph (2). | Proxy appointed for the purposes of that poll or, if there is more than one, the proxy appointed for the poll in respect of which the latest of the person's applications to vote by proxy was made. |
+| 3 | A person who—<br>- (a) is for the time being shown in the record kept under paragraph 3 of Schedule 4 to the RPA 2000 as voting by proxy at parliamentary elections, and<br>- (b) is not within entry 1 or 2 of this table or entry 1 or 2 in the table in sub-paragraph (2). | Proxy appointed under paragraph 6 of Schedule 4 to the RPA 2000 for parliamentary elections. |
+| 4 | A peer who—<br>- (a) is for the time being shown in the record kept under paragraph 3 of Schedule 4 to the RPA 2000 as voting by proxy at local government elections,<br>- (b) is not for the time being shown in the record kept under paragraph 3 of Schedule 2 to the European Parliamentary Elections Regulations as voting by proxy, or was included in that record before being included in the record mentioned in paragraph (a) above, and<br>- (c) is not within entry 1 or 2 of this table or entry 1, 2 or 5 in the table in sub-paragraph (2). | Proxy appointed under paragraph 6 of Schedule 4 to the RPA 2000 for local government elections. |
+| 5 | A peer who—<br>- (a) is for the time being shown in the record kept under paragraph 3 of Schedule 2 to the European Parliamentary Elections Regulations as voting by proxy,<br>- (b) is not for the time being shown in the record kept under paragraph 3 of Schedule 4 to the RPA 2000 as voting by proxy at local government elections, or was included in that record before being included in the record mentioned in paragraph (a) above, and<br>- (c) is not within entry 1 or 2 in this table or entry 1, 2 or 4 in the table in sub-paragraph (2). | Proxy appointed under paragraph 6 of Schedule 2 to the European Parliamentary Elections Regulations. |
+
+(4) In the case of a person who has an anonymous entry in a register, the postal voters list or list of proxies (as the case may be) must show in relation to the person only—
+
+(a) his or her electoral number, and
+
+(b) the period for which the anonymous entry has effect.
+
+#### Proxies
+
+**6** (1) Subject to what follows, any person is capable of being appointed under this paragraph to vote as proxy for another (the “principal”) in the referendum.
+
+(2) The principal cannot have more than one person at a time appointed as proxy to vote for him or her in the referendum.
+
+(3) A person is capable of being appointed to vote as proxy only if—
+
+(a) the person is not subject to any legal incapacity (age apart) to vote in the referendum in his or her own right, and
+
+(b) the person is either a Commonwealth citizen or a citizen of the Republic of Ireland.
+
+(4) Where the principal applies to the registration officer for the appointment of a proxy under this paragraph, the registration officer must make the appointment if the application meets the requirements prescribed by the relevant regulations and the officer is satisfied that the principal is or will be—
+
+(a) registered in a relevant register, and
+
+(b) entitled to vote by proxy in the referendum by virtue of an application under paragraph 4(2), (3) or (5)(b),
+
+and that the proxy is capable of being, and willing to be, appointed.
+
+(5) The appointment of a proxy under this paragraph is to be made by means of a proxy paper, in the form set out in Part 3 of this Schedule, issued by the registration officer.
+
+(6) The appointment may be cancelled by the principal by giving notice to the registration officer and also ceases to be in force on the issue of a proxy paper appointing a different person under this paragraph to vote for the principal in the referendum.
+
+**7** (1) Subject to what follows, where a relevant proxy appointment is in force, the person appointed is entitled to vote as proxy for the person for whom the appointment was made (the “principal”).
+
+(2) In sub-paragraph (1) “relevant proxy appointment” means—
+
+(a) in relation to a principal who is included in the list of proxies by virtue of entry 1 in the table in paragraph 5(3), an appointment under paragraph 6;
+
+(b) in relation to a principal who is included in the list of proxies by virtue of entry 2 in that table, the appointment of the person mentioned in column 3 of that entry;
+
+(c) in relation to a principal who is included in the list of proxies by virtue of entry 3 in that table, an appointment under paragraph 6 of Schedule 4 to the RPA 2000 for parliamentary elections;
+
+(d) in relation to a principal who is a peer included in the list of proxies by virtue of entry 4 in that table, an appointment under paragraph 6 of Schedule 4 to the RPA 2000 for local government elections;
+
+(e) in relation to a principal who is a peer included in the list of proxies by virtue of entry 5 in that table, an appointment under paragraph 6 of Schedule 2 to the European Parliamentary Elections Regulations.
+
+(3) A person is capable of voting as proxy in the referendum only if—
+
+(a) the person is not subject to any legal incapacity (age apart) to vote in the referendum in his or her own right, and
+
+(b) person is either a Commonwealth citizen or a citizen of the Republic of Ireland.
+
+(4) A person is not capable of voting as proxy in the referendum unless on the date of the poll the person has attained the age of 18.
+
+(5) A person is not entitled to vote as proxy in the referendum on behalf of more than two others of whom that person is not the spouse, civil partner, parent, grandparent, brother, sister, child or grandchild.
+
+#### Voting as proxy
+
+**8** (1) A person entitled to vote as proxy for another (the “principal”) in the referendum may do so in person at the polling station allotted to the principal under the referendum rules unless the proxy is entitled to vote by post as proxy for the principal in the referendum, in which case the proxy may vote by post.
+
+(2) Where a person is entitled to vote by post as proxy for the principal in the referendum, the principal may not apply for a ballot paper for the purpose of voting in person in the referendum.
+
+(3) For the purposes of this Part of this Schedule and the 1983 Act a person entitled to vote as proxy for another in the referendum is entitled so to vote by post if the person is included in the list kept under sub-paragraph (6).
+
+(4) Where a person applies to the registration officer to vote by post as proxy in the referendum the officer must grant the application if—
+
+(a) the officer is satisfied that the principal is or will be registered in a relevant register,
+
+(b) the applicant is the subject of a relevant proxy appointment within the meaning of paragraph 7(2)(a), and
+
+(c) the application contains the applicant's signature and date of birth and meets the requirements prescribed by the relevant regulations.
+
+(5) A person who is the subject of a relevant proxy appointment within the meaning of paragraph 7(2) (b), (c) or (d) and who—
+
+(a) is included in the record kept under paragraph 7(6) of Schedule 4 to the RPA 2000 (record of proxies who have applied to vote by post) in respect of parliamentary elections,
+
+(b) is included in the record kept under paragraph 7(6) of Schedule 4 to the RPA 2000 (record of proxies who have applied to vote by post) in respect of local government elections, or
+
+(c) is included in the record kept under paragraph 7(6) of Schedule 2 to the European Parliamentary Elections Regulations (record of proxies who have applied to vote by post),
+
+may apply to the registration officer for his or her referendum ballot paper to be sent to a different address from that shown in the record, and the officer must grant the application if it meets the requirements prescribed by the relevant regulations.
+
+(6) The registration officer must, in respect of the referendum, keep a special list (“the proxy postal voters list”) of those within column 2 of the following table, together with the addresses provided as mentioned in column 3 as the addresses to which their ballot papers are to be sent.
+
+|  |  |  |
+|---|---|---|
+|  | *Description of proxy postal voters* | *Address* |
+| 1 | A proxy whose application under sub-paragraph (4) has been granted. | Address provided in the proxy's application under sub-paragraph (4). |
+| 2 | A proxy who—<br>- (a) was appointed as mentioned in column 3 of entry 2 in the table in paragraph 5(3) for a person mentioned in column 2 of that entry, and<br>- (b) is included in the proxy postal voters list for the poll in respect of which that appointment was made. | Address provided in the proxy's application to vote by post as proxy in that poll. |
+| 3 | A proxy who—<br>- (a) was appointed as mentioned in column 3 of entry 3 in the table in paragraph 5(3) for a person mentioned in column 2 of that entry, and<br>- (b) is for the time being included in the record kept under paragraph 7(6) of Schedule 4 to the RPA 2000 (record of proxies who have applied to vote by post). | Address provided in the proxy's application under paragraph 7(4)(a) of Schedule 4 to the RPA 2000 or (as the case may be) sub-paragraph (5) above. |
+| 4 | A proxy who—<br>- (a) was appointed as mentioned in column 3 of entry 4 in the table in paragraph 5(3) for a peer mentioned in column 2 of that entry, and<br>- (b) is for the time being included in the record kept under paragraph 7(6) of Schedule 4 to the RPA 2000 (record of proxies who have applied to vote by post). | Address provided in the proxy's application under paragraph 7(4)(a) of Schedule 4 to the RPA 2000 or (as the case may be) sub-paragraph (5) above. |
+| 5 | A proxy who—<br>- (a) was appointed as mentioned in column 3 of entry 5 in the table in paragraph 5(3) for a peer mentioned in column 2 of that entry, and<br>- (b) is for the time being included in the record kept under paragraph 7(6) of Schedule 2 to the European Parliamentary Elections Regulations. | Address provided in the proxy's application under paragraph 7(4)(a) of Schedule 2 to the European Parliamentary Elections Regulations or (as the case may be) sub-paragraph (5) above. |
+
+(7) In the case of a person who has an anonymous entry in a register, the special list mentioned in sub-paragraph (6) must contain only—
+
+(a) the person's electoral number, and
+
+(b) the period for which the anonymous entry has effect.
+
+(8) Sub-paragraph (2) does not prevent a person, at the polling station allotted to him or her, marking a tendered ballot paper in pursuance of rule 32 of the referendum rules.
+
+(9) The registration officer may dispense with the requirement under sub-paragraph (4)(c) for the applicant to provide a signature if the officer is satisfied that the applicant—
+
+(a) is unable to provide a signature because of any disability the applicant has,
+
+(b) is unable to provide a signature because the applicant is unable to read or write, or
+
+(c) is unable to sign in a consistent and distinctive way because of any such disability or inability.
+
+(10) The registration officer must also keep a record in relation to those whose applications under sub-paragraph (4) have been granted showing—
+
+(a) their dates of birth, and
+
+(b) except in cases where the registration officer in pursuance of sub-paragraph (9) has dispensed with the requirement to provide a signature, their signatures.
+
+(11) The record kept under sub-paragraph (10) must be retained by the registration officer for the period of twelve months beginning with the date of the poll for referendum.
+
+#### Use of personal identifier information
+
+**9** The registration officer must either—
+
+(a) provide the counting officer with a copy of the information contained in records kept by the registration officer in pursuance of—
+
+(i) paragraphs 3(9), 4(6) and 7(12) of Schedule 4 to the RPA 2000 (dates of birth and signatures of certain electors and proxies) in relation to persons entitled to vote in the referendum,
+
+(ii) articles 8(9), 9(6) and 12(13) of the National Assembly for Wales (Representation of the People) Order 2007 (S.I. 2007/236) (dates of birth and signatures of certain electors and proxies) in relation to persons entitled to vote in the referendum,
+
+(iii) articles 8(9), 9(8) and 11(12) of the Scottish Parliament (Elections etc.) Order 2010 (S.I. 2010/2999) (dates of birth and signatures of certain electors and proxies) in relation to persons entitled to vote in the referendum,
+
+(iv) paragraphs 3(9) and 7(13) of Schedule 2 to the European Parliamentary Elections Regulations (dates of birth and signatures of certain electors and proxies) in relation to peers entitled to vote in the referendum, and
+
+(v) paragraphs 4(8) and 8(10) above, or
+
+(b) give the counting officer access to such information.
+
+**10** Information contained in records kept by a registration officer in pursuance of paragraph 4(8) or 8(10) may be disclosed by the officer to—
+
+(a) any other registration officer if the officer thinks that to do so will assist the other registration officer in the performance of his or her duties;
+
+(b) any person exercising functions in relation to the preparation or conduct of legal proceedings under this Act or the Representation of the People Acts.
+
+#### Offences
+
+**11** (1) A person who—
+
+(a) in any declaration or form used for any of the purposes of this Part of this Schedule, makes a statement knowing it to be false, or
+
+(b) attests an application under paragraph 4 knowing—
+
+(i) that he or she is not authorised to do so, or
+
+(ii) that it contains a statement which is false,
+
+is guilty of an offence and liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+(2) A person who provides false information in connection with an application under paragraph 4(1) or (2) or 8(4) is guilty of an offence.
+
+(3) Subsections (3) to (8) of section 13D of the 1983 Act (but not the words “and Northern Ireland” in subsection (7)) apply for the purposes of sub-paragraph (2) as they apply for the purposes of subsection (1A) of that section.
+
+### PART 2 — Northern Ireland
+
+#### Interpretation
+
+**12** In this Part of this Schedule—
+
+- “European Parliamentary Elections (Northern Ireland) Regulations” means the European Parliamentary Elections (Northern Ireland) Regulations 2004 (S.I. 2004/1267);
+
+- “Local Elections (Northern Ireland) Order” means the Local Elections (Northern Ireland) Order 1985 (S.I. 1985/454);
+
+- “peer” means a peer who is a member of the House of Lords;
+
+- “relevant register” means—
+
+  - (a) a register of parliamentary electors, or
+  
+  - (b) in relation to a peer—
+  
+    - (i) a register of local government electors, or
+    - (ii) a register of peers maintained under section 3 of the Representation of the People Act 1985 (peers resident outside the United Kingdom);
+
+- “the 2008 regulations” means the Representation of the People (Northern Ireland) Regulations 2008 (S.I. 2008/1741) as applied by Schedule 4;
+
+- “the 1985 Act” means the Representation of the People Act 1985.
+
+#### Manner of voting in the referendum
+
+**13** (1) This paragraph applies to determine the manner of voting in Northern Ireland of a person entitled to vote in the referendum.
+
+(2) The person may vote in person at the polling station allotted to him or her under the referendum rules, unless the person is entitled to vote by post or by proxy in the referendum.
+
+(3) The person may vote by post if the person is entitled to vote by post in the referendum.
+
+(4) If the person is entitled to vote by proxy in the referendum, the person may so vote unless, before a ballot paper has been issued for the person to vote by proxy, the person applies at the polling station allotted to him or her under the referendum rules for a ballot paper for the purpose of voting in person, in which case he or she may vote in person there.
+
+(5) If—
+
+(a) the person is not entitled to vote by post or by proxy in the referendum, but
+
+(b) the person cannot reasonably be expected to go in person to the polling station allotted to him or her under the referendum rules by reason of the particular circumstances of his or her employment, either as a constable or by the counting officer, on the date of the poll for a purpose connected with the referendum,
+
+he or she may vote in person at any polling station.
+
+(6) Nothing in this paragraph applies to—
+
+(a) a person to whom section 7 of the 1983 Act (mental patients who are not detained offenders) applies and who is liable, by virtue of any enactment, to be detained in the mental hospital in question, whether the person is registered by virtue of that provision or not;
+
+(b) a person to whom section 7A of the 1983 Act (persons remanded in custody) applies, whether the person is registered by virtue of that provision or not;
+
+and such a person may vote only by post or by proxy (where the person is entitled to vote by post or, as the case may be, by proxy in the referendum).
+
+(7) Sub-paragraph (2) does not prevent a person, at the polling station allotted to him or her, marking a tendered ballot paper in pursuance of rule 32 of the referendum rules.
+
+#### Entitlement to vote by post or by proxy
+
+**14** (1) A person entitled to vote in the referendum is entitled to vote by post or by proxy if sub-paragraph (2) or (3) (as the case may be) applies to the person.
+
+(2) This sub-paragraph applies to a person who is shown in the postal voters list mentioned in paragraph 16(2) as entitled to vote by post in the referendum.
+
+(3) This sub-paragraph applies to a person who is shown in the list of proxies mentioned in paragraph 16(3) as entitled to vote by proxy in the referendum.
+
+#### Application to vote by post or by proxy in the referendum
+
+**15** (1) Where a person applies to the registration officer to vote by post, or to vote by proxy, in the referendum, the registration officer must grant the application if—
+
+(a) the officer is satisfied that the applicant is or will be registered in a relevant register,
+
+(b) the officer is satisfied that the applicant's circumstances on the date of the poll will be or are likely to be such that the applicant cannot reasonably be expected to vote in person at the polling station allotted or likely to be allotted to the applicant under the referendum rules,
+
+(c) the application states the applicant's date of birth and the registration officer is satisfied that the date stated corresponds with the date supplied as the date of the applicant's birth in pursuance of section 10(4A)(b), 10A(1A)(b) or 13A(2A)(b) of the 1983 Act,
+
+(d) the application is signed and (unless section 10(4B), 10A(1B) or 13A(2B) of the 1983 Act applies) the registration officer is satisfied that the signature on the application corresponds with the signature supplied as the applicant's signature in pursuance of section 10(4A)(a), 10A(1A)(a) or 13A(2A)(a) of the 1983 Act,
+
+(e) the application either states the applicant's national insurance number or states that the applicant does not have one, and the registration officer is satisfied as mentioned in sub-paragraph (2) below, and
+
+(f) the application meets the requirements prescribed by the 2008 Regulations.
+
+(2) For the purposes of sub-paragraph (1)(e), the registration officer must be satisfied—
+
+(a) if the application states a national insurance number, that the requirements of sub-paragraph (3) are met, or
+
+(b) if the application states that the applicant does not have a national insurance number, that no such number was supplied as the applicant's national insurance number in pursuance of section 10(4A)(c)(i), 10A(1A)(c)(i) or 13A(2A)(c)(i) of the 1983 Act.
+
+(3) The requirements of this subsection are met if—
+
+(a) the number stated as mentioned in sub-paragraph (2)(a) is the same as the one supplied as the applicant's national insurance number in pursuance of section 10(4A)(c)(i), 10A(1A)(c)(i) or 13A(2A)(c)(i) of the 1983 Act, or
+
+(b) no national insurance number was supplied under any of those provisions, but the registration officer is not aware of any reason to doubt the authenticity of the application.
+
+(4) Nothing in sub-paragraph (1) applies to—
+
+(a) a person who is included in the record kept under section 6 of the 1985 Act (absent vote at parliamentary elections for indefinite period),
+
+(b) a peer who is included in the record kept under paragraph 1 of Schedule 2 to the Local Elections (Northern Ireland) Order (absent vote at local elections for indefinite period), or
+
+(c) a peer who is included in the record kept under regulation 8 of the European Parliamentary Elections (Northern Ireland) Regulations (absent vote at elections for indefinite period).
+
+(5) But if a person is included in a record mentioned in sub-paragraph (4)(a), (b) or (c) and is shown in the record as voting by post, the person may, in respect of the referendum, apply to the registration officer—
+
+(a) for his or her ballot paper to be sent to a different address in the United Kingdom from that shown in the record, or
+
+(b) to vote by proxy.
+
+(6) The registration officer must grant an application under sub-paragraph (5) if it meets the requirements prescribed by the 2008 Regulations.
+
+(7) A person applying to vote by post must provide an address in the United Kingdom as the address to which the person's ballot paper is to be sent.
+
+#### Absent voters lists
+
+**16** (1) The registration officer must, for the purposes of the referendum, keep the two special lists mentioned in sub-paragraphs (2) and (3) respectively.
+
+(2) The first of those lists is a list (“the postal voters list”) of those within column 2 of the following table, together with the addresses provided as mentioned in column 3 as the addresses to which their ballot papers are to be sent.
+
+|  |  |  |
+|---|---|---|
+|  | *Description of person voting by post* | *Address* |
+| 1 | A person whose application under paragraph 15(1) to vote by post in the referendum has been granted. | Address provided in the person's application under paragraph 15(1). |
+| 2 | A person who—<br>- (a) is entitled to vote in the referendum and in a poll that is taken together with the referendum,<br>- (b) is shown in the absent voters list for that poll as voting by post, and<br>- (c) is not within entry 1 in this table or entry 1 in the table in sub-paragraph (3). | Address provided in the the application that gave rise to the person being included in the absent voters list or, if the person is included in more than one, the address provided in the latest of those applications. |
+| 3 | A person who—<br>- (a) is for the time being shown in the record kept under section 6 of the 1985 Act as voting by post at parliamentary elections, and<br>- (b) is not within entry 1 or 2 of this table or entry 1 or 2 in the table in sub-paragraph (3). | Address provided in the person's application under section 6 of the 1985 Act or (as the case may be) paragraph 15(5)(a) above. |
+| 4 | A peer who—<br>- (a) is for the time being shown in the record kept under paragraph 1 of Schedule 2 to the Local Elections (Northern Ireland) Order,<br>- (b) is not for the time being shown in the record kept under regulation 8 of the European Parliamentary Elections (Northern Ireland) Regulations as voting by post, or was included in that record before being included in the record mentioned in paragraph (a) above, and<br>- (c) is not within entry 1 or 2 of this table or entry 1 or 2 in the table in sub-paragraph (3). | Address provided in the peer's application under paragraph 1 of Schedule 2 to the Local Elections (Northern Ireland) Order or (as the case may be) paragraph 15(5)(a) above. |
+| 5 | A peer who—<br>- (a) is for the time being shown in the record kept under regulation 8 of the European Parliamentary Elections (Northern Ireland) Regulations as voting by post,<br>- (b) is not for the time being shown in the record kept under paragraph 1 of Schedule 2 to the Local Elections (Northern Ireland) Order, or was included in that record before being included in the record mentioned in paragraph (a) above, and<br>- (c) is not within entry 1 or 2 in this table or entry 1 or 2 in the table in sub-paragraph (3). | Address provided in the peer's application under regulation 8 of the European Parliamentary Elections (Northern Ireland) Regulations or (as the case may be) paragraph 15(5)(a) above. |
+
+(3) The second of the lists mentioned in sub-paragraph (1) is a list (“the list of proxies”) of those within column 2 of the following table, together with the names and addresses of their proxies appointed as mentioned in column 3.
+
+|  |  |  |
+|---|---|---|
+|  | *Description of person voting by proxy* | *Proxy* |
+| 1 | A person (not within entry 1 in the table in sub-paragraph (2)) whose application under paragraph 15(1) or (5)(b) to vote by proxy in the referendum has been granted. | Proxy appointed under paragraph 17. |
+| 2 | A person who—<br>- (a) is entitled to vote in the referendum and in a poll that is taken together with the referendum,<br>- (b) is shown in the absent voters list for that poll as voting by proxy, and<br>- (c) is not within entry 1 in this table or entry 1 or 2 in the table in sub-paragraph (2). | Proxy appointed for the purposes of that poll or, if there is more than one, the proxy appointed for the poll in respect of which the latest of the person's applications to vote by proxy was made. |
+| 3 | A person who—<br>- (a) is for the time being shown in the record kept under section 6 of the 1985 Act as voting by proxy at parliamentary elections, and<br>- (b) is not within entry 1 or 2 of this table or entry 1 or 2 in the table in sub-paragraph (2). | Proxy appointed under section 8 of the 1985 Act for parliamentary elections. |
+| 4 | A peer who—<br>- (a) is for the time being shown in the record kept under paragraph 1 of Schedule 2 to the Local Elections (Northern Ireland) Order as voting by proxy,<br>- (b) is not for the time being shown in the record kept under regulation 8 of the European Parliamentary Elections (Northern Ireland) Regulations as voting by proxy, or was included in that record before being included in the record mentioned in paragraph (a) above, and<br>- (c) is not within entry 1 or 2 of this table or entry 1, 2 or 5 in the table in sub-paragraph (2). | Proxy appointed under paragraph 3 of Schedule 2 to the Local Elections (Northern Ireland) Order. |
+| 5 | A peer who—<br>- (a) is for the time being shown in the record kept under regulation 8 of the European Parliamentary Elections (Northern Ireland) Regulations as voting by proxy,<br>- (b) is not for the time being shown in the record kept under paragraph 1 of Schedule 2 to the Local Elections (Northern Ireland) Order as voting by proxy, or was included in that record before being included in the record mentioned in paragraph (a) above, and<br>- (c) is not within entry 1 or 2 in this table or entry 1, 2 or 4 in the table in sub-paragraph (2). | Proxy appointed under regulation 10 of the European Parliamentary Elections (Northern Ireland) Regulations. |
+
+#### Proxies
+
+**17** (1) Subject to what follows, any person is capable of being appointed under this paragraph to vote as proxy for another (the “principal”) in the referendum.
+
+(2) The principal cannot have more than one person at a time appointed as proxy to vote for him or her in the referendum.
+
+(3) A person is capable of being appointed to vote as proxy only if—
+
+(a) the person is not subject to any legal incapacity (age apart) to vote in the referendum in his or her own right, and
+
+(b) the person is either a Commonwealth citizen or a citizen of the Republic of Ireland.
+
+(4) Where the principal applies to the registration officer for the appointment of a proxy under this paragraph, the registration officer must make the appointment if the application meets the requirements prescribed by the 2008 Regulations and the officer is satisfied that the principal is or will be—
+
+(a) registered in a relevant register, and
+
+(b) entitled to vote by proxy in the referendum by virtue of an application under paragraph 15(1) or (5)(b),
+
+and that the proxy is capable of being, and willing to be, appointed.
+
+(5) The appointment of a proxy under this paragraph is to be made by means of a proxy paper, in the form set out in Part 3 of this Schedule, issued by the registration officer.
+
+(6) The appointment may be cancelled by the principal by giving notice to the registration officer and also ceases to be in force on the issue of a proxy paper appointing a different person under this paragraph to vote for the principal in the referendum.
+
+**18** (1) Subject to what follows, where a relevant proxy appointment is in force, the person appointed is entitled to vote as proxy for the person for whom the appointment was made (the “principal”).
+
+(2) In sub-paragraph (1) “relevant proxy appointment” means—
+
+(a) in relation to a principal who is included in the list of proxies by virtue of entry 1 in the table in paragraph 16(3), an appointment under paragraph 17;
+
+(b) in relation to a principal who is included in the list of proxies by virtue of entry 2 in that table, the appointment of the person mentioned in column 3 of that entry;
+
+(c) in relation to a principal who is included in the list of proxies by virtue of entry 3 in that table, an appointment under section 8 of the 1985 Act for parliamentary elections;
+
+(d) in relation to a principal who is a peer included in the list of proxies by virtue of entry 4 in that table, an appointment under paragraph 3 of Schedule 2 to the Local Elections (Northern Ireland) Order;
+
+(e) in relation to a principal who is a peer included in the list of proxies by virtue of entry 5 in that table, an appointment under regulation 10 of the European Parliamentary Elections (Northern Ireland) Regulations.
+
+(3) A person is capable of voting as proxy in the referendum only if—
+
+(a) the person is not subject to any legal incapacity (age apart) to vote in the referendum in his or her own right, and
+
+(b) the person is either a Commonwealth citizen or a citizen of the Republic of Ireland.
+
+(4) A person is not capable of voting as proxy in the referendum unless on the date of the poll the person has attained the age of 18.
+
+(5) A person is not entitled to vote as proxy in the referendum on behalf of more than two others of whom that person is not the spouse, civil partner, parent, grandparent, brother, sister, child or grandchild.
+
+#### Voting as proxy
+
+**19** (1) A person entitled to vote as proxy for another (the “principal”) in the referendum may do so in person at the polling station allotted to the principal under the referendum rules unless the proxy is entitled to vote by post as proxy for the principal in the referendum, in which case the proxy may vote by post.
+
+(2) Where a person is entitled to vote by post as proxy for the principal in the referendum, the elector may not apply for a ballot paper for the purpose of voting in person in the referendum.
+
+(3) For the purposes of this Part of this Schedule and the 1983 Act a person entitled to vote as proxy for another in the referendum is entitled so to vote by post if the person is included in the list kept under sub-paragraph (6).
+
+(4) Where a person applies to the registration officer to vote by post as proxy in the referendum the officer must grant the application if—
+
+(a) the officer is satisfied that the principal is or will be registered in a relevant register,
+
+(b) the applicant is the subject of a relevant proxy appointment within the meaning of paragraph 18(2)(a),
+
+(c) either—
+
+(i) the officer is satisfied that the applicant's circumstances on the date of the poll will be or are likely to be such that the applicant cannot reasonably be expected to vote in person at the polling station allotted or likely to be allotted to the principal under the referendum rules, or
+
+(ii) the applicant is, or the officer is satisfied that the applicant will be, included in the absent voters list for the referendum,
+
+(d) the application specifies an address in the United Kingdom as the address to which the ballot paper is to be sent, and
+
+(e) the application meets the requirements prescribed by the 2008 Regulations.
+
+(5) A person who is the subject of a relevant proxy appointment within the meaning of paragraph 18(2) (b), (c) or (d) and who—
+
+(a) is included in the record kept under section 9(6) of the 1985 Act (record of proxies who have applied to vote by post) in respect of parliamentary elections,
+
+(b) is included in the record kept under paragraph 4(5) of Schedule 2 to the Local Elections (Northern Ireland) Order (record of proxies who have applied to vote by post), or
+
+(c) is included in the record kept under regulation 11(5) of the European Parliamentary Elections (Northern Ireland) Regulations (record of proxies who have applied to vote by post),
+
+may apply to the registration officer for his or her referendum ballot paper to be sent to a different address in the United Kingdom from that shown in the record, and the officer must grant the application if it meets the requirements prescribed by the 2008 Regulations.
+
+(6) The registration officer must, in respect of the referendum, keep a special list (“the proxy postal voters list”) of those within column 2 of the following table, together with the addresses provided as mentioned in column 3 as the addresses to which their ballot papers are to be sent.
+
+|  |  |  |
+|---|---|---|
+|  | *Description of proxy postal voters* | *Address* |
+| 1 | A proxy whose application under sub-paragraph (4) has been granted. | Address provided in the proxy's application under sub-paragraph (4). |
+| 2 | A proxy who—<br>- (a) was appointed as mentioned in column 3 of entry 2 in the table in paragraph 16(3) for a person mentioned in column 2 of that entry, and<br>- (b) is included in the proxy postal voters list for the poll in respect of which that appointment was made. | Address provided in the proxy's application to vote by post as proxy in that poll. |
+| 3 | A proxy who—<br>- (a) was appointed as mentioned in column 3 of entry 3 in the table in paragraph 16(3) for a person mentioned in column 2 of that entry, and<br>- (b) is for the time being included in the record kept under section 9(6) of the 1985 Act. | Address provided in the proxy's application under section 9(4) of the 1985 Act or (as the case may be) sub-paragraph (5) above. |
+| 4 | A proxy who—<br>- (a) was appointed as mentioned in column 3 of entry 4 in the table in paragraph 16(3) for a peer mentioned in column 2 of that entry, and<br>- (b) is for the time being included in the record kept under paragraph 4(5) of Schedule 2 to the Local Elections (Northern Ireland) Order. | Address provided in the proxy's application under paragraph 4(4) of Schedule 2 to the Local Elections (Northern Ireland) Order or (as the case may be) sub-paragraph (5) above. |
+| 5 | A proxy who—<br>- (a) was appointed as mentioned in column 3 of entry 5 in the table in paragraph 16(3) for a peer mentioned in column 2 of that entry, and<br>- (b) is for the time being included in the record kept under regulation 11(5) of the European Parliamentary Elections (Northern Ireland) Regulations. | Address provided in the proxy's application under regulation 11(4) of the European Parliamentary Elections (Northern Ireland) Regulations or (as the case may be) sub-paragraph (5) above. |
+
+(7) Sub-paragraph (2) does not prevent a person, at the polling station allotted to him or her, marking a tendered ballot paper in pursuance of rule 32 of the referendum rules.
+
+#### Offences
+
+**20** (1) A person who—
+
+(a) in any declaration or form used for any of the purposes of this Part of this Schedule, makes a statement knowing it to be false, or
+
+(b) attests an application under paragraph 15 knowing—
+
+(i) that he or she is not authorised to do so, or
+
+(ii) that it contains a statement which is false,
+
+is guilty of an offence and liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+(2) A person who provides false information in connection with an application under paragraph 15(1) or 19(4) is guilty of an offence.
+
+(3) Subsections (3) to (7) of section 13D of the 1983 Act apply for the purposes of sub-paragraph (2) as they apply for the purposes of subsection (1A) of that section.
+
+### PART 3 — Form of proxy paper
+
+![image](http://www.legislation.gov.uk/ukpga/2011/1/images/ukpga_20110001_en_sld_024)
+
+## SCHEDULE 4 — Application to the referendum of existing provisions
+
+*Section 3*
+
+### PART 1 — Representation of the People Act 1983
+
+**1** (1) The provisions of the 1983 Act listed in the first column of the table apply for the purposes of the referendum.
+
+(2) In their application by virtue of this paragraph, those provisions have effect—
+
+(a) with the modifications (if any) shown in the second column of the table, and
+
+(b) with any other necessary modifications, including in particular those set out in sub-paragraph (3).
+
+(3) Except where the context otherwise requires—
+
+(a) a reference to a provision that is applied by this Schedule has effect as a reference to that provision as so applied;
+
+(b) expressions are to be construed in accordance with the definitions in section 7 of this Act and rule 53 of the referendum rules.
+
+(4) The provisions of the 1983 Act that apply for the purposes of the referendum by virtue of this paragraph are in addition to the provisions of that Act that would apply for those purposes in any event.
+
+|  |  |
+|---|---|
+| *Provision* | *Modification* |
+| Section 13C(5) (validity of electoral identity card in Northern Ireland) | For “subsection (4) above and rule 37E(1) in Schedule 1 to this Act” substitute “ rule 27 of the referendum rules ”. |
+| Section 47 (loan of equipment) | In subsection (1), for “the returning officer at a local government election” substitute “ a counting officer ”. In subsection (2), for “the returning officer at an election held under those Acts” substitute “ a counting officer ”. |
+| Section 49 (effect of registers) | In subsection (4)—<br>- (a) after “this Part” insert “ or Part 1 of the Parliamentary Voting System and Constituencies Act 2011 ”;<br>- (b) for “except for the purposes of an election at which” substitute “ for the purposes of the referendum unless ”. In subsection (5) omit “prevent the rejection of the vote on a scrutiny, or”. |
+| Section 50 (effect of misdescription) | In paragraph (c)—<br>- (a) omit “nomination paper,”;<br>- (b) for “and the parliamentary election rules” substitute “ or Part 1 of the Parliamentary Voting System and Constituencies Act 2011 ”. |
+| Section 52 (discharge of registration duties) | The Secretary of State may give a direction under section 52(1) only if it is in accordance with a recommendation made by the Electoral Commission. In subsections (1), (2) and (4), after “this Act” insert “ and Part 1 of the Parliamentary Voting System and Constituencies Act 2011 ”. In subsection (1), after the first “this Act” insert “ or Part 1 of the Parliamentary Voting System and Constituencies Act 2011 ”. |
+| Section 56(3) to (4A) (registration appeals: England and Wales) | In subsection (3)—<br>- (a) for “notice of an election is given” substitute “ notice of the referendum is given ”;<br>- (b) for “the election” substitute “ the referendum ”. In subsection (4A), for “that election” substitute “ the referendum ”. |
+| Section 57 (registration appeals: Scotland) | Section 57 applies for the purposes of the referendum only in so far as it applies section 56(3) to (4A). |
+| Section 58(3) to (5) (registration appeals: Northern Ireland) | In subsection (3)—<br>- (a) for “notice of an election is given” substitute “ notice of the referendum is given ”;<br>- (b) for “the election” substitute “ the referendum ”. In subsection (5), for “that election” substitute “ the referendum ”. |
+| Section 60 (personation) | In subsection (2), for “at a parliamentary or local government election” substitute “ in the referendum ”. |
+| Section 61 (other voting offences) | For subsections (1) to (4) substitute—<br>> (1) A person shall be guilty of an offence if—<br>><br>> (a) he votes in person or by post, whether on his own behalf or as proxy, or applies to vote by proxy or by post on his own behalf, in the referendum, knowing that he is subject to a legal incapacity to vote in the referendum; or<br>><br>> (b) he applies for the appointment of a proxy to vote for him in the referendum knowing that he is or the person to be appointed is subject to a legal incapacity to vote in the referendum; or<br>><br>> (c) he votes, whether in person or by post, as proxy for some other person in the referendum knowing that that person is subject to a legal incapacity to vote.<br>><br>> For the purposes of this subsection references to a person being subject to a legal incapacity to vote do not, in relation to things done before polling day, include his being below voting age if he will be of voting age on that day.<br>><br>> (2) A person shall be guilty of an offence if—<br>><br>> (a) he votes on his own behalf otherwise than by proxy more than once in the referendum; or<br>><br>> (b) he votes on his own behalf in person in the referendum when he is entitled to vote by post; or<br>><br>> (c) he votes on his own behalf in person in the referendum, knowing that a person appointed to vote as his proxy either has already voted in person or is entitled to vote by post; or<br>><br>> (d) he applies under Schedule 3 to the Parliamentary Voting System and Constituencies Act 2011 for a person to be appointed as his proxy to vote for him without applying for the cancellation of a previous appointment of a third person then in force under that Schedule or without withdrawing a pending application for such an appointment.<br>><br>> (3) A person shall be guilty of an offence if—<br>><br>> (a) he votes as proxy for the same person more than once in the referendum; or<br>><br>> (b) he votes in person as proxy for another person in the referendum and he is entitled to vote by post as proxy for that person; or<br>><br>> (c) he votes in person as proxy for another person in the referendum and he knows that other person has already voted in person.<br>><br>> (4) A person shall also be guilty of an offence if he votes as proxy for more than two persons of whom he is not the spouse, civil partner, parent, grandparent, brother, sister, child or grandchild. In subsection (6A), for the words from “ballot paper” to the end substitute “ in reliance on Case 3, 4, 5 or 6 in rule 32 of the referendum rules. ” Omit subsection (6B). In subsection (7)—<br>- (a) after “section 173 below” insert “ (read with paragraph 3 of Schedule 4 to the Parliamentary Voting System and Constituencies Act 2011) ”;<br>- (b) omit paragraph (b). |
+| Section 62A(1) to (5) (applications for absent voting: offences) | In subsection (1)(a), omit “at a parliamentary or local government election”. In subsection (2)(c), for “returning officer” substitute “ counting officer ”. |
+| Section 63 (breach of official duty) | For subsections (3) and (4) substitute—<br>> (3) The persons to whom this section applies are—<br>><br>> (a) the Chief Counting Officer and any Regional Counting Officer or counting officer,<br>><br>> (b) any presiding officer or registration officer,<br>><br>> (c) any official designated by a universal postal service provider, and<br>><br>> (d) any deputy of a person mentioned in any of paragraphs (a) to (c) above or any person appointed to assist or in the course of his employment assisting a person so mentioned in connection with his official duties;<br>><br>> and “official duty” shall for the purposes of this section be construed accordingly, but shall not include duties imposed otherwise than by Part 1 of the Parliamentary Voting System and Constituencies Act 2011 or the law relating to referendums.<br>><br>> (4) Where—<br>><br>> (a) a Regional Counting Officer or counting officer is guilty of an act or omission in breach of his official duty, but<br>><br>> (b) he remedies that act or omission in full by taking steps under paragraph 7 of Schedule 1 to the Parliamentary Voting System and Constituencies Act 2011,<br>><br>> he shall not be guilty of an offence under subsection (1) above. |
+| Section 65 (tampering with papers) | In subsection (1)—<br>- (a) for “at a parliamentary or local government election” substitute “ in the referendum ”;<br>- (b) omit paragraph (a);<br>- (c) in paragraph (f), for “election” substitute “ referendum ”. For subsection (2) substitute—<br>> (2) In Scotland, a person shall be guilty of an offence if—<br>><br>> (a) in the referendum, he forges or counterfeits any ballot paper or the official mark on any ballot paper; or<br>><br>> (b) he fraudulently or without due authority, as the case may be, attempts to do any of those things. In subsection (3), for “a returning officer” substitute “ the Chief Counting Officer, a Regional Counting Officer, a counting officer ”. |
+| Section 66(1) to (6) (requirement of secrecy) | In subsection (1), for paragraphs (a) to (d) substitute—<br>> (a) the Chief Counting Officer, and every Regional Counting Officer and counting officer, attending at a polling station,<br>><br>> (b) every deputy of such an officer so attending,<br>><br>> (c) every presiding officer and clerk so attending,<br>><br>> (d) every referendum agent, polling agent and counting agent so attending, and<br>><br>> (e) every person so attending by virtue of any of sections 6A to 6D of the Political Parties, Elections and Referendums Act 2000,<br>. In subsections (2)(b), (3)(b) and (c), (4)(d) and (5), for “the candidate for whom” substitute “ the referendum answer for which ”. In subsection (3)(d), for “the name of the candidate for whom” substitute “ the referendum answer for which ”. In subsection (5)—<br>- (a) for “blind voter” substitute “ voter with disabilities ”;<br>- (b) at the end insert— “ “Voter with disabilities” has the meaning given by rule 31(11) of the referendum rules. ” |
+| Section 66A (prohibition on publication of exit polls) | In subsection (1), for “an election to which this section applies”, and for “the election” (in both places), substitute “ the referendum ”. Omit subsection (2). In subsection (4), for the words after “whatever means” substitute— “ and the reference to a forecast as to the result of the referendum includes a reference to a forecast as to the number or proportion of votes expected to be cast for each answer to the referendum question in any region, voting area or other area. ” |
+| Section 66B (failure to comply with conditions relating to supply etc of documents) | In subsection (1)(a), for “regulations under rule 57 of the parliamentary election rules” substitute “ regulations mentioned in rule 52(5)(a) of the referendum rules ”. |
+| Section 92 (broadcasting from outside UK) | In subsection (1)—<br>- (a) for “at a parliamentary or local government election” substitute “ in the referendum ”;<br>- (b) for “the election” substitute “ the referendum ”. In subsection (2), after “section 173 below” insert “ (read with paragraph 3 of Schedule 4 to the Parliamentary Voting System and Constituencies Act 2011) ”. |
+| Section 94(1) (imitation poll cards) | For “the election of any candidate at a parliamentary election or a local government election to which this section applies” substitute “ a particular result in the referendum ”. |
+| Section 97 (disturbances at meetings) | For subsection (2) substitute—<br>> (2) This section applies to a meeting held by a permitted participant during the referendum period (within the meaning given by paragraph 1 of Schedule 1 to the Parliamentary Voting System and Constituencies Act 2011) in connection with the referendum. |
+| Section 99 (officials not to act for candidates) | For subsection (1) substitute—<br>> (1) If—<br>><br>> (a) the Chief Counting Officer or any Regional Counting Officer or counting officer,<br>><br>> (b) any officer, deputy or clerk appointed by such a person,<br>><br>> (c) any officer of a local authority whose services have been placed at the disposal of a counting officer or Regional Counting Officer under paragraph 4 of Schedule 1 to the Parliamentary Voting System and Constituencies Act 2011,<br>><br>> acts as a referendum agent for a permitted participant, he shall be guilty of an offence. |
+| Section 100 (illegal canvassing by police officers) | In subsection (1), for the words after “proxy” substitute “ in the referendum ”. |
+| Section 109 (payments for exhibition of election notices) | In subsection (1), for “the election of a candidate at an election” substitute “ a particular result in the referendum ”. In subsection (2), for “an election” substitute “ the referendum ”. |
+| Section 111 (prohibition of paid canvassers) | For “an election” substitute “ the referendum ” For “a candidate's election” substitute “ a particular result in the referendum ”. |
+| Section 112(a) and (c) (providing money for illegal purposes) |  |
+| Section 113 (bribery) | In subsection (2)—<br>- (a) for “the return of any person at an election” (in both places) substitute “ a particular result in the referendum ”;<br>- (b) omit paragraph (iii). In subsection (3), for “at any election” (in both places) substitute “ in the referendum ”. In subsections (4), (5) and (6), for “an election” substitute “ the referendum ”. |
+| Section 114 (treating) | In subsection (2), for “an election” substitute “ the referendum ”. |
+| Section 115 (undue influence) |  |
+| Section 116(a) (rights of creditors) |  |
+| Section 117(2) (saving for employees to be absent for voting) | For “parliamentary electors” substitute “ persons entitled to vote on their own behalf ”. For “at a parliamentary election” substitute “ in the referendum ”. In paragraphs (b) and (c), for “any particular candidate at the election” substitute “ a particular answer in the referendum ”. |
+| In section 118 (interpretation), the definitions of “money”, “pecuniary reward” and “payment” |  |
+| Section 167(1) to (2) (application for relief) | For subsection (1) substitute—<br>> (1) An application for relief under this section may be made to the High Court. In subsection (2)(c), omit the words from “in the constituency” to “was held,”. |
+| Sections 168(1) and (7), 169 and 170 (prosecutions for corrupt and illegal practices) |  |
+| Section 175(1) and (3) (prosecution for illegal employment) |  |
+| Section 176 (time limit for prosecutions) | In subsection (2C), for “rule 57 of the parliamentary elections rules” substitute “ rule 52 of the referendum rules ”. In subsection (2D), for paragraph (a) substitute—<br>> (a) directing the registration officer not to cause the documents to be destroyed at the expiry of the period of one year mentioned in rule 52 of the referendum rules,<br>. |
+| Section 178 (prosecution of offences committed outside the UK) |  |
+| Section 179 (offences by associations) | Omit paragraph (b). |
+| Section 181(1) (Director of Public Prosecutions) |  |
+| Section 184 (service of notices) | In subsection (1)—<br>- (a) for “an election” substitute “ the referendum ”;<br>- (b) omit “or any election court,”;<br>- (c) in paragraph (a), omit the words from “in the constituency” to the end. |
+| In section 185 (interpretation), the definitions of “payment” and “Licensing Acts” |  |
+| Section 186 (computation of time) |  |
+| Section 199B(1) to (9) (translations etc of certain documents) | In subsection (1)—<br>- (a) after “this Act” insert “ or Part 1 of the Parliamentary Voting System and Constituencies Act 2011 ”;<br>- (b) for “a parliamentary or local government election” substitute “ the referendum ”. In subsection (4) omit paragraph (a). For subsections (5) and (6) substitute—<br>> (5) The counting officer may cause to be displayed at every polling station an enlarged sample copy of the ballot paper.<br>><br>> (6) The sample copy mentioned in subsection (5) above—<br>><br>> (a) must have printed on it the words “Vote (X) in one box only” both at the top and immediately below the referendum question, and<br>><br>> (b) below the second occurrence of those words, may include a translation of those words into such other languages as the counting officer thinks appropriate. In subsection (7)—<br>- (a) for “returning officer at a parliamentary election or a local government election” substitute “ counting officer ”;<br>- (b) for “the election” substitute “ the referendum ”. In subsection (9), for “returning officer” substitute “ counting officer ”. |
+| In section 202 (interpretation), the definitions in subsection (1) of “legal incapacity”, “legal process”, “person”, “prescribed” and “universal postal service provider”; and subsection (2) | In the definition of “prescribed”, after “regulations” insert “ applied by Schedule 4 to the Parliamentary Voting System and Constituencies Act 2011 ”. |
+| Section 204(3), (5) and (8) (general application to Scotland) |  |
+| Section 205 (general application to Northern Ireland) |  |
+
+**2** (1) In relation to England and Wales or Scotland, section 13B of the 1983 Act has effect for the purposes of the referendum as if a reference to an election to which that section applies included a reference to the referendum.
+
+(2) In relation to Northern Ireland, section 13BA of the 1983 Act has effect for the purposes of the referendum as if—
+
+(a) a reference to an election to which that section applies included a reference to the referendum,
+
+(b) a reference to the final nomination day included a reference to the eleventh day before the date of the poll for the referendum,
+
+(c) a reference in subsection (4) to an election included a reference to the referendum, and
+
+(d) subsection (4)(b) referred also to the postal voters list or list of proxies kept for the referendum under paragraph 16(2) or (3) of Schedule 3.
+
+(3) A reference in any enactment to section 13B or 13BA of the 1983 Act includes (where the context allows) a reference to that section as modified by this paragraph.
+
+(4) Sub-paragraph (3) has effect, in relation to any register, until the first publication after the referendum of a revised version of the register under section 13 of the 1983 Act.
+
+**3** In sections 173 and 173A of the 1983 Act (which relate to incapacities where a person has been convicted of a corrupt or illegal practice) a reference to a person convicted of a corrupt or illegal practice includes a reference to a person convicted of such a practice under a provision of the 1983 Act applied by paragraph 1.
+
+### PART 2 — Other Acts
+
+#### Political Parties, Elections and Referendums Act 2000
+
+**4** Section 6A(4) of the 2000 Act (meaning of “relevant counting officer”) applies for the purposes of the referendum as if for paragraphs (a) and (b) there were substituted “ in accordance with paragraph 2 of Schedule 1 to the Parliamentary Voting System and Constituencies Act 2011. ”
+
+**5** Section 9C of the 2000 Act (provision of information about expenditure) applies for the purposes of the referendum as if for the words in subsection (2)(c) after “in connection with” there were substituted “ the referendum under section 1 of the Parliamentary Voting System and Constituencies Act 2011. ”
+
+**6** Section 128 of the 2000 Act (counting officers etc for referendums) applies for the purposes of the referendum as if—
+
+(a) subsections (3), (4), (8) and (9)(b) were omitted;
+
+(b) in subsection (5), for “the area for which he is appointed” there were substituted “ the voting area for which he acts ”;
+
+(c) in subsection (9), for paragraph (a) there were substituted—
+
+> (a) voting area” has the meaning given by section 7(2) of the Parliamentary Voting System and Constituencies Act 2011;
+
+.
+
+#### Electoral Administration Act 2006
+
+**7** Section 71 of the Electoral Administration Act 2006 (restriction on powers of arrest by persons other than constables) applies for the purposes of the referendum as if the reference to section 60 of the 1983 Act (personation) were to that section as applied by Part 1 of this Schedule.
+
+### PART 3 — The 2001 Regulations (England and Wales) and 2001 Regulations (Scotland)
+
+**8** (1) The provisions of the relevant regulations listed in the first column of the table apply for the purposes of the referendum (subject to sub-paragraphs (4) and (5); and for this purpose the relevant regulations are—
+
+(a) the Representation of the People (England and Wales) Regulations 2001 (S.I. 2001/341) (referred to in this paragraph as “the England and Wales Regulations”), and
+
+(b) the Representation of the People (Scotland) Regulations 2001 (S.I. 2001/497) (referred to in this paragraph as “the Scotland Regulations”).
+
+(2) In their application by virtue of this paragraph, those provisions have effect—
+
+(a) with the modifications (if any) shown in the second column of the table, and
+
+(b) with any other necessary modifications, including in particular those set out in sub-paragraph (3).
+
+(3) Except where the context otherwise requires—
+
+(a) a reference to a provision that is applied by this Schedule has effect as a reference to that provision as so applied;
+
+(b) expressions are to be construed in accordance with the definitions listed in section 7 of this Act and rule 53 of the referendum rules.
+
+(4) Part 5 of the England and Wales Regulations does not apply for the purposes of the referendum in so far as it is taken together with the poll for the Welsh Assembly general election under section 4(2).
+
+(5) Part 5 of the Scotland Regulations does not apply for the purposes of the referendum in so far as it is taken together with the poll for the Scottish parliamentary election under section 4(3).
+
+(6) In relation to the referendum—
+
+(a) regulation 45B(2) of the Scotland Regulations (restrictions on supply etc of record of anonymous entries) has effect as if after sub-paragraph (a) there were inserted—
+
+> (aa) a deputy of the registration officer acting in that other capacity;
+
+and as if the references in sub-paragraph (b) to “that officer” were to “a person mentioned in sub-paragraph (a) or (aa)”;
+
+(b) regulation 94(2) of the England and Wales Regulations (restrictions on supply etc of full register) has effect as if after sub-paragraph (b) there were inserted—
+
+> (ba) the Chief Counting Officer and any Regional Counting Officer;
+>
+> (bb) any deputy of the Chief Counting Officer or any Regional Counting Officer;
+
+and as if the references in sub-paragraph (c) to “any person mentioned in paragraph (a) or (b)” and “any such officer” were references to “a person mentioned in sub-paragraph (a), (b), (ba) or (bb)”;
+
+(c) regulation 94(2) of the Scotland Regulations (restrictions on supply etc of full register) has effect as if after sub-paragraph (a) there were inserted—
+
+> (aa) any deputy of the registration officer acting in that other capacity,
+>
+> (ab) the Chief Counting Officer and any Regional Counting Officer,
+>
+> (ac) any deputy of the Chief Counting Officer or any Regional Counting Officer,
+
+and as if the references in sub-paragraph (b) to “that officer” were to “a person mentioned in sub-paragraph (a), (aa), (ab) or (ac)”.
+
+(7) The provisions of the relevant regulations that apply for the purposes of the referendum by virtue of this paragraph are in addition to the provisions of the regulations that would apply for those purposes in any event.
+
+|  |  |
+|---|---|
+| *Provision* | *Modification* |
+| Regulation 3(1) and (3) (interpretation) |  |
+| Regulation 4 (forms) | In paragraph (1)—<br>- (a) for paragraphs (a) and (b) substitute “ applications made under Part 1 of Schedule 3 to the Parliamentary Voting System and Constituencies Act 2011 and Part 4 of these Regulations ”;<br>- (b) “an election” substitute “ the referendum ”. Paragraph (2) applies for the purposes of the referendum only in so far as it relates to Form K in Schedule 3 to the regulations. |
+| Regulation 5 (applications, notices etc) |  |
+| Regulation 6 (electronic signatures) |  |
+| Regulation 8 (time) |  |
+| Regulation 11 (interference with notices etc) |  |
+| Regulation 32A (representations regarding clerical errors) |  |
+| Regulation 36(2) and (3) (notices in connection with registration) | In paragraph (2) omit “13A(2) or”. |
+| Regulation 36A (communication of notices issued on polling day) |  |
+| Regulation 50 (interpretation of Part 4) | Omit the definition of “allotted polling station”. |
+| Regulation 51 (general requirements for applications for an absent vote) | For “Schedule 4” substitute “ Part 1 of Schedule 3 to the Parliamentary Voting System and Constituencies Act 2011 ”. In paragraph (2)—<br>- (a) in sub-paragraph (b), for “paragraph 7(4) or (7) of Schedule 4” substitute “ paragraph 8(4) or (5) of Schedule 3 to the Parliamentary Voting System and Constituencies Act 2011 ”;<br>- (b) in sub-paragraph (f), for “paragraph 3, 4 or 7 of Schedule 4” substitute “ paragraph 4 or 8 of Schedule 3 to the Parliamentary Voting System and Constituencies Act 2011 ”. Omit paragraph (4). For paragraph (5) substitute—<br>> (5) An application that is made under Part 1 of Schedule 3 to the Parliamentary Voting System and Constituencies Act 2011 for the purposes of the referendum must state that it is so made. |
+| Regulation 51A (additional provision concerning requirement that applications for absent vote must be signed) | In sub-paragraph (a)—<br>- (a) for “Schedule 4” substitute “ Part 1 of Schedule 3 to the Parliamentary Voting System and Constituencies Act 2011 ”;<br>- (b) for “returning officer” substitute “ counting officer ”. |
+| Regulation 51AA (additional requirement for applications for ballot paper to be sent to different address from that stated in application) | In paragraph (1)—<br>- (a) in sub-paragraph (a), for “paragraph 3(1) or (7) or 4(1) of Schedule 4” substitute “ paragraph 4(1) of Schedule 3 to the Parliamentary Voting System and Constituencies Act 2011 ”;<br>- (b) in sub-paragraph (b), for “paragraph 7(4) of Schedule 4” substitute “ paragraph 8(4) of Schedule 3 to the Parliamentary Voting System and Constituencies Act 2011 ”. |
+| Regulation 51B (additional requirement for applications for ballot paper to be sent to different address from that shown in records) | In paragraph (1), for sub-paragraphs (a) and (b) substitute “ paragraph 4(5)(a) or 8(5) of Schedule 3 to the Parliamentary Voting System and Constituencies Act 2011 by a person shown as voting by post in the record referred to in that provision ”. |
+| Regulation 52 (additional requirements for applications for appointment of proxy) | For “paragraphs 3 and 4 of Schedule 4” substitute “ paragraph 4 of Schedule 3 to the Parliamentary Voting System and Constituencies Act 2011 ”. |
+| Regulation 55 (additional requirements for applications for proxy to vote in respect of a particular election) | For paragraph (1) substitute—<br>> (1) An application under paragraph 4(2) of Schedule 3 to the Parliamentary Voting System and Constituencies Act 2011 to vote by proxy in the referendum shall set out why the applicant's circumstances on the date of the poll will be or are likely to be such that he cannot reasonably be expected to vote in person at the polling station allotted to him under the referendum rules. In paragraph (2)—<br>- (a) for “paragraph 4(2) of Schedule 4” substitute “ paragraph 4(2) of Schedule 3 to the Parliamentary Voting System and Constituencies Act 2011 ”;<br>- (b) for “at the election for which it is made” substitute “ for the referendum ”. In paragraph (4) of the England and Wales Regulations and in paragraph (3A) of the Scotland Regulations—<br>- (a) for “paragraph 4(2) of Schedule 4” substitute “ paragraph 4(2) of Schedule 3 to the Parliamentary Voting System and Constituencies Act 2011 ”;<br>- (b) for “paragraph 2(5A)” substitute “ paragraph 2(6) ”;<br>- (c) for “at the election for which it is made” substitute “ for the referendum ”. |
+| Regulation 56 (closing date for applications) | For paragraph (1) substitute—<br>> (1) An application under paragraph 3(1), (6) or (7) or 7(4) of Schedule 4 to the 2000 Act or an application under paragraph 8(4) of Schedule 3 to the Parliamentary Voting System and Constituencies Act 2011 shall be disregarded for the purposes of the referendum, and an application under paragraph 4(5) of Schedule 3 to the Parliamentary Voting System and Constituencies Act 2011 shall be refused, if it is received by the registration officer after 5 pm on the eleventh day before the date of the poll for the referendum. In paragraph (2)—<br>- (a) for “a particular parliamentary or local government election” substitute “ the referendum ”;<br>- (b) for “at that election” substitute “ for the referendum ”. For paragraphs (3) and (3A) substitute—<br>> (3) Subject to paragraph (3A), an application under paragraph 4(2) or 6(4) of Schedule 3 to the Parliamentary Voting System and Constituencies Act 2011 shall be refused if it is received by the registration officer after 5 pm on the sixth day before the date of the poll for the referendum.<br>><br>> (3A) Where an application made under paragraph 4(2) of Schedule 3 to the Parliamentary Voting System and Constituencies Act 2011 is made—<br>><br>> (a) on the grounds of the applicant's disability and the applicant became disabled after 5 pm on the sixth day before the date of the poll for the referendum; or<br>><br>> (b) by a person to whom paragraph 2(6) of that Schedule applies,<br>><br>> the application, or an application under paragraph 6(4) of that Schedule made by virtue of that application, shall be refused if it is received after 5 pm on the day of the poll for the referendum. For paragraph (4) substitute—<br>> (4) An application under paragraph 4(1) or 8(5) of Schedule 3 to the Parliamentary Voting System and Constituencies Act 2011 shall be refused if it is received by the registration officer after 5 pm on the eleventh day before the date of the poll for the referendum. In paragraph (5)—<br>- (a) after “paragraph 6(10) of that Schedule by an elector” insert “ , or a notice under paragraph 6(6) of Schedule 3 to the Parliamentary Voting System and Constituencies Act 2011 by a person, ”;<br>- (b) for “a particular parliamentary or local government election” substitute “ the referendum ”;<br>- (c) for “at that election” substitute “ for the referendum ”. In paragraph (6), after “bank holiday” insert “ or any day appointed as a day of public thanksgiving or mourning ”. For paragraph (7) substitute—<br>> (7) In paragraph (6) above “bank holiday” means a day which is a bank holiday under the Banking and Financial Dealings Act 1971 in any part of the United Kingdom. |
+| Regulation 57 (grant or refusal of applications) | Omit paragraph (3). In paragraph (4), for “Schedule 4” substitute “ Part 1 of Schedule 3 to the Parliamentary Voting System and Constituencies Act 2011 ”. In paragraph (4A), for sub-paragraphs (a) and (b) substitute—<br>> (a) paragraph 4(5)(a) of Schedule 3 to the Parliamentary Voting System and Constituencies Act 2011 by a person shown as voting by post in the record mentioned in that provision; or<br>><br>> (b) paragraph 8(5) of that Schedule by a person shown as voting by post in the record mentioned in that provision,<br>. Omit paragraph (4B). In paragraph (5), for “a particular parliamentary or local government election” substitute “ the referendum ”. For paragraph (6) substitute—<br>> (6) Where the registration officer is not the counting officer for any voting area or part of a voting area in the area for which he is the registration officer, he shall send to that officer details of any application to vote by post which he has granted as soon as practicable after doing so. |
+| Regulation 59 (cancellation of proxy appointment) | For the words from “by notice given” to the end substitute “ under paragraph 6(6) of Schedule 3 to the Parliamentary Voting System and Constituencies Act 2011, or otherwise ceases to be in force by virtue of that provision, the registration officer shall notify the person who was the proxy, unless the registration officer has previously been notified by that person that he no longer wishes to act as proxy. ” |
+| Regulation 60A(7) to (9) (requirement to provide fresh signatures at five yearly intervals) | In paragraph (7), for the words from “from the records” to the end substitute “ from the postal voters list, list of proxies or proxy postal voters list (as the case may be) kept under paragraph 5(2), 5(3) or 8(6) of Schedule 3 to the Parliamentary Voting System and Constituencies Act 2011 ”. In paragraph (8)—<br>- (a) in sub-paragraph (a), for “the appropriate rules (as defined in paragraph 1 of Schedule 4)” substitute “ the referendum rules ”;<br>- (b) in sub-paragraph (b), omit “and regulation 58”;<br>- (c) in sub-paragraph (b), for “Schedule 4” substitute “ Part 1 of Schedule 3 to the Parliamentary Voting System and Constituencies Act 2011 ”. In paragraph (9), for the words from “removal from” to the end substitute<br>> removal from the postal voters list, list of proxies or proxy postal voters list (as the case may be) kept under paragraph 5(2), 5(3) or 8(6) of Schedule 3 to the Parliamentary Voting System and Constituencies Act 2011, information—<br>><br>> (a) explaining the effect of such removal; and<br>><br>> (b) reminding the absent voter that he may make a fresh application to vote by post or by proxy (as the case may be). |
+| Regulation 61 (records and lists kept under Schedule 4) | In paragraph (1), for the words from “any of the following” to the end substitute “ the current or final version of the postal voters list, the list of proxies or the proxy postal voters lists which he is required to keep under paragraph 5(2), 5(3) or 8(6) of Schedule 3 to the Parliamentary Voting System and Constituencies Act 2011. ” In paragraph (5), for “paragraph 5(2) of Schedule 4” substitute “ paragraph 5(2) of Schedule 3 to the Parliamentary Voting System and Constituencies Act 2011 ”. In paragraph (6)—<br>- (a) in sub-paragraph (a), for “paragraphs 5 and 7(8) of Schedule 4” substitute “ paragraphs 5 and 8(6) of Schedule 3 to the Parliamentary Voting System and Constituencies Act 2011 ”;<br><br>- (b) for sub-paragraph (b) substitute—<br><br> > (b) if he is not the counting officer for any voting area or part of a voting area in the area for which he is the registration officer, send to that officer a copy of those lists and provide any subsequent revised lists or revisions to the lists;<br><br> . In paragraph (7), for “paragraph 5(3) of Schedule 4” substitute “ paragraph 5(3) of Schedule 3 to the Parliamentary Voting System and Constituencies Act 2011 ”. |
+| Regulation 61A (conditions on the use, supply and inspection of absent voter records or lists) | For “regulations 61(1)(a) and (b)” substitute “ regulation 61(1) ”. |
+| Regulation 61B (personal identifiers record) | For paragraph (1) substitute—<br>> (1) In this regulation “personal identifiers record” means a record kept by a registration officer in pursuance of—<br>><br>> (a) paragraph 3(9) or 7(12) of Schedule 4 to the Representation of the People Act 2000 in relation to persons entitled to vote in the referendum,<br>><br>> (b) paragraph 3(9) or 7(13) of Schedule 2 to the European Parliamentary Elections Regulations 2004 in relation to peers entitled to vote in the referendum, or<br>><br>> (c) paragraph 4(8) or 8(10) of Schedule 3 to the Parliamentary Voting System and Constituencies Act 2011. In paragraph (3), for sub-paragraph (a) substitute—<br>> (a) any agent attending proceedings on receipt of postal ballot papers, in accordance with regulation 85A(4) or 85B(3)(a). |
+| Regulation 62 (marked register for polling stations) |  |
+| Regulation 64 (interpretation of Part 5) | For the definition of “agent” substitute—<br>> “agent”, except in regulation 69, means a referendum agent or an agent appointed under that regulation;<br>. In the definition of “valid postal voting statement”, for “returning officer” substitute “ counting officer ”. |
+| Regulation 67 (persons entitled to be present at proceedings on issue of postal ballot papers) | For “returning officer” substitute “ counting officer ”. |
+| Regulation 68 (persons entitled to be present at proceedings on receipt of postal ballot papers) | For sub-paragraphs (a) to (c) substitute—<br>> (a) the counting officer and his clerks,<br>><br>> (b) a referendum agent,<br>. |
+| Regulation 69 (agents of candidates who may attend proceedings on receipt of postal ballot papers) | Before paragraph (1) insert—<br>> (A1) A reference in this regulation to a candidate is to be read as a reference to a referendum agent. For “returning officer” (in each place) substitute “ counting officer ”. Omit paragraph (5). |
+| Regulation 70 (notification of requirement of secrecy) | For “returning officer” substitute “ counting officer ”. |
+| Regulation 71 (time when postal ballot papers are to be issued) | For paragraph (1) substitute—<br>> (1) In the case of a person within entry 3, 4 or 5 of the table in paragraph 5(2) of Schedule 3 to the Parliamentary Voting System and Constituencies Act 2011 or entry 3, 4 or 5 of the table in paragraph 8(6) of that Schedule (electors and proxies entitled to vote by post for an indefinite or definite period), no postal ballot paper (and postal voting statement) shall be issued until after 5 pm on the eleventh day before the date of the poll (computed in accordance with regulation 56(6) above). In paragraph (2), for “returning officer” substitute “ counting officer ”. |
+| Regulation 72 (procedure on issue of postal ballot papers) | In paragraph (8), for sub-paragraphs (a) and (b) substitute “ as mentioned in column 3 of the table in paragraph 5(2) or 8(6) of Schedule 3 to the Parliamentary Voting System and Constituencies Act 2011. ” |
+| Regulation 73 (refusal to issue ballot paper) | For “returning officer” substitute “ counting officer ”. For “at any one election” substitute “ for the referendum ”. |
+| Regulation 74 (envelopes) | In paragraph (1), for “rule 24 of the elections rules” substitute “ rule 12 of the referendum rules ”. |
+| Regulation 75 (sealing up of completed corresponding number lists) | For “returning officer” (in both places) substitute “ counting officer ”. |
+| Regulation 76 (delivery of postal ballot papers) | In paragraph (1)—<br>- (a) for “returning officer” substitute “ counting officer ”;<br>- (b) in sub-paragraph (c), for “rule 26(1) of the elections rules” substitute “ rule 14 of the referendum rules ”. In paragraph (2), for “returning officer” substitute “ counting officer ”. |
+| Regulation 77 (spoilt postal ballot papers) | For “returning officer” (in each place) substitute “ counting officer ”. |
+| Regulation 78 (lost postal ballot papers) | For “returning officer” (in each place) substitute “ counting officer ”. |
+| Regulation 79 (alternative means of returning postal ballot paper or postal voting statement) | For “returning officer” (in each place) substitute “ counting officer ”. In paragraph (1), for “rule 45(1B) of the rules in Schedule 1 to the 1983 Act” substitute “ rule 40(3) of the referendum rules ”. In paragraph (3), for “rule 43(1) of the elections rules” substitute “ rule 38(1) of the referendum rules ”. |
+| Regulation 80 (notice of opening of postal ballot paper envelopes) | In paragraph (1)—<br>- (a) for “returning officer” substitute “ counting officer ”;<br>- (b) for “candidate” substitute “ referendum agent ”. In paragraph (2)(b), for “candidate” substitute “ referendum agent ”. |
+| Regulation 81 (postal ballot boxes and receptacles) | For “returning officer” (in each place) substitute “ counting officer ”. In paragraph (2), for the words from “constituency” to the end substitute “ voting area ”. In paragraph (4), after “lock the ballot box” insert “ (if it has a lock) ”. |
+| Regulation 82 (receipt of covering envelope) | For “returning officer” (in both places) substitute “ counting officer ”. |
+| Regulation 83 (opening of postal voters' ballot box) | In paragraphs (1) and (2), for “returning officer” substitute “ counting officer ”. In paragraph (3), for “rule 45 of the elections rules” substitute “ rule 40 of the referendum rules ”. |
+| Regulation 84 (opening of covering envelopes) | For “returning officer” (in each place) substitute “ counting officer ”. |
+| Regulation 84A (confirming receipt of postal voting statements) | For “returning officer” (in each place) substitute “ counting officer ”. |
+| Regulation 85 (procedure in relation to postal voting statements) | For “returning officer” (in each place) substitute “ counting officer ”. |
+| Regulation 85A (procedure in relation to postal voting statements: personal identifier verification) | For “returning officer” (in each place) substitute “ counting officer ”. |
+| Regulation 85B (postal voting statements: additional personal identifier verification) | For “returning officer” (in each place) substitute “ counting officer ”. In paragraph (4), for “lock and reseal the postal ballot box” substitute “ lock the postal ballot box (if it has a lock) and reseal it ”. |
+| Regulation 86 (opening of ballot paper envelopes) | In paragraph (1), for “returning officer” substitute “ counting officer ”. |
+| Regulation 86A (retrieval of cancelled postal ballot papers) | In paragraph (1), for “returning officer” substitute “ counting officer ”. In paragraph (2)(f), for “rule 45 of the elections rules” substitute “ rule 40 of the referendum rules ”. In paragraph (3), for “returning officer” substitute “ counting officer ”. |
+| Regulation 87 (list of rejected postal ballot papers) | In paragraph (1), for “In respect of any election, the returning officer” substitute “ The counting officer ”. |
+| Regulation 88 (checking of lists of rejected postal ballot papers) | For “returning officer” (in each place) substitute “ counting officer ”. In paragraph (3), for the words from “in the constituency” to the end substitute “ in the voting area under rule 38(4) of the referendum rules ”. |
+| Regulation 89 (sealing of receptacles) | In paragraph (1), for “returning officer” substitute “ counting officer ”. |
+| Regulation 91 (forwarding or retention of documents) | For paragraph (1) substitute—<br>> (1) The counting officer shall forward to the relevant registration officer appointed, at the same time as he forwards the documents mentioned in rule 50 of the referendum rules—<br>><br>> (a) any packets referred to in regulations 75, 77(6), 78(2C), 84(9) and 89 above, endorsing on each packet a description of its contents, the date of the referendum and the name of the voting area, and<br>><br>> (b) a completed statement in Form K of the number of postal ballot papers issued.<br>><br>> In this paragraph “relevant registration officer” has the meaning given by rule 50(3) of the referendum rules. In paragraph (3), for “returning officer” (in both places) substitute “ counting officer ”. In paragraph (4), for “Rules 56 and 57 of the elections rules” substitute “ Rules 51 and 52 of the referendum rules ”. In paragraph (5), for “returning officer” substitute “ counting officer ”. |
+| Regulation 92 (interpretation and application of Part 6) | In paragraph (2), omit the definitions of “relevant conditions” and “research purposes”. In the England and Wales Regulations, in paragraph (7), for the words from “under regulations” to the first “may” substitute “ under regulation 98 may ”. In the England and Wales Regulations, in paragraph (10), for the words from “in regulations” to “below” substitute “ in regulation 98(9) below ”. |
+| Regulation 97 of the Scotland Regulations (supply of free copy of full register for electoral purposes and restrictions on use) | For paragraphs (1) to (6) substitute—<br>> (1) By no later than the publication of the notice of a referendum, the registration officer shall supply each relevant counting officer with as many printed copies of the following as he may reasonably require for the purposes of the referendum—<br>><br>> (a) the latest version of the relevant registers,<br>><br>> (b) any notice, published under section 13A(2) or 13B(3), (3B) or (3D) of the 1983 Act, setting out an alteration to the latest version of a relevant register, and<br>><br>> (c) the latest version of the list of overseas electors.<br>><br>> (2) In this regulation—<br>><br>> - “relevant counting officer” in relation to a registration officer—<br>><br>> - (a) means a counting officer for a voting area that is the same as, or falls wholly or partly within, the registration officer's registration area, but<br>> - (b) does not include a counting officer who is the same individual as the registration officer;<br>><br>> - relevant register” means—<br>><br>> - (a) the register of parliamentary electors, published under section 13(1) or (3) of the 1983 Act,<br>> - (b) the register of local government electors, published under section 13(1) or (3) of that Act, or<br>> - (c) the register of peers, maintained under section 3 of the 1985 Act, and published under section 13(1) or (3) of the 1983 Act (as applied by regulation 13(4) of, and Schedule 4 to, these regulations).<br>><br>> (3) If at any time after a registration officer has complied with paragraph (2)—<br>><br>> (a) a revised version of a relevant register is published,<br>><br>> (b) a notice is published, under section 13A(2) or 13B(3), (3B) or (3D) of the 1983 Act, setting out an alteration to the latest version of a relevant register, or<br>><br>> (c) a revised version of the list of overseas electors is published,<br>><br>> the registration officer shall supply the counting officer with as many printed copies of the register, notice or list as he may reasonably require for the purposes of the referendum.<br>><br>> (4) Where a registration officer is under a duty to supply a counting officer with printed copies of a register, notice or list under this regulation, he must also supply a copy of the register, notice or list in data form.<br>><br>> (5) A register, notice or list supplied under this regulation shall be supplied free of charge. In paragraph (7)—<br>- (a) for “the register” substitute “ any register ”;<br>- (b) for “an election” substitute “ the referendum ”. |
+| Regulation 98 of the England and Wales Regulations (supply of free copy of full register for electoral purposes and restrictions on use) | For paragraphs (1) to (8) substitute—<br>> (1) By no later than the publication of the notice of a referendum, the registration officer shall supply each relevant counting officer with as many printed copies of the following as he may reasonably require for the purposes of the referendum—<br>><br>> (a) the latest version of the relevant registers,<br>><br>> (b) any notice, published under section 13A(2) or 13B(3), (3B) or (3D) of the 1983 Act, setting out an alteration to the latest version of a relevant register, and<br>><br>> (c) the latest version of the list of overseas electors.<br>><br>> (2) In this regulation—<br>><br>> - “relevant counting officer” in relation to a registration officer—<br>><br>> - (a) means a counting officer for a voting area that is the same as, or falls wholly or partly within, the registration officer's registration area, but<br>> - (b) does not include a counting officer who is the same individual as the registration officer;<br>><br>> - relevant register” means—<br>><br>> - (a) the register of parliamentary electors, published under section 13(1) or (3) of the 1983 Act,<br>> - (b) the register of local government electors, published under section 13(1) or (3) of that Act, or<br>> - (c) the register of peers, maintained under section 3 of the 1985 Act, and published under section 13(1) or (3) of the 1983 Act (as applied by regulation 13(4) of, and Schedule 4 to, these regulations).<br>><br>> (3) If at any time after a registration officer has complied with paragraph (2)—<br>><br>> (a) a revised version of a relevant register is published,<br>><br>> (b) a notice is published, under sections 13A(2) or 13B(3), (3B) or (3D) of the 1983 Act, setting out an alteration to the latest version of a relevant register, or<br>><br>> (c) a revised version of the list of overseas electors is published,<br>><br>> the registration officer shall supply the counting officer with as many printed copies of the register, notice or list as he may reasonably require for the purposes of the referendum.<br>><br>> (4) Where a registration officer is under a duty to supply a counting officer with printed copies of a register, notice or list under this regulation, he must also supply a copy of the register, notice or list in data form.<br>><br>> (5) A register, notice or list supplied under this regulation shall be supplied free of charge. In paragraph (9)—<br>- (a) for “the register” substitute “ any register ”;<br>- (b) for “an election” substitute “ the referendum ”. |
+| Regulation 115 (offences) | In the England and Wales Regulations, for paragraph (2) substitute—<br>> (2) The provisions are regulations 61(3) and (14), 92(9) and 98(9). In the Scotland Regulations, for paragraph (2) substitute—<br>> (2) The provisions are regulations 61(3) and (14) and 97(7). |
+| Regulation 116 (interpretation of Part 7) | In the England and Wales Regulations, in paragraph (1), for “rule 55(1)(e) of the elections rules” substitute “ by virtue of rule 50(2)(f) of the referendum rules ”. In the England and Wales Regulations, after paragraph (1) insert—<br>> (1A) In this Part references to “the relevant registration officer” have the meaning given by rule 50(3) of the referendum rules. In the Scotland Regulations, in paragraph (1)—<br>- (a) for “returning officer” substitute “ counting officer ”;<br>- (b) for “rule 58 of the elections rules” substitute “ by virtue of rule 50(2)(f) of the referendum rules ”. In the Scotland Regulations, in paragraph (4), for “returning officer” substitute “ counting officer ”. |
+| Regulation 117 (supply of marked registers and lists after an election) | In the England and Wales Regulations, in paragraph (1)—<br>- (a) for the words from “regulation 100” to “local government election” substitute “ regulation 100, 106, 109 or 113 with copies of the full register ”;<br>- (b) at the end insert— “ The reference to a person entitled to be supplied in accordance with regulation 106 with copies of the full register does not include a person mentioned in regulation 106(1)(b). ” In the England and Wales Regulations, in paragraph (2)—<br>- (a) for “regulation 103, 105, 106 or 108 before a particular election” substitute “ regulation 106(1)(a) or (c) before the referendum ”;<br>- (b) for “that election for which the marked register or list was prepared” substitute “ the referendum ”. In the England and Wales Regulations, in paragraph (6)(b), for “regulations 100, 103, 105, 106, 108, 109 or 113” substitute “ regulations 100, 106, 109 and 113 ”. In the England and Wales Regulations, in paragraph (7), for “regulations 100(3), 103(3), 105(4), 106(3), 108(5) and 109(3)” substitute “ regulations 100(3), 106(3) and 109(3) ”. In the Scotland Regulations, for “returning officer” (in each place) substitute “ counting officer ”. In the Scotland Regulations, in paragraph (1)—<br>- (a) for the words from “regulation 99” to “parliamentary election” substitute “ regulation 99, 105, 108 and 112 with copies of the full register ”;<br>- (b) at the end insert— “ The reference to a person entitled to be supplied in accordance with regulation 105 with copies of the full register does not include a person mentioned in regulation 105(1)(b). ” In the Scotland Regulations, in paragraph (2)—<br>- (a) for “regulation 102, 104, 105 or 107 before a particular election” substitute “ regulation 105(1) or (c) before the referendum ”;<br>- (b) for “that election for which the marked register or list was prepared” substitute “ the referendum ”. In the Scotland Regulations, in paragraph (6)(b), for “regulations 99, 102, 104, 105, 107, 108 or 112” substitute “ regulations 99, 105, 108 and 112 ”. In the Scotland Regulations, in paragraph (7), for “regulation 99(3), 102(3), 104(4), 105(3), 107(5) or 108(3)” substitute “ regulation 99(3), 105(3) or 108(3) ”. |
+| Regulation 118 (inspection of documents open to public inspection) | In paragraph (1)(b)—<br>- (a) for “an election” substitute “ the referendum ”;<br>- (b) in paragraph (iii), for “election” substitute “ referendum ”. In the Scotland Regulations, for “returning officer” (in each place) substitute “ counting officer ”. |
+| Regulation 119 (conditions on the use, supply and disclosure of documents open to public inspection) | In paragraph (2), omit “either” and after paragraph (ii) insert<br>> , or<br>><br>> (iii) any purpose in connection with the referendum. |
+| Regulation 120 (calculating the fee for supply of marked registers or lists) |  |
+| In Schedule 3, Form K | For the heading substitute “ REFERENDUM ON THE VOTING SYSTEM FOR UNITED KINGDOM PARLIAMENTARY ELECTIONS ”. For “constituency” substitute “ voting area ”. For “returning officer” (in each place) substitute “ counting officer ”. |
+
+### PART 4 — The 2008 Regulations (Northern Ireland)
+
+**9** (1) The provisions of the Representation of the People (Northern Ireland) Regulations 2008 (S.I. 2008/1741) listed in the first column of the table apply for the purposes of the referendum.
+
+(2) In their application by virtue of this paragraph, those provisions have effect—
+
+(a) with the modifications (if any) shown in the second column of the table, and
+
+(b) with any other necessary modifications, including in particular those set out in sub-paragraph (3).
+
+(3) Except where the context otherwise requires—
+
+(a) a reference to a provision that is applied by this Schedule has effect as a reference to that provision as so applied;
+
+(b) expressions are to be construed in accordance with the definitions listed in section 7 of this Act and rule 53 of the referendum rules.
+
+(4) In relation to the referendum, regulation 94(2) (restrictions on supply etc of full register) has effect as if after sub-paragraph (b) there were inserted—
+
+> (ba) the Chief Counting Officer;
+>
+> (bb) any deputy of the Chief Counting Officer;
+
+and as if the references in sub-paragraph (c) to “any such officer” were to “a person mentioned in sub-paragraph (a), (b), (ba) or (bb)”.
+
+(5) The provisions of the regulations that apply for the purposes of the referendum by virtue of this paragraph are in addition to the provisions of the regulations that would apply for those purposes in any event.
+
+|  |  |
+|---|---|
+| *Provision* | *Modification* |
+| Regulation 3 (interpretation) |  |
+| Regulation 4 (forms) | In paragraph (1), for “an election” substitute “ the referendum ”. Paragraph (2) applies for the purposes of the referendum only in so far as it relates to Form N in Schedule 3 to the regulations. |
+| Regulation 5 (applications, notices etc) |  |
+| Regulation 6 (electronic signatures) |  |
+| Regulation 8 (time) |  |
+| Regulation 11 (interference with notices etc) |  |
+| Regulation 25 (alteration of registers under section 13BA(3) of the 1983 Act) |  |
+| Regulation 40 (representations regarding clerical errors) |  |
+| Regulation 44(2) and (3) (notices in connection with registration) | In paragraph (2) omit “13A(2) or”. |
+| Regulation 45 (communication of notices issued on polling day) | In paragraph (3), for “returning officer” substitute “ counting officer ”. |
+| Regulation 54 (interpretation of Part 4) | In the definition of “his allotted polling station”, for “elections rules” substitute “ referendum rules ”. |
+| Regulation 55 (general requirements for applications for an absent vote) | In paragraph (1), for “section 6, 7, 8 or 9 of the 1985 Act” substitute “ Part 2 of Schedule 3 to the Parliamentary Voting System and Constituencies Act 2011 ”. In paragraph (2)—<br>- (a) for “section 6(1) or 7(1)” substitute “ paragraph 15(1) or 19(4) of Schedule 3 to the Parliamentary Voting System and Constituencies Act 2011 ”;<br>- (b) for “section 6(1)(ba) to (bc) or section 7(1)(ba) to (bc) of the 1985 Act” substitute “ paragraph 15(1)(c) to (e) or 19(4)(d) of that Schedule ”;<br>- (c) in sub-paragraph (b), for “section 9 of the 1985 Act” substitute “ paragraph 19(4) of that Schedule ”;<br>- (d) in sub-paragraph (d), for “section 6(1), 7(1) or 9(4) or (7) of the 1985 Act” substitute “ paragraph 15(1) of that Schedule ”. |
+| Regulation 55A (additional requirement for applications for ballot paper to be sent to different address from that shown in register) | In paragraph (1)—<br>- (a) omit sub-paragraph (a);<br>- (b) in sub-paragraph (b), for “section 7(1) of the 1985 Act, the address provided in accordance with section 7(5) of that Act” substitute “ paragraph 15(1) of Schedule 3 to the Parliamentary Voting System and Constituencies Act 2011, the address provided in accordance with paragraph 15(7) of that Schedule ”;<br>- (c) omit sub-paragraph (c). In paragraph (2), for “the provisions of the 1985 Act mentioned above” substitute “ paragraph 15(7) of Schedule 3 to the Parliamentary Voting System and Constituencies Act 2011 ”. |
+| Regulation 55B (additional requirement for applications for ballot paper to be sent to different address from that shown in records) | For sub-paragraphs (a) and (b) substitute “ paragraph 15(5)(a) or 19(5) of Schedule 3 to the Parliamentary Voting System and Constituencies Act 2011 by a person (“A”) shown as voting by post in the record mentioned there ”. |
+| Regulation 56 (additional requirements for applications for appointment of proxy) | For “section 8(6) or (7) of the 1985 Act” substitute “ paragraph 17(4) of Schedule 3 to the Parliamentary Voting System and Constituencies Act 2011 ”. |
+| Regulation 59 (additional requirement for applications in respect of a particular election) | For paragraph (1) substitute—<br>> (1) An application under paragraph 15(1) of Schedule 3 to the Parliamentary Voting System and Constituencies Act 2011 shall set out why the applicant's circumstances on the date of the poll will be or are likely to be such that he cannot reasonably be expected to vote in person at the polling station allotted to him under the referendum rules. In paragraphs (2)(d) and (3)(d) omit the words from “in respect of the election” to the end. In paragraphs (4), (6) and (8), for “section 7(1) of the 1985 Act” substitute “ paragraph 15(1) of Schedule 3 to the Parliamentary Voting System and Constituencies Act 2011 ”. In paragraph (6)(a), for “the election in question” substitute “ the referendum ”. In paragraph (8), for sub-paragraph (b) substitute—<br>> (b) in which the circumstances set out in accordance with paragraph (1) relate to the applicant's employment either as a constable or by a counting officer on the date of the poll for the referendum for a purpose connected with the referendum;<br>. |
+| Regulation 60 (additional requirements for applications by proxies to vote by post at a particular election) | For “section 9(7) of the 1985 Act” substitute “ paragraph 19(4) of Schedule 3 to the Parliamentary Voting System and Constituencies Act 2011 ”. For “elections rules” substitute “ referendum rules ”. |
+| Regulation 61 (closing date for applications) | For paragraphs (1) to (3) substitute—<br>> (1) An application under section 6(1) or (5), 8(6) or 9(4) of the 1985 Act shall be disregarded for the purposes of the referendum if it is received by the registration officer after 5 pm on the fourteenth day before the date of the poll for the referendum.<br>><br>> (2) Subject to paragraph (3), an application under paragraph 15(1) or (5), 17(4) or 19(4) or (5) of Schedule 3 to the Parliamentary Voting System and Constituencies Act 2011 shall be refused if it is received by the registration officer after 5 pm on the fourteenth day before the day of the poll for the referendum.<br>><br>> (3) Paragraph (2) shall not apply to an application which satisfies the requirements of either paragraphs (6) and (7) or paragraph (8) of regulation 59; and such an application shall be refused if it is received by the registration officer after 5 pm on the sixth day before the day of the poll for the referendum. In paragraph (4)—<br>- (a) after “section 8(9) of that Act by an elector” insert “ , or a notice under paragraph 17(6) of Schedule 3 to the Parliamentary Voting System and Constituencies Act 2011 by a person, ”;<br>- (b) for “a particular election” substitute “ the referendum ”;<br>- (c) for “at that election” substitute “ for the referendum ”. For paragraph (6) substitute—<br>> (6) In paragraph (5) “bank holiday” means a day which is a bank holiday under the Banking and Financial Dealings Act 1971 in any part of the United Kingdom. |
+| Regulation 62 (grant or refusal of applications) | In paragraph (1), for “section 6, 7, 8 or 9 of the 1985 Act” substitute “ Part 2 of Schedule 3 to the Parliamentary Voting System and Constituencies Act 2011 ”. Omit paragraph (3). For paragraph (4) substitute—<br>> (4) Where the registration officer refuses an application under Part 2 of Schedule 3 to the Parliamentary Voting System and Constituencies Act 2011 he shall notify the applicant of his decision. In paragraph (5), for “a particular election” substitute “ the referendum ”. |
+| Regulation 64 (cancellation of proxy appointment) | For the words from “by notice” to the end substitute “ under paragraph 17(6) of Schedule 3 to the Parliamentary Voting System and Constituencies Act 2011, or otherwise ceases to be in force by virtue of that provision, the registration officer shall notify the person who was the proxy, unless the registration officer has previously been notified by that person that he no longer wishes to act as proxy. ” |
+| Regulation 66(1) and (3) (records and lists kept under sections 6, 7 and 8 of the 1985 Act) | For “sections 7(4) and 9(9) of the 1985 Act” substitute “ paragraphs 16(2) or (3) or 19(6) of Schedule 3 to the Parliamentary Voting System and Constituencies Act 2011 ”. |
+| Regulation 70 (interpretation of Part 5) | In the definition of “absent voters list”, for “section 7(4) of the 1985 Act” substitute “ paragraph 16(2) of Schedule 3 to the Parliamentary Voting System and Constituencies Act 2011 ”. For the definition of “agent” substitute—<br>> “agent”, except in regulation 73, means a referendum agent or an agent appointed under that regulation;<br>. In the definition of “list of postal proxies”, for “section 9(9) of the 1985 Act” substitute “ paragraph 19(6) of Schedule 3 to the Parliamentary Voting System and Constituencies Act 2011 ”. |
+| Regulation 72 (persons entitled to be present at proceedings on issue and receipt of postal ballot papers) | For “a parliamentary election” substitute “ the referendum ”. For sub-paragraphs (a) to (c) substitute—<br>> (a) the counting officer and his clerks,<br>><br>> (b) a referendum agent,<br>. |
+| Regulation 73 (agents of candidates who may attend proceedings on issue or receipt of postal ballot papers) | Before paragraph (1) insert—<br>> (A1) A reference in this regulation to a candidate is to be read as a reference to a referendum agent. For “returning officer” (in each place) substitute “ counting officer ”. Omit paragraph (6). |
+| Regulation 74 (notification of requirement of secrecy) | For “returning officer” substitute “ counting officer ”. |
+| Regulation 75 (notice of issue of postal ballot papers) | In paragraphs (1) and (2)—<br>- (a) for “returning officer” substitute “ counting officer ”;<br>- (b) for “candidate” (in each place) substitute “ referendum agent ”. |
+| Regulation 76 (procedure on issue of postal ballot papers) | In paragraph (5)(b), for “section 9(9) of the 1985 Act” substitute “ paragraph 19(6) of Schedule 3 to the Parliamentary Voting System and Constituencies Act 2011 ”. |
+| Regulation 77 (refusal to issue postal ballot paper) | For “returning officer” substitute “ counting officer ”. |
+| Regulation 78 (envelopes) | In paragraph (1), for “rule 24 of the elections rules” substitute “ rule 12 of the referendum rules ”. |
+| Regulation 79 (sealing up of completed corresponding number lists) | For “returning officer” (in each place) substitute “ counting officer ”. |
+| Regulation 80 (delivery of postal ballot papers) | In paragraph (1)—<br>- (a) for “returning officer” substitute “ counting officer ”;<br>- (b) in sub-paragraph (c), for “rule 26(1) of the elections rules” substitute “ rule 14 of the referendum rules ”. In paragraph (2), for “returning officer” substitute “ counting officer ”. |
+| Regulation 81 (spoilt postal ballot papers) | For “returning officer” (in each place) substitute “ counting officer ”. |
+| Regulation 82 (notice of opening of postal ballot paper envelopes) | In paragraph (1)—<br>- (a) for “returning officer” substitute “ counting officer ”;<br>- (b) for “candidate” substitute “ referendum agent ”. In paragraph (2), for “candidate” substitute “ referendum agent ”. |
+| Regulation 83 (postal ballot boxes and receptacles) | For “returning officer” (in each place) substitute “ counting officer ”. In paragraph (2), for the words “constituency for which the election is held” substitute “ voting area ”. In paragraph (4), after “lock the postal ballot box” insert “ (if it has a lock) ”. |
+| Regulation 84 (receipt of covering envelope) | For “returning officer” substitute “ counting officer ”. |
+| Regulation 85 (opening of postal voters' ballot box) | In paragraphs (1) and (2), for “returning officer” substitute “ counting officer ”. In paragraph (3), for “rule 45 of the elections rules” substitute “ rule 40 of the referendum rules ”. |
+| Regulation 86 (opening of covering envelopes) | For “returning officer” (in each place) substitute “ counting officer ”. After paragraph (4) insert—<br>> (5) Where an envelope opened in accordance with paragraph (1) contains a declaration of identity (whether separate or not), the counting officer must place a mark in the marked copy of the postal voters list or the proxy postal voters list in a place corresponding to the number of the elector to denote that a postal vote has been returned.<br>><br>> (6) A mark made under paragraph (5) must be distinguishable from and must not obscure the mark made under regulation 76.<br>><br>> (7) As soon as practicable after the last covering envelope has been opened, the counting officer must make up into a packet the copy of the postal voters list and the proxy postal voters list that has been marked in accordance with paragraph (5) and must seal the packet. |
+| Regulation 87 (procedure in relation to declarations of identity) | For “returning officer” (in each place) substitute “ counting officer ”. In paragraph (1)(b), for “rule 45(2)(b) and (2A) of the elections rules)” substitute “ rule 40(4)(b) and (5) of the referendum rules ”. |
+| Regulation 88 (opening of ballot paper envelopes) | In paragraph (1), for “returning officer” substitute “ counting officer ”. |
+| Regulation 89 (sealing of receptacles) | For “returning officer” substitute “ counting officer ”. |
+| Regulation 91 (forwarding of documents) | For paragraph (1) substitute—<br>> (1) The Chief Electoral Officer for Northern Ireland shall retain, together with the documents mentioned in rule 50 of the referendum rules—<br>><br>> (a) any packets referred to in regulations 79, 81(5) and 89, endorsing on each packet a description of its contents, the date of the referendum and the name of the voting area; and<br>><br>> (b) a completed statement in Form N. For “returning officer” (in each place) substitute “ counting officer ”. In paragraph (2), for the words from “and endorse” to the end substitute “ , endorse the packet as mentioned in paragraph (1)(a) and retain the packet ”. For paragraph (3) substitute—<br>> (3) Rules 51 and 52 of the referendum rules shall apply to any packet or document retained under this regulation. |
+| Regulation 115 (interpretation of Part 7) | In paragraph (1), for “rule 57(1A) of the elections rules” substitute “ rule 50(1)(b) of the referendum rules ”. |
+| Regulation 116 (supply of marked registers and lists after an election) | In paragraph (1)—<br>- (a) for the words from “regulation 99” to “local government election” substitute “ regulations 99, 105, 107 or 111, with copies of the full register ”;<br>- (b) at the end insert— “ The reference to a person entitled to be supplied in accordance with regulation 105 with copies of the full register does not include a person mentioned in regulation 105(1)(b). ” In paragraph (2)—<br>- (a) for the words from “regulation 102” to “particular election” substitute “ regulation 105(1)(a) or (c) applies before the referendum ”;<br>- (b) for “that election” substitute “ the referendum ”. In paragraph (6)(b), for “regulations 99, 102, 104, 105, 106, 107 or 111” substitute “ regulations 99, 105, 107 and 111 ”. |
+| Regulation 117 (inspection of documents open to public inspection) | In paragraph (1)(b), for “an election” substitute “ the referendum ”. |
+| Regulation 118 (conditions on the use, supply and disclosure of documents open to public inspection) | In paragraph (2) omit “either” and at the end insert “ or any purpose in connection with the referendum ”. |
+| Regulation 119 (fees relating to the supply of marked registers and lists) |  |
+| In Schedule 3, Form N | For the heading substitute “ REFERENDUM ON THE VOTING SYSTEM FOR UNITED KINGDOM PARLIAMENTARY ELECTIONS ”. For “constituency” substitute “ voting area ”. For “returning officer” (in each place) substitute “ counting officer ”. |
+
+## SCHEDULE 5 — Combination of polls: England
+
+*Section 4*
+
+### PART 1 — Provision about combination
+
+#### General provisions
+
+##### Interpretation
+
+**1** (1) An election or local referendum the poll for which is, under section 4(1), to be taken together with the poll for the referendum under section 1 is referred to in this Schedule as a “relevant election”.
+
+(2) The polls to be taken together are referred to in this Schedule as “combined polls”.
+
+(3) In relation to a local referendum, expressions used in this Part of this Schedule are to be construed in accordance with the following table.
+
+|  |  |
+|---|---|
+| *Expression* | *Meaning* |
+| “Counting agent” | Counting observer as defined by regulation 2(1) of the Local Authorities (Conduct of Referendums) (England) Regulations 2007 (S.I. 2007/2089). |
+| “Election agent” | Counting observer as defined by that regulation. |
+| “Polling agent” | Polling observer as defined by that regulation. |
+| “Returning officer” | Counting officer as defined by that regulation. |
+| “Elector” | Voter as defined by rule 2(1) of the Local Referendums (Combination of Polls) Rules. |
+
+**2** In this Schedule—
+
+- “counting agent” means a counting agent for the referendum or a counting agent for a relevant election (except where one or other is specified);
+
+- “local authority” means—
+
+  - (a) a county council in England;
+  - (b) a district council;
+  - (c) a London borough council;
+  - (d) a parish council;
+
+- “Local Elections (Combination of Polls) Rules” means the rules set out in Schedule 3 to the Local Elections (Principal Areas) (England and Wales) Rules 2006 (S.I. 2006/3304);
+
+- “local referendum” means a referendum held in England under Part 2 of the Local Government Act 2000;
+
+- “Local Referendums (Combination of Polls) Rules” means the rules set out in Schedule 5 to the Local Authorities (Conduct of Referendums) (England) Regulations 2007 (S.I. 2007/2089);
+
+- “Mayoral Elections (Combination of Polls) Rules” means the rules set out in Schedule 3 to the Local Authorities (Mayoral Elections) (England and Wales) Regulations 2007 (S.I. 2007/1024);
+
+- “Parish Elections (Combination of Polls) Rules” means the rules set out in Schedule 3 to the Local Elections (Parishes and Communities) (England and Wales) Rules 2006 (S.I. 2006/3305).
+
+##### Functions to be performed by counting officer
+
+**3** (1) The specified functions of a returning officer for a relevant election are to be carried out instead by the counting officer for the voting area in which the relevant election is to be held.
+
+(2) The specified functions are those specified in regulation 5 of the Representation of the People (Combination of Polls) (England and Wales) Regulations 2004 (S.I. 2004/294) (so far as relating to relevant elections).
+
+(3) This paragraph applies instead of regulation 4 of those regulations so far as it relates to the functions of returning officers.
+
+##### Attendance and conduct of observers
+
+**4** Section 6E of the 2000 Act has effect as if for subsection (4) there were substituted—
+
+> (4) A relevant officer is—
+>
+> (a) in the case of proceedings at a polling station, the presiding officer;
+>
+> (b) in the case of any other proceedings at the issue or receipt of postal ballot papers, the relevant returning or counting officer within the meaning of regulation 64 of the Representation of the People (England and Wales) Regulations 2001 (S.I. 2001/341);
+>
+> (c) in the case of any proceedings at the counting of votes, the counting or returning officer responsible for counting the votes under paragraph 44(1) or (3) of Schedule 5 to the Parliamentary Voting System and Constituencies Act 2011;
+>
+> (d) in the case of any proceedings not mentioned in paragraph (a), (b) or (c), the counting officer for the referendum on the voting system for United Kingdom parliamentary elections;
+>
+> (e) such other person as a person mentioned in paragraph (a), (b), (c) or (d) authorises for the purposes of the proceedings mentioned in that paragraph.
+
+##### Cost of combined polls
+
+**5** The cost of taking the combined polls (excluding any cost solely attributable to the referendum or to a particular relevant election), and any cost attributable to their combination, is to be apportioned equally among them.
+
+**6** (1) In section 36 of the 1983 Act (local authority elections), subsections (4), (5) and (6) apply—
+
+(a) as if a reference to a returning officer included a reference to a counting officer carrying out functions that, but for this Schedule, would be exercisable by a returning officer (“transferred functions”), and
+
+(b) as if, in relation to that counting officer, a reference to expenditure or expenses were to expenditure or expenses in respect of transferred functions.
+
+(2) In fixing a scale under subsection (4) or (5) of that section a local authority may include special provision in respect of expenditure incurred by a counting officer in carrying out transferred functions (including expenditure incurred in respect of the remuneration of presiding officers or clerks).
+
+##### Application of other provisions about combination of polls
+
+**7** (1) The following regulations have effect as if a reference to “a relevant election or referendum” included a reference to the referendum under section 1.
+
+(2) The regulations are—
+
+(a) the Local Elections (Principal Areas) (England and Wales) Rules 2006;
+
+(b) the Local Elections (Parishes and Communities) (England and Wales) Rules 2006;
+
+(c) the Local Authorities (Conduct of Referendums) (England) Regulations 2007;
+
+(d) the Local Authorities (Mayoral Elections) (England and Wales) Regulations 2007.
+
+(3) Regulation 11 of the Local Authorities (Conduct of Referendums) (England) Regulations 2007 has effect as if the reference to regulation 10(1) or (7) included a reference to section 4.
+
+(4) In relation to the referendum, expressions used in the regulations are to be construed in accordance with the following table.
+
+|  |  |
+|---|---|
+| *Expression* | *Meaning* |
+| “Counting agent” | Counting agent appointed under rule 18 of the referendum rules. |
+| “Election agent” | Counting agent appointed under rule 18 of the referendum rules. |
+| “Polling agent” | Polling agent appointed under rule 18 of the referendum rules. |
+| “Voting area” | Voting area as defined by section 7. |
+
+##### Forms
+
+**8** Forms 2, 3, 5, 6 and 8 in Part 3 of this Schedule are “relevant forms” for the purposes of rule 10 of the referendum rules.
+
+#### Action to be taken before poll
+
+##### Corresponding number lists
+
+**9** (1) This paragraph applies where proceedings on the issue and receipt of postal ballot papers are taken together by virtue of regulation 65 of the Representation of the People (England and Wales) Regulations 2001.
+
+(2) If the counting officer thinks fit, the lists to be prepared under the following provisions may be combined in the form set out in Form 1 in Part 3 of this Schedule—
+
+(a) rule 6 of the referendum rules;
+
+(b) rule 17 of the Local Elections (Combination of Polls) Rules;
+
+(c) rule 17 of the Parish Elections (Combination of Polls) Rules;
+
+(d) rule 8 of the Local Referendums (Combination of Polls) Rules;
+
+(e) rule 19 of the Mayoral Elections (Combination of Polls) Rules.
+
+(3) In that case, this paragraph applies instead of—
+
+(a) rule 6(2) of the referendum rules;
+
+(b) rule 17(2) of the Local Elections (Combination of Polls) Rules;
+
+(c) rule 17(2) of the Parish Elections (Combination of Polls) Rules;
+
+(d) rule 8(3) of the Local Referendums (Combination of Polls) Rules;
+
+(e) rule 19(2) of the Mayoral Elections (Combination of Polls) Rules.
+
+**10** (1) This paragraph applies where proceedings on the issue and receipt of postal ballot papers are not taken together by virtue of regulation 65 of the Representation of the People (England and Wales) Regulations 2001.
+
+(2) If the counting officer thinks fit, the officer may prepare a single list containing the numbers and other unique identifying marks of all of the ballot papers to be provided to presiding officers in pursuance of the following provisions—
+
+(a) rule 17(1) of the referendum rules;
+
+(b) rule 26(1) of the Local Elections (Combination of Polls) Rules;
+
+(c) rule 26(1) of the Parish Elections (Combination of Polls) Rules;
+
+(d) rule 17(1) of the Local Referendums (Combination of Polls) Rules;
+
+(e) rule 28 of the Mayoral Elections (Combination of Polls) Rules.
+
+(3) The list must be in the form set out in Form 1 in Part 3 of this Schedule.
+
+(4) If a list is prepared in relation to ballot papers under this paragraph, the list prepared under the following provisions must not include details relating to those ballot papers—
+
+(a) rule 6 of the referendum rules;
+
+(b) rule 17 of the Local Elections (Combination of Polls) Rules;
+
+(c) rule 17 of the Parish Elections (Combination of Polls) Rules;
+
+(d) rule 8 of the Local Referendums (Combination of Polls) Rules;
+
+(e) rule 19 of the Mayoral Elections (Combination of Polls) Rules.
+
+(5) A reference in an enactment to a list prepared under a provision mentioned in sub-paragraph (4) has effect, in so far as it relates to ballot papers to be provided in pursuance of the provisions mentioned in sub-paragraph (2), as a reference to the list prepared under this paragraph.
+
+##### Notice of poll
+
+**11** (1) The notice of the poll for each relevant election must be published by not later than the 15th day before the date of the poll.
+
+(2) The timetables set out in the following provisions are to be read with whatever modifications are necessary to give effect to sub-paragraph (1)—
+
+(a) rule 1 of the Local Elections (Combination of Polls) Rules;
+
+(b) rule 1 of the Parish Elections (Combination of Polls) Rules;
+
+(c) rule 3 of the Local Referendums (Combination of Polls) Rules;
+
+(d) rule 3 the Mayoral Elections (Combination of Polls) Rules.
+
+(3) Sub-paragraph (1) applies instead of rule 12(2) of the Local Referendums (Combination of Polls) Rules.
+
+##### Notice of polling stations
+
+**12** The notice given under rule 11(3) of the referendum rules must—
+
+(a) state that the poll for the referendum is to be taken together with the poll for each relevant election,
+
+(b) specify the local authority for which each relevant election is to be held, and
+
+(c) where any of the polls are to be taken together in part only of a voting area for the referendum, specify that part.
+
+##### Postal voting statements
+
+**13** (1) This paragraph applies where proceedings on the issue and receipt of postal ballot papers are taken together by virtue of regulation 65 of the Representation of the People (England and Wales) Regulations 2001.
+
+(2) The form of postal voting statement to be issued to those who are entitled to vote by post in the referendum and in each relevant election must be in the form set out in Form 2 in Part 3 of this Schedule.
+
+(3) Where that form is used, this paragraph applies instead of any requirement in the following provisions for a postal voting statement to be in a particular form.
+
+(4) The provisions are—
+
+(a) rule 12(1)(b) of the referendum rules;
+
+(b) rule 22(1) of the Local Elections (Combination of Polls) Rules;
+
+(c) rule 22(1) of the Parish Elections (Combination of Polls) Rules;
+
+(d) rule 13(1) of the Local Referendums (Combination of Polls) Rules;
+
+(e) rule 24(1) of the Mayoral Elections (Combination of Polls) Rules.
+
+**14** (1) This paragraph applies where proceedings on the issue and receipt of postal ballot papers are not taken together by virtue of regulation 65 of the Representation of the People (England and Wales) Regulations 2001.
+
+(2) The form of postal voting statement to be issued to those entitled to vote by post in the referendum must be in the form set out in Form 3 in Part 3 of this Schedule.
+
+(3) This paragraph applies instead of the requirement in rule 12(1)(b) of the referendum rules for a postal voting statement to be in a particular form.
+
+##### Colour of ballot papers
+
+**15** The ballot papers used for the referendum must be of a different colour from the ballot papers used for any relevant election.
+
+##### Polling stations
+
+**16** (1) The referendum polling stations are to be used for the combined polls.
+
+(2) This paragraph applies instead of—
+
+(a) regulation 4 of the Representation of the People (Combination of Polls) (England and Wales) Regulations 2004 so far as it relates to polling stations;
+
+(b) rule 14(2) of the Local Referendums (Combination of Polls) Rules.
+
+##### Official poll cards
+
+**17** (1) If the counting officer thinks fit, the official poll cards used for the referendum and for the relevant elections may be combined.
+
+(2) In that case, the forms required to be used for official poll cards for the referendum and relevant elections must be adapted in whatever manner seems necessary.
+
+(3) In sub-paragraph (1) “relevant election” does not include the election of a councillor of a parish council.
+
+(4) This paragraph applies instead of—
+
+(a) rule 25(6) of the Local Elections (Combination of Polls) Rules;
+
+(b) rule 16(6) of the Local Referendums (Combination of Polls) Rules;
+
+(c) rule 27(6) of the Mayoral Elections (Combination of Polls) Rules.
+
+##### Ballot boxes
+
+**18** (1) If the counting officer thinks fit, the same ballot box may be used at the polls for the referendum and the relevant elections.
+
+(2) Where separate ballot boxes are used, each must be clearly marked to show—
+
+(a) the poll to which it relates, and
+
+(b) the colour of ballot papers that should be placed in it.
+
+(3) This paragraph applies instead of—
+
+(a) rule 26(2) and (7) of the Local Elections (Combination of Polls) Rules;
+
+(b) rule 26(2) and (7) of the Parish Elections (Combination of Polls) Rules;
+
+(c) rule 17(2) and (7) of the Local Referendums (Combination of Polls) Rules;
+
+(d) rule 28(2) and (7) of the Mayoral Elections (Combination of Polls) Rules.
+
+##### Form of corresponding number lists provided to polling stations
+
+**19** (1) If the counting officer thinks fit, the lists to be provided under the following provisions may be combined in the form set out in Form 4 in Part 3 of this Schedule—
+
+(a) rule 17(3)(d) of the referendum rules;
+
+(b) rule 26(4)(d) of the Local Elections (Combination of Polls) Rules;
+
+(c) rule 26(4)(d) of the Parish Elections (Combination of Polls) Rules;
+
+(d) rule 17(4)(d) of the Local Referendums (Combination of Polls) Rules;
+
+(e) rule 28(4)(d) of the Mayoral Elections (Combination of Polls) Rules.
+
+(2) In that case, this paragraph applies instead of the second sentence in rule 17(3) of the referendum rules.
+
+##### Ballot paper displayed in polling stations
+
+**20** The large version of the ballot paper displayed inside the polling station under rule 17(4)(a) of the referendum rules must be of the same colour as the ballot papers to be used for the referendum.
+
+##### Guidance to be exhibited inside and outside polling stations
+
+**21** (1) A notice in the form set out in Form 5 in Part 3 of this Schedule, giving directions for the guidance of voters in voting, must be printed in conspicuous characters and exhibited inside and outside every polling station.
+
+(2) This paragraph applies instead of—
+
+(a) rule 17(6) of the referendum rules;
+
+(b) rule 26(8) of the Local Elections (Combination of Polls) Rules;
+
+(c) rule 26(8) of the Parish Elections (Combination of Polls) Rules;
+
+(d) rule 17(8) of the Local Referendums (Combination of Polls) Rules;
+
+(e) rule 28(8) of the Mayoral Elections (Combination of Polls) Rules.
+
+##### Guidance to be exhibited in each polling station compartment
+
+**22** (1) A notice in the form set out in Form 6 in Part 3 of this Schedule, giving directions for the guidance of voters in voting, must be exhibited in every compartment of every polling station.
+
+(2) This paragraph applies instead of—
+
+(a) rule 17(7) of the referendum rules;
+
+(b) rule 26(10) of the Local Elections (Combination of Polls) Rules;
+
+(c) rule 26(10) of the Parish Elections (Combination of Polls) Rules;
+
+(d) rule 17(10) of the Local Referendums (Combination of Polls) Rules;
+
+(e) rule 28(10) of the Mayoral Elections (Combination of Polls) Rules.
+
+##### Notice of appointment of polling and counting agents
+
+**23** (1) A notice required to be given to a returning officer for a relevant election under any of the following provisions is to be given instead to the counting officer for the voting area in which the relevant election is to be held—
+
+(a) rule 27(5), (7) or (8) of the Local Elections (Combination of Polls) Rules;
+
+(b) rule 27(5) or (7) of the Parish Elections (Combination of Polls) Rules;
+
+(c) rule 29(7), (9) or (10) of the Mayoral Elections (Combination of Polls) Rules.
+
+(2) This paragraph applies instead of—
+
+(a) rule 27(6) of the Local Elections (Combination of Polls) Rules;
+
+(b) rule 27(6) of the Parish Elections (Combination of Polls) Rules;
+
+(c) rule 29(8) of the Mayoral Elections (Combination of Polls) Rules.
+
+#### The poll
+
+##### Admission to the polling station
+
+**24** Rule 21(1) of the referendum rules has effect as if the persons listed there included persons who would be entitled to be admitted to the polling station for any relevant election if the poll for that relevant election were held on its own.
+
+##### Voting by persons on duty on day of poll
+
+**25** (1) Paragraph 2(5) of Schedule 3 has effect as if in the words after paragraph (b) the reference to any polling station were to any polling station in the same voting area as the allotted polling station.
+
+(2) A certificate as to employment on duty on the day of the poll for the referendum must be in the form set out in Form 7 in Part 3 of this Schedule.
+
+(3) Sub-paragraph (2) applies instead of rule 21(4)(b) of the referendum rules.
+
+##### Questions put to voters: local referendums
+
+**26** The Table in rule 26 of the Local Referendums (Combination of Polls) Rules has effect as if for “this referendum”, in each place, there were substituted “ this (*specify local authority*) referendum ”.
+
+##### Voting procedure: copies of registers and absent voters lists
+
+**27** (1) If the counting officer thinks fit, the same copy of the register of electors may be used under the following provisions for the purposes of the referendum and the relevant elections—
+
+(a) rule 28(2) of the referendum rules;
+
+(b) rule 35(1) of the Local Elections (Combination of Polls) Rules;
+
+(c) rule 35(1) of the Parish Elections (Combination of Polls) Rules;
+
+(d) rule 28(1) of the Local Referendums (Combination of Polls) Rules;
+
+(e) rule 37(1) of the Mayoral Elections (Combination of Polls) Rules.
+
+(2) Sub-paragraphs (3) and (4) apply where the same copy of the register is used as mentioned in sub-paragraph (1).
+
+(3) In a case where a ballot paper is delivered at the same time in respect of the referendum and each relevant election, a single mark must be placed in the register against the number of the elector under—
+
+(a) rule 28(2)(c) of the referendum rules,
+
+(b) rule 35(1)(c) of the Local Elections (Combination of Polls) Rules,
+
+(c) rule 35(1)(c) of the Parish Elections (Combination of Polls) Rules,
+
+(d) rule 28(1)(c) of the Local Referendums (Combination of Polls) Rules, and
+
+(e) rule 37(1)(c) of the Mayoral Elections (Combination of Polls) Rules.
+
+(4) In any other case, a mark must be placed in the register against the number of the elector identifying the poll to which each ballot paper delivered relates.
+
+(5) In the case of an elector who is added to the register in pursuance of a notice issued under section 13B(3B) or (3D) of the 1983 Act—
+
+(a) references in this paragraph to the copy of the register of electors are to be read as references to the copy of the notice;
+
+(b) references to a mark being placed in the register of electors are to be read as references to a mark being made on the copy of the notice.
+
+(6) This paragraph applies instead of—
+
+(a) rule 35(6) of the Local Elections (Combination of Polls) Rules;
+
+(b) rule 35(6) of the Parish Elections (Combination of Polls) Rules;
+
+(c) rule 28(6) of the Local Referendums (Combination of Polls) Rules;
+
+(d) rule 37(6) of the Mayoral Elections (Combination of Polls) Rules.
+
+**28** (1) If the counting officer thinks fit, the counting officer may require the relevant registration officer to produce a combined list of proxies for the referendum and the relevant elections.
+
+(2) The following provisions apply where the lists are combined and a person applies for a ballot paper as proxy.
+
+(3) Immediately before delivery of the ballot paper the list of proxies must be marked in a way that identifies—
+
+(a) the proxy,
+
+(b) the elector for whom the proxy is applying for the ballot paper, and
+
+(c) the referendum or relevant election to which the ballot paper relates.
+
+(4) Sub-paragraph (3) applies instead of—
+
+(a) rule 28(2)(d) of the referendum rules;
+
+(b) rule 35(1)(d) of the Local Elections (Combination of Polls) Rules;
+
+(c) rule 35(1)(d) of the Parish Elections (Combination of Polls) Rules;
+
+(d) rule 28(1)(d) of the Local Referendums (Combination of Polls) Rules;
+
+(e) rule 37(1)(d) of the Mayoral Elections (Combination of Polls) Rules.
+
+**29** (1) This paragraph applies where proceedings on the issue and receipt of postal ballot papers are taken together by virtue of regulation 65 of the Representation of the People (England and Wales) Regulations 2001.
+
+(2) If the counting officer thinks fit, the counting officer may require the relevant registration officer to produce a combined postal voters list and a combined proxy postal voters list for the referendum and the relevant elections.
+
+##### List of votes marked by presiding officer
+
+**30** (1) If the counting officer thinks fit, a single list of votes marked by the presiding officer may be used for the purposes of the referendum and the relevant elections.
+
+(2) Where a person's entry in that list does not relate to the referendum and each relevant election the entry must—
+
+(a) indicate whether it relates to the referendum, and
+
+(b) identify any relevant election to which it relates.
+
+(3) In this paragraph “list of votes marked by the presiding officer” means a list compiled under—
+
+(a) rule 30(4) of the referendum rules,
+
+(b) rule 36(2) of the Local Elections (Combination of Polls) Rules,
+
+(c) rule 36(2) of the Parish Elections (Combination of Polls) Rules,
+
+(d) rule 29(2) of the Local Referendums (Combination of Polls) Rules, or
+
+(e) rule 38(2) of the Mayoral Elections (Combination of Polls) Rules.
+
+(4) This paragraph applies instead of—
+
+(a) rule 36(4) of the Local Elections (Combination of Polls) Rules;
+
+(b) rule 36(4) of the Parish Elections (Combination of Polls) Rules;
+
+(c) rule 29(4) of the Local Referendums (Combination of Polls) Rules;
+
+(d) rule 38(5) of the Mayoral Elections (Combination of Polls) Rules.
+
+##### Declaration to be made by the companion of a voter with disabilities
+
+**31** (1) A declaration made by the companion of a voter with disabilities must be in the form set out in Form 8 in Part 3 of this Schedule.
+
+(2) In this paragraph “declaration made by the companion of a voter with disabilities” means a declaration made by a companion under—
+
+(a) rule 31 of the referendum rules,
+
+(b) rule 37 of the Local Elections (Combination of Polls) Rules,
+
+(c) rule 37 of the Parish Elections (Combination of Polls) Rules,
+
+(d) rule 30 of the Local Referendums (Combination of Polls) Rules, or
+
+(e) rule 39 of the Mayoral Elections (Combination of Polls) Rules.
+
+(3) This paragraph applies instead of—
+
+(a) rule 31(5)(a) of the referendum rules;
+
+(b) rule 37(7)(a) of the Local Elections (Combination of Polls) Rules;
+
+(c) rule 37(7)(a) of the Parish Elections (Combination of Polls) Rules;
+
+(d) rule 30(7)(a) of the Local Referendums (Combination of Polls) Rules;
+
+(e) rule 39(8)(a) of the Mayoral Elections (Combination of Polls) Rules.
+
+##### List of voters with disabilities assisted by companions
+
+**32** (1) If the counting officer thinks fit, a single list of voters with disabilities assisted by companions may be used for the purposes of the referendum and the relevant elections.
+
+(2) Where a person's entry in that list does not relate to the referendum and each relevant election the entry must—
+
+(a) indicate whether it relates to the referendum, and
+
+(b) identify any relevant election to which it relates.
+
+(3) In this paragraph “list of voters with disabilities assisted by companions” means a list compiled under—
+
+(a) rule 31(8) of the referendum rules,
+
+(b) rule 37(4) of the Local Elections (Combination of Polls) Rules,
+
+(c) rule 37(4) of the Parish Elections (Combination of Polls) Rules,
+
+(d) rule 30(4) of the Local Referendums (Combination of Polls) Rules, or
+
+(e) rule 39(4) of the Mayoral Elections (Combination of Polls) Rules.
+
+(4) This paragraph applies instead of—
+
+(a) rule 37(6) of the Local Elections (Combination of Polls) Rules;
+
+(b) rule 37(6) of the Parish Elections (Combination of Polls) Rules;
+
+(c) rule 30(6) of the Local Referendums (Combination of Polls) Rules;
+
+(d) rule 39(7) of the Mayoral Elections (Combination of Polls) Rules.
+
+##### Tendered votes list
+
+**33** (1) If the counting officer thinks fit, a single tendered votes list may be used for the purposes of the referendum and the relevant elections.
+
+(2) Where a person's entry in that list does not relate to the referendum and each relevant election the entry must—
+
+(a) indicate whether it relates to the referendum, and
+
+(b) identify any relevant election to which it relates.
+
+(3) In this paragraph “tendered votes list” means a list compiled under—
+
+(a) rule 33(7) of the referendum rules,
+
+(b) rule 39(2) of the Local Elections (Combination of Polls) Rules,
+
+(c) rule 39(2) of the Parish Elections (Combination of Polls) Rules,
+
+(d) rule 32(2) of the Local Referendums (Combination of Polls) Rules, or
+
+(e) rule 41(2) of the Mayoral Elections (Combination of Polls) Rules.
+
+(4) This paragraph applies instead of—
+
+(a) rule 39(3) of the Local Elections (Combination of Polls) Rules;
+
+(b) rule 39(3) of the Parish Elections (Combination of Polls) Rules;
+
+(c) rule 32(3) of the Local Referendums (Combination of Polls) Rules;
+
+(d) rule 41(3) of the Mayoral Elections (Combination of Polls) Rules.
+
+##### Lists relating to correction of errors on day of poll
+
+**34** (1) If the counting officer thinks fit, a single list of persons to whom ballot papers are delivered in consequence of late alterations to the register may be used for the purposes of the referendum and the relevant elections.
+
+(2) Where a person's entry in that list does not relate to the referendum and each relevant election the entry must—
+
+(a) indicate whether it relates to the referendum, and
+
+(b) identify any relevant election to which it relates.
+
+(3) In this paragraph “list of persons to whom ballot papers are delivered in consequence of late alterations to the register” means a list compiled under—
+
+(a) rule 36 of the referendum rules,
+
+(b) rule 41(1) of the Local Elections (Combination of Polls) Rules,
+
+(c) rule 41(1) of the Parish Elections (Combination of Polls) Rules,
+
+(d) rule 34(1) of the Local Referendums (Combination of Polls) Rules, or
+
+(e) rule 43(1) of the Mayoral Elections (Combination of Polls) Rules.
+
+(4) This paragraph applies instead of—
+
+(a) rule 41(2) of the Local Elections (Combination of Polls) Rules;
+
+(b) rule 41(2) of the Parish Elections (Combination of Polls) Rules;
+
+(c) rule 34(2) of the Local Referendums (Combination of Polls) Rules;
+
+(d) rule 43(2) of the Mayoral Elections (Combination of Polls) Rules.
+
+##### Notice of adjournment in case of riot
+
+**35** In the following provisions, references to a returning officer are to be read as references to the counting officer—
+
+(a) rule 42(1) of the Local Elections (Combination of Polls) Rules;
+
+(b) rule 42(1) of the Parish Elections (Combination of Polls) Rules;
+
+(c) rule 44(1) of the Mayoral Elections (Combination of Polls) Rules.
+
+##### Procedure on close of poll
+
+**36** (1) In rule 38(1) of the referendum rules the reference to polling agents includes a reference to polling agents appointed for the purposes of any relevant election.
+
+(2) A packet made up under rule 38(1)(b), (c) or (f) of the referendum rules may not be combined with a packet made up under a corresponding provision of the rules governing any relevant election.
+
+(3) The ballot paper account prepared under rule 38(6) of the referendum rules may not be combined with the ballot paper account for any relevant election.
+
+**37** (1) In the following provisions, references to a returning officer are to be read as references to the counting officer—
+
+(a) rule 43(1) of the Local Elections (Combination of Polls) Rules;
+
+(b) rule 43(1) of the Parish Elections (Combination of Polls) Rules;
+
+(c) rule 45(1) of the Mayoral Elections (Combination of Polls) Rules.
+
+(2) This paragraph applies instead of—
+
+(a) rule 43(3) of the Local Elections (Combination of Polls) Rules;
+
+(b) rule 43(3) of the Parish Elections (Combination of Polls) Rules;
+
+(c) rule 45(3) of the Mayoral Elections (Combination of Polls) Rules.
+
+#### Counting of votes
+
+##### Attendance and arrangements for counting
+
+**38** (1) The counting officer must make arrangements for counting the ballot papers and carrying out the other functions conferred by paragraph 42 in the presence of the counting agents.
+
+(2) The counting officer must give the counting agents notice in writing of the time and place at which the proceedings under paragraph 42 will begin.
+
+(3) A person may be present at the proceedings under paragraph 42 only if—
+
+(a) the person is entitled to be present at the counting of the votes for the referendum or a relevant election, or
+
+(b) the person is permitted by the counting officer to attend.
+
+(4) The counting officer may give a person permission under sub-paragraph (3)(b) only if—
+
+(a) the officer is satisfied that the person's attendance will not impede the efficient conduct of the proceedings, and
+
+(b) the officer has consulted the referendum agents and election agents or thought it impracticable to do so.
+
+(5) The counting officer must give the counting agents—
+
+(a) whatever reasonable facilities for overseeing the proceedings, and
+
+(b) whatever information with respect to the proceedings,
+
+the officer can give them consistently with the orderly conduct of the proceedings and the discharge of the officer's duties.
+
+**39** Rule 39(1) of the referendum rules (arrangements for the counting of votes in the referendum) has effect with the omission of the words “after the close of the poll”.
+
+**40** (1) The returning officer for a relevant election must make arrangements for counting the votes in the presence of the counting agents for the relevant election as soon as practicable after receiving the ballot papers from the counting officer under paragraph 43.
+
+(2) The returning officer must give the counting agents for the relevant election notice in writing of the time and place at which the counting of the votes for the relevant election will begin.
+
+(3) A person may be present at the counting of the votes for a relevant election only if—
+
+(a) the person is permitted by the returning officer to attend, or
+
+(b) the person would be entitled to be present at the counting of votes for the relevant election if it were taken on its own.
+
+(4) The returning officer may give a person permission under sub-paragraph (3)(a) only if—
+
+(a) the officer is satisfied that the person's attendance will not impede the efficient counting of the votes, and
+
+(b) the officer has consulted the election agents or thought it impracticable to do so.
+
+(5) The returning officer must give the counting agents for the relevant election—
+
+(a) whatever reasonable facilities for overseeing the proceedings, and
+
+(b) whatever information with respect to the proceedings,
+
+the officer can give them consistently with the orderly conduct of the proceedings and the discharge of the officer's duties.
+
+(6) In particular, where the votes are counted by sorting the ballot papers into lots according to the votes marked on them and then counting the number of ballot papers in each lot, the counting agents for the relevant election are entitled to satisfy themselves that the ballot papers are correctly sorted.
+
+**41** Paragraphs 38 and 40 apply instead of—
+
+(a) rule 44 of the Local Elections (Combination of Polls) Rules;
+
+(b) rule 44 of the Parish Elections (Combination of Polls) Rules;
+
+(c) rule 37 of the Local Referendums (Combination of Polls) Rules;
+
+(d) rule 46 of the Mayoral Elections (Combination of Polls) Rules.
+
+##### Counting and separation of ballot papers by counting officer
+
+**42** (1) As soon as practicable after the close of the poll the counting officer must—
+
+(a) in the presence of the counting agents, open the ballot boxes and count and record separately the number of ballot papers relating to the referendum and each relevant election;
+
+(b) where proceedings on the issue and receipt of postal ballot papers for the referendum and the relevant elections are taken together, count the postal ballot papers that have been duly returned for the referendum and the relevant elections and record separately the number relating to each;
+
+(c) where proceedings on the issue and receipt of postal ballot papers for the referendum and the relevant elections are not taken together, count the postal ballot papers that have been duly returned for the referendum and record the number;
+
+(d) separate ballot papers relating to the referendum and those relating to each relevant election.
+
+(2) Rule 40(3) of the referendum rules applies for the purposes of any combined polls; but where proceedings on the issue and receipt of postal ballot papers are not taken together by virtue of regulation 65 of the Representation of the People (England and Wales) Regulations 2001, a reference in rule 40(3) to a counting officer is to be read in relation to the return of ballot papers for a relevant election as a reference to the returning officer for that relevant election.
+
+(3) The counting officer must not count any tendered ballot papers.
+
+(4) The counting officer, while counting and recording the number of ballot papers, must—
+
+(a) keep the ballot papers with their faces upwards, and
+
+(b) take all proper precautions for preventing anyone from seeing the numbers or other unique identifying marks printed on the back of the papers.
+
+(5) The counting officer must, in the presence of the referendum agents and the election agents for the relevant elections—
+
+(a) verify each ballot paper account by comparing it with the number of ballot papers recorded by the officer, and the unused and spoilt ballot papers in the officer's possession and the tendered votes list (opening and resealing the packets containing the unused and spoilt ballot papers and the tendered votes list);
+
+(b) draw up a separate statement as to the result of the verification in relation to each poll.
+
+(6) An election agent for a relevant election may copy the statement relating to that relevant election.
+
+(7) A counting agent for the referendum present at the verification may copy the statement relating to the referendum.
+
+(8) Once the statement relating to the referendum is drawn up, the counting officer must—
+
+(a) in the case of a voting area in a region for which a Regional Counting Officer is appointed, inform the Regional Counting Officer of the contents of the statement;
+
+(b) in the case of any other voting area, inform the Chief Counting Officer of the contents of the statement.
+
+(9) Rule 40 of the referendum rules does not apply (except for the purposes of sub-paragraph (2) above).
+
+##### Delivery of ballot papers etc to returning officers
+
+**43** (1) The counting officer must deliver or cause to be delivered to the returning officer for a relevant election the ballot papers for the relevant election.
+
+(2) The counting officer must also deliver or cause to be delivered to the returning officer—
+
+(a) the ballot paper accounts and the statement as to the result of the verification of the ballot paper accounts for the relevant election;
+
+(b) the packets of unused and spoilt ballot papers for the relevant election;
+
+(c) the packets of tendered ballot papers for the relevant election;
+
+(d) the packets of certificates as to employment on duty on the day of the poll for the relevant election.
+
+(3) If the counting officer has not begun to count the votes given on the referendum ballot papers by the time the statements as to the result of the verification of the ballot paper accounts in relation to all the polls are prepared—
+
+(a) those ballot papers must be sealed into packets, each of which must be endorsed with a description of its contents, and
+
+(b) the packets may not be opened until the counting officer begins dealing with the ballot papers in those packets under paragraph 44(1).
+
+(4) If, in respect of a relevant election, none of the ballot papers have been delivered under sub-paragraph (1) by the time the statements as to the result of the verification of the ballot paper accounts in relation to all the polls are prepared—
+
+(a) the ballot papers for that election must be sealed into packets, each of which must be endorsed with a description of its contents, and
+
+(b) the packets may not be opened until the returning officer begins dealing with the ballot papers in those packets under paragraph 44(3).
+
+##### Counting of votes
+
+**44** (1) The counting officer must count the votes given on the ballot papers for the referendum, but must not do so until—
+
+(a) in the case of postal ballot papers, they have been mixed with the ballot papers from at least one ballot box;
+
+(b) in the case of ballot papers from a ballot box, they have been mixed with the ballot papers from at least one other ballot box.
+
+(2) Where proceedings on the issue and receipt of postal ballot papers for a relevant election are not taken together with those for the referendum and any other relevant elections, the returning officer for the relevant election must count the postal ballot papers that have been duly returned and record the number counted.
+
+(3) The returning officer for a relevant election must count the votes given on the ballot papers for the relevant election, but must not do so until—
+
+(a) in the case of postal ballot papers, they have been mixed with the ballot papers from at least one ballot box;
+
+(b) in the case of ballot papers from a ballot box, they have been mixed with the ballot papers from at least one other ballot box.
+
+(4) The counting or returning officer, while counting the votes, must—
+
+(a) keep the ballot papers with their faces upwards, and
+
+(b) take all proper precautions for preventing anyone from seeing the numbers or other unique identifying marks printed on the back of the papers.
+
+(5) The counting or returning officer must so far as practicable proceed continuously with the counting of votes, allowing only time for refreshment, except that—
+
+(a) the officer may exclude the whole or any part of the period between 7 pm and 9 am on the next day;
+
+(b) the officer may exclude a day mentioned in rule 2(1) of the referendum rules.
+
+(6) During the time so excluded the counting or returning officer must—
+
+(a) place the ballot papers and other documents relating to the referendum or relevant election under the officer's own seal and the seals of any of the counting agents who want to affix their seals, and
+
+(b) otherwise take proper precautions for the security of the papers and documents.
+
+(7) This paragraph and paragraph 45 apply instead of—
+
+(a) rule 45 of the Local Elections (Combination of Polls) Rules;
+
+(b) rule 45 of the Parish Elections (Combination of Polls) Rules;
+
+(c) rule 38 of the Local Referendums (Combination of Polls) Rules;
+
+(d) rule 47 of the Mayoral Elections (Combination of Polls) Rules.
+
+##### Ballot papers placed in wrong ballot box
+
+**45** Where separate ballot boxes are used for the referendum and a relevant election, the placing of a ballot paper in the wrong ballot box does not render it void.
+
+#### Declaration of result
+
+##### Declaration
+
+**46** The result of the referendum or a relevant election may not be declared until the statement as to the result of the verification of the ballot paper accounts in relation to each poll has been prepared.
+
+#### Disposal of documents etc
+
+##### Packets of documents
+
+**47** (1) The counting officer may not open the sealed packets of—
+
+(a) the completed corresponding number lists for a relevant election, or
+
+(b) marked copies of the register of electors (including any marked copy notices issued under section 13B(3B) or (3D) of the 1983 Act), and lists of proxies, for a relevant election.
+
+(2) The following provisions have effect as if paragraph (3) were omitted—
+
+(a) rule 51 of the Local Elections (Combination of Polls) Rules;
+
+(b) rule 51 of the Parish Elections (Combination of Polls) Rules;
+
+(c) rule 44 of the Local Referendums (Combination of Polls) Rules;
+
+(d) rule 56 of the Mayoral Elections (Combination of Polls) Rules.
+
+##### Delivery and retention of documents
+
+**48** (1) Rules 50(1)(a) and 52 of the referendum rules apply to the specified documents.
+
+(2) The specified documents are those specified in sub-paragraphs (c), (d) and (f) of paragraph (1) of—
+
+(a) rule 52 of the Local Elections (Combination of Polls) Rules;
+
+(b) rule 52 of the Parish Elections (Combination of Polls) Rules;
+
+(c) rule 45 of the Local Referendums (Combination of Polls) Rules;
+
+(d) rule 57 of the Mayoral Elections (Combination of Polls) Rules.
+
+(3) Except for the purposes of this paragraph, those rules have effect as if they did not include a reference to the specified documents (and as if paragraph (2) were omitted).
+
+(4) Regulation 116(1) of the Representation of the People (England and Wales) Regulations 2001 (S.I. 2001/341) has effect in relation to a relevant election as if the reference to documents forwarded under rule 55(1)(e) of the elections rules were to documents forwarded under rule 50(1)(a) of the referendum rules as applied by this paragraph.
+
+(5) Nothing in this paragraph prevents the following provisions from applying to the specified documents—
+
+(a) rule 53 of the Local Elections (Combination of Polls) Rules;
+
+(b) rule 53 of the Parish Elections (Combination of Polls) Rules;
+
+(c) rule 46 of the Local Referendums (Combination of Polls) Rules;
+
+(d) rule 58 of the Mayoral Elections (Combination of Polls) Rules.
+
+(6) Each of the following provisions has effect as if for “by this rule provided” there were substituted “ provided by this rule (or a court order) ”
+
+(a) rule 53(8) of the Local Elections (Combination of Polls) Rules;
+
+(b) rule 53(8) of the Parish Elections (Combination of Polls) Rules;
+
+(c) rule 46(9) of the Local Referendums (Combination of Polls) Rules;
+
+(d) rule 58(9) of the Mayoral Elections (Combination of Polls) Rules.
+
+(7) Rule 45(1) of the Local Referendums (Combination of Polls) Rules has effect as if the words “Where” and “is the relevant returning or counting officer, he” were omitted.
+
+##### Countermand or abandonment of poll on death of candidate
+
+**49** (1) The following provisions have effect as if they were modified in accordance with sub-paragraphs (2) and (3)—
+
+(a) rule 55 of the Local Elections (Combination of Polls) Rules;
+
+(b) rule 55 of the Parish Elections (Combination of Polls) Rules;
+
+(c) rule 60 of the Mayoral Elections (Combination of Polls) Rules.
+
+(2) In paragraph (4), for “returning officer” substitute “ relevant counting officer ”.
+
+(3) In paragraph (7), for the words from the beginning to “further step” substitute “ Once the ballot papers relating to each relevant election or referendum have been separated, no step or further step may be taken ”.
+
+#### Provision of registers etc to counting officer
+
+##### Registers
+
+**50** Regulation 98 of the Representation of the People (England and Wales) Regulations 2001 as modified by Part 3 of Schedule 4 above applies for the purposes of a relevant election as it applies for the purposes of the referendum.
+
+##### Absent voters lists
+
+**51** As soon as practicable after 5 pm on the 6th day before the date of the poll, the registration officer must provide the counting officer with the following lists, and any subsequent revised lists or revisions to the lists—
+
+(a) the list of proxies for each relevant election;
+
+(b) the postal voters list for each relevant election;
+
+(c) the proxy postal voters list for each relevant election.
+
+##### Personal identifier information
+
+**52** Where proceedings on the issue and receipt of postal ballot papers are taken together by virtue of regulation 65 of the Representation of the People (England and Wales) Regulations 2001, paragraph 7C of Schedule 4 to the Representation of the People Act 2000 has effect as if a reference to a returning officer were a reference to the counting officer.
+
+### PART 2 — Application of provisions about issue and receipt of postal ballot papers
+
+**53** (1) For the purposes of the combined polls, Part 5 of the Representation of the People (England and Wales) Regulations 2001 (S.I. 2001/341) applies—
+
+(a) with the modifications shown in the table, and
+
+(b) with any other necessary modifications, including in particular those set out in sub-paragraph (2).
+
+(2) Except where the context otherwise requires—
+
+(a) in relation to an election or referendum, a reference to a provision has effect as a reference to that provision as it applies for the purposes of that election or referendum;
+
+(b) expressions used in relation to the referendum under section 1 are to be construed in accordance with the definitions in section 7 and rule 53 of the referendum rules;
+
+(c) expressions used in relation to a local referendum are to be construed in accordance with regulation 2 of, and paragraph 1(2) of Schedule 4 to, the Local Authorities (Conduct of Referendums) (England) Regulations 2007 (S.I. 2007/2089).
+
+(3) In relation to the combined polls, the modifications made by this paragraph to Part 5 of the 2001 Regulations apply instead of any modifications that would apply to that Part by virtue of—
+
+(a) Part 3 of Schedule 4;
+
+(b) Schedule 4 to the Local Authorities (Conduct of Referendums) (England) Regulations 2007;
+
+(c) Schedule 2 to the Local Authorities (Mayoral Elections) (England and Wales) Regulations 2007 (S.I. 2007/1024).
+
+|  |  |
+|---|---|
+| *Provision* | *Modification* |
+| Regulation 64 (interpretation of Part 5) | For the definition of “agent” substitute—<br>> “agent”, except in regulation 69(1) to (7)—<br>><br>> (a) in relation to an election, includes the election agent and a person appointed to attend in the election agent's place;<br>><br>> (b) in relation to the referendum on the voting system for United Kingdom parliamentary elections, means a referendum agent or an agent appointed under regulation 69. In the appropriate place insert—<br>> “candidate”, in relation to an election for the return of an elected mayor, means a candidate at such an election;<br>. In the appropriate place insert—<br>> “local referendum” means a referendum in England under Part 2 of the Local Government Act 2000;<br>. In the appropriate place insert—<br>> “relevant election or referendum” means an election or referendum the poll for which is to be taken together with the poll for one or more other elections or referendums under section 4(1) of the Parliamentary Voting System and Constituencies Act 2011;<br>><br>> relevant returning or counting officer”, in relation to a relevant election or referendum, means—<br>><br>> (a) in a case where proceedings on the issue and receipt of postal ballot papers are taken together by virtue of regulation 65, the counting officer for the referendum on the voting system for United Kingdom parliamentary elections, and<br>><br>> (b) in any other case, the returning or counting officer for the election or referendum in question;<br>. In the definition of “valid postal voting statement”, after “returning officer” insert “ or counting officer ”. |
+| Regulation 65 (combination of proceedings on issue and receipt of postal ballot papers) | For regulation 65 substitute—<br>> **Combination of proceedings on issue and receipt of postal ballot papers**<br>><br>> **65** (1) This regulation applies where the polls for two or more relevant elections or referendums are taken together under section 4(1) of the Parliamentary Voting System and Constituencies Act 2011.<br>><br>> (2) The proceedings on the issue and receipt of postal ballot papers in respect of the polls may be taken together if the returning and counting officers think fit. |
+| Regulation 66 (form of postal voting statement) | Omit the whole regulation. |
+| Regulation 67 (persons entitled to be present at proceedings on issue of postal ballot papers) | For “returning officer” substitute “ relevant returning or counting officer ”. |
+| Regulation 68 (persons entitled to be present at proceedings on receipt of postal ballot papers) | For regulation 68 substitute—<br>> **Persons entitled to be present at proceedings on receipt of postal ballot papers**<br>><br>> **68** (1) In a case where proceedings on the receipt of postal ballot papers are taken together by virtue of regulation 65, the only persons who may be present at those proceedings are the appropriate persons in relation to the relevant elections and referendums.<br>><br>> (2) In any other case, the only persons who may be present at the proceedings on the receipt of postal ballot papers for a relevant election or referendum are the appropriate persons in relation to that election or referendum.<br>><br>> (3) The following are appropriate persons in relation to an election—<br>><br>> (a) the returning officer;<br>><br>> (b) the returning officer's clerks;<br>><br>> (c) the candidates;<br>><br>> (d) the election agents;<br>><br>> (e) any person appointed by a candidate to attend in his election agent's place;<br>><br>> (f) any agents appointed under regulation 69;<br>><br>> (g) at an election of parish councillors, any person appointed by a candidate to attend proceedings on the receipt of postal ballot papers.<br>><br>> (4) The following are appropriate persons in relation to a referendum—<br>><br>> (a) the counting officer;<br>><br>> (b) the counting officer's clerks;<br>><br>> (c) in the case of the referendum on the voting system for United Kingdom parliamentary elections, the referendum agents and any agents appointed under regulation 69;<br>><br>> (d) in the case of a local referendum, the persons listed in rule 37(3)(b) to (d) of the rules set out in Schedule 5 to the Local Authorities (Conduct of Referendums) (England) Regulations 2007.<br>><br>> (5) This regulation is without prejudice to section 6A, 6B, 6C, 6D or 6E of the Political Parties, Elections and Referendums Act 2000. |
+| Regulation 69 (agents of candidates who may attend proceedings on receipt of postal ballot papers) | For “returning officer” (in each place) substitute “ relevant returning or counting officer ”. Omit paragraph (3). After paragraph (7) insert—<br>> (7A) In relation to the referendum on the voting system for United Kingdom parliamentary elections, in paragraph (1), (2), (4) or (7) a reference to a candidate is to be read as a reference to a referendum agent. In paragraph (8), for “the candidates or their agents” substitute “ any persons mentioned in regulation 68(3)(c) to (g) or (4)(c) and (d)” ”. |
+| Regulation 70 (notification of requirement of secrecy) | For regulation 70 substitute—<br>> **Notification of requirements of secrecy**<br>><br>> **70** (1) In a case where proceedings on the issue of postal ballot papers are taken together by virtue of regulation 65, the counting officer for the referendum on the voting system for United Kingdom parliamentary elections shall make such arrangements as he thinks fit to ensure that every person attending the proceedings in connection with the issue or receipt of postal ballot papers has been given a copy in writing of the provisions of subsections (4) and (6) of section 66 of the 1983 Act as they apply in relation to each relevant election or referendum.<br>><br>> (2) In any other case, the returning or counting officer for a relevant election or referendum shall make such arrangements as he thinks fit to ensure that every person attending proceedings in connection with the issue or receipt of postal ballot papers for the election or referendum has been given a copy in writing of the provisions of subsections (4) and (6) of section 66 of the 1983 Act as they apply to that election or referendum. |
+| Regulation 71 (time when postal ballot papers are to be issued) | In paragraph (1), after “voting statement)” insert “ for an election or local referendum ”. After paragraph (1) insert—<br>> (1A) In the case of a person within entry 2, 3, 4 or 5 of the table in paragraph 5(2) of Schedule 3 to the Parliamentary Voting System and Constituencies Act 2011 or entry 2, 3, 4 or 5 of the table in paragraph 8(6) of that Schedule (electors and proxies entitled to vote by post for an indefinite or definite period), no postal ballot paper (and postal voting statement) for the referendum on the voting system in United Kingdom parliamentary elections shall be issued until after 5 pm on the eleventh day before the date of the poll (computed in accordance with regulation 56(6) above). In paragraph (2), omit “by the returning officer”. |
+| Regulation 72 (procedure on issue of postal ballot papers) | For paragraph (5) substitute—<br>> (5) Paragraphs (5A) and (5B) apply where—<br>><br>> (a) proceedings on the issue of postal ballot papers are taken together by virtue of regulation 65, and<br>><br>> (b) a combined postal voters list or proxy postal voters list is produced by virtue of paragraph 29 of Schedule 5 to the Parliamentary Voting System and Constituencies Act 2011.<br>><br>> (5A) In a case where a postal ballot paper is issued at the same time in respect of each relevant election or referendum, a single mark must be placed in the list under paragraph (3).<br>><br>> (5B) In any other case, a mark must be placed in the list under sub-paragraph (3) identifying the poll to which each postal ballot paper issued relates.<br>><br>> (5C) Where proceedings on the issue of postal ballot papers are taken together by virtue of regulation 65, the number of each postal ballot paper issued shall be marked on the postal voting statement under paragraph (4). In paragraph (6), for the words from the beginning to “postal ballot papers” substitute “ Where proceedings on the issue and receipt of postal ballot papers are not taken together by virtue of regulation 65 ”. In paragraph (8)—<br>- (a) after “paragraph (7)” insert “ in relation to an election or local referendum ”;<br>- (b) at the end insert— “ and, in relation to the referendum on the voting system for United Kingdom parliamentary elections, the items specified in paragraph (7) must be sent to the address to which postal ballot papers should be sent as mentioned in column 3 of the table in paragraph 5(2) or 8(6) of Schedule 3 to the Parliamentary Voting System and Constituencies Act 2011. ” |
+| Regulation 73 (refusal to issue postal ballot papers) | For “returning officer” substitute “ relevant returning or counting officer ”. For “election” substitute “ poll ”. |
+| Regulation 74 (envelopes) | In paragraph (1), after “elections rules” insert “ or rule 12 of the referendum rules ”. |
+| Regulation 75 (sealing up of completed corresponding number lists) | In paragraphs (1) and (2), for “returning officer” substitute “ relevant returning or counting officer ”. |
+| Regulation 76 (delivery of postal ballot papers) | In paragraph (1)—<br>- (a) for “returning officer” substitute “ relevant returning or counting officer ”;<br>- (b) in sub-paragraph (c), after “elections rules” insert “ or rule 14 of the referendum rules ”. In paragraph (2), for “returning officer” substitute “ relevant returning or counting officer ”. |
+| Regulation 77 (spoilt postal ballot papers) | For “returning officer” (in each place) substitute “ relevant returning or counting officer ”. In paragraph (2)(b), for “election” substitute “ poll ”. |
+| Regulation 78 (lost postal ballot papers) | For “returning officer” (in each place) substitute “ relevant returning or counting officer ”. In paragraph (2A)(b), for “election” substitute “ poll ”. |
+| Regulation 79 (alternative means of returning postal ballot paper or postal voting statement) | For “returning officer” (in each place) substitute “ relevant returning or counting officer ”. In paragraph (1), after “1983 Act” insert “ and rule 40(3) of the referendum rules ”. In paragraph (3), after “rule 43(1) of the elections rules” insert “ or rule 38(1) of the referendum rules ”. In paragraph (5), after “polling agents” insert “ or polling observers ”. |
+| Regulation 80 (notice of opening of postal ballot paper envelopes) | In paragraph (1)—<br>- (a) for “returning officer” substitute “ relevant returning or counting officer ”;<br>- (b) for “each candidate” substitute “ each of the persons mentioned in paragraph (1A) ”. After paragraph (1) insert—<br>> (1A) The persons are—<br>><br>> (a) in relation to an election, the candidates,<br>><br>> (b) in relation to the referendum on the voting system for United Kingdom parliamentary elections, the referendum agents, and<br>><br>> (c) in relation to a local referendum, the persons mentioned in rule 37(3)(b) to (d) of the rules set out in Schedule 5 to the Local Authorities (Conduct of Referendums) (England) Regulations 2007. In paragraph (2)(b), for “the number of agents a candidate” substitute “ in the case of an election or the referendum on the voting system for United Kingdom parliamentary elections, the number of agents that a candidate or referendum agent ”. |
+| Regulation 81 (postal ballot boxes and receptacles) | For “returning officer” (in each place) substitute “ relevant returning or counting officer ”. For paragraph (2) substitute—<br>> (2) Each of those ballot boxes—<br>><br>> (a) shall be marked “postal voter's ballot box” or “postal ballot box” as appropriate;<br>><br>> (b) shall be marked with the name of each constituency, electoral area or voting area in relation to which it is to be used. In paragraph (3), for “the agents” substitute “ those ”. In paragraph (4), after “lock the ballot box” insert “ (if it has a lock) ”. |
+| Regulation 82 (receipt of covering envelope) | For “returning officer” (in both places) substitute “ relevant returning or counting officer ”. |
+| Regulation 83 (opening of postal voters' ballot box) | In paragraph (1)—<br>- (a) for “returning officer” substitute “ relevant returning or counting officer ”;<br>- (b) at the end insert “ and (where relevant) the persons mentioned in rule 37(3)(b) to (d) of the rules set out in Schedule 5 to the Local Authorities (Conduct of Referendums) (England) Regulations 2007 ”. In paragraph (2), for “returning officer” substitute “ relevant returning or counting officer ”. In paragraph (3), for “votes under rule 45 of the elections rules” substitute “ ballot papers ”. |
+| Regulation 84 (opening of covering envelopes) | For “returning officer” (in each place) substitute “ relevant returning or counting officer ”. |
+| Regulation 84A (confirming receipt of postal voting statements) | For “returning officer” (in each place) substitute “ relevant returning or counting officer ”. |
+| Regulation 85 (procedure in relation to postal voting statements) | For “returning officer” (in each place) substitute “ relevant returning or counting officer ”. In paragraph (3), after “agents” insert “ or counting observers or both (as the case may be) ”. |
+| Regulation 85A (procedure in relation to postal voting statements: personal identifier verification) | For “returning officer” (in each place) substitute “ relevant returning or counting officer ”. In paragraph (4), after “agents” insert “ or counting observers or both (as the case may be) ”. |
+| Regulation 85B (postal voting statements: additional personal identifier verification) | For “returning officer” (in each place) substitute “ relevant returning or counting officer ”. In paragraph (3)(a) and (c), after “agents” insert “ or counting observers or both (as the case may be) ”. In paragraph (4), for “lock and reseal the postal ballot box in the presence of the agents” substitute “ lock the postal ballot box (if it has a lock) and reseal it in the presence of the agents or counting observers or both (as the case may be) ”. |
+| Regulation 86 (opening of ballot paper envelopes) | In paragraph (1), for “returning officer” substitute “ relevant returning or counting officer ”. |
+| Regulation 86A (retrieval of cancelled postal ballot papers) | In paragraph (1), for “returning officer” substitute “ relevant returning or counting officer ”. In paragraph (2)—<br>- (a) in sub-paragraph (b), after “agents” insert “ or counting observers or both (as the case may be) ”;<br>- (b) in sub-paragraph (f), for “votes under rule 45 of the elections rules” substitute “ ballot papers ” and after “agents” insert “ or counting observers or both (as the case may be) ”. In paragraph (3), for “returning officer” substitute “ relevant returning or counting officer ”. |
+| Regulation 87 (list of rejected postal ballot papers) | In paragraph (1), for “In respect of any election, the returning officer” substitute “ In respect of each relevant election or referendum, the relevant returning or counting officer ”. |
+| Regulation 88 (checking of lists of rejected postal ballot papers) | For “returning officer” (in each place) substitute “ the relevant returning or counting officer ”. In paragraph (3), at the end insert “ or voting area under rule 38(1) of the referendum rules ”. |
+| Regulation 89 (sealing of receptacles) | In paragraph (1), for “returning officer” substitute “ the relevant returning or counting officer ”. |
+| Regulation 90 (abandoned poll) | In paragraph (2), for “election” substitute “ poll ”. |
+| Regulation 91 (forwarding or retention of documents) | In paragraph (1)—<br>- (a) for the words before sub-paragraph (a) substitute “ The relevant returning or counting officer shall forward to the registration officer to whom he forwards the documents mentioned in rule 55 of the elections rules or rule 50 of the referendum rules, at the same time as he forwards those documents ”;<br>- (b) in paragraph (a), for the words from “the election to which” to the end substitute “ each relevant election or referendum and the area to which the packet relates ”;<br>- (c) at the end insert— “ A separate statement in Form K must be completed for each relevant election or referendum ”. In paragraph (3), for “returning officer” (in both places) substitute “ relevant returning or counting officer ”. In paragraph (4), for “Rules 56 and 57 of the elections rules” substitute “ The rules specified in paragraph (4A) ”. After sub-paragraph (4) insert—<br>> (4A) The rules are—<br>><br>> (a) in a case where proceedings on the issue and receipt of postal ballot papers are taken together by virtue of regulation 65—<br>><br>> (i) rule 51 of the referendum rules and rule 56 of the elections rules, and<br>><br>> (ii) rule 52 of the referendum rules;<br>><br>> (b) in any other case—<br>><br>> (i) rule 51 of the referendum rules or (as the case may be) rule 56 of the elections rules, and<br>><br>> (ii) rule 52 of the referendum rules or (as the case may be) rule 57 of the elections rules. In paragraph (5), for “returning officer” (in both places) substitute “ relevant returning or counting officer ”. |
+| In Schedule 3, Form K | In the case of the form used in relation to the referendum under section 1—<br>- (a) for “PARLIAMENTARY ELECTION” substitute “ REFERENDUM ON THE VOTING SYSTEM FOR UNITED KINGDOM PARLIAMENTARY ELECTIONS ”;<br>- (b) for “constituency” substitute “ voting area ”;<br>- (c) for “returning officer” (in each place) substitute “ counting officer ”. |
+
+### PART 3 — Forms referred to in Part 1
+
+*Note* - The forms contained in this Part may be adapted so far as circumstances require.
+
+#### FORM 1 - FORM OF CORRESPONDING NUMBER LIST (TO BE USED FOR COMBINED POLLS)
+
+*Paragraphs 9(2) and 10(3)*
+
+![image](http://www.legislation.gov.uk/ukpga/2011/1/images/ukpga_20110001_en_sld_025)
+
+#### FORM 2 - FORM OF POSTAL VOTING STATEMENT (FOR USE WHERE PROCEEDINGS ON ISSUE AND RECEIPT OF POSTAL BALLOT PAPERS COMBINED)
+
+*Paragraph 13(2)*
+
+![image](http://www.legislation.gov.uk/ukpga/2011/1/images/ukpga_20110001_en_sld_026)
+
+![image](http://www.legislation.gov.uk/ukpga/2011/1/images/ukpga_20110001_en_sld_027)
+
+![image](http://www.legislation.gov.uk/ukpga/2011/1/images/ukpga_20110001_en_sld_028)
+
+#### FORM 3 - FORM OF POSTAL VOTING STATEMENT (FOR USE WHERE PROCEEDINGS ON ISSUE AND RECEIPT OF POSTAL BALLOT PAPERS NOT COMBINED)
+
+*Paragraph 14(2)*
+
+![image](http://www.legislation.gov.uk/ukpga/2011/1/images/ukpga_20110001_en_sld_029)
+
+![image](http://www.legislation.gov.uk/ukpga/2011/1/images/ukpga_20110001_en_sld_030)
+
+#### FORM 4 - FORM OF CORRESPONDING NUMBER LIST (TO BE USED IN POLLING STATIONS FOR COMBINED POLLS)
+
+*Paragraph 19(1)*
+
+![image](http://www.legislation.gov.uk/ukpga/2011/1/images/ukpga_20110001_en_sld_031)
+
+#### FORM 5 - GUIDANCE FOR VOTERS TO BE EXHIBITED INSIDE AND OUTSIDE EVERY POLLING STATION
+
+*Paragraph 21(1)*
+
+![image](http://www.legislation.gov.uk/ukpga/2011/1/images/ukpga_20110001_en_sld_032)
+
+#### FORM 6 - GUIDANCE FOR VOTERS TO BE EXHIBITED IN EVERY POLLING STATION COMPARTMENT
+
+*Paragraph 22(1)*
+
+![image](http://www.legislation.gov.uk/ukpga/2011/1/images/ukpga_20110001_en_sld_033)
+
+#### FORM 7 - FORM OF CERTIFICATE OF EMPLOYMENT
+
+*Paragraph 25(2)*
+
+![image](http://www.legislation.gov.uk/ukpga/2011/1/images/ukpga_20110001_en_sld_034)
+
+#### FORM 8 - FORM OF DECLARATION TO BE MADE BY THE COMPANION OF A VOTER WITH DISABILITIES
+
+*Paragraph 31(1)*
+
+![image](http://www.legislation.gov.uk/ukpga/2011/1/images/ukpga_20110001_en_sld_035)
+
+## SCHEDULE 6 — Combination of polls: Wales
+
+*Section 4*
+
+### PART 1 — Provision about combination
+
+#### General provisions
+
+##### Interpretation
+
+**1** The polls to be taken together under section 4(2) are referred to in this Schedule as “combined polls”.
+
+**2** In this Schedule—
+
+- “Assembly election” means—
+
+  - (a) an Assembly constituency election, or
+  - (b) an Assembly regional election;
+
+- “Assembly constituency election” means an election for the return of an Assembly constituency member (within the meaning of section 1 of the Government of Wales Act 2006);
+
+- “Assembly Elections Rules” means the rules set out in Schedule 5 to the Welsh Assembly Order;
+
+- “Assembly regional election” means an election for the return of an Assembly regional member (within the meaning of section 1 of the Government of Wales Act 2006);
+
+- “constituency returning officer” is to be construed in accordance with Article 18 of the Welsh Assembly Order;
+
+- “counting agent” means a counting agent for the referendum or a counting agent for an Assembly election (except where one or other is specified);
+
+- “regional returning officer” is to be construed in accordance with Article 18 of the Welsh Assembly Order;
+
+- “returning officer” means a person who is a constituency returning officer or a regional returning officer (unless one or the other is specified);
+
+- “the Welsh Assembly Order” means the National Assembly for Wales (Representation of the People) Order 2007 (S.I. 2007/236).
+
+##### Cost of combined polls
+
+**3** The cost of taking the combined polls (excluding any cost solely attributable to the referendum or an Assembly election), and any cost attributable to their combination, is to be apportioned equally between—
+
+(a) the referendum, and
+
+(b) the Assembly elections.
+
+**4** (1) Articles 23 and 24 of the Welsh Assembly Order (payments by and to returning officer etc) apply—
+
+(a) as if a reference to a returning officer included a reference to a counting officer carrying out functions that, but for this Schedule, would be exercisable by a returning officer (“transferred functions”), and
+
+(b) as if, in relation to that counting officer, a reference to services or expenses were to services rendered or expenses incurred in respect of transferred functions.
+
+(2) An order under article 23(1) of that Order (as it has effect as mentioned above) may include special provision for services rendered or expenses incurred by a counting officer in respect of transferred functions.
+
+##### Publication of statement of persons nominated
+
+**5** (1) The statement of persons nominated at an Assembly election must be published not later than noon on the 15th day before the date of the poll.
+
+(2) The timetable set out in rule 1(1) of the Assembly Elections Rules is to be read with whatever modifications are necessary to give effect to this paragraph.
+
+##### Forms
+
+**6** Forms 2, 3, 4, 6, 7 and 9 in Part 3 of this Schedule are “relevant forms” for the purposes of rule 10 of the referendum rules.
+
+#### Action to be taken before poll
+
+##### Corresponding number lists
+
+**7** (1) This paragraph applies where proceedings on the issue and receipt of postal ballot papers are taken together by virtue of paragraph 2 of Schedule 3 to the Welsh Assembly Order.
+
+(2) The function of the constituency returning officer under rule 27 of the Assembly Elections Rules is to be carried out by the counting officer.
+
+(3) If the counting officer thinks fit, the lists prepared under the following provisions may be combined in the form set out in Form 1 in Part 3 of this Schedule—
+
+(a) rule 6 of the referendum rules;
+
+(b) rule 27 of the Assembly Elections Rules.
+
+(4) In that case, sub-paragraph (3) applies instead of—
+
+(a) rule 6(2) of the referendum rules;
+
+(b) rule 27(2) of the Assembly Elections Rules.
+
+**8** (1) This paragraph applies where proceedings on the issue and receipt of postal ballot papers are not taken together by virtue of paragraph 2 of Schedule 3 to the Welsh Assembly Order.
+
+(2) The counting officer must prepare a list under sub-paragraph (3) or (4) as the officer thinks fit.
+
+(3) A list under this sub-paragraph is a list containing the numbers and other unique identifying marks of all of the ballot papers to be provided to presiding officers in pursuance of rule 37(1) of the Assembly Elections Rules.
+
+(4) A list under this sub-paragraph is a list containing the numbers and other unique identifying marks of all of the ballot papers to be provided to presiding officers in pursuance of the following provisions—
+
+(a) rule 17(1) of the referendum rules;
+
+(b) rule 37(1) of the Assembly Elections Rules.
+
+The list must be in the form set out in Form 1 in Part 3 of this Schedule.
+
+(5) A list prepared under rule 27 of the Assembly Elections Rules must not include details relating to ballot papers in relation to which a list is prepared under sub-paragraph (3) or (4).
+
+(6) A reference in an enactment to a list prepared under rule 27 of the Assembly Elections Rules has effect, in so far as it relates to ballot papers to be provided in pursuance of rule 37(1) of those rules, as a reference to the list prepared under sub-paragraph (3) or (4).
+
+(7) Where the counting officer prepares a list under sub-paragraph (4) in relation to ballot papers—
+
+(a) the list prepared under rule 6 of the referendum rules must not include details relating to those ballot papers;
+
+(b) a reference in an enactment to a list prepared under rule 6 of the referendum rules has effect, in so far as it relates to ballot papers to be provided in pursuance of rule 17(1) of the referendum rules, as a reference to the list prepared under sub-paragraph (4).
+
+##### Notice of polling stations
+
+**9** (1) No later than the time of the publication of the notice of the polls, the counting officer must give public notice of—
+
+(a) the situation of each polling station;
+
+(b) the description of voters entitled to vote there.
+
+(2) The notice must—
+
+(a) state that the polls for the referendum, the Assembly constituency election and the Assembly regional election are to be taken together, and
+
+(b) specify the relevant voting area, constituency and region.
+
+(3) As soon as practicable after giving the notice the counting officer must give a copy of it to—
+
+(a) each of the referendum agents appointed for the officer's area;
+
+(b) each of the election agents for the Assembly elections;
+
+(c) the regional returning officer.
+
+(4) This paragraph applies instead of—
+
+(a) rule 11(3) and (4) of the referendum rules;
+
+(b) rule 32(2) to (4) of the Assembly Elections rules.
+
+##### Postal voting
+
+**10** (1) This paragraph applies where proceedings on the issue and receipt of postal ballot papers are taken together by virtue of paragraph 2 of Schedule 3 to the Welsh Assembly Order.
+
+(2) The functions of the constituency returning officer under rule 33 of the Assembly Elections Rules are to be carried out by the counting officer.
+
+(3) The form of postal voting statement to be issued to those entitled to vote by post in the referendum and in both the Assembly elections must be in the form set out in Form 2 in Part 3 of this Schedule.
+
+(4) Where that form is used, this paragraph applies instead of any requirement in the following provisions for a postal voting statement to be in a particular form.
+
+(5) The provisions are—
+
+(a) rule 12(1)(b) of the referendum rules;
+
+(b) rule 33(1) of the Assembly Elections Rules.
+
+**11** (1) This paragraph applies where proceedings on the issue and receipt of postal ballot papers are not taken together by virtue of paragraph 2 of Schedule 3 to the Welsh Assembly Order.
+
+(2) The form of postal voting statement to be issued to those entitled to vote by post in the referendum must be in the form set out in Form 3 in Part 3 of this Schedule.
+
+(3) Sub-paragraph (2) applies instead of the requirement in rule 12(1)(b) of the referendum rules for a postal voting statement to be in a particular form.
+
+(4) The form of postal voting statement to be issued to those entitled to vote in the Assembly elections must be in the form set out in Form 4 in Part 3 of this Schedule.
+
+(5) Sub-paragraph (4) applies instead of the requirement in rule 33(1) of the Assembly Elections Rules for a postal voting statement to be in a particular form.
+
+##### Polling stations
+
+**12** The functions of the constituency returning officer under rule 34 of the Assembly Elections Rules are to be carried out by the counting officer.
+
+**13** The referendum polling stations are to be used for the combined polls.
+
+##### Appointment of presiding officers and clerks
+
+**14** The functions of the constituency returning officer under the following paragraphs of rule 35 of the Assembly Elections Rules are to be carried out by the counting officer—
+
+(a) paragraph (1) so far as it relates to the appointment of presiding officers and clerks;
+
+(b) paragraph (3).
+
+##### Official poll cards
+
+**15** (1) If the counting officer thinks fit, the official poll cards used for the referendum and the Assembly elections may be combined.
+
+(2) In that case, the forms required to be used for official poll cards for the referendum and elections must be adapted in whatever manner seems necessary.
+
+##### Equipment of polling stations
+
+**16** The functions of the constituency returning officer under rule 37 of the Assembly Elections Rules are to be carried out by the counting officer.
+
+**17** (1) If the counting officer thinks fit, the same ballot box may be used at the polls for the referendum and the Assembly elections.
+
+(2) Where separate ballot boxes are used, each must be clearly marked to show—
+
+(a) the referendum or Assembly election to which it relates, and
+
+(b) the colour of ballot papers that should be placed in it.
+
+(3) This paragraph applies instead of rule 37(2) and (3) of the Assembly Elections Rules.
+
+##### Colour of ballot papers
+
+**18** The ballot papers used for the referendum must be of a different colour from the ballot papers used for the Assembly elections.
+
+##### Form of corresponding number lists provided to polling stations
+
+**19** (1) If the counting officer thinks fit, the lists to be provided under the following provisions may be combined in the form set out in Form 5 in Part 3 of this Schedule—
+
+(a) rule 17(3)(d) of the referendum rules;
+
+(b) rule 37(5)(d) of the Assembly Elections Rules.
+
+(2) In that case, this paragraph applies instead of—
+
+(a) the second sentence in rule 17(3) of the referendum rules;
+
+(b) the requirement in rule 37(5)(d) of the Assembly Elections Rules to use a particular form.
+
+##### Ballot paper displayed in polling stations
+
+**20** (1) The large version of the ballot paper displayed inside the polling station under rule 17(4)(a) of the referendum rules must be of the same colour as the ballot papers to be used for the referendum.
+
+(2) The large version of the ballot paper displayed inside the polling station under rule 37(7)(a) of the Assembly Elections Rules in respect of each Assembly election must be of the same colour as the ballot papers to be used for that election.
+
+##### Guidance to be exhibited inside and outside polling stations
+
+**21** (1) A notice in the form set out in Form 6 in Part 3 of this Schedule, giving directions for the guidance of voters in voting, must be printed in conspicuous characters and exhibited inside and outside every polling station.
+
+(2) This paragraph applies instead of—
+
+(a) rule 17(6) of the referendum rules;
+
+(b) rule 37(14) of the Assembly Elections Rules.
+
+##### Guidance to be exhibited in each polling station compartment
+
+**22** (1) A notice in the form set out in Form 7 in Part 3 of this Schedule, giving directions for the guidance of voters in voting, must be exhibited in every compartment of every polling station.
+
+(2) This paragraph applies instead of—
+
+(a) rule 17(7) of the referendum rules;
+
+(b) rule 37(15) and (16) of the Assembly Elections Rules.
+
+##### Notice of appointment of polling and counting agents
+
+**23** A notice required to be given to a constituency returning officer under rule 38(5), (6) or (7) of the Assembly Elections Rules is to be given to the counting officer.
+
+##### Notification of requirement of secrecy
+
+**24** The functions of the constituency returning officer under rule 39(a) of the Assembly Elections Rules are to be carried out by the counting officer.
+
+##### Return of postal ballot papers
+
+**25** Where proceedings on the issue and receipt of postal ballot papers are taken together by virtue of paragraph 2 of Schedule 3 to the Welsh Assembly Order, the functions of the constituency returning officer under rule 40 of the Assembly Elections Rules are to be carried out by the counting officer.
+
+#### The poll
+
+##### Admission to the polling station
+
+**26** (1) Rule 21(1) of the referendum rules has effect as if the persons listed there included persons who would be entitled to be admitted to the polling station for an Assembly election if the poll for the election were held on its own.
+
+(2) Rule 41(1) of the Assembly Elections Rules has effect as if the persons listed there included persons who would be entitled to be admitted to the polling station for the referendum if the poll for the referendum were held on its own.
+
+##### Voting by persons on duty on day of poll
+
+**27** (1) Paragraph 2(5) of Schedule 3 has effect as if in the words after paragraph (b) the reference to any polling station were to any polling station in the same voting area as the allotted polling station.
+
+(2) A certificate as to employment on duty on the day of the poll for the referendum must be in the form set out in Form 8 in Part 3 of this Schedule.
+
+(3) Sub-paragraph (2) applies instead of rule 21(4)(b) of the referendum rules.
+
+**28** The returning officer's function of signing certificates as to employment under rule 41(5) of the Assembly Elections Rules is to be carried out by the counting officer.
+
+##### Removal from polling station
+
+**29** The constituency returning officer's function under rule 42(2)(b) of the Assembly Elections Rules of authorising someone to remove a person from a polling station is to be carried out by the counting officer.
+
+##### Voting procedure: copies of registers and lists of proxies
+
+**30** (1) If the counting officer thinks fit, the same copy of the register of electors may be used under the following provisions for the purposes of the referendum and the Assembly elections—
+
+(a) rule 28(2) of the referendum rules;
+
+(b) rule 46(1) of the Assembly Elections Rules.
+
+(2) Sub-paragraphs (3) and (4) apply where the same copy of the register is used as mentioned in sub-paragraph (1).
+
+(3) In a case where a ballot paper is delivered at the same time in respect of the referendum, the Assembly constituency election and the Assembly regional election, a single mark must be placed in the register against the number of the elector under—
+
+(a) rule 28(2)(c) of the referendum rules, and
+
+(b) rule 46(1)(c) of the Assembly Elections Rules.
+
+(4) In any other case, a mark must be placed in the register against the number of the elector identifying the poll to which each ballot paper delivered relates.
+
+(5) In the case of an elector who is added to the register in pursuance of a notice issued under section 13B(3B) or (3D) of the 1983 Act—
+
+(a) references in this paragraph to the copy of the register of electors are to be read as references to the copy of the notice;
+
+(b) references to a mark being placed in the register of electors are to be read as references to a mark being made on the copy of the notice.
+
+(6) Where the same copy of the register is used as mentioned in sub-paragraph (1), this paragraph applies instead of rule 46(6) of the Assembly Elections Rules except so far as it relates to the list of proxies.
+
+**31** (1) If the counting officer thinks fit, the counting officer may require the relevant registration officer to produce a combined list of proxies for the referendum and the Assembly elections.
+
+(2) The following provisions apply where the lists are combined and a person applies for a ballot paper as proxy.
+
+(3) Immediately before delivery of the ballot paper the list of proxies must be marked in a way that identifies—
+
+(a) the proxy,
+
+(b) the elector for whom the proxy is applying for the ballot paper, and
+
+(c) the referendum or Assembly election to which the ballot paper relates.
+
+(4) Sub-paragraph (3) applies instead of—
+
+(a) rule 28(2)(d) of the referendum rules;
+
+(b) rule 46(1)(d) of the Assembly Elections Rules and rule 46(6) of those rules so far as it relates to the list of proxies.
+
+**32** (1) This paragraph applies where proceedings on the issue and receipt of postal ballot papers are taken together by virtue of paragraph 2 of Schedule 3 to the Welsh Assembly Order.
+
+(2) If the counting officer thinks fit, the counting officer may require the relevant registration officer to produce a combined postal voters list and a combined proxy postal voters list for the referendum and the Assembly elections.
+
+##### List of votes marked by presiding officer
+
+**33** (1) If the counting officer thinks fit, a single list of votes marked by the presiding officer may be used for the purposes of the referendum and the Assembly elections.
+
+(2) Where a person's entry in that list does not relate to the referendum, the Assembly constituency election and the Assembly regional election, the entry must—
+
+(a) indicate whether it relates to the referendum, and
+
+(b) identify any election to which it relates.
+
+(3) In this paragraph “list of votes marked by the presiding officer” means a list compiled under—
+
+(a) rule 30(4) of the referendum rules, or
+
+(b) rule 47(2) of the Assembly Elections Rules.
+
+(4) Where a single list is used as mentioned in sub-paragraph (1), this paragraph applies instead of rule 47(5) of the Assembly Elections Rules.
+
+##### Declaration to be made by the companion of a voter with disabilities
+
+**34** (1) A declaration made by the companion of a voter with disabilities must be in the form set out in Form 9 in Part 3 of this Schedule.
+
+(2) In this paragraph “declaration made by the companion of a voter with disabilities” means a declaration made by a companion under—
+
+(a) rule 31 of the referendum rules, or
+
+(b) rule 48 of the Assembly Elections Rules.
+
+(3) This paragraph applies instead of—
+
+(a) rule 31(5)(a) of the referendum rules;
+
+(b) rule 48(7)(a) of the Assembly Elections Rules.
+
+##### List of voters with disabilities assisted by companions
+
+**35** (1) If the counting officer thinks fit, a single list of voters with disabilities assisted by companions may be used for the purposes of the referendum and the Assembly elections.
+
+(2) Where a person's entry in that list does not relate to the referendum, the Assembly constituency election and the Assembly regional election, the entry must—
+
+(a) indicate whether it relates to the referendum, and
+
+(b) identify any election to which it relates.
+
+(3) In this paragraph “list of voters with disabilities assisted by companions” means a list compiled under—
+
+(a) rule 31(8) of the referendum rules, or
+
+(b) rule 48(4) of the Assembly Elections Rules.
+
+(4) Where a single list is used as mentioned in sub-paragraph (1), this paragraph applies instead of rule 48(9) of the Assembly Elections Rules.
+
+##### Tendered votes list
+
+**36** (1) If the counting officer thinks fit, a single tendered votes list may be used for the purposes of the referendum and the Assembly elections.
+
+(2) Where a person's entry in that list does not relate to the referendum, the Assembly constituency election and the Assembly regional election, the entry must—
+
+(a) indicate whether it relates to the referendum, and
+
+(b) identify any election to which it relates.
+
+(3) In this paragraph “tendered votes list” means a list compiled under—
+
+(a) rule 33(7) of the referendum rules, or
+
+(b) rule 49(8) of the Assembly Elections Rules
+
+(4) Where a single list is used as mentioned in sub-paragraph (1), this paragraph applies instead of rule 49(12) of the Assembly Elections Rules.
+
+##### Lists relating to correction of errors on day of poll
+
+**37** (1) If the counting officer thinks fit, a single list of persons to whom ballot papers are delivered in consequence of late alterations to the register may be used for the purposes of the referendum and the Assembly elections.
+
+(2) Where a person's entry in that list does not relate to the referendum, the Assembly constituency election and the Assembly regional election, the entry must—
+
+(a) indicate whether it relates to the referendum, and
+
+(b) identify any election to which it relates.
+
+(3) In this paragraph “list of persons to whom ballot papers are delivered in consequence of late alterations to the register” means a list compiled under—
+
+(a) rule 36 of the referendum rules, or
+
+(b) rule 51 of the Assembly Elections Rules.
+
+##### Notice of adjournment in case of riot
+
+**38** Rule 52(1) of the Assembly Elections Rules has effect as if references to the constituency returning officer were to the counting officer.
+
+##### Procedure on close of poll
+
+**39** (1) In rule 38(1) of the referendum rules the reference to polling agents includes a reference to polling agents appointed for the purposes of an Assembly election.
+
+(2) In rule 53(1) of the Assembly Elections Rules the reference to polling agents includes a reference to polling agents appointed for the purposes of the referendum.
+
+**40** (1) A packet made up under one of the following provisions may not be combined with a packet made up under another of those provisions.
+
+(2) The provisions are—
+
+(a) rule 38(1)(b), (c) or (f) of the referendum rules;
+
+(b) rule 53(1)(b), (c), (d), (e) or (h) of the Assembly Elections Rules.
+
+**41** The ballot paper accounts prepared under rule 38(6) of the referendum rules and rule 53(4) of the Assembly Elections Rules may not be combined.
+
+**42** In rule 53(3) of the Assembly Elections Rules references to a constituency returning officer are to be read as references to the counting officer.
+
+#### Counting of votes
+
+##### Attendance and arrangements for counting
+
+**43** (1) The counting officer must make arrangements for counting the ballot papers and carrying out the other functions conferred by paragraph 47 in the presence of the counting agents.
+
+(2) The counting officer must give the counting agents and the regional returning officer notice in writing of the time and place at which the proceedings under paragraph 47 will begin.
+
+(3) A person may be present at the proceedings under paragraph 47 only if—
+
+(a) the person is entitled to be present at the counting of the votes for the referendum or an Assembly election, or
+
+(b) the person is permitted by the counting officer to attend.
+
+(4) The counting officer may give a person permission under sub-paragraph (3)(b) only if—
+
+(a) the officer is satisfied that the person's attendance will not impede the efficient conduct of the proceedings, and
+
+(b) the officer has consulted the referendum agents and election agents or thought it impracticable to do so.
+
+(5) The counting officer must give the counting agents—
+
+(a) whatever reasonable facilities for overseeing the proceedings, and
+
+(b) whatever information with respect to the proceedings,
+
+the officer can give them consistently with the orderly conduct of the proceedings and the discharge of the officer's duties.
+
+**44** Rule 39(1) of the referendum rules (arrangements for the counting of votes in the referendum) has effect with the omission of the words “after the close of the poll”.
+
+**45** (1) The constituency returning officer must make arrangements for counting the votes for the Assembly elections in the presence of the counting agents for the election as soon as practicable after receiving the ballot papers from the counting officer under paragraph 48.
+
+(2) The constituency returning officer must give the counting agents for the Assembly elections and the regional returning officer notice in writing of the time and place at which the counting of the votes for the elections will begin.
+
+(3) A person may be present at the counting of the votes for an Assembly election only if—
+
+(a) the person is permitted by the returning officer to attend, or
+
+(b) the person would be entitled to be present at the counting of votes for the Assembly election if it were taken on its own.
+
+(4) The constituency returning officer may give a person permission under sub-paragraph (3)(a) only if—
+
+(a) the officer is satisfied that the person's attendance will not impede the efficient counting of the votes, and
+
+(b) the officer has consulted the election agents or thought it impracticable to do so.
+
+(5) The constituency returning officer must give the counting agents for the Assembly elections—
+
+(a) whatever reasonable facilities for overseeing the proceedings, and
+
+(b) whatever information with respect to the proceedings,
+
+the officer can give them consistently with the orderly conduct of the proceedings and the discharge of the officer's duties.
+
+(6) In particular, where the votes are counted by sorting the ballot papers into lots according to the votes marked on them and then counting the number of ballot papers in each lot, the counting agents for an Assembly election are entitled to satisfy themselves that the ballot papers are correctly sorted.
+
+**46** Paragraphs 43 and 45 apply instead of rule 54 of the Assembly Elections Rules.
+
+##### Counting and separation of ballot papers by counting officer
+
+**47** (1) As soon as practicable after the close of the poll the counting officer must—
+
+(a) in the presence of the counting agents, open each ballot box and count and record separately the number of ballot papers relating to the referendum, the Assembly constituency election and the Assembly regional election;
+
+(b) where proceedings on the issue and receipt of postal ballot papers for the referendum and the Assembly elections are taken together by virtue of paragraph 2 of Schedule 3 to the Welsh Assembly Order, count the postal ballot papers that have been duly returned for the referendum, the Assembly constituency election and the Assembly regional election and record separately the number relating to each;
+
+(c) where proceedings on the issue and receipt of postal ballot papers for the referendum and the Assembly elections are not taken together by virtue of paragraph 2 of Schedule 3 to the Welsh Assembly Order, count the postal ballot papers that have been duly returned for the referendum and record the number;
+
+(d) separate the ballot papers relating to the referendum, the Assembly constituency election and the Assembly regional election.
+
+(2) The counting officer must not count any tendered ballot papers.
+
+(3) The counting officer, while counting and recording the number of ballot papers, must—
+
+(a) keep the ballot papers with their faces upwards, and
+
+(b) take all proper precautions for preventing anyone from seeing the numbers or other unique identifying marks printed on the back of the papers.
+
+(4) The counting officer must, in the presence of the referendum agents and the election agents for the Assembly elections—
+
+(a) verify each ballot paper account by comparing it with the number of ballot papers recorded by the officer, and the unused and spoilt ballot papers in the officer's possession and the tendered votes list (opening and resealing the packets containing the unused and spoilt ballot papers and the tendered votes list);
+
+(b) draw up a separate statement as to the result of the verification in relation to each poll.
+
+(5) An election agent for an Assembly election may copy the statement relating to that Assembly election.
+
+(6) A counting agent for the referendum present at the verification may copy the statement relating to the referendum.
+
+(7) Once the statement relating to the referendum is drawn up, the counting officer must—
+
+(a) in the case of a voting area in a region for which a Regional Counting Officer is appointed, inform the Regional Counting Officer of the contents of the statement;
+
+(b) in the case of any other voting area, inform the Chief Counting Officer of the contents of the statement.
+
+(8) Rule 40 of the referendum rules does not apply.
+
+##### Delivery of ballot papers etc to returning officers
+
+**48** (1) The counting officer must deliver or cause to be delivered to the constituency returning officer the ballot papers for the Assembly elections.
+
+(2) The counting officer must also deliver or cause to be delivered to the constituency returning officer—
+
+(a) the ballot paper accounts and the statement as to the result of the verification of the ballot paper accounts for the Assembly elections;
+
+(b) the packets of unused and spoilt ballot papers for the Assembly elections;
+
+(c) the packets of tendered ballot papers for the Assembly elections;
+
+(d) the packets of certificates as to employment on duty on the day of the poll for the Assembly elections.
+
+(3) If the counting officer has not begun to count the votes given on the referendum ballot papers by the time the statements as to the result of the verification of the ballot paper accounts in relation to all the polls are prepared—
+
+(a) those ballot papers must be sealed into packets, each of which must be endorsed with a description of its contents, and
+
+(b) the packets may not be opened until the counting officer begins dealing with the ballot papers in those packets under paragraph 49(1).
+
+(4) If, in respect of an Assembly constituency election or an Assembly regional election, none of the ballot papers have been delivered under sub-paragraph (1) by the time the statements as to the result of the verification of the ballot paper accounts in relation to all the polls are prepared—
+
+(a) the ballot papers for that election must be sealed into packets, each of which must be endorsed with a description of its contents, and
+
+(b) the packets may not be opened until the constituency returning officer begins dealing with the ballot papers in those packets under paragraph 49(3).
+
+##### Counting of votes
+
+**49** (1) The counting officer must count the votes given on the ballot papers for the referendum, but must not do so until—
+
+(a) in the case of postal ballot papers, they have been mixed with the ballot papers from at least one ballot box;
+
+(b) in the case of ballot papers from a ballot box, they have been mixed with the ballot papers from at least one other ballot box.
+
+(2) Where proceedings on the issue and receipt of postal ballot papers for the Assembly elections are not taken together with those for the referendum, the constituency returning officer must count the postal ballot papers that have been duly returned for the Assembly constituency election and the Assembly regional election and record separately the number relating to each.
+
+(3) The constituency returning officer must count the votes given on the ballot papers for each Assembly election, but must not do so until—
+
+(a) in the case of postal ballot papers, they have been mixed with the ballot papers from at least one ballot box;
+
+(b) in the case of ballot papers from a ballot box, they have been mixed with the ballot papers from at least one other ballot box.
+
+(4) The counting or constituency returning officer, while counting the votes, must—
+
+(a) keep the ballot papers with their faces upwards, and
+
+(b) take all proper precautions for preventing anyone from seeing the numbers or other unique identifying marks printed on the back of the papers.
+
+(5) The counting or constituency returning officer must so far as practicable proceed continuously with the counting of votes, allowing only time for refreshment, except that—
+
+(a) the officer may exclude the whole or any part of the period between 7 pm and 9 am on the next day;
+
+(b) the officer may exclude a day mentioned in rule 2(1) of the referendum rules.
+
+(6) During the time so excluded the counting or constituency returning officer must—
+
+(a) place the ballot papers and other documents relating to the referendum or Assembly election under the officer's own seal and the seals of any of the counting agents who want to affix their seals, and
+
+(b) otherwise take proper precautions for the security of the papers and documents.
+
+(7) This paragraph and paragraph 50 apply instead of rule 55 of the Assembly Elections Rules.
+
+##### Ballot papers placed in wrong ballot box
+
+**50** Where separate ballot boxes are used for the referendum, the Assembly constituency election and the Assembly regional election, the placing of a ballot paper in the wrong ballot box does not render it void.
+
+#### Declaration of result
+
+##### Declaration
+
+**51** The result of the referendum or an Assembly election may not be declared until the statement as to the result of the verification of the ballot paper accounts in relation to each poll has been prepared.
+
+#### Disposal of documents etc
+
+##### Packets of documents
+
+**52** (1) The counting officer may not open the sealed packets of—
+
+(a) the completed corresponding number lists for an Assembly election, or
+
+(b) marked copies of the register of electors (including any marked copy notices issued under section 13B(3B) or (3D) of the 1983 Act), and lists of proxies, for an Assembly election.
+
+(2) Rule 66(3) of the Assembly Elections Rules has effect as if sub-paragraphs (b) and (d) were omitted.
+
+##### Delivery and retention of documents
+
+**53** (1) Rules 50(1)(a) and 52 of the referendum rules apply to the specified documents.
+
+(2) The specified documents are those specified in rule 67(1)(e), (f) and (h) of the Assembly Elections Rules.
+
+(3) Rule 68 of the Assembly Elections Rules applies to the specified documents as if references to the relevant registration officer were to the registration officer to whom the documents were forwarded under rule 50(1)(a) of the referendum rules.
+
+(4) Except for the purposes of this paragraph, rule 67 of the Assembly Elections Rules has effect as if it did not include a reference to the specified documents (and as if paragraph (2) were omitted).
+
+(5) Regulation 121 of the Representation of the People (England and Wales) Regulations 2001 (S.I. 2001/341) has effect in relation to an Assembly election—
+
+(a) as if, in the definition of “relevant Assembly election documents”, the reference to rule 69(1) of Schedule 5 to the 2007 Order included a reference to rule 52 of the referendum rules as applied by this paragraph;
+
+(b) as if, in paragraph (2), the reference to documents forwarded under rule 67(1)(h) of Schedule 5 to the 2007 Order were to documents forwarded under rule 50(1)(a) of the referendum rules as so applied.
+
+(6) Rule 68(8) of the Assembly Elections Rules has effect as if after “rule” there were inserted “ (or a court order) ”.
+
+##### Countermand or abandonment of poll on death of candidate
+
+**54** Where an Assembly election is countermanded, or polling is abandoned, because of the death of a candidate, this does not affect the poll for the referendum.
+
+**55** (1) Rule 76 of the Assembly Elections Rules has effect as if it were modified in accordance with sub-paragraphs (2) to (4).
+
+(2) In paragraph (2) after “constituency returning officer” insert “ or counting officer ”.
+
+(3) For paragraph (3) substitute—
+
+> (3) After the close of any polls that are being taken together with the poll that has been abandoned, the counting officer must—
+>
+> (a) separate the ballot papers for the abandoned poll, and
+>
+> (b) deliver or cause to be delivered to the constituency returning officer the ballot papers and other documents relating to the abandoned poll.
+>
+> (3A) Paragraphs (4) to (9) apply in relation to the election for which the poll has been abandoned.
+
+(4) Sub-paragraph (3) applies instead of rule 76(10) of the Assembly Elections Rules.
+
+#### Provision of registers etc to counting officer
+
+##### Registers
+
+**56** Regulation 98(8) of the Representation of the People (England and Wales) Regulations 2001 has effect as if a reference to a returning officer included a reference to the counting officer.
+
+##### Absent voters lists
+
+**57** As soon as practicable after 5 pm on the 6th day before the date of the poll, the registration officer must provide the counting officer with the following lists, and any subsequent revised lists or revisions to the lists—
+
+(a) the list of proxies for the Assembly elections;
+
+(b) the postal voters list for the Assembly elections;
+
+(c) the proxy postal voters list for the Assembly elections.
+
+##### Personal identifier information
+
+**58** Where proceedings on the issue and receipt of postal ballot papers are taken together by virtue of paragraph 2 of Schedule 3 to the Welsh Assembly Order, Article 13(5) of that Order has effect as if a reference to a constituency returning officer were a reference to the counting officer.
+
+### PART 2 — Application of provisions about issue and receipt of postal ballot papers
+
+**59** (1) For the purposes of the combined polls, Schedule 3 to the National Assembly for Wales (Representation of the People) Order 2007 (S.I. 2007/236) applies—
+
+(a) with the modifications shown in the table, and
+
+(b) with any other necessary modifications, including in particular those set out in sub-paragraph (2).
+
+(2) Except where the context otherwise requires—
+
+(a) in relation to the referendum or an Assembly election, a reference to a provision has effect as a reference to that provision as it applies for the purposes of the referendum or election;
+
+(b) expressions used in relation to the referendum under section 1 are to be construed in accordance with the definitions in section 7 and rule 53 of the referendum rules.
+
+(3) In the Representation of the People (England and Wales) Regulations 2001 (S.I. 2001/341) as they apply in relation to the referendum by virtue of Schedule 4—
+
+(a) regulation 61B(3)(a) has effect as if for the words after “postal ballot papers” there were substituted “ in accordance with paragraph 23(4) or 24(3)(a) of Schedule 3 to the National Assembly for Wales (Representation of the People) Order 2007 ”;
+
+(b) regulation 116(1) has effect as if for “regulation 91 above” there were substituted “ paragraph 31 of Schedule 3 to the National Assembly for Wales (Representation of the People) Order 2007 ”.
+
+|  |  |
+|---|---|
+| *Provision* | *Modification* |
+| Paragraph 1 (interpretation) | For the definition of “agent” substitute—<br>> “agent”, except in paragraph 6(2) to (8)—<br>><br>> (a) in relation to an Assembly election, includes an election agent and a person appointed to attend in the election agent's place;<br>><br>> (b) in relation to the referendum, means a referendum agent or an agent appointed under paragraph 6(2). In the appropriate places insert—<br>> “postal voters list” includes the list kept under paragraph 5(2) of Schedule 3 to the Parliamentary Voting System and Constituencies Act 2011;”;<br>><br>> “ “proxy postal voters list” includes the list kept under or paragraph 8(6) of Schedule 3 to the Parliamentary Voting System and Constituencies Act 2011;<br>;<br>> “relevant returning or counting officer” means—<br>><br>> (a) in a case where proceedings on the issue and receipt of postal ballot papers are taken together by virtue of paragraph 2, the counting officer;<br>><br>> (b) in any other case, the constituency returning officer, in relation to an Assembly election, or the counting officer, in relation to the referendum;<br>. |
+| Paragraph 2 (combination of polls) | For paragraph 2 substitute—<br>> **Combination of polls**<br>><br>> **2** Proceedings on the issue and receipt of postal ballot papers in respect of the Assembly elections and the referendum may, if the constituency returning officer and the counting officer think fit, be taken together. |
+| Paragraph 3 (form of postal voting statement) | Omit the whole paragraph. |
+| Paragraph 4 (regional elections) | Omit the whole paragraph. |
+| Paragraph 5 (persons entitled to be present at proceedings on issue of postal ballot papers) | For “constituency returning officer” substitute “ relevant returning or counting officer ”. |
+| Paragraph 6 (persons entitled to be present at proceedings on receipt of postal ballot papers) | For sub-paragraph (1) substitute—<br>> (1) In a case where proceedings on the receipt of postal ballot papers are taken together by virtue of paragraph 2, the only persons who may be present at those proceedings are the appropriate persons in relation to the Assembly elections and the referendum.<br>><br>> (1A) In any other case, the only persons who may be present at the proceedings on the receipt of postal ballot papers—<br>><br>> (a) in respect of the Assembly elections, are the appropriate persons in relation to those elections;<br>><br>> (b) in respect of the referendum, are the appropriate persons in relation to the referendum.<br>><br>> (1B) The following are appropriate persons in relation to the Assembly elections—<br>><br>> (a) the constituency returning officer and his clerks;<br>><br>> (b) the regional returning officer;<br>><br>> (c) the candidates;<br>><br>> (d) the election agents;<br>><br>> (e) any person appointed by a constituency candidate to attend in his election agent's place;<br>><br>> (f) any person appointed by an individual candidate at the regional election to attend in his election agent's place;<br>><br>> (g) any person appointed by the election agent of a registered political party standing nominated or by the registered nominating officer of that party to attend in the place of that party's election agent at the regional election;<br>><br>> (h) any agents appointed under sub-paragraph (2).<br>><br>> (1C) The following are appropriate persons in relation to the referendum—<br>><br>> (a) the counting officer;<br>><br>> (b) the counting officer's clerks;<br>><br>> (c) the referendum agents and any agents appointed under sub-paragraph (2).<br>><br>> (1D) This paragraph is without prejudice to section 6A, 6B, 6C, 6D or 6E of the 2000 Political Parties Act. In sub-paragraphs (2) to (7), for “constituency returning officer” (in each place) substitute “ relevant returning or counting officer ”. Omit sub-paragraph (4). After sub-paragraph (7) insert—<br>> (7A) In relation to the referendum, in sub-paragraph (2), (3), (5) or (8) a reference to a candidate in a constituency election is to be read as a reference to a referendum agent. In sub-paragraph (9), for “the candidates or their agents” substitute “ any persons mentioned in sub-paragraphs (1B)(c) to (h) or (1C)(c) ”. |
+| Paragraph 7 (notification of requirement of secrecy) | For paragraph 7 substitute—<br>> **Notification of requirements of secrecy**<br>><br>> **7** (1) In a case where proceedings on the issue and receipt of postal ballot papers are taken together by virtue of paragraph 2, the counting officer shall make such arrangements as he thinks fit to ensure that every person attending the proceedings in connection with the issue or receipt of postal ballot papers has been given a copy in writing of—<br>><br>> (a) the provisions of article 35(4) and (6); and<br>><br>> (b) the provisions of subsections (4) and (6) of section 66 of the 1983 Act as they apply in relation to the referendum.<br>><br>> (2) In any other case—<br>><br>> (a) the constituency returning officer shall make such arrangements as he thinks fit to ensure that every person attending proceedings in connection with the issue or receipt of postal ballot papers for the Assembly elections has been given a copy in writing of the provisions of article 35(4) and (6);<br>><br>> (b) the counting officer shall make such arrangements as he thinks fit to ensure that every person attending proceedings in connection with the issue or receipt of postal ballot papers for the referendum has been given a copy in writing of the provisions of subsections (4) and (6) of section 66 of the 1983 Act as they apply to the referendum. |
+| Paragraph 8 (time when postal ballot papers are to be issued) | In sub-paragraph (1), after “voting statement” insert “ for an Assembly election ”. After sub-paragraph (1) insert—<br>> (1A) In the case of a person within entry 2, 3, 4 or 5 of the table in paragraph 5(2) of Schedule 3 to the Parliamentary Voting System and Constituencies Act 2011 or entry 2, 3, 4 or 5 of the table in paragraph 8(6) of that Schedule (electors and proxies entitled to vote by post for an indefinite or definite period), no postal ballot paper and postal voting statement for the referendum shall be issued until after 5 pm on the eleventh day before the date of the poll (computed in accordance with paragraph 7(6) of Schedule 1 to this Order). In sub-paragraph (2), omit “by the constituency returning officer”. |
+| Paragraph 9 (procedure on issue of postal ballot papers) | In sub-paragraph (2), omit “Where an elector is entitled to give two votes”. For sub-paragraph (5) substitute—<br>> (5) Sub-paragraphs (5A) and (5B) apply where—<br>><br>> (a) proceedings on the issue of postal ballot papers are taken together by virtue of paragraph 2; and<br>><br>> (b) a combined postal voters list or proxy postal voters list is produced by virtue of paragraph 32 of Schedule 6 to the Parliamentary Voting System and Constituencies Act 2011.<br>><br>> (5A) In a case where a postal ballot paper is issued at the same time in respect of the Assembly elections and the referendum, a single mark must be placed in the list under sub-paragraph (3).<br>><br>> (5B) In any other case, a mark must be placed in the list under sub-paragraph (3) identifying the poll to which each postal ballot paper issued relates.<br>><br>> (5C) Where proceedings on the issue of postal ballot papers are taken together by virtue of paragraph 2, the number of each postal ballot paper issued shall be marked on the postal voting statement under paragraph (4). In sub-paragraph (6), for the words from the beginning to “but” substitute “ Where ”. In sub-paragraph (8)—<br>- (a) after “sub-paragraph (7)” insert “ in relation to an Assembly election ”;<br>- (b) at the end insert— “ and, in relation to the referendum, the items specified in sub-paragraph (7) must be sent to the address to which postal ballot papers should be sent as mentioned in column 3 of the table in paragraph 5(2) or 8(6) of Schedule 3 to the Parliamentary Voting System and Constituencies Act 2011. ” |
+| Paragraph 10 (refusal to issue postal ballot papers) | For “constituency returning officer” substitute “ relevant returning or counting officer ”. After “election” insert “ or the referendum ”. |
+| Paragraph 11 (envelopes) | In sub-paragraph (1)—<br>- (a) for “constituency returning officer” substitute “ relevant returning or counting officer ”;<br>- (b) after “Schedule 5” insert “ or rule 12 of the referendum rules ”. In sub-paragraph (2)—<br>- (a) for “constituency returning officer” substitute “ relevant returning or counting officer ”;<br>- (b) in paragraph (c), at the beginning insert “ unless the envelope has a window through which the number on the ballot paper (or ballot papers) can be displayed, ”. In sub-paragraph (3), for the words from the beginning to “but” substitute “ Where ”. |
+| Paragraph 12 (sealing up of completed corresponding number lists) | In sub-paragraph (1), for “constituency returning officer” substitute “ relevant returning or counting officer ”. In sub-paragraph (2), for “returning officer” substitute “ relevant returning or counting officer ”. |
+| Paragraph 13 (delivery of postal ballot papers) | In sub-paragraph (1)—<br>- (a) for “constituency returning officer” substitute “ relevant returning or counting officer ”;<br>- (b) in paragraph (c), after “Schedule 5” insert “ or rule 14 of the referendum rules ”. In sub-paragraph (2), for “constituency returning officer” substitute “ relevant returning or counting officer ”. |
+| Paragraph 14 (spoilt postal ballot papers) | For “constituency returning officer” (in each place) substitute “ relevant returning or counting officer ”. In sub-paragraph (2)(b), for “election” substitute “ poll ”. |
+| Paragraph 15 (lost postal ballot papers) | For “constituency returning officer” (in each place) substitute “ relevant returning or counting officer ”. In sub-paragraph (3)(b), for “election” substitute “ poll ”. |
+| Paragraph 16 (notice of opening of postal ballot paper envelopes) | In sub-paragraph (1)—<br>- (a) for “constituency returning officer” substitute “ relevant returning or counting officer ”;<br>- (b) for paragraphs (a) and (b) substitute “ each of the persons mentioned in sub-paragraph (1A) ”. After sub-paragraph (1) insert—<br>> (1A) The persons are—<br>><br>> (a) in relation to the constituency election, the candidates;<br>><br>> (b) in relation to the regional election, the individual candidates and the election agent for each registered party standing nominated;<br>><br>> (c) in relation to the referendum, the referendum agents. In sub-paragraph (2)(b), after “party” insert “ or referendum agent (as the case may be) ”. |
+| Return of postal ballot papers etc | After paragraph 16 insert—<br>> **Return of postal ballot papers etc**<br>><br>> **16A** (1) A postal ballot paper shall not be taken to be duly returned for the purposes of Part 1 of Schedule 6 to the Parliamentary Voting System and Constituencies Act 2011 unless—<br>><br>> (a) before the close of the poll—<br>><br>> (i) it is returned by hand or post and reaches the relevant returning or counting officer; or<br>><br>> (ii) it is returned by hand to a polling station in the constituency or voting area for which the officer acts;<br>><br>> (b) the postal voting statement duly signed is, before that time, also returned either—<br>><br>> (i) by hand or post and reaches the relevant returning or counting officer; or<br>><br>> (ii) by hand and reaches such a polling station;<br>><br>> (c) the postal voting statement also states the date of birth of the elector or, as the case may be, proxy; and<br>><br>> (d) in a case where the relevant returning or counting officer takes steps to verify the date of birth and signature of the elector or, as the case may be, proxy in accordance with paragraph 23 or, as the case may be, paragraph 24, he so verifies the date of birth and signature of that elector or, as the case may be, proxy.<br>><br>> (2) The presiding officer of the polling station shall deliver or cause to be delivered any postal ballot paper or postal voting statement returned to that polling station to the relevant returning or counting officer in the same manner and at the same time as he delivers, or causes to be delivered, the packets referred to in rule 53 of Schedule 5 or rule 38 of the referendum rules.<br>><br>> (3) The relevant returning or counting officer may collect, or cause to be collected, any postal ballot paper or postal voting statement which by virtue of sub-paragraph (2) the presiding officer of a polling station would otherwise be required to deliver or cause to be delivered to him.<br>><br>> (4) Where the relevant returning or counting officer collects, or causes to be collected, any postal ballot paper or postal voting statement in accordance with sub-paragraph (3) the presiding officer shall first make it (or them) up into a packet (or packets) sealed with his own seal and the seals of such polling agents as are present and desire to affix their seals. |
+| Paragraph 17 (postal ballot boxes and receptacles) | For “constituency returning officer” (in each place) substitute “ relevant returning or counting officer ”. For sub-paragraph (2) substitute—<br>> (2) Each of those ballot boxes—<br>><br>> (a) shall be marked “postal voter's ballot box” or “postal ballot box” as appropriate;<br>><br>> (b) shall be marked with the name of each constituency, electoral region or voting area in relation to which it is to be used. In sub-paragraph (4), after “shall then” insert “ lock the ballot box (if it has a lock) and ”. |
+| Paragraph 18 (receipt of covering envelope) | In sub-paragraphs (1) and (2), for “constituency returning officer” substitute “ relevant returning or counting officer ”. |
+| Paragraph 19 (opening of postal voters' ballot box) | In sub-paragraphs (1) and (2), for “constituency returning officer” substitute “ relevant returning or counting officer ”. In sub-paragraph (3), for “votes under rule 55 of the Schedule 5” substitute “ ballot papers ”. |
+| Paragraph 20 (opening of covering envelopes) | For “constituency returning officer” (in each place) substitute “ relevant returning or counting officer ”. |
+| Paragraph 21 (confirming receipt of postal voting statements) | For “constituency returning officer” (in each place) substitute “ relevant returning or counting officer ”. In sub-paragraph (2)(a), for “returning officer” substitute “ relevant returning or counting officer ”. |
+| Paragraph 22 (procedure in relation to postal voting statements) | For “constituency returning officer” (in each place) substitute “ relevant returning or counting officer ”. After sub-paragraph (3) insert—<br>> (3A) Before placing the statement in the receptacle for rejected votes, the relevant returning or counting officer shall show it to the agents and, if any of them object to his decision, he shall add the words “rejection objected to”. |
+| Paragraph 23 (procedure in relation to postal voting statements: personal identifier verification) | For “constituency returning officer” (in each place) substitute “ relevant returning or counting officer ”. |
+| Paragraph 24 (postal voting statements: additional personal identifier verification) | For “constituency returning officer” or “returning officer” (in each place) substitute “ relevant returning or counting officer ”. In sub-paragraph (4), for “reseal the postal ballot box” substitute “ lock the postal ballot box (if it has a lock) and reseal it ”. |
+| Paragraph 25 (opening of ballot paper envelopes) | In sub-paragraph (1), for “constituency returning officer” substitute “ relevant returning or counting officer ”. |
+| Paragraph 26 (retrieval of cancelled postal ballot papers) | In sub-paragraph (1), for “constituency returning officer” substitute “ relevant returning or counting officer ”. In sub-paragraph (2)(f)—<br>- (a) for “votes under rule 55 of Schedule 5” substitute “ ballot papers ”;<br>- (b) for “reseal the postal ballot box” substitute “ lock the postal ballot box (if it has a lock) and reseal it ”. |
+| Paragraph 27 (list of rejected postal ballot papers) | In sub-paragraph (1), for “, the constituency returning officer” substitute “ and in respect of the referendum, the relevant returning or counting officer ”. |
+| Paragraph 28 (checking of lists of rejected postal ballot papers) | For “constituency returning officer” (in each place) substitute “ the relevant returning or counting officer ”. In sub-paragraph (3), at the end insert “ or voting area under rule 38 of the referendum rules ”. |
+| Paragraph 29 (sealing of receptacles) | In sub-paragraph (1), for “constituency returning officer” substitute “ the relevant returning or counting officer ”. |
+| Paragraph 30 (abandoned poll) | In sub-paragraph (2), for “election” substitute “ poll ”. |
+| Paragraph 31 (forwarding or retention of documents) | In sub-paragraph (1)—<br>- (a) for the words before sub-paragraph (a) substitute “ The relevant returning or counting officer shall forward to the registration officer to whom he forwards the documents mentioned in rule 67 of Schedule 5 or rule 50 of the referendum rules, at the same time as he forwards those documents ”;<br>- (b) in paragraph (a), for the words from “the election to which” to the end substitute “ each election or referendum and the area to which the packet relates ”;<br>- (c) in paragraph (b), at the end insert “ in respect of each Assembly election, and a completed statement in the form set out in Form 10 in Part 3 of Schedule 6 to the Parliamentary Voting System and Constituencies Act 2011 in respect of the referendum ”. In sub-paragraph (2)—<br>- (a) for “constituency returning officer” (in both places) substitute “ relevant returning or counting officer ”;<br>- (b) for “rule 55(7) of Schedule 5” substitute “ paragraph 16A(2) ”. In sub-paragraph (3), for “Rules 68 and 69 of Schedule 5” substitute “ The rules specified in paragraph (3A) ”. After sub-paragraph (3) insert—<br>> (3A) The rules are—<br>><br>> (a) in a case where proceedings on the issue and receipt of postal ballot papers are taken together by virtue of paragraph 2—<br>><br>> (i) rule 51 of the referendum rules and rule 68 of Schedule 5, and<br>><br>> (ii) rule 52 of the referendum rules;<br>><br>> (b) in any other case—<br>><br>> (i) rule 51 of the referendum rules or (as the case may be) rule 68 of Schedule 5, and<br>><br>> (ii) rule 52 of the referendum rules or (as the case may be) rule 69 of Schedule 5. In sub-paragraph (4), for “constituency returning officer” substitute “ relevant returning or counting officer ”. |
+| In Schedule 10, Form CD | In a case where proceedings on the issue and receipt of postal ballot papers are taken together by virtue of paragraph 2 of Schedule 3 to the Welsh Assembly Order, for “returning officer” in each place substitute “ counting officer ”. |
+
+### PART 3 — Forms referred to in Parts 1 and 2
+
+*Note* - The forms contained in this Part may be adapted so far as circumstances require.
+
+#### FORM 1 - FORM OF CORRESPONDING NUMBER LIST (TO BE USED FOR COMBINED POLLS)
+
+*Paragraphs 7(3) and 8(4)*
+
+![image](http://www.legislation.gov.uk/ukpga/2011/1/images/ukpga_20110001_en_sld_036)
+
+#### FORM 2 - FORM OF POSTAL VOTING STATEMENT (TO BE USED WHERE PROCEEDINGS ON ISSUE AND RECEIPT OF POSTAL BALLOT PAPERS COMBINED)
+
+*Paragraph 10(3)*
+
+![image](http://www.legislation.gov.uk/ukpga/2011/1/images/ukpga_20110001_en_sld_037)
+
+![image](http://www.legislation.gov.uk/ukpga/2011/1/images/ukpga_20110001_en_sld_038)
+
+#### FORM 3 - FORM OF POSTAL VOTING STATEMENT (TO BE USED FOR REFERENDUM WHERE PROCEEDINGS ON ISSUE AND RECEIPT OF POSTAL BALLOT PAPERS NOT COMBINED)
+
+*Paragraph 11(2)*
+
+![image](http://www.legislation.gov.uk/ukpga/2011/1/images/ukpga_20110001_en_sld_039)
+
+![image](http://www.legislation.gov.uk/ukpga/2011/1/images/ukpga_20110001_en_sld_040)
+
+#### FORM 4 - FORM OF POSTAL VOTING STATEMENT (TO BE USED FOR NATIONAL ASSEMBLY FOR WALES ELECTION WHERE PROCEEDINGS ON ISSUE AND RECEIPT OF POSTAL BALLOT PAPERS NOT COMBINED)
+
+*Paragraph 11(4)*
+
+![image](http://www.legislation.gov.uk/ukpga/2011/1/images/ukpga_20110001_en_sld_041)
+
+![image](http://www.legislation.gov.uk/ukpga/2011/1/images/ukpga_20110001_en_sld_042)
+
+#### FORM 5 - FORM OF CORRESPONDING NUMBER LIST (TO BE USED IN POLLING STATIONS FOR COMBINED POLLS)
+
+*Paragraph 19(1)*
+
+![image](http://www.legislation.gov.uk/ukpga/2011/1/images/ukpga_20110001_en_sld_043)
+
+#### FORM 6 - GUIDANCE FOR VOTERS TO BE EXHIBITED INSIDE AND OUTSIDE EVERY POLLING STATION
+
+*Paragraph 21(1)*
+
+![image](http://www.legislation.gov.uk/ukpga/2011/1/images/ukpga_20110001_en_sld_044)
+
+#### FORM 7 - GUIDANCE FOR VOTERS TO BE EXHIBITED IN EVERY POLLING STATION COMPARTMENT
+
+*Paragraph 22(1)*
+
+![image](http://www.legislation.gov.uk/ukpga/2011/1/images/ukpga_20110001_en_sld_045)
+
+#### FORM 8 - FORM OF CERTIFICATE OF EMPLOYMENT
+
+*Paragraph 27(2)*
+
+![image](http://www.legislation.gov.uk/ukpga/2011/1/images/ukpga_20110001_en_sld_046)
+
+#### FORM 9 - FORM OF DECLARATION TO BE MADE BY THE COMPANION OF A VOTER WITH DISABILITIES
+
+*Paragraph 34(1)*
+
+![image](http://www.legislation.gov.uk/ukpga/2011/1/images/ukpga_20110001_en_sld_047)
+
+#### FORM 10 - STATEMENT AS TO POSTAL BALLOT PAPERS FOR THE REFERENDUM
+
+*Paragraph 59*
+
+![image](http://www.legislation.gov.uk/ukpga/2011/1/images/ukpga_20110001_en_sld_048)
+
+![image](http://www.legislation.gov.uk/ukpga/2011/1/images/ukpga_20110001_en_sld_049)
+
+## SCHEDULE 7 — Combination of polls: Scotland
+
+*Section 4*
+
+### PART 1 — Provision about combination
+
+#### General provisions
+
+##### Interpretation
+
+**1** The polls to be taken together under section 4(3) are referred to in this Schedule as “combined polls”.
+
+**2** In this Schedule—
+
+- “the 2010 Order” means the Scottish Parliament (Elections etc.) Order 2010 (S.I. 2010/2999);
+- “constituency ballot paper” means a ballot paper for the poll for electing a constituency member in a Scottish parliamentary election;
+- “constituency returning officer” is to be construed in accordance with Article 14 of the 2010 Order;
+- “counting agent” means a counting agent for the referendum or a counting agent for a Scottish parliamentary election (except where one or other is specified);
+- “regional ballot paper” means a ballot paper for the poll for electing a regional member in a Scottish parliamentary election;
+- “referendum ballot paper” means a ballot paper for the referendum;
+- “regional returning officer” has the meaning given by section 12(6) of the Scotland Act 1998;
+- “returning officer” means a person who is a constituency returning officer or a regional returning officer (unless one or other is specified);
+- “Scottish parliamentary election” means an election in a constituency held under section 2 of the Scotland Act 1998 (comprising the poll for electing a constituency member and the poll for electing regional members);
+- “Scottish Parliamentary Election Rules” means the rules set out in Schedule 2 to the 2010 Order.
+
+##### Cost of combined polls
+
+**3** The cost of taking the combined polls (excluding any cost solely attributable to the referendum or the Scottish parliamentary election), and any cost attributable to their combination, is to be apportioned equally between—
+
+(a) the referendum, and
+
+(b) the Scottish parliamentary election.
+
+**4** (1) In section 29 of the 1983 Act (payments by and to returning officer) as it has effect for the purposes of a Scottish parliamentary election by virtue of Article 18 of the 2010 Order, subsections (3) to (9) apply—
+
+(a) as if a reference to a returning officer included a reference to a counting officer carrying out functions that, but for this Schedule, would be exercisable by a returning officer (“transferred functions”), and
+
+(b) as if, in relation to that counting officer, a reference to services or expenses were to services rendered or expenses incurred in respect of transferred functions.
+
+(2) An order under subsection (3)(b) of that section (as it has effect as mentioned above) may include special provision for services rendered or expenses incurred by a counting officer in respect of transferred functions.
+
+(3) Article 19 of the 2010 Order (taxation of returning officer's accounts) applies as if a reference to a returning officer included a reference to a counting officer carrying out transferred functions.
+
+##### Forms
+
+**5** Forms 2, 3, 4, 6, 7 and 9 in Part 3 of this Schedule are “relevant forms” for the purposes of rule 10 of the referendum rules.
+
+#### Action to be taken before poll
+
+##### Corresponding number lists
+
+**6** (1) This paragraph applies where proceedings on the issue and receipt of postal ballot papers are taken together by virtue of paragraph 2 of Schedule 4 to the 2010 Order.
+
+(2) The function of the constituency returning officer under rule 29 of the Scottish Parliamentary Election Rules is to be carried out by the counting officer.
+
+(3) If the counting officer thinks fit, the lists prepared under rule 29 of the Scottish Parliamentary Election Rules and rule 6 of the referendum rules may be combined in the form set out in Form 1 in Part 3 of this Schedule.
+
+(4) In that case, this paragraph applies instead of—
+
+(a) rule 6(2) of the referendum rules;
+
+(b) rule 29(2) of the Scottish Parliamentary Election Rules.
+
+**7** (1) This paragraph applies where proceedings on the issue and receipt of postal ballot papers are not taken together by virtue of paragraph 2 of Schedule 4 to the 2010 Order.
+
+(2) The counting officer must prepare a list under sub-paragraph (3) or (4) as the officer thinks fit.
+
+(3) A list under this sub-paragraph is a list containing the numbers and other unique identifying marks of all of the ballot papers to be provided to presiding officers in pursuance of rule 38(1) of the Scottish Parliamentary Election Rules.
+
+(4) A list under this sub-paragraph is a list containing the numbers and other unique identifying marks of all of the ballot papers to be provided to presiding officers in pursuance of the following provisions—
+
+(a) rule 17(1) of the referendum rules;
+
+(b) rule 38(1) of the Scottish Parliamentary Election Rules.
+
+The list must be in the form set out in Form 1 in Part 3 of this Schedule.
+
+(5) A list prepared under rule 29 of the Scottish Parliamentary Election Rules must not include details relating to ballot papers in relation to which a list is prepared under sub-paragraph (3) or (4).
+
+(6) A reference in an enactment to a list prepared under rule 29 of the Scottish Parliamentary Election Rules has effect, in so far as it relates to ballot papers to be provided in pursuance of rule 38(1) of those rules, as a reference to the list prepared under sub-paragraph (3) or (4).
+
+(7) Where the counting officer prepares a list under sub-paragraph (4) in relation to ballot papers—
+
+(a) the list prepared under rule 6 of the referendum rules must not include details relating to those ballot papers;
+
+(b) a reference in an enactment to a list prepared under rule 6 of the referendum rules has effect, in so far as it relates to ballot papers to be provided in pursuance of rule 17(1) of the referendum rules, as a reference to the list prepared under sub-paragraph (4).
+
+##### Notice of polling stations
+
+**8** The functions of the constituency returning officer under rule 33(2) of the Scottish Parliamentary Election Rules are to be carried out by the counting officer.
+
+**9** (1) The notice given by a constituency returning officer under rule 33(2) of the Scottish Parliamentary Election Rules must—
+
+(a) state that the poll at the Scottish parliamentary election is to be taken together with the poll for the referendum;
+
+(b) specify the relevant voting area.
+
+(2) The notice given by a counting officer under rule 11(3) of the referendum rules must—
+
+(a) state that the poll for the referendum is to be taken together with the polls for the relevant Scottish parliamentary election, and
+
+(b) specify the relevant constituency.
+
+##### Postal voting
+
+**10** (1) This paragraph applies where proceedings on the issue and receipt of postal ballot papers are taken together by virtue of paragraph 2 of Schedule 4 to the 2010 Order.
+
+(2) The functions of the constituency returning officer under rule 34 of the Scottish Parliamentary Election Rules are to be carried out by the counting officer.
+
+(3) The form of postal voting statement to be issued to those entitled to vote by post in the referendum and in the Scottish parliamentary election must be in the form set out in Form 2 in Part 3 of this Schedule.
+
+(4) Where that form is used, this paragraph applies instead of any requirement in the following provisions for a postal voting statement to be in a particular form.
+
+(5) The provisions are—
+
+(a) rule 12(1)(b) of the referendum rules;
+
+(b) rule 34(1) of the Scottish Parliamentary Election Rules.
+
+**11** (1) This paragraph applies where proceedings on the issue and receipt of postal ballot papers are not taken together by virtue of paragraph 2 of Schedule 4 to the 2010 Order.
+
+(2) The form of postal voting statement to be issued to those entitled to vote by post in the referendum must be in the form set out in Form 3 in Part 3 of this Schedule.
+
+(3) Sub-paragraph (2) applies instead of the requirement in rule 12(1)(b) of the referendum rules for a postal voting statement to be in a particular form.
+
+(4) The form of postal voting statement to be issued to those entitled to vote in the Scottish parliamentary election must be in the form set out in Form 4 in Part 3 of this Schedule.
+
+(5) Sub-paragraph (4) applies instead of the requirement in rule 34(1) of the Scottish Parliamentary Election Rules for a postal voting statement to be in a particular form.
+
+##### Polling stations
+
+**12** The functions of the constituency returning officer under rule 35 of the Scottish Parliamentary Election Rules are to be carried out by the counting officer.
+
+**13** The referendum polling stations are to be used for the combined polls.
+
+##### Appointment of presiding officers and clerks
+
+**14** The functions of the constituency returning officer under the following paragraphs of rule 36 of the Scottish Parliamentary Election Rules are to be carried out by the counting officer—
+
+(a) paragraph (1) so far as it relates to the appointment of presiding officers and clerks;
+
+(b) paragraph (2).
+
+##### Official poll cards
+
+**15** (1) If the counting officer thinks fit, the official poll cards used for the referendum and the Scottish parliamentary election may be combined.
+
+(2) In that case, the forms required to be used for official poll cards for the referendum and election must be adapted in whatever manner seems necessary.
+
+##### Equipment of polling stations
+
+**16** The functions of the constituency returning officer under rule 38 of the Scottish Parliamentary Election Rules are to be carried out by the counting officer.
+
+**17** (1) If the counting officer thinks fit, the same ballot box may be used at the polls for the referendum and the Scottish parliamentary election (in which case the requirement for separate ballot boxes in rule 38(1) of the Scottish Parliamentary Election Rules does not apply).
+
+(2) Where separate ballot boxes are used, each must be clearly marked—
+
+(a) to show whether it is for referendum ballot papers, constituency ballot papers or regional ballot papers, and
+
+(b) to show the colour of ballot papers that should be placed in it.
+
+##### Colour of ballot papers
+
+**18** The referendum ballot papers must be of a different colour from the colour of the constituency ballot papers or the regional ballot papers.
+
+##### Form of corresponding number lists provided to polling stations
+
+**19** (1) If the counting officer thinks fit, the lists to be provided under the following provisions may be combined in the form set out in Form 5 in Part 3 of this Schedule—
+
+(a) rule 17(3)(d) of the referendum rules;
+
+(b) rule 38(3)(d) of the Scottish Parliamentary Election Rules.
+
+(2) In that case, this paragraph applies instead of the second sentence in rule 17(3) of the referendum rules.
+
+##### Ballot paper displayed in polling stations
+
+**20** (1) The large version of the ballot paper displayed inside the polling station under rule 17(4)(a) of the referendum rules must be of the same colour as the ballot papers to be used for the referendum.
+
+(2) The enlarged sample copy of the constituency ballot paper displayed at the polling station under rule 38(4)(a) of the Scottish Parliamentary Election Rules, and the enlarged sample copy of the regional ballot paper displayed under that rule, must be of the same colour as the actual ballot papers.
+
+##### Guidance to be exhibited outside and inside polling stations
+
+**21** (1) A notice in the form set out in Form 6 in Part 3 of this Schedule, giving directions for the guidance of voters in voting, must be printed in conspicuous characters and exhibited outside and inside every polling station.
+
+(2) This paragraph applies instead of—
+
+(a) rule 17(6) of the referendum rules;
+
+(b) rule 38(11) of the Scottish Parliamentary Election Rules.
+
+##### Guidance to be exhibited in each polling station compartment
+
+**22** (1) A notice in the form set out in Form 7 in Part 3 of this Schedule, giving directions for the guidance of voters in voting, must be exhibited in every compartment of every polling station.
+
+(2) This paragraph applies instead of—
+
+(a) rule 17(7) of the referendum rules;
+
+(b) rule 38(12) of the Scottish Parliamentary Election Rules.
+
+##### Notice of appointment of polling and counting agents
+
+**23** A notice required to be given to a constituency returning officer under rule 39(4), (5) or (6) of the Scottish Parliamentary Election Rules is to be given instead to the counting officer.
+
+##### Notification of requirement of secrecy
+
+**24** The functions of the constituency returning officer under rule 40(1) of the Scottish Parliamentary Election Rules are to be carried out by the counting officer.
+
+#### The poll
+
+##### Admission to the polling station
+
+**25** (1) Rule 21(1) of the referendum rules has effect as if the persons listed there included persons who would be entitled to be admitted to the polling station for a Scottish parliamentary election if the poll for the election were held on its own.
+
+(2) Rule 41(1) of the Scottish Parliamentary Election Rules has effect as if the persons listed there included persons who would be entitled to be admitted to the polling station for the referendum if the poll for the referendum were held on its own.
+
+##### Voting by persons on duty on day of poll
+
+**26** (1) Paragraph 2(5) of Schedule 3 has effect as if in the words after paragraph (b) the reference to any polling station were to any polling station in the same voting area as the allotted polling station.
+
+(2) A certificate as to employment on duty on the day of the poll for the referendum must be in the form set out in Form 8 in Part 3 of this Schedule.
+
+(3) Sub-paragraph (2) applies instead of rule 21(4)(b) of the referendum rules.
+
+**27** The returning officer's function of signing certificates as to employment under rule 41(4) of the Scottish Parliamentary Election Rules is to be carried out by the counting officer.
+
+##### Removal from polling station
+
+**28** The constituency returning officer's function under rule 42(2)(b) of the Scottish Parliamentary Election Rules of authorising someone to remove a person from a polling station is to be carried out by the counting officer.
+
+##### Voting procedure: copies of registers and lists of proxies
+
+**29** (1) If the counting officer thinks fit, the same copy of the register of electors may be used under the following provisions for the purposes of the referendum and the Scottish parliamentary election—
+
+(a) rule 28(2) of the referendum rules;
+
+(b) rule 46(2) of the Scottish Parliamentary Election Rules.
+
+(2) Sub-paragraphs (3) and (4) apply where the same copy of the register is used as mentioned in sub-paragraph (1).
+
+(3) In a case where a referendum ballot paper, and a constituency ballot paper and regional ballot paper, are delivered at the same time, a single mark must be placed in the register against the number of the elector under—
+
+(a) rule 28(2)(c) of the referendum rules, and
+
+(b) rule 46(2)(c) of the Scottish Parliamentary Election Rules.
+
+(4) In any other case, a mark must be placed in the register against the number of the elector identifying the poll to which each ballot paper delivered relates.
+
+(5) In the case of an elector who is added to the register in pursuance of a notice issued under section 13B(3B) or (3D) of the 1983 Act—
+
+(a) references in this paragraph to the copy of the register of electors are to be read as references to the copy of the notice;
+
+(b) references to a mark being placed in the register of electors are to be read as references to a mark being made on the copy of the notice.
+
+(6) Where the same copy of the register is used as mentioned in sub-paragraph (1), this paragraph applies instead of rule 46(6) of the Scottish Parliamentary Election Rules except so far as it relates to the list of proxies.
+
+**30** (1) If the counting officer thinks fit, the counting officer may require the relevant registration officer to produce a combined list of proxies for the referendum and the Scottish parliamentary election.
+
+(2) The following provisions apply where the lists are combined and a person applies for a ballot paper as proxy.
+
+(3) Immediately before delivery of the ballot paper the list of proxies must be marked in a way that—
+
+(a) identifies the proxy,
+
+(b) identifies the elector for whom the proxy is applying for the ballot paper, and
+
+(c) indicates whether the ballot paper is a referendum ballot paper, a constituency ballot paper or a regional ballot paper.
+
+(4) Sub-paragraph (3) applies instead of—
+
+(a) rule 28(2)(d) of the referendum rules;
+
+(b) rule 46(2)(d) of the Scottish Parliamentary Election Rules and rule 46(6) of those rules so far as it relates to the list of proxies.
+
+**31** (1) This paragraph applies where proceedings on the issue and receipt of postal ballot papers are taken together by virtue of paragraph 2 of Schedule 4 to the 2010 Order.
+
+(2) If the counting officer think fit, the counting officer may require the relevant registration officer to produce a combined postal voters list and a combined proxy postal voters list for the referendum and the Scottish parliamentary election.
+
+##### List of votes marked by presiding officer
+
+**32** (1) If the counting officer thinks fit, a single list of votes marked by the presiding officer may be used in respect of—
+
+(a) votes marked on referendum ballot papers,
+
+(b) votes marked on constituency ballot papers, and
+
+(c) votes marked on regional ballot papers.
+
+(2) Where a person's entry in that list does not relate to all three kinds of ballot paper, the entry must identify each kind to which it relates.
+
+(3) In this paragraph “list of votes marked by the presiding officer” means a list compiled under—
+
+(a) rule 30(4) of the referendum rules, or
+
+(b) rule 47(2) of the Scottish Parliamentary Election Rules.
+
+(4) Where a single list is used as mentioned in sub-paragraph (1), this paragraph applies instead of rule 47(4) of the Scottish Parliamentary Election Rules.
+
+##### Declaration to be made by the companion of a voter with disabilities
+
+**33** (1) A declaration made by the companion of a voter with disabilities must be in the form set out in Form 9 in Part 3 of this Schedule.
+
+(2) In this paragraph “declaration made by the companion of a voter with disabilities” means a declaration made by a companion under—
+
+(a) rule 31 of the referendum rules, or
+
+(b) rule 48 of the Scottish Parliamentary Election Rules.
+
+(3) This paragraph applies instead of—
+
+(a) rule 31(5)(a) of the referendum rules;
+
+(b) rule 48(6)(a) of the Scottish Parliamentary Election Rules.
+
+##### List of voters with disabilities assisted by companions
+
+**34** (1) If the counting officer thinks fit, a single list of voters with disabilities assisted by companions may be used may be used in respect of—
+
+(a) votes marked on referendum ballot papers,
+
+(b) votes marked on constituency ballot papers, and
+
+(c) votes marked on regional ballot papers.
+
+(2) Where a person's entry in that list does not relate to all three kinds of ballot paper, the entry must identify each kind to which it relates.
+
+(3) In this paragraph “list of voters with disabilities assisted by companions” means a list compiled under—
+
+(a) rule 31(8) of the referendum rules, or
+
+(b) rule 48(4) of the Scottish Parliamentary Election Rules.
+
+(4) Where a single list is used as mentioned in sub-paragraph (1), this paragraph applies instead of rule 48(8) of the Scottish Parliamentary Election Rules.
+
+##### Tendered votes list
+
+**35** (1) If the counting officer thinks fit, a single tendered votes list may be used in respect of—
+
+(a) tendered referendum ballot papers,
+
+(b) tendered constituency ballot papers, and
+
+(c) tendered regional ballot papers.
+
+(2) Where a person's entry in that list does not relate to all three kinds of tendered ballot paper, the entry must identify each kind to which it relates.
+
+(3) In this paragraph “tendered votes list” means a list compiled under—
+
+(a) rule 33(7) of the referendum rules, or
+
+(b) rule 49(7) of the Scottish Parliamentary Election Rules.
+
+(4) Where a single list is used as mentioned in sub-paragraph (1), this paragraph applies instead of rule 49(10) of the Scottish Parliamentary Election Rules.
+
+##### Lists relating to correction of errors on day of poll
+
+**36** (1) If the counting officer thinks fit, a single list of persons to whom ballot papers are delivered in consequence of late alterations to the register may be used in respect of—
+
+(a) referendum ballot papers,
+
+(b) constituency ballot papers, and
+
+(c) regional ballot papers.
+
+(2) Where a person's entry in that list does not relate to all three kinds of ballot paper, the entry must identify each kind to which it relates.
+
+(3) In this paragraph “list of persons to whom ballot papers are delivered in consequence of late alterations to the register” means a list compiled under—
+
+(a) rule 36 of the referendum rules, or
+
+(b) rule 51 of the Scottish Parliamentary Election Rules.
+
+##### Notice of adjournment in case of riot
+
+**37** Rule 52(1) of the Scottish Parliamentary Election Rules has effect as if “counting officer” were substituted for “ CRO ”.
+
+##### Procedure on close of poll
+
+**38** (1) In rule 38(1) of the referendum rules the reference to polling agents includes a reference to polling agents appointed for the purposes of a Scottish parliamentary election.
+
+(2) In rule 53(1) and (2) of the Scottish Parliamentary Election Rules, a reference to polling agents includes a reference to polling agents appointed for the purposes of the referendum.
+
+(3) Rule 53(2)(g) of those rules does not apply.
+
+**39** (1) A packet made up under one of the following provisions may not be combined with a packet made up under another of those provisions.
+
+(2) The provisions are—
+
+(a) rule 38(1)(b), (c) or (f) of the referendum rules;
+
+(b) rule 53(2)(a), (b) or (d) of the Scottish Parliamentary Election Rules.
+
+**40** Rule 53(2) of the Scottish Parliamentary Election Rules has effect as if “counting officer” were substituted for “ CRO ” in each place.
+
+**41** The ballot paper accounts prepared under rule 38(6) of the referendum rules and rule 53(4) of the Scottish Parliamentary Election Rules may not be combined.
+
+#### Counting of votes
+
+##### Attendance and arrangements for counting
+
+**42** (1) The counting officer must make arrangements for counting the ballot papers and carrying out the other functions conferred by paragraph 46 in the presence of the counting agents.
+
+(2) The counting officer must give the counting agents and the regional returning officer notice in writing of the time and place at which the proceedings under paragraph 46 will begin.
+
+(3) A person may be present at the proceedings under paragraph 46 only if—
+
+(a) the person is entitled to be present at the counting of the votes for the referendum or the Scottish parliamentary election, or
+
+(b) the person is permitted by the counting officer to attend.
+
+(4) The counting officer may give a person permission under sub-paragraph (3)(b) only if—
+
+(a) the officer is satisfied that the person's attendance will not impede the efficient conduct of the proceedings, and
+
+(b) the officer has consulted the referendum agents and election agents or thought it impracticable to do so.
+
+(5) The counting officer must give the counting agents—
+
+(a) whatever reasonable facilities for overseeing the proceedings, and
+
+(b) whatever information with respect to the proceedings,
+
+the officer can give them consistently with the orderly conduct of the proceedings and the discharge of the officer's duties.
+
+**43** Rule 39(1) of the referendum rules (arrangements for the counting of votes in the referendum) has effect with the omission of the words “after the close of the poll”.
+
+**44** (1) The constituency returning officer must make arrangements for counting the votes for the Scottish parliamentary election in the presence of the counting agents for the election as soon as practicable after receiving the ballot papers from the counting officer under paragraph 47.
+
+(2) The constituency returning officer must give the counting agents for the Scottish parliamentary election and the regional returning officer notice in writing of the time and place at which the counting of the votes for the elections will begin.
+
+(3) A person may be present at the counting of the votes for a Scottish parliamentary election only if—
+
+(a) the person is permitted by the constituency returning officer to attend, or
+
+(b) the person would be entitled to be present at the counting of votes for the Scottish parliamentary election if it were taken on its own.
+
+(4) The constituency returning officer may give a person permission under sub-paragraph (3)(a) only if—
+
+(a) the officer is satisfied that the person's attendance will not impede the efficient counting of the votes, and
+
+(b) the officer has consulted the election agents or thought it impracticable to do so.
+
+(5) The constituency returning officer must give the counting agents for the Scottish parliamentary election—
+
+(a) whatever reasonable facilities for overseeing the proceedings, and
+
+(b) whatever information with respect to the proceedings,
+
+the officer can give them consistently with the orderly conduct of the proceedings and the discharge of the officer's duties.
+
+(6) In particular, where the votes are counted by sorting the ballot papers into lots according to the votes marked on them and then counting the number of ballot papers in each lot, the counting agents for the Scottish parliamentary election are entitled to satisfy themselves that the ballot papers are correctly sorted.
+
+**45** Paragraphs 42 and 44 apply instead of rule 54 of the Scottish Parliamentary Election Rules.
+
+##### Counting and separation of ballot papers by counting officer
+
+**46** (1) As soon as practicable after the close of the poll the counting officer must—
+
+(a) in the presence of the counting agents, open the ballot boxes and count and record separately the number of referendum ballot papers, constituency ballot papers and regional ballot papers;
+
+(b) where proceedings on the issue and receipt of postal ballot papers for the referendum and the Scottish parliamentary election are taken together by virtue of paragraph 2 of Schedule 4 to the 2010 Order, count the postal ballot papers that have been duly returned for the referendum, the constituency poll and the regional poll and record separately the number relating to each;
+
+(c) where proceedings on the issue and receipt of postal ballot papers for the referendum and the Scottish parliamentary election are not taken together by virtue of paragraph 2 of Schedule 4 to the 2010 Order, count the duly returned referendum postal ballot papers and record the number;
+
+(d) separate the referendum ballot papers, the constituency ballot papers and the regional ballot papers.
+
+(2) The counting officer must not count any tendered ballot papers.
+
+(3) The counting officer, while counting and recording the number of ballot papers, must—
+
+(a) keep the ballot papers with their faces upwards, and
+
+(b) take all proper precautions for preventing anyone from seeing the numbers or other unique identifying marks printed on the back of the papers.
+
+(4) The counting officer must, in the presence of the referendum agents and the election agents for the Scottish parliamentary election—
+
+(a) verify each ballot paper account by comparing it with the number of ballot papers recorded by the officer, and the unused and spoilt ballot papers in the officer's possession and the tendered votes list (opening and resealing the packets containing the unused and spoilt ballot papers and the tendered votes list);
+
+(b) draw up a separate statement as to the result of the verification in relation to each poll.
+
+(5) The counting officer must, on request, provide an election agent for the Scottish parliamentary election with a copy of the statement relating to that election.
+
+(6) A counting agent for the referendum present at the verification may copy the statement relating to the referendum.
+
+(7) Once the statement relating to the referendum is drawn up, the counting officer must—
+
+(a) in the case of a voting area in a region for which a Regional Counting Officer is appointed, inform the Regional Counting Officer of the contents of the statement;
+
+(b) in the case of any other voting area, inform the Chief Counting Officer of the contents of the statement.
+
+(8) Rule 40 of the referendum rules does not apply.
+
+##### Delivery of ballot papers etc to returning officers
+
+**47** (1) The counting officer must deliver or cause to be delivered to the constituency returning officer the ballot papers for the Scottish parliamentary election.
+
+(2) The counting officer must also deliver or cause to be delivered to the constituency returning officer the packets of—
+
+(a) the ballot paper accounts and the statements as to the result of the verification of the ballot paper accounts for the Scottish parliamentary election;
+
+(b) the unused and spoilt ballot papers for that election;
+
+(c) the tendered ballot papers for that election;
+
+(d) the certificates as to employment on duty on the day of the poll for that election.
+
+(3) If the counting officer has not begun to count the votes given on the referendum ballot papers by the time the statements as to the result of the verification of the ballot paper accounts in relation to all the polls are prepared—
+
+(a) those ballot papers must be sealed into packets, each of which must be endorsed with a description of its contents, and
+
+(b) the packets may not be opened until the counting officer begins dealing with the ballot papers in those packets under paragraph 48(1).
+
+(4) If, in respect of the constituency poll or the regional poll, none of the ballot papers have been delivered under sub-paragraph (1) by the time the statements as to the result of the verification of the ballot paper accounts in relation to all the polls are prepared—
+
+(a) the ballot papers for that poll must be sealed into packets, each of which must be endorsed with a description of its contents, and
+
+(b) the packets may not be opened until the constituency returning officer begins dealing with the ballot papers in those packets under paragraph 48(3).
+
+##### Counting of votes
+
+**48** (1) The counting officer must count the votes given on the referendum ballot papers, but must not do so until—
+
+(a) in the case of postal ballot papers, they have been mixed with the ballot papers from at least one ballot box;
+
+(b) in the case of ballot papers from a ballot box, they have been mixed with the ballot papers from at least one other ballot box.
+
+(2) Where proceedings on the issue and receipt of postal ballot papers are not taken together by virtue of paragraph 2 of Schedule 4 to the 2010 Order, the constituency returning officer for the Scottish parliamentary election must count the duly returned postal constituency ballot papers and the duly returned postal regional ballot papers and record separately the number relating to each.
+
+(3) The constituency returning officer must count the votes given on the constituency ballot papers and regional ballot papers, but must not do so until—
+
+(a) in the case of postal ballot papers, they have been mixed with the ballot papers from at least one ballot box;
+
+(b) in the case of ballot papers from a ballot box, they have been mixed with the ballot papers from at least one other ballot box.
+
+(4) The counting or constituency returning officer, while counting the votes, must—
+
+(a) keep the ballot papers with their faces upwards, and
+
+(b) take all proper precautions for preventing anyone from seeing the numbers or other unique identifying marks printed on the back of the papers.
+
+(5) The counting or constituency returning officer must so far as practicable proceed continuously with the counting of votes, allowing only time for refreshment, except that—
+
+(a) the officer may exclude the whole or any part of the period between 7 pm and 9 am on the next day;
+
+(b) the officer may exclude a day mentioned in rule 2(1) of the referendum rules.
+
+(6) During the time so excluded the counting or constituency returning officer must—
+
+(a) place the ballot papers and other documents relating to the referendum or Scottish parliamentary election under the officer's own seal and the seals of any of the counting agents who want to affix their seals, and
+
+(b) otherwise take proper precautions for the security of the papers and documents.
+
+(7) This paragraph and paragraph 49 apply instead of rule 55 of the Scottish Parliamentary Election Rules.
+
+##### Ballot papers placed in wrong ballot box
+
+**49** Where separate ballot boxes are used for referendum ballot papers, constituency ballot papers and regional ballot papers, the placing of a ballot paper in the wrong ballot box does not render it void.
+
+#### Declaration of result
+
+##### Declaration
+
+**50** The result of the referendum or the constituency or regional poll in the Scottish parliamentary election may not be declared until the statement as to the result of the verification of the ballot paper accounts in relation to each poll has been prepared.
+
+#### Disposal of documents etc
+
+##### Packets of documents
+
+**51** (1) The counting officer may not open the sealed packets of—
+
+(a) the completed corresponding number lists for the Scottish parliamentary election, or
+
+(b) marked copies of the polling register (within the meaning given in Article 2(1) of the 2010 Order), and lists of proxies, for the Scottish parliamentary election.
+
+(2) Rule 68(2) of the Scottish Parliamentary Election Rules has effect as if sub-paragraphs (b) and (d) were omitted.
+
+##### Delivery and retention of documents
+
+**52** (1) Rules 50(1)(b) and 52 of the referendum rules apply to the specified documents.
+
+(2) The specified documents are those specified in rule 69(1)(c), (d) and (f) of the Scottish Parliamentary Election Rules.
+
+(3) Rule 70 of the Scottish Parliamentary Election Rules applies to the specified documents as if references to the CRO were to the counting officer.
+
+(4) Except for the purposes of this paragraph, rule 69 of the Scottish Parliamentary Election Rules has effect as if it did not include a reference to the specified documents.
+
+(5) Rule 70(8) of the Scottish Parliamentary Election Rules has effect as if for “by this paragraph provided” there were substituted “ provided by this paragraph (or a court order) ”.
+
+**53** Schedule 8 to the 2010 Order has effect—
+
+(a) as if the reference in paragraph 1 to documents retained under rule 71 of the Scottish Parliamentary Election Rules were to documents retained under rule 50(1)(b) of the referendum rules as applied by paragraph 52 above;
+
+(b) as if the reference to that Schedule in paragraph 4(2) were to any enactment;
+
+(c) as if references to the CRO included references to the counting officer.
+
+##### Countermand or abandonment of poll on death of candidate
+
+**54** (1) Where under rule 72(4), 75(2) or 77(1) of the Scottish Parliamentary Election Rules—
+
+(a) notice of the constituency poll or the regional poll for the Scottish parliamentary election is countermanded, or
+
+(b) it is directed that the poll be abandoned,
+
+the countermand or direction does not affect the other poll at the Scottish parliamentary election or the poll for the referendum.
+
+(2) Rule 78 of the Scottish Parliamentary Election Rules has effect as if it were amended in accordance with sub-paragraphs (3) and (4).
+
+(3) In paragraph (2), after “CRO” insert “ or counting officer ”.
+
+(4) For paragraph (3) substitute—
+
+> (3) After the close of any polls that are being taken together with the poll that has been abandoned, the counting officer must—
+>
+> (a) separate the ballot papers for the abandoned poll, and
+>
+> (b) deliver or cause to be delivered to the CRO the ballot papers and other documents relating to the abandoned poll.
+>
+> (3A) Paragraphs (4) to (9) apply in relation to the poll that has been abandoned.
+
+(5) This paragraph applies instead of rule 78(10) of the Scottish Parliamentary Election Rules.
+
+#### Provision of registers etc to counting officer
+
+##### Registers
+
+**55** Paragraph 1 of Schedule 1 to the 2010 Order has effect as if a reference to a returning officer included a reference to the counting officer.
+
+##### Absent voters lists
+
+**56** As soon as practicable after 5 pm on the 6th day before the date of the poll, the registration officer must provide the counting officer with the following lists, and any subsequent revised lists or revisions to the lists—
+
+(a) the list of proxies for the Scottish parliamentary election;
+
+(b) the postal voters list for the Scottish parliamentary election;
+
+(c) the proxy postal voters list for the Scottish parliamentary election.
+
+##### Personal identifier information
+
+**57** Where proceedings on the issue and receipt of postal ballot papers are taken together by virtue of paragraph 2 of Schedule 4 to the 2010 Order, paragraph 23(1) of Schedule 3 to the 2010 Order has effect as if a reference to a CRO were a reference to the counting officer.
+
+### PART 2 — Application of provisions about issue and receipt of postal ballot papers
+
+**58** (1) For the purposes of the combined polls, Schedule 4 to the 2010 Order applies—
+
+(a) with the modifications shown in the table, and
+
+(b) with any other necessary modifications, including in particular those set out in sub-paragraph (2).
+
+(2) Except where the context otherwise requires—
+
+(a) in relation to the referendum or Scottish parliamentary election, a reference to a provision has effect as a reference to that provision as it applies for the purposes of the referendum or election;
+
+(b) expressions used in relation to the referendum under section 1 are to be construed in accordance with the definitions in section 7 and rule 53 of the referendum rules.
+
+(3) In the Representation of the People (Scotland) Regulations 2001 (S.I. 2001/497) as they apply in relation to the referendum by virtue of Schedule 4—
+
+(a) regulation 61B(3)(a) has effect as if for the words after “postal ballot papers,” there were substituted “ in accordance with paragraph 20(4)(b), 21(4)(b) or 22(3)(b) of Schedule 4 to the Scottish Parliament (Elections etc.) Order 2010 ”;
+
+(b) regulation 116(1) has effect as if for “regulation 91” there were substituted “ paragraph 30 of Schedule 4 to the Scottish Parliament (Elections etc.) Order 2010 ”.
+
+|  |  |
+|---|---|
+| *Provision* | *Modification* |
+| Paragraph 1 (interpretation) | For the definition of “agent” substitute—<br>> “agent”, except in paragraph 5(3) to (10)—<br>><br>> (a) in relation to the election, includes an election agent and a person appointed to attend in the election agent's place;<br>><br>> (b) in relation to the referendum, means a referendum agent or an agent appointed under paragraph 5(3). In the appropriate places insert—<br>> “postal voters list” includes the list kept under paragraph 5(2) of Schedule 3 to the Parliamentary Voting System and Constituencies Act 2011;”;<br>> “ “proxy postal voters list” includes the list kept under paragraph 8(6) of Schedule 3 to the Parliamentary Voting System and Constituencies Act 2011;<br>;<br>> “relevant returning or counting officer” means—<br>><br>> (a) in a case where proceedings on the issue and receipt of postal ballot papers are taken together by virtue of paragraph 2, the counting officer;<br>><br>> (b) in any other case, the constituency returning officer, in relation to the election, or the counting officer, in relation to the referendum;<br>. In the definition of “valid postal voting statement”, for “CRO” substitute “ relevant returning or counting officer ”. |
+| Paragraph 2 (combination of polls) | For paragraph 2 substitute—<br>> **Combination of polls**<br>><br>> **2** Proceedings on the issue and receipt of postal ballot papers in respect of the Scottish parliamentary election and the referendum may, if the CRO and the counting officer think fit, be taken together. |
+| Paragraph 3 (form of postal voting statement) | Omit the whole paragraph. |
+| Paragraph 4 (persons entitled to be present at proceedings on issue of postal ballot papers) | In sub-paragraph (1)—<br>- (a) for “CRO” substitute “ relevant returning or counting officer ”;<br>- (b) for “CRO's” substitute “relevant returning or counting officer's”. In sub-paragraph (2), for “CRO” substitute “ relevant returning or counting officer ”. |
+| Paragraph 5 (persons entitled to be present at proceedings on receipt of postal ballot papers) | For sub-paragraph (1) substitute—<br>> (1) In a case where proceedings on the receipt of postal ballot papers are taken together by virtue of paragraph 2, the only persons who may be present at those proceedings are the appropriate persons in relation to the Scottish parliamentary election and the referendum.<br>><br>> (1A) In any other case, the only persons who may be present at the proceedings on the receipt of postal ballot papers—<br>><br>> (a) in respect of the Scottish parliamentary election, are the appropriate persons in relation to the election;<br>><br>> (b) in respect of the referendum, are the appropriate persons in relation to the referendum.<br>><br>> (1B) The following are appropriate persons in relation to the Scottish parliamentary election—<br>><br>> (a) the CRO and members of the CRO's staff;<br>><br>> (b) the regional returning officer;<br>><br>> (c) a candidate for return as a constituency member or an election agent of such a candidate or any person appointed by a candidate to attend in his election agent's place;<br>><br>> (d) an individual candidate for return as a regional member or his election agent or any person authorised by the candidate to attend in his election agent's place;<br>><br>> (e) the election agent of a registered party standing nominated or the nominating officer of that party or any person authorised by that officer to attend in his place;<br>><br>> (f) an agent appointed under sub-paragraph (3).<br>><br>> (1C) The following are appropriate persons in relation to the referendum—<br>><br>> (a) the counting officer;<br>><br>> (b) the counting officer's clerks;<br>><br>> (c) the referendum agents and any agents appointed under sub-paragraph (3).<br>><br>> (1D) This paragraph is without prejudice to section 6A, 6B, 6C, 6D or 6E of the 2000 Political Parties Act. In sub-paragraph (2)—<br>- (a) for “CRO” substitute “ relevant returning or counting officer ”;<br>- (b) at the end insert “ in relation to proceedings under this Schedule ”. In sub-paragraphs (3) to (9), for “CRO” substitute “ relevant returning or counting officer ”. Omit sub-paragraph (6). After sub-paragraph (9) insert—<br>> (9A) In relation to the referendum, in sub-paragraph (3), (4), (7) or (10) a reference to a candidate for return as a constituency member is to be read as a reference to a referendum agent. In sub-paragraph (11), for “the candidates or their agents” substitute “ any persons mentioned in sub-paragraphs (1B)(c) to (f) or (1C)(c) ”. For paragraph 6 substitute—<br>> **Notification of requirements of secrecy**<br>><br>> **6** (1) In a case where proceedings on the issue and receipt of postal ballot papers are taken together by virtue of paragraph 2, the counting officer shall make such arrangements as he thinks fit to ensure that every person attending the proceedings in connection with the issue or receipt of postal ballot papers has been given a copy in writing of—<br>><br>> (a) the provisions of article 31(5) and (7); and<br>><br>> (b) the provisions of subsections (4) and (6) of section 66 of the 1983 Act as they apply in relation to the referendum.<br>><br>> (2) In any other case—<br>><br>> (a) the CRO shall make such arrangements as he thinks fit to ensure that every person attending proceedings in connection with the issue or receipt of postal ballot papers for the Scottish parliamentary election has been given a copy in writing of the provisions of article 31(5) and (7);<br>><br>> (b) the counting officer shall make such arrangements as he thinks fit to ensure that every person attending proceedings in connection with the issue or receipt of postal ballot papers for the referendum has been given a copy in writing of the provisions of subsections (4) and (6) of section 66 of the 1983 Act as they apply to the referendum. |
+| Paragraph 7 (time when postal ballot papers are to be issued) | In sub-paragraph (1), after “voting statement)” insert “ for the Scottish parliamentary election ”. After sub-paragraph (1) insert—<br>> (1A) In the case of a person within entry 2, 3, 4 or 5 of the table in paragraph 5(2) of Schedule 3 to the Parliamentary Voting System and Constituencies Act 2011 or entry 2, 3, 4 or 5 of the table in paragraph 8(6) of that Schedule (electors and proxies entitled to vote by post for an indefinite or definite period), no postal ballot paper (and no postal voting statement) for the referendum shall be issued until after 5 pm on the eleventh day before the date of the poll (computed in accordance with paragraph 9(7) of Schedule 3 to this Order). In sub-paragraph (2), omit “by the CRO”. |
+| Paragraph 8 (procedure on issue of postal ballot papers) | For sub-paragraph (3) substitute—<br>> (3) Sub-paragraphs (3A) and (3B) apply where—<br>><br>> (a) proceedings on the issue of postal ballot papers are taken together by virtue of paragraph 2; and<br>><br>> (b) a combined postal voters list or proxy postal voters list is produced by virtue of paragraph 31 of Schedule 7 to the Parliamentary Voting System and Constituencies Act 2011.<br>><br>> (3A) In a case where a postal ballot paper is issued at the same time in respect of the Scottish parliamentary election and the referendum, a single mark must be placed in the list under sub-paragraph (1).<br>><br>> (3B) In any other case, a mark must be placed in the list under sub-paragraph (1) identifying the poll to which each postal ballot paper issued relates.<br>><br>> (3C) Where proceedings on the issue of postal ballot papers are taken together by virtue of paragraph 2, the number of each postal ballot paper issued shall be marked on the postal voting statement under paragraph (2). In sub-paragraph (4), for the words from the beginning to “but” substitute “ Where ”. In sub-paragraph (6)—<br>- (a) after “sub-paragraph (5)” insert “ in relation to a Scottish parliamentary election ”;<br>- (b) at the end insert— “ and, in relation to the referendum, the items specified in sub-paragraph (5) must be sent to the address to which postal ballot papers should be sent as mentioned in column 3 of the table in paragraph 5(2) or 8(6) of Schedule 3 to the Parliamentary Voting System and Constituencies Act 2011. ” |
+| Paragraph 9 (refusal to issue postal ballot papers) | For paragraph 9 substitute—<br>> **Refusal to issue ballot papers**<br>><br>> **9** Where the relevant returning or counting officer is satisfied that two or more entries in either the postal voters list, or the proxy postal voters list, or in each of those lists relate to the same elector he shall not issue more than one constituency ballot paper, regional ballot paper or referendum ballot paper (as the case may be) in respect of the same elector. |
+| Paragraph 10 (envelopes) | In sub-paragraph (1)—<br>- (a) for “CRO” substitute “ relevant returning or counting officer ”;<br>- (b) after “Rules” insert “ or rule 12 of the referendum rules ”. In sub-paragraph (2)—<br>- (a) for “CRO” substitute “ relevant returning or counting officer ”;<br>- (b) in paragraph (c), at the beginning insert “ unless the envelope has a window through which the number on the ballot paper (or ballot papers) can be displayed, ”. In sub-paragraph (3), for the words from the beginning to “but” substitute “ Where ”. |
+| Paragraph 11 (delivery of postal ballot papers) | In sub-paragraph (1)—<br>- (a) for “CRO” substitute “ relevant returning or counting officer ”;<br>- (b) for “CRO's” substitute “relevant returning or counting officer's”. In sub-paragraph (2), for “CRO” substitute “ relevant returning or counting officer ”. |
+| Paragraph 12 (security of marked lists) | In sub-paragraphs (1) and (2), for “CRO” substitute “ relevant returning or counting officer ”. |
+| Paragraph 13 (spoilt postal ballot papers) | For “CRO” (in each place) substitute “ relevant returning or counting officer ”. |
+| Paragraph 14 (lost postal ballot papers) | For “CRO” (in each place) substitute “ relevant returning or counting officer ”. |
+| Paragraph 15 (notice of opening of postal ballot paper envelopes) | In sub-paragraph (1)—<br>- (a) for “CRO” substitute “ relevant returning or counting officer ”;<br>- (b) for paragraphs (a) and (b) substitute “ each of the persons mentioned in sub-paragraph (1A) ”. After sub-paragraph (1) insert—<br>> (1A) The persons are—<br>><br>> (a) in relation to the Scottish parliamentary election, each candidate for return as a constituency member, each individual candidate for return as a regional member and the election agent for each registered party standing nominated;<br>><br>> (b) in relation to the referendum, the referendum agents. In sub-paragraph (2)(b), after “candidate” insert “ or referendum agent (as the case may be) ”. |
+| Return of postal ballot papers etc | After paragraph 15 insert—<br>> **Return of postal ballot papers etc**<br>><br>> **15A** (1) A postal ballot paper shall not be taken to be duly returned for the purposes of Part 1 of Schedule 7 to the Parliamentary Voting System and Constituencies Act 2011 unless—<br>><br>> (a) before the close of the poll—<br>><br>> (i) it is returned by hand or post and reaches the relevant returning or counting officer; or<br>><br>> (ii) it is returned by hand to a polling station in the constituency or voting area for which the officer acts;<br>><br>> (b) the postal voting statement duly signed is, before that time, also returned either—<br>><br>> (i) by hand or post and reaches the relevant returning or counting officer; or<br>><br>> (ii) by hand and reaches such a polling station;<br>><br>> (c) the postal voting statement also states the date of birth of the elector or, as the case may be, proxy; and<br>><br>> (d) in a case where the relevant returning or counting officer takes steps to verify the date of birth and signature of the elector or, as the case may be, proxy in accordance with paragraph 21 or, as the case may be, paragraph 22, he so verifies the date of birth and signature of that elector or, as the case may be, proxy.<br>><br>> (2) The presiding officer of the polling station shall deliver or cause to be delivered any postal ballot paper or postal voting statement returned to that polling station to the relevant returning or counting officer in the same manner and at the same time as he delivers, or causes to be delivered, the packets referred to in rule 53 of Schedule 2 or rule 38 of the referendum rules.<br>><br>> (3) The relevant returning or counting officer may collect, or cause to be collected, any postal ballot paper or postal voting statement which by virtue of sub-paragraph (2) the presiding officer of a polling station would otherwise be required to deliver or cause to be delivered to him.<br>><br>> (4) Where the relevant returning or counting officer collects, or causes to be collected, any postal ballot paper or postal voting statement in accordance with sub-paragraph (3) the presiding officer shall first make it (or them) up into a packet (or packets) sealed with his own seal and the seals of such polling agents as are present and desire to affix their seals. |
+| Paragraph 16 (postal ballot boxes and receptacles) | For “CRO” (in each place) substitute “ relevant returning or counting officer ”. For sub-paragraph (2) substitute—<br>> (2) Each of those ballot boxes—<br>><br>> (a) shall be marked “postal voter's ballot box” or “postal ballot box” as appropriate;<br>><br>> (b) shall be marked with the name of each constituency, electoral area or voting area in relation to which it is to be used. In sub-paragraph (4)—<br>- (a) for “CRO's” substitute “relevant returning or counting officer's”;<br>- (b) after “then” insert “ lock the ballot box (if it has a lock) and ”. |
+| Paragraph 17 (receipt of covering envelope) | In sub-paragraphs (1) and (2), for “CRO” substitute “ relevant returning or counting officer ”. Omit sub-paragraphs (3) and (4). |
+| Paragraph 18 (opening of postal voters' ballot box) | In sub-paragraphs (1) and (2), for “CRO” substitute “ relevant returning or counting officer ”. In sub-paragraph (3), for “votes under rule 55 of the Scottish Parliamentary Election Rules” substitute “ ballot papers ”. |
+| Paragraph 19 (opening of covering envelopes) | For “CRO” (in each place) substitute “ relevant returning or counting officer ”. In sub-paragraph (10), for “or (3)(a)” substitute “ , (3A) or (3B) ”. |
+| Paragraph 20 (procedure in relation to postal voting statements) | For “CRO” (in each place) substitute “ relevant returning or counting officer ”. In sub-paragraph (4)(c), for “CRO's” substitute “relevant returning or counting officer's”. |
+| Paragraph 21 (procedure in relation to postal voting statements: personal identifier verification) | For “CRO” (in each place) substitute “ relevant returning or counting officer ”. In sub-paragraph (4)(c), for “CRO's” substitute “relevant returning or counting officer's”. |
+| Paragraph 22 (postal voting statements: additional personal identifier verification) | For “CRO” (in each place) substitute “ relevant returning or counting officer ”. In sub-paragraphs (3)(c) and (5), for “CRO's” substitute “relevant returning or counting officer's”. In sub-paragraph (4), for “reseal the postal ballot box” substitute “ lock the postal ballot box (if it has a lock), and reseal it, ”. |
+| Paragraph 23 (opening of ballot paper envelopes) | In sub-paragraph (1), for “CRO” substitute “ relevant returning or counting officer ”. |
+| Paragraph 24 (retrieval of cancelled postal ballot papers) | In sub-paragraphs (1) and (2), for “returning officer”, and for “CRO”, substitute “ relevant returning or counting officer ”. In sub-paragraph (2)(f), for “votes under rule 55 of the Scottish Parliamentary Election Rules” substitute “ ballot papers ”. In sub-paragraph (3)—<br>- (a) for “CRO” substitute “ relevant returning or counting officer ”;<br>- (b) for “CRO's” substitute “relevant returning or counting officer's”. |
+| Paragraph 25 (lists of rejected postal ballot papers) | In sub-paragraph (1), for “any election, the CRO” substitute “ the Scottish parliamentary election and in respect of the referendum, the relevant returning or counting officer ”. |
+| Paragraph 26 (checking of lists of rejected postal ballot papers) | For “CRO” (in each place) substitute “ the relevant returning or counting officer ”. In sub-paragraph (3), at the end insert “ or voting area under rule 38 of the referendum rules ”. |
+| Paragraph 27 (confirming receipt of postal votes and postal voting statements) | In sub-paragraphs (1) and (2), for “CRO” substitute “ the relevant returning or counting officer ”. |
+| Paragraph 28 (sealing of receptacles) | In sub-paragraph (1), for “CRO” substitute “ the relevant returning or counting officer ”. |
+| Paragraph 29 (abandoned poll) | In sub-paragraph (2), for “election” substitute “ poll ”. |
+| Paragraph 30 (forwarding or retention of documents) | In sub-paragraph (1)—<br>- (a) for the words before sub-paragraph (a) substitute “ The relevant returning or counting officer shall retain, together with the documents mentioned in rule 69(1) of the Scottish Parliamentary Election Rules and rule 49 of the referendum rules ”;<br>- (b) in paragraph (a), for the words from “the election to which” to the end substitute “ the election or referendum to which it relates and the area to which it relates ”;<br>- (c) in paragraph (b), at the end insert “ in respect of the election, and a completed statement in the form set out in Form 10 in Part 3 of Schedule 7 to the Parliamentary Voting System and Constituencies Act 2011 in respect of the referendum ”. In sub-paragraph (2)—<br>- (a) in paragraph (a), for “Rule 53(2)(g) of the Scottish Parliamentary Election Rules” substitute “ paragraph 15A ”;<br>- (b) for “CRO” substitute “ relevant returning or counting officer ”. In sub-paragraph (3), for “Rules 68, 69, 70 and 71(1) of the Scottish Parliamentary Elections Rules” substitute “ The rules specified in sub-paragraph (3A) ”. After sub-paragraph (3) insert—<br>> (3A) The rules are—<br>><br>> (a) in a case where proceedings on the issue and receipt of postal ballot papers are taken together by virtue of paragraph 2—<br>><br>> (i) rule 51 of the referendum rules and rule 70 of the Scottish Parliamentary Elections Rules, and<br>><br>> (ii) rule 52 of the referendum rules;<br>><br>> (b) in any other case—<br>><br>> (i) in relation to a document or packet relating to the Scottish parliamentary election, rules 68, 69, 70 and 71(1) of the Scottish Parliamentary Election Rules;<br>><br>> (ii) in relation to a document or packet relating to the referendum, rules 50 and 51 of the referendum rules. In sub-paragraph (4), for “CRO” substitute “ relevant returning or counting officer ”. |
+| In the Appendix, form W | In a case where proceedings on the issue and receipt of postal ballot papers are taken together by virtue of paragraph 2 of Schedule 4 to the Scottish Parliamentary Election Order, for “Returning Officer” or “Constituency Returning Officer”, in each place, substitute “ Counting Officer ”. |
+
+### PART 3 — Forms referred to in Parts 1 and 2
+
+*Note* - The forms contained in this Part may be adapted so far as circumstances require.
+
+#### FORM 1 - FORM OF CORRESPONDING NUMBER LIST (TO BE USED FOR COMBINED POLLS)
+
+*Paragraphs 6(3) and 7(4)*
+
+![image](http://www.legislation.gov.uk/ukpga/2011/1/images/ukpga_20110001_en_sld_050)
+
+#### FORM 2 - FORM OF POSTAL VOTING STATEMENT (TO BE USED WHERE PROCEEDINGS ON ISSUE AND RECEIPT OF POSTAL BALLOT PAPERS COMBINED)
+
+*Paragraph 10(3)*
+
+![image](http://www.legislation.gov.uk/ukpga/2011/1/images/ukpga_20110001_en_sld_051)
+
+![image](http://www.legislation.gov.uk/ukpga/2011/1/images/ukpga_20110001_en_sld_052)
+
+#### FORM 3 - FORM OF POSTAL VOTING STATEMENT (TO BE USED FOR REFERENDUM WHERE PROCEEDINGS ON ISSUE AND RECEIPT OF POSTAL BALLOT PAPERS NOT COMBINED)
+
+*Paragraph 11(2)*
+
+![image](http://www.legislation.gov.uk/ukpga/2011/1/images/ukpga_20110001_en_sld_053)
+
+![image](http://www.legislation.gov.uk/ukpga/2011/1/images/ukpga_20110001_en_sld_054)
+
+#### FORM 4 - FORM OF POSTAL VOTING STATEMENT (TO BE USED FOR SCOTTISH PARLIAMENTARY ELECTION WHERE PROCEEDINGS ON ISSUE AND RECEIPT OF POSTAL BALLOT PAPERS NOT COMBINED)
+
+*Paragraph 11(4)*
+
+![image](http://www.legislation.gov.uk/ukpga/2011/1/images/ukpga_20110001_en_sld_055)
+
+![image](http://www.legislation.gov.uk/ukpga/2011/1/images/ukpga_20110001_en_sld_056)
+
+![image](http://www.legislation.gov.uk/ukpga/2011/1/images/ukpga_20110001_en_sld_057)
+
+![image](http://www.legislation.gov.uk/ukpga/2011/1/images/ukpga_20110001_en_sld_058)
+
+#### FORM 5 - FORM OF CORRESPONDING NUMBER LIST (TO BE USED IN POLLING STATIONS FOR COMBINED POLLS)
+
+*Paragraph 19(1)*
+
+![image](http://www.legislation.gov.uk/ukpga/2011/1/images/ukpga_20110001_en_sld_059)
+
+#### FORM 6 - GUIDANCE FOR VOTERS TO BE EXHIBITED OUTSIDE AND INSIDE EVERY POLLING STATION
+
+*Paragraph 21(1)*
+
+![image](http://www.legislation.gov.uk/ukpga/2011/1/images/ukpga_20110001_en_sld_060)
+
+#### FORM 7 - GUIDANCE FOR VOTERS TO BE EXHIBITED IN EVERY POLLING STATION COMPARTMENT
+
+*Paragraph 22(1)*
+
+![image](http://www.legislation.gov.uk/ukpga/2011/1/images/ukpga_20110001_en_sld_061)
+
+#### FORM 8 - FORM OF CERTIFICATE OF EMPLOYMENT
+
+*Paragraph 26(2)*
+
+![image](http://www.legislation.gov.uk/ukpga/2011/1/images/ukpga_20110001_en_sld_062)
+
+#### FORM 9 - FORM OF DECLARATION TO BE MADE BY THE COMPANION OF A VOTER WITH DISABILITIES
+
+*Paragraph 33(1)*
+
+![image](http://www.legislation.gov.uk/ukpga/2011/1/images/ukpga_20110001_en_sld_063)
+
+#### FORM 10 - STATEMENT AS TO POSTAL BALLOT PAPERS FOR THE REFERENDUM
+
+*Paragraph 58*
+
+![image](http://www.legislation.gov.uk/ukpga/2011/1/images/ukpga_20110001_en_sld_064)
+
+![image](http://www.legislation.gov.uk/ukpga/2011/1/images/ukpga_20110001_en_sld_065)
+
+![image](http://www.legislation.gov.uk/ukpga/2011/1/images/ukpga_20110001_en_sld_066)
+
+## SCHEDULE 8 — Combination of polls: Northern Ireland
+
+*Section 4*
+
+### PART 1 — Provision about combination
+
+#### General provisions
+
+##### Interpretation
+
+**1** (1) An election the poll for which is, under section 4(4), to be taken together with the poll for the referendum is referred to in this Schedule as a “relevant election”.
+
+(2) The polls to be taken together are referred to in this Schedule as “combined polls”.
+
+**2** In this Schedule—
+
+- “Assembly election” means an election to the Northern Ireland Assembly;
+- “Assembly Elections Rules” means the parliamentary elections rules as applied for the purposes of Assembly elections by Article 3(1) of, and Schedule 1 to, the Northern Ireland Assembly (Elections) Order 2001 (S.I. 2001/2599);
+- “Chief Electoral Officer” means the Chief Electoral Officer for Northern Ireland;
+- “counting agent” means a counting agent for the referendum or a counting agent for a relevant election (except where one or other is specified);
+- “local election” has the meaning given in section 130(1) of the Electoral Law Act (Northern Ireland) 1962;
+- “Local Elections Rules” means the rules set out in Schedule 5 to the Electoral Law Act (Northern Ireland) 1962.
+
+##### Cost of combined polls
+
+**3** The cost of taking the combined polls (excluding any cost solely attributable to the referendum or to a particular relevant election), and any cost attributable to their combination, is to be apportioned equally among them.
+
+##### Publication of statement of persons nominated
+
+**4** (1) The statement of persons nominated at the relevant elections must be published by not later than the 15th day before the date of the poll.
+
+(2) The timetables set out in the following provisions are to be read with whatever modifications are necessary to give effect to sub-paragraph (1)—
+
+(a) rule 1 of the Assembly Elections Rules;
+
+(b) rule 1 of the Local Elections Rules.
+
+##### Directions by Chief Counting Officer to Chief Electoral Officer
+
+**5** (1) The reference in paragraph 5(5)(a) of Schedule 1 to a counting officer's functions includes (subject to sub-paragraph (5)) the functions of the Chief Electoral Officer that are conferred by—
+
+(a) the relevant provisions of the Assembly Elections Rules;
+
+(b) the relevant provisions of the Local Elections Rules;
+
+(c) Part 5 of the Representation of the People (Northern Ireland) Regulations 2008 (S.I. 2008/1741) or Part 3 of Schedule 2 to the Local Elections (Northern Ireland) Order 1985 (S.I. 1985/454) (issue and receipt of postal ballot papers);
+
+(d) paragraph 33(1), (2)(b) and (6) below.
+
+(2) The reference in paragraph 5(5)(c) of that Schedule to information that a counting officer has or is entitled to have includes information that the Chief Electoral Officer has, or is entitled to have, by virtue of exercising those functions.
+
+(3) The relevant provisions of the Assembly Elections Rules are—
+
+(a) rule 19A (corresponding number list);
+
+(b) rule 23(2) (notice of situation of polling stations etc);
+
+(c) rule 24 (postal ballot papers);
+
+(d) rule 25 (provision of polling stations);
+
+(e) in rule 26 (appointment of presiding officers and clerks), paragraph (1) to the extent that it concerns the appointment of presiding officers and clerks to assist them, and paragraph (2);
+
+(f) rule 29 (equipment of polling stations);
+
+(g) rule 31(a) (notification of requirement of secrecy at polling stations);
+
+(h) rule 31A (return of postal ballot papers);
+
+(i) rule 32(3) (certificate as to employment);
+
+(j) rule 33(2)(b) (authorisation to remove person from polling station).
+
+(4) The relevant provisions of the Local Elections Rules are—
+
+(a) rule 16A (corresponding number list);
+
+(b) rule 20(2) (notice of situation of polling stations etc);
+
+(c) rule 21 (postal ballot papers);
+
+(d) rule 22 (provision of polling stations);
+
+(e) in rule 23 (appointment of presiding officers and clerks), paragraph (1) to the extent that it concerns the appointment of presiding officers and clerks to assist them, and paragraph (2);
+
+(f) rule 26 (equipment of polling stations);
+
+(g) rule 28(a) (notification of requirement of secrecy at polling stations);
+
+(h) rule 29(3) (certificate as to employment);
+
+(i) rule 30(2)(b) (authorisation to remove person from polling station).
+
+(5) Functions of the Chief Electoral Officer conferred by—
+
+(a) a provision referred to in sub-paragraph (1)(c), (3)(c) or (h) or (4)(c),
+
+(b) rule 19A of the Assembly Elections Rules to the extent that it relates to ballot papers issued in pursuance of rule 24(1) of those rules,
+
+(c) rule 16A of the Local Elections Rules to the extent that it relates to ballot papers issued in pursuance of rule 21(1) of those rules, or
+
+(d) paragraph 33(2)(b) below,
+
+fall within sub-paragraph (1) only where the Chief Electoral Officer decides that the proceedings on the issue and receipt of postal ballot papers in respect of the referendum and the relevant elections are to be taken together.
+
+(6) The Chief Electoral Officer may not decide that the proceedings on the issue and receipt of postal ballot papers in respect of the referendum and the relevant elections are to be taken together unless the Chief Counting Officer agrees.
+
+##### Forms
+
+**6** Forms 2 to 5, 7 and 8 in Part 3 of this Schedule are “relevant forms” for the purposes of rule 10 of the referendum rules.
+
+#### Action to be taken before poll
+
+##### Corresponding number lists
+
+**7** (1) This paragraph applies where the Chief Electoral Officer decides that the proceedings on the issue and receipt of postal ballot papers in respect of the referendum and the relevant elections are to be taken together.
+
+(2) If the Chief Electoral Officer thinks fit, the lists to be prepared under the following provisions may be combined in the form set out in Form 1 in Part 3 of this Schedule—
+
+(a) rule 6 of the referendum rules;
+
+(b) rule 19A of the Assembly Elections Rules;
+
+(c) rule 16A of the Local Elections Rules.
+
+(3) In that case, this paragraph applies instead of—
+
+(a) rule 6(2) of the referendum rules;
+
+(b) rule 19A(2) of the Assembly Elections Rules;
+
+(c) rule 16A(2) of the Local Elections Rules.
+
+**8** (1) This paragraph applies where the Chief Electoral Officer decides that the proceedings on the issue and receipt of postal ballot papers in respect of the referendum and the relevant elections are not to be taken together.
+
+(2) If the Chief Electoral Officer thinks fit, the officer may prepare a single list containing the numbers and other unique identifying marks of all of the ballot papers to be provided to presiding officers in pursuance of the following provisions—
+
+(a) rule 17(1) of the referendum rules;
+
+(b) rule 29(1) of the Assembly Elections Rules;
+
+(c) rule 26(1) of the Local Elections Rules.
+
+(3) The list must be in the form set out in Form 1 in Part 3 of this Schedule.
+
+(4) If a list is prepared in relation to ballot papers under this paragraph, the list prepared under the following provisions must not include details relating to those ballot papers—
+
+(a) rule 6 of the referendum rules;
+
+(b) rule 19A of the Assembly Elections Rules;
+
+(c) rule 16A of the Local Elections Rules.
+
+(5) A reference in an enactment to a list prepared under a provision mentioned in sub-paragraph (4) has effect, in so far as it relates to ballot papers to be provided in pursuance of the provisions mentioned in sub-paragraph (2), as a reference to the list prepared under this paragraph.
+
+##### Notice of polling stations
+
+**9** (1) The notice given under rule 11(3) of the referendum rules must—
+
+(a) state that the poll for the referendum is to be taken together with the poll for the relevant elections, and
+
+(b) specify the constituency or district council for which each relevant election is to be held.
+
+(2) The notice given under rule 23(2) of the Assembly Elections Rules must—
+
+(a) state that the poll for the Assembly election is to be taken together with the poll for the referendum, and
+
+(b) state that the poll for the Assembly election is to be taken together with the poll for a local election, specifying the relevant district council.
+
+(3) The notice given under rule 20(2) of the Local Elections Rules must—
+
+(a) state that the poll for the local election is to be taken together with the poll for the referendum, and
+
+(b) state that the poll for the local election is to be taken together with the poll for an Assembly election, specifying the relevant constituency.
+
+##### Declarations of identity
+
+**10** (1) This paragraph applies where the Chief Electoral Officer decides that the proceedings on the issue and receipt of postal ballot papers in respect of the referendum and the relevant elections are to be taken together.
+
+(2) The declaration of identity to be issued to those entitled to vote by post in the referendum and in the relevant elections must be in the form set out in Form 2 in Part 3 of this Schedule.
+
+(3) Where that form is used, this paragraph applies instead of any requirement in the following provisions for a declaration of identity to be in a particular form.
+
+(4) The provisions are—
+
+(a) rule 12(1)(c) of the referendum rules;
+
+(b) rule 24(1)(c) of the Assembly Elections Rules;
+
+(c) rule 21(1) of the Local Elections Rules.
+
+**11** (1) This paragraph applies where the Chief Electoral Officer decides that the proceedings on the issue and receipt of postal ballot papers in respect of the referendum and the relevant elections are not to be taken together.
+
+(2) The declaration of identity to be issued to those entitled to vote by post in the referendum must be in the form set out in Form 3 in Part 3 of this Schedule.
+
+(3) Sub-paragraph (2) applies instead of the requirement in rule 12(1)(c) of the referendum rules for a declaration of identity to be in a particular form.
+
+(4) The declaration of identity to be used by those entitled to vote by post in the Assembly election must be in the form set out in Form 4 in Part 3 of this Schedule.
+
+(5) Sub-paragraph (4) applies instead of the requirement in rule 24(1) of the Assembly Elections Rules for a declaration of identity to be in a particular form.
+
+(6) The declaration of identity to be used by those entitled to vote by post in the local election must be in the form set out in Form 5 in Part 3 of this Schedule.
+
+(7) Sub-paragraph (6) applies instead of the requirement in rule 21(1) of the Local Elections Rules for a declaration of identity to be in a particular form.
+
+##### Colour of ballot papers
+
+**12** The ballot papers used for the referendum and for each relevant election must be of a different colour.
+
+##### Polling stations
+
+**13** The referendum polling stations are to be used for the combined polls.
+
+##### Official poll cards
+
+**14** (1) If the Chief Electoral Officer thinks fit, the official poll cards used for the referendum and the relevant elections may be combined.
+
+(2) In that case, the forms required to be used for official poll cards for the referendum and relevant elections must be adapted in whatever manner seems necessary.
+
+##### Ballot boxes
+
+**15** (1) If the Chief Electoral Officer thinks fit, the same ballot box may be used at the polls for the referendum and the relevant elections.
+
+(2) Where separate ballot boxes are used, each must be clearly marked to show—
+
+(a) the poll to which it relates, and
+
+(b) the colour of ballot papers that should be placed in it.
+
+##### Form of corresponding number lists provided to polling stations
+
+**16** (1) If the Chief Electoral Officer thinks fit, the lists to be provided under the following provisions may be combined in the form set out in Form 6 in Part 3 of this Schedule—
+
+(a) rule 17(3)(d) of the referendum rules;
+
+(b) rule 29(3)(e) of the Assembly Elections Rules;
+
+(c) rule 26(3)(e) of the Local Elections Rules.
+
+(2) In that case, this paragraph applies instead of—
+
+(a) the second sentence in rule 17(3) of the referendum rules;
+
+(b) rule 26(3ZC) of the Local Elections Rules.
+
+##### Ballot paper displayed in polling stations
+
+**17** (1) The large version of the ballot paper displayed inside the polling station under rule 17(4)(a) of the referendum rules must be of the same colour as the ballot papers to be used for the referendum.
+
+(2) The large version of the ballot paper displayed inside the polling station under rule 29(3A)(a) of the Assembly Elections Rules must be of the same colour as the ballot papers to be used for the Assembly election.
+
+(3) The large version of the ballot paper displayed inside the polling station under rule 26(3A)(a) of the Local Elections Rules must be of the same colour as the ballot papers to be used for the local election.
+
+##### Guidance to be exhibited outside and inside polling stations
+
+**18** (1) Rule 17 of the referendum rules has effect as if—
+
+(a) in paragraph (6), for “inside and outside every polling station” there were substituted “ outside every polling station and in every compartment of every polling station ”, and
+
+(b) paragraph (7) were omitted.
+
+(2) Rule 29 of the Assembly Elections Rules has effect as if—
+
+(a) in paragraph (4), for “inside and outside every polling station” there were substituted “ outside every polling station and in every compartment of every polling station ”, and
+
+(b) paragraph (5) were omitted.
+
+(3) The notice referred to in rule 29(4) of the Assembly Elections Rules or rule 26(4) of the Local Elections Rules—
+
+(a) must clearly indicate the election to which it relates, and
+
+(b) must be on paper of the same colour as the ballot papers used for the election to which it relates,
+
+and the notice referred to in rule 17(6) of the referendum rules must be on paper of the same colour as the ballot papers used for the referendum.
+
+(4) If the Chief Electoral Officer thinks fit, a notice in the form set out in Form 7 in Part 3 of this Schedule, giving directions for the guidance of voters in voting—
+
+(a) must be printed in conspicuous characters;
+
+(b) must be exhibited outside every polling station and in every compartment of every polling station.
+
+(5) In that case, paragraph (4) applies instead of—
+
+(a) paragraphs (1) to (3);
+
+(b) rule 17(6) and (7) of the referendum rules;
+
+(c) rule 29(4) and (5) of the Assembly Elections Rules;
+
+(d) rule 26(4) of the Local Elections Rules.
+
+#### The poll
+
+##### Admission to the polling station
+
+**19** (1) Rule 21(1) of the referendum rules has effect as if the persons listed there included persons who would be entitled to be admitted to the polling station for any relevant election if the poll for that election were held on its own.
+
+(2) Rule 32(1) of the Assembly Elections Rules has effect as if the persons listed there included—
+
+(a) persons who would be entitled to be admitted to the polling station for the referendum if the poll for the referendum were held on its own, and
+
+(b) persons who would be entitled to be admitted to the polling station for the local election if the poll for that election were held on its own.
+
+(3) Rule 29(1) of the Local Elections Rules has effect as if the persons listed there included—
+
+(a) persons who would be entitled to be admitted to the polling station for the referendum if the poll for the referendum were held on its own, and
+
+(b) persons who would be entitled to be admitted to the polling station for the Assembly election if the poll for that election were held on its own.
+
+##### Questions to be put to voters
+
+**20** (1) Rule 35 of the Assembly Elections Rules has effect as if, in the questions in entries 1, 2 and 4 of the table in paragraph (1), after “at this” (in each place) there were inserted “ Assembly ”.
+
+(2) Rule 32 of the Local Elections Rules has effect as if, in paragraphs (1) and (2), after “at this” (in each place) there were inserted “ local ”.
+
+##### Voting procedure: copies of registers and lists of proxies
+
+**21** (1) If the Chief Electoral Officer thinks fit, the same copy of the register of electors may be used under the following provisions for the purposes of the referendum and the relevant elections—
+
+(a) rule 28(2) of the referendum rules;
+
+(b) rule 37(1) of the Assembly Elections Rules;
+
+(c) rule 34(1) of the Local Elections Rules.
+
+(2) Sub-paragraphs (3) and (4) apply where the same copy of the register is used as mentioned in sub-paragraph (1).
+
+(3) In a case where a ballot paper is delivered at the same time in respect of the referendum and the relevant elections, a single mark must be placed in the register against the number of the elector under—
+
+(a) rule 28(2)(c) of the referendum rules,
+
+(b) rule 37(1)(d) of the Assembly Elections Rules, and
+
+(c) rule 34(1)(d) of the Local Elections Rules.
+
+(4) In any other case, a mark must be placed in the register against the number of the elector identifying the poll to which each ballot paper delivered relates.
+
+(5) In the case of an elector who is added to the register in pursuance of a notice issued under section 13BA(9) of the 1983 Act—
+
+(a) references in this paragraph to the copy of the register of electors are to be read as references to the copy of the notice;
+
+(b) references to a mark being placed in the register of electors are to be read as references to a mark being made on the copy of the notice.
+
+**22** (1) If the Chief Electoral Officer thinks fit, he or she may require the relevant registration officer to produce a combined list of proxies for the referendum and the relevant elections.
+
+(2) The following provisions apply where the lists are combined and a person applies for a ballot paper as proxy.
+
+(3) Immediately before delivery of the ballot paper the list of proxies must be marked in a way that identifies—
+
+(a) the proxy,
+
+(b) the elector for whom the proxy is applying for the ballot paper, and
+
+(c) the referendum or relevant election to which the ballot paper relates.
+
+(4) Sub-paragraph (3) applies instead of—
+
+(a) rule 28(2)(d) of the referendum rules;
+
+(b) rule 37(1)(e) of the Assembly Elections Rules;
+
+(c) rule 34(1)(e) of the Local Elections Rules.
+
+**23** (1) This paragraph applies where the Chief Electoral Officer decides that the proceedings on the issue and receipt of postal ballot papers in respect of the referendum and the relevant elections are to be taken together.
+
+(2) If the Chief Electoral Officer thinks fit, he or she may require the relevant registration officer to produce—
+
+(a) a combined postal voters list, consisting of the things that would otherwise be included in—
+
+(i) the postal voters list for the referendum;
+
+(ii) the list under paragraph 2(4)(a) of Part 1 of Schedule 2 to the Local Elections Order;
+
+(iii) the list under section 7(4)(a) of the Representation of the People Act 1985 as applied for the purposes of Assembly elections by Article 3(1) of, and Schedule 1 to, the Northern Ireland Assembly (Elections) Order 2001;
+
+(b) a combined proxy postal voters list, consisting of the things that would otherwise be included in—
+
+(i) the proxy postal voters list for the referendum;
+
+(ii) the list under paragraph 4(8) of Part 1 of Schedule 2 to the Local Elections Order;
+
+(iii) the list under section 9(9) of the Representation of the People Act 1985 as applied for the purposes of Assembly elections by Article 3(1) of, and Schedule 1 to, the Northern Ireland Assembly (Elections) Order 2001.
+
+(3) Where appropriate—
+
+(a) a reference in any enactment to a list mentioned in sub-paragraphs (i) to (iii) of sub-paragraph (2)(a) is to be read as a reference to the combined postal voters list;
+
+(b) a reference in any enactment to a list mentioned in sub-paragraphs (i) to (iii) of sub-paragraph (2)(b) is to be read as a reference to the combined proxy postal voters list.
+
+##### List of votes marked by presiding officer
+
+**24** (1) If the Chief Electoral Officer thinks fit, a single list of votes marked by the presiding officer may be used for the purposes of the referendum and the relevant elections.
+
+(2) Where a person's entry in that list does not relate to the referendum and each relevant election the entry must—
+
+(a) indicate whether it relates to the referendum, and
+
+(b) identify any relevant election to which it relates.
+
+(3) In this paragraph “list of votes marked by the presiding officer” means a list compiled under—
+
+(a) rule 30(4) of the referendum rules,
+
+(b) rule 38(2) of the Assembly Elections rules, or
+
+(c) rule 35(3) of the Local Elections Rules.
+
+##### Declaration to be made by the companion of a voter with disabilities
+
+**25** (1) A declaration made by the companion of a voter with disabilities must be in the form set out in Form 8 in Part 3 of this Schedule.
+
+(2) In this paragraph “declaration made by the companion of a voter with disabilities” means a declaration made by a companion under—
+
+(a) rule 31 of the referendum rules,
+
+(b) rule 39 of the Assembly Elections Rules, or
+
+(c) rule 36 of the Local Elections Rules.
+
+(3) This paragraph applies instead of—
+
+(a) rule 31(5)(a) of the referendum rules;
+
+(b) rule 39(5)(a) of the Assembly Elections Rules;
+
+(c) rule 36(5)(a) of the Local Rules.
+
+##### List of voters with disabilities assisted by companions
+
+**26** (1) If the Chief Electoral Officer thinks fit, a single list of voters with disabilities assisted by companions may be used for the purposes of the referendum and the relevant elections.
+
+(2) Where a person's entry in that list does not relate to the referendum and each relevant election the entry must—
+
+(a) indicate whether it relates to the referendum, and
+
+(b) identify any relevant election to which it relates.
+
+(3) In this paragraph “list of voters with disabilities assisted by companions” means a list compiled under—
+
+(a) rule 31(8) of the referendum rules,
+
+(b) rule 39(4) of the Assembly Elections Rules, or
+
+(c) rule 36(4) of the Local Elections Rules.
+
+##### Tendered votes list
+
+**27** (1) If the Chief Electoral Officer thinks fit, a single tendered votes list may be used for the purposes of the referendum and the relevant elections.
+
+(2) Where a person's entry in that list does not relate to the referendum and each relevant election the entry must—
+
+(a) indicate whether it relates to the referendum, and
+
+(b) identify any relevant election to which it relates.
+
+(3) In this paragraph “tendered votes list” means a list compiled under—
+
+(a) rule 33(7) of the referendum rules,
+
+(b) rule 40(3) of the Assembly Elections Rules, or
+
+(c) rule 37(6) of the Local Elections Rules.
+
+##### Lists relating to correction of errors on day of poll
+
+**28** (1) If the Chief Electoral Officer thinks fit, a single list of persons to whom ballot papers are delivered in consequence of late alterations to the register may be used for the purposes of the referendum and the relevant elections.
+
+(2) Where a person's entry in that list does not relate to the referendum and each relevant election the entry must—
+
+(a) indicate whether it relates to the referendum, and
+
+(b) identify any relevant election to which it relates.
+
+(3) In this paragraph “list of persons to whom ballot papers are delivered in consequence of late alterations to the register” means a list compiled under—
+
+(a) rule 36 of the referendum rules,
+
+(b) rule 41B of the Assembly Elections Rules, or
+
+(c) rule 39A of the Local Elections Rules.
+
+##### Procedure on close of poll
+
+**29** (1) In rule 38(1) of the referendum rules the reference to polling agents includes a reference to polling agents appointed for the purposes of the relevant elections.
+
+(2) In rule 43(1) of the Assembly Elections Rules the reference to polling agents includes a reference to—
+
+(a) polling agents appointed for the purposes of the referendum;
+
+(b) polling agents appointed for the purposes of the local election.
+
+(3) In rule 41(1) of the Local Elections Rules the reference to polling agents includes a reference to—
+
+(a) polling agents appointed for the purposes of the referendum;
+
+(b) polling agents appointed for the purposes of the Assembly election.
+
+**30** (1) A packet made up under one of the following provisions may not be combined with a packet made up under another of those provisions.
+
+(2) The provisions are—
+
+(a) rule 38(1)(b), (c) or (f) of the referendum rules;
+
+(b) rule 43(1)(b), (c) or (e) of the Assembly Elections Rules;
+
+(c) rule 41(1)(b), (c) or (e) of the Local Elections Rules.
+
+**31** (1) The ballot paper account prepared under one of the following provisions may not be combined with the ballot paper account made up under another of those provisions.
+
+(2) The provisions are—
+
+(a) rule 38(6) of the referendum rules;
+
+(b) rule 43(3) of the Assembly Election Rules;
+
+(c) rule 41(3) of the Local Election Rules.
+
+#### Counting of votes
+
+##### Attendance and arrangements for counting
+
+**32** (1) The Chief Electoral Officer must make arrangements for carrying out the functions conferred by paragraph 33, and for counting the votes as soon as practicable, in the presence of the counting agents.
+
+(2) The Chief Electoral Officer must give the counting agents—
+
+(a) notice in writing of the time and place at which the proceedings under paragraph 33 will begin;
+
+(b) notice of the time and place at which the counting of the votes will begin.
+
+(3) A person may be present at those proceedings or at the counting of the votes only if the person falls within—
+
+(a) paragraphs (a) to (e) of rule 39(4) of the referendum rules,
+
+(b) paragraphs (a) to (e) of rule 44(2) of the Assembly Elections Rules, or
+
+(c) paragraphs (a) to (e) of rule 44(1) of the Local Elections Rules,
+
+or the person is permitted by the Chief Electoral Officer to attend.
+
+(4) The Chief Electoral Officer may give a person permission under sub-paragraph (3) only if—
+
+(a) the officer is satisfied that the person's attendance will not impede the efficient conduct of the proceedings, and
+
+(b) the officer has consulted the referendum agents and election agents or thought it impracticable to do so.
+
+(5) The Chief Electoral Officer must give the counting agents—
+
+(a) whatever reasonable facilities for overseeing the proceedings (including, in particular, facilities for satisfying themselves that the ballot papers are correctly sorted), and
+
+(b) whatever information with respect to the proceedings,
+
+the officer can give them consistently with the orderly conduct of the proceedings and the discharge of the officer's duties.
+
+##### Counting and separation of ballot papers
+
+**33** (1) As soon as practicable after the close of the poll the Chief Electoral Officer must—
+
+(a) in the presence of the counting agents, open the ballot boxes and count and record separately the number of ballot papers relating to the referendum and each relevant election;
+
+(b) count the postal ballot papers that have been duly returned for the referendum and each relevant election and record separately the number relating to each;
+
+(c) separate the ballot papers relating to the referendum and those relating to each relevant election.
+
+(2) A postal ballot paper is not to be taken to be duly returned unless—
+
+(a) it is returned in the proper envelope so as to reach the Chief Electoral Officer before the close of the poll and is accompanied by the declaration of identity duly signed and authenticated, and
+
+(b) in the case of an elector, the declaration of identity states the elector's date of birth and the Chief Electoral Officer is satisfied that the date stated corresponds with the date supplied as the elector's date of birth in pursuance of section 10(4A)(b), 10A(1A)(b) or 13A(2A)(b) of the 1983 Act.
+
+(3) Unless section 10(4B), 10A(1B) or 13A(2B) of the 1983 Act applies, the declaration of identity referred to in sub-paragraph (2) is not to be taken to be duly signed unless the Chief Electoral Officer is satisfied that the signature on the declaration corresponds with the signature supplied as the elector's signature in pursuance of section 10(4A)(a), 10A(1A)(a) or 13A(2A)(a) of that Act.
+
+(4) The Chief Electoral Officer must not count any tendered ballot papers.
+
+(5) The Chief Electoral Officer, while counting and recording the number of ballot papers, must—
+
+(a) keep the ballot papers with their faces upwards, and
+
+(b) take all proper precautions for preventing anyone from seeing the numbers or other unique identifying marks printed on the back of the papers.
+
+(6) The Chief Electoral Officer must, in the presence of the referendum agents and the election agents for the relevant elections—
+
+(a) verify each ballot paper account by comparing it with the number of ballot papers recorded by the officer, and the unused and spoilt ballot papers in the officer's possession and the tendered votes list (opening and resealing the packets containing the unused and spoilt ballot papers and the tendered votes list);
+
+(b) draw up a separate statement as to the result of the verification in relation to each poll.
+
+(7) An election agent for a relevant election may copy the statement relating to that relevant election.
+
+(8) A counting agent for the referendum present at the verification may copy the statement relating to the referendum.
+
+(9) Once the statement relating to the referendum is drawn up, the Chief Electoral Officer must inform the Chief Counting Officer of the contents of the statement.
+
+(10) If the Chief Electoral Officer has not begun to count the votes given on the ballot papers for a particular poll by the time the statements under sub-paragraph (6)(b) in relation to all the polls are prepared—
+
+(a) the ballot papers for that poll must be sealed into packets, each of which must be endorsed with a description of its contents, and
+
+(b) the packets may not be opened until the Chief Electoral Officer begins dealing with the ballot papers in those packets under paragraph 34(1).
+
+##### Counting of votes
+
+**34** (1) The Chief Electoral Officer must count the votes given on the ballot papers, separately in respect of the referendum and each relevant election, but must not do so until—
+
+(a) in the case of postal ballot papers, they have been mixed with the ballot papers from at least one ballot box;
+
+(b) in the case of ballot papers from a ballot box, they have been mixed with the ballot papers from at least one other ballot box.
+
+(2) The Chief Electoral Officer, while counting the votes, must—
+
+(a) keep the ballot papers with their faces upwards, and
+
+(b) take all proper precautions for preventing anyone from seeing the numbers or other unique identifying marks printed on the back of the papers.
+
+(3) The Chief Electoral Officer must so far as practicable proceed continuously with the counting of votes, allowing only time for refreshment, except that—
+
+(a) the officer may exclude the whole or any part of the period between 11 pm and 9 am on the next day;
+
+(b) the officer may exclude a day mentioned in rule 2(1) of the referendum rules.
+
+(4) During the time so excluded the Chief Electoral Officer must—
+
+(a) place the ballot papers and other documents relating to the referendum or election under the officer's own seal and the seals of any of the counting agents who want to affix their seals, and
+
+(b) otherwise take proper precautions for the security of the papers and documents.
+
+##### Application
+
+**35** Paragraphs 32 to 34 apply instead of—
+
+(a) rules 39 and 40 of the referendum rules;
+
+(b) rules 44 and 44B of the Assembly Elections Rules;
+
+(c) rules 43(1), 44 and 45 of the Local Elections Rules.
+
+##### Ballot papers placed in wrong ballot box
+
+**36** Where separate ballot boxes are used for the referendum and a relevant election, the placing of a ballot paper in the wrong ballot box does not render it void.
+
+#### Declaration of result
+
+##### Declaration
+
+**37** The result of the referendum or a relevant election may not be declared until the statement as to the result of the verification of the ballot paper accounts in relation to each poll has been prepared.
+
+#### Disposal of documents etc
+
+##### Retention of certain documents by Chief Electoral Officer
+
+**38** (1) Where—
+
+(a) a combined list is prepared as mentioned in paragraph 7(2), 8(2), 16(1) or 22(1),
+
+(b) the same copy of the register of electors is used as mentioned in paragraph 21(1),
+
+(c) a single list is used as mentioned in paragraph 24(1), 26(1), 27(1) or 28(1), or
+
+(d) a declaration made by the companion of a voter with disabilities (within the meaning of paragraph 25) relates to the referendum or Assembly election as well as a local election,
+
+rules 50(1)(b) and 52 of the referendum rules apply to those documents (and rule 58(1) of the Local Elections Rules has effect as if any reference to those documents were omitted).
+
+(2) Where a combined list is prepared as mentioned in paragraph 7(2), 8(2) or 16(1), rule 59 of the Local Elections Rules, so far as it relates to corresponding number lists, has effect as if references to the proper officer of the council were to the Chief Electoral Officer.
+
+(3) Rule 56(8) of the Assembly Elections Rules and rule 59(7) of the Local Elections Rules each have effect as if for “by this rule provided” there were substituted “ provided by this rule (or a court order) ”.
+
+**39** Schedule 3 to the Local Elections (Northern Ireland) Order 2010 has effect—
+
+(a) as if, in the definition of “the marked register or lists” in paragraph 1(1), the reference to documents retained under rule 60 of the Local Elections Rules included a reference to documents retained under rule 50(1)(b) of the referendum rules as applied by paragraph 38 above;
+
+(b) as if references to the proper officer included references to the Chief Electoral Officer.
+
+##### Countermand or abandonment of poll
+
+**40** (1) Where—
+
+(a) under rule 60 or 63 of the Assembly Elections Rules notice of the poll at an Assembly election is countermanded or it is directed that the poll be abandoned, or
+
+(b) under rule 61 or 63 of the Local Elections Rules notice of the poll at a local election is countermanded or it is directed that the poll be abandoned,
+
+the countermand or direction does not affect the poll for the other election or the poll for the referendum.
+
+(2) If the poll for a relevant election is abandoned because of a candidate's death—
+
+(a) no further ballot papers at that election must be delivered in any polling station;
+
+(b) at the close of the other polls the presiding officer must comply with the requirements of rule 43 of the Assembly Elections Rules (where the abandoned poll was the poll for the Assembly election) or rule 41 of the Local Elections Rules (where the abandoned poll was the poll for the local election) as if the poll for the relevant election had not been abandoned;
+
+(c) the Chief Electoral Officer must dispose of the ballot papers used at the abandoned election and other documents in the officer's possession as the officer would have been required to do on the completion of the counting of the votes.
+
+(3) In a case falling within sub-paragraph (2)—
+
+(a) a ballot paper account for the abandoned election need not be prepared or verified;
+
+(b) the Chief Electoral Officer, having separated the ballot papers relating to the referendum and each relevant election, must take no further step for the counting of the ballot papers used at the abandoned election or for the counting of the votes;
+
+(c) the Chief Electoral Officer must seal up the ballot papers used at the abandoned election whether the votes on them have been counted or not;
+
+(d) it is not necessary to seal up counted and rejected ballot papers used at the abandoned election in separate packets.
+
+(4) This paragraph applies instead of—
+
+(a) rule 65(1) to (6) of the Assembly Elections Rules;
+
+(b) rule 64(1) to (6) of the Local Elections Rules.
+
+### PART 2 — Postal voting
+
+#### Interpretation
+
+**41** In this Part—
+
+- “the 2008 Regulations” means—
+
+  - (a) the Representation of the People (Northern Ireland) Regulations 2008 (S.I. 2008/1741) as applied for purposes of the referendum by Part 4 of Schedule 4, and
+  - (b) those regulations as applied for the purposes of Assembly elections by Article 3(2) of, and Schedule 2 to, the Northern Ireland Assembly (Elections) Order 2001 (S.I. 2001/2599);
+
+- “the Local Elections Order” means the Local Elections (Northern Ireland) Order 1985 (S.I. 1985/454).
+
+#### Attendance at proceedings on issue and receipt of postal ballot papers
+
+**42** (1) This paragraph applies where the Chief Electoral Officer decides that the proceedings on the issue and receipt of postal ballot papers in respect of the referendum and the relevant elections are to be taken together.
+
+(2) The following provisions have effect as if the persons listed in them included persons who would be entitled to be present at the proceedings on the issue or receipt of postal ballot papers in respect of the referendum or a relevant election if those proceedings were taken on their own.
+
+(3) The provisions are—
+
+(a) regulation 72 of the 2008 Regulations;
+
+(b) paragraph 3(1) of Part 3 of Schedule 2 to the Local Elections Order.
+
+#### Procedure on issue of postal ballot papers
+
+**43** (1) This paragraph applies where—
+
+(a) the Chief Electoral Officer decides that the proceedings on the issue and receipt of postal ballot papers in respect of the referendum and the relevant elections are to be taken together, and
+
+(b) a combined postal voters list or proxy postal voters list is produced by virtue of paragraph 23.
+
+(2) In a case where a postal ballot paper is issued at the same time in respect of the referendum and the relevant elections, a single mark must be placed in the list under the following provisions—
+
+(a) regulation 76(2) of the 2008 Regulations;
+
+(b) paragraph 6(1) of Part 3 of Schedule 2 to the Local Elections Order.
+
+(3) In any other case, a mark must be placed in the list under those provisions identifying the poll to which each postal ballot paper issued relates.
+
+#### Provisions requiring declaration of identity to indicate colours of ballot papers
+
+**44** (1) The provisions listed in sub-paragraph (3) do not apply where the Chief Electoral Officer decides that the proceedings on the issue and receipt of postal ballot papers in respect of the referendum and the relevant elections are to be taken together.
+
+(2) Otherwise, the provisions listed in sub-paragraph (3) have effect as if the words before “the colour” were omitted.
+
+(3) The provisions are—
+
+(a) regulation 76(4) of the 2008 Regulations;
+
+(b) paragraph 6(3) of Part 3 of Schedule 2 to the Local Elections Order.
+
+#### Envelopes
+
+**45** (1) This paragraph applies where the Chief Electoral Officer decides that the proceedings on the issue and receipt of postal ballot papers in respect of the referendum and the relevant elections are to be taken together.
+
+(2) The same covering envelope and ballot paper envelope must be issued to a voter under the following provisions in respect of the referendum and the relevant elections.
+
+(3) The provisions are—
+
+(a) regulation 78 of the 2008 Regulations;
+
+(b) paragraph 8 of Part 3 of Schedule 2 to the Local Elections Order.
+
+(4) The number of each of the postal ballot papers issued must be marked on the ballot paper envelope unless the envelope has a window through which all of the ballot paper numbers are displayed.
+
+(5) The following provisions do not apply—
+
+(a) regulation 78(4) of the 2008 Regulations;
+
+(b) paragraph 8(2) of Part 3 of Schedule 2 to the Local Elections Order.
+
+#### Spoilt postal ballot papers
+
+**46** (1) This paragraph applies where—
+
+(a) the Chief Electoral Officer decides that the proceedings on the issue and receipt of postal ballot papers in respect of the referendum and the relevant elections are to be taken together,
+
+(b) a person returns a spoilt postal ballot paper under regulation 81(1) of the 2008 Regulations or paragraph 12(1) of Part 3 of Schedule 2 to the Local Elections Order, and
+
+(c) a postal ballot paper has been issued to the person in respect of one or more of the other polls.
+
+(2) The spoilt postal ballot paper may not be replaced unless all the postal ballot papers issued to the person are returned.
+
+(3) Where an unspoilt postal ballot paper is returned as mentioned in sub-paragraph (2), the 2008 Regulations or Local Elections Order apply to it as if it were a spoilt ballot paper.
+
+#### Opening of postal voters' ballot box
+
+**47** The following provisions have effect as if for the words after “opened” there were substituted “ at the counting of the ballot papers ”
+
+(a) regulation 85(3) of the 2008 Regulations;
+
+(b) paragraph 16(3) of Part 3 of Schedule 2 to the Local Elections Order.
+
+#### Opening of ballot paper envelopes
+
+**48** (1) This paragraph applies where the Chief Electoral Officer decides that the proceedings on the issue and receipt of postal ballot papers in respect of the referendum and the relevant elections are to be taken together.
+
+(2) The following provisions have effect as if after “number” there were inserted “ (or one of the numbers) ”
+
+(a) regulation 88(2)(a) of the 2008 Regulations;
+
+(b) paragraph 17B(2)(a) of Part 3 of Schedule 2 to the Local Elections Order.
+
+(3) The following provisions have effect as if at the end there were inserted “ or, where more than one number appears on the ballot paper envelope, a sufficient number of ballot papers (marking the envelope to indicate the missing ballot paper) ”
+
+(a) regulation 88(2)(c) of the 2008 Regulations;
+
+(b) paragraph 17B(2)(c) of Part 3 of Schedule 2 to the Local Elections Order.
+
+#### Countermand or abandonment of poll for relevant election
+
+**49** The following provisions do not apply where the Chief Electoral Officer decides that the proceedings on the issue and receipt of postal ballot papers in respect of the referendum and the relevant elections are to be taken together—
+
+(a) regulation 90 of the 2008 Regulations;
+
+(b) paragraph 18 of Part 3 of Schedule 2 to the Local Elections Order.
+
+#### Retention of documents
+
+**50** (1) This paragraph applies where the Chief Electoral Officer decides that the proceedings on the issue and receipt of postal ballot papers in respect of the referendum and the relevant elections are to be taken together.
+
+(2) The Chief Electoral Officer must—
+
+(a) endorse on each of the specified packets a description of its contents, the date of the poll and the name of the area to which the packet relates;
+
+(b) complete a statement as to postal ballot papers in relation to each poll;
+
+(c) retain the packets and statements.
+
+(3) The specified packets—
+
+(a) in relation to the referendum and the Assembly election, are the packets made up under regulations 79, 81(5) and 89 of the 2008 Regulations;
+
+(b) in relation to a local election, are—
+
+(i) the packets, made up under paragraph 11 of Part 3 of Schedule 2 to the Local Elections Order, of any combined lists produced by virtue of paragraph 7 or 23 above;
+
+(ii) the packets made up under paragraphs 12 and 17C of that Part.
+
+(4) A statement as to postal ballot papers—
+
+(a) in the case of the referendum and the Assembly election, must be in the form set out in Form N in Schedule 3 to the 2008 Regulations;
+
+(b) in the case of a local election, must be in the form set out in Form 2 in Part 3 of Schedule 2 to the Local Elections Order.
+
+(5) Where—
+
+(a) any covering envelopes are received by the Chief Electoral Officer after the close of the poll,
+
+(b) any envelopes addressed to postal voters are returned as undelivered too late, or
+
+(c) any spoilt postal ballot papers for the referendum or Assembly election are returned too late to enable other postal ballot papers to be issued,
+
+the Chief Electoral Officer must seal those envelopes or postal ballot papers up in a separate packet, endorse the packet as mentioned in sub-paragraph (2)(a) and retain the packet.
+
+(6) A copy of the completed statements as to postal ballot papers for the referendum and for the Assembly election must be provided to the Electoral Commission.
+
+(7) The following rules apply to any packet or document retained under this paragraph—
+
+(a) rules 51 and 52 of the referendum rules;
+
+(b) rule 56 of the Assembly Elections Rules;
+
+(c) rule 59 of the Local Elections Rules.
+
+(8) In its application by virtue of sub-paragraph (7)(c), rule 59 of the Local Elections Rules has effect as if references to the proper officer of the council were to the Chief Electoral Officer.
+
+(9) This paragraph applies instead of regulation 91 of the 2008 Regulations.
+
+(10) Paragraph 19 of Part 3 of Schedule 2 to the Local Elections Order has effect as if—
+
+(a) in sub-paragraph (1), the reference to packets did not include the packets mentioned in sub-paragraph (3)(b) above;
+
+(b) in sub-paragraph (2), the references to envelopes were omitted.
+
+(11) Regulation 115(1) of the 2008 Regulations has effect in relation to an Assembly election as if the reference to documents retained under rule 57(1A) of the elections rules included a reference to documents retained under this paragraph that relate to the Assembly election.
+
+(12) Schedule 3 to the Local Elections (Northern Ireland) Order 2010 has effect—
+
+(a) as if, in the definition of “the marked register or lists” in paragraph 1(1), the reference to documents retained under rule 60 of the Local Elections Rules included a reference to documents retained under this paragraph that relate to the local election;
+
+(b) as if references to the proper officer included references to the Chief Electoral Officer.
+
+### PART 3 — Forms referred to in Part 1
+
+*Note* - The forms contained in this Part may be adapted so far as circumstances require.
+
+#### FORM 1 - FORM OF CORRESPONDING NUMBER LIST (TO BE USED FOR COMBINED POLLS)
+
+*Paragraphs 7(2) and 8(3)*
+
+![image](http://www.legislation.gov.uk/ukpga/2011/1/images/ukpga_20110001_en_sld_067)
+
+#### FORM 2 - FORM OF DECLARATION OF IDENTITY (TO BE USED WHERE PROCEEDINGS ON ISSUE AND RECEIPT OF POSTAL BALLOT PAPERS COMBINED)
+
+*Paragraph 10(2)*
+
+![image](http://www.legislation.gov.uk/ukpga/2011/1/images/ukpga_20110001_en_sld_068)
+
+![image](http://www.legislation.gov.uk/ukpga/2011/1/images/ukpga_20110001_en_sld_069)
+
+#### FORM 3 - FORM OF DECLARATION OF IDENTITY (TO BE USED FOR REFERENDUM WHERE PROCEEDINGS ON ISSUE AND RECEIPT OF POSTAL BALLOT PAPERS NOT COMBINED)
+
+*Paragraph 11(2)*
+
+![image](http://www.legislation.gov.uk/ukpga/2011/1/images/ukpga_20110001_en_sld_070)
+
+![image](http://www.legislation.gov.uk/ukpga/2011/1/images/ukpga_20110001_en_sld_071)
+
+#### FORM 4 - FORM OF DECLARATION OF IDENTITY (TO BE USED FOR NORTHERN IRELAND ASSEMBLY ELECTION WHERE PROCEEDINGS ON ISSUE AND RECEIPT OF POSTAL BALLOT PAPERS NOT COMBINED)
+
+*Paragraph 11(4)*
+
+![image](http://www.legislation.gov.uk/ukpga/2011/1/images/ukpga_20110001_en_sld_072)
+
+![image](http://www.legislation.gov.uk/ukpga/2011/1/images/ukpga_20110001_en_sld_073)
+
+#### FORM 5 - FORM OF DECLARATION OF IDENTITY (TO BE USED FOR LOCAL ELECTION WHERE PROCEEDINGS ON ISSUE AND RECEIPT OF POSTAL BALLOT PAPERS NOT COMBINED)
+
+*Paragraph 11(6)*
+
+![image](http://www.legislation.gov.uk/ukpga/2011/1/images/ukpga_20110001_en_sld_074)
+
+![image](http://www.legislation.gov.uk/ukpga/2011/1/images/ukpga_20110001_en_sld_075)
+
+#### FORM 6 - FORM OF CORRESPONDING NUMBER LIST (TO BE USED IN POLLING STATIONS FOR COMBINED POLLS)
+
+*Paragraph 16(1)*
+
+![image](http://www.legislation.gov.uk/ukpga/2011/1/images/ukpga_20110001_en_sld_076)
+
+#### FORM 7 - GUIDANCE FOR VOTERS TO BE EXHIBITED OUTSIDE EVERY POLLING STATION AND IN EVERY COMPARTMENT INSIDE
+
+*Paragraph 18(4)*
+
+![image](http://www.legislation.gov.uk/ukpga/2011/1/images/ukpga_20110001_en_sld_077)
+
+#### FORM 8 - FORM OF DECLARATION TO BE MADE BY THE COMPANION OF A VOTER WITH DISABILITIES
+
+*Paragraph 25(1)*
+
+![image](http://www.legislation.gov.uk/ukpga/2011/1/images/ukpga_20110001_en_sld_078)
+
+## SCHEDULE 9 — Control of loans etc to permitted participants
+
+*Section 6*
+
+The Schedule referred to in section 6(1) is as follows—
+
+> **SCHEDULE 15A — Control of loans etc to permitted participants**
+>
+> **PART 1 — Introductory**
+>
+> **Operation of Schedule**
+>
+> **1** (1) This Schedule has effect in relation to the referendum under section 1 of the Parliamentary Voting System and Constituencies Act 2011 for controlling regulated transactions entered into by permitted participants that either are not registered parties or are minor parties.
+>
+> (2) The following provisions have effect for the purposes of this Schedule.
+>
+> (3) In accordance with sub-paragraph (1), “permitted participant” does not include a permitted participant which is a registered party other than a minor party.
+>
+> (4) “Regulated transaction” has the meaning given by paragraph 2.
+>
+> (5) In relation to transactions entered into by a permitted participant other than a designated organisation, the reference in paragraph 4(2) to a permissible donor falling within section 54(2) does not include a registered party.
+>
+> **Regulated transactions**
+>
+> **2** (1) An agreement between a permitted participant and another person by which the other person makes a loan of money to the permitted participant is a regulated transaction if the use condition is satisfied.
+>
+> (2) An agreement between a permitted participant and another person by which the other person provides a credit facility to the permitted participant is a regulated transaction if the use condition is satisfied.
+>
+> (3) Where—
+>
+> (a) a permitted participant and another person (A) enter into a regulated transaction of a description mentioned in sub-paragraph (1) or (2), or a transaction under which any property, services or facilities are provided for the use or benefit of the permitted participant (including the services of any person),
+>
+> (b) A also enters into an arrangement whereby another person (B) gives any form of security (whether real or personal) for a sum owed to A by the permitted participant under the transaction mentioned in paragraph (a), and
+>
+> (c) the use condition is satisfied,
+>
+> the arrangement is a regulated transaction.
+>
+> (4) An agreement or arrangement is also a regulated transaction if—
+>
+> (a) the terms of the agreement or arrangement as first entered into do not constitute a regulated transaction by virtue of sub-paragraph (1), (2) or (3), but
+>
+> (b) the terms are subsequently varied in such a way that the agreement or arrangement becomes a regulated transaction.
+>
+> (5) The use condition is that the permitted participant intends at the time of entering into a transaction mentioned in sub-paragraph (1), (2) or (3)(a) to use any money or benefit obtained in consequence of the transaction for meeting referendum expenses incurred by or on behalf of the permitted participant.
+>
+> (6) For the purposes of sub-paragraph (5), it is immaterial that only part of the money or benefit is intended to be used for meeting referendum expenses incurred by or on behalf of the permitted participant.
+>
+> (7) References in sub-paragraphs (1) and (2) to a permitted participant include references to an officer, member, trustee or agent of the permitted participant if that person makes the agreement as such.
+>
+> (8) References in sub-paragraph (3) to a permitted participant include references to an officer, member, trustee or agent of the permitted participant if the property, services or facilities are provided to that person as such, or the sum is owed by that person as such.
+>
+> (9) A reference to a connected transaction is a reference to the transaction mentioned in sub-paragraph (3)(b).
+>
+> (10) In this paragraph a reference to anything being done by or in relation to a permitted participant or a person includes a reference to its being done directly or indirectly through a third person.
+>
+> (11) A credit facility is an agreement whereby a permitted participant is enabled to receive from time to time from another party to the agreement a loan of money not exceeding such amount (taking account of any repayments made by the permitted participant) as is specified in or determined in accordance with the agreement.
+>
+> (12) An agreement or arrangement is not a regulated transaction—
+>
+> (a) to the extent that a payment made in pursuance of the agreement or arrangement falls, by virtue of paragraph 9 of Schedule 15, to be included in a return under section 120, or
+>
+> (b) if its value is not more than £500.
+>
+> **Valuation of regulated transaction**
+>
+> **3** (1) The value of a regulated transaction which is a loan is the value of the total amount to be lent under the loan agreement.
+>
+> (2) The value of a regulated transaction which is a credit facility is the maximum amount which may be borrowed under the agreement for the facility.
+>
+> (3) The value of a regulated transaction which is an arrangement by which any form of security is given is the contingent liability under the security provided.
+>
+> (4) For the purposes of sub-paragraphs (1) and (2), no account is to be taken of the effect of any provision contained in a loan agreement or an agreement for a credit facility at the time it is entered into which enables outstanding interest to be added to any sum for the time being owed in respect of the loan or credit facility, whether or not any such interest has been so added.
+>
+> **PART 2 — Controls on regulated transactions**
+>
+> **Authorised participants**
+>
+> **4** (1) A permitted participant must not—
+>
+> (a) be a party to a regulated transaction to which any of the other parties is not an authorised participant;
+>
+> (b) derive a benefit in consequence of a connected transaction if any of the parties to that transaction is not an authorised participant.
+>
+> (2) In this Schedule, an authorised participant is a person who is a permissible donor falling within section 54(2).
+>
+> **Regulated transaction involving unauthorised participant**
+>
+> **5** (1) This paragraph applies if a permitted participant is a party to a regulated transaction to which another party is not an authorised participant.
+>
+> (2) The transaction is void.
+>
+> (3) Despite sub-paragraph (2)—
+>
+> (a) any money received by the permitted participant by virtue of the transaction must be repaid by the responsible person to the person from whom it was received, along with interest at the rate referred to in section 71I(3)(a);
+>
+> (b) the person from whom it was received is entitled to recover the money, along with such interest.
+>
+> (4) If—
+>
+> (a) the money is not (for whatever reason) repaid as mentioned in sub-paragraph (3)(a), or
+>
+> (b) the person entitled to recover the money refuses or fails to do so,
+>
+> the Commission may apply to the court to make such order as it thinks fit to restore (so far as is possible) the parties to the transaction to the position they would have been in if the transaction had not been entered into.
+>
+> (5) An order under sub-paragraph (4) may in particular—
+>
+> (a) where the transaction is a loan or credit facility, require that any amount owed by the permitted participant be repaid (and that no further sums be advanced under it);
+>
+> (b) where any form of security is given for a sum owed under the transaction, require that security to be discharged.
+>
+> (6) In the case of a regulated transaction where a party other than a permitted participant—
+>
+> (a) at the time the permitted participant enters into the transaction, is an authorised participant, but
+>
+> (b) subsequently, for whatever reason, ceases to be an authorised participant,
+>
+> the transaction is void and sub-paragraphs (3) to (5) apply with effect from the time when the other party ceased to be an authorised participant.
+>
+> **Guarantees and securities: unauthorised participant**
+>
+> **6** (1) This paragraph applies if—
+>
+> (a) a permitted participant and another person (A) enter into a transaction of a description mentioned in paragraph 2(3)(a),
+>
+> (b) A is party to a regulated transaction of a description mentioned in paragraph 2(3)(b) (“the connected transaction”) with another person (B), and
+>
+> (c) B is not an authorised participant.
+>
+> (2) Paragraph 5(2) to (5) applies to the transaction mentioned in sub-paragraph (1)(a).
+>
+> (3) The connected transaction is void.
+>
+> (4) Sub-paragraph (5) applies if (but only if) A is unable to recover from the permitted participant the whole of the money mentioned in paragraph 5(3)(a) (as applied by sub-paragraph (2) above), along with such interest as is there mentioned.
+>
+> (5) Despite sub-paragraph (3), A is entitled to recover from B any part of that money (and such interest) that is not recovered from the permitted participant.
+>
+> (6) Sub-paragraph (5) does not entitle A to recover more than the contingent liability under the security provided by virtue of the connected transaction.
+>
+> (7) In the case of a connected transaction where B—
+>
+> (a) at the time A enters into the transaction, is an authorised participant, but
+>
+> (b) subsequently, for whatever reason, ceases to be an authorised participant,
+>
+> sub-paragraphs (2) to (6) apply with effect from the time when B ceased to be an authorised participant.
+>
+> (8) If the transaction mentioned in paragraph 2(3)(a) is not a regulated transaction of a description mentioned in paragraph 2(1) or (2), references in this paragraph and paragraph 5(2) to (5) (as applied by sub-paragraph (2) above) to the repayment or recovery of money are to be construed as references to (as the case may be)—
+>
+> (a) the return or recovery of any property provided under the transaction,
+>
+> (b) to the extent that such property is incapable of being returned or recovered or its market value has diminished since the time the transaction was entered into, the repayment or recovery of the market value at that time, or
+>
+> (c) the market value (at that time) of any facilities or services provided under the transaction.
+>
+> **Transfer to unauthorised participant invalid**
+>
+> **7** If an authorised participant purports to transfer the participant's interest in a regulated transaction to a person who is not an authorised participant the purported transfer is of no effect.
+>
+> **Offences**
+>
+> **8** (1) An individual who is a permitted participant commits an offence if—
+>
+> (a) the individual enters into a regulated transaction of a description mentioned in paragraph 2(1) or (2) to which another party is not an authorised participant, and
+>
+> (b) the individual knew or ought reasonably to have known of the matters mentioned in paragraph (a).
+>
+> (2) A permitted participant that is not an individual commits an offence if—
+>
+> (a) it enters into a regulated transaction of a description mentioned in paragraph 2(1) or (2) to which another party is not an authorised participant, and
+>
+> (b) an officer of the permitted participant knew or ought reasonably to have known of the matters mentioned in paragraph (a).
+>
+> (3) A person who is the responsible person in relation to a permitted participant that is not an individual commits an offence if—
+>
+> (a) the permitted participant enters into a regulated transaction of a description mentioned in paragraph 2(1) or (2) to which another party is not an authorised participant, and
+>
+> (b) the person knew or ought reasonably to have known of the matters mentioned in paragraph (a).
+>
+> (4) An individual who is a permitted participant commits an offence if—
+>
+> (a) the individual enters into a regulated transaction of a description mentioned in paragraph 2(1) or (2) to which another party is not an authorised participant,
+>
+> (b) the individual neither knew nor ought reasonably to have known that the other party is not an authorised participant, and
+>
+> (c) as soon as practicable after knowledge of the matters mentioned in paragraph (a) comes to the individual he fails to take all reasonable steps to repay any money which the individual has received by virtue of the transaction.
+>
+> (5) A permitted participant that is not an individual commits an offence if—
+>
+> (a) it enters into a regulated transaction of a description mentioned in paragraph 2(1) or (2) to which another party is not an authorised participant,
+>
+> (b) no officer of the permitted participant knew or ought reasonably to have known that the other party is not an authorised participant, and
+>
+> (c) as soon as practicable after knowledge of the matters mentioned in paragraph (a) comes to the responsible person he fails to take all reasonable steps to repay any money which the permitted participant has received by virtue of the transaction.
+>
+> (6) A person who is the responsible person in relation to a permitted participant that is not an individual commits an offence if—
+>
+> (a) the permitted participant enters into a regulated transaction of a description mentioned in paragraph 2(1) or (2) to which another party is not an authorised participant,
+>
+> (b) sub-paragraph (3)(b) does not apply to the person, and
+>
+> (c) as soon as practicable after knowledge of the matters mentioned in paragraph (a) comes to the person he fails to take all reasonable steps to repay any money which the permitted participant has received by virtue of the transaction.
+>
+> (7) An individual who is a permitted participant commits an offence if—
+>
+> (a) the individual benefits from or falls to benefit in consequence of a connected transaction to which any of the parties is not an authorised participant, and
+>
+> (b) the individual knew or ought reasonably to have known of the matters mentioned in paragraph (a).
+>
+> (8) A permitted participant that is not an individual commits an offence if—
+>
+> (a) it benefits from or falls to benefit in consequence of a connected transaction to which any of the parties is not an authorised participant, and
+>
+> (b) an officer of the permitted participant knew or ought reasonably to have known of the matters mentioned in paragraph (a).
+>
+> (9) A person who is the responsible person in relation to a permitted participant that is not an individual commits an offence if—
+>
+> (a) the permitted participant benefits from or falls to benefit in consequence of a connected transaction to which any of the parties is not an authorised participant, and
+>
+> (b) the person knew or ought reasonably to have known of the matters mentioned in paragraph (a).
+>
+> (10) An individual who is a permitted participant commits an offence if—
+>
+> (a) the individual is a party to a transaction of a description mentioned in paragraph 2(3)(a),
+>
+> (b) the individual benefits from or falls to benefit in consequence of a connected transaction to which any of the parties is not an authorised participant,
+>
+> (c) the individual neither knew nor ought reasonably to have known of the matters mentioned in paragraphs (a) and (b), and
+>
+> (d) as soon as practicable after knowledge of the matters mentioned in paragraphs (a) and (b) comes to the individual he fails to take all reasonable steps to pay to any person who has provided the individual with any benefit in consequence of the connected transaction the value of the benefit.
+>
+> (11) A permitted participant that is not an individual commits an offence if—
+>
+> (a) it is a party to a transaction of a description mentioned in paragraph 2(3)(a),
+>
+> (b) it benefits from or falls to benefit in consequence of a connected transaction to which any of the parties is not an authorised participant,
+>
+> (c) no officer of the permitted participant knew or ought reasonably to have known of the matters mentioned in paragraphs (a) and (b), and
+>
+> (d) as soon as practicable after knowledge of the matters mentioned in paragraphs (a) and (b) comes to the responsible person he fails to take all reasonable steps to pay to any person who has provided the permitted participant with any benefit in consequence of the connected transaction the value of the benefit.
+>
+> (12) A person who is the responsible person in relation to a permitted participant that is not an individual commits an offence if—
+>
+> (a) the permitted participant is a party to a transaction of a description mentioned in paragraph 2(3)(a),
+>
+> (b) the permitted participant benefits from or falls to benefit in consequence of a connected transaction to which any of the parties is not an authorised participant,
+>
+> (c) sub-paragraph (9)(b) does not apply to the person, and
+>
+> (d) as soon as practicable after knowledge of the matters mentioned in paragraphs (a) and (b) comes to the person he fails to take all reasonable steps to pay to any person who has provided the permitted participant with any benefit in consequence of the connected transaction the value of the benefit.
+>
+> (13) A person commits an offence if the person—
+>
+> (a) knowingly enters into, or
+>
+> (b) knowingly does any act in furtherance of,
+>
+> any arrangement which facilitates or is likely to facilitate, whether by means of concealment or disguise or otherwise, the participation by a permitted participant in a regulated transaction with a person other than an authorised participant.
+>
+> (14) It is a defence for a person charged with an offence under sub-paragraph (3) to prove that the person took all reasonable steps to prevent the permitted participant entering into the transaction.
+>
+> (15) It is a defence for a person charged with an offence under sub-paragraph (9) to prove that the person took all reasonable steps to prevent the permitted participant benefiting in consequence of the connected transaction.
+>
+> (16) A reference to a permitted participant entering into a regulated transaction includes a reference to any circumstances in which the terms of a regulated transaction are varied so as to increase the amount of money to which the permitted participant is entitled in consequence of the transaction.
+>
+> (17) A reference to a permitted participant entering into a transaction to which another party is not an authorised participant includes a reference to any circumstances in which another party to the transaction who is an authorised participant ceases (for whatever reason) to be an authorised participant.
+>
+> **Penalties**
+>
+> **9** (1) A person guilty of an offence under sub-paragraph (1), (2), (4), (7), (8) or (10) of paragraph 8 is liable—
+>
+> (a) on summary conviction, to a fine not exceeding the statutory maximum;
+>
+> (b) on conviction on indictment, to a fine.
+>
+> (2) A person guilty of an offence under sub-paragraph (3), (5), (6), (9), (11), (12) or (13) of paragraph 8 is liable—
+>
+> (a) on summary conviction, to imprisonment for a term not exceeding 12 months or to a fine not exceeding the statutory maximum;
+>
+> (b) on conviction on indictment, to imprisonment for a term not exceeding 12 months or to a fine.
+>
+> (3) In the application of sub-paragraph (2)(a)—
+>
+> (a) in England and Wales, in relation to an offence committed before the commencement of section 154(1) of the Criminal Justice Act 2003, or
+>
+> (b) in Northern Ireland,
+>
+> the reference to 12 months is to be read as a reference to 6 months.
+>
+> **PART 3 — Reporting of regulated transactions**
+>
+> **Statement of regulated transactions**
+>
+> **10** (1) The responsible person in relation to a permitted participant must include in any return required to be prepared under section 120 a statement of regulated transactions entered into by the permitted participant.
+>
+> (2) The statement must comply with paragraphs 11 to 15.
+>
+> (3) For the purposes of those paragraphs a regulated transaction is a recordable transaction—
+>
+> (a) if the value of the transaction is more than £7,500, or
+>
+> (b) if the aggregate value of it and any other relevant benefit or benefits is more than that amount.
+>
+> In paragraph (b) “relevant benefit” means any relevant donation (within the meaning of Schedule 15) or regulated transaction made by, or entered into with, the person with whom the regulated transaction was entered into.
+>
+> **Identity of authorised participants**
+>
+> **11** The statement must record, in relation to each recordable transaction to which an authorised participant was a party, the information about the authorised participant which is, in connection with transactions entered into by political parties, required to be recorded in transaction reports by virtue of paragraph 2 of Schedule 6A.
+>
+> **Identity of unauthorised participants**
+>
+> **12** The statement must record, in relation to each recordable transaction to which a person other than an authorised participant was a party—
+>
+> (a) the name and address of the person;
+>
+> (b) the date when, and the manner in which, the transaction was dealt with in accordance with sub-paragraphs (3) to (5) of paragraph 5 or those sub-paragraphs as applied by paragraph 5(6) or 6(2).
+>
+> **Details of transaction**
+>
+> **13** (1) The statement must record, in relation to each recordable transaction, the information about the transaction which is, in connection with transactions entered into by political parties, required to be recorded in transaction reports by virtue of paragraph 5(2), (3) and (4) of Schedule 6A (read with any necessary modifications).
+>
+> (2) The statement must record, in relation to each recordable transaction of a description mentioned in paragraph 2(1) or (2) above, the information about the transaction which is, in connection with transactions entered into by political parties, required to be recorded in transaction reports by virtue of paragraph 6 of Schedule 6A.
+>
+> (3) The statement must record, in relation to each recordable transaction of a description mentioned in paragraph 2(3)(a) above, the information about the transaction which is, in connection with transactions entered into by political parties, required to be recorded in transaction reports by virtue of paragraph 7(2)(b), (3) and (4) of Schedule 6A.
+>
+> **Changes**
+>
+> **14** (1) Where another authorised participant has become a party to a regulated transaction (whether in place of or in addition to any existing participant), or there has been any other change in any of the information that is required by paragraphs 11 to 13 to be included in the statement, the statement must record—
+>
+> (a) the information as it was both before and after the change;
+>
+> (b) the date of the change.
+>
+> (2) Where a recordable transaction has come to an end, the statement must—
+>
+> (a) record that fact;
+>
+> (b) record the date when it happened;
+>
+> (c) in the case of a loan, state how the loan has come to an end.
+>
+> (3) For the purposes of sub-paragraph (2), a loan comes to an end if—
+>
+> (a) the whole debt (or all the remaining debt) is repaid;
+>
+> (b) the creditor releases the whole debt.
+>
+> **Total value of non-recordable transactions**
+>
+> **15** The statement must record the total value of any regulated transactions that are not recordable transactions.
+>
+> **PART 4 — Supplemental**
+>
+> **Non-disclosure with intent to conceal**
+>
+> **16** (1) This paragraph applies where, on an application made by the Commission, the court is satisfied that any failure to comply with a requirement of Part 3 of this Schedule in relation to—
+>
+> (a) any transaction entered into by the permitted participant, or
+>
+> (b) any change made to a transaction to which the permitted participant is a party,
+>
+> was attributable to an intention on the part of any person to conceal the existence or true value of the transaction.
+>
+> (2) The court may make such order as it thinks fit to restore (so far as is possible) the parties to the transaction to the position they would have been in if the transaction had not been entered into.
+>
+> (3) An order under this paragraph may in particular—
+>
+> (a) where the transaction is a loan or credit facility, require that any amount owed by the permitted participant be repaid (and that no further sums be advanced under it);
+>
+> (b) where any form of security is given for a sum owed under the transaction, or the transaction is an arrangement by which any form of security is given, require that the security be discharged.
+>
+> **Proceedings under paragraphs 5 and 16**
+>
+> **17** (1) This paragraph has effect in relation to proceedings on an application under paragraph 5(4) or 16.
+>
+> (2) The court is—
+>
+> (a) in England and Wales, the county court;
+>
+> (b) in Northern Ireland, the county court.
+>
+> In Scotland, the court is the sheriff and the proceedings are civil proceedings.
+>
+> (3) The standard of proof is that applicable to civil proceedings.
+>
+> (4) An order may be made whether or not proceedings are brought against any person for an offence under paragraph 8 or section 123.
+>
+> (5) An appeal against an order made by the sheriff may be made to the Court of Session.
+>
+> (6) Rules of court in any part of the United Kingdom may make provision—
+>
+> (a) with respect to applications or appeals from proceedings on such applications;
+>
+> (b) for the giving of notice of such applications or appeals to persons affected;
+>
+> (c) for the joinder, or in Scotland sisting, of such persons as parties;
+>
+> (d) generally with respect to procedure in such applications or appeals.
+>
+> (7) Sub-paragraph (6) does not affect any existing power to make rules.
+>
+> **Interpretation**
+>
+> **18** (1) In this Schedule—
+>
+> - “authorised participant” is to be construed in accordance with paragraph 4 (and see paragraph 1(5));
+> - “connected transaction” has the meaning given by paragraph 2(9);
+> - “credit facility” has the meaning given by paragraph 2(11);
+> - “permitted participant” is to be construed in accordance with paragraph 1;
+> - “regulated transaction” is to be construed in accordance with paragraph 2.
+>
+> (2) For the purposes of any provision relating to the reporting of transactions, anything required to be done by a permitted participant in consequence of its being a party to a regulated transaction must also be done by it, if it is a party to a transaction of a description mentioned in paragraph 2(3)(a), as if it were a party to the connected transaction.
+
+## [^F11]SCHEDULE 10 — The alternative vote system: further amendments (prospective)
+
+*Section 9*
+
+### [^F11]PART 1 — Amendments of the parliamentary elections rules (prospective)
+
+**[^F11]1** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F11]2** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F11]3** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F11]4** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F11]5** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F11]6** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F11]7** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F11]8** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F11]9** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F11]10** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F11]11** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F11]12** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F11]PART 2 — Amendments of other provisions of the 1983 Act (prospective)
+
+**[^F11]13** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F11]14** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F11]15** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F11]16** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F11]17** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F11]18** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F11]19** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F11]20** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F11]21** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F11]22** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F11]PART 3 — Amendments of other enactments (prospective)
+
+#### [^F11]Parliamentary Constituencies Act 1986 (prospective)
+
+**[^F11]23** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F11]Political Parties, Elections and Referendums Act 2000 (prospective)
+
+**[^F11]24** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 11 — Public hearings about Boundary Commission proposals
+
+*Section 12*
+
+The Schedule referred to in section 12(2) is as follows—
+
+> **SCHEDULE 2A — Public hearings about Boundary Commission proposals**
+>
+> *Section 5*
+>
+> **Purpose of hearings**
+>
+> **1** The purpose of a public hearing is to enable representations to be made about any of the proposals with which the hearing is concerned.
+>
+> **Number of hearings**
+>
+> **2** (1) In relation to any particular report under section 3(1)(a) of this Act—
+>
+> (a) the Boundary Commission for England shall cause at least two and no more than five public hearings to be held in each English region;
+>
+> (b) the Boundary Commission for Scotland shall cause at least two and no more than five public hearings to be held in Scotland;
+>
+> (c) the Boundary Commission for Wales shall cause at least two and no more than five public hearings to be held in Wales;
+>
+> (d) the Boundary Commission for Northern Ireland shall cause at least two and no more than five public hearings to be held in Northern Ireland.
+>
+> (2) The public hearings in an English region shall be concerned with proposals for that region, and shall between them cover the whole region.
+>
+> (3) The public hearings in Scotland shall be concerned with proposals for Scotland, and shall between them cover the whole of Scotland.
+>
+> (4) The public hearings in Wales shall be concerned with proposals for Wales, and shall between them cover the whole of Wales.
+>
+> (5) The public hearings in Northern Ireland shall be concerned with proposals for Northern Ireland, and shall between them cover the whole of Northern Ireland.
+>
+> **Chair of hearing**
+>
+> **3** For each public hearing the Boundary Commission concerned shall appoint a person to chair the hearing.
+>
+> **Length of hearings**
+>
+> **4** A public hearing shall be completed within two days.
+>
+> **Procedure at hearings**
+>
+> **5** It is for the chair of each public hearing to determine the procedure that is to govern that hearing.
+>
+> **6** The chair shall make arrangements for a public hearing to begin with an explanation of—
+>
+> (a) the proposals with which the hearing is concerned;
+>
+> (b) how written representations about the proposals may be made (as mentioned in section 5(1)(a), (4)(b) or (5)(c) of this Act).
+>
+> **7** (1) The chair of a public hearing must allow representations to be made—
+>
+> (a) by each qualifying party;
+>
+> (b) by any other persons (whether individuals or organisations) considered by the chair to have an interest in any of the proposals with which the hearing is concerned.
+>
+> Paragraph (b) above has effect subject to sub-paragraph (3)(b) below.
+>
+> (2) The chair may restrict the amount of time allowed for representations—
+>
+> (a) by qualifying parties, and
+>
+> (b) by other persons,
+>
+> and need not allow the same amount to each.
+>
+> (3) The chair may determine—
+>
+> (a) the order in which representations are made, and
+>
+> (b) if necessary because of shortage of time, which of those wishing to make representations are not allowed to do so,
+>
+> in whatever way the chair decides.
+>
+> **8** (1) The chair may put questions, or allow questions to be put, to a person present at the hearing.
+>
+> (2) If questions are allowed to be put, the chair may regulate the manner of questioning or restrict the number of questions a person may ask.
+>
+> **Interpretation**
+>
+> **9** In this Schedule—
+>
+> - “the chair” means the person appointed under paragraph 3 above;
+>
+> - “English region” means an electoral region specified in Schedule 1 to the European Parliamentary Elections Act 2002 (ignoring paragraph 2(2) of that Schedule and the references to Gibraltar) as it has effect on the day referred to in rule 5(2) of Schedule 2 to this Act;
+>
+> - “public hearing” means a hearing under section 5(1)(b) of this Act;
+>
+> - “qualifying party” means a party that is registered under Part 2 of the Political Parties, Elections and Referendums Act 2000 and either—
+>
+>   - (a) has at least one Member of the House of Commons representing a constituency in the region, or (as the case may be) the part of the United Kingdom, in which the hearing is held, or
+>   - (b) received at least 10% of the votes cast in that region or part in the most recent parliamentary general election.
+
+## SCHEDULE 12 — Repeals
+
+*Section 16*
+
+### [^F12]PART 1 — Voting system for parliamentary elections (prospective)
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### PART 2 — Parliamentary constituencies
+
+|  |  |
+|---|---|
+| *Short title and chapter* | *Extent of repeal* |
+| Parliamentary Constituencies Act 1986 (c. 56) | In section 3—<br>- (a) in subsection (1)(b), the words “(read with paragraph 7)”;<br>- (b) subsection (3);<br>- (c) in subsection (6), the words “and related provisions”;<br>- (d) subsections (7) and (8). Section 6. Section 8(3). |
+| Boundary Commissions Act 1992 (c. 55) | Section 2(3). Section 3. |
+| Scotland Act 1998 (c. 46) | Section 86. |
+| Local Government (Wales) Act 1994 (c. 19) | In Schedule 2, paragraph 13. In Schedule 16, paragraph 80. |
+| Local Government etc. (Scotland) Act 1994 (c. 39) | In Schedule 13, paragraph 150. |
+| Government of Wales Act 2006 (c. 32) | Section 2(5) and (6). In section 159, in the entry for “Assembly electoral region”, the words “and Schedule 1”. Schedule 1. In Schedule 11, paragraph 1. |
+
+---
+
+[^F1]: S. 9 repealed (8.7.2011) by Parliamentary Voting System and Constituencies Act 2011 (Repeal of Alternative Vote Provisions) Order 2011 (S.I. 2011/1702), arts. 1, 2(a)
+[^F2]: S. 10(3) omitted (14.12.2020) by virtue of Parliamentary Constituencies Act 2020 (c. 25), s. 14(2), Sch. para. 9(a) (with s. 13(2))
+[^F3]: S. 10(6) omitted (14.12.2020) by virtue of Parliamentary Constituencies Act 2020 (c. 25), s. 14(2), Sch. para. 9(a) (with s. 13(2))
+[^F4]: S. 10(8) omitted (14.12.2020) by virtue of Parliamentary Constituencies Act 2020 (c. 25), s. 14(2), Sch. para. 9(a) (with s. 13(2))
+[^F5]: S. 10(11) omitted (14.12.2020) by virtue of Parliamentary Constituencies Act 2020 (c. 25), s. 14(2), Sch. para. 9(b) (with s. 13(2))
+[^F6]: S. 11(2) omitted (14.12.2020) by virtue of Parliamentary Constituencies Act 2020 (c. 25), s. 14(2), Sch. para. 9(c) (with s. 13(2))
+[^F7]: S. 13(1) omitted (24.8.2024) by virtue of Senedd Cymru (Members and Elections) Act 2024 (asc 4), ss. 2(2)(a), 25(2)(a) (with s. 24(1))
+[^F8]: S. 13(2)(a) omitted (24.8.2024) by virtue of Senedd Cymru (Members and Elections) Act 2024 (asc 4), ss. 2(2)(b), 25(2)(a) (with s. 24(1))
+[^F9]: S. 13(3)-(8) omitted (14.12.2020) by virtue of Parliamentary Constituencies Act 2020 (c. 25), s. 14(2), Sch. para. 9(d) (with s. 13(2))
+[^F10]: S. 14 omitted (retrospective to 31.5.2020) by virtue of Parliamentary Constituencies Act 2020 (c. 25), s. 11(1)(2) (with s. 13(2))
+[^F11]: Sch. 10 repealed (8.7.2011) by Parliamentary Voting System and Constituencies Act 2011 (Repeal of Alternative Vote Provisions) Order 2011 (S.I. 2011/1702), arts. 1, 2(b)
+[^F12]: Sch. 12 Pt. 1 repealed (8.7.2011) by Parliamentary Voting System and Constituencies Act 2011 (Repeal of Alternative Vote Provisions) Order 2011 (S.I. 2011/1702), arts. 1, 2(c)
